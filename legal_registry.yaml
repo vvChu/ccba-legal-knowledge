@@ -1,0 +1,12 @@
+documents:
+- bundle_path: legal_docs/REGULATION_QCVN/qcvn_04_2021_bxd
+  category: REGULATION_QCVN
+  id: QCVN-04-2021-BXD
+  title: QCVN 04:2021/BXD — Quy chuẩn kỹ thuật quốc gia về Nhà chung cư
+- bundle_path: legal_docs/REGULATION_QCVN/qcvn_06_2022_bxd
+  category: REGULATION_QCVN
+  id: QCVN-06-2022-BXD
+  title: QCVN 06:2022/BXD — Quy chuẩn kỹ thuật quốc gia về An toàn cháy cho nhà và
+    công trình
+updated_at: '2026-07-26'
+version: 2.0.0
