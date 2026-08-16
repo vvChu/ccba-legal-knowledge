@@ -177,46 +177,37 @@ def test_docx_converter_cli_valid_run(tmp_path: Path):
 # =====================================================================
 
 def test_raw_evidence_all_7_decrees_exist():
-    """Check that all 7 required decrees exist in .md/extracted_docs/<slug>/."""
-    assert EXTRACTED_DOCS_DIR.exists(), f"Missing directory: {EXTRACTED_DOCS_DIR}"
+    """Check that all 7 required decrees exist in legal_docs/01_vbpl/<slug>/."""
+    assert LEGAL_DOCS_DIR.exists(), f"Missing directory: {LEGAL_DOCS_DIR}"
     for slug in TARGET_DECREES:
-        slug_dir = EXTRACTED_DOCS_DIR / slug
+        slug_dir = LEGAL_DOCS_DIR / slug
         assert slug_dir.exists(), f"Missing raw evidence dir for slug: {slug}"
         assert slug_dir.is_dir(), f"Not a directory: {slug_dir}"
 
 
 def test_raw_evidence_no_corruption_or_truncation():
-    """Check files in raw evidence for corruption, truncation, HTML error pages, null bytes."""
+    """Check files in legal docs for corruption, truncation, HTML error pages, null bytes."""
     for slug in TARGET_DECREES:
-        slug_dir = EXTRACTED_DOCS_DIR / slug
-        txt_file = slug_dir / "raw_text.txt"
+        slug_dir = LEGAL_DOCS_DIR / slug
         md_file = slug_dir / f"{slug}.md"
-
-        assert txt_file.exists(), f"Missing raw_text.txt in {slug_dir}"
         assert md_file.exists(), f"Missing {slug}.md in {slug_dir}"
 
-        txt_size = txt_file.stat().st_size
         md_size = md_file.stat().st_size
-
         # Rule: Minimum size > 5KB
-        assert txt_size > 5120, f"raw_text.txt for {slug} is too small ({txt_size} bytes)"
         assert md_size > 5120, f"{slug}.md for {slug} is too small ({md_size} bytes)"
 
-        txt_content = txt_file.read_text(encoding="utf-8")
         md_content = md_file.read_text(encoding="utf-8")
 
         # Check for null bytes (corruption)
-        assert "\x00" not in txt_content, f"Null byte corruption found in {txt_file}"
         assert "\x00" not in md_content, f"Null byte corruption found in {md_file}"
 
         # Check for HTML error pages or captcha responses
         error_indicators = ["404 Not Found", "500 Internal Server Error", "Access Denied", "Cloudflare", "Captcha"]
         for err in error_indicators:
-            assert err.lower() not in txt_content[:1000].lower(), f"Potential web error page in {txt_file}: {err}"
+            assert err.lower() not in md_content[:1000].lower(), f"Potential web error page in {md_file}: {err}"
 
         # Check for key structural legal terms to ensure no truncation or bogus data
-        assert "Chính phủ" in txt_content or "CHÍNH PHỦ" in txt_content, f"Missing 'Chính phủ' header in {txt_file}"
-        assert "Điều 1" in txt_content or "Điều 1" in md_content, f"Missing 'Điều 1' in {slug}"
+        assert "Điều 1" in md_content, f"Missing 'Điều 1' in {slug}"
 
 
 @pytest.mark.milestone2

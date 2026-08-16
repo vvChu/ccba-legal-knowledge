@@ -14,7 +14,7 @@ TARGET_DECREES = [
 ]
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
-EXTRACTED_DOCS_DIR = ROOT_DIR / ".md" / "extracted_docs"
+EXTRACTED_DOCS_DIR = ROOT_DIR / "legal_docs" / "01_vbpl"
 
 
 def test_raw_evidence_directories_exist():
