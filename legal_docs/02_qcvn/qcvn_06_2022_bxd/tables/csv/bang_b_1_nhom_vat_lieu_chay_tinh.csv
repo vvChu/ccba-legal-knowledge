@@ -1,0 +1,6 @@
+﻿Nhóm cháy của vật liệu,Các thông số cháy,Các thông số cháy,Các thông số cháy,Các thông số cháy
+Nhóm cháy của vật liệu,"Nhiệt độ khí trong ống thoát khói, T,°C","Mức độ hư hỏng làm giảm chiều dài mẫu, L, %","Mức độ hư hỏng làm giảm khối lượng mẫu, m, %","Khoảng thời gian tự cháy, s"
+Ch1 - cháy yếu,≤ 135,≤ 65,≤ 20,0
+Ch2 - cháy vừa phải,≤ 235,≤ 85,≤ 50,≤ 30
+Ch3 - cháy mạnh vừa,≤ 450,> 85,≤ 50,≤ 300
+Ch4 - cháy mạnh,> 450,> 85,> 50,> 300

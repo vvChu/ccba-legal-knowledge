@@ -1,0 +1,16 @@
+{
+  "table_id": "bang_3_4_dinh_muc_chi_phi_tinh",
+  "title": "Bảng 3.4 - ĐỊNH MỨC CHI PHÍ CHUNG TÍNH TRÊN CHI PHÍ NHÂN CÔNG",
+  "headers": [
+    "Đơn vị tính: %* | __STT__ | __Nội dung__ | Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)* | __≤ 15__ | __≤50__ | __≤100__ | __>100__ | \\[1\\] | \\[2\\] | \\[3\\] | \\[4\\] | \\[5\\] | \\[6\\]",
+    "--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---"
+  ],
+  "rows": [
+    {
+      "Đơn vị tính: %* | __STT__ | __Nội dung__ | Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)* | __≤ 15__ | __≤50__ | __≤100__ | __>100__ | \\[1\\] | \\[2\\] | \\[3\\] | \\[4\\] | \\[5\\] | \\[6\\]": "1 | Bảo dưỡng đường bộ, đường sắt, hệ thống báo hiệu hàng hải | 66 | 63 | 60 | 56 | 2 | Công trình nông nghiệp và môi trường thực hiện hoàn toàn bằng thủ công | 51 | 48 | 45 | 42 | 3 | Lắp đặt thiết bị công nghệ trong các công trình xây dựng; xây lắp đường dây tải điện và trạm biến áp; thí nghiệm hiệu chỉnh điện đường dây và trạm biến áp.",
+      "--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---": "65 | 62 | 59 | 55 | 3.1.4. Đối với các công trình xây dựng tại vùng núi, biên giới, trên biển và hải đảo thì định mức tỷ lệ chi phí chung quy định tại Bảng 3.2, Bảng 3.3 và Bảng 3.4 Phụ lục này được điều chỉnh với hệ số 1,1. | 3.1.5. Trường hợp xác định bằng định mức theo quy định tại tiết 3.1.1, tiết 3.1.2, tiết 3.1.3 Phụ lục này không phù hợp, được xác định bằng dự toán trên cơ sở nội dung chi phí chung quy định tại khoản 3 Phụ lục này. | __*3.2. Chi phí một số công việc không xác định được khối lượng từ thiết kế*__ | 3.2.1. Chi phí một số công việc không xác định được khối lượng từ thiết kế được xác định bằng tỷ lệ phần trăm (%) tại Bảng 3.5 nhân với chi phí trực tiếp trong dự toán xây dựng."
+    }
+  ],
+  "total_rows": 1,
+  "footnotes": []
+}

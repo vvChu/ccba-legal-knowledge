@@ -1,9 +1,0 @@
-agents:
-  language: vi
-  primary_domain: legal-compliance
-project:
-  hub_path: D:/GitHubProjects/ccba-agent-platform
-  is_hub: false
-  mode: delivery
-  name: ccba-legal-knowledge
-  type: knowledge-spoke

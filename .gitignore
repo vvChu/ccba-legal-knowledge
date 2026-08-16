@@ -1,0 +1,43 @@
+# System / IDE
+.env
+.vscode/
+.idea/
+*.log
+
+# Python / Node.js build
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# CCBA Agent Platform - Whitelist selected configs (skills is local only and git-ignored)
+.agents/*
+!.agents/workflows/
+!.agents/proposals/
+!.agents/AGENTS.md
+.agents/**/*.log
+.agents/**/*.json
+.agents/**/*.env
+.agents/**/__pycache__/
+.agents/**/*.pyc
+
+# Processing Workspace (.md/)
+# Temp files during processing are ignored, but structure is tracked
+.md/**/*.pdf
+.md/**/*.docx
+.md/**/*.xlsx
+.md/**/*.pptx
+.md/**/*.txt
+!.md/**/raw_transcript.txt
+.md/extracted_docs/*
+!.md/extracted_docs/.gitkeep
+.md/**/images/*.webp
+.md/**/images/*.jpg
+.md/**/images/*.png
+
+# Ignore all specific project outputs (OneDrive/SharePoint synced)
+.md/projects/*
+!.md/projects/.gitkeep

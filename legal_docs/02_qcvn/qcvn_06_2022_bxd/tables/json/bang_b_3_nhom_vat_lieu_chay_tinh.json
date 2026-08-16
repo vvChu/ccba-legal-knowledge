@@ -1,0 +1,30 @@
+{
+  "table_id": "bang_b_3_nhom_vat_lieu_chay_tinh",
+  "title": "Bảng B.3 - Nhóm vật liệu cháy theo tính lan truyền lửa trên bề mặt",
+  "headers": [
+    "Nhóm lan truyền lửa trên bề mặt của vật liệu",
+    "Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2"
+  ],
+  "rows": [
+    {
+      "Nhóm lan truyền lửa trên bề mặt của vật liệu": "LT1 - không lan truyền",
+      "Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2": "≥ 11"
+    },
+    {
+      "Nhóm lan truyền lửa trên bề mặt của vật liệu": "LT2 - lan truyền yếu",
+      "Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2": "≥ 8 và < 11"
+    },
+    {
+      "Nhóm lan truyền lửa trên bề mặt của vật liệu": "LT3 - lan truyền vừa phải",
+      "Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2": "≥ 5 và < 8"
+    },
+    {
+      "Nhóm lan truyền lửa trên bề mặt của vật liệu": "LT4 - lan truyền mạnh",
+      "Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2": "< 5"
+    }
+  ],
+  "total_rows": 4,
+  "footnotes": [
+    "CHÚ THÍCH: Các thông số thử nghiệm được xác định theo ISO 5658-2, ISO 9239 hoặc tiêu chuẩn tương đương"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_14_kich_thuoc_bai_do_xe",
+  "title": "Bảng 14 - Kích thước bãi đỗ xe chữa cháy",
+  "headers": [
+    "Nhóm nguy hiểm cháy theo công năng của nhà / Chỉ tiêu kích thước bãi đỗ",
+    "Kích thước bãi đỗ xe chữa cháy, m, tương ứng theo chiều cao PCCC của nhà, m",
+    "Kích thước bãi đỗ xe chữa cháy, m, tương ứng theo chiều cao PCCC của nhà, m",
+    "Kích thước bãi đỗ xe chữa cháy, m, tương ứng theo chiều cao PCCC của nhà, m"
+  ],
+  "rows": [
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà / Chỉ tiêu kích thước bãi đỗ": "",
+      "Kích thước bãi đỗ xe chữa cháy, m, tương ứng theo chiều cao PCCC của nhà, m": "> 28"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà / Chỉ tiêu kích thước bãi đỗ": "1. Nhà nhóm F1.3",
+      "Kích thước bãi đỗ xe chữa cháy, m, tương ứng theo chiều cao PCCC của nhà, m": ""
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà / Chỉ tiêu kích thước bãi đỗ": "a) Chiều rộng của bãi đỗ xe chữa cháy",
+      "Kích thước bãi đỗ xe chữa cháy, m, tương ứng theo chiều cao PCCC của nhà, m": "≥ 6"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà / Chỉ tiêu kích thước bãi đỗ": "b) Chiều dài của bãi đỗ xe chữa cháy",
+      "Kích thước bãi đỗ xe chữa cháy, m, tương ứng theo chiều cao PCCC của nhà, m": "≥ 15"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà / Chỉ tiêu kích thước bãi đỗ": "2. Các nhóm nhà còn lại",
+      "Kích thước bãi đỗ xe chữa cháy, m, tương ứng theo chiều cao PCCC của nhà, m": ""
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà / Chỉ tiêu kích thước bãi đỗ": "a) Chiều rộng của bãi đỗ xe chữa cháy",
+      "Kích thước bãi đỗ xe chữa cháy, m, tương ứng theo chiều cao PCCC của nhà, m": "≥ 6"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà / Chỉ tiêu kích thước bãi đỗ": "b) Chiều dài của bãi đỗ xe chữa cháy",
+      "Kích thước bãi đỗ xe chữa cháy, m, tương ứng theo chiều cao PCCC của nhà, m": "Theo Bảng 15 và Bảng 16"
+    }
+  ],
+  "total_rows": 7,
+  "footnotes": [
+    "1) Không yêu cầu có bãi đỗ xe chữa cháy đối vốn nhà có số người sử dụng trên mỗi tầng, tính theo Bảng G 9 (Phụ lục G), không vượt quá 50 người và khoảng cách từ đường cho xe chữa cháy đến họng tiếp nước vào nhà không được lớn hơn 18 m."
+  ]
+}

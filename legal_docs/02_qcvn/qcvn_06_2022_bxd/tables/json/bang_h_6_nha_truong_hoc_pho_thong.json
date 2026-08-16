@@ -1,0 +1,81 @@
+{
+  "table_id": "bang_h_6_nha_truong_hoc_pho_thong",
+  "title": "Bảng H.6 - Nhà của trường học phổ thông (nhóm F4.1) và nhà ngủ của các trường nội trú (nhóm F1.1)",
+  "headers": [
+    "Bậc chịu lửa của nhà",
+    "Cấp nguy hiểm cháy kết cấu của nhà",
+    "Chiều cao PCCC lớn nhất cho phép của nhà, m",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)"
+  ],
+  "rows": [
+    {
+      "Bậc chịu lửa của nhà": "Bậc chịu lửa của nhà",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "Cấp nguy hiểm cháy kết cấu của nhà",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "Chiều cao PCCC lớn nhất cho phép của nhà, m",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "10 đến 16"
+    },
+    {
+      "Bậc chịu lửa của nhà": "I",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "50",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "2 500"
+    },
+    {
+      "Bậc chịu lửa của nhà": "II",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "50",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "2 200"
+    },
+    {
+      "Bậc chịu lửa của nhà": "II",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "28",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "III",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "15",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "III",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "12",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "9",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "6",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S2, S3",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "6",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "V",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1, S2, S3",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "6",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
+    }
+  ],
+  "total_rows": 10,
+  "footnotes": [
+    "CHÚ THÍCH 1: Bảng này được áp dụng cho các loại nhà công cộng được đề cập trong H.2.1, trừ khi có quy định khác nêu tại H.2.2 đến H.2.12. CHÚ THÍCH 2: Dấu “-” trong bảng có nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng. CHÚ THÍCH 3: Trong nhà có bậc chịu lửa IV với chiều cao 2 tầng thì kết cấu chịu lực của nhà phải có giới hạn chịu lửa không thấp hơn R 45. CHÚ THÍCH 4: Quy định về số tầng (chiều cao PCCC cho phép), diện tích khoang cháy của các nhà công cộng có chiều cao PCCC từ trên 50 m đến 150 m được quy định tại Phụ lục A."
+  ]
+}

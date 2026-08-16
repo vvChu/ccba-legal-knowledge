@@ -1,0 +1,94 @@
+{
+  "table_id": "bang_h_11_nha_kho",
+  "title": "Bảng H.11 - Nhà kho",
+  "headers": [
+    "Nhóm nguy hiểm cháy theo công năng của nhà, công trình",
+    "Bậc chịu lửa",
+    "Cấp nguy hiểm cháy kết cấu",
+    "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kề tầng kỹ thuật trên cùng)",
+    "Sức chứa của gian phòng hoặc công trình, chỗ"
+  ],
+  "rows": [
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình": "F2.1",
+      "Bậc chịu lửa": "I",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kề tầng kỹ thuật trên cùng)": "50",
+      "Sức chứa của gian phòng hoặc công trình, chỗ": "Không hạn chế"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình": "F2.1",
+      "Bậc chịu lửa": "II",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kề tầng kỹ thuật trên cùng)": "9 (3)",
+      "Sức chứa của gian phòng hoặc công trình, chỗ": "≤ 800"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình": "F2.1",
+      "Bậc chịu lửa": "II",
+      "Cấp nguy hiểm cháy kết cấu": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kề tầng kỹ thuật trên cùng)": "6 (2)",
+      "Sức chứa của gian phòng hoặc công trình, chỗ": "≤ 600"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình": "F2.1",
+      "Bậc chịu lửa": "III",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kề tầng kỹ thuật trên cùng)": "3 (1)",
+      "Sức chứa của gian phòng hoặc công trình, chỗ": "≤ 400"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình": "F2.1",
+      "Bậc chịu lửa": "IV, V",
+      "Cấp nguy hiểm cháy kết cấu": "S0, S1, S2, S3",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kề tầng kỹ thuật trên cùng)": "3 (1)",
+      "Sức chứa của gian phòng hoặc công trình, chỗ": "≤ 300"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình": "F2.2",
+      "Bậc chịu lửa": "I",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kề tầng kỹ thuật trên cùng)": "50",
+      "Sức chứa của gian phòng hoặc công trình, chỗ": "Không hạn chế"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình": "F2.2",
+      "Bậc chịu lửa": "II",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kề tầng kỹ thuật trên cùng)": "50",
+      "Sức chứa của gian phòng hoặc công trình, chỗ": "≤ 800"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình": "F2.2",
+      "Bậc chịu lửa": "II",
+      "Cấp nguy hiểm cháy kết cấu": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kề tầng kỹ thuật trên cùng)": "28",
+      "Sức chứa của gian phòng hoặc công trình, chỗ": "≤ 600"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình": "F2.2",
+      "Bậc chịu lửa": "III",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kề tầng kỹ thuật trên cùng)": "9 (3)",
+      "Sức chứa của gian phòng hoặc công trình, chỗ": "≤ 400"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình": "F2.2",
+      "Bậc chịu lửa": "III",
+      "Cấp nguy hiểm cháy kết cấu": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kề tầng kỹ thuật trên cùng)": "6 (2)",
+      "Sức chứa của gian phòng hoặc công trình, chỗ": "≤ 300"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình": "F2.2",
+      "Bậc chịu lửa": "IV, V",
+      "Cấp nguy hiểm cháy kết cấu": "S0, S1, S2, S3",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kề tầng kỹ thuật trên cùng)": "3 (1)",
+      "Sức chứa của gian phòng hoặc công trình, chỗ": "≤ 300"
+    }
+  ],
+  "total_rows": 11,
+  "footnotes": [
+    "CHÚ THÍCH 1: Trong các nhà nhóm F2.1 chiều cao lớn nhất được phép bố trí gian phòng, được xác định bởi cao độ của tầng tại vị trí hàng ghế đầu tiên, không được vượt quá 9 m đối với các gian có sức chứa trên 600 chỗ. Trong các nhà có bậc chịu lửa I và cáp nguy hiểm cháy kết cấu S0 cho phép bố trí các gian có sức chứa đến 300 chỗ ở chiều cao lớn hơn 28 m. CHÚ THÍCH 2: Trong các nhà nhóm F 2.2, không được bố trí các sàn nhảy có sức chứa lớn hơn 400 người cũng như các gian phòng có công năng khác với sức chứa lớn hơn 600 người ở chiều cao PCCC của tầng tương ứng lớn hơn 9 m Trong nhà có bậc chịu lửa I và cấp nguy hiểm cháy kết cấu S0, cho phép bố trí các gian sức chứa đến 300 chỗ ở chiều cao lớn hơn 28 m, nhưng phải tuân thủ yêu cầu tại A.2.4. CHÚ THÍCH 3: Khi kết hợp rạp chiếu phim hoạt động quanh năm với rạp chiếu phim hoạt động mùa vụ với bậc chịu lửa khác nhau thì các rạp này phải được ngăn cách với nhau bằng tường ngăn cháy loại 2."
+  ]
+}

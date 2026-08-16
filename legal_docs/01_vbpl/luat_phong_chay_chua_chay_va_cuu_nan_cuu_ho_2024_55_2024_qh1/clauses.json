@@ -1,0 +1,1808 @@
+[
+  {
+    "clause_id": "dieu-1",
+    "anchor": "dieu-1",
+    "title": "Điều 1. Phạm vi điều chỉnh",
+    "line_start": 55,
+    "line_end": 55
+  },
+  {
+    "clause_id": "dieu-2",
+    "anchor": "dieu-2",
+    "title": "Điều 2. Giải thích từ ngữ",
+    "line_start": 69,
+    "line_end": 69
+  },
+  {
+    "clause_id": "dieu-2-khoan-1",
+    "anchor": "dieu-2-khoan-1",
+    "title": "1. Cháy",
+    "line_start": 75,
+    "line_end": 75
+  },
+  {
+    "clause_id": "dieu-2-khoan-2",
+    "anchor": "dieu-2-khoan-2",
+    "title": "2. Phòng cháy",
+    "line_start": 81,
+    "line_end": 81
+  },
+  {
+    "clause_id": "dieu-2-khoan-3",
+    "anchor": "dieu-2-khoan-3",
+    "title": "3. Chữa cháy là",
+    "line_start": 87,
+    "line_end": 87
+  },
+  {
+    "clause_id": "dieu-2-khoan-4",
+    "anchor": "dieu-2-khoan-4",
+    "title": "4. Tai nạn, sự cố",
+    "line_start": 92,
+    "line_end": 92
+  },
+  {
+    "clause_id": "dieu-2-khoan-5",
+    "anchor": "dieu-2-khoan-5",
+    "title": "5. Cứu nạn là",
+    "line_start": 98,
+    "line_end": 98
+  },
+  {
+    "clause_id": "dieu-2-khoan-6",
+    "anchor": "dieu-2-khoan-6",
+    "title": "6. Cứu hộ là hoạt",
+    "line_start": 103,
+    "line_end": 103
+  },
+  {
+    "clause_id": "dieu-2-khoan-7",
+    "anchor": "dieu-2-khoan-7",
+    "title": "7. Cơ sở thuộc diện quản",
+    "line_start": 108,
+    "line_end": 108
+  },
+  {
+    "clause_id": "dieu-2-khoan-8",
+    "anchor": "dieu-2-khoan-8",
+    "title": "8. Cơ sở có nguy hiểm về cháy, nổ là cơ sở có nguy cơ cháy, nổ cao thuộc danh mục do Chính phủ",
+    "line_start": 117,
+    "line_end": 117
+  },
+  {
+    "clause_id": "dieu-2-khoan-9",
+    "anchor": "dieu-2-khoan-9",
+    "title": "9. Hàng hóa nguy hiểm",
+    "line_start": 121,
+    "line_end": 121
+  },
+  {
+    "clause_id": "dieu-2-khoan-10",
+    "anchor": "dieu-2-khoan-10",
+    "title": "10. Phương tiện",
+    "line_start": 128,
+    "line_end": 128
+  },
+  {
+    "clause_id": "dieu-2-khoan-11",
+    "anchor": "dieu-2-khoan-11",
+    "title": "11. Người đứng đầu",
+    "line_start": 137,
+    "line_end": 137
+  },
+  {
+    "clause_id": "dieu-2-khoan-12",
+    "anchor": "dieu-2-khoan-12",
+    "title": "12. Lực",
+    "line_start": 145,
+    "line_end": 145
+  },
+  {
+    "clause_id": "dieu-2-khoan-13",
+    "anchor": "dieu-2-khoan-13",
+    "title": "13. Lực lượng phòng",
+    "line_start": 152,
+    "line_end": 152
+  },
+  {
+    "clause_id": "dieu-2-khoan-14",
+    "anchor": "dieu-2-khoan-14",
+    "title": "14. Lực lượng phòng",
+    "line_start": 158,
+    "line_end": 158
+  },
+  {
+    "clause_id": "dieu-2-khoan-15",
+    "anchor": "dieu-2-khoan-15",
+    "title": "15. Khu vực chữa",
+    "line_start": 164,
+    "line_end": 164
+  },
+  {
+    "clause_id": "dieu-2-khoan-16",
+    "anchor": "dieu-2-khoan-16",
+    "title": "16. Khu vực cứu nạn,",
+    "line_start": 169,
+    "line_end": 169
+  },
+  {
+    "clause_id": "dieu-2-khoan-17",
+    "anchor": "dieu-2-khoan-17",
+    "title": "17. Thẩm",
+    "line_start": 175,
+    "line_end": 175
+  },
+  {
+    "clause_id": "dieu-2-khoan-18",
+    "anchor": "dieu-2-khoan-18",
+    "title": "18. Nghiệm thu về",
+    "line_start": 182,
+    "line_end": 182
+  },
+  {
+    "clause_id": "dieu-2-khoan-19",
+    "anchor": "dieu-2-khoan-19",
+    "title": "19. Kiểm tra",
+    "line_start": 188,
+    "line_end": 188
+  },
+  {
+    "clause_id": "dieu-2-khoan-20",
+    "anchor": "dieu-2-khoan-20",
+    "title": "20. Cơ sở dữ liệu về",
+    "line_start": 195,
+    "line_end": 195
+  },
+  {
+    "clause_id": "dieu-2-khoan-21",
+    "anchor": "dieu-2-khoan-21",
+    "title": "21. Cơ quan quản lý",
+    "line_start": 202,
+    "line_end": 202
+  },
+  {
+    "clause_id": "dieu-2-khoan-22",
+    "anchor": "dieu-2-khoan-22",
+    "title": "22. Hạ tầng phòng",
+    "line_start": 208,
+    "line_end": 208
+  },
+  {
+    "clause_id": "dieu-3",
+    "anchor": "dieu-3",
+    "title": "Điều 3. Áp dụng pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ",
+    "line_start": 220,
+    "line_end": 220
+  },
+  {
+    "clause_id": "dieu-3-khoan-1",
+    "anchor": "dieu-3-khoan-1",
+    "title": "1. Hoạt",
+    "line_start": 223,
+    "line_end": 223
+  },
+  {
+    "clause_id": "dieu-3-khoan-2",
+    "anchor": "dieu-3-khoan-2",
+    "title": "2. Hoạt động phòng cháy và chữa cháy rừng, trách nhiệm",
+    "line_start": 229,
+    "line_end": 229
+  },
+  {
+    "clause_id": "dieu-3-khoan-3",
+    "anchor": "dieu-3-khoan-3",
+    "title": "3. Trường hợp sự cố,",
+    "line_start": 233,
+    "line_end": 233
+  },
+  {
+    "clause_id": "dieu-4",
+    "anchor": "dieu-4",
+    "title": "Điều 4. Chính sách của Nhà nước về phòng cháy, chữa cháy, cứu nạn, cứu hộ",
+    "line_start": 246,
+    "line_end": 246
+  },
+  {
+    "clause_id": "dieu-4-khoan-2",
+    "anchor": "dieu-4-khoan-2",
+    "title": "2. Huy động, sử dụng",
+    "line_start": 256,
+    "line_end": 256
+  },
+  {
+    "clause_id": "dieu-4-khoan-3",
+    "anchor": "dieu-4-khoan-3",
+    "title": "3. Đào tạo, bồi dưỡng,",
+    "line_start": 263,
+    "line_end": 263
+  },
+  {
+    "clause_id": "dieu-4-khoan-4",
+    "anchor": "dieu-4-khoan-4",
+    "title": "4. Bố trí lực lượng,",
+    "line_start": 269,
+    "line_end": 269
+  },
+  {
+    "clause_id": "dieu-5",
+    "anchor": "dieu-5",
+    "title": "Điều 5. Nguyên tắc phòng cháy, chữa cháy, cứu nạn, cứu hộ",
+    "line_start": 293,
+    "line_end": 293
+  },
+  {
+    "clause_id": "dieu-5-khoan-1",
+    "anchor": "dieu-5-khoan-1",
+    "title": "1. Tuân thủ Hiến pháp, pháp luật Việt Nam và điều ước quốc",
+    "line_start": 296,
+    "line_end": 296
+  },
+  {
+    "clause_id": "dieu-5-khoan-2",
+    "anchor": "dieu-5-khoan-2",
+    "title": "2. Huy động sức mạnh tổng",
+    "line_start": 304,
+    "line_end": 304
+  },
+  {
+    "clause_id": "dieu-5-khoan-3",
+    "anchor": "dieu-5-khoan-3",
+    "title": "3. Chủ động phòng ngừa,",
+    "line_start": 309,
+    "line_end": 309
+  },
+  {
+    "clause_id": "dieu-5-khoan-4",
+    "anchor": "dieu-5-khoan-4",
+    "title": "4. Chuẩn bị sẵn sàng lực",
+    "line_start": 315,
+    "line_end": 315
+  },
+  {
+    "clause_id": "dieu-5-khoan-5",
+    "anchor": "dieu-5-khoan-5",
+    "title": "5. Thống nhất chỉ huy,",
+    "line_start": 320,
+    "line_end": 320
+  },
+  {
+    "clause_id": "dieu-5-khoan-6",
+    "anchor": "dieu-5-khoan-6",
+    "title": "6. Ứng dụng khoa học",
+    "line_start": 326,
+    "line_end": 326
+  },
+  {
+    "clause_id": "dieu-5-khoan-7",
+    "anchor": "dieu-5-khoan-7",
+    "title": "7. Mọi hành vi vi phạm",
+    "line_start": 330,
+    "line_end": 330
+  },
+  {
+    "clause_id": "dieu-5-khoan-8",
+    "anchor": "dieu-5-khoan-8",
+    "title": "8. Bảo đảm tính nhân đạo,",
+    "line_start": 335,
+    "line_end": 335
+  },
+  {
+    "clause_id": "dieu-6",
+    "anchor": "dieu-6",
+    "title": "Điều 6. Báo cháy, báo tình huống cứu nạn, cứu hộ",
+    "line_start": 345,
+    "line_end": 345
+  },
+  {
+    "clause_id": "dieu-6-khoan-1",
+    "anchor": "dieu-6-khoan-1",
+    "title": "1. Người phát hiện",
+    "line_start": 348,
+    "line_end": 348
+  },
+  {
+    "clause_id": "dieu-6-khoan-2",
+    "anchor": "dieu-6-khoan-2",
+    "title": "2. Thông tin báo cháy,",
+    "line_start": 353,
+    "line_end": 353
+  },
+  {
+    "clause_id": "dieu-6-khoan-3",
+    "anchor": "dieu-6-khoan-3",
+    "title": "3. Lực lượng phòng",
+    "line_start": 363,
+    "line_end": 363
+  },
+  {
+    "clause_id": "dieu-7",
+    "anchor": "dieu-7",
+    "title": "Điều 7. Trách nhiệm quản lý nhà nước về phòng cháy, chữa cháy, cứu nạn, cứu hộ",
+    "line_start": 375,
+    "line_end": 375
+  },
+  {
+    "clause_id": "dieu-7-khoan-1",
+    "anchor": "dieu-7-khoan-1",
+    "title": "1. Chính phủ thống nhất",
+    "line_start": 378,
+    "line_end": 378
+  },
+  {
+    "clause_id": "dieu-7-khoan-2",
+    "anchor": "dieu-7-khoan-2",
+    "title": "2. Bộ Công an là cơ",
+    "line_start": 382,
+    "line_end": 382
+  },
+  {
+    "clause_id": "dieu-7-khoan-3",
+    "anchor": "dieu-7-khoan-3",
+    "title": "3. Bộ Quốc phòng, các",
+    "line_start": 387,
+    "line_end": 387
+  },
+  {
+    "clause_id": "dieu-8",
+    "anchor": "dieu-8",
+    "title": "Điều 8. Trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân trong hoạt động phòng",
+    "line_start": 405,
+    "line_end": 405
+  },
+  {
+    "clause_id": "dieu-8-khoan-1",
+    "anchor": "dieu-8-khoan-1",
+    "title": "1. Phòng cháy, chữa",
+    "line_start": 409,
+    "line_end": 409
+  },
+  {
+    "clause_id": "dieu-8-khoan-2",
+    "anchor": "dieu-8-khoan-2",
+    "title": "2. Công dân từ đủ 18",
+    "line_start": 414,
+    "line_end": 414
+  },
+  {
+    "clause_id": "dieu-8-khoan-3",
+    "anchor": "dieu-8-khoan-3",
+    "title": "3. Người đứng đầu cơ sở",
+    "line_start": 420,
+    "line_end": 420
+  },
+  {
+    "clause_id": "dieu-8-khoan-4",
+    "anchor": "dieu-8-khoan-4",
+    "title": "4. Chủ phương tiện",
+    "line_start": 459,
+    "line_end": 459
+  },
+  {
+    "clause_id": "dieu-8-khoan-6",
+    "anchor": "dieu-8-khoan-6",
+    "title": "6. Chủ hộ gia đình trực",
+    "line_start": 494,
+    "line_end": 494
+  },
+  {
+    "clause_id": "dieu-8-khoan-7",
+    "anchor": "dieu-8-khoan-7",
+    "title": "7. Cá nhân có trách",
+    "line_start": 512,
+    "line_end": 512
+  },
+  {
+    "clause_id": "dieu-8-khoan-8",
+    "anchor": "dieu-8-khoan-8",
+    "title": "8. Trách nhiệm về",
+    "line_start": 537,
+    "line_end": 537
+  },
+  {
+    "clause_id": "dieu-8-khoan-9",
+    "anchor": "dieu-8-khoan-9",
+    "title": "9. Cơ quan, tổ chức,",
+    "line_start": 555,
+    "line_end": 555
+  },
+  {
+    "clause_id": "dieu-9",
+    "anchor": "dieu-9",
+    "title": "Điều 9. Trách nhiệm tuyên truyền, phổ biến, giáo dục kiến thức, pháp luật về phòng",
+    "line_start": 571,
+    "line_end": 571
+  },
+  {
+    "clause_id": "dieu-9-khoan-1",
+    "anchor": "dieu-9-khoan-1",
+    "title": "1. Cơ quan",
+    "line_start": 575,
+    "line_end": 575
+  },
+  {
+    "clause_id": "dieu-9-khoan-2",
+    "anchor": "dieu-9-khoan-2",
+    "title": "2. Cơ quan thông tin,",
+    "line_start": 581,
+    "line_end": 581
+  },
+  {
+    "clause_id": "dieu-9-khoan-3",
+    "anchor": "dieu-9-khoan-3",
+    "title": "3. Bộ",
+    "line_start": 587,
+    "line_end": 587
+  },
+  {
+    "clause_id": "dieu-9-khoan-4",
+    "anchor": "dieu-9-khoan-4",
+    "title": "4. Bộ Giáo dục và Đào",
+    "line_start": 593,
+    "line_end": 593
+  },
+  {
+    "clause_id": "dieu-9-khoan-5",
+    "anchor": "dieu-9-khoan-5",
+    "title": "5. Bộ, cơ",
+    "line_start": 603,
+    "line_end": 603
+  },
+  {
+    "clause_id": "dieu-9-khoan-6",
+    "anchor": "dieu-9-khoan-6",
+    "title": "6. Đơn vị lực lượng vũ",
+    "line_start": 610,
+    "line_end": 610
+  },
+  {
+    "clause_id": "dieu-10",
+    "anchor": "dieu-10",
+    "title": "Điều 10. Xây dựng, thực tập các phương án chữa cháy, cứu nạn, cứu hộ",
+    "line_start": 622,
+    "line_end": 622
+  },
+  {
+    "clause_id": "dieu-10-khoan-1",
+    "anchor": "dieu-10-khoan-1",
+    "title": "1. Người đứng đầu cơ sở,",
+    "line_start": 625,
+    "line_end": 625
+  },
+  {
+    "clause_id": "dieu-10-khoan-2",
+    "anchor": "dieu-10-khoan-2",
+    "title": "2. Cơ quan Công an có",
+    "line_start": 631,
+    "line_end": 631
+  },
+  {
+    "clause_id": "dieu-10-khoan-3",
+    "anchor": "dieu-10-khoan-3",
+    "title": "3. Người đứng đầu cơ sở",
+    "line_start": 644,
+    "line_end": 644
+  },
+  {
+    "clause_id": "dieu-10-khoan-4",
+    "anchor": "dieu-10-khoan-4",
+    "title": "4. Cơ quan, tổ chức,",
+    "line_start": 652,
+    "line_end": 652
+  },
+  {
+    "clause_id": "dieu-10-khoan-5",
+    "anchor": "dieu-10-khoan-5",
+    "title": "5. Cơ quan Quân sự,",
+    "line_start": 658,
+    "line_end": 658
+  },
+  {
+    "clause_id": "dieu-11",
+    "anchor": "dieu-11",
+    "title": "Điều 11. Kiểm tra về phòng cháy, chữa cháy",
+    "line_start": 674,
+    "line_end": 674
+  },
+  {
+    "clause_id": "dieu-11-khoan-1",
+    "anchor": "dieu-11-khoan-1",
+    "title": "1. Đối tượng kiểm tra",
+    "line_start": 677,
+    "line_end": 677
+  },
+  {
+    "clause_id": "dieu-12",
+    "anchor": "dieu-12",
+    "title": "Điều 12. Ngày toàn dân phòng cháy, chữa cháy, cứu nạn, cứu hộ",
+    "line_start": 728,
+    "line_end": 728
+  },
+  {
+    "clause_id": "dieu-13",
+    "anchor": "dieu-13",
+    "title": "Điều 13. Hợp tác quốc tế về phòng cháy, chữa cháy, cứu nạn, cứu hộ",
+    "line_start": 740,
+    "line_end": 740
+  },
+  {
+    "clause_id": "dieu-13-khoan-1",
+    "anchor": "dieu-13-khoan-1",
+    "title": "1. Nhà nước Cộng hòa",
+    "line_start": 743,
+    "line_end": 743
+  },
+  {
+    "clause_id": "dieu-13-khoan-2",
+    "anchor": "dieu-13-khoan-2",
+    "title": "2. Nội dung hợp tác quốc",
+    "line_start": 767,
+    "line_end": 767
+  },
+  {
+    "clause_id": "dieu-13-khoan-3",
+    "anchor": "dieu-13-khoan-3",
+    "title": "3. Bộ Công an chủ trì,",
+    "line_start": 787,
+    "line_end": 787
+  },
+  {
+    "clause_id": "dieu-14",
+    "anchor": "dieu-14",
+    "title": "Điều 14. Các hành vi bị nghiêm cấm",
+    "line_start": 801,
+    "line_end": 801
+  },
+  {
+    "clause_id": "dieu-14-khoan-1",
+    "anchor": "dieu-14-khoan-1",
+    "title": "1. Cố ý gây cháy, nổ,",
+    "line_start": 804,
+    "line_end": 804
+  },
+  {
+    "clause_id": "dieu-14-khoan-2",
+    "anchor": "dieu-14-khoan-2",
+    "title": "2. Xúc phạm, đe dọa, cản",
+    "line_start": 811,
+    "line_end": 811
+  },
+  {
+    "clause_id": "dieu-14-khoan-3",
+    "anchor": "dieu-14-khoan-3",
+    "title": "3. Lợi dụng, lạm dụng",
+    "line_start": 816,
+    "line_end": 816
+  },
+  {
+    "clause_id": "dieu-14-khoan-4",
+    "anchor": "dieu-14-khoan-4",
+    "title": "4. Lợi dụng việc tham",
+    "line_start": 822,
+    "line_end": 822
+  },
+  {
+    "clause_id": "dieu-14-khoan-5",
+    "anchor": "dieu-14-khoan-5",
+    "title": "5. Làm giả, làm sai lệch",
+    "line_start": 827,
+    "line_end": 827
+  },
+  {
+    "clause_id": "dieu-14-khoan-6",
+    "anchor": "dieu-14-khoan-6",
+    "title": "6. Báo cháy giả; báo",
+    "line_start": 832,
+    "line_end": 832
+  },
+  {
+    "clause_id": "dieu-14-khoan-7",
+    "anchor": "dieu-14-khoan-7",
+    "title": "7. Sản xuất, tàng trữ,",
+    "line_start": 836,
+    "line_end": 836
+  },
+  {
+    "clause_id": "dieu-14-khoan-8",
+    "anchor": "dieu-14-khoan-8",
+    "title": "8. Chuyển đổi, bổ sung",
+    "line_start": 841,
+    "line_end": 841
+  },
+  {
+    "clause_id": "dieu-14-khoan-9",
+    "anchor": "dieu-14-khoan-9",
+    "title": "9. Kinh doanh phương",
+    "line_start": 846,
+    "line_end": 846
+  },
+  {
+    "clause_id": "dieu-14-khoan-10",
+    "anchor": "dieu-14-khoan-10",
+    "title": "10. Chiếm đoạt, hủy hoại,",
+    "line_start": 851,
+    "line_end": 851
+  },
+  {
+    "clause_id": "dieu-14-khoan-11",
+    "anchor": "dieu-14-khoan-11",
+    "title": "11. Lấn chiếm, bố trí",
+    "line_start": 858,
+    "line_end": 858
+  },
+  {
+    "clause_id": "dieu-15",
+    "anchor": "dieu-15",
+    "title": "Điều 15. Yêu cầu về phòng cháy, chữa cháy khi lập, điều chỉnh, phê duyệt quy hoạch",
+    "line_start": 872,
+    "line_end": 872
+  },
+  {
+    "clause_id": "dieu-15-khoan-3",
+    "anchor": "dieu-15-khoan-3",
+    "title": "3. Quy hoạch chi tiết đô thị, khu dân cư, cụm công nghiệp và",
+    "line_start": 899,
+    "line_end": 899
+  },
+  {
+    "clause_id": "dieu-15-khoan-4",
+    "anchor": "dieu-15-khoan-4",
+    "title": "4. Cơ",
+    "line_start": 919,
+    "line_end": 919
+  },
+  {
+    "clause_id": "dieu-15-khoan-5",
+    "anchor": "dieu-15-khoan-5",
+    "title": "5. Chính phủ quy định chi tiết Điều này.",
+    "line_start": 926,
+    "line_end": 926
+  },
+  {
+    "clause_id": "dieu-16",
+    "anchor": "dieu-16",
+    "title": "Điều 16. Yêu cầu về phòng cháy, chữa cháy khi lập, điều chỉnh dự án đầu tư xây dựng",
+    "line_start": 935,
+    "line_end": 935
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Khi sản xuất, lắp",
+    "line_start": 966,
+    "line_end": 966
+  },
+  {
+    "clause_id": "dieu-17",
+    "anchor": "dieu-17",
+    "title": "Điều 17. Thẩm định thiết kế về phòng cháy và chữa cháy",
+    "line_start": 990,
+    "line_end": 990
+  },
+  {
+    "clause_id": "dieu-17-khoan-3",
+    "anchor": "dieu-17-khoan-3",
+    "title": "3. Chủ đầu tư, chủ sở",
+    "line_start": 1050,
+    "line_end": 1050
+  },
+  {
+    "clause_id": "dieu-18",
+    "anchor": "dieu-18",
+    "title": "Điều 18. Nghiệm thu, kiểm tra công tác nghiệm thu về phòng cháy và chữa cháy",
+    "line_start": 1072,
+    "line_end": 1072
+  },
+  {
+    "clause_id": "dieu-18-khoan-3",
+    "anchor": "dieu-18-khoan-3",
+    "title": "3. Chủ đầu tư, chủ sở",
+    "line_start": 1101,
+    "line_end": 1101
+  },
+  {
+    "clause_id": "dieu-18-khoan-4",
+    "anchor": "dieu-18-khoan-4",
+    "title": "4. Công trình, phương",
+    "line_start": 1107,
+    "line_end": 1107
+  },
+  {
+    "clause_id": "dieu-19",
+    "anchor": "dieu-19",
+    "title": "Điều 19. Phòng cháy đối với công trình xây dựng trong quá trình thi công",
+    "line_start": 1153,
+    "line_end": 1153
+  },
+  {
+    "clause_id": "dieu-19-khoan-1",
+    "anchor": "dieu-19-khoan-1",
+    "title": "1. Công trình xây dựng trong quá trình thi công phải bảo đảm",
+    "line_start": 1156,
+    "line_end": 1156
+  },
+  {
+    "clause_id": "dieu-19-khoan-2",
+    "anchor": "dieu-19-khoan-2",
+    "title": "2. Chủ đầu tư, chủ sở",
+    "line_start": 1174,
+    "line_end": 1174
+  },
+  {
+    "clause_id": "dieu-20",
+    "anchor": "dieu-20",
+    "title": "Điều 20. Phòng cháy đối với nhà ở",
+    "line_start": 1185,
+    "line_end": 1185
+  },
+  {
+    "clause_id": "dieu-20-khoan-1",
+    "anchor": "dieu-20-khoan-1",
+    "title": "1. Nhà ở không thuộc loại hình quy định tại khoản 3 và khoản",
+    "line_start": 1188,
+    "line_end": 1188
+  },
+  {
+    "clause_id": "dieu-20-khoan-2",
+    "anchor": "dieu-20-khoan-2",
+    "title": "2. Nhà ở không thuộc loại hình quy định tại khoản 3 và khoản",
+    "line_start": 1198,
+    "line_end": 1198
+  },
+  {
+    "clause_id": "dieu-20-khoan-3",
+    "anchor": "dieu-20-khoan-3",
+    "title": "3. Nhà ở có quy chuẩn kỹ thuật, tiêu chuẩn được viện dẫn",
+    "line_start": 1208,
+    "line_end": 1208
+  },
+  {
+    "clause_id": "dieu-20-khoan-4",
+    "anchor": "dieu-20-khoan-4",
+    "title": "4. Nhà ở trong danh mục cơ sở thuộc diện quản lý về phòng",
+    "line_start": 1213,
+    "line_end": 1213
+  },
+  {
+    "clause_id": "dieu-20-khoan-6",
+    "anchor": "dieu-20-khoan-6",
+    "title": "6. Lực lượng Cảnh sát",
+    "line_start": 1235,
+    "line_end": 1235
+  },
+  {
+    "clause_id": "dieu-21",
+    "anchor": "dieu-21",
+    "title": "Điều 21. Phòng cháy đối với nhà ở kết hợp sản xuất, kinh doanh",
+    "line_start": 1247,
+    "line_end": 1247
+  },
+  {
+    "clause_id": "dieu-21-khoan-1",
+    "anchor": "dieu-21-khoan-1",
+    "title": "1. Nhà ở kết hợp sản xuất, kinh doanh phải",
+    "line_start": 1250,
+    "line_end": 1250
+  },
+  {
+    "clause_id": "dieu-21-khoan-2",
+    "anchor": "dieu-21-khoan-2",
+    "title": "2. Nhà ở kết hợp sản xuất, kinh doanh hàng",
+    "line_start": 1263,
+    "line_end": 1263
+  },
+  {
+    "clause_id": "dieu-22",
+    "anchor": "dieu-22",
+    "title": "Điều 22. Phòng cháy đối với phương tiện giao thông",
+    "line_start": 1287,
+    "line_end": 1287
+  },
+  {
+    "clause_id": "dieu-22-khoan-1",
+    "anchor": "dieu-22-khoan-1",
+    "title": "1. Phương",
+    "line_start": 1290,
+    "line_end": 1290
+  },
+  {
+    "clause_id": "dieu-22-khoan-5",
+    "anchor": "dieu-22-khoan-5",
+    "title": "5. Chủ",
+    "line_start": 1334,
+    "line_end": 1334
+  },
+  {
+    "clause_id": "dieu-23",
+    "anchor": "dieu-23",
+    "title": "Điều 23. Phòng cháy đối với cơ sở",
+    "line_start": 1346,
+    "line_end": 1346
+  },
+  {
+    "clause_id": "dieu-23-khoan-1",
+    "anchor": "dieu-23-khoan-1",
+    "title": "1. Cơ sở phải bảo đảm các điều kiện",
+    "line_start": 1349,
+    "line_end": 1349
+  },
+  {
+    "clause_id": "dieu-23-khoan-2",
+    "anchor": "dieu-23-khoan-2",
+    "title": "2. Cơ quan, tổ chức hoạt",
+    "line_start": 1375,
+    "line_end": 1375
+  },
+  {
+    "clause_id": "dieu-24",
+    "anchor": "dieu-24",
+    "title": "Điều 24. Phòng cháy trong lắp đặt, sử dụng điện cho sinh hoạt, sản xuất",
+    "line_start": 1401,
+    "line_end": 1401
+  },
+  {
+    "clause_id": "dieu-24-khoan-1",
+    "anchor": "dieu-24-khoan-1",
+    "title": "1. Trong lắp đặt, sử dụng",
+    "line_start": 1404,
+    "line_end": 1404
+  },
+  {
+    "clause_id": "dieu-24-khoan-2",
+    "anchor": "dieu-24-khoan-2",
+    "title": "2. Trong lắp đặt, sử dụng",
+    "line_start": 1428,
+    "line_end": 1428
+  },
+  {
+    "clause_id": "dieu-24-khoan-3",
+    "anchor": "dieu-24-khoan-3",
+    "title": "3. Tổ chức, cá nhân",
+    "line_start": 1440,
+    "line_end": 1440
+  },
+  {
+    "clause_id": "dieu-24-khoan-4",
+    "anchor": "dieu-24-khoan-4",
+    "title": "4. Đơn vị bán lẻ điện",
+    "line_start": 1446,
+    "line_end": 1446
+  },
+  {
+    "clause_id": "dieu-25",
+    "anchor": "dieu-25",
+    "title": "Điều 25. Trách nhiệm chữa cháy",
+    "line_start": 1462,
+    "line_end": 1462
+  },
+  {
+    "clause_id": "dieu-25-khoan-1",
+    "anchor": "dieu-25-khoan-1",
+    "title": "1. Người phát hiện",
+    "line_start": 1465,
+    "line_end": 1465
+  },
+  {
+    "clause_id": "dieu-25-khoan-2",
+    "anchor": "dieu-25-khoan-2",
+    "title": "2. Người đứng đầu cơ",
+    "line_start": 1470,
+    "line_end": 1470
+  },
+  {
+    "clause_id": "dieu-25-khoan-3",
+    "anchor": "dieu-25-khoan-3",
+    "title": "3. Cơ quan y tế, điện",
+    "line_start": 1477,
+    "line_end": 1477
+  },
+  {
+    "clause_id": "dieu-25-khoan-4",
+    "anchor": "dieu-25-khoan-4",
+    "title": "4. Lực lượng phòng",
+    "line_start": 1485,
+    "line_end": 1485
+  },
+  {
+    "clause_id": "dieu-25-khoan-5",
+    "anchor": "dieu-25-khoan-5",
+    "title": "5. Lực lượng Công an",
+    "line_start": 1490,
+    "line_end": 1490
+  },
+  {
+    "clause_id": "dieu-25-khoan-6",
+    "anchor": "dieu-25-khoan-6",
+    "title": "6. Ủy ban nhân dân địa",
+    "line_start": 1496,
+    "line_end": 1496
+  },
+  {
+    "clause_id": "dieu-26",
+    "anchor": "dieu-26",
+    "title": "Điều 26. Huy động lực lượng, người, phương tiện, tài sản tham gia chữa cháy",
+    "line_start": 1519,
+    "line_end": 1519
+  },
+  {
+    "clause_id": "dieu-26-khoan-1",
+    "anchor": "dieu-26-khoan-1",
+    "title": "1. Khi có cháy thì lực",
+    "line_start": 1522,
+    "line_end": 1522
+  },
+  {
+    "clause_id": "dieu-26-khoan-2",
+    "anchor": "dieu-26-khoan-2",
+    "title": "2. Cơ quan, tổ chức, hộ",
+    "line_start": 1530,
+    "line_end": 1530
+  },
+  {
+    "clause_id": "dieu-26-khoan-3",
+    "anchor": "dieu-26-khoan-3",
+    "title": "3. Phương tiện, tài sản",
+    "line_start": 1535,
+    "line_end": 1535
+  },
+  {
+    "clause_id": "dieu-26-khoan-4",
+    "anchor": "dieu-26-khoan-4",
+    "title": "4. Lực lượng, người được",
+    "line_start": 1546,
+    "line_end": 1546
+  },
+  {
+    "clause_id": "dieu-26-khoan-5",
+    "anchor": "dieu-26-khoan-5",
+    "title": "5. Thẩm quyền huy động",
+    "line_start": 1551,
+    "line_end": 1551
+  },
+  {
+    "clause_id": "dieu-27",
+    "anchor": "dieu-27",
+    "title": "Điều 27. Nguồn nước chữa cháy",
+    "line_start": 1587,
+    "line_end": 1587
+  },
+  {
+    "clause_id": "dieu-27-khoan-1",
+    "anchor": "dieu-27-khoan-1",
+    "title": "1. Nguồn nước chữa",
+    "line_start": 1590,
+    "line_end": 1590
+  },
+  {
+    "clause_id": "dieu-27-khoan-2",
+    "anchor": "dieu-27-khoan-2",
+    "title": "2. Trên hệ thống cấp",
+    "line_start": 1596,
+    "line_end": 1596
+  },
+  {
+    "clause_id": "dieu-27-khoan-3",
+    "anchor": "dieu-27-khoan-3",
+    "title": "3. Tại khu vực bồn, bể,",
+    "line_start": 1603,
+    "line_end": 1603
+  },
+  {
+    "clause_id": "dieu-28",
+    "anchor": "dieu-28",
+    "title": "Điều 28. Người chỉ huy chữa cháy",
+    "line_start": 1619,
+    "line_end": 1619
+  },
+  {
+    "clause_id": "dieu-28-khoan-1",
+    "anchor": "dieu-28-khoan-1",
+    "title": "1. Người có chức vụ",
+    "line_start": 1622,
+    "line_end": 1622
+  },
+  {
+    "clause_id": "dieu-28-khoan-2",
+    "anchor": "dieu-28-khoan-2",
+    "title": "2. Trường hợp tại nơi",
+    "line_start": 1627,
+    "line_end": 1627
+  },
+  {
+    "clause_id": "dieu-28-khoan-3",
+    "anchor": "dieu-28-khoan-3",
+    "title": "3. Người chỉ huy chữa",
+    "line_start": 1649,
+    "line_end": 1649
+  },
+  {
+    "clause_id": "dieu-28-khoan-4",
+    "anchor": "dieu-28-khoan-4",
+    "title": "4. Người chỉ huy chữa",
+    "line_start": 1673,
+    "line_end": 1673
+  },
+  {
+    "clause_id": "dieu-29",
+    "anchor": "dieu-29",
+    "title": "Điều 29. Khắc phục hậu quả vụ cháy",
+    "line_start": 1695,
+    "line_end": 1695
+  },
+  {
+    "clause_id": "dieu-29-khoan-1",
+    "anchor": "dieu-29-khoan-1",
+    "title": "1. Khắc phục hậu quả vụ",
+    "line_start": 1698,
+    "line_end": 1698
+  },
+  {
+    "clause_id": "dieu-29-khoan-2",
+    "anchor": "dieu-29-khoan-2",
+    "title": "2. Người đứng đầu cơ sở,",
+    "line_start": 1711,
+    "line_end": 1711
+  },
+  {
+    "clause_id": "dieu-30",
+    "anchor": "dieu-30",
+    "title": "Điều 30. Bảo vệ hiện trường, điều tra vụ cháy",
+    "line_start": 1724,
+    "line_end": 1724
+  },
+  {
+    "clause_id": "dieu-30-khoan-1",
+    "anchor": "dieu-30-khoan-1",
+    "title": "1. Cơ quan Công an có",
+    "line_start": 1727,
+    "line_end": 1727
+  },
+  {
+    "clause_id": "dieu-30-khoan-2",
+    "anchor": "dieu-30-khoan-2",
+    "title": "2. Cơ quan, tổ chức, hộ",
+    "line_start": 1732,
+    "line_end": 1732
+  },
+  {
+    "clause_id": "dieu-31",
+    "anchor": "dieu-31",
+    "title": "Điều 31. Chữa cháy trụ sở cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự, cơ",
+    "line_start": 1743,
+    "line_end": 1743
+  },
+  {
+    "clause_id": "dieu-31-khoan-1",
+    "anchor": "dieu-31-khoan-1",
+    "title": "1. Lực lượng Cảnh sát",
+    "line_start": 1747,
+    "line_end": 1747
+  },
+  {
+    "clause_id": "dieu-31-khoan-2",
+    "anchor": "dieu-31-khoan-2",
+    "title": "2. Lực lượng phòng",
+    "line_start": 1755,
+    "line_end": 1755
+  },
+  {
+    "clause_id": "dieu-32",
+    "anchor": "dieu-32",
+    "title": "Điều 32. Tình huống cứu nạn, cứu hộ",
+    "line_start": 1772,
+    "line_end": 1772
+  },
+  {
+    "clause_id": "dieu-32-khoan-1",
+    "anchor": "dieu-32-khoan-1",
+    "title": "1. Tình huống cứu nạn,",
+    "line_start": 1775,
+    "line_end": 1775
+  },
+  {
+    "clause_id": "dieu-32-khoan-2",
+    "anchor": "dieu-32-khoan-2",
+    "title": "2. Lực lượng phòng",
+    "line_start": 1790,
+    "line_end": 1790
+  },
+  {
+    "clause_id": "dieu-33",
+    "anchor": "dieu-33",
+    "title": "Điều 33. Trách nhiệm cứu nạn, cứu hộ",
+    "line_start": 1803,
+    "line_end": 1803
+  },
+  {
+    "clause_id": "dieu-33-khoan-1",
+    "anchor": "dieu-33-khoan-1",
+    "title": "1. Người phát hiện",
+    "line_start": 1806,
+    "line_end": 1806
+  },
+  {
+    "clause_id": "dieu-33-khoan-2",
+    "anchor": "dieu-33-khoan-2",
+    "title": "2. Cơ quan y tế, điện",
+    "line_start": 1812,
+    "line_end": 1812
+  },
+  {
+    "clause_id": "dieu-33-khoan-3",
+    "anchor": "dieu-33-khoan-3",
+    "title": "3. Lực lượng phòng",
+    "line_start": 1821,
+    "line_end": 1821
+  },
+  {
+    "clause_id": "dieu-33-khoan-4",
+    "anchor": "dieu-33-khoan-4",
+    "title": "4. Lực lượng Công an",
+    "line_start": 1827,
+    "line_end": 1827
+  },
+  {
+    "clause_id": "dieu-33-khoan-5",
+    "anchor": "dieu-33-khoan-5",
+    "title": "5. Người đứng đầu cơ",
+    "line_start": 1833,
+    "line_end": 1833
+  },
+  {
+    "clause_id": "dieu-34",
+    "anchor": "dieu-34",
+    "title": "Điều 34. Người chỉ huy cứu nạn, cứu hộ",
+    "line_start": 1849,
+    "line_end": 1849
+  },
+  {
+    "clause_id": "dieu-34-khoan-1",
+    "anchor": "dieu-34-khoan-1",
+    "title": "1. Khi xảy ra cháy cần",
+    "line_start": 1852,
+    "line_end": 1852
+  },
+  {
+    "clause_id": "dieu-34-khoan-2",
+    "anchor": "dieu-34-khoan-2",
+    "title": "2. Khi xảy ra tai nạn,",
+    "line_start": 1857,
+    "line_end": 1857
+  },
+  {
+    "clause_id": "dieu-34-khoan-3",
+    "anchor": "dieu-34-khoan-3",
+    "title": "3. Người chỉ huy cứu nạn,",
+    "line_start": 1863,
+    "line_end": 1863
+  },
+  {
+    "clause_id": "dieu-34-khoan-4",
+    "anchor": "dieu-34-khoan-4",
+    "title": "4. Khi người chỉ huy cứu",
+    "line_start": 1889,
+    "line_end": 1889
+  },
+  {
+    "clause_id": "dieu-35",
+    "anchor": "dieu-35",
+    "title": "Điều 35. Huy động lực lượng, người, phương tiện, tài sản tham gia cứu nạn, cứu hộ",
+    "line_start": 1902,
+    "line_end": 1902
+  },
+  {
+    "clause_id": "dieu-35-khoan-1",
+    "anchor": "dieu-35-khoan-1",
+    "title": "1. Khi có tình huống cứu",
+    "line_start": 1905,
+    "line_end": 1905
+  },
+  {
+    "clause_id": "dieu-35-khoan-2",
+    "anchor": "dieu-35-khoan-2",
+    "title": "2. Cơ quan, tổ chức, hộ",
+    "line_start": 1913,
+    "line_end": 1913
+  },
+  {
+    "clause_id": "dieu-35-khoan-3",
+    "anchor": "dieu-35-khoan-3",
+    "title": "3. Phương tiện, tài sản",
+    "line_start": 1918,
+    "line_end": 1918
+  },
+  {
+    "clause_id": "dieu-35-khoan-4",
+    "anchor": "dieu-35-khoan-4",
+    "title": "4. Lực lượng, người được",
+    "line_start": 1929,
+    "line_end": 1929
+  },
+  {
+    "clause_id": "dieu-35-khoan-5",
+    "anchor": "dieu-35-khoan-5",
+    "title": "5. Thẩm quyền huy động",
+    "line_start": 1934,
+    "line_end": 1934
+  },
+  {
+    "clause_id": "dieu-36",
+    "anchor": "dieu-36",
+    "title": "Điều 36. Lực lượng phòng cháy, chữa cháy và cứu nạn, cứu hộ",
+    "line_start": 1969,
+    "line_end": 1969
+  },
+  {
+    "clause_id": "dieu-36-khoan-1",
+    "anchor": "dieu-36-khoan-1",
+    "title": "1. Lực lượng Cảnh sát",
+    "line_start": 1972,
+    "line_end": 1972
+  },
+  {
+    "clause_id": "dieu-36-khoan-2",
+    "anchor": "dieu-36-khoan-2",
+    "title": "2. Lực lượng phòng",
+    "line_start": 1976,
+    "line_end": 1976
+  },
+  {
+    "clause_id": "dieu-36-khoan-3",
+    "anchor": "dieu-36-khoan-3",
+    "title": "3. Lực lượng phòng cháy,",
+    "line_start": 1980,
+    "line_end": 1980
+  },
+  {
+    "clause_id": "dieu-36-khoan-4",
+    "anchor": "dieu-36-khoan-4",
+    "title": "4. Lực lượng dân",
+    "line_start": 1984,
+    "line_end": 1984
+  },
+  {
+    "clause_id": "dieu-37",
+    "anchor": "dieu-37",
+    "title": "Điều 37. Thành lập, quản lý lực lượng phòng cháy, chữa cháy và cứu nạn, cứu hộ cơ sở,",
+    "line_start": 1994,
+    "line_end": 1994
+  },
+  {
+    "clause_id": "dieu-37-khoan-1",
+    "anchor": "dieu-37-khoan-1",
+    "title": "1. Lực lượng phòng",
+    "line_start": 1999,
+    "line_end": 1999
+  },
+  {
+    "clause_id": "dieu-37-khoan-2",
+    "anchor": "dieu-37-khoan-2",
+    "title": "2. Cơ sở đã thành lập",
+    "line_start": 2006,
+    "line_end": 2006
+  },
+  {
+    "clause_id": "dieu-38",
+    "anchor": "dieu-38",
+    "title": "Điều 38. Nhiệm vụ của lực lượng phòng cháy, chữa cháy và cứu nạn, cứu hộ cơ sở, lực",
+    "line_start": 2058,
+    "line_end": 2058
+  },
+  {
+    "clause_id": "dieu-39",
+    "anchor": "dieu-39",
+    "title": "Điều 39. Phòng cháy, chữa cháy, cứu nạn, cứu hộ tình nguyện",
+    "line_start": 2101,
+    "line_end": 2101
+  },
+  {
+    "clause_id": "dieu-39-khoan-2",
+    "anchor": "dieu-39-khoan-2",
+    "title": "2. Cá nhân tham gia hoạt",
+    "line_start": 2109,
+    "line_end": 2109
+  },
+  {
+    "clause_id": "dieu-39-khoan-3",
+    "anchor": "dieu-39-khoan-3",
+    "title": "3. Trong trường hợp cần",
+    "line_start": 2114,
+    "line_end": 2114
+  },
+  {
+    "clause_id": "dieu-39-khoan-4",
+    "anchor": "dieu-39-khoan-4",
+    "title": "4. Nhà nước có chính",
+    "line_start": 2120,
+    "line_end": 2120
+  },
+  {
+    "clause_id": "dieu-39-khoan-5",
+    "anchor": "dieu-39-khoan-5",
+    "title": "5. Chính phủ quy định",
+    "line_start": 2125,
+    "line_end": 2125
+  },
+  {
+    "clause_id": "dieu-40",
+    "anchor": "dieu-40",
+    "title": "Điều 40. Xây dựng, bố trí lực lượng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ",
+    "line_start": 2135,
+    "line_end": 2135
+  },
+  {
+    "clause_id": "dieu-40-khoan-1",
+    "anchor": "dieu-40-khoan-1",
+    "title": "1. Lực lượng Cảnh sát",
+    "line_start": 2138,
+    "line_end": 2138
+  },
+  {
+    "clause_id": "dieu-40-khoan-2",
+    "anchor": "dieu-40-khoan-2",
+    "title": "2. Nhà nước xây dựng lực",
+    "line_start": 2144,
+    "line_end": 2144
+  },
+  {
+    "clause_id": "dieu-40-khoan-3",
+    "anchor": "dieu-40-khoan-3",
+    "title": "3. Cơ quan, tổ chức và công dân Việt Nam có trách nhiệm tham",
+    "line_start": 2152,
+    "line_end": 2152
+  },
+  {
+    "clause_id": "dieu-41",
+    "anchor": "dieu-41",
+    "title": "Điều 41. Nhiệm vụ của lực lượng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ",
+    "line_start": 2162,
+    "line_end": 2162
+  },
+  {
+    "clause_id": "dieu-41-khoan-1",
+    "anchor": "dieu-41-khoan-1",
+    "title": "1. Tham mưu, đề xuất với",
+    "line_start": 2165,
+    "line_end": 2165
+  },
+  {
+    "clause_id": "dieu-41-khoan-2",
+    "anchor": "dieu-41-khoan-2",
+    "title": "2. Tổ chức tuyên truyền,",
+    "line_start": 2171,
+    "line_end": 2171
+  },
+  {
+    "clause_id": "dieu-41-khoan-3",
+    "anchor": "dieu-41-khoan-3",
+    "title": "3. Xây dựng, thực tập",
+    "line_start": 2179,
+    "line_end": 2179
+  },
+  {
+    "clause_id": "dieu-41-khoan-4",
+    "anchor": "dieu-41-khoan-4",
+    "title": "4. Thực hiện chữa",
+    "line_start": 2183,
+    "line_end": 2183
+  },
+  {
+    "clause_id": "dieu-41-khoan-5",
+    "anchor": "dieu-41-khoan-5",
+    "title": "5. Thẩm định thiết kế,",
+    "line_start": 2187,
+    "line_end": 2187
+  },
+  {
+    "clause_id": "dieu-41-khoan-7",
+    "anchor": "dieu-41-khoan-7",
+    "title": "7. Tổ chức nghiên cứu,",
+    "line_start": 2196,
+    "line_end": 2196
+  },
+  {
+    "clause_id": "dieu-41-khoan-8",
+    "anchor": "dieu-41-khoan-8",
+    "title": "8. Thống kê, tổng hợp",
+    "line_start": 2201,
+    "line_end": 2201
+  },
+  {
+    "clause_id": "dieu-41-khoan-9",
+    "anchor": "dieu-41-khoan-9",
+    "title": "9. Kiểm tra, thanh",
+    "line_start": 2207,
+    "line_end": 2207
+  },
+  {
+    "clause_id": "dieu-41-khoan-10",
+    "anchor": "dieu-41-khoan-10",
+    "title": "10. Thực hiện quản lý",
+    "line_start": 2212,
+    "line_end": 2212
+  },
+  {
+    "clause_id": "dieu-41-khoan-11",
+    "anchor": "dieu-41-khoan-11",
+    "title": "11. Thực hiện một số",
+    "line_start": 2218,
+    "line_end": 2218
+  },
+  {
+    "clause_id": "dieu-41-khoan-12",
+    "anchor": "dieu-41-khoan-12",
+    "title": "12. Thực hiện hợp tác",
+    "line_start": 2223,
+    "line_end": 2223
+  },
+  {
+    "clause_id": "dieu-41-khoan-13",
+    "anchor": "dieu-41-khoan-13",
+    "title": "13. Thực hiện nhiệm vụ",
+    "line_start": 2227,
+    "line_end": 2227
+  },
+  {
+    "clause_id": "dieu-41-khoan-14",
+    "anchor": "dieu-41-khoan-14",
+    "title": "14. Bộ trưởng Bộ Công",
+    "line_start": 2232,
+    "line_end": 2232
+  },
+  {
+    "clause_id": "dieu-42",
+    "anchor": "dieu-42",
+    "title": "Điều 42. Trang bị phương tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ cho lực lượng",
+    "line_start": 2247,
+    "line_end": 2247
+  },
+  {
+    "clause_id": "dieu-42-khoan-1",
+    "anchor": "dieu-42-khoan-1",
+    "title": "1. Nhà nước trang bị",
+    "line_start": 2251,
+    "line_end": 2251
+  },
+  {
+    "clause_id": "dieu-43",
+    "anchor": "dieu-43",
+    "title": "Điều 43. Quản lý, sử dụng, bảo quản, bảo dưỡng phương tiện phòng cháy, chữa cháy, cứu",
+    "line_start": 2278,
+    "line_end": 2278
+  },
+  {
+    "clause_id": "dieu-43-khoan-1",
+    "anchor": "dieu-43-khoan-1",
+    "title": "1. Lực lượng phòng",
+    "line_start": 2282,
+    "line_end": 2282
+  },
+  {
+    "clause_id": "dieu-44",
+    "anchor": "dieu-44",
+    "title": "Điều 44. Sản xuất, lắp ráp, nhập khẩu, lưu thông phương tiện phòng cháy, chữa cháy,",
+    "line_start": 2302,
+    "line_end": 2302
+  },
+  {
+    "clause_id": "dieu-44-khoan-1",
+    "anchor": "dieu-44-khoan-1",
+    "title": "1. Phương tiện phòng",
+    "line_start": 2306,
+    "line_end": 2306
+  },
+  {
+    "clause_id": "dieu-44-khoan-2",
+    "anchor": "dieu-44-khoan-2",
+    "title": "2. Phương tiện phòng",
+    "line_start": 2314,
+    "line_end": 2314
+  },
+  {
+    "clause_id": "dieu-45",
+    "anchor": "dieu-45",
+    "title": "Điều 45. Huấn luyện, bồi dưỡng nghiệp vụ phòng cháy, chữa cháy, cứu nạn, cứu hộ",
+    "line_start": 2340,
+    "line_end": 2340
+  },
+  {
+    "clause_id": "dieu-45-khoan-3",
+    "anchor": "dieu-45-khoan-3",
+    "title": "3. Lực lượng Cảnh sát",
+    "line_start": 2397,
+    "line_end": 2397
+  },
+  {
+    "clause_id": "dieu-46",
+    "anchor": "dieu-46",
+    "title": "Điều 46. Chế độ, chính sách đối với người được huy động, người tham gia phòng cháy,",
+    "line_start": 2420,
+    "line_end": 2420
+  },
+  {
+    "clause_id": "dieu-46-khoan-2",
+    "anchor": "dieu-46-khoan-2",
+    "title": "2. Cơ quan, tổ chức,",
+    "line_start": 2429,
+    "line_end": 2429
+  },
+  {
+    "clause_id": "dieu-46-khoan-4",
+    "anchor": "dieu-46-khoan-4",
+    "title": "4. Chính phủ quy định chi",
+    "line_start": 2455,
+    "line_end": 2455
+  },
+  {
+    "clause_id": "dieu-47",
+    "anchor": "dieu-47",
+    "title": "Điều 47. Trang phục, phù hiệu, cấp hiệu và chế độ, chính sách đối với lực lượng Cảnh",
+    "line_start": 2465,
+    "line_end": 2465
+  },
+  {
+    "clause_id": "dieu-47-khoan-1",
+    "anchor": "dieu-47-khoan-1",
+    "title": "1. Sĩ quan, hạ sĩ quan,",
+    "line_start": 2469,
+    "line_end": 2469
+  },
+  {
+    "clause_id": "dieu-47-khoan-2",
+    "anchor": "dieu-47-khoan-2",
+    "title": "2. Sĩ quan, hạ",
+    "line_start": 2476,
+    "line_end": 2476
+  },
+  {
+    "clause_id": "dieu-47-khoan-3",
+    "anchor": "dieu-47-khoan-3",
+    "title": "3. Bộ trưởng Bộ",
+    "line_start": 2501,
+    "line_end": 2501
+  },
+  {
+    "clause_id": "dieu-48",
+    "anchor": "dieu-48",
+    "title": "Điều 48. Bảo hiểm cháy, nổ bắt buộc",
+    "line_start": 2511,
+    "line_end": 2511
+  },
+  {
+    "clause_id": "dieu-48-khoan-1",
+    "anchor": "dieu-48-khoan-1",
+    "title": "1. Cơ",
+    "line_start": 2514,
+    "line_end": 2514
+  },
+  {
+    "clause_id": "dieu-48-khoan-2",
+    "anchor": "dieu-48-khoan-2",
+    "title": "2. Khuyến khích cơ",
+    "line_start": 2519,
+    "line_end": 2519
+  },
+  {
+    "clause_id": "dieu-49",
+    "anchor": "dieu-49",
+    "title": "Điều 49. Nguồn tài chính bảo đảm cho hoạt động phòng cháy, chữa cháy, cứu nạn, cứu hộ",
+    "line_start": 2534,
+    "line_end": 2534
+  },
+  {
+    "clause_id": "dieu-49-khoan-1",
+    "anchor": "dieu-49-khoan-1",
+    "title": "1. Nguồn tài chính bảo",
+    "line_start": 2537,
+    "line_end": 2537
+  },
+  {
+    "clause_id": "dieu-49-khoan-2",
+    "anchor": "dieu-49-khoan-2",
+    "title": "2. Việc quản lý, sử dụng",
+    "line_start": 2557,
+    "line_end": 2557
+  },
+  {
+    "clause_id": "dieu-49-khoan-3",
+    "anchor": "dieu-49-khoan-3",
+    "title": "3. Chính phủ quy định",
+    "line_start": 2564,
+    "line_end": 2564
+  },
+  {
+    "clause_id": "dieu-50",
+    "anchor": "dieu-50",
+    "title": "Điều 50. Ngân sách nhà nước bảo đảm cho hoạt động phòng cháy, chữa cháy, cứu nạn, cứu",
+    "line_start": 2574,
+    "line_end": 2574
+  },
+  {
+    "clause_id": "dieu-50-khoan-1",
+    "anchor": "dieu-50-khoan-1",
+    "title": "1. Nhà nước bảo đảm",
+    "line_start": 2578,
+    "line_end": 2578
+  },
+  {
+    "clause_id": "dieu-50-khoan-2",
+    "anchor": "dieu-50-khoan-2",
+    "title": "2. Trong trường hợp cấp",
+    "line_start": 2587,
+    "line_end": 2587
+  },
+  {
+    "clause_id": "dieu-50-khoan-3",
+    "anchor": "dieu-50-khoan-3",
+    "title": "3. Nhà nước cấp ngân",
+    "line_start": 2592,
+    "line_end": 2592
+  },
+  {
+    "clause_id": "dieu-50-khoan-4",
+    "anchor": "dieu-50-khoan-4",
+    "title": "4. Ngân sách nhà nước",
+    "line_start": 2599,
+    "line_end": 2599
+  },
+  {
+    "clause_id": "dieu-50-khoan-5",
+    "anchor": "dieu-50-khoan-5",
+    "title": "5. Việc lập dự toán,",
+    "line_start": 2618,
+    "line_end": 2618
+  },
+  {
+    "clause_id": "dieu-50-khoan-6",
+    "anchor": "dieu-50-khoan-6",
+    "title": "6. Ủy ban nhân dân cấp",
+    "line_start": 2624,
+    "line_end": 2624
+  },
+  {
+    "clause_id": "dieu-50-khoan-7",
+    "anchor": "dieu-50-khoan-7",
+    "title": "7. Chính phủ quy định",
+    "line_start": 2632,
+    "line_end": 2632
+  },
+  {
+    "clause_id": "dieu-51",
+    "anchor": "dieu-51",
+    "title": "Điều 51. Khuyến khích đầu tư cho hoạt động phòng cháy, chữa cháy, cứu nạn, cứu hộ",
+    "line_start": 2642,
+    "line_end": 2642
+  },
+  {
+    "clause_id": "dieu-51-khoan-1",
+    "anchor": "dieu-51-khoan-1",
+    "title": "1. Nhà nước khuyến",
+    "line_start": 2645,
+    "line_end": 2645
+  },
+  {
+    "clause_id": "dieu-51-khoan-2",
+    "anchor": "dieu-51-khoan-2",
+    "title": "2. Tổ chức, cá nhân sản",
+    "line_start": 2651,
+    "line_end": 2651
+  },
+  {
+    "clause_id": "dieu-52",
+    "anchor": "dieu-52",
+    "title": "Điều 52. Hoạt động khoa học và công nghệ, hệ thống Cơ sở dữ liệu về phòng cháy, chữa",
+    "line_start": 2663,
+    "line_end": 2663
+  },
+  {
+    "clause_id": "dieu-52-khoan-1",
+    "anchor": "dieu-52-khoan-1",
+    "title": "1. Hoạt",
+    "line_start": 2667,
+    "line_end": 2667
+  },
+  {
+    "clause_id": "dieu-52-khoan-3",
+    "anchor": "dieu-52-khoan-3",
+    "title": "3. Ưu tiên kết hợp, ứng dụng kết quả đề tài, nhiệm vụ",
+    "line_start": 2681,
+    "line_end": 2681
+  },
+  {
+    "clause_id": "dieu-52-khoan-4",
+    "anchor": "dieu-52-khoan-4",
+    "title": "4. Hệ thống Cơ sở dữ liệu về phòng cháy, chữa cháy, cứu nạn,",
+    "line_start": 2687,
+    "line_end": 2687
+  },
+  {
+    "clause_id": "dieu-52-khoan-5",
+    "anchor": "dieu-52-khoan-5",
+    "title": "5. Chính phủ quy định chi tiết khoản 4 Điều này; quy định việc",
+    "line_start": 2692,
+    "line_end": 2692
+  },
+  {
+    "clause_id": "dieu-53",
+    "anchor": "dieu-53",
+    "title": "Điều 53. Sửa đổi, bổ sung một số điều của các luật có liên quan",
+    "line_start": 2707,
+    "line_end": 2707
+  },
+  {
+    "clause_id": "dieu-54",
+    "anchor": "dieu-54",
+    "title": "Điều 54. Hiệu lực thi hành",
+    "line_start": 2749,
+    "line_end": 2749
+  },
+  {
+    "clause_id": "dieu-54-khoan-1",
+    "anchor": "dieu-54-khoan-1",
+    "title": "1. Luật này có hiệu lực",
+    "line_start": 2752,
+    "line_end": 2752
+  },
+  {
+    "clause_id": "dieu-54-khoan-2",
+    "anchor": "dieu-54-khoan-2",
+    "title": "2. Luật Phòng cháy và chữa cháy số 27/2001/QH10 đã",
+    "line_start": 2757,
+    "line_end": 2757
+  },
+  {
+    "clause_id": "dieu-54-khoan-3",
+    "anchor": "dieu-54-khoan-3",
+    "title": "3. Nghị quyết số",
+    "line_start": 2764,
+    "line_end": 2764
+  },
+  {
+    "clause_id": "dieu-54-khoan-4",
+    "anchor": "dieu-54-khoan-4",
+    "title": "4. Việc trang bị thiết",
+    "line_start": 2770,
+    "line_end": 2770
+  },
+  {
+    "clause_id": "dieu-55",
+    "anchor": "dieu-55",
+    "title": "Điều 55. Quy định chuyển tiếp",
+    "line_start": 2782,
+    "line_end": 2782
+  },
+  {
+    "clause_id": "dieu-55-khoan-1",
+    "anchor": "dieu-55-khoan-1",
+    "title": "1. Hồ sơ giải quyết",
+    "line_start": 2785,
+    "line_end": 2785
+  },
+  {
+    "clause_id": "dieu-55-khoan-2",
+    "anchor": "dieu-55-khoan-2",
+    "title": "2. Dự án đầu tư xây dựng",
+    "line_start": 2793,
+    "line_end": 2793
+  },
+  {
+    "clause_id": "dieu-55-khoan-3",
+    "anchor": "dieu-55-khoan-3",
+    "title": "3. Chứng nhận huấn luyện",
+    "line_start": 2801,
+    "line_end": 2801
+  },
+  {
+    "clause_id": "dieu-55-khoan-5",
+    "anchor": "dieu-55-khoan-5",
+    "title": "5. Cơ sở không bảo đảm",
+    "line_start": 2813,
+    "line_end": 2813
+  },
+  {
+    "clause_id": "dieu-55-khoan-7",
+    "anchor": "dieu-55-khoan-7",
+    "title": "7. Cơ sở, phương tiện",
+    "line_start": 2860,
+    "line_end": 2860
+  }
+]

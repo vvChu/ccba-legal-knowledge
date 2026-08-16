@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_b_5_nhom_vat_lieu_chay_doc",
+  "title": "Bảng B.5 - Nhóm vật liệu cháy theo độc tính",
+  "headers": [
+    "Nhóm độc tính của vật liệu",
+    "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ",
+    "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ",
+    "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ",
+    "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ"
+  ],
+  "rows": [
+    {
+      "Nhóm độc tính của vật liệu": "Nhóm độc tính của vật liệu",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ": "60"
+    },
+    {
+      "Nhóm độc tính của vật liệu": "ĐT1 - độc tính thấp",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ": "> 90"
+    },
+    {
+      "Nhóm độc tính của vật liệu": "ĐT2 - độc tính vừa phải",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ": "> 30 và ≤ 90"
+    },
+    {
+      "Nhóm độc tính của vật liệu": "ĐT3 - độc tính cao",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ": "> 10 và ≤ 30"
+    },
+    {
+      "Nhóm độc tính của vật liệu": "ĐT4 - độc tính đặc biệt cao",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ": "≤ 10"
+    }
+  ],
+  "total_rows": 5,
+  "footnotes": [
+    "CHÚ THÍCH: Các thông số thử nghiệm và tính toán chỉ số HCL50 theo ISO 13344 hoặc tiêu chuẩn tương đương."
+  ]
+}

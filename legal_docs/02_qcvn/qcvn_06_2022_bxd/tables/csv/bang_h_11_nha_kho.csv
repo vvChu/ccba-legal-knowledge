@@ -1,0 +1,12 @@
+﻿"Nhóm nguy hiểm cháy theo công năng của nhà, công trình",Bậc chịu lửa,Cấp nguy hiểm cháy kết cấu,"Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kề tầng kỹ thuật trên cùng)","Sức chứa của gian phòng hoặc công trình, chỗ"
+F2.1,I,S0,50,Không hạn chế
+F2.1,II,S0,9 (3),≤ 800
+F2.1,II,S1,6 (2),≤ 600
+F2.1,III,S0,3 (1),≤ 400
+F2.1,"IV, V","S0, S1, S2, S3",3 (1),≤ 300
+F2.2,I,S0,50,Không hạn chế
+F2.2,II,S0,50,≤ 800
+F2.2,II,S1,28,≤ 600
+F2.2,III,S0,9 (3),≤ 400
+F2.2,III,S1,6 (2),≤ 300
+F2.2,"IV, V","S0, S1, S2, S3",3 (1),≤ 300

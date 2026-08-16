@@ -1,0 +1,447 @@
+[
+  {
+    "question": "Điều 1 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 1. Phạm vi điều chỉnh.",
+    "anchor": "dieu-1"
+  },
+  {
+    "question": "Điều 2 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 2. Đối tượng áp dụng.",
+    "anchor": "dieu-2"
+  },
+  {
+    "question": "Điều 3 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 3. Giải thích từ ngữ.",
+    "anchor": "dieu-3"
+  },
+  {
+    "question": "Điều 4 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 4. Trình tự đầu tư xây dựng.",
+    "anchor": "dieu-4"
+  },
+  {
+    "question": "Điều 5 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 5. Phân loại dự án đầu tư xây dựng.",
+    "anchor": "dieu-5"
+  },
+  {
+    "question": "Điều 6 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 6. Giao chủ đầu tư và điều kiện đối với cơ quan, tổ chức được giao làm chủ đầu tư.",
+    "anchor": "dieu-6"
+  },
+  {
+    "question": "Điều 7 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 7. Nguyên tắc thực hiện các thủ tục hành chính.",
+    "anchor": "dieu-7"
+  },
+  {
+    "question": "Điều 8 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 8. Ứng dụng mô hình thông tin công trình (BIM) trong hoạt động xây dựng và các giải pháp công nghệ số.",
+    "anchor": "dieu-8"
+  },
+  {
+    "question": "Điều 9 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 9. Áp dụng tiêu chuẩn trong hoạt động xây dựng.",
+    "anchor": "dieu-9"
+  },
+  {
+    "question": "Điều 10 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 10. Trình tự thực hiện khảo sát xây dựng.",
+    "anchor": "dieu-10"
+  },
+  {
+    "question": "Điều 11 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 11. Nhiệm vụ khảo sát xây dựng.",
+    "anchor": "dieu-11"
+  },
+  {
+    "question": "Điều 12 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 12. Phương án kỹ thuật khảo sát xây dựng.",
+    "anchor": "dieu-12"
+  },
+  {
+    "question": "Điều 13 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 13. Quản lý công tác khảo sát xây dựng.",
+    "anchor": "dieu-13"
+  },
+  {
+    "question": "Điều 14 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 14. Nội dung Báo cáo kết quả khảo sát xây dựng.",
+    "anchor": "dieu-14"
+  },
+  {
+    "question": "Điều 15 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 15. Phê duyệt Báo cáo kết quả khảo sát xây dựng.",
+    "anchor": "dieu-15"
+  },
+  {
+    "question": "Điều 16 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 16. Quy định chung về thiết kế xây dựng.",
+    "anchor": "dieu-16"
+  },
+  {
+    "question": "Điều 17 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 17. Nhiệm vụ thiết kế xây dựng.",
+    "anchor": "dieu-17"
+  },
+  {
+    "question": "Điều 18 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 18. Quy cách hồ sơ thiết kế xây dựng.",
+    "anchor": "dieu-18"
+  },
+  {
+    "question": "Điều 19 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 19. Nội dung thiết kế sơ bộ.",
+    "anchor": "dieu-19"
+  },
+  {
+    "question": "Điều 20 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 20. Nội dung thiết kế cơ sở.",
+    "anchor": "dieu-20"
+  },
+  {
+    "question": "Điều 21 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 21. Nội dung thiết kế FEED.",
+    "anchor": "dieu-21"
+  },
+  {
+    "question": "Điều 22 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 22. Nội dung thiết kế kỹ thuật.",
+    "anchor": "dieu-22"
+  },
+  {
+    "question": "Điều 23 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 23. Nội dung thiết kế bản vẽ thi công.",
+    "anchor": "dieu-23"
+  },
+  {
+    "question": "Điều 24 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 24. Chỉ dẫn kỹ thuật.",
+    "anchor": "dieu-24"
+  },
+  {
+    "question": "Điều 25 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 25. Quản lý công tác thiết kế xây dựng.",
+    "anchor": "dieu-25"
+  },
+  {
+    "question": "Điều 26 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 26. Quy hoạch sử dụng làm căn cứ lập Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật.",
+    "anchor": "dieu-26"
+  },
+  {
+    "question": "Điều 27 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 27. Lập Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật.",
+    "anchor": "dieu-27"
+  },
+  {
+    "question": "Điều 28 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 28. Tách dự án thành phần, phân kỳ đầu tư.",
+    "anchor": "dieu-28"
+  },
+  {
+    "question": "Điều 29 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 29. Nội dung Báo cáo nghiên cứu khả thi.",
+    "anchor": "dieu-29"
+  },
+  {
+    "question": "Điều 30 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 30. Nội dung Báo cáo kinh tế - kỹ thuật.",
+    "anchor": "dieu-30"
+  },
+  {
+    "question": "Điều 31 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 31. Thẩm định Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật của người quyết định đầu tư.",
+    "anchor": "dieu-31"
+  },
+  {
+    "question": "Điều 32 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 32. Thẩm quyền thẩm định Báo cáo nghiên cứu khả thi của cơ quan chuyên môn về xây dựng.",
+    "anchor": "dieu-32"
+  },
+  {
+    "question": "Điều 33 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 33. Các quy định khác về thẩm quyền thẩm định Báo cáo nghiên cứu khả thi của cơ quan chuyên môn về xây dựng.",
+    "anchor": "dieu-33"
+  },
+  {
+    "question": "Điều 34 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 34. Hội đồng thẩm định.",
+    "anchor": "dieu-34"
+  },
+  {
+    "question": "Điều 35 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 35. Hồ sơ trình thẩm định Báo cáo nghiên cứu khả thi tại cơ quan chuyên môn về xây dựng, Hội đồng thẩm định.",
+    "anchor": "dieu-35"
+  },
+  {
+    "question": "Điều 36 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 36. Trình tự thẩm định Báo cáo nghiên cứu khả thi của cơ quan chuyên môn về xây dựng, Hội đồng thẩm định.",
+    "anchor": "dieu-36"
+  },
+  {
+    "question": "Điều 37 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 37. Thời gian thẩm định Báo cáo nghiên cứu khả thi của cơ quan chuyên môn về xây dựng, Hội đồng thẩm định.",
+    "anchor": "dieu-37"
+  },
+  {
+    "question": "Điều 38 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 38. Nội dung, kết quả thẩm định Báo cáo nghiên cứu khả thi của cơ quan chuyên môn về xây dựng, Hội đồng thẩm định.",
+    "anchor": "dieu-38"
+  },
+  {
+    "question": "Điều 39 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 39. Phê duyệt dự án, quyết định đầu tư xây dựng.",
+    "anchor": "dieu-39"
+  },
+  {
+    "question": "Điều 40 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 40. Điều chỉnh dự án đầu tư xây dựng.",
+    "anchor": "dieu-40"
+  },
+  {
+    "question": "Điều 41 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 41. Thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt.",
+    "anchor": "dieu-41"
+  },
+  {
+    "question": "Điều 42 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 42. Phê duyệt thiết kế xây dựng triển khai sau khi dự án được phê duyệt.",
+    "anchor": "dieu-42"
+  },
+  {
+    "question": "Điều 43 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 43. Điều chỉnh thiết kế xây dựng triển khai sau khi dự án được phê duyệt.",
+    "anchor": "dieu-43"
+  },
+  {
+    "question": "Điều 44 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 44. Hình thức quản lý dự án đầu tư xây dựng.",
+    "anchor": "dieu-44"
+  },
+  {
+    "question": "Điều 45 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 45. Tổ chức và hoạt động của Ban quản lý dự án đầu tư xây dựng.",
+    "anchor": "dieu-45"
+  },
+  {
+    "question": "Điều 46 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 46. Thuê tư vấn quản lý dự án đầu tư xây dựng.",
+    "anchor": "dieu-46"
+  },
+  {
+    "question": "Điều 47 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 47. Ban quản lý dự án trực thuộc.",
+    "anchor": "dieu-47"
+  },
+  {
+    "question": "Điều 48 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 48. Chủ đầu tư tự thực hiện quản lý dự án.",
+    "anchor": "dieu-48"
+  },
+  {
+    "question": "Điều 49 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 49. Nội dung chủ yếu của giấy phép xây dựng.",
+    "anchor": "dieu-49"
+  },
+  {
+    "question": "Điều 50 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 50. Điều kiện cấp giấy phép xây dựng mới.",
+    "anchor": "dieu-50"
+  },
+  {
+    "question": "Điều 51 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 51. Điều kiện cấp giấy phép xây dựng sửa chữa, cải tạo, di dời công trình.",
+    "anchor": "dieu-51"
+  },
+  {
+    "question": "Điều 52 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 52. Điều kiện cấp giấy phép xây dựng có thời hạn.",
+    "anchor": "dieu-52"
+  },
+  {
+    "question": "Điều 53 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 53. Thẩm quyền cấp giấy phép xây dựng.",
+    "anchor": "dieu-53"
+  },
+  {
+    "question": "Điều 54 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 54. Trình tự, nội dung xem xét cấp, điều chỉnh, cấp lại, gia hạn giấy phép xây dựng.",
+    "anchor": "dieu-54"
+  },
+  {
+    "question": "Điều 55 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 55. Các loại giấy tờ hợp pháp về đất đai để cấp giấy phép xây dựng.",
+    "anchor": "dieu-55"
+  },
+  {
+    "question": "Điều 56 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 56. Quy định chung về hồ sơ đề nghị cấp giấy phép xây dựng.",
+    "anchor": "dieu-56"
+  },
+  {
+    "question": "Điều 57 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 57. Hồ sơ đề nghị cấp giấy phép xây dựng mới.",
+    "anchor": "dieu-57"
+  },
+  {
+    "question": "Điều 58 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 58. Hồ sơ đề nghị cấp giấy phép xây dựng theo giai đoạn.",
+    "anchor": "dieu-58"
+  },
+  {
+    "question": "Điều 59 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 59. Hồ sơ đề nghị cấp giấy phép xây dựng cho toàn bộ công trình thuộc dự án, nhóm công trình thuộc dự án.",
+    "anchor": "dieu-59"
+  },
+  {
+    "question": "Điều 60 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 60. Hồ sơ đề nghị cấp giấy phép xây dựng đối với công trình nhà ở riêng lẻ.",
+    "anchor": "dieu-60"
+  },
+  {
+    "question": "Điều 61 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 61. Hồ sơ đề nghị cấp giấy phép sửa chữa, cải tạo, di dời công trình.",
+    "anchor": "dieu-61"
+  },
+  {
+    "question": "Điều 62 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 62. Hồ sơ đề nghị cấp giấy phép xây dựng có thời hạn.",
+    "anchor": "dieu-62"
+  },
+  {
+    "question": "Điều 63 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 63. Điều chỉnh, gia hạn giấy phép xây dựng.",
+    "anchor": "dieu-63"
+  },
+  {
+    "question": "Điều 64 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 64. Cấp lại giấy phép xây dựng.",
+    "anchor": "dieu-64"
+  },
+  {
+    "question": "Điều 65 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 65. Thu hồi, hủy giấy phép xây dựng.",
+    "anchor": "dieu-65"
+  },
+  {
+    "question": "Điều 66 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 66. Công khai giấy phép xây dựng.",
+    "anchor": "dieu-66"
+  },
+  {
+    "question": "Điều 67 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 67. Quản lý trật tự xây dựng.",
+    "anchor": "dieu-67"
+  },
+  {
+    "question": "Điều 68 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 68. Quản lý đầu tư xây dựng dự án, công trình cần bảo đảm bí mật nhà nước.",
+    "anchor": "dieu-68"
+  },
+  {
+    "question": "Điều 69 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 69. Quản lý đầu tư xây dựng dự án, công trình xây dựng khẩn cấp.",
+    "anchor": "dieu-69"
+  },
+  {
+    "question": "Điều 70 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 70. Quản lý đầu tư xây dựng dự án, công trình cấp bách.",
+    "anchor": "dieu-70"
+  },
+  {
+    "question": "Điều 71 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 71. Dự án đầu tư công đặc biệt.",
+    "anchor": "dieu-71"
+  },
+  {
+    "question": "Điều 72 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 72. Dự án, công trình xây dựng tạm.",
+    "anchor": "dieu-72"
+  },
+  {
+    "question": "Điều 73 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 73. Trách nhiệm thi hành.",
+    "anchor": "dieu-73"
+  },
+  {
+    "question": "Điều 74 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 74. Sửa đổi, bổ sung, bãi bỏ một số điều của Nghị định số 105/2025/NĐ-CP ngày 15 tháng 5 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ.",
+    "anchor": "dieu-74"
+  },
+  {
+    "question": "Điều 75 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 75. Hiệu lực thi hành.",
+    "anchor": "dieu-75"
+  },
+  {
+    "question": "Điều 76 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 76. Điều khoản chuyển tiếp.",
+    "anchor": "dieu-76"
+  },
+  {
+    "question": "Điều 1 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 1. Phê duyệt dự án/dự án thành phần/giai đoạn/hạng mục công trình *(tên dự án/công trình của dự án)* với các nội dung chủ yếu như sau:.",
+    "anchor": "dieu-1"
+  },
+  {
+    "question": "Điều 2 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 2. Tổ chức thực hiện..",
+    "anchor": "dieu-2"
+  },
+  {
+    "question": "Điều 3 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 3. Tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này..",
+    "anchor": "dieu-3"
+  },
+  {
+    "question": "Điều 1 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 1. Phê duyệt dự án/hạng mục công trình của dự án *(tên dự án)* với các nội dung chủ yếu như sau:.",
+    "anchor": "dieu-1"
+  },
+  {
+    "question": "Điều 2 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 2. Tổ chức thực hiện..",
+    "anchor": "dieu-2"
+  },
+  {
+    "question": "Điều 3 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 3. Tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này..",
+    "anchor": "dieu-3"
+  },
+  {
+    "question": "Điều 1 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 1. Phê duyệt thiết kế xây dựng triển khai sau khi dự án được phê duyệt (tên công trình) với các nội dung chủ yếu như sau:.",
+    "anchor": "dieu-1"
+  },
+  {
+    "question": "Điều 2 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 2. Tổ chức thực hiện..",
+    "anchor": "dieu-2"
+  },
+  {
+    "question": "Điều 3 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 3. Tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành quyết định..",
+    "anchor": "dieu-3"
+  },
+  {
+    "question": "Điều 1 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 1. Ban hành Lệnh xây dựng công trình khẩn cấp với các nội dung chính như sau:.",
+    "anchor": "dieu-1"
+  },
+  {
+    "question": "Điều 2 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 2. Tổ chức thực hiện..",
+    "anchor": "dieu-2"
+  },
+  {
+    "question": "Điều 3 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký..",
+    "anchor": "dieu-3"
+  },
+  {
+    "question": "Điều 4 quy định về nội dung gì?",
+    "answer": "Chi tiết tại Điều 4. Tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này..",
+    "anchor": "dieu-4"
+  }
+]

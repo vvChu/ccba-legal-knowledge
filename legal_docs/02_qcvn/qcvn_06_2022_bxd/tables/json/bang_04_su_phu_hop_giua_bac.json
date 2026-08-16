@@ -1,0 +1,48 @@
+{
+  "table_id": "bang_04_su_phu_hop_giua_bac",
+  "title": "Bảng 4 - Sự phù hợp giữa bậc chịu lửa của nhà, công trình và khoang cháy với giới hạn chịu lửa của cấu kiện xây dựng của nhà, công trình và khoang cháy",
+  "headers": [
+    "Bậc chịu lửa của nhà, công trình và khoang cháy",
+    "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn",
+    "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn",
+    "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn",
+    "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn",
+    "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn",
+    "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn",
+    "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn"
+  ],
+  "rows": [
+    {
+      "Bậc chịu lửa của nhà, công trình và khoang cháy": "Bậc chịu lửa của nhà, công trình và khoang cháy",
+      "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn": "Các cấu kiện xây dựng của buồng thang bộ"
+    },
+    {
+      "Bậc chịu lửa của nhà, công trình và khoang cháy": "Bậc chịu lửa của nhà, công trình và khoang cháy",
+      "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn": "Bản thang và chiếu thang"
+    },
+    {
+      "Bậc chịu lửa của nhà, công trình và khoang cháy": "I",
+      "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn": "R 60"
+    },
+    {
+      "Bậc chịu lửa của nhà, công trình và khoang cháy": "II",
+      "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn": "R 60"
+    },
+    {
+      "Bậc chịu lửa của nhà, công trình và khoang cháy": "II",
+      "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn": "R 45"
+    },
+    {
+      "Bậc chịu lửa của nhà, công trình và khoang cháy": "IV",
+      "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn": "R 15"
+    },
+    {
+      "Bậc chịu lửa của nhà, công trình và khoang cháy": "V",
+      "Giới hạn chịu lửa của cấu kiện, không nhỏ hơn": "Không quy định"
+    }
+  ],
+  "total_rows": 7,
+  "footnotes": [
+    "CHÚ THÍCH 1: Trong các nhà có bậc chịu lửa I, II, III thì sàn và trần của tầng hầm, tầng nửa hầm phải làm bằng vật liệu không cháy và có giới hạn chịu lửa ít nhất REI 90. Sàn tầng 1 và tầng trên cùng phải làm bằng vật liệu có tính cháy không thấp hơn Ch1. Trong các nhà có bậc chịu lửa IV, V thì sàn của tầng hầm hoặc tầng nửa hầm phải làm bằng vật liệu có tính cháy không thấp hơn Ch1 và có giới hạn chịu lửa không dưới REl 45. CHÚ THÍCH 2: Không quy định giới hạn chịu lửa của các tấm lợp (kể cả tấm lợp có lớp cách nhiệt) và xà gồ đỡ tấm lợp (trừ các nhà, khoang cháy, gian phòng thuộc nhóm nguy hiểm cháy theo công năng F3.1, F3.2, nhà sản xuất, nhà kho nhóm F5 và các nhà, gian phòng, khoang cháy khác thuộc hạng A, B, C) khi thoả mãn đồng thời các điều kiện sau: Mặt dưới xà gỗ nằm cách sàn ngay dưới chúng một khoảng cách tối thiểu 6,1 m, Tấm lợp và xà gồ được làm từ các vật liệu không cháy hoặc cháy yếu (Ch1). CHÚ THÍCH 3: Đối với nhà (nhà nhóm F1.3 và nhà hỗn hợp) có 2 hoặc 3 tầng hầm thì các cấu kiện kết cấu chịu lực ở tầng hầm phải có giới hạn chịu lửa tối thiểu R 120. CHÚ THÍCH 4: Trang các phòng có sản xuất hoặc bảo quản các chất lỏng cháy được thì sàn phát làm bằng vật liệu không cháy. CHÚ THÍCH 5: Cho phép một phần tường ngoài không chịu lực không cần bảo vệ chống cháy với diện tích xác định Theo E.3, Phụ lục E. CHÚ THÍCH 6: Không quy định giới hạn chịu lửa của tường ngoài không chịu lực đối với các mặt nhà đồng thời thoả mãn các điều kiện sau: - Toàn nhà được trang bị chữa cháy tự động sprinkler Theo TCVN 7336; - Bảo đảm khoảng cách phòng cháy chống cháy tối thiểu tương ứng với 100 % diện tích tường ngoài không cần bảo vệ chống cháy tại E.3, Phụ lục E; - Tường ngoài không chịu lực của nhà có cấp nguy hiểm cháy K0. Vật liệu hoàn thiện tường ngoài (nếu có) là vật liệu không cháy hoặc có tính cháy không thấp hơn Ch1 và tính lan truyền cháy không thấp hơn LT1."
+  ]
+}

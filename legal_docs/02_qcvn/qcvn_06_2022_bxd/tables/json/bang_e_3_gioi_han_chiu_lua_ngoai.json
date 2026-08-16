@@ -1,0 +1,36 @@
+{
+  "table_id": "bang_e_3_gioi_han_chiu_lua_ngoai",
+  "title": "Bảng E.3 - Giới hạn chịu lửa của tường ngoài phụ thuộc vào khoảng cách phòng cháy chống cháy theo đường ranh giới",
+  "headers": [
+    "Nhà thuộc nhóm nguy hiểm cháy theo công năng",
+    "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m",
+    "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m",
+    "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m",
+    "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m",
+    "Diện tích lỗ mở không được bảo vệ chống cháy"
+  ],
+  "rows": [
+    {
+      "Nhà thuộc nhóm nguy hiểm cháy theo công năng": "Nhà thuộc nhóm nguy hiểm cháy theo công năng",
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "> 9",
+      "Diện tích lỗ mở không được bảo vệ chống cháy": "Diện tích lỗ mở không được bảo vệ chống cháy"
+    },
+    {
+      "Nhà thuộc nhóm nguy hiểm cháy theo công năng": "1. Các nhóm F3.1, F3.2; karaoke, vũ trường thuộc nhóm F2.1; nhóm F5 hạng C",
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "0",
+      "Diện tích lỗ mở không được bảo vệ chống cháy": "Xem Bảng E.4a"
+    },
+    {
+      "Nhà thuộc nhóm nguy hiểm cháy theo công năng": "2. Nhóm F5 hạng A, B",
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "0",
+      "Diện tích lỗ mở không được bảo vệ chống cháy": "Xem Bảng E.4a"
+    },
+    {
+      "Nhà thuộc nhóm nguy hiểm cháy theo công năng": "3. Các nhóm còn lại",
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "0",
+      "Diện tích lỗ mở không được bảo vệ chống cháy": "Xem Bảng E.4b"
+    }
+  ],
+  "total_rows": 4,
+  "footnotes": []
+}

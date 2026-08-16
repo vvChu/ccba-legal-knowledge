@@ -1,0 +1,52 @@
+{
+  "table_id": "bang_h_12_nha_kho_chua_go_thanh",
+  "title": "Bảng H.12 - Nhà kho chứa gỗ thành phẩm",
+  "headers": [
+    "Bậc chịu lửa của nhà",
+    "Cấp nguy hiểm cháy kết cấu của nhà",
+    "Sức chứa của gian phòng, chỗ",
+    "Chiều cao PCCC lớn nhất cho phép bố trí gian phòng, m"
+  ],
+  "rows": [
+    {
+      "Bậc chịu lửa của nhà": "I, II",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Sức chứa của gian phòng, chỗ": "≤ 300",
+      "Chiều cao PCCC lớn nhất cho phép bố trí gian phòng, m": "50"
+    },
+    {
+      "Bậc chịu lửa của nhà": "I, II",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0, S1",
+      "Sức chứa của gian phòng, chỗ": "≤ 600",
+      "Chiều cao PCCC lớn nhất cho phép bố trí gian phòng, m": "12"
+    },
+    {
+      "Bậc chịu lửa của nhà": "I, II",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0, S1",
+      "Sức chứa của gian phòng, chỗ": "> 600",
+      "Chiều cao PCCC lớn nhất cho phép bố trí gian phòng, m": "9"
+    },
+    {
+      "Bậc chịu lửa của nhà": "III",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Sức chứa của gian phòng, chỗ": "≤ 300",
+      "Chiều cao PCCC lớn nhất cho phép bố trí gian phòng, m": "9"
+    },
+    {
+      "Bậc chịu lửa của nhà": "III",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0, S1",
+      "Sức chứa của gian phòng, chỗ": "≤ 600",
+      "Chiều cao PCCC lớn nhất cho phép bố trí gian phòng, m": "3"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0, S1, S2, S3",
+      "Sức chứa của gian phòng, chỗ": "≤ 100",
+      "Chiều cao PCCC lớn nhất cho phép bố trí gian phòng, m": "3"
+    }
+  ],
+  "total_rows": 6,
+  "footnotes": [
+    "CHÚ THÍCH 1: Chiều cao lớn nhất cho phép bố trí gian phòng là cao độ của tầng tương ứng với hàng ghế đầu tiên. CHÚ THÍCH 2: Trong các nhà trẻ, mầm non, mẫu giáo, các cơ sở dưỡng lão và chăm sóc người khuyết tật (không phải kiểu căn hộ), bệnh viện, các nhà ngủ của cơ sở giáo dục nội trú và các cơ sở trẻ em, cơ sở chăm sóc sức khỏe trẻ em (nhóm F1.1), không cho phép bố trí các gian phòng nói trên cao quá tầng 2, còn đối với các trường học (nhóm F4.1) - không cho phép cao quá tầng 3. CHÚ THÍCH 3: Tổng sức chứa của các gian phòng đặt trên cùng một tầng không được vượt quá giá trị cho phép trong bảng này (trừ trường hợp các gian phòng đặt ở các khoang cháy khác nhau)."
+  ]
+}

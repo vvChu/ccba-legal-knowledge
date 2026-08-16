@@ -1,0 +1,50 @@
+acknowledgment_format: '"Tôi đã đọc workspace_context.yaml. Dự án ccba-legal-knowledge
+  thuộc loại Thẩm tra thiết kế (mode: delivery). Tác vụ hiện tại liên quan đến pháp
+  luật và quy chuẩn xây dựng."
+
+  '
+acknowledgment_required: true
+agent_skills:
+- notebooklm-connector
+- hybrid-rag-search
+- grilling
+- maskara-privacy
+- tvpl-vip-crawler
+- ccba-legal-intel
+- form-template-cleaner
+- table-reconstructor
+agents:
+  language: vi
+  primary_domain: legal-compliance
+do_not_touch:
+- .env
+hub_path: D:\GitHubProjects\ccba-agent-platform
+issue_tracker: local_json
+knowledge_base:
+  primary_notebook_id: 6dca7e4e-c407-4d1f-882a-e0d9459d1120
+  primary_notebook_name: CCBA_Legal_Knowledge_Base_2026
+  sync_strategy: auto
+must_read:
+  always:
+  - path: AGENTS.md
+    why: Workspace Constitution — Quy tắc vận hành Spoke Tri thức Pháp lý
+  - path: legal_registry.yaml
+    why: RAG Metadata Registry — Danh mục tài liệu tri thức VBPL/QCVN/TCVN
+  - path: .md/workspace_context.yaml
+    why: Workspace configuration & bootstrap
+project:
+  description: 'Cơ sở dữ liệu Tri thức Pháp luật và Quy chuẩn Kỹ thuật Xây dựng chính
+    quy của CCBA Agent Platform.
+
+    '
+  hub_path: D:/GitHubProjects/ccba-agent-platform
+  is_hub: false
+  mode: delivery
+  name: ccba-legal-knowledge
+  qc_mode: third-party
+  type: Thẩm tra thiết kế
+triage_disciplines:
+- architecture
+- structure
+- mep
+- pccc

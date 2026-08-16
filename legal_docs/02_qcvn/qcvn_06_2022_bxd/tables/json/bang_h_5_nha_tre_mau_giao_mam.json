@@ -1,0 +1,94 @@
+{
+  "table_id": "bang_h_5_nha_tre_mau_giao_mam",
+  "title": "Bảng H.5 - Nhà trẻ, mẫu giáo, mầm non",
+  "headers": [
+    "Bậc chịu lửa của nhà",
+    "Cấp nguy hiểm cháy kết cấu của nhà",
+    "Chiều cao PCCC lớn nhất cho phép của nhà, m",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2"
+  ],
+  "rows": [
+    {
+      "Bậc chịu lửa của nhà": "I",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "75",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "2 500"
+    },
+    {
+      "Bậc chịu lửa của nhà": "II",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "50",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "2 500"
+    },
+    {
+      "Bậc chịu lửa của nhà": "II",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "28",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "2 200"
+    },
+    {
+      "Bậc chịu lửa của nhà": "III",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "28",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "1 800"
+    },
+    {
+      "Bậc chịu lửa của nhà": "III",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "15",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "1 800"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "1 000"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "3",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "1 400"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "800"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "3",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "1 200"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S2",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "500"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S2",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "3",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "900"
+    },
+    {
+      "Bậc chịu lửa của nhà": "V",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "Không quy định",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "500"
+    },
+    {
+      "Bậc chịu lửa của nhà": "V",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "Không quy định",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "3",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "800"
+    }
+  ],
+  "total_rows": 13,
+  "footnotes": [
+    "CHÚ THÍCH 1: Quy định về số tầng (chiều cao PCCC cho phép), diện tích khoang cháy của các nhà thuộc nhóm nguy hiểm cháy theo công năng F1.3 có chiều cao PCCC từ trên 75 m đến 150 m được quy định tại Phụ lục A. CHÚ THÍCH 2: Các bộ phận chịu lực của nhà hai tầng có bậc chịu lửa IV phải có giới hạn chịu lửa không thấp hơn R 30."
+  ]
+}

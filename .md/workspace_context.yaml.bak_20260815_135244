@@ -1,0 +1,13 @@
+agent_skills:
+- notebooklm-connector
+- hybrid-rag-search
+- grilling
+- maskara-privacy
+hub_path: D:\GitHubProjects\ccba-agent-platform
+knowledge_base:
+  primary_notebook_id: 6dca7e4e-c407-4d1f-882a-e0d9459d1120
+  primary_notebook_name: CCBA_Legal_Knowledge_Base_2026
+  sync_strategy: auto
+project:
+  mode: delivery
+  name: ccba-legal-knowledge

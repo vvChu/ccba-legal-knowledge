@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_h_9_nha_san_xuat",
+  "title": "Bảng H.9 - Nhà sản xuất",
+  "headers": [
+    "Số chỗ trong nhà",
+    "Bậc chịu lửa của nhà, không thấp hơn",
+    "Cấp nguy hiểm cháy kết cấu của nhà",
+    "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng)"
+  ],
+  "rows": [
+    {
+      "Số chỗ trong nhà": "≤ 50",
+      "Bậc chịu lửa của nhà, không thấp hơn": "Không quy định",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "Không quy định",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng)": "3 (1)"
+    },
+    {
+      "Số chỗ trong nhà": "≤ 100",
+      "Bậc chịu lửa của nhà, không thấp hơn": "III",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0, S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng)": "6 (2)"
+    },
+    {
+      "Số chỗ trong nhà": "≤ 150",
+      "Bậc chịu lửa của nhà, không thấp hơn": "II",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0, S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng)": "6 (2)"
+    },
+    {
+      "Số chỗ trong nhà": "≤ 350",
+      "Bậc chịu lửa của nhà, không thấp hơn": "II",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng)": "9 (3)"
+    },
+    {
+      "Số chỗ trong nhà": "≤ 350",
+      "Bậc chịu lửa của nhà, không thấp hơn": "I",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng)": "9 (3)"
+    }
+  ],
+  "total_rows": 5,
+  "footnotes": []
+}

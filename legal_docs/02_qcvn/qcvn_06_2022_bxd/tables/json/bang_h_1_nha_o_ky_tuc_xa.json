@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_h_1_nha_o_ky_tuc_xa",
+  "title": "Bảng H.1 - Nhà ở và ký túc xá kiểu căn hộ",
+  "headers": [
+    "Bậc chịu lửa của công trình",
+    "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn",
+    "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn",
+    "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn",
+    "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn"
+  ],
+  "rows": [
+    {
+      "Bậc chịu lửa của công trình": "Bậc chịu lửa của công trình",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn": "Đi qua cửa ra từ các lối đi chính của khán đài"
+    },
+    {
+      "Bậc chịu lửa của công trình": "Bậc chịu lửa của công trình",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn": "Đi lên"
+    },
+    {
+      "Bậc chịu lửa của công trình": "I, II",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn": "1 230"
+    },
+    {
+      "Bậc chịu lửa của công trình": "III, IV",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn": "860"
+    },
+    {
+      "Bậc chịu lửa của công trình": "V",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn": "615"
+    }
+  ],
+  "total_rows": 5,
+  "footnotes": [
+    "CHÚ THÍCH: Tổng số lượng người thoát nạn đi qua một lối ra thoát nạn không được vượt quá 1 500 người khi khán đài cố bậc chịu lửa I, II. Khi khán đài có bậc chịu lửa là bậc III thì tổng số người đi qua phải giảm xuống 30 % và khi bậc IV và bậc V thì phải giảm xuống 50 %."
+  ]
+}

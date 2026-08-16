@@ -1,0 +1,36 @@
+{
+  "table_id": "bang_05_su_phu_hop_giua_cap",
+  "title": "Bảng 5 - Sự phù hợp giữa cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy với cấp nguy hiểm cháy của cấu kiện xây dựng",
+  "headers": [
+    "Cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy",
+    "Cấp nguy hiểm cháy của cấu kiện xây dựng",
+    "Cấp nguy hiểm cháy của cấu kiện xây dựng",
+    "Cấp nguy hiểm cháy của cấu kiện xây dựng",
+    "Cấp nguy hiểm cháy của cấu kiện xây dựng",
+    "Cấp nguy hiểm cháy của cấu kiện xây dựng"
+  ],
+  "rows": [
+    {
+      "Cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy": "Cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng": "Bàn thang và chiếu thang trong buồng thang bộ"
+    },
+    {
+      "Cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy": "S0",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng": "K0"
+    },
+    {
+      "Cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy": "S1",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng": "K0"
+    },
+    {
+      "Cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy": "S2",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng": "K1"
+    },
+    {
+      "Cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy": "S3",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng": "K3"
+    }
+  ],
+  "total_rows": 5,
+  "footnotes": []
+}

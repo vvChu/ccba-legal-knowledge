@@ -1,0 +1,148 @@
+{
+  "table_id": "bang_g_3_khoang_cach_gioi_han_phep",
+  "title": "Bảng G.3 - Khoảng cách giới hạn cho phép từ chỗ làm việc xa nhất đến lối ra thoát nạn gần nhất của nhà sản xuất",
+  "headers": [
+    "Kết cấu sàn",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa"
+  ],
+  "rows": [
+    {
+      "Kết cấu sàn": "Kết cấu sàn",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "REI 30"
+    },
+    {
+      "Kết cấu sàn": "(1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "(7)"
+    },
+    {
+      "Kết cấu sàn": "1. Sàn đặc:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều cao tổng thể 2) của tiết diện",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "100"
+    },
+    {
+      "Kết cấu sàn": "2. Sàn có lỗ rỗng với lỗ rỗng tiết diện tròn hoặc hộp. Phần diện tích tiết diện đặc phải chiếm không ít hơn 50 % tổng diện tích tiết diện ngang của sàn:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của phần bê tông dưới lỗ rỗng",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "20"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều cao tổng thể 2) của tiết diện",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "100"
+    },
+    {
+      "Kết cấu sàn": "3. Sàn tiết diện rỗng có một hoặc nhiều khoang rỗng hình hộp theo chiều dọc với chiều rộng lớn hơn chiều cao:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của bản cánh phía dưới",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "15"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều cao tổng thể 2) của tiết diện",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "105"
+    },
+    {
+      "Kết cấu sàn": "4. Sàn sườn có phần rỗng chèn bằng block đất sét nung, hoặc dầm chữ T ngược có phần rỗng được chèn bằng block bê tông hoặc block đất sét nung. Nếu sàn có phần diện tích tiết diện đặc nhỏ hơn 50 % tổng diện tích tiết diện ngang thì phải được trát một lớp dày 15 mm ở bề mặt phía dưới:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều rộng tiết diện sườn hoặc dầm chữ T, đo ở mặt đáy",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "50"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều cao tổng thể 2) của tiết diện",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "100"
+    },
+    {
+      "Kết cấu sàn": "5. Tiết diện chữ T:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt đáy",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "25"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt bên",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "25"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều rộng sườn hoặc hoặc của bụng dầm",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "60"
+    },
+    {
+      "Kết cấu sàn": "d) Chiều dày của cánh 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "90"
+    },
+    {
+      "Kết cấu sàn": "6. Tấm sàn tiết diện chữ U ngược có bán kính cong tại giao điểm giữa bản đáy với sườn của sàn không lớn hơn chiều cao tiết diện:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt đáy",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "25"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt bên",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "15"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều rộng của sườn hoặc của chân chữ U",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "30"
+    },
+    {
+      "Kết cấu sàn": "d) Chiều dày tại bản phía trên 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "90"
+    },
+    {
+      "Kết cấu sàn": "7. Tấm sàn tiết diện chữ U ngược hoặc chữ U có bán kính cong tại giao điểm giữa bản đáy với sườn của sàn lớn hơn chiều cao tiết diện:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt đáy",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "25"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt bên",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "15"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều rộng sườn hoặc của chân chữ U",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "30"
+    },
+    {
+      "Kết cấu sàn": "d) Chiều dày tại bản phía trên 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "90"
+    }
+  ],
+  "total_rows": 32,
+  "footnotes": [
+    "1) Có thể bổ sung cốt thép phụ để giữ lớp bê tông bảo vệ nếu cần. 2) Có thể cộng thêm chiều dày của các lớp láng hoặc lớp hoàn thiện bằng vật liệu không cháy.",
+    "CHÚ THÍCH 1: Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2. CHÚ THÍCH 2: Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định Các kết cấu siêu tĩnh tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng CHÚ THÍCH 3: Các thông số của tiết diện cấu kiện phải xét đồng thời."
+  ]
+}

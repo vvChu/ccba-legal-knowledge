@@ -1,0 +1,569 @@
+[
+  {
+    "clause_id": "dieu-1",
+    "anchor": "dieu-1",
+    "title": "Điều 1. Phạm vi điều chỉnh",
+    "line_start": 41,
+    "line_end": 41
+  },
+  {
+    "clause_id": "dieu-1-khoan-1",
+    "anchor": "dieu-1-khoan-1",
+    "title": "1. Thông tư này quy định chi tiết một số nội dung của Luật Xây dựng số 135/2025/QH15 thuộc phạm vi quản lý của Bộ Quốc phòng, gồm:",
+    "line_start": 44,
+    "line_end": 44
+  },
+  {
+    "clause_id": "dieu-1-khoan-2",
+    "anchor": "dieu-1-khoan-2",
+    "title": "2. Thông tư này hướng dẫn biện pháp thực hiện một số nội dung Luật Xây dựng số 135/2025/QH15 thuộc phạm vi quản lý của Bộ Quốc phòng, gồm:",
+    "line_start": 55,
+    "line_end": 55
+  },
+  {
+    "clause_id": "dieu-1-khoan-3",
+    "anchor": "dieu-1-khoan-3",
+    "title": "3. Đối với dự án đầu tư xây dựng công trình chiến đấu thực hiện theo quy định tại Thông tư số 40/2026/TT-BQP ngày 04 tháng 5 năm 2026 của Bộ trưởng Bộ Quốc phòng ban hành quy chế xây dựng công trình chiến đấu; dự án đầu tư xây dựng hệ thống trường bắn, thao trường huấn luyện thực hiện theo quy định tại Thông tư số 28/2021/TT-BQP ngày 01 tháng 3 năm 2021 ban hành quy chế quản lý đầu tư và điều hành, sử dụng hệ thống trường bắn, thao trường huấn luyện, được sửa đổi, bổ sung một số điều tại Thông tư số 35/2026/TT-BQP ngày 24 tháng 4 năm 2026; công trình, dự án nạo vét trong vùng nước cảng quân sự thực hiện theo quy định tại Thông tư số 15/2025/TT-BQP ngày 03 tháng 3 năm 2025 của Bộ trưởng Bộ Quốc phòng quy định về tổ chức, quản lý hoạt động nạo vét trong vùng nước cảng quân sự.",
+    "line_start": 64,
+    "line_end": 64
+  },
+  {
+    "clause_id": "dieu-2",
+    "anchor": "dieu-2",
+    "title": "Điều 2. Đối tượng áp dụng",
+    "line_start": 68,
+    "line_end": 68
+  },
+  {
+    "clause_id": "dieu-3",
+    "anchor": "dieu-3",
+    "title": "Điều 3. Giải thích từ ngữ",
+    "line_start": 74,
+    "line_end": 74
+  },
+  {
+    "clause_id": "dieu-3-khoan-1",
+    "anchor": "dieu-3-khoan-1",
+    "title": "1. Cơ quan chuyên môn trực thuộc người quyết định đầu tư",
+    "line_start": 79,
+    "line_end": 79
+  },
+  {
+    "clause_id": "dieu-3-khoan-2",
+    "anchor": "dieu-3-khoan-2",
+    "title": "2. Cơ quan chuyên môn về xây dựng",
+    "line_start": 86,
+    "line_end": 86
+  },
+  {
+    "clause_id": "dieu-3-khoan-3",
+    "anchor": "dieu-3-khoan-3",
+    "title": "3. Người đề nghị thẩm định",
+    "line_start": 95,
+    "line_end": 95
+  },
+  {
+    "clause_id": "dieu-4",
+    "anchor": "dieu-4",
+    "title": "Điều 4. Nguyên tắc áp dụng mô hình thông tin công trình (BIM) trong hoạt động xây dựng",
+    "line_start": 103,
+    "line_end": 103
+  },
+  {
+    "clause_id": "dieu-4-khoan-1",
+    "anchor": "dieu-4-khoan-1",
+    "title": "1. Việc áp dụng BIM trong hoạt động xây dựng thực hiện theo quy định tại Điều 8 Nghị định số 217/2026/NĐ-CP ngày 19/6/2026 của Chính phủ quy định chi tiết một số điều của Luật Xây dựng về quản lý hoạt động xây dựng, hướng dẫn của Bộ Xây dựng và các tiêu chuẩn có liên quan. Với công trình cần bảo đảm bí mật nhà nước, việc áp dụng BIM phải tuân thủ quy định của pháp luật về bảo vệ bí mật nhà nước.",
+    "line_start": 106,
+    "line_end": 106
+  },
+  {
+    "clause_id": "dieu-4-khoan-2",
+    "anchor": "dieu-4-khoan-2",
+    "title": "2. Việc áp dụng BIM trong các giai đoạn của dự án thực hiện như sau:",
+    "line_start": 109,
+    "line_end": 109
+  },
+  {
+    "clause_id": "dieu-4-khoan-3",
+    "anchor": "dieu-4-khoan-3",
+    "title": "3. Chi phí áp dụng BIM xác định bằng dự toán chi phí theo đề cương, nhiệm vụ từng giai đoạn của dự án phù hợp Nghị định số 206/2026/NĐ-CP ngày 15/6/2026 của Chính phủ về quản lý chi phí đầu tư xây dựng và hướng dẫn của Bộ Xây dựng.",
+    "line_start": 118,
+    "line_end": 118
+  },
+  {
+    "clause_id": "dieu-5",
+    "anchor": "dieu-5",
+    "title": "Điều 5. Thẩm định Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật của người quyết định đầu tư",
+    "line_start": 126,
+    "line_end": 126
+  },
+  {
+    "clause_id": "dieu-5-khoan-1",
+    "anchor": "dieu-5-khoan-1",
+    "title": "1. Đối với dự án đầu tư công, người quyết định đầu tư giao cơ quan chuyên môn trực thuộc (trừ dự án có yêu cầu thành lập Hội đồng thẩm định) chủ trì thẩm định Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật các nội dung quy định tại khoản 3 Điều 26 Luật Xây dựng số 135/2025/QH15; tổng hợp kết quả thẩm định của cơ quan chuyên môn về xây dựng theo phân cấp (trừ dự án chỉ yêu cầu lập Báo cáo kinh tế - kỹ thuật theo quy định tại khoản 2 Điều 23 Luật Xây dựng số 135/2025/QH15) và ý kiến của các cơ quan chức năng quản lý ngành, lĩnh vực liên quan (nếu có). Báo cáo người quyết định đầu tư phê duyệt theo quy định của pháp luật về đầu tư công.",
+    "line_start": 129,
+    "line_end": 129
+  },
+  {
+    "clause_id": "dieu-5-khoan-2",
+    "anchor": "dieu-5-khoan-2",
+    "title": "2. Đối với dự án đầu tư kinh doanh của doanh nghiệp quốc phòng, người quyết định đầu tư tổ chức thẩm định nội dung quy định tại các điểm a, c, d và h khoản 3 Điều 26 Luật Xây dựng số 135/2025/QH15; tổng hợp kết quả thẩm định của cơ quan chuyên môn về xây dựng theo quy định tại khoản 6 Điều 26 Luật Xây dựng số 135/2025/QH15 và các yêu cầu, quy định khác của pháp luật có liên quan làm cơ sở phê duyệt.",
+    "line_start": 132,
+    "line_end": 132
+  },
+  {
+    "clause_id": "dieu-5-khoan-3",
+    "anchor": "dieu-5-khoan-3",
+    "title": "3. Đối với dự án PPP, việc thẩm định Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật của cơ quan có thẩm quyền thực hiện theo quy định của pháp luật về đầu tư theo phương thức đối tác công tư và quy định tại khoản 6 Điều 26 Luật Xây dựng số 135/2025/QH15 làm cơ sở phê duyệt.",
+    "line_start": 135,
+    "line_end": 135
+  },
+  {
+    "clause_id": "dieu-5-khoan-4",
+    "anchor": "dieu-5-khoan-4",
+    "title": "4. Theo yêu cầu riêng của từng dự án, cơ quan chuyên môn trực thuộc người quyết định đầu tư tổ chức lấy ý kiến thẩm định hoặc tham gia của các cơ quan liên quan phù hợp với quy định của pháp luật về hoạt động xây dựng, đầu tư, đầu tư công, đầu tư PPP làm cơ sở xem xét, thẩm định Báo cáo nghiên cứu khả thi.",
+    "line_start": 138,
+    "line_end": 138
+  },
+  {
+    "clause_id": "dieu-5-khoan-5",
+    "anchor": "dieu-5-khoan-5",
+    "title": "5. Đối với dự án đầu tư xây dựng có sử dụng công nghệ hạn chế chuyển giao hoặc dự án đầu tư xây dựng có nguy cơ tác động xấu đến môi trường có sử dụng công nghệ phải được thẩm định hoặc tham gia ý kiến về công nghệ theo quy định của pháp luật về chuyển giao công nghệ của cơ quan chuyên môn quản lý ngành, lĩnh vực có liên quan; kết quả phải được tổng hợp để báo cáo người quyết định đầu tư phê duyệt.",
+    "line_start": 141,
+    "line_end": 141
+  },
+  {
+    "clause_id": "dieu-5-khoan-6",
+    "anchor": "dieu-5-khoan-6",
+    "title": "6. Nội dung báo cáo thẩm định thực hiện theo quy định tại Mẫu số 07 Phụ lục I kèm theo Nghị định số 217/2026/NĐ-CP của Chính phủ.",
+    "line_start": 144,
+    "line_end": 144
+  },
+  {
+    "clause_id": "dieu-6",
+    "anchor": "dieu-6",
+    "title": "Điều 6. Thẩm định Báo cáo nghiên cứu khả thi của cơ quan chuyên môn về xây dựng; hội đồng thẩm định",
+    "line_start": 148,
+    "line_end": 148
+  },
+  {
+    "clause_id": "dieu-6-khoan-1",
+    "anchor": "dieu-6-khoan-1",
+    "title": "1. Cơ quan chuyên môn về xây dựng",
+    "line_start": 151,
+    "line_end": 151
+  },
+  {
+    "clause_id": "dieu-6-khoan-2",
+    "anchor": "dieu-6-khoan-2",
+    "title": "2. Hội đồng thẩm định",
+    "line_start": 164,
+    "line_end": 164
+  },
+  {
+    "clause_id": "dieu-6-khoan-3",
+    "anchor": "dieu-6-khoan-3",
+    "title": "3. Trình tự, thủ tục, hồ sơ trình thẩm định",
+    "line_start": 175,
+    "line_end": 175
+  },
+  {
+    "clause_id": "dieu-7",
+    "anchor": "dieu-7",
+    "title": "Điều 7. Phê duyệt dự án, quyết định đầu tư xây dựng",
+    "line_start": 197,
+    "line_end": 197
+  },
+  {
+    "clause_id": "dieu-7-khoan-1",
+    "anchor": "dieu-7-khoan-1",
+    "title": "1. Theo hình thức đầu tư, thẩm quyền phê duyệt dự án, quyết định đầu tư xây dựng dự án thực hiện theo quy định của pháp luật về đầu tư, đầu tư công, pháp luật PPP và pháp luật có liên quan.",
+    "line_start": 200,
+    "line_end": 200
+  },
+  {
+    "clause_id": "dieu-7-khoan-2",
+    "anchor": "dieu-7-khoan-2",
+    "title": "2. Nội dung phê duyệt dự án, quyết định đầu tư xây dựng thực hiện theo quy định tại Điều 39 Nghị định số 217/2026/NĐ-CP.",
+    "line_start": 203,
+    "line_end": 203
+  },
+  {
+    "clause_id": "dieu-7-khoan-3",
+    "anchor": "dieu-7-khoan-3",
+    "title": "3. Đối với dự án chỉ cần lập Báo cáo kinh tế - kỹ thuật, khi phê duyệt dự án, người quyết định đầu tư giao chủ đầu tư đóng dấu “thẩm định” hồ sơ thiết kế bản vẽ thi công của Báo cáo kinh tế - kỹ thuật.",
+    "line_start": 206,
+    "line_end": 206
+  },
+  {
+    "clause_id": "dieu-8",
+    "anchor": "dieu-8",
+    "title": "Điều 8. Điều chỉnh dự án đầu tư xây dựng",
+    "line_start": 210,
+    "line_end": 210
+  },
+  {
+    "clause_id": "dieu-8-khoan-1",
+    "anchor": "dieu-8-khoan-1",
+    "title": "1. Đối với dự án đầu tư công",
+    "line_start": 213,
+    "line_end": 213
+  },
+  {
+    "clause_id": "dieu-8-khoan-2",
+    "anchor": "dieu-8-khoan-2",
+    "title": "2. Đối với dự án PPP, dự án đầu tư kinh doanh của doanh nghiệp quốc phòng được điều chỉnh và thẩm định theo quy định của pháp luật có liên quan. Việc thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng điều chỉnh của cơ quan chuyên môn về xây dựng thực hiện theo quy định tại điểm c, điểm d khoản 1 Điều này.",
+    "line_start": 226,
+    "line_end": 226
+  },
+  {
+    "clause_id": "dieu-8-khoan-3",
+    "anchor": "dieu-8-khoan-3",
+    "title": "3. Việc điều chỉnh dự án chỉ cần lập Báo cáo kinh tế - kỹ thuật đầu tư xây dựng do người quyết định đầu tư xem xét quyết định theo quy định tại khoản 6 Điều 40 Nghị định số 217/2026/NĐ-CP.",
+    "line_start": 229,
+    "line_end": 229
+  },
+  {
+    "clause_id": "dieu-9",
+    "anchor": "dieu-9",
+    "title": "Điều 9. Thẩm định thiết kế xây dựng",
+    "line_start": 237,
+    "line_end": 237
+  },
+  {
+    "clause_id": "dieu-9-khoan-1",
+    "anchor": "dieu-9-khoan-1",
+    "title": "1. Chủ đầu tư tổ chức thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt làm cơ sở phê duyệt thiết kế xây dựng. Đối với các bước thiết kế còn lại (nếu có), chủ đầu tư quyết định việc kiểm soát thiết kế theo quy định tại hợp đồng giữa chủ đầu tư với nhà thầu và quy định của pháp luật có liên quan.",
+    "line_start": 240,
+    "line_end": 240
+  },
+  {
+    "clause_id": "dieu-9-khoan-2",
+    "anchor": "dieu-9-khoan-2",
+    "title": "2. Đối với dự án PPP thực hiện theo quy định của pháp luật PPP và khoản 1 Điều 41 Nghị định 217/2026/NĐ-CP.",
+    "line_start": 243,
+    "line_end": 243
+  },
+  {
+    "clause_id": "dieu-9-khoan-3",
+    "anchor": "dieu-9-khoan-3",
+    "title": "3. Công trình xây dựng quy định tại khoản 5 Điều 26 Luật Xây dựng 135/2025/QH15 phải được thẩm tra thiết kế xây dựng theo quy định tại khoản 4 Điều 41 Nghị định 217/2026/NĐ-CP làm cơ sở thẩm định hoặc kiểm soát thiết kế của chủ đầu tư.",
+    "line_start": 246,
+    "line_end": 246
+  },
+  {
+    "clause_id": "dieu-9-khoan-4",
+    "anchor": "dieu-9-khoan-4",
+    "title": "4. Chủ đầu tư có trách nhiệm thực hiện các yêu cầu theo quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ, bảo vệ môi trường, bảo đảm quốc phòng, an ninh và quy định của pháp luật có liên quan.",
+    "line_start": 249,
+    "line_end": 249
+  },
+  {
+    "clause_id": "dieu-9-khoan-5",
+    "anchor": "dieu-9-khoan-5",
+    "title": "5. Nội dung thẩm định thực hiện theo quy định tại Điều 30 Luật Xây dựng số 135/2025/QH15 và khoản 2 Điều 41 Nghị định 217/2026/NĐ-CP.",
+    "line_start": 252,
+    "line_end": 252
+  },
+  {
+    "clause_id": "dieu-9-khoan-6",
+    "anchor": "dieu-9-khoan-6",
+    "title": "6. Nội dung thông báo kết quả thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt thực hiện theo Mẫu số 12 Phụ lục I kèm theo Nghị định số 217/2026/NĐ-CP; hồ sơ sau thẩm định phải được đóng dấu theo Mẫu số 14 Phụ lục I kèm theo Nghị định số 217/2026/NĐ-CP.",
+    "line_start": 255,
+    "line_end": 255
+  },
+  {
+    "clause_id": "dieu-9-khoan-7",
+    "anchor": "dieu-9-khoan-7",
+    "title": "7. Trong quá trình thẩm định, chủ đầu tư được thuê tổ chức, cá nhân có chuyên môn, kinh nghiệm phù hợp tham gia thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt.",
+    "line_start": 258,
+    "line_end": 258
+  },
+  {
+    "clause_id": "dieu-9-khoan-8",
+    "anchor": "dieu-9-khoan-8",
+    "title": "8. Chủ đầu tư có trách nhiệm tổng hợp văn bản của các cơ quan, tổ chức có liên quan; thực hiện các yêu cầu (nếu có); phê duyệt thiết kế xây dựng theo quy định tại Điều 10 Thông tư này.",
+    "line_start": 261,
+    "line_end": 261
+  },
+  {
+    "clause_id": "dieu-10",
+    "anchor": "dieu-10",
+    "title": "Điều 10. Phê duyệt thiết kế xây dựng triển khai sau khi dự án được phê duyệt",
+    "line_start": 265,
+    "line_end": 265
+  },
+  {
+    "clause_id": "dieu-10-khoan-1",
+    "anchor": "dieu-10-khoan-1",
+    "title": "1. Chủ đầu tư phê duyệt thiết kế xây dựng triển khai sau khi dự án được phê duyệt; nội dung quyết định phê duyệt thực hiện theo quy định tại khoản 1 Điều 42 Nghị định 217/2026/NĐ-CP và Mẫu số 13 Phụ lục I kèm theo Nghị định 217/2026/NĐ-CP.",
+    "line_start": 268,
+    "line_end": 268
+  },
+  {
+    "clause_id": "dieu-10-khoan-2",
+    "anchor": "dieu-10-khoan-2",
+    "title": "2. Chủ đầu tư được uỷ quyền cho Ban quản lý dự án trực thuộc chủ đầu tư phê duyệt thiết kế xây dựng, trừ trường hợp áp dụng hình thức thuê tổ chức tư vấn quản lý dự án.",
+    "line_start": 271,
+    "line_end": 271
+  },
+  {
+    "clause_id": "dieu-10-khoan-3",
+    "anchor": "dieu-10-khoan-3",
+    "title": "3. Trường hợp công trình được lập, thẩm định theo bộ phận công trình, chủ đầu tư hoặc người được uỷ quyền phê duyệt các nội dung tại khoản 1 Điều này đối với bộ phận công trình được thẩm định. Sau khi kết thúc thẩm định toàn bộ bộ phận công trình, chủ đầu tư hoặc người được uỷ quyền phê duyệt thiết kế xây dựng công trình.",
+    "line_start": 274,
+    "line_end": 274
+  },
+  {
+    "clause_id": "dieu-10-khoan-4",
+    "anchor": "dieu-10-khoan-4",
+    "title": "4. Trước khi phê duyệt thiết kế xây dựng Chủ đầu tư có trách nhiệm gửi báo cáo bằng văn bản về các nội dung thay đổi thiết kế xây dựng đến người quyết định đầu tư và cơ quan chuyên môn về xây dựng theo phân cấp để biết và quản lý đối với các trường hợp quy định tại khoản 7 Điều 16 Nghị định 217/2026/NĐ-CP.",
+    "line_start": 277,
+    "line_end": 277
+  },
+  {
+    "clause_id": "dieu-11",
+    "anchor": "dieu-11",
+    "title": "Điều 11. Điều chỉnh thiết kế xây dựng",
+    "line_start": 281,
+    "line_end": 281
+  },
+  {
+    "clause_id": "dieu-11-khoan-1",
+    "anchor": "dieu-11-khoan-1",
+    "title": "1. Việc điều chỉnh thiết kế xây dựng chỉ được thực hiện đối với các trường hợp quy định tại khoản 1 Điều 31 Luật Xây dựng số 135/2025/QH15.",
+    "line_start": 284,
+    "line_end": 284
+  },
+  {
+    "clause_id": "dieu-11-khoan-2",
+    "anchor": "dieu-11-khoan-2",
+    "title": "2. Thiết kế xây dựng điều chỉnh phải đảm bảo sự phù hợp giữa các bước thiết kế theo quy định tại khoản 6 Điều 16 Nghị định 217/2026/NĐ-CP.",
+    "line_start": 287,
+    "line_end": 287
+  },
+  {
+    "clause_id": "dieu-11-khoan-3",
+    "anchor": "dieu-11-khoan-3",
+    "title": "3. Chủ đầu tư thực hiện thẩm định và phê duyệt thiết kế xây dựng điều chỉnh theo quy định tại Điều 9, Điều 10 Thông tư này.",
+    "line_start": 290,
+    "line_end": 290
+  },
+  {
+    "clause_id": "dieu-11-khoan-4",
+    "anchor": "dieu-11-khoan-4",
+    "title": "4. Các trường hợp không thuộc quy định tại khoản 1 Điều này chủ đầu tư tự quyết định và chịu trách nhiệm về quyết định của mình.",
+    "line_start": 293,
+    "line_end": 293
+  },
+  {
+    "clause_id": "dieu-12",
+    "anchor": "dieu-12",
+    "title": "Điều 12. Đầu tư xây dựng công trình cần bảo đảm bí mật nhà nước",
+    "line_start": 301,
+    "line_end": 301
+  },
+  {
+    "clause_id": "dieu-12-khoan-1",
+    "anchor": "dieu-12-khoan-1",
+    "title": "1. Công trình cần đảm bảo bí mật nhà nước trong Bộ Quốc phòng gồm:",
+    "line_start": 304,
+    "line_end": 304
+  },
+  {
+    "clause_id": "dieu-12-khoan-2",
+    "anchor": "dieu-12-khoan-2",
+    "title": "2. Trình tự, thủ tục và thẩm quyền thẩm định, phê duyệt, điều chỉnh dự án, thiết kế xây dựng công trình cần đảm bảo bí mật nhà nước:",
+    "line_start": 311,
+    "line_end": 311
+  },
+  {
+    "clause_id": "dieu-13",
+    "anchor": "dieu-13",
+    "title": "Điều 13. Đầu tư xây dựng công trình khẩn cấp",
+    "line_start": 319,
+    "line_end": 319
+  },
+  {
+    "clause_id": "dieu-13-khoan-1",
+    "anchor": "dieu-13-khoan-1",
+    "title": "1. Công trình xây dựng khẩn cấp phục vụ quốc phòng là các công trình được quy định tại khoản 1 Điều 70 Luật Xây dựng số 135/2025/QH15 thuộc phạm vi quản lý của Bộ Quốc phòng.",
+    "line_start": 322,
+    "line_end": 322
+  },
+  {
+    "clause_id": "dieu-13-khoan-2",
+    "anchor": "dieu-13-khoan-2",
+    "title": "2. Bộ trưởng Bộ Quốc phòng hoặc người được ủy quyền quyết định việc xây dựng công trình khẩn cấp thuộc phạm vi quản lý bằng lệnh xây dựng công trình khẩn cấp. Nội dung quyết định theo Mẫu số 17 Phụ lục I kèm theo Nghị định số 217/2026/NĐ-CP.",
+    "line_start": 325,
+    "line_end": 325
+  },
+  {
+    "clause_id": "dieu-13-khoan-3",
+    "anchor": "dieu-13-khoan-3",
+    "title": "3. Cơ quan, tổ chức, cá nhân được giao quản lý, thực hiện xây dựng công trình khẩn cấp được tự quyết định trình tự thực hiện các công việc trong hoạt động đầu tư xây dựng và việc quản lý dự án, công trình xây dựng khẩn cấp quy định tại khoản 3, khoản 5, khoản 6 Điều 69 Nghị định số 217/2026/NĐ-CP.",
+    "line_start": 328,
+    "line_end": 328
+  },
+  {
+    "clause_id": "dieu-14",
+    "anchor": "dieu-14",
+    "title": "Điều 14. Đầu tư xây dựng công trình cấp bách",
+    "line_start": 332,
+    "line_end": 332
+  },
+  {
+    "clause_id": "dieu-14-khoan-1",
+    "anchor": "dieu-14-khoan-1",
+    "title": "1. Công trình xây dựng cấp bách phục vụ quốc phòng là các công trình được quy định tại khoản 2 Điều 70 Luật Xây dựng số 135/2025/QH15 thuộc phạm vi quản lý của Bộ Quốc phòng;",
+    "line_start": 335,
+    "line_end": 335
+  },
+  {
+    "clause_id": "dieu-14-khoan-2",
+    "anchor": "dieu-14-khoan-2",
+    "title": "2. Theo yêu cầu của Chính phủ hoặc Quyết định của Thủ tướng Chính phủ, Bộ trưởng Bộ Quốc phòng quyết định việc xây dựng công trình cấp bách thuộc phạm vi quản lý bằng quyết định phê duyệt dự án đầu tư xây dựng công trình cấp bách tại Mẫu số 17 Phụ lục I kèm theo Nghị định số 217/2026/NĐ-CP (tham khảo);",
+    "line_start": 338,
+    "line_end": 338
+  },
+  {
+    "clause_id": "dieu-14-khoan-3",
+    "anchor": "dieu-14-khoan-3",
+    "title": "3. Cơ quan, tổ chức, cá nhân được giao quản lý thực hiện xây dựng công trình cấp bách được thực hiện song song, đồng thời các trình tự, thủ tục từ giai đoạn chuẩn bị dự án, thực hiện dự án và kết thúc xây dựng theo quy định tại Điều 70 Nghị định số 217/2026/NĐ-CP và quy định pháp luật khác có liên quan.",
+    "line_start": 341,
+    "line_end": 341
+  },
+  {
+    "clause_id": "dieu-15",
+    "anchor": "dieu-15",
+    "title": "Điều 15. Thẩm quyền kiểm tra",
+    "line_start": 349,
+    "line_end": 349
+  },
+  {
+    "clause_id": "dieu-15-khoan-1",
+    "anchor": "dieu-15-khoan-1",
+    "title": "1. Cơ quan chuyên môn về xây dựng Bộ Quốc phòng",
+    "line_start": 352,
+    "line_end": 352
+  },
+  {
+    "clause_id": "dieu-15-khoan-2",
+    "anchor": "dieu-15-khoan-2",
+    "title": "2. Cơ quan chuyên môn về xây dựng của đơn vị đầu mối Bộ Quốc phòng",
+    "line_start": 361,
+    "line_end": 361
+  },
+  {
+    "clause_id": "dieu-15-khoan-3",
+    "anchor": "dieu-15-khoan-3",
+    "title": "3. Người đứng đầu doanh nghiệp quốc phòng, chủ đầu tư dự án PPP tổ chức kiểm tra công tác quản lý thiết kế xây dựng đối với các dự án do mình quyết định đầu tư.",
+    "line_start": 368,
+    "line_end": 368
+  },
+  {
+    "clause_id": "dieu-16",
+    "anchor": "dieu-16",
+    "title": "Điều 16. Nguyên tắc, trình tự, thủ tục, nội dung kiểm tra",
+    "line_start": 372,
+    "line_end": 372
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Nguyên tắc kiểm tra",
+    "line_start": 375,
+    "line_end": 375
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Trình tự, thủ tục kiểm tra",
+    "line_start": 384,
+    "line_end": 384
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. Nội dung kiểm tra: Việc thực hiện các quy định pháp luật, các nhiệm vụ được phân cấp, ủy quyền, các nhiệm vụ theo chức năng, lĩnh vực được giao theo quy định của pháp luật về xây dựng; việc thực hiện chế độ thống kê, báo cáo, lưu trữ, xây dựng, quản lý cơ sở dữ liệu (nếu có).",
+    "line_start": 391,
+    "line_end": 391
+  },
+  {
+    "clause_id": "dieu-16-khoan-4",
+    "anchor": "dieu-16-khoan-4",
+    "title": "4. Kết luận và thông báo kết quả kiểm tra",
+    "line_start": 394,
+    "line_end": 394
+  },
+  {
+    "clause_id": "dieu-17",
+    "anchor": "dieu-17",
+    "title": "Điều 17. Hiệu lực thi hành",
+    "line_start": 412,
+    "line_end": 412
+  },
+  {
+    "clause_id": "dieu-17-khoan-1",
+    "anchor": "dieu-17-khoan-1",
+    "title": "1. Thông tư này có hiệu lực thi hành kể từ ngày ký.",
+    "line_start": 415,
+    "line_end": 415
+  },
+  {
+    "clause_id": "dieu-17-khoan-2",
+    "anchor": "dieu-17-khoan-2",
+    "title": "2. Thông tư số 106/2021/TT-BQP ngày 06/8/2021 của Bộ trưởng Bộ Quốc phòng quy định về thẩm định, phê duyệt thiết kế xây dựng triển khai sau thiết kế cơ sở trong Bộ Quốc phòng hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành.",
+    "line_start": 418,
+    "line_end": 418
+  },
+  {
+    "clause_id": "dieu-17-khoan-3",
+    "anchor": "dieu-17-khoan-3",
+    "title": "3. Trường hợp các văn bản quy phạm pháp luật được dẫn chiếu áp dụng trong Thông tư này được sửa đổi, bổ sung hoặc thay thế thì áp dụng văn bản sửa đổi, bổ sung hoặc thay thế đó.",
+    "line_start": 421,
+    "line_end": 421
+  },
+  {
+    "clause_id": "dieu-18",
+    "anchor": "dieu-18",
+    "title": "Điều 18. Điều khoản chuyển tiếp",
+    "line_start": 425,
+    "line_end": 425
+  },
+  {
+    "clause_id": "dieu-18-khoan-1",
+    "anchor": "dieu-18-khoan-1",
+    "title": "1. Dự án đầu tư xây dựng",
+    "line_start": 428,
+    "line_end": 428
+  },
+  {
+    "clause_id": "dieu-18-khoan-2",
+    "anchor": "dieu-18-khoan-2",
+    "title": "2. Thiết kế xây dựng triển khai sau khi dự án được phê duyệt",
+    "line_start": 435,
+    "line_end": 435
+  },
+  {
+    "clause_id": "dieu-19",
+    "anchor": "dieu-19",
+    "title": "Điều 19. Trách nhiệm thi hành",
+    "line_start": 443,
+    "line_end": 443
+  },
+  {
+    "clause_id": "dieu-19-khoan-1",
+    "anchor": "dieu-19-khoan-1",
+    "title": "1. Chủ nhiệm Tổng cục Hậu cần - Kỹ thuật, chỉ huy các cơ quan, đơn vị liên quan chịu trách nhiệm thi hành Thông tư này.",
+    "line_start": 446,
+    "line_end": 446
+  },
+  {
+    "clause_id": "dieu-19-khoan-2",
+    "anchor": "dieu-19-khoan-2",
+    "title": "2. Cơ quan chuyên môn về xây dựng Bộ Quốc phòng và cơ quan chuyên môn về xây dựng trực thuộc đơn vị đầu mối Bộ Quốc phòng hướng dẫn thực hiện Thông tư này./.",
+    "line_start": 449,
+    "line_end": 449
+  }
+]

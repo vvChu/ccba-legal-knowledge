@@ -1,0 +1,76 @@
+{
+  "table_id": "bang_f_2_ngoai_khong_chiu_luc",
+  "title": "Bảng F.2 - Tường ngoài không chịu lực",
+  "headers": [
+    "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2",
+    "Tổng diện tích tường ngoài, m2"
+  ],
+  "rows": [
+    {
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m",
+      "Tổng diện tích tường ngoài, m2": "≥ 1860"
+    },
+    {
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "0,0",
+      "Tổng diện tích tường ngoài, m2": "0"
+    },
+    {
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "0,9",
+      "Tổng diện tích tường ngoài, m2": "0"
+    },
+    {
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "1,2",
+      "Tổng diện tích tường ngoài, m2": "7"
+    },
+    {
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "1,5",
+      "Tổng diện tích tường ngoài, m2": "7"
+    },
+    {
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "1,8",
+      "Tổng diện tích tường ngoài, m2": "7"
+    },
+    {
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "2,1",
+      "Tổng diện tích tường ngoài, m2": "7"
+    },
+    {
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "2,4",
+      "Tổng diện tích tường ngoài, m2": "7"
+    },
+    {
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "2,7",
+      "Tổng diện tích tường ngoài, m2": "7"
+    },
+    {
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "3,0",
+      "Tổng diện tích tường ngoài, m2": "7"
+    },
+    {
+      "Khoảng cách phòng cháy chống cháy theo đường ranh giới, m": "> 3,0",
+      "Tổng diện tích tường ngoài, m2": "100"
+    }
+  ],
+  "total_rows": 11,
+  "footnotes": [
+    "CHÚ THÍCH: Các giá trị trung gian có thể xác định bằng cách nội suy tuyến tính theo các bảng E.4a và E.4b"
+  ]
+}

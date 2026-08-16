@@ -1,0 +1,125 @@
+{
+  "table_id": "bang_13_luu_luong_nuoc_chua_chay",
+  "title": "Bảng 13 - Lưu lượng nước chữa cháy phụ thuộc theo chiều cao tia nước đặc và đường kính đầu lăng phun chữa cháy",
+  "headers": [
+    "Chiều cao tia nước đặc, m",
+    "Lưu lượng của lăng phun, L/s",
+    "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m",
+    "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m",
+    "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m",
+    "Lưu lượng của lăng phun, L/s",
+    "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m",
+    "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m",
+    "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m",
+    "Lưu lượng của lăng phun, L/s",
+    "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m",
+    "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m",
+    "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m"
+  ],
+  "rows": [
+    {
+      "Chiều cao tia nước đặc, m": "Chiều cao tia nước đặc, m",
+      "Lưu lượng của lăng phun, L/s": "Lưu lượng của lăng phun, L/s",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "20"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "",
+      "Lưu lượng của lăng phun, L/s": "Đường kính đầu lăng phun chữa cháy, mm",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "Đường kính đầu lăng phun chữa cháy, mm"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "",
+      "Lưu lượng của lăng phun, L/s": "19",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "19"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "",
+      "Lưu lượng của lăng phun, L/s": "Họng nước chữa cháy DN 50 1)",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "Họng nước chữa cháy DN 50 1)"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "6",
+      "Lưu lượng của lăng phun, L/s": "3,4",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "0,104"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "8",
+      "Lưu lượng của lăng phun, L/s": "4,1",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "0,148"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "10",
+      "Lưu lượng của lăng phun, L/s": "4.6",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "0,185"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "12",
+      "Lưu lượng của lăng phun, L/s": "5,2",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "0,240"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "14",
+      "Lưu lượng của lăng phun, L/s": "-",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "-"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "16",
+      "Lưu lượng của lăng phun, L/s": "-",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "-"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "18",
+      "Lưu lượng của lăng phun, L/s": "-",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "-"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "",
+      "Lưu lượng của lăng phun, L/s": "Họng nước chữa cháy DN 65 1)",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "Họng nước chữa cháy DN 65 1)"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "6",
+      "Lưu lượng của lăng phun, L/s": "3,4",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "0,083"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "8",
+      "Lưu lượng của lăng phun, L/s": "4,1",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "0,121"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "10",
+      "Lưu lượng của lăng phun, L/s": "4,6",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "0,151"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "12",
+      "Lưu lượng của lăng phun, L/s": "5,2",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "0,199"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "14",
+      "Lưu lượng của lăng phun, L/s": "5,7",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "0,230"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "16",
+      "Lưu lượng của lăng phun, L/s": "6,3",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "0,280"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "18",
+      "Lưu lượng của lăng phun, L/s": "7,0",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "0,348"
+    },
+    {
+      "Chiều cao tia nước đặc, m": "20",
+      "Lưu lượng của lăng phun, L/s": "7,5",
+      "Áp suất, MPa, của họng nước chữa cháy với chiều dài cuộn vòi, m": "0,397"
+    }
+  ],
+  "total_rows": 20,
+  "footnotes": [
+    "1) DN - Viết tắt của Diameter Nominal - Đường kính trong danh nghĩa, đơn vị tính bằng milimét (mm)."
+  ]
+}

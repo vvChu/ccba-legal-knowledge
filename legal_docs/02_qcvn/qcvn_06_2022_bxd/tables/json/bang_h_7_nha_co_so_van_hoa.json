@@ -1,0 +1,71 @@
+{
+  "table_id": "bang_h_7_nha_co_so_van_hoa",
+  "title": "Bảng H.7 - Nhà của các cơ sở văn hóa (nhóm F2.1 và F2.2) (thư viện, bảo tàng, triển lãm, câu lạc bộ, nhà hát, phòng hòa nhạc, rạp chiếu phim, rạp xiếc và các nhà có đặc điểm sử dụng tương tự)",
+  "headers": [
+    "Bậc chịu lửa của nhà",
+    "Cấp nguy hiểm cháy kết cấu",
+    "Chiều cao PCCC lớn nhất cho phép của nhà, m",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2"
+  ],
+  "rows": [
+    {
+      "Bậc chịu lửa của nhà": "Bậc chịu lửa của nhà",
+      "Cấp nguy hiểm cháy kết cấu": "Cấp nguy hiểm cháy kết cấu",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "Chiều cao PCCC lớn nhất cho phép của nhà, m",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "Nhà nhiều tầng (tối đa 6 tầng không kể đến tầng kỹ thuật trên cùng)"
+    },
+    {
+      "Bậc chịu lửa của nhà": "I",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "18",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "2 500"
+    },
+    {
+      "Bậc chịu lửa của nhà": "II",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "18",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "2 500"
+    },
+    {
+      "Bậc chịu lửa của nhà": "II",
+      "Cấp nguy hiểm cháy kết cấu": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "6",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "1 000"
+    },
+    {
+      "Bậc chịu lửa của nhà": "III",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "6",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "1 000"
+    },
+    {
+      "Bậc chịu lửa của nhà": "III",
+      "Cấp nguy hiểm cháy kết cấu": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu": "S0, S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu": "S2, S3",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "V",
+      "Cấp nguy hiểm cháy kết cấu": "S1, S2, S3",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "-"
+    }
+  ],
+  "total_rows": 9,
+  "footnotes": [
+    "CHÚ THÍCH: Dấu “-” nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng."
+  ]
+}

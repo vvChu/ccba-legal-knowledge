@@ -1,0 +1,653 @@
+[
+  {
+    "clause_id": "dieu-1",
+    "anchor": "dieu-1",
+    "title": "Điều 1. Phạm vi điều chỉnh",
+    "line_start": 39,
+    "line_end": 39
+  },
+  {
+    "clause_id": "dieu-1-khoan-1",
+    "anchor": "dieu-1-khoan-1",
+    "title": "1. Thông tư này hướng dẫn một số nội dung quy định tại Nghị định số 212/2026/NĐ-CP ngày 17 tháng 6 năm 2026 của Chính phủ quy định về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng *(sau đây gọi chung là Nghị định số **212/2026/NĐ-CP)*, bao gồm:",
+    "line_start": 42,
+    "line_end": 42
+  },
+  {
+    "clause_id": "dieu-1-khoan-2",
+    "anchor": "dieu-1-khoan-2",
+    "title": "2. Thông tư này không áp dụng đối với thông tin, dữ liệu quy hoạch và dự án đầu tư xây dựng, công trình xây dựng có liên quan đến quốc phòng, an ninh, cơ yếu và bí mật nhà nước.",
+    "line_start": 63,
+    "line_end": 63
+  },
+  {
+    "clause_id": "dieu-2",
+    "anchor": "dieu-2",
+    "title": "Điều 2. Đối tượng áp dụng",
+    "line_start": 67,
+    "line_end": 67
+  },
+  {
+    "clause_id": "dieu-3",
+    "anchor": "dieu-3",
+    "title": "Điều 3. Nguyên tắc chung để tạo lập, cập nhật, chuẩn hóa, kết nối, chia sẻ dữ liệu, thông tin trong Hệ thống thông tin về hoạt động xây dựng",
+    "line_start": 73,
+    "line_end": 73
+  },
+  {
+    "clause_id": "dieu-3-khoan-1",
+    "anchor": "dieu-3-khoan-1",
+    "title": "1. Khi thực hiện các thủ tục quy định tại khoản 7 Điều 3 Nghị định số 212/2026/NĐ-CP và tham gia hoạt động xây dựng khác có liên quan theo quy định của pháp luật về xây dựng, cơ quan nhà nước có thẩm quyền, cơ quan chuyên môn về xây dựng, tổ chức, cá nhân có liên quan phải có tài khoản tham gia Hệ thống thông tin về hoạt động xây dựng thông qua tài khoản định danh điện tử cá nhân, tổ chức.",
+    "line_start": 76,
+    "line_end": 76
+  },
+  {
+    "clause_id": "dieu-3-khoan-2",
+    "anchor": "dieu-3-khoan-2",
+    "title": "2. Khi dữ liệu, thông tin hiển thị trên Hệ thống thông tin về hoạt động xây dựng có sai khác so với nội dung kết quả giải quyết thủ tục có liên quan, cơ quan nhà nước có thẩm quyền, cơ quan chuyên môn về xây dựng, tổ chức có liên quan phải cập nhật, chuẩn hóa dữ liệu theo quy định của pháp luật về dữ liệu và pháp luật khác có liên quan.",
+    "line_start": 79,
+    "line_end": 79
+  },
+  {
+    "clause_id": "dieu-3-khoan-3",
+    "anchor": "dieu-3-khoan-3",
+    "title": "3. Việc cập nhật, điều chỉnh dữ liệu, thông tin trong Hệ thống thông tin về hoạt động xây dựng chỉ được thực hiện bởi tổ chức được phân công, phân quyền theo quy định, đồng thời phải bảo đảm thời hạn cập nhật, chuẩn hóa, trách nhiệm đối với từng tài khoản thực hiện cập nhật, chỉnh sửa dữ liệu.",
+    "line_start": 82,
+    "line_end": 82
+  },
+  {
+    "clause_id": "dieu-3-khoan-4",
+    "anchor": "dieu-3-khoan-4",
+    "title": "4. Nguyên tắc tạo lập, cập nhật, chuẩn hóa dữ liệu theo kết quả thủ tục do cơ quan nhà nước có thẩm quyền, cơ quan chuyên môn về xây dựng ban hành để tạo lập Cơ sở dữ liệu quốc gia về hoạt động xây dựng theo quy định tại Điều 6 Nghị định số 212/2026/NĐ-CP:",
+    "line_start": 85,
+    "line_end": 85
+  },
+  {
+    "clause_id": "dieu-3-khoan-5",
+    "anchor": "dieu-3-khoan-5",
+    "title": "5. Nguyên tắc tạo lập, cập nhật, chuẩn hóa dữ liệu theo kết quả thủ tục do tổ chức, cá nhân ban hành để thu thập, tạo lập Cơ sở dữ liệu chuyên ngành theo quy định tại Điều 7 Nghị định số 212/2026/NĐ-CP:",
+    "line_start": 96,
+    "line_end": 96
+  },
+  {
+    "clause_id": "dieu-3-khoan-6",
+    "anchor": "dieu-3-khoan-6",
+    "title": "6. Việc kết nối, chia sẻ và khai thác dữ liệu với các hệ thống thông tin, cơ sở dữ liệu khác được thực hiện theo quy định của pháp luật về dữ liệu, giao dịch điện tử, an ninh mạng, pháp luật khác có liên quan và trên cơ sở khả năng sẵn sàng kết nối, chia sẻ dữ liệu của hệ thống.",
+    "line_start": 105,
+    "line_end": 105
+  },
+  {
+    "clause_id": "dieu-3-khoan-7",
+    "anchor": "dieu-3-khoan-7",
+    "title": "7. Bộ Xây dựng hướng dẫn việc cung cấp, phân quyền, xác thực tài khoản tham gia Hệ thống thông tin về hoạt động xây dựng quy định tại khoản 1 Điều này để tổ chức, cá nhân có liên quan thực hiện việc nhập, tạo lập, cập nhật, khai thác, sử dụng dữ liệu theo quy định; việc cập nhật, điều chỉnh, chuẩn hóa dữ liệu, thông tin tại khoản 2 và khoản 3 Điều này.",
+    "line_start": 108,
+    "line_end": 108
+  },
+  {
+    "clause_id": "dieu-4",
+    "anchor": "dieu-4",
+    "title": "Điều 4. Thu thập, tạo lập, cập nhật dữ liệu quy hoạch đô thị và nông thôn",
+    "line_start": 118,
+    "line_end": 118
+  },
+  {
+    "clause_id": "dieu-4-khoan-1",
+    "anchor": "dieu-4-khoan-1",
+    "title": "1. Nội dung chi tiết về các trường dữ liệu nhiệm vụ quy hoạch, quy hoạch đô thị và nông thôn; trình tự, trách nhiệm của các tổ chức có liên quan trong việc thu thập, tạo lập, cập nhật dữ liệu vào Hệ thống thông tin về hoạt động xây dựng thực hiện theo quy định tại Phụ lục I ban hành kèm theo Thông tư này.",
+    "line_start": 121,
+    "line_end": 121
+  },
+  {
+    "clause_id": "dieu-4-khoan-2",
+    "anchor": "dieu-4-khoan-2",
+    "title": "2. Mã định danh quy hoạch đô thị và nông thôn được sử dụng để quản lý, liên kết, kế thừa và cập nhật dữ liệu trong quá trình thực hiện các thủ tục.",
+    "line_start": 124,
+    "line_end": 124
+  },
+  {
+    "clause_id": "dieu-5",
+    "anchor": "dieu-5",
+    "title": "Điều 5. Thu thập, tạo lập, cập nhật dữ liệu dự án đầu tư xây dựng, công trình xây dựng",
+    "line_start": 128,
+    "line_end": 128
+  },
+  {
+    "clause_id": "dieu-5-khoan-1",
+    "anchor": "dieu-5-khoan-1",
+    "title": "1. Nội dung chi tiết về các trường dữ liệu dự án đầu tư xây dựng, công trình xây dựng; trình tự, trách nhiệm của các tổ chức có liên quan khi thu thập, tạo lập, cập nhật dữ liệu vào Hệ thống thông tin về hoạt động xây dựng thực hiện theo quy định tại Phụ lục II ban hành kèm theo Thông tư này.",
+    "line_start": 131,
+    "line_end": 131
+  },
+  {
+    "clause_id": "dieu-5-khoan-2",
+    "anchor": "dieu-5-khoan-2",
+    "title": "2. Riêng trường dữ liệu về quy mô đầu tư xây dựng của dự án đầu tư xây dựng, công trình xây dựng được thu thập vào Hệ thống thông tin về hoạt động xây dựng gồm một số chỉ tiêu, thông số chính để đáp ứng yêu cầu quản lý nhà nước và chuyển đổi số về hoạt động đầu tư xây dựng.",
+    "line_start": 134,
+    "line_end": 134
+  },
+  {
+    "clause_id": "dieu-5-khoan-3",
+    "anchor": "dieu-5-khoan-3",
+    "title": "3. Trường dữ liệu về quy mô đầu tư xây dựng của dự án đầu tư xây dựng, công trình xây dựng tại khoản 2 Điều này được thu thập theo các kết quả giải quyết thủ tục do cơ quan nhà nước có thẩm quyền, cơ quan chuyên môn về xây dựng thực hiện, ban hành, chuẩn hóa. Cụ thể bao gồm:",
+    "line_start": 137,
+    "line_end": 137
+  },
+  {
+    "clause_id": "dieu-5-khoan-4",
+    "anchor": "dieu-5-khoan-4",
+    "title": "4. Trường dữ liệu về quy mô đầu tư xây dựng của dự án đầu tư xây dựng, công trình xây dựng tại khoản 2 và khoản 3 Điều này được quy định chi tiết tại Phụ lục III ban hành kèm theo Thông tư này.",
+    "line_start": 150,
+    "line_end": 150
+  },
+  {
+    "clause_id": "dieu-5-khoan-5",
+    "anchor": "dieu-5-khoan-5",
+    "title": "5. Mã định danh dự án đầu tư xây dựng, mã định danh công trình xây dựng được sử dụng để quản lý, liên kết, kế thừa và cập nhật dữ liệu trong quá trình thực hiện, ban hành các thủ tục.",
+    "line_start": 153,
+    "line_end": 153
+  },
+  {
+    "clause_id": "dieu-6",
+    "anchor": "dieu-6",
+    "title": "Điều 6. Thu thập, tạo lập, cập nhật dữ liệu năng lực hoạt động xây dựng",
+    "line_start": 157,
+    "line_end": 157
+  },
+  {
+    "clause_id": "dieu-6-khoan-1",
+    "anchor": "dieu-6-khoan-1",
+    "title": "1. Nội dung chi tiết các trường dữ liệu năng lực hoạt động xây dựng; trình tự, trách nhiệm của các tổ chức có liên quan trong việc thu thập, tạo lập, cập nhật dữ liệu vào Hệ thống thông tin về hoạt động xây dựng thực hiện theo quy định tại Phụ lục I, Bảng 1 và Bảng 2 Phụ lục II ban hành kèm theo Thông tư này.",
+    "line_start": 160,
+    "line_end": 160
+  },
+  {
+    "clause_id": "dieu-6-khoan-2",
+    "anchor": "dieu-6-khoan-2",
+    "title": "2. Mã định danh năng lực hoạt động được sử dụng để quản lý, liên kết, kế thừa và cập nhật dữ liệu trong quá trình thực hiện, ban hành các thủ tục.",
+    "line_start": 163,
+    "line_end": 163
+  },
+  {
+    "clause_id": "dieu-7",
+    "anchor": "dieu-7",
+    "title": "Điều 7. Thu thập, tạo lập, cập nhật dữ liệu dự án đầu tư xây dựng, công trình xây dựng để tạo lập Cơ sở dữ liệu chuyên ngành về xây dựng",
+    "line_start": 169,
+    "line_end": 169
+  },
+  {
+    "clause_id": "dieu-7-khoan-1",
+    "anchor": "dieu-7-khoan-1",
+    "title": "1. Nội dung chi tiết các trường dữ liệu dự án đầu tư xây dựng, công trình xây dựng; trình tự, trách nhiệm của các tổ chức có liên quan khi thu thập, tạo lập, cập nhật dữ liệu vào Hệ thống thông tin về hoạt động xây dựng thực hiện theo quy định tại Phụ lục II ban hành kèm theo Thông tư này.",
+    "line_start": 172,
+    "line_end": 172
+  },
+  {
+    "clause_id": "dieu-7-khoan-2",
+    "anchor": "dieu-7-khoan-2",
+    "title": "2. Riêng trường dữ liệu về quy mô đầu tư xây dựng thực hiện theo quy định tại khoản 2 Điều 5 Thông tư này được thu thập theo các kết quả thủ tục do tổ chức, cá nhân không thuộc trường hợp quy định tại khoản 3 Điều 5 Thông tư này thực hiện, ban hành, cập nhật. Cụ thể gồm các thủ tục sau:",
+    "line_start": 175,
+    "line_end": 175
+  },
+  {
+    "clause_id": "dieu-7-khoan-3",
+    "anchor": "dieu-7-khoan-3",
+    "title": "3. Việc nhập, cập nhật, xác thực dữ liệu năng lực hoạt động xây dựng vào Hệ thống thông tin về hoạt động xây dựng để tạo lập Cơ sở dữ liệu chuyên ngành về xây dựng được quy định như sau:",
+    "line_start": 190,
+    "line_end": 190
+  },
+  {
+    "clause_id": "dieu-7-khoan-4",
+    "anchor": "dieu-7-khoan-4",
+    "title": "4. Trường dữ liệu về quy mô đầu tư xây dựng của dự án đầu tư xây dựng, công trình xây dựng tại khoản 1 và khoản 2 Điều này thực hiện theo quy định tại khoản 4 Điều 5 Thông tư này.",
+    "line_start": 201,
+    "line_end": 201
+  },
+  {
+    "clause_id": "dieu-8",
+    "anchor": "dieu-8",
+    "title": "Điều 8. Cập nhật, chuẩn hóa dữ liệu, thông tin của Cơ sở dữ liệu chuyên ngành về xây dựng",
+    "line_start": 205,
+    "line_end": 205
+  },
+  {
+    "clause_id": "dieu-8-khoan-1",
+    "anchor": "dieu-8-khoan-1",
+    "title": "1. Khi dữ liệu, thông tin của Cơ sở dữ liệu chuyên ngành về xây dựng hiển thị trên Hệ thống thông tin về hoạt động xây dựng có sai khác so với nội dung kết quả giải quyết thủ tục có liên quan, tổ chức có thẩm quyền ban hành kết quả thủ tục được cập nhật điều chỉnh dữ liệu, thông tin thông qua tài khoản định danh điện tử trên Hệ thống này bảo đảm tuân thủ quy định của pháp luật về dữ liệu, giao dịch điện tử, an ninh mạng, pháp luật khác có liên quan.",
+    "line_start": 208,
+    "line_end": 208
+  },
+  {
+    "clause_id": "dieu-8-khoan-2",
+    "anchor": "dieu-8-khoan-2",
+    "title": "2. Việc cập nhật, điều chỉnh dữ liệu, thông tin của Cơ sở dữ liệu chuyên ngành về xây dựng trong Hệ thống thông tin về hoạt động xây dựng thực hiện theo quy định tại khoản 3 Điều 3 Thông tư này.",
+    "line_start": 211,
+    "line_end": 211
+  },
+  {
+    "clause_id": "dieu-9",
+    "anchor": "dieu-9",
+    "title": "Điều 9. Mã định danh của dữ liệu định mức xây dựng, giá xây dựng, chỉ số giá xây dựng",
+    "line_start": 221,
+    "line_end": 221
+  },
+  {
+    "clause_id": "dieu-10",
+    "anchor": "dieu-10",
+    "title": "Điều 10. Quy trình và biểu mẫu cập nhật dữ liệu",
+    "line_start": 227,
+    "line_end": 227
+  },
+  {
+    "clause_id": "dieu-10-khoan-1",
+    "anchor": "dieu-10-khoan-1",
+    "title": "1. Cơ quan, đơn vị được giao nhiệm vụ, cập nhật dữ liệu đăng nhập vào Hệ thống thông tin, dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng tại địa chỉ https://cemia.gov.vn bằng tài khoản được cấp để cập nhật dữ liệu đã ban hành, công bố bằng một trong các hình thức sau:",
+    "line_start": 230,
+    "line_end": 230
+  },
+  {
+    "clause_id": "dieu-10-khoan-2",
+    "anchor": "dieu-10-khoan-2",
+    "title": "2. Cơ quan được giao quản lý, vận hành Hệ thống kiểm tra, đối chiếu sự đầy đủ, chính xác giữa dữ liệu được cập nhật lên Hệ thống với dữ liệu đã ban hành, công bố kèm theo:",
+    "line_start": 237,
+    "line_end": 237
+  },
+  {
+    "clause_id": "dieu-10-khoan-3",
+    "anchor": "dieu-10-khoan-3",
+    "title": "3. Biểu mẫu để cập nhật dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng được tải từ Hệ thống thông tin, dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng.",
+    "line_start": 244,
+    "line_end": 244
+  },
+  {
+    "clause_id": "dieu-11",
+    "anchor": "dieu-11",
+    "title": "Điều 11. Tài khoản cập nhật dữ liệu",
+    "line_start": 248,
+    "line_end": 248
+  },
+  {
+    "clause_id": "dieu-11-khoan-1",
+    "anchor": "dieu-11-khoan-1",
+    "title": "1. Cơ quan, đơn vị đăng ký tài khoản theo Mẫu số 02 tại Phụ lục IV ban hành kèm theo Thông tư này; số lượng tài khoản được cấp căn cứ chức năng, nhiệm vụ và nhu cầu sử dụng của cơ quan, đơn vị đăng ký. Trường hợp thay đổi thông tin, thực hiện theo Mẫu số 03 tại Phụ lục IV ban hành kèm theo Thông tư này.",
+    "line_start": 251,
+    "line_end": 251
+  },
+  {
+    "clause_id": "dieu-11-khoan-2",
+    "anchor": "dieu-11-khoan-2",
+    "title": "2. Cơ quan, đơn vị được cấp tài khoản có trách nhiệm:",
+    "line_start": 254,
+    "line_end": 254
+  },
+  {
+    "clause_id": "dieu-11-khoan-3",
+    "anchor": "dieu-11-khoan-3",
+    "title": "3. Thủ trưởng cơ quan, đơn vị chịu trách nhiệm trong việc quản lý, sử dụng tài khoản được cấp theo quy định tại điểm b khoản 4 Điều 54 Nghị định số 212/2026/NĐ-CP.",
+    "line_start": 261,
+    "line_end": 261
+  },
+  {
+    "clause_id": "dieu-12",
+    "anchor": "dieu-12",
+    "title": "Điều 12. Trách nhiệm quản lý việc cập nhật dữ liệu",
+    "line_start": 265,
+    "line_end": 265
+  },
+  {
+    "clause_id": "dieu-12-khoan-1",
+    "anchor": "dieu-12-khoan-1",
+    "title": "1. Cơ quan có thẩm quyền ban hành, công bố dữ liệu định mức xây dựng, giá xây dựng, chỉ số giá xây dựng theo quy định của pháp luật về quản lý chi phí đầu tư xây dựng có trách nhiệm quản lý việc cập nhật dữ liệu theo quy định tại khoản 4 Điều 54 Nghị định số 212/2026/NĐ-CP.",
+    "line_start": 268,
+    "line_end": 268
+  },
+  {
+    "clause_id": "dieu-12-khoan-2",
+    "anchor": "dieu-12-khoan-2",
+    "title": "2. Cơ quan được giao quản lý, vận hành hệ thống có trách nhiệm:",
+    "line_start": 271,
+    "line_end": 271
+  },
+  {
+    "clause_id": "dieu-13",
+    "anchor": "dieu-13",
+    "title": "Điều 13. Quy trình, biểu mẫu cung cấp thông tin, dữ liệu định mức xây dựng, giá xây dựng, chỉ số giá xây dựng",
+    "line_start": 283,
+    "line_end": 283
+  },
+  {
+    "clause_id": "dieu-13-khoan-1",
+    "anchor": "dieu-13-khoan-1",
+    "title": "1. Tổ chức cung cấp thông tin nêu tại khoản 2 Điều 7 Nghị định số 212/2026/NĐ-CP sử dụng tài khoản được cấp để cung cấp thông tin lên Hệ thống thông tin, dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng. Việc cung cấp thông tin được thực hiện bằng hình thức tải lên hệ thống tệp tin theo các biểu mẫu quy định tại khoản 3 Điều 10 Thông tư này và bản chụp văn bản đề nghị đăng thông tin, dữ liệu của tổ chức hoặc văn bản điện tử được ký số hợp lệ. Mẫu văn bản đề nghị đăng thông tin, dữ liệu thực hiện theo Mẫu số 01 tại Phụ lục IV ban hành kèm theo Thông tư này.",
+    "line_start": 286,
+    "line_end": 286
+  },
+  {
+    "clause_id": "dieu-13-khoan-2",
+    "anchor": "dieu-13-khoan-2",
+    "title": "2. Cơ quan được giao quản lý, vận hành Hệ thống thông tin, dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng kiểm tra, đối chiếu sự đầy đủ, chính xác giữa thông tin cung cấp lên Hệ thống với thông tin tại bản chụp văn bản xác nhận hoặc văn bản điện tử được ký số hợp lệ kèm theo để duyệt đăng tải thông tin.",
+    "line_start": 289,
+    "line_end": 289
+  },
+  {
+    "clause_id": "dieu-13-khoan-3",
+    "anchor": "dieu-13-khoan-3",
+    "title": "3. Biểu mẫu để cung cấp thông tin, dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng theo biểu mẫu quy định tại khoản 3 Điều 10 Thông tư này.",
+    "line_start": 296,
+    "line_end": 296
+  },
+  {
+    "clause_id": "dieu-13-khoan-4",
+    "anchor": "dieu-13-khoan-4",
+    "title": "4. Đăng ký, đăng ký thay đổi thông tin tài khoản nêu tại khoản 1 Điều này; trách nhiệm của tổ chức được cấp tài khoản thực hiện theo quy định tại Điều 11 Thông tư này.",
+    "line_start": 299,
+    "line_end": 299
+  },
+  {
+    "clause_id": "dieu-14",
+    "anchor": "dieu-14",
+    "title": "Điều 14. Trách nhiệm quản lý việc cung cấp thông tin, dữ liệu định mức xây dựng, giá xây dựng, chỉ số giá xây dựng",
+    "line_start": 303,
+    "line_end": 303
+  },
+  {
+    "clause_id": "dieu-14-khoan-1",
+    "anchor": "dieu-14-khoan-1",
+    "title": "1. Cấp tài khoản theo đề nghị của tổ chức quy định tại khoản 1 Điều 11 Thông tư này; thiết lập, phân quyền truy cập, khai thác, cập nhật và cung cấp thông tin trên cơ sở thông tin đăng ký của tổ chức, phù hợp với đăng ký kinh doanh và phạm vi, lĩnh vực hoạt động của tổ chức.",
+    "line_start": 308,
+    "line_end": 308
+  },
+  {
+    "clause_id": "dieu-14-khoan-2",
+    "anchor": "dieu-14-khoan-2",
+    "title": "2. Khóa, tạm khóa tài khoản đối với các trường hợp chủ tài khoản cung cấp các thông tin, dữ liệu không tuân thủ quy định tại khoản 4 Điều 7 Nghị định số 212/2026/NĐ-CP hoặc theo yêu cầu của cơ quan có thẩm quyền.",
+    "line_start": 311,
+    "line_end": 311
+  },
+  {
+    "clause_id": "dieu-14-khoan-3",
+    "anchor": "dieu-14-khoan-3",
+    "title": "3. Quản lý việc cung cấp dữ liệu lên Hệ thống theo quy định tại Điều 13 Thông tư này.",
+    "line_start": 314,
+    "line_end": 314
+  },
+  {
+    "clause_id": "dieu-14-khoan-4",
+    "anchor": "dieu-14-khoan-4",
+    "title": "4. Tổ chức rà soát, đánh giá dữ liệu do các tổ chức cung cấp trong các trường hợp cần thiết.",
+    "line_start": 317,
+    "line_end": 317
+  },
+  {
+    "clause_id": "dieu-15",
+    "anchor": "dieu-15",
+    "title": "Điều 15. Tổ chức thực hiện",
+    "line_start": 325,
+    "line_end": 325
+  },
+  {
+    "clause_id": "dieu-15-khoan-1",
+    "anchor": "dieu-15-khoan-1",
+    "title": "1. Đối với quy hoạch xây dựng, quy hoạch đô thị được phê duyệt theo pháp luật về xây dựng, pháp luật về quy hoạch đô thị và còn hiệu lực mà chưa xây dựng hoặc chưa đầy đủ cơ sở dữ liệu thì cấp có thẩm quyền phê duyệt quy hoạch đô thị và nông thôn chỉ đạo rà soát để bổ sung, hoàn thiện cơ sở dữ liệu số cơ bản và cơ sở dữ liệu số pháp lý theo quy định của pháp luật về quy hoạch đô thị và nông thôn.",
+    "line_start": 328,
+    "line_end": 328
+  },
+  {
+    "clause_id": "dieu-15-khoan-2",
+    "anchor": "dieu-15-khoan-2",
+    "title": "2. Bộ Xây dựng có trách nhiệm:",
+    "line_start": 331,
+    "line_end": 331
+  },
+  {
+    "clause_id": "dieu-15-khoan-3",
+    "anchor": "dieu-15-khoan-3",
+    "title": "3. Các bộ, cơ quan ngang bộ, Ủy ban nhân dân các cấp có trách nhiệm:",
+    "line_start": 344,
+    "line_end": 344
+  },
+  {
+    "clause_id": "dieu-15-khoan-4",
+    "anchor": "dieu-15-khoan-4",
+    "title": "4. Việc cung cấp dịch vụ khai thác, sử dụng dữ liệu, thông tin không phải dữ liệu mở trong Hệ thống thông tin về hoạt động xây dựng thực hiện theo quy định tại khoản 7 Điều 22 Nghị định số 212/2026/NĐ-CP. Mẫu văn bản đề nghị cung cấp, khai thác thông tin và mẫu văn bản cung cấp thông tin về hoạt động xây dựng trên Hệ thống thông tin về hoạt động xây dựng theo quy định tại Phụ lục V ban hành kèm theo Thông tư này.",
+    "line_start": 355,
+    "line_end": 355
+  },
+  {
+    "clause_id": "dieu-16",
+    "anchor": "dieu-16",
+    "title": "Điều 16. Điều khoản thi hành",
+    "line_start": 359,
+    "line_end": 359
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2026.",
+    "line_start": 362,
+    "line_end": 362
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Thông tư này thay thế Thông tư số 24/2025/TT-BXD ngày 29/8/2025 của Bộ trưởng Bộ Xây dựng về hướng dẫn một số thông tin chi tiết trong Hệ thống thông tin, Cơ sở dữ liệu quốc gia về xây dựng.",
+    "line_start": 365,
+    "line_end": 365
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. Trường hợp các văn bản quy phạm pháp luật viện dẫn trong Thông tư này được sửa đổi, bổ sung, thay thế thì áp dụng theo các văn bản sửa đổi, bổ sung, thay thế.",
+    "line_start": 368,
+    "line_end": 368
+  },
+  {
+    "clause_id": "dieu-16-khoan-4",
+    "anchor": "dieu-16-khoan-4",
+    "title": "4. Bộ Xây dựng có trách nhiệm hướng dẫn, kiểm tra việc thực hiện các quy định tại Thông tư này./.",
+    "line_start": 371,
+    "line_end": 371
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Khi thực hiện các thủ tục theo quy định tại khoản 7 Điều 3 Nghị định số 212/2026/NĐ-CP, dữ liệu quy mô đầu tư xây dựng của dự án đầu tư xây dựng, công trình xây dựng phải được thu thập vào Hệ thống thông tin về hoạt động xây dựng.",
+    "line_start": 2429,
+    "line_end": 2429
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Quy mô đầu tư xây dựng gồm một số chỉ tiêu, thông số chính đáp ứng yêu cầu quản lý nhà nước, chuyển đổi số về hoạt động đầu tư xây dựng.",
+    "line_start": 2432,
+    "line_end": 2432
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. Theo yêu cầu quản lý ngành, lĩnh vực cho từng loại dự án, công trình xây dựng, thông số chủ yếu của quy mô đầu tư xây dựng gồm một số hoặc toàn bộ các trường dữ liệu như### Bảng sau - __STT__",
+    "line_start": 2435,
+    "line_end": 2435
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. *(tên cơ quan, tổ chức đề nghị đăng tải)* cam kết thông tin đề nghị đăng tải là trung thực và có nguồn gốc chính thống.",
+    "line_start": 2520,
+    "line_end": 2520
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Thông tin đã được kiểm tra, rà soát trước khi cung cấp;* (tên cơ quan, tổ chức đề nghị đăng tải)* chịu trách nhiệm trước pháp luật về nội dung đã cung cấp.",
+    "line_start": 2523,
+    "line_end": 2523
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. Trường hợp phát hiện sai sót hoặc cần điều chỉnh; *(tên cơ quan, tổ chức đề nghị đăng tải)* có trách nhiệm kịp thời cập nhật, bổ sung hoặc hiệu chỉnh theo quy định.",
+    "line_start": 2526,
+    "line_end": 2526
+  },
+  {
+    "clause_id": "muc-2-1",
+    "anchor": "muc-2-1",
+    "title": "2.1 Khóa tài khoản □",
+    "line_start": 2657,
+    "line_end": 2657
+  },
+  {
+    "clause_id": "muc-2-2",
+    "anchor": "muc-2-2",
+    "title": "2.2 Mở khóa tài khoản □",
+    "line_start": 2661,
+    "line_end": 2661
+  },
+  {
+    "clause_id": "muc-2-3",
+    "anchor": "muc-2-3",
+    "title": "2.3 Xóa tài khoản □",
+    "line_start": 2665,
+    "line_end": 2665
+  },
+  {
+    "clause_id": "muc-2-4",
+    "anchor": "muc-2-4",
+    "title": "2.4 Thay đổi thông tin tài khoản □",
+    "line_start": 2669,
+    "line_end": 2669
+  },
+  {
+    "clause_id": "muc-2-4-1",
+    "anchor": "muc-2-4-1",
+    "title": "2.4.1 Thông tin cơ quan/tổ chức",
+    "line_start": 2673,
+    "line_end": 2673
+  },
+  {
+    "clause_id": "muc-2-4-2",
+    "anchor": "muc-2-4-2",
+    "title": "2.4.2 Thông tin về người quản lý, sử dụng tài khoản",
+    "line_start": 2695,
+    "line_end": 2695
+  },
+  {
+    "clause_id": "muc-2-4-3",
+    "anchor": "muc-2-4-3",
+    "title": "2.4.3 Thông tin, dữ liệu đăng ký cung cấp, cập nhật",
+    "line_start": 2715,
+    "line_end": 2715
+  },
+  {
+    "clause_id": "muc-2-4-4",
+    "anchor": "muc-2-4-4",
+    "title": "2.4.4 Phần mềm đăng ký sử dụng",
+    "line_start": 2723,
+    "line_end": 2723
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Họ và tên người/người đại diện tổ chức đề nghị:………………………………",
+    "line_start": 2774,
+    "line_end": 2774
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Mã số thuế doanh nghiệp (trường hợp là tổ chức):.............................................",
+    "line_start": 2777,
+    "line_end": 2777
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. Số định danh cá nhân:",
+    "line_start": 2780,
+    "line_end": 2780
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Phạm vi đề nghị cung cấp thông tin:……………………………………………",
+    "line_start": 2785,
+    "line_end": 2785
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Mục đích yêu cầu khai thác:……………………………………………………",
+    "line_start": 2788,
+    "line_end": 2788
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. Địa chỉ nhận kết quả:……………………………………………………………",
+    "line_start": 2791,
+    "line_end": 2791
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Sử dụng thông tin được cung cấp đúng mục đích đã đăng ký tại Phiếu này.",
+    "line_start": 2796,
+    "line_end": 2796
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Không cung cấp, chia sẻ, phát tán thông tin cho tổ chức, cá nhân khác trái quy định của pháp luật.",
+    "line_start": 2799,
+    "line_end": 2799
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. Chịu trách nhiệm trước pháp luật về việc sử dụng thông tin được cung cấp.",
+    "line_start": 2802,
+    "line_end": 2802
+  },
+  {
+    "clause_id": "dieu-16-khoan-4",
+    "anchor": "dieu-16-khoan-4",
+    "title": "4. Thực hiện nghĩa vụ tài chính (nếu có) theo quy định của pháp luật.",
+    "line_start": 2805,
+    "line_end": 2805
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Họ và tên của cá nhân hoặc người đại diện cơ quan, tổ chức:.....................................",
+    "line_start": 2836,
+    "line_end": 2836
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Số định danh cá nhân:",
+    "line_start": 2839,
+    "line_end": 2839
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. \\[1\\] Dữ liệu chủ yếu được lấy theo giấy phép xây dựng được cấp đối với đối tượng phải cấp giấy phép xây dựng; [↑](#footnote-ref-2)",
+    "line_start": 2875,
+    "line_end": 2875
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. \\[2\\] Liệt kê thông tin cần cung cấp trên hệ thống thông tin về hoạt động xây dựng [↑](#footnote-ref-3)",
+    "line_start": 2879,
+    "line_end": 2879
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. \\[3\\] Liệt kê thông tin cung cấp trên Hệ thống thông tin về hoạt động xây dựng [↑](#footnote-ref-4)",
+    "line_start": 2883,
+    "line_end": 2883
+  }
+]

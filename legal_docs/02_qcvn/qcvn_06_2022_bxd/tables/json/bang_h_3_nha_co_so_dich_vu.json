@@ -1,0 +1,56 @@
+{
+  "table_id": "bang_h_3_nha_co_so_dich_vu",
+  "title": "Bảng H.3 - Nhà của các cơ sở dịch vụ (nhóm F3.5)",
+  "headers": [
+    "Hạng của gian phòng có nguy hiểm cháy cao nhất có lối ra thoát nạn đi vào hành lang",
+    "Bậc chịu lửa của nhà",
+    "Cấp nguy hiểm cháy kết cấu của nhà",
+    "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ hành lang, người"
+  ],
+  "rows": [
+    {
+      "Hạng của gian phòng có nguy hiểm cháy cao nhất có lối ra thoát nạn đi vào hành lang": "A, B",
+      "Bậc chịu lửa của nhà": "I. II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ hành lang, người": "85"
+    },
+    {
+      "Hạng của gian phòng có nguy hiểm cháy cao nhất có lối ra thoát nạn đi vào hành lang": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ hành lang, người": "173"
+    },
+    {
+      "Hạng của gian phòng có nguy hiểm cháy cao nhất có lối ra thoát nạn đi vào hành lang": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ hành lang, người": "120"
+    },
+    {
+      "Hạng của gian phòng có nguy hiểm cháy cao nhất có lối ra thoát nạn đi vào hành lang": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "Không quy định",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S2, S3",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ hành lang, người": "85"
+    },
+    {
+      "Hạng của gian phòng có nguy hiểm cháy cao nhất có lối ra thoát nạn đi vào hành lang": "C4, D, E",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ hành lang, người": "260"
+    },
+    {
+      "Hạng của gian phòng có nguy hiểm cháy cao nhất có lối ra thoát nạn đi vào hành lang": "C4, D, E",
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ hành lang, người": "180"
+    },
+    {
+      "Hạng của gian phòng có nguy hiểm cháy cao nhất có lối ra thoát nạn đi vào hành lang": "C4, D, E",
+      "Bậc chịu lửa của nhà": "Không quy định",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S2, S3",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ hành lang, người": "130"
+    }
+  ],
+  "total_rows": 7,
+  "footnotes": []
+}

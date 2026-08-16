@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_b_1_nhom_vat_lieu_chay_tinh",
+  "title": "Bảng B.1 - Nhóm vật liệu cháy theo tính cháy",
+  "headers": [
+    "Nhóm cháy của vật liệu",
+    "Các thông số cháy",
+    "Các thông số cháy",
+    "Các thông số cháy",
+    "Các thông số cháy"
+  ],
+  "rows": [
+    {
+      "Nhóm cháy của vật liệu": "Nhóm cháy của vật liệu",
+      "Các thông số cháy": "Khoảng thời gian tự cháy, s"
+    },
+    {
+      "Nhóm cháy của vật liệu": "Ch1 - cháy yếu",
+      "Các thông số cháy": "0"
+    },
+    {
+      "Nhóm cháy của vật liệu": "Ch2 - cháy vừa phải",
+      "Các thông số cháy": "≤ 30"
+    },
+    {
+      "Nhóm cháy của vật liệu": "Ch3 - cháy mạnh vừa",
+      "Các thông số cháy": "≤ 300"
+    },
+    {
+      "Nhóm cháy của vật liệu": "Ch4 - cháy mạnh",
+      "Các thông số cháy": "> 300"
+    }
+  ],
+  "total_rows": 5,
+  "footnotes": [
+    "CHÚ THÍCH 1: Các thông số thử nghiệm được xác định theo tiêu chuẩn quốc gia hiện hành hoặc tiêu chuẩn tương đương về phương pháp thử tính cháy của vật liệu xây dựng CHÚ THÍCH 2: Nếu thử nghiệm theo TCVN 12695 (ISO 1182), các vật liệu đáp ứng các yêu cầu sau cũng được xếp vào nhóm vật liệu cháy yếu Ch1: - Mức gia tăng nhiệt độ của lò đốt không quá 50 °C; - Khối lượng mẫu bị giảm không quá 50 %; - Thời gian kéo dài của ngọn lửa không quá 20 s."
+  ]
+}

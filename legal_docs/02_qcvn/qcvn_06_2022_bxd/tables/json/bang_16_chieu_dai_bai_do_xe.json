@@ -1,0 +1,47 @@
+{
+  "table_id": "bang_16_chieu_dai_bai_do_xe",
+  "title": "Bảng 16 - Chiều dài của bãi đỗ xe chữa cháy đối với nhà nhóm F5",
+  "headers": [
+    "Quy mô khối tích, m3",
+    "Chiều dài yêu cầu của bãi đỗ xe chữa cháy, tính theo chu vi nhà, m",
+    "Chiều dài yêu cầu của bãi đỗ xe chữa cháy, tính theo chu vi nhà, m"
+  ],
+  "rows": [
+    {
+      "Quy mô khối tích, m3": "Quy mô khối tích, m3",
+      "Chiều dài yêu cầu của bãi đỗ xe chữa cháy, tính theo chu vi nhà, m": "Nhà được bảo vệ bằng hệ thống sprinkler"
+    },
+    {
+      "Quy mô khối tích, m3": "≤ 28 400",
+      "Chiều dài yêu cầu của bãi đỗ xe chữa cháy, tính theo chu vi nhà, m": "1/6 chu vi và không nhỏ hơn 15 m"
+    },
+    {
+      "Quy mô khối tích, m3": "> 28 400 và ≤ 56 800",
+      "Chiều dài yêu cầu của bãi đỗ xe chữa cháy, tính theo chu vi nhà, m": "1/6 chu vi và không nhỏ hơn 15 m"
+    },
+    {
+      "Quy mô khối tích, m3": "> 56 800 và ≤ 85 200",
+      "Chiều dài yêu cầu của bãi đỗ xe chữa cháy, tính theo chu vi nhà, m": "1/4 chu vi"
+    },
+    {
+      "Quy mô khối tích, m3": "> 85 200 và ≤ 113 600",
+      "Chiều dài yêu cầu của bãi đỗ xe chữa cháy, tính theo chu vi nhà, m": "1/4 chu vi"
+    },
+    {
+      "Quy mô khối tích, m3": "> 113 600 và ≤ 170 400",
+      "Chiều dài yêu cầu của bãi đỗ xe chữa cháy, tính theo chu vi nhà, m": "1/2 chu vi"
+    },
+    {
+      "Quy mô khối tích, m3": "> 170 400 và ≤ 227 200",
+      "Chiều dài yêu cầu của bãi đỗ xe chữa cháy, tính theo chu vi nhà, m": "3/4 chu vi"
+    },
+    {
+      "Quy mô khối tích, m3": "> 227 200",
+      "Chiều dài yêu cầu của bãi đỗ xe chữa cháy, tính theo chu vi nhà, m": "Bao quanh mặt bằng nhà 1)"
+    }
+  ],
+  "total_rows": 8,
+  "footnotes": [
+    "1) Cho phép không đi theo biên của mặt bằng nhưng phải bảo đảm quy định tại 6.2.3."
+  ]
+}

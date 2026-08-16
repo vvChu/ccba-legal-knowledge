@@ -1,0 +1,48 @@
+{
+  "table_id": "bang_h_8_chieu_cao_pccc_lon_nhat",
+  "title": "Bảng H.8 - Chiều cao PCCC lớn nhất cho phép bố trí một số gian phòng",
+  "headers": [
+    "Bậc chịu lửa của nhà",
+    "Cấp nguy hiểm cháy kết cấu",
+    "Chiều cao PCCC lớn nhất cho phép của nhà, m",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2"
+  ],
+  "rows": [
+    {
+      "Bậc chịu lửa của nhà": "Bậc chịu lửa của nhà",
+      "Cấp nguy hiểm cháy kết cấu": "Cấp nguy hiểm cháy kết cấu",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "Chiều cao PCCC lớn nhất cho phép của nhà, m",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "3 đến 5 tầng"
+    },
+    {
+      "Bậc chịu lửa của nhà": "I, II",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "28",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "2 500"
+    },
+    {
+      "Bậc chịu lửa của nhà": "III",
+      "Cấp nguy hiểm cháy kết cấu": "S0, S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "8",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "3",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV, V",
+      "Cấp nguy hiểm cháy kết cấu": "S1, S2, S3",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "3",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "-"
+    }
+  ],
+  "total_rows": 5,
+  "footnotes": [
+    "CHÚ THÍCH 1: Dấu \"-\" nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng. CHÚ THÍCH 2: Trong các nhà của các cơ sở thương mại 1 tầng có bậc chịu lửa III, trừ các cơ sở kinh doanh sơn và véc ni, các vật liệu xây dựng hoàn thiện, phụ tùng, phụ kiện ô tô, thảm, đồ nội thất, cho phép tăng gấp đôi diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy với điều kiện phải ngăn cách gian bán hàng với các phòng khác bằng tường ngăn cháy loại 2. CHÚ THÍCH 3: Đối với nhà cửa hàng có bậc chịu lửa I và II, cho phép tăng chiều cao của nhà thêm 1 tầng nếu chỉ bố trí kho hàng, các gian phòng phục vụ, dịch vụ và phòng kỹ thuật ở tầng trên cùng. CHÚ THÍCH 4: Số tầng được tính bằng số các tầng trên mặt đất không kể tầng kỹ thuật trên cùng."
+  ]
+}

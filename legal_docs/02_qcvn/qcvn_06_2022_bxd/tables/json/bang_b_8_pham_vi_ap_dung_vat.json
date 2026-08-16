@@ -1,0 +1,46 @@
+{
+  "table_id": "bang_b_8_pham_vi_ap_dung_vat",
+  "title": "Bảng B.8 - Phạm vi áp dụng của vật liệu hoàn thiện, trang trí, vật liệu ốp lát và vật liệu phủ sàn trên đường thoát nạn",
+  "headers": [
+    "Nhóm nguy hiểm cháy theo công năng của nhà, công trình, khoang cháy",
+    "Số tầng và chiều cao của nhà",
+    "Cấp nguy hiểm cháy của vật liệu",
+    "Cấp nguy hiểm cháy của vật liệu",
+    "Cấp nguy hiểm cháy của vật liệu",
+    "Cấp nguy hiểm cháy của vật liệu"
+  ],
+  "rows": [
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình, khoang cháy": "Nhóm nguy hiểm cháy theo công năng của nhà, công trình, khoang cháy",
+      "Số tầng và chiều cao của nhà": "Số tầng và chiều cao của nhà",
+      "Cấp nguy hiểm cháy của vật liệu": "phủ sàn"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình, khoang cháy": "Nhóm nguy hiểm cháy theo công năng của nhà, công trình, khoang cháy",
+      "Số tầng và chiều cao của nhà": "Số tầng và chiều cao của nhà",
+      "Cấp nguy hiểm cháy của vật liệu": "Hành lang chung, sảnh chờ"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình, khoang cháy": "F1.2; F1.3; F2.3; F2.4; F3.1; F3.2; F3.6; F4.2; F4.3; F4.4; F5.1; F5.2, F5.3",
+      "Số tầng và chiều cao của nhà": "≤ 9 tầng hoặc ≤ 28 m",
+      "Cấp nguy hiểm cháy của vật liệu": "CV4"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình, khoang cháy": "F1.2; F1.3; F2.3; F2.4; F3.1; F3.2; F3.6; F4.2; F4.3; F4.4; F5.1; F5.2, F5.3",
+      "Số tầng và chiều cao của nhà": "> 9 tầng và ≤ 17 tầng; hoặc > 28 m và ≤ 50 m",
+      "Cấp nguy hiểm cháy của vật liệu": "CV3"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình, khoang cháy": "F1.2; F1.3; F2.3; F2.4; F3.1; F3.2; F3.6; F4.2; F4.3; F4.4; F5.1; F5.2, F5.3",
+      "Số tầng và chiều cao của nhà": "> 17 tầng hoặc > 50 m",
+      "Cấp nguy hiểm cháy của vật liệu": "CV2"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà, công trình, khoang cháy": "F1.1; F2.1; F2.2; F3.3; F3.4; F3.5; F4.1",
+      "Số tầng và chiều cao của nhà": "Không phụ thuộc vào số tầng hoặc chiều cao",
+      "Cấp nguy hiểm cháy của vật liệu": "CV2"
+    }
+  ],
+  "total_rows": 6,
+  "footnotes": []
+}
