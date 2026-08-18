@@ -1,0 +1,478 @@
+[
+  {
+    "clause_id": "dieu-1",
+    "anchor": "dieu-1",
+    "title": "Điều 1. Phạm vi điều chỉnh",
+    "line_start": 27,
+    "line_end": 27
+  },
+  {
+    "clause_id": "dieu-1-khoan-1",
+    "anchor": "dieu-1-khoan-1",
+    "title": "1. Luật này quy định về quản lý nhà nước đối với hoạt động đấu thầu; thẩm quyền và trách nhiệm của các cơ quan, tổ chức, cá nhân trong hoạt động đấu thầu; hoạt động lựa chọn nhà thầu thực hiện gói thầu, hoạt động lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh.",
+    "line_start": 30,
+    "line_end": 30
+  },
+  {
+    "clause_id": "dieu-1-khoan-2",
+    "anchor": "dieu-1-khoan-2",
+    "title": "2. Hoạt động lựa chọn nhà thầu thực hiện gói thầu thuộc các dự án:",
+    "line_start": 33,
+    "line_end": 33
+  },
+  {
+    "clause_id": "dieu-2",
+    "anchor": "dieu-2",
+    "title": "Điều 2. Đối tượng áp dụng",
+    "line_start": 45,
+    "line_end": 45
+  },
+  {
+    "clause_id": "dieu-2-khoan-1",
+    "anchor": "dieu-2-khoan-1",
+    "title": "1. Cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động đấu thầu quy định tại Điều 1 của Luật này.",
+    "line_start": 48,
+    "line_end": 48
+  },
+  {
+    "clause_id": "dieu-2-khoan-2",
+    "anchor": "dieu-2-khoan-2",
+    "title": "2. Tổ chức, cá nhân có hoạt động đấu thầu không thuộc phạm vi điều chỉnh của Luật này được tự lựa chọn áp dụng toàn bộ hoặc các điều, khoản, điểm cụ thể của Luật này.",
+    "line_start": 51,
+    "line_end": 51
+  },
+  {
+    "clause_id": "dieu-3",
+    "anchor": "dieu-3",
+    "title": "Điều 3. Giải thích từ ngữ",
+    "line_start": 55,
+    "line_end": 55
+  },
+  {
+    "clause_id": "dieu-3-khoan-1",
+    "anchor": "dieu-3-khoan-1",
+    "title": "1. *Đấu thầu* là quá trình lựa chọn nhà thầu để ký kết, thực hiện hợp đồng cung cấp dịch vụ tư vấn, dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, mua thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế; lựa chọn nhà đầu tư để ký kết, thực hiện hợp đồng dự án đầu tư kinh doanh.",
+    "line_start": 60,
+    "line_end": 60
+  },
+  {
+    "clause_id": "dieu-3-khoan-2",
+    "anchor": "dieu-3-khoan-2",
+    "title": "2. *Bên mời thầu* là cơ quan, tổ chức có chuyên môn và năng lực được chủ đầu tư giao hoặc lựa chọn để tổ chức lựa chọn nhà thầu.",
+    "line_start": 63,
+    "line_end": 63
+  },
+  {
+    "clause_id": "dieu-3-khoan-3",
+    "anchor": "dieu-3-khoan-3",
+    "title": "3. *Chủ đầu tư* là cơ quan, tổ chức sở hữu vốn, vay vốn hoặc được giao trực tiếp quản lý, sử dụng vốn để thực hiện dự án đầu tư.",
+    "line_start": 66,
+    "line_end": 66
+  },
+  {
+    "clause_id": "dieu-3-khoan-4",
+    "anchor": "dieu-3-khoan-4",
+    "title": "4. *Dịch vụ tư vấn* là một hoặc một số hoạt động bao gồm: lập, đánh giá quy hoạch; lập, thẩm tra báo cáo nghiên cứu tiền khả thi, báo cáo nghiên cứu khả thi; khảo sát, thiết kế xây dựng; tư vấn thẩm tra thiết kế, dự toán; tư vấn giám sát thi công; quản lý dự án; tư vấn lựa chọn nhà thầu và các hoạt động tư vấn khác.",
+    "line_start": 69,
+    "line_end": 69
+  },
+  {
+    "clause_id": "dieu-3-khoan-5",
+    "anchor": "dieu-3-khoan-5",
+    "title": "5. *Gói thầu xây lắp* bao gồm công việc thi công xây dựng công trình, hạng mục công trình, lắp đặt thiết bị công trình, thiết bị công nghệ.",
+    "line_start": 72,
+    "line_end": 72
+  },
+  {
+    "clause_id": "dieu-3-khoan-6",
+    "anchor": "dieu-3-khoan-6",
+    "title": "6. *Gói thầu hỗn hợp* bao gồm gói thầu thiết kế và cung cấp hàng hóa (EP); thiết kế và xây lắp (EC); cung cấp hàng hóa và xây lắp (PC); thiết kế, cung cấp hàng hóa và xây lắp (EPC); lập dự án, thiết kế, cung cấp hàng hóa và xây lắp (chìa khóa trao tay).",
+    "line_start": 75,
+    "line_end": 75
+  },
+  {
+    "clause_id": "dieu-4",
+    "anchor": "dieu-4",
+    "title": "Điều 4. Nguyên tắc áp dụng Luật Đấu thầu",
+    "line_start": 79,
+    "line_end": 79
+  },
+  {
+    "clause_id": "dieu-4-khoan-1",
+    "anchor": "dieu-4-khoan-1",
+    "title": "1. Hoạt động đấu thầu thuộc phạm vi điều chỉnh của Luật này phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan.",
+    "line_start": 82,
+    "line_end": 82
+  },
+  {
+    "clause_id": "dieu-4-khoan-2",
+    "anchor": "dieu-4-khoan-2",
+    "title": "2. Trường hợp có sự khác nhau giữa quy định của Luật này và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên thì áp dụng quy định của điều ước quốc tế đó.",
+    "line_start": 85,
+    "line_end": 85
+  },
+  {
+    "clause_id": "dieu-5",
+    "anchor": "dieu-5",
+    "title": "Điều 5. Tư cách hợp lệ của nhà thầu, nhà đầu tư",
+    "line_start": 89,
+    "line_end": 89
+  },
+  {
+    "clause_id": "dieu-5-khoan-1",
+    "anchor": "dieu-5-khoan-1",
+    "title": "1. Nhà thầu, nhà đầu tư là tổ chức có tư cách hợp lệ khi đáp ứng đủ các điều kiện:",
+    "line_start": 92,
+    "line_end": 92
+  },
+  {
+    "clause_id": "dieu-6",
+    "anchor": "dieu-6",
+    "title": "Điều 6. Bảo đảm cạnh tranh trong đấu thầu",
+    "line_start": 110,
+    "line_end": 110
+  },
+  {
+    "clause_id": "dieu-6-khoan-1",
+    "anchor": "dieu-6-khoan-1",
+    "title": "1. Nhà thầu nộp hồ sơ quan tâm, hồ sơ dự sơ tuyển phải độc lập về pháp lý và độc lập về tài chính với nhà thầu tư vấn lập hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, tư vấn đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển.",
+    "line_start": 113,
+    "line_end": 113
+  },
+  {
+    "clause_id": "dieu-6-khoan-2",
+    "anchor": "dieu-6-khoan-2",
+    "title": "2. Nhà thầu tham dự thầu gói thầu xây lắp, mua sắm hàng hóa, dịch vụ phi tư vấn phải độc lập về pháp lý và độc lập về tài chính với:",
+    "line_start": 116,
+    "line_end": 116
+  },
+  {
+    "clause_id": "dieu-7",
+    "anchor": "dieu-7",
+    "title": "Điều 7. Ưu đãi trong lựa chọn nhà thầu, nhà đầu tư",
+    "line_start": 126,
+    "line_end": 126
+  },
+  {
+    "clause_id": "dieu-7-khoan-1",
+    "anchor": "dieu-7-khoan-1",
+    "title": "1. Đối tượng được hưởng ưu đãi trong lựa chọn nhà thầu gồm:",
+    "line_start": 129,
+    "line_end": 129
+  },
+  {
+    "clause_id": "dieu-8",
+    "anchor": "dieu-8",
+    "title": "Điều 8. Thông tin về đấu thầu",
+    "line_start": 141,
+    "line_end": 141
+  },
+  {
+    "clause_id": "dieu-9",
+    "anchor": "dieu-9",
+    "title": "Điều 9. Chi phí trong lựa chọn nhà thầu, nhà đầu tư",
+    "line_start": 147,
+    "line_end": 147
+  },
+  {
+    "clause_id": "dieu-10",
+    "anchor": "dieu-10",
+    "title": "Điều 10. Ngôn ngữ và đồng tiền sử dụng trong đấu thầu",
+    "line_start": 153,
+    "line_end": 153
+  },
+  {
+    "clause_id": "dieu-11",
+    "anchor": "dieu-11",
+    "title": "Điều 11. Các hành vi bị cấm trong hoạt động đấu thầu",
+    "line_start": 159,
+    "line_end": 159
+  },
+  {
+    "clause_id": "dieu-11-khoan-1",
+    "anchor": "dieu-11-khoan-1",
+    "title": "1. Đưa, nhận, môi giới hối lộ.",
+    "line_start": 162,
+    "line_end": 162
+  },
+  {
+    "clause_id": "dieu-11-khoan-2",
+    "anchor": "dieu-11-khoan-2",
+    "title": "2. Lợi dụng chức vụ, quyền hạn để can thiệp bất hợp pháp vào hoạt động đấu thầu.",
+    "line_start": 165,
+    "line_end": 165
+  },
+  {
+    "clause_id": "dieu-11-khoan-3",
+    "anchor": "dieu-11-khoan-3",
+    "title": "3. Thông thầu, bao gồm các hành vi thỏa thuận về việc rút hồ sơ dự thầu, thỏa thuận để một bên thắng thầu, thỏa thuận không nộp hồ sơ để tạo điều kiện cho bên khác.",
+    "line_start": 168,
+    "line_end": 168
+  },
+  {
+    "clause_id": "dieu-11-khoan-4",
+    "anchor": "dieu-11-khoan-4",
+    "title": "4. Gian lận trong đấu thầu, làm giả tài liệu, cung cấp thông tin không trung thực trong hồ sơ dự thầu, hồ sơ đề xuất.",
+    "line_start": 171,
+    "line_end": 171
+  },
+  {
+    "clause_id": "dieu-11-khoan-5",
+    "anchor": "dieu-11-khoan-5",
+    "title": "5. Cản trở hoạt động đấu thầu.",
+    "line_start": 174,
+    "line_end": 174
+  },
+  {
+    "clause_id": "dieu-11-khoan-6",
+    "anchor": "dieu-11-khoan-6",
+    "title": "6. Không bảo đảm công bằng, minh bạch (nêu điều kiện định hướng nhà thầu, yêu cầu nhãn hiệu, xuất xứ cụ thể trong HSMT).",
+    "line_start": 177,
+    "line_end": 177
+  },
+  {
+    "clause_id": "dieu-11-khoan-7",
+    "anchor": "dieu-11-khoan-7",
+    "title": "7. Tiết lộ, tiếp nhận thông tin tài liệu bí mật về quá trình lựa chọn nhà thầu trước khi công bố kết quả.",
+    "line_start": 180,
+    "line_end": 180
+  },
+  {
+    "clause_id": "dieu-11-khoan-8",
+    "anchor": "dieu-11-khoan-8",
+    "title": "8. Chuyển nhượng thầu trái phép.",
+    "line_start": 183,
+    "line_end": 183
+  },
+  {
+    "clause_id": "dieu-12",
+    "anchor": "dieu-12",
+    "title": "Điều 12. Hủy thầu",
+    "line_start": 187,
+    "line_end": 187
+  },
+  {
+    "clause_id": "dieu-13",
+    "anchor": "dieu-13",
+    "title": "Điều 13. Điều kiện phát hành hồ sơ mời thầu",
+    "line_start": 193,
+    "line_end": 193
+  },
+  {
+    "clause_id": "dieu-14",
+    "anchor": "dieu-14",
+    "title": "Điều 14. Bảo đảm dự thầu",
+    "line_start": 199,
+    "line_end": 199
+  },
+  {
+    "clause_id": "dieu-15",
+    "anchor": "dieu-15",
+    "title": "Điều 15. Bảo đảm thực hiện hợp đồng",
+    "line_start": 205,
+    "line_end": 205
+  },
+  {
+    "clause_id": "dieu-16",
+    "anchor": "dieu-16",
+    "title": "Điều 16. Năng lực, kinh nghiệm của tổ chuyên gia và tổ thẩm định",
+    "line_start": 211,
+    "line_end": 211
+  },
+  {
+    "clause_id": "dieu-17",
+    "anchor": "dieu-17",
+    "title": "Điều 17. Xử lý tình huống trong đấu thầu",
+    "line_start": 217,
+    "line_end": 217
+  },
+  {
+    "clause_id": "dieu-18",
+    "anchor": "dieu-18",
+    "title": "Điều 18. Thời gian trong quá trình lựa chọn nhà thầu",
+    "line_start": 223,
+    "line_end": 223
+  },
+  {
+    "clause_id": "dieu-19",
+    "anchor": "dieu-19",
+    "title": "Điều 19. Hồ sơ mời thầu và tiêu chuẩn đánh giá",
+    "line_start": 229,
+    "line_end": 229
+  },
+  {
+    "clause_id": "dieu-20",
+    "anchor": "dieu-20",
+    "title": "Điều 20. Đấu thầu rộng rãi",
+    "line_start": 241,
+    "line_end": 241
+  },
+  {
+    "clause_id": "dieu-21",
+    "anchor": "dieu-21",
+    "title": "Điều 21. Đấu thầu hạn chế",
+    "line_start": 247,
+    "line_end": 247
+  },
+  {
+    "clause_id": "dieu-22",
+    "anchor": "dieu-22",
+    "title": "Điều 22. Chỉ định thầu",
+    "line_start": 253,
+    "line_end": 253
+  },
+  {
+    "clause_id": "dieu-22-khoan-1",
+    "anchor": "dieu-22-khoan-1",
+    "title": "1. Chỉ định thầu được áp dụng trong các trường hợp cấp bách phục vụ khắc phục thiên tai, dịch bệnh, an ninh quốc phòng, gói thầu có giá trị trong hạn mức chỉ định thầu theo quy định của Chính phủ hoặc gói thầu chỉ có một nhà thầu có khả năng thực hiện.",
+    "line_start": 256,
+    "line_end": 256
+  },
+  {
+    "clause_id": "dieu-23",
+    "anchor": "dieu-23",
+    "title": "Điều 23. Chào hàng cạnh tranh",
+    "line_start": 260,
+    "line_end": 260
+  },
+  {
+    "clause_id": "dieu-24",
+    "anchor": "dieu-24",
+    "title": "Điều 24. Mua sắm trực tiếp",
+    "line_start": 266,
+    "line_end": 266
+  },
+  {
+    "clause_id": "dieu-25",
+    "anchor": "dieu-25",
+    "title": "Điều 25. Tự thực hiện",
+    "line_start": 272,
+    "line_end": 272
+  },
+  {
+    "clause_id": "dieu-26",
+    "anchor": "dieu-26",
+    "title": "Điều 26. Tham gia thực hiện của cộng đồng",
+    "line_start": 278,
+    "line_end": 278
+  },
+  {
+    "clause_id": "dieu-27",
+    "anchor": "dieu-27",
+    "title": "Điều 27. Đàm phán giá",
+    "line_start": 284,
+    "line_end": 284
+  },
+  {
+    "clause_id": "dieu-28",
+    "anchor": "dieu-28",
+    "title": "Điều 28. Lựa chọn nhà thầu trong trường hợp đặc biệt",
+    "line_start": 290,
+    "line_end": 290
+  },
+  {
+    "clause_id": "dieu-29",
+    "anchor": "dieu-29",
+    "title": "Điều 29. Phương thức một giai đoạn một túi hồ sơ",
+    "line_start": 296,
+    "line_end": 296
+  },
+  {
+    "clause_id": "dieu-30",
+    "anchor": "dieu-30",
+    "title": "Điều 30. Phương thức một giai đoạn hai túi hồ sơ",
+    "line_start": 302,
+    "line_end": 302
+  },
+  {
+    "clause_id": "dieu-36",
+    "anchor": "dieu-36",
+    "title": "Điều 36. Thẩm quyền phê duyệt kế hoạch lựa chọn nhà thầu",
+    "line_start": 314,
+    "line_end": 314
+  },
+  {
+    "clause_id": "dieu-37",
+    "anchor": "dieu-37",
+    "title": "Điều 37. Căn cứ lập kế hoạch lựa chọn nhà thầu",
+    "line_start": 320,
+    "line_end": 320
+  },
+  {
+    "clause_id": "dieu-38",
+    "anchor": "dieu-38",
+    "title": "Điều 38. Nội dung kế hoạch lựa chọn nhà thầu",
+    "line_start": 326,
+    "line_end": 326
+  },
+  {
+    "clause_id": "dieu-38-khoan-1",
+    "anchor": "dieu-38-khoan-1",
+    "title": "1. Kế hoạch lựa chọn nhà thầu phải bao gồm:",
+    "line_start": 329,
+    "line_end": 329
+  },
+  {
+    "clause_id": "dieu-64",
+    "anchor": "dieu-64",
+    "title": "Điều 64. Các loại hợp đồng",
+    "line_start": 353,
+    "line_end": 353
+  },
+  {
+    "clause_id": "dieu-64-khoan-1",
+    "anchor": "dieu-64-khoan-1",
+    "title": "1. *Hợp đồng trọn gói*: Áp dụng cho các gói thầu có quy mô xác định rõ về khối lượng và đơn giá, giá hợp đồng không thay đổi trong suốt quá trình thực hiện trừ trường hợp bất khả kháng.",
+    "line_start": 356,
+    "line_end": 356
+  },
+  {
+    "clause_id": "dieu-64-khoan-2",
+    "anchor": "dieu-64-khoan-2",
+    "title": "2. *Hợp đồng theo đơn giá cố định*: Đơn giá không thay đổi, thanh toán theo khối lượng nghiệm thu thực tế.",
+    "line_start": 359,
+    "line_end": 359
+  },
+  {
+    "clause_id": "dieu-64-khoan-3",
+    "anchor": "dieu-64-khoan-3",
+    "title": "3. *Hợp đồng theo đơn giá điều chỉnh*: Cho phép điều chỉnh đơn giá theo chỉ số giá và công thức thỏa thuận trong hợp đồng.",
+    "line_start": 362,
+    "line_end": 362
+  },
+  {
+    "clause_id": "dieu-64-khoan-4",
+    "anchor": "dieu-64-khoan-4",
+    "title": "4. *Hợp đồng theo thời gian*: Áp dụng cho các gói thầu tư vấn phức tạp, tư vấn giám sát, quản lý dự án.",
+    "line_start": 365,
+    "line_end": 365
+  },
+  {
+    "clause_id": "dieu-95",
+    "anchor": "dieu-95",
+    "title": "Điều 95. Hiệu lực thi hành",
+    "line_start": 375,
+    "line_end": 375
+  },
+  {
+    "clause_id": "dieu-95-khoan-1",
+    "anchor": "dieu-95-khoan-1",
+    "title": "1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2024.",
+    "line_start": 378,
+    "line_end": 378
+  },
+  {
+    "clause_id": "dieu-95-khoan-2",
+    "anchor": "dieu-95-khoan-2",
+    "title": "2. Luật Đấu thầu số 43/2013/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực.",
+    "line_start": 381,
+    "line_end": 381
+  },
+  {
+    "clause_id": "dieu-96",
+    "anchor": "dieu-96",
+    "title": "Điều 96. Quy định chuyển tiếp",
+    "line_start": 385,
+    "line_end": 385
+  }
+]

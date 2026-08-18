@@ -1,0 +1,737 @@
+[
+  {
+    "clause_id": "dieu-1",
+    "anchor": "dieu-1",
+    "title": "Điều 1. Phạm vi điều chỉnh",
+    "line_start": 37,
+    "line_end": 37
+  },
+  {
+    "clause_id": "dieu-1-khoan-1",
+    "anchor": "dieu-1-khoan-1",
+    "title": "1. Nghị định này quy định chi tiết một số điều của Luật Đấu thầu số 22/2023/QH15 về:",
+    "line_start": 40,
+    "line_end": 40
+  },
+  {
+    "clause_id": "dieu-2",
+    "anchor": "dieu-2",
+    "title": "Điều 2. Đối tượng áp dụng",
+    "line_start": 62,
+    "line_end": 62
+  },
+  {
+    "clause_id": "dieu-2-khoan-1",
+    "anchor": "dieu-2-khoan-1",
+    "title": "1. Cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động lựa chọn nhà thầu thuộc phạm vi điều chỉnh quy định tại Điều 1 của Luật Đấu thầu.",
+    "line_start": 65,
+    "line_end": 65
+  },
+  {
+    "clause_id": "dieu-2-khoan-2",
+    "anchor": "dieu-2-khoan-2",
+    "title": "2. Tổ chức, cá nhân có hoạt động đấu thầu không thuộc phạm vi điều chỉnh quy định tại Điều 1 của Luật Đấu thầu được tự lựa chọn áp dụng toàn bộ hoặc các điều, khoản, điểm cụ thể của Nghị định này.",
+    "line_start": 68,
+    "line_end": 68
+  },
+  {
+    "clause_id": "dieu-3",
+    "anchor": "dieu-3",
+    "title": "Điều 3. Bảo đảm cạnh tranh trong đấu thầu",
+    "line_start": 72,
+    "line_end": 72
+  },
+  {
+    "clause_id": "dieu-3-khoan-1",
+    "anchor": "dieu-3-khoan-1",
+    "title": "1. Nhà thầu tham dự thầu độc lập phải độc lập về pháp lý và độc lập về tài chính với chủ đầu tư, bên mời thầu theo quy định tại khoản 2 Điều 6 của Luật Đấu thầu.",
+    "line_start": 75,
+    "line_end": 75
+  },
+  {
+    "clause_id": "dieu-3-khoan-2",
+    "anchor": "dieu-3-khoan-2",
+    "title": "2. Nhà thầu tham dự thầu gói thầu xây lắp, cung cấp thiết bị không được có cổ phần hoặc vốn góp trên 30% với nhà thầu tư vấn thiết kế, tư vấn lập dự toán, tư vấn giám sát thực hiện gói thầu đó.",
+    "line_start": 78,
+    "line_end": 78
+  },
+  {
+    "clause_id": "dieu-3-khoan-3",
+    "anchor": "dieu-3-khoan-3",
+    "title": "3. Nhà thầu tư vấn quản lý dự án, tư vấn giám sát không được đồng thời là nhà thầu thi công xây dựng hoặc cung ứng vật tư, thiết bị cho gói thầu mà mình quản lý, giám sát.",
+    "line_start": 81,
+    "line_end": 81
+  },
+  {
+    "clause_id": "dieu-4",
+    "anchor": "dieu-4",
+    "title": "Điều 4. Ưu đãi trong lựa chọn nhà thầu",
+    "line_start": 85,
+    "line_end": 85
+  },
+  {
+    "clause_id": "dieu-4-khoan-1",
+    "anchor": "dieu-4-khoan-1",
+    "title": "1. Hàng hóa xuất xứ Việt Nam được hưởng ưu đãi khi có tỷ lệ chi phí sản xuất trong nước từ 30% trở lên.",
+    "line_start": 88,
+    "line_end": 88
+  },
+  {
+    "clause_id": "dieu-4-khoan-2",
+    "anchor": "dieu-4-khoan-2",
+    "title": "2. Doanh nghiệp nhỏ và vừa, hợp tác xã, doanh nghiệp khởi nghiệp sáng tạo được hưởng ưu đãi trong các gói thầu xây lắp có giá gói thầu không quá 05 tỷ đồng.",
+    "line_start": 91,
+    "line_end": 91
+  },
+  {
+    "clause_id": "dieu-4-khoan-3",
+    "anchor": "dieu-4-khoan-3",
+    "title": "3. Cách tính điểm ưu đãi: Cộng thêm điểm vào điểm đánh giá hoặc trừ bớt vào giá đánh giá theo tỷ lệ quy định tại Hồ sơ mời thầu.",
+    "line_start": 94,
+    "line_end": 94
+  },
+  {
+    "clause_id": "dieu-5",
+    "anchor": "dieu-5",
+    "title": "Điều 5. Chi phí trong lựa chọn nhà thầu",
+    "line_start": 98,
+    "line_end": 98
+  },
+  {
+    "clause_id": "dieu-5-khoan-1",
+    "anchor": "dieu-5-khoan-1",
+    "title": "1. Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu được phát hành miễn phí trên Hệ thống mạng đấu thầu quốc gia.",
+    "line_start": 101,
+    "line_end": 101
+  },
+  {
+    "clause_id": "dieu-5-khoan-2",
+    "anchor": "dieu-5-khoan-2",
+    "title": "2. Chi phí nộp hồ sơ dự thầu, chi phí đăng tải thông tin và chi phí duy trì cơ sở dữ liệu nhà thầu thực hiện theo biểu giá do Bộ Kế hoạch và Đầu tư quy định.",
+    "line_start": 104,
+    "line_end": 104
+  },
+  {
+    "clause_id": "dieu-5-khoan-3",
+    "anchor": "dieu-5-khoan-3",
+    "title": "3. Chi phí thẩm định kế hoạch lựa chọn nhà thầu, thẩm định hồ sơ mời thầu và thẩm định kết quả lựa chọn nhà thầu được tính theo tỷ lệ phần trăm trên giá trị gói thầu trong tổng mức đầu tư dự án.",
+    "line_start": 107,
+    "line_end": 107
+  },
+  {
+    "clause_id": "dieu-6",
+    "anchor": "dieu-6",
+    "title": "Điều 6. Bảo đảm dự thầu",
+    "line_start": 111,
+    "line_end": 111
+  },
+  {
+    "clause_id": "dieu-6-khoan-1",
+    "anchor": "dieu-6-khoan-1",
+    "title": "1. Bảo đảm dự thầu được thực hiện dưới hình thức đặt cọc, nộp thư bảo lãnh của tổ chức tín dụng hoặc giấy chứng nhận bảo hiểm bảo lãnh của doanh nghiệp bảo hiểm phi nhân thọ.",
+    "line_start": 114,
+    "line_end": 114
+  },
+  {
+    "clause_id": "dieu-6-khoan-2",
+    "anchor": "dieu-6-khoan-2",
+    "title": "2. Thời gian có hiệu lực của bảo đảm dự thầu bằng thời gian có hiệu lực của hồ sơ dự thầu cộng thêm 30 ngày.",
+    "line_start": 117,
+    "line_end": 117
+  },
+  {
+    "clause_id": "dieu-6-khoan-3",
+    "anchor": "dieu-6-khoan-3",
+    "title": "3. Trường hợp nhà thầu liên danh, từng thành viên trong liên danh có thể nộp bảo đảm dự thầu riêng rẽ hoặc ủy quyền cho thành viên đứng đầu liên danh nộp bảo đảm dự thầu cho toàn bộ liên danh.",
+    "line_start": 120,
+    "line_end": 120
+  },
+  {
+    "clause_id": "dieu-7",
+    "anchor": "dieu-7",
+    "title": "Điều 7. Bảo đảm thực hiện hợp đồng",
+    "line_start": 124,
+    "line_end": 124
+  },
+  {
+    "clause_id": "dieu-7-khoan-1",
+    "anchor": "dieu-7-khoan-1",
+    "title": "1. Nhà thầu trúng thầu phải nộp bảo đảm thực hiện hợp đồng trước thời điểm hợp đồng có hiệu lực.",
+    "line_start": 127,
+    "line_end": 127
+  },
+  {
+    "clause_id": "dieu-7-khoan-2",
+    "anchor": "dieu-7-khoan-2",
+    "title": "2. Giá trị bảo đảm thực hiện hợp đồng được quy định từ 2% đến 10% giá hợp đồng; đối với gói thầu có rủi ro cao, giá trị bảo đảm có thể lên đến 30% giá hợp đồng nhưng phải được người có thẩm quyền phê duyệt trong kế hoạch lựa chọn nhà thầu.",
+    "line_start": 130,
+    "line_end": 130
+  },
+  {
+    "clause_id": "dieu-7-khoan-3",
+    "anchor": "dieu-7-khoan-3",
+    "title": "3. Nhà thầu không được hoàn trả bảo đảm thực hiện hợp đồng trong trường hợp từ chối thực hiện hợp đồng khi hợp đồng đã có hiệu lực hoặc vi phạm thỏa thuận trong hợp đồng.",
+    "line_start": 133,
+    "line_end": 133
+  },
+  {
+    "clause_id": "dieu-8",
+    "anchor": "dieu-8",
+    "title": "Điều 8. Hủy thầu và xử lý hậu quả khi hủy thầu",
+    "line_start": 137,
+    "line_end": 137
+  },
+  {
+    "clause_id": "dieu-8-khoan-1",
+    "anchor": "dieu-8-khoan-1",
+    "title": "1. Khi hủy thầu theo quy định tại Điều 12 Luật Đấu thầu, bên mời thầu có trách nhiệm hoàn trả tiền bảo đảm dự thầu cho các nhà thầu tham dự trong thời hạn 05 ngày làm việc kể từ ngày ban hành quyết định hủy thầu.",
+    "line_start": 140,
+    "line_end": 140
+  },
+  {
+    "clause_id": "dieu-8-khoan-2",
+    "anchor": "dieu-8-khoan-2",
+    "title": "2. Tổ chức, cá nhân có hành vi vi phạm dẫn đến hủy thầu phải chịu trách nhiệm bồi thường thiệt hại cho các bên liên quan theo quy định của pháp luật.",
+    "line_start": 143,
+    "line_end": 143
+  },
+  {
+    "clause_id": "dieu-9",
+    "anchor": "dieu-9",
+    "title": "Điều 9. Điều kiện của tổ chuyên gia và tổ thẩm định",
+    "line_start": 147,
+    "line_end": 147
+  },
+  {
+    "clause_id": "dieu-9-khoan-1",
+    "anchor": "dieu-9-khoan-1",
+    "title": "1. Tổ chuyên gia đánh giá hồ sơ dự thầu phải có ít nhất 03 thành viên, trong đó tổ trưởng phải có tối thiểu 05 năm kinh nghiệm và có chứng chỉ nghiệp vụ chuyên sâu về đấu thầu.",
+    "line_start": 150,
+    "line_end": 150
+  },
+  {
+    "clause_id": "dieu-9-khoan-2",
+    "anchor": "dieu-9-khoan-2",
+    "title": "2. Tổ thẩm định phải độc lập với tổ chuyên gia và bên mời thầu. Thành viên tổ thẩm định phải có chứng chỉ chuyên môn và có kinh nghiệm thực tế về công tác thẩm định đấu thầu.",
+    "line_start": 153,
+    "line_end": 153
+  },
+  {
+    "clause_id": "dieu-10",
+    "anchor": "dieu-10",
+    "title": "Điều 10. Đăng tải thông tin đấu thầu qua mạng",
+    "line_start": 157,
+    "line_end": 157
+  },
+  {
+    "clause_id": "dieu-11",
+    "anchor": "dieu-11",
+    "title": "Điều 11. Nguyên tắc lập kế hoạch lựa chọn nhà thầu",
+    "line_start": 169,
+    "line_end": 169
+  },
+  {
+    "clause_id": "dieu-11-khoan-1",
+    "anchor": "dieu-11-khoan-1",
+    "title": "1. Kế hoạch lựa chọn nhà thầu được lập cho toàn bộ dự án hoặc từng gói thầu theo giai đoạn triển khai dự án.",
+    "line_start": 172,
+    "line_end": 172
+  },
+  {
+    "clause_id": "dieu-11-khoan-2",
+    "anchor": "dieu-11-khoan-2",
+    "title": "2. Không được chia nhỏ dự án thành các gói thầu trái quy định nhằm mục đích chỉ định thầu hoặc hạn chế sự tham gia của các nhà thầu.",
+    "line_start": 175,
+    "line_end": 175
+  },
+  {
+    "clause_id": "dieu-11-khoan-3",
+    "anchor": "dieu-11-khoan-3",
+    "title": "3. Việc phân chia gói thầu phải căn cứ vào tính chất kỹ thuật, trình tự thực hiện và quy mô của dự án để bảo đảm tính đồng bộ và hiệu quả kinh tế.",
+    "line_start": 178,
+    "line_end": 178
+  },
+  {
+    "clause_id": "dieu-12",
+    "anchor": "dieu-12",
+    "title": "Điều 12. Xác định giá gói thầu",
+    "line_start": 182,
+    "line_end": 182
+  },
+  {
+    "clause_id": "dieu-12-khoan-1",
+    "anchor": "dieu-12-khoan-1",
+    "title": "1. Giá gói thầu được tính đúng, tính đủ toàn bộ chi phí để thực hiện gói thầu, bao gồm cả chi phí dự phòng, phí, lệ phí và thuế theo quy định.",
+    "line_start": 185,
+    "line_end": 185
+  },
+  {
+    "clause_id": "dieu-12-khoan-2",
+    "anchor": "dieu-12-khoan-2",
+    "title": "2. Đối với gói thầu xây lắp, giá gói thầu được xác định trên cơ sở dự toán xây dựng công trình được phê duyệt theo quy định của pháp luật về quản lý chi phí đầu tư xây dựng.",
+    "line_start": 188,
+    "line_end": 188
+  },
+  {
+    "clause_id": "dieu-13",
+    "anchor": "dieu-13",
+    "title": "Điều 13. Thẩm định kế hoạch lựa chọn nhà thầu",
+    "line_start": 192,
+    "line_end": 192
+  },
+  {
+    "clause_id": "dieu-13-khoan-1",
+    "anchor": "dieu-13-khoan-1",
+    "title": "1. Cơ quan, tổ chức thẩm định kế hoạch lựa chọn nhà thầu có trách nhiệm kiểm tra căn cứ pháp lý, tính đồng bộ của các gói thầu, hình thức và phương thức lựa chọn nhà thầu, giá gói thầu và thời gian thực hiện.",
+    "line_start": 195,
+    "line_end": 195
+  },
+  {
+    "clause_id": "dieu-13-khoan-2",
+    "anchor": "dieu-13-khoan-2",
+    "title": "2. Báo cáo thẩm định kế hoạch lựa chọn nhà thầu phải được lập bằng văn bản trước khi trình người có thẩm quyền phê duyệt.",
+    "line_start": 198,
+    "line_end": 198
+  },
+  {
+    "clause_id": "dieu-14",
+    "anchor": "dieu-14",
+    "title": "Điều 14. Phê duyệt kế hoạch lựa chọn nhà thầu",
+    "line_start": 202,
+    "line_end": 202
+  },
+  {
+    "clause_id": "dieu-15",
+    "anchor": "dieu-15",
+    "title": "Điều 15. Quy trình đấu thầu rộng rãi gói thầu dịch vụ tư vấn",
+    "line_start": 214,
+    "line_end": 214
+  },
+  {
+    "clause_id": "dieu-15-khoan-1",
+    "anchor": "dieu-15-khoan-1",
+    "title": "1. Chuẩn bị lựa chọn nhà thầu: Lập hồ sơ mời thầu, thẩm định và phê duyệt HSMT.",
+    "line_start": 217,
+    "line_end": 217
+  },
+  {
+    "clause_id": "dieu-15-khoan-2",
+    "anchor": "dieu-15-khoan-2",
+    "title": "2. Tổ chức lựa chọn nhà thầu: Phát hành HSMT, tiếp nhận HSDT, mở hồ sơ đề xuất kỹ thuật.",
+    "line_start": 220,
+    "line_end": 220
+  },
+  {
+    "clause_id": "dieu-15-khoan-3",
+    "anchor": "dieu-15-khoan-3",
+    "title": "3. Đánh giá hồ sơ đề xuất kỹ thuật: Đánh giá kinh nghiệm, giải pháp kỹ thuật, nhân sự chủ chốt.",
+    "line_start": 223,
+    "line_end": 223
+  },
+  {
+    "clause_id": "dieu-15-khoan-4",
+    "anchor": "dieu-15-khoan-4",
+    "title": "4. Mở và đánh giá hồ sơ đề xuất tài chính của các nhà thầu đạt điểm kỹ thuật tối thiểu.",
+    "line_start": 226,
+    "line_end": 226
+  },
+  {
+    "clause_id": "dieu-15-khoan-5",
+    "anchor": "dieu-15-khoan-5",
+    "title": "5. Thương thảo hợp đồng, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu.",
+    "line_start": 229,
+    "line_end": 229
+  },
+  {
+    "clause_id": "dieu-16",
+    "anchor": "dieu-16",
+    "title": "Điều 16. Tiêu chuẩn đánh giá hồ sơ dự thầu gói thầu tư vấn",
+    "line_start": 233,
+    "line_end": 233
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Tiêu chuẩn đánh giá gồm: Kinh nghiệm và năng lực của nhà thầu (10% - 20%), Giải pháp và phương pháp luận thực hiện (30% - 40%), Nhân sự thực hiện gói thầu (40% - 60%).",
+    "line_start": 236,
+    "line_end": 236
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Nhà thầu phải đạt điểm kỹ thuật từ 70% đến 80% tổng số điểm kỹ thuật trở lên mới được mở đề xuất tài chính.",
+    "line_start": 239,
+    "line_end": 239
+  },
+  {
+    "clause_id": "dieu-17",
+    "anchor": "dieu-17",
+    "title": "Điều 17. Phương pháp kết hợp giữa kỹ thuật và giá",
+    "line_start": 243,
+    "line_end": 243
+  },
+  {
+    "clause_id": "dieu-17-khoan-1",
+    "anchor": "dieu-17-khoan-1",
+    "title": "1. Điểm tổng hợp được tính theo công thức kết hợp giữa điểm kỹ thuật (tỷ trọng từ 70% đến 80%) và điểm giá (tỷ trọng từ 20% đến 30%).",
+    "line_start": 246,
+    "line_end": 246
+  },
+  {
+    "clause_id": "dieu-17-khoan-2",
+    "anchor": "dieu-17-khoan-2",
+    "title": "2. Nhà thầu có điểm tổng hợp cao nhất được xếp hạng thứ nhất và được mời vào thương thảo hợp đồng.",
+    "line_start": 249,
+    "line_end": 249
+  },
+  {
+    "clause_id": "dieu-18",
+    "anchor": "dieu-18",
+    "title": "Điều 18. Quy trình đấu thầu gói thầu xây lắp",
+    "line_start": 259,
+    "line_end": 259
+  },
+  {
+    "clause_id": "dieu-18-khoan-1",
+    "anchor": "dieu-18-khoan-1",
+    "title": "1. Lập, thẩm định và phê duyệt hồ sơ mời thầu xây lắp.",
+    "line_start": 262,
+    "line_end": 262
+  },
+  {
+    "clause_id": "dieu-18-khoan-2",
+    "anchor": "dieu-18-khoan-2",
+    "title": "2. Phát hành hồ sơ mời thầu và tổ chức làm rõ HSMT, khảo sát hiện trường (nếu có).",
+    "line_start": 265,
+    "line_end": 265
+  },
+  {
+    "clause_id": "dieu-18-khoan-3",
+    "anchor": "dieu-18-khoan-3",
+    "title": "3. Đóng thầu, mở thầu và đánh giá tính hợp lệ của hồ sơ dự thầu.",
+    "line_start": 268,
+    "line_end": 268
+  },
+  {
+    "clause_id": "dieu-18-khoan-4",
+    "anchor": "dieu-18-khoan-4",
+    "title": "4. Đánh giá năng lực, kinh nghiệm, năng lực tài chính và thiết bị thi công của nhà thầu.",
+    "line_start": 271,
+    "line_end": 271
+  },
+  {
+    "clause_id": "dieu-18-khoan-5",
+    "anchor": "dieu-18-khoan-5",
+    "title": "5. Đánh giá đề xuất kỹ thuật (biện pháp thi công, tiến độ, an toàn lao động, vệ sinh môi trường).",
+    "line_start": 274,
+    "line_end": 274
+  },
+  {
+    "clause_id": "dieu-18-khoan-6",
+    "anchor": "dieu-18-khoan-6",
+    "title": "6. Đánh giá đề xuất tài chính theo phương pháp giá thấp nhất hoặc phương pháp giá đánh giá.",
+    "line_start": 277,
+    "line_end": 277
+  },
+  {
+    "clause_id": "dieu-19",
+    "anchor": "dieu-19",
+    "title": "Điều 19. Phương pháp giá đánh giá trong gói thầu xây lắp",
+    "line_start": 281,
+    "line_end": 281
+  },
+  {
+    "clause_id": "dieu-19-khoan-1",
+    "anchor": "dieu-19-khoan-1",
+    "title": "1. Giá đánh giá bao gồm giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch trừ đi giá trị giảm giá (nếu có) và cộng các chi phí chuyển đổi trên cùng một mặt bằng (chi phí vận hành, bảo dưỡng, tiến độ thi công).",
+    "line_start": 284,
+    "line_end": 284
+  },
+  {
+    "clause_id": "dieu-19-khoan-2",
+    "anchor": "dieu-19-khoan-2",
+    "title": "2. Nhà thầu có giá đánh giá thấp nhất sau khi quy đổi được xếp hạng thứ nhất.",
+    "line_start": 287,
+    "line_end": 287
+  },
+  {
+    "clause_id": "dieu-20",
+    "anchor": "dieu-20",
+    "title": "Điều 20. Quy trình lựa chọn nhà thầu gói thầu mua sắm hàng hóa",
+    "line_start": 291,
+    "line_end": 291
+  },
+  {
+    "clause_id": "dieu-20-khoan-1",
+    "anchor": "dieu-20-khoan-1",
+    "title": "1. Đánh giá tiêu chuẩn kỹ thuật về tính năng, công suất, xuất xứ, tiêu chuẩn chất lượng của hàng hóa.",
+    "line_start": 294,
+    "line_end": 294
+  },
+  {
+    "clause_id": "dieu-20-khoan-2",
+    "anchor": "dieu-20-khoan-2",
+    "title": "2. Đánh giá về dịch vụ sau bán hàng, thời gian bảo hành và khả năng cung cấp phụ tùng thay thế.",
+    "line_start": 297,
+    "line_end": 297
+  },
+  {
+    "clause_id": "dieu-21",
+    "anchor": "dieu-21",
+    "title": "Điều 21. Quy trình chỉ định thầu thông thường",
+    "line_start": 307,
+    "line_end": 307
+  },
+  {
+    "clause_id": "dieu-21-khoan-1",
+    "anchor": "dieu-21-khoan-1",
+    "title": "1. Lập, thẩm định và phê duyệt hồ sơ yêu cầu.",
+    "line_start": 310,
+    "line_end": 310
+  },
+  {
+    "clause_id": "dieu-21-khoan-2",
+    "anchor": "dieu-21-khoan-2",
+    "title": "2. Phát hành hồ sơ yêu cầu cho nhà thầu được xác định trong kế hoạch lựa chọn nhà thầu.",
+    "line_start": 313,
+    "line_end": 313
+  },
+  {
+    "clause_id": "dieu-21-khoan-3",
+    "anchor": "dieu-21-khoan-3",
+    "title": "3. Đánh giá hồ sơ đề xuất và thương thảo về các đề xuất của nhà thầu.",
+    "line_start": 316,
+    "line_end": 316
+  },
+  {
+    "clause_id": "dieu-21-khoan-4",
+    "anchor": "dieu-21-khoan-4",
+    "title": "4. Thẩm định, phê duyệt và công khai kết quả chỉ định thầu.",
+    "line_start": 319,
+    "line_end": 319
+  },
+  {
+    "clause_id": "dieu-22",
+    "anchor": "dieu-22",
+    "title": "Điều 22. Quy trình chỉ định thầu rút gọn",
+    "line_start": 323,
+    "line_end": 323
+  },
+  {
+    "clause_id": "dieu-22-khoan-1",
+    "anchor": "dieu-22-khoan-1",
+    "title": "1. Áp dụng đối với các gói thầu cấp bách khắc phục thiên tai, dịch bệnh hoặc gói thầu trong hạn mức chỉ định thầu quy định tại khoản 2 Điều 23 của Luật Đấu thầu.",
+    "line_start": 326,
+    "line_end": 326
+  },
+  {
+    "clause_id": "dieu-22-khoan-2",
+    "anchor": "dieu-22-khoan-2",
+    "title": "2. Chủ đầu tư hoặc cơ quan trực tiếp quản lý gói thầu giao nhà thầu có đủ năng lực, kinh nghiệm thực hiện ngay gói thầu. Trong thời hạn 15 ngày kể từ ngày giao thầu, các bên phải hoàn thiện thủ tục chỉ định thầu và ký kết hợp đồng.",
+    "line_start": 329,
+    "line_end": 329
+  },
+  {
+    "clause_id": "dieu-23",
+    "anchor": "dieu-23",
+    "title": "Điều 23. Quy trình chào hàng cạnh tranh",
+    "line_start": 333,
+    "line_end": 333
+  },
+  {
+    "clause_id": "dieu-23-khoan-1",
+    "anchor": "dieu-23-khoan-1",
+    "title": "1. Chào hàng cạnh tranh theo quy trình thông thường: Phát hành hồ sơ mời thầu trên Hệ thống mạng đấu thầu quốc gia, đánh giá HSDT và phê duyệt kết quả.",
+    "line_start": 336,
+    "line_end": 336
+  },
+  {
+    "clause_id": "dieu-23-khoan-2",
+    "anchor": "dieu-23-khoan-2",
+    "title": "2. Chào hàng cạnh tranh rút gọn: Áp dụng đối với gói thầu mua sắm hàng hóa thông dụng dưới 500 triệu đồng.",
+    "line_start": 339,
+    "line_end": 339
+  },
+  {
+    "clause_id": "dieu-24",
+    "anchor": "dieu-24",
+    "title": "Điều 24. Mua sắm trực tiếp",
+    "line_start": 343,
+    "line_end": 343
+  },
+  {
+    "clause_id": "dieu-25",
+    "anchor": "dieu-25",
+    "title": "Điều 25. Tự thực hiện",
+    "line_start": 349,
+    "line_end": 349
+  },
+  {
+    "clause_id": "dieu-26",
+    "anchor": "dieu-26",
+    "title": "Điều 26. Quy định chung về đấu thầu qua mạng",
+    "line_start": 361,
+    "line_end": 361
+  },
+  {
+    "clause_id": "dieu-26-khoan-1",
+    "anchor": "dieu-26-khoan-1",
+    "title": "1. Việc lựa chọn nhà thầu qua mạng phải thực hiện trên Hệ thống mạng đấu thầu quốc gia theo địa chỉ https://muasamcong.mpi.gov.vn.",
+    "line_start": 364,
+    "line_end": 364
+  },
+  {
+    "clause_id": "dieu-26-khoan-2",
+    "anchor": "dieu-26-khoan-2",
+    "title": "2. Bên mời thầu tạo lập E-HSMT và phát hành trên Hệ thống. Nhà thầu nộp E-HSDT có chữ ký số hợp lệ trước thời điểm đóng thầu.",
+    "line_start": 367,
+    "line_end": 367
+  },
+  {
+    "clause_id": "dieu-27",
+    "anchor": "dieu-27",
+    "title": "Điều 27. Mở thầu tự động và đánh giá E-HSDT",
+    "line_start": 371,
+    "line_end": 371
+  },
+  {
+    "clause_id": "dieu-27-khoan-1",
+    "anchor": "dieu-27-khoan-1",
+    "title": "1. Hệ thống mạng đấu thầu quốc gia tự động mở thầu và công khai biên bản mở thầu trong thời hạn không quá 02 giờ kể từ thời điểm đóng thầu.",
+    "line_start": 374,
+    "line_end": 374
+  },
+  {
+    "clause_id": "dieu-27-khoan-2",
+    "anchor": "dieu-27-khoan-2",
+    "title": "2. Tổ chuyên gia tiến hành đánh giá E-HSDT trực tiếp trên Hệ thống theo tiêu chuẩn đánh giá quy định trong E-HSMT.",
+    "line_start": 377,
+    "line_end": 377
+  },
+  {
+    "clause_id": "dieu-28",
+    "anchor": "dieu-28",
+    "title": "Điều 28. Quản lý thực hiện hợp đồng",
+    "line_start": 387,
+    "line_end": 387
+  },
+  {
+    "clause_id": "dieu-28-khoan-1",
+    "anchor": "dieu-28-khoan-1",
+    "title": "1. Chủ đầu tư có trách nhiệm theo dõi, giám sát chất lượng, tiến độ thi công, khối lượng hoàn thành và kiểm tra việc thực hiện nghĩa vụ bảo hành công trình của nhà thầu.",
+    "line_start": 390,
+    "line_end": 390
+  },
+  {
+    "clause_id": "dieu-28-khoan-2",
+    "anchor": "dieu-28-khoan-2",
+    "title": "2. Tạm ứng, thanh toán và quyết toán hợp đồng xây dựng phải tuân thủ đúng tiến độ và khối lượng nghiệm thu quy định trong hợp đồng.",
+    "line_start": 393,
+    "line_end": 393
+  },
+  {
+    "clause_id": "dieu-29",
+    "anchor": "dieu-29",
+    "title": "Điều 29. Điều chỉnh hợp đồng trong hoạt động đấu thầu",
+    "line_start": 397,
+    "line_end": 397
+  },
+  {
+    "clause_id": "dieu-29-khoan-1",
+    "anchor": "dieu-29-khoan-1",
+    "title": "1. Việc điều chỉnh giá hợp đồng, khối lượng công việc, tiến độ thực hiện chỉ được áp dụng trong các trường hợp thỏa thuận trong hợp đồng và không làm vượt tổng mức đầu tư dự án đã duyệt.",
+    "line_start": 400,
+    "line_end": 400
+  },
+  {
+    "clause_id": "dieu-29-khoan-2",
+    "anchor": "dieu-29-khoan-2",
+    "title": "2. Mọi nội dung điều chỉnh hợp đồng phải được lập thành phụ lục hợp đồng ký kết giữa các bên.",
+    "line_start": 403,
+    "line_end": 403
+  },
+  {
+    "clause_id": "dieu-30",
+    "anchor": "dieu-30",
+    "title": "Điều 30. Quyết toán và thanh lý hợp đồng",
+    "line_start": 407,
+    "line_end": 407
+  },
+  {
+    "clause_id": "dieu-31",
+    "anchor": "dieu-31",
+    "title": "Điều 31. Giải quyết kiến nghị trong đấu thầu",
+    "line_start": 419,
+    "line_end": 419
+  },
+  {
+    "clause_id": "dieu-31-khoan-1",
+    "anchor": "dieu-31-khoan-1",
+    "title": "1. Nhà thầu có quyền gửi đơn kiến nghị đến Chủ đầu tư, Bên mời thầu hoặc Người có thẩm quyền trong thời hạn 10 ngày kể từ ngày có thông báo kết quả lựa chọn nhà thầu.",
+    "line_start": 422,
+    "line_end": 422
+  },
+  {
+    "clause_id": "dieu-31-khoan-2",
+    "anchor": "dieu-31-khoan-2",
+    "title": "2. Người có thẩm quyền thành lập Hội đồng tư vấn giải quyết kiến nghị để xem xét và ban hành quyết định giải quyết kiến nghị.",
+    "line_start": 425,
+    "line_end": 425
+  },
+  {
+    "clause_id": "dieu-32",
+    "anchor": "dieu-32",
+    "title": "Điều 32. Xử lý vi phạm và cấm tham gia hoạt động đấu thầu",
+    "line_start": 429,
+    "line_end": 429
+  },
+  {
+    "clause_id": "dieu-32-khoan-1",
+    "anchor": "dieu-32-khoan-1",
+    "title": "1. Căn cứ tính chất, mức độ vi phạm, người có thẩm quyền ban hành quyết định cấm tham gia hoạt động đấu thầu từ 01 năm đến 05 năm đối với tổ chức, cá nhân có hành vi gian lận, thông thầu, chuyển nhượng thầu trái phép.",
+    "line_start": 432,
+    "line_end": 432
+  },
+  {
+    "clause_id": "dieu-32-khoan-2",
+    "anchor": "dieu-32-khoan-2",
+    "title": "2. Quyết định cấm tham gia hoạt động đấu thầu phải được gửi đến Bộ Kế hoạch và Đầu tư để công khai trên Hệ thống mạng đấu thầu quốc gia.",
+    "line_start": 435,
+    "line_end": 435
+  },
+  {
+    "clause_id": "dieu-33",
+    "anchor": "dieu-33",
+    "title": "Điều 33. Hiệu lực thi hành",
+    "line_start": 445,
+    "line_end": 445
+  },
+  {
+    "clause_id": "dieu-33-khoan-1",
+    "anchor": "dieu-33-khoan-1",
+    "title": "1. Nghị định này có hiệu lực thi hành kể từ ngày 27 tháng 02 năm 2024.",
+    "line_start": 448,
+    "line_end": 448
+  },
+  {
+    "clause_id": "dieu-33-khoan-2",
+    "anchor": "dieu-33-khoan-2",
+    "title": "2. Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.",
+    "line_start": 451,
+    "line_end": 451
+  },
+  {
+    "clause_id": "dieu-34",
+    "anchor": "dieu-34",
+    "title": "Điều 34. Quy định chuyển tiếp",
+    "line_start": 455,
+    "line_end": 455
+  },
+  {
+    "clause_id": "dieu-35",
+    "anchor": "dieu-35",
+    "title": "Điều 35. Trách nhiệm thi hành",
+    "line_start": 461,
+    "line_end": 461
+  }
+]

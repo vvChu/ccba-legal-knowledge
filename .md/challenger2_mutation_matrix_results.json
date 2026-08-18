@@ -1,0 +1,333 @@
+{
+  "timestamp": "2026-08-17T13:21:14Z",
+  "total_mutations": 25,
+  "mutations_killed": 25,
+  "kill_rate_pct": 100.0,
+  "results": [
+    {
+      "mutation_id": "MUT_01",
+      "category": "Text & Content Parity",
+      "description": "Delete body paragraph from Chapter 1 in base MD",
+      "target": "test_f16_01_zero_data_loss_invariant",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f16_01_zero_data_loss_invariant",
+        "1 failed in 2.55s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_02",
+      "category": "Heading Hierarchy",
+      "description": "Introduce dot-split bug (1.4.1.7) into Section 1.4",
+      "target": "test_f2_01_no_dot_split_anomalies",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f2_01_no_dot_split_anomalies",
+        "1 failed in 0.97s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_03",
+      "category": "Heading Hierarchy",
+      "description": "Introduce space-separated heading (### 4 1) in Chapter 4",
+      "target": "test_f2_02_no_space_separated_chapter4_headings",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f2_02_no_space_separated_chapter4_headings",
+        "1 failed in 1.00s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_04",
+      "category": "Definitions & Sections",
+      "description": "Alter Section 1.4.1 definition number in base MD",
+      "target": "scripts/verify_knowledge_integrity.py",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=================================================================",
+        "",
+        "\u274c FAILED: Integrity discrepancies detected."
+      ]
+    },
+    {
+      "mutation_id": "MUT_05",
+      "category": "Syntax & Formatting",
+      "description": "Introduce unbalanced double quotation mark in base MD",
+      "target": "test_b3_13_quotation_marks_consistency",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier2_boundaries.py::test_b3_13_quotation_marks_consistency",
+        "1 failed in 0.44s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_06",
+      "category": "Tables & Schema",
+      "description": "Delete canonical table JSON bang_e_4a",
+      "target": "test_f6_01_bang_e_4a_json_csv_exists",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f6_01_bang_e_4a_json_csv_exists",
+        "1 failed in 0.45s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_07",
+      "category": "Tables & RAG Query",
+      "description": "Corrupt REI 150 parameter to REI 999 in Table 1 JSON",
+      "target": "test_scenario_s1_fire_compartment_rag_query",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier4_real_world.py::test_scenario_s1_fire_compartment_rag_query",
+        "1 failed in 0.58s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_08",
+      "category": "Tables & Schema",
+      "description": "Inject delimiter separator row into Table 1 JSON rows",
+      "target": "test_f5_02_json_no_separator_row_in_rows",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f5_02_json_no_separator_row_in_rows",
+        "1 failed in 0.40s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_09",
+      "category": "Tables & Schema",
+      "description": "Add extraneous row to Table 1 CSV causing JSON mismatch",
+      "target": "test_f5_05_csv_row_count_matches_json",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f5_05_csv_row_count_matches_json",
+        "1 failed in 0.39s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_10",
+      "category": "Tables & Schema",
+      "description": "Create forbidden duplicate file bang_61.json",
+      "target": "test_f5_07_no_duplicate_bang_61_to_64_files",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f5_07_no_duplicate_bang_61_to_64_files",
+        "1 failed in 0.51s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_11",
+      "category": "Footnotes",
+      "description": "Wipe footnotes arrays from all JSON table assets",
+      "target": "test_pair_05_table_footnotes_to_md_render_sync",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier3_cross_features.py::test_pair_05_table_footnotes_to_md_render_sync",
+        "1 failed in 0.79s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_12",
+      "category": "Tables & Schema",
+      "description": "Delete embedded GFM table from base MD",
+      "target": "test_f7_05_all_64_tables_embedded_in_md",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f7_05_all_64_tables_embedded_in_md",
+        "1 failed in 0.47s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_13",
+      "category": "Amendment S\u01101:2023",
+      "description": "Remove first directive 1.1.2 from S\u01101 MD",
+      "target": "test_b4_01_sd1_first_directive_boundary",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier2_boundaries.py::test_b4_01_sd1_first_directive_boundary",
+        "1 failed in 0.33s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_14",
+      "category": "Amendment S\u01101:2023",
+      "description": "Corrupt YAML frontmatter in S\u01101 MD",
+      "target": "test_f9_06_sd1_frontmatter_valid",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f9_06_sd1_frontmatter_valid",
+        "1 failed in 0.38s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_15",
+      "category": "Amendment S\u01101:2023",
+      "description": "Inject underscore artifact (____) into S\u01101 MD",
+      "target": "test_f9_03_sd1_no_underscore_artifacts",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f9_03_sd1_no_underscore_artifacts",
+        "1 failed in 0.35s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_16",
+      "category": "Amendment S\u01101:2023",
+      "description": "Corrupt hyperlink target to non-existent anchor in base QCVN",
+      "target": "test_f11_03_sd1_hyperlink_targets_exist_in_base",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f11_03_sd1_hyperlink_targets_exist_in_base",
+        "1 failed in 0.44s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_17",
+      "category": "Amendment S\u01101:2023",
+      "description": "Corrupt Table 10 column count in S\u01101 MD",
+      "target": "test_f10_02_sd1_table_10_grid_dimensions",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f10_02_sd1_table_10_grid_dimensions",
+        "1 failed in 0.36s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_18",
+      "category": "AST Clause Tree",
+      "description": "Delete last clause from clauses.json",
+      "target": "test_pair_12_ast_clauses_to_qa_benchmark_bijection",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier3_cross_features.py::test_pair_12_ast_clauses_to_qa_benchmark_bijection",
+        "1 failed in 0.28s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_19",
+      "category": "AST Clause Tree",
+      "description": "Invert line start/end range (100 > 50) in clauses.json",
+      "target": "test_b5_04_ast_no_inverted_ranges",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier2_boundaries.py::test_b5_04_ast_no_inverted_ranges - As...",
+        "1 failed in 0.32s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_20",
+      "category": "QA Benchmark",
+      "description": "Corrupt QA benchmark anchor to point to non-existent target",
+      "target": "test_f13_04_qa_anchors_exist_in_markdown",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f13_04_qa_anchors_exist_in_markdown",
+        "1 failed in 0.43s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_21",
+      "category": "QA Benchmark",
+      "description": "Empty answer string in QA benchmark pair",
+      "target": "test_f13_06_qa_questions_and_answers_non_empty",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f13_06_qa_questions_and_answers_non_empty",
+        "1 failed in 0.41s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_22",
+      "category": "Legal Spoke & Registry",
+      "description": "Corrupt required schema fields in legal_registry.yaml",
+      "target": "scripts/validate_legal_spoke.py",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "  in \"D:\\GitHubProjects\\ccba-legal-knowledge\\legal_registry.yaml\", line 3, column 1",
+        "",
+        "\u274c FAILED: Critical errors detected in legal spoke validation."
+      ]
+    },
+    {
+      "mutation_id": "MUT_23",
+      "category": "Heading & Appendix Structure",
+      "description": "Rename/Delete Appendix A main heading in base MD",
+      "target": "test_f2_06_appendix_main_titles_present",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier1_feature_coverage.py::test_f2_06_appendix_main_titles_present",
+        "1 failed in 0.42s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_24",
+      "category": "Real-World Scenarios",
+      "description": "Corrupt cross-link base file target in SD1",
+      "target": "test_scenario_s5_bidirectional_cross_reference_navigation",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier4_real_world.py::test_scenario_s5_bidirectional_cross_reference_navigation",
+        "1 failed in 0.48s"
+      ]
+    },
+    {
+      "mutation_id": "MUT_25",
+      "category": "Real-World Scenarios",
+      "description": "Corrupt anchor in S\u01101 Table 10",
+      "target": "test_scenario_s4_amendment_water_flow_override",
+      "killed": true,
+      "status": "KILLED (PASS)",
+      "output_snippet": [
+        "=========================== short test summary info ===========================",
+        "FAILED tests/test_tier4_real_world.py::test_scenario_s4_amendment_water_flow_override",
+        "1 failed in 1.73s"
+      ]
+    }
+  ]
+}

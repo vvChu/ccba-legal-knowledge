@@ -1,9 +1,4 @@
-﻿Nhóm nguy hiểm cháy theo công năng của nhà,"Sức chứa của gian phòng, người",Cấp nguy hiểm cháy của vật liệu,Cấp nguy hiểm cháy của vật liệu
-Nhóm nguy hiểm cháy theo công năng của nhà,"Sức chứa của gian phòng, người",sử dụng cho tường và trần (bao gồm cả tấm trần treo nếu có),phủ sàn
-F1.2; F2.3; F2.4; F31; F3.2; F3.6; F4.2; F4.3; F4.4; F5.1,> 800,CV0,CV2
-F1.2; F2.3; F2.4; F31; F3.2; F3.6; F4.2; F4.3; F4.4; F5.1,> 300 và ≤ 800,CV1,CV2
-F1.2; F2.3; F2.4; F31; F3.2; F3.6; F4.2; F4.3; F4.4; F5.1,> 50 và ≤ 300,CV2,CV3
-F1.2; F2.3; F2.4; F31; F3.2; F3.6; F4.2; F4.3; F4.4; F5.1,≤ 50,CV3,CV4
-"F1.1; F2.1; F2.2; F3.3, F3.4; F3.5; F4.1",> 300,CV0,CV2
-"F1.1; F2.1; F2.2; F3.3, F3.4; F3.5; F4.1",> 15 và ≤ 300,CV1,CV2
-"F1.1; F2.1; F2.2; F3.3, F3.4; F3.5; F4.1",≤ 15,CV3,CV4
+"Nhóm nguy hiểm cháy theo công năng của nhà | Sức chứa của gian phòng, người | Cấp nguy hiểm cháy của vật liệu | Cấp nguy hiểm cháy của vật liệu || --- | --- | --- | --- || Nhóm nguy hiểm cháy theo công năng của nhà | Sức chứa của gian phòng, người | sử dụng cho tường và trần (bao gồm cả tấm trần treo nếu có) | phủ sàn || F1.2; <br>F2.3; F2.4; <br>F31; F3.2; F3.6; <br>F4.2; F4.3; F4.4; <br>F5.1 | > 800 | CV0 | CV2 || F1.2; <br>F2.3; F2.4; <br>F31; F3.2; F3.6; <br>F4.2; F4.3; F4.4; <br>F5.1 | > 300 và ≤ 800 | CV1 | CV2 || F1.2; <br>F2.3; F2.4; <br>F31; F3.2; F3.6; <br>F4.2; F4.3; F4.4; <br>F5.1 | > 50 và ≤ 300 | CV2 | CV3 || F1.2; <br>F2.3; F2.4; <br>F31; F3.2; F3.6; <br>F4.2; F4.3; F4.4; <br>F5.1 | ≤ 50 | CV3 | CV4 || F1.1; <br>F2.1; F2.2; <br>F3.3, F3.4; F3.5; <br>F4.1 | > 300 | CV0 | CV2 || F1.1; <br>F2.1; F2.2; <br>F3.3, F3.4; F3.5; <br>F4.1 | > 15 và ≤ 300 | CV1 | CV2 || F1.1; <br>F2.1; F2.2; <br>F3.3, F3.4; F3.5; <br>F4.1 | ≤ 15 | CV3 | CV4"
+"<a id=""phu-luc-c"" name=""phu-luc-c""></a>PHỤ LỤC C"
+(quy định)
+"HẠNG NGUY HIỂM CHÁY VÀ CHÁY NỔ CỦA NHÀ, CÔNG TRÌNH VÀ CÁC GIAN PHÒNG CÓ CÔNG NĂNG SẢN XUẤT VÀ KHO"

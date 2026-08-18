@@ -1,0 +1,437 @@
+{
+  "inventory": [
+    {
+      "id": "CH1",
+      "name": "Chương 1: Quy định chung",
+      "docx_start_p": 5,
+      "docx_text": "1  QUY ĐỊNH CHUNG",
+      "md_start_line": 51,
+      "md_text": "### 1 QUY ĐỊNH CHUNG"
+    },
+    {
+      "id": "CH2",
+      "name": "Chương 2: Phân loại kỹ thuật về cháy",
+      "docx_start_p": 6,
+      "docx_text": "2  PHÂN LOẠI KỸ THUẬT VỀ CHÁY",
+      "md_start_line": 792,
+      "md_text": "### 2 PHÂN LOẠI KỸ THUẬT VỀ CHÁY"
+    },
+    {
+      "id": "CH3",
+      "name": "Chương 3: Bảo đảm an toàn cho người",
+      "docx_start_p": 7,
+      "docx_text": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+      "md_start_line": 1390,
+      "md_text": "### 3 BẢO ĐẢM AN TOÀN CHO NGƯỜI"
+    },
+    {
+      "id": "CH4",
+      "name": "Chương 4: Ngăn chặn cháy lan",
+      "docx_start_p": 8,
+      "docx_text": "4  NGĂN CHẶN CHÁY LAN",
+      "md_start_line": 2078,
+      "md_text": "### 4 NGĂN CHẶN CHÁY LAN"
+    },
+    {
+      "id": "CH5",
+      "name": "Chương 5: Cấp nước chữa cháy",
+      "docx_start_p": 9,
+      "docx_text": "5  CẤP NƯỚC CHỮA CHÁY",
+      "md_start_line": 2366,
+      "md_text": "### 5 CẤP NƯỚC CHỮA CHÁY"
+    },
+    {
+      "id": "CH6",
+      "name": "Chương 6: Chữa cháy và cứu nạn",
+      "docx_start_p": 10,
+      "docx_text": "6  CHỮA CHÁY VÀ CỨU NẠN",
+      "md_start_line": 3073,
+      "md_text": "### 6 CHỮA CHÁY VÀ CỨU NẠN"
+    },
+    {
+      "id": "CH7",
+      "name": "Chương 7: Quy định về quản lý",
+      "docx_start_p": null,
+      "docx_text": null,
+      "md_start_line": null,
+      "md_text": null
+    },
+    {
+      "id": "PLA",
+      "name": "Phụ lục A",
+      "docx_start_p": 12,
+      "docx_text": "PHỤ LỤC A (quy định) QUY ĐỊNH BỔ SUNG ĐỐI VỚI MỘT SỐ NHÓM NHÀ CỤ THỂ",
+      "md_start_line": null,
+      "md_text": null
+    },
+    {
+      "id": "PLB",
+      "name": "Phụ lục B",
+      "docx_start_p": 13,
+      "docx_text": "PHỤ LỤC B (quy định) PHÂN LOẠI VẬT LIỆU XÂY DỰNG THEO ĐẶC TÍNH KỸ THUẬT VỀ CHÁY VÀ YÊU CẦU VỀ AN TOÀN CHÁY ĐỐI VỚI VẬT LIỆU",
+      "md_start_line": null,
+      "md_text": null
+    },
+    {
+      "id": "PLC",
+      "name": "Phụ lục C",
+      "docx_start_p": 14,
+      "docx_text": "PHỤ LỤC C (quy định) HẠNG NGUY HIỂM CHÁY VÀ CHÁY NỔ CỦA NHÀ, CÔNG TRÌNH VÀ CÁC GIAN PHÒNG CÓ CÔNG NĂNG SẢN XUẤT VÀ KHO",
+      "md_start_line": null,
+      "md_text": null
+    },
+    {
+      "id": "PLD",
+      "name": "Phụ lục D",
+      "docx_start_p": 15,
+      "docx_text": "PHỤ LỤC D (quy định) BẢO VỆ CHỐNG KHÓI",
+      "md_start_line": null,
+      "md_text": null
+    },
+    {
+      "id": "PLE",
+      "name": "Phụ lục E",
+      "docx_start_p": 16,
+      "docx_text": "PHỤ LỤC E (quy định) KHOẢNG CÁCH PHÒNG CHÁY CHỐNG CHÁY",
+      "md_start_line": null,
+      "md_text": null
+    },
+    {
+      "id": "PLF",
+      "name": "Phụ lục F",
+      "docx_start_p": 17,
+      "docx_text": "PHỤ LỤC F (quy định) GIỚI HẠN CHỊU LỬA DANH ĐỊNH CỦA MỘT SỐ CẤU KIỆN",
+      "md_start_line": null,
+      "md_text": null
+    },
+    {
+      "id": "PLG",
+      "name": "Phụ lục G",
+      "docx_start_p": 18,
+      "docx_text": "PHỤ LỤC G (quy định) KHOẢNG CÁCH ĐẾN CÁC LỐI RA THOÁT NẠN VÀ CHIỀU RỘNG LỐI RA THOÁT NẠN",
+      "md_start_line": null,
+      "md_text": null
+    },
+    {
+      "id": "PLH",
+      "name": "Phụ lục H",
+      "docx_start_p": 19,
+      "docx_text": "PHỤ LỤC H (quy định) BẬC CHỊU LỬA VÀ CÁC YÊU CẦU BẢO ĐẢM AN TOÀN CHÁY CHO NHÀ, CÔNG TRÌNH, KHOANG CHÁY",
+      "md_start_line": null,
+      "md_text": null
+    },
+    {
+      "id": "PLI",
+      "name": "Phụ lục I",
+      "docx_start_p": 20,
+      "docx_text": "PHỤ LỤC I (tham khảo) CÁC HÌNH MINH HỌA",
+      "md_start_line": null,
+      "md_text": null
+    }
+  ],
+  "corruption_patterns_sample": [
+    {
+      "line": 330,
+      "found": "1.4.1.7",
+      "expected": "1.4.17",
+      "raw": "### 1.4.1.7"
+    },
+    {
+      "line": 337,
+      "found": "1.4.1.8",
+      "expected": "1.4.18",
+      "raw": "### 1.4.1.8"
+    },
+    {
+      "line": 344,
+      "found": "1.4.1.9",
+      "expected": "1.4.19",
+      "raw": "### 1.4.1.9"
+    },
+    {
+      "line": 351,
+      "found": "1.4.2.0",
+      "expected": "1.4.20",
+      "raw": "### 1.4.2.0"
+    },
+    {
+      "line": 358,
+      "found": "1.4.2.1",
+      "expected": "1.4.21",
+      "raw": "### 1.4.2.1"
+    },
+    {
+      "line": 365,
+      "found": "1.4.2.2",
+      "expected": "1.4.22",
+      "raw": "### 1.4.2.2"
+    },
+    {
+      "line": 372,
+      "found": "1.4.2.3",
+      "expected": "1.4.23",
+      "raw": "### 1.4.2.3"
+    },
+    {
+      "line": 379,
+      "found": "1.4.2.4",
+      "expected": "1.4.24",
+      "raw": "### 1.4.2.4"
+    },
+    {
+      "line": 386,
+      "found": "1.4.2.5",
+      "expected": "1.4.25",
+      "raw": "### 1.4.2.5"
+    },
+    {
+      "line": 393,
+      "found": "1.4.2.6",
+      "expected": "1.4.26",
+      "raw": "### 1.4.2.6"
+    },
+    {
+      "line": 400,
+      "found": "1.4.2.7",
+      "expected": "1.4.27",
+      "raw": "### 1.4.2.7"
+    },
+    {
+      "line": 407,
+      "found": "1.4.2.8",
+      "expected": "1.4.28",
+      "raw": "### 1.4.2.8"
+    },
+    {
+      "line": 414,
+      "found": "1.4.2.9",
+      "expected": "1.4.29",
+      "raw": "### 1.4.2.9"
+    },
+    {
+      "line": 421,
+      "found": "1.4.3.0",
+      "expected": "1.4.30",
+      "raw": "### 1.4.3.0"
+    },
+    {
+      "line": 428,
+      "found": "1.4.3.1",
+      "expected": "1.4.31",
+      "raw": "### 1.4.3.1"
+    },
+    {
+      "line": 441,
+      "found": "1.4.3.3",
+      "expected": "1.4.33",
+      "raw": "### 1.4.3.3"
+    },
+    {
+      "line": 448,
+      "found": "1.4.3.4",
+      "expected": "1.4.34",
+      "raw": "### 1.4.3.4"
+    },
+    {
+      "line": 455,
+      "found": "1.4.3.5",
+      "expected": "1.4.35",
+      "raw": "### 1.4.3.5"
+    },
+    {
+      "line": 462,
+      "found": "1.4.3.6",
+      "expected": "1.4.36",
+      "raw": "### 1.4.3.6"
+    },
+    {
+      "line": 471,
+      "found": "1.4.3.7",
+      "expected": "1.4.37",
+      "raw": "### 1.4.3.7"
+    },
+    {
+      "line": 478,
+      "found": "1.4.3.8",
+      "expected": "1.4.38",
+      "raw": "### 1.4.3.8"
+    },
+    {
+      "line": 491,
+      "found": "1.4.4.0",
+      "expected": "1.4.40",
+      "raw": "### 1.4.4.0"
+    },
+    {
+      "line": 498,
+      "found": "1.4.4.1",
+      "expected": "1.4.41",
+      "raw": "### 1.4.4.1"
+    },
+    {
+      "line": 507,
+      "found": "1.4.4.2",
+      "expected": "1.4.42",
+      "raw": "### 1.4.4.2"
+    },
+    {
+      "line": 514,
+      "found": "1.4.4.3",
+      "expected": "1.4.43",
+      "raw": "### 1.4.4.3"
+    },
+    {
+      "line": 521,
+      "found": "1.4.4.4",
+      "expected": "1.4.44",
+      "raw": "### 1.4.4.4"
+    },
+    {
+      "line": 528,
+      "found": "1.4.4.5",
+      "expected": "1.4.45",
+      "raw": "### 1.4.4.5"
+    },
+    {
+      "line": 535,
+      "found": "1.4.4.6",
+      "expected": "1.4.46",
+      "raw": "### 1.4.4.6"
+    },
+    {
+      "line": 542,
+      "found": "1.4.4.7",
+      "expected": "1.4.47",
+      "raw": "### 1.4.4.7"
+    },
+    {
+      "line": 555,
+      "found": "1.4.4.8",
+      "expected": "1.4.48",
+      "raw": "### 1.4.4.8"
+    },
+    {
+      "line": 562,
+      "found": "1.4.4.9",
+      "expected": "1.4.49",
+      "raw": "### 1.4.4.9"
+    },
+    {
+      "line": 569,
+      "found": "1.4.5.0",
+      "expected": "1.4.50",
+      "raw": "### 1.4.5.0"
+    },
+    {
+      "line": 590,
+      "found": "1.4.5.3",
+      "expected": "1.4.53",
+      "raw": "### 1.4.5.3"
+    },
+    {
+      "line": 597,
+      "found": "1.4.5.4",
+      "expected": "1.4.54",
+      "raw": "### 1.4.5.4"
+    },
+    {
+      "line": 604,
+      "found": "1.4.5.5",
+      "expected": "1.4.55",
+      "raw": "### 1.4.5.5"
+    },
+    {
+      "line": 611,
+      "found": "1.4.5.6",
+      "expected": "1.4.56",
+      "raw": "### 1.4.5.6"
+    },
+    {
+      "line": 626,
+      "found": "1.4.5.8",
+      "expected": "1.4.58",
+      "raw": "### 1.4.5.8"
+    },
+    {
+      "line": 633,
+      "found": "1.4.5.9",
+      "expected": "1.4.59",
+      "raw": "### 1.4.5.9"
+    },
+    {
+      "line": 640,
+      "found": "1.4.6.0",
+      "expected": "1.4.60",
+      "raw": "### 1.4.6.0"
+    },
+    {
+      "line": 647,
+      "found": "1.4.6.1",
+      "expected": "1.4.61",
+      "raw": "### 1.4.6.1"
+    },
+    {
+      "line": 654,
+      "found": "1.4.6.2",
+      "expected": "1.4.62",
+      "raw": "### 1.4.6.2"
+    },
+    {
+      "line": 661,
+      "found": "1.4.6.3",
+      "expected": "1.4.63",
+      "raw": "### 1.4.6.3"
+    },
+    {
+      "line": 668,
+      "found": "1.4.6.4",
+      "expected": "1.4.64",
+      "raw": "### 1.4.6.4"
+    },
+    {
+      "line": 675,
+      "found": "1.4.6.5",
+      "expected": "1.4.65",
+      "raw": "### 1.4.6.5"
+    },
+    {
+      "line": 682,
+      "found": "1.4.6.6",
+      "expected": "1.4.66",
+      "raw": "### 1.4.6.6"
+    },
+    {
+      "line": 689,
+      "found": "1.4.6.7",
+      "expected": "1.4.67",
+      "raw": "### 1.4.6.7"
+    },
+    {
+      "line": 696,
+      "found": "1.4.6.8",
+      "expected": "1.4.68",
+      "raw": "### 1.4.6.8"
+    },
+    {
+      "line": 709,
+      "found": "1.4.6.9",
+      "expected": "1.4.69",
+      "raw": "### 1.4.6.9"
+    },
+    {
+      "line": 722,
+      "found": "1.4.7.1",
+      "expected": "1.4.71",
+      "raw": "### 1.4.7.1"
+    },
+    {
+      "line": 729,
+      "found": "1.4.7.2",
+      "expected": "1.4.72",
+      "raw": "### 1.4.7.2"
+    }
+  ],
+  "total_corruption_detected": 50,
+  "escape_issues_count": 0,
+  "escape_issues_sample": []
+}

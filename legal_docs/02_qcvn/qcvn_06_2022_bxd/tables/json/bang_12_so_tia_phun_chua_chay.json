@@ -2,80 +2,113 @@
   "table_id": "bang_12_so_tia_phun_chua_chay",
   "title": "Bảng 12 - Số tia phun chữa cháy và lưu lượng nước tối thiểu cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho",
   "headers": [
-    "Bậc chịu lửa của nhà",
-    "Hạng nguy hiểm cháy và cháy nổ của nhà",
-    "Cấp nguy hiểm cháy của kết cấu",
-    "Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3",
-    "Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3"
+    "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3 | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3",
+    "--- | --- | --- | --- | ---",
+    "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | ≤ 150 | > 150",
+    "I, II | A, B, C | S0, S1 | 2 x 2,5 | 3 x 2,5"
   ],
   "rows": [
     {
-      "Bậc chịu lửa của nhà": "Bậc chịu lửa của nhà",
-      "Hạng nguy hiểm cháy và cháy nổ của nhà": "Hạng nguy hiểm cháy và cháy nổ của nhà",
-      "Cấp nguy hiểm cháy của kết cấu": "Cấp nguy hiểm cháy của kết cấu",
-      "Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "> 150"
+      "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3 | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "I, II | D, E | Không quy định | 1 x 2,5 | 1 x 2,5",
+      "--- | --- | --- | --- | ---": "III | A, B, C | S0 | 2 x 2,5 | 3 x 2,5",
+      "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | ≤ 150 | > 150": "III | D, E | S0, S1 | 1 x 2,5 | 2 x 2,5",
+      "I, II | A, B, C | S0, S1 | 2 x 2,5 | 3 x 2,5": "IV | A, B | S0 | 2 x 2,5 | 3 x 2,5"
     },
     {
-      "Bậc chịu lửa của nhà": "I, II",
-      "Hạng nguy hiểm cháy và cháy nổ của nhà": "A, B, C",
-      "Cấp nguy hiểm cháy của kết cấu": "S0, S1",
-      "Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "3 x 2,5"
+      "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3 | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "IV | C | S0, S1 | 2 x 2,5 | 2 x 5",
+      "--- | --- | --- | --- | ---": "IV | C | S2, S3 | 3 x 2,5 | 4 x 2,5",
+      "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | ≤ 150 | > 150": "IV | D, E | S0, S1, S2, S3 | 1 x 2,5 | 2 x 2,5",
+      "I, II | A, B, C | S0, S1 | 2 x 2,5 | 3 x 2,5": "V | C | Không quy định | 2 x 2,5 | 2 x 5"
     },
     {
-      "Bậc chịu lửa của nhà": "I, II",
-      "Hạng nguy hiểm cháy và cháy nổ của nhà": "D, E",
-      "Cấp nguy hiểm cháy của kết cấu": "Không quy định",
-      "Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "1 x 2,5"
-    },
-    {
-      "Bậc chịu lửa của nhà": "III",
-      "Hạng nguy hiểm cháy và cháy nổ của nhà": "A, B, C",
-      "Cấp nguy hiểm cháy của kết cấu": "S0",
-      "Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "3 x 2,5"
-    },
-    {
-      "Bậc chịu lửa của nhà": "III",
-      "Hạng nguy hiểm cháy và cháy nổ của nhà": "D, E",
-      "Cấp nguy hiểm cháy của kết cấu": "S0, S1",
-      "Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "2 x 2,5"
-    },
-    {
-      "Bậc chịu lửa của nhà": "IV",
-      "Hạng nguy hiểm cháy và cháy nổ của nhà": "A, B",
-      "Cấp nguy hiểm cháy của kết cấu": "S0",
-      "Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "3 x 2,5"
-    },
-    {
-      "Bậc chịu lửa của nhà": "IV",
-      "Hạng nguy hiểm cháy và cháy nổ của nhà": "C",
-      "Cấp nguy hiểm cháy của kết cấu": "S0, S1",
-      "Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "2 x 5"
-    },
-    {
-      "Bậc chịu lửa của nhà": "IV",
-      "Hạng nguy hiểm cháy và cháy nổ của nhà": "C",
-      "Cấp nguy hiểm cháy của kết cấu": "S2, S3",
-      "Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "4 x 2,5"
-    },
-    {
-      "Bậc chịu lửa của nhà": "IV",
-      "Hạng nguy hiểm cháy và cháy nổ của nhà": "D, E",
-      "Cấp nguy hiểm cháy của kết cấu": "S0, S1, S2, S3",
-      "Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "2 x 2,5"
-    },
-    {
-      "Bậc chịu lửa của nhà": "V",
-      "Hạng nguy hiểm cháy và cháy nổ của nhà": "C",
-      "Cấp nguy hiểm cháy của kết cấu": "Không quy định",
-      "Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "2 x 5"
-    },
-    {
-      "Bậc chịu lửa của nhà": "V",
-      "Hạng nguy hiểm cháy và cháy nổ của nhà": "D, E",
-      "Cấp nguy hiểm cháy của kết cấu": "Không quy định",
-      "Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "2 x 2,5"
+      "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3 | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3": "V | D, E | Không quy định | 1 x 2,5 | 2 x 2,5",
+      "--- | --- | --- | --- | ---": "",
+      "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | ≤ 150 | > 150": "",
+      "I, II | A, B, C | S0, S1 | 2 x 2,5 | 3 x 2,5": ""
     }
   ],
-  "total_rows": 11,
-  "footnotes": []
+  "total_rows": 3,
+  "footnotes": [],
+  "structured_rows": [
+    [
+      {
+        "raw": "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3 | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3",
+        "numeric_value": null,
+        "unit": "m3",
+        "condition_refs": []
+      },
+      {
+        "raw": "--- | --- | --- | --- | ---",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | ≤ 150 | > 150",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "I, II | A, B, C | S0, S1 | 2 x 2,5 | 3 x 2,5",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3 | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3",
+        "numeric_value": null,
+        "unit": "m3",
+        "condition_refs": []
+      },
+      {
+        "raw": "--- | --- | --- | --- | ---",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | ≤ 150 | > 150",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "I, II | A, B, C | S0, S1 | 2 x 2,5 | 3 x 2,5",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3 | Số tia phun chữa cháy và lưu lượng nước tối thiểu, L/s, đối với 1 tia phun, cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho có chiều cao PCCC đến 50 m và theo khối tích, 1 000 m3",
+        "numeric_value": null,
+        "unit": "m3",
+        "condition_refs": []
+      },
+      {
+        "raw": "--- | --- | --- | --- | ---",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | Cấp nguy hiểm cháy của kết cấu | ≤ 150 | > 150",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "I, II | A, B, C | S0, S1 | 2 x 2,5 | 3 x 2,5",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      }
+    ]
+  ],
+  "structured_footnotes": [],
+  "has_normative_conditions": false
 }

@@ -1,23 +1,3 @@
-﻿"Khối tích của gian phòng, 1 000 m3",Hạng của gian phòng,Bậc chịu lửa của nhà,Cấp nguy hiểm cháy kết cấu của nhà,"Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người"
-≤ 15,"A, B","I, II, III, IV",S0,45
-≤ 15,"C1, C2, C3","I, II, III, IV",S0,110
-≤ 15,"C1, C2, C3","III, IV",S1,75
-≤ 15,"C1, C2, C3",Không quy định,"S2, S3",55
-30,"A, B","I, II, III, IV",S0,65
-30,"C1, C2, C3","I, II, III, IV",S0,155
-30,"C1, C2, C3","III, IV",S1,110
-40,"A, B","I, II, III, IV",S0,85
-40,"C1 , C2, C3","I, II, III, IV",S0,175
-40,"C1 , C2, C3","III, IV",S1,120
-50,"A, B","I, II, III, IV",S0,130
-50,"C1, C2, C3","I, II, III, IV",S0,195
-50,"C1, C2, C3","III, IV",S1,135
-≥ 60,"A, B","I, II, III, IV",S0,150
-≥ 60,"C1, C2, C3","I, II, III, IV",S0,220
-≥ 60,"C1, C2, C3","III, IV",S1,155
-≥ 80,"C1, C2, C3","I, II, III, IV",S0,260
-≥ 80,"C1, C2, C3","III, IV",S1,220
-Không phụ thuộc vào khối tích,"C4, D","I, II, III, IV",S0,260
-Không phụ thuộc vào khối tích,"C4, D","III, IV",S1,180
-Không phụ thuộc vào khối tích,"C4, D",Không quy định,"S2, S3",130
-Không phụ thuộc vào khối tích,E,Không quy định,Không quy định,Không quy định
+"Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng) | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng) | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng) | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng) | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng) | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng) || --- | --- | --- | --- | --- | --- | --- | --- | --- || Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m | 1 | 2 | 3 | 4,5 | 6 đến 9 | 10 đến 16 || I | S0 | 50 | 6 000 | 5 000 | 5 000 | 5 000 | 5 000 | 2 500 || II | S0 | 50 | 6 000 | 4 000 | 4 000 | 4 000 | 4 000 | 2 200 || II | S1 | 28 | 5 000 | 3 000 | 3 000 | 2 000 | 1 200 | - || III | S0 | 15 | 3 000 | 2 000 | 2 000 | 1 200 | - | - || III | S1 | 12 | 2 000 | 1 400 | 1 200 | 800 | - | - || IV | S0 | 9 | 2 000 | 1 400 | - | - | - | - || IV | S1 | 6 | 2 000 | 1 400 | - | - | - | - || IV | S2, S3 | 6 | 1 200 | 800 | - | - | - | - || V | S1, S2, S3 | 6 | 1 200 | 800 | - | - | - | - |_CHÚ THÍCH 1: Bảng này được áp dụng cho các loại nhà công cộng được đề cập trong H.2.1, trừ khi có quy định khác nêu tại H.2.2 đến H.2.12. CHÚ THÍCH 2: Dấu “-” trong bảng có nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng. CHÚ THÍCH 3: Trong nhà có bậc chịu lửa IV với chiều cao 2 tầng thì kết cấu chịu lực của nhà phải có giới hạn chịu lửa không thấp hơn R 45. CHÚ THÍCH 4: Quy định về số tầng (chiều cao PCCC cho phép), diện tích khoang cháy của các nhà công cộng có chiều cao PCCC từ trên 50 m đến 150 m được quy định tại Phụ lục A._"
+"<a id=""muc-h-2-2"" name=""muc-h-2-2""></a>H.2.2  Các cơ sở dịch vụ (nhóm F3.5)"
+"Bậc chịu lửa, cấp nguy hiểm cháy kết cấu, chiều cao PCCC lớn nhất cho phép của nhà và diện tích một tầng trong phạm vi một khoang cháy đối với các cơ sở dịch vụ (nhóm F3.5) được quy định tại Bảng H.3. Cần tuân thủ thèm các quy định bổ sung tại H.2.12."

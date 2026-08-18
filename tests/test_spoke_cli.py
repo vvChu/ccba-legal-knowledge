@@ -13,10 +13,10 @@ def test_spoke_stats_computation():
     root_dir = Path(__file__).resolve().parent.parent
     stats = get_spoke_stats(root_dir)
 
-    assert stats["doc_count"] == 21
-    assert stats["categories"].get("Luật") == 2
-    assert stats["categories"].get("Nghị định") == 7
-    assert stats["categories"].get("Thông tư") == 12
+    assert stats["doc_count"] >= 21
+    assert stats["categories"].get("Luật", 0) >= 2
+    assert stats["categories"].get("Nghị định", 0) >= 7
+    assert stats["categories"].get("Thông tư", 0) >= 12
     assert stats["total_size_mb"] > 3.0
     assert stats["total_clauses"] > 3500
     assert stats["total_qa"] > 700

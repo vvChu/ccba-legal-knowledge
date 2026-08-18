@@ -1,6 +1,8 @@
-﻿Bậc chịu lửa của công trình,Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn,Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn,Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn,Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn
-Bậc chịu lửa của công trình,Theo các cầu thang bộ của các lối đi chính của khán đài,Theo các cầu thang bộ của các lối đi chính của khán đài,Đi qua cửa ra từ các lối đi chính của khán đài,Đi qua cửa ra từ các lối đi chính của khán đài
-Bậc chịu lửa của công trình,Đi xuống,Đi lên,Đi xuống,Đi lên
-"I, II",600,825,620,1 230
-"III, IV",420,580,435,860
-V,300,415,310,615
+Bậc chịu lửa của công trình | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn
+--- | --- | --- | --- | ---
+Bậc chịu lửa của công trình | Theo các cầu thang bộ của các lối đi chính của khán đài | Theo các cầu thang bộ của các lối đi chính của khán đài | Đi qua cửa ra từ các lối đi chính của khán đài | Đi qua cửa ra từ các lối đi chính của khán đài
+Bậc chịu lửa của công trình | Đi xuống | Đi lên | Đi xuống | Đi lên
+"I, II | 600 | 825 | 620 | 1 230"
+"III, IV | 420 | 580 | 435 | 860"
+V | 300 | 415 | 310 | 615
+"_CHÚ THÍCH: Tổng số lượng người thoát nạn đi qua một lối ra thoát nạn không được vượt quá 1 500 người khi khán đài cố bậc chịu lửa I, II. Khi khán đài có bậc chịu lửa là bậc III thì tổng số người đi qua phải giảm xuống 30 % và khi bậc IV và bậc V thì phải giảm xuống 50 %._"

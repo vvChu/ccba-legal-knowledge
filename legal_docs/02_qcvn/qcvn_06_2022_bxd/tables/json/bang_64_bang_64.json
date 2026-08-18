@@ -34,5 +34,113 @@
     }
   ],
   "total_rows": 4,
-  "footnotes": []
+  "footnotes": [],
+  "structured_rows": [
+    [
+      {
+        "raw": "Hạng nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ]
+  ],
+  "structured_footnotes": [],
+  "has_normative_conditions": false
 }

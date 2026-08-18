@@ -7,11 +7,13 @@ Validates:
 4. Internal heading anchor link integrity (#dieu-X, #khoan-Y).
 """
 
-import sys
+import json
 import re
-import yaml
+import sys
 from pathlib import Path
-from typing import Dict, List, Tuple, Any
+from typing import List, Tuple
+
+import yaml
 
 # Enforce UTF-8 output encoding for Windows PowerShell compatibility
 if hasattr(sys.stdout, "reconfigure"):
@@ -210,10 +212,10 @@ class LegalSpokeValidator:
         self.validate_table_attachments()
         self.validate_fake_data_gate()
 
-        print(f"-> Registry Check completed.")
-        print(f"-> OKF Bundles Structure Check completed.")
-        print(f"-> Table Attachments Check completed.")
-        print(f"-> Fake Data Gate Check completed.\n")
+        print("-> Registry Check completed.")
+        print("-> OKF Bundles Structure Check completed.")
+        print("-> Table Attachments Check completed.")
+        print("-> Fake Data Gate Check completed.\n")
 
         print("-----------------------------------------------------------------")
         print("SUMMARY REPORT:")

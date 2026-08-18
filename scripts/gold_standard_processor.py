@@ -31,7 +31,7 @@ class DocProfile:
     name: str
     dieu_pattern: re.Pattern = field(default_factory=lambda: re.compile(r"^#*\s*(Điều\s+(\d+)\.?[^\n]*)", re.IGNORECASE))
     khoan_pattern: re.Pattern = field(default_factory=lambda: re.compile(r"^(\d+)\.\s+([^\n]+)"))
-    sec_pattern: re.Pattern = field(default_factory=lambda: re.compile(r"^#*\s*((\d+\.\d+(\.\d+)?)\s+([^\n]+))"))
+    sec_pattern: re.Pattern = field(default_factory=lambda: re.compile(r"^#*\s*(?:<a[^>]+></a>\s*)?(((?:[A-Z]\.)?\d+(?:\.\d+)*|[A-Z]\.\d+)\s+([^\n]+))"))
     section_prefix: str = "muc"
 
 
@@ -43,7 +43,7 @@ def get_doc_profile(doc_type: Optional[str] = "vbpl") -> DocProfile:
             name="qcvn",
             dieu_pattern=re.compile(r"^#*\s*(Điều\s+(\d+)\.?[^\n]*)", re.IGNORECASE),
             khoan_pattern=re.compile(r"^(\d+)\.\s+([^\n]+)"),
-            sec_pattern=re.compile(r"^#*\s*((\d+\.\d+(\.\d+)?)\s+([^\n]+))"),
+            sec_pattern=re.compile(r"^#*\s*(?:<a[^>]+></a>\s*)?(((?:[A-Z]\.)?\d+(?:\.\d+)*|[A-Z]\.\d+)\s+([^\n]+))"),
             section_prefix="muc",
         )
     return DocProfile(

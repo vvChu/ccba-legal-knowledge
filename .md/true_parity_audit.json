@@ -1,0 +1,154 @@
+{
+  "overall_total_docx_paras": 1969,
+  "overall_matched": 1969,
+  "overall_missing": 0,
+  "overall_parity_rate": "100.00%",
+  "section_audit": [
+    {
+      "section": "Chapter 1",
+      "docx_range": "p22-p233",
+      "total_docx_paras": 211,
+      "matched": 211,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Chapter 2",
+      "docx_range": "p234-p442",
+      "total_docx_paras": 209,
+      "matched": 209,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Chapter 3",
+      "docx_range": "p443-p715",
+      "total_docx_paras": 273,
+      "matched": 273,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Chapter 4",
+      "docx_range": "p716-p829",
+      "total_docx_paras": 114,
+      "matched": 114,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Chapter 5",
+      "docx_range": "p830-p1079",
+      "total_docx_paras": 250,
+      "matched": 250,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Chapter 6",
+      "docx_range": "p1080-p1205",
+      "total_docx_paras": 125,
+      "matched": 125,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Chapter 7",
+      "docx_range": "p1206-p1211",
+      "total_docx_paras": 5,
+      "matched": 5,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Appendix A",
+      "docx_range": "p1212-p1466",
+      "total_docx_paras": 254,
+      "matched": 254,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Appendix B",
+      "docx_range": "p1467-p1496",
+      "total_docx_paras": 29,
+      "matched": 29,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Appendix C",
+      "docx_range": "p1497-p1570",
+      "total_docx_paras": 73,
+      "matched": 73,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Appendix D",
+      "docx_range": "p1571-p1738",
+      "total_docx_paras": 167,
+      "matched": 167,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Appendix E",
+      "docx_range": "p1739-p1768",
+      "total_docx_paras": 28,
+      "matched": 28,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Appendix F",
+      "docx_range": "p1769-p1796",
+      "total_docx_paras": 19,
+      "matched": 19,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Appendix G",
+      "docx_range": "p1797-p1849",
+      "total_docx_paras": 51,
+      "matched": 51,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Appendix H",
+      "docx_range": "p1850-p1967",
+      "total_docx_paras": 117,
+      "matched": 117,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    },
+    {
+      "section": "Appendix I",
+      "docx_range": "p1968-p2036",
+      "total_docx_paras": 44,
+      "matched": 44,
+      "missing_count": 0,
+      "parity_rate": "100.00%",
+      "missing_samples": []
+    }
+  ],
+  "total_unmatched": 0,
+  "unmatched_details": []
+}

@@ -1,0 +1,281 @@
+{
+  "docx_para_count": 2037,
+  "docx_non_empty_para_count": 1989,
+  "docx_table_count": 64,
+  "md_line_count": 7226,
+  "md_heading_count": 526,
+  "docx_sample_headings": [
+    {
+      "index": 12,
+      "text": "PHỤ LỤC A (quy định) QUY ĐỊNH BỔ SUNG ĐỐI VỚI MỘT SỐ NHÓM NHÀ CỤ THỂ",
+      "style": "Normal"
+    },
+    {
+      "index": 13,
+      "text": "PHỤ LỤC B (quy định) PHÂN LOẠI VẬT LIỆU XÂY DỰNG THEO ĐẶC TÍNH KỸ THUẬT VỀ CHÁY VÀ YÊU CẦU VỀ AN TOÀN CHÁY ĐỐI VỚI VẬT LIỆU",
+      "style": "Normal"
+    },
+    {
+      "index": 14,
+      "text": "PHỤ LỤC C (quy định) HẠNG NGUY HIỂM CHÁY VÀ CHÁY NỔ CỦA NHÀ, CÔNG TRÌNH VÀ CÁC GIAN PHÒNG CÓ CÔNG NĂNG SẢN XUẤT VÀ KHO",
+      "style": "Normal"
+    },
+    {
+      "index": 15,
+      "text": "PHỤ LỤC D (quy định) BẢO VỆ CHỐNG KHÓI",
+      "style": "Normal"
+    },
+    {
+      "index": 16,
+      "text": "PHỤ LỤC E (quy định) KHOẢNG CÁCH PHÒNG CHÁY CHỐNG CHÁY",
+      "style": "Normal"
+    },
+    {
+      "index": 17,
+      "text": "PHỤ LỤC F (quy định) GIỚI HẠN CHỊU LỬA DANH ĐỊNH CỦA MỘT SỐ CẤU KIỆN",
+      "style": "Normal"
+    },
+    {
+      "index": 18,
+      "text": "PHỤ LỤC G (quy định) KHOẢNG CÁCH ĐẾN CÁC LỐI RA THOÁT NẠN VÀ CHIỀU RỘNG LỐI RA THOÁT NẠN",
+      "style": "Normal"
+    },
+    {
+      "index": 19,
+      "text": "PHỤ LỤC H (quy định) BẬC CHỊU LỬA VÀ CÁC YÊU CẦU BẢO ĐẢM AN TOÀN CHÁY CHO NHÀ, CÔNG TRÌNH, KHOANG CHÁY",
+      "style": "Normal"
+    },
+    {
+      "index": 20,
+      "text": "PHỤ LỤC I (tham khảo) CÁC HÌNH MINH HỌA",
+      "style": "Normal"
+    },
+    {
+      "index": 29,
+      "text": "1.1  Phạm vi điều chỉnh",
+      "style": "Normal"
+    },
+    {
+      "index": 30,
+      "text": "1.1.1  Quy chuẩn này quy định",
+      "style": "Normal"
+    },
+    {
+      "index": 33,
+      "text": "1.1.2  Quy chuẩn này áp dụng đối với các nhà và công trình sau:",
+      "style": "Normal"
+    },
+    {
+      "index": 42,
+      "text": "1.1.3  Đối với các nhà thuộc nhóm nguy hiểm cháy theo công năng F1.2. F1.3, F4.2, F4.3 và nhà hỗn hợp có chiều cao PCCC lớn hơn 150 m hoặc có từ 4 tầng hầm trở lên các nhà có các đặc điểm riêng về phòng chống cháy khác với các nhóm nhà trong Bảng 6, thì ngoài việc tuân thủ quy chuẩn này còn phải bổ sung các yêu cầu kỹ thuật và các giải pháp về tổ chức, về kỹ thuật công trình phù hợp với các đặc điểm riêng về phòng chống cháy của các nhà đó, trên cơ sở các tài liệu chuẩn được áp dụng.",
+      "style": "Normal"
+    },
+    {
+      "index": 44,
+      "text": "1.1.4  Quy chuẩn này áp dụng khi xây dựng mới các nhà và công trình nêu tại 1.1.2, hoặc trong phạm vi những thay đổi sau:",
+      "style": "Normal"
+    },
+    {
+      "index": 52,
+      "text": "1.1.5  Các phần 2, 3, 4, 5 và 6 không áp dụng cho các nhà có công năng đặc biệt (các nhà và công trình thuộc dây chuyền công nghệ của các cơ sở năng lượng: nhà máy thủy điện, nhiệt điện, điện nguyên tử; điện gió, điện mặt trời, điện địa nhiệt, điện thủy triều, điện rác, điện sinh khối; điện khí blogas; điện đồng phát, tháp kiểm soát không lưu, nhà sản xuất hoặc bảo quản các chất và vật liệu nổ; các kho chứa dầu mỏ và sản phẩm dầu mỏ, khí đốt tự nhiên, các loại khí dễ cháy, cũng như các chất tự cháy; cửa hàng kinh doanh xăng dầu, chất lỏng dễ cháy, khí đốt; nhà sản xuất hoặc kho hóa chất độc hại; công trình quốc phòng, an ninh; phần ngầm của công trình tàu điện ngầm; công trình hầm mỏ, và các nhà có đặc điểm tương tự).",
+      "style": "Normal"
+    },
+    {
+      "index": 53,
+      "text": "1.1.6  Phần 5 cũng không áp dụng cho các đối tượng sau:",
+      "style": "Normal"
+    },
+    {
+      "index": 57,
+      "text": "1.1.7  Các yêu cầu về phòng cháy, chống cháy của các tài liệu chuẩn trong xây dựng phải dựa trên yêu cầu của quy chuẩn này.",
+      "style": "Normal"
+    },
+    {
+      "index": 60,
+      "text": "1.1.8  Các tài liệu thiết kế về an toàn cháy và tài liệu kỹ thuật về an toàn cháy của nhà, kết cấu cấu kiện và vật liệu xây dựng phải nêu rõ các đặc tính kỹ thuật về cháy của chúng theo quy định của quy chuẩn này.",
+      "style": "Normal"
+    },
+    {
+      "index": 61,
+      "text": "1.1.9  Khi thiết kế về xây dựng nhà và công trình, ngoài việc tuân thủ quy chuẩn này, còn phải tuân thủ các quy chuẩn và bảo đảm các yêu cầu kỹ thuật bắt buộc khác theo quy định của pháp luật hiện hành, như: quy hoạch, kiến trúc, kết cấu, hệ thống cấp thoát nước, hệ thống điện, thiết bị điện, chống sét, hệ thống cấp nhiên liệu, tiết kiệm năng lượng, hệ thống thông gió, điều hoà không khí, cơ khí, an toàn sử dụng kính, tránh rơi ngã, va đập.",
+      "style": "Normal"
+    },
+    {
+      "index": 62,
+      "text": "1.1.10  Trong một số trường hợp riêng biệt, có thể xem xét thay thế một số yêu cầu của quy chuẩn này đối với công trình cụ thể khi có luận chứng kỹ thuật gửi Bộ Xây dựng nêu rõ các giải pháp bổ sung, thay thế và cơ sở của những giải pháp này để bảo đảm an toàn cháy cho công trình Luận chứng này phải được Bộ Xây dựng cho ý kiến thống nhất và hồ sơ thiết kế xây dựng phải được cơ quan Cảnh sát PCCC và CNCH có thẩm quyền thẩm duyệt theo quy định pháp luật về phòng cháy chữa cháy.",
+      "style": "Normal"
+    },
+    {
+      "index": 63,
+      "text": "1.2  Đối tượng áp dụng",
+      "style": "Normal"
+    },
+    {
+      "index": 65,
+      "text": "1.3  Tài liệu viện dẫn",
+      "style": "Normal"
+    },
+    {
+      "index": 83,
+      "text": "1.4  Giải thích từ ngữ",
+      "style": "Normal"
+    },
+    {
+      "index": 85,
+      "text": "1.4.1",
+      "style": "Normal"
+    },
+    {
+      "index": 88,
+      "text": "1.4.2",
+      "style": "Normal"
+    },
+    {
+      "index": 92,
+      "text": "1.4.3",
+      "style": "Normal"
+    },
+    {
+      "index": 95,
+      "text": "1.4.4",
+      "style": "Normal"
+    },
+    {
+      "index": 98,
+      "text": "1.4.5",
+      "style": "Normal"
+    },
+    {
+      "index": 101,
+      "text": "1.4.6",
+      "style": "Normal"
+    },
+    {
+      "index": 104,
+      "text": "1.4.7",
+      "style": "Normal"
+    }
+  ],
+  "md_sample_headings": [
+    {
+      "line": 51,
+      "text": "### 1 QUY ĐỊNH CHUNG"
+    },
+    {
+      "line": 56,
+      "text": "### 1.1 Phạm vi điều chỉnh"
+    },
+    {
+      "line": 61,
+      "text": "### 1.1.1  Quy chuẩn này quy định"
+    },
+    {
+      "line": 70,
+      "text": "### 1.1.2  Quy chuẩn này áp dụng đối với các nhà và công trình sau:"
+    },
+    {
+      "line": 91,
+      "text": "### 1.1.3  Đối với các nhà thuộc nhóm nguy hiểm cháy theo công năng F1.2. F1.3, F4.2, F4.3 và nhà hỗn hợp có chiều cao PCCC lớn hơn 150 m hoặc có từ 4 tầng hầm trở lên các nhà có các đặc điểm riêng về phòng chống cháy khác với các nhóm nhà trong Bảng 6, thì ngoài việc tuân thủ quy chuẩn này còn phải bổ sung các yêu cầu kỹ thuật và các giải pháp về tổ chức, về kỹ thuật công trình phù hợp với các đặc điểm riêng về phòng chống cháy của các nhà đó, trên cơ sở các tài liệu chuẩn được áp dụng."
+    },
+    {
+      "line": 98,
+      "text": "### 1.1.4  Quy chuẩn này áp dụng khi xây dựng mới các nhà và công trình nêu tại 1.1.2, hoặc trong phạm vi những thay đổi sau:"
+    },
+    {
+      "line": 117,
+      "text": "### 1.1.5  Các phần 2, 3, 4, 5 và 6 không áp dụng cho các nhà có công năng đặc biệt (các nhà và công trình thuộc dây chuyền công nghệ của các cơ sở năng lượng: nhà máy thủy điện, nhiệt điện, điện nguyên tử; điện gió, điện mặt trời, điện địa nhiệt, điện thủy triều, điện rác, điện sinh khối; điện khí blogas; điện đồng phát, tháp kiểm soát không lưu, nhà sản xuất hoặc bảo quản các chất và vật liệu nổ; các kho chứa dầu mỏ và sản phẩm dầu mỏ, khí đốt tự nhiên, các loại khí dễ cháy, cũng như các chất tự cháy; cửa hàng kinh doanh xăng dầu, chất lỏng dễ cháy, khí đốt; nhà sản xuất hoặc kho hóa chất độc hại; công trình quốc phòng, an ninh; phần ngầm của công trình tàu điện ngầm; công trình hầm mỏ, và các nhà có đặc điểm tương tự)."
+    },
+    {
+      "line": 122,
+      "text": "### 1.1.6  Phần 5 cũng không áp dụng cho các đối tượng sau:"
+    },
+    {
+      "line": 133,
+      "text": "### 1.1.7  Các yêu cầu về phòng cháy, chống cháy của các tài liệu chuẩn trong xây dựng phải dựa trên yêu cầu của quy chuẩn này."
+    },
+    {
+      "line": 142,
+      "text": "### 1.1.8  Các tài liệu thiết kế về an toàn cháy và tài liệu kỹ thuật về an toàn cháy của nhà, kết cấu cấu kiện và vật liệu xây dựng phải nêu rõ các đặc tính kỹ thuật về cháy của chúng theo quy định của quy chuẩn này."
+    },
+    {
+      "line": 147,
+      "text": "### 1.1.9  Khi thiết kế về xây dựng nhà và công trình, ngoài việc tuân thủ quy chuẩn này, còn phải tuân thủ các quy chuẩn và bảo đảm các yêu cầu kỹ thuật bắt buộc khác theo quy định của pháp luật hiện hành, như: quy hoạch, kiến trúc, kết cấu, hệ thống cấp thoát nước, hệ thống điện, thiết bị điện, chống sét, hệ thống cấp nhiên liệu, tiết kiệm năng lượng, hệ thống thông gió, điều hoà không khí, cơ khí, an toàn sử dụng kính, tránh rơi ngã, va đập."
+    },
+    {
+      "line": 150,
+      "text": "### 1.1.10  Trong một số trường hợp riêng biệt, có thể xem xét thay thế một số yêu cầu của quy chuẩn này đối với công trình cụ thể khi có luận chứng kỹ thuật gửi Bộ Xây dựng nêu rõ các giải pháp bổ sung, thay thế và cơ sở của những giải pháp này để bảo đảm an toàn cháy cho công trình Luận chứng này phải được Bộ Xây dựng cho ý kiến thống nhất và hồ sơ thiết kế xây dựng phải được cơ quan Cảnh sát PCCC và CNCH có thẩm quyền thẩm duyệt theo quy định pháp luật về phòng cháy chữa cháy."
+    },
+    {
+      "line": 155,
+      "text": "### 1.2 Đối tượng áp dụng"
+    },
+    {
+      "line": 162,
+      "text": "### 1.3 Tài liệu viện dẫn"
+    },
+    {
+      "line": 201,
+      "text": "### 1.4 Giải thích từ ngữ"
+    },
+    {
+      "line": 206,
+      "text": "### 1.4.1"
+    },
+    {
+      "line": 213,
+      "text": "### 1.4.2"
+    },
+    {
+      "line": 222,
+      "text": "### 1.4.3"
+    },
+    {
+      "line": 229,
+      "text": "### 1.4.4"
+    },
+    {
+      "line": 236,
+      "text": "### 1.4.5"
+    },
+    {
+      "line": 243,
+      "text": "### 1.4.6"
+    },
+    {
+      "line": 250,
+      "text": "### 1.4.7"
+    },
+    {
+      "line": 257,
+      "text": "### 1.4.8"
+    },
+    {
+      "line": 264,
+      "text": "### 1.4.9"
+    },
+    {
+      "line": 281,
+      "text": "### 1.4.10"
+    },
+    {
+      "line": 288,
+      "text": "### 1.4.11"
+    },
+    {
+      "line": 295,
+      "text": "### 1.4.12"
+    },
+    {
+      "line": 302,
+      "text": "### 1.4.13"
+    },
+    {
+      "line": 309,
+      "text": "### 1.4.14"
+    },
+    {
+      "line": 316,
+      "text": "### 1.4.15"
+    }
+  ]
+}

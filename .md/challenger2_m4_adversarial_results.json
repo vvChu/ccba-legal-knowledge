@@ -1,0 +1,61 @@
+{
+  "total_qa": 691,
+  "total_clauses": 691,
+  "total_md_lines": 5798,
+  "tests": {
+    "test_1_schema": {
+      "passed": true,
+      "failures": 0
+    },
+    "test_2_duplicate_questions": {
+      "passed": true,
+      "duplicate_count": 0,
+      "unique_questions": 691
+    },
+    "test_3_bijection": {
+      "passed": true,
+      "dup_qa_anchors": 0,
+      "qa_not_in_clauses": 0,
+      "clauses_not_in_qa": 0
+    },
+    "test_4_md_anchors": {
+      "passed": true,
+      "anchors_missing_in_md": 0,
+      "line_mismatches": 0
+    },
+    "test_5_illegal_anchors": {
+      "passed": true,
+      "illegal_anchors_count": 0
+    },
+    "test_6_section_coverage": {
+      "passed": true,
+      "missing_definitions_1_4": [],
+      "chapters_covered": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    "test_7_semantic_retrieval": {
+      "passed": true,
+      "recall_at_1": 99.56584659913169,
+      "recall_at_5": 100.0
+    },
+    "test_8_section_concordance": {
+      "passed": true,
+      "mismatch_count": 0
+    }
+  },
+  "failures": [],
+  "metrics": {
+    "recall_at_1": "99.57%",
+    "recall_at_3": "100.00%",
+    "recall_at_5": "100.00%",
+    "top1_hits": 688,
+    "top5_hits": 691
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "timestamp": "2026-08-17T18:29:00Z",
+  "total_tested": 14,
+  "killed_count": 14,
+  "kill_rate_pct": 100.0,
+  "all_killed": true,
+  "results": [
+    {
+      "name": "Mutant 1: Table 1 REI 999 in test_b2_10",
+      "feature_ref": "F4 / B2.10",
+      "description": "Mutates Bảng 1 rating from REI 150 to REI 999.",
+      "killed": true,
+      "error_message": "Rating 'REI 150' missing from Bảng 1",
+      "duration_ms": 0.0
+    },
+    {
+      "name": "Mutant 2: Table 1 REI 999 in test_scenario_s1",
+      "feature_ref": "F4 / S1",
+      "description": "Verifies Scenario S1 fails when REI 150 is absent from Bảng 1.",
+      "killed": true,
+      "error_message": "REI 150 not found for fire separation walls in Bảng 1",
+      "duration_ms": 0.0
+    },
+    {
+      "name": "Mutant 3: Unbalanced ASCII quotes in test_b3_13",
+      "feature_ref": "F1 / B3.13",
+      "description": "Injects unclosed quote to verify removal of 'or True' tautology.",
+      "killed": true,
+      "error_message": "ASCII double quotes in markdown are unbalanced",
+      "duration_ms": 0.0
+    },
+    {
+      "name": "Mutant 3b: Unbalanced Vietnamese curly quotes in test_b3_13",
+      "feature_ref": "F1 / B3.13",
+      "description": "Injects unclosed curly quote '“' without '”'.",
+      "killed": true,
+      "error_message": "Vietnamese opening and closing curly quotes are unbalanced",
+      "duration_ms": 0.0
+    },
+    {
+      "name": "Mutant 4: Missing Definition 1.4.72 in test_b5_17",
+      "feature_ref": "F12 / B5.17",
+      "description": "Purges Definition 1.4.72 to verify removal of 'or len(...) >= 180' bypass.",
+      "killed": true,
+      "error_message": "Definition 1.4.72 missing or invalid in clauses.json",
+      "duration_ms": 0.0
+    },
+    {
+      "name": "Mutant 5: Middle/Start anchor as last QA in test_b5_21",
+      "feature_ref": "F13 / B5.21",
+      "description": "Sets last QA node anchor to Chapter 1 to verify removal of 'or len(...) > 0'.",
+      "killed": true,
+      "error_message": "Last QA node anchor 'muc-1-1' does not map to Chapter 7 or Appendix",
+      "duration_ms": 0.0
+    },
+    {
+      "name": "Remediation 6: Null byte control char in test_b2_08",
+      "feature_ref": "F5 / B2.08",
+      "description": "Injects \\x00 into JSON table cell.",
+      "killed": true,
+      "error_message": "Corrupted control char '\\x00' in table 'bang_01_gioi_han_chiu_lua_loai' cell: 'Invalid null byte \\x00 cell'",
+      "duration_ms": 0.0
+    },
+    {
+      "name": "Remediation 7: Trailing \\r in test_b2_08",
+      "feature_ref": "F5 / B2.08",
+      "description": "Injects trailing \\r into JSON table cell.",
+      "killed": true,
+      "error_message": "Corrupted trailing carriage return in table 'bang_01_gioi_han_chiu_lua_loai' cell: 'Corrupted trailing CR\\r'",
+      "duration_ms": 0.0
+    },
+    {
+      "name": "Remediation 8: Raw NBSP in heading in test_b3_12",
+      "feature_ref": "F2 / B3.12",
+      "description": "Injects raw \\u00a0 into heading text.",
+      "killed": true,
+      "error_message": "Raw non-breaking space found in heading at line 42: '1.1 Phạm vi áp dụng'",
+      "duration_ms": 0.0
+    },
+    {
+      "name": "Remediation 9: Raw NBSP in anchor in test_b3_12",
+      "feature_ref": "F2 / B3.12",
+      "description": "Injects raw \\u00a0 into anchor identifier.",
+      "killed": true,
+      "error_message": "Raw non-breaking space found in anchor: 'muc-1-1 bad'",
+      "duration_ms": 0.0
+    },
+    {
+      "name": "Remediation 10: Missing flow values in Table 10 grid in test_f10_04",
+      "feature_ref": "F10 / F10.04",
+      "description": "Corrupts flow numbers inside Table 10 pipe table grid while leaving them in raw text.",
+      "killed": true,
+      "error_message": "Table 10 pipe table missing in SD1 markdown",
+      "duration_ms": 0.0
+    },
+    {
+      "name": "Remediation 11: Truncated SD1 Markdown in test_f9_08",
+      "feature_ref": "F9 / F9.08",
+      "description": "Empties SD1 markdown to verify retention rate evaluation against DOCX.",
+      "killed": true,
+      "error_message": "SD1 paragraph retention rate 0.00% is below threshold (0/417)",
+      "duration_ms": 1.596
+    },
+    {
+      "name": "Remediation 12: Truncated SD1 Markdown in test_f16_04",
+      "feature_ref": "F16 / F16.04",
+      "description": "Verifies test_f16_04 catches truncated amendment markdown retention.",
+      "killed": true,
+      "error_message": "Amendment parity rate 0.00% is below required threshold (0/417)",
+      "duration_ms": 2.147
+    },
+    {
+      "name": "Remediation 13: Missing thermodynamic params in test_scenario_s2",
+      "feature_ref": "F1 / S2",
+      "description": "Removes temperature, pressure, density terms to verify smoke formula sensitivity.",
+      "killed": true,
+      "error_message": "Thermodynamic parameters (temperature, pressure, density) missing for smoke control",
+      "duration_ms": 0.0
+    }
+  ]
+}

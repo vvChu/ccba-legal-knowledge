@@ -1,0 +1,54 @@
+{
+  "total_docx_paragraphs": 2037,
+  "total_docx_non_empty": 1989,
+  "md_lines": 5561,
+  "md_chars": 423257,
+  "exact_full_matches": 1975,
+  "exact_punct_matches": 13,
+  "fuzzy_matches": 0,
+  "unmatched_count": 1,
+  "unmatched_items": [
+    {
+      "docx_idx": 4,
+      "raw": "MỤC LỤC",
+      "norm": "MỤC LỤC",
+      "punct_strip": "mụclục",
+      "length": 7,
+      "style": "Normal",
+      "best_ratio": 0.625,
+      "best_candidate": "PHỤ LỤC A"
+    }
+  ],
+  "fuzzy_items": [],
+  "sec_1_4_definitions_count": 72,
+  "sec_1_4_missing": [],
+  "sec_1_4_dot_split_bugs": 0,
+  "chapter_4_space_headings": 0,
+  "chapter_7_space_headings": 0,
+  "missing_subdots": [
+    "2.1.1.1",
+    "2.1.1.2",
+    "2.2.1.1",
+    "2.2.1.2",
+    "2.2.1.3",
+    "5.1.1.1",
+    "5.1.1.2",
+    "5.1.1.3",
+    "5.1.1.4",
+    "6.2.1.1",
+    "6.2.1.2",
+    "6.2.1.3",
+    "6.2.1.4"
+  ],
+  "fake_table_headings": 0,
+  "heading_distribution": {
+    "1": 3,
+    "2": 19,
+    "3": 184,
+    "4": 323,
+    "5": 240,
+    "6": 7
+  },
+  "missing_appendices": [],
+  "table_headers_count": 64
+}

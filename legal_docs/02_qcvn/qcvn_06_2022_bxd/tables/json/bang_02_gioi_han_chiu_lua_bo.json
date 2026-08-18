@@ -2,64 +2,40 @@
   "table_id": "bang_02_gioi_han_chiu_lua_bo",
   "title": "Bảng 2 - Giới hạn chịu lửa của các bộ phận chèn bịt của bộ phận ngăn cháy",
   "headers": [
-    "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy",
-    "Loại bộ phận chèn bịt của bộ phận ngăn cháy",
-    "Giới hạn chịu lửa"
+    "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy | Loại bộ phận chèn bịt của bộ phận ngăn cháy | Giới hạn chịu lửa || --- | --- | --- || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 1 | El 60 || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 2 | El 30 || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 3 | EI 15 || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 1 | EIW 60 2) || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 2 | EIW 30 2) || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 3 | EIW 15 2) || 3. Cửa giếng thang máy (khi có yêu cầu về giới hạn chịu lửa) | 2 | E 30 || 4. Cửa sổ | 1 | E 60 || 4. Cửa sổ | 2 | E 30 || 4. Cửa sổ | 3 | E 15 |_1) Giới hạn chịu lửa của van ngăn cháy được phép chỉ lấy theo tính toàn vẹn (E) nếu những van này lắp đặt bên trong các kênh, giếng và đường ống dẫn mà bảo đảm được khả năng chịu lửa yêu cầu đối với cả tính toàn vẹn (E) và tính cách nhiệt (I). 2) Đối với phân vật liệu khác kính áp dụng chỉ tiêu El, đối với phần kính áp dụng chỉ tiêu EW. Các cửa đi đã thử nghiệm đạt chỉ tiêu El đối với cả phần kính được xem là đạt chỉ tiêu EW._"
   ],
   "rows": [
     {
-      "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy",
-      "Loại bộ phận chèn bịt của bộ phận ngăn cháy": "1",
-      "Giới hạn chịu lửa": "El 60"
+      "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy | Loại bộ phận chèn bịt của bộ phận ngăn cháy | Giới hạn chịu lửa || --- | --- | --- || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 1 | El 60 || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 2 | El 30 || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 3 | EI 15 || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 1 | EIW 60 2) || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 2 | EIW 30 2) || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 3 | EIW 15 2) || 3. Cửa giếng thang máy (khi có yêu cầu về giới hạn chịu lửa) | 2 | E 30 || 4. Cửa sổ | 1 | E 60 || 4. Cửa sổ | 2 | E 30 || 4. Cửa sổ | 3 | E 15 |_1) Giới hạn chịu lửa của van ngăn cháy được phép chỉ lấy theo tính toàn vẹn (E) nếu những van này lắp đặt bên trong các kênh, giếng và đường ống dẫn mà bảo đảm được khả năng chịu lửa yêu cầu đối với cả tính toàn vẹn (E) và tính cách nhiệt (I). 2) Đối với phân vật liệu khác kính áp dụng chỉ tiêu El, đối với phần kính áp dụng chỉ tiêu EW. Các cửa đi đã thử nghiệm đạt chỉ tiêu El đối với cả phần kính được xem là đạt chỉ tiêu EW._": "<a id=\"muc-2-3-3-6\" name=\"muc-2-3-3-6\"></a>2.3.3.6  Yêu cầu đối với các bộ phận của khoang đệm ngăn cháy các loại được quy định tại Bảng 3."
     },
     {
-      "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy",
-      "Loại bộ phận chèn bịt của bộ phận ngăn cháy": "2",
-      "Giới hạn chịu lửa": "El 30"
-    },
-    {
-      "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy",
-      "Loại bộ phận chèn bịt của bộ phận ngăn cháy": "3",
-      "Giới hạn chịu lửa": "EI 15"
-    },
-    {
-      "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi",
-      "Loại bộ phận chèn bịt của bộ phận ngăn cháy": "1",
-      "Giới hạn chịu lửa": "EIW 60 2)"
-    },
-    {
-      "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi",
-      "Loại bộ phận chèn bịt của bộ phận ngăn cháy": "2",
-      "Giới hạn chịu lửa": "EIW 30 2)"
-    },
-    {
-      "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi",
-      "Loại bộ phận chèn bịt của bộ phận ngăn cháy": "3",
-      "Giới hạn chịu lửa": "EIW 15 2)"
-    },
-    {
-      "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "3. Cửa giếng thang máy (khi có yêu cầu về giới hạn chịu lửa)",
-      "Loại bộ phận chèn bịt của bộ phận ngăn cháy": "2",
-      "Giới hạn chịu lửa": "E 30"
-    },
-    {
-      "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "4. Cửa sổ",
-      "Loại bộ phận chèn bịt của bộ phận ngăn cháy": "1",
-      "Giới hạn chịu lửa": "E 60"
-    },
-    {
-      "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "4. Cửa sổ",
-      "Loại bộ phận chèn bịt của bộ phận ngăn cháy": "2",
-      "Giới hạn chịu lửa": "E 30"
-    },
-    {
-      "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "4. Cửa sổ",
-      "Loại bộ phận chèn bịt của bộ phận ngăn cháy": "3",
-      "Giới hạn chịu lửa": "E 15"
+      "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy | Loại bộ phận chèn bịt của bộ phận ngăn cháy | Giới hạn chịu lửa || --- | --- | --- || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 1 | El 60 || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 2 | El 30 || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 3 | EI 15 || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 1 | EIW 60 2) || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 2 | EIW 30 2) || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 3 | EIW 15 2) || 3. Cửa giếng thang máy (khi có yêu cầu về giới hạn chịu lửa) | 2 | E 30 || 4. Cửa sổ | 1 | E 60 || 4. Cửa sổ | 2 | E 30 || 4. Cửa sổ | 3 | E 15 |_1) Giới hạn chịu lửa của van ngăn cháy được phép chỉ lấy theo tính toàn vẹn (E) nếu những van này lắp đặt bên trong các kênh, giếng và đường ống dẫn mà bảo đảm được khả năng chịu lửa yêu cầu đối với cả tính toàn vẹn (E) và tính cách nhiệt (I). 2) Đối với phân vật liệu khác kính áp dụng chỉ tiêu El, đối với phần kính áp dụng chỉ tiêu EW. Các cửa đi đã thử nghiệm đạt chỉ tiêu El đối với cả phần kính được xem là đạt chỉ tiêu EW._": "_CHÚ THÍCH: Khi trong bộ phận ngăn cháy có các cửa đi, cửa nắp, van cửa sổ, màn chắn, hay khi ở vị trí các cửa đó có bố trí khoang đệm ngăn cháy thì cửa, van ngăn cháy và khoang đệm ngăn cháy phải được chọn loại cũng có khả năng ngăn cháy phù hợp với loại của bộ phận ngăn cháy theo quy định tại Bảng 1._"
     }
   ],
-  "total_rows": 10,
-  "footnotes": [
-    "1) Giới hạn chịu lửa của van ngăn cháy được phép chỉ lấy theo tính toàn vẹn (E) nếu những van này lắp đặt bên trong các kênh, giếng và đường ống dẫn mà bảo đảm được khả năng chịu lửa yêu cầu đối với cả tính toàn vẹn (E) và tính cách nhiệt (I). 2) Đối với phân vật liệu khác kính áp dụng chỉ tiêu El, đối với phần kính áp dụng chỉ tiêu EW. Các cửa đi đã thử nghiệm đạt chỉ tiêu El đối với cả phần kính được xem là đạt chỉ tiêu EW."
-  ]
+  "total_rows": 2,
+  "footnotes": [],
+  "structured_rows": [
+    [
+      {
+        "raw": "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy | Loại bộ phận chèn bịt của bộ phận ngăn cháy | Giới hạn chịu lửa || --- | --- | --- || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 1 | El 60 || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 2 | El 30 || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 3 | EI 15 || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 1 | EIW 60 2) || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 2 | EIW 30 2) || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 3 | EIW 15 2) || 3. Cửa giếng thang máy (khi có yêu cầu về giới hạn chịu lửa) | 2 | E 30 || 4. Cửa sổ | 1 | E 60 || 4. Cửa sổ | 2 | E 30 || 4. Cửa sổ | 3 | E 15 |_1) Giới hạn chịu lửa của van ngăn cháy được phép chỉ lấy theo tính toàn vẹn (E) nếu những van này lắp đặt bên trong các kênh, giếng và đường ống dẫn mà bảo đảm được khả năng chịu lửa yêu cầu đối với cả tính toàn vẹn (E) và tính cách nhiệt (I). 2) Đối với phân vật liệu khác kính áp dụng chỉ tiêu El, đối với phần kính áp dụng chỉ tiêu EW. Các cửa đi đã thử nghiệm đạt chỉ tiêu El đối với cả phần kính được xem là đạt chỉ tiêu EW._",
+        "numeric_value": 60,
+        "unit": "h",
+        "condition_refs": [
+          2
+        ]
+      }
+    ],
+    [
+      {
+        "raw": "Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy | Loại bộ phận chèn bịt của bộ phận ngăn cháy | Giới hạn chịu lửa || --- | --- | --- || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 1 | El 60 || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 2 | El 30 || 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy 1), màn ngăn cháy | 3 | EI 15 || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 1 | EIW 60 2) || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 2 | EIW 30 2) || 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 3 | EIW 15 2) || 3. Cửa giếng thang máy (khi có yêu cầu về giới hạn chịu lửa) | 2 | E 30 || 4. Cửa sổ | 1 | E 60 || 4. Cửa sổ | 2 | E 30 || 4. Cửa sổ | 3 | E 15 |_1) Giới hạn chịu lửa của van ngăn cháy được phép chỉ lấy theo tính toàn vẹn (E) nếu những van này lắp đặt bên trong các kênh, giếng và đường ống dẫn mà bảo đảm được khả năng chịu lửa yêu cầu đối với cả tính toàn vẹn (E) và tính cách nhiệt (I). 2) Đối với phân vật liệu khác kính áp dụng chỉ tiêu El, đối với phần kính áp dụng chỉ tiêu EW. Các cửa đi đã thử nghiệm đạt chỉ tiêu El đối với cả phần kính được xem là đạt chỉ tiêu EW._",
+        "numeric_value": 60,
+        "unit": "h",
+        "condition_refs": [
+          2
+        ]
+      }
+    ]
+  ],
+  "structured_footnotes": [],
+  "has_normative_conditions": true
 }

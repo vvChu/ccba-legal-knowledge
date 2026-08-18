@@ -1,0 +1,14 @@
+{
+  "total_evaluated": 1989,
+  "full_compact_matches": 1988,
+  "exact_matches": 1984,
+  "flagged_count": 1,
+  "flagged_items": [
+    {
+      "index": 4,
+      "status": "MISSING_OR_HEAVILY_ALTERED",
+      "text": "MỤC LỤC",
+      "norm_len": 7
+    }
+  ]
+}

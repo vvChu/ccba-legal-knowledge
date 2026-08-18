@@ -15,10 +15,10 @@ def format_all_qcvn_md_tables(md_path: Path) -> int:
 
     content = md_path.read_text(encoding="utf-8")
 
-    # Regular expression matching Bảng X header blocks
+    # Regular expression matching Bảng X header blocks, stopping at any heading, anchor, or next section
     table_block_regex = re.compile(
         r"(<a id=\"[^\"]+\"></a>\n)?([#*]+)?\s*(Bảng\s+([A-Z0-9]+(?:\.[0-9]+)?)\s*[-–:]\s*([^\n\*\#]+))([#*]*|\n)?"
-        r"(.*?)(?=\n<a id=\"muc-|\n### |\n# |\n(?:\#|\*)*\s*Bảng|\Z)",
+        r"(.*?)(?=\n<a id=\"|\n#{1,6}\s+|\n(?:\#|\*)*\s*Bảng|\Z)",
         re.DOTALL | re.IGNORECASE,
     )
 

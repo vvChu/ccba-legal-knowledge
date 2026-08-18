@@ -119,7 +119,7 @@ def save_table_exports(table_dict: dict, tables_dir: Path) -> tuple[Path, Path]:
 
     headers = table_dict.get("headers", [])
     rows = table_dict.get("rows", [])
-    with open(csv_path, "w", newline="", encoding="utf-8-sig") as f:
+    with open(csv_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         if headers:
             writer.writerow(headers)

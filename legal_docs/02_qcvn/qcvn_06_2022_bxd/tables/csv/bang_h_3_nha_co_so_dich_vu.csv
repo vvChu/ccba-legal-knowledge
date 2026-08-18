@@ -1,8 +1,3 @@
-﻿Hạng của gian phòng có nguy hiểm cháy cao nhất có lối ra thoát nạn đi vào hành lang,Bậc chịu lửa của nhà,Cấp nguy hiểm cháy kết cấu của nhà,"Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ hành lang, người"
-"A, B","I. II, III, IV",S0,85
-"C1, C2, C3","I, II, III, IV",S0,173
-"C1, C2, C3",IV,S1,120
-"C1, C2, C3",Không quy định,"S2, S3",85
-"C4, D, E","I, II, III, IV",S0,260
-"C4, D, E",IV,S1,180
-"C4, D, E",Không quy định,"S2, S3",130
+"Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu | Chiều cao PCCC lớn nhất cho phép của nhà, m | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 || --- | --- | --- | --- | --- || Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu | Chiều cao PCCC lớn nhất cho phép của nhà, m | Nhà 1 tầng | Nhà nhiều tầng (tối đa 6 tầng không kể đến tầng kỹ thuật trên cùng) || I | S0 | 18 | 3 000 | 2 500 || II | S0 | 18 | 3 000 | 2 500 || II | S1 | 6 | 2 500 | 1 000 || III | S0 | 6 | 2 500 | 1 000 || III | S1 | 5 | 1 000 | - || IV | S0, S1 | 5 | 1 000 | - || IV | S2, S3 | 5 | 500 | - || V | S1, S2, S3 | 5 | 500 | - |_CHÚ THÍCH: Dấu “-” nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng._"
+"<a id=""muc-h-2-3"" name=""muc-h-2-3""></a>H.2.3  Nhà của các cơ sở thương mại (nhóm F3.1)"
+"Bậc chịu lửa, cấp nguy hiểm cháy kết cấu, chiều cao PCCC lớn nhất cho phép của nhà và diện tích một tầng trong phạm vi một khoang cháy đối với nhà của các cơ sở thương mại (nhóm F3.1) được quy định tại Bảng H.4. cần tuân thủ thêm các quy định bổ sung tại H.2.12."

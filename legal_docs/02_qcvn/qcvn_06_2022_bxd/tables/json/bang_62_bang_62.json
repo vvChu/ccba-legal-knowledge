@@ -98,7 +98,408 @@
   ],
   "total_rows": 12,
   "footnotes": [
-    "1) Chiều cao nhà trong bảng này được tính từ sàn tầng 1 đến trần tầng trên cùng, bao gồm cả tầng kỹ thuật; với trần nhà có cao độ thay đổi thì lấy giá trị cao đỏ trung bình. Khi xác định số tầng nhà thì chỉ tính các tầng trên mặt đất. Không quy định chiều cao nhà một tầng có cáp nguy hiểm cháy S0 và S1.",
-    "CHÚ THÍCH 1: Cho phép tăng lên đến 1 800 m2 đối với diện tích tầng chứa chim và cừu giữa các tường ngăn cháy của nhà một tầng có bậc chịu lửa V và hạng C. CHÚ THÍCH 2: Dấu \"-\" nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng."
-  ]
+    "CHÚ THÍCH 1: Cho phép tăng lên đến 1 800 m2 đối với diện tích tầng chứa chim và cừu giữa các tường ngăn cháy của nhà một tầng có bậc chịu lửa V và hạng C. CHÚ THÍCH 2: Dấu \"-\" nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng.",
+    "1) Chiều cao nhà trong bảng này được tính từ sàn tầng 1 đến trần tầng trên cùng, bao gồm cả tầng kỹ thuật; với trần nhà có cao độ thay đổi thì lấy giá trị cao đỏ trung bình. Khi xác định số tầng nhà thì chỉ tính các tầng trên mặt đất. Không quy định chiều cao nhà một tầng có cáp nguy hiểm cháy S0 và S1."
+  ],
+  "structured_rows": [
+    [
+      {
+        "raw": "Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Chiều cao lớn nhất cho phép của nhà 1), m",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Chiều cao lớn nhất cho phép của nhà 1), m",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Chiều cao lớn nhất cho phép của nhà 1), m",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Chiều cao lớn nhất cho phép của nhà 1), m",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Chiều cao lớn nhất cho phép của nhà 1), m",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Chiều cao lớn nhất cho phép của nhà 1), m",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Chiều cao lớn nhất cho phép của nhà 1), m",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Chiều cao lớn nhất cho phép của nhà 1), m",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Chiều cao lớn nhất cho phép của nhà 1), m",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Chiều cao lớn nhất cho phép của nhà 1), m",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Chiều cao lớn nhất cho phép của nhà 1), m",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Chiều cao lớn nhất cho phép của nhà 1), m",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "Bậc chịu lửa của nhà",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "Cấp nguy hiểm cháy kết cấu của nhà",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ]
+  ],
+  "structured_footnotes": [
+    {
+      "id": 1,
+      "type": "definition",
+      "legal_status": "normative",
+      "text": "CHÚ THÍCH 1: Cho phép tăng lên đến 1 800 m2 đối với diện tích tầng chứa chim và cừu giữa các tường ngăn cháy của nhà một tầng có bậc chịu lửa V và hạng C. CHÚ THÍCH 2: Dấu \"-\" nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng."
+    },
+    {
+      "id": 1,
+      "type": "normative_condition",
+      "legal_status": "normative",
+      "text": "1) Chiều cao nhà trong bảng này được tính từ sàn tầng 1 đến trần tầng trên cùng, bao gồm cả tầng kỹ thuật; với trần nhà có cao độ thay đổi thì lấy giá trị cao đỏ trung bình. Khi xác định số tầng nhà thì chỉ tính các tầng trên mặt đất. Không quy định chiều cao nhà một tầng có cáp nguy hiểm cháy S0 và S1."
+    }
+  ],
+  "has_normative_conditions": true
 }

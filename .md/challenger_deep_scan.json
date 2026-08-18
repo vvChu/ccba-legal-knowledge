@@ -1,0 +1,630 @@
+{
+  "space_digits_headings": [
+    [
+      726,
+      "2 2.2.1  Các cấu kiện xây dựng của nhà và công trình, phụ thuộc vào khả năng của chúng chống lại tác động của đám cháy và sự lan truyền các yếu tố nguy hiểm cháy của đám cháy trong điều kiện thử nghiệm tiêu chuẩn, được phân thành các cấu kiện xây dựng với các giới hạn chịu lửa như sau:"
+    ]
+  ],
+  "heading_anomalies": [
+    {
+      "line": 97,
+      "type": "missing_subdot",
+      "num": "1.1.10",
+      "text": "#### 1.1.10  Trong một số trường hợp riêng biệt, có thể xem xét thay thế một số yêu cầu của quy chuẩn này đối với công trình cụ thể khi có luận chứng kỹ thuật gửi Bộ Xây dựng nêu rõ các giải pháp bổ sung, thay thế và cơ sở của những giải pháp này để bảo đảm an toàn cháy cho công trình Luận chứng này phải được Bộ Xây dựng cho ý kiến thống nhất và hồ sơ thiết kế xây dựng phải được cơ quan Cảnh sát PCCC và CNCH có thẩm quyền thẩm duyệt theo quy định pháp luật về phòng cháy chữa cháy."
+    },
+    {
+      "line": 204,
+      "type": "missing_subdot",
+      "num": "1.4.10",
+      "text": "#### 1.4.10  Chiều cao tia nước đặc"
+    },
+    {
+      "line": 209,
+      "type": "missing_subdot",
+      "num": "1.4.11",
+      "text": "#### 1.4.11  Cửa nắp thu khói (cửa trời hoặc cửa chớp)"
+    },
+    {
+      "line": 214,
+      "type": "missing_subdot",
+      "num": "1.4.12",
+      "text": "#### 1.4.12  Cửa giếng thang máy"
+    },
+    {
+      "line": 219,
+      "type": "missing_subdot",
+      "num": "1.4.13",
+      "text": "#### 1.4.13  Cửa thu khói"
+    },
+    {
+      "line": 224,
+      "type": "missing_subdot",
+      "num": "1.4.14",
+      "text": "#### 1.4.14  Diện tích sàn cho phép tiếp cận"
+    },
+    {
+      "line": 229,
+      "type": "missing_subdot",
+      "num": "1.4.15",
+      "text": "#### 1.4.15  Đường cho xe chữa cháy"
+    },
+    {
+      "line": 234,
+      "type": "missing_subdot",
+      "num": "1.4.16",
+      "text": "#### 1.4.16  Đường thoát nạn <!-- 1.4 16 -->"
+    },
+    {
+      "line": 239,
+      "type": "missing_subdot",
+      "num": "1.4.17",
+      "text": "#### 1.4.17  Đường thoát nạn độc lập"
+    },
+    {
+      "line": 244,
+      "type": "missing_subdot",
+      "num": "1.4.18",
+      "text": "#### 1.4.18  Giới hạn chịu lửa"
+    },
+    {
+      "line": 249,
+      "type": "missing_subdot",
+      "num": "1.4.19",
+      "text": "#### 1.4.19  Gian lánh nạn"
+    },
+    {
+      "line": 254,
+      "type": "missing_subdot",
+      "num": "1.4.20",
+      "text": "#### 1.4.20  Gian kỹ thuật"
+    },
+    {
+      "line": 259,
+      "type": "missing_subdot",
+      "num": "1.4.21",
+      "text": "#### 1.4.21  Gian phòng"
+    },
+    {
+      "line": 264,
+      "type": "missing_subdot",
+      "num": "1.4.22",
+      "text": "#### 1.4.22  Gian phòng có người làm việc thường xuyên"
+    },
+    {
+      "line": 269,
+      "type": "missing_subdot",
+      "num": "1.4.23",
+      "text": "#### 1.4.23  Hành lang bên"
+    },
+    {
+      "line": 274,
+      "type": "missing_subdot",
+      "num": "1.4.24",
+      "text": "#### 1.4.24  Hệ thống bảo vệ chống cháy"
+    },
+    {
+      "line": 279,
+      "type": "missing_subdot",
+      "num": "1.4.25",
+      "text": "#### 1.4.25  Hệ thống cấp không khí chống khói"
+    },
+    {
+      "line": 284,
+      "type": "missing_subdot",
+      "num": "1.4.26",
+      "text": "#### 1.4.26  Hệ thống hút xả khói"
+    },
+    {
+      "line": 289,
+      "type": "missing_subdot",
+      "num": "1.4.27",
+      "text": "#### 1.4.27  Họng nước chữa cháy"
+    },
+    {
+      "line": 294,
+      "type": "missing_subdot",
+      "num": "1.4.28",
+      "text": "#### 1.4.28  Khoảng cách phòng cháy chống cháy"
+    },
+    {
+      "line": 299,
+      "type": "missing_subdot",
+      "num": "1.4.29",
+      "text": "#### 1.4.29  Khoang cháy"
+    },
+    {
+      "line": 304,
+      "type": "missing_subdot",
+      "num": "1.4.30",
+      "text": "#### 1.4.30  Khoang đệm"
+    },
+    {
+      "line": 309,
+      "type": "missing_subdot",
+      "num": "1.4.31",
+      "text": "#### 1.4.31  Khoang đệm ngăn cháy"
+    },
+    {
+      "line": 314,
+      "type": "missing_subdot",
+      "num": "1.4.32",
+      "text": "#### 1.4.32  Khói"
+    },
+    {
+      "line": 319,
+      "type": "missing_subdot",
+      "num": "1.4.33",
+      "text": "#### 1.4.33  Lối ra thoát nạn (lối thoát nạn, cửa thoát nạn)"
+    },
+    {
+      "line": 324,
+      "type": "missing_subdot",
+      "num": "1.4.34",
+      "text": "#### 1.4.34  Lối ra thoát nạn độc lập"
+    },
+    {
+      "line": 329,
+      "type": "missing_subdot",
+      "num": "1.4.35",
+      "text": "#### 1.4.35  Lối ra thoát nạn riêng"
+    },
+    {
+      "line": 334,
+      "type": "missing_subdot",
+      "num": "1.4.36",
+      "text": "#### 1.4.36  Lớp bê tông bảo vệ, chiều dày lớp bê tông bảo vệ"
+    },
+    {
+      "line": 341,
+      "type": "missing_subdot",
+      "num": "1.4.37",
+      "text": "#### 1.4.37  Mái có khai thác sử dụng"
+    },
+    {
+      "line": 346,
+      "type": "missing_subdot",
+      "num": "1.4.38",
+      "text": "#### 1.4.38  Ngọn lửa"
+    },
+    {
+      "line": 351,
+      "type": "missing_subdot",
+      "num": "1.4.39",
+      "text": "#### 1.4.39  Nhà"
+    },
+    {
+      "line": 356,
+      "type": "missing_subdot",
+      "num": "1.4.40",
+      "text": "#### 1.4.40  Nhà chung cư"
+    },
+    {
+      "line": 361,
+      "type": "missing_subdot",
+      "num": "1.4.41",
+      "text": "#### 1.4.41  Nhà hỗn hợp"
+    },
+    {
+      "line": 368,
+      "type": "missing_subdot",
+      "num": "1.4.42",
+      "text": "#### 1.4.42  Nhà sản xuất"
+    },
+    {
+      "line": 373,
+      "type": "missing_subdot",
+      "num": "1.4.43",
+      "text": "#### 1.4.43  Nhóm nguy hiểm cháy theo công năng của nhà, công trình, khoang cháy và gian phòng"
+    },
+    {
+      "line": 378,
+      "type": "missing_subdot",
+      "num": "1.4.44",
+      "text": "#### 1.4.44  Nhóm của vật liệu xây dựng theo tính nguy hiểm cháy"
+    },
+    {
+      "line": 383,
+      "type": "missing_subdot",
+      "num": "1.4.45",
+      "text": "#### 1.4.45  Phân khoang cháy"
+    },
+    {
+      "line": 388,
+      "type": "missing_subdot",
+      "num": "1.4.46",
+      "text": "#### 1.4.46  Phòng cháy"
+    },
+    {
+      "line": 393,
+      "type": "missing_subdot",
+      "num": "1.4.47",
+      "text": "#### 1.4.47  Quy mô khối tích"
+    },
+    {
+      "line": 404,
+      "type": "missing_subdot",
+      "num": "1.4.48",
+      "text": "#### 1.4.48  Sảnh ngăn khói"
+    },
+    {
+      "line": 409,
+      "type": "missing_subdot",
+      "num": "1.4.49",
+      "text": "#### 1.4.49  Sảnh thang máy"
+    },
+    {
+      "line": 414,
+      "type": "missing_subdot",
+      "num": "1.4.50",
+      "text": "#### 1.4.50  Số tầng nhà"
+    },
+    {
+      "line": 421,
+      "type": "missing_subdot",
+      "num": "1.4.51",
+      "text": "#### 1.4.51  Đám cháy"
+    },
+    {
+      "line": 426,
+      "type": "missing_subdot",
+      "num": "1.4.52",
+      "text": "#### 1.4.52  Sự cháy"
+    },
+    {
+      "line": 431,
+      "type": "missing_subdot",
+      "num": "1.4.53",
+      "text": "#### 1.4.53  Tài liệu chuẩn"
+    },
+    {
+      "line": 436,
+      "type": "missing_subdot",
+      "num": "1.4.54",
+      "text": "#### 1.4.54  Tải trọng cháy"
+    },
+    {
+      "line": 441,
+      "type": "missing_subdot",
+      "num": "1.4.55",
+      "text": "#### 1.4.55  Tầng áp mái"
+    },
+    {
+      "line": 446,
+      "type": "missing_subdot",
+      "num": "1.4.56",
+      "text": "#### 1.4.56  Tầng dừng chính (của thang máy)"
+    },
+    {
+      "line": 451,
+      "type": "missing_subdot",
+      "num": "1.4.57",
+      "text": "#### 1.4.57  Tầng hầm"
+    },
+    {
+      "line": 458,
+      "type": "missing_subdot",
+      "num": "1.4.58",
+      "text": "#### 1.4.58  Tầng lánh nạn"
+    },
+    {
+      "line": 463,
+      "type": "missing_subdot",
+      "num": "1.4.59",
+      "text": "#### 1.4.59  Tầng nửa/bán hầm"
+    },
+    {
+      "line": 468,
+      "type": "missing_subdot",
+      "num": "1.4.60",
+      "text": "#### 1.4.60  Tầng kỹ thuật"
+    },
+    {
+      "line": 473,
+      "type": "missing_subdot",
+      "num": "1.4.61",
+      "text": "#### 1.4.61  Tầng trên mặt đất"
+    },
+    {
+      "line": 478,
+      "type": "missing_subdot",
+      "num": "1.4.62",
+      "text": "#### 1.4.62  Thang máy chữa cháy"
+    },
+    {
+      "line": 483,
+      "type": "missing_subdot",
+      "num": "1.4.63",
+      "text": "#### 1.4.63  Thông gió thoát khói"
+    },
+    {
+      "line": 488,
+      "type": "missing_subdot",
+      "num": "1.4.64",
+      "text": "#### 1.4.64  Tính nguy hiểm cháy của chất, vật liệu xây dựng"
+    },
+    {
+      "line": 493,
+      "type": "missing_subdot",
+      "num": "1.4.65",
+      "text": "#### 1.4.65  Tính nguy hiểm cháy của đối tượng bảo vệ"
+    },
+    {
+      "line": 498,
+      "type": "missing_subdot",
+      "num": "1.4.66",
+      "text": "#### 1.4.66  Tính chịu lửa"
+    },
+    {
+      "line": 503,
+      "type": "missing_subdot",
+      "num": "1.4.67",
+      "text": "#### 1.4.67  Van khói"
+    },
+    {
+      "line": 508,
+      "type": "missing_subdot",
+      "num": "1.4.68",
+      "text": "#### 1.4.68  Van ngăn cháy"
+    },
+    {
+      "line": 519,
+      "type": "missing_subdot",
+      "num": "1.4.69",
+      "text": "#### 1.4.69  Vùng an toàn"
+    },
+    {
+      "line": 524,
+      "type": "missing_subdot",
+      "num": "1.4.70",
+      "text": "#### 1.4.70  Vùng khói"
+    },
+    {
+      "line": 529,
+      "type": "missing_subdot",
+      "num": "1.4.71",
+      "text": "#### 1.4.71  Xử lý chống cháy cho kết cấu"
+    },
+    {
+      "line": 534,
+      "type": "missing_subdot",
+      "num": "1.4.72",
+      "text": "#### 1.4.72  Yếu tố nguy hiểm của đám cháy"
+    },
+    {
+      "line": 595,
+      "type": "missing_subdot",
+      "num": "2.1.11",
+      "text": "##### 2.1.11  Việc phân nhóm chất và vật liệu xây dựng theo tính nguy hiểm cháy được thực hiện nhằm mục đích thiết lập các yêu cầu về an toàn cháy khi có chất và vật liệu, sử dụng bảo quản và vận chuyển, chế biến và tiêu hủy."
+    },
+    {
+      "line": 598,
+      "type": "missing_subdot",
+      "num": "2.1.12",
+      "text": "##### 2.1.12  Để thiết lập các yêu cầu về an toàn cháy đối với kết cấu nhà, công trình và các hệ thống bảo vệ chống cháy vật liệu xây dựng được phân nhóm theo tính nguy hiểm cháy."
+    },
+    {
+      "line": 715,
+      "type": "missing_subdot",
+      "num": "2.2.11",
+      "text": "##### 2.2.11  Cấu kiện xây dựng được phân loại theo tính chịu lửa và tính nguy hiểm cháy"
+    },
+    {
+      "line": 718,
+      "type": "missing_subdot",
+      "num": "2.2.12",
+      "text": "##### 2.2.12  Cấu kiện xây dựng được phân loại theo tính chịu lửa để xác định khả năng sử dụng chúng trong nhà, công trình và khoang cháy có bậc chịu lửa nhất định hoặc để xác định bậc chịu lửa của nhà, công trình và khoang cháy."
+    },
+    {
+      "line": 721,
+      "type": "missing_subdot",
+      "num": "2.2.13",
+      "text": "##### 2.2.13 Cấu kiện xây dựng được phân loại Theo tính nguy hiểm cháy để xác định mức độ tham gia của chúng vào sự phát triển đám cháy và khả năng hình thành các yếu tố nguy hiểm của đám cháy."
+    },
+    {
+      "line": 1208,
+      "type": "missing_subdot",
+      "num": "3.1.10",
+      "text": "#### 3.1.10  Các thiết bị điện của hệ thống bảo vệ chống cháy của nhà phải được cấp điện ưu tiên từ hai nguồn độc lập (một nguồn điện lưới về một nguồn máy phát điện dự phòng)."
+    },
+    {
+      "line": 1213,
+      "type": "missing_subdot",
+      "num": "3.1.11",
+      "text": "#### 3.1.11  Hiệu quả của các giải pháp bảo đảm an toàn cho người khi cháy có thể được đánh giá bằng tính toán."
+    },
+    {
+      "line": 1400,
+      "type": "missing_subdot",
+      "num": "3.2.10",
+      "text": "#### 3.2.10  Các cửa của lối ra thoát nạn và các cửa khác trên đường thoát nạn phải được mở theo chiều lối thoát từ trong nhà ra ngoài."
+    },
+    {
+      "line": 1415,
+      "type": "missing_subdot",
+      "num": "3.2.11",
+      "text": "#### 3.2.11  Các cửa của các lối ra thoát nạn từ các hành lang tầng, không gian chung, phòng chờ, sảnh và buồng thang bộ phải mở được cửa tự do từ bên trong mà không cần chìa. Trong các nhà có chiều cao PCCC lớn hơn 15 m, các cánh cửa nói trên, ngoại trừ các cửa của căn hộ, phải là cửa đặc hoặc cửa với kính cường lực."
+    },
+    {
+      "line": 1442,
+      "type": "missing_subdot",
+      "num": "3.2.12",
+      "text": "#### 3.2.12  Các lối ra không thoả mãn các yêu cầu đối với lối ra thoát nạn có thể được xem là lối ra khẩn cấp để tăng thêm mức độ an toàn cho người khi có cháy. Mọi lối ra khẩn cấp, bao gồm cả các lối ra khẩn cấp tại 3.2.13, không được đưa vào tính toán thoát nạn khi cháy."
+    },
+    {
+      "line": 1445,
+      "type": "missing_subdot",
+      "num": "3.2.13",
+      "text": "#### 3.2.13  Ngoài trường hợp đã nêu tại 3.2.12, các lối ra khẩn cấp còn gồm có:"
+    },
+    {
+      "line": 1458,
+      "type": "missing_subdot",
+      "num": "3.2.14",
+      "text": "#### 3.2.14  Trong các tầng kỹ thuật cho phép bố trí các lối ra thoát nạn với chiều cao không nhỏ hơn 1,8 m."
+    },
+    {
+      "line": 1641,
+      "type": "missing_subdot",
+      "num": "3.4.10",
+      "text": "#### 3.4.10  Tính không nhiễm khói của khoảng đệm không nhiễm khói dẫn tới các buồng thang bộ không nhiễm khói loại N1 phải được bảo đảm bằng thông gió tự nhiên với các giải pháp kết cấu và bố trí mặt bằng - không gian phù hợp. Một số trường hợp được cho là phù hợp như sau:"
+    },
+    {
+      "line": 1670,
+      "type": "missing_subdot",
+      "num": "3.4.11",
+      "text": "#### 3.4.11  Các buồng thang bộ loại L1 và cầu thang bộ loại 3 được phép bố trí trong các nhà thuộc tất cả các nhóm nguy hiểm cháy theo công năng có chiều cao PCCC tới 28 m; khi đó, trong nhà nhóm F5 hạng A hoặc B, lối ra hành lang tầng từ các gian phòng hạng A hoặc B phải đi qua khoang đệm luôn luôn có áp suất không khí dương."
+    },
+    {
+      "line": 1673,
+      "type": "missing_subdot",
+      "num": "3.4.12",
+      "text": "#### 3.4.12  Các buồng thang bộ loại L2 được phép bố trí trong các nhà có bậc chịu lửa I, II, III thuộc cấp nguy hiểm cháy kết cấu S0, S1 và nhóm nguy hiểm cháy theo công năng F1, F2, F3 và F4, với chiều cao PCCC không quá 9 m. Cho phép tăng chiều cao này đến 12 m (trừ các nhà cơ sở y tế nội trú) với điều kiện lỗ mở lấy sáng trên cao được mở tự động khi có cháy, số lượng các buồng thang như vậy (trừ các nhà nhóm F1.3 và F1.4) cho phép tối đa 50%, các buồng thang bộ còn lại phải có lỗ lấy sáng trên tường ngoài tại mỗi tầng."
+    },
+    {
+      "line": 1678,
+      "type": "missing_subdot",
+      "num": "3.4.13",
+      "text": "#### 3.4.13  Trong các nhà có chiều cao PCCC lớn hơn 28 m (trừ các nhà nhóm F5 hạng C, E không có người làm việc thường xuyên), cũng như trong các nhà nhóm F5 hạng A hoặc B phải bố trí buồng thang bộ không nhiễm khói, trong đó phải bố trí buồng thang loại N1."
+    },
+    {
+      "line": 1699,
+      "type": "missing_subdot",
+      "num": "3.4.14",
+      "text": "#### 3.4.14  Trong các nhà có các buồng thang bộ không nhiễm khói phải bố trí bảo vệ chống khói cho các hành lang chung, các sảnh, các không gian chung và các phòng chờ."
+    },
+    {
+      "line": 1702,
+      "type": "missing_subdot",
+      "num": "3.4.15",
+      "text": "#### 3.4.15  Trong các nhà có bậc chịu lửa I và II; và cấp nguy hiểm cháy kết cấu S0, cho phép bố trí các cầu thang bộ loại 2 đi từ tiền sảnh lên tầng hai có tính đến các yêu cầu tại 4.26."
+    },
+    {
+      "line": 1707,
+      "type": "missing_subdot",
+      "num": "3.4.16",
+      "text": "#### 3.4.16  Trong các nhà có chiều cao PCCC không quá 28 m thuộc các nhóm nguy hiểm cháy theo công năng F1.2, F2, F3, F4, với bậc chịu lửa I, II và cấp nguy hiểm cháy kết cấu S0, thì cho phép sử dụng các cầu thang bộ loại 2 nối hai tầng trở lên, khi các buồng thang bộ thoát nạn đáp ứng yêu cầu của các tài liệu chuẩn và quy định tại 4.27. Các cầu thang bộ loại 2 nối thông từ 3 tầng (sàn) trở lên không được tính toán, sử dụng làm đường thoát nạn khi có cháy, trừ các trường hợp quy định tại 3.2.1, 3.2.2, 3.2.6."
+    },
+    {
+      "line": 1710,
+      "type": "missing_subdot",
+      "num": "3.4.17",
+      "text": "#### 3.4.17  Các thang cuốn phải được bố trí phù hợp các yêu cầu quy định cho cầu thang bộ loại 2."
+    },
+    {
+      "line": 1743,
+      "type": "missing_subdot",
+      "num": "3.5.10",
+      "text": "#### 3.5.10  Cho phép áp dụng các yêu cầu về an toàn cháy đối với vật liệu hoàn thiện - trang trí, vật liệu ốp lát, vật liệu phủ sàn và các tiêu chí thử nghiệm tương ứng theo các tài liệu chuẩn được phép áp dụng để thay thế cho các yêu cầu từ 3.5.1 đến 3.5.9 và Phụ lục B, trừ các yêu cầu quy định tại A.4."
+    },
+    {
+      "line": 1989,
+      "type": "missing_subdot",
+      "num": "5.1.11",
+      "text": "##### 5.1.11  Việc trang bị cấp nước chữa cháy ngoài nhà phải được thực hiện theo quy định tại TCVN 3890 và tài liệu chuẩn thay thế khác."
+    },
+    {
+      "line": 1992,
+      "type": "missing_subdot",
+      "num": "5.1.12",
+      "text": "##### 5.1.12  Chất lượng nước của nguồn cấp nước chữa cháy phải phù hợp với điều kiện vận hành của các phương tiện chữa cháy và phương pháp chữa cháy."
+    },
+    {
+      "line": 1995,
+      "type": "missing_subdot",
+      "num": "5.1.13",
+      "text": "##### 5.1.13  Hệ thống đường ống nước chữa cháy thường có áp suất thấp, khi duy trì áp suất cao thì phải tính toán bảo đảm áp suất làm việc của hệ thống đường ống. Đối với đường ống áp suất cao, các máy bơm chữa cháy phải được trang bị phương tiện bảo đảm hoạt động không trễ hơn 5 phút sau khi có tín hiệu báo cháy."
+    },
+    {
+      "line": 1998,
+      "type": "missing_subdot",
+      "num": "5.1.14",
+      "text": "##### 5.1.14  Áp suất tự do tối thiểu trong đường ống nước chữa cháy áp suất thấp (nằm trên mặt đất) khi chữa cháy phải không nhỏ hơn 10 m. Áp suất tự do tối thiểu trong mạng đường ống chữa cháy áp suất cao phải bảo đảm độ cao tia nước đặc không nhỏ hơn 10 m khi lưu lượng yêu cầu chữa cháy tối đa và lăng chữa cháy ở điểm cao nhất của tòa nhà. Áp suất tự do trong mạng đường ống kết hợp sinh hoạt hoặc sản xuất không nhỏ hơn 10 m và không lớn hơn 60 m."
+    },
+    {
+      "line": 2456,
+      "type": "missing_subdot",
+      "num": "5.2.10",
+      "text": "#### 5.2.10  Các nhà từ 6 tầng trở lên khi liên kết hệ thống nước sinh hoạt và chữa cháy thì các ống đứng phải được nối vòng ở trên. Khi đó để bảo đảm việc thay nước trong nhà phải nối vòng ống đứng với một hoặc một vài ống xả đứng có van khóa."
+    },
+    {
+      "line": 2461,
+      "type": "missing_subdot",
+      "num": "5.2.11",
+      "text": "#### 5.2.11  Việc xác định vị trí và số lượng đường ống đứng và họng nước chữa cháy trong nhà phải bảo đảm quy định sau:"
+    },
+    {
+      "line": 2474,
+      "type": "missing_subdot",
+      "num": "5.2.12",
+      "text": "#### 5.2.12  Các họng nước chữa cháy được lắp đặt sao cho miệng họng nằm ở độ cao 1,20 m ± 0,15 m so với mặt sàn và đặt trong các tủ chữa cháy có lỗ thông gió, được dán niêm phong. Đối với họng nước chữa cháy kép, cho phép lắp đặt 1 họng nằm trên 1 họng nằm dưới, khi đó họng nằm dưới phải lắp có chiều cao không nhỏ hơn 1,0 m tính từ mặt sàn."
+    },
+    {
+      "line": 2477,
+      "type": "missing_subdot",
+      "num": "5.2.13",
+      "text": "#### 5.2.13  Hệ thống họng nước chữa cháy trong nhà và công trình phải có họng chờ lắp đặt ở ngoài nhà, có đầu nối với kích cỡ phù hợp để kết nối với phương tiện chữa cháy di động. Đối với nhà cao từ 17 tầng trở lên, họng chờ cấp nước cho hệ thống họng nước chữa cháy trong nhà phải chia thành các vùng theo chiều cao mỗi vùng không quá 50 m. Các họng này phải được lắp đặt van một chiều và niêm phong mở."
+    },
+    {
+      "line": 2480,
+      "type": "missing_subdot",
+      "num": "5.2.14",
+      "text": "#### 5.2.14  Họng nước chữa cháy bên trong nhà phải được lắp đặt tại các lối vào phía trong hành lang (ở nơi không có nguy cơ nước bị đóng băng) của các buồng thang (trừ các buồng thang không nhiễm khói), tại các sảnh, hành lang, lối đi và những chỗ dễ tiếp cận khác, khi đó việc bố trí phải bảo đảm không gây cản trở các hoạt động thoát nạn."
+    },
+    {
+      "line": 2483,
+      "type": "missing_subdot",
+      "num": "5.2.15",
+      "text": "#### 5.2.15  Tại các khu vực được bảo vệ bằng hệ thống chữa cháy tự động, cho phép lắp đặt họng nước chữa cháy trong nhà trên các đường ống DN 65 hoặc lớn hơn, sau cụm van điều khiển của hệ thống sprinkler bằng nước."
+    },
+    {
+      "line": 2486,
+      "type": "missing_subdot",
+      "num": "5.2.16",
+      "text": "#### 5.2.16  Tại các khu vực kín có khả năng bị đóng bằng, các đường ống của hệ thống họng nước chữa cháy trong nhà ở sau trạm bơm cho phép là đường ống khô."
+    },
+    {
+      "line": 2489,
+      "type": "missing_subdot",
+      "num": "5.2.17",
+      "text": "#### 5.2.17  Những van để khóa nước từ các đường ống nhánh cụt cũng như những van khóa lớn từ đường ống thép khép kín phải được bố trí để bảo đảm mỗi đoạn ống chỉ khóa nhiều nhất là 5 họng nước chữa cháy trên cùng một tầng."
+    },
+    {
+      "line": 2492,
+      "type": "missing_subdot",
+      "num": "5.2.18",
+      "text": "#### 5.2.18  Căn cứ vào công năng của đối tượng bảo vệ có thể lựa chọn các phương án trang bị hệ thống họng nước chữa cháy sau:"
+    },
+    {
+      "line": 2553,
+      "type": "missing_subdot",
+      "num": "6.2.11",
+      "text": "##### 6.2.11  Chiều rộng thông thủy của mặt đường cho xe chữa cháy không được nhỏ hơn 3,5 m."
+    },
+    {
+      "line": 2556,
+      "type": "missing_subdot",
+      "num": "6.2.12",
+      "text": "##### 6.2.12  Bãi đỗ xe chữa cháy phải có chiều rộng thông thủy bảo đảm khả năng đi vào để triển khai các phương tiện chữa cháy phù hợp với chiều cao PCCC và nhóm nguy hiểm cháy theo công năng của nhà như quy định tại Bảng 14."
+    },
+    {
+      "line": 2573,
+      "type": "missing_subdot",
+      "num": "6.2.13",
+      "text": "##### 6.2.13  Chỉ cho phép có các kết cấu chặn phía trên đường cho xe chữa cháy và bãi đỗ xe chữa cháy nếu bảo đảm tất cả những yêu cầu sau:"
+    },
+    {
+      "line": 2586,
+      "type": "missing_subdot",
+      "num": "6.2.14",
+      "text": "##### 6.2.14  Dọc theo tường ngoài của nhà, tại các vị trí đối diện với bãi đỗ xe chữa cháy phải bố trí các lối xuyên qua tường ngoài vào bên trong nhà từ trên cao (lối vào từ trên cao) phù hợp với quy định tại 6.3 để triển khai các hoạt động chữa cháy và cứu nạn."
+    }
+  ],
+  "unpromoted_headings": [
+    [
+      726,
+      "2 2.2.1  Các cấu kiện xây dựng của nhà và công trình, phụ thuộc vào khả năng của chúng chống lại tác động của đám cháy và sự lan truyền các yếu tố nguy hiểm cháy của đám cháy trong điều kiện thử nghiệm tiêu chuẩn, được phân thành các cấu kiện xây dựng với các giới hạn chịu lửa như sau:"
+    ]
+  ],
+  "tables_count": 64,
+  "chuthich_count": 134
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "code": "CH1",
+    "title": "1. QUY ĐỊNH CHUNG",
+    "docx_para_count": 227,
+    "target_md_matches": 158,
+    "target_md_rate": "69.6%",
+    "ext_md_matches": 155,
+    "ext_md_rate": "68.3%"
+  },
+  {
+    "code": "CH2",
+    "title": "2. PHÂN LOẠI KỸ THUẬT VỀ CHÁY",
+    "docx_para_count": 209,
+    "target_md_matches": 161,
+    "target_md_rate": "77.0%",
+    "ext_md_matches": 136,
+    "ext_md_rate": "65.1%"
+  },
+  {
+    "code": "CH3",
+    "title": "3. BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "docx_para_count": 273,
+    "target_md_matches": 246,
+    "target_md_rate": "90.1%",
+    "ext_md_matches": 183,
+    "ext_md_rate": "67.0%"
+  },
+  {
+    "code": "CH4",
+    "title": "4. NGĂN CHẶN CHÁY LAN",
+    "docx_para_count": 114,
+    "target_md_matches": 99,
+    "target_md_rate": "86.8%",
+    "ext_md_matches": 72,
+    "ext_md_rate": "63.2%"
+  },
+  {
+    "code": "CH5",
+    "title": "5. CẤP NƯỚC CHỮA CHÁY",
+    "docx_para_count": 250,
+    "target_md_matches": 216,
+    "target_md_rate": "86.4%",
+    "ext_md_matches": 151,
+    "ext_md_rate": "60.4%"
+  },
+  {
+    "code": "CH6",
+    "title": "6. CHỮA CHÁY VÀ CỨU NẠN",
+    "docx_para_count": 125,
+    "target_md_matches": 118,
+    "target_md_rate": "94.4%",
+    "ext_md_matches": 81,
+    "ext_md_rate": "64.8%"
+  },
+  {
+    "code": "CH7",
+    "title": "7. TỔ CHỨC THỰC HIỆN",
+    "docx_para_count": 5,
+    "target_md_matches": 1,
+    "target_md_rate": "20.0%",
+    "ext_md_matches": 0,
+    "ext_md_rate": "0.0%"
+  },
+  {
+    "code": "PLA",
+    "title": "PHỤ LỤC A",
+    "docx_para_count": 254,
+    "target_md_matches": 70,
+    "target_md_rate": "27.6%",
+    "ext_md_matches": 108,
+    "ext_md_rate": "42.5%"
+  },
+  {
+    "code": "PLB",
+    "title": "PHỤ LỤC B",
+    "docx_para_count": 29,
+    "target_md_matches": 17,
+    "target_md_rate": "58.6%",
+    "ext_md_matches": 19,
+    "ext_md_rate": "65.5%"
+  },
+  {
+    "code": "PLC",
+    "title": "PHỤ LỤC C",
+    "docx_para_count": 73,
+    "target_md_matches": 4,
+    "target_md_rate": "5.5%",
+    "ext_md_matches": 13,
+    "ext_md_rate": "17.8%"
+  },
+  {
+    "code": "PLD",
+    "title": "PHỤ LỤC D",
+    "docx_para_count": 167,
+    "target_md_matches": 5,
+    "target_md_rate": "3.0%",
+    "ext_md_matches": 78,
+    "ext_md_rate": "46.7%"
+  },
+  {
+    "code": "PLE",
+    "title": "PHỤ LỤC E",
+    "docx_para_count": 28,
+    "target_md_matches": 10,
+    "target_md_rate": "35.7%",
+    "ext_md_matches": 17,
+    "ext_md_rate": "60.7%"
+  },
+  {
+    "code": "PLF",
+    "title": "PHỤ LỤC F",
+    "docx_para_count": 19,
+    "target_md_matches": 13,
+    "target_md_rate": "68.4%",
+    "ext_md_matches": 12,
+    "ext_md_rate": "63.2%"
+  },
+  {
+    "code": "PLG",
+    "title": "PHỤ LỤC G",
+    "docx_para_count": 51,
+    "target_md_matches": 15,
+    "target_md_rate": "29.4%",
+    "ext_md_matches": 18,
+    "ext_md_rate": "35.3%"
+  },
+  {
+    "code": "PLH",
+    "title": "PHỤ LỤC H",
+    "docx_para_count": 117,
+    "target_md_matches": 26,
+    "target_md_rate": "22.2%",
+    "ext_md_matches": 46,
+    "ext_md_rate": "39.3%"
+  },
+  {
+    "code": "PLI",
+    "title": "PHỤ LỤC I",
+    "docx_para_count": 44,
+    "target_md_matches": 5,
+    "target_md_rate": "11.4%",
+    "ext_md_matches": 34,
+    "ext_md_rate": "77.3%"
+  }
+]

@@ -2,86 +2,57 @@
   "table_id": "bang_g_6_so_luong_nguoi_toi_da",
   "title": "Bảng G.6 - Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn từ khán đài của các công trình thể thao, biểu diễn ngoài trời",
   "headers": [
-    "Gian phòng",
-    "Bậc chịu lửa của nhà",
-    "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3",
-    "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3",
-    "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3"
+    "Bậc chịu lửa của công trình | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn || --- | --- | --- | --- | --- || Bậc chịu lửa của công trình | Theo các cầu thang bộ của các lối đi chính của khán đài | Theo các cầu thang bộ của các lối đi chính của khán đài | Đi qua cửa ra từ các lối đi chính của khán đài | Đi qua cửa ra từ các lối đi chính của khán đài || Bậc chịu lửa của công trình | Đi xuống | Đi lên | Đi xuống | Đi lên || I, II | 600 | 825 | 620 | 1 230 || III, IV | 420 | 580 | 435 | 860 || V | 300 | 415 | 310 | 615 |_CHÚ THÍCH: Tổng số lượng người thoát nạn đi qua một lối ra thoát nạn không được vượt quá 1 500 người khi khán đài cố bậc chịu lửa I, II. Khi khán đài có bậc chịu lửa là bậc III thì tổng số người đi qua phải giảm xuống 30 % và khi bậc IV và bậc V thì phải giảm xuống 50 %._",
+    "<a id=\"muc-g-2-2\" name=\"muc-g-2-2\"></a>G.2.2  Nhà sản xuất và nhà kho",
+    "<a id=\"muc-g-2-2-1\" name=\"muc-g-2-2-1\"></a>G.2.2.1  Chiều rộng của một lối ra thoát nạn từ một gian phòng phải xác định theo số lượng người cần thoát nạn qua lối ra đó và theo số lượng người trên 1 m chiều rộng của lối ra thoát nạn được quy định tại Bảng G.7, nhưng không nhỏ hơn 0,9 m.",
+    "Số lượng người trên 1 m chiều rộng của một lối ra thoát nạn đối với các trị số trung gian của khối tích của nhà được xác định bằng nội suy tuyến tính.",
+    "Số lượng người trên 1 m chiều rộng của một lối ra thoát nạn từ các gian phòng có chiều cao lớn hơn 6 m được tăng lên như sau:"
   ],
   "rows": [
     {
-      "Gian phòng": "Gian phòng",
-      "Bậc chịu lửa của nhà": "Bậc chịu lửa của nhà",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "> 10"
-    },
-    {
-      "Gian phòng": "(1)",
-      "Bậc chịu lửa của nhà": "(2)",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "(5)"
-    },
-    {
-      "Gian phòng": "1. Các gian phòng chờ, bán vé, trưng bày triển lãm, khiêu vũ, nghỉ và tương tự.",
-      "Bậc chịu lửa của nhà": "I, II",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "55"
-    },
-    {
-      "Gian phòng": "1. Các gian phòng chờ, bán vé, trưng bày triển lãm, khiêu vũ, nghỉ và tương tự.",
-      "Bậc chịu lửa của nhà": "III, IV",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "Xem chú thích"
-    },
-    {
-      "Gian phòng": "1. Các gian phòng chờ, bán vé, trưng bày triển lãm, khiêu vũ, nghỉ và tương tự.",
-      "Bậc chịu lửa của nhà": "V",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "Xem chú thích"
-    },
-    {
-      "Gian phòng": "2. Các gian phòng ăn, phòng đọc khi diện tích của mỗi lối đi chính tính theo đầu người không nhỏ hơn 0,2 m2.",
-      "Bậc chịu lửa của nhà": "I, II",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "Xem chú thích"
-    },
-    {
-      "Gian phòng": "2. Các gian phòng ăn, phòng đọc khi diện tích của mỗi lối đi chính tính theo đầu người không nhỏ hơn 0,2 m2.",
-      "Bậc chịu lửa của nhà": "III, IV",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "Xem chú thích"
-    },
-    {
-      "Gian phòng": "2. Các gian phòng ăn, phòng đọc khi diện tích của mỗi lối đi chính tính theo đầu người không nhỏ hơn 0,2 m2.",
-      "Bậc chịu lửa của nhà": "V",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "Xem chú thích"
-    },
-    {
-      "Gian phòng": "3. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng không nhỏ hơn 25 %.",
-      "Bậc chịu lửa của nhà": "I, II",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "80"
-    },
-    {
-      "Gian phòng": "3. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng không nhỏ hơn 25 %.",
-      "Bậc chịu lửa của nhà": "III, IV",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "Xem chú thích"
-    },
-    {
-      "Gian phòng": "3. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng không nhỏ hơn 25 %.",
-      "Bậc chịu lửa của nhà": "V",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "Xem chú thích"
-    },
-    {
-      "Gian phòng": "4. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng nhỏ hơn 25 %.",
-      "Bậc chịu lửa của nhà": "I, II",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "35"
-    },
-    {
-      "Gian phòng": "4. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng nhỏ hơn 25 %.",
-      "Bậc chịu lửa của nhà": "III, IV",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "Xem chú thích"
-    },
-    {
-      "Gian phòng": "4. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng nhỏ hơn 25 %.",
-      "Bậc chịu lửa của nhà": "V",
-      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3": "Xem chú thích"
+      "Bậc chịu lửa của công trình | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn || --- | --- | --- | --- | --- || Bậc chịu lửa của công trình | Theo các cầu thang bộ của các lối đi chính của khán đài | Theo các cầu thang bộ của các lối đi chính của khán đài | Đi qua cửa ra từ các lối đi chính của khán đài | Đi qua cửa ra từ các lối đi chính của khán đài || Bậc chịu lửa của công trình | Đi xuống | Đi lên | Đi xuống | Đi lên || I, II | 600 | 825 | 620 | 1 230 || III, IV | 420 | 580 | 435 | 860 || V | 300 | 415 | 310 | 615 |_CHÚ THÍCH: Tổng số lượng người thoát nạn đi qua một lối ra thoát nạn không được vượt quá 1 500 người khi khán đài cố bậc chịu lửa I, II. Khi khán đài có bậc chịu lửa là bậc III thì tổng số người đi qua phải giảm xuống 30 % và khi bậc IV và bậc V thì phải giảm xuống 50 %._": "- Tăng lên 20 % khi chiều cao PCCC của nhà là 12 m;",
+      "<a id=\"muc-g-2-2\" name=\"muc-g-2-2\"></a>G.2.2  Nhà sản xuất và nhà kho": "- Tăng lên 30 % khi chiều cao PCCC của nhà là 18 m và tăng lên 40 % khi chiều cao PCCC của nhà là 24 m.",
+      "<a id=\"muc-g-2-2-1\" name=\"muc-g-2-2-1\"></a>G.2.2.1  Chiều rộng của một lối ra thoát nạn từ một gian phòng phải xác định theo số lượng người cần thoát nạn qua lối ra đó và theo số lượng người trên 1 m chiều rộng của lối ra thoát nạn được quy định tại Bảng G.7, nhưng không nhỏ hơn 0,9 m.": "Khi chiều cao PCCC của nhà là các trị số trung gian thì số lượng người trên 1 m chiều rộng của một lối ra thoát nạn được xác định nội suy tuyến tính.",
+      "Số lượng người trên 1 m chiều rộng của một lối ra thoát nạn đối với các trị số trung gian của khối tích của nhà được xác định bằng nội suy tuyến tính.": "",
+      "Số lượng người trên 1 m chiều rộng của một lối ra thoát nạn từ các gian phòng có chiều cao lớn hơn 6 m được tăng lên như sau:": ""
     }
   ],
-  "total_rows": 14,
-  "footnotes": [
-    "CHÚ THÍCH: Khoảng cách giới hạn này phải được xác định theo luận chứng kỹ thuật riêng."
-  ]
+  "total_rows": 1,
+  "footnotes": [],
+  "structured_rows": [
+    [
+      {
+        "raw": "Bậc chịu lửa của công trình | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn | Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn || --- | --- | --- | --- | --- || Bậc chịu lửa của công trình | Theo các cầu thang bộ của các lối đi chính của khán đài | Theo các cầu thang bộ của các lối đi chính của khán đài | Đi qua cửa ra từ các lối đi chính của khán đài | Đi qua cửa ra từ các lối đi chính của khán đài || Bậc chịu lửa của công trình | Đi xuống | Đi lên | Đi xuống | Đi lên || I, II | 600 | 825 | 620 | 1 230 || III, IV | 420 | 580 | 435 | 860 || V | 300 | 415 | 310 | 615 |_CHÚ THÍCH: Tổng số lượng người thoát nạn đi qua một lối ra thoát nạn không được vượt quá 1 500 người khi khán đài cố bậc chịu lửa I, II. Khi khán đài có bậc chịu lửa là bậc III thì tổng số người đi qua phải giảm xuống 30 % và khi bậc IV và bậc V thì phải giảm xuống 50 %._",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "<a id=\"muc-g-2-2\" name=\"muc-g-2-2\"></a>G.2.2  Nhà sản xuất và nhà kho",
+        "numeric_value": null,
+        "unit": null,
+        "condition_refs": []
+      },
+      {
+        "raw": "<a id=\"muc-g-2-2-1\" name=\"muc-g-2-2-1\"></a>G.2.2.1  Chiều rộng của một lối ra thoát nạn từ một gian phòng phải xác định theo số lượng người cần thoát nạn qua lối ra đó và theo số lượng người trên 1 m chiều rộng của lối ra thoát nạn được quy định tại Bảng G.7, nhưng không nhỏ hơn 0,9 m.",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      },
+      {
+        "raw": "Số lượng người trên 1 m chiều rộng của một lối ra thoát nạn đối với các trị số trung gian của khối tích của nhà được xác định bằng nội suy tuyến tính.",
+        "numeric_value": null,
+        "unit": "m",
+        "condition_refs": []
+      },
+      {
+        "raw": "Số lượng người trên 1 m chiều rộng của một lối ra thoát nạn từ các gian phòng có chiều cao lớn hơn 6 m được tăng lên như sau:",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ]
+  ],
+  "structured_footnotes": [],
+  "has_normative_conditions": false
 }

@@ -1,0 +1,17 @@
+{
+  "h1_count": 1,
+  "h2_count": 19,
+  "h3_count": 184,
+  "h4_count": 323,
+  "h5_count": 241,
+  "space_headings_count": 0,
+  "dot_split_anomalies_count": 0,
+  "corrupted_subdots_count": 0,
+  "normalized_subdots_count": 14,
+  "total_anchors": 771,
+  "duplicate_anchors": [],
+  "null_bytes": 0,
+  "replacement_chars": 0,
+  "docx_table_titles_count": 64,
+  "missing_table_titles_count": 0
+}

@@ -1,0 +1,427 @@
+{
+  "A": {
+    "range": "p1212-p1466",
+    "non_empty_paragraphs": 254,
+    "matched_in_md": 70,
+    "match_rate": "27.6%",
+    "missing_count": 184,
+    "missing_samples": [
+      {
+        "p_idx": 1217,
+        "text": "A.1.1.1  Nhà sản xuất dùng cho việc sản xuất sản phẩm, hàng hóa thuộc nhóm F5.1 và F5.2, có không qu"
+      },
+      {
+        "p_idx": 1218,
+        "text": "A.1.1.2  Không áp dụng đối với các nhà có công năng đặc biệt (nhà sản xuất hay bảo quản các chất và "
+      },
+      {
+        "p_idx": 1219,
+        "text": "A.1.1.3  Không áp dụng đối với các nhà và gian phòng sau:"
+      },
+      {
+        "p_idx": 1223,
+        "text": "A.1.1.4  Cho phép không áp dụng đối với nhà sản xuất có sử dụng tiêu chuẩn nước ngoài về phòng cháy "
+      },
+      {
+        "p_idx": 1225,
+        "text": "A.1.2.1  Tổng diện tích nhà lấy bằng tổng diện tích của tất cả các tầng (tầng trên mặt đất, kể cả tầ"
+      },
+      {
+        "p_idx": 1230,
+        "text": "A.1.2.2  Khối tích xây dựng của nhà được xác định là tổng khối tích các phần nhà trên mặt đất tính t"
+      },
+      {
+        "p_idx": 1232,
+        "text": "A.1.2.3  Chiều cao các gian phòng tính từ mặt sàn đến mặt dưới của các bộ phận nhô ra phía dưới trần"
+      },
+      {
+        "p_idx": 1233,
+        "text": "A.1.2.4  Đối với tầng kỹ thuật, nếu yêu cầu công nghệ đòi hỏi phải có lối đi lại để bảo dưỡng thiết "
+      },
+      {
+        "p_idx": 1234,
+        "text": "A.1.2.5  Lối ra từ tầng hầm phải được bố trí ngoài khu vực hoạt động của các thiết bị nâng chuyển."
+      },
+      {
+        "p_idx": 1235,
+        "text": "A.1.2.6  Chiều rộng của khoang đệm và khoang đệm ngăn cháy phía ngoài cửa thang máy phải rộng hơn ch"
+      }
+    ]
+  },
+  "B": {
+    "range": "p1467-p1496",
+    "non_empty_paragraphs": 29,
+    "matched_in_md": 17,
+    "match_rate": "58.6%",
+    "missing_count": 12,
+    "missing_samples": [
+      {
+        "p_idx": 1470,
+        "text": "B.1  Phân loại vật liệu xây dựng theo đặc tính kỹ thuật về cháy"
+      },
+      {
+        "p_idx": 1471,
+        "text": "B.1.1  Các loại vật liệu không cháy và vật liệu cháy"
+      },
+      {
+        "p_idx": 1472,
+        "text": "Vật liệu xây dựng được phân thành hai loại: vật liệu cháy và vật liệu không cháy theo các trị số của"
+      },
+      {
+        "p_idx": 1473,
+        "text": "Vật liệu không cháy là vật liệu bảo đảm trong suốt khoảng thời gian thử nghiệm:"
+      },
+      {
+        "p_idx": 1477,
+        "text": "Vật liệu cháy là vật liệu khi thử nghiệm không thỏa mãn một trong 3 yếu tố trên."
+      },
+      {
+        "p_idx": 1479,
+        "text": "VÍ DỤ: Một số vật liệu thực tế được xếp vào loại vật liệu không cháy như các vật liệu vô cơ nói chun"
+      },
+      {
+        "p_idx": 1480,
+        "text": "B.1.2  Các nhóm vật liệu cháy theo tính cháy"
+      },
+      {
+        "p_idx": 1482,
+        "text": "B.1.3  Các nhóm vật liệu theo tính bắt cháy"
+      },
+      {
+        "p_idx": 1484,
+        "text": "B.1.4  Các nhóm vật liệu theo tính lan truyền lửa trên bề mặt"
+      },
+      {
+        "p_idx": 1486,
+        "text": "B.1.5  Các nhóm vật liệu cháy theo khả năng sinh khói"
+      }
+    ]
+  },
+  "C": {
+    "range": "p1497-p1570",
+    "non_empty_paragraphs": 73,
+    "matched_in_md": 4,
+    "match_rate": "5.5%",
+    "missing_count": 69,
+    "missing_samples": [
+      {
+        "p_idx": 1500,
+        "text": "C.1  Hạng nguy hiểm cháy và cháy nổ của gian phòng"
+      },
+      {
+        "p_idx": 1502,
+        "text": "C.2  Hạng nguy hiểm cháy và cháy nổ của nhà, công trình"
+      },
+      {
+        "p_idx": 1503,
+        "text": "C.2.1  Hạng A"
+      },
+      {
+        "p_idx": 1504,
+        "text": "C.2.1.1  Nhà, công trình được xếp vào hạng A nếu trong nhà, công trình đó có tổng diện tích của các "
+      },
+      {
+        "p_idx": 1505,
+        "text": "C.2.1.2  Nhà, công trình không được xếp vào hạng A nếu tổng diện tích của các gian phòng hạng A tron"
+      },
+      {
+        "p_idx": 1506,
+        "text": "C.2.2  Hạng B"
+      },
+      {
+        "p_idx": 1507,
+        "text": "C.2.2.1  Nhà, công trình được xếp vào hạng B nếu đồng thời thỏa mãn 2 điều kiện sau:"
+      },
+      {
+        "p_idx": 1508,
+        "text": "- Nhà, công trình không thuộc hạng A;"
+      },
+      {
+        "p_idx": 1509,
+        "text": "- Tổng diện tích của các gian phòng hạng A và B vượt quá 5 % tổng diện tích của tất cả các gian phòn"
+      },
+      {
+        "p_idx": 1510,
+        "text": "C.2.2.2  Nhà, công trình không được xếp vào hạng B nếu tổng diện tích của các gian phòng hạng A và B"
+      }
+    ]
+  },
+  "D": {
+    "range": "p1571-p1738",
+    "non_empty_paragraphs": 167,
+    "matched_in_md": 5,
+    "match_rate": "3.0%",
+    "missing_count": 162,
+    "missing_samples": [
+      {
+        "p_idx": 1574,
+        "text": "D.1  Yêu cầu chung"
+      },
+      {
+        "p_idx": 1575,
+        "text": "D.1.1  Việc bảo vệ chống khói cho nhà và công trình nhằm ngăn chặn và (hoặc) hạn chế sự lan truyền k"
+      },
+      {
+        "p_idx": 1576,
+        "text": "- Tạo điều kiện an toàn cho người thoát nạn và bảo vệ tài sản khi xảy ra cháy;"
+      },
+      {
+        "p_idx": 1577,
+        "text": "- Tạo các điều kiện cần thiết cho lực lượng chữa cháy cứu người, phát hiện và khoanh vùng đám cháy t"
+      },
+      {
+        "p_idx": 1578,
+        "text": "D.1.2  Các giải pháp bảo vệ chống khói cho nhà và công trình bao gồm:"
+      },
+      {
+        "p_idx": 1579,
+        "text": "- Phân chia, cô lập khói thành các vùng khói (bể khói);"
+      },
+      {
+        "p_idx": 1580,
+        "text": "- Thông gió tự nhiên khi có cháy;"
+      },
+      {
+        "p_idx": 1581,
+        "text": "- Thông gió thoát khói: bao gồm hệ thống hút xả khói và cấp không khí chống khói theo cơ chế tự nhiê"
+      },
+      {
+        "p_idx": 1582,
+        "text": "- Tạo áp suất dương cho các khu vực cần chống nhiễm khói."
+      },
+      {
+        "p_idx": 1583,
+        "text": "Có thể áp dụng một hoặc đồng thời nhiều giải pháp nêu trên, và phải bảo đảm điều kiện biên dưới của "
+      }
+    ]
+  },
+  "E": {
+    "range": "p1739-p1768",
+    "non_empty_paragraphs": 28,
+    "matched_in_md": 10,
+    "match_rate": "35.7%",
+    "missing_count": 18,
+    "missing_samples": [
+      {
+        "p_idx": 1742,
+        "text": "E.1  Khoảng cách phòng cháy chống cháy giữa các nhà ở, nhà và công trình công cộng, và từ các nhà ở,"
+      },
+      {
+        "p_idx": 1745,
+        "text": "Trong trường hợp cần bảo đảm khoảng cách giữa các nhà, công trình phục vụ công tác chữa cháy và cứu "
+      },
+      {
+        "p_idx": 1746,
+        "text": "CHÚ THÍCH: Xác định khoảng cách phòng cháy chống cháy đối với gara để xe tương tự như đối với nhà kh"
+      },
+      {
+        "p_idx": 1748,
+        "text": "E.2  Khoảng cách phòng cháy chống cháy giữa các nhà sản xuất, nhà kho"
+      },
+      {
+        "p_idx": 1751,
+        "text": "E.3  Xác định diện tích lỗ mở không được bảo vệ chống cháy của tường ngoài và giới hạn chịu lửa tươn"
+      },
+      {
+        "p_idx": 1752,
+        "text": "E.3.1  Khoảng cách phòng cháy chống cháy theo đường ranh giới được quy định trong phần này để xác đị"
+      },
+      {
+        "p_idx": 1753,
+        "text": "E.3.2  Khoảng cách phòng cháy chống cháy theo đường ranh giới là chiều rộng của khoảng không gian hở"
+      },
+      {
+        "p_idx": 1754,
+        "text": "Đường quy ước được xác định như sau:"
+      },
+      {
+        "p_idx": 1755,
+        "text": "- Nếu một nhà đã có sẵn thì đường quy ước sẽ song song và cách mặt ngoài của nhà có sẵn một khoảng c"
+      },
+      {
+        "p_idx": 1756,
+        "text": "- Nếu cả hai nhà đều xây mới thì đường quy ước là đường phù hợp với diện tích mặt ngoài không được b"
+      }
+    ]
+  },
+  "F": {
+    "range": "p1769-p1796",
+    "non_empty_paragraphs": 19,
+    "matched_in_md": 13,
+    "match_rate": "68.4%",
+    "missing_count": 6,
+    "missing_samples": [
+      {
+        "p_idx": 1775,
+        "text": "Bảng F.2-Tường ngoài không chịu lực"
+      },
+      {
+        "p_idx": 1777,
+        "text": "F.2  Dầm bê tông cốt thép"
+      },
+      {
+        "p_idx": 1780,
+        "text": "F.3  Dầm bê tông cốt thép ứng suất trước"
+      },
+      {
+        "p_idx": 1783,
+        "text": "F.4  Cột bê tông cốt thép"
+      },
+      {
+        "p_idx": 1788,
+        "text": "F.5  Kết cấu thép"
+      },
+      {
+        "p_idx": 1792,
+        "text": "F.6  Kết cấu sàn"
+      }
+    ]
+  },
+  "G": {
+    "range": "p1797-p1849",
+    "non_empty_paragraphs": 51,
+    "matched_in_md": 15,
+    "match_rate": "29.4%",
+    "missing_count": 36,
+    "missing_samples": [
+      {
+        "p_idx": 1804,
+        "text": "G.1.2  Công trình công cộng"
+      },
+      {
+        "p_idx": 1805,
+        "text": "G.1.2.1  Khoảng cách giới hạn cho phép theo đường thoát nạn từ cửa ra vào của gian phòng xa nhất của"
+      },
+      {
+        "p_idx": 1807,
+        "text": "G.1.2.2  Khoảng cách giới hạn cho phép từ một điểm bất kỳ của các gian phòng có khối tích khác nhau "
+      },
+      {
+        "p_idx": 1808,
+        "text": "Bảng G.2a - Khoảng cách giới hạn cho phép từ cửa ra vào của gian phòng đến lối ra thoát nạn gần nhất"
+      },
+      {
+        "p_idx": 1809,
+        "text": "Bảng G.2b - Khoảng cách giới hạn cho phép từ một điểm bất kỳ của gian phòng công cộng không có ghế n"
+      },
+      {
+        "p_idx": 1810,
+        "text": "G.1.3  Nhà sản xuất và nhà kho"
+      },
+      {
+        "p_idx": 1811,
+        "text": "G.1.3.1  Khoảng cách giới hạn cho phép từ chỗ làm việc xa nhất trong gian phòng đến lối ra thoát nạn"
+      },
+      {
+        "p_idx": 1812,
+        "text": "G.1.3.2  Khoảng cách giới hạn cho phép quy định tại Bảng G.3 với các trị số trung gian của khối tích"
+      },
+      {
+        "p_idx": 1813,
+        "text": "G.1.3.3  Khoảng cách giới hạn cho phép trong Bằng G.3 được quy định cho các gian phòng có chiều cao "
+      },
+      {
+        "p_idx": 1814,
+        "text": "G.1.3.4  Khoảng cách giới hạn cho phép từ cửa ra vào của gian phòng xa nhất có diện tích không lớn h"
+      }
+    ]
+  },
+  "H": {
+    "range": "p1850-p1967",
+    "non_empty_paragraphs": 117,
+    "matched_in_md": 26,
+    "match_rate": "22.2%",
+    "missing_count": 91,
+    "missing_samples": [
+      {
+        "p_idx": 1853,
+        "text": "H.1  Nhà ở và ký túc xá kiểu căn hộ"
+      },
+      {
+        "p_idx": 1856,
+        "text": "H.2  Nhà công cộng"
+      },
+      {
+        "p_idx": 1857,
+        "text": "H.2.1  Quy định chung"
+      },
+      {
+        "p_idx": 1859,
+        "text": "Cần tuân thủ thêm các quy định bổ sung tại H.2.2 đến H.2.12 đối với các nhà công cộng theo nhóm nguy"
+      },
+      {
+        "p_idx": 1864,
+        "text": "H.2.3  Nhà của các cơ sở thương mại (nhóm F3.1)"
+      },
+      {
+        "p_idx": 1868,
+        "text": "H.2.4.1  Bậc chịu lửa, cấp nguy hiểm cháy kết cấu, chiều cao PCCC lớn nhất cho phép của nhà (khoang "
+      },
+      {
+        "p_idx": 1870,
+        "text": "H.2.4.2  Các tường (mặt trong), vách ngăn và kết cấu sàn tầng của nhà trẻ, mẫu giáo, mầm non (nhóm F"
+      },
+      {
+        "p_idx": 1871,
+        "text": "H.2.4.3  Nhà trẻ, mẫu giáo, mầm non, không phụ thuộc vào số chỗ, phải có chiều cao không được vượt q"
+      },
+      {
+        "p_idx": 1872,
+        "text": "- Hai tầng - đối với nhà trẻ, mẫu giáo, mầm non dành cho trẻ khiếm khuyết về thể chất và (hoặc) trí "
+      },
+      {
+        "p_idx": 1873,
+        "text": "- Một tầng - đối với nhà trẻ, mẫu giáo, mầm non dành cho trẻ bị khiếm thị."
+      }
+    ]
+  },
+  "I": {
+    "range": "p1968-p2036",
+    "non_empty_paragraphs": 44,
+    "matched_in_md": 5,
+    "match_rate": "11.4%",
+    "missing_count": 39,
+    "missing_samples": [
+      {
+        "p_idx": 1971,
+        "text": "I.1  Ngăn cách lối ra thoát nạn của tầng hầm với lối ra thoát nạn của các tầng xuống khi bố trí chun"
+      },
+      {
+        "p_idx": 1973,
+        "text": "a) Hình ảnh tổng thể"
+      },
+      {
+        "p_idx": 1975,
+        "text": "b) Mặt bằng"
+      },
+      {
+        "p_idx": 1977,
+        "text": "Hinh I.1 - Lối ra thoát nạn từ tầng hầm lên được bố trí thoát trực tiếp ra bên ngoài"
+      },
+      {
+        "p_idx": 1979,
+        "text": "a) Hình ảnh tổng thể"
+      },
+      {
+        "p_idx": 1981,
+        "text": "b) Mặt bằng"
+      },
+      {
+        "p_idx": 1982,
+        "text": "Hình I.2 - Lối ra thoát nạn từ tầng hầm lên được bố trí thoát vào sảnh tầng 1 sau đó có lối đi riêng"
+      },
+      {
+        "p_idx": 1983,
+        "text": "I.2  Bố trí phân tán các lối ra thoát nạn (xem 3.2.8)"
+      },
+      {
+        "p_idx": 1985,
+        "text": "a) Hai buồng thang bộ thoát nạn bố trí gần nhau nên không đảm bảo thoát nạn khi có đám cháy ở khu vự"
+      },
+      {
+        "p_idx": 1988,
+        "text": "b) Hai buồng thang bộ thoát nạn bố trí xa nhau nên khi có đám cháy ở khu vực lân cận của một trong h"
+      }
+    ]
+  }
+}

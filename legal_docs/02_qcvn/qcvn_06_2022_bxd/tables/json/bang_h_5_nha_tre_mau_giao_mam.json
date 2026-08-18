@@ -2,93 +2,124 @@
   "table_id": "bang_h_5_nha_tre_mau_giao_mam",
   "title": "Bảng H.5 - Nhà trẻ, mẫu giáo, mầm non",
   "headers": [
-    "Bậc chịu lửa của nhà",
-    "Cấp nguy hiểm cháy kết cấu của nhà",
-    "Chiều cao PCCC lớn nhất cho phép của nhà, m",
-    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2"
+    "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)"
   ],
   "rows": [
     {
-      "Bậc chịu lửa của nhà": "I",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "75",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "2 500"
+      "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)": "<a id=\"muc-h-2-4-2\" name=\"muc-h-2-4-2\"></a>H.2.4.2  Các tường (mặt trong), vách ngăn và kết cấu sàn tầng của nhà trẻ, mẫu giáo, mầm non (nhóm F1.1), cũng như câu lạc bộ (nhóm F2.1) trong các nhà có cấp nguy hiểm cháy kết cấu S1 đến S3, bao gồm cả việc sử dụng kết cấu/cấu kiện gỗ, phải có cấp nguy hiểm cháy K0."
     },
     {
-      "Bậc chịu lửa của nhà": "II",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "50",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "2 500"
+      "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)": "<a id=\"muc-h-2-4-3\" name=\"muc-h-2-4-3\"></a>H.2.4.3  Nhà trẻ, mẫu giáo, mầm non, không phụ thuộc vào số chỗ, phải có chiều cao không được vượt quá:"
     },
     {
-      "Bậc chịu lửa của nhà": "II",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "28",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "2 200"
+      "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)": "- Hai tầng - đối với nhà trẻ, mẫu giáo, mầm non dành cho trẻ khiếm khuyết về thể chất và (hoặc) trí tuệ;"
     },
     {
-      "Bậc chịu lửa của nhà": "III",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "28",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "1 800"
+      "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)": "- Một tầng - đối với nhà trẻ, mẫu giáo, mầm non dành cho trẻ bị khiếm thị."
     },
     {
-      "Bậc chịu lửa của nhà": "III",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "15",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "1 800"
+      "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)": "Trong các nhà trẻ 3 tầng thì các phòng cho lớp bé cần bố trí ở tầng 1."
     },
     {
-      "Bậc chịu lửa của nhà": "IV",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "1 000"
+      "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)": "<a id=\"muc-h-2-4-4\" name=\"muc-h-2-4-4\"></a>H.2.4.4  Trên tầng 3 của nhà trẻ cho phép bố trí các phòng dành cho lớp lớn, phòng học nhạc và thể chất, phòng chơi, phòng phục vụ. Khi đó các phòng có diện tích lớn hơn 50 m2 thì phải có một trong các lối ra thoát nạn dẫn trực tiếp vào buồng thang bộ."
     },
     {
-      "Bậc chịu lửa của nhà": "IV",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "3",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "1 400"
+      "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)": "Trong nhà trẻ, mẫu giáo, mầm non, các hành lang nối các buồng thang bộ cần được ngăn cách với các phòng bằng vách ngăn cháy không thấp hơn loại 2. Các cửa vào các phòng phải được chèn kín."
     },
     {
-      "Bậc chịu lửa của nhà": "IV",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "800"
+      "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)": "<a id=\"muc-h-2-4-5\" name=\"muc-h-2-4-5\"></a>H.2.4.5  Phần phụ của nhà xây liền kề mà được sử dụng làm phòng chơi cho các cháu trong nhà trẻ, mẫu giáo, mầm non cần được thiết kế có cùng bậc chịu lửa và cấp nguy hiểm cháy kết cấu như nhà chính."
     },
     {
-      "Bậc chịu lửa của nhà": "IV",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "3",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "1 200"
+      "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)": "<a id=\"muc-h-2-5\" name=\"muc-h-2-5\"></a>H.2.5  Nhà của trường học phổ thông (nhóm F4.1) và nhà ngủ của các trường nội trú (nhóm F1.1)"
     },
     {
-      "Bậc chịu lửa của nhà": "IV",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S2",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "500"
-    },
-    {
-      "Bậc chịu lửa của nhà": "IV",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S2",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "3",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "900"
-    },
-    {
-      "Bậc chịu lửa của nhà": "V",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "Không quy định",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "500"
-    },
-    {
-      "Bậc chịu lửa của nhà": "V",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "Không quy định",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "3",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "800"
+      "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)": "<a id=\"muc-h-2-5-1\" name=\"muc-h-2-5-1\"></a>H.2.5.1  Bậc chịu lửa, cấp nguy hiểm cháy kết cấu và chiều cao PCCC lớn nhất cho phép của nhà các trường tiểu học, trung học cơ sở, trung học phổ thông, bổ túc, nhà khối học của trường nội trú (nhóm F4.1), nhà ngủ của trường nội trú (F1.1) được xác định theo Bảng H.6. Diện tích lớn nhất cho phép của một tầng trong phạm vi một khoang cháy của những nhà này được xác định theo Bảng H.2. Cần tuân thủ các quy định bổ sung đối với các nhà nhóm này và các yêu cầu nêu tại H.2.12."
     }
   ],
-  "total_rows": 13,
-  "footnotes": [
-    "CHÚ THÍCH 1: Quy định về số tầng (chiều cao PCCC cho phép), diện tích khoang cháy của các nhà thuộc nhóm nguy hiểm cháy theo công năng F1.3 có chiều cao PCCC từ trên 75 m đến 150 m được quy định tại Phụ lục A. CHÚ THÍCH 2: Các bộ phận chịu lực của nhà hai tầng có bậc chịu lửa IV phải có giới hạn chịu lửa không thấp hơn R 30."
-  ]
+  "total_rows": 10,
+  "footnotes": [],
+  "structured_rows": [
+    [
+      {
+        "raw": "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số chỗ trong nhà | Bậc chịu lửa của nhà, không thấp hơn | Cấp nguy hiểm cháy kết cấu của nhà | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng trên mặt đất không kể tầng kỹ thuật trên cùng) || --- | --- | --- | --- || ≤ 50 | Không quy định | Không quy định | 3 (1) || ≤ 100 | III | S0, S1 | 6 (2) || ≤ 150 | II | S0, S1 | 6 (2) || ≤ 350 | II | S0 | 9 (3) || ≤ 350 | I | S0 | 9 (3)",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ]
+  ],
+  "structured_footnotes": [],
+  "has_normative_conditions": false
 }

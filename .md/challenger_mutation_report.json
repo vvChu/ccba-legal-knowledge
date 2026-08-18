@@ -1,0 +1,308 @@
+{
+  "timestamp": "2026-08-17T18:28:27Z",
+  "total_mutants": 36,
+  "killed_mutants": 36,
+  "survived_mutants": 0,
+  "mutation_score_pct": 100.0,
+  "performance_metrics": {
+    "iterations": 5,
+    "avg_docx_parse_sec": 3.1672,
+    "min_docx_parse_sec": 2.6947,
+    "max_docx_parse_sec": 3.4379,
+    "avg_md_parse_sec": 0.148,
+    "min_md_parse_sec": 0.0912,
+    "max_md_parse_sec": 0.2041,
+    "avg_in_memory_assertion_batch_sec": 0.001115,
+    "total_benchmark_time_sec": 16.588
+  },
+  "trials": [
+    {
+      "name": "M1.1: Mutate Bảng 1 cell rating to REI 999",
+      "category": "Table Cell Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Rating 'REI 150' missing from Bảng 1"
+    },
+    {
+      "name": "M1.2: Mutate Bảng 1 REI 150 -> S1 Scenario RAG Failure",
+      "category": "Table Cell Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "REI 150 not found for fire separation walls in Bảng 1"
+    },
+    {
+      "name": "M1.3: Inject pipe artifact '| Col |' into JSON headers",
+      "category": "Table Cell Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Header '| Cột 1 |' in bang_01_gioi_han_chiu_lua_loai contains unparsed pipe delimiters"
+    },
+    {
+      "name": "M1.4: Inject delimiter row '--- | ---' into JSON data rows",
+      "category": "Table Cell Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Table bang_01_gioi_han_chiu_lua_loai row 6 contains separator artifact: '--- | ---'"
+    },
+    {
+      "name": "M1.5: Truncate smallest table C.1 to 0 rows",
+      "category": "Table Cell Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": ""
+    },
+    {
+      "name": "M1.6: Truncate widest table 9 headers to 3 cols",
+      "category": "Table Cell Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": ""
+    },
+    {
+      "name": "M1.7: Violate table ID slug format",
+      "category": "Table Cell Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Table ID 'TABLE-INVALID-SLUG' does not match standard slug convention"
+    },
+    {
+      "name": "M1.8: Inject raw CRLF into table cell values",
+      "category": "Table Cell Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Raw CRLF in bang_01_gioi_han_chiu_lua_loai cell: 'line1\r\nline2'"
+    },
+    {
+      "name": "M2.1: Delete first section 1.1 from Markdown headings",
+      "category": "Text & Paragraph Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "First technical heading 1.1 missing in Markdown"
+    },
+    {
+      "name": "M2.2: Inject dot-split heading 1.4.1.7 into MD",
+      "category": "Text & Paragraph Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Found 1 dot-split heading anomalies: ['1.4.1.7 Khái niệm gian phòng']"
+    },
+    {
+      "name": "M2.3: Inject space-separated heading '4 15' into MD",
+      "category": "Text & Paragraph Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Found 1 space-separated Chapter 4 headings: ['4 15 Khoảng cách']"
+    },
+    {
+      "name": "M2.4: Inject corrupted subdot heading '2.1.11' into MD",
+      "category": "Text & Paragraph Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Found corrupted 4-level subdot headings: ['2.1.11 Quy định bậc chịu lửa']"
+    },
+    {
+      "name": "M2.5: Inject fake residual heading '24 0' into MD",
+      "category": "Text & Paragraph Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Found 1 fake residual headings: ['24 0']"
+    },
+    {
+      "name": "M2.6: Inject synthetic 'LOREM IPSUM' placeholder into MD",
+      "category": "Text & Paragraph Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Found synthetic placeholder 'lorem ipsum' in markdown"
+    },
+    {
+      "name": "M2.7: Inject zero-width space '\\u200b' into heading",
+      "category": "Text & Paragraph Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Zero-width space in heading: '1.1​ Phạm vi điều chỉnh'"
+    },
+    {
+      "name": "M2.8: Remove H1 document title",
+      "category": "Text & Paragraph Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Expected exactly 1 H1 title, found 0: []"
+    },
+    {
+      "name": "M3.1: Purge all anchors from Markdown (0 anchors)",
+      "category": "Anchor & Cross-link Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Expected at least 183 anchors in Markdown, found 0"
+    },
+    {
+      "name": "M3.2: Mutate SD1 cross-link to non-existent target anchor",
+      "category": "Anchor & Cross-link Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Cross-link target 'muc-non-existent-anchor-999' for 'Điểm 1.1.2' missing in base QCVN anchors"
+    },
+    {
+      "name": "M3.3: Mutate SD1 cross-link -> S5 Scenario Navigation Failure",
+      "category": "Anchor & Cross-link Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Expected >= 50 cross-links in SD1, found 1"
+    },
+    {
+      "name": "M3.4: Inject placeholder anchor 'chuong_pl_name' into SD1",
+      "category": "Anchor & Cross-link Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Found placeholder anchor 'chuong_pl_name' in SD1"
+    },
+    {
+      "name": "M3.5: Violate SD1 anchor lowercase kebab format",
+      "category": "Anchor & Cross-link Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Anchor 'SD1_MUC_1_1_UPPER' violates kebab-case 'sd1-*' naming format"
+    },
+    {
+      "name": "M3.6: Remove 'sd1-bang-10' anchor -> S4 Water Flow Override Failure",
+      "category": "Anchor & Cross-link Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Anchor 'sd1-bang-10' missing in SD1"
+    },
+    {
+      "name": "M3.7: Inject anchor collision between AST and Table",
+      "category": "Anchor & Cross-link Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Collision detected between clause anchors and table anchors: {'bang-01'}"
+    },
+    {
+      "name": "M4.1: Invert line range (line_start > line_end) in clauses.json",
+      "category": "AST & QA Benchmark Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Inverted range in clause muc-1-1"
+    },
+    {
+      "name": "M4.2: Violate monotonic line_start ordering in clauses.json",
+      "category": "AST & QA Benchmark Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "clause muc-1-1-1 line_start 60 is not monotonic (prev=9999)"
+    },
+    {
+      "name": "M4.3: Inject duplicate clause_id into clauses.json",
+      "category": "AST & QA Benchmark Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Duplicate clause IDs found: 1 duplicates"
+    },
+    {
+      "name": "M4.4: Mutate QA anchor to unmapped value -> QA sync failure",
+      "category": "AST & QA Benchmark Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "QA anchor 'unmapped_foreign_anchor_xyz' not found in clauses.json"
+    },
+    {
+      "name": "M4.5: Mutate QA anchor -> Pair 12 Bijection Failure",
+      "category": "AST & QA Benchmark Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Found 1 QA anchors not mapped to any AST clause: {'unmapped_foreign_anchor_xyz'}"
+    },
+    {
+      "name": "M4.6: Inject duplicate question into qa_benchmark.json",
+      "category": "AST & QA Benchmark Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Found duplicate questions in QA benchmark: 1 duplicates"
+    },
+    {
+      "name": "M4.7: Empty question in QA benchmark",
+      "category": "AST & QA Benchmark Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "QA #0 has empty question"
+    },
+    {
+      "name": "M4.8: Short answer (< 15 chars) in QA benchmark",
+      "category": "AST & QA Benchmark Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "QA #0 answer too short: 'Short.'"
+    },
+    {
+      "name": "M5.1: Weak Assertion Probe - Unbalanced quotes in test_b3_13",
+      "category": "Vacuous & Weak Assertion Detection",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "ASCII double quotes in markdown are unbalanced"
+    },
+    {
+      "name": "M5.2: Weak Assertion Probe - Missing definition 1.4.72 in test_b5_17",
+      "category": "Vacuous & Weak Assertion Detection",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Definition 1.4.72 missing or invalid in clauses.json"
+    },
+    {
+      "name": "M5.3: Weak Assertion Probe - Bad last QA anchor in test_b5_21",
+      "category": "Vacuous & Weak Assertion Detection",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Last QA node anchor 'invalid_middle_anchor_no_chapter7' does not map to Chapter 7 or Appendix"
+    },
+    {
+      "name": "M5.4: Delete table 1 from JSON table map",
+      "category": "Table Cell Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Table 1 missing from JSON table map"
+    },
+    {
+      "name": "M5.5: Mutate SD1 Table 10 numeric flow rates",
+      "category": "Table Cell Mutations",
+      "expect_fail": true,
+      "actual_passed": false,
+      "killed": true,
+      "error_message": "Water flow value '10' missing in SD1 markdown raw text"
+    }
+  ]
+}

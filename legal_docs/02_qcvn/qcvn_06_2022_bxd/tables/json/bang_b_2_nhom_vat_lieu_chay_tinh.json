@@ -2,25 +2,25 @@
   "table_id": "bang_b_2_nhom_vat_lieu_chay_tinh",
   "title": "Bảng B.2 - Nhóm vật liệu cháy theo tính bắt cháy",
   "headers": [
-    "Nhóm bắt cháy của vật liệu",
-    "Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2"
+    "Nhóm bắt cháy của vật liệu | Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2 || --- | --- || BC1 - khó bắt cháy | ≥ 35 || BC2 - bắt cháy vừa phải | ≥ 20 và < 35 || BC3 - dễ bắt cháy | < 20 |_CHÚ THÍCH: Cường độ thông lượng nhiệt bề mặt tới hạn được xác định theo ISO 5657 hoặc tiêu chuẩn tương đương._"
   ],
   "rows": [
     {
-      "Nhóm bắt cháy của vật liệu": "BC1 - khó bắt cháy",
-      "Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2": "≥ 35"
-    },
-    {
-      "Nhóm bắt cháy của vật liệu": "BC2 - bắt cháy vừa phải",
-      "Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2": "≥ 20 và < 35"
-    },
-    {
-      "Nhóm bắt cháy của vật liệu": "BC3 - dễ bắt cháy",
-      "Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2": "< 20"
+      "Nhóm bắt cháy của vật liệu | Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2 || --- | --- || BC1 - khó bắt cháy | ≥ 35 || BC2 - bắt cháy vừa phải | ≥ 20 và < 35 || BC3 - dễ bắt cháy | < 20 |_CHÚ THÍCH: Cường độ thông lượng nhiệt bề mặt tới hạn được xác định theo ISO 5657 hoặc tiêu chuẩn tương đương._": "<a id=\"muc-b-1-4\" name=\"muc-b-1-4\"></a>B.1.4  Các nhóm vật liệu theo tính lan truyền lửa trên bề mặt"
     }
   ],
-  "total_rows": 3,
-  "footnotes": [
-    "CHÚ THÍCH: Cường độ thông lượng nhiệt bề mặt tới hạn được xác định theo ISO 5657 hoặc tiêu chuẩn tương đương."
-  ]
+  "total_rows": 1,
+  "footnotes": [],
+  "structured_rows": [
+    [
+      {
+        "raw": "Nhóm bắt cháy của vật liệu | Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2 || --- | --- || BC1 - khó bắt cháy | ≥ 35 || BC2 - bắt cháy vừa phải | ≥ 20 và < 35 || BC3 - dễ bắt cháy | < 20 |_CHÚ THÍCH: Cường độ thông lượng nhiệt bề mặt tới hạn được xác định theo ISO 5657 hoặc tiêu chuẩn tương đương._",
+        "numeric_value": null,
+        "unit": "m2",
+        "condition_refs": []
+      }
+    ]
+  ],
+  "structured_footnotes": [],
+  "has_normative_conditions": false
 }

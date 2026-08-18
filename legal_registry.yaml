@@ -1,13 +1,13 @@
-version: 0.2.0
-updated_at: '2026-08-10T11:51:30Z'
+version: 0.3.0
+updated_at: '2026-08-17T17:30:00Z'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 21
+  total_documents: 28
   categories:
-    01_vbpl: 21
-    02_qcvn: 0
+    01_vbpl: 24
+    02_qcvn: 2
     03_tcvn: 0
-    04_appendices: 1
+    04_appendices: 2
 documents: {}
 laws:
 - id: Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347
@@ -39,6 +39,20 @@ laws:
   bundle_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Nha-o/Luat-Xay-dung-2025-135-2025-QH15.aspx
   sha256: d4c3bb7e9ca85b46a43300e2cc96f5b488e4ccf2c18a2aed39bf4e62f64b1517
+- id: Luat-Dau-thau-2023-22-2023-QH15
+  document_number: 22/2023/QH15
+  type: Luật
+  issued_by: Quốc hội
+  signer: Vương Đình Huệ
+  issued_date: '2023-06-23'
+  effective_date: '2024-01-01'
+  published_date: '2023-06-23'
+  status: active
+  relations:
+    replaces: 43/2013/QH13
+  title: Luật Đấu thầu 2023 (Số 22/2023/QH15)
+  bundle_path: legal_docs/01_vbpl/luat_dau_thau_2023_22_2023_qh15/
+  source_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-Dau-thau-2023-so-22-2023-QH15-538466.aspx
 - id: nghi_dinh_217_2026_nd_cp
   document_number: 217/2026/NĐ-CP
   title: Nghị định 217/2026/NĐ-CP về Quản lý dự án đầu tư xây dựng
@@ -65,8 +79,7 @@ laws:
     guided_by: Luat-Xay-dung-2025-135-2025-QH15
 - id: nghi_dinh_212_2026_nd_cp
   document_number: 212/2026/NĐ-CP
-  title: Nghị định 212/2026/NĐ-CP về Điều kiện năng lực hoạt động xây dựng & CSDL
-    quốc gia
+  title: Nghị định 212/2026/NĐ-CP về Điều kiện năng lực hoạt động xây dựng & CSDL quốc gia
   type: Nghị định
   issued_by: Chính phủ
   issued_date: '2026-06-25'
@@ -124,10 +137,34 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-193-2026-ND-CP-quyet-toan-von-dau-tu-du-an.aspx
   relations:
     guided_by: Luat-Xay-dung-2025-135-2025-QH15
+- id: nghi_dinh_105_2025_nd_cp
+  document_number: 105/2025/NĐ-CP
+  title: Nghị định 105/2025/NĐ-CP về Quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ
+  type: Nghị định
+  issued_by: Chính phủ
+  issued_date: '2025-05-15'
+  effective_date: '2025-07-01'
+  status: active
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_105_2025_nd_cp/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-105-2025-ND-CP-thi-hanh-Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho.aspx
+  relations:
+    guided_by: Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347
+- id: nghi_dinh_24_2024_nd_cp
+  document_number: 24/2024/NĐ-CP
+  title: Nghị định 24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu
+  type: Nghị định
+  issued_by: Chính phủ
+  issued_date: '2024-02-27'
+  effective_date: '2024-02-27'
+  status: active
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_24_2024_nd_cp/
+  source_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-24-2024-ND-CP-huong-dan-Luat-Dau-thau-ve-lua-chon-nha-thau-598976.aspx
+  relations:
+    guided_by: Luat-Dau-thau-2023-22-2023-QH15
+    replaces: 63/2014/NĐ-CP
 - id: thong_tu_101_2026_tt_bqp
   document_number: 101/2026/TT-BQP
-  title: Thông tư 101/2026/TT-BQP quy định chi tiết trong lĩnh vực quốc phòng theo
-    Luật Xây dựng 2025
+  title: Thông tư 101/2026/TT-BQP quy định chi tiết trong lĩnh vực quốc phòng theo Luật Xây dựng 2025
   type: Thông tư
   issued_by: Bộ Quốc phòng
   issued_date: '2026-06-30'
@@ -139,8 +176,7 @@ laws:
     guided_by: Luat-Xay-dung-2025-135-2025-QH15
 - id: thong_tu_32_2026_tt_bxd
   document_number: 32/2026/TT-BXD
-  title: Thông tư 32/2026/TT-BXD quy định chi tiết một số điều của Nghị định 207/2026/NĐ-CP
-    về quản lý chất lượng
+  title: Thông tư 32/2026/TT-BXD quy định chi tiết một số điều của Nghị định 207/2026/NĐ-CP về quản lý chất lượng
   type: Thông tư
   issued_by: Bộ Xây dựng
   issued_date: '2026-06-30'
@@ -152,8 +188,7 @@ laws:
     guided_by: nghi_dinh_207_2026_nd_cp
 - id: thong_tu_33_2026_tt_bxd
   document_number: 33/2026/TT-BXD
-  title: Thông tư 33/2026/TT-BXD về đánh giá an toàn công trình trong quá trình khai
-    thác, sử dụng
+  title: Thông tư 33/2026/TT-BXD về đánh giá an toàn công trình trong quá trình khai thác, sử dụng
   type: Thông tư
   issued_by: Bộ Xây dựng
   issued_date: '2026-06-30'
@@ -165,8 +200,7 @@ laws:
     guided_by: nghi_dinh_207_2026_nd_cp
 - id: thong_tu_34_2026_tt_bxd
   document_number: 34/2026/TT-BXD
-  title: Thông tư 34/2026/TT-BXD quy định chi tiết về cấp công trình xây dựng phục
-    vụ quản lý hoạt động xây dựng
+  title: Thông tư 34/2026/TT-BXD quy định chi tiết về cấp công trình xây dựng phục vụ quản lý hoạt động xây dựng
   type: Thông tư
   issued_by: Bộ Xây dựng
   issued_date: '2026-06-30'
@@ -178,8 +212,7 @@ laws:
     guided_by: nghi_dinh_207_2026_nd_cp
 - id: thong_tu_36_2026_tt_bxd
   document_number: 36/2026/TT-BXD
-  title: Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây
-    dựng
+  title: Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng
   type: Thông tư
   issued_by: Bộ Xây dựng
   issued_date: '2026-06-30'
@@ -191,8 +224,7 @@ laws:
     guided_by: nghi_dinh_206_2026_nd_cp
 - id: thong_tu_37_2026_tt_bxd
   document_number: 37/2026/TT-BXD
-  title: Thông tư 37/2026/TT-BXD hướng dẫn phương pháp xác định định mức dự toán và
-    chỉ tiêu kinh tế kỹ thuật
+  title: Thông tư 37/2026/TT-BXD hướng dẫn phương pháp xác định định mức dự toán và chỉ tiêu kinh tế kỹ thuật
   type: Thông tư
   issued_by: Bộ Xây dựng
   issued_date: '2026-06-30'
@@ -216,8 +248,7 @@ laws:
     guided_by: nghi_dinh_206_2026_nd_cp
 - id: thong_tu_39_2026_tt_bxd
   document_number: 39/2026/TT-BXD
-  title: Thông tư 39/2026/TT-BXD hướng dẫn cơ sở dữ liệu quốc gia về hoạt động xây
-    dựng
+  title: Thông tư 39/2026/TT-BXD hướng dẫn cơ sở dữ liệu quốc gia về hoạt động xây dựng
   type: Thông tư
   issued_by: Bộ Xây dựng
   issued_date: '2026-06-30'
@@ -229,8 +260,7 @@ laws:
     guided_by: nghi_dinh_212_2026_nd_cp
 - id: thong_tu_40_2026_tt_bxd
   document_number: 40/2026/TT-BXD
-  title: Thông tư 40/2026/TT-BXD hướng dẫn xác định chi phí bảo trì công trình xây
-    dựng
+  title: Thông tư 40/2026/TT-BXD hướng dẫn xác định chi phí bảo trì công trình xây dựng
   type: Thông tư
   issued_by: Bộ Xây dựng
   issued_date: '2026-06-30'
@@ -242,8 +272,7 @@ laws:
     guided_by: nghi_dinh_207_2026_nd_cp
 - id: thong_tu_41_2026_tt_bxd
   document_number: 41/2026/TT-BXD
-  title: Thông tư 41/2026/TT-BXD về quản lý chất lượng sản phẩm, hàng hóa vật liệu
-    xây dựng
+  title: Thông tư 41/2026/TT-BXD về quản lý chất lượng sản phẩm, hàng hóa vật liệu xây dựng
   type: Thông tư
   issued_by: Bộ Xây dựng
   issued_date: '2026-06-30'
@@ -255,8 +284,7 @@ laws:
     guided_by: nghi_dinh_209_2026_nd_cp
 - id: thong_tu_73_2026_tt_btc
   document_number: 73/2026/TT-BTC
-  title: Thông tư 73/2026/TT-BTC quy định hệ thống mẫu biểu trong công tác quyết toán
-    vốn đầu tư
+  title: Thông tư 73/2026/TT-BTC quy định hệ thống mẫu biểu trong công tác quyết toán vốn đầu tư
   type: Thông tư
   issued_by: Bộ Tài chính
   issued_date: '2026-06-30'
@@ -268,8 +296,7 @@ laws:
     guided_by: nghi_dinh_193_2026_nd_cp
 - id: thong_tu_79_2026_tt_btc
   document_number: 79/2026/TT-BTC
-  title: Thông tư 79/2026/TT-BTC quy định thu, chi của Chủ đầu tư, Ban QLDA sử dụng
-    vốn ngân sách nhà nước
+  title: Thông tư 79/2026/TT-BTC quy định thu, chi của Chủ đầu tư, Ban QLDA sử dụng vốn ngân sách nhà nước
   type: Thông tư
   issued_by: Bộ Tài chính
   issued_date: '2026-06-30'
@@ -279,3 +306,57 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/thong_tu_79_2026_tt_btc.aspx
   relations:
     guided_by: nghi_dinh_193_2026_nd_cp
+- id: QCVN-04-2021-BXD
+  document_number: QCVN 04:2021/BXD
+  title: QCVN 04:2021/BXD — Quy chuẩn kỹ thuật quốc gia về Nhà chung cư (Sửa đổi 01:2026 / TT 31/2026/TT-BXD)
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Xây dựng
+  issued_date: '2021-05-19'
+  effective_date: '2021-07-05'
+  status: current
+  bundle_path: legal_docs/02_qcvn/qcvn_04_2021_bxd/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Nha-o/Thong-tu-03-2021-TT-BXD-Quy-chuan-ky-thuat-quoc-gia-ve-Nha-chung-cu-475266.aspx
+  relations:
+    amendments:
+      - id: SD1-2026-QCVN-04
+        title: Sửa đổi 01:2026 QCVN 04:2021/BXD (Thông tư 31/2026/TT-BXD)
+- id: QCVN-06-2022-BXD
+  document_number: QCVN 06:2022/BXD
+  title: QCVN 06:2022/BXD — Quy chuẩn kỹ thuật quốc gia về An toàn cháy cho nhà và công trình (Sửa đổi 1:2023 / TT 09/2023/TT-BXD)
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Xây dựng
+  issued_date: '2022-11-30'
+  effective_date: '2023-01-16'
+  status: current
+  bundle_path: legal_docs/02_qcvn/qcvn_06_2022_bxd/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Nha-o/Thong-tu-06-2022-TT-BXD-Quy-chuan-ky-thuat-quoc-gia-an-toan-chay-cho-nha-va-cong-trinh-545609.aspx
+  relations:
+    amendments:
+      - id: SD1-2023-QCVN-06
+        title: Sửa đổi 1:2023 QCVN 06:2022/BXD (Thông tư 09/2023/TT-BXD)
+- id: bang_so_sanh_luat_xay_dung_2025_vs_2014
+  document_number: APPENDIX-XD-2025-2014
+  title: Bảng So sánh Nội dung Đổi mới Luật Xây dựng 2025 (135/2025/QH15) vs Luật Xây dựng 2014 (50/2014/QH13)
+  type: Phụ lục đối chiếu
+  issued_by: CCBA Legal Research Group
+  issued_date: '2026-07-01'
+  effective_date: '2026-07-01'
+  status: active
+  bundle_path: legal_docs/04_appendices/bang_so_sanh_luat_xay_dung_2025_vs_2014/
+  relations:
+    compares:
+      - 135/2025/QH15
+      - 50/2014/QH13
+- id: bang_so_sanh_sua_doi_2026
+  document_number: APPENDIX-SD-2026-QCVN-04
+  title: Bảng So sánh Đối chiếu Sửa đổi 01:2026 QCVN 04:2021/BXD (Thông tư 31/2026/TT-BXD)
+  type: Phụ lục đối chiếu
+  issued_by: CCBA Legal Research Group
+  issued_date: '2026-06-15'
+  effective_date: '2026-12-15'
+  status: active
+  bundle_path: legal_docs/04_appendices/bang_so_sanh_sua_doi_2026/
+  relations:
+    compares:
+      - QCVN 04:2021/BXD
+      - 31/2026/TT-BXD

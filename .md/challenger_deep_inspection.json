@@ -1,0 +1,45 @@
+{
+  "non_exact_details": [
+    {
+      "index": 4,
+      "text": "MỤC LỤC",
+      "is_compact": false,
+      "nt": "MỤC LỤC",
+      "ct": "mụclục"
+    },
+    {
+      "index": 136,
+      "text": "1.4 16",
+      "is_compact": true,
+      "nt": "1.4 16",
+      "ct": "1416"
+    },
+    {
+      "index": 395,
+      "text": "2.2.13  Cấu kiện xây dựng được phân loại Theo tính nguy hiểm cháy để xác định mức độ tham gia của chúng vào sự phát triển đám cháy và khả năng hình thành các yếu tố nguy hiểm của đám cháy.",
+      "is_compact": true,
+      "nt": "2.2.13 Cấu kiện xây dựng được phân loại Theo tính nguy hiểm cháy để xác định mức độ tham gia của chúng vào sự phát triển đám cháy và khả năng hình thành các yếu tố nguy hiểm của đám cháy.",
+      "ct": "2213cấukiệnxâydựngđượcphânloạitheotínhnguyhiểmcháyđểxácđịnhmứcđộthamgiacủachúngvàosựpháttriểnđámcháyvàkhảnănghìnhthànhcácyếutốnguyhiểmcủađámcháy"
+    },
+    {
+      "index": 397,
+      "text": "2 2.2.1  Các cấu kiện xây dựng của nhà và công trình, phụ thuộc vào khả năng của chúng chống lại tác động của đám cháy và sự lan truyền các yếu tố nguy hiểm cháy của đám cháy trong điều kiện thử nghiệm tiêu chuẩn, được phân thành các cấu kiện xây dựng với các giới hạn chịu lửa như sau:",
+      "is_compact": true,
+      "nt": "2 2.2.1 Các cấu kiện xây dựng của nhà và công trình, phụ thuộc vào khả năng của chúng chống lại tác động của đám cháy và sự lan truyền các yếu tố nguy hiểm cháy của đám cháy trong điều kiện thử nghiệm tiêu chuẩn, được phân thành các cấu kiện xây dựng với các giới hạn chịu lửa như sau:",
+      "ct": "2221cáccấukiệnxâydựngcủanhàvàcôngtrìnhphụthuộcvàokhảnăngcủachúngchốnglạitácđộngcủađámcháyvàsựlantruyềncácyếutốnguyhiểmcháycủađámcháytrongđiềukiệnthửnghiệmtiêuchuẩnđượcphânthànhcáccấukiệnxâydựngvớicácgiớihạnchịulửanhưsau"
+    },
+    {
+      "index": 1775,
+      "text": "Bảng F.2-Tường ngoài không chịu lực",
+      "is_compact": true,
+      "nt": "Bảng F.2-Tường ngoài không chịu lực",
+      "ct": "bảngf2tườngngoàikhôngchịulực"
+    }
+  ],
+  "total_sentences": 2211,
+  "found_sentences": 2211,
+  "missing_sentences": [],
+  "total_notes": 94,
+  "notes_found": 94,
+  "missing_notes": []
+}

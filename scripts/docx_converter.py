@@ -25,22 +25,27 @@ def normalize_docx_markdown(md_text: str) -> str:
     # Remove escaped dots, hyphens, and brackets
     md_text = md_text.replace(r"\.", ".").replace(r"\-", "-").replace(r"\(", "(").replace(r"\)", ")")
 
-    # Clean double ### headers if any exist
-    md_text = re.sub(r"(###\s*)+", "### ", md_text)
-
-    # Replace bold section headings __1.1 Title__ with ### 1.1 Title
-    md_text = re.sub(r'<a id="[^"]+"></a>\s*__(\d+(?:\.\d+)*)\.?\s*([^_]+)__', r"### \1 \2", md_text)
-    md_text = re.sub(r"__(\d+(?:\.\d+)*)\.?\s*([^_]+)__", r"### \1 \2", md_text)
+    # Replace bold Chapter and Article headings
+    md_text = re.sub(r"__(Chương\s+[IVXLCDM0-9]+(?::\s*[^_]+)?)__", r"## \1", md_text)
+    md_text = re.sub(r"__(Điều\s+\d+\.\s*[^_]+)__", r"### \1", md_text)
+    
+    # Replace bold Appendix headings (Appendices A through I and Roman numerals)
+    md_text = re.sub(r"__(Phụ lục\s+[A-Za-z0-9]+(?:\s*\([^)]+\))?(?:\.\s*[^_]+)?)__", r"## \1", md_text, flags=re.IGNORECASE)
+    md_text = re.sub(r"^#*\s*(PHỤ LỤC\s+[A-I]\b[^\n]*)", r"## \1", md_text, flags=re.MULTILINE | re.IGNORECASE)
 
     # Replace bold table headings __Bảng X - Title__ with ### Bảng X - Title
     md_text = re.sub(r"__Bảng\s+([A-Z0-9]+(?:\.[0-9]+)?)\s*[-–:]\s*([^_]+)__", r"### Bảng \1 - \2", md_text)
 
-    # Replace bold Chapter, Article, and Appendix headings
-    md_text = re.sub(r"__(Chương\s+[IVXLCDM0-9]+(?::\s*[^_]+)?)__", r"### \1", md_text)
-    md_text = re.sub(r"__(Điều\s+\d+\.\s*[^_]+)__", r"### \1", md_text)
-    md_text = re.sub(r"__(Phụ lục\s+[IVXLCDM0-9]+(?:\.\s*[^_]+)?)__", r"### \1", md_text)
+    # Replace bold section headings with hierarchical Markdown headings
+    # 4-level: __1.1.1.1 Title__ -> ##### 1.1.1.1 Title
+    md_text = re.sub(r"__((?:[1-7]|[A-I])\.\d+\.\d+\.\d+)\.?\s*([^_]+)__", r"##### \1 \2", md_text)
+    # 3-level: __1.1.1 Title__ -> #### 1.1.1 Title
+    md_text = re.sub(r"__((?:[1-7]|[A-I])\.\d+\.\d+)\.?\s*([^_]+)__", r"#### \1 \2", md_text)
+    # 2-level: __1.1 Title__ -> ### 1.1 Title
+    md_text = re.sub(r"__((?:[1-7]|[A-I])\.\d+)\.?\s*([^_]+)__", r"### \1 \2", md_text)
 
-    # Clean any duplicate ### ### prefixes
+    # Clean double ### headers if any exist
+    md_text = re.sub(r"(###\s*)+", "### ", md_text)
     md_text = re.sub(r"###\s*###\s*", "### ", md_text)
 
     return md_text

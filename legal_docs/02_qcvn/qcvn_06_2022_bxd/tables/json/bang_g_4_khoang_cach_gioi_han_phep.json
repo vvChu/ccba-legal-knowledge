@@ -2,53 +2,113 @@
   "table_id": "bang_g_4_khoang_cach_gioi_han_phep",
   "title": "Bảng G.4 - Khoảng cách giới hạn cho phép từ cửa ra vào của gian phòng sản xuất có diện tích đến 1 000 m2 đến lối ra thoát nạn gần nhất",
   "headers": [
-    "Bậc chịu lửa của nhà",
-    "Cấp nguy hiểm cháy kết cấu của nhà",
-    "Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m",
-    "Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m"
+    "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m"
   ],
   "rows": [
     {
-      "Bậc chịu lửa của nhà": "Bậc chịu lửa của nhà",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "Cấp nguy hiểm cháy kết cấu của nhà",
-      "Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "Khi cửa bố trí ở hành lang cụt"
+      "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "--- | --- | --- | ---"
     },
     {
-      "Bậc chịu lửa của nhà": "I, II",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
-      "Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "25"
+      "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khi cửa bố trí ở giữa các buồng thang bộ hoặc giữa các lối ra ngoài | Khi cửa bố trí ở hành lang cụt"
     },
     {
-      "Bậc chịu lửa của nhà": "II",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
-      "Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "20"
+      "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "I, II | S0 | 40 | 25"
     },
     {
-      "Bậc chịu lửa của nhà": "III",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
-      "Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "20"
+      "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "II | S1 | 30 | 20"
     },
     {
-      "Bậc chịu lửa của nhà": "III",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
-      "Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "15"
+      "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "III | S0 | 30 | 20"
     },
     {
-      "Bậc chịu lửa của nhà": "IV",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
-      "Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "15"
+      "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "III | S1 | 25 | 15"
     },
     {
-      "Bậc chịu lửa của nhà": "IV",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S1, S2",
-      "Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "10"
+      "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "IV | S0 | 25 | 15"
     },
     {
-      "Bậc chịu lửa của nhà": "V",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "Không quy định",
-      "Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "10"
+      "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "IV | S1, S2 | 20 | 10"
+    },
+    {
+      "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m": "V | Không quy định | 20 | 10"
     }
   ],
-  "total_rows": 8,
-  "footnotes": []
+  "total_rows": 9,
+  "footnotes": [],
+  "structured_rows": [
+    [
+      {
+        "raw": "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m | Khoảng cách giới hạn cho phép từ cửa ra vào căn hộ hoặc phòng ở đến lối ra thoát nạn gần nhất, m",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ]
+  ],
+  "structured_footnotes": [],
+  "has_normative_conditions": false
 }

@@ -2,80 +2,91 @@
   "table_id": "bang_h_6_nha_truong_hoc_pho_thong",
   "title": "Bảng H.6 - Nhà của trường học phổ thông (nhóm F4.1) và nhà ngủ của các trường nội trú (nhóm F1.1)",
   "headers": [
-    "Bậc chịu lửa của nhà",
-    "Cấp nguy hiểm cháy kết cấu của nhà",
-    "Chiều cao PCCC lớn nhất cho phép của nhà, m",
-    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)",
-    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)",
-    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)",
-    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)",
-    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)",
-    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)"
+    "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._"
   ],
   "rows": [
     {
-      "Bậc chịu lửa của nhà": "Bậc chịu lửa của nhà",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "Cấp nguy hiểm cháy kết cấu của nhà",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "Chiều cao PCCC lớn nhất cho phép của nhà, m",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "10 đến 16"
+      "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._": "<a id=\"muc-h-2-5-2\" name=\"muc-h-2-5-2\"></a>H.2.5.2  Chiều cao PCCC của các nhà khối học và nhà nội trú dành cho trẻ em khiếm khuyết về thể chất và (hoặc) trí tuệ không được cao quá 9 m."
     },
     {
-      "Bậc chịu lửa của nhà": "I",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "50",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "2 500"
+      "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._": "<a id=\"muc-h-2-6\" name=\"muc-h-2-6\"></a>H.2.6  Nhà của cơ sở văn hóa"
     },
     {
-      "Bậc chịu lửa của nhà": "II",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "50",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "2 200"
+      "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._": "<a id=\"muc-h-2-6-1\" name=\"muc-h-2-6-1\"></a>H.2.6.1  Bậc chịu lửa, cấp nguy hiểm cháy kết cấu và chiều cao PCCC lớn nhất cho phép đối với các nhà của các cơ sở văn hóa nhóm F2.1 và F2.2 (thư viện, bảo tàng, triển lãm, câu lạc bộ, nhà hát, phòng hòa nhạc, rạp chiếu phim, rạp xiếc và các nhà có đặc điểm sử dụng tương tự) xác định theo Bảng H.7 phụ thuộc vào sức chứa của nhà hoặc gian phòng."
     },
     {
-      "Bậc chịu lửa của nhà": "II",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "28",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
+      "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._": "<a id=\"muc-h-2-6-2\" name=\"muc-h-2-6-2\"></a>H.2.6.2  Cần tuân thủ các quy định bổ sung đối với các nhà thuộc nhóm này và các quy định tại H.2.12."
     },
     {
-      "Bậc chịu lửa của nhà": "III",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "15",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
+      "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._": "<a id=\"muc-h-2-6-3\" name=\"muc-h-2-6-3\"></a>H.2.6.3  Khi xác định sức chứa của gian phòng thì cần cộng tổng số chỗ cố định và tạm thời."
     },
     {
-      "Bậc chịu lửa của nhà": "III",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "12",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
+      "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._": "Khi rạp chiếu phim có một số phòng chiếu phim thì tổng sức chứa của các phòng này không được vượt quá giá trị quy định tại Bảng H.7."
     },
     {
-      "Bậc chịu lửa của nhà": "IV",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "9",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
-    },
-    {
-      "Bậc chịu lửa của nhà": "IV",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "6",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
-    },
-    {
-      "Bậc chịu lửa của nhà": "IV",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S2, S3",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "6",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
-    },
-    {
-      "Bậc chịu lửa của nhà": "V",
-      "Cấp nguy hiểm cháy kết cấu của nhà": "S1, S2, S3",
-      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "6",
-      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2, với số tầng trên mặt đất (không tính tầng kỹ thuật trên cùng)": "-"
+      "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._": "<a id=\"muc-h-2-6-4\" name=\"muc-h-2-6-4\"></a>H.2.6.4  Kết cấu chịu lực của mái (giàn, dầm và kết cấu đỡ mái tương tự khác) trên sân khấu và các gian phòng của nhà hát, câu lạc bộ và các công trình thể thao có bậc chịu lửa từ I đến III cần có giới hạn chịu lửa không thấp hơn R 45."
     }
   ],
-  "total_rows": 10,
-  "footnotes": [
-    "CHÚ THÍCH 1: Bảng này được áp dụng cho các loại nhà công cộng được đề cập trong H.2.1, trừ khi có quy định khác nêu tại H.2.2 đến H.2.12. CHÚ THÍCH 2: Dấu “-” trong bảng có nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng. CHÚ THÍCH 3: Trong nhà có bậc chịu lửa IV với chiều cao 2 tầng thì kết cấu chịu lực của nhà phải có giới hạn chịu lửa không thấp hơn R 45. CHÚ THÍCH 4: Quy định về số tầng (chiều cao PCCC cho phép), diện tích khoang cháy của các nhà công cộng có chiều cao PCCC từ trên 50 m đến 150 m được quy định tại Phụ lục A."
-  ]
+  "total_rows": 7,
+  "footnotes": [],
+  "structured_rows": [
+    [
+      {
+        "raw": "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ],
+    [
+      {
+        "raw": "Số học sinh hoặc số chỗ trong nhà | Cấp nguy hiểm cháy kết cấu | Bậc chịu lửa tối thiểu | Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng) || --- | --- | --- | --- || ≤ 100 | Không quy định | Không quy định | 3 (1) || ≤ 270 | S1 | III | 3 (1) || ≤ 350 | S0 | III | 7 (2) || ≤ 350 | S1 | II | 7 (2) || ≤ 600 | S0 | II | 11 (3) || Không hạn chế | S0 | I | 19 (5) || Nhà ngủ | Nhà ngủ | Nhà ngủ | Nhà ngủ || ≤ 40 | Không quy định | Không quy định | 3 (1) || ≤ 80 | S1, S2, S3 | IV | 3 (1) || ≤ 140 | S0 | IV | 3 (1) || ≤ 200 | S1 | III | 3 (1) || ≤ 280 | S0 | III | 7 (2) || Không hạn chế | S0 | I, II | 15 (4) |_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._",
+        "numeric_value": null,
+        "unit": "h",
+        "condition_refs": []
+      }
+    ]
+  ],
+  "structured_footnotes": [],
+  "has_normative_conditions": false
 }

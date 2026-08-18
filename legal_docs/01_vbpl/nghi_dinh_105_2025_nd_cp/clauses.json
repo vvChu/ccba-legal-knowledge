@@ -1,0 +1,891 @@
+[
+  {
+    "clause_id": "dieu-1",
+    "anchor": "dieu-1",
+    "title": "Điều 1. Phạm vi điều chỉnh",
+    "line_start": 39,
+    "line_end": 39
+  },
+  {
+    "clause_id": "dieu-1-khoan-1",
+    "anchor": "dieu-1-khoan-1",
+    "title": "1. Nghị định này quy định chi tiết một số điều của Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15 về:",
+    "line_start": 42,
+    "line_end": 42
+  },
+  {
+    "clause_id": "dieu-1-khoan-2",
+    "anchor": "dieu-1-khoan-2",
+    "title": "2. Các hoạt động phòng cháy, chữa cháy và cứu nạn, cứu hộ đối với công trình quốc phòng, an ninh phục vụ mục đích quân sự đặc biệt thực hiện theo quy định riêng của Bộ Quốc phòng và Bộ Công an.",
+    "line_start": 59,
+    "line_end": 59
+  },
+  {
+    "clause_id": "dieu-2",
+    "anchor": "dieu-2",
+    "title": "Điều 2. Đối tượng áp dụng",
+    "line_start": 63,
+    "line_end": 63
+  },
+  {
+    "clause_id": "dieu-2-khoan-1",
+    "anchor": "dieu-2-khoan-1",
+    "title": "1. Cơ quan, tổ chức, hộ gia đình và cá nhân hoạt động, sinh sống trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+    "line_start": 66,
+    "line_end": 66
+  },
+  {
+    "clause_id": "dieu-2-khoan-2",
+    "anchor": "dieu-2-khoan-2",
+    "title": "2. Cơ quan quản lý nhà nước về phòng cháy, chữa cháy, cơ quan chuyên môn về xây dựng các cấp, chủ đầu tư, tổ chức tư vấn thiết kế, tư vấn thẩm tra, nhà thầu thi công xây dựng và các tổ chức, cá nhân có liên quan đến hoạt động đầu tư xây dựng công trình.",
+    "line_start": 69,
+    "line_end": 69
+  },
+  {
+    "clause_id": "dieu-3",
+    "anchor": "dieu-3",
+    "title": "Điều 3. Giải thích từ ngữ",
+    "line_start": 73,
+    "line_end": 73
+  },
+  {
+    "clause_id": "dieu-3-khoan-1",
+    "anchor": "dieu-3-khoan-1",
+    "title": "1. *Cơ quan chuyên môn về xây dựng* là cơ quan có thẩm quyền thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng, thiết kế xây dựng triển khai sau thiết kế cơ sở theo quy định của pháp luật về xây dựng.",
+    "line_start": 78,
+    "line_end": 78
+  },
+  {
+    "clause_id": "dieu-3-khoan-2",
+    "anchor": "dieu-3-khoan-2",
+    "title": "2. *Cơ quan Công an thẩm định thiết kế PCCC* là Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ thuộc Bộ Công an hoặc Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ (PC07) thuộc Công an tỉnh, thành phố trực thuộc Trung ương theo phân cấp.",
+    "line_start": 81,
+    "line_end": 81
+  },
+  {
+    "clause_id": "dieu-3-khoan-3",
+    "anchor": "dieu-3-khoan-3",
+    "title": "3. *Hệ thống thiết bị phòng cháy chữa cháy cơ điện (MEP)* bao gồm hệ thống báo cháy tự động, hệ thống chữa cháy bằng nước, bọt, khí, aerosol, hệ thống cấp nước chữa cháy ngoài nhà, trụ nước chữa cháy, bình chữa cháy và phương tiện chữa cháy cơ giới.",
+    "line_start": 84,
+    "line_end": 84
+  },
+  {
+    "clause_id": "dieu-3-khoan-4",
+    "anchor": "dieu-3-khoan-4",
+    "title": "4. *Giải pháp kiến trúc và kết cấu PCCC* bao gồm bậc chịu lửa của công trình, giới hạn chịu lửa của các cấu kiện xây dựng, giải pháp phân khoang cháy, vách ngăn cháy, cửa ngăn cháy, khoảng cách an toàn phòng cháy chống cháy lan, đường thoát nạn, lối thoát nạn khẩn cấp và hệ thống kiểm soát khói, thông gió hút khói.",
+    "line_start": 87,
+    "line_end": 87
+  },
+  {
+    "clause_id": "dieu-4",
+    "anchor": "dieu-4",
+    "title": "Điều 4. Nguyên tắc quản lý, thẩm định và nghiệm thu về phòng cháy, chữa cháy",
+    "line_start": 91,
+    "line_end": 91
+  },
+  {
+    "clause_id": "dieu-4-khoan-1",
+    "anchor": "dieu-4-khoan-1",
+    "title": "1. Tuân thủ Hiến pháp, pháp luật, tiêu chuẩn, quy chuẩn kỹ thuật quốc gia về an toàn phòng cháy chữa cháy và xây dựng.",
+    "line_start": 94,
+    "line_end": 94
+  },
+  {
+    "clause_id": "dieu-4-khoan-2",
+    "anchor": "dieu-4-khoan-2",
+    "title": "2. Bảo đảm nguyên tắc một cửa liên thông, không gây phiền hà, trùng lặp trong hoạt động kiểm tra, thẩm định thiết kế xây dựng và thẩm định thiết kế phòng cháy chữa cháy.",
+    "line_start": 97,
+    "line_end": 97
+  },
+  {
+    "clause_id": "dieu-4-khoan-3",
+    "anchor": "dieu-4-khoan-3",
+    "title": "3. Chủ đầu tư chịu trách nhiệm toàn diện trước pháp luật về tính chính xác, trung thực của hồ sơ thiết kế, việc tuân thủ các quy chuẩn kỹ thuật và chất lượng thi công xây dựng công trình về phòng cháy và chữa cháy.",
+    "line_start": 100,
+    "line_end": 100
+  },
+  {
+    "clause_id": "dieu-5",
+    "anchor": "dieu-5",
+    "title": "Điều 5. Áp dụng quy chuẩn kỹ thuật và tiêu chuẩn về phòng cháy, chữa cháy",
+    "line_start": 104,
+    "line_end": 104
+  },
+  {
+    "clause_id": "dieu-5-khoan-1",
+    "anchor": "dieu-5-khoan-1",
+    "title": "1. Dự án, công trình xây dựng phải áp dụng bắt buộc các quy chuẩn kỹ thuật quốc gia về phòng cháy, chữa cháy (QCVN 06, QCVN 04, QCVN 10 và các quy chuẩn chuyên ngành liên quan).",
+    "line_start": 107,
+    "line_end": 107
+  },
+  {
+    "clause_id": "dieu-5-khoan-2",
+    "anchor": "dieu-5-khoan-2",
+    "title": "2. Khuyến khích áp dụng các tiêu chuẩn quốc tế, tiêu chuẩn nước ngoài có quy định an toàn tương đương hoặc cao hơn tiêu chuẩn quốc gia Việt Nam sau khi được cơ quan quản lý nhà nước có thẩm quyền chấp thuận.",
+    "line_start": 110,
+    "line_end": 110
+  },
+  {
+    "clause_id": "dieu-6",
+    "anchor": "dieu-6",
+    "title": "Điều 6. Điều kiện an toàn PCCC đối với công trình xây dựng mới",
+    "line_start": 120,
+    "line_end": 120
+  },
+  {
+    "clause_id": "dieu-6-khoan-1",
+    "anchor": "dieu-6-khoan-1",
+    "title": "1. Có thiết kế xây dựng về phòng cháy và chữa cháy được thẩm định hoặc tự thẩm định theo đúng thẩm quyền quy định tại Điều 16 và Điều 17 Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15 và Nghị định này.",
+    "line_start": 123,
+    "line_end": 123
+  },
+  {
+    "clause_id": "dieu-6-khoan-2",
+    "anchor": "dieu-6-khoan-2",
+    "title": "2. Bố trí đầy đủ hệ thống giao thông, bãi đỗ phục vụ xe chữa cháy và xe thang hoạt động theo quy định của quy chuẩn kỹ thuật.",
+    "line_start": 126,
+    "line_end": 126
+  },
+  {
+    "clause_id": "dieu-6-khoan-3",
+    "anchor": "dieu-6-khoan-3",
+    "title": "3. Bảo đảm khoảng cách an toàn phòng cháy chữa cháy giữa các công trình, giữa công trình với ranh giới khu đất lân cận.",
+    "line_start": 129,
+    "line_end": 129
+  },
+  {
+    "clause_id": "dieu-6-khoan-4",
+    "anchor": "dieu-6-khoan-4",
+    "title": "4. Có giải pháp ngăn cháy, chống cháy lan, thoát nạn cho người và kiểm soát khói theo đúng quy chuẩn kỹ thuật quốc gia.",
+    "line_start": 132,
+    "line_end": 132
+  },
+  {
+    "clause_id": "dieu-6-khoan-5",
+    "anchor": "dieu-6-khoan-5",
+    "title": "5. Trang bị đầy đủ hệ thống báo cháy, chữa cháy, cấp nước chữa cháy, chiếu sáng sự cố, chỉ dẫn thoát nạn và phương tiện cứu nạn cứu hộ phù hợp với quy mô và tính chất nguy hiểm cháy của công trình.",
+    "line_start": 135,
+    "line_end": 135
+  },
+  {
+    "clause_id": "dieu-7",
+    "anchor": "dieu-7",
+    "title": "Điều 7. Điều kiện an toàn PCCC đối với công trình cải tạo, thay đổi công năng",
+    "line_start": 139,
+    "line_end": 139
+  },
+  {
+    "clause_id": "dieu-7-khoan-1",
+    "anchor": "dieu-7-khoan-1",
+    "title": "1. Khi cải tạo, sửa chữa hoặc thay đổi công năng làm tăng tính chất nguy hiểm cháy của công trình hoặc khoang cháy, chủ đầu tư phải lập hồ sơ thiết kế điều chỉnh về PCCC và thực hiện thẩm định theo quy định.",
+    "line_start": 142,
+    "line_end": 142
+  },
+  {
+    "clause_id": "dieu-7-khoan-2",
+    "anchor": "dieu-7-khoan-2",
+    "title": "2. Công trình cải tạo phải bảo đảm không làm suy giảm điều kiện an toàn thoát nạn, khả năng chịu lửa của kết cấu chịu lực và hiệu quả hoạt động của các hệ thống PCCC hiện hữu.",
+    "line_start": 145,
+    "line_end": 145
+  },
+  {
+    "clause_id": "dieu-8",
+    "anchor": "dieu-8",
+    "title": "Điều 8. Trách nhiệm của Chủ đầu tư trong việc tự tổ chức thẩm định thiết kế PCCC",
+    "line_start": 149,
+    "line_end": 149
+  },
+  {
+    "clause_id": "dieu-8-khoan-1",
+    "anchor": "dieu-8-khoan-1",
+    "title": "1. Căn cứ điểm đ khoản 1 Điều 17 Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15, đối với các công trình không thuộc đối tượng quy định tại Phụ lục I và Phụ lục II ban hành kèm theo Nghị định này, Chủ đầu tư có trách nhiệm tự tổ chức thẩm định thiết kế về phòng cháy và chữa cháy.",
+    "line_start": 152,
+    "line_end": 152
+  },
+  {
+    "clause_id": "dieu-8-khoan-2",
+    "anchor": "dieu-8-khoan-2",
+    "title": "2. Chủ đầu tư được thuê tổ chức tư vấn thẩm tra thiết kế có đủ điều kiện năng lực hoạt động theo quy định của pháp luật để thực hiện thẩm tra thiết kế PCCC làm cơ sở thẩm định.",
+    "line_start": 155,
+    "line_end": 155
+  },
+  {
+    "clause_id": "dieu-8-khoan-3",
+    "anchor": "dieu-8-khoan-3",
+    "title": "3. Kết quả tự thẩm định thiết kế PCCC phải được thể hiện bằng văn bản theo Mẫu số PC13 ban hành kèm theo Nghị định này, được người đại diện theo pháp luật của Chủ đầu tư ký, đóng dấu và lưu trữ trong hồ sơ quản lý dự án.",
+    "line_start": 158,
+    "line_end": 158
+  },
+  {
+    "clause_id": "dieu-9",
+    "anchor": "dieu-9",
+    "title": "Điều 9. Yêu cầu an toàn PCCC đối với bãi đỗ xe và trạm sạc xe điện",
+    "line_start": 162,
+    "line_end": 162
+  },
+  {
+    "clause_id": "dieu-9-khoan-1",
+    "anchor": "dieu-9-khoan-1",
+    "title": "1. Bãi đỗ xe điện và trạm sạc xe điện trong công trình ngầm, tầng hầm nhà chung cư, trung tâm thương mại phải được bố trí thành khu vực riêng biệt, ngăn cách với các khu vực đỗ xe khác bằng bộ phận ngăn cháy có giới hạn chịu lửa theo quy chuẩn.",
+    "line_start": 165,
+    "line_end": 165
+  },
+  {
+    "clause_id": "dieu-9-khoan-2",
+    "anchor": "dieu-9-khoan-2",
+    "title": "2. Khu vực sạc xe điện phải được trang bị hệ thống cảm biến phát hiện khí cháy sớm (CO, Hydrocacbon, HF), hệ thống camera giám sát liên tục 24/7 và hệ thống ngắt nguồn điện cấp cho trạm sạc tự động khi có tín hiệu báo cháy.",
+    "line_start": 168,
+    "line_end": 168
+  },
+  {
+    "clause_id": "dieu-10",
+    "anchor": "dieu-10",
+    "title": "Điều 10. Yêu cầu kỹ thuật đối với hệ thống cấp nước chữa cháy ngoài nhà",
+    "line_start": 172,
+    "line_end": 172
+  },
+  {
+    "clause_id": "dieu-10-khoan-1",
+    "anchor": "dieu-10-khoan-1",
+    "title": "1. Hệ thống cấp nước chữa cháy ngoài nhà phải bảo đảm lưu lượng và áp lực nước chữa cháy theo tiêu chuẩn, quy chuẩn kỹ thuật đối với từng loại công trình.",
+    "line_start": 175,
+    "line_end": 175
+  },
+  {
+    "clause_id": "dieu-10-khoan-2",
+    "anchor": "dieu-10-khoan-2",
+    "title": "2. Trụ nước chữa cháy ngoài nhà phải được đấu nối với mạng lưới cấp nước đô thị hoặc bể nước chữa cháy dự phòng của dự án và bố trí tại vị trí thuận lợi cho xe chữa cháy tiếp cận lấy nước.",
+    "line_start": 178,
+    "line_end": 178
+  },
+  {
+    "clause_id": "dieu-11",
+    "anchor": "dieu-11",
+    "title": "Điều 11. Yêu cầu kỹ thuật đối với hệ thống kiểm soát khói và thông gió hút khói",
+    "line_start": 182,
+    "line_end": 182
+  },
+  {
+    "clause_id": "dieu-11-khoan-1",
+    "anchor": "dieu-11-khoan-1",
+    "title": "1. Hệ thống hút khói hành lang, hút khói gian phòng và hệ thống tạo áp buồng thang bộ thoát nạn, giếng thang máy chữa cháy phải bảo đảm giới hạn chịu lửa của đường ống gió và van chặn lửa theo quy chuẩn QCVN 06.",
+    "line_start": 185,
+    "line_end": 185
+  },
+  {
+    "clause_id": "dieu-11-khoan-2",
+    "anchor": "dieu-11-khoan-2",
+    "title": "2. Quạt hút khói và quạt tăng áp phải được cấp nguồn điện ưu tiên (nguồn điện từ máy phát điện dự phòng tự động chuyển đổi ATS) bảo đảm duy trì hoạt động trong thời gian quy định khi xảy ra sự cố cháy.",
+    "line_start": 188,
+    "line_end": 188
+  },
+  {
+    "clause_id": "dieu-12",
+    "anchor": "dieu-12",
+    "title": "Điều 12. Yêu cầu kỹ thuật đối with trang thiết bị phương tiện PCCC và CNCH",
+    "line_start": 192,
+    "line_end": 192
+  },
+  {
+    "clause_id": "dieu-13",
+    "anchor": "dieu-13",
+    "title": "Điều 13. Phân định thẩm quyền thẩm định thiết kế về phòng cháy và chữa cháy",
+    "line_start": 204,
+    "line_end": 204
+  },
+  {
+    "clause_id": "dieu-13-khoan-1",
+    "anchor": "dieu-13-khoan-1",
+    "title": "1. Thẩm định thiết kế PCCC được thực hiện theo cơ chế phân định rõ ranh giới chuyên môn giữa Cơ quan chuyên môn về xây dựng và Cơ quan Công an:",
+    "line_start": 207,
+    "line_end": 207
+  },
+  {
+    "clause_id": "dieu-14",
+    "anchor": "dieu-14",
+    "title": "Điều 14. Dự án, công trình thuộc diện thẩm định thiết kế PCCC của Cơ quan Công an",
+    "line_start": 215,
+    "line_end": 215
+  },
+  {
+    "clause_id": "dieu-14-khoan-1",
+    "anchor": "dieu-14-khoan-1",
+    "title": "1. Dự án, công trình quy định tại Phụ lục I ban hành kèm theo Nghị định này phải nộp hồ sơ thiết kế hệ thống cơ điện PCCC đến Cơ quan Công an để thẩm định trước khi thi công xây dựng.",
+    "line_start": 218,
+    "line_end": 218
+  },
+  {
+    "clause_id": "dieu-14-khoan-2",
+    "anchor": "dieu-14-khoan-2",
+    "title": "2. Danh mục công trình phân cấp thẩm định:",
+    "line_start": 221,
+    "line_end": 221
+  },
+  {
+    "clause_id": "dieu-15",
+    "anchor": "dieu-15",
+    "title": "Điều 15. Hồ sơ đề nghị thẩm định thiết kế PCCC nộp Cơ quan Công an",
+    "line_start": 229,
+    "line_end": 229
+  },
+  {
+    "clause_id": "dieu-15-khoan-1",
+    "anchor": "dieu-15-khoan-1",
+    "title": "1. Văn bản đề nghị thẩm định thiết kế về phòng cháy và chữa cháy của Chủ đầu tư theo Mẫu số PC11 ban hành kèm theo Nghị định này.",
+    "line_start": 232,
+    "line_end": 232
+  },
+  {
+    "clause_id": "dieu-15-khoan-2",
+    "anchor": "dieu-15-khoan-2",
+    "title": "2. Văn bản ủy quyền (nếu chủ đầu tư ủy quyền cho đơn vị tư vấn thực hiện thủ tục).",
+    "line_start": 235,
+    "line_end": 235
+  },
+  {
+    "clause_id": "dieu-15-khoan-3",
+    "anchor": "dieu-15-khoan-3",
+    "title": "3. Bản sao văn bản chấp thuận chủ trương đầu tư hoặc giấy chứng nhận đăng ký đầu tư hoặc quyết định phê duyệt dự án.",
+    "line_start": 238,
+    "line_end": 238
+  },
+  {
+    "clause_id": "dieu-15-khoan-4",
+    "anchor": "dieu-15-khoan-4",
+    "title": "4. Thuyết minh thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công phần hệ thống thiết bị phòng cháy và chữa cháy.",
+    "line_start": 241,
+    "line_end": 241
+  },
+  {
+    "clause_id": "dieu-15-khoan-5",
+    "anchor": "dieu-15-khoan-5",
+    "title": "5. Bản vẽ thiết kế chi tiết hệ thống báo cháy tự động, hệ thống chữa cháy tự động, sơ đồ nguyên lý cấp nước chữa cháy, sơ đồ cấp điện ưu tiên PCCC.",
+    "line_start": 244,
+    "line_end": 244
+  },
+  {
+    "clause_id": "dieu-15-khoan-6",
+    "anchor": "dieu-15-khoan-6",
+    "title": "6. Báo cáo kết quả thẩm tra thiết kế PCCC của tổ chức tư vấn thẩm tra (nếu có).",
+    "line_start": 247,
+    "line_end": 247
+  },
+  {
+    "clause_id": "dieu-16",
+    "anchor": "dieu-16",
+    "title": "Điều 16. Trình tự, thủ tục thẩm định thiết kế PCCC tại Cơ quan Công an",
+    "line_start": 251,
+    "line_end": 251
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Chủ đầu tư nộp 01 bộ hồ sơ trực tiếp hoặc trực tuyến qua Cổng dịch vụ công quốc gia / Cổng dịch vụ công Bộ Công an.",
+    "line_start": 254,
+    "line_end": 254
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Cơ quan tiếp nhận kiểm tra tính hợp lệ của hồ sơ trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ. Trường hợp hồ sơ chưa hợp lệ, thông báo bằng văn bản hướng dẫn bổ sung.",
+    "line_start": 257,
+    "line_end": 257
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. Thời hạn giải quyết thẩm định thiết kế PCCC:",
+    "line_start": 260,
+    "line_end": 260
+  },
+  {
+    "clause_id": "dieu-16-khoan-4",
+    "anchor": "dieu-16-khoan-4",
+    "title": "4. Kết quả thẩm định được thể hiện bằng Giấy chứng nhận thẩm duyệt thiết kế về PCCC hoặc Văn bản thẩm duyệt thiết kế về PCCC theo Mẫu số PC12 ban hành kèm theo Nghị định này.",
+    "line_start": 269,
+    "line_end": 269
+  },
+  {
+    "clause_id": "dieu-17",
+    "anchor": "dieu-17",
+    "title": "Điều 17. Trình tự, thủ tục thẩm định thiết kế PCCC tại Cơ quan chuyên môn về xây dựng",
+    "line_start": 273,
+    "line_end": 273
+  },
+  {
+    "clause_id": "dieu-17-khoan-1",
+    "anchor": "dieu-17-khoan-1",
+    "title": "1. Thẩm định nội dung an toàn PCCC thuộc phần Kiến trúc, Kết cấu, Giải pháp ngăn cháy, Chống khói được thực hiện đồng thời trong quy trình thẩm định Báo cáo nghiên cứu khả thi hoặc thiết kế xây dựng triển khai sau thiết kế cơ sở theo pháp luật về xây dựng.",
+    "line_start": 276,
+    "line_end": 276
+  },
+  {
+    "clause_id": "dieu-17-khoan-2",
+    "anchor": "dieu-17-khoan-2",
+    "title": "2. Cơ quan chuyên môn về xây dựng có trách nhiệm kiểm tra sự tuân thủ các quy chuẩn kỹ thuật quốc gia về an toàn cháy (QCVN 06, QCVN 04) trong báo cáo thẩm tra và hồ sơ thiết kế của chủ đầu tư.",
+    "line_start": 279,
+    "line_end": 279
+  },
+  {
+    "clause_id": "dieu-17-khoan-3",
+    "anchor": "dieu-17-khoan-3",
+    "title": "3. Kết quả thẩm định nội dung PCCC được tích hợp trực tiếp vào Thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi hoặc Thông báo kết quả thẩm định thiết kế xây dựng.",
+    "line_start": 282,
+    "line_end": 282
+  },
+  {
+    "clause_id": "dieu-18",
+    "anchor": "dieu-18",
+    "title": "Điều 18. Cơ chế phối hợp và chia sẻ dữ liệu giữa Cơ quan Xây dựng và Cơ quan Công an",
+    "line_start": 286,
+    "line_end": 286
+  },
+  {
+    "clause_id": "dieu-18-khoan-1",
+    "anchor": "dieu-18-khoan-1",
+    "title": "1. Cơ quan chuyên môn về xây dựng và Cơ quan Công an thực hiện chia sẻ thông tin, dữ liệu thẩm định và nghiệm thu thông qua Hệ thống thông tin cơ sở dữ liệu quốc gia về hoạt động xây dựng và CSDL PCCC.",
+    "line_start": 289,
+    "line_end": 289
+  },
+  {
+    "clause_id": "dieu-18-khoan-2",
+    "anchor": "dieu-18-khoan-2",
+    "title": "2. Trường hợp phát hiện nội dung thiết kế kiến trúc có ảnh hưởng đến phương án bố trí hệ thống MEP PCCC, Cơ quan Công an có văn bản trao đổi ý kiến với Cơ quan chuyên môn về xây dựng để thống nhất xử lý trong thời hạn 03 ngày làm việc.",
+    "line_start": 292,
+    "line_end": 292
+  },
+  {
+    "clause_id": "dieu-19",
+    "anchor": "dieu-19",
+    "title": "Điều 19. Điều kiện năng lực của tổ chức tư vấn thẩm tra thiết kế PCCC",
+    "line_start": 296,
+    "line_end": 296
+  },
+  {
+    "clause_id": "dieu-19-khoan-1",
+    "anchor": "dieu-19-khoan-1",
+    "title": "1. Tổ chức tư vấn thẩm tra thiết kế PCCC phải là doanh nghiệp hoạt động dịch vụ PCCC đã được cấp Giấy xác nhận đủ điều kiện kinh doanh dịch vụ PCCC theo quy định.",
+    "line_start": 299,
+    "line_end": 299
+  },
+  {
+    "clause_id": "dieu-19-khoan-2",
+    "anchor": "dieu-19-khoan-2",
+    "title": "2. Có đội ngũ chuyên môn gồm cá nhân có Chứng chỉ hành nghề tư vấn thẩm tra thiết kế PCCC phù hợp với loại và cấp công trình thẩm tra.",
+    "line_start": 302,
+    "line_end": 302
+  },
+  {
+    "clause_id": "dieu-20",
+    "anchor": "dieu-20",
+    "title": "Điều 20. Trách nhiệm của tổ chức tư vấn thẩm tra thiết kế PCCC",
+    "line_start": 306,
+    "line_end": 306
+  },
+  {
+    "clause_id": "dieu-20-khoan-1",
+    "anchor": "dieu-20-khoan-1",
+    "title": "1. Rà soát, đối chiếu toàn diện hồ sơ thiết kế với các quy chuẩn, tiêu chuẩn kỹ thuật hiện hành.",
+    "line_start": 309,
+    "line_end": 309
+  },
+  {
+    "clause_id": "dieu-20-khoan-2",
+    "anchor": "dieu-20-khoan-2",
+    "title": "2. Lập Báo cáo kết quả thẩm tra trung thực, khách quan, nêu rõ các tồn tại, sai phạm kỹ thuật (nếu có) và kiến nghị giải pháp khắc phục.",
+    "line_start": 312,
+    "line_end": 312
+  },
+  {
+    "clause_id": "dieu-20-khoan-3",
+    "anchor": "dieu-20-khoan-3",
+    "title": "3. Chịu trách nhiệm liên đới trước pháp luật và chủ đầu tư về kết quả thẩm tra do mình phát hành.",
+    "line_start": 315,
+    "line_end": 315
+  },
+  {
+    "clause_id": "dieu-21",
+    "anchor": "dieu-21",
+    "title": "Điều 21. Quản lý hồ sơ thiết kế PCCC điều chỉnh trong quá trình thi công",
+    "line_start": 319,
+    "line_end": 319
+  },
+  {
+    "clause_id": "dieu-21-khoan-1",
+    "anchor": "dieu-21-khoan-1",
+    "title": "1. Trường hợp điều chỉnh thiết kế làm thay đổi một trong các nội dung về bậc chịu lửa, khoảng cách an toàn, giải pháp thoát nạn, phân khoang cháy hoặc nguyên lý hoạt động của hệ thống chữa cháy tự động, chủ đầu tư phải thực hiện thẩm định điều chỉnh trước khi thi công phần điều chỉnh.",
+    "line_start": 322,
+    "line_end": 322
+  },
+  {
+    "clause_id": "dieu-21-khoan-2",
+    "anchor": "dieu-21-khoan-2",
+    "title": "2. Trường hợp điều chỉnh nhỏ không làm thay đổi các nguyên tắc an toàn PCCC cốt lõi, chủ đầu tư tự tổ chức thẩm định, phê duyệt và lập hồ sơ hoàn công trình cơ quan có thẩm quyền khi nghiệm thu.",
+    "line_start": 325,
+    "line_end": 325
+  },
+  {
+    "clause_id": "dieu-22",
+    "anchor": "dieu-22",
+    "title": "Điều 22. Chi phí thẩm định và thẩm tra thiết kế về PCCC",
+    "line_start": 329,
+    "line_end": 329
+  },
+  {
+    "clause_id": "dieu-22-khoan-1",
+    "anchor": "dieu-22-khoan-1",
+    "title": "1. Phí thẩm định thiết kế PCCC nộp Cơ quan Công an thực hiện theo quy định của Bộ Tài chính.",
+    "line_start": 332,
+    "line_end": 332
+  },
+  {
+    "clause_id": "dieu-22-khoan-2",
+    "anchor": "dieu-22-khoan-2",
+    "title": "2. Chi phí thẩm tra thiết kế PCCC được tính trong tổng mức đầu tư dự án theo định mức chi phí tư vấn xây dựng do Bộ Xây dựng ban hành.",
+    "line_start": 335,
+    "line_end": 335
+  },
+  {
+    "clause_id": "dieu-23",
+    "anchor": "dieu-23",
+    "title": "Điều 23. Nghiệm thu về phòng cháy và chữa cháy của Chủ đầu tư",
+    "line_start": 345,
+    "line_end": 345
+  },
+  {
+    "clause_id": "dieu-23-khoan-1",
+    "anchor": "dieu-23-khoan-1",
+    "title": "1. Chủ đầu tư có trách nhiệm tổ chức nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng về phòng cháy và chữa cháy trước khi đưa vào sử dụng.",
+    "line_start": 348,
+    "line_end": 348
+  },
+  {
+    "clause_id": "dieu-23-khoan-2",
+    "anchor": "dieu-23-khoan-2",
+    "title": "2. Thành phần tham gia nghiệm thu gồm: Đại diện Chủ đầu tư, Nhà thầu thi công xây dựng, Nhà thầu lắp đặt thiết bị PCCC, Đơn vị tư vấn giám sát và Đơn vị tư vấn thiết kế.",
+    "line_start": 351,
+    "line_end": 351
+  },
+  {
+    "clause_id": "dieu-23-khoan-3",
+    "anchor": "dieu-23-khoan-3",
+    "title": "3. Kết quả nghiệm thu phải được lập thành Biên bản nghiệm thu hoàn thành hạng mục PCCC.",
+    "line_start": 354,
+    "line_end": 354
+  },
+  {
+    "clause_id": "dieu-24",
+    "anchor": "dieu-24",
+    "title": "Điều 24. Kiểm tra kết quả nghiệm thu về PCCC của Cơ quan Công an",
+    "line_start": 358,
+    "line_end": 358
+  },
+  {
+    "clause_id": "dieu-24-khoan-1",
+    "anchor": "dieu-24-khoan-1",
+    "title": "1. Đối với các công trình thuộc diện Cơ quan Công an thẩm duyệt thiết kế, Cơ quan Công an thực hiện kiểm tra kết quả nghiệm thu của chủ đầu tư theo quy định.",
+    "line_start": 361,
+    "line_end": 361
+  },
+  {
+    "clause_id": "dieu-24-khoan-2",
+    "anchor": "dieu-24-khoan-2",
+    "title": "2. Nội dung kiểm tra gồm: Kiểm tra hồ sơ hoàn công, kiểm tra thực tế việc thi công lắp đặt thiết bị, thử nghiệm hoạt động liên động thực tế của toàn bộ hệ thống PCCC.",
+    "line_start": 364,
+    "line_end": 364
+  },
+  {
+    "clause_id": "dieu-24-khoan-3",
+    "anchor": "dieu-24-khoan-3",
+    "title": "3. Kết quả kiểm tra đạt yêu cầu được thể hiện bằng Văn bản chấp thuận kết quả nghiệm thu về PCCC theo Mẫu số PC14 ban hành kèm theo Nghị định này.",
+    "line_start": 367,
+    "line_end": 367
+  },
+  {
+    "clause_id": "dieu-25",
+    "anchor": "dieu-25",
+    "title": "Điều 25. Hồ sơ đề nghị kiểm tra kết quả nghiệm thu về PCCC",
+    "line_start": 371,
+    "line_end": 371
+  },
+  {
+    "clause_id": "dieu-25-khoan-1",
+    "anchor": "dieu-25-khoan-1",
+    "title": "1. Đơn đề nghị kiểm tra kết quả nghiệm thu về PCCC của Chủ đầu tư.",
+    "line_start": 374,
+    "line_end": 374
+  },
+  {
+    "clause_id": "dieu-25-khoan-2",
+    "anchor": "dieu-25-khoan-2",
+    "title": "2. Bản sao Giấy chứng nhận hoặc Văn bản thẩm duyệt thiết kế PCCC kèm theo hồ sơ thiết kế đã được đóng dấu thẩm duyệt.",
+    "line_start": 377,
+    "line_end": 377
+  },
+  {
+    "clause_id": "dieu-25-khoan-3",
+    "anchor": "dieu-25-khoan-3",
+    "title": "3. Bản vẽ hoàn công hệ thống PCCC và các hạng mục kiến trúc liên quan đến PCCC.",
+    "line_start": 380,
+    "line_end": 380
+  },
+  {
+    "clause_id": "dieu-25-khoan-4",
+    "anchor": "dieu-25-khoan-4",
+    "title": "4. Biên bản kiểm định, chứng chỉ chất lượng thiết bị, phương tiện PCCC lắp đặt tại công trình.",
+    "line_start": 383,
+    "line_end": 383
+  },
+  {
+    "clause_id": "dieu-25-khoan-5",
+    "anchor": "dieu-25-khoan-5",
+    "title": "5. Biên bản nghiệm thu chạy thử liên động toàn bộ hệ thống PCCC của Chủ đầu tư.",
+    "line_start": 386,
+    "line_end": 386
+  },
+  {
+    "clause_id": "dieu-26",
+    "anchor": "dieu-26",
+    "title": "Điều 26. Thời hạn kiểm tra và cấp văn bản chấp thuận nghiệm thu PCCC",
+    "line_start": 390,
+    "line_end": 390
+  },
+  {
+    "clause_id": "dieu-26-khoan-1",
+    "anchor": "dieu-26-khoan-1",
+    "title": "1. Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan Công an tổ chức kiểm tra thực tế tại hiện trường công trình.",
+    "line_start": 393,
+    "line_end": 393
+  },
+  {
+    "clause_id": "dieu-26-khoan-2",
+    "anchor": "dieu-26-khoan-2",
+    "title": "2. Trong thời hạn 05 ngày làm việc kể từ ngày kết thúc kiểm tra thực tế, nếu công trình đạt yêu cầu, Cơ quan Công an ban hành Văn bản chấp thuận kết quả nghiệm thu về PCCC.",
+    "line_start": 396,
+    "line_end": 396
+  },
+  {
+    "clause_id": "dieu-27",
+    "anchor": "dieu-27",
+    "title": "Điều 27. Nghiệm thu từng phần và giai đoạn thi công PCCC",
+    "line_start": 400,
+    "line_end": 400
+  },
+  {
+    "clause_id": "dieu-28",
+    "anchor": "dieu-28",
+    "title": "Điều 28. Xử lý tồn tại kỹ thuật trong quá trình kiểm tra nghiệm thu",
+    "line_start": 406,
+    "line_end": 406
+  },
+  {
+    "clause_id": "dieu-29",
+    "anchor": "dieu-29",
+    "title": "Điều 29. Bàn giao và đưa công trình vào sử dụng",
+    "line_start": 412,
+    "line_end": 412
+  },
+  {
+    "clause_id": "dieu-30",
+    "anchor": "dieu-30",
+    "title": "Điều 30. Quản lý và lưu trữ hồ sơ hoàn thành công trình PCCC",
+    "line_start": 418,
+    "line_end": 418
+  },
+  {
+    "clause_id": "dieu-31",
+    "anchor": "dieu-31",
+    "title": "Điều 31. Ngành, nghề kinh doanh dịch vụ phòng cháy và chữa cháy",
+    "line_start": 430,
+    "line_end": 430
+  },
+  {
+    "clause_id": "dieu-31-khoan-1",
+    "anchor": "dieu-31-khoan-1",
+    "title": "1. Tư vấn thiết kế, tư vấn thẩm tra, tư vấn giám sát về phòng cháy và chữa cháy.",
+    "line_start": 433,
+    "line_end": 433
+  },
+  {
+    "clause_id": "dieu-31-khoan-2",
+    "anchor": "dieu-31-khoan-2",
+    "title": "2. Tư vấn kiểm tra, kiểm định kỹ thuật về phòng cháy và chữa cháy.",
+    "line_start": 436,
+    "line_end": 436
+  },
+  {
+    "clause_id": "dieu-31-khoan-3",
+    "anchor": "dieu-31-khoan-3",
+    "title": "3. Thi công, lắp đặt hệ thống phòng cháy và chữa cháy.",
+    "line_start": 439,
+    "line_end": 439
+  },
+  {
+    "clause_id": "dieu-31-khoan-4",
+    "anchor": "dieu-31-khoan-4",
+    "title": "4. Kinh doanh phương tiện, thiết bị, vật tư phòng cháy và chữa cháy.",
+    "line_start": 442,
+    "line_end": 442
+  },
+  {
+    "clause_id": "dieu-32",
+    "anchor": "dieu-32",
+    "title": "Điều 32. Điều kiện đối with doanh nghiệp kinh doanh dịch vụ tư vấn PCCC",
+    "line_start": 446,
+    "line_end": 446
+  },
+  {
+    "clause_id": "dieu-32-khoan-1",
+    "anchor": "dieu-32-khoan-1",
+    "title": "1. Người đứng đầu doanh nghiệp hoặc người đại diện theo pháp luật phải có trình độ đại học chuyên ngành PCCC hoặc tương đương.",
+    "line_start": 449,
+    "line_end": 449
+  },
+  {
+    "clause_id": "dieu-32-khoan-2",
+    "anchor": "dieu-32-khoan-2",
+    "title": "2. Có ít nhất 02 cá nhân có Chứng chỉ hành nghề tư vấn thiết kế, thẩm tra PCCC phù hợp.",
+    "line_start": 452,
+    "line_end": 452
+  },
+  {
+    "clause_id": "dieu-33",
+    "anchor": "dieu-33",
+    "title": "Điều 33. Điều kiện đối with doanh nghiệp thi công lắp đặt PCCC",
+    "line_start": 456,
+    "line_end": 456
+  },
+  {
+    "clause_id": "dieu-33-khoan-1",
+    "anchor": "dieu-33-khoan-1",
+    "title": "1. Có cán bộ chỉ huy trưởng công trường có Chứng chỉ hành nghề chỉ huy thi công PCCC.",
+    "line_start": 459,
+    "line_end": 459
+  },
+  {
+    "clause_id": "dieu-33-khoan-2",
+    "anchor": "dieu-33-khoan-2",
+    "title": "2. Có đủ phương tiện, máy móc, trang thiết bị thi công bảo đảm chất lượng theo quy định.",
+    "line_start": 462,
+    "line_end": 462
+  },
+  {
+    "clause_id": "dieu-34",
+    "anchor": "dieu-34",
+    "title": "Điều 34. Thẩm quyền cấp Giấy xác nhận đủ điều kiện kinh doanh dịch vụ PCCC",
+    "line_start": 466,
+    "line_end": 466
+  },
+  {
+    "clause_id": "dieu-35",
+    "anchor": "dieu-35",
+    "title": "Điều 35. Cấp chứng chỉ hành nghề dịch vụ phòng cháy và chữa cháy",
+    "line_start": 472,
+    "line_end": 472
+  },
+  {
+    "clause_id": "dieu-35-khoan-1",
+    "anchor": "dieu-35-khoan-1",
+    "title": "1. Cá nhân được cấp Chứng chỉ hành nghề sau khi vượt qua kỳ sát hạch chuyên môn do Cơ quan có thẩm quyền tổ chức.",
+    "line_start": 475,
+    "line_end": 475
+  },
+  {
+    "clause_id": "dieu-35-khoan-2",
+    "anchor": "dieu-35-khoan-2",
+    "title": "2. Chứng chỉ hành nghề có giá trị sử dụng trên phạm vi toàn quốc với thời hạn 05 năm.",
+    "line_start": 478,
+    "line_end": 478
+  },
+  {
+    "clause_id": "dieu-36",
+    "anchor": "dieu-36",
+    "title": "Điều 36. Quyền và nghĩa vụ của cơ sở kinh doanh dịch vụ PCCC",
+    "line_start": 482,
+    "line_end": 482
+  },
+  {
+    "clause_id": "dieu-37",
+    "anchor": "dieu-37",
+    "title": "Điều 37. Thu hồi Giấy xác nhận đủ điều kiện kinh doanh dịch vụ PCCC",
+    "line_start": 488,
+    "line_end": 488
+  },
+  {
+    "clause_id": "dieu-38",
+    "anchor": "dieu-38",
+    "title": "Điều 38. Cơ sở dữ liệu quốc gia về cơ sở kinh doanh và chứng chỉ hành nghề PCCC",
+    "line_start": 494,
+    "line_end": 494
+  },
+  {
+    "clause_id": "dieu-39",
+    "anchor": "dieu-39",
+    "title": "Điều 39. Hiệu lực thi hành",
+    "line_start": 506,
+    "line_end": 506
+  },
+  {
+    "clause_id": "dieu-39-khoan-1",
+    "anchor": "dieu-39-khoan-1",
+    "title": "1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.",
+    "line_start": 509,
+    "line_end": 509
+  },
+  {
+    "clause_id": "dieu-39-khoan-2",
+    "anchor": "dieu-39-khoan-2",
+    "title": "2. Các quy định trước đây trái với Nghị định này đều bãi bỏ.",
+    "line_start": 512,
+    "line_end": 512
+  },
+  {
+    "clause_id": "dieu-40",
+    "anchor": "dieu-40",
+    "title": "Điều 40. Quy định chuyển tiếp",
+    "line_start": 516,
+    "line_end": 516
+  },
+  {
+    "clause_id": "dieu-40-khoan-1",
+    "anchor": "dieu-40-khoan-1",
+    "title": "1. Dự án, công trình đã được cấp Giấy chứng nhận thẩm duyệt thiết kế về PCCC trước ngày Nghị định này có hiệu lực thì tiếp tục thi công và nghiệm thu theo văn bản đã cấp.",
+    "line_start": 519,
+    "line_end": 519
+  },
+  {
+    "clause_id": "dieu-40-khoan-2",
+    "anchor": "dieu-40-khoan-2",
+    "title": "2. Hồ sơ thiết kế PCCC đã nộp trước ngày 01 tháng 7 năm 2025 nhưng chưa có kết quả thì tiếp tục xử lý theo quy định tại thời điểm nộp hồ sơ trừ trường hợp chủ đầu tư có yêu cầu áp dụng quy định của Nghị định này.",
+    "line_start": 522,
+    "line_end": 522
+  },
+  {
+    "clause_id": "dieu-41",
+    "anchor": "dieu-41",
+    "title": "Điều 41. Trách nhiệm hướng dẫn và thi hành",
+    "line_start": 526,
+    "line_end": 526
+  },
+  {
+    "clause_id": "dieu-41-khoan-1",
+    "anchor": "dieu-41-khoan-1",
+    "title": "1. Bộ trưởng Bộ Công an, Bộ trưởng Bộ Xây dựng trong phạm vi chức năng, nhiệm vụ có trách nhiệm hướng dẫn thi hành Nghị định này.",
+    "line_start": 529,
+    "line_end": 529
+  },
+  {
+    "clause_id": "dieu-41-khoan-2",
+    "anchor": "dieu-41-khoan-2",
+    "title": "2. Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương chịu trách nhiệm tổ chức thực hiện công tác quản lý nhà nước về phòng cháy, chữa cháy và cứu nạn, cứu hộ trên địa bàn.",
+    "line_start": 532,
+    "line_end": 532
+  },
+  {
+    "clause_id": "dieu-42",
+    "anchor": "dieu-42",
+    "title": "Điều 42. Trách nhiệm thi hành",
+    "line_start": 536,
+    "line_end": 536
+  }
+]

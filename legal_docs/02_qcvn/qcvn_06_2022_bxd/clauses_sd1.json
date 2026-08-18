@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "sd1-muc-1-1-2",
+    "title": "Sửa đổi, bổ sung điểm 1.1.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 1.1.2",
+    "chapter": "1  QUY ĐỊNH CHUNG",
+    "line": 21
+  },
+  {
+    "id": "sd1-muc-1-1-4",
+    "title": "Sửa đổi điểm 1.1.4 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 1.1.4",
+    "chapter": "1  QUY ĐỊNH CHUNG",
+    "line": 47
+  },
+  {
+    "id": "sd1-muc-1-1-5",
+    "title": "Sửa đổi điểm 1.1.5 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 1.1.5",
+    "chapter": "1  QUY ĐỊNH CHUNG",
+    "line": 61
+  },
+  {
+    "id": "sd1-muc-1-1-7",
+    "title": "Sửa đổi điểm 1.1.7 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 1.1.7",
+    "chapter": "1  QUY ĐỊNH CHUNG",
+    "line": 67
+  },
+  {
+    "id": "sd1-muc-1-1-10",
+    "title": "Sửa đổi điểm 1.1.10 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 1.1.10",
+    "chapter": "1  QUY ĐỊNH CHUNG",
+    "line": 71
+  },
+  {
+    "id": "sd1-muc-1-1-11",
+    "title": "Bổ sung điểm 1.1.11 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm 1.1.11",
+    "chapter": "1  QUY ĐỊNH CHUNG",
+    "line": 75
+  },
+  {
+    "id": "sd1-muc-1-3",
+    "title": "Bãi bỏ điểm 1.3.",
+    "action_type": "repeal",
+    "target_clause": "điểm 1.3",
+    "chapter": "1  QUY ĐỊNH CHUNG",
+    "line": 79
+  },
+  {
+    "id": "sd1-muc-1-4",
+    "title": "Sửa đổi, bổ sung một số thuật ngữ của điểm 1.4 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 1.4",
+    "chapter": "1  QUY ĐỊNH CHUNG",
+    "line": 81
+  },
+  {
+    "id": "sd1-muc-1-5-4",
+    "title": "Sửa đổi điểm 1.5.4 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 1.5.4",
+    "chapter": "1  QUY ĐỊNH CHUNG",
+    "line": 171
+  },
+  {
+    "id": "sd1-muc-1-5-5",
+    "title": "Bổ sung điểm 1.5.5 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm 1.5.5",
+    "chapter": "1  QUY ĐỊNH CHUNG",
+    "line": 181
+  },
+  {
+    "id": "sd1-muc-1-5-6",
+    "title": "Bổ sung điểm 1.5.6 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm 1.5.6",
+    "chapter": "1  QUY ĐỊNH CHUNG",
+    "line": 187
+  },
+  {
+    "id": "sd1-muc-2-3-2-2",
+    "title": "Sửa đổi CHÚ THÍCH tại 2.3.2.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 2.3.2.2",
+    "chapter": "2  PHÂN LOẠI KỸ THUẬT VỀ CHÁY",
+    "line": 193
+  },
+  {
+    "id": "sd1-bang-4",
+    "title": "Sửa đổi CHÚ THÍCH 2, CHÚ THÍCH 6 và bổ sung CHÚ THÍCH 7, CHÚ THÍCH 8 vào Bảng 4 như sau:",
+    "action_type": "modify",
+    "target_clause": "Bảng 4",
+    "chapter": "2  PHÂN LOẠI KỸ THUẬT VỀ CHÁY",
+    "line": 197
+  },
+  {
+    "id": "sd1-muc-2-5-3-3",
+    "title": "Sửa đổi điểm 2.5.3.3 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 2.5.3.3",
+    "chapter": "2  PHÂN LOẠI KỸ THUẬT VỀ CHÁY",
+    "line": 215
+  },
+  {
+    "id": "sd1-muc-3-1-7",
+    "title": "Sửa đổi điểm 3.1.7 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.1.7",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 221
+  },
+  {
+    "id": "sd1-muc-3-2-2",
+    "title": "Bổ sung vào cuối đoạn a) điểm 3.2.2 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm 3.2.2",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 229
+  },
+  {
+    "id": "sd1-muc-3-2-3",
+    "title": "Sửa đổi điểm 3.2.3 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.2.3",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 233
+  },
+  {
+    "id": "sd1-muc-3-2-5",
+    "title": "Sửa đổi đoạn b) điểm 3.2.5 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.2.5",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 239
+  },
+  {
+    "id": "sd1-muc-3-2-6-2",
+    "title": "Sửa đổi đoạn a) và đoạn d) của điểm 3.2.6.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.2.6.2",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 243
+  },
+  {
+    "id": "sd1-muc-3-2-8",
+    "title": "Sửa đổi điểm 3.2.8 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.2.8",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 295
+  },
+  {
+    "id": "sd1-muc-3-2-9",
+    "title": "Sửa đổi câu thứ hai của đoạn thứ tư điểm 3.2.9 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.2.9",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 303
+  },
+  {
+    "id": "sd1-muc-3-2-9",
+    "title": "Sửa đổi đoạn cuối điểm 3.2.9 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.2.9",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 307
+  },
+  {
+    "id": "sd1-muc-3-2-11",
+    "title": "Bãi bỏ câu thứ hai của đoạn thứ nhất điểm 3.2.11.",
+    "action_type": "repeal",
+    "target_clause": "điểm 3.2.11",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 311
+  },
+  {
+    "id": "sd1-muc-3-3-1",
+    "title": "Sửa đổi, bổ sung điểm 3.3.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.3.1",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 313
+  },
+  {
+    "id": "sd1-muc-3-3-2",
+    "title": "Sửa đổi đoạn thứ nhất của điểm 3.3.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.3.2",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 317
+  },
+  {
+    "id": "sd1-muc-3-3-5",
+    "title": "Sửa đổi, bổ sung điểm 3.3.5 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.3.5",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 321
+  },
+  {
+    "id": "sd1-muc-3-4-1",
+    "title": "Sửa đổi, bổ sung điểm 3.4.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.4.1",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 333
+  },
+  {
+    "id": "sd1-muc-3-4-4",
+    "title": "Sửa đổi, bổ sung điểm 3.4.4 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.4.4",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 341
+  },
+  {
+    "id": "sd1-muc-3-4-5",
+    "title": "Sửa đổi điểm 3.4.5 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.4.5",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 349
+  },
+  {
+    "id": "sd1-muc-3-4-8",
+    "title": "Sửa đổi đoạn a) và đoạn b) của điểm 3.4.8 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.4.8",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 353
+  },
+  {
+    "id": "sd1-muc-3-4-11",
+    "title": "Bổ sung vào cuối điểm 3.4.11 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm 3.4.11",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 359
+  },
+  {
+    "id": "sd1-muc-3-4-13",
+    "title": "Sửa đổi điểm 3.4.13 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.4.13",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 363
+  },
+  {
+    "id": "sd1-muc-3-4-14",
+    "title": "Sửa đổi điểm 3.4.14 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.4.14",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 371
+  },
+  {
+    "id": "sd1-muc-3-5-10",
+    "title": "Sửa đổi điểm 3.5.10 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 3.5.10",
+    "chapter": "3  BẢO ĐẢM AN TOÀN CHO NGƯỜI",
+    "line": 375
+  },
+  {
+    "id": "sd1-muc-4-5",
+    "title": "Sửa đổi, bổ sung đoạn thứ nhất của điểm 4.5 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 4.5",
+    "chapter": "4  NGĂN CHẶN CHÁY LAN",
+    "line": 403
+  },
+  {
+    "id": "sd1-muc-4-5",
+    "title": "Bổ sung các đoạn văn vào trước CHÚ THÍCH của điểm 4.5 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm 4.5",
+    "chapter": "4  NGĂN CHẶN CHÁY LAN",
+    "line": 407
+  },
+  {
+    "id": "sd1-muc-4-23",
+    "title": "Sửa đổi, bổ sung điểm 4.23 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 4.23",
+    "chapter": "4  NGĂN CHẶN CHÁY LAN",
+    "line": 413
+  },
+  {
+    "id": "sd1-muc-4-27",
+    "title": "Sửa đổi điểm 4.27 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 4.27",
+    "chapter": "4  NGĂN CHẶN CHÁY LAN",
+    "line": 421
+  },
+  {
+    "id": "sd1-muc-4-31",
+    "title": "Sửa đổi điểm 4.31 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 4.31",
+    "chapter": "4  NGĂN CHẶN CHÁY LAN",
+    "line": 427
+  },
+  {
+    "id": "sd1-muc-4-32-2",
+    "title": "Sửa đổi, bổ sung điểm 4.32.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 4.32.2",
+    "chapter": "4  NGĂN CHẶN CHÁY LAN",
+    "line": 431
+  },
+  {
+    "id": "sd1-muc-4-33-3",
+    "title": "Sửa đổi, bổ sung điểm 4.33.3 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 4.33.3",
+    "chapter": "4  NGĂN CHẶN CHÁY LAN",
+    "line": 435
+  },
+  {
+    "id": "sd1-muc-4-33-4",
+    "title": "Sửa đổi điểm 4.33.4 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 4.33.4",
+    "chapter": "4  NGĂN CHẶN CHÁY LAN",
+    "line": 439
+  },
+  {
+    "id": "sd1-muc-4-34",
+    "title": "Sửa đổi điểm 4.34 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 4.34",
+    "chapter": "4  NGĂN CHẶN CHÁY LAN",
+    "line": 443
+  },
+  {
+    "id": "sd1-muc-4-35",
+    "title": "Sửa đổi đoạn d) điểm 4.35 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 4.35",
+    "chapter": "4  NGĂN CHẶN CHÁY LAN",
+    "line": 447
+  },
+  {
+    "id": "sd1-muc-5-1-1-1",
+    "title": "Sửa đổi, bổ sung điểm 5.1.1.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.1.1.1",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 453
+  },
+  {
+    "id": "sd1-muc-5-1-1-3",
+    "title": "Sửa đổi điểm 5.1.1.3 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.1.1.3",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 461
+  },
+  {
+    "id": "sd1-muc-5-1-1-4",
+    "title": "Sửa đổi điểm 5.1.1.4 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.1.1.4",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 465
+  },
+  {
+    "id": "sd1-bang-7-",
+    "title": "Bãi bỏ CHÚ THÍCH 3 của Bảng 7.",
+    "action_type": "repeal",
+    "target_clause": "Bảng 7.",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 473
+  },
+  {
+    "id": "sd1-bang-10",
+    "title": "Sửa đổi, bổ sung Bảng 10 như sau:",
+    "action_type": "modify",
+    "target_clause": "Bảng 10",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 475
+  },
+  {
+    "id": "sd1-muc-5-1-3-3",
+    "title": "Bổ sung gạch đầu dòng thứ năm của điểm 5.1.3.3 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm 5.1.3.3",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 491
+  },
+  {
+    "id": "sd1-muc-5-1-3-4",
+    "title": "Sửa đổi, bổ sung điểm 5.1.3.4 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.1.3.4",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 495
+  },
+  {
+    "id": "sd1-muc-5-1-4-2",
+    "title": "Sửa đổi điểm 5.1.4.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.1.4.2",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 521
+  },
+  {
+    "id": "sd1-muc-5-1-4-7",
+    "title": "Sửa đổi điểm 5.1.4.7 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.1.4.7",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 525
+  },
+  {
+    "id": "sd1-muc-5-1-5-4",
+    "title": "Sửa đổi điểm 5.1.5.4 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.1.5.4",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 529
+  },
+  {
+    "id": "sd1-muc-5-1-5-6",
+    "title": "Sửa đổi điểm 5.1.5.6 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.1.5.6",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 533
+  },
+  {
+    "id": "sd1-muc-5-1-5-7",
+    "title": "Sửa đổi gạch đầu dòng thứ hai của điểm 5.1.5.7 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.1.5.7",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 537
+  },
+  {
+    "id": "sd1-muc-5-1-5-9",
+    "title": "Sửa đổi điểm 5.1.5.9 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.1.5.9",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 541
+  },
+  {
+    "id": "sd1-muc-5-1-5-10",
+    "title": "Sửa đổi điểm 5.1.5.10 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.1.5.10",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 551
+  },
+  {
+    "id": "sd1-muc-5-2-1",
+    "title": "Sửa đổi điểm 5.2.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.2.1",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 555
+  },
+  {
+    "id": "sd1-bang-11",
+    "title": "Sửa đổi Bảng 11 như sau:",
+    "action_type": "modify",
+    "target_clause": "Bảng 11",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 559
+  },
+  {
+    "id": "sd1-muc-5-2-6",
+    "title": "Sửa đổi điểm 5.2.6 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.2.6",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 563
+  },
+  {
+    "id": "sd1-muc-3",
+    "title": "Bổ sung CHÚ THÍCH 3 vào điểm 5.2.11 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm 3",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 567
+  },
+  {
+    "id": "sd1-muc-5-3-1",
+    "title": "Sửa đổi điểm 5.3.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 5.3.1",
+    "chapter": "5  CẤP NƯỚC CHỮA CHÁY",
+    "line": 571
+  },
+  {
+    "id": "sd1-muc-6-2-2-1",
+    "title": "Bổ sung vào điểm 6.2.2.1 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm 6.2.2.1",
+    "chapter": "6  CHỮA CHÁY VÀ CỨU NẠN",
+    "line": 577
+  },
+  {
+    "id": "sd1-muc-6-2-2-3",
+    "title": "Bổ sung vào điểm 6.2.2.3 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm 6.2.2.3",
+    "chapter": "6  CHỮA CHÁY VÀ CỨU NẠN",
+    "line": 581
+  },
+  {
+    "id": "sd1-muc-6-3-5",
+    "title": "Bổ sung CHÚ THÍCH vào cuối điểm 6.3.5 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm 6.3.5",
+    "chapter": "6  CHỮA CHÁY VÀ CỨU NẠN",
+    "line": 593
+  },
+  {
+    "id": "sd1-muc-6-4",
+    "title": "Sửa đổi điểm 6.4 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 6.4",
+    "chapter": "6  CHỮA CHÁY VÀ CỨU NẠN",
+    "line": 597
+  },
+  {
+    "id": "sd1-muc-6-12",
+    "title": "Sửa đổi điểm 6.12 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 6.12",
+    "chapter": "6  CHỮA CHÁY VÀ CỨU NẠN",
+    "line": 601
+  },
+  {
+    "id": "sd1-muc-6-13",
+    "title": "Sửa đổi gạch đầu dòng thứ ba của điểm 6.13 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 6.13",
+    "chapter": "6  CHỮA CHÁY VÀ CỨU NẠN",
+    "line": 607
+  },
+  {
+    "id": "sd1-muc-6-14",
+    "title": "Sửa đổi điểm 6.14 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 6.14",
+    "chapter": "6  CHỮA CHÁY VÀ CỨU NẠN",
+    "line": 611
+  },
+  {
+    "id": "sd1-muc-a-4",
+    "title": "Bãi bỏ cụm từ “theo A.4” tại điểm 6.17.1.",
+    "action_type": "repeal",
+    "target_clause": "điểm A.4",
+    "chapter": "6  CHỮA CHÁY VÀ CỨU NẠN",
+    "line": 615
+  },
+  {
+    "id": "sd1-muc-6-17-2",
+    "title": "Sửa đổi gạch đầu dòng thứ hai của điểm 6.17.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm 6.17.2",
+    "chapter": "6  CHỮA CHÁY VÀ CỨU NẠN",
+    "line": 617
+  },
+  {
+    "id": "sd1-muc-7-4",
+    "title": "Bãi bỏ điểm 7.4.",
+    "action_type": "repeal",
+    "target_clause": "điểm 7.4",
+    "chapter": "7  TỔ CHỨC THỰC HIỆN",
+    "line": 623
+  },
+  {
+    "id": "sd1-muc-a-1-2-1",
+    "title": "Sửa đổi điểm A.1.2.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm A.1.2.1",
+    "chapter": "PHỤ LỤC A",
+    "line": 631
+  },
+  {
+    "id": "sd1-muc-a-1-3-2",
+    "title": "Bãi bỏ đoạn thứ hai của điểm A.1.3.2.",
+    "action_type": "repeal",
+    "target_clause": "điểm A.1.3.2",
+    "chapter": "PHỤ LỤC A",
+    "line": 639
+  },
+  {
+    "id": "sd1-muc-a-1-3-6",
+    "title": "Sửa đổi điểm A.1.3.6 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm A.1.3.6",
+    "chapter": "PHỤ LỤC A",
+    "line": 641
+  },
+  {
+    "id": "sd1-muc-a-1-3-10",
+    "title": "Sửa đổi điểm A.1.3.10 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm A.1.3.10",
+    "chapter": "PHỤ LỤC A",
+    "line": 645
+  },
+  {
+    "id": "sd1-muc-a-1-3-12",
+    "title": "Bãi bỏ điểm A.1.3.12.",
+    "action_type": "repeal",
+    "target_clause": "điểm A.1.3.12",
+    "chapter": "PHỤ LỤC A",
+    "line": 649
+  },
+  {
+    "id": "sd1-muc-a-2-3",
+    "title": "Bổ sung sau cụm từ “khoang cháy” của điểm A.2.3 cụm từ sau: “(hoặc phân khoang cháy)”.",
+    "action_type": "add",
+    "target_clause": "điểm A.2.3",
+    "chapter": "PHỤ LỤC A",
+    "line": 651
+  },
+  {
+    "id": "sd1-muc-a-2-4",
+    "title": "Bổ sung câu văn vào cuối điểm A.2.4 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm A.2.4",
+    "chapter": "PHỤ LỤC A",
+    "line": 653
+  },
+  {
+    "id": "sd1-muc-a-2-11",
+    "title": "Sửa đổi, bổ sung điểm A.2.11 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm A.2.11",
+    "chapter": "PHỤ LỤC A",
+    "line": 657
+  },
+  {
+    "id": "sd1-muc-a-2-12",
+    "title": "Sửa đổi, bổ sung điểm A.2.12 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm A.2.12",
+    "chapter": "PHỤ LỤC A",
+    "line": 661
+  },
+  {
+    "id": "sd1-muc-a-2-14",
+    "title": "Sửa đổi, bổ sung điểm A.2.14 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm A.2.14",
+    "chapter": "PHỤ LỤC A",
+    "line": 669
+  },
+  {
+    "id": "sd1-muc-a-2-20",
+    "title": "Sửa đổi, bổ sung điểm A.2.20 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm A.2.20",
+    "chapter": "PHỤ LỤC A",
+    "line": 677
+  },
+  {
+    "id": "sd1-muc-a-2-25-5",
+    "title": "Bổ sung điểm A.2.25.5 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm A.2.25.5",
+    "chapter": "PHỤ LỤC A",
+    "line": 681
+  },
+  {
+    "id": "sd1-muc-a-3-1-8",
+    "title": "Sửa đổi điểm A.3.1.8 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm A.3.1.8",
+    "chapter": "PHỤ LỤC A",
+    "line": 685
+  },
+  {
+    "id": "sd1-muc-a-3-1-13",
+    "title": "Sửa đổi điểm A.3.1.13 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm A.3.1.13",
+    "chapter": "PHỤ LỤC A",
+    "line": 689
+  },
+  {
+    "id": "sd1-muc-a-3-1-16",
+    "title": "Bãi bỏ đoạn e) điểm A.3.1.16.",
+    "action_type": "repeal",
+    "target_clause": "điểm A.3.1.16",
+    "chapter": "PHỤ LỤC A",
+    "line": 693
+  },
+  {
+    "id": "sd1-muc-a-3-2-1",
+    "title": "Sửa đổi đoạn thứ nhất và đoạn a) của điểm A.3.2.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm A.3.2.1",
+    "chapter": "PHỤ LỤC A",
+    "line": 695
+  },
+  {
+    "id": "sd1-muc-a-3-2-2",
+    "title": "Bổ sung điểm A.3.2.2 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm A.3.2.2",
+    "chapter": "PHỤ LỤC A",
+    "line": 705
+  },
+  {
+    "id": "sd1-phu-luc-a",
+    "title": "Bãi bỏ A.4 của Phụ lục A.",
+    "action_type": "repeal",
+    "target_clause": "Phụ lục A",
+    "chapter": "PHỤ LỤC A",
+    "line": 733
+  },
+  {
+    "id": "sd1-muc-c-3-1",
+    "title": "Sửa đổi, bổ sung điểm C.3.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm C.3.1",
+    "chapter": "PHỤ LỤC C",
+    "line": 741
+  },
+  {
+    "id": "sd1-muc-c-3-2",
+    "title": "Sửa đổi đoạn thứ nhất của điểm C.3.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm C.3.2",
+    "chapter": "PHỤ LỤC C",
+    "line": 747
+  },
+  {
+    "id": "sd1-muc-c-3-2-2",
+    "title": "Bổ sung vào gạch đầu dòng thứ hai của điểm C.3.2.2 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm C.3.2.2",
+    "chapter": "PHỤ LỤC C",
+    "line": 751
+  },
+  {
+    "id": "sd1-muc-d-1-1",
+    "title": "Bổ sung vào cuối điểm D.1.1 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm D.1.1",
+    "chapter": "PHỤ LỤC D",
+    "line": 761
+  },
+  {
+    "id": "sd1-muc-d-1-2",
+    "title": "Sửa đổi điểm D.1.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm D.1.2",
+    "chapter": "PHỤ LỤC D",
+    "line": 765
+  },
+  {
+    "id": "sd1-muc-d-1-3",
+    "title": "Sửa đổi đoạn thứ nhất của điểm D.1.3 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm D.1.3",
+    "chapter": "PHỤ LỤC D",
+    "line": 769
+  },
+  {
+    "id": "sd1-muc-d-1-5",
+    "title": "Sửa đổi đoạn thứ nhất của điểm D.1.5 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm D.1.5",
+    "chapter": "PHỤ LỤC D",
+    "line": 773
+  },
+  {
+    "id": "sd1-muc-d-1-7",
+    "title": "Sửa đổi điểm D.1.7 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm D.1.7",
+    "chapter": "PHỤ LỤC D",
+    "line": 777
+  },
+  {
+    "id": "sd1-muc-d-1-8",
+    "title": "Sửa đổi CHÚ THÍCH của điểm D.1.8 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm D.1.8",
+    "chapter": "PHỤ LỤC D",
+    "line": 781
+  },
+  {
+    "id": "sd1-muc-d-2",
+    "title": "Sửa đổi, bổ sung điểm D.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm D.2",
+    "chapter": "PHỤ LỤC D",
+    "line": 785
+  },
+  {
+    "id": "sd1-muc-d-8",
+    "title": "Sửa đổi đoạn thứ nhất và đoạn thứ hai của điểm D.8 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm D.8",
+    "chapter": "PHỤ LỤC D",
+    "line": 801
+  },
+  {
+    "id": "sd1-muc-d-9",
+    "title": "Sửa đổi đoạn b) của điểm D.9 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm D.9",
+    "chapter": "PHỤ LỤC D",
+    "line": 805
+  },
+  {
+    "id": "sd1-muc-3",
+    "title": "Bổ sung CHÚ THÍCH 3 và CHÚ THÍCH 4 vào sau CHÚ THÍCH 2 của đoạn b) điểm D.9 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm 3",
+    "chapter": "PHỤ LỤC D",
+    "line": 809
+  },
+  {
+    "id": "sd1-muc-d-14-5",
+    "title": "Sửa đổi điểm D.14.5 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm D.14.5",
+    "chapter": "PHỤ LỤC D",
+    "line": 819
+  },
+  {
+    "id": "sd1-bang-e-1",
+    "title": "Sửa đổi, bổ sung CHÚ THÍCH 6 của Bảng E.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "Bảng E.1",
+    "chapter": "PHỤ LỤC E",
+    "line": 835
+  },
+  {
+    "id": "sd1-muc-e-2",
+    "title": "Sửa đổi điểm E.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm E.2",
+    "chapter": "PHỤ LỤC E",
+    "line": 843
+  },
+  {
+    "id": "sd1-muc-e-3",
+    "title": "Sửa đổi tiêu đề điểm E.3 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm E.3",
+    "chapter": "PHỤ LỤC E",
+    "line": 847
+  },
+  {
+    "id": "sd1-muc-e-3-1",
+    "title": "Sửa đổi, bổ sung điểm E.3.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm E.3.1",
+    "chapter": "PHỤ LỤC E",
+    "line": 851
+  },
+  {
+    "id": "sd1-muc-e-3-2",
+    "title": "Sửa đổi điểm E.3.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm E.3.2",
+    "chapter": "PHỤ LỤC E",
+    "line": 855
+  },
+  {
+    "id": "sd1-muc-e-3-3",
+    "title": "Bổ sung vào sau câu thứ hai của điểm E.3.3 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm E.3.3",
+    "chapter": "PHỤ LỤC E",
+    "line": 859
+  },
+  {
+    "id": "sd1-muc-g-1-2-1",
+    "title": "Bãi bỏ CHÚ THÍCH của điểm G.1.2.1.",
+    "action_type": "repeal",
+    "target_clause": "điểm G.1.2.1",
+    "chapter": "PHỤ LỤC G",
+    "line": 871
+  },
+  {
+    "id": "sd1-bang-g2a",
+    "title": "Sửa đổi Bảng G2a như sau:",
+    "action_type": "modify",
+    "target_clause": "Bảng G2a",
+    "chapter": "PHỤ LỤC G",
+    "line": 873
+  },
+  {
+    "id": "sd1-muc-g-3",
+    "title": "Sửa đổi điểm G.3 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm G.3",
+    "chapter": "PHỤ LỤC G",
+    "line": 877
+  },
+  {
+    "id": "sd1-muc-h-2-1",
+    "title": "Sửa đổi đoạn thứ nhất của điểm H.2.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm H.2.1",
+    "chapter": "PHỤ LỤC H",
+    "line": 887
+  },
+  {
+    "id": "sd1-muc-h-2-4-4",
+    "title": "Sửa đổi điểm H.2.4.4 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm H.2.4.4",
+    "chapter": "PHỤ LỤC H",
+    "line": 891
+  },
+  {
+    "id": "sd1-bang-h-6",
+    "title": "Sửa đổi CHÚ THÍCH của Bảng H.6 như sau:",
+    "action_type": "modify",
+    "target_clause": "Bảng H.6",
+    "chapter": "PHỤ LỤC H",
+    "line": 895
+  },
+  {
+    "id": "sd1-muc-h-2-9-1",
+    "title": "Sửa đổi, bổ sung điểm H.2.9.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm H.2.9.1",
+    "chapter": "PHỤ LỤC H",
+    "line": 899
+  },
+  {
+    "id": "sd1-muc-h-2-10-1",
+    "title": "Sửa đổi, bổ sung điểm H.2.10.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm H.2.10.1",
+    "chapter": "PHỤ LỤC H",
+    "line": 923
+  },
+  {
+    "id": "sd1-muc-h-2-10-3",
+    "title": "Bãi bỏ điểm H.2.10.3.",
+    "action_type": "repeal",
+    "target_clause": "điểm H.2.10.3",
+    "chapter": "PHỤ LỤC H",
+    "line": 943
+  },
+  {
+    "id": "sd1-muc-h-2-11-1",
+    "title": "Sửa đổi điểm H.2.11.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm H.2.11.1",
+    "chapter": "PHỤ LỤC H",
+    "line": 945
+  },
+  {
+    "id": "sd1-muc-h-2-12-4",
+    "title": "Bổ sung vào cuối điểm H.2.12.4 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm H.2.12.4",
+    "chapter": "PHỤ LỤC H",
+    "line": 949
+  },
+  {
+    "id": "sd1-muc-h-2-12-10",
+    "title": "Bổ sung điểm H.2.12.10 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm H.2.12.10",
+    "chapter": "PHỤ LỤC H",
+    "line": 953
+  },
+  {
+    "id": "sd1-bang-h-8",
+    "title": "Bổ sung vào cuối CHÚ THÍCH 2 của Bảng H.8 như sau:",
+    "action_type": "add",
+    "target_clause": "Bảng H.8",
+    "chapter": "PHỤ LỤC H",
+    "line": 957
+  },
+  {
+    "id": "sd1-muc-h-4-1",
+    "title": "Sửa đổi điểm H.4.1 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm H.4.1",
+    "chapter": "PHỤ LỤC H",
+    "line": 961
+  },
+  {
+    "id": "sd1-bang-h-9",
+    "title": "Sửa đổi, bổ sung Bảng H.9 như sau:",
+    "action_type": "modify",
+    "target_clause": "Bảng H.9",
+    "chapter": "PHỤ LỤC H",
+    "line": 965
+  },
+  {
+    "id": "sd1-bang-h-10",
+    "title": "Sửa đổi, bổ sung Bảng H.10 như sau:",
+    "action_type": "modify",
+    "target_clause": "Bảng H.10",
+    "chapter": "PHỤ LỤC H",
+    "line": 985
+  },
+  {
+    "id": "sd1-bang-h-11",
+    "title": "Sửa đổi, bổ sung Bảng H.11 như sau:",
+    "action_type": "modify",
+    "target_clause": "Bảng H.11",
+    "chapter": "PHỤ LỤC H",
+    "line": 999
+  },
+  {
+    "id": "sd1-muc-h-5-2",
+    "title": "Sửa đổi điểm H.5.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm H.5.2",
+    "chapter": "PHỤ LỤC H",
+    "line": 1021
+  },
+  {
+    "id": "sd1-muc-h-6-2",
+    "title": "Sửa đổi gạch đầu dòng cuối cùng của đoạn thứ hai điểm H.6.2 như sau:",
+    "action_type": "modify",
+    "target_clause": "điểm H.6.2",
+    "chapter": "PHỤ LỤC H",
+    "line": 1027
+  },
+  {
+    "id": "sd1-muc-h-7",
+    "title": "Bổ sung điểm H.7 như sau:",
+    "action_type": "add",
+    "target_clause": "điểm H.7",
+    "chapter": "PHỤ LỤC H",
+    "line": 1031
+  }
+]
