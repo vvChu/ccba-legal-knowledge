@@ -78,7 +78,7 @@ Chỉ xuất DUY NHẤT mã JSON hợp lệ, không kèm giải thích."""
                 response = ai.chat(prompt)
                 raw_json = response.strip()
             except Exception as exc:
-                raise RuntimeError(f"AI Gateway invocation failed: {exc}")
+                raise RuntimeError(f"AI Gateway invocation failed: {exc}") from exc
 
         # Clean JSON markdown blocks
         if raw_json.startswith("```"):

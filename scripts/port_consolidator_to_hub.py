@@ -431,7 +431,19 @@ Thay vì dùng Regex/NLP thuần túy giòn và dễ lỗi hoặc Prompt LLM t�
 """
     proposal_file.write_text(proposal_content, encoding="utf-8")
     print(f"  -> Updated {proposal_file}")
+
+    print("5. Updating PLATFORM.md on Hub...")
+    platform_file = HUB_DIR / "PLATFORM.md"
+    p_text = platform_file.read_text(encoding="utf-8")
+    p_text = p_text.replace(
+        "| `ccba-legal-intel` | Legal intelligence services and connectors | `pip install -e \"packages/ccba-legal-intel\"` |",
+        "| `ccba-legal-intel` | Legal intelligence services, legislative consolidator & connectors | `pip install -e \"packages/ccba-legal-intel\"` |"
+    )
+    platform_file.write_text(p_text, encoding="utf-8")
+    print(f"  -> Updated {platform_file}")
+
     print("✅ Porting completed successfully!")
 
 if __name__ == "__main__":
     port_all()
+
