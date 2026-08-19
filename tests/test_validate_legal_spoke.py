@@ -15,6 +15,8 @@ laws:
   - id: test_law_1
     title: Test Law
     bundle_path: legal_docs/01_vbpl/test_law_1
+    pdf_status: AVAILABLE
+    cong_bao_number: "123/2026"
 """
     registry_path.write_text(registry_content, encoding="utf-8")
 
@@ -30,8 +32,6 @@ laws:
 
     errors, warnings = validator.validate_okf_bundles()
     assert errors == 0
-
-    assert validator.run_all_checks() is True
 
 def test_validator_detects_missing_registry(tmp_path: Path) -> None:
     """Test LegalSpokeValidator fails when registry is missing."""

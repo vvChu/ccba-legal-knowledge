@@ -1,0 +1,43 @@
+target_doc_id: qcvn_06_2022_bxd
+amending_doc_id: sua_doi_1_2023_qcvn_06_2022_bxd
+doc_mode: qcvn
+title: QCVN 06:2022/BXD — Sửa Đổi 1:2023 (TT 09/2023/TT-BXD)
+official_citation: Thông tư số 09/2023/TT-BXD ngày 16/10/2023 của Bộ trưởng Bộ Xây dựng
+effective_date: "2023-12-01"
+
+patches:
+  - action: REPLACE
+    target_anchor: muc-1-1-2
+    citation: Sửa đổi bởi Sửa đổi 1:2023 (TT 09/2023/TT-BXD)
+    defect_severity: CRITICAL_DEFECT
+    jurisdiction: CQXD
+    source_pdf_page: 15
+    new_content_inline: |
+      Quy chuẩn này áp dụng đối với các nhà và công trình sau: Nhà ở (chung cư, nhà tập thể, ký túc xá, nhà hỗn hợp); Nhà công cộng; Nhà sản xuất, kho tàng; Nhà nông nghiệp và các công trình đặc thù khác theo quy định.
+
+  - action: REPLACE
+    target_anchor: muc-1-1-4
+    citation: Sửa đổi bởi Sửa đổi 1:2023 (TT 09/2023/TT-BXD)
+    defect_severity: WARNING_NOTICE
+    jurisdiction: CQXD
+    source_pdf_page: 16
+    new_content_inline: |
+      Đối với các nhà và công trình đã được cấp Giấy phép xây dựng hoặc đã được thẩm duyệt thiết kế PCCC trước ngày quy chuẩn này có hiệu lực thì tiếp tục áp dụng theo thiết kế đã được phê duyệt.
+
+  - action: REPLACE
+    target_anchor: bang-1
+    citation: Sửa đổi Bảng 1 bởi Sửa đổi 1:2023 (TT 09/2023/TT-BXD)
+    defect_severity: CRITICAL_DEFECT
+    jurisdiction: CQXD
+    source_pdf_page: 25
+    new_content_inline: |
+      Bảng 1 quy định Bậc chịu lửa của nhà và giới hạn chịu lửa của các bộ phận kết cấu công trình đã được cập nhật chuẩn hóa cho kết cấu thép và vật liệu bảo vệ chống cháy mới.
+
+  - action: REPLACE
+    target_anchor: bang-10
+    citation: Thay thế toàn bộ Bảng 10 theo Sửa đổi 1:2023
+    defect_severity: CRITICAL_DEFECT
+    jurisdiction: CONG_AN
+    source_pdf_page: 45
+    new_content_inline: |
+      Bảng 10 — Khoảng cách PCCC giữa các nhà và công trình đã được nới lỏng và bổ sung giải pháp tường ngăn cháy loại 1 thay thế.

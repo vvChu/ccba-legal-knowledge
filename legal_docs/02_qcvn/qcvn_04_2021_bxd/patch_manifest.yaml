@@ -1,0 +1,107 @@
+target_doc_id: qcvn_04_2021_bxd
+amending_doc_id: sua_doi_01_2026_qcvn_04_2021_bxd
+doc_mode: qcvn
+title: QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD)
+official_citation: Thông tư số 31/2026/TT-BXD ngày 15/06/2026 của Bộ trưởng Bộ Xây dựng
+effective_date: "2026-12-15"
+
+patches:
+  - action: INSERT_AFTER
+    target_anchor: muc-1-1-2
+    new_anchor: muc-1-1-3
+    citation: Bổ sung bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD)
+    defect_severity: CRITICAL_DEFECT
+    jurisdiction: CQXD
+    source_pdf_page: 96
+    new_content_inline: |
+      #### <a id="muc-1-1-3" name="muc-1-1-3"></a>1.1.3
+      
+      Các quy định liên quan đến chỗ để xe, chỗ để xe điện và khu vực đổi pin áp dụng đối với nhà chung cư xây mới và nhà chung cư hiện hữu.
+
+  - action: APPEND
+    target_anchor: muc-1-3
+    citation: Bổ sung bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD)
+    defect_severity: INFORMATIVE
+    jurisdiction: CQXD
+    source_pdf_page: 96
+    new_content_inline: |
+      QCVN 10:2025/BCA, *Quy chuẩn kỹ thuật quốc gia về trang bị, bố trí phương tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ cho nhà và công trình.*
+
+  - action: INSERT_RANGE_AFTER
+    target_anchor: muc-1-4-30
+    new_anchors:
+      - muc-1-4-31
+      - muc-1-4-32
+      - muc-1-4-33
+      - muc-1-4-34
+    citation: Bổ sung bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD)
+    defect_severity: INFORMATIVE
+    jurisdiction: CQXD
+    source_pdf_page: 96
+    new_content_inline: |
+      #### <a id="muc-1-4-31" name="muc-1-4-31"></a>1.4.31  Nhà chung cư hiện hữu
+      
+      Nhà chung cư đã được nghiệm thu, đưa vào sử dụng theo quy định của pháp luật về xây dựng trước thời điểm quy chuẩn này có hiệu lực.
+      
+      #### <a id="muc-1-4-32" name="muc-1-4-32"></a>1.4.32  Khu vực sạc xe điện
+      
+      Khu vực có chức năng chuyên để sạc xe điện, gồm một hoặc nhiều chỗ sạc được bố trí tập trung, được trang bị hệ thống cấp điện, thiết bị sạc và các biện pháp an toàn cần thiết để thực hiện việc sạc năng lượng cho xe điện.
+      
+      #### <a id="muc-1-4-33" name="muc-1-4-33"></a>1.4.33  Chỗ sạc
+      
+      Vị trí đỗ dành cho một xe để thực hiện sạc điện.
+      
+      #### <a id="muc-1-4-34" name="muc-1-4-34"></a>1.4.34  Khu vực đổi pin
+      
+      Khu vực lắp đặt tủ đổi pin cho xe mô tô điện, xe gắn máy điện, xe đạp điện, nơi pin có thể hoán đổi.
+
+  - action: REPLACE
+    target_anchor: muc-2-2-17
+    citation: Sửa đổi bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD)
+    defect_severity: CRITICAL_DEFECT
+    jurisdiction: CQXD
+    source_pdf_page: 97
+    new_content_inline: |
+      Chỗ để xe của nhà chung cư (bao gồm xe ô tô, xe máy, xe đạp, xe điện) phải tuân thủ các quy định tại Mục 2.10 và các quy chuẩn hiện hành.
+
+  - action: INSERT_AFTER
+    target_anchor: muc-2-9
+    new_anchor: muc-2-10
+    citation: Bổ sung Mục 2.10 và 2.11 bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD)
+    defect_severity: CRITICAL_DEFECT
+    jurisdiction: CQXD
+    grace_period_end: "2027-06-15"
+    source_pdf_page: 98
+    new_content_inline: |
+      ### <a id="muc-2-10" name="muc-2-10"></a>2.10  Yêu cầu về chỗ để xe điện
+      
+      Khu vực để xe điện, trạm sạc xe điện trong nhà chung cư phải được thiết kế tách biệt và có giải pháp ngăn cháy lan theo quy định của QCVN 06:2022/BXD và Sửa đổi 01:2026.
+      
+      ### <a id="muc-2-11" name="muc-2-11"></a>2.11  Yêu cầu về khu vực đổi pin
+      
+      Khu vực tủ đổi pin xe điện phải được bố trí tại vị trí thông thoáng, trang bị hệ thống chữa cháy tự động và ngắt điện khẩn cấp.
+
+  - action: APPEND
+    target_anchor: muc-3-3
+    citation: Bổ sung Quy định chuyển tiếp và Điều 3.4, 3.5 bởi Sửa đổi 01:2026
+    defect_severity: CRITICAL_DEFECT
+    jurisdiction: CQXD
+    grace_period_end: "2027-06-15"
+    source_pdf_page: 100
+    new_content_inline: |
+      Quy định chuyển tiếp: Nhà chung cư hiện hữu có thời hạn đến ngày 15/06/2027 để hoàn thành việc rà soát và đáp ứng các yêu cầu về an toàn cháy cho khu vực để xe điện và trạm sạc.
+      
+      ### 3.4  Trách nhiệm quản lý vận hành khu vực để xe điện
+      Chủ đầu tư, ban quản trị phải có phương án an toàn và bảo trì định kỳ.
+      
+      ### 3.5  Giám sát 24/24
+      Khu vực để xe điện và trạm sạc phải được giám sát liên tục 24/24 giờ.
+
+  - action: REPLACE
+    target_anchor: muc-4-3
+    citation: Sửa đổi bởi Sửa đổi 01:2026
+    defect_severity: INFORMATIVE
+    jurisdiction: CQXD
+    source_pdf_page: 101
+    new_content_inline: |
+      Trong quá trình triển khai thực hiện, nếu có vướng mắc, mọi ý kiến gửi về Bộ Xây dựng để được hướng dẫn và xử lý.
