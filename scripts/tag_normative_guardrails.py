@@ -15,7 +15,6 @@ sys.stdout.reconfigure(encoding="utf-8")
 BUNDLE_DIR = Path(__file__).resolve().parent.parent / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 CLAUSES_JSON = BUNDLE_DIR / "clauses.json"
 
-
 def tag_clauses() -> None:
     if not CLAUSES_JSON.exists():
         print(f"❌ File not found: {CLAUSES_JSON}")
@@ -44,14 +43,12 @@ def tag_clauses() -> None:
     print(f"   - Mandatory (Bắt buộc) : {mandatory_count} điều khoản")
     print(f"   - Informative (Tham khảo): {informative_count} điều khoản")
 
-
 def main() -> None:
     print("=================================================================")
     print("      TAGGING LEGAL ENFORCEABILITY GUARDRAILS (ADR 0003)        ")
     print("=================================================================")
     tag_clauses()
     print("=================================================================")
-
 
 if __name__ == "__main__":
     main()

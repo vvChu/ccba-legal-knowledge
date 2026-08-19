@@ -20,7 +20,6 @@ from tests.conftest import (
     MarkdownParsedBundle,
 )
 
-
 # =====================================================================
 # SCENARIO S1: END-TO-END FIRE COMPARTMENT QUERY (RAG RETRIEVAL)
 # =====================================================================
@@ -50,7 +49,6 @@ def test_scenario_s1_fire_compartment_rag_query(
     # 4. Verify cross-reference in Markdown body
     assert "2.3" in qcvn_md_parsed.normalized_text, "Điều 2.3 cross-reference missing in Markdown"
 
-
 # =====================================================================
 # SCENARIO S2: SMOKE CONTROL & EXTRACTION FORMULA LOOKUP (APPENDIX D)
 # =====================================================================
@@ -78,7 +76,6 @@ def test_scenario_s2_smoke_control_formula_lookup(
         "Smoke formula calculation symbols/units missing in Markdown"
     )
 
-
 # =====================================================================
 # SCENARIO S3: TECHNICAL TABLE PARAMETER EXTRACTION (BẢNG E.4a / E.4b)
 # =====================================================================
@@ -98,7 +95,6 @@ def test_scenario_s3_fire_separation_distance_lookup(
     assert len(t_e4a[0].get("rows", [])) > 0, "Bảng E.4a has no data rows"
     assert len(t_e4b[0].get("rows", [])) > 0, "Bảng E.4b has no data rows"
 
-
 # =====================================================================
 # SCENARIO S4: AMENDMENT 1:2023 WATER FLOW OVERRIDE (BẢNG 10)
 # =====================================================================
@@ -113,7 +109,6 @@ def test_scenario_s4_amendment_water_flow_override(
 
     # 2. Check anchor 'sd1-bang-10'
     assert "sd1-bang-10" in sd1_md_parsed.get("anchors", set()), "Anchor 'sd1-bang-10' missing in SD1"
-
 
 # =====================================================================
 # SCENARIO S5: BIDIRECTIONAL LEGAL CROSS-REFERENCE NAVIGATION
@@ -131,7 +126,6 @@ def test_scenario_s5_bidirectional_cross_reference_navigation(
         if "#" in target_url:
             anchor_name = target_url.split("#")[-1]
             assert anchor_name in qcvn_md_parsed.anchors, f"Broken cross-link target '{anchor_name}' for '{label}'"
-
 
 # =====================================================================
 # SCENARIO S6: AST CLAUSE TREE HIERARCHY TRAVERSAL
@@ -153,7 +147,6 @@ def test_scenario_s6_ast_clause_tree_hierarchy_traversal(
     l_end = node["line_end"]
     assert 1 <= l_start <= l_end <= len(qcvn_md_parsed.raw_lines)
 
-
 # =====================================================================
 # SCENARIO S7: FOOTNOTE REGULATORY INTERPRETATION
 # =====================================================================
@@ -171,7 +164,6 @@ def test_scenario_s7_footnote_regulatory_interpretation(
         fn_list = t_data.get("footnotes", [])
         for fn in fn_list:
             assert len(fn) > 10, f"Footnote too short in {t_data.get('title')}: '{fn}'"
-
 
 # =====================================================================
 # SCENARIO S8: FULL OKF SPOKE & REGISTRY VERIFICATION GATE

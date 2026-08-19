@@ -12,7 +12,6 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 BUNDLE_DIR = Path(__file__).resolve().parent.parent / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 
-
 def run_experiment_1_table_exception_query() -> Dict[str, Any]:
     """Test Scenario 1: Look up Fire Resistance Limits & Basement Exceptions for F1.3 Grade II with 2 basements."""
     t0 = time.perf_counter()
@@ -49,7 +48,6 @@ def run_experiment_1_table_exception_query() -> Dict[str, Any]:
         },
     }
 
-
 def run_experiment_2_amendment_cross_query() -> Dict[str, Any]:
     """Test Scenario 2: Individual house combined business (6 storeys, 4500m3) scope under TT 09/2023."""
     t0 = time.perf_counter()
@@ -76,7 +74,6 @@ def run_experiment_2_amendment_cross_query() -> Dict[str, Any]:
             "conclusion": "Nhà 6 tầng, 4.500m3 KHÔNG bắt buộc áp dụng QCVN 06 (được áp dụng tiêu chuẩn nhà ở riêng lẻ theo CHÚ THÍCH 1.1.2)",
         },
     }
-
 
 def run_experiment_3_ast_indexing_retrieval() -> Dict[str, Any]:
     """Test Scenario 3: Retrieval precision via AST index (clauses.json)."""
@@ -106,7 +103,6 @@ def run_experiment_3_ast_indexing_retrieval() -> Dict[str, Any]:
         },
     }
 
-
 def main() -> None:
     print("=================================================================")
     print("      CCBA AGENT SIMULATION & KNOWLEDGE RETRIEVAL EXPERIMENT      ")
@@ -127,7 +123,6 @@ def main() -> None:
     print(f"-> Trạng thái: {'PASSED' if exp3['success'] else 'FAILED'}")
     print(f"-> Kết quả: {json.dumps(exp3['result'], ensure_ascii=False, indent=2)}")
     print("=================================================================")
-
 
 if __name__ == "__main__":
     main()

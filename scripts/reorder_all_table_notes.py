@@ -16,7 +16,6 @@ if hasattr(sys.stdout, "reconfigure"):
 ROOT_DIR = Path(__file__).resolve().parent.parent
 BUNDLE_DIR = ROOT_DIR / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 
-
 def format_table_notes_in_text(text: str) -> str:
     lines = text.splitlines()
     new_lines = []
@@ -68,7 +67,6 @@ def format_table_notes_in_text(text: str) -> str:
     res = re.sub(r"\n{3,}", "\n\n", res)
     return res
 
-
 def polish_all_files():
     for fname in ["qcvn_06_2022_bxd.md", "qcvn_06_2022_bxd_hop_nhat_2023.md", "sua_doi_1_2023_qcvn_06_2022_bxd.md"]:
         fpath = BUNDLE_DIR / fname
@@ -78,7 +76,6 @@ def polish_all_files():
         polished = format_table_notes_in_text(text)
         fpath.write_text(polished, encoding="utf-8")
         print(f"✅ Đã chuẩn hóa Chú thích chân bảng cho: {fname}")
-
 
 if __name__ == "__main__":
     polish_all_files()

@@ -15,7 +15,6 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 bundle_dir = Path(__file__).resolve().parent.parent / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 
-
 def process_file(md_path: Path) -> int:
     text = md_path.read_text(encoding="utf-8")
 
@@ -33,7 +32,6 @@ def process_file(md_path: Path) -> int:
     md_path.write_text(new_text, encoding="utf-8")
     return count
 
-
 def main() -> None:
     print("=================================================================")
     print("      INLINE ANCHORS TO HEADINGS FOR PRECISE SCROLLING          ")
@@ -46,7 +44,6 @@ def main() -> None:
     print(f"✅ Đã inline {c2} thẻ neo vào đề mục của sua_doi_1_2023_qcvn_06_2022_bxd.md")
 
     print("=================================================================")
-
 
 if __name__ == "__main__":
     main()

@@ -4,7 +4,6 @@ import time
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
-
 def download_qcvn_docx() -> bool:
     target_dir = Path(".md/extracted_docs/qcvn_06_2022_bxd")
     target_dir.mkdir(parents=True, exist_ok=True)
@@ -65,7 +64,6 @@ def download_qcvn_docx() -> bool:
             print("[Error] Download link not found on page.")
             browser.close()
             return False
-
 
 if __name__ == "__main__":
     download_qcvn_docx()

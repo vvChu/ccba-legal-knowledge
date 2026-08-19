@@ -16,7 +16,6 @@ import docx
 import pytest
 import yaml
 
-
 # =====================================================================
 # 1. DATACLASS MODELS FOR HIGH-SPEED IN-MEMORY INDEXING
 # =====================================================================
@@ -35,7 +34,6 @@ class DocxTableData:
     total_cells: int
     footnotes: List[str] = field(default_factory=list)
 
-
 @dataclass
 class DocxParsedBundle:
     """Represents a fully parsed official .docx document."""
@@ -46,7 +44,6 @@ class DocxParsedBundle:
     tables: List[DocxTableData]
     table_map: Dict[str, DocxTableData]
     chapter_paragraphs: Dict[str, List[str]]
-
 
 @dataclass
 class MarkdownParsedBundle:
@@ -60,7 +57,6 @@ class MarkdownParsedBundle:
     pipe_tables: List[Dict[str, Any]]
     pipe_table_map: Dict[str, Dict[str, Any]]
     substantive_paragraphs: List[str]
-
 
 # =====================================================================
 # 2. HIGH-PRECISION PARSER IMPLEMENTATIONS
@@ -186,7 +182,6 @@ def parse_docx_qcvn(docx_path: Path) -> DocxParsedBundle:
         chapter_paragraphs=chapter_paragraphs,
     )
 
-
 def parse_markdown_qcvn(md_path: Path) -> MarkdownParsedBundle:
     """Parses qcvn_06_2022_bxd.md into structured headings, anchors, and GFM pipe tables."""
     if not md_path.exists():
@@ -232,7 +227,6 @@ def parse_markdown_qcvn(md_path: Path) -> MarkdownParsedBundle:
             # Check if this heading is a table title
             if re.match(r"^Bảng\s+([A-Z0-9]+(?:\.[0-9]+[a-z]?)?)", h_text, re.IGNORECASE):
                 current_table_title = h_text
-
 
         # Table detection
         if stripped.startswith("|") and stripped.endswith("|"):
@@ -297,7 +291,6 @@ def parse_markdown_qcvn(md_path: Path) -> MarkdownParsedBundle:
         substantive_paragraphs=substantive_paragraphs,
     )
 
-
 def parse_docx_amendment(docx_path: Path) -> Dict[str, Any]:
     """Parses sua_doi_1_2023_qcvn_06_2022_bxd.docx into paragraphs, directives, and tables."""
     if not docx_path.exists():
@@ -334,7 +327,6 @@ def parse_docx_amendment(docx_path: Path) -> Dict[str, Any]:
         "tables": tables_data,
         "total_tables": len(tables_data),
     }
-
 
 def parse_markdown_amendment(md_path: Path) -> Dict[str, Any]:
     """Parses sua_doi_1_2023_qcvn_06_2022_bxd.md into directives, anchors, links, and Table 10."""
@@ -376,7 +368,6 @@ def parse_markdown_amendment(md_path: Path) -> Dict[str, Any]:
         "table_10_lines": table_10_lines,
     }
 
-
 # =====================================================================
 # 3. SESSION-SCOPED PYTEST FIXTURES
 # =====================================================================
@@ -386,66 +377,55 @@ def repo_root() -> Path:
     """Project repository root directory."""
     return Path(__file__).resolve().parent.parent
 
-
 @pytest.fixture(scope="session")
 def qcvn_bundle_dir(repo_root: Path) -> Path:
     """QCVN 06:2022/BXD OKF Bundle directory."""
     return repo_root / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
-
 
 @pytest.fixture(scope="session")
 def extracted_docs_dir(repo_root: Path) -> Path:
     """Extracted raw official .docx directory."""
     return repo_root / ".md" / "extracted_docs" / "qcvn_06_2022_bxd"
 
-
 @pytest.fixture(scope="session")
 def docx_qcvn_path(extracted_docs_dir: Path) -> Path:
     """Path to qcvn_06_2022_bxd.docx."""
     return extracted_docs_dir / "qcvn_06_2022_bxd.docx"
-
 
 @pytest.fixture(scope="session")
 def docx_sd1_path(extracted_docs_dir: Path) -> Path:
     """Path to sua_doi_1_2023_qcvn_06_2022_bxd.docx."""
     return extracted_docs_dir / "sua_doi_1_2023_qcvn_06_2022_bxd.docx"
 
-
 @pytest.fixture(scope="session")
 def md_qcvn_path(qcvn_bundle_dir: Path) -> Path:
     """Path to qcvn_06_2022_bxd.md."""
     return qcvn_bundle_dir / "qcvn_06_2022_bxd.md"
-
 
 @pytest.fixture(scope="session")
 def md_sd1_path(qcvn_bundle_dir: Path) -> Path:
     """Path to sua_doi_1_2023_qcvn_06_2022_bxd.md."""
     return qcvn_bundle_dir / "sua_doi_1_2023_qcvn_06_2022_bxd.md"
 
-
 @pytest.fixture(scope="session")
 def qcvn_docx_parsed(docx_qcvn_path: Path) -> DocxParsedBundle:
     """Cached in-memory parsed model of qcvn_06_2022_bxd.docx."""
     return parse_docx_qcvn(docx_qcvn_path)
-
 
 @pytest.fixture(scope="session")
 def sd1_docx_parsed(docx_sd1_path: Path) -> Dict[str, Any]:
     """Cached in-memory parsed model of sua_doi_1_2023_qcvn_06_2022_bxd.docx."""
     return parse_docx_amendment(docx_sd1_path)
 
-
 @pytest.fixture(scope="session")
 def qcvn_md_parsed(md_qcvn_path: Path) -> MarkdownParsedBundle:
     """Cached in-memory parsed model of qcvn_06_2022_bxd.md."""
     return parse_markdown_qcvn(md_qcvn_path)
 
-
 @pytest.fixture(scope="session")
 def sd1_md_parsed(md_sd1_path: Path) -> Dict[str, Any]:
     """Cached in-memory parsed model of sua_doi_1_2023_qcvn_06_2022_bxd.md."""
     return parse_markdown_amendment(md_sd1_path)
-
 
 @pytest.fixture(scope="session")
 def json_tables_map(qcvn_bundle_dir: Path) -> Dict[str, dict]:
@@ -464,7 +444,6 @@ def json_tables_map(qcvn_bundle_dir: Path) -> Dict[str, dict]:
                     pass
     return result
 
-
 @pytest.fixture(scope="session")
 def csv_tables_map(qcvn_bundle_dir: Path) -> Dict[str, List[List[str]]]:
     """Map of slug/stem to list of CSV rows for all 64 files in tables/csv/."""
@@ -480,7 +459,6 @@ def csv_tables_map(qcvn_bundle_dir: Path) -> Dict[str, List[List[str]]]:
                     pass
     return result
 
-
 @pytest.fixture(scope="session")
 def clauses_ast_data(qcvn_bundle_dir: Path) -> List[dict]:
     """Parsed content of clauses.json."""
@@ -490,7 +468,6 @@ def clauses_ast_data(qcvn_bundle_dir: Path) -> List[dict]:
             return json.load(f)
     return []
 
-
 @pytest.fixture(scope="session")
 def qa_benchmark_data(qcvn_bundle_dir: Path) -> List[dict]:
     """Parsed content of qa_benchmark.json."""
@@ -499,7 +476,6 @@ def qa_benchmark_data(qcvn_bundle_dir: Path) -> List[dict]:
         with open(qa_file, "r", encoding="utf-8") as f:
             return json.load(f)
     return []
-
 
 @pytest.fixture(scope="session")
 def legal_registry_data(repo_root: Path) -> dict:

@@ -18,7 +18,6 @@ BUNDLE_DIR = Path(__file__).resolve().parent.parent / "legal_docs" / "02_qcvn" /
 JSON_DIR = BUNDLE_DIR / "tables" / "json"
 CSV_DIR = BUNDLE_DIR / "tables" / "csv"
 
-
 def apply_improvement_1_amended_flags() -> None:
     """Flag all tables modified or replaced by Amendment 1:2023 (TT 09/2023/TT-BXD)."""
     amended_map = {
@@ -83,7 +82,6 @@ def apply_improvement_1_amended_flags() -> None:
             count += 1
 
     print(f"✅ Cải tiến 1: Đã gắn cờ Sửa đổi 1:2023 (amendment_status) cho {count} bảng kỹ thuật.")
-
 
 def apply_improvement_2_tables_catalog() -> None:
     """Generate tables_catalog.json and tables/README.md catalog index."""
@@ -164,7 +162,6 @@ def apply_improvement_2_tables_catalog() -> None:
     readme_path.write_text("\n".join(md_lines), encoding="utf-8")
     print(f"✅ Cải tiến 2: Đã tạo tables/README.md và tables_catalog.json cho 64 bảng kỹ thuật!")
 
-
 def apply_improvement_3_sd1_ast_tree() -> None:
     """Generate clauses_sd1.json AST index for Amendment 1:2023 (TT 09/2023/TT-BXD)."""
     sd_file = BUNDLE_DIR / "sua_doi_1_2023_qcvn_06_2022_bxd.md"
@@ -203,7 +200,6 @@ def apply_improvement_3_sd1_ast_tree() -> None:
     out_file.write_text(json.dumps(sd_clauses, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"✅ Cải tiến 3: Đã lập cây chỉ mục AST clauses_sd1.json gồm {len(sd_clauses)} nút sửa đổi!")
 
-
 def main() -> None:
     print("=================================================================")
     print("      TRIỂN KHAI 3 CẢI TIẾN NÂNG CAO TRI THỨC QCVN 06:2022        ")
@@ -212,7 +208,6 @@ def main() -> None:
     apply_improvement_2_tables_catalog()
     apply_improvement_3_sd1_ast_tree()
     print("=================================================================")
-
 
 if __name__ == "__main__":
     main()

@@ -42,7 +42,6 @@ import tests.test_tier2_boundaries as t2
 import tests.test_tier3_cross_features as t3
 import tests.test_tier4_real_world as t4
 
-
 def load_fixtures():
     """Loads and caches all standard test fixtures."""
     extracted_dir = REPO_ROOT / ".md" / "extracted_docs" / "qcvn_06_2022_bxd"
@@ -108,7 +107,6 @@ def load_fixtures():
         "md_sd1_path": md_sd1_path,
     }
 
-
 def run_mutation_trial(name: str, category: str, test_fn: Callable, args: tuple, expect_fail: bool = True) -> Dict[str, Any]:
     """Runs a single test assertion against mutated fixture data."""
     try:
@@ -132,7 +130,6 @@ def run_mutation_trial(name: str, category: str, test_fn: Callable, args: tuple,
         "killed": killed,
         "error_message": err[:200] if err else "",
     }
-
 
 def run_all_mutation_tests(fixtures: Dict[str, Any]) -> List[Dict[str, Any]]:
     """Generates and executes adversarial mutations across 4 tiers."""
@@ -546,7 +543,6 @@ def run_all_mutation_tests(fixtures: Dict[str, Any]) -> List[Dict[str, Any]]:
 
     return trials
 
-
 def run_performance_stress_test(fixtures: Dict[str, Any], iterations: int = 5) -> Dict[str, Any]:
     start_total = time.time()
 
@@ -606,7 +602,6 @@ def run_performance_stress_test(fixtures: Dict[str, Any], iterations: int = 5) -
         "avg_in_memory_assertion_batch_sec": round(sum(in_memory_assertion_times) / len(in_memory_assertion_times), 6),
         "total_benchmark_time_sec": round(total_time, 3),
     }
-
 
 def main():
     print("=" * 72)
@@ -675,7 +670,6 @@ def main():
     print("=" * 72)
 
     return 0 if mutation_score == 100.0 else 1
-
 
 if __name__ == "__main__":
     sys.exit(main())

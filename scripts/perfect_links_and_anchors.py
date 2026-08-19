@@ -17,7 +17,6 @@ bundle_dir = Path(__file__).resolve().parent.parent / "legal_docs" / "02_qcvn" /
 base_file = bundle_dir / "qcvn_06_2022_bxd.md"
 sd_file = bundle_dir / "sua_doi_1_2023_qcvn_06_2022_bxd.md"
 
-
 def fix_base_document() -> Set[str]:
     text = base_file.read_text(encoding="utf-8")
 
@@ -79,7 +78,6 @@ def fix_base_document() -> Set[str]:
     base_file.write_text(final_text, encoding="utf-8")
     return anchors
 
-
 def fix_amendment_links(anchors: Set[str]) -> None:
     text = sd_file.read_text(encoding="utf-8")
 
@@ -124,7 +122,6 @@ def fix_amendment_links(anchors: Set[str]) -> None:
     new_text = re.sub(r"\[([^\]]+)\]\((qcvn_06_2022_bxd\.md#[^\)]+)\)", replacer, text)
     sd_file.write_text(new_text, encoding="utf-8")
 
-
 def main() -> None:
     print("=================================================================")
     print("      LINK & ANCHOR PERFECTION ENGINE                           ")
@@ -133,7 +130,6 @@ def main() -> None:
     print(f"✅ Đã khởi tạo {len(anchors)} thẻ neo canonical!")
     fix_amendment_links(anchors)
     print("✅ Đã chuẩn hóa liên kết!")
-
 
 if __name__ == "__main__":
     main()

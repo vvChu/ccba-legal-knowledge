@@ -7,7 +7,6 @@ from scripts.gold_standard_processor import process_okf_bundle
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-
 def clean_all_residual_blocks(md_path: Path) -> int:
     """Clean all residual unformatted text blocks following Bảng 11."""
     if not md_path.exists():
@@ -35,7 +34,6 @@ def clean_all_residual_blocks(md_path: Path) -> int:
         return 1
 
     return 0
-
 
 if __name__ == "__main__":
     target_md = Path("legal_docs/02_qcvn/qcvn_06_2022_bxd/qcvn_06_2022_bxd.md")

@@ -25,13 +25,11 @@ BUNDLE_DIR = Path(__file__).resolve().parent.parent / "legal_docs" / "02_qcvn" /
 DOCX_PATH = Path(__file__).resolve().parent.parent / ".md" / "extracted_docs" / "qcvn_06_2022_bxd" / "sua_doi_1_2023_qcvn_06_2022_bxd.docx"
 BASE_MD_PATH = BUNDLE_DIR / "qcvn_06_2022_bxd.md"
 
-
 def get_base_anchors() -> Set[str]:
     if not BASE_MD_PATH.exists():
         return set()
     text = BASE_MD_PATH.read_text(encoding="utf-8")
     return set(re.findall(r'<a id="([^"]+)"', text))
-
 
 def make_sd1_slug(text: str) -> str:
     s = text.strip().lower()
@@ -52,7 +50,6 @@ def make_sd1_slug(text: str) -> str:
     clean = re.sub(r"[^\w\s-]", "", s)
     clean = re.sub(r"[\s_]+", "-", clean)[:40]
     return f"sd1-{clean}"
-
 
 def inject_base_links(text: str, base_anchors: Set[str]) -> str:
     def replacer(m: re.Match) -> str:
@@ -75,7 +72,6 @@ def inject_base_links(text: str, base_anchors: Set[str]) -> str:
     t = re.sub(r"(Bảng\s+)([A-Z0-9.]+)", replacer, t)
     t = re.sub(r"(Phụ lục\s+)([A-Z])\b", replacer, t)
     return t
-
 
 def build_suadoi1_markdown() -> str:
     doc = Document(DOCX_PATH)
@@ -208,7 +204,6 @@ def build_suadoi1_markdown() -> str:
     full_md = re.sub(r"\n{3,}", "\n\n", full_md)
     return full_md
 
-
 def main() -> None:
     print("=================================================================")
     print("      BUILDING PERFECT MARKDOWN FOR SỬA ĐỔI 1:2023 QCVN 06       ")
@@ -218,7 +213,6 @@ def main() -> None:
     target_path = BUNDLE_DIR / "sua_doi_1_2023_qcvn_06_2022_bxd.md"
     target_path.write_text(md_text, encoding="utf-8")
     print(f"✅ Đã tạo sua_doi_1_2023_qcvn_06_2022_bxd.md: {len(md_text):,} ký tự, {len(md_text.splitlines())} dòng.")
-
 
 if __name__ == "__main__":
     main()

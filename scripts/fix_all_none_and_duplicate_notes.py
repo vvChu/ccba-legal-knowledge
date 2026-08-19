@@ -16,7 +16,6 @@ if hasattr(sys.stdout, "reconfigure"):
 ROOT_DIR = Path(__file__).resolve().parent.parent
 BUNDLE_DIR = ROOT_DIR / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 
-
 def slug_to_code(slug: str) -> str:
     # e.g. muc-d-8 -> D.8, muc-a-3-2-1 -> A.3.2.1, muc-1-4-8 -> 1.4.8
     s = slug.replace("muc-", "").replace("sd1-", "").replace("bang-", "")
@@ -24,7 +23,6 @@ def slug_to_code(slug: str) -> str:
     if len(parts) > 0 and parts[0].isalpha():
         return parts[0].upper() + "." + ".".join(parts[1:]) if len(parts) > 1 else parts[0].upper()
     return ".".join(parts)
-
 
 def fix_document(text: str) -> str:
     # 1. Fix in-line sentence artifact: 'quy định tại #### <a id="muc-e-3"...></a>Nonetrong Phụ lục E'
@@ -83,7 +81,6 @@ def fix_document(text: str) -> str:
     res = re.sub(r"\n{3,}", "\n\n", res)
     return res
 
-
 def main() -> None:
     for fn in ["qcvn_06_2022_bxd.md", "qcvn_06_2022_bxd_hop_nhat_2023.md", "sua_doi_1_2023_qcvn_06_2022_bxd.md"]:
         fp = BUNDLE_DIR / fn
@@ -93,7 +90,6 @@ def main() -> None:
         fixed = fix_document(text)
         fp.write_text(fixed, encoding="utf-8")
         print(f"✅ Đã khắc phục lỗi None Heading & Duplicate Note Headers cho: {fn}")
-
 
 if __name__ == "__main__":
     main()

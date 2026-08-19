@@ -59,8 +59,17 @@
 7. **ADR 0007:** Dual-Layer CI Verification Gate (Pre-commit Hook + GitHub Actions).
 8. **ADR 0008:** Temporal Legal Query Engine & Point-in-Time Auditing (Time-Travel RAG).
 9. **ADR 0009:** Phân phối SDK dùng chung `ccba-legal-sdk` trên Hub.
-
----
+10. **ADR 0010:** 4-Layer Precision TVPL VIP Crawler & Three-Tier Fallback.
+11. **ADR 0011:** Atomic Clause RAG Chunking Strategy (~800 tokens preserving complete clause AST hierarchy).
+12. **ADR 0012:** Clean Unified NotebookLM Ingestion Strategy (32 clean whitelist sources; isolate obsolete base/amendments).
+13. **ADR 0013:** Dynamic Grace Period Compliance Gate (6-month transition warning window to 2027-06-15 for existing apartments).
+14. **ADR 0014:** Split Jurisdiction PCCC Audit Routing (CQXD vs CONG_AN vs CDT_SELF_AUDIT per Law 55/2024 & ND 105/2025).
+15. **ADR 0015:** Unresolved Normative Reference Fallback (`legal://` router to Metadata Stub Card + 1-Click PDF opener).
+16. **ADR 0016:** Dual-Track Hybrid Extraction & PDF Anchor of Trust (DOCX for AST parsing, official gazette PDF with stamp as legal anchor).
+17. **ADR 0017:** AST Structural Patching via Semantic Action Tokens for Legislative Consolidation.
+18. **ADR 0018:** Git-Ratchet Multi-Platform Knowledge Sync & Dual-Store Topology (NotebookLM + Local Spark Vector DB).
+19. **ADR 0019:** Tiered Audit Persona & Client Self-Audit Affidavit Engine (Automated PCCC Affidavit per ND 105/2025).
+20. **ADR 0020:** Hybrid Symbolic Formula Solver Engine (LLM parameter extractor + deterministic Python formula solvers in `formulas/`).
 
 ## 4. Rào Chắn Kiểm Toán Tự Động (Quality Gates)
 
@@ -70,3 +79,53 @@ python scripts/validate_legal_spoke.py
 python scripts/verify_knowledge_integrity.py
 python scripts/verify_cross_links.py
 ```
+
+---
+
+## 5. Mẫu Hình Quy Chuẩn Định Mức Theo Điều Khoản (Clause-based Standards)
+
+### A. Đặc thù Quy chuẩn không có Bảng số riêng (như QCVN 04:2021/BXD)
+- Nhiều quy chuẩn xây dựng (ví dụ QCVN 04 về Nhà chung cư) không tổ chức bảng số 2D rời rạc như QCVN 06, mà phân bổ định mức kỹ thuật trực tiếp vào cấu trúc điều khoản danh mục (Mục 2.2.4 diện tích căn hộ, Mục 2.2.17 định mức chỗ để xe, Mục 2.4 số lượng thang máy).
+- Khi xử lý loại quy chuẩn này:
+  1. Phân cấp Heading rõ ràng: H1 (Tiêu đề QCVN), H2 (Mục lục, Lời nói đầu), H3 (Chương & Mục lớn), H4 (Tiểu mục & Định nghĩa từ ngữ 1.4.x).
+  2. Bóc tách triệt để nội dung câu văn quy định ra khỏi dòng Heading.
+  3. Ghi nhận `table_structure: clause_based_standards` trong `metadata.yaml`.
+
+### B. Dual-Track Sửa đổi Bổ sung (Amended Standards)
+- Với các quy chuẩn có bản Sửa đổi (như Sửa đổi 01:2026 QCVN 04 theo Thông tư 31/2026/TT-BXD):
+  1. Giữ nguyên tệp Bản Gốc (`qcvn_04_2021_bxd.md`).
+  2. Tạo tệp Bản Sửa Đổi (`sua_doi_01_2026_qcvn_04_2021_bxd.md`) với cross-links 2 chiều trỏ về Bản Gốc (`qcvn_04_2021_bxd.md#muc-xxx`).
+  3. Tạo tệp Bản Hợp Nhất (`qcvn_04_2021_bxd_hop_nhat_2026.md`) tích hợp đầy đủ nội dung mới và ghi chú xuất xứ.
+  4. Lập Bảng ma trận đối chiếu kỹ thuật (`legal_docs/04_appendices/bang_so_sanh_sua_doi_2026/bang_so_sanh_sua_doi_2026.md`) phân loại mức độ lỗi kiểm toán (Critical Defect vs Warning Notice) theo ADR 0006.
+
+---
+
+## 6. Mẫu Hình Kết Nối Hub-Spoke Package & Trích Xuất Văn Bản 4 Lớp (ADR 0044)
+
+### A. Chuẩn Hóa Cài Đặt Package Hub (Editable Install Protocol)
+- **Vấn đề:** Tránh anti-pattern `sys.path.insert(0, str(HUB_SRC))` làm hỏng IDE typing, phân mảnh bảo trì và vi phạm ranh giới kiến trúc.
+- **Giải pháp:**
+  1. Spoke khai báo danh sách packages trong `.md/workspace_context.yaml` tại trường `hub_packages: [ccba-legal-intel]`.
+  2. Cài đặt editable qua `pip install -e` từ thư mục `packages/` của Hub.
+  3. Mọi script import trực tiếp: `from ccba_legal.crawler import ChromeCDP, get_tvpl_metadata, download_three_tier`.
+  4. File `requirements-hub.txt` được tự động sinh và bắt buộc thêm vào `.gitignore`.
+
+### B. Quy Trình Trích Xuất & Kiểm Tra Độ Chính Xác 4 Lớp (4-Layer Precision Gate)
+- Khi trích xuất và tải văn bản từ Thư Viện Pháp Luật (TVPL), script `scripts/fetch_tvpl_doc.py` cưỡng chế 4 lớp kiểm tra:
+  1. **Lớp 1 (Khóa Định Danh Kép):** Lấy URL chứa TVPL Unique ID từ `legal_registry.yaml`.
+  2. **Lớp 2 (Đối Soát Metadata):** Đọc Bảng Thuộc Tính từ Tab Lược đồ TVPL để đối soát Số hiệu, Cơ quan, Thể loại và Ngày hiệu lực trước khi tải.
+  3. **Lớp 3 (Quét Trạng Thái Hiệu Lực & Cây Quan Hệ):** Kiểm tra nhãn trạng thái (Còn hiệu lực / Chưa có hiệu lực / Hết hiệu lực) và bóc tách các văn bản hướng dẫn/sửa đổi con.
+  4. **Lớp 4 (Tải 3 Tầng & Checksum):** Tải file `.docx`/`.doc` gốc qua `download_three_tier` (Cache $\rightarrow$ Cloud $\rightarrow$ Live CDP), tính SHA-256 và tự động cập nhật vào `legal_registry.yaml`.
+
+---
+
+## 7. Mẫu Hình Phòng Thủ & Chống Lỗi Kiểm Định Ảo (Anti-Patterns & Quality Defenses)
+
+### A. Anti-Pattern: Báo Xanh Ảo (False Green CI Gates)
+- **Triệu chứng:** CI Gates báo `PASSED 100%` nhưng thực chất chỉ đang kiểm tra các tiêu chí cú pháp cũ (Markdown header, thẻ neo cơ bản) mà không kiểm tra sự tồn tại của file PDF gốc, mã băm hay các trường AST nghiệp vụ mới (`jurisdiction`, `grace_period_end`).
+- **Giải pháp triệt tiêu:** Mở rộng `scripts/validate_legal_spoke.py` với hàm `validate_pdf_metadata_and_ast_enrichment()` cưỡng chế $100\%$ điều khoản phải có `jurisdiction` hợp lệ và `cong_bao_number`.
+
+### B. Mẫu Hình: Danh Mục Lồng Đa Tầng Chuẩn CommonMark (CommonMark Nested Lists)
+- **Triệu chứng:** Danh mục phân cấp con (`  -`) bị dồn hàng thành bullet cấp 1 do thiếu thụt dòng 2 spaces hoặc bị ngắt bởi dòng trống không thụt lề.
+- **Giải pháp triệt tiêu:** Sử dụng cú pháp thụt dòng chuẩn CommonMark 2 spaces (`  -`) và kiểm tra bằng ảnh chụp trang PDF Công báo gốc làm mỏ neo thị giác (*Visual Ground Truth*).
+

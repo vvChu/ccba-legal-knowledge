@@ -42,7 +42,6 @@ CANONICAL_TABLE_ORDER = [
     "bang_h_1", "bang_h_2", "bang_h_3", "bang_h_4", "bang_h_5", "bang_h_6", "bang_h_7", "bang_h_8", "bang_h_9", "bang_h_10", "bang_h_11", "bang_h_12"
 ]
 
-
 def test_adv_01_all_64_json_and_csv_file_counts_and_naming():
     """Verify exactly 64 JSON and 64 CSV files exist, matching prefixes, and 0 duplicate files."""
     json_files = sorted(list(TABLES_JSON_DIR.glob("*.json")))
@@ -67,7 +66,6 @@ def test_adv_01_all_64_json_and_csv_file_counts_and_naming():
     for prefix in CANONICAL_TABLE_ORDER:
         matching = [s for s in json_stems if s.startswith(prefix + "_") or s == prefix]
         assert len(matching) == 1, f"Expected exactly 1 matching table for prefix '{prefix}', found: {matching}"
-
 
 def test_adv_02_json_schema_validity_and_cleanliness():
     """Verify UTF-8 encoding, valid JSON, schema structure, 0 pipe bleed, 0 delimiter rows, 0 nulls."""
@@ -116,7 +114,6 @@ def test_adv_02_json_schema_validity_and_cleanliness():
                     # Check for separator row bleed
                     assert not re.match(r"^(\s*\|?\s*:?-+:?\s*\|?)+$", v.strip()), f"Separator row artifact in cell: '{v}' in {jf.name}"
 
-
 def test_adv_03_csv_rfc4180_and_parity_with_json():
     """Verify RFC 4180 CSV parsing, header parity, row count parity, and 0 pipe bleed."""
     csv_files = sorted(list(TABLES_CSV_DIR.glob("*.csv")))
@@ -154,7 +151,6 @@ def test_adv_03_csv_rfc4180_and_parity_with_json():
         # Check no unescaped pipe characters in CSV headers
         for h in csv_headers:
             assert "|" not in h, f"Pipe character in CSV header '{h}' in {cf.name}"
-
 
 def test_adv_04_footnote_deep_integrity_docx_vs_json_vs_markdown():
     """Verify all table notes in DOCX are preserved in JSON footnotes and Markdown, with 0 orphan rows."""
@@ -208,7 +204,6 @@ def test_adv_04_footnote_deep_integrity_docx_vs_json_vs_markdown():
     assert orphan_footnote_rows_found == 0, f"Found {orphan_footnote_rows_found} orphan footnote rows in table data!"
     assert total_footnotes_in_json >= 38, f"Expected at least 38 tables with footnotes, got {total_footnotes_in_json} total footnotes"
 
-
 def test_adv_05_markdown_embedded_tables_syntax_and_anchors():
     """Verify all 64 tables in Markdown have anchors, clean GFM syntax, and no misalignment in App G/H."""
     md_content = MD_PATH.read_text(encoding="utf-8")
@@ -250,7 +245,6 @@ def test_adv_05_markdown_embedded_tables_syntax_and_anchors():
     for i in range(len(h_indices) - 1):
         assert h_indices[i] < h_indices[i + 1], f"Appendix H tables out of order: {h_anchors[i]} at {h_indices[i]} not before {h_anchors[i+1]} at {h_indices[i+1]}"
 
-
 def test_adv_06_cell_count_and_data_integrity_against_docx():
     """Verify total cell count equals exactly 5,446 across DOCX and reconstructed data."""
     doc = docx.Document(DOCX_PATH)
@@ -276,7 +270,6 @@ def test_adv_06_cell_count_and_data_integrity_against_docx():
             data = json.load(f)
         assert len(data["headers"]) > 0, f"Table {jf.name} has 0 columns"
         assert len(data["rows"]) > 0, f"Table {jf.name} has 0 data rows"
-
 
 def test_adv_07_idempotency_and_zero_mutation_guarantee():
     """Verify running validation scripts multiple times causes ZERO file mutations."""

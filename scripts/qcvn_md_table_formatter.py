@@ -7,7 +7,6 @@ with 100% clean, beautifully structured 2D GFM Markdown Pipe Tables (| Col 1 | C
 import re
 from pathlib import Path
 
-
 def format_all_qcvn_md_tables(md_path: Path) -> int:
     """Scan and convert all multiline/broken table blocks in md_path to 2D GFM Pipe Tables."""
     if not md_path.exists():

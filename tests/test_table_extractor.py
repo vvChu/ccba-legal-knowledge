@@ -15,11 +15,9 @@ SAMPLE_HTML_TABLE = """
 | Bậc II | REI 120 | E 15 | REI 45 |
 """
 
-
 def test_make_descriptive_table_slug():
     assert make_descriptive_table_slug("1", "Bảng 1 - Giới hạn chịu lửa") == "bang_01_gioi_han_chiu_lua"
     assert make_descriptive_table_slug("4.1", "Bảng 4.1 - Sự phù hợp") == "bang_4_1_su_phu_hop"
-
 
 def test_extract_table_from_text_block():
     lines = [
@@ -31,7 +29,6 @@ def test_extract_table_from_text_block():
     assert res is not None
     assert res["table_id"].startswith("bang_04")
     assert res["total_rows"] == 1
-
 
 def test_parse_and_extract_all_tables(tmp_path: Path):
     bundle_dir = tmp_path / "test_qcvn"

@@ -3,7 +3,6 @@
 from pathlib import Path
 from scripts.validate_legal_spoke import LegalSpokeValidator
 
-
 def test_validator_on_workspace(tmp_path: Path) -> None:
     """Test LegalSpokeValidator on a mock workspace structure."""
     # 1. Setup mock workspace
@@ -33,7 +32,6 @@ laws:
     assert errors == 0
 
     assert validator.run_all_checks() is True
-
 
 def test_validator_detects_missing_registry(tmp_path: Path) -> None:
     """Test LegalSpokeValidator fails when registry is missing."""

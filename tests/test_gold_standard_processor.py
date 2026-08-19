@@ -40,13 +40,11 @@ Thủ tục quy định về an toàn nhà chung cư.
 Chi tiết về giới hạn chịu lửa của linh kiện.
 """
 
-
 def test_clean_html_tables():
     cleaned = clean_html_tables(SAMPLE_RAW_HTML_TEXT)
     assert "<table" not in cleaned.lower()
     assert "| Chỉ tiêu | Giá trị |" in cleaned
     assert "| Bán kính phục vụ | 500m |" in cleaned
-
 
 def test_inject_semantic_anchors():
     anchored = inject_semantic_anchors(SAMPLE_RAW_HTML_TEXT)
@@ -54,13 +52,11 @@ def test_inject_semantic_anchors():
     assert '<a id="dieu-1-khoan-1"></a>' in anchored
     assert '<a id="dieu-2"></a>' in anchored
 
-
 def test_inject_semantic_anchors_qcvn():
     profile = get_doc_profile("qcvn")
     anchored = inject_semantic_anchors(SAMPLE_QCVN_TEXT, profile)
     assert '<a id="muc-1-1"></a>' in anchored
     assert '<a id="muc-2-1-2"></a>' in anchored
-
 
 def test_generate_clauses_ast():
     anchored = inject_semantic_anchors(SAMPLE_RAW_HTML_TEXT)
@@ -68,7 +64,6 @@ def test_generate_clauses_ast():
     assert len(clauses) >= 2
     assert clauses[0]["anchor"] == "dieu-1"
     assert "Điều 1" in clauses[0]["title"]
-
 
 def test_process_okf_bundle(tmp_path: Path):
     bundle_dir = tmp_path / "test_bundle"

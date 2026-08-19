@@ -9,7 +9,6 @@ from ccba_legal import ChromeCDP, trigger_download
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-
 def run_cdp_download():
     target_dir = Path("d:/GitHubProjects/ccba-legal-knowledge/.md/extracted_docs/qcvn_06_2022_bxd")
     target_dir.mkdir(parents=True, exist_ok=True)
@@ -43,7 +42,6 @@ def run_cdp_download():
         print(f"[CDP Error] {e}")
     finally:
         proc.terminate()
-
 
 if __name__ == "__main__":
     run_cdp_download()

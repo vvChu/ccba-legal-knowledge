@@ -27,12 +27,10 @@ DOCX_PATH = ROOT_DIR / ".md" / "extracted_docs" / "qcvn_06_2022_bxd" / "qcvn_06_
 VERIFY_SCRIPT = ROOT_DIR / "scripts" / "verify_knowledge_integrity.py"
 CLEAN_SCRIPT = ROOT_DIR / "scripts" / "clean_qcvn06_data.py"
 
-
 def compute_sha256(path: Path) -> str:
     h = hashlib.sha256()
     h.update(path.read_bytes())
     return h.hexdigest()
-
 
 def test_13_subdots_and_2221_and_h1() -> Dict[str, any]:
     """Test Focus 1: Subdots, 2.2.2.1 promotion, H1 count, and anchors."""
@@ -142,7 +140,6 @@ def test_13_subdots_and_2221_and_h1() -> Dict[str, any]:
         "corrupted_found": len(corrupted_found),
     }
 
-
 def test_idempotency_and_mutator() -> Dict[str, any]:
     """Test Focus 2 & 3: Script idempotency, zero mutation, cleaner idempotency."""
     print("\n--- [TEST FOCUS 2] Idempotency & Mutator Stress Test ---")
@@ -216,7 +213,6 @@ def test_idempotency_and_mutator() -> Dict[str, any]:
         "cleaner_idempotent": True,
     }
 
-
 def test_comprehensive_regex_and_heading_scan() -> Dict[str, any]:
     """Test Focus 3: Scan for all potential regex anomalies, dot splits, space splits, bad headings."""
     print("\n--- [TEST FOCUS 3] Comprehensive Heading & Regex Anomaly Scan ---")
@@ -289,7 +285,6 @@ def test_comprehensive_regex_and_heading_scan() -> Dict[str, any]:
         "total_headings": len(heading_list),
         "anomalies": anomalies,
     }
-
 
 def test_true_paragraph_parity() -> Dict[str, any]:
     """Test Focus 4: Full paragraph parity against raw docx across Chapters 1-7 and Appendices A-I."""
@@ -369,7 +364,6 @@ def test_true_paragraph_parity() -> Dict[str, any]:
         "missing_count": len(missing),
     }
 
-
 def main():
     print("=================================================================")
     print("  EMPIRICAL CHALLENGER: ADVERSARIAL STRESS TEST SUITE (M1-I2)   ")
@@ -389,7 +383,6 @@ def main():
     print(f"Focus 4 (Paragraph Parity)     : {r4['status']} ({r4['matched']}/{r4['total_docx_paras']} = {r4['parity_rate']})")
     print("=================================================================")
     print("FINAL VERDICT: ALL ADVERSARIAL TESTS PASSED -> APPROVE")
-
 
 if __name__ == "__main__":
     main()

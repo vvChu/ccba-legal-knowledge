@@ -23,14 +23,12 @@ from scripts.gold_standard_processor import process_okf_bundle
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-
 def vietnamese_to_ascii(text: str) -> str:
     """Convert Vietnamese accented text to unaccented ASCII."""
     text = unicodedata.normalize("NFD", text)
     text = "".join(c for c in text if unicodedata.category(c) != "Mn")
     text = text.replace("đ", "d").replace("Đ", "D")
     return text
-
 
 def make_descriptive_table_slug(table_num: str, title: str = "") -> str:
     """Generate clean descriptive slug for table filenames."""
@@ -53,7 +51,6 @@ def make_descriptive_table_slug(table_num: str, title: str = "") -> str:
         return f"{base_prefix}_{'_'.join(filtered)}"
     return base_prefix
 
-
 def clean_duplicate_paragraph_tables(md_text: str) -> str:
     """Purge unformatted duplicate paragraph text blocks that mimic table contents."""
     p11_duplicate = re.compile(
@@ -68,7 +65,6 @@ def clean_duplicate_paragraph_tables(md_text: str) -> str:
     )
     md_text = p_dup_general.sub("\n", md_text)
     return md_text
-
 
 def extract_docx_tables_map(docx_path: Path) -> dict[str, dict]:
     """Extract clean 2D table grid from docx file via python-docx with unmerged cells."""
@@ -137,7 +133,6 @@ def extract_docx_tables_map(docx_path: Path) -> dict[str, dict]:
 
     return table_data_map
 
-
 def save_descriptive_table_exports(table_map: dict[str, dict], target_bundle_dir: Path):
     """Save structured table JSONs and CSVs into tables/json/ and tables/csv/ with descriptive slugs."""
     tables_dir = target_bundle_dir / "tables"
@@ -182,7 +177,6 @@ def save_descriptive_table_exports(table_map: dict[str, dict], target_bundle_dir
                 writer.writerow(headers)
             for r in rows_matrix:
                 writer.writerow(r)
-
 
 def master_rebuild_from_docx(docx_path: Path, target_bundle_dir: Path) -> dict:
     """Master rebuild pipeline from .docx to OKF Bundle with descriptive file slugs."""
@@ -270,7 +264,6 @@ def master_rebuild_from_docx(docx_path: Path, target_bundle_dir: Path) -> dict:
     print("[5/5] Packing Gold Standard OKF v0.2 Bundle...")
     okf_result = process_okf_bundle(target_bundle_dir)
     return okf_result
-
 
 if __name__ == "__main__":
     docx_file = Path(".md/extracted_docs/qcvn_06_2022_bxd/qcvn_06_2022_bxd.docx")

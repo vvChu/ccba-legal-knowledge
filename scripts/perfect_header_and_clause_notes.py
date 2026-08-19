@@ -15,7 +15,6 @@ if hasattr(sys.stdout, "reconfigure"):
 ROOT_DIR = Path(__file__).resolve().parent.parent
 BUNDLE_DIR = ROOT_DIR / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 
-
 def clean_front_matter_and_toc(text: str, is_hopnhat: bool = False) -> str:
     # Find the position of 'Lời nói đầu'
     pos_loi_noi_dau = text.find("Lời nói đầu")
@@ -59,7 +58,6 @@ def clean_front_matter_and_toc(text: str, is_hopnhat: bool = False) -> str:
     new_header = f"{doc_code}\n\n{doc_title}\n\n{doc_en}\n\n{toc}\n\n## {body_from_preface}"
     return new_header
 
-
 def clean_single_clause_notes(text: str) -> str:
     # Pattern:
     # _CHÚ THÍCH:_
@@ -79,7 +77,6 @@ def clean_single_clause_notes(text: str) -> str:
 
     return text
 
-
 def process_file(fpath: Path) -> None:
     text = fpath.read_text(encoding="utf-8")
     is_hn = "hop_nhat" in fpath.name
@@ -92,13 +89,11 @@ def process_file(fpath: Path) -> None:
     fpath.write_text(text, encoding="utf-8")
     print(f"✅ Đã chuẩn hóa Header, TOC và Chú thích đơn cho: {fpath.name}")
 
-
 def main() -> None:
     for fn in ["qcvn_06_2022_bxd.md", "qcvn_06_2022_bxd_hop_nhat_2023.md", "sua_doi_1_2023_qcvn_06_2022_bxd.md"]:
         fp = BUNDLE_DIR / fn
         if fp.exists():
             process_file(fp)
-
 
 if __name__ == "__main__":
     main()

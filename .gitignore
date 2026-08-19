@@ -12,6 +12,7 @@ node_modules/
 build/
 dist/
 *.egg-info/
+requirements-hub.txt
 
 # CCBA Agent Platform - Whitelist selected configs (skills is local only and git-ignored)
 .agents/*
@@ -37,7 +38,12 @@ dist/
 .md/**/images/*.webp
 .md/**/images/*.jpg
 .md/**/images/*.png
+scratch/
+.md/scratch/
+
 
 # Ignore all specific project outputs (OneDrive/SharePoint synced)
 .md/projects/*
 !.md/projects/.gitkeep
+.md/data/chrome_cdp_profile/
+.md/data/cache/

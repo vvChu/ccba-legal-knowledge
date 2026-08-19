@@ -11,7 +11,6 @@ bundle_dir = Path(__file__).resolve().parent.parent / "legal_docs" / "02_qcvn" /
 base_file = bundle_dir / "qcvn_06_2022_bxd.md"
 sd_file = bundle_dir / "sua_doi_1_2023_qcvn_06_2022_bxd.md"
 
-
 def make_canonical_anchor(sec_str: str) -> str:
     s = sec_str.strip().lower()
     if s.startswith("bảng"):
@@ -25,7 +24,6 @@ def make_canonical_anchor(sec_str: str) -> str:
     s = re.sub(r"[^\da-z]+$", "", s)
     s = re.sub(r"[\s.]+", "-", s)
     return f"muc-{s}"
-
 
 def tag_all_sections_in_base() -> Set[str]:
     text = base_file.read_text(encoding="utf-8")
@@ -70,7 +68,6 @@ def tag_all_sections_in_base() -> Set[str]:
     base_file.write_text(new_text, encoding="utf-8")
     return generated_anchors
 
-
 def update_all_sd1_links(base_anchors: Set[str]) -> None:
     text = sd_file.read_text(encoding="utf-8")
 
@@ -111,13 +108,11 @@ def update_all_sd1_links(base_anchors: Set[str]) -> None:
     new_text = re.sub(r"\[([^\]]+)\]\((qcvn_06_2022_bxd\.md#[^\)]+)\)", replacer, text)
     sd_file.write_text(new_text, encoding="utf-8")
 
-
 def main() -> None:
     base_anchors = tag_all_sections_in_base()
     print(f"✅ Đã tạo {len(base_anchors)} thẻ neo canonical trong qcvn_06_2022_bxd.md")
     update_all_sd1_links(base_anchors)
     print("✅ Đã cập nhật liên kết trong sua_doi_1_2023...")
-
 
 if __name__ == "__main__":
     main()

@@ -46,6 +46,55 @@ Tài liệu này là Từ điển Thuật ngữ miền nghiệp vụ (Ubiquitous
 - **Khoảng Thời gian Hiệu lực (Effective Temporal Interval):** Thuộc tính dữ liệu (`effective_from` $\rightarrow$ `effective_to`) xác định chu kỳ sống pháp lý của từng điều khoản và từng ấn bản quy chuẩn trong `legal_registry.yaml`.
 - **Bộ SDK Tri thức Pháp lý (`ccba-legal-sdk`):** Gói thư viện Python chuẩn hóa đóng gói trên Hub (`packages/ccba-legal-sdk`), cung cấp giao diện lập trình kiểu an toàn (*Type-Safe*) cho toàn bộ các dịch vụ AI Agent trên nền tảng CCBA truy xuất điều khoản, bảng số liệu và ma trận ràng buộc điều kiện.
 - **Giao diện Truy vấn Nguyên tử (Atomic Table Matrix Lookup API):** Phương thức truy vấn ô bảng kỹ thuật trong SDK cho phép trích xuất độc lập giá trị số học đo lường và danh sách điều kiện quy chuẩn bắt buộc đi kèm.
+- **Đóng gói Nguyên tử Cả Điều Khoản (Atomic Clause Chunking - ADR 0011):** Chiến lược phân đoạn dữ liệu RAG trong đó toàn bộ nội dung của một Mục/Điều khoản lớn (bao gồm các điểm `a, b, c...`, gạch đầu dòng `+` và các ý con lồng đa tầng) được bảo toàn nguyên khối trong 1 Document Chunk duy nhất, triệt tiêu rủi ro đứt lìa câu định mức con khỏi câu điều kiện tiên quyết của cấp cha.
+- **Danh mục Lồng Đa Tầng (Nested Multi-level Lists):** Cấu trúc phân cấp văn bản quy chuẩn (Điều $\rightarrow$ Khoản/Điểm $\rightarrow$ Gạch đầu dòng `+` $\rightarrow$ Ý con `  -`) tuân thủ nghiêm ngặt quy tắc thụt lề 2 spaces của CommonMark để bảo toàn cây cú pháp AST cho các mô hình AI Vision và RAG Embedding.
+- **Kho Tri thức Chuẩn hóa Hiện hành (Clean Unified Repository - ADR 0012):** Bộ dữ liệu 32 nguồn Markdown được chọn lọc nghiêm ngặt phục vụ nạp lên Google NotebookLM và AI Gateway, bao gồm toàn bộ văn bản pháp luật hiện hành, các bản quy chuẩn hợp nhất mới nhất và bảng so sánh thay đổi, loại trừ các bản gốc cũ để bảo đảm 100% độ chính xác thời gian.
+- **Rào chắn Ngăn chặn Bản Cũ (Obsolete Source Quarantine Gate):** Cơ chế lọc tự động trong pipeline đồng bộ ngăn không cho các tệp bản gốc cũ và bản sửa đổi rời rạc bị đẩy lên các không gian tìm kiếm RAG hiện hành.
+- **Cổng Kiểm Toán Ân Hạn Động (Dynamic Grace Period Compliance Gate - ADR 0013):** Cơ chế phân loại mức độ lỗi kiểm toán tự động theo thời gian (`audit_date`), tự động gán nhãn Cảnh báo vàng trong thời hạn ân hạn chuyển tiếp (ví dụ: 6 tháng từ 15/12/2026 đến 15/06/2027 cho chung cư hiện hữu) và tự động leo thang lên Lỗi đỏ vi phạm bắt buộc sau khi hết hạn chót.
+- **Thời hạn Ân Hạn Chuyển Tiếp (Grace Period):** Khoảng thời gian theo luật định cho phép đối tượng áp dụng (công trình hiện hữu) được duy trì trạng thái cũ trong khi chuẩn bị và hoàn thành phương án cải tạo, thích ứng theo quy chuẩn mới.
+- **Phân Định Thẩm Quyền Thẩm Định PCCC (Split Jurisdiction - ADR 0014):** Cơ chế phân luồng thẩm tra thiết kế theo Luật 55/2024/QH15 và Nghị định 105/2025/NĐ-CP, trong đó Cơ quan Chuyên môn về Xây dựng (CQXD) thẩm tra phần Kiến trúc/Khói/Ngăn cháy lan, Cơ quan Công an (PC07) thẩm định phần Cơ điện PCCC/Báo cháy/Chữa cháy tự động, và Chủ đầu tư tự thẩm tra theo phân cấp công trình.
+- **Siêu Dữ Liệu Thẩm Quyền (Jurisdiction Metadata):** Thuộc tính định tuyến trong AST `clauses.json` (`jurisdiction: 'CQXD' | 'CONG_AN' | 'CHU_DAU_TU_TU_THAM_DINH'`) cho phép AI QC Agent tự động phân tách kết quả audit thành các bộ hồ sơ nộp cơ quan chức năng độc lập.
+- **Thẻ Siêu Dữ Liệu Tra Cứu (Metadata Stub Card - ADR 0015):** Thẻ thông tin tự động hiển thị khi người dùng/Agent truy cập một liên kết `legal://` trỏ đến văn bản chưa được số hóa Markdown, cung cấp thông tin xuất xứ, cơ quan ban hành, hiệu lực và nút mở trực tiếp file PDF gốc.
+- **Suy Luận Đồ Thị Đa Tài Liệu (Cross-Document Graph Traversal):** Khả năng của AI Agent tự động lần theo các liên kết `legal://` giữa các quy chuẩn và tiêu chuẩn để xây dựng chuỗi lập luận pháp lý logic hoàn chỉnh mà không bị đứt đoạn bởi các tài liệu chưa bóc tách.
+- **Động cơ Vá Cấu Trúc Cây Cú Pháp (AST Structural Patching Engine - ADR 0017):** Cơ chế phần mềm tự động hóa việc tạo ra văn bản hợp nhất toàn văn và ma trận đối chiếu bằng cách áp dụng các lệnh thao tác ngữ nghĩa xác định (`REPLACE_CLAUSE`, `INSERT_CLAUSE`, `REPEAL_CLAUSE`, `SUBSTITUTE_PHRASE`) lên cây AST của văn bản gốc, loại bỏ hoàn toàn rủi ro ảo giác của LLM.
+- **Thẻ Hành Động Lập Quy (Semantic Action Tokens):** Tập hợp các lệnh thao tác nguyên tử chuẩn hóa đại diện cho các thay đổi hành chính trong văn bản sửa đổi bổ sung của pháp luật Việt Nam.
+- **Kiến Trúc Lưu Trữ Tri Thức Kép (Dual-Store Knowledge Topology - ADR 0018):** Mô hình phân phối dữ liệu song hành: lưu trữ văn bản Markdown sạch trên Google NotebookLM để con người tương tác/nghiên cứu ngữ cảnh lớn, kết hợp lưu trữ cây AST `clauses.json` và Vector DB trên Server Spark (:8090) để AI QC Pipeline quét tự động tốc độ cao.
+- **Khóa Phiên Bản Đồng Bộ (Sync Version Lock):** Cơ chế đối soát mã băm `commit_sha` giữa Git Remote, NotebookLM và Server Spark nhằm bảo đảm mọi kết luận kiểm toán AI QC đều dựa trên phiên bản quy chuẩn pháp lý mới nhất đang có hiệu lực.
+- **Biên Bản Tự Thẩm Định PCCC (PCCC Self-Audit Affidavit - ADR 0019):** Văn bản pháp lý do AI QC Engine tự động kết xuất theo thể thức quy định của Nghị định 105/2025/NĐ-CP và Luật 55/2024/QH15, bao gồm ma trận đối soát quy chuẩn, danh mục sai sót, mã băm SHA-256 của tập bản vẽ và khối ký số điện tử của Chủ đầu tư/Tư vấn thẩm tra.
+- **Chế Độ Kiểm Toán Phân Hạng (Tiered Audit Persona):** Cơ chế lọc quy định và tạo lập hồ sơ đa luồng trong AI QC Pipeline (`MODE_CQXD`, `MODE_PC07`, `MODE_CDT_SELF_AUDIT`), cho phép tạo ra các bộ báo cáo chuyên biệt phù hợp với thẩm quyền của từng cơ quan quản lý hoặc nhu cầu lưu trữ nội bộ của dự án.
+- **Động Cơ Tính Toán Công Thức Kỹ Thuật Lai Ghép (Hybrid Symbolic Formula Solver Engine - ADR 0020):** Kiến trúc phân tách nhiệm vụ: LLM/AI Vision trích xuất các biến số đầu vào từ bản vẽ; Python engine trong `formulas/` thực thi phép tính số học xác định $100\%$ theo đúng công thức quy chuẩn, triệt tiêu hoàn toàn lỗi tính nhẩm của AI.
+- **Mã Định Danh Công Thức (Formula ID / Symbolic Reference):** Nhãn định danh duy nhất (ví dụ: `F_FIRE_WATER_Q06`) gắn kết công thức LaTeX trong văn bản Markdown OKF với hàm Python tính toán tương ứng trong thư viện `formulas/`.
+
+---
+
+## 3. Thuật ngữ Hạ tầng Xe Điện & PCCC Nhà Chung Cư (EV & Fire Safety Domain)
+
+- **Nhà chung cư hiện hữu (Existing Apartment Building - Điều 1.4.31):** Nhà chung cư đã được nghiệm thu, đưa vào sử dụng theo quy định của pháp luật về xây dựng trước ngày Thông tư 31/2026/TT-BXD có hiệu lực thi hành (15/12/2026).
+- **Khu vực sạc xe điện (EV Charging Area - Điều 1.4.32):** Khu vực có chức năng chuyên để sạc xe điện, gồm một hoặc nhiều chỗ sạc được bố trí tập trung, được trang bị hệ thống cấp điện, thiết bị sạc, ngắt điện khẩn cấp và các biện pháp an toàn bắt buộc (hút khói cưỡng bức, cảm biến khí CO/HF, hệ thống chữa cháy tự động).
+- **Chỗ sạc (EV Charging Bay - Điều 1.4.33):** Vị trí đỗ dành cho một xe để thực hiện sạc điện.
+- **Khu vực đổi pin (Battery Swapping Station - Điều 1.4.34):** Khu vực lắp đặt tủ đổi pin cho xe mô tô điện, xe gắn máy điện, xe đạp điện, nơi pin có thể hoán đổi với giới hạn dung lượng lưu trữ nghiêm ngặt: $\le 100\text{ kWh}$ ngoài trời, $\le 35\text{ kWh}$ trên mặt đất, $\le 18\text{ kWh}$ tầng hầm/bán hầm.
+- **Khoang cháy Khu vực Sạc (Dedicated Charging Fire Compartment - Điều 2.10.2.1):** Khoang cháy chuyên dụng ngăn cách bằng tường loại 1 hoặc khoảng trống $\ge 6\text{ m}$ (hoặc dải màn nước Drencher kép lưu lượng $1\text{ l/s/m}$), diện tích tối đa $\le 1.500\text{ m}^2$ trên mặt đất hoặc $\le 1.200\text{ m}^2$ trong tầng bán hầm/tầng hầm.
+- **Thời hạn Rà soát 6 Tháng (6-Month Compliance Review Period - Điều 2.2 TT 31/2026):** Thời hạn bắt buộc đến ngày 15/06/2027 để toàn bộ các chung cư hiện hữu hoàn thành việc rà soát an toàn PCCC, phân vùng chỗ để xe điện hoặc tiến hành cải tạo công trình theo quy chuẩn.
+
+---
+
+## 4. Thuật ngữ Thu thập Tri thức & Xác thực Dữ liệu (Crawler & Provenance)
+
+- **Cơ chế Cào TVPL 4 Lớp (4-Layer Precision TVPL Crawler):** Pipeline thu thập và đối soát tri thức pháp lý gồm:
+  - *Lớp 1 (Định danh URL theo Doc ID):* Phân giải chính xác trang văn bản dựa trên mã định danh số nguyên của TVPL (loại bỏ lỗi rewrite URL).
+  - *Lớp 2 (Đối soát Thuộc tính & Lược đồ):* Trích xuất số hiệu, ngày ban hành, cơ quan ban hành và cây quan hệ văn bản từ container `#divThuocTinh`.
+  - *Lớp 3 (Kiểm tra Nhãn Hiệu lực):* Phát hiện và cảnh báo văn bản hết hiệu lực hoặc chưa có hiệu lực.
+  - *Lớp 4 (Tải 3 Tầng Three-Tier):* Tải và tính toán mã băm SHA-256 bảo vệ tính xác thực tệp gốc.
+- **Chiến lược Tải 3 Tầng (Three-Tier Download Fallback):** Cơ chế tìm kiếm và cấp phát file văn bản gốc:
+  - *Tier 1:* Kho cục bộ (`.md/extracted_docs/` và `.md/data/cache/`).
+  - *Tier 2:* Ổ đĩa chia sẻ / Google Drive API / AWS S3 Bucket.
+  - *Tier 3:* Trực tiếp điều khiển Chrome CDP kết nối TVPL, vượt Cloudflare Turnstile và tự động đăng nhập tài khoản VIP.
+- **Mã băm Tính Xác Thực (Authenticity SHA-256 Checksum):** Giá trị băm mật mã học được tính trực tiếp trên tệp `.docx`/`.doc` thật tải từ TVPL, lưu trữ bắt buộc trong `legal_registry.yaml` để làm bằng chứng kiểm toán pháp lý không thể chối cãi.
+- **Mỏ Neo Pháp Lý Tối Thượng (Legal Anchor of Trust - ADR 0016):** Bản in PDF Công báo có dấu mộc đỏ và chữ ký số chính thức là cơ sở pháp lý cao nhất và duy nhất được công nhận khi giải trình với cơ quan quản lý nhà nước (Cảnh sát PCCC, Sở Xây dựng).
+- **Mô hình Trích Xuất & Đối Soát Lai Ghép (Dual-Track Hybrid Model - ADR 0016):** Chiến lược kỹ thuật phân công: file DOCX dùng để trích xuất cấu trúc văn bản/bảng biểu/AST không bị ngắt trang; file PDF Công báo dùng làm mỏ neo kiểm định thị giác (Visual Ground Truth) và bằng chứng pháp lý bất biến.
+- **Truy Vết Tọa Độ Trang 1-Click (1-Click Page-Level PDF Traceability):** Khả năng định tuyến trực tiếp từ kết quả kiểm toán AI QC (`clause_id`) mở chính xác số trang tương ứng trên file PDF Công báo gốc (`source_pdf_page`) có dấu đỏ.
+
+
 
 
 

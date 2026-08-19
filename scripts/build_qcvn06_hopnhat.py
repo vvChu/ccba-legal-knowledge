@@ -19,7 +19,6 @@ CLAUSES_SD1_JSON = BUNDLE_DIR / "clauses_sd1.json"
 TARGET_VBHN_MD = BUNDLE_DIR / "qcvn_06_2022_bxd_hop_nhat_2023.md"
 INDEX_MD = BUNDLE_DIR / "index.md"
 
-
 def parse_sd1_sections() -> Dict[str, Dict[str, str]]:
     """Extracts all amendment blocks from sua_doi_1_2023_qcvn_06_2022_bxd.md keyed by target clause."""
     sd_text = SD1_MD.read_text(encoding="utf-8")
@@ -57,7 +56,6 @@ def parse_sd1_sections() -> Dict[str, Dict[str, str]]:
                 "raw_block": b.strip()
             }
     return sd_map
-
 
 def build_consolidated_markdown() -> str:
     sd_map = parse_sd1_sections()
@@ -139,7 +137,6 @@ def build_consolidated_markdown() -> str:
     full_text = re.sub(r"\n{3,}", "\n\n", full_text)
     return full_text
 
-
 def update_index_md() -> None:
     content = """# MỤC LỤC BỘ TÀI LIỆU QCVN 06:2022/BXD (OKF BUNDLE)
 
@@ -150,7 +147,6 @@ def update_index_md() -> None:
 """
     INDEX_MD.write_text(content, encoding="utf-8")
     print("✅ Đã cập nhật index.md MOC router.")
-
 
 def main() -> None:
     print("=================================================================")
@@ -163,7 +159,6 @@ def main() -> None:
 
     update_index_md()
     print("=================================================================")
-
 
 if __name__ == "__main__":
     main()

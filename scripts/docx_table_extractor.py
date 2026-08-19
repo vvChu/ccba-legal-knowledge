@@ -14,7 +14,6 @@ from docx import Document
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-
 def extract_docx_tables(docx_path: Path) -> dict[str, dict]:
     """Extract all tables from docx file with clean 2D grid matrix and footnotes."""
     if not docx_path.exists():
@@ -95,7 +94,6 @@ def extract_docx_tables(docx_path: Path) -> dict[str, dict]:
 
     return table_data_map
 
-
 def replace_tables_in_markdown(md_path: Path, table_data_map: dict[str, dict]) -> int:
     """Replace all broken table blocks in md_path with precision 2D GFM Markdown Pipe Tables."""
     if not md_path.exists():
@@ -145,7 +143,6 @@ def replace_tables_in_markdown(md_path: Path, table_data_map: dict[str, dict]) -
 
     md_path.write_text(content, encoding="utf-8")
     return replaced_count
-
 
 if __name__ == "__main__":
     docx_file = Path(".md/extracted_docs/qcvn_06_2022_bxd/qcvn_06_2022_bxd.docx")

@@ -15,7 +15,6 @@ if hasattr(sys.stdout, "reconfigure"):
 ROOT_DIR = Path(__file__).resolve().parent.parent
 BUNDLE_DIR = ROOT_DIR / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 
-
 def format_single_notes(text: str) -> str:
     # Pattern:
     # _CHÚ THÍCH:_
@@ -32,7 +31,6 @@ def format_single_notes(text: str) -> str:
     text = re.sub(pattern, rep_single, text)
     
     return text
-
 
 def format_toc(text: str) -> str:
     # Find MỤC LỤC section at top
@@ -68,7 +66,6 @@ def format_toc(text: str) -> str:
     text = text[:toc_match.start()] + clean_toc + text[toc_match.end():]
     return text
 
-
 def process_file(fpath: Path) -> None:
     text = fpath.read_text(encoding="utf-8")
     text = format_toc(text)
@@ -77,13 +74,11 @@ def process_file(fpath: Path) -> None:
     fpath.write_text(text, encoding="utf-8")
     print(f"✅ Đã chuẩn hóa Mục lục và Chú thích đơn cho: {fpath.name}")
 
-
 def main() -> None:
     for fn in ["qcvn_06_2022_bxd.md", "qcvn_06_2022_bxd_hop_nhat_2023.md", "sua_doi_1_2023_qcvn_06_2022_bxd.md"]:
         fp = BUNDLE_DIR / fn
         if fp.exists():
             process_file(fp)
-
 
 if __name__ == "__main__":
     main()

@@ -16,14 +16,12 @@ TARGET_DECREES = [
 ROOT_DIR = Path(__file__).resolve().parent.parent
 EXTRACTED_DOCS_DIR = ROOT_DIR / "legal_docs" / "01_vbpl"
 
-
 def test_raw_evidence_directories_exist():
     assert EXTRACTED_DOCS_DIR.exists(), f"{EXTRACTED_DOCS_DIR} does not exist"
     for slug in TARGET_DECREES:
         decree_dir = EXTRACTED_DOCS_DIR / slug
         assert decree_dir.exists(), f"Directory missing for {slug}: {decree_dir}"
         assert decree_dir.is_dir()
-
 
 def test_raw_evidence_file_sizes():
     for slug in TARGET_DECREES:

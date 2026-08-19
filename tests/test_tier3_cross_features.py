@@ -19,7 +19,6 @@ from tests.conftest import (
     MarkdownParsedBundle,
 )
 
-
 def test_pair_01_text_table_boundary_no_swallowing(
     qcvn_docx_parsed: DocxParsedBundle, qcvn_md_parsed: MarkdownParsedBundle
 ):
@@ -28,14 +27,12 @@ def test_pair_01_text_table_boundary_no_swallowing(
         title_snippet = t_docx.num.lower()
         assert title_snippet in qcvn_md_parsed.normalized_text, f"Context around Bảng {t_docx.num} missing in Markdown"
 
-
 def test_pair_02_headings_to_ast_clause_sync(
     qcvn_md_parsed: MarkdownParsedBundle, clauses_ast_data: List[dict]
 ):
     """P2: F2 (Headings) <-> F12 (AST Clauses) - Asserts H3/H4 headings are mapped in clauses.json with exact line positions."""
     ast_anchors = {c["anchor"] for c in clauses_ast_data}
     assert len(ast_anchors) >= 183, f"Expected >= 183 anchors in AST, found {len(ast_anchors)}"
-
 
 def test_pair_03_hierarchy_to_qa_question_accuracy(
     qcvn_md_parsed: MarkdownParsedBundle, qa_benchmark_data: List[dict]
@@ -45,7 +42,6 @@ def test_pair_03_hierarchy_to_qa_question_accuracy(
         q_text = qa["question"]
         anchor = qa["anchor"]
         assert len(q_text) > 5 and len(anchor) > 0, "Invalid QA question or anchor pair"
-
 
 def test_pair_04_gfm_tables_to_json_csv_sync(
     qcvn_md_parsed: MarkdownParsedBundle, json_tables_map: Dict[str, dict]
@@ -64,14 +60,12 @@ def test_pair_04_gfm_tables_to_json_csv_sync(
                     f"Header column count mismatch between MD and JSON for {title}"
                 )
 
-
 def test_pair_05_table_footnotes_to_md_render_sync(
     qcvn_md_parsed: MarkdownParsedBundle, json_tables_map: Dict[str, dict]
 ):
     """P5: F4 (Tables) <-> F8 (Footnotes) - Asserts table footnotes in JSON correspond to rendered markdown notes."""
     tables_with_fn = [d for d in json_tables_map.values() if d.get("footnotes")]
     assert len(tables_with_fn) >= 10, f"Expected at least 10 tables with footnotes in JSON, found {len(tables_with_fn)}"
-
 
 def test_pair_06_missing_tables_embedded_and_json_sync(
     qcvn_md_parsed: MarkdownParsedBundle, json_tables_map: Dict[str, dict]
@@ -80,7 +74,6 @@ def test_pair_06_missing_tables_embedded_and_json_sync(
     for key in ["bang_e_4a", "bang_e_4b", "bang_g_2a", "bang_g_2b"]:
         found_json = any(k == key or k.startswith(f"{key}_") for k in json_tables_map)
         assert found_json, f"Missing table {key} not found in JSON"
-
 
 def test_pair_07_table_anchors_non_interference_with_ast(
     qcvn_md_parsed: MarkdownParsedBundle, clauses_ast_data: List[dict]
@@ -91,7 +84,6 @@ def test_pair_07_table_anchors_non_interference_with_ast(
     overlap = clause_anchors.intersection(table_anchors)
     assert len(overlap) == 0, f"Collision detected between clause anchors and table anchors: {overlap}"
 
-
 def test_pair_08_amendment_text_to_table_10_grid_sync(sd1_md_parsed: Dict[str, Any]):
     """P8: F9 (Amendment Text) <-> F10 (Table 10 GFM) - Asserts SĐ1 contains both modification directive and Table 10 GFM grid."""
     raw = sd1_md_parsed.get("raw_text", "")
@@ -99,12 +91,10 @@ def test_pair_08_amendment_text_to_table_10_grid_sync(sd1_md_parsed: Dict[str, A
     t10_lines = sd1_md_parsed.get("table_10_lines", [])
     assert len(t10_lines) >= 5, "Table 10 GFM grid missing in SD1"
 
-
 def test_pair_09_amendment_directives_to_cross_links_sync(sd1_md_parsed: Dict[str, Any]):
     """P9: F9 (Amendment Text) <-> F11 (Cross-links) - Asserts directives contain valid cross-links to base QCVN."""
     cross_links = sd1_md_parsed.get("cross_links", [])
     assert len(cross_links) >= 100, f"Expected >= 100 cross-links in SD1, found {len(cross_links)}"
-
 
 def test_pair_10_amendment_table_10_vs_base_table_10_diff(
     qcvn_docx_parsed: DocxParsedBundle, sd1_md_parsed: Dict[str, Any]
@@ -115,12 +105,10 @@ def test_pair_10_amendment_table_10_vs_base_table_10_diff(
     t10_sd1_lines = sd1_md_parsed.get("table_10_lines", [])
     assert len(t10_sd1_lines) >= 10, "SD1 Table 10 lines missing"
 
-
 def test_pair_11_amendment_anchors_ast_compatibility(sd1_md_parsed: Dict[str, Any]):
     """P11: F11 (Amendment Anchors) <-> F12 (AST Clauses) - Asserts amendment anchors follow format compatible with AST."""
     for a in sd1_md_parsed.get("anchors", set()):
         assert a.startswith("sd1-"), f"Amendment anchor '{a}' does not start with 'sd1-'"
-
 
 def test_pair_12_ast_clauses_to_qa_benchmark_bijection(
     clauses_ast_data: List[dict], qa_benchmark_data: List[dict]
@@ -130,7 +118,6 @@ def test_pair_12_ast_clauses_to_qa_benchmark_bijection(
     qa_anchors = {qa["anchor"] for qa in qa_benchmark_data}
     unmapped_in_qa = qa_anchors - clause_anchors
     assert len(unmapped_in_qa) == 0, f"Found {len(unmapped_in_qa)} QA anchors not mapped to any AST clause: {unmapped_in_qa}"
-
 
 def test_pair_13_verify_script_measures_100_percent_content(
     repo_root: Path, docx_qcvn_path: Path, qcvn_bundle_dir: Path
@@ -145,7 +132,6 @@ def test_pair_13_verify_script_measures_100_percent_content(
     rate_val = float(paras["rate"].rstrip("%"))
     assert rate_val >= 95.0, f"Paragraph retention rate {rate_val}% is below 95%"
 
-
 def test_pair_14_verify_script_measures_100_percent_headings(
     repo_root: Path, docx_qcvn_path: Path, qcvn_bundle_dir: Path
 ):
@@ -159,7 +145,6 @@ def test_pair_14_verify_script_measures_100_percent_headings(
     rate_val = float(headings_data["rate"].rstrip("%"))
     assert rate_val >= 95.0, f"Heading parity rate {rate_val}% is below 95%"
 
-
 def test_pair_15_spoke_validator_accepts_all_64_tables(repo_root: Path):
     """P15: F15 (Spoke Gate) <-> F5 (JSON/CSV Schemas) - Asserts validate_legal_spoke.py accepts all 64 tables with 0 errors."""
     script_path = repo_root / "scripts" / "validate_legal_spoke.py"
@@ -172,7 +157,6 @@ def test_pair_15_spoke_validator_accepts_all_64_tables(repo_root: Path):
         cwd=str(repo_root),
     )
     assert res.returncode == 0, f"Spoke validator failed:\n{res.stderr}\n{res.stdout}"
-
 
 def test_pair_16_forensic_audit_confirms_zero_data_loss(
     qcvn_docx_parsed: DocxParsedBundle, qcvn_md_parsed: MarkdownParsedBundle

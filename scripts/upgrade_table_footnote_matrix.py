@@ -18,7 +18,6 @@ BUNDLE_DIR = Path(__file__).resolve().parent.parent / "legal_docs" / "02_qcvn" /
 JSON_DIR = BUNDLE_DIR / "tables" / "json"
 CATALOG_PATH = BUNDLE_DIR / "tables" / "tables_catalog.json"
 
-
 def parse_cell(cell_str: str, col_header: str = "") -> Dict[str, Any]:
     c = cell_str.strip()
     if not c or c == "-":
@@ -71,7 +70,6 @@ def parse_cell(cell_str: str, col_header: str = "") -> Dict[str, Any]:
         "condition_refs": condition_refs,
     }
 
-
 def classify_footnote(fn_text: str, idx: int) -> Dict[str, Any]:
     t = fn_text.strip()
     fn_id = idx + 1
@@ -99,7 +97,6 @@ def classify_footnote(fn_text: str, idx: int) -> Dict[str, Any]:
         "legal_status": "normative" if "ghi chú" not in t_lower else "informative",
         "text": t,
     }
-
 
 def upgrade_all_tables() -> None:
     json_files = list(JSON_DIR.glob("*.json"))
@@ -163,14 +160,12 @@ def upgrade_all_tables() -> None:
     print(f"✅ Đã nâng cấp {upgraded_count} bảng sang Structured Footnote Binding Matrix.")
     print(f"✅ Đã nhận diện và liên kết {total_conditions} điều kiện ràng buộc số học.")
 
-
 def main() -> None:
     print("=================================================================")
     print("      UPGRADING STRUCTURED FOOTNOTE BINDING MATRIX (ADR 0002)    ")
     print("=================================================================")
     upgrade_all_tables()
     print("=================================================================")
-
 
 if __name__ == "__main__":
     main()

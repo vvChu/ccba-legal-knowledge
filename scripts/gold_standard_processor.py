@@ -23,7 +23,6 @@ from bs4 import BeautifulSoup
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
-
 @dataclass
 class DocProfile:
     """Document processing profile defining regex patterns for anchor injection & QA generation."""
@@ -33,7 +32,6 @@ class DocProfile:
     khoan_pattern: re.Pattern = field(default_factory=lambda: re.compile(r"^(\d+)\.\s+([^\n]+)"))
     sec_pattern: re.Pattern = field(default_factory=lambda: re.compile(r"^#*\s*(?:<a[^>]+></a>\s*)?(((?:[A-Z]\.)?\d+(?:\.\d+)*|[A-Z]\.\d+)\s+([^\n]+))"))
     section_prefix: str = "muc"
-
 
 def get_doc_profile(doc_type: Optional[str] = "vbpl") -> DocProfile:
     """Factory to return DocProfile by document type."""
@@ -54,11 +52,9 @@ def get_doc_profile(doc_type: Optional[str] = "vbpl") -> DocProfile:
         section_prefix="muc",
     )
 
-
 def strip_existing_anchors(text: str) -> str:
     """Strip existing inline anchors to make pipeline idempotent."""
     return re.sub(r'<a id="[^"]+"></a>\s*', '', text)
-
 
 def normalize_tvpl_formatting(text: str) -> str:
     """Normalize line wrapping in raw TVPL text."""
@@ -66,7 +62,6 @@ def normalize_tvpl_formatting(text: str) -> str:
     text = re.sub(r"Chương\s*[\r\n]+\s*([I|V|X|L|C|D|M]+)", r"Chương \1", text, flags=re.IGNORECASE)
     text = re.sub(r"Mục\s*[\r\n]+\s*(\d+\.)", r"Mục \1", text, flags=re.IGNORECASE)
     return text
-
 
 def clean_html_tables(text: str) -> str:
     """Convert HTML <table> blocks into clean Markdown tables."""
@@ -105,7 +100,6 @@ def clean_html_tables(text: str) -> str:
 
     pattern = re.compile(r"<table.*?>.*?</table>", re.DOTALL | re.IGNORECASE)
     return pattern.sub(_replace_table, text)
-
 
 def inject_semantic_anchors(text: str, profile: Optional[DocProfile] = None) -> str:
     """Inject hidden inline semantic anchors into Markdown text (idempotent)."""
@@ -148,7 +142,6 @@ def inject_semantic_anchors(text: str, profile: Optional[DocProfile] = None) -> 
 
     return "\n".join(processed_lines)
 
-
 def generate_clauses_ast(text: str) -> list[dict[str, Any]]:
     """Parse text into structural AST clause indexing."""
     lines = text.splitlines()
@@ -174,7 +167,6 @@ def generate_clauses_ast(text: str) -> list[dict[str, Any]]:
 
     return clauses
 
-
 def extract_tables_and_formulas(bundle_dir: Path, text: str) -> list[Path]:
     """Extract tables into CSV files inside bundle_dir/tables."""
     tables_dir = bundle_dir / "tables"
@@ -198,7 +190,6 @@ def extract_tables_and_formulas(bundle_dir: Path, text: str) -> list[Path]:
         extracted_files.append(csv_file)
 
     return extracted_files
-
 
 def generate_qa_benchmark(text: str, metadata: dict[str, Any], profile: Optional[DocProfile] = None) -> list[dict[str, Any]]:
     """Generate ground truth Q&A pairs for RAG evaluation."""
@@ -238,13 +229,10 @@ def generate_qa_benchmark(text: str, metadata: dict[str, Any], profile: Optional
 
     return qa_list
 
-
 try:
     from scripts.table_extractor import parse_and_extract_all_tables
 except ImportError:
     from table_extractor import parse_and_extract_all_tables
-
-
 
 def detect_doc_type_from_bundle(bundle_dir: Path) -> str:
     """Infer doc_type from metadata.yaml or directory path."""
@@ -264,7 +252,6 @@ def detect_doc_type_from_bundle(bundle_dir: Path) -> str:
     if "tcvn" in parent_dir_name or "03_tcvn" in parent_dir_name:
         return "tcvn"
     return "vbpl"
-
 
 def process_okf_bundle(bundle_dir: Path, doc_type: Optional[str] = None) -> dict[str, Any]:
     """Process an OKF bundle directory to meet Gold Standard OKF v0.2."""
@@ -315,7 +302,6 @@ def process_okf_bundle(bundle_dir: Path, doc_type: Optional[str] = None) -> dict
         "qa_count": len(qa_benchmark),
     }
 
-
 def main() -> None:
     """CLI entrypoint for Gold Standard Processor Engine."""
     parser = argparse.ArgumentParser(description="CCBA OKF Gold Standard Data Processing Engine.")
@@ -335,7 +321,6 @@ def main() -> None:
     else:
         print(f"❌ ERROR: {result.get('message')}")
         sys.exit(1)
-
 
 if __name__ == "__main__":
     main()

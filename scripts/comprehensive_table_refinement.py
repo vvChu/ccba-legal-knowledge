@@ -15,7 +15,6 @@ if hasattr(sys.stdout, "reconfigure"):
 ROOT_DIR = Path(__file__).resolve().parent.parent
 BUNDLE_DIR = ROOT_DIR / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 
-
 def refine_markdown(text: str) -> str:
     # 1. Fix column numbering artifacts '(1 <sup>0)</sup>' -> '(10)', '(1 <sup>1)</sup>' -> '(11)'
     for n in range(10, 25):
@@ -69,7 +68,6 @@ def refine_markdown(text: str) -> str:
     res = re.sub(r"\n{3,}", "\n\n", res)
     return res
 
-
 def main():
     print("Refining tables and footnotes across all bundle files...")
     for fn in ["qcvn_06_2022_bxd.md", "qcvn_06_2022_bxd_hop_nhat_2023.md", "sua_doi_1_2023_qcvn_06_2022_bxd.md"]:
@@ -80,7 +78,6 @@ def main():
         refined = refine_markdown(text)
         fp.write_text(refined, encoding="utf-8")
         print(f"✅ Đã hoàn thiện Bảng & Ghi chú chỉ số phụ cho: {fn}")
-
 
 if __name__ == "__main__":
     main()

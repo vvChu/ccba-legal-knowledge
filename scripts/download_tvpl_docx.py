@@ -7,7 +7,6 @@ from playwright.sync_api import sync_playwright
 
 load_dotenv()
 
-
 def download_qcvn_docx(url: str, output_path: Path) -> bool:
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -48,7 +47,6 @@ def download_qcvn_docx(url: str, output_path: Path) -> bool:
             print("[Error] Could not find download button on page.")
             browser.close()
             return False
-
 
 if __name__ == "__main__":
     url = "https://thuvienphapluat.vn/van-ban/Xay-dung-Nha-o/Thong-tu-06-2022-TT-BXD-Quy-chuan-ky-thuat-quoc-gia-an-toan-chay-cho-nha-va-cong-trinh-545609.aspx"

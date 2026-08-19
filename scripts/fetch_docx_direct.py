@@ -7,7 +7,6 @@ from playwright.sync_api import sync_playwright
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-
 def fetch_docx():
     target_dir = Path("d:/GitHubProjects/ccba-legal-knowledge/.md/extracted_docs/qcvn_06_2022_bxd")
     target_dir.mkdir(parents=True, exist_ok=True)
@@ -43,7 +42,6 @@ def fetch_docx():
                 print(f"TEXT: {text} | HREF: {href}")
 
         browser.close()
-
 
 if __name__ == "__main__":
     fetch_docx()

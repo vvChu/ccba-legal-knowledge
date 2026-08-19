@@ -10,14 +10,11 @@ import sys
 import yaml
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 from scripts.docx_converter import convert_docx_to_okf_bundle
 from scripts.validate_legal_spoke import LegalSpokeValidator
-
 
 def get_spoke_stats(root_dir: Path) -> dict:
     """Compute comprehensive metrics for the legal knowledge spoke."""
@@ -67,7 +64,6 @@ def get_spoke_stats(root_dir: Path) -> dict:
         "total_qa": total_qa,
     }
 
-
 def print_stats_report(root_dir: Path) -> None:
     """Print human-readable statistics report."""
     stats = get_spoke_stats(root_dir)
@@ -83,7 +79,6 @@ def print_stats_report(root_dir: Path) -> None:
     print(f"Total AST Clauses    : {stats['total_clauses']:,}")
     print(f"Total Ground-Truth QA: {stats['total_qa']:,}")
     print("=================================================================\n")
-
 
 def main() -> None:
     """Main CLI entrypoint for Spoke Facade."""
@@ -125,7 +120,6 @@ def main() -> None:
 
     else:
         parser.print_help()
-
 
 if __name__ == "__main__":
     main()

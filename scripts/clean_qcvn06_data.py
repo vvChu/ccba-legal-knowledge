@@ -6,7 +6,6 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-
 def clean_sua_doi_1_2023(bundle_dir: Path) -> None:
     p = bundle_dir / "sua_doi_1_2023_qcvn_06_2022_bxd.md"
     if not p.exists():
@@ -31,7 +30,6 @@ def clean_sua_doi_1_2023(bundle_dir: Path) -> None:
 
     p.write_text(text, encoding="utf-8")
     print(f"Cleaned sua_doi_1_2023: len = {len(text)}")
-
 
 def clean_qcvn_06_base(bundle_dir: Path) -> None:
     p = bundle_dir / "qcvn_06_2022_bxd.md"
@@ -90,7 +88,6 @@ def clean_qcvn_06_base(bundle_dir: Path) -> None:
 
     p.write_text(text, encoding="utf-8")
     print(f"Cleaned qcvn_06 base: len = {len(text)}")
-
 
 if __name__ == "__main__":
     bundle_path = Path(__file__).resolve().parent.parent / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"

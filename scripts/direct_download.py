@@ -7,7 +7,6 @@ from playwright.sync_api import sync_playwright
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-
 def download_now():
     target_dir = Path("d:/GitHubProjects/ccba-legal-knowledge/.md/extracted_docs/qcvn_06_2022_bxd")
     target_dir.mkdir(parents=True, exist_ok=True)
@@ -62,7 +61,6 @@ def download_now():
             print("[ERROR] Could not find download button on tab=1")
             browser.close()
             return False
-
 
 if __name__ == "__main__":
     download_now()

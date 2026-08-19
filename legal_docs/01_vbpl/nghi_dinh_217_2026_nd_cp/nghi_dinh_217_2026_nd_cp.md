@@ -30,6 +30,7 @@ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT XÂY DỰNG VỀ QUẢN L
 __QUY ĐỊNH CHUNG__
 
 
+
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
 
@@ -99,6 +100,7 @@ Nghị định này quy định chi tiết một số điều của Luật Xây 
 21. Khoản 2 Điều 70 về trình tự thực hiện xây dựng công trình cấp bách.
 
 
+
 <a id="dieu-2"></a>
 ### Điều 2. Đối tượng áp dụng
 
@@ -115,6 +117,7 @@ Nghị định này áp dụng đối với:
 
 <a id="dieu-2-khoan-4"></a>
 4. Cơ quan quản lý nhà nước có liên quan đến hoạt động xây dựng.
+
 
 
 <a id="dieu-3"></a>
@@ -139,6 +142,7 @@ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sa
 
 <a id="dieu-3-khoan-6"></a>
 6. Thời gian thực hiện dự án là khoảng thời gian được xác định tại quyết định phê duyệt dự án đầu tư xây dựng tính từ thời điểm quyết định đầu tư đến thời điểm hoàn thành, bàn giao đưa vào sử dụng các công trình của dự án.
+
 
 
 <a id="dieu-4"></a>
@@ -166,6 +170,7 @@ c) Giai đoạn kết thúc xây dựng gồm các công việc: quyết toán h
 5. Đối với các dự án không quy định tại khoản 2, 3 và 4 Điều này, tùy thuộc điều kiện cụ thể và yêu cầu kỹ thuật của dự án, người quyết định đầu tư quyết định trình tự thực hiện tuần tự hoặc đồng thời đối với các công việc quy định tại điểm b và điểm c khoản 1 Điều này, phù hợp với các nội dung tại quyết định phê duyệt dự án.
 
 
+
 <a id="dieu-5"></a>
 ### Điều 5. Phân loại dự án đầu tư xây dựng
 
@@ -191,6 +196,7 @@ c) Dự án thuộc doanh nghiệp sử dụng vốn ODA, vốn vay ưu đãi n�
 5. Dự án quy định tại điểm c khoản 1 Điều 17 Luật Xây dựng năm 2025 thực hiện theo các quy định đối với dự án đầu tư công tại Nghị định này.
 
 
+
 <a id="dieu-6"></a>
 ### Điều 6. Giao chủ đầu tư và điều kiện đối với cơ quan, tổ chức được giao làm chủ đầu tư
 
@@ -211,6 +217,7 @@ b) Đã từng làm chủ đầu tư dự án đầu tư công.
 4. Cơ quan, tổ chức được giao làm chủ đầu tư được ký kết hợp đồng thực hiện nhiệm vụ, hợp đồng lao động theo quy định đối với cá nhân có chuyên môn phù hợp để tham gia tổ chức quản lý, thực hiện dự án.
 
 
+
 <a id="dieu-7"></a>
 ### Điều 7. Nguyên tắc thực hiện các thủ tục hành chính
 
@@ -228,6 +235,7 @@ b) Đã từng làm chủ đầu tư dự án đầu tư công.
 
 <a id="dieu-7-khoan-5"></a>
 5. Cơ quan, người có thẩm quyền giải quyết thủ tục hành chính chỉ chịu trách nhiệm về nội dung giải quyết các thủ tục hành chính thuộc thẩm quyền theo quy định pháp luật, không chịu trách nhiệm về quy trình thực hiện, nội dung, kết quả thực hiện của các văn bản pháp lý đã được cơ quan, người có thẩm quyền khác chấp thuận, thẩm định, phê duyệt hoặc giải quyết trước đó; không chịu trách nhiệm về việc người quyết định đầu tư, chủ đầu tư, cơ quan có liên quan thực hiện các bước tiếp theo không đúng với nội dung, yêu cầu đã nêu tại kết quả thực hiện thủ tục hành chính.
+
 
 
 <a id="dieu-8"></a>
@@ -280,6 +288,7 @@ d) Chủ đầu tư có trách nhiệm bảo đảm tính đầy đủ, chính x
 8. Khuyến khích tổ chức, cá nhân nghiên cứu, ứng dụng khoa học và công nghệ tiên tiến, công nghệ thông tin và chuyển đổi số trong hoạt động xây dựng nhằm nâng cao hiệu quả quản lý, chất lượng công trình và sử dụng bền vững tài nguyên.
 
 
+
 <a id="dieu-9"></a>
 ### Điều 9. Áp dụng tiêu chuẩn trong hoạt động xây dựng
 
@@ -311,6 +320,7 @@ __QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG__
 __Mục 1. KHẢO SÁT XÂY DỰNG__
 
 
+
 <a id="dieu-10"></a>
 ### Điều 10. Trình tự thực hiện khảo sát xây dựng
 
@@ -325,6 +335,7 @@ __Mục 1. KHẢO SÁT XÂY DỰNG__
 
 <a id="dieu-10-khoan-4"></a>
 4. Nghiệm thu, phê duyệt kết quả khảo sát xây dựng.
+
 
 
 <a id="dieu-11"></a>
@@ -365,6 +376,7 @@ c) Trong quá trình thi công, phát hiện các yếu tố địa chất khác
 6. Khi lập nhiệm vụ khảo sát xây dựng ở bước thiết kế xây dựng sau thì phải xem xét nhiệm vụ khảo sát và kết quả khảo sát đã thực hiện ở bước thiết kế xây dựng trước và các kết quả khảo sát xây dựng có liên quan được thực hiện trước đó (nếu có).
 
 
+
 <a id="dieu-12"></a>
 ### Điều 12. Phương án kỹ thuật khảo sát xây dựng
 
@@ -392,6 +404,7 @@ g) Biện pháp bảo đảm an toàn cho người, thiết bị, các công tr�
 3. Chủ đầu tư hoặc cơ quan chuẩn bị dự án có trách nhiệm kiểm tra hoặc thuê tổ chức tư vấn để thẩm tra phương án kỹ thuật khảo sát xây dựng và phê duyệt bằng văn bản hoặc phê duyệt trực tiếp tại hồ sơ phương án kỹ thuật khảo sát xây dựng theo quy định của hợp đồng xây dựng.
 
 
+
 <a id="dieu-13"></a>
 ### Điều 13. Quản lý công tác khảo sát xây dựng
 
@@ -407,6 +420,7 @@ b) Theo dõi, kiểm tra việc thực hiện khảo sát xây dựng bao gồm:
 
 <a id="dieu-13-khoan-3"></a>
 3. Chủ đầu tư hoặc cơ quan chuẩn bị dự án được quyền đình chỉ công việc khảo sát khi phát hiện nhà thầu không thực hiện đúng phương án khảo sát đã được phê duyệt hoặc các quy định của hợp đồng.
+
 
 
 <a id="dieu-14"></a>
@@ -434,6 +448,7 @@ b) Theo dõi, kiểm tra việc thực hiện khảo sát xây dựng bao gồm:
 7. Các phụ lục kèm theo.
 
 
+
 <a id="dieu-15"></a>
 ### Điều 15. Phê duyệt Báo cáo kết quả khảo sát xây dựng
 
@@ -447,6 +462,7 @@ b) Theo dõi, kiểm tra việc thực hiện khảo sát xây dựng bao gồm:
 3. Báo cáo kết quả khảo sát xây dựng là thành phần của hồ sơ hoàn thành công trình và được lưu trữ theo quy định.
 
 __Mục 2. THIẾT KẾ XÂY DỰNG__
+
 
 
 <a id="dieu-16"></a>
@@ -499,6 +515,7 @@ b) Thay đổi về giải pháp sử dụng vật liệu cho kết cấu chính
 10. Chủ đầu tư hoặc cơ quan chuẩn bị dự án chịu trách nhiệm tổ chức lập thiết kế xây dựng trừ các bước thiết kế xây dựng được giao cho nhà thầu thi công xây dựng lập theo quy định của hợp đồng xây dựng.
 
 
+
 <a id="dieu-17"></a>
 ### Điều 17. Nhiệm vụ thiết kế xây dựng
 
@@ -543,6 +560,7 @@ d) Yêu cầu, chỉ dẫn về lập thiết kế xây dựng triển khai sau 
 6. Chủ đầu tư hoặc cơ quan được giao nhiệm vụ chuẩn bị dự án chấp thuận bằng văn bản hoặc phê duyệt trực tiếp tại nhiệm vụ thiết kế.
 
 
+
 <a id="dieu-18"></a>
 ### Điều 18. Quy cách hồ sơ thiết kế xây dựng
 
@@ -568,6 +586,7 @@ b) Hồ sơ điện tử có định dạng phù hợp theo quy định của ph
 c) Hồ sơ điện tử được lập thành thư mục gồm danh mục hồ sơ, tiêu đề hồ sơ, số thứ tự, ký hiệu hồ sơ bảo đảm thuận tiện cho việc thực hiện thủ tục hành chính, tra cứu, quản lý và lưu trữ lâu dài trên môi trường điện tử. Chủ đầu tư hoặc cơ quan chuẩn bị dự án chịu trách nhiệm về tính chính xác, đầy đủ của hồ sơ điện tử đảm bảo nội dung theo quy định tại khoản 1, khoản 2 Điều này.
 
 
+
 <a id="dieu-19"></a>
 ### Điều 19. Nội dung thiết kế sơ bộ
 
@@ -582,6 +601,7 @@ c) Hồ sơ điện tử được lập thành thư mục gồm danh mục hồ 
 
 <a id="dieu-19-khoan-4"></a>
 4. Bản vẽ và thuyết minh sơ bộ về phương án công nghệ (nếu có).
+
 
 
 <a id="dieu-20"></a>
@@ -636,6 +656,7 @@ g) Các bản vẽ khác theo yêu cầu của dự án.
 4. Thuyết minh và bản vẽ thiết kế cơ sở phải thể hiện các thông tin, số liệu tương ứng theo quy định tại quy chuẩn kỹ thuật và quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ (nếu có).
 
 
+
 <a id="dieu-21"></a>
 ### Điều 21. Nội dung thiết kế FEED
 
@@ -675,6 +696,7 @@ d) Phương án kết nối hạ tầng kỹ thuật trong và ngoài công trì
 đ) Thuyết minh và bản vẽ thiết kế xây dựng phải thể hiện đầy đủ các thông tin, số liệu đáp ứng yêu cầu về phòng cháy và chữa cháy tương ứng trong Báo cáo nghiên cứu khả thi theo quy định tại quy chuẩn kỹ thuật và quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ (nếu có);
 
 e) Các nội dung thiết kế cần thiết khác theo yêu cầu của dự án (nếu có).
+
 
 
 <a id="dieu-22"></a>
@@ -717,6 +739,7 @@ d) Phương án vật liệu chủ yếu được sử dụng, ước tính chi 
 e) Các nội dung thiết kế cần thiết khác theo yêu cầu của dự án (nếu có).
 
 
+
 <a id="dieu-23"></a>
 ### Điều 23. Nội dung thiết kế bản vẽ thi công
 
@@ -736,6 +759,7 @@ e) Các nội dung thiết kế cần thiết khác theo yêu cầu của dự �
 5. Chỉ dẫn kỹ thuật thực hiện theo quy định tại Điều 24 Nghị định này. Hướng dẫn bảo trì thực hiện theo quy định tại Điều 65 Luật Xây dựng năm 2025 và quy định của Chính phủ về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng.
 
 
+
 <a id="dieu-24"></a>
 ### Điều 24. Chỉ dẫn kỹ thuật
 
@@ -747,6 +771,7 @@ e) Các nội dung thiết kế cần thiết khác theo yêu cầu của dự �
 
 <a id="dieu-24-khoan-3"></a>
 3. Chỉ dẫn kỹ thuật phải lập riêng đối với công trình cấp đặc biệt, cấp I hoặc công trình quy mô lớn, kỹ thuật phức tạp theo yêu cầu của chủ đầu tư. Đối với các công trình còn lại, chỉ dẫn kỹ thuật có thể được lập riêng hoặc quy định trong thuyết minh thiết kế xây dựng.
+
 
 
 <a id="dieu-25"></a>
@@ -762,6 +787,7 @@ e) Các nội dung thiết kế cần thiết khác theo yêu cầu của dự �
 3. Sau khi hồ sơ thiết kế xây dựng được thẩm định, phê duyệt theo quy định, căn cứ hồ sơ đề nghị nghiệm thu của nhà thầu tư vấn, chủ đầu tư kiểm tra khối lượng công việc đã thực hiện so với quy định của hợp đồng xây dựng và chấp thuận nghiệm thu hồ sơ thiết kế xây dựng nếu đạt yêu cầu.
 
 __Mục 3. LẬP, THẨM ĐỊNH DỰ ÁN VÀ QUYẾT ĐỊNH ĐẦU TƯ XÂY DỰNG__
+
 
 
 <a id="dieu-26"></a>
@@ -792,6 +818,7 @@ i) Quy hoạch chi tiết hoặc quy hoạch tổng mặt bằng theo pháp lu�
 
 <a id="dieu-26-khoan-2"></a>
 2. Trường hợp dự án đầu tư xây dựng sửa chữa, tu bổ, hoàn thiện, nâng cấp, cải tạo, mở rộng công trình hiện có hoặc xây dựng mới công trình thay thế công trình hiện có mà vẫn giữ nguyên mục tiêu, địa điểm, quy mô của công trình hiện có thì không yêu cầu căn cứ vào quy hoạch để lập, thẩm định Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật.
+
 
 
 <a id="dieu-27"></a>
@@ -829,6 +856,7 @@ b) Đối với công trình theo tuyến: điều chỉnh ranh giới, diện t
 c) Điều chỉnh một số chỉ tiêu, thông số trong văn bản về quyết định hoặc chấp thuận chủ trương đầu tư được duyệt khi không thuộc trường hợp có yêu cầu phải điều chỉnh chủ trương đầu tư theo pháp luật về đầu tư, đầu tư công, đầu tư theo phương thức đối tác công tư.
 
 
+
 <a id="dieu-28"></a>
 ### Điều 28. Tách dự án thành phần, phân kỳ đầu tư
 
@@ -851,6 +879,7 @@ c) Đối với dự án thành phần độc lập phải đáp ứng yêu cầ
 
 <a id="dieu-28-khoan-4"></a>
 4. Việc phân kỳ đầu tư được thể hiện trong Báo cáo nghiên cứu khả thi và quyết định đầu tư xây dựng. Việc phân kỳ đầu tư phải phù hợp với thời gian thực hiện dự án và nội dung về phân kỳ đầu tư trong nội dung quyết định hoặc chấp thuận chủ trương đầu tư xây dựng hoặc văn bản phê duyệt thông tin dự án (nếu có).
+
 
 
 <a id="dieu-29"></a>
@@ -927,6 +956,7 @@ d) Việc bảo đảm kết nối, vận hành toàn bộ dự án;
 8. Nội dung thiết kế xây dựng tại Báo cáo nghiên cứu khả thi thực hiện theo quy định tại Điều 20 hoặc Điều 21 hoặc Điều 22 Nghị định này tương ứng với bước thiết kế xây dựng được lựa chọn lập tại Báo cáo nghiên cứu khả thi.
 
 
+
 <a id="dieu-30"></a>
 ### Điều 30. Nội dung Báo cáo kinh tế - kỹ thuật
 
@@ -970,6 +1000,7 @@ q) Các nội dung cần thiết khác.
 
 <a id="dieu-30-khoan-3"></a>
 3. Nội dung thiết kế bản vẽ thi công tại Báo cáo kinh tế - kỹ thuật thực hiện theo quy định tại Điều 23 Nghị định này.
+
 
 
 <a id="dieu-31"></a>
@@ -1016,6 +1047,7 @@ c) Việc người quyết định đầu tư giao chủ đầu tư thẩm đị
 8. Cơ quan chủ trì thẩm định tổng hợp kết quả thẩm định của cơ quan chuyên môn về xây dựng (nếu có), kết quả thẩm định của chủ đầu tư quy định tại khoản 7 Điều này (nếu có); ý kiến của các cơ quan thực hiện chức năng quản lý ngành, lĩnh vực có liên quan (nếu có), ý kiến của Bộ Quốc phòng, Bộ Công an đối với các dự án thuộc Danh mục dự án trọng yếu có yêu cầu về bảo đảm quốc phòng, an ninh trình người quyết định đầu tư phê duyệt dự án, quyết định đầu tư xây dựng.
 
 
+
 <a id="dieu-32"></a>
 ### Điều 32. Thẩm quyền thẩm định Báo cáo nghiên cứu khả thi của cơ quan chuyên môn về xây dựng
 
@@ -1041,6 +1073,7 @@ d) Dự án đầu tư kinh doanh có công trình ảnh hưởng đến an toà
 
 <a id="dieu-32-khoan-5"></a>
 5. Cơ quan chuyên môn về xây dựng thuộc Ủy ban nhân dân cấp tỉnh thẩm định đối với dự án theo quy định tại khoản 1 Điều này được đầu tư xây dựng trên địa bàn hành chính của tỉnh, trừ dự án quy định tại khoản 2, 3 và 4 Điều này.
+
 
 
 <a id="dieu-33"></a>
@@ -1081,6 +1114,7 @@ Trường hợp dự án đầu tư xây dựng khu đô thị, khu chức năng
 
 <a id="dieu-33-khoan-6"></a>
 6. Đối với dự án sửa chữa, cải tạo có yêu cầu thẩm định tại cơ quan chuyên môn về xây dựng, thẩm quyền thẩm định Báo cáo nghiên cứu khả thi được xác định theo quy mô của công trình sửa chữa, cải tạo.
+
 
 
 <a id="dieu-34"></a>
@@ -1142,6 +1176,7 @@ Kết luận cuối cùng thông qua các nội dung thẩm định Báo cáo ng
 9. Hội đồng thẩm định tự giải thể sau khi cơ quan thường trực hội đồng hoàn thành việc Thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi của dự án.
 
 
+
 <a id="dieu-35"></a>
 ### Điều 35. Hồ sơ trình thẩm định Báo cáo nghiên cứu khả thi tại cơ quan chuyên môn về xây dựng, Hội đồng thẩm định
 
@@ -1178,6 +1213,7 @@ k) Đối với dự án quy định tại điểm a, b và c khoản 1 Điều 
 l) Đối với dự án có vi phạm hành chính về xây dựng đã bị xử phạt và biện pháp khắc phục hậu quả có yêu cầu thực hiện thẩm định, thẩm định điều chỉnh, cấp giấy phép xây dựng hoặc điều chỉnh giấy phép xây dựng, hồ sơ trình thẩm định còn phải có các nội dung: Báo cáo của chủ đầu tư về quá trình thực hiện dự án, tình hình thực tế thi công các công trình xây dựng của dự án đến thời điểm trình thẩm định; biên bản, quyết định xử phạt vi phạm hành chính của cấp có thẩm quyền; Báo cáo kiểm định của tổ chức kiểm định xây dựng đánh giá về khả năng chịu lực của phần công trình đã thi công xây dựng;
 
 m) Đối với dự án sửa chữa, cải tạo, hồ sơ trình thẩm định còn phải có các nội dung: Hồ sơ khảo sát hiện trạng, Báo cáo kiểm định của tổ chức kiểm định xây dựng đánh giá về khả năng chịu lực của công trình (trường hợp nội dung sửa chữa, cải tạo có liên quan).
+
 
 
 <a id="dieu-36"></a>
@@ -1242,6 +1278,7 @@ b) Các bản vẽ đã đóng dấu thẩm định được giao lại cho cơ 
 10. Cơ quan chuẩn bị dự án có trách nhiệm nộp phí thẩm định theo quy định khi thực hiện các thủ tục này.
 
 
+
 <a id="dieu-37"></a>
 ### Điều 37. Thời gian thẩm định Báo cáo nghiên cứu khả thi của cơ quan chuyên môn về xây dựng, Hội đồng thẩm định
 
@@ -1258,6 +1295,7 @@ d) Không quá 15 ngày làm việc đối với dự án nhóm C có công trì
 
 <a id="dieu-37-khoan-2"></a>
 2. Trường hợp cần gia hạn thời gian thẩm định thì cơ quan thẩm định phải có văn bản gửi đến người đề nghị thẩm định, nêu rõ về lý do gia hạn, thời gian gia hạn. Cơ quan thẩm định chỉ được gia hạn thẩm định 01 lần, thời gian gia hạn không quá thời gian thẩm định tương ứng được quy định tại khoản 1 Điều này.
+
 
 
 <a id="dieu-38"></a>
@@ -1305,6 +1343,7 @@ Mẫu văn bản thông báo kết quả thẩm định Báo cáo nghiên cứu 
 7. Trường hợp dự án đã được cơ quan chuyên môn về xây dựng thẩm định Báo cáo nghiên cứu khả thi, chủ đầu tư thực hiện chuyển nhượng một phần hoặc toàn bộ dự án hoặc góp vốn bằng quyền sử dụng đất, tài sản gắn liền với đất hoặc chia tách, sáp nhập, hợp nhất thì tổ chức nhận chuyển nhượng/nhận góp vốn hoặc tổ chức được hình thành sau chia tách, sáp nhập, hợp nhất được kế thừa kết quả thẩm định Báo cáo nghiên cứu khả thi của cơ quan chuyên môn về xây dựng mà không phải thực hiện lại thủ tục này; trừ trường hợp điều chỉnh dự án theo quy định tại khoản 2 Điều 40 Nghị định này.
 
 
+
 <a id="dieu-39"></a>
 ### Điều 39. Phê duyệt dự án, quyết định đầu tư xây dựng
 
@@ -1344,6 +1383,7 @@ l) Việc bàn giao công trình xây dựng, dịch vụ công ích (đối v�
 
 <a id="dieu-39-khoan-5"></a>
 5. Đối với dự án chỉ cần lập Báo cáo kinh tế - kỹ thuật, khi phê duyệt dự án, người quyết định đầu tư giao chủ đầu tư đóng dấu phê duyệt hồ sơ thiết kế bản vẽ thi công của Báo cáo kinh tế - kỹ thuật.
+
 
 
 <a id="dieu-40"></a>
@@ -1386,6 +1426,7 @@ b) Trường hợp chỉ điều chỉnh hồ sơ thiết kế bản vẽ thi c�
 __Mục 4. QUẢN LÝ THIẾT KẾ XÂY DỰNG TRIỂN KHAI SAU KHI DỰ ÁN ĐƯỢC PHÊ DUYỆT__
 
 
+
 <a id="dieu-41"></a>
 ### Điều 41. Thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt
 
@@ -1422,6 +1463,7 @@ c) Nội dung Báo cáo kết quả thẩm tra quy định tại Mẫu số 11 P
 
 <a id="dieu-41-khoan-6"></a>
 6. Chủ đầu tư có trách nhiệm tổng hợp văn bản của các cơ quan, tổ chức có liên quan; thực hiện các yêu cầu (nếu có); phê duyệt thiết kế xây dựng theo quy định tại Điều 42 Nghị định này.
+
 
 
 <a id="dieu-42"></a>
@@ -1465,6 +1507,7 @@ l) Các nội dung khác.
 5. Trường hợp công trình được lập, thẩm định theo bộ phận công trình, chủ đầu tư hoặc người được ủy quyền phê duyệt các nội dung tại khoản 1 Điều này đối với bộ phận công trình được thẩm định. Sau khi kết thúc thẩm định toàn bộ bộ phận công trình, chủ đầu tư hoặc người được ủy quyền phê duyệt thiết kế xây dựng công trình.
 
 
+
 <a id="dieu-43"></a>
 ### Điều 43. Điều chỉnh thiết kế xây dựng triển khai sau khi dự án được phê duyệt
 
@@ -1484,6 +1527,7 @@ l) Các nội dung khác.
 5. Việc thẩm tra thiết kế xây dựng điều chỉnh thực hiện theo quy định tại khoản 4 Điều 41 Nghị định này.
 
 __Mục 5. TỔ CHỨC QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG__
+
 
 
 <a id="dieu-44"></a>
@@ -1508,6 +1552,7 @@ Trường hợp Ban quản lý dự án đầu tư xây dựng là chủ đầu 
 
 <a id="dieu-44-khoan-6"></a>
 6. Khi áp dụng hình thức chủ đầu tư tổ chức quản lý dự án, chủ đầu tư căn cứ vào điều kiện triển khai dự án để quyết định lựa chọn hình thức quản lý dự án quy định tại Điều 46 hoặc Điều 47 hoặc Điều 48 Nghị định này.
+
 
 
 <a id="dieu-45"></a>
@@ -1550,6 +1595,7 @@ c) Cá nhân được giao phụ trách bộ phận chuyên môn của dự án 
 6. Giám đốc Ban quản lý dự án đầu tư xây dựng quy định quy chế hoạt động của Ban quản lý dự án đầu tư xây dựng. Nội dung chính của quy chế bao gồm: vị trí, vai trò, chức năng, nhiệm vụ, quyền hạn, mối quan hệ công tác; trách nhiệm giữa bộ phận thực hiện chức năng chủ đầu tư và bộ phận thực hiện nghiệp vụ quản lý dự án phù hợp với quy định của pháp luật về xây dựng và pháp luật khác có liên quan.
 
 
+
 <a id="dieu-46"></a>
 ### Điều 46. Thuê tư vấn quản lý dự án đầu tư xây dựng
 
@@ -1567,6 +1613,7 @@ c) Cá nhân được giao phụ trách bộ phận chuyên môn của dự án 
 
 <a id="dieu-46-khoan-5"></a>
 5. Việc lựa chọn tổ chức tư vấn quản lý dự án theo quy định tại Điều này để quản lý dự án đầu tư xây dựng được thực hiện theo quy định của pháp luật về đấu thầu đối với trường hợp thuộc phạm vi điều chỉnh của pháp luật về đấu thầu.
+
 
 
 <a id="dieu-47"></a>
@@ -1594,6 +1641,7 @@ c) Cá nhân được giao phụ trách bộ phận chuyên môn của dự án 
 7. Ban quản lý dự án đầu tư xây dựng trực thuộc chủ đầu tư được thành lập theo quy định tại Điều này tự giải thể sau khi hoàn thành công việc quản lý dự án được giao.
 
 
+
 <a id="dieu-48"></a>
 ### Điều 48. Chủ đầu tư tự thực hiện quản lý dự án
 
@@ -1609,6 +1657,7 @@ c) Cá nhân được giao phụ trách bộ phận chuyên môn của dự án 
 ### Chương III
 
 __GIẤY PHÉP XÂY DỰNG VÀ QUẢN LÝ TRẬT TỰ XÂY DỰNG__
+
 
 
 <a id="dieu-49"></a>
@@ -1647,6 +1696,7 @@ Mẫu giấy phép xây dựng theo quy định tại Mẫu số 03, 04, 05 Ph�
 10. Thời hạn khởi công công trình không quá 12 tháng kể từ ngày được cấp hoặc gia hạn giấy phép xây dựng.
 
 
+
 <a id="dieu-50"></a>
 ### Điều 50. Điều kiện cấp giấy phép xây dựng mới
 
@@ -1676,6 +1726,7 @@ Công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng
 5. Hồ sơ đề nghị cấp giấy phép xây dựng phù hợp với từng loại công trình theo quy định tại Điều 57 Nghị định này.
 
 
+
 <a id="dieu-51"></a>
 ### Điều 51. Điều kiện cấp giấy phép xây dựng sửa chữa, cải tạo, di dời công trình
 
@@ -1687,6 +1738,7 @@ Công trình xây dựng ảnh hưởng lớn đến an toàn, lợi ích cộng
 
 <a id="dieu-51-khoan-3"></a>
 3. Hồ sơ đề nghị cấp giấy phép xây dựng sửa chữa, cải tạo, di dời công trình theo quy định tại Điều 61 Nghị định này.
+
 
 
 <a id="dieu-52"></a>
@@ -1721,6 +1773,7 @@ Trường hợp sau 02 năm liên tục kể từ ngày kế hoạch sử dụng
 6. Hồ sơ đề nghị cấp giấy phép xây dựng có thời hạn theo quy định tại Điều 62 Nghị định này.
 
 
+
 <a id="dieu-53"></a>
 ### Điều 53. Thẩm quyền cấp giấy phép xây dựng
 
@@ -1745,6 +1798,7 @@ c) Đối với dự án có nhiều công trình với loại và cấp công t
 d) Khi điều chỉnh thiết kế xây dựng hoặc sửa chữa, cải tạo công trình làm thay đổi cấp của công trình thì thẩm quyền cấp giấy phép xây dựng được xác định theo cấp của công trình sau điều chỉnh thiết kế hoặc công trình sửa chữa, cải tạo;
 
 đ) Đối với công trình được đầu tư xây dựng gắn vào công trình, bộ phận công trình khác, thẩm quyền cấp giấy phép xây dựng xác định theo cấp của công trình đề nghị cấp giấy phép xây dựng.
+
 
 
 <a id="dieu-54"></a>
@@ -1803,6 +1857,7 @@ b) Kiểm tra sự phù hợp của bản vẽ thiết kế xây dựng tại h�
 c) Kiểm tra tính đầy đủ, hợp lệ của Báo cáo kết quả thẩm tra đối với công trình có yêu cầu phải thẩm tra thiết kế xây dựng theo quy định tại Nghị định này.
 
 
+
 <a id="dieu-55"></a>
 ### Điều 55. Các loại giấy tờ hợp pháp về đất đai để cấp giấy phép xây dựng
 
@@ -1857,6 +1912,7 @@ Giấy tờ hợp pháp về đất đai chứng minh sự phù hợp mục đí
 16. Các giấy tờ hợp pháp khác theo quy định pháp luật về đất đai.
 
 
+
 <a id="dieu-56"></a>
 ### Điều 56. Quy định chung về hồ sơ đề nghị cấp giấy phép xây dựng
 
@@ -1874,6 +1930,7 @@ Giấy tờ hợp pháp về đất đai chứng minh sự phù hợp mục đí
 
 <a id="dieu-56-khoan-5"></a>
 5. Chủ đầu tư nộp bộ hồ sơ đầy đủ thành phần tương ứng theo quy định tại các Điều 57, 58, 59, 60, 61 và 62 Nghị định này.
+
 
 
 <a id="dieu-57"></a>
@@ -1911,6 +1968,7 @@ Hồ sơ đề nghị cấp giấy phép xây dựng gồm các tài liệu như
 Hồ sơ đề nghị cấp giấy phép xây dựng đối với công trình của các cơ quan ngoại giao, tổ chức quốc tế và cơ quan nước ngoài đầu tư tại Việt Nam được thực hiện theo quy định tương ứng tại khoản 1 Điều này và các điều khoản quy định của Hiệp định hoặc thỏa thuận đã được ký kết với Chính phủ Việt Nam.
 
 
+
 <a id="dieu-58"></a>
 ### Điều 58. Hồ sơ đề nghị cấp giấy phép xây dựng theo giai đoạn
 
@@ -1925,6 +1983,7 @@ Hồ sơ đề nghị cấp giấy phép xây dựng đối với công trình c
 
 <a id="dieu-58-khoan-4"></a>
 4. Bộ bản vẽ thiết kế xây dựng trong hồ sơ thiết kế xây dựng triển khai sau khi dự án được phê duyệt hoặc thiết kế bản vẽ thi công đối với dự án chỉ yêu cầu lập Báo cáo kinh tế - kỹ thuật được phê duyệt theo quy định của pháp luật về xây dựng tương ứng với giai đoạn đề nghị cấp giấy phép xây dựng theo quy định tại điểm d khoản 1 Điều 57 Nghị định này.
+
 
 
 <a id="dieu-59"></a>
@@ -1943,6 +2002,7 @@ Hồ sơ đề nghị cấp giấy phép xây dựng đối với công trình c
 4. Bộ bản vẽ thiết kế xây dựng trong hồ sơ thiết kế xây dựng triển khai sau khi dự án được phê duyệt theo quy định của pháp luật về xây dựng của từng công trình trong nhóm công trình hoặc toàn bộ công trình thuộc dự án đã được phê duyệt theo quy định tại điểm d khoản 1 Điều 57 Nghị định này đối với công trình theo tuyến hoặc không theo tuyến.
 
 
+
 <a id="dieu-60"></a>
 ### Điều 60. Hồ sơ đề nghị cấp giấy phép xây dựng đối với công trình nhà ở riêng lẻ
 
@@ -1958,6 +2018,7 @@ Hồ sơ đề nghị cấp giấy phép xây dựng đối với công trình c
 a) Đối với công trình nhà ở riêng lẻ của hộ gia đình, cá nhân: bộ bản vẽ thiết kế xây dựng kèm theo; kết quả thực hiện thủ tục hành chính theo quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ (nếu có yêu cầu); Báo cáo kết quả thẩm tra thiết kế xây dựng trong trường hợp pháp luật về xây dựng có yêu cầu, gồm: bản vẽ mặt bằng công trình trên lô đất kèm theo sơ đồ vị trí công trình; bản vẽ mặt bằng các tầng, các mặt đứng và mặt cắt chính của công trình; bản vẽ mặt bằng móng và mặt cắt móng kèm theo sơ đồ đấu nối hệ thống hạ tầng kỹ thuật bên ngoài công trình gồm cấp nước, thoát nước, cấp điện; bản cam kết bảo đảm an toàn đối với công trình liền kề;
 
 b) Đối với công trình nhà ở riêng lẻ của tổ chức: bộ bản vẽ thiết kế xây dựng trong hồ sơ thiết kế xây dựng triển khai sau khi dự án được phê duyệt hoặc thiết kế bản vẽ thi công đối với dự án chỉ yêu cầu lập Báo cáo kinh tế - kỹ thuật được phê duyệt theo quy định của pháp luật về xây dựng kèm theo kết quả thực hiện thủ tục hành chính theo quy định của pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ (nếu có yêu cầu); Báo cáo kết quả thẩm tra thiết kế xây dựng trong trường hợp pháp luật về xây dựng có yêu cầu, gồm: bản vẽ mặt bằng công trình trên lô đất kèm theo sơ đồ vị trí công trình; bản vẽ mặt bằng các tầng, các mặt đứng và mặt cắt chính của công trình; bản vẽ mặt bằng móng và mặt cắt móng kèm theo sơ đồ đấu nối hệ thống hạ tầng kỹ thuật bên ngoài công trình gồm cấp nước, thoát nước, cấp điện; bản cam kết bảo đảm an toàn đối với công trình liền kề.
+
 
 
 <a id="dieu-61"></a>
@@ -1987,6 +2048,7 @@ c) Báo cáo kết quả khảo sát đánh giá chất lượng hiện trạng 
 d) Phương án di dời do tổ chức có chức năng về thiết kế hoặc kiểm định thực hiện gồm phần thuyết minh về hiện trạng công trình và khu vực công trình sẽ được di dời đến; giải pháp di dời, phương án bố trí sử dụng phương tiện, thiết bị, nhân lực; giải pháp bảo đảm an toàn cho công trình, người, máy móc, thiết bị và công trình lân cận; bảo đảm vệ sinh môi trường; tiến độ di dời; tổ chức, cá nhân thực hiện di dời công trình; bản vẽ biện pháp thi công di dời công trình.
 
 
+
 <a id="dieu-62"></a>
 ### Điều 62. Hồ sơ đề nghị cấp giấy phép xây dựng có thời hạn
 
@@ -1995,6 +2057,7 @@ d) Phương án di dời do tổ chức có chức năng về thiết kế hoặ
 
 <a id="dieu-62-khoan-2"></a>
 2. Hồ sơ đề nghị cấp giấy phép xây dựng có thời hạn như quy định đối với từng loại công trình, công trình nhà ở riêng lẻ quy định tại Điều 57 Nghị định này. Riêng tiêu đề của đơn được đổi thành “Đơn đề nghị cấp giấy phép xây dựng có thời hạn”.
+
 
 
 <a id="dieu-63"></a>
@@ -2036,6 +2099,7 @@ c) Giấy phép xây dựng điều chỉnh, gia hạn được ghi trực tiế
 d) Trường hợp công trình đã được cấp giấy phép xây dựng, chủ đầu tư thực hiện chuyển nhượng một phần hoặc toàn bộ dự án hoặc góp vốn bằng quyền sử dụng đất, tài sản gắn liền với đất hoặc chia tách, sáp nhập, hợp nhất thì tổ chức nhận chuyển nhượng/nhận góp vốn hoặc tổ chức được hình thành sau chia tách, sáp nhập, hợp nhất được kế thừa giấy phép xây dựng này.
 
 
+
 <a id="dieu-64"></a>
 ### Điều 64. Cấp lại giấy phép xây dựng
 
@@ -2051,6 +2115,7 @@ b) Bản chính hoặc bản sao có chứng thực giấy phép xây dựng đ�
 
 <a id="dieu-64-khoan-3"></a>
 3. Đơn đề nghị cấp lại giấy phép xây dựng theo Mẫu số 02 Phụ lục II ban hành kèm theo Nghị định này, trong đó nêu rõ lý do đề nghị cấp lại.
+
 
 
 <a id="dieu-65"></a>
@@ -2081,6 +2146,7 @@ d) Trường hợp tổ chức, cá nhân bị thu hồi giấy phép xây dựn
 4. Tổ chức, cá nhân bị thu hồi giấy phép xây dựng được đề nghị cấp giấy phép xây dựng theo quy định tại Nghị định này sau khi đã nộp lại hoặc hủy giấy phép xây dựng và hoàn thành các trách nhiệm, nghĩa vụ theo quy định của pháp luật.
 
 
+
 <a id="dieu-66"></a>
 ### Điều 66. Công khai giấy phép xây dựng
 
@@ -2089,6 +2155,7 @@ d) Trường hợp tổ chức, cá nhân bị thu hồi giấy phép xây dựn
 
 <a id="dieu-66-khoan-2"></a>
 2. Chủ đầu tư có trách nhiệm công khai nội dung giấy phép xây dựng đã được cấp tại địa điểm thi công xây dựng trong suốt quá trình thi công xây dựng để tổ chức, cá nhân theo dõi và giám sát theo quy định của pháp luật có liên quan.
+
 
 
 <a id="dieu-67"></a>
@@ -2117,6 +2184,7 @@ c) Đối với công trình thuộc đối tượng không phải có giấy ph
 __XÂY DỰNG CÔNG TRÌNH ĐẶC THÙ__
 
 
+
 <a id="dieu-68"></a>
 ### Điều 68. Quản lý đầu tư xây dựng dự án, công trình cần bảo đảm bí mật nhà nước
 
@@ -2131,6 +2199,7 @@ __XÂY DỰNG CÔNG TRÌNH ĐẶC THÙ__
 
 <a id="dieu-68-khoan-4"></a>
 4. Các cơ quan, tổ chức, cá nhân liên quan thực hiện việc thực hiện dự án, quản lý hồ sơ, tài liệu và các thông tin liên quan trong quá trình đầu tư xây dựng công trình cần bảo đảm bí mật nhà nước tuân thủ theo quy định của pháp luật về bảo vệ bí mật nhà nước.
+
 
 
 <a id="dieu-69"></a>
@@ -2155,6 +2224,7 @@ Việc quản lý đầu tư xây dựng dự án, công trình xây dựng kh�
 
 <a id="dieu-69-khoan-6"></a>
 6. Việc quản lý, thanh toán, quyết toán vốn đầu tư xây dựng và các công việc khác được thực hiện theo quy định của pháp luật có liên quan; trường hợp pháp luật có liên quan về quản lý, thanh toán, quyết toán vốn đầu tư xây dựng có quy định về trình tự thực hiện thủ tục rút gọn hoặc có quy định đặc thù thì thực hiện theo cơ chế này. Việc xác định chi phí đầu tư xây dựng thực hiện theo quy định của Bộ Xây dựng.
+
 
 
 <a id="dieu-70"></a>
@@ -2184,6 +2254,7 @@ d) Việc điều chỉnh thiết kế xây dựng triển khai sau khi dự án
 
 <a id="dieu-70-khoan-5"></a>
 5. Người quyết định đầu tư, chủ đầu tư quyết định việc áp dụng trình tự tổ chức thực hiện song song, đồng thời các công việc, thủ tục trên nguyên tắc bảo đảm hiệu quả đầu tư xây dựng. Người quyết định đầu tư, chủ đầu tư và các tổ chức, cá nhân có liên quan chịu trách nhiệm trước pháp luật đối với công việc do mình thực hiện.
+
 
 
 <a id="dieu-71"></a>
@@ -2220,6 +2291,7 @@ d) Sau khi kết thúc thi công xây dựng dự án, chủ đầu tư và các
 4. Việc quản lý, thanh toán, quyết toán vốn đầu tư xây dựng và các công việc khác được thực hiện theo quy định của pháp luật có liên quan. Việc xác định chi phí đầu tư xây dựng thực hiện theo quy định của Bộ Xây dựng.
 
 
+
 <a id="dieu-72"></a>
 ### Điều 72. Dự án, công trình xây dựng tạm
 
@@ -2235,6 +2307,7 @@ d) Sau khi kết thúc thi công xây dựng dự án, chủ đầu tư và các
 ### Chương V
 
 __ĐIỀU KHOẢN THI HÀNH__
+
 
 
 <a id="dieu-73"></a>
@@ -2321,6 +2394,7 @@ c) Thực hiện cưỡng chế công trình vi phạm trật tự xây dựng t
 10. Các bộ quản lý công trình xây dựng chuyên ngành, Ủy ban nhân dân cấp tỉnh, các tập đoàn kinh tế, tổng công ty nhà nước có trách nhiệm gửi báo cáo định kỳ vào ngày 15 tháng 12 hàng năm về nội dung quản lý hoạt động đầu tư xây dựng theo quy định của Bộ trưởng Bộ Xây dựng, gửi về Bộ Xây dựng để tổng hợp, theo dõi.
 
 
+
 <a id="dieu-74"></a>
 ### Điều 74. Sửa đổi, bổ sung, bãi bỏ một số điều của Nghị định số 105/2025/NĐ-CP ngày 15 tháng 5 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ
 
@@ -2337,6 +2411,7 @@ c) Thực hiện cưỡng chế công trình vi phạm trật tự xây dựng t
 
 <a id="dieu-74-khoan-4"></a>
 4. Bãi bỏ khoản 3 Điều 44.
+
 
 
 <a id="dieu-75"></a>
@@ -2363,6 +2438,7 @@ d) Điều 24 Nghị định số 14/2026/NĐ-CP ngày 13 tháng 01 năm 2026 c�
 
 <a id="dieu-75-khoan-4"></a>
 4. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố chịu trách nhiệm thi hành Nghị định này.
+
 
 
 <a id="dieu-76"></a>
@@ -3862,6 +3938,7 @@ __NGƯỜI ĐẠI DIỆN CƠ QUAN/TỔ CHỨC PHÊ DUYỆT__
 __QUYẾT ĐỊNH:__
 
 
+
 <a id="dieu-1"></a>
 ### Điều 1. Phê duyệt dự án/dự án thành phần/giai đoạn/hạng mục công trình *(tên dự án/công trình của dự án)* với các nội dung chủ yếu như sau:
 
@@ -3927,8 +4004,10 @@ Chi phí đầu tư xây dựng giai đoạn thực hiện, phân kỳ đầu t�
 19. Các nội dung khác (nếu có).
 
 
+
 <a id="dieu-2"></a>
 ### Điều 2. Tổ chức thực hiện.
+
 
 
 <a id="dieu-3"></a>
@@ -3992,6 +4071,7 @@ __NGƯỜI ĐẠI DIỆN CƠ QUAN/TỔ CHỨC PHÊ DUYỆT__
 __QUYẾT ĐỊNH:__
 
 
+
 <a id="dieu-1"></a>
 ### Điều 1. Phê duyệt dự án/hạng mục công trình của dự án *(tên dự án)* với các nội dung chủ yếu như sau:
 
@@ -4044,8 +4124,10 @@ __QUYẾT ĐỊNH:__
 16. Các nội dung khác (nếu có).
 
 
+
 <a id="dieu-2"></a>
 ### Điều 2. Tổ chức thực hiện.
+
 
 
 <a id="dieu-3"></a>
@@ -4407,6 +4489,7 @@ __CƠ QUAN/TỔ CHỨC PHÊ DUYỆT__
 __QUYẾT ĐỊNH:__
 
 
+
 <a id="dieu-1"></a>
 ### Điều 1. Phê duyệt thiết kế xây dựng triển khai sau khi dự án được phê duyệt (tên công trình) với các nội dung chủ yếu như sau:
 
@@ -4453,8 +4536,10 @@ __QUYẾT ĐỊNH:__
 14. Các nội dung khác (nếu có).
 
 
+
 <a id="dieu-2"></a>
 ### Điều 2. Tổ chức thực hiện.
+
 
 
 <a id="dieu-3"></a>
@@ -4664,6 +4749,7 @@ __NGƯỜI QUYẾT ĐỊNH__
 __QUYẾT ĐỊNH:__
 
 
+
 <a id="dieu-1"></a>
 ### Điều 1. Ban hành Lệnh xây dựng công trình khẩn cấp với các nội dung chính như sau:
 
@@ -4698,12 +4784,15 @@ __QUYẾT ĐỊNH:__
 10. Các yêu cầu khác có liên quan: (nếu có)
 
 
+
 <a id="dieu-2"></a>
 ### Điều 2. Tổ chức thực hiện.
 
 
+
 <a id="dieu-3"></a>
 ### Điều 3. Quyết định này có hiệu lực thi hành kể từ ngày ký.
+
 
 
 <a id="dieu-4"></a>

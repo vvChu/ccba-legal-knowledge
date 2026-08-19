@@ -19,7 +19,6 @@ import yaml
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
-
 class LegalSpokeValidator:
     """Validator engine for CCBA Legal Knowledge Spoke."""
 
@@ -200,6 +199,67 @@ class LegalSpokeValidator:
 
         return (len(self.errors), len(self.warnings))
 
+    def validate_pdf_metadata_and_ast_enrichment(self) -> Tuple[int, int]:
+        """Validate that legal_registry.yaml and clauses.json have rich PDF and Jurisdiction AST attributes."""
+        # 1. Check legal_registry.yaml PDF metadata
+        try:
+            with open(self.registry_file, "r", encoding="utf-8") as f:
+                data = yaml.safe_load(f)
+            laws = data.get("laws", [])
+            for item in laws:
+                doc_id = item.get("id", "UNKNOWN")
+                if "pdf_status" not in item:
+                    self.errors.append(f"PDF Metadata Error [{doc_id}]: Missing 'pdf_status' in legal_registry.yaml")
+                if "cong_bao_number" not in item:
+                    self.warnings.append(f"PDF Metadata Warning [{doc_id}]: Missing 'cong_bao_number' in legal_registry.yaml")
+        except Exception as e:
+            self.errors.append(f"CRITICAL: Failed to validate PDF metadata in registry: {e}")
+
+        # 2. Check clauses.json in QCVN bundles
+        for qcvn_slug in ["qcvn_04_2021_bxd", "qcvn_06_2022_bxd"]:
+            clauses_file = self.legal_docs_dir / "02_qcvn" / qcvn_slug / "clauses.json"
+            if not clauses_file.exists():
+                self.errors.append(f"AST Error [{qcvn_slug}]: Missing clauses.json at {clauses_file}")
+                continue
+
+            try:
+                clauses_data = json.loads(clauses_file.read_text(encoding="utf-8"))
+                if not clauses_data:
+                    self.errors.append(f"AST Error [{qcvn_slug}]: clauses.json is empty")
+                    continue
+
+                valid_jurisdictions = {"CQXD", "CONG_AN", "CHU_DAU_TU_TU_THAM_DINH"}
+                valid_severities = {"CRITICAL_DEFECT", "WARNING_NOTICE", "VERIFICATION_REQUIRED"}
+
+                missing_jur = 0
+                missing_cb = 0
+                for c in clauses_data:
+                    jur = c.get("jurisdiction")
+                    if not jur or jur not in valid_jurisdictions:
+                        missing_jur += 1
+                    
+                    cb = c.get("cong_bao_number")
+                    if not cb:
+                        missing_cb += 1
+
+                    g_end = c.get("grace_period_end")
+                    if g_end and not re.match(r"^\d{4}-\d{2}-\d{2}$", str(g_end)):
+                        self.errors.append(f"AST Error [{qcvn_slug}]: Invalid date format for grace_period_end: {g_end}")
+
+                    sev = c.get("compliance_severity")
+                    if sev and sev not in valid_severities:
+                        self.errors.append(f"AST Error [{qcvn_slug}]: Invalid compliance_severity: {sev}")
+
+                if missing_jur > 0:
+                    self.errors.append(f"AST Error [{qcvn_slug}]: {missing_jur}/{len(clauses_data)} clauses missing valid 'jurisdiction'")
+                if missing_cb > 0:
+                    self.warnings.append(f"AST Warning [{qcvn_slug}]: {missing_cb}/{len(clauses_data)} clauses missing 'cong_bao_number'")
+
+            except Exception as e:
+                self.errors.append(f"AST Error [{qcvn_slug}]: Failed to parse clauses.json: {e}")
+
+        return (len(self.errors), len(self.warnings))
+
     def run_all_checks(self) -> bool:
         """Run all validation checks and print a summary report."""
         print("=================================================================")
@@ -211,11 +271,13 @@ class LegalSpokeValidator:
         self.validate_okf_bundles()
         self.validate_table_attachments()
         self.validate_fake_data_gate()
+        self.validate_pdf_metadata_and_ast_enrichment()
 
         print("-> Registry Check completed.")
         print("-> OKF Bundles Structure Check completed.")
         print("-> Table Attachments Check completed.")
-        print("-> Fake Data Gate Check completed.\n")
+        print("-> Fake Data Gate Check completed.")
+        print("-> PDF Metadata & AST Jurisdiction Gate Check completed.\n")
 
         print("-----------------------------------------------------------------")
         print("SUMMARY REPORT:")
@@ -244,14 +306,12 @@ class LegalSpokeValidator:
         print("\n❌ FAILED: Critical errors detected in legal spoke validation.")
         return False
 
-
 def main() -> None:
     """CLI entry point for running validator."""
     root_dir = Path(__file__).resolve().parent.parent
     validator = LegalSpokeValidator(root_dir)
     success = validator.run_all_checks()
     sys.exit(0 if success else 1)
-
 
 if __name__ == "__main__":
     main()

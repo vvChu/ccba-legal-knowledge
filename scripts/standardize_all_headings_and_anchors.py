@@ -17,7 +17,6 @@ bundle_dir = Path(__file__).resolve().parent.parent / "legal_docs" / "02_qcvn" /
 base_file = bundle_dir / "qcvn_06_2022_bxd.md"
 sd_file = bundle_dir / "sua_doi_1_2023_qcvn_06_2022_bxd.md"
 
-
 def make_anchor_slug(sec_code: str) -> str:
     s = sec_code.strip().lower()
     if s.startswith("bảng"):
@@ -31,7 +30,6 @@ def make_anchor_slug(sec_code: str) -> str:
     s = re.sub(r"[^\da-z]+$", "", s)
     s = re.sub(r"[\s.]+", "-", s)
     return f"muc-{s}"
-
 
 def clean_and_tag_base_doc() -> Set[str]:
     text = base_file.read_text(encoding="utf-8")
@@ -90,7 +88,6 @@ def clean_and_tag_base_doc() -> Set[str]:
     base_file.write_text(new_text, encoding="utf-8")
     return anchors
 
-
 def harmonize_amendment_links(base_anchors: Set[str]) -> None:
     text = sd_file.read_text(encoding="utf-8")
 
@@ -132,7 +129,6 @@ def harmonize_amendment_links(base_anchors: Set[str]) -> None:
     new_text = re.sub(r"\[([^\]]+)\]\((qcvn_06_2022_bxd\.md#[^\)]+)\)", replacer, text)
     sd_file.write_text(new_text, encoding="utf-8")
 
-
 def main() -> None:
     print("=================================================================")
     print("      MASTER HARMONIZATION OF CANONICAL ANCHORS & LINKS         ")
@@ -144,7 +140,6 @@ def main() -> None:
     harmonize_amendment_links(base_anchors)
     print("✅ Đã chuẩn hóa toàn bộ các liên kết đối soát trong sua_doi_1_2023...")
     print("=================================================================")
-
 
 if __name__ == "__main__":
     main()

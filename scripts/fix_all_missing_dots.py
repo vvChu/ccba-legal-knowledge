@@ -16,7 +16,6 @@ sys.stdout.reconfigure(encoding="utf-8")
 bundle_dir = Path(__file__).resolve().parent.parent / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 base_file = bundle_dir / "qcvn_06_2022_bxd.md"
 
-
 def fix_dots_in_text(text: str) -> str:
     # 1. Fix Chapter 1: 1.11 -> 1.1.1, 1.12 -> 1.1.2 ... 1.19 -> 1.1.9, 1.110 -> 1.1.10
     for u in range(1, 10):
@@ -81,13 +80,11 @@ def fix_dots_in_text(text: str) -> str:
 
     return "\n".join(new_lines)
 
-
 def main() -> None:
     text = base_file.read_text(encoding="utf-8")
     fixed_text = fix_dots_in_text(text)
     base_file.write_text(fixed_text, encoding="utf-8")
     print(f"✅ Fixed all dot splits and canonical anchors in qcvn_06_2022_bxd.md")
-
 
 if __name__ == "__main__":
     main()

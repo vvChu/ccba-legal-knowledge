@@ -13,7 +13,6 @@ if hasattr(sys.stdout, "reconfigure"):
 ROOT_DIR = Path(__file__).resolve().parent.parent
 BUNDLE_DIR = ROOT_DIR / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 
-
 def format_table_cells_superscript(line: str) -> str:
     """Formats attached footnote symbols inside table rows only."""
     stripped = line.strip()
@@ -36,7 +35,6 @@ def format_table_cells_superscript(line: str) -> str:
         new_cells.append(c_mod)
 
     return "|".join(new_cells)
-
 
 def format_document(text: str) -> str:
     lines = text.splitlines()
@@ -73,7 +71,6 @@ def format_document(text: str) -> str:
     res = re.sub(r"\n{3,}", "\n\n", res)
     return res
 
-
 def main():
     for fn in ["qcvn_06_2022_bxd.md", "qcvn_06_2022_bxd_hop_nhat_2023.md", "sua_doi_1_2023_qcvn_06_2022_bxd.md"]:
         fp = BUNDLE_DIR / fn
@@ -83,7 +80,6 @@ def main():
         formatted_text = format_document(text)
         fp.write_text(formatted_text, encoding="utf-8")
         print(f"✅ Đã nâng cấp Superscript Footnotes cho: {fn}")
-
 
 if __name__ == "__main__":
     main()

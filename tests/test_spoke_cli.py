@@ -3,11 +3,8 @@
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-
 from scripts.spoke_cli import get_spoke_stats
 from scripts.validate_legal_spoke import LegalSpokeValidator
-
 
 def test_spoke_stats_computation():
     root_dir = Path(__file__).resolve().parent.parent
@@ -20,7 +17,6 @@ def test_spoke_stats_computation():
     assert stats["total_size_mb"] > 3.0
     assert stats["total_clauses"] > 3500
     assert stats["total_qa"] > 700
-
 
 def test_spoke_validator_pass():
     root_dir = Path(__file__).resolve().parent.parent

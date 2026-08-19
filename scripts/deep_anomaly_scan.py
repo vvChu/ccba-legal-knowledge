@@ -10,7 +10,6 @@ if hasattr(sys.stdout, "reconfigure"):
 ROOT_DIR = Path(__file__).resolve().parent.parent
 BUNDLE_DIR = ROOT_DIR / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 
-
 def scan_bundle():
     files = list(BUNDLE_DIR.glob("*.md"))
     suspicious_patterns = [
@@ -48,7 +47,6 @@ def scan_bundle():
     else:
         print(f"⚠️ Tổng cộng phát hiện {total_issues} điểm cần rà soát.")
     print("=" * 65)
-
 
 if __name__ == "__main__":
     scan_bundle()

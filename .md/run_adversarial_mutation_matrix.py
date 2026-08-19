@@ -28,7 +28,6 @@ TABLES_CSV_DIR = REPO_ROOT / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd" / "ta
 REGISTRY_YAML = REPO_ROOT / "legal_registry.yaml"
 METADATA_YAML = REPO_ROOT / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd" / "metadata.yaml"
 
-
 class MutationTester:
     def __init__(self):
         self.results = []
@@ -95,7 +94,6 @@ class MutationTester:
             print(f"    -> Status: {status} (ret_code={ret_code})")
         finally:
             self.restore_all()
-
 
 def main():
     tester = MutationTester()
@@ -533,7 +531,6 @@ def main():
         "results": tester.results,
     }, indent=2), encoding="utf-8")
     print(f"Saved mutation matrix results to: {out_file}")
-
 
 if __name__ == "__main__":
     main()

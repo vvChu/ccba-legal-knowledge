@@ -11,14 +11,11 @@ import sys
 from pathlib import Path
 from typing import Optional
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-
 import mammoth
 from scripts.gold_standard_processor import process_okf_bundle
 from scripts.qcvn_md_table_formatter import format_all_qcvn_md_tables
 
 sys.stdout.reconfigure(encoding="utf-8")
-
 
 def normalize_docx_markdown(md_text: str) -> str:
     """Normalize mammoth converted markdown headings and clean up escape chars."""
@@ -49,7 +46,6 @@ def normalize_docx_markdown(md_text: str) -> str:
     md_text = re.sub(r"###\s*###\s*", "### ", md_text)
 
     return md_text
-
 
 def convert_docx_to_okf_bundle(
     docx_path: Path,
@@ -91,7 +87,6 @@ def convert_docx_to_okf_bundle(
     bundle_result = process_okf_bundle(target_bundle_dir, doc_type=doc_type)
     return bundle_result
 
-
 def main() -> None:
     """CLI entrypoint for Docx Converter Engine."""
     parser = argparse.ArgumentParser(description="Convert official .docx document to OKF v0.2 Markdown bundle.")
@@ -108,7 +103,6 @@ def main() -> None:
         doc_type=args.doc_type,
     )
     print("\n[COMPLETE OKF BUNDLE RESULT]:", res)
-
 
 if __name__ == "__main__":
     main()

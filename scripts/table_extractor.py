@@ -13,14 +13,12 @@ from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
 
-
 def vietnamese_to_ascii(text: str) -> str:
     """Convert Vietnamese accented text to unaccented ASCII."""
     text = unicodedata.normalize("NFD", text)
     text = "".join(c for c in text if unicodedata.category(c) != "Mn")
     text = text.replace("đ", "d").replace("Đ", "D")
     return text
-
 
 def make_descriptive_table_slug(table_num: str, title: str = "") -> str:
     """Generate clean descriptive slug for table filenames."""
@@ -42,7 +40,6 @@ def make_descriptive_table_slug(table_num: str, title: str = "") -> str:
     if filtered:
         return f"{base_prefix}_{'_'.join(filtered)}"
     return base_prefix
-
 
 def extract_table_from_text_block(table_title: str, block_lines: list[str]) -> dict | None:
     """Extract 2D structured table dictionary from raw text lines."""
@@ -103,7 +100,6 @@ def extract_table_from_text_block(table_title: str, block_lines: list[str]) -> d
         "footnotes": footnotes,
     }
 
-
 def save_table_exports(table_dict: dict, tables_dir: Path) -> tuple[Path, Path]:
     """Save structured table dict into tables/json/ and tables/csv/ with descriptive slug."""
     json_dir = tables_dir / "json"
@@ -127,7 +123,6 @@ def save_table_exports(table_dict: dict, tables_dir: Path) -> tuple[Path, Path]:
             writer.writerow([r_dict.get(h, "") for h in headers])
 
     return json_path, csv_path
-
 
 def parse_and_extract_all_tables(target_path: Path, content: str = "") -> tuple[str, list[str]]:
     """Scan target_path or bundle_dir and extract structured tables."""

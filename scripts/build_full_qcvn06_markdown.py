@@ -23,7 +23,6 @@ sys.stdout.reconfigure(encoding="utf-8")
 BUNDLE_DIR = Path(__file__).resolve().parent.parent / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 DOCX_PATH = Path(__file__).resolve().parent.parent / ".md" / "extracted_docs" / "qcvn_06_2022_bxd" / "qcvn_06_2022_bxd.docx"
 
-
 def make_anchor_slug(code: str) -> str:
     s = code.strip().lower()
     if s.startswith("bảng"):
@@ -38,12 +37,10 @@ def make_anchor_slug(code: str) -> str:
     s = re.sub(r"[\s.]+", "-", s)
     return f"muc-{s}"
 
-
 def clean_cell_text(text: str) -> str:
     t = text.replace("\n", "<br>").strip()
     t = re.sub(r"\s+", " ", t)
     return t.replace("|", "\\|")
-
 
 def process_docx_to_perfect_markdown() -> Tuple[str, Dict[str, Any]]:
     doc = Document(DOCX_PATH)
@@ -178,7 +175,6 @@ def process_docx_to_perfect_markdown() -> Tuple[str, Dict[str, Any]]:
     full_md = re.sub(r"\n{3,}", "\n\n", full_md)
     return full_md, tables_data
 
-
 def main() -> None:
     print("=================================================================")
     print("      BUILDING 100% SEQUENTIAL DETERMINISTIC MARKDOWN           ")
@@ -188,7 +184,6 @@ def main() -> None:
     target_path = BUNDLE_DIR / "qcvn_06_2022_bxd.md"
     target_path.write_text(md_text, encoding="utf-8")
     print(f"✅ Đã tạo toàn văn qcvn_06_2022_bxd.md: {len(md_text):,} ký tự, {len(md_text.splitlines())} dòng.")
-
 
 if __name__ == "__main__":
     main()

@@ -158,59 +158,41 @@ TCVN 13456, Phòng cháy chữa cháy - Phương tiện chiếu sáng sự cố 
 
 Trong quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
 
-#### <a id="muc-1-4-1" name="muc-1-4-1"></a>1.4.1
-
-An toàn cháy cho nhà, công trình (hoặc các phần công trình)
+#### <a id="muc-1-4-1" name="muc-1-4-1"></a>1.4.1  An toàn cháy cho nhà, công trình (hoặc các phần công trình)
 
 Sự bảo đảm các yêu cầu về tính chất vật liệu và cấu tạo kết cấu xây dựng, về các giải pháp kiến trúc, quy hoạch, các giải pháp kỹ thuật và công nghệ phù hợp với đặc điểm sử dụng của công trình nhằm ngăn ngừa cháy (phòng cháy), hạn chế lan truyền, bảo đảm dập tắt đám cháy (chống cháy), ngăn chặn các yếu tố nguy hiểm có hại đối với con người, hạn chế đến mức thấp nhất thiệt hại về tài sản khi có cháy xảy ra.
 
-#### <a id="muc-1-4-2" name="muc-1-4-2"></a>1.4.2
-
-Bãi đỗ xe chữa cháy
+#### <a id="muc-1-4-2" name="muc-1-4-2"></a>1.4.2  Bãi đỗ xe chữa cháy
 
 Đoạn đường có mặt hoàn thiện chịu được tải trọng tính toán, được bố trí dọc theo chu vi hoặc một phần chu vi của nhà, cho phép phương tiện chữa cháy triển khai các hoạt động chữa cháy
 
 _CHÚ THÍCH: So với đường cho xe chữa cháy thì bãi đổ cho xe chữa cháy được thiết kế để chịu tải trong lớn hơn và có chiều rộng lớn hơn để triển khai các phương tiện chữa cháy trong quá trình hoạt động_
 
-#### <a id="muc-1-4-3" name="muc-1-4-3"></a>1.4.3
-
-Bảo vệ chống cháy
+#### <a id="muc-1-4-3" name="muc-1-4-3"></a>1.4.3  Bảo vệ chống cháy
 
 Tổng hợp các biện pháp tổ chức và các giải pháp kỹ thuật nhằm ngăn ngừa tác động của các yếu tố nguy hiểm cháy lên con người và hạn chế thiệt hại vật chất do cháy gây ra.
 
-#### <a id="muc-1-4-4" name="muc-1-4-4"></a>1.4.4
-
-Bậc chịu lửa của nhà, công trình, khoang cháy
+#### <a id="muc-1-4-4" name="muc-1-4-4"></a>1.4.4  Bậc chịu lửa của nhà, công trình, khoang cháy
 
 Đặc trưng phân bậc của nhà, công trình và khoang cháy được xác định bởi giới hạn chịu lửa của các kết cấu/cấu kiện sử dụng để xây dựng nhà công trình và khoang cháy đó.
 
-#### <a id="muc-1-4-5" name="muc-1-4-5"></a>1.4.5
-
-Bộ phận ngăn cháy
+#### <a id="muc-1-4-5" name="muc-1-4-5"></a>1.4.5  Bộ phận ngăn cháy
 
 Được dùng để ngăn cản đám cháy và các sản phẩm cháy lan truyền từ một khoang cháy hoặc từ một gian phòng có đám cháy tới các gian phòng khác. Bao gồm tường ngăn cháy, vách ngăn cháy và sàn ngăn cháy.
 
-#### <a id="muc-1-4-6" name="muc-1-4-6"></a>1.4.6
-
-Bộ phận ngăn khói
+#### <a id="muc-1-4-6" name="muc-1-4-6"></a>1.4.6  Bộ phận ngăn khói
 
 Bộ phận được dùng để định luồng, chứa và (hoặc) ngăn cản sự lan truyền của khói (sản phẩm khi của đám cháy).
 
-#### <a id="muc-1-4-7" name="muc-1-4-7"></a>1.4.7
-
-Cấp nguy hiểm cháy của cấu kiện xây dựng
+#### <a id="muc-1-4-7" name="muc-1-4-7"></a>1.4.7  Cấp nguy hiểm cháy của cấu kiện xây dựng
 
 Đặc trưng phân nhóm của cấu kiện xây dựng, dựa trên các mức khác nhau của thông số kết quả thử nghiệm gây cháy cho vật liệu cấu thành của cấu kiện xây dựng theo các tiêu chuẩn quy định.
 
-#### <a id="muc-1-4-8" name="muc-1-4-8"></a>1.4.8
-
-Cấp nguy hiểm cháy kết cấu của nhà
+#### <a id="muc-1-4-8" name="muc-1-4-8"></a>1.4.8  Cấp nguy hiểm cháy kết cấu của nhà
 
 Đặc trưng phân cấp của nhà, công trình và khoang cháy, được xác định bởi mức độ tham gia của kết cấu xây dựng vào sự phát triển đám cháy và hình thành các yếu tố nguy hiểm của đám cháy
 
-#### <a id="muc-1-4-9" name="muc-1-4-9"></a>1.4.9
-
-Chiều cao phòng cháy chữa cháy (chiều cao PCCC)
+#### <a id="muc-1-4-9" name="muc-1-4-9"></a>1.4.9  Chiều cao phòng cháy chữa cháy (chiều cao PCCC)
 
 Chiều cao PCCC của nhà (không tính tầng kỹ thuật trên cùng) được xác định như sau:
 
@@ -225,39 +207,27 @@ _CHÚ THÍCH:_
 
 - **CHÚ THÍCH 3:** Khi có ban công (lô gia) hoặc kết cấu bao che (lan can) cửa sổ thì chiều cao PCCC được tính bằng khoảng cách lớn nhất từ mặt đường cho xe chữa cháy tiếp cận đến mép trên của kết cấu bao che (lan can).
 
-#### <a id="muc-1-4-10" name="muc-1-4-10"></a>1.4.10
-
-Chiều cao tia nước đặc
+#### <a id="muc-1-4-10" name="muc-1-4-10"></a>1.4.10  Chiều cao tia nước đặc
 
 Lấy bằng 0,8 lần chiều cao tia nước phun theo phương thẳng đứng.
 
-#### <a id="muc-1-4-11" name="muc-1-4-11"></a>1.4.11
-
-Cửa nắp thu khói (cửa trời hoặc cửa chớp)
+#### <a id="muc-1-4-11" name="muc-1-4-11"></a>1.4.11  Cửa nắp thu khói (cửa trời hoặc cửa chớp)
 
 Phương tiện (thiết bị) được điều khiển tự động từ xa, đậy các lỗ mở trên tường ngoài nhà bao che gian phòng được bảo vệ bằng hệ thống hút xả khói theo cơ chế tự nhiên.
 
-#### <a id="muc-1-4-12" name="muc-1-4-12"></a>1.4.12
-
-Cửa giếng thang máy
+#### <a id="muc-1-4-12" name="muc-1-4-12"></a>1.4.12  Cửa giếng thang máy
 
 Cửa ra vào được thiết kế để lắp đặt trong giếng thang tại nơi đỗ để cho phép đi vào và ra khỏi cabin thang máy
 
-#### <a id="muc-1-4-13" name="muc-1-4-13"></a>1.4.13
-
-Cửa thu khói
+#### <a id="muc-1-4-13" name="muc-1-4-13"></a>1.4.13  Cửa thu khói
 
 Lỗ mở trong kênh (ống) của hệ thống hút xả khói, được đặt lưới, song chắn hoặc cửa nắp hút khói hoặc các van ngăn cháy thường đóng.
 
-#### <a id="muc-1-4-14" name="muc-1-4-14"></a>1.4.14
-
-Diện tích sàn cho phép tiếp cận
+#### <a id="muc-1-4-14" name="muc-1-4-14"></a>1.4.14  Diện tích sàn cho phép tiếp cận
 
 Diện tích mặt sàn của tất cả các khu vực được bao che trong một nhà hoặc phần nhà, bao gồm cả diện tích các kênh dẫn, sàn giếng thang máy, nhà vệ sinh, buồng thang bộ, diện tích chiếm chỗ bởi đồ dùng máy móc, thiết bị cố định hoặc di động và cả các diện tích sinh hoạt hở ngoài trời ở phía trên hoặc phía dưới tầng 1 của nhà.
 
-#### <a id="muc-1-4-15" name="muc-1-4-15"></a>1.4.15
-
-Đường cho xe chữa cháy
+#### <a id="muc-1-4-15" name="muc-1-4-15"></a>1.4.15  Đường cho xe chữa cháy
 
 Đường được thiết kế cho các phương tiện chữa cháy đi đến và di chuyển trong phạm vi của một cơ sở để thực hiện các hoạt động chữa cháy và cứu nạn cứu hộ.
 
@@ -266,193 +236,131 @@ Diện tích mặt sàn của tất cả các khu vực được bao che trong m
 
 Đường di chuyển của người, dẫn trực tiếp ra ngoài hoặc dẫn vào vùng an toàn, tầng lánh nạn, gian lánh nạn và đáp ứng các yêu cầu thoát nạn an toàn của người khi có cháy.
 
-#### <a id="muc-1-4-17" name="muc-1-4-17"></a>1.4.17
-
-Đường thoát nạn độc lập
+#### <a id="muc-1-4-17" name="muc-1-4-17"></a>1.4.17  Đường thoát nạn độc lập
 
 Đường thoát nạn được sử dụng riêng cho một phần nhà (các phần nhà khác không có lối ra thoát nạn dẫn vào đường thoát nạn này).
 
-#### <a id="muc-1-4-18" name="muc-1-4-18"></a>1.4.18
-
-Giới hạn chịu lửa
+#### <a id="muc-1-4-18" name="muc-1-4-18"></a>1.4.18  Giới hạn chịu lửa
 
 Thời gian (tính bằng giờ hoặc bằng phút) từ khi bắt đầu thử chịu lửa theo chế độ nhiệt tiêu chuẩn các mẫu cho tới khi xuất hiện một trong các trạng thái giới hạn của kết cấu và cấu kiện.
 
-#### <a id="muc-1-4-19" name="muc-1-4-19"></a>1.4.19
-
-Gian lánh nạn
+#### <a id="muc-1-4-19" name="muc-1-4-19"></a>1.4.19  Gian lánh nạn
 
 Khu vực bố trí trong tầng lánh nạn dùng để sơ tán tạm thời khi xảy ra sự cố cháy.
 
-#### <a id="muc-1-4-20" name="muc-1-4-20"></a>1.4.20
-
-Gian kỹ thuật
+#### <a id="muc-1-4-20" name="muc-1-4-20"></a>1.4.20  Gian kỹ thuật
 
 Gian phòng bố trí các thiết bị kỹ thuật của tòa nhà hoặc tầng nhà Các gian kỹ thuật có thể bố trí trên toàn bộ hoặc một phần của tầng kỹ thuật
 
-#### <a id="muc-1-4-21" name="muc-1-4-21"></a>1.4.21
-
-Gian phòng
+#### <a id="muc-1-4-21" name="muc-1-4-21"></a>1.4.21  Gian phòng
 
 Không gian bên trong nhà có công năng nhất định và được giới hạn bởi các kết cấu xây dựng.
 
-#### <a id="muc-1-4-22" name="muc-1-4-22"></a>1.4.22
-
-Gian phòng có người làm việc thường xuyên
+#### <a id="muc-1-4-22" name="muc-1-4-22"></a>1.4.22  Gian phòng có người làm việc thường xuyên
 
 Gian phòng mà con người có mặt ở đó không ít hơn 2 giờ liên tục hoặc có mặt tổng cộng 6 giờ trong một ngày đêm.
 
-#### <a id="muc-1-4-23" name="muc-1-4-23"></a>1.4.23
-
-Hành lang bên
+#### <a id="muc-1-4-23" name="muc-1-4-23"></a>1.4.23  Hành lang bên
 
 Hành lang mà ở một phía có thông gió với bên ngoài, không bị chắn, liên tục theo chiều dài, với chiều cao thông thuỷ tinh từ đỉnh của tường chân ở mép hành lang lên phía trên không nhỏ hơn 1,2 m.
 
-#### <a id="muc-1-4-24" name="muc-1-4-24"></a>1.4.24
-
-Hệ thống bảo vệ chống cháy
+#### <a id="muc-1-4-24" name="muc-1-4-24"></a>1.4.24  Hệ thống bảo vệ chống cháy
 
 Hệ thống bảo vệ chống cháy bao gồm: hệ thống bảo vệ chống nhiễm khói, hệ thống họng nước chữa cháy bên trong, hệ thống cấp nước chữa cháy ngoài nhà, các hệ thống chữa cháy tự động, hệ thống báo cháy và âm thanh công cộng, hệ thống đèn chiếu sáng sự cố và đèn chỉ dẫn thoát nạn thang máy chữa cháy, phương tiện cứu nạn cứu hộ, giải pháp kết cấu, giải pháp thoát nạn, giải pháp ngăn khói, ngăn cháy lan.
 
-#### <a id="muc-1-4-25" name="muc-1-4-25"></a>1.4.25
-
-Hệ thống cấp không khí chống khói
+#### <a id="muc-1-4-25" name="muc-1-4-25"></a>1.4.25  Hệ thống cấp không khí chống khói
 
 Hệ thống được điều khiển tự động từ xa, có tác dụng ngăn chặn nhiễm khói khi có cháy đối với các gian phòng thuộc vùng an toàn, các buồng thang bộ, các giếng thang máy, các khoang đệm ngăn cháy bằng cách cấp không khí từ ngoài vào và tạo ra áp suất dư trong các khu vực trên, cũng như có tác dụng ngăn chặn việc lan truyền các sản phẩm cháy và cấp không khí bù lại thể tích sản phẩm cháy đã bị đẩy ra ngoài.
 
-#### <a id="muc-1-4-26" name="muc-1-4-26"></a>1.4.26
-
-Hệ thống hút xả khói
+#### <a id="muc-1-4-26" name="muc-1-4-26"></a>1.4.26  Hệ thống hút xả khói
 
 Hệ thống được điều khiển tự động từ xa, có tác dụng xả khói và các sản phẩm cháy qua cửa thu khói ra ngoài trời.
 
-#### <a id="muc-1-4-27" name="muc-1-4-27"></a>1.4.27
-
-Họng nước chữa cháy
+#### <a id="muc-1-4-27" name="muc-1-4-27"></a>1.4.27  Họng nước chữa cháy
 
 Tổng hợp các thiết bị chuyên dùng gồm van khóa, vòi, lăng phun được lập đặt sẵn để triển khai đưa nước đến đám cháy.
 
-#### <a id="muc-1-4-28" name="muc-1-4-28"></a>1.4.28
-
-Khoảng cách phòng cháy chống cháy
+#### <a id="muc-1-4-28" name="muc-1-4-28"></a>1.4.28  Khoảng cách phòng cháy chống cháy
 
 Khoảng cách quy định giữa các nhà và công trình với mục đích ngăn cản cháy lan.
 
-#### <a id="muc-1-4-29" name="muc-1-4-29"></a>1.4.29
-
-Khoang cháy
+#### <a id="muc-1-4-29" name="muc-1-4-29"></a>1.4.29  Khoang cháy
 
 Một phần của nhà, được ngăn cách bởi các tường ngăn cháy và (hoặc) sàn ngăn cháy hoặc mái ngăn cháy, với giới hạn chịu lửa của các kết cấu ngăn chia bảo đảm việc đám cháy không lan ra ngoài khoang cháy trong suốt thời gian đám cháy
 
-#### <a id="muc-1-4-30" name="muc-1-4-30"></a>1.4.30
-
-Khoang đệm
+#### <a id="muc-1-4-30" name="muc-1-4-30"></a>1.4.30  Khoang đệm
 
 Không gian chuyển tiếp giữa hai cửa đi, dùng để bảo vệ tránh sự xâm nhập của khói và của các khí khác khi đi vào nhà, vào buồng thang bộ, hoặc vào các gian phòng khác của nhà.
 
-#### <a id="muc-1-4-31" name="muc-1-4-31"></a>1.4.31
-
-Khoang đệm ngăn cháy
+#### <a id="muc-1-4-31" name="muc-1-4-31"></a>1.4.31  Khoang đệm ngăn cháy
 
 Khoang đệm bảo vệ lỗ mở trên bộ phận ngăn cháy, được bao che bằng các sàn ngăn cháy và vách ngăn cháy, có hai lỗ mở đặt kế tiếp nhau với bộ phận chèn bịt ngăn cháy hoặc nhiều hơn hai lỗ mở với bộ phận chèn bịt ngăn cháy khi được cung cấp cưỡng bức không khí bên ngoài vào khoang đệm sao cho đủ để khoang đệm không bị nhiễm khói khi có cháy.
 
-#### <a id="muc-1-4-32" name="muc-1-4-32"></a>1.4.32
-
-Khói
+#### <a id="muc-1-4-32" name="muc-1-4-32"></a>1.4.32  Khói
 
 Bụi khí hình thành bởi sản phẩm cháy không hoàn toàn của vật liệu dưới dạng lỏng và (hoặc) rán
 
-#### <a id="muc-1-4-33" name="muc-1-4-33"></a>1.4.33
-
-Lối ra thoát nạn (lối thoát nạn, cửa thoát nạn)
+#### <a id="muc-1-4-33" name="muc-1-4-33"></a>1.4.33  Lối ra thoát nạn (lối thoát nạn, cửa thoát nạn)
 
 Lối hoặc cửa dẫn vào đường thoát nạn, dẫn ra ngoài trực tiếp hoặc dẫn vào vùng an toàn, tầng lánh nạn, gian lánh nạn.
 
-#### <a id="muc-1-4-34" name="muc-1-4-34"></a>1.4.34
-
-Lối ra thoát nạn độc lập
+#### <a id="muc-1-4-34" name="muc-1-4-34"></a>1.4.34  Lối ra thoát nạn độc lập
 
 Lối ra thoát nạn dẫn vào đường thoát nạn và không quá các phần nhà (gian phòng) có công năng khác.
 
-#### <a id="muc-1-4-35" name="muc-1-4-35"></a>1.4.35
-
-Lối ra thoát nạn riêng
+#### <a id="muc-1-4-35" name="muc-1-4-35"></a>1.4.35  Lối ra thoát nạn riêng
 
 Lối ra thoát nạn từ phần nhà (gian phòng) dẫn vào đường thoát nạn độc lập, hoặc dẫn ra ngoài trực tiếp, hoặc dẫn trực tiếp vào vùng an toàn, tầng lánh nạn, gian lánh nạn
 
-#### <a id="muc-1-4-36" name="muc-1-4-36"></a>1.4.36
-
-Lớp bê tông bảo vệ, chiều dày lớp bê tông bảo vệ
+#### <a id="muc-1-4-36" name="muc-1-4-36"></a>1.4.36  Lớp bê tông bảo vệ, chiều dày lớp bê tông bảo vệ
 
 Lớp bê tông tính từ biên (mép) cấu kiện đền bề mặt gần nhất của cốt thép.
 
 Chiều dày lớp bê tông bảo vệ là chiều dày tính từ biên (mép) cấu kiện đến bề mặt gần nhất của cốt thép.
 
-#### <a id="muc-1-4-37" name="muc-1-4-37"></a>1.4.37
-
-Mái có khai thác sử dụng
+#### <a id="muc-1-4-37" name="muc-1-4-37"></a>1.4.37  Mái có khai thác sử dụng
 
 Mái nhà có sự có mặt thường xuyên của con người (không ít hơn 2 giờ liên tục hoặc tổng thời gian không ít hơn 6 giờ trong vòng một ngày đêm).
 
-#### <a id="muc-1-4-38" name="muc-1-4-38"></a>1.4.38
-
-Ngọn lửa
+#### <a id="muc-1-4-38" name="muc-1-4-38"></a>1.4.38  Ngọn lửa
 
 Vừng cháy ở pha khí với bức xạ nhìn thấy được.
 
-#### <a id="muc-1-4-39" name="muc-1-4-39"></a>1.4.39
-
-Nhà
+#### <a id="muc-1-4-39" name="muc-1-4-39"></a>1.4.39  Nhà
 
 Công trình xây dựng có chức năng chính là bảo vệ, che chắn cho người hoặc vật chứa bên trong, thông thường được bao che một phần hoặc toàn bộ và được xây dựng ở một vị trí cố định.
 
-#### <a id="muc-1-4-40" name="muc-1-4-40"></a>1.4.40
-
-Nhà chung cư
+#### <a id="muc-1-4-40" name="muc-1-4-40"></a>1.4.40  Nhà chung cư
 
 Nhà có từ 2 tầng trở lên, có nhiều căn hộ, có lối đi, cầu thang chung, có phần sở hữu riêng, phần sở hữu chung và hệ thống công trình hạ tầng sử dụng chung cho các hộ gia đình, cá nhân, tổ chức, bao gồm nhà chung cư được xây dựng với mục đích để ở và nhà chung cư được xây dựng có mục đích sử dụng hỗn hợp để ở và kinh doanh (còn gọi là nhà chung cư hỗn hợp)
 
-#### <a id="muc-1-4-41" name="muc-1-4-41"></a>1.4.41
-
-Nhà hỗn hợp
+#### <a id="muc-1-4-41" name="muc-1-4-41"></a>1.4.41  Nhà hỗn hợp
 
 Nhà có nhiều công năng sử dụng khác nhau (ví dụ: một nhà được thiết kế sử dụng làm văn phòng, dịch vụ thương mại, hoạt động công cộng và cụ thể có các phòng ở)
 
 _CHÚ THÍCH: Nhà hỗn hợp phải áp dụng các quy định về an toàn cháy đối với nhà hỗn hợp khi diện tích sàn xây dựng dùng cho mỗi công năng của nhà không vượt quá 70 % tổng diện tích sàn xây dựng của nhà (không bao gồm các diện tích sàn dùng cho hệ thống kỹ thuật, phòng cháy chữa cháy, gian lánh nạn và đỗ xe)._
 
-#### <a id="muc-1-4-42" name="muc-1-4-42"></a>1.4.42
-
-Nhà sản xuất
+#### <a id="muc-1-4-42" name="muc-1-4-42"></a>1.4.42  Nhà sản xuất
 
 Nhà mà bên trong có các hoạt động sản xuất công nghiệp và bảo đảm các điều kiện cần thiết cho con người làm việc và vận hành các thiết bị công nghệ.
 
-#### <a id="muc-1-4-43" name="muc-1-4-43"></a>1.4.43
-
-Nhóm nguy hiểm cháy theo công năng của nhà, công trình, khoang cháy và gian phòng
+#### <a id="muc-1-4-43" name="muc-1-4-43"></a>1.4.43  Nhóm nguy hiểm cháy theo công năng của nhà, công trình, khoang cháy và gian phòng
 
 Đặc trưng phân nhóm của nhà, công trình khoang cháy và gian phòng, được xác định bởi công năng và các đặc điểm sử dụng riêng của nhà công trình, khoang cháy và gian phòng vừa nêu, kể cả các đặc điểm của các quá trình công nghệ của sản xuất trong nhà, công trình, khoang cháy và gian phòng đó.
 
-#### <a id="muc-1-4-44" name="muc-1-4-44"></a>1.4.44
-
-Nhóm của vật liệu xây dựng theo tính nguy hiểm cháy
+#### <a id="muc-1-4-44" name="muc-1-4-44"></a>1.4.44  Nhóm của vật liệu xây dựng theo tính nguy hiểm cháy
 
 Đặc trưng phân nhóm của vật liệu xây dựng dựa trên các mức khác nhau của thông số kết quả thử nghiệm gây cháy cho vật liệu theo các tiêu chuẩn quy định
 
-#### <a id="muc-1-4-45" name="muc-1-4-45"></a>1.4.45
-
-Phân khoang cháy
+#### <a id="muc-1-4-45" name="muc-1-4-45"></a>1.4.45  Phân khoang cháy
 
 Một phần của khoang cháy được ngăn bởi các bộ phận ngăn cháy và (hoặc) khu vực không có tải trọng cháy
 
-#### <a id="muc-1-4-46" name="muc-1-4-46"></a>1.4.46
-
-Phòng cháy
+#### <a id="muc-1-4-46" name="muc-1-4-46"></a>1.4.46  Phòng cháy
 
 Tổ hợp các giải pháp tổ chức và kỹ thuật nhằm bảo đảm an toàn cho con người, ngăn ngừa sự cố cháy, hạn chế lan truyền cháy cũng như tạo ra các điều kiện để dập cháy hiệu quả
 
-#### <a id="muc-1-4-47" name="muc-1-4-47"></a>1.4.47
-
-Quy mô khối tích
+#### <a id="muc-1-4-47" name="muc-1-4-47"></a>1.4.47  Quy mô khối tích
 
 Khối tích của một không gian trong phạm vi một nhà hoặc khoang cháy. Khối tích này không bao gồm các tường của thang máy được bảo vệ, buồng thang bộ thoát nạn và các không gian khác (ví dụ: khu vệ sinh và các buồng để đồ) được bao che bằng các tường có giới hạn chịu lửa không thấp hơn 60 phút, đồng thời các lối đi qua tường được bảo vệ bằng cửa ngăn cháy loại 2 có lắp cơ cấu tự đóng. Quy mô khối tích được tính đưa vào các kích thước sau:
 
@@ -462,133 +370,91 @@ b) Chiều cao lấy theo khoảng cách từ bề mặt trên của sàn phía 
 
 c) Đối với một nhà hoặc khoang cháy kéo lên đến mái thì lấy theo khoảng cách đến bề mặt dưới của mái hoặc bề mặt dưới của trần của tầng cao nhất trong khoang cháy, bao gồm cả không gian bị chiếm chỗ bởi tất cả các tường, hoặc giếng đứng, kênh dẫn không được bảo vệ, hoặc kết cấu nằm trong không gian đang xét.
 
-#### <a id="muc-1-4-48" name="muc-1-4-48"></a>1.4.48
-
-Sảnh ngăn khói
+#### <a id="muc-1-4-48" name="muc-1-4-48"></a>1.4.48  Sảnh ngăn khói
 
 Sảnh được bố trí ở phía ngoài lối vào một buồng thang bộ thoát nạn. Thiết kế của sảnh này phải bảo đảm ngăn chặn hoặc giảm thiểu sự xâm nhập của khói vào các buồng thang bộ.
 
-#### <a id="muc-1-4-49" name="muc-1-4-49"></a>1.4.49
-
-Sảnh thang máy
+#### <a id="muc-1-4-49" name="muc-1-4-49"></a>1.4.49  Sảnh thang máy
 
 Không gian trống trước cửa ra vào của thang máy.
 
-#### <a id="muc-1-4-50" name="muc-1-4-50"></a>1.4.50
-
-Số tầng nhà
+#### <a id="muc-1-4-50" name="muc-1-4-50"></a>1.4.50  Số tầng nhà
 
 Số tầng của tòa nhà bao gồm toàn bộ các tầng trên mặt đất (kể cả tầng kỹ thuật, tầng tum) và tầng bán/nửa hầm, không bao gồm tầng áp mái.
 
 _CHÚ THÍCH: Tầng tum không tính vào số tầng nhà của công trình khi chỉ có chức năng sử dụng để bao che lồng cầu thang bộ/giếng thang máy và che chắn các thiết bị kỹ thuật của công trình (nếu có), có diện tích mái tum không vượt quá 30 % diện tích sàn mái._
 
-#### <a id="muc-1-4-51" name="muc-1-4-51"></a>1.4.51
-
-Đám cháy
+#### <a id="muc-1-4-51" name="muc-1-4-51"></a>1.4.51  Đám cháy
 
 Sự cháy không được kiểm soát dẫn đến các thiệt hại về người và (hoặc) tài sản.
 
-#### <a id="muc-1-4-52" name="muc-1-4-52"></a>1.4.52
-
-Sự cháy
+#### <a id="muc-1-4-52" name="muc-1-4-52"></a>1.4.52  Sự cháy
 
 Phản ứng oxy hóa tỏa nhiệt của một chất có kèm theo ít nhất một trong ba yếu tố ngọn lửa, phát sáng, sinh khói.
 
-#### <a id="muc-1-4-53" name="muc-1-4-53"></a>1.4.53
-
-Tài liệu chuẩn
+#### <a id="muc-1-4-53" name="muc-1-4-53"></a>1.4.53  Tài liệu chuẩn
 
 Bao gồm các tài liệu như các tiêu chuẩn (standard), quy định kỹ thuật (technical specifications), quy phạm thực hành (code of practice) và quy chuẩn kỹ thuật (technical regulation) trong và ngoài nước được các cơ quan, tổ chức có thẩm quyền ban hành.
 
-#### <a id="muc-1-4-54" name="muc-1-4-54"></a>1.4.54
-
-Tải trọng cháy
+#### <a id="muc-1-4-54" name="muc-1-4-54"></a>1.4.54  Tải trọng cháy
 
 Tổng năng lượng nhiệt được giải phóng bởi sự cháy của tất cả các vật liệu có thể cháy trong một không gian công trình
 
-#### <a id="muc-1-4-55" name="muc-1-4-55"></a>1.4.55
-
-Tầng áp mái
+#### <a id="muc-1-4-55" name="muc-1-4-55"></a>1.4.55  Tầng áp mái
 
 Tầng nằm bên trong không gian của mái dốc mà toàn bộ hoặc một phần mặt đứng của nó được tạo bởi bề mặt mái nghiêng hoặc mặt gấp, trong đó tường bao (nếu có) không cao quá mặt sàn 1,5 m.
 
-#### <a id="muc-1-4-56" name="muc-1-4-56"></a>1.4.56
-
-Tầng dừng chính (của thang máy)
+#### <a id="muc-1-4-56" name="muc-1-4-56"></a>1.4.56  Tầng dừng chính (của thang máy)
 
 Tầng có cửa chính của nhà (thường là tầng 1).
 
-#### <a id="muc-1-4-57" name="muc-1-4-57"></a>1.4.57
-
-Tầng hầm
+#### <a id="muc-1-4-57" name="muc-1-4-57"></a>1.4.57  Tầng hầm
 
 Tầng mà quá một nửa chiều cao của nó nằm dưới cao độ mật đất đặt công trình theo quy hoạch được duyệt.
 
 _CHÚ THÍCH: Khi xem xét các yêu cầu về an toàn cháy đối với nhà có cao độ mặt đất xung quanh khác nhau, không xác định tầng hầm dưới cao độ mặt đất theo quy hoạch được duyệt là tầng hầm nếu đường thoát nạn từ tầng đá không di chuyển theo hướng từ dưới lên trên._
 
-#### <a id="muc-1-4-58" name="muc-1-4-58"></a>1.4.58
-
-Tầng lánh nạn
+#### <a id="muc-1-4-58" name="muc-1-4-58"></a>1.4.58  Tầng lánh nạn
 
 Tầng dùng để sơ tán tạm thời, được bố trí trong tòa nhà có chiều cao PCCC lớn hơn 100 m Tầng lánh nạn có bố trí một hoặc nhiều gian lánh nạn.
 
-#### <a id="muc-1-4-59" name="muc-1-4-59"></a>1.4.59
-
-Tầng nửa/bán hầm
+#### <a id="muc-1-4-59" name="muc-1-4-59"></a>1.4.59  Tầng nửa/bán hầm
 
 Tầng mà một nửa chiều cao của nó nằm trên hoặc ngang cao độ mặt đất đặt công trình theo quy hoạch được duyệt
 
-#### <a id="muc-1-4-60" name="muc-1-4-60"></a>1.4.60
-
-Tầng kỹ thuật
+#### <a id="muc-1-4-60" name="muc-1-4-60"></a>1.4.60  Tầng kỹ thuật
 
 Tầng hoặc một phần tầng bố trí các gian kỹ thuật hoặc các thiết bị kỹ thuật của tòa nhà Tầng kỹ thuật có thể là tầng hầm, tầng nửa hầm, tầng áp mái, tầng trên cùng hoặc tầng thuộc phần giữa của tòa nhà.
 
-#### <a id="muc-1-4-61" name="muc-1-4-61"></a>1.4.61
-
-Tầng trên mặt đất
+#### <a id="muc-1-4-61" name="muc-1-4-61"></a>1.4.61  Tầng trên mặt đất
 
 Tầng mà cao độ sàn của nó cao hơn hoặc bằng cao độ mặt đất đặt công trình theo quy hoạch được duyệt.
 
-#### <a id="muc-1-4-62" name="muc-1-4-62"></a>1.4.62
-
-Thang máy chữa cháy
+#### <a id="muc-1-4-62" name="muc-1-4-62"></a>1.4.62  Thang máy chữa cháy
 
 Thang máy được lắp đặt chủ yếu để vận chuyển người nhưng được trang bị thêm các hệ thống điều khiển bảo vệ, thông tin liên lạc và các dấu hiệu để cho phép những thang máy đó được sử dụng dưới sự điều khiển trực tiếp của lực lượng chữa cháy đến được các tầng của nhà khi có cháy xảy ra
 
-#### <a id="muc-1-4-63" name="muc-1-4-63"></a>1.4.63
-
-Thông gió thoát khói
+#### <a id="muc-1-4-63" name="muc-1-4-63"></a>1.4.63  Thông gió thoát khói
 
 Quá trình trao đổi khí được điều khiển, diễn ra bên trong nhà khi có cháy ở một trong những gian phòng của nhà, có tác dụng ngăn chặn các tác động có hại của các sản phẩm cháy (gia tăng nồng độ các chất độc, gia tăng nhiệt độ và thay đổi mật độ quang học của không khí) đến con người và tài sản.
 
-#### <a id="muc-1-4-64" name="muc-1-4-64"></a>1.4.64
-
-Tính nguy hiểm cháy của chất, vật liệu xây dựng
+#### <a id="muc-1-4-64" name="muc-1-4-64"></a>1.4.64  Tính nguy hiểm cháy của chất, vật liệu xây dựng
 
 Trạng thái của chất và vật liệu và được đặc trưng bởi khả năng làm phát sinh sự cháy hoặc nổ của chất và vật liệu.
 
-#### <a id="muc-1-4-65" name="muc-1-4-65"></a>1.4.65
-
-Tính nguy hiểm cháy của đối tượng bảo vệ
+#### <a id="muc-1-4-65" name="muc-1-4-65"></a>1.4.65  Tính nguy hiểm cháy của đối tượng bảo vệ
 
 Trạng thái của đối tượng bảo vệ và được đặc trưng bởi khả năng làm phát sinh và phát triển đám cháy, cũng như sự tác động của các yếu tố nguy hiểm cháy đối với người và tài sản.
 
-#### <a id="muc-1-4-66" name="muc-1-4-66"></a>1.4.66
-
-Tính chịu lửa
+#### <a id="muc-1-4-66" name="muc-1-4-66"></a>1.4.66  Tính chịu lửa
 
 Tính chất chống lại các tác động của đám cháy và chống sự lan truyền các yếu tố nguy hiểm của đám cháy.
 
-#### <a id="muc-1-4-67" name="muc-1-4-67"></a>1.4.67
-
-Van khói
+#### <a id="muc-1-4-67" name="muc-1-4-67"></a>1.4.67  Van khói
 
 Van ngăn cháy thường đóng, chỉ yêu cầu giới hạn chịu lửa E và được lắp đặt trực tiếp trên lỗ mở của các giếng hút khói trong các hành lang và sảnh được bảo vệ chống khói (tiếp theo gọi là hành lang)
 
-#### <a id="muc-1-4-68" name="muc-1-4-68"></a>1.4.68
-
-Van ngăn cháy
+#### <a id="muc-1-4-68" name="muc-1-4-68"></a>1.4.68  Van ngăn cháy
 
 Thiết bị được điều khiển tự động từ xa, dùng để che chắn các kênh thông gió hoặc các lỗ mở trên kết cấu bao che của nhà, có giới hạn chịu lửa đánh giá theo tiêu chí El. Van ngăn cháy gồm các loại sau:
 
@@ -598,27 +464,19 @@ Van ngăn cháy thường đóng (mở khi có cháy hoặc sau cháy);
 
 Van ngăn cháy kép (đóng khi có cháy và mở sau cháy);
 
-#### <a id="muc-1-4-69" name="muc-1-4-69"></a>1.4.69
-
-Vùng an toàn
+#### <a id="muc-1-4-69" name="muc-1-4-69"></a>1.4.69  Vùng an toàn
 
 Vùng mà trong đó con người được bảo vệ khỏi tác động từ các yếu tố nguy hiểm của đám cháy, hoặc trong đó không có các yếu tố nguy hiểm của đám cháy, hoặc các yếu tố nguy hiểm của đám cháy không vượt quá các giá trị cho phép.
 
-#### <a id="muc-1-4-70" name="muc-1-4-70"></a>1.4.70
-
-Vùng khói
+#### <a id="muc-1-4-70" name="muc-1-4-70"></a>1.4.70  Vùng khói
 
 Vùng bên trong một công trình được giới hạn hoặc bao xung quanh bằng các bộ phận ngăn khói hoặc cấu kiện kết cấu để ngăn cản sự lan truyền của lớp khói bốc lên do nhiệt trong các đám cháy.
 
-#### <a id="muc-1-4-71" name="muc-1-4-71"></a>1.4.71
-
-Xử lý chống cháy cho kết cấu
+#### <a id="muc-1-4-71" name="muc-1-4-71"></a>1.4.71  Xử lý chống cháy cho kết cấu
 
 Dùng biện pháp ngâm tẩm hoặc bọc, phủ các lớp bảo vệ lên kết cấu nhằm làm tăng khả năng chịu lửa và (hoặc) làm giảm tính nguy hiểm cháy của kết cấu đó.
 
-#### <a id="muc-1-4-72" name="muc-1-4-72"></a>1.4.72
-
-Yếu tố nguy hiểm của đám cháy
+#### <a id="muc-1-4-72" name="muc-1-4-72"></a>1.4.72  Yếu tố nguy hiểm của đám cháy
 
 Các yếu tố của đám cháy mà tác động của chúng có thể dẫn đến chấn thương, ngộ độc, hoặc nguy hiểm tính mạng và (hoặc) thiệt hại tài sản.
 

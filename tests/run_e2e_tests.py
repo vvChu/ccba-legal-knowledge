@@ -15,11 +15,9 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List, Tuple
 
-
 # Enforce UTF-8 for console output on Windows
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
-
 
 def run_tier(tier_name: str, test_file: Path, repo_root: Path) -> Dict[str, Any]:
     """Runs a single test tier via pytest in a clean subprocess and parses output."""
@@ -100,7 +98,6 @@ def run_tier(tier_name: str, test_file: Path, repo_root: Path) -> Dict[str, Any]
         "exit_code": res.returncode,
         "results": results,
     }
-
 
 def generate_reports(
     all_tier_results: List[Dict[str, Any]],
@@ -187,7 +184,6 @@ def generate_reports(
 
     return json_path, md_path
 
-
 def main() -> int:
     """Main CLI entry point."""
     tests_dir = Path(__file__).resolve().parent
@@ -243,7 +239,6 @@ def main() -> int:
     print("=" * 72)
 
     return 0 if total_failed == 0 else 1
-
 
 if __name__ == "__main__":
     sys.exit(main())

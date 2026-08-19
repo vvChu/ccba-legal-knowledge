@@ -15,7 +15,6 @@ if hasattr(sys.stdout, "reconfigure"):
 ROOT_DIR = Path(__file__).resolve().parent.parent
 BUNDLE_DIR = ROOT_DIR / "legal_docs" / "02_qcvn" / "qcvn_06_2022_bxd"
 
-
 def fix_file(fpath: Path) -> None:
     text = fpath.read_text(encoding="utf-8")
 
@@ -47,13 +46,11 @@ def fix_file(fpath: Path) -> None:
     fpath.write_text(text, encoding="utf-8")
     print(f"✅ Cleaned link artifacts in: {fpath.name}")
 
-
 def main() -> None:
     for fn in ["qcvn_06_2022_bxd.md", "qcvn_06_2022_bxd_hop_nhat_2023.md", "sua_doi_1_2023_qcvn_06_2022_bxd.md"]:
         fp = BUNDLE_DIR / fn
         if fp.exists():
             fix_file(fp)
-
 
 if __name__ == "__main__":
     main()

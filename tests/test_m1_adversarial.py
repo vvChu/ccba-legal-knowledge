@@ -15,7 +15,6 @@ import docx
 
 from scripts.docx_converter import convert_docx_to_okf_bundle, normalize_docx_markdown, main as docx_converter_main
 
-
 TARGET_DECREES = [
     "nghi_dinh_217_2026_nd_cp",
     "nghi_dinh_207_2026_nd_cp",
@@ -29,7 +28,6 @@ TARGET_DECREES = [
 ROOT_DIR = Path(__file__).resolve().parent.parent
 EXTRACTED_DOCS_DIR = ROOT_DIR / ".md" / "extracted_docs"
 LEGAL_DOCS_DIR = ROOT_DIR / "legal_docs" / "01_vbpl"
-
 
 def create_sample_docx(docx_path: Path, title: str = "Nghị định thử nghiệm") -> Path:
     """Utility helper to create a valid docx file with headers and tables."""
@@ -64,7 +62,6 @@ def create_sample_docx(docx_path: Path, title: str = "Nghị định thử nghi�
     doc.save(str(docx_path))
     return docx_path
 
-
 # =====================================================================
 # 1. STRESS TESTS FOR docx_converter.py
 # =====================================================================
@@ -76,7 +73,6 @@ def test_docx_converter_non_existent_input():
     with pytest.raises(FileNotFoundError):
         convert_docx_to_okf_bundle(fake_path, target_dir)
 
-
 def test_docx_converter_corrupted_input(tmp_path: Path):
     """Test calling converter with a non-docx file disguised as .docx."""
     bad_docx = tmp_path / "corrupted.docx"
@@ -86,7 +82,6 @@ def test_docx_converter_corrupted_input(tmp_path: Path):
     with pytest.raises(Exception):
         convert_docx_to_okf_bundle(bad_docx, target_dir)
 
-
 def test_docx_converter_empty_file(tmp_path: Path):
     """Test calling converter with 0-byte file."""
     empty_docx = tmp_path / "empty.docx"
@@ -95,7 +90,6 @@ def test_docx_converter_empty_file(tmp_path: Path):
 
     with pytest.raises(Exception):
         convert_docx_to_okf_bundle(empty_docx, target_dir)
-
 
 def test_docx_converter_deep_nested_non_existent_target_dir(tmp_path: Path):
     """Test converter creates deep non-existent target directories automatically."""
@@ -110,7 +104,6 @@ def test_docx_converter_deep_nested_non_existent_target_dir(tmp_path: Path):
     assert deep_dir.exists()
     assert (deep_dir / "target_bundle.md").exists()
 
-
 def test_docx_converter_custom_output_filename(tmp_path: Path):
     """Test converter with custom output filename."""
     input_docx = tmp_path / "doc.docx"
@@ -120,7 +113,6 @@ def test_docx_converter_custom_output_filename(tmp_path: Path):
     res = convert_docx_to_okf_bundle(input_docx, target_dir, output_filename="my_output.md")
     assert res.get("status") == "success"
     assert (target_dir / "my_output.md").exists()
-
 
 def test_docx_converter_custom_output_filename_in_subfolder(tmp_path: Path):
     """Stress test custom output filename specified as a relative subpath."""
@@ -137,7 +129,6 @@ def test_docx_converter_custom_output_filename_in_subfolder(tmp_path: Path):
         # Documented behavior: subfolder in output_filename is not auto-created unless handled
         pytest.skip("Converter output_filename with subfolder requires pre-created subfolder")
 
-
 def test_docx_converter_cli_invalid_flags():
     """Test CLI behavior with invalid flags using subprocess."""
     cmd = [sys.executable, "-m", "scripts.docx_converter", "--invalid-flag-xyz"]
@@ -145,14 +136,12 @@ def test_docx_converter_cli_invalid_flags():
     assert result.returncode != 0
     assert "unrecognized arguments" in result.stderr or "usage:" in result.stderr
 
-
 def test_docx_converter_cli_missing_args():
     """Test CLI behavior when mandatory positional args are omitted."""
     cmd = [sys.executable, "-m", "scripts.docx_converter"]
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=str(ROOT_DIR))
     assert result.returncode != 0
     assert "required" in result.stderr or "usage:" in result.stderr
-
 
 def test_docx_converter_cli_valid_run(tmp_path: Path):
     """Test CLI execution with valid arguments."""
@@ -171,7 +160,6 @@ def test_docx_converter_cli_valid_run(tmp_path: Path):
     assert "COMPLETE OKF BUNDLE RESULT" in result.stdout
     assert (target_dir / "cli_out.md").exists()
 
-
 # =====================================================================
 # 2. EDGE CASE TESTS FOR RAW EVIDENCE STORE (.md/extracted_docs/<slug>/)
 # =====================================================================
@@ -183,7 +171,6 @@ def test_raw_evidence_all_7_decrees_exist():
         slug_dir = LEGAL_DOCS_DIR / slug
         assert slug_dir.exists(), f"Missing raw evidence dir for slug: {slug}"
         assert slug_dir.is_dir(), f"Not a directory: {slug_dir}"
-
 
 def test_raw_evidence_no_corruption_or_truncation():
     """Check files in legal docs for corruption, truncation, HTML error pages, null bytes."""
@@ -208,7 +195,6 @@ def test_raw_evidence_no_corruption_or_truncation():
 
         # Check for key structural legal terms to ensure no truncation or bogus data
         assert "Điều 1" in md_content, f"Missing 'Điều 1' in {slug}"
-
 
 @pytest.mark.milestone2
 def test_okf_bundles_match_raw_evidence():
