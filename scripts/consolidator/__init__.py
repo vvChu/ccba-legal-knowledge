@@ -15,6 +15,9 @@ from .patcher import (
     ConsolidationResult,
     LegislativeConsolidator,
 )
+from .manifest_generator import (
+    ManifestGenerator,
+)
 
 __all__ = [
     "DocMode",
@@ -26,4 +29,5 @@ __all__ = [
     "DualModeASTParser",
     "ConsolidationResult",
     "LegislativeConsolidator",
+    "ManifestGenerator",
 ]
