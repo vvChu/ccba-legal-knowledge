@@ -48,8 +48,8 @@ Xây dựng và vận hành thành công **Kho Tri thức Pháp lý Xây dựng 
 flowchart TD
     T1["Ticket 1: Git Commit & Remote Sync [✅ DONE]"] --> T2["Ticket 2: Upload 29 Whitelist Sources to NotebookLM [✅ DONE]"]
     T1 --> T3["Ticket 3: Đóng gói formulas/ Engine cho QCVN 06 [✅ DONE]"]
-    T1 --> T4["Ticket 4: Tải Trọn Bộ PDF Công Báo vào .md/extracted_docs [Task / UNBLOCKED]"]
-    T3 & T4 --> T5["Ticket 5: Thử nghiệm AI QC Audit Tự Động trên Hồ sơ Bản vẽ Thực tế [Pilot HITL]"]
+    T1 --> T4["Ticket 4: Kiểm toán Pháp Y 29 Văn bản & PDF Anchors [✅ DONE]"]
+    T2 & T3 & T4 --> T5["Ticket 5: Thử nghiệm AI QC Audit Tự Động trên Hồ sơ Bản vẽ Thực tế [Pilot / UNBLOCKED]"]
 ```
 
 ### 🎫 [Ticket 1: Đóng Gói Git Commit & Đồng Bộ Remote Hub](file:///d:/GitHubProjects/ccba-legal-knowledge) `[✅ DONE]`
@@ -64,13 +64,13 @@ flowchart TD
 - **Mục tiêu:** Lập trình các hàm tính toán xác định cho cấp nước chữa cháy ngoài nhà (Bảng 8), dung tích bể chứa, lưu lượng hút khói hành lang (Phụ lục D), sảnh thông tầng và bán kính Sprinkler (theo ADR 0020).
 - **Trạng thái:** `✅ DONE` (Đã hoàn thành 6 module, đóng gói `SymbolicFormulaSolver` và vượt qua 12/12 unit tests).
 
-### 🎫 [Ticket 4: Thu Thập & Tính Mã Băm Toàn Bộ File PDF Công Báo Gốc](file:///d:/GitHubProjects/ccba-legal-knowledge/scripts/fetch_tvpl_doc.py) `[Task / UNBLOCKED]`
-- **Mục tiêu:** Chạy batch download file PDF Công báo cho 24 Nghị định/Thông tư còn lại và cập nhật `pdf_sha256` vào `legal_registry.yaml`.
-- **Trạng thái:** `🟢 UNBLOCKED` (Sẵn sàng chạy ngay).
+### 🎫 [Ticket 4: Kiểm Toán Pháp Y Toàn Diện 29 Văn Bản & Quản Lý Mỏ Neo PDF (Ticket 4 Plus)](file:///d:/GitHubProjects/ccba-legal-knowledge/scripts/audit_all_vbpl_documents.py) `[✅ DONE]`
+- **Mục tiêu:** Thực thi kiểm toán pháp y 100% 29 văn bản trong kho tri thức Spoke, đối soát đề mục H1-H5, thẻ neo, bảng biểu 2D, AST clauses và quản lý mỏ neo PDF Công báo (ADR 0016).
+- **Trạng thái:** `✅ DONE` (Đã kiểm toán 29/29 văn bản, 69,416 dòng Markdown, 1,931 đề mục, 4,957 thẻ neo, 102 bảng 2D với **0 Lỗi & 0 Cảnh báo**).
 
-### 🎫 [Ticket 5: Thử Nghiệm Kiểm Toán Thẩm Tra PCCC Tự Động (AI QC Pilot Test)](file:///d:/GitHubProjects/ccba-legal-knowledge) `[Pilot / HITL]`
+### 🎫 [Ticket 5: Thử Nghiệm Kiểm Toán Thẩm Tra PCCC Tự Động (AI QC Pilot Test)](file:///d:/GitHubProjects/ccba-legal-knowledge) `[Pilot / UNBLOCKED]`
 - **Mục tiêu:** Sử dụng một bộ hồ sơ thiết kế chung cư thực tế (có hạ tầng sạc xe điện) để chạy thử toàn trình AI QC Audit Pipeline phân luồng CQXD vs PC07 vs CDT Self-Audit.
-- **Phụ thuộc:** `Blocked by: Ticket 4`.
+- **Trạng thái:** `🟢 UNBLOCKED` (Sẵn sàng kích hoạt Pilot Audit).
 
 ---
 
