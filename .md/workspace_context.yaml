@@ -18,9 +18,9 @@ agents:
   primary_domain: legal-compliance
 do_not_touch:
 - .env
-hub_path: D:\GitHubProjects\ccba-agent-platform
 hub_packages:
 - ccba-legal-intel
+hub_path: D:\GitHubProjects\ccba-agent-platform
 issue_tracker: local_json
 knowledge_base:
   primary_notebook_id: 6dca7e4e-c407-4d1f-882a-e0d9459d1120
@@ -43,6 +43,7 @@ project:
   is_hub: false
   mode: delivery
   name: ccba-legal-knowledge
+  notebook_id: 2e8ac123-31c0-4afa-9e8b-de95a69e3b87
   qc_mode: third-party
   type: Thẩm tra thiết kế
 triage_disciplines:

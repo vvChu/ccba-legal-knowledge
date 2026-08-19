@@ -46,31 +46,31 @@ Xây dựng và vận hành thành công **Kho Tri thức Pháp lý Xây dựng 
 
 ```mermaid
 flowchart TD
-    T1["Ticket 1: Git Commit & Remote Sync [Task / Unblocked]"] --> T2["Ticket 2: Upload 32 Whitelist Sources to NotebookLM [Task]"]
-    T1 --> T3["Ticket 3: Đóng gói formulas/ Engine cho QCVN 06 [Prototype/Task]"]
+    T1["Ticket 1: Git Commit & Remote Sync [✅ DONE]"] --> T2["Ticket 2: Upload 29 Whitelist Sources to NotebookLM [✅ DONE]"]
+    T1 --> T3["Ticket 3: Đóng gói formulas/ Engine cho QCVN 06 [Task / UNBLOCKED]"]
     T1 --> T4["Ticket 4: Tải Trọn Bộ PDF Công Báo vào .md/extracted_docs [Task]"]
     T3 & T4 --> T5["Ticket 5: Thử nghiệm AI QC Audit Tự Động trên Hồ sơ Bản vẽ Thực tế [Pilot HITL]"]
 ```
 
-### 🎫 [Ticket 1: Đóng Gói Git Commit & Đồng Bộ Remote Hub](file:///d:/GitHubProjects/ccba-legal-knowledge) `[Task / AFK]`
+### 🎫 [Ticket 1: Đóng Gói Git Commit & Đồng Bộ Remote Hub](file:///d:/GitHubProjects/ccba-legal-knowledge) `[✅ DONE]`
 - **Mục tiêu:** Thực hiện Commit có cấu trúc Conventional Commit cho toàn bộ 10 ADRs, bộ script CI Gates nâng cấp và dữ liệu AST `clauses.json` đã chuẩn hóa.
-- **Trạng thái:** `Unblocked` (Sẵn sàng chạy ngay).
+- **Trạng thái:** `✅ DONE` (Đã hoàn tất tại commit `2cc368b` & `254c55b` trên `main`).
 
-### 🎫 [Ticket 2: Đồng Bộ 32 Nguồn Markdown Sạch lên Google NotebookLM](file:///d:/GitHubProjects/ccba-legal-knowledge/scripts/notebooklm_helper.py) `[Task / AFK]`
-- **Mục tiêu:** Kích hoạt `notebooklm_helper.py` để nạp 32 tệp Markdown hợp nhất vào Notebook `6dca7e4e-c407-4d1f-882a-e0d9459d1120`.
-- **Phụ thuộc:** `Blocked by: Ticket 1`.
+### 🎫 [Ticket 2: Đồng Bộ 29 Nguồn Markdown Sạch lên Google NotebookLM](file:///d:/GitHubProjects/ccba-legal-knowledge/scripts/sync_notebooklm_knowledge.py) `[✅ DONE]`
+- **Mục tiêu:** Kích hoạt `sync_notebooklm_knowledge.py` nạp 29 tệp Markdown hợp nhất (4.24 MB, 562,226 từ) vào Notebook `6dca7e4e-c407-4d1f-882a-e0d9459d1120`.
+- **Trạng thái:** `✅ DONE` (Đã tải lên thành công 29/29 tệp và kiểm thử truy vấn RAG grounding chính xác 100%).
 
 ### 🎫 [Ticket 3: Xây Dựng Thư Viện Hàm Tính Toán `formulas/` cho QCVN 06](file:///d:/GitHubProjects/ccba-legal-knowledge/formulas) `[Prototype / Task]`
 - **Mục tiêu:** Lập trình các hàm tính toán xác định cho cấp nước chữa cháy ngoài nhà (Bảng 8), lưu lượng hút khói hành lang và bán kính Sprinkler (theo ADR 0020).
-- **Phụ thuộc:** `Blocked by: Ticket 1`.
+- **Trạng thái:** `Unblocked` (Sẵn sàng chạy ngay).
 
 ### 🎫 [Ticket 4: Thu Thập & Tính Mã Băm Toàn Bộ File PDF Công Báo Gốc](file:///d:/GitHubProjects/ccba-legal-knowledge/scripts/fetch_tvpl_doc.py) `[Task / AFK]`
 - **Mục tiêu:** Chạy batch download file PDF Công báo cho 24 Nghị định/Thông tư còn lại và cập nhật `pdf_sha256` vào `legal_registry.yaml`.
-- **Phụ thuộc:** `Blocked by: Ticket 1`.
+- **Phụ thuộc:** `Unblocked`.
 
 ### 🎫 [Ticket 5: Thử Nghiệm Kiểm Toán Thẩm Tra PCCC Tự Động (AI QC Pilot Test)](file:///d:/GitHubProjects/ccba-legal-knowledge) `[Pilot / HITL]`
 - **Mục tiêu:** Sử dụng một bộ hồ sơ thiết kế chung cư thực tế (có hạ tầng sạc xe điện) để chạy thử toàn trình AI QC Audit Pipeline phân luồng CQXD vs PC07 vs CDT Self-Audit.
-- **Phụ thuộc:** `Blocked by: Ticket 2, Ticket 3, Ticket 4`.
+- **Phụ thuộc:** `Blocked by: Ticket 3, Ticket 4`.
 
 ---
 
