@@ -118,6 +118,12 @@ def main() -> None:
         help="Chỉ in manifest danh mục 32 tệp, không gọi API",
     )
 
+    # Command: audit
+    subparsers.add_parser(
+        "audit",
+        help="Chạy kiểm toán pháp y toàn diện 29 văn bản trong kho tri thức",
+    )
+
     args = parser.parse_args()
     root_dir = Path(__file__).resolve().parent.parent
 
@@ -128,6 +134,12 @@ def main() -> None:
 
     elif args.command == "stats":
         print_stats_report(root_dir)
+
+    elif args.command == "audit":
+        from scripts.audit_all_vbpl_documents import run_full_spoke_forensic_audit
+
+        report = run_full_spoke_forensic_audit()
+        sys.exit(0 if report["total_issues"] == 0 else 1)
 
     elif args.command == "ingest":
         target_bundle_dir = root_dir / "legal_docs" / "01_vbpl" / args.slug
