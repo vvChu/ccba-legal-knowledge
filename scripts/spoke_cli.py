@@ -13,6 +13,10 @@ from pathlib import Path
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
+ROOT_DIR = Path(__file__).resolve().parent.parent
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+
 from scripts.docx_converter import convert_docx_to_okf_bundle
 from scripts.validate_legal_spoke import LegalSpokeValidator
 
@@ -97,6 +101,23 @@ def main() -> None:
     ingest_parser.add_argument("slug", type=str, help="Document slug (e.g. nghi_dinh_217_2026_nd_cp)")
     ingest_parser.add_argument("-t", "--doc-type", type=str, default="vbpl", help="Document profile type (default: vbpl)")
 
+    # Command: sync-notebooklm
+    sync_parser = subparsers.add_parser(
+        "sync-notebooklm",
+        help="Đồng bộ danh sách 32 nguồn Markdown sạch lên Google NotebookLM (ADR 0012)",
+    )
+    sync_parser.add_argument(
+        "--notebook-id",
+        type=str,
+        default="6dca7e4e-c407-4d1f-882a-e0d9459d1120",
+        help="Notebook ID đích trên Google NotebookLM",
+    )
+    sync_parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Chỉ in manifest danh mục 32 tệp, không gọi API",
+    )
+
     args = parser.parse_args()
     root_dir = Path(__file__).resolve().parent.parent
 
@@ -117,6 +138,14 @@ def main() -> None:
             doc_type=args.doc_type,
         )
         print(f"\n[INGEST SUCCESSFUL]: {res}")
+
+    elif args.command == "sync-notebooklm":
+        import asyncio
+        from scripts.sync_notebooklm_knowledge import execute_sync, get_canonical_whitelist
+
+        whitelist = get_canonical_whitelist(root_dir)
+        code = asyncio.run(execute_sync(args.notebook_id, whitelist, dry_run=args.dry_run))
+        sys.exit(code)
 
     else:
         parser.print_help()
