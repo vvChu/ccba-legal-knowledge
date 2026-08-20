@@ -18,7 +18,7 @@ Sửa đổi 1:2023 QCVN 06.2022/BXD do Viện Khoa học công nghệ xây dự
 
 ### <a id="sd1-chuong-1" name="sd1-chuong-1"></a>1  QUY ĐỊNH CHUNG
 
-#### <a id="sd1-muc-1-1-2" name="sd1-muc-1-1-2"></a>Sửa đổi, bổ sung [điểm 1.1.2](qcvn_06_2022_bxd.md#muc-1-1-2) như sau:
+#### <a id="sd1-muc-1-1-2" name="sd1-muc-1-1-2"></a>Sửa đổi, bổ sung [điểm 1.1.2](qcvn_06_2022_bxd_goc_2022.md#muc-1-1-2) như sau:
 
 - Sửa đổi đoạn thứ nhất, đoạn a) và CHÚ THÍCH của đoạn a) như sau:
 
@@ -46,7 +46,7 @@ CHÚ THÍCH: Đối với nhà ở riêng lẻ, nhà ở riêng lẻ có kết h
 
 Đối với các nhà đứng độc lập (trừ các nhà thuộc nhóm F5 và các nhà đã nêu tại CHÚ THÍCH của đoạn 2) điểm 1.1.2) có chiều cao dưới 7 tầng, chiều cao PCCC dưới 25 m và khối tích dưới 5 000 m3), nếu không thể tuân thủ các quy định của quy chuẩn này thì căn cứ trên công năng cụ thể của nhà cũng có thể áp dụng các tài liệu chuẩn để thiết kế an toàn cháy và tuân thủ các quy định pháp luật có liên quan.".
 
-#### <a id="sd1-muc-1-1-4" name="sd1-muc-1-1-4"></a>Sửa đổi [điểm 1.1.4](qcvn_06_2022_bxd.md#muc-1-1-4) như sau:
+#### <a id="sd1-muc-1-1-4" name="sd1-muc-1-1-4"></a>Sửa đổi [điểm 1.1.4](qcvn_06_2022_bxd_goc_2022.md#muc-1-1-4) như sau:
 
 “1.1.4 Quy chuẩn này áp dụng khi xây dựng mới các nhà thuộc phạm vi điều chỉnh của quy chuẩn này; hoặc chỉ áp dụng đối với các bộ phận, khu vực trực tiếp được cải tạo sửa chữa, trong các trường hợp sau:
 
@@ -60,13 +60,13 @@ d) Cải tạo, sửa chữa tăng quy mô dẫn đến nâng cao các yêu cầ
 
 Trường hợp nhà, khoang cháy hoặc tầng nhà được cải tạo, sửa chữa không thể đáp ứng các yêu cầu của quy chuẩn này thì áp dụng 1.1.10.”.
 
-#### <a id="sd1-muc-1-1-5" name="sd1-muc-1-1-5"></a>Sửa đổi [điểm 1.1.5](qcvn_06_2022_bxd.md#muc-1-1-5) như sau:
+#### <a id="sd1-muc-1-1-5" name="sd1-muc-1-1-5"></a>Sửa đổi [điểm 1.1.5](qcvn_06_2022_bxd_goc_2022.md#muc-1-1-5) như sau:
 
 - Thay cụm từ “Các phần 2, 3, 4, 5 và 6” bằng cụm từ “Quy chuẩn này”.
 
 - Bổ sung cụm từ “công trình hầm giao thông; tháp đèn biển;” vào sau cụm từ “không lưu;”.
 
-#### <a id="sd1-muc-1-1-7" name="sd1-muc-1-1-7"></a>Sửa đổi [điểm 1.1.7](qcvn_06_2022_bxd.md#muc-1-1-7) như sau:
+#### <a id="sd1-muc-1-1-7" name="sd1-muc-1-1-7"></a>Sửa đổi [điểm 1.1.7](qcvn_06_2022_bxd_goc_2022.md#muc-1-1-7) như sau:
 
 “1.1.7  Cho phép sử dụng các tài liệu chuẩn của nước ngoài trên cơ sở bảo đảm nguyên tắc quy định tại 1.5 của quy chuẩn này và các quy định pháp luật của Việt Nam về phòng cháy, chữa cháy cùng các quy định về áp dụng tiêu chuẩn của nước ngoài trong hoạt động xây dựng ở Việt Nam.”.
 
@@ -78,9 +78,9 @@ Trường hợp nhà, khoang cháy hoặc tầng nhà được cải tạo, sử
 
 “1.1.11 Các địa phương được ban hành quy chuẩn kỹ thuật địa phương để thay thế, sửa đổi hoặc bổ sung một số quy định tại các phần 3, 4, 5, 6 và các phụ lục của quy chuẩn này cho phù hợp với điều kiện đặc thù của địa phương, trên cơ sở tuân thủ quy định pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật và pháp luật về phòng cháy chữa cháy.”.
 
-#### <a id="sd1-muc-1-3" name="sd1-muc-1-3"></a>Bãi bỏ [điểm 1.3](qcvn_06_2022_bxd.md#muc-1-3).
+#### <a id="sd1-muc-1-3" name="sd1-muc-1-3"></a>Bãi bỏ [điểm 1.3](qcvn_06_2022_bxd_goc_2022.md#muc-1-3).
 
-#### <a id="sd1-muc-1-4" name="sd1-muc-1-4"></a>Sửa đổi, bổ sung một số thuật ngữ của [điểm 1.4](qcvn_06_2022_bxd.md#muc-1-4) như sau:
+#### <a id="sd1-muc-1-4" name="sd1-muc-1-4"></a>Sửa đổi, bổ sung một số thuật ngữ của [điểm 1.4](qcvn_06_2022_bxd_goc_2022.md#muc-1-4) như sau:
 
 - Bổ sung cụm từ "; hoặc các bộ phận khác có chức năng ngăn cháy” vào sau cụm từ “sàn ngăn cháy” tại điểm 1.4.5.
 
@@ -170,7 +170,7 @@ Lớp hoàn thiện (có thể kết hợp mục đích trang trí), che phủ v
 
 CHÚ THÍCH: Vật liệu hoàn thiện, trang trí có thể là các lớp vôi, vữa, thạch cao và tương tự; các tấm ốp hoàn thiện hoặc cách âm bằng gạch, gỗ, nhựa, mút xốp và tương tự cố định trên bề mặt ngoài của tường, trần. Các đồ vật treo trên tường, trần chỉ nhằm mục đích trang trí nội thất (như tranh, ảnh, các đồ trang trí và tương tự) không phải là vật liệu hoàn thiện, trang trí.”.
 
-#### <a id="sd1-muc-1-5-4" name="sd1-muc-1-5-4"></a>Sửa đổi [điểm 1.5.4](qcvn_06_2022_bxd.md#muc-1-5-4) như sau:
+#### <a id="sd1-muc-1-5-4" name="sd1-muc-1-5-4"></a>Sửa đổi [điểm 1.5.4](qcvn_06_2022_bxd_goc_2022.md#muc-1-5-4) như sau:
 
 “1.5.4  Khi cần có luận chứng kỹ thuật (theo 1.1.10) thì luận chứng này được coi là một trong những nội dung của hồ sơ thiết kế về PCCC. Trong luận chứng cần trình bày các giải pháp kỹ thuật để thay thế, bổ sung một số yêu cầu an toàn cháy của quy chuẩn này và cơ sở của các giải pháp kỹ thuật đó, trên nguyên tắc: đáp ứng các quy định nêu tại 1.5, phù hợp với mục đích của các yêu cầu an toàn cháy cần thay thế, bổ sung và phù hợp với các tài liệu chuẩn về thiết kế an toàn cháy được áp dụng. Cơ sở của các giải pháp kỹ thuật thay thế có thể là: tính toán, mô phỏng cháy dựa trên kỹ thuật an toàn cháy (fire engineering); các tài liệu chuẩn về thiết kế an toàn cháy được áp dụng; hoặc các giải pháp kỹ thuật phù hợp khác.
 
@@ -196,7 +196,7 @@ Có thể chấp thuận các sai số thi công khi áp dụng các quy định
 
 - Thay cụm từ “ISO 10294” bằng cụm từ “ISO 21925”.
 
-#### <a id="sd1-bang-4" name="sd1-bang-4"></a>Sửa đổi CHÚ THÍCH 2, CHÚ THÍCH 6 và bổ sung CHÚ THÍCH 7, CHÚ THÍCH 8 vào [Bảng 4](qcvn_06_2022_bxd.md#bang-4) như sau:
+#### <a id="sd1-bang-4" name="sd1-bang-4"></a>Sửa đổi CHÚ THÍCH 2, CHÚ THÍCH 6 và bổ sung CHÚ THÍCH 7, CHÚ THÍCH 8 vào [Bảng 4](qcvn_06_2022_bxd_goc_2022.md#bang-4) như sau:
 
 “CHÚ THÍCH 2: Không quy định giới hạn chịu lửa của các tấm lợp (kể cả các tấm lợp có cách nhiệt) nếu chúng được làm từ vật liệu không cháy, hoặc cháy yếu (Ch1) và lan truyền yếu (LT2) (trừ nhà F5 hạng A, B).
 
@@ -214,13 +214,13 @@ Không quy định giới hạn chịu lửa của các xà gồ đỡ tấm l�
 
 “CHÚ THÍCH 8: Không quy định giới hạn chịu lửa của bản thang và chiếu thang trong buồng thang bộ được bảo vệ bởi các tường trong có giới hạn chịu lửa đáp ứng yêu cầu của Bảng 4 tương ứng với bậc chịu lửa của nhà. Khi đó các bản thang và chiếu thang, cũng như vật liệu hoàn thiện bên trong buồng thang (nếu có) phải là vật liệu không cháy hoặc bảo đảm Ch1, BC1.”.
 
-#### <a id="sd1-muc-2-5-3-3" name="sd1-muc-2-5-3-3"></a>Sửa đổi [điểm 2.5.3.3](qcvn_06_2022_bxd.md#muc-2-5-3-3) như sau:
+#### <a id="sd1-muc-2-5-3-3" name="sd1-muc-2-5-3-3"></a>Sửa đổi [điểm 2.5.3.3](qcvn_06_2022_bxd_goc_2022.md#muc-2-5-3-3) như sau:
 
 - Bổ sung câu văn sau vào sau cụm từ “sự ổn định không gian cho nhà khi có cháy.”: “Trường hợp kết cấu giàn, dầm, xà gồ của kết cấu mái của nhà không có tầng áp mái không tham gia vào sự bảo đảm độ bền tổng thể và sự ổn định không gian cho nhà khi có cháy thì giới hạn chịu lửa yêu cầu của các kết cấu này được xác định theo cột 6 của Bảng 4.”.
 
 ### <a id="sd1-chuong-3" name="sd1-chuong-3"></a>3  BẢO ĐẢM AN TOÀN CHO NGƯỜI
 
-#### <a id="sd1-muc-3-1-7" name="sd1-muc-3-1-7"></a>Sửa đổi [điểm 3.1.7](qcvn_06_2022_bxd.md#muc-3-1-7) như sau:
+#### <a id="sd1-muc-3-1-7" name="sd1-muc-3-1-7"></a>Sửa đổi [điểm 3.1.7](qcvn_06_2022_bxd_goc_2022.md#muc-3-1-7) như sau:
 
 “3.1.7 Trong các nhà có từ 2 đến 3 tầng hầm, được phép bố trí phòng hút thuốc, các siêu thị và trung tâm thương mại, quán ăn, quán giải khát và các gian phòng công cộng khác nằm sâu hơn tầng hầm 1 khi thiết kế theo các tài liệu chuẩn được phép áp dụng, hoặc có luận chứng kỹ thuật theo 1.1.10.
 
@@ -228,21 +228,21 @@ Không quy định giới hạn chịu lửa của các xà gồ đỡ tấm l�
 
 Tại tất cả các sàn tầng hầm, ít nhất phải có một lối vào buồng thang bộ thoát nạn đi qua sảnh ngăn khói được ngăn cách với không gian xung quanh bằng vách ngăn cháy loại 1 hoặc giải pháp tương đương khác. Các cửa đi phải là loại có cơ cấu tự đóng.”.
 
-#### <a id="sd1-muc-3-2-2" name="sd1-muc-3-2-2"></a>Bổ sung vào cuối đoạn a) [điểm 3.2.2](qcvn_06_2022_bxd.md#muc-3-2-2) như sau:
+#### <a id="sd1-muc-3-2-2" name="sd1-muc-3-2-2"></a>Bổ sung vào cuối đoạn a) [điểm 3.2.2](qcvn_06_2022_bxd_goc_2022.md#muc-3-2-2) như sau:
 
 “Đối với nhà nhóm F1.2, F1.3, F2, F3, F4 có chiều cao PCCC dưới 28 m, trường hợp không thể bố trí được lối đi riêng ra bên ngoài mà phải đi qua sảnh chung thì lối vào buồng thang bộ chung từ các tầng hầm phải đi qua khoang đệm với giải pháp bao che giống như khoang đệm ngăn cháy loại 1, và phải có vách ngăn cháy loại 1 ngăn cách với phần còn lại của buồng thang bộ;”.
 
-#### <a id="sd1-muc-3-2-3" name="sd1-muc-3-2-3"></a>Sửa đổi [điểm 3.2.3](qcvn_06_2022_bxd.md#muc-3-2-3) như sau:
+#### <a id="sd1-muc-3-2-3" name="sd1-muc-3-2-3"></a>Sửa đổi [điểm 3.2.3](qcvn_06_2022_bxd_goc_2022.md#muc-3-2-3) như sau:
 
 “3.2.3 Các lối ra không được coi là lối ra thoát nạn nếu trên lối ra này có đặt cửa cuốn hoặc cửa quay.
 
 Được sử dụng cửa trượt hoặc cửa xếp trên lối ra thoát nạn (trừ các trường hợp: cửa này có yêu cầu về giới hạn chịu lửa, hoặc có yêu cầu về việc cửa phải tự đóng kín sau khi mở, hoặc trong các nhà nhóm F1.3, cơ sở mầm non, trường tiểu học và tương đương), khi đó không áp dụng quy định về chiều mở cửa tại 3.2.10, và phải có biển thông báo/ghi chú về loại cửa và chiều mở của cửa.”.
 
-#### <a id="sd1-muc-3-2-5" name="sd1-muc-3-2-5"></a>Sửa đổi đoạn b) [điểm 3.2.5](qcvn_06_2022_bxd.md#muc-3-2-5) như sau:
+#### <a id="sd1-muc-3-2-5" name="sd1-muc-3-2-5"></a>Sửa đổi đoạn b) [điểm 3.2.5](qcvn_06_2022_bxd_goc_2022.md#muc-3-2-5) như sau:
 
 “b) Các gian phòng trong các tầng hầm và tầng nửa hầm có mặt đồng thời hơn 15 người;’’.
 
-#### <a id="sd1-muc-3-2-6-2" name="sd1-muc-3-2-6-2"></a>Sửa đổi đoạn a) và đoạn d) của [điểm 3.2.6.2](qcvn_06_2022_bxd.md#muc-3-2-6-2) như sau:
+#### <a id="sd1-muc-3-2-6-2" name="sd1-muc-3-2-6-2"></a>Sửa đổi đoạn a) và đoạn d) của [điểm 3.2.6.2](qcvn_06_2022_bxd_goc_2022.md#muc-3-2-6-2) như sau:
 
 ”a) Từ mỗi tầng (hoặc từ một phần của tầng được ngăn cách khỏi các phần khác của tầng bằng các bộ phận ngăn cháy) có nhóm nguy hiểm cháy theo công năng F1.2, F2, F3, F4.2, F4.3 và F4.4, khi thỏa mãn đồng thời các điều kiện sau:
 
@@ -297,7 +297,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 
 - Không được để xe cơ giới, không được bố trí kho hạng A, B, C tại tầng có lối thoát nạn ra ngoài nhà, trừ khi các khu vực này được ngăn cách theo các quy định của quy chuẩn này.”.
 
-#### <a id="sd1-muc-3-2-8" name="sd1-muc-3-2-8"></a>Sửa đổi [điểm 3.2.8](qcvn_06_2022_bxd.md#muc-3-2-8) như sau:
+#### <a id="sd1-muc-3-2-8" name="sd1-muc-3-2-8"></a>Sửa đổi [điểm 3.2.8](qcvn_06_2022_bxd_goc_2022.md#muc-3-2-8) như sau:
 
 - Sửa đổi câu cuối cùng của đoạn thứ hai như sau: “Khoảng cách giữa hai lối ra thoát nạn được đo theo đường thẳng nối giữa hai cạnh xa nhất của chúng và phải lớn hơn hoặc bằng 7 m. Trường hợp khoảng cách này nhỏ hơn 7 m thì khoảng cách giữa hai lối ra thoát nạn được đo theo đường thẳng nối giữa hai cạnh gần nhất của chúng (xem Hình I.4 a), b), c)).”.
 
@@ -305,25 +305,25 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 
 - Tại đoạn thứ tư bổ sung cụm từ “hoặc hành lang bên” vào sau cụm từ “bằng một hành lang trong”.
 
-#### <a id="sd1-muc-3-2-9" name="sd1-muc-3-2-9"></a>Sửa đổi câu thứ hai của đoạn thứ tư [điểm 3.2.9](qcvn_06_2022_bxd.md#muc-3-2-9) như sau:
+#### <a id="sd1-muc-3-2-9" name="sd1-muc-3-2-9"></a>Sửa đổi câu thứ hai của đoạn thứ tư [điểm 3.2.9](qcvn_06_2022_bxd_goc_2022.md#muc-3-2-9) như sau:
 
 “Cửa hai cánh nếu có yêu cầu về giới hạn chịu lửa thì phải được lắp cơ cấu tự đóng sao cho các cánh được đóng lần lượt.”.
 
-#### <a id="sd1-muc-3-2-9" name="sd1-muc-3-2-9"></a>Sửa đổi đoạn cuối [điểm 3.2.9](qcvn_06_2022_bxd.md#muc-3-2-9) như sau:
+#### <a id="sd1-muc-3-2-9" name="sd1-muc-3-2-9"></a>Sửa đổi đoạn cuối [điểm 3.2.9](qcvn_06_2022_bxd_goc_2022.md#muc-3-2-9) như sau:
 
 “Các cửa trên đường thoát nạn nếu có yêu cầu về giới hạn chịu lửa thì phải được lắp cơ cấu tự đóng.”.
 
 #### <a id="sd1-muc-3-2-11" name="sd1-muc-3-2-11"></a>Bãi bỏ câu thứ hai của đoạn thứ nhất điểm 3.2.11.
 
-#### <a id="sd1-muc-3-3-1" name="sd1-muc-3-3-1"></a>Sửa đổi, bổ sung [điểm 3.3.1](qcvn_06_2022_bxd.md#muc-3-3-1) như sau:
+#### <a id="sd1-muc-3-3-1" name="sd1-muc-3-3-1"></a>Sửa đổi, bổ sung [điểm 3.3.1](qcvn_06_2022_bxd_goc_2022.md#muc-3-3-1) như sau:
 
 - Thay cụm từ “TCVN 3890” bằng cụm từ “tài liệu chuẩn”.
 
-#### <a id="sd1-muc-3-3-2" name="sd1-muc-3-3-2"></a>Sửa đổi đoạn thứ nhất của [điểm 3.3.2](qcvn_06_2022_bxd.md#muc-3-3-2) như sau:
+#### <a id="sd1-muc-3-3-2" name="sd1-muc-3-3-2"></a>Sửa đổi đoạn thứ nhất của [điểm 3.3.2](qcvn_06_2022_bxd_goc_2022.md#muc-3-3-2) như sau:
 
 “Khoảng cách thoát nạn giới hạn cho phép (Phụ lục G) trên mỗi tầng được đo dọc theo tâm đường thoát nạn, bắt đầu từ tâm của cửa các gian phòng hoặc từ chỗ xa nhất có thể có người trong phòng (tùy thuộc vào việc có ngăn cháy giữa gian phòng và đường thoát nạn hay không) đến tâm của lối ra thoát nạn gần nhất của mỗi tầng (ví dụ: cửa ra ngoài nhà, cửa vào buồng thang bộ hoặc cửa ra cầu thang bộ loại 3, mép bậc đầu tiên của cầu thang bộ loại 2 trên tầng đó nếu cầu thang loại 2 là cầu thang thoát nạn, cửa vào khoang cháy lân cận, hoặc đến lối ra thoát nạn khác). Khoảng cách này phải được hạn chế tùy thuộc vào:”.
 
-#### <a id="sd1-muc-3-3-5" name="sd1-muc-3-3-5"></a>Sửa đổi, bổ sung [điểm 3.3.5](qcvn_06_2022_bxd.md#muc-3-3-5) như sau:
+#### <a id="sd1-muc-3-3-5" name="sd1-muc-3-3-5"></a>Sửa đổi, bổ sung [điểm 3.3.5](qcvn_06_2022_bxd_goc_2022.md#muc-3-3-5) như sau:
 
 - Bãi bỏ câu thứ ba của đoạn thứ hai.
 
@@ -335,7 +335,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 
 - Bổ sung cụm từ sau vào sau cụm từ “vách ngăn cháy loại 2” của đoạn thứ ba: “(hoặc bằng các vách ngăn khói, màn ngăn khói, có mép dưới cách sàn hành lang tối đa 2,5 m)”.
 
-#### <a id="sd1-muc-3-4-1" name="sd1-muc-3-4-1"></a>Sửa đổi, bổ sung [điểm 3.4.1](qcvn_06_2022_bxd.md#muc-3-4-1) như sau:
+#### <a id="sd1-muc-3-4-1" name="sd1-muc-3-4-1"></a>Sửa đổi, bổ sung [điểm 3.4.1](qcvn_06_2022_bxd_goc_2022.md#muc-3-4-1) như sau:
 
 - Sửa đổi gạch đầu dòng thứ nhất như sau: “- 1,2 m - đối với nhà nhóm F1.1 có tổng số người thoát nạn qua thang này lớn hơn 15 người từ mỗi tầng; 1 m - đối với nhà nhóm F1.1 có tổng số người thoát nạn qua thang này từ 15 người trở xuống từ mỗi tầng; ”.
 
@@ -343,7 +343,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 
 - Bổ sung vào cuối điểm 3.4.1 đoạn văn sau: “Trong trường hợp không thể bảo đảm được các kích thước trên, có thể sử dụng tài liệu chuẩn để tính toán thoát nạn cho người và xác định kích thước cần thiết của bản thang, lối thoát nạn, đường thoát nạn căn cứ trên điều kiện cụ thể của công trình.”.
 
-#### <a id="sd1-muc-3-4-4" name="sd1-muc-3-4-4"></a>Sửa đổi, bổ sung [điểm 3.4.4](qcvn_06_2022_bxd.md#muc-3-4-4) như sau:
+#### <a id="sd1-muc-3-4-4" name="sd1-muc-3-4-4"></a>Sửa đổi, bổ sung [điểm 3.4.4](qcvn_06_2022_bxd_goc_2022.md#muc-3-4-4) như sau:
 
 - Bổ sung đoạn văn sau vào trước đoạn thứ nhất: “Được sử dụng thang cong toàn phần hoặc một phần, thang với các bậc thang chéo khi đáp ứng một trong hai điều kiện sau: 1) mỗi bậc thang có một phần mặt bậc thỏa mãn các điều kiện nêu tại 3.4.1 và 3.4.2; hoặc 2) thỏa mãn các điều kiện nêu dưới đây đối với nhóm nhà cụ thể. Đối với nhà nhóm F1.4, không áp dụng quy định tại 3.3.7.”.
 
@@ -351,17 +351,17 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 
 - Bổ sung vào cuối điểm 3.4.4 đoạn văn sau: “Trong các nhà nhóm F1.2, F1.3, F2, F3, F4, F5 với chiều cao PCCC không quá 15 m và số người tối đa trên mỗi tầng không quá 15 người, tại mỗi chiếu nghỉ hoặc góc xoay bản thang không quá 90° cho phép bố trí tối đa 3 bậc thang chéo (rẻ quạt).”.
 
-#### <a id="sd1-muc-3-4-5" name="sd1-muc-3-4-5"></a>Sửa đổi [điểm 3.4.5](qcvn_06_2022_bxd.md#muc-3-4-5) như sau:
+#### <a id="sd1-muc-3-4-5" name="sd1-muc-3-4-5"></a>Sửa đổi [điểm 3.4.5](qcvn_06_2022_bxd_goc_2022.md#muc-3-4-5) như sau:
 
 - Bổ sung vào cuối điểm 3.4.5, trước cụm từ “phòng công năng nào”: “, trừ các phòng vệ sinh và phòng kỹ thuật nước”.
 
-#### <a id="sd1-muc-3-4-8" name="sd1-muc-3-4-8"></a>Sửa đổi đoạn a) và đoạn b) của [điểm 3.4.8](qcvn_06_2022_bxd.md#muc-3-4-8) như sau:
+#### <a id="sd1-muc-3-4-8" name="sd1-muc-3-4-8"></a>Sửa đổi đoạn a) và đoạn b) của [điểm 3.4.8](qcvn_06_2022_bxd_goc_2022.md#muc-3-4-8) như sau:
 
 - Bổ sung cụm từ sau vào đoạn a) điểm 3.4.8, sau chữ “L2” đầu tiên: “và phần cầu thang tại tầng hầm, tầng bán hầm”.
 
 - Sửa đổi, bổ sung vào đoạn b) của điểm 3.4.8 như sau: Bãi bỏ cụm từ “là buồng thang bộ không nhiễm khói và”; và bổ sung đoạn văn vào cuối đoạn b) điểm 3.4.8 như sau: “Nếu là buồng thang bộ thông thường thì phải bố trí các lỗ thoát khói trên tum thang với tổng diện tích tối thiểu bằng 10 % diện tích phủ bì (tính cả tường bao che) của sàn buồng thang (không yêu cầu bố trí lỗ thoát khói nếu nhà có tối thiểu hai cầu thang thoát nạn hoặc một cầu thang thoát nạn nhưng có các lối thoát nạn khẩn cấp khác như quy định tại 3.2.6.2).”.
 
-#### <a id="sd1-muc-3-4-11" name="sd1-muc-3-4-11"></a>Bổ sung vào cuối [điểm 3.4.11](qcvn_06_2022_bxd.md#muc-3-4-11) như sau:
+#### <a id="sd1-muc-3-4-11" name="sd1-muc-3-4-11"></a>Bổ sung vào cuối [điểm 3.4.11](qcvn_06_2022_bxd_goc_2022.md#muc-3-4-11) như sau:
 
 “Được sử dụng cầu thang bộ loại 3 làm cầu thang thoát nạn trong các nhà có chiều cao PCCC từ trên 28 m đến 50 m với điều kiện phần thang bộ loại 3 từ trên 28 m phải được bảo vệ chống rơi ngã trên toàn bộ chiều cao các mặt thang hở ra ngoài trời.”.
 
@@ -405,11 +405,11 @@ b) các kết cấu bao che của chúng phải là bộ phận ngăn cháy có 
 
 ### <a id="sd1-chuong-4" name="sd1-chuong-4"></a>4  NGĂN CHẶN CHÁY LAN
 
-#### <a id="sd1-muc-4-5" name="sd1-muc-4-5"></a>Sửa đổi, bổ sung đoạn thứ nhất của [điểm 4.5](qcvn_06_2022_bxd.md#muc-4-5) như sau:
+#### <a id="sd1-muc-4-5" name="sd1-muc-4-5"></a>Sửa đổi, bổ sung đoạn thứ nhất của [điểm 4.5](qcvn_06_2022_bxd_goc_2022.md#muc-4-5) như sau:
 
 - Thay cụm từ “vách ngăn cháy loại 1 và (hoặc) sàn ngăn cháy loại 3” bằng cụm từ: “bộ phận ngăn cháy có giới hạn chịu lửa tối thiểu El 45 đối với nhà có bậc chịu lửa I đến III; tối thiểu El 15 đối với nhà có bậc chịu lửa IV; hoặc giải pháp ngăn cháy tương đương khác”.
 
-#### <a id="sd1-muc-4-5" name="sd1-muc-4-5"></a>Bổ sung các đoạn văn vào trước CHÚ THÍCH của [điểm 4.5](qcvn_06_2022_bxd.md#muc-4-5) như sau:
+#### <a id="sd1-muc-4-5" name="sd1-muc-4-5"></a>Bổ sung các đoạn văn vào trước CHÚ THÍCH của [điểm 4.5](qcvn_06_2022_bxd_goc_2022.md#muc-4-5) như sau:
 
 “Trong các nhà nhóm F1, F2, F3, F4, không yêu cầu ngăn cháy với các công năng khác đối với các gian phòng sau (trừ các trường hợp riêng được quy định trong quy chuẩn này hoặc tiêu chuẩn chuyên ngành): các gian phòng nhóm F5 hạng C4, E; các gian phòng kỹ thuật nước; các gian phòng ẩm ướt hoặc có nguy cơ cháy thấp; phòng kho diện tích tối đa 10 m2 không chứa các chất khí dễ cháy và chất lỏng dễ cháy; các gian phòng không có yêu cầu trang bị chữa cháy tự động hoặc báo cháy tự động theo tài liệu chuẩn; các khu vực chỉ phục vụ ăn uống (không có bếp nấu và kho lưu trữ thực phẩm); các phòng họp nội bộ; và các trường hợp tương tự khác.
 
@@ -449,13 +449,13 @@ Không yêu cầu giới hạn chịu lửa đối với vách ngăn khu vực c
 
 - Thay chữ “và” sau cụm từ “(quy định tại điểm E.1 và điểm E.2 trong Phụ lục E)” bằng chữ “hoặc”.
 
-#### <a id="sd1-muc-4-35" name="sd1-muc-4-35"></a>Sửa đổi đoạn d) [điểm 4.35](qcvn_06_2022_bxd.md#muc-4-35) như sau:
+#### <a id="sd1-muc-4-35" name="sd1-muc-4-35"></a>Sửa đổi đoạn d) [điểm 4.35](qcvn_06_2022_bxd_goc_2022.md#muc-4-35) như sau:
 
 “d) Diện tích tầng trong phạm vi khoang cháy có sảnh thông tầng được xác định theo Phụ lục H.”.
 
 ### <a id="sd1-chuong-5" name="sd1-chuong-5"></a>5  CẤP NƯỚC CHỮA CHÁY
 
-#### <a id="sd1-muc-5-1-1-1" name="sd1-muc-5-1-1-1"></a>Sửa đổi, bổ sung [điểm 5.1.1.1](qcvn_06_2022_bxd.md#muc-5-1-1-1) như sau:
+#### <a id="sd1-muc-5-1-1-1" name="sd1-muc-5-1-1-1"></a>Sửa đổi, bổ sung [điểm 5.1.1.1](qcvn_06_2022_bxd_goc_2022.md#muc-5-1-1-1) như sau:
 
 “5.1.1.1  Việc trang bị cấp nước chữa cháy ngoài nhà phải được thực hiện khi đầu tư xây dựng hạ tầng kỹ thuật của các khu dân cư, đô thị, khu công nghiệp, khu chế xuất, khu công nghệ cao, cụm công nghiệp và các khu có đặc điểm tương tự.
 
@@ -463,11 +463,11 @@ Không yêu cầu giới hạn chịu lửa đối với vách ngăn khu vực c
 
 CHÚ THÍCH: Việc trang bị cấp nước chữa cháy ngoài nhà có thể tham khảo TCVN 3890:2023.”.
 
-#### <a id="sd1-muc-5-1-1-3" name="sd1-muc-5-1-1-3"></a>Sửa đổi [điểm 5.1.1.3](qcvn_06_2022_bxd.md#muc-5-1-1-3) như sau:
+#### <a id="sd1-muc-5-1-1-3" name="sd1-muc-5-1-1-3"></a>Sửa đổi [điểm 5.1.1.3](qcvn_06_2022_bxd_goc_2022.md#muc-5-1-1-3) như sau:
 
 - Bãi bỏ cụm từ “được trang bị phương tiện”.
 
-#### <a id="sd1-muc-5-1-1-4" name="sd1-muc-5-1-1-4"></a>Sửa đổi [điểm 5.1.1.4](qcvn_06_2022_bxd.md#muc-5-1-1-4) như sau:
+#### <a id="sd1-muc-5-1-1-4" name="sd1-muc-5-1-1-4"></a>Sửa đổi [điểm 5.1.1.4](qcvn_06_2022_bxd_goc_2022.md#muc-5-1-1-4) như sau:
 
 - Thay cụm từ “(nằm trên mặt đất)” bằng cụm từ “(đo ở vị trí cao độ bằng với mặt đất)”.
 
@@ -477,7 +477,7 @@ CHÚ THÍCH: Việc trang bị cấp nước chữa cháy ngoài nhà có thể 
 
 #### <a id="sd1-bang-7-" name="sd1-bang-7-"></a>Bãi bỏ CHÚ THÍCH 3 của Bảng 7.
 
-#### <a id="sd1-bang-10" name="sd1-bang-10"></a>Sửa đổi, bổ sung [Bảng 10](qcvn_06_2022_bxd.md#bang-10) như sau:
+#### <a id="sd1-bang-10" name="sd1-bang-10"></a>Sửa đổi, bổ sung [Bảng 10](qcvn_06_2022_bxd_goc_2022.md#bang-10) như sau:
 
 Bảng 10 - Lưu lượng nước cho chữa cháy ngoài nhà cho nhà nhóm F5 không có lỗ mở trên mái có chiều rộng trên 60 m
 
@@ -493,11 +493,11 @@ Bảng 10 - Lưu lượng nước cho chữa cháy ngoài nhà cho nhà nhóm F5
 
 _CHÚ THÍCH: Lỗ mở trên mái là các lỗ mở để thông gió hoặc lấy sáng đặt trên kết cấu mái của nhà (nóc gió (cửa trời); lỗ thường xuyên mở; lỗ mở khi có chảy; ô kính; tấm lợp lấy sáng, hoặc các lỗ mở tương tự) có diện tích không nhỏ hơn 2,5 % diện tích xây dựng của nhà đó._
 
-#### <a id="sd1-muc-5-1-3-3" name="sd1-muc-5-1-3-3"></a>Bổ sung gạch đầu dòng thứ năm của [điểm 5.1.3.3](qcvn_06_2022_bxd.md#muc-5-1-3-3) như sau:
+#### <a id="sd1-muc-5-1-3-3" name="sd1-muc-5-1-3-3"></a>Bổ sung gạch đầu dòng thứ năm của [điểm 5.1.3.3](qcvn_06_2022_bxd_goc_2022.md#muc-5-1-3-3) như sau:
 
 - Đối với các nhà có yêu cầu về lưu lượng cho cấp nước chữa cháy ngoài nhà quy định tại các bảng 8, 9, 10 đến 15 L/s (cho nhà nhóm F1, F2, F3, F4) và đến 20 L/s (cho nhà nhóm F5) thì thời gian chữa cháy của chúng lấy là 1 giờ.
 
-#### <a id="sd1-muc-5-1-3-4" name="sd1-muc-5-1-3-4"></a>Sửa đổi, bổ sung [điểm 5.1.3.4](qcvn_06_2022_bxd.md#muc-5-1-3-4) như sau:
+#### <a id="sd1-muc-5-1-3-4" name="sd1-muc-5-1-3-4"></a>Sửa đổi, bổ sung [điểm 5.1.3.4](qcvn_06_2022_bxd_goc_2022.md#muc-5-1-3-4) như sau:
 
 “5.1.3.4 Thời gian lớn nhất để phục hồi nước dự trữ chữa cháy không lớn hơn:
 
@@ -523,27 +523,27 @@ W là lượng nước dự trữ cho chữa cháy, tính bằng mét khối (m3
 
 K là tỉ số giữa thời gian phục hồi lượng nước chữa cháy theo thực tế và thời gian phục hồi lượng nước chữa cháy theo yêu cầu quy định tại 5.1.3.4.".
 
-#### <a id="sd1-muc-5-1-4-2" name="sd1-muc-5-1-4-2"></a>Sửa đổi [điểm 5.1.4.2](qcvn_06_2022_bxd.md#muc-5-1-4-2) như sau:
+#### <a id="sd1-muc-5-1-4-2" name="sd1-muc-5-1-4-2"></a>Sửa đổi [điểm 5.1.4.2](qcvn_06_2022_bxd_goc_2022.md#muc-5-1-4-2) như sau:
 
 - Bổ sung cụm từ “cho mỗi nhà” trước cụm từ “đến 12” và chữ “họng” sau cụm từ “đến 12”.
 
-#### <a id="sd1-muc-5-1-4-7" name="sd1-muc-5-1-4-7"></a>Sửa đổi [điểm 5.1.4.7](qcvn_06_2022_bxd.md#muc-5-1-4-7) như sau:
+#### <a id="sd1-muc-5-1-4-7" name="sd1-muc-5-1-4-7"></a>Sửa đổi [điểm 5.1.4.7](qcvn_06_2022_bxd_goc_2022.md#muc-5-1-4-7) như sau:
 
 - Thay cụm từ “200 m” bằng cụm từ “hơn 400 m”.
 
-#### <a id="sd1-muc-5-1-5-4" name="sd1-muc-5-1-5-4"></a>Sửa đổi [điểm 5.1.5.4](qcvn_06_2022_bxd.md#muc-5-1-5-4) như sau:
+#### <a id="sd1-muc-5-1-5-4" name="sd1-muc-5-1-5-4"></a>Sửa đổi [điểm 5.1.5.4](qcvn_06_2022_bxd_goc_2022.md#muc-5-1-5-4) như sau:
 
 - Thay cụm từ “bãi đỗ xe kích thước không nhỏ hơn 12 m x 12 m" bằng cụm từ “bãi lấy nước”.
 
-#### <a id="sd1-muc-5-1-5-6" name="sd1-muc-5-1-5-6"></a>Sửa đổi [điểm 5.1.5.6](qcvn_06_2022_bxd.md#muc-5-1-5-6) như sau:
+#### <a id="sd1-muc-5-1-5-6" name="sd1-muc-5-1-5-6"></a>Sửa đổi [điểm 5.1.5.6](qcvn_06_2022_bxd_goc_2022.md#muc-5-1-5-6) như sau:
 
 - Thay cụm từ “riêng lẻ” tại đoạn thử nhất bằng cụm từ “độc lập”.
 
-#### <a id="sd1-muc-5-1-5-7" name="sd1-muc-5-1-5-7"></a>Sửa đổi gạch đầu dòng thứ hai của [điểm 5.1.5.7](qcvn_06_2022_bxd.md#muc-5-1-5-7) như sau:
+#### <a id="sd1-muc-5-1-5-7" name="sd1-muc-5-1-5-7"></a>Sửa đổi gạch đầu dòng thứ hai của [điểm 5.1.5.7](qcvn_06_2022_bxd_goc_2022.md#muc-5-1-5-7) như sau:
 
 - Bãi bỏ cụm từ “ngoài khu dân cư”.
 
-#### <a id="sd1-muc-5-1-5-9" name="sd1-muc-5-1-5-9"></a>Sửa đổi [điểm 5.1.5.9](qcvn_06_2022_bxd.md#muc-5-1-5-9) như sau:
+#### <a id="sd1-muc-5-1-5-9" name="sd1-muc-5-1-5-9"></a>Sửa đổi [điểm 5.1.5.9](qcvn_06_2022_bxd_goc_2022.md#muc-5-1-5-9) như sau:
 
 “5.1.5.9 Bồn, bể, trụ nước chữa cháy ngoài nhà, hồ nước chữa cháy tự nhiên và nhân tạo phải đặt tại vị trí bảo đảm bán kính phục vụ:
 
@@ -557,33 +557,33 @@ K là tỉ số giữa thời gian phục hồi lượng nước chữa cháy th
 
 - Thay cụm từ “từ 3 m3 đến 5 m3” bằng cụm từ “không nhỏ hơn 3 m3”.
 
-#### <a id="sd1-muc-5-2-1" name="sd1-muc-5-2-1"></a>Sửa đổi [điểm 5.2.1](qcvn_06_2022_bxd.md#muc-5-2-1) như sau:
+#### <a id="sd1-muc-5-2-1" name="sd1-muc-5-2-1"></a>Sửa đổi [điểm 5.2.1](qcvn_06_2022_bxd_goc_2022.md#muc-5-2-1) như sau:
 
 - Bổ sung vào đoạn thứ tư, trước cụm từ “Trường hợp sử dụng các họng nước lưu lượng thấp”: “Căn cứ vào công năng của đối tượng bảo vệ có thể lựa chọn các phương án trang bị hệ thống họng nước chữa cháy theo quy định tại 5.2.18.".
 
-#### <a id="sd1-bang-11" name="sd1-bang-11"></a>Sửa đổi [Bảng 11](qcvn_06_2022_bxd.md#bang-11) như sau:
+#### <a id="sd1-bang-11" name="sd1-bang-11"></a>Sửa đổi [Bảng 11](qcvn_06_2022_bxd_goc_2022.md#bang-11) như sau:
 
 - Thay cụm từ "nhà dưỡng" ở gạch đầu dòng cuối cùng của 2) bằng cụm từ “nhà dưỡng lão”.
 
-#### <a id="sd1-muc-5-2-6" name="sd1-muc-5-2-6"></a>Sửa đổi [điểm 5.2.6](qcvn_06_2022_bxd.md#muc-5-2-6) như sau:
+#### <a id="sd1-muc-5-2-6" name="sd1-muc-5-2-6"></a>Sửa đổi [điểm 5.2.6](qcvn_06_2022_bxd_goc_2022.md#muc-5-2-6) như sau:
 
 - Thay cụm từ “0,90 MPa” tại đoạn thứ hai bằng cụm từ “0,6 MPa” và cụm từ “0,4 MPa” tại đoạn thứ tư bằng cụm từ “0,45 MPa”.
 
-#### <a id="sd1-muc-3" name="sd1-muc-3"></a>Bổ sung CHÚ THÍCH 3 vào [điểm 5.2.11](qcvn_06_2022_bxd.md#muc-5-2-11) như sau:
+#### <a id="sd1-muc-3" name="sd1-muc-3"></a>Bổ sung CHÚ THÍCH 3 vào [điểm 5.2.11](qcvn_06_2022_bxd_goc_2022.md#muc-5-2-11) như sau:
 
 "CHÚ THÍCH 3: Cho phép tăng bán kính phục vụ của các họng nước chữa cháy bằng việc kết nối các vòi chữa cháy với tổng chiều dài đến 40 m. Khi đó các vòi phải treo ở dạng xếp trên giá đỡ và được kết nối sẵn với họng nước và lăng phun.”.
 
-#### <a id="sd1-muc-5-3-1" name="sd1-muc-5-3-1"></a>Sửa đổi [điểm 5.3.1](qcvn_06_2022_bxd.md#muc-5-3-1) như sau:
+#### <a id="sd1-muc-5-3-1" name="sd1-muc-5-3-1"></a>Sửa đổi [điểm 5.3.1](qcvn_06_2022_bxd_goc_2022.md#muc-5-3-1) như sau:
 
 - Tại đoạn thứ nhất: Thay cụm từ “công suất tương đương với” bằng cụm từ “có thông số về lưu lượng, áp lực cấp nước không nhỏ hơn”.
 
 ### <a id="sd1-chuong-6" name="sd1-chuong-6"></a>6  CHỮA CHÁY VÀ CỨU NẠN
 
-#### <a id="sd1-muc-6-2-2-1" name="sd1-muc-6-2-2-1"></a>Bổ sung vào [điểm 6.2.2.1](qcvn_06_2022_bxd.md#muc-6-2-2-1) như sau:
+#### <a id="sd1-muc-6-2-2-1" name="sd1-muc-6-2-2-1"></a>Bổ sung vào [điểm 6.2.2.1](qcvn_06_2022_bxd_goc_2022.md#muc-6-2-2-1) như sau:
 
 - Bổ sung cụm từ “, hoặc có phương án chữa cháy phù hợp từ ngoài nhà” vào sau cụm từ “60 m”.
 
-#### <a id="sd1-muc-6-2-2-3" name="sd1-muc-6-2-2-3"></a>Bổ sung vào [điểm 6.2.2.3](qcvn_06_2022_bxd.md#muc-6-2-2-3) như sau:
+#### <a id="sd1-muc-6-2-2-3" name="sd1-muc-6-2-2-3"></a>Bổ sung vào [điểm 6.2.2.3](qcvn_06_2022_bxd_goc_2022.md#muc-6-2-2-3) như sau:
 
 - Bổ sung CHÚ THÍCH cho đoạn b):
 
@@ -595,11 +595,11 @@ K là tỉ số giữa thời gian phục hồi lượng nước chữa cháy th
 
 - Bãi bỏ CHÚ THÍCH 2.
 
-#### <a id="sd1-muc-6-3-5" name="sd1-muc-6-3-5"></a>Bổ sung CHÚ THÍCH vào cuối [điểm 6.3.5](qcvn_06_2022_bxd.md#muc-6-3-5) như sau:
+#### <a id="sd1-muc-6-3-5" name="sd1-muc-6-3-5"></a>Bổ sung CHÚ THÍCH vào cuối [điểm 6.3.5](qcvn_06_2022_bxd_goc_2022.md#muc-6-3-5) như sau:
 
 “CHÚ THÍCH” Không quy định về cách bố trí các lối vào từ trên cao khi có phương án phù hợp khác để lực lượng chữa cháy tiếp cận.”.
 
-#### <a id="sd1-muc-6-4" name="sd1-muc-6-4"></a>Sửa đổi [điểm 6.4](qcvn_06_2022_bxd.md#muc-6-4) như sau:
+#### <a id="sd1-muc-6-4" name="sd1-muc-6-4"></a>Sửa đổi [điểm 6.4](qcvn_06_2022_bxd_goc_2022.md#muc-6-4) như sau:
 
 “6.4 Thiết kế bãi quay xe phải phù hợp với phương tiện chữa cháy ở địa phương.”.
 
@@ -609,23 +609,23 @@ K là tỉ số giữa thời gian phục hồi lượng nước chữa cháy th
 
 - Bổ sung vào cuối điểm 6.12: "Trường hợp không thể bảo đảm yêu cầu này thì tại mỗi tầng cần bố trí ít nhất một họng khô để cấp nước chữa cháy cho tầng đó. Không yêu cầu khe hở vế thang đối với cầu thang loại 3.”.
 
-#### <a id="sd1-muc-6-13" name="sd1-muc-6-13"></a>Sửa đổi gạch đầu dòng thứ ba của [điểm 6.13](qcvn_06_2022_bxd.md#muc-6-13) như sau:
+#### <a id="sd1-muc-6-13" name="sd1-muc-6-13"></a>Sửa đổi gạch đầu dòng thứ ba của [điểm 6.13](qcvn_06_2022_bxd_goc_2022.md#muc-6-13) như sau:
 
 “- Có số lượng được tính toán đủ để khoảng cách từ vị trí cửa các thang máy đó đến một điểm bất kỳ trên mặt bằng tầng mà nó phục vụ (bán kính phục vụ) không vượt quá 60 m;".
 
-#### <a id="sd1-muc-6-14" name="sd1-muc-6-14"></a>Sửa đổi [điểm 6.14](qcvn_06_2022_bxd.md#muc-6-14) như sau:
+#### <a id="sd1-muc-6-14" name="sd1-muc-6-14"></a>Sửa đổi [điểm 6.14](qcvn_06_2022_bxd_goc_2022.md#muc-6-14) như sau:
 
 - Bổ sung cụm từ “, nếu được thiết kế để lực lượng chữa cháy tiếp cận qua mái thì” vào sau cụm từ "lớn hơn 7 m".
 
 #### <a id="sd1-muc-a-4" name="sd1-muc-a-4"></a>Bãi bỏ cụm từ “theo A.4” tại điểm 6.17.1.
 
-#### <a id="sd1-muc-6-17-2" name="sd1-muc-6-17-2"></a>Sửa đổi gạch đầu dòng thứ hai của [điểm 6.17.2](qcvn_06_2022_bxd.md#muc-6-17-2) như sau:
+#### <a id="sd1-muc-6-17-2" name="sd1-muc-6-17-2"></a>Sửa đổi gạch đầu dòng thứ hai của [điểm 6.17.2](qcvn_06_2022_bxd_goc_2022.md#muc-6-17-2) như sau:
 
 “- Có ít nhất một lối ra trực tiếp thông với hành lang chính để thoát nạn hoặc lối ra trực tiếp ra ngoài nhà, hoặc thông trực tiếp với cầu thang thoát nạn;".
 
 ### <a id="sd1-chuong-7" name="sd1-chuong-7"></a>7  TỔ CHỨC THỰC HIỆN
 
-#### <a id="sd1-muc-7-4" name="sd1-muc-7-4"></a>Bãi bỏ [điểm 7.4](qcvn_06_2022_bxd.md#muc-7-4).
+#### <a id="sd1-muc-7-4" name="sd1-muc-7-4"></a>Bãi bỏ [điểm 7.4](qcvn_06_2022_bxd_goc_2022.md#muc-7-4).
 
 ### <a id="sd1-phu-luc-a" name="sd1-phu-luc-a"></a>PHỤ LỤC A
 
@@ -653,9 +653,9 @@ Diện tích xây dựng được xác định theo chu vi ngoài của nhà ở
 
 #### <a id="sd1-muc-a-1-3-12" name="sd1-muc-a-1-3-12"></a>Bãi bỏ điểm A.1.3.12.
 
-#### <a id="sd1-muc-a-2-3" name="sd1-muc-a-2-3"></a>Bổ sung sau cụm từ “khoang cháy” của [điểm A.2.3](qcvn_06_2022_bxd.md#muc-a-2-3) cụm từ sau: “(hoặc phân khoang cháy)”.
+#### <a id="sd1-muc-a-2-3" name="sd1-muc-a-2-3"></a>Bổ sung sau cụm từ “khoang cháy” của [điểm A.2.3](qcvn_06_2022_bxd_goc_2022.md#muc-a-2-3) cụm từ sau: “(hoặc phân khoang cháy)”.
 
-#### <a id="sd1-muc-a-2-4" name="sd1-muc-a-2-4"></a>Bổ sung câu văn vào cuối [điểm A.2.4](qcvn_06_2022_bxd.md#muc-a-2-4) như sau:
+#### <a id="sd1-muc-a-2-4" name="sd1-muc-a-2-4"></a>Bổ sung câu văn vào cuối [điểm A.2.4](qcvn_06_2022_bxd_goc_2022.md#muc-a-2-4) như sau:
 
 “Cho phép bố trí các gian phòng tập trung đông người ở chiều cao PCCC cao hơn quy định trên khi có tính toán thoát nạn cho người theo tài liệu chuẩn (ví dụ [5]) bảo đảm nguyên tắc người thoát nạn an toàn ra ngoài nhà trước khi bị các yếu tố nguy hiểm cháy tác động.”.
 
@@ -697,7 +697,7 @@ Số lượng thang máy chữa cháy cho mỗi khoang cháy phải được tí
 
 #### <a id="sd1-muc-a-3-1-16" name="sd1-muc-a-3-1-16"></a>Bãi bỏ đoạn e) điểm A.3.1.16.
 
-#### <a id="sd1-muc-a-3-2-1" name="sd1-muc-a-3-2-1"></a>Sửa đổi đoạn thứ nhất và đoạn a) của [điểm A.3.2.1](qcvn_06_2022_bxd.md#muc-a-3-2-1) như sau:
+#### <a id="sd1-muc-a-3-2-1" name="sd1-muc-a-3-2-1"></a>Sửa đổi đoạn thứ nhất và đoạn a) của [điểm A.3.2.1](qcvn_06_2022_bxd_goc_2022.md#muc-a-3-2-1) như sau:
 
 “A.3.2.1 Đối với nhà có chiều cao PCCC từ trên 100 m (trên 120 m nếu được trang bị báo cháy tự động và chữa cháy tự động) đến 150 m, ngoài việc tuân thủ các quy định tại A.3.1, phải bố trí các khu vực lánh nạn tạm thời theo A.3.2.1 hoặc A.3.2.2, hoặc kết hợp hai phương án. Giải pháp thiết kế phải bảo đảm thoát nạn kịp thời và thông suốt cho mọi người ra ngoài hoặc vào những khu vực lánh nạn tạm thời (bao gồm vùng an toàn bố trí tại các tầng và/hoặc gian lánh nạn thuộc tầng lánh nạn) phù hợp với phương án tổ chức thoát nạn cho nhà khi có cháy.
 
@@ -735,7 +735,7 @@ e) Nếu vùng an toàn là gian phòng riêng thì được sử dụng các c�
 
 f) Mỗi vùng an toàn phải được lắp đặt chiếu sáng sự cố, hệ thống truyền thanh chỉ dẫn thoát nạn và tương tự, có thiết bị liên lạc hai chiều với phòng trực điều khiển chống cháy, hoặc phòng trực có người trực 24/24 của nhà.".
 
-#### <a id="sd1-phu-luc-a" name="sd1-phu-luc-a"></a>Bãi bỏ A.4 của [Phụ lục A](qcvn_06_2022_bxd.md#phu-luc-a).
+#### <a id="sd1-phu-luc-a" name="sd1-phu-luc-a"></a>Bãi bỏ A.4 của [Phụ lục A](qcvn_06_2022_bxd_goc_2022.md#phu-luc-a).
 
 ### <a id="sd1-phu-luc-c" name="sd1-phu-luc-c"></a>PHỤ LỤC C
 
@@ -749,11 +749,11 @@ HẠNG NGUY HIỂM CHÁY VÀ CHÁY NỔ CỦA NHÀ, CÔNG TRÌNH VÀ CÁC GIAN P
 
 Các thông số của chất cháy trong nhà và gian phòng có thể tham khảo các tải liệu chuẩn [3, 4, 5, 6, 8, 9] hoặc các tài liệu chuẩn khác.".
 
-#### <a id="sd1-muc-c-3-2" name="sd1-muc-c-3-2"></a>Sửa đổi đoạn thứ nhất của [điểm C.3.2](qcvn_06_2022_bxd.md#muc-c-3-2) như sau:
+#### <a id="sd1-muc-c-3-2" name="sd1-muc-c-3-2"></a>Sửa đổi đoạn thứ nhất của [điểm C.3.2](qcvn_06_2022_bxd_goc_2022.md#muc-c-3-2) như sau:
 
 “C.3.2 Khi không có các tính toán cụ thể để phân hạng nguy hiểm cháy và cháy nổ theo tiêu chuẩn, có thể tham khảo hạng nguy hiểm cháy và cháy nổ của một số nhà và gian phòng thuộc các phân xưởng, nhà kho, bộ phận sản xuất như sau:".
 
-#### <a id="sd1-muc-c-3-2-2" name="sd1-muc-c-3-2-2"></a>Bổ sung vào gạch đầu dòng thứ hai của [điểm C.3.2.2](qcvn_06_2022_bxd.md#muc-c-3-2-2) như sau:
+#### <a id="sd1-muc-c-3-2-2" name="sd1-muc-c-3-2-2"></a>Bổ sung vào gạch đầu dòng thứ hai của [điểm C.3.2.2](qcvn_06_2022_bxd_goc_2022.md#muc-c-3-2-2) như sau:
 
 - Bổ sung cụm từ "có tạo ra các bụi cháy được và có khả năng tạo thành các hỗn hợp nguy hiểm nổ (theo Bảng C.1) khi có sự cố" vào sau cụm từ “chất rắn”.
 
@@ -763,7 +763,7 @@ Các thông số của chất cháy trong nhà và gian phòng có thể tham kh
 
 BẢO VỆ CHỐNG KHÓI
 
-#### <a id="sd1-muc-d-1-1" name="sd1-muc-d-1-1"></a>Bổ sung vào cuối [điểm D.1.1](qcvn_06_2022_bxd.md#muc-d-1-1) như sau:
+#### <a id="sd1-muc-d-1-1" name="sd1-muc-d-1-1"></a>Bổ sung vào cuối [điểm D.1.1](qcvn_06_2022_bxd_goc_2022.md#muc-d-1-1) như sau:
 
 “Nếu không có các quy định cụ thể về thời gian tiếp cận công trình của lực lượng chữa cháy và thời gian mà lực lượng chữa cháy sẽ hoạt động trong công trình để chữa cháy, và không có yêu cầu về bảo vệ tài sản khi xảy ra cháy, thì việc thiết kế bảo vệ chống khói của nhà cần bảo đảm mục tiêu tối thiểu là an toàn cho người thoát nạn ra ngoài.”.
 
@@ -771,11 +771,11 @@ BẢO VỆ CHỐNG KHÓI
 
 - Bổ sung cụm từ “(hoặc lấy theo giá trị quy định trong tài liệu chuẩn áp dụng)” vào sau cụm từ "không thấp hơn 2 m".
 
-#### <a id="sd1-muc-d-1-3" name="sd1-muc-d-1-3"></a>Sửa đổi đoạn thứ nhất của [điểm D.1.3](qcvn_06_2022_bxd.md#muc-d-1-3) như sau:
+#### <a id="sd1-muc-d-1-3" name="sd1-muc-d-1-3"></a>Sửa đổi đoạn thứ nhất của [điểm D.1.3](qcvn_06_2022_bxd_goc_2022.md#muc-d-1-3) như sau:
 
 “D.1.3 Các thiết bị của hệ thống hút xá khói và cấp không khí chống khói, không phụ thuộc vào cơ chế hoạt động (tự nhiên hoặc cưỡng bức), phải luôn bảo đảm hoạt động đúng thiết kế khi có cháy.”.
 
-#### <a id="sd1-muc-d-1-5" name="sd1-muc-d-1-5"></a>Sửa đổi đoạn thứ nhất của [điểm D.1.5](qcvn_06_2022_bxd.md#muc-d-1-5) như sau:
+#### <a id="sd1-muc-d-1-5" name="sd1-muc-d-1-5"></a>Sửa đổi đoạn thứ nhất của [điểm D.1.5](qcvn_06_2022_bxd_goc_2022.md#muc-d-1-5) như sau:
 
 - Bổ sung cụm từ “hoạt động” trước cụm từ “độc lập”.
 
@@ -783,7 +783,7 @@ BẢO VỆ CHỐNG KHÓI
 
 “D.1.7 Cho phép thay đổi các yêu cầu trong Phụ lục D này trên cơ sở có thiết kế bảo vệ chống khói phù hợp với tiêu chuẩn được phép áp dụng và thỏa mãn yêu cầu tại D.1.1”.
 
-#### <a id="sd1-muc-d-1-8" name="sd1-muc-d-1-8"></a>Sửa đổi CHÚ THÍCH của [điểm D.1.8](qcvn_06_2022_bxd.md#muc-d-1-8) như sau:
+#### <a id="sd1-muc-d-1-8" name="sd1-muc-d-1-8"></a>Sửa đổi CHÚ THÍCH của [điểm D.1.8](qcvn_06_2022_bxd_goc_2022.md#muc-d-1-8) như sau:
 
 - Thay cụm từ “ISO 14644” bằng cụm từ "TCVN 8664 (ISO 14644)".
 
@@ -803,15 +803,15 @@ BẢO VỆ CHỐNG KHÓI
 
 “CHÚ THÍCH 4: Để thông gió tự nhiên khi có cháy cho các gian phòng hoặc hành lang, cũng có thể bố trí (phân bố tương đối đều) các ô cửa mở trên kết cấu bao che ngoài của gian phòng, hành lang ở độ cao khống nhỏ hơn 2,2 m từ mặt sàn đến mép dưới của ô cửa và với tổng diện tích hữu hiệu không nhỏ hơn 2,5 % diện tích sàn của gian phòng, hành lang.”.
 
-#### <a id="sd1-muc-d-8" name="sd1-muc-d-8"></a>Sửa đổi đoạn thứ nhất và đoạn thứ hai của [điểm D.8](qcvn_06_2022_bxd.md#muc-d-8) như sau:
+#### <a id="sd1-muc-d-8" name="sd1-muc-d-8"></a>Sửa đổi đoạn thứ nhất và đoạn thứ hai của [điểm D.8](qcvn_06_2022_bxd_goc_2022.md#muc-d-8) như sau:
 
 “D.8 Để thoát khỏi trực tiếp cho các gian phòng và hành lang của nhà một tầng có thể áp dụng hệ thống hút xả khói theo cơ chế tự nhiên (giải pháp thoát khói tự nhiên), hoặc theo cơ chế cưỡng bức. Trong các nhà nhiều tầng cần sử dụng hệ thống hút xả khói theo cơ chế cưỡng bức, hoặc có thể sử dụng giải pháp thoát khói tự nhiên nếu tính toán thoát khói cho phép, nhưng phải thỏa mãn yêu cầu tại D.1.1. Cho phép sử dụng giải pháp thoát khói tự nhiên đối với tầng trên cùng của nhà nhiều tầng, thông qua van khói, cửa nắp hút khói, hoặc các cửa trời mở, cửa chớp mở và không đón gió vào.”.
 
-#### <a id="sd1-muc-d-9" name="sd1-muc-d-9"></a>Sửa đổi đoạn b) của [điểm D.9](qcvn_06_2022_bxd.md#muc-d-9) như sau:
+#### <a id="sd1-muc-d-9" name="sd1-muc-d-9"></a>Sửa đổi đoạn b) của [điểm D.9](qcvn_06_2022_bxd_goc_2022.md#muc-d-9) như sau:
 
 “b) Các đường ống và kênh dẫn nếu có yêu cầu về giới hạn chịu lửa thì phải được chế tạo từ vật liệu không cháy (bao gồm cả các lớp bọc phủ cách nhiệt và bảo vệ chịu lửa của ống), với giới hạn chịu lửa không thấp hơn:”.
 
-#### <a id="sd1-muc-3" name="sd1-muc-3"></a>Bổ sung CHÚ THÍCH 3 và CHÚ THÍCH 4 vào sau CHÚ THÍCH 2 của đoạn b) [điểm D.9](qcvn_06_2022_bxd.md#muc-d-9) như sau:
+#### <a id="sd1-muc-3" name="sd1-muc-3"></a>Bổ sung CHÚ THÍCH 3 và CHÚ THÍCH 4 vào sau CHÚ THÍCH 2 của đoạn b) [điểm D.9](qcvn_06_2022_bxd_goc_2022.md#muc-d-9) như sau:
 
 "CHÚ THÍCH 3: Không yêu cầu chỉ tiêu I đối với các đường ống và kênh dẫn khói và ống cấp không khí vào trong phạm vi một khoang cháy nếu thỏa mãn đồng thời các điều kiện sau: 1) việc dẫn khói và không khí trong các ống này không gây chảy các hệ thống kỹ thuật khác hoặc gây cháy tại các khu vực mà đường ống và kênh dẫn đi qua; 2) không làm tăng nhiệt độ không khí ở khu vực trên đường thoát nạn quá 65 °C.".
 
@@ -837,7 +837,7 @@ Chú thích này được áp dụng cho tất cả các quy định khác của
 
 KHOẢNG CÁCH PHÒNG CHÁY CHỐNG CHÁY
 
-#### <a id="sd1-bang-e-1" name="sd1-bang-e-1"></a>Sửa đổi, bổ sung CHÚ THÍCH 6 của [Bảng E.1](qcvn_06_2022_bxd.md#bang-e-1) như sau:
+#### <a id="sd1-bang-e-1" name="sd1-bang-e-1"></a>Sửa đổi, bổ sung CHÚ THÍCH 6 của [Bảng E.1](qcvn_06_2022_bxd_goc_2022.md#bang-e-1) như sau:
 
 “CHÚ THÍCH 6: Không quy định khoảng cách giữa các nhà và công trình công cộng khi tổng diện tích đất xây dựng (gồm cả diện tích đất không xây dựng giữa chúng) không vượt quá diện tích tầng cho phép lớn nhất trong phạm vi của một khoang cháy (xem Phụ lục H). Trong trường hợp nhà thuộc nhóm F1.1, F4.1 thì không được bố trí các phòng kho, bếp ăn tại khu vực tiếp giáp giữa hai nhà.
 
@@ -861,7 +861,7 @@ Chú thích này không áp dụng cho các cơ sở kinh doanh khí đốt, ch�
 
 - Thay cụm từ “đo theo phương ngang vuông góc 90° từ tường ngoài nhà” bằng cụm từ "đo vuông góc theo phương ngang từ mặt ngoài tường ngoài nhà (hoặc từ mép ngoài của bộ phận cháy được gần nhất trong nhà, bao gồm cả nội thất)".
 
-#### <a id="sd1-muc-e-3-3" name="sd1-muc-e-3-3"></a>Bổ sung vào sau câu thứ hai của [điểm E.3.3](qcvn_06_2022_bxd.md#muc-e-3-3) như sau:
+#### <a id="sd1-muc-e-3-3" name="sd1-muc-e-3-3"></a>Bổ sung vào sau câu thứ hai của [điểm E.3.3](qcvn_06_2022_bxd_goc_2022.md#muc-e-3-3) như sau:
 
 “Khi tường ngoài có yêu cầu về giới hạn chịu lửa theo Bảng E.3 thì tổng diện tích các lỗ mở không được bảo vệ chống cháy không được vượt quá các giá trị cho phép tại Bảng E.4a hoặc Bảng E.4b. Khi tường ngoài không có yêu cầu về giới hạn chịu lửa theo Bảng E.3 thì diện tích các lỗ mở không cần tuân thủ Bảng E.4a hoặc Bảng E.4b.
 
@@ -889,7 +889,7 @@ KHOẢNG CÁCH ĐẾN CÁC LỐI RA THOÁT NẠN VÀ CHIỀU RỘNG LỐI RA THO
 
 BẬC CHỊU LỬA VÀ CÁC YÊU CẦU BẢO ĐẢM AN TOÀN CHÁY CHO NHÀ, CÔNG TRÌNH, KHOANG CHÁY
 
-#### <a id="sd1-muc-h-2-1" name="sd1-muc-h-2-1"></a>Sửa đổi đoạn thứ nhất của [điểm H.2.1](qcvn_06_2022_bxd.md#muc-h-2-1) như sau:
+#### <a id="sd1-muc-h-2-1" name="sd1-muc-h-2-1"></a>Sửa đổi đoạn thứ nhất của [điểm H.2.1](qcvn_06_2022_bxd_goc_2022.md#muc-h-2-1) như sau:
 
 - Thay cụm từ “và khách sạn kiểu căn hộ như nhà ở” bằng cụm từ “dạng căn hộ”.
 
@@ -897,7 +897,7 @@ BẬC CHỊU LỬA VÀ CÁC YÊU CẦU BẢO ĐẢM AN TOÀN CHÁY CHO NHÀ, CÔ
 
 “H.2.4.4 Trên tầng 3 của nhà trẻ, mẫu giáo, mầm non cho phép bố trí các phòng dành cho lớp lớn, phòng học nhạc và thể chất, phòng chơi, phòng phục vụ. Khi đó các phòng có diện tích lớn hơn 50 m2 thì phải có một trong các lối ra thoát nạn dẫn trực tiếp vào thang bộ thoát nạn hoặc đi qua hành lang thoát nạn vào thang bộ thoát nạn.”.
 
-#### <a id="sd1-bang-h-6" name="sd1-bang-h-6"></a>Sửa đổi CHÚ THÍCH của [Bảng H.6](qcvn_06_2022_bxd.md#bang-h-6) như sau:
+#### <a id="sd1-bang-h-6" name="sd1-bang-h-6"></a>Sửa đổi CHÚ THÍCH của [Bảng H.6](qcvn_06_2022_bxd_goc_2022.md#bang-h-6) như sau:
 
 “CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng. Đối với trường trung học cơ sở và trung học phổ thông hoặc tương đương, chiều cao PCCC lớn nhất cho phép của nhà được lấy đến 25 m (7 tầng) nếu nhà có tối thiểu hai thang thoát nạn bảo đảm yêu cầu của quy chuẩn này.”.
 
@@ -951,7 +951,7 @@ Trường hợp bố trí các công năng đa khoa ngoại trú (nhóm F3.4) v�
 
 - Bổ sung cụm từ “ (hoặc 9 tầng). Trường hợp cao quá 28 m (hoặc quá 9 tầng) phải tuân thủ các yêu cầu bổ sung như quy định tại H.2.9.1” vào sau cụm từ “28 m”.
 
-#### <a id="sd1-muc-h-2-12-4" name="sd1-muc-h-2-12-4"></a>Bổ sung vào cuối [điểm H.2.12.4](qcvn_06_2022_bxd.md#muc-h-2-12-4) như sau:
+#### <a id="sd1-muc-h-2-12-4" name="sd1-muc-h-2-12-4"></a>Bổ sung vào cuối [điểm H.2.12.4](qcvn_06_2022_bxd_goc_2022.md#muc-h-2-12-4) như sau:
 
 “Không yêu cầu giới hạn chịu lửa của mái hiên, mái che phần phụ, mái che hành lang, sảnh ngoài nhà như quy định tại H.2.12.1 và H.2.12.4 nếu mái không khai thác sử dụng, hoặc không có nguy cơ cháy lan từ các khu vực dưới mái lên khối nhà chính.”.
 
@@ -959,7 +959,7 @@ Trường hợp bố trí các công năng đa khoa ngoại trú (nhóm F3.4) v�
 
 “H.2.12.10 Chiều cao PCCC lớn nhất cho phép của nhà tại các bảng H.5, H.6 và H.7 có thể xác định không theo giá trị mét, mà theo số tầng trên mặt đất không kể tầng kỹ thuật trên cùng (giá trị trong ngoặc đơn tại cột 4 của các bảng, nếu có) khi nhà được trang bị hệ thống báo cháy tự động hoặc hệ thống chữa cháy tự động, và chiều cao PCCC của nhà không quá 28 m.”.
 
-#### <a id="sd1-bang-h-8" name="sd1-bang-h-8"></a>Bổ sung vào cuối CHÚ THÍCH 2 của [Bảng H.8](qcvn_06_2022_bxd.md#bang-h-8) như sau:
+#### <a id="sd1-bang-h-8" name="sd1-bang-h-8"></a>Bổ sung vào cuối CHÚ THÍCH 2 của [Bảng H.8](qcvn_06_2022_bxd_goc_2022.md#bang-h-8) như sau:
 
 “Trường hợp nhà được trang bị hệ thống báo cháy tự động hoặc hệ thống chữa cháy tự động, hoặc nếu nhà có tối thiểu hai cầu thang thoát nạn thỏa mãn yêu cầu của quy chuẩn này thì chiều cao bố trí các gian phòng trên tuân thủ Bảng H.8."
 
@@ -967,7 +967,7 @@ Trường hợp bố trí các công năng đa khoa ngoại trú (nhóm F3.4) v�
 
 - Thay cụm từ “theo A.2.1” tại đoạn thứ hai bằng cụm từ “theo A.1.2".
 
-#### <a id="sd1-bang-h-9" name="sd1-bang-h-9"></a>Sửa đổi, bổ sung [Bảng H.9](qcvn_06_2022_bxd.md#bang-h-9) như sau:
+#### <a id="sd1-bang-h-9" name="sd1-bang-h-9"></a>Sửa đổi, bổ sung [Bảng H.9](qcvn_06_2022_bxd_goc_2022.md#bang-h-9) như sau:
 
 - Sửa đổi ô tại cột 5, hạng C, bậc III, cấp S0, S1 thành:
 
@@ -987,7 +987,7 @@ Trường hợp bố trí các công năng đa khoa ngoại trú (nhóm F3.4) v�
 
 "CHÚ THÍCH: Những chỗ có ký hiệu “-” thì cho phép áp dụng tài liệu chuẩn NFPA 5000 [1] hoặc tiêu chuẩn tương đương khác để xác định chiều cao và diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy tương ứng với giới hạn chịu lửa của các kết cấu, cấu kiện nhà và các điều kiện khác.".
 
-#### <a id="sd1-bang-h-10" name="sd1-bang-h-10"></a>Sửa đổi, bổ sung [Bảng H.10](qcvn_06_2022_bxd.md#bang-h-10) như sau:
+#### <a id="sd1-bang-h-10" name="sd1-bang-h-10"></a>Sửa đổi, bổ sung [Bảng H.10](qcvn_06_2022_bxd_goc_2022.md#bang-h-10) như sau:
 
 - Sửa đổi ký hiệu “-” ở cột 7, hạng C, bậc IV, cấp S0, S1 thành “1 400 2)”; ở cột 7, hạng C, bậc IV, cấp S2, S3 thành “1 100 2)”.
 
@@ -1001,7 +1001,7 @@ Trường hợp bố trí các công năng đa khoa ngoại trú (nhóm F3.4) v�
 
 CHÚ THÍCH 2: Nhà hạng D bậc V lấy tương đương như nhà hạng E bậc V.”.
 
-#### <a id="sd1-bang-h-11" name="sd1-bang-h-11"></a>Sửa đổi, bổ sung [Bảng H.11](qcvn_06_2022_bxd.md#bang-h-11) như sau:
+#### <a id="sd1-bang-h-11" name="sd1-bang-h-11"></a>Sửa đổi, bổ sung [Bảng H.11](qcvn_06_2022_bxd_goc_2022.md#bang-h-11) như sau:
 
 - Sửa đổi ký hiệu ở cột 6, hạng C, bậc IV, cấp S0, S1 thành “1 600”; ở cột 7, hạng C bậc IV, cấp S0, S1 thành “1600 3)”.
 
@@ -1030,7 +1030,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 
 - Thay cụm từ “Bảng H.10” bằng cụm từ “Bảng H.11”.
 
-#### <a id="sd1-muc-h-6-2" name="sd1-muc-h-6-2"></a>Sửa đổi gạch đầu dòng cuối cùng của đoạn thứ hai [điểm H.6.2](qcvn_06_2022_bxd.md#muc-h-6-2) như sau:
+#### <a id="sd1-muc-h-6-2" name="sd1-muc-h-6-2"></a>Sửa đổi gạch đầu dòng cuối cùng của đoạn thứ hai [điểm H.6.2](qcvn_06_2022_bxd_goc_2022.md#muc-h-6-2) như sau:
 
 “- Trong các nhà thuộc nhóm nguy hiểm cháy theo công năng F1.1, F1.2, F2 đến F4 với các gian thông tầng để bố trí cầu thang hở, thang cuốn, sảnh thông tầng và các công năng khác, diện tích một sàn trong phạm vi một khoang cháy là tổng diện tích của tầng dưới cùng của gian thông tầng và của các hành lang, lối đi bộ và các gian phòng của tất cả các tầng phía trên của gian thông tầng trong phạm vi không gian được ngăn cách như quy định tại đoạn b) điểm 4.35. Trường hợp không ngăn cách như quy định tại đoạn b) điểm 4.35 thì diện tích một tầng trong phạm vi một khoang cháy là tổng diện tích của các tầng tương ứng.”.
 

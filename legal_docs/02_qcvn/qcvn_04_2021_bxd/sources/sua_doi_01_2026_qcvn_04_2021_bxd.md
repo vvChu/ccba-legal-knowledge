@@ -9,7 +9,7 @@
 
 Sửa đổi 01:2026 QCVN 04:2021/BXD do Viện Khoa học công nghệ xây dựng biên soạn, Cục Quản lý nhà và thị trường bất động sản trình thẩm định, Vụ Khoa học công nghệ môi trường và Vật liệu xây dựng thẩm định, Bộ Xây dựng ban hành kèm theo Thông tư số 31/2026/TT-BXD ngày 15 tháng 06 năm 2026 của Bộ trưởng Bộ Xây dựng (có hiệu lực từ ngày 15 tháng 12 năm 2026).
 
-Sửa đổi 01:2026 QCVN 04:2021/BXD chỉ bao gồm nội dung sửa đổi, bổ sung một số quy định của [QCVN 04:2021/BXD](qcvn_04_2021_bxd.md). Các nội dung không được nêu tại Sửa đổi 01:2026 QCVN 04:2021/BXD thì tiếp tục áp dụng theo QCVN 04:2021/BXD ban hành kèm theo Thông tư số 03/2021/TT-BXD ngày 19 tháng 5 năm 2021 của Bộ trưởng Bộ Xây dựng.
+Sửa đổi 01:2026 QCVN 04:2021/BXD chỉ bao gồm nội dung sửa đổi, bổ sung một số quy định của [QCVN 04:2021/BXD](../qcvn_04_2021_bxd.md). Các nội dung không được nêu tại Sửa đổi 01:2026 QCVN 04:2021/BXD thì tiếp tục áp dụng theo QCVN 04:2021/BXD ban hành kèm theo Thông tư số 03/2021/TT-BXD ngày 19 tháng 5 năm 2021 của Bộ trưởng Bộ Xây dựng.
 
 ---
 

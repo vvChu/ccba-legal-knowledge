@@ -10,7 +10,7 @@ has_amendments: true
 amendments:
   - id: SD1-2023-QCVN-06
     title: Sửa đổi 1:2023 QCVN 06:2022/BXD (Thông tư 09/2023/TT-BXD)
-    technical_file: sua_doi_1_2023_qcvn_06_2022_bxd.md
+    technical_file: sources/sua_doi_1_2023_qcvn_06_2022_bxd.md
     diff_matrix: ../../04_appendices/bang_so_sanh_sua_doi_2023_qcvn_06/bang_so_sanh_sua_doi_2023_qcvn_06.md
     issued_date: '2023-10-10'
     effective_date: '2023-12-01'

@@ -35,8 +35,15 @@ def verify_qcvn_06(root_dir: Path) -> Dict[str, Any]:
 
     from docx import Document
     doc = Document(docx_path)
-    md_path = bundle_dir / "qcvn_06_2022_bxd.md"
-    raw_md_text = md_path.read_text(encoding="utf-8")
+    core_md_path = bundle_dir / "qcvn_06_2022_bxd.md"
+    annexes_dir = bundle_dir / "annexes"
+    annex_files = sorted(list(annexes_dir.glob("*.md"))) if annexes_dir.exists() else []
+    
+    all_md_texts = [core_md_path.read_text(encoding="utf-8")]
+    for af in annex_files:
+        all_md_texts.append(af.read_text(encoding="utf-8"))
+        
+    raw_md_text = "\n\n".join(all_md_texts)
     clean_md_text = _clean_markdown_for_matching(raw_md_text)
     md_normalized = re.sub(r"\s+", " ", raw_md_text).lower()
 
