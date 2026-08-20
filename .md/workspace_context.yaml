@@ -1,6 +1,6 @@
 acknowledgment_format: '"Tôi đã đọc workspace_context.yaml. Dự án ccba-legal-knowledge
-  thuộc loại Thẩm tra thiết kế (mode: delivery). Tác vụ hiện tại liên quan đến pháp
-  luật và quy chuẩn xây dựng."
+  là Kho Tri thức Pháp lý & Quy chuẩn Kỹ thuật Xây dựng (OKF v2.2 Native-First),
+  đóng vai trò Ground Truth Knowledge Base cho CCBA Agent Platform."
 
   '
 acknowledgment_required: true
@@ -15,7 +15,7 @@ agent_skills:
 - table-reconstructor
 agents:
   language: vi
-  primary_domain: legal-compliance
+  primary_domain: legal-standards
 do_not_touch:
 - .env
 hub_packages:
@@ -41,13 +41,8 @@ project:
     '
   hub_path: D:/GitHubProjects/ccba-agent-platform
   is_hub: false
-  mode: delivery
+  mode: knowledge-base
   name: ccba-legal-knowledge
   notebook_id: 2e8ac123-31c0-4afa-9e8b-de95a69e3b87
-  qc_mode: third-party
-  type: Thẩm tra thiết kế
-triage_disciplines:
-- architecture
-- structure
-- mep
-- pccc
+  qc_mode: standalone-knowledge-base
+  type: Kho Tri thức Pháp lý & Quy chuẩn
