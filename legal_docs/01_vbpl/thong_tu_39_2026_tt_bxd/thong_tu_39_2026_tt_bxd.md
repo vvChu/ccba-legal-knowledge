@@ -2883,4 +2883,3 @@ Số: 39/2026/TT-BXD
 <a id="dieu-16-khoan-3"></a>
 3. \[3\] Liệt kê thông tin cung cấp trên Hệ thống thông tin về hoạt động xây dựng [↑](#footnote-ref-4)
 
-

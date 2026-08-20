@@ -2675,4 +2675,3 @@ __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 <a id="dieu-16-khoan-2"></a>
 2. \[2\] Loại công trình được phân loại theo quy định của Nghị định quy định chi tiết một số điều của Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng. [↑](#footnote-ref-3)
 
-

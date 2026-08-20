@@ -1041,4 +1041,3 @@ Ghi chú: Chi phí quản lý của chủ sở hữu, chủ sử dụng công tr
 <a id="dieu-8-khoan-1"></a>
 1. \[1\] Loại công trình được phân loại theo quy định hiện hành. [↑](#footnote-ref-2)
 
-
