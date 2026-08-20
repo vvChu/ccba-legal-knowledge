@@ -626,13 +626,13 @@ c) Gian lánh nạn phải được thông gió tự nhiên qua các ô thông t
 
 - Các ô thông gió cho gian lánh nạn phải được bố trí cách ít nhất 1,5 m theo phương ngang và 3,0 m theo phương đứng tính từ các ô thông tường không được bảo vệ khác nằm ngang bằng hoặc phía dưới nó. Nếu các ô thông gió cho gian lánh nạn có tổng diện tích không nhỏ hơn 50 % diện tích gian lánh nạn thì khoảng cách theo phương đứng được phép giảm xuống đến 1,5 m;
 
-- d) Tất cả các trang bị, dụng cụ đặt trong gian lánh nạn phải được làm bằng vật liệu không cháy;
+d) Tất cả các trang bị, dụng cụ đặt trong gian lánh nạn phải được làm bằng vật liệu không cháy;
 
-- e) Gian lánh nạn phải có lối ra thoát nạn trực tiếp đi vào buồng thang bộ không nhiễm khói và lối ra thoát nạn đi vào khoang đệm của thang máy chữa cháy. Các đường thoát nạn dẫn vào gian lánh nạn phải đi qua một sảnh ngăn khói/sảnh thang máy chữa cháy hoặc một hành lang bên;
+e) Gian lánh nạn phải có lối ra thoát nạn trực tiếp đi vào buồng thang bộ không nhiễm khói và lối ra thoát nạn đi vào khoang đệm của thang máy chữa cháy. Các đường thoát nạn dẫn vào gian lánh nạn phải đi qua một sảnh ngăn khói/sảnh thang máy chữa cháy hoặc một hành lang bên;
 
-- f) Gian lánh nạn phải có trang thiết bị chống cháy gồm: họng nước chữa cháy trong nhà, hệ thống chữa cháy tự động sprinkler, chiếu sáng sự cố, điện thoại liên lạc với bên ngoài, hệ thống truyền thanh chỉ dẫn thoát nạn và tương tự;
+f) Gian lánh nạn phải có trang thiết bị chống cháy gồm: họng nước chữa cháy trong nhà, hệ thống chữa cháy tự động sprinkler, chiếu sáng sự cố, điện thoại liên lạc với bên ngoài, hệ thống truyền thanh chỉ dẫn thoát nạn và tương tự;
 
-- g) Phía trong buồng thang bộ thoát nạn và trên mặt ngoài của tường buồng thang bộ thoát nạn ở vị trí tầng lánh nạn phải có biển thông báo với nội dung “GIAN LÁNH NẠN/FIRE EMERGENCY HOLDING AREA” đặt ở chiều cao 1 500 mm tính từ mặt nền hoàn thiện của chiếu tới hoặc sàn tầng lánh nạn. Chiều cao chữ trên biển thông báo không được nhỏ hơn 50 mm;
+g) Phía trong buồng thang bộ thoát nạn và trên mặt ngoài của tường buồng thang bộ thoát nạn ở vị trí tầng lánh nạn phải có biển thông báo với nội dung “GIAN LÁNH NẠN/FIRE EMERGENCY HOLDING AREA” đặt ở chiều cao 1 500 mm tính từ mặt nền hoàn thiện của chiếu tới hoặc sàn tầng lánh nạn. Chiều cao chữ trên biển thông báo không được nhỏ hơn 50 mm;
 
 _CHÚ THÍCH: Bên cạnh việc trình bày bằng tiếng Việt và tiếng Anh, nội dung biển thông báo có thể được trình bày thêm bằng các ngôn ngữ khác tùy thuộc đặc điểm người sử dụng phổ biến trong nhà._
 

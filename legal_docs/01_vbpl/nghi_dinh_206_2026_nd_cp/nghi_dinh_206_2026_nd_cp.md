@@ -934,4 +934,3 @@ KT. THỦ TƯỚNG
 PHÓ THỦ TƯỚNG
 
 Phạm Gia Túc__
-

@@ -273,4 +273,3 @@ __KT. BỘ TRƯỞNG
 THỨ TRƯỞNG
 
 Phạm Minh Hà__
-

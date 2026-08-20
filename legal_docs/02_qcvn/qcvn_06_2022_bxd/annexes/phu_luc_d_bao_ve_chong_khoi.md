@@ -74,11 +74,11 @@ c) Từ các hành lang có chiều dài lớn hơn 15 m mà không có thông g
 
 - Nhà hỗn hợp;
 
-- d) Từ hành lang chung (trừ hành lang bên) và sảnh chung của các nhà có buồng thang bộ không nhiễm khói;
+d) Từ hành lang chung (trừ hành lang bên) và sảnh chung của các nhà có buồng thang bộ không nhiễm khói;
 
-- e) Từ các sảnh thông tầng và các hành lang thương mại bao quanh sảnh thông tầng (sau đây gọi chung là sảnh thông tầng);
+e) Từ các sảnh thông tầng và các hành lang thương mại bao quanh sảnh thông tầng (sau đây gọi chung là sảnh thông tầng);
 
-- f) Từ các gian phòng có người làm việc thường xuyên, phục vụ sản xuất hoặc kho, bao gồm cả nơi bảo quản lưu trữ sách, tài liệu, hiện vật, xưởng phục chế của bảo tàng (đối với gian phòng lưu trữ dạng kệ thì không phụ thuộc vào việc có người làm việc thường xuyên), nếu các gian phòng này thuộc hạng A, B, C1 đến C3 trong nhà bậc chịu lửa I đến IV, hoặc hạng C4, D, E trong nhà bậc chịu lửa IV;
+f) Từ các gian phòng có người làm việc thường xuyên, phục vụ sản xuất hoặc kho, bao gồm cả nơi bảo quản lưu trữ sách, tài liệu, hiện vật, xưởng phục chế của bảo tàng (đối với gian phòng lưu trữ dạng kệ thì không phụ thuộc vào việc có người làm việc thường xuyên), nếu các gian phòng này thuộc hạng A, B, C1 đến C3 trong nhà bậc chịu lửa I đến IV, hoặc hạng C4, D, E trong nhà bậc chịu lửa IV;
 
 g) Từ mỗi gian phòng liên thông với buồng thang bộ không nhiễm khói, hoặc từ mỗi gian phòng không có thông gió tự nhiên khi có cháy sau:
 
@@ -90,7 +90,7 @@ g) Từ mỗi gian phòng liên thông với buồng thang bộ không nhiễm k
 
 - Phòng thay đồ, gửi đồ diện tích từ 200 m2 trở lên;
 
-- h) Các gara giữ xe kín, ngầm hoặc nổi, được xây dựng riêng hoặc là một phần của các nhà có công năng khác và cả các đường dốc được ngăn cách của các gara này.
+h) Các gara giữ xe kín, ngầm hoặc nổi, được xây dựng riêng hoặc là một phần của các nhà có công năng khác và cả các đường dốc được ngăn cách của các gara này.
 
 Cho phép hút xả khói qua hành lang liền kề từ các gian phòng có diện tích đến 200 m2 và hạng nguy hiểm cháy C1, C2, C3, hoặc lưu trữ hoặc sử dụng chất và vật liệu cháy.
 
@@ -191,7 +191,7 @@ _CHÚ THÍCH:_
 
 - **CHÚ THÍCH 2:** Van ngăn cháy loại thường mở là loại van ngăn cháy sẽ bị đóng lại khi có cháy
 
-c) Van ngăn cháy loại thường đóng có giới hạn chịu lửa không thấp hơn:
+  c) Van ngăn cháy loại thường đóng có giới hạn chịu lửa không thấp hơn:
 
 - El 60 - đối với các gara để xe kín;
 
@@ -201,7 +201,7 @@ c) Van ngăn cháy loại thường đóng có giới hạn chịu lửa không 
 
 - El 30 - đối với các hành lang và sảnh khi lắp đặt van khói trực tiếp trên lỗ mở của giếng thu khói;
 
-d) Khói và sản phẩm cháy phải được xả ra bên ngoài nhà và công trình theo các phương án sau:
+  d) Khói và sản phẩm cháy phải được xả ra bên ngoài nhà và công trình theo các phương án sau:
 
 - Xả lên trên mái nhà: phải bảo đảm khoảng cách tối thiểu 5 m từ vị trí xả khói đến cửa hút không khí của hệ thống cấp không khí chống khói. Chiều cao ống xả khói tối thiểu 2 m nếu mái làm từ vật liệu cháy, cho phép lấy chiều cao ống xả khói thấp hơn nếu mái được bảo vệ bằng vật liệu không cháy trong khoảng cách tối thiểu 2 m tính từ mép cửa xả khói, hoặc không cần bảo vệ nếu sử dụng quạt hút dạng mái xả khói theo phương đứng;
 
@@ -267,7 +267,7 @@ b) Trong các buồng thang bộ loại N2 - lấy giá trị lưu lượng lớ
 
 - Cửa từ trong nhà đi ra ngoài trời mở, còn tất cả các cửa khác dẫn từ hành lang và sảnh trên tất cả các tầng đều đóng;
 
-- c) Trong các khoang đệm ngăn cháy tại tầng có cháy (khi các cửa đều đóng).
+c) Trong các khoang đệm ngăn cháy tại tầng có cháy (khi các cửa đều đóng).
 
 Lưu lượng không khí cấp vào các khoang đệm ngăn cháy trên lối vào các buồng thang bộ N2 hoặc N3, vào các cầu thang bộ loại 2, trên các lối vào sảnh thông tầng từ các tầng hầm và nửa hầm, trước sảnh thang máy của các ga ra ngầm, cần được tính toán bảo đảm điều kiện vận tốc dòng khí qua lỗ cửa mở không nhỏ hơn 1,3 m/s, có xét đến hoạt động đồng thời của hệ thống hút xả khói.
 

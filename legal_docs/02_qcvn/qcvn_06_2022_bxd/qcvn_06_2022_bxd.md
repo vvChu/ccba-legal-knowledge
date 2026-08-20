@@ -366,11 +366,11 @@ Tổ hợp các giải pháp tổ chức và kỹ thuật nhằm bảo đảm an
 
 Khối tích của một không gian trong phạm vi một nhà hoặc khoang cháy. Khối tích này không bao gồm các tường của thang máy được bảo vệ, buồng thang bộ thoát nạn và các không gian khác (ví dụ: khu vệ sinh và các buồng để đồ) được bao che bằng các tường có giới hạn chịu lửa không thấp hơn 60 phút, đồng thời các lối đi qua tường được bảo vệ bằng cửa ngăn cháy loại 2 có lắp cơ cấu tự đóng. Quy mô khối tích được tính đưa vào các kích thước sau:
 
-- a) Kích thước mặt bằng lấy theo khoảng cách giữa các bề mặt hoàn thiện phía trong của tường bao, hoặc ở tất cả các mặt không có tường bao thì tính đến một mặt phẳng thẳng đứng kéo đến cạnh ngoài trên cùng của sàn;
+a) Kích thước mặt bằng lấy theo khoảng cách giữa các bề mặt hoàn thiện phía trong của tường bao, hoặc ở tất cả các mặt không có tường bao thì tính đến một mặt phẳng thẳng đứng kéo đến cạnh ngoài trên cùng của sàn;
 
-- b) Chiều cao lấy theo khoảng cách từ bề mặt trên của sàn phía dưới đến mặt bề mặt dưới của sàn phía trên của không gian;
+b) Chiều cao lấy theo khoảng cách từ bề mặt trên của sàn phía dưới đến mặt bề mặt dưới của sàn phía trên của không gian;
 
-- c) Đối với một nhà hoặc khoang cháy kéo lên đến mái thì lấy theo khoảng cách đến bề mặt dưới của mái hoặc bề mặt dưới của trần của tầng cao nhất trong khoang cháy, bao gồm cả không gian bị chiếm chỗ bởi tất cả các tường, hoặc giếng đứng, kênh dẫn không được bảo vệ, hoặc kết cấu nằm trong không gian đang xét.
+c) Đối với một nhà hoặc khoang cháy kéo lên đến mái thì lấy theo khoảng cách đến bề mặt dưới của mái hoặc bề mặt dưới của trần của tầng cao nhất trong khoang cháy, bao gồm cả không gian bị chiếm chỗ bởi tất cả các tường, hoặc giếng đứng, kênh dẫn không được bảo vệ, hoặc kết cấu nằm trong không gian đang xét.
 
 #### <a id="muc-1-4-48" name="muc-1-4-48"></a>1.4.48  Sảnh ngăn khói
 
@@ -711,11 +711,11 @@ _CHÚ THÍCH:_
 
 - **CHÚ THÍCH 3:** Một cấu kiện xây dựng được cho là bảo đảm yêu cầu về giới hạn chịu lửa nếu thoả mãn một trong các điều kiện sau:
 
-a) Cấu kiện có cấu tạo với đặc điểm kỹ thuật giống như mẫu thử nghiệm chịu lửa và mẫu này khi thử nghiệm có giới hạn chịu lửa không nhỏ hơn giới hạn chịu lửa yêu cầu của cấu kiện đó.
+  a) Cấu kiện có cấu tạo với đặc điểm kỹ thuật giống như mẫu thử nghiệm chịu lửa và mẫu này khi thử nghiệm có giới hạn chịu lửa không nhỏ hơn giới hạn chịu lửa yêu cầu của cấu kiện đó.
 
-b) Giới hạn chịu lửa của cấu kiện được xác định bằng tính toán theo tiêu chuẩn thiết kế chịu lửa áp dụng không nhỏ hơn giới hạn chịu lửa yêu cầu của cấu kiện đó.
+  b) Giới hạn chịu lửa của cấu kiện được xác định bằng tính toán theo tiêu chuẩn thiết kế chịu lửa áp dụng không nhỏ hơn giới hạn chịu lửa yêu cầu của cấu kiện đó.
 
-c) Cấu kiện có cấu tạo với đặc điểm kỹ thuật phù hợp với cấu kiện nêu trong Phụ lục F mà giới hạn chịu lửa danh định tương ứng cho trong phụ lục này không nhỏ hơn giới hạn chịu lửa yêu cầu của cấu kiện đó.
+  c) Cấu kiện có cấu tạo với đặc điểm kỹ thuật phù hợp với cấu kiện nêu trong Phụ lục F mà giới hạn chịu lửa danh định tương ứng cho trong phụ lục này không nhỏ hơn giới hạn chịu lửa yêu cầu của cấu kiện đó.
 
 <a id="muc-2-2-3"></a>
 ### 2.2.3  Phân cấp cấu kiện xây dựng theo tính nguy hiểm cháy
@@ -733,10 +733,10 @@ c) Cấu kiện có cấu tạo với đặc điểm kỹ thuật phù hợp v�
 
 _CHÚ THÍCH:_
 - **CHÚ THÍCH 1:** Cho phép xếp cấu kiện xây dựng vào cấp nguy hiểm cháy mà không cần thử nghiệm như sau:
-  - a) Cấp K0 - nếu cấu kiện được chế tạo chỉ từ vật liệu không cháy;
-  - b) Cấp K1 - nếu bề mặt ngoài của cấu kiện được cấu tạo từ vật liệu có đồng thời các chỉ tiêu kỹ thuật về cháy không nguy hiểm hơn Ch1, BC1, SK1;
-  - c) Cấp K2 - nếu bề mặt ngoài của cấu kiện được cấu tạo từ vật liệu có đồng thời các chỉ tiêu kỹ thuật về cháy không nguy hiểm hơn Ch2, BC2, SK2;
-  - d) Cấp K3 - nếu bề mặt ngoài của cấu kiện được cấu tạo chỉ từ các vật liệu có một trong các chỉ tiêu kỹ thuật về cháy là Ch3, BC3, SK3
+  a) Cấp K0 - nếu cấu kiện được chế tạo chỉ từ vật liệu không cháy;
+  b) Cấp K1 - nếu bề mặt ngoài của cấu kiện được cấu tạo từ vật liệu có đồng thời các chỉ tiêu kỹ thuật về cháy không nguy hiểm hơn Ch1, BC1, SK1;
+  c) Cấp K2 - nếu bề mặt ngoài của cấu kiện được cấu tạo từ vật liệu có đồng thời các chỉ tiêu kỹ thuật về cháy không nguy hiểm hơn Ch2, BC2, SK2;
+  d) Cấp K3 - nếu bề mặt ngoài của cấu kiện được cấu tạo chỉ từ các vật liệu có một trong các chỉ tiêu kỹ thuật về cháy là Ch3, BC3, SK3
 - **CHÚ THÍCH 2:** Cấu kiện tường kính bao che (facad) được coi là cấu kiện có cấp nguy hiểm cháy K0, nếu các bộ phận của nó (bao gồm cả bộ phận liên kết với nhà) được làm từ vật liệu không cháy. Cho phép không xét đến các mạch chèn bịt và lớp phủ mặt ngoài có chiều dày nhỏ hơn 0,3 mm (nếu có)
 
 <a id="muc-2-3"></a>
@@ -1222,9 +1222,9 @@ _CHÚ THÍCH: Trong trường hợp sử dụng cầu thang bộ loại 3 để 
 
 Các lối ra sau đây cũng được coi là lối ra thoát nạn:
 
-- a) Các lối ra từ các tầng hầm đi qua các buồng thang bộ chung có lối đi riêng ra bên ngoài được ngăn cách với phần còn lại của buồng thang bộ bằng vách đặc ngăn cháy loại 1 (xem hình I.2, Phụ lục I);
+a) Các lối ra từ các tầng hầm đi qua các buồng thang bộ chung có lối đi riêng ra bên ngoài được ngăn cách với phần còn lại của buồng thang bộ bằng vách đặc ngăn cháy loại 1 (xem hình I.2, Phụ lục I);
 
-- b) Các lối ra tử các tầng hầm và tầng nửa hầm có bố trí các gian phòng hạng C1 đến C4, D, E, đi vào các gian phòng hạng C1 đến C4, D, E và vào tiền sảnh nằm trên tầng một của nhà nhóm F5;
+b) Các lối ra tử các tầng hầm và tầng nửa hầm có bố trí các gian phòng hạng C1 đến C4, D, E, đi vào các gian phòng hạng C1 đến C4, D, E và vào tiền sảnh nằm trên tầng một của nhà nhóm F5;
 
 c) Các lối ra từ phòng chờ, phòng gửi đồ, phòng hút thuốc và phòng vệ sinh ở các tầng hầm hoặc tầng nửa hầm của nhà nhóm F2, F3 và F4 đi vào tiền sảnh của tầng 1 theo các cầu thang bộ riêng loại 2. Trong trường hợp này thì phải bảo đảm các yêu cầu sau:
 
@@ -1317,7 +1317,7 @@ _CHÚ THÍCH: Ban công thoáng hoặc sân thượng thoáng nghĩa là hở ra
 
 - Để thoát ra ngoài theo cầu thang bộ loại 2 chỉ cần lên hoặc xuống tối đa 1 tầng. Trường hợp phải xuống 2 tầng mới thoát được ra ngoài thì mỗi phòng có thể sử dụng để ngủ phải có không ít hơn một cửa sổ đặt ở cao độ không quá 1 m so với sàn và có lối thoát trực tiếp vào hành lang hoặc phòng chung có cửa ra ban công. Cao độ đặt các cửa sổ và ban công nêu trên không được quá 7 m so với mặt đất. Trường hợp các cửa sổ và ban công này đặt ở cao độ quá 7 m cho đến tối đa 9 m thì mỗi cửa sổ và ban công phải được trang bị thêm thiết bị thoát nạn khẩn cấp để bảo đảm việc thoát nạn cho người an toàn từ trên cao (ví dụ thang kim loại, thang dây);
 
-- b) Từ các tầng kỹ thuật hoặc khu vực để các thiết bị kỹ thuật có diện tích không quá 300 m2. Trường hợp tầng có khu vực kỹ thuật như trên, thì cứ mỗi 2 000 m2 diện tích còn lại phải bố trí thêm không ít hơn một lối ra thoát nạn (trường hợp diện tích còn lại nhỏ hơn 2 000 m2 cũng phải bố trí thêm không ít hơn một lối ra thoát nạn). Nếu tầng kỹ thuật hoặc khu vực kỹ thuật nằm dưới hầm thì lối ra thoát nạn phải riêng biệt với các lối ra khác của nhà và thoát thẳng ra ngoài. Nếu tầng kỹ thuật hoặc khu vực kỹ thuật nằm ở các tầng trên mặt đất thì cho phép bố trí các lối ra đi qua các buồng thang bộ chung, còn đối với nhà có các buồng thang bộ N1 - đi qua khoảng đệm của buồng thang bộ NT;
+b) Từ các tầng kỹ thuật hoặc khu vực để các thiết bị kỹ thuật có diện tích không quá 300 m2. Trường hợp tầng có khu vực kỹ thuật như trên, thì cứ mỗi 2 000 m2 diện tích còn lại phải bố trí thêm không ít hơn một lối ra thoát nạn (trường hợp diện tích còn lại nhỏ hơn 2 000 m2 cũng phải bố trí thêm không ít hơn một lối ra thoát nạn). Nếu tầng kỹ thuật hoặc khu vực kỹ thuật nằm dưới hầm thì lối ra thoát nạn phải riêng biệt với các lối ra khác của nhà và thoát thẳng ra ngoài. Nếu tầng kỹ thuật hoặc khu vực kỹ thuật nằm ở các tầng trên mặt đất thì cho phép bố trí các lối ra đi qua các buồng thang bộ chung, còn đối với nhà có các buồng thang bộ N1 - đi qua khoảng đệm của buồng thang bộ NT;
 
 c) Từ các tầng của nhà nhóm F1.3 với tổng diện tích các căn hộ trên tầng đó (đối với nhà có các đơn nguyên thì tính diện tích tầng trong đơn nguyên) từ trên 500 m2 đến 550 m2 và:
 
@@ -1388,9 +1388,9 @@ Các cửa của lối ra thoát nạn từ các khu vực (gian phòng hay các
 
 Ngoài những quy định được nói riêng, các cửa của lối ra thoát nạn từ các hành lang tầng đi vào buồng thang bộ phục vụ từ 4 tầng nhà trở lên (ngoại trừ trong các nhà phục vụ mục đích giam giữ, cải tạo) phải bảo đảm:
 
-- a) Tất cả các khóa điện lắp trên cửa phải tự động mở khi hệ thống báo cháy tự động của tòa nhà bị kích hoạt. Ngay khi mất điện thì các khóa điện đó cũng phải tự động mở;
+a) Tất cả các khóa điện lắp trên cửa phải tự động mở khi hệ thống báo cháy tự động của tòa nhà bị kích hoạt. Ngay khi mất điện thì các khóa điện đó cũng phải tự động mở;
 
-- b) Người sử dụng buồng thang luôn có thể quay trở lại phía trong nhà qua chính cửa vừa đi qua hoặc qua các điểm bố trí cửa quay trở lại phía trong nhà;
+b) Người sử dụng buồng thang luôn có thể quay trở lại phía trong nhà qua chính cửa vừa đi qua hoặc qua các điểm bố trí cửa quay trở lại phía trong nhà;
 
 c) Bố trí trước các điểm quay trở lại phía trong nhà theo nguyên tắc các cánh cửa chỉ được phép ngăn cản việc quay trở lại phía trong nhà nếu đáp ứng tất cả các yêu cầu sau:
 
@@ -1653,9 +1653,9 @@ _CHÚ THÍCH: Buồng thang bộ N1 có thể được thay thế như đã nêu
 
 Cho phép:
 
-- a) Trong các nhà nhóm F1, F2, F3, F4 bố trí không quá 50 % buồng thang bộ loại N3 hoặc loại N2 có lối vào buồng thang đi qua khoang đệm với giải pháp bao che giống như khoang đệm ngăn cháy loại 1 (nghĩa là không yêu cầu có áp suất không khí dương trong khoang đệm này, nhưng các bộ phận bao che phải có giới hạn chịu lửa tương tự như khoang đệm ngăn cháy loại 1);
+a) Trong các nhà nhóm F1, F2, F3, F4 bố trí không quá 50 % buồng thang bộ loại N3 hoặc loại N2 có lối vào buồng thang đi qua khoang đệm với giải pháp bao che giống như khoang đệm ngăn cháy loại 1 (nghĩa là không yêu cầu có áp suất không khí dương trong khoang đệm này, nhưng các bộ phận bao che phải có giới hạn chịu lửa tương tự như khoang đệm ngăn cháy loại 1);
 
-- b) Khi nhà có từ hai tầng hầm trở lên, việc thoát nạn từ các tầng hầm này có thể theo các buồng thang bộ loại N3, hoặc loại N2 có lối vào buồng thang đi qua khoang đệm với giải pháp bao che giống như khoang đệm ngăn cháy loại 1;
+b) Khi nhà có từ hai tầng hầm trở lên, việc thoát nạn từ các tầng hầm này có thể theo các buồng thang bộ loại N3, hoặc loại N2 có lối vào buồng thang đi qua khoang đệm với giải pháp bao che giống như khoang đệm ngăn cháy loại 1;
 
 c) Trong các nhà nhóm F5 bố trí các buồng thang bộ không nhiễm khói thay cho loại N1 như sau:
 
@@ -1934,19 +1934,19 @@ Phải bảo đảm khoảng cách phòng cháy chống cháy giữa các nhà (
 
 Việc thiết kế trong nhà, tổ hợp nhà, một hoặc một số sảnh thông tầng, kể cả trang bị trong khối tích của nó các cầu thang bộ hở, thang cuốn, thang cuốn ngang, thang máy toàn cảnh và tương tự, cũng như các gian phòng có các lỗ mở ở hành lang bên, cần bảo đảm thực hiện các yêu cầu sau:
 
-- a) Sảnh thông tầng phải được đặt trong khối tích của một khoang cháy, ở các lỗ mở của các sàn giữa các tầng của nó cho phép bố trí các thang máy cuốn, thang bộ hở và thang máy (kể cả thang máy toàn cảnh);
+a) Sảnh thông tầng phải được đặt trong khối tích của một khoang cháy, ở các lỗ mở của các sàn giữa các tầng của nó cho phép bố trí các thang máy cuốn, thang bộ hở và thang máy (kể cả thang máy toàn cảnh);
 
-- b) Các kết cấu bao quanh các gian phòng và hành lang ở các vị trí tiếp giáp với sảnh thông tầng, cần có giới hạn chịu lửa không nhỏ hơn El (EIW) 60 hoặc làm bằng kính cường lực, có chiều dày không nhỏ hơn 6 mm, có giới hạn chịu lửa không quy định nhưng được trang bị các đầu phun (sprinkler) của thiết bị chữa cháy tự động, bảo đảm các đầu phun được đặt từ phía các gian phòng (hành lang) liền kề, cách nhau không quá 2 m và cách vách ngăn không quá 0,5 m;
+b) Các kết cấu bao quanh các gian phòng và hành lang ở các vị trí tiếp giáp với sảnh thông tầng, cần có giới hạn chịu lửa không nhỏ hơn El (EIW) 60 hoặc làm bằng kính cường lực, có chiều dày không nhỏ hơn 6 mm, có giới hạn chịu lửa không quy định nhưng được trang bị các đầu phun (sprinkler) của thiết bị chữa cháy tự động, bảo đảm các đầu phun được đặt từ phía các gian phòng (hành lang) liền kề, cách nhau không quá 2 m và cách vách ngăn không quá 0,5 m;
 
-- c) Ở các lỗ mở, dẫn vào sảnh thông tầng, kể cả các lỗ mở của các thang cuốn và của các gian phòng ở hành lang bên có trang bị các rèm, màn ngăn khói, có giới hạn chịu lửa không nhỏ hơn E 45, được hạ xuống khi có cháy, chúng phải có các cơ cấu dẫn động điều khiển tự động và từ xa, hoặc trang bị các màn ngăn khói cố định. Chiều cao làm việc của các rèm, màn ngăn khói, khi hạ xuống không được nhỏ hơn chiều dày của lớp khói được tạo ra khi có cháy. Chiều dày lớp khói được xác định bảng tính toán khi thiết kế. Khi đó, biên dưới của lớp khói được xác định ở chiều cao không nhỏ hơn 2,5 m tính từ mặt sàn;
+c) Ở các lỗ mở, dẫn vào sảnh thông tầng, kể cả các lỗ mở của các thang cuốn và của các gian phòng ở hành lang bên có trang bị các rèm, màn ngăn khói, có giới hạn chịu lửa không nhỏ hơn E 45, được hạ xuống khi có cháy, chúng phải có các cơ cấu dẫn động điều khiển tự động và từ xa, hoặc trang bị các màn ngăn khói cố định. Chiều cao làm việc của các rèm, màn ngăn khói, khi hạ xuống không được nhỏ hơn chiều dày của lớp khói được tạo ra khi có cháy. Chiều dày lớp khói được xác định bảng tính toán khi thiết kế. Khi đó, biên dưới của lớp khói được xác định ở chiều cao không nhỏ hơn 2,5 m tính từ mặt sàn;
 
-- d) Diện tích tầng trong phạm vi khoang cháy có sảnh thông tầng được xác định bằng tổng diện tích tầng dưới cùng của sảnh thông tầng và diện tích của các hành lang bên, của các lối đi và của tất cả các gian phòng nằm phía trên, đặt trong phạm vi khối tích của sảnh thông tầng, giới hạn bằng các vách ngăn cháy loại 1. Khi không có các vách ngăn cháy loại 1, ngăn cách không gian của sảnh với các gian phòng tiếp giáp thì diện tích khoang cháy bằng tổng diện tích của các tầng tương ứng;
+d) Diện tích tầng trong phạm vi khoang cháy có sảnh thông tầng được xác định bằng tổng diện tích tầng dưới cùng của sảnh thông tầng và diện tích của các hành lang bên, của các lối đi và của tất cả các gian phòng nằm phía trên, đặt trong phạm vi khối tích của sảnh thông tầng, giới hạn bằng các vách ngăn cháy loại 1. Khi không có các vách ngăn cháy loại 1, ngăn cách không gian của sảnh với các gian phòng tiếp giáp thì diện tích khoang cháy bằng tổng diện tích của các tầng tương ứng;
 
-- e) Cho phép sử dụng hệ thống hút xả khói theo cơ chế tự nhiên từ sảnh thông tầng nếu có luận cứ tính toán phù hợp;
+e) Cho phép sử dụng hệ thống hút xả khói theo cơ chế tự nhiên từ sảnh thông tầng nếu có luận cứ tính toán phù hợp;
 
-- f) Tấm chắn lấy sáng ở mái của sảnh thông tầng phải được làm từ vật liệu không cháy, khi đó, kết cấu của tấm mái này phải được làm từ kính có cốt gia cường và an toàn (không gây thương tích). Cho phép sử dụng các vật liệu tấm lấy sáng có nhóm nguy hiểm cháy không nguy hiểm hơn Ch1 và không tạo thành các giọt nóng chảy;
+f) Tấm chắn lấy sáng ở mái của sảnh thông tầng phải được làm từ vật liệu không cháy, khi đó, kết cấu của tấm mái này phải được làm từ kính có cốt gia cường và an toàn (không gây thương tích). Cho phép sử dụng các vật liệu tấm lấy sáng có nhóm nguy hiểm cháy không nguy hiểm hơn Ch1 và không tạo thành các giọt nóng chảy;
 
-- g) Để chữa cháy trong không gian sảnh thông tầng, cho phép lắp đặt các đầu phun sprinkler ở bên dưới kết cấu nhô ra của sàn giữa các tầng, của các ban công (kể cả dưới các thang cuốn...) mà không phải lắp đặt vào mái của sảnh thông tầng. Các đầu phun (sprinkler) đặt cách nhau từ 1,5 m đến 2,0 m và cách mép/cạnh của lỗ mở thông sàn không quá 0,5 m.
+g) Để chữa cháy trong không gian sảnh thông tầng, cho phép lắp đặt các đầu phun sprinkler ở bên dưới kết cấu nhô ra của sàn giữa các tầng, của các ban công (kể cả dưới các thang cuốn...) mà không phải lắp đặt vào mái của sảnh thông tầng. Các đầu phun (sprinkler) đặt cách nhau từ 1,5 m đến 2,0 m và cách mép/cạnh của lỗ mở thông sàn không quá 0,5 m.
 
 <a id="muc-5"></a>
 ### 5  CẤP NƯỚC CHỮA CHÁY

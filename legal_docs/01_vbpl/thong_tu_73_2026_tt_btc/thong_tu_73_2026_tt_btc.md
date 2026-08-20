@@ -1973,4 +1973,3 @@ __BÊN NHẬN HỒ SƠ__
 *....., ngày ....tháng.... năm....*
 __BÊN GIAO HỒ SƠ__
 *(Ký, ghi đầy đủ họ tên)*
-

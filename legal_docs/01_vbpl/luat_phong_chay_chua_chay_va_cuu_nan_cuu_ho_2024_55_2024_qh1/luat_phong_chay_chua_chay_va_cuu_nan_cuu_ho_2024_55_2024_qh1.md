@@ -2518,4 +2518,3 @@ ngày 29 tháng 11 năm 2024.
 
 | E-pas: 114775 | CHỦ TỊCH QUỐC HỘITrần Thanh Mẫn |
 | --- | --- |
-
