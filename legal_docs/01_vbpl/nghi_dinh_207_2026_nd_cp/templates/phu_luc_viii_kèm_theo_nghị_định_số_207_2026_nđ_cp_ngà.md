@@ -15,21 +15,21 @@ __PHỤ LỤC VIII__
 
 *(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)*
 
-........(1)......__  
+........(1)......__
 __-------
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: .........
 
 *.........., ngày .......... tháng ...... năm.......*
 
- 
 
-__THÔNG BÁO  
-____KẾT QUẢ KIỂM TRA CÔNG TÁC NGHIỆM THU HOÀN THÀNH__  
+
+__THÔNG BÁO
+____KẾT QUẢ KIỂM TRA CÔNG TÁC NGHIỆM THU HOÀN THÀNH__
 __HẠNG MỤC CÔNG TRÌNH, CÔNG TRÌNH XÂY DỰNG__
 
 Kính gửi: ............(2).................
@@ -64,18 +64,18 @@ a) Lưu trữ hồ sơ công trình theo quy định.
 
 b) Quản lý, khai thác, vận hành công trình theo đúng công năng, thiết kế được duyệt.
 
-c) Các yêu cầu khác (nếu có). 
+c) Các yêu cầu khác (nếu có).
 
- 
 
-__*Nơi nhận:  
-*__- Như trên;  
+
+__*Nơi nhận:
+*__- Như trên;
 - Lưu: ...
 
-__LÃNH ĐẠO ĐƠN VỊ/NGƯỜI ĐƯỢC ỦY QUYỀN  
+__LÃNH ĐẠO ĐƠN VỊ/NGƯỜI ĐƯỢC ỦY QUYỀN
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu pháp nhân)*
 
- 
+
 
 ______________________________
 

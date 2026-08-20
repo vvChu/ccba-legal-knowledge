@@ -1,5 +1,5 @@
 ---
-type: 
+type:
 title: "Luật Phòng cháy, chữa cháy và cứu nạn cứu hộ năm 2024 số 55/2024/QH15 áp dụng năm 2025 mới nhất"
 description: "Raw text for Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347"
 resource: "https://thuvienphapluat.vn/van-ban/Xay-dung-Nha-o/Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347.aspx"
@@ -7,15 +7,15 @@ timestamp: "2026-07-26T10:25:14Z"
 ---
 
 
-                                    
-                                    
-                                    
-                                    
 
 
-    
 
-    
+
+
+
+
+
+
 
 
 
@@ -29,7 +29,7 @@ timestamp: "2026-07-26T10:25:14Z"
 
 
 
- 
+
 
 LUẬT
 
@@ -177,7 +177,7 @@ pháp luật.
 định thiết kế về phòng cháy và chữa cháy là việc xem xét, đánh giá sự tuân
 thủ các quy định của pháp luật, tiêu chuẩn, quy chuẩn kỹ thuật được áp dụng đối
 với thiết kế về phòng cháy và chữa cháy trong dự án đầu tư xây dựng công trình,
-công trình, phương tiện giao thông. 
+công trình, phương tiện giao thông.
 
 <a id="dieu-2-khoan-18"></a>
 18. Nghiệm thu về
@@ -404,7 +404,7 @@ nhân dân cấp xã quy định tại Luật này.
 
 <a id="dieu-8"></a>
 ### Điều 8. Trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân trong hoạt động phòng
-cháy, chữa cháy, cứu nạn, cứu hộ 
+cháy, chữa cháy, cứu nạn, cứu hộ
 
 <a id="dieu-8-khoan-1"></a>
 1. Phòng cháy, chữa
@@ -626,7 +626,7 @@ cháy, cứu nạn, cứu hộ cho đối tượng thuộc phạm vi quản lý.
 1. Người đứng đầu cơ sở,
 chủ phương tiện giao thông quy định tại khoản 2 Điều 22 của Luật này có trách nhiệm tổ chức xây dựng,
 thực tập phương án chữa cháy, cứu nạn, cứu hộ sử dụng lực lượng, phương tiện tại
-chỗ của cơ sở, phương tiện giao thông trong phạm vi quản lý. 
+chỗ của cơ sở, phương tiện giao thông trong phạm vi quản lý.
 
 <a id="dieu-10-khoan-2"></a>
 2. Cơ quan Công an có
@@ -634,12 +634,12 @@ trách nhiệm sau đây:
 
 a) Tổ chức xây dựng,
 thực tập phương án chữa cháy, cứu nạn, cứu hộ đối với cơ sở có nguy hiểm về
-cháy, nổ; 
+cháy, nổ;
 
 b) Tổ chức xây dựng,
 thực tập phương án cứu nạn, cứu hộ đối với các tình huống tai nạn, sự cố quy định
 tại điểm b khoản 1 Điều 32 của Luật này cần huy động lực lượng,
-phương tiện của nhiều cơ quan, tổ chức, cá nhân. 
+phương tiện của nhiều cơ quan, tổ chức, cá nhân.
 
 <a id="dieu-10-khoan-3"></a>
 3. Người đứng đầu cơ sở
@@ -776,7 +776,7 @@ tìm kiếm, cứu nạn;
 
 c) Đào tạo, huấn luyện,
 diễn tập, đầu tư, nghiên cứu, ứng dụng khoa học và chuyển giao công nghệ phòng
-cháy, chữa cháy, cứu nạn, cứu hộ; 
+cháy, chữa cháy, cứu nạn, cứu hộ;
 
 d) Xây dựng hạ tầng,
 công trình phòng cháy, chữa cháy, cứu nạn, cứu hộ;
@@ -811,13 +811,13 @@ môi trường, an ninh, trật tự.
 <a id="dieu-14-khoan-2"></a>
 2. Xúc phạm, đe dọa, cản
 trở, chống đối lực lượng thực hiện nhiệm vụ và người tham gia phòng cháy, chữa
-cháy, cứu nạn, cứu hộ. 
+cháy, cứu nạn, cứu hộ.
 
 <a id="dieu-14-khoan-3"></a>
 3. Lợi dụng, lạm dụng
 việc thực hiện nhiệm vụ phòng cháy, chữa cháy, cứu nạn, cứu hộ để thực hiện
 hành vi vi phạm pháp luật, nhũng nhiễu, xâm phạm lợi ích của Nhà nước, quyền, lợi
-ích hợp pháp của cơ quan, tổ chức, cá nhân. 
+ích hợp pháp của cơ quan, tổ chức, cá nhân.
 
 <a id="dieu-14-khoan-4"></a>
 4. Lợi dụng việc tham
@@ -841,12 +841,12 @@ cháy, nổ.
 <a id="dieu-14-khoan-8"></a>
 8. Chuyển đổi, bổ sung
 công năng sử dụng công trình, hạng mục công trình không bảo đảm an toàn phòng
-cháy và chữa cháy theo quy định của pháp luật. 
+cháy và chữa cháy theo quy định của pháp luật.
 
 <a id="dieu-14-khoan-9"></a>
 9. Kinh doanh phương
 tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ có chất lượng không đúng với tiêu
-chuẩn công bố áp dụng, quy chuẩn kỹ thuật tương ứng. 
+chuẩn công bố áp dụng, quy chuẩn kỹ thuật tương ứng.
 
 <a id="dieu-14-khoan-10"></a>
 10. Chiếm đoạt, hủy hoại,
@@ -887,10 +887,10 @@ Quy hoạch phân khu đô thị, khu chức năng có yêu cầu lập quy ho�
 có:
 
 a)
-Nguồn nước và phương án tổ chức mạng lưới cấp nước chữa cháy; 
+Nguồn nước và phương án tổ chức mạng lưới cấp nước chữa cháy;
 
 b) Mạng
-lưới giao thông phục vụ chữa cháy, cứu nạn, cứu hộ; 
+lưới giao thông phục vụ chữa cháy, cứu nạn, cứu hộ;
 
 c) Vị
 trí, quy mô của trụ sở đơn vị phòng cháy, chữa cháy và cứu nạn, cứu hộ trong
@@ -902,7 +902,7 @@ các khu chức năng phải có:
 
 a) Đường
 bộ, bãi đỗ, khoảng trống bảo đảm cho xe chữa cháy và phương tiện chữa cháy cơ
-giới triển khai hoạt động; 
+giới triển khai hoạt động;
 
 b)
 Nguồn nước chữa cháy từ bồn, bể, ao, hồ tự nhiên, hồ nhân tạo hoặc hệ thống cấp
@@ -924,7 +924,7 @@ khu dân cư, cụm công nghiệp và các khu chức năng khi bảo đảm c�
 phòng cháy, chữa cháy theo quy định tại các khoản 1, 2 và 3 Điều này;
 
 <a id="dieu-15-khoan-5"></a>
-5. Chính phủ quy định chi tiết Điều này. 
+5. Chính phủ quy định chi tiết Điều này.
 
 
 
@@ -973,7 +973,7 @@ a) Giải pháp ngăn
 cháy, chống cháy lan;
 
 b) Giải pháp bảo đảm
-an toàn phòng cháy cho hệ thống cung cấp năng lượng, nhiên liệu và động cơ; 
+an toàn phòng cháy cho hệ thống cung cấp năng lượng, nhiên liệu và động cơ;
 
 c) Hệ thống, thiết bị
 phát hiện sự cố rò rỉ chất khí, chất lỏng nguy hiểm về cháy, nổ;
@@ -1087,7 +1087,7 @@ các quy định sau đây:
 
 a) Nghiệm thu về phòng
 cháy và chữa cháy từng phần, từng giai đoạn, từng hạng mục, từng hệ thống và
-nghiệm thu hoàn thành thi công xây dựng công trình; 
+nghiệm thu hoàn thành thi công xây dựng công trình;
 
 b) Đối với các bộ phận
 của công trình, bộ phận phương tiện giao thông bị che khuất thì phải nghiệm thu
@@ -1161,7 +1161,7 @@ a) Có nội quy phòng cháy, chữa cháy, cứu nạn, cứu hộ phù hợp
 với tính chất, đặc điểm của công trình xây dựng;
 
 b) Có biển cấm, biển báo, biển chỉ dẫn
-theo quy định; 
+theo quy định;
 
 c) Trang bị phương tiện hoặc hệ thống phòng cháy và chữa
 cháy phù hợp với tính chất, đặc điểm của công trình xây dựng theo quy định về
@@ -1226,7 +1226,7 @@ Chính phủ quy định.
 Đối với nhà ở tại khu
 vực khác thì khuyến khích trang bị thiết bị truyền tin báo cháy kết nối với hệ
 thống Cơ sở dữ liệu về phòng cháy, chữa cháy, cứu nạn, cứu hộ và truyền tin báo
-cháy. 
+cháy.
 
 Ủy ban nhân dân thành
 phố trực thuộc trung ương xác định khu vực không bảo đảm hạ tầng giao thông hoặc
@@ -1324,7 +1324,7 @@ phương án chữa cháy, cứu nạn, cứu hộ.
 Phương tiện giao thông được sản xuất, lắp ráp, đóng mới, hoán cải thuộc diện phải
 thẩm định thiết kế về phòng cháy và chữa cháy chỉ được cấp Giấy chứng nhận an
 toàn kỹ thuật và bảo vệ môi trường khi có văn bản chấp thuận kết quả nghiệm thu
-về phòng cháy và chữa cháy theo quy định. 
+về phòng cháy và chữa cháy theo quy định.
 
 4.
 Phương tiện giao thông thủy của tổ chức quốc tế, tổ chức, cá nhân nước ngoài
@@ -1411,7 +1411,7 @@ lực;
 
 b) Đơn vị bán lẻ điện
 khi đấu nối điện sinh hoạt phải tư vấn việc lắp đặt, sử dụng đối với hệ thống,
-thiết bị điện để bảo đảm an toàn về phòng cháy; 
+thiết bị điện để bảo đảm an toàn về phòng cháy;
 
 c) Việc lắp đặt, sử dụng
 dây dẫn điện, thiết bị điện trong nhà phải bảo đảm yêu cầu về an toàn điện theo
@@ -1427,7 +1427,7 @@ chuẩn.
 
 <a id="dieu-24-khoan-2"></a>
 2. Trong lắp đặt, sử dụng
-điện cho sản xuất phải bảo đảm các điều kiện an toàn về phòng cháy sau đây: 
+điện cho sản xuất phải bảo đảm các điều kiện an toàn về phòng cháy sau đây:
 
 a) Chấp hành quy định
 về an toàn trong sử dụng điện cho sản xuất theo quy định của pháp luật về điện
@@ -1485,13 +1485,13 @@ nơi xảy ra cháy để tham gia, hỗ trợ chữa cháy khi được huy đ�
 <a id="dieu-25-khoan-4"></a>
 4. Lực lượng phòng
 cháy, chữa cháy và cứu nạn, cứu hộ khi nhận được tin báo cháy thuộc phạm vi quản
-lý hoặc nhận được mệnh lệnh, quyết định huy động phải kịp thời đến chữa cháy. 
+lý hoặc nhận được mệnh lệnh, quyết định huy động phải kịp thời đến chữa cháy.
 
 <a id="dieu-25-khoan-5"></a>
 5. Lực lượng Công an
 nhân dân có trách nhiệm tổ chức bảo đảm an ninh, trật tự, bảo vệ khu vực chữa
 cháy; tham gia chữa cháy; bảo đảm trật tự, an toàn giao thông cho lực lượng,
-phương tiện đi chữa cháy được lưu thông nhanh nhất. 
+phương tiện đi chữa cháy được lưu thông nhanh nhất.
 
 <a id="dieu-25-khoan-6"></a>
 6. Ủy ban nhân dân địa
@@ -1536,12 +1536,12 @@ ngay lực lượng, người, phương tiện, tài sản để tham gia chữa
 3. Phương tiện, tài sản
 của cơ quan, tổ chức, hộ gia đình, cá nhân được huy động tham gia chữa cháy phải
 được hoàn trả ngay sau khi kết thúc chữa cháy; trường hợp bị mất, hư hỏng, bị
-thiệt hại do việc huy động trực tiếp gây ra thì được bồi thường. 
+thiệt hại do việc huy động trực tiếp gây ra thì được bồi thường.
 
 Người có thẩm quyền
 quyết định huy động có trách nhiệm thực hiện việc bồi thường. Mức bồi thường và
 việc chi trả bồi thường được thực hiện như đối với người có tài sản trưng dụng
-theo quy định của pháp luật về trưng mua, trưng dụng tài sản. 
+theo quy định của pháp luật về trưng mua, trưng dụng tài sản.
 
 <a id="dieu-26-khoan-4"></a>
 4. Lực lượng, người được
@@ -1556,7 +1556,7 @@ sau:
 a) Chủ tịch Ủy ban
 nhân dân các cấp và người đứng đầu cơ quan, tổ chức được quyền huy động lực lượng,
 người, phương tiện, tài sản của cơ quan, tổ chức, hộ gia đình, cá nhân thuộc phạm
-vi quản lý của mình; 
+vi quản lý của mình;
 
 b) Trưởng phòng Cảnh
 sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh được quyền huy động
@@ -1603,7 +1603,7 @@ thực tập phương án chữa cháy, cứu nạn, cứu hộ được chi tr�
 <a id="dieu-27-khoan-3"></a>
 3. Tại khu vực bồn, bể,
 ao, hồ, sông, suối, kênh trong đô thị, khu dân cư tập trung bố trí các điểm, bến
-để xe chữa cháy, máy bơm chữa cháy lấy nước phục vụ chữa cháy. 
+để xe chữa cháy, máy bơm chữa cháy lấy nước phục vụ chữa cháy.
 
 4.
 Chính phủ quy định trách nhiệm đầu tư, quản lý, bảo trì, bảo dưỡng trụ nước chữa
@@ -1627,7 +1627,7 @@ tại nơi xảy ra cháy là người chỉ huy chữa cháy.
 <a id="dieu-28-khoan-2"></a>
 2. Trường hợp tại nơi
 xảy ra cháy, lực lượng Công an nhân dân chưa đến thì người chỉ huy chữa cháy được
-quy định như sau: 
+quy định như sau:
 
 a) Cháy tại cơ sở thì
 người đứng đầu cơ sở là người chỉ huy chữa cháy; trường hợp người đứng đầu cơ sở
@@ -1652,7 +1652,7 @@ cháy thuộc lực lượng Công an nhân dân thực hiện quyền chỉ huy
 chịu trách nhiệm về quyết định của mình và có các quyền sau đây:
 
 a) Sử dụng lực lượng,
-phương tiện của cơ quan Công an thuộc phạm vi quản lý tham gia chữa cháy; 
+phương tiện của cơ quan Công an thuộc phạm vi quản lý tham gia chữa cháy;
 
 b) Huy động theo thẩm
 quyền hoặc đề nghị người có thẩm quyền huy động lực lượng, người, phương tiện,
@@ -1661,10 +1661,10 @@ tài sản của cơ quan, tổ chức, hộ gia đình, cá nhân tham gia ch�
 
 c) Xác định, quyết định
 khu vực chữa cháy, các biện pháp chữa cháy, việc sử dụng địa hình, địa vật lân
-cận để chữa cháy; 
+cận để chữa cháy;
 
 d) Cấm người và phương
-tiện không có nhiệm vụ vào khu vực chữa cháy; 
+tiện không có nhiệm vụ vào khu vực chữa cháy;
 
 đ) Quyết định việc di
 chuyển, phá dỡ chướng ngại vật, tài sản để cứu nạn, cứu hộ, ngăn chặn nguy cơ
@@ -1774,7 +1774,7 @@ HỘ
 
 <a id="dieu-32-khoan-1"></a>
 1. Tình huống cứu nạn,
-cứu hộ bao gồm: 
+cứu hộ bao gồm:
 
 a) Cứu nạn, cứu hộ
 trong đám cháy;
@@ -1822,7 +1822,7 @@ hộ khi được huy động.
 3. Lực lượng phòng
 cháy, chữa cháy và cứu nạn, cứu hộ khi nhận được tin báo tai nạn, sự cố cần phải
 cứu nạn, cứu hộ thuộc phạm vi quản lý hoặc nhận được mệnh lệnh, quyết định huy
-động phải kịp thời đến cứu nạn, cứu hộ. 
+động phải kịp thời đến cứu nạn, cứu hộ.
 
 <a id="dieu-33-khoan-4"></a>
 4. Lực lượng Công an
@@ -1880,7 +1880,7 @@ khu vực cứu nạn, cứu hộ, các biện pháp cứu nạn, cứu hộ, vi
 địa vật lân cận để cứu nạn, cứu hộ;
 
 d) Cấm người và phương
-tiện không có nhiệm vụ vào khu vực cứu nạn, cứu hộ; 
+tiện không có nhiệm vụ vào khu vực cứu nạn, cứu hộ;
 
 đ) Quyết định việc di
 chuyển, phá dỡ chướng ngại vật, tài sản trong phạm vi cứu nạn, cứu hộ để cứu
@@ -1908,12 +1908,12 @@ nạn, cứu hộ thì lực lượng, người, phương tiện, tài sản c�
 gia đình, cá nhân đều có thể được huy động để tham gia cứu nạn, cứu hộ; trường
 hợp cần thiết, người chỉ huy cứu nạn, cứu hộ đề nghị cơ quan đại diện ngoại
 giao, cơ quan đại diện lãnh sự, cơ quan đại diện của tổ chức quốc tế tại Việt
-Nam bố trí lực lượng, người, phương tiện để hỗ trợ, giúp đỡ cứu nạn, cứu hộ. 
+Nam bố trí lực lượng, người, phương tiện để hỗ trợ, giúp đỡ cứu nạn, cứu hộ.
 
 <a id="dieu-35-khoan-2"></a>
 2. Cơ quan, tổ chức, hộ
 gia đình, cá nhân khi được huy động tham gia cứu nạn, cứu hộ có trách nhiệm bố
-trí ngay lực lượng, người, phương tiện, tài sản để tham gia cứu nạn, cứu hộ. 
+trí ngay lực lượng, người, phương tiện, tài sản để tham gia cứu nạn, cứu hộ.
 
 <a id="dieu-35-khoan-3"></a>
 3. Phương tiện, tài sản
@@ -1924,7 +1924,7 @@ hư hỏng, bị thiệt hại do việc huy động trực tiếp gây ra thì 
 Người có thẩm quyền
 quyết định huy động có trách nhiệm thực hiện việc bồi thường. Mức bồi thường và
 việc chi trả bồi thường được thực hiện như đối với người có tài sản trưng dụng
-theo quy định của pháp luật về trưng mua, trưng dụng tài sản. 
+theo quy định của pháp luật về trưng mua, trưng dụng tài sản.
 
 <a id="dieu-35-khoan-4"></a>
 4. Lực lượng, người được
@@ -1938,13 +1938,13 @@ như sau:
 
 a) Người đứng đầu cơ
 quan, tổ chức được quyền huy động lực lượng, người, phương tiện, tài sản thuộc
-phạm vi quản lý của mình; 
+phạm vi quản lý của mình;
 
 b) Cục trưởng Cục Cảnh
 sát phòng cháy, chữa cháy và cứu nạn, cứu hộ, Trưởng phòng Cảnh sát phòng cháy,
 chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh được quyền huy động lực lượng,
 phương tiện của lực lượng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ thuộc
-phạm vi quản lý của mình; 
+phạm vi quản lý của mình;
 
 c) Bộ trưởng Bộ Công
 an, Giám đốc Công an cấp tỉnh và Trưởng Công an cấp huyện
@@ -2011,7 +2011,7 @@ lập Đội phòng cháy, chữa cháy và cứu nạn, cứu hộ cơ sở.
 3.
 Lực lượng dân phòng được thành lập ở một hoặc một số thôn, tổ dân phố thuộc đơn
 vị hành chính cấp xã hoặc
-tại huyện nơi không tổ chức đơn vị hành chính cấp xã theo quy định sau đây: 
+tại huyện nơi không tổ chức đơn vị hành chính cấp xã theo quy định sau đây:
 
 a) Được bố trí thành Đội
 dân phòng;
@@ -2147,7 +2147,7 @@ lượng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ chí
 hiện đại; ưu tiên nguồn lực phát triển lực
 lượng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ; đào tạo, bồi dưỡng lực lượng Cảnh sát phòng cháy, chữa cháy và
 cứu nạn, cứu hộ tinh thông về pháp luật, nghiệp vụ phòng cháy, chữa cháy, cứu nạn,
-cứu hộ, đáp ứng yêu cầu phát triển kinh tế - xã hội của đất nước. 
+cứu hộ, đáp ứng yêu cầu phát triển kinh tế - xã hội của đất nước.
 
 <a id="dieu-40-khoan-3"></a>
 3. Cơ quan, tổ chức và công dân Việt Nam có trách nhiệm tham
@@ -2267,7 +2267,7 @@ hộ cho lực lượng dân phòng.
 
 4.
 Bộ trưởng Bộ Công an quy định việc trang bị phương tiện phòng cháy, chữa cháy,
-cứu nạn, cứu hộ quy định tại khoản 2 và khoản 3 Điều này. 
+cứu nạn, cứu hộ quy định tại khoản 2 và khoản 3 Điều này.
 
 
 
@@ -2277,7 +2277,7 @@ cứu nạn, cứu hộ quy định tại khoản 2 và khoản 3 Điều này.
 
 <a id="dieu-43"></a>
 ### Điều 43. Quản lý, sử dụng, bảo quản, bảo dưỡng phương tiện phòng cháy, chữa cháy, cứu
-nạn, cứu hộ 
+nạn, cứu hộ
 
 <a id="dieu-43-khoan-1"></a>
 1. Lực lượng phòng
@@ -2392,7 +2392,7 @@ d) Kiến thức, kỹ năng
 thoát nạn, cứu nạn;
 
 đ) Các nội dung khác
-phù hợp với từng đối tượng quy định tại khoản 1 Điều này. 
+phù hợp với từng đối tượng quy định tại khoản 1 Điều này.
 
 <a id="dieu-45-khoan-3"></a>
 3. Lực lượng Cảnh sát
@@ -2464,7 +2464,7 @@ tiết khoản 1 và khoản 3 Điều này.
 
 <a id="dieu-47"></a>
 ### Điều 47. Trang phục, phù hiệu, cấp hiệu và chế độ, chính sách đối với lực lượng Cảnh
-sát phòng cháy, chữa cháy và cứu nạn, cứu hộ 
+sát phòng cháy, chữa cháy và cứu nạn, cứu hộ
 
 <a id="dieu-47-khoan-1"></a>
 1. Sĩ quan, hạ sĩ quan,
@@ -2483,11 +2483,11 @@ chính sách theo quy định của pháp luật về Công an nhân dân;
 
 b) Chế độ bồi dưỡng khi thực hiện huấn luyện, bồi dưỡng
 nghiệp vụ phòng cháy, chữa cháy, cứu nạn, cứu hộ; thực tập phương án chữa cháy,
-cứu nạn, cứu hộ và phương án cứu nạn, cứu hộ; khi chữa cháy, cứu nạn, cứu hộ; 
+cứu nạn, cứu hộ và phương án cứu nạn, cứu hộ; khi chữa cháy, cứu nạn, cứu hộ;
 
 c) Chế độ dinh
 dưỡng đặc thù khi huấn luyện, thực tập phương án chữa cháy, cứu nạn, cứu hộ,
-phương án cứu nạn, cứu hộ và trực tiếp chữa cháy, cứu nạn, cứu hộ; 
+phương án cứu nạn, cứu hộ và trực tiếp chữa cháy, cứu nạn, cứu hộ;
 
 d) Chế độ theo
 danh mục nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm theo quy định của
@@ -2594,7 +2594,7 @@ ngân sách nhà nước để phục vụ hoạt động phòng cháy, chữa c
 sách cho lực lượng Công an nhân dân, các cơ quan nhà nước, đơn vị sự nghiệp, lực
 lượng vũ trang và các đơn vị khác thụ hưởng ngân sách nhà nước để phục vụ hoạt
 động phòng cháy, chữa cháy, cứu nạn, cứu hộ theo quy định của pháp luật về ngân
-sách nhà nước. 
+sách nhà nước.
 
 <a id="dieu-50-khoan-4"></a>
 4. Ngân sách nhà nước
@@ -2603,7 +2603,7 @@ các nhiệm vụ sau đây:
 
 a) Đầu tư, trang bị,
 xây dựng, sửa chữa, bảo trì, bảo dưỡng hệ thống, phương tiện phòng cháy, chữa
-cháy, cứu nạn, cứu hộ; 
+cháy, cứu nạn, cứu hộ;
 
 b) Hoạt động của lực
 lượng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và lực lượng dân phòng;
@@ -2670,13 +2670,13 @@ cháy, cứu nạn, cứu hộ và truyền tin báo cháy
 nghiên cứu cơ bản, nghiên cứu ứng dụng, phát triển công nghệ, ứng dụng công nghệ
 số, triển khai thực nghiệm, sản xuất thử nghiệm, chuyển giao công nghệ và các
 hoạt động dịch vụ khoa học và công nghệ nhằm nâng cao chất lượng công tác phòng
-cháy, chữa cháy, cứu nạn, cứu hộ theo quy định của pháp luật. 
+cháy, chữa cháy, cứu nạn, cứu hộ theo quy định của pháp luật.
 
 2.
 Nhà nước khuyến khích cơ quan, tổ chức, cá nhân trong nước, người Việt Nam định
 cư ở nước ngoài, tổ chức, cá nhân nước ngoài và tổ chức quốc tế đầu tư, tài trợ,
 tham gia hoạt động khoa học và công nghệ trong công tác phòng cháy, chữa cháy,
-cứu nạn, cứu hộ. 
+cứu nạn, cứu hộ.
 
 <a id="dieu-52-khoan-3"></a>
 3. Ưu tiên kết hợp, ứng dụng kết quả đề tài, nhiệm vụ
@@ -2710,7 +2710,7 @@ THI HÀNH
 1.
 Bổ sung điểm d vào sau điểm
 c khoản 3 Điều 10 của Luật Phòng chống thiên tai số 33/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 60/2020/QH14 và
-Luật số 18/2023/QH15 như sau: 
+Luật số 18/2023/QH15 như sau:
 
 “d) Hoạt động phòng
 cháy, chữa cháy, cứu nạn, cứu hộ.”.
@@ -2723,7 +2723,7 @@ Luật số 40/2019/QH14 và Luật số 62/2020/QH14.
 
 3.
 Sửa đổi, bổ sung các điểm
-c, d và đ khoản 2 Điều 33 của Luật Thủ đô số 39/2024/QH15 như sau: 
+c, d và đ khoản 2 Điều 33 của Luật Thủ đô số 39/2024/QH15 như sau:
 
 “c) Công trình
 xây dựng thuộc diện phải thẩm duyệt hoặc thẩm định thiết kế về phòng cháy, chữa
@@ -2752,7 +2752,7 @@ cháy, chữa cháy của cơ quan quản lý chuyên ngành mà đã đưa vào
 <a id="dieu-54-khoan-1"></a>
 1. Luật này có hiệu lực
 thi hành từ ngày 01 tháng 7 năm 2025, trừ trường hợp quy định tại khoản 4 Điều
-này. 
+này.
 
 <a id="dieu-54-khoan-2"></a>
 2. Luật Phòng cháy và chữa cháy số 27/2001/QH10 đã
@@ -2788,7 +2788,7 @@ các thủ tục liên quan đến phòng cháy, chữa cháy, cứu nạn, cứ
 quan có thẩm quyền tiếp nhận trước ngày Luật này có hiệu lực thi hành nhưng đến
 ngày Luật này có hiệu lực thi hành chưa giải quyết xong thì được tiếp tục giải
 quyết theo quy định của Luật Phòng cháy và chữa
-cháy số 27/2001/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 40/2013/QH13 và Luật số 30/2023/QH15. 
+cháy số 27/2001/QH10 đã được sửa đổi, bổ sung một số điều theo Luật số 40/2013/QH13 và Luật số 30/2023/QH15.
 
 <a id="dieu-55-khoan-2"></a>
 2. Dự án đầu tư xây dựng
@@ -2796,7 +2796,7 @@ công trình, công trình, phương tiện giao thông đã được cơ quan C
 chứng nhận thẩm duyệt thiết kế về phòng cháy và chữa cháy nhưng đến ngày Luật
 này có hiệu lực thi hành chưa được chấp thuận kết quả nghiệm thu về phòng cháy
 và chữa cháy thì được tiếp tục thực hiện theo quy định của Luật Phòng cháy và chữa cháy số 27/2001/QH10
-đã được sửa đổi, bổ sung một số điều theo Luật số 40/2013/QH13 và Luật số 30/2023/QH15. 
+đã được sửa đổi, bổ sung một số điều theo Luật số 40/2013/QH13 và Luật số 30/2023/QH15.
 
 <a id="dieu-55-khoan-3"></a>
 3. Chứng nhận huấn luyện
@@ -2831,7 +2831,7 @@ chuẩn, quy chuẩn kỹ thuật tại thời điểm đưa vào hoạt động
 này có hiệu lực thi hành trên địa bàn quản lý; quy định về cải tạo, chỉnh trang
 đối với các khu vực đô thị không bảo đảm hạ tầng giao thông hoặc nguồn nước phục
 vụ chữa cháy theo quy định của pháp luật, quy chuẩn kỹ thuật trong hoạt động
-phòng cháy và chữa cháy; 
+phòng cháy và chữa cháy;
 
 b)
 Bộ quản lý công trình xây dựng chuyên ngành theo quy định của pháp luật về xây
@@ -2848,7 +2848,7 @@ thuật bảo đảm an toàn phòng cháy và chữa cháy; tổ chức khắc 
 pháp kỹ thuật đã lựa chọn, chịu trách nhiệm về kết quả thực hiện, báo cáo bằng
 văn bản gửi cơ quan quản lý trực tiếp về phòng cháy, chữa cháy, cứu nạn, cứu hộ
 sau khi hoàn thành việc khắc phục và phải duy trì giải pháp kỹ thuật đã áp dụng
-trong suốt quá trình hoạt động; 
+trong suốt quá trình hoạt động;
 
 d) Đối với cơ sở không
 thể áp dụng được giải pháp kỹ thuật theo quy định tại điểm b khoản này thì phải
@@ -2868,7 +2868,7 @@ Luật này được Quốc
 hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 8 thông qua
 ngày 29 tháng 11 năm 2024.
 
- 
+
 
 
 
@@ -2879,13 +2879,12 @@ ngày 29 tháng 11 năm 2024.
 
 
 
- 
 
 
 
 
 
-    
 
-                                   
-                                
+
+
+

@@ -28,9 +28,9 @@ _CHÚ THÍCH: Xác định khoảng cách phòng cháy chống cháy đối vớ
 > [!NOTE]
 > **Sửa đổi, bổ sung CHÚ THÍCH 6 của Bảng E.1 như sau: (Thông tư số 09/2023/TT-BXD):**
 > “CHÚ THÍCH 6: Không quy định khoảng cách giữa các nhà và công trình công cộng khi tổng diện tích đất xây dựng (gồm cả diện tích đất không xây dựng giữa chúng) không vượt quá diện tích tầng cho phép lớn nhất trong phạm vi của một khoang cháy (xem Phụ lục H). Trong trường hợp nhà thuộc nhóm F1.1, F4.1 thì không được bố trí các phòng kho, bếp ăn tại khu vực tiếp giáp giữa hai nhà.
-> 
+>
 > Diện tích đất không xây dựng giữa hai nhà là diện tích hình chiếu bằng giới hạn bởi hai tường bao đối diện của hai nhà và các đường nối hai điểm góc đối diện nhau của hai nhà.
-> 
+>
 > Chú thích này không áp dụng cho các cơ sở kinh doanh khí đốt, chất lỏng cháy và chất lỏng dễ bắt cháy, cũng như các chất và vật liệu có khả năng nổ và cháy khi tác dụng với nước, ô xi trong không khí hoặc giữa chúng với nhau.".
 
 | Bậc chịu lửa của nhà thứ nhất | Cấp nguy hiểm cháy kết cấu của nhà thứ nhất | Khoảng cách phòng cháy chống cháy tối thiểu, m, đến nhà ở và nhà công cộng thứ hai với bậc chịu lửa và cấp nguy hiểm cháy kết cấu | Khoảng cách phòng cháy chống cháy tối thiểu, m, đến nhà ở và nhà công cộng thứ hai với bậc chịu lửa và cấp nguy hiểm cháy kết cấu | Khoảng cách phòng cháy chống cháy tối thiểu, m, đến nhà ở và nhà công cộng thứ hai với bậc chịu lửa và cấp nguy hiểm cháy kết cấu | Khoảng cách phòng cháy chống cháy tối thiểu, m, đến nhà ở và nhà công cộng thứ hai với bậc chịu lửa và cấp nguy hiểm cháy kết cấu |
@@ -88,9 +88,9 @@ _CHÚ THÍCH:_
 
 Đường quy ước được xác định như sau:
 
-- - Nếu một nhà đã có sẵn thì đường quy ước sẽ song song và cách mặt ngoài của nhà có sẵn một khoảng cách tương ứng với tổng diện tích mặt ngoài không được bảo vệ và giới hạn chịu lửa tường ngoài của nhà này (xem các bằng E.3, E.4a và E.4b);
+- Nếu một nhà đã có sẵn thì đường quy ước sẽ song song và cách mặt ngoài của nhà có sẵn một khoảng cách tương ứng với tổng diện tích mặt ngoài không được bảo vệ và giới hạn chịu lửa tường ngoài của nhà này (xem các bằng E.3, E.4a và E.4b);
 
-- - Nếu cả hai nhà đều xây mới thì đường quy ước là đường phù hợp với diện tích mặt ngoài không được bảo vệ và giới hạn chịu lửa tường ngoài của cả hai nhà.
+- Nếu cả hai nhà đều xây mới thì đường quy ước là đường phù hợp với diện tích mặt ngoài không được bảo vệ và giới hạn chịu lửa tường ngoài của cả hai nhà.
 
 - Nếu mặt ngoài nhà có hình dáng không đều thì đường phân định được xác định theo phương án an toàn nhất từ các mặt phẳng tường ngoài khác nhau.
 

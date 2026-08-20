@@ -19,11 +19,11 @@
 ## 2. QUY TRÌNH KIỂM TOÁN TỰ ĐỘNG CHO AGENT QC
 
 1. **Kiểm toán Phân loại Quy mô Công trình (Mục 1.1.2):**
-   - Lấy tham số `building_type`, `stories_count`, `pccc_height_m`, `volume_m3`.
-   - Nếu `building_type == 'individual_residence_mixed'` và `stories_count < 7` và `volume_m3 < 5000` $\rightarrow$ Miễn trừ bắt lỗi cưỡng chế theo QCVN 06.
+- Lấy tham số `building_type`, `stories_count`, `pccc_height_m`, `volume_m3`.
+- Nếu `building_type == 'individual_residence_mixed'` và `stories_count < 7` và `volume_m3 < 5000` $\rightarrow$ Miễn trừ bắt lỗi cưỡng chế theo QCVN 06.
 
 2. **Kiểm toán Hồ sơ Cải tạo Cục bộ (Mục 1.1.4):**
-   - Nếu `project_type == 'renovation'` $\rightarrow$ Chỉ rà quét lỗi PCCC trên danh sách các gian phòng/khoang cháy thuộc danh mục `renovation_scope`.
+- Nếu `project_type == 'renovation'` $\rightarrow$ Chỉ rà quét lỗi PCCC trên danh sách các gian phòng/khoang cháy thuộc danh mục `renovation_scope`.
 
 3. **Kiểm toán Cự ly Thoát nạn Mở rộng (Mục 3.2 - 3.4):**
-   - Kiểm tra `has_sprinkler == True` VÀ `has_smoke_exhaust == True` $\rightarrow$ Áp dụng bảng cự ly thoát nạn mở rộng theo Sửa đổi 1:2023.
+- Kiểm tra `has_sprinkler == True` VÀ `has_smoke_exhaust == True` $\rightarrow$ Áp dụng bảng cự ly thoát nạn mở rộng theo Sửa đổi 1:2023.

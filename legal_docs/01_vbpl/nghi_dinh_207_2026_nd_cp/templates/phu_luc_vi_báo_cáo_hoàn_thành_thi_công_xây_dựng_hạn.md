@@ -13,24 +13,24 @@ usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC A
 
 __PHỤ LỤC VI__
 
-BÁO CÁO HOÀN THÀNH THI CÔNG XÂY DỰNG HẠNG MỤC CÔNG TRÌNH, CÔNG TRÌNH XÂY DỰNG  
+BÁO CÁO HOÀN THÀNH THI CÔNG XÂY DỰNG HẠNG MỤC CÔNG TRÌNH, CÔNG TRÌNH XÂY DỰNG
 *(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)*
 
-.........(1).........__  
+.........(1).........__
 __-------
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: ..................
 
 *..........., ngày....... tháng....... năm .........*
 
- 
 
-__BÁO CÁO__  
-__HOÀN THÀNH THI CÔNG XÂY DỰNG__  
+
+__BÁO CÁO__
+__HOÀN THÀNH THI CÔNG XÂY DỰNG__
 __HẠNG MỤC CÔNG TRÌNH, CÔNG TRÌNH XÂY DỰNG__
 
 Kính gửi: .........(2)..............
@@ -61,17 +61,17 @@ Kính gửi: .........(2)..............
 
 Chủ đầu tư cam kết đã tổ chức thi công xây dựng theo đúng hồ sơ thiết kế đã được thẩm định, phê duyệt, giấy phép xây dựng (hoặc căn cứ miễn phép theo quy định của pháp luật về xây dựng); tập hợp hồ sơ hoàn thành công trình đầy đủ và tổ chức nghiệm thu hạng mục công trình, công trình xây dựng theo đúng quy định của pháp luật. Đề nghị ....(2)... tổ chức kiểm tra công tác nghiệm thu hạng mục công trình, công trình xây dựng theo thẩm quyền.
 
- 
 
-__*Nơi nhận:*__  
-- Như trên;  
+
+__*Nơi nhận:*__
+- Như trên;
 - Lưu: ...
 
-__NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT__  
-__CỦA CHỦ ĐẦU TƯ  
+__NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT__
+__CỦA CHỦ ĐẦU TƯ
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu pháp nhân)*
 
- 
+
 
 ______________________________
 

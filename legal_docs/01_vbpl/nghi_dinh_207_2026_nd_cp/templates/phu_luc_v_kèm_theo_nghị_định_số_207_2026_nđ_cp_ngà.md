@@ -15,21 +15,21 @@ __PHỤ LỤC V__
 
 *(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)*
 
-............(1)............__  
+............(1)............__
 __-------
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: ...............
 
 *........., ngày........tháng........năm........*
 
- 
 
-__THÔNG BÁO  
-____KHỞI CÔNG XÂY DỰNG HẠNG MỤC CÔNG TRÌNH,__  
+
+__THÔNG BÁO
+____KHỞI CÔNG XÂY DỰNG HẠNG MỤC CÔNG TRÌNH,__
 __CÔNG TRÌNH XÂY DỰNG__
 
 Kính gửi: .......... (2) .........
@@ -52,15 +52,15 @@ Kính gửi: .......... (2) .........
 
 **8.** Ngày khởi công và ngày hoàn thành (dự kiến).
 
- 
 
-__*Nơi nhận:*__  
-- Như trên;  
-- ...(3)...  
-- Lưu: ...;  
+
+__*Nơi nhận:*__
+- Như trên;
+- ...(3)...
+- Lưu: ...;
 - Hồ sơ gửi kèm (6)
 
-__NGƯỜI ĐẠI DIỆN THEO QUY ĐỊNH PHÁP LUẬT CỦA CHỦ ĐẦU TƯ  
+__NGƯỜI ĐẠI DIỆN THEO QUY ĐỊNH PHÁP LUẬT CỦA CHỦ ĐẦU TƯ
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu pháp nhân)*
 
 ______________________________

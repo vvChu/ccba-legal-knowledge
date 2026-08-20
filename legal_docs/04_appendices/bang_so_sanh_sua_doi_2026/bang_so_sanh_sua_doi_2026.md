@@ -18,9 +18,9 @@
 ## 2. QUY TRÌNH KIỂM TOÁN TỰ ĐỘNG CHO AGENT QC
 
 1. **Kiểm toán Chỗ để xe điện (Mục 2.2.17):**
-   - Quét bản vẽ Mặt bằng Kiến trúc Tầng hầm $\rightarrow$ Xác định vị trí phân vùng khu đỗ xe máy điện/ô tô điện.
-   - Đối soát bản vẽ Cấp điện $\rightarrow$ Kiểm tra nút ngắt nguồn khẩn cấp (Emergency Power Off - EPO) tại phòng trực điều khiển và ngoài lối vào khu sạc.
-   - Đối soát bản vẽ PCCC $\rightarrow$ Kiểm tra đầu phun sprinkler / bình bọt chữa cháy chuyên dụng cho pin Lithium.
+- Quét bản vẽ Mặt bằng Kiến trúc Tầng hầm $\rightarrow$ Xác định vị trí phân vùng khu đỗ xe máy điện/ô tô điện.
+- Đối soát bản vẽ Cấp điện $\rightarrow$ Kiểm tra nút ngắt nguồn khẩn cấp (Emergency Power Off - EPO) tại phòng trực điều khiển và ngoài lối vào khu sạc.
+- Đối soát bản vẽ PCCC $\rightarrow$ Kiểm tra đầu phun sprinkler / bình bọt chữa cháy chuyên dụng cho pin Lithium.
 
 2. **Kiểm toán Hồ sơ Cải tạo (Mục 3.1):**
-   - Nếu `project_type == 'renovation'` và có thay đổi công năng tầng hầm $\rightarrow$ Kích hoạt Gate cưỡng chế tuân thủ Sửa đổi 01:2026.
+- Nếu `project_type == 'renovation'` và có thay đổi công năng tầng hầm $\rightarrow$ Kích hoạt Gate cưỡng chế tuân thủ Sửa đổi 01:2026.

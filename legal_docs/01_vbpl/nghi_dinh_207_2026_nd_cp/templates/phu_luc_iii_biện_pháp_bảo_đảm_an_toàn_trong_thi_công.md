@@ -13,7 +13,7 @@ usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC A
 
 __PHỤ LỤC III__
 
-BIỆN PHÁP BẢO ĐẢM AN TOÀN TRONG THI CÔNG XÂY DỰNG CÔNG TRÌNH  
+BIỆN PHÁP BẢO ĐẢM AN TOÀN TRONG THI CÔNG XÂY DỰNG CÔNG TRÌNH
 *(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)*
 
 Biện pháp bảo đảm an toàn trong thi công xây dựng công trình (sau đây viết tắt là Biện pháp) được lập cùng với biện pháp thi công[\[1\]](#_ftn1), bao gồm các nội dung chính sau đây:

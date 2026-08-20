@@ -1,15 +1,15 @@
-__BỘ QUỐC PHÒNG  
+__BỘ QUỐC PHÒNG
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: 101/2026/TT-BQP
 
 *Hà Nội, ngày 09 tháng* *7* *năm 2026*
 
- 
+
 
 __THÔNG TƯ__
 
@@ -449,28 +449,28 @@ b) Thiết kế xây dựng đang thực hiện thẩm định trước ngày Th
 <a id="dieu-19-khoan-2"></a>
 2. Cơ quan chuyên môn về xây dựng Bộ Quốc phòng và cơ quan chuyên môn về xây dựng trực thuộc đơn vị đầu mối Bộ Quốc phòng hướng dẫn thực hiện Thông tư này./.
 
- 
 
- 
 
-__*Nơi nhận:  
-*__- Bộ trưởng;  
-- Đ/c TTMT, đ/c CN TCCT;  
-- Các đ/c Thứ trưởng Bộ(05);  
-- Các cơ quan, đơn vị trực thuộc Bộ(64);  
-- Tổng cục Hậu cần - Kỹ thuật;  
-- Cục Pháp chế/BQP;  
-- Cục Tài chính/BQP;  
-- Cục Doanh trại/TCHC-KT;  
-- Cổng Thông tin điện tử BQP (để đăng tải);  
+
+
+__*Nơi nhận:
+*__- Bộ trưởng;
+- Đ/c TTMT, đ/c CN TCCT;
+- Các đ/c Thứ trưởng Bộ(05);
+- Các cơ quan, đơn vị trực thuộc Bộ(64);
+- Tổng cục Hậu cần - Kỹ thuật;
+- Cục Pháp chế/BQP;
+- Cục Tài chính/BQP;
+- Cục Doanh trại/TCHC-KT;
+- Cổng Thông tin điện tử BQP (để đăng tải);
 - Lưu: VT, NCTH. TAL79
 
-__KT. BỘ TRƯỞNG__  
-THỨ TRƯỞNG  
-  
-  
-  
-  
+__KT. BỘ TRƯỞNG__
+THỨ TRƯỞNG
+
+
+
+
 __Thượng tướng Nguyễn Quang Ngọc__
 
 __ __

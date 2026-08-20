@@ -1,8 +1,8 @@
-__BỘ XÂY DỰNG  
+__BỘ XÂY DỰNG
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: 40/2026/TT-BXD
@@ -133,39 +133,39 @@ HƯỚNG DẪN XÁC ĐỊNH CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
 <a id="dieu-8-khoan-2"></a>
 2. Đối với các công việc phát sinh hoặc điều chỉnh trong quá trình thực hiện kế hoạch bảo trì quy định tại khoản 1 Điều này, nếu chưa được phê duyệt, thì việc xác định chi phí cho các công việc này thực hiện theo quy định của Thông tư này.
 
-__*  
-Nơi nhận:  
-*__- Thủ tướng Chính phủ;  
-- Các Phó Thủ tướng Chính phủ;  
-- Các Bộ, cơ quan ngang Bộ;  
-- Văn phòng Quốc hội;  
-- Văn phòng Chủ tịch nước;  
-- Văn phòng Trung ương Đảng và các Ban của Đảng;  
-- Tòa án nhân dân tối cao;  
-- Viện Kiểm sát nhân dân tối cao;  
-- Kiểm toán nhà nước;  
-- Cơ quan Trung ương của các đoàn thể;  
-- UBND các tỉnh, thành phố trực thuộc Trung ương;  
-- Sở Xây dựng các tỉnh, thành phố trực thuộc Trung ương;  
-- Công báo; Cổng Thông tin điện tử Chính phủ;  
-- Bộ Xây dựng: Bộ trưởng, các Thứ trưởng;  
-- Các đơn vị thuộc Bộ Xây dựng;  
-- Cổng Thông tin điện tử Bộ Xây dựng;  
-- Cơ sở dữ liệu quốc gia về pháp luật;  
-- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật, Bộ Tư pháp;  
+__*
+Nơi nhận:
+*__- Thủ tướng Chính phủ;
+- Các Phó Thủ tướng Chính phủ;
+- Các Bộ, cơ quan ngang Bộ;
+- Văn phòng Quốc hội;
+- Văn phòng Chủ tịch nước;
+- Văn phòng Trung ương Đảng và các Ban của Đảng;
+- Tòa án nhân dân tối cao;
+- Viện Kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Cơ quan Trung ương của các đoàn thể;
+- UBND các tỉnh, thành phố trực thuộc Trung ương;
+- Sở Xây dựng các tỉnh, thành phố trực thuộc Trung ương;
+- Công báo; Cổng Thông tin điện tử Chính phủ;
+- Bộ Xây dựng: Bộ trưởng, các Thứ trưởng;
+- Các đơn vị thuộc Bộ Xây dựng;
+- Cổng Thông tin điện tử Bộ Xây dựng;
+- Cơ sở dữ liệu quốc gia về pháp luật;
+- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật, Bộ Tư pháp;
 - Lưu: VT; Cục KTQLXD; Viện KTXD;
 
-__KT. BỘ TRƯỞNG  
-THỨ TRƯỞNG  
-  
-  
-  
-  
+__KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+
+
+
+
 Bùi Xuân Dũng__
 
 __PHỤ LỤC I__
 
-TỔNG HỢP CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG  
+TỔNG HỢP CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
 *(Ban hành kèm theo Thông tư số 40/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
 
 Bảng 1. TỔNG HỢP CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
@@ -278,7 +278,7 @@ __GBT__
 
 __PHỤ LỤC II__
 
-DỰ TOÁN CHI PHÍ BẢO DƯỠNG CÔNG TRÌNH  
+DỰ TOÁN CHI PHÍ BẢO DƯỠNG CÔNG TRÌNH
 *(Ban hành kèm theo Thông tư số 40/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
 
 __I. TỔNG HỢP DỰ TOÁN CHI PHÍ BẢO DƯỠNG CÔNG TRÌNH__
@@ -357,11 +357,11 @@ TỔNG CỘNG (1\+2\+3)
 
 __GBD__
 
-NGƯỜI LẬP  
-*(Ký, họ tên)*  
+NGƯỜI LẬP
+*(Ký, họ tên)*
 
 
-NGƯỜI CHỦ TRÌ  
+NGƯỜI CHỦ TRÌ
 *(Ký, họ tên)*
 
 __II. DỰ TOÁN CHI PHÍ THỰC HIỆN BẢO DƯỠNG__
@@ -485,7 +485,7 @@ STT
 
 Loại công trình
 
-Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình  
+Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình
 (tỷ đồng)
 
 ≤ 15
@@ -663,8 +663,8 @@ __LT__
 
 __PHỤ LỤC III__
 
-DỰ TOÁN CHI PHÍ SỬA CHỮA CÔNG TRÌNH XÂY DỰNG  
-* (Ban hành kèm theo Thông tư số 40/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
+DỰ TOÁN CHI PHÍ SỬA CHỮA CÔNG TRÌNH XÂY DỰNG
+- (Ban hành kèm theo Thông tư số 40/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
 
 __I. DỰ TOÁN CHI PHÍ SỬA CHỮA CÔNG TRÌNH XÂY DỰNG__
 
@@ -746,11 +746,11 @@ TỔNG CỘNG (1\+2\+3)
 
 __GSC__
 
-NGƯỜI LẬP  
-*(Ký, họ tên)*  
+NGƯỜI LẬP
+*(Ký, họ tên)*
 
 
-NGƯỜI CHỦ TRÌ  
+NGƯỜI CHỦ TRÌ
 *(Ký, họ tên)*
 
 __II. DỰ TOÁN CHI PHÍ THỰC HIỆN SỬA CHỮA CÔNG TRÌNH__
@@ -793,7 +793,7 @@ Dự toán chi phí thực hiện sửa chữa công trình được tổng hợ
 
 Bảng 3.2. DỰ TOÁN CHI PHÍ THỰC HIỆN SỬA CHỮA CÔNG TRÌNH
 
-Công trình: ……………………………………………………………………… 
+Công trình: ………………………………………………………………………
 
 Địa điểm:…………………………………………………………………………
 
@@ -909,7 +909,7 @@ __LT__
 
 __PHỤ LỤC IV__
 
-CHI PHÍ QUẢN LÝ CỦA CHỦ SỞ HỮU, CHỦ SỬ DỤNG CÔNG TRÌNH  
+CHI PHÍ QUẢN LÝ CỦA CHỦ SỞ HỮU, CHỦ SỬ DỤNG CÔNG TRÌNH
 *(Ban hành kèm theo Thông tư số 40/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
 
 Chi phí quản lý của chủ sở hữu, chủ sử dụng công trình (GQL) được xác định bằng định mức tỷ lệ phần trăm (%) nhân với tổng chi phí bảo dưỡng công trình và chi phí sửa chữa công trình trước thuế thuộc phạm vi quản lý của từng chủ sở hữu, chủ sử dụng công trình quy định tại Điều 3 và Điều 4 Thông tư này theo công thức sau:
@@ -1040,4 +1040,3 @@ Ghi chú: Chi phí quản lý của chủ sở hữu, chủ sử dụng công tr
 
 <a id="dieu-8-khoan-1"></a>
 1. \[1\] Loại công trình được phân loại theo quy định hiện hành. [↑](#footnote-ref-2)
-

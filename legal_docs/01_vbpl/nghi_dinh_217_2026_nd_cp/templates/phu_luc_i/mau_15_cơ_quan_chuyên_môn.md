@@ -14,25 +14,25 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 15__
 
-__CƠ QUAN CHUYÊN MÔN  
-VỀ XÂY DỰNG1  
+__CƠ QUAN CHUYÊN MÔN
+VỀ XÂY DỰNG1
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: ...
 
 *..., ngày ... tháng ... năm ...*
 
- 
+
 
 __PHIẾU THÔNG BÁO BỔ SUNG, HOÀN THIỆN HỒ SƠ__
 
 Kính gửi: *(Cơ quan chuẩn bị dự án).*
 
-* (Cơ quan chuyên môn về xây dựng)* đã tiếp nhận hồ sơ của *(cơ quan chuẩn bị dự án)* trình thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án)* theo Tờ trình số ... ngày ... tháng ... năm ... Sau khi nghiên cứu, *(cơ quan chuyên môn về xây dựng)* đề nghị *(cơ quan chuẩn bị dự án)* bổ sung một số nội dung sau:
+- (Cơ quan chuyên môn về xây dựng)* đã tiếp nhận hồ sơ của *(cơ quan chuẩn bị dự án)* trình thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án)* theo Tờ trình số ... ngày ... tháng ... năm ... Sau khi nghiên cứu, *(cơ quan chuyên môn về xây dựng)* đề nghị *(cơ quan chuẩn bị dự án)* bổ sung một số nội dung sau:
 
 **1.** ...
 
@@ -48,13 +48,13 @@ Căn cứ quy định tại khoản 5 Điều 36 Nghị định số ... /NĐ-CP
 
 Trên đây là ý kiến của *(cơ quan chuyên môn về xây dựng),* đề nghị *(cơ quan chuẩn bị dự án)* nghiên cứu, thực hiện theo quy định.
 
- 
 
-__*Nơi nhận:*__  
-- Như trên;  
+
+__*Nơi nhận:*__
+- Như trên;
 - Lưu:...
 
-__CƠ QUAN CHUYÊN MÔN VỀ XÂY DỰNG__  
+__CƠ QUAN CHUYÊN MÔN VỀ XÂY DỰNG__
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*
 
 _______________________________

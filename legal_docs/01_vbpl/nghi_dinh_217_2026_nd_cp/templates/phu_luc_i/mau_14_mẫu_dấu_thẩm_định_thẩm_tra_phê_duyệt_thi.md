@@ -14,46 +14,46 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 14__
 
-__MẪU DẤU THẨM ĐỊNH, THẨM TRA, PHÊ DUYỆT THIẾT KẾ XÂY DỰNG__  
+__MẪU DẤU THẨM ĐỊNH, THẨM TRA, PHÊ DUYỆT THIẾT KẾ XÂY DỰNG__
 (Kích thước mẫu dấu: chiều rộng từ 4 cm đến 6 cm; chiều dài từ 6 cm đến 9 cm)
 
- 
+
 
 __MẪU DẤU XÁC NHẬN CỦA TỔ CHỨC THẨM ĐỊNH__
 
- 
 
-__(TÊN CƠ QUAN THỰC HIỆN  
+
+__(TÊN CƠ QUAN THỰC HIỆN
 THẨM ĐỊNH)__
 
-__THẨM ĐỊNH__  
-Theo Văn bản số ..../...  
-ngày ... tháng ... năm ...  
+__THẨM ĐỊNH__
+Theo Văn bản số ..../...
+ngày ... tháng ... năm ...
 Người thẩm định ký tên
 
- 
+
 
 __MẪU DẤU XÁC NHẬN CỦA TỔ CHỨC THỰC HIỆN THẨM TRA__
 
- 
 
-__(TÊN CƠ QUAN THỰC HIỆN  
+
+__(TÊN CƠ QUAN THỰC HIỆN
 THẨM TRA)__
 
-__THẨM TRA__  
-Theo Văn bản số ..../...  
-ngày ... tháng ... năm ...  
+__THẨM TRA__
+Theo Văn bản số ..../...
+ngày ... tháng ... năm ...
 Chủ trì bộ môn ký tên:
 
- 
+
 
 __MẪU DẤU XÁC NHẬN PHÊ DUYỆT THIẾT KẾ XÂY DỰNG__
 
- 
+
 
 __(TÊN CHỦ ĐẦU TƯ)__
 
-__PHÊ DUYỆT__  
-Theo Quyết định số ..../...  
-ngày ... tháng ... năm ...  
+__PHÊ DUYỆT__
+Theo Quyết định số ..../...
+ngày ... tháng ... năm ...
 Người phê duyệt ký tên:

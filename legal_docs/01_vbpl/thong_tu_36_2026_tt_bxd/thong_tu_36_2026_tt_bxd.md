@@ -1,8 +1,8 @@
-__BỘ XÂY DỰNG  
+__BỘ XÂY DỰNG
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: 36/2026/TT-BXD
@@ -168,7 +168,7 @@ Trường hợp các nội dung điều chỉnh dẫn đến hình thành gói t
 1. Dự toán gói thầu xây dựng xác định theo quy định tại Điều 13 Nghị định số 206/2026/NĐ-CP. Chủ đầu tư căn cứ vào nội dung, phạm vi, tính chất, đặc điểm, điều kiện cụ thể của từng gói thầu, xác định các khoản mục chi phí thuộc dự toán gói thầu xây dựng.
 
 <a id="dieu-7-khoan-2"></a>
-2. Dự toán gói thầu xây dựng quy định tại khoản 2 Điều 13 Nghị định số 206/2026/NĐ-CP được cập nhật khối lượng (nếu có), giá xây dựng và các quy định khác về quản lý chi phí đầu tư xây dựng tại thời điểm xác định dự toán gói thầu. Chi phí dự phòng trong dự toán gói thầu được xác định theo hướng dẫn tại Mục 2 Phụ lục II Thông tư này. 
+2. Dự toán gói thầu xây dựng quy định tại khoản 2 Điều 13 Nghị định số 206/2026/NĐ-CP được cập nhật khối lượng (nếu có), giá xây dựng và các quy định khác về quản lý chi phí đầu tư xây dựng tại thời điểm xác định dự toán gói thầu. Chi phí dự phòng trong dự toán gói thầu được xác định theo hướng dẫn tại Mục 2 Phụ lục II Thông tư này.
 
 <a id="dieu-7-khoan-3"></a>
 3. Dự toán gói thầu xây dựng quy định tại khoản 3 Điều 13 Nghị định số 206/2026/NĐ-CP được xác định theo hướng dẫn tại Mục 2 Phụ lục II Thông tư này.
@@ -336,34 +336,34 @@ c) Việc quản lý, sử dụng chi phí dự phòng;
 <a id="dieu-16-khoan-2"></a>
 2. Thông tư này bãi bỏ Thông tư số 11/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng về hướng dẫn một số nội dung xác định và quản lý chi phí đầu tư xây dựng; Thông tư số 14/2023/TT-BXD ngày 29 tháng 12 năm 2023 và Điều 1, Phụ lục III và Phụ lục V Thông tư số 60/2025/TT-BXD ngày 30 tháng 12 năm 2025.
 
-__*  
-Nơi nhận:  
-*__- Thủ tướng Chính phủ;  
-- Các Phó Thủ tướng Chính phủ;  
-- Các Bộ, cơ quan ngang Bộ;  
-- Văn phòng Quốc hội;  
-- Văn phòng Chủ tịch nước;  
-- Văn phòng Trung ương Đảng và các Ban của Đảng;  
-- Tòa án nhân dân tối cao;  
-- Viện Kiểm sát nhân dân tối cao;  
-- Kiểm toán nhà nước;  
-- Cơ quan Trung ương của các đoàn thể;  
-- UBND các tỉnh, thành phố trực thuộc Trung ương;  
-- Sở Xây dựng các tỉnh, thành phố trực thuộc Trung ương;  
-- Công báo; Cổng Thông tin điện tử Chính phủ;  
-- Bộ Xây dựng: Bộ trưởng, các Thứ trưởng;  
-- Các đơn vị thuộc Bộ Xây dựng;  
-- Cổng Thông tin điện tử Bộ Xây dựng;  
-- Cơ sở dữ liệu quốc gia về pháp luật;  
-- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật, Bộ Tư pháp;  
+__*
+Nơi nhận:
+*__- Thủ tướng Chính phủ;
+- Các Phó Thủ tướng Chính phủ;
+- Các Bộ, cơ quan ngang Bộ;
+- Văn phòng Quốc hội;
+- Văn phòng Chủ tịch nước;
+- Văn phòng Trung ương Đảng và các Ban của Đảng;
+- Tòa án nhân dân tối cao;
+- Viện Kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Cơ quan Trung ương của các đoàn thể;
+- UBND các tỉnh, thành phố trực thuộc Trung ương;
+- Sở Xây dựng các tỉnh, thành phố trực thuộc Trung ương;
+- Công báo; Cổng Thông tin điện tử Chính phủ;
+- Bộ Xây dựng: Bộ trưởng, các Thứ trưởng;
+- Các đơn vị thuộc Bộ Xây dựng;
+- Cổng Thông tin điện tử Bộ Xây dựng;
+- Cơ sở dữ liệu quốc gia về pháp luật;
+- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật, Bộ Tư pháp;
 - Lưu: VT, Cục KTQLXD.
 
-__KT. BỘ TRƯỞNG   
-THỨ TRƯỞNG  
-  
-  
-  
-  
+__KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+
+
+
+
 Bùi Xuân Dũng__
 
 __DANH MỤC PHỤ LỤC__
@@ -404,7 +404,7 @@ Mẫu báo cáo thẩm tra, thẩm định tổng mức đầu tư, dự toán x
 
 __PHỤ LỤC I__
 
-PHƯƠNG PHÁP XÁC ĐỊNH SƠ BỘ TỔNG MỨC ĐẦU TƯ XÂY DỰNG, TỔNG MỨC ĐẦU TƯ XÂY DỰNG  
+PHƯƠNG PHÁP XÁC ĐỊNH SƠ BỘ TỔNG MỨC ĐẦU TƯ XÂY DỰNG, TỔNG MỨC ĐẦU TƯ XÂY DỰNG
 *(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
 
 __I. PHƯƠNG PHÁP XÁC ĐỊNH SƠ BỘ TỔNG MỨC ĐẦU TƯ XÂY DỰNG__
@@ -425,11 +425,11 @@ Sơ bộ tổng mức đầu tư xây dựng xác định trên cơ sở suất 
 
 - kĐC: hệ số điều chỉnh suất vốn đầu tư xây dựng (nếu có). Căn cứ vào thời gian xác định, địa điểm xây dựng để xác định hệ số điều chỉnh;
 
--  chi phí bồi thường, hỗ trợ và tái định cư được xác định theo quy định tại điểm 2.1 phần I Phụ lục này;
+- chi phí bồi thường, hỗ trợ và tái định cư được xác định theo quy định tại điểm 2.1 phần I Phụ lục này;
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAaCAAAAAAiFwWTAAAABGdBTUEAALGOfPtRkwAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAM4SURBVDjLrZVrSFNhGMcPUmKIl4KoaVhidJtaFHNd1FTKL2ZQFBhNTUpJTfpQCqaBNUpJ6EqZlllWRlli3uZlrkZkIpgouqgMtMy2Oedl6q7n/feeTc0PI9flfDnPOc97fjzP//nzHIb848X8bwDmXn8BwECcr7DAVOPvu8xrW6nxjwEYDbyCMh+VURTDTua51bB/DJAv7wOyNGzSYQu+BBY4DpjuGd/WHh2ggTkxgbU8DulwtAVY6g5uEohuDoK0hvHOWWA+4bl+dUCtoyLCJOLd1bRtWSyhuhtrVhyAOSlmUnkuoNMxAJDiUkPL7/GrwtgwIHfrBqeBUiieRwND/wjLAVrd9nIzNxR14F60CVW8PiTFseSt763fA1i5S5qBA5xnrls9Q6t4Hxq+K6KEyLxdQ3cKkgfnKb83tdzM0A7imboZ07ETQ+pRlujVapVaa7KZcdaXc81pDVmDmWoAy0EnGc1ODWm0rLqhXvq6Z5xomxulkqYmySAw0VRPQ2nDV6W0/nW7Us99bux7XtI8MS0iiIippoBKHiP8PhTOy70Uzu+ULUk7637szII7gMIlNsstUcy7oNm65Gp2WHwvMJUZUpjvUYiZKaQzl2mM606lgDhkBKoV59sz2C/8amQ+A3oPGXoC6si920gJInQ0kVMoWPUJeNjCNWUFvHCO5joscX4C5AQPo39pEcaIgl+BcR2IcRhd/EoypUNykBkoXSTXRyZwhjER/ZtBK2Byu3sjBYgXcoCNzbVhp8z0AAeYFqyTAoi+K3pt7Ttjq3vxj3UXrRlWwiTorU5UCNZckxVu9C6jAO/sjIh0tR2ArmK7T96D8XaP+9/88m2Zz7HcGLkTI48yT99Q1H6ggNBRqFaK7QAIUoV0eBJXmSowAzbb2DT4NWoa5OzQwCRImwVYX3bxX3KHjgsM1PYbxoz7wulTiwL2NlJWsBaVno9prtvvKQj7ZI+SoGP1M46TSEUs9pICVYufQhtZageA7m3+Ubsjyml1kyd9RN8JWywcILps32i6Z9pC+VG7j3zkUBVB+yM2v7Jbwew2td10Gbn6mZj82rSAwTRt63nW+oRca383w9H/wrxb8SegLI8JFxZTWAAAAABJRU5ErkJggg==)- C: các khoản mục chi phí chưa được tính trong suất vốn đầu tư xây dựng (ví dụ chi phí phương án xử lý nền đất yếu…);
 
--  chi phí dự phòng được xác định theo quy định tại điểm 2.5 phần I Phụ lục này.
+- chi phí dự phòng được xác định theo quy định tại điểm 2.5 phần I Phụ lục này.
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAcCAAAAAA2fqIKAAAABGdBTUEAALGOfPtRkwAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAKcSURBVDjLjZRtSFNRGMdXVmhWUNOcujCVaGWGSpCYtlR8iUjTsD5UoBHzBTNar2QgWh9qQn4KRQo/mNlMLU0TenNoaio2tIZkboIrwelmsdl03nP+3evc1OqGz4fDc+/5cf7Py3mOgK7QBH/9AWv21e7xgXMjne39Rui7OlSq9oEf4ANnX55Iigu5O9PgJYiMiwi6bgIPOCq9DHpLpkdmmBU/5R4v+EDNjhLgm9qMnFADZepFDX+AztCNGT7lFtZB9r45Opxyerk0pspj/fyicpopJfprW4LrGCDX1dNLmPJ9WTLoj5KUj/Yfd0kl7JdtSCYstSEn+KvhXVzi2JITMRIb8JYVmwhJJpQwFL9kh7XI5mJ8LS5lQcIw86D1vssVwtX49llCOlPNIDeSh5EVOoHZ5z5l7AmT8Ts1hAXHEzzqYc+Ikt6gAvXTmOIZ0xH/V3010ughFhyW+nVwoGabpM8Zs7nmTETSIwuUSfHh4QmFOm4DgwMMK00+bAr74uius8eLZpfiwE53DoT65oXzZRi9mnsuQ15pBCxFeZnpWfcG4cia9HnuUrOg4dK6DY2YlLvlPik6kPiR2ErXpCoVh2J74CiPbo93Iyfdtnm/mTLNAc9ga9t7dBw6XwVIzfZiLEjTKdmqQi66bmGUhTJNgXWsX+DVSrXiO0CrpBh4r7JxINPiHv6Z3WzaGOkEa7dWMFqxApq04C5ogtaruPJgWuEW88bUHb32oBNsET1gtKLVrr6negHTyWidvddzrWn+3tKqErnVAVaL6olWXOIsDxau2WLN5kFALvkELkb+4SLNgY2YrpbkWzDiU/QfUH9MEJOXHp8/ButFwW4V/xQalZUVD5U906AzDVWPB/jBpQ1eOtb/eABW/FLw2G9R/pXFRJtrNAAAAABJRU5ErkJggg==)### 2 Xác định trên cơ sở các khoản mục chi phí thuộc sơ bộ tổng mức đầu tư xây dựng
 
@@ -439,7 +439,7 @@ Căn cứ thông tin từ phương án thiết kế sơ bộ của dự án về
 
 - VSB: sơ bộ tổng mức đầu tư xây dựng của dự án đầu tư xây dựng;
 
--  chi phí bồi thường, hỗ trợ và tái định cư;
+- chi phí bồi thường, hỗ trợ và tái định cư;
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAbCAAAAADpS9Y2AAAABGdBTUEAALGOfPtRkwAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAANiSURBVDjLzZRpSFRRFMfnQ5+iqCwzpwktQimkDdu0TIemDRmkKDWzHYw2jRbFsoXKhZwwyDbMLCw0FKIsJ8wtiVLCNlpGZmyccZxJjXmGM+O85f67b960UAMqfel+eO/y7rs/zvn/zzky8o9L9p8BIC7pSd/DB3AV4fLVtWxu4CQ//yVlwrABKJ/11p20FsbI0+zXw+PvY9iALdsBfQasK7Ld0IdeHjrAmzPyQh676caqyudI2YJnQwWAubMveY+mfoD0pE6Lb6GAVWGJ6oWVGKIGeBsTc7P2hF+ElcD5InHyQ5pCSuP9LXH6IUZgXrpILxDnsTmdREwjOUqwqbLdRD9bM5gNHqdlXOGIG/RPNCVZ+PXNwPEIwarKYcnHsHODAIR7/kUCkfUrg195YgURtsZWlERcR2PwhsrShKjWQVLgS6cWskTWKY8w/fjTWJx+oh6s9mjmwfQr7VIx4kdd/l6d0tat7weRtY1W2eD9ZOvp7uqlG9Zus/WajJYBQtiejnazqd3cx5osHRbey2SevXKJl0QN2kYrrSCuNH+/WP6mYvle9VQNrgclJCk2rg5sAD5GLt4dumSb/IgjXZ64a/Zmi3gpI/K4cqbO64JZEU79gk01splY5p0Hzo1purTb1SB/alfWAG/Ur10L9iPrEP88SIuBddPbgANhvdCt+eAF9C8LaKJUZpNCR7rmaYAHY7WtraiT1+GBAbBo+x3z9+JDDWkJqgbMijS8C7hKLxichO/jRBs1Mlr5hEmcLALOMIaU9aIMIsCbsAgA+h5NudPjENTRriK/Vk/+QkN8NbWRGKMn3BKEarkYwayVJ2NDxB7wALyKiwCCqp3jkk+9EXYsZHImGjxHfJHsPC/2giF1ujw0Pk3ZRrrmZnUaUxd/hg8AU6Uo/eIgm6Kcef6fpKM+nd3TTALPsizHcYKkQfOEYh8AgubgRyDOyG24NbbOa+FfE6lLdKFmfNlPgMPqpoDwfRJASxWmvfZpSiZgzzb5ANQH7KitUsd1A868EQUscFfxDng+cRUtNe7qqDONJTH5VM/8GcUvToW89wXIvXCtoLSbBmAvzilngNshHSBPci/qQAbKcwsvX3opxiJUnS04W8L4APwax1L1f4u7IVX5b2NLamPOtwZ/LtbMDTpQvgP4tsDDmuGp3wAAAABJRU5ErkJggg==)-  chi phí xây dựng;
 
@@ -463,7 +463,7 @@ Chi phí xây dựng trong sơ bộ tổng mức đầu tư xây dựng được
 
 ![](data:image/png;base64,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)Trong đó:
 
--  Chi phí xây dựng công trình trong sơ bộ tổng mức đầu tư xây dựng.
+- Chi phí xây dựng công trình trong sơ bộ tổng mức đầu tư xây dựng.
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAcCAAAAAA2fqIKAAAABGdBTUEAALGOfPtRkwAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAALCSURBVDjLjZR/SFNRFMcfYRGImdOWoZFK/iBNxXJO0SLTtEgJhYwMTMnAflDmEDOKyKg0sxyGEAiBmuEfSZFl9APSRJcxU2G6xXQLwdK99/Zwm9PtvdN5ezoXbuD559x37+fdc8733HsJbp1GrJlZZCijyc7OUzRF0Sa7JxCYB9LA0Fy18RThtdVPnP2Z9QRejx+HsagO0EkuAXyKzNCCWxDsh0qtwLV+hcm0UgDLeenY/yAIhgNZ2AuaH06mXgD4cfSKwRUEm+r5vRp5p9ICoC8KLXxlRVAaf7sys+QXuOQI803pebLyA6IcDXBAt+bvqjIhuLe6Ir+gZwmEeDxoeRhYrOVg+GCU0pGA4ZF/F4a+CDCVlzGO/zJ19QyC9r4d0ikeaJR8B6aWBKAiaoRioDryG4JDvt7DCFqubrzFZwKkxgRU3N0l6BR9AL0U5emNzdLyO9bWGxGckYi6hJRxziZPDQpKbbFRpwkv/20hhQrHgtmMxbDjwcED4FTSyszN0Ysci252lnRtITsiClPCspaCoCuyCtI6wbGAnYO4NnqEIPb97gwg4qYtJ4nd704QxIYt0mZyVXBtuLibF0uZ6P2Wgw7fBjv7OkkNI/GVYLgvLtDj2uISD5JZm+t4UJcZ1IexzoWr/uZ/BFClXMOvZtGTBTA/bTEjaG0gchmMrcsI7kOnjz575yZ6VXIFgpqEghkY8PH+iSCrkfjKzQDd4bgj7tzuk2h0guSx9EkwlFfRfAvtvekRZU2PS6Jjeh25RiZonSB1PNPRNRCO2fSzy8WyN/1tOgTmS+/FlthgGdSnnPkDq+fRRTSoL19o3962UkxXSOMCuDvh8D57grMUxYyCWnIDrD1JOWpwexXk4k1fWN1+Ys/LMsIvOe2wbJR1C3JTiiGSM48ohqYnBgf6FSra43UVbs6aVrt5ANb9Uniwf10PjA9hSt+1AAAAAElFTkSuQmCC)-  Chi phí xây dựng của công trình, hạng mục công trình thứ i thuộc dự án (i = 1 ÷ n).
 
@@ -524,7 +524,7 @@ Sơ bộ dự án bồi thường, hỗ trợ, tái định cư, giải phóng m
 
 __II. PHƯƠNG PHÁP XÁC ĐỊNH TỔNG MỨC ĐẦU TƯ XÂY DỰNG__
 
-Tổng mức đầu tư xây dựng của dự án đầu tư xây dựng được tính như sau: 
+Tổng mức đầu tư xây dựng của dự án đầu tư xây dựng được tính như sau:
 
 VTM = GBT, TĐC \+ GXD \+ GTB \+ GQLDA \+ GTV \+ GK \+ GDP     (1.4)
 
@@ -580,7 +580,7 @@ Chi phí xây dựng của công trình, hạng mục công trình thuộc dự 
 
 - kĐCXD: hệ số điều chỉnh suất chi phí xây dựng. Căn cứ vào thời gian xác định, địa điểm xây dựng để xác định hệ số điều chỉnh.
 
--  là các chi phí cho các công việc xây dựng; bộ phận, kết cấu công trình; hạng mục công trình; hệ thống kỹ thuật thuộc chi phí xây dựng công trình chưa được tính trong suất chi phí xây dựng công trình. Các chi phí này được xác định hoặc ước tính trên cơ sở hồ sơ thiết kế, phương án công nghệ, nội dung thuyết minh của dự án, tiêu chuẩn áp dụng và các yêu cầu thực tế của công trình.
+- là các chi phí cho các công việc xây dựng; bộ phận, kết cấu công trình; hạng mục công trình; hệ thống kỹ thuật thuộc chi phí xây dựng công trình chưa được tính trong suất chi phí xây dựng công trình. Các chi phí này được xác định hoặc ước tính trên cơ sở hồ sơ thiết kế, phương án công nghệ, nội dung thuyết minh của dự án, tiêu chuẩn áp dụng và các yêu cầu thực tế của công trình.
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAWCAAAAABV1cXoAAAABGdBTUEAALGOfPtRkwAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAJGSURBVDjLY/hHIWAYbAZ8+0qhAQc3/iHLgP8QAGKQ5YIvS+1EJCL3z7v37+dPMgz4f87Ucf/f/2f8RK8/dmv+TbIB/+8p2r4Fuf5ryZl3eU2kGADyMNCADObFEJ+fu/JvbgvxBvx/Z5T+F2jAcx3+O/9hJs5uJD4W/j80if/+j+H/ZSmZtzADbkgJnSQ+Hv6//PQfZIC09BuYpr8/f/2FRyo0ZmGx/A+KkSXAgfhKn+cyzAUg4tf6UOOouauXSGgyiKopfwCJzTRxmLHknh4j58LXiozFVgyiOoa+B/7DY6GGoQXCeXYHZMgS+4v/f++aefnpf4fV/3e9Atp62/DL/6PT/39rlzz3NWnX3/9OG/9/aJc4+R8WC9/MhI+CXPd9ynOg/p/Gs4DCf38BA9Nu+f+/QB/9++1R9v//L6BcuXPUCaCkx7p//344RPz/v+n8f3BC+hQskbf52JqiG6DU8FhiL8x/QAOg/m+2WfwRyH5vWgGSAxnwP8v0/zUWq2/gpPz/16nZ7f3bfoAk/7+S3vofGhwgA26lRTb9+v//RVos0KjTDTpHoC74H+r2/8eKQ/9huRERrv+jsn////f7LNBP9iv+//vx8vnbhzeBJig+/f+y5NcKHWCUAw34f150GSwM0MFj06LjZ2Z8+P/7tFz5J7CR9/x3XSoO+7LY/Or/94Z6x06rNp5foJP/H1eJ9P/VnIpJL////9jeWHMNLPLpw86KmT9u1tbu+r+7rnZqU0NVadvB33iKNKh3kFILtKzAlpAAY+LvNtYjjxAAAAAASUVORK5CYII=)2.2. Chi phí xây dựng công trình, hạng mục công trình xác định theo khối lượng, giá xây dựng tương ứng và các yêu cầu cần thiết khác của dự án, theo công thức sau:
 
@@ -594,7 +594,7 @@ Chi phí xây dựng của công trình, hạng mục công trình thuộc dự 
 
 - Zj: Giá xây dựng gồm suất chi phí, giá bộ phận, đơn vị kết cấu công trình, giá nhóm công tác xây dựng, giá công tác xây dựng theo hướng dẫn tại Phụ lục IV Thông tư này, được xác định, dự tính trong giá xây dựng các nội dung chi phí phù hợp với tiêu chuẩn, công nghệ áp dụng cho dự án, biện pháp tổ chức thi công dự kiến, yêu cầu kỹ thuật, nội dung, phạm vi công việc, đơn vị tính khối lượng.
 
--  là chi phí ước tính cho các công tác xây dựng; bộ phận, kết cấu công trình; hạng mục; hệ thống kỹ thuật; dây chuyền công nghệ, thuộc chi phí xây dựng công trình, hạng mục công trình, chưa đủ cơ sở để xác định được từ khối lượng và giá xây dựng (nếu có). Các chi phí này dự tính trên cơ sở thuyết minh báo cáo nghiên cứu khả thi, báo cáo chủ trương đầu tư, tiêu chuẩn áp dụng (nếu có) và các yêu cầu thực tế của công trình.
+- là chi phí ước tính cho các công tác xây dựng; bộ phận, kết cấu công trình; hạng mục; hệ thống kỹ thuật; dây chuyền công nghệ, thuộc chi phí xây dựng công trình, hạng mục công trình, chưa đủ cơ sở để xác định được từ khối lượng và giá xây dựng (nếu có). Các chi phí này dự tính trên cơ sở thuyết minh báo cáo nghiên cứu khả thi, báo cáo chủ trương đầu tư, tiêu chuẩn áp dụng (nếu có) và các yêu cầu thực tế của công trình.
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAUCAAAAAAYHWTjAAAABGdBTUEAALGOfPtRkwAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAJFSURBVDjLY/hHIWBA5f7/T5kB/08mfyXPgP9gQLYL/t/vz0yb/PTe3f/kGfC3RKzp5ss1miK7/i/J+0KyAf9/RfEfB9r8/4fPmof6fqSEAci9QAMmMNSAHf7/8vr/p4JIMOD/06Ljfxn+vbdlOw3x+d+//4+SZMAGhqbfDP9vKIo8gwbd/x8VKuf+QqPkPyxmoJGEIOASf0+8/8fw/7Ks+GuYAV82bbz59+ci76Ddtx+6mTo6mTpcB0n9mGDbcv97vbV78Mc1Lla9zq6WDsl7QRLgMHiqx30NKfL+//SNevZtVubxvv9Zyf/nnwRJzUz+dDrm9vdO9rX/n/ps+j/X4PWnfq7S/7BYyGPohbB/PPsDNKDK7CfQpbdffPuflfT/+zuQxLSqn//fvP//p1vlQuP+f/832//6/38zP9ANkFh4oSl5Buy7RWdAwaDR8h/qa6ABkDD40GO5BMT4U64M0rXR9icw8g16/v899h6UkP6/suRruPPxdArIW/8/yU+EhQjQgH//vn358uff/w9xTi+BIquU6+AGmPb8X8vQ8psB7O1dpZGJE99DUkNwEMg5b4G6spOBjDr/iMevf///VTDt3/99s5877P7/f5Md0AvHhLf/f1Z7FpqZkGPsgWrp13+HDwMNSAz+D5Ga0vvrm++a/+smffm/TXfX/9Vmv/+sFcv+C02JGMnjbZqI0tL//36WCgiF/QILXd6mJzb9jwOn6fNvLgI8fmJCXPw2m/5jLVDgzoGlHiQHQvM7SgrDagBpAAARwGveG2K7XwAAAABJRU5ErkJggg==)2.3. Đối với một số công trình, hạng mục công trình thuộc dự án chưa đủ cơ sở để xác định theo điểm 2.1 và điểm 2.2 thì được ước tính, dự tính trên cơ sở dữ liệu chi phí của công trình, hạng mục công trình tương tự phù hợp với yêu cầu của dự án.
 
@@ -943,7 +943,7 @@ Trong đó:
 
 \+ t: khoảng thời gian tương ứng (theo quý, năm) theo kế hoạch dự kiến xây dựng công trình (t = 1 ÷ T);
 
--  giá trị dự toán xây dựng công trình trước chi phí dự phòng thực hiện trong khoảng thời gian thứ t;
+- giá trị dự toán xây dựng công trình trước chi phí dự phòng thực hiện trong khoảng thời gian thứ t;
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAZCAAAAABBHbJRAAAABGdBTUEAALGOfPtRkwAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAMuSURBVDjLnZR7MNRRFMd/00zSmGkUxrSSGhkTQ15RWM9M1IzHaNJD490/VFqNqV2MaVEU2ewaZUYPY2sMRaixlPSHXthsXhFJSaysnVr29bunu6z1WGXq/PH7/e6d3+ee8z3n3EOg/zRi8QLUNv+h2VoFJDsZiefSaGeZn3gMeiL9jhBgMDslkZbTrlwF5FLYjHXXc7bVfLDc9bA4wLkFRBGGJdwY2yby72BFEtQZdc/QqyE4EJDYw04EeTZjMOCcKvsDqJaBxdUadak0hgTirQe6tbNgv3O2fEWQHHrxhPeqX3XqLIjUYOemAsg355bHeglW0gi/OD7hCWFbbPuWg10GRcCinEzmDC5PKw6KQLKrhkUikGboty8H6/WeQp7tlFY5YCL1ipRAfEqkGC967VvnwG4NGGovwRq/a1UR2sx2jBOK3DVlpNo9fhSsr8O5mfEI+CGIMnkJkGrM19Ynf9amJKRH9Js1Z0J7kGfIMEAx1c3emzEKwA91Pzqt3TgqjRKqyVtY6LYlhrT3F7IqcaNgUF7h5xs4wKN6V6Jy92N9NF/X3QdZKlfAj3YJui9lUh3dPJ32HB/RoMRM0MbneDEZQbCV4vjtPajHqRoEBszJWic7HHSZ+d2RfJf+kANDKT59haZDzeHj6lDlF4hSnBwyfW0jQJ/jZUVGDoDQlAUwvPUQDNhxEAiZPXFvUJb/uDKym03tn1RM3+PJCfKxTtRP7DJdpxGn85YlJ0I2ByI4s3m00qpHLVSe5T8GqNVBz8qRLzCzmiCQKFo3XwIDXkQD/ldxeAMfv+bAQn0Bx+nrfAmwR3wEN2ACQFxaJce9+o1hbbM3OMGySVXAE0aXNCDLoJft8GUpWLJvbL7lEJJNCYVTM2J8A+BaYalxy3yosTunuRads7dmAfQdW2l0vI4bRmF+ornkvKdchA4LtgI+J3TggmXsxwjcdh+RybQucis1XoJKiFOTNetj6gtcY6QAudasR6d9PwI5FGTSQCJotsq80QrLQGV10k2xspTO7C1OS6Zl8pSqqdWUTstrkyHyHeM8V4FAVkWvh5Wm3OImW5h86veiYbEU/Bf7DaDeeA32kfctAAAAAElFTkSuQmCC)\+ IXDCTbq: chỉ số giá xây dựng sử dụng tính dự pḥòng cho yếu tố trượt giá được xác định theo công thức (1.14) tại khoản 6 Phần II Phụ lục I Thông tư này, trong đó T là số quý, số năm;
 
@@ -975,7 +975,7 @@ Trong đó:
 
 Chi phí cho công việc cung cấp vật tư, thiết bị vào công trình xây dựng trong gói thầu được xác định theo công thức sau:
 
-GCCVT,TB = GMS \+ GGC \+ GQLMSTB \+ GBQ \+ GĐT \+ GVC \+ GVT \+ GKTB    (2.11) 
+GCCVT,TB = GMS \+ GGC \+ GQLMSTB \+ GBQ \+ GĐT \+ GVC \+ GVT \+ GKTB    (2.11)
 
 Trong đó:
 
@@ -993,7 +993,7 @@ Trong đó:
 
 - GVT: chi phí vật tư, thiết bị dự phòng (nếu có);
 
-- GKTB: Bảo hiểm, thuế và các loại phí, chi phí khác có liên quan (nếu có). 
+- GKTB: Bảo hiểm, thuế và các loại phí, chi phí khác có liên quan (nếu có).
 
 a) Chi phí mua sắm thiết bị trong gói thầu xác định trên cơ sở phạm vi công việc phải thực hiện của gói thầu, các chỉ dẫn kỹ thuật, khối lượng thiết bị mua sắm/gia công của gói thầu và giá thiết bị. Chi phí khác có liên quan phù hợp với thời điểm xác định dự toán gói thầu (bảo hiểm, thuế, phí,...).
 
@@ -1001,7 +1001,7 @@ b) Phương pháp xác định các nội dung chi phí trong dự toán gói th
 
 ### 3 Chi phí công việc lắp đặt thiết bị trong dự toán gói thầu (GLĐTB)
 
-Chi phí công việc lắp đặt thiết bị được xác định theo công thức sau: 
+Chi phí công việc lắp đặt thiết bị được xác định theo công thức sau:
 
 GLĐTB = GLĐ \+ GCT \+ GKLĐ    (2.12)
 
@@ -1289,7 +1289,7 @@ __*2.2.1. Xác định chi phí vật liệu (VL)*__
 
 - Vi: lượng hao phí vật liệu chủ yếu thứ i (i = 1 ÷ n) tính cho một đơn vị khối lượng công tác xây dựng trong định mức dự toán;
 
--  giá của một đơn vị vật liệu thứ i (i = 1 ÷ n) được xác định đảm bảo nguyên tắc:
+- giá của một đơn vị vật liệu thứ i (i = 1 ÷ n) được xác định đảm bảo nguyên tắc:
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAYCAAAAAC+OKDoAAAABGdBTUEAALGOfPtRkwAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAGFSURBVDjLY/hHADDQUMH////xK1gb9PQ/TMF/EPj3H0X/bXXV51AF/79e3LJi9YEXb1//hasGghuGUBP+X4hxz2tqLg6zX/4HJP80L6Pny/yk2xeMoQqOKAde/Pb/35ddCn1gBT8Xim3+v7X/PUzBUw39K2Db/8/p+Q2xPnX+/3NP/oMUAAFDNUMDxHX/3677A2GcCnp25StYwSGxTAZNoc3/EW77B/LLj6y+h///n9d/9n+fTSGDoNRxkIIPVSEJ8aGX/p+Y8f7f390F3/+/dWNM+/D/4VcGQfG9IAW/b2YzS2z7+v/T81///v18B8S3bz34BTSPQY1rCsSKHcI+P7HFRRmD/xuQiv+7RIJ+/fv79ukvlAD9x/DYkq3rOyig94oCFdz3D3yGJP/3/heGf5c92OOP/f/3ppnV59e/N0VhL5D07zQrAMbFxw2hqsKC8g7N9/7++7864TmSggNieQxI8QNirYp/jpom0NLDxwrd/X/wpagH1ZmLfuJNctCERkKiBQDctqD2fyMmkwAAAABJRU5ErkJggg==)\+ Phù hợp với tiêu chuẩn kỹ thuật, chất lượng vật liệu, yêu cầu sử dụng vật liệu của công trình, dự án;
 
@@ -1301,7 +1301,7 @@ Giá vật liệu được xác định trên cơ sở xem xét, đánh giá t�
 
 2.2.1.2. Phương pháp xác định giá vật liệu đến hiện trường công trình (Gvl)
 
-Trường hợp giá vật liệu chưa bao gồm chi phí vận chuyển đến hiện trường thì xác định giá vật liệu đến hiện trường công trình theo công thức sau: 
+Trường hợp giá vật liệu chưa bao gồm chi phí vận chuyển đến hiện trường thì xác định giá vật liệu đến hiện trường công trình theo công thức sau:
 
 Gvl = Gng \+ Cv/c \+ Cbx \+ Cvcnb \+ Chh      (4.2)
 
@@ -1384,7 +1384,7 @@ Chi phí trực tiếp được xác định theo khối lượng và đơn giá
 
 - Qj: khối lượng công tác khảo sát xây dựng thứ j (j = 1 ÷ m) được xác định phù hợp với nhiệm vụ khảo sát xây dựng;
 
--  chi phí vật liệu, nhân công, máy và thiết bị thi công trong giá công khảo sát thứ j (j = 1 ÷ m) của công trình; được xác định như quy định đối với các thành phần chi phí trong giá công tác xây dựng, giá nhóm công tác xây dựng quy định tại Phụ lục IV Thông tư này.
+- chi phí vật liệu, nhân công, máy và thiết bị thi công trong giá công khảo sát thứ j (j = 1 ÷ m) của công trình; được xác định như quy định đối với các thành phần chi phí trong giá công tác xây dựng, giá nhóm công tác xây dựng quy định tại Phụ lục IV Thông tư này.
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAAZCAAAAADfp7XxAAAABGdBTUEAALGOfPtRkwAAAAlwSFlzAAASdAAAEnQB3mYfeAAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAASRSURBVEjHzZZrTBRXFMevUAXLB9Mv/aL9hm2kGOQhSiWlLQhWsbW+EGJEEaoBFEp9UJ6mSIUiS0AoaVGgrSHxEUMQ6K6lCC0gCMGVsmxoRYq0CwvsY1h22N2Zuac7s9tldhkeTUjam0xmzr3/nN/ce8699yD8HzX0vwMDwEpy5rlbCAzaqw0rSAZTTTksD5y+unwlwTfd4hzAlFqtUZsfQk/bVNzS7CubU5rmi1iJVWtrlMYi0+opnox74Mtj9quNRra7obWbvLy9g8v+5AZ0bRIp/eQheaB0Tjfg64rcPMyisOtjll7lwHizjALtwyYFY0MMBZt9bfTy8XlXNGzpmh4Y7eg2ypqVIIrGj+//SrZKVRY9AqYYZQIYHsehIKnZKUx8/FIpnR8xzgcDk4EKAMi2o2jXICsaiXjz+ungQSLxTPjxKd7sbqPjJDC9ya5be1kZdfaN/CyPsuKQC5QoZijqxJ3qmKIqyhpjuLXmMisyXkL7JtgP1d5+LB8CPhjDV07X2DH9OXRCw77zt/8xdaSp6Cyoe0ierNcl1mCOgTF3TYDGrKfq/H6AiGS4f5AQBeQ+wZCSg5UMFyQW7JLDxYHwfvkW91H6GW4zOYKdSzhTsWldE2tLdpGqk5LoSvuMgV7Xkwb2PbVjFfujWLmnHeKyQXyYEG0+IAesiH/9ATOb9sELHhjjbHSe/XuY3NkpB9gvCDamoDyj2RaHkaqYH1OjARvp+WAMF5x2s/NS7m6D2CwQHyIKo64laMAA3f4k8d76bjtwNYrUsGrITWJA5nFQCfPBVAlKIAFmszY0Nnlm9mzJkdxTCYG/cd4yA8DcfU3Uvy1U/rn7vT3+rW9ntBfXVew3MCNSyg78HYokJsr1AGOdAI1Z6Z1C4FIUP6uoGhalFlWd+0I9eOnK7yAEvuHspf/r++mSiyXVmWk1hRfzU7Nu38gQye+m9jnGGOM89Amp6zAANwB2225uqdNQrknbZQKuOZ6Ec+Bsp1DQ9hhBoGFbVlvBxqDVNx1OhPlgjf9a8UIiXnKRO9FVwLDoJWHL6m9RmAJMOl6uGIlZBzBTio6owDjD8H3QxD+2DVzt5qkG0wwtDKVMjPkAgYpVeQCUoszF5xEYcgJ5KVXjdoy0no5XUDmAabTAeUcf6NPfV/PD0PNK4HOLDRLnUxTgscpX3btAX/SOUpBrqLo8gdFkykbkm5wUF+Z73ryHpj/drLL5pAudXLo4a/TMBhSQkhQb4pfxDECdEEjwwXVo3dfcmo1neiL3xORT4X6JMoy1GdsmBMHTweufYqRrrJfU19Y2/DxEsyn1ImByzud4z+FfOEvd0MCJ2oYZVjQYouWDdS0FZZYjSFwvbqitrW/9zcDK+j4UBtPybpKNMT/Z4DkfDIbT1vnbi2R2YHMuVPwkJJMuABa6j+3BdOUDocR0BFOdIkZI9u/Ab/Fi3PFIMC1BFmoX4/47gmUSSD+aXC4YYDCcBvurXsDj00gGFqunrL3t8bplgqEl5FDLUgUP1AdFdS6jKnoWtreZXu6MDVNaZsnyaXZyaRFbLk1pFuHivwGZ2FVljo0bSAAAAABJRU5ErkJggg==)### 1.2 Chi phí gián tiếp (GT)
 
@@ -1720,28 +1720,28 @@ Hồ sơ tổng mức đầu tư xây dựng dự án (*tên dự án*) đủ đ
 
 __*7.2. Kiến nghị (nếu có)*__
 
-__NGƯỜI THẨM TRA  
+__NGƯỜI THẨM TRA
 __*(Ký, họ tên)*
 
-__NGƯỜI CHỦ TRÌ  
+__NGƯỜI CHỦ TRÌ
 __*(Ký, họ tên)*
 
-__  
-Nơi nhận:*  
-*__- Như trên;  
+__
+Nơi nhận:*
+*__- Như trên;
 - Lưu.
 
-__ĐƠN VỊ THẨM TRA  
+__ĐƠN VỊ THẨM TRA
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
 __Mẫu số 02: Thông báo kết quả thẩm định tổng mức đầu tư xây dựng của cơ quan chuyên môn về xây dựng__
 
-__CƠ QUAN CHUYÊN MÔN  
-VỀ XÂY DỰNG__1__  
+__CƠ QUAN CHUYÊN MÔN
+VỀ XÂY DỰNG__1__
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 (Số hiệu văn bản)
@@ -1830,7 +1830,7 @@ __*2.2. Hồ sơ, tài liệu trình thẩm định*__
 
 __*5.1. Sự đầy đủ, tính hợp lệ của hồ sơ trình thẩm định tổng mức đầu tư xây dựng; các căn cứ pháp lý để xác định tổng mức đầu tư xây dựng*__
 
-5.1.1. Sự đầy đủ, tính hợp lệ của hồ sơ trình thẩm định tổng mức đầu tư xây dựng 
+5.1.1. Sự đầy đủ, tính hợp lệ của hồ sơ trình thẩm định tổng mức đầu tư xây dựng
 
 5.1.2. Các căn cứ pháp lý để xác định tổng mức đầu tư xây dựng
 
@@ -1838,13 +1838,13 @@ __*5.2. Đánh giá sự đầy đủ các khoản mục chi phí trong tổng m
 
 5.2.1. Sự đầy đủ các khoản mục chi phí trong tổng mức đầu tư xây dựng
 
-5.2.2. Phương pháp xác định các khoản mục chi phí trong tổng mức đầu tư xây dựng so với thiết kế xây dựng và các nội dung, yêu cầu của dự án 
+5.2.2. Phương pháp xác định các khoản mục chi phí trong tổng mức đầu tư xây dựng so với thiết kế xây dựng và các nội dung, yêu cầu của dự án
 
 a) Đối với chi phí xây dựng.
 
 b) Đối với chi phí thiết bị.
 
-c) Đối với chi phí quản lý dự án, chi phí tư vấn xây dựng, chi phí khác. 
+c) Đối với chi phí quản lý dự án, chi phí tư vấn xây dựng, chi phí khác.
 
 d) Đối với chi phí dự phòng.
 
@@ -1860,13 +1860,13 @@ __*5.3. Yêu cầu về việc hoàn thiện hồ sơ và tổng mức đầu t�
 
 Trên đây là thông báo của *(cơ quan chuyên môn về xây dựng) *về kết quả thẩm định tổng mức đầu tư xây dựng dự án *(tên dự án/công trình của dự án)*. Đề nghị (*cơ quan chuẩn bị dự án*) nghiên cứu thực hiện theo quy định./.
 
-__*  
-*Nơi nhận:  
-__- Như trên;  
-- ….;  
-- Lưu:... 
+__*
+*Nơi nhận:
+__- Như trên;
+- ….;
+- Lưu:...
 
-__CƠ QUAN CHUYÊN MÔN VỀ XÂY DỰNG  
+__CƠ QUAN CHUYÊN MÔN VỀ XÂY DỰNG
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -1875,11 +1875,11 @@ __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
 __Mẫu số 03: Thông báo kết quả thẩm định tổng mức đầu tư xây dựng của cơ quan được người quyết định đầu tư giao chủ trì thẩm định__
 
-__CƠ QUAN/ĐƠN VỊ ĐƯỢC NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ GIAO THẨM ĐỊNH  
+__CƠ QUAN/ĐƠN VỊ ĐƯỢC NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ GIAO THẨM ĐỊNH
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 (Số hiệu văn bản)
@@ -1984,22 +1984,22 @@ __*2.2. Hồ sơ, tài liệu trình thẩm định*__
 
 Trên đây là thông báo của *(Cơ quan/Đơn vị được Người quyết định đầu tư giao thẩm định) *về kết quả thẩm định tổng mức đầu tư xây dựng dự án *(tên dự án)*. Đề nghị (*cơ quan chuẩn bị dự án*) nghiên cứu thực hiện theo quy định./.
 
-__*  
-*Nơi nhận:  
-__- Như trên;  
-- …;  
+__*
+*Nơi nhận:
+__- Như trên;
+- …;
 - Lưu.
 
-__CƠ QUAN/ĐƠN VỊ ĐƯỢC NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ GIAO THẨM ĐỊNH  
+__CƠ QUAN/ĐƠN VỊ ĐƯỢC NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ GIAO THẨM ĐỊNH
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
 __Mẫu số 04: Báo cáo kết quả thẩm định tổng mức đầu tư xây dựng đối với dự án lập thiết kế FEED, thiết kế kỹ thuật tại Báo cáo nghiên cứu khả thi, dự án chỉ yêu cầu lập Báo cáo kinh tế - kỹ thuật__
 
-__CHỦ ĐẦU TƯ  
+__CHỦ ĐẦU TƯ
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 (Số hiệu văn bản)
@@ -2172,13 +2172,13 @@ __Tổng cộng__
 
 - Kiến nghị (nếu có).
 
-__*  
-*Nơi nhận:  
-__- Như trên;  
-- …;  
+__*
+*Nơi nhận:
+__- Như trên;
+- …;
 - Lưu.
 
-__CƠ QUAN THẨM ĐỊNH  
+__CƠ QUAN THẨM ĐỊNH
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -2187,11 +2187,11 @@ __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
 __Mẫu số 05: Báo cáo kết quả thẩm tra dự toán xây dựng công trình__
 
-__ĐƠN VỊ THẨM TRA  
+__ĐƠN VỊ THẨM TRA
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 (Số hiệu văn bản)
@@ -2334,29 +2334,29 @@ __Tổng cộng__
 
 - Một số kiến nghị khác (nếu có).
 
-__NGƯỜI THẨM TRA  
+__NGƯỜI THẨM TRA
 __*(Ký, họ tên)*
 
-__NGƯỜI CHỦ TRÌ  
+__NGƯỜI CHỦ TRÌ
 __*(Ký, họ tên)*
 
-__*  
-*Nơi nhận:*  
-*__- Như trên;  
-- …;  
+__*
+*Nơi nhận:*
+*__- Như trên;
+- …;
 - Lưu.
 
-__ĐƠN VỊ THẨM TRA   
+__ĐƠN VỊ THẨM TRA
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
 __Mẫu số 06: Thông báo kết quả thẩm định dự toán xây dựng công trình của cơ quan chuyên môn về xây dựng đối với các công trình xây dựng thuộc tiểu dự án hoặc hạng mục sử dụng vốn đầu tư công của dự án PPP__
 
-__CƠ QUAN CHUYÊN MÔN  
-VỀ XÂY DỰNG  
+__CƠ QUAN CHUYÊN MÔN
+VỀ XÂY DỰNG
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 (Số hiệu văn bản)
@@ -2479,23 +2479,23 @@ __*5.4. Yêu cầu về việc hoàn thiện hồ sơ và dự toán xây dựng
 
 Trên đây là thông báo của *(cơ quan chuyên môn về xây dựng) *về kết quả thẩm định dự toán xây dựng công trình *(tên công trình của dự án)*. Đề nghị (*chủ đầu tư*) nghiên cứu thực hiện theo quy định.
 
-__*  
-*Nơi nhận:  
-__- Như trên;  
--…;  
-- Lưu. 
+__*
+*Nơi nhận:
+__- Như trên;
+-…;
+- Lưu.
 
-__CƠ QUAN CHUYÊN MÔN VỀ XÂY DỰNG  
+__CƠ QUAN CHUYÊN MÔN VỀ XÂY DỰNG
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
 __Mẫu số 07: Báo cáo kết quả thẩm định dự toán xây dựng công trình__
 
-__CƠ QUAN/ĐƠN VỊ3  
-THẨM ĐỊNH  
+__CƠ QUAN/ĐƠN VỊ3
+THẨM ĐỊNH
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 (Số hiệu văn bản)
@@ -2656,12 +2656,12 @@ __Tổng cộng__
 
 - Kiến nghị (nếu có).
 
-__  
-Nơi nhận:  
-__- Như trên;  
+__
+Nơi nhận:
+__- Như trên;
 - Lưu.
 
-__CƠ QUAN/ĐƠN VỊ THẨM ĐỊNH  
+__CƠ QUAN/ĐƠN VỊ THẨM ĐỊNH
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -2674,4 +2674,3 @@ __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
 <a id="dieu-16-khoan-2"></a>
 2. \[2\] Loại công trình được phân loại theo quy định của Nghị định quy định chi tiết một số điều của Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng. [↑](#footnote-ref-3)
-

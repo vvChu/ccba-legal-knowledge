@@ -1,15 +1,15 @@
-__CHÍNH PHỦ  
+__CHÍNH PHỦ
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: 206/2026/NĐ-CP
 
 *Hà Nội, ngày 15 tháng 6 năm 2026*
 
- 
+
 
 __NGHỊ ĐỊNH__
 
@@ -945,43 +945,42 @@ __ĐIỀU KHOẢN THI HÀNH__
 1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.
 
 <a id="dieu-38-khoan-2"></a>
-2. Các nội dung quy định tại khoản 2 Điều 1 Nghị định này thực hiện theo quy định tại Nghị định quy định chi tiết về hợp đồng xây dựng, Nghị định quy định về quyết toán vốn đầu tư dự án, các quy định của pháp luật về ngân sách nhà nước, đầu tư công, đầu tư theo phương thức đối tác công tư và các quy định của pháp luật có liên quan khác. 
+2. Các nội dung quy định tại khoản 2 Điều 1 Nghị định này thực hiện theo quy định tại Nghị định quy định chi tiết về hợp đồng xây dựng, Nghị định quy định về quyết toán vốn đầu tư dự án, các quy định của pháp luật về ngân sách nhà nước, đầu tư công, đầu tư theo phương thức đối tác công tư và các quy định của pháp luật có liên quan khác.
 
 <a id="dieu-38-khoan-3"></a>
 3. Nghị định số 10/2021/NĐ-CP ngày 09 tháng 02 năm 2021 của Chính phủ về quản lý chi phí đầu tư xây dựng hết hiệu lực kể từ ngày Nghị định này có hiệu lực.
 
- 
 
- 
 
-__*Nơi nhận:  
-*__- Ban Bí thư Trung ương Đảng;  
-- Thủ tướng, các Phó Thủ tướng Chính phủ;  
-- Các bộ, cơ quan ngang bộ;  
-- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;  
-- Văn phòng Trung ương và các Ban của Đảng;  
-- Văn phòng Tổng Bí thư;  
-- Văn phòng Chủ tịch nước;  
-- Hội đồng Dân tộc và các Ủy ban của Quốc hội;  
-- Văn phòng Quốc hội;  
-- Tòa án nhân dân tối cao;  
-- Viện kiểm sát nhân dân tối cao;  
-- Kiểm toán nhà nước;  
-- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;  
-- Cơ quan trung ương của các tổ chức chính trị - xã hội;  
-- VPCP: BTCN, các PCN, Trợ lý TTg,  
-các Vụ, Cục, Công báo;  
+
+
+__*Nơi nhận:
+*__- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các tổ chức chính trị - xã hội;
+- VPCP: BTCN, các PCN, Trợ lý TTg,
+các Vụ, Cục, Công báo;
 - Lưu: VT, CN (2).
 
-__TM. CHÍNH PHỦ  
-KT. THỦ TƯỚNG  
-PHÓ THỦ TƯỚNG  
-  
-  
-  
-  
+__TM. CHÍNH PHỦ
+KT. THỦ TƯỚNG
+PHÓ THỦ TƯỚNG
+
+
+
+
 Phạm Gia Túc__
 
- 
 
- 
+

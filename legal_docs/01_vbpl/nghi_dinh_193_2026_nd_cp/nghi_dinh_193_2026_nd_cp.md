@@ -1,8 +1,8 @@
-__CHÍNH PHỦ__  
+__CHÍNH PHỦ__
 __-------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: 193/2026/NĐ-CP
@@ -857,34 +857,34 @@ d) Cụm từ “quyết toán vốn đầu tư công dự án hoàn thành” t
 <a id="dieu-31-khoan-6"></a>
 6. Trường hợp các văn bản quy phạm pháp luật dẫn chiếu trong Nghị định này được thay thế hoặc sửa đổi, bổ sung thì thực hiện theo văn bản thay thế hoặc sửa đổi, bổ sung đó./.
 
-__*  
-Nơi nhận:*__  
-- Ban Bí thư Trung ương Đảng;  
-- Thủ tướng, các Phó Thủ tướng Chính phủ;  
-- Các bộ, cơ quan ngang bộ;  
-- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;  
--Văn phòng Trung ương và các Ban của Đảng;  
--Văn phòng Tổng Bí thư;  
-- Văn phòng Chủ tịch nước;  
-- Hội đồng Dân tộc và các Ủy ban của Quốc hội;  
-- Văn phòng Quốc hội;  
-- Tòa án nhân dân tối cao;  
-- Viện kiểm sát nhân dân tối cao;  
-- Kiểm toán nhà nước;  
-- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;  
-- Cơ quan trung ương của các tổ chức chính trị - xã hội;  
-- Các tập đoàn, tổng công ty nhà nước;  
-- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT,  
-các Vụ, Cục, đơn vị trực thuộc, Công báo;  
+__*
+Nơi nhận:*__
+- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+-Văn phòng Trung ương và các Ban của Đảng;
+-Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các tổ chức chính trị - xã hội;
+- Các tập đoàn, tổng công ty nhà nước;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT,
+các Vụ, Cục, đơn vị trực thuộc, Công báo;
 - Lưu: VT, KTTH (2).
 
-__TM. CHÍNH PHỦ__  
-__KT. THỦ TƯỚNG__  
-__PHÓ THỦ TƯỚNG__  
-  
-  
-  
-  
+__TM. CHÍNH PHỦ__
+__KT. THỦ TƯỚNG__
+__PHÓ THỦ TƯỚNG__
+
+
+
+
 __Nguyễn Văn Thắng__
 
 __Phụ lục__
@@ -905,8 +905,8 @@ Về việc bổ sung, hoàn thiện hồ sơ, tài liệu quyết toán hợp �
 
 __Mẫu số 01/QTDA__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 *........., ngày .... tháng .... năm .........*
@@ -1007,24 +1007,24 @@ __*Bằng số: *__.............................................................
 
 __*Bằng chữ: *__....................................................................
 
-__NHÀ THẦU  
+__NHÀ THẦU
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
-__CHỦ ĐẦU TƯ  
+__CHỦ ĐẦU TƯ
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
 __Mẫu số 02/QTDA__
 
-CƠ QUAN QUYẾT ĐỊNH  
-THÀNH LẬP CHỦ ĐẦU TƯ  
-__CHỦ ĐẦU TƯ  
+CƠ QUAN QUYẾT ĐỊNH
+THÀNH LẬP CHỦ ĐẦU TƯ
+__CHỦ ĐẦU TƯ
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM__   
-__Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM__
+__Độc lập - Tự do - Hạnh phúc
 ---------------__
 
-Số: .../........  
+Số: .../........
 V/v bổ sung, hoàn thiện hồ sơ, tài liệu quyết toán hợp đồng dự án (lần....)
 
 *..., ngày ... tháng ... năm...*
@@ -1057,13 +1057,13 @@ Quá thời gian trên, .......... (tên chủ đầu tư) chưa nhận được
 
 ..... (tên chủ đầu tư) có ý kiến để ..... (tên nhà thầu) biết và phối hợp thực hiện.
 
-__*  
-Nơi nhận:*__  
-- Như trên;  
-- Người quyết định đầu tư (để báo cáo);  
-- Cơ quan thẩm tra quyết toán;  
-- Cơ quan thanh toán;  
+__*
+Nơi nhận:*__
+- Như trên;
+- Người quyết định đầu tư (để báo cáo);
+- Cơ quan thẩm tra quyết toán;
+- Cơ quan thanh toán;
 - Lưu ....
 
-__CHỦ ĐẦU TƯ  
+__CHỦ ĐẦU TƯ
 __*(Ký, ghi rõ họ tên và đóng dấu)*

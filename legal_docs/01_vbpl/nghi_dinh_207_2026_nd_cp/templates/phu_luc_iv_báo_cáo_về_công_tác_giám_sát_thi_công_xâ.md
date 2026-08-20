@@ -13,36 +13,36 @@ usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC A
 
 __PHỤ LỤC IV__
 
-BÁO CÁO VỀ CÔNG TÁC GIÁM SÁT THI CÔNG XÂY DỰNG CÔNG TRÌNH  
+BÁO CÁO VỀ CÔNG TÁC GIÁM SÁT THI CÔNG XÂY DỰNG CÔNG TRÌNH
 *(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)*
 
 Phụ lục IVa. Báo cáo định kỳ về công tác giám sát thi công xây dựng công trình.
 
 Phụ lục IVb. Báo cáo hoàn thành công tác giám sát thi công xây dựng gói thầu, giai đoạn, hạng mục công trình, công trình xây dựng.
 
- 
+
 
 __Phụ lục Iva__
 
-....(1)....__  
+....(1)....__
 __-------
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: ..../.......
 
 *.........., ngày ....... tháng ........ năm ..........*
 
- 
 
-__BÁO CÁO  
+
+__BÁO CÁO
 ____ĐỊNH KỲ VỀ CÔNG TÁC GIÁM SÁT THI CÔNG XÂY DỰNG CÔNG TRÌNH/HẠNG MỤC CÔNG TRÌNH__
 
 Kính gửi: .........(2)...........
 
- 
+
 
 ......(1).... báo cáo về tình hình giám sát thi công xây dựng công trình/hạng mục công trình ....(3).... từ ngày ..... đến ngày ..... như sau:
 
@@ -76,11 +76,11 @@ c) Đánh giá việc thực hiện các nội dung của biện pháp bảo đ�
 
 **9.** Đề xuất, kiến nghị về tiến độ, nhân sự, thiết kế và các vấn đề kỹ thuật khác.
 
- 
 
- 
 
-__GIÁM SÁT TRƯỞNG  
+
+
+__GIÁM SÁT TRƯỞNG
 __*(Ký, ghi rõ họ tên)*
 
 ______________________________
@@ -95,26 +95,26 @@ __*Ghi chú:*__
 
 (4) Trường hợp trong kỳ báo cáo có sự cố công trình thì gửi kèm báo cáo là hồ sơ giải quyết sự cố công trình theo quy định.
 
- 
+
 
 __Phụ lục Ivb__
 
-....(1)....__  
+....(1)....__
 __-------
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: ...../....
 
 *........, ngày ....... tháng ...... năm .......*
 
- 
 
-__BÁO CÁO  
-____HOÀN THÀNH CÔNG TÁC GIÁM SÁT THI CÔNG__  
-__XÂY DỰNG GÓI THẦU/GIAI ĐOẠN/HẠNG MỤC CÔNG TRÌNH/__  
+
+__BÁO CÁO
+____HOÀN THÀNH CÔNG TÁC GIÁM SÁT THI CÔNG__
+__XÂY DỰNG GÓI THẦU/GIAI ĐOẠN/HẠNG MỤC CÔNG TRÌNH/__
 __CÔNG TRÌNH XÂY DỰNG__
 
 Kính gửi: ..........(2).........
@@ -151,14 +151,14 @@ b) Đánh giá sự phù hợp về quy mô, công năng của công trình so v
 
 **13.** Đánh giá về các điều kiện nghiệm thu hoàn thành gói thầu, giai đoạn, hạng mục công trình, công trình xây dựng.
 
- 
 
-__GIÁM SÁT TRƯỞNG__  
+
+__GIÁM SÁT TRƯỞNG__
 *(Ký, ghi rõ họ tên)*
 
-__NGƯỜI ĐẠI DIỆN  
-THEO QUY ĐỊNH PHÁP LUẬT CỦA  
-.....(1).....  
+__NGƯỜI ĐẠI DIỆN
+THEO QUY ĐỊNH PHÁP LUẬT CỦA
+.....(1).....
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
 ______________________________

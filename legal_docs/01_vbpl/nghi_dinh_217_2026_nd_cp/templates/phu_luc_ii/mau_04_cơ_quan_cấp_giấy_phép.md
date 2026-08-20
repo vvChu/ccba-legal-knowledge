@@ -14,21 +14,21 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 04__
 
-__CƠ QUAN CẤP GIẤY PHÉP  
-XÂY DỰNG...  
+__CƠ QUAN CẤP GIẤY PHÉP
+XÂY DỰNG...
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
- 
+
 
 *..., ngày ... tháng ... năm ...*
 
- 
 
-__GIẤY PHÉP SỬA CHỮA, CẢI TẠO, DI DỜI/GIẤY PHÉP XÂY DỰNG ĐIỀU CHỈNH/GIA HẠN__  
+
+__GIẤY PHÉP SỬA CHỮA, CẢI TẠO, DI DỜI/GIẤY PHÉP XÂY DỰNG ĐIỀU CHỈNH/GIA HẠN__
 Số: .../GPSC (GPCT; GPDD)
 
 **1.** Cấp cho: ..............; Số định danh cá nhân/Mã số doanh nghiệp:................................
@@ -95,11 +95,11 @@ Số: .../GPSC (GPCT; GPDD)
 
 **6.** Giấy phép này có hiệu lực khởi công xây dựng trong thời hạn 12 tháng kể từ ngày cấp; quá thời hạn trên thì phải đề nghị gia hạn giấy phép xây dựng.
 
- 
 
-__*Nơi nhận:*__  
-- Chủ đầu tư;  
+
+__*Nơi nhận:*__
+- Chủ đầu tư;
 - Lưu: VT, ....
 
-__CƠ QUAN CẤP GIẤY PHÉP XÂY DỰNG__  
+__CƠ QUAN CẤP GIẤY PHÉP XÂY DỰNG__
 *(Ký tên, đóng dấu)*

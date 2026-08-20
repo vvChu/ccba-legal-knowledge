@@ -2,7 +2,7 @@
 
 ## QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ NHÀ CHUNG CƯ
 
-*Amendment 01:2026 QCVN 04:2021/BXD*  
+*Amendment 01:2026 QCVN 04:2021/BXD*
 *National technical regulation on apartment buildings*
 
 ### Lời nói đầu
@@ -119,8 +119,8 @@ b) Phân vùng riêng biệt và khoảng cách an toàn:
 + Tách biệt khu vực sạc xe điện và các khu vực khác.
 + Tách biệt phân vùng để sạc xe ô tô điện và phân vùng để sạc xe mô tô điện, xe gắn máy điện, xe đạp điện.
 + Khu vực sạc xe điện được bố trí thành một hoặc nhiều phân vùng riêng biệt (không áp dụng khi bố trí ở khu vực ngoài trời trên mặt đất). Số lượng chỗ sạc trong mỗi phân vùng:
-  - Khi bố trí trong tầng bán hầm và tầng hầm không lớn hơn 25 chỗ sạc cho ô tô điện hoặc 50 chỗ sạc cho mô tô điện, xe gắn máy điện, xe đạp điện;
-  - Khi bố trí ở các tầng trên mặt đất không lớn hơn 30 chỗ sạc cho ô tô điện hoặc 80 chỗ sạc cho mô tô điện, xe gắn máy điện, xe đạp điện.
+- Khi bố trí trong tầng bán hầm và tầng hầm không lớn hơn 25 chỗ sạc cho ô tô điện hoặc 50 chỗ sạc cho mô tô điện, xe gắn máy điện, xe đạp điện;
+- Khi bố trí ở các tầng trên mặt đất không lớn hơn 30 chỗ sạc cho ô tô điện hoặc 80 chỗ sạc cho mô tô điện, xe gắn máy điện, xe đạp điện.
 + Duy trì khoảng ngăn cách tối thiểu 2 m giữa các phân vùng sạc xe điện; Trường hợp không đảm bảo khoảng cách trên, phải sử dụng tường hoặc vách ngăn đặc bằng vật liệu không cháy với chiều cao tối thiểu 2 m.
 
 c) Kích thước chỗ sạc phải tính thêm kích thước bố trí trụ sạc được sử dụng.
@@ -131,8 +131,8 @@ e) Yêu cầu về phòng cháy chữa cháy cho khu vực để xe điện tron
 
 + Khu vực sạc phải được bố trí thành khoang cháy riêng.
 + Khu vực sạc (không phụ thuộc vào diện tích) phải có:
-  - Hệ thống báo cháy tự động, hệ thống camera giám sát kết nối về phòng trực có người trực 24/24 giờ;
-  - Hệ thống chữa cháy tự động.
+- Hệ thống báo cháy tự động, hệ thống camera giám sát kết nối về phòng trực có người trực 24/24 giờ;
+- Hệ thống chữa cháy tự động.
 + Hệ thống thông gió thoát khói phải đảm bảo duy trì chiều cao biên dưới của lớp khói không thấp hơn quy định tại Phụ lục D của QCVN 06:2022/BXD và Sửa đổi 1:2023 QCVN 06:2022/BXD.
 + Phải có cảnh báo khí carbon monoxide (CO) và Hydrofluoric acid (HF), các thiết bị này phải phù hợp với các quy định của pháp luật và phải được chứng nhận chất lượng trước khi lắp đặt.
 + Có phương án xử lý tình huống cháy nổ phù hợp với tính chất của xe điện.
@@ -141,26 +141,26 @@ f) Đối với khu vực sạc xe ô tô điện (không áp dụng khi bố tr
 
 + Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy không lớn hơn 1 500 m2 nếu bố trí ở các tầng trên mặt đất hoặc không lớn hơn 1 200 m2 nếu bố trí trong tầng bán hầm hoặc tầng hầm. Trong một số trường hợp riêng biệt, cho phép mở rộng diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy này khi có luận chứng kỹ thuật phù hợp với quy định của QCVN 06:2022/BXD và Sửa đổi 1:2023 QCVN 06:2022/BXD.
 + Khoang cháy phải được ngăn cách bằng một trong các cách sau:
-  - Tường ngăn cháy loại 1;
-  - Khoảng trống (hoặc đường xe chạy) trên đó không bố trí vật liệu cháy có chiều rộng không nhỏ hơn 6 m;
-  - Khoảng trống (hoặc đường xe chạy) trên đó không bố trí vật liệu cháy có chiều rộng nhỏ hơn 6 m và có trang bị màn nước drencher trong phạm vi chiều rộng khoảng trống. Màn nước phải bố trí thành 2 dải cách nhau 0,5 m và với cường độ phun không nhỏ hơn 1 l/s cho mỗi mét chiều dài màn nước (tính chung cho cả 2 dải). Khoảng thời gian duy trì màn nước ít nhất là 1 giờ. Ngoài ra, phải có giải pháp ngăn chặn lan truyền khói giữa các khoang cháy.
+- Tường ngăn cháy loại 1;
+- Khoảng trống (hoặc đường xe chạy) trên đó không bố trí vật liệu cháy có chiều rộng không nhỏ hơn 6 m;
+- Khoảng trống (hoặc đường xe chạy) trên đó không bố trí vật liệu cháy có chiều rộng nhỏ hơn 6 m và có trang bị màn nước drencher trong phạm vi chiều rộng khoảng trống. Màn nước phải bố trí thành 2 dải cách nhau 0,5 m và với cường độ phun không nhỏ hơn 1 l/s cho mỗi mét chiều dài màn nước (tính chung cho cả 2 dải). Khoảng thời gian duy trì màn nước ít nhất là 1 giờ. Ngoài ra, phải có giải pháp ngăn chặn lan truyền khói giữa các khoang cháy.
 + Khoảng cách từ trụ sạc đến các khu vực tập kết chất, vật liệu dễ bắt cháy không có vách ngăn tối thiểu là 10 m. Trường hợp nhỏ hơn 10 m phải có tường hoặc vách ngăn đặc làm bằng vật liệu không cháy có chiều cao tối thiểu 2 m.
 
 g) Đối với khu vực sạc xe mô tô điện, xe gắn máy điện, xe đạp điện (không áp dụng khi bố trí ở khu vực ngoài trời trên mặt đất) phải tuân thủ các quy định bổ sung sau:
 
 + Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy không lớn hơn 500 m2 nếu bố trí ở các tầng trên mặt đất hoặc không lớn hơn 300 m2 nếu bố trí trong tầng bán hầm hoặc tầng hầm. Trong một số trường hợp riêng biệt, cho phép mở rộng diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy này khi có luận chứng kỹ thuật phù hợp với quy định của QCVN 06:2022/BXD và Sửa đổi 1:2023 QCVN 06:2022/BXD.
 + Khoang cháy phải được ngăn cách bằng một trong các cách sau:
-  - Tường ngăn cháy loại 1;
-  - Khoảng trống (hoặc đường xe chạy) trên đó không bố trí vật liệu cháy có chiều rộng không nhỏ hơn 6 m;
-  - Khoảng trống (hoặc đường xe chạy) trên đó không bố trí vật liệu cháy có chiều rộng nhỏ hơn 6 m và có trang bị màn nước drencher trong phạm vi chiều rộng khoảng trống. Màn nước phải bố trí thành 2 dải cách nhau 0,5 m và với cường độ phun không nhỏ hơn 1 l/s cho mỗi mét chiều dài màn nước (tính chung cho cả 2 dải). Khoảng thời gian duy trì màn nước ít nhất là 1 giờ. Ngoài ra, phải có giải pháp ngăn chặn lan truyền khói giữa các khoang cháy.
+- Tường ngăn cháy loại 1;
+- Khoảng trống (hoặc đường xe chạy) trên đó không bố trí vật liệu cháy có chiều rộng không nhỏ hơn 6 m;
+- Khoảng trống (hoặc đường xe chạy) trên đó không bố trí vật liệu cháy có chiều rộng nhỏ hơn 6 m và có trang bị màn nước drencher trong phạm vi chiều rộng khoảng trống. Màn nước phải bố trí thành 2 dải cách nhau 0,5 m và với cường độ phun không nhỏ hơn 1 l/s cho mỗi mét chiều dài màn nước (tính chung cho cả 2 dải). Khoảng thời gian duy trì màn nước ít nhất là 1 giờ. Ngoài ra, phải có giải pháp ngăn chặn lan truyền khói giữa các khoang cháy.
 
 h) Đối với khu vực sạc bố trí cả phân vùng sạc xe ô tô điện và phân vùng sạc xe mô tô điện, xe gắn máy điện, xe đạp điện (không áp dụng khi bố trí ở khu vực ngoài trời trên mặt đất) phải tuân thủ các quy định bổ sung sau:
 
 + Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy không lớn hơn 1 500 m2 nếu bố trí ở các tầng trên mặt đất hoặc không lớn hơn 1 200 m2 nếu bố trí trong tầng bán hầm hoặc tầng hầm. Trong một số trường hợp riêng biệt, cho phép mở rộng diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy này khi có luận chứng kỹ thuật phù hợp với quy định của QCVN 06:2022/BXD và Sửa đổi 1:2023 QCVN 06:2022/BXD.
 + Khoang cháy phải được ngăn cách bằng một trong các cách sau:
-  - Tường ngăn cháy loại 1;
-  - Khoảng trống (hoặc đường xe chạy) trên đó không bố trí vật liệu cháy có chiều rộng không nhỏ hơn 6 m;
-  - Khoảng trống (hoặc đường xe chạy) trên đó không bố trí vật liệu cháy có chiều rộng nhỏ hơn 6 m và có trang bị màn nước drencher trong phạm vi chiều rộng khoảng trống. Màn nước phải bố trí thành 2 dải cách nhau 0,5 m và với cường độ phun không nhỏ hơn 1 l/s cho mỗi mét chiều dài màn nước (tính chung cho cả 2 dải). Khoảng thời gian duy trì màn nước ít nhất là 1 giờ. Ngoài ra, phải có giải pháp ngăn chặn lan truyền khói giữa các khoang cháy.
+- Tường ngăn cháy loại 1;
+- Khoảng trống (hoặc đường xe chạy) trên đó không bố trí vật liệu cháy có chiều rộng không nhỏ hơn 6 m;
+- Khoảng trống (hoặc đường xe chạy) trên đó không bố trí vật liệu cháy có chiều rộng nhỏ hơn 6 m và có trang bị màn nước drencher trong phạm vi chiều rộng khoảng trống. Màn nước phải bố trí thành 2 dải cách nhau 0,5 m và với cường độ phun không nhỏ hơn 1 l/s cho mỗi mét chiều dài màn nước (tính chung cho cả 2 dải). Khoảng thời gian duy trì màn nước ít nhất là 1 giờ. Ngoài ra, phải có giải pháp ngăn chặn lan truyền khói giữa các khoang cháy.
 + Tổng số chỗ sạc cho mô tô điện, xe gắn máy điện, xe đạp điện trong một khoang cháy không lớn hơn 100 đối với tầng bán hầm hoặc tầng hầm hoặc không được lớn hơn 160 đối với các tầng trên mặt đất.
 
 i) Phòng cháy chữa cháy đối với khu vực sạc xe điện ngoài nhà chung cư.

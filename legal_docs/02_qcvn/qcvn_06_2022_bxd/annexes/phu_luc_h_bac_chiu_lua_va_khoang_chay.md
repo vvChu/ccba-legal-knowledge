@@ -387,21 +387,21 @@ Khi trang bị chữa cháy tự động toàn nhà cho nhà sản xuất, cho p
 > [!NOTE]
 > **Sửa đổi, bổ sung Bảng H.9 như sau: (Thông tư số 09/2023/TT-BXD):**
 > - Sửa đổi ô tại cột 5, hạng C, bậc III, cấp S0, S1 thành:
-> 
+>
 > - Sửa đổi ô tại cột 5, hạng C, bậc IV, cấp S0, S1 thành:
-> 
+>
 > - Sửa đổi ký hiệu “-” ở cột 7, hạng C, bậc IV, cấp S0, S1 thành "1 400 5)”; ở cột 7, hạng C, bậc IV, cấp S2, S3 thành "1 100 5)".
-> 
+>
 > - Sửa đổi 4) như sau:
-> 
+>
 > “4) Dành cho các nhà hạng C bậc V, các xưởng cưa (xẻ) có tối đa 4 khung nhà, các xưởng sản xuất chế biến gỗ sơ bộ và các trạm nghiền (băm) gỗ.”.
-> 
+>
 > - Bổ sung 5) như sau:
-> 
+>
 > “5) Tối đa 3 tầng (chiều cao nhà được phép đến 22 m) và phải trang bị chữa cháy tự động.".
-> 
+>
 > - Sửa đổi CHÚ THÍCH như sau:
-> 
+>
 > "CHÚ THÍCH: Những chỗ có ký hiệu “-” thì cho phép áp dụng tài liệu chuẩn NFPA 5000 [1] hoặc tiêu chuẩn tương đương khác để xác định chiều cao và diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy tương ứng với giới hạn chịu lửa của các kết cấu, cấu kiện nhà và các điều kiện khác.".
 
 | Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà<sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Diện tích lớn nhất cho phép của một tảng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tảng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tảng nhà trong phạm vi một khoang cháy, m2 |
@@ -450,15 +450,15 @@ Bậc chịu lửa, cấp nguy hiểm cháy kết cấu, chiều cao nhà lớn 
 > [!NOTE]
 > **Sửa đổi, bổ sung Bảng H.10 như sau: (Thông tư số 09/2023/TT-BXD):**
 > - Sửa đổi ký hiệu “-” ở cột 7, hạng C, bậc IV, cấp S0, S1 thành “1 400 2)”; ở cột 7, hạng C, bậc IV, cấp S2, S3 thành “1 100 2)”.
-> 
+>
 > - Bổ sung 2) như sau:
-> 
+>
 > “2) Tối đa 3 tầng (chiều cao nhà được phép đến 22 m) và phải trang bị chữa cháy tự động.”.
-> 
+>
 > - Sửa đổi CHÚ THÍCH 1 và CHÚ THÍCH 2 như sau:
-> 
+>
 > "CHÚ THÍCH 1: Những chỗ có ký hiệu “-” thì cho phép áp dụng tài liệu chuẩn NFPA 5000 [1] hoặc tiêu chuẩn tương đương khác đẻ xác định chiều cao và diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy tương ứng với giới hạn chịu lửa của các kết cấu, cấu kiện nhà và các điều kiện khác.
-> 
+>
 > CHÚ THÍCH 2: Nhà hạng D bậc V lấy tương đương như nhà hạng E bậc V.”.
 
 | Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà<sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 |
@@ -494,23 +494,23 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 > [!NOTE]
 > **Sửa đổi, bổ sung Bảng H.11 như sau: (Thông tư số 09/2023/TT-BXD):**
 > - Sửa đổi ký hiệu ở cột 6, hạng C, bậc IV, cấp S0, S1 thành “1 600”; ở cột 7, hạng C bậc IV, cấp S0, S1 thành “1600 3)”.
-> 
+>
 > - Sửa đổi “12” tại cột 2, hạng E, bậc IV, cấp S0, S1 thành “Không quy định”.
-> 
+>
 > - Sửa đổi ký hiệu ở cột 7, hạng E, bậc IV, cấp S0, S1 thành “2200 4)”.
-> 
+>
 > - Bổ sung 3) và 4) sau 2) như sau:
-> 
+>
 > “3) Tối đa 4 tầng (chiều cao nhà được phép đến 22 m). Trong trường hợp nhà kho 4 tầng thì phải có chữa cháy tự động.
-> 
+>
 > 4) Tối đa 4 tầng (chiều cao nhà được phép đến 22 m).”.
-> 
+>
 > - Sửa đổi CHÚ THÍCH 1 như sau:
-> 
+>
 > "CHÚ THÍCH 1: Những chỗ có ký hiệu “-” thì cho phép áp dụng tài liệu chuẩn NFPA 5000 [1] hoặc tiêu chuẩn tương đương khác để xác định chiều cao và diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy tương ứng với giới hạn chịu lửa của các kết cấu, cấu kiện nhà và các điều kiện khác.".
-> 
+>
 > - Bổ sung CHÚ THÍCH 3 như sau:
-> 
+>
 > “CHÚ THÍCH 3: Đối với các nhà gara để xe bậc IV và từ 2 tầng trở lên, trong trường hợp chủ công trình/cơ sở không có yêu cầu về hạn chế thiệt hại đối với các xe trong gara, cho phép không bảo vệ chịu lửa các sàn tầng với điều kiện các cầu thang thoát nạn từ các tầng trên được bố trí sát biên nhà.”.
 
 | Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà<sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 |
@@ -584,15 +584,15 @@ Khi trang bị chữa cháy tự động cho nhà kho chứa gỗ thành phẩm 
 
 Diện tích một tầng trong phạm vi một khoang cháy là diện tích tầng được giới hạn bởi các tường bao của nhà và (hoặc) các tường ngăn cháy loại 1. Diện tích này được xác định với các yêu cầu bổ sung sau:
 
-- - Diện tích một tầng nhà trong phạm vi một khoang cháy được xác định theo chu vi bên trong tường bao của tầng không tính diện tích các buồng thang bộ, trừ các trường hợp đặc biệt được yêu cầu riêng. Khi không có một phần hoặc toàn bộ tường bao thì diện tích trên bằng diện tích sàn;
+- Diện tích một tầng nhà trong phạm vi một khoang cháy được xác định theo chu vi bên trong tường bao của tầng không tính diện tích các buồng thang bộ, trừ các trường hợp đặc biệt được yêu cầu riêng. Khi không có một phần hoặc toàn bộ tường bao thì diện tích trên bằng diện tích sàn;
 
-- - Diện tích một tầng trong phạm vi một khoang cháy của các nhà được nối với nhau bằng lối đi bộ kín, đường hầm hoặc hành lang kín cần tính bằng tổng các diện tích các tầng nhà được nối thông và diện tích của lối đi bộ kín, đường hầm hoặc hành lang kín;
+- Diện tích một tầng trong phạm vi một khoang cháy của các nhà được nối với nhau bằng lối đi bộ kín, đường hầm hoặc hành lang kín cần tính bằng tổng các diện tích các tầng nhà được nối thông và diện tích của lối đi bộ kín, đường hầm hoặc hành lang kín;
 
-- - Trong các nhà sản xuất và nhà kho (nhóm F5.1, F5.2 và F5.3), khi có các lỗ mở trên các sàn tầng, diện tích một tầng trong phạm vi một khoang cháy là tổng các diện tích các tầng được thông với nhau qua lỗ mở;
+- Trong các nhà sản xuất và nhà kho (nhóm F5.1, F5.2 và F5.3), khi có các lỗ mở trên các sàn tầng, diện tích một tầng trong phạm vi một khoang cháy là tổng các diện tích các tầng được thông với nhau qua lỗ mở;
 
-- - Trong các nhà ga ra ô tô kín với các ram dốc không được ngăn cách, diện tích một tầng trong phạm vi một khoang cháy là tổng diện tích các tầng được nối với nhau bằng ram dốc không được ngăn cách;
+- Trong các nhà ga ra ô tô kín với các ram dốc không được ngăn cách, diện tích một tầng trong phạm vi một khoang cháy là tổng diện tích các tầng được nối với nhau bằng ram dốc không được ngăn cách;
 
-- - Đối với nhà thuộc nhóm nguy hiểm cháy theo công năng F1.1, F1.2, F2 đến F4, khi xác định diện tích một tầng trong phạm vi một khoang cháy cần kể đến diện tích của các mái che, sân trời và hành lang gắn với nhà, nếu chúng không được ngăn cách với phần nhà chính bằng các tường ngăn cháy loại 1;
+- Đối với nhà thuộc nhóm nguy hiểm cháy theo công năng F1.1, F1.2, F2 đến F4, khi xác định diện tích một tầng trong phạm vi một khoang cháy cần kể đến diện tích của các mái che, sân trời và hành lang gắn với nhà, nếu chúng không được ngăn cách với phần nhà chính bằng các tường ngăn cháy loại 1;
 
 - Trong các nhà thuộc nhóm nguy hiểm cháy theo công năng F1.1, F1.2, F2 đến F4 với các gian thông tầng để bố trí cầu thang hở, thang cuốn, sảnh thông tầng và các công năng khác, diện tích một sàn trong phạm vi một khoang cháy là tổng diện tích của tầng dưới cùng của gian thông tầng và của các hành lang, lối đi bộ và các gian phòng của tất cả các tầng phía trên của gian thông tầng trong phạm vi không gian được ngăn cách bởi các vách ngăn cháy loại 1. Khi không có vách ngăn cháy loại 1 ngăn cách không gian thông tầng với các hành lang và các gian phòng tiếp giáp với không gian này (kể cả trong trường hợp có sử dụng các giải pháp thay thế như rèm ngăn cháy, màn drencher và trang bị ngăn cháy tương tự khác) thì diện tích một tầng trong phạm vi một khoang cháy là tổng diện tích của các tầng tương ứng.
 

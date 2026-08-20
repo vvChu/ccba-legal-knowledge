@@ -180,6 +180,10 @@ def inject_semantic_anchors(text: str, profile: Optional[DocProfile] = None) -> 
     for line in lines:
         stripped = line.strip()
 
+        # Clean multiple bullets (e.g. '- - ' -> '- ')
+        if re.match(r"^([-*]\s+)+", stripped):
+            stripped = re.sub(r"^([-*]\s+)+", "- ", stripped)
+
         # 1. Match Law Article: 'Điều 1. Phạm vi'
         dieu_match = profile.dieu_pattern.match(stripped)
         if dieu_match:

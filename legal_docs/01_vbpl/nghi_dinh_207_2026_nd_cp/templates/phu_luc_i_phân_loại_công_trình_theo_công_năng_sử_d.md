@@ -13,7 +13,7 @@ usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC A
 
 __PHỤ LỤC I__
 
-PHÂN LOẠI CÔNG TRÌNH THEO CÔNG NĂNG SỬ DỤNG  
+PHÂN LOẠI CÔNG TRÌNH THEO CÔNG NĂNG SỬ DỤNG
 *(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)*
 
 __I. CÔNG TRÌNH SỬ DỤNG CHO MỤC ĐÍCH DÂN DỤNG (CÔNG TRÌNH DÂN DỤNG)__

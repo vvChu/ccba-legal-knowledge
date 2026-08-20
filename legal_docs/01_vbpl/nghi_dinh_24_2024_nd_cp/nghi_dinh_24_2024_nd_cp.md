@@ -1,15 +1,15 @@
-__CHÍNH PHỦ  
+__CHÍNH PHỦ
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: 24/2024/NĐ-CP
 
 *Hà Nội, ngày 27 tháng 02 năm 2024*
 
- 
+
 
 __NGHỊ ĐỊNH__
 
@@ -465,7 +465,7 @@ Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ qu
 
 ---
 
-__TM. CHÍNH PHỦ__  
-__THỦ TƯỚNG__  
-*(Đã ký)*  
+__TM. CHÍNH PHỦ__
+__THỦ TƯỚNG__
+*(Đã ký)*
 __Phạm Minh Chính__

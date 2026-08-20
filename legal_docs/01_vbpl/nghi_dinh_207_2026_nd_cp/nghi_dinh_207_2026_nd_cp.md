@@ -14,24 +14,24 @@ pdf_anchor: "./nghi_dinh_207_2026_nd_cp.pdf"
 ## NGHỊ ĐỊNH 207/2026/NĐ-CP VỀ QUẢN LÝ CHẤT LƯỢNG, THI CÔNG & BẢO TRÌ CÔNG TRÌNH
 
 > [!NOTE]
-> **Cơ quan ban hành:** Chính phủ (Người ký: Phạm Gia Túc).  
-> **Ngày ban hành:** 2026-06-15 | **Hiệu lực:** 2026-07-01.  
+> **Cơ quan ban hành:** Chính phủ (Người ký: Phạm Gia Túc).
+> **Ngày ban hành:** 2026-06-15 | **Hiệu lực:** 2026-07-01.
 > **Mỏ neo PDF Công báo (PDF Anchor of Trust):** [`nghi_dinh_207_2026_nd_cp.pdf`](./nghi_dinh_207_2026_nd_cp.pdf) *(SHA-256: `aaedee18527d73ee0f3802dd447f42dd7044c82b06c532dd3c2317aacb78ced5`)*.
 
 ---
 
-__CHÍNH PHỦ  
+__CHÍNH PHỦ
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: 207/2026/NĐ-CP
 
 *Hà Nội, ngày 15 tháng 6 năm 2026*
 
- 
+
 
 __NGHỊ ĐỊNH__
 
@@ -55,7 +55,7 @@ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT XÂY DỰNG VỀ QUẢN L
 
 *Chính phủ ban hành Nghị định quy định chi tiết một số điều của **Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng.*
 
-## Chương I. 
+## Chương I.
 
 __NHỮNG QUY ĐỊNH CHUNG__
 
@@ -404,7 +404,7 @@ b) Lập hồ sơ, tài liệu thuộc danh mục hồ sơ hoàn thành công tr
 <a id="dieu-11-khoan-2"></a>
 **2.** Khi có yêu cầu của cơ quan nhà nước có thẩm quyền, các hồ sơ dưới định dạng tập tin điện tử quy định tại khoản 1 Điều này phải được trích xuất, in thành bản giấy và được chủ đầu tư xác nhận.
 
-## Chương II. 
+## Chương II.
 
 __QUẢN LÝ THI CÔNG XÂY DỰNG, BÀN GIAO HẠNG MỤC CÔNG TRÌNH, CÔNG TRÌNH XÂY DỰNG, BÀN GIAO CÔNG TRÌNH XÂY DỰNG TRONG DỰ ÁN ĐẦU TƯ XÂY DỰNG KHU ĐÔ THỊ__
 
@@ -1173,7 +1173,7 @@ c) Trách nhiệm của Ủy ban nhân dân cấp tỉnh: phân giao trách nhi�
 
 Trường hợp pháp luật chuyên ngành có quy định về cơ quan, đơn vị tiếp nhận bàn giao công trình xây dựng trong khu đô thị thì thực hiện theo quy định của pháp luật chuyên ngành.
 
-## Chương III. 
+## Chương III.
 
 __BẢO HÀNH, BẢO TRÌ, PHÁ DỠ CÔNG TRÌNH XÂY DỰNG__
 
@@ -1690,7 +1690,7 @@ e) Các nội dung khác để thực hiện phá dỡ (nếu có).
 <a id="dieu-44-khoan-7"></a>
 **7.** Đối với công trình xây dựng thuộc khu vực có yêu cầu quản lý kiến trúc, khu vực bảo tồn, khu vực bảo vệ di tích, di sản thế giới, việc phá dỡ công trình theo nhu cầu của chủ đầu tư, chủ sở hữu hoặc chủ quản lý, sử dụng công trình còn phải tuân thủ quy định của pháp luật về kiến trúc, di sản văn hóa và quy định của pháp luật khác có liên quan.
 
-## Chương IV. 
+## Chương IV.
 
 __SỰ CỐ TRONG THI CÔNG VÀ KHAI THÁC, SỬ DỤNG CÔNG TRÌNH__
 
@@ -1870,7 +1870,7 @@ d) Yêu cầu chủ đầu tư tổ chức điều tra xác định nguyên nhâ
 
 e) Xử lý, kiến nghị xử lý trách nhiệm của các bên có liên quan theo quy định của pháp luật.
 
-## Chương V. 
+## Chương V.
 
 __ĐIỀU KHOẢN THI HÀNH__
 

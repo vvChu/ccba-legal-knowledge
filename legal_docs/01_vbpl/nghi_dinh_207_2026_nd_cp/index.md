@@ -1,9 +1,9 @@
 # Gói Tri Thức Pháp Lý OKF v2.2: 207/2026/NĐ-CP
 
 > [!NOTE]
-> **Văn bản:** Nghị định 207/2026/NĐ-CP về Quản lý chất lượng, thi công & bảo trì công trình  
-> **Cơ quan ban hành:** Chính phủ (Người ký: Phạm Gia Túc).  
-> **Hiệu lực:** 2026-07-01.  
+> **Văn bản:** Nghị định 207/2026/NĐ-CP về Quản lý chất lượng, thi công & bảo trì công trình
+> **Cơ quan ban hành:** Chính phủ (Người ký: Phạm Gia Túc).
+> **Hiệu lực:** 2026-07-01.
 > **Mỏ neo PDF Công báo:** [nghi_dinh_207_2026_nd_cp.pdf](./nghi_dinh_207_2026_nd_cp.pdf) *(SHA-256: `aaedee18527d73ee0f3802dd447f42dd7044c82b06c532dd3c2317aacb78ced5`)*.
 
 ---

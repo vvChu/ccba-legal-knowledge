@@ -14,23 +14,23 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 06__
 
-__CƠ QUAN/ĐƠN VỊ ĐƯỢC NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ GIAO THẨM ĐỊNH  
+__CƠ QUAN/ĐƠN VỊ ĐƯỢC NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ GIAO THẨM ĐỊNH
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
-Số: ......................  
+Số: ......................
 V/v thông báo kết quả thẩm định Báo cáo kinh tế - kỹ thuật *(tên dự án)*
 
 *..., ngày ... tháng ... năm ...*
 
- 
+
 
 Kính gửi: *(Cơ quan chuẩn bị dự án).*
 
-* (Cơ quan/Đơn vị được người quyết định đầu tư giao thẩm định)* đã nhận Văn bản số ... ngày ... tháng ... năm ... của *(cơ quan chuẩn bị dự án)* đề nghị thẩm định Báo cáo kinh tế - kỹ thuật *(tên dự án).*
+- (Cơ quan/Đơn vị được người quyết định đầu tư giao thẩm định)* đã nhận Văn bản số ... ngày ... tháng ... năm ... của *(cơ quan chuẩn bị dự án)* đề nghị thẩm định Báo cáo kinh tế - kỹ thuật *(tên dự án).*
 
 Căn cứ Luật Xây dựng ngày ... tháng ... năm 2025;
 
@@ -134,15 +134,15 @@ Báo cáo kinh tế - kỹ thuật *(tên dự án)* đủ điều kiện/chưa 
 
 Trên đây là thông báo của *(Cơ quan/Đơn vị được người quyết định đầu tư giao thẩm định)* về kết quả thẩm định Báo cáo kinh tế - kỹ thuật *(tên dự án).* Đề nghị *(cơ quan chuẩn bị dự án)* nghiên cứu thực hiện theo quy định.
 
- 
 
-__*Nơi nhận:*__  
-- Như trên;  
-- ...;  
-- ...;  
+
+__*Nơi nhận:*__
+- Như trên;
+- ...;
+- ...;
 - Lưu:...
 
-__CƠ QUAN/ĐƠN VỊ THẨM ĐỊNH__  
+__CƠ QUAN/ĐƠN VỊ THẨM ĐỊNH__
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*
 
 ______________________________

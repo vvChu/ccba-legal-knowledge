@@ -77,11 +77,11 @@ Khi có người khuyết tật đi lại bằng xe lăn sử dụng thì chiề
 
 Trong trường hợp không đủ diện tích để làm các tấm che ngoài dễ bung bằng kính thì cho phép sử dụng những dạng vật liệu sau (nhưng phải là vật liệu không cháy):
 
-- - Thép, nhôm;
+- Thép, nhôm;
 
-- - Ngói mềm, ngói kim loại;
+- Ngói mềm, ngói kim loại;
 
-- - Đá và vật liệu giữ nhiệt hiệu quả.
+- Đá và vật liệu giữ nhiệt hiệu quả.
 
 Diện tích tấm che ngoài dễ bung phải được xác định bằng tính toán. Trong trường hợp không có số liệu tính toán thì diện tích tấm che ngoài dễ bung phải lấy không nhỏ hơn 0,05 m2 trên 1 m3 thể tích gian phòng hạng A và không ít hơn 0,03 m2 trên 1 m3 thể tích gian phòng hạng B.
 
@@ -138,9 +138,9 @@ Những nhà kho cất chứa hàng hóa có nhiệt độ vượt 60 °C thì p
 
 Các gian sản xuất, gian kỹ thuật và gian kho (nhóm nguy hiểm cháy theo công năng F5) có hạng nguy hiểm cháy và cháy nổ C1 đến C3 được đặt trong nhà ở và nhà công cộng, nếu không có quy định gì khác thì ít nhất phải được ngăn cách với các gian phòng và hành lang khác như sau:
 
-- - Với nhà có bậc chịu lửa I ngăn cách bằng vách ngăn cháy loại 1 và sàn ngăn cháy không kém hơn loại 2;
+- Với nhà có bậc chịu lửa I ngăn cách bằng vách ngăn cháy loại 1 và sàn ngăn cháy không kém hơn loại 2;
 
-- - Với nhà có bậc chịu lửa II, III, IV ngăn cách bằng vách ngăn cháy loại 1 và sàn ngăn cháy không kém hơn loại 3.
+- Với nhà có bậc chịu lửa II, III, IV ngăn cách bằng vách ngăn cháy loại 1 và sàn ngăn cháy không kém hơn loại 3.
 
 Không cho phép đặt gian phòng kho, gian sản xuất, phòng thí nghiệm và tương tự có hạng nguy hiểm cháy và cháy nổ C1, C2 và C3 hoặc cao hơn trong nhà khác dự kiến có từ 50 người sử dụng đồng thời trở lên.
 
@@ -214,19 +214,19 @@ Trường hợp người khuyết tật sinh hoạt ở các tầng cao hơn ph�
 
 Cho phép sử dụng các máy phát điện diezen làm nguồn cấp điện độc lập và nguồn dự phòng tại chỗ. Khi đó cho phép bố trí các gian phòng đặt máy phát điện diezen không sâu hơn tầng hầm 1 hoặc ở các tầng trên mặt đất, trong phạm vi kích thước của nhà hoặc trong một nhà đứng riêng biệt khi thực hiện các yêu cầu sau:
 
-- - Giới hạn chịu lửa của các kết cấu tường và sàn chịu lực của gian phòng phải lấy không nhỏ hơn REI 180;
+- Giới hạn chịu lửa của các kết cấu tường và sàn chịu lực của gian phòng phải lấy không nhỏ hơn REI 180;
 
-- - Giao thông giữa gian phòng đặt máy phát điện diezen với các gian phòng khác phải đi qua khoang đệm ngăn cháy loại 1, có áp suất không khí dương khi có cháy;
+- Giao thông giữa gian phòng đặt máy phát điện diezen với các gian phòng khác phải đi qua khoang đệm ngăn cháy loại 1, có áp suất không khí dương khi có cháy;
 
-- - Để ngăn ngừa sự cháy loang của nhiên liệu, trong trường hợp có sự tràn nhiên liệu ra ngoài các gờ chặn, cần bố trí ở dưới các máy phát điện các khay đựng để chứa tất cả số nhiên liệu tràn ra;
+- Để ngăn ngừa sự cháy loang của nhiên liệu, trong trường hợp có sự tràn nhiên liệu ra ngoài các gờ chặn, cần bố trí ở dưới các máy phát điện các khay đựng để chứa tất cả số nhiên liệu tràn ra;
 
-- - Bố trí các thiết bị phân tích khi để phát hiện sự rò rỉ nhiên liệu và phát ra các tín hiệu tới gian phòng của trạm chữa cháy, cũng như bố trí thông gió sự cố bằng thông gió có khí;
+- Bố trí các thiết bị phân tích khi để phát hiện sự rò rỉ nhiên liệu và phát ra các tín hiệu tới gian phòng của trạm chữa cháy, cũng như bố trí thông gió sự cố bằng thông gió có khí;
 
-- - Bố trí trong các gian phòng đặt máy phát điện diezen, thiết bị dập cháy tự động;
+- Bố trí trong các gian phòng đặt máy phát điện diezen, thiết bị dập cháy tự động;
 
-- - Thể tích của thùng chứa dầu nằm trong kết cấu khung của mỗi máy phát điện diezen không được vượt quá 1 m3;
+- Thể tích của thùng chứa dầu nằm trong kết cấu khung của mỗi máy phát điện diezen không được vượt quá 1 m3;
 
-- - Công suất của máy phát điện diezen và việc cung cấp, dự trữ nhiên liệu, phải bảo đảm sự làm việc của các hệ thống bảo vệ chống cháy, được xác định từ thời gian quy định cần thiết cho sự làm việc của chúng khi có cháy.
+- Công suất của máy phát điện diezen và việc cung cấp, dự trữ nhiên liệu, phải bảo đảm sự làm việc của các hệ thống bảo vệ chống cháy, được xác định từ thời gian quy định cần thiết cho sự làm việc của chúng khi có cháy.
 
 Cho phép sử dụng máy phát điện chạy bằng nhiên liệu khí, khi đặt những máy này trong một nhà đứng riêng biệt, với các yêu cầu an toàn cháy đã được quy định trong các tài liệu chuẩn liên quan.
 
@@ -620,11 +620,11 @@ _CHÚ THÍCH: Số lượng người thoát nạn lớn nhất từ các không 
 
 c) Gian lánh nạn phải được thông gió tự nhiên qua các ô thông tường cố định bố trí trên hai tường ngoài (ô thông gió) bảo đảm các yêu cầu:
 
-- - Tổng diện tích các ô thông gió ít nhất phải bằng 25 % diện tích gian lánh nạn;
+- Tổng diện tích các ô thông gió ít nhất phải bằng 25 % diện tích gian lánh nạn;
 
-- - Chiều cao nhỏ nhất của các ô thông gió (tính từ cạnh dưới đến cạnh trên) không được nhỏ hơn 1,2 m;
+- Chiều cao nhỏ nhất của các ô thông gió (tính từ cạnh dưới đến cạnh trên) không được nhỏ hơn 1,2 m;
 
-- - Các ô thông gió cho gian lánh nạn phải được bố trí cách ít nhất 1,5 m theo phương ngang và 3,0 m theo phương đứng tính từ các ô thông tường không được bảo vệ khác nằm ngang bằng hoặc phía dưới nó. Nếu các ô thông gió cho gian lánh nạn có tổng diện tích không nhỏ hơn 50 % diện tích gian lánh nạn thì khoảng cách theo phương đứng được phép giảm xuống đến 1,5 m;
+- Các ô thông gió cho gian lánh nạn phải được bố trí cách ít nhất 1,5 m theo phương ngang và 3,0 m theo phương đứng tính từ các ô thông tường không được bảo vệ khác nằm ngang bằng hoặc phía dưới nó. Nếu các ô thông gió cho gian lánh nạn có tổng diện tích không nhỏ hơn 50 % diện tích gian lánh nạn thì khoảng cách theo phương đứng được phép giảm xuống đến 1,5 m;
 
 - d) Tất cả các trang bị, dụng cụ đặt trong gian lánh nạn phải được làm bằng vật liệu không cháy;
 
@@ -649,13 +649,13 @@ h) Cho phép phần diện tích gian lánh nạn không được tính vào ch�
 
 Cho phép từ mỗi tầng có một lối ra thoát nạn, khi thỏa mãn đồng thời các điều kiện sau:
 
-- - Đối với nhà có chiều cao PCCC không quá 15 m thì diện tích mỗi tầng đang xét không được lớn hơn 300 m2. Đối với nhà có chiều cao PCCC từ trên 15 m đến 21 m thì diện tích mỗi tầng đang xét không được lớn hơn 200 m2;
+- Đối với nhà có chiều cao PCCC không quá 15 m thì diện tích mỗi tầng đang xét không được lớn hơn 300 m2. Đối với nhà có chiều cao PCCC từ trên 15 m đến 21 m thì diện tích mỗi tầng đang xét không được lớn hơn 200 m2;
 
-- - Toàn bộ nhà được bảo vệ bằng hệ thống chữa cháy tự động;
+- Toàn bộ nhà được bảo vệ bằng hệ thống chữa cháy tự động;
 
-- - Số người lớn nhất trên mỗi tầng không vượt quá 20 người;
+- Số người lớn nhất trên mỗi tầng không vượt quá 20 người;
 
-- - Phải có thêm ít nhất một lối ra khẩn cấp từ các tầng nhà dẫn ra ban công thoáng, hoặc dẫn lên vùng an toàn trên sân thượng thoáng, hoặc dẫn ra cầu thang bộ loại 3.
+- Phải có thêm ít nhất một lối ra khẩn cấp từ các tầng nhà dẫn ra ban công thoáng, hoặc dẫn lên vùng an toàn trên sân thượng thoáng, hoặc dẫn ra cầu thang bộ loại 3.
 
 _CHÚ THÍCH: Ban công thoáng hoặc sân thượng thoáng nghĩa là hở ra ngoài trời và bộ phận bao che (nếu có) phải bảo đảm cho việc thoát nạn, cứu nạn dễ dàng khi lực lượng chữa cháy tiếp cận._
 

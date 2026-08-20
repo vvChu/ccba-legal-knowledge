@@ -1,8 +1,8 @@
-__BỘ XÂY DỰNG  
+__BỘ XÂY DỰNG
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: 33/2026/TT-BXD
@@ -260,37 +260,36 @@ g) Kết luận và kiến nghị (nếu có)*.*
 <a id="dieu-12-khoan-2"></a>
 2. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, các cá nhân, tổ chức phản ánh kịp thời về Bộ Xây dựng để được xem xét, hướng dẫn./.
 
- 
 
-__*  
-Nơi nhận:  
-*__- Thủ tướng Chính phủ;  
-- Các Phó Thủ tướng Chính phủ;  
-- Văn phòng Trung ương Đảng;  
-- Văn phòng Chủ tịch nước;  
-- Văn phòng Quốc hội;  
-- Văn phòng Chính phủ;  
-- Tòa án nhân dân tối cao;  
-- Viện kiểm sát nhân dân tối cao;  
-- Các Bộ, cơ quan ngang Bộ;  
-- Kiểm toán nhà nước;  
-- UBND các tỉnh, thành phố trực thuộc Trung ương;  
-- Sở Xây dựng các tỉnh, thành phố trực thuộc Trung ương;  
-- Công báo; Cổng thông tin điện tử Chính phủ;  
-- Cổng thông tin điện tử Bộ Xây dựng;  
-- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật, Bộ Tư pháp;  
-- Bộ Xây dựng: Bộ trưởng; các Thứ trưởng;  
-- Các đơn vị thuộc, trực thuộc Bộ Xây dựng;  
+
+__*
+Nơi nhận:
+*__- Thủ tướng Chính phủ;
+- Các Phó Thủ tướng Chính phủ;
+- Văn phòng Trung ương Đảng;
+- Văn phòng Chủ tịch nước;
+- Văn phòng Quốc hội;
+- Văn phòng Chính phủ;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Các Bộ, cơ quan ngang Bộ;
+- Kiểm toán nhà nước;
+- UBND các tỉnh, thành phố trực thuộc Trung ương;
+- Sở Xây dựng các tỉnh, thành phố trực thuộc Trung ương;
+- Công báo; Cổng thông tin điện tử Chính phủ;
+- Cổng thông tin điện tử Bộ Xây dựng;
+- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật, Bộ Tư pháp;
+- Bộ Xây dựng: Bộ trưởng; các Thứ trưởng;
+- Các đơn vị thuộc, trực thuộc Bộ Xây dựng;
 - Lưu: VT, GĐ (10b).
 
-__KT. BỘ TRƯỞNG  
-THỨ TRƯỞNG  
-  
-  
-  
-  
+__KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+
+
+
+
 Phạm Minh Hà__
 
- 
 
- 
+

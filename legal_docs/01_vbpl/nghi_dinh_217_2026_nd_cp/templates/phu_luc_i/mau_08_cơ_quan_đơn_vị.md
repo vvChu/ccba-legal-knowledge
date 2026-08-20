@@ -14,24 +14,24 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 08__
 
-__CƠ QUAN/ĐƠN VỊ   
-THẨM ĐỊNH1  
+__CƠ QUAN/ĐƠN VỊ
+THẨM ĐỊNH1
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
-Số: ....................  
+Số: ....................
 V/v thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án)*
 
 *..., ngày ... tháng ... năm ...*
 
- 
+
 
 Kính gửi: *(Cơ quan chuẩn bị dự án).*
 
-* (Cơ quan/Đơn vị thẩm định)* đã nhận Tờ trình số ... ngày ... tháng ... năm ... của *(cơ quan chuẩn bị dự án)* đề nghị thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án).*
+- (Cơ quan/Đơn vị thẩm định)* đã nhận Tờ trình số ... ngày ... tháng ... năm ... của *(cơ quan chuẩn bị dự án)* đề nghị thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án).*
 
 Căn cứ Luật Xây dựng ngày ... tháng ... năm 2025;
 
@@ -143,15 +143,15 @@ Yêu cầu sửa đổi, bổ sung, hoàn thiện (nếu có).
 
 Trên đây là thông báo của *(Cơ quan/Đơn vị thẩm định)* về kết quả thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án).* Đề nghị *(cơ quan chuẩn bị dự án)* nghiên cứu thực hiện theo quy định.
 
- 
 
-__*Nơi nhận:*__  
-- Như trên;  
-- ...;  
-- ...;  
+
+__*Nơi nhận:*__
+- Như trên;
+- ...;
+- ...;
 - Lưu:...
 
-__CƠ QUAN/ĐƠN VỊ THẨM ĐỊNH__  
+__CƠ QUAN/ĐƠN VỊ THẨM ĐỊNH__
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*
 
 __________________________________

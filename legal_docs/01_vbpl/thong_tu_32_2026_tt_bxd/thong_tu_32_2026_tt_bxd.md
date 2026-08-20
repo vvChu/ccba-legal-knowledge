@@ -1,8 +1,8 @@
-__BỘ XÂY DỰNG  
+__BỘ XÂY DỰNG
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: 32/2026/TT-BXD
@@ -210,42 +210,42 @@ e) Dự kiến phương án xử lý đối với công trình sau khi hết th�
 
 __* *__
 
-__*  
-Nơi nhận:  
-*__- Thủ tướng Chính phủ;  
-- Các Phó Thủ tướng Chính phủ;  
-- Văn phòng Trung ương Đảng;  
-- Văn phòng Chủ tịch nước;  
-- Văn phòng Quốc hội;  
-- Văn phòng Chính phủ;  
-- Tòa án nhân dân tối cao;  
-- Viện kiểm sát nhân dân tối cao;  
-- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;  
-- Kiểm toán nhà nước;  
-- UBND các tỉnh, thành phố trực thuộc Trung ương;  
-- Sở Xây dựng các tỉnh, thành phố trực thuộc Trung ương;  
-- Công báo; Cổng thông tin điện tử Chính phủ;  
-- Cơ sở dữ liệu quốc gia về pháp luật;  
-- Cổng thông tin điện tử Bộ Xây dựng;  
-- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật, Bộ Tư pháp;  
-- Bộ Xây dựng: Bộ trưởng; các Thứ trưởng;  
-- Các đơn vị thuộc, trực thuộc Bộ Xây dựng;  
+__*
+Nơi nhận:
+*__- Thủ tướng Chính phủ;
+- Các Phó Thủ tướng Chính phủ;
+- Văn phòng Trung ương Đảng;
+- Văn phòng Chủ tịch nước;
+- Văn phòng Quốc hội;
+- Văn phòng Chính phủ;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
+- Kiểm toán nhà nước;
+- UBND các tỉnh, thành phố trực thuộc Trung ương;
+- Sở Xây dựng các tỉnh, thành phố trực thuộc Trung ương;
+- Công báo; Cổng thông tin điện tử Chính phủ;
+- Cơ sở dữ liệu quốc gia về pháp luật;
+- Cổng thông tin điện tử Bộ Xây dựng;
+- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật, Bộ Tư pháp;
+- Bộ Xây dựng: Bộ trưởng; các Thứ trưởng;
+- Các đơn vị thuộc, trực thuộc Bộ Xây dựng;
 - Lưu: VT, GĐ (10b).
 
-__KT. BỘ TRƯỞNG   
-THỨ TRƯỞNG  
-  
-  
-  
-  
+__KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+
+
+
+
 Phạm Minh Hà__
 
- 
+
 
 __PHỤ LỤC__
 
-CÔNG TRÌNH DÂN DỤNG; CÔNG TRÌNH SẢN XUẤT VẬT LIỆU, SẢN PHẨM XÂY DỰNG, CÔNG TRÌNH CÔNG NGHIỆP NHẸ; CÔNG TRÌNH HẠ TÀNG KỸ THUẬT PHẢI QUAN TRẮC TRONG QUÁ TRÌNH KHAI THÁC, SỬ DỤNG  
-* (Ban hành kèm theo Thông tư số 32/2026/TT-BXD Ngày 22 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
+CÔNG TRÌNH DÂN DỤNG; CÔNG TRÌNH SẢN XUẤT VẬT LIỆU, SẢN PHẨM XÂY DỰNG, CÔNG TRÌNH CÔNG NGHIỆP NHẸ; CÔNG TRÌNH HẠ TÀNG KỸ THUẬT PHẢI QUAN TRẮC TRONG QUÁ TRÌNH KHAI THÁC, SỬ DỤNG
+- (Ban hành kèm theo Thông tư số 32/2026/TT-BXD Ngày 22 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
 
 __STT__
 

@@ -14,19 +14,19 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 16__
 
-__CƠ QUAN CHUYÊN MÔN  
-VỀ XÂY DỰNG1  
+__CƠ QUAN CHUYÊN MÔN
+VỀ XÂY DỰNG1
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: ...
 
 *..., ngày ... tháng ... năm ...*
 
- 
+
 
 __PHIẾU THÔNG BÁO TẠM DỪNG THẨM ĐỊNH__
 
@@ -48,13 +48,13 @@ Căn cứ quy định tại khoản 5 Điều 36 Nghị định số ... /NĐ-CP
 
 Trên đây là ý kiến của *(cơ quan chuyên môn về xây dựng),* đề nghị *(tên đơn vị trình)* nghiên cứu, thực hiện theo quy định.
 
- 
 
-__*Nơi nhận:*__  
-- Như trên;  
+
+__*Nơi nhận:*__
+- Như trên;
 - Lưu:...
 
-__CƠ QUAN CHUYÊN MÔN VỀ XÂY DỰNG__  
+__CƠ QUAN CHUYÊN MÔN VỀ XÂY DỰNG__
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*
 
 ________________________________

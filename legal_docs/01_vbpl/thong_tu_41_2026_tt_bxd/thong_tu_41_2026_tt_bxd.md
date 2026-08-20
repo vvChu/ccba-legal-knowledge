@@ -1,8 +1,8 @@
-__BỘ XÂY DỰNG  
+__BỘ XÂY DỰNG
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: 41/2026/TT-BXD
@@ -1245,7 +1245,7 @@ Các loại chất thải, phế thải, phụ phẩm khác đáp ứng yêu c�
 
 __Các vật liệu xây dựng khác không sản xuất trực tiếp từ khoáng sản__
 
- 
+
 
 __PHỤ LỤC II__
 
@@ -1375,7 +1375,7 @@ PT2, PT5, PT7
 
 \*\* Việc nhập khẩu thực hiện theo quy định của pháp luật về bảo vệ môi trường.
 
- 
+
 
 __PHỤ LỤC III__
 
@@ -1405,7 +1405,7 @@ Xi măng:
 
 PT2, PT5, PT7
 
- 
+
 
 2
 
@@ -1415,7 +1415,7 @@ Sơn tường- dạng nhũ tương
 
 PT2. PT 5, PT 7
 
- 
+
 
 3
 
@@ -1435,7 +1435,7 @@ PT2. PT 5, PT 7
 
 PT2, PT 5, PT 7
 
- 
+
 
 4
 
@@ -1453,7 +1453,7 @@ Ván gỗ nhân tạo:
 
 PT2, PT 5, PT 7
 
- 
+
 
 5
 
@@ -1467,7 +1467,7 @@ PT2, PT 5, PT 7
 
 PT2, PT 5, PT 7
 
- 
+
 
 6
 
@@ -1477,7 +1477,7 @@ Gạch gốm ốp lát
 
 PT2, PT 5, PT 7
 
- 
+
 
 7
 
@@ -1487,7 +1487,7 @@ Sản phẩm bê tông khí chưng áp
 
 PT2, PT 5, PT 7
 
- 
+
 
 8
 
@@ -1503,7 +1503,7 @@ Tấm tường:
 
 PT2, PT 5, PT 7
 
- 
+
 
 9
 
@@ -1513,7 +1513,7 @@ Tấm sóng amiăng xi măng
 
 PT2, PT 5, PT 7
 
- 
+
 
 10
 
@@ -1529,7 +1529,7 @@ Ngói lợp mái:
 
 PT2, PT 5, PT 7
 
- 
+
 
 11
 
@@ -1547,33 +1547,33 @@ Thiết bị vệ sinh:
 
 PT2, PT 5, PT 7
 
- 
+
 
 \* Phương thức đánh giá hợp quy: Phương thức 1 (PT1), Phương thức 5 (PT5), Phương thức 7 (PT7) được quy định tại Thông tư số 14/2026/TT-BKHCN ngày 09 tháng 4 năm 2026.
 
- 
+
 
 __PHỤ LỤC IV__
 
 BÁO CÁO TÌNH HÌNH KIỂM TRA CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG
 
- 
 
-(Tên cơ quan chủ quản)  
-__TÊN CƠ QUAN KIỂM TRA  
+
+(Tên cơ quan chủ quản)
+__TÊN CƠ QUAN KIỂM TRA
 __-------
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số:    /BC-...
 
 *…,ngày  tháng  năm 202…*
 
- 
 
-__BÁO CÁO TÌNH HÌNH KIỂM TRA CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG  
+
+__BÁO CÁO TÌNH HÌNH KIỂM TRA CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG
 __(Số liệu năm 202..... tính từ ngày .......đến ngày......)
 
 __Kính gửi: Bộ Xây dựng__
@@ -1608,15 +1608,15 @@ Nguồn gốc, xuất xứ
 
 ....
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
 
 __ __
 
@@ -1642,21 +1642,21 @@ Các biện pháp đã được xử lý
 
 .....
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
 
 __ __
 
@@ -1680,19 +1680,19 @@ Thời gian nhập khẩu
 
 ...
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
 
 __ __
 
@@ -1728,16 +1728,16 @@ __B. Đối với cơ quan kiểm tra chất lượng sản phẩm, hàng hóa v
 
 __ __
 
-__*  
-Nơi nhận:  
-*__- Như kính gửi;  
+__*
+Nơi nhận:
+*__- Như kính gửi;
 - Lưu ...
 
-__Cơ quan báo cáo  
+__Cơ quan báo cáo
 __*(Ký, ghi rõ họ tên và đóng dấu)*
 
- 
 
- 
+
+
 
 __ __

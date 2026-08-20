@@ -761,10 +761,10 @@ Dự án đầu tư xây dựng nhà chung cư, nhà chung cư hỗn hợp đã 
 > [!NOTE]
 > **Bổ sung Quy định chuyển tiếp và Điều 3.4, 3.5 bởi Sửa đổi 01:2026:**
 > Quy định chuyển tiếp: Nhà chung cư hiện hữu có thời hạn đến ngày 15/06/2027 để hoàn thành việc rà soát và đáp ứng các yêu cầu về an toàn cháy cho khu vực để xe điện và trạm sạc.
-> 
+>
 > ### 3.4  Trách nhiệm quản lý vận hành khu vực để xe điện
 > Chủ đầu tư, ban quản trị phải có phương án an toàn và bảo trì định kỳ.
-> 
+>
 > ### 3.5  Giám sát 24/24
 > Khu vực để xe điện và trạm sạc phải được giám sát liên tục 24/24 giờ.
 

@@ -1,8 +1,8 @@
-__BỘ XÂY DỰNG  
+__BỘ XÂY DỰNG
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: 38/2026/TT-BXD
@@ -61,34 +61,34 @@ BAN HÀNH ĐỊNH MỨC XÂY DỰNG
 <a id="dieu-2-khoan-2"></a>
 2. Thông tư này thay thế Thông tư số 12/2021/TT-BXD, Thông tư số 09/2024/TT-BXD, Thông tư số 08/2025/TT-BXD và Điều 2 Thông tư số 60/2025/TT-BXD của Bộ trưởng Bộ Xây dựng./.
 
-__*  
-Nơi nhận:  
-*__- Thủ tướng Chính phủ;  
-- Các Phó Thủ tướng Chính phủ;  
-- Các Bộ, cơ quan ngang Bộ;  
-- Văn phòng Quốc hội;  
-- Văn phòng Chủ tịch nước;  
-- Văn phòng Trung ương Đảng và các Ban của Đảng;  
-- Tòa án nhân dân tối cao;  
-- Viện Kiểm sát nhân dân tối cao;  
-- Kiểm toán nhà nước;  
-- Cơ quan Trung ương của các đoàn thể;  
-- UBND các tỉnh, thành phố trực thuộc Trung ương;  
-- Sở Xây dựng các tỉnh, thành phố trực thuộc Trung ương;  
-- Công báo; Cổng Thông tin điện tử Chính phủ;  
-- Bộ Xây dựng: Bộ trưởng, các Thứ trưởng;  
-- Các đơn vị thuộc Bộ Xây dựng;  
-- Cổng Thông tin điện tử Bộ Xây dựng;  
-- Cơ sở dữ liệu quốc gia về pháp luật;  
-- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật, Bộ Tư pháp;  
+__*
+Nơi nhận:
+*__- Thủ tướng Chính phủ;
+- Các Phó Thủ tướng Chính phủ;
+- Các Bộ, cơ quan ngang Bộ;
+- Văn phòng Quốc hội;
+- Văn phòng Chủ tịch nước;
+- Văn phòng Trung ương Đảng và các Ban của Đảng;
+- Tòa án nhân dân tối cao;
+- Viện Kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Cơ quan Trung ương của các đoàn thể;
+- UBND các tỉnh, thành phố trực thuộc Trung ương;
+- Sở Xây dựng các tỉnh, thành phố trực thuộc Trung ương;
+- Công báo; Cổng Thông tin điện tử Chính phủ;
+- Bộ Xây dựng: Bộ trưởng, các Thứ trưởng;
+- Các đơn vị thuộc Bộ Xây dựng;
+- Cổng Thông tin điện tử Bộ Xây dựng;
+- Cơ sở dữ liệu quốc gia về pháp luật;
+- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật, Bộ Tư pháp;
 - Lưu: VT, Cục KTQLXD, Viện KTXD.
 
-__KT. BỘ TRƯỞNG   
-THỨ TRƯỞNG  
-  
-  
-  
-  
+__KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+
+
+
+
 Bùi Xuân Dũng__
 
 __FILE ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN__

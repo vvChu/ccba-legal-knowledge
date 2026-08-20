@@ -1,15 +1,15 @@
-__CHÍNH PHỦ  
+__CHÍNH PHỦ
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: 209/2026/NĐ-CP
 
 *Hà Nội, ngày 15 tháng 6 năm 2026*
 
- 
+
 
 __NGHỊ ĐỊNH__
 
@@ -342,36 +342,36 @@ e) Tổ chức thanh tra, kiểm tra và xử lý vi phạm trong lĩnh vực v�
 <a id="dieu-19-khoan-2"></a>
 2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
- 
 
- 
 
-__*Nơi nhận:  
-*__- Ban Bí thư Trung ương Đảng;  
-- Thủ tướng, các Phó Thủ tướng Chính phủ;  
-- Các bộ, cơ quan ngang bộ;  
-- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;  
-- Văn phòng Trung ương và các Ban của Đảng;  
-- Văn phòng Tổng Bí thư;  
-- Văn phòng Chủ tịch nước;  
-- Hội đồng Dân tộc và các Ủy ban của Quốc hội;  
-- Văn phòng Quốc hội;  
-- Tòa án nhân dân tối cao;  
-- Viện kiểm sát nhân dân tối cao;  
-- Kiểm toán nhà nước;  
-- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;  
-- Cơ quan trung ương của các tổ chức chính trị - xã hội;  
-- VPCP: BTCN, các PCN, Trợ lý TTg,  
-các Vụ, Cục, Công báo;  
+
+
+__*Nơi nhận:
+*__- Ban Bí thư Trung ương Đảng;
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+- Các bộ, cơ quan ngang bộ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương;
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+- Tòa án nhân dân tối cao;
+- Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các tổ chức chính trị - xã hội;
+- VPCP: BTCN, các PCN, Trợ lý TTg,
+các Vụ, Cục, Công báo;
 - Lưu: VT, CN (2b).
 
-__TM. CHÍNH PHỦ__  
-__KT. THỦ TƯỚNG__  
-__PHÓ THỦ TƯỚNG__  
-  
-  
-  
-  
+__TM. CHÍNH PHỦ__
+__KT. THỦ TƯỚNG__
+__PHÓ THỦ TƯỚNG__
+
+
+
+
 __Phạm Gia Túc__
 
 __ __

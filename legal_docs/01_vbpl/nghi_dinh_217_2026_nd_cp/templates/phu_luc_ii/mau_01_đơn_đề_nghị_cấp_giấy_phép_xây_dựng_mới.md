@@ -14,15 +14,15 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 01__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 -------------------__
 
-__ĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP XÂY DỰNG MỚI__  
-*(Sử dụng cho công trình: Không theo tuyến/Theo tuyến/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng /Nhà ở riêng lẻ/Sửa chữa, cải tạo/*  
+__ĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP XÂY DỰNG MỚI__
+*(Sử dụng cho công trình: Không theo tuyến/Theo tuyến/Tín ngưỡng, tôn giáo/Tượng đài, tranh hoành tráng /Nhà ở riêng lẻ/Sửa chữa, cải tạo/*
 *Theo giai đoạn cho công trình không theo tuyến/Theo giai đoạn cho công trình theo tuyến/Dự án/Di dời công trình)*
 
- Kính gửi: ............................................
+Kính gửi: ............................................
 
 **1.** Tên chủ đầu tư (Chủ hộ):...; Số định danh cá nhân/Mã số doanh nghiệp:..
 
@@ -182,10 +182,10 @@ Gửi kèm theo Đơn này các tài liệu:
 
 2 -
 
- 
 
- 
 
-*......, ngày ..... tháng ..... năm .....*  
-__NGƯỜI LÀM ĐƠN/ĐẠI DIỆN CHỦ ĐẦU TƯ__  
+
+
+*......, ngày ..... tháng ..... năm .....*
+__NGƯỜI LÀM ĐƠN/ĐẠI DIỆN CHỦ ĐẦU TƯ__
 *(Ký, ghi rõ họ và tên, đóng dấu (nếu có))*

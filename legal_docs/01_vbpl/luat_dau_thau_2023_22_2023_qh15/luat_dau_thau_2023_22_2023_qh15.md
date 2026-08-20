@@ -1,13 +1,13 @@
-__QUỐC HỘI  
+__QUỐC HỘI
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Luật số: 22/2023/QH15
 
- 
+
 
 __LUẬT__
 
@@ -389,6 +389,6 @@ Các gói thầu đã phát hành hồ sơ mời thầu trước ngày Luật n�
 
 ---
 
-__CHỦ TỊCH QUỐC HỘI__  
-*(Đã ký)*  
+__CHỦ TỊCH QUỐC HỘI__
+*(Đã ký)*
 __Vương Đình Huệ__

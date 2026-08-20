@@ -14,24 +14,24 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 03__
 
-__CƠ QUAN CHUYÊN MÔN  
-VỀ XÂY DỰNG1  
+__CƠ QUAN CHUYÊN MÔN
+VỀ XÂY DỰNG1
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc  
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
-Số:...  
+Số:...
 V/v thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án)*
 
 *..., ngày ... tháng ... năm ...*
 
- 
+
 
 Kính gửi: *(Cơ quan chuẩn bị dự án).*
 
-* (Cơ quan chuyên môn về xây dựng)* đã nhận Tờ trình số ... ngày ... tháng ... năm ... của *(cơ quan chuẩn bị dự án)* trình thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án).*
+- (Cơ quan chuyên môn về xây dựng)* đã nhận Tờ trình số ... ngày ... tháng ... năm ... của *(cơ quan chuẩn bị dự án)* trình thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án).*
 
 Căn cứ Luật Xây dựng ngày ... tháng ... năm 2025;
 
@@ -125,15 +125,15 @@ Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án)* 
 
 Trên đây là thông báo của *(cơ quan chuyên môn về xây dựng)* về kết quả thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án).* Đề nghị *(cơ quan chuẩn bị dự án)* nghiên cứu thực hiện theo quy định.
 
- 
 
-__*Nơi nhận:*__  
-- Như trên;  
-- Cơ quan quản lý nhà nước về xây dựng tại địa phương xây dựng dự án5;  
-- ...;  
+
+__*Nơi nhận:*__
+- Như trên;
+- Cơ quan quản lý nhà nước về xây dựng tại địa phương xây dựng dự án5;
+- ...;
 - Lưu:...
 
-__CƠ QUAN CHUYÊN MÔN VỀ XÂY DỰNG__  
+__CƠ QUAN CHUYÊN MÔN VỀ XÂY DỰNG__
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*
 
 _____________________________

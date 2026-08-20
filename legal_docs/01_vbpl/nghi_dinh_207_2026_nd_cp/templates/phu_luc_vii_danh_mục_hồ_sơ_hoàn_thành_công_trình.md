@@ -13,7 +13,7 @@ usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC A
 
 __PHỤ LỤC VII__
 
-DANH MỤC HỒ SƠ HOÀN THÀNH CÔNG TRÌNH  
+DANH MỤC HỒ SƠ HOÀN THÀNH CÔNG TRÌNH
 *(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)*
 
 __I. HỒ SƠ CHUẨN BỊ ĐẦU TƯ XÂY DỰNG VÀ HỢP ĐỒNG__

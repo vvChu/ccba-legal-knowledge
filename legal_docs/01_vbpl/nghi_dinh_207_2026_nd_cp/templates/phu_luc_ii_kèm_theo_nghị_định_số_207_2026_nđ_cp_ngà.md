@@ -39,7 +39,7 @@ d) Những ý kiến về việc giải quyết các vấn đề phát sinh tron
 
 **4.** Trường hợp chủ đầu tư và các nhà thầu tham gia hoạt động xây dựng công trình phát hành văn bản để giải quyết các vấn đề kỹ thuật trên công trường thì các văn bản này được lưu giữ cùng với nhật ký thi công xây dựng công trình.
 
- 
+
 
 __Phụ lục IIb__
 
@@ -61,48 +61,48 @@ Mẫu số 1:
 
 __TÊN NHÀ THẦU THI CÔNG XÂY DỰNG__
 
-__BẢN VẼ HOÀN CÔNG  
+__BẢN VẼ HOÀN CÔNG
 Ngày ..... tháng ..... năm .....__
 
-Người lập  
-*(Ghi rõ họ tên,  
+Người lập
+*(Ghi rõ họ tên,
 chức vụ, chữ ký)*
 
-Chỉ huy trưởng công trình  
-hoặc giám đốc dự án  
+Chỉ huy trưởng công trình
+hoặc giám đốc dự án
 *(Ghi rõ họ tên, chữ ký)*
 
-Tư vấn giám sát trưởng  
+Tư vấn giám sát trưởng
 *(Ghi rõ họ tên, chức vụ, chữ ký)*
 
 __*Ghi chú:*__ không áp dụng cho hình thức hợp đồng thầu chính, thầu phụ, hợp đồng EPC, hợp đồng chìa khóa trao tay. Kích thước dấu tùy thuộc kích cỡ chữ.
 
- 
+
 
 Mẫu số 2:
 
 __TÊN NHÀ THẦU THI CÔNG XÂY DỰNG__
 
-__BẢN VẼ HOÀN CÔNG  
+__BẢN VẼ HOÀN CÔNG
 Ngày ..... tháng ..... năm .....__
 
-Người lập  
-*(Ghi rõ họ  
-tên, chức  
+Người lập
+*(Ghi rõ họ
+tên, chức
 vụ, chữ ký)*
 
-Chỉ huy trưởng hoặc  
-giám đốc dự án của  
-nhà thầu phụ  
+Chỉ huy trưởng hoặc
+giám đốc dự án của
+nhà thầu phụ
 *(Ghi rõ họ tên, chữ ký)*
 
-Chỉ huy trưởng hoặc  
-giám đốc dự án của  
-nhà thầu chính  
+Chỉ huy trưởng hoặc
+giám đốc dự án của
+nhà thầu chính
 *(Ghi rõ họ tên, chữ ký)*
 
-Tư vấn giám sát trưởng  
-*(Ghi rõ họ tên, chức  
+Tư vấn giám sát trưởng
+*(Ghi rõ họ tên, chức
 vụ, chữ ký )*
 
 __*Ghi chú:*__ áp dụng hình thức hợp đồng thầu chính, thầu phụ, hợp đồng EPC, hợp đồng chìa khóa trao tay. Kích thước dấu tùy thuộc kích cỡ chữ.

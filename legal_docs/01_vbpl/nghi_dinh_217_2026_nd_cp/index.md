@@ -1,9 +1,9 @@
 # Gói Tri Thức Pháp Lý OKF v2.2: 217/2026/NĐ-CP
 
 > [!NOTE]
-> **Văn bản:** Nghị định 217/2026/NĐ-CP về Quản lý dự án đầu tư xây dựng  
-> **Cơ quan ban hành:** Chính phủ (Người ký: Phạm Gia Túc).  
-> **Hiệu lực:** 2026-07-01.  
+> **Văn bản:** Nghị định 217/2026/NĐ-CP về Quản lý dự án đầu tư xây dựng
+> **Cơ quan ban hành:** Chính phủ (Người ký: Phạm Gia Túc).
+> **Hiệu lực:** 2026-07-01.
 > **Mỏ neo PDF Công báo:** [nghi_dinh_217_2026_nd_cp.pdf](./nghi_dinh_217_2026_nd_cp.pdf) *(SHA-256: `2a9eb4d4d5ee8b5726f1c906ac0702d00a04a3452efc65f92d87cc3c8071ab0f`)*.
 
 ---

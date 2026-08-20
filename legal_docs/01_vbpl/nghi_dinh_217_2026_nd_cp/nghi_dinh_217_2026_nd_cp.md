@@ -14,24 +14,24 @@ pdf_anchor: "./nghi_dinh_217_2026_nd_cp.pdf"
 ## NGHỊ ĐỊNH 217/2026/NĐ-CP VỀ QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG
 
 > [!NOTE]
-> **Cơ quan ban hành:** Chính phủ (Người ký: Phạm Gia Túc).  
-> **Ngày ban hành:** 2026-06-19 | **Hiệu lực:** 2026-07-01.  
+> **Cơ quan ban hành:** Chính phủ (Người ký: Phạm Gia Túc).
+> **Ngày ban hành:** 2026-06-19 | **Hiệu lực:** 2026-07-01.
 > **Mỏ neo PDF Công báo (PDF Anchor of Trust):** [`nghi_dinh_217_2026_nd_cp.pdf`](./nghi_dinh_217_2026_nd_cp.pdf) *(SHA-256: `2a9eb4d4d5ee8b5726f1c906ac0702d00a04a3452efc65f92d87cc3c8071ab0f`)*.
 
 ---
 
-__CHÍNH PHỦ  
+__CHÍNH PHỦ
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
-Độc lập - Tự do - Hạnh phúc   
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 ---------------__
 
 Số: 217/2026/NĐ-CP
 
 *Hà Nội, ngày 19 tháng 6 năm 2026*
 
- 
+
 
 __NGHỊ ĐỊNH__
 
@@ -47,7 +47,7 @@ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT XÂY DỰNG VỀ QUẢN L
 
 *Chính phủ ban hành Nghị định quy định chi tiết một số điều của **Luật Xây dựng về quản lý hoạt động xây dựng.*
 
-## Chương I. 
+## Chương I.
 
 __QUY ĐỊNH CHUNG__
 
@@ -326,7 +326,7 @@ c) Có thuyết minh về sự tuân thủ pháp luật về tiêu chuẩn và q
 <a id="dieu-9-khoan-3"></a>
 **3.** Tiêu chuẩn cơ sở được áp dụng khi bảo đảm tuân thủ pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật và có thuyết minh về sự tuân thủ các quy chuẩn kỹ thuật quốc gia.
 
-## Chương II. 
+## Chương II.
 
 __QUẢN LÝ DỰ ÁN ĐẦU TƯ XÂY DỰNG__
 
@@ -1628,7 +1628,7 @@ c) Cá nhân được giao phụ trách bộ phận chuyên môn của dự án 
 <a id="dieu-48-khoan-3"></a>
 **3.** Cá nhân được giao phụ trách bộ phận chuyên môn của dự án phải đảm bảo điều kiện theo quy định tại điểm c khoản 5 Điều 45 Nghị định này.
 
-## Chương III. 
+## Chương III.
 
 __GIẤY PHÉP XÂY DỰNG VÀ QUẢN LÝ TRẬT TỰ XÂY DỰNG__
 
@@ -2134,7 +2134,7 @@ c) Đối với công trình thuộc đối tượng không phải có giấy ph
 <a id="dieu-67-khoan-4"></a>
 **4.** Ủy ban nhân dân cấp tỉnh chịu trách nhiệm về quản lý trật tự xây dựng theo quy định tại khoản 7 Điều 73 Nghị định này.
 
-## Chương IV. 
+## Chương IV.
 
 __XÂY DỰNG CÔNG TRÌNH ĐẶC THÙ__
 
@@ -2254,7 +2254,7 @@ d) Sau khi kết thúc thi công xây dựng dự án, chủ đầu tư và các
 <a id="dieu-72-khoan-3"></a>
 **3.** Đối với công trình quy định tại khoản 2 Điều này, trước khi thi công xây dựng công trình, chủ đầu tư phải gửi hồ sơ thiết kế xây dựng đến cơ quan quản lý về xây dựng tại địa phương để biết và quản lý.
 
-## Chương V. 
+## Chương V.
 
 __ĐIỀU KHOẢN THI HÀNH__
 
