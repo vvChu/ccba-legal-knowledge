@@ -308,7 +308,7 @@ Vật liệu ốp lát hoàn thiện bề mặt các cấu kiện bao che cabin 
 | 7. Tường ngăn cháy và sàn ngăn cháy | REI 150 | REI 180 |
 | 8. Kết cấu giếng |  |
 | 8.1 Giếng thang máy và giếng đường ống kỹ thuật, kênh dẫn và hộp kỹ thuật không cắt qua biên của khoang cháy | REI 120 | REI 120 |
-| 8.2 Giếng thang máy và giếng đường ống kỹ thuật, kênh dẫn và hộp kỹ thuật cắt qua biên của khoang cháy; Giếng thang máy chữa cháy | REI 150 1) | REI 180 1) |
+| 8.2 Giếng thang máy và giếng đường ống kỹ thuật, kênh dẫn và hộp kỹ thuật cắt qua biên của khoang cháy; Giếng thang máy chữa cháy | REI 150<sup>1)</sup> | REI 180<sup>1)</sup> |
 | 9. Tường trong không chịu lực (vách ngăn) |  |
 | 9.1 Tường trong giữa các phòng ở của khách sạn, các phòng văn phòng và tương tự | El 60 | El 60 |
 | 9.2 Tường ngăn cách giữa các phòng với sảnh thông tầng; giữa hành lang với các phòng ở của khách sạn và với các phòng văn phòng | El (EIW) 60 | El (EIW) 60 |
@@ -331,7 +331,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Các bộ phận của nhà như các tường chịu lực, cột chịu lực, hệ giằng, vách cứng, các bộ phận của sàn (dầm xà hoặc tấm sàn) được xếp vào loại các bộ phận chịu lực của nhà nếu chúng tham gia vào việc bảo đảm sự ổn định tổng thể và sự bất biến hình của nhà khi có cháy. Các bộ phận chịu lực mà không tham gia vào việc bảo đảm ổn định tổng thể của nhà phải được đơn vị thiết kế chỉ dân trong tài liệu kỹ thuật của nhà.
 
 <a id="muc-A-2-2-4-2"></a>
-### A.2.2.4.2  Giới hạn chịu lửa của các cửa đi, cửa nắp và các tấm chèn bịt lỗ mở trên các cấu kiện xây dựng có yêu cầu về khả năng chịu lửa theo quy định tại Bảng A.1 phải có giới hạn chịu lửa không nhỏ hơn El 30 (EIW 3 <sup>0)</sup> trong trường hợp sử dụng trong các cấu kiện có giới hạn chịu lửa El 60 (EIW6 <sup>0)</sup>, và không nhỏ hơn El 60 (EIW 6 <sup>0)</sup> trong các trường hợp còn lại.
+### A.2.2.4.2  Giới hạn chịu lửa của các cửa đi, cửa nắp và các tấm chèn bịt lỗ mở trên các cấu kiện xây dựng có yêu cầu về khả năng chịu lửa theo quy định tại Bảng A.1 phải có giới hạn chịu lửa không nhỏ hơn El 30 (EIW 3<sup>0)</sup> trong trường hợp sử dụng trong các cấu kiện có giới hạn chịu lửa El 60 (EIW6<sup>0)</sup>, và không nhỏ hơn El 60 (EIW 6<sup>0)</sup> trong các trường hợp còn lại.
 
 <a id="muc-A-2-2-4-3"></a>
 ### A.2.2.4.3  Các cửa đi của sảnh thang máy và cửa đi của gian máy của thang máy phải là các cửa không lọt khí, khói.

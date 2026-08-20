@@ -68,7 +68,7 @@ Khoảng cách phòng cháy chống cháy giữa các nhà trong một cơ sở 
 | --- | --- | --- | --- |
 | Bậc chịu lửa và cấp nguy hiểm cháy kết cấu | Bậc chịu lửa I và II. <br>Bậc chịu lửa III và IV với cấp S0 | Bậc chịu lửa III và cấp S1 | Bậc chịu lửa III và cấp S2, S3. Bậc chịu lửa IV và cáp S1, S2, S3. Bậc chịu lửa V |
 | 1. Bậc chịu lửa I và II. Bậc chịu lửa III và IV với cấp S0 | Nhà hạng D và E: không quy định | 9 | 12 |
-| 1. Bậc chịu lửa I và II. Bậc chịu lửa III và IV với cấp S0 | Nhà hạng A, B, C: 9 m (xem thêm chú thích <sup>3)</sup> | 9 | 12 |
+| 1. Bậc chịu lửa I và II. Bậc chịu lửa III và IV với cấp S0 | Nhà hạng A, B, C: 9 m (xem thêm chú thích<sup>3)</sup> | 9 | 12 |
 | 2. Bậc chịu lửa III và cấp S1 | 9 | 12 | 15 |
 | 3. Bậc chịu lửa III và cấp S2, S3. Bậc chịu lửa IV và cấp S1, S2, S3. Bậc chịu lửa V | 12 | 15 | 18 | |
 

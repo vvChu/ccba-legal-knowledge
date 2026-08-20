@@ -282,7 +282,7 @@ _CHÚ THÍCH: “Diện tích sàn" ở đây không kể diện tích của c�
 
 ### <a id="bang-g-9" name="bang-g-9"></a>Bảng G.9 - Hệ số không gian sàn 1)
 
-| Không gian sử dụng <sup>2)</sup>, 3) | Hệ số không gian sàn, m2/người |
+| Không gian sử dụng<sup>2)</sup>, 3) | Hệ số không gian sàn, m2/người |
 | --- | --- |
 | 1. Khu vực vui chơi có mái che, hội trường, nơi đông người, câu lạc bộ, sàn nhảy, quầy Bar, Karaoke và các khu tương tự | 1,0 |
 | 2. Sảnh lớn, sảnh thông tầng, khu tiếp đón, khu khách chờ, và tương tự | 3,0 |
@@ -297,4 +297,9 @@ _CHÚ THÍCH: “Diện tích sàn" ở đây không kể diện tích của c�
 | 11. Phòng ngủ hoặc phòng ngủ kết hợp phòng học | 8,0 |
 | 12. Phòng khách, phòng giải trí | 10,0 |
 | 13. Kho hoặc nơi chứa đồ | 30,0 |
-| 14. Nhà để xe ôtô | 2 người/ô để xe |_1) Nếu không sử dụng các giá trị trong bảng này thì có thể xác định hệ số không gian sàn theo số liệu thực tế lấy từ công trình tương tự. Trong trường hợp này, các số liệu cần phải phản ánh được mật độ sinh hoạt trung bình tại thời điểm cao nhất trong năm. 2) Khi một đối tượng không thuộc không gian sử dụng được nêu ở trên thì có thể lựa chọn giá trị phù hợp từ một đối tượng tương tự. 3) Nếu một khu vực nhà được sử dụng cho nhiều mục đích khác nhau thì cần áp dụng hệ số không gian sàn tính ra số lượng người lớn nhất. Nếu nhà có nhiều khu vực sử dụng khác nhau thì mỗi khu vực cần được tính toán với hệ số không gian tương ứng cho khu vực đó. |
+| 14. Nhà để xe ôtô | 2 người/ô để xe |
+
+_GHI CHÚ CHỈ SỐ PHỤ:_
+- **1)** Nếu không sử dụng các giá trị trong bảng này thì có thể xác định hệ số không gian sàn theo số liệu thực tế lấy từ công trình tương tự. Trong trường hợp này, các số liệu cần phải phản ánh được mật độ sinh hoạt trung bình tại thời điểm cao nhất trong năm.
+- **2)** Khi một đối tượng không thuộc không gian sử dụng được nêu ở trên thì có thể lựa chọn giá trị phù hợp từ một đối tượng tương tự.
+- **3)** Nếu một khu vực nhà được sử dụng cho nhiều mục đích khác nhau thì cần áp dụng hệ số không gian sàn tính ra số lượng người lớn nhất. Nếu nhà có nhiều khu vực sử dụng khác nhau thì mỗi khu vực cần được tính toán với hệ số không gian tương ứng cho khu vực đó.

@@ -404,9 +404,9 @@ Khi trang bị chữa cháy tự động toàn nhà cho nhà sản xuất, cho p
 > 
 > "CHÚ THÍCH: Những chỗ có ký hiệu “-” thì cho phép áp dụng tài liệu chuẩn NFPA 5000 [1] hoặc tiêu chuẩn tương đương khác để xác định chiều cao và diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy tương ứng với giới hạn chịu lửa của các kết cấu, cấu kiện nhà và các điều kiện khác.".
 
-| Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà <sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Diện tích lớn nhất cho phép của một tảng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tảng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tảng nhà trong phạm vi một khoang cháy, m2 |
+| Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà<sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Diện tích lớn nhất cho phép của một tảng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tảng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tảng nhà trong phạm vi một khoang cháy, m2 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà <sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Nhà 1 tầng | Nhà 2 tầng | Nhà từ 3 tầng trở lên |
+| Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà<sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Nhà 1 tầng | Nhà 2 tầng | Nhà từ 3 tầng trở lên |
 | (1) | (2) | (3) | (4) | (5) | (6) | (7) |
 | A | 36 | I, II | S0 | Không hạn chế | 5 200 | 3 500 |
 | A | 24 | III | S0 | 7 800 | 3 500 | 2 600 |
@@ -414,12 +414,12 @@ Khi trang bị chữa cháy tự động toàn nhà cho nhà sản xuất, cho p
 | B | 36 | I, II | S0 | Không hạn chế | 10 400 | 7800 |
 | B | 24 | III | S0 | 7 800 | 3 500 | 2 600 |
 | B | Không quy định | IV | S0 | 3 500 | - | - |
-| C | Xem <sup>2)</sup> | Xem <sup>2)</sup> | Xem <sup>2)</sup> | Xem <sup>2)</sup> | Xem <sup>2)</sup> | Xem <sup>2)</sup> |
-| C | 48 | I, II | S0 | Không hạn chế | 25 000 <br>7 800 3) | 10 400 <br>5 200 3) |
-| C | 24 | III | S0, S1 | 25 000 | 10 400 <br>5 200 3) | 5 200 <br>3 600 3) |
+| C | Xem<sup>2)</sup> | Xem<sup>2)</sup> | Xem<sup>2)</sup> | Xem<sup>2)</sup> | Xem<sup>2)</sup> | Xem<sup>2)</sup> |
+| C | 48 | I, II | S0 | Không hạn chế | 25 000 <br>7 800<sup>3)</sup> | 10 400 <br>5 200<sup>3)</sup> |
+| C | 24 | III | S0, S1 | 25 000 | 10 400 <br>5 200<sup>3)</sup> | 5 200 <br>3 600<sup>3)</sup> |
 | C | 18 | IV | S0, S1 | 25 000 | 10 400 | - |
 | C | 18 | IV | S2, S3 | 2 600 | 2 000 | - |
-| C | 12 | V | Không quy định | 1 200 | 600 4) | - |
+| C | 12 | V | Không quy định | 1 200 | 600<sup>4)</sup> | - |
 | D | 54 | I, II | S0 | Không hạn chế | Không hạn chế | Không hạn chế |
 | D | 36 | III | S0 | Không hạn chế | 25 000 | 10 400 |
 | D | 30 | III | S1 | Không hạn chế | 10 400 | 7 800 |
@@ -461,9 +461,9 @@ Bậc chịu lửa, cấp nguy hiểm cháy kết cấu, chiều cao nhà lớn 
 > 
 > CHÚ THÍCH 2: Nhà hạng D bậc V lấy tương đương như nhà hạng E bậc V.”.
 
-| Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà <sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 |
+| Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà<sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà <sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Nhà 1 tầng | Nhà 2 tầng | Nhà từ 3 tầng trở lên |
+| Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà<sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Nhà 1 tầng | Nhà 2 tầng | Nhà từ 3 tầng trở lên |
 | C | 36 | I, II | S0 | Không hạn chế | 25 000 | 10 400 |
 | C | 18 | III | S0 | 25 000 | 10 400 | 5 200 |
 | C | 12 | IV | S0, S1 | 25 000 | 10 400 | - |
@@ -513,18 +513,18 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 > 
 > “CHÚ THÍCH 3: Đối với các nhà gara để xe bậc IV và từ 2 tầng trở lên, trong trường hợp chủ công trình/cơ sở không có yêu cầu về hạn chế thiệt hại đối với các xe trong gara, cho phép không bảo vệ chịu lửa các sàn tầng với điều kiện các cầu thang thoát nạn từ các tầng trên được bố trí sát biên nhà.”.
 
-| Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà <sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 |
+| Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà<sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 | Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà <sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Nhà 1 tầng | Nhà 2 tầng | Nhà từ 3 tầng trở lên |
+| Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy | Chiều cao lớn nhất cho phép của nhà<sup>1)</sup>, m | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Nhà 1 tầng | Nhà 2 tầng | Nhà từ 3 tầng trở lên |
 | (1) | (2) | (3) | (4) | (5) | (6) | (7) |
 | A | Không quy định | I, II | S0 | 5 200 | - | - |
 | A | Không quy định | III | S0 | 4 400 | - | - |
 | A | Không quy định | IV | S0 | 3 600 | - | - |
-| A | Không quy định | IV | S2, S3 | 75 2) | - | - |
+| A | Không quy định | IV | S2, S3 | 75<sup>2)</sup> | - | - |
 | B | 18 | I, II | S0 | 7 800 | 5 200 | 3 500 |
 | B | Không quy định | III | S0 | 6 500 | - | - |
 | B | Không quy định | IV | S0 | 5 200 | - | - |
-| B | Không quy định | IV | S2, S3 | 75 2) | - | - |
+| B | Không quy định | IV | S2, S3 | 75<sup>2)</sup> | - | - |
 | C | 36 | I, II | S0 | 10 400 | 7 800 | 5 200 |
 | C | 24 | III | S0 | 10 400 | 5 200 | 2 600 |
 | C | Không quy định | IV | S0, S1 | 7 800 | - | - |

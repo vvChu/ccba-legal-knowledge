@@ -101,6 +101,72 @@ def clean_html_tables(text: str) -> str:
     pattern = re.compile(r"<table.*?>.*?</table>", re.DOTALL | re.IGNORECASE)
     return pattern.sub(_replace_table, text)
 
+def clean_table_footnotes_and_superscripts(text: str) -> str:
+    """Untrap footnotes from table rows and format in-cell markers as <sup>X)</sup>."""
+    lines = text.splitlines()
+    new_lines: list[str] = []
+    in_table = False
+    table_lines: list[str] = []
+
+    def _process_table(t_lines: list[str]) -> list[str]:
+        extracted_footnotes: list[str] = []
+        cleaned_t_lines: list[str] = []
+
+        for line in t_lines:
+            trapped_match = re.search(r"\|\s*(_[1-9]\)|_CHÚ THÍCH|_GHI CHÚ|_Đối với|_Ghi chú|_Không yêu cầu|_Nếu không|_Cho phép)(.*?)\|\s*$", line)
+            if trapped_match:
+                note_text = trapped_match.group(1) + trapped_match.group(2)
+                line = line[:trapped_match.start()] + "|"
+                clean_note = note_text.strip("_ ").strip()
+                note_parts = re.split(r"(?<=\.)\s+(?=[1-9]\))", clean_note)
+                if not note_parts or (len(note_parts) == 1 and not clean_note.startswith(("1)", "2)", "3)", "4)")):
+                    if not clean_note.startswith(("1)", "2)", "3)", "4)")):
+                        clean_note = "1) " + clean_note
+                    note_parts = [clean_note]
+
+                for part in note_parts:
+                    p = part.strip()
+                    m_num = re.match(r"^([1-9]\))\s*(.*)", p)
+                    if m_num:
+                        extracted_footnotes.append(f"- **{m_num.group(1)}** {m_num.group(2)}")
+                    else:
+                        extracted_footnotes.append(f"- {p}")
+
+            def _superscript_marker(m: re.Match) -> str:
+                return f"{m.group(1)}<sup>{m.group(2)}</sup>"
+
+            line = re.sub(r"(\b(?:EIW|REI|EI|E|RE|R|DN|\d+)\s*(?:\d+)?\s+)([1-9]\))(?!\<|/sup)", _superscript_marker, line)
+            line = re.sub(r"([a-zA-ZÀ-ỹ]+)\s+([1-9]\))(?!\<|/sup)", r"\1<sup>\2</sup>", line)
+            cleaned_t_lines.append(line)
+
+        res = cleaned_t_lines
+        if extracted_footnotes:
+            res.append("")
+            res.append("_GHI CHÚ CHỈ SỐ PHỤ:_")
+            for fn in extracted_footnotes:
+                res.append(fn)
+        return res
+
+    for line in lines:
+        if line.startswith("|") and line.endswith("|"):
+            if not in_table:
+                in_table = True
+                table_lines = [line]
+            else:
+                table_lines.append(line)
+        else:
+            if in_table:
+                in_table = False
+                new_lines.extend(_process_table(table_lines))
+                table_lines = []
+            new_lines.append(line)
+
+    if in_table:
+        new_lines.extend(_process_table(table_lines))
+
+    return "\n".join(new_lines)
+
+
 def inject_semantic_anchors(text: str, profile: Optional[DocProfile] = None) -> str:
     """Inject hidden inline semantic anchors into Markdown text (idempotent)."""
     if profile is None:

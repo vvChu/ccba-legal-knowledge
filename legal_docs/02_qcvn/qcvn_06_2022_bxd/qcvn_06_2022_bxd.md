@@ -814,27 +814,34 @@ Tính nguy hiểm cháy của bộ phận ngăn cháy được xác định bằ
 | 1. Tường ngăn cháy | 2 | REI 45 | 2 | 2 |
 | 2. Vách ngăn cháy | 1 | EI 45 | 2 | 1 |
 | 2. Vách ngăn cháy | 2 | El 15 | 3 | 2 |
-| 3 Vách ngăn cháy có diện tích kính lớn hơn 25 % diện tích vách | 1 | EIW 45 1) | 2 | 1 |
-| 3 Vách ngăn cháy có diện tích kính lớn hơn 25 % diện tích vách | 2 | EIW 15 1) | 3 | 2 |
+| 3 Vách ngăn cháy có diện tích kính lớn hơn 25 % diện tích vách | 1 | EIW 45<sup>1)</sup> | 2 | 1 |
+| 3 Vách ngăn cháy có diện tích kính lớn hơn 25 % diện tích vách | 2 | EIW 15<sup>1)</sup> | 3 | 2 |
 | 4 Sàn ngăn cháy | 1 | REI 150 | 1 | 1 |
 | 4 Sàn ngăn cháy | 2 | REI 60 | 2 | 1 |
 | 4 Sàn ngăn cháy | 3 | REI 45 | 2 | 1 |
-| 4 Sàn ngăn cháy | 4 | REl 15 | 3 | 2 |_Đối với phần vật liệu khác kính áp dụng chỉ tiêu EI, đối với phần kính áp dụng chỉ tiêu EW. Các vách ngăn cháy đã thử nghiệm đạt chỉ tiêu EI đối với cả phần kính được xem là đạt chỉ tiêu EW. |
+| 4 Sàn ngăn cháy | 4 | REl 15 | 3 | 2 |
+
+_GHI CHÚ CHỈ SỐ PHỤ:_
+- **1)** Đối với phần vật liệu khác kính áp dụng chỉ tiêu EI, đối với phần kính áp dụng chỉ tiêu EW. Các vách ngăn cháy đã thử nghiệm đạt chỉ tiêu EI đối với cả phần kính được xem là đạt chỉ tiêu EW.
 
 ### <a id="bang-2" name="bang-2"></a>Bảng 2 - Giới hạn chịu lửa của các bộ phận chèn bịt của bộ phận ngăn cháy
 
 | Các bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy | Loại bộ phận chèn bịt của bộ phận ngăn cháy | Giới hạn chịu lửa |
 | --- | --- | --- |
-| 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy <sup>1)</sup>, màn ngăn cháy | 1 | El 60 |
-| 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy <sup>1)</sup>, màn ngăn cháy | 2 | El 30 |
-| 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy <sup>1)</sup>, màn ngăn cháy | 3 | EI 15 |
-| 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 1 | EIW 60 2) |
-| 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 2 | EIW 30 2) |
-| 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 3 | EIW 15 2) |
+| 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy<sup>1)</sup>, màn ngăn cháy | 1 | El 60 |
+| 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy<sup>1)</sup>, màn ngăn cháy | 2 | El 30 |
+| 1. Cửa đi (trừ: cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi cửa kín khói), cửa nắp, van ngăn cháy<sup>1)</sup>, màn ngăn cháy | 3 | EI 15 |
+| 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 1 | EIW 60<sup>2)</sup> |
+| 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 2 | EIW 30<sup>2)</sup> |
+| 2. Cửa đi có tỉ lệ diện tích kính lớn hơn 25 % diện tích cửa đi | 3 | EIW 15<sup>2)</sup> |
 | 3. Cửa giếng thang máy (khi có yêu cầu về giới hạn chịu lửa) | 2 | E 30 |
 | 4. Cửa sổ | 1 | E 60 |
 | 4. Cửa sổ | 2 | E 30 |
-| 4. Cửa sổ | 3 | E 15 |_1) Giới hạn chịu lửa của van ngăn cháy được phép chỉ lấy theo tính toàn vẹn (E) nếu những van này lắp đặt bên trong các kênh, giếng và đường ống dẫn mà bảo đảm được khả năng chịu lửa yêu cầu đối với cả tính toàn vẹn (E) và tính cách nhiệt (I). 2) Đối với phân vật liệu khác kính áp dụng chỉ tiêu El, đối với phần kính áp dụng chỉ tiêu EW. Các cửa đi đã thử nghiệm đạt chỉ tiêu El đối với cả phần kính được xem là đạt chỉ tiêu EW. |
+| 4. Cửa sổ | 3 | E 15 |
+
+_GHI CHÚ CHỈ SỐ PHỤ:_
+- **1)** Giới hạn chịu lửa của van ngăn cháy được phép chỉ lấy theo tính toàn vẹn (E) nếu những van này lắp đặt bên trong các kênh, giếng và đường ống dẫn mà bảo đảm được khả năng chịu lửa yêu cầu đối với cả tính toàn vẹn (E) và tính cách nhiệt (I).
+- **2)** Đối với phân vật liệu khác kính áp dụng chỉ tiêu El, đối với phần kính áp dụng chỉ tiêu EW. Các cửa đi đã thử nghiệm đạt chỉ tiêu El đối với cả phần kính được xem là đạt chỉ tiêu EW.
 
 <a id="muc-2-3-3-6"></a>
 ### 2.3.3.6  Yêu cầu đối với các bộ phận của khoang đệm ngăn cháy các loại được quy định tại Bảng 3.
@@ -1041,7 +1048,7 @@ _CHÚ THÍCH: Khi áp dụng vào thực tế xây dựng các kết cấu hoặ
 <a id="muc-2-5-5-3"></a>
 ### 2.5.5.3  Trong các nhà có nhóm nguy hiểm cháy theo công năng nhất định, mà trong trường hợp chung cho phép bố trí nhóm các gian phòng và các gian phòng có nhóm nguy hiểm cháy theo công năng khác, thì ngoài việc tuân theo các yêu cầu chung của quy chuẩn này, cần phải bảo đảm các điều kiện bổ sung theo các tiêu chuẩn thiết kế các dạng cụ thể của nhà và các thiết bị kỹ thuật tương ứng đó.
 
-### <a id="bang-6" name="bang-6"></a>Bảng 6 - Phân nhóm nhà <sup>1)</sup> dựa trên tính nguy hiểm cháy theo công năng
+### <a id="bang-6" name="bang-6"></a>Bảng 6 - Phân nhóm nhà<sup>1)</sup> dựa trên tính nguy hiểm cháy theo công năng
 
 | Nhóm | Mục đích sử dụng | Đặc điểm sử dụng |
 | --- | --- | --- |
@@ -1070,7 +1077,10 @@ _CHÚ THÍCH: Khi áp dụng vào thực tế xây dựng các kết cấu hoặ
 | F5 | Các nhà, công trình, gian phòng có công năng sản xuất và kho | Các gian phòng trong các nhà này được đặc trưng bởi sự có mặt của nhóm người làm việc cố định, kể cả làm việc suốt ngày đêm. |
 | F5.1 | Các nhà sản xuất, các gian phòng sản xuất và thí nghiệm, nhà xưởng, cửa hàng sửa chữa, bảo đường ô-tô. mô-tô, xe gắn máy; và các nhà có đặc điểm sử dụng tương tự. | Các gian phòng trong các nhà này được đặc trưng bởi sự có mặt của nhóm người làm việc cố định, kể cả làm việc suốt ngày đêm. |
 | F5.2 | Các nhà và công trình kho, ga ra để xe không có dịch vụ kỹ thuật và sửa chữa; kho chứa sách, kho lưu trữ, trung tâm lưu trữ, trung tâm cơ sở dữ liệu chuyên ngành, các gian phòng kho, khu vực lưu giữ hàng hóa của cảng cạn; kho hàng hóa, vật tư cháy được hoặc hàng hóa vật tư không cháy đựng trong các bao bì cháy được, và các nhà có đặc điểm sử dụng tương tự. | Các gian phòng trong các nhà này được đặc trưng bởi sự có mặt của nhóm người làm việc cố định, kể cả làm việc suốt ngày đêm. |
-| F5.3 | Các nhà phục vụ nông nghiệp và phát triển nông thôn. |  |_1) Bảng này áp dụng cho nhà, công trình, khoang cháy, gian phòng hoặc nhóm các phòng có công năng liên quan với nhau. |
+| F5.3 | Các nhà phục vụ nông nghiệp và phát triển nông thôn. |  |
+
+_GHI CHÚ CHỈ SỐ PHỤ:_
+- **1)** Bảng này áp dụng cho nhà, công trình, khoang cháy, gian phòng hoặc nhóm các phòng có công năng liên quan với nhau.
 
 <a id="muc-2-5-6"></a>
 ### 2.5.6  Phân hạng nhà, công trình và gian phòng có công năng sản xuất và kho theo tính nguy hiểm cháy và cháy nổ
@@ -2045,12 +2055,12 @@ _CHÚ THÍCH:_
 | --- | --- | --- | --- | --- | --- |
 | Loại nhà | ≤ 1 | > 1 và ≤ 5 | > 5 và ≤ 25 | > 25 và ≤ 50 | > 50 |
 | 1. Nhà nhóm F1.3, F1.4 có một hoặc nhiều đơn nguyên với số tầng: |  |  |  |  |
-| ≤ 3 | 10 1) | 10 1) | 15 | 15 | 20 |
+| ≤ 3 | 10<sup>1)</sup> | 10<sup>1)</sup> | 15 | 15 | 20 |
 | > 3 và ≤ 12 | 10 | 15 | 15 | 20 | 20 |
 | > 12 và ≤ 16 | - | 20 | 20 | 25 | 25 |
 | > 16 | - | 20 | 25 | 25 | 30 |
 | 2. Nhà nhóm F1.1, F1.2, F2, F3 và F4 với số tầng: |  |  |  |  |
-| ≤ 3 | 10 1) | 10 1) | 15 | 20 | 25 |
+| ≤ 3 | 10<sup>1)</sup> | 10<sup>1)</sup> | 15 | 20 | 25 |
 | >3 và ≤ 12 | 10 | 15 | 20 | 25 | 30 |
 | > 12 và ≤ 16 | - | 20 | 25 | 30 | 35 |
 | > 16 | - | 25 | 30 | 30 | 35 | |
@@ -2327,14 +2337,14 @@ Trường hợp sử dụng các họng nước lưu lượng thấp thì phải
 | ≤ 16 tầng, khi hành lang chung dài > 10 m | 2 | 2,5 |
 | > 16 và ≤ 25 tầng, khi hành lang chung dài ≤ 10 m | 2 | 2,5 |
 | > 16 và ≤ 25 tầng, khi hành lang chung dài > 10 m | 3 | 2,5 |
-| 2. Nhà hành chính <sup>1)</sup> | 2. Nhà hành chính <sup>1)</sup> | 2. Nhà hành chính <sup>1)</sup> |
+| 2. Nhà hành chính<sup>1)</sup> | 2. Nhà hành chính<sup>1)</sup> | 2. Nhà hành chính<sup>1)</sup> |
 | ≤ 10 tầng và khối tích ≤ 25 000 m3 | 1 | 2,5 |
 | ≤ 10 tầng và khối tích > 25 000 m3 | 2 | 2,5 |
 | > 10 tầng và khối tích ≤ 25 000 m3 | 2 | 2,5 |
 | >10 tầng và khối tích > 25 000 m3 | 3 | 2,5 |
 | ≤ 300 chỗ | 2 | 2,5 |
 | > 300 chỗ | 2 | 5,0 |
-| 4. Ký túc xá và nhà công cộng (ngoại trừ mục <sup>2)</sup> 2) | 4. Ký túc xá và nhà công cộng (ngoại trừ mục <sup>2)</sup> 2) | 4. Ký túc xá và nhà công cộng (ngoại trừ mục <sup>2)</sup> 2) |
+| 4. Ký túc xá và nhà công cộng (ngoại trừ mục<sup>2)</sup> 2) | 4. Ký túc xá và nhà công cộng (ngoại trừ mục<sup>2)</sup> 2) | 4. Ký túc xá và nhà công cộng (ngoại trừ mục<sup>2)</sup> 2) |
 | ≤ 10 tầng và khối tích ≤ 25 000 m3 | 1 | 2,5 |
 | ≤ 10 tầng và khối tích > 25 000 m3 | 2 | 2,5 |
 | > 10 tầng và khối tích ≤ 25 000 m3 | 2 | 2,5 |
@@ -2370,7 +2380,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | Chiều cao tia nước đặc, m | Lưu lượng của lăng phun, L/s | 10 | 15 | 20 | Lưu lượng của lăng phun, L/s | 10 | 15 | 20 | Lưu lượng của lăng phun, L/s | 10 | 15 | 20 |
 | Đường kính đầu lăng phun chữa cháy, mm | Đường kính đầu lăng phun chữa cháy, mm | Đường kính đầu lăng phun chữa cháy, mm | Đường kính đầu lăng phun chữa cháy, mm | Đường kính đầu lăng phun chữa cháy, mm | Đường kính đầu lăng phun chữa cháy, mm | Đường kính đầu lăng phun chữa cháy, mm | Đường kính đầu lăng phun chữa cháy, mm | Đường kính đầu lăng phun chữa cháy, mm | Đường kính đầu lăng phun chữa cháy, mm | Đường kính đầu lăng phun chữa cháy, mm | Đường kính đầu lăng phun chữa cháy, mm |
 | 13 | 13 | 13 | 13 | 16 | 16 | 16 | 16 | 19 | 19 | 19 | 19 |
-| Họng nước chữa cháy DN 50 1) | Họng nước chữa cháy DN 50 1) | Họng nước chữa cháy DN 50 1) | Họng nước chữa cháy DN 50 1) | Họng nước chữa cháy DN 50 1) | Họng nước chữa cháy DN 50 1) | Họng nước chữa cháy DN 50 1) | Họng nước chữa cháy DN 50 1) | Họng nước chữa cháy DN 50 1) | Họng nước chữa cháy DN 50 1) | Họng nước chữa cháy DN 50 1) | Họng nước chữa cháy DN 50 1) |
+| Họng nước chữa cháy DN 50<sup>1)</sup> | Họng nước chữa cháy DN 50<sup>1)</sup> | Họng nước chữa cháy DN 50<sup>1)</sup> | Họng nước chữa cháy DN 50<sup>1)</sup> | Họng nước chữa cháy DN 50<sup>1)</sup> | Họng nước chữa cháy DN 50<sup>1)</sup> | Họng nước chữa cháy DN 50<sup>1)</sup> | Họng nước chữa cháy DN 50<sup>1)</sup> | Họng nước chữa cháy DN 50<sup>1)</sup> | Họng nước chữa cháy DN 50<sup>1)</sup> | Họng nước chữa cháy DN 50<sup>1)</sup> | Họng nước chữa cháy DN 50<sup>1)</sup> |
 | 6 | - | - | - | - | 2,6 | 0,092 | 0,096 | 0,100 | 3,4 | 0,088 | 0,096 | 0,104 |
 | 8 | - | - | - | - | 2,9 | 0,120 | 0,125 | 0,130 | 4,1 | 0,129 | 0,138 | 0,148 |
 | 10 | - | - | - | - | 3,3 | 0,151 | 0,157 | 0,164 | 4.6 | 0,160 | 0,173 | 0,185 |
@@ -2378,7 +2388,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | 14 | 2,8 | 0,236 | 0,241 | 0,245 | 4,2 | 0,248 | 0,255 | 0,263 | - | - | - | - |
 | 16 | 3,2 | 0,316 | 0,322 | 0,328 | 4,6 | 0,293 | 0,300 | 0,318 | - | - | - | - |
 | 18 | 3,6 | 0,390 | 0,398 | 0,406 | 5,1 | 0,360 | 0,380 | 0,400 | - | - | - | - |
-| Họng nước chữa cháy DN 65 1) | Họng nước chữa cháy DN 65 1) | Họng nước chữa cháy DN 65 1) | Họng nước chữa cháy DN 65 1) | Họng nước chữa cháy DN 65 1) | Họng nước chữa cháy DN 65 1) | Họng nước chữa cháy DN 65 1) | Họng nước chữa cháy DN 65 1) | Họng nước chữa cháy DN 65 1) | Họng nước chữa cháy DN 65 1) | Họng nước chữa cháy DN 65 1) | Họng nước chữa cháy DN 65 1) |
+| Họng nước chữa cháy DN 65<sup>1)</sup> | Họng nước chữa cháy DN 65<sup>1)</sup> | Họng nước chữa cháy DN 65<sup>1)</sup> | Họng nước chữa cháy DN 65<sup>1)</sup> | Họng nước chữa cháy DN 65<sup>1)</sup> | Họng nước chữa cháy DN 65<sup>1)</sup> | Họng nước chữa cháy DN 65<sup>1)</sup> | Họng nước chữa cháy DN 65<sup>1)</sup> | Họng nước chữa cháy DN 65<sup>1)</sup> | Họng nước chữa cháy DN 65<sup>1)</sup> | Họng nước chữa cháy DN 65<sup>1)</sup> | Họng nước chữa cháy DN 65<sup>1)</sup> |
 | 6 | - | - | - | - | 2,6 | 0,088 | 0,089 | 0,090 | 3,4 | 0,078 | 0,080 | 0,083 |
 | 8 | - | - | - | - | 2,9 | 0,110 | 0,112 | 0,114 | 4,1 | 0,114 | 0,117 | 0,121 |
 | 10 | - | - | - | - | 3,3 | 0,140 | 0,143 | 0,146 | 4,6 | 0,143 | 0,147 | 0,151 |
@@ -2386,7 +2396,10 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | 14 | 2,8 | 0,23 | 0,231 | 0,233 | 4,2 | 0,230 | 0,233 | 0,235 | 5,7 | 0,218 | 0,224 | 0,230 |
 | 16 | 3,2 | 0,31 | 0,313 | 0,315 | 4,6 | 0,276 | 0,280 | 0,284 | 6,3 | 0,266 | 0,273 | 0,280 |
 | 18 | 3,6 | 0,38 | 0,383 | 0,385 | 5,1 | 0,338 | 0,342 | 0,346 | 7,0 | 0,329 | 0,338 | 0,348 |
-| 20 | 4,0 | 0,464 | 0,467 | 0,470 | 5,6 | 0,412 | 0,424 | 0,418 | 7,5 | 0,372 | 0,385 | 0,397 |_1) DN - Viết tắt của Diameter Nominal - Đường kính trong danh nghĩa, đơn vị tính bằng milimét (mm). |
+| 20 | 4,0 | 0,464 | 0,467 | 0,470 | 5,6 | 0,412 | 0,424 | 0,418 | 7,5 | 0,372 | 0,385 | 0,397 |
+
+_GHI CHÚ CHỈ SỐ PHỤ:_
+- **1)** DN - Viết tắt của Diameter Nominal - Đường kính trong danh nghĩa, đơn vị tính bằng milimét (mm).
 
 <a id="muc-5-2-2"></a>
 ### 5.2.2  Để tính toán công suất máy bơm và lượng nước dự trữ cho chữa cháy, số tia phun nước và lưu lượng nước cho chữa cháy trong nhà công cộng đối với phần nhà nằm ở chiều cao PCCC trên 50 m phải lấy tương ứng là 4 tia, mỗi tia 2,5 L/s, đối với nhà nhóm F5 hạng nguy hiểm cháy nổ A, B, C có chiều cao PCCC trên 50 m lấy tương ứng là 4 tia, mỗi tia 5 L/s.
@@ -2551,13 +2564,16 @@ Tại những địa phương chưa có đủ điều kiện hạ tầng giao th
 
 | Nhóm nguy hiểm cháy theo công năng của nhà / Chỉ tiêu kích thước bãi đỗ | Kích thước bãi đỗ xe chữa cháy, m, tương ứng theo chiều cao PCCC của nhà, m | Kích thước bãi đỗ xe chữa cháy, m, tương ứng theo chiều cao PCCC của nhà, m | Kích thước bãi đỗ xe chữa cháy, m, tương ứng theo chiều cao PCCC của nhà, m |
 | --- | --- | --- | --- |
-| ≤ 15 | > 15 và ≤ 28 1) | > 28 |
+| ≤ 15 | > 15 và ≤ 28<sup>1)</sup> | > 28 |
 | 1. Nhà nhóm F1.3 |  |  |
 | a) Chiều rộng của bãi đỗ xe chữa cháy | Không yêu cầu | ≥ 6 | ≥ 6 |
 | b) Chiều dài của bãi đỗ xe chữa cháy | Không yêu cầu | ≥ 15 | ≥ 15 |
 | 2. Các nhóm nhà còn lại |  |  |
 | a) Chiều rộng của bãi đỗ xe chữa cháy | Không yêu cầu | ≥ 6 | ≥ 6 |
-| b) Chiều dài của bãi đỗ xe chữa cháy | Theo Bảng 15 và Bảng 16 | Theo Bảng 15 và Bảng 16 | Theo Bảng 15 và Bảng 16 |_1) Không yêu cầu có bãi đỗ xe chữa cháy đối vốn nhà có số người sử dụng trên mỗi tầng, tính theo Bảng G 9 (Phụ lục G), không vượt quá 50 người và khoảng cách từ đường cho xe chữa cháy đến họng tiếp nước vào nhà không được lớn hơn 18 m. |
+| b) Chiều dài của bãi đỗ xe chữa cháy | Theo Bảng 15 và Bảng 16 | Theo Bảng 15 và Bảng 16 | Theo Bảng 15 và Bảng 16 |
+
+_GHI CHÚ CHỈ SỐ PHỤ:_
+- **1)** Không yêu cầu có bãi đỗ xe chữa cháy đối vốn nhà có số người sử dụng trên mỗi tầng, tính theo Bảng G 9 (Phụ lục G), không vượt quá 50 người và khoảng cách từ đường cho xe chữa cháy đến họng tiếp nước vào nhà không được lớn hơn 18 m.
 
 <a id="muc-6-2-1-3"></a>
 ### 6.2.1.3  Chỉ cho phép có các kết cấu chặn phía trên đường cho xe chữa cháy và bãi đỗ xe chữa cháy nếu bảo đảm tất cả những yêu cầu sau:
@@ -2619,8 +2635,11 @@ _CHÚ THÍCH:_
 | > 2 000 và ≤ 4 000 | 1/4 chu vi | 1/6 và không nhỏ hơn 15 m |
 | > 4 000 và ≤ 8 000 | 1/2 chu vi | 1/4 chu vi |
 | > 8 000 và ≤ 16 000 | 3/4 chu vi | 1/2 chu vi |
-| > 16 000 và ≤ 32 000 | Bao quanh mặt bằng nhà <sup>1)</sup> | 3/4 chu vi |
-| > 32 000 | Bao quanh mặt bằng nhà <sup>1)</sup> | Bao quanh mặt bằng nhà <sup>1)</sup> |_1) Cho phép không đi theo biên của mặt bằng nhưng phải bảo đảm quy định tại 6.2.3 |
+| > 16 000 và ≤ 32 000 | Bao quanh mặt bằng nhà<sup>1)</sup> | 3/4 chu vi |
+| > 32 000 | Bao quanh mặt bằng nhà<sup>1)</sup> | Bao quanh mặt bằng nhà<sup>1)</sup> |
+
+_GHI CHÚ CHỈ SỐ PHỤ:_
+- **1)** Cho phép không đi theo biên của mặt bằng nhưng phải bảo đảm quy định tại 6.2.3
 
 ### <a id="bang-16" name="bang-16"></a>Bảng 16 - Chiều dài của bãi đỗ xe chữa cháy đối với nhà nhóm F5
 
@@ -2631,9 +2650,12 @@ _CHÚ THÍCH:_
 | > 28 400 và ≤ 56 800 | 1/4 chu vi | 1/6 chu vi và không nhỏ hơn 15 m |
 | > 56 800 và ≤ 85 200 | 1/2 chu vi | 1/4 chu vi |
 | > 85 200 và ≤ 113 600 | 3/4 chu vi | 1/4 chu vi |
-| > 113 600 và ≤ 170 400 | Bao quanh mặt bằng nhà <sup>1)</sup> | 1/2 chu vi |
-| > 170 400 và ≤ 227 200 | Bao quanh mặt bằng nhà <sup>1)</sup> | 3/4 chu vi |
-| > 227 200 | Bao quanh mặt bằng nhà <sup>1)</sup> | Bao quanh mặt bằng nhà <sup>1)</sup> |_1) Cho phép không đi theo biên của mặt bằng nhưng phải bảo đảm quy định tại 6.2.3. |
+| > 113 600 và ≤ 170 400 | Bao quanh mặt bằng nhà<sup>1)</sup> | 1/2 chu vi |
+| > 170 400 và ≤ 227 200 | Bao quanh mặt bằng nhà<sup>1)</sup> | 3/4 chu vi |
+| > 227 200 | Bao quanh mặt bằng nhà<sup>1)</sup> | Bao quanh mặt bằng nhà<sup>1)</sup> |
+
+_GHI CHÚ CHỈ SỐ PHỤ:_
+- **1)** Cho phép không đi theo biên của mặt bằng nhưng phải bảo đảm quy định tại 6.2.3.
 
 <a id="muc-6-2-2-4"></a>
 ### 6.2.2.4  Bố trí đường cho xe chữa cháy hoặc bãi đỗ xe chữa cháy cho nhà hỗn hợp phải bảo đảm những yêu cầu sau:

@@ -127,11 +127,14 @@ _CHÚ THÍCH: Danh mục các chỉ tiêu về tính nguy hiểm cháy của v�
 | Công dụng của vật liệu xây dựng | Danh mục các chỉ tiêu về tính nguy hiểm cháy cần thiết phụ thuộc vào công dụng của vật liệu xây dựng | Danh mục các chỉ tiêu về tính nguy hiểm cháy cần thiết phụ thuộc vào công dụng của vật liệu xây dựng | Danh mục các chỉ tiêu về tính nguy hiểm cháy cần thiết phụ thuộc vào công dụng của vật liệu xây dựng | Danh mục các chỉ tiêu về tính nguy hiểm cháy cần thiết phụ thuộc vào công dụng của vật liệu xây dựng | Danh mục các chỉ tiêu về tính nguy hiểm cháy cần thiết phụ thuộc vào công dụng của vật liệu xây dựng |
 | --- | --- | --- | --- | --- | --- |
 | Công dụng của vật liệu xây dựng | Nhóm về tính cháy | Nhóm về tính lan truyền lửa trên bề mặt | Nhóm về tính bắt cháy | Nhóm về khả năng sinh khói | Nhóm về độc tính của sản phẩm cháy |
-| 1. Vật liệu hoàn thiện tường và trần, bao gồm cả các lớp phủ từ sơn, men, véc ni <sup>1)</sup> | + | - | + | + | + |
+| 1. Vật liệu hoàn thiện tường và trần, bao gồm cả các lớp phủ từ sơn, men, véc ni<sup>1)</sup> | + | - | + | + | + |
 | 2. Vật liệu phủ sàn, bao gồm cả thảm | - | + | + | + | + |
 | 3. Vật liệu lợp mái | + | + | + | - | - |
 | 4. Vật liệu chống thấm và chống lọt hơi có chiều dày lớn hơn 0,2 mm | + | - | + | - | - |
-| 5. Vật liệu cách nhiệt | + | - | + | + | + |_1) Không yêu cầu đánh giá đặc tính kỹ thuật về cháy đối với các lớp phủ có chiều dày đến 0,3 mm, phủ trên nền tường, trần hoặc sàn làm từ vật liệu không cháy |
+| 5. Vật liệu cách nhiệt | + | - | + | + | + |
+
+_GHI CHÚ CHỈ SỐ PHỤ:_
+- **1)** Không yêu cầu đánh giá đặc tính kỹ thuật về cháy đối với các lớp phủ có chiều dày đến 0,3 mm, phủ trên nền tường, trần hoặc sàn làm từ vật liệu không cháy
 
 _CHÚ THÍCH:_
 - **CHÚ THÍCH 1:** Ký hiệu "+" nghĩa là chỉ tiêu này cần được áp dụng CHÚ THÍCH 2. Ký hiệu “-” nghĩa là chỉ tiêu này không cần áp dụng

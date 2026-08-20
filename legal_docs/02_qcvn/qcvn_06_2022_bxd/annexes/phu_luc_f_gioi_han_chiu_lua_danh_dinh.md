@@ -26,29 +26,29 @@ GIỚI HẠN CHỊU LỬA DANH ĐỊNH CỦA MỘT SỐ CẤU KIỆN
 | 1. Tường bê tông cốt thép, có chiều dày nhỏ nhất của lớp bê tông bảo vệ cốt thép chịu lực chính là 25 mm: |  |  |  |  |  |  |  |  |  |  |  |
 | a) Không trát (được thiết kế theo tiêu chuẩn lựa chọn áp dụng) | - | - | - | - | - | - | - | - | - | - | - | - |
 | b) Trát xi măng cát dày 12,5 mm | 180 | - | 100 | 100 | 75 | 75 | - | - | - | - | - | - |
-| 2. Tường bê tông nhẹ cốt liệu Nhóm 2 <sup>3)</sup>: |  |  |  |  |  |  |  |  |  |  |  |
+| 2. Tường bê tông nhẹ cốt liệu Nhóm 2<sup>3)</sup>: |  |  |  |  |  |  |  |  |  |  |  |
 | Trát xi măng cát dày 13 mm | - | - | - | - | - | - | 150 | 150 | 150 | 150 | 150 | 150 |
 | 3. Tường gạch đất sét nung, tường gạch bê tông: |  |  |  |  |  |  |  |  |  |  |  |
 | a) Không trát | 200 | 200 | 100 | 100 | 100 | 100 | 170 | 170 | 100 | 100 | 75 | 75 |
 | b) Trát xi măng cát dày 13 mm | 200 | 200 | 100 | 100 | 100 | 100 | 170 | 170 | 100 | 100 | 75 | 75 |
-| 4. Tường block bê tông cốt liệu Nhóm 1 <sup>1)</sup>: |  |  |  |  |  |  |  |  |  |  |  |
+| 4. Tường block bê tông cốt liệu Nhóm 1<sup>1)</sup>: |  |  |  |  |  |  |  |  |  |  |  |
 | a) Không trát | 150 | - | 100 | 100 | 100 | 100 | 150 | - | 75 | 75 | 75 | 50 |
 | b) Trát xi măng cát dày 12,5 mm | 150 | - | 100 | 100 | 100 | 100 | 100 | - | 75 | 75 | 75 | 50 |
-| 5. Tường block bê tông cốt liệu Nhóm 2 <sup>2)</sup>: |  |  |  |  |  |  |  |  |  |  |  |
+| 5. Tường block bê tông cốt liệu Nhóm 2<sup>2)</sup>: |  |  |  |  |  |  |  |  |  |  |  |
 | a) Không trát | - | - | 100 | 100 | 100 | 100 | 150 | - | 100 | 100 | 75 | 50 |
 | b) Trát xi măng cát dày 12,5 mm | - | - | 100 | 100 | 100 | 100 | 150 | - | 100 | 100 | 75 | 50 |
 | 6. Tường block bê tông khi chung áp có khối lượng thể tích từ 480 kg/m3 đến 1 200 kg/m3: | 180 | 140 | 100 | 100 | 100 | 100 | 100 | - | 62 | 62 | 50 | 50 |
-| 7. Tường block bê tông rỗng, 1 lỗ rỗng theo chiều dày tường, cốt liệu Nhóm 1 <sup>1)</sup>: |  |  |  |  |  |  |  |  |  |  |  |
+| 7. Tường block bê tông rỗng, 1 lỗ rỗng theo chiều dày tường, cốt liệu Nhóm 1<sup>1)</sup>: |  |  |  |  |  |  |  |  |  |  |  |
 | a) Không trát | - | - | 100 | 100 | 100 | 100 | 150 | - | 100 | 100 | 75 | 75 |
 | b) Trát xi măng cát dày 12,5 mm | - | - | 100 | 100 | 100 | 100 | 150 | - | 100 | 75 | 75 | 75 |
-| 8. Tường block bê tông rỗng, 1 lỗ rỗng theo chiều dày tường, cốt liệu Nhóm 2 <sup>2)</sup> |  |  |  |  |  |  |  |  |  |  |  |
+| 8. Tường block bê tông rỗng, 1 lỗ rỗng theo chiều dày tường, cốt liệu Nhóm 2<sup>2)</sup> |  |  |  |  |  |  |  |  |  |  |  |
 | a) Không trát | - | - | - | - | - | - | 150 | - | 150 | 125 | 125 | 125 |
 | b) Trát xi măng cát dày 12,5 mm | - | - | - | - | - | - | 150 | - | 150 | 125 | 125 | 100 |
 | 9. Tường gạch tổ ong đất sét nung với tỷ lệ độ rỗng nhỏ hơn 50 %: |  |  |  |  |  |  |  |  |  |  |  |
 | Trát xi măng cát dày 12,5 mm | - | - | - | - | - | - | - | - | - | - | 100 | 75 |
 | 10. Tường rỗng nhiều lớp, có lớp ngoài bằng gạch hoặc block nung làm từ đất sét, bê tông với chiều dày không nhỏ hơn 100 mm và: |  |  |  |  |  |  |  |  |  |  |  |
 | a) Lớp trong bằng gạch hoặc block làm từ đất sét hoặc bê tông | 100 | 100 | 100 | 100 | 100 | 100 | 75 | - | 75 | 75 | 75 | 75 |
-| b) Lớp trong bằng gạch hoặc block bê tông cốt liệu Nhóm 1 <sup>1)</sup> đặc hoặc có lỗ | 100 | 100 | 100 | 100 | 100 | 100 | 75 | - | 75 | 75 | 75 | 75 |
+| b) Lớp trong bằng gạch hoặc block bê tông cốt liệu Nhóm 1<sup>1)</sup> đặc hoặc có lỗ | 100 | 100 | 100 | 100 | 100 | 100 | 75 | - | 75 | 75 | 75 | 75 |
 | 11. Tường rỗng nhiều lớp có lớp ngoài bằng gạch tổ ong đất sét nung với tỷ lệ độ rỗng nhỏ hơn 50 % như mục 9 và lớp trong bằng block bê tông khí chưng áp có khối lượng thể tích từ 480 kg/m3 đến 1 200 kg/m3: | 150 | 140 | 100 | 100 | 100 | 100 | 75 | 75 | 75 | 75 | 75 | 75 | |
 
 _CHÚ THÍCH:_
@@ -69,7 +69,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | b) Hai lớp tấm ốp dày 9,5 mm | El 30 |
 | c) Tấm ốp dày 9,5 mm trát thạch cao dày 12,5 mm | El 30 |
 | d) Tấm ốp dày 12,5 mm trát thạch cao dày 5 mm | El 30 |
-| 2. Tường bằng khung xương gỗ có lớp ngoài dày 10 mm là xi măng cát hoặc xi măng - vôi <sup>1)</sup> và lớp trong là: |
+| 2. Tường bằng khung xương gỗ có lớp ngoài dày 10 mm là xi măng cát hoặc xi măng - vôi<sup>1)</sup> và lớp trong là: |
 | a) Lớp trát thạch cao dày 16 mm trên lưới thép | El 60 |
 | b) Tấm ốp dày 9,5 mm trát thạch cao dày 12,5 mm | El 60 |
 | c) Tấm ốp dày 12,5 mm trát thạch cao dày 5 mm | El 60 |
@@ -79,7 +79,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | 75 mm | El 240 |
 | 100 mm | El 240 |
 | 3. Tường bằng khung xương gỗ có lớp ngoài dày 100 mm là gạch hoặc block làm từ đất sét nung, bê tông, lớp trong trát thạch cao dày 16 mm trên lưới thép | El 240 |
-| 4. Tường bằng khung xương gỗ có lớp ngoài là các tấm ốp chống mép hoặc gỗ dán dày 9,5 mm <sup>1)</sup> và lớp trong là: |
+| 4. Tường bằng khung xương gỗ có lớp ngoài là các tấm ốp chống mép hoặc gỗ dán dày 9,5 mm<sup>1)</sup> và lớp trong là: |
 | a) Lớp trát thạch cao dày 16 mm trên lưới thép | El 30 |
 | b) Tấm ốp dày 9,5 mm trát thạch cao dày 12,5 mm | El 30 |
 | c) Tấm ốp dày 12,5 mm trát bằng thạch cao dày 5 mm | El 30 |
@@ -103,12 +103,12 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | --- | --- | --- | --- | --- | --- | --- |
 | Đặc điểm | R 240 | R 180 | R 120 | R 90 | R 60 | R 30 |
 | 1. Bê tông dùng cốt liệu gốc silic:<br> |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực | 65 <sup>1)</sup> | 55 <sup>1)</sup> | 45 <sup>1)</sup> | 35 | 25 | 15 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực | 65<sup>1)</sup> | 55<sup>1)</sup> | 45<sup>1)</sup> | 35 | 25 | 15 |
 | b) Chiều rộng tiết diện dầm | 280 | 240 | 180 | 140 | 110 | 80 |
 | 2. Bê tông dùng cốt liệu gốc silic có trát xi măng hoặc thạch cao dày 15 mm trên lưới thép mảnh: |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực chính | 50 <sup>1)</sup> | 40 | 30 | 20 | 15 | 15 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực chính | 50<sup>1)</sup> | 40 | 30 | 20 | 15 | 15 |
 | b) Chiều rộng tiết diện dầm | 250 | 210 | 170 | 110 | 85 | 70 |
-| 3. Bê tông dùng cốt liệu gốc silic có trát vermiculite/thạch cao <sup>2)</sup> dày 15 mm: |  |  |  |  |  |
+| 3. Bê tông dùng cốt liệu gốc silic có trát vermiculite/thạch cao<sup>2)</sup> dày 15 mm: |  |  |  |  |  |
 | a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực chính | 25 | 15 | 15 | 15 | 15 | 15 |
 | b) Chiều rộng tiết diện dầm | 170 | 145 | 125 | 85 | 60 | 60 |
 | 4. Bê tông dùng cốt liệu nhẹ: |  |  |  |  |  |
@@ -133,15 +133,15 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | --- | --- | --- | --- | --- | --- | --- |
 | Đặc điểm | R 240 | R 180 | R 120 | R 90 | R 60 | R 30 |
 | 1. Bê tông dùng cốt liệu gốc silic:<br> |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 100 <sup>1)</sup> | 85 <sup>1)</sup> | 65 <sup>1)</sup> | 50 <sup>1)</sup> | 40 | 25 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 100<sup>1)</sup> | 85<sup>1)</sup> | 65<sup>1)</sup> | 50<sup>1)</sup> | 40 | 25 |
 | b) Chiều rộng tiết diện dầm | 280 | 240 | 180 | 140 | 110 | 80 |
 | 2. Bê tông dùng cốt liệu gốc silic, có trát thạch cao dày 15 mm trên lưới thép mảnh: |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 90 <sup>1)</sup> | 75 | 50 | 40 | 30 | 15 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 90<sup>1)</sup> | 75 | 50 | 40 | 30 | 15 |
 | b) Chiều rộng tiết diện dầm | 250 | 210 | 170 | 110 | 85 | 70 |
-| 3. Bê tông dùng cốt liệu gốc silic có trát vermiculite/thạch cao <sup>2)</sup> dày 15 mm: |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 75 <sup>1)</sup> | 60 | 45 | 30 | 25 | 15 |
+| 3. Bê tông dùng cốt liệu gốc silic có trát vermiculite/thạch cao<sup>2)</sup> dày 15 mm: |  |  |  |  |  |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 75<sup>1)</sup> | 60 | 45 | 30 | 25 | 15 |
 | b) Chiều rộng tiết diện dầm | 170 | 145 | 125 | 85 | 60 | 60 |
-| 4. Bê tông dùng cốt liệu gốc silic có trát vermiculite/thạch cao <sup>2)</sup> dày 25 mm: |  |  |  |  |  |
+| 4. Bê tông dùng cốt liệu gốc silic có trát vermiculite/thạch cao<sup>2)</sup> dày 25 mm: |  |  |  |  |  |
 | a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 50 | 45 | 30 | 25 | 15 | 15 |
 | b) Chiều rộng tiết diện dầm | 140 | 125 | 85 | 70 | 60 | 60 |
 | 5. Bê tông dùng cốt liệu nhẹ: |  |  |  |  |  |
@@ -168,7 +168,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | 1. Bê tông dùng cốt liệu gốc silic: |  |  |  |  |  |
 | a) Không có biện pháp bảo vệ bổ sung | 450 | 400 | 300 | 250 | 200 | 150 |
 | b) Có trát xi măng hoặc thạch cao dày 15 mm trên lưới thép mảnh | 300 | 275 | 225 | 150 | 150 | 150 |
-| c) Có trát vermiculite/thạch cao <sup>1)</sup> | 275 | 225 | 200 | 150 | 120 | 120 |
+| c) Có trát vermiculite/thạch cao<sup>1)</sup> | 275 | 225 | 200 | 150 | 120 | 120 |
 | 2. Bê tông dùng cốt liệu đá vôi hoặc gốc silic: |  |  |  |  |  |
 | Có thể có cốt thép phụ trong lớp bê tông bảo vệ nếu cần | 300 | 275 | 225 | 200 | 190 | 150 |
 | 3. Bê tông cốt liệu nhẹ | 300 | 275 | 225 | 200 | 190 | 150 | |
@@ -188,7 +188,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | Đặc điểm | R 240 | R 180 | R 120 | R 90 | R 60 | R 30 |
 | Bê tông dùng cốt liệu gốc silic: |  |  |  |  |  |
 | a) Không có biện pháp bảo vệ bổ sung | 180 | 150 | 100 | 100 | 75 | 75 |
-| b) Có trát vermiculite/thạch cao <sup>1)</sup> dày 15 mm trên bề mặt tiếp xúc với lửa | 125 | 100 | 75 | 75 | 65 | 65 | |
+| b) Có trát vermiculite/thạch cao<sup>1)</sup> dày 15 mm trên bề mặt tiếp xúc với lửa | 125 | 100 | 75 | 75 | 65 | 65 | |
 
 _CHÚ THÍCH:_
 - **CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2.
@@ -206,29 +206,41 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | Kết cấu và vật liệu bọc bảo vệ | Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa | Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa | Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa | Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa | Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa | Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa |
 | --- | --- | --- | --- | --- | --- | --- |
 | Kết cấu và vật liệu bọc bảo vệ | R 240 | R 180 | R 120 | R 90 | R 60 | R 30 |
-| A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) |
-| 1. Bê tông dùng cốt liệu tự nhiên, không nghèo hơn so với cấp phối 1:2:4 2): |  |  |  |  |  |
-| a) Bê tông không tham gia chịu lực, có cốt thép <sup>3)</sup> | 50 | - | 25 | 25 | 25 | 25 |
+| A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) |
+| 1. Bê tông dùng cốt liệu tự nhiên, không nghèo hơn so với cấp phối 1:2:4<sup>2)</sup>: |  |  |  |  |  |
+| a) Bê tông không tham gia chịu lực, có cốt thép<sup>3)</sup> | 50 | - | 25 | 25 | 25 | 25 |
 | b) Bê tông có tham gia chịu lực, có cốt thép (được thiết kế theo tiêu chuẩn lựa chọn áp dụng) | 75 | - | 50 | 50 | 50 | 50 |
 | 2. Gạch đặc đất sét nung | 100 | 75 | 50 | 50 | 50 | 50 |
-| 3. Block đặc bằng bê tông xỉ bọt hoặc bê tông pumice, có cốt thép <sup>3)</sup> tại tất cả các mạch ngang | 75 | 60 | 50 | 50 | 50 | 50 |
-| B. Lớp bảo vệ dạng rỗng <sup>4)</sup> | B. Lớp bảo vệ dạng rỗng <sup>4)</sup> | B. Lớp bảo vệ dạng rỗng <sup>4)</sup> | B. Lớp bảo vệ dạng rỗng <sup>4)</sup> | B. Lớp bảo vệ dạng rỗng <sup>4)</sup> | B. Lớp bảo vệ dạng rỗng <sup>4)</sup> | B. Lớp bảo vệ dạng rỗng <sup>4)</sup> |
+| 3. Block đặc bằng bê tông xỉ bọt hoặc bê tông pumice, có cốt thép<sup>3)</sup> tại tất cả các mạch ngang | 75 | 60 | 50 | 50 | 50 | 50 |
+| B. Lớp bảo vệ dạng rỗng<sup>4)</sup> | B. Lớp bảo vệ dạng rỗng<sup>4)</sup> | B. Lớp bảo vệ dạng rỗng<sup>4)</sup> | B. Lớp bảo vệ dạng rỗng<sup>4)</sup> | B. Lớp bảo vệ dạng rỗng<sup>4)</sup> | B. Lớp bảo vệ dạng rỗng<sup>4)</sup> | B. Lớp bảo vệ dạng rỗng<sup>4)</sup> |
 | 1. Gạch đặc đất sét nung có cốt thép tại tất cả các mạch ngang, không trát | 115 | - | 50 | 50 | 50 | 50 |
-| 2. Block đặc bằng bê tông xỉ bọt hoặc bê tông pumice có cốt thép <sup>2)</sup> tại tất cả các mạch ngang, không trát | 75 |  | 50 | 50 | 50 | 50 |_1) Lớp bảo vệ dạng đặc có nghĩa là một vỏ bên ngoài được gắn chặt vào cột thép, không tạo ra khe hở giữa bề mặt tiếp xúc và tất cả các mạch ghép nối trong phần vỏ đó đều kín và đặc. 2) Tỉ lệ 1:2:4 là tỉ lệ xi măng : cát : cốt liệu thô theo thể tích. Bê tông nặng có cấp cường độ tối thiểu B20 theo TCVN 5574:2018 được coi là đạt yêu cầu này. 3) Cốt thép phải là các sợi thép buộc có đường kính không nhỏ hơn 2,3 mm, hoặc là một lưới thép có khối lượng đơn vị không nhỏ hơn 0,48 kg/m2. Trong lớp bê tông bảo vệ, khoảng cách cốt thép, theo bất kỳ chiều nào không được lớn hơn 150 mm. 4) Lớp bảo vệ dạng rỗng có nghĩa là có một khoảng trống giữa vật liệu bảo vệ và thép. Tất cả các lớp bảo vệ dạng rỗng cho cột phải được chèn bít một cách có hiệu quả tại mỗi cao trình sàn. |
+| 2. Block đặc bằng bê tông xỉ bọt hoặc bê tông pumice có cốt thép<sup>2)</sup> tại tất cả các mạch ngang, không trát | 75 |  | 50 | 50 | 50 | 50 |
+
+_GHI CHÚ CHỈ SỐ PHỤ:_
+- **1)** Lớp bảo vệ dạng đặc có nghĩa là một vỏ bên ngoài được gắn chặt vào cột thép, không tạo ra khe hở giữa bề mặt tiếp xúc và tất cả các mạch ghép nối trong phần vỏ đó đều kín và đặc.
+- **2)** Tỉ lệ 1:2:4 là tỉ lệ xi măng : cát : cốt liệu thô theo thể tích. Bê tông nặng có cấp cường độ tối thiểu B20 theo TCVN 5574:2018 được coi là đạt yêu cầu này.
+- **3)** Cốt thép phải là các sợi thép buộc có đường kính không nhỏ hơn 2,3 mm, hoặc là một lưới thép có khối lượng đơn vị không nhỏ hơn 0,48 kg/m2. Trong lớp bê tông bảo vệ, khoảng cách cốt thép, theo bất kỳ chiều nào không được lớn hơn 150 mm.
+- **4)** Lớp bảo vệ dạng rỗng có nghĩa là có một khoảng trống giữa vật liệu bảo vệ và thép. Tất cả các lớp bảo vệ dạng rỗng cho cột phải được chèn bít một cách có hiệu quả tại mỗi cao trình sàn.
 
 ### <a id="bang-f-8" name="bang-f-8"></a>Bảng F.8 - Dầm thép được bọc bảo vệ (khối lượng dầm trên 1 m dài không nhỏ hơn 30 kg)
 
 | Kết cấu và vật liệu bảo vệ | Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa | Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa | Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa | Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa | Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa | Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa |
 | --- | --- | --- | --- | --- | --- | --- |
 | Kết cấu và vật liệu bảo vệ | R 240 | R 180 | R 120 | R 90 | R 60 | R 30 |
-| A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc <sup>1)</sup> (không trát) |
-| 1. Bê tông cốt liệu tự nhiên, không nghèo hơn so với cấp phối 1:2:4 2): |  |  |  |  |  |
-| a) Bê tông không tham gia chịu lực, có cốt thép <sup>3)</sup> | 75 | 50 | 25 | 25 | 25 | 25 |
+| A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) | A. Lớp bảo vệ dạng đặc<sup>1)</sup> (không trát) |
+| 1. Bê tông cốt liệu tự nhiên, không nghèo hơn so với cấp phối 1:2:4<sup>2)</sup>: |  |  |  |  |  |
+| a) Bê tông không tham gia chịu lực, có cốt thép<sup>3)</sup> | 75 | 50 | 25 | 25 | 25 | 25 |
 | b) Bê tông có tham gia chịu lực, có cốt thép (được thiết kế theo tiêu chuẩn lựa chọn áp dụng) | 75 | 75 | 50 | 50 | 50 | 50 |
-| B. Lớp bảo vệ dạng rỗng <sup>4)</sup> | B. Lớp bảo vệ dạng rỗng <sup>4)</sup> | B. Lớp bảo vệ dạng rỗng <sup>4)</sup> | B. Lớp bảo vệ dạng rỗng <sup>4)</sup> | B. Lớp bảo vệ dạng rỗng <sup>4)</sup> | B. Lớp bảo vệ dạng rỗng <sup>4)</sup> | B. Lớp bảo vệ dạng rỗng <sup>4)</sup> |
+| B. Lớp bảo vệ dạng rỗng<sup>4)</sup> | B. Lớp bảo vệ dạng rỗng<sup>4)</sup> | B. Lớp bảo vệ dạng rỗng<sup>4)</sup> | B. Lớp bảo vệ dạng rỗng<sup>4)</sup> | B. Lớp bảo vệ dạng rỗng<sup>4)</sup> | B. Lớp bảo vệ dạng rỗng<sup>4)</sup> | B. Lớp bảo vệ dạng rỗng<sup>4)</sup> |
 | 1. Lưới thép với: |  |  |  |  |  |
 | a) Lớp trát xi măng - vôi với chiều dày | - | - | 38 | 25 | 19 | 12,5 |
-| b) Lớp trát thạch cao với chiều dày | - | - | 22 | 19 | 16 | 12,5 |_1) Lớp bảo vệ dạng đặc có nghĩa là một vỏ bên ngoài được gắn chặt vào thép, không tạo ra khe hở giữa bề mặt tiếp xúc và tất cả các mạch ghép nối trong phần vỏ đó đều kín và đặc. 2) Tỉ lệ 1:2:4 là tỉ lệ xi măng : cát : cốt liệu thô theo thể tích. Bê tông nặng có cấp cường độ tối thiểu B20 theo TCVN 5574:2018 được coi là đạt yêu cầu này. 3) Cốt thép phải là các sợi thép buộc có đường kính không nhỏ hơn 2,3 mm, hoặc là một lưới thép có khối lượng đơn vị không nhỏ hơn 0,48 kg/m2. Trong lớp bê tông bảo vệ, khoảng cách cốt thép, theo bất kỳ chiều nào không được lớn hơn 150 mm. 4) Lớp bảo vệ dạng rỗng có nghĩa là có một khoảng trống giữa vật liệu bảo vệ và thép. Tất cả các lớp bảo vệ dạng rỗng cho cột phải được chèn bịt một cách có hiệu quả tại mỗi cao trình sàn. |
+| b) Lớp trát thạch cao với chiều dày | - | - | 22 | 19 | 16 | 12,5 |
+
+_GHI CHÚ CHỈ SỐ PHỤ:_
+- **1)** Lớp bảo vệ dạng đặc có nghĩa là một vỏ bên ngoài được gắn chặt vào thép, không tạo ra khe hở giữa bề mặt tiếp xúc và tất cả các mạch ghép nối trong phần vỏ đó đều kín và đặc.
+- **2)** Tỉ lệ 1:2:4 là tỉ lệ xi măng : cát : cốt liệu thô theo thể tích. Bê tông nặng có cấp cường độ tối thiểu B20 theo TCVN 5574:2018 được coi là đạt yêu cầu này.
+- **3)** Cốt thép phải là các sợi thép buộc có đường kính không nhỏ hơn 2,3 mm, hoặc là một lưới thép có khối lượng đơn vị không nhỏ hơn 0,48 kg/m2. Trong lớp bê tông bảo vệ, khoảng cách cốt thép, theo bất kỳ chiều nào không được lớn hơn 150 mm.
+- **4)** Lớp bảo vệ dạng rỗng có nghĩa là có một khoảng trống giữa vật liệu bảo vệ và thép. Tất cả các lớp bảo vệ dạng rỗng cho cột phải được chèn bịt một cách có hiệu quả tại mỗi cao trình sàn.
 
 <a id="muc-F-6"></a>
 ### F.6  Kết cấu sàn
@@ -242,31 +254,31 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | (1) | (2) | (3) | (4) | (5) | (6) | (7) |
 | 1. Sàn đặc: |  |  |  |  |  |
 | a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực | 25 | 25 | 20 | 20 | 15 | 15 |
-| b) Chiều cao tổng thể <sup>1)</sup> của tiết diện | 150 | 150 | 125 | 125 | 100 | 100 |
+| b) Chiều cao tổng thể<sup>1)</sup> của tiết diện | 150 | 150 | 125 | 125 | 100 | 100 |
 | 2. Sàn có lỗ rỗng với lỗ rỗng tiết diện tròn hoặc hộp. Phần diện tích tiết diện đặc phải chiếm không ít hơn 50 % tổng diện tích tiết diện ngang của sàn: |  |  |  |  |  |
 | a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực | 25 | 25 | 20 | 20 | 15 | 15 |
 | b) Chiều dày của phần bê tông dưới lỗ rỗng | 50 | 40 | 40 | 30 | 25 | 20 |
-| c) Chiều cao tổng thể <sup>1)</sup> của tiết diện | 190 | 175 | 160 | 140 | 110 | 100 |
+| c) Chiều cao tổng thể<sup>1)</sup> của tiết diện | 190 | 175 | 160 | 140 | 110 | 100 |
 | 3. Sàn tiết diện rỗng có một hoặc nhiều khoang rỗng hình hộp theo chiều dọc với chiều rộng lớn hơn chiều cao: |  |  |  |  |  |
 | a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực | 25 | 25 | 20 | 20 | 15 | 15 |
 | b) Chiều dày của bản cánh phía dưới | 50 | 40 | 40 | 30 | 25 | 20 |
-| c) Chiều cao tổng thể <sup>1)</sup> của tiết diện | 230 | 205 | 180 | 155 | 130 | 105 |
+| c) Chiều cao tổng thể<sup>1)</sup> của tiết diện | 230 | 205 | 180 | 155 | 130 | 105 |
 | 4. Sàn sườn có phần rỗng chèn bằng block đất sét nung, hoặc dầm chữ T ngược có phần rỗng được chèn bằng block bê tông hoặc block đất sét nung. Nếu sàn có phần diện tích tiết diện đặc nhỏ hơn 50 % tổng diện tích tiết diện ngang thì phải được trát một lớp dày 15 mm ở bề mặt phía dưới: |  |  |  |  |  |
 | a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực | 25 | 25 | 20 | 20 | 15 | 15 |
 | b) Chiều rộng tiết diện sườn hoặc dầm chữ T, đo ở mặt đáy | 125 | 100 | 90 | 80 | 70 | 50 |
-| c) Chiều cao tổng thể <sup>1)</sup> của tiết diện | 190 | 175 | 160 | 140 | 110 | 100 |
+| c) Chiều cao tổng thể<sup>1)</sup> của tiết diện | 190 | 175 | 160 | 140 | 110 | 100 |
 | 5. Tiết diện chữ T: |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực, đo ở mặt đáy | 65 2) | 55 2) | 45 2) | 35 | 25 | 15 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực, đo ở mặt đáy | 65<sup>2)</sup> | 55<sup>2)</sup> | 45<sup>2)</sup> | 35 | 25 | 15 |
 | b) Chiều dày của lớp bê tông bảo vệ cốt thép chịu lực, đo ở mặt bên | 65 | 55 | 45 | 35 | 25 | 15 |
 | c) Chiều rộng tiết diện sườn hoặc của bụng dầm | 150 | 140 | 115 | 90 | 75 | 60 |
 | d) Chiều dày cánh | 150 | 150 | 125 | 125 | 100 | 90 |
 | 6. Tấm sàn tiết diện chữ U ngược có bán kính cong tại giao điểm giữa bản đáy với sườn của sàn không lớn hơn chiều cao tiết diện: |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực, đo ở mặt đáy | 65 2) | 55 2) | 45 2) | 35 | 25 | 15 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực, đo ở mặt đáy | 65<sup>2)</sup> | 55<sup>2)</sup> | 45<sup>2)</sup> | 35 | 25 | 15 |
 | b) Chiều dày của lớp bê tông bảo vệ cốt thép, đo ở mặt bên | 40 | 30 | 25 | 20 | 15 | 10 |
 | c) Chiều rộng của sườn hoặc của chân chữ U | 75 | 70 | 60 | 45 | 40 | 30 |
 | d) Chiều dày tại bản phía trên | 150 | 150 | 125 | 125 | 100 | 90 |
 | 7. Tấm sàn tiết diện chữ U ngược hoặc chữ U có bán kính cong tại giao điểm giữa bản đáy với sườn của sàn lớn hơn chiều cao tiết diện: |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực, đo ở mặt đáy | 65 2) | 55 2) | 45 2) | 35 | 25 | 15 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực, đo ở mặt đáy | 65<sup>2)</sup> | 55<sup>2)</sup> | 45<sup>2)</sup> | 35 | 25 | 15 |
 | b) Chiều dày của lớp bê tông bảo vệ cốt thép, đo ở mặt bên | 40 | 30 | 25 | 20 | 15 | 10 |
 | c) Chiều rộng sườn hoặc của chân chữ U | 70 | 60 | 50 | 40 | 35 | 25 |
 | d) Chiều dày tại bản phía trên | 150 | 150 | 100 | 100 | 75 | 65 | |
@@ -287,35 +299,35 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | Kết cấu sàn | REI<br>240 | REI<br>180 | REI<br>120 | REI <br>90 | REI <br>60 | REI<br>30 |
 | (1) | (2) | (3) | (4) | (5) | (6) | (7) |
 | 1. Sàn đặc: |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 65 1) | 50 1) | 40 | 30 | 25 | 15 |
-| b) Chiều cao tổng thể <sup>2)</sup> của tiết diện | 150 | 150 | 125 | 125 | 100 | 100 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 65<sup>1)</sup> | 50<sup>1)</sup> | 40 | 30 | 25 | 15 |
+| b) Chiều cao tổng thể<sup>2)</sup> của tiết diện | 150 | 150 | 125 | 125 | 100 | 100 |
 | 2. Sàn có lỗ rỗng với lỗ rỗng tiết diện tròn hoặc hộp. Phần diện tích tiết diện đặc phải chiếm không ít hơn 50 % tổng diện tích tiết diện ngang của sàn: |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 65 1) | 50 1) | 40 | 30 | 25 | 15 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 65<sup>1)</sup> | 50<sup>1)</sup> | 40 | 30 | 25 | 15 |
 | b) Chiều dày của phần bê tông dưới lỗ rỗng | 50 | 40 | 40 | 30 | 25 | 20 |
-| c) Chiều cao tổng thể <sup>2)</sup> của tiết diện | 190 | 175 | 160 | 140 | 110 | 100 |
+| c) Chiều cao tổng thể<sup>2)</sup> của tiết diện | 190 | 175 | 160 | 140 | 110 | 100 |
 | 3. Sàn tiết diện rỗng có một hoặc nhiều khoang rỗng hình hộp theo chiều dọc với chiều rộng lớn hơn chiều cao: |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 65 1) | 50 1) | 40 | 30 | 25 | 15 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 65<sup>1)</sup> | 50<sup>1)</sup> | 40 | 30 | 25 | 15 |
 | b) Chiều dày của bản cánh phía dưới | 65 | 50 | 40 | 30 | 25 | 15 |
-| c) Chiều cao tổng thể <sup>2)</sup> của tiết diện | 230 | 205 | 180 | 155 | 130 | 105 |
+| c) Chiều cao tổng thể<sup>2)</sup> của tiết diện | 230 | 205 | 180 | 155 | 130 | 105 |
 | 4. Sàn sườn có phần rỗng chèn bằng block đất sét nung, hoặc dầm chữ T ngược có phần rỗng được chèn bằng block bê tông hoặc block đất sét nung. Nếu sàn có phần diện tích tiết diện đặc nhỏ hơn 50 % tổng diện tích tiết diện ngang thì phải được trát một lớp dày 15 mm ở bề mặt phía dưới: |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 651 ) | 50 1) | 40 | 30 | 25 | 15 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp) | 651 ) | 50<sup>1)</sup> | 40 | 30 | 25 | 15 |
 | b) Chiều rộng tiết diện sườn hoặc dầm chữ T, đo ở mặt đáy | 125 | 100 | 90 | 80 | 70 | 50 |
-| c) Chiều cao tổng thể <sup>2)</sup> của tiết diện | 190 | 175 | 160 | 140 | 110 | 100 |
+| c) Chiều cao tổng thể<sup>2)</sup> của tiết diện | 190 | 175 | 160 | 140 | 110 | 100 |
 | 5. Tiết diện chữ T: |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt đáy | 100 1) | 85 1) | 65 1) | 50 1) | 40 | 25 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt đáy | 100<sup>1)</sup> | 85<sup>1)</sup> | 65<sup>1)</sup> | 50<sup>1)</sup> | 40 | 25 |
 | b) Chiều dày của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt bên | 100 | 85 | 65 | 50 | 40 | 25 |
 | c) Chiều rộng sườn hoặc hoặc của bụng dầm | 250 | 200 | 150 | 110 | 90 | 60 |
-| d) Chiều dày của cánh <sup>2)</sup> | 150 | 150 | 125 | 125 | 100 | 90 |
+| d) Chiều dày của cánh<sup>2)</sup> | 150 | 150 | 125 | 125 | 100 | 90 |
 | 6. Tấm sàn tiết diện chữ U ngược có bán kính cong tại giao điểm giữa bản đáy với sườn của sàn không lớn hơn chiều cao tiết diện: |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt đáy | 100 1) | 85 1) | 65 1) | 50 1) | 40 | 25 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt đáy | 100<sup>1)</sup> | 85<sup>1)</sup> | 65<sup>1)</sup> | 50<sup>1)</sup> | 40 | 25 |
 | b) Chiều dày của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt bên | 50 | 45 | 35 | 25 | 20 | 15 |
 | c) Chiều rộng của sườn hoặc của chân chữ U | 125 | 100 | 75 | 55 | 45 | 30 |
-| d) Chiều dày tại bản phía trên <sup>2)</sup> | 150 | 150 | 125 | 125 | 100 | 90 |
+| d) Chiều dày tại bản phía trên<sup>2)</sup> | 150 | 150 | 125 | 125 | 100 | 90 |
 | 7. Tấm sàn tiết diện chữ U ngược hoặc chữ U có bán kính cong tại giao điểm giữa bản đáy với sườn của sàn lớn hơn chiều cao tiết diện: |  |  |  |  |  |
-| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt đáy | 100 1) | 85 1) | 65 1) | 50 1) | 40 | 25 |
+| a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt đáy | 100<sup>1)</sup> | 85<sup>1)</sup> | 65<sup>1)</sup> | 50<sup>1)</sup> | 40 | 25 |
 | b) Chiều dày của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt bên | 50 | 45 | 35 | 25 | 20 | 15 |
 | c) Chiều rộng sườn hoặc của chân chữ U | 110 | 90 | 70 | 50 | 40 | 30 |
-| d) Chiều dày tại bản phía trên <sup>2)</sup> | 150 | 150 | 125 | 125 | 100 | 90 | |
+| d) Chiều dày tại bản phía trên<sup>2)</sup> | 150 | 150 | 125 | 125 | 100 | 90 | |
 
 _CHÚ THÍCH:_
 - **CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2.
