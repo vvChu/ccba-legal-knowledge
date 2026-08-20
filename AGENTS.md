@@ -32,10 +32,11 @@ python -m scripts.consolidator `
   --output legal_docs/01_vbpl/ten_van_ban/
 ```
 
-### 3. Kiểm định Bắt buộc qua 3 Cổng CI Gates (Zero-Tolerance):
+### 3. Kiểm định Bắt buộc qua 4 Cổng CI Gates (Zero-Tolerance):
 ```powershell
 python scripts/validate_legal_spoke.py
 python scripts/verify_knowledge_integrity.py
 python scripts/verify_cross_links.py
+python scripts/audit_visual_parity.py
 ```
-*Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Parity, 100% Valid Links`.
+*Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Parity, 100% Valid Links, 100% Visual Parity`.

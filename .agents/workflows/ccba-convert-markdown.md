@@ -29,6 +29,16 @@ python scripts/docx_converter.py "<path_to_docx>" "legal_docs/<category>/<doc_sl
 - **QCVN / TCVN (Quy chuẩn kỹ thuật):**
   * Tự động trích xuất bảng biểu 2D GFM Pipe Tables, ma trận chú thích ràng buộc chân bảng.
 
+### Bước 1.5: Tiêu Chuẩn Hóa Cấu Trúc Khối Chú Thích & QA Benchmark (OKF v2.2 Processor):
+```powershell
+python scripts/gold_standard_processor.py "legal_docs/<category>/<doc_slug>"
+```
+*Đặc tính xử lý:*
+* Tự động chuẩn hóa **Binary Note Standard** (Khử trùng lặp header `_CHÚ THÍCH:_`).
+* Tự động giải phóng chú thích kẹp chân bảng thành `_GHI CHÚ CHỈ SỐ PHỤ:_` và chuẩn hóa thẻ `<sup>X)</sup>`.
+* Tự động đồng bộ danh sách gạch đầu dòng mã (`LT`, `BC`, `SK`, `ĐT`, `K0..3`, `R-E-I-W`) và thụt lề ý con `a), b), c)` thuộc chú thích.
+* Tự động sinh `clauses.json` (AST) và `qa_benchmark.json` (phân quyền `CQXD` vs `CONG_AN`).
+
 ### Bước 2: Hợp nhất Sửa đổi (nếu có văn bản sửa đổi):
 ```powershell
 python -m scripts.consolidator `
@@ -37,13 +47,14 @@ python -m scripts.consolidator `
   --output legal_docs/<category>/<doc_slug>/
 ```
 
-### Bước 3: Kiểm định Bắt buộc qua 3 Cổng CI Gates (Zero-Tolerance):
+### Bước 3: Kiểm định Bắt buộc qua 4 Cổng CI Gates (Zero-Tolerance):
 ```powershell
 python scripts/validate_legal_spoke.py
 python scripts/verify_knowledge_integrity.py
 python scripts/verify_cross_links.py
+python scripts/audit_visual_parity.py
 ```
-*Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Parity, 100% Valid Links`.
+*Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Parity, 100% Valid Links, 100% Visual Parity`.
 
 ---
 
