@@ -238,7 +238,6 @@ Vị trí đỗ dành cho một xe để thực hiện sạc điện.
 
 Khu vực lắp đặt tủ đổi pin cho xe mô tô điện, xe gắn máy điện, xe đạp điện, nơi pin có thể hoán đổi.
 
-
 #### <a id="muc-1-4-32" name="muc-1-4-32"></a>1 (Bổ sung) *(Bổ sung bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD))*
 
 #### <a id="muc-1-4-31" name="muc-1-4-31"></a>1.4.31  Nhà chung cư hiện hữu
@@ -256,7 +255,6 @@ Vị trí đỗ dành cho một xe để thực hiện sạc điện.
 #### <a id="muc-1-4-34" name="muc-1-4-34"></a>1.4.34  Khu vực đổi pin
 
 Khu vực lắp đặt tủ đổi pin cho xe mô tô điện, xe gắn máy điện, xe đạp điện, nơi pin có thể hoán đổi.
-
 
 #### <a id="muc-1-4-33" name="muc-1-4-33"></a>1 (Bổ sung) *(Bổ sung bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD))*
 
@@ -276,7 +274,6 @@ Vị trí đỗ dành cho một xe để thực hiện sạc điện.
 
 Khu vực lắp đặt tủ đổi pin cho xe mô tô điện, xe gắn máy điện, xe đạp điện, nơi pin có thể hoán đổi.
 
-
 #### <a id="muc-1-4-34" name="muc-1-4-34"></a>1 (Bổ sung) *(Bổ sung bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD))*
 
 #### <a id="muc-1-4-31" name="muc-1-4-31"></a>1.4.31  Nhà chung cư hiện hữu
@@ -294,7 +291,6 @@ Vị trí đỗ dành cho một xe để thực hiện sạc điện.
 #### <a id="muc-1-4-34" name="muc-1-4-34"></a>1.4.34  Khu vực đổi pin
 
 Khu vực lắp đặt tủ đổi pin cho xe mô tô điện, xe gắn máy điện, xe đạp điện, nơi pin có thể hoán đổi.
-
 
 ### <a id="muc-2" name="muc-2"></a>2 QUY ĐỊNH KỸ THUẬT
 

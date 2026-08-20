@@ -35,7 +35,6 @@ HƯỚNG DẪN MỘT SỐ NỘI DUNG CHI TIẾT TRONG HỆ THỐNG THÔNG TIN, C
 
 __QUY ĐỊNH CHUNG__
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
 
@@ -63,12 +62,10 @@ i) Khoản 7 Điều 22 quy định về mẫu văn bản điện tử đề ngh
 <a id="dieu-1-khoan-2"></a>
 2. Thông tư này không áp dụng đối với thông tin, dữ liệu quy hoạch và dự án đầu tư xây dựng, công trình xây dựng có liên quan đến quốc phòng, an ninh, cơ yếu và bí mật nhà nước.
 
-
 <a id="dieu-2"></a>
 ### Điều 2. Đối tượng áp dụng
 
 Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân liên quan đến việc xây dựng, cập nhật, duy trì, khai thác, sử dụng và quản lý Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng; cơ quan, tổ chức, cá nhân trong nước, tổ chức, cá nhân nước ngoài hoạt động xây dựng trên lãnh thổ Việt Nam.
-
 
 <a id="dieu-3"></a>
 ### Điều 3. Nguyên tắc chung để tạo lập, cập nhật, chuẩn hóa, kết nối, chia sẻ dữ liệu, thông tin trong Hệ thống thông tin về hoạt động xây dựng
@@ -114,7 +111,6 @@ __XÂY DỰNG HỆ THỐNG THÔNG TIN VỀ HOẠT ĐỘNG XÂY DỰNG __
 
 __Mục 1. THU THẬP, TẠO LẬP CƠ SỞ DỮ LIỆU QUỐC GIA VỀ HOẠT ĐỘNG XÂY DỰNG__
 
-
 <a id="dieu-4"></a>
 ### Điều 4. Thu thập, tạo lập, cập nhật dữ liệu quy hoạch đô thị và nông thôn
 
@@ -123,7 +119,6 @@ __Mục 1. THU THẬP, TẠO LẬP CƠ SỞ DỮ LIỆU QUỐC GIA VỀ HOẠT �
 
 <a id="dieu-4-khoan-2"></a>
 2. Mã định danh quy hoạch đô thị và nông thôn được sử dụng để quản lý, liên kết, kế thừa và cập nhật dữ liệu trong quá trình thực hiện các thủ tục.
-
 
 <a id="dieu-5"></a>
 ### Điều 5. Thu thập, tạo lập, cập nhật dữ liệu dự án đầu tư xây dựng, công trình xây dựng
@@ -153,7 +148,6 @@ e) Cho ý kiến về việc kéo dài thời hạn sử dụng của công trì
 <a id="dieu-5-khoan-5"></a>
 5. Mã định danh dự án đầu tư xây dựng, mã định danh công trình xây dựng được sử dụng để quản lý, liên kết, kế thừa và cập nhật dữ liệu trong quá trình thực hiện, ban hành các thủ tục.
 
-
 <a id="dieu-6"></a>
 ### Điều 6. Thu thập, tạo lập, cập nhật dữ liệu năng lực hoạt động xây dựng
 
@@ -164,7 +158,6 @@ e) Cho ý kiến về việc kéo dài thời hạn sử dụng của công trì
 2. Mã định danh năng lực hoạt động được sử dụng để quản lý, liên kết, kế thừa và cập nhật dữ liệu trong quá trình thực hiện, ban hành các thủ tục.
 
 __Mục 2. THU THẬP, TẠO LẬP CƠ SỞ DỮ LIỆU CHUYÊN NGÀNH VỀ XÂY DỰNG__
-
 
 <a id="dieu-7"></a>
 ### Điều 7. Thu thập, tạo lập, cập nhật dữ liệu dự án đầu tư xây dựng, công trình xây dựng để tạo lập Cơ sở dữ liệu chuyên ngành về xây dựng
@@ -201,7 +194,6 @@ d) Bộ Xây dựng hướng dẫn chi tiết về trình tự, biểu mẫu và
 <a id="dieu-7-khoan-4"></a>
 4. Trường dữ liệu về quy mô đầu tư xây dựng của dự án đầu tư xây dựng, công trình xây dựng tại khoản 1 và khoản 2 Điều này thực hiện theo quy định tại khoản 4 Điều 5 Thông tư này.
 
-
 <a id="dieu-8"></a>
 ### Điều 8. Cập nhật, chuẩn hóa dữ liệu, thông tin của Cơ sở dữ liệu chuyên ngành về xây dựng
 
@@ -217,12 +209,10 @@ __XÂY DỰNG HỆ THỐNG THÔNG TIN, DỮ LIỆU VỀ ĐỊNH MỨC XÂY DỰN
 
 __Mục 1. MÃ ĐỊNH DANH, QUY TRÌNH, BIỂU MẪU, TRÁCH NHIỆM QUẢN LÝ VIỆC CẬP NHẬT DỮ LIỆU VÀO CƠ SỞ DỮ LIỆU VỀ ĐỊNH MỨC XÂY DỰNG, GIÁ XÂY DỰNG, CHỈ SỐ GIÁ XÂY DỰNG__
 
-
 <a id="dieu-9"></a>
 ### Điều 9. Mã định danh của dữ liệu định mức xây dựng, giá xây dựng, chỉ số giá xây dựng
 
 Mã định danh của dữ liệu định mức xây dựng, giá xây dựng, chỉ số giá xây dựng được sử dụng để quản lý, liên kết và cập nhật dữ liệu.
-
 
 <a id="dieu-10"></a>
 ### Điều 10. Quy trình và biểu mẫu cập nhật dữ liệu
@@ -244,7 +234,6 @@ b) Trường hợp dữ liệu được cập nhật lên hệ thống trùng kh
 <a id="dieu-10-khoan-3"></a>
 3. Biểu mẫu để cập nhật dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng được tải từ Hệ thống thông tin, dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng.
 
-
 <a id="dieu-11"></a>
 ### Điều 11. Tài khoản cập nhật dữ liệu
 
@@ -260,7 +249,6 @@ b) Quản lý, sử dụng tài khoản đúng mục đích; bảo đảm an to�
 
 <a id="dieu-11-khoan-3"></a>
 3. Thủ trưởng cơ quan, đơn vị chịu trách nhiệm trong việc quản lý, sử dụng tài khoản được cấp theo quy định tại điểm b khoản 4 Điều 54 Nghị định số 212/2026/NĐ-CP.
-
 
 <a id="dieu-12"></a>
 ### Điều 12. Trách nhiệm quản lý việc cập nhật dữ liệu
@@ -278,7 +266,6 @@ b) Khóa, tạm khóa tài khoản đối với các trường hợp chủ tài 
 c) Quản lý việc cập nhật dữ liệu lên hệ thống theo quy định tại Điều 10 Thông tư này.
 
 __Mục 2. QUY TRÌNH, BIỂU MẪU, TRÁCH NHIỆM QUẢN LÝ VIỆC CUNG CẤP THÔNG TIN, DỮ LIỆU VỀ ĐỊNH MỨC XÂY DỰNG, GIÁ XÂY DỰNG VÀ CHỈ SỐ GIÁ XÂY DỰNG__
-
 
 <a id="dieu-13"></a>
 ### Điều 13. Quy trình, biểu mẫu cung cấp thông tin, dữ liệu định mức xây dựng, giá xây dựng, chỉ số giá xây dựng
@@ -298,7 +285,6 @@ b) Trường hợp thông tin cung cấp lên Hệ thống trùng khớp với t
 
 <a id="dieu-13-khoan-4"></a>
 4. Đăng ký, đăng ký thay đổi thông tin tài khoản nêu tại khoản 1 Điều này; trách nhiệm của tổ chức được cấp tài khoản thực hiện theo quy định tại Điều 11 Thông tư này.
-
 
 <a id="dieu-14"></a>
 ### Điều 14. Trách nhiệm quản lý việc cung cấp thông tin, dữ liệu định mức xây dựng, giá xây dựng, chỉ số giá xây dựng
@@ -320,7 +306,6 @@ Cơ quan được giao quản lý, vận hành Hệ thống thông tin, dữ li�
 ### Chương IV
 
 __ĐIỀU KHOẢN THI HÀNH__
-
 
 <a id="dieu-15"></a>
 ### Điều 15. Tổ chức thực hiện
@@ -354,7 +339,6 @@ d) Tổ chức đào tạo, bồi dưỡng, hướng dẫn cán bộ, công ch�
 
 <a id="dieu-15-khoan-4"></a>
 4. Việc cung cấp dịch vụ khai thác, sử dụng dữ liệu, thông tin không phải dữ liệu mở trong Hệ thống thông tin về hoạt động xây dựng thực hiện theo quy định tại khoản 7 Điều 22 Nghị định số 212/2026/NĐ-CP. Mẫu văn bản đề nghị cung cấp, khai thác thông tin và mẫu văn bản cung cấp thông tin về hoạt động xây dựng trên Hệ thống thông tin về hoạt động xây dựng theo quy định tại Phụ lục V ban hành kèm theo Thông tư này.
-
 
 <a id="dieu-16"></a>
 ### Điều 16. Điều khoản thi hành
@@ -395,9 +379,6 @@ Nơi nhận:
 
 __KT. BỘ TRƯỞNG
 THỨ TRƯỞNG
-
-
-
 
 Bùi Xuân Dũng__
 
@@ -2484,7 +2465,6 @@ Trường dữ liệu về quy mô đầu tư xây dựng của dự án đầu 
 | Độc lập - Tự do - Hạnh phúc | ---------------__ | ……, ngày … tháng … năm ……* | __PHIẾU ĐỀ NGHỊ ĐĂNG TẢI THÔNG TIN__ |
 | Kính gửi: *(tên cơ quan quản lý, vận hành hệ thống)* |  |  |  |
 
-
 ### 1 Thông tin cơ quan/tổ chức
 
 - Tên tổ chức: .......................................................................................................
@@ -2653,22 +2633,17 @@ Kính gửi: *(tên cơ quan quản lý, vận hành hệ thống)*
 
 ### 2 Thông tin đề nghị thay đổi:
 
-
 <a id="muc-2-1"></a>
 ### 2.1 Khóa tài khoản □
-
 
 <a id="muc-2-2"></a>
 ### 2.2 Mở khóa tài khoản □
 
-
 <a id="muc-2-3"></a>
 ### 2.3 Xóa tài khoản □
 
-
 <a id="muc-2-4"></a>
 ### 2.4 Thay đổi thông tin tài khoản □
-
 
 <a id="muc-2-4-1"></a>
 ### 2.4.1 Thông tin cơ quan/tổ chức
@@ -2691,7 +2666,6 @@ Kính gửi: *(tên cơ quan quản lý, vận hành hệ thống)*
 
 ......................................................................................................
 
-
 <a id="muc-2-4-2"></a>
 ### 2.4.2 Thông tin về người quản lý, sử dụng tài khoản
 
@@ -2711,14 +2685,12 @@ Kính gửi: *(tên cơ quan quản lý, vận hành hệ thống)*
 
 - Địa chỉ email: ............................................................................................
 
-
 <a id="muc-2-4-3"></a>
 ### 2.4.3 Thông tin, dữ liệu đăng ký cung cấp, cập nhật
 
 □ Định mức xây dựng         □ Giá xây dựng
 
 □ Giá các yếu tố chi phí      □ Chỉ số giá xây dựng
-
 
 <a id="muc-2-4-4"></a>
 ### 2.4.4 Phần mềm đăng ký sử dụng
@@ -2875,10 +2847,8 @@ Số: 39/2026/TT-BXD
 <a id="dieu-16-khoan-1"></a>
 1. \[1\] Dữ liệu chủ yếu được lấy theo giấy phép xây dựng được cấp đối với đối tượng phải cấp giấy phép xây dựng; [↑](#footnote-ref-2)
 
-
 <a id="dieu-16-khoan-2"></a>
 2. \[2\] Liệt kê thông tin cần cung cấp trên hệ thống thông tin về hoạt động xây dựng [↑](#footnote-ref-3)
-
 
 <a id="dieu-16-khoan-3"></a>
 3. \[3\] Liệt kê thông tin cung cấp trên Hệ thống thông tin về hoạt động xây dựng [↑](#footnote-ref-4)

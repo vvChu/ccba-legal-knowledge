@@ -39,7 +39,6 @@ QUẢN LÝ CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG
 
 __QUY ĐỊNH CHUNG__
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
 
@@ -52,7 +51,6 @@ b) Danh mục sản phẩm, hàng hóa vật liệu xây dựng thuộc nhóm r�
 
 <a id="dieu-1-khoan-2"></a>
 2. Thông tư này quy định Danh mục sản phẩm, hàng hóa vật liệu xây dựng.
-
 
 <a id="dieu-2"></a>
 ### Điều 2. Đối tượng áp dụng
@@ -68,7 +66,6 @@ b) Danh mục sản phẩm, hàng hóa vật liệu xây dựng thuộc nhóm r�
 
 <a id="dieu-2-khoan-4"></a>
 4. Cơ quan kiểm tra chất lượng sản phẩm, hàng hóa vật liệu xây dựng và các cơ quan, tổ chức, cá nhân khác có liên quan.
-
 
 <a id="dieu-3"></a>
 ### Điều 3. Sản phẩm, hàng hóa vật liệu xây dựng và phân loại rủi ro
@@ -92,7 +89,6 @@ Trường hợp có sự khác biệt, không thống nhất trong việc phân 
 
 Đối với sản phẩm, hàng hóa vật liệu xây dựng xuất khẩu, nhập khẩu chưa được xác định mã HS trong các Danh mục ban hành kèm theo Thông tư này, việc xác định mã HS thực hiện theo quy định của pháp luật về hải quan. Sau khi thông quan, tổ chức, cá nhân xuất khẩu, nhập khẩu gửi văn bản về Bộ Xây dựng để làm cơ sở phối hợp với Bộ Tài chính xem xét, thống nhất, cập nhật, bổ sung vào Danh mục theo quy định.
 
-
 <a id="dieu-4"></a>
 ### Điều 4. Ghi nhãn hàng hóa vật liệu xây dựng
 
@@ -108,7 +104,6 @@ Trường hợp có sự khác biệt, không thống nhất trong việc phân 
 ### Chương II
 
 __QUẢN LÝ CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG TRONG SẢN XUẤT, XUẤT KHẨU, NHẬP KHẨU, LƯU THÔNG VÀ SỬ DỤNG__
-
 
 <a id="dieu-5"></a>
 ### Điều 5. Yêu cầu chung về quản lý chất lượng sản phẩm, hàng hóa vật liệu xây dựng
@@ -131,7 +126,6 @@ b) Tự nguyện công bố sản phẩm, hàng hóa phù hợp tiêu chuẩn t�
 a) Áp dụng hệ thống quản lý chất lượng nhằm bảo đảm chất lượng sản phẩm phù hợp với quy chuẩn kỹ thuật tương ứng và ghi nhãn theo quy định tại Điều 4 của Thông tư này trước khi đưa sản phẩm ra lưu thông trên thị trường;
 
 b) Bắt buộc công bố sản phẩm, hàng hóa phù hợp quy chuẩn kỹ thuật tương ứng. Việc công bố hợp quy, trừ sản phẩm, hàng hóa sản xuất, chế tạo riêng cho công trình, thực hiện theo quy định của pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật, pháp luật về chất lượng sản phẩm, hàng hóa, hướng dẫn của Bộ Khoa học và Công nghệ tại Thông tư số 14/2026/TT-BKHCN ngày 09 tháng 4 năm 2026 và Điều 12 của Thông tư này.
-
 
 <a id="dieu-6"></a>
 ### Điều 6. Quản lý chất lượng sản phẩm vật liệu xây dựng trong sản xuất
@@ -156,7 +150,6 @@ d) Thực hiện kiểm soát chất lượng nguyên liệu đầu vào, bán t
 <a id="dieu-6-khoan-4"></a>
 4. Hoạt động kiểm tra nhà nước về chất lượng sản phẩm trong sản xuất do cơ quan kiểm tra chất lượng sản phẩm, hàng hóa tiến hành, được thực hiện theo quy định tại Điều 79 Nghị định số 37/2026/NĐ-CP ngày 23 tháng 01 năm 2026.
 
-
 <a id="dieu-7"></a>
 ### Điều 7. Quản lý chất lượng hàng hóa vật liệu xây dựng xuất khẩu
 
@@ -165,7 +158,6 @@ d) Thực hiện kiểm soát chất lượng nguyên liệu đầu vào, bán t
 
 <a id="dieu-7-khoan-2"></a>
 2. Kiểm tra nhà nước về chất lượng hàng hóa xuất khẩu và xử lý vi phạm được thực hiện theo quy định tại Điều 87 Nghị định số 37/2026/NĐ-CP ngày 23 tháng 01 năm 2026.
-
 
 <a id="dieu-8"></a>
 ### Điều 8. Quản lý chất lượng hàng hóa vật liệu xây dựng nhập khẩu
@@ -191,7 +183,6 @@ c) Trình tự, thủ tục, hồ sơ kiểm tra nhà nước về chất lượ
 <a id="dieu-8-khoan-5"></a>
 5. Xử lý vi phạm trong quá trình kiểm tra chất lượng hàng hóa vật liệu xây dựng nhập khẩu thuộc nhóm rủi ro cao thực hiện theo quy định tại Điều 85 Nghị định số 37/2026/NĐ-CP ngày 23 tháng 01 năm 2026.
 
-
 <a id="dieu-9"></a>
 ### Điều 9. Quản lý chất lượng hàng hóa vật liệu xây dựng lưu thông trên thị trường
 
@@ -212,7 +203,6 @@ d) Yêu cầu quản lý nhà nước trong từng thời kỳ.
 <a id="dieu-9-khoan-3"></a>
 3. Trình tự, thủ tục kiểm tra và xử lý vi phạm đối với hàng hóa vật liệu xây dựng lưu thông trên thị trường thực hiện theo quy định tại Điều 89, Điều 90 Nghị định số 37/2026/NĐ-CP ngày 23 tháng 01 năm 2026.
 
-
 <a id="dieu-10"></a>
 ### Điều 10. Quản lý chất lượng hàng hóa vật liệu xây dựng trong quá trình sử dụng
 
@@ -226,7 +216,6 @@ d) Yêu cầu quản lý nhà nước trong từng thời kỳ.
 
 __QUẢN LÝ HOẠT ĐỘNG HỢP CHUẨN, HỢP QUY SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG__
 
-
 <a id="dieu-11"></a>
 ### Điều 11. Công bố hợp chuẩn
 
@@ -238,7 +227,6 @@ __QUẢN LÝ HOẠT ĐỘNG HỢP CHUẨN, HỢP QUY SẢN PHẨM, HÀNG HÓA V�
 
 <a id="dieu-11-khoan-3"></a>
 3. Trình tự công bố hợp chuẩn và trách nhiệm của tổ chức, cá nhân công bố hợp chuẩn thực hiện theo quy định tại Điều 9, Điều 10 Thông tư số 14/2026/TT-BKHCN ngày 09 tháng 4 năm 2026.
-
 
 <a id="dieu-12"></a>
 ### Điều 12. Công bố hợp quy
@@ -266,7 +254,6 @@ a) Đối với sản phẩm, hàng hóa sản xuất trong nước, tổ chức
 
 b) Đối với sản phẩm, hàng hóa nhập khẩu, tổ chức, cá nhân thực hiện công bố hợp quy tại Cơ quan kiểm tra có thẩm quyền thực hiện kiểm tra nhà nước về chất lượng hàng hóa nhập khẩu theo quy định tại Điều 8 của Thông tư này.
 
-
 <a id="dieu-13"></a>
 ### Điều 13. Tổ chức đánh giá sự phù hợp và tổ chức giám định tư pháp về chất lượng sản phẩm, hàng hóa vật liệu xây dựng
 
@@ -289,7 +276,6 @@ b) Đối với sản phẩm, hàng hóa nhập khẩu, tổ chức, cá nhân t
 
 __TỔ CHỨC THỰC HIỆN__
 
-
 <a id="dieu-14"></a>
 ### Điều 14. Trách nhiệm của các bộ, cơ quan ngang bộ
 
@@ -302,7 +288,6 @@ b) Thực hiện việc cấp mới, điều chỉnh, bổ sung, cấp lại, th
 
 <a id="dieu-14-khoan-2"></a>
 2. Các bộ, cơ quan ngang bộ trong phạm vi chức năng, nhiệm vụ, quyền hạn được giao có trách nhiệm phối hợp với Bộ Xây dựng tổ chức thực hiện Thông tư này.
-
 
 <a id="dieu-15"></a>
 ### Điều 15. Trách nhiệm của Ủy ban nhân dân tỉnh, thành phố
@@ -328,7 +313,6 @@ b) Thực hiện việc cấp mới, điều chỉnh, bổ sung, cấp lại, th
 <a id="dieu-15-khoan-7"></a>
 7. Tổ chức kiểm tra, xử lý vi phạm trong quản lý chất lượng sản phẩm, hàng hóa vật liệu xây dựng trên địa bàn theo thẩm quyền.
 
-
 <a id="dieu-16"></a>
 ### Điều 16. Trách nhiệm của tổ chức đánh giá sự phù hợp và tổ chức giám định tư pháp về chất lượng sản phẩm, hàng hóa vật liệu xây dựng
 
@@ -340,7 +324,6 @@ b) Thực hiện việc cấp mới, điều chỉnh, bổ sung, cấp lại, th
 
 <a id="dieu-16-khoan-3"></a>
 3. Thông báo kịp thời cho cơ quan quản lý nhà nước có thẩm quyền về mọi thay đổi có ảnh hưởng đến năng lực hoạt động đánh giá sự phù hợp trong thời hạn 15 ngày kể từ ngày có sự thay đổi.
-
 
 <a id="dieu-17"></a>
 ### Điều 17. Điều khoản chuyển tiếp
@@ -360,7 +343,6 @@ b) Thực hiện việc cấp mới, điều chỉnh, bổ sung, cấp lại, th
 <a id="dieu-17-khoan-5"></a>
 5. Trường hợp văn bản quy phạm pháp luật được viện dẫn trong Thông tư này được sửa đổi, bổ sung hoặc thay thế thì áp dụng theo văn bản quy phạm pháp luật được sửa đổi, bổ sung hoặc thay thế.
 
-
 <a id="dieu-18"></a>
 ### Điều 18. Hiệu lực thi hành
 
@@ -377,7 +359,6 @@ b) Thực hiện việc cấp mới, điều chỉnh, bổ sung, cấp lại, th
 | - Sở Xây dựng các tỉnh, thành phố; | - Công báo, Cổng thông tin điện tử Chính phủ, Cổng thông tin điện tử Bộ Xây dựng; | - Lưu: VT, PC, TTr, KHCNMTVLXD (Đỉnh). | __KT. BỘ TRƯỞNG | THỨ TRƯỞNG |
 | Nguyễn Văn Sinh__ | __PHỤ LỤC__ | (Ban hành kèm theo Thông tư số 41/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)* | __PHỤ LỤC I__ | DANH MỤC SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG |
 | __TT__ | __Danh mục các loại sản phẩm, hàng hóa vật liệu xây dựng__ | __1__ | __VẬT LIỆU XÂY DỰNG CHỦ YẾU__ |  |
-
 
 ### 1 1
 
@@ -903,7 +884,6 @@ Tấm composite
 
 Các loại tấm trần, vách ngăn khác
 
-
 <a id="muc-2-1"></a>
 ### 2.1 0
 
@@ -929,7 +909,6 @@ Sợi, bông gốm
 
 Các loại vật liệu sợi vô cơ khác
 
-
 <a id="muc-2-1"></a>
 ### 2.1 1
 
@@ -946,7 +925,6 @@ Cát san lấp
 2.11.3
 
 Các loại vật liệu san lấp tự nhiên khác
-
 
 <a id="muc-2-1"></a>
 ### 2.1 2
@@ -1245,8 +1223,6 @@ Các loại chất thải, phế thải, phụ phẩm khác đáp ứng yêu c�
 
 __Các vật liệu xây dựng khác không sản xuất trực tiếp từ khoáng sản__
 
-
-
 __PHỤ LỤC II__
 
 DANH MỤC SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG THUỘC NHÓM RỦI RO CAO
@@ -1375,8 +1351,6 @@ PT2, PT5, PT7
 
 \*\* Việc nhập khẩu thực hiện theo quy định của pháp luật về bảo vệ môi trường.
 
-
-
 __PHỤ LỤC III__
 
 DANH MỤC SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG THUỘC NHÓM RỦI RO TRUNG BÌNH
@@ -1405,8 +1379,6 @@ Xi măng:
 
 PT2, PT5, PT7
 
-
-
 2
 
 Sơn tường- dạng nhũ tương
@@ -1414,8 +1386,6 @@ Sơn tường- dạng nhũ tương
 3209.10.90
 
 PT2. PT 5, PT 7
-
-
 
 3
 
@@ -1435,8 +1405,6 @@ PT2. PT 5, PT 7
 
 PT2, PT 5, PT 7
 
-
-
 4
 
 Ván gỗ nhân tạo:
@@ -1453,8 +1421,6 @@ Ván gỗ nhân tạo:
 
 PT2, PT 5, PT 7
 
-
-
 5
 
 Đá ốp lát:
@@ -1467,8 +1433,6 @@ PT2, PT 5, PT 7
 
 PT2, PT 5, PT 7
 
-
-
 6
 
 Gạch gốm ốp lát
@@ -1477,8 +1441,6 @@ Gạch gốm ốp lát
 
 PT2, PT 5, PT 7
 
-
-
 7
 
 Sản phẩm bê tông khí chưng áp
@@ -1486,8 +1448,6 @@ Sản phẩm bê tông khí chưng áp
 6810.99.00
 
 PT2, PT 5, PT 7
-
-
 
 8
 
@@ -1503,8 +1463,6 @@ Tấm tường:
 
 PT2, PT 5, PT 7
 
-
-
 9
 
 Tấm sóng amiăng xi măng
@@ -1512,8 +1470,6 @@ Tấm sóng amiăng xi măng
 6811.40.10
 
 PT2, PT 5, PT 7
-
-
 
 10
 
@@ -1528,8 +1484,6 @@ Ngói lợp mái:
 6905.10.00; 6811.82.20; 6810.99.00
 
 PT2, PT 5, PT 7
-
-
 
 11
 
@@ -1547,17 +1501,11 @@ Thiết bị vệ sinh:
 
 PT2, PT 5, PT 7
 
-
-
 \* Phương thức đánh giá hợp quy: Phương thức 1 (PT1), Phương thức 5 (PT5), Phương thức 7 (PT7) được quy định tại Thông tư số 14/2026/TT-BKHCN ngày 09 tháng 4 năm 2026.
-
-
 
 __PHỤ LỤC IV__
 
 BÁO CÁO TÌNH HÌNH KIỂM TRA CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG
-
-
 
 (Tên cơ quan chủ quản)
 __TÊN CƠ QUAN KIỂM TRA
@@ -1570,8 +1518,6 @@ __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Số:    /BC-...
 
 *…,ngày  tháng  năm 202…*
-
-
 
 __BÁO CÁO TÌNH HÌNH KIỂM TRA CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG
 __(Số liệu năm 202..... tính từ ngày .......đến ngày......)
@@ -1608,16 +1554,6 @@ Nguồn gốc, xuất xứ
 
 ....
 
-
-
-
-
-
-
-
-
-
-
 __ __
 
 __Bảng 2. Kết quả kiểm tra chất lượng các lô hàng hóa vật liệu xây dựng có mức độ rủi ro cao nhập khẩu không đạt yêu cầu__
@@ -1642,22 +1578,6 @@ Các biện pháp đã được xử lý
 
 .....
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __ __
 
 __Bảng 3. Các doanh nghiệp trốn tránh kiểm tra chất lượng hàng hóa vật liệu xây dựng có mức độ rủi ro cao nhập khẩu__
@@ -1679,20 +1599,6 @@ Tờ khai hàng hóa
 Thời gian nhập khẩu
 
 ...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 __ __
 
@@ -1735,9 +1641,5 @@ Nơi nhận:
 
 __Cơ quan báo cáo
 __*(Ký, ghi rõ họ tên và đóng dấu)*
-
-
-
-
 
 __ __

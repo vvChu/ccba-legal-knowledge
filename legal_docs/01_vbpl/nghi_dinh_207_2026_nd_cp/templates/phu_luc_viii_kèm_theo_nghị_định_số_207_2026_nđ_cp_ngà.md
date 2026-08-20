@@ -26,8 +26,6 @@ Số: .........
 
 *.........., ngày .......... tháng ...... năm.......*
 
-
-
 __THÔNG BÁO
 ____KẾT QUẢ KIỂM TRA CÔNG TÁC NGHIỆM THU HOÀN THÀNH__
 __HẠNG MỤC CÔNG TRÌNH, CÔNG TRÌNH XÂY DỰNG__
@@ -66,16 +64,12 @@ b) Quản lý, khai thác, vận hành công trình theo đúng công năng, thi
 
 c) Các yêu cầu khác (nếu có).
 
-
-
 __*Nơi nhận:
 *__- Như trên;
 - Lưu: ...
 
 __LÃNH ĐẠO ĐƠN VỊ/NGƯỜI ĐƯỢC ỦY QUYỀN
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu pháp nhân)*
-
-
 
 ______________________________
 

@@ -20,8 +20,6 @@ Phụ lục IVa. Báo cáo định kỳ về công tác giám sát thi công xâ
 
 Phụ lục IVb. Báo cáo hoàn thành công tác giám sát thi công xây dựng gói thầu, giai đoạn, hạng mục công trình, công trình xây dựng.
 
-
-
 __Phụ lục Iva__
 
 ....(1)....__
@@ -35,14 +33,10 @@ Số: ..../.......
 
 *.........., ngày ....... tháng ........ năm ..........*
 
-
-
 __BÁO CÁO
 ____ĐỊNH KỲ VỀ CÔNG TÁC GIÁM SÁT THI CÔNG XÂY DỰNG CÔNG TRÌNH/HẠNG MỤC CÔNG TRÌNH__
 
 Kính gửi: .........(2)...........
-
-
 
 ......(1).... báo cáo về tình hình giám sát thi công xây dựng công trình/hạng mục công trình ....(3).... từ ngày ..... đến ngày ..... như sau:
 
@@ -76,10 +70,6 @@ c) Đánh giá việc thực hiện các nội dung của biện pháp bảo đ�
 
 **9.** Đề xuất, kiến nghị về tiến độ, nhân sự, thiết kế và các vấn đề kỹ thuật khác.
 
-
-
-
-
 __GIÁM SÁT TRƯỞNG
 __*(Ký, ghi rõ họ tên)*
 
@@ -95,8 +85,6 @@ __*Ghi chú:*__
 
 (4) Trường hợp trong kỳ báo cáo có sự cố công trình thì gửi kèm báo cáo là hồ sơ giải quyết sự cố công trình theo quy định.
 
-
-
 __Phụ lục Ivb__
 
 ....(1)....__
@@ -109,8 +97,6 @@ __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Số: ...../....
 
 *........, ngày ....... tháng ...... năm .......*
-
-
 
 __BÁO CÁO
 ____HOÀN THÀNH CÔNG TÁC GIÁM SÁT THI CÔNG__
@@ -150,8 +136,6 @@ b) Đánh giá sự phù hợp về quy mô, công năng của công trình so v
 **12.** Đánh giá về sự phù hợp của quy trình vận hành, quy trình bảo trì công trình xây dựng theo quy định (nếu có).
 
 **13.** Đánh giá về các điều kiện nghiệm thu hoàn thành gói thầu, giai đoạn, hạng mục công trình, công trình xây dựng.
-
-
 
 __GIÁM SÁT TRƯỞNG__
 *(Ký, ghi rõ họ tên)*

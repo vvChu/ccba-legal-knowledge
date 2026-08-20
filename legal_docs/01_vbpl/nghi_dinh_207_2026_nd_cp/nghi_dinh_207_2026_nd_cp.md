@@ -31,8 +31,6 @@ Số: 207/2026/NĐ-CP
 
 *Hà Nội, ngày 15 tháng 6 năm 2026*
 
-
-
 __NGHỊ ĐỊNH__
 
 QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT XÂY DỰNG VỀ QUẢN LÝ CHẤT LƯỢNG, THI CÔNG XÂY DỰNG VÀ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
@@ -58,7 +56,6 @@ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT XÂY DỰNG VỀ QUẢN L
 ## Chương I.
 
 __NHỮNG QUY ĐỊNH CHUNG__
-
 
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
@@ -92,7 +89,6 @@ m) Điều 67 về dừng khai thác, sử dụng công trình xây dựng.
 
 <a id="dieu-1-khoan-2"></a>
 **2.** Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước, tổ chức, cá nhân nước ngoài có liên quan đến quản lý chất lượng công trình xây dựng, thi công xây dựng công trình và bảo trì công trình xây dựng trên lãnh thổ Việt Nam.
-
 
 <a id="dieu-2"></a>
 ### Điều 2. Giải thích từ ngữ
@@ -156,7 +152,6 @@ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sa
 <a id="dieu-2-khoan-19"></a>
 **19.** Quản lý an toàn trong thi công xây dựng công trình là hoạt động quản lý của các chủ thể tham gia xây dựng công trình theo quy định của Nghị định này và pháp luật khác có liên quan nhằm bảo đảm an toàn trong thi công xây dựng công trình.
 
-
 <a id="dieu-3"></a>
 ### Điều 3. Phân loại công trình xây dựng
 
@@ -171,7 +166,6 @@ Công năng sử dụng của công trình có thể được tạo ra bởi m�
 
 <a id="dieu-3-khoan-2"></a>
 **2.** Các loại công trình phục vụ quốc phòng, an ninh và việc sử dụng cấp công trình quy định tại điểm a khoản 2 Điều 6 Luật Xây dựng số 135/2025/QH15 trong quản lý hoạt động xây dựng đối với công trình phục vụ quốc phòng, an ninh thực hiện theo quy định của Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an.
-
 
 <a id="dieu-4"></a>
 ### Điều 4. Nguyên tắc chung trong quản lý xây dựng công trình xây dựng
@@ -190,7 +184,6 @@ Công năng sử dụng của công trình có thể được tạo ra bởi m�
 
 <a id="dieu-4-khoan-5"></a>
 **5.** Việc quản lý xây dựng công trình nhà ở riêng lẻ thực hiện theo quy định tại Điều 10 Nghị định này. Khuyến khích chủ sở hữu nhà ở áp dụng các quy định tại Nghị định này để tổ chức giám sát, thi công, nghiệm thu công trình nhà ở riêng lẻ.
-
 
 <a id="dieu-5"></a>
 ### Điều 5. Phân định trách nhiệm giữa các chủ thể trong quản lý xây dựng công trình
@@ -232,7 +225,6 @@ b) Nhà thầu EPC, chìa khóa trao tay có trách nhiệm tổ chức quản l
 <a id="dieu-5-khoan-7"></a>
 **7.** Quyền, nghĩa vụ và việc phân định trách nhiệm của các chủ thể quy định tại Điều này phải được thể hiện trong hợp đồng xây dựng và theo quy định của pháp luật.
 
-
 <a id="dieu-6"></a>
 ### Điều 6. Thí nghiệm chuyên ngành xây dựng
 
@@ -250,7 +242,6 @@ b) Nhà thầu EPC, chìa khóa trao tay có trách nhiệm tổ chức quản l
 
 <a id="dieu-6-khoan-5"></a>
 **5.** Việc lập và điều chỉnh kế hoạch tổ chức thí nghiệm theo quy định của Bộ trưởng Bộ Xây dựng.
-
 
 <a id="dieu-7"></a>
 ### Điều 7. Quan trắc công trình trong quá trình thi công xây dựng
@@ -270,7 +261,6 @@ b) Khi công trình bị sụt, trượt, lún, nghiêng, nứt hoặc có các 
 
 <a id="dieu-7-khoan-4"></a>
 **4.** Việc lập đề cương quan trắc và xử lý kết quả quan trắc theo quy định của Bộ trưởng Bộ Xây dựng.
-
 
 <a id="dieu-8"></a>
 ### Điều 8. Thí nghiệm đối chứng, kiểm định xây dựng, thử nghiệm khả năng chịu lực của kết cấu công trình
@@ -306,7 +296,6 @@ d) Phục vụ cải tạo, nâng cấp công trình xây dựng;
 
 <a id="dieu-8-khoan-6"></a>
 **6.** Nội dung, trình tự, đề cương và báo cáo kết quả kiểm định xây dựng theo quy định của Bộ trưởng Bộ Xây dựng.
-
 
 <a id="dieu-9"></a>
 ### Điều 9. Giám định xây dựng
@@ -347,7 +336,6 @@ d) Chi phí cần thiết khác phục vụ cho việc giám định xây dựng
 
 <a id="dieu-9-khoan-5"></a>
 **5.** Trình tự, thông báo kết luận giám định xây dựng theo quy định của Bộ trưởng Bộ Xây dựng.
-
 
 <a id="dieu-10"></a>
 ### Điều 10. Quản lý xây dựng công trình nhà ở riêng lẻ
@@ -390,7 +378,6 @@ d) Biện pháp bảo đảm an toàn trong thi công xây dựng công trình.
 <a id="dieu-10-khoan-6"></a>
 **6.** Ngoài những quy định tại Điều này, việc xây dựng công trình nhà ở riêng lẻ, chuyển đổi công năng sử dụng một phần hoặc toàn bộ công trình nhà ở riêng lẻ phải tuân thủ quy định của pháp luật về phòng cháy, chữa cháy, bảo vệ môi trường và pháp luật khác có liên quan.
 
-
 <a id="dieu-11"></a>
 ### Điều 11. Ứng dụng công nghệ thông tin trong quản lý thi công xây dựng công trình
 
@@ -410,7 +397,6 @@ __QUẢN LÝ THI CÔNG XÂY DỰNG, BÀN GIAO HẠNG MỤC CÔNG TRÌNH, CÔNG T
 
 ### Mục 1. QUẢN LÝ THI CÔNG XÂY DỰNG CÔNG TRÌNH
 
-
 <a id="dieu-12"></a>
 ### Điều 12. Điều kiện khởi công xây dựng công trình
 
@@ -422,7 +408,6 @@ __QUẢN LÝ THI CÔNG XÂY DỰNG, BÀN GIAO HẠNG MỤC CÔNG TRÌNH, CÔNG T
 
 <a id="dieu-12-khoan-3"></a>
 **3.** Việc bàn giao toàn bộ hoặc một phần mặt bằng xây dựng trước khi khởi công xây dựng công trình thực hiện theo thỏa thuận giữa chủ đầu tư và nhà thầu thi công xây dựng trong hợp đồng xây dựng, trừ công trình nhà ở riêng lẻ của hộ gia đình, cá nhân.
-
 
 <a id="dieu-13"></a>
 ### Điều 13. Yêu cầu đối với công trường xây dựng
@@ -451,7 +436,6 @@ d) Trong phạm vi công trường xây dựng phải có các biển báo chỉ
 
 <a id="dieu-13-khoan-3"></a>
 **3.** Chủ đầu tư căn cứ vào tình hình cụ thể của công trình quyết định việc lắp đặt thiết bị giám sát để phục vụ cho việc quản lý công trường xây dựng nhằm bảo đảm an toàn cho con người, thiết bị và tài sản.
-
 
 <a id="dieu-14"></a>
 ### Điều 14. Quản lý vật liệu xây dựng, sản phẩm, cấu kiện, thiết bị sử dụng cho công trình xây dựng
@@ -523,7 +507,6 @@ g) Các tài liệu khác có liên quan theo quy định của hợp đồng x�
 a) Các vật liệu, sản phẩm, cấu kiện, thiết bị được thay thế phải đáp ứng được yêu cầu thiết kế, phù hợp với các quy chuẩn kỹ thuật, tiêu chuẩn áp dụng và được chủ đầu tư chấp thuận, phê duyệt theo quy định của hợp đồng;
 
 b) Trường hợp thay đổi dẫn đến điều chỉnh dự án thì thực hiện theo quy định của Chính phủ về quản lý hoạt động xây dựng.
-
 
 <a id="dieu-15"></a>
 ### Điều 15. Trách nhiệm của nhà thầu thi công xây dựng
@@ -600,7 +583,6 @@ c) Khi phát hiện vi phạm các quy định về quản lý an toàn trong th
 
 d) Tham gia ứng cứu, khắc phục tai nạn lao động, sự cố gây mất an toàn lao động.
 
-
 <a id="dieu-16"></a>
 ### Điều 16. Trách nhiệm của chủ đầu tư
 
@@ -674,7 +656,6 @@ b) Tổ chức phối hợp giữa các nhà thầu để thực hiện quản l
 
 c) Tạm dừng hoặc đình chỉ thi công khi phát hiện dấu hiệu vi phạm quy định về an toàn trong thi công xây dựng công trình.
 
-
 <a id="dieu-17"></a>
 ### Điều 17. Trách nhiệm của người lao động trong việc bảo đảm an toàn, vệ sinh lao động trên công trường
 
@@ -696,7 +677,6 @@ c) Tạm dừng hoặc đình chỉ thi công khi phát hiện dấu hiệu vi p
 <a id="dieu-17-khoan-6"></a>
 **6.** Thực hiện các nội dung khác theo quy định của pháp luật về an toàn, vệ sinh lao động.
 
-
 <a id="dieu-18"></a>
 ### Điều 18. Quản lý khối lượng thi công xây dựng
 
@@ -712,7 +692,6 @@ c) Tạm dừng hoặc đình chỉ thi công khi phát hiện dấu hiệu vi p
 <a id="dieu-18-khoan-4"></a>
 **4.** Nghiêm cấm việc khai khống, khai tăng khối lượng hoặc thông đồng giữa các bên tham gia dẫn đến làm sai khối lượng thanh toán.
 
-
 <a id="dieu-19"></a>
 ### Điều 19. Quản lý tiến độ thi công xây dựng
 
@@ -727,7 +706,6 @@ c) Tạm dừng hoặc đình chỉ thi công khi phát hiện dấu hiệu vi p
 
 <a id="dieu-19-khoan-4"></a>
 **4.** Trường hợp xét thấy tiến độ thi công xây dựng công trình bị kéo dài dẫn đến phải điều chỉnh dự án đầu tư xây dựng thì thực hiện theo quy định của Chính phủ về quản lý hoạt động xây dựng.
-
 
 <a id="dieu-20"></a>
 ### Điều 20. Giám sát thi công xây dựng công trình
@@ -800,7 +778,6 @@ e) Tham gia nghiệm thu hoàn thành hạng mục công trình, công trình x�
 
 g) Tổ chức kiểm định chất lượng công trình làm cơ sở chuyển giao theo quy định trong hợp đồng dự án đối với loại hợp đồng BOT, BLT khi kết thúc thời gian kinh doanh hoặc thuê dịch vụ.
 
-
 <a id="dieu-21"></a>
 ### Điều 21. Giám sát tác giả của nhà thầu thiết kế trong thi công xây dựng công trình
 
@@ -817,7 +794,6 @@ b) Phối hợp với chủ đầu tư khi được yêu cầu để giải quy�
 c) Thông báo kịp thời cho chủ đầu tư và kiến nghị biện pháp xử lý khi phát hiện việc thi công sai với thiết kế được duyệt của nhà thầu thi công xây dựng;
 
 d) Tham gia nghiệm thu công trình xây dựng theo hợp đồng xây dựng với chủ đầu tư. Trường hợp phát hiện hạng mục công trình, công trình xây dựng không đủ điều kiện nghiệm thu phải có ý kiến kịp thời bằng văn bản gửi chủ đầu tư.
-
 
 <a id="dieu-22"></a>
 ### Điều 22. Nghiệm thu công việc xây dựng
@@ -876,7 +852,6 @@ b) Người trực tiếp phụ trách kỹ thuật thi công của nhà thầu 
 <a id="dieu-22-khoan-8"></a>
 **8.** Trường hợp nhà thầu là liên danh thì người trực tiếp phụ trách kỹ thuật thi công, người trực tiếp giám sát thi công xây dựng của từng thành viên trong liên danh ký biên bản nghiệm thu công việc xây dựng do mình thực hiện.
 
-
 <a id="dieu-23"></a>
 ### Điều 23. Nghiệm thu giai đoạn thi công xây dựng hoặc bộ phận công trình xây dựng
 
@@ -892,7 +867,6 @@ b) Khi kết thúc một gói thầu xây dựng.
 
 <a id="dieu-23-khoan-3"></a>
 **3.** Chủ đầu tư và các nhà thầu có liên quan được tự thỏa thuận về thời điểm tổ chức nghiệm thu, trình tự, nội dung, điều kiện nghiệm thu; thành phần tham gia nghiệm thu bao gồm giám sát trưởng và các thành phần khác do chủ đầu tư và các nhà thầu có liên quan tự thỏa thuận; kết quả nghiệm thu được xác nhận bằng biên bản.
-
 
 <a id="dieu-24"></a>
 ### Điều 24. Nghiệm thu hoàn thành hạng mục công trình, công trình xây dựng
@@ -951,7 +925,6 @@ d) Người đại diện theo pháp luật hoặc người được ủy quyề
 
 đ) Người đại diện theo pháp luật của cơ quan có thẩm quyền ký hợp đồng dự án hoặc người được ủy quyền trong trường hợp thực hiện đầu tư theo phương thức đối tác công tư.
 
-
 <a id="dieu-25"></a>
 ### Điều 25. Kiểm tra công tác nghiệm thu công trình xây dựng
 
@@ -983,7 +956,6 @@ d) Việc kiểm tra công tác nghiệm thu của cơ quan có thẩm quyền k
 
 <a id="dieu-25-khoan-5"></a>
 **5.** Chi phí cho việc kiểm tra công tác nghiệm thu trong quá trình thi công và khi hoàn thành thi công xây dựng do chủ đầu tư lập dự toán, thẩm định, phê duyệt và được tính trong tổng mức đầu tư xây dựng công trình theo quy định của Chính phủ về quản lý chi phí đầu tư xây dựng.
-
 
 <a id="dieu-26"></a>
 ### Điều 26. Thẩm quyền kiểm tra công tác nghiệm thu công trình xây dựng
@@ -1022,7 +994,6 @@ h) Thẩm quyền kiểm tra công trình hoặc hạng mục công trình lấn
 <a id="dieu-26-khoan-4"></a>
 **4.** Trường hợp công trình được xây dựng trên địa bàn hành chính từ 02 tỉnh trở lên không thuộc thẩm quyền kiểm tra của cơ quan chuyên môn về xây dựng thuộc bộ quản lý công trình xây dựng chuyên ngành, chủ đầu tư gửi thông báo khởi công xây dựng công trình và báo cáo hoàn thành thi công xây dựng hạng mục công trình, công trình xây dựng tới cơ quan chuyên môn về xây dựng thuộc Ủy ban nhân dân cấp tỉnh đã thực hiện thẩm định báo cáo nghiên cứu khả thi đầu tư xây dựng để được cơ quan này thực hiện kiểm tra.
 
-
 <a id="dieu-27"></a>
 ### Điều 27. Nội dung, trình tự kiểm tra công tác nghiệm thu công trình xây dựng
 
@@ -1053,7 +1024,6 @@ b) Cơ quan chuyên môn về xây dựng thực hiện kiểm tra theo nội du
 <a id="dieu-27-khoan-5"></a>
 **5.** Trường hợp công trình đã được chấp thuận kết quả nghiệm thu có điều kiện, chủ đầu tư phải báo cáo kèm theo báo cáo của các nhà thầu có liên quan về kết quả thực hiện các nội dung quy định tại khoản 3 Điều 24 Nghị định này đến cơ quan chuyên môn về xây dựng để được xem xét, kiểm tra công tác nghiệm thu hoàn thành công trình xây dựng.
 
-
 <a id="dieu-28"></a>
 ### Điều 28. Hồ sơ hoàn thành công trình xây dựng
 
@@ -1070,7 +1040,6 @@ b) Cơ quan chuyên môn về xây dựng thực hiện kiểm tra theo nội du
 **4.** Chủ đầu tư tổ chức lập và lưu trữ một bộ hồ sơ hoàn thành công trình xây dựng; các chủ thể tham gia hoạt động đầu tư xây dựng công trình lưu trữ các hồ sơ liên quan đến phần việc do mình thực hiện. Hồ sơ hoàn thành công trình xây dựng phải được lưu trữ bằng bản gốc và bản sao điện tử theo quy định của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử; trường hợp không có bản gốc thì được thay thế bằng bản chính hoặc bản sao hợp pháp. Đối với các thành phần hồ sơ thuộc danh mục tài liệu phải cập nhật lên cơ sở dữ liệu quốc gia về hoạt động xây dựng, định dạng của các tài liệu này phải tuân thủ quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, hệ thống thông tin, cơ sở dữ liệu quốc gia về hoạt động xây dựng.
 
 ### Mục 2. BÀN GIAO HẠNG MỤC CÔNG TRÌNH, CÔNG TRÌNH XÂY DỰNG, BÀN GIAO CÔNG TRÌNH XÂY DỰNG TRONG DỰ ÁN ĐẦU TƯ XÂY DỰNG KHU ĐÔ THỊ
-
 
 <a id="dieu-29"></a>
 ### Điều 29. Điều kiện để đưa công trình, hạng mục công trình vào khai thác, sử dụng
@@ -1097,7 +1066,6 @@ a) Chủ đầu tư cùng với các nhà thầu phải làm rõ các chỉ tiê
 
 b) Việc đưa công trình vào khai thác, sử dụng trong trường hợp này chỉ được xem xét đối với các công trình giao thông, công trình thuộc hệ thống công trình hạ tầng kỹ thuật, công trình thủy lợi, đê điều thiết yếu phục vụ lợi ích cộng đồng trên cơ sở xác định lại các thông số kỹ thuật được phép khai thác, các điều kiện để đưa vào khai thác, sử dụng và phải được người quyết định đầu tư chấp thuận và được các cơ quan nhà nước có thẩm quyền cho ý kiến theo quy định của pháp luật có liên quan.
 
-
 <a id="dieu-30"></a>
 ### Điều 30. Bàn giao hạng mục công trình, công trình xây dựng
 
@@ -1121,7 +1089,6 @@ b) Việc đưa công trình vào khai thác, sử dụng trong trường hợp 
 
 <a id="dieu-30-khoan-7"></a>
 **7.** Trường hợp công trình giao thông, công trình thuộc hệ thống công trình hạ tầng kỹ thuật, công trình thủy lợi, đê điều thiết yếu phục vụ lợi ích cộng đồng được đưa vào khai thác, sử dụng nhưng chưa bàn giao được công trình cho chủ sở hữu hoặc chủ quản lý, sử dụng công trình thì chủ đầu tư có trách nhiệm tổ chức quản lý, vận hành, bảo trì công trình xây dựng; chi phí cho công tác này thực hiện theo quy định của pháp luật về hợp đồng xây dựng và chi phí trong hoạt động xây dựng.
-
 
 <a id="dieu-31"></a>
 ### Điều 31. Bàn giao công trình xây dựng trong dự án đầu tư xây dựng khu đô thị
@@ -1179,7 +1146,6 @@ __BẢO HÀNH, BẢO TRÌ, PHÁ DỠ CÔNG TRÌNH XÂY DỰNG__
 
 ### Mục 1. BẢO HÀNH CÔNG TRÌNH XÂY DỰNG
 
-
 <a id="dieu-32"></a>
 ### Điều 32. Yêu cầu về bảo hành công trình xây dựng
 
@@ -1219,7 +1185,6 @@ c) Mức tiền bảo hành đối với công trình sử dụng vốn khác c�
 <a id="dieu-32-khoan-8"></a>
 **8.** Mức tiền bảo hành tối thiểu quy định tại khoản 7 Điều này được áp dụng trong thời hạn bảo hành tối thiểu quy định tại khoản 5 Điều này. Trường hợp thời hạn bảo hành vượt quá quy định tại khoản 5 Điều này, chủ đầu tư phải thỏa thuận với các nhà thầu có liên quan trong hợp đồng xây dựng về mức tiền bảo hành, việc hoàn trả tiền bảo hành hoặc thay thế bằng tài sản bảo đảm, bảo lãnh bảo hành hoặc các hình thức thỏa thuận khác để áp dụng cho phần thời gian bảo hành vượt quá quy định tại khoản 5 Điều này.
 
-
 <a id="dieu-33"></a>
 ### Điều 33. Trách nhiệm của các chủ thể trong bảo hành công trình xây dựng
 
@@ -1246,7 +1211,6 @@ b) Chủ sở hữu hoặc chủ quản lý, sử dụng công trình có trách
 **6.** Đối với công trình nhà ở, nội dung, yêu cầu, trách nhiệm và thời hạn bảo hành thực hiện theo quy định của pháp luật về nhà ở.
 
 ### Mục 2. BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
-
 
 <a id="dieu-34"></a>
 ### Điều 34. Quy trình bảo trì công trình xây dựng
@@ -1309,7 +1273,6 @@ d) Đối với công trình sử dụng tiêu chuẩn kỹ thuật bảo trì �
 
 đ) Chủ sở hữu hoặc chủ quản lý, sử dụng công trình có trách nhiệm phê duyệt những nội dung điều chỉnh của quy trình bảo trì, trừ trường hợp pháp luật có quy định khác.
 
-
 <a id="dieu-35"></a>
 ### Điều 35. Kế hoạch bảo trì công trình xây dựng
 
@@ -1329,7 +1292,6 @@ d) Chi phí thực hiện.
 
 <a id="dieu-35-khoan-3"></a>
 **3.** Kế hoạch bảo trì có thể được sửa đổi, bổ sung trong quá trình thực hiện. Chủ sở hữu hoặc chủ quản lý, sử dụng công trình quyết định việc sửa đổi, bổ sung kế hoạch bảo trì công trình xây dựng.
-
 
 <a id="dieu-36"></a>
 ### Điều 36. Thực hiện bảo trì công trình xây dựng
@@ -1378,7 +1340,6 @@ d) Khi cần có cơ sở để quyết định việc kéo dài thời hạn s�
 <a id="dieu-36-khoan-10"></a>
 **10.** Ngoài các quy định về bảo trì công trình xây dựng tại Nghị định này, việc bảo trì công trình xây dựng được thực hiện theo quy định của pháp luật chuyên ngành khác có liên quan.
 
-
 <a id="dieu-37"></a>
 ### Điều 37. Quan trắc công trình phục vụ công tác bảo trì công trình xây dựng
 
@@ -1402,7 +1363,6 @@ c) Các số liệu quan trắc phải được phân tích, đánh giá; kết 
 
 <a id="dieu-37-khoan-3"></a>
 **3.** Phạm vi, đối tượng, nội dung và chi phí quan trắc phục vụ công tác bảo trì công trình xây dựng quy định tại điểm c khoản 1 Điều này thực hiện theo quy định của bộ quản lý công trình xây dựng chuyên ngành.
-
 
 <a id="dieu-38"></a>
 ### Điều 38. Quản lý chất lượng công việc bảo trì công trình xây dựng
@@ -1449,7 +1409,6 @@ a) Cơ quan ký kết hợp đồng có trách nhiệm kiểm tra việc tổ ch
 
 b) Doanh nghiệp dự án PPP có trách nhiệm tổ chức thực hiện chuyển giao công nghệ, bàn giao tài liệu phục vụ bảo trì, hồ sơ bảo trì công trình xây dựng cho cơ quan ký kết hợp đồng trước khi chuyển giao công trình theo quy định tại hợp đồng dự án.
 
-
 <a id="dieu-39"></a>
 ### Điều 39. Chi phí bảo trì công trình xây dựng
 
@@ -1473,7 +1432,6 @@ c) Chi phí các công việc khác trong kế hoạch bảo trì bao gồm mộ
 
 ### Mục 3. ĐÁNH GIÁ AN TOÀN CÔNG TRÌNH
 
-
 <a id="dieu-40"></a>
 ### Điều 40. Đánh giá an toàn công trình
 
@@ -1488,7 +1446,6 @@ c) Chi phí các công việc khác trong kế hoạch bảo trì bao gồm mộ
 
 <a id="dieu-40-khoan-4"></a>
 **4.** Việc đánh giá an toàn công trình đối với công trình đập, hồ chứa nước được thực hiện theo quy định của pháp luật chuyên ngành có liên quan.
-
 
 <a id="dieu-41"></a>
 ### Điều 41. Trách nhiệm tổ chức thực hiện đánh giá an toàn công trình
@@ -1533,7 +1490,6 @@ b) Đối với các công trình quy định tại điểm a khoản này chưa
 
 ### Mục 4. XỬ LÝ ĐỐI VỚI CÔNG TRÌNH CÓ DẤU HIỆU NGUY HIỂM, CÔNG TRÌNH HẾT THỜI HẠN SỬ DỤNG, PHÁ DỠ CÔNG TRÌNH XÂY DỰNG
 
-
 <a id="dieu-42"></a>
 ### Điều 42. Xử lý đối với công trình có dấu hiệu nguy hiểm, không bảo đảm an toàn cho khai thác, sử dụng
 
@@ -1576,7 +1532,6 @@ d) Xử lý trách nhiệm của chủ sở hữu hoặc chủ quản lý, sử 
 a) Ủy ban nhân dân cấp tỉnh đối với các công trình xây dựng nằm trên địa bàn tỉnh. Căn cứ vào điều kiện cụ thể của từng địa phương, Ủy ban nhân dân cấp tỉnh phân cấp cho cơ quan chuyên môn về xây dựng trực thuộc hoặc Ủy ban nhân dân cấp xã nơi xây dựng công trình tiếp nhận thông tin về hạng mục công trình, công trình xảy ra sự cố hoặc có dấu hiệu nguy hiểm, không bảo đảm an toàn cho việc khai thác, sử dụng;
 
 b) Bộ Quốc phòng, Bộ Công an đối với công trình phục vụ quốc phòng, an ninh.
-
 
 <a id="dieu-43"></a>
 ### Điều 43. Xử lý đối với công trình hết thời hạn sử dụng theo thiết kế
@@ -1634,7 +1589,6 @@ b) Bộ Quốc phòng, Bộ Công an đối với công trình phục vụ quố
 
 <a id="dieu-43-khoan-10"></a>
 **10.** Nội dung báo cáo của chủ sở hữu, người quản lý sử dụng công trình khi công trình hết thời hạn sử dụng và nội dung công bố công trình hết thời hạn sử dụng theo thiết kế của cơ quan nhà nước có thẩm quyền theo quy định của Bộ trưởng Bộ Xây dựng.
-
 
 <a id="dieu-44"></a>
 ### Điều 44. Phá dỡ công trình xây dựng
@@ -1696,7 +1650,6 @@ __SỰ CỐ TRONG THI CÔNG VÀ KHAI THÁC, SỬ DỤNG CÔNG TRÌNH__
 
 ### Mục 1. SỰ CỐ CÔNG TRÌNH XÂY DỰNG
 
-
 <a id="dieu-45"></a>
 ### Điều 45. Báo cáo sự cố công trình xây dựng
 
@@ -1722,7 +1675,6 @@ d) Thiệt hại về người và tài sản (nếu có).
 
 <a id="dieu-45-khoan-5"></a>
 **5.** Trường hợp sự cố công trình xảy ra trong quá trình khai thác, sử dụng, chủ sở hữu hoặc chủ quản lý, sử dụng công trình có trách nhiệm thực hiện theo quy định tại các khoản 1, 2 Điều này.
-
 
 <a id="dieu-46"></a>
 ### Điều 46. Giải quyết sự cố công trình xây dựng
@@ -1760,7 +1712,6 @@ d) Xử lý trách nhiệm của các bên có liên quan theo quy định của
 <a id="dieu-46-khoan-7"></a>
 **7.** Thẩm quyền chủ trì giải quyết sự cố đối với công trình phục vụ quốc phòng, an ninh theo quy định của Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an.
 
-
 <a id="dieu-47"></a>
 ### Điều 47. Giám định nguyên nhân sự cố công trình xây dựng
 
@@ -1795,7 +1746,6 @@ b) Trường hợp sự cố công trình xây dựng xảy ra trong quá trình
 <a id="dieu-47-khoan-5"></a>
 **5.** Việc giám định nguyên nhân sự cố đối với công trình phục vụ quốc phòng, an ninh theo quy định của Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an.
 
-
 <a id="dieu-48"></a>
 ### Điều 48. Hồ sơ sự cố công trình xây dựng
 
@@ -1815,7 +1765,6 @@ Chủ đầu tư, chủ sở hữu hoặc chủ quản lý, sử dụng có trá
 
 ### Mục 2. SỰ CỐ GÂY MẤT AN TOÀN LAO ĐỘNG TRONG THI CÔNG XÂY DỰNG CÔNG TRÌNH
 
-
 <a id="dieu-49"></a>
 ### Điều 49. Sự cố gây mất an toàn lao động trong thi công xây dựng công trình
 
@@ -1832,7 +1781,6 @@ b) Sự cố tai nạn lao động xảy ra trong thi công xây dựng công tr
 a) Đối với sự cố quy định tại điểm a khoản 1 Điều này, việc khai báo, điều tra, báo cáo và giải quyết sự cố thực hiện theo quy định tại Điều 50 Nghị định này; trường hợp sự cố do máy, thiết bị gây chết người hoặc làm bị thương nặng từ 2 người trở lên thì việc khai báo, điều tra, báo cáo và giải quyết sự cố thực hiện theo quy định của pháp luật về an toàn, vệ sinh lao động;
 
 b) Đối với sự cố quy định tại điểm b khoản 1 Điều này thì việc khai báo, điều tra, báo cáo và giải quyết sự cố thực hiện theo quy định của pháp luật về an toàn, vệ sinh lao động.
-
 
 <a id="dieu-50"></a>
 ### Điều 50. Khai báo, báo cáo và giải quyết sự cố do máy, thiết bị
@@ -1873,7 +1821,6 @@ e) Xử lý, kiến nghị xử lý trách nhiệm của các bên có liên qua
 ## Chương V.
 
 __ĐIỀU KHOẢN THI HÀNH__
-
 
 <a id="dieu-51"></a>
 ### Điều 51. Trách nhiệm thi hành
@@ -1931,7 +1878,6 @@ d) Chỉ đạo, kiểm tra các cơ quan chuyên môn trực thuộc trong vi�
 <a id="dieu-51-khoan-7"></a>
 **7.** Các bộ quản lý công trình xây dựng chuyên ngành khác, Ủy ban nhân dân cấp tỉnh có trách nhiệm báo cáo Bộ Xây dựng về tình hình chất lượng, công tác quản lý chất lượng công trình xây dựng và công tác quản lý an toàn trong thi công xây dựng thuộc thẩm quyền quản lý theo hướng dẫn của Bộ trưởng Bộ Xây dựng trước ngày 15 tháng 12 hằng năm và báo cáo đột xuất khi có yêu cầu.
 
-
 <a id="dieu-52"></a>
 ### Điều 52. Hiệu lực thi hành
 
@@ -1943,7 +1889,6 @@ d) Chỉ đạo, kiểm tra các cơ quan chuyên môn trực thuộc trong vi�
 
 <a id="dieu-52-khoan-3"></a>
 **3.** Bãi bỏ Điều 8 Nghị định số 140/2025/NĐ-CP; Điều 13 Nghị định số 144/2025/NĐ-CP; khoản 4 Điều 9, Điều 38 của Nghị định số 11/2013/NĐ-CP ngày 14 tháng 01 năm 2013 của Chính phủ về quản lý đầu tư phát triển đô thị được sửa đổi, bổ sung tại Nghị định số 35/2023/NĐ-CP ngày 20 tháng 6 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng.
-
 
 <a id="dieu-53"></a>
 ### Điều 53. Điều khoản chuyển tiếp
@@ -1966,7 +1911,6 @@ b) Trong quá trình cơ quan chuyên môn về xây dựng thuộc bộ quản 
 
 <a id="dieu-53-khoan-5"></a>
 **5.** Các công trình xây dựng thuộc danh mục các công trình Hội đồng kiểm tra nhà nước về công tác nghiệm thu công trình xây dựng tổ chức kiểm tra năm 2026 đã được Thủ tướng Chính phủ phê duyệt, đã khởi công xây dựng và đã được kiểm tra công tác nghiệm thu thì Hội đồng tiếp tục kiểm tra đối với các công trình này.
-
 
 <a id="dieu-54"></a>
 ### Điều 54. Tổ chức thực hiện

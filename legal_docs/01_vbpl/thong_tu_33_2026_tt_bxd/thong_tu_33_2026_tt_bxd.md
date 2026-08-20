@@ -25,18 +25,15 @@ QUY ĐỊNH CHI TIẾT MỘT SỐ NỘI DUNG VỀ ĐÁNH GIÁ AN TOÀN CÔNG TR�
 
 *Bộ trưởng Bộ Xây dựng ban hành Thông tư quy định chi tiết một số nội dung về đánh giá an toàn công trình trong quá trình khai thác, sử dụng đối với các công trình thuộc thẩm quyền quản lý của Bộ Xây dựng.*
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
 
 Thông tư này quy định chi tiết khoản 3 Điều 40 Nghị định số 207/2026/NĐ-CP về thời điểm đánh giá lần đầu, tần suất đánh giá; trình tự, hồ sơ đánh giá an toàn công trình đối với các công trình thuộc thẩm quyền quản lý của Bộ Xây dựng.
 
-
 <a id="dieu-2"></a>
 ### Điều 2. Đối tượng áp dụng
 
 Thông tư này áp dụng đối với chủ sở hữu, chủ quản lý, sử dụng công trình, các tổ chức kiểm định xây dựng thực hiện việc đánh giá an toàn công trình và các cơ quan, tổ chức, cá nhân có liên quan.
-
 
 <a id="dieu-3"></a>
 ### Điều 3. Giải thích từ ngữ
@@ -52,7 +49,6 @@ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 <a id="dieu-3-khoan-3"></a>
 3. Đánh giá cấp độ 2 là việc tổ chức đánh giá có thể sử dụng các phương pháp phân tích, kiểm tra kết cấu để đánh giá an toàn công trình căn cứ vào các hồ sơ, tài liệu phục vụ công tác đánh giá an toàn công trình và các số liệu khảo sát hiện trạng công trình.
 
-
 <a id="dieu-4"></a>
 ### Điều 4. Thời điểm đánh giá lần đầu và tần suất đánh giá an toàn công trình
 
@@ -64,7 +60,6 @@ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau:
 
 <a id="dieu-4-khoan-3"></a>
 3. Đối với công trình xây dựng đã có quy định về thời điểm đánh giá lần đầu và tần suất đánh giá trong pháp luật chuyên ngành, tiêu chuẩn, quy chuẩn kỹ thuật, quy trình bảo trì công trình xây dựng thì thực hiện theo quy định của pháp luật chuyên ngành, tiêu chuẩn, quy chuẩn kỹ thuật, quy trình bảo trì công trình xây dựng đó.
-
 
 <a id="dieu-5"></a>
 ### Điều 5. Trình tự đánh giá an toàn công trình
@@ -81,7 +76,6 @@ b) Khi kết cấu công trình trong quá trình khai thác, sử dụng có d�
 
 <a id="dieu-5-khoan-3"></a>
 3. Đánh giá cấp độ 2 bao gồm hai giai đoạn: đánh giá sơ bộ và đánh giá chi tiết. Đánh giá chi tiết được thực hiện trong trường hợp kết quả đánh giá sơ bộ không thể kết luận được kết cấu công trình đảm bảo an toàn hoặc không đảm bảo an toàn.
-
 
 <a id="dieu-6"></a>
 ### Điều 6. Đánh giá cấp độ 1
@@ -114,7 +108,6 @@ c) Kiểm tra việc cải tạo, sửa chữa công trình để xác định v
 <a id="dieu-6-khoan-4"></a>
 4. Báo cáo kết quả đánh giá an toàn công trình theo quy định tại khoản 9 Điều 8 Thông tư này. Chủ sở hữu hoặc chủ quản lý, sử dụng công trình có trách nhiệm xác nhận báo cáo kết quả đánh giá an toàn công trình theo quy định tại điểm đ khoản 1 Điều 41 Nghị định số 207/2026/NĐ-CP.
 
-
 <a id="dieu-7"></a>
 ### Điều 7. Đánh giá cấp độ 2 - giai đoạn đánh giá sơ bộ
 
@@ -135,7 +128,6 @@ c) Kiểm tra việc cải tạo, sửa chữa công trình để xác định v
 
 <a id="dieu-7-khoan-6"></a>
 6. Báo cáo kết quả đánh giá an toàn công trình theo quy định tại khoản 9 Điều 8 Thông tư này. Chủ sở hữu hoặc chủ quản lý, sử dụng công trình có trách nhiệm xác nhận báo cáo kết quả đánh giá an toàn công trình theo quy định tại điểm đ khoản 1 Điều 41 Nghị định số 207/2026/NĐ-CP.
-
 
 <a id="dieu-8"></a>
 ### Điều 8. Đánh giá cấp độ 2 - giai đoạn đánh giá chi tiết
@@ -214,7 +206,6 @@ g) Kết luận và kiến nghị (nếu có)*.*
 <a id="dieu-8-khoan-10"></a>
 10. Chủ sở hữu hoặc chủ quản lý, sử dụng công trình có trách nhiệm xác nhận báo cáo kết quả đánh giá an toàn công trình theo quy định tại điểm đ khoản 1 Điều 41 Nghị định số 207/2026/NĐ-CP.
 
-
 <a id="dieu-9"></a>
 ### Điều 9. Hồ sơ đánh giá an toàn công trình
 
@@ -227,7 +218,6 @@ g) Kết luận và kiến nghị (nếu có)*.*
 <a id="dieu-9-khoan-3"></a>
 3. Trường hợp ứng dụng công nghệ thông tin trong hoạt động đánh giá an toàn công trình thì chủ sở hữu hoặc chủ quản lý, sử dụng công trình và tổ chức đánh giá được quyền thỏa thuận lập hồ sơ đánh giá an toàn công trình theo quy định của pháp luật về giao dịch điện tử và chịu trách nhiệm về nội dung, tính chính xác, trung thực, tuân thủ các quy định về bảo mật và lưu trữ an toàn của các hồ sơ, tài liệu điện tử. Khi có yêu cầu của cơ quan nhà nước có thẩm quyền, các hồ sơ dưới định dạng tập tin điện tử phải được trích xuất, in thành bản giấy và được chủ sở hữu hoặc chủ quản lý, sử dụng công trình xác nhận.
 
-
 <a id="dieu-10"></a>
 ### Điều 10. Điều khoản chuyển tiếp
 
@@ -236,7 +226,6 @@ g) Kết luận và kiến nghị (nếu có)*.*
 
 <a id="dieu-10-khoan-2"></a>
 2. Đối với các công trình còn lại, thời điểm đánh giá an toàn công trình lần đầu và tần suất đánh giá thực hiện theo quy định tại Điều 4 Thông tư này.
-
 
 <a id="dieu-11"></a>
 ### Điều 11. Hiệu lực thi hành
@@ -250,7 +239,6 @@ g) Kết luận và kiến nghị (nếu có)*.*
 <a id="dieu-11-khoan-3"></a>
 3. Bãi bỏ Điều 17 Thông tư số 10/2021/TT-BXD ngày 25 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng hướng dẫn một số điều và biện pháp thi hành Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 và Nghị định số 44/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ.
 
-
 <a id="dieu-12"></a>
 ### Điều 12. Tổ chức thực hiện
 
@@ -259,8 +247,6 @@ g) Kết luận và kiến nghị (nếu có)*.*
 
 <a id="dieu-12-khoan-2"></a>
 2. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, các cá nhân, tổ chức phản ánh kịp thời về Bộ Xây dựng để được xem xét, hướng dẫn./.
-
-
 
 __*
 Nơi nhận:
@@ -286,10 +272,5 @@ Nơi nhận:
 __KT. BỘ TRƯỞNG
 THỨ TRƯỞNG
 
-
-
-
 Phạm Minh Hà__
-
-
 

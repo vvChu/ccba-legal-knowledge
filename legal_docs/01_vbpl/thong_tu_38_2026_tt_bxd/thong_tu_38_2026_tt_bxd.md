@@ -23,7 +23,6 @@ BAN HÀNH ĐỊNH MỨC XÂY DỰNG
 
 *Bộ trưởng Bộ Xây dựng ban hành Thông tư ban hành định mức xây dựng.*
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Ban hành kèm theo Thông tư này các định mức xây dựng sau:
 
@@ -50,7 +49,6 @@ BAN HÀNH ĐỊNH MỨC XÂY DỰNG
 
 <a id="dieu-1-khoan-8"></a>
 8. Định mức chi phí quản lý dự án và tư vấn xây dựng tại Phụ lục VIII.
-
 
 <a id="dieu-2"></a>
 ### Điều 2. Điều khoản thi hành
@@ -85,9 +83,6 @@ Nơi nhận:
 
 __KT. BỘ TRƯỞNG
 THỨ TRƯỞNG
-
-
-
 
 Bùi Xuân Dũng__
 

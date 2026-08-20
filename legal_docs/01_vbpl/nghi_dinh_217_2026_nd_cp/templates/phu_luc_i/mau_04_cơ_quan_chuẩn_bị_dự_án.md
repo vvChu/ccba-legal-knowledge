@@ -26,11 +26,7 @@ V/v thẩm định Báo cáo kinh tế - kỹ thuật *(tên dự án)*
 
 *..., ngày ... tháng ... năm ...*
 
-
-
 Kính gửi: *(Cơ quan/Đơn vị được người quyết định đầu tư giao thẩm định).*
-
-
 
 Căn cứ Luật Xây dựng ngày ... tháng ... năm 2025;
 
@@ -101,8 +97,6 @@ __II. DANH MỤC HỒ SƠ TRÌNH THẨM ĐỊNH__
 - Giấy phép hoạt động xây dựng của nhà thầu tư vấn nước ngoài (nếu có).
 
 *(Cơ quan chuẩn bị dự án)* trình *(Cơ quan/Đơn vị được Người quyết định đầu tư giao thẩm định)* thẩm định Báo cáo kinh tế - kỹ thuật *(tên dự án)* với các nội dung nêu trên.
-
-
 
 __*Nơi nhận:*__
 - Như trên;

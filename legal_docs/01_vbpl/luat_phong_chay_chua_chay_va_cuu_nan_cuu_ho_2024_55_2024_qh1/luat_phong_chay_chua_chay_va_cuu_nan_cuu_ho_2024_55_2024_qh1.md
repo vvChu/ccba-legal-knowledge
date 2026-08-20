@@ -6,30 +6,9 @@ resource: "https://thuvienphapluat.vn/van-ban/Xay-dung-Nha-o/Luat-Phong-chay-chu
 timestamp: "2026-07-26T10:25:14Z"
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 | QUỐC HỘI-------- | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAMĐộc lập - Tự do - Hạnh phúc--------------- |
 | --- | --- |
 | Luật số: 55/2024/QH15 | Hà Nội, ngày 29 tháng 11 năm 2024 |
-
-
-
-
-
 
 LUẬT
 
@@ -46,12 +25,6 @@ Chương I
 QUY ĐỊNH
 CHUNG
 
-
-
-
-
-
-
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
 
@@ -59,12 +32,6 @@ Luật này quy định về
 phòng cháy, chữa cháy, cứu nạn, cứu hộ; lực lượng, phương tiện, bảo đảm điều kiện
 hoạt động và quyền, nghĩa vụ, trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá
 nhân có liên quan trong hoạt động phòng cháy, chữa cháy, cứu nạn, cứu hộ.
-
-
-
-
-
-
 
 <a id="dieu-2"></a>
 ### Điều 2. Giải thích từ ngữ
@@ -211,12 +178,6 @@ cháy và chữa cháy bao gồm mạng lưới trụ sở, doanh trại, công 
 cung cấp nước, hệ thống giao thông và hệ thống thông tin liên lạc phục vụ phòng
 cháy và chữa cháy.
 
-
-
-
-
-
-
 <a id="dieu-3"></a>
 ### Điều 3. Áp dụng pháp luật về phòng cháy, chữa cháy và cứu nạn, cứu hộ
 
@@ -236,12 +197,6 @@ thảm họa, thiên tai, dịch bệnh đã được ban bố tình trạng kh�
 phòng thủ dân sự thì hoạt động cứu nạn, cứu hộ thực hiện theo quy định của pháp
 luật về tình trạng khẩn cấp, pháp luật về phòng thủ dân sự, quy định của Luật
 này và quy định khác của pháp luật có liên quan.
-
-
-
-
-
-
 
 <a id="dieu-4"></a>
 ### Điều 4. Chính sách của Nhà nước về phòng cháy, chữa cháy, cứu nạn, cứu hộ
@@ -283,12 +238,6 @@ Cơ quan, tổ chức, cá nhân tham gia phối hợp, cộng tác, hỗ trợ,
 nhà nước thực hiện công tác phòng cháy, chữa cháy, cứu nạn, cứu hộ được hưởng chế
 độ, chính sách theo quy định của pháp luật căn cứ vào tính chất, mức độ đóng
 góp.
-
-
-
-
-
-
 
 <a id="dieu-5"></a>
 ### Điều 5. Nguyên tắc phòng cháy, chữa cháy, cứu nạn, cứu hộ
@@ -336,12 +285,6 @@ chặn kịp thời và xử lý nghiêm minh theo quy định của pháp luậ
 8. Bảo đảm tính nhân đạo,
 công bằng, bình đẳng giới trong hoạt động phòng cháy, chữa cháy, cứu nạn, cứu hộ.
 
-
-
-
-
-
-
 <a id="dieu-6"></a>
 ### Điều 6. Báo cháy, báo tình huống cứu nạn, cứu hộ
 
@@ -366,12 +309,6 @@ cháy, chữa cháy và cứu nạn, cứu hộ, cơ quan Công an hoặc Ủy b
 nhận được tin báo phải thông tin ngay cho lực lượng Cảnh sát phòng cháy, chữa
 cháy và cứu nạn, cứu hộ có thẩm quyền để giải quyết.
 
-
-
-
-
-
-
 <a id="dieu-7"></a>
 ### Điều 7. Trách nhiệm quản lý nhà nước về phòng cháy, chữa cháy, cứu nạn, cứu hộ
 
@@ -395,12 +332,6 @@ an thực hiện quản lý nhà nước về phòng cháy, chữa cháy, cứu 
 nạn, cứu hộ tại địa phương. Tại huyện nơi không tổ chức đơn vị hành chính cấp
 xã thì Ủy ban nhân dân cấp huyện thực hiện các nhiệm vụ, quyền hạn của Ủy ban
 nhân dân cấp xã quy định tại Luật này.
-
-
-
-
-
-
 
 <a id="dieu-8"></a>
 ### Điều 8. Trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân trong hoạt động phòng
@@ -562,12 +493,6 @@ cháy, cứu nạn, cứu hộ trong phạm vi quản lý.
 Chính phủ quy định chi tiết điểm c và điểm g khoản 3, điểm b khoản 4 và khoản 5
 Điều này.
 
-
-
-
-
-
-
 <a id="dieu-9"></a>
 ### Điều 9. Trách nhiệm tuyên truyền, phổ biến, giáo dục kiến thức, pháp luật về phòng
 cháy, chữa cháy và cứu nạn, cứu hộ
@@ -612,12 +537,6 @@ biến, giáo dục phù hợp với các đối tượng thuộc phạm vi qu�
 trang nhân dân, cơ quan, tổ chức, cơ sở giáo dục có trách nhiệm tuyên truyền,
 phổ biến, giáo dục kiến thức, pháp luật, hướng dẫn kỹ năng về phòng cháy, chữa
 cháy, cứu nạn, cứu hộ cho đối tượng thuộc phạm vi quản lý.
-
-
-
-
-
-
 
 <a id="dieu-10"></a>
 ### Điều 10. Xây dựng, thực tập các phương án chữa cháy, cứu nạn, cứu hộ
@@ -664,12 +583,6 @@ cháy, nổ thuộc phạm vi quản lý.
 6.
 Chính phủ quy định về nội dung, thời gian thực tập phương án chữa cháy, cứu nạn,
 cứu hộ và phương án cứu nạn, cứu hộ.
-
-
-
-
-
-
 
 <a id="dieu-11"></a>
 ### Điều 11. Kiểm tra về phòng cháy, chữa cháy
@@ -719,23 +632,11 @@ về phòng cháy, chữa cháy theo quy định của pháp luật.
 Chính phủ quy định chi tiết khoản 2 và khoản 3 Điều này; quy định trình tự, thủ
 tục kiểm tra về phòng cháy, chữa cháy.
 
-
-
-
-
-
-
 <a id="dieu-12"></a>
 ### Điều 12. Ngày toàn dân phòng cháy, chữa cháy, cứu nạn, cứu hộ
 
 Ngày 04 tháng 10 hằng
 năm là “Ngày toàn dân phòng cháy, chữa cháy, cứu nạn, cứu hộ”.
-
-
-
-
-
-
 
 <a id="dieu-13"></a>
 ### Điều 13. Hợp tác quốc tế về phòng cháy, chữa cháy, cứu nạn, cứu hộ
@@ -791,12 +692,6 @@ quốc tế, thỏa thuận quốc tế hoặc đề xuất cấp có thẩm quy
 tế, thỏa thuận quốc tế về phòng cháy, chữa cháy, cứu nạn, cứu hộ; chủ trì, phối
 hợp với các Bộ, ngành liên quan thực hiện hợp tác quốc tế về phòng cháy, chữa
 cháy, cứu nạn, cứu hộ.
-
-
-
-
-
-
 
 <a id="dieu-14"></a>
 ### Điều 14. Các hành vi bị nghiêm cấm
@@ -863,12 +758,6 @@ Chương II
 
 PHÒNG CHÁY
 
-
-
-
-
-
-
 <a id="dieu-15"></a>
 ### Điều 15. Yêu cầu về phòng cháy, chữa cháy khi lập, điều chỉnh, phê duyệt quy hoạch
 đô thị và nông thôn
@@ -926,12 +815,6 @@ phòng cháy, chữa cháy theo quy định tại các khoản 1, 2 và 3 Điề
 <a id="dieu-15-khoan-5"></a>
 5. Chính phủ quy định chi tiết Điều này.
 
-
-
-
-
-
-
 <a id="dieu-16"></a>
 ### Điều 16. Yêu cầu về phòng cháy, chữa cháy khi lập, điều chỉnh dự án đầu tư xây dựng
 công trình, thiết kế công trình, cải tạo, thay đổi công năng sử dụng công
@@ -980,12 +863,6 @@ phát hiện sự cố rò rỉ chất khí, chất lỏng nguy hiểm về chá
 
 d) Phương tiện, hệ thống
 phòng cháy và chữa cháy.
-
-
-
-
-
-
 
 <a id="dieu-17"></a>
 ### Điều 17. Thẩm định thiết kế về phòng cháy và chữa cháy
@@ -1063,12 +940,6 @@ và chữa cháy của cơ quan Công an, cơ quan chuyên môn về xây dựng
 về phòng cháy và chữa cháy; quy định trách nhiệm phối hợp trong thẩm định thiết
 kế về phòng cháy và chữa cháy.
 
-
-
-
-
-
-
 <a id="dieu-18"></a>
 ### Điều 18. Nghiệm thu, kiểm tra công tác nghiệm thu về phòng cháy và chữa cháy
 
@@ -1144,12 +1015,6 @@ Chính phủ quy định chi tiết khoản 1 Điều này; quy định nội du
 tục, thẩm quyền kiểm tra công tác nghiệm thu về phòng cháy và chữa cháy; quy định
 trách nhiệm phối hợp kiểm tra công tác nghiệm thu về phòng cháy và chữa cháy.
 
-
-
-
-
-
-
 <a id="dieu-19"></a>
 ### Điều 19. Phòng cháy đối với công trình xây dựng trong quá trình thi công
 
@@ -1175,12 +1040,6 @@ lý.
 2. Chủ đầu tư, chủ sở
 hữu công trình, đơn vị thi công công trình xây dựng có trách nhiệm thực hiện,
 duy trì điều kiện an toàn về phòng cháy quy định tại khoản 1 Điều này.
-
-
-
-
-
-
 
 <a id="dieu-20"></a>
 ### Điều 20. Phòng cháy đối với nhà ở
@@ -1238,12 +1097,6 @@ phòng cháy, chữa cháy và cứu nạn, cứu hộ có trách nhiệm hướ
 thiết bị truyền tin báo cháy với hệ thống Cơ sở dữ liệu về phòng cháy, chữa
 cháy, cứu nạn, cứu hộ và truyền tin báo cháy khi có yêu cầu.
 
-
-
-
-
-
-
 <a id="dieu-21"></a>
 ### Điều 21. Phòng cháy đối với nhà ở kết hợp sản xuất, kinh doanh
 
@@ -1277,12 +1130,6 @@ về cháy, nổ;
 
 d) Khu vực sản xuất, kinh doanh hàng hóa
 nguy hiểm về cháy, nổ phải được ngăn cháy với lối thoát nạn của khu vực để ở.
-
-
-
-
-
-
 
 <a id="dieu-22"></a>
 ### Điều 22. Phòng cháy đối với phương tiện giao thông
@@ -1337,12 +1184,6 @@ sở hữu, thuyền trưởng, trưởng tàu, người điều khiển phươn
 trong phạm vi quản lý có trách nhiệm bảo đảm an toàn về phòng cháy và chữa cháy
 trong quá trình hoạt động của phương tiện giao thông.
 
-
-
-
-
-
-
 <a id="dieu-23"></a>
 ### Điều 23. Phòng cháy đối với cơ sở
 
@@ -1391,12 +1232,6 @@ chữa cháy và cứu nạn, cứu hộ chuyên ngành theo quy định của p
 
 d) Thực hiện, duy trì điều kiện an toàn về phòng cháy và chữa
 cháy trong phạm vi quản lý.
-
-
-
-
-
-
 
 <a id="dieu-24"></a>
 ### Điều 24. Phòng cháy trong lắp đặt, sử dụng điện cho sinh hoạt, sản xuất
@@ -1453,12 +1288,6 @@ Chương III
 
 CHỮA CHÁY
 
-
-
-
-
-
-
 <a id="dieu-25"></a>
 ### Điều 25. Trách nhiệm chữa cháy
 
@@ -1509,12 +1338,6 @@ Bộ trưởng Bộ Quốc phòng quy định về trách nhiệm chữa cháy �
 cơ sở, phương tiện giao thông thuộc phạm vi quản lý của Bộ Quốc phòng phục vụ mục
 đích quân sự, quốc phòng; phối hợp với Bộ Công an tổ chức chữa cháy đối với
 công trình lưỡng dụng theo quy định của Chính phủ.
-
-
-
-
-
-
 
 <a id="dieu-26"></a>
 ### Điều 26. Huy động lực lượng, người, phương tiện, tài sản tham gia chữa cháy
@@ -1578,12 +1401,6 @@ Chính phủ quy định thủ tục huy động lực lượng, người, phư�
 chữa cháy; việc huy động lực lượng, người, phương tiện, tài sản của Quân đội để
 tham gia chữa cháy.
 
-
-
-
-
-
-
 <a id="dieu-27"></a>
 ### Điều 27. Nguồn nước chữa cháy
 
@@ -1609,12 +1426,6 @@ ao, hồ, sông, suối, kênh trong đô thị, khu dân cư tập trung bố t
 Chính phủ quy định trách nhiệm đầu tư, quản lý, bảo trì, bảo dưỡng trụ nước chữa
 cháy; đầu tư, quản lý các điểm, bến để xe chữa cháy, máy bơm chữa cháy lấy nước
 phục vụ chữa cháy.
-
-
-
-
-
-
 
 <a id="dieu-28"></a>
 ### Điều 28. Người chỉ huy chữa cháy
@@ -1686,12 +1497,6 @@ c) Quyết định việc di
 chuyển, phá dỡ chướng ngại vật, tài sản để cứu nạn, cứu hộ, ngăn chặn nguy cơ
 cháy lan theo quy định của pháp luật.
 
-
-
-
-
-
-
 <a id="dieu-29"></a>
 ### Điều 29. Khắc phục hậu quả vụ cháy
 
@@ -1715,12 +1520,6 @@ phương tiện giao thông có phương tiện bị cháy, chủ hộ gia đìn
 có trách nhiệm tổ chức thực hiện quy định tại khoản 1 Điều này trong điều kiện,
 khả năng cho phép.
 
-
-
-
-
-
-
 <a id="dieu-30"></a>
 ### Điều 30. Bảo vệ hiện trường, điều tra vụ cháy
 
@@ -1733,12 +1532,6 @@ cháy, điều tra vụ cháy theo quy định của pháp luật.
 2. Cơ quan, tổ chức, hộ
 gia đình, cá nhân nơi xảy ra cháy có trách nhiệm tham gia bảo vệ hiện trường vụ
 cháy, cung cấp thông tin xác thực về vụ cháy cho cơ quan Công an.
-
-
-
-
-
-
 
 <a id="dieu-31"></a>
 ### Điều 31. Chữa cháy trụ sở cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự, cơ
@@ -1762,12 +1555,6 @@ Chương IV
 
 CỨU NẠN, CỨU
 HỘ
-
-
-
-
-
-
 
 <a id="dieu-32"></a>
 ### Điều 32. Tình huống cứu nạn, cứu hộ
@@ -1793,12 +1580,6 @@ cháy, chữa cháy và cứu nạn, cứu hộ chủ trì thực hiện hoạt 
 trong các tình huống quy định tại khoản 1 Điều này; phối hợp thực hiện hoạt động
 cứu nạn, cứu hộ, phòng, chống, khắc phục hậu quả sự cố khác, thảm họa, thiên
 tai, dịch bệnh theo quy định của pháp luật.
-
-
-
-
-
-
 
 <a id="dieu-33"></a>
 ### Điều 33. Trách nhiệm cứu nạn, cứu hộ
@@ -1840,12 +1621,6 @@ Bộ trưởng Bộ Công an quy định về công tác trực sẵn sàng cứ
 cứu nạn, cứu hộ của lực lượng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ
 và các lực lượng khác trong Công an nhân dân.
 
-
-
-
-
-
-
 <a id="dieu-34"></a>
 ### Điều 34. Người chỉ huy cứu nạn, cứu hộ
 
@@ -1869,7 +1644,6 @@ quyền sau đây:
 a) Sử dụng lực lượng,
 phương tiện của cơ quan Công an thuộc phạm vi quản lý tham gia cứu nạn, cứu hộ;
 
-
 b) Huy động theo thẩm quyền
 hoặc đề nghị người có thẩm quyền huy động lực lượng, người, phương tiện, tài sản
 của cơ quan, tổ chức, hộ gia đình, cá nhân tham gia cứu nạn, cứu hộ theo quy định
@@ -1892,12 +1666,6 @@ nạn, cứu hộ thuộc lực lượng Công an nhân dân chưa có mặt t�
 sự cố thì người đứng đầu cơ sở, Trưởng thôn, Tổ trưởng tổ dân phố nơi xảy ra
 tai nạn, sự cố sử dụng lực lượng, người, phương tiện thuộc phạm vi quản lý thực
 hiện cứu nạn, cứu hộ và tham gia hỗ trợ, khắc phục tai nạn, sự cố.
-
-
-
-
-
-
 
 <a id="dieu-35"></a>
 ### Điều 35. Huy động lực lượng, người, phương tiện, tài sản tham gia cứu nạn, cứu hộ
@@ -1960,12 +1728,6 @@ Chương V
 XÂY DỰNG, BỐ TRÍ LỰC LƯỢNG, NHIỆM VỤ CỦA LỰC LƯỢNG PHÒNG CHÁY, CHỮA CHÁY
 VÀ CỨU NẠN, CỨU HỘ
 
-
-
-
-
-
-
 <a id="dieu-36"></a>
 ### Điều 36. Lực lượng phòng cháy, chữa cháy và cứu nạn, cứu hộ
 
@@ -1984,12 +1746,6 @@ chữa cháy và cứu nạn, cứu hộ chuyên ngành.
 <a id="dieu-36-khoan-4"></a>
 4. Lực lượng dân
 phòng.
-
-
-
-
-
-
 
 <a id="dieu-37"></a>
 ### Điều 37. Thành lập, quản lý lực lượng phòng cháy, chữa cháy và cứu nạn, cứu hộ cơ sở,
@@ -2049,12 +1805,6 @@ chuyên ngành; tổ chức, hoạt động và chế độ bảo đảm điều
 lực lượng phòng cháy, chữa cháy và cứu nạn, cứu hộ cơ sở, lực lượng phòng cháy,
 chữa cháy và cứu nạn, cứu hộ chuyên ngành, lực lượng dân phòng.
 
-
-
-
-
-
-
 <a id="dieu-38"></a>
 ### Điều 38. Nhiệm vụ của lực lượng phòng cháy, chữa cháy và cứu nạn, cứu hộ cơ sở, lực
 lượng phòng cháy, chữa cháy và cứu nạn, cứu hộ chuyên ngành và lực lượng dân
@@ -2092,12 +1842,6 @@ phương án;
 c)
 Thực hiện các nhiệm vụ khác theo quy định của pháp luật.
 
-
-
-
-
-
-
 <a id="dieu-39"></a>
 ### Điều 39. Phòng cháy, chữa cháy, cứu nạn, cứu hộ tình nguyện
 
@@ -2126,12 +1870,6 @@ nạn, cứu hộ tình nguyện.
 5. Chính phủ quy định
 chi tiết Điều này.
 
-
-
-
-
-
-
 <a id="dieu-40"></a>
 ### Điều 40. Xây dựng, bố trí lực lượng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ
 
@@ -2152,12 +1890,6 @@ cứu hộ, đáp ứng yêu cầu phát triển kinh tế - xã hội của đ�
 <a id="dieu-40-khoan-3"></a>
 3. Cơ quan, tổ chức và công dân Việt Nam có trách nhiệm tham
 gia xây dựng lực lượng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ.
-
-
-
-
-
-
 
 <a id="dieu-41"></a>
 ### Điều 41. Nhiệm vụ của lực lượng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ
@@ -2238,12 +1970,6 @@ Chương VI
 PHƯƠNG TIỆN
 PHÒNG CHÁY, CHỮA CHÁY, CỨU NẠN, CỨU HỘ
 
-
-
-
-
-
-
 <a id="dieu-42"></a>
 ### Điều 42. Trang bị phương tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ cho lực lượng
 phòng cháy, chữa cháy và cứu nạn, cứu hộ
@@ -2269,12 +1995,6 @@ hộ cho lực lượng dân phòng.
 Bộ trưởng Bộ Công an quy định việc trang bị phương tiện phòng cháy, chữa cháy,
 cứu nạn, cứu hộ quy định tại khoản 2 và khoản 3 Điều này.
 
-
-
-
-
-
-
 <a id="dieu-43"></a>
 ### Điều 43. Quản lý, sử dụng, bảo quản, bảo dưỡng phương tiện phòng cháy, chữa cháy, cứu
 nạn, cứu hộ
@@ -2292,12 +2012,6 @@ bảo dưỡng đối với phương tiện phòng cháy, chữa cháy, cứu n�
 3.
 Bộ trưởng Bộ Công an quy định việc quản lý, bảo quản, bảo dưỡng phương tiện
 phòng cháy, chữa cháy, cứu nạn, cứu hộ.
-
-
-
-
-
-
 
 <a id="dieu-44"></a>
 ### Điều 44. Sản xuất, lắp ráp, nhập khẩu, lưu thông phương tiện phòng cháy, chữa cháy,
@@ -2330,12 +2044,6 @@ Chương VII
 
 BẢO ĐẢM ĐIỀU
 KIỆN CHO HOẠT ĐỘNG PHÒNG CHÁY, CHỮA CHÁY, CỨU NẠN, CỨU HỘ
-
-
-
-
-
-
 
 <a id="dieu-45"></a>
 ### Điều 45. Huấn luyện, bồi dưỡng nghiệp vụ phòng cháy, chữa cháy, cứu nạn, cứu hộ
@@ -2411,12 +2119,6 @@ luyện, bồi dưỡng nghiệp vụ phòng cháy, chữa cháy, cứu nạn, c
 độ, chính sách cho người tham gia huấn luyện, bồi dưỡng nghiệp vụ phòng cháy,
 chữa cháy, cứu nạn, cứu hộ.
 
-
-
-
-
-
-
 <a id="dieu-46"></a>
 ### Điều 46. Chế độ, chính sách đối với người được huy động, người tham gia phòng cháy,
 chữa cháy, cứu nạn, cứu hộ
@@ -2455,12 +2157,6 @@ của pháp luật về ưu đãi người có công với cách mạng.
 <a id="dieu-46-khoan-4"></a>
 4. Chính phủ quy định chi
 tiết khoản 1 và khoản 3 Điều này.
-
-
-
-
-
-
 
 <a id="dieu-47"></a>
 ### Điều 47. Trang phục, phù hiệu, cấp hiệu và chế độ, chính sách đối với lực lượng Cảnh
@@ -2502,12 +2198,6 @@ nhân dân.
 3. Bộ trưởng Bộ
 Công an quy định chi tiết điểm b và điểm c khoản 2 Điều này.
 
-
-
-
-
-
-
 <a id="dieu-48"></a>
 ### Điều 48. Bảo hiểm cháy, nổ bắt buộc
 
@@ -2524,12 +2214,6 @@ quan, tổ chức, cá nhân tham gia bảo hiểm cháy, nổ bắt buộc đ�
 Chính phủ quy định danh mục cơ sở phải mua bảo hiểm cháy, nổ bắt buộc; mức
 trích nộp, chế độ quản lý, sử dụng nguồn thu từ bảo hiểm cháy, nổ bắt buộc cho
 hoạt động phòng cháy, chữa cháy, cứu nạn, cứu hộ.
-
-
-
-
-
-
 
 <a id="dieu-49"></a>
 ### Điều 49. Nguồn tài chính bảo đảm cho hoạt động phòng cháy, chữa cháy, cứu nạn, cứu hộ
@@ -2564,12 +2248,6 @@ của pháp luật có liên quan.
 <a id="dieu-49-khoan-3"></a>
 3. Chính phủ quy định
 chi tiết điểm c và điểm d khoản 1 Điều này.
-
-
-
-
-
-
 
 <a id="dieu-50"></a>
 ### Điều 50. Ngân sách nhà nước bảo đảm cho hoạt động phòng cháy, chữa cháy, cứu nạn, cứu
@@ -2633,12 +2311,6 @@ dưỡng hệ thống, phương tiện phòng cháy, chữa cháy, cứu nạn, 
 7. Chính phủ quy định
 chi tiết Điều này.
 
-
-
-
-
-
-
 <a id="dieu-51"></a>
 ### Điều 51. Khuyến khích đầu tư cho hoạt động phòng cháy, chữa cháy, cứu nạn, cứu hộ
 
@@ -2653,12 +2325,6 @@ cho hoạt động phòng cháy, chữa cháy, cứu nạn, cứu hộ.
 xuất, lắp ráp phương tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ trong nước được
 hưởng các ưu đãi về tín dụng, đất đai, khoa học và công nghệ, nguồn nhân lực
 theo quy định của pháp luật.
-
-
-
-
-
-
 
 <a id="dieu-52"></a>
 ### Điều 52. Hoạt động khoa học và công nghệ, hệ thống Cơ sở dữ liệu về phòng cháy, chữa
@@ -2698,12 +2364,6 @@ Chương VIII
 ĐIỀU KHOẢN
 THI HÀNH
 
-
-
-
-
-
-
 <a id="dieu-53"></a>
 ### Điều 53. Sửa đổi, bổ sung một số điều của các luật có liên quan
 
@@ -2740,12 +2400,6 @@ dựng, phần công trình xây dựng, hạng mục công trình xây dựng, 
 kinh doanh, dịch vụ chưa có văn bản chấp thuận kết quả nghiệm thu về phòng
 cháy, chữa cháy của cơ quan quản lý chuyên ngành mà đã đưa vào hoạt động;”.
 
-
-
-
-
-
-
 <a id="dieu-54"></a>
 ### Điều 54. Hiệu lực thi hành
 
@@ -2772,12 +2426,6 @@ lực từ ngày Luật này có hiệu lực thi hành.
 bị truyền tin báo cháy kết nối với hệ thống Cơ sở dữ liệu về phòng cháy, chữa
 cháy, cứu nạn, cứu hộ và truyền tin báo cháy theo lộ trình quy định tại khoản 5 Điều 20 và điểm c khoản 1 Điều 23 của Luật này được thực
 hiện chậm nhất từ ngày 01 tháng 7 năm 2027.
-
-
-
-
-
-
 
 <a id="dieu-55"></a>
 ### Điều 55. Quy định chuyển tiếp
@@ -2868,23 +2516,6 @@ Luật này được Quốc
 hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 8 thông qua
 ngày 29 tháng 11 năm 2024.
 
-
-
-
-
-
 | E-pas: 114775 | CHỦ TỊCH QUỐC HỘITrần Thanh Mẫn |
 | --- | --- |
-
-
-
-
-
-
-
-
-
-
-
-
 

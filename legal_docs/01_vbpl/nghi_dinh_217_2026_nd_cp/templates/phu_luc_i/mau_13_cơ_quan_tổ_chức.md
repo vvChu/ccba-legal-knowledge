@@ -26,8 +26,6 @@ Số: ...
 
 ...*..., ngày ... tháng ... năm ...*
 
-
-
 __QUYẾT ĐỊNH__
 
 __Phê duyệt thiết kế xây dựng triển khai sau khi dự án được phê duyệt__
@@ -79,8 +77,6 @@ __Điều 1. __Phê duyệt thiết kế xây dựng triển khai sau khi dự �
 __Điều 2. __Tổ chức thực hiện.
 
 __Điều 3. __Tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành quyết định.
-
-
 
 __*Nơi nhận:*__
 - Như Điều 3;

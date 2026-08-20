@@ -23,24 +23,20 @@ HƯỚNG DẪN MỘT SỐ NỘI DUNG, PHƯƠNG PHÁP XÁC ĐỊNH VÀ QUẢN LÝ
 
 *Bộ trưởng Bộ Xây dựng ban hành Thông tư hướng dẫn một số nội dung, phương pháp xác định và quản lý chi phí đầu tư xây dựng.*
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
 
 Thông tư này hướng dẫn một số nội dung, phương pháp xác định và quản lý chi phí đầu tư xây dựng theo quy định tại khoản 2 Điều 32 Nghị định số 206/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ quy định chi tiết về quản lý chi phí đầu tư xây dựng gồm: sơ bộ tổng mức đầu tư xây dựng, tổng mức đầu tư xây dựng, dự toán xây dựng, định mức xây dựng, giá xây dựng, giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng, chỉ số giá xây dựng, chi phí quản lý dự án, chi phí tư vấn xây dựng, chi phí khác.
-
 
 <a id="dieu-2"></a>
 ### Điều 2. Đối tượng áp dụng
 
 Thông tư này áp dụng cho các đối tượng quy định tại Điều 2 Nghị định số 206/2026/NĐ-CP.
 
-
 <a id="dieu-3"></a>
 ### Điều 3. Xác định sơ bộ tổng mức đầu tư xây dựng
 
 Sơ bộ tổng mức đầu tư xây dựng được xác định theo quy định tại khoản 1, khoản 2, khoản 3 Điều 4 Nghị định số 206/2026/NĐ-CP và phương pháp hướng dẫn tại phần I Phụ lục I ban hành kèm theo Thông tư này.
-
 
 <a id="dieu-4"></a>
 ### Điều 4. Xác định tổng mức đầu tư xây dựng
@@ -90,7 +86,6 @@ Chi phí dự phòng cho yếu tố trượt giá được xác định trên c�
 <a id="dieu-4-khoan-7"></a>
 7. Tổng mức đầu tư xây dựng được xác định theo phương pháp hướng dẫn tại phần II Phụ lục I Thông tư này.
 
-
 <a id="dieu-5"></a>
 ### Điều 5. Điều chỉnh tổng mức đầu tư xây dựng
 
@@ -107,7 +102,6 @@ b) Đối với công trình, gói thầu thuộc dự án đã phê duyệt d�
 c) Đối với công trình, gói thầu thuộc dự án chưa phê duyệt dự toán xây dựng và có nội dung điều chỉnh, thay đổi: Chủ đầu tư xác định giá trị điều chỉnh trên cơ sở phạm vi tương ứng trong tổng mức đầu tư xây dựng đã phê duyệt, theo nội dung điều chỉnh, mặt bằng giá, các quy định về quản lý chi phí đầu tư xây dựng tại thời điểm điều chỉnh và tổng hợp vào tổng mức đầu tư xây dựng điều chỉnh. Trường hợp công trình, gói thầu trong tổng mức đầu tư xây dựng đã phê duyệt được xác định bằng suất vốn đầu tư hay dữ liệu chi phí dự án, công trình tương tự thì chủ đầu tư xác định giá trị điều chỉnh trên cơ sở suất vốn đầu tư hoặc dữ liệu chi phí dự án, công trình tương tự tại thời điểm điều chỉnh, tương ứng với nội dung điều chỉnh;
 
 d) Đối với công trình, gói thầu đã quyết toán hợp đồng: Chủ đầu tư tổng hợp giá trị quyết toán hợp đồng vào tổng mức đầu tư xây dựng điều chỉnh.
-
 
 <a id="dieu-6"></a>
 ### Điều 6. Xác định, điều chỉnh dự toán xây dựng công trình
@@ -160,7 +154,6 @@ Chủ đầu tư tổ chức xác định dự toán xây dựng điều chỉnh
 
 Trường hợp các nội dung điều chỉnh dẫn đến hình thành gói thầu mới, chủ đầu tư tổ chức xác định dự toán xây dựng cho hạng mục, phần việc điều chỉnh theo các nội dung điều chỉnh, quy định về quản lý chi phí đầu tư xây dựng tại thời điểm điều chỉnh.
 
-
 <a id="dieu-7"></a>
 ### Điều 7. Xác định, điều chỉnh dự toán gói thầu xây dựng
 
@@ -176,7 +169,6 @@ Trường hợp các nội dung điều chỉnh dẫn đến hình thành gói t
 <a id="dieu-7-khoan-4"></a>
 4. Điều chỉnh dự toán gói thầu thực hiện theo quy định tại khoản 8 Điều 6 Thông tư này.
 
-
 <a id="dieu-8"></a>
 ### Điều 8. Xác định, điều chỉnh dự toán công việc xây dựng
 
@@ -185,7 +177,6 @@ Trường hợp các nội dung điều chỉnh dẫn đến hình thành gói t
 
 <a id="dieu-8-khoan-2"></a>
 2. Dự toán công việc xây dựng được điều chỉnh khi thay đổi về nhiệm vụ, phạm vi, nội dung công việc. Chủ đầu tư xem xét, quyết định việc điều chỉnh dự toán công việc xây dựng.
-
 
 <a id="dieu-9"></a>
 ### Điều 9. Xác định chi phí đầu tư xây dựng đối với dự án, công trình khẩn cấp, cấp bách và dự án đầu tư công đặc biệt
@@ -204,7 +195,6 @@ Trường hợp chưa đủ cơ sở xác định một số khoản mục chi p
 <a id="dieu-9-khoan-4"></a>
 4. Việc thẩm định, phê duyệt và quản lý chi phí đầu tư xây dựng đối với dự án, công trình khẩn cấp, cấp bách và dự án đầu tư công đặc biệt được thực hiện theo các quy định quản lý đầu tư xây dựng các dự án, công trình này tại Nghị định số 217/2026/NĐ-CP quy định chi tiết một số điều của Luật Xây dựng về quản lý hoạt động xây dựng. Cơ quan, tổ chức, cá nhân được giao quản lý thực hiện dự án, công trình tổ chức lập, thẩm định và phê duyệt dự toán xây dựng làm cơ sở để quản lý chi phí, quản lý hợp đồng và thanh toán, quyết toán vốn đầu tư xây dựng.
 
-
 <a id="dieu-10"></a>
 ### Điều 10. Quản lý định mức xây dựng
 
@@ -218,7 +208,6 @@ Trường hợp chưa đủ cơ sở xác định một số khoản mục chi p
 
 <a id="dieu-10-khoan-3"></a>
 3. Định mức nước ngoài quy định tại điểm d khoản 5 Điều 20 Nghị định số 206/2026/NĐ-CP do chủ đầu tư tổ chức thu thập, biên dịch, phân tích, đánh giá và đề xuất các nội dung áp dụng cho dự án theo hướng dẫn của Bộ Xây dựng tại Thông tư số 37/2026/TT-BXD.
-
 
 <a id="dieu-11"></a>
 ### Điều 11. Quản lý giá xây dựng và giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng
@@ -261,7 +250,6 @@ c) Thời điểm công bố giá ca máy và thiết bị thi công theo năm l
 
 Sở Xây dựng tổ chức tiếp nhận thông tin về giá qua trang thông tin điện tử hoặc phần mềm ứng dụng để thuận tiện cho việc tổng hợp, xử lý thông tin phục vụ công bố giá kịp thời và thuận lợi cho việc liên thông với hệ thống thông tin, dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng.
 
-
 <a id="dieu-12"></a>
 ### Điều 12. Xác định giá xây dựng công trình
 
@@ -276,7 +264,6 @@ Sở Xây dựng tổ chức tiếp nhận thông tin về giá qua trang thông
 
 <a id="dieu-12-khoan-4"></a>
 4. Chủ đầu tư gửi hồ sơ kết quả xác định giá nhân công xây dựng, giá ca máy và thiết bị thi công tại khoản 3 Điều này về Sở Xây dựng để theo dõi, quản lý. Trong quá trình xác định giá nhân công xây dựng, giá ca máy và thiết bị thi công, Sở Xây dựng căn cứ phương pháp của Bộ Xây dựng để hướng dẫn khi chủ đầu tư có yêu cầu.
-
 
 <a id="dieu-13"></a>
 ### Điều 13. Chỉ số giá xây dựng
@@ -294,7 +281,6 @@ b) Trường hợp cần công bố chỉ số giá xây dựng theo tháng, cơ
 <a id="dieu-13-khoan-3"></a>
 3. Căn cứ danh mục công trình, phương pháp xác định chỉ số giá xây dựng quy định tại Thông tư số 37/2026/TT-BXD, Sở Xây dựng tổ chức xác định chỉ số giá xây dựng làm cơ sở để công bố theo quy định tại điểm b khoản 3 Điều 23 và điểm c, điểm đ khoản 3 Điều 24 Nghị định số 206/2026/NĐ-CP.
 
-
 <a id="dieu-14"></a>
 ### Điều 14. Xác định chi phí tư vấn xây dựng
 
@@ -310,7 +296,6 @@ c) Chi phí khảo sát xây dựng, thí nghiệm chuyên ngành xây dựng x�
 <a id="dieu-14-khoan-2"></a>
 2. Chi phí thuê tư vấn nước ngoài theo quy định tại Điều 27 Nghị định số 206/2026/NĐ-CP xác định theo hướng dẫn tại phần III Phụ lục VI Thông tư này.
 
-
 <a id="dieu-15"></a>
 ### Điều 15. Kiểm tra việc quản lý chi phí đầu tư xây dựng
 
@@ -325,7 +310,6 @@ c) Việc quản lý, sử dụng chi phí dự phòng;
 
 <a id="dieu-15-khoan-2"></a>
 2. Chi phí công tác kiểm tra của người quyết định đầu tư thuộc chi phí khác trong tổng mức đầu tư xây dựng quy định tại khoản 5 Điều 4 Thông tư này, do chủ đầu tư tổ chức lập, phê duyệt và thanh toán khi kết thúc kiểm tra.
-
 
 <a id="dieu-16"></a>
 ### Điều 16. Hiệu lực thi hành
@@ -360,9 +344,6 @@ Nơi nhận:
 
 __KT. BỘ TRƯỞNG
 THỨ TRƯỞNG
-
-
-
 
 Bùi Xuân Dũng__
 
@@ -513,7 +494,6 @@ Chi phí dự phòng  bao gồm chi phí dự phòng cho khối lượng, công 
 | __VSB__ | __NGƯỜI LẬP | __*(Ký, họ tên)* | __NGƯỜI CHỦ TRÌ |
 | __*(Ký, họ tên)* |  |  |  |
 
-
 ### 3 Sơ bộ tổng mức đầu tư dự án thành phần
 
 Trường hợp dự án được cấp có thẩm quyền quyết định việc phân tách dự án thành dự án thành phần; dự án thành phần độc lập; dự án bồi thường, hỗ trợ, tái định cư, giải phóng mặt bằng độc lập khi quyết định hoặc chấp thuận chủ trương đầu tư thì:
@@ -613,7 +593,6 @@ GTB: Chi phí thiết bị;
 GTBCT: Chi phí thiết bị công trình;
 
 GTBCN: Chi phí thiết bị công nghệ;
-
 
 <a id="muc-3-1"></a>
 ### 3.1 Chi phí thiết bị công trình được xác định theo quy định tại tiết 3.1.1, tiết 3.1.2, tiết 3.1.3 phần II Phụ lục này. Việc lựa chọn phương pháp xác định được thuyết minh trong hồ sơ xác định tổng mức đầu tư, bảo đảm phù hợp với mức độ chi tiết của hồ sơ thiết kế, tương ứng với phạm vi, nội dung của thiết kế, nội dung thuyết minh của dự án và các yêu cầu thực tế triển khai của dự án.
@@ -771,7 +750,6 @@ Tổng hợp tổng mức đầu tư xây dựng của dự án trong trường 
 | Chi phí dự phòng cho yếu tố trượt giá | __TỔNG CỘNG ( 1\+2\+3\+4\+5\+6)__ | __GXDCT__ | __NGƯỜI LẬP |
 | __*(Ký, họ tên)* | __NGƯỜI CHỦ TRÌ | __*(Ký, họ tên)* |  |
 
-
 ### 1 Xác định chi phí xây dựng (GXD)
 
 Chi phí xây dựng được xác định theo Phụ lục III Thông tư này.
@@ -836,8 +814,6 @@ Trong đó:
 | Chi phí mua sắm thiết bị chưa có* *thuế giá trị gia tăng (tỷ đồng)* |
 | __< 10.000__ |
 
-
-
 <a id="muc-10-000"></a>
 ### 10.000 ÷ ≤ ### 20.00 0
 
@@ -891,7 +867,6 @@ Chi phí tư vấn xây dựng được xác định theo công thức sau:
 | Chi phí tư vấn khác có liên quan đến công trình (nếu có) | GTVK | __TỔNG CỘNG__ | __GTV__ |
 | __NGƯỜI LẬP | __*(Ký, họ tên)* | __NGƯỜI CHỦ TRÌ | __*(Ký, họ tên)* |
 
-
 ### 5 Xác định chi phí khác (GK)
 
 Chi phí khác được xác định theo công thức sau:
@@ -919,7 +894,6 @@ Chi phí khác được xác định theo công thức sau:
 | Chi phí kiểm tra công tác nghiệm thu | ... | ... | ... |
 | Các loại chi phí khác có liên quan | __TỔNG CỘNG__ | __GK__ | __NGƯỜI LẬP |
 | __*(Ký, họ tên)* | __NGƯỜI CHỦ TRÌ | __*(Ký, họ tên)* |  |
-
 
 ### 6 Xác định chi phí dự phòng (GDP)
 
@@ -1060,7 +1034,6 @@ Trong đó:
 | __TỔNG CỘNG ( 1\+2\+3\+4\+5)__ | __GGT__ | __NGƯỜI LẬP | __*(Ký, họ tên)* |
 | __NGƯỜI CHỦ TRÌ | __*(Ký, họ tên)* | __MỤC 3__ | __PHƯƠNG PHÁP XÁC ĐỊNH DỰ TOÁN CÔNG VIỆC XÂY DỰNG__ |
 
-
 ### 1  Dự toán công việc xây dựng là toàn bộ chi phí dự tính trước để thực hiện công việc trong hoạt động xây dựng của dự án quy định tại khoản 4 Điều 76 Luật Xây dựng số 135/2025/QH15 và được xác định theo quy định tại Điều 14 Nghị định số 206/2026/NĐ-CP.
 
 ### 2  Dự toán công việc xây dựng gồm các khoản chi phí: chi phí trực tiếp thực hiện công việc xây dựng, chi phí khác, thu nhập chịu thuế tính trước; thuế và chi phí dự phòng.
@@ -1098,7 +1071,6 @@ Các khoản chi phí khác bao gồm chi phí người sử dụng lao động 
 | __CCVXD__ | __NGƯỜI LẬP | __*(Ký, họ tên)* | __NGƯỜI CHỦ TRÌ |
 | __*(Ký, họ tên)* | __PHỤ LỤC III__ | PHƯƠNG PHÁP XÁC ĐỊNH CHI PHÍ XÂY DỰNG | (Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)* |
 
-
 ### 1  Chi phí xây dựng trong dự toán xây dựng công trình được xác định cho công trình, hạng mục công trình của dự án; công trình, hạng mục công trình xây dựng tạm, phụ trợ phục vụ thi công; phá dỡ các công trình xây dựng không thuộc phạm vi của công tác phá dỡ giải phóng mặt bằng (nếu có).
 
 Các khoản mục chi phí của dự toán chi phí xây dựng gồm chi phí trực tiếp, chi phí gián tiếp, thu nhập chịu thuế tính trước, thuế giá trị gia tăng, chi phí nhà tạm để ở và điều hành thi công.### Bảng 3.1 - TỔNG HỢP CHI PHÍ XÂY DỰNG
@@ -1112,7 +1084,6 @@ Các khoản mục chi phí của dự toán chi phí xây dựng gồm chi phí
 | …..* | 3 | Chi phí nhà tạm để ở và điều hành thi công | 4 |
 | Chi phí phá dỡ (nếu có) | __NGƯỜI LẬP | __*(Ký, họ tên)* | __NGƯỜI CHỦ TRÌ |
 | __*(Ký, họ tên)* |  |  |  |
-
 
 ### 2 Chi phí trực tiếp:
 
@@ -1182,7 +1153,6 @@ __*3.1. Chi phí chung:*__
 | 3.2.2. Chi phí một số công việc không xác định được khối lượng từ thiết kế được xác định bằng định mức tỷ lệ phần trăm (%) tại Bảng 3.5 nêu trên chưa bao gồm các chi phí trong các trường hợp sau: | a) Đối với công trình có chi phí trực tiếp trong dự toán xây dựng dưới 45 (tỷ đồng), thì định mức chi phí một số công việc không xác định được khối lượng từ thiết kế quy định tại Bảng 3.5 nêu trên chưa bao gồm chi phí văn phòng phòng thí nghiệm tại hiện trường. | b) Riêng chi phí một số công việc thuộc chi phí gián tiếp của các công tác xây dựng trong hầm giao thông, hầm thủy điện, hầm lò đã bao gồm chi phí vận hành, chi phí sửa chữa thường xuyên hệ thống cấp nước, thoát nước, cấp gió (nhưng không bao gồm chi phí vận hành, chi phí sửa chữa thường xuyên hệ thống cấp gió cục bộ của các công tác thi công trong mỏ than hầm lò), cấp điện phục vụ thi công trong hầm và không bao gồm chi phí đầu tư ban đầu cho hệ thống thông gió, chiếu sáng, hệ thống điện, cấp thoát nước, giao thông phục vụ thi công trong hầm. | c) Đối với công trình xây dựng thủy điện, thủy lợi thì định mức tỷ lệ trên không bao gồm các chi phí: | - Chi phí đầu tư ban đầu hệ thống nước kỹ thuật để thi công công trình; | - Chi phí đầu tư ban đầu cho công tác bơm nước, vét bùn, bơm thoát nước hố móng ngay sau khi ngăn sông, chống lũ, hệ thống điện phục vụ thi công; | - Chi phí bơm thoát nước hố móng ngay sau khi ngăn sông, chống lũ; |
 | - Chi phí thí nghiệm tăng thêm của thí nghiệm thi công bê tông đầm lăn (RCC). | 3.2.3. Trường hợp cần thiết bổ sung các chi phí chưa được tính tại tiết 3.2.2 nêu trên, thì các chi phí này được tính vào chi phí xây dựng công trình tạm, phụ trợ thi công của dự toán xây dựng công trình. |  |  |  |  |  |
 
-
 ### 4 Thu nhập chịu thuế tính trước
 
 Thu nhập chịu thuế tính trước được tính bằng định mức tỷ lệ phần trăm (%) tại Bảng 3.6 Phụ lục này nhân chi phí trực tiếp và chi phí gián tiếp.### Bảng 3.6 - ĐỊNH MỨC THU NHẬP CHỊU THUẾ TÍNH TRƯỚC
@@ -1195,7 +1165,6 @@ Thu nhập chịu thuế tính trước được tính bằng định mức tỷ
 | 5 | Công trình hạ tầng kỹ thuật | 5,5 | 6 |
 | Dự toán lắp đặt thiết bị công nghệ trong các công trình xây dựng; xây lắp đường dây tải điện và trạm biến áp; thí nghiệm hiệu chỉnh điện đường dây và trạm biến áp. | 6,0 | Trường hợp nhà thầu thi công xây dựng công trình phải tự tổ chức khai thác và sản xuất các loại vật liệu đất, đá, cát sỏi để phục vụ thi công xây dựng công trình thì thu nhập chịu thuế tính trước trong dự toán chi phí khai thác và sản xuất vật liệu xác định bằng tỷ lệ 3% trên chi phí trực tiếp và chi phí gián tiếp. | Đối với công trình thuộc dự án đầu tư xây dựng phục vụ quốc phòng, an ninh thì tùy theo loại công trình tương ứng để áp dụng quy định Bảng 3.6 Phụ lục này cho phù hợp. |
 
-
 ### 5 Chi phí nhà tạm để ở và điều hành thi công
 
 Chi phí nhà tạm để ở và điều hành thi công được xác định bằng định mức tỷ lệ phần trăm (%) theo quy định hoặc lập dự toán, trong đó:
@@ -1206,7 +1175,6 @@ Chi phí nhà tạm để ở và điều hành thi công được xác định 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Công trình xây dựng theo tuyến | 2,2 | 2,0 | 1,9 | 1,8 | 1,7 | 2 | Công trình xây dựng còn lại | 1,1 | 1,0 | 0,95 | 0,9 | 0,85 | - Đối với dự án được phân chia thành các dự án thành phần, dự án thành phần độc lập thì định mức tỷ lệ phần trăm (%) chi phí nhà tạm để ở và điều hành thi công được xác định theo chi phí xây dựng trước thuế trong tổng mức đầu tư của dự án thành phần, dự án thành phần độc lập được duyệt hướng dẫn tại Bảng 3.7 Phụ lục này. | - Đối với các trường hợp đặc biệt khác (như công trình có quy mô lớn, phức tạp, các công trình trên biển, ngoài hải đảo,…) nếu khoản mục chi phí nhà tạm tại hiện trường để ở và điều hành thi công tính theo tỷ lệ phần trăm (%) Bảng 3.7 không phù hợp thì chủ đầu tư căn cứ điều kiện thực tế tổ chức xây dựng phương án nhà tạm để ở và điều hành thi công, lập và phê duyệt dự toán chi phí này. |
 | 5.2. Dự toán chi phí nhà tạm để ở và điều hành thi công lập theo thiết kế xây dựng được xác định như dự toán chi phí xây dựng (không tính chi phí nhà tạm để ở và điều hành thi công). Định mức tỷ lệ chi phí chung, chi phí một số công việc không xác định được khối lượng từ thiết kế, thu nhập chịu thuế tính trước áp dụng theo loại công trình dân dụng. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
 
 ### 6 Tổng hợp dự toán chi phí xây dựng
 
@@ -1252,7 +1220,6 @@ Chi phí nhà tạm để ở và điều hành thi công được xác định 
 | e) GXD: chi phí xây dựng sau thuế; | g) LT: chi phí nhà tạm để ở và điều hành thi công xác định theo hướng dẫn tại khoản 5 Phụ lục này. | __PHỤ LỤC IV__ | PHƯƠNG PHÁP XÁC ĐỊNH GIÁ CÔNG TÁC XÂY DỰNG VÀ GIÁ NHÓM CÔNG TÁC XÂY DỰNG |
 | (Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026* *của Bộ trưởng Bộ Xây dựng)* |  |  |  |
 
-
 ### 1 Quy định chung
 
 1.1. Giá công tác xây dựng được xác định cho công tác xây dựng trên cơ sở định mức dự toán công tác xây dựng, giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng (gồm giá vật liệu xây dựng, giá nhân công xây dựng, giá ca máy và thiết bị thi công) và các yếu tố chi phí cần thiết khác hoặc được xác định trên cơ sở báo giá của đơn vị thi công, nhà sản xuất, nhà cung cấp hoặc theo giá tương tự ở các công trình đã thực hiện hoặc đang thực hiện.
@@ -1265,7 +1232,6 @@ Chi phí nhà tạm để ở và điều hành thi công được xác định 
 
 ### 2 Phương pháp xác định giá công tác xây dựng
 
-
 <a id="muc-2-1"></a>
 ### 2.1 Cơ sở xác định giá công tác xây dựng
 
@@ -1276,7 +1242,6 @@ Chi phí nhà tạm để ở và điều hành thi công được xác định 
 - Giá nhân công xây dựng của công trình;
 
 - Giá ca máy và thiết bị thi công của công trình (hoặc giá thuê máy và thiết bị thi công).
-
 
 <a id="muc-2-2"></a>
 ### 2.2 Xác định các thành phần chi phí trong giá công tác xây dựng
@@ -1335,7 +1300,6 @@ Bảng tính giá vật liệu đến hiện trường công trình được t�
 | __MTC__ | M.1 | ca | M.2 | ca | ... |
 | __*Cộng*__ | Công tác xây dựng 2* | __DG.2__ | __*...*__ | Ghi chú: *Đối với các giá công tác xây dựng xác định trên cơ sở định mức dự toán xây dựng trong hệ thống định mức xây dựng do cơ quan có thẩm quyền ban hành, thì mã hiệu đơn giá được thể hiện phải đảm bảo đồng bộ, thống nhất với mã hiệu định mức trong hệ thống định mức xây dựng được ban hành. |  |
 
-
 ### 3 Phương pháp xác định giá nhóm công tác xây dựng
 
 __*3.1. Cơ sở xác định giá nhóm công tác xây dựng*__
@@ -1373,8 +1337,6 @@ Trường hợp các công tác xây dựng có đơn vị khối lượng khác
 | __*(Kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)* | __I. XÁC ĐỊNH DỰ TOÁN CHI PHÍ KHẢO SÁT XÂY DỰNG__ | Dự toán chi phí khảo sát xây dựng xác định theo công thức sau: | Gks = \[(T \+ GT \+ TL) \+ Cpvks\] x (1 \+ TGTGT) \+ LT \+ Cdp          (5.1) | Trong đó: | - Gks: dự toán chi phí khảo sát xây dựng; | - T: chi phí trực tiếp; | - GT: chi phí gián tiếp; |
 | - TL: thu nhập chịu thuế tính trước; | - Cpvks: chi phí phục vụ công tác khảo sát xây dựng; | - TGTGT: thuế suất thuế GTGT quy định cho công tác khảo sát xây dựng; | - LT: chi phí nhà tạm để ở và điều hành thi công; | - Cdp: chi phí dự phòng. |  |  |  |
 
-
-
 <a id="muc-1-1"></a>
 ### 1.1 Chi phí trực tiếp (T)
 
@@ -1408,13 +1370,10 @@ a) Chi phí chung (chi phí quản lý của doanh nghiệp, chi phí điều h�
 | 4,5 | 3 |
 | - Trường hợp chi phí không xác định được khối lượng từ thiết kế xác định theo tỷ lệ phần trăm (%) nêu trên không đủ chi phí thì lập dự toán cụ thể đối với khoản chi phí này. |  |
 
-
-
 <a id="muc-1-3"></a>
 ### 1.3 Thu nhập chịu thuế tính trước (TL)
 
 Thu nhập chịu thuế tính trước (TL) được xác định bằng 6% trên tổng chi phí trực tiếp (T) và chi phí gián tiếp (GT).
-
 
 <a id="muc-1-4"></a>
 ### 1.4 Chi phí phục vụ công tác khảo sát xây dựng (Cpvks)
@@ -1432,13 +1391,10 @@ Trong đó:
 | 2 | 1,5 | Lập báo cáo kết quả khảo sát xây dựng (%) | 3 |
 | 2,5 | - Ckpvks: chi phí khác phục vụ khảo sát có thể bao gồm chi phí di chuyển máy và thiết bị khảo sát; chi phí đảm bảo an toàn giao thông và chi phí bảo hiểm trách nhiệm nghề nghiệp. Các chi phí này được xác định bằng cách lập dự toán. Tùy theo loại công tác khảo sát, khối lượng công tác khảo sát, phương án khảo sát để dự tính các chi phí này trong dự toán cho phù hợp. |  |  |
 
-
-
 <a id="muc-1-5"></a>
 ### 1.5 Thuế giá trị gia tăng (GTGT)
 
 Thuế giá trị gia tăng được xác định theo quy định đối với công tác khảo sát xây dựng.
-
 
 <a id="muc-1-6"></a>
 ### 1.6 Chi phí nhà tạm để ở và điều hành thi công
@@ -1446,7 +1402,6 @@ Thuế giá trị gia tăng được xác định theo quy định đối với 
 - Tùy theo loại công tác khảo sát, khối lượng công tác khảo sát, điều kiện thực tế của công tác khảo sát và loại công trình, chi phí nhà tạm để ở và điều hành thi công được xác định bằng 2% trên tổng chi phí trực tiếp, chi phí gián tiếp, thu nhập chịu thuế tính trước, chi phí phục vụ công tác khảo sát và thuế giá trị gia tăng.
 
 - Trường hợp chi phí nhà tạm để ở và điều hành thi công xác định theo tỷ lệ phần trăm (%) nêu trên không đủ chi phí thì lập dự toán cụ thể đối với khoản chi phí này.
-
 
 <a id="muc-1-7"></a>
 ### 1.7 Chi phí dự phòng (Cdp)
@@ -1582,7 +1537,6 @@ Dự toán chi phí khảo sát xây dựng được tổng hợp theo### Bảng
 | __ĐƠN VỊ THẨM TRA | -------__ | __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM | Độc lập - Tự do - Hạnh phúc |
 | ---------------__ | (Số hiệu văn bản) | ..., ngày... tháng... năm...* | __BÁO CÁO KẾT QUẢ THẨM TRA TỔNG MỨC ĐẦU TƯ XÂY DỰNG__ |
 | Dự án:....................................................................................................... | Kính gửi: *(Cơ quan chuẩn bị dự án)* | Thực hiện theo Hợp đồng tư vấn thẩm tra *(số hiệu hợp đồng) *giữa *(cơ quan chuẩn bị dự án) *và *(nhà thầu thẩm tra tổng mức đầu tư xây dựng) *về việc thẩm tra tổng mức đầu tư xây dựng (*tên dự án*). Sau khi xem xét, *(nhà thầu thẩm tra tổng mức đầu tư xây dựng) *báo cáo kết quả thẩm tra như sau: |  |
-
 
 ### 1 Khái quát về dự án
 
@@ -2670,7 +2624,6 @@ __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu)*
 
 <a id="dieu-16-khoan-1"></a>
 1. \[1\] Loại công trình được phân loại theo quy định của Nghị định quy định chi tiết một số điều của Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng. [↑](#footnote-ref-2)
-
 
 <a id="dieu-16-khoan-2"></a>
 2. \[2\] Loại công trình được phân loại theo quy định của Nghị định quy định chi tiết một số điều của Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng. [↑](#footnote-ref-3)

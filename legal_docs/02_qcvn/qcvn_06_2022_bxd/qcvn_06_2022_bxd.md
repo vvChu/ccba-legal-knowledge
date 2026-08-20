@@ -706,10 +706,7 @@ _CHÚ THÍCH: Cấp nguy hiểm cháy của vật liệu xây dựng là chỉ t
 
 _CHÚ THÍCH:_
 - **CHÚ THÍCH 1:** Giới hạn chịu lửa của cấu kiện xây dựng được xác định bằng thử nghiệm chịu lửa theo TCVN 9311-1 đến TCVN 9311-8 hoặc các tiêu chuẩn tương đương hoặc bằng tính toán theo tiêu chuẩn thiết kế chịu lửa được áp dụng.
-
-- Giới hạn chịu lửa của các ống dẫn khói, không khí được xác định theo tiêu chuẩn ISO 6944 hoặc các tiêu chuẩn tương đương.
-
-_CHÚ THÍCH:_
+  - Giới hạn chịu lửa của các ống dẫn khói, không khí được xác định theo tiêu chuẩn ISO 6944 hoặc các tiêu chuẩn tương đương.
 - **CHÚ THÍCH 2:** Giới hạn chịu lửa yêu cầu của các cấu kiện xây dựng cụ thể được quy định trong quy chuẩn này và trong các quy chuẩn kỹ thuật cho từng loại công trình. Giới hạn chịu lửa yêu cầu của cấu kiện xây dựng được ký hiệu bằng REI, REW, EI, EW, EIW, RE hoặc R kèm theo các chỉ số tương ứng về thời gian chịu tác động của lửa tính bằng phút. Ví dụ: cấu kiện có giới hạn chịu lửa yêu cầu là REI 120 nghĩa là cấu kiện phải duy trì được đồng thời cả ba khả năng: chịu lực, toàn vẹn và cách nhiệt trong khoảng thời gian chịu tác động của lửa là 120 phút. Cấu kiện có giới hạn chịu lửa yêu cầu là R 60, thì cấu kiện chỉ phải duy trì khả năng chịu lực trong thời gian 60 phút, không yêu cầu về khả năng cách nhiệt và tính toàn vẹn.
 
 - **CHÚ THÍCH 3:** Một cấu kiện xây dựng được cho là bảo đảm yêu cầu về giới hạn chịu lửa nếu thoả mãn một trong các điều kiện sau:
@@ -726,29 +723,20 @@ c) Cấu kiện có cấu tạo với đặc điểm kỹ thuật phù hợp v�
 <a id="muc-2-2-3-1"></a>
 ### 2.2.3.1  Theo tính nguy hiểm cháy, cấu kiện xây dựng được phân thành 4 cấp:
 
-K0 (không nguy hiểm cháy);
-
-K1 (ít nguy hiểm cháy);
-
-K2 (nguy hiểm cháy vừa phải),
-
-K3 (nguy hiểm cháy).
+- K0 (không nguy hiểm cháy);
+- K1 (ít nguy hiểm cháy);
+- K2 (nguy hiểm cháy vừa phải);
+- K3 (nguy hiểm cháy).
 
 <a id="muc-2-2-3-2"></a>
 ### 2.2.3.2  Giá trị các tiêu chí để xếp cấu kiện xây dựng vào một cấp nguy hiểm cháy nhất định được xác định phù hợp với các phương pháp nêu trong các tiêu chuẩn quốc gia (hoặc tương đương) về thử nghiệm an toàn cháy.
 
 _CHÚ THÍCH:_
 - **CHÚ THÍCH 1:** Cho phép xếp cấu kiện xây dựng vào cấp nguy hiểm cháy mà không cần thử nghiệm như sau:
-
-a) Cấp K0 - nếu cấu kiện được chế tạo chỉ từ vật liệu không cháy;
-
-b) Cấp K1 - nếu bề mặt ngoài của cấu kiện được cấu tạo từ vật liệu có đồng thời các chỉ tiêu kỹ thuật về cháy không nguy hiểm hơn Ch1, BC1, SK1;
-
-c) Cấp K2 - nếu bề mặt ngoài của cấu kiện được cấu tạo từ vật liệu có đồng thời các chỉ tiêu kỹ thuật về cháy không nguy hiểm hơn Ch2, BC2, SK2;
-
-d) Cấp K3 - nếu bề mặt ngoài của cấu kiện được cấu tạo chỉ từ các vật liệu có một trong các chỉ tiêu kỹ thuật về cháy là Ch3, BC3, SK3
-
-_CHÚ THÍCH:_
+  - a) Cấp K0 - nếu cấu kiện được chế tạo chỉ từ vật liệu không cháy;
+  - b) Cấp K1 - nếu bề mặt ngoài của cấu kiện được cấu tạo từ vật liệu có đồng thời các chỉ tiêu kỹ thuật về cháy không nguy hiểm hơn Ch1, BC1, SK1;
+  - c) Cấp K2 - nếu bề mặt ngoài của cấu kiện được cấu tạo từ vật liệu có đồng thời các chỉ tiêu kỹ thuật về cháy không nguy hiểm hơn Ch2, BC2, SK2;
+  - d) Cấp K3 - nếu bề mặt ngoài của cấu kiện được cấu tạo chỉ từ các vật liệu có một trong các chỉ tiêu kỹ thuật về cháy là Ch3, BC3, SK3
 - **CHÚ THÍCH 2:** Cấu kiện tường kính bao che (facad) được coi là cấu kiện có cấp nguy hiểm cháy K0, nếu các bộ phận của nó (bao gồm cả bộ phận liên kết với nhà) được làm từ vật liệu không cháy. Cho phép không xét đến các mạch chèn bịt và lớp phủ mặt ngoài có chiều dày nhỏ hơn 0,3 mm (nếu có)
 
 <a id="muc-2-3"></a>

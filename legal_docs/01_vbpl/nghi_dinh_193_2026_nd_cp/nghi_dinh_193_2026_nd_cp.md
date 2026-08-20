@@ -43,7 +43,6 @@ __Chương I __
 
 __QUY ĐỊNH CHUNG__
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
 
@@ -66,12 +65,10 @@ Dự án thực hiện theo hình thức sử dụng vốn để hỗ trợ bằ
 <a id="dieu-1-khoan-5"></a>
 5. Dự án thuộc danh mục bí mật nhà nước theo quy định của pháp luật bảo vệ bí mật nhà nước do Bộ Quốc phòng, Bộ Công an thực hiện và Dự án đầu tư của các cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài: Bộ trưởng Bộ Quốc phòng, Bộ trưởng Bộ Công an, Bộ trưởng Bộ Ngoại giao quy định việc lập báo cáo quyết toán, thẩm tra, phê duyệt quyết toán vốn đầu tư phù hợp với yêu cầu đặc thù quản lý ngành và chịu trách nhiệm về quy định của mình.
 
-
 <a id="dieu-2"></a>
 ### Điều 2. Đối tượng áp dụng
 
 Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân có liên quan đến quyết toán vốn đầu tư dự án thuộc phạm vi điều chỉnh tại Điều 1 Nghị định này sau khi hoàn thành hoặc dừng thực hiện.
-
 
 <a id="dieu-3"></a>
 ### Điều 3. Giải thích từ ngữ
@@ -86,12 +83,10 @@ __Chương II __
 
 __QUY ĐỊNH CỤ THỂ__
 
-
 <a id="dieu-4"></a>
 ### Điều 4. Vốn đầu tư được quyết toán
 
 Vốn đầu tư được quyết toán là toàn bộ chi phí hợp pháp đã thực hiện (bao gồm cả các chi phí thanh toán hợp đồng bảo hiểm, phí, lệ phí, chi phí thẩm tra, phê duyệt quyết toán) trong quá trình đầu tư để đưa dự án vào khai thác, sử dụng hoặc dừng thực hiện theo văn bản cho phép dừng thực hiện của người có thẩm quyền quyết định đầu tư. Chi phí đầu tư được quyết toán phải nằm trong giới hạn tổng mức đầu tư được duyệt hoặc được điều chỉnh, bổ sung theo quy định của pháp luật.
-
 
 <a id="dieu-5"></a>
 ### Điều 5. Quyết toán vốn đầu tư dự án thành phần, tiểu dự án, công trình, hạng mục công trình độc lập
@@ -132,7 +127,6 @@ Người có thẩm quyền phê duyệt quyết toán chi phí bồi thường,
 <a id="dieu-5-khoan-6"></a>
 6. Các nội dung liên quan đến lập báo cáo quyết toán, thẩm tra, phê duyệt quyết toán vốn đầu tư thực hiện theo quy định tại Nghị định này.
 
-
 <a id="dieu-6"></a>
 ### Điều 6. Báo cáo quyết toán
 
@@ -151,7 +145,6 @@ d) Chi phí được phép không tính vào giá trị tài sản.
 
 <a id="dieu-6-khoan-2"></a>
 2. Bộ trưởng Bộ Tài chính ban hành hệ thống mẫu biểu sử dụng trong công tác quyết toán vốn đầu tư dự án và hướng dẫn các nội dung liên quan.
-
 
 <a id="dieu-7"></a>
 ### Điều 7. Hồ sơ trình thẩm tra phê duyệt quyết toán
@@ -203,7 +196,6 @@ Người có thẩm quyền quyết định phê duyệt dự án ban hành văn
 <a id="dieu-7-khoan-5"></a>
 5. Trường hợp nhà thầu không thực hiện quyết toán hợp đồng theo quy định, căn cứ hợp đồng chủ đầu tư có văn bản (theo Mẫu số 02/QTDA ban hành kèm theo Nghị định này) đề nghị nhà thầu thực hiện quyết toán hợp đồng hoặc bổ sung hoàn thiện hồ sơ, tài liệu quyết toán hợp đồng hoặc hoàn thành các nội dung công việc để quyết toán hợp đồng kèm theo thời hạn thực hiện. Sau khi chủ đầu tư đã gửi văn bản lần thứ 03 (mỗi văn bản cách nhau tối thiểu 10 ngày) đến nhà thầu và sau thời gian 15 ngày kể từ khi gửi văn bản lần thứ 03 nhưng nhà thầu vẫn không thực hiện các nội dung theo đề nghị, chủ đầu tư được căn cứ hồ sơ thực tế đã thực hiện (không cần chữ ký và dấu của nhà thầu trong quyết toán A-B) để lập hồ sơ quyết toán và xác định giá trị đề nghị quyết toán trình thẩm tra, phê duyệt quyết toán vốn đầu tư dự án. Chủ đầu tư ghi rõ nội dung nhà thầu không hợp tác để quyết toán trong Tờ trình đề nghị phê duyệt quyết toán. Nhà thầu không thực hiện quyết toán theo đề nghị của chủ đầu tư chịu hoàn toàn các tổn thất, thiệt hại (nếu có) và có trách nhiệm chấp hành quyết định phê duyệt quyết toán vốn đầu tư dự án.
 
-
 <a id="dieu-8"></a>
 ### Điều 8. Thẩm quyền phê duyệt, cơ quan chủ trì thẩm tra quyết toán
 
@@ -239,7 +231,6 @@ d) Trường hợp cần thiết, tổ chức, cá nhân được giao nhiệm v
 
 đ) Riêng đối với các nhiệm vụ, dự án đầu tư các nền tảng số, hệ thống thông tin quy mô quốc gia, quy mô vùng sử dụng vốn đầu tư công nguồn ngân sách nhà nước quy định tại khoản 1 Điều 10 Nghị quyết số 193/2025/QH15 ngày 19 tháng 02 năm 2025 của Quốc hội về thí điểm một số cơ chế, chính sách đặc biệt tạo đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia: trường hợp Kiểm toán nhà nước, cơ quan thanh tra thực hiện kiểm toán, thanh tra và phát hành báo cáo kiểm toán, kết luận thanh tra có đủ nội dung quy định tại Điều 11 Nghị định này, chủ đầu tư căn cứ báo cáo kiểm toán, kết luận thanh tra lập báo cáo quyết toán vốn đầu tư dự án, trình người có thẩm quyền quyết định phê duyệt quyết toán vốn đầu tư dự án; không yêu cầu thẩm tra trước khi phê duyệt quyết toán.
 
-
 <a id="dieu-9"></a>
 ### Điều 9. Kiểm toán báo cáo quyết toán
 
@@ -259,7 +250,6 @@ a) Trường hợp Kiểm toán nhà nước, cơ quan thanh tra thực hiện k
 b) Trường hợp Kiểm toán nhà nước, cơ quan thanh tra thực hiện kiểm toán, thanh tra thực hiện chưa đủ các nội dung quy định tại Điều 11 Nghị định này, căn cứ khoản 1 Điều này chủ đầu tư xác định nội dung, phạm vi kiểm toán bổ sung và lựa chọn nhà thầu kiểm toán độc lập để kiểm toán bổ sung trong trường hợp cần thiết. Chi phí kiểm toán bổ sung được xác định tương tự như xác định chi phí thuê kiểm toán độc lập quy định tại Điều 20 Nghị định này. Cơ quan chủ trì thẩm tra quyết toán sử dụng báo cáo kiểm toán của Kiểm toán nhà nước, kết luận của cơ quan thanh tra và báo cáo kiểm toán của kiểm toán độc lập làm căn cứ để thẩm tra quyết toán dự án.
 
 c) Trường hợp Kiểm toán nhà nước, cơ quan thanh tra có quyết định kiểm toán, thanh tra dự án khi nhà thầu kiểm toán độc lập đang thực hiện hợp đồng kiểm toán thì nhà thầu kiểm toán độc lập thực hiện hợp đồng kiểm toán theo đúng nội dung của hợp đồng đã giao kết.
-
 
 <a id="dieu-10"></a>
 ### Điều 10. Thẩm tra quyết toán đối với dự án, dự án thành phần, tiểu dự án, công trình, hạng mục công trình đã thực hiện kiểm toán, thanh tra
@@ -286,7 +276,6 @@ b) Kiểm tra việc chấp hành của chủ đầu tư và các đơn vị có
 
 <a id="dieu-10-khoan-3"></a>
 3. Trường hợp kết quả thẩm tra quyết toán vốn đầu tư không thống nhất với báo cáo kiểm toán, kết luận thanh tra, biên bản kiểm tra, quyết định xử lý vi phạm của các cơ quan Kiểm toán nhà nước, thanh tra, kiểm tra, điều tra, cơ quan chủ trì thẩm tra quyết toán báo cáo người có thẩm quyền phê duyệt quyết toán có văn bản lấy ý kiến của các cơ quan nêu trên về những nội dung chưa thống nhất (trong văn bản ghi rõ thời hạn trả lời). Trường hợp quá thời hạn lấy ý kiến mà cơ quan được lấy ý kiến chưa có ý kiến trả lời thì cơ quan chủ trì thẩm tra quyết toán căn cứ quy định tại pháp luật về kiểm toán nhà nước, pháp luật về thanh tra và các pháp luật khác có liên quan để báo cáo người có thẩm quyền phê duyệt quyết toán quyết định.
-
 
 <a id="dieu-11"></a>
 ### Điều 11. Thẩm tra quyết toán đối với dự án, dự án thành phần, tiểu dự án, công trình, hạng mục công trình không kiểm toán, thanh tra
@@ -321,7 +310,6 @@ a) Nhận xét đánh giá việc chấp hành các quy định của Nhà nư�
 
 b) Xác định giá trị đề nghị phê duyệt quyết toán vốn đầu tư dự án và xử lý các vấn đề có liên quan.
 
-
 <a id="dieu-12"></a>
 ### Điều 12. Thẩm tra hồ sơ pháp lý
 
@@ -339,7 +327,6 @@ Cơ quan chủ trì thẩm tra quyết toán căn cứ báo cáo, các văn bả
 <a id="dieu-12-khoan-4"></a>
 4. Việc tuân thủ quy định của pháp luật về hợp đồng trong giao kết hợp đồng giữa chủ đầu tư với nhà thầu.
 
-
 <a id="dieu-13"></a>
 ### Điều 13. Thẩm tra vốn thực hiện đầu tư dự án
 
@@ -354,7 +341,6 @@ Cơ quan chủ trì thẩm tra quyết toán căn cứ báo cáo, các văn bả
 
 <a id="dieu-13-khoan-4"></a>
 4. Nhận xét, đánh giá việc chấp hành các quy định về việc quản lý, thanh toán; việc quản lý và sử dụng các loại vốn thực hiện đầu tư dự án.
-
 
 <a id="dieu-14"></a>
 ### Điều 14. Thẩm tra chi phí đầu tư
@@ -397,7 +383,6 @@ a) Thực hiện theo quy định của Bộ Tài chính về thu, chi của ch�
 
 b) Việc xử lý tài sản của chủ đầu tư, ban quản lý dự án khi dự án kết thúc thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công, pháp luật có liên quan.
 
-
 <a id="dieu-15"></a>
 ### Điều 15. Thẩm tra chi phí đầu tư không tính vào giá trị tài sản
 
@@ -411,7 +396,6 @@ b) Giá trị thiệt hại theo Biên bản xác định phải được chủ 
 <a id="dieu-15-khoan-2"></a>
 2. Thẩm tra các khoản chi phí không hình thành tài sản như: chi phí đào tạo, tăng cường và nâng cao năng lực cho cơ quan quản lý hoặc cộng đồng; chi phí các ban quản lý dự án không liên quan trực tiếp đến tài sản được hình thành và bàn giao ở các địa phương; chi phí đầu tư thiệt hại do nguyên nhân chủ quan như khối lượng đầu tư bị hủy bỏ theo quyết định của cấp có thẩm quyền; chi phí đã thực hiện, không xảy ra thiệt hại, có tạo ra sản phẩm nhưng sản phẩm đó không được sử dụng cho dự án như kết quả khảo sát, thiết kế đã hoàn thành, đạt chất lượng nhưng không được sử dụng do chủ đầu tư thay đổi thiết kế; chi phí đầu tư dở dang (dự án dừng thực hiện) không hình thành tài sản; chi phí sửa chữa, chi phí khắc phục hậu quả thiên tai không được hạch toán tăng giá trị tài sản theo quy định của pháp luật về kế toán và quản lý sử dụng tài sản công.
 
-
 <a id="dieu-16"></a>
 ### Điều 16. Thẩm tra giá trị tài sản hình thành
 
@@ -420,7 +404,6 @@ b) Giá trị thiệt hại theo Biên bản xác định phải được chủ 
 
 <a id="dieu-16-khoan-2"></a>
 2. Tiêu chuẩn tài sản, phân loại tài sản, phân bổ giá trị, nguyên giá tài sản và xử lý tài sản là kết quả của quá trình thực hiện dự án được thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công và pháp luật khác có liên quan.
-
 
 <a id="dieu-17"></a>
 ### Điều 17. Thẩm tra tình hình công nợ, vật tư, vật liệu, thiết bị tồn đọng
@@ -440,7 +423,6 @@ a) Kiểm tra giá trị vật tư, vật liệu, thiết bị tồn đọng the
 b) Xem xét, kiến nghị phương án xử lý của chủ đầu tư đối với giá trị vật tư, vật liệu, thiết bị tồn đọng.
 
 c) Việc xử lý vật tư, vật liệu thu hồi trong quá trình thực hiện dự án thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công, pháp luật có liên quan.
-
 
 <a id="dieu-18"></a>
 ### Điều 18. Thẩm tra quyết toán đối với dự án quy hoạch, dự án chuẩn bị đầu tư, dự án dừng thực hiện chưa có khối lượng thi công xây dựng, lắp đặt thiết bị được nghiệm thu
@@ -469,7 +451,6 @@ c) Việc xử lý vật tư, vật liệu thu hồi trong quá trình thực hi
 <a id="dieu-18-khoan-8"></a>
 8. Nhận xét, đánh giá, kiến nghị.
 
-
 <a id="dieu-19"></a>
 ### Điều 19. Hồ sơ trình phê duyệt quyết toán
 
@@ -495,7 +476,6 @@ d) Kiến nghị giải quyết các tồn tại về vốn đầu tư, tài s�
 
 <a id="dieu-19-khoan-3"></a>
 3. Quyết định phê duyệt quyết toán được gửi cho các cơ quan, đơn vị: chủ đầu tư, cơ quan quản lý cấp trên của chủ đầu tư, cơ quan thanh toán (hoặc cơ quan được ủy quyền kiểm soát, thanh toán đối với dự án đầu tư bí mật nhà nước của Bộ Quốc phòng, Bộ Công an), người có thẩm quyền quyết định phê duyệt đầu tư dự án, cơ quan chủ trì thẩm tra quyết toán và gửi Thủ tướng Chính phủ, Bộ Tài chính (đối với dự án quan trọng quốc gia, dự án do Thủ tướng Chính phủ quyết định đầu tư).
-
 
 <a id="dieu-20"></a>
 ### Điều 20. Chi phí kiểm toán độc lập và chi phí thẩm tra, phê duyệt quyết toán
@@ -630,7 +610,6 @@ Trên cơ sở nguồn thu và nội dung chi quy định tại khoản 2 Điề
 <a id="dieu-20-khoan-4"></a>
 4. Trường hợp bất khả kháng và thay đổi phạm vi công việc của hợp đồng đã ký, chủ đầu tư và nhà thầu kiểm toán độc lập căn cứ các quy định của pháp luật về hợp đồng để điều chỉnh bổ sung hoặc loại trừ những nội dung công việc của hợp đồng đã ký.
 
-
 <a id="dieu-21"></a>
 ### Điều 21. Thời gian lập hồ sơ, thẩm tra, phê duyệt quyết toán vốn đầu tư dự án
 
@@ -685,7 +664,6 @@ Thời gian phê duyệt quyết toán
 <a id="dieu-21-khoan-3"></a>
 3. Thời gian phê duyệt quyết toán được tính từ ngày người có thẩm quyền phê duyệt quyết toán (theo quy định tại khoản 1 Điều 8 Nghị định này) nhận đủ hồ sơ trình duyệt quyết toán (theo quy định tại khoản 1 Điều 19 Nghị định này) đến ngày ban hành quyết định phê duyệt quyết toán.
 
-
 <a id="dieu-22"></a>
 ### Điều 22. Báo cáo tình hình quyết toán dự án sử dụng vốn đầu tư công trong năm
 
@@ -702,7 +680,6 @@ __Chương III __
 
 __KIỂM TRA, XỬ LÝ VI PHẠM__
 
-
 <a id="dieu-23"></a>
 ### Điều 23. Kiểm tra tình hình quyết toán vốn đầu tư dự án
 
@@ -711,7 +688,6 @@ __KIỂM TRA, XỬ LÝ VI PHẠM__
 
 <a id="dieu-23-khoan-2"></a>
 2. Bộ Tài chính định kỳ hoặc đột xuất kiểm tra tình hình thực hiện công tác quyết toán vốn đầu tư dự án của các bộ, cơ quan trung ương và địa phương trong cả nước. Trường hợp phát hiện có sai sót, vi phạm, Bộ Tài chính có ý kiến yêu cầu các bộ, cơ quan trung ương và địa phương xử lý theo thẩm quyền hoặc tổng hợp, kiến nghị cơ quan có thẩm quyền xử lý theo quy định của pháp luật hiện hành.
-
 
 <a id="dieu-24"></a>
 ### Điều 24. Xử lý vi phạm
@@ -725,7 +701,6 @@ __KIỂM TRA, XỬ LÝ VI PHẠM__
 ### Chương IV
 
 __NHIỆM VỤ CỦA CÁC CƠ QUAN LIÊN QUAN__
-
 
 <a id="dieu-25"></a>
 ### Điều 25. Nhiệm vụ của cơ quan tài chính các cấp, cơ quan chủ trì thẩm tra quyết toán
@@ -752,7 +727,6 @@ d) Chịu trách nhiệm toàn diện về tính chính xác, hợp pháp của 
 
 e) Yêu cầu cơ quan thanh toán, cơ quan chủ quản, chủ đầu tư cung cấp các tài liệu, thông tin cần thiết để phục vụ cho công tác quyết toán vốn đầu tư dự án theo quy định của pháp luật và Nghị định này.
 
-
 <a id="dieu-26"></a>
 ### Điều 26. Nhiệm vụ của cơ quan thanh toán
 
@@ -761,7 +735,6 @@ e) Yêu cầu cơ quan thanh toán, cơ quan chủ quản, chủ đầu tư cung
 
 <a id="dieu-26-khoan-2"></a>
 2. Thực hiện thanh toán chi phí thẩm tra, phê duyệt quyết toán theo đề nghị của chủ đầu tư, cơ quan chủ trì thẩm tra quyết toán theo đúng quy định tại khoản 2 Điều 20 Nghị định này.
-
 
 <a id="dieu-27"></a>
 ### Điều 27. Nhiệm vụ của bộ, cơ quan trung ương và Ủy ban nhân dân cấp tỉnh, cấp xã, cơ quan cấp trên của chủ đầu tư, các cơ quan, tổ chức khác có liên quan
@@ -777,7 +750,6 @@ e) Yêu cầu cơ quan thanh toán, cơ quan chủ quản, chủ đầu tư cung
 
 <a id="dieu-27-khoan-4"></a>
 4. Chỉ đạo các đơn vị chức năng thuộc quyền quản lý phối hợp với chủ đầu tư xử lý các nội dung còn tồn tại của dự án (nếu có) và hoàn thành giải quyết công nợ, tất toán tài khoản của dự án trong thời gian 6 tháng kể từ ngày ban hành quyết định phê duyệt quyết toán vốn đầu tư dự án.
-
 
 <a id="dieu-28"></a>
 ### Điều 28. Nhiệm vụ của chủ đầu tư, ban quản lý dự án, nhà thầu
@@ -809,7 +781,6 @@ c) Chấp hành quyết định phê duyệt quyết toán vốn đầu tư dự
 
 __ĐIỀU KHOẢN THI HÀNH__
 
-
 <a id="dieu-29"></a>
 ### Điều 29. Xử lý chuyển tiếp
 
@@ -819,12 +790,10 @@ __ĐIỀU KHOẢN THI HÀNH__
 <a id="dieu-29-khoan-2"></a>
 2. Quyết toán A - B đã được chủ đầu tư và nhà thầu ký trước ngày Nghị định này có hiệu lực thì không phải lập lại và ký lại theo quy định tại Nghị định này.
 
-
 <a id="dieu-30"></a>
 ### Điều 30. Tổ chức thực hiện
 
 Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố, Thủ trưởng các tổ chức chính trị, chính trị - xã hội, tổ chức chính trị - xã hội nghề nghiệp và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
-
 
 <a id="dieu-31"></a>
 ### Điều 31. Hiệu lực thi hành
@@ -881,9 +850,6 @@ các Vụ, Cục, đơn vị trực thuộc, Công báo;
 __TM. CHÍNH PHỦ__
 __KT. THỦ TƯỚNG__
 __PHÓ THỦ TƯỚNG__
-
-
-
 
 __Nguyễn Văn Thắng__
 

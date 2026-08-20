@@ -9,8 +9,6 @@ Số: 101/2026/TT-BQP
 
 *Hà Nội, ngày 09 tháng* *7* *năm 2026*
 
-
-
 __THÔNG TƯ__
 
 QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THỰC HIỆN MỘT SỐ NỘI DUNG LUẬT XÂY DỰNG THUỘC PHẠM VI QUẢN LÝ CỦA BỘ QUỐC PHÒNG
@@ -36,7 +34,6 @@ QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THỰC HIỆN MỘT SỐ NỘI DUNG LU�
 ### Chương I
 
 __QUY ĐỊNH CHUNG__
-
 
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
@@ -64,12 +61,10 @@ c) Tổ chức kiểm tra công tác thẩm định của cơ quan chuyên môn 
 <a id="dieu-1-khoan-3"></a>
 3. Đối với dự án đầu tư xây dựng công trình chiến đấu thực hiện theo quy định tại Thông tư số 40/2026/TT-BQP ngày 04 tháng 5 năm 2026 của Bộ trưởng Bộ Quốc phòng ban hành quy chế xây dựng công trình chiến đấu; dự án đầu tư xây dựng hệ thống trường bắn, thao trường huấn luyện thực hiện theo quy định tại Thông tư số 28/2021/TT-BQP ngày 01 tháng 3 năm 2021 ban hành quy chế quản lý đầu tư và điều hành, sử dụng hệ thống trường bắn, thao trường huấn luyện, được sửa đổi, bổ sung một số điều tại Thông tư số 35/2026/TT-BQP ngày 24 tháng 4 năm 2026; công trình, dự án nạo vét trong vùng nước cảng quân sự thực hiện theo quy định tại Thông tư số 15/2025/TT-BQP ngày 03 tháng 3 năm 2025 của Bộ trưởng Bộ Quốc phòng quy định về tổ chức, quản lý hoạt động nạo vét trong vùng nước cảng quân sự.
 
-
 <a id="dieu-2"></a>
 ### Điều 2. Đối tượng áp dụng
 
 Thông tư này áp dụng đối với các cơ quan, đơn vị, tổ chức và cá nhân có liên quan đến hoạt động xây dựng thuộc phạm vi quản lý của Bộ Quốc phòng, gồm: Lập, thẩm tra, thẩm định, phê duyệt dự án đầu tư xây dựng, thiết kế xây dựng; khảo sát xây dựng; quản lý dự án; quản lý năng lực hoạt động xây dựng; quản lý chi phí đầu tư xây dựng.
-
 
 <a id="dieu-3"></a>
 ### Điều 3. Giải thích từ ngữ
@@ -99,7 +94,6 @@ a) Dự án do Bộ trưởng Bộ Quốc phòng quyết định đầu tư, ng�
 
 b) Dự án do người đứng đầu đơn vị đầu mối trực thuộc Bộ Quốc phòng quyết định đầu tư, người đề nghị thẩm định là chủ đầu tư hoặc đại diện chủ đầu tư.
 
-
 <a id="dieu-4"></a>
 ### Điều 4. Nguyên tắc áp dụng mô hình thông tin công trình (BIM) trong hoạt động xây dựng
 
@@ -122,7 +116,6 @@ c) Giai đoạn thi công xây dựng: Chủ đầu tư sử dụng mô hình BI
 
 __THẨM ĐỊNH DỰ ÁN VÀ QUYẾT ĐỊNH ĐẦU TƯ XÂY DỰNG__
 
-
 <a id="dieu-5"></a>
 ### Điều 5. Thẩm định Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật của người quyết định đầu tư
 
@@ -143,7 +136,6 @@ __THẨM ĐỊNH DỰ ÁN VÀ QUYẾT ĐỊNH ĐẦU TƯ XÂY DỰNG__
 
 <a id="dieu-5-khoan-6"></a>
 6. Nội dung báo cáo thẩm định thực hiện theo quy định tại Mẫu số 07 Phụ lục I kèm theo Nghị định số 217/2026/NĐ-CP của Chính phủ.
-
 
 <a id="dieu-6"></a>
 ### Điều 6. Thẩm định Báo cáo nghiên cứu khả thi của cơ quan chuyên môn về xây dựng; hội đồng thẩm định
@@ -193,7 +185,6 @@ h) Lưu trữ hồ sơ sau khi có kết quả thẩm định và trách nhiệm
 
 i) Đối với dự án thực hiện thẩm định theo hình thức Hội đồng thẩm định, việc thẩm định của Hội đồng thẩm định thực hiện theo quy chế làm việc của Hội đồng thẩm định. Việc đóng dấu hồ sơ, lưu trữ hồ sơ và trách nhiệm nộp phí thẩm định thực hiện theo quy định tại khoản này.
 
-
 <a id="dieu-7"></a>
 ### Điều 7. Phê duyệt dự án, quyết định đầu tư xây dựng
 
@@ -205,7 +196,6 @@ i) Đối với dự án thực hiện thẩm định theo hình thức Hội đ
 
 <a id="dieu-7-khoan-3"></a>
 3. Đối với dự án chỉ cần lập Báo cáo kinh tế - kỹ thuật, khi phê duyệt dự án, người quyết định đầu tư giao chủ đầu tư đóng dấu “thẩm định” hồ sơ thiết kế bản vẽ thi công của Báo cáo kinh tế - kỹ thuật.
-
 
 <a id="dieu-8"></a>
 ### Điều 8. Điều chỉnh dự án đầu tư xây dựng
@@ -232,7 +222,6 @@ e) Hồ sơ trình cơ quan chuyên môn về xây dựng thẩm định Báo c�
 ### Chương III
 
 __QUẢN LÝ THIẾT KẾ XÂY DỰNG TRIỂN KHAI SAU KHI DỰ ÁN ĐƯỢC PHÊ DUYỆT__
-
 
 <a id="dieu-9"></a>
 ### Điều 9. Thẩm định thiết kế xây dựng
@@ -261,7 +250,6 @@ __QUẢN LÝ THIẾT KẾ XÂY DỰNG TRIỂN KHAI SAU KHI DỰ ÁN ĐƯỢC PH�
 <a id="dieu-9-khoan-8"></a>
 8. Chủ đầu tư có trách nhiệm tổng hợp văn bản của các cơ quan, tổ chức có liên quan; thực hiện các yêu cầu (nếu có); phê duyệt thiết kế xây dựng theo quy định tại Điều 10 Thông tư này.
 
-
 <a id="dieu-10"></a>
 ### Điều 10. Phê duyệt thiết kế xây dựng triển khai sau khi dự án được phê duyệt
 
@@ -276,7 +264,6 @@ __QUẢN LÝ THIẾT KẾ XÂY DỰNG TRIỂN KHAI SAU KHI DỰ ÁN ĐƯỢC PH�
 
 <a id="dieu-10-khoan-4"></a>
 4. Trước khi phê duyệt thiết kế xây dựng Chủ đầu tư có trách nhiệm gửi báo cáo bằng văn bản về các nội dung thay đổi thiết kế xây dựng đến người quyết định đầu tư và cơ quan chuyên môn về xây dựng theo phân cấp để biết và quản lý đối với các trường hợp quy định tại khoản 7 Điều 16 Nghị định 217/2026/NĐ-CP.
-
 
 <a id="dieu-11"></a>
 ### Điều 11. Điều chỉnh thiết kế xây dựng
@@ -297,7 +284,6 @@ __QUẢN LÝ THIẾT KẾ XÂY DỰNG TRIỂN KHAI SAU KHI DỰ ÁN ĐƯỢC PH�
 
 __ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH CẦN BẢO ĐẢM BÍ MẬT NHÀ NƯỚC, CÔNG TRÌNH KHẨN CẤP, CẤP BÁCH__
 
-
 <a id="dieu-12"></a>
 ### Điều 12. Đầu tư xây dựng công trình cần bảo đảm bí mật nhà nước
 
@@ -315,7 +301,6 @@ a) Đối với công trình quy định tại điểm a khoản 1 điều này 
 
 b) Đối với công trình quy định tại điểm b khoản 1 điều này được thực hiện theo quy định tại Điều 4, 5, 6, 7, 8, 9, 10 và 11 Thông tư này và quy định của pháp luật về bảo vệ bí mật Nhà nước.
 
-
 <a id="dieu-13"></a>
 ### Điều 13. Đầu tư xây dựng công trình khẩn cấp
 
@@ -327,7 +312,6 @@ b) Đối với công trình quy định tại điểm b khoản 1 điều này 
 
 <a id="dieu-13-khoan-3"></a>
 3. Cơ quan, tổ chức, cá nhân được giao quản lý, thực hiện xây dựng công trình khẩn cấp được tự quyết định trình tự thực hiện các công việc trong hoạt động đầu tư xây dựng và việc quản lý dự án, công trình xây dựng khẩn cấp quy định tại khoản 3, khoản 5, khoản 6 Điều 69 Nghị định số 217/2026/NĐ-CP.
-
 
 <a id="dieu-14"></a>
 ### Điều 14. Đầu tư xây dựng công trình cấp bách
@@ -344,7 +328,6 @@ b) Đối với công trình quy định tại điểm b khoản 1 điều này 
 ### Chương V
 
 __TỔ CHỨC KIỂM TRA__
-
 
 <a id="dieu-15"></a>
 ### Điều 15. Thẩm quyền kiểm tra
@@ -367,7 +350,6 @@ b) Tham gia kiểm tra đối với các công trình thuộc các dự án ph�
 
 <a id="dieu-15-khoan-3"></a>
 3. Người đứng đầu doanh nghiệp quốc phòng, chủ đầu tư dự án PPP tổ chức kiểm tra công tác quản lý thiết kế xây dựng đối với các dự án do mình quyết định đầu tư.
-
 
 <a id="dieu-16"></a>
 ### Điều 16. Nguyên tắc, trình tự, thủ tục, nội dung kiểm tra
@@ -408,7 +390,6 @@ d) Kết luận kiểm tra bao gồm các nội dung cơ bản sau đây: Kết 
 
 __ĐIỀU KHOẢN THI HÀNH__
 
-
 <a id="dieu-17"></a>
 ### Điều 17. Hiệu lực thi hành
 
@@ -420,7 +401,6 @@ __ĐIỀU KHOẢN THI HÀNH__
 
 <a id="dieu-17-khoan-3"></a>
 3. Trường hợp các văn bản quy phạm pháp luật được dẫn chiếu áp dụng trong Thông tư này được sửa đổi, bổ sung hoặc thay thế thì áp dụng văn bản sửa đổi, bổ sung hoặc thay thế đó.
-
 
 <a id="dieu-18"></a>
 ### Điều 18. Điều khoản chuyển tiếp
@@ -439,7 +419,6 @@ a) Thiết kế xây dựng đã được phê duyệt trước ngày Thông tư
 
 b) Thiết kế xây dựng đang thực hiện thẩm định trước ngày Thông tư này có hiệu lực thì Chủ đầu tư dự án được lựa chọn tiếp tục thẩm định tại cơ quan chuyên môn về xây dựng làm cơ sở phê duyệt hoặc dừng thẩm định tại cơ quan chuyên môn về xây dựng để tự tổ chức thẩm định.
 
-
 <a id="dieu-19"></a>
 ### Điều 19. Trách nhiệm thi hành
 
@@ -448,10 +427,6 @@ b) Thiết kế xây dựng đang thực hiện thẩm định trước ngày Th
 
 <a id="dieu-19-khoan-2"></a>
 2. Cơ quan chuyên môn về xây dựng Bộ Quốc phòng và cơ quan chuyên môn về xây dựng trực thuộc đơn vị đầu mối Bộ Quốc phòng hướng dẫn thực hiện Thông tư này./.
-
-
-
-
 
 __*Nơi nhận:
 *__- Bộ trưởng;
@@ -467,9 +442,6 @@ __*Nơi nhận:
 
 __KT. BỘ TRƯỞNG__
 THỨ TRƯỞNG
-
-
-
 
 __Thượng tướng Nguyễn Quang Ngọc__
 

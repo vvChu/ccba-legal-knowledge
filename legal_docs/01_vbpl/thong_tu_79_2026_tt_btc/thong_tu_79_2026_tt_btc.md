@@ -9,8 +9,6 @@ Số: 79/2026/TT-BTC
 
 *Hà Nội, ngày 30 tháng 6 năm 2026*
 
-
-
 __THÔNG TƯ__
 
 QUY ĐỊNH VỀ THU, CHI CỦA CHỦ ĐẦU TƯ, BAN QUẢN LÝ DỰ ÁN CÓ DỰ ÁN SỬ DỤNG VỐN NGÂN SÁCH NHÀ NƯỚC
@@ -45,7 +43,6 @@ QUY ĐỊNH VỀ THU, CHI CỦA CHỦ ĐẦU TƯ, BAN QUẢN LÝ DỰ ÁN CÓ D�
 
 __QUY ĐỊNH CHUNG__
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 
@@ -60,7 +57,6 @@ __QUY ĐỊNH CHUNG__
 
 <a id="dieu-1-khoan-4"></a>
 4. Khuyến khích chủ đầu tư, BQLDA quản lý dự án không sử dụng vốn ngân sách nhà nước áp dụng các quy định tại Thông tư này để thực hiện trình tự, nội dung lập, thẩm định, phê duyệt dự toán, lập, thẩm tra, phê duyệt quyết toán và được phép chỉnh sửa các nội dung, biểu mẫu cho phù hợp với công tác quản lý dự án của đơn vị. Cơ chế tài chính (chế độ, định mức chi của các khoản chi, chi tiết kiệm và định mức khác chi cho các khoản chi khác có liên quan đến quản lý dự án) và thẩm quyền thẩm định, thẩm tra, phê duyệt dự toán, quyết toán thực hiện theo quy định của đơn vị được giao nhiệm vụ làm chủ đầu tư.
-
 
 <a id="dieu-2"></a>
 ### Điều 2. Nguồn thu và phân chia nguồn thu quản lý dự án giữa chủ đầu tư và BQLDA đối với dự án được giao quản lý
@@ -77,7 +73,6 @@ c) Ngân sách nhà nước cấp (nếu có).
 <a id="dieu-2-khoan-2"></a>
 2. Phân chia nguồn thu quản lý dự án giữa chủ đầu tư và BQLDA đối với dự án được giao quản lý: căn cứ vào nội dung, khối lượng công việc, trách nhiệm giữa chủ đầu tư và BQLDA, Thủ trưởng đơn vị được giao nhiệm vụ làm chủ đầu tư quyết định bằng văn bản tỷ lệ phân chia khoản thu quản lý dự án giữa chủ đầu tư và BQLDA (nếu có) và chịu trách nhiệm về nội dung này.
 
-
 <a id="dieu-3"></a>
 ### Điều 3. Tài khoản giao dịch
 
@@ -86,7 +81,6 @@ c) Ngân sách nhà nước cấp (nếu có).
 
 <a id="dieu-3-khoan-2"></a>
 2. Đối với nguồn thu không thuộc dự án được giao quản lý, các Quỹ được trích lập theo quy định về cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập: chủ đầu tư, BQLDA được mở tài khoản tiền gửi tại Kho bạc Nhà nước hoặc ngân hàng thương mại để quản lý.
-
 
 <a id="dieu-4"></a>
 ### Điều 4. Phân loại Ban quản lý dự án
@@ -102,7 +96,6 @@ c) Ngân sách nhà nước cấp (nếu có).
 __QUY ĐỊNH CỤ THỂ__
 
 __Mục 1. LẬP DỰ TOÁN THU, CHI CỦA CHỦ ĐẦU TƯ, BAN QUẢN LÝ DỰ ÁN__
-
 
 <a id="dieu-5"></a>
 ### Điều 5. Căn cứ lập dự toán thu, chi
@@ -131,7 +124,6 @@ __Mục 1. LẬP DỰ TOÁN THU, CHI CỦA CHỦ ĐẦU TƯ, BAN QUẢN LÝ DỰ
 <a id="dieu-5-khoan-8"></a>
 8. Các căn cứ khác của dự án (nếu có).
 
-
 <a id="dieu-6"></a>
 ### Điều 6. Lập dự toán thu
 
@@ -151,7 +143,6 @@ __GK__: chi phí khác do chủ đầu tư, BQLDA được phép thực hiện t
 
 __GT__: chi phí mà chủ đầu tư, BQLDA cần phải thuê để thực hiện trong quá trình quản lý dự án.
 
-
 <a id="dieu-7"></a>
 ### Điều 7. Dự toán thu, chi hằng năm của chủ đầu tư, BQLDA
 
@@ -168,7 +159,6 @@ __GT__: chi phí mà chủ đầu tư, BQLDA cần phải thuê để thực hi�
 4. Dự toán chi của Chủ đầu tư, BQLDA bao gồm chi phí giám sát, đánh giá đầu tư theo quy định tại Nghị định số 19/2026/NĐ-CP ngày 14 tháng 01 năm 2026 của Chính phủ quy định về trình tự, thủ tục thẩm định dự án quan trọng quốc gia và giám sát, đánh giá đầu tư. Trường hợp chủ đầu tư, BQLDA thuê đơn vị tư vấn độc lập thực hiện công tác giám sát, đánh giá đầu tư theo quy định, chi phí thuê tư vấn giám sát, đánh giá đầu tư phải được hạch toán vào khoản mục chi phí thuê tư vấn ngoài (__GT__) và không được tính vào dự toán chi thường xuyên tự thực hiện của chủ đầu tư, BQLDA.
 
 __Mục 2. BAN QUẢN LÝ DỰ ÁN NHÓM I__
-
 
 <a id="dieu-8"></a>
 ### Điều 8. Nội dung dự toán chi
@@ -190,7 +180,6 @@ __Mục 2. BAN QUẢN LÝ DỰ ÁN NHÓM I__
 
 <a id="dieu-8-khoan-6"></a>
 6. Việc chi phải trong phạm vi dự toán được duyệt, đúng tiêu chuẩn, định mức, chế độ tài chính hiện hành và quy chế chi tiêu nội bộ hợp pháp.
-
 
 <a id="dieu-9"></a>
 ### Điều 9. Thẩm định, phê duyệt dự toán hằng năm
@@ -240,7 +229,6 @@ c) Hồ sơ đề nghị thẩm định, phê duyệt, nội dung thẩm định
 
 <a id="dieu-9-khoan-6"></a>
 6. Dự toán sau khi được duyệt hoặc điều chỉnh, BQLDA nhóm I phải gửi đến người quyết định phê duyệt dự án đầu tư để theo dõi, kiểm tra việc thực hiện; cơ quan thanh toán để thực hiện thanh toán; các đơn vị có liên quan để thực hiện.
-
 
 <a id="dieu-10"></a>
 ### Điều 10. Quyết toán thu, chi hằng năm
@@ -312,7 +300,6 @@ d) Đối với dự án dừng thực hiện: chi phí quản lý dự án, chi
 
 __Mục 3. BAN QUẢN LÝ DỰ ÁN NHÓM II__
 
-
 <a id="dieu-11"></a>
 ### Điều 11. Nguồn thu và giao quyền tự chủ tài chính
 
@@ -323,7 +310,6 @@ __Mục 3. BAN QUẢN LÝ DỰ ÁN NHÓM II__
 
 <a id="dieu-11-khoan-2"></a>
 2. Giao quyền tự chủ tài chính và xác định kinh phí hỗ trợ từ ngân sách nhà nước (nếu có), quy chế chi tiêu nội bộ và phân phối kết quả tài chính trong năm: thực hiện theo quy định của pháp luật về cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập.
-
 
 <a id="dieu-12"></a>
 ### Điều 12. Lập và chấp hành dự toán hằng năm
@@ -344,7 +330,6 @@ d) Đối với BQLDA có sử dụng kinh phí ngân sách nhà nước cấp: 
 
 <a id="dieu-12-khoan-3"></a>
 3. Chi phí quản lý dự án đã bao gồm chi phí giám sát, đánh giá đầu tư theo quy định tại khoản 3 Điều 82 Nghị định số 19/2026/NĐ-CP.
-
 
 <a id="dieu-13"></a>
 ### Điều 13. Quyết toán thu, chi hằng năm của BQLDA
@@ -406,7 +391,6 @@ d) Đối với dự án dừng thực hiện: chi phí quản lý dự án, chi
 
 __TỔ CHỨC THỰC HIỆN__
 
-
 <a id="dieu-14"></a>
 ### Điều 14. Trách nhiệm của các đơn vị liên quan
 
@@ -457,7 +441,6 @@ a) Kiểm tra, hướng dẫn chủ đầu tư, BQLDA tổ chức thực hiện 
 
 b) Có ý kiến tham gia bằng văn bản với chủ đầu tư về quyết toán của BQLDA nhóm I và thực hiện thẩm tra, phê duyệt quyết toán thu, chi của BQLDA nhóm II theo đúng quy định; trường hợp cần thiết được kiểm tra hồ sơ, chứng từ thu, chi của chủ đầu tư, BQLDA.
 
-
 <a id="dieu-15"></a>
 ### Điều 15. Hiệu lực thi hành
 
@@ -466,7 +449,6 @@ b) Có ý kiến tham gia bằng văn bản với chủ đầu tư về quyết 
 
 <a id="dieu-15-khoan-2"></a>
 2. Bãi bỏ Thông tư số 70/2024/TT-BTC ngày 01 tháng 10 năm 2024 của Bộ trưởng Bộ Tài chính quy định về quản lý, sử dụng các khoản thu từ hoạt động tư vấn, quản lý dự án của các chủ đầu tư, ban quản lý dự án sử dụng vốn ngân sách nhà nước, trừ trường hợp quy định tại khoản 1 Điều 16 Thông tư này.
-
 
 <a id="dieu-16"></a>
 ### Điều 16. Quy định chuyển tiếp
@@ -477,7 +459,6 @@ b) Có ý kiến tham gia bằng văn bản với chủ đầu tư về quyết 
 <a id="dieu-16-khoan-2"></a>
 2. Trường hợp chủ đầu tư, BQLDA điều chỉnh dự toán thu, chi năm 2026 thì việc thẩm định, phê duyệt điều chỉnh dự toán thu, chi, quyết toán thu, chi thực hiện theo quy định tại Thông tư này.
 
-
 <a id="dieu-17"></a>
 ### Điều 17. Tổ chức thực hiện
 
@@ -486,10 +467,6 @@ b) Có ý kiến tham gia bằng văn bản với chủ đầu tư về quyết 
 
 <a id="dieu-17-khoan-2"></a>
 2. Trong quá trình thực hiện, trường hợp có vướng mắc, đề nghị các đơn vị phản ánh kịp thời để Bộ Tài chính nghiên cứu hướng dẫn hoặc sửa đổi, bổ sung cho phù hợp./.
-
-
-
-
 
 __*Nơi nhận:
 *__- Ban Bí thư Trung ương Đảng;
@@ -518,12 +495,7 @@ Trung ương Đảng;
 __KT. BỘ TRƯỞNG__
 __THỨ TRƯỞNG__
 
-
-
-
 __Tạ Anh Tuấn__
-
-
 
 __DANH MỤC MẪU BIỂU__
 
@@ -589,14 +561,8 @@ Mẫu số: 02.QĐ/QT-QLDA
 
 Quyết định phê duyệt quyết toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II.
 
-
-
-
-
 __Mẫu số: 01(i)/DT-QLDA__
 *(Lập riêng cho từng dự án)*
-
-
 
 __CHỦ ĐẦU TƯ/BQLDA
 -------__
@@ -605,11 +571,7 @@ __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ---------------__
 
-
-
 *..........., ngày   tháng   năm*
-
-
 
 __BẢNG TÍNH CHI PHÍ TƯ VẤN, QUẢN LÝ DỰ ÁN__
 
@@ -645,13 +607,9 @@ __GTV__
 
 ......
 
-
-
 ...
 
 ......
-
-
 
 __III__
 
@@ -663,13 +621,9 @@ __GK__
 
 ......
 
-
-
 ...
 
 ......
-
-
 
 __IV__
 
@@ -681,13 +635,9 @@ __GT__
 
 ......
 
-
-
 ...
 
 ......
-
-
 
 __V__
 
@@ -719,29 +669,9 @@ __BQLDA sử dụng__
 
 ...
 
-
-
-
-
-
-
 ...
 
-
-
-
-
-
-
 Chi dự phòng
-
-
-
-
-
-
-
-
 
 __NGƯỜI LẬP BIỂU__
 *(Ký, ghi rõ họ tên)*
@@ -749,11 +679,7 @@ __NGƯỜI LẬP BIỂU__
 __THỦ TRƯỞNG__
 *(Ký, đóng dấu, ghi rõ họ tên)*
 
-
-
 Mẫu số 01(i)/DT-QLDA lập riêng cho từng dự án; (i) sẽ chạy từ 1 đến n đối với trường hợp chủ đầu tư được giao quản lý nhiều dự án.
-
-
 
 __Mẫu số: 02/DT-QLDA__
 
@@ -764,11 +690,7 @@ __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ---------------__
 
-
-
 *............., ngày   tháng   năm*
-
-
 
 __BẢNG TÍNH LƯƠNG NĂM .........__
 
@@ -820,187 +742,33 @@ __I__
 
 __Người lao động hưởng lương từ dự án__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 3
 
 ........
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __II__
 
 __Người lao động hưởng lương hợp đồng QLDA__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 2
 
 ........
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __III__
 
 __Tổng cộng (III = I \+ II)__
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 __NGƯỜI LẬP BIỂU__
 *(Ký, ghi rõ họ tên)*
 
 __THỦ TRƯỞNG__
 *(Ký, đóng dấu, ghi rõ họ tên)*
-
-
 
 __Mẫu số: 03/DT-QLDA__
 
@@ -1011,11 +779,7 @@ __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ---------------__
 
-
-
 *............., ngày   tháng   năm*
-
-
 
 __DỰ TOÁN THU, CHI QUẢN LÝ DỰ ÁN
 Năm ...__
@@ -1069,385 +833,99 @@ __A__
 __Tổng nguồn thu
 (A= I\+II\+III\+IV\+V)__
 
-
-
-
-
 ### 10 0
-
-
-
-
 
 __I__
 
 __Nguồn thu năm trước chuyển sang__
 
-
-
-
-
-
-
-
-
-
-
 1
 
 Từ dự án được giao quản lý
-
-
-
-
-
-
-
-
-
-
 
 2
 
 Từ nguồn hợp pháp khác của đơn vị
 
-
-
-
-
-
-
-
-
-
-
 __II__
 
 __Nguồn thu từ chi phí của dự án được giao quản lý1__
-
-
-
-
-
-
-
-
-
-
 
 __1__
 
 __Nguồn trích chi phí quản lý dự án__
 
-
-
-
-
-
-
-
-
-
-
 1.1
 
 Dự án...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 1.2
 
 Dự án...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ...
 
 ...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 __2__
 
 __Nguồn thu khác từ dự án được giao quản lý__
 
-
-
-
-
-
-
-
-
-
-
 2.1
 
 Nguồn thu từ chi phí quản lý dự án
-
-
-
-
-
-
-
-
-
-
 
 (1)
 
 Dự án...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 (2)
 
 Dự án...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ...
 
 ...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 2.2
 
 Nguồn thu khác từ dự án (nếu có)
 
-
-
-
-
-
-
-
-
-
-
 (1)
 
 Dự án...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 (2)
 
 Dự án...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ...
 
 ...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 __III__
 
 __Dự án điều chỉnh, bổ sung trong năm__
 
-
-
-
-
-
-
-
-
-
-
 __IV__
 
 __Nguồn thu hợp pháp khác của đơn vị (nếu có)2__
-
-
-
-
-
-
-
-
-
-
 
 1
 
 Dự án...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 2
 
 Dự án...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ...
 
 ...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 __V__
 
 __Nguồn NSNN cấp (nếu có)3__
-
-
-
-
-
-
-
-
-
-
 
 __B. Dự toán chi__
 
@@ -1520,531 +998,89 @@ __B__
 __Tổng cộng
 (B=I\+II\+III)__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __I__
 
 __Chi thường xuyên giao tự chủ__
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 1
 
 Tiền lương
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 2
 
 Các khoản phụ cấp lương
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 3
 
 Các khoản trích nộp theo lương
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 4
 
 Làm thêm giờ
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 5
 
 Khen thưởng
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 6
 
 Chi phúc lợi tập thể
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 7
 
 Thanh toán dịch vụ công cộng
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 8
 
 Mua vật tư văn phòng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 9
 
 Thanh toán thông tin, tuyên truyền, liên lạc
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 10
 
 Hội nghị, Hội thảo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 11
 
 Thanh toán công tác phí
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 12
 
 Thuê mướn
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 13
 
 Đoàn đi công tác nước ngoài
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 14
 
 Đoàn vào
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 15
 
 Chi sửa chữa thường xuyên tài sản
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 16
 
 Mua sắm tài sản phục vụ quản lý
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 17
 
 Chi khác
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 18
 
 Chi dự phòng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 __II__
 
 __NSNN cấp cho chi thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __III__
 
 __NSNN cấp cho chi không thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ__
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 __*Ghi chú:*__
 
@@ -2058,15 +1094,11 @@ __*Ghi chú:*__
 
 - NSNN cấp cho chi không thường xuyên (Mục III phần B) chỉ có ở BQLDA nhóm II.
 
-
-
 __NGƯỜI LẬP BIỂU__
 *(Ký, ghi rõ họ tên)*
 
 __THỦ TRƯỞNG__
 *(Ký, đóng dấu, ghi rõ họ tên)*
-
-
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2075,8 +1107,6 @@ __THỦ TRƯỞNG__
 2 Quy định tại điểm b khoản 1 Điều 2 Thông tư
 
 3 Quy định tại điểm c khoản 1 Điều 2 Thông tư
-
-
 
 __Mẫu số: 01/QĐ-QLDA__
 
@@ -2090,8 +1120,6 @@ __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Số:       /QĐ-...
 
 *............, ngày   tháng   năm*
-
-
 
 __QUYẾT ĐỊNH__
 
@@ -2145,99 +1173,35 @@ __A__
 
 __DỰ TOÁN THU__
 
-
-
-
-
-
-
-
-
 __I__
 
 __Tổng cộng: (1)__
 
 __(I = 1\+2\+3\+4\+5)__
 
-
-
-
-
-
-
-
-
 1
 
 Nguồn thu năm trước chuyển sang
-
-
-
-
-
-
-
-
 
 2
 
 Nguồn thu từ chi phí của dự án được giao quản lý
 
-
-
-
-
-
-
-
-
 3
 
 Dự án điều chỉnh, bổ sung trong năm (nếu có)
-
-
-
-
-
-
-
-
 
 4
 
 Nguồn thu hợp pháp khác của đơn vị
 
-
-
-
-
-
-
-
-
 5
 
 Nguồn NSNN cấp (nếu có)
 
-
-
-
-
-
-
-
-
 __B__
 
 __DỰ TOÁN CHI(2)__
-
-
-
-
-
-
-
-
 
 __I__
 
@@ -2245,233 +1209,79 @@ __Tổng cộng (3)__
 
 __(I= 1\+2\+3\+...\+18)__
 
-
-
-
-
-
-
-
-
 1
 
 Tiền lương
-
-
-
-
-
-
-
-
 
 2
 
 Các khoản phụ cấp lương
 
-
-
-
-
-
-
-
-
 3
 
 Các khoản trích nộp theo lương
-
-
-
-
-
-
-
-
 
 4
 
 Làm thêm giờ
 
-
-
-
-
-
-
-
-
 5
 
 Khen thưởng
-
-
-
-
-
-
-
-
 
 6
 
 Chi phúc lợi tập thể
 
-
-
-
-
-
-
-
-
 7
 
 Thanh toán dịch vụ
-
-
-
-
-
-
-
-
 
 8
 
 Mua vật tư văn phòng
 
-
-
-
-
-
-
-
-
 9
 
 Thanh toán thông tin, tuyên truyền, liên lạc
-
-
-
-
-
-
-
-
 
 10
 
 Hội nghị, Hội thảo
 
-
-
-
-
-
-
-
-
 11
 
 Thanh toán công tác phí
-
-
-
-
-
-
-
-
 
 12
 
 Thuê mướn
 
-
-
-
-
-
-
-
-
 13
 
 Đoàn đi công tác nước ngoài
-
-
-
-
-
-
-
-
 
 14
 
 Đoàn vào
 
-
-
-
-
-
-
-
-
 15
 
 Sửa chữa thường xuyên tài sản
-
-
-
-
-
-
-
-
 
 16
 
 Mua sắm tài sản phục vụ quản lý
 
-
-
-
-
-
-
-
-
 17
 
 Chi khác
-
-
-
-
-
-
-
-
 
 18
 
 Chi dự phòng
 
-
-
-
-
-
-
-
-
 __Điều 2: __Chủ đầu tư, Giám đốc Ban quản lý dự án, cơ quan thanh toán *(cụ thể tên cơ quan)* và các cơ quan, đơn vị có liên quan *(chi tiết các tên đơn vị liên quan)* chịu trách nhiệm thi hành Quyết định này./.
-
-
 
 __*Nơi nhận:*__
 - Như Điều 2;
@@ -2479,8 +1289,6 @@ __*Nơi nhận:*__
 
 __THỦ TRƯỞNG__
 *(Ký, đóng dấu, ghi rõ họ tên)*
-
-
 
 __*Ghi chú:*__
 
@@ -2496,8 +1304,6 @@ __(3)__ Tổng chi của BQLDA thực hiện trong năm kế hoạch.
 
 - Chi mua sắm tài sản phục vụ quản lý (STT 16 Mục I phần B) chỉ có ở BQLDA nhóm I và BQLDA nhóm II chưa có Quỹ phát triển hoạt động sự nghiệp.
 
-
-
 __Mẫu số 02/QĐ-QLDA__
 
 __BQLDA NHÓM II
@@ -2510,8 +1316,6 @@ __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Số:       /QĐ-........
 
 *............, ngày  tháng  năm*
-
-
 
 __QUYẾT ĐỊNH__
 
@@ -2561,98 +1365,34 @@ __A__
 
 __DỰ TOÁN THU__
 
-
-
-
-
-
-
-
-
 __I__
 
 __Tổng thu
 (I = 1\+2\+3\+4\+5)__
 
-
-
-
-
-
-
-
-
 1
 
 Nguồn thu năm trước chuyển sang
-
-
-
-
-
-
-
-
 
 2
 
 Nguồn thu từ chi phí của dự án được giao quản lý
 
-
-
-
-
-
-
-
-
 3
 
 Dự án điều chỉnh, bổ sung trong năm (nếu có)
-
-
-
-
-
-
-
-
 
 4
 
 Nguồn hợp pháp khác của đơn vị (nếu có)
 
-
-
-
-
-
-
-
-
 5
 
 Nguồn ngân sách nhà nước cấp (nếu có)
 
-
-
-
-
-
-
-
-
 __II__
 
 __Nguồn thu chuyển sang năm sau tiếp tục sử dụng__
-
-
-
-
-
-
-
-
 
 __III__
 
@@ -2661,23 +1401,11 @@ __Nguồn thu được sử dụng trong năm
 
 __(e) = (a)\+(b)\+(c)__
 
-
-
-
-
-
-
 1
 
 Nguồn thu được sử dụng trong năm dành cho chi thường xuyên
 
 __(a)__
-
-
-
-
-
-
 
 2
 
@@ -2685,35 +1413,15 @@ Nguồn NSNN cấp cho chi thường xuyên (nếu có)
 
 __(b)__
 
-
-
-
-
-
-
 3
 
 Nguồn NSNN cấp cho chi không thường xuyên (nếu có)
 
 __(c)__
 
-
-
-
-
-
-
 __B__
 
 __DỰ TOÁN CHI__
-
-
-
-
-
-
-
-
 
 __I__
 
@@ -2722,255 +1430,87 @@ __Chi thường xuyên giao tự chủ
 
 __≤ (a)__
 
-
-
-
-
-
-
 1
 
 Tiền lương
-
-
-
-
-
-
-
-
 
 2
 
 Các khoản phụ cấp lương
 
-
-
-
-
-
-
-
-
 3
 
 Các khoản trích nộp theo lương
-
-
-
-
-
-
-
-
 
 4
 
 Làm thêm giờ
 
-
-
-
-
-
-
-
-
 5
 
 Khen thưởng
-
-
-
-
-
-
-
-
 
 6
 
 Chi phúc lợi tập thể
 
-
-
-
-
-
-
-
-
 7
 
 Thanh toán dịch vụ công cộng
-
-
-
-
-
-
-
-
 
 8
 
 Mua vật tư văn phòng
 
-
-
-
-
-
-
-
-
 9
 
 Thanh toán thông tin, tuyên truyền, liên lạc
-
-
-
-
-
-
-
-
 
 10
 
 Hội nghị, Hội thảo
 
-
-
-
-
-
-
-
-
 11
 
 Thanh toán công tác phí
-
-
-
-
-
-
-
-
 
 12
 
 Thuê mướn
 
-
-
-
-
-
-
-
-
 13
 
 Đoàn đi công tác nước ngoài
-
-
-
-
-
-
-
-
 
 14
 
 Đoàn vào
 
-
-
-
-
-
-
-
-
 15
 
 Sửa chữa thường xuyên tài sản
-
-
-
-
-
-
-
-
 
 16
 
 Mua sắm tài sản phục vụ quản lý
 
-
-
-
-
-
-
-
-
 17
 
 Chi khác
-
-
-
-
-
-
-
-
 
 18
 
 Chi dự phòng
 
-
-
-
-
-
-
-
-
 __II__
 
 __NSNN cấp cho chi thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ__
-
-
-
-
-
-
-
-
 
 __III__
 
 __NSNN cấp cho chi không thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ__
 
-
-
-
-
-
-
-
-
 __Điều 2: __Giám đốc Ban quản lý dự án, cơ quan thanh toán *(cụ thể tên cơ quan)* và các đơn vị có liên quan *(chi tiết các tên đơn vị liên quan)* chịu trách nhiệm thi hành Quyết định này./.
-
-
 
 __*Nơi nhận:*__
 - Như Điều 2;
@@ -2981,8 +1521,6 @@ __*Nơi nhận:*__
 __GIÁM ĐỐC__
 *(Ký, đóng dấu, ghi rõ họ tên)*
 
-
-
 __*Ghi chú:*__
 
 - Chi khen thưởng (STT 5 phần B): Thực hiện theo pháp luật về thi đua khen thưởng.
@@ -2990,8 +1528,6 @@ __*Ghi chú:*__
 - Chi về phúc lợi tập thể (STT 6 Mục I phần B): Thực hiện theo pháp luật về phúc lợi tập thể.
 
 - Chi mua sắm tài sản phục vụ quản lý (STT 16 Mục I phần B) chỉ có ở BQLDA nhóm I và BQLDA nhóm II chưa có Quỹ phát triển hoạt động sự nghiệp.
-
-
 
 __Mẫu số: 01/QT-QLDA__
 
@@ -3002,11 +1538,7 @@ __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ---------------__
 
-
-
 *............, ngày   tháng   năm*
-
-
 
 __BÁO CÁO__
 
@@ -3070,597 +1602,109 @@ __A__
 
 __QUYẾT TOÁN THU (1)__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __I__
 
 __Tổng cộng (I= 1\+2\+3\+4)__
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 1
 
 Nguồn thu năm trước chuyển sang
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 2
 
 Nguồn thu từ chi phí của dự án được giao quản lý
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 3
 
 Dự án điều chỉnh, bổ sung trong năm (nếu có)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 4
 
 Nguồn thu hợp pháp khác của đơn vị (nếu có)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 5
 
 Nguồn NSNN cấp (nếu có)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __B__
 
 __QUYẾT TOÁN CHI (2)__
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 __I__
 
 __Tổng cộng (I= 1\+2\+3\+....\+18)__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1
 
 Tiền lương
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 2
 
 Các khoản phụ cấp lương
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 3
 
 Các khoản trích nộp theo lương
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 4
 
 Làm thêm giờ
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 5
 
 Khen thưởng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 6
 
 Chi phúc lợi tập thể
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 7
 
 Thanh toán dịch vụ công cộng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 8
 
 Mua vật tư văn phòng
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 9
 
 Thanh toán thông tin, tuyên truyền
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 10
 
 Hội nghị, Hội thảo
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 11
 
 Thanh toán công tác phí
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 12
 
 Thuê mướn
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 13
 
 Đoàn đi công tác nước ngoài
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 14
 
 Đoàn vào
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 15
 
 Chi sửa chữa thường xuyên tài sản
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 16
 
 Mua sắm tài sản phục vụ quản lý
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 17
 
 Chi khác
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 18
 
 Chi dự phòng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 __Dự kiến phân bổ giá trị quyết toán cho các dự án được giao quản lý cụ thể như sau:__
 
@@ -3676,47 +1720,21 @@ __Giá trị phân bổ
 
 __Ghi chú__
 
-
-
 __Tổng cộng__
 
 ### 10 0
-
-
-
-
 
 1
 
 Dự án A
 
-
-
-
-
-
-
 2
 
 Dự án B
 
-
-
-
-
-
-
 3
 
 ...
-
-
-
-
-
-
-
-
 
 __CHỦ ĐẦU TƯ/BQLDA
 THỦ TRƯỞNG__
@@ -3728,11 +1746,8 @@ Xác nhận:
 - Kinh phí đã thanh toán trong năm là: ... đồng;
 - Kinh phí còn dư là:.... đồng;
 
-
 __THỦ TRƯỞNG__
 *(Ký, đóng dấu, ghi rõ họ tên)*
-
-
 
 __Ghi chú:__
 
@@ -3748,8 +1763,6 @@ __(3)__ Cơ quan thanh toán xác nhận số liệu do cơ quan mình quản l�
 
 - Chi mua sắm tài sản phục vụ quản lý (STT 16 Mục I phần B) chỉ có ở BQLDA nhóm I và BQLDA nhóm II chưa có Quỹ phát triển hoạt động sự nghiệp.
 
-
-
 __Mẫu số: 01.QĐ/QT-QLDA__
 
 __CHỦ ĐẦU TƯ/BQLDA
@@ -3762,8 +1775,6 @@ __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Số:        /QĐ
 
 *............, ngày   tháng   năm*
-
-
 
 __QUYẾT ĐỊNH__
 
@@ -3833,104 +1844,30 @@ __Tổng cộng(1)__
 
 __(I= 1\+2\+3\+4\+5)__
 
-
-
-
-
-
-
-
-
-
-
-
-
 1
 
 Nguồn thu năm trước chuyển sang
-
-
-
-
-
-
-
-
-
-
-
-
 
 2
 
 Nguồn thu từ chi phí của dự án được giao quản lý
 
-
-
-
-
-
-
-
-
-
-
-
-
 3
 
 Dự án điều chỉnh, bổ sung trong năm (nếu có)
-
-
-
-
-
-
-
-
-
-
-
-
 
 4
 
 Nguồn hợp pháp khác của đơn vị (nếu có)
 
-
-
-
-
-
-
-
-
-
-
-
-
 5
 
 NSNN cấp (nếu có)
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### 2 . __Quyết toán chi:__
-
 
 <a id="muc-2-1"></a>
 ### 2.1 . __Phần trích cho chủ đầu tư __(trường hợp phát sinh chi phí quản lý dự án của chủ đầu tư)__: (2)__
-
 
 <a id="muc-2-2"></a>
 ### 2.2 . __Phần BQLDA sử dụng:__
@@ -3978,305 +1915,77 @@ __I__
 __Tổng cộng
 (I=1\+2\+3\+...\+18)__
 
-
-
-
-
-
-
-
-
-
-
-
-
 1
 
 Tiền lương
-
-
-
-
-
-
-
-
-
-
-
-
 
 2
 
 Các khoản phụ cấp lương
 
-
-
-
-
-
-
-
-
-
-
-
-
 3
 
 Các khoản trích nộp theo lương
-
-
-
-
-
-
-
-
-
-
-
-
 
 4
 
 Làm thêm giờ
 
-
-
-
-
-
-
-
-
-
-
-
-
 5
 
 Khen thưởng
-
-
-
-
-
-
-
-
-
-
-
-
 
 6
 
 Chi phúc lợi tập thể
 
-
-
-
-
-
-
-
-
-
-
-
-
 7
 
 Thanh toán dịch vụ công cộng
-
-
-
-
-
-
-
-
-
-
-
-
 
 8
 
 Mua vật tư văn phòng
 
-
-
-
-
-
-
-
-
-
-
-
-
 9
 
 Thanh toán thông tin, tuyên truyền, liên lạc
-
-
-
-
-
-
-
-
-
-
-
-
 
 10
 
 Hội nghị, Hội thảo
 
-
-
-
-
-
-
-
-
-
-
-
-
 11
 
 Thanh toán công tác phí
-
-
-
-
-
-
-
-
-
-
-
-
 
 12
 
 Thuê mướn
 
-
-
-
-
-
-
-
-
-
-
-
-
 13
 
 Đoàn đi công tác nước ngoài
-
-
-
-
-
-
-
-
-
-
-
-
 
 14
 
 Đoàn vào
 
-
-
-
-
-
-
-
-
-
-
-
-
 15
 
 Chi sửa chữa thường xuyên tài sản
-
-
-
-
-
-
-
-
-
-
-
-
 
 16
 
 Mua sắm tài sản phục vụ quản lý
 
-
-
-
-
-
-
-
-
-
-
-
-
 17
 
 Chi khác
 
-
-
-
-
-
-
-
-
-
-
-
-
 18
 
 Chi dự phòng
-
-
-
-
-
-
-
-
-
-
-
-
 
 __Điều 2: __Phân bổ giá trị quyết toán thu, chi năm.... cho các dự án được giao quản lý cụ thể như sau:
 
@@ -4290,39 +1999,19 @@ __Giá trị phân bổ (đồng)__
 
 __Ghi chú__
 
-
-
 Tổng cộng
 
 ### 10 0
-
-
-
-
 
 1
 
 Dự án ...
 
-
-
-
-
-
-
 2
 
 Dự án ...
 
-
-
-
-
-
-
 __Điều 3: __Chủ đầu tư, Giám đốc Ban quản lý dự án, cơ quan thanh toán *(cụ thể tên cơ quan)* và các đơn vị có liên quan *(chi tiết các tên đơn vị liên quan)* chịu trách nhiệm thi hành Quyết định này./.
-
-
 
 __*Nơi nhận:*__
 - Như Điều 3;
@@ -4331,8 +2020,6 @@ __*Nơi nhận:*__
 
 __THỦ TƯỚNG__
 *(Ký, đóng dấu, ghi rõ họ tên)*
-
-
 
 __*Ghi chú:*__
 
@@ -4346,8 +2033,6 @@ __(2)__ Trường hợp phát sinh chi phí QLDA của chủ đầu tư như đi
 
 - Chi mua sắm tài sản phục vụ quản lý (STT 16 Mục I phần B) chỉ có ở BQLDA nhóm I và BQLDA nhóm II chưa có Quỹ phát triển hoạt động sự nghiệp.
 
-
-
 __Mẫu số: 02/QT-QLDA__
 
 __BQLDA NHÓM II
@@ -4360,8 +2045,6 @@ __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Số:         /QĐ
 
 *............, ngày   tháng   năm*
-
-
 
 __BÁO CÁO__
 
@@ -4428,243 +2111,45 @@ __I__
 __Tổng cộng
 (I= 1\+2\+3\+4\+5)__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1
 
 Nguồn thu năm trước chuyển sang
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 2
 
 Nguồn thu từ chi phí của dự án được giao quản lý
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 3
 
 Dự án điều chỉnh, bổ sung trong năm (nếu có)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 4
 
 Nguồn thu hợp pháp khác
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 5
 
 Nguồn NSNN cấp (nếu có)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 __II__
 
 __Số chuyển sang năm sau tiếp tục sử dụng__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __III__
 
 __Nguồn thu được sử dụng trong năm (III)= (I) - (II)__
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 1
 
 Nguồn kinh phí NSNN cấp chi thường xuyên không giao tự chủ (nếu có)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 2
 
 Nguồn thu được sử dụng trong năm dành cho chi thường xuyên
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 3
 
 Nguồn kinh phí NSNN hỗ trợ chi không thường xuyên (nếu có)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 __B. Quyết toán chi__
 
@@ -4723,463 +2208,85 @@ __I__
 __Chi thường xuyên giao tự chủ
 (I=1\+2\+3\+...\+18)__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1
 
 Tiền lương
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 2
 
 Các khoản phụ cấp lương
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 3
 
 Các khoản trích nộp theo lương
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 4
 
 Làm thêm giờ
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 5
 
 Khen thưởng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 6
 
 Chi phúc lợi tập thể
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 7
 
 Thanh toán dịch vụ công cộng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 8
 
 Mua vật tư văn phòng
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 9
 
 Thanh toán thông tin, tuyên truyền, liên lạc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 10
 
 Hội nghị, Hội thảo
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 11
 
 Thanh toán công tác phí
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 12
 
 Thuê mướn
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 13
 
 Đoàn đi công tác nước ngoài
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 14
 
 Đoàn vào
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 15
 
 Sửa chữa thường xuyên tài sản
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 16
 
 Mua sắm tài sản phục vụ quản lý
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 17
 
 Chi khác
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 18
 
 Chi dự phòng
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __II__
 
 __NSNN cấp cho chi thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __III__
 
 __NSNN cấp cho chi không thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ__
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 __C. Sử dụng các Quỹ__
 
@@ -5209,65 +2316,21 @@ __Số dư chuyển sang năm sau__
 
 6=3\+4-5
 
-
-
 __Tổng số__
-
-
-
-
-
-
-
-
 
 1
 
 Quỹ phát triển hoạt động sự nghiệp
 
-
-
-
-
-
-
-
-
 2
 
 Quỹ bổ sung thu nhập
 
-
-
-
-
-
-
-
-
 Trong đó: Chi thu nhập tăng thêm
-
-
-
-
-
-
-
-
 
 3
 
 Quỹ khen thưởng, Quỹ phúc lợi
-
-
-
-
-
-
-
-
-
-
 
 __Phân bổ giá trị quyết toán cho các dự án được giao quản lý, cụ thể như sau:__
 
@@ -5281,47 +2344,21 @@ __Giá trị phân bổ (đồng)__
 
 __Ghi chú__
 
-
-
 __Tổng cộng__
 
 ### 10 0
-
-
-
-
 
 1
 
 Dự án A
 
-
-
-
-
-
-
 2
 
 Dự án B
 
-
-
-
-
-
-
 3
 
 ....
-
-
-
-
-
-
-
-
 
 __CHỦ ĐẦU TƯ/BQLDA
 THỦ TRƯỞNG__
@@ -5333,11 +2370,8 @@ Xác nhận:
 - Kinh phí đã thanh toán trong năm: .... đồng;
 - Kinh phí còn dư là:..... đồng;
 
-
 __THỦ TRƯỞNG__
 *(Ký, đóng dấu, ghi rõ họ tên)*
-
-
 
 __*Ghi chú:*__
 
@@ -5351,8 +2385,6 @@ __(2) __Cơ quan thanh toán xác nhận số liệu do cơ quan mình quản l�
 
 - Chi mua sắm tài sản phục vụ quản lý (STT 16 Mục I phần B) chỉ có ở BQLDA nhóm I và BQLDA nhóm II chưa có Quỹ phát triển hoạt động sự nghiệp.
 
-
-
 __                                                                                                                  ____Mẫu số: 02.QĐ/QT-QLDA__
 
 __CƠ QUAN TÀI CHÍNH
@@ -5365,8 +2397,6 @@ __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Số:         /QĐ-...
 
 *............, ngày   tháng   năm*
-
-
 
 __QUYẾT ĐỊNH__
 
@@ -5397,10 +2427,6 @@ __Nội dung__
 __Dự toán điều chỉnh lần cuối__
 
 __Quyết toán được duyệt__
-
-
-
-
 
 __Tổng số__
 
@@ -5435,177 +2461,45 @@ __I__
 __Tổng cộng
 (I= 1\+2\+3\+4\+5)__
 
-
-
-
-
-
-
-
-
-
-
-
-
 1
 
 Nguồn thu năm trước chuyển sang
-
-
-
-
-
-
-
-
-
-
-
-
 
 2
 
 Nguồn thu từ chi phí của dự án được giao quản lý
 
-
-
-
-
-
-
-
-
-
-
-
-
 3
 
 Nguồn thu hợp pháp khác của đơn vị (nếu có)
-
-
-
-
-
-
-
-
-
-
-
-
 
 4
 
 Dự án điều chỉnh, bổ sung trong năm (nếu có)
 
-
-
-
-
-
-
-
-
-
-
-
-
 5
 
 Nguồn NSNN cấp (nếu có)
-
-
-
-
-
-
-
-
-
-
-
-
 
 __II__
 
 __Nguồn thu chuyển sang năm sau tiếp tục sử dụng__
 
-
-
-
-
-
-
-
-
-
-
-
-
 __III__
 
 __Nguồn thu được sử dụng trong năm (III=I-II)__
-
-
-
-
-
-
-
-
-
-
-
-
 
 1
 
 Nguồn kinh phí NSNN cấp chi thường xuyên không giao tự chủ (nếu có)
 
-
-
-
-
-
-
-
-
-
-
-
-
 2
 
 Nguồn thu được sử dụng trong năm dành cho chi thường xuyên giao tự chủ
 
-
-
-
-
-
-
-
-
-
-
-
-
 3
 
 Nguồn kinh phí NSNN hỗ trợ chi không thường xuyên (nếu có)
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### 2 Quyết toán chi:
 
@@ -5666,463 +2560,85 @@ __I__
 __Chi thường xuyên giao tự chủ
 (I= 1\+2\+3\+...\+18)__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1
 
 Tiền lương
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 2
 
 Các khoản phụ cấp lương
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 3
 
 Các khoản trích nộp theo lương
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 4
 
 Làm thêm giờ
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 5
 
 Khen thưởng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 6
 
 Chi về phúc lợi tập thể
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 7
 
 Thanh toán dịch vụ công cộng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 8
 
 Mua vật tư văn phòng
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 9
 
 Thanh toán thông tin, tuyên truyền, liên lạc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 10
 
 Hội nghị, Hội thảo
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 11
 
 Công tác phí
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 12
 
 Thuê mướn
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 13
 
 Đoàn đi công tác nước ngoài
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 14
 
 Đoàn vào
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 15
 
 Chi sửa chữa thường xuyên tài sản
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 16
 
 Mua sắm tài sản phục vụ quản lý
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 17
 
 Chi khác
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 18
 
 Chi dự phòng
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __II__
 
 __NSNN cấp cho chi thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __III__
 
 __NSNN cấp cho chi không thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ__
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### 3 . __Quyết toán trích lập các Quỹ__
 
@@ -6138,29 +2654,19 @@ __Quyết toán__
 
 __Tổng số (1=2\+3\+4)__
 
-
-
 2
 
 Quỹ phát triển hoạt động sự nghiệp
-
-
 
 3
 
 Quỹ bổ sung thu nhập
 
-
-
 Trong đó: Chi thu nhập tăng thêm
-
-
 
 4
 
 Quỹ khen thưởng, Quỹ phúc lợi
-
-
 
 __Điều 2: __Phân bổ giá trị quyết toán chi phí quản lý dự án năm.... cho các dự án được giao quản lý; cụ thể như sau:
 
@@ -6176,49 +2682,23 @@ __Giá trị phân bổ
 
 __Ghi chú__
 
-
-
 __Tổng cộng__
 
 ### 10 0
-
-
-
-
 
 1
 
 Dự án A
 
-
-
-
-
-
-
 2
 
 Dự án B
-
-
-
-
-
-
 
 3
 
 ....
 
-
-
-
-
-
-
 __Điều 3: __Giám đốc Ban quản lý dự án, cơ quan thanh toán *(cụ thể tên cơ quan) *và các đơn vị có liên quan *(chi tiết các tên đơn vị liên quan)* chịu trách nhiệm thi hành Quyết định này./.
-
-
 
 __*Nơi nhận:*__
 - Như Điều 3;
@@ -6227,8 +2707,6 @@ __*Nơi nhận:*__
 
 __THỦ TRƯỞNG__
 *(Ký, đóng dấu, ghi rõ họ tên)*
-
-
 
 __*Ghi chú:*__
 

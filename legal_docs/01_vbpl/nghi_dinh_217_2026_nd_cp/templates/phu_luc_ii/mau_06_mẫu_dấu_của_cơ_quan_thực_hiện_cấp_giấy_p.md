@@ -17,8 +17,6 @@ __Mẫu số 06__
 __MẪU DẤU CỦA CƠ QUAN THỰC HIỆN CẤP GIẤY PHÉP XÂY DỰNG__
 (Kích thước mẫu dấu: chiều rộng từ 4 cm đến 6 cm; chiều dài từ 6 cm đến 9 cm)
 
-
-
 __(TÊN CƠ QUAN THỰC HIỆN
 CẤP PHÉP XÂY DỰNG)__
 

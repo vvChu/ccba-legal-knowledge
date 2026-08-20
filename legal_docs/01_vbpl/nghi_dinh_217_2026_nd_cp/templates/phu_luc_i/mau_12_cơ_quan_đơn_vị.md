@@ -27,8 +27,6 @@ V/v thông báo kết quả thẩm định thiết kế xây dựng triển khai
 
 *..., ngày ... tháng ... năm ...*
 
-
-
 Kính gửi: *(Tên chủ đầu tư).*
 
 *(Cơ quan/đơn vị được giao thẩm định)* đã nhận Văn bản số .... ngày .... tháng... năm ... của ... đề nghị thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt *(tên công trình/bộ phận công trình)* thuộc dự án *(tên dự án).*
@@ -110,8 +108,6 @@ __VI.__ __KẾT LUẬN VÀ KIẾN NGHỊ__
 Thiết kế xây dựng triển khai sau khi dự án được phê duyệt ... (tên công trình/dự án) đủ điều kiện/chưa đủ điều kiện/ chỉ đủ điều kiện sau khi hoàn thiện các nội dung yêu cầu để tổng hợp, trình phê duyệt và triển khai các bước tiếp theo.
 
 Yêu cầu sửa đổi, bổ sung, hoàn thiện (nếu có).
-
-
 
 __*Nơi nhận:*__
 - Như trên;

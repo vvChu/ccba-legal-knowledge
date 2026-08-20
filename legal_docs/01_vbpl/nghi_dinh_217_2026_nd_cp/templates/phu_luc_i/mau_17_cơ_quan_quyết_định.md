@@ -25,8 +25,6 @@ Số: ...
 
 *..., ngày ... tháng ... năm ...*
 
-
-
 __QUYẾT ĐỊNH__
 
 __Ban hành Lệnh xây dựng công trình khẩn cấp
@@ -73,8 +71,6 @@ __Điều 2. __Tổ chức thực hiện.
 __Điều 3. __Quyết định này có hiệu lực thi hành kể từ ngày ký.
 
 __Điều 4. __Tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
-
-
 
 __*Nơi nhận:*__
 - Như Điều 4;

@@ -26,8 +26,6 @@ Số: ...
 
 *..., ngày ... tháng ... năm ...*
 
-
-
 __PHIẾU THÔNG BÁO TẠM DỪNG THẨM ĐỊNH__
 
 Kính gửi: *(Cơ quan chuẩn bị dự án).*
@@ -47,8 +45,6 @@ Căn cứ quy định tại khoản 4 Điều 36 Nghị định số ... /NĐ-CP
 Căn cứ quy định tại khoản 5 Điều 36 Nghị định số ... /NĐ-CP ngày …/…/… của Chính phủ, sau thời hạn 20 ngày làm việc kể từ ngày nhận được Thông báo này mà *(cơ quan chuẩn bị dự án)* không thực hiện việc bổ sung hồ sơ thì *(cơ quan chuyên môn về xây dựng)* sẽ dừng việc thẩm định. Đề nghị *(cơ quan chuẩn bị dự án)* liên hệ Bộ phận một cửa để nhận lại hồ sơ và trình thẩm định lại khi có yêu cầu.
 
 Trên đây là ý kiến của *(cơ quan chuyên môn về xây dựng),* đề nghị *(tên đơn vị trình)* nghiên cứu, thực hiện theo quy định.
-
-
 
 __*Nơi nhận:*__
 - Như trên;

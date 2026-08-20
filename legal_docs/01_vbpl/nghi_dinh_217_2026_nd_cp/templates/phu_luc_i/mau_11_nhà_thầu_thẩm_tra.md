@@ -26,8 +26,6 @@ Số: ...
 
 *..., ngày ... tháng ... năm ...*
 
-
-
 __BÁO CÁO KẾT QUẢ THẨM TRA THIẾT KẾ XÂY DỰNG TRIỂN KHAI SAU KHI DỰ ÁN ĐƯỢC PHÊ DUYỆT__
 __(Tên công trình ...)__
 
@@ -144,8 +142,6 @@ __CHỦ NHIỆM, CHỦ TRÌ THẨM TRA CỦA TỪNG BỘ MÔN__
 - ......................................
 
 *(Kết quả thẩm tra được bổ sung thêm một số nội dung khác nhằm đáp ứng yêu cầu thẩm tra của chủ đầu tư và nhà thầu thẩm tra thiết kế xây dựng, việc đóng dấu thẩm tra tại các bản vẽ được thực hiện sau khi nhà thầu thiết kế đã chỉnh sửa, hoàn thiện hồ sơ theo yêu cầu của nhà thầu thẩm tra thiết kế xây dựng).*
-
-
 
 __*Nơi nhận:*__
 - Như trên;

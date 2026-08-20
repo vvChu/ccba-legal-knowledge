@@ -26,8 +26,6 @@ Số: ...
 
 *..., ngày ... tháng ... năm ...*
 
-
-
 __BÁO CÁO KẾT QUẢ THẨM TRA
 ____THIẾT KẾ XÂY DỰNG1 ____*(tên công trình)* TRONG BÁO CÁO__
 __NGHIÊN CỨU KHẢ THI *(tên dự án...)*__
@@ -122,8 +120,6 @@ __CHỦ NHIỆM, CHỦ TRÌ THẨM TRA CỦA TỪNG BỘ MÔN THIẾT KẾ__
 
 *(Kết quả thẩm tra được bổ sung thêm một số nội dung khác nhằm đáp ứng yêu cầu thẩm tra của cơ quan chuẩn bị dự án và nhà thầu thẩm tra thiết kế xây dựng, việc đóng dấu thẩm tra tại các bản vẽ được thực hiện sau khi nhà thầu tư vấn thiết kế đã chỉnh sửa, hoàn thiện hồ sơ theo yêu cầu của nhà thầu thẩm tra thiết kế xây dựng).*
 
-
-
 __*Nơi nhận:*__
 - Như trên;
 - Lưu:..............
@@ -131,8 +127,6 @@ __*Nơi nhận:*__
 __NHÀ THẦU THẨM TRA THIẾT KẾ__
 __XÂY DỰNG__
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*
-
-
 
 _________________________________
 

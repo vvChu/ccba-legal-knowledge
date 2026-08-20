@@ -27,8 +27,6 @@ V/v thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi *(t
 
 *..., ngày ... tháng ... năm ...*
 
-
-
 Kính gửi: *(Cơ quan chuẩn bị dự án).*
 
 - (Cơ quan chuyên môn về xây dựng)* đã nhận Tờ trình số ... ngày ... tháng ... năm ... của *(cơ quan chuẩn bị dự án)* trình thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án).*
@@ -124,8 +122,6 @@ Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án)* 
 - Yêu cầu sửa đổi, bổ sung, hoàn thiện (nếu có).
 
 Trên đây là thông báo của *(cơ quan chuyên môn về xây dựng)* về kết quả thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án).* Đề nghị *(cơ quan chuẩn bị dự án)* nghiên cứu thực hiện theo quy định.
-
-
 
 __*Nơi nhận:*__
 - Như trên;

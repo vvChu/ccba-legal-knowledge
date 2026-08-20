@@ -25,7 +25,6 @@ QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA LU�
 
 __NHỮNG QUY ĐỊNH CHUNG__
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
 
@@ -45,12 +44,10 @@ d) Điều 85 về tạm dừng và chấm dứt hợp đồng xây dựng;
 <a id="dieu-1-khoan-2"></a>
 2. Biện pháp để tổ chức, hướng dẫn thi hành Luật Xây dựng về yêu cầu đối với việc quản lý thực hiện hợp đồng, hợp đồng thầu phụ.
 
-
 <a id="dieu-2"></a>
 ### Điều 2. Đối tượng áp dụng
 
 Nghị định này áp dụng đối với bên giao thầu, bên nhận thầu và các tổ chức, cá nhân liên quan đến việc giao kết và quản lý thực hiện hợp đồng xây dựng.
-
 
 <a id="dieu-3"></a>
 ### Điều 3. Giải thích từ ngữ
@@ -86,7 +83,6 @@ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sa
 
 <a id="dieu-3-khoan-10"></a>
 10. Công việc của hợp đồng là toàn bộ các công việc mà bên nhận thầu có nghĩa vụ phải thực hiện để tạo ra, hoàn thành sản phẩm của hợp đồng, đáp ứng các yêu cầu của hợp đồng.
-
 
 <a id="dieu-4"></a>
 ### Điều 4. Nguyên tắc giao kết hợp đồng xây dựng, yêu cầu đối với việc quản lý thực hiện hợp đồng xây dựng
@@ -145,7 +141,6 @@ c) Trước khi tiến hành mua sắm vật tư, thiết bị thuộc phạm vi
 <a id="dieu-4-khoan-8"></a>
 8. Đối với hợp đồng giao dịch điện tử trong xây dựng (là hợp đồng xây dựng được thực hiện bằng phương tiện điện tử theo quy định của pháp luật về giao dịch điện tử), việc giao kết và quản lý thực hiện hợp đồng xây dựng phải tuân thủ quy định pháp luật về giao dịch điện tử.
 
-
 <a id="dieu-5"></a>
 ### Điều 5. Căn cứ giao kết hợp đồng xây dựng
 
@@ -163,7 +158,6 @@ c) Trước khi tiến hành mua sắm vật tư, thiết bị thuộc phạm vi
 __NHỮNG QUY ĐỊNH CỤ THỂ__
 
 __Mục 1. PHÂN LOẠI, NỘI DUNG VÀ HỒ SƠ HỢP ĐỒNG XÂY DỰNG__
-
 
 <a id="dieu-6"></a>
 ### Điều 6. Phân loại và phạm vi áp dụng hợp đồng xây dựng
@@ -221,7 +215,6 @@ c) Hợp đồng giao khoán nội bộ là hợp đồng giữa bên giao thầ
 
 d) Hợp đồng xây dựng có yếu tố nước ngoài là hợp đồng xây dựng có ít nhất một trong các bên tham gia giao kết hợp đồng là tổ chức, cá nhân nước ngoài.
 
-
 <a id="dieu-7"></a>
 ### Điều 7. Nội dung hợp đồng xây dựng; hồ sơ hợp đồng xây dựng và thứ tự ưu tiên của các tài liệu hợp đồng xây dựng; thông tin về hợp đồng xây dựng
 
@@ -236,7 +229,6 @@ a) Loại hợp đồng, số hợp đồng, tên công việc, tên gói thầu
 b) Tên giao dịch của các bên giao kết hợp đồng, đại diện của các bên, địa chỉ đăng ký kinh doanh hay địa chỉ giao dịch, mã số thuế, giấy chứng nhận đăng ký doanh nghiệp (nếu có), số tài khoản, điện thoại, fax, e-mail, thời gian và địa điểm giao kết hợp đồng, các thông tin liên quan khác;
 
 c) Trường hợp bên nhận thầu là nhà thầu liên danh thì ghi đầy đủ thông tin của các thành viên trong liên danh theo quy định tại điểm b khoản này, trong đó cần ghi rõ thành viên đứng đầu liên danh.
-
 
 <a id="dieu-8"></a>
 ### Điều 8. Nội dung và khối lượng công việc của hợp đồng xây dựng
@@ -263,7 +255,6 @@ g) Đối với hợp đồng EPC: thực hiện thiết kế sau thiết kế c
 
 h) Đối với hợp đồng chìa khóa trao tay: lập Báo cáo nghiên cứu khả thi; khảo sát, thiết kế; cung cấp thiết bị và thi công xây dựng công trình; đào tạo và hướng dẫn vận hành, bảo dưỡng, bảo trì, sửa chữa; chuyển giao công nghệ; vận hành thử không tải và có tải; bàn giao công trình sẵn sàng đi vào hoạt động cho bên giao thầu và những công việc khác theo đúng chủ trương đầu tư, dự án đầu tư được phê duyệt.
 
-
 <a id="dieu-9"></a>
 ### Điều 9. Yêu cầu về chất lượng, kỹ thuật áp dụng; nghiệm thu và bàn giao sản phẩm của hợp đồng xây dựng
 
@@ -282,7 +273,6 @@ b) Sản phẩm hợp đồng được nghiệm thu, bàn giao phải đáp ứn
 c) Đối với những công việc theo yêu cầu phải được nghiệm thu trước khi chuyển qua các công việc khác, bên nhận thầu phải thông báo trước cho bên giao thầu để nghiệm thu theo quy định của pháp luật về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng.
 
 d) Đối với các sản phẩm sai sót (chưa bảo đảm yêu cầu của hợp đồng) thì phải được kiểm tra, đánh giá, khắc phục; trường hợp không khắc phục được thì phải loại bỏ, thay thế; trừ trường hợp các bên có thỏa thuận khác, đảm bảo phù hợp quy định của pháp luật. Bên nào gây ra sai sót thì bên đó phải chịu toàn bộ chi phí liên quan đến khắc phục, thay thế, thí nghiệm, kiểm định (nếu có) và các chi phí khác liên quan đến việc khắc phục sai sót, cũng như tiến độ thực hiện hợp đồng.
-
 
 <a id="dieu-10"></a>
 ### Điều 10. Thời gian và tiến độ thực hiện hợp đồng xây dựng
@@ -309,7 +299,6 @@ d) Đối với hợp đồng EC, EP, EPC, hợp đồng chìa khóa trao tay, n
 
 <a id="dieu-10-khoan-5"></a>
 5. Khuyến khích việc cập nhật, theo dõi tiến độ bằng hệ thống số, phần mềm quản lý dự án hoặc nền tảng dữ liệu số.
-
 
 <a id="dieu-11"></a>
 ### Điều 11. Giá hợp đồng xây dựng và phạm vi áp dụng
@@ -338,7 +327,6 @@ e) Hợp đồng theo kết quả đầu ra được áp dụng phổ biến đ�
 g) Hợp đồng theo tỷ lệ phần trăm được áp dụng phổ biến đối với dịch vụ tư vấn xây dựng, bảo hiểm trong hoạt động xây dựng. Đối với dự án đầu tư công, hợp đồng theo tỷ lệ phần trăm được áp dụng đối với bảo hiểm trong hoạt động xây dựng;
 
 h) Hợp đồng hỗn hợp được áp dụng phổ biến đối với hợp đồng có thể áp dụng một số hình thức giá hợp đồng quy định tại các điểm a, b, c, d, đ, e, g khoản này cho các phần công việc khác nhau thuộc phạm vi công việc của hợp đồng.
-
 
 <a id="dieu-12"></a>
 ### Điều 12. Tạm ứng hợp đồng xây dựng
@@ -376,7 +364,6 @@ l) Trường hợp các bên thỏa thuận tạm ứng ở mức cao hơn mức
 
 m) Tiền tạm ứng được thu hồi dần qua các lần thanh toán, mức thu hồi của từng lần do hai bên thống nhất ghi trong hợp đồng nhưng phải bảo đảm tiền tạm ứng được thu hồi hết khi giá trị thanh toán (bao gồm tạm ứng hợp đồng, thanh toán khối lượng hoàn thành) cộng dồn đạt 80% giá hợp đồng đã giao kết.
 
-
 <a id="dieu-13"></a>
 ### Điều 13. Bảo đảm thực hiện các nghĩa vụ trong hợp đồng xây dựng
 
@@ -410,7 +397,6 @@ Khuyến khích bên nhận thầu cam kết kéo dài thời hạn bảo hành 
 
 h) Trường hợp bên nhận thầu là nhà thầu liên danh thì từng thành viên phải nộp bảo đảm thực hiện nghĩa vụ trong hợp đồng xây dựng cho bên giao thầu, mức bảo đảm tương ứng với phần giá trị, nghĩa vụ phải thực hiện biện pháp bảo đảm của từng thành viên. Trường hợp các thành viên liên danh có thỏa thuận nhà thầu đứng đầu liên danh nộp bảo đảm thực hiện nghĩa vụ trong hợp đồng xây dựng thì nhà thầu đứng đầu liên danh nộp bảo đảm thực hiện nghĩa vụ cho bên giao thầu; việc thực hiện nghĩa vụ bảo đảm của từng thành viên trong liên danh đối với nhà thầu đứng đầu liên danh thực hiện theo thỏa thuận liên danh giữa các bên.
 
-
 <a id="dieu-14"></a>
 ### Điều 14. Quyền, nghĩa vụ và trách nhiệm chung của các bên tham gia hợp đồng xây dựng
 
@@ -422,7 +408,6 @@ h) Trường hợp bên nhận thầu là nhà thầu liên danh thì từng th�
 
 <a id="dieu-14-khoan-3"></a>
 3. Ngoài quy định tại các khoản 1, 2 Điều này, các bên tham gia hợp đồng xây dựng có quyền, nghĩa vụ và trách nhiệm cụ thể được quy định tại Điều 15, 16 Nghị định này tương ứng với loại công việc trong hợp đồng xây dựng.
-
 
 <a id="dieu-15"></a>
 ### Điều 15. Quyền, nghĩa vụ và trách nhiệm của bên giao thầu
@@ -458,7 +443,6 @@ e) Phối hợp với bên nhận thầu trong quá trình đào tạo, chuyển
 g) Đối với hợp đồng EPC, EC, EP được xác lập thông qua đàm phán, lựa chọn nhà thầu EPC, EC, EP trên cơ sở thiết kế cơ sở hoặc thiết kế FEED được phê duyệt: nghiệm thu, thẩm định, phê duyệt hoặc trình cơ quan có thẩm quyền thẩm định, phê duyệt kịp thời các thiết kế xây dựng triển khai sau cơ sở thiết kế cơ sở hoặc thiết kế FEED theo thỏa thuận của hợp đồng và quy định tại Nghị định của Chính phủ quy định chi tiết một số điều của Luật Xây dựng về quản lý hoạt động xây dựng;
 
 h) Đối với hợp đồng chìa khóa trao tay: ngoài các nghĩa vụ và trách nhiệm quy định tại điểm a, b, c, d, đ, e khoản này, thì bên giao thầu còn nghĩa vụ và trách nhiệm nghiệm thu Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật để người có thẩm quyền thẩm định, phê duyệt hoặc thẩm định, phê duyệt theo thẩm quyền.
-
 
 <a id="dieu-16"></a>
 ### Điều 16. Quyền, nghĩa vụ và trách nhiệm của bên nhận thầu
@@ -501,7 +485,6 @@ k) Đối với hợp đồng EPC, EC, EP được xác lập thông qua đàm p
 
 l) Đối với hợp đồng chìa khóa trao tay: Ngoài các nghĩa vụ và trách nhiệm quy định tại điểm a, b, c, d, đ, e, g, h, i khoản này, thì bên nhận thầu hợp đồng chìa khóa trao tay còn nghĩa vụ lập Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật, tham gia bảo vệ dự án cùng bên giao thầu trước người có thẩm quyền và hoàn thiện sản phẩm hợp đồng theo yêu cầu của bên giao thầu phù hợp với các thỏa thuận trong hợp đồng.
 
-
 <a id="dieu-17"></a>
 ### Điều 17. Giải quyết tranh chấp hợp đồng xây dựng
 
@@ -519,7 +502,6 @@ a) Các bên thỏa thuận cụ thể trong hợp đồng về thời điểm t
 b) Các thành viên tham gia ban xử lý tranh chấp được lựa chọn phải đảm bảo khách quan, độc lập, không xung đột lợi ích với các bên;
 
 c) Chi phí chi trả cho các thành viên tham gia ban xử lý tranh chấp và các chi phí khác có liên quan do mỗi bên chịu một nửa, trừ trường hợp các bên có thỏa thuận khác.
-
 
 <a id="dieu-18"></a>
 ### Điều 18. Rủi ro, sự kiện bất khả kháng và hoàn cảnh thay đổi cơ bản
@@ -539,7 +521,6 @@ b) Phương pháp, nội dung và thủ tục sửa đổi hợp đồng xây d�
 
 <a id="dieu-18-khoan-4"></a>
 4. Quá trình thực hiện hợp đồng xây dựng, khi một bên không thể thực hiện hoặc thực hiện không đầy đủ nghĩa vụ theo hợp đồng do sự kiện bất khả kháng hoặc hoàn cảnh thay đổi cơ bản thì phải có trách nhiệm thông báo bằng văn bản cho bên kia và đề xuất phương án xử lý nhằm bảo đảm phòng ngừa, giảm thiểu và xử lý rủi ro phát sinh.
-
 
 <a id="dieu-19"></a>
 ### Điều 19. Hợp đồng thầu phụ
@@ -570,7 +551,6 @@ c) Nhà thầu chính có quyền từ chối nhà thầu phụ do chủ đầu 
 <a id="dieu-19-khoan-4"></a>
 4. Nhà thầu phụ có các quyền, nghĩa vụ và trách nhiệm của bên nhận thầu theo quy định của Nghị định này và quy định của pháp luật khác có liên quan.
 
-
 <a id="dieu-20"></a>
 ### Điều 20. Bảo hiểm và bảo hành sản phẩm của hợp đồng xây dựng
 
@@ -582,7 +562,6 @@ c) Nhà thầu chính có quyền từ chối nhà thầu phụ do chủ đầu 
 
 <a id="dieu-20-khoan-3"></a>
 3. Biện pháp và mức bảo đảm bảo hành đối với các hợp đồng xây dựng thuộc dự án đầu tư công, dự án PPP thực hiện theo quy định tại khoản 2 Điều 13 Nghị định này.
-
 
 <a id="dieu-21"></a>
 ### Điều 21. Khiếu nại trong quá trình thực hiện hợp đồng xây dựng
@@ -603,7 +582,6 @@ c) Nhà thầu chính có quyền từ chối nhà thầu phụ do chủ đầu 
 5. Các khiếu nại không được giải quyết bởi các bên tham gia hợp đồng sẽ được giải quyết theo trình tự theo giải quyết tranh chấp hợp đồng theo thỏa thuận của các bên và quy định tại Điều 17 Nghị định này.
 
 __Mục 2. PHƯƠNG PHÁP, NỘI DUNG VÀ THỦ TỤC SỬA ĐỔI HỢP ĐỒNG XÂY DỰNG__
-
 
 <a id="dieu-22"></a>
 ### Điều 22. Nội dung, phương pháp và thủ tục sửa đổi hợp đồng xây dựng
@@ -638,7 +616,6 @@ c) Các bên tiến hành thương thảo các nội dung cần sửa đổi và
 
 d) Trường hợp sửa đổi hợp đồng dẫn đến phải điều chỉnh chủ trương đầu tư, Báo cáo nghiên cứu khả thi, thiết kế xây dựng triển khai sau khi thiết kế được phê duyệt, chi phí đầu tư xây dựng (tổng mức đầu tư xây dựng, dự toán xây dựng, dự toán gói thầu,...), nhiệm vụ, phương án khảo sát xây dựng, nhiệm vụ thiết kế, giám sát và các nội dung khác có liên quan, thì bên giao thầu phải tổ chức thực hiện điều chỉnh các nội dung này theo đúng quy định trước khi giao kết văn bản sửa đổi hợp đồng.
 
-
 <a id="dieu-23"></a>
 ### Điều 23. Điều chỉnh khối lượng, công việc trong hợp đồng xây dựng
 
@@ -656,7 +633,6 @@ c) Trường hợp điều chỉnh khối lượng, công việc giữa các th�
 
 <a id="dieu-23-khoan-3"></a>
 3. Đối với khối lượng, công việc phát sinh hợp lý thì các bên tham gia hợp đồng thỏa thuận, thống nhất về đơn giá hoặc nguyên tắc, phương pháp xác định đơn giá, điều chỉnh đơn giá theo quy định tại Điều 24 Nghị định này làm cơ sở để sửa đổi hợp đồng trước khi thực hiện khối lượng, công việc phát sinh này. Đối với các hợp đồng xây dựng thuộc các dự án đầu tư công, dự án PPP, trường hợp không thỏa thuận được, việc lựa chọn nhà thầu để thực hiện khối lượng, công việc phát sinh thực hiện theo quy định pháp luật về đấu thầu.
-
 
 <a id="dieu-24"></a>
 ### Điều 24. Điều chỉnh đơn giá và giá hợp đồng xây dựng
@@ -685,7 +661,6 @@ e) Nguồn thông tin về giá hoặc nguồn chỉ số giá, phương pháp �
 
 g) Việc quản lý và thanh toán giá trị điều chỉnh giá đã được các bên thỏa thuận cụ thể trong hợp đồng không yêu cầu phải giao kết văn bản sửa đổi hợp đồng.
 
-
 <a id="dieu-25"></a>
 ### Điều 25. Điều chỉnh thời gian và tiến độ thực hiện hợp đồng xây dựng
 
@@ -696,7 +671,6 @@ g) Việc quản lý và thanh toán giá trị điều chỉnh giá đã đư�
 2. Đối với các hợp đồng xây dựng thuộc dự án đầu tư công, dự án PPP, trường hợp điều chỉnh thời gian hoặc tiến độ thực hiện hợp đồng dẫn đến vượt thời gian thực hiện dự án thì chủ đầu tư phải báo cáo người quyết định đầu tư xem xét, quyết định điều chỉnh thời gian thực hiện dự án trước khi các bên thỏa thuận điều chỉnh thời gian, tiến độ thực hiện hợp đồng.
 
 __Mục 3. TẠM DỪNG VÀ CHẤM DỨT HỢP ĐỒNG XÂY DỰNG__
-
 
 <a id="dieu-26"></a>
 ### Điều 26. Tạm dừng hợp đồng xây dựng
@@ -712,7 +686,6 @@ a) Bên nhận thầu được tạm dừng thực hiện hợp đồng xây d�
 b) Một bên được tạm dừng thực hiện hợp đồng khi bên kia không thực hiện nghĩa vụ bảo đảm thực hiện các nghĩa vụ trong hợp đồng xây dựng theo quy định tại Điều 83 Luật Xây dựng và các quy định tại Điều 13 Nghị định này;
 
 c) Bên tạm dừng thực hiện công việc trong hợp đồng phải thông báo cho bên kia biết bằng văn bản; trong đó nêu rõ lý do tạm dừng thực hiện. Thời gian thông báo phải được thỏa thuận trong hợp đồng xây dựng, tối đa không quá 28 ngày, trừ trường hợp xảy ra sự kiện bất khả kháng ảnh hưởng đến việc thực hiện hợp đồng. Các bên có trách nhiệm cùng thương lượng giải quyết để tiếp tục thực hiện đúng thỏa thuận hợp đồng đã giao kết. Trường hợp, bên tạm dừng thực hiện hợp đồng không thông báo hoặc lý do tạm dừng không phù hợp với quy định của hợp đồng thì phải bồi thường thiệt hại cho phía bên kia theo quy định tại khoản 2 Điều 86 Luật Xây dựng.
-
 
 <a id="dieu-27"></a>
 ### Điều 27. Chấm dứt hợp đồng xây dựng
@@ -751,7 +724,6 @@ d) Bên giao thầu không thanh toán cho bên nhận thầu quá 56 ngày kể
 Ngoài thời gian nêu trên, trường hợp một bên không tiến hành thanh lý hợp đồng thì việc đơn phương thanh lý hợp đồng thực hiện theo quy định tại khoản 1 Điều 31 Nghị định này.
 
 __Mục 4. THANH TOÁN, QUYẾT TOÁN VÀ THANH LÝ HỢP ĐỒNG XÂY DỰNG__
-
 
 <a id="dieu-28"></a>
 ### Điều 28. Thanh toán hợp đồng xây dựng
@@ -796,7 +768,6 @@ m) Đối với các hợp đồng xây dựng thuộc các dự án đầu tư 
 
 <a id="dieu-28-khoan-5"></a>
 5. Bên giao thầu có trách nhiệm thanh toán đầy đủ và đúng thời hạn theo các thỏa thuận trong hợp đồng cho bên nhận thầu. Trường hợp bên giao thầu chậm thanh toán thì phải trả lãi đối với số tiền chậm trả tương ứng với thời gian chậm trả. Lãi suất chậm thanh toán do các bên thỏa thuận trong hợp đồng; trường hợp không có thỏa thuận thì xác định theo lãi suất quá hạn do ngân hàng thương mại nơi bên nhận thầu mở tài khoản thanh toán công bố tương ứng với các thời kỳ chậm thanh toán.
-
 
 <a id="dieu-29"></a>
 ### Điều 29. Hồ sơ thanh toán hợp đồng xây dựng
@@ -883,7 +854,6 @@ c) Đề nghị thanh toán của bên nhận thầu cần thể hiện các n�
 <a id="dieu-29-khoan-14"></a>
 14. Bên giao thầu, các cơ quan, tổ chức, cá nhân có liên quan đến việc thanh toán hợp đồng không được đề ra các yêu cầu về hồ sơ thanh toán trái với thỏa thuận trong hợp đồng và các quy định tại Nghị định này nhằm cản trở việc thanh toán theo thỏa thuận hợp đồng.
 
-
 <a id="dieu-30"></a>
 ### Điều 30. Quyết toán hợp đồng xây dựng
 
@@ -911,7 +881,6 @@ d) Các tài liệu khác theo thỏa thuận trong hợp đồng.
 <a id="dieu-30-khoan-4"></a>
 4. Trường hợp bên nhận thầu là nhà thầu liên danh thì việc quyết toán giá trị phần hợp đồng tương ứng với phạm vi công việc của từng nhà thầu trong liên danh thực hiện do các bên thỏa thuận trong hợp đồng xây dựng.
 
-
 <a id="dieu-31"></a>
 ### Điều 31. Thanh lý hợp đồng xây dựng
 
@@ -936,7 +905,6 @@ b) Thời hạn thanh lý hợp đồng xây dựng tối đa 45 ngày kể từ
 
 __ĐIỀU KHOẢN THI HÀNH__
 
-
 <a id="dieu-32"></a>
 ### Điều 32. Hiệu lực thi hành
 
@@ -949,7 +917,6 @@ __ĐIỀU KHOẢN THI HÀNH__
 a) Nghị định số 37/2015/NĐ-CP ngày 22 tháng 4 năm 2015 của Chính phủ quy định chi tiết về hợp đồng xây dựng; Nghị định số 50/2021/NĐ-CP ngày 01 tháng 4 năm 2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 37/2015/NĐ-CP ngày 22 tháng 4 năm 2015 của Chính phủ quy định chi tiết về hợp đồng xây dựng;
 
 b) Điều 9 Nghị định số 35/2023/NĐ-CP ngày 20 tháng 6 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng.
-
 
 <a id="dieu-33"></a>
 ### Điều 33. Xử lý chuyển tiếp
@@ -967,7 +934,6 @@ d) Đối với các hợp đồng xây dựng đã giao kết và đang thực 
 
 <a id="dieu-33-khoan-2"></a>
 2. Đối với các hợp đồng xây dựng tại các dự án khác đã giao kết và đang thực hiện trước ngày Nghị định này có hiệu lực, các bên xem xét, thỏa thuận áp dụng các quy định của Nghị định này, đảm bảo phù hợp với quy định pháp luật về xây dựng và các quy định của pháp luật khác có liên quan. Trường hợp các bên không thỏa thuận được thì thực hiện theo quy định pháp luật về hợp đồng xây dựng, pháp luật khác có liên quan tại thời điểm giao kết.
-
 
 <a id="dieu-34"></a>
 ### Điều 34. Tổ chức thực hiện
@@ -1006,9 +972,6 @@ Nơi nhận:*__
 __TM. CHÍNH PHỦ__
 __KT. THỦ TƯỚNG__
 __PHÓ THỦ TƯỚNG__
-
-
-
 
 __Phạm Gia Túc__
 

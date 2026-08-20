@@ -7,8 +7,6 @@ __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 
 Luật số: 22/2023/QH15
 
-
-
 __LUẬT__
 
 __ĐẤU THẦU__
@@ -22,7 +20,6 @@ __ĐẤU THẦU__
 ### Chương I
 
 __QUY ĐỊNH CHUNG__
-
 
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
@@ -41,7 +38,6 @@ c) Gói thầu sử dụng vốn nhà nước, vốn của doanh nghiệp nhà n
 
 d) Gói thầu sử dụng vốn hỗ trợ phát triển chính thức (ODA), vốn vay ưu đãi của nhà tài trợ nước ngoài.
 
-
 <a id="dieu-2"></a>
 ### Điều 2. Đối tượng áp dụng
 
@@ -50,7 +46,6 @@ d) Gói thầu sử dụng vốn hỗ trợ phát triển chính thức (ODA), v
 
 <a id="dieu-2-khoan-2"></a>
 2. Tổ chức, cá nhân có hoạt động đấu thầu không thuộc phạm vi điều chỉnh của Luật này được tự lựa chọn áp dụng toàn bộ hoặc các điều, khoản, điểm cụ thể của Luật này.
-
 
 <a id="dieu-3"></a>
 ### Điều 3. Giải thích từ ngữ
@@ -75,7 +70,6 @@ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 <a id="dieu-3-khoan-6"></a>
 6. *Gói thầu hỗn hợp* bao gồm gói thầu thiết kế và cung cấp hàng hóa (EP); thiết kế và xây lắp (EC); cung cấp hàng hóa và xây lắp (PC); thiết kế, cung cấp hàng hóa và xây lắp (EPC); lập dự án, thiết kế, cung cấp hàng hóa và xây lắp (chìa khóa trao tay).
 
-
 <a id="dieu-4"></a>
 ### Điều 4. Nguyên tắc áp dụng Luật Đấu thầu
 
@@ -84,7 +78,6 @@ Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
 <a id="dieu-4-khoan-2"></a>
 2. Trường hợp có sự khác nhau giữa quy định của Luật này và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên thì áp dụng quy định của điều ước quốc tế đó.
-
 
 <a id="dieu-5"></a>
 ### Điều 5. Tư cách hợp lệ của nhà thầu, nhà đầu tư
@@ -106,7 +99,6 @@ e) Không đang trong thời gian bị cấm tham dự thầu theo quyết đị
 
 g) Không đang trong thời gian bị truy cứu trách nhiệm hình sự.
 
-
 <a id="dieu-6"></a>
 ### Điều 6. Bảo đảm cạnh tranh trong đấu thầu
 
@@ -122,7 +114,6 @@ b) Nhà thầu tư vấn lập hồ sơ mời thầu, tư vấn đánh giá hồ
 
 c) Nhà thầu tư vấn giám sát thực hiện hợp đồng gói thầu đó.
 
-
 <a id="dieu-7"></a>
 ### Điều 7. Ưu đãi trong lựa chọn nhà thầu, nhà đầu tư
 
@@ -137,24 +128,20 @@ c) Doanh nghiệp nhỏ, doanh nghiệp khởi nghiệp sáng tạo;
 
 d) Nhà thầu sử dụng lao động nữ, lao động là người khuyết tật, người dân tộc thiểu số.
 
-
 <a id="dieu-8"></a>
 ### Điều 8. Thông tin về đấu thầu
 
 Tất cả thông tin về kế hoạch lựa chọn nhà thầu, thông báo mời sơ tuyển, thông báo mời quan tâm, thông báo mời thầu, hồ sơ mời thầu, kết quả lựa chọn nhà thầu phải được đăng tải công khai trên Hệ thống mạng đấu thầu quốc gia.
-
 
 <a id="dieu-9"></a>
 ### Điều 9. Chi phí trong lựa chọn nhà thầu, nhà đầu tư
 
 Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu được phát hành miễn phí trên Hệ thống mạng đấu thầu quốc gia. Chi phí nộp hồ sơ, chi phí duy trì tài khoản thực hiện theo quy định của Chính phủ.
 
-
 <a id="dieu-10"></a>
 ### Điều 10. Ngôn ngữ và đồng tiền sử dụng trong đấu thầu
 
 Ngôn ngữ sử dụng đối với đấu thầu trong nước là tiếng Việt. Đồng tiền dự thầu đối với đấu thầu trong nước là Đồng Việt Nam (VND).
-
 
 <a id="dieu-11"></a>
 ### Điều 11. Các hành vi bị cấm trong hoạt động đấu thầu
@@ -183,48 +170,40 @@ Ngôn ngữ sử dụng đối với đấu thầu trong nước là tiếng Vi�
 <a id="dieu-11-khoan-8"></a>
 8. Chuyển nhượng thầu trái phép.
 
-
 <a id="dieu-12"></a>
 ### Điều 12. Hủy thầu
 
 Hủy thầu được áp dụng khi tất cả hồ sơ không đáp ứng yêu cầu của HSMT, thay đổi mục tiêu quy mô dự án, HSMT không tuân thủ quy định hoặc có bằng chứng về việc đưa nhận hối lộ, thông thầu.
-
 
 <a id="dieu-13"></a>
 ### Điều 13. Điều kiện phát hành hồ sơ mời thầu
 
 Hồ sơ mời thầu chỉ được phát hành khi kế hoạch lựa chọn nhà thầu đã được phê duyệt, thiết kế bản vẽ thi công và dự toán đã được duyệt (đối với gói thầu xây lắp) và có nguồn vốn được bố trí theo tiến độ.
 
-
 <a id="dieu-14"></a>
 ### Điều 14. Bảo đảm dự thầu
 
 Nhà thầu phải thực hiện một trong các biện pháp bảo đảm dự thầu: Đặt cọc, nộp thư bảo lãnh của tổ chức tín dụng hoặc giấy chứng nhận bảo hiểm bảo lãnh trước thời điểm đóng thầu. Giá trị bảo đảm dự thầu từ 1% đến 3% giá gói thầu.
-
 
 <a id="dieu-15"></a>
 ### Điều 15. Bảo đảm thực hiện hợp đồng
 
 Nhà thầu được lựa chọn phải thực hiện bảo đảm thực hiện hợp đồng trước khi hợp đồng có hiệu lực. Giá trị bảo đảm thực hiện hợp đồng từ 2% đến 10% giá hợp đồng (tùy thuộc tính chất gói thầu).
 
-
 <a id="dieu-16"></a>
 ### Điều 16. Năng lực, kinh nghiệm của tổ chuyên gia và tổ thẩm định
 
 Thành viên tổ chuyên gia, tổ thẩm định phải có chứng chỉ nghiệp vụ chuyên môn về đấu thầu, có trình độ chuyên môn liên quan đến gói thầu và có tối thiểu 03 năm kinh nghiệm công tác.
-
 
 <a id="dieu-17"></a>
 ### Điều 17. Xử lý tình huống trong đấu thầu
 
 Người có thẩm quyền, chủ đầu tư quyết định và chịu trách nhiệm trước pháp luật về việc xử lý tình huống trong đấu thầu theo nguyên tắc bảo đảm cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế.
 
-
 <a id="dieu-18"></a>
 ### Điều 18. Thời gian trong quá trình lựa chọn nhà thầu
 
 Thời gian chuẩn bị hồ sơ dự thầu tối thiểu là 18 ngày đối với đấu thầu trong nước, tối thiểu 35 ngày đối với đấu thầu quốc tế kể từ ngày phát hành HSMT.
-
 
 <a id="dieu-19"></a>
 ### Điều 19. Hồ sơ mời thầu và tiêu chuẩn đánh giá
@@ -237,18 +216,15 @@ Hồ sơ mời thầu không được đưa ra các điều kiện nhằm hạn 
 
 __HÌNH THỨC, PHƯƠNG THỨC LỰA CHỌN NHÀ THẦU, NHÀ ĐẦU TƯ__
 
-
 <a id="dieu-20"></a>
 ### Điều 20. Đấu thầu rộng rãi
 
 Đấu thầu rộng rãi là hình thức lựa chọn nhà thầu không hạn chế số lượng nhà thầu tham dự và là hình thức áp dụng chủ yếu trong hoạt động đấu thầu.
 
-
 <a id="dieu-21"></a>
 ### Điều 21. Đấu thầu hạn chế
 
 Áp dụng đối với gói thầu có yêu cầu cao về kỹ thuật hoặc kỹ thuật có tính đặc thù mà chỉ có một số nhà thầu đáp ứng yêu cầu.
-
 
 <a id="dieu-22"></a>
 ### Điều 22. Chỉ định thầu
@@ -256,48 +232,40 @@ __HÌNH THỨC, PHƯƠNG THỨC LỰA CHỌN NHÀ THẦU, NHÀ ĐẦU TƯ__
 <a id="dieu-22-khoan-1"></a>
 1. Chỉ định thầu được áp dụng trong các trường hợp cấp bách phục vụ khắc phục thiên tai, dịch bệnh, an ninh quốc phòng, gói thầu có giá trị trong hạn mức chỉ định thầu theo quy định của Chính phủ hoặc gói thầu chỉ có một nhà thầu có khả năng thực hiện.
 
-
 <a id="dieu-23"></a>
 ### Điều 23. Chào hàng cạnh tranh
 
 Áp dụng đối với gói thầu mua sắm hàng hóa thông dụng, sẵn có trên thị trường, gói thầu xây lắp công trình đơn giản đã có thiết kế bản vẽ thi công được duyệt có giá gói thầu không quá 05 tỷ đồng.
-
 
 <a id="dieu-24"></a>
 ### Điều 24. Mua sắm trực tiếp
 
 Áp dụng đối với gói thầu mua sắm hàng hóa tương tự thuộc cùng một dự án hoặc dự án khác đã ký hợp đồng trước đó không quá 12 tháng thông qua đấu thầu rộng rãi.
 
-
 <a id="dieu-25"></a>
 ### Điều 25. Tự thực hiện
 
 Áp dụng đối với gói thầu thuộc dự án do tổ chức trực tiếp quản lý, sử dụng gói thầu có đủ năng lực kỹ thuật, tài chính và kinh nghiệm thực hiện.
-
 
 <a id="dieu-26"></a>
 ### Điều 26. Tham gia thực hiện của cộng đồng
 
 Cộng đồng dân cư, tổ, nhóm thợ tại địa phương được giao thực hiện toàn bộ hoặc một phần gói thầu xây lắp đơn giản thuộc chương trình mục tiêu quốc gia.
 
-
 <a id="dieu-27"></a>
 ### Điều 27. Đàm phán giá
 
 Áp dụng đối với gói thầu mua sắm biệt dược gốc, thuốc hiếm, vắc xin hoặc thiết bị y tế độc quyền.
-
 
 <a id="dieu-28"></a>
 ### Điều 28. Lựa chọn nhà thầu trong trường hợp đặc biệt
 
 Áp dụng đối với các gói thầu không thể áp dụng các hình thức lựa chọn nhà thầu quy định tại các Điều 20, 21, 22, 23, 24, 25, 26 và 27 của Luật này do điều kiện đặc thù.
 
-
 <a id="dieu-29"></a>
 ### Điều 29. Phương thức một giai đoạn một túi hồ sơ
 
 Áp dụng đối với đấu thầu rộng rãi, đấu thầu hạn chế cho gói thầu dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp quy mô nhỏ; chào hàng cạnh tranh. Nhà thầu nộp đồng thời đề xuất kỹ thuật và đề xuất tài chính trong một túi hồ sơ.
-
 
 <a id="dieu-30"></a>
 ### Điều 30. Phương thức một giai đoạn hai túi hồ sơ
@@ -310,18 +278,15 @@ Cộng đồng dân cư, tổ, nhóm thợ tại địa phương được giao t
 
 __KẾ HOẠCH LỰA CHỌN NHÀ THẦU__
 
-
 <a id="dieu-36"></a>
 ### Điều 36. Thẩm quyền phê duyệt kế hoạch lựa chọn nhà thầu
 
 Người có thẩm quyền hoặc chủ đầu tư phê duyệt kế hoạch lựa chọn nhà thầu cho toàn bộ dự án hoặc từng gói thầu theo phân cấp quản lý.
 
-
 <a id="dieu-37"></a>
 ### Điều 37. Căn cứ lập kế hoạch lựa chọn nhà thầu
 
 Căn cứ quyết định phê duyệt dự án, nguồn vốn, thiết kế và dự toán được duyệt, điều ước quốc tế hoặc thỏa thuận vay (nếu có).
-
 
 <a id="dieu-38"></a>
 ### Điều 38. Nội dung kế hoạch lựa chọn nhà thầu
@@ -349,7 +314,6 @@ g) Thời gian thực hiện gói thầu.
 
 __HỢP ĐỒNG TRONG HOẠT ĐỘNG ĐẤU THẦU__
 
-
 <a id="dieu-64"></a>
 ### Điều 64. Các loại hợp đồng
 
@@ -371,7 +335,6 @@ __HỢP ĐỒNG TRONG HOẠT ĐỘNG ĐẤU THẦU__
 
 __ĐIỀU KHOẢN THI HÀNH__
 
-
 <a id="dieu-95"></a>
 ### Điều 95. Hiệu lực thi hành
 
@@ -380,7 +343,6 @@ __ĐIỀU KHOẢN THI HÀNH__
 
 <a id="dieu-95-khoan-2"></a>
 2. Luật Đấu thầu số 43/2013/QH13 hết hiệu lực kể từ ngày Luật này có hiệu lực.
-
 
 <a id="dieu-96"></a>
 ### Điều 96. Quy định chuyển tiếp

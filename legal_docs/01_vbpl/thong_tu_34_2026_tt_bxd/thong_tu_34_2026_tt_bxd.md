@@ -29,7 +29,6 @@ QUY ĐỊNH CHI TIẾT VỀ CẤP CÔNG TRÌNH XÂY DỰNG PHỤC VỤ QUẢN L�
 
 *Bộ trưởng Bộ Xây dựng ban hành Thông tư quy định chi tiết về cấp công trình xây dựng phục vụ quản lý hoạt động xây dựng.*
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 
@@ -42,7 +41,6 @@ Thông tư này quy định chi tiết về cấp công trình xây dựng phụ
 2. Đối tượng áp dụng
 
 Thông tư này áp dụng với cơ quan, tổ chức, cá nhân trong nước; tổ chức, cá nhân nước ngoài có hoạt động xây dựng trên lãnh thổ Việt Nam.
-
 
 <a id="dieu-2"></a>
 ### Điều 2. Nguyên tắc xác định cấp công trình
@@ -79,7 +77,6 @@ b) Trường hợp khác với quy định tại điểm a khoản này thì c�
 
 <a id="dieu-2-khoan-7"></a>
 7. Ví dụ về xác định cấp công trình của một số loại công trình tại Phụ lục III ban hành kèm theo Thông tư này.
-
 
 <a id="dieu-3"></a>
 ### Điều 3. Áp dụng cấp công trình trong quản lý các hoạt động xây dựng
@@ -150,7 +147,6 @@ d) Trường hợp phạm vi thực hiện cho một công trình, một số c�
 <a id="dieu-3-khoan-6"></a>
 6. Ví dụ về áp dụng cấp công trình của một số loại công trình tại Phụ lục III ban hành kèm theo Thông tư này.
 
-
 <a id="dieu-4"></a>
 ### Điều 4. Hiệu lực thi hành
 
@@ -162,7 +158,6 @@ d) Trường hợp phạm vi thực hiện cho một công trình, một số c�
 
 <a id="dieu-4-khoan-3"></a>
 3. Bãi bỏ Điều 10 Thông tư số 09/2025/TT-BXD ngày 13 tháng 6 năm 2025 của Bộ trưởng Bộ Xây dựng sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng liên quan đến sắp xếp tổ chức bộ máy, thực hiện chính quyền địa phương 02 cấp và phân cấp cho chính quyền địa phương.
-
 
 <a id="dieu-5"></a>
 ### Điều 5. Điều khoản chuyển tiếp
@@ -206,9 +201,6 @@ Nơi nhận:
 __KT. BỘ TRƯỞNG
 THỨ TRƯỞNG
 
-
-
-
 Phạm Minh Hà__
 
 __ __
@@ -238,7 +230,6 @@ __III__
 
 __IV__
 
-
 <a id="muc-1-1"></a>
 ### 1.1 1
 
@@ -254,46 +245,28 @@ Cấp III với mọi quy mô
 
 Tổng số học sinh toàn trường
 
-
-
-
-
 ≥700
 
 <700
-
-
 
 1.1.1.3 Trường trung học cơ sở, trường trung học phổ thông, trường phổ thông có nhiều cấp học
 
 Tổng số học sinh toàn trường
 
-
-
-
-
 ≥1.350
 
 <1.350
-
-
 
 1.1.1.4 Cơ sở giáo dục đại học; trường cao đẳng, trường trung cấp, trường trung học nghề; trung tâm giáo dục nghề nghiệp, trung tâm giáo dục thường xuyên
 
 Tổng số sinh viên toàn trường
 
-
-
 >8.000
-
 
 <a id="muc-5-000"></a>
 ### 5.000 ÷ 8.000
 
 <5.000
-
-
-
 
 <a id="muc-1-1"></a>
 ### 1.1 2
@@ -312,22 +285,15 @@ Tổng số giường bệnh lưu trú
 
 <250
 
-
-
 1.1.2.2 Trung tâm thí nghiệm an toàn sinh học (*Cấp* *độ an toàn* *sinh* *học* *xác* *định* *theo* *quy* *định* *của* *ngành* *y* *tế)*
 
 Cấp độ an toàn sinh học (ATSH)
-
-
 
 ATSH cấp độ 4
 
 ATSH cấp độ 3
 
 ATSH cấp độ 1 và cấp độ 2
-
-
-
 
 <a id="muc-1-1"></a>
 ### 1.1 3
@@ -346,8 +312,6 @@ Sức chứa của khán đài (nghìn chỗ)
 
 <5
 
-
-
 1.1.3.2 Nhà thi đấu, tập luyện các môn thể thao có khán đài *(Nhà* *thi* *đấu thể thao* *quốc* *gia* *không* *thấp hơn cấp I)*
 
 Sức chứa của khán đài (nghìn chỗ)
@@ -360,36 +324,21 @@ Sức chứa của khán đài (nghìn chỗ)
 
 <2
 
-
-
 1.1.3.3 Sân gôn
 
 Số lỗ
-
-
-
-
 
 ≥18
 
 <18
 
-
-
 1.1.3.4 Bể bơi, sân thể thao ngoài trời
 
 Mức độ quan trọng
 
-
-
-
-
-
-
 Đạt chuẩn thi đấu thể thao cấp quốc gia
 
 Hoạt động thể thao phong trào
-
 
 <a id="muc-1-1"></a>
 ### 1.1 4
@@ -408,8 +357,6 @@ Tổng sức chứa (nghìn người)
 
 ≤0,3
 
-
-
 1.1.4.2 Nhà hát, rạp chiếu phim, rạp xiếc
 
 Tổng sức chứa khán giả (nghìn người)
@@ -422,22 +369,15 @@ Tổng sức chứa khán giả (nghìn người)
 
 ≤0,3
 
-
-
 1.1.4.3 Bảo tàng, thư viện, triển lãm, nhà trưng bày
 
 Mức độ quan trọng
-
-
 
 Quốc gia
 
 Tỉnh, Ngành
 
 Các trường hợp còn lại
-
-
-
 
 <a id="muc-1-1"></a>
 ### 1.1 5
@@ -446,16 +386,9 @@ __Chợ__
 
 Số điểm kinh doanh
 
-
-
-
-
-
-
 >400
 
 ≤400
-
 
 <a id="muc-1-1"></a>
 ### 1.1 6
@@ -465,7 +398,6 @@ __Công__ __trình__ __tôn__ __giáo__
 Mức độ quan trọng
 
 Cấp III với mọi quy mô
-
 
 <a id="muc-1-1"></a>
 ### 1.1 7
@@ -482,9 +414,6 @@ Trụ sở làm việc: cấp Cục, cấp Sở và cấp tương đương; Tòa
 
 Trụ sở làm việc của: Đảng ủy, HĐND, UBND cấp xã và cấp tương đương
 
-
-
-
 <a id="muc-1-1"></a>
 ### 1.1 8
 
@@ -497,10 +426,6 @@ Công suất nhiệt thiết kế (MWt)
 2 ÷ <20
 
 <2
-
-
-
-
 
 __Ghi chú:__
 
@@ -528,7 +453,6 @@ __III__
 
 __IV__
 
-
 <a id="muc-1-2"></a>
 ### 1.2 1
 
@@ -546,49 +470,29 @@ b) Công trình không sử dụng vật liệu nổ
 
 TCS (triệu m3 sản phẩm/năm)
 
-
-
-
-
 ≥1
 
 <1
-
-
 
 1.2.1.2 Nhà máy sản xuất clinker, xi măng; trạm nghiền, trạm phân phối xi măng
 
 TCS (triệu tấn/năm)
 
-
-
 ≥2
 
 <2
-
-
-
-
 
 1.2.1.3 Nhà máy sản xuất sản phẩm, cấu kiện bê tông thông thường; nhà máy sản xuất gạch bê tông
 
 TCS (nghìn m3 thành phẩm/năm)
 
-
-
-
-
 >150
 
 ≤150
 
-
-
 1.2.1.4 Nhà máy sản xuất cấu kiện bê tông ly tâm, cấu kiện bê tông ứng lực trước, tấm tường bê tông rỗng đúc sẵn
 
 TCS (nghìn m3 thành phẩm/năm)
-
-
 
 >150
 
@@ -596,13 +500,9 @@ TCS (nghìn m3 thành phẩm/năm)
 
 <30
 
-
-
 1.2.1.5 Nhà máy sản xuất gạch bê tông nhẹ, tấm tường sử dụng bê tông nhẹ
 
 TCS (nghìn m3 thành phẩm/năm)
-
-
 
 >200
 
@@ -610,13 +510,9 @@ TCS (nghìn m3 thành phẩm/năm)
 
 <100
 
-
-
 1.2.1.6 Nhà máy sản xuất gạch, ngói đất sét nung
 
 TCS (triệu viên gạch QTC/năm)
-
-
 
 >40
 
@@ -624,15 +520,11 @@ TCS (triệu viên gạch QTC/năm)
 
 <20
 
-
-
 1.2.1.7 Nhà máy sản xuất sản phẩm ốp, lát
 
 a) Nhà máy sản xuất gạch gốm ốp lát
 
 TCS (triệu m2 sản phẩm/năm)
-
-
 
 >5
 
@@ -640,13 +532,9 @@ TCS (triệu m2 sản phẩm/năm)
 
 <3
 
-
-
 b) Nhà máy sản xuất đá ốp lát nhân tạo
 
 TCS (triệu m2 sản phẩm/năm)
-
-
 
 >1
 
@@ -654,13 +542,9 @@ TCS (triệu m2 sản phẩm/năm)
 
 <0,5
 
-
-
 c) Nhà máy sản xuất đá ốp lát tự nhiên
 
 TCS (triệu m2 sản phẩm/năm)
-
-
 
 >0,3
 
@@ -668,13 +552,9 @@ TCS (triệu m2 sản phẩm/năm)
 
 <0,1
 
-
-
 1.2.1.8 Nhà máy sản xuất sứ vệ sinh
 
 TCS (triệu sản phẩm/năm)
-
-
 
 >1
 
@@ -682,55 +562,33 @@ TCS (triệu sản phẩm/năm)
 
 <0,3
 
-
-
 1.2.1.9 Nhà máy sản xuất kính xây dựng
 
 TCS (triệu m2 sản phẩm/năm)
-
-
 
 ≥20
 
 <20
 
-
-
-
-
 1.2.1.10 Nhà máy sản xuất sản phẩm từ kính (kính tôi, kính hộp, kính nhiều lớp...)
 
 TCS (triệu m2 sản phẩm/năm)
-
-
-
-
 
 ≥0,2
 
 <0,2
 
-
-
 1.2.1.11 Nhà máy sản xuất vôi công nghiệp và các sản phẩm sau vôi
 
 TCS (nghìn tấn sản phẩm/năm)
-
-
-
-
 
 ≥60
 
 <60
 
-
-
 1.2.1.12 Nhà máy sản xuất vật liệu chịu lửa
 
 TCS (nghìn tấn sản phẩm/năm
-
-
 
 >10
 
@@ -738,50 +596,31 @@ TCS (nghìn tấn sản phẩm/năm
 
 <5
 
-
-
 1.2.1.13 Nhà máy sản xuất tấm lợp xi măng cốt sợi
 
 TCS (triệu m2 sản phẩm/năm)
 
-
-
-
-
 ≥0,3
 
 <0,3
-
-
 
 1.2.1.14 Nhà máy sản xuất vữa khô
 
 TCS (triệu tấn sản phẩm/năm)
 
-
-
-
-
 ≥0,3
 
 <0,3
 
-
-
 1.2.1.15 Nhà máy sản xuất tấm thạch cao
 
 TCS (triệu m2 sản phẩm/năm)
-
-
 
 >20
 
 10 ÷ 20
 
 <10
-
-
-
 
 <a id="muc-1-2"></a>
 ### 1.2 2
@@ -794,29 +633,21 @@ a) Nhà máy luyện kim mầu
 
 TSL (triệu tấn thành phẩm/năm)
 
-
-
 >0,5
 
 0,1 ÷ 0,5
 
 <0,1
 
-
-
 b) Nhà máy luyện, cán thép
 
 TSL (triệu tấn thành phẩm/năm)
-
-
 
 >1
 
 0,5 ÷ 1
 
 <0,5
-
-
 
 1.2.2.2 Khu liên hợp gang thép
 
@@ -826,17 +657,9 @@ Dung tích lò cao (nghìn m3)
 
 ≤1
 
-
-
-
-
-
-
 1.2.2.3 Nhà máy chế tạo máy động lực và máy nông nghiệp
 
 TSL (nghìn sản phẩm/năm)
-
-
 
 >5
 
@@ -844,13 +667,9 @@ TSL (nghìn sản phẩm/năm)
 
 <2,5
 
-
-
 1.2.2.4 Nhà máy chế tạo máy công cụ và thiết bị công nghiệp
 
 TSL (nghìn sản phẩm/năm)
-
-
 
 >1
 
@@ -858,21 +677,13 @@ TSL (nghìn sản phẩm/năm)
 
 <0,5
 
-
-
 1.2.2.5 Nhà máy chế tạo thiết bị nâng hạ
 
 TSL (nghìn tấn sản phẩm/năm)
 
-
-
 >200
 
 ≤200
-
-
-
-
 
 1.2.2.6 Nhà máy chế tạo máy xây dựng
 
@@ -880,57 +691,35 @@ a) Nhà máy sản xuất, lắp ráp máy ủi, máy đào, máy xúc
 
 TSL (sản phẩm/năm)
 
-
-
 >250
 
 ≤250
-
-
-
-
 
 b) Nhà máy sản xuất, lắp ráp xe lu tĩnh và lu rung
 
 TSL (sản phẩm/năm)
 
-
-
 >130
 
 ≤130
-
-
-
-
 
 c) Nhà máy sản xuất, lắp ráp cẩu tự hành
 
 TSL (sản phẩm/năm)
 
-
-
 >40
 
 ≤40
 
-
-
-
-
 1.2.2.7 Nhà máy chế tạo thiết bị toàn bộ
 
 TSL (nghìn tấn thiết bị/năm)
-
-
 
 >10
 
 5 ÷ 10
 
 <5
-
-
 
 1.2.2.8 Nhà máy sản xuất, lắp ráp phương tiện giao thông
 
@@ -938,35 +727,23 @@ a) Nhà máy sản xuất, lắp ráp ô tô
 
 TSL (nghìn xe/năm)
 
-
-
 >10
 
 5 ÷ 10
 
 <5
 
-
-
 b) Nhà máy sản xuất, lắp ráp xe máy
 
 TSL (nghìn xe/năm)
-
-
 
 >500
 
 ≤500
 
-
-
-
-
 c) Nhà máy sản xuất, lắp ráp đầu máy tàu hỏa
 
 TSL (nghìn đầu máy/năm)
-
-
 
 >1
 
@@ -974,13 +751,9 @@ TSL (nghìn đầu máy/năm)
 
 <0,5
 
-
-
 d) Cơ sở đóng mới phương tiện thủy nội địa
 
 Tải trọng của tàu (nghìn DWT)
-
-
 
 >30
 
@@ -1004,7 +777,6 @@ Tải trọng của tàu (nghìn DWT)
 
 ≤5
 
-
 <a id="muc-1-2"></a>
 ### 1.2 3
 
@@ -1014,21 +786,15 @@ __Công__ __trình__ __khai__ __thác__ __mỏ và__ __chế biến khoáng__ __
 
 TSL (triệu tấn than/năm)
 
-
-
 >1
 
 0,3 ÷ 1
 
 <0,3
 
-
-
 1.2.3.2 Mỏ quặng hầm lò
 
 TSL (triệu tấn quặng/năm)
-
-
 
 >3
 
@@ -1036,41 +802,25 @@ TSL (triệu tấn quặng/năm)
 
 <1
 
-
-
 1.2.3.3 Mỏ than lộ thiên
 
 TSL (triệu tấn than/năm)
 
-
-
-
-
 ≥2
 
 <2
-
-
 
 1.2.3.4 Mỏ quặng lộ thiên
 
 TSL (triệu tấn quặng/năm)
 
-
-
-
-
 ≥2
 
 <2
 
-
-
 1.2.3.5 Nhà máy sàng tuyển than
 
 TSL (triệu tấn/năm)
-
-
 
 >5
 
@@ -1078,13 +828,9 @@ TSL (triệu tấn/năm)
 
 <2
 
-
-
 1.2.3.6 Nhà máy tuyển/làm giàu quặng (bao gồm cả tuyển quặng bô xít)
 
 TSL (triệu tấn/năm)
-
-
 
 >7
 
@@ -1092,14 +838,11 @@ TSL (triệu tấn/năm)
 
 <3
 
-
-
 1.2.3.7 Công trình sản xuất alumin
 
 Mức độ quan trọng
 
 Cấp I với mọi quy mô
-
 
 <a id="muc-1-2"></a>
 ### 1.2 4
@@ -1120,12 +863,6 @@ TCS (triệu tấn/năm)
 
 <5
 
-
-
-
-
-
-
 1.2.4.3 Công trình chế biến khí
 
 TCS (triệu m3 khí/ngày)
@@ -1133,12 +870,6 @@ TCS (triệu m3 khí/ngày)
 ≥10
 
 <10
-
-
-
-
-
-
 
 1.2.4.4 Công trình sản xuất nhiên liệu sinh học
 
@@ -1149,10 +880,6 @@ TCS (nghìn tấn sản phẩm/năm)
 200 ÷ 500
 
 <200
-
-
-
-
 
 1.2.4.5 Kho xăng dầu
 
@@ -1166,8 +893,6 @@ Tổng dung tích chứa (nghìn m3)
 
 <0,21
 
-
-
 1.2.4.6 Kho chứa khí hóa lỏng, trạm chiết nạp khí hóa lỏng
 
 Tổng dung tích chứa (nghìn m3)
@@ -1178,10 +903,6 @@ Tổng dung tích chứa (nghìn m3)
 
 <5
 
-
-
-
-
 1.2.4.7 Công trình sản xuất nhiên liệu mới (hydrogen và dẫn xuất hydrogen, SAF)
 
 Tổng công suất sản phẩm (nghìn tấn/năm)
@@ -1189,13 +910,6 @@ Tổng công suất sản phẩm (nghìn tấn/năm)
 ≥300
 
 <300
-
-
-
-
-
-
-
 
 <a id="muc-1-2"></a>
 ### 1.2 5
@@ -1216,8 +930,6 @@ Công suất tổ máy (MW)
 
 <50
 
-
-
 b) Công trình nhiệt điện đốt khí
 
 Công suất tổ máy (MW)
@@ -1229,8 +941,6 @@ Công suất tổ máy (MW)
 50 ÷ <450
 
 <50
-
-
 
 1.2.5.2 Nhà máy điện hạt nhân
 
@@ -1252,8 +962,6 @@ Tổng công suất lắp máy (MW)
 
 ≤30
 
-
-
 b) Hồ chứa
 
 Dung tích hồ chứa nước ứng với mực nước dâng bình thường (triệu m3)
@@ -1272,16 +980,6 @@ c) Công trình đập (đập dâng nước, đập tràn)
 
 (Quy mô và đặc điểm của đập)
 
-
-
-
-
-
-
-
-
-
-
 Đập vật liệu đất, đất - đá có chiều cao lớn nhất (m)
 
 A
@@ -1298,8 +996,6 @@ A
 
 B
 
-
-
 >35 ÷ 75
 
 >15 ÷ 35
@@ -1309,10 +1005,6 @@ B
 ≤8
 
 C
-
-
-
-
 
 >15 ÷ 25
 
@@ -1336,8 +1028,6 @@ A
 
 B
 
-
-
 >25 ÷ 50
 
 >10 ÷ 25
@@ -1347,10 +1037,6 @@ B
 ≤5
 
 C
-
-
-
-
 
 >10 ÷ 20
 
@@ -1369,8 +1055,6 @@ Chiều cao cột nước (m)
 100 ÷ <500
 
 <100
-
-
 
 *Ghi* *chú:*
 
@@ -1392,8 +1076,6 @@ Chiều cao cột nước (m)
 
 TCS (MW)
 
-
-
 ≥50
 
 >15 ÷ <50
@@ -1405,8 +1087,6 @@ TCS (MW)
 1.2.5.5 Công trình điện mặt trời
 
 TCS (MW)
-
-
 
 ≥50
 
@@ -1420,21 +1100,15 @@ TCS (MW)
 
 TCS (MW)
 
-
-
 >10
 
 5 ÷ 10
 
 <5
 
-
-
 1.2.5.7 Công trình điện thủy triều, sóng biển
 
 TCS (MW)
-
-
 
 >50
 
@@ -1442,13 +1116,9 @@ TCS (MW)
 
 <30
 
-
-
 1.2.5.8 Công trình điện rác
 
 TCS (MW)
-
-
 
 >15
 
@@ -1456,13 +1126,9 @@ TCS (MW)
 
 <5
 
-
-
 1.2.5.9 Công trình điện sinh khối
 
 TCS (MW)
-
-
 
 >30
 
@@ -1470,21 +1136,15 @@ TCS (MW)
 
 <10
 
-
-
 1.2.5.10 Công trình điện khí biogas
 
 TCS (MW)
-
-
 
 >15
 
 5 ÷ 15
 
 <5
-
-
 
 1.2.5.11 Đường dây và trạm biến áp
 
@@ -1506,7 +1166,6 @@ Mức độ quan trọng
 
 Cấp III với mọi quy mô
 
-
 <a id="muc-1-2"></a>
 ### 1.2 6
 
@@ -1518,21 +1177,15 @@ a) Công trình sản xuất phân bón đơn, phức hợp (có phản ứng h�
 
 TSL (nghìn tấn sản phẩm/năm)
 
-
-
 ≥50
 
 10 ÷ <50
 
 <10
 
-
-
 b) Công trình sản xuất phân bón khác (trộn, hỗn hợp, phương pháp nhiệt, vi sinh… - không phát sinh các phản ứng hóa học)
 
 TSL (nghìn tấn sản phẩm/năm)
-
-
 
 ≥300
 
@@ -1540,13 +1193,9 @@ TSL (nghìn tấn sản phẩm/năm)
 
 <100
 
-
-
 c) Công trình sản xuất, trạm chiết nạp, san chiết đóng gói sản phẩm hóa chất bảo vệ thực vật
 
 TSL (nghìn tấn sản phẩm/năm)
-
-
 
 >15
 
@@ -1554,37 +1203,23 @@ TSL (nghìn tấn sản phẩm/năm)
 
 <10
 
-
-
 1.2.6.2 Công trình sản xuất sản phẩm hóa chất cơ bản, hóa dầu, hóa dược, hóa mỹ phẩm và hóa chất khác
 
 a) Công trình sản xuất hóa chất cơ bản (axít, kiềm, clo…), hóa chất nguy hiểm, hóa chất vô cơ, hữu cơ, hóa chất công nghiệp khác (bao gồm hóa chất tinh khiết, muối, thuốc tuyển quặng apatit…)
 
 TSL (nghìn tấn sản phẩm/năm)
 
-
-
 ≥10
 
 <10
-
-
-
-
 
 b) Công trình sản xuất, kho trạm chiết nạp sản phẩm hóa dầu (nguyên liệu nhựa PP, PE, PVC, PS, ABS, PET, SV, sợi, DOP, SM, VCM, Polystyren, PTA, MEG, BTX, cao su tổng hợp và các sản phẩm khác)
 
 TSL (nghìn tấn sản phẩm/năm)
 
-
-
 ≥50
 
 <50
-
-
-
-
 
 c) Công trình sản xuất sản phẩm hóa dược (chiết xuất, tinh chế hoạt chất thiên nhiên và tổng hợp từ hóa chất)
 
@@ -1602,15 +1237,11 @@ d) Công trình sản xuất các sản phẩm tẩy rửa, hóa mỹ phẩm (ke
 
 TSL (nghìn tấn sản phẩm/năm)
 
-
-
 ≥15
 
 10 ÷ <15
 
 <10
-
-
 
 1.2.6.3 Công trình sản xuất sản phẩm nguồn điện hóa học
 
@@ -1618,21 +1249,15 @@ a) Công trình sản xuất pin hóa học
 
 TSL (triệu viên/năm)
 
-
-
 >250
 
 150 ÷ 250
 
 <150
 
-
-
 b) Công trình sản xuất, tái chế ắc quy
 
 TSL (nghìn kWh/năm)
-
-
 
 >300
 
@@ -1640,17 +1265,9 @@ TSL (nghìn kWh/năm)
 
 <100
 
-
-
 c) Công trình sản xuất que hàn
 
 TSL (nghìn tấn sản phẩm/năm)
-
-
-
-
-
-
 
 ≥3
 
@@ -1662,29 +1279,19 @@ a) Công trình sản xuất khí công nghiệp
 
 TSL (nghìn m3 khí/h)
 
-
-
 >15
 
 8,5 ÷ 15
 
 <8,5
 
-
-
 b) Kho trạm chiết nạp khí công nghiệp
 
 Sức chứa lớn nhất (tấn)
 
-
-
 ≥100
 
 <100
-
-
-
-
 
 1.2.6.5 Công trình sản xuất sản phẩm cao su
 
@@ -1692,23 +1299,15 @@ a) Công trình sản xuất săm, lốp ô tô, máy kéo
 
 TSL (triệu chiếc/năm)
 
-
-
 >1
 
 0,5 ÷ 1
 
 <0,5
 
-
-
 b) Công trình sản xuất săm, lốp xe mô tô, xe đạp
 
 TSL (triệu chiếc/năm)
-
-
-
-
 
 >5
 
@@ -1720,10 +1319,6 @@ c) Công trình sản xuất băng tải
 
 TSL (nghìn m2 sản phẩm/năm)
 
-
-
-
-
 >500
 
 200 ÷ 500
@@ -1733,10 +1328,6 @@ TSL (nghìn m2 sản phẩm/năm)
 d) Công trình sản xuất cao su kỹ thuật
 
 TSL (triệu sản phẩm/năm)
-
-
-
-
 
 >1,5
 
@@ -1750,8 +1341,6 @@ a) Công trình sản xuất sơn
 
 TSL (nghìn tấn sản phẩm/năm)
 
-
-
 >100
 
 >20 ÷ 100
@@ -1764,10 +1353,6 @@ b) Công trình sản xuất mực in
 
 TSL (nghìn tấn sản phẩm/năm)
 
-
-
-
-
 >20
 
 5 ÷ 20
@@ -1778,15 +1363,9 @@ TSL (nghìn tấn sản phẩm/năm)
 
 TSL (nghìn tấn sản phẩm/năm)
 
-
-
 ≥100
 
 <100
-
-
-
-
 
 1.2.6.8 Công trình sản xuất, chứa vật liệu nổ, tiền chất thuốc nổ
 
@@ -1798,8 +1377,6 @@ Cấp đặc biệt với mọi quy mô
 
 b) Kho chứa vật liệu nổ công nghiệp
 
-
-
 Kho hầm lò, kho ngầm
 
 Mức độ quan trọng
@@ -1810,15 +1387,9 @@ Kho cố định nổi và nửa ngầm
 
 Sức chứa (tấn)
 
-
-
 >10
 
 ≤10
-
-
-
-
 
 Kho lưu động
 
@@ -1828,8 +1399,6 @@ Cấp II với mọi quy mô
 
 c) Kho chứa tiền chất thuốc nổ
 
-
-
 Kho hầm lò, kho ngầm
 
 Mức độ quan trọng
@@ -1840,15 +1409,9 @@ Kho cố định nổi và nửa ngầm
 
 Sức chứa (tấn)
 
-
-
 >50
 
 ≤50
-
-
-
-
 
 Kho lưu động
 
@@ -1860,8 +1423,6 @@ Cấp II với mọi quy mô
 
 Sức chứa lớn nhất (tấn)
 
-
-
 ≥1.000
 
 500 ÷ <1.000
@@ -1869,7 +1430,6 @@ Sức chứa lớn nhất (tấn)
 100 ÷ <500
 
 <100
-
 
 <a id="muc-1-2"></a>
 ### 1.2 7
@@ -1882,21 +1442,15 @@ a) Nhà máy sữa
 
 TSL (triệu lít/năm)
 
-
-
 >100
 
 30 ÷ 100
 
 <30
 
-
-
 b) Nhà máy sản xuất bánh kẹo, mỳ ăn liền
 
 TSL (nghìn tấn sản phẩm/năm)
-
-
 
 >25
 
@@ -1904,13 +1458,9 @@ TSL (nghìn tấn sản phẩm/năm)
 
 <5
 
-
-
 c) Nhà máy sản xuất dầu ăn, hương liệu
 
 TSL (nghìn tấn sản phẩm/năm)
-
-
 
 >150
 
@@ -1918,13 +1468,9 @@ TSL (nghìn tấn sản phẩm/năm)
 
 <50
 
-
-
 d) Nhà máy sản xuất rượu, bia, nước giải khát
 
 TSL (triệu lít/năm)
-
-
 
 >100
 
@@ -1932,15 +1478,11 @@ TSL (triệu lít/năm)
 
 <25
 
-
-
 1.2.7.2 Công nghiệp tiêu dùng
 
 a) Nhà máy xơ sợi
 
 TSL (nghìn tấn sản phẩm/năm)
-
-
 
 >75
 
@@ -1948,13 +1490,9 @@ TSL (nghìn tấn sản phẩm/năm)
 
 <30
 
-
-
 b) Nhà máy dệt
 
 TSL (triệu m2 sản phẩm/năm)
-
-
 
 >25
 
@@ -1962,13 +1500,9 @@ TSL (triệu m2 sản phẩm/năm)
 
 <5
 
-
-
 c) Nhà máy in, nhuộm (ngành dệt, may)
 
 TSL (triệu m2 sản phẩm/năm)
-
-
 
 >35
 
@@ -1976,13 +1510,9 @@ TSL (triệu m2 sản phẩm/năm)
 
 <10
 
-
-
 d) Nhà máy sản xuất các sản phẩm may
 
 TSL (triệu sản phẩm/năm)
-
-
 
 >10
 
@@ -1990,13 +1520,9 @@ TSL (triệu sản phẩm/năm)
 
 <2
 
-
-
 đ) Nhà máy thuộc da và sản xuất các sản phẩm từ da
 
 TSL (triệu sản phẩm/năm)
-
-
 
 >12
 
@@ -2004,13 +1530,9 @@ TSL (triệu sản phẩm/năm)
 
 <1
 
-
-
 e) Nhà máy sản xuất các sản phẩm nhựa
 
 TSL (nghìn tấn sản phẩm/năm)
-
-
 
 >15
 
@@ -2018,13 +1540,9 @@ TSL (nghìn tấn sản phẩm/năm)
 
 <2
 
-
-
 g) Nhà máy sản xuất đồ sành sứ, thủy tinh
 
 TSL (nghìn tấn sản phẩm/năm)
-
-
 
 >25
 
@@ -2032,13 +1550,9 @@ TSL (nghìn tấn sản phẩm/năm)
 
 <3
 
-
-
 h) Nhà máy bột giấy và giấy
 
 TSL (nghìn tấn sản phẩm/năm)
-
-
 
 >100
 
@@ -2046,13 +1560,9 @@ TSL (nghìn tấn sản phẩm/năm)
 
 <60
 
-
-
 i) Nhà máy sản xuất thuốc lá
 
 TSL (triệu bao thuốc lá/năm)
-
-
 
 >200
 
@@ -2060,13 +1570,9 @@ TSL (triệu bao thuốc lá/năm)
 
 <50
 
-
-
 k) Nhà máy sản xuất /lắp ráp điện tử (ti vi, máy tính và sản phẩm tương đương), điện lạnh (điều hòa, tủ lạnh và sản phẩm tương đương)
 
 TSL (nghìn sản phẩm/năm)
-
-
 
 >300
 
@@ -2074,21 +1580,15 @@ TSL (nghìn sản phẩm/năm)
 
 <100
 
-
-
 l) Nhà máy chế tạo linh kiện, phụ tùng thông tin và điện tử (mạch in điện tử, IC và sản phẩm tương đương)
 
 TSL (triệu sản phẩm/năm)
-
-
 
 >400
 
 300 ÷ 400
 
 <300
-
-
 
 m) Nhà máy in tiền
 
@@ -2102,35 +1602,23 @@ a) Nhà máy chế biến thủy, hải sản
 
 TSL (tấn nguyên liệu/ngày)
 
-
-
 >300
 
 100 ÷ 300
 
 <100
 
-
-
 b) Nhà máy chế biến đồ hộp
 
 TSL (tấn nguyên liệu/ngày)
-
-
-
-
 
 ≥100
 
 <100
 
-
-
 c) Nhà máy xay xát, lau bóng gạo
 
 TSL (nghìn tấn sản phẩm/năm)
-
-
 
 >200
 
@@ -2139,7 +1627,6 @@ TSL (nghìn tấn sản phẩm/năm)
 1 ÷ <100
 
 <1
-
 
 <a id="muc-1-2"></a>
 ### 1.2 8
@@ -2169,8 +1656,6 @@ __Ghi chú:__
 | __III__ |
 | __IV__ |
 
-
-
 <a id="muc-1-3"></a>
 ### 1.3 1
 
@@ -2188,8 +1673,6 @@ TCS (nghìn m3/ngày đêm)
 
 <10
 
-
-
 1.3.1.2 Trạm bơm nước thô, nước sạch hoặc tăng áp (bao gồm cả bể chứa nước nếu có)
 
 TCS (nghìn m3/ngày đêm)
@@ -2202,9 +1685,6 @@ TCS (nghìn m3/ngày đêm)
 
 <12
 
-
-
-
 <a id="muc-1-3"></a>
 ### 1.3 2
 
@@ -2213,8 +1693,6 @@ __Công__ __trình__ __thoát__ __nước__
 1.3.2.1 Hồ điều hòa
 
 Diện tích (ha)
-
-
 
 ≥20
 
@@ -2228,15 +1706,11 @@ Diện tích (ha)
 
 TCS (m3/s)
 
-
-
 ≥25
 
 10 ÷ <25
 
 <10
-
-
 
 1.3.2.3 Công trình, nhà máy xử lý nước thải (bao gồm các công trình trong cùng hệ thống xử lý nước thải)
 
@@ -2250,14 +1724,11 @@ TCS (nghìn m3/ngày đêm)
 
 <10
 
-
-
 1.3.2.4 Trạm bơm nước thải (bao gồm cả bể chứa nước nếu có)
 
 TCS (m3/h)
 
 ≥4.000
-
 
 <a id="muc-1-200"></a>
 ### 1.200 ÷ <4.000
@@ -2266,22 +1737,15 @@ TCS (m3/h)
 
 <700
 
-
-
 1.3.2.5 Công trình xử lý bùn
 
 TCS (m3/ngày đêm)
-
-
 
 ≥1.000
 
 200 ÷ <1.000
 
 <200
-
-
-
 
 <a id="muc-1-3"></a>
 ### 1.3 3
@@ -2290,23 +1754,9 @@ __Công__ __trình__ __xử lý__ __chất thải rắn (CTR)__
 
 1.3.3.1 Cơ sở xử lý CTR thông thường
 
-
-
-
-
-
-
-
-
-
-
-
-
 a) Trạm trung chuyển
 
 TCS (tấn/ngày đêm)
-
-
 
 ≥500
 
@@ -2328,13 +1778,9 @@ TCS (tấn/ngày đêm)
 
 <50
 
-
-
 1.3.3.2 Cơ sở xử lý CTR nguy hại
 
 TCS (tấn/ngày đêm)
-
-
 
 >100
 
@@ -2342,17 +1788,12 @@ TCS (tấn/ngày đêm)
 
 <20
 
-
-
-
 <a id="muc-1-3"></a>
 ### 1.3 4
 
 __Công__ __viên__
 
 Diện tích (ha)
-
-
 
 >20
 
@@ -2362,15 +1803,12 @@ Diện tích (ha)
 
 <5
 
-
 <a id="muc-1-3"></a>
 ### 1.3 5
 
 __Nghĩa trang __*Nghĩa trang* *Quốc gia:* *Cấp I* *với mọi quy* *mô.*
 
 Diện tích (ha)
-
-
 
 >60
 
@@ -2379,7 +1817,6 @@ Diện tích (ha)
 10 ÷ <30
 
 <10
-
 
 <a id="muc-1-3"></a>
 ### 1.3 6
@@ -2390,7 +1827,6 @@ Mức độ quan trọng
 
 Nhà tang lễ Quốc gia: Cấp I; các trường hợp khác: Cấp II
 
-
 <a id="muc-1-3"></a>
 ### 1.3 7
 
@@ -2400,19 +1836,14 @@ Mức độ quan trọng
 
 Cấp II với mọi quy mô
 
-
 <a id="muc-1-3"></a>
 ### 1.3 8
 
 __Nhà__ __để xe__ __ô__ __tô;__ __sân__ __bãi__ __để xe,__ __máy__ __móc,__ __thiết bị__
 
-
-
 1.3.8.1 Nhà để xe ô tô ngầm\*
 
 Số chỗ để xe ô tô
-
-
 
 ≥500
 
@@ -2420,11 +1851,7 @@ Số chỗ để xe ô tô
 
 <300
 
-
-
 1.3.8.2 Nhà để xe ô tô nổi\*
-
-
 
 ≥1.000
 
@@ -2438,16 +1865,9 @@ Số chỗ để xe ô tô
 
 Tổng diện tích (ha)
 
-
-
-
-
-
-
 >2,5
 
 ≤2,5
-
 
 <a id="muc-1-3"></a>
 ### 1.3 9
@@ -2462,11 +1882,6 @@ Liên tỉnh
 
 Nội tỉnh
 
-
-
-
-
-
 <a id="muc-1-3-1"></a>
 ### 1.3.1 0
 
@@ -2474,15 +1889,9 @@ __Công__ __trình__ __lấn biển__
 
 Diện tích (ha)
 
-
-
-
-
 ≥300
 
 <300
-
-
 
 __Ghi chú:__
 
@@ -2503,8 +1912,6 @@ __Ghi chú:__
 | __II__ |
 | __III__ |
 | __IV__ |
-
-
 
 <a id="muc-1-4"></a>
 ### 1.4 1
@@ -2541,8 +1948,6 @@ Tốc độ thiết kế (km/h)
 
 a) Số làn xe
 
-
-
 ≥8
 
 6
@@ -2575,8 +1980,6 @@ Lưu lượng xe thiết kế quy đổi (nghìn xe/ngày đêm)
 
 <3
 
-
-
 1.4.1.4 Các loại đường khác (không bao gồm mục 1.4.1.1 và 1.4.1.2):
 
 a) Đường nông thôn
@@ -2589,16 +1992,7 @@ c) Đường xe đạp; đường đi bộ
 
 Mức độ quan trọng
 
-
-
-
-
-
-
-
-
 Mọi quy mô
-
 
 <a id="muc-1-4"></a>
 ### 1.4 2
@@ -2629,21 +2023,15 @@ Tốc độ thiết kế (km/h)
 
 <80
 
-
-
 1.4.2.3 Đường sắt quốc gia, đường sắt địa phương (không bao gồm mục 1.4.2.1), khổ đường 1.000 mm; đường lồng, khổ đường (1.435 - 1.000) mm
 
 Tốc độ thiết kế (km/h)
-
-
 
 100 ÷ 120
 
 60 ÷ <100
 
 <60
-
-
 
 1.4.2.4 Đường sắt chuyên dùng
 
@@ -2661,7 +2049,6 @@ Mức độ quan trọng
 
 Cấp III với mọi quy mô
 
-
 <a id="muc-1-4"></a>
 ### 1.4 3
 
@@ -2671,10 +2058,7 @@ __Công__ __trình__ __cầu__
 
 Lưu lượng quy đổi (xe/ngày đêm)
 
-
-
 >3.000
-
 
 <a id="muc-1-000"></a>
 ### 1.000 ÷ 3.000
@@ -2682,7 +2066,6 @@ Lưu lượng quy đổi (xe/ngày đêm)
 700 ÷ <1.000
 
 500 ÷ <700
-
 
 <a id="muc-1-4"></a>
 ### 1.4 4
@@ -2692,8 +2075,6 @@ __Công__ __trình__ __đường thủy nội địa__
 1.4.4.1 Công trình sửa chữa phương tiện thủy nội địa (bến, ụ, triền, đà…)
 
 Tải trọng của tàu (nghìn DWT)
-
-
 
 >30
 
@@ -2790,7 +2171,6 @@ B = 40 ÷ <50 hoặc H = 3 ÷ <4
 B = 30 ÷ <40 hoặc H = 2 ÷ <3
 
 B <30 hoặc H <2
-
 
 <a id="muc-1-4"></a>
 ### 1.4 5
@@ -2899,7 +2279,6 @@ Chiều cao lớn nhất của công trình (m)
 
 ≤5
 
-
 <a id="muc-1-4"></a>
 ### 1.4 6
 
@@ -2913,12 +2292,6 @@ Lượt hành khách (triệu khách/năm)
 
 <10
 
-
-
-
-
-
-
 1.4.6.2 Đường cất hạ cánh, đường lăn, sân đỗ tàu bay và các công trình tại khu vực phục vụ cho tàu bay cất, hạ cánh và lăn đến sân đỗ
 
 Cấp sân bay theo quy định của Tổ chức hàng không dân dụng quốc tế (ICAO)
@@ -2926,12 +2299,6 @@ Cấp sân bay theo quy định của Tổ chức hàng không dân dụng quố
 Sân bay cấp từ 4E trở lên
 
 Sân bay cấp thấp hơn 4E
-
-
-
-
-
-
 
 1.4.6.3 Các công trình bảo đảm hoạt động bay
 
@@ -2946,12 +2313,6 @@ b) Đài kiểm soát không lưu
 Cảng hàng không quốc tế
 
 Cảng hàng không, sân bay nội địa
-
-
-
-
-
-
 
 1.4.6.4 Hăng ga máy bay
 
@@ -2985,7 +2346,6 @@ __III__
 
 __IV__
 
-
 <a id="muc-1-5"></a>
 ### 1.5 1
 
@@ -2994,8 +2354,6 @@ __Công__ __trình__ __thủy lợi__
 1.5.1.1 Công trình cấp nước (cho diện tích được tưới) hoặc tiêu thoát (cho diện tích tự nhiên khu tiêu)
 
 Diện tích (nghìn ha)
-
-
 
 >50
 
@@ -3031,8 +2389,6 @@ Lưu lượng (m3/s)
 
 ≤2
 
-
-
 1.5.1.4 Trạm bơm
 
 a) Trạm bơm tiêu, trạm bơm tưới tiêu kết hợp
@@ -3053,10 +2409,6 @@ b) Trạm bơm tưới
 
 Tổng lưu lượng (nghìn m3/h)
 
-
-
-
-
 ≥12
 
 2 ÷ <12
@@ -3071,8 +2423,6 @@ a) Đối với vùng đồng bằng Sông Cửu Long
 
 Chiều rộng thông nước (m)
 
-
-
 >30
 
 20 ÷ 30
@@ -3084,8 +2434,6 @@ Chiều rộng thông nước (m)
 b) Đối với các vùng còn lại
 
 Chiều rộng thông nước (m)
-
-
 
 >20
 
@@ -3103,8 +2451,6 @@ a) Đối với vùng đồng bằng Sông Cửu Long
 
 Lưu lượng (m3/s)
 
-
-
 ≥100
 
 50 ÷ <100
@@ -3116,8 +2462,6 @@ Lưu lượng (m3/s)
 b) Đối với các vùng còn lại
 
 Lưu lượng (m3/s)
-
-
 
 ≥50
 
@@ -3133,8 +2477,6 @@ a) Đối với vùng đồng bằng Sông Cửu Long
 
 Lưu lượng (m3/s)
 
-
-
 ≥40
 
 20 ÷ <40
@@ -3146,8 +2488,6 @@ Lưu lượng (m3/s)
 b) Đối với các vùng còn lại
 
 Lưu lượng (m3/s)
-
-
 
 ≥20
 
@@ -3163,8 +2503,6 @@ a) Đối với vùng đồng bằng Sông Cửu Long
 
 Lưu lượng (m3/s)
 
-
-
 ≥100
 
 50 ÷ <100
@@ -3176,8 +2514,6 @@ Lưu lượng (m3/s)
 b) Đối với các vùng còn lại
 
 Lưu lượng (m3/s)
-
-
 
 ≥50
 
@@ -3191,16 +2527,11 @@ Lưu lượng (m3/s)
 
 Diện tích khu vực bảo vệ (nghìn ha)
 
-
-
-
-
 ≥10
 
 0,5 ÷ <10
 
 <0,5
-
 
 <a id="muc-1-5"></a>
 ### 1.5 2
@@ -3242,16 +2573,13 @@ __IV__
 
 ### 2 1
 
-
 <a id="muc-2-1-1"></a>
 ### 2.1.1 Nhà, __Kết__ __cấu__ __dạng__ __nhà__
 
 *Cấp công* *trình* *của nhà* *ở riêng* *lẻ, nhà* *ở riêng* *lẻ kết hợp các* *mục đích dân* *dụng khác* *được xác* *định theo* *quy* *mô* *kết cấu quy* *định tại mục này.* *Nhà* *ở biệt thự không* *thấp hơn cấp III.*
 
-
 <a id="muc-2-1-2"></a>
 ### 2.1.2 Công __trình__ __nhiều tầng có__ __sàn__ (không bao gồm kết cấu mục 2.2)
-
 
 <a id="muc-2-1-3"></a>
 ### 2.1.3 Kết cấu nhịp lớn dạng khung (không bao gồm kết cấu mục 2.3 và 2.5)
@@ -3284,8 +2612,6 @@ b) Số tầng cao
 
 c) Tổng diện tích sàn (nghìn m2)
 
-
-
 >30
 
 >10 ÷ 30
@@ -3308,29 +2634,19 @@ d) Nhịp kết cấu lớn nhất (m)
 
 đ) Độ sâu ngầm (m)
 
-
-
 >18
 
 6 ÷ 18
 
 <6
 
-
-
 e) Số tầng ngầm
-
-
 
 ≥5
 
 2 ÷ 4
 
 1
-
-
-
-
 
 __*Ghi*__ __*chú:*__
 
@@ -3339,7 +2655,6 @@ __*Ghi*__ __*chú:*__
 *2. Đối với các* *trường hợp khác* *mục 1* *của ghi* *chú* *này:* *H\** *=* *200* *m;* *với H\** *là* *chiều cao* *của công* *trình/kết cấu được xác* *định theo* *điểm a* *mục 3* *phần Ghi* *chú* *của Bảng 2.*
 
 ### 2 2
-
 
 <a id="muc-2-2"></a>
 ### 2.2 1 __Kết cấu dạng cột, trụ, tháp__ __trong__ __các__ __công__ __trình__ __dân__ __dụng, công__ __nghiệp, giao__ __thông__ (không bao gồm mục 2.2.3)
@@ -3358,7 +2673,6 @@ Chiều cao của kết cấu (m)
 
 ≤6
 
-
 <a id="muc-2-2"></a>
 ### 2.2 2 __Kết cấu dạng cột, trụ, tháp__ __trong__ __công__ __trình__ __hạ tầng kỹ thuật__
 
@@ -3376,13 +2690,10 @@ Chiều cao của kết cấu (m)
 
 ≤45
 
-
 <a id="muc-2-2"></a>
 ### 2.2 3 __Đèn biển, đăng tiêu__
 
 Chiều cao của kết cấu (m)
-
-
 
 ≥58
 
@@ -3428,8 +2739,6 @@ __Kết__ __cấu__ __dạng__ __bể chứa,__ __si__ __lô__ (Bể bơi, bể/
 
 a) Dung tích chứa (nghìn m3)
 
-
-
 >15
 
 5 ÷ 15
@@ -3440,8 +2749,6 @@ a) Dung tích chứa (nghìn m3)
 
 b) Chiều cao kết cấu chứa (m)
 
-
-
 ≥75
 
 >28 ÷ <75
@@ -3451,8 +2758,6 @@ b) Chiều cao kết cấu chứa (m)
 <6
 
 c) Độ sâu ngầm (m)
-
-
 
 >18
 
@@ -3466,10 +2771,8 @@ c) Độ sâu ngầm (m)
 
 __Cầu __(trong công trình giao thông)
 
-
 <a id="muc-2-5-1"></a>
 ### 2.5.1 Cầu đường bộ: Xét theo các tiêu chí a, b
-
 
 <a id="muc-2-5-2"></a>
 ### 2.5.2 Cầu đường sắt: Xét theo các tiêu chí b, c
@@ -3508,17 +2811,10 @@ c) Nhịp kết cấu lớn nhất (m)
 
 <25
 
-
-
-
 <a id="muc-2-5-3"></a>
 ### 2.5.3 Cầu vượt dành cho người đi bộ, xe đạp; Cầu treo dân sinh (dành cho người đi bộ, gia súc, xe đạp, xe mô tô/ gắn máy và xe thô sơ khác; cầu dây võng, một nhịp, nằm trên đường giao thông nông thôn và khổ cầu không lớn hơn 3,5 m)
 
 a) Nhịp kết cấu lớn nhất (m)
-
-
-
-
 
 >50
 
@@ -3527,10 +2823,6 @@ a) Nhịp kết cấu lớn nhất (m)
 <25
 
 b) Chiều cao trụ cầu hoặc Độ cao tính từ đáy kết cấu dầm cầu tới mặt đất/nước bên dưới (m)
-
-
-
-
 
 >30
 
@@ -3558,11 +2850,7 @@ a) Tổng chiều dài (m)
 
 <100
 
-
-
 b) Diện tích mặt cắt ngang theo kích thước thông thủy của hầm (m2)
-
-
 
 ≥100
 
@@ -3570,27 +2858,16 @@ b) Diện tích mặt cắt ngang theo kích thước thông thủy của hầm 
 
 <30
 
-
-
 c) Kết cấu vỏ hầm
-
-
-
-
 
 Có kết cấu vỏ hầm
 
 Không có kết cấu vỏ hầm
 
-
-
-
 <a id="muc-2-6-2"></a>
 ### 2.6.2 Bán hầm phục vụ cho giao thông đường bộ, đường sắt và để chống đất, đá rơi
 
 Tổng chiều dài (m)
-
-
 
 >1.500
 
@@ -3606,7 +2883,6 @@ __Tường chắn, kè,__ __kết cấu bảo vệ bờ__
 
 *Đối với tường chắn, kè,* *kết cấu bảo vệ bờ có* *tổng chiều dài* *≤500 m:* *Sau* *khi* *xác* *định cấp công* *trình* *theo* *mục này* *thì* *hạ xuống một cấp nhưng không* *thấp hơn cấp IV.*
 
-
 <a id="muc-2-7-1"></a>
 ### 2.7.1 Tường chắn (Tường chắn đất, đá, trên cạn, không bao gồm kết cấu mục 2.9)
 
@@ -3615,8 +2891,6 @@ __Tường chắn, kè,__ __kết cấu bảo vệ bờ__
 a) Nền là đá
 
 Chiều cao tường (m)
-
-
 
 >25 ÷ 40
 
@@ -3628,10 +2902,6 @@ Chiều cao tường (m)
 
 b) Nền là đất cát, đất hòn thô, đất sét ở trạng thái cứng và nửa cứng
 
-
-
-
-
 >12 ÷ 20
 
 >5 ÷ 12
@@ -3640,16 +2910,11 @@ b) Nền là đất cát, đất hòn thô, đất sét ở trạng thái cứng
 
 c) Nền là đất sét bão hòa nước ở trạng thái dẻo
 
-
-
-
-
 >10 ÷ 15
 
 >4 ÷ 10
 
 ≤4
-
 
 <a id="muc-2-7-2"></a>
 ### 2.7.2 Kè, kết cấu bảo vệ bờ sử dụng trong các loại dự án đầu tư xây dựng (không bao gồm các kết cấu mục 2.9 và 2.11.2)
@@ -3657,8 +2922,6 @@ c) Nền là đất sét bão hòa nước ở trạng thái dẻo
 a) Kè, kết cấu bảo vệ bờ sông, hồ
 
 Chiều cao lớn nhất của công trình (m)
-
-
 
 >8
 
@@ -3686,7 +2949,6 @@ Chiều cao lớn nhất của công trình (m)
 
 __Đập và__ __các__ __công__ __trình__ __thủy lợi, thủy điện chịu áp__ __khác__
 
-
 <a id="muc-2-8-1"></a>
 ### 2.8.1 Đập đất, đập đất - đá các loại
 
@@ -3706,8 +2968,6 @@ Chiều cao đập (m)
 
 b) Nền là đất cát, đất hòn thô, đất sét ở trạng thái cứng và nửa cứng
 
-
-
 >35 ÷ 75
 
 >15 ÷ 35
@@ -3718,16 +2978,11 @@ b) Nền là đất cát, đất hòn thô, đất sét ở trạng thái cứng
 
 c) Nền là đất sét bão hòa nước ở trạng thái dẻo
 
-
-
-
-
 >15 ÷ 25
 
 >5 ÷ 15
 
 ≤5
-
 
 <a id="muc-2-8-2"></a>
 ### 2.8.2 Đập bê tông, bê tông cốt thép các loại và các công trình thủy lợi, thủy điện chịu áp khác
@@ -3748,8 +3003,6 @@ Chiều cao đập (m)
 
 b) Nền là đất cát, đất hòn thô, đất sét ở trạng thái cứng và nửa cứng
 
-
-
 >25 ÷ 50
 
 >10 ÷ 25
@@ -3759,10 +3012,6 @@ b) Nền là đất cát, đất hòn thô, đất sét ở trạng thái cứng
 ≤5
 
 c) Nền là đất sét bão hòa nước ở trạng thái dẻo
-
-
-
-
 
 >10 ÷ 20
 
@@ -3776,16 +3025,9 @@ __Kết__ __cấu__ __gia__ __cố bề mặt__ __mái__ __dốc__ (không bao g
 
 Chiều cao tính từ chân tới đỉnh mái dốc (m)
 
-
-
-
-
-
-
 >30
 
 ≤30
-
 
 <a id="muc-2-1"></a>
 ### 2.1 0
@@ -3794,15 +3036,12 @@ __Đường ống/cống__
 
 *Đối với đường ống/cống có* *tổng chiều dài* *≤1.000 m:* *Sau* *khi* *xác* *định cấp công* *trình* *theo* *mục này* *thì* *hạ xuống một cấp nhưng không* *thấp hơn cấp IV.*
 
-
 <a id="muc-2-10-1"></a>
 ### 2.10.1 Đường ống cấp nước (nước thô hoặc nước sạch)
 
 *Không* *áp* *dụng đối với công* *trình* *thủy lợi*
 
 Đường kính trong của ống (mm) hoặc Diện tích mặt cắt ngang bên trong ống (m2)
-
-
 
 ≥800 hoặc ≥0,51
 
@@ -3812,14 +3051,10 @@ __Đường ống/cống__
 
 <150 hoặc <0,02
 
-
 <a id="muc-2-10-2"></a>
 ### 2.10.2 Đường ống/cống thoát nước mưa, cống chung
 
-
-
 ≥2.000 hoặc ≥3,14
-
 
 <a id="muc-1-500"></a>
 ### 1.500 ÷ <2.000 hoặc 1,77 ÷ <3,14
@@ -3828,11 +3063,8 @@ __Đường ống/cống__
 
 <600 hoặc <0,28
 
-
 <a id="muc-2-10-3"></a>
 ### 2.10.3 Đường ống/cống thoát nước thải
-
-
 
 ≥1.000 hoặc ≥0,79
 
@@ -3842,7 +3074,6 @@ __Đường ống/cống__
 
 <200 hoặc <0,03
 
-
 <a id="muc-2-10-4"></a>
 ### 2.10.4 Cống cáp, hào, tuy nen (sử dụng trong: công trình thông tin, truyền thông; hầm dạng tuy nen kỹ thuật trong các nhà máy)
 
@@ -3851,12 +3082,6 @@ __Đường ống/cống__
 a) Hào kỹ thuật, cống cáp
 
 Bề rộng thông thủy (m)
-
-
-
-
-
-
 
 >0,7
 
@@ -3874,29 +3099,16 @@ Bề rộng thông thủy (m)
 
 ≤3
 
-
-
-
-
-
 <a id="muc-2-10-5"></a>
 ### 2.10.5 Đường ống dẫn dầu, dẫn khí đốt
 
 a) Đường kính trong của ống (mm)
 
-
-
 ≥300
 
 <300
 
-
-
-
-
 b) Vị trí xây dựng
-
-
 
 Dưới biển
 
@@ -3904,14 +3116,10 @@ Dưới sông
 
 Trên đất liền
 
-
-
-
 <a id="muc-2-1"></a>
 ### 2.1 1
 
 __Cảng biển__
-
 
 <a id="muc-2-11-1"></a>
 ### 2.11.1 Công trình ven biển: Bến cảng biển; khu vực neo đậu chuyển tải, tránh trú bão; cầu cảng biển.
@@ -3930,8 +3138,6 @@ a) Chiều cao bến (m)
 
 b) Diện tích mặt bến cảng (nghìn m2)
 
-
-
 ≥20
 
 >10 ÷ <20
@@ -3940,10 +3146,8 @@ b) Diện tích mặt bến cảng (nghìn m2)
 
 <1
 
-
 <a id="muc-2-11-2"></a>
 ### 2.11.2 Các kết cấu chỉnh trị cửa biển, ven biển (đê chắn sóng, đê chắn cát, kè hướng dòng, kè bảo vệ bờ...)
-
 
 <a id="muc-2-11-3"></a>
 ### 2.11.3 Bến phà, cảng và cầu cảng ngoài đảo, bến cảng chuyên dụng, công trình trên biển (bến phao, đê thủy khí, bến cảng nổi đa năng...)
@@ -3960,19 +3164,15 @@ Chiều cao lớn nhất của công trình (m)
 
 ≤5
 
-
 <a id="muc-2-1"></a>
 ### 2.1 2
 
 __Cảng đường thủy nội địa__
 
-
 <a id="muc-2-12-1"></a>
 ### 2.12.1 Cảng, bến hàng hóa, bến hành khách, cầu cảng đường thủy nội địa
 
 a) Chiều cao bến (m) hoặc chiều cao công trình (m)
-
-
 
 >8
 
@@ -3984,8 +3184,6 @@ a) Chiều cao bến (m) hoặc chiều cao công trình (m)
 
 b) Diện tích mặt bến (nghìn m2)
 
-
-
 ≥10
 
 5 ÷ <10
@@ -3994,13 +3192,10 @@ b) Diện tích mặt bến (nghìn m2)
 
 <1
 
-
 <a id="muc-2-12-2"></a>
 ### 2.12.2 Các kết cấu chỉnh trị trong sông
 
 *Chiều cao* *lớn nhất của công* *trình* *(m)*
-
-
 
 >8
 
@@ -4009,7 +3204,6 @@ b) Diện tích mặt bến (nghìn m2)
 >3 ÷ 5
 
 ≤3
-
 
 <a id="muc-2-1"></a>
 ### 2.1 3
@@ -4028,44 +3222,28 @@ __Âu__ __tàu__
 
 ≤5
 
-
 <a id="muc-2-1"></a>
 ### 2.1 4
 
 __Kết cấu quy__ __mô__ __nhỏ, lẻ khác__
-
 
 <a id="muc-2-14-1"></a>
 ### 2.14.1 Phục vụ cho lắp đặt các trò chơi mạo hiểm có ảnh hưởng đến an toàn cộng đồng (tàu lượn, tháp, trụ thép, máng trượt nước, kết cấu thép đỡ thiết bị trò chơi,...)
 
 Tổng chiều cao bao gồm công trình và phần thiết bị công nghệ gắn vào công trình (m)
 
-
-
-
-
 >15
 
 ≤15
-
-
-
 
 <a id="muc-2-14-2"></a>
 ### 2.14.2 Hàng rào, tường rào; Lan can bảo vệ và kết cấu tương tự khác
 
 Chiều cao (m)
 
-
-
-
-
-
-
 >6
 
 ≤6
-
 
 <a id="muc-2-14-3"></a>
 ### 2.14.3 Khối xây gạch/đá/bê tông hoặc tấm bê tông để làm các kết cấu nhỏ lẻ như bồn hoa, bia, mộ, mốc quan trắc (trên đất liền)… và các kết cấu có quy mô nhỏ, lẻ khác: cấp IV.
@@ -4171,7 +3349,6 @@ __PHỤ LỤC III__
 VÍ DỤ XÁC ĐỊNH CẤP CÔNG TRÌNH VÀ ÁP DỤNG CẤP CÔNG TRÌNH TRONG QUẢN LÝ HOẠT ĐỘNG XÂY DỰNG
 *(Ban hành kèm theo Thông tư số 34/2026/TT-BXD ngày 25 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
 
-
 <a id="muc-3-1"></a>
 ### 3.1 Ví dụ 1: Dự án đầu tư xây dựng công trình dân dụng - Trường trung học phổ thông A
 
@@ -4254,7 +3431,6 @@ c) Áp dụng cấp công trình trong quản lý các hoạt động xây dựn
 \+ Trường hợp phạm vi thực hiện cho một số công trình thuộc dự án đầu tư xây dựng công trình: Theo điểm b khoản 3 Điều 3 Thông tư này, áp dụng cấp công trình (đã xác định tại mục b Ví dụ này) đối với từng công trình được xét; ví dụ: Nhà A1 lấy cấp công trình là __cấp II__ để áp dụng; Nhà A3 lấy __cấp III__ để áp dụng; Sân vườn lấy __cấp IV__ để áp dụng;
 
 \+ Trường hợp phạm vi thực hiện cho một công trình độc lập: Theo điểm a khoản 3 Điều 3 Thông tư này, áp dụng cấp của công trình thực hiện (đã xác định tại mục b Ví dụ này); ví dụ: Nhà A2 lấy __cấp III__ để áp dụng; tương tự, nếu tổ chức, cá nhân chỉ tham gia thực hiện hàng rào bảo vệ hoặc nhà bảo vệ thì lấy cấp công trình là __cấp IV__ để áp dụng.
-
 
 <a id="muc-3-2"></a>
 ### 3.2 Ví dụ 2: Dự án đầu tư xây dựng công trình dân dụng - Bệnh viện đa khoa Q
@@ -4347,7 +3523,6 @@ Như vậy cấp công trình Nhà Q8 xác định được là __cấp II__ (c�
 
 c) Áp dụng cấp công trình trong quản lý các hoạt động xây dựng: Cách xác định xem Ví dụ 1 của Phụ lục này.
 
-
 <a id="muc-3-3"></a>
 ### 3.3 Ví dụ 3: Dự án đầu tư xây dựng công trình dân dụng - Khu phức hợp X
 
@@ -4401,7 +3576,6 @@ c) Áp dụng cấp công trình trong quản lý các hoạt động xây dựn
 
 - Áp dụng cấp công trình để quản lý các hoạt động xây dựng được quy định từ điểm c đến điểm p khoản 1 Điều 3 Thông tư này: Cách xác định xem Ví dụ 1 của Phụ lục này.
 
-
 <a id="muc-3-4"></a>
 ### 3.4 Ví dụ 4: Dự án đầu tư xây dựng công trình công nghiệp - Nhà máy xi măng A
 
@@ -4451,7 +3625,6 @@ c) Áp dụng cấp công trình trong quản lý các hoạt động xây dựn
 
 \+ Trường hợp phạm vi thực hiện cho một công trình độc lập (thuộc dây chuyền chính hoặc công trình độc lập khác thuộc dự án) hoặc cho một số công trình thuộc dự án đầu tư xây dựng công trình: Cách xác định xem Ví dụ 1 của Phụ lục này.
 
-
 <a id="muc-3-5"></a>
 ### 3.5 Ví dụ 5: Dự án đầu tư xây dựng công trình công nghiệp - Thủy điện B
 
@@ -4499,7 +3672,6 @@ b) Xác định cấp các công trình thuộc Thủy điện B:
 
 c) Áp dụng cấp công trình trong quản lý các hoạt động xây dựng: Cách xác định xem Ví dụ 1 của Phụ lục này.
 
-
 <a id="muc-3-6"></a>
 ### 3.6 Ví dụ 6: Dự án đầu tư xây dựng công trình công nghiệp - Nhà máy cơ khí C
 
@@ -4535,7 +3707,6 @@ c) Áp dụng cấp công trình trong quản lý các hoạt động xây dựn
 
 - Áp dụng cấp công trình để quản lý các hoạt động xây dựng được quy định từ điểm b đến điểm p khoản 1 Điều 3 Thông tư này: Cách xác định xem Ví dụ 1 của Phụ lục này.
 
-
 <a id="muc-3-7"></a>
 ### 3.7 Ví dụ 7: Dự án đầu tư xây dựng công trình hạ tầng kỹ thuật (HTKT) - Tháp truyền hình HN
 
@@ -4566,7 +3737,6 @@ b) Xác định cấp các công trình thuộc Dự án Tháp tuyền hình HN:
 - Công trình P2: __Cấp III__ (cách xác định cấp công trình xem Ví dụ 1 của Phụ lục này).
 
 c) Áp dụng cấp công trình trong quản lý các hoạt động xây dựng: Cách xác định xem Ví dụ 6 của Phụ lục này.
-
 
 <a id="muc-3-8"></a>
 ### 3.8 Ví dụ 8: Dự án đầu tư xây dựng công trình HTKT - Nhà máy nước A
@@ -4623,7 +3793,6 @@ Như vậy cấp công trình A4 là __cấp I__ (cấp cao nhất xác định 
 
 c) Áp dụng cấp công trình trong quản lý các hoạt động xây dựng: Cách xác định xem Ví dụ 4 của Phụ lục này.
 
-
 <a id="muc-3-9"></a>
 ### 3.9 Ví dụ 9: Dự án đầu tư xây dựng công trình HTKT - Nhà để xe ô tô, Bãi đỗ xe ô tô
 
@@ -4650,7 +3819,6 @@ Như vậy, cấp công trình Nhà để xe B là __cấp II__ (cấp cao nhấ
 __c) Dự án đầu tư xây dựng Bãi đỗ xe C không có nhà để xe:__
 
 Dự án Bãi đỗ xe C được đầu tư xây dựng mới Sân bê tông cốt thép diện tích 10.000 m2 và không có nhà để xe. Cấp công trình này xác định theo quy định tại khoản 2 Điều 2 Thông tư này như sau: Công trình tương ứng với mục 1.3.8.3 Bảng 1.3 Phụ lục I, cấp công trình xác định được theo tổng diện tích là __cấp IV__.
-
 
 <a id="muc-3-10"></a>
 ### 3.10 Ví dụ 10: Dự án đầu tư xây dựng công trình giao thông - Tuyến đường ô tô cao tốc A
@@ -4697,14 +3865,12 @@ c) Áp dụng cấp công trình trong quản lý các hoạt động xây dựn
 
 \+ Trường hợp phạm vi thực hiện cho toàn bộ các công trình, áp dụng cấp công trình (đã xác định tại mục a và mục b Ví dụ này) của các công trình thuộc tuyến.
 
-
 <a id="muc-3-11"></a>
 ### 3.11 Ví dụ 11: Dự án đầu tư xây dựng công trình giao thông - Hải đăng M
 
 “Hải đăng M” xây dựng trên đảo, cao 50 m so với mặt đất ngoài công trình. Cấp công trình của “Hải đăng M” được xác định theo quy định tại khoản 2 Điều 2 Thông tư này như sau:
 
 Công trình “Hải đăng M” không có trong Bảng 1.4 Phụ lục I, vì vậy cấp công trình được xác định theo loại và quy mô kết cấu. Theo Bảng 2 Phụ lục II, công trình này tương ứng với mục 2.2.3; cấp công trình xác định được theo chiều cao của kết cấu là __cấp II__.
-
 
 <a id="muc-3-12"></a>
 ### 3.12 Ví dụ 12: Dự án đầu tư xây dựng công trình nông nghiệp và môi trường - Trang trại A
@@ -4755,7 +3921,6 @@ c) Áp dụng cấp công trình trong quản lý các hoạt động xây dựn
 
 - Áp dụng cấp công trình để quản lý các hoạt động xây dựng được quy định từ điểm c đến điểm p khoản 1 Điều 3 Thông tư này: Cách xác định xem Ví dụ 1 của Phụ lục này
 
-
 <a id="muc-3-13"></a>
 ### 3.13  Ví dụ 13: Dự án đầu tư xây dựng công trình giao thông - Ga hành khách đường sắt C
 
@@ -4796,7 +3961,6 @@ b) Xác định cấp của các công trình trong khu ga
 - Công trình A5 không có trong Phụ lục I, vì vậy cấp công trình được xác định theo loại và quy mô kết cấu. Theo Bảng 2 Phụ lục II, công trình này tương ứng với mục 2.1.3 (Kết cấu nhịp lớn dạng khung); cấp công trình xác định được là __cấp__ __III__ (cấp cao nhất xác định được theo tổng diện tích sàn).
 
 c) Áp dụng cấp công trình trong quản lý các hoạt động xây dựng: Cách xác định xem Ví dụ 1 của Phụ lục này.
-
 
 <a id="muc-3-14"></a>
 ### 3.14  Ví dụ 14: Dự án đầu tư xây dựng công trình giao thông - Công trình hàng không
@@ -4850,7 +4014,6 @@ b) Xác định cấp của các công trình phụ trợ (A6):
 - Hàng rào an ninh hàng không: Công trình không có trong Phụ lục I (không có mức độ quan trọng hoặc quy mô công suất), vì vậy cấp công trình được xác định theo loại và quy mô kết cấu. Theo mục 2.14.2 Bảng 2 Phụ lục II, cấp công trình xác định là __cấp__ __IV__.
 
 c) Áp dụng cấp công trình trong quản lý các hoạt động xây dựng: Cách xác định xem Ví dụ 3 của Phụ lục này.
-
 
 <a id="muc-3-15"></a>
 ### 3.15  Ví dụ 15: Dự án đầu tư xây dựng công trình giao thông - Tuyến đường ô tô cao tốc B theo được phân kỳ đầu tư 02 theo giai đoạn
@@ -4930,7 +4093,6 @@ Dự án Đường cao tốc B được phân kỳ đầu tư theo 02 giai đo�
 \+ Trường hợp phạm vi thực hiện cho toàn bộ các công trình, áp dụng cấp công trình (đã xác định tại mục a và mục b Ví dụ này) đối với từng công trình thuộc tuyến.
 
 d) Áp dụng cấp công trình trong quản lý các hoạt động xây dựng Giai đoạn 2 dự án Đường cao tốc B (giai đoạn kết thúc xây dựng của dự án): Tương tự như mục c.
-
 
 <a id="muc-3-16"></a>
 ### 3.16 Ví dụ 16: Dự án đầu tư xây dựng công trình dân dụng - Công trình khoa khám __bệnh và điều trị theo yêu cầu D thuộc Bệnh viện đa khoa Q hiện hữu__

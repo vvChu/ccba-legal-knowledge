@@ -26,8 +26,6 @@ Số: ...............
 
 *........., ngày........tháng........năm........*
 
-
-
 __THÔNG BÁO
 ____KHỞI CÔNG XÂY DỰNG HẠNG MỤC CÔNG TRÌNH,__
 __CÔNG TRÌNH XÂY DỰNG__
@@ -51,8 +49,6 @@ Kính gửi: .......... (2) .........
 **7.** Danh sách các nhà thầu chính và nhà thầu phụ (nếu có): (các nhà thầu chính: khảo sát xây dựng, thiết kế xây dựng, thi công xây dựng, giám sát thi công xây dựng, quản lý dự án).
 
 **8.** Ngày khởi công và ngày hoàn thành (dự kiến).
-
-
 
 __*Nơi nhận:*__
 - Như trên;

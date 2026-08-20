@@ -23,7 +23,6 @@ HƯỚNG DẪN PHƯƠNG PHÁP XÁC ĐỊNH ĐỊNH MỨC DỰ TOÁN VÀ CÁC CH�
 
 *Bộ trưởng Bộ Xây dựng ban hành Thông tư hướng dẫn phương pháp xác định định mức dự toán và các chỉ tiêu kinh tế kỹ thuật.*
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Ban hành kèm theo Thông tư này phương pháp xác định định mức dự toán và các chỉ tiêu kinh tế kỹ thuật gồm:
 
@@ -45,7 +44,6 @@ HƯỚNG DẪN PHƯƠNG PHÁP XÁC ĐỊNH ĐỊNH MỨC DỰ TOÁN VÀ CÁC CH�
 <a id="dieu-1-khoan-6"></a>
 6. Phương pháp xác định suất vốn đầu tư và suất chi phí tại Phụ lục VI.
 
-
 <a id="dieu-2"></a>
 ### Điều 2. Xử lý chuyển tiếp áp dụng giá nhân công
 
@@ -58,10 +56,8 @@ HƯỚNG DẪN PHƯƠNG PHÁP XÁC ĐỊNH ĐỊNH MỨC DỰ TOÁN VÀ CÁC CH�
 <a id="dieu-2-khoan-3"></a>
 3. Việc xác định giá nhân công cho các công tác xây dựng trong các tập định mức dự toán xây dựng do các Bộ quản lý công trình xây dựng chuyên ngành và Ủy ban nhân dân cấp tỉnh ban hành trước ngày 01 tháng 7 năm 2026 chưa chuyển đổi sang nhóm nhân công theo quy định thì căn cứ theo tính chất công tác xây dựng để lựa chọn nhóm nhân công phù hợp theo quy định tại Bảng 3.1 Phụ lục III Thông tư này.
 
-
 <a id="dieu-3"></a>
 ### Điều 3. Thông tư này có hiệu lực kể từ ngày 01 tháng 7 năm 2026.
-
 
 <a id="dieu-4"></a>
 ### Điều 4. Thông tư này thay thế Thông tư số 13/2021/TT-BXD ngày 31 tháng 8 năm 2021, Thông tư số 01/2025/TT-BXD ngày 22 tháng 01 năm 2025, Điều 12 Thông tư số 09/2025/TT-BXD ngày 13 tháng 6 năm 2025, khoản 6 Điều 1 và Điều 3 Thông tư số 60/2025/TT-BXD ngày 30 tháng 12 năm 2025 của Bộ trưởng Bộ Xây dựng./.
@@ -90,9 +86,6 @@ Nơi nhận:
 
 __KT. BỘ TRƯỞNG
 THỨ TRƯỞNG
-
-
-
 
 Bùi Xuân Dũng__
 
@@ -968,7 +961,6 @@ GNCXD: giá nhân công xây dựng của nhóm nhân công xây dựng (đồng
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAfCAIAAADr6EOiAAAAAXNSR0IArs4c6QAABChJREFUSEvtVmtMFFcUntmd3ZlZdpEgC7pIRUnDD+wLS8SSVNNQQmsI1C19iqlSWmLsw2glTS1dUtO0P2iapoC1xsYNCbUErYQVsNaNqWyBUkoaJfLYgLgKVbCwOzt3HvfOdNjFhG1nhQnEX56f995zv/nO+c53B5dlGbvvobvviLOAD1A1lZ1ngpKmhGWocLC3br/jJx/ShIsvXcPAHyBjLZoEoumwGh8JYnoc18R0ERWWkchzAHAcx4eD40WIBCY85XCqr/794n1NN7R19p4VliF7+6q7qaHZcw3GJsSbTQY9gnjcunTz+LWU8o+KbEql/J6KF6qfcDa+kqylbEpfo4Q4+fuxt556dGv50U5fAIToKsH4Oo6UblqfU30FhPKYnkO59gYfin6Pyg4W7TQ/UF/2uPWhoi87p4TIKxE33l61u6rDH0r1d32Ya3eOLQsqvHny7Q2WmEf2t02qfZYw1vnbKKvswJl+5xtZWz85f4OTNLBV5yqOfGe3Gai0spZ/Iu+SRFFQtAVAcAbwoqggIRgMBHhtVGV1CQS8PX9OyeTK5DXk/JmQ2eu9Z53VFXvKy/fsq6xt6hplJJ3eZDYbtSgpqvtLPMtLmAQFMWIicFNK5vP2LSsuN590DSdt2bYp1awRbo6DehZteziVxriJ4avTkYOIE4Qp0RqDQ505KdFEaHWHu4VTRzWl52/LiscmPa3nvML/fMcQWiE0+tH841EqRG/c/UFZTsIdV12NawSgyN+NSPoICoBhGBaFliUEGCAgJCGOYYKCOBuK/jgBzr9D73A41D4aN6dlbV4nXG5pON0dWLUhIzWOkBBCEAp+r/uHxk6QXlRqz7BgYLzPVVtRuuvwr3TOs5mJ/JXjB9870m+MR93Vr5Z8PYjhkwOetob6M32CLSN9FT1H8p6OiPjp6z2tP55q7x4GsWuSEyw6bvr2LYawPZb3or1w83pqtq8IcuM/V+1yTOw4UVsIWxt7kwpeyrZiQzUFr/91oK3umThMBkONB0u/MRw49ZV9tT7EcaHZnjV/Nhhkw5YIAMuyQHkA/mNXt9yfFmQX7q2sOTsQCNkFP1iXm/nmhbvjPnOp8sm07d+PimG4BZWvI4wkbTLRFEWRJElRNE1TpJGIzNNZn95ZsnHiYg+zcrVZTdgxa1OscOzvO3PSXBB1UUoVJ7o6Atnvvmw488WxLr9KCuu7OUWlJVvnTGfJqBIS/f2u5sHkvOLX3vm4WHYerrs0pbzASKElKxqGUBQYb3vDhZiinfm2cFexaBpeFEVFSv5h94nPPm83PLcjLy3GQOt8v3x79Py4JYkc87guevEV1PTQH+6WcyNrSw7tzU8JyU+JJf83KVwFjidoc6jVEmJYgBkoisAhAMhIGnW4sogk3EAZ54guB+oiixJ5bMl9fYC6QAX+BW5Ng8jLGpGZAAAAAElFTkSuQmCC)m: số lượng giá nhân công xây dựng được thu thập, tổng hợp trong nhóm.
 
-
 <a id="muc-1-6"></a>
 ### 1.6 Trường hợp đối với các khu vực vùng sâu, vùng xa (khu vực dân cư thưa thớt, nằm sâu trong rừng núi hoặc vùng ngập nước, xa các trung tâm kinh tế, văn hóa, giao thông không thuận tiện, đi lại khó khăn, điều kiện kinh tế - xã hội kém phát triển) và hải đảo, việc tổ chức khảo sát giá nhân công để công bố không thể thực hiện được thì giá nhân công xây dựng bình quân công bố cho các khu vực này được điều chỉnh nhưng không vượt quá 2 lần so với giá nhân công xây dựng bình quân đã công bố của vùng lân cận.
 
@@ -1144,7 +1136,6 @@ Cần cẩu bánh xích - sức nâng 80t
 
 1x4/7\+1x6/7
 
-
 <a id="muc-320-230"></a>
 ### 320.230 \+ 446.382 = 766.612
 
@@ -1170,7 +1161,6 @@ Máy rải hỗn hợp bê tông nhựa - năng suất 130 cv - 140 cv
 
 1x3/7\+1x5/7
 
-
 <a id="muc-269-770"></a>
 ### 269.770 \+ 376.513 = 646.283
 
@@ -1179,7 +1169,6 @@ Máy rải hỗn hợp bê tông nhựa - năng suất 130 cv - 140 cv
 Máy khoan xoay đập tự hành, khí nén (chưa tính khí nén) - đường kính khoan D105-110 mm
 
 1x3/7\+1x4/7
-
 
 <a id="muc-269-770"></a>
 ### 269.770 \+ 320.230 = 590.000
@@ -1210,7 +1199,6 @@ Cần trục ô tô - sức nâng 16 t
 
 1x1/4\+1x3/4 lái xe
 
-
 <a id="muc-250-000"></a>
 ### 250.000 \+ 350.000 = 600.000
 
@@ -1222,7 +1210,6 @@ Xe nâng - chiều cao nâng 18 m
 
 1x1/4\+1x3/4 lái xe
 
-
 <a id="muc-250-000"></a>
 ### 250.000 \+ 350.000 = 600.000
 
@@ -1231,7 +1218,6 @@ Xe nâng - chiều cao nâng 18 m
 Máy phun nhựa đường - công suất 190 cv
 
 1x1/4\+1x3/4 lái xe
-
 
 <a id="muc-250-000"></a>
 ### 250.000 \+ 350.000 = 600.000
@@ -1258,7 +1244,6 @@ Máy phun nhựa đường - công suất 190 cv
 
 1x1/4\+1x3/4 lái xe
 
-
 <a id="muc-250-000"></a>
 ### 250.000 \+ 350.000 = 600.000
 
@@ -1267,7 +1252,6 @@ Máy phun nhựa đường - công suất 190 cv
 Xe bơm bê tông tự hành - năng suất 60 m3/h
 
 1x1/4\+1x3/4 lái xe
-
 
 <a id="muc-250-000"></a>
 ### 250.000 \+ 350.000 = 600.000
@@ -16146,7 +16130,6 @@ __V. CÁC BIỂU MẪU CÔNG BỐ CHỈ SỐ GIÁ XÂY DỰNG__
 | Vật liệu tấm lợp bao che | 11 | Cửa khung nhựa /nhôm | 12 | Kính | 13 | Sơn |
 | 14 | Vật tư điện | 15 | Vật tư nước | 16 | Trần, vách thạch cao | … |
 | … | __PHỤ LỤC VI__ |  |  |  |  |  |
-
 
 # PHƯƠNG PHÁP XÁC ĐỊNH SUẤT VỐN ĐẦU TƯ VÀ SUẤT CHI PHÍ
 *(Kèm theo Thông tư số 37/2026/TT-BXD ngày 26/6/2026 của Bộ trưởng Bộ Xây dựng)*

@@ -182,10 +182,6 @@ Gửi kèm theo Đơn này các tài liệu:
 
 2 -
 
-
-
-
-
 *......, ngày ..... tháng ..... năm .....*
 __NGƯỜI LÀM ĐƠN/ĐẠI DIỆN CHỦ ĐẦU TƯ__
 *(Ký, ghi rõ họ và tên, đóng dấu (nếu có))*

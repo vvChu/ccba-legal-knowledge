@@ -25,8 +25,6 @@ Số: ...
 
 *..., ngày ... tháng ... năm ...*
 
-
-
 __TỜ TRÌNH__
 __Thẩm định Báo cáo nghiên cứu khả thi__
 __*(tên dự án/công trình của dự án)*__
@@ -96,8 +94,6 @@ __II.__ __DANH MỤC HỒ SƠ TRÌNH THẨM ĐỊNH__
 **3.** Danh sách mã số chứng chỉ hành nghề hoạt động xây dựng của các chức danh chủ nhiệm khảo sát xây dựng; chủ nhiệm, chủ trì các bộ môn thiết kế; chủ nhiệm, chủ trì thẩm tra (nếu có).
 
 *(Cơ quan chuẩn bị dự án)* trình *(Cơ quan chuyên môn về xây dựng)* thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án)* với các nội dung nêu trên.
-
-
 
 __*Nơi nhận:*__
 - Như trên;

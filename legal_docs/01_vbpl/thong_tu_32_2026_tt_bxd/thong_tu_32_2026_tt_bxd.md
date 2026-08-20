@@ -25,7 +25,6 @@ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 207/2026/NĐ
 
 *Bộ trưởng Bộ Xây dựng ban hành Thông tư quy định chi tiết một số điều của Nghị định số **207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ quy định chi tiết một số điều của **Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng.*
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 
@@ -47,7 +46,6 @@ e) Khoản 10 Điều 43 về nội dung báo cáo và công bố công trình h
 <a id="dieu-1-khoan-2"></a>
 2. Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước, tổ chức, cá nhân nước ngoài có liên quan đến quản lý chất lượng công trình xây dựng, thi công xây dựng công trình và bảo trì công trình xây dựng trên lãnh thổ Việt Nam.
 
-
 <a id="dieu-2"></a>
 ### Điều 2. Kế hoạch tổ chức thí nghiệm
 
@@ -60,7 +58,6 @@ e) Khoản 10 Điều 43 về nội dung báo cáo và công bố công trình h
 <a id="dieu-2-khoan-3"></a>
 3. Trường hợp điều chỉnh kế hoạch tổ chức thí nghiệm thì phải được chủ đầu tư chấp thuận trước khi tổ chức thực hiện.
 
-
 <a id="dieu-3"></a>
 ### Điều 3. Quan trắc công trình trong quá trình thi công xây dựng
 
@@ -72,7 +69,6 @@ e) Khoản 10 Điều 43 về nội dung báo cáo và công bố công trình h
 
 <a id="dieu-3-khoan-3"></a>
 3. Trường hợp kết quả quan trắc do nhà thầu thi công xây dựng thực hiện có dấu hiệu không trung thực hoặc không đảm bảo độ tin cậy thì chủ đầu tư có thể lựa chọn nhà thầu quan trắc độc lập để thực hiện một số nội dung quan trắc cần thiết nhằm đánh giá lại kết quả quan trắc. Nếu kết quả quan trắc độc lập chứng minh được sai sót hoặc vi phạm của nhà thầu thi công xây dựng thì nhà thầu này phải kịp thời xử lý, khắc phục và chi trả chi phí phát sinh cho công tác quan trắc độc lập.
-
 
 <a id="dieu-4"></a>
 ### Điều 4. Kiểm định xây dựng
@@ -129,7 +125,6 @@ d) Các kết quả thí nghiệm, quan trắc, tính toán, phân tích và đ�
 <a id="dieu-4-khoan-6"></a>
 6. Trường hợp kết quả kiểm định xây dựng không đáp ứng được yêu cầu thiết kế, quy chuẩn kỹ thuật, tiêu chuẩn áp dụng thì chủ đầu tư, chủ sở hữu hoặc chủ quản lý, sử dụng công trình có trách nhiệm tổ chức đánh giá và khắc phục.
 
-
 <a id="dieu-5"></a>
 ### Điều 5. Trình tự thực hiện và thông báo kết luận giám định xây dựng
 
@@ -159,7 +154,6 @@ d) Trình tự tổ chức thực hiện giám định xây dựng;
 
 e) Phân định trách nhiệm của các tổ chức, cá nhân có liên quan và biện pháp xử lý, khắc phục (nếu có).
 
-
 <a id="dieu-6"></a>
 ### Điều 6. Quan trắc phục vụ công tác bảo trì đối với công trình xây dựng thuộc thẩm quyền quản lý của Bộ Xây dựng
 
@@ -175,7 +169,6 @@ e) Phân định trách nhiệm của các tổ chức, cá nhân có liên quan
 a) Phạm vi quan trắc: các kết cấu chịu lực chính của công trình (ví dụ: giàn mái không gian, hệ khung chịu lực chính, khán đài sân vận động, ống khói, si lô);
 
 b) Thông số quan trắc (ví dụ: biến dạng nghiêng, lún, nứt, võng, chuyển vị) và giá trị giới hạn của các thông số này; thời gian quan trắc; chu kỳ đo và các nội dung cần thiết khác.
-
 
 <a id="dieu-7"></a>
 ### Điều 7. Nội dung báo cáo và công bố công trình hết thời hạn sử dụng theo thiết kế
@@ -197,7 +190,6 @@ e) Dự kiến phương án xử lý đối với công trình sau khi hết th�
 
 <a id="dieu-7-khoan-2"></a>
 2. Cơ quan nhà nước có thẩm quyền quy định tại khoản 9 Điều 43 Nghị định số 207/2026/NĐ-CP công bố công trình hết thời hạn sử dụng theo thiết kế đối với các nội dung quy định tại khoản 1 Điều này trên trang thông tin điện tử thuộc thẩm quyền quản lý.
-
 
 <a id="dieu-8"></a>
 ### Điều 8. Hiệu lực thi hành
@@ -235,12 +227,7 @@ Nơi nhận:
 __KT. BỘ TRƯỞNG
 THỨ TRƯỞNG
 
-
-
-
 Phạm Minh Hà__
-
-
 
 __PHỤ LỤC__
 

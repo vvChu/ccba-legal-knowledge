@@ -22,11 +22,7 @@ __CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
 Độc lập - Tự do - Hạnh phúc
 ---------------__
 
-
-
 *..., ngày ... tháng ... năm ...*
-
-
 
 __GIẤY PHÉP SỬA CHỮA, CẢI TẠO, DI DỜI/GIẤY PHÉP XÂY DỰNG ĐIỀU CHỈNH/GIA HẠN__
 Số: .../GPSC (GPCT; GPDD)
@@ -94,8 +90,6 @@ Số: .../GPSC (GPCT; GPDD)
 **5.** Dự kiến thời gian hoàn thành công trình: ....................
 
 **6.** Giấy phép này có hiệu lực khởi công xây dựng trong thời hạn 12 tháng kể từ ngày cấp; quá thời hạn trên thì phải đề nghị gia hạn giấy phép xây dựng.
-
-
 
 __*Nơi nhận:*__
 - Chủ đầu tư;

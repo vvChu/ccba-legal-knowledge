@@ -9,8 +9,6 @@ Số: 24/2024/NĐ-CP
 
 *Hà Nội, ngày 27 tháng 02 năm 2024*
 
-
-
 __NGHỊ ĐỊNH__
 
 QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP THI HÀNH LUẬT ĐẤU THẦU VỀ LỰA CHỌN NHÀ THẦU
@@ -32,7 +30,6 @@ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP THI HÀNH LUẬT Đ�
 ### Chương I
 
 __NHỮNG QUY ĐỊNH CHUNG__
-
 
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
@@ -58,7 +55,6 @@ h) Kiểm tra, giám sát hoạt động đấu thầu và giải quyết kiến
 
 i) Xử lý vi phạm trong hoạt động đấu thầu.
 
-
 <a id="dieu-2"></a>
 ### Điều 2. Đối tượng áp dụng
 
@@ -67,7 +63,6 @@ i) Xử lý vi phạm trong hoạt động đấu thầu.
 
 <a id="dieu-2-khoan-2"></a>
 2. Tổ chức, cá nhân có hoạt động đấu thầu không thuộc phạm vi điều chỉnh quy định tại Điều 1 của Luật Đấu thầu được tự lựa chọn áp dụng toàn bộ hoặc các điều, khoản, điểm cụ thể của Nghị định này.
-
 
 <a id="dieu-3"></a>
 ### Điều 3. Bảo đảm cạnh tranh trong đấu thầu
@@ -81,7 +76,6 @@ i) Xử lý vi phạm trong hoạt động đấu thầu.
 <a id="dieu-3-khoan-3"></a>
 3. Nhà thầu tư vấn quản lý dự án, tư vấn giám sát không được đồng thời là nhà thầu thi công xây dựng hoặc cung ứng vật tư, thiết bị cho gói thầu mà mình quản lý, giám sát.
 
-
 <a id="dieu-4"></a>
 ### Điều 4. Ưu đãi trong lựa chọn nhà thầu
 
@@ -93,7 +87,6 @@ i) Xử lý vi phạm trong hoạt động đấu thầu.
 
 <a id="dieu-4-khoan-3"></a>
 3. Cách tính điểm ưu đãi: Cộng thêm điểm vào điểm đánh giá hoặc trừ bớt vào giá đánh giá theo tỷ lệ quy định tại Hồ sơ mời thầu.
-
 
 <a id="dieu-5"></a>
 ### Điều 5. Chi phí trong lựa chọn nhà thầu
@@ -107,7 +100,6 @@ i) Xử lý vi phạm trong hoạt động đấu thầu.
 <a id="dieu-5-khoan-3"></a>
 3. Chi phí thẩm định kế hoạch lựa chọn nhà thầu, thẩm định hồ sơ mời thầu và thẩm định kết quả lựa chọn nhà thầu được tính theo tỷ lệ phần trăm trên giá trị gói thầu trong tổng mức đầu tư dự án.
 
-
 <a id="dieu-6"></a>
 ### Điều 6. Bảo đảm dự thầu
 
@@ -119,7 +111,6 @@ i) Xử lý vi phạm trong hoạt động đấu thầu.
 
 <a id="dieu-6-khoan-3"></a>
 3. Trường hợp nhà thầu liên danh, từng thành viên trong liên danh có thể nộp bảo đảm dự thầu riêng rẽ hoặc ủy quyền cho thành viên đứng đầu liên danh nộp bảo đảm dự thầu cho toàn bộ liên danh.
-
 
 <a id="dieu-7"></a>
 ### Điều 7. Bảo đảm thực hiện hợp đồng
@@ -133,7 +124,6 @@ i) Xử lý vi phạm trong hoạt động đấu thầu.
 <a id="dieu-7-khoan-3"></a>
 3. Nhà thầu không được hoàn trả bảo đảm thực hiện hợp đồng trong trường hợp từ chối thực hiện hợp đồng khi hợp đồng đã có hiệu lực hoặc vi phạm thỏa thuận trong hợp đồng.
 
-
 <a id="dieu-8"></a>
 ### Điều 8. Hủy thầu và xử lý hậu quả khi hủy thầu
 
@@ -143,7 +133,6 @@ i) Xử lý vi phạm trong hoạt động đấu thầu.
 <a id="dieu-8-khoan-2"></a>
 2. Tổ chức, cá nhân có hành vi vi phạm dẫn đến hủy thầu phải chịu trách nhiệm bồi thường thiệt hại cho các bên liên quan theo quy định của pháp luật.
 
-
 <a id="dieu-9"></a>
 ### Điều 9. Điều kiện của tổ chuyên gia và tổ thẩm định
 
@@ -152,7 +141,6 @@ i) Xử lý vi phạm trong hoạt động đấu thầu.
 
 <a id="dieu-9-khoan-2"></a>
 2. Tổ thẩm định phải độc lập với tổ chuyên gia và bên mời thầu. Thành viên tổ thẩm định phải có chứng chỉ chuyên môn và có kinh nghiệm thực tế về công tác thẩm định đấu thầu.
-
 
 <a id="dieu-10"></a>
 ### Điều 10. Đăng tải thông tin đấu thầu qua mạng
@@ -164,7 +152,6 @@ Tất cả thông tin về kế hoạch lựa chọn nhà thầu, thông báo m�
 ### Chương II
 
 __KẾ HOẠCH LỰA CHỌN NHÀ THẦU__
-
 
 <a id="dieu-11"></a>
 ### Điều 11. Nguyên tắc lập kế hoạch lựa chọn nhà thầu
@@ -178,7 +165,6 @@ __KẾ HOẠCH LỰA CHỌN NHÀ THẦU__
 <a id="dieu-11-khoan-3"></a>
 3. Việc phân chia gói thầu phải căn cứ vào tính chất kỹ thuật, trình tự thực hiện và quy mô của dự án để bảo đảm tính đồng bộ và hiệu quả kinh tế.
 
-
 <a id="dieu-12"></a>
 ### Điều 12. Xác định giá gói thầu
 
@@ -188,7 +174,6 @@ __KẾ HOẠCH LỰA CHỌN NHÀ THẦU__
 <a id="dieu-12-khoan-2"></a>
 2. Đối với gói thầu xây lắp, giá gói thầu được xác định trên cơ sở dự toán xây dựng công trình được phê duyệt theo quy định của pháp luật về quản lý chi phí đầu tư xây dựng.
 
-
 <a id="dieu-13"></a>
 ### Điều 13. Thẩm định kế hoạch lựa chọn nhà thầu
 
@@ -197,7 +182,6 @@ __KẾ HOẠCH LỰA CHỌN NHÀ THẦU__
 
 <a id="dieu-13-khoan-2"></a>
 2. Báo cáo thẩm định kế hoạch lựa chọn nhà thầu phải được lập bằng văn bản trước khi trình người có thẩm quyền phê duyệt.
-
 
 <a id="dieu-14"></a>
 ### Điều 14. Phê duyệt kế hoạch lựa chọn nhà thầu
@@ -209,7 +193,6 @@ Người có thẩm quyền hoặc chủ đầu tư ban hành quyết định ph
 ### Chương III
 
 __QUY TRÌNH LỰA CHỌN NHÀ THẦU GÓI THẦU DỊCH VỤ TƯ VẤN__
-
 
 <a id="dieu-15"></a>
 ### Điều 15. Quy trình đấu thầu rộng rãi gói thầu dịch vụ tư vấn
@@ -229,7 +212,6 @@ __QUY TRÌNH LỰA CHỌN NHÀ THẦU GÓI THẦU DỊCH VỤ TƯ VẤN__
 <a id="dieu-15-khoan-5"></a>
 5. Thương thảo hợp đồng, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu.
 
-
 <a id="dieu-16"></a>
 ### Điều 16. Tiêu chuẩn đánh giá hồ sơ dự thầu gói thầu tư vấn
 
@@ -238,7 +220,6 @@ __QUY TRÌNH LỰA CHỌN NHÀ THẦU GÓI THẦU DỊCH VỤ TƯ VẤN__
 
 <a id="dieu-16-khoan-2"></a>
 2. Nhà thầu phải đạt điểm kỹ thuật từ 70% đến 80% tổng số điểm kỹ thuật trở lên mới được mở đề xuất tài chính.
-
 
 <a id="dieu-17"></a>
 ### Điều 17. Phương pháp kết hợp giữa kỹ thuật và giá
@@ -254,7 +235,6 @@ __QUY TRÌNH LỰA CHỌN NHÀ THẦU GÓI THẦU DỊCH VỤ TƯ VẤN__
 ### Chương IV
 
 __QUY TRÌNH LỰA CHỌN NHÀ THẦU GÓI THẦU XÂY LẮP VÀ MUA SẮM HÀNG HÓA__
-
 
 <a id="dieu-18"></a>
 ### Điều 18. Quy trình đấu thầu gói thầu xây lắp
@@ -277,7 +257,6 @@ __QUY TRÌNH LỰA CHỌN NHÀ THẦU GÓI THẦU XÂY LẮP VÀ MUA SẮM HÀNG
 <a id="dieu-18-khoan-6"></a>
 6. Đánh giá đề xuất tài chính theo phương pháp giá thấp nhất hoặc phương pháp giá đánh giá.
 
-
 <a id="dieu-19"></a>
 ### Điều 19. Phương pháp giá đánh giá trong gói thầu xây lắp
 
@@ -286,7 +265,6 @@ __QUY TRÌNH LỰA CHỌN NHÀ THẦU GÓI THẦU XÂY LẮP VÀ MUA SẮM HÀNG
 
 <a id="dieu-19-khoan-2"></a>
 2. Nhà thầu có giá đánh giá thấp nhất sau khi quy đổi được xếp hạng thứ nhất.
-
 
 <a id="dieu-20"></a>
 ### Điều 20. Quy trình lựa chọn nhà thầu gói thầu mua sắm hàng hóa
@@ -303,7 +281,6 @@ __QUY TRÌNH LỰA CHỌN NHÀ THẦU GÓI THẦU XÂY LẮP VÀ MUA SẮM HÀNG
 
 __QUY TRÌNH CHỈ ĐỊNH THẦU, CHÀO HÀNG CẠNH TRANH, MUA SẮM TRỰC TIẾP__
 
-
 <a id="dieu-21"></a>
 ### Điều 21. Quy trình chỉ định thầu thông thường
 
@@ -319,7 +296,6 @@ __QUY TRÌNH CHỈ ĐỊNH THẦU, CHÀO HÀNG CẠNH TRANH, MUA SẮM TRỰC TI
 <a id="dieu-21-khoan-4"></a>
 4. Thẩm định, phê duyệt và công khai kết quả chỉ định thầu.
 
-
 <a id="dieu-22"></a>
 ### Điều 22. Quy trình chỉ định thầu rút gọn
 
@@ -328,7 +304,6 @@ __QUY TRÌNH CHỈ ĐỊNH THẦU, CHÀO HÀNG CẠNH TRANH, MUA SẮM TRỰC TI
 
 <a id="dieu-22-khoan-2"></a>
 2. Chủ đầu tư hoặc cơ quan trực tiếp quản lý gói thầu giao nhà thầu có đủ năng lực, kinh nghiệm thực hiện ngay gói thầu. Trong thời hạn 15 ngày kể từ ngày giao thầu, các bên phải hoàn thiện thủ tục chỉ định thầu và ký kết hợp đồng.
-
 
 <a id="dieu-23"></a>
 ### Điều 23. Quy trình chào hàng cạnh tranh
@@ -339,12 +314,10 @@ __QUY TRÌNH CHỈ ĐỊNH THẦU, CHÀO HÀNG CẠNH TRANH, MUA SẮM TRỰC TI
 <a id="dieu-23-khoan-2"></a>
 2. Chào hàng cạnh tranh rút gọn: Áp dụng đối với gói thầu mua sắm hàng hóa thông dụng dưới 500 triệu đồng.
 
-
 <a id="dieu-24"></a>
 ### Điều 24. Mua sắm trực tiếp
 
 Chủ đầu tư áp dụng mua sắm trực tiếp khi ký hợp đồng với nhà thầu đã trúng thầu thông qua đấu thầu rộng rãi đối với gói thầu tương tự có đơn giá không vượt đơn giá của hợp đồng đã ký trước đó.
-
 
 <a id="dieu-25"></a>
 ### Điều 25. Tự thực hiện
@@ -357,7 +330,6 @@ Chủ đầu tư áp dụng mua sắm trực tiếp khi ký hợp đồng với 
 
 __LỰA CHỌN NHÀ THẦU QUA MẠNG__
 
-
 <a id="dieu-26"></a>
 ### Điều 26. Quy định chung về đấu thầu qua mạng
 
@@ -366,7 +338,6 @@ __LỰA CHỌN NHÀ THẦU QUA MẠNG__
 
 <a id="dieu-26-khoan-2"></a>
 2. Bên mời thầu tạo lập E-HSMT và phát hành trên Hệ thống. Nhà thầu nộp E-HSDT có chữ ký số hợp lệ trước thời điểm đóng thầu.
-
 
 <a id="dieu-27"></a>
 ### Điều 27. Mở thầu tự động và đánh giá E-HSDT
@@ -383,7 +354,6 @@ __LỰA CHỌN NHÀ THẦU QUA MẠNG__
 
 __QUẢN LÝ VÀ THỰC HIỆN HỢP ĐỒNG__
 
-
 <a id="dieu-28"></a>
 ### Điều 28. Quản lý thực hiện hợp đồng
 
@@ -393,7 +363,6 @@ __QUẢN LÝ VÀ THỰC HIỆN HỢP ĐỒNG__
 <a id="dieu-28-khoan-2"></a>
 2. Tạm ứng, thanh toán và quyết toán hợp đồng xây dựng phải tuân thủ đúng tiến độ và khối lượng nghiệm thu quy định trong hợp đồng.
 
-
 <a id="dieu-29"></a>
 ### Điều 29. Điều chỉnh hợp đồng trong hoạt động đấu thầu
 
@@ -402,7 +371,6 @@ __QUẢN LÝ VÀ THỰC HIỆN HỢP ĐỒNG__
 
 <a id="dieu-29-khoan-2"></a>
 2. Mọi nội dung điều chỉnh hợp đồng phải được lập thành phụ lục hợp đồng ký kết giữa các bên.
-
 
 <a id="dieu-30"></a>
 ### Điều 30. Quyết toán và thanh lý hợp đồng
@@ -415,7 +383,6 @@ Trong thời hạn không quá 30 ngày kể từ ngày các bên hoàn thành t
 
 __XỬ LÝ VI PHẠM VÀ GIẢI QUYẾT KIẾN NGHỊ__
 
-
 <a id="dieu-31"></a>
 ### Điều 31. Giải quyết kiến nghị trong đấu thầu
 
@@ -424,7 +391,6 @@ __XỬ LÝ VI PHẠM VÀ GIẢI QUYẾT KIẾN NGHỊ__
 
 <a id="dieu-31-khoan-2"></a>
 2. Người có thẩm quyền thành lập Hội đồng tư vấn giải quyết kiến nghị để xem xét và ban hành quyết định giải quyết kiến nghị.
-
 
 <a id="dieu-32"></a>
 ### Điều 32. Xử lý vi phạm và cấm tham gia hoạt động đấu thầu
@@ -441,7 +407,6 @@ __XỬ LÝ VI PHẠM VÀ GIẢI QUYẾT KIẾN NGHỊ__
 
 __ĐIỀU KHOẢN THI HÀNH__
 
-
 <a id="dieu-33"></a>
 ### Điều 33. Hiệu lực thi hành
 
@@ -451,12 +416,10 @@ __ĐIỀU KHOẢN THI HÀNH__
 <a id="dieu-33-khoan-2"></a>
 2. Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.
 
-
 <a id="dieu-34"></a>
 ### Điều 34. Quy định chuyển tiếp
 
 Đối với các gói thầu đã phê duyệt kế hoạch lựa chọn nhà thầu hoặc phát hành hồ sơ mời thầu trước ngày Nghị định này có hiệu lực thì tiếp tục thực hiện theo quy định của Nghị định số 63/2014/NĐ-CP.
-
 
 <a id="dieu-35"></a>
 ### Điều 35. Trách nhiệm thi hành

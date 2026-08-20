@@ -26,8 +26,6 @@ V/v thông báo kết quả thẩm định Báo cáo kinh tế - kỹ thuật *(
 
 *..., ngày ... tháng ... năm ...*
 
-
-
 Kính gửi: *(Cơ quan chuẩn bị dự án).*
 
 - (Cơ quan/Đơn vị được người quyết định đầu tư giao thẩm định)* đã nhận Văn bản số ... ngày ... tháng ... năm ... của *(cơ quan chuẩn bị dự án)* đề nghị thẩm định Báo cáo kinh tế - kỹ thuật *(tên dự án).*
@@ -133,8 +131,6 @@ Báo cáo kinh tế - kỹ thuật *(tên dự án)* đủ điều kiện/chưa 
 - Yêu cầu sửa đổi, bổ sung, hoàn thiện (nếu có).
 
 Trên đây là thông báo của *(Cơ quan/Đơn vị được người quyết định đầu tư giao thẩm định)* về kết quả thẩm định Báo cáo kinh tế - kỹ thuật *(tên dự án).* Đề nghị *(cơ quan chuẩn bị dự án)* nghiên cứu thực hiện theo quy định.
-
-
 
 __*Nơi nhận:*__
 - Như trên;

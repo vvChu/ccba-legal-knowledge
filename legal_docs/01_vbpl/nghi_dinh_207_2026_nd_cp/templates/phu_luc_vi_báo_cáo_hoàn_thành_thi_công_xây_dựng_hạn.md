@@ -27,8 +27,6 @@ Số: ..................
 
 *..........., ngày....... tháng....... năm .........*
 
-
-
 __BÁO CÁO__
 __HOÀN THÀNH THI CÔNG XÂY DỰNG__
 __HẠNG MỤC CÔNG TRÌNH, CÔNG TRÌNH XÂY DỰNG__
@@ -61,8 +59,6 @@ Kính gửi: .........(2)..............
 
 Chủ đầu tư cam kết đã tổ chức thi công xây dựng theo đúng hồ sơ thiết kế đã được thẩm định, phê duyệt, giấy phép xây dựng (hoặc căn cứ miễn phép theo quy định của pháp luật về xây dựng); tập hợp hồ sơ hoàn thành công trình đầy đủ và tổ chức nghiệm thu hạng mục công trình, công trình xây dựng theo đúng quy định của pháp luật. Đề nghị ....(2)... tổ chức kiểm tra công tác nghiệm thu hạng mục công trình, công trình xây dựng theo thẩm quyền.
 
-
-
 __*Nơi nhận:*__
 - Như trên;
 - Lưu: ...
@@ -70,8 +66,6 @@ __*Nơi nhận:*__
 __NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT__
 __CỦA CHỦ ĐẦU TƯ
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu pháp nhân)*
-
-
 
 ______________________________
 

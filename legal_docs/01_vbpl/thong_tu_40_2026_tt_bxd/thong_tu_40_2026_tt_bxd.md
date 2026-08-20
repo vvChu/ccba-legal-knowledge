@@ -23,7 +23,6 @@ HƯỚNG DẪN XÁC ĐỊNH CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
 
 *Bộ trưởng Bộ Xây dựng ban hành Thông tư hướng dẫn xác định chi phí bảo trì công trình xây dựng.*
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 
@@ -32,7 +31,6 @@ HƯỚNG DẪN XÁC ĐỊNH CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
 
 <a id="dieu-1-khoan-2"></a>
 2. Thông tư này áp dụng đối với các tổ chức, cá nhân có liên quan đến việc xác định chi phí bảo trì công trình xây dựng.
-
 
 <a id="dieu-2"></a>
 ### Điều 2. Xác định chi phí bảo trì công trình xây dựng
@@ -45,7 +43,6 @@ HƯỚNG DẪN XÁC ĐỊNH CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
 
 <a id="dieu-2-khoan-3"></a>
 3. Bảng tổng hợp chi phí bảo trì công trình xây dựng thực hiện theo Phụ lục I ban hành kèm theo Thông tư này.
-
 
 <a id="dieu-3"></a>
 ### Điều 3. Xác định chi phí bảo dưỡng công trình
@@ -61,7 +58,6 @@ HƯỚNG DẪN XÁC ĐỊNH CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
 
 <a id="dieu-3-khoan-4"></a>
 4. Chi phí dự phòng (nếu có) được xác định không quá 5% được tính trên tổng chi phí thực hiện bảo dưỡng và chi phí khác.
-
 
 <a id="dieu-4"></a>
 ### Điều 4. Xác định chi phí sửa chữa công trình
@@ -81,7 +77,6 @@ HƯỚNG DẪN XÁC ĐỊNH CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
 <a id="dieu-4-khoan-5"></a>
 5. Chi phí dự phòng (nếu có) được xác định không quá 5% được tính trên tổng chi phí thực hiện sửa chữa và chi phí khác.
 
-
 <a id="dieu-5"></a>
 ### Điều 5. Xác định chi phí các công việc khác trong kế hoạch bảo trì công trình
 
@@ -94,7 +89,6 @@ HƯỚNG DẪN XÁC ĐỊNH CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
 <a id="dieu-5-khoan-3"></a>
 3. Chi phí quản lý của chủ sở hữu, chủ sử dụng công trình xác định bằng tỷ lệ phần trăm theo quy định tại Phụ lục IV ban hành kèm theo Thông tư này.
 
-
 <a id="dieu-6"></a>
 ### Điều 6. Định mức công việc bảo trì công trình xây dựng
 
@@ -106,7 +100,6 @@ HƯỚNG DẪN XÁC ĐỊNH CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
 
 <a id="dieu-6-khoan-3"></a>
 3. Trường hợp sử dụng định mức cho các công việc bảo trì công trình xây dựng để xác định giá công tác bảo dưỡng, sửa chữa công trình xây dựng thì giá các yếu tố chi phí trực tiếp cấu thành công tác bảo dưỡng, sửa chữa công trình xây dựng (gồm giá vật liệu, giá nhân công, giá ca máy và thiết bị) được xác định theo quy định pháp luật xây dựng về quản lý chi phí đầu tư xây dựng.
-
 
 <a id="dieu-7"></a>
 ### Điều 7. Tổ chức thực hiện và hiệu lực thi hành
@@ -122,7 +115,6 @@ HƯỚNG DẪN XÁC ĐỊNH CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
 
 <a id="dieu-7-khoan-4"></a>
 4. Bãi bỏ Thông tư số 14/2021/TT-BXD ngày 08/9/2021 của Bộ trưởng Bộ Xây dựng về hướng dẫn xác định chi phí bảo trì công trình xây dựng.
-
 
 <a id="dieu-8"></a>
 ### Điều 8. Điều khoản chuyển tiếp
@@ -157,9 +149,6 @@ Nơi nhận:
 
 __KT. BỘ TRƯỞNG
 THỨ TRƯỞNG
-
-
-
 
 Bùi Xuân Dũng__
 
@@ -359,7 +348,6 @@ __GBD__
 
 NGƯỜI LẬP
 *(Ký, họ tên)*
-
 
 NGƯỜI CHỦ TRÌ
 *(Ký, họ tên)*
@@ -748,7 +736,6 @@ __GSC__
 
 NGƯỜI LẬP
 *(Ký, họ tên)*
-
 
 NGƯỜI CHỦ TRÌ
 *(Ký, họ tên)*

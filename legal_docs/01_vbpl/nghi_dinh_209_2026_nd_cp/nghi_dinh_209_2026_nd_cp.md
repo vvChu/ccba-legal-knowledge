@@ -9,8 +9,6 @@ Số: 209/2026/NĐ-CP
 
 *Hà Nội, ngày 15 tháng 6 năm 2026*
 
-
-
 __NGHỊ ĐỊNH__
 
 QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP THI HÀNH LUẬT XÂY DỰNG VỀ QUẢN LÝ VẬT LIỆU XÂY DỰNG
@@ -27,7 +25,6 @@ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP THI HÀNH LUẬT XÂY
 
 __QUY ĐỊNH CHUNG__
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
 
@@ -41,12 +38,10 @@ b) Khoản 4 Điều 11 về cơ chế, chính sách khuyến khích, ưu đãi 
 <a id="dieu-1-khoan-2"></a>
 2. Nghị định này quy định một số biện pháp thi hành Luật Xây dựng số 135/2025/QH15 về quản lý nhà nước đối với phát triển vật liệu xây dựng, sử dụng khoáng sản làm vật liệu xây dựng, sử dụng amiăng và chất thải trong sản xuất vật liệu xây dựng.
 
-
 <a id="dieu-2"></a>
 ### Điều 2. Đối tượng áp dụng
 
 Nghị định này áp dụng đối với cơ quan quản lý nhà nước, tổ chức, cá nhân trực tiếp hoạt động trong lĩnh vực vật liệu xây dựng và cơ quan, tổ chức, cá nhân có liên quan trên lãnh thổ Việt Nam.
-
 
 <a id="dieu-3"></a>
 ### Điều 3. Giải thích từ ngữ
@@ -87,7 +82,6 @@ Trong Nghị định này, những từ ngữ dưới đây được hiểu như
 
 __PHÁT TRIỂN VẬT LIỆU XÂY DỰNG__
 
-
 <a id="dieu-4"></a>
 ### Điều 4. Chiến lược phát triển vật liệu xây dựng
 
@@ -96,7 +90,6 @@ __PHÁT TRIỂN VẬT LIỆU XÂY DỰNG__
 
 <a id="dieu-4-khoan-2"></a>
 2. Thời kỳ lập chiến lược phát triển vật liệu xây dựng là 10 năm, tầm nhìn 30 năm. Chiến lược được rà soát, điều chỉnh 05 năm một lần (hoặc đột xuất theo yêu cầu) để bảo đảm cân đối cung - cầu, ổn định thị trường, phù hợp với mục tiêu phát triển kinh tế - xã hội, quốc phòng, an ninh, biến đổi khí hậu.
-
 
 <a id="dieu-5"></a>
 ### Điều 5. Nội dung chiến lược phát triển vật liệu xây dựng
@@ -128,7 +121,6 @@ __PHÁT TRIỂN VẬT LIỆU XÂY DỰNG__
 <a id="dieu-5-khoan-9"></a>
 9. Đánh giá môi trường chiến lược theo quy định của pháp luật về bảo vệ môi trường.
 
-
 <a id="dieu-6"></a>
 ### Điều 6. Lập và phê duyệt chiến lược phát triển vật liệu xây dựng
 
@@ -137,7 +129,6 @@ __PHÁT TRIỂN VẬT LIỆU XÂY DỰNG__
 
 <a id="dieu-6-khoan-2"></a>
 2. Kinh phí lập và tổ chức thực hiện chiến lược phát triển vật liệu xây dựng được bố trí từ ngân sách nhà nước theo quy định của pháp luật.
-
 
 <a id="dieu-7"></a>
 ### Điều 7. Kế hoạch phát triển vật liệu xây dựng
@@ -153,7 +144,6 @@ __PHÁT TRIỂN VẬT LIỆU XÂY DỰNG__
 
 <a id="dieu-7-khoan-4"></a>
 4. Kế hoạch phát triển vật liệu xây dựng được lập cho thời kỳ 05 năm, định hướng 10 năm và được phê duyệt trước ngày 31 tháng 3 của năm đầu kỳ kế hoạch. Kế hoạch phát triển vật liệu xây dựng được rà soát, điều chỉnh để bảo đảm cân đối cung - cầu, ổn định thị trường, phù hợp với mục tiêu phát triển kinh tế - xã hội, quốc phòng, an ninh, biến đổi khí hậu của địa phương.
-
 
 <a id="dieu-8"></a>
 ### Điều 8. Nội dung kế hoạch phát triển vật liệu xây dựng
@@ -177,7 +167,6 @@ d) Khả năng đáp ứng về nguyên - nhiên liệu, năng lượng;
 <a id="dieu-8-khoan-3"></a>
 3. Giải pháp và tổ chức thực hiện.
 
-
 <a id="dieu-9"></a>
 ### Điều 9. Lập và phê duyệt kế hoạch phát triển vật liệu xây dựng
 
@@ -193,7 +182,6 @@ d) Khả năng đáp ứng về nguyên - nhiên liệu, năng lượng;
 <a id="dieu-9-khoan-4"></a>
 4. Kinh phí lập, điều chỉnh và tổ chức thực hiện kế hoạch phát triển vật liệu xây dựng được bố trí từ ngân sách địa phương theo quy định của pháp luật.
 
-
 <a id="dieu-10"></a>
 ### Điều 10. Sử dụng khoáng sản làm vật liệu xây dựng
 
@@ -206,7 +194,6 @@ d) Khả năng đáp ứng về nguyên - nhiên liệu, năng lượng;
 <a id="dieu-10-khoan-3"></a>
 3. Khuyến khích tận dụng đất, đá thải, phế thải phát sinh trong hoạt động khai thác, chế biến khoáng sản làm vật liệu xây dựng để sản xuất vật liệu xây dựng hoặc sử dụng trong công trình xây dựng. Việc sử dụng đất, đá thải, phế thải phải được phân loại, đánh giá chất lượng, mức độ an toàn và đáp ứng các yêu cầu về bảo vệ môi trường, tiêu chuẩn, quy chuẩn kỹ thuật và chất lượng sản phẩm, hàng hóa theo quy định của pháp luật.
 
-
 <a id="dieu-11"></a>
 ### Điều 11. Sử dụng amiăng trắng trong sản xuất vật liệu xây dựng
 
@@ -218,7 +205,6 @@ d) Khả năng đáp ứng về nguyên - nhiên liệu, năng lượng;
 
 <a id="dieu-11-khoan-3"></a>
 3. Khuyến khích các cơ sở sản xuất tấm lợp áp dụng công nghệ mới, sử dụng các loại sợi thay thế sợi amiăng trắng trong sản xuất.
-
 
 <a id="dieu-12"></a>
 ### Điều 12. Chính sách khuyến khích, ưu đãi trong việc nghiên cứu, đầu tư phát triển, sản xuất và sử dụng vật liệu xây dựng
@@ -233,7 +219,6 @@ d) Khả năng đáp ứng về nguyên - nhiên liệu, năng lượng;
 
 __SỬ DỤNG VÀ QUẢN LÝ CHẤT LƯỢNG VẬT LIỆU XÂY DỰNG__
 
-
 <a id="dieu-13"></a>
 ### Điều 13. Sử dụng vật liệu xây dựng và cấu kiện xây dựng trong công trình xây dựng
 
@@ -242,7 +227,6 @@ __SỬ DỤNG VÀ QUẢN LÝ CHẤT LƯỢNG VẬT LIỆU XÂY DỰNG__
 
 <a id="dieu-13-khoan-2"></a>
 2. Trong quá trình lập, thẩm định, phê duyệt dự án, thiết kế xây dựng, quyết định đầu tư, tổ chức đấu thầu, chủ đầu tư, cơ quan chuyên môn về xây dựng và người quyết định đầu tư ưu tiên sử dụng các loại vật liệu xây dựng mới, vật liệu tái chế, vật liệu xanh, vật liệu nhẹ, vật liệu thông minh, vật liệu xây dựng thân thiện môi trường, vật liệu xây dựng tại chỗ, vật liệu xây dựng và sản phẩm xây dựng được sản xuất, chế tạo trong nước, có tỷ lệ nội địa hóa cao trên cơ sở phù hợp với tính chất công trình, yêu cầu kỹ thuật, hiệu quả kinh tế - kỹ thuật, chi phí vòng đời, tiến độ cung ứng, yêu cầu bảo vệ môi trường, quy chuẩn kỹ thuật, tiêu chuẩn áp dụng và quy định của pháp luật về đấu thầu, đầu tư công, cạnh tranh và các điều ước quốc tế mà Việt Nam là thành viên.
-
 
 <a id="dieu-14"></a>
 ### Điều 14. Chất lượng sản phẩm, hàng hóa vật liệu xây dựng
@@ -255,7 +239,6 @@ __SỬ DỤNG VÀ QUẢN LÝ CHẤT LƯỢNG VẬT LIỆU XÂY DỰNG__
 
 <a id="dieu-14-khoan-3"></a>
 3. Sản phẩm, hàng hóa vật liệu xây dựng và cấu kiện xây dựng nhập khẩu phải công bố tiêu chuẩn áp dụng, tuân thủ quy chuẩn kỹ thuật quốc gia tương ứng; công bố hợp quy đối với hàng hóa nhập khẩu có mức độ rủi ro trung bình; đăng ký kiểm tra nhà nước đối với hàng hóa có mức độ rủi ro cao theo quy định của pháp luật.
-
 
 <a id="dieu-15"></a>
 ### Điều 15. Sử dụng chất thải trong sản xuất vật liệu xây dựng và công trình xây dựng
@@ -272,7 +255,6 @@ __SỬ DỤNG VÀ QUẢN LÝ CHẤT LƯỢNG VẬT LIỆU XÂY DỰNG__
 ### Chương IV
 
 __TỔ CHỨC THỰC HIỆN__
-
 
 <a id="dieu-16"></a>
 ### Điều 16. Trách nhiệm quản lý nhà nước về vật liệu xây dựng
@@ -309,7 +291,6 @@ d) Theo dõi, thống kê, tổng hợp tình hình hoạt động trong lĩnh v
 
 e) Tổ chức thanh tra, kiểm tra và xử lý vi phạm trong lĩnh vực vật liệu xây dựng trên địa bàn theo thẩm quyền.
 
-
 <a id="dieu-17"></a>
 ### Điều 17. Điều khoản chuyển tiếp
 
@@ -318,7 +299,6 @@ e) Tổ chức thanh tra, kiểm tra và xử lý vi phạm trong lĩnh vực v�
 
 <a id="dieu-17-khoan-2"></a>
 2. Các cơ sở sản xuất vật liệu xây dựng đang hoạt động, các dự án đầu tư sản xuất vật liệu xây dựng đã được cơ quan nhà nước có thẩm quyền chấp thuận hoặc quyết định chủ trương đầu tư trước ngày Nghị định này có hiệu lực được tiếp tục thực hiện theo hồ sơ pháp lý đã được chấp thuận; các hồ sơ đã nộp trước ngày Nghị định này có hiệu lực nhưng đang được xem xét, giải quyết thì được tiếp tục giải quyết theo quy định của pháp luật tại thời điểm nộp hồ sơ cho đến khi có quyết định của cơ quan có thẩm quyền.
-
 
 <a id="dieu-18"></a>
 ### Điều 18. Hiệu lực thi hành
@@ -332,7 +312,6 @@ e) Tổ chức thanh tra, kiểm tra và xử lý vi phạm trong lĩnh vực v�
 <a id="dieu-18-khoan-3"></a>
 3. Bãi bỏ Điều 14 Nghị định số 144/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Xây dựng.
 
-
 <a id="dieu-19"></a>
 ### Điều 19. Trách nhiệm thi hành
 
@@ -341,10 +320,6 @@ e) Tổ chức thanh tra, kiểm tra và xử lý vi phạm trong lĩnh vực v�
 
 <a id="dieu-19-khoan-2"></a>
 2. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
-
-
-
-
 
 __*Nơi nhận:
 *__- Ban Bí thư Trung ương Đảng;
@@ -368,9 +343,6 @@ các Vụ, Cục, Công báo;
 __TM. CHÍNH PHỦ__
 __KT. THỦ TƯỚNG__
 __PHÓ THỦ TƯỚNG__
-
-
-
 
 __Phạm Gia Túc__
 

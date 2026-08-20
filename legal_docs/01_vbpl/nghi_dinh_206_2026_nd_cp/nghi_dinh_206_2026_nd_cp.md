@@ -9,8 +9,6 @@ Số: 206/2026/NĐ-CP
 
 *Hà Nội, ngày 15 tháng 6 năm 2026*
 
-
-
 __NGHỊ ĐỊNH__
 
 QUY ĐỊNH CHI TIẾT VỀ QUẢN LÝ CHI PHÍ ĐẦU TƯ XÂY DỰNG
@@ -37,7 +35,6 @@ QUY ĐỊNH CHI TIẾT VỀ QUẢN LÝ CHI PHÍ ĐẦU TƯ XÂY DỰNG
 
 __QUY ĐỊNH CHUNG__
 
-
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
 
@@ -47,7 +44,6 @@ __QUY ĐỊNH CHUNG__
 <a id="dieu-1-khoan-2"></a>
 2. Nghị định này không điều chỉnh đối với các nội dung về giá hợp đồng xây dựng, việc thanh toán, quyết toán hợp đồng xây dựng; thanh toán và quyết toán vốn đầu tư xây dựng.
 
-
 <a id="dieu-2"></a>
 ### Điều 2. Đối tượng áp dụng
 
@@ -56,7 +52,6 @@ __QUY ĐỊNH CHUNG__
 
 <a id="dieu-2-khoan-2"></a>
 2. Các tổ chức, cá nhân có liên quan đến quản lý chi phí đầu tư xây dựng của các dự án ngoài quy định tại khoản 1 Điều này tham khảo các quy định tại Nghị định này để xác định và quản lý chi phí đầu tư xây dựng và chịu trách nhiệm về quyết định của mình.
-
 
 <a id="dieu-3"></a>
 ### Điều 3. Nguyên tắc quản lý chi phí đầu tư xây dựng
@@ -85,7 +80,6 @@ __QUY ĐỊNH CHUNG__
 ### Chương II
 
 __SƠ BỘ TỔNG MỨC ĐẦU TƯ XÂY DỰNG, TỔNG MỨC ĐẦU TƯ XÂY DỰNG__
-
 
 <a id="dieu-4"></a>
 ### Điều 4. Sơ bộ tổng mức đầu tư xây dựng
@@ -116,7 +110,6 @@ a) Việc điều chỉnh sơ bộ tổng mức đầu tư xây dựng được 
 b) Đối với dự án quy định tại khoản 3 Điều này thực hiện hình thức đầu tư công, trường hợp tổng mức đầu tư của một số hoặc toàn bộ các dự án thành phần thay đổi so với giá trị sơ bộ tổng mức đầu tư dự án thành phần đã được phê duyệt trong chủ trương đầu tư của dự án, nhưng không làm thay đổi mục tiêu, địa điểm, không vượt sơ bộ tổng mức đầu tư xây dựng của dự án và bảo đảm hiệu quả đầu tư của dự án thì không phải thực hiện điều chỉnh sơ bộ tổng mức đầu tư xây dựng dự án thành phần tại quyết định chủ trương đầu tư đã được phê duyệt;
 
 c) Thẩm quyền phê duyệt sơ bộ tổng mức đầu tư xây dựng điều chỉnh thực hiện theo quy định của pháp luật về đầu tư công, đầu tư theo phương thức đối tác công tư và pháp luật có liên quan, cấp phê duyệt sơ bộ tổng mức đầu tư xây dựng điều chỉnh là cấp có thẩm quyền quyết định điều chỉnh chủ trương đầu tư.
-
 
 <a id="dieu-5"></a>
 ### Điều 5. Nội dung tổng mức đầu tư xây dựng
@@ -161,7 +154,6 @@ c) Đối với dự án bồi thường, hỗ trợ, tái định cư, giải p
 <a id="dieu-5-khoan-6"></a>
 6. Dự án chỉ yêu cầu lập Báo cáo kinh tế - kỹ thuật đầu tư xây dựng, tổng mức đầu tư xây dựng gồm dự toán xây dựng công trình theo quy định tại Điều 12 Nghị định này, chi phí bồi thường, hỗ trợ và tái định cư (nếu có) và các chi phí liên quan tính chung cho dự án.
 
-
 <a id="dieu-6"></a>
 ### Điều 6. Xác định tổng mức đầu tư xây dựng
 
@@ -205,7 +197,6 @@ c) Giá, dữ liệu chi phí các công trình, dự án ở nước ngoài t�
 d) Đối với dự án đầu tư công, ngoài quy định tại điểm a, b, c khoản này thì được áp dụng hệ thống định mức xây dựng do cơ quan quản lý nhà nước có thẩm quyền ban hành quy định tại Điều 19 Nghị định này để xác định giá xây dựng. Trường hợp chưa có định mức hoặc có nhưng chưa phù hợp với thiết kế, yêu cầu kỹ thuật, điều kiện thi công, biện pháp thi công của công trình thì căn cứ vào công nghệ thi công, điều kiện thi công, biện pháp thi công dự kiến để vận dụng, tính toán, điều chỉnh định mức. Đối với dự án khác thì được tham khảo hệ thống định mức xây dựng để xác định giá xây dựng;
 
 đ) Giá xây dựng, giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng (giá vật liệu, nhân công, máy thi công), giá thiết bị được xác định trên cơ sở xem xét, đánh giá từ các nguồn thông tin cơ sở dữ liệu trên Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng, công bố giá của địa phương, báo giá của nhà cung cấp, sản xuất trên thị trường, dữ liệu giá, chi phí của công trình tương tự (nếu có) để lựa chọn giá hoặc tính toán giá bình quân làm cơ sở xác định giá xây dựng công trình, bảo đảm phù hợp với tiêu chuẩn, chỉ dẫn kỹ thuật, xuất xứ, yêu cầu chất lượng của công trình và giá thị trường. Đối với thiết bị, vật tư nhập khẩu được tham khảo thông tin giá thị trường quốc tế (nếu có). Trường hợp không có giá từ các nguồn thông tin hoặc có nhưng không phù hợp, chủ đầu tư được thuê tổ chức thẩm định giá có năng lực, kinh nghiệm để xác định giá cho dự án, công trình theo quy định của pháp luật về giá.
-
 
 <a id="dieu-7"></a>
 ### Điều 7. Thẩm định tổng mức đầu tư xây dựng
@@ -260,7 +251,6 @@ Chi phí thẩm định tổng mức đầu tư xây dựng dự án PPP đượ
 <a id="dieu-7-khoan-8"></a>
 8. Chi phí cho tổ chức, cá nhân được mời tham gia thẩm định được trích từ phí, chi phí thẩm định Báo cáo nghiên cứu khả thi đầu tư xây dựng, Báo cáo kinh tế - kỹ thuật đầu tư xây dựng.
 
-
 <a id="dieu-8"></a>
 ### Điều 8. Thẩm tra tổng mức đầu tư xây dựng
 
@@ -280,7 +270,6 @@ c) Kiểm tra sự phù hợp của việc tính toán khối lượng chủ y�
 
 d) Xác định giá trị tổng mức đầu tư xây dựng sau khi thẩm tra; phân tích nguyên nhân tăng, giảm và đánh giá việc bảo đảm hiệu quả đầu tư của dự án theo giá trị tổng mức đầu tư xây dựng xác định sau thẩm tra, thẩm định.
 
-
 <a id="dieu-9"></a>
 ### Điều 9. Phê duyệt tổng mức đầu tư xây dựng
 
@@ -292,7 +281,6 @@ d) Xác định giá trị tổng mức đầu tư xây dựng sau khi thẩm tr
 
 <a id="dieu-9-khoan-3"></a>
 3. Tổng mức đầu tư xây dựng sau khi phê duyệt chủ đầu tư tổ chức cập nhật vào hệ thống cơ sở dữ liệu quy định tại Nghị định quy định về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng.
-
 
 <a id="dieu-10"></a>
 ### Điều 10. Điều chỉnh tổng mức đầu tư xây dựng
@@ -313,7 +301,6 @@ b) Đối với dự án đã triển khai các công việc thuộc giai đoạ
 <a id="dieu-10-khoan-4"></a>
 4. Điều chỉnh tổng mức đầu tư xây dựng là một nội dung của điều chỉnh dự án đầu tư xây dựng. Thẩm quyền thẩm định tổng mức đầu tư xây dựng điều chỉnh theo quy định về điều chỉnh dự án đầu tư xây dựng tại Luật Xây dựng số 135/2025/QH15 và Nghị định quy định chi tiết một số điều của Luật Xây dựng về quản lý hoạt động xây dựng.
 
-
 <a id="dieu-11"></a>
 ### Điều 11. Thẩm định, phê duyệt chi phí chuẩn bị dự án
 
@@ -331,7 +318,6 @@ b) Đối với dự án đã triển khai các công việc thuộc giai đoạ
 __DỰ TOÁN XÂY DỰNG__
 
 __Mục 1. DỰ TOÁN XÂY DỰNG CÔNG TRÌNH, DỰ TOÁN GÓI THẦU XÂY DỰNG, DỰ TOÁN CÔNG VIỆC XÂY DỰNG VÀ GIÁ GÓI THẦU XÂY DỰNG__
-
 
 <a id="dieu-12"></a>
 ### Điều 12. Xác định dự toán xây dựng công trình
@@ -382,7 +368,6 @@ c) Các chi phí còn lại thuộc chi phí thiết bị như quy định tại
 <a id="dieu-12-khoan-8"></a>
 8. Việc sử dụng hệ thống định mức xây dựng, giá xây dựng, dữ liệu chi phí công trình tương tự để xác định dự toán xây dựng công trình được thực hiện như quy định tại khoản 5 Điều 6 Nghị định này.
 
-
 <a id="dieu-13"></a>
 ### Điều 13. Xác định dự toán gói thầu xây dựng
 
@@ -398,7 +383,6 @@ c) Các chi phí còn lại thuộc chi phí thiết bị như quy định tại
 <a id="dieu-13-khoan-4"></a>
 4. Đối với dự toán gói thầu xây dựng xác định từ đề cương, nhiệm vụ của công việc: chủ đầu tư xác định dự toán gói thầu căn cứ nội dung, phạm vi, khối lượng công việc và các chi phí tương ứng.
 
-
 <a id="dieu-14"></a>
 ### Điều 14. Xác định dự toán công việc xây dựng
 
@@ -407,7 +391,6 @@ c) Các chi phí còn lại thuộc chi phí thiết bị như quy định tại
 
 <a id="dieu-14-khoan-2"></a>
 2. Dự toán công việc xây dựng được xác định trên cơ sở đề cương nhiệm vụ, nội dung, phạm vi, tính chất, đặc điểm của công việc, các chi phí để thực hiện công việc và các khoản thuế, phí (nếu có).
-
 
 <a id="dieu-15"></a>
 ### Điều 15. Giá gói thầu xây dựng
@@ -419,7 +402,6 @@ c) Các chi phí còn lại thuộc chi phí thiết bị như quy định tại
 2. Giá gói thầu xây dựng được cập nhật theo quy định của pháp luật về đấu thầu.
 
 __Mục 2. QUẢN LÝ DỰ TOÁN XÂY DỰNG__
-
 
 <a id="dieu-16"></a>
 ### Điều 16. Thẩm định, thẩm tra dự toán xây dựng
@@ -473,7 +455,6 @@ d) Yêu cầu về việc hoàn thiện hồ sơ và dự toán xây dựng côn
 <a id="dieu-16-khoan-11"></a>
 11. Đối với dự án sử dụng thiết kế FEED, thiết kế kỹ thuật tại Báo cáo nghiên cứu khả thi và đã thực hiện lựa chọn nhà thầu EPC, EC, EP, nhà thầu thi công xây dựng thì không phải thẩm định dự toán xây dựng công trình tại bước triển khai sau khi dự án được phê duyệt.
 
-
 <a id="dieu-17"></a>
 ### Điều 17. Phê duyệt dự toán xây dựng
 
@@ -488,7 +469,6 @@ d) Yêu cầu về việc hoàn thiện hồ sơ và dự toán xây dựng côn
 
 <a id="dieu-17-khoan-4"></a>
 4. Chủ đầu tư phê duyệt dự toán chi phí các công việc chuẩn bị để lập thiết kế xây dựng triển khai sau khi dự án được phê duyệt và các chi phí tính chung cho cả dự án.
-
 
 <a id="dieu-18"></a>
 ### Điều 18. Điều chỉnh dự toán xây dựng
@@ -508,7 +488,6 @@ b) Đối với công trình, gói thầu đã ký hợp đồng, chủ đầu t
 __ĐỊNH MỨC XÂY DỰNG, GIÁ XÂY DỰNG, GIÁ CÁC YẾU TỐ CHI PHÍ TRỰC TIẾP CẤU THÀNH GIÁ CÔNG TÁC XÂY DỰNG VÀ CHỈ SỐ GIÁ XÂY DỰNG__
 
 __Mục 1. ĐỊNH MỨC XÂY DỰNG__
-
 
 <a id="dieu-19"></a>
 ### Điều 19. Hệ thống định mức xây dựng
@@ -534,7 +513,6 @@ b) Định mức dự toán được áp dụng, tham khảo để xác định 
 
 <a id="dieu-19-khoan-6"></a>
 6. Định mức dự toán công trình áp dụng cho dự án có quy mô lớn, kỹ thuật phức tạp, sử dụng công nghệ mới chưa phổ biến ở Việt Nam; có công tác xây dựng sử dụng công nghệ thi công mới, sử dụng vật liệu mới chưa được quy định trong hệ thống định mức quy định tại khoản 3 Điều này.
-
 
 <a id="dieu-20"></a>
 ### Điều 20. Quản lý, sử dụng định mức xây dựng
@@ -574,7 +552,6 @@ c) Chủ đầu tư tổ chức khảo sát, thu thập số liệu, xác địn
 
 d) Đối với dự án đầu tư công có quy mô lớn, kỹ thuật phức tạp, sử dụng công nghệ mới chưa phổ biến ở Việt Nam, trường hợp sử dụng định mức nước ngoài để phù hợp với tiêu chuẩn, công nghệ áp dụng cho dự án thì chủ đầu tư tổ chức thu thập, biên dịch các định mức nước ngoài, thuê tổ chức tư vấn có năng lực, kinh nghiệm phân tích, đánh giá, xác định danh mục, các nội dung áp dụng cho dự án để chủ đầu tư quyết định sử dụng làm cơ sở xác định chi phí đầu tư xây dựng của dự án; đồng thời tổng hợp báo cáo gửi người quyết định đầu tư để theo dõi, quản lý. Trong quá trình thi công xây dựng, chủ đầu tư tổ chức khảo sát, thu thập dữ liệu làm cơ sở kiểm chứng định mức đã sử dụng; gửi kết quả về Bộ Xây dựng, Bộ quản lý công trình xây dựng chuyên ngành đối với các định mức dự toán thuộc chuyên ngành và ủy ban nhân dân cấp tỉnh trong trường hợp là cấp quyết định đầu tư, để phục vụ việc rà soát, cập nhật hệ thống định mức xây dựng.
 
-
 <a id="dieu-21"></a>
 ### Điều 21. Kinh phí rà soát, cập nhật và xây dựng, điều chỉnh định mức xây dựng
 
@@ -585,7 +562,6 @@ d) Đối với dự án đầu tư công có quy mô lớn, kỹ thuật phức
 2. Kinh phí cho việc tổ chức xây dựng định mức mới, điều chỉnh định mức quy định tại điểm b, điểm c và điểm d khoản 5 Điều 20 Nghị định này được tính vào chi phí đầu tư xây dựng của dự án.
 
 __Mục 2. GIÁ XÂY DỰNG, GIÁ CÁC YẾU TỐ CHI PHÍ TRỰC TIẾP CẤU THÀNH GIÁ CÔNG TÁC XÂY DỰNG VÀ CHỈ SỐ GIÁ XÂY DỰNG__
-
 
 <a id="dieu-22"></a>
 ### Điều 22. Giá xây dựng, giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng
@@ -605,7 +581,6 @@ d) Suất chi phí là mức chi phí cần thiết cho một đơn vị tính t
 
 <a id="dieu-22-khoan-2"></a>
 2. Giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng gồm giá vật liệu xây dựng, giá nhân công xây dựng, giá ca máy và thiết bị thi công.
-
 
 <a id="dieu-23"></a>
 ### Điều 23. Chỉ số giá xây dựng
@@ -628,7 +603,6 @@ b) Sở Xây dựng tổ chức xác định chỉ số giá xây dựng trên �
 
 <a id="dieu-23-khoan-5"></a>
 5. Kinh phí cho việc thu thập số liệu, xác định và công bố chỉ số giá xây dựng quy định tại khoản 3 Điều này được bố trí từ nguồn ngân sách hàng năm. Kinh phí cho việc xác định chỉ số giá xây dựng công trình tại khoản 4 Điều này được tính vào chi phí đầu tư xây dựng của dự án.
-
 
 <a id="dieu-24"></a>
 ### Điều 24. Quản lý giá xây dựng, giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng và chỉ số giá xây dựng
@@ -671,7 +645,6 @@ d) Đối với các loại vật liệu xây dựng có biến động bất th
 
 __CHI PHÍ QUẢN LÝ DỰ ÁN VÀ TƯ VẤN XÂY DỰNG__
 
-
 <a id="dieu-25"></a>
 ### Điều 25. Chi phí quản lý dự án
 
@@ -690,7 +663,6 @@ __CHI PHÍ QUẢN LÝ DỰ ÁN VÀ TƯ VẤN XÂY DỰNG__
 <a id="dieu-25-khoan-5"></a>
 5. Tổng chi phí quản lý dự án phần công việc do chủ đầu tư thực hiện và chi phí quản lý dự án do tư vấn quản lý dự án, nhà thầu thực hiện theo quy định tại khoản 3 và khoản 4 Điều này không vượt quá chi phí quản lý dự án đã được xác định, phê duyệt theo quy định.
 
-
 <a id="dieu-26"></a>
 ### Điều 26. Chi phí tư vấn xây dựng
 
@@ -708,7 +680,6 @@ __CHI PHÍ QUẢN LÝ DỰ ÁN VÀ TƯ VẤN XÂY DỰNG__
 
 <a id="dieu-26-khoan-5"></a>
 5. Chi phí thuê tư vấn nước ngoài thực hiện một số loại công việc tư vấn thực hiện theo quy định tại Điều 27 Nghị định này.
-
 
 <a id="dieu-27"></a>
 ### Điều 27. Chi phí thuê tư vấn nước ngoài
@@ -729,7 +700,6 @@ __CHI PHÍ QUẢN LÝ DỰ ÁN VÀ TƯ VẤN XÂY DỰNG__
 
 __QUYỀN, NGHĨA VỤ VÀ TRÁCH NHIỆM CỦA CÁC CHỦ THỂ TRONG QUẢN LÝ CHI PHÍ ĐẦU TƯ XÂY DỰNG__
 
-
 <a id="dieu-28"></a>
 ### Điều 28. Quyền và trách nhiệm của người quyết định đầu tư
 
@@ -741,7 +711,6 @@ __QUYỀN, NGHĨA VỤ VÀ TRÁCH NHIỆM CỦA CÁC CHỦ THỂ TRONG QUẢN L�
 
 <a id="dieu-28-khoan-3"></a>
 3. Tổ chức kiểm tra việc thực hiện các quy định pháp luật về quản lý chi phí đầu tư xây dựng của chủ đầu tư đối với các dự án thuộc thẩm quyền quyết định đầu tư. Việc kiểm tra thực hiện trên cơ sở báo cáo của chủ đầu tư hoặc kiểm tra theo kế hoạch tại dự án, công trình xây dựng.
-
 
 <a id="dieu-29"></a>
 ### Điều 29. Quyền, nghĩa vụ và trách nhiệm của chủ đầu tư
@@ -782,7 +751,6 @@ __QUYỀN, NGHĨA VỤ VÀ TRÁCH NHIỆM CỦA CÁC CHỦ THỂ TRONG QUẢN L�
 <a id="dieu-29-khoan-12"></a>
 12. Thực hiện nộp phạt khi bị xử phạt vi phạm hành chính trong hoạt động đầu tư xây dựng từ nguồn chi phí quản lý dự án.
 
-
 <a id="dieu-30"></a>
 ### Điều 30. Quyền, nghĩa vụ và trách nhiệm của nhà thầu tư vấn thực hiện công việc xác định, thẩm tra chi phí đầu tư xây dựng
 
@@ -800,7 +768,6 @@ __QUYỀN, NGHĨA VỤ VÀ TRÁCH NHIỆM CỦA CÁC CHỦ THỂ TRONG QUẢN L�
 
 <a id="dieu-30-khoan-5"></a>
 5. Bồi thường thiệt hại do không tuân thủ các quy định của pháp luật về quản lý chi phí đầu tư xây dựng và vi phạm hợp đồng làm thiệt hại cho chủ đầu tư.
-
 
 <a id="dieu-31"></a>
 ### Điều 31. Quyền, nghĩa vụ và trách nhiệm của nhà thầu thi công xây dựng
@@ -827,7 +794,6 @@ __QUYỀN, NGHĨA VỤ VÀ TRÁCH NHIỆM CỦA CÁC CHỦ THỂ TRONG QUẢN L�
 
 __QUẢN LÝ NHÀ NƯỚC VỀ CHI PHÍ ĐẦU TƯ XÂY DỰNG__
 
-
 <a id="dieu-32"></a>
 ### Điều 32. Bộ Xây dựng
 
@@ -846,12 +812,10 @@ __QUẢN LÝ NHÀ NƯỚC VỀ CHI PHÍ ĐẦU TƯ XÂY DỰNG__
 <a id="dieu-32-khoan-5"></a>
 5. Bố trí ngân sách hàng năm kinh phí cho việc thực hiện nhiệm vụ nêu tại các khoản 2, 3 và 4 Điều này.
 
-
 <a id="dieu-33"></a>
 ### Điều 33. Bộ Tài chính
 
 Bộ Tài chính quy định về thu, chi của chủ đầu tư, Ban quản lý dự án đầu tư xây dựng có dự án sử dụng vốn ngân sách nhà nước.
-
 
 <a id="dieu-34"></a>
 ### Điều 34. Các bộ quản lý công trình xây dựng chuyên ngành
@@ -877,7 +841,6 @@ Bộ Tài chính quy định về thu, chi của chủ đầu tư, Ban quản l�
 <a id="dieu-34-khoan-7"></a>
 7. Bố trí ngân sách hàng năm kinh phí cho việc thực hiện nhiệm vụ nêu tại các khoản 1, 2, 3 và 6 Điều này.
 
-
 <a id="dieu-35"></a>
 ### Điều 35. Ủy ban nhân dân cấp tỉnh
 
@@ -901,7 +864,6 @@ Căn cứ phương pháp xác định suất vốn đầu tư, suất chi phí, 
 ### Chương VIII
 
 __ĐIỀU KHOẢN THI HÀNH__
-
 
 <a id="dieu-36"></a>
 ### Điều 36. Quy định chuyển tiếp
@@ -927,7 +889,6 @@ __ĐIỀU KHOẢN THI HÀNH__
 <a id="dieu-36-khoan-7"></a>
 7. Hệ thống định mức xây dựng, giá xây dựng, giá nhân công xây dựng, giá ca máy và thiết bị thi công đã được cơ quan có thẩm quyền ban hành, công bố trước ngày 01 tháng 7 năm 2026 thì tiếp tục được áp dụng, tham khảo để xác định chi phí đầu tư xây dựng đến khi được các Bộ quản lý công trình xây dựng chuyên ngành, Ủy ban nhân dân cấp tỉnh rà soát, cập nhật, ban hành và có hiệu lực.
 
-
 <a id="dieu-37"></a>
 ### Điều 37. Tổ chức thực hiện
 
@@ -936,7 +897,6 @@ __ĐIỀU KHOẢN THI HÀNH__
 
 <a id="dieu-37-khoan-2"></a>
 2. Bộ Xây dựng chủ trì, phối hợp với các bộ, ngành liên quan chịu trách nhiệm hướng dẫn thực hiện Nghị định này.
-
 
 <a id="dieu-38"></a>
 ### Điều 38. Hiệu lực thi hành
@@ -949,10 +909,6 @@ __ĐIỀU KHOẢN THI HÀNH__
 
 <a id="dieu-38-khoan-3"></a>
 3. Nghị định số 10/2021/NĐ-CP ngày 09 tháng 02 năm 2021 của Chính phủ về quản lý chi phí đầu tư xây dựng hết hiệu lực kể từ ngày Nghị định này có hiệu lực.
-
-
-
-
 
 __*Nơi nhận:
 *__- Ban Bí thư Trung ương Đảng;
@@ -977,10 +933,5 @@ __TM. CHÍNH PHỦ
 KT. THỦ TƯỚNG
 PHÓ THỦ TƯỚNG
 
-
-
-
 Phạm Gia Túc__
-
-
 

@@ -26,8 +26,6 @@ Số: ...
 
 *..., ngày ... tháng ... năm ....*
 
-
-
 __QUYẾT ĐỊNH__
 
 __Phê duyệt dự án/dự án thành phần/giai đoạn/hạng mục công trình của dự án __*(tên dự án)*
@@ -97,8 +95,6 @@ Chi phí đầu tư xây dựng giai đoạn thực hiện, phân kỳ đầu t�
 __Điều 2. __Tổ chức thực hiện.
 
 __Điều 3. __Tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
-
-
 
 __*Nơi nhận:*__
 - Như Điều 3;

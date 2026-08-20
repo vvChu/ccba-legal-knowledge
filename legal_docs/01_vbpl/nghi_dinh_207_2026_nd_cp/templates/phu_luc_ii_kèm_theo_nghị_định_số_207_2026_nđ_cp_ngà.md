@@ -39,8 +39,6 @@ d) Những ý kiến về việc giải quyết các vấn đề phát sinh tron
 
 **4.** Trường hợp chủ đầu tư và các nhà thầu tham gia hoạt động xây dựng công trình phát hành văn bản để giải quyết các vấn đề kỹ thuật trên công trường thì các văn bản này được lưu giữ cùng với nhật ký thi công xây dựng công trình.
 
-
-
 __Phụ lục IIb__
 
 __BẢN VẼ HOÀN CÔNG__
@@ -76,8 +74,6 @@ Tư vấn giám sát trưởng
 *(Ghi rõ họ tên, chức vụ, chữ ký)*
 
 __*Ghi chú:*__ không áp dụng cho hình thức hợp đồng thầu chính, thầu phụ, hợp đồng EPC, hợp đồng chìa khóa trao tay. Kích thước dấu tùy thuộc kích cỡ chữ.
-
-
 
 Mẫu số 2:
 

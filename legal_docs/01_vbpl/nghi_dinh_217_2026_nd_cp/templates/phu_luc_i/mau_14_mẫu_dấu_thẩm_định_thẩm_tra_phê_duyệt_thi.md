@@ -17,11 +17,7 @@ __Mẫu số 14__
 __MẪU DẤU THẨM ĐỊNH, THẨM TRA, PHÊ DUYỆT THIẾT KẾ XÂY DỰNG__
 (Kích thước mẫu dấu: chiều rộng từ 4 cm đến 6 cm; chiều dài từ 6 cm đến 9 cm)
 
-
-
 __MẪU DẤU XÁC NHẬN CỦA TỔ CHỨC THẨM ĐỊNH__
-
-
 
 __(TÊN CƠ QUAN THỰC HIỆN
 THẨM ĐỊNH)__
@@ -31,11 +27,7 @@ Theo Văn bản số ..../...
 ngày ... tháng ... năm ...
 Người thẩm định ký tên
 
-
-
 __MẪU DẤU XÁC NHẬN CỦA TỔ CHỨC THỰC HIỆN THẨM TRA__
-
-
 
 __(TÊN CƠ QUAN THỰC HIỆN
 THẨM TRA)__
@@ -45,11 +37,7 @@ Theo Văn bản số ..../...
 ngày ... tháng ... năm ...
 Chủ trì bộ môn ký tên:
 
-
-
 __MẪU DẤU XÁC NHẬN PHÊ DUYỆT THIẾT KẾ XÂY DỰNG__
-
-
 
 __(TÊN CHỦ ĐẦU TƯ)__
 
