@@ -1,0 +1,49 @@
+{
+  "table_id": "bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong",
+  "rows_count": 7,
+  "columns_count": 4,
+  "headers": [
+    "STT",
+    "Loại công trình",
+    "Tiêu chí phân cấp",
+    "Quy mô"
+  ],
+  "records": [
+    {
+      "STT": "1",
+      "Loại công trình": "Cảng hàng không",
+      "Tiêu chí phân cấp": "Lượt hành khách (triệu khách/năm)",
+      "Quy mô": "≥ 25"
+    },
+    {
+      "STT": "2",
+      "Loại công trình": "Đường sắt tốc độ cao",
+      "Tiêu chí phân cấp": "Tầm quan trọng",
+      "Quy mô": "Với mọi quy mô"
+    },
+    {
+      "STT": "3",
+      "Loại công trình": "Cầu",
+      "Tiêu chí phân cấp": "Nhịp kết cấu lớn nhất (m)",
+      "Quy mô": "≥ 350"
+    },
+    {
+      "STT": "4",
+      "Loại công trình": "Cảng biển",
+      "Tiêu chí phân cấp": "Tải trọng của tàu (DWT)",
+      "Quy mô": "≥ 100.000"
+    },
+    {
+      "STT": "5",
+      "Loại công trình": "Nhà máy điện hạt nhân",
+      "Tiêu chí phân cấp": "Tổng công suất (MW)",
+      "Quy mô": "≥ 1.000"
+    },
+    {
+      "STT": "6",
+      "Loại công trình": "Công trình thủy điện, công trình nhiệt điện",
+      "Tiêu chí phân cấp": "Tổng công suất (MW)",
+      "Quy mô": "≥ 1.000"
+    }
+  ]
+}

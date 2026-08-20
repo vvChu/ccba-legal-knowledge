@@ -1,99 +1,156 @@
-"""CCBA Master Skill: Markdown Document Processing Engine (Docx Converter).
+"""CCBA Master Legal Converter Engine (OKF v2.2 Universal Gateway).
 
-Converts official .docx documents (QCVN 06:2022/BXD) to GFM Markdown with
-clean 2D Pipe Tables, standardized section headings (### 1.1),
-and full Gold Standard OKF v0.2 integration.
+Converts official .docx documents (QCVN / TCVN / VBPL / Nghị định / Luật / Thông tư)
+into Gold Standard OKF v2.2 Markdown bundles with:
+- Pure Normative Body (.md)
+- Structured Legal Knowledge Graph (legal_basis in metadata.yaml)
+- Atomic Form Templates (templates/phu_luc_XX/mau_YY_...md)
+- 3-Tier Semantic Table Classifier (tables/csv and tables/json)
+- Universal Clause Numbering Normalization (**1.**, **2.**)
+- Atomic AST (clauses.json) & QA Benchmark (qa_benchmark.json)
 """
 
 import argparse
 import re
 import sys
 from pathlib import Path
-from typing import Optional
+from typing import Any, Dict, Optional
 
-import mammoth
-from scripts.gold_standard_processor import process_okf_bundle
-from scripts.qcvn_md_table_formatter import format_all_qcvn_md_tables
+# Ensure repository root is on sys.path
+root_dir = Path(__file__).resolve().parent.parent
+if str(root_dir) not in sys.path:
+    sys.path.insert(0, str(root_dir))
 
 sys.stdout.reconfigure(encoding="utf-8")
 
+import yaml
+import mammoth
+from scripts.okf_v22_converter import process_vbpl_bundle_okf_v22
+from scripts.gold_standard_processor import process_okf_bundle
+from scripts.qcvn_md_table_formatter import format_all_qcvn_md_tables
+
+
 def normalize_docx_markdown(md_text: str) -> str:
     """Normalize mammoth converted markdown headings and clean up escape chars."""
-    # Remove escaped dots, hyphens, and brackets
     md_text = md_text.replace(r"\.", ".").replace(r"\-", "-").replace(r"\(", "(").replace(r"\)", ")")
 
-    # Replace bold Chapter and Article headings
     md_text = re.sub(r"__(Chương\s+[IVXLCDM0-9]+(?::\s*[^_]+)?)__", r"## \1", md_text)
     md_text = re.sub(r"__(Điều\s+\d+\.\s*[^_]+)__", r"### \1", md_text)
     
-    # Replace bold Appendix headings (Appendices A through I and Roman numerals)
     md_text = re.sub(r"__(Phụ lục\s+[A-Za-z0-9]+(?:\s*\([^)]+\))?(?:\.\s*[^_]+)?)__", r"## \1", md_text, flags=re.IGNORECASE)
     md_text = re.sub(r"^#*\s*(PHỤ LỤC\s+[A-I]\b[^\n]*)", r"## \1", md_text, flags=re.MULTILINE | re.IGNORECASE)
 
-    # Replace bold table headings __Bảng X - Title__ with ### Bảng X - Title
     md_text = re.sub(r"__Bảng\s+([A-Z0-9]+(?:\.[0-9]+)?)\s*[-–:]\s*([^_]+)__", r"### Bảng \1 - \2", md_text)
 
-    # Replace bold section headings with hierarchical Markdown headings
-    # 4-level: __1.1.1.1 Title__ -> ##### 1.1.1.1 Title
     md_text = re.sub(r"__((?:[1-7]|[A-I])\.\d+\.\d+\.\d+)\.?\s*([^_]+)__", r"##### \1 \2", md_text)
-    # 3-level: __1.1.1 Title__ -> #### 1.1.1 Title
     md_text = re.sub(r"__((?:[1-7]|[A-I])\.\d+\.\d+)\.?\s*([^_]+)__", r"#### \1 \2", md_text)
-    # 2-level: __1.1 Title__ -> ### 1.1 Title
     md_text = re.sub(r"__((?:[1-7]|[A-I])\.\d+)\.?\s*([^_]+)__", r"### \1 \2", md_text)
 
-    # Clean double ### headers if any exist
     md_text = re.sub(r"(###\s*)+", "### ", md_text)
     md_text = re.sub(r"###\s*###\s*", "### ", md_text)
 
     return md_text
+
+
+def detect_document_pipeline(
+    target_bundle_dir: Path,
+    doc_type: Optional[str] = None,
+    registry_file: Optional[Path] = None
+) -> str:
+    """Determine whether to use VBPL (OKF v2.2) or QCVN pipeline."""
+    if doc_type:
+        dt = doc_type.lower()
+        if "qcvn" in dt or "tcvn" in dt or "standard" in dt:
+            return "qcvn"
+        return "vbpl"
+
+    # Check path heuristic
+    path_str = str(target_bundle_dir).lower()
+    if "01_vbpl" in path_str:
+        return "vbpl"
+    if "02_qcvn" in path_str or "03_tcvn" in path_str:
+        return "qcvn"
+
+    # Check registry metadata
+    reg_path = registry_file or (Path(__file__).resolve().parent.parent / "legal_registry.yaml")
+    if reg_path.exists():
+        with open(reg_path, encoding="utf-8") as f:
+            data = yaml.safe_load(f)
+            all_items = []
+            for k, v in data.items():
+                if isinstance(v, list):
+                    all_items.extend(v)
+            for item in all_items:
+                if item.get("id") == target_bundle_dir.name or item.get("bundle_path", "").rstrip("/\\").endswith(target_bundle_dir.name):
+                    t = item.get("type", "").lower()
+                    if "quy chuẩn" in t or "tiêu chuẩn" in t:
+                        return "qcvn"
+                    return "vbpl"
+
+    return "vbpl"
+
 
 def convert_docx_to_okf_bundle(
     docx_path: Path,
     target_bundle_dir: Path,
     output_filename: Optional[str] = None,
     doc_type: Optional[str] = None,
-) -> dict:
-    """Convert .docx file to Gold Standard OKF Markdown bundle."""
+    registry_file: Optional[Path] = None
+) -> Dict[str, Any]:
+    """Convert .docx file to Gold Standard OKF v2.2 Markdown bundle."""
     if not docx_path.exists():
         raise FileNotFoundError(f"Input file not found: {docx_path}")
 
     target_bundle_dir.mkdir(parents=True, exist_ok=True)
-    if not output_filename:
-        output_filename = f"{target_bundle_dir.name}.md"
+    reg_file = registry_file or (Path(__file__).resolve().parent.parent / "legal_registry.yaml")
 
-    target_md_path = target_bundle_dir / output_filename
+    pipeline_type = detect_document_pipeline(target_bundle_dir, doc_type, reg_file)
+    print(f"-> Selected Pipeline: [{pipeline_type.upper()}] for target: {target_bundle_dir.name}")
 
-    print(f"[1/4] Converting {docx_path.name} to Markdown via Mammoth Engine...")
-    with open(docx_path, "rb") as docx_file:
-        result = mammoth.convert_to_markdown(docx_file)
-        raw_md = result.value
+    if pipeline_type == "vbpl":
+        # Pure Normative Body & Atomic Templates OKF v2.2
+        return process_vbpl_bundle_okf_v22(
+            docx_path=docx_path,
+            bundle_dir=target_bundle_dir,
+            registry_file=reg_file,
+            output_filename=output_filename
+        )
+    else:
+        # QCVN / TCVN 2D Table Pipeline
+        if not output_filename:
+            output_filename = f"{target_bundle_dir.name}.md"
 
-    print("[2/4] Normalizing section headings & typography (Sub-skill: vn-legal-normalizer)...")
-    normalized_md = normalize_docx_markdown(raw_md)
+        target_md_path = target_bundle_dir / output_filename
 
-    # Backup converted md to Layer 1 store
-    raw_md_store = docx_path.parent / f"{docx_path.stem}_from_docx.md"
-    raw_md_store.write_text(normalized_md, encoding="utf-8")
-    print(f"  [Saved] Layer 1 Raw Docx Markdown: {raw_md_store} ({len(normalized_md)} bytes)")
+        print(f"[1/4] Converting {docx_path.name} via Mammoth Engine...")
+        with open(docx_path, "rb") as docx_file:
+            result = mammoth.convert_to_markdown(docx_file)
+            raw_md = result.value
 
-    # Write normalized markdown to target bundle
-    target_md_path.write_text(normalized_md, encoding="utf-8")
+        print("[2/4] Normalizing section headings & typography...")
+        normalized_md = normalize_docx_markdown(raw_md)
 
-    print("[3/4] Reconstructing 2D GFM Pipe Tables (Sub-skill: table-reconstructor)...")
-    formatted_tables = format_all_qcvn_md_tables(target_md_path)
-    print(f"  [Table Reconstructor] Formatted {formatted_tables} 2D GFM Pipe Tables")
+        raw_md_store = docx_path.parent / f"{docx_path.stem}_from_docx.md"
+        raw_md_store.write_text(normalized_md, encoding="utf-8")
 
-    print("[4/4] Packing Gold Standard OKF v0.2 Bundle...")
-    bundle_result = process_okf_bundle(target_bundle_dir, doc_type=doc_type)
-    return bundle_result
+        target_md_path.write_text(normalized_md, encoding="utf-8")
+
+        print("[3/4] Reconstructing 2D GFM Pipe Tables...")
+        formatted_tables = format_all_qcvn_md_tables(target_md_path)
+        print(f"  [Table Reconstructor] Formatted {formatted_tables} 2D GFM Pipe Tables")
+
+        print("[4/4] Packing Gold Standard OKF Bundle...")
+        return process_okf_bundle(target_bundle_dir, doc_type=doc_type)
+
 
 def main() -> None:
-    """CLI entrypoint for Docx Converter Engine."""
-    parser = argparse.ArgumentParser(description="Convert official .docx document to OKF v0.2 Markdown bundle.")
+    """CLI entrypoint for Universal Legal Docx Converter Engine."""
+    parser = argparse.ArgumentParser(description="Universal Legal Docx Converter Engine (OKF v2.2)")
     parser.add_argument("docx_path", type=Path, help="Path to input .docx file")
     parser.add_argument("target_bundle_dir", type=Path, help="Path to target OKF bundle directory")
     parser.add_argument("-o", "--output-filename", type=str, default=None, help="Custom output markdown filename")
-    parser.add_argument("-t", "--doc-type", type=str, default=None, help="Document type profile (e.g. vbpl, qcvn, tcvn)")
+    parser.add_argument("-t", "--doc-type", type=str, default=None, help="Document type profile (vbpl, qcvn, tcvn)")
+    parser.add_argument("-r", "--registry", type=Path, default=None, help="Path to legal_registry.yaml")
 
     args = parser.parse_args()
     res = convert_docx_to_okf_bundle(
@@ -101,9 +158,10 @@ def main() -> None:
         target_bundle_dir=args.target_bundle_dir,
         output_filename=args.output_filename,
         doc_type=args.doc_type,
+        registry_file=args.registry
     )
-    print("\n[COMPLETE OKF BUNDLE RESULT]:", res)
+    print("\n[OKF v2.2 TRANSFORMATION RESULT]:", res)
+
 
 if __name__ == "__main__":
     main()
-

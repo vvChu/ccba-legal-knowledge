@@ -1,0 +1,268 @@
+{
+  "table_id": "bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong",
+  "rows_count": 52,
+  "columns_count": 4,
+  "headers": [
+    "Mã số",
+    "Loại công trình",
+    "Loại công trình",
+    "Cấp công trình"
+  ],
+  "records": [
+    {
+      "Mã số": "I",
+      "Loại công trình": "CÔNG TRÌNH DÂN DỤNG",
+      "Cấp công trình": ""
+    },
+    {
+      "Mã số": "I.1",
+      "Loại công trình": "Các tòa nhà chung cư, nhà ở tập thể khác",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "I.2",
+      "Loại công trình": "",
+      "Cấp công trình": ""
+    },
+    {
+      "Mã số": "I.2.1",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "I.2.2",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "I.2.3",
+      "Loại công trình": "Sân vận động; nhà thi đấu (các môn thể thao); bể bơi; sân thi đấu các môn thể thao có khán đài",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "I.2.4",
+      "Loại công trình": "Trung tâm hội nghị, nhà hát, nhà văn hóa, câu lạc bộ, rạp chiếu phim, rạp xiếc, vũ trường; công trình di tích; công trình tu bổ, bảo quản, phục hồi di tích; bảo tàng, thư viện, triển lãm, nhà trưng bày; tượng đài ngoài trời; công trình vui chơi giải trí; công trình văn hóa tập trung đông người và các công trình khác có chức năng tương đương",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "I.2.5",
+      "Loại công trình": "Trung tâm thương mại, siêu thị",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "I.2.5",
+      "Loại công trình": "Nhà hàng, cửa hàng ăn uống, giải khát và các cơ sở tương tự",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "I.2.6",
+      "Loại công trình": "Khách sạn, nhà khách, nhà nghỉ; khu nghỉ dưỡng; biệt thự lưu trú; căn hộ lưu trú và các cơ sở tương tự; bưu điện, bưu cục, cơ sở cung cấp dịch vụ bưu chính, viễn thông khác",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "I.2.7",
+      "Loại công trình": "Các tòa nhà sử dụng làm trụ sở, văn phòng làm việc",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "I.2.8",
+      "Loại công trình": "Các tòa nhà, kết cấu khác sử dụng đa năng hoặc hỗn hợp khác",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "I.2.9",
+      "Loại công trình": "Các tòa nhà hoặc kết cấu khác được xây dựng phục vụ dân sinh",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "II",
+      "Loại công trình": "CÔNG TRÌNH CÔNG NGHIỆP",
+      "Cấp công trình": "CÔNG TRÌNH CÔNG NGHIỆP"
+    },
+    {
+      "Mã số": "II.1",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "II.2",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "II.3",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "II.4",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "II.5",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "II.6",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "II.7",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "III",
+      "Loại công trình": "CÔNG TRÌNH HẠ TẦNG KỸ THUẬT",
+      "Cấp công trình": "CÔNG TRÌNH HẠ TẦNG KỸ THUẬT"
+    },
+    {
+      "Mã số": "III.1",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "III.2",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "III.3",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "III.4",
+      "Loại công trình": "Nhà, trạm viễn thông, cột ăng ten, cột treo cáp",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "III.5",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "III.6",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "IV",
+      "Loại công trình": "CÔNG TRÌNH GIAO THÔNG",
+      "Cấp công trình": "CÔNG TRÌNH GIAO THÔNG"
+    },
+    {
+      "Mã số": "IV.1",
+      "Loại công trình": "Đường ô tô cao tốc",
+      "Cấp công trình": "Mọi cấp"
+    },
+    {
+      "Mã số": "IV.1",
+      "Loại công trình": "Đường ô tô, đường trong đô thị",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "IV.1",
+      "Loại công trình": "Bến phà",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "IV.1",
+      "Loại công trình": "Bến xe; cơ sở đăng kiểm phương tiện giao thông đường bộ; trạm thu phí; trạm dừng nghỉ",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "IV.1",
+      "Loại công trình": "Đường sắt quốc gia; đường sắt địa phương (bao gồm đường sắt đô thị: đường sắt trên cao, đường tàu điện ngầm/Metro); đường sắt chuyên dùng.",
+      "Cấp công trình": "Mọi cấp"
+    },
+    {
+      "Mã số": "IV.1",
+      "Loại công trình": "Ga hành khách, ga hàng hóa, ga kỹ thuật và ga hỗn hợp; khu tập kết bảo dưỡng, sửa chữa tàu (đề-pô)",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "IV.1",
+      "Loại công trình": "Cầu đường bộ, cầu bộ hành, cầu đường sắt, cầu phao",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "IV.1",
+      "Loại công trình": "Hầm đường ô tô, hầm đường sắt, hầm cho người đi bộ",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "IV.1",
+      "Loại công trình": "Hầm tàu điện ngầm (Metro)",
+      "Cấp công trình": "Mọi cấp"
+    },
+    {
+      "Mã số": "IV.2",
+      "Loại công trình": "Cảng, bến thủy nội địa (cho hành khách)",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "IV.2",
+      "Loại công trình": "Đường thủy có bề rộng (B) và độ sâu (H) nước chạy tàu (bao gồm cả phao tiêu, công trình chính trị)",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "IV.3",
+      "Loại công trình": "Bến/cảng biển, bến phà (cho hành khách)",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "IV.3",
+      "Loại công trình": "Các công trình hàng hải khác",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "IV.4",
+      "Loại công trình": "Nhà ga hàng không; khu bay (bao gồm cả các công trình bảo đảm hoạt động bay)",
+      "Cấp công trình": "Mọi cấp"
+    },
+    {
+      "Mã số": "IV.5",
+      "Loại công trình": "Để vận chuyển người",
+      "Cấp công trình": "Mọi cấp"
+    },
+    {
+      "Mã số": "IV.5",
+      "Loại công trình": "Để vận chuyển hàng hóa",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "V",
+      "Loại công trình": "CÔNG TRÌNH NÔNG NGHIỆP VÀ MÔI TRƯỜNG",
+      "Cấp công trình": "CÔNG TRÌNH NÔNG NGHIỆP VÀ MÔI TRƯỜNG"
+    },
+    {
+      "Mã số": "V.1",
+      "Loại công trình": "Công trình cấp nước",
+      "Cấp công trình": "Cấp II trở lên"
+    },
+    {
+      "Mã số": "V.1",
+      "Loại công trình": "Hồ chứa nước",
+      "Cấp công trình": "Cấp III trở lên"
+    },
+    {
+      "Mã số": "V.1",
+      "Loại công trình": "Đập ngăn nước và các công trình thủy lợi chịu áp khác",
+      "Cấp công trình": "Cấp III trở lên"
+    },
+    {
+      "Mã số": "V.2",
+      "Loại công trình": "",
+      "Cấp công trình": "Mọi cấp"
+    },
+    {
+      "Mã số": "V.3",
+      "Loại công trình": "",
+      "Cấp công trình": "Cấp II trở lên"
+    }
+  ]
+}

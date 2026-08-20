@@ -29,7 +29,7 @@ class DocProfile:
 
     name: str
     dieu_pattern: re.Pattern = field(default_factory=lambda: re.compile(r"^#*\s*(Điều\s+(\d+)\.?[^\n]*)", re.IGNORECASE))
-    khoan_pattern: re.Pattern = field(default_factory=lambda: re.compile(r"^(\d+)\.\s+([^\n]+)"))
+    khoan_pattern: re.Pattern = field(default_factory=lambda: re.compile(r"^(?:\*\*(\d+)\.\*\*|(\d+)\.)\s+([^\n]+)"))
     sec_pattern: re.Pattern = field(default_factory=lambda: re.compile(r"^#*\s*(?:<a[^>]+></a>\s*)?(((?:[A-Z]\.)?\d+(?:\.\d+)*|[A-Z]\.\d+)\s+([^\n]+))"))
     section_prefix: str = "muc"
 
@@ -40,14 +40,14 @@ def get_doc_profile(doc_type: Optional[str] = "vbpl") -> DocProfile:
         return DocProfile(
             name="qcvn",
             dieu_pattern=re.compile(r"^#*\s*(Điều\s+(\d+)\.?[^\n]*)", re.IGNORECASE),
-            khoan_pattern=re.compile(r"^(\d+)\.\s+([^\n]+)"),
+            khoan_pattern=re.compile(r"^(?:\*\*(\d+)\.\*\*|(\d+)\.)\s+([^\n]+)"),
             sec_pattern=re.compile(r"^#*\s*(?:<a[^>]+></a>\s*)?(((?:[A-Z]\.)?\d+(?:\.\d+)*|[A-Z]\.\d+)\s+([^\n]+))"),
             section_prefix="muc",
         )
     return DocProfile(
         name="vbpl",
         dieu_pattern=re.compile(r"^#*\s*(Điều\s+(\d+)\.?[^\n]*)", re.IGNORECASE),
-        khoan_pattern=re.compile(r"^(\d+)\.\s+([^\n]+)"),
+        khoan_pattern=re.compile(r"^(?:\*\*(\d+)\.\*\*|(\d+)\.)\s+([^\n]+)"),
         sec_pattern=re.compile(r"^#*\s*((\d+\.\d+(\.\d+)?)\s+([^\n]+))"),
         section_prefix="muc",
     )
@@ -130,12 +130,13 @@ def inject_semantic_anchors(text: str, profile: Optional[DocProfile] = None) -> 
             processed_lines.append(f"\n{anchor}\n### {sec_match.group(1)}")
             continue
 
-        # 3. Match Clause: '1. Nội dung'
+        # 3. Match Clause: '1. Nội dung' -> Bold formatting **1.** to prevent CommonMark list indent
         khoan_match = profile.khoan_pattern.match(stripped)
         if khoan_match and current_dieu:
-            khoan_num = khoan_match.group(1)
+            khoan_num = khoan_match.group(1) or khoan_match.group(2)
+            khoan_rest = khoan_match.group(3)
             anchor = f'<a id="dieu-{current_dieu}-khoan-{khoan_num}"></a>'
-            processed_lines.append(f"{anchor}\n{line}")
+            processed_lines.append(f"{anchor}\n**{khoan_num}.** {khoan_rest}")
             continue
 
         processed_lines.append(line)
@@ -160,7 +161,7 @@ def generate_clauses_ast(text: str) -> list[dict[str, Any]]:
             clauses.append({
                 "clause_id": anchor_id,
                 "anchor": anchor_id,
-                "title": title.strip("# ").strip(),
+                "title": title.strip("# *").strip(),
                 "line_start": idx,
                 "line_end": idx,
             })

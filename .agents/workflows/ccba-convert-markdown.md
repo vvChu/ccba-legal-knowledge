@@ -1,5 +1,5 @@
 ---
-description: Chuyển đổi tài liệu sang Markdown chuẩn OKF v2.0 (tự động xử lý bảng biểu, thẻ neo, hợp nhất sửa đổi và kiểm định CI)
+description: Chuyển đổi tài liệu sang Markdown chuẩn OKF v2.2 (Pure Normative Body, Legal Knowledge Graph, Atomic Form Templates, 3-Tier Table Classifier và kiểm định CI)
 applies_to:
   - "Phần mềm"
   - "Thẩm tra thiết kế"
@@ -12,26 +12,38 @@ disable-model-invocation: true
 
 Khi người dùng kích hoạt lệnh này, Agent hãy phân loại loại hình tài liệu đầu vào để thực thi đúng quy trình:
 
-## 1. Đối với Văn bản Pháp luật & Quy chuẩn Kỹ thuật (QCVN / TCVN / Luật / Nghị định):
-Tuân thủ nghiêm ngặt **Quy trình 3 Bước OKF v2.0**:
+## 1. Đối với Văn bản Pháp luật & Quy chuẩn Kỹ thuật (QCVN / TCVN / Luật / Nghị định / Thông tư):
+Tuân thủ nghiêm ngặt **Quy trình 3 Bước OKF v2.2 (ADR 0021)**:
 
-1. **Chuyển đổi sang OKF Bundle:**
-   ```powershell
-   python scripts/docx_converter.py --input "<path_to_docx>" --output-dir "legal_docs/<category>/<doc_slug>"
-   ```
-2. **Hợp nhất Sửa đổi (nếu có văn bản sửa đổi):**
-   ```powershell
-   python -m scripts.consolidator `
-     --manifest legal_docs/<category>/<doc_slug>/patch_manifest.yaml `
-     --base legal_docs/<category>/<doc_slug>/<doc_slug>.md `
-     --output legal_docs/<category>/<doc_slug>/
-   ```
-3. **Chạy 3 Cổng Kiểm định Chất lượng Bắt buộc:**
-   ```powershell
-   python scripts/validate_legal_spoke.py
-   python scripts/verify_knowledge_integrity.py
-   python scripts/verify_cross_links.py
-   ```
+### Bước 1: Nạp & Chuyển đổi sang OKF v2.2 Bundle (Universal Converter):
+```powershell
+python scripts/docx_converter.py "<path_to_docx>" "legal_docs/<category>/<doc_slug>"
+```
+*Đặc tính xử lý tự động của Engine:*
+- **VBPL (Luật / Nghị định / Thông tư):**
+  * Tự động trích xuất **Thân Quy Phạm Thuần Khiết (Pure Normative Body)** từ Chương I đến Điều cuối cùng vào file `.md` chính.
+  * Tự động chuẩn hóa số thứ tự khoản `**1.**`, `**2.**` (chống lỗi thụt lề so le CommonMark).
+  * Tự động cấu trúc hóa Đồ thị Căn cứ Pháp lý (`legal_basis`) vào `metadata.yaml`.
+  * Tự động bóc tách **Biểu Mẫu Nguyên Tử (Atomic Form Templates)** vào thư mục `templates/phu_luc_XX/mau_YY_...md`.
+  * Tự động lọc khung layout hành chính, trích xuất Bảng số liệu ma trận kỹ thuật vào `tables/csv/` và `tables/json/`.
+- **QCVN / TCVN (Quy chuẩn kỹ thuật):**
+  * Tự động trích xuất bảng biểu 2D GFM Pipe Tables, ma trận chú thích ràng buộc chân bảng.
+
+### Bước 2: Hợp nhất Sửa đổi (nếu có văn bản sửa đổi):
+```powershell
+python -m scripts.consolidator `
+  --manifest legal_docs/<category>/<doc_slug>/patch_manifest.yaml `
+  --base legal_docs/<category>/<doc_slug>/<doc_slug>.md `
+  --output legal_docs/<category>/<doc_slug>/
+```
+
+### Bước 3: Kiểm định Bắt buộc qua 3 Cổng CI Gates (Zero-Tolerance):
+```powershell
+python scripts/validate_legal_spoke.py
+python scripts/verify_knowledge_integrity.py
+python scripts/verify_cross_links.py
+```
+*Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Parity, 100% Valid Links`.
 
 ---
 
