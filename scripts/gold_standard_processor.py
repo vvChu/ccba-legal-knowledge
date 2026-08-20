@@ -119,8 +119,9 @@ def clean_table_footnotes_and_superscripts(text: str) -> str:
                 line = line[:trapped_match.start()] + "|"
                 clean_note = note_text.strip("_ ").strip()
                 note_parts = re.split(r"(?<=\.)\s+(?=[1-9]\))", clean_note)
-                if not note_parts or (len(note_parts) == 1 and not clean_note.startswith(("1)", "2)", "3)", "4)")):
-                    if not clean_note.startswith(("1)", "2)", "3)", "4)")):
+                prefixes = ("1)", "2)", "3)", "4)")
+                if not note_parts or (len(note_parts) == 1 and not clean_note.startswith(prefixes)):
+                    if not clean_note.startswith(prefixes):
                         clean_note = "1) " + clean_note
                     note_parts = [clean_note]
 
@@ -165,6 +166,81 @@ def clean_table_footnotes_and_superscripts(text: str) -> str:
         new_lines.extend(_process_table(table_lines))
 
     return "\n".join(new_lines)
+
+
+def normalize_notes_and_lists(text: str) -> str:
+    """Normalize notes structure, deduplicate headers, and format lists cleanly."""
+    lines = text.splitlines()
+    cleaned_bullet_lines = []
+
+    for line in lines:
+        stripped = line.strip()
+        if re.match(r"^([-*]\s+)+", stripped):
+            stripped = re.sub(r"^([-*]\s+)+", "- ", stripped)
+        cleaned_bullet_lines.append(stripped if not line.startswith("  ") else line)
+
+    text = "\n".join(cleaned_bullet_lines)
+
+    # 1. Fix 1.4.9 definitions (Bằng khoảng cách..., Bằng một nửa...)
+    text = re.sub(
+        r"(####\s*<a id=\"muc-1-4-9\"[^\n]+\n+Chiều cao PCCC của nhà[^\n]+\n+)\s*(Bằng khoảng cách lớn nhất[^\n]+)\n+\s*(Bằng một nửa tổng khoảng cách[^\n]+)",
+        r"\1- \2\n\n- \3",
+        text,
+    )
+
+    # 2. Fix 1.4.72 inline single note (clean merged sentence)
+    text = re.sub(
+        r"(_?CHÚ THÍCH:\s*Các yếu tố nguy hiểm cháy[^\n]+)\n+\s*[-*]?\s*2\.\s*(luồng nhiệt[^\n]+)",
+        r"_CHÚ THÍCH: Các yếu tố nguy hiểm cháy: 1) ngọn lửa và tia lửa, 2) \2_",
+        text,
+        flags=re.IGNORECASE,
+    )
+
+    # 3. Deduplicate _CHÚ THÍCH:_ headers in multi-note blocks
+    text = re.sub(r"(\n-\s+\*\*CHÚ THÍCH\s+\d+:?\*\*[^\n]+\n+)\s*_CHÚ THÍCH:_\n+(?=-\s+\*\*CHÚ THÍCH)", r"\1", text)
+
+    # 4. Standardize material classification and hazard level codes
+    def _fix_codes(match: re.Match) -> str:
+        code_item = match.group(1).strip()
+        return f"- {code_item}"
+
+    text = re.sub(r"(?m)^(?!\s*[-*])\s*((?:LT[1-4]|Ch[1-4]|BC[1-3]|SK[1-3]|ĐT[1-4]|CV[0-5]|K[0-3])\s*\([^\n]+)", _fix_codes, text)
+
+    # 5. Indent sub-items inside notes and clean main body lettered items
+    lines = text.splitlines()
+    processed_lines = []
+    in_note = False
+
+    for l in lines:
+        st = l.strip()
+        if st == "_CHÚ THÍCH:_":
+            in_note = True
+            processed_lines.append(l)
+            continue
+        elif st.startswith(("#", "<a id=", "|", ">", "```")):
+            in_note = False
+            processed_lines.append(l)
+            continue
+
+        if in_note:
+            m_let = re.match(r"^([a-z]\)\s+.*)", st)
+            if m_let:
+                processed_lines.append(f"  {m_let.group(1)}")
+                continue
+            m_sub_b = re.match(r"^\s*-\s+([a-z]\)\s+.*)", st)
+            if m_sub_b:
+                processed_lines.append(f"  {m_sub_b.group(1)}")
+                continue
+        else:
+            m_main_let = re.match(r"^[-*]\s+([a-z]\)\s+.*)", st)
+            if m_main_let:
+                processed_lines.append(m_main_let.group(1))
+                continue
+
+        processed_lines.append(l)
+
+    text = "\n".join(processed_lines)
+    return re.sub(r"\n{3,}", "\n\n", text)
 
 
 def inject_semantic_anchors(text: str, profile: Optional[DocProfile] = None) -> str:
@@ -289,7 +365,17 @@ def process_okf_bundle(bundle_dir: Path, doc_type: Optional[str] = None) -> dict
     if not bundle_dir.exists() or not bundle_dir.is_dir():
         return {"status": "error", "message": f"Bundle dir {bundle_dir} does not exist."}
 
-    # Generate Unified AST and QA Benchmark across core & annexes
+    # Normalize all Markdown files in bundle (Active Core and Annexes)
+    core_files = [f for f in bundle_dir.glob("*.md") if f.name not in ("index.md", "dead_ends.md", "log.md")]
+    annexes_dir = bundle_dir / "annexes"
+    annex_files = sorted(list(annexes_dir.glob("*.md"))) if annexes_dir.exists() else []
+
+    for md_path in core_files + annex_files:
+        raw_text = md_path.read_text(encoding="utf-8")
+        norm_text = normalize_notes_and_lists(raw_text)
+        if norm_text != raw_text:
+            md_path.write_text(norm_text, encoding="utf-8")
+    # Extract document title from metadata
     meta_path = bundle_dir / "metadata.yaml"
     doc_title = bundle_dir.name
     if meta_path.exists():

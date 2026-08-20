@@ -492,7 +492,7 @@ _CHÚ THÍCH: Các yếu tố nguy hiểm cháy: 1) ngọn lửa và tia lửa; 
 
 - Nhà vẫn duy trì được tính ổn định tổng thể và tính bất biến hình trong một khoảng thời gian nhất định, được quy định bằng bậc chịu lửa của nhà;
 
-- Mọi người trong nhà (không phụ thuộc vào tuổi tác và tình trạng sức khỏe) có thể sơ tán ra bên ngoài tới khu vực an toàn (sau đây gọi là bên ngoài) trước khi xuất hiện nguy cơ đe doạ tính mạng và sức khỏe do tác động của các yếu tố nguy hiểm của đám cháy;
+- Mọi người trong nhà (không phụ thuộc vào tuổi tác và tình trạng sức khỏe) có thể sơ tán ra bên ngoài tới khu vực an toàn (sau đây gọi là bên ngoài) trước khi xuất hiện nguy cơ đe dọa tính mạng và sức khỏe do tác động của các yếu tố nguy hiểm của đám cháy;
 
 - Có khả năng cứu người;
 
@@ -516,17 +516,11 @@ _CHÚ THÍCH: Các yếu tố nguy hiểm cháy: 1) ngọn lửa và tia lửa; 
 <a id="muc-1-5-3"></a>
 ### 1.5.3  Trong quá trình khai thác sử dụng phải:
 
-- Bảo đảm các bộ phận của nhà và khả năng làm việc của các hệ thống bảo vệ chống cháy phù hợp với yêu cầu thiết kế và các tài liệu kỹ thuật của chúng;
+- Bảo đảm các bộ phận của nhà và khả năng làm việc của các hệ thống bảo vệ chống cháy phù hợp với yêu cầu của thiết kế và các tài liệu kỹ thuật của chúng;
 
 - Thực hiện các quy định về phòng cháy chữa cháy theo pháp luật hiện hành;
 
 - Không được phép thay đổi kết cấu hay các giải pháp bố trí mặt bằng - không gian và kỹ thuật công trình mà không có thiết kế được phê duyệt theo quy định;
-
-- Khi tiến hành sửa chữa, không cho phép sử dụng các cấu kiện và vật liệu không đáp ứng các yêu cầu của các quy chuẩn, tiêu chuẩn hiện hành;
-
-- Khi nhà được cấp phép ở điều kiện phải hạn chế về tải trọng cháy, về số người trong nhà hoặc trong bất kỳ phần nào của nhà, thì bên trong nhà phải đặt thông báo về những hạn chế này ở những nơi dễ thấy, còn bộ phận quản lý nhà phải thiết lập các biện pháp tổ chức riêng về phòng cháy chữa cháy và sơ tán người khi xảy ra cháy.
-
-<a id="muc-1-5-4"></a>
 ### 1.5.4  Khi phân tích tính nguy hiểm cháy của nhà, có thể sử dụng các tình huống tính toán dựa trên tương quan giữa các thông số; sự phát triển và lan truyền các yếu tố nguy hiểm của đám cháy, việc sơ tán người và tổ chức chữa cháy.
 
 <a id="muc-2"></a>
@@ -702,9 +696,7 @@ _CHÚ THÍCH: Cấp nguy hiểm cháy của vật liệu xây dựng là chỉ t
 
 - Mất khả năng cách nhiệt (ký hiệu bằng chữ I) do nhiệt độ ở bề mặt không đốt nóng tăng đến giá trị giới hạn;
 
-- Mất khả năng hạn chế bức xạ nhiệt (ký hiệu bằng chữ W) do thông lượng nhiệt ở khoảng cách quy định từ bề mặt không bị đốt nóng của cấu kiện/kết cấu đạt tới giá trị giới hạn.
-
-_CHÚ THÍCH:_
+- Mất khả năng hạn chế bức xạ nhiệt (ký hiệu bằng chữ W) do thông lượng nhiệt ở khoảng cách quy định từ bề mặt không bị đốt nóng của cấu kiện/kết cấu đạt tới giá trị giới hạn._CHÚ THÍCH:_
 - **CHÚ THÍCH 1:** Giới hạn chịu lửa của cấu kiện xây dựng được xác định bằng thử nghiệm chịu lửa theo TCVN 9311-1 đến TCVN 9311-8 hoặc các tiêu chuẩn tương đương hoặc bằng tính toán theo tiêu chuẩn thiết kế chịu lửa được áp dụng.
   - Giới hạn chịu lửa của các ống dẫn khói, không khí được xác định theo tiêu chuẩn ISO 6944 hoặc các tiêu chuẩn tương đương.
 - **CHÚ THÍCH 2:** Giới hạn chịu lửa yêu cầu của các cấu kiện xây dựng cụ thể được quy định trong quy chuẩn này và trong các quy chuẩn kỹ thuật cho từng loại công trình. Giới hạn chịu lửa yêu cầu của cấu kiện xây dựng được ký hiệu bằng REI, REW, EI, EW, EIW, RE hoặc R kèm theo các chỉ số tương ứng về thời gian chịu tác động của lửa tính bằng phút. Ví dụ: cấu kiện có giới hạn chịu lửa yêu cầu là REI 120 nghĩa là cấu kiện phải duy trì được đồng thời cả ba khả năng: chịu lực, toàn vẹn và cách nhiệt trong khoảng thời gian chịu tác động của lửa là 120 phút. Cấu kiện có giới hạn chịu lửa yêu cầu là R 60, thì cấu kiện chỉ phải duy trì khả năng chịu lực trong thời gian 60 phút, không yêu cầu về khả năng cách nhiệt và tính toàn vẹn.
