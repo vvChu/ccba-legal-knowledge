@@ -32,7 +32,7 @@ BẢO VỆ CHỐNG KHÓI
 
 - Tạo áp suất dương cho các khu vực cần chống nhiễm khói.
 
-Có thể áp dụng một hoặc đồng thời nhiều giải pháp nêu trên, và phải bảo đảm điều kiện biên dưới của lớp khói không thấp hơn 2 m so với mặt sàn cao nhất có thể đi bộ trong gian phòng hoặc trong hành lang được bảo vệ chống khói.
+- Có thể áp dụng một hoặc đồng thời nhiều giải pháp nêu trên, và phải bảo đảm điều kiện biên dưới của lớp khói không thấp hơn 2 m so với mặt sàn cao nhất có thể đi bộ trong gian phòng hoặc trong hành lang được bảo vệ chống khói.
 
 ### <a id="muc-d-1-3" name="muc-d-1-3"></a>D.1.3  Các thiết bị của hệ thống hút xả khói và cấp không khí chống khói, không phụ thuộc vào cơ chế hoạt động (tự nhiên hoặc cưỡng bức), phải được dẫn động (kích hoạt) tự động (từ tín hiệu báo cháy tự động hoặc từ thiết bị chữa cháy tự động) và dẫn động (kích hoạt) từ xa (từ phòng trực điều độ của nhà, hoặc phòng trực chống cháy hoặc từ các nút bấm được đặt trên lối thoát nạn hoặc trong các tủ báo cháy. Các nút bấm này phải được bố trí sao cho con người có thể dễ dàng kích hoạt).
 
@@ -68,29 +68,29 @@ b) Từ các hành lang và đường hầm đi bộ của tầng hầm, tầng 
 
 c) Từ các hành lang có chiều dài lớn hơn 15 m mà không có thông gió tự nhiên khi có cháy của các nhà từ 2 tầng trở lên sau:
 
-- Nhà sản xuất, nhà kho hạng A, B và C;
+- - Nhà sản xuất, nhà kho hạng A, B và C;
 
-- Nhà công cộng, bao gồm cả nhà hành chính - phụ trợ trong các cơ sở công nghiệp;
+- - Nhà công cộng, bao gồm cả nhà hành chính - phụ trợ trong các cơ sở công nghiệp;
 
-- Nhà hỗn hợp;
+- - Nhà hỗn hợp;
 
-d) Từ hành lang chung (trừ hành lang bên) và sảnh chung của các nhà có buồng thang bộ không nhiễm khói;
+- d) Từ hành lang chung (trừ hành lang bên) và sảnh chung của các nhà có buồng thang bộ không nhiễm khói;
 
-e) Từ các sảnh thông tầng và các hành lang thương mại bao quanh sảnh thông tầng (sau đây gọi chung là sảnh thông tầng);
+- e) Từ các sảnh thông tầng và các hành lang thương mại bao quanh sảnh thông tầng (sau đây gọi chung là sảnh thông tầng);
 
-f) Từ các gian phòng có người làm việc thường xuyên, phục vụ sản xuất hoặc kho, bao gồm cả nơi bảo quản lưu trữ sách, tài liệu, hiện vật, xưởng phục chế của bảo tàng (đối với gian phòng lưu trữ dạng kệ thì không phụ thuộc vào việc có người làm việc thường xuyên), nếu các gian phòng này thuộc hạng A, B, C1 đến C3 trong nhà bậc chịu lửa I đến IV, hoặc hạng C4, D, E trong nhà bậc chịu lửa IV;
+- f) Từ các gian phòng có người làm việc thường xuyên, phục vụ sản xuất hoặc kho, bao gồm cả nơi bảo quản lưu trữ sách, tài liệu, hiện vật, xưởng phục chế của bảo tàng (đối với gian phòng lưu trữ dạng kệ thì không phụ thuộc vào việc có người làm việc thường xuyên), nếu các gian phòng này thuộc hạng A, B, C1 đến C3 trong nhà bậc chịu lửa I đến IV, hoặc hạng C4, D, E trong nhà bậc chịu lửa IV;
 
 g) Từ mỗi gian phòng liên thông với buồng thang bộ không nhiễm khói, hoặc từ mỗi gian phòng không có thông gió tự nhiên khi có cháy sau:
 
-- Diện tích từ 50 m2 trở lên, thường xuyên hoặc nhất thời tập trung đông người (số lượng hơn 1 người trên 1 m2 sàn, không tính diện tích chiếm chỗ của các thiết bị, vật dụng);
+- - Diện tích từ 50 m2 trở lên, thường xuyên hoặc nhất thời tập trung đông người (số lượng hơn 1 người trên 1 m2 sàn, không tính diện tích chiếm chỗ của các thiết bị, vật dụng);
 
-- Các gian thương mại, trưng bày sản phẩm hàng hóa;
+- - Các gian thương mại, trưng bày sản phẩm hàng hóa;
 
-- Các phòng đọc và lưu trữ sách của thư viện, các gian triển lãm, bảo tàng có diện tích từ 50 m2 trở lên, có người làm việc thường xuyên, dùng để lưu trữ hoặc sử dụng các chất và vật liệu cháy;
+- - Các phòng đọc và lưu trữ sách của thư viện, các gian triển lãm, bảo tàng có diện tích từ 50 m2 trở lên, có người làm việc thường xuyên, dùng để lưu trữ hoặc sử dụng các chất và vật liệu cháy;
 
-- Phòng thay đồ, gửi đồ diện tích từ 200 m2 trở lên;
+- - Phòng thay đồ, gửi đồ diện tích từ 200 m2 trở lên;
 
-h) Các gara giữ xe kín, ngầm hoặc nổi, được xây dựng riêng hoặc là một phần của các nhà có công năng khác và cả các đường dốc được ngăn cách của các gara này.
+- h) Các gara giữ xe kín, ngầm hoặc nổi, được xây dựng riêng hoặc là một phần của các nhà có công năng khác và cả các đường dốc được ngăn cách của các gara này.
 
 Cho phép hút xả khói qua hành lang liền kề từ các gian phòng có diện tích đến 200 m2 và hạng nguy hiểm cháy C1, C2, C3, hoặc lưu trữ hoặc sử dụng chất và vật liệu cháy.
 
@@ -147,7 +147,7 @@ Cho phép sử dụng hệ thống hút xả khói chung cho việc bảo vệ c
 
 - Không lớn hơn 20 m nếu là hành lang dạng vòng khép kín.
 
-Chiều dài hành lang được tính bằng tổng chiều dài các đoạn hành lang nằm liên tiếp nhau, có hình chữ nhật hoặc gần chữ nhật.
+- Chiều dài hành lang được tính bằng tổng chiều dài các đoạn hành lang nằm liên tiếp nhau, có hình chữ nhật hoặc gần chữ nhật.
 
 <a id="muc-D-7"></a>
 ### D.7  Khi hút khói trực tiếp từ các gian phòng có diện tích lớn hơn 3 000 m2 thì phải ngăn chia gian phòng (bằng giải pháp bao che (sử dụng các bộ phận ngăn khói) hoặc giải pháp giả định) thành các vùng khói (bể khói) có diện tích không lớn hơn 3 000 m2 và phải tính đến khả năng xảy ra cháy ở một trong các vùng đó. Mỗi cửa thu khói chỉ được tính phục vụ cho một diện tích không quá 1 000 m2.
@@ -163,8 +163,9 @@ _CHÚ THÍCH:_
 
 - **CHÚ THÍCH 2:** Hệ thống hút xả khói theo cơ chế tự nhiên là hệ thống hút xả khói, trong đó khói tự thoát ra ngoài nhà qua các lỗ mở trên kết cấu bao che của nhà theo các định luật vật lý tự nhiên.
 
-Trong các nhà nhiều tầng cần sử dụng hệ thống hút xả khói theo cơ chế cưỡng bức. Cho phép sử dụng hệ thống hút xả khói theo cơ chế tự nhiên đối với tầng trên cùng của nhà nhiều tầng, thông qua van khói, cửa nắp hút khói, hoặc các cửa trời mở, cửa chớp mở và không đón gió vào.
+- Trong các nhà nhiều tầng cần sử dụng hệ thống hút xả khói theo cơ chế cưỡng bức. Cho phép sử dụng hệ thống hút xả khói theo cơ chế tự nhiên đối với tầng trên cùng của nhà nhiều tầng, thông qua van khói, cửa nắp hút khói, hoặc các cửa trời mở, cửa chớp mở và không đón gió vào.
 
+Đối với nhà một tầng và tầng trên cùng của nhà nhiều tầng, cho phép sử dụng thông gió tự nhiên khi có cháy thay cho hệ thống hút xả khói khi bảo đảm các điều kiện sau:
 Đối với nhà một tầng và tầng trên cùng của nhà nhiều tầng, cho phép sử dụng thông gió tự nhiên khi có cháy thay cho hệ thống hút xả khói khi bảo đảm các điều kiện sau:
 
 - Có tính toán thoát khói phù hợp với tiêu chuẩn áp dụng, với các điều kiện bất lợi nhất đối với thoát khói (về nhiệt độ không khí bên ngoài, vận tốc gió bên ngoài, vị trí đám cháy, vị trí và tình trạng mở của các ô cửa và các yếu tố khác). Trong tính toán, biên dưới của lớp khói phải không thấp hơn 2 m tính tới mặt sàn cao nhất có thể đi bộ được trong hành lang hay gian phòng đang xét.
@@ -177,13 +178,13 @@ a) Việc bố trí các quạt hút (bao gồm cả các bộ phận phụ tr�
 
 b) Các đường ống và kênh dẫn nếu có yêu cầu về giới hạn chịu lửa thì phải được chế tạo từ vật liệu không cháy (bao gồm cả các lớp bọc phủ cách nhiệt và bảo vệ chịu lửa của ống) và có độ kín cấp B (phân cấp độ kín theo xác định theo EN 15727 hoặc tiêu chuẩn tương đương), với giới hạn chịu lửa không thấp hơn:
 
-- El 120 - đối với các đường ống và kênh dẫn khói nằm bên ngoài phạm vi của khoang cháy mà hệ thống đó phục vụ; khi đó tại các vị trí đường ống và kênh khói đi xuyên qua tường, sàn ngăn cháy của khoang cháy không được lắp các van ngăn cháy loại thường mở;
+- - El 120 - đối với các đường ống và kênh dẫn khói nằm bên ngoài phạm vi của khoang cháy mà hệ thống đó phục vụ; khi đó tại các vị trí đường ống và kênh khói đi xuyên qua tường, sàn ngăn cháy của khoang cháy không được lắp các van ngăn cháy loại thường mở;
 
-- El 60 - đối với các đường ống và kênh dẫn khói nằm trong phạm vi của khoang cháy được phục vụ, khi sử dụng để thải khói từ các gara để xe dạng kín;
+- - El 60 - đối với các đường ống và kênh dẫn khói nằm trong phạm vi của khoang cháy được phục vụ, khi sử dụng để thải khói từ các gara để xe dạng kín;
 
-- El 45 - đối với đường ống và kênh dẫn khói theo phương đứng nằm trong phạm vi của khoang cháy được phục vụ, khi hút khói trực tiếp tại khu vực phục vụ đó;
+- - El 45 - đối với đường ống và kênh dẫn khói theo phương đứng nằm trong phạm vi của khoang cháy được phục vụ, khi hút khói trực tiếp tại khu vực phục vụ đó;
 
-- El 30 - đối với các trường hợp khác nằm trong phạm vi khoang cháy được phục vụ.
+- - El 30 - đối với các trường hợp khác nằm trong phạm vi khoang cháy được phục vụ.
 
 _CHÚ THÍCH:_
 - **CHÚ THÍCH 1:** Không yêu cầu giới hạn chịu lửa đối với các đường ống nằm trong kênh hoặc giếng kỹ thuật được bao che bởi các bộ phận ngăn cháy có giới hạn chịu lửa tương đương theo quy định
@@ -192,13 +193,13 @@ _CHÚ THÍCH:_
 
 c) Van ngăn cháy loại thường đóng có giới hạn chịu lửa không thấp hơn:
 
-El 60 - đối với các gara để xe kín;
+- El 60 - đối với các gara để xe kín;
 
-El 45 - dùng cho việc xả khói trực tiếp từ các gian phòng được bảo vệ;
+- El 45 - dùng cho việc xả khói trực tiếp từ các gian phòng được bảo vệ;
 
-El 30 - đối với các hành lang và sảnh khi lắp đặt van trên các ống nhánh từ giếng thu khói;
+- El 30 - đối với các hành lang và sảnh khi lắp đặt van trên các ống nhánh từ giếng thu khói;
 
-El 30 - đối với các hành lang và sảnh khi lắp đặt van khói trực tiếp trên lỗ mở của giếng thu khói;
+- El 30 - đối với các hành lang và sảnh khi lắp đặt van khói trực tiếp trên lỗ mở của giếng thu khói;
 
 d) Khói và sản phẩm cháy phải được xả ra bên ngoài nhà và công trình theo các phương án sau:
 
@@ -210,7 +211,7 @@ d) Khói và sản phẩm cháy phải được xả ra bên ngoài nhà và cô
 
 - Qua các giếng xả khói tách biệt nằm trên mặt đất ở khoảng cách không nhỏ hơn 15 m tính đến tường ngoài có cửa sổ (trong trường hợp các cửa sổ tường ngoài là cửa kín khói, luôn đóng hoặc tự động đóng khi có cháy thì không quy định khoảng cách tối thiểu), hoặc tính từ các miệng hút của hệ thống cấp không khí thông gió của các nhà lân cận hoặc của hệ thống cấp không khí chống khói của nhà đang xét. Cho phép thay thế yêu cầu này bằng các giải pháp xả khói khác theo tài liệu chuẩn được phép áp dụng.
 
-Cho phép xả khói từ các ống hút khói từ tầng hầm và tầng nửa hầm qua các khoang được thông gió. Trong trường hợp này, miệng xả khói phải được đặt cách nền của khoang thông gió ở tầng hầm thứ nhất ít nhất là 6 m (cách kết cấu của một nhà ít nhất là 3 m theo chiều đứng và 1 m theo chiều ngang) hoặc đối với thiết bị xả dạng ướt phải cách mặt sàn ít nhất là 3 m. Không lắp các van khói trên những ống này.
+- Cho phép xả khói từ các ống hút khói từ tầng hầm và tầng nửa hầm qua các khoang được thông gió. Trong trường hợp này, miệng xả khói phải được đặt cách nền của khoang thông gió ở tầng hầm thứ nhất ít nhất là 6 m (cách kết cấu của một nhà ít nhất là 3 m theo chiều đứng và 1 m theo chiều ngang) hoặc đối với thiết bị xả dạng ướt phải cách mặt sàn ít nhất là 3 m. Không lắp các van khói trên những ống này.
 
 Các quạt hút khói phải được đặt trong các gian phòng riêng biệt với kết cấu bao che có giới hạn chịu lửa không thấp hơn giới hạn chịu lửa yêu cầu của các ống dẫn khói đi xuyên qua các kết cấu bao che này, hoặc đặt ngay trong các gian phòng mà chúng bảo vệ.
 
@@ -262,11 +263,11 @@ a) Trong các giếng thang máy - khi tất cả các cửa giếng thang máy 
 
 b) Trong các buồng thang bộ loại N2 - lấy giá trị lưu lượng lớn hơn trong các trường hợp sau:
 
-- Trên tầng có cháy: Khi các cửa từ hành lang và sảnh vào đường thoát nạn dẫn vào buồng thang bộ đều mở, hoặc các cửa từ các gian phòng trực tiếp vào buồng thang bộ đều mở;
+- - Trên tầng có cháy: Khi các cửa từ hành lang và sảnh vào đường thoát nạn dẫn vào buồng thang bộ đều mở, hoặc các cửa từ các gian phòng trực tiếp vào buồng thang bộ đều mở;
 
-- Cửa từ trong nhà đi ra ngoài trời mở, còn tất cả các cửa khác dẫn từ hành lang và sảnh trên tất cả các tầng đều đóng;
+- - Cửa từ trong nhà đi ra ngoài trời mở, còn tất cả các cửa khác dẫn từ hành lang và sảnh trên tất cả các tầng đều đóng;
 
-c) Trong các khoang đệm ngăn cháy tại tầng có cháy (khi các cửa đều đóng).
+- c) Trong các khoang đệm ngăn cháy tại tầng có cháy (khi các cửa đều đóng).
 
 Lưu lượng không khí cấp vào các khoang đệm ngăn cháy trên lối vào các buồng thang bộ N2 hoặc N3, vào các cầu thang bộ loại 2, trên các lối vào sảnh thông tầng từ các tầng hầm và nửa hầm, trước sảnh thang máy của các ga ra ngầm, cần được tính toán bảo đảm điều kiện vận tốc dòng khí qua lỗ cửa mở không nhỏ hơn 1,3 m/s, có xét đến hoạt động đồng thời của hệ thống hút xả khói.
 
@@ -277,21 +278,21 @@ Giá trị áp suất dương được xác định so với các gian phòng l�
 
 a) Áp suất dư không nhỏ hơn 20 Pa và không lớn hơn 50 Pa trong các khu vực sau:
 
-- Buồng thang bộ N2;
+- - Buồng thang bộ N2;
 
-- Các khoang đệm ngăn cháy trên cửa vào các buồng thang bộ N2 hoặc N3 từ các tầng;
+- - Các khoang đệm ngăn cháy trên cửa vào các buồng thang bộ N2 hoặc N3 từ các tầng;
 
-- Các khoang đệm ngăn cháy trên cửa vào sảnh thông tầng từ các tầng hầm và nửa hầm;
+- - Các khoang đệm ngăn cháy trên cửa vào sảnh thông tầng từ các tầng hầm và nửa hầm;
 
-- Các khoang đệm ngăn cháy ngăn cách gian để ô tô với đường dốc của gara ngầm;
+- - Các khoang đệm ngăn cháy ngăn cách gian để ô tô với đường dốc của gara ngầm;
 
-- Các sảnh thang máy của các tầng hầm và nửa hầm;
+- - Các sảnh thang máy của các tầng hầm và nửa hầm;
 
-- Các hành lang chung của các gian phòng được hút khói trực tiếp;
+- - Các hành lang chung của các gian phòng được hút khói trực tiếp;
 
-- Các phòng của vùng an toàn (nếu có);
+- - Các phòng của vùng an toàn (nếu có);
 
-- Trong các giếng thang máy.
+- - Trong các giếng thang máy.
 
 b) Khi có cửa hai cánh thì lấy diện tích của cánh lớn hơn, khi đó diện tích này phải không nhỏ hơn diện tích cần thiết cho việc thoát nạn. Trong trường hợp ngược lại phải lấy diện tích toàn bộ cửa hai cánh;
 
@@ -304,21 +305,21 @@ d) Áp suất dư trên các cửa đóng của lối ra thoát nạn không đ�
 
 a) Các quạt đẩy có thể được lắp đặt tại các vị trí sau:
 
-- Trong các gian phòng không có các loại quạt khác, với giới hạn chịu lửa của kết cấu bao che không thấp hơn giới hạn chịu lửa yêu cầu đối với các kết cấu giao cắt với đường ống;
+- - Trong các gian phòng không có các loại quạt khác, với giới hạn chịu lửa của kết cấu bao che không thấp hơn giới hạn chịu lửa yêu cầu đối với các kết cấu giao cắt với đường ống;
 
-- Trong phạm vi một khoang cháy: trong các gian phòng chứa hệ thống cấp không khí vào của hệ thống thông gió chung nếu thỏa mãn yêu cầu của tiêu chuẩn thiết kế, hoặc lắp đặt trực tiếp trong các buồng thang bộ, hành lang và các khoang đệm ngăn cháy;
+- - Trong phạm vi một khoang cháy: trong các gian phòng chứa hệ thống cấp không khí vào của hệ thống thông gió chung nếu thỏa mãn yêu cầu của tiêu chuẩn thiết kế, hoặc lắp đặt trực tiếp trong các buồng thang bộ, hành lang và các khoang đệm ngăn cháy;
 
-- Trên mái và ngoài nhà, với kết cấu bao che tránh sự tiếp cận của người lạ.
+- - Trên mái và ngoài nhà, với kết cấu bao che tránh sự tiếp cận của người lạ.
 
 b) Các đường ống và kênh dẫn phải được chế tạo từ vật liệu không cháy (bao gồm cả các lớp bọc phủ cách nhiệt và bảo vệ chịu lửa của ống), có độ kín cáp B và giới hạn chịu lửa không thấp hơn:
 
-- El 120 - đối với các giếng gom không khí và kênh cấp không khí nằm ngoài phạm vi khoang cháy được phục vụ;
+- - El 120 - đối với các giếng gom không khí và kênh cấp không khí nằm ngoài phạm vi khoang cháy được phục vụ;
 
-- El 120 - đối với các kênh của hệ thống cấp không khí bảo vệ các khoang đệm của giếng thang máy chữa cháy;
+- - El 120 - đối với các kênh của hệ thống cấp không khí bảo vệ các khoang đệm của giếng thang máy chữa cháy;
 
-- El 60 - đối với các kênh cấp không khí vào khoang đệm ngăn cháy trên lối vào buồng thang bộ N2 hoặc N3 từ các tầng, cũng như cấp không khí cho các gian của ga ra để xe kín;
+- - El 60 - đối với các kênh cấp không khí vào khoang đệm ngăn cháy trên lối vào buồng thang bộ N2 hoặc N3 từ các tầng, cũng như cấp không khí cho các gian của ga ra để xe kín;
 
-- El 30 - đối với các giếng gom không khí và kênh cấp không khí trong phạm vi khoang cháy được phục vụ.
+- - El 30 - đối với các giếng gom không khí và kênh cấp không khí trong phạm vi khoang cháy được phục vụ.
 
 _CHÚ THÍCH: Không yêu cầu giới hạn chịu lửa đối với các đường ống nằm trong kênh hoặc giếng kỹ thuật được bao che bởi các bộ phận ngăn cháy có giới hạn chịu lửa tương đương theo quy định._
 
@@ -326,11 +327,11 @@ c) Các cửa lấy không khí bên ngoài phải bố trí cách cửa xả kh
 
 d) Các van ngăn cháy thường đóng trong các kênh cấp không khí vào khoang đệm ngăn cháy có giới hạn chịu lửa không nhỏ hơn:
 
-- El 120 - đối với các hệ thống được quy định tại đoạn b) của D.10;
+- - El 120 - đối với các hệ thống được quy định tại đoạn b) của D.10;
 
-- El 60 - đối với các hệ thống được quy định tại các đoạn d), e), h), j), k), I) của D.10;
+- - El 60 - đối với các hệ thống được quy định tại các đoạn d), e), h), j), k), I) của D.10;
 
-- El 30 - đối với các hệ thống trong các đoạn f), g), i) của D.10, cũng như đoạn m) của D.10 có kể đến đoạn b) của D.13.
+- - El 30 - đối với các hệ thống trong các đoạn f), g), i) của D.10, cũng như đoạn m) của D.10 có kể đến đoạn b) của D.13.
 
 _CHÚ THÍCH: Không yêu cầu giới hạn chịu lửa đối với van ngăn cháy thường đóng trong các đường ống cấp không khí vào nằm trong kênh hoặc giếng kỹ thuật được bao bởi các bộ phận ngăn cháy có giới hạn chịu lửa tương đương theo quy định._
 

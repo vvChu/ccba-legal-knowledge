@@ -104,9 +104,9 @@ Nhà, công trình được xếp vào hạng E nếu nó không thuộc các h�
 
 - Kho chứa bình đựng hơi đốt, kho xăng,
 
-Các căn phòng chứa ắc quy kiềm và axit của nhà máy điện;
+- Các căn phòng chứa ắc quy kiềm và axit của nhà máy điện;
 
-Các trạm bơm chất lỏng có nhiệt độ bắt cháy ở thể hơi từ 28 °C trở xuống.
+- Các trạm bơm chất lỏng có nhiệt độ bắt cháy ở thể hơi từ 28 °C trở xuống.
 
 ### <a id="muc-c-3-2-2" name="muc-c-3-2-2"></a>C.3.2.2  Hạng B
 

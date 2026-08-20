@@ -88,9 +88,9 @@ _CHÚ THÍCH:_
 
 Đường quy ước được xác định như sau:
 
-- Nếu một nhà đã có sẵn thì đường quy ước sẽ song song và cách mặt ngoài của nhà có sẵn một khoảng cách tương ứng với tổng diện tích mặt ngoài không được bảo vệ và giới hạn chịu lửa tường ngoài của nhà này (xem các bằng E.3, E.4a và E.4b);
+- - Nếu một nhà đã có sẵn thì đường quy ước sẽ song song và cách mặt ngoài của nhà có sẵn một khoảng cách tương ứng với tổng diện tích mặt ngoài không được bảo vệ và giới hạn chịu lửa tường ngoài của nhà này (xem các bằng E.3, E.4a và E.4b);
 
-- Nếu cả hai nhà đều xây mới thì đường quy ước là đường phù hợp với diện tích mặt ngoài không được bảo vệ và giới hạn chịu lửa tường ngoài của cả hai nhà.
+- - Nếu cả hai nhà đều xây mới thì đường quy ước là đường phù hợp với diện tích mặt ngoài không được bảo vệ và giới hạn chịu lửa tường ngoài của cả hai nhà.
 
 - Nếu mặt ngoài nhà có hình dáng không đều thì đường phân định được xác định theo phương án an toàn nhất từ các mặt phẳng tường ngoài khác nhau.
 

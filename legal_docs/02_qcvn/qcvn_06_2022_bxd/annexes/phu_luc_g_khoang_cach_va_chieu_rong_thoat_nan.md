@@ -225,9 +225,9 @@ Số lượng người trên 1 m chiều rộng của một lối ra thoát nạ
 
 Số lượng người trên 1 m chiều rộng của một lối ra thoát nạn từ các gian phòng có chiều cao lớn hơn 6 m được tăng lên như sau:
 
-- Tăng lên 20 % khi chiều cao PCCC của nhà là 12 m;
+- - Tăng lên 20 % khi chiều cao PCCC của nhà là 12 m;
 
-- Tăng lên 30 % khi chiều cao PCCC của nhà là 18 m và tăng lên 40 % khi chiều cao PCCC của nhà là 24 m.
+- - Tăng lên 30 % khi chiều cao PCCC của nhà là 18 m và tăng lên 40 % khi chiều cao PCCC của nhà là 24 m.
 
 Khi chiều cao PCCC của nhà là các trị số trung gian thì số lượng người trên 1 m chiều rộng của một lối ra thoát nạn được xác định nội suy tuyến tính.
 

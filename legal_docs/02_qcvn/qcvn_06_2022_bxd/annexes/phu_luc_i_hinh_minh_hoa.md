@@ -47,6 +47,7 @@ Hình I.5 – Nguyên tắc bảo đảm khoảng phân tán giữa các lối r
 ### I.3.1  Các loại cầu thang và buồng thang bộ thông thường (xem 2.4.2)
 
 CHÚ DẪN:
+CHÚ DẪN:
 
 <a id="muc-1"></a>
 ### 1  - Cầu thang bộ loại 1 (cầu thang kín, trong nhà): cầu thang bên trong nhà, được bao che kín bởi kết cấu buồng thang và cửa ra vào có khả năng chịu lửa (ngăn cháy). Tường phía ngoài có thể có lỗ mở.

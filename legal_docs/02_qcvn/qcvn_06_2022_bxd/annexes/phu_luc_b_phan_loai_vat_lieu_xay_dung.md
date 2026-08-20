@@ -19,14 +19,15 @@ PHÂN LOẠI VẬT LIỆU XÂY DỰNG THEO ĐẶC TÍNH KỸ THUẬT VỀ CHÁY 
 ### B.1.1  Các loại vật liệu không cháy và vật liệu cháy
 
 Vật liệu xây dựng được phân thành hai loại: vật liệu cháy và vật liệu không cháy theo các trị số của các thông số thử nghiệm cháy như sau:
+Vật liệu xây dựng được phân thành hai loại: vật liệu cháy và vật liệu không cháy theo các trị số của các thông số thử nghiệm cháy như sau:
 
 Vật liệu không cháy là vật liệu bảo đảm trong suốt khoảng thời gian thử nghiệm:
 
-- Mức gia tăng nhiệt độ của lò đốt không quá 50 °C;
+- - Mức gia tăng nhiệt độ của lò đốt không quá 50 °C;
 
-- Khối lượng mẫu bị giảm không quá 50 %;
+- - Khối lượng mẫu bị giảm không quá 50 %;
 
-- Thời gian kéo dài của ngọn lửa không quá 10 s.
+- - Thời gian kéo dài của ngọn lửa không quá 10 s.
 
 Vật liệu cháy là vật liệu khi thử nghiệm không thỏa mãn một trong 3 yếu tố trên.
 

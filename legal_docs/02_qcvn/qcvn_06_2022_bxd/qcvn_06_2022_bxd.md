@@ -39,6 +39,7 @@ QCVN 06:2022/BXD thay thế QCVN 06:2021/BXD ban hành kèm theo Thông tư số
 ### 1.1.1  Quy chuẩn này quy định
 
 a) Các yêu cầu chung về an toàn cháy cho gian phòng, khoang cháy, nhà và các công trình xây dựng (khoang cháy, nhà và các công trình xây dựng sau đây gọi chung là nhà):
+a) Các yêu cầu chung về an toàn cháy cho gian phòng, khoang cháy, nhà và các công trình xây dựng (khoang cháy, nhà và các công trình xây dựng sau đây gọi chung là nhà):
 
 b) Phân loại kỹ thuật về cháy cho vật liệu xây dựng, cấu kiện xây dựng, các phần và bộ phận của nhà, và nhà.
 
@@ -157,6 +158,7 @@ TCVN 13456, Phòng cháy chữa cháy - Phương tiện chiếu sáng sự cố 
 ### 1.4  Giải thích từ ngữ
 
 Trong quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
+Trong quy chuẩn này, các từ ngữ dưới đây được hiểu như sau:
 
 #### <a id="muc-1-4-1" name="muc-1-4-1"></a>1.4.1  An toàn cháy cho nhà, công trình (hoặc các phần công trình)
 
@@ -196,9 +198,9 @@ Bộ phận được dùng để định luồng, chứa và (hoặc) ngăn cả
 
 Chiều cao PCCC của nhà (không tính tầng kỹ thuật trên cùng) được xác định như sau:
 
-Bằng khoảng cách lớn nhất tính từ mặt đường cho xe chữa cháy tiếp cận đến mép dưới của lỗ cửa (cửa sổ) mở trên tường ngoài của tầng trên cùng;
+- Bằng khoảng cách lớn nhất tính từ mặt đường cho xe chữa cháy tiếp cận đến mép dưới của lỗ cửa (cửa sổ) mở trên tường ngoài của tầng trên cùng;
 
-Bằng một nửa tổng khoảng cách tính từ mặt đường cho xe chữa cháy tiếp cận đến mặt sàn và đến trần của tầng trên cùng - khi không có lỗ cửa (cửa sổ).
+- Bằng một nửa tổng khoảng cách tính từ mặt đường cho xe chữa cháy tiếp cận đến mặt sàn và đến trần của tầng trên cùng - khi không có lỗ cửa (cửa sổ).
 
 _CHÚ THÍCH:_
 - **CHÚ THÍCH 1:** Khi mái nhà được khai thác sử dụng thì chiều cao PCCC của nhà được xác định hàng khoảng cách lớn nhất từ mai đường cho xe chữa cháy tiếp cận đến mép trên tường bao của mái
@@ -364,11 +366,11 @@ Tổ hợp các giải pháp tổ chức và kỹ thuật nhằm bảo đảm an
 
 Khối tích của một không gian trong phạm vi một nhà hoặc khoang cháy. Khối tích này không bao gồm các tường của thang máy được bảo vệ, buồng thang bộ thoát nạn và các không gian khác (ví dụ: khu vệ sinh và các buồng để đồ) được bao che bằng các tường có giới hạn chịu lửa không thấp hơn 60 phút, đồng thời các lối đi qua tường được bảo vệ bằng cửa ngăn cháy loại 2 có lắp cơ cấu tự đóng. Quy mô khối tích được tính đưa vào các kích thước sau:
 
-a) Kích thước mặt bằng lấy theo khoảng cách giữa các bề mặt hoàn thiện phía trong của tường bao, hoặc ở tất cả các mặt không có tường bao thì tính đến một mặt phẳng thẳng đứng kéo đến cạnh ngoài trên cùng của sàn;
+- a) Kích thước mặt bằng lấy theo khoảng cách giữa các bề mặt hoàn thiện phía trong của tường bao, hoặc ở tất cả các mặt không có tường bao thì tính đến một mặt phẳng thẳng đứng kéo đến cạnh ngoài trên cùng của sàn;
 
-b) Chiều cao lấy theo khoảng cách từ bề mặt trên của sàn phía dưới đến mặt bề mặt dưới của sàn phía trên của không gian;
+- b) Chiều cao lấy theo khoảng cách từ bề mặt trên của sàn phía dưới đến mặt bề mặt dưới của sàn phía trên của không gian;
 
-c) Đối với một nhà hoặc khoang cháy kéo lên đến mái thì lấy theo khoảng cách đến bề mặt dưới của mái hoặc bề mặt dưới của trần của tầng cao nhất trong khoang cháy, bao gồm cả không gian bị chiếm chỗ bởi tất cả các tường, hoặc giếng đứng, kênh dẫn không được bảo vệ, hoặc kết cấu nằm trong không gian đang xét.
+- c) Đối với một nhà hoặc khoang cháy kéo lên đến mái thì lấy theo khoảng cách đến bề mặt dưới của mái hoặc bề mặt dưới của trần của tầng cao nhất trong khoang cháy, bao gồm cả không gian bị chiếm chỗ bởi tất cả các tường, hoặc giếng đứng, kênh dẫn không được bảo vệ, hoặc kết cấu nằm trong không gian đang xét.
 
 #### <a id="muc-1-4-48" name="muc-1-4-48"></a>1.4.48  Sảnh ngăn khói
 
@@ -458,11 +460,11 @@ Van ngăn cháy thường đóng, chỉ yêu cầu giới hạn chịu lửa E v
 
 Thiết bị được điều khiển tự động từ xa, dùng để che chắn các kênh thông gió hoặc các lỗ mở trên kết cấu bao che của nhà, có giới hạn chịu lửa đánh giá theo tiêu chí El. Van ngăn cháy gồm các loại sau:
 
-Van ngăn cháy thưởng mở (đóng khi có cháy);
+- Van ngăn cháy thưởng mở (đóng khi có cháy);
 
-Van ngăn cháy thường đóng (mở khi có cháy hoặc sau cháy);
+- Van ngăn cháy thường đóng (mở khi có cháy hoặc sau cháy);
 
-Van ngăn cháy kép (đóng khi có cháy và mở sau cháy);
+- Van ngăn cháy kép (đóng khi có cháy và mở sau cháy);
 
 #### <a id="muc-1-4-69" name="muc-1-4-69"></a>1.4.69  Vùng an toàn
 
@@ -480,8 +482,7 @@ Dùng biện pháp ngâm tẩm hoặc bọc, phủ các lớp bảo vệ lên k�
 
 Các yếu tố của đám cháy mà tác động của chúng có thể dẫn đến chấn thương, ngộ độc, hoặc nguy hiểm tính mạng và (hoặc) thiệt hại tài sản.
 
-_CHÚ THÍCH: Các yếu tố nguy hiểm cháy 1) ngọn lửa và tia lửa_;
-- 2) luồng nhiệt, 3) nhiệt độ môi trường tăng cao, 4) nồng độ chất độc tăng cao của các sản phẩm cháy và phân rã nhiệt, 5) nồng độ ôxy thấp, 6) tầm nhìn giảm trong khói.
+_CHÚ THÍCH: Các yếu tố nguy hiểm cháy: 1) ngọn lửa và tia lửa; 2) luồng nhiệt; 3) nhiệt độ môi trường tăng cao; 4) nồng độ chất độc tăng cao của các sản phẩm cháy và phân rã nhiệt; 5) nồng độ ôxy thấp; 6) tầm nhìn giảm trong khói._
 
 <a id="muc-1-5"></a>
 ### 1.5  Quy định chung
@@ -493,13 +494,13 @@ _CHÚ THÍCH: Các yếu tố nguy hiểm cháy 1) ngọn lửa và tia lửa_;
 
 - Mọi người trong nhà (không phụ thuộc vào tuổi tác và tình trạng sức khỏe) có thể sơ tán ra bên ngoài tới khu vực an toàn (sau đây gọi là bên ngoài) trước khi xuất hiện nguy cơ đe doạ tính mạng và sức khỏe do tác động của các yếu tố nguy hiểm của đám cháy;
 
-Có khả năng cứu người;
+- Có khả năng cứu người;
 
-Lực lượng và phương tiện chữa cháy có thể tiếp cận đám cháy và thực hiện các biện pháp chữa cháy, cứu người và tài sản;
+- Lực lượng và phương tiện chữa cháy có thể tiếp cận đám cháy và thực hiện các biện pháp chữa cháy, cứu người và tài sản;
 
-Không để cháy lan sang các nhà bên cạnh, kể cả trong trường hợp nhà đang cháy bị sập đổ;
+- Không để cháy lan sang các nhà bên cạnh, kể cả trong trường hợp nhà đang cháy bị sập đổ;
 
-Hạn chế các thiệt hại trực tiếp và gián tiếp về vật chất, bao gồm bản thân nhà và các tài sản bên trong nhà, có xét tới tương quan kinh tế giữa giá trị thiệt hại và chi phí cho các giải pháp cùng trang thiết bị kỹ thuật phòng cháy chữa cháy.
+- Hạn chế các thiệt hại trực tiếp và gián tiếp về vật chất, bao gồm bản thân nhà và các tài sản bên trong nhà, có xét tới tương quan kinh tế giữa giá trị thiệt hại và chi phí cho các giải pháp cùng trang thiết bị kỹ thuật phòng cháy chữa cháy.
 
 <a id="muc-1-5-2"></a>
 ### 1.5.2  Trong quá trình xây dựng phải bảo đảm:
@@ -508,22 +509,22 @@ Hạn chế các thiệt hại trực tiếp và gián tiếp về vật chất,
 
 - Thực hiện các yêu cầu phòng cháy chữa cháy cho các công trình đang xây dựng, các công trình phụ trợ và các quy định phòng cháy chữa cháy trong thi công xây lắp theo pháp luật về phòng cháy chữa cháy hiện hành;
 
-Trang bị các phương tiện chữa cháy theo quy định và trong trạng thái sẵn sàng hoạt động;
+- Trang bị các phương tiện chữa cháy theo quy định và trong trạng thái sẵn sàng hoạt động;
 
-Khả năng thoát nạn an toàn và cứu người, cũng như bảo vệ tài sản khi xảy ra cháy trong công trình đang xây dựng và trên công trường.
+- Khả năng thoát nạn an toàn và cứu người, cũng như bảo vệ tài sản khi xảy ra cháy trong công trình đang xây dựng và trên công trường.
 
 <a id="muc-1-5-3"></a>
 ### 1.5.3  Trong quá trình khai thác sử dụng phải:
 
-Bảo đảm các bộ phận của nhà và khả năng làm việc của các hệ thống bảo vệ chống cháy phù hợp với yêu cầu thiết kế và các tài liệu kỹ thuật của chúng;
+- Bảo đảm các bộ phận của nhà và khả năng làm việc của các hệ thống bảo vệ chống cháy phù hợp với yêu cầu thiết kế và các tài liệu kỹ thuật của chúng;
 
-Thực hiện các quy định về phòng cháy chữa cháy theo pháp luật hiện hành;
+- Thực hiện các quy định về phòng cháy chữa cháy theo pháp luật hiện hành;
 
-Không được phép thay đổi kết cấu hay các giải pháp bố trí mặt bằng - không gian và kỹ thuật công trình mà không có thiết kế được phê duyệt theo quy định;
+- Không được phép thay đổi kết cấu hay các giải pháp bố trí mặt bằng - không gian và kỹ thuật công trình mà không có thiết kế được phê duyệt theo quy định;
 
-Khi tiến hành sửa chữa, không cho phép sử dụng các cấu kiện và vật liệu không đáp ứng các yêu cầu của các quy chuẩn, tiêu chuẩn hiện hành
+- Khi tiến hành sửa chữa, không cho phép sử dụng các cấu kiện và vật liệu không đáp ứng các yêu cầu của các quy chuẩn, tiêu chuẩn hiện hành;
 
-Khi nhà được cấp phép ở điều kiện phải hạn chế về tải trọng cháy, về số người trong nhà hoặc trong bất kỳ phần nào của nhà, thì bên trong nhà phải đặt thông báo về những hạn chế này ở những nơi dễ thấy, còn bộ phận quản lý nhà phải thiết lập các biện pháp tổ chức riêng về phòng cháy chữa cháy và sơ tán người khi xảy ra cháy.
+- Khi nhà được cấp phép ở điều kiện phải hạn chế về tải trọng cháy, về số người trong nhà hoặc trong bất kỳ phần nào của nhà, thì bên trong nhà phải đặt thông báo về những hạn chế này ở những nơi dễ thấy, còn bộ phận quản lý nhà phải thiết lập các biện pháp tổ chức riêng về phòng cháy chữa cháy và sơ tán người khi xảy ra cháy.
 
 <a id="muc-1-5-4"></a>
 ### 1.5.4  Khi phân tích tính nguy hiểm cháy của nhà, có thể sử dụng các tình huống tính toán dựa trên tương quan giữa các thông số; sự phát triển và lan truyền các yếu tố nguy hiểm của đám cháy, việc sơ tán người và tổ chức chữa cháy.
@@ -548,15 +549,15 @@ Khi nhà được cấp phép ở điều kiện phải hạn chế về tải t
 
 Tính nguy hiểm cháy của vật liệu xây dựng được xác định theo các đặc tính kỹ thuật về cháy:
 
-- Tính cháy;
+- - Tính cháy;
 
-- Tính bắt cháy;
+- - Tính bắt cháy;
 
-- Tính lan truyền lửa trên bề mặt;
+- - Tính lan truyền lửa trên bề mặt;
 
-- Khả năng sinh khói;
+- - Khả năng sinh khói;
 
-- Độc tính.
+- - Độc tính.
 
 <a id="muc-2-1-3"></a>
 ### 2.1.3  Phân nhóm theo tính cháy
@@ -587,11 +588,11 @@ Tính cháy và các nhóm của vật liệu xây dựng theo tính cháy đư�
 
 Theo tính bắt cháy vật liệu xây dựng cháy được phân thành 3 nhóm:
 
-- BC1 (khó bắt cháy);
+- - BC1 (khó bắt cháy);
 
-BC2 (bắt cháy vừa phải);
+- BC2 (bắt cháy vừa phải);
 
-BC3 (dễ bắt cháy).
+- BC3 (dễ bắt cháy).
 
 Nhóm vật liệu xây dựng theo tính bắt cháy được xác định theo B.1.3. Phụ lục B
 
@@ -617,11 +618,11 @@ Nhóm vật liệu xây dựng theo tính lan truyền lửa trên bề mặt đ
 
 Theo khả năng sinh khói, vật liệu xây dựng cháy được phân thành 3 nhóm:
 
-- SK1 (khả năng sinh khói thấp);
+- - SK1 (khả năng sinh khói thấp);
 
-- SK2 (khả năng sinh khói vừa phải);
+- - SK2 (khả năng sinh khói vừa phải);
 
-- SK3 (khả năng sinh khói cao).
+- - SK3 (khả năng sinh khói cao).
 
 Nhóm vật liệu xây dựng theo khả năng sinh khói được xác định theo B.1.5, Phụ lục B.
 
@@ -630,13 +631,13 @@ Nhóm vật liệu xây dựng theo khả năng sinh khói được xác định
 
 Theo độc tính của các sản phẩm cháy, vật liệu xây dựng cháy được phân thành 4 nhóm:
 
-- ĐT1 (độc tính thấp);
+- - ĐT1 (độc tính thấp);
 
-- ĐT2 (độc tính vừa phải);
+- - ĐT2 (độc tính vừa phải);
 
-- ĐT3 (độc tính cao);
+- - ĐT3 (độc tính cao);
 
-- ĐT4 (độc tính đặc biệt cao).
+- - ĐT4 (độc tính đặc biệt cao).
 
 Nhóm vật liệu xây dựng theo độc tính của các sản phẩm cháy được xác định theo B.1.6, Phụ lục B
 
@@ -701,12 +702,12 @@ _CHÚ THÍCH: Cấp nguy hiểm cháy của vật liệu xây dựng là chỉ t
 
 - Mất khả năng cách nhiệt (ký hiệu bằng chữ I) do nhiệt độ ở bề mặt không đốt nóng tăng đến giá trị giới hạn;
 
-Mất khả năng hạn chế bức xạ nhiệt (ký hiệu bằng chữ W) do thông lượng nhiệt ở khoảng cách quy định từ bề mặt không bị đốt nóng của cấu kiện/kết cấu đạt tới giá trị giới hạn.
+- Mất khả năng hạn chế bức xạ nhiệt (ký hiệu bằng chữ W) do thông lượng nhiệt ở khoảng cách quy định từ bề mặt không bị đốt nóng của cấu kiện/kết cấu đạt tới giá trị giới hạn.
 
 _CHÚ THÍCH:_
 - **CHÚ THÍCH 1:** Giới hạn chịu lửa của cấu kiện xây dựng được xác định bằng thử nghiệm chịu lửa theo TCVN 9311-1 đến TCVN 9311-8 hoặc các tiêu chuẩn tương đương hoặc bằng tính toán theo tiêu chuẩn thiết kế chịu lửa được áp dụng.
 
-Giới hạn chịu lửa của các ống dẫn khói, không khí được xác định theo tiêu chuẩn ISO 6944 hoặc các tiêu chuẩn tương đương.
+- Giới hạn chịu lửa của các ống dẫn khói, không khí được xác định theo tiêu chuẩn ISO 6944 hoặc các tiêu chuẩn tương đương.
 
 _CHÚ THÍCH:_
 - **CHÚ THÍCH 2:** Giới hạn chịu lửa yêu cầu của các cấu kiện xây dựng cụ thể được quy định trong quy chuẩn này và trong các quy chuẩn kỹ thuật cho từng loại công trình. Giới hạn chịu lửa yêu cầu của cấu kiện xây dựng được ký hiệu bằng REI, REW, EI, EW, EIW, RE hoặc R kèm theo các chỉ số tương ứng về thời gian chịu tác động của lửa tính bằng phút. Ví dụ: cấu kiện có giới hạn chịu lửa yêu cầu là REI 120 nghĩa là cấu kiện phải duy trì được đồng thời cả ba khả năng: chịu lực, toàn vẹn và cách nhiệt trong khoảng thời gian chịu tác động của lửa là 120 phút. Cấu kiện có giới hạn chịu lửa yêu cầu là R 60, thì cấu kiện chỉ phải duy trì khả năng chịu lực trong thời gian 60 phút, không yêu cầu về khả năng cách nhiệt và tính toàn vẹn.
@@ -793,7 +794,7 @@ Tính chịu lửa của một bộ phận ngăn cháy được xác định b�
 
 - Các nút liên kết giữa chúng.
 
-Giới hạn chịu lửa theo trạng thái mất khả năng chịu lực (R) của cấu kiện giữ ổn định cho phần ngăn cách, của cấu kiện đỡ phân ngăn cách và của các nút liên kết giữa chúng không được thấp hơn giới hạn chịu lửa yêu cầu đối với phần ngăn cách.
+- Giới hạn chịu lửa theo trạng thái mất khả năng chịu lực (R) của cấu kiện giữ ổn định cho phần ngăn cách, của cấu kiện đỡ phân ngăn cách và của các nút liên kết giữa chúng không được thấp hơn giới hạn chịu lửa yêu cầu đối với phần ngăn cách.
 
 Tính nguy hiểm cháy của bộ phận ngăn cháy được xác định bằng tính nguy hiểm cháy của phần ngăn cách cùng với các chi tiết liên kết và của các cấu kiện giữ ổn định cho phần ngăn cách.
 
@@ -931,11 +932,11 @@ Việc phân loại kỹ thuật vẽ cháy cho nhà, công trình và khoang ch
 
 Việc phân loại kỹ thuật về cháy cho nhà, công trình, khoang cháy được hiện có kể đến các tiêu chí sau:
 
-- Bậc chịu lửa;
+- - Bậc chịu lửa;
 
-- Cấp nguy hiểm cháy kết cấu;
+- - Cấp nguy hiểm cháy kết cấu;
 
-- Nhóm nguy hiểm cháy theo công năng.
+- - Nhóm nguy hiểm cháy theo công năng.
 
 <a id="muc-2-5-3"></a>
 ### 2.5.3  Phân bậc chịu lửa của nhà, công trình, khoang cháy
@@ -989,7 +990,7 @@ _CHÚ THÍCH:_
 - **CHÚ THÍCH 5:** Cho phép một phần tường ngoài không chịu lực không cần bảo vệ chống cháy với diện tích xác định Theo E.3, Phụ lục E.
 - **CHÚ THÍCH 6:** Không quy định giới hạn chịu lửa của tường ngoài không chịu lực đối với các mặt nhà đồng thời thoả mãn các điều kiện sau: - Toàn nhà được trang bị chữa cháy tự động sprinkler Theo TCVN 7336; - Bảo đảm khoảng cách phòng cháy chống cháy tối thiểu tương ứng với 100 % diện tích tường ngoài không cần bảo vệ chống cháy tại E.3, Phụ lục E; - Tường ngoài không chịu lực của nhà có cấp nguy hiểm cháy K0. Vật liệu hoàn thiện tường ngoài (nếu có) là vật liệu không cháy hoặc có tính cháy không thấp hơn Ch1 và tính lan truyền cháy không thấp hơn LT1.
 
-Tường chịu lực, cột chịu lực, hệ giằng, vách cứng, giàn, các bộ phận của sàn giữa các tầng và của mái không có tầng áp mái (dầm, vì kèo, xà, tấm sàn, tấm lợp) được coi là các bộ phận chịu lực của nhà nếu chúng bảo đảm độ bền tổng thể và sự ổn định không gian cho nhà khi có cháy.
+- Tường chịu lực, cột chịu lực, hệ giằng, vách cứng, giàn, các bộ phận của sàn giữa các tầng và của mái không có tầng áp mái (dầm, vì kèo, xà, tấm sàn, tấm lợp) được coi là các bộ phận chịu lực của nhà nếu chúng bảo đảm độ bền tổng thể và sự ổn định không gian cho nhà khi có cháy.
 
 Thông tin về các bộ phận chịu lực nêu trên của nhà phải được đơn vị thiết kế chỉ rõ trong tài liệu kỹ thuật của nhà.
 
@@ -1106,7 +1107,7 @@ Việc phân hạng nhà, công trình và gian phòng có công năng sản xu�
 
 - Nguy hiểm cháy thấp (E).
 
-Các hạng gian phòng có công năng sản xuất và kho được quy định tại Phụ lục C.
+- Các hạng gian phòng có công năng sản xuất và kho được quy định tại Phụ lục C.
 
 <a id="muc-2-5-6-2-2"></a>
 ### 2.5.6.2.2  Nhà, công trình và gian phòng có công năng khác không phân hạng theo tính nguy hiểm cháy và cháy nổ.
@@ -1198,29 +1199,29 @@ _CHÚ THÍCH: Đối với các thiết bị điện có nguồn dự phòng ri�
 
 a) Dẫn từ các gian phòng ở tầng 1 ra ngoài theo một trong những cách sau:
 
-- Ra ngoài trực tiếp;
+- - Ra ngoài trực tiếp;
 
-- Qua hành lang;
+- - Qua hành lang;
 
-- Qua tiền sảnh (hay phòng chờ);
+- - Qua tiền sảnh (hay phòng chờ);
 
-- Qua buồng thang bộ;
+- - Qua buồng thang bộ;
 
-- Qua hành lang và tiền sảnh (hay phòng chờ);
+- - Qua hành lang và tiền sảnh (hay phòng chờ);
 
-- Qua hành lang và buồng thang bộ.
+- - Qua hành lang và buồng thang bộ.
 
 b) Dẫn từ các gian phòng của tầng bất kỳ, trừ tầng 1, vào một trong các nơi sau:
 
-- Trực tiếp vào buồng thang bộ hay tới cầu thang bộ loại 3;
+- - Trực tiếp vào buồng thang bộ hay tới cầu thang bộ loại 3;
 
-- Vào hành lang dẫn trực tiếp vào buồng thang bộ hay tới cầu thang bộ loại 3;
+- - Vào hành lang dẫn trực tiếp vào buồng thang bộ hay tới cầu thang bộ loại 3;
 
-- Vào phòng sử dụng chung (hay phòng chờ) có lối ra trực tiếp dẫn vào buồng thang bộ hoặc tới cầu thang bộ loại 3;
+- - Vào phòng sử dụng chung (hay phòng chờ) có lối ra trực tiếp dẫn vào buồng thang bộ hoặc tới cầu thang bộ loại 3;
 
-- Vào hành lang bên của nhà có chiều cao PCCC dưới 28 m dẫn trực tiếp vào cầu thang bộ loại 2;
+- - Vào hành lang bên của nhà có chiều cao PCCC dưới 28 m dẫn trực tiếp vào cầu thang bộ loại 2;
 
-- Ra mái có khai thác sử dụng, hoặc ra một khu vực riêng của mái dẫn tới cầu thang bộ loại 3.
+- - Ra mái có khai thác sử dụng, hoặc ra một khu vực riêng của mái dẫn tới cầu thang bộ loại 3.
 
 c) Dẫn vào gian phòng liền kề (trừ gian phòng nhóm F5 hạng A hoặc B) trên cùng tầng mà từ gian phòng này có các lối ra như được nếu tại 3.2.1 a, b). Lối ra dẫn vào gian phòng hạng A hoặc B được phép coi là lối ra thoát nạn nếu nó dẫn từ gian phòng kỹ thuật không có người làm việc thường xuyên mà chi dùng để phục vụ các gian phòng hạng A hoặc B nêu trên.
 
@@ -1233,19 +1234,19 @@ _CHÚ THÍCH: Trong trường hợp sử dụng cầu thang bộ loại 3 để 
 
 Các lối ra sau đây cũng được coi là lối ra thoát nạn:
 
-a) Các lối ra từ các tầng hầm đi qua các buồng thang bộ chung có lối đi riêng ra bên ngoài được ngăn cách với phần còn lại của buồng thang bộ bằng vách đặc ngăn cháy loại 1 (xem hình I.2, Phụ lục I);
+- a) Các lối ra từ các tầng hầm đi qua các buồng thang bộ chung có lối đi riêng ra bên ngoài được ngăn cách với phần còn lại của buồng thang bộ bằng vách đặc ngăn cháy loại 1 (xem hình I.2, Phụ lục I);
 
-b) Các lối ra tử các tầng hầm và tầng nửa hầm có bố trí các gian phòng hạng C1 đến C4, D, E, đi vào các gian phòng hạng C1 đến C4, D, E và vào tiền sảnh nằm trên tầng một của nhà nhóm F5;
+- b) Các lối ra tử các tầng hầm và tầng nửa hầm có bố trí các gian phòng hạng C1 đến C4, D, E, đi vào các gian phòng hạng C1 đến C4, D, E và vào tiền sảnh nằm trên tầng một của nhà nhóm F5;
 
 c) Các lối ra từ phòng chờ, phòng gửi đồ, phòng hút thuốc và phòng vệ sinh ở các tầng hầm hoặc tầng nửa hầm của nhà nhóm F2, F3 và F4 đi vào tiền sảnh của tầng 1 theo các cầu thang bộ riêng loại 2. Trong trường hợp này thì phải bảo đảm các yêu cầu sau:
 
-- Tiền sảnh phải được ngăn cách với các hành lang và gian phòng lân cận bằng các vách ngăn cháy không nhỏ hơn loại 1;
+- - Tiền sảnh phải được ngăn cách với các hành lang và gian phòng lân cận bằng các vách ngăn cháy không nhỏ hơn loại 1;
 
-- Các gian phòng tầng 1 và các tầng trên phải có đường thoát nạn không đi qua tiền sảnh này (trừ các gian phòng nằm trong tiền sảnh);
+- - Các gian phòng tầng 1 và các tầng trên phải có đường thoát nạn không đi qua tiền sảnh này (trừ các gian phòng nằm trong tiền sảnh);
 
-- Vật liệu hoàn thiện các phòng chờ, phòng gửi đồ, phòng hút thuốc và phòng vệ sinh ở các tầng hầm hoặc tầng nửa hầm phải thoả mãn yêu cầu đối với các gian phòng chung theo Phụ lục B;
+- - Vật liệu hoàn thiện các phòng chờ, phòng gửi đồ, phòng hút thuốc và phòng vệ sinh ở các tầng hầm hoặc tầng nửa hầm phải thoả mãn yêu cầu đối với các gian phòng chung theo Phụ lục B;
 
-Phòng gửi đồ phải có số lối ra thoát nạn thỏa mãn yêu cầu của quy chuẩn này, không tính lối ra thoát nạn theo cầu thang bộ loại 2 nêu trên.
+- Phòng gửi đồ phải có số lối ra thoát nạn thỏa mãn yêu cầu của quy chuẩn này, không tính lối ra thoát nạn theo cầu thang bộ loại 2 nêu trên.
 
 d) Các cửa mở quay có bản lề trên cửa ra vào dành cho phương tiện vận tải đường sắt hoặc đường bộ.
 
@@ -1264,7 +1265,7 @@ _CHÚ THÍCH:_
 
 - **CHÚ THÍCH 2:** Ngoài các yêu cầu chung được nêu trong quy chuẩn này, yêu cầu cụ thể về số lượng và chiều rộng của các lối ra thoát nạn được nếu trong tài liệu chuẩn cho từng loại công trình. Phụ lục G nêu một số quy định cụ thể cho các nhóm nhà thường gặp.
 
-Các phần nhà có công năng khác nhau và được ngăn chia bởi các bộ phận ngăn cháy thì phải có các lối ra thoát nạn độc lập, trừ các trường hợp được quy định cụ thể trong quy chuẩn này.
+- Các phần nhà có công năng khác nhau và được ngăn chia bởi các bộ phận ngăn cháy thì phải có các lối ra thoát nạn độc lập, trừ các trường hợp được quy định cụ thể trong quy chuẩn này.
 
 Các phần nhà có công năng khác nhau và được ngăn chia bởi các bộ phận ngăn cháy thành các khoang cháy trong nhà có nhiều công năng phải có các lối ra thoát nạn riêng từ mỗi tầng. Cho phép không quá 50% lối ra thoát nạn dẫn vào khoang cháy lân cận (trừ lối ra thoát nạn dẫn vào khoang cháy nhóm F5). Riêng phần nhà nhóm F5 phải có lối ra thoát nạn riêng.
 
@@ -1308,13 +1309,13 @@ e) Các tầng hầm và nửa hầm có diện tích lớn hơn 300 m2 hoặc d
 
 a) Từ mỗi tầng (hoặc từ một phần của tầng được ngăn cách khỏi các phần khác của tầng bằng các bộ phận ngăn cháy) có nhóm nguy hiểm cháy theo công năng F1.2, F1.4, F2 (trừ hộp đêm, vũ trường, quán bar, phòng hát, nhà kinh doanh karaoke; và các nhà kinh doanh dịch vụ tương tự), F3, F4.2, F4.3 và F4.4, khi thỏa mãn đồng thời các điều kiện sau:
 
-- Đối với nhà có chiều cao PCCC không quá 15 m thì diện tích mỗi tầng đang xét không được lớn hơn 300 m2. Đối với nhà có chiều cao PCCC từ trên 15 m đến 21 m thì diện tích mỗi tầng đang xét không được lớn hơn 200 m2;
+- - Đối với nhà có chiều cao PCCC không quá 15 m thì diện tích mỗi tầng đang xét không được lớn hơn 300 m2. Đối với nhà có chiều cao PCCC từ trên 15 m đến 21 m thì diện tích mỗi tầng đang xét không được lớn hơn 200 m2;
 
-- Toàn bộ nhà được bảo vệ bằng hệ thống chữa cháy tự động sprinkler;
+- - Toàn bộ nhà được bảo vệ bằng hệ thống chữa cháy tự động sprinkler;
 
-- Số người lớn nhất trên mỗi tầng không vượt quá 20 người;
+- - Số người lớn nhất trên mỗi tầng không vượt quá 20 người;
 
-- Đối với nhà trên 3 tầng hoặc có chiều cao PCCC lớn hơn 9 m: có trang bị cửa đi ngăn cháy loại 2 trên lối ra thoát nạn từ mỗi tầng đi vào buồng thang bộ thoát nạn.
+- - Đối với nhà trên 3 tầng hoặc có chiều cao PCCC lớn hơn 9 m: có trang bị cửa đi ngăn cháy loại 2 trên lối ra thoát nạn từ mỗi tầng đi vào buồng thang bộ thoát nạn.
 
 - Đối với nhà từ 3 tầng trở xuống hoặc có chiều cao PCCC từ 9 m trở xuống: được sử dụng cầu thang bộ loại 2 thay thế cho buồng thang bộ nêu trên khi đảm bảo điều kiện người trong nhà có thể thoát ra ban công thoáng hoặc sân thượng thoáng khi có cháy (trừ các biệt thự, villa, cơ sở nghỉ dưỡng theo quy định riêng dưới đây).
 
@@ -1322,19 +1323,19 @@ _CHÚ THÍCH: Ban công thoáng hoặc sân thượng thoáng nghĩa là hở ra
 
 Đối với các biệt thự, villa, cơ sở nghỉ dưỡng không cao quá 3 tầng thuộc nhóm F1.2, cho phép thay thế các loại buồng thang bộ nêu trên bằng cầu thang bộ loại 2, khi bảo đảm được đồng thời các điều kiện sau:
 
-- Diện tích mỗi tầng không quá 200 m2, chiều cao PCCC không quá 9 m và tổng số người sử dụng không quá 15 người;
+- - Diện tích mỗi tầng không quá 200 m2, chiều cao PCCC không quá 9 m và tổng số người sử dụng không quá 15 người;
 
-Nhà có tối thiểu một lối ra thoát nạn trực tiếp ra ngoài hoặc ra cầu thang bộ loại 3;
+- Nhà có tối thiểu một lối ra thoát nạn trực tiếp ra ngoài hoặc ra cầu thang bộ loại 3;
 
-Để thoát ra ngoài theo cầu thang bộ loại 2 chỉ cần lên hoặc xuống tối đa 1 tầng. Trường hợp phải xuống 2 tầng mới thoát được ra ngoài thì mỗi phòng có thể sử dụng để ngủ phải có không ít hơn một cửa sổ đặt ở cao độ không quá 1 m so với sàn và có lối thoát trực tiếp vào hành lang hoặc phòng chung có cửa ra ban công. Cao độ đặt các cửa sổ và ban công nêu trên không được quá 7 m so với mặt đất. Trường hợp các cửa sổ và ban công này đặt ở cao độ quá 7 m cho đến tối đa 9 m thì mỗi cửa sổ và ban công phải được trang bị thêm thiết bị thoát nạn khẩn cấp để bảo đảm việc thoát nạn cho người an toàn từ trên cao (ví dụ thang kim loại, thang dây);
+- Để thoát ra ngoài theo cầu thang bộ loại 2 chỉ cần lên hoặc xuống tối đa 1 tầng. Trường hợp phải xuống 2 tầng mới thoát được ra ngoài thì mỗi phòng có thể sử dụng để ngủ phải có không ít hơn một cửa sổ đặt ở cao độ không quá 1 m so với sàn và có lối thoát trực tiếp vào hành lang hoặc phòng chung có cửa ra ban công. Cao độ đặt các cửa sổ và ban công nêu trên không được quá 7 m so với mặt đất. Trường hợp các cửa sổ và ban công này đặt ở cao độ quá 7 m cho đến tối đa 9 m thì mỗi cửa sổ và ban công phải được trang bị thêm thiết bị thoát nạn khẩn cấp để bảo đảm việc thoát nạn cho người an toàn từ trên cao (ví dụ thang kim loại, thang dây);
 
-b) Từ các tầng kỹ thuật hoặc khu vực để các thiết bị kỹ thuật có diện tích không quá 300 m2. Trường hợp tầng có khu vực kỹ thuật như trên, thì cứ mỗi 2 000 m2 diện tích còn lại phải bố trí thêm không ít hơn một lối ra thoát nạn (trường hợp diện tích còn lại nhỏ hơn 2 000 m2 cũng phải bố trí thêm không ít hơn một lối ra thoát nạn). Nếu tầng kỹ thuật hoặc khu vực kỹ thuật nằm dưới hầm thì lối ra thoát nạn phải riêng biệt với các lối ra khác của nhà và thoát thẳng ra ngoài. Nếu tầng kỹ thuật hoặc khu vực kỹ thuật nằm ở các tầng trên mặt đất thì cho phép bố trí các lối ra đi qua các buồng thang bộ chung, còn đối với nhà có các buồng thang bộ N1 - đi qua khoảng đệm của buồng thang bộ NT;
+- b) Từ các tầng kỹ thuật hoặc khu vực để các thiết bị kỹ thuật có diện tích không quá 300 m2. Trường hợp tầng có khu vực kỹ thuật như trên, thì cứ mỗi 2 000 m2 diện tích còn lại phải bố trí thêm không ít hơn một lối ra thoát nạn (trường hợp diện tích còn lại nhỏ hơn 2 000 m2 cũng phải bố trí thêm không ít hơn một lối ra thoát nạn). Nếu tầng kỹ thuật hoặc khu vực kỹ thuật nằm dưới hầm thì lối ra thoát nạn phải riêng biệt với các lối ra khác của nhà và thoát thẳng ra ngoài. Nếu tầng kỹ thuật hoặc khu vực kỹ thuật nằm ở các tầng trên mặt đất thì cho phép bố trí các lối ra đi qua các buồng thang bộ chung, còn đối với nhà có các buồng thang bộ N1 - đi qua khoảng đệm của buồng thang bộ NT;
 
 c) Từ các tầng của nhà nhóm F1.3 với tổng diện tích các căn hộ trên tầng đó (đối với nhà có các đơn nguyên thì tính diện tích tầng trong đơn nguyên) từ trên 500 m2 đến 550 m2 và:
 
-Khi cao độ của tầng trên cùng không quá 28 m - lối ra thoát nạn từ tầng đang xét vào buồng thang bộ thông thường, với điều kiện mỗi căn hộ được trang bị đầu báo cháy địa chỉ;
+- Khi cao độ của tầng trên cùng không quá 28 m - lối ra thoát nạn từ tầng đang xét vào buồng thang bộ thông thường, với điều kiện mỗi căn hộ được trang bị đầu báo cháy địa chỉ;
 
-Khi cao độ của tầng trên cùng lớn hơn 28 m - lối ra thoát nạn từ tầng đang xét vào một buồng thang bộ không nhiễm khói N1 với điều kiện tất cả các phòng trong căn hộ (trừ khu vệ sinh, phòng tắm và khu phụ) được trang bị đầu báo cháy địa chỉ hoặc thiết bị chữa cháy tự động.
+- Khi cao độ của tầng trên cùng lớn hơn 28 m - lối ra thoát nạn từ tầng đang xét vào một buồng thang bộ không nhiễm khói N1 với điều kiện tất cả các phòng trong căn hộ (trừ khu vệ sinh, phòng tắm và khu phụ) được trang bị đầu báo cháy địa chỉ hoặc thiết bị chữa cháy tự động.
 
 Đối với nhà nhóm F1.3 có chiều cao PCCC từ trên 28 m đến 50 m và tổng diện tích các căn hộ trên mỗi tầng đến 500 m2, cho phép thay buồng thang bộ loại N1 bằng buồng thang bộ loại N2, khi đáp ứng đồng thời các điều kiện sau: 1) Lối vào buồng thang bộ từ tất cả các tầng, bao gồm cả lối thông giữa buồng thang bộ và tiền sảnh, phải có khoang đệm ngăn cháy với áp suất dương khi có cháy; 2) có một trong các thang máy của nhà được dành cho việc vận chuyển lực lượng chữa cháy; 3) Tất cả các phòng trong căn hộ (trừ khu vệ sinh, phòng tắm và khu phụ) được trang bị báo cháy địa chỉ hoặc hệ thống chữa cháy tự động; 4) Nhà được trang bị hệ thống âm thanh cảnh báo cháy (cho phép bố trí tại các hành lang chung giữa các căn hộ).
 
@@ -1342,9 +1343,9 @@ _CHÚ THÍCH: Diện tích căn hộ bao gồm cả diện tích ban công và (
 
 d) Từ các tầng (hoặc một phần của tầng được ngăn cách khỏi các phần khác của tầng bằng các bộ phận ngăn cháy) thuộc nhóm nguy hiểm cháy theo công năng F4.1, khi thỏa mãn đồng thời các điều kiện sau:
 
-- Nhà có chiều cao PCCC không quá 9 m, diện tích tầng đang xét không quá 300 m2;
+- - Nhà có chiều cao PCCC không quá 9 m, diện tích tầng đang xét không quá 300 m2;
 
-- Tầng đang xét có hành lang bên dẫn vào cầu thang hở loại 2 hoặc buồng thang bộ, các gian phòng nhóm F4.1 có cửa ra hành lang bên này.
+- - Tầng đang xét có hành lang bên dẫn vào cầu thang hở loại 2 hoặc buồng thang bộ, các gian phòng nhóm F4.1 có cửa ra hành lang bên này.
 
 <a id="muc-3-2-7"></a>
 ### 3.2.7  Số lối ra thoát nạn từ một tầng không được ít hơn hai nếu tầng này có ít nhất một gian phòng có yêu cầu số lối ra thoát nạn không ít hơn hai.
@@ -1367,7 +1368,7 @@ Khi có hai buồng thang thoát nạn nối với nhau bằng một hành lang 
 
 - 0,8 m - trong tất cả các trường hợp còn lại.
 
-Chiều rộng của các cửa đi ra bên ngoài của buồng thang bộ cũng như của các cửa đi từ buồng thang bộ vào sảnh không được nhỏ hơn giá trị tính toán hoặc chiều rộng của bản thang được quy định tại 3.4.1.
+- Chiều rộng của các cửa đi ra bên ngoài của buồng thang bộ cũng như của các cửa đi từ buồng thang bộ vào sảnh không được nhỏ hơn giá trị tính toán hoặc chiều rộng của bản thang được quy định tại 3.4.1.
 
 Trong mọi trường hợp, khi xác định chiều rộng của một lối ra thoát nạn phải tính đến dạng hình học của đường thoát nạn qua lỗ cửa hoặc cửa để bảo đảm không cản trở việc vận chuyển các cáng tải thương có người nằm trên.
 
@@ -1380,15 +1381,15 @@ Trong các nhà có chiều cao PCCC lớn hơn 28 m (trừ nhà nhóm F1.3 và 
 
 Không quy định chiều mở của các cửa đối với:
 
-- Các gian phòng nhóm F1.3 và F1.4;
+- - Các gian phòng nhóm F1.3 và F1.4;
 
-- Các gian phòng có mặt đồng thời không quá 15 người, ngoại trừ các gian phòng hạng A hoặc B;
+- - Các gian phòng có mặt đồng thời không quá 15 người, ngoại trừ các gian phòng hạng A hoặc B;
 
-- Các phòng kho có diện tích không lớn hơn 200 m2 và không có người làm việc thường xuyên;
+- - Các phòng kho có diện tích không lớn hơn 200 m2 và không có người làm việc thường xuyên;
 
-- Các buồng vệ sinh;
+- - Các buồng vệ sinh;
 
-- Các lối ra dẫn vào các chiếu thang của các cầu thang bộ loại 3.
+- - Các lối ra dẫn vào các chiếu thang của các cầu thang bộ loại 3.
 
 <a id="muc-3-2-1-1"></a>
 ### 3.2.1.1  Các cửa của các lối ra thoát nạn từ các hành lang tầng, không gian chung, phòng chờ, sảnh và buồng thang bộ phải mở được cửa tự do từ bên trong mà không cần chìa. Trong các nhà có chiều cao PCCC lớn hơn 15 m, các cánh cửa nói trên, ngoại trừ các cửa của căn hộ, phải là cửa đặc hoặc cửa với kính cường lực.
@@ -1399,21 +1400,21 @@ Các cửa của lối ra thoát nạn từ các khu vực (gian phòng hay các
 
 Ngoài những quy định được nói riêng, các cửa của lối ra thoát nạn từ các hành lang tầng đi vào buồng thang bộ phục vụ từ 4 tầng nhà trở lên (ngoại trừ trong các nhà phục vụ mục đích giam giữ, cải tạo) phải bảo đảm:
 
-a) Tất cả các khóa điện lắp trên cửa phải tự động mở khi hệ thống báo cháy tự động của tòa nhà bị kích hoạt. Ngay khi mất điện thì các khóa điện đó cũng phải tự động mở;
+- a) Tất cả các khóa điện lắp trên cửa phải tự động mở khi hệ thống báo cháy tự động của tòa nhà bị kích hoạt. Ngay khi mất điện thì các khóa điện đó cũng phải tự động mở;
 
-b) Người sử dụng buồng thang luôn có thể quay trở lại phía trong nhà qua chính cửa vừa đi qua hoặc qua các điểm bố trí cửa quay trở lại phía trong nhà;
+- b) Người sử dụng buồng thang luôn có thể quay trở lại phía trong nhà qua chính cửa vừa đi qua hoặc qua các điểm bố trí cửa quay trở lại phía trong nhà;
 
 c) Bố trí trước các điểm quay trở lại phía trong nhà theo nguyên tắc các cánh cửa chỉ được phép ngăn cản việc quay trở lại phía trong nhà nếu đáp ứng tất cả các yêu cầu sau:
 
-- Có không ít hơn hai tầng, nơi có thể đi ra khỏi buồng thang bộ để đến một lối ra thoát nạn khác;
+- - Có không ít hơn hai tầng, nơi có thể đi ra khỏi buồng thang bộ để đến một lối ra thoát nạn khác;
 
-- Có không quá 4 tầng nằm giữa các tầng nhà có thể đi ra khỏi buồng thang bộ để đến một lối ra thoát nạn khác;
+- - Có không quá 4 tầng nằm giữa các tầng nhà có thể đi ra khỏi buồng thang bộ để đến một lối ra thoát nạn khác;
 
-- Việc quay trở lại phía trong nhà phải có thể thực hiện được tại tầng trên cùng hoặc tầng dưới liền kề với tầng trên cùng được phục vụ bởi buồng thang bộ thoát nạn nếu tầng này cho phép đi đến một lối ra thoát nạn khác;
+- - Việc quay trở lại phía trong nhà phải có thể thực hiện được tại tầng trên cùng hoặc tầng dưới liền kề với tầng trên cùng được phục vụ bởi buồng thang bộ thoát nạn nếu tầng này cho phép đi đến một lối ra thoát nạn khác;
 
-- Các cửa cho phép quay trở lại phía trong nhà phải được đánh dấu trên mặt cửa phía trong buồng thang bằng dòng chữ “CỬA CÓ THỂ ĐI VÀO TRONG NHÀ" với chiều cao các chữ ít nhất là 50 mm, chiều cao bố trí không thấp hơn 1,2 m và không cao hơn 1,8 m;
+- - Các cửa cho phép quay trở lại phía trong nhà phải được đánh dấu trên mặt cửa phía trong buồng thang bằng dòng chữ “CỬA CÓ THỂ ĐI VÀO TRONG NHÀ" với chiều cao các chữ ít nhất là 50 mm, chiều cao bố trí không thấp hơn 1,2 m và không cao hơn 1,8 m;
 
-- Các cửa không cho phép quay trở lại phía trong nhà phải có thông báo trên mặt cửa phía trong buồng thang để nhận biết được vị trí của cửa quay trở lại phía trong nhà hoặc lối ra thoát nạn gần nhất theo từng hướng di chuyển.
+- - Các cửa không cho phép quay trở lại phía trong nhà phải có thông báo trên mặt cửa phía trong buồng thang để nhận biết được vị trí của cửa quay trở lại phía trong nhà hoặc lối ra thoát nạn gần nhất theo từng hướng di chuyển.
 
 _CHÚ THÍCH: Đối với các cửa không cho phép quay trở lại phía trong nhà, ở mặt cửa phía hành lang trong nhà (ngoài buồng thang) nên có biển cảnh báo người sử dụng không thể quay trở lại phía trong nhà được khi họ đi qua cửa đó._
 
@@ -1457,7 +1458,7 @@ Trong các tầng kỹ thuật hầm các lối ra này phải được ngăn c�
 
 - Cấp nguy hiểm cháy kết cấu và bậc chịu lửa của nhà.
 
-Chiều dài của đường thoát nạn theo cầu thang bộ loại 2 lấy bằng ba lần chiều cao của thang đó.
+- Chiều dài của đường thoát nạn theo cầu thang bộ loại 2 lấy bằng ba lần chiều cao của thang đó.
 
 _CHÚ THÍCH: Các yêu cầu cụ thể về khoảng cách giới hạn cho phép từ vị trí xa nhất đến lối ra thoát nạn gần nhất được nếu trong các quy chuẩn cho từng loại công trình. Một số quy định cụ thể cho các nhóm nhà thường gặp nếu tại Phụ lục G._
 
@@ -1484,9 +1485,9 @@ Các hành lang dài hơn 60 m phải được phân chia bằng các vách ngă
 
 Khi các cánh cửa đi của gian phòng mở nhô ra hành lang, thì chiều rộng của đường thoát nạn theo hành lang được lấy bằng chiều rộng thông thủy của hành lang trừ đi:
 
-- Một nửa chiều rộng phần nhỏ ra của cánh cửa (tính cho cửa nhỏ ra nhiều nhất) - khi cửa được bố trí một bên hành lang;
+- - Một nửa chiều rộng phần nhỏ ra của cánh cửa (tính cho cửa nhỏ ra nhiều nhất) - khi cửa được bố trí một bên hành lang;
 
-Cả chiều rộng phần nhô ra của cánh cửa (tính cho cửa nhô ra nhiều nhất) - khi các cửa được bố trí hai bên hành lang. Yêu cầu này không áp dụng cho hành lang tầng (sảnh chung) nằm giữa cửa ra từ căn hộ và cửa ra dẫn vào buồng thang bộ trong các đơn nguyên nhà nhóm F1.3.
+- Cả chiều rộng phần nhô ra của cánh cửa (tính cho cửa nhô ra nhiều nhất) - khi các cửa được bố trí hai bên hành lang. Yêu cầu này không áp dụng cho hành lang tầng (sảnh chung) nằm giữa cửa ra từ căn hộ và cửa ra dẫn vào buồng thang bộ trong các đơn nguyên nhà nhóm F1.3.
 
 <a id="muc-3-3-6"></a>
 ### 3.3.6  Chiều cao thông thủy các đoạn nằm ngang của đường thoát nạn không được nhỏ hơn 2 m, chiều rộng thông thủy các đoạn nằm ngang của đường thoát nạn và các đoạn dốc không được nhỏ hơn:
@@ -1497,7 +1498,7 @@ Cả chiều rộng phần nhô ra của cánh cửa (tính cho cửa nhô ra nh
 
 - 1,0 m - trong tất cả các trường hợp còn lại.
 
-Trong bất kỳ trường hợp nào, các đường thoát nạn phải đủ rộng, có tính đến dạng hình học của chúng, để không cản trở việc vận chuyển các cáng tải thương có người nằm trên.
+- Trong bất kỳ trường hợp nào, các đường thoát nạn phải đủ rộng, có tính đến dạng hình học của chúng, để không cản trở việc vận chuyển các cáng tải thương có người nằm trên.
 
 <a id="muc-3-3-7"></a>
 ### 3.3.7  Trên sàn của đường thoát nạn không được có các giật cấp với chiều cao chênh lệch nhỏ hơn 45 cm hoặc có gờ nhô lên, ngoại trừ các ngưỡng trong các ô cửa đi. Tại các chỗ có giật cấp phải bố trí bậc thang với số bậc không nhỏ hơn 3 hoặc làm đường dốc với độ dốc không được lớn hơn 1:6 (độ chênh cao không được quá 10 cm trên chiều dài 60 cm hoặc góc tạo bởi đường dốc với mặt bằng không lớn hơn 9,5°).
@@ -1572,7 +1573,7 @@ Các cửa đi có cánh cửa mở vào buồng thang bộ thì khi mở, cánh
 
 - Các thiết bị nhô ra khỏi mặt tường ở độ cao dưới 2,2 m tính từ bề mặt của các bậc và chiếu thang.
 
-Trong không gian của các buồng thang bộ thoát nạn và khoang đệm ngăn cháy có áp suất không khí dương khi có cháy, không cho phép bố trí bất kỳ phòng công năng nào.
+- Trong không gian của các buồng thang bộ thoát nạn và khoang đệm ngăn cháy có áp suất không khí dương khi có cháy, không cho phép bố trí bất kỳ phòng công năng nào.
 
 <a id="muc-3-4-6"></a>
 ### 3.4.6  Trong không gian của các buồng thang bộ, trừ các buồng thang không nhiễm khói, cho phép bố trí không quá hai thang máy chờ người hạ xuống chỉ đến tầng 1 với các kết cấu bao che giếng thang làm từ các vật liệu không cháy.
@@ -1594,6 +1595,7 @@ Các buồng thang bộ loại N1 phải có lối ra ngoài trực tiếp.
 ### 3.4.8  Các buồng thang bộ phải được bảo đảm chiếu sáng tự nhiên hoặc nhân tạo.
 
 a) Trường hợp chiếu sáng tự nhiên:
+a) Trường hợp chiếu sáng tự nhiên:
 
 Trừ buồng thang bộ loại L2, việc bảo đảm chiếu sáng có thể được thực hiện bằng các lỗ lấy ánh sáng với diện tích không nhỏ hơn 1,2 m2 trên các tường ngoài ở mỗi tầng.
 
@@ -1601,10 +1603,11 @@ Các buồng thang bộ loại L2 phải có lỗ lấy ánh sáng trên mái c�
 
 Cho phép bố trí không quá 50 % buồng thang bộ bên trong không có các lỗ lấy ánh sáng, dùng để thoát nạn, trong các trường hợp sau:
 
-- Các nhà thuộc nhóm F2, F3 và F4: đối với buồng thang loại N2 hoặc N3 có áp suất không khí dương khi cháy;
+- - Các nhà thuộc nhóm F2, F3 và F4: đối với buồng thang loại N2 hoặc N3 có áp suất không khí dương khi cháy;
 
-- Các nhà thuộc nhóm F5 hạng C có chiều cao PCCC tới 28 m, còn hạng D và E không phụ thuộc chiều cao PCCC của nhà: đối với buồng thang loại N3 có áp suất không khí dương khi cháy.
+- - Các nhà thuộc nhóm F5 hạng C có chiều cao PCCC tới 28 m, còn hạng D và E không phụ thuộc chiều cao PCCC của nhà: đối với buồng thang loại N3 có áp suất không khí dương khi cháy.
 
+b) Trường hợp chiếu sáng nhân tạo:
 b) Trường hợp chiếu sáng nhân tạo:
 
 Trường hợp không bố trí được các lỗ cửa như quy định tại đoạn a) của 3.4.8 thì các buồng thang bộ thoát nạn phải là buồng thang bộ không nhiễm khói và được trang bị chiếu sáng nhân tạo, được cấp điện như chú thích tại 3.4.1.3 bảo đảm nguyên tắc duy trì liên tục nguồn điện cấp cho hệ thống chiếu sáng hoạt động ổn định khi có cháy xảy ra, và ánh sáng phải đủ để người thoát nạn theo các buồng thang này có thể nhìn rõ đường thoát nạn và không bị lóa mắt.
@@ -1623,27 +1626,27 @@ _CHÚ THÍCH: Một số phương án bố trí khoảng đệm không nhiễm k
 
 a) Các khoảng đệm không nhiễm khói phải để hở, thông với bên ngoài, thường đặt tại các góc bên trong của nhà, đồng thời phải bảo đảm các yêu cầu sau (xem Hình I.7):
 
-- Khi một phần của tường ngoài của nhà nối tiếp với phần tường khác dưới một góc nhỏ hơn 135° thì khoảng cách theo phương ngang từ lỗ cửa đi gần nhất ở khoảng đệm này tới đỉnh góc tiếp giáp phải không nhỏ hơn 4 m; khoảng cách này có thể giảm đến bằng giá trị phần nhỏ ra của tường ngoài. Yêu cầu này không áp dụng đối với lối đi, nằm ở các góc tiếp giáp lớn hơn hoặc bằng 135°, cũng như cho phần nhô ra của tường ngoài có giá trị không lớn hơn 1,2 m;
+- - Khi một phần của tường ngoài của nhà nối tiếp với phần tường khác dưới một góc nhỏ hơn 135° thì khoảng cách theo phương ngang từ lỗ cửa đi gần nhất ở khoảng đệm này tới đỉnh góc tiếp giáp phải không nhỏ hơn 4 m; khoảng cách này có thể giảm đến bằng giá trị phần nhỏ ra của tường ngoài. Yêu cầu này không áp dụng đối với lối đi, nằm ở các góc tiếp giáp lớn hơn hoặc bằng 135°, cũng như cho phần nhô ra của tường ngoài có giá trị không lớn hơn 1,2 m;
 
-Chiều rộng phần tường giữa các lỗ cửa đi của khoảng đệm không nhiễm khói và ô cửa sổ gần nhất của gian phòng không được nhỏ hơn 2 m;
+- Chiều rộng phần tường giữa các lỗ cửa đi của khoảng đệm không nhiễm khói và ô cửa sổ gần nhất của gian phòng không được nhỏ hơn 2 m;
 
-Các lối đi phải có chiều rộng không nhỏ hơn 1,2 m với chiều cao lan can 1,2 m, chiều rộng của phần tường giữa các lỗ cửa đi ở khoảng đệm không nhiễm khói phải không nhỏ hơn 1,2 m.
+- Các lối đi phải có chiều rộng không nhỏ hơn 1,2 m với chiều cao lan can 1,2 m, chiều rộng của phần tường giữa các lỗ cửa đi ở khoảng đệm không nhiễm khói phải không nhỏ hơn 1,2 m.
 
 _CHÚ THÍCH: Một số trường hợp tương tự dạng này được minh họa trong Phụ lục I, hình I.8 a), b) và c)_
 
 b) Khoảng đệm không nhiễm khói đi theo hành lang bên (xem Hình I.8 h), i) và k)) được chiếu sáng và thông gió tự nhiên bằng các lỗ thông mở ra phía và tiếp xúc với một trong những không gian sau:
 
-- Không gian bên ngoài;
+- - Không gian bên ngoài;
 
-- Một đường phố hoặc đường công cộng hoặc các không gian công cộng khác thông hoàn toàn ở phía trên;
+- - Một đường phố hoặc đường công cộng hoặc các không gian công cộng khác thông hoàn toàn ở phía trên;
 
-- Một giếng thông gió thẳng đứng có chiều rộng không nhỏ hơn 6 m và diện tích mặt thoáng không nhỏ hơn 93 m2;
+- - Một giếng thông gió thẳng đứng có chiều rộng không nhỏ hơn 6 m và diện tích mặt thoáng không nhỏ hơn 93 m2;
 
 c) Khoảng đệm không nhiễm khói đi qua một sảnh ngăn khói có diện tích không nhỏ hơn 6 m2 với kích thước nhỏ nhất theo mỗi chiều không nhỏ hơn 2 m được ngăn cách với các khu vực liền kề của tòa nhà bằng tường ngăn cháy loại 2. Các cửa ra vào phải có cơ cấu tự đóng và khe cửa phải được chèn kín. Thiết kế của sảnh ngăn khói phải bảo đảm không cản trở sự di chuyển của người sử dụng trên đường thoát nạn. Tính không nhiễm khói của sảnh ngăn khói phải được bảo đảm bởi một trong những giải pháp sau:
 
-- Có các lỗ thông gió với diện tích không nhỏ hơn 15 % diện tích sàn của sảnh ngăn khói và đặt cách không quá 9 m tính từ bất kỳ bộ phận nào của sảnh. Các lỗ thông gió này phải thông với một giếng đứng hoặc khoang lõm thông khí trên suốt dọc chiều cao nhà. Kích thước của giếng đứng hoặc khoang lõm phải bảo đảm chiều rộng không nhỏ hơn 6 m và diện tích mặt thoáng không nhỏ hơn 93 m2. Tường bao giếng đứng phải có khả năng chịu lửa nhỏ nhất là 1 giờ và trong giếng không được có lỗ thông nào khác ngoài các lỗ thông gió của sảnh ngăn khói, buồng thang thoát nạn và các khu vệ sinh (xem Hình I.8 d), e), f));
+- - Có các lỗ thông gió với diện tích không nhỏ hơn 15 % diện tích sàn của sảnh ngăn khói và đặt cách không quá 9 m tính từ bất kỳ bộ phận nào của sảnh. Các lỗ thông gió này phải thông với một giếng đứng hoặc khoang lõm thông khí trên suốt dọc chiều cao nhà. Kích thước của giếng đứng hoặc khoang lõm phải bảo đảm chiều rộng không nhỏ hơn 6 m và diện tích mặt thoáng không nhỏ hơn 93 m2. Tường bao giếng đứng phải có khả năng chịu lửa nhỏ nhất là 1 giờ và trong giếng không được có lỗ thông nào khác ngoài các lỗ thông gió của sảnh ngăn khói, buồng thang thoát nạn và các khu vệ sinh (xem Hình I.8 d), e), f));
 
-- Là hành lang được thông gió ngang, có các lỗ thông gió cố định nằm ở hai tường bên ngoài. Các lỗ thông trên mỗi bức tường ngoài không được nhỏ hơn 50 % diện tích mặt thoáng của tường ngoài đối diện. Khoảng cách từ mọi điểm của sàn hành lang đến một lỗ thông bất kỳ không được lớn hơn 13 m (xem Hình I.8 g)).
+- - Là hành lang được thông gió ngang, có các lỗ thông gió cố định nằm ở hai tường bên ngoài. Các lỗ thông trên mỗi bức tường ngoài không được nhỏ hơn 50 % diện tích mặt thoáng của tường ngoài đối diện. Khoảng cách từ mọi điểm của sàn hành lang đến một lỗ thông bất kỳ không được lớn hơn 13 m (xem Hình I.8 g)).
 
 <a id="muc-3-4-11"></a>
 ### 3.4.11  Các buồng thang bộ loại L1 và cầu thang bộ loại 3 được phép bố trí trong các nhà thuộc tất cả các nhóm nguy hiểm cháy theo công năng có chiều cao PCCC tới 28 m; khi đó, trong nhà nhóm F5 hạng A hoặc B, lối ra hành lang tầng từ các gian phòng hạng A hoặc B phải đi qua khoang đệm luôn luôn có áp suất không khí dương.
@@ -1662,17 +1665,17 @@ _CHÚ THÍCH: Buồng thang bộ N1 có thể được thay thế như đã nêu
 
 Cho phép:
 
-a) Trong các nhà nhóm F1, F2, F3, F4 bố trí không quá 50 % buồng thang bộ loại N3 hoặc loại N2 có lối vào buồng thang đi qua khoang đệm với giải pháp bao che giống như khoang đệm ngăn cháy loại 1 (nghĩa là không yêu cầu có áp suất không khí dương trong khoang đệm này, nhưng các bộ phận bao che phải có giới hạn chịu lửa tương tự như khoang đệm ngăn cháy loại 1);
+- a) Trong các nhà nhóm F1, F2, F3, F4 bố trí không quá 50 % buồng thang bộ loại N3 hoặc loại N2 có lối vào buồng thang đi qua khoang đệm với giải pháp bao che giống như khoang đệm ngăn cháy loại 1 (nghĩa là không yêu cầu có áp suất không khí dương trong khoang đệm này, nhưng các bộ phận bao che phải có giới hạn chịu lửa tương tự như khoang đệm ngăn cháy loại 1);
 
-b) Khi nhà có từ hai tầng hầm trở lên, việc thoát nạn từ các tầng hầm này có thể theo các buồng thang bộ loại N3, hoặc loại N2 có lối vào buồng thang đi qua khoang đệm với giải pháp bao che giống như khoang đệm ngăn cháy loại 1;
+- b) Khi nhà có từ hai tầng hầm trở lên, việc thoát nạn từ các tầng hầm này có thể theo các buồng thang bộ loại N3, hoặc loại N2 có lối vào buồng thang đi qua khoang đệm với giải pháp bao che giống như khoang đệm ngăn cháy loại 1;
 
 c) Trong các nhà nhóm F5 bố trí các buồng thang bộ không nhiễm khói thay cho loại N1 như sau:
 
-- Trong các nhà hạng A hoặc B - các buồng thang bộ N2 hoặc N3 có áp suất không khí dương thường xuyên;
+- - Trong các nhà hạng A hoặc B - các buồng thang bộ N2 hoặc N3 có áp suất không khí dương thường xuyên;
 
-- Trong các nhà hạng C - các buồng thang bộ N2 hoặc N3 với áp suất không khí dương khi có cháy;
+- - Trong các nhà hạng C - các buồng thang bộ N2 hoặc N3 với áp suất không khí dương khi có cháy;
 
-- Trong các nhà hạng D, E - các buồng thang bộ N2 hoặc N3 với áp suất không khí dương khi có cháy, hoặc các buồng thang bộ L1 với điều kiện buồng thang phải được phân khoang bằng vách ngăn cháy đặc qua mỗi 20 m chiều cao và lối đi từ khoang này sang khoang khác của buồng thang phải đặt ở ngoài không gian của buồng thang.
+- - Trong các nhà hạng D, E - các buồng thang bộ N2 hoặc N3 với áp suất không khí dương khi có cháy, hoặc các buồng thang bộ L1 với điều kiện buồng thang phải được phân khoang bằng vách ngăn cháy đặc qua mỗi 20 m chiều cao và lối đi từ khoang này sang khoang khác của buồng thang phải đặt ở ngoài không gian của buồng thang.
 
 <a id="muc-3-4-1-4"></a>
 ### 3.4.1.4  Trong các nhà có các buồng thang bộ không nhiễm khói phải bố trí bảo vệ chống khói cho các hành lang chung, các sảnh, các không gian chung và các phòng chờ.
@@ -1943,19 +1946,19 @@ Phải bảo đảm khoảng cách phòng cháy chống cháy giữa các nhà (
 
 Việc thiết kế trong nhà, tổ hợp nhà, một hoặc một số sảnh thông tầng, kể cả trang bị trong khối tích của nó các cầu thang bộ hở, thang cuốn, thang cuốn ngang, thang máy toàn cảnh và tương tự, cũng như các gian phòng có các lỗ mở ở hành lang bên, cần bảo đảm thực hiện các yêu cầu sau:
 
-a) Sảnh thông tầng phải được đặt trong khối tích của một khoang cháy, ở các lỗ mở của các sàn giữa các tầng của nó cho phép bố trí các thang máy cuốn, thang bộ hở và thang máy (kể cả thang máy toàn cảnh);
+- a) Sảnh thông tầng phải được đặt trong khối tích của một khoang cháy, ở các lỗ mở của các sàn giữa các tầng của nó cho phép bố trí các thang máy cuốn, thang bộ hở và thang máy (kể cả thang máy toàn cảnh);
 
-b) Các kết cấu bao quanh các gian phòng và hành lang ở các vị trí tiếp giáp với sảnh thông tầng, cần có giới hạn chịu lửa không nhỏ hơn El (EIW) 60 hoặc làm bằng kính cường lực, có chiều dày không nhỏ hơn 6 mm, có giới hạn chịu lửa không quy định nhưng được trang bị các đầu phun (sprinkler) của thiết bị chữa cháy tự động, bảo đảm các đầu phun được đặt từ phía các gian phòng (hành lang) liền kề, cách nhau không quá 2 m và cách vách ngăn không quá 0,5 m;
+- b) Các kết cấu bao quanh các gian phòng và hành lang ở các vị trí tiếp giáp với sảnh thông tầng, cần có giới hạn chịu lửa không nhỏ hơn El (EIW) 60 hoặc làm bằng kính cường lực, có chiều dày không nhỏ hơn 6 mm, có giới hạn chịu lửa không quy định nhưng được trang bị các đầu phun (sprinkler) của thiết bị chữa cháy tự động, bảo đảm các đầu phun được đặt từ phía các gian phòng (hành lang) liền kề, cách nhau không quá 2 m và cách vách ngăn không quá 0,5 m;
 
-c) Ở các lỗ mở, dẫn vào sảnh thông tầng, kể cả các lỗ mở của các thang cuốn và của các gian phòng ở hành lang bên có trang bị các rèm, màn ngăn khói, có giới hạn chịu lửa không nhỏ hơn E 45, được hạ xuống khi có cháy, chúng phải có các cơ cấu dẫn động điều khiển tự động và từ xa, hoặc trang bị các màn ngăn khói cố định. Chiều cao làm việc của các rèm, màn ngăn khói, khi hạ xuống không được nhỏ hơn chiều dày của lớp khói được tạo ra khi có cháy. Chiều dày lớp khói được xác định bảng tính toán khi thiết kế. Khi đó, biên dưới của lớp khói được xác định ở chiều cao không nhỏ hơn 2,5 m tính từ mặt sàn;
+- c) Ở các lỗ mở, dẫn vào sảnh thông tầng, kể cả các lỗ mở của các thang cuốn và của các gian phòng ở hành lang bên có trang bị các rèm, màn ngăn khói, có giới hạn chịu lửa không nhỏ hơn E 45, được hạ xuống khi có cháy, chúng phải có các cơ cấu dẫn động điều khiển tự động và từ xa, hoặc trang bị các màn ngăn khói cố định. Chiều cao làm việc của các rèm, màn ngăn khói, khi hạ xuống không được nhỏ hơn chiều dày của lớp khói được tạo ra khi có cháy. Chiều dày lớp khói được xác định bảng tính toán khi thiết kế. Khi đó, biên dưới của lớp khói được xác định ở chiều cao không nhỏ hơn 2,5 m tính từ mặt sàn;
 
-d) Diện tích tầng trong phạm vi khoang cháy có sảnh thông tầng được xác định bằng tổng diện tích tầng dưới cùng của sảnh thông tầng và diện tích của các hành lang bên, của các lối đi và của tất cả các gian phòng nằm phía trên, đặt trong phạm vi khối tích của sảnh thông tầng, giới hạn bằng các vách ngăn cháy loại 1. Khi không có các vách ngăn cháy loại 1, ngăn cách không gian của sảnh với các gian phòng tiếp giáp thì diện tích khoang cháy bằng tổng diện tích của các tầng tương ứng;
+- d) Diện tích tầng trong phạm vi khoang cháy có sảnh thông tầng được xác định bằng tổng diện tích tầng dưới cùng của sảnh thông tầng và diện tích của các hành lang bên, của các lối đi và của tất cả các gian phòng nằm phía trên, đặt trong phạm vi khối tích của sảnh thông tầng, giới hạn bằng các vách ngăn cháy loại 1. Khi không có các vách ngăn cháy loại 1, ngăn cách không gian của sảnh với các gian phòng tiếp giáp thì diện tích khoang cháy bằng tổng diện tích của các tầng tương ứng;
 
-e) Cho phép sử dụng hệ thống hút xả khói theo cơ chế tự nhiên từ sảnh thông tầng nếu có luận cứ tính toán phù hợp;
+- e) Cho phép sử dụng hệ thống hút xả khói theo cơ chế tự nhiên từ sảnh thông tầng nếu có luận cứ tính toán phù hợp;
 
-f) Tấm chắn lấy sáng ở mái của sảnh thông tầng phải được làm từ vật liệu không cháy, khi đó, kết cấu của tấm mái này phải được làm từ kính có cốt gia cường và an toàn (không gây thương tích). Cho phép sử dụng các vật liệu tấm lấy sáng có nhóm nguy hiểm cháy không nguy hiểm hơn Ch1 và không tạo thành các giọt nóng chảy;
+- f) Tấm chắn lấy sáng ở mái của sảnh thông tầng phải được làm từ vật liệu không cháy, khi đó, kết cấu của tấm mái này phải được làm từ kính có cốt gia cường và an toàn (không gây thương tích). Cho phép sử dụng các vật liệu tấm lấy sáng có nhóm nguy hiểm cháy không nguy hiểm hơn Ch1 và không tạo thành các giọt nóng chảy;
 
-g) Để chữa cháy trong không gian sảnh thông tầng, cho phép lắp đặt các đầu phun sprinkler ở bên dưới kết cấu nhô ra của sàn giữa các tầng, của các ban công (kể cả dưới các thang cuốn...) mà không phải lắp đặt vào mái của sảnh thông tầng. Các đầu phun (sprinkler) đặt cách nhau từ 1,5 m đến 2,0 m và cách mép/cạnh của lỗ mở thông sàn không quá 0,5 m.
+- g) Để chữa cháy trong không gian sảnh thông tầng, cho phép lắp đặt các đầu phun sprinkler ở bên dưới kết cấu nhô ra của sàn giữa các tầng, của các ban công (kể cả dưới các thang cuốn...) mà không phải lắp đặt vào mái của sảnh thông tầng. Các đầu phun (sprinkler) đặt cách nhau từ 1,5 m đến 2,0 m và cách mép/cạnh của lỗ mở thông sàn không quá 0,5 m.
 
 <a id="muc-5"></a>
 ### 5  CẤP NƯỚC CHỮA CHÁY
@@ -2007,19 +2010,19 @@ _CHÚ THÍCH:_
 
 - **CHÚ THÍCH 8:** Lưu lượng nước cho chữa cháy ngoài nhà cho cơ sở lưu trữ công-ten-nơ có hàng hóa phụ thuộc vào số lượng công-ten-nơ, được lấy như sau:
 
-Từ 30 đến 50 công-ten-nơ lấy 15 L/s;
+- Từ 30 đến 50 công-ten-nơ lấy 15 L/s;
 
-Từ 51 đến 100 công-ten-nơ: lấy 20 L/s;
+- Từ 51 đến 100 công-ten-nơ: lấy 20 L/s;
 
-Từ 101 đến 300 công-ten-nơ: lấy 25 L/s;
+- Từ 101 đến 300 công-ten-nơ: lấy 25 L/s;
 
-Từ 301 đến 1 000 công-ten-nơ: lấy 40 L/s;
+- Từ 301 đến 1 000 công-ten-nơ: lấy 40 L/s;
 
-Từ 1 001 đến 1 500 công-ten-nơ: lấy 60 L/s;
+- Từ 1 001 đến 1 500 công-ten-nơ: lấy 60 L/s;
 
-Từ 1 501 đến 2 000 công-ten-nơ: lấy 80 L/s;
+- Từ 1 501 đến 2 000 công-ten-nơ: lấy 80 L/s;
 
-Nhiều hơn 2 000 công-ten-nơ: lấy 100 L/s;
+- Nhiều hơn 2 000 công-ten-nơ: lấy 100 L/s;
 
 ### <a id="bang-7" name="bang-7"></a>Bảng 7 - Lưu lượng nước từ mạng đường ống cho chữa cháy ngoài nhà trong các khu dân cư
 
@@ -2140,7 +2143,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 
 - Nếu diện tích trên 150 ha lấy là 2 đám cháy.
 
-Số đám cháy tính toán đồng thời tại một khu vực kho dạng hở hoặc kín chứa vật liệu từ gỗ, lấy như sau: diện tích kho đến 50 ha lấy là 1 đám cháy; diện tích trên 50 ha lấy là 2 đám cháy.
+- Số đám cháy tính toán đồng thời tại một khu vực kho dạng hở hoặc kín chứa vật liệu từ gỗ, lấy như sau: diện tích kho đến 50 ha lấy là 1 đám cháy; diện tích trên 50 ha lấy là 2 đám cháy.
 
 _CHÚ THÍCH: Diện tích của cơ sở để tính toán cho hệ thống cấp nước chữa cháy ngoài nhà là diện tích khu đất của cơ sở (không bao gồm khu đất rừng, khu đất công viên cây xanh, khu đất trồng cày nông nghiệp hay các khu đất tương tư mà trên đó không có công trình xây dựng)._
 
@@ -2179,6 +2182,7 @@ a) Đối với khu vực thuộc hạng nguy hiểm cháy D và E cho phép đ�
 
 b) Đối với khu vực thuộc hạng nguy hiểm cháy C cho phép đến 36 giờ.
 
+Khi không thể bảo đảm phục hồi lượng nước chữa cháy theo thời gian quy định thì cần cung cấp thêm n lần lượng nước dự trữ chữa cháy. Giá trị của n (n = 1,5; 2,0; 2,5; 3,0 ...) phụ thuộc vào thời gian phục hồi thực tế, ttt, và tính theo công thức sau:
 Khi không thể bảo đảm phục hồi lượng nước chữa cháy theo thời gian quy định thì cần cung cấp thêm n lần lượng nước dự trữ chữa cháy. Giá trị của n (n = 1,5; 2,0; 2,5; 3,0 ...) phụ thuộc vào thời gian phục hồi thực tế, ttt, và tính theo công thức sau:
 
 n = ttt / tqđ
@@ -2219,7 +2223,7 @@ Trong mọi trường hợp đều phải cho phép mở và đóng được b�
 
 - Các điều kiện làm việc khi ngắt sự cố từng đoạn riêng.
 
-Đường kính ống dẫn nước chữa cháy ngoài nhà cho khu dân cư và cơ sở sản xuất không được nhỏ hơn 100 mm, đối với khu vực nông thôn - không được nhỏ hơn 75 mm.
+- Đường kính ống dẫn nước chữa cháy ngoài nhà cho khu dân cư và cơ sở sản xuất không được nhỏ hơn 100 mm, đối với khu vực nông thôn - không được nhỏ hơn 75 mm.
 
 <a id="muc-5-1-4-6"></a>
 ### 5.1.4.6  Các trụ cấp nước chữa cháy phải được bố trí ở khoảng cách không lớn hơn 2,5 m đến mép đường, nhưng không gần hơn 1 m đến tường ngôi nhà; cho phép bố trí trụ nước (trụ ngầm) nằm ở đường giao thông.
@@ -2322,7 +2326,7 @@ Căn cứ vào lưu lượng cấp nước, các họng nước chữa cháy đ�
 
 - Lưu lượng trung bình (lớn hơn 1,5 L/s).
 
-Trường hợp sử dụng các họng nước lưu lượng thấp thì phải bảo đảm tổng lưu lượng cấp nước và chiều cao tia nước đặc xác định theo các bảng 11, 12 và 13.
+- Trường hợp sử dụng các họng nước lưu lượng thấp thì phải bảo đảm tổng lưu lượng cấp nước và chiều cao tia nước đặc xác định theo các bảng 11, 12 và 13.
 
 ### <a id="bang-11" name="bang-11"></a>Bảng 11 - Số tia phun chữa cháy và lưu lượng nước tối thiểu đối với hệ thống họng nước chữa cháy trong nhà
 
@@ -2421,7 +2425,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 
 - Đối với nhà được ngăn chia bằng các tường ngăn cháy loại 1 hoặc 2 phải tính theo khối tích của phần nhà có yêu cầu lưu lượng nước cao hơn.
 
-Khi liên kết các nhà có bậc chịu lửa I và II bằng các lối đi làm bằng vật liệu không cháy và được lắp đặt cửa ngăn cháy thì khối tích của nhà phục vụ việc xác định lưu lượng nước chữa cháy được tính là khối tích riêng của từng nhà; khi không có cửa ngăn cháy thì tính theo khối tích tổng và theo hạng nguy hiểm cháy cao hơn.
+- Khi liên kết các nhà có bậc chịu lửa I và II bằng các lối đi làm bằng vật liệu không cháy và được lắp đặt cửa ngăn cháy thì khối tích của nhà phục vụ việc xác định lưu lượng nước chữa cháy được tính là khối tích riêng của từng nhà; khi không có cửa ngăn cháy thì tính theo khối tích tổng và theo hạng nguy hiểm cháy cao hơn.
 
 <a id="muc-5-2-6"></a>
 ### 5.2.6  Áp suất thủy tĩnh trong hệ thống nước sinh hoạt - chữa cháy đo tại các thiết bị vệ sinh - kỹ thuật đặt ở mức nước thấp nhất không được vượt quá 0,45 MPa.
@@ -2516,7 +2520,7 @@ _CHÚ THÍCH: Trong một công trình cho phép kết hợp nhiều phương á
 
 - Khi tính toán cần bốn máy bơm chữa cháy chính trở lên thì phải có ít nhất hai máy bơm dự phòng;
 
-Các máy bơm chữa cháy phải được kết nối với hai nguồn điện riêng biệt từ nguồn điện lưới, nguồn điện từ máy phát điện hoặc sử dụng máy bơm động cơ đốt trong. Cho phép không trang bị máy bơm dự phòng hoặc nguồn điện dự phòng khi cấp nước cho nhà sản xuất, nhà kho có bậc chịu lửa I, II với hạng nguy hiểm cháy, nổ hạng D, E và lưu lượng cấp nước chữa cháy ngoài nhà yêu cầu nhỏ hơn 20L/s.
+- Các máy bơm chữa cháy phải được kết nối với hai nguồn điện riêng biệt từ nguồn điện lưới, nguồn điện từ máy phát điện hoặc sử dụng máy bơm động cơ đốt trong. Cho phép không trang bị máy bơm dự phòng hoặc nguồn điện dự phòng khi cấp nước cho nhà sản xuất, nhà kho có bậc chịu lửa I, II với hạng nguy hiểm cháy, nổ hạng D, E và lưu lượng cấp nước chữa cháy ngoài nhà yêu cầu nhỏ hơn 20L/s.
 
 <a id="muc-5-3-2"></a>
 ### 5.3.2  Máy bơm cấp nước chữa cháy có thể điều khiển tại chỗ bằng tay hoặc điều khiển tự động từ xa và phải bảo đảm cho máy bơm được kích hoạt vận hành trong thời gian không chậm quá 3 phút kể từ khi có tín hiệu báo cháy. Khi lưu lượng cấp nước cho chữa cháy ngoài nhà yêu cầu từ 25 L/s trở lên thì phải có cơ cấu điều khiển máy bơm chữa cháy tự động từ xa.
@@ -2532,17 +2536,17 @@ Các máy bơm chữa cháy phải được kết nối với hai nguồn điệ
 
 Các giải pháp này bao gồm:
 
-- Bố trí các đường cho xe chữa cháy, bãi đỗ xe chữa cháy và lối tiếp cận cho lực lượng và phương tiện chữa cháy, kết hợp chung với các đường và lối đi theo công năng của nhà hoặc bố trí riêng;
+- - Bố trí các đường cho xe chữa cháy, bãi đỗ xe chữa cháy và lối tiếp cận cho lực lượng và phương tiện chữa cháy, kết hợp chung với các đường và lối đi theo công năng của nhà hoặc bố trí riêng;
 
-- Bố trí các thang chữa cháy ngoài nhà và bảo đảm các phương tiện cần thiết khác để đưa lực lượng chữa cháy cùng các trang thiết bị kỹ thuật chữa cháy đến các tầng và mái của các nhà, trong đó gồm cả việc bố trí các thang máy có chế độ “chuyên chở lực lượng chữa cháy” (dưới đây gọi chung là thang máy chữa cháy);
+- - Bố trí các thang chữa cháy ngoài nhà và bảo đảm các phương tiện cần thiết khác để đưa lực lượng chữa cháy cùng các trang thiết bị kỹ thuật chữa cháy đến các tầng và mái của các nhà, trong đó gồm cả việc bố trí các thang máy có chế độ “chuyên chở lực lượng chữa cháy” (dưới đây gọi chung là thang máy chữa cháy);
 
-- Bố trí đường ống cấp nước chữa cháy, kết hợp với các đường ống cấp nước sinh hoạt hoặc bố trí riêng, và khi cần thiết, bố trí các họng tiếp nước, đường ống tiếp nước vào trong nhà cho lực lượng chữa cháy, các trụ nước, bể chứa nước chữa cháy hoặc các nguồn cấp nước chữa cháy khác;
+- - Bố trí đường ống cấp nước chữa cháy, kết hợp với các đường ống cấp nước sinh hoạt hoặc bố trí riêng, và khi cần thiết, bố trí các họng tiếp nước, đường ống tiếp nước vào trong nhà cho lực lượng chữa cháy, các trụ nước, bể chứa nước chữa cháy hoặc các nguồn cấp nước chữa cháy khác;
 
-- Bảo vệ chống khói cho các lối đi của lực lượng chữa cháy bên trong nhà;
+- - Bảo vệ chống khói cho các lối đi của lực lượng chữa cháy bên trong nhà;
 
-- Trang bị cho nhà các phương tiện cứu người cho cá nhân và tập thể trong trường hợp cần thiết;
+- - Trang bị cho nhà các phương tiện cứu người cho cá nhân và tập thể trong trường hợp cần thiết;
 
-- Bố trí, xây dựng các công trình, các trạm (đội) phòng cháy và chữa cháy phù hợp với số lượng nhân viên và các thiết bị kỹ thuật chữa cháy cần thiết, đáp ứng các điều kiện chữa cháy trên các công trình hoặc khu vực trong phạm vi hoạt động của các trạm (đội) này theo đúng các quy định hiện hành.
+- - Bố trí, xây dựng các công trình, các trạm (đội) phòng cháy và chữa cháy phù hợp với số lượng nhân viên và các thiết bị kỹ thuật chữa cháy cần thiết, đáp ứng các điều kiện chữa cháy trên các công trình hoặc khu vực trong phạm vi hoạt động của các trạm (đội) này theo đúng các quy định hiện hành.
 
 Việc lựa chọn các giải pháp nêu trên phụ thuộc vào bậc chịu lửa, cấp nguy hiểm cháy kết cấu và nhóm nguy hiểm cháy theo công năng của nhà, công trình.
 
@@ -2663,6 +2667,7 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 a) Khi phần nhà không để ở (không thuộc nhóm F1.3) chỉ nằm ở phần dưới của nhà thì chiều cao PCCC của nhà để xác định các yêu cầu về đường cho xe chữa cháy hoặc bãi đỗ xe chữa cháy phải căn cứ vào phần nhà không để ở của nhà;
 
 b) Đối với nhà hỗn hợp không có phần nhà thuộc nhóm F1.3 thì chiều dài yêu cầu của đường cho xe chữa cháy hoặc bãi đỗ xe chữa cháy phải được lấy bằng giá trị lớn hơn trong hai giá trị xác định căn cứ vào:
+b) Đối với nhà hỗn hợp không có phần nhà thuộc nhóm F1.3 thì chiều dài yêu cầu của đường cho xe chữa cháy hoặc bãi đỗ xe chữa cháy phải được lấy bằng giá trị lớn hơn trong hai giá trị xác định căn cứ vào:
 
 - Tổng quy mô khối tích của các phần nhà thuộc nhóm F5; hoặc
 
@@ -2670,7 +2675,7 @@ b) Đối với nhà hỗn hợp không có phần nhà thuộc nhóm F1.3 thì 
 
 c) Đối với nhà hỗn hợp có phần nhà thuộc nhóm F1.3, chiều dài của bãi đỗ xe chữa cháy phải được tính theo 6.2.2.3 đồng thời phải đáp ứng được quy định tại 6.2.2.
 
-Đối với các tầng hầm phải có đường cho xe chữa cháy nằm trong phạm vi 18 m tính từ lối vào trên mặt đất của tất cả các khoang đệm của thang máy chữa cháy hoặc của buồng thang bộ thoát nạn có bố trí họng chờ cấp nước DN 65 dành cho lực lượng chữa cháy chuyên nghiệp (của hệ thống ống khô).
+- Đối với các tầng hầm phải có đường cho xe chữa cháy nằm trong phạm vi 18 m tính từ lối vào trên mặt đất của tất cả các khoang đệm của thang máy chữa cháy hoặc của buồng thang bộ thoát nạn có bố trí họng chờ cấp nước DN 65 dành cho lực lượng chữa cháy chuyên nghiệp (của hệ thống ống khô).
 
 <a id="muc-6-2-3"></a>
 ### 6.2.3  Bãi đỗ xe chữa cháy phải được bố trí bảo đảm để khoảng cách đo theo phương nằm ngang từ mép gần nhà hơn của bãi đổ đến điểm giữa của lối vào từ trên cao không gần hơn 2 m và không xa quá 10 m.
@@ -2721,7 +2726,7 @@ Tại các điểm đầu và điểm cuối của đường cho xe chữa cháy
 
 - Đối với nhà nhóm F5, phải bố trí các lối vào từ trên cao ở phía trên một bãi đỗ xe chữa cháy, lên đến chiều cao PCCC 50 m.
 
-Yêu cầu về lối vào từ trên cao không áp dụng đối với các nhà nhóm F1.3, bao gồm cả những khu vực phụ trợ (ví dụ: phòng tập gym, các phòng câu lạc bộ, và các gian phòng có công năng tương tự phục vụ riêng cho cư dân của nhà) trong nhà nhóm F1.3.
+- Yêu cầu về lối vào từ trên cao không áp dụng đối với các nhà nhóm F1.3, bao gồm cả những khu vực phụ trợ (ví dụ: phòng tập gym, các phòng câu lạc bộ, và các gian phòng có công năng tương tự phục vụ riêng cho cư dân của nhà) trong nhà nhóm F1.3.
 
 <a id="muc-6-4"></a>
 ### 6.4  Thiết kế bãi quay xe phải tuân theo một trong các quy định sau:
@@ -2779,51 +2784,51 @@ _CHÚ THÍCH: Yêu cầu kỹ thuật khác như cáp điện, hệ thống đi�
 
 Việc bố trí và lắp đặt các thang máy chữa cháy phải bảo đảm những quy định cơ bản sau:
 
-- Không được sử dụng các thang máy chủ yếu để vận chuyển hàng hóa để làm thang máy chữa cháy;
+- - Không được sử dụng các thang máy chủ yếu để vận chuyển hàng hóa để làm thang máy chữa cháy;
 
-- Ở điều kiện bình thường, thang máy chữa cháy vẫn được sử dụng để chờ người. Thang máy chữa cháy có thể được bố trí với một sảnh thang máy riêng hoặc trong một sảnh chung với các thang máy chờ người và hợp lại với nhau bằng một hệ thống điều khiển tự động theo nhóm;
+- - Ở điều kiện bình thường, thang máy chữa cháy vẫn được sử dụng để chờ người. Thang máy chữa cháy có thể được bố trí với một sảnh thang máy riêng hoặc trong một sảnh chung với các thang máy chờ người và hợp lại với nhau bằng một hệ thống điều khiển tự động theo nhóm;
 
-- Có số lượng được tính toán đủ để khoảng cách từ vị trí các thang máy đó đến một điểm bất kỳ trên mặt bằng tầng mà nó phục vụ không vượt quá 60 m;
+- - Có số lượng được tính toán đủ để khoảng cách từ vị trí các thang máy đó đến một điểm bất kỳ trên mặt bằng tầng mà nó phục vụ không vượt quá 60 m;
 
-- Nếu chỉ có một thang máy chữa cháy thì thang máy đó ít nhất phải đến được tất cả các tầng kề cận với tầng đang cháy của nhà;
+- - Nếu chỉ có một thang máy chữa cháy thì thang máy đó ít nhất phải đến được tất cả các tầng kề cận với tầng đang cháy của nhà;
 
-- Nếu có nhiều thang máy chữa cháy được bố trí chung trong một giếng thang thì các thang máy có thể phục vụ cho các khu vực khác nhau của nhà với điều kiện phải thể hiện rõ vùng được phục vụ trên mỗi thang máy đó;
+- - Nếu có nhiều thang máy chữa cháy được bố trí chung trong một giếng thang thì các thang máy có thể phục vụ cho các khu vực khác nhau của nhà với điều kiện phải thể hiện rõ vùng được phục vụ trên mỗi thang máy đó;
 
-- Trong mọi trường hợp, hình thức phục vụ của các thang máy chữa cháy phải giống nhau và thông dụng, ví dụ thang máy chỉ phục vụ các tầng lẻ hoặc các tầng chẵn hoặc tất cả các tầng;
+- - Trong mọi trường hợp, hình thức phục vụ của các thang máy chữa cháy phải giống nhau và thông dụng, ví dụ thang máy chỉ phục vụ các tầng lẻ hoặc các tầng chẵn hoặc tất cả các tầng;
 
-- Nếu có các tầng lánh nạn thì mỗi tầng đó phải được phục vụ bởi ít nhất một thang máy chữa cháy;
+- - Nếu có các tầng lánh nạn thì mỗi tầng đó phải được phục vụ bởi ít nhất một thang máy chữa cháy;
 
-- Ở chế độ hoạt động bình thường, cửa các thang máy chữa cháy không được mở vào những tầng lánh nạn đó còn cửa giếng thang máy tại những tầng lánh nạn đó phải thường xuyên được khóa và chỉ được tự động mở khóa khi chuyển sang chế độ phục vụ lực lượng chữa cháy.
+- - Ở chế độ hoạt động bình thường, cửa các thang máy chữa cháy không được mở vào những tầng lánh nạn đó còn cửa giếng thang máy tại những tầng lánh nạn đó phải thường xuyên được khóa và chỉ được tự động mở khóa khi chuyển sang chế độ phục vụ lực lượng chữa cháy.
 
 Trong trường hợp có cháy, các thang máy chữa cháy phải bảo đảm để người lính chữa cháy:
 
-- Là người duy nhất được quyền kiểm soát và vận hành để cùng với trang thiết bị của mình tiếp cận đến đám cháy một cách dễ dàng, quen thuộc, an toàn và nhanh chóng;
+- - Là người duy nhất được quyền kiểm soát và vận hành để cùng với trang thiết bị của mình tiếp cận đến đám cháy một cách dễ dàng, quen thuộc, an toàn và nhanh chóng;
 
-- Được bảo vệ an toàn khi sử dụng trước tác động của lửa và khói bằng các giải pháp thích hợp, đặc biệt là khi ra khỏi các thang máy đó;
+- - Được bảo vệ an toàn khi sử dụng trước tác động của lửa và khói bằng các giải pháp thích hợp, đặc biệt là khi ra khỏi các thang máy đó;
 
-- Có lối đi thông thoáng và an toàn để tiếp cận đến các thang máy đó cũng như đến các sàn được những thang máy đó phục vụ;
+- - Có lối đi thông thoáng và an toàn để tiếp cận đến các thang máy đó cũng như đến các sàn được những thang máy đó phục vụ;
 
-- Không phải di chuyển quá hai tầng để tiếp cận đến tầng có thể bị cháy bất kỳ của nhà khi có từ 2 thang máy chữa cháy trở lên;
+- - Không phải di chuyển quá hai tầng để tiếp cận đến tầng có thể bị cháy bất kỳ của nhà khi có từ 2 thang máy chữa cháy trở lên;
 
-- Được bảo vệ trong các giếng thang máy riêng (không chung với các loại thang máy khác) và trong mỗi giếng thang máy như vậy chỉ được bố trí không quá 3 thang máy chữa cháy. Kết cấu bao che giếng thang máy phải có giới hạn chịu lửa không nhỏ hơn REI 120.
+- - Được bảo vệ trong các giếng thang máy riêng (không chung với các loại thang máy khác) và trong mỗi giếng thang máy như vậy chỉ được bố trí không quá 3 thang máy chữa cháy. Kết cấu bao che giếng thang máy phải có giới hạn chịu lửa không nhỏ hơn REI 120.
 
 Sảnh thang máy chữa cháy là một khoang đệm bảo đảm tất cả các quy định sau:
 
-- Có diện tích không nhỏ hơn 4 m2;
+- - Có diện tích không nhỏ hơn 4 m2;
 
-- Khi kết hợp với các sảnh của buồng thang bộ không nhiễm khói thì diện tích không nhỏ hơn 6 m2;
+- - Khi kết hợp với các sảnh của buồng thang bộ không nhiễm khói thì diện tích không nhỏ hơn 6 m2;
 
-- Được bao che bằng các vách ngăn cháy loại 1;
+- - Được bao che bằng các vách ngăn cháy loại 1;
 
-- Có lắp đặt họng chờ cấp nước DN 65 dành cho lực lượng chữa cháy chuyên nghiệp;
+- - Có lắp đặt họng chờ cấp nước DN 65 dành cho lực lượng chữa cháy chuyên nghiệp;
 
-- Việc bố trí thang máy chữa cháy phải dự tính được đường di chuyển của đội chữa cháy chuyên nghiệp và bảo đảm đội chữa cháy tiếp cận được tất cả các gian phòng trên tất cả các tầng của nhà;
+- - Việc bố trí thang máy chữa cháy phải dự tính được đường di chuyển của đội chữa cháy chuyên nghiệp và bảo đảm đội chữa cháy tiếp cận được tất cả các gian phòng trên tất cả các tầng của nhà;
 
-- Sức chở của thang máy chữa cháy không được nhỏ hơn 630 kg đối với nhà chung cư nhóm F1.3 và không nhỏ hơn 1 000 kg đối với nhà sản xuất và nhà công cộng khác;
+- - Sức chở của thang máy chữa cháy không được nhỏ hơn 630 kg đối với nhà chung cư nhóm F1.3 và không nhỏ hơn 1 000 kg đối với nhà sản xuất và nhà công cộng khác;
 
-- Tốc độ di chuyển của thang máy chữa cháy không được nhỏ hơn H/60 (m/s), trong đó H là chiều cao nâng (m);
+- - Tốc độ di chuyển của thang máy chữa cháy không được nhỏ hơn H/60 (m/s), trong đó H là chiều cao nâng (m);
 
-- Kết cấu bao che của cabin thang máy chữa cháy phải được làm từ vật liệu không cháy hoặc cháy yếu.
+- - Kết cấu bao che của cabin thang máy chữa cháy phải được làm từ vật liệu không cháy hoặc cháy yếu.
 
 <a id="muc-6-14"></a>
 ### 6.1.4  Trong các nhà có độ dốc mái đến 12 %, chiều cao đến diềm mái hoặc mép trên của tường ngoài (tường chắn) lớn hơn 10 m, cũng như trong các nhà có độ dốc mái lớn hơn 12 % và chiều cao đến diềm mái lớn hơn 7 m phải có lan can, tay vịn trên mái phù hợp tiêu chuẩn hiện hành. Các lan can, tay vịn loại này cũng phải được bố trí cho các mái phẳng, ban công, lôgia, hành lang bên ngoài, cầu thang bên ngoài loại hở, bản thang bộ và chiếu thang bộ mà không phụ thuộc vào chiều cao PCCC của nhà.
@@ -2894,6 +2899,7 @@ Sảnh thang máy chữa cháy là một khoang đệm bảo đảm tất cả c
 
 ## DANH MỤC PHỤ LỤC KỸ THUẬT CHUYÊN ĐỀ (MODULAR ANNEXES)
 
+Toàn bộ 9 Phụ lục kỹ thuật chuyên đề đã được module hóa thành các tệp độc lập nhằm tối ưu hóa tra cứu và thẩm tra thiết kế:
 Toàn bộ 9 Phụ lục kỹ thuật chuyên đề đã được module hóa thành các tệp độc lập nhằm tối ưu hóa tra cứu và thẩm tra thiết kế:
 
 - [📑 **PHỤ LỤC A:** Quy định bổ sung đối với một số nhóm nhà cụ thể](annexes/phu_luc_a_quy_dinh_bo_sung_nhom_nha_cu_the.md#phu-luc-a)
