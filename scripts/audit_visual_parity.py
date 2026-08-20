@@ -18,13 +18,15 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
 def audit_visual_parity(legal_docs_root: Path = Path("legal_docs")) -> int:
-    all_md_files = sorted(list(legal_docs_root.rglob("*.md")))
+    all_md_files = sorted(legal_docs_root.rglob("*.md")) if legal_docs_root.exists() else []
     critical_issues = []
     warning_issues = []
+    audited_files_count = 0
 
     for md_path in all_md_files:
         if md_path.name in ("index.md", "dead_ends.md", "log.md", "README.md"):
             continue
+        audited_files_count += 1
 
         rel_path = md_path.relative_to(legal_docs_root)
         content = md_path.read_text(encoding="utf-8")
@@ -39,7 +41,7 @@ def audit_visual_parity(legal_docs_root: Path = Path("legal_docs")) -> int:
         for idx, l in enumerate(lines, 1):
             if l.strip() == "_CHÚ THÍCH:_" and idx < len(lines):
                 next_lines = [lines[j].strip() for j in range(idx, min(len(lines), idx+3)) if lines[j].strip()]
-                if len(next_lines) > 1 and next_lines[1] == "_CHÚ THÍCH:_":
+                if len(next_lines) > 0 and next_lines[0] == "_CHÚ THÍCH:_":
                     critical_issues.append(f"[{rel_path}:L{idx}] DUPLICATE_NOTE_HEADER: Consecutive _CHÚ THÍCH:_")
 
         # 3. Check trapped table footnotes in table rows
@@ -54,16 +56,12 @@ def audit_visual_parity(legal_docs_root: Path = Path("legal_docs")) -> int:
                 critical_issues.append(f"[{rel_path}:L{idx}] CONCATENATED_INLINE_DASHES: {stripped[:80]}...")
 
         # 5. Check for unformatted in-table superscripts (e.g. REI 60 1) )
-        in_table = False
         for idx, l in enumerate(lines, 1):
             stripped = l.strip()
             if stripped.startswith("|") and stripped.endswith("|"):
-                in_table = True
-                raw_sup = re.findall(r"\b([A-Z]{1,4}\s*\d+|\d+)\s+([1-9]\))(?!\<|/sup)", stripped)
+                raw_sup = re.findall(r"\b([A-Z]{1,4}\s*\d+|\d+)\s+([1-9]\))(?!<|/sup)", stripped)
                 if raw_sup:
                     critical_issues.append(f"[{rel_path}:L{idx}] RAW_TABLE_SUPERSCRIPT: {raw_sup} in {stripped[:60]}...")
-            else:
-                in_table = False
 
         # 6. Check for unbulleted standard classification codes (LT1..4, BC1..3, SK1..3, ĐT1..4, K0..3)
         for idx, l in enumerate(lines, 1):
@@ -74,7 +72,7 @@ def audit_visual_parity(legal_docs_root: Path = Path("legal_docs")) -> int:
     print("=================================================================")
     print("   CCBA VISUAL & FOOTNOTE PARITY AUDIT GATE (GATE 4)             ")
     print("=================================================================")
-    print(f"Total Markdown Files Audited: {len(all_md_files)}")
+    print(f"Total Markdown Files Audited: {audited_files_count}")
     print(f"Critical Formatting Errors  : {len(critical_issues)}")
     print(f"Format Warnings             : {len(warning_issues)}")
     print("-----------------------------------------------------------------")

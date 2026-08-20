@@ -59,7 +59,12 @@ def strip_existing_anchors(text: str) -> str:
 def normalize_tvpl_formatting(text: str) -> str:
     """Normalize line wrapping in raw TVPL text."""
     text = re.sub(r"Điều\s*[\r\n]+\s*(\d+\.)", r"Điều \1", text, flags=re.IGNORECASE)
-    text = re.sub(r"Chương\s*[\r\n]+\s*([I|V|X|L|C|D|M]+)", r"Chương \1", text, flags=re.IGNORECASE)
+    text = re.sub(
+        r"Chương\s*[\r\n]+\s*([IVXLCDM]+)",
+        r"Chương \1",
+        text,
+        flags=re.IGNORECASE,
+    )
     text = re.sub(r"Mục\s*[\r\n]+\s*(\d+\.)", r"Mục \1", text, flags=re.IGNORECASE)
     return text
 
@@ -136,8 +141,8 @@ def clean_table_footnotes_and_superscripts(text: str) -> str:
             def _superscript_marker(m: re.Match) -> str:
                 return f"{m.group(1)}<sup>{m.group(2)}</sup>"
 
-            line = re.sub(r"(\b(?:EIW|REI|EI|E|RE|R|DN|\d+)\s*(?:\d+)?\s+)([1-9]\))(?!\<|/sup)", _superscript_marker, line)
-            line = re.sub(r"([a-zA-ZÀ-ỹ]+)\s+([1-9]\))(?!\<|/sup)", r"\1<sup>\2</sup>", line)
+            line = re.sub(r"(\b(?:EIW|REI|EI|E|RE|R|DN|\d+)\s*(?:\d+)?)\s+([1-9]\))(?!<|/sup)", _superscript_marker, line)
+            line = re.sub(r"([a-zA-ZÀ-ỹ]+)\s+([1-9]\))(?!<|/sup)", r"\1<sup>\2</sup>", line)
             cleaned_t_lines.append(line)
 
         res = cleaned_t_lines
@@ -183,7 +188,7 @@ def normalize_notes_and_lists(text: str) -> str:
 
     # 1. Fix 1.4.9 definitions (Bằng khoảng cách..., Bằng một nửa...)
     text = re.sub(
-        r"(####\s*<a id=\"muc-1-4-9\"[^\n]+\n+Chiều cao PCCC của nhà[^\n]+\n+)\s*(Bằng khoảng cách lớn nhất[^\n]+)\n+\s*(Bằng một nửa tổng khoảng cách[^\n]+)",
+        r'(####\s*<a id="muc-1-4-9"[^\n]+\n+Chiều cao PCCC của nhà[^\n]+\n+)\s*(Bằng khoảng cách lớn nhất[^\n]+)\n+\s*(Bằng một nửa tổng khoảng cách[^\n]+)',
         r"\1- \2\n\n- \3",
         text,
     )
@@ -197,6 +202,7 @@ def normalize_notes_and_lists(text: str) -> str:
     )
 
     # 3. Deduplicate _CHÚ THÍCH:_ headers in multi-note blocks
+    text = re.sub(r"(?m)^\s*_CHÚ THÍCH:_\s*\n+(?=\s*-\s+\*\*CHÚ THÍCH\s+[2-9])", "", text)
     text = re.sub(r"(\n-\s+\*\*CHÚ THÍCH\s+\d+:?\*\*[^\n]+\n+)\s*_CHÚ THÍCH:_\n+(?=-\s+\*\*CHÚ THÍCH)", r"\1", text)
 
     # 4. Standardize material classification and hazard level codes
@@ -259,6 +265,7 @@ def inject_semantic_anchors(text: str, profile: Optional[DocProfile] = None) -> 
         # Clean multiple bullets (e.g. '- - ' -> '- ')
         if re.match(r"^([-*]\s+)+", stripped):
             stripped = re.sub(r"^([-*]\s+)+", "- ", stripped)
+            line = stripped
 
         # 1. Match Law Article: 'Điều 1. Phạm vi'
         dieu_match = profile.dieu_pattern.match(stripped)
@@ -291,7 +298,8 @@ def inject_semantic_anchors(text: str, profile: Optional[DocProfile] = None) -> 
 
 def generate_bundle_ast_and_qa(
     bundle_dir: Path,
-    doc_title: Optional[str] = None
+    doc_title: Optional[str] = None,
+    cong_bao_number: Optional[str] = None,
 ) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
     """Extract deduplicated AST and QA Benchmark across Active Core and Modular Annexes."""
     core_files = [f for f in bundle_dir.glob("*.md") if f.name not in ("index.md", "dead_ends.md", "log.md")]
@@ -339,16 +347,19 @@ def generate_bundle_ast_and_qa(
                 if any(k in anc_id.lower() for k in ["chua-chay", "cuu-nan", "cap-nuoc", "muc-5", "muc-6", "phu-luc-i"]):
                     jurisdiction = "CONG_AN"
 
-                clauses.append({
+                clause_item: Dict[str, Any] = {
                     "clause_id": anc_id,
                     "anchor": anc_id,
                     "title": clean_title,
                     "source_file": rel_path,
                     "jurisdiction": jurisdiction,
-                    "cong_bao_number": "373/2026",
                     "line_start": idx,
                     "line_end": idx,
-                })
+                }
+                if cong_bao_number:
+                    clause_item["cong_bao_number"] = cong_bao_number
+
+                clauses.append(clause_item)
 
                 qa_list.append({
                     "question": f"Quy định tại {clean_title} của {title_prefix} là gì?",
@@ -375,19 +386,28 @@ def process_okf_bundle(bundle_dir: Path, doc_type: Optional[str] = None) -> dict
         norm_text = normalize_notes_and_lists(raw_text)
         if norm_text != raw_text:
             md_path.write_text(norm_text, encoding="utf-8")
-    # Extract document title from metadata
+    # Extract document title and metadata
     meta_path = bundle_dir / "metadata.yaml"
     doc_title = bundle_dir.name
+    cong_bao_num = None
     if meta_path.exists():
         try:
             with open(meta_path, "r", encoding="utf-8") as f:
                 meta = yaml.safe_load(f)
-                if isinstance(meta, dict) and meta.get("title"):
-                    doc_title = meta["title"].split("—")[0].strip()
+                if isinstance(meta, dict):
+                    if meta.get("title"):
+                        doc_title = meta["title"].split("—")[0].strip()
+                    cong_bao_num = meta.get("cong_bao_number") or (
+                        meta.get("pdf_source", {}).get("cong_bao")
+                        if isinstance(meta.get("pdf_source"), dict)
+                        else None
+                    )
         except Exception:
             pass
 
-    clauses, qa_benchmark = generate_bundle_ast_and_qa(bundle_dir, doc_title=doc_title)
+    clauses, qa_benchmark = generate_bundle_ast_and_qa(
+        bundle_dir, doc_title=doc_title, cong_bao_number=cong_bao_num
+    )
 
     # Write clauses.json
     clauses_file = bundle_dir / "clauses.json"
