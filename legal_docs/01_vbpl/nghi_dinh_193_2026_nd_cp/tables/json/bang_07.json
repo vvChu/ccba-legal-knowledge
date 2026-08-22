@@ -1,0 +1,129 @@
+{
+  "table_id": "bang_07",
+  "rows_count": 15,
+  "columns_count": 8,
+  "headers": [
+    "STT",
+    "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng",
+    "Khối lượng hoàn thành",
+    "Khối lượng hoàn thành",
+    "Khối lượng hoàn thành",
+    "Đơn giá theo HĐ/PLHĐ (đồng)",
+    "Giá trị đề nghị quyết toán (đồng)",
+    "Ghi chú"
+  ],
+  "records": [
+    {
+      "STT": "STT",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng",
+      "Khối lượng hoàn thành": "Quyết toán",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "Đơn giá theo HĐ/PLHĐ (đồng)",
+      "Giá trị đề nghị quyết toán (đồng)": "Giá trị đề nghị quyết toán (đồng)",
+      "Ghi chú": "Ghi chú"
+    },
+    {
+      "STT": "1",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "2",
+      "Khối lượng hoàn thành": "5",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "6",
+      "Giá trị đề nghị quyết toán (đồng)": "7 = 5*6",
+      "Ghi chú": "8"
+    },
+    {
+      "STT": "A",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "THEO HỢP ĐỒNG (HĐ)/ PHỤ LỤC HỢP ĐỒNG (PLHĐ)",
+      "Khối lượng hoàn thành": "",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "",
+      "Giá trị đề nghị quyết toán (đồng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "1",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "Trong HĐ ban đầu (bao gồm cả khối lượng tăng, giảm các công việc trong HĐ ban đầu)",
+      "Khối lượng hoàn thành": "",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "",
+      "Giá trị đề nghị quyết toán (đồng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "...",
+      "Khối lượng hoàn thành": "",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "",
+      "Giá trị đề nghị quyết toán (đồng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "2",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "Công việc phát sinh được bổ sung ngoài HĐ ban đầu theo quy định (nếu có)",
+      "Khối lượng hoàn thành": "",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "",
+      "Giá trị đề nghị quyết toán (đồng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "...",
+      "Khối lượng hoàn thành": "",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "",
+      "Giá trị đề nghị quyết toán (đồng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "B",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "ĐIỀU CHỈNH THEO QUY ĐỊNH CỦA NHÀ NƯỚC (THUẾ, PHÍ,...)",
+      "Khối lượng hoàn thành": "",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "",
+      "Giá trị đề nghị quyết toán (đồng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "...",
+      "Khối lượng hoàn thành": "",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "",
+      "Giá trị đề nghị quyết toán (đồng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "C",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "ĐIỀU CHỈNH THEO KẾT LUẬN CỦA CƠ QUAN CÓ THẨM QUYỀN (THANH TRA, KIỂM TOÁN NHÀ NƯỚC,...) trong trường hợp chưa giảm trừ (khối lượng, dự toán, thanh toán) trong quá trình thực hiện HĐ.",
+      "Khối lượng hoàn thành": "",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "",
+      "Giá trị đề nghị quyết toán (đồng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "...",
+      "Khối lượng hoàn thành": "",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "",
+      "Giá trị đề nghị quyết toán (đồng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "D",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "GIÁ TRỊ ĐIỀU CHỈNH GIÁ (Đối với các HĐ theo đơn giá điều chỉnh)",
+      "Khối lượng hoàn thành": "",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "",
+      "Giá trị đề nghị quyết toán (đồng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "TỔNG CỘNG (A+B+C+D)",
+      "Khối lượng hoàn thành": "",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "",
+      "Giá trị đề nghị quyết toán (đồng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "STT": "TỔNG CỘNG (LÀM TRÒN)",
+      "Tên công việc (gồm công việc, giai đoạn, bộ phận/hàng hóa/thiết bị/tư vấn/chi phí khác) theo hợp đồng": "TỔNG CỘNG (LÀM TRÒN)",
+      "Khối lượng hoàn thành": "",
+      "Đơn giá theo HĐ/PLHĐ (đồng)": "",
+      "Giá trị đề nghị quyết toán (đồng)": "",
+      "Ghi chú": ""
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿TT,Nội dung chi phí,Giá trị trước thuế,Thuế GTGT,Giá trị sau thuế,Ký hiệu
+[1],[2],[3],[4],[5],[6]
+1,Chi phí thực hiện sửa chữa (bao gồm chi phí nhà tạm),,,,GTHSC
+2,Chi phí khác (nếu có),,,,GKSC
+2.1,Chi phí lập dự toán,,,,
+2.2,Chi phí thẩm tra dự toán,,,,
+2.3,Chi phí tư vấn giám sát,,,,
+2.4,"Lập hồ sơ mời thầu, hồ sơ yêu cầu",,,,
+2.5,Chi phí thẩm định kết quả lựa chọn nhà thầu,,,,
+2.6,Chi phí đảm bảo an toàn giao thông,,,,
+…,…,,,,
+3,Chi phí dự phòng (nếu có),,,,
+,TỔNG CỘNG (1+2+3),,,,GSC

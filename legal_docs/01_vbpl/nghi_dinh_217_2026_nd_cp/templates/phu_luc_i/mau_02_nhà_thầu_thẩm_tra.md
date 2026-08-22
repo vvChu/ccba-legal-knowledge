@@ -14,23 +14,25 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 02. Bắt buộc đối với công trình phải thẩm tra theo quy định tại ____khoản 5 Điều 26 Luật Xây dựng năm 2025; các công trình khác khuyến khích thực hiện__
 
-__NHÀ THẦU THẨM TRA
-THIẾT KẾ XÂY DỰNG
+__NHÀ THẦU THẨM TRA  
+THIẾT KẾ XÂY DỰNG  
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
 ---------------__
 
 Số: ...
 
 *..., ngày ... tháng ... năm ...*
 
-__BÁO CÁO KẾT QUẢ THẨM TRA
-____THIẾT KẾ XÂY DỰNG1 ____*(tên công trình)* TRONG BÁO CÁO__
+ 
+
+__BÁO CÁO KẾT QUẢ THẨM TRA  
+____THIẾT KẾ XÂY DỰNG1 ____*(tên công trình)* TRONG BÁO CÁO__  
 __NGHIÊN CỨU KHẢ THI *(tên dự án...)*__
 
-Kính gửi: *(Cơ quan chuẩn bị dự án).*
+ Kính gửi: *(Cơ quan chuẩn bị dự án).*
 
 Căn cứ Luật Xây dựng ngày ... tháng .... năm 2025;
 
@@ -120,13 +122,17 @@ __CHỦ NHIỆM, CHỦ TRÌ THẨM TRA CỦA TỪNG BỘ MÔN THIẾT KẾ__
 
 *(Kết quả thẩm tra được bổ sung thêm một số nội dung khác nhằm đáp ứng yêu cầu thẩm tra của cơ quan chuẩn bị dự án và nhà thầu thẩm tra thiết kế xây dựng, việc đóng dấu thẩm tra tại các bản vẽ được thực hiện sau khi nhà thầu tư vấn thiết kế đã chỉnh sửa, hoàn thiện hồ sơ theo yêu cầu của nhà thầu thẩm tra thiết kế xây dựng).*
 
-__*Nơi nhận:*__
-- Như trên;
+ 
+
+__*Nơi nhận:*__  
+- Như trên;  
 - Lưu:..............
 
-__NHÀ THẦU THẨM TRA THIẾT KẾ__
-__XÂY DỰNG__
+__NHÀ THẦU THẨM TRA THIẾT KẾ__  
+__XÂY DỰNG__  
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*
+
+ 
 
 _________________________________
 

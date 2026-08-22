@@ -1,0 +1,19 @@
+{
+  "table_id": "bang_37",
+  "rows_count": 2,
+  "columns_count": 4,
+  "headers": [
+    "Chi phí trực tiếp (tỷ đồng)",
+    "≤ 2",
+    "2 ÷ ≤ 3",
+    "> 3"
+  ],
+  "records": [
+    {
+      "Chi phí trực tiếp (tỷ đồng)": "Định mức tỷ lệ chi phí không xác định được khối lượng từ thiết kế (%)",
+      "≤ 2": "6",
+      "2 ÷ ≤ 3": "4,5",
+      "> 3": "3"
+    }
+  ]
+}

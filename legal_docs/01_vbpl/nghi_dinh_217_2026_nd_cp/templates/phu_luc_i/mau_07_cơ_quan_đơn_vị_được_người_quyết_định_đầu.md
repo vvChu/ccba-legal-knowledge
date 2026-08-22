@@ -14,17 +14,19 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 07__
 
-__CƠ QUAN/ĐƠN VỊ ĐƯỢC NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ GIAO THẨM ĐỊNH
+__CƠ QUAN/ĐƠN VỊ ĐƯỢC NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ GIAO THẨM ĐỊNH  
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
 ---------------__
 
-Số: ................
+Số: ................  
 V/v thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án)*
 
 *..., ngày ... tháng ... năm ...*
+
+ 
 
 Kính gửi: *(Cơ quan chuẩn bị dự án).*
 
@@ -134,15 +136,17 @@ Các kiến nghị (nếu có).
 
 Yêu cầu sửa đổi, bổ sung, hoàn thiện (nếu có).
 
-Trên đây là thông báo của *(Cơ quan/Đơn vị được người quyết định đầu tư giao thẩm định)* về kết quả thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án)*. Đề nghị *(cơ quan chuẩn bị dự án)* nghiên cứu thực hiện theo quy định.
+Trên đây là thông báo của *(Cơ quan/Đơn vị được người quyết định đầu tư giao thẩm định)* về kết quả thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án)*. Đề nghị *(cơ quan chuẩn bị dự án)* nghiên cứu thực hiện theo quy định. 
 
-__*Nơi nhận:*__
-- Như trên;
-- ...;
-- ...;
+ 
+
+__*Nơi nhận:*__  
+- Như trên;  
+- ...;  
+- ...;  
 - Lưu:....
 
-__CƠ QUAN/ĐƠN VỊ THẨM ĐỊNH__
+__CƠ QUAN/ĐƠN VỊ THẨM ĐỊNH__  
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*
 
 _______________________________

@@ -31,7 +31,7 @@ root_dir = Path(__file__).resolve().parent.parent
 if str(root_dir) not in sys.path:
     sys.path.insert(0, str(root_dir))
 
-from scripts.gold_standard_processor import inject_semantic_anchors, generate_clauses_ast, generate_qa_benchmark
+from scripts.gold_standard_processor import inject_semantic_anchors, generate_bundle_ast_and_qa
 
 
 def normalize_clause_numbers(text: str) -> str:
@@ -353,14 +353,18 @@ usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC A
     print(f"  -> Created {len(created_templates)} Form Templates & Annexes in templates/")
 
     print("[4/5] Building Pure Normative Body Markdown...")
-    ch1_match = re.search(r"(?:^|\n)#*\s*__?\s*Chương\s+[I1]\b", cleaned_md, re.IGNORECASE)
-    ch1_pos = ch1_match.start() if ch1_match else 0
-    first_app_pos = app_matches[0].start() if app_matches else len(cleaned_md)
-    
-    body_raw = cleaned_md[ch1_pos:first_app_pos].strip()
+    # Find start of normative content (Chương I or Điều 1)
+    start_match = re.search(r"(?:^|\n)#*\s*__?\s*(?:Chương\s+[I1]\b|Điều\s+1\.)", cleaned_md, re.IGNORECASE)
+    start_pos = start_match.start() if start_match else 0
 
-    # Cut off Nơi nhận & trailing signature block
-    noi_nhan_split = re.split(r"(?:__\*?Nơi nhận:|\*Nơi nhận:)", body_raw, flags=re.IGNORECASE)
+    # Find start of appendices / templates / forms
+    app_cut_match = re.search(r"(?:^|\n)#*\s*__?\s*(?:Phụ\s+lục\s+[IVXLCDM0-9A-Z]+|PHỤ\s+LỤC\b|Mẫu\s+số\s+\d+)", cleaned_md[start_pos:], re.IGNORECASE)
+    first_app_pos = (start_pos + app_cut_match.start()) if app_cut_match else len(cleaned_md)
+
+    body_raw = cleaned_md[start_pos:first_app_pos].strip()
+
+    # Cut off Nơi nhận & trailing administrative signature blocks
+    noi_nhan_split = re.split(r"(?:__\*?\s*Nơi nhận\s*:|\*+Nơi nhận\s*:|\bNơi nhận\s*:|__KT\.\s+BỘ\s+TRƯỞNG|KT\.\s+BỘ\s+TRƯỞNG|__BỘ\s+TRƯỞNG\b|__THỨ\s+TRƯỞNG\b)", body_raw, flags=re.IGNORECASE)
     body_pure = noi_nhan_split[0].strip()
 
     # Normalize headings
@@ -390,29 +394,34 @@ usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC A
     # Metadata Frontmatter
     doc_num = doc_registry_meta.get("document_number", "Đang cập nhật")
     doc_title = doc_registry_meta.get("title", bundle_dir.name)
-    issued_date = doc_registry_meta.get("issued_date", "2026-06-19")
+    doc_type = doc_registry_meta.get("type", "Văn bản quy phạm pháp luật")
+    issued_by = doc_registry_meta.get("issued_by", "Bộ Xây dựng")
+    issued_date = doc_registry_meta.get("issued_date", "2026-06-30")
     effective_date = doc_registry_meta.get("effective_date", "2026-07-01")
-    signer = doc_registry_meta.get("signer", "Phạm Gia Túc")
+    signer = doc_registry_meta.get("signer", "Đang cập nhật")
     pdf_path = doc_registry_meta.get("pdf_path", f"{bundle_dir.name}.pdf")
     pdf_sha256 = doc_registry_meta.get("pdf_sha256", "verified")
+
+    legal_basis_str = yaml.dump({"legal_basis": legal_basis_graph}, allow_unicode=True, indent=2).strip() if legal_basis_graph else "legal_basis: []"
 
     frontmatter = f"""---
 id: "{bundle_dir.name}"
 document_number: "{doc_num}"
 title: "{doc_title}"
-issued_by: "Chính phủ"
+issued_by: "{issued_by}"
 signer: "{signer}"
 issued_date: "{issued_date}"
 effective_date: "{effective_date}"
 status: "active"
 pdf_anchor: "./{Path(pdf_path).name}"
+{legal_basis_str}
 ---
 
 # {doc_num.upper()}
 ## {doc_title.upper()}
 
 > [!NOTE]
-> **Cơ quan ban hành:** Chính phủ (Người ký: {signer}).  
+> **Cơ quan ban hành:** {issued_by} (Người ký: {signer}).  
 > **Ngày ban hành:** {issued_date} | **Hiệu lực:** {effective_date}.  
 > **Mỏ neo PDF Công báo (PDF Anchor of Trust):** [`{Path(pdf_path).name}`](./{Path(pdf_path).name}) *(SHA-256: `{pdf_sha256}`)*.
 
@@ -427,7 +436,11 @@ pdf_anchor: "./{Path(pdf_path).name}"
     print(f"  -> Wrote Pure Normative Body: {target_md_file.name} ({len(final_md_text.splitlines())} lines)")
 
     print("[5/5] Generating AST & QA Benchmark & Updating Metadata...")
-    clauses = generate_clauses_ast(final_md_text)
+    clauses, qa_benchmark = generate_bundle_ast_and_qa(
+        bundle_dir=bundle_dir,
+        doc_title=doc_title,
+        cong_bao_number=doc_registry_meta.get("cong_bao_number"),
+    )
     with open(bundle_dir / "clauses.json", "w", encoding="utf-8") as f:
         json.dump(clauses, f, ensure_ascii=False, indent=2)
         
@@ -436,7 +449,7 @@ pdf_anchor: "./{Path(pdf_path).name}"
         "document_number": doc_num,
         "title": doc_title,
         "type": doc_registry_meta.get("type", "Nghị định"),
-        "issued_by": "Chính phủ",
+        "issued_by": doc_registry_meta.get("issued_by", "Bộ Xây dựng"),
         "signer": signer,
         "issued_date": issued_date,
         "effective_date": effective_date,
@@ -450,7 +463,6 @@ pdf_anchor: "./{Path(pdf_path).name}"
     with open(bundle_dir / "metadata.yaml", "w", encoding="utf-8") as f:
         yaml.dump(metadata_obj, f, allow_unicode=True, sort_keys=False, indent=2)
 
-    qa_benchmark = generate_qa_benchmark(final_md_text, metadata_obj)
     with open(bundle_dir / "qa_benchmark.json", "w", encoding="utf-8") as f:
         json.dump(qa_benchmark, f, ensure_ascii=False, indent=2)
 

@@ -1,0 +1,67 @@
+{
+  "table_id": "bang_07",
+  "rows_count": 12,
+  "columns_count": 3,
+  "headers": [
+    "Số TT",
+    "Nội dung",
+    "Ký hiệu"
+  ],
+  "records": [
+    {
+      "Số TT": "I",
+      "Nội dung": "Chi phí quản lý dự án:",
+      "Ký hiệu": "GQLDA"
+    },
+    {
+      "Số TT": "II",
+      "Nội dung": "Các khoản chi phí tư vấn do chủ đầu tư, BQLDA tự thực hiện:",
+      "Ký hiệu": "GTV"
+    },
+    {
+      "Số TT": "1",
+      "Nội dung": "......",
+      "Ký hiệu": ""
+    },
+    {
+      "Số TT": "...",
+      "Nội dung": "......",
+      "Ký hiệu": ""
+    },
+    {
+      "Số TT": "III",
+      "Nội dung": "Chi khác do chủ đầu tư, BQLDA được phép thực hiện theo quy định của pháp luật (nếu có):",
+      "Ký hiệu": "GK"
+    },
+    {
+      "Số TT": "1",
+      "Nội dung": "......",
+      "Ký hiệu": ""
+    },
+    {
+      "Số TT": "...",
+      "Nội dung": "......",
+      "Ký hiệu": ""
+    },
+    {
+      "Số TT": "IV",
+      "Nội dung": "Dự kiến những công việc thuộc chi phí QLDA cần phải thuê tư vấn (nếu có):",
+      "Ký hiệu": "GT"
+    },
+    {
+      "Số TT": "1",
+      "Nội dung": "......",
+      "Ký hiệu": ""
+    },
+    {
+      "Số TT": "...",
+      "Nội dung": "......",
+      "Ký hiệu": ""
+    },
+    {
+      "Số TT": "V",
+      "Nội dung": "Tổng mức kinh phí do chủ đầu tư, BQLDA được sử dụng (V = I + II + III - IV) GQLDA (CĐT) = GQLDA + GTV + GK - GT Trong đó: - Chủ đầu tư sử dụng:                 - BQLDA sử dụng:",
+      "Ký hiệu": "GQLDA (CĐT)"
+    }
+  ]
+}

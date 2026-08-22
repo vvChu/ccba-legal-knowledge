@@ -1,0 +1,100 @@
+{
+  "table_id": "bang_27",
+  "rows_count": 18,
+  "columns_count": 6,
+  "headers": [
+    "STT",
+    "Nơi cấp",
+    "Ký hiệu",
+    "STT",
+    "Nơi cấp",
+    "Ký hiệu"
+  ],
+  "records": [
+    {
+      "STT": "18",
+      "Nơi cấp": "Lâm Đồng",
+      "Ký hiệu": "LAD"
+    },
+    {
+      "STT": "19",
+      "Nơi cấp": "Lạng Sơn",
+      "Ký hiệu": "LAS"
+    },
+    {
+      "STT": "20",
+      "Nơi cấp": "Lào Cai",
+      "Ký hiệu": "LCA"
+    },
+    {
+      "STT": "21",
+      "Nơi cấp": "Nghệ An",
+      "Ký hiệu": "NGA"
+    },
+    {
+      "STT": "22",
+      "Nơi cấp": "Ninh Bình",
+      "Ký hiệu": "NIB"
+    },
+    {
+      "STT": "23",
+      "Nơi cấp": "Phú Thọ",
+      "Ký hiệu": "PHT"
+    },
+    {
+      "STT": "24",
+      "Nơi cấp": "Quảng Ngãi",
+      "Ký hiệu": "QNG"
+    },
+    {
+      "STT": "25",
+      "Nơi cấp": "Quảng Ninh",
+      "Ký hiệu": "QNI"
+    },
+    {
+      "STT": "26",
+      "Nơi cấp": "Quảng Trị",
+      "Ký hiệu": "QTR"
+    },
+    {
+      "STT": "27",
+      "Nơi cấp": "Sơn La",
+      "Ký hiệu": "SOL"
+    },
+    {
+      "STT": "28",
+      "Nơi cấp": "Tây Ninh",
+      "Ký hiệu": "TAN"
+    },
+    {
+      "STT": "29",
+      "Nơi cấp": "Thái Nguyên",
+      "Ký hiệu": "THN"
+    },
+    {
+      "STT": "30",
+      "Nơi cấp": "Thanh Hóa",
+      "Ký hiệu": "THH"
+    },
+    {
+      "STT": "31",
+      "Nơi cấp": "Huế",
+      "Ký hiệu": "HUE"
+    },
+    {
+      "STT": "32",
+      "Nơi cấp": "TP. Hồ Chí Minh",
+      "Ký hiệu": "HCM"
+    },
+    {
+      "STT": "33",
+      "Nơi cấp": "Tuyên Quang",
+      "Ký hiệu": "TUQ"
+    },
+    {
+      "STT": "34",
+      "Nơi cấp": "Vĩnh Long",
+      "Ký hiệu": "VIL"
+    }
+  ]
+}

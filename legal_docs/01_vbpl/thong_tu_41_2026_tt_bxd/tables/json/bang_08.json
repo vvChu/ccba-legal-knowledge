@@ -1,0 +1,29 @@
+{
+  "table_id": "bang_08",
+  "rows_count": 2,
+  "columns_count": 9,
+  "headers": [
+    "TT",
+    "Số hồ sơ",
+    "Người nhập khẩu",
+    "Địa chỉ, số điện thoại",
+    "Tên hàng hóa",
+    "Số lượng",
+    "Xuất xứ",
+    "Lý do không đạt",
+    "Các biện pháp đã được xử lý"
+  ],
+  "records": [
+    {
+      "TT": ".....",
+      "Số hồ sơ": "",
+      "Người nhập khẩu": "",
+      "Địa chỉ, số điện thoại": "",
+      "Tên hàng hóa": "",
+      "Số lượng": "",
+      "Xuất xứ": "",
+      "Lý do không đạt": "",
+      "Các biện pháp đã được xử lý": ""
+    }
+  ]
+}

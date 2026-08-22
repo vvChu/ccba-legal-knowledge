@@ -1,132 +1,457 @@
 [
   {
-    "question": "Điều 1 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 1. Phạm vi điều chỉnh.",
-    "anchor": "dieu-1"
+    "question": "Quy định tại Điều 1. Phạm vi điều chỉnh của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 1. Phạm vi điều chỉnh (thong_tu_36_2026_tt_bxd.md#dieu-1).",
+    "anchor": "dieu-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 2 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 2. Đối tượng áp dụng.",
-    "anchor": "dieu-2"
+    "question": "Quy định tại Điều 2. Đối tượng áp dụng của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 2. Đối tượng áp dụng (thong_tu_36_2026_tt_bxd.md#dieu-2).",
+    "anchor": "dieu-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 3 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 3. Xác định sơ bộ tổng mức đầu tư xây dựng.",
-    "anchor": "dieu-3"
+    "question": "Quy định tại Điều 3. Xác định sơ bộ tổng mức đầu tư xây dựng của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 3. Xác định sơ bộ tổng mức đầu tư xây dựng (thong_tu_36_2026_tt_bxd.md#dieu-3).",
+    "anchor": "dieu-3",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 4 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 4. Xác định tổng mức đầu tư xây dựng.",
-    "anchor": "dieu-4"
+    "question": "Quy định tại Điều 4. Xác định tổng mức đầu tư xây dựng của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 4. Xác định tổng mức đầu tư xây dựng (thong_tu_36_2026_tt_bxd.md#dieu-4).",
+    "anchor": "dieu-4",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 5 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 5. Điều chỉnh tổng mức đầu tư xây dựng.",
-    "anchor": "dieu-5"
+    "question": "Quy định tại 1.** Tổng mức đầu tư xây dựng bao gồm các khoản mục chi phí bồi thường, hỗ trợ và tái định cư (nếu có); chi phí xây dựng; chi phí thiết bị (nếu có); chi phí quản lý dự án; chi phí tư vấn xây dựng; chi phí khác và chi phí dự phòng. Nội dung các khoản mục chi phí được quy định tại khoản 1 Điều 5 Nghị định số 206/2026/NĐ-CP và một số quy định cụ thể tại các khoản 2, 3, 4, 5, 6 và 7 Điều này. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.** Tổng mức đầu tư xây dựng bao gồm các khoản mục chi phí bồi thường, hỗ trợ và tái định cư (nếu có); chi phí xây dựng; chi phí thiết bị (nếu có); chi phí quản lý dự án; chi phí tư vấn xây dựng; chi phí khác và chi phí dự phòng. Nội dung các khoản mục chi phí được quy định tại khoản 1 Điều 5 Nghị định số 206/2026/NĐ-CP và một số quy định cụ thể tại các khoản 2, 3, 4, 5, 6 và 7 Điều này. (thong_tu_36_2026_tt_bxd.md#dieu-4-khoan-1).",
+    "anchor": "dieu-4-khoan-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 6 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 6. Xác định, điều chỉnh dự toán xây dựng công trình.",
-    "anchor": "dieu-6"
+    "question": "Quy định tại 2.** Chi phí xây dựng được quy định tại điểm b khoản 1 Điều 5 Nghị định số 206/2026/NĐ-CP gồm chi phí xây dựng các công trình, hạng mục công trình của dự án; chi phí xây dựng công trình, hạng mục công trình xây dựng tạm, phụ trợ phục vụ thi công; chi phí phá dỡ các công trình xây dựng không thuộc phạm vi của công tác phá dỡ giải phóng mặt bằng đã được xác định trong chi phí bồi thường, hỗ trợ và tái định cư. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.** Chi phí xây dựng được quy định tại điểm b khoản 1 Điều 5 Nghị định số 206/2026/NĐ-CP gồm chi phí xây dựng các công trình, hạng mục công trình của dự án; chi phí xây dựng công trình, hạng mục công trình xây dựng tạm, phụ trợ phục vụ thi công; chi phí phá dỡ các công trình xây dựng không thuộc phạm vi của công tác phá dỡ giải phóng mặt bằng đã được xác định trong chi phí bồi thường, hỗ trợ và tái định cư. (thong_tu_36_2026_tt_bxd.md#dieu-4-khoan-2).",
+    "anchor": "dieu-4-khoan-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 7 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 7. Xác định, điều chỉnh dự toán gói thầu xây dựng.",
-    "anchor": "dieu-7"
+    "question": "Quy định tại 3.** Chi phí quản lý dự án được quy định tại điểm d khoản 1 Điều 5 Nghị định số 206/2026/NĐ-CP để tổ chức quản lý việc thực hiện và thực hiện các công việc sau: của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 3.** Chi phí quản lý dự án được quy định tại điểm d khoản 1 Điều 5 Nghị định số 206/2026/NĐ-CP để tổ chức quản lý việc thực hiện và thực hiện các công việc sau: (thong_tu_36_2026_tt_bxd.md#dieu-4-khoan-3).",
+    "anchor": "dieu-4-khoan-3",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 8 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 8. Xác định, điều chỉnh dự toán công việc xây dựng.",
-    "anchor": "dieu-8"
+    "question": "Quy định tại 4.** Chi phí tư vấn xây dựng được quy định tại điểm đ khoản 1 Điều 5 Nghị định số 206/2026/NĐ-CP gồm: của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 4.** Chi phí tư vấn xây dựng được quy định tại điểm đ khoản 1 Điều 5 Nghị định số 206/2026/NĐ-CP gồm: (thong_tu_36_2026_tt_bxd.md#dieu-4-khoan-4).",
+    "anchor": "dieu-4-khoan-4",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 9 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 9. Xác định chi phí đầu tư xây dựng đối với dự án, công trình khẩn cấp, cấp bách và dự án đầu tư công đặc biệt.",
-    "anchor": "dieu-9"
+    "question": "Quy định tại 5.** Chi phí khác được quy định tại điểm e khoản 1 Điều 5 Nghị định số 206/2026/NĐ-CP gồm các chi phí: rà phá bom mìn, vật nổ; di chuyển máy, thiết bị thi công đặc chủng đến và ra khỏi công trường; chi phí đảm bảo an toàn giao thông phục vụ thi công; bảo trì các công trình giao thông hiện hữu trong quá trình cải tạo, nâng cấp; hoàn trả hạ tầng kỹ thuật do bị ảnh hưởng khi thi công xây dựng; hệ thống cấp điện, khí nén, hệ thống cấp nước tại hiện trường; bảo hiểm công trình trong thời gian xây dựng; đăng kiểm chất lượng quốc tế (nếu có); kiểm toán, thẩm tra, phê duyệt quyết toán vốn đầu tư; công tác kiểm tra của người quyết định đầu tư về việc thực hiện dự án đầu tư xây dựng của chủ đầu tư; kiểm tra công tác nghiệm thu trong quá trình thi công xây dựng và khi nghiệm thu hoàn thành hạng mục công trình, công trình của cơ quan chuyên môn về xây dựng hoặc Hội đồng kiểm tra nhà nước về công tác nghiệm thu công trình xây dựng; nghiên cứu khoa học công nghệ, áp dụng, sử dụng vật liệu mới liên quan đến dự án; vốn lưu động ban đầu đối với dự án đầu tư xây dựng nhằm mục đích kinh doanh, lãi vay trong thời gian xây dựng (nếu có); quá trình chạy thử không tải và có tải dây chuyền công nghệ, sản xuất theo quy trình trước khi bàn giao (trừ giá trị sản phẩm thu hồi được); giải quyết tranh chấp hợp đồng xây dựng, hòa giải, tư vấn pháp lý, trọng tài, Ban xử lý tranh chấp (nếu có); Ban đơn giá xây dựng công trình (nếu có); quản lý, vận hành, bảo trì công trình xây dựng của chủ đầu tư trong trường hợp đã thực hiện nghiệm thu công trình theo quy định nhưng chưa bàn giao được công trình cho chủ sở hữu hoặc chủ quản lý, sử dụng công trình (đối với dự án đầu tư thực hiện theo hình thức đầu tư công); các khoản thuế tài nguyên, phí và lệ phí theo quy định; và các chi phí cần thiết khác để thực hiện dự án đầu tư xây dựng không thuộc khoản mục chi phí bồi thường, hỗ trợ và tái định cư, chi phí xây dựng, chi phí thiết bị, chi phí quản lý dự án, chi phí tư vấn xây dựng. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 5.** Chi phí khác được quy định tại điểm e khoản 1 Điều 5 Nghị định số 206/2026/NĐ-CP gồm các chi phí: rà phá bom mìn, vật nổ; di chuyển máy, thiết bị thi công đặc chủng đến và ra khỏi công trường; chi phí đảm bảo an toàn giao thông phục vụ thi công; bảo trì các công trình giao thông hiện hữu trong quá trình cải tạo, nâng cấp; hoàn trả hạ tầng kỹ thuật do bị ảnh hưởng khi thi công xây dựng; hệ thống cấp điện, khí nén, hệ thống cấp nước tại hiện trường; bảo hiểm công trình trong thời gian xây dựng; đăng kiểm chất lượng quốc tế (nếu có); kiểm toán, thẩm tra, phê duyệt quyết toán vốn đầu tư; công tác kiểm tra của người quyết định đầu tư về việc thực hiện dự án đầu tư xây dựng của chủ đầu tư; kiểm tra công tác nghiệm thu trong quá trình thi công xây dựng và khi nghiệm thu hoàn thành hạng mục công trình, công trình của cơ quan chuyên môn về xây dựng hoặc Hội đồng kiểm tra nhà nước về công tác nghiệm thu công trình xây dựng; nghiên cứu khoa học công nghệ, áp dụng, sử dụng vật liệu mới liên quan đến dự án; vốn lưu động ban đầu đối với dự án đầu tư xây dựng nhằm mục đích kinh doanh, lãi vay trong thời gian xây dựng (nếu có); quá trình chạy thử không tải và có tải dây chuyền công nghệ, sản xuất theo quy trình trước khi bàn giao (trừ giá trị sản phẩm thu hồi được); giải quyết tranh chấp hợp đồng xây dựng, hòa giải, tư vấn pháp lý, trọng tài, Ban xử lý tranh chấp (nếu có); Ban đơn giá xây dựng công trình (nếu có); quản lý, vận hành, bảo trì công trình xây dựng của chủ đầu tư trong trường hợp đã thực hiện nghiệm thu công trình theo quy định nhưng chưa bàn giao được công trình cho chủ sở hữu hoặc chủ quản lý, sử dụng công trình (đối với dự án đầu tư thực hiện theo hình thức đầu tư công); các khoản thuế tài nguyên, phí và lệ phí theo quy định; và các chi phí cần thiết khác để thực hiện dự án đầu tư xây dựng không thuộc khoản mục chi phí bồi thường, hỗ trợ và tái định cư, chi phí xây dựng, chi phí thiết bị, chi phí quản lý dự án, chi phí tư vấn xây dựng. (thong_tu_36_2026_tt_bxd.md#dieu-4-khoan-5).",
+    "anchor": "dieu-4-khoan-5",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 10 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 10. Quản lý định mức xây dựng.",
-    "anchor": "dieu-10"
+    "question": "Quy định tại 6.** Chi phí dự phòng gồm chi phí dự phòng cho khối lượng, công việc phát sinh và chi phí dự phòng cho yếu tố trượt giá trong thời gian thực hiện dự án. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.** Chi phí dự phòng gồm chi phí dự phòng cho khối lượng, công việc phát sinh và chi phí dự phòng cho yếu tố trượt giá trong thời gian thực hiện dự án. (thong_tu_36_2026_tt_bxd.md#dieu-4-khoan-6).",
+    "anchor": "dieu-4-khoan-6",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 11 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 11. Quản lý giá xây dựng và giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng.",
-    "anchor": "dieu-11"
+    "question": "Quy định tại 7.** Tổng mức đầu tư xây dựng được xác định theo phương pháp hướng dẫn tại phần II Phụ lục I Thông tư này. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 7.** Tổng mức đầu tư xây dựng được xác định theo phương pháp hướng dẫn tại phần II Phụ lục I Thông tư này. (thong_tu_36_2026_tt_bxd.md#dieu-4-khoan-7).",
+    "anchor": "dieu-4-khoan-7",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 12 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 12. Xác định giá xây dựng công trình.",
-    "anchor": "dieu-12"
+    "question": "Quy định tại Điều 5. Điều chỉnh tổng mức đầu tư xây dựng của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 5. Điều chỉnh tổng mức đầu tư xây dựng (thong_tu_36_2026_tt_bxd.md#dieu-5).",
+    "anchor": "dieu-5",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 13 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 13. Chỉ số giá xây dựng.",
-    "anchor": "dieu-13"
+    "question": "Quy định tại 1.** Tổng mức đầu tư xây dựng đã phê duyệt được điều chỉnh theo quy định tại điểm b khoản 5 Điều 75 Luật Xây dựng. Việc điều chỉnh tổng mức đầu tư xây dựng thực hiện theo quy định khoản 2 Điều 10 Nghị định số 206/2026/NĐ-CP và một số quy định cụ thể tại khoản 2 Điều này. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.** Tổng mức đầu tư xây dựng đã phê duyệt được điều chỉnh theo quy định tại điểm b khoản 5 Điều 75 Luật Xây dựng. Việc điều chỉnh tổng mức đầu tư xây dựng thực hiện theo quy định khoản 2 Điều 10 Nghị định số 206/2026/NĐ-CP và một số quy định cụ thể tại khoản 2 Điều này. (thong_tu_36_2026_tt_bxd.md#dieu-5-khoan-1).",
+    "anchor": "dieu-5-khoan-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 14 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 14. Xác định chi phí tư vấn xây dựng.",
-    "anchor": "dieu-14"
+    "question": "Quy định tại 2.** Trường hợp dự án điều chỉnh khi đã triển khai các công việc thuộc giai đoạn thực hiện dự án theo quy định tại Nghị định số 217/2026/NĐ-CP quy định chi tiết một số điều của Luật Xây dựng về quản lý hoạt động xây dựng, chủ đầu tư thực hiện xác định tổng mức đầu tư xây dựng điều chỉnh như sau: của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.** Trường hợp dự án điều chỉnh khi đã triển khai các công việc thuộc giai đoạn thực hiện dự án theo quy định tại Nghị định số 217/2026/NĐ-CP quy định chi tiết một số điều của Luật Xây dựng về quản lý hoạt động xây dựng, chủ đầu tư thực hiện xác định tổng mức đầu tư xây dựng điều chỉnh như sau: (thong_tu_36_2026_tt_bxd.md#dieu-5-khoan-2).",
+    "anchor": "dieu-5-khoan-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 15 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 15. Kiểm tra việc quản lý chi phí đầu tư xây dựng.",
-    "anchor": "dieu-15"
+    "question": "Quy định tại Điều 6. Xác định, điều chỉnh dự toán xây dựng công trình của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 6. Xác định, điều chỉnh dự toán xây dựng công trình (thong_tu_36_2026_tt_bxd.md#dieu-6).",
+    "anchor": "dieu-6",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Điều 16 quy định về nội dung gì?",
-    "answer": "Chi tiết tại Điều 16. Hiệu lực thi hành.",
-    "anchor": "dieu-16"
+    "question": "Quy định tại 1.** Dự toán xây dựng công trình được xác định theo quy định tại Điều 12 Nghị định số 206/2026/NĐ-CP và phương pháp hướng dẫn tại Mục 1 Phụ lục II Thông tư này. Các khoản mục chi phí trong dự toán xây dựng công trình gồm: chi phí xây dựng, chi phí thiết bị, chi phí quản lý dự án, chi phí tư vấn xây dựng, chi phí khác và chi phí dự phòng. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.** Dự toán xây dựng công trình được xác định theo quy định tại Điều 12 Nghị định số 206/2026/NĐ-CP và phương pháp hướng dẫn tại Mục 1 Phụ lục II Thông tư này. Các khoản mục chi phí trong dự toán xây dựng công trình gồm: chi phí xây dựng, chi phí thiết bị, chi phí quản lý dự án, chi phí tư vấn xây dựng, chi phí khác và chi phí dự phòng. (thong_tu_36_2026_tt_bxd.md#dieu-6-khoan-1).",
+    "anchor": "dieu-6-khoan-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Mục 3.1 quy định về nội dung gì?",
-    "answer": "Chi tiết tại 3.1 Chi phí thiết bị công trình được xác định theo quy định tại tiết 3.1.1, tiết 3.1.2, tiết 3.1.3 phần II Phụ lục này. Việc lựa chọn phương pháp xác định được thuyết minh trong hồ sơ xác định tổng mức đầu tư, bảo đảm phù hợp với mức độ chi tiết của hồ sơ thiết kế, tương ứng với phạm vi, nội dung của thiết kế, nội dung thuyết minh của dự án và các yêu cầu thực tế triển khai của dự án..",
-    "anchor": "muc-3-1"
+    "question": "Quy định tại 2.** Chi phí xây dựng trong dự toán xây dựng công trình được xác định theo quy định tại khoản 2 Điều 12 Nghị định số 206/2026/NĐ-CP và phương pháp hướng dẫn tại Phụ lục III Thông tư này. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.** Chi phí xây dựng trong dự toán xây dựng công trình được xác định theo quy định tại khoản 2 Điều 12 Nghị định số 206/2026/NĐ-CP và phương pháp hướng dẫn tại Phụ lục III Thông tư này. (thong_tu_36_2026_tt_bxd.md#dieu-6-khoan-2).",
+    "anchor": "dieu-6-khoan-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Mục 10.000 quy định về nội dung gì?",
-    "answer": "Chi tiết tại 10.000 ÷ ≤ ### 20.00 0.",
-    "anchor": "muc-10-000"
+    "question": "Quy định tại 3.** Chi phí thiết bị trong dự toán xây dựng công trình được xác định theo quy định tại khoản 3 Điều 12 Nghị định số 206/2026/NĐ-CP, hướng dẫn chi tiết tại khoản 2 Mục 1 Phụ lục II Thông tư này và một số quy định cụ thể sau: của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 3.** Chi phí thiết bị trong dự toán xây dựng công trình được xác định theo quy định tại khoản 3 Điều 12 Nghị định số 206/2026/NĐ-CP, hướng dẫn chi tiết tại khoản 2 Mục 1 Phụ lục II Thông tư này và một số quy định cụ thể sau: (thong_tu_36_2026_tt_bxd.md#dieu-6-khoan-3).",
+    "anchor": "dieu-6-khoan-3",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Mục 2.1 quy định về nội dung gì?",
-    "answer": "Chi tiết tại 2.1 Cơ sở xác định giá công tác xây dựng.",
-    "anchor": "muc-2-1"
+    "question": "Quy định tại 4.** Chi phí quản lý dự án trong dự toán xây dựng công trình xác định theo quy định tại khoản 4 Điều 12 Nghị định số 206/2026/NĐ-CP và phương pháp hướng dẫn tại khoản 3 Mục 1 Phụ lục II Thông tư này, phù hợp với chi phí quản lý dự án trong tổng mức đầu tư được duyệt và nội dung chi phí quản lý dự án tại khoản 3 Điều 4 Thông tư này. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 4.** Chi phí quản lý dự án trong dự toán xây dựng công trình xác định theo quy định tại khoản 4 Điều 12 Nghị định số 206/2026/NĐ-CP và phương pháp hướng dẫn tại khoản 3 Mục 1 Phụ lục II Thông tư này, phù hợp với chi phí quản lý dự án trong tổng mức đầu tư được duyệt và nội dung chi phí quản lý dự án tại khoản 3 Điều 4 Thông tư này. (thong_tu_36_2026_tt_bxd.md#dieu-6-khoan-4).",
+    "anchor": "dieu-6-khoan-4",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Mục 2.2 quy định về nội dung gì?",
-    "answer": "Chi tiết tại 2.2 Xác định các thành phần chi phí trong giá công tác xây dựng.",
-    "anchor": "muc-2-2"
+    "question": "Quy định tại 5.** Chi phí tư vấn xây dựng trong dự toán xây dựng công trình xác định theo quy định tại khoản 5 Điều 12 Nghị định số 206/2026/NĐ-CP, Điều 14 Thông tư này và nội dung chi phí tư vấn quy định tại khoản 4 Điều 4 Thông tư này. Chi phí tư vấn xây dựng trong dự toán xây dựng công trình không bao gồm các chi phí tư vấn tính chung cho cả dự án. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 5.** Chi phí tư vấn xây dựng trong dự toán xây dựng công trình xác định theo quy định tại khoản 5 Điều 12 Nghị định số 206/2026/NĐ-CP, Điều 14 Thông tư này và nội dung chi phí tư vấn quy định tại khoản 4 Điều 4 Thông tư này. Chi phí tư vấn xây dựng trong dự toán xây dựng công trình không bao gồm các chi phí tư vấn tính chung cho cả dự án. (thong_tu_36_2026_tt_bxd.md#dieu-6-khoan-5).",
+    "anchor": "dieu-6-khoan-5",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Mục 1.1 quy định về nội dung gì?",
-    "answer": "Chi tiết tại 1.1 Chi phí trực tiếp (T).",
-    "anchor": "muc-1-1"
+    "question": "Quy định tại 6.** Chi phí khác trong dự toán xây dựng công trình quy định tại khoản 5 Điều 4 Thông tư này và một số quy định cụ thể sau: của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.** Chi phí khác trong dự toán xây dựng công trình quy định tại khoản 5 Điều 4 Thông tư này và một số quy định cụ thể sau: (thong_tu_36_2026_tt_bxd.md#dieu-6-khoan-6).",
+    "anchor": "dieu-6-khoan-6",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Mục 1.3 quy định về nội dung gì?",
-    "answer": "Chi tiết tại 1.3 Thu nhập chịu thuế tính trước (TL).",
-    "anchor": "muc-1-3"
+    "question": "Quy định tại 7.** Chi phí dự phòng trong dự toán xây dựng công trình được xác định theo quy định tại khoản 7 Điều 12 Nghị định số 206/2026/NĐ-CP, cụ thể như sau: của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 7.** Chi phí dự phòng trong dự toán xây dựng công trình được xác định theo quy định tại khoản 7 Điều 12 Nghị định số 206/2026/NĐ-CP, cụ thể như sau: (thong_tu_36_2026_tt_bxd.md#dieu-6-khoan-7).",
+    "anchor": "dieu-6-khoan-7",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Mục 1.4 quy định về nội dung gì?",
-    "answer": "Chi tiết tại 1.4 Chi phí phục vụ công tác khảo sát xây dựng (Cpvks).",
-    "anchor": "muc-1-4"
+    "question": "Quy định tại 8.** Việc điều chỉnh dự toán xây dựng công trình thực hiện theo quy định tại Điều 18 Nghị định số 206/2026/NĐ-CP và một số quy định cụ thể sau: của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.** Việc điều chỉnh dự toán xây dựng công trình thực hiện theo quy định tại Điều 18 Nghị định số 206/2026/NĐ-CP và một số quy định cụ thể sau: (thong_tu_36_2026_tt_bxd.md#dieu-6-khoan-8).",
+    "anchor": "dieu-6-khoan-8",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Mục 1.5 quy định về nội dung gì?",
-    "answer": "Chi tiết tại 1.5 Thuế giá trị gia tăng (GTGT).",
-    "anchor": "muc-1-5"
+    "question": "Quy định tại Điều 7. Xác định, điều chỉnh dự toán gói thầu xây dựng của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 7. Xác định, điều chỉnh dự toán gói thầu xây dựng (thong_tu_36_2026_tt_bxd.md#dieu-7).",
+    "anchor": "dieu-7",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Mục 1.6 quy định về nội dung gì?",
-    "answer": "Chi tiết tại 1.6 Chi phí nhà tạm để ở và điều hành thi công.",
-    "anchor": "muc-1-6"
+    "question": "Quy định tại 1.** Dự toán gói thầu xây dựng xác định theo quy định tại Điều 13 Nghị định số 206/2026/NĐ-CP. Chủ đầu tư căn cứ vào nội dung, phạm vi, tính chất, đặc điểm, điều kiện cụ thể của từng gói thầu, xác định các khoản mục chi phí thuộc dự toán gói thầu xây dựng. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.** Dự toán gói thầu xây dựng xác định theo quy định tại Điều 13 Nghị định số 206/2026/NĐ-CP. Chủ đầu tư căn cứ vào nội dung, phạm vi, tính chất, đặc điểm, điều kiện cụ thể của từng gói thầu, xác định các khoản mục chi phí thuộc dự toán gói thầu xây dựng. (thong_tu_36_2026_tt_bxd.md#dieu-7-khoan-1).",
+    "anchor": "dieu-7-khoan-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   },
   {
-    "question": "Mục 1.7 quy định về nội dung gì?",
-    "answer": "Chi tiết tại 1.7 Chi phí dự phòng (Cdp).",
-    "anchor": "muc-1-7"
+    "question": "Quy định tại 2.** Dự toán gói thầu xây dựng quy định tại khoản 2 Điều 13 Nghị định số 206/2026/NĐ-CP được cập nhật khối lượng (nếu có), giá xây dựng và các quy định khác về quản lý chi phí đầu tư xây dựng tại thời điểm xác định dự toán gói thầu. Chi phí dự phòng trong dự toán gói thầu được xác định theo hướng dẫn tại Mục 2 Phụ lục II Thông tư này. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.** Dự toán gói thầu xây dựng quy định tại khoản 2 Điều 13 Nghị định số 206/2026/NĐ-CP được cập nhật khối lượng (nếu có), giá xây dựng và các quy định khác về quản lý chi phí đầu tư xây dựng tại thời điểm xác định dự toán gói thầu. Chi phí dự phòng trong dự toán gói thầu được xác định theo hướng dẫn tại Mục 2 Phụ lục II Thông tư này. (thong_tu_36_2026_tt_bxd.md#dieu-7-khoan-2).",
+    "anchor": "dieu-7-khoan-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 3.** Dự toán gói thầu xây dựng quy định tại khoản 3 Điều 13 Nghị định số 206/2026/NĐ-CP được xác định theo hướng dẫn tại Mục 2 Phụ lục II Thông tư này. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 3.** Dự toán gói thầu xây dựng quy định tại khoản 3 Điều 13 Nghị định số 206/2026/NĐ-CP được xác định theo hướng dẫn tại Mục 2 Phụ lục II Thông tư này. (thong_tu_36_2026_tt_bxd.md#dieu-7-khoan-3).",
+    "anchor": "dieu-7-khoan-3",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 4.** Điều chỉnh dự toán gói thầu thực hiện theo quy định tại khoản 8 Điều 6 Thông tư này. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 4.** Điều chỉnh dự toán gói thầu thực hiện theo quy định tại khoản 8 Điều 6 Thông tư này. (thong_tu_36_2026_tt_bxd.md#dieu-7-khoan-4).",
+    "anchor": "dieu-7-khoan-4",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Điều 8. Xác định, điều chỉnh dự toán công việc xây dựng của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 8. Xác định, điều chỉnh dự toán công việc xây dựng (thong_tu_36_2026_tt_bxd.md#dieu-8).",
+    "anchor": "dieu-8",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 1.** Dự toán công việc xây dựng được xác định theo quy định tại Điều 14 Nghị định số 206/2026/NĐ-CP và phương pháp hướng dẫn tại Mục 3 Phụ lục II Thông tư này. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.** Dự toán công việc xây dựng được xác định theo quy định tại Điều 14 Nghị định số 206/2026/NĐ-CP và phương pháp hướng dẫn tại Mục 3 Phụ lục II Thông tư này. (thong_tu_36_2026_tt_bxd.md#dieu-8-khoan-1).",
+    "anchor": "dieu-8-khoan-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 2.** Dự toán công việc xây dựng được điều chỉnh khi thay đổi về nhiệm vụ, phạm vi, nội dung công việc. Chủ đầu tư xem xét, quyết định việc điều chỉnh dự toán công việc xây dựng. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.** Dự toán công việc xây dựng được điều chỉnh khi thay đổi về nhiệm vụ, phạm vi, nội dung công việc. Chủ đầu tư xem xét, quyết định việc điều chỉnh dự toán công việc xây dựng. (thong_tu_36_2026_tt_bxd.md#dieu-8-khoan-2).",
+    "anchor": "dieu-8-khoan-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Điều 9. Xác định chi phí đầu tư xây dựng đối với dự án, công trình khẩn cấp, cấp bách và dự án đầu tư công đặc biệt của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 9. Xác định chi phí đầu tư xây dựng đối với dự án, công trình khẩn cấp, cấp bách và dự án đầu tư công đặc biệt (thong_tu_36_2026_tt_bxd.md#dieu-9).",
+    "anchor": "dieu-9",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 1.** Việc xác định sơ bộ tổng mức đầu tư xây dựng (nếu có), tổng mức đầu tư xây dựng đối với các dự án, công trình quy định tại Điều này được thực hiện phù hợp với yêu cầu triển khai dự án, mức độ chi tiết của hồ sơ thiết kế. Phương pháp xác định thực hiện theo quy định tại Phụ lục I Thông tư này. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.** Việc xác định sơ bộ tổng mức đầu tư xây dựng (nếu có), tổng mức đầu tư xây dựng đối với các dự án, công trình quy định tại Điều này được thực hiện phù hợp với yêu cầu triển khai dự án, mức độ chi tiết của hồ sơ thiết kế. Phương pháp xác định thực hiện theo quy định tại Phụ lục I Thông tư này. (thong_tu_36_2026_tt_bxd.md#dieu-9-khoan-1).",
+    "anchor": "dieu-9-khoan-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 2.** Căn cứ yêu cầu, tiến độ thực hiện và biện pháp tổ chức thi công thực tế, dự toán xây dựng được phép lập, thẩm định và phê duyệt cho toàn bộ dự án, hoặc lập cho từng dự án thành phần (nếu có), từng công trình, hạng mục, bộ phận công trình hoặc từng gói thầu xây dựng để đáp ứng yêu cầu triển khai thi công song song, đồng thời. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.** Căn cứ yêu cầu, tiến độ thực hiện và biện pháp tổ chức thi công thực tế, dự toán xây dựng được phép lập, thẩm định và phê duyệt cho toàn bộ dự án, hoặc lập cho từng dự án thành phần (nếu có), từng công trình, hạng mục, bộ phận công trình hoặc từng gói thầu xây dựng để đáp ứng yêu cầu triển khai thi công song song, đồng thời. (thong_tu_36_2026_tt_bxd.md#dieu-9-khoan-2).",
+    "anchor": "dieu-9-khoan-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 3.** Phương pháp xác định dự toán xây dựng thực hiện theo quy định tại Phụ lục II Thông tư này, căn cứ yêu cầu triển khai của dự án, chủ đầu tư quyết định việc lựa chọn thời điểm xác định giá làm cơ sở lập dự toán xây dựng; ưu tiên sử dụng báo giá, dữ liệu công trình tương tự và được vận dụng, điều chỉnh định mức để phù hợp với điều kiện, biện pháp thi công thực tế của dự án, công trình. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 3.** Phương pháp xác định dự toán xây dựng thực hiện theo quy định tại Phụ lục II Thông tư này, căn cứ yêu cầu triển khai của dự án, chủ đầu tư quyết định việc lựa chọn thời điểm xác định giá làm cơ sở lập dự toán xây dựng; ưu tiên sử dụng báo giá, dữ liệu công trình tương tự và được vận dụng, điều chỉnh định mức để phù hợp với điều kiện, biện pháp thi công thực tế của dự án, công trình. (thong_tu_36_2026_tt_bxd.md#dieu-9-khoan-3).",
+    "anchor": "dieu-9-khoan-3",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 4.** Việc thẩm định, phê duyệt và quản lý chi phí đầu tư xây dựng đối với dự án, công trình khẩn cấp, cấp bách và dự án đầu tư công đặc biệt được thực hiện theo các quy định quản lý đầu tư xây dựng các dự án, công trình này tại Nghị định số 217/2026/NĐ-CP quy định chi tiết một số điều của Luật Xây dựng về quản lý hoạt động xây dựng. Cơ quan, tổ chức, cá nhân được giao quản lý thực hiện dự án, công trình tổ chức lập, thẩm định và phê duyệt dự toán xây dựng làm cơ sở để quản lý chi phí, quản lý hợp đồng và thanh toán, quyết toán vốn đầu tư xây dựng. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 4.** Việc thẩm định, phê duyệt và quản lý chi phí đầu tư xây dựng đối với dự án, công trình khẩn cấp, cấp bách và dự án đầu tư công đặc biệt được thực hiện theo các quy định quản lý đầu tư xây dựng các dự án, công trình này tại Nghị định số 217/2026/NĐ-CP quy định chi tiết một số điều của Luật Xây dựng về quản lý hoạt động xây dựng. Cơ quan, tổ chức, cá nhân được giao quản lý thực hiện dự án, công trình tổ chức lập, thẩm định và phê duyệt dự toán xây dựng làm cơ sở để quản lý chi phí, quản lý hợp đồng và thanh toán, quyết toán vốn đầu tư xây dựng. (thong_tu_36_2026_tt_bxd.md#dieu-9-khoan-4).",
+    "anchor": "dieu-9-khoan-4",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Điều 10. Quản lý định mức xây dựng của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 10. Quản lý định mức xây dựng (thong_tu_36_2026_tt_bxd.md#dieu-10).",
+    "anchor": "dieu-10",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 1.** Định mức dự toán theo quy định tại khoản 4 Điều 20 Nghị định số 206/2026/NĐ-CP do các Bộ quản lý công trình xây dựng chuyên ngành, Ủy ban nhân dân cấp tỉnh tổ chức xây dựng, rà soát và gửi hồ sơ báo cáo kết quả xác định định mức về Bộ Xây dựng theo hướng dẫn của Bộ Xây dựng tại Thông tư số 37/2026/TT-BXD ngày 26 tháng 6 năm 2026 hướng dẫn phương pháp xác định định mức dự toán và các chỉ tiêu kinh tế kỹ thuật. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.** Định mức dự toán theo quy định tại khoản 4 Điều 20 Nghị định số 206/2026/NĐ-CP do các Bộ quản lý công trình xây dựng chuyên ngành, Ủy ban nhân dân cấp tỉnh tổ chức xây dựng, rà soát và gửi hồ sơ báo cáo kết quả xác định định mức về Bộ Xây dựng theo hướng dẫn của Bộ Xây dựng tại Thông tư số 37/2026/TT-BXD ngày 26 tháng 6 năm 2026 hướng dẫn phương pháp xác định định mức dự toán và các chỉ tiêu kinh tế kỹ thuật. (thong_tu_36_2026_tt_bxd.md#dieu-10-khoan-1).",
+    "anchor": "dieu-10-khoan-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 2.** Định mức dự toán công trình theo quy định tại điểm b, điểm c khoản 5 Điều 20 Nghị định số 206/2026/NĐ-CP do chủ đầu tư tổ chức xác định. Phương pháp xác định và hồ sơ báo cáo kết quả xác định định mức theo hướng dẫn của Bộ Xây dựng tại Thông tư số 37/2026/TT-BXD. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.** Định mức dự toán công trình theo quy định tại điểm b, điểm c khoản 5 Điều 20 Nghị định số 206/2026/NĐ-CP do chủ đầu tư tổ chức xác định. Phương pháp xác định và hồ sơ báo cáo kết quả xác định định mức theo hướng dẫn của Bộ Xây dựng tại Thông tư số 37/2026/TT-BXD. (thong_tu_36_2026_tt_bxd.md#dieu-10-khoan-2).",
+    "anchor": "dieu-10-khoan-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 3.** Định mức nước ngoài quy định tại điểm d khoản 5 Điều 20 Nghị định số 206/2026/NĐ-CP do chủ đầu tư tổ chức thu thập, biên dịch, phân tích, đánh giá và đề xuất các nội dung áp dụng cho dự án theo hướng dẫn của Bộ Xây dựng tại Thông tư số 37/2026/TT-BXD. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 3.** Định mức nước ngoài quy định tại điểm d khoản 5 Điều 20 Nghị định số 206/2026/NĐ-CP do chủ đầu tư tổ chức thu thập, biên dịch, phân tích, đánh giá và đề xuất các nội dung áp dụng cho dự án theo hướng dẫn của Bộ Xây dựng tại Thông tư số 37/2026/TT-BXD. (thong_tu_36_2026_tt_bxd.md#dieu-10-khoan-3).",
+    "anchor": "dieu-10-khoan-3",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Điều 11. Quản lý giá xây dựng và giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 11. Quản lý giá xây dựng và giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng (thong_tu_36_2026_tt_bxd.md#dieu-11).",
+    "anchor": "dieu-11",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 1.** Suất vốn đầu tư xây dựng, suất chi phí, giá bộ phận, đơn vị kết cấu công trình do cơ quan quản lý nhà nước công bố quy định tại các khoản 1, 2 và 3 Điều 24 Nghị định số 206/2026/NĐ-CP được tổ chức xây dựng và công bố theo định kỳ hàng năm. Phương pháp xác định suất vốn đầu tư xây dựng, suất chi phí, giá bộ phận, đơn vị kết cấu công trình theo hướng dẫn tại Thông tư số 37/2026/TT-BXD. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.** Suất vốn đầu tư xây dựng, suất chi phí, giá bộ phận, đơn vị kết cấu công trình do cơ quan quản lý nhà nước công bố quy định tại các khoản 1, 2 và 3 Điều 24 Nghị định số 206/2026/NĐ-CP được tổ chức xây dựng và công bố theo định kỳ hàng năm. Phương pháp xác định suất vốn đầu tư xây dựng, suất chi phí, giá bộ phận, đơn vị kết cấu công trình theo hướng dẫn tại Thông tư số 37/2026/TT-BXD. (thong_tu_36_2026_tt_bxd.md#dieu-11-khoan-1).",
+    "anchor": "dieu-11-khoan-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 2.** Thông tin về giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng trên địa bàn tỉnh do Sở Xây dựng công bố định kỳ theo quy định tại khoản 3 Điều 24 Nghị định số 206/2026/NĐ-CP và quy định tại các khoản 3, 4 và 5 Điều này. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.** Thông tin về giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng trên địa bàn tỉnh do Sở Xây dựng công bố định kỳ theo quy định tại khoản 3 Điều 24 Nghị định số 206/2026/NĐ-CP và quy định tại các khoản 3, 4 và 5 Điều này. (thong_tu_36_2026_tt_bxd.md#dieu-11-khoan-2).",
+    "anchor": "dieu-11-khoan-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 3.** Quản lý, công bố thông tin giá vật liệu xây dựng: của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 3.** Quản lý, công bố thông tin giá vật liệu xây dựng: (thong_tu_36_2026_tt_bxd.md#dieu-11-khoan-3).",
+    "anchor": "dieu-11-khoan-3",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 4.** Quản lý, công bố giá nhân công xây dựng: của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 4.** Quản lý, công bố giá nhân công xây dựng: (thong_tu_36_2026_tt_bxd.md#dieu-11-khoan-4).",
+    "anchor": "dieu-11-khoan-4",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 5.** Quản lý, công bố giá ca máy và thiết bị thi công: của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 5.** Quản lý, công bố giá ca máy và thiết bị thi công: (thong_tu_36_2026_tt_bxd.md#dieu-11-khoan-5).",
+    "anchor": "dieu-11-khoan-5",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 6.** Các doanh nghiệp xây dựng, doanh nghiệp sản xuất, cung ứng vật liệu xây dựng, nhân công xây dựng, doanh nghiệp kinh doanh, cho thuê máy và thiết bị thi công xây dựng trên địa bàn; các chủ đầu tư, nhà thầu thi công xây dựng tại các dự án đầu tư công, dự án PPP trên địa bàn có trách nhiệm, nghĩa vụ chủ động tổng hợp, cung cấp thông tin về giá các yếu tố chi phí, các thông tin khác có liên quan (nếu có) theo hướng dẫn của Sở Xây dựng. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.** Các doanh nghiệp xây dựng, doanh nghiệp sản xuất, cung ứng vật liệu xây dựng, nhân công xây dựng, doanh nghiệp kinh doanh, cho thuê máy và thiết bị thi công xây dựng trên địa bàn; các chủ đầu tư, nhà thầu thi công xây dựng tại các dự án đầu tư công, dự án PPP trên địa bàn có trách nhiệm, nghĩa vụ chủ động tổng hợp, cung cấp thông tin về giá các yếu tố chi phí, các thông tin khác có liên quan (nếu có) theo hướng dẫn của Sở Xây dựng. (thong_tu_36_2026_tt_bxd.md#dieu-11-khoan-6).",
+    "anchor": "dieu-11-khoan-6",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Điều 12. Xác định giá xây dựng công trình của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 12. Xác định giá xây dựng công trình (thong_tu_36_2026_tt_bxd.md#dieu-12).",
+    "anchor": "dieu-12",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 1.** Giá xây dựng công trình là giá xây dựng được sử dụng để xác định chi phí đầu tư xây dựng công trình, gồm các loại giá xây dựng quy định tại Điều 22 Nghị định số 206/2026/NĐ-CP. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.** Giá xây dựng công trình là giá xây dựng được sử dụng để xác định chi phí đầu tư xây dựng công trình, gồm các loại giá xây dựng quy định tại Điều 22 Nghị định số 206/2026/NĐ-CP. (thong_tu_36_2026_tt_bxd.md#dieu-12-khoan-1).",
+    "anchor": "dieu-12-khoan-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 2.** Chủ đầu tư tham khảo, sử dụng giá xây dựng, giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng tại Điều 22 Nghị định số 206/2026/NĐ-CP và hệ thống định mức xây dựng tại Điều 19 Nghị định số 206/2026/NĐ-CP do cơ quan quản lý ban hành, công bố để xác định chi phí đầu tư xây dựng công trình đảm bảo hiệu quả, mục tiêu, tiến độ của dự án. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.** Chủ đầu tư tham khảo, sử dụng giá xây dựng, giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng tại Điều 22 Nghị định số 206/2026/NĐ-CP và hệ thống định mức xây dựng tại Điều 19 Nghị định số 206/2026/NĐ-CP do cơ quan quản lý ban hành, công bố để xác định chi phí đầu tư xây dựng công trình đảm bảo hiệu quả, mục tiêu, tiến độ của dự án. (thong_tu_36_2026_tt_bxd.md#dieu-12-khoan-2).",
+    "anchor": "dieu-12-khoan-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 3.** Trường hợp giá xây dựng, giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng và hệ thống định mức xây dựng do cơ quan quản lý nhà nước ban hành, công bố chưa có hoặc chưa phù hợp với công trình thì chủ đầu tư, đơn vị tư vấn căn cứ hướng dẫn của Bộ Xây dựng tại Phụ lục IV Thông tư này và Thông tư số 37/2026/TT-BXD để xác định giá công tác xây dựng, giá nhóm công tác xây dựng, giá bộ phận, đơn vị kết cấu công trình, suất chi phí làm cơ sở xác định chi phí đầu tư xây dựng công trình. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 3.** Trường hợp giá xây dựng, giá các yếu tố chi phí trực tiếp cấu thành giá công tác xây dựng và hệ thống định mức xây dựng do cơ quan quản lý nhà nước ban hành, công bố chưa có hoặc chưa phù hợp với công trình thì chủ đầu tư, đơn vị tư vấn căn cứ hướng dẫn của Bộ Xây dựng tại Phụ lục IV Thông tư này và Thông tư số 37/2026/TT-BXD để xác định giá công tác xây dựng, giá nhóm công tác xây dựng, giá bộ phận, đơn vị kết cấu công trình, suất chi phí làm cơ sở xác định chi phí đầu tư xây dựng công trình. (thong_tu_36_2026_tt_bxd.md#dieu-12-khoan-3).",
+    "anchor": "dieu-12-khoan-3",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 4.** Chủ đầu tư gửi hồ sơ kết quả xác định giá nhân công xây dựng, giá ca máy và thiết bị thi công tại khoản 3 Điều này về Sở Xây dựng để theo dõi, quản lý. Trong quá trình xác định giá nhân công xây dựng, giá ca máy và thiết bị thi công, Sở Xây dựng căn cứ phương pháp của Bộ Xây dựng để hướng dẫn khi chủ đầu tư có yêu cầu. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 4.** Chủ đầu tư gửi hồ sơ kết quả xác định giá nhân công xây dựng, giá ca máy và thiết bị thi công tại khoản 3 Điều này về Sở Xây dựng để theo dõi, quản lý. Trong quá trình xác định giá nhân công xây dựng, giá ca máy và thiết bị thi công, Sở Xây dựng căn cứ phương pháp của Bộ Xây dựng để hướng dẫn khi chủ đầu tư có yêu cầu. (thong_tu_36_2026_tt_bxd.md#dieu-12-khoan-4).",
+    "anchor": "dieu-12-khoan-4",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Điều 13. Chỉ số giá xây dựng của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 13. Chỉ số giá xây dựng (thong_tu_36_2026_tt_bxd.md#dieu-13).",
+    "anchor": "dieu-13",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 1.** Chỉ số giá xây dựng do cơ quan nhà nước có thẩm quyền công bố theo quy định tại khoản 3 Điều 23 Nghị định số 206/2026/NĐ-CP phải bảo đảm kịp thời, phản ánh khách quan, phù hợp với xu hướng biến động giá của thị trường trong khoảng thời gian được lựa chọn; không tính đến chi phí bồi thường, hỗ trợ và tái định cư, lãi vay trong thời gian xây dựng, vốn lưu động ban đầu cho sản xuất kinh doanh. Đơn vị tính chỉ số giá xây dựng là phần trăm (%). của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.** Chỉ số giá xây dựng do cơ quan nhà nước có thẩm quyền công bố theo quy định tại khoản 3 Điều 23 Nghị định số 206/2026/NĐ-CP phải bảo đảm kịp thời, phản ánh khách quan, phù hợp với xu hướng biến động giá của thị trường trong khoảng thời gian được lựa chọn; không tính đến chi phí bồi thường, hỗ trợ và tái định cư, lãi vay trong thời gian xây dựng, vốn lưu động ban đầu cho sản xuất kinh doanh. Đơn vị tính chỉ số giá xây dựng là phần trăm (%). (thong_tu_36_2026_tt_bxd.md#dieu-13-khoan-1).",
+    "anchor": "dieu-13-khoan-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 2.** Thời điểm công bố chỉ số giá xây dựng của cơ quan nhà nước có thẩm quyền: của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.** Thời điểm công bố chỉ số giá xây dựng của cơ quan nhà nước có thẩm quyền: (thong_tu_36_2026_tt_bxd.md#dieu-13-khoan-2).",
+    "anchor": "dieu-13-khoan-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 3.** Căn cứ danh mục công trình, phương pháp xác định chỉ số giá xây dựng quy định tại Thông tư số 37/2026/TT-BXD, Sở Xây dựng tổ chức xác định chỉ số giá xây dựng làm cơ sở để công bố theo quy định tại điểm b khoản 3 Điều 23 và điểm c, điểm đ khoản 3 Điều 24 Nghị định số 206/2026/NĐ-CP. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 3.** Căn cứ danh mục công trình, phương pháp xác định chỉ số giá xây dựng quy định tại Thông tư số 37/2026/TT-BXD, Sở Xây dựng tổ chức xác định chỉ số giá xây dựng làm cơ sở để công bố theo quy định tại điểm b khoản 3 Điều 23 và điểm c, điểm đ khoản 3 Điều 24 Nghị định số 206/2026/NĐ-CP. (thong_tu_36_2026_tt_bxd.md#dieu-13-khoan-3).",
+    "anchor": "dieu-13-khoan-3",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Điều 14. Xác định chi phí tư vấn xây dựng của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 14. Xác định chi phí tư vấn xây dựng (thong_tu_36_2026_tt_bxd.md#dieu-14).",
+    "anchor": "dieu-14",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 1.** Chi phí tư vấn xây dựng quy định tại Điều 26 Nghị định số 206/2026/NĐ-CP xác định như sau: của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.** Chi phí tư vấn xây dựng quy định tại Điều 26 Nghị định số 206/2026/NĐ-CP xác định như sau: (thong_tu_36_2026_tt_bxd.md#dieu-14-khoan-1).",
+    "anchor": "dieu-14-khoan-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 2.** Chi phí thuê tư vấn nước ngoài theo quy định tại Điều 27 Nghị định số 206/2026/NĐ-CP xác định theo hướng dẫn tại phần III Phụ lục VI Thông tư này. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.** Chi phí thuê tư vấn nước ngoài theo quy định tại Điều 27 Nghị định số 206/2026/NĐ-CP xác định theo hướng dẫn tại phần III Phụ lục VI Thông tư này. (thong_tu_36_2026_tt_bxd.md#dieu-14-khoan-2).",
+    "anchor": "dieu-14-khoan-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Điều 15. Kiểm tra việc quản lý chi phí đầu tư xây dựng của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 15. Kiểm tra việc quản lý chi phí đầu tư xây dựng (thong_tu_36_2026_tt_bxd.md#dieu-15).",
+    "anchor": "dieu-15",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 1.** Người quyết định đầu tư tổ chức kiểm tra việc thực hiện quản lý chi phí đầu tư xây dựng của chủ đầu tư theo quy định của pháp luật. Nội dung kiểm tra bao gồm: của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.** Người quyết định đầu tư tổ chức kiểm tra việc thực hiện quản lý chi phí đầu tư xây dựng của chủ đầu tư theo quy định của pháp luật. Nội dung kiểm tra bao gồm: (thong_tu_36_2026_tt_bxd.md#dieu-15-khoan-1).",
+    "anchor": "dieu-15-khoan-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 2.** Chi phí công tác kiểm tra của người quyết định đầu tư thuộc chi phí khác trong tổng mức đầu tư xây dựng quy định tại khoản 5 Điều 4 Thông tư này, do chủ đầu tư tổ chức lập, phê duyệt và thanh toán khi kết thúc kiểm tra. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.** Chi phí công tác kiểm tra của người quyết định đầu tư thuộc chi phí khác trong tổng mức đầu tư xây dựng quy định tại khoản 5 Điều 4 Thông tư này, do chủ đầu tư tổ chức lập, phê duyệt và thanh toán khi kết thúc kiểm tra. (thong_tu_36_2026_tt_bxd.md#dieu-15-khoan-2).",
+    "anchor": "dieu-15-khoan-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Điều 16. Hiệu lực thi hành của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Điều 16. Hiệu lực thi hành (thong_tu_36_2026_tt_bxd.md#dieu-16).",
+    "anchor": "dieu-16",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 1.** Thông tư này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.** Thông tư này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026. (thong_tu_36_2026_tt_bxd.md#dieu-16-khoan-1).",
+    "anchor": "dieu-16-khoan-1",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 2.** Thông tư này bãi bỏ Thông tư số 11/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng về hướng dẫn một số nội dung xác định và quản lý chi phí đầu tư xây dựng; Thông tư số 14/2023/TT-BXD ngày 29 tháng 12 năm 2023 và Điều 1, Phụ lục III và Phụ lục V Thông tư số 60/2025/TT-BXD ngày 30 tháng 12 năm 2025. của Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.** Thông tư này bãi bỏ Thông tư số 11/2021/TT-BXD ngày 31 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng về hướng dẫn một số nội dung xác định và quản lý chi phí đầu tư xây dựng; Thông tư số 14/2023/TT-BXD ngày 29 tháng 12 năm 2023 và Điều 1, Phụ lục III và Phụ lục V Thông tư số 60/2025/TT-BXD ngày 30 tháng 12 năm 2025. (thong_tu_36_2026_tt_bxd.md#dieu-16-khoan-2).",
+    "anchor": "dieu-16-khoan-2",
+    "source_file": "thong_tu_36_2026_tt_bxd.md",
+    "jurisdiction": "CQXD"
   }
 ]

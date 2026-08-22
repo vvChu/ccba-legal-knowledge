@@ -1,0 +1,13 @@
+﻿STT,NỘI DUNG CHI PHÍ,CÁCH TÍNH,GIÁ TRỊ,KÝ HIỆU
+I,Chi phí trực tiếp,VL + NC + M,,T
+1,Chi phí vật liệu,,,VL
+2,Chi phí nhân công,,,NC
+3,Chi phí máy và thiết bị thi công,,,M
+II,Chi phí gián tiếp,C + TT,,GT
+1,Chi phí chung,T x Tỷ lệ   (NC x Tỷ lệ),,C
+2,Chi phí một số công việc không xác định được khối lượng từ thiết kế,T x Tỷ lệ,,TT
+III,Thu nhập chịu thuế tính trước,(T + GT) x Tỷ lệ,,TL
+,Chi phí xây dựng trước thuế,(T + GT + TL),,GXDTT
+IV,Thuế giá trị gia tăng,GXDTT x TGTGT,,GTGT
+,CHI PHÍ XÂY DỰNG SAU THUẾ,GXDTT + GTGT,,
+V,Chi phí nhà tạm để ở và điều hành thi công,GXDTT x Tỷ lệ x TGTGT,,LT

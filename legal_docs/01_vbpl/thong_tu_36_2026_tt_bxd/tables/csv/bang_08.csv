@@ -1,0 +1,11 @@
+﻿STT,NỘI DUNG CHI PHÍ,GIÁ TRỊ TRƯỚC THUẾ,THUẾ GTGT,GIÁ TRỊ SAU THUẾ,KÝ HIỆU
+[1],[2],[3],[4],[5],[6]
+1,Chi phí xây dựng,,,,GXD
+2,Chi phí thiết bị,,,,GTB
+3,Chi phí quản lý dự án,,,,GQLDA
+4,Chi phí tư vấn xây dựng,,,,GTV
+5,Chi phí khác,,,,GK
+6,Chi phí dự phòng (GDP1 + GDP2),,,,GDP
+6.1,"Chi phí dự phòng cho khối lượng, công việc phát sinh",,,,
+6.2,Chi phí dự phòng cho yếu tố trượt giá,,,,
+,TỔNG CỘNG ( 1+2+3+4+5+6),,,,GXDCT

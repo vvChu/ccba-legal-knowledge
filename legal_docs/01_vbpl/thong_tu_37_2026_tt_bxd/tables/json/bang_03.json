@@ -1,0 +1,25 @@
+{
+  "table_id": "bang_03",
+  "rows_count": 3,
+  "columns_count": 4,
+  "headers": [
+    "Nội dung",
+    "Tính toán theo hồ sơ thiết kế, quy chuẩn, tiêu chuẩn xây dựng",
+    "Theo số liệu thống kê của công trình đã thực hiện",
+    "Tổ chức khảo sát, thu thập số liệu từ thi công thực tế"
+  ],
+  "records": [
+    {
+      "Nội dung": "Hao phí nhân công",
+      "Tính toán theo hồ sơ thiết kế, quy chuẩn, tiêu chuẩn xây dựng": "≤ 1,2",
+      "Theo số liệu thống kê của công trình đã thực hiện": "≤ 1,15",
+      "Tổ chức khảo sát, thu thập số liệu từ thi công thực tế": "≤ 1,1"
+    },
+    {
+      "Nội dung": "Hao phí máy thi công",
+      "Tính toán theo hồ sơ thiết kế, quy chuẩn, tiêu chuẩn xây dựng": "≤ 1,15",
+      "Theo số liệu thống kê của công trình đã thực hiện": "≤ 1,1",
+      "Tổ chức khảo sát, thu thập số liệu từ thi công thực tế": "≤ 1,05"
+    }
+  ]
+}

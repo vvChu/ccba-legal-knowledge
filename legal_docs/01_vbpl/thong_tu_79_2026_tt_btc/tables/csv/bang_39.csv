@@ -1,0 +1,14 @@
+﻿Số TT,Nội dung,Dự toán điều chỉnh lần cuối,Dự toán điều chỉnh lần cuối,Dự toán điều chỉnh lần cuối,Quyết toán được duyệt,Quyết toán được duyệt,Quyết toán được duyệt
+,,Tổng số,Dự án được giao quản lý,Nguồn thu hợp pháp khác của đơn vị,Tổng số,Dự án được giao quản lý,Nguồn thu hợp pháp khác của đơn vị
+1,2,3=4+5,4,5,6=7+8,7,8
+I,Tổng cộng (I= 1+2+3+4+5),,,,,,
+1,Nguồn thu năm trước chuyển sang,,,,,,
+2,Nguồn thu từ chi phí của dự án được giao quản lý,,,,,,
+3,Nguồn thu hợp pháp khác của đơn vị (nếu có),,,,,,
+4,"Dự án điều chỉnh, bổ sung trong năm (nếu có)",,,,,,
+5,Nguồn NSNN cấp (nếu có),,,,,,
+II,Nguồn thu chuyển sang năm sau tiếp tục sử dụng,,,,,,
+III,Nguồn thu được sử dụng trong năm (III=I-II),,,,,,
+1,Nguồn kinh phí NSNN cấp chi thường xuyên không giao tự chủ (nếu có),,,,,,
+2,Nguồn thu được sử dụng trong năm dành cho chi thường xuyên giao tự chủ,,,,,,
+3,Nguồn kinh phí NSNN hỗ trợ chi không thường xuyên (nếu có),,,,,,

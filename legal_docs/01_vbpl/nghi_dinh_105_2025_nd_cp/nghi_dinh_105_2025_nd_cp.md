@@ -1,31 +1,27 @@
-__CHÍNH PHỦ
--------__
+---
+id: "nghi_dinh_105_2025_nd_cp"
+document_number: "105/2025/NĐ-CP"
+title: "Nghị định 105/2025/NĐ-CP về PCCC và cứu nạn, cứu hộ trong xây dựng"
+issued_by: "Chính phủ"
+signer: "Phạm Minh Chính"
+issued_date: "2025-05-15"
+effective_date: "2025-07-01"
+status: "active"
+pdf_anchor: "./nghi_dinh_105_2025_nd_cp.pdf"
+legal_basis:
+- doc_id: luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1
+  title: Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15
+- doc_id: Luat-Xay-dung-2025-135-2025-QH15
+  title: Luật Xây dựng số 135/2025/QH15
+---
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
----------------__
+# 105/2025/NĐ-CP
+## NGHỊ ĐỊNH 105/2025/NĐ-CP QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP THI HÀNH LUẬT PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU NẠN, CỨU HỘ
 
-Số: 105/2025/NĐ-CP
-
-*Hà Nội, ngày 15 tháng 5 năm 2025*
-
-__NGHỊ ĐỊNH__
-
-QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP THI HÀNH LUẬT PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU NẠN, CỨU HỘ
-
-*Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;*
-
-*Căn cứ Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15 ngày 29 tháng 11 năm 2024;*
-
-*Căn cứ Luật Xây dựng số 50/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 62/2020/QH14 và Luật Xây dựng số 135/2025/QH15;*
-
-*Căn cứ Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15;*
-
-*Căn cứ Luật Đầu tư số 61/2020/QH14;*
-
-*Theo đề nghị của Bộ trưởng Bộ Công an và Bộ trưởng Bộ Xây dựng;*
-
-*Chính phủ ban hành Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ.*
+> [!NOTE]
+> **Cơ quan ban hành:** Chính phủ (Người ký: Thủ tướng Phạm Minh Chính).  
+> **Ngày ban hành:** 2025-05-15 | **Hiệu lực:** 2025-07-01.  
+> **Mỏ neo PDF Công báo (PDF Anchor of Trust):** [`nghi_dinh_105_2025_nd_cp.pdf`](./nghi_dinh_105_2025_nd_cp.pdf) *(SHA-256: `81a0e88383a8bce0671607ecb2e98fa6a8397a61d15a9fffa5d95e0c5b3c589b`)*.
 
 ---
 
@@ -493,10 +489,3 @@ __ĐIỀU KHOẢN THI HÀNH__
 ### Điều 42. Trách nhiệm thi hành
 
 Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
-
----
-
-__TM. CHÍNH PHỦ__
-__THỦ TƯỚNG__
-*(Đã ký)*
-__Phạm Minh Chính__

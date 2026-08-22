@@ -1,0 +1,12 @@
+﻿STT,Tên trường dữ liệu,Mô tả dữ liệu,Ghi chú
+1,Dữ liệu chung,,"Cơ quan có thẩm quyền nhập, cập nhật nội dung"
+1.1,Lĩnh vực hành nghề,Chọn lĩnh vực hành nghề hoạt động xây dựng,
+1.2,Hạng chứng chỉ hành nghề,Chọn hạng chứng chỉ hành nghề: Hạng I/Hạng II/Hạng III,
+1.3,Thời hạn chứng chỉ,"Ngày cấp, ngày hết hạn hoặc thời hạn hiệu lực của chứng chỉ",
+2,Dữ liệu chi tiết,,
+2.1,Cơ sở đào tạo,"Nhập tên Cơ sở đào tạo hoặc liên thông cơ sở dữ liệu của ngành, lĩnh vực có liên quan",
+2.2,Trình độ chuyên môn,"Nhập Trình độ chuyên môn hoặc liên thông cơ sở dữ liệu của ngành, lĩnh vực có liên quan",
+2.3,Số chứng chỉ hành nghề hoạt động xây dựng,Nhập hoặc Liên kết với hệ thống có liên quan,
+2.4,Quyết định cấp mới chứng chỉ,"[Nhập số:.., ngày .... tháng .... năm....]",
+2.5,Quyết định cấp lại chứng chỉ (nếu có),"[Nhập số:.., ngày .... tháng .... năm....]",
+2.6,Cơ quan cấp chứng chỉ,[Nhập tên cơ quan],

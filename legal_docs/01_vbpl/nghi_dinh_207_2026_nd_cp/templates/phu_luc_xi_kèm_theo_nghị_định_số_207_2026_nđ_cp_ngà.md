@@ -19,18 +19,22 @@ Phụ lục XIa. Báo cáo về việc kéo dài thời hạn sử dụng của 
 
 Phụ lục XIb. Thông báo ý kiến về việc kéo dài thời hạn sử dụng của công trình
 
+ 
+
 __Phụ lục XIa__
 
-.............(1).....__
+.............(1).....__  
 __-------
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
 ---------------__
 
 Số: ...............
 
 *............, ngày ......... tháng ...... năm.......*
+
+ 
 
 __BÁO CÁO VỀ VIỆC KÉO DÀI THỜI HẠN SỬ DỤNG CỦA CÔNG TRÌNH__
 
@@ -64,13 +68,15 @@ __2.__ __Kết quả thực hiện__
 
 Đề nghị.... (2).... xem xét và cho ý kiến về việc kéo dài thời hạn sử dụng của công trình.
 
-__*Nơi nhận:*__
-- Như trên;
+ 
+
+__*Nơi nhận:*__  
+- Như trên;  
 - Lưu:...
 
-__NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT
-CỦA CHỦ SỞ HỮU HOẶC CHỦ QUẢN LÝ,
-SỬ DỤNG CÔNG TRÌNH
+__NGƯỜI ĐẠI DIỆN THEO PHÁP LUẬT  
+CỦA CHỦ SỞ HỮU HOẶC CHỦ QUẢN LÝ,   
+SỬ DỤNG CÔNG TRÌNH  
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu pháp nhân)*
 
 ______________________________
@@ -83,20 +89,24 @@ __*Ghi chú:*__
 
 (3) Mã định danh công trình xây dựng theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng.
 
+ 
+
 __Phụ lục Xib__
 
-.............(1)..........__
+.............(1)..........__  
 __-------
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
 ---------------__
 
 Số: ...............
 
 *............, ngày ......... tháng ...... năm.......*
 
-__THÔNG BÁO__
+ 
+
+ __THÔNG BÁO__
 
 __Ý kiến về việc kéo dài thời hạn sử dụng của công trình__
 
@@ -130,14 +140,16 @@ __2.__ __Ý kiến về việc kéo dài thời hạn sử dụng công trình__
 
 ...................
 
-__*Nơi nhận:*__
-- Như trên;
-- .........(để b/c);
-- Bộ phận một cửa;
-- (3);
+ 
+
+__*Nơi nhận:*__  
+- Như trên;  
+- .........(để b/c);  
+- Bộ phận một cửa;  
+- (3);  
 - Lưu:...
 
-__LÃNH ĐẠO ĐƠN VỊ/NGƯỜI ĐƯỢC ỦY QUYỀN
+__LÃNH ĐẠO ĐƠN VỊ/NGƯỜI ĐƯỢC ỦY QUYỀN  
 __*(Ký, ghi rõ họ tên, chức vụ và đóng dấu pháp nhân)*
 
 ______________________________
@@ -151,5 +163,7 @@ __*Ghi chú:*__
 (3) Các cơ quan có liên quan (nếu cần).
 
 (4) Mã định danh công trình xây dựng theo quy định của Chính phủ về điều kiện năng lực hoạt động xây dựng, Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng.
+
+ 
 
 [\[1\]](#_ftnref1) Trường hợp biện pháp thi công được lập cho từng hạng mục, bộ phận công trình hoặc từng giai đoạn thi công xây dựng công trình thì biện pháp bảo đảm an toàn trong thi công xây dựng công trình được lập cùng tương ứng, trừ trường hợp biện pháp bảo đảm an toàn được lập riêng theo quy định tại điểm b khoản 3 Điều 15 Nghị định này.

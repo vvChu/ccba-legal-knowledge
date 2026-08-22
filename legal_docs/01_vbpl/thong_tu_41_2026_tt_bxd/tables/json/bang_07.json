@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_07",
+  "rows_count": 2,
+  "columns_count": 6,
+  "headers": [
+    "TT",
+    "Tên hàng hóa",
+    "Tổng số (lô)",
+    "Đơn vị tính",
+    "Khối lượng",
+    "Nguồn gốc, xuất xứ"
+  ],
+  "records": [
+    {
+      "TT": "....",
+      "Tên hàng hóa": "",
+      "Tổng số (lô)": "",
+      "Đơn vị tính": "",
+      "Khối lượng": "",
+      "Nguồn gốc, xuất xứ": ""
+    }
+  ]
+}

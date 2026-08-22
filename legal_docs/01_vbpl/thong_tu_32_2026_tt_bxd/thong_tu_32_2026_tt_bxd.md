@@ -1,35 +1,43 @@
-__BỘ XÂY DỰNG
--------__
+---
+id: "thong_tu_32_2026_tt_bxd"
+document_number: "32/2026/TT-BXD"
+title: "Thông tư 32/2026/TT-BXD quy định chi tiết một số điều của Nghị định 207/2026/NĐ-CP về quản lý chất lượng"
+issued_by: "Bộ Xây dựng"
+signer: "Đang cập nhật"
+issued_date: "2026-06-30"
+effective_date: "2026-07-01"
+status: "active"
+pdf_anchor: "./thong_tu_32_2026_tt_bxd.pdf"
+legal_basis:
+- doc_id: Luat-Xay-dung-2025-135-2025-QH15
+  title: Luật Xây dựng số 135/2025/QH15
+- doc_id: nghị_định_số_207_2026_nđ_cp_của_chính_phủ_quy_định
+  title: Nghị định số 207/2026/NĐ-CP của Chính phủ quy định chi tiết một số điều của
+    Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây
+    dựng
+- doc_id: nghị_định_số_33_2025_nđ_cp_của_chính_phủ_quy_định_
+  title: Nghị định số 33/2025/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền
+    hạn và cơ cấu tổ chức của Bộ Xây dựng
+---
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
----------------__
+# 32/2026/TT-BXD
+## THÔNG TƯ 32/2026/TT-BXD QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH 207/2026/NĐ-CP VỀ QUẢN LÝ CHẤT LƯỢNG
 
-Số: 32/2026/TT-BXD
+> [!NOTE]
+> **Cơ quan ban hành:** Bộ Xây dựng (Người ký: Đang cập nhật).  
+> **Ngày ban hành:** 2026-06-30 | **Hiệu lực:** 2026-07-01.  
+> **Mỏ neo PDF Công báo (PDF Anchor of Trust):** [`thong_tu_32_2026_tt_bxd.pdf`](./thong_tu_32_2026_tt_bxd.pdf) *(SHA-256: `ea27c3c8030538e7c0c025b8fd29884f938c3b2cb95ab8182b5a58b420ab2790`)*.
 
-*Hà Nội, ngày 22 tháng 6 năm 2026*
+---
 
-__ __
 
-__THÔNG TƯ__
 
-QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 207/2026/NĐ-CP NGÀY 15 THÁNG 6 NĂM 2026 CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT XÂY DỰNG VỀ QUẢN LÝ CHẤT LƯỢNG, THI CÔNG XÂY DỰNG VÀ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
-
-*Căn cứ **Luật Xây dựng số 135/2025/QH15;*
-
-*Căn cứ Nghị định số **207/2026/NĐ-CP của Chính phủ quy định chi tiết một số điều của **Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng;*
-
-*Căn cứ Nghị định số **33/2025/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng;*
-
-*Theo đề nghị của Cục trưởng Cục Giám định nhà nước về chất lượng công trình xây dựng;*
-
-*Bộ trưởng Bộ Xây dựng ban hành Thông tư quy định chi tiết một số điều của Nghị định số **207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ quy định chi tiết một số điều của **Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng.*
 
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 
 <a id="dieu-1-khoan-1"></a>
-1. Thông tư này quy định một số điều của Nghị định số 207/2026/NĐ-CP về:
+**1.** Thông tư này quy định một số điều của Nghị định số 207/2026/NĐ-CP về:
 
 a) Khoản 5 Điều 6 về kế hoạch tổ chức thí nghiệm;
 
@@ -44,37 +52,40 @@ d) Khoản 5 Điều 9 về trình tự thực hiện và thông báo kết lu�
 e) Khoản 10 Điều 43 về nội dung báo cáo và công bố công trình hết thời hạn sử dụng theo thiết kế.
 
 <a id="dieu-1-khoan-2"></a>
-2. Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước, tổ chức, cá nhân nước ngoài có liên quan đến quản lý chất lượng công trình xây dựng, thi công xây dựng công trình và bảo trì công trình xây dựng trên lãnh thổ Việt Nam.
+**2.** Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân trong nước, tổ chức, cá nhân nước ngoài có liên quan đến quản lý chất lượng công trình xây dựng, thi công xây dựng công trình và bảo trì công trình xây dựng trên lãnh thổ Việt Nam.
+
 
 <a id="dieu-2"></a>
 ### Điều 2. Kế hoạch tổ chức thí nghiệm
 
 <a id="dieu-2-khoan-1"></a>
-1. Nhà thầu thi công xây dựng có trách nhiệm nghiên cứu hồ sơ thiết kế, các quy chuẩn kỹ thuật, tiêu chuẩn áp dụng cho dự án, chỉ dẫn kỹ thuật và quy định của hợp đồng xây dựng để lập kế hoạch tổ chức thí nghiệm. Trong quá trình lập kế hoạch tổ chức thí nghiệm, nhà thầu thi công xây dựng có quyền yêu cầu chủ đầu tư và nhà thầu thiết kế xây dựng cung cấp thông tin, tài liệu và làm rõ các nội dung liên quan.
+**1.** Nhà thầu thi công xây dựng có trách nhiệm nghiên cứu hồ sơ thiết kế, các quy chuẩn kỹ thuật, tiêu chuẩn áp dụng cho dự án, chỉ dẫn kỹ thuật và quy định của hợp đồng xây dựng để lập kế hoạch tổ chức thí nghiệm. Trong quá trình lập kế hoạch tổ chức thí nghiệm, nhà thầu thi công xây dựng có quyền yêu cầu chủ đầu tư và nhà thầu thiết kế xây dựng cung cấp thông tin, tài liệu và làm rõ các nội dung liên quan.
 
 <a id="dieu-2-khoan-2"></a>
-2. Nội dung chủ yếu của kế hoạch tổ chức thí nghiệm bao gồm: đối tượng thí nghiệm (vật liệu, cấu kiện, kết cấu công trình, thiết bị công trình), các phép thử tương ứng và thời điểm thí nghiệm dự kiến; phòng thí nghiệm chuyên ngành xây dựng được sử dụng.
+**2.** Nội dung chủ yếu của kế hoạch tổ chức thí nghiệm bao gồm: đối tượng thí nghiệm (vật liệu, cấu kiện, kết cấu công trình, thiết bị công trình), các phép thử tương ứng và thời điểm thí nghiệm dự kiến; phòng thí nghiệm chuyên ngành xây dựng được sử dụng.
 
 <a id="dieu-2-khoan-3"></a>
-3. Trường hợp điều chỉnh kế hoạch tổ chức thí nghiệm thì phải được chủ đầu tư chấp thuận trước khi tổ chức thực hiện.
+**3.** Trường hợp điều chỉnh kế hoạch tổ chức thí nghiệm thì phải được chủ đầu tư chấp thuận trước khi tổ chức thực hiện.
+
 
 <a id="dieu-3"></a>
 ### Điều 3. Quan trắc công trình trong quá trình thi công xây dựng
 
 <a id="dieu-3-khoan-1"></a>
-1. Nhà thầu thi công xây dựng có trách nhiệm lập đề cương quan trắc trình chủ đầu tư chấp thuận. Nội dung chủ yếu của đề cương quan trắc bao gồm: đối tượng, phạm vi, thông số, tần suất, thời điểm quan trắc; nhân lực, thiết bị quan trắc; quy trình thực hiện quan trắc; phương pháp phân tích, xử lý số liệu quan trắc; đánh giá, kết luận kết quả quan trắc; đề xuất, kiến nghị (nếu có).
+**1.** Nhà thầu thi công xây dựng có trách nhiệm lập đề cương quan trắc trình chủ đầu tư chấp thuận. Nội dung chủ yếu của đề cương quan trắc bao gồm: đối tượng, phạm vi, thông số, tần suất, thời điểm quan trắc; nhân lực, thiết bị quan trắc; quy trình thực hiện quan trắc; phương pháp phân tích, xử lý số liệu quan trắc; đánh giá, kết luận kết quả quan trắc; đề xuất, kiến nghị (nếu có).
 
 <a id="dieu-3-khoan-2"></a>
-2. Trường hợp kết quả quan trắc có giá trị vượt quá giá trị giới hạn cho phép theo quy định của hồ sơ thiết kế xây dựng, quy chuẩn kỹ thuật, tiêu chuẩn áp dụng hoặc có dấu hiệu bất thường khác ảnh hưởng đến chất lượng, an toàn chịu lực của công trình thì nhà thầu thi công xây dựng có trách nhiệm kịp thời báo cáo bằng văn bản gửi chủ đầu tư, nhà thầu thiết kế xây dựng để có ý kiến đánh giá và đưa ra biện pháp xử lý kịp thời.
+**2.** Trường hợp kết quả quan trắc có giá trị vượt quá giá trị giới hạn cho phép theo quy định của hồ sơ thiết kế xây dựng, quy chuẩn kỹ thuật, tiêu chuẩn áp dụng hoặc có dấu hiệu bất thường khác ảnh hưởng đến chất lượng, an toàn chịu lực của công trình thì nhà thầu thi công xây dựng có trách nhiệm kịp thời báo cáo bằng văn bản gửi chủ đầu tư, nhà thầu thiết kế xây dựng để có ý kiến đánh giá và đưa ra biện pháp xử lý kịp thời.
 
 <a id="dieu-3-khoan-3"></a>
-3. Trường hợp kết quả quan trắc do nhà thầu thi công xây dựng thực hiện có dấu hiệu không trung thực hoặc không đảm bảo độ tin cậy thì chủ đầu tư có thể lựa chọn nhà thầu quan trắc độc lập để thực hiện một số nội dung quan trắc cần thiết nhằm đánh giá lại kết quả quan trắc. Nếu kết quả quan trắc độc lập chứng minh được sai sót hoặc vi phạm của nhà thầu thi công xây dựng thì nhà thầu này phải kịp thời xử lý, khắc phục và chi trả chi phí phát sinh cho công tác quan trắc độc lập.
+**3.** Trường hợp kết quả quan trắc do nhà thầu thi công xây dựng thực hiện có dấu hiệu không trung thực hoặc không đảm bảo độ tin cậy thì chủ đầu tư có thể lựa chọn nhà thầu quan trắc độc lập để thực hiện một số nội dung quan trắc cần thiết nhằm đánh giá lại kết quả quan trắc. Nếu kết quả quan trắc độc lập chứng minh được sai sót hoặc vi phạm của nhà thầu thi công xây dựng thì nhà thầu này phải kịp thời xử lý, khắc phục và chi trả chi phí phát sinh cho công tác quan trắc độc lập.
+
 
 <a id="dieu-4"></a>
 ### Điều 4. Kiểm định xây dựng
 
 <a id="dieu-4-khoan-1"></a>
-1. Nội dung kiểm định xây dựng:
+**1.** Nội dung kiểm định xây dựng:
 
 a) Kiểm định chất lượng bộ phận công trình, công trình xây dựng;
 
@@ -83,14 +94,14 @@ b) Kiểm định xác định nguyên nhân hư hỏng, xác định nguyên nh
 c) Kiểm định chất lượng vật liệu xây dựng, cấu kiện xây dựng, sản phẩm xây dựng.
 
 <a id="dieu-4-khoan-2"></a>
-2. Trình tự thực hiện kiểm định xây dựng:
+**2.** Trình tự thực hiện kiểm định xây dựng:
 
 a) Chủ đầu tư, chủ sở hữu hoặc chủ quản lý, sử dụng công trình tổ chức lập và phê duyệt nhiệm vụ kiểm định; lựa chọn tổ chức kiểm định xây dựng đủ điều kiện năng lực và phù hợp với nội dung nhiệm vụ kiểm định để thực hiện;
 
 b) Tổ chức kiểm định xây dựng được lựa chọn lập đề cương kiểm định trình cơ quan, tổ chức quy định tại điểm a khoản này phê duyệt, thực hiện kiểm định theo đề cương đã được phê duyệt và lập báo cáo kết quả kiểm định trình cơ quan nêu trên để được xem xét, nghiệm thu theo quy định.
 
 <a id="dieu-4-khoan-3"></a>
-3. Đề cương kiểm định bao gồm các nội dung chính sau:
+**3.** Đề cương kiểm định bao gồm các nội dung chính sau:
 
 a) Mục đích, yêu cầu, đối tượng và nội dung kiểm định;
 
@@ -107,7 +118,7 @@ e) Dự toán chi phí kiểm định;
 g) Các nội dung cần thiết khác.
 
 <a id="dieu-4-khoan-4"></a>
-4. Báo cáo kết quả kiểm định bao gồm các nội dung chính sau:
+**4.** Báo cáo kết quả kiểm định bao gồm các nội dung chính sau:
 
 a) Căn cứ thực hiện kiểm định;
 
@@ -120,16 +131,17 @@ d) Các kết quả thí nghiệm, quan trắc, tính toán, phân tích và đ�
 đ) Kết luận về nội dung kiểm định và kiến nghị (nếu có).
 
 <a id="dieu-4-khoan-5"></a>
-5. Trường hợp việc kiểm định xây dựng được thực hiện theo yêu cầu của cơ quan quản lý nhà nước có thẩm quyền thì chủ đầu tư, chủ sở hữu hoặc chủ quản lý, sử dụng công trình có trách nhiệm lấy ý kiến của cơ quan này về nội dung đề cương kiểm định xây dựng trước khi phê duyệt. Trong trường hợp này, tổ chức kiểm định xây dựng phải độc lập với chủ đầu tư, chủ sở hữu hoặc chủ quản lý, sử dụng công trình và các nhà thầu khảo sát xây dựng, thiết kế xây dựng, thi công xây dựng, cung ứng, sản xuất sản phẩm xây dựng, quản lý dự án và giám sát thi công xây dựng công trình.
+**5.** Trường hợp việc kiểm định xây dựng được thực hiện theo yêu cầu của cơ quan quản lý nhà nước có thẩm quyền thì chủ đầu tư, chủ sở hữu hoặc chủ quản lý, sử dụng công trình có trách nhiệm lấy ý kiến của cơ quan này về nội dung đề cương kiểm định xây dựng trước khi phê duyệt. Trong trường hợp này, tổ chức kiểm định xây dựng phải độc lập với chủ đầu tư, chủ sở hữu hoặc chủ quản lý, sử dụng công trình và các nhà thầu khảo sát xây dựng, thiết kế xây dựng, thi công xây dựng, cung ứng, sản xuất sản phẩm xây dựng, quản lý dự án và giám sát thi công xây dựng công trình.
 
 <a id="dieu-4-khoan-6"></a>
-6. Trường hợp kết quả kiểm định xây dựng không đáp ứng được yêu cầu thiết kế, quy chuẩn kỹ thuật, tiêu chuẩn áp dụng thì chủ đầu tư, chủ sở hữu hoặc chủ quản lý, sử dụng công trình có trách nhiệm tổ chức đánh giá và khắc phục.
+**6.** Trường hợp kết quả kiểm định xây dựng không đáp ứng được yêu cầu thiết kế, quy chuẩn kỹ thuật, tiêu chuẩn áp dụng thì chủ đầu tư, chủ sở hữu hoặc chủ quản lý, sử dụng công trình có trách nhiệm tổ chức đánh giá và khắc phục.
+
 
 <a id="dieu-5"></a>
 ### Điều 5. Trình tự thực hiện và thông báo kết luận giám định xây dựng
 
 <a id="dieu-5-khoan-1"></a>
-1. Trình tự thực hiện giám định xây dựng
+**1.** Trình tự thực hiện giám định xây dựng
 
 a) Cơ quan có thẩm quyền chủ trì tổ chức giám định xây dựng (sau đây gọi là cơ quan giám định) thông báo bằng văn bản cho chủ đầu tư, chủ sở hữu hoặc chủ quản lý, sử dụng công trình về việc tổ chức giám định xây dựng với các nội dung chính sau: căn cứ thực hiện, đối tượng, thời gian, nội dung giám định xây dựng;
 
@@ -140,7 +152,7 @@ c) Cơ quan giám định tổ chức thực hiện giám định xây dựng tr
 d) Cơ quan giám định thông báo kết luận giám định xây dựng theo nội dung quy định tại khoản 2 Điều này cho các bên có liên quan. Trường hợp cần thiết, cơ quan giám định tổ chức lấy ý kiến của các tổ chức, cá nhân có liên quan về nội dung kết luận giám định xây dựng.
 
 <a id="dieu-5-khoan-2"></a>
-2. Thông báo kết luận giám định xây dựng bao gồm các nội dung chính sau:
+**2.** Thông báo kết luận giám định xây dựng bao gồm các nội dung chính sau:
 
 a) Căn cứ thực hiện giám định xây dựng;
 
@@ -154,27 +166,29 @@ d) Trình tự tổ chức thực hiện giám định xây dựng;
 
 e) Phân định trách nhiệm của các tổ chức, cá nhân có liên quan và biện pháp xử lý, khắc phục (nếu có).
 
+
 <a id="dieu-6"></a>
 ### Điều 6. Quan trắc phục vụ công tác bảo trì đối với công trình xây dựng thuộc thẩm quyền quản lý của Bộ Xây dựng
 
 <a id="dieu-6-khoan-1"></a>
-1. Công trình dân dụng, công trình sản xuất vật liệu, sản phẩm xây dựng, công trình công nghiệp nhẹ, công trình hạ tầng kỹ thuật phải quan trắc trong quá trình khai thác, sử dụng được quy định tại Phụ lục Thông tư này.
+**1.** Công trình dân dụng, công trình sản xuất vật liệu, sản phẩm xây dựng, công trình công nghiệp nhẹ, công trình hạ tầng kỹ thuật phải quan trắc trong quá trình khai thác, sử dụng được quy định tại Phụ lục Thông tư này.
 
 <a id="dieu-6-khoan-2"></a>
-2. Công trình giao thông phải quan trắc phục vụ công tác bảo trì trong quá trình khai thác, sử dụng theo quy định của pháp luật chuyên ngành.
+**2.** Công trình giao thông phải quan trắc phục vụ công tác bảo trì trong quá trình khai thác, sử dụng theo quy định của pháp luật chuyên ngành.
 
 <a id="dieu-6-khoan-3"></a>
-3. Việc quan trắc phục vụ công tác bảo trì công trình xây dựng được quy định trong quy trình bảo trì, bao gồm các nội dung chủ yếu sau:
+**3.** Việc quan trắc phục vụ công tác bảo trì công trình xây dựng được quy định trong quy trình bảo trì, bao gồm các nội dung chủ yếu sau:
 
 a) Phạm vi quan trắc: các kết cấu chịu lực chính của công trình (ví dụ: giàn mái không gian, hệ khung chịu lực chính, khán đài sân vận động, ống khói, si lô);
 
 b) Thông số quan trắc (ví dụ: biến dạng nghiêng, lún, nứt, võng, chuyển vị) và giá trị giới hạn của các thông số này; thời gian quan trắc; chu kỳ đo và các nội dung cần thiết khác.
 
+
 <a id="dieu-7"></a>
 ### Điều 7. Nội dung báo cáo và công bố công trình hết thời hạn sử dụng theo thiết kế
 
 <a id="dieu-7-khoan-1"></a>
-1. Chủ sở hữu hoặc chủ quản lý, sử dụng công trình lập và gửi báo cáo theo quy định tại khoản 2 Điều 43 Nghị định số 207/2026/NĐ-CP. Báo cáo bao gồm các nội dung chủ yếu sau:
+**1.** Chủ sở hữu hoặc chủ quản lý, sử dụng công trình lập và gửi báo cáo theo quy định tại khoản 2 Điều 43 Nghị định số 207/2026/NĐ-CP. Báo cáo bao gồm các nội dung chủ yếu sau:
 
 a) Tên công trình và địa điểm xây dựng;
 
@@ -189,79 +203,25 @@ d) Các thông số kỹ thuật chính của công trình;
 e) Dự kiến phương án xử lý đối với công trình sau khi hết thời hạn sử dụng.
 
 <a id="dieu-7-khoan-2"></a>
-2. Cơ quan nhà nước có thẩm quyền quy định tại khoản 9 Điều 43 Nghị định số 207/2026/NĐ-CP công bố công trình hết thời hạn sử dụng theo thiết kế đối với các nội dung quy định tại khoản 1 Điều này trên trang thông tin điện tử thuộc thẩm quyền quản lý.
+**2.** Cơ quan nhà nước có thẩm quyền quy định tại khoản 9 Điều 43 Nghị định số 207/2026/NĐ-CP công bố công trình hết thời hạn sử dụng theo thiết kế đối với các nội dung quy định tại khoản 1 Điều này trên trang thông tin điện tử thuộc thẩm quyền quản lý.
+
 
 <a id="dieu-8"></a>
 ### Điều 8. Hiệu lực thi hành
 
 <a id="dieu-8-khoan-1"></a>
-1. Thông tư này có hiệu lực kể từ ngày 01 tháng 7 năm 2026.
+**1.** Thông tư này có hiệu lực kể từ ngày 01 tháng 7 năm 2026.
 
 <a id="dieu-8-khoan-2"></a>
-2. Bãi bỏ các điều 2, 3, 4, 5, 6, 7, 8, 9 và 19 Thông tư số 10/2021/TT-BXD ngày 25 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng về hướng dẫn một số điều và biện pháp thi hành Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 và Nghị định số 44/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ./.
+**2.** Bãi bỏ các điều 2, 3, 4, 5, 6, 7, 8, 9 và 19 Thông tư số 10/2021/TT-BXD ngày 25 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng về hướng dẫn một số điều và biện pháp thi hành Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 và Nghị định số 44/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ./.
 
 __* *__
 
-__*
-Nơi nhận:
-*__- Thủ tướng Chính phủ;
-- Các Phó Thủ tướng Chính phủ;
-- Văn phòng Trung ương Đảng;
-- Văn phòng Chủ tịch nước;
-- Văn phòng Quốc hội;
-- Văn phòng Chính phủ;
-- Tòa án nhân dân tối cao;
-- Viện kiểm sát nhân dân tối cao;
-- Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ;
-- Kiểm toán nhà nước;
-- UBND các tỉnh, thành phố trực thuộc Trung ương;
-- Sở Xây dựng các tỉnh, thành phố trực thuộc Trung ương;
-- Công báo; Cổng thông tin điện tử Chính phủ;
-- Cơ sở dữ liệu quốc gia về pháp luật;
-- Cổng thông tin điện tử Bộ Xây dựng;
-- Cục Kiểm tra văn bản và Tổ chức thi hành pháp luật, Bộ Tư pháp;
-- Bộ Xây dựng: Bộ trưởng; các Thứ trưởng;
-- Các đơn vị thuộc, trực thuộc Bộ Xây dựng;
-- Lưu: VT, GĐ (10b).
+---
 
-__KT. BỘ TRƯỞNG
-THỨ TRƯỞNG
+## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
 
-Phạm Minh Hà__
+> [!TIP]
+> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 
-__PHỤ LỤC__
-
-CÔNG TRÌNH DÂN DỤNG; CÔNG TRÌNH SẢN XUẤT VẬT LIỆU, SẢN PHẨM XÂY DỰNG, CÔNG TRÌNH CÔNG NGHIỆP NHẸ; CÔNG TRÌNH HẠ TÀNG KỸ THUẬT PHẢI QUAN TRẮC TRONG QUÁ TRÌNH KHAI THÁC, SỬ DỤNG
-- (Ban hành kèm theo Thông tư số 32/2026/TT-BXD Ngày 22 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
-
-__STT__
-
-__Loại công trình__
-
-__Cấp công trình __(1)
-
-1
-
-Nhà, kết cấu dạng nhà; công trình nhiều tầng có sàn; công trình có kết cấu nhịp lớn dạng khung
-
-Cấp đặc biệt
-
-2
-
-Công trình có kết cấu dạng cột, trụ, tháp
-
-Cấp I trở lên
-
-3
-
-Sân vận động, sân thi đấu các môn thể thao có khán đài; nhà thi đấu (các môn thể thao)
-
-Cấp I trở lên
-
-__*\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*__
-
-__*Ghi chú:*__
-
-(1) Cấp công trình xác định theo Thông tư quy định chi tiết về cấp công trình xây dựng phục vụ quản lý hoạt động xây dựng do Bộ trưởng Bộ Xây dựng ban hành.
-
-__ __
+- 📊 **[bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong](./tables/csv/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.csv)**

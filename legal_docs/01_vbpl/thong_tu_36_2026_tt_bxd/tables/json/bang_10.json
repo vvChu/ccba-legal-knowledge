@@ -1,0 +1,143 @@
+{
+  "table_id": "bang_10",
+  "rows_count": 17,
+  "columns_count": 6,
+  "headers": [
+    "STT",
+    "NỘI DUNG CHI PHÍ",
+    "GIÁ TRỊ TRƯỚC THUẾ",
+    "THUẾ GTGT",
+    "GIÁ TRỊ SAU THUẾ",
+    "KÝ HIỆU"
+  ],
+  "records": [
+    {
+      "STT": "[1]",
+      "NỘI DUNG CHI PHÍ": "[2]",
+      "GIÁ TRỊ TRƯỚC THUẾ": "[3]",
+      "THUẾ GTGT": "[4]",
+      "GIÁ TRỊ SAU THUẾ": "[5]",
+      "KÝ HIỆU": "[6]"
+    },
+    {
+      "STT": "1",
+      "NỘI DUNG CHI PHÍ": "Chi phí mua sắm thiết bị công trình và thiết bị công nghệ",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": "GMS"
+    },
+    {
+      "STT": "1.1",
+      "NỘI DUNG CHI PHÍ": "Loại thiết bị 1",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": ""
+    },
+    {
+      "STT": "...",
+      "NỘI DUNG CHI PHÍ": "...",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": ""
+    },
+    {
+      "STT": "2",
+      "NỘI DUNG CHI PHÍ": "Chi phí gia công, chế tạo thiết bị cần gia công, chế tạo (nếu có)",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": "GGC"
+    },
+    {
+      "STT": "2.1",
+      "NỘI DUNG CHI PHÍ": "Loại thiết bị 1",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": ""
+    },
+    {
+      "STT": "...",
+      "NỘI DUNG CHI PHÍ": "...",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": ""
+    },
+    {
+      "STT": "3",
+      "NỘI DUNG CHI PHÍ": "Chi phí quản lý mua sắm thiết bị (nếu có)",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": "GQLMSTB"
+    },
+    {
+      "STT": "4",
+      "NỘI DUNG CHI PHÍ": "Chi phí mua bản quyền (nếu có)",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": "GBQ"
+    },
+    {
+      "STT": "5",
+      "NỘI DUNG CHI PHÍ": "Chi phí đào tạo và chuyển giao công nghệ (nếu có)",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": "GĐT"
+    },
+    {
+      "STT": "6",
+      "NỘI DUNG CHI PHÍ": "Chi phí lắp đặt, thí nghiệm, hiệu chỉnh",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": "GLĐ"
+    },
+    {
+      "STT": "7",
+      "NỘI DUNG CHI PHÍ": "Chi phí chạy thử nghiệm thiết bị theo yêu cầu kỹ thuật",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": "GCT"
+    },
+    {
+      "STT": "8",
+      "NỘI DUNG CHI PHÍ": "Chi phí vận chuyển",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": "GVC"
+    },
+    {
+      "STT": "9",
+      "NỘI DUNG CHI PHÍ": "Chi phí vật tư, thiết bị dự phòng (nếu có);",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": "GVT"
+    },
+    {
+      "STT": "10",
+      "NỘI DUNG CHI PHÍ": "Chi phí khác có liên quan (nếu có)",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": "GK"
+    },
+    {
+      "STT": "",
+      "NỘI DUNG CHI PHÍ": "TỔNG CỘNG (1+2+3+4+5+6+7+8+9+10)",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": "GTB"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_41",
+  "rows_count": 6,
+  "columns_count": 3,
+  "headers": [
+    "STT",
+    "Quỹ",
+    "Quyết toán"
+  ],
+  "records": [
+    {
+      "STT": "1",
+      "Quỹ": "Tổng số (1=2+3+4)",
+      "Quyết toán": ""
+    },
+    {
+      "STT": "2",
+      "Quỹ": "Quỹ phát triển hoạt động sự nghiệp",
+      "Quyết toán": ""
+    },
+    {
+      "STT": "3",
+      "Quỹ": "Quỹ bổ sung thu nhập",
+      "Quyết toán": ""
+    },
+    {
+      "STT": "3",
+      "Quỹ": "Trong đó: Chi thu nhập tăng thêm",
+      "Quyết toán": ""
+    },
+    {
+      "STT": "4",
+      "Quỹ": "Quỹ khen thưởng, Quỹ phúc lợi",
+      "Quyết toán": ""
+    }
+  ]
+}

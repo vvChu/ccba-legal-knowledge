@@ -1,0 +1,33 @@
+{
+  "table_id": "bang_08",
+  "rows_count": 5,
+  "columns_count": 4,
+  "headers": [
+    "Năm",
+    "Tổng số",
+    "Trong đó",
+    "Trong đó"
+  ],
+  "records": [
+    {
+      "Năm": "Năm",
+      "Tổng số": "Tổng số",
+      "Trong đó": "BQLDA sử dụng"
+    },
+    {
+      "Năm": "...",
+      "Tổng số": "",
+      "Trong đó": ""
+    },
+    {
+      "Năm": "...",
+      "Tổng số": "",
+      "Trong đó": ""
+    },
+    {
+      "Năm": "Chi dự phòng",
+      "Tổng số": "",
+      "Trong đó": ""
+    }
+  ]
+}

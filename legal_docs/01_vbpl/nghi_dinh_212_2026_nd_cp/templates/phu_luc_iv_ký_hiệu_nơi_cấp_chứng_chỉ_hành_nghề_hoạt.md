@@ -1,0 +1,233 @@
+---
+title: "KÝ HIỆU NƠI CẤP CHỨNG CHỈ HÀNH NGHỀ HOẠT ĐỘNG XÂY DỰNG"
+document: "212/2026/NĐ-CP"
+appendix: "Phụ lục IV"
+type: "form_template"
+usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
+---
+
+# Phụ Lục IV - KÝ HIỆU NƠI CẤP CHỨNG CHỈ HÀNH NGHỀ HOẠT ĐỘNG XÂY DỰNG
+*(Kèm theo 212/2026/NĐ-CP)*
+
+---
+
+__PHỤ LỤC IV__
+
+KÝ HIỆU NƠI CẤP CHỨNG CHỈ HÀNH NGHỀ HOẠT ĐỘNG XÂY DỰNG  
+*(Kèm theo Nghị định số 212/2026/NĐ-CP ngày 17 tháng 6 năm 2026 của Chính phủ)*
+
+__STT__
+
+__Nơi cấp__
+
+__Ký hiệu__
+
+__STT__
+
+__Nơi cấp__
+
+__Ký hiệu__
+
+1
+
+An Giang
+
+ANG
+
+18
+
+Lâm Đồng
+
+LAD
+
+2
+
+Bắc Ninh
+
+BAN
+
+19
+
+Lạng Sơn
+
+LAS
+
+3
+
+Cà Mau
+
+CAM
+
+20
+
+Lào Cai
+
+LCA
+
+4
+
+Cao Bằng
+
+CAB
+
+21
+
+Nghệ An
+
+NGA
+
+5
+
+Cần Thơ
+
+CAT
+
+22
+
+Ninh Bình
+
+NIB
+
+6
+
+Đà Nẵng
+
+DNA
+
+23
+
+Phú Thọ
+
+PHT
+
+7
+
+Đắk Lắk
+
+DAL
+
+24
+
+Quảng Ngãi
+
+QNG
+
+8
+
+Điện Biên
+
+DIB
+
+25
+
+Quảng Ninh
+
+QNI
+
+9
+
+Đồng Nai
+
+DON
+
+26
+
+Quảng Trị
+
+QTR
+
+10
+
+Đồng Tháp
+
+DOT
+
+27
+
+Sơn La
+
+SOL
+
+11
+
+Gia Lai
+
+GIL
+
+28
+
+Tây Ninh
+
+TAN
+
+12
+
+Hà Nội
+
+HAN
+
+29
+
+Thái Nguyên
+
+THN
+
+13
+
+Hà Tĩnh
+
+HAT
+
+30
+
+Thanh Hóa
+
+THH
+
+14
+
+Hải Phòng
+
+HAP
+
+31
+
+Huế
+
+HUE
+
+15
+
+Hưng Yên
+
+HUY
+
+32
+
+TP. Hồ Chí Minh
+
+HCM
+
+16
+
+Khánh Hòa
+
+KHH
+
+33
+
+Tuyên Quang
+
+TUQ
+
+17
+
+Lai Châu
+
+LAC
+
+34
+
+Vĩnh Long
+
+VIL

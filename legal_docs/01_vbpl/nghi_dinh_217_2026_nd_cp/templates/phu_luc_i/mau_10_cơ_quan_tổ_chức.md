@@ -14,23 +14,27 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 10. Áp dụng đối với dự án có yêu cầu lập Báo cáo kinh tế - kỹ thuật__
 
-__CƠ QUAN/TỔ CHỨC
-PHÊ DUYỆT
+__CƠ QUAN/TỔ CHỨC   
+PHÊ DUYỆT  
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
 ---------------__
 
 Số: ...
 
 *..., ngày ... tháng ... năm ....*
 
+ 
+
 __QUYẾT ĐỊNH__
 
 __Phê duyệt dự án/hạng mục công trình của dự án __*(tên dự án)*
 
 __NGƯỜI ĐẠI DIỆN CƠ QUAN/TỔ CHỨC PHÊ DUYỆT__
+
+ 
 
 *Căn cứ **Luật Xây dựng ngày ... tháng ... năm 2025;*
 
@@ -84,12 +88,14 @@ __Điều 2. __Tổ chức thực hiện.
 
 __Điều 3. __Tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
 
-__*Nơi nhận:*__
-- Như Điều 3;
-- Các cơ quan có liên quan;
+ 
+
+__*Nơi nhận:*__  
+- Như Điều 3;  
+- Các cơ quan có liên quan;  
 - Lưu:...
 
-__NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ__
+__NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ__  
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*
 
 ______________________________

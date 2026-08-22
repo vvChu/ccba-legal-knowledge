@@ -1,434 +1,4803 @@
-__CHÍNH PHỦ
--------__
+---
+id: "nghi_dinh_24_2024_nd_cp"
+document_number: "24/2024/NĐ-CP"
+title: "Nghị định 24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu"
+issued_by: "Chính phủ"
+signer: "Đang cập nhật"
+issued_date: "2024-02-27"
+effective_date: "2024-02-27"
+status: "active"
+pdf_anchor: "./nghi_dinh_24_2024_nd_cp.pdf"
+legal_basis:
+- doc_id: luật_tổ_chức_chính_phủ_ngày_19_tháng_6_năm_2015
+  title: Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015
+- doc_id: luật_đấu_thầu_ngày_23_tháng_6_năm_2023
+  title: Luật Đấu thầu ngày 23 tháng 6 năm 2023
+---
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
----------------__
+# 24/2024/NĐ-CP
+## NGHỊ ĐỊNH 24/2024/NĐ-CP QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP THI HÀNH LUẬT ĐẤU THẦU VỀ LỰA CHỌN NHÀ THẦU
 
-Số: 24/2024/NĐ-CP
-
-*Hà Nội, ngày 27 tháng 02 năm 2024*
-
-__NGHỊ ĐỊNH__
-
-QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP THI HÀNH LUẬT ĐẤU THẦU VỀ LỰA CHỌN NHÀ THẦU
-
-*Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;*
-
-*Căn cứ Luật Đấu thầu số 22/2023/QH15 ngày 23 tháng 6 năm 2023;*
-
-*Căn cứ Luật Xây dựng số 50/2014/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 62/2020/QH14 và Luật Xây dựng số 135/2025/QH15;*
-
-*Căn cứ Luật Doanh nghiệp số 59/2020/QH14 đã được sửa đổi, bổ sung một số điều theo Luật số 03/2022/QH15;*
-
-*Theo đề nghị của Bộ trưởng Bộ Kế hoạch và Đầu tư;*
-
-*Chính phủ ban hành Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu.*
+> [!NOTE]
+> **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
+> **Ngày ban hành:** 2024-02-27 | **Hiệu lực:** 2024-02-27.  
+> **Mỏ neo PDF Công báo (PDF Anchor of Trust):** [`nghi_dinh_24_2024_nd_cp.pdf`](./nghi_dinh_24_2024_nd_cp.pdf) *(SHA-256: `810b9139d0074b49ab5b873667793d4c52433fc365fbfec787db408c17a1b104`)*.
 
 ---
 
-### Chương I
 
-__NHỮNG QUY ĐỊNH CHUNG__
+
 
 <a id="dieu-1"></a>
 ### Điều 1. Phạm vi điều chỉnh
 
 <a id="dieu-1-khoan-1"></a>
-1. Nghị định này quy định chi tiết một số điều của Luật Đấu thầu số 22/2023/QH15 về:
+**1.** Nghị định này quy định chi tiết một số điều của Luật Đấu thầu về lựa chọn nhà thầu, bao gồm:
 
-a) Bảo đảm cạnh tranh trong đấu thầu; ưu đãi trong lựa chọn nhà thầu; chi phí trong lựa chọn nhà thầu; năng lực, kinh nghiệm của thành viên tổ chuyên gia, tổ thẩm định; các trường hợp hủy thầu, đình chỉ cuộc thầu;
+a) Khoản 6 Điều 6 về bảo đảm cạnh tranh trong đấu thầu;
 
-b) Lập, thẩm định, phê duyệt kế hoạch lựa chọn nhà thầu;
+b) Khoản 6 Điều 10 về ưu đãi trong lựa chọn nhà thầu;
 
-c) Quy trình, thủ tục lựa chọn nhà thầu đối với đấu thầu rộng rãi, đấu thầu hạn chế, chỉ định thầu, chào hàng cạnh tranh, mua sắm trực tiếp, tự thực hiện;
+c) Khoản 3 Điều 15 về chi phí trong lựa chọn nhà thầu;
 
-d) Tiêu chuẩn đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu; phương pháp đánh giá hồ sơ dự thầu, hồ sơ đề xuất;
+d) Khoản 4 Điều 19 về năng lực, kinh nghiệm của thành viên tổ chuyên gia, tổ thẩm định;
 
-đ) Quy trình lựa chọn nhà thầu qua mạng trên Hệ thống mạng đấu thầu quốc gia;
+đ) Khoản 2 Điều 20 về các hình thức lựa chọn nhà thầu khác;
 
-e) Mua sắm tập trung, mua sắm định kỳ, mua sắm thuốc, thiết bị y tế;
+e) Khoản 7 Điều 23 về chỉ định thầu;
 
-g) Hợp đồng trong hoạt động lựa chọn nhà thầu;
+g) Khoản 4 Điều 29 về lựa chọn nhà thầu trong trường hợp đặc biệt;
 
-h) Kiểm tra, giám sát hoạt động đấu thầu và giải quyết kiến nghị trong hoạt động đấu thầu;
+h) Khoản 4 Điều 36 về kế hoạch tổng thể lựa chọn nhà thầu cho dự án;
 
-i) Xử lý vi phạm trong hoạt động đấu thầu.
+i) Khoản 2 Điều 39 về nội dung kế hoạch lựa chọn nhà thầu;
+
+k) Khoản 8 Điều 43 về quy trình, thủ tục lựa chọn nhà thầu;
+
+l) Khoản 1 và khoản 5 Điều 50 về lựa chọn nhà thầu qua mạng;
+
+m) Khoản 7 Điều 53 về mua sắm tập trung;
+
+n) Khoản 3 và khoản 4 Điều 55 về lựa chọn nhà thầu cung cấp thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế;
+
+o) Khoản 4 Điều 67 về ký kết hợp đồng với nhà thầu được lựa chọn;
+
+p) Khoản 6 Điều 70 về sửa đổi hợp đồng;
+
+q) Khoản 2 Điều 84 về trách nhiệm quản lý nhà nước về đấu thầu;
+
+r) Khoản 4 Điều 86 về thanh tra, kiểm tra, giám sát hoạt động đấu thầu;
+
+s) Khoản 5 Điều 87 về xử lý vi phạm;
+
+t) Khoản 4 Điều 88 về xử lý tình huống trong đấu thầu.
+
+<a id="dieu-1-khoan-2"></a>
+**2.** Các biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu, bao gồm:
+
+a) Đăng ký trên Hệ thống mạng đấu thầu quốc gia;
+
+b) Thời gian tổ chức lựa chọn nhà thầu;
+
+c) Thẩm quyền quyết định việc mua sắm đối với dự toán mua sắm;
+
+d) Công khai thông tin trong hoạt động đấu thầu;
+
+đ) Quản lý nhà thầu.
+
+<a id="dieu-1-khoan-3"></a>
+**3.** Việc lựa chọn nhà thầu cung cấp sản phẩm, dịch vụ công theo hình thức đặt hàng, giao nhiệm vụ thực hiện theo quy định riêng của Chính phủ.
+
 
 <a id="dieu-2"></a>
-### Điều 2. Đối tượng áp dụng
+### Điều 2. Giải thích từ ngữ
 
 <a id="dieu-2-khoan-1"></a>
-1. Cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động lựa chọn nhà thầu thuộc phạm vi điều chỉnh quy định tại Điều 1 của Luật Đấu thầu.
+**1.** Chào giá trực tuyến là một quá trình lặp lại nhiều lần việc nhà thầu sử dụng phương tiện điện tử để đưa ra mức giá mới hoặc giá trị mới cho yếu tố ngoài giá có thể định lượng được theo các tiêu chuẩn đánh giá trong hồ sơ mời thầu để làm cơ sở cho việc xếp hạng hoặc xếp hạng lại hồ sơ dự thầu trên Hệ thống mạng đấu thầu quốc gia.
 
 <a id="dieu-2-khoan-2"></a>
-2. Tổ chức, cá nhân có hoạt động đấu thầu không thuộc phạm vi điều chỉnh quy định tại Điều 1 của Luật Đấu thầu được tự lựa chọn áp dụng toàn bộ hoặc các điều, khoản, điểm cụ thể của Nghị định này.
+**2.** Đấu thầu bền vững bao gồm 03 yếu tố quan trọng về môi trường, xã hội, kinh tế được lồng ghép vào quá trình lựa chọn nhà thầu: lập kế hoạch tổng thể lựa chọn nhà thầu (nếu có), kế hoạch lựa chọn nhà thầu, lập thiết kế, lập hồ sơ mời thầu, hồ sơ yêu cầu, đánh giá hồ sơ dự thầu, hồ sơ đề xuất, ký kết và quản lý thực hiện hợp đồng.
+
+<a id="dieu-2-khoan-3"></a>
+**3.** Giá trúng thầu là giá được ghi trong quyết định phê duyệt kết quả lựa chọn nhà thầu.
+
+<a id="dieu-2-khoan-4"></a>
+**4.** Mua sắm trực tuyến là việc mua trực tiếp hàng hóa, dịch vụ trên Hệ thống mạng đấu thầu quốc gia từ nhà thầu đã trúng thầu gói thầu cung cấp hàng hóa, dịch vụ đó thông qua mua sắm tập trung.
+
 
 <a id="dieu-3"></a>
 ### Điều 3. Bảo đảm cạnh tranh trong đấu thầu
 
 <a id="dieu-3-khoan-1"></a>
-1. Nhà thầu tham dự thầu độc lập phải độc lập về pháp lý và độc lập về tài chính với chủ đầu tư, bên mời thầu theo quy định tại khoản 2 Điều 6 của Luật Đấu thầu.
+**1.** Nhà thầu tham dự thầu gói thầu xây lắp, mua sắm hàng hóa, phi tư vấn, PC phải độc lập về pháp lý và độc lập về tài chính với các bên sau đây:
+
+a) Nhà thầu cung cấp dịch vụ tư vấn cho gói thầu đó, bao gồm: lập, thẩm tra thiết kế kỹ thuật, thiết kế bản vẽ thi công, dự toán, thiết kế kỹ thuật tổng thể (Front - End Engineering Design - thiết kế FEED); thẩm định giá; giám sát thực hiện hợp đồng, kiểm định; lập, thẩm định hồ sơ mời sơ tuyển, hồ sơ mời thầu; đánh giá hồ sơ dự sơ tuyển, hồ sơ dự thầu; thẩm định kết quả sơ tuyển, kết quả lựa chọn nhà thầu; tư vấn quản lý dự án, quản lý hợp đồng, tư vấn khác mà các dịch vụ tư vấn này có phần công việc liên quan trực tiếp tới gói thầu;
+
+b) Chủ đầu tư, bên mời thầu, trừ trường hợp quy định tại khoản 8 và khoản 9 Điều này.
 
 <a id="dieu-3-khoan-2"></a>
-2. Nhà thầu tham dự thầu gói thầu xây lắp, cung cấp thiết bị không được có cổ phần hoặc vốn góp trên 30% với nhà thầu tư vấn thiết kế, tư vấn lập dự toán, tư vấn giám sát thực hiện gói thầu đó.
+**2.** Nhà thầu tham dự thầu gói thầu dịch vụ tư vấn phải độc lập về pháp lý và độc lập về tài chính với các bên sau đây:
+
+a) Nhà thầu cung cấp dịch vụ tư vấn cho gói thầu đó, bao gồm: lập, thẩm định hồ sơ mời quan tâm, hồ sơ mời thầu; đánh giá hồ sơ quan tâm, hồ sơ dự thầu; thẩm định kết quả mời quan tâm, kết quả lựa chọn nhà thầu; tư vấn quản lý dự án, quản lý hợp đồng, tư vấn khác mà các dịch vụ tư vấn này có phần công việc liên quan trực tiếp tới gói thầu;
+
+b) Chủ đầu tư, bên mời thầu, trừ trường hợp quy định tại khoản 8 và khoản 9 Điều này;
+
+c) Ngoài quy định tại điểm a và điểm b khoản này, nhà thầu tham dự gói thầu dịch vụ tư vấn liên quan đến gói thầu cung cấp hàng hóa, xây lắp, phi tư vấn, bao gồm: lập, thẩm tra thiết kế kỹ thuật, thiết kế bản vẽ thi công, dự toán; lập, thẩm tra thiết kế FEED; thẩm định giá; lập, thẩm định hồ sơ mời sơ tuyển, hồ sơ mời thầu; đánh giá hồ sơ dự sơ tuyển, hồ sơ dự thầu; thẩm định kết quả sơ tuyển, kết quả lựa chọn nhà thầu; kiểm định, giám sát thực hiện hợp đồng phải độc lập về pháp lý và độc lập về tài chính với nhà thầu cung cấp hàng hóa, xây lắp, phi tư vấn đó.
 
 <a id="dieu-3-khoan-3"></a>
-3. Nhà thầu tư vấn quản lý dự án, tư vấn giám sát không được đồng thời là nhà thầu thi công xây dựng hoặc cung ứng vật tư, thiết bị cho gói thầu mà mình quản lý, giám sát.
+**3.** Nhà thầu tham dự gói thầu EPC, EP, EC phải độc lập về pháp lý và độc lập về tài chính với các bên sau đây:
+
+a) Nhà thầu lập, thẩm tra thiết kế FEED;
+
+b) Nhà thầu lập, thẩm tra báo cáo nghiên cứu khả thi trong trường hợp không lập thiết kế FEED;
+
+c) Nhà thầu lập, thẩm tra báo cáo kinh tế kỹ thuật trong trường hợp không lập báo cáo nghiên cứu khả thi, không lập thiết kế FEED theo quy định của pháp luật về xây dựng;
+
+d) Nhà thầu tư vấn quản lý dự án, tư vấn giám sát, tư vấn kiểm định, tư vấn quản lý hợp đồng của chủ đầu tư, bên mời thầu hoặc do chủ đầu tư, bên mời thầu thuê;
+
+đ) Nhà thầu tư vấn thẩm định giá; nhà thầu lập, thẩm định hồ sơ mời sơ tuyển, hồ sơ mời thầu; nhà thầu tư vấn đánh giá hồ sơ dự sơ tuyển, hồ sơ dự thầu; nhà thầu tư vấn thẩm định kết quả đánh giá hồ sơ dự sơ tuyển, kết quả lựa chọn nhà thầu; nhà thầu tư vấn khác tham gia trực tiếp trong quá trình tổ chức lựa chọn nhà thầu;
+
+e) Chủ đầu tư, bên mời thầu, trừ trường hợp quy định tại khoản 8 và khoản 9 Điều này;
+
+Phạm vi công việc thiết kế trong gói thầu EPC, EP, EC thuộc dự án đầu tư xây dựng quy định tại khoản này có thể là thiết kế FEED hoặc thiết kế cơ sở; không hình thành gói thầu EPC, EP, EC khi đã có thiết kế kỹ thuật hoặc công trình thiết kế hai bước theo quy định của pháp luật về xây dựng.
+
+<a id="dieu-3-khoan-4"></a>
+**4.** Nhà thầu tham dự gói thầu chìa khóa trao tay phải độc lập về pháp lý và độc lập về tài chính với các bên sau đây:
+
+a) Nhà thầu lập, thẩm tra báo cáo nghiên cứu tiền khả thi;
+
+b) Nhà thầu tư vấn quản lý dự án, tư vấn giám sát, tư vấn kiểm định, tư vấn quản lý hợp đồng của chủ đầu tư, bên mời thầu hoặc do chủ đầu tư, bên mời thầu thuê;
+
+c) Nhà thầu tư vấn lập, thẩm định hồ sơ mời sơ tuyển, hồ sơ mời thầu; nhà thầu tư vấn đánh giá hồ sơ dự sơ tuyển, hồ sơ dự thầu; nhà thầu tư vấn thẩm định kết quả lựa chọn nhà thầu; nhà thầu tư vấn khác tham gia trực tiếp trong quá trình tổ chức lựa chọn nhà thầu;
+
+d) Chủ đầu tư, bên mời thầu, trừ trường hợp quy định tại khoản 8 và khoản 9 Điều này.
+
+<a id="dieu-3-khoan-5"></a>
+**5.** Trừ trường hợp nhà thầu thực hiện công việc thiết kế của gói thầu EPC, EP, EC, chìa khóa trao tay phải độc lập về pháp lý và độc lập về tài chính với các nhà thầu tư vấn quy định tại các điểm a, b, c, d và đ khoản 3 Điều này, các điểm a, b và c khoản 4 Điều này, nhà thầu tư vấn có thể tham gia cung cấp một hoặc nhiều dịch vụ tư vấn cho cùng một dự án, gói thầu bao gồm:
+
+a) Lập, thẩm tra báo cáo đề xuất chủ trương đầu tư;
+
+b) Lập, thẩm tra báo cáo nghiên cứu tiền khả thi;
+
+c) Lập, thẩm tra báo cáo nghiên cứu khả thi;
+
+d) Lập, thẩm tra báo cáo kinh tế kỹ thuật;
+
+đ) Khảo sát xây dựng;
+
+e) Lập, thẩm tra hồ sơ thiết kế, dự toán;
+
+g) Lập, thẩm định kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu, hồ sơ mời sơ tuyển, hồ sơ mời quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu; đánh giá hồ sơ dự sơ tuyển, hồ sơ quan tâm, hồ sơ dự thầu, hồ sơ đề xuất; thẩm định kết quả đánh giá hồ sơ dự sơ tuyển, kết quả đánh giá hồ sơ quan tâm, kết quả lựa chọn nhà thầu;
+
+h) Tư vấn giám sát.
+
+Đối với từng nội dung quy định tại các điểm a, b, c, d, e và g khoản này, nhà thầu chỉ được thực hiện lập hoặc thẩm tra hoặc thẩm định.
+
+<a id="dieu-3-khoan-6"></a>
+**6.** Tỷ lệ cổ phần, vốn góp giữa các bên được xác định tại thời điểm đóng thầu và theo tỷ lệ ghi trong giấy chứng nhận đăng ký doanh nghiệp, quyết định thành lập, các giấy tờ khác có giá trị tương đương.
+
+<a id="dieu-3-khoan-7"></a>
+**7.** Trường hợp nhà thầu tham dự thầu với tư cách liên danh hoặc nhà thầu tư vấn được lựa chọn với tư cách liên danh, tỷ lệ sở hữu vốn của tổ chức, cá nhân khác trong liên danh được xác định theo công thức sau:
+
+![](data:image/png;base64,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)Trong đó:
+
+Xi: Là tỷ lệ sở hữu vốn của tổ chức, cá nhân khác trong thành viên liên danh thứ i;
+
+Yi: Là tỷ lệ phần trăm (%) khối lượng công việc của thành viên liên danh thứ i trong thỏa thuận liên danh;
+
+n: Là số thành viên tham gia trong liên danh.
+
+<a id="dieu-3-khoan-8"></a>
+**8.** Công ty mẹ, công ty con, công ty thành viên trong tập đoàn kinh tế, tổng công ty nhà nước được tham dự gói thầu của nhau nếu sản phẩm, dịch vụ thuộc gói thầu đó thuộc ngành nghề sản xuất kinh doanh chính của tập đoàn kinh tế, tổng công ty nhà nước. Nhà thầu tham dự thầu vẫn phải độc lập về pháp lý và độc lập về tài chính với các nhà thầu quy định tại các điểm a, b, c khoản 1 và khoản 2 Điều 6 của Luật Đấu thầu.
+
+<a id="dieu-3-khoan-9"></a>
+**9.** Đơn vị sự nghiệp công lập và doanh nghiệp có cùng một cơ quan trực tiếp quản lý, góp vốn khi tham dự thầu các gói thầu của nhau không phải đáp ứng quy định độc lập về pháp lý và độc lập về tài chính giữa nhà thầu với chủ đầu tư, bên mời thầu.
+
 
 <a id="dieu-4"></a>
-### Điều 4. Ưu đãi trong lựa chọn nhà thầu
+### Điều 4. Nguyên tắc ưu đãi
 
 <a id="dieu-4-khoan-1"></a>
-1. Hàng hóa xuất xứ Việt Nam được hưởng ưu đãi khi có tỷ lệ chi phí sản xuất trong nước từ 30% trở lên.
+**1.** Nhà thầu tham dự thầu thuộc đối tượng được hưởng nhiều hơn một loại ưu đãi trong đánh giá về năng lực và kinh nghiệm hoặc trong đánh giá về tài chính thì khi tính ưu đãi chỉ được hưởng một loại ưu đãi có lợi nhất cho nhà thầu tương ứng với từng nội dung đánh giá về năng lực và kinh nghiệm hoặc đánh giá về tài chính.
 
 <a id="dieu-4-khoan-2"></a>
-2. Doanh nghiệp nhỏ và vừa, hợp tác xã, doanh nghiệp khởi nghiệp sáng tạo được hưởng ưu đãi trong các gói thầu xây lắp có giá gói thầu không quá 05 tỷ đồng.
+**2.** Trường hợp tất cả các nhà thầu tham dự thầu đều được hưởng ưu đãi như nhau hoặc tất cả các nhà thầu đều không thuộc đối tượng được hưởng ưu đãi thì không cần tính ưu đãi để so sánh, xếp hạng.
 
 <a id="dieu-4-khoan-3"></a>
-3. Cách tính điểm ưu đãi: Cộng thêm điểm vào điểm đánh giá hoặc trừ bớt vào giá đánh giá theo tỷ lệ quy định tại Hồ sơ mời thầu.
+**3.** Đối với gói thầu hỗn hợp, việc tính ưu đãi căn cứ tất cả các đề xuất của nhà thầu trong các phần công việc tư vấn, cung cấp hàng hóa, xây lắp. Nhà thầu được hưởng ưu đãi khi có đề xuất chi phí trong nước (chi phí tư vấn; phi tư vấn; hàng hóa có xuất xứ Việt Nam; xây lắp) từ 25% trở lên giá trị công việc của gói thầu.
+
+<a id="dieu-4-khoan-4"></a>
+**4.** Nhà thầu phải chứng minh nhà thầu, hàng hóa, dịch vụ do nhà thầu chào thuộc đối tượng được hưởng ưu đãi theo quy định tại khoản 1 Điều 10 của Luật Đấu thầu.
+
 
 <a id="dieu-5"></a>
-### Điều 5. Chi phí trong lựa chọn nhà thầu
+### Điều 5. Ưu đãi đối với hàng hóa có xuất xứ Việt Nam
 
 <a id="dieu-5-khoan-1"></a>
-1. Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu được phát hành miễn phí trên Hệ thống mạng đấu thầu quốc gia.
+**1.** Ưu đãi đối với hàng hóa có xuất xứ Việt Nam có tỷ lệ chi phí sản xuất trong nước dưới 50% và không có hàng hóa nào có chi phí sản xuất trong nước từ 50% trở lên được xác định như sau:
+
+a) Trường hợp áp dụng phương pháp giá thấp nhất, hàng hóa không thuộc đối tượng được hưởng ưu đãi phải cộng thêm một khoản tiền bằng 7,5% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa đó vào giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của nhà thầu để so sánh, xếp hạng;
+
+b) Trường hợp áp dụng phương pháp giá đánh giá, hàng hóa không thuộc đối tượng được hưởng ưu đãi phải cộng thêm một khoản tiền bằng 7,5% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa đó vào giá đánh giá của nhà thầu để so sánh, xếp hạng;
+
+c) Trường hợp áp dụng phương pháp kết hợp giữa kỹ thuật và giá, hàng hóa thuộc đối tượng được hưởng ưu đãi được cộng điểm ưu đãi vào điểm tổng hợp theo công thức sau đây:
+
+Điểm ưu đãi = 7,5% x (giá hàng hóa ưu đãi/giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch trừ giá trị giảm giá (nếu có)) x điểm tổng hợp
+
+Trong đó: Giá hàng hóa ưu đãi là giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa thuộc đối tượng được hưởng ưu đãi;
+
+d) Đối với các trường hợp quy định tại các điểm a, b và c khoản này, nhà thầu chào hàng hóa có xuất xứ Việt Nam có tỷ lệ chi phí sản xuất trong nước dưới 50% mà cơ sở sản xuất có từ 50% lao động là người khuyết tật, thương binh, dân tộc thiểu số có hợp đồng lao động với thời gian thực hiện hợp đồng từ 03 tháng trở lên và đến thời điểm đóng thầu hợp đồng vẫn còn hiệu lực thì được hưởng hệ số ưu đãi 10% thay cho hệ số ưu đãi 7,5%.
 
 <a id="dieu-5-khoan-2"></a>
-2. Chi phí nộp hồ sơ dự thầu, chi phí đăng tải thông tin và chi phí duy trì cơ sở dữ liệu nhà thầu thực hiện theo biểu giá do Bộ Kế hoạch và Đầu tư quy định.
+**2.** Ưu đãi đối với hàng hóa có xuất xứ Việt Nam có tỷ lệ chi phí sản xuất trong nước từ 50% trở lên được xác định như sau:
+
+a) Trường hợp áp dụng phương pháp giá thấp nhất, hàng hóa không thuộc đối tượng được hưởng ưu đãi phải cộng thêm một khoản tiền bằng 10% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa đó vào giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của nhà thầu để so sánh, xếp hạng; hàng hóa thuộc đối tượng ưu đãi mà có tỷ lệ chi phí sản xuất trong nước dưới 50% phải cộng thêm một khoản tiền bằng 2,5% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa đó vào giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của nhà thầu để so sánh, xếp hạng; hàng hóa có xuất xứ Việt Nam có tỷ lệ chi phí sản xuất trong nước dưới 50% mà cơ sở sản xuất có từ 50% lao động là người khuyết tật, thương binh, dân tộc thiểu số có hợp đồng lao động với thời gian thực hiện hợp đồng từ 03 tháng trở lên và đến thời điểm đóng thầu hợp đồng vẫn còn hiệu lực thì không phải cộng thêm tiền vào giá dự thầu của nhà thầu để so sánh, xếp hạng;
+
+b) Trường hợp áp dụng phương pháp giá đánh giá, hàng hóa không thuộc đối tượng được hưởng ưu đãi phải cộng thêm một khoản tiền bằng 10% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa đó vào giá đánh giá của nhà thầu để so sánh, xếp hạng; hàng hóa thuộc đối tượng ưu đãi mà có tỷ lệ chi phí sản xuất trong nước dưới 50% phải cộng thêm một khoản tiền bằng 2,5% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa đó vào giá đánh giá của nhà thầu để so sánh, xếp hạng; hàng hóa có xuất xứ Việt Nam có tỷ lệ chi phí sản xuất trong nước dưới 50% mà cơ sở sản xuất có từ 50% lao động là người khuyết tật, thương binh, dân tộc thiểu số có hợp đồng lao động với thời gian thực hiện hợp đồng từ 03 tháng trở lên và đến thời điểm đóng thầu hợp đồng vẫn còn hiệu lực thì không phải cộng thêm tiền vào giá đánh giá của nhà thầu để so sánh, xếp hạng;
+
+c) Trường hợp áp dụng phương pháp kết hợp giữa kỹ thuật và giá, hàng hóa thuộc đối tượng được hưởng ưu đãi mà có tỷ lệ chi phí sản xuất trong nước từ 50% trở lên được cộng điểm ưu đãi vào điểm tổng hợp theo công thức sau đây:
+
+Điểm ưu đãi = 10% x (giá hàng hóa ưu đãi/giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch trừ giá trị giảm giá (nếu có)) x điểm tổng hợp
+
+Trong đó: Giá hàng hóa ưu đãi là giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa có tỷ lệ chi phí sản xuất trong nước từ 50% trở lên.
+
+Trường hợp hàng hóa thuộc đối tượng ưu đãi mà có tỷ lệ chi phí sản xuất trong nước dưới 50% thì áp dụng công thức quy định tại điểm c khoản 1 Điều này; hàng hóa có xuất xứ Việt Nam có tỷ lệ chi phí sản xuất trong nước dưới 50% mà cơ sở sản xuất có từ 50% lao động là người khuyết tật, thương binh, dân tộc thiểu số có hợp đồng lao động với thời gian thực hiện hợp đồng từ 03 tháng trở lên và đến thời điểm đóng thầu hợp đồng vẫn còn hiệu lực thì hệ số ưu đãi là 10%;
+
+d) Đối với các trường hợp quy định tại các điểm a, b và c khoản này, nhà thầu chào hàng hóa có xuất xứ Việt Nam có tỷ lệ chi phí sản xuất trong nước từ 50% trở lên mà cơ sở sản xuất có từ 50% lao động là người khuyết tật, thương binh, dân tộc thiểu số có hợp đồng lao động với thời gian thực hiện hợp đồng từ 03 tháng trở lên, đến thời điểm đóng thầu hợp đồng vẫn còn hiệu lực thì được hưởng hệ số ưu đãi 12% thay cho hệ số ưu đãi 10%.
 
 <a id="dieu-5-khoan-3"></a>
-3. Chi phí thẩm định kế hoạch lựa chọn nhà thầu, thẩm định hồ sơ mời thầu và thẩm định kết quả lựa chọn nhà thầu được tính theo tỷ lệ phần trăm trên giá trị gói thầu trong tổng mức đầu tư dự án.
+**3.** Sản phẩm đổi mới sáng tạo là hàng hóa có xuất xứ Việt Nam được hưởng ưu đãi như sau:
+
+a) Trường hợp áp dụng phương pháp giá thấp nhất, hàng hóa không thuộc đối tượng được hưởng ưu đãi phải cộng thêm một khoản tiền bằng 15% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa đó vào giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của nhà thầu để so sánh, xếp hạng; hàng hóa thuộc đối tượng ưu đãi mà có tỷ lệ chi phí sản xuất trong nước dưới 50% phải cộng thêm một khoản tiền bằng 7,5% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa đó vào giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của nhà thầu để so sánh, xếp hạng; hàng hóa thuộc đối tượng ưu đãi mà có tỷ lệ chi phí sản xuất trong nước từ 50% trở lên phải cộng thêm một khoản tiền bằng 5% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa đó vào giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của nhà thầu để so sánh, xếp hạng;
+
+b) Trường hợp áp dụng phương pháp giá đánh giá, hàng hóa không thuộc đối tượng được hưởng ưu đãi phải cộng thêm một khoản tiền bằng 15% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa đó vào giá đánh giá của nhà thầu để so sánh, xếp hạng; hàng hóa thuộc đối tượng ưu đãi mà có tỷ lệ chi phí sản xuất trong nước dưới 50% phải cộng thêm một khoản tiền bằng 7,5% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa đó vào giá đánh giá của nhà thầu để so sánh, xếp hạng; hàng hóa thuộc đối tượng ưu đãi mà có tỷ lệ chi phí sản xuất trong nước từ 50% trở lên phải cộng thêm một khoản tiền bằng 5% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa đó vào giá đánh giá của nhà thầu để so sánh, xếp hạng;
+
+c) Trường hợp áp dụng phương pháp kết hợp giữa kỹ thuật và giá, sản phẩm đổi mới sáng tạo xuất xứ Việt Nam được cộng điểm ưu đãi vào điểm tổng hợp theo công thức sau đây:
+
+Điểm ưu đãi = 15% x (giá hàng hóa ưu đãi/giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch trừ giá trị giảm giá (nếu có)) x điểm tổng hợp
+
+Trong đó: Giá hàng hóa ưu đãi là giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hàng hóa là sản phẩm đổi mới sáng tạo xuất xứ Việt Nam;
+
+Đối với các hàng hóa không phải là sản phẩm đổi mới sáng tạo xuất xứ Việt Nam, trường hợp nhà thầu chào hàng hóa có xuất xứ Việt Nam có tỷ lệ chi phí sản xuất trong nước dưới 50% thì khi tính ưu đãi, hệ số 15% được thay bằng 7,5%; hàng hóa có xuất xứ Việt Nam có tỷ lệ chi phí sản xuất trong nước từ 50% trở lên thì khi tính ưu đãi, hệ số 15% được thay bằng 10%.
+
+<a id="dieu-5-khoan-4"></a>
+**4.** Sản phẩm đổi mới sáng tạo xuất xứ Việt Nam được hưởng ưu đãi theo quy định tại khoản 3 Điều này khi đáp ứng một trong các điều kiện sau:
+
+a) Sản phẩm thuộc danh mục công nghệ cao được ưu tiên đầu tư phát triển hoặc danh mục sản phẩm công nghệ cao được khuyến khích phát triển theo quyết định của Thủ tướng Chính phủ;
+
+b) Sản phẩm hình thành từ kết quả nghiên cứu khoa học và công nghệ của doanh nghiệp khoa học và công nghệ theo quy định của pháp luật về doanh nghiệp khoa học và công nghệ;
+
+c) Sản phẩm được tạo ra trên cơ sở sáng chế, thiết kế bố trí mạch tích hợp bán dẫn, giống cây trồng của chính nhà thầu được cấp văn bằng bảo hộ trong thời hạn không quá 05 năm kể từ ngày được cấp hoặc chương trình máy tính của chính nhà thầu trong thời hạn không quá 05 năm kể từ ngày được cấp giấy chứng nhận đăng ký quyền tác giả;
+
+d) Sản phẩm chip bán dẫn;
+
+đ) Sản phẩm đạt giải thưởng Hồ Chí Minh, giải thưởng nhà nước về khoa học và công nghệ theo quy định của pháp luật về giải thưởng khoa học và công nghệ;
+
+e) Sản phẩm mới tạo ra từ kết quả nghiên cứu và phát triển tại một trong các cơ sở của Trung tâm Đổi mới sáng tạo Quốc gia;
+
+g) Sản phẩm mới tạo ra từ kết quả nghiên cứu khoa học và phát triển công nghệ theo quy định của pháp luật về chuyển giao công nghệ.
+
+Sản phẩm đổi mới sáng tạo quy định tại khoản này được hưởng ưu đãi trong thời hạn 06 năm kể từ lần đầu được sản xuất và đủ điều kiện để đưa ra thị trường.
+
+<a id="dieu-5-khoan-5"></a>
+**5.** Hàng hóa lưu thông trong nước có xuất xứ Việt Nam (hàng hóa sản xuất tại Việt Nam) được hưởng ưu đãi như sau:
+
+a) Đối với sản phẩm phần mềm công nghệ thông tin:
+
+Tiêu chí xác định sản phẩm phần mềm công nghệ thông tin sản xuất trong nước được hưởng ưu đãi thực hiện theo quy định của pháp luật về công nghệ thông tin, không yêu cầu về hàm lượng chi phí sản xuất trong nước theo quy định tại điểm b khoản này;
+
+b) Đối với các hàng hóa khác ngoài quy định tại điểm a khoản này:
+
+Việc xác định hàng hóa sản xuất tại Việt Nam có thể áp dụng công thức trực tiếp hoặc công thức gián tiếp sau:
+
+Công thức trực tiếp: D (%) = G\*/G x 100%
+
+Công thức gián tiếp: D (%) = (G - C)/G x 100%
+
+Trong đó:
+
+G\*: Là chi phí sản xuất trong nước;
+
+G: Là giá chào của hàng hóa trong hồ sơ dự thầu, hồ sơ đề xuất trừ đi giá trị thuế; đối với nhà thầu là nhà sản xuất thì G là giá xuất xưởng (giá EXW) của hàng hóa;
+
+C: Là giá trị của các chi phí nhập ngoại, không bao gồm thuế, phí liên quan đến nhập khẩu;
+
+D: Là tỷ lệ % chi phí sản xuất trong nước của hàng hóa. D ≥ 30% thì hàng hóa đó được hưởng ưu đãi theo quy định tại Điều này và các Điều 6, 7, 8, 9, 10 của Nghị định này.
+
 
 <a id="dieu-6"></a>
-### Điều 6. Bảo đảm dự thầu
+### Điều 6. Ưu đãi đối với đấu thầu quốc tế
 
 <a id="dieu-6-khoan-1"></a>
-1. Bảo đảm dự thầu được thực hiện dưới hình thức đặt cọc, nộp thư bảo lãnh của tổ chức tín dụng hoặc giấy chứng nhận bảo hiểm bảo lãnh của doanh nghiệp bảo hiểm phi nhân thọ.
+**1.** Đối với gói thầu dịch vụ tư vấn:
+
+a) Trường hợp áp dụng phương pháp giá thấp nhất, nhà thầu không thuộc đối tượng được hưởng ưu đãi phải cộng thêm một khoản tiền bằng 7,5% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) vào giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của nhà thầu đó để so sánh, xếp hạng;
+
+b) Trường hợp áp dụng phương pháp dựa trên kỹ thuật, nhà thầu thuộc đối tượng được hưởng ưu đãi được cộng thêm 7,5% điểm kỹ thuật của nhà thầu vào điểm kỹ thuật của nhà thầu đó để so sánh, xếp hạng;
+
+c) Trường hợp áp dụng phương pháp kết hợp giữa kỹ thuật và giá, nhà thầu thuộc đối tượng được hưởng ưu đãi được cộng thêm 7,5% điểm tổng hợp của nhà thầu vào điểm tổng hợp của nhà thầu đó để so sánh, xếp hạng.
 
 <a id="dieu-6-khoan-2"></a>
-2. Thời gian có hiệu lực của bảo đảm dự thầu bằng thời gian có hiệu lực của hồ sơ dự thầu cộng thêm 30 ngày.
+**2.** Đối với gói thầu cung cấp dịch vụ phi tư vấn, xây lắp, hỗn hợp:
+
+a) Trường hợp áp dụng phương pháp giá thấp nhất, nhà thầu không thuộc đối tượng được hưởng ưu đãi phải cộng thêm một khoản tiền bằng 7,5% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) vào giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của nhà thầu đó để so sánh, xếp hạng;
+
+b) Trường hợp áp dụng phương pháp giá đánh giá, nhà thầu không thuộc đối tượng được hưởng ưu đãi phải cộng thêm một khoản tiền bằng 7,5% giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) vào giá đánh giá của nhà thầu đó để so sánh, xếp hạng;
+
+c) Trường hợp áp dụng phương pháp kết hợp giữa kỹ thuật và giá, nhà thầu thuộc đối tượng được hưởng ưu đãi được cộng thêm 7,5% điểm tổng hợp của nhà thầu vào điểm tổng hợp của nhà thầu đó để so sánh, xếp hạng.
 
 <a id="dieu-6-khoan-3"></a>
-3. Trường hợp nhà thầu liên danh, từng thành viên trong liên danh có thể nộp bảo đảm dự thầu riêng rẽ hoặc ủy quyền cho thành viên đứng đầu liên danh nộp bảo đảm dự thầu cho toàn bộ liên danh.
+**3.** Đối với gói thầu mua sắm hàng hóa, việc áp dụng ưu đãi đối với hàng hóa có xuất xứ Việt Nam thực hiện theo quy định tại Điều 5 của Nghị định này.
+
+<a id="dieu-6-khoan-4"></a>
+**4.** Ưu đãi đối với doanh nghiệp khởi nghiệp sáng tạo trong nước được thực hiện theo quy định tại Điều 8 của Nghị định này.
+
+<a id="dieu-6-khoan-5"></a>
+**5.** Ưu đãi đối với nhà thầu trong nước sản xuất hàng hóa có xuất xứ Việt Nam được thực hiện theo quy định tại Điều 9 của Nghị định này.
+
+<a id="dieu-6-khoan-6"></a>
+**6.** Ưu đãi đối với dịch vụ công nghệ thông tin thực hiện theo quy định của pháp luật về công nghệ thông tin.
+
 
 <a id="dieu-7"></a>
-### Điều 7. Bảo đảm thực hiện hợp đồng
+### Điều 7. Ưu đãi đối với đấu thầu trong nước
 
 <a id="dieu-7-khoan-1"></a>
-1. Nhà thầu trúng thầu phải nộp bảo đảm thực hiện hợp đồng trước thời điểm hợp đồng có hiệu lực.
+**1.** Đối với gói thầu mua sắm hàng hóa, việc áp dụng ưu đãi đối với hàng hóa có xuất xứ Việt Nam thực hiện theo quy định tại Điều 5 của Nghị định này.
+
+Người có thẩm quyền quyết định áp dụng hoặc không áp dụng việc gói thầu có giá gói thầu dưới 500 triệu đồng đối với dự toán mua sắm chỉ cho phép nhà thầu có từ 50% lao động trở lên là người khuyết tật, thương binh, dân tộc thiểu số có hợp đồng lao động với thời gian thực hiện hợp đồng từ 03 tháng trở lên và đến thời điểm đóng thầu hợp đồng vẫn còn hiệu lực được tham dự thầu. Trường hợp người có thẩm quyền quyết định áp dụng mà không có nhà thầu tham dự hoặc không có nhà thầu đáp ứng yêu cầu thì tổ chức đấu thầu lại và cho phép các loại hình nhà thầu khác được tham dự thầu.
 
 <a id="dieu-7-khoan-2"></a>
-2. Giá trị bảo đảm thực hiện hợp đồng được quy định từ 2% đến 10% giá hợp đồng; đối với gói thầu có rủi ro cao, giá trị bảo đảm có thể lên đến 30% giá hợp đồng nhưng phải được người có thẩm quyền phê duyệt trong kế hoạch lựa chọn nhà thầu.
+**2.** Đối với gói thầu xây lắp có giá gói thầu không quá 05 tỷ đồng, ưu đãi cho doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ thực hiện theo quy định tại điểm đ khoản 2 Điều 10 của Luật Đấu thầu.
 
 <a id="dieu-7-khoan-3"></a>
-3. Nhà thầu không được hoàn trả bảo đảm thực hiện hợp đồng trong trường hợp từ chối thực hiện hợp đồng khi hợp đồng đã có hiệu lực hoặc vi phạm thỏa thuận trong hợp đồng.
+**3.** Ưu đãi đối với doanh nghiệp khởi nghiệp sáng tạo trong nước thực hiện theo quy định tại Điều 8 của Nghị định này.
+
+<a id="dieu-7-khoan-4"></a>
+**4.** Ưu đãi đối với nhà thầu trong nước sản xuất hàng hóa có xuất xứ Việt Nam thực hiện theo quy định tại Điều 9 của Nghị định này.
+
+<a id="dieu-7-khoan-5"></a>
+**5.** Ưu đãi đối với dịch vụ công nghệ thông tin thực hiện theo quy định của pháp luật về công nghệ thông tin.
+
 
 <a id="dieu-8"></a>
-### Điều 8. Hủy thầu và xử lý hậu quả khi hủy thầu
+### Điều 8. Ưu đãi đối với doanh nghiệp khởi nghiệp sáng tạo trong nước
 
 <a id="dieu-8-khoan-1"></a>
-1. Khi hủy thầu theo quy định tại Điều 12 Luật Đấu thầu, bên mời thầu có trách nhiệm hoàn trả tiền bảo đảm dự thầu cho các nhà thầu tham dự trong thời hạn 05 ngày làm việc kể từ ngày ban hành quyết định hủy thầu.
+**1.** Doanh nghiệp khởi nghiệp sáng tạo trong nước khi chào thầu sản phẩm đổi mới sáng tạo của doanh nghiệp đó theo quy định tại khoản 4 Điều 5 của Nghị định này không phải đáp ứng yêu cầu về doanh thu, số năm hoạt động trong cùng ngành nghề trong thời hạn 06 năm kể từ khi sản phẩm lần đầu được sản xuất và đủ điều kiện để đưa ra thị trường.
 
 <a id="dieu-8-khoan-2"></a>
-2. Tổ chức, cá nhân có hành vi vi phạm dẫn đến hủy thầu phải chịu trách nhiệm bồi thường thiệt hại cho các bên liên quan theo quy định của pháp luật.
+**2.** Sản phẩm đổi mới sáng tạo quy định tại khoản 4 Điều 5 của Nghị định này là hàng hóa của doanh nghiệp khởi nghiệp sáng tạo trong nước khi tham dự thầu được hưởng ưu đãi theo quy định tại khoản 3 Điều 5 của Nghị định này.
+
+<a id="dieu-8-khoan-3"></a>
+**3.** Sản phẩm đổi mới sáng tạo quy định tại khoản 4 Điều 5 của Nghị định này là dịch vụ của doanh nghiệp khởi nghiệp sáng tạo trong nước khi tham dự thầu trong nước, quốc tế được hưởng ưu đãi theo quy định tại khoản 1 và khoản 2 Điều 6 của Nghị định này.
+
 
 <a id="dieu-9"></a>
-### Điều 9. Điều kiện của tổ chuyên gia và tổ thẩm định
+### Điều 9. Ưu đãi đối với nhà thầu trong nước sản xuất hàng hóa có xuất xứ Việt Nam
 
 <a id="dieu-9-khoan-1"></a>
-1. Tổ chuyên gia đánh giá hồ sơ dự thầu phải có ít nhất 03 thành viên, trong đó tổ trưởng phải có tối thiểu 05 năm kinh nghiệm và có chứng chỉ nghiệp vụ chuyên sâu về đấu thầu.
+**1.** Đối với nhà thầu trong nước được chuyển giao công nghệ để sản xuất hàng hóa có xuất xứ Việt Nam phù hợp với hồ sơ mời thầu:
+
+a) Không phải đáp ứng yêu cầu về doanh thu, số năm hoạt động trong cùng ngành nghề trong thời hạn 05 năm kể từ khi sản phẩm lần đầu được sản xuất và đủ điều kiện để đưa ra thị trường;
+
+b) Đối với các công nghệ chuyển giao thuộc danh mục ngành nghề ưu đãi đầu tư, danh mục công nghệ khuyến khích chuyển giao theo quy định của pháp luật, ngoài ưu đãi theo quy định tại điểm a khoản này, không phải đáp ứng yêu cầu về xác nhận vận hành thành công, thời gian sản phẩm đã được sử dụng đảm bảo yêu cầu chất lượng được người sử dụng xác nhận. Trường hợp bên chuyển giao công nghệ có cam kết với chủ đầu tư về việc chịu trách nhiệm đối với chất lượng sản phẩm do nhà thầu sản xuất theo yêu cầu của chủ đầu tư, nhà thầu nhận chuyển giao công nghệ được sử dụng các tài liệu, kết quả thử nghiệm của bên chuyển giao công nghệ đối với đối tượng công nghệ được chuyển giao để chứng minh tính kiểm chứng và phù hợp của loại hàng hóa sản xuất đối với những nội dung được chuyển giao theo hợp đồng chuyển giao công nghệ hoặc theo giấy chứng nhận chuyển giao công nghệ được cơ quan có thẩm quyền cấp;
+
+c) Các yêu cầu về năng lực, kinh nghiệm, chất lượng hàng hóa, yêu cầu kỹ thuật và các yêu cầu khác của gói thầu ngoài trường hợp quy định tại điểm a và điểm b khoản này được quy định trên cùng mặt bằng đánh giá đối với tất cả nhà thầu tham gia. Trường hợp cần thiết, chủ đầu tư có thể yêu cầu bổ sung đối với nhà thầu được hưởng ưu đãi, gồm: tăng thời gian bảo hành, tăng cường công tác kiểm soát chất lượng trong quá trình sản xuất và thử nghiệm xuất xưởng, cung cấp dịch vụ vận hành, bảo trì và các nội dung khác để đảm bảo độ tin cậy của hàng hóa trong quá trình vận hành.
 
 <a id="dieu-9-khoan-2"></a>
-2. Tổ thẩm định phải độc lập với tổ chuyên gia và bên mời thầu. Thành viên tổ thẩm định phải có chứng chỉ chuyên môn và có kinh nghiệm thực tế về công tác thẩm định đấu thầu.
+**2.** Đối với nhà thầu trong nước sản xuất hàng hóa có xuất xứ Việt Nam phù hợp với hồ sơ mời thầu:
+
+a) Không phải đáp ứng yêu cầu về doanh thu, số năm hoạt động trong cùng ngành nghề với gói thầu đang xét khi nhà thầu chào thầu hàng hóa mà chủng loại hàng hóa này lần đầu được nhà thầu sản xuất và đủ điều kiện để đưa ra thị trường trong thời gian 05 năm trước thời điểm đóng thầu. Nhà thầu được hưởng ưu đãi này kể từ khi nhà thầu được thành lập nhưng không quá 07 năm tính đến thời điểm đóng thầu;
+
+b) Được hưởng ưu đãi theo quy định tại điểm b khoản 1 Điều này đối với phần chuyển giao công nghệ từ đơn vị khác (nếu có).
+
+<a id="dieu-9-khoan-3"></a>
+**3.** Khi chào thầu sản phẩm đổi mới sáng tạo, cá nhân, nhóm cá nhân sản xuất sản phẩm đổi mới sáng tạo quy định tại khoản 4 Điều 5 của Nghị định này không phải đáp ứng yêu cầu về năng lực tài chính, số năm hoạt động trong cùng ngành nghề trong thời hạn 06 năm kể từ khi sản phẩm lần đầu được sản xuất và đủ điều kiện để đưa ra thị trường.
+
+<a id="dieu-9-khoan-4"></a>
+**4.** Căn cứ xác định nhà thầu trong nước được chuyển giao công nghệ, nhà thầu trong nước được chuyển giao công nghệ khuyến khích chuyển giao để sản xuất hàng hóa có xuất xứ Việt Nam là Giấy chứng nhận đăng ký chuyển giao công nghệ, Giấy chứng nhận chuyển giao công nghệ khuyến khích chuyển giao theo quy định của pháp luật về công nghệ, pháp luật về đầu tư.
+
 
 <a id="dieu-10"></a>
-### Điều 10. Đăng tải thông tin đấu thầu qua mạng
+### Điều 10. Ưu đãi đối với sản phẩm, dịch vụ được chứng nhận nhãn sinh thái, nhãn năng lượng và tương đương
 
-Tất cả thông tin về kế hoạch lựa chọn nhà thầu, thông báo mời thầu, hồ sơ mời thầu, biên bản mở thầu và kết quả lựa chọn nhà thầu phải được đăng tải công khai trên Hệ thống mạng đấu thầu quốc gia.
+<a id="dieu-10-khoan-1"></a>
+**1.** Sản phẩm, dịch vụ được chứng nhận nhãn sinh thái, nhãn năng lượng và tương đương theo quy định của pháp luật được hưởng ưu đãi theo quy định tại khoản 3 Điều 10 của Luật Đấu thầu.
 
----
+<a id="dieu-10-khoan-2"></a>
+**2.** Căn cứ tính chất của gói thầu và nhu cầu sử dụng, chủ đầu tư được quy định trong hồ sơ yêu cầu, hồ sơ mời thầu yêu cầu về kỹ thuật để mua sản phẩm, dịch vụ được chứng nhận nhãn sinh thái, nhãn năng lượng và tương đương trên cơ sở tuân thủ quy định tại điểm k khoản 6 Điều 16 và khoản 3 Điều 44 của Luật Đấu thầu; được quy định trong công thức xác định giá đánh giá để ưu tiên đối với sản phẩm, dịch vụ được chứng nhận nhãn sinh thái, nhãn năng lượng và tương đương.
 
-### Chương II
-
-__KẾ HOẠCH LỰA CHỌN NHÀ THẦU__
 
 <a id="dieu-11"></a>
-### Điều 11. Nguyên tắc lập kế hoạch lựa chọn nhà thầu
+### Điều 11. Đấu thầu bền vững
+
+Căn cứ tính chất gói thầu, chủ đầu tư được quy định các yêu cầu về đấu thầu bền vững trong hồ sơ mời thầu, hồ sơ yêu cầu theo một hoặc các cách thức sau:
 
 <a id="dieu-11-khoan-1"></a>
-1. Kế hoạch lựa chọn nhà thầu được lập cho toàn bộ dự án hoặc từng gói thầu theo giai đoạn triển khai dự án.
+**1.** Quy định yêu cầu về kỹ thuật trong hồ sơ mời thầu, hồ sơ yêu cầu theo phương pháp chấm điểm hoặc phương pháp đạt, không đạt. Nhà thầu chào giải pháp, hàng hóa, dịch vụ đáp ứng yêu cầu về đấu thầu bền vững được tiếp tục xem xét, đánh giá;
 
 <a id="dieu-11-khoan-2"></a>
-2. Không được chia nhỏ dự án thành các gói thầu trái quy định nhằm mục đích chỉ định thầu hoặc hạn chế sự tham gia của các nhà thầu.
+**2.** Quy định trong công thức xác định giá đánh giá, trong đó lượng hóa các yếu tố đấu thầu bền vững vào công thức xác định giá đánh giá để so sánh, xếp hạng nhà thầu.
 
-<a id="dieu-11-khoan-3"></a>
-3. Việc phân chia gói thầu phải căn cứ vào tính chất kỹ thuật, trình tự thực hiện và quy mô của dự án để bảo đảm tính đồng bộ và hiệu quả kinh tế.
 
 <a id="dieu-12"></a>
-### Điều 12. Xác định giá gói thầu
+### Điều 12. Chi phí trong lựa chọn nhà thầu
 
 <a id="dieu-12-khoan-1"></a>
-1. Giá gói thầu được tính đúng, tính đủ toàn bộ chi phí để thực hiện gói thầu, bao gồm cả chi phí dự phòng, phí, lệ phí và thuế theo quy định.
+**1.** Đối với đấu thầu quốc tế, căn cứ quy mô, tính chất của gói thầu, chủ đầu tư quyết định theo thông lệ đấu thầu quốc tế mức tiền nhà thầu phải nộp để mua bản điện tử hồ sơ mời thầu, hồ sơ yêu cầu khi nộp hồ sơ dự thầu, hồ sơ đề xuất.
+
+Đối với gói thầu sử dụng vốn ngân sách nhà nước, tiền bán bản điện tử hồ sơ mời thầu, hồ sơ yêu cầu được chủ đầu tư nộp vào ngân sách nhà nước theo quy định của Luật Ngân sách nhà nước. Đối với các gói thầu không sử dụng vốn ngân sách nhà nước thì tiền bán bản điện tử hồ sơ mời thầu, hồ sơ yêu cầu là nguồn thu của chủ đầu tư và được quản lý, sử dụng theo cơ chế tài chính của chủ đầu tư.
 
 <a id="dieu-12-khoan-2"></a>
-2. Đối với gói thầu xây lắp, giá gói thầu được xác định trên cơ sở dự toán xây dựng công trình được phê duyệt theo quy định của pháp luật về quản lý chi phí đầu tư xây dựng.
+**2.** Chi phí lập, thẩm định các nội dung trong quá trình lựa chọn nhà thầu:
+
+a) Trường hợp thuê tư vấn đấu thầu để thực hiện một hoặc một số công việc trong quá trình lựa chọn nhà thầu thì chi phí thuê tư vấn không căn cứ vào chi phí quy định tại các khoản 3, 4, 5, 6 và 7 Điều này;
+
+b) Trường hợp người có thẩm quyền giao cho cơ quan, đơn vị trực thuộc thực hiện việc lập, thẩm định kế hoạch tổng thể lựa chọn nhà thầu thì chi phí cho các công việc này được tính trong dự toán chi phí hoạt động lựa chọn nhà thầu theo quy định tại khoản 3 Điều này;
+
+c) Trường hợp tổ chuyên gia, tổ thẩm định do chủ đầu tư quyết định thành lập để thực hiện lập, thẩm định hồ sơ mời sơ tuyển, hồ sơ mời quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu; đánh giá hồ sơ dự sơ tuyển, hồ sơ quan tâm, hồ sơ dự thầu, hồ sơ đề xuất; thẩm định kết quả lựa chọn nhà thầu thì chi phí cho các công việc này được tính trong dự toán chi phí hoạt động lựa chọn nhà thầu theo quy định tại các khoản 4, 5, 6 và 7 Điều này;
+
+d) Chi phí quy định tại các khoản 3, 4, 5, 6 và 7 Điều này được xác định trong tổng mức đầu tư, dự toán mua sắm hoặc dự toán nhiệm vụ chuẩn bị đầu tư hoặc dự toán chi thường xuyên của đơn vị;
+
+đ) Việc quản lý, sử dụng chi phí quy định tại các khoản 3, 4, 5, 6 và 7 Điều này thực hiện theo cơ chế tài chính của chủ đầu tư.
+
+<a id="dieu-12-khoan-3"></a>
+**3.** Chi phí lập hoặc thẩm định kế hoạch tổng thể lựa chọn nhà thầu được tính bằng 0,5% chi phí lập báo cáo nghiên cứu khả thi nhưng tối thiểu là 5.000.000 đồng và tối đa là 40.000.000 đồng.
+
+<a id="dieu-12-khoan-4"></a>
+**4.** Chi phí lập, thẩm định hồ sơ:
+
+a) Chi phí lập hồ sơ mời quan tâm, hồ sơ mời sơ tuyển được tính bằng 0,1% giá gói thầu nhưng tối thiểu là 2.000.000 đồng và tối đa là 30.000.000 đồng;
+
+b) Chi phí thẩm định hồ sơ mời quan tâm, hồ sơ mời sơ tuyển được tính bằng 0,06% giá gói thầu nhưng tối thiểu là 2.000.000 đồng và tối đa là 30.000.000 đồng;
+
+c) Chi phí lập hồ sơ mời thầu, hồ sơ yêu cầu được tính bằng 0,2% giá gói thầu nhưng tối thiểu là 3.000.000 đồng và tối đa là 60.000.000 đồng;
+
+d) Chi phí thẩm định hồ sơ mời thầu, hồ sơ yêu cầu được tính bằng 0,1% giá gói thầu nhưng tối thiểu là 2.000.000 đồng và tối đa là 60.000.000 đồng.
+
+<a id="dieu-12-khoan-5"></a>
+**5.** Chi phí đánh giá hồ sơ:
+
+a) Chi phí đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển được tính bằng 0,1% giá gói thầu nhưng tối thiểu là 2.000.000 đồng và tối đa là 30.000.000 đồng;
+
+b) Chi phí đánh giá hồ sơ dự thầu, hồ sơ đề xuất được tính bằng 0,2% giá gói thầu nhưng tối thiểu là 3.000.000 đồng và tối đa là 60.000.000 đồng.
+
+<a id="dieu-12-khoan-6"></a>
+**6.** Chi phí thẩm định kết quả lựa chọn nhà thầu kể cả trường hợp không lựa chọn được nhà thầu được tính bằng 0,1% giá gói thầu nhưng tối thiểu là 3.000.000 đồng và tối đa là 60.000.000 đồng.
+
+<a id="dieu-12-khoan-7"></a>
+**7.** Đối với các gói thầu có nội dung tương tự thuộc cùng một dự án, dự toán mua sắm của cùng chủ đầu tư hoặc các gói thầu phải tổ chức lại việc lựa chọn nhà thầu thì các chi phí: lập, thẩm định hồ sơ mời quan tâm, hồ sơ mời sơ tuyển; lập, thẩm định hồ sơ mời thầu, hồ sơ yêu cầu được tính tối đa bằng 50% mức chi phí quy định tại khoản 4 Điều này; trường hợp phải tổ chức đấu thầu lại một phần của gói thầu (đối với gói thầu chia phần) thì chi phí được tính tối đa bằng 50% mức chi phí theo giá trị ước tính của phần tổ chức đấu thầu lại.
+
+Trường hợp tổ chức lại việc lựa chọn nhà thầu thì phải tính toán, bổ sung chi phí lựa chọn nhà thầu vào dự án, dự toán mua sắm phù hợp với thực tế của gói thầu. Trường hợp đấu thầu quốc tế, chi phí dịch tài liệu được tính phù hợp với giá thị trường, bảo đảm hiệu quả của gói thầu.
+
+<a id="dieu-12-khoan-8"></a>
+**8.** Chi phí cho Hội đồng tư vấn giải quyết kiến nghị (sau đây gọi là Hội đồng tư vấn) của nhà thầu về kết quả lựa chọn nhà thầu được tính theo tỷ lệ phần trăm so với giá dự thầu của nhà thầu có kiến nghị như sau:
+
+a) Giá dự thầu dưới 50.000.000.000 đồng, tỷ lệ 0,03% nhưng tối thiểu là 5.000.000 đồng;
+
+b) Giá dự thầu từ 50.000.000.000 đồng đến dưới 100.000.000.000 đồng, tỷ lệ 0,025% nhưng tối thiểu là 15.000.000 đồng;
+
+c) Giá dự thầu từ 100.000.000.000 đồng đến dưới 200.000.000.000 đồng, tỷ lệ 0,02% nhưng tối thiểu là 25.000.000 đồng;
+
+d) Giá dự thầu từ 200.000.000.000 đồng trở lên, tỷ lệ 0,015% nhưng tối thiểu là 40.000.000 đồng và tối đa là 60.000.000 đồng.
+
+Đối với gói thầu áp dụng phương thức một giai đoạn hai túi hồ sơ, hai giai đoạn hai túi hồ sơ, trường hợp nhà thầu có kiến nghị không được mở hồ sơ đề xuất về tài chính thì việc xác định chi phí cho Hội đồng tư vấn căn cứ vào giá gói thầu.
+
+<a id="dieu-12-khoan-9"></a>
+**9.** Hoàn trả chi phí giải quyết kiến nghị:
+
+a) Trường hợp kiến nghị của nhà thầu được kết luận là đúng, các tổ chức, cá nhân liên quan có trách nhiệm chi trả cho nhà thầu có kiến nghị số tiền bằng chi phí giải quyết kiến nghị mà nhà thầu có kiến nghị đã nộp;
+
+b) Trường hợp kiến nghị của nhà thầu được kết luận là không đúng, nhà thầu không được hoàn trả chi phí giải quyết kiến nghị.
+
+<a id="dieu-12-khoan-10"></a>
+**10.** Đối với kiến nghị về kết quả lựa chọn nhà thầu, Hội đồng tư vấn khoán chi cho các thành viên Hội đồng tư vấn, bộ phận thường trực giúp việc của Hội đồng tư vấn và các chi phí khác để thực hiện việc tư vấn giải quyết kiến nghị.
+
+Trường hợp trong quá trình kiến nghị, nhà thầu rút đơn kiến nghị thì chỉ được nhận lại 50% chi phí đã nộp trong trường hợp chưa thành lập Hội đồng tư vấn hoặc đã thành lập Hội đồng tư vấn nhưng chưa tổ chức họp hội đồng; trường hợp Hội đồng tư vấn đã tổ chức họp hội đồng thì nhà thầu không được hoàn trả chi phí giải quyết kiến nghị. Đối với số tiền còn lại sau khi hoàn trả cho nhà thầu và chi theo quy định tại Điều 13 của Nghị định này, bộ phận thường trực giúp việc của Hội đồng tư vấn nộp vào ngân sách nhà nước trong thời hạn 10 ngày làm việc kể từ ngày nhà thầu rút đơn kiến nghị.
+
+<a id="dieu-12-khoan-11"></a>
+**11.** Chi phí trong lựa chọn nhà thầu trên Hệ thống mạng đấu thầu quốc gia bao gồm:
+
+a) Chi phí duy trì tên và hồ sơ năng lực của nhà thầu trên Hệ thống mạng đấu thầu quốc gia là 330.000 đồng cho 01 năm (đã bao gồm thuế giá trị gia tăng). Nhà thầu nộp chi phí này kể từ năm thứ hai trở đi sau năm đăng ký tham gia Hệ thống mạng đấu thầu quốc gia;
+
+b) Chi phí nộp hồ sơ dự thầu trên Hệ thống mạng đấu thầu quốc gia là: 330.000 đồng cho 01 gói thầu (đã bao gồm thuế giá trị gia tăng) đối với đấu thầu rộng rãi, đấu thầu hạn chế, chào giá trực tuyến theo quy trình thông thường; 220.000 đồng cho 01 gói thầu (đã bao gồm thuế giá trị gia tăng) đối với chào hàng cạnh tranh;
+
+c) Chi phí đối với nhà thầu trúng thầu của gói thầu đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, chào giá trực tuyến theo quy trình thông thường áp dụng đấu thầu qua mạng:
+
+Đối với gói thầu không chia phần: tính bằng 0,022% giá trúng thầu nhưng tối đa là 2.200.000 đồng (đã bao gồm thuế giá trị gia tăng).
+
+Đối với gói thầu chia thành nhiều phần, tổng chi phí nhà thầu trúng thầu đối với tất cả các nhà thầu trúng thầu không vượt mức tối đa là 2.200.000 đồng (đã bao gồm thuế giá trị gia tăng). Trường hợp giá trị của 0,022% nhân với tổng giá trúng thầu của gói thầu thấp hơn hoặc bằng 2.200.000 đồng thì chi phí nhà thầu trúng thầu của mỗi nhà thầu được tính bằng 0,022% tổng giá trị trúng thầu đối với các phần mà nhà thầu trúng thầu. Trường hợp giá trị của 0,022% nhân với tổng giá trúng thầu của gói thầu vượt mức 2.200.000 đồng thì chi phí nhà thầu trúng thầu của mỗi nhà thầu được tính theo công thức sau:
+
+Chi phí nhà thầu trúng thầu (đã bao gồm thuế giá trị gia tăng) = 2.200.000 đồng x (tổng giá trị trúng thầu đối với các phần mà nhà thầu trúng thầu/tổng giá trúng thầu của gói thầu);
+
+d) Chi phí kết nối chức năng bảo lãnh dự thầu điện tử giữa Hệ thống mạng đấu thầu quốc gia với các tổ chức tín dụng trong nước, chi nhánh ngân hàng nước ngoài được thành lập theo pháp luật Việt Nam, doanh nghiệp bảo hiểm phi nhân thọ trong nước, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài được thành lập theo pháp luật Việt Nam được xác định trên cơ sở thỏa thuận giữa đơn vị vận hành, giám sát Hệ thống mạng đấu thầu quốc gia và các tổ chức, doanh nghiệp này.
+
 
 <a id="dieu-13"></a>
-### Điều 13. Thẩm định kế hoạch lựa chọn nhà thầu
+### Điều 13. Nội dung chi cho Hội đồng tư vấn giải quyết kiến nghị của nhà thầu về kết quả lựa chọn nhà thầu
 
 <a id="dieu-13-khoan-1"></a>
-1. Cơ quan, tổ chức thẩm định kế hoạch lựa chọn nhà thầu có trách nhiệm kiểm tra căn cứ pháp lý, tính đồng bộ của các gói thầu, hình thức và phương thức lựa chọn nhà thầu, giá gói thầu và thời gian thực hiện.
+**1.** Nội dung chi gồm: chi trực tiếp thù lao cho các thành viên Hội đồng tư vấn để thực hiện nhiệm vụ, chi công tác phí, văn phòng phẩm, dịch thuật, in ấn, họp và các chi phí khác phục vụ giải quyết kiến nghị của nhà thầu; mức chi áp dụng theo quy định đối với các cơ quan quản lý nhà nước; chứng từ thu, chi thực hiện theo quy định.
+
+Tổng mức chi không được vượt số tiền nhà thầu có kiến nghị đã nộp theo quy định tại khoản 8 Điều 12 của Nghị định này.
 
 <a id="dieu-13-khoan-2"></a>
-2. Báo cáo thẩm định kế hoạch lựa chọn nhà thầu phải được lập bằng văn bản trước khi trình người có thẩm quyền phê duyệt.
+**2.** Kết thúc vụ việc, Chủ tịch Hội đồng tư vấn có trách nhiệm xác nhận phần kinh phí đã thực chi. Chênh lệch thu lớn hơn chi (nếu có) được hoàn trả cho nhà thầu có kiến nghị.
+
+<a id="dieu-13-khoan-3"></a>
+**3.** Trường hợp kiến nghị của nhà thầu được kết luận là đúng, phải nêu rõ biện pháp, cách thức và thời gian để khắc phục hậu quả (nếu có), đồng thời bộ phận thường trực giúp việc có trách nhiệm báo cáo người có thẩm quyền yêu cầu các tổ chức, cá nhân có trách nhiệm liên đới chi trả cho nhà thầu có kiến nghị số tiền bằng số tiền mà nhà thầu có kiến nghị đã thực nộp cho Hội đồng tư vấn.
+
+<a id="dieu-13-khoan-4"></a>
+**4.** Việc chi thù lao cho thành viên Hội đồng tư vấn là công chức, viên chức thực hiện theo quy định của pháp luật.
+
 
 <a id="dieu-14"></a>
-### Điều 14. Phê duyệt kế hoạch lựa chọn nhà thầu
+### Điều 14. Lập, trình, thẩm định và phê duyệt kế hoạch tổng thể lựa chọn nhà thầu cho dự án
 
-Người có thẩm quyền hoặc chủ đầu tư ban hành quyết định phê duyệt kế hoạch lựa chọn nhà thầu trong thời hạn không quá 05 ngày làm việc kể từ ngày nhận được báo cáo thẩm định.
+<a id="dieu-14-khoan-1"></a>
+**1.** Căn cứ quy mô, tính chất công tác đấu thầu của dự án, chủ đầu tư (trường hợp đã được xác định) có thể trình người có thẩm quyền xem xét chủ trương lập kế hoạch tổng thể lựa chọn nhà thầu cho dự án. Trường hợp chưa xác định được chủ đầu tư, cơ quan được giao chuẩn bị dự án có thể trình người có thẩm quyền xem xét chủ trương lập kế hoạch tổng thể lựa chọn nhà thầu cho dự án.
 
----
+<a id="dieu-14-khoan-2"></a>
+**2.** Trường hợp người có thẩm quyền đồng ý chủ trương lập kế hoạch tổng thể lựa chọn nhà thầu, chủ đầu tư hoặc cơ quan được giao chuẩn bị dự án trong trường hợp chưa xác định được chủ đầu tư (sau đây gọi là chủ đầu tư) tổ chức lập kế hoạch tổng thể lựa chọn nhà thầu căn cứ các tài liệu sau:
 
-### Chương III
+a) Quyết định chủ trương đầu tư chương trình, dự án;
 
-__QUY TRÌNH LỰA CHỌN NHÀ THẦU GÓI THẦU DỊCH VỤ TƯ VẤN__
+b) Quyết định phê duyệt dự án (nếu có);
+
+c) Điều ước quốc tế, thỏa thuận vay đối với dự án sử dụng vốn ODA, vốn vay ưu đãi của nhà tài trợ nước ngoài (nếu có);
+
+d) Kế hoạch bố trí vốn thực hiện dự án hoặc nguồn vốn thực hiện dự án (nếu có);
+
+đ) Văn bản pháp lý có liên quan (nếu có).
+
+Kế hoạch tổng thể lựa chọn nhà thầu bao gồm các nội dung quy định tại Điều 15 của Nghị định này. Chủ đầu tư được thuê tư vấn để lập kế hoạch tổng thể lựa chọn nhà thầu cho dự án trong trường hợp nhân sự của chủ đầu tư không đủ năng lực để thực hiện.
+
+<a id="dieu-14-khoan-3"></a>
+**3.** Chủ đầu tư có trách nhiệm trình kế hoạch tổng thể lựa chọn nhà thầu để người có thẩm quyền xem xét, phê duyệt.
+
+<a id="dieu-14-khoan-4"></a>
+**4.** Cơ quan, tổ chức, đơn vị quy định tại Điều 126 của Nghị định này thẩm định kế hoạch tổng thể lựa chọn nhà thầu.
+
+<a id="dieu-14-khoan-5"></a>
+**5.** Căn cứ đề nghị phê duyệt kế hoạch tổng thể lựa chọn nhà thầu, báo cáo thẩm định, người có thẩm quyền phê duyệt kế hoạch tổng thể lựa chọn nhà thầu sau khi quyết định phê duyệt dự án làm cơ sở cho chủ đầu tư tổ chức lập, phê duyệt kế hoạch lựa chọn nhà thầu. Nội dung kế hoạch lựa chọn nhà thầu phải phù hợp với kế hoạch tổng thể lựa chọn nhà thầu; trường hợp các nội dung của kế hoạch lựa chọn nhà thầu khác với kế hoạch tổng thể lựa chọn nhà thầu thì chủ đầu tư báo cáo người có thẩm quyền xem xét, quyết định mà không phải trình, phê duyệt lại kế hoạch tổng thể lựa chọn nhà thầu.
+
+<a id="dieu-14-khoan-6"></a>
+**6.** Chủ đầu tư chịu trách nhiệm đăng tải kế hoạch tổng thể lựa chọn nhà thầu trên Hệ thống mạng đấu thầu quốc gia chậm nhất là 05 ngày làm việc kể từ ngày văn bản được ban hành.
+
 
 <a id="dieu-15"></a>
-### Điều 15. Quy trình đấu thầu rộng rãi gói thầu dịch vụ tư vấn
+### Điều 15. Nội dung kế hoạch tổng thể lựa chọn nhà thầu cho dự án
 
 <a id="dieu-15-khoan-1"></a>
-1. Chuẩn bị lựa chọn nhà thầu: Lập hồ sơ mời thầu, thẩm định và phê duyệt HSMT.
+**1.** Phân tích bối cảnh thực hiện dự án:
+
+Xác định yêu cầu cụ thể, mục tiêu của dự án, phân tích các yếu tố trong bối cảnh thực hiện dự án có thể tác động tới hoạt động đấu thầu; mức độ sẵn sàng dự thầu của nhà thầu; các yếu tố bao gồm: quy định của pháp luật, các yếu tố về kinh tế, xã hội, công nghệ, đấu thầu bền vững và các yếu tố khác.
 
 <a id="dieu-15-khoan-2"></a>
-2. Tổ chức lựa chọn nhà thầu: Phát hành HSMT, tiếp nhận HSDT, mở hồ sơ đề xuất kỹ thuật.
+**2.** Đánh giá năng lực, nguồn lực và kinh nghiệm thực hiện của chủ đầu tư:
+
+Việc đánh giá năng lực, nguồn lực và kinh nghiệm để thực hiện hoạt động đấu thầu bao gồm:
+
+a) Năng lực để thực hiện quy trình lựa chọn nhà thầu từ bước lập kế hoạch tổng thể lựa chọn nhà thầu (nếu có) đến quản lý hợp đồng;
+
+b) Kết quả thực hiện công tác đấu thầu của chủ đầu tư thông qua các chỉ tiêu: tỷ lệ tiết kiệm trung bình; số lượng nhà thầu trung bình tham gia đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, chào giá trực tuyến theo quy trình thông thường, tỷ lệ gói thầu đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, chào giá trực tuyến theo quy trình thông thường chỉ có 01 nhà thầu tham dự trên tổng số gói thầu; tỷ lệ gói thầu có kiến nghị về hồ sơ mời thầu; tỷ lệ gói thầu có kiến nghị về các nội dung khác trong quá trình tổ chức lựa chọn nhà thầu, kết quả lựa chọn nhà thầu; số lần không trả lời yêu cầu làm rõ hồ sơ mời thầu, không trả lời kiến nghị về hồ sơ mời thầu, các nội dung khác trong quá trình tổ chức lựa chọn nhà thầu và kết quả lựa chọn nhà thầu của nhà thầu; các chỉ tiêu khác (nếu có);
+
+c) Kinh nghiệm triển khai các dự án tương tự, việc xử lý kiến nghị trong lựa chọn nhà thầu, khiếu nại, tố cáo;
+
+d) Các yếu tố khác.
 
 <a id="dieu-15-khoan-3"></a>
-3. Đánh giá hồ sơ đề xuất kỹ thuật: Đánh giá kinh nghiệm, giải pháp kỹ thuật, nhân sự chủ chốt.
+**3.** Phân tích, tham vấn thị trường:
+
+a) Phân tích, tham vấn thị trường bao gồm việc đánh giá rủi ro và cơ hội về thị trường đối với hình thức lựa chọn nhà thầu đang xem xét; khả năng tham dự của nhà thầu; thị trường hàng hóa, dịch vụ có khả năng cung cấp cho dự án; xu thế của thị trường trong thời gian thực hiện dự án. Căn cứ vào quy mô, tính chất gói thầu, việc phân tích, tham vấn thị trường bao gồm thông tin về mức độ sẵn có của hàng hóa, dịch vụ thuộc gói thầu trên thị trường; các chi phí có thể phát sinh trong trường hợp cần áp dụng giải pháp đổi mới, sáng tạo; nội dung điều khoản bảo hành, loại hợp đồng thường áp dụng đối với gói thầu mua sắm hàng hóa, dịch vụ tương tự của các chủ đầu tư khác; quy định của pháp luật (nếu có) đối với hàng hóa, dịch vụ thuộc gói thầu; khả năng áp dụng đấu thầu bền vững, mua sắm các dịch vụ thân thiện môi trường, thông tin về các hàng hóa, dịch vụ có sử dụng nguyên vật liệu tái chế, tiết kiệm năng lượng; khả năng tham dự thầu của nhà thầu tiềm năng là doanh nghiệp nhỏ và siêu nhỏ, doanh nghiệp khởi nghiệp sáng tạo, doanh nghiệp có sử dụng nhiều lao động nữ, lao động là thương binh, người khuyết tật, người dân tộc thiểu số; phân tích chuỗi cung ứng (khả năng cung cấp vật tư, vật liệu, hàng hóa, dịch vụ cho việc thực hiện hợp đồng); khả năng tổ chức lựa chọn nhà thầu mà chỉ cho phép hàng hóa có xuất xứ Việt Nam được chào thầu theo quy định tại điểm e khoản 3 Điều 10 và khoản 1 Điều 56 của Luật Đấu thầu và các thông tin cần thiết khác;
+
+b) Việc tham vấn thị trường được thực hiện theo một hoặc các cách thức sau: tham khảo các kết quả tham vấn thị trường gần nhất đối với hàng hóa, dịch vụ tương tự; đăng tải câu hỏi tham vấn thị trường trên các phương tiện thông tin phù hợp; nghiên cứu catalô và tài liệu giới thiệu sản phẩm của hãng sản xuất, nhà cung cấp, nhà phân phối, đại lý; tham khảo kinh nghiệm của chủ đầu tư khác đã tiến hành tham vấn thị trường, tham vấn kết quả tổ chức lựa chọn nhà thầu đối với gói thầu mua sắm hàng hóa, dịch vụ tương tự; tổ chức hội nghị tham vấn thị trường với các nhà thầu tiềm năng trên cơ sở công khai, minh bạch; tổ chức khảo sát thông tin từ các đơn vị sản xuất, kinh doanh; tham khảo ý kiến của các chuyên gia trong lĩnh vực có liên quan, các báo in, tạp chí, ấn phẩm phân tích thị trường chuyên ngành, thông tin trên Internet và các hình thức phù hợp khác;
+
+c) Chủ đầu tư có thể thuê tư vấn nghiên cứu phân tích thị trường, sử dụng ý kiến tư vấn của các chuyên gia hoặc cơ quan chức năng độc lập hoặc của các doanh nghiệp trên thị trường trong việc lập kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu, hồ sơ mời thầu, hồ sơ yêu cầu nhưng phải đảm bảo nguyên tắc cạnh tranh, công bằng và minh bạch;
+
+d) Trường hợp không lập kế hoạch tổng thể lựa chọn nhà thầu, chủ đầu tư có thể tiến hành phân tích, tham vấn thị trường để lập kế hoạch lựa chọn nhà thầu, hồ sơ mời thầu, hồ sơ yêu cầu.
 
 <a id="dieu-15-khoan-4"></a>
-4. Mở và đánh giá hồ sơ đề xuất tài chính của các nhà thầu đạt điểm kỹ thuật tối thiểu.
+**4.** Xác định, quản lý rủi ro trong đấu thầu:
+
+a) Phân tích các rủi ro chính liên quan tới môi trường hoạt động, điều kiện thị trường, năng lực của tổ chức thực hiện lựa chọn nhà thầu và mức độ phức tạp của hoạt động đấu thầu;
+
+b) Đánh giá khả năng xảy ra và tác động của mỗi rủi ro đối với công tác đấu thầu của dự án;
+
+c) Xây dựng kế hoạch quản lý và giảm thiểu rủi ro trong công tác đấu thầu của dự án thông qua việc áp dụng hình thức, phương thức lựa chọn nhà thầu, yêu cầu kỹ thuật, tiêu chuẩn và phương pháp đánh giá, điều kiện hợp đồng phù hợp.
 
 <a id="dieu-15-khoan-5"></a>
-5. Thương thảo hợp đồng, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu.
+**5.** Mục tiêu cụ thể của hoạt động đấu thầu:
+
+Xác định mục tiêu cụ thể của hoạt động đấu thầu (bao gồm các mục tiêu cụ thể về đấu thầu bền vững, nếu áp dụng) bảo đảm mục tiêu tổng quát của dự án.
+
+<a id="dieu-15-khoan-6"></a>
+**6.** Kế hoạch về tiến độ thực hiện các công việc chính, gói thầu:
+
+Xây dựng tiến độ tổng thể để thực hiện các công việc chính, gói thầu phù hợp với tiến độ thực hiện đầu tư dự án.
+
+<a id="dieu-15-khoan-7"></a>
+**7.** Quản lý công tác lựa chọn nhà thầu:
+
+a) Phân chia gói thầu: việc phân chia gói thầu căn cứ theo quy mô, tính chất các công việc thuộc dự án, theo tiến độ thực hiện dự án và căn cứ kết quả phân tích, tham vấn thị trường; xác định số lượng gói thầu và phạm vi công việc của mỗi gói thầu, xác định các gói thầu chia thành nhiều phần;
+
+b) Hình thức và phương thức lựa chọn nhà thầu: xác định hình thức và phương thức lựa chọn nhà thầu phù hợp đối với từng gói thầu thuộc dự án, trong đó nêu rõ gói thầu có áp dụng mua sắm tập trung không, có áp dụng lựa chọn danh sách ngắn không, trong nước hay quốc tế;
+
+c) Loại hợp đồng: xác định loại hợp đồng phù hợp với từng gói thầu;
+
+d) Nội dung cần lưu ý trong quá trình xây dựng hồ sơ mời thầu, hồ sơ yêu cầu, quản lý thực hiện hợp đồng (nếu có).
+
 
 <a id="dieu-16"></a>
-### Điều 16. Tiêu chuẩn đánh giá hồ sơ dự thầu gói thầu tư vấn
+### Điều 16. Giá gói thầu và thời gian tổ chức lựa chọn nhà thầu
 
 <a id="dieu-16-khoan-1"></a>
-1. Tiêu chuẩn đánh giá gồm: Kinh nghiệm và năng lực của nhà thầu (10% - 20%), Giải pháp và phương pháp luận thực hiện (30% - 40%), Nhân sự thực hiện gói thầu (40% - 60%).
+**1.** Giá gói thầu được tính đúng, tính đủ toàn bộ chi phí để thực hiện gói thầu, kể cả chi phí dự phòng (chi phí dự phòng trượt giá, chi phí dự phòng phát sinh khối lượng), phí, lệ phí và thuế. Đối với gói thầu xây lắp áp dụng loại hợp đồng theo đơn giá cố định và đơn giá điều chỉnh, chi phí dự phòng bao gồm cả các khoản tạm tính (nếu có) và chỉ được sử dụng khi có phát sinh xảy ra. Đối với các gói thầu có thời gian thực hiện gói thầu ngắn, ít có khả năng phát sinh rủi ro, trượt giá thì chi phí dự phòng cho yếu tố trượt giá được tính bằng không. Chi phí dự phòng do chủ đầu tư xác định theo tính chất từng gói thầu nhưng không được vượt mức tối đa theo quy định của pháp luật (nếu có). Trường hợp pháp luật có quy định hàng hóa thuộc đối tượng được miễn thuế, miễn phí thì giá gói thầu không bao gồm các khoản thuế, phí được miễn. Giá gói thầu được cập nhật trong thời hạn 28 ngày trước ngày mở thầu nếu cần thiết. Trường hợp gói thầu gồm nhiều phần riêng biệt thì nêu rõ giá trị ước tính của từng phần.
 
 <a id="dieu-16-khoan-2"></a>
-2. Nhà thầu phải đạt điểm kỹ thuật từ 70% đến 80% tổng số điểm kỹ thuật trở lên mới được mở đề xuất tài chính.
+**2.** Căn cứ xác định giá gói thầu:
+
+Giá gói thầu được lập căn cứ theo một trong các thông tin sau:
+
+a) Dự toán gói thầu được duyệt (nếu có) trong trường hợp pháp luật có quy định về việc lập dự toán hoặc có hướng dẫn về định mức, đơn giá. Trường hợp chưa đủ điều kiện lập dự toán, giá gói thầu được xác định trên cơ sở các thông tin sau: giá trung bình theo thống kê của các dự án, gói thầu đã thực hiện trong khoảng thời gian xác định; tổng mức đầu tư hoặc ước tính tổng mức đầu tư theo suất vốn đầu tư, dự kiến giá trị dự toán mua sắm; định mức lương chuyên gia và số ngày công; các thông tin liên quan khác;
+
+b) Nội dung và phạm vi công việc, số lượng chuyên gia, thời gian thực hiện, năng lực, kinh nghiệm của chuyên gia tư vấn, mức lương chuyên gia theo quy định của pháp luật (nếu có) và các yếu tố khác;
+
+c) Kết quả lựa chọn nhà thầu đối với hàng hóa, dịch vụ tương tự trong thời gian tối đa 12 tháng trước ngày trình kế hoạch lựa chọn nhà thầu, trong đó có thể điều chỉnh kết quả này theo các thay đổi về khối lượng mua sắm hoặc giá thị trường của hàng hóa hay dịch vụ cần mua sắm để xây dựng giá gói thầu. Giá thị trường tại thời điểm mua sắm có thể được xác định thông qua tham vấn thị trường quy định tại điểm b khoản 3 Điều 15 của Nghị định này. Trường hợp trong thời gian 12 tháng trước ngày trình kế hoạch lựa chọn nhà thầu mà không có kết quả lựa chọn nhà thầu của hàng hóa, dịch vụ tương tự thì có thể xác định trên cơ sở kết quả lựa chọn nhà thầu của hàng hóa, dịch vụ tương tự của các năm trước đó, trong đó có thể điều chỉnh kết quả này theo các thay đổi về khối lượng mua sắm, giá thị trường của hàng hóa, dịch vụ cần mua sắm. Khi trình kế hoạch lựa chọn nhà thầu, chủ đầu tư đính kèm danh sách kết quả lựa chọn các hàng hóa, dịch vụ tương tự trích xuất từ Hệ thống mạng đấu thầu quốc gia (nếu có);
+
+d) Tối thiểu 01 báo giá của hàng hóa, dịch vụ; khuyến khích thu thập nhiều hơn 01 báo giá; trường hợp có nhiều hơn 01 báo giá thì lấy giá trung bình của các báo giá.
+
+Đối với gói thầu mua thuốc; hóa chất, vật tư xét nghiệm, thiết bị y tế; linh kiện, phụ kiện, vật tư thay thế sử dụng cho thiết bị y tế: trên cơ sở yêu cầu chuyên môn, chủ đầu tư quyết định các tiêu chí kỹ thuật và tổ chức lấy báo giá. Chủ đầu tư đăng tải yêu cầu báo giá trên Hệ thống mạng đấu thầu quốc gia hoặc trên cổng thông tin điện tử hoặc Trang thông tin điện tử của chủ đầu tư hoặc Cổng thông tin điện tử của Bộ Y tế hoặc Cổng dịch vụ công trực tuyến về quản lý thiết bị y tế trong thời gian tối thiểu 10 ngày kể từ ngày thông tin đăng tải thành công. Trường hợp có từ 02 báo giá trở lên, chủ đầu tư được lựa chọn báo giá cao nhất phù hợp với khả năng tài chính và yêu cầu chuyên môn. Chủ đầu tư chịu trách nhiệm thu thập báo giá bảo đảm công khai, minh bạch. Đơn vị cung cấp báo giá chịu trách nhiệm cung cấp thông tin về giá của hàng hóa, dịch vụ phù hợp với khả năng cung cấp của mình và phải bảo đảm việc cung cấp báo giá không vi phạm quy định của pháp luật về cạnh tranh, bán phá giá hoặc nâng khống giá;
+
+đ) Kết quả thẩm định giá của hội đồng thẩm định giá hoặc của tổ chức có chức năng cung cấp dịch vụ thẩm định giá đối với các loại tài sản, hàng hóa, dịch vụ phải thẩm định giá theo quy định của pháp luật về giá. Đối với các loại tài sản, hàng hóa, dịch vụ phải thẩm định giá theo quy định của pháp luật về giá thì kết quả thẩm định giá là căn cứ bắt buộc để xác định giá gói thầu;
+
+e) Giá niêm yết của nhà sản xuất, nhà nhập khẩu, đại lý, nhà phân phối, nhà cung ứng, doanh nghiệp;
+
+g) Giá kê khai do cơ quan, đơn vị có chức năng, thẩm quyền công bố hoặc cung cấp.
+
+<a id="dieu-16-khoan-3"></a>
+**3.** Chủ đầu tư có thể xem xét các yếu tố đấu thầu bền vững theo quy định tại Điều 11 của Nghị định này, sản phẩm, dịch vụ thân thiện với môi trường khi xây dựng giá gói thầu. Trong trường hợp này, giá gói thầu bao gồm các chi phí cần thiết để thực hiện các yêu cầu về đấu thầu bền vững.
+
+<a id="dieu-16-khoan-4"></a>
+**4.** Đối với việc lựa chọn nhà thầu thuộc dự toán mua sắm, chủ đầu tư phải nêu các nội dung sau trong văn bản trình kế hoạch lựa chọn nhà thầu:
+
+a) Dự toán ngân sách nhà nước được cấp có thẩm quyền phê duyệt theo niên độ ngân sách hoặc dự kiến dự toán ngân sách được cấp đối với trường hợp mua sắm cho năm tiếp theo hoặc mua sắm cho nhiều năm; dự kiến nguồn tài chính hợp pháp trong năm tài chính hoặc dự kiến nguồn tài chính hợp pháp cho các năm kế tiếp đối với trường hợp mua sắm cho năm tiếp theo hoặc mua sắm cho nhiều năm;
+
+b) Giá trị phần công việc mua sắm đã thực hiện trong năm tài chính, năm ngân sách;
+
+c) Phần kinh phí không dùng để mua sắm;
+
+d) Dự toán mua sắm, được xác định bằng kinh phí quy định tại điểm a khoản này trừ kinh phí quy định tại điểm b và điểm c khoản này. Chủ đầu tư không phải thẩm định, phê duyệt dự toán mua sắm.
+
+Trường hợp chủ đầu tư có sẵn kinh phí để mua sắm trong năm ngân sách, năm tài chính và không dùng nguồn thu dự kiến trong năm thì không phải xác định dự toán mua sắm theo quy định tại khoản này. Trong trường hợp này, dự toán mua sắm là khoản kinh phí có sẵn dùng để mua sắm trong năm ngân sách, năm tài chính.
+
+Trường hợp gói thầu có thời gian thực hiện hợp đồng dài hơn 01 năm hoặc ngày hợp đồng có hiệu lực và ngày hoàn thành các nghĩa vụ hợp đồng không cùng một năm tài chính thì nêu rõ dự toán mua sắm của năm ngân sách, năm tài chính và dự kiến dự toán mua sắm của các năm tiếp theo. Người có thẩm quyền, chủ đầu tư chịu trách nhiệm bảo đảm bố trí đầy đủ kinh phí để thanh toán hợp đồng trong từng năm. Việc thanh toán theo từng năm được thực hiện sau khi dự toán chi trong năm được phê duyệt.
+
+<a id="dieu-16-khoan-5"></a>
+**5.** Đối với dự toán mua sắm, chủ đầu tư được tổ chức lựa chọn nhà thầu trong năm này để mua sắm cho các năm tiếp theo nhằm bảo đảm việc cung ứng hàng hóa, dịch vụ, xây lắp không bị gián đoạn; văn bản trình kế hoạch lựa chọn nhà thầu phải dự kiến dự toán mua sắm cho các năm sau làm cơ sở lập giá gói thầu.
+
+<a id="dieu-16-khoan-6"></a>
+**6.** Căn cứ quy mô, tính chất, tiến độ của dự án, gói thầu, người có thẩm quyền quyết định thời gian tổ chức lựa chọn nhà thầu đối với mỗi gói thầu là số ngày tính từ ngày phát hành hồ sơ mời thầu, hồ sơ yêu cầu đến khi có kết quả lựa chọn nhà thầu, bao gồm cả thời gian thẩm định. Trường hợp gói thầu có áp dụng thủ tục lựa chọn danh sách ngắn thì thời gian tổ chức lựa chọn nhà thầu tính từ ngày phát hành hồ sơ mời sơ tuyển, hồ sơ mời quan tâm đến khi có kết quả lựa chọn nhà thầu. Trường hợp cần thiết, có thể ghi rõ thời gian đánh giá hồ sơ dự thầu, hồ sơ đề xuất, thời gian thẩm định.
+
 
 <a id="dieu-17"></a>
-### Điều 17. Phương pháp kết hợp giữa kỹ thuật và giá
+### Điều 17. Cơ sở dữ liệu quốc gia về nhà thầu, chất lượng hàng hóa đã được sử dụng
 
 <a id="dieu-17-khoan-1"></a>
-1. Điểm tổng hợp được tính theo công thức kết hợp giữa điểm kỹ thuật (tỷ trọng từ 70% đến 80%) và điểm giá (tỷ trọng từ 20% đến 30%).
+**1.** Cơ sở dữ liệu quốc gia về nhà thầu bao gồm:
+
+a) Thông tin về tình trạng pháp lý của nhà thầu;
+
+b) Thông tin về vi phạm của nhà thầu;
+
+c) Thông tin về năng lực, kinh nghiệm của nhà thầu, bao gồm: báo cáo tài chính hoặc tài liệu về doanh thu, tài sản ròng; tình hình thực hiện nghĩa vụ kê khai thuế và nộp thuế; nguồn lực tài chính; nhân sự chủ chốt; máy móc, thiết bị chủ yếu; hợp đồng đã và đang thực hiện, năng lực sản xuất, trong đó hợp đồng thuộc phạm vi điều chỉnh của Luật Đấu thầu được công khai các nội dung chính;
+
+d) Thông tin về uy tín của nhà thầu trong việc tham dự thầu bao gồm thông tin về các hành vi vi phạm trong quá trình tham dự thầu quy định tại khoản 1 Điều 18 của Nghị định này;
+
+đ) Thông tin về kết quả thực hiện hợp đồng của nhà thầu, bao gồm các thông tin quy định tại khoản 3 Điều 18 của Nghị định này và thông tin về quá trình thực hiện hợp đồng;
+
+e) Các thông tin khác về nhà thầu.
 
 <a id="dieu-17-khoan-2"></a>
-2. Nhà thầu có điểm tổng hợp cao nhất được xếp hạng thứ nhất và được mời vào thương thảo hợp đồng.
+**2.** Cơ sở dữ liệu quốc gia về chất lượng hàng hóa đã được sử dụng bao gồm các thông tin sau:
 
----
+a) Tên hàng hóa;
 
-### Chương IV
+b) Xuất xứ, hãng sản xuất, ký mã hiệu, nhãn mác;
 
-__QUY TRÌNH LỰA CHỌN NHÀ THẦU GÓI THẦU XÂY LẮP VÀ MUA SẮM HÀNG HÓA__
+c) Các đặc tính kỹ thuật chủ yếu;
+
+d) Chủ đầu tư, đơn vị sử dụng hàng hóa;
+
+đ) Chất lượng hàng hóa theo quy định tại các khoản 5, 6 và 7 Điều 18 của Nghị định này;
+
+e) Các thông tin khác.
+
+<a id="dieu-17-khoan-3"></a>
+**3.** Cơ sở dữ liệu quốc gia về nhà thầu, chất lượng hàng hóa đã được sử dụng được cập nhật thường xuyên để bảo đảm thông tin khách quan, trung thực cho việc lựa chọn nhà thầu.
+
+<a id="dieu-17-khoan-4"></a>
+**4.** Bộ Kế hoạch và Đầu tư quy định chi tiết Điều này.
+
 
 <a id="dieu-18"></a>
-### Điều 18. Quy trình đấu thầu gói thầu xây lắp
+### Điều 18. Thông tin về kết quả thực hiện hợp đồng của nhà thầu, chất lượng hàng hóa đã được sử dụng
 
 <a id="dieu-18-khoan-1"></a>
-1. Lập, thẩm định và phê duyệt hồ sơ mời thầu xây lắp.
+**1.** Trừ trường hợp nhà thầu đồng thời được xếp thứ nhất ở nhiều gói thầu hoặc do bất khả kháng, nhà thầu bị đánh giá về uy tín trong việc tham dự thầu khi thực hiện các hành vi sau:
+
+a) Nhà thầu không tiến hành hoặc từ chối đối chiếu tài liệu, thương thảo hợp đồng (nếu có) trong thời gian có hiệu lực của hồ sơ dự thầu, hồ sơ đề xuất khi được mời vào đối chiếu tài liệu, thương thảo hợp đồng (nếu có);
+
+b) Nhà thầu đã đối chiếu tài liệu, thương thảo hợp đồng (nếu có) nhưng từ chối hoặc không ký kết biên bản thương thảo hợp đồng, trừ trường hợp quy định tại khoản 8 Điều 43 của Nghị định này;
+
+c) Nhà thầu được lựa chọn trúng thầu nhưng không tiến hành hoặc từ chối tiến hành hoàn thiện hợp đồng, thỏa thuận khung hoặc không ký kết hợp đồng, thỏa thuận khung;
+
+d) Nhà thầu đã ký thỏa thuận khung nhưng không tiến hành hoặc từ chối hoàn thiện hợp đồng hoặc không ký kết hợp đồng.
 
 <a id="dieu-18-khoan-2"></a>
-2. Phát hành hồ sơ mời thầu và tổ chức làm rõ HSMT, khảo sát hiện trường (nếu có).
+**2.** Trong thời hạn 07 ngày làm việc kể từ ngày nhà thầu có hành vi quy định tại khoản 1 Điều này, chủ đầu tư đăng tải danh sách nhà thầu và các tài liệu liên quan trên Hệ thống mạng đấu thầu quốc gia, trong đó nêu cụ thể ngày thực hiện hành vi đó. Nhà thầu có tên trong danh sách này khi tham dự thầu phải thực hiện biện pháp bảo đảm dự thầu với giá trị gấp 03 lần giá trị yêu cầu đối với nhà thầu khác trong thời hạn 02 năm kể từ lần cuối cùng thực hiện các hành vi quy định tại khoản 1 Điều này. Đối với gói thầu dịch vụ tư vấn, thông tin về uy tín trong việc tham dự thầu được sử dụng để đánh giá về kỹ thuật (nếu có).
 
 <a id="dieu-18-khoan-3"></a>
-3. Đóng thầu, mở thầu và đánh giá tính hợp lệ của hồ sơ dự thầu.
+**3.** Thông tin về kết quả thực hiện hợp đồng của nhà thầu gồm:
+
+a) Tiến độ thực hiện hợp đồng;
+
+b) Chất lượng hàng hóa, dịch vụ, công trình, bao gồm các sự cố xảy ra trong quá trình thực hiện hợp đồng (nếu có) và các yếu tố khác có liên quan;
+
+c) Vi phạm hợp đồng, chấm dứt hợp đồng và lý do;
+
+d) Các thông tin khác (nếu cần thiết).
 
 <a id="dieu-18-khoan-4"></a>
-4. Đánh giá năng lực, kinh nghiệm, năng lực tài chính và thiết bị thi công của nhà thầu.
+**4.** Chủ đầu tư hoặc đơn vị có nhu cầu mua sắm trong mua sắm tập trung có trách nhiệm công khai kết quả thực hiện hợp đồng của nhà thầu trên Hệ thống mạng đấu thầu quốc gia. Việc đăng tải thông tin về kết quả thực hiện hợp đồng áp dụng cho mỗi hợp đồng và trên cơ sở phạm vi công việc thuộc hợp đồng mà nhà thầu thực hiện. Thời gian đăng tải có thể trong hoặc sau thời gian thực hiện gói thầu nhưng không muộn hơn 06 tháng kể từ ngày kết thúc thời gian thực hiện gói thầu. Trường hợp thời gian bảo hành dài hơn 06 tháng, chủ đầu tư hoặc đơn vị có nhu cầu mua sắm trong mua sắm tập trung còn phải cập nhật kết quả thực hiện hợp đồng của nhà thầu sau khi hoàn thành nghĩa vụ bảo hành (nếu có).
+
+Trong thời hạn tối đa 20 ngày kể từ ngày chủ đầu tư hoặc đơn vị có nhu cầu mua sắm trong mua sắm tập trung đăng tải thông tin về kết quả thực hiện hợp đồng của nhà thầu, nhà thầu gửi phản hồi trên Hệ thống mạng đấu thầu quốc gia. Trường hợp nhà thầu phản ánh đúng, chủ đầu tư hoặc đơn vị có nhu cầu mua sắm trong mua sắm tập trung có trách nhiệm cập nhật lại thông tin.
 
 <a id="dieu-18-khoan-5"></a>
-5. Đánh giá đề xuất kỹ thuật (biện pháp thi công, tiến độ, an toàn lao động, vệ sinh môi trường).
+**5.** Thông tin về chất lượng hàng hóa đã được sử dụng, bao gồm:
+
+a) Chất lượng của hàng hóa trên thực tế so với quy định trong hợp đồng;
+
+b) Mức độ nghiêm trọng của các lỗi phát sinh và việc khắc phục các lỗi phát sinh hoặc thay thế hàng mới (nếu có);
+
+c) Tần suất hư hỏng, gặp sự cố của hàng hóa và chất lượng dịch vụ bảo hành, sửa chữa, khắc phục (nếu có);
+
+d) Độ tin cậy, độ bền, hiệu suất, công suất (nếu cần thiết);
+
+đ) Các thông tin khác (nếu cần thiết).
 
 <a id="dieu-18-khoan-6"></a>
-6. Đánh giá đề xuất tài chính theo phương pháp giá thấp nhất hoặc phương pháp giá đánh giá.
+**6.** Thông tin về chất lượng hàng hóa đã được sử dụng đối với thuốc, vật tư xét nghiệm, thiết bị y tế và vật tư, linh kiện để sửa chữa thiết bị y tế thực hiện theo quy định của pháp luật về dược, thiết bị y tế.
+
+<a id="dieu-18-khoan-7"></a>
+**7.** Chủ đầu tư hoặc đơn vị có nhu cầu mua sắm trong mua sắm tập trung có trách nhiệm công khai chất lượng hàng hóa đã được sử dụng quy định tại khoản 5 Điều này trên Hệ thống mạng đấu thầu quốc gia. Thời gian công khai là sau thời gian thực hiện gói thầu nhưng không muộn hơn 06 tháng kể từ ngày kết thúc thời gian thực hiện gói thầu. Trường hợp thời gian bảo hành dài hơn 06 tháng, chủ đầu tư hoặc đơn vị có nhu cầu mua sắm trong mua sắm tập trung còn phải cập nhật thông tin về chất lượng hàng hóa đã được sử dụng sau khi hoàn thành nghĩa vụ bảo hành (nếu có).
+
+Trong thời hạn tối đa 20 ngày kể từ ngày chủ đầu tư hoặc đơn vị có nhu cầu mua sắm trong mua sắm tập trung đăng tải thông tin về chất lượng hàng hóa đã được sử dụng, nhà thầu gửi phản hồi trên Hệ thống mạng đấu thầu quốc gia. Trường hợp nhà thầu phản ánh đúng, chủ đầu tư hoặc đơn vị có nhu cầu mua sắm trong mua sắm tập trung có trách nhiệm cập nhật lại thông tin.
+
+<a id="dieu-18-khoan-8"></a>
+**8.** Chủ đầu tư hoặc đơn vị có nhu cầu mua sắm đối với mua sắm tập trung chịu trách nhiệm trước pháp luật về tính trung thực, khách quan đối với thông tin kết quả thực hiện hợp đồng, chất lượng hàng hóa đã được sử dụng được công bố.
+
+<a id="dieu-18-khoan-9"></a>
+**9.** Cơ sở dữ liệu về kết quả thực hiện hợp đồng và chất lượng hàng hóa đã được sử dụng quy định tại các khoản 3, 5 và 6 Điều này được sử dụng để làm căn cứ xây dựng tiêu chuẩn đánh giá về kỹ thuật, đưa vào công thức xác định giá đánh giá (nếu có). Trường hợp cần thiết, chủ đầu tư có thể công bố bổ sung thông tin ngoài các thông tin quy định tại các khoản 3, 5 và 6 Điều này để làm căn cứ xây dựng tiêu chuẩn đánh giá về kỹ thuật, đưa vào công thức xác định giá đánh giá (nếu có). Việc xây dựng các tiêu chí đánh giá về kỹ thuật không được vi phạm quy định tại điểm k khoản 6 Điều 16 và khoản 3 Điều 44 của Luật Đấu thầu.
+
 
 <a id="dieu-19"></a>
-### Điều 19. Phương pháp giá đánh giá trong gói thầu xây lắp
+### Điều 19. Điều kiện năng lực, kinh nghiệm đối với tổ chuyên gia, tổ thẩm định
 
 <a id="dieu-19-khoan-1"></a>
-1. Giá đánh giá bao gồm giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch trừ đi giá trị giảm giá (nếu có) và cộng các chi phí chuyển đổi trên cùng một mặt bằng (chi phí vận hành, bảo dưỡng, tiến độ thi công).
+**1.** Thành viên tổ chuyên gia, tổ thẩm định phải đáp ứng yêu cầu sau đây:
+
+a) Có chứng chỉ nghiệp vụ chuyên môn về đấu thầu, trừ trường hợp quy định tại khoản 2 và khoản 3 Điều này;
+
+b) Tốt nghiệp đại học trở lên;
+
+c) Có năng lực hành vi dân sự đầy đủ theo quy định của pháp luật; không đang bị truy cứu trách nhiệm hình sự;
+
+d) Có tối thiểu 03 năm công tác thuộc một trong các lĩnh vực liên quan đến nội dung pháp lý, kỹ thuật, tài chính của gói thầu: có kinh nghiệm hoặc thực hiện các nội dung liên quan đến kỹ thuật nêu trong hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu hoặc các công việc về tài chính hoặc các công việc về pháp lý.
 
 <a id="dieu-19-khoan-2"></a>
-2. Nhà thầu có giá đánh giá thấp nhất sau khi quy đổi được xếp hạng thứ nhất.
+**2.** Cá nhân thực hiện thẩm định kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu theo nhiệm vụ được giao (không bao gồm tư vấn đấu thầu) không bắt buộc có chứng chỉ nghiệp vụ chuyên môn về đấu thầu.
+
+<a id="dieu-19-khoan-3"></a>
+**3.** Trường hợp cần ý kiến của chuyên gia chuyên ngành thì các chuyên gia này không bắt buộc có chứng chỉ nghiệp vụ chuyên môn về đấu thầu.
+
+<a id="dieu-19-khoan-4"></a>
+**4.** Đối với lĩnh vực y tế, trường hợp chủ đầu tư không có nhân sự đáp ứng yêu cầu quy định tại khoản 1 Điều này thì lựa chọn nhà thầu tư vấn để làm tổ chuyên gia, tổ thẩm định. Trường hợp không lựa chọn được nhà thầu tư vấn thì chủ đầu tư có quyền huy động, giao việc cho các nhân sự là các bác sỹ, dược sỹ, cán bộ quản lý hoặc mời các cán bộ thuộc Sở Y tế, Bộ Y tế và các chuyên gia trong lĩnh vực y tế tham gia tổ chuyên gia, tổ thẩm định mà không phải đáp ứng quy định tại điểm a và điểm b khoản 1 Điều này. Việc tổ chức lựa chọn nhà thầu phải đáp ứng mục tiêu của công tác đấu thầu là cạnh tranh, công bằng, minh bạch, hiệu quả kinh tế và trách nhiệm giải trình.
+
 
 <a id="dieu-20"></a>
-### Điều 20. Quy trình lựa chọn nhà thầu gói thầu mua sắm hàng hóa
+### Điều 20. Công khai thông tin về lựa chọn nhà thầu
 
 <a id="dieu-20-khoan-1"></a>
-1. Đánh giá tiêu chuẩn kỹ thuật về tính năng, công suất, xuất xứ, tiêu chuẩn chất lượng của hàng hóa.
+**1.** Các thông tin về lựa chọn nhà thầu được đăng tải công khai trên Hệ thống mạng đấu thầu quốc gia.
 
 <a id="dieu-20-khoan-2"></a>
-2. Đánh giá về dịch vụ sau bán hàng, thời gian bảo hành và khả năng cung cấp phụ tùng thay thế.
+**2.** Bộ Kế hoạch và Đầu tư quy định chi tiết về việc đăng tải thông tin, quản lý, sử dụng thông tin theo quy định tại khoản 1 Điều này.
 
----
-
-### Chương V
-
-__QUY TRÌNH CHỈ ĐỊNH THẦU, CHÀO HÀNG CẠNH TRANH, MUA SẮM TRỰC TIẾP__
 
 <a id="dieu-21"></a>
-### Điều 21. Quy trình chỉ định thầu thông thường
+### Điều 21. Đăng ký và quản lý tài khoản trên Hệ thống mạng đấu thầu quốc gia
 
 <a id="dieu-21-khoan-1"></a>
-1. Lập, thẩm định và phê duyệt hồ sơ yêu cầu.
+**1.** Việc đăng ký tham gia Hệ thống mạng đấu thầu quốc gia thực hiện theo quy trình sau:
+
+a) Tổ chức, cá nhân nhập thông tin vào đơn đăng ký được hình thành trên Hệ thống mạng đấu thầu quốc gia;
+
+b) Tổ chức nộp hồ sơ đăng ký trên Hệ thống mạng đấu thầu quốc gia gồm các tài liệu sau: đơn đăng ký quy định tại điểm a khoản này được ký, đóng dấu (nếu có) bởi đại diện hợp pháp của tổ chức; giấy ủy quyền (nếu có); quyết định thành lập hoặc giấy chứng nhận đăng ký doanh nghiệp hoặc giấy chứng nhận đăng ký hộ kinh doanh hoặc giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã, tổ hợp tác hoặc các tài liệu tương đương khác trong trường hợp tổ chức không có tên trên Hệ thống thông tin quốc gia về đăng ký doanh nghiệp;
+
+c) Cá nhân nộp hồ sơ đăng ký trên Hệ thống mạng đấu thầu quốc gia gồm các tài liệu sau: đơn đăng ký quy định tại điểm a khoản này được ký bởi cá nhân đăng ký; bản chụp hộ chiếu hoặc tài liệu tương đương đối với cá nhân mang quốc tịch nước ngoài.
 
 <a id="dieu-21-khoan-2"></a>
-2. Phát hành hồ sơ yêu cầu cho nhà thầu được xác định trong kế hoạch lựa chọn nhà thầu.
+**2.** Việc cập nhật thông tin tài khoản của tổ chức, cá nhân trên Hệ thống mạng đấu thầu quốc gia được thực hiện như sau:
+
+a) Thông tin cập nhật bao gồm: bổ sung, sửa đổi thông tin đã đăng ký; bổ sung, sửa đổi vai trò trong hoạt động đấu thầu; chấm dứt, tạm ngừng, khôi phục trạng thái tham gia;
+
+b) Phiếu yêu cầu cập nhật thông tin gửi trên Hệ thống mạng đấu thầu quốc gia phải được ký, đóng dấu (nếu có) bởi đại diện hợp pháp của tổ chức, cá nhân.
 
 <a id="dieu-21-khoan-3"></a>
-3. Đánh giá hồ sơ đề xuất và thương thảo về các đề xuất của nhà thầu.
+**3.** Hồ sơ của tổ chức, cá nhân quy định tại khoản 1 và khoản 2 Điều này được xử lý trong thời hạn 02 ngày làm việc kể từ khi nhận được yêu cầu trên Hệ thống mạng đấu thầu quốc gia. Kết quả xử lý hồ sơ của tổ chức, cá nhân được thông báo trên Hệ thống mạng đấu thầu quốc gia, thư điện tử (e-mail).
 
 <a id="dieu-21-khoan-4"></a>
-4. Thẩm định, phê duyệt và công khai kết quả chỉ định thầu.
+**4.** Tổ chức, cá nhân cố tình đăng tải thông tin quy định tại Điều 7 và Điều 8 của Luật Đấu thầu mà nội dung thông tin này không có thật thì bị khóa tài khoản trong thời hạn 12 tháng kể từ ngày phát hiện hành vi này.
+
+<a id="dieu-21-khoan-5"></a>
+**5.** Trường hợp thuê tư vấn đấu thầu để làm bên mời thầu thì chủ đầu tư vẫn phải có trách nhiệm đăng tải kế hoạch lựa chọn nhà thầu, kết quả lựa chọn nhà thầu trên Hệ thống mạng đấu thầu quốc gia theo quy định tại Điều 7 và Điều 8 của Luật Đấu thầu. Trường hợp tư vấn đấu thầu, tổ chức, cá nhân sử dụng tài khoản của mình để đăng tải thông tin thay cho chủ đầu tư thì nhà thầu tư vấn, tổ chức, cá nhân sẽ bị khóa tài khoản trong thời hạn 06 tháng kể từ ngày phát hiện hành vi này.
+
+## Chương II. 
+
+__QUY TRÌNH ĐẤU THẦU RỘNG RÃI, HẠN CHẾ KHÔNG QUA MẠNG ĐỐI VỚI GÓI THẦU CUNG CẤP DỊCH VỤ PHI TƯ VẤN, MUA SẮM HÀNG HÓA, XÂY LẮP, HỖN HỢP THEO PHƯƠNG THỨC MỘT GIAI ĐOẠN__
+
+### Mục 1. PHƯƠNG THỨC MỘT GIAI ĐOẠN MỘT TÚI HỒ SƠ
+
 
 <a id="dieu-22"></a>
-### Điều 22. Quy trình chỉ định thầu rút gọn
+### Điều 22. Quy trình chi tiết
 
 <a id="dieu-22-khoan-1"></a>
-1. Áp dụng đối với các gói thầu cấp bách khắc phục thiên tai, dịch bệnh hoặc gói thầu trong hạn mức chỉ định thầu quy định tại khoản 2 Điều 23 của Luật Đấu thầu.
+**1.** Chuẩn bị lựa chọn nhà thầu, bao gồm:
+
+a) Lựa chọn danh sách ngắn (nếu cần thiết);
+
+b) Lập hồ sơ mời thầu;
+
+c) Thẩm định và phê duyệt hồ sơ mời thầu.
 
 <a id="dieu-22-khoan-2"></a>
-2. Chủ đầu tư hoặc cơ quan trực tiếp quản lý gói thầu giao nhà thầu có đủ năng lực, kinh nghiệm thực hiện ngay gói thầu. Trong thời hạn 15 ngày kể từ ngày giao thầu, các bên phải hoàn thiện thủ tục chỉ định thầu và ký kết hợp đồng.
+**2.** Tổ chức lựa chọn nhà thầu, bao gồm:
+
+a) Mời thầu;
+
+b) Phát hành, sửa đổi, làm rõ hồ sơ mời thầu;
+
+c) Chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu;
+
+d) Mở thầu.
+
+<a id="dieu-22-khoan-3"></a>
+**3.** Đánh giá hồ sơ dự thầu, bao gồm:
+
+a) Kiểm tra, đánh giá tính hợp lệ của hồ sơ dự thầu;
+
+b) Đánh giá chi tiết hồ sơ dự thầu;
+
+c) Xếp hạng nhà thầu (nếu có nhiều hơn 01 nhà thầu).
+
+<a id="dieu-22-khoan-4"></a>
+**4.** Trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu và giải thích lý do nhà thầu không trúng thầu theo yêu cầu của nhà thầu (nếu có).
+
+<a id="dieu-22-khoan-5"></a>
+**5.** Hoàn thiện, ký kết và quản lý thực hiện hợp đồng.
+
+Đối với gói thầu mua sắm hàng hóa, ngoài nhà thầu là tổ chức, nhà thầu là cá nhân, nhóm cá nhân chào thầu sản phẩm đổi mới sáng tạo của mình đáp ứng quy định tại khoản 4 Điều 5 của Nghị định này được tham dự thầu.
+
 
 <a id="dieu-23"></a>
-### Điều 23. Quy trình chào hàng cạnh tranh
+### Điều 23. Lựa chọn danh sách ngắn
+
+Căn cứ quy mô, tính chất của gói thầu, người có thẩm quyền quyết định áp dụng thủ tục lựa chọn danh sách ngắn. Việc áp dụng thủ tục lựa chọn danh sách ngắn phải được ghi trong kế hoạch lựa chọn nhà thầu.
 
 <a id="dieu-23-khoan-1"></a>
-1. Chào hàng cạnh tranh theo quy trình thông thường: Phát hành hồ sơ mời thầu trên Hệ thống mạng đấu thầu quốc gia, đánh giá HSDT và phê duyệt kết quả.
+**1.** Đối với đấu thầu rộng rãi:
+
+a) Lập hồ sơ mời sơ tuyển:
+
+Hồ sơ mời sơ tuyển bao gồm các nội dung: thông tin tóm tắt về dự án, dự toán mua sắm, gói thầu; chỉ dẫn việc chuẩn bị và nộp hồ sơ dự sơ tuyển; tiêu chuẩn đánh giá về tính hợp lệ của hồ sơ dự sơ tuyển; tiêu chuẩn về năng lực và kinh nghiệm của nhà thầu.
+
+Tiêu chuẩn đánh giá hồ sơ dự sơ tuyển được xây dựng theo các tiêu chí đạt, không đạt, trong đó quy định mức tối thiểu để đánh giá là đạt đối với từng nội dung về năng lực và kinh nghiệm của nhà thầu;
+
+b) Hồ sơ mời sơ tuyển được thẩm định theo quy định tại Điều 129 của Nghị định này trước khi phê duyệt. Việc phê duyệt hồ sơ mời sơ tuyển được thực hiện bằng văn bản căn cứ vào tờ trình phê duyệt, báo cáo thẩm định hồ sơ mời sơ tuyển;
+
+c) Thông báo mời sơ tuyển thực hiện theo quy định tại điểm b khoản 1 Điều 8 của Luật Đấu thầu;
+
+d) Phát hành hồ sơ mời sơ tuyển:
+
+Hồ sơ mời sơ tuyển được phát hành miễn phí trên Hệ thống mạng đấu thầu quốc gia;
+
+đ) Tiếp nhận và quản lý hồ sơ dự sơ tuyển:
+
+Bên mời thầu tiếp nhận và quản lý các hồ sơ dự sơ tuyển đã nộp theo chế độ quản lý hồ sơ mật cho đến khi công khai kết quả sơ tuyển;
+
+e) Mở và đánh giá hồ sơ dự sơ tuyển:
+
+Hồ sơ dự sơ tuyển được nộp trong thời hạn và địa điểm quy định tại hồ sơ mời sơ tuyển và được mở ngay sau thời điểm đóng thầu. Việc mở hồ sơ dự sơ tuyển phải được ghi thành biên bản, gửi cho các nhà thầu nộp hồ sơ dự sơ tuyển và được đăng tải trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 24 giờ kể từ thời điểm mở thầu. Hồ sơ dự sơ tuyển được gửi sau thời điểm đóng thầu là không hợp lệ, không được mở và bị loại. Việc đánh giá hồ sơ dự sơ tuyển thực hiện theo tiêu chuẩn đánh giá quy định trong hồ sơ mời sơ tuyển. Nhà thầu có hồ sơ dự sơ tuyển được đánh giá đạt đối với tất cả các nội dung về năng lực và kinh nghiệm được đưa vào danh sách ngắn.
+
+Nhà thầu là cá nhân, nhóm cá nhân chào thầu sản phẩm đổi mới sáng tạo của mình đáp ứng quy định tại khoản 4 Điều 5 của Nghị định này thì không phải đáp ứng một số tiêu chí quy định tại khoản 3 Điều 9 của Nghị định này.
+
+g) Trình, thẩm định và phê duyệt kết quả sơ tuyển:
+
+Trên cơ sở báo cáo kết quả đánh giá hồ sơ dự sơ tuyển, bên mời thầu trình phê duyệt kết quả sơ tuyển, trong đó nêu rõ ý kiến của bên mời thầu về các nội dung đánh giá của tổ chuyên gia. Kết quả sơ tuyển được thẩm định theo quy định tại khoản 1 và khoản 2 Điều 130 của Nghị định này và được phê duyệt bằng văn bản căn cứ vào tờ trình phê duyệt, báo cáo thẩm định kết quả sơ tuyển. Trường hợp lựa chọn được danh sách ngắn, văn bản phê duyệt kết quả sơ tuyển bao gồm tên các nhà thầu trúng sơ tuyển và các nội dung cần lưu ý (nếu có). Trường hợp không lựa chọn được danh sách ngắn, văn bản phê duyệt kết quả sơ tuyển phải nêu rõ lý do không lựa chọn được danh sách ngắn.
+
+h) Công khai danh sách ngắn: danh sách ngắn được đăng tải theo quy định tại điểm b khoản 1 và khoản 4 Điều 8 của Luật Đấu thầu và thông báo đến các nhà thầu nộp hồ sơ dự sơ tuyển.
 
 <a id="dieu-23-khoan-2"></a>
-2. Chào hàng cạnh tranh rút gọn: Áp dụng đối với gói thầu mua sắm hàng hóa thông dụng dưới 500 triệu đồng.
+**2.** Đối với đấu thầu hạn chế:
+
+a) Xác định, phê duyệt danh sách ngắn gồm tối thiểu 03 nhà thầu có năng lực, kinh nghiệm đáp ứng yêu cầu của gói thầu và có nhu cầu tham dự thầu. Trường hợp có ít hơn 03 nhà thầu đáp ứng yêu cầu thì xử lý tình huống theo quy định tại khoản 3 Điều 131 của Nghị định này;
+
+b) Sau khi phê duyệt, danh sách ngắn được đăng tải theo quy định tại điểm b khoản 1 và khoản 4 Điều 8 của Luật Đấu thầu.
+
+<a id="dieu-23-khoan-3"></a>
+**3.** Các nhà thầu có tên trong danh sách ngắn không được liên danh với nhau để tham dự thầu; trường hợp liên danh với nhà thầu ngoài danh sách ngắn thì phải được sự chấp thuận của chủ đầu tư trước thời điểm đóng thầu.
+
 
 <a id="dieu-24"></a>
-### Điều 24. Mua sắm trực tiếp
+### Điều 24. Lập hồ sơ mời thầu
 
-Chủ đầu tư áp dụng mua sắm trực tiếp khi ký hợp đồng với nhà thầu đã trúng thầu thông qua đấu thầu rộng rãi đối với gói thầu tương tự có đơn giá không vượt đơn giá của hợp đồng đã ký trước đó.
+<a id="dieu-24-khoan-1"></a>
+**1.** Căn cứ lập hồ sơ mời thầu:
+
+a) Kế hoạch tổng thể lựa chọn nhà thầu được duyệt (nếu có);
+
+b) Kế hoạch lựa chọn nhà thầu được duyệt;
+
+c) Tài liệu về thiết kế, bản vẽ, thuyết minh về gói thầu (nếu có);
+
+d) Các yêu cầu về kỹ thuật của gói thầu gồm: đặc tính, thông số kỹ thuật, yêu cầu công nghệ, chất lượng dịch vụ, yêu cầu kiểm tra, thử nghiệm, nghiệm thu và các yêu cầu về kỹ thuật khác (nếu có);
+
+đ) Các quy định của pháp luật về đấu thầu và các quy định của pháp luật liên quan; điều ước quốc tế, thỏa thuận vay (nếu có) đối với các dự án sử dụng vốn hỗ trợ phát triển chính thức, vốn vay ưu đãi;
+
+e) Quy định của pháp luật về thuế, phí, ưu đãi trong lựa chọn nhà thầu;
+
+g) Các căn cứ liên quan khác.
+
+<a id="dieu-24-khoan-2"></a>
+**2.** Hồ sơ mời thầu phải bao gồm đầy đủ các nội dung cần thiết để nhà thầu lập hồ sơ dự thầu và không được nêu bất cứ điều kiện nào nhằm hạn chế sự tham gia của nhà thầu hoặc nhằm tạo lợi thế cho một hoặc một số nhà thầu gây ra sự cạnh tranh không bình đẳng theo quy định tại điểm k khoản 6 Điều 16 và khoản 3 Điều 44 của Luật Đấu thầu. Bộ Kế hoạch và Đầu tư hướng dẫn về hành vi vi phạm quy định tại khoản 3 Điều 44 của Luật Đấu thầu dẫn đến nội dung của hồ sơ mời thầu bị coi là vô hiệu, không phải là căn cứ để đánh giá hồ sơ dự thầu.
+
+<a id="dieu-24-khoan-3"></a>
+**3.** Hồ sơ mời thầu phải quy định nội dung đánh giá tính hợp lệ của hồ sơ dự thầu, bao gồm:
+
+a) Có bản gốc hồ sơ dự thầu;
+
+b) Có đơn dự thầu được đại diện hợp pháp của nhà thầu ký tên, đóng dấu (nếu có) theo yêu cầu của hồ sơ mời thầu; thời gian ký đơn dự thầu phải sau thời điểm phát hành hồ sơ mời thầu; không đề xuất các giá dự thầu khác nhau hoặc có kèm theo điều kiện gây bất lợi cho chủ đầu tư. Đối với nhà thầu liên danh, đơn dự thầu phải do đại diện hợp pháp của từng thành viên liên danh ký tên, đóng dấu (nếu có) hoặc thành viên được phân công thay mặt liên danh ký đơn dự thầu theo phân công trách nhiệm trong thỏa thuận liên danh;
+
+c) Hiệu lực của hồ sơ dự thầu đáp ứng yêu cầu theo quy định trong hồ sơ mời thầu;
+
+d) Có bảo đảm dự thầu với giá trị, thời hạn hiệu lực và đơn vị thụ hưởng đáp ứng yêu cầu của hồ sơ mời thầu. Trường hợp quy định bảo đảm dự thầu theo hình thức nộp thư bảo lãnh hoặc giấy chứng nhận bảo hiểm bảo lãnh thì thư bảo lãnh, giấy chứng nhận bảo hiểm bảo lãnh không vi phạm một trong các trường hợp sau đây: có giá trị thấp hơn, thời gian có hiệu lực ngắn hơn so với yêu cầu của hồ sơ mời thầu, không đúng tên đơn vị thụ hưởng, không có chữ ký hợp lệ, ký trước khi phát hành hồ sơ mời thầu, có kèm theo các điều kiện gây bất lợi cho chủ đầu tư, bên mời thầu. Thư bảo lãnh hoặc giấy chứng nhận bảo hiểm bảo lãnh phải được đại diện hợp pháp của tổ chức tín dụng trong nước hoặc chi nhánh ngân hàng nước ngoài được thành lập theo pháp luật Việt Nam, doanh nghiệp bảo hiểm phi nhân thọ trong nước, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài được thành lập theo pháp luật Việt Nam ký tên, đóng dấu (nếu có). Đối với gói thầu bảo hiểm, nhà thầu tham dự thầu không được xuất trình giấy chứng nhận bảo hiểm bảo lãnh do mình phát hành;
+
+đ) Không có tên trong hai hoặc nhiều hồ sơ dự thầu với tư cách là nhà thầu độc lập hoặc thành viên trong liên danh;
+
+e) Có thỏa thuận liên danh (trong trường hợp liên danh) được đại diện hợp pháp của từng thành viên liên danh ký tên, đóng dấu (nếu có); thỏa thuận liên danh phải nêu rõ nội dung công việc cụ thể và ước tính giá trị tương ứng mà từng thành viên trong liên danh sẽ thực hiện. Việc phân chia công việc trong liên danh phải căn cứ các hạng mục nêu trong bảng giá dự thầu hoặc theo các công việc thuộc quá trình sản xuất hạng mục trong bảng giá dự thầu, không được phân chia các công việc không thuộc các hạng mục này hoặc không thuộc quá trình sản xuất các hạng mục này;
+
+g) Nhà thầu bảo đảm tư cách hợp lệ theo quy định tại Điều 5 của Luật Đấu thầu;
+
+h) Trong thời hạn 03 năm trước thời điểm đóng thầu, nhà thầu không có nhân sự (ký kết hợp đồng lao động với nhà thầu tại thời điểm nhân sự thực hiện hành vi vi phạm) bị Tòa án kết án có hành vi vi phạm quy định về đấu thầu gây hậu quả nghiêm trọng theo quy định của pháp luật về hình sự nhằm mục đích cho nhà thầu đó trúng thầu.
+
+<a id="dieu-24-khoan-4"></a>
+**4.** Tiêu chuẩn đánh giá hồ sơ dự thầu đối với gói thầu mua sắm hàng hóa bao gồm:
+
+a) Tiêu chuẩn đánh giá về năng lực và kinh nghiệm:
+
+Sử dụng tiêu chí đạt, không đạt để xây dựng tiêu chuẩn đánh giá về năng lực và kinh nghiệm, trong đó quy định mức yêu cầu tối thiểu để đánh giá là đạt đối với từng nội dung về năng lực và kinh nghiệm của nhà thầu, gồm: kinh nghiệm thực hiện các hợp đồng cung cấp hàng hóa tương tự; năng lực sản xuất hàng hóa; năng lực tài chính gồm giá trị tài sản ròng, doanh thu; việc thực hiện nghĩa vụ kê khai thuế, nộp thuế và các chỉ tiêu cần thiết khác để đánh giá năng lực về tài chính của nhà thầu; cơ sở vật chất kỹ thuật, trình độ cán bộ chuyên môn thực hiện các dịch vụ liên quan (nếu có yêu cầu).
+
+Việc xác định mức độ yêu cầu cụ thể đối với từng tiêu chuẩn quy định tại điểm này căn cứ theo yêu cầu của từng gói thầu cụ thể. Nhà thầu được đánh giá đạt tất cả nội dung quy định tại điểm này thì đáp ứng yêu cầu về năng lực và kinh nghiệm.
+
+Đối với gói thầu mua sắm hàng hóa, nhà thầu là cá nhân, nhóm cá nhân chào thầu sản phẩm đổi mới sáng tạo của mình đáp ứng quy định tại khoản 4 Điều 5 của Nghị định này thì không phải đáp ứng một số tiêu chí quy định tại khoản 3 Điều 9 của Nghị định này.
+
+Nhà thầu là hộ kinh doanh không phải nộp báo cáo tài chính, không phải đáp ứng yêu cầu về giá trị tài sản ròng.
+
+b) Tiêu chuẩn đánh giá về kỹ thuật:
+
+Sử dụng tiêu chí đạt, không đạt hoặc phương pháp chấm điểm để xây dựng tiêu chuẩn đánh giá về kỹ thuật.
+
+Trường hợp sử dụng phương pháp đạt, không đạt, đối với các tiêu chí đánh giá tổng quát, chỉ sử dụng tiêu chí đạt, không đạt. Đối với các tiêu chí chi tiết cơ bản trong tiêu chí tổng quát, chỉ sử dụng tiêu chí đạt, không đạt; đối với các tiêu chí chi tiết không cơ bản trong tiêu chí tổng quát, ngoài tiêu chí đạt, không đạt, được áp dụng thêm tiêu chí chấp nhận được nhưng không được vượt quá 30% tổng số các tiêu chí chi tiết trong tiêu chí tổng quát đó. Tiêu chí tổng quát được đánh giá là đạt khi tất cả các tiêu chí chi tiết cơ bản được đánh giá là đạt và các tiêu chí chi tiết không cơ bản được đánh giá là đạt hoặc chấp nhận được.
+
+Trường hợp sử dụng phương pháp chấm điểm thì phải quy định mức điểm tối thiểu và mức điểm tối đa đối với từng tiêu chí tổng quát. Có thể quy định mức điểm tối thiểu đối với tiêu chí chi tiết cơ bản trong tiêu chí tổng quát; không được quy định mức điểm tối thiểu đối với các tiêu chí chi tiết không cơ bản. Mức điểm yêu cầu tối thiểu về kỹ thuật quy định không thấp hơn 70% tổng số điểm tối đa về kỹ thuật. Đối với gói thầu có yêu cầu kỹ thuật cao, mức điểm yêu cầu tối thiểu về kỹ thuật từ 80% đến 90% tổng số điểm tối đa về kỹ thuật; đối với gói thầu cần xem xét trên cơ sở chú trọng tới các yếu tố kỹ thuật và giá, chủ đầu tư có thể quy định mức điểm yêu cầu tối thiểu về kỹ thuật không thấp hơn 80% tổng số điểm tối đa về kỹ thuật. Tiêu chuẩn đánh giá về kỹ thuật được xây dựng trên cơ sở các yếu tố về khả năng đáp ứng các yêu cầu về số lượng, chất lượng, thời hạn giao hàng, vận chuyển, lắp đặt, bảo hành, cung cấp các dịch vụ sau bán hàng (nếu có), thông tin về kết quả thực hiện hợp đồng của nhà thầu theo quy định tại Điều 17 và Điều 18 của Nghị định này và các yêu cầu khác nêu trong hồ sơ mời thầu. Căn cứ vào từng gói thầu cụ thể, khi lập hồ sơ mời thầu phải cụ thể hóa các tiêu chí làm cơ sở để đánh giá về kỹ thuật bao gồm: đặc tính, thông số kỹ thuật của hàng hóa, tiêu chuẩn sản xuất, tiêu chuẩn chế tạo và công nghệ; tính hợp lý và hiệu quả kinh tế của các giải pháp kỹ thuật, biện pháp tổ chức cung cấp, lắp đặt hàng hóa; mức độ đáp ứng các yêu cầu về bảo hành, bảo trì; mức độ đáp ứng các yêu cầu về cung cấp vật tư, thiết bị thay thế và các dịch vụ liên quan khác (nếu có) trong toàn bộ quá trình sử dụng của hàng hóa; khả năng thích ứng về mặt địa lý, môi trường; tác động đối với môi trường và biện pháp giải quyết; các yếu tố về điều kiện thương mại, thời gian giao hàng, đào tạo chuyển giao công nghệ, cung cấp các dịch vụ sau bán hàng; tiến độ cung cấp hàng hóa; yếu tố thân thiện môi trường; thông tin về kết quả thực hiện hợp đồng của nhà thầu theo quy định tại Điều 17 và Điều 18 của Nghị định này; chất lượng hàng hóa tương tự được công khai theo quy định tại Điều 18 của Nghị định này (nếu có); các yếu tố cần thiết khác.
+
+c) Xác định giá thấp nhất (đối với trường hợp áp dụng phương pháp giá thấp nhất): xác định giá dự thầu; sửa lỗi; hiệu chỉnh sai lệch; trừ giá trị giảm giá (nếu có); chuyển đổi giá dự thầu sang một loại đồng tiền chung (nếu có); xác định giá trị ưu đãi (nếu có); so sánh giữa các hồ sơ dự thầu để xác định giá thấp nhất;
+
+d) Tiêu chuẩn xác định giá đánh giá (đối với trường hợp áp dụng phương pháp giá đánh giá):
+
+Công thức xác định giá đánh giá:
+
+GĐG = G ± ∆G \+ ∆ƯĐ
+
+Trong đó:
+
+G = (giá dự thầu ± giá trị sửa lỗi ± giá trị hiệu chỉnh sai lệch) - giá trị giảm giá (nếu có).
+
+∆G là giá trị các yếu tố được quy về một mặt bằng cho cả vòng đời sử dụng của hàng hóa bao gồm: thời gian giao hàng; tiến độ thanh toán; chi phí cho các hạng mục vật tư, phụ tùng thay thế trong thời gian đầu; khả năng sẵn sàng cung cấp vật tư, phụ tùng thay thế và các dịch vụ sau bán hàng cho hàng hóa được chào trong hồ sơ dự thầu tại địa điểm dự án; chi phí vòng đời sử dụng; hiệu suất và công suất của thiết bị; các yếu tố của đấu thầu bền vững (nếu có); thông tin về kết quả thực hiện hợp đồng của nhà thầu theo quy định tại Điều 17 và Điều 18 của Nghị định này; chất lượng hàng hóa đã được sử dụng được công khai theo quy định tại Điều 18 của Nghị định này, bao gồm cả việc xem xét xuất xứ; các yếu tố khác (nếu có).
+
+∆ƯĐ là giá trị phải cộng thêm đối với đối tượng không được hưởng ưu đãi theo quy định tại các điểm b, d khoản 1, các điểm b, d khoản 2 và điểm b khoản 3 Điều 5 của Nghị định này.
+
+<a id="dieu-24-khoan-5"></a>
+**5.** Tiêu chuẩn đánh giá hồ sơ dự thầu đối với gói thầu xây lắp bao gồm:
+
+a) Tiêu chuẩn đánh giá về năng lực và kinh nghiệm:
+
+Sử dụng tiêu chí đạt, không đạt để xây dựng tiêu chuẩn đánh giá về năng lực và kinh nghiệm, trong đó quy định mức yêu cầu tối thiểu để đánh giá là đạt đối với từng nội dung về năng lực và kinh nghiệm của nhà thầu, gồm: kinh nghiệm thực hiện các gói thầu tương tự; năng lực kỹ thuật: số lượng, trình độ chuyên môn của cán bộ chủ chốt, số lượng thiết bị thi công chủ yếu có khả năng huy động để thực hiện gói thầu (nếu có yêu cầu); năng lực tài chính: giá trị tài sản ròng, doanh thu; việc thực hiện nghĩa vụ kê khai thuế, nộp thuế và các chỉ tiêu cần thiết khác để đánh giá về năng lực tài chính của nhà thầu.
+
+Việc xác định mức độ yêu cầu cụ thể đối với từng tiêu chuẩn quy định tại điểm này căn cứ theo yêu cầu của từng gói thầu. Nhà thầu được đánh giá đạt tất cả nội dung quy định tại điểm này thì đáp ứng yêu cầu về năng lực và kinh nghiệm;
+
+b) Tiêu chuẩn đánh giá về kỹ thuật:
+
+Sử dụng tiêu chí đạt, không đạt hoặc phương pháp chấm điểm để xây dựng tiêu chuẩn đánh giá về kỹ thuật.
+
+Trường hợp sử dụng phương pháp đạt, không đạt, đối với các tiêu chí đánh giá tổng quát, chỉ sử dụng tiêu chí đạt, không đạt. Đối với các tiêu chí chi tiết cơ bản trong tiêu chí tổng quát, chỉ sử dụng tiêu chí đạt, không đạt; đối với các tiêu chí chi tiết không cơ bản trong tiêu chí tổng quát, ngoài tiêu chí đạt, không đạt, được áp dụng thêm tiêu chí chấp nhận được nhưng không được vượt quá 30% tổng số các tiêu chí chi tiết trong tiêu chí tổng quát đó. Tiêu chí tổng quát được đánh giá là đạt khi tất cả các tiêu chí chi tiết cơ bản được đánh giá là đạt và các tiêu chí chi tiết không cơ bản được đánh giá là đạt hoặc chấp nhận được.
+
+Trường hợp sử dụng phương pháp chấm điểm thì phải quy định mức điểm tối thiểu và mức điểm tối đa đối với từng tiêu chí tổng quát. Có thể quy định mức điểm tối thiểu đối với tiêu chí chi tiết cơ bản trong tiêu chí tổng quát; không được quy định mức điểm tối thiểu đối với các tiêu chí chi tiết không cơ bản.
+
+Việc xây dựng tiêu chuẩn đánh giá về kỹ thuật dựa trên các nội dung về khả năng đáp ứng các yêu cầu về hồ sơ thiết kế, phạm vi công việc, thông tin về kết quả thực hiện hợp đồng của nhà thầu theo quy định tại Điều 17 và Điều 18 của Nghị định này và các yêu cầu khác nêu trong hồ sơ mời thầu. Căn cứ vào từng gói thầu cụ thể, khi lập hồ sơ mời thầu phải cụ thể hóa các tiêu chí làm cơ sở để đánh giá về kỹ thuật bao gồm: tính hợp lý và khả thi của các giải pháp kỹ thuật, biện pháp tổ chức thi công phù hợp với đề xuất về tiến độ thi công; tiến độ thi công; cách thức quản lý dự án bao gồm: tổ chức quản lý dự án, tổ chức quản lý hiện trường; các biện pháp bảo đảm chất lượng; bảo đảm điều kiện vệ sinh môi trường và các điều kiện khác như phòng cháy, chữa cháy, an toàn lao động; mức độ đáp ứng các yêu cầu về bảo hành, bảo trì; các yếu tố thân thiện môi trường (nếu có) gồm việc sử dụng các vật tư, vật liệu, biện pháp tổ chức thi công, dây chuyền, công nghệ thi công và các yếu tố khác (nếu có); thông tin về kết quả thực hiện hợp đồng của nhà thầu theo quy định tại Điều 17 và Điều 18 của Nghị định này; các yếu tố cần thiết khác.
+
+Trừ trường hợp do tính chất của gói thầu mà hồ sơ mời thầu yêu cầu nhà thầu phải thực hiện theo đúng biện pháp thi công nêu trong hồ sơ mời thầu, hồ sơ mời thầu cần quy định nhà thầu được đề xuất biện pháp thi công khác với biện pháp thi công nêu trong hồ sơ mời thầu;
+
+c) Việc xác định giá thấp nhất (đối với trường hợp áp dụng phương pháp giá thấp nhất) thực hiện theo quy định tại điểm c khoản 4 Điều này;
+
+d) Tiêu chuẩn xác định giá đánh giá (đối với trường hợp áp dụng phương pháp giá đánh giá):
+
+Công thức xác định giá đánh giá:
+
+GĐG = G ± ∆G \+ ∆ƯĐ
+
+Trong đó:
+
+G = (giá dự thầu ± giá trị sửa lỗi ± giá trị hiệu chỉnh sai lệch) - giá trị giảm giá (nếu có).
+
+∆G là giá trị các yếu tố được quy về một mặt bằng cho cả vòng đời sử dụng của công trình bao gồm: tiến độ hoàn thành công trình; chi phí vòng đời trong toàn bộ quá trình sử dụng của công trình; chi phí lãi vay (nếu có); các yếu tố của đấu thầu bền vững (nếu có); thông tin về kết quả thực hiện hợp đồng của nhà thầu theo quy định tại Điều 17 và Điều 18 của Nghị định này; các yếu tố khác (nếu có).
+
+∆ƯĐ là giá trị phải cộng thêm đối với đối tượng không được hưởng ưu đãi theo quy định tại điểm b khoản 2 Điều 6 của Nghị định này.
+
+<a id="dieu-24-khoan-6"></a>
+**6.** Đối với gói thầu cung cấp dịch vụ phi tư vấn và gói thầu hỗn hợp:
+
+Căn cứ quy mô, tính chất của gói thầu và quy định tại các khoản 2, 4 và 5 Điều này để xác định tiêu chuẩn đánh giá về năng lực và kinh nghiệm; tiêu chuẩn đánh giá về kỹ thuật; xác định giá thấp nhất (đối với trường hợp áp dụng phương pháp giá thấp nhất) hoặc tiêu chuẩn xác định giá đánh giá (đối với trường hợp áp dụng phương pháp giá đánh giá) cho phù hợp.
+
+<a id="dieu-24-khoan-7"></a>
+**7.** Không sử dụng phương pháp kết hợp giữa kỹ thuật và giá đối với gói thầu áp dụng phương thức lựa chọn nhà thầu một giai đoạn một túi hồ sơ. Đối với gói thầu cần xem xét trên cơ sở chú trọng tới các yếu tố kỹ thuật và giá, chủ đầu tư có thể quy định mức điểm yêu cầu tối thiểu về kỹ thuật không thấp hơn 80% tổng số điểm tối đa về kỹ thuật.
+
+<a id="dieu-24-khoan-8"></a>
+**8.** Đối với gói thầu chia phần, hồ sơ mời thầu phải nêu rõ điều kiện chào thầu, biện pháp và giá trị bảo đảm dự thầu cho từng phần hoặc nhiều phần và phương pháp đánh giá đối với từng phần hoặc nhiều phần để các nhà thầu tính toán phương án chào thầu theo khả năng của mình.
+
+<a id="dieu-24-khoan-9"></a>
+**9.** Quy định về nhãn hiệu, xuất xứ của hàng hóa:
+
+a) Trừ trường hợp quy định tại điểm e khoản 3 Điều 10, khoản 2 Điều 44 và khoản 1 Điều 56 của Luật Đấu thầu, hồ sơ mời thầu không được nêu yêu cầu về nhãn hiệu, xuất xứ cụ thể của hàng hóa;
+
+b) Đối với nội dung quy định tại khoản 2 Điều 44 của Luật Đấu thầu, trường hợp hồ sơ mời thầu có quy định về xuất xứ theo nhóm nước, vùng lãnh thổ mà không bao gồm xuất xứ Việt Nam thì hàng hóa xuất xứ việt Nam vẫn được xem xét, đánh giá;
+
+c) Trường hợp không thể mô tả chi tiết hàng hóa theo đặc tính kỹ thuật, tính năng sử dụng, thiết kế công nghệ, tiêu chuẩn công nghệ thì được nêu nhãn hiệu, catalô của một sản phẩm cụ thể để tham khảo, minh họa cho yêu cầu về kỹ thuật của hàng hóa nhưng phải ghi kèm theo cụm từ “hoặc tương đương” sau nhãn hiệu, catalô đồng thời phải quy định rõ nội hàm tương đương với hàng hóa đó về đặc tính kỹ thuật, tính năng sử dụng, thiết kế công nghệ, tiêu chuẩn công nghệ và các nội dung khác (nếu có).
+
+<a id="dieu-24-khoan-10"></a>
+**10.** Quy định về sử dụng lao động:
+
+Đối với đấu thầu quốc tế, hồ sơ mời thầu phải quy định sử dụng lao động trong nước đối với những vị trí công việc mà lao động trong nước đáp ứng được và có khả năng cung cấp, đặc biệt là lao động phổ thông. Chỉ được sử dụng lao động nước ngoài khi lao động trong nước không đáp ứng yêu cầu. Hồ sơ dự thầu của nhà thầu không đáp ứng yêu cầu của hồ sơ mời thầu về sử dụng lao động thì bị loại.
+
+<a id="dieu-24-khoan-11"></a>
+**11.** Quy định về tùy chọn mua thêm (nếu có):
+
+Trường hợp kế hoạch lựa chọn nhà thầu có quy định về tùy chọn mua thêm thì hồ sơ mời thầu phải quy định khối lượng, số lượng hàng hóa, dịch vụ tối đa thuộc tùy chọn mua thêm phù hợp với kế hoạch lựa chọn nhà thầu được duyệt.
+
+<a id="dieu-24-khoan-12"></a>
+**12.** Hồ sơ mời thầu không được đưa ra yêu cầu về cung cấp giấy phép bán hàng, giấy ủy quyền bán hàng của nhà sản xuất hoặc của đại lý phân phối hoặc giấy chứng nhận quan hệ đối tác hoặc giấy cam kết hỗ trợ kỹ thuật, bảo hành của nhà sản xuất hoặc của đại lý phân phối hoặc tài liệu khác có giá trị tương đương (sau đây gọi là giấy phép bán hàng). Trường hợp hàng hóa của gói thầu là hàng hóa đặc thù, phức tạp cần gắn với trách nhiệm của nhà sản xuất trong việc cung cấp các dịch vụ sau bán hàng như bảo hành, bảo trì, sửa chữa, cung cấp phụ tùng, vật tư thay thế, dịch vụ hỗ trợ kỹ thuật và các dịch vụ liên quan khác, hồ sơ mời thầu có thể yêu cầu nhà thầu phải cung cấp giấy phép bán hàng nhưng việc yêu cầu về giấy phép bán hàng phải được người có thẩm quyền chấp thuận.
+
+Trường hợp nhà sản xuất hoặc văn phòng đại diện hoặc đại lý của nhà sản xuất thực hiện một hoặc các hành vi sau mà không có lý do chính đáng: không cung cấp giấy phép bán hàng; cung cấp giấy phép bán hàng sau đó rút giấy phép này; chỉ cung cấp giấy phép bán hàng cho một hoặc một số nhà thầu làm hạn chế cạnh tranh; thực hiện các hành vi hạn chế cạnh tranh khác thì nhà thầu, chủ đầu tư đăng tải thông tin trên Hệ thống mạng đấu thầu quốc gia, đồng thời gửi văn bản đến Bộ Kế hoạch và Đầu tư, Bộ Công Thương. Trong văn bản phải nêu cụ thể hành vi của nhà sản xuất, văn phòng đại diện, đại lý của nhà sản xuất cùng với tài liệu chứng minh. Nhà sản xuất hoặc văn phòng đại diện hoặc đại lý của nhà sản xuất bị nhà thầu, chủ đầu tư phản ánh được phản hồi thông qua Hệ thống mạng đấu thầu quốc gia, đồng thời gửi văn bản đến Bộ Kế hoạch và Đầu tư để tổng hợp, theo dõi.
+
 
 <a id="dieu-25"></a>
-### Điều 25. Tự thực hiện
+### Điều 25. Thẩm định và phê duyệt hồ sơ mời thầu
 
-Đơn vị được giao tự thực hiện phải có chức năng, nhiệm vụ, năng lực tài chính và nhân sự phù hợp với yêu cầu của gói thầu.
+<a id="dieu-25-khoan-1"></a>
+**1.** Hồ sơ mời thầu phải được thẩm định theo quy định tại Điều 129 của Nghị định này trước khi phê duyệt.
 
----
+<a id="dieu-25-khoan-2"></a>
+**2.** Việc phê duyệt hồ sơ mời thầu phải căn cứ vào tờ trình phê duyệt, báo cáo thẩm định hồ sơ mời thầu.
 
-### Chương VI
-
-__LỰA CHỌN NHÀ THẦU QUA MẠNG__
 
 <a id="dieu-26"></a>
-### Điều 26. Quy định chung về đấu thầu qua mạng
+### Điều 26. Tổ chức lựa chọn nhà thầu
 
 <a id="dieu-26-khoan-1"></a>
-1. Việc lựa chọn nhà thầu qua mạng phải thực hiện trên Hệ thống mạng đấu thầu quốc gia theo địa chỉ https://muasamcong.mpi.gov.vn.
+**1.** Mời thầu:
+
+a) Thông báo mời thầu được áp dụng đối với trường hợp không áp dụng thủ tục lựa chọn danh sách ngắn và được thực hiện theo quy định tại điểm b khoản 1 Điều 8 của Luật Đấu thầu;
+
+b) Trường hợp gói thầu áp dụng thủ tục lựa chọn danh sách ngắn, thư mời thầu được gửi đến các nhà thầu có tên trong danh sách ngắn.
 
 <a id="dieu-26-khoan-2"></a>
-2. Bên mời thầu tạo lập E-HSMT và phát hành trên Hệ thống. Nhà thầu nộp E-HSDT có chữ ký số hợp lệ trước thời điểm đóng thầu.
+**2.** Phát hành, sửa đổi, làm rõ hồ sơ mời thầu:
+
+a) Hồ sơ mời thầu được phát hành trên Hệ thống mạng đấu thầu quốc gia;
+
+b) Trường hợp sửa đổi hồ sơ mời thầu sau khi phát hành, bên mời thầu phải đăng tải quyết định sửa đổi kèm theo hồ sơ mời thầu sửa đổi và các nội dung sửa đổi hồ sơ mời thầu trên Hệ thống mạng đấu thầu quốc gia. Việc sửa đổi hồ sơ mời thầu phải đảm bảo đủ thời gian theo quy định tại điểm đ khoản 1 Điều 45 của Luật Đấu thầu. Trường hợp không bảo đảm đủ thời gian thì phải gia hạn thời điểm đóng thầu;
+
+c) Trường hợp cần làm rõ hồ sơ mời thầu, tổ chức, cá nhân gửi văn bản đề nghị trên Hệ thống mạng đấu thầu quốc gia trong thời hạn tối thiểu 03 ngày làm việc (đối với đấu thầu trong nước), 05 ngày làm việc (đối với đấu thầu quốc tế) trước ngày có thời điểm đóng thầu để xem xét, xử lý. Bên mời thầu đăng tải văn bản làm rõ hồ sơ mời thầu trên Hệ thống mạng đấu thầu quốc gia trong thời gian tối thiểu 02 ngày làm việc trước ngày có thời điểm đóng thầu. Trong văn bản làm rõ hồ sơ mời thầu không được nêu tên của nhà thầu có đề nghị làm rõ hồ sơ mời thầu. Trường hợp cần thiết, bên mời thầu tổ chức hội nghị tiền đấu thầu để trao đổi về nội dung hồ sơ mời thầu. Thông báo tổ chức hội nghị tiền đấu thầu được đăng tải trên Hệ thống mạng đấu thầu quốc gia; tất cả các nhà thầu quan tâm được tham dự hội nghị tiền đấu thầu mà không cần phải thông báo trước cho bên mời thầu. Bên mời thầu phải lập biên bản ghi nhận các nội dung trong hội nghị tiền đấu thầu và đăng tải trên Hệ thống mạng đấu thầu quốc gia. Biên bản hội nghị tiền đấu thầu được coi là văn bản làm rõ hồ sơ mời thầu.
+
+Nội dung làm rõ hồ sơ mời thầu không được trái với nội dung của hồ sơ mời thầu đã được phê duyệt. Trường hợp sau khi làm rõ hồ sơ mời thầu dẫn đến phải sửa đổi hồ sơ mời thầu thì việc sửa đổi hồ sơ mời thầu thực hiện theo quy định tại điểm b khoản này;
+
+d) Quyết định sửa đổi, văn bản làm rõ hồ sơ mời thầu là một phần của hồ sơ mời thầu.
+
+<a id="dieu-26-khoan-3"></a>
+**3.** Chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu:
+
+a) Nhà thầu chuẩn bị và nộp hồ sơ dự thầu theo yêu cầu của hồ sơ mời thầu.
+
+Bên mời thầu tiếp nhận và quản lý các hồ sơ dự thầu đã nộp theo chế độ quản lý hồ sơ mật cho đến khi công khai kết quả lựa chọn nhà thầu. Hồ sơ dự thầu hoặc bất kỳ tài liệu nào được nhà thầu gửi bên mời thầu sau thời điểm đóng thầu để sửa đổi, bổ sung hồ sơ dự thầu đã nộp đều không hợp lệ và không được xem xét, trừ tài liệu làm rõ hồ sơ dự thầu theo yêu cầu của bên mời thầu hoặc tài liệu làm rõ, bổ sung nhằm chứng minh tư cách hợp lệ, báo cáo tài chính, nghĩa vụ kê khai thuế và nộp thuế, tài liệu về nhân sự, thiết bị cụ thể đã đề xuất trong hồ sơ dự thầu, hợp đồng tương tự, năng lực sản xuất của nhà thầu;
+
+b) Chủ đầu tư, bên mời thầu, tổ chuyên gia không được tiết lộ thông tin trong hồ sơ dự thầu của nhà thầu này cho nhà thầu khác, trừ các thông tin được công khai khi mở thầu;
+
+c) Khi có yêu cầu sửa đổi hoặc rút hồ sơ dự thầu đã nộp, nhà thầu phải có văn bản đề nghị gửi bên mời thầu. Bên mời thầu chỉ chấp thuận việc sửa đổi hoặc rút hồ sơ dự thầu của nhà thầu nếu nhận được văn bản đề nghị trước thời điểm đóng thầu.
+
+<a id="dieu-26-khoan-4"></a>
+**4.** Mở thầu:
+
+a) Việc mở thầu phải được tiến hành công khai và bắt đầu ngay trong thời hạn 02 giờ kể từ thời điểm đóng thầu. Bên mời thầu chỉ mở các hồ sơ dự thầu nhận được trước thời điểm đóng thầu theo yêu cầu của hồ sơ mời thầu trước sự chứng kiến của đại diện các nhà thầu tham dự lễ mở thầu, không phụ thuộc vào sự có mặt hay vắng mặt của các nhà thầu. Việc mở thầu được thực hiện đối với từng hồ sơ dự thầu theo thứ tự chữ cái tên của nhà thầu và theo trình tự: kiểm tra niêm phong; mở hồ sơ và đọc rõ các thông tin về tên nhà thầu; tham dự độc lập hay liên danh; số lượng bản gốc, bản chụp hồ sơ; giá dự thầu ghi trong đơn dự thầu; giá trị giảm giá (nếu có); thời gian có hiệu lực của hồ sơ dự thầu; thời gian thực hiện gói thầu; giá trị, hiệu lực của bảo đảm dự thầu; các thông tin khác liên quan;
+
+b) Biên bản mở thầu: Các thông tin quy định tại điểm a khoản này phải được ghi vào biên bản mở thầu. Biên bản mở thầu phải được ký xác nhận bởi đại diện của bên mời thầu và các nhà thầu tham dự lễ mở thầu. Biên bản này phải được gửi cho các nhà thầu tham dự thầu; được đăng tải trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 24 giờ kể từ thời điểm mở thầu;
+
+c) Đại diện của bên mời thầu phải ký xác nhận vào bản gốc đơn dự thầu, thư giảm giá (nếu có), giấy ủy quyền của người đại diện theo pháp luật của nhà thầu (nếu có); thỏa thuận liên danh (nếu có); bảo đảm dự thầu; các nội dung đề xuất về tài chính và các nội dung quan trọng khác của từng hồ sơ dự thầu.
+
 
 <a id="dieu-27"></a>
-### Điều 27. Mở thầu tự động và đánh giá E-HSDT
+### Điều 27. Nguyên tắc đánh giá hồ sơ dự thầu
 
 <a id="dieu-27-khoan-1"></a>
-1. Hệ thống mạng đấu thầu quốc gia tự động mở thầu và công khai biên bản mở thầu trong thời hạn không quá 02 giờ kể từ thời điểm đóng thầu.
+**1.** Việc đánh giá hồ sơ dự thầu phải căn cứ vào tiêu chuẩn đánh giá hồ sơ dự thầu và các yêu cầu khác trong hồ sơ mời thầu, căn cứ vào hồ sơ dự thầu đã nộp, các tài liệu giải thích, làm rõ hồ sơ dự thầu của nhà thầu để bảo đảm lựa chọn được nhà thầu có đủ năng lực và kinh nghiệm, có giải pháp khả thi để thực hiện gói thầu; trường hợp hồ sơ mời thầu có các nội dung làm hạn chế cạnh tranh theo quy định tại khoản 2 Điều 24 của Nghị định này thì các nội dung này không phải căn cứ để xem xét đánh giá hồ sơ dự thầu.
 
 <a id="dieu-27-khoan-2"></a>
-2. Tổ chuyên gia tiến hành đánh giá E-HSDT trực tiếp trên Hệ thống theo tiêu chuẩn đánh giá quy định trong E-HSMT.
+**2.** Trường hợp nhân sự chủ chốt (trừ nhân sự chủ chốt thực hiện phần công việc tư vấn (E) trong gói thầu EPC, EP, EC, chìa khóa trao tay), thiết bị chủ yếu mà nhà thầu đề xuất trong hồ sơ dự thầu không đáp ứng yêu cầu hoặc không chứng minh được khả năng huy động nhân sự (bao gồm cả trường hợp nhân sự đã huy động cho hợp đồng khác có thời gian làm việc trùng với thời gian thực hiện gói thầu này) thì bên mời thầu cho phép nhà thầu bổ sung, thay thế. Nhà thầu chỉ được bổ sung, thay thế một lần đối với từng vị trí nhân sự chủ chốt, thiết bị chủ yếu trong một khoảng thời gian phù hợp. Trong mọi trường hợp, nếu nhà thầu kê khai nhân sự chủ chốt, thiết bị chủ yếu không trung thực thì không được thay thế nhân sự, thiết bị khác, hồ sơ dự thầu của nhà thầu bị loại và nhà thầu sẽ bị coi là gian lận theo quy định tại khoản 4 Điều 16 của Luật Đấu thầu và bị xử lý theo quy định tại điểm a khoản 1 Điều 125 của Nghị định này.
 
----
+<a id="dieu-27-khoan-3"></a>
+**3.** Trường hợp hợp đồng tương tự mà nhà thầu đề xuất trong hồ sơ dự thầu không đáp ứng yêu cầu, bên mời thầu yêu cầu nhà thầu bổ sung, thay thế hợp đồng tương tự khác để đánh giá trong một khoảng thời gian phù hợp.
 
-### Chương VII
+<a id="dieu-27-khoan-4"></a>
+**4.** Đối với gói thầu chia phần, việc đánh giá hồ sơ dự thầu và xét duyệt trúng thầu được thực hiện trên cơ sở bảo đảm tổng giá đề nghị trúng thầu của gói thầu là thấp nhất (đối với gói thầu áp dụng phương pháp giá thấp nhất); tổng giá đánh giá của gói thầu là thấp nhất (đối với gói thầu áp dụng phương pháp giá đánh giá) và giá đề nghị trúng thầu của cả gói thầu không vượt giá gói thầu được duyệt mà không so sánh với ước tính chi phí của từng phần; đối với gói thầu mua thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế, dịch vụ kỹ thuật theo hướng dẫn của Bộ Y tế (nếu có).
 
-__QUẢN LÝ VÀ THỰC HIỆN HỢP ĐỒNG__
+<a id="dieu-27-khoan-5"></a>
+**5.** Việc đánh giá hồ sơ dự thầu được thực hiện trên bản chụp, nhà thầu phải chịu trách nhiệm về tính thống nhất giữa bản gốc và bản chụp. Trường hợp có sự sai khác giữa bản gốc và bản chụp nhưng không làm thay đổi thứ tự xếp hạng nhà thầu thì căn cứ vào bản gốc để đánh giá. Trường hợp có sự sai khác giữa bản gốc và bản chụp dẫn đến kết quả đánh giá trên bản gốc khác kết quả đánh giá trên bản chụp, làm thay đổi thứ tự xếp hạng nhà thầu thì hồ sơ dự thầu của nhà thầu bị loại, nhà thầu bị coi là có hành vi gian lận và bị xử lý theo quy định tại điểm a khoản 1 Điều 125 của Nghị định này.
+
+<a id="dieu-27-khoan-6"></a>
+**6.** Sai khác, đặt điều kiện, bỏ sót nội dung trong hồ sơ dự thầu:
+
+a) Sai khác là các khác biệt so với yêu cầu nêu trong hồ sơ mời thầu; đặt điều kiện là việc đặt ra các điều kiện có tính hạn chế hoặc thể hiện sự không chấp nhận hoàn toàn đối với các yêu cầu nêu trong hồ sơ mời thầu; bỏ sót nội dung là việc nhà thầu không cung cấp được một phần hoặc toàn bộ thông tin hay tài liệu theo yêu cầu nêu trong hồ sơ mời thầu;
+
+b) Với điều kiện hồ sơ dự thầu đáp ứng cơ bản yêu cầu nêu trong hồ sơ mời thầu thì bên mời thầu, tổ chuyên gia có thể chấp nhận các sai sót mà không phải là những sai khác, đặt điều kiện hay bỏ sót nội dung cơ bản trong hồ sơ dự thầu;
+
+c) Với điều kiện hồ sơ dự thầu đáp ứng cơ bản yêu cầu nêu trong hồ sơ mời thầu, bên mời thầu, tổ chuyên gia có thể yêu cầu nhà thầu cung cấp các thông tin hoặc tài liệu cần thiết trong thời hạn hợp lý để sửa chữa những điểm chưa phù hợp hoặc sai sót không nghiêm trọng trong hồ sơ dự thầu liên quan đến các yêu cầu về tài liệu. Yêu cầu cung cấp các thông tin và các tài liệu để khắc phục các sai sót này không được liên quan đến bất kỳ yếu tố nào của giá dự thầu. Hồ sơ dự thầu của nhà thầu bị loại nếu không đáp ứng yêu cầu này của bên mời thầu;
+
+d) Với điều kiện hồ sơ dự thầu đáp ứng cơ bản yêu cầu nêu trong hồ sơ mời thầu, bên mời thầu, tổ chuyên gia điều chỉnh các sai sót không nghiêm trọng và có thể định lượng được liên quan đến giá dự thầu; giá dự thầu sẽ được điều chỉnh để phản ánh chi phí cho các hạng mục bị thiếu hoặc chưa đáp ứng yêu cầu; việc điều chỉnh này chỉ nhằm mục đích so sánh các hồ sơ dự thầu.
+
+<a id="dieu-27-khoan-7"></a>
+**7.** Trường hợp nhà thầu không đáp ứng một trong các tiêu chí đánh giá về tư cách hợp lệ, năng lực, kinh nghiệm, kỹ thuật, tài chính hoặc hồ sơ dự thầu có nội dung sai khác, đặt điều kiện hay bỏ sót nội dung cơ bản dẫn đến hồ sơ dự thầu bị loại thì không phải tiếp tục đánh giá các tiêu chí khác.
+
+<a id="dieu-27-khoan-8"></a>
+**8.** Chủ đầu tư, bên mời thầu không được chấp thuận cho nhà thầu sử dụng nhà thầu phụ mà nhà thầu phụ này có tham gia thực hiện cung cấp dịch vụ tư vấn cho gói thầu mà nhà thầu đã trúng thầu và các công việc tư vấn này bao gồm: lập, thẩm tra thiết kế kỹ thuật, thiết kế bản vẽ thi công, dự toán, thiết kế FEED; thẩm định giá; giám sát thực hiện hợp đồng, kiểm định; lập, thẩm định hồ sơ mời sơ tuyển, hồ sơ mời thầu; đánh giá hồ sơ dự sơ tuyển, hồ sơ dự thầu; thẩm định kết quả sơ tuyển, kết quả lựa chọn nhà thầu; tư vấn quản lý dự án, quản lý hợp đồng, tư vấn khác mà các dịch vụ tư vấn này có phần công việc liên quan trực tiếp tới gói thầu.
+
 
 <a id="dieu-28"></a>
-### Điều 28. Quản lý thực hiện hợp đồng
+### Điều 28. Làm rõ hồ sơ dự thầu
 
 <a id="dieu-28-khoan-1"></a>
-1. Chủ đầu tư có trách nhiệm theo dõi, giám sát chất lượng, tiến độ thi công, khối lượng hoàn thành và kiểm tra việc thực hiện nghĩa vụ bảo hành công trình của nhà thầu.
+**1.** Sau khi mở thầu, nhà thầu có trách nhiệm làm rõ hồ sơ dự thầu theo yêu cầu của bên mời thầu. Trường hợp hồ sơ dự thầu của nhà thầu thiếu tài liệu về tư cách hợp lệ, hợp đồng tương tự, năng lực sản xuất, báo cáo tài chính, nghĩa vụ kê khai thuế và nộp thuế, nhân sự, thiết bị thì bên mời thầu yêu cầu nhà thầu làm rõ, bổ sung tài liệu để chứng minh tư cách hợp lệ, năng lực và kinh nghiệm.
 
 <a id="dieu-28-khoan-2"></a>
-2. Tạm ứng, thanh toán và quyết toán hợp đồng xây dựng phải tuân thủ đúng tiến độ và khối lượng nghiệm thu quy định trong hợp đồng.
+**2.** Trường hợp sau khi đóng thầu, nhà thầu phát hiện hồ sơ dự thầu thiếu các tài liệu chứng minh về tư cách hợp lệ, hợp đồng tương tự, năng lực sản xuất, báo cáo tài chính, nghĩa vụ kê khai thuế và nộp thuế, tài liệu về nhân sự, thiết bị cụ thể đã đề xuất trong hồ sơ dự thầu thì được gửi tài liệu đến bên mời thầu để làm rõ về tư cách hợp lệ, năng lực và kinh nghiệm của mình. Bên mời thầu có trách nhiệm tiếp nhận những tài liệu làm rõ của nhà thầu để xem xét, đánh giá; các tài liệu bổ sung, làm rõ là một phần của hồ sơ dự thầu.
+
+<a id="dieu-28-khoan-3"></a>
+**3.** Đối với nội dung về tư cách hợp lệ, việc làm rõ phải bảo đảm nguyên tắc không làm thay đổi bản chất của nhà thầu tham dự thầu. Đối với các nội dung về tính hợp lệ của hồ sơ dự thầu (trừ nội dung về tư cách hợp lệ), đề xuất về kỹ thuật, tài chính, việc làm rõ phải bảo đảm nguyên tắc không làm thay đổi nội dung cơ bản của hồ sơ dự thầu đã nộp, không thay đổi giá dự thầu.
+
+<a id="dieu-28-khoan-4"></a>
+**4.** Việc làm rõ hồ sơ dự thầu được thực hiện giữa bên mời thầu và nhà thầu có hồ sơ dự thầu cần làm rõ. Nội dung làm rõ hồ sơ dự thầu phải thể hiện bằng văn bản và được bên mời thầu bảo quản như một phần của hồ sơ dự thầu.
+
+<a id="dieu-28-khoan-5"></a>
+**5.** Trường hợp có nghi ngờ về tính xác thực của các tài liệu do nhà thầu cung cấp, bên mời thầu được xác minh với các tổ chức, cá nhân có liên quan đến nội dung của tài liệu.
+
 
 <a id="dieu-29"></a>
-### Điều 29. Điều chỉnh hợp đồng trong hoạt động đấu thầu
+### Điều 29. Sửa lỗi và hiệu chỉnh sai lệch
 
 <a id="dieu-29-khoan-1"></a>
-1. Việc điều chỉnh giá hợp đồng, khối lượng công việc, tiến độ thực hiện chỉ được áp dụng trong các trường hợp thỏa thuận trong hợp đồng và không làm vượt tổng mức đầu tư dự án đã duyệt.
+**1.** Sửa lỗi là việc sửa lại những sai sót trong hồ sơ dự thầu bao gồm lỗi số học và các lỗi khác được tiến hành theo nguyên tắc sau đây:
+
+a) Lỗi số học bao gồm nhưng lỗi do thực hiện các phép tính cộng, trừ, nhân, chia không chính xác khi tính toán giá dự thầu. Đối với hợp đồng theo đơn giá cố định, hợp đồng theo đơn giá điều chỉnh, hợp đồng theo thời gian, hợp đồng theo chi phí cộng phí, hợp đồng theo kết quả đầu ra, hợp đồng theo tỷ lệ phần trăm, trường hợp có sự không nhất quán giữa đơn giá và thành tiền thì lấy đơn giá làm cơ sở cho việc sửa lỗi; nếu phát hiện đơn giá có sự sai khác bất thường do lỗi hệ thập phân (10 lần, 100 lần, 1.000 lần) thì thành tiền là cơ sở cho việc sửa lỗi;
+
+b) Trường hợp tổng giá trị của các hạng mục không chính xác do lỗi khi cộng trừ giá trị của các hạng mục thì giá trị của các hạng mục là cơ sở để sửa lỗi;
+
+c) Trường hợp không nhất quán giữa giá dự thầu ghi bằng số và giá dự thầu ghi bằng chữ thì giá dự thầu ghi bằng chữ là cơ sở để sửa lỗi, trừ trường hợp giá ghi bằng chữ không có nghĩa; trường hợp giá dự thầu ghi bằng chữ có sai sót về lỗi số học thì giá ghi bằng số là cơ sở cho việc sửa lỗi sau khi được chuẩn xác (nếu có) theo điểm a và điểm b khoản này;
+
+d) Tại cột thành tiền đã được điền đầy đủ giá trị nhưng không có đơn giá tương ứng thì đơn giá được xác định bằng cách chia thành tiền cho số lượng; khi có đơn giá nhưng cột thành tiền bỏ trống thì giá trị cột thành tiền sẽ được xác định bằng cách nhân số lượng với đơn giá; nếu một nội dung nào đó có điền đơn giá và giá trị tại cột thành tiền nhưng bỏ trống số lượng thì số lượng bỏ trống được xác định bằng cách chia giá trị tại cột thành tiền cho đơn giá của nội dung đó. Trường hợp số lượng được xác định theo nguyên tắc này khác với số lượng nêu trong hồ sơ mời thầu thì giá trị sai khác đó là sai lệch về phạm vi cung cấp và được hiệu chỉnh theo quy định tại khoản 2 Điều này, trừ gói thầu xây lắp áp dụng hợp đồng trọn gói;
+
+đ) Lỗi nhầm đơn vị tính: Sửa lại cho phù hợp với yêu cầu của hồ sơ mời thầu.
 
 <a id="dieu-29-khoan-2"></a>
-2. Mọi nội dung điều chỉnh hợp đồng phải được lập thành phụ lục hợp đồng ký kết giữa các bên.
+**2.** Hiệu chỉnh sai lệch về phạm vi cung cấp:
+
+a) Sai lệch về phạm vi cung cấp đối với gói thầu xây lắp:
+
+Đối với gói thầu xây lắp không áp dụng loại hợp đồng trọn gói, nhà thầu phải ghi đơn giá dự thầu, thành tiền cho tất cả các công việc nêu trong bảng giá dự thầu. Trường hợp nhà thầu liệt kê hạng mục công việc như yêu cầu trong hồ sơ mời thầu nhưng không ghi đơn giá dự thầu và thành tiền cho một hoặc một số hạng mục công việc thì hạng mục công việc này không được coi là chào thiếu, đơn giá phần công việc này được coi là đã phân bổ vào đơn giá của các công việc khác trong bảng giá dự thầu và sẽ không được chủ đầu tư thanh toán riêng.
+
+Hạng mục công việc nêu trong hồ sơ mời thầu không được liệt kê trong bảng giá dự thầu của nhà thầu được coi là phần chào thiếu trong hồ sơ dự thầu và được hiệu chỉnh sai lệch theo quy định tại điểm c khoản này để so sánh, xếp hạng các hồ sơ dự thầu. Hạng mục công việc nêu trong hồ sơ mời thầu được liệt kê trong bảng giá dự thầu của nhà thầu và có đơn giá dự thầu nhưng khối lượng ít hơn hoặc nhiều hơn so với yêu cầu của hồ sơ mời thầu được coi là phần chào thiếu hoặc chào thừa và được hiệu chỉnh sai lệch theo quy định tại điểm c khoản này.
+
+Hạng mục công việc được liệt kê trong bảng giá dự thầu của nhà thầu không thuộc phạm vi công việc nêu trong hồ sơ mời thầu được coi là phần chào thừa và được hiệu chỉnh sai lệch theo quy định tại điểm c khoản này.
+
+Đối với gói thầu xây lắp áp dụng loại hợp đồng trọn gói, giá dự thầu của nhà thầu được coi là đã bao gồm toàn bộ các chi phí cần thiết để thực hiện gói thầu theo đúng thiết kế, yêu cầu kỹ thuật nêu trong hồ sơ mời thầu và không tiến hành hiệu chỉnh trong trường hợp phạm vi công việc mà nhà thầu đề xuất trong hồ sơ dự thầu khác so với yêu cầu nêu trong hồ sơ mời thầu, trừ trường hợp công việc được đề xuất khác đó ngoài phạm vi yêu cầu trong hồ sơ mời thầu (ngoài khối lượng để hoàn thành theo thiết kế). Trong trường hợp này, phần công việc ngoài phạm vi yêu cầu trong hồ sơ mời thầu sẽ được coi là chào thừa và được hiệu chỉnh theo quy định tại điểm c khoản này;
+
+b) Sai lệch về phạm vi cung cấp đối với gói thầu mua sắm hàng hóa, phi tư vấn:
+
+Trường hợp nhà thầu liệt kê hạng mục công việc theo yêu cầu trong hồ sơ mời thầu nhưng không ghi đơn giá dự thầu và thành tiền cho một hoặc một số hạng mục công việc thi được coi là sai lệch thiếu và được hiệu chỉnh sai lệch theo quy định tại điểm c khoản này để so sánh, xếp hạng hồ sơ dự thầu.
+
+Trường hợp hạng mục công việc nêu trong hồ sơ mời thầu không được liệt kê trong bảng giá dự thầu của nhà thầu thi được coi là phần chào thiếu trong hồ sơ dự thầu và được hiệu chỉnh sai lệch theo quy định tại điểm c khoản này để so sánh, xếp hạng các hồ sơ dự thầu. Hạng mục công việc nêu trong hồ sơ mời thầu được liệt kê trong bảng giá dự thầu của nhà thầu nhưng khối lượng ít hơn hoặc nhiều hơn so với yêu cầu của hồ sơ mời thầu được coi là phần chào thiếu hoặc chào thừa và được hiệu chỉnh sai lệch theo quy định tại điểm c khoản này.
+
+Hạng mục công việc được liệt kê trong bảng giá dự thầu của nhà thầu không thuộc phạm vi công việc nêu trong hồ sơ mời thầu được coi là phần chào thừa và được hiệu chỉnh sai lệch theo quy định tại điểm c khoản này;
+
+c) Hiệu chỉnh sai lệch thừa, thiếu về phạm vi cung cấp:
+
+Trường hợp hồ sơ dự thầu của nhà thầu chào thiếu một hoặc một số hạng mục theo quy định tại điểm a và điểm b khoản này và không có đơn giá của các hạng mục này thì lấy mức đơn giá chào cao nhất đối với hạng mục này trong số các hồ sơ dự thầu khác vượt qua bước đánh giá về kỹ thuật để làm cơ sở hiệu chỉnh sai lệch; trường hợp trong hồ sơ dự thầu của các nhà thầu vượt qua bước đánh giá về kỹ thuật không có đơn giá thì lấy đơn giá trong dự toán gói thầu làm cơ sở hiệu chỉnh sai lệch; trường hợp không có dự toán gói thầu thì căn cứ vào đơn giá hình thành giá gói thầu để hiệu chỉnh sai lệch, làm cơ sở so sánh, xếp hạng nhà thầu. Việc hiệu chỉnh sai lệch thiếu chỉ nhằm mục đích so sánh, xếp hạng hồ sơ dự thầu.
+
+Trường hợp hồ sơ dự thầu của nhà thầu chào thiếu khối lượng so với yêu cầu trong hồ sơ mời thầu thì giá trị của phần công việc chào thiếu được cộng thêm theo đơn giá tương ứng trong hồ sơ dự thầu.
+
+Trường hợp hồ sơ dự thầu của nhà thầu chào thừa khối lượng so với yêu cầu trong hồ sơ mời thầu thì giá trị của phần công việc chào thừa sẽ bị trừ đi theo đơn giá tương ứng trong hồ sơ dự thầu.
+
+<a id="dieu-29-khoan-3"></a>
+**3.** Trường hợp nhà thầu có thư giảm giá, việc sửa lỗi và hiệu chỉnh sai lệch được thực hiện trên cơ sở giá dự thầu chưa trừ đi giá trị giảm giá. Tỷ lệ phần trăm (%) của sai lệch thiếu được xác định trên cơ sở so với giá dự thầu ghi trong đơn dự thầu.
+
+<a id="dieu-29-khoan-4"></a>
+**4.** Áp đơn giá đối với phần sai lệch thiếu đối với nhà thầu xếp hạng thứ nhất:
+
+Trường hợp hồ sơ dự thầu của nhà thầu có sai lệch thiếu sau khi hiệu chỉnh sai lệch theo quy định tại điểm c khoản 2 Điều này vẫn được xếp hạng thứ nhất và hồ sơ dự thầu của nhà thầu này không có đơn giá của phần sai lệch thiếu thì đơn giá đề nghị trúng thầu của phần sai lệch thiếu sẽ lấy theo thứ tự ưu tiên: đơn giá tương ứng có giá trị thấp nhất trong các hồ sơ dự thầu vượt qua bước đánh giá về kỹ thuật, đơn giá trong dự toán gói thầu, đơn giá hình thành giá gói thầu (trong trường hợp không có dự toán gói thầu).
+
+<a id="dieu-29-khoan-5"></a>
+**5.** Sau khi sửa lỗi, hiệu chỉnh sai lệch và áp đơn giá đối với phần sai lệch thiếu theo quy định tại các khoản 1,2,3 và 4 Điều này, bên mời thầu phải thông báo bằng văn bản cho nhà thầu về việc sửa lỗi, hiệu chỉnh sai lệch, áp đơn giá đối với hồ sơ dự thầu của nhà thầu. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông báo của bên mời thầu, nhà thầu phải có văn bản thông báo cho bên mời thầu về việc chấp thuận kết quả sửa lỗi, hiệu chỉnh sai lệch, áp đơn giá theo thông báo của bên mời thầu. Trường hợp nhà thầu không đồng ý với kết quả sửa lỗi, hiệu chỉnh sai lệch, áp đơn giá theo thông báo của bên mời thầu thì hồ sơ dự thầu của nhà thầu đó bị loại, trừ trường hợp việc sửa lỗi, hiệu chỉnh sai lệch, áp đơn giá của bên mời thầu không phù hợp, chính xác.
+
 
 <a id="dieu-30"></a>
-### Điều 30. Quyết toán và thanh lý hợp đồng
+### Điều 30. Kiểm tra và đánh giá hồ sơ dự thầu
 
-Trong thời hạn không quá 30 ngày kể từ ngày các bên hoàn thành toàn bộ nghĩa vụ theo hợp đồng, chủ đầu tư và nhà thầu tiến hành quyết toán và ký biên bản thanh lý hợp đồng.
+<a id="dieu-30-khoan-1"></a>
+**1.** Kiểm tra tính hợp lệ của hồ sơ dự thầu:
 
----
+a) Kiểm tra các thành phần của hồ sơ dự thầu bao gồm: đơn dự thầu; thỏa thuận liên danh (nếu có); giấy ủy quyền của người đại diện theo pháp luật của nhà thầu (nếu có); bảo đảm dự thầu; số lượng bản gốc, bản chụp hồ sơ dự thầu;
 
-### Chương VIII
+b) Kiểm tra sự thống nhất về nội dung giữa bản gốc và bản chụp để phục vụ quá trình đánh giá chi tiết hồ sơ dự thầu.
 
-__XỬ LÝ VI PHẠM VÀ GIẢI QUYẾT KIẾN NGHỊ__
+<a id="dieu-30-khoan-2"></a>
+**2.** Đánh giá tính hợp lệ của hồ sơ dự thầu:
+
+a) Hồ sơ dự thầu của nhà thầu được đánh giá là hợp lệ khi đáp ứng đầy đủ các quy định tại khoản 3 Điều 24 của Nghị định này;
+
+b) Nhà thầu có hồ sơ dự thầu hợp lệ được xem xét, đánh giá về năng lực và kinh nghiệm.
+
+<a id="dieu-30-khoan-3"></a>
+**3.** Đánh giá về năng lực và kinh nghiệm:
+
+a) Việc đánh giá về năng lực và kinh nghiệm thực hiện theo tiêu chuẩn đánh giá quy định trong hồ sơ mời thầu;
+
+b) Nhà thầu có năng lực và kinh nghiệm đáp ứng yêu cầu được xem xét, đánh giá về kỹ thuật.
+
+Đối với gói thầu mua sắm hàng hóa, nhà thầu là cá nhân, nhóm cá nhân chào thầu sản phẩm đổi mới sáng tạo của mình đáp ứng quy định tại khoản 4 Điều 5 của Nghị định này thì không phải đáp ứng một số tiêu chí quy định tại khoản 3 Điều 9 của Nghị định này.
+
+<a id="dieu-30-khoan-4"></a>
+**4.** Đánh giá về kỹ thuật và tài chính:
+
+a) Việc đánh giá về kỹ thuật thực hiện theo tiêu chuẩn và phương pháp đánh giá quy định trong hồ sơ mời thầu;
+
+b) Nhà thầu đáp ứng yêu cầu về kỹ thuật được xem xét đánh giá về tài chính theo phương pháp giá thấp nhất hoặc giá đánh giá. Nhà thầu có giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch (nếu có) trừ đi giá trị giảm giá (nếu có) thấp nhất (đối với phương pháp giá thấp nhất) hoặc có giá đánh giá thấp nhất (đối với phương pháp giá đánh giá) được xếp hạng thứ nhất. Thư giảm giá không được công khai trong biên bản mở thầu sẽ không được xem xét, đánh giá.
+
+Trường hợp chỉ có một nhà thầu đạt yêu cầu về kỹ thuật thì không phải xác định danh sách xếp hạng nhà thầu. Chủ đầu tư không phải phê duyệt danh sách xếp hạng nhà thầu.
+
+<a id="dieu-30-khoan-5"></a>
+**5.** Tổ chuyên gia lập báo cáo kết quả đánh giá hồ sơ dự thầu gửi bên mời thầu xem xét, trình chủ đầu tư phê duyệt kết quả lựa chọn nhà thầu theo quy định tại Điều 31 của Nghị định này. Báo cáo kết quả đánh giá hồ sơ dự thầu phải nêu rõ các nội dung sau đây:
+
+a) Kết quả đánh giá đối với từng hồ sơ dự thầu;
+
+b) Danh sách nhà thầu được xem xét, xếp hạng và thứ tự xếp hạng nhà thầu;
+
+c) Danh sách nhà thầu không đáp ứng yêu cầu và bị loại; lý do loại nhà thầu;
+
+d) Tên nhà thầu được đề nghị trúng thầu, giá đề nghị trúng thầu, loại hợp đồng, thời gian thực hiện gói thầu và thời gian thực hiện hợp đồng;
+
+đ) Nhận xét về tính cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế trong quá trình tổ chức lựa chọn nhà thầu. Trường hợp chưa bảo đảm cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế, phải nêu rõ lý do và đề xuất biện pháp xử lý;
+
+e) Những nội dung của hồ sơ mời thầu không phù hợp với quy định của pháp luật về đấu thầu hoặc nội dung có thể dẫn đến cách hiểu không rõ hoặc khác nhau trong quá trình thực hiện hoặc có thể làm sai lệch kết quả lựa chọn nhà thầu (nếu có); đề xuất biện pháp xử lý;
+
+g) Những nội dung cần lưu ý (nếu có).
+
+<a id="dieu-30-khoan-6"></a>
+**6.** Trên cơ sở báo cáo kết quả đánh giá hồ sơ dự thầu, bên mời thầu lập tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu gửi chủ đầu tư phê duyệt theo quy định tại Điều 31 của Nghị định này. Tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu bao gồm các nội dung quy định tại khoản 5 Điều này.
+
 
 <a id="dieu-31"></a>
-### Điều 31. Giải quyết kiến nghị trong đấu thầu
+### Điều 31. Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu
 
 <a id="dieu-31-khoan-1"></a>
-1. Nhà thầu có quyền gửi đơn kiến nghị đến Chủ đầu tư, Bên mời thầu hoặc Người có thẩm quyền trong thời hạn 10 ngày kể từ ngày có thông báo kết quả lựa chọn nhà thầu.
+**1.** Trên cơ sở báo cáo kết quả đánh giá hồ sơ dự thầu, bên mời thầu trình kết quả lựa chọn nhà thầu gồm các nội dung quy định tại khoản 5 Điều 30 của Nghị định này, trong đó nêu rõ ý kiến của bên mời thầu về các nội dung đánh giá của tổ chuyên gia.
 
 <a id="dieu-31-khoan-2"></a>
-2. Người có thẩm quyền thành lập Hội đồng tư vấn giải quyết kiến nghị để xem xét và ban hành quyết định giải quyết kiến nghị.
+**2.** Kết quả lựa chọn nhà thầu được thẩm định theo quy định tại khoản 1 và khoản 4 Điều 130 của Nghị định này trước khi phê duyệt.
+
+<a id="dieu-31-khoan-3"></a>
+**3.** Kết quả lựa chọn nhà thầu được phê duyệt bằng văn bản và căn cứ vào tờ trình phê duyệt, báo cáo thẩm định kết quả lựa chọn nhà thầu.
+
+<a id="dieu-31-khoan-4"></a>
+**4.** Trường hợp lựa chọn được nhà thầu trúng thầu, văn bản phê duyệt kết quả lựa chọn nhà thầu bao gồm các nội dung sau đây:
+
+a) Tên nhà thầu trúng thầu;
+
+b) Giá trúng thầu;
+
+c) Loại hợp đồng;
+
+d) Thời gian thực hiện gói thầu theo quy định tại khoản 7 Điều 39 của Luật Đấu thầu và thời gian thực hiện hợp đồng theo quy định pháp luật về dân sự;
+
+đ) Các nội dung cần lưu ý (nếu có).
+
+<a id="dieu-31-khoan-5"></a>
+**5.** Trường hợp hủy thầu theo quy định tại khoản 1 Điều 17 của Luật Đấu thầu, văn bản phê duyệt kết quả lựa chọn nhà thầu hoặc văn bản quyết định hủy thầu phải nêu rõ lý do hủy thầu và trách nhiệm của các bên liên quan khi hủy thầu. Quyết định hủy thầu phải được đăng tải trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 05 ngày làm việc kể từ ngày ký quyết định.
+
+<a id="dieu-31-khoan-6"></a>
+**6.** Sau khi có quyết định phê duyệt kết quả lựa chọn nhà thầu, chủ đầu tư đăng tải thông tin về kết quả lựa chọn nhà thầu theo quy định tại điểm a khoản 1 và khoản 4 Điều 8 của Luật Đấu thầu; gửi văn bản thông báo kết quả lựa chọn nhà thầu cho các nhà thầu tham dự thầu trong thời hạn 05 ngày làm việc kể từ ngày kết quả lựa chọn nhà thầu được phê duyệt. Nội dung thông báo kết quả lựa chọn nhà thầu bao gồm:
+
+a) Nội dung quy định tại các điểm a, b, c và d khoản 4 Điều này;
+
+b) Danh sách nhà thầu không được lựa chọn và tóm tắt về lý do không được lựa chọn của từng nhà thầu;
+
+c) Kế hoạch hoàn thiện, ký kết hợp đồng với nhà thầu được lựa chọn:
+
+Trường hợp có yêu cầu giải thích về lý do cụ thể nhà thầu không trúng thầu, nhà thầu gửi đề nghị tới chủ đầu tư hoặc gặp trực tiếp chủ đầu tư. Chủ đầu tư có trách nhiệm trả lời yêu cầu của nhà thầu trong thời hạn 02 ngày làm việc kể từ ngày nhận được yêu cầu của nhà thầu.
+
+Trường hợp nhà thầu có kiến nghị đến chủ đầu tư, người có thẩm quyền về các vấn đề trước khi có thông báo kết quả lựa chọn nhà thầu hoặc về kết quả lựa chọn nhà thầu thì chủ đầu tư có trách nhiệm đăng tải văn bản giải quyết kiến nghị của chủ đầu tư, người có thẩm quyền trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 05 ngày làm việc kể từ ngày ban hành văn bản giải quyết kiến nghị.
+
 
 <a id="dieu-32"></a>
-### Điều 32. Xử lý vi phạm và cấm tham gia hoạt động đấu thầu
+### Điều 32. Hoàn thiện, ký kết hợp đồng
 
 <a id="dieu-32-khoan-1"></a>
-1. Căn cứ tính chất, mức độ vi phạm, người có thẩm quyền ban hành quyết định cấm tham gia hoạt động đấu thầu từ 01 năm đến 05 năm đối với tổ chức, cá nhân có hành vi gian lận, thông thầu, chuyển nhượng thầu trái phép.
+**1.** Chủ đầu tư, bên mời thầu mời nhà thầu trúng thầu đến hoàn thiện hợp đồng. Trong quá trình hoàn thiện hợp đồng, các bên tiến hành hoàn thiện dự thảo văn bản hợp đồng; điều kiện cụ thể của hợp đồng, phụ lục hợp đồng gồm danh mục chi tiết về phạm vi công việc, biểu giá, tiến độ thực hiện (nếu có). Việc hoàn thiện hợp đồng được thực hiện trên cơ sở:
+
+a) Mẫu hợp đồng đã điền đủ các thông tin cụ thể của gói thầu;
+
+b) Kết quả lựa chọn nhà thầu được duyệt;
+
+c) Các yêu cầu nêu trong hồ sơ mời thầu;
+
+d) Các nội dung nêu trong hồ sơ dự thầu và giải thích làm rõ hồ sơ dự thầu của nhà thầu trúng thầu (nếu có);
+
+đ) Các nội dung cần được hoàn thiện trong hợp đồng.
 
 <a id="dieu-32-khoan-2"></a>
-2. Quyết định cấm tham gia hoạt động đấu thầu phải được gửi đến Bộ Kế hoạch và Đầu tư để công khai trên Hệ thống mạng đấu thầu quốc gia.
+**2.** Kết quả hoàn thiện hợp đồng là cơ sở để chủ đầu tư và nhà thầu tiến hành ký kết hợp đồng. Trường hợp nhà thầu tự nguyện giảm giá thì giá hợp đồng là giá trị sau giảm giá.
 
----
+<a id="dieu-32-khoan-3"></a>
+**3.** Trường hợp nhà thầu trúng thầu không đến hoàn thiện hoặc từ chối hoàn thiện hợp đồng hoặc không ký hợp đồng thì không được hoàn trả giá trị bảo đảm dự thầu.
 
-### Chương IX
+
+<a id="dieu-33"></a>
+### Điều 33. Quản lý thực hiện hợp đồng
+
+<a id="dieu-33-khoan-1"></a>
+**1.** Quản lý thực hiện hợp đồng bao gồm các nội dung: tiến độ thực hiện, chất lượng, chi phí và các nội dung khác của hợp đồng. Chủ đầu tư có trách nhiệm quản lý việc thực hiện hợp đồng.
+
+<a id="dieu-33-khoan-2"></a>
+**2.** Chủ đầu tư phải cập nhật tiến độ thực tế thực hiện hợp đồng khi thực hiện xong các mốc hoàn thành quy định trong hợp đồng trên Hệ thống mạng đấu thầu quốc gia.
+
+<a id="dieu-33-khoan-3"></a>
+**3.** Chủ đầu tư có trách nhiệm công khai về kết quả thực hiện hợp đồng của nhà thầu trên Hệ thống mạng đấu thầu quốc gia theo quy định tại khoản 3 và khoản 4 Điều 18 của Nghị định này. Đối với gói thầu có nội dung cung cấp hàng hóa, chủ đầu tư còn phải công khai trên Hệ thống mạng đấu thầu quốc gia về chất lượng hàng hóa do nhà thầu cung cấp theo quy định tại các khoản 5, 6 và 7 Điều 18 của Nghị định này.
+
+### Mục 2. PHƯƠNG THỨC MỘT GIAI ĐOẠN HAI TÚI HỒ SƠ
+
+
+<a id="dieu-34"></a>
+### Điều 34. Quy trình chi tiết
+
+<a id="dieu-34-khoan-1"></a>
+**1.** Chuẩn bị lựa chọn nhà thầu, bao gồm:
+
+a) Lựa chọn danh sách ngắn (nếu cần thiết);
+
+b) Lập hồ sơ mời thầu;
+
+c) Thẩm định và phê duyệt hồ sơ mời thầu.
+
+<a id="dieu-34-khoan-2"></a>
+**2.** Tổ chức lựa chọn nhà thầu, bao gồm:
+
+a) Mời thầu;
+
+b) Phát hành, sửa đổi, làm rõ hồ sơ mời thầu;
+
+c) Chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu;
+
+d) Mở hồ sơ đề xuất về kỹ thuật.
+
+<a id="dieu-34-khoan-3"></a>
+**3.** Đánh giá hồ sơ đề xuất về kỹ thuật, bao gồm:
+
+a) Kiểm tra, đánh giá tính hợp lệ của hồ sơ đề xuất về kỹ thuật;
+
+b) Đánh giá chi tiết hồ sơ đề xuất về kỹ thuật;
+
+c) Trình, thẩm định, phê duyệt danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật.
+
+<a id="dieu-34-khoan-4"></a>
+**4.** Mở và đánh giá hồ sơ đề xuất về tài chính, bao gồm:
+
+a) Mở hồ sơ đề xuất về tài chính của các nhà thầu đáp ứng yêu cầu về kỹ thuật;
+
+b) Kiểm tra, đánh giá tính hợp lệ của hồ sơ đề xuất về tài chính;
+
+c) Đánh giá chi tiết hồ sơ đề xuất về tài chính và xếp hạng nhà thầu (nếu có nhiều hơn 01 nhà thầu).
+
+<a id="dieu-34-khoan-5"></a>
+**5.** Thương thảo hợp đồng (nếu có).
+
+<a id="dieu-34-khoan-6"></a>
+**6.** Trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu và giải thích lý do nhà thầu không trúng thầu theo yêu cầu của nhà thầu (nếu có).
+
+<a id="dieu-34-khoan-7"></a>
+**7.** Hoàn thiện, ký kết và quản lý thực hiện hợp đồng.
+
+Đối với gói thầu mua sắm hàng hóa, ngoài nhà thầu là tổ chức, nhà thầu là cá nhân, nhóm cá nhân chào thầu sản phẩm đổi mới sáng tạo của mình đáp ứng quy định tại khoản 4 Điều 5 của Nghị định này được tham dự thầu.
+
+
+<a id="dieu-35"></a>
+### Điều 35. Lập hồ sơ mời thầu
+
+<a id="dieu-35-khoan-1"></a>
+**1.** Trường hợp gói thầu áp dụng lựa chọn danh sách ngắn thì thực hiện theo quy định tại Điều 23 của Nghị định này.
+
+<a id="dieu-35-khoan-2"></a>
+**2.** Căn cứ lập hồ sơ mời thầu theo quy định tại khoản 1 Điều 24 của Nghị định này.
+
+<a id="dieu-35-khoan-3"></a>
+**3.** Hồ sơ mời thầu phải bao gồm đầy đủ các nội dung cần thiết để nhà thầu lập hồ sơ dự thầu và không được nêu bất cứ điều kiện nào nhằm hạn chế sự tham gia của nhà thầu hoặc nhằm tạo lợi thế cho một hoặc một số nhà thầu gây ra sự cạnh tranh không bình đẳng theo quy định tại điểm k khoản 6 Điều 16 và khoản 3 Điều 44 của Luật Đấu thầu. Bộ Kế hoạch và Đầu tư hướng dẫn chi tiết về danh sách hành vi vi phạm quy định tại khoản 3 Điều 44 của Luật Đấu thầu dẫn đến nội dung của hồ sơ mời thầu bị coi là vô hiệu, không phải là căn cứ để đánh giá hồ sơ dự thầu.
+
+<a id="dieu-35-khoan-4"></a>
+**4.** Hồ sơ mời thầu phải quy định nội dung đánh giá tính hợp lệ của hồ sơ đề xuất về kỹ thuật và hồ sơ đề xuất về tài chính của nhà thầu, bao gồm:
+
+a) Nội dung đánh giá tính hợp lệ của hồ sơ đề xuất về kỹ thuật:
+
+Có bản gốc hồ sơ đề xuất về kỹ thuật;
+
+Có đơn dự thầu thuộc hồ sơ đề xuất về kỹ thuật được đại diện hợp pháp của nhà thầu ký tên, đóng dấu (nếu có) theo yêu cầu của hồ sơ mời thầu; thời gian ký đơn dự thầu phải sau thời điểm phát hành hồ sơ mời thầu; không kèm điều kiện gây bất lợi cho chủ đầu tư. Đối với nhà thầu liên danh, đơn dự thầu phải do đại diện hợp pháp của từng thành viên liên danh ký tên, đóng dấu (nếu có) hoặc thành viên được phân công thay mặt liên danh ký đơn dự thầu theo phân công trách nhiệm trong thỏa thuận liên danh;
+
+Hiệu lực của hồ sơ đề xuất về kỹ thuật đáp ứng yêu cầu theo quy định trong hồ sơ mời thầu;
+
+Có bảo đảm dự thầu với giá trị, thời hạn hiệu lực và đơn vị thụ hưởng đáp ứng yêu cầu của hồ sơ mời thầu. Đối với trường hợp quy định bảo đảm dự thầu theo hình thức nộp thư bảo lãnh hoặc giấy chứng nhận bảo hiểm bảo lãnh thì thư bảo lãnh, giấy chứng nhận bảo hiểm bảo lãnh không vi phạm một trong các trường hợp sau đây: có giá trị thấp hơn, thời gian có hiệu lực ngắn hơn so với yêu cầu của hồ sơ mời thầu, không đúng tên đơn vị thụ hưởng, không có chữ ký hợp lệ, ký trước khi phát hành hồ sơ mời thầu, có kèm theo các điều kiện gây bất lợi cho chủ đầu tư, bên mời thầu. Thư bảo lãnh hoặc giấy chứng nhận bảo hiểm bảo lãnh phải được đại diện hợp pháp của tổ chức tín dụng trong nước, chi nhánh ngân hàng nước ngoài được thành lập theo pháp luật Việt Nam, doanh nghiệp bảo hiểm phi nhân thọ trong nước, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài được thành lập theo pháp luật Việt Nam ký tên, đóng dấu (nếu có). Đối với gói thầu bảo hiểm, nhà thầu tham dự thầu không được xuất trình giấy chứng nhận bảo hiểm bảo lãnh do mình phát hành;
+
+Không có tên trong hai hoặc nhiều hồ sơ đề xuất về kỹ thuật với tư cách là nhà thầu độc lập hoặc thành viên trong liên danh;
+
+Có thỏa thuận liên danh (trong trường hợp liên danh) được đại diện hợp pháp của từng thành viên liên danh ký tên, đóng dấu (nếu có); thỏa thuận liên danh phải nêu rõ nội dung công việc cụ thể và ước tính giá trị tương ứng mà từng thành viên trong liên danh sẽ thực hiện. Việc phân chia công việc trong liên danh phải căn cứ các hạng mục nêu trong bảng giá dự thầu hoặc theo các công việc thuộc quá trình sản xuất hạng mục trong bảng giá dự thầu, không được phân chia các công việc không thuộc các hạng mục này hoặc không thuộc quá trình sản xuất các hạng mục này;
+
+Nhà thầu bảo đảm tư cách hợp lệ theo quy định tại Điều 5 của Luật Đấu thầu;
+
+Trong thời hạn 03 năm trước thời điểm đóng thầu, nhà thầu không có nhân sự (ký kết hợp đồng lao động với nhà thầu tại thời điểm nhân sự thực hiện hành vi vi phạm) bị Tòa án kết án có hành vi vi phạm quy định về đấu thầu gây hậu quả nghiêm trọng theo quy định pháp luật về hình sự nhằm mục đích cho nhà thầu đó trúng thầu;
+
+b) Nội dung đánh giá tính hợp lệ của hồ sơ đề xuất về tài chính:
+
+Có bản gốc hồ sơ đề xuất về tài chính;
+
+Có đơn dự thầu thuộc hồ sơ đề xuất về tài chính được đại diện hợp pháp của nhà thầu ký tên, đóng dấu (nếu có) theo yêu cầu của hồ sơ mời thầu; thời gian ký đơn dự thầu phải sau thời điểm phát hành hồ sơ mời thầu; không đề xuất các giá dự thầu khác nhau hoặc có kèm theo điều kiện gây bất lợi cho chủ đầu tư. Đối với nhà thầu liên danh, đơn dự thầu phải do đại diện hợp pháp của từng thành viên liên danh ký tên, đóng dấu (nếu có) hoặc thành viên được phân công thay mặt liên danh ký đơn dự thầu theo phân công trách nhiệm trong thỏa thuận liên danh;
+
+Hiệu lực của hồ sơ đề xuất về tài chính đáp ứng yêu cầu theo quy định trong hồ sơ mời thầu.
+
+<a id="dieu-35-khoan-5"></a>
+**5.** Tiêu chuẩn đánh giá hồ sơ dự thầu bao gồm:
+
+a) Tiêu chuẩn đánh giá về năng lực và kinh nghiệm;
+
+b) Tiêu chuẩn đánh giá về kỹ thuật;
+
+c) Xác định giá thấp nhất (đối với trường hợp áp dụng phương pháp giá thấp nhất);
+
+d) Tiêu chuẩn xác định giá đánh giá (đối với trường hợp áp dụng phương pháp giá đánh giá);
+
+đ) Tiêu chuẩn đánh giá tổng hợp (đối với trường hợp áp dụng phương pháp kết hợp giữa kỹ thuật và giá).
+
+Đối với gói thầu đã thực hiện sơ tuyển, hồ sơ mời thầu không cần quy định tiêu chuẩn đánh giá về năng lực và kinh nghiệm của nhà thầu nhưng phải yêu cầu nhà thầu cập nhật thông tin về năng lực của nhà thầu.
+
+<a id="dieu-35-khoan-6"></a>
+**6.** Tiêu chuẩn đánh giá về năng lực và kinh nghiệm; tiêu chuẩn đánh giá về kỹ thuật được thực hiện theo quy định tại các điểm a, b khoản 4 và các điểm a, b khoản 5 Điều 24 của Nghị định này.
+
+<a id="dieu-35-khoan-7"></a>
+**7.** Việc xác định giá thấp nhất (đối với trường hợp áp dụng phương pháp giá thấp nhất) được thực hiện theo quy định tại điểm c khoản 4 và điểm c khoản 5 Điều 24 của Nghị định này.
+
+<a id="dieu-35-khoan-8"></a>
+**8.** Tiêu chuẩn xác định giá đánh giá (đối với trường hợp áp dụng phương pháp giá đánh giá) được thực hiện theo quy định tại điểm d khoản 4 và điểm d khoản 5 Điều 24 của Nghị định này.
+
+<a id="dieu-35-khoan-9"></a>
+**9.** Tiêu chuẩn đánh giá tổng hợp (đối với trường hợp áp dụng phương pháp kết hợp giữa kỹ thuật và giá) được thực hiện theo quy định tại Điều 36 của Nghị định này.
+
+<a id="dieu-35-khoan-10"></a>
+**10.** Quy định về việc nêu nhãn hiệu, xuất xứ của hàng hóa được thực hiện theo quy định tại khoản 9 Điều 24 của Nghị định này.
+
+<a id="dieu-35-khoan-11"></a>
+**11.** Quy định về việc sử dụng lao động được thực hiện theo quy định tại khoản 10 Điều 24 của Nghị định này.
+
+<a id="dieu-35-khoan-12"></a>
+**12.** Quy định về tùy chọn mua thêm được thực hiện theo quy định tại khoản 11 Điều 24 của Nghị định này.
+
+<a id="dieu-35-khoan-13"></a>
+**13.** Đối với gói thầu cung cấp dịch vụ phi tư vấn và gói thầu hỗn hợp, căn cứ quy mô, tính chất của gói thầu và quy định tại Điều này để xác định tiêu chuẩn đánh giá về năng lực và kinh nghiệm; tiêu chuẩn đánh giá về kỹ thuật; xác định giá thấp nhất (đối với trường hợp áp dụng phương pháp giá thấp nhất); tiêu chuẩn xác định giá đánh giá (đối với trường hợp áp dụng phương pháp giá đánh giá); tiêu chuẩn đánh giá tổng hợp (đối với trường hợp áp dụng phương pháp kết hợp giữa kỹ thuật và giá) cho phù hợp.
+
+<a id="dieu-35-khoan-14"></a>
+**14.** Quy định về giấy phép bán hàng được thực hiện theo quy định tại khoản 12 Điều 24 của Nghị định này.
+
+
+<a id="dieu-36"></a>
+### Điều 36. Tiêu chuẩn đánh giá tổng hợp
+
+<a id="dieu-36-khoan-1"></a>
+**1.** Tiêu chuẩn đánh giá tổng hợp được áp dụng đối với phương pháp kết hợp giữa kỹ thuật và giá trên cơ sở xác định điểm tổng hợp.
+
+Điểm tổng hợp được xác định như sau:
+
+![](data:image/png;base64,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)Trong đó:
+
+Điểm kỹ thuật đang xét: là số điểm được xác định tại bước đánh giá về kỹ thuật của hồ sơ dự thầu đang xét;
+
+Điểm kỹ thuậtcao nhất: là số điểm kỹ thuật cao nhất trong số các hồ sơ dự thầu đáp ứng về kỹ thuật;
+
+Gthấpnhất: là giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch trừ đi giá trị giảm giá (nếu có) thấp nhất của các hồ sơ dự thầu đáp ứng về kỹ thuật;
+
+Gđangxét: là giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch trừ đi giá trị giảm giá (nếu có) của hồ sơ dự thầu đang xét;
+
+K: Tỷ trọng điểm về kỹ thuật quy định trong thang điểm tổng hợp;
+
+T: Tỷ trọng điểm về giá quy định trong thang điểm tổng hợp;
+
+K \+ T = 100%. Tỷ trọng điểm về kỹ thuật (K) và về giá (T) phải được xác định cụ thể trong hồ sơ mời thầu.
+
+<a id="dieu-36-khoan-2"></a>
+**2.** Tiêu chuẩn đánh giá tổng hợp được xây dựng trên cơ sở kết hợp giữa kỹ thuật và giá. Tùy theo quy mô, tính chất của từng gói thầu cần xác định tỷ trọng điểm về kỹ thuật và tỷ trọng điểm về giá cho phù hợp, bảo đảm tỷ trọng điểm về kỹ thuật cộng với tỷ trọng điểm về giá bằng 100% theo nguyên tắc sau:
+
+a) Đối với gói thầu xây lắp, mua sắm hàng hóa, phi tư vấn, hỗn hợp: Tỷ trọng điểm về kỹ thuật (K) từ 10% đến 30%, tỷ trọng điểm về giá (T) từ 70% đến 90%;
+
+b) Đối với gói thầu mua thuốc: tỷ trọng điểm về kỹ thuật (K) từ 30% đến 40%, tỷ trọng điểm về giá (T) từ 60% đến 70%.
+
+<a id="dieu-36-khoan-3"></a>
+**3.** Trường hợp cần ưu tiên về yếu tố kỹ thuật so với yếu tố về giá, chủ đầu tư trình người có thẩm quyền xem xét, quyết định tỷ trọng điểm về kỹ thuật (K) và tỷ trọng điểm về giá (T) nhưng đảm bảo tỷ trọng điểm về kỹ thuật không vượt quá 50%.
+
+
+<a id="dieu-37"></a>
+### Điều 37. Thẩm định và phê duyệt hồ sơ mời thầu
+
+<a id="dieu-37-khoan-1"></a>
+**1.** Hồ sơ mời thầu được thẩm định theo quy định tại Điều 129 của Nghị định này trước khi phê duyệt.
+
+<a id="dieu-37-khoan-2"></a>
+**2.** Việc phê duyệt hồ sơ mời thầu được thực hiện bằng văn bản căn cứ vào tờ trình phê duyệt, báo cáo thẩm định hồ sơ mời thầu.
+
+
+<a id="dieu-38"></a>
+### Điều 38. Tổ chức lựa chọn nhà thầu
+
+<a id="dieu-38-khoan-1"></a>
+**1.** Mời thầu:
+
+a) Thông báo mời thầu được áp dụng đối với trường hợp không tiến hành thủ tục lựa chọn danh sách ngắn và được thực hiện theo quy định tại điểm b khoản 1 Điều 8 của Luật Đấu thầu;
+
+b) Gửi thư mời thầu đến các nhà thầu có tên trong danh sách ngắn.
+
+<a id="dieu-38-khoan-2"></a>
+**2.** Phát hành, sửa đổi, làm rõ hồ sơ mời thầu:
+
+Việc phát hành, sửa đổi, làm rõ hồ sơ mời thầu thực hiện theo quy định tại khoản 2 Điều 26 của Nghị định này.
+
+<a id="dieu-38-khoan-3"></a>
+**3.** Chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu:
+
+Việc chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu thực hiện theo quy định tại khoản 3 Điều 26 của Nghị định này.
+
+<a id="dieu-38-khoan-4"></a>
+**4.** Mở hồ sơ đề xuất về kỹ thuật:
+
+a) Việc mở hồ sơ đề xuất về kỹ thuật phải được tiến hành công khai và bắt đầu ngay trong thời hạn 02 giờ kể từ thời điểm đóng thầu. Bên mời thầu chi mở hồ sơ đề xuất về kỹ thuật nhận được trước thời điểm đóng thầu theo yêu cầu của hồ sơ mời thầu trước sự chứng kiến của đại diện các nhà thầu tham dự lễ mở thầu, không phụ thuộc vào sự có mặt hay vắng mặt của các nhà thầu;
+
+b) Việc mở hồ sơ đề xuất về kỹ thuật được thực hiện đối với từng hồ sơ dự thầu theo thứ tự chữ cái tên của nhà thầu và theo trình tự sau đây: kiểm tra niêm phong; mở hồ sơ và đọc rõ các thông tin: tên nhà thầu, số lượng bản gốc, bản chụp hồ sơ đề xuất về kỹ thuật, đơn dự thầu thuộc hồ sơ đề xuất về kỹ thuật, thời gian có hiệu lực của hồ sơ đề xuất về kỹ thuật, thời gian thực hiện gói thầu, giá trị, hiệu lực của bảo đảm dự thầu, các thông tin khác liên quan;
+
+c) Các thông tin quy định tại điểm b khoản này phải được ghi vào biên bản mở hồ sơ đề xuất về kỹ thuật. Biên bản này phải được đại diện của bên mời thầu, nhà thầu tham dự lễ mở hồ sơ đề xuất về kỹ thuật ký xác nhận và được gửi cho các nhà thầu tham dự thầu, đăng tải trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 24 giờ kể từ thời điểm mở thầu;
+
+d) Đại diện của bên mời thầu phải ký xác nhận vào bản gốc đơn dự thầu, giấy ủy quyền của người đại diện theo pháp luật của nhà thầu (nếu có); thỏa thuận liên danh (nếu có); bảo đảm dự thầu; các nội dung quan trọng của từng hồ sơ đề xuất về kỹ thuật;
+
+đ) Hồ sơ đề xuất về tài chính của tất cả các nhà thầu được bên mời thầu niêm phong trong một túi riêng biệt và được đại diện của bên mời thầu, nhà thầu tham dự lễ mở hồ sơ đề xuất về kỹ thuật ký niêm phong.
+
+
+<a id="dieu-39"></a>
+### Điều 39. Nguyên tắc đánh giá, làm rõ hồ sơ dự thầu, sửa lỗi và hiệu chỉnh sai lệch
+
+<a id="dieu-39-khoan-1"></a>
+**1.** Việc đánh giá hồ sơ dự thầu thực hiện theo nguyên tắc quy định tại các khoản 1, 2, 3, 5, 6, 7 và 8 Điều 27 của Nghị định này.
+
+Đối với gói thầu chia phần, việc đánh giá hồ sơ dự thầu và xét duyệt trúng thầu được thực hiện trên cơ sở bảo đảm tổng giá đề nghị trúng thầu của gói thầu là thấp nhất (đối với gói thầu áp dụng phương pháp giá thấp nhất); tổng giá đánh giá của gói thầu là thấp nhất (đối với gói thầu áp dụng phương pháp giá đánh giá); tổng điểm tổng hợp cao nhất (đối với gói thầu áp dụng phương pháp kết hợp giữa kỹ thuật và giá) và giá đề nghị trúng thầu của cả gói thầu không vượt giá gói thầu được duyệt mà không so sánh với ước tính chi phí của từng phần; đối với gói thầu mua thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế, dịch vụ kỹ thuật theo hướng dẫn của Bộ Y tế (nếu có).
+
+<a id="dieu-39-khoan-2"></a>
+**2.** Việc làm rõ hồ sơ dự thầu thực hiện theo quy định tại Điều 28 của Nghị định này.
+
+<a id="dieu-39-khoan-3"></a>
+**3.** Việc sửa lỗi và hiệu chỉnh sai lệch thực hiện theo quy định tại Điều 29 của Nghị định này.
+
+
+<a id="dieu-40"></a>
+### Điều 40. Kiểm tra và đánh giá hồ sơ đề xuất về kỹ thuật
+
+<a id="dieu-40-khoan-1"></a>
+**1.** Nội dung kiểm tra tính hợp lệ của hồ sơ đề xuất về kỹ thuật:
+
+a) Các thành phần của hồ sơ đề xuất về kỹ thuật, bao gồm: đơn dự thầu thuộc hồ sơ đề xuất về kỹ thuật, thỏa thuận liên danh (nếu có), giấy ủy quyền của người đại diện theo pháp luật của nhà thầu (nếu có); bảo đảm dự thầu; số lượng bản gốc, bản chụp hồ sơ đề xuất về kỹ thuật;
+
+b) Tính thống nhất về nội dung giữa bản gốc và bản chụp để phục vụ quá trình đánh giá chi tiết hồ sơ đề xuất về kỹ thuật.
+
+<a id="dieu-40-khoan-2"></a>
+**2.** Đánh giá tính hợp lệ của hồ sơ đề xuất về kỹ thuật:
+
+Hồ sơ đề xuất về kỹ thuật của nhà thầu được đánh giá là hợp lệ khi đáp ứng đầy đủ các quy định tại điểm a khoản 4 Điều 35 của Nghị định này.
+
+Nhà thầu có hồ sơ đề xuất về kỹ thuật hợp lệ được xem xét, đánh giá về năng lực và kinh nghiệm. Đối với gói thầu đã thực hiện sơ tuyển, không tiến hành đánh giá về năng lực và kinh nghiệm của nhà thầu.
+
+<a id="dieu-40-khoan-3"></a>
+**3.** Đánh giá về năng lực và kinh nghiệm:
+
+a) Việc đánh giá về năng lực và kinh nghiệm thực hiện theo tiêu chuẩn đánh giá quy định trong hồ sơ mời thầu;
+
+b) Nhà thầu có năng lực và kinh nghiệm đáp ứng yêu cầu được xem xét, đánh giá về kỹ thuật;
+
+c) Đối với gói thầu có sơ tuyển, nhà thầu đã vượt qua bước sơ tuyển, có hồ sơ đề xuất về kỹ thuật hợp lệ, có năng lực được cập nhật đáp ứng yêu cầu của gói thầu được xem xét, đánh giá về kỹ thuật.
+
+Đối với gói thầu mua sắm hàng hóa, nhà thầu là cá nhân, nhóm cá nhân chào thầu sản phẩm đổi mới sáng tạo của mình đáp ứng quy định tại khoản 4 Điều 5 của Nghị định này thì không phải đáp ứng một số tiêu chí quy định tại khoản 3 Điều 9 của Nghị định này.
+
+<a id="dieu-40-khoan-4"></a>
+**4.** Đánh giá về kỹ thuật:
+
+a) Việc đánh giá về kỹ thuật thực hiện theo tiêu chuẩn đánh giá quy định trong hồ sơ mời thầu;
+
+b) Nhà thầu đáp ứng yêu cầu về kỹ thuật được mở và đánh giá hồ sơ đề xuất về tài chính.
+
+<a id="dieu-40-khoan-5"></a>
+**5.** Danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật phải được chủ đầu tư phê duyệt bằng văn bản căn cứ vào tờ trình phê duyệt, báo cáo thẩm định kết quả đánh giá về kỹ thuật. Bên mời thầu thông báo danh sách các nhà thầu đáp ứng và nhà thầu không đáp ứng yêu cầu về kỹ thuật, nêu lý do nhà thầu không đáp ứng đồng thời mời tất cả các nhà thầu tham dự thầu đến mở hồ sơ đề xuất về tài chính. Bên mời thầu phải đăng tải danh sách nhà thầu đáp ứng về kỹ thuật trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 05 ngày làm việc kể từ ngày phê duyệt danh sách này.
+
+
+<a id="dieu-41"></a>
+### Điều 41. Mở hồ sơ đề xuất về tài chính
+
+<a id="dieu-41-khoan-1"></a>
+**1.** Bên mời thầu kiểm tra niêm phong túi đựng các hồ sơ đề xuất về tài chính.
+
+<a id="dieu-41-khoan-2"></a>
+**2.** Việc mở hồ sơ đề xuất về tài chính được thực hiện như sau:
+
+a) Chỉ mở hồ sơ đề xuất về tài chính của nhà thầu có tên trong danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật trước sự chứng kiến của đại diện các nhà thầu tham dự lễ mở hồ sơ đề xuất về tài chính, không phụ thuộc vào sự có mặt hay vắng mặt của các nhà thầu;
+
+b) Việc mở hồ sơ đề xuất về tài chính được thực hiện đối với từng hồ sơ đề xuất về tài chính theo thứ tự chữ cái tên của nhà thầu có tên trong danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật và theo trình tự sau đây: kiểm tra niêm phong; đọc điểm kỹ thuật của các hồ sơ dự thầu được đánh giá đáp ứng yêu cầu về kỹ thuật (trường hợp sử dụng phương pháp chấm điểm); mở hồ sơ và đọc rõ các thông tin: tên nhà thầu, số lượng bản gốc, bản chụp hồ sơ đề xuất về tài chính, đơn dự thầu thuộc hồ sơ đề xuất về tài chính, thời gian có hiệu lực của hồ sơ đề xuất về tài chính, giá dự thầu ghi trong đơn dự thầu, giá trị giảm giá (nếu có), các thông tin khác liên quan.
+
+<a id="dieu-41-khoan-3"></a>
+**3.** Biên bản mở hồ sơ đề xuất về tài chính:
+
+a) Các thông tin quy định tại khoản 1 và khoản 2 Điều này phải được ghi vào biên bản mở hồ sơ đề xuất về tài chính. Biên bản mở hồ sơ đề xuất về tài chính phải được ký xác nhận bởi đại diện của bên mời thầu và nhà thầu tham dự mở hồ sơ đề xuất về tài chính. Biên bản này phải được gửi cho các nhà thầu đáp ứng yêu cầu về kỹ thuật; được đăng tải trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 24 giờ kể từ thời điểm mở thầu;
+
+b) Đại diện của bên mời thầu phải ký xác nhận vào tất cả các trang bản gốc của hồ sơ đề xuất về tài chính.
+
+
+<a id="dieu-42"></a>
+### Điều 42. Kiểm tra, đánh giá hồ sơ đề xuất về tài chính
+
+<a id="dieu-42-khoan-1"></a>
+**1.** Nội dung kiểm tra tính hợp lệ của hồ sơ đề xuất về tài chính:
+
+a) Số lượng bản gốc, bản chụp hồ sơ đề xuất về tài chính;
+
+b) Các thành phần của hồ sơ đề xuất về tài chính, bao gồm: đơn dự thầu thuộc hồ sơ đề xuất về tài chính; bảng giá dự thầu; các thành phần khác thuộc hồ sơ đề xuất về tài chính;
+
+c) Tính thống nhất về nội dung giữa bản gốc và bản chụp để phục vụ quá trình đánh giá chi tiết hồ sơ đề xuất về tài chính.
+
+<a id="dieu-42-khoan-2"></a>
+**2.** Đánh giá tính hợp lệ của hồ sơ đề xuất về tài chính:
+
+Hồ sơ đề xuất về tài chính của nhà thầu được đánh giá là hợp lệ khi đáp ứng đầy đủ các quy định tại điểm b khoản 4 Điều 35 của Nghị định này.
+
+Nhà thầu có hồ sơ đề xuất về tài chính hợp lệ được đánh giá chi tiết về tài chính.
+
+<a id="dieu-42-khoan-3"></a>
+**3.** Đánh giá chi tiết hồ sơ đề xuất về tài chính và xếp hạng nhà thầu:
+
+a) Việc đánh giá chi tiết hồ sơ đề xuất về tài chính và xếp hạng nhà thầu thực hiện theo tiêu chuẩn đánh giá quy định trong hồ sơ mời thầu. Thư giảm giá không được công khai trong biên bản mở thầu sẽ không được xem xét, đánh giá;
+
+b) Sau khi hình thành danh sách xếp hạng nhà thầu, tổ chuyên gia lập báo cáo gửi bên mời thầu xem xét. Báo cáo gồm các nội dung: danh sách nhà thầu được xem xét, xếp hạng và thứ tự xếp hạng; danh sách nhà thầu không đáp ứng yêu cầu và bị loại; lý do loại bỏ nhà thầu; nhận xét về tính cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế trong quá trình tổ chức lựa chọn nhà thầu. Trường hợp chưa bảo đảm cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế, phải nêu rõ lý do và đề xuất biện pháp xử lý; những nội dung của hồ sơ mời thầu không phù hợp với quy định của pháp luật về đấu thầu hoặc nội dung có thể dẫn đến cách hiểu không rõ hoặc khác nhau trong quá trình thực hiện hoặc có thể làm sai lệch kết quả lựa chọn nhà thầu (nếu có); đề xuất biện pháp xử lý.
+
+Chủ đầu tư không phải phê duyệt danh sách xếp hạng nhà thầu.
+
+
+<a id="dieu-43"></a>
+### Điều 43. Thương thảo hợp đồng
+
+<a id="dieu-43-khoan-1"></a>
+**1.** Trường hợp gói thầu áp dụng thương thảo hợp đồng, nhà thầu xếp hạng thứ nhất được bên mời thầu mời đến thương thảo hợp đồng.
+
+<a id="dieu-43-khoan-2"></a>
+**2.** Căn cứ thương thảo hợp đồng:
+
+a) Báo cáo kết quả đánh giá hồ sơ dự thầu;
+
+b) Hồ sơ dự thầu và các tài liệu làm rõ hồ sơ dự thầu (nếu có) của nhà thầu;
+
+c) Hồ sơ mời thầu bao gồm điều kiện chung, điều kiện cụ thể của hợp đồng và các tài liệu sửa đổi, làm rõ hồ sơ mời thầu (nếu có).
+
+<a id="dieu-43-khoan-3"></a>
+**3.** Nguyên tắc thương thảo hợp đồng:
+
+a) Không thương thảo các nội dung mà nhà thầu đã chào thầu theo đúng yêu cầu của hồ sơ mời thầu;
+
+b) Không được làm thay đổi đơn giá đã xác định tại bước đánh giá về tài chính.
+
+<a id="dieu-43-khoan-4"></a>
+**4.** Nội dung thương thảo hợp đồng:
+
+a) Những nội dung chưa đủ chi tiết, chưa rõ hoặc chưa phù hợp, thống nhất giữa hồ sơ mời thầu và hồ sơ dự thầu, giữa các nội dung khác nhau trong hồ sơ dự thầu có thể dẫn đến các phát sinh, tranh chấp hoặc ảnh hưởng đến trách nhiệm của các bên trong quá trình thực hiện hợp đồng;
+
+b) Các sai lệch do nhà thầu đã phát hiện và đề xuất trong hồ sơ dự thầu (nếu có), bao gồm cả các đề xuất thay đổi hoặc phương án kỹ thuật thay thế của nhà thầu nếu trong hồ sơ mời thầu có quy định cho phép nhà thầu chào phương án kỹ thuật thay thế;
+
+c) Nhân sự chủ chốt:
+
+Nhà thầu không được thay đổi nhân sự chủ chốt đã đề xuất hoặc đã được thay thế một lần theo quy định tại khoản 2 Điều 27 của Nghị định này, trừ trường hợp do thời gian đánh giá hồ sơ dự thầu kéo dài hơn so với dự kiến trong kế hoạch lựa chọn nhà thầu hoặc vì lý do bất khả kháng mà nhân sự chủ chốt do nhà thầu đã đề xuất không thể tham gia thực hiện hợp đồng. Trong trường hợp này, nhà thầu được thay đổi nhân sự khác nhưng phải bảo đảm nhân sự dự kiến thay thế có trình độ, kinh nghiệm và năng lực tương đương hoặc cao hơn so với nhân sự đã đề xuất và nhà thầu không được thay đổi giá dự thầu;
+
+d) Các vấn đề phát sinh trong quá trình lựa chọn nhà thầu (nếu có) nhằm mục tiêu hoàn thiện các nội dung chi tiết của gói thầu;
+
+đ) Các nội dung cần thiết khác.
+
+<a id="dieu-43-khoan-5"></a>
+**5.** Trong quá trình thương thảo hợp đồng, các bên tham gia thương thảo tiến hành hoàn thiện dự thảo văn bản hợp đồng; điều kiện cụ thể của hợp đồng, phụ lục hợp đồng gồm danh mục chi tiết về phạm vi công việc, biểu giá, tiến độ thực hiện (nếu có).
+
+<a id="dieu-43-khoan-6"></a>
+**6.** Sau khi hoàn thành thương thảo hợp đồng, bên mời thầu lập tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu gửi chủ đầu tư phê duyệt theo quy định tại Điều 31 của Nghị định này. Tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu bao gồm các nội dung sau đây:
+
+a) Kết quả đánh giá đối với từng hồ sơ dự thầu;
+
+b) Danh sách nhà thầu được xem xét, xếp hạng và thứ tự xếp hạng nhà thầu;
+
+c) Kết quả thương thảo hợp đồng;
+
+d) Danh sách nhà thầu không đáp ứng yêu cầu và bị loại; lý do loại bỏ nhà thầu;
+
+đ) Tên nhà thầu được đề nghị trúng thầu, giá đề nghị trúng thầu, loại hợp đồng, thời gian thực hiện gói thầu và thời gian thực hiện hợp đồng;
+
+e) Nhận xét về tính cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế trong quá trình tổ chức lựa chọn nhà thầu. Trường hợp chưa bảo đảm cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế, phải nêu rõ lý do và đề xuất biện pháp xử lý;
+
+g) Những nội dung của hồ sơ mời thầu chưa phù hợp với quy định của pháp luật về đấu thầu dẫn đến có cách hiểu không rõ hoặc khác nhau trong quá trình thực hiện hoặc có thể dẫn đến làm sai lệch kết quả lựa chọn nhà thầu (nếu có) và đề xuất biện pháp xử lý;
+
+h) Những nội dung cần lưu ý (nếu có).
+
+<a id="dieu-43-khoan-7"></a>
+**7.** Trường hợp nhà thầu tham gia thương thảo nhưng không tiến hành thương thảo theo đúng nguyên tắc và nội dung quy định tại khoản 3 và khoản 4 Điều này hoặc đã tiến hành thương thảo nhưng không ký biên bản thương thảo hợp đồng nhằm mục đích rút khỏi việc trúng thầu hoặc gây bất lợi cho chủ đầu tư thì nhà thầu bị loại và không được hoàn trả giá trị bảo đảm dự thầu.
+
+<a id="dieu-43-khoan-8"></a>
+**8.** Nhà thầu được quyền từ chối thương thảo và được hoàn trả giá trị bảo đảm dự thầu trong trường hợp bên mời thầu, chủ đầu tư không tiến hành thương thảo theo nguyên tắc và nội dung quy định tại khoản 3 và khoản 4 Điều này.
+
+<a id="dieu-43-khoan-9"></a>
+**9.** Trường hợp thương thảo không thành công, bên mời thầu báo cáo chủ đầu tư xem xét, quyết định mời nhà thầu xếp hạng tiếp theo vào thương thảo.
+
+
+<a id="dieu-44"></a>
+### Điều 44. Trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu, hoàn thiện, ký kết và quản lý thực hiện hợp đồng
+
+<a id="dieu-44-khoan-1"></a>
+**1.** Việc trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu thực hiện theo quy định tại Điều 31 của Nghị định này.
+
+<a id="dieu-44-khoan-2"></a>
+**2.** Việc hoàn thiện, ký kết và quản lý thực hiện hợp đồng thực hiện theo quy định tại Điều 32 và Điều 33 của Nghị định này.
+
+## Chương III. 
+
+__QUY TRÌNH ĐẤU THẦU RỘNG RÃI, HẠN CHẾ KHÔNG QUA MẠNG ĐỐI VỚI GÓI THẦU MUA SẮM HÀNG HÓA, XÂY LẮP, HỖN HỢP THEO PHƯƠNG THỨC HAI GIAI ĐOẠN__
+
+### Mục 1. PHƯƠNG THỨC HAI GIAI ĐOẠN MỘT TÚI HỒ SƠ
+
+
+<a id="dieu-45"></a>
+### Điều 45. Chuẩn bị đấu thầu giai đoạn một
+
+<a id="dieu-45-khoan-1"></a>
+**1.** Thủ tục lựa chọn danh sách ngắn đối với trường hợp đấu thầu rộng rãi và đấu thầu hạn chế thực hiện theo quy định tại Điều 23 của Nghị định này.
+
+<a id="dieu-45-khoan-2"></a>
+**2.** Lập hồ sơ mời thầu giai đoạn một:
+
+a) Hồ sơ mời thầu được lập theo quy định tại khoản 1 và khoản 2 Điều 24 của Nghị định này;
+
+b) Hồ sơ mời thầu giai đoạn một bao gồm các nội dung sau đây: Thông tin tóm tắt về dự án, gói thầu; chỉ dẫn việc chuẩn bị và nộp hồ sơ dự thầu giai đoạn một; yêu cầu kỹ thuật của gói thầu căn cứ thiết kế cơ sở hoặc thông số kỹ thuật đã được phê duyệt; tiêu chuẩn đánh giá về kỹ thuật của gói thầu.
+
+Hồ sơ mời thầu phải cho phép nhà thầu được đề xuất phương án thay thế cho phương án kỹ thuật đã chào trong hồ sơ dự thầu, không yêu cầu nhà thầu đề xuất về giá dự thầu và bảo đảm dự thầu.
+
+<a id="dieu-45-khoan-3"></a>
+**3.** Thẩm định và phê duyệt hồ sơ mời thầu:
+
+a) Hồ sơ mời thầu được thẩm định theo quy định tại Điều 129 của Nghị định này trước khi phê duyệt;
+
+b) Việc phê duyệt hồ sơ mời thầu căn cứ vào tờ trình phê duyệt, báo cáo thẩm định hồ sơ mời thầu.
+
+
+<a id="dieu-46"></a>
+### Điều 46. Tổ chức đấu thầu giai đoạn một
+
+<a id="dieu-46-khoan-1"></a>
+**1.** Việc mời thầu giai đoạn một thực hiện theo quy định tại khoản 1 Điều 26 của Nghị định này.
+
+<a id="dieu-46-khoan-2"></a>
+**2.** Phát hành, sửa đổi, làm rõ hồ sơ mời thầu:
+
+Việc phát hành, sửa đổi, làm rõ hồ sơ mời thầu thực hiện theo quy định tại khoản 2 Điều 26 của Nghị định này.
+
+<a id="dieu-46-khoan-3"></a>
+**3.** Chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu:
+
+Việc chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu thực hiện theo quy định tại khoản 3 Điều 26 của Nghị định này.
+
+<a id="dieu-46-khoan-4"></a>
+**4.** Mở thầu:
+
+Việc mở thầu thực hiện theo quy định tại khoản 4 Điều 26 của Nghị định này.
+
+Biên bản mở thầu giai đoạn một không bao gồm các thông tin về bảo đảm dự thầu, giá dự thầu và giá trị giảm giá (nếu có) của các nhà thầu.
+
+
+<a id="dieu-47"></a>
+### Điều 47. Đánh giá hồ sơ đề xuất về kỹ thuật, trình, phê duyệt, công khai danh sách nhà thầu đáp ứng yêu cầu của hồ sơ mời thầu giai đoạn một
+
+<a id="dieu-47-khoan-1"></a>
+**1.** Nguyên tắc đánh giá hồ sơ dự thầu thực hiện theo quy định tại Điều 27 của Nghị định này.
+
+<a id="dieu-47-khoan-2"></a>
+**2.** Việc làm rõ hồ sơ dự thầu thực hiện theo quy định tại Điều 28 của Nghị định này.
+
+<a id="dieu-47-khoan-3"></a>
+**3.** Việc trình, phê duyệt, công khai danh sách nhà thầu đáp ứng yêu cầu của hồ sơ mời thầu giai đoạn một thực hiện theo quy định tại Điều 31 của Nghị định này. Danh sách nhà thầu đáp ứng yêu cầu của hồ sơ mời thầu giai đoạn một phải được đăng tải trên Hệ thống mạng đấu thầu quốc gia chậm nhất là 05 ngày làm việc kể từ ngày phê duyệt.
+
+
+<a id="dieu-48"></a>
+### Điều 48. Chuẩn bị, tổ chức đấu thầu giai đoạn hai
+
+<a id="dieu-48-khoan-1"></a>
+**1.** Trao đổi về hồ sơ dự thầu giai đoạn một:
+
+Bên mời thầu mời từng nhà thầu thuộc danh sách nhà thầu đáp ứng yêu cầu của hồ sơ mời thầu giai đoạn một để làm rõ các nội dung về hồ sơ đề xuất kỹ thuật. Việc làm rõ hồ sơ đề xuất về kỹ thuật bao gồm các yêu cầu cần điều chỉnh về kỹ thuật so với đề xuất của nhà thầu tại giai đoạn một và các ý kiến góp ý về nội dung của hồ sơ mời thầu, phương án kỹ thuật thay thế của nhà thầu. Nội dung làm rõ được bên mời thầu và từng nhà thầu lập thành biên bản. Bên mời thầu phải bảo đảm thông tin trong hồ sơ dự thầu giai đoạn một của các nhà thầu không bị tiết lộ.
+
+Trên cơ sở nội dung làm rõ đề xuất về kỹ thuật với từng nhà thầu, bên mời thầu tổng hợp, báo cáo chủ đầu tư các nội dung cần điều chỉnh, bổ sung về chỉ dẫn nhà thầu, tiêu chuẩn đánh giá, yêu cầu kỹ thuật, điều kiện hợp đồng và các nội dung khác của hồ sơ mời thầu giai đoạn một. Chủ đầu tư có trách nhiệm xem xét, quyết định các nội dung điều chỉnh, bổ sung trên cơ sở đề xuất của bên mời thầu.
+
+<a id="dieu-48-khoan-2"></a>
+**2.** Lập hồ sơ mời thầu giai đoạn hai:
+
+a) Căn cứ lập hồ sơ mời thầu:
+
+Ngoài các căn cứ quy định tại khoản 1 và khoản 2 Điều 24 của Nghị định này, hồ sơ mời thầu giai đoạn hai phải căn cứ vào nội dung đã được chủ đầu tư quyết định điều chỉnh, bổ sung về chỉ dẫn nhà thầu, tiêu chuẩn đánh giá, yêu cầu kỹ thuật, điều kiện hợp đồng và các nội dung khác của hồ sơ mời thầu giai đoạn một.
+
+b) Nội dung hồ sơ mời thầu:
+
+Hồ sơ mời thầu bao gồm các nội dung sau đây: chỉ dẫn nhà thầu, tùy chọn mua thêm (nếu có); bảng dữ liệu đấu thầu; tiêu chuẩn đánh giá về tính hợp lệ của hồ sơ dự thầu; năng lực, kinh nghiệm của nhà thầu; kỹ thuật; tài chính, thương mại; thông tin về kết quả thực hiện hợp đồng của nhà thầu và chất lượng hàng hóa tương tự đã sử dụng; biểu mẫu mời thầu và dự thầu; phạm vi cung cấp, yêu cầu về kỹ thuật; điều kiện và biểu mẫu hợp đồng; các hồ sơ, bản vẽ và nội dung khác (nếu có).
+
+<a id="dieu-48-khoan-3"></a>
+**3.** Thẩm định và phê duyệt hồ sơ mời thầu:
+
+a) Hồ sơ mời thầu được thẩm định theo quy định tại Điều 129 của Nghị định này trước khi phê duyệt;
+
+b) Việc phê duyệt hồ sơ mời thầu được thực hiện bằng văn bản căn cứ vào tờ trình phê duyệt, báo cáo thẩm định hồ sơ mời thầu.
+
+<a id="dieu-48-khoan-4"></a>
+**4.** Tổ chức đấu thầu:
+
+a) Hồ sơ mời thầu giai đoạn hai được phát hành cho các nhà thầu trong danh sách nhà thầu đáp ứng yêu cầu của hồ sơ mời thầu giai đoạn một.
+
+Việc sửa đổi, làm rõ hồ sơ mời thầu giai đoạn hai thực hiện theo quy định tại khoản 2 Điều 26 của Nghị định này;
+
+b) Chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu:
+
+Việc chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu thực hiện theo quy định tại khoản 3 Điều 26 của Nghị định này.
+
+<a id="dieu-48-khoan-5"></a>
+**5.** Mở thầu:
+
+Việc mở thầu thực hiện theo quy định tại khoản 4 Điều 26 của Nghị định này.
+
+
+<a id="dieu-49"></a>
+### Điều 49. Đánh giá hồ sơ dự thầu giai đoạn hai
+
+<a id="dieu-49-khoan-1"></a>
+**1.** Nguyên tắc đánh giá hồ sơ dự thầu thực hiện theo quy định tại Điều 27 của Nghị định này.
+
+<a id="dieu-49-khoan-2"></a>
+**2.** Việc làm rõ hồ sơ dự thầu thực hiện theo quy định tại Điều 28 của Nghị định này.
+
+<a id="dieu-49-khoan-3"></a>
+**3.** Việc sửa lỗi và hiệu chỉnh sai lệch thực hiện theo quy định tại Điều 29 của Nghị định này.
+
+<a id="dieu-49-khoan-4"></a>
+**4.** Việc đánh giá hồ sơ dự thầu thực hiện theo quy định tại Điều 30 của Nghị định này.
+
+
+<a id="dieu-50"></a>
+### Điều 50. Thương thảo hợp đồng, trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu, hoàn thiện, ký kết và quản lý thực hiện hợp đồng
+
+<a id="dieu-50-khoan-1"></a>
+**1.** Nhà thầu xếp hạng thứ nhất được bên mời thầu mời đến thương thảo hợp đồng.
+
+<a id="dieu-50-khoan-2"></a>
+**2.** Việc thương thảo hợp đồng thực hiện theo quy định tại Điều 43 của Nghị định này.
+
+<a id="dieu-50-khoan-3"></a>
+**3.** Việc trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu thực hiện theo quy định tại Điều 31 của Nghị định này.
+
+<a id="dieu-50-khoan-4"></a>
+**4.** Việc hoàn thiện, ký kết và quản lý thực hiện hợp đồng thực hiện theo quy định tại Điều 32 và Điều 33 của Nghị định này.
+
+### Mục 2. PHƯƠNG THỨC HAI GIAI ĐOẠN HAI TÚI HỒ SƠ
+
+
+<a id="dieu-51"></a>
+### Điều 51. Chuẩn bị đấu thầu giai đoạn một
+
+<a id="dieu-51-khoan-1"></a>
+**1.** Thủ tục lựa chọn danh sách ngắn đối với trường hợp đấu thầu rộng rãi và đấu thầu hạn chế thực hiện theo quy định tại Điều 23 của Nghị định này.
+
+<a id="dieu-51-khoan-2"></a>
+**2.** Lập hồ sơ mời thầu giai đoạn một:
+
+a) Hồ sơ mời thầu được lập căn cứ quy định tại khoản 1 và khoản 2 Điều 24 của Nghị định này;
+
+b) Hồ sơ mời thầu giai đoạn một bao gồm các nội dung sau đây: thông tin tóm tắt về dự án, gói thầu; chỉ dẫn việc chuẩn bị và nộp hồ sơ dự thầu giai đoạn một; yêu cầu kỹ thuật của gói thầu căn cứ thiết kế cơ sở hoặc thông số kỹ thuật đã được phê duyệt; tiêu chuẩn đánh giá về kỹ thuật của gói thầu. Hồ sơ mời thầu phải cho phép nhà thầu được đề xuất phương án thay thế cho phương án kỹ thuật đã chào trong hồ sơ dự thầu, không yêu cầu nhà thầu đề xuất về giá dự thầu và bảo đảm dự thầu.
+
+<a id="dieu-51-khoan-3"></a>
+**3.** Thẩm định, phê duyệt hồ sơ mời thầu:
+
+a) Hồ sơ mời thầu được thẩm định theo quy định tại Điều 129 của Nghị định này trước khi phê duyệt;
+
+b) Việc phê duyệt hồ sơ mời thầu căn cứ vào tờ trình phê duyệt, báo cáo thẩm định hồ sơ mời thầu.
+
+
+<a id="dieu-52"></a>
+### Điều 52. Tổ chức đấu thầu giai đoạn một
+
+<a id="dieu-52-khoan-1"></a>
+**1.** Việc mời thầu giai đoạn một thực hiện theo quy định tại khoản 1 Điều 26 của Nghị định này.
+
+<a id="dieu-52-khoan-2"></a>
+**2.** Việc phát hành, sửa đổi, làm rõ hồ sơ mời thầu thực hiện theo quy định tại khoản 2 Điều 26 của Nghị định này.
+
+<a id="dieu-52-khoan-3"></a>
+**3.** Việc chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu thực hiện theo quy định tại khoản 3 Điều 26 của Nghị định này.
+
+<a id="dieu-52-khoan-4"></a>
+**4.** Mở thầu:
+
+a) Việc mở thầu thực hiện theo quy định tại khoản 4 Điều 26 của Nghị định này;
+
+b) Biên bản mở thầu giai đoạn một không bao gồm các thông tin về bảo đảm dự thầu, giá dự thầu và giá trị giảm giá của các nhà thầu.
+
+
+<a id="dieu-53"></a>
+### Điều 53. Đánh giá hồ sơ đề xuất về kỹ thuật, trình, thẩm định, phê duyệt, công khai danh sách nhà thầu đáp ứng yêu cầu của hồ sơ mời thầu giai đoạn một
+
+<a id="dieu-53-khoan-1"></a>
+**1.** Nguyên tắc đánh giá hồ sơ dự thầu thực hiện theo quy định tại Điều 27 của Nghị định này.
+
+<a id="dieu-53-khoan-2"></a>
+**2.** Việc làm rõ hồ sơ dự thầu thực hiện theo quy định tại Điều 28 của Nghị định này.
+
+<a id="dieu-53-khoan-3"></a>
+**3.** Việc trình, thẩm định, phê duyệt, công khai danh sách nhà thầu đáp ứng yêu cầu của hồ sơ mời thầu giai đoạn một thực hiện theo quy định tại Điều 31 của Nghị định này. Danh sách nhà thầu đáp ứng yêu cầu của hồ sơ mời thầu giai đoạn một được đăng tải trên Hệ thống mạng đấu thầu quốc gia chậm nhất là 05 ngày làm việc kể từ ngày phê duyệt.
+
+
+<a id="dieu-54"></a>
+### Điều 54. Chuẩn bị, tổ chức đấu thầu giai đoạn hai
+
+<a id="dieu-54-khoan-1"></a>
+**1.** Trao đổi về hồ sơ dự thầu giai đoạn một:
+
+Bên mời thầu mời từng nhà thầu có hồ sơ đề xuất về kỹ thuật đã được phê duyệt đáp ứng yêu cầu của hồ sơ mời thầu giai đoạn một để làm rõ các nội dung về hồ sơ đề xuất kỹ thuật. Việc làm rõ hồ sơ đề xuất về kỹ thuật bao gồm các yêu cầu cần điều chỉnh về kỹ thuật so với đề xuất của nhà thầu tại giai đoạn một và các ý kiến góp ý về nội dung của hồ sơ mời thầu, phương án kỹ thuật thay thế của nhà thầu. Nội dung làm rõ được bên mời thầu và từng nhà thầu lập thành biên bản. Bên mời thầu phải bảo đảm thông tin trong hồ sơ dự thầu giai đoạn một của các nhà thầu không bị tiết lộ.
+
+Trên cơ sở nội dung làm rõ đề xuất về kỹ thuật với từng nhà thầu, bên mời thầu tổng hợp, báo cáo chủ đầu tư các nội dung cần điều chỉnh, bổ sung về chỉ dẫn nhà thầu, tiêu chuẩn đánh giá, yêu cầu kỹ thuật, điều kiện hợp đồng và các nội dung khác của hồ sơ mời thầu giai đoạn một. Chủ đầu tư có trách nhiệm xem xét, quyết định các nội dung điều chỉnh, bổ sung trên cơ sở đề xuất của bên mời thầu.
+
+<a id="dieu-54-khoan-2"></a>
+**2.** Lập hồ sơ mời thầu giai đoạn hai:
+
+a) Căn cứ lập hồ sơ mời thầu:
+
+Ngoài các căn cứ quy định tại khoản 1 và khoản 2 Điều 24 của Nghị định này, hồ sơ mời thầu giai đoạn hai phải căn cứ vào nội dung đã được chủ đầu tư quyết định điều chỉnh, bổ sung về chỉ dẫn nhà thầu, tiêu chuẩn đánh giá, yêu cầu kỹ thuật, điều kiện hợp đồng và các nội dung khác của hồ sơ mời thầu giai đoạn một;
+
+b) Nội dung hồ sơ mời thầu:
+
+Hồ sơ mời thầu bao gồm các nội dung sau: chỉ dẫn nhà thầu, tùy chọn mua thêm (nếu có); bảng dữ liệu đấu thầu; tiêu chuẩn đánh giá về tính hợp lệ của hồ sơ dự thầu; năng lực, kinh nghiệm của nhà thầu; kỹ thuật; tài chính, thương mại; thông tin về kết quả thực hiện hợp đồng của nhà thầu và chất lượng hàng hóa tương tự đã sử dụng; biểu mẫu mời thầu và dự thầu; phạm vi cung cấp, yêu cầu về kỹ thuật; điều kiện và biểu mẫu hợp đồng; các hồ sơ, bản vẽ và nội dung khác (nếu có).
+
+<a id="dieu-54-khoan-3"></a>
+**3.** Thẩm định, phê duyệt hồ sơ mời thầu:
+
+a) Hồ sơ mời thầu được thẩm định theo quy định tại Điều 129 của Nghị định này trước khi phê duyệt;
+
+b) Việc phê duyệt hồ sơ mời thầu được thực hiện bằng văn bản căn cứ vào tờ trình phê duyệt, báo cáo thẩm định hồ sơ mời thầu.
+
+<a id="dieu-54-khoan-4"></a>
+**4.** Tổ chức đấu thầu:
+
+a) Hồ sơ mời thầu giai đoạn hai được phát hành cho các nhà thầu trong danh sách nhà thầu đáp ứng yêu cầu của hồ sơ mời thầu giai đoạn một.
+
+Việc sửa đổi, làm rõ hồ sơ mời thầu giai đoạn hai thực hiện theo quy định tại khoản 2 Điều 26 của Nghị định này;
+
+b) Chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu:
+
+Việc chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu thực hiện theo quy định tại khoản 3 Điều 26 của Nghị định này. Nhà thầu nộp hồ sơ dự thầu bao gồm đề xuất về kỹ thuật và đề xuất về tài chính riêng biệt theo yêu cầu của hồ sơ mời thầu giai đoạn hai, trong đó có giá dự thầu và bảo đảm dự thầu. Hồ sơ đề xuất tài chính được chào tương ứng theo phương án đề xuất kỹ thuật chính của nhà thầu; trường hợp nhà thầu chào phương án kỹ thuật thay thế thì phải gửi kèm theo phần đề xuất tài chính cho phương án thay thế này.
+
+<a id="dieu-54-khoan-5"></a>
+**5.** Mở hồ sơ đề xuất về kỹ thuật:
+
+Việc mở hồ sơ đề xuất về kỹ thuật thực hiện theo quy định tại khoản 4 Điều 38 của Nghị định này.
+
+
+<a id="dieu-55"></a>
+### Điều 55. Đánh giá hồ sơ đề xuất về kỹ thuật giai đoạn hai
+
+<a id="dieu-55-khoan-1"></a>
+**1.** Nguyên tắc đánh giá hồ sơ dự thầu thực hiện theo quy định tại Điều 27 của Nghị định này.
+
+<a id="dieu-55-khoan-2"></a>
+**2.** Việc làm rõ hồ sơ dự thầu thực hiện theo quy định tại Điều 28 của Nghị định này.
+
+
+<a id="dieu-56"></a>
+### Điều 56. Trình, thẩm định, phê duyệt danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật giai đoạn hai
+
+<a id="dieu-56-khoan-1"></a>
+**1.** Trình, thẩm định, phê duyệt danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật giai đoạn hai thực hiện theo quy định tại khoản 1 và khoản 3 Điều 130 của Nghị định này.
+
+<a id="dieu-56-khoan-2"></a>
+**2.** Bên mời thầu thông báo, đăng tải danh sách các nhà thầu đáp ứng yêu cầu về kỹ thuật trên Hệ thống mạng đấu thầu quốc gia chậm nhất là 05 ngày làm việc kể từ ngày danh sách này được phê duyệt và tiến hành mở hồ sơ đề xuất về tài chính đối với các nhà thầu đáp ứng yêu cầu về kỹ thuật.
+
+
+<a id="dieu-57"></a>
+### Điều 57. Đánh giá hồ sơ đề xuất về tài chính giai đoạn hai
+
+<a id="dieu-57-khoan-1"></a>
+**1.** Nguyên tắc đánh giá hồ sơ dự thầu thực hiện theo quy định tại Điều 27 của Nghị định này.
+
+<a id="dieu-57-khoan-2"></a>
+**2.** Việc làm rõ hồ sơ dự thầu thực hiện theo quy định tại Điều 28 của Nghị định này.
+
+<a id="dieu-57-khoan-3"></a>
+**3.** Việc sửa lỗi và hiệu chỉnh sai lệch thực hiện theo quy định tại Điều 29 của Nghị định này.
+
+<a id="dieu-57-khoan-4"></a>
+**4.** Việc đánh giá hồ sơ đề xuất về tài chính thực hiện theo quy định tại Điều 42 của Nghị định này.
+
+
+<a id="dieu-58"></a>
+### Điều 58. Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu, hoàn thiện, ký kết và quản lý thực hiện hợp đồng
+
+<a id="dieu-58-khoan-1"></a>
+**1.** Nhà thầu xếp hạng thứ nhất được bên mời thầu mời đến thương thảo hợp đồng.
+
+<a id="dieu-58-khoan-2"></a>
+**2.** Việc thương thảo hợp đồng thực hiện theo quy định tại Điều 43 của Nghị định này.
+
+<a id="dieu-58-khoan-3"></a>
+**3.** Việc trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu thực hiện theo quy định tại Điều 31 của Nghị định này.
+
+<a id="dieu-58-khoan-4"></a>
+**4.** Việc hoàn thiện, ký kết và quản lý thực hiện hợp đồng thực hiện theo quy định tại Điều 32 và Điều 33 của Nghị định này.
+
+## Chương IV. 
+
+__QUY TRÌNH ĐẤU THẦU RỘNG RÃI, HẠN CHẾ KHÔNG QUA MẠNG ĐỐI VỚI GÓI THẦU CUNG CẤP DỊCH VỤ TƯ VẤN__
+
+### Mục 1. NHÀ THẦU LÀ TỔ CHỨC
+
+
+<a id="dieu-59"></a>
+### Điều 59. Quy trình chi tiết
+
+<a id="dieu-59-khoan-1"></a>
+**1.** Chuẩn bị lựa chọn nhà thầu, bao gồm:
+
+a) Lựa chọn danh sách ngắn (nếu cần thiết);
+
+b) Lập hồ sơ mời thầu;
+
+c) Thẩm định và phê duyệt hồ sơ mời thầu.
+
+<a id="dieu-59-khoan-2"></a>
+**2.** Tổ chức lựa chọn nhà thầu, bao gồm:
+
+a) Mời thầu;
+
+b) Phát hành, sửa đổi, làm rõ hồ sơ mời thầu;
+
+c) Chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu;
+
+d) Mở hồ sơ đề xuất về kỹ thuật.
+
+<a id="dieu-59-khoan-3"></a>
+**3.** Đánh giá hồ sơ đề xuất về kỹ thuật, bao gồm:
+
+a) Kiểm tra, đánh giá tính hợp lệ của hồ sơ đề xuất về kỹ thuật;
+
+b) Đánh giá chi tiết hồ sơ đề xuất về kỹ thuật;
+
+c) Trình, thẩm định, phê duyệt danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật.
+
+<a id="dieu-59-khoan-4"></a>
+**4.** Mở và đánh giá hồ sơ đề xuất về tài chính, bao gồm:
+
+a) Mở hồ sơ đề xuất về tài chính của các nhà thầu đạt yêu cầu về kỹ thuật;
+
+b) Kiểm tra, đánh giá tính hợp lệ của hồ sơ đề xuất về tài chính;
+
+c) Đánh giá chi tiết hồ sơ đề xuất về tài chính;
+
+d) Xếp hạng nhà thầu (nếu có nhiều hơn 01 nhà thầu).
+
+<a id="dieu-59-khoan-5"></a>
+**5.** Thương thảo hợp đồng.
+
+<a id="dieu-59-khoan-6"></a>
+**6.** Trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu và giải thích lý do nhà thầu không trúng thầu theo yêu cầu của nhà thầu (nếu có).
+
+<a id="dieu-59-khoan-7"></a>
+**7.** Hoàn thiện, ký kết và quản lý thực hiện hợp đồng.
+
+
+<a id="dieu-60"></a>
+### Điều 60. Lựa chọn danh sách ngắn
+
+<a id="dieu-60-khoan-1"></a>
+**1.** Căn cứ quy mô, tính chất của gói thầu, người có thẩm quyền quyết định áp dụng thủ tục lựa chọn danh sách ngắn. Việc áp dụng thủ tục lựa chọn danh sách ngắn phải được ghi trong kế hoạch lựa chọn nhà thầu.
+
+<a id="dieu-60-khoan-2"></a>
+**2.** Đối với đấu thầu rộng rãi:
+
+a) Lập hồ sơ mời quan tâm:
+
+Hồ sơ mời quan tâm bao gồm các nội dung: thông tin tóm tắt về dự án, dự toán mua sắm, gói thầu; chỉ dẫn việc chuẩn bị và nộp hồ sơ quan tâm; tiêu chuẩn đánh giá về tính hợp lệ của hồ sơ quan tâm; tiêu chuẩn về năng lực, kinh nghiệm của nhà thầu; tiêu chuẩn về nhân sự (nếu có). Tiêu chuẩn đánh giá hồ sơ quan tâm được xây dựng trên cơ sở sử dụng phương pháp chấm điểm, trong đó quy định mức điểm yêu cầu tối thiểu không thấp hơn 60% tổng số điểm;
+
+b) Hồ sơ mời quan tâm được thẩm định theo quy định tại Điều 129 của Nghị định này trước khi phê duyệt;
+
+c) Việc phê duyệt hồ sơ mời quan tâm được thực hiện bằng văn bản căn cứ vào tờ trình đề nghị phê duyệt, báo cáo thẩm định hồ sơ mời quan tâm;
+
+d) Thông báo mời quan tâm thực hiện theo quy định tại điểm b khoản 1 Điều 8 của Luật Đấu thầu;
+
+đ) Hồ sơ mời quan tâm được phát hành miễn phí trên Hệ thống mạng đấu thầu quốc gia;
+
+e) Bên mời thầu tiếp nhận và quản lý các hồ sơ quan tâm đã nộp theo chế độ quản lý hồ sơ mật cho đến khi công khai kết quả mời quan tâm;
+
+g) Mở và đánh giá hồ sơ quan tâm:
+
+Hồ sơ quan tâm được nộp trong thời hạn và địa điểm quy định tại hồ sơ mời quan tâm sẽ được mở ngay sau thời điểm đóng thầu. Việc mở hồ sơ quan tâm phải được lập thành biên bản, gửi cho các nhà thầu nộp hồ sơ quan tâm; được đăng tải trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 24 giờ kể từ thời điểm mở thầu. Hồ sơ quan tâm được gửi đến sau thời điểm đóng thầu là không hợp lệ, không được mở và bị loại.
+
+Việc đánh giá hồ sơ quan tâm thực hiện theo tiêu chuẩn đánh giá quy định trong hồ sơ mời quan tâm. Hồ sơ quan tâm của nhà thầu có số điểm được đánh giá không thấp hơn mức điểm yêu cầu tối thiểu được đưa vào danh sách ngắn; hồ sơ quan tâm của nhà thầu có số điểm cao nhất được xếp thứ nhất; trường hợp có nhiều hơn 06 nhà thầu đạt yêu cầu thì lựa chọn 06 nhà thầu xếp hạng cao nhất vào danh sách ngắn;
+
+h) Trình, thẩm định và phê duyệt kết quả mời quan tâm:
+
+Trên cơ sở báo cáo kết quả đánh giá hồ sơ quan tâm, bên mời thầu trình phê duyệt kết quả mời quan tâm, trong đó nêu rõ ý kiến của bên mời thầu về các nội dung đánh giá của tổ chuyên gia.
+
+Kết quả mời quan tâm được thẩm định theo quy định tại khoản 1 và khoản 2 Điều 130 của Nghị định này và được phê duyệt bằng văn bản căn cứ vào tờ trình phê duyệt, báo cáo thẩm định kết quả đánh giá hồ sơ quan tâm. Trường hợp lựa chọn được danh sách ngắn, văn bản phê duyệt kết quả mời quan tâm bao gồm tên các nhà thầu được lựa chọn vào danh sách ngắn và các nội dung cần lưu ý (nếu có). Trường hợp không lựa chọn được danh sách ngắn, văn bản phê duyệt kết quả mời quan tâm phải nêu rõ lý do không lựa chọn được danh sách ngắn;
+
+i) Danh sách ngắn được đăng tải theo quy định tại điểm b khoản 1 Điều 8 của Luật Đấu thầu và thông báo đến các nhà thầu nộp hồ sơ quan tâm.
+
+<a id="dieu-60-khoan-3"></a>
+**3.** Đối với đấu thầu hạn chế:
+
+a) Xác định, phê duyệt danh sách ngắn gồm tối thiểu 03 nhà thầu có năng lực, kinh nghiệm đáp ứng yêu cầu của gói thầu và có nhu cầu tham dự thầu. Trường hợp có ít hơn 03 nhà thầu đáp ứng yêu cầu thì xử lý tình huống theo quy định tại khoản 3 Điều 131 của Nghị định này;
+
+b) Sau khi phê duyệt, danh sách ngắn được đăng tải theo quy định tại điểm b khoản 1 Điều 8 của Luật Đấu thầu.
+
+<a id="dieu-60-khoan-4"></a>
+**4.** Các nhà thầu có tên trong danh sách ngắn không được liên danh với nhau để tham dự thầu; trường hợp liên danh với nhà thầu ngoài danh sách ngắn thì phải được sự chấp thuận của chủ đầu tư trước thời điểm đóng thầu.
+
+
+<a id="dieu-61"></a>
+### Điều 61. Lập hồ sơ mời thầu
+
+<a id="dieu-61-khoan-1"></a>
+**1.** Căn cứ lập hồ sơ mời thầu:
+
+a) Kế hoạch tổng thể lựa chọn nhà thầu được duyệt (nếu có);
+
+b) Kế hoạch lựa chọn nhà thầu được duyệt;
+
+c) Phạm vi, yêu cầu về công việc; yêu cầu về kinh nghiệm và nhân sự của tư vấn và các yêu cầu cần thiết khác (nếu có);
+
+d) Các quy định của pháp luật về đấu thầu và các quy định của pháp luật liên quan; điều ước quốc tế, thỏa thuận vay (nếu có) đối với các dự án sử dụng vốn hỗ trợ phát triển chính thức, vốn vay ưu đãi;
+
+đ) Các quy định của pháp luật về thuế, phí, ưu đãi trong lựa chọn nhà thầu;
+
+e) Các căn cứ liên quan khác.
+
+<a id="dieu-61-khoan-2"></a>
+**2.** Hồ sơ mời thầu phải bao gồm đầy đủ các nội dung cần thiết để nhà thầu lập hồ sơ dự thầu và không được nêu bất cứ điều kiện nào nhằm hạn chế sự tham gia của nhà thầu hoặc nhằm tạo lợi thế cho một hoặc một số nhà thầu gây ra sự cạnh tranh không bình đẳng theo quy định tại điểm k khoản 6 Điều 16 và khoản 3 Điều 44 của Luật Đấu thầu. Bộ Kế hoạch và Đầu tư hướng dẫn chi tiết về danh sách hành vi vi phạm quy định tại khoản 3 Điều 44 của Luật Đấu thầu dẫn đến nội dung của hồ sơ mời thầu bị coi là vô hiệu, không phải là căn cứ để đánh giá hồ sơ dự thầu.
+
+<a id="dieu-61-khoan-3"></a>
+**3.** Hồ sơ mời thầu quy định nội dung đánh giá tính hợp lệ của hồ sơ đề xuất về kỹ thuật và hồ sơ đề xuất về tài chính của nhà thầu, bao gồm:
+
+a) Hồ sơ đề xuất về kỹ thuật được đánh giá là hợp lệ khi đáp ứng các điều kiện sau:
+
+Có bản gốc hồ sơ đề xuất về kỹ thuật;
+
+Có đơn dự thầu thuộc hồ sơ đề xuất về kỹ thuật được đại diện hợp pháp của nhà thầu ký tên, đóng dấu (nếu có) theo yêu cầu của hồ sơ mời thầu; thời gian ký đơn dự thầu phải sau thời điểm phát hành hồ sơ mời thầu; không kèm theo điều kiện gây bất lợi cho chủ đầu tư. Đối với nhà thầu liên danh, đơn dự thầu phải do đại diện hợp pháp của từng thành viên liên danh ký tên, đóng dấu (nếu có) hoặc thành viên được phân công thay mặt liên danh ký đơn dự thầu theo phân công trách nhiệm trong thỏa thuận liên danh;
+
+Đã thực hiện nghĩa vụ kê khai thuế và nộp thuế;
+
+Hiệu lực của hồ sơ đề xuất về kỹ thuật đáp ứng yêu cầu theo quy định trong hồ sơ mời thầu;
+
+Không có tên trong hai hoặc nhiều hồ sơ đề xuất về kỹ thuật với tư cách là nhà thầu độc lập hoặc thành viên trong liên danh;
+
+Có thỏa thuận liên danh (trong trường hợp liên danh) được đại diện hợp pháp của từng thành viên liên danh ký tên, đóng dấu (nếu có); trong thỏa thuận liên danh phải nêu rõ nội dung công việc cụ thể và ước tính giá trị tương ứng mà từng thành viên trong liên danh sẽ thực hiện. Việc phân chia công việc trong liên danh phải căn cứ các hạng mục công việc nêu trong điều khoản tham chiếu, đề xuất kỹ thuật, không được phân chia các công việc không thuộc các hạng mục này;
+
+Nhà thầu bảo đảm tư cách hợp lệ theo quy định tại Điều 5 của Luật Đấu thầu;
+
+Trong thời hạn 03 năm trước thời điểm đóng thầu, nhà thầu không có nhân sự (ký kết hợp đồng lao động với nhà thầu tại thời điểm nhân sự thực hiện hành vi vi phạm) bị Tòa án kết án có hành vi vi phạm quy định về đấu thầu gây hậu quả nghiêm trọng theo quy định pháp luật về hình sự nhằm mục đích cho nhà thầu đó trúng thầu;
+
+b) Hồ sơ đề xuất về tài chính được đánh giá là hợp lệ khi đáp ứng các điều kiện sau:
+
+Có bản gốc hồ sơ đề xuất về tài chính;
+
+Có đơn dự thầu thuộc hồ sơ đề xuất về tài chính được đại diện hợp pháp của nhà thầu ký tên, đóng dấu (nếu có) theo yêu cầu của hồ sơ mời thầu; thời gian ký đơn dự thầu phải sau thời điểm phát hành hồ sơ mời thầu; không đề xuất các giá dự thầu khác nhau hoặc có kèm theo điều kiện gây bất lợi cho chủ đầu tư. Đối với nhà thầu liên danh, đơn dự thầu phải do đại diện hợp pháp của từng thành viên liên danh ký tên, đóng dấu (nếu có) hoặc thành viên được phân công thay mặt liên danh ký đơn dự thầu theo phân công trách nhiệm trong thỏa thuận liên danh;
+
+Hiệu lực của hồ sơ đề xuất về tài chính đáp ứng yêu cầu theo quy định trong hồ sơ mời thầu.
+
+<a id="dieu-61-khoan-4"></a>
+**4.** Tiêu chuẩn đánh giá hồ sơ dự thầu bao gồm: tiêu chuẩn đánh giá về kỹ thuật; xác định giá thấp nhất (đối với trường hợp áp dụng phương pháp giá thấp nhất); tiêu chuẩn đánh giá tổng hợp (đối với trường hợp áp dụng phương pháp kết hợp giữa kỹ thuật và giá).
+
+<a id="dieu-61-khoan-5"></a>
+**5.** Tiêu chuẩn đánh giá về kỹ thuật: sử dụng phương pháp chấm điểm, gồm:
+
+a) Kinh nghiệm và năng lực nhà thầu: từ 0% đến 15% tổng số điểm;
+
+b) Uy tín của nhà thầu thông qua việc tham dự thầu, kết quả thực hiện hợp đồng của nhà thầu theo quy định tại Điều 17 và Điều 18 của Nghị định này: 5% tổng số điểm;
+
+c) Giải pháp và phương pháp luận để thực hiện gói thầu: từ 30% đến 40% tổng số điểm;
+
+d) Nhân sự thực hiện gói thầu: từ 50% đến 60% tổng số điểm;
+
+đ) Tùy theo tính chất của gói thầu, hồ sơ mời thầu có thể yêu cầu về chuyển giao công nghệ với tỷ trọng điểm từ 0% đến 10% tổng số điểm;
+
+e) Tổng tỷ trọng điểm của nội dung quy định tại các điểm a, b, c, d và đ khoản này bằng 100%.
+
+Hồ sơ đề xuất về kỹ thuật được đánh giá đáp ứng yêu cầu về kỹ thuật khi có điểm về kỹ thuật không thấp hơn 70% tổng số điểm (80% đối với gói thầu dịch vụ tư vấn có yêu cầu kỹ thuật cao, đặc thù) và điểm của từng nội dung yêu cầu về giải pháp và phương pháp luận, về nhân sự, về chuyển giao công nghệ (nếu có) không thấp hơn 60% điểm tối đa của nội dung đó (không thấp hơn 70% đối với gói thầu dịch vụ tư vấn có yêu cầu kỹ thuật cao, đặc thù). Đối với tiêu chuẩn về kinh nghiệm và năng lực của nhà thầu, căn cứ tính chất gói thầu để xác định sự cần thiết quy định về điểm tối thiểu đối với tiêu chuẩn tổng quát này.
+
+<a id="dieu-61-khoan-6"></a>
+**6.** Căn cứ quy mô, tính chất gói thầu, hồ sơ mời thầu quy định phương pháp đánh giá về tài chính theo một trong các phương pháp sau đây:
+
+a) Phương pháp giá thấp nhất;
+
+b) Phương pháp kết hợp giữa kỹ thuật và giá;
+
+c) Phương pháp dựa trên kỹ thuật.
+
+<a id="dieu-61-khoan-7"></a>
+**7.** Việc xác định giá thấp nhất (đối với trường hợp áp dụng phương pháp giá thấp nhất) thực hiện theo quy định tại điểm c khoản 4 Điều 24 của Nghị định này.
+
+<a id="dieu-61-khoan-8"></a>
+**8.** Tiêu chuẩn đánh giá tổng hợp (đối với trường hợp áp dụng phương pháp kết hợp giữa kỹ thuật và giá):
+
+a) Xác định điểm giá:
+
+Sử dụng thang điểm thống nhất với thang điểm về kỹ thuật để xác định điểm giá. Điểm giá được xác định như sau:
+
+Điểm giáđang xét =
+
+Gthấp nhất x (thang điểm kỹ thuật)
+
+Gđang xét
+
+Trong đó:
+
+Điểm giáđang xét: Điểm giá của hồ sơ đề xuất về tài chính đang xét;
+
+Gthấp nhất: Giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) thấp nhất trong số các nhà thầu được đánh giá chi tiết về tài chính;
+
+Gđang xét: Giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của hồ sơ đề xuất về tài chính đang xét.
+
+b) Tiêu chuẩn đánh giá tổng hợp:
+
+Điểm tổng hợp được xác định theo công thức sau đây:
+
+Điểm tổng hợpđang xét = K x Điểm kỹ thuậtđang xét \+ G x Điểm giáđang xét
+
+Trong đó:
+
+Điểm kỹ thuậtđang xét: là số điểm được xác định tại bước đánh giá về kỹ thuật;
+
+Điểm giáđang xét: là số điểm được xác định tại bước đánh giá về giá;
+
+K: tỷ trọng điểm về kỹ thuật quy định trong thang điểm tổng hợp, chiếm tỷ lệ từ 70% đến 80%;
+
+G: tỷ trọng điểm về giá quy định trong thang điểm tổng hợp, chiếm tỷ lệ từ 20% đến 30%;
+
+K \+ G = 100%.
+
+
+<a id="dieu-62"></a>
+### Điều 62. Thẩm định và phê duyệt hồ sơ mời thầu
+
+<a id="dieu-62-khoan-1"></a>
+**1.** Hồ sơ mời thầu được thẩm định theo quy định tại Điều 129 của Nghị định này trước khi phê duyệt.
+
+<a id="dieu-62-khoan-2"></a>
+**2.** Việc phê duyệt hồ sơ mời thầu phải được thực hiện bằng văn bản căn cứ vào tờ trình phê duyệt, báo cáo thẩm định hồ sơ mời thầu.
+
+
+<a id="dieu-63"></a>
+### Điều 63. Tổ chức lựa chọn nhà thầu
+
+<a id="dieu-63-khoan-1"></a>
+**1.** Mời thầu:
+
+a) Trường hợp gói thầu không áp dụng thủ tục lựa chọn danh sách ngắn, thông báo mời thầu được thực hiện theo quy định tại điểm b khoản 1 Điều 8 của Luật Đấu thầu;
+
+b) Trường hợp gói thầu áp dụng thủ tục lựa chọn danh sách ngắn, thư mời thầu được gửi đến các nhà thầu có tên trong danh sách ngắn.
+
+<a id="dieu-63-khoan-2"></a>
+**2.** Việc phát hành, sửa đổi, làm rõ hồ sơ mời thầu thực hiện theo quy định tại khoản 2 Điều 26 của Nghị định này.
+
+<a id="dieu-63-khoan-3"></a>
+**3.** Việc chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút hồ sơ dự thầu thực hiện theo quy định tại khoản 3 Điều 26 của Nghị định này.
+
+<a id="dieu-63-khoan-4"></a>
+**4.** Việc mở hồ sơ đề xuất về kỹ thuật thực hiện theo quy định tại khoản 4 Điều 38 của Nghị định này nhưng không bao gồm nội dung về bảo đảm dự thầu. Biên bản mở thầu phải được gửi cho các nhà thầu tham dự thầu; được đăng tải trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 24 giờ kể từ thời điểm mở thầu.
+
+
+<a id="dieu-64"></a>
+### Điều 64. Nguyên tắc đánh giá hồ sơ dự thầu
+
+<a id="dieu-64-khoan-1"></a>
+**1.** Việc đánh giá hồ sơ dự thầu phải căn cứ vào tiêu chuẩn đánh giá hồ sơ dự thầu và các yêu cầu khác trong hồ sơ mời thầu, căn cứ vào hồ sơ dự thầu đã nộp, các tài liệu giải thích, làm rõ hồ sơ dự thầu của nhà thầu để bảo đảm lựa chọn được nhà thầu có đủ năng lực và kinh nghiệm, có giải pháp khả thi để thực hiện gói thầu; trường hợp hồ sơ mời thầu có các nội dung làm hạn chế cạnh tranh theo quy định tại khoản 2 Điều 61 của Nghị định này thì các nội dung này không phải căn cứ để xem xét đánh giá hồ sơ dự thầu.
+
+<a id="dieu-64-khoan-2"></a>
+**2.** Trường hợp hợp đồng có tính chất tương tự mà nhà thầu đã thực hiện nêu trong hồ sơ dự thầu không đáp ứng yêu cầu của hồ sơ mời thầu, bên mời thầu yêu cầu nhà thầu bổ sung, thay thế hợp đồng khác để đánh giá trong thời hạn phù hợp.
+
+<a id="dieu-64-khoan-3"></a>
+**3.** Việc đánh giá hồ sơ dự thầu được thực hiện trên bản chụp, nhà thầu phải chịu trách nhiệm về tính thống nhất giữa bản gốc và bản chụp. Trường hợp có sự sai khác giữa bản gốc và bản chụp nhưng không làm thay đổi thứ tự xếp hạng nhà thầu thì căn cứ vào bản gốc để đánh giá. Trường hợp có sự sai khác giữa bản gốc và bản chụp dẫn đến kết quả đánh giá trên bản gốc khác kết quả đánh giá trên bản chụp, làm thay đổi thứ tự xếp hạng nhà thầu thì hồ sơ dự thầu của nhà thầu bị loại, nhà thầu bị coi là có hành vi gian lận và bị xử lý theo quy định tại điểm a khoản 1 Điều 125 của Nghị định này.
+
+
+<a id="dieu-65"></a>
+### Điều 65. Làm rõ hồ sơ dự thầu
+
+<a id="dieu-65-khoan-1"></a>
+**1.** Sau khi mở thầu, nhà thầu có trách nhiệm làm rõ hồ sơ dự thầu theo yêu cầu của bên mời thầu. Trường hợp hồ sơ dự thầu của nhà thầu thiếu tài liệu về tư cách hợp lệ, hợp đồng có tính chất tương tự, nghĩa vụ kê khai thuế và nộp thuế, tài liệu về nhân sự cụ thể đã được đề xuất trong hồ sơ dự thầu thì bên mời thầu yêu cầu nhà thầu làm rõ, bổ sung tài liệu.
+
+<a id="dieu-65-khoan-2"></a>
+**2.** Trường hợp sau khi đóng thầu, nhà thầu phát hiện hồ sơ dự thầu thiếu các tài liệu chứng minh về tư cách hợp lệ, hợp đồng có tính chất tương tự, nghĩa vụ kê khai thuế và nộp thuế, tài liệu về nhân sự cụ thể đã được đề xuất trong hồ sơ dự thầu thì được gửi tài liệu đến bên mời thầu. Bên mời thầu có trách nhiệm tiếp nhận những tài liệu bổ sung, làm rõ của nhà thầu để xem xét, đánh giá; các tài liệu bổ sung, làm rõ là một phần của hồ sơ dự thầu.
+
+<a id="dieu-65-khoan-3"></a>
+**3.** Đối với nội dung về tư cách hợp lệ, việc làm rõ phải bảo đảm nguyên tắc không làm thay đổi bản chất của nhà thầu tham dự thầu. Đối với các nội dung về tính hợp lệ của hồ sơ dự thầu (trừ nội dung về tư cách hợp lệ), đề xuất về kỹ thuật, tài chính, việc làm rõ phải bảo đảm nguyên tắc không làm thay đổi nội dung cơ bản của hồ sơ dự thầu đã nộp, không thay đổi giá dự thầu.
+
+<a id="dieu-65-khoan-4"></a>
+**4.** Việc làm rõ hồ sơ dự thầu được thực hiện giữa bên mời thầu và nhà thầu có hồ sơ dự thầu cần làm rõ. Nội dung làm rõ hồ sơ dự thầu phải thể hiện bằng văn bản và được bên mời thầu bảo quản như một phần của hồ sơ dự thầu.
+
+<a id="dieu-65-khoan-5"></a>
+**5.** Trường hợp có nghi ngờ về tính xác thực của các tài liệu do nhà thầu cung cấp, bên mời thầu được xác minh với các tổ chức, cá nhân có liên quan đến nội dung của tài liệu.
+
+
+<a id="dieu-66"></a>
+### Điều 66. Sửa lỗi và hiệu chỉnh sai lệch
+
+<a id="dieu-66-khoan-1"></a>
+**1.** Đối với các loại hợp đồng quy định tại Điều 64 của Luật Đấu thầu, trường hợp trong hồ sơ đề xuất về tài chính, nhà thầu không chào giá cho một hoặc nhiều hạng mục công việc đã nêu trong hồ sơ đề xuất về kỹ thuật theo yêu cầu của hồ sơ mời thầu thì nhà thầu được coi là đã chào giá cho các hạng mục công việc này và phân bổ chi phí vào các phần công việc khác của gói thầu.
+
+<a id="dieu-66-khoan-2"></a>
+**2.** Đối với hợp đồng theo thời gian:
+
+a) Trường hợp tổng giá trị của các hạng mục không chính xác do lỗi khi cộng trừ giá trị của các hạng mục thì giá trị của các hạng mục là cơ sở để sửa lỗi;
+
+b) Trường hợp có lỗi khi cộng trừ các giá trị ở cột thành tiền để tính toán giá dự thầu thì các giá trị ở cột thành tiền là cơ sở cho việc sửa lỗi;
+
+c) Trường hợp không nhất quán giữa đơn giá và thành tiền thì lấy đơn giá làm cơ sở cho việc sửa lỗi. Trường hợp có sự không nhất quán giữa giá dự thầu ghi bằng số và giá dự thầu ghi bằng chữ thì giá dự thầu ghi bằng chữ là cơ sở để sửa lỗi; trường hợp giá dự thầu ghi bằng chữ có sai sót về lỗi số học thì giá dự thầu ghi bằng số là cơ sở để sửa lỗi sau khi được chuẩn xác (nếu có) theo điểm a và điểm b khoản này;
+
+d) Trường hợp có sự khác biệt giữa đề xuất về kỹ thuật và đề xuất về tài chính về số lượng nhân sự tham gia thực hiện gói thầu, số ngày công, số lượng trong từng hạng mục chi phí ngoài lương, số lượng trong các yếu tố đầu vào khác đã chào trong đề xuất kỹ thuật và đề xuất tài chính thì số lượng thuộc đề xuất về kỹ thuật là cơ sở để sửa lỗi, hiệu chỉnh sai lệch. Việc hiệu chỉnh sai lệch trong trường hợp này được thực hiện theo số lượng, khối lượng nêu trong đề xuất kỹ thuật với đơn giá nêu trong đề xuất tài chính.
+
+<a id="dieu-66-khoan-3"></a>
+**3.** Đối với hợp đồng trọn gói:
+
+Trường hợp áp dụng hợp đồng trọn gói, giá dự thầu sau giảm giá (nếu có) mà nhà thầu đề xuất trong đơn dự thầu thuộc hồ sơ đề xuất về tài chính được coi là đã bao gồm toàn bộ các chi phí cần thiết để thực hiện gói thầu theo phạm vi công việc nêu trong hồ sơ mời thầu, không sửa lỗi, hiệu chỉnh sai lệch. Trường hợp có sự không nhất quán giữa giá dự thầu ghi bằng số và giá dự thầu ghi bằng chữ trong đơn dự thầu thì lấy giá dự thầu ghi bằng chữ, trừ trường hợp giá dự thầu ghi bằng chữ không có nghĩa.
+
+<a id="dieu-66-khoan-4"></a>
+**4.** Đối với hợp đồng theo đơn giá cố định, hợp đồng theo đơn giá điều chỉnh:
+
+Việc sửa lỗi, hiệu chỉnh sai lệch được thực hiện theo quy định tại Điều 29 của Nghị định này.
+
+<a id="dieu-66-khoan-5"></a>
+**5.** Sau khi sửa lỗi, hiệu chỉnh sai lệch theo quy định tại các khoản 1, 2, 3 và 4 Điều này, bên mời thầu phải thông báo bằng văn bản cho nhà thầu về việc sửa lỗi, hiệu chỉnh sai lệch đối với hồ sơ dự thầu của nhà thầu. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông báo của bên mời thầu, nhà thầu phải có văn bản thông báo cho bên mời thầu về việc chấp thuận kết quả sửa lỗi, hiệu chỉnh sai lệch theo thông báo của bên mời thầu. Trường hợp nhà thầu không chấp thuận kết quả sửa lỗi, hiệu chỉnh sai lệch theo thông báo của bên mời thầu thì hồ sơ dự thầu của nhà thầu đó sẽ bị loại, trừ trường hợp việc sửa lỗi, hiệu chỉnh sai lệch của bên mời thầu là không phù hợp, không chính xác.
+
+
+<a id="dieu-67"></a>
+### Điều 67. Kiểm tra và đánh giá hồ sơ đề xuất về kỹ thuật
+
+<a id="dieu-67-khoan-1"></a>
+**1.** Kiểm tra tính hợp lệ của hồ sơ đề xuất về kỹ thuật:
+
+Việc kiểm tra tính hợp lệ của hồ sơ đề xuất về kỹ thuật thực hiện theo quy định tại khoản 1 Điều 40 của Nghị định này, trừ nội dung về tính hợp lệ của bảo đảm dự thầu.
+
+<a id="dieu-67-khoan-2"></a>
+**2.** Đánh giá tính hợp lệ của hồ sơ đề xuất về kỹ thuật:
+
+Hồ sơ đề xuất về kỹ thuật của nhà thầu được đánh giá là hợp lệ khi đáp ứng đầy đủ các quy định tại điểm a khoản 3 Điều 61 của Nghị định này. Nhà thầu có hồ sơ đề xuất về kỹ thuật hợp lệ được xem xét, đánh giá về kỹ thuật.
+
+<a id="dieu-67-khoan-3"></a>
+**3.** Đánh giá về kỹ thuật:
+
+a) Việc đánh giá về kỹ thuật thực hiện theo tiêu chuẩn đánh giá quy định trong hồ sơ mời thầu;
+
+b) Đối với một vị trí nhân sự chủ chốt, hồ sơ dự thầu chào thừa hoặc thiếu số lượng theo yêu cầu của hồ sơ mời thầu thì không đáp ứng về kỹ thuật;
+
+c) Nhà thầu đáp ứng yêu cầu về kỹ thuật hoặc đạt điểm kỹ thuật cao nhất (đối với phương pháp dựa trên kỹ thuật) được mở và đánh giá hồ sơ đề xuất về tài chính.
+
+<a id="dieu-67-khoan-4"></a>
+**4.** Danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật phải được chủ đầu tư phê duyệt bằng văn bản căn cứ vào tờ trình phê duyệt, báo cáo thẩm định danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật. Bên mời thầu phải thông báo danh sách các nhà thầu đáp ứng và nhà thầu không đáp ứng yêu cầu về kỹ thuật, nêu rõ lý do không đáp ứng và mời tất cả các nhà thầu tham dự thầu đến mở hồ sơ đề xuất về tài chính. Bên mời thầu phải đăng tải danh sách nhà thầu đáp ứng về kỹ thuật trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 05 ngày làm việc kể từ ngày phê duyệt danh sách này.
+
+
+<a id="dieu-68"></a>
+### Điều 68. Mở, kiểm tra và đánh giá hồ sơ đề xuất về tài chính
+
+<a id="dieu-68-khoan-1"></a>
+**1.** Việc mở hồ sơ đề xuất về tài chính thực hiện theo quy định tại Điều 41 của Nghị định này; đối với gói thầu áp dụng phương pháp dựa trên kỹ thuật, chỉ mở hồ sơ đề xuất của nhà thầu có điểm kỹ thuật cao nhất.
+
+<a id="dieu-68-khoan-2"></a>
+**2.** Việc đánh giá tính hợp lệ của hồ sơ đề xuất về tài chính thực hiện theo quy định tại điểm b khoản 3 Điều 61 của Nghị định này.
+
+Nhà thầu có hồ sơ đề xuất về tài chính hợp lệ sẽ được đánh giá chi tiết về tài chính.
+
+<a id="dieu-68-khoan-3"></a>
+**3.** Việc đánh giá chi tiết hồ sơ đề xuất về tài chính và xếp hạng nhà thầu thực hiện theo quy định tại khoản 3 Điều 42 của Nghị định này.
+
+
+<a id="dieu-69"></a>
+### Điều 69. Thương thảo hợp đồng
+
+<a id="dieu-69-khoan-1"></a>
+**1.** Nhà thầu xếp hạng thứ nhất được bên mời thầu mời đến thương thảo hợp đồng. Việc thương thảo hợp đồng thực hiện theo quy định tại khoản 2 Điều 43 của Nghị định này.
+
+<a id="dieu-69-khoan-2"></a>
+**2.** Nội dung thương thảo hợp đồng:
+
+a) Thương thảo về những nội dung chưa đủ chi tiết, chưa rõ hoặc chưa phù hợp, thống nhất giữa hồ sơ mời thầu và hồ sơ dự thầu, giữa các nội dung khác nhau trong hồ sơ dự thầu có thể dẫn đến các phát sinh, tranh chấp hoặc ảnh hưởng đến trách nhiệm của các bên trong quá trình thực hiện hợp đồng;
+
+b) Thương thảo về các sai lệch do nhà thầu đã phát hiện và đề xuất trong hồ sơ dự thầu (nếu có), bao gồm cả các đề xuất thay đổi hoặc phương án thay thế của nhà thầu nếu trong hồ sơ mời thầu có quy định cho phép nhà thầu chào phương án thay thế;
+
+c) Thương thảo về nhân sự:
+
+Trong quá trình thương thảo, nhà thầu không được thay đổi nhân sự đã đề xuất trong hồ sơ dự thầu, trừ trường hợp phải thay thế nhân sự do thời gian đánh giá hồ sơ dự thầu kéo dài hơn so với dự kiến trong kế hoạch lựa chọn nhà thầu hoặc vì lý do bất khả kháng mà các vị trí nhân sự chủ chốt do nhà thầu đã đề xuất không thể tham gia thực hiện hợp đồng. Trong các trường hợp này, nhân sự dự kiến thay thế phải có trình độ, kinh nghiệm và năng lực tương đương hoặc cao hơn nhân sự đã đề xuất và nhà thầu không được thay đổi giá dự thầu;
+
+d) Thương thảo về các vấn đề phát sinh trong quá trình lựa chọn nhà thầu (nếu có) nhằm mục tiêu hoàn thiện các nội dung chi tiết của gói thầu;
+
+đ) Thương thảo về các chi phí liên quan đến dịch vụ tư vấn trên cơ sở phù hợp với yêu cầu của gói thầu và điều kiện thực tế;
+
+e) Thương thảo về các nội dung cần thiết khác.
+
+<a id="dieu-69-khoan-3"></a>
+**3.** Trong quá trình thương thảo hợp đồng, các bên tham gia thương thảo tiến hành hoàn thiện dự thảo văn bản hợp đồng, điều kiện cụ thể của hợp đồng.
+
+<a id="dieu-69-khoan-4"></a>
+**4.** Sau khi hoàn thành thương thảo hợp đồng, bên mời thầu lập tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu gửi chủ đầu tư phê duyệt theo quy định tại Điều 70 của Nghị định này. Tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu phải bao gồm các nội dung sau đây:
+
+a) Kết quả đánh giá đối với từng hồ sơ dự thầu;
+
+b) Danh sách nhà thầu được xem xét, xếp hạng và thứ tự xếp hạng nhà thầu;
+
+c) Kết quả thương thảo hợp đồng;
+
+d) Danh sách nhà thầu không đáp ứng yêu cầu và bị loại; lý do loại bỏ nhà thầu;
+
+đ) Tên nhà thầu được đề nghị trúng thầu, giá đề nghị trúng thầu, loại hợp đồng, thời gian thực hiện gói thầu và thời gian thực hiện hợp đồng;
+
+e) Nhận xét về tính cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế trong quá trình tổ chức lựa chọn nhà thầu. Trường hợp chưa bảo đảm cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế, phải nêu rõ lý do và đề xuất biện pháp xử lý;
+
+g) Những nội dung của hồ sơ mời thầu không phù hợp với quy định của pháp luật về đấu thầu hoặc nội dung có thể dẫn đến cách hiểu không rõ hoặc khác nhau trong quá trình thực hiện hoặc có thể làm sai lệch kết quả lựa chọn nhà thầu (nếu có) và đề xuất biện pháp xử lý;
+
+h) Những nội dung cần lưu ý (nếu có).
+
+<a id="dieu-69-khoan-5"></a>
+**5.** Trường hợp thương thảo không thành công, bên mời thầu báo cáo chủ đầu tư xem xét, quyết định mời nhà thầu xếp hạng tiếp theo vào thương thảo.
+
+
+<a id="dieu-70"></a>
+### Điều 70. Trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu, hoàn thiện, ký kết và quản lý thực hiện hợp đồng
+
+Việc trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu, hoàn thiện, ký kết và quản lý thực hiện hợp đồng thực hiện theo quy định tại các Điều 31, 32 và 33 của Nghị định này.
+
+### Mục 2. NHÀ THẦU LÀ CÁ NHÂN
+
+
+<a id="dieu-71"></a>
+### Điều 71. Lựa chọn tư vấn cá nhân
+
+<a id="dieu-71-khoan-1"></a>
+**1.** Tư vấn cá nhân có thể bao gồm một hoặc một nhóm chuyên gia. Trường hợp tư vấn là nhóm chuyên gia thì các chuyên gia cử đại diện để giao dịch với bên mời thầu, chủ đầu tư. Đối với nhóm chuyên gia, trường hợp trúng thầu, tất cả các thành viên trong nhóm chuyên gia phải trực tiếp ký hợp đồng với chủ đầu tư. Việc lựa chọn tư vấn cá nhân được thực hiện theo phương pháp giá cố định trên cơ sở năng lực và kinh nghiệm của tư vấn cá nhân.
+
+<a id="dieu-71-khoan-2"></a>
+**2.** Đối với gói thầu dịch vụ tư vấn cá nhân có giá gói thầu không quá 200 triệu đồng, việc lựa chọn nhà thầu được thực hiện theo quy trình rút gọn quy định tại Điều 74 và Điều 75 của Nghị định này. Đối với gói thầu dịch vụ tư vấn cá nhân có giá gói thầu trên 200 triệu đồng, việc lựa chọn nhà thầu được thực hiện theo quy trình thông thường quy định tại Điều 72 và Điều 73 của Nghị định này.
+
+
+<a id="dieu-72"></a>
+### Điều 72. Lập, trình và phê duyệt điều khoản tham chiếu theo quy trình thông thường
+
+<a id="dieu-72-khoan-1"></a>
+**1.** Bên mời thầu tổ chức lập điều khoản tham chiếu đối với vị trí tư vấn cá nhân cần tuyển chọn trình chủ đầu tư phê duyệt. Nội dung điều khoản tham chiếu bao gồm:
+
+a) Mô tả tóm tắt về dự án, dự toán mua sắm;
+
+b) Yêu cầu về phạm vi, khối lượng, chất lượng và thời gian thực hiện gói thầu;
+
+c) Yêu cầu về năng lực, trình độ của chuyên gia tư vấn;
+
+d) Các điều kiện và địa điểm thực hiện hợp đồng;
+
+đ) Giá gói thầu theo phương pháp giá cố định;
+
+e) Các nội dung cần thiết khác (nếu có).
+
+<a id="dieu-72-khoan-2"></a>
+**2.** Căn cứ tài liệu do bên mời thầu trình, chủ đầu tư xem xét, phê duyệt điều khoản tham chiếu.
+
+
+<a id="dieu-73"></a>
+### Điều 73. Đăng tải thông báo mời thầu và đánh giá hồ sơ lý lịch khoa học của tư vấn cá nhân; phê duyệt kết quả lựa chọn nhà thầu; ký kết hợp đồng; đăng tải kết quả lựa chọn tư vấn cá nhân theo quy trình thông thường
+
+<a id="dieu-73-khoan-1"></a>
+**1.** Sau khi điều khoản tham chiếu được phê duyệt, bên mời thầu đăng tải thông báo mời thầu kèm theo điều khoản tham chiếu trên Hệ thống mạng đấu thầu quốc gia, trong đó nêu rõ thời hạn nhận hồ sơ lý lịch khoa học. Thời gian tối thiểu để tư vấn cá nhân chuẩn bị hồ sơ lý lịch khoa học là 05 ngày làm việc.
+
+Trường hợp cần làm rõ nội dung điều khoản tham chiếu, tổ chức, cá nhân thực hiện làm rõ trên Hệ thống mạng đấu thầu quốc gia trong thời hạn tối thiểu là 03 ngày làm việc trước ngày có thời điểm đóng thầu để xem xét, xử lý. Bên mời thầu trả lời yêu cầu làm rõ trên Hệ thống mạng đấu thầu quốc gia trong thời hạn tối thiểu 02 ngày làm việc trước ngày có thời điểm đóng thầu.
+
+Trường hợp sửa đổi điều khoản tham chiếu sau khi phát hành, bên mời thầu phải đăng tải quyết định sửa đổi kèm theo điều khoản tham chiếu sửa đổi và các nội dung sửa đổi điều khoản tham chiếu trên Hệ thống mạng đấu thầu quốc gia trong thời hạn tối thiểu 03 ngày làm việc trước ngày có thời điểm đóng thầu.
+
+<a id="dieu-73-khoan-2"></a>
+**2.** Nộp hồ sơ lý lịch khoa học:
+
+Tư vấn cá nhân chuẩn bị hồ sơ lý lịch khoa học theo yêu cầu nêu trong điều khoản tham chiếu, đề xuất kỹ thuật (nếu có) và nộp trên Hệ thống mạng đấu thầu quốc gia.
+
+<a id="dieu-73-khoan-3"></a>
+**3.** Đánh giá hồ sơ lý lịch khoa học:
+
+Căn cứ nội dung của điều khoản tham chiếu, bên mời thầu đánh giá hồ sơ lý lịch khoa học của từng tư vấn cá nhân. Tư vấn cá nhân có tư cách hợp lệ theo quy định tại khoản 3 Điều 5 của Luật Đấu thầu; có hồ sơ lý lịch khoa học và đề xuất kỹ thuật (nếu có) tốt nhất, đáp ứng yêu cầu của điều khoản tham chiếu được xếp hạng thứ nhất.
+
+<a id="dieu-73-khoan-4"></a>
+**4.** Thương thảo hợp đồng:
+
+Bên mời thầu mời tư vấn cá nhân xếp hạng thứ nhất đến thương thảo hợp đồng theo nội dung của điều khoản tham chiếu đã được phê duyệt bao gồm nội dung về phạm vi công việc, tiến độ thực hiện công việc, yêu cầu về báo cáo công việc, chi phí tư vấn, giá hợp đồng và các nội dung cần thiết khác. Kết quả thương thảo hợp đồng được lập thành biên bản và phải được bên mời thầu và tư vấn cá nhân ký xác nhận.
+
+<a id="dieu-73-khoan-5"></a>
+**5.** Việc phê duyệt kết quả lựa chọn tư vấn cá nhân căn cứ vào tờ trình đề nghị phê duyệt, báo cáo kết quả đánh giá hồ sơ lý lịch khoa học của các tư vấn cá nhân, kết quả thương thảo hợp đồng. Hợp đồng ký kết giữa các bên phải phù hợp với quyết định phê duyệt kết quả lựa chọn tư vấn cá nhân, kết quả thương thảo hợp đồng, nội dung của điều khoản tham chiếu và các tài liệu liên quan khác.
+
+<a id="dieu-73-khoan-6"></a>
+**6.** Việc đăng tải kết quả lựa chọn tư vấn cá nhân được thực hiện trên Hệ thống mạng đấu thầu quốc gia theo quy định tại điểm a khoản 1 và khoản 4 Điều 8 của Luật Đấu thầu.
+
+
+<a id="dieu-74"></a>
+### Điều 74. Lập, trình và phê duyệt điều khoản tham chiếu, danh sách tư vấn cá nhân theo quy trình rút gọn
+
+<a id="dieu-74-khoan-1"></a>
+**1.** Việc lập, trình và phê duyệt điều khoản tham chiếu được thực hiện theo quy định tại Điều 72 của Nghị định này.
+
+<a id="dieu-74-khoan-2"></a>
+**2.** Bên mời thầu xác định danh sách tối thiểu 03 tư vấn cá nhân trình chủ đầu tư phê duyệt.
+
+<a id="dieu-74-khoan-3"></a>
+**3.** Căn cứ tài liệu do bên mời thầu trình, chủ đầu tư xem xét, phê duyệt điều khoản tham chiếu và danh sách tư vấn cá nhân.
+
+
+<a id="dieu-75"></a>
+### Điều 75. Gửi thư mời và đánh giá hồ sơ lý lịch khoa học của tư vấn cá nhân; phê duyệt kết quả lựa chọn nhà thầu; ký kết hợp đồng; đăng tải kết quả lựa chọn tư vấn cá nhân theo quy trình rút gọn
+
+<a id="dieu-75-khoan-1"></a>
+**1.** Sau khi điều khoản tham chiếu và danh sách tư vấn cá nhân được phê duyệt, bên mời thầu gửi thư mời và điều khoản tham chiếu đến các tư vấn cá nhân có tên trong danh sách, trong đó nêu rõ thời hạn và địa chỉ nhận hồ sơ lý lịch khoa học. Thời gian tối thiểu để tư vấn cá nhân chuẩn bị hồ sơ lý lịch khoa học là 03 ngày làm việc.
+
+<a id="dieu-75-khoan-2"></a>
+**2.** Nộp hồ sơ lý lịch khoa học:
+
+Tư vấn cá nhân chuẩn bị hồ sơ lý lịch khoa học theo yêu cầu nêu trong điều khoản tham chiếu và đề xuất kỹ thuật (nếu có) nộp cho bên mời thầu trong thời hạn, địa chỉ nêu tại thư mời.
+
+<a id="dieu-75-khoan-3"></a>
+**3.** Việc đánh giá hồ sơ lý lịch khoa học của tư vấn cá nhân; thương thảo hợp đồng; phê duyệt kết quả lựa chọn nhà thầu; ký kết hợp đồng; đăng tải kết quả lựa chọn tư vấn cá nhân thực hiện theo quy định tại các khoản 3, 4, 5 và 6 Điều 73 của Nghị định này.
+
+## Chương V. 
+
+__QUY TRÌNH CHỈ ĐỊNH THẦU, CHÀO HÀNG CẠNH TRANH, MUA SẮM TRỰC TIẾP, TỰ THỰC HIỆN, LỰA CHỌN NHÀ THẦU TRONG TRƯỜNG HỢP ĐẶC BIỆT VÀ LỰA CHỌN NHÀ THẦU THỰC HIỆN GÓI THẦU CÓ SỰ THAM GIA THỰC HIỆN CỦA CỘNG ĐỒNG__
+
+### Mục 1. CHỈ ĐỊNH THẦU
+
+
+<a id="dieu-76"></a>
+### Điều 76. Quy trình chỉ định thầu thông thường áp dụng trong trường hợp chỉ có một nhà thầu được xác định để nhận hồ sơ yêu cầu
+
+<a id="dieu-76-khoan-1"></a>
+**1.** Việc chỉ định thầu phải được phê duyệt trong kế hoạch lựa chọn nhà thầu. Quy trình chỉ định thầu thông thường được áp dụng đối với gói thầu quy định tại các điểm d, đ, e, g, h, i, k và l khoản 1 Điều 23 của Luật Đấu thầu; chủ đầu tư quyết định gửi hồ sơ yêu cầu cho một nhà thầu.
+
+<a id="dieu-76-khoan-2"></a>
+**2.** Chuẩn bị lựa chọn nhà thầu:
+
+a) Lập hồ sơ yêu cầu:
+
+Nội dung hồ sơ yêu cầu bao gồm: thông tin tóm tắt về dự án, dự toán mua sắm, gói thầu; chỉ dẫn việc chuẩn bị và nộp hồ sơ đề xuất; tiêu chuẩn đánh giá về năng lực, kinh nghiệm của nhà thầu; tiêu chuẩn đánh giá về kỹ thuật; xác định giá chỉ định thầu; điều kiện về hợp đồng.
+
+Sử dụng tiêu chí đạt, không đạt để đánh giá về năng lực, kinh nghiệm và đánh giá về kỹ thuật. Hồ sơ yêu cầu được nêu rõ ký mã hiệu, nhãn hiệu, xuất xứ cụ thể của hàng hóa, các yêu cầu về kỹ thuật, dịch vụ có liên quan (nếu có);
+
+b) Trình, thẩm định và phê duyệt hồ sơ yêu cầu: hồ sơ yêu cầu phải được thẩm định theo quy định tại Điều 129 của Nghị định này trước khi phê duyệt. Việc phê duyệt hồ sơ yêu cầu phải được thực hiện bằng văn bản căn cứ vào tờ trình phê duyệt, báo cáo thẩm định hồ sơ yêu cầu;
+
+c) Xác định nhà thầu dự kiến được mời nhận hồ sơ yêu cầu:
+
+Căn cứ quy mô, tính chất của gói thầu và thông tin sơ bộ về nhà thầu có khả năng thực hiện gói thầu, chủ đầu tư xác định một nhà thầu dự kiến được mời nhận hồ sơ yêu cầu; không phải đánh giá về năng lực và kinh nghiệm của nhà thầu dự kiến được mời nhận hồ sơ yêu cầu khi xác định nhà thầu này.
+
+Nhà thầu được dự kiến chỉ định thầu và nhận hồ sơ yêu cầu khi có tư cách hợp lệ quy định tại các điểm a, b, c, d, e, g và i khoản 1 Điều 5 của Luật Đấu thầu; đối với nhà thầu là hộ kinh doanh khi có tư cách hợp lệ quy định tại các điểm a, b khoản 2 và các điểm d, e khoản 1 Điều 5 của Luật Đấu thầu. Đối với gói thầu mua sắm hàng hóa, nhà thầu là cá nhân, nhóm cá nhân chào thầu sản phẩm đổi mới sáng tạo của mình được dự kiến chỉ định thầu và nhận hồ sơ yêu cầu khi đáp ứng tư cách hợp lệ quy định tại khoản 3 Điều 5 của Luật Đấu thầu.
+
+<a id="dieu-76-khoan-3"></a>
+**3.** Tổ chức lựa chọn nhà thầu:
+
+a) Hồ sơ yêu cầu được phát hành cho nhà thầu dự kiến chỉ định;
+
+b) Nhà thầu chuẩn bị và nộp hồ sơ đề xuất căn cứ hồ sơ yêu cầu.
+
+<a id="dieu-76-khoan-4"></a>
+**4.** Đánh giá hồ sơ đề xuất và thương thảo về các đề xuất của nhà thầu:
+
+a) Việc đánh giá hồ sơ đề xuất được thực hiện theo tiêu chuẩn đánh giá quy định trong hồ sơ yêu cầu. Trong quá trình đánh giá, bên mời thầu mời nhà thầu đến thương thảo (nếu có), làm rõ hoặc sửa đổi, bổ sung nội dung hồ sơ đề xuất để chứng minh việc đáp ứng yêu cầu về năng lực, kinh nghiệm, tiến độ, khối lượng, chất lượng, giải pháp kỹ thuật và biện pháp tổ chức thực hiện gói thầu;
+
+b) Nhà thầu được đề nghị chỉ định thầu khi đáp ứng đầy đủ các điều kiện: có hồ sơ đề xuất hợp lệ; có năng lực, kinh nghiệm và đề xuất kỹ thuật đáp ứng yêu cầu của hồ sơ yêu cầu; có giá đề nghị trúng thầu không vượt giá gói thầu được duyệt.
+
+<a id="dieu-76-khoan-5"></a>
+**5.** Trình, thẩm định, phê duyệt và công khai kết quả chỉ định thầu
+
+Việc trình, thẩm định, phê duyệt và công khai kết quả chỉ định thầu theo quy định tại Điều 31 của Nghị định này.
+
+<a id="dieu-76-khoan-6"></a>
+**6.** Hoàn thiện, ký kết và quản lý thực hiện hợp đồng:
+
+Hợp đồng ký kết giữa các bên phải phù hợp với quyết định phê duyệt kết quả chỉ định thầu, hồ sơ đề xuất, hồ sơ yêu cầu và các tài liệu liên quan khác. Việc hoàn thiện, ký kết và quản lý thực hiện hợp đồng thực hiện theo quy định tại Điều 32 và Điều 33 của Nghị định này.
+
+
+<a id="dieu-77"></a>
+### Điều 77. Quy trình chỉ định thầu thông thường áp dụng trong trường hợp chủ đầu tư gửi hồ sơ yêu cầu cho nhiều hơn một nhà thầu
+
+<a id="dieu-77-khoan-1"></a>
+**1.** Việc chỉ định thầu phải được phê duyệt trong kế hoạch lựa chọn nhà thầu. Đối với gói thầu thuộc trường hợp quy định tại các điểm đ, e, h, k và l khoản 1 Điều 23 của Luật Đấu thầu, chủ đầu tư quyết định chọn một nhà thầu dự kiến chỉ định và gửi hồ sơ yêu cầu cho nhà thầu đó theo quy trình quy định tại Điều 76 của Nghị định này hoặc xác định, phê duyệt danh sách dự kiến mời nhận hồ sơ yêu cầu gồm nhiều hơn một nhà thầu theo quy trình quy định tại Điều này.
+
+<a id="dieu-77-khoan-2"></a>
+**2.** Lập, thẩm định và phê duyệt hồ sơ yêu cầu:
+
+a) Lập hồ sơ yêu cầu:
+
+Nội dung hồ sơ yêu cầu bao gồm: thông tin tóm tắt về dự án, dự toán mua sắm, gói thầu; chỉ dẫn việc chuẩn bị và nộp hồ sơ đề xuất; tiêu chuẩn đánh giá về năng lực, kinh nghiệm của nhà thầu; tiêu chuẩn đánh giá về kỹ thuật, xác định giá thấp nhất; điều kiện về hợp đồng.
+
+Sử dụng tiêu chí đạt, không đạt để đánh giá về năng lực, kinh nghiệm và đánh giá về kỹ thuật. Hồ sơ yêu cầu được nêu rõ ký mã hiệu, nhãn hiệu, xuất xứ cụ thể của hàng hóa, các yêu cầu về kỹ thuật, dịch vụ có liên quan (nếu có);
+
+b) Trình, thẩm định và phê duyệt hồ sơ yêu cầu:
+
+Hồ sơ yêu cầu được thẩm định theo quy định tại Điều 129 của Nghị định này trước khi phê duyệt. Việc phê duyệt hồ sơ yêu cầu được thực hiện bằng văn bản căn cứ vào tờ trình phê duyệt, báo cáo thẩm định hồ sơ yêu cầu;
+
+c) Xác định danh sách nhà thầu dự kiến được mời nhận hồ sơ yêu cầu:
+
+Căn cứ quy mô, tính chất của gói thầu và thông tin sơ bộ về nhà thầu có khả năng thực hiện gói thầu, chủ đầu tư xác định tối thiểu 03 nhà thầu dự kiến được mời nhận hồ sơ yêu cầu; không phải đánh giá về năng lực và kinh nghiệm của nhà thầu dự kiến được mời nhận hồ sơ yêu cầu khi xác định các nhà thầu này.
+
+Nhà thầu dự kiến được mời nhận hồ sơ yêu cầu khi có tư cách hợp lệ theo quy định tại các điểm a, b, c, d, e, g và i khoản 1 Điều 5 của Luật Đấu thầu; đối với nhà thầu là hộ kinh doanh khi có tư cách hợp lệ quy định tại các điểm a, b khoản 2 và các điểm d, e khoản 1 Điều 5 của Luật Đấu thầu. Đối với gói thầu mua sắm hàng hóa, nhà thầu là cá nhân, nhóm cá nhân chào thầu sản phẩm đổi mới sáng tạo của mình dự kiến được mời nhận hồ sơ yêu cầu khi đáp ứng tư cách hợp lệ quy định tại khoản 3 Điều 5 của Luật Đấu thầu.
+
+<a id="dieu-77-khoan-3"></a>
+**3.** Tổ chức lựa chọn nhà thầu:
+
+a) Hồ sơ yêu cầu được phát hành cho các nhà thầu có tên trong danh sách được mời nhận hồ sơ yêu cầu;
+
+b) Nhà thầu chuẩn bị và nộp hồ sơ đề xuất căn cứ hồ sơ yêu cầu.
+
+<a id="dieu-77-khoan-4"></a>
+**4.** Đánh giá và làm rõ hồ sơ đề xuất, sửa lỗi và hiệu chỉnh sai lệch, xếp hạng nhà thầu:
+
+a) Hồ sơ đề xuất được đánh giá theo nguyên tắc quy định tại Điều 27 hoặc Điều 64 của Nghị định này;
+
+b) Việc làm rõ hồ sơ đề xuất thực hiện theo quy định tại Điều 28 hoặc Điều 65 của Nghị định này;
+
+c) Việc sửa lỗi và hiệu chỉnh sai lệch thực hiện theo quy định tại Điều 29 hoặc Điều 66 của Nghị định này;
+
+d) Việc đánh giá hồ sơ đề xuất thực hiện theo quy định tại Điều 30 hoặc Điều 67, Điều 68 của Nghị định này;
+
+đ) Việc xếp hạng nhà thầu thực hiện theo quy định trong hồ sơ yêu cầu.
+
+<a id="dieu-77-khoan-5"></a>
+**5.** Thương thảo hợp đồng (nếu có):
+
+Trường hợp áp dụng thương thảo hợp đồng, bên mời thầu mời nhà thầu xếp thứ nhất đến thương thảo hợp đồng. Trong quá trình thương thảo, bên mời thầu có thể yêu cầu nhà thầu làm rõ hoặc sửa đổi, bổ sung nội dung hồ sơ đề xuất để chứng minh việc đáp ứng yêu cầu về năng lực, kinh nghiệm, tiến độ, khối lượng, chất lượng, giải pháp kỹ thuật và biện pháp tổ chức thực hiện gói thầu. Trường hợp thương thảo không thành công, bên mời thầu báo cáo chủ đầu tư xem xét, quyết định mời nhà thầu xếp hạng tiếp theo vào thương thảo.
+
+<a id="dieu-77-khoan-6"></a>
+**6.** Trình, thẩm định, phê duyệt và công khai kết quả chỉ định thầu:
+
+Việc trình, thẩm định, phê duyệt và công khai kết quả chỉ định thầu thực hiện theo quy định tại Điều 31 của Nghị định này.
+
+<a id="dieu-77-khoan-7"></a>
+**7.** Hoàn thiện, ký kết và quản lý thực hiện hợp đồng:
+
+Hợp đồng ký kết giữa các bên phải phù hợp với quyết định phê duyệt kết quả chỉ định thầu, hồ sơ đề xuất, hồ sơ yêu cầu và các tài liệu liên quan khác. Việc hoàn thiện, ký kết và quản lý thực hiện hợp đồng thực hiện theo quy định tại Điều 32 và Điều 33 của Nghị định này.
+
+
+<a id="dieu-78"></a>
+### Điều 78. Quy trình chỉ định thầu rút gọn
+
+<a id="dieu-78-khoan-1"></a>
+**1.** Việc chỉ định thầu rút gọn đối với trường hợp quy định tại các điểm a, b và c khoản 1 Điều 23 của Luật Đấu thầu không phải phê duyệt trong kế hoạch lựa chọn nhà thầu.
+
+<a id="dieu-78-khoan-2"></a>
+**2.** Căn cứ quy mô, tính chất của gói thầu và thông tin sơ bộ về nhà thầu có khả năng thực hiện gói thầu, chủ đầu tư hoặc cơ quan trực tiếp quản lý gói thầu xác định và giao cho nhà thầu có năng lực, kinh nghiệm thực hiện ngay gói thầu. Trong thời hạn 15 ngày kể từ ngày bắt đầu thực hiện gói thầu, các bên phải hoàn thiện thủ tục chỉ định thầu bao gồm các bước sau:
+
+a) Chuẩn bị và gửi dự thảo hợp đồng cho nhà thầu trong đó xác định yêu cầu về phạm vi, nội dung công việc cần thực hiện, thời gian thực hiện, chất lượng công việc cần đạt được và giá trị tương ứng;
+
+b) Hoàn thiện hợp đồng;
+
+c) Trình, phê duyệt kết quả chỉ định thầu;
+
+d) Ký kết hợp đồng với nhà thầu được chỉ định thầu;
+
+đ) Quản lý thực hiện hợp đồng;
+
+e) Công khai kết quả chỉ định thầu trên Hệ thống mạng đấu thầu quốc gia.
+
+<a id="dieu-78-khoan-3"></a>
+**3.** Việc chỉ định thầu đối với gói thầu trong hạn mức chỉ định thầu theo quy định tại điềm m khoản 1 Điều 23 của Luật Đấu thầu phải được phê duyệt trong kế hoạch lựa chọn nhà thầu. Quy trình chỉ định thầu rút gọn được thực hiện như sau:
+
+a) Chuẩn bị và gửi dự thảo hợp đồng cho nhà thầu:
+
+Bên mời thầu căn cứ vào mục tiêu, phạm vi công việc để chuẩn bị và gửi Dự thảo hợp đồng cho nhà thầu được chủ đầu tư dự kiến có khả năng thực hiện gói thầu. Nội dung dự thảo hợp đồng bao gồm các yêu cầu về phạm vi, nội dung công việc cần thực hiện, thời gian thực hiện, chất lượng công việc cần đạt được, giá trị tương ứng và các nội dung cần thiết khác;
+
+b) Hoàn thiện hợp đồng, trình, phê duyệt và công khai kết quả lựa chọn nhà thầu:
+
+Trên cơ sở dự thảo hợp đồng, bên mời thầu và nhà thầu được đề nghị chỉ định thầu tiến hành hoàn thiện hợp đồng làm cơ sở để trình, phê duyệt kết quả lựa chọn nhà thầu và ký kết hợp đồng. Việc công khai kết quả chỉ định thầu theo quy định tại khoản 6 Điều 31 của Nghị định này;
+
+c) Ký kết và quản lý thực hiện hợp đồng:
+
+Hợp đồng ký kết giữa các bên phải phù hợp với quyết định phê duyệt kết quả lựa chọn nhà thầu và các tài liệu liên quan khác. Việc quản lý thực hiện hợp đồng thực hiện theo quy định tại Điều 33 của Nghị định này.
+
+Trường hợp chủ đầu tư không áp dụng quy trình rút gọn quy định tại khoản 2 Điều này mà áp dụng quy trình thông thường thì thực hiện theo quy định tại Điều 76 hoặc Điều 77 của Nghị định này.
+
+### Mục 2. CHÀO HÀNG CẠNH TRANH, MUA SẮM TRỰC TIẾP, TỰ THỰC HIỆN
+
+
+<a id="dieu-79"></a>
+### Điều 79. Quy trình chào hàng cạnh tranh
+
+<a id="dieu-79-khoan-1"></a>
+**1.** Chuẩn bị lựa chọn nhà thầu:
+
+a) Hồ sơ mời thầu được lập căn cứ quy định tại khoản 1 và khoản 2 Điều 24 của Nghị định này. Nội dung hồ sơ mời thầu bao gồm: thông tin tóm tắt về dự án, dự toán mua sắm, gói thầu; chỉ dẫn nhà thầu; bảng dữ liệu đấu thầu; tiêu chuẩn đánh giá về tính hợp lệ của hồ sơ dự thầu; tiêu chuẩn đánh giá về năng lực, kinh nghiệm và đánh giá về kỹ thuật sử dụng tiêu chí đạt, không đạt; tiêu chuẩn đánh giá về tài chính theo phương pháp giá thấp nhất hoặc phương pháp giá đánh giá.
+
+Đối với gói thầu mua sắm hàng hóa, xây lắp, căn cứ vào quy mô, tính chất của gói thầu, hồ sơ mời thầu có thể bao gồm tiêu chuẩn đánh giá về năng lực và kinh nghiệm hoặc không bao gồm tiêu chuẩn này nhưng nhà thầu tham dự thầu phải cam kết có đủ năng lực, kinh nghiệm để thực hiện gói thầu. Đối với gói thầu dịch vụ phi tư vấn, hồ sơ mời thầu không yêu cầu tiêu chuẩn đánh giá về năng lực và kinh nghiệm.
+
+Đối với gói thầu mua sắm hàng hóa, nhà thầu là cá nhân, nhóm cá nhân chào thầu sản phẩm đổi mới sáng tạo của mình đáp ứng quy định tại khoản 4 Điều 5 của Nghị định này không phải đáp ứng một số tiêu chí quy định tại khoản 3 Điều 9 của Nghị định này. Trường hợp nhà thầu là hộ kinh doanh, nhà thầu không phải nộp báo cáo tài chính, không phải đáp ứng yêu cầu về giá trị tài sản ròng;
+
+b) Thẩm định và phê duyệt hồ sơ mời thầu:
+
+Hồ sơ mời thầu được thẩm định theo quy định tại Điều 129 của Nghị định này trước khi phê duyệt. Việc phê duyệt hồ sơ mời thầu căn cứ vào tờ trình phê duyệt, báo cáo thẩm định hồ sơ mời thầu.
+
+<a id="dieu-79-khoan-2"></a>
+**2.** Tổ chức lựa chọn nhà thầu:
+
+a) Bên mời thầu đăng tải thông báo mời thầu và hồ sơ mời thầu trên Hệ thống mạng đấu thầu quốc gia theo quy định tại điểm b khoản 1 Điều 8 của Luật Đấu thầu;
+
+b) Việc sửa đổi, làm rõ hồ sơ mời thầu thực hiện theo quy định tại khoản 2 Điều 26 của Nghị định này;
+
+c) Nhà thầu nộp hồ sơ dự thầu theo yêu cầu của hồ sơ mời thầu trên Hệ thống mạng đấu thầu quốc gia;
+
+d) Bên mời thầu tiến hành mở thầu trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 02 giờ kể từ thời điểm đóng thầu. Biên bản mở thầu bao gồm các nội dung: tên nhà thầu; giá dự thầu; giá trị giảm giá (nếu có); thời gian có hiệu lực của hồ sơ dự thầu; giá trị, thời gian có hiệu lực của bảo đảm dự thầu; thời gian thực hiện gói thầu. Biên bản mở thầu được đăng tải trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 24 giờ kể từ thời điểm mở thầu.
+
+<a id="dieu-79-khoan-3"></a>
+**3.** Đánh giá hồ sơ dự thầu:
+
+a) Nguyên tắc đánh giá hồ sơ dự thầu thực hiện theo quy định tại Điều 27 của Nghị định này;
+
+b) Việc làm rõ hồ sơ dự thầu thực hiện theo quy định tại Điều 28 của Nghị định này;
+
+c) Việc sửa lỗi và hiệu chỉnh sai lệch thực hiện theo quy định tại Điều 29 của Nghị định này;
+
+d) Việc đánh giá hồ sơ dự thầu thực hiện theo quy định tại Điều 30 của Nghị định này;
+
+đ) Việc xếp hạng nhà thầu thực hiện theo quy định trong hồ sơ mời thầu. Nhà thầu có giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch (nếu có), trừ đi giá trị giảm giá (nếu có) thấp nhất đối với phương pháp giá thấp nhất hoặc có giá đánh giá thấp nhất đối với phương pháp giá đánh giá được xếp hạng thứ nhất.
+
+<a id="dieu-79-khoan-4"></a>
+**4.** Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu:
+
+Việc trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu thực hiện theo quy định tại Điều 31 của Nghị định này.
+
+<a id="dieu-79-khoan-5"></a>
+**5.** Hoàn thiện, ký kết và quản lý thực hiện hợp đồng:
+
+Hợp đồng ký kết giữa các bên phải phù hợp với quyết định phê duyệt kết quả lựa chọn nhà thầu, hồ sơ dự thầu, hồ sơ mời thầu và các tài liệu liên quan khác. Việc hoàn thiện, ký kết và quản lý thực hiện hợp đồng thực hiện theo quy định tại Điều 32 và Điều 33 của Nghị định này.
+
+
+<a id="dieu-80"></a>
+### Điều 80. Quy trình mua sắm trực tiếp
+
+<a id="dieu-80-khoan-1"></a>
+**1.** Chủ đầu tư chỉ được áp dụng mua sắm trực tiếp một lần đối với các hàng hóa thuộc gói thầu dự kiến áp dụng mua sắm trực tiếp trong thời gian thực hiện dự án hoặc trong một năm ngân sách, năm tài chính của dự toán mua sắm; đối với dự toán mua sắm, trường hợp gói thầu dự kiến áp dụng mua sắm trực tiếp có thời gian thực hiện dài hơn một năm thì chỉ được áp dụng mua sắm trực tiếp một lần đối với các hàng hóa thuộc gói thầu đó trong tất cả các năm của dự toán mua sắm.
+
+<a id="dieu-80-khoan-2"></a>
+**2.** Chuẩn bị lựa chọn nhà thầu:
+
+a) Lập hồ sơ yêu cầu:
+
+Hồ sơ yêu cầu bao gồm các nội dung thông tin tóm tắt về dự án, dự toán mua sắm, gói thầu; yêu cầu nhà thầu cập nhật thông tin về tư cách hợp lệ, năng lực và kinh nghiệm; yêu cầu về tiến độ cung cấp và cam kết cung cấp hàng hóa bảo đảm quy cách kỹ thuật, chất lượng theo yêu cầu của hồ sơ mời thầu trước đó; yêu cầu về đơn giá của hàng hóa và các nội dung cần thiết khác.
+
+Trường hợp áp dụng mua sắm trực tiếp với nhà thầu khác theo quy định tại khoản 3 Điều 25 của Luật Đấu thầu, hồ sơ yêu cầu bao gồm tiêu chuẩn đánh giá về tư cách hợp lệ, năng lực, kinh nghiệm, kỹ thuật theo quy định tại Điều 24 của Nghị định này;
+
+b) Thẩm định và phê duyệt hồ sơ yêu cầu:
+
+Hồ sơ yêu cầu được thẩm định theo quy định tại Điều 129 của Nghị định này trước khi phê duyệt. Việc phê duyệt hồ sơ yêu cầu căn cứ vào tờ trình phê duyệt, báo cáo thẩm định hồ sơ yêu cầu.
+
+<a id="dieu-80-khoan-3"></a>
+**3.** Hồ sơ yêu cầu được phát hành cho nhà thầu đã được lựa chọn trước đó. Trường hợp nhà thầu này không có khả năng tiếp tục thực hiện hoặc không đồng ý thực hiện gói thầu mua sắm trực tiếp thì chủ đầu tư lựa chọn theo thứ tự ưu tiên: nhà thầu có tên trong danh sách xếp hạng của gói thầu trước đó, nhà thầu khác nếu đáp ứng quy định tại khoản 3 Điều 25 của Luật Đấu thầu.
+
+<a id="dieu-80-khoan-4"></a>
+**4.** Nhà thầu chuẩn bị và nộp hồ sơ đề xuất căn cứ hồ sơ yêu cầu.
+
+<a id="dieu-80-khoan-5"></a>
+**5.** Đánh giá hồ sơ đề xuất và thương thảo về các đề xuất của nhà thầu:
+
+a) Đánh giá hồ sơ đề xuất, gồm: kiểm tra các nội dung về kỹ thuật và đơn giá; cập nhật thông tin về năng lực của nhà thầu; trường hợp áp dụng mua sắm trực tiếp với nhà thầu khác nhà thầu trúng thầu trước đó thì bên mời thầu phải đánh giá về tư cách hợp lệ, năng lực, kinh nghiệm của nhà thầu đó theo quy định tại Điều 30 của Nghị định này; đánh giá tiến độ thực hiện, biện pháp cung cấp hàng hóa, giải pháp kỹ thuật và biện pháp tổ chức thực hiện gói thầu; các nội dung khác (nếu có);
+
+b) Trong quá trình đánh giá, bên mời thầu mời nhà thầu đến thương thảo, làm rõ các nội dung thông tin cần thiết của hồ sơ đề xuất nhằm chứng minh việc đáp ứng yêu cầu về năng lực, tiến độ, chất lượng, giải pháp kỹ thuật và biện pháp tổ chức thực hiện gói thầu.
+
+Trường hợp tại thời điểm áp dụng mua sắm trực tiếp có sự thay đổi quy định của pháp luật về thuế giá trị gia tăng thì đơn giá hàng hóa (bao gồm thuế giá trị gia tăng) của gói thầu áp dụng mua sắm trực tiếp không được vượt giá trị trước thuế của hàng hóa trong hợp đồng đã ký cộng với thuế giá trị gia tăng tại thời điểm áp dụng mua sắm trực tiếp;
+
+c) Nhà thầu được đề nghị trúng thầu khi đáp ứng quy định tại Điều 61 của Luật Đấu thầu và có cùng hãng sản xuất, xuất xứ, ký mã hiệu, nhãn hiệu với hàng hóa trúng thầu trước đó. Trường hợp hàng hóa có phiên bản sản xuất, năm sản xuất mới so với hàng hóa ghi trong hợp đồng thì xử lý tình huống theo quy định tại khoản 27 Điều 131 của Nghị định này.
+
+<a id="dieu-80-khoan-6"></a>
+**6.** Trình, thẩm định, phê duyệt và công khai kết quả mua sắm trực tiếp:
+
+a) Kết quả lựa chọn nhà thầu được thẩm định theo quy định tại khoản 1 và khoản 4 Điều 130 của Nghị định này trước khi phê duyệt;
+
+b) Kết quả lựa chọn nhà thầu được phê duyệt căn cứ vào tờ trình phê duyệt và báo cáo thẩm định kết quả lựa chọn nhà thầu;
+
+c) Kết quả lựa chọn nhà thầu phải được công khai theo quy định tại Điều 31 của Nghị định này.
+
+<a id="dieu-80-khoan-7"></a>
+**7.** Hoàn thiện, ký kết hợp đồng và quản lý thực hiện hợp đồng:
+
+Hợp đồng ký kết giữa các bên phải phù hợp với quyết định phê duyệt kết quả mua sắm trực tiếp, hồ sơ yêu cầu, hồ sơ đề xuất và các tài liệu liên quan khác. Việc hoàn thiện, quản lý thực hiện hợp đồng thực hiện theo quy định tại Điều 32 và Điều 33 của Nghị định này.
+
+
+<a id="dieu-81"></a>
+### Điều 81. Quy trình tự thực hiện
+
+<a id="dieu-81-khoan-1"></a>
+**1.** Chuẩn bị phương án tự thực hiện và dự thảo thỏa thuận giao việc, văn bản giao việc:
+
+Phương án tự thực hiện bao gồm yêu cầu về phạm vi, nội dung công việc; giá trị, thời gian thực hiện; chất lượng công việc cần thực hiện; các điều kiện nghiệm thu, thanh toán; thỏa thuận giao việc hoặc văn bản giao việc đối với đơn vị hạch toán phụ thuộc hoặc đơn vị thuộc mình (sau đây gọi là đơn vị được giao thực hiện gói thầu).
+
+Việc chi trả lương, phụ cấp, chi phí quản lý và các chi phí khác do chủ đầu tư, đơn vị được giao thực hiện gói thầu thỏa thuận.
+
+<a id="dieu-81-khoan-2"></a>
+**2.** Hoàn thiện phương án tự thực hiện:
+
+Chủ đầu tư và đơn vị được giao thực hiện gói thầu thương thảo, hoàn thiện những nội dung chưa đủ chi tiết, chưa rõ hoặc chưa phù hợp, thống nhất trong phương án tự thực hiện, dự thảo thỏa thuận giao việc, văn bản giao việc và các nội dung cần thiết khác.
+
+<a id="dieu-81-khoan-3"></a>
+**3.** Phê duyệt và công khai kết quả lựa chọn nhà thầu.
+
+<a id="dieu-81-khoan-4"></a>
+**4.** Ký kết thỏa thuận giao việc, quản lý việc thực hiện gói thầu:
+
+a) Tổ chức trực tiếp quản lý, sử dụng gói thầu tiến hành ký thỏa thuận giao việc với đơn vị được giao thực hiện gói thầu hoặc ban hành văn bản giao việc;
+
+b) Trường hợp pháp luật có quy định các nội dung công việc thuộc gói thầu phải được giám sát khi thực hiện thì tổ chức trực tiếp quản lý, sử dụng gói thầu lựa chọn theo quy định của Luật Đấu thầu một nhà thầu tư vấn giám sát độc lập về pháp lý và độc lập về tài chính với tổ chức đó để giám sát quá trình thực hiện gói thầu;
+
+c) Trường hợp pháp luật không có quy định hoặc không có tư vấn giám sát độc lập quan tâm hoặc không lựa chọn được tư vấn giám sát độc lập do gói thầu được thực hiện tại địa bàn có điều kiện kinh tế, xã hội khó khăn, gói thầu có giá gói thầu dưới 01 tỷ đồng thì tổ chức trực tiếp quản lý, sử dụng gói thầu phải tự tổ chức thực hiện giám sát.
+
+### Mục 3. LỰA CHỌN NHÀ THẦU TRONG TRƯỜNG HỢP ĐẶC BIỆT
+
+
+<a id="dieu-82"></a>
+### Điều 82. Hồ sơ, quy trình, thủ tục lựa chọn nhà thầu trong trường hợp đặc biệt đối với trường hợp quy định tại các __điểm a, b, c và i khoản 1 Điều 29 của Luật Đấu thầu__
+
+<a id="dieu-82-khoan-1"></a>
+**1.** Đối với trường hợp quy định tại điểm a và điểm b khoản 1 Điều 29 của Luật Đấu thầu:
+
+a) Cơ quan, đơn vị được Bộ trưởng Bộ Y tế giao lập hồ sơ trình Bộ trưởng Bộ Y tế xem xét, quyết định phương án lựa chọn nhà thầu trong trường hợp đặc biệt;
+
+b) Bộ trưởng Bộ Y tế giao cơ quan, đơn vị trực thuộc thẩm định trước khi xem xét, quyết định;
+
+c) Hồ sơ trình thẩm định, phê duyệt phương án lựa chọn nhà thầu trong trường hợp đặc biệt gồm tờ trình và các văn bản, tài liệu liên quan. Tờ trình phê duyệt phương án lựa chọn nhà thầu trong trường hợp đặc biệt bao gồm những nội dung: thông tin cơ bản về dự án, dự toán mua sắm, gói thầu (tên dự án, dự toán mua sắm, gói thầu; nguồn vốn, tổng mức đầu tư của dự án, giá trị dự toán mua sắm, giá gói thầu; thời gian dự kiến thực hiện; các nội dung cần thiết khác); giải trình về sự cần thiết và điều kiện đặc thù đối với một hoặc một số nội dung về quy trình, thủ tục, tiêu chí lựa chọn nhà thầu, điều kiện ký kết, thực hiện hợp đồng, điều kiện khác (nếu có) dẫn đến không thể đáp ứng điều kiện về lựa chọn nhà thầu quy định tại các Điều 21, 22, 23, 24, 25, 26, 27 và 28 của Luật Đấu thầu; dự thảo phương án lựa chọn nhà thầu gồm những nội dung chủ yếu sau: quy trình, thủ tục lựa chọn nhà thầu; điều kiện ký kết, thực hiện hợp đồng và các nội dung liên quan khác để đáp ứng các điều kiện đặc thù của gói thầu, dự án, bảo đảm lựa chọn được nhà thầu có đủ năng lực, kinh nghiệm, giải pháp thực hiện khả thi, hiệu quả.
+
+<a id="dieu-82-khoan-2"></a>
+**2.** Đối với trường hợp quy định tại điểm c khoản 1 Điều 29 của Luật Đấu thầu:
+
+a) Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương (sau đây gọi là Thủ trưởng cơ quan trung ương), Chủ tịch Ủy ban nhân dân cấp tỉnh lập hồ sơ trình Thủ tướng Chính phủ, đồng thời gửi Bộ Kế hoạch và Đầu tư để tổ chức thẩm định;
+
+b) Hồ sơ trình Thủ tướng Chính phủ bao gồm tờ trình và các văn bản, tài liệu liên quan. Tờ trình về lựa chọn nhà thầu trong trường hợp đặc biệt bao gồm những nội dung: thông tin cơ bản về dự án, dự toán mua sắm, gói thầu (tên dự án, dự toán mua sắm, gói thầu; nguồn vốn, tổng mức đầu tư của dự án, giá trị dự toán mua sắm, giá gói thầu; thời gian dự kiến thực hiện; các nội dung cần thiết khác); giải trình về sự cần thiết và điều kiện đặc thù về các yếu tố cần bảo đảm quốc phòng, an ninh, đối ngoại, biên giới lãnh thổ dẫn đến không thể đáp ứng điều kiện về lựa chọn nhà thầu quy định tại các Điều 21, 22, 23, 24, 25, 26, 27 và 28 của Luật Đấu thầu; ý kiến của Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao về các yếu tố cần bảo đảm quốc phòng, an ninh, đối ngoại, biên giới lãnh thổ đối với gói thầu, dự án, dự toán mua sắm; ý kiến của các cơ quan liên quan khác (nếu cần thiết);
+
+c) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ theo quy định tại điểm b khoản này, Bộ Kế hoạch và Đầu tư gửi hồ sơ lấy ý kiến của các bộ, cơ quan có liên quan về nội dung thuộc phạm vi quản lý nhà nước của cơ quan đó (nếu cần thiết). Trong thời hạn 07 ngày làm việc kể từ ngày nhận được đề nghị của Bộ Kế hoạch và Đầu tư, cơ quan được lấy ý kiến phải có ý kiến gửi Bộ Kế hoạch và Đầu tư;
+
+d) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ theo quy định tại điểm b khoản này, Bộ Kế hoạch và Đầu tư lập báo cáo thẩm định và dự thảo Quyết định của Thủ tướng Chính phủ về việc áp dụng hình thức lựa chọn nhà thầu trong trường hợp đặc biệt (nếu đủ điều kiện) trình Thủ tướng Chính phủ xem xét, quyết định. Báo cáo thẩm định đánh giá về các nội dung: sự cần thiết; việc đáp ứng hoặc không đáp ứng điều kiện đặc thù về các yếu tố cần bảo đảm quốc phòng, an ninh, đối ngoại, biên giới lãnh thổ; lý do không thể đáp ứng điều kiện về lựa chọn nhà thầu quy định tại các Điều 21, 22, 23, 24, 25, 26, 27 và 28 của Luật Đấu thầu;
+
+đ) Thủ tướng Chính phủ xem xét, quyết định áp dụng hình thức lựa chọn nhà thầu trong trường hợp đặc biệt trên cơ sở hồ sơ trình của Thủ trưởng cơ quan trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh và báo cáo thẩm định của Bộ Kế hoạch và Đầu tư;
+
+Quyết định của Thủ tướng Chính phủ về việc áp dụng hình thức lựa chọn nhà thầu trong trường hợp đặc biệt bao gồm: gói thầu thuộc dự án, dự toán mua sắm được áp dụng lựa chọn nhà thầu trong trường hợp đặc biệt; trách nhiệm của người có thẩm quyền, chủ đầu tư, bên mời thầu và các cơ quan liên quan trong quá trình tổ chức lựa chọn nhà thầu; các yêu cầu khác trong quá trình triển khai thực hiện gói thầu, dự án (nếu có).
+
+e) Trên cơ sở Quyết định của Thủ tướng Chính phủ, Thủ trưởng cơ quan trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh xây dựng và phê duyệt phương án lựa chọn nhà thầu trong trường hợp đặc biệt gồm những nội dung chủ yếu sau: quy trình, thủ tục lựa chọn nhà thầu; điều kiện ký kết, thực hiện hợp đồng và các nội dung liên quan khác để đáp ứng các điều kiện đặc thù của gói thầu, dự án, bảo đảm lựa chọn được nhà thầu có đủ năng lực, kinh nghiệm, giải pháp thực hiện khả thi, hiệu quả.
+
+<a id="dieu-82-khoan-3"></a>
+**3.** Đối với trường hợp quy định tại điểm i khoản 1 Điều 29 của Luật Đấu thầu:
+
+a) Thủ trưởng cơ quan trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh lập hồ sơ trình Chính phủ đồng thời gửi Bộ Kế hoạch và Đầu tư để tổ chức thẩm định;
+
+b) Hồ sơ trình thẩm định phương án lựa chọn nhà thầu trong trường hợp đặc biệt bao gồm nội dung quy định tại điểm c khoản 1 Điều này;
+
+c) Căn cứ đề nghị của Thủ trưởng cơ quan trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh và báo cáo thẩm định của Bộ Kế hoạch và Đầu tư, Chính phủ xem xét trình Ủy ban Thường vụ Quốc hội quyết định việc bổ sung trường hợp áp dụng hình thức lựa chọn nhà thầu trong trường hợp đặc biệt. Trình tự, thủ tục xây dựng Nghị quyết trình Ủy ban Thường vụ Quốc hội thực hiện theo quy định của Luật Ban hành văn bản quy phạm pháp luật.
+
+
+<a id="dieu-83"></a>
+### Điều 83. Hồ sơ, quy trình, thủ tục lựa chọn nhà thầu trong trường hợp đặc biệt đối với trường hợp quy định tại các __điểm d, đ, e, g và h khoản 1 Điều 29 của Luật Đấu thầu__
+
+<a id="dieu-83-khoan-1"></a>
+**1.** Thủ trưởng cơ quan trung ương, Ủy ban nhân dân cấp tỉnh xem xét, quyết định áp dụng hình thức lựa chọn nhà thầu trong trường hợp đặc biệt đối với một hoặc một số trường hợp quy định tại các điểm d, đ, e, g và h khoản 1 Điều 29 của Luật Đấu thầu và quy trình lựa chọn tương ứng theo quy định tại các khoản 3,4 và 5 Điều này để áp dụng chung cho các gói thầu thuộc phạm vi quản lý.
+
+<a id="dieu-83-khoan-2"></a>
+**2.** Trên cơ sở quyết định của Thủ trưởng cơ quan trung ương, Ủy ban nhân dân cấp tỉnh theo quy định tại khoản 1 Điều này, người có thẩm quyền, chủ đầu tư chịu trách nhiệm tổ chức lựa chọn nhà thầu theo quy định tại các khoản 3, 4 và 5 Điều này.
+
+<a id="dieu-83-khoan-3"></a>
+**3.** Đối với gói thầu thuộc trường hợp quy định tại điểm d khoản 1 Điều 29 của Luật Đấu thầu:
+
+a) Cơ quan, đơn vị chủ trì giải quyết vụ kiện xây dựng các tiêu chí, điều khoản tham chiếu, cơ chế kiểm soát tổ chức hành nghề luật sư, luật sư để xác định danh sách (không ít hơn 03) tổ chức hành nghề luật sư, luật sư dự kiến được thuê; chỉ lựa chọn vào danh sách các tổ chức hành nghề luật sư, luật sư danh tiếng, nhiều kinh nghiệm;
+
+b) Cơ quan chủ trì giải quyết vụ kiện tổ chức đàm phán hợp đồng dịch vụ pháp lý với tổ chức hành nghề luật sư, luật sư có ưu thế nhất trên cơ sở các tiêu chí, điều khoản tham chiếu và cơ chế kiểm soát tổ chức hành nghề luật sư, luật sư trong vụ kiện;
+
+c) Người đứng đầu cơ quan, đơn vị chủ trì giải quyết vụ kiện phê duyệt và thông báo kết quả lựa chọn tổ chức hành nghề luật sư, luật sư;
+
+d) Cơ quan, đơn vị chủ trì giải quyết vụ kiện hoàn thiện, ký kết hợp đồng dịch vụ pháp lý với tổ chức hành nghề luật sư, luật sư.
+
+<a id="dieu-83-khoan-4"></a>
+**4.** Đối với trường hợp quy định tại các điểm đ, e, g và h khoản 1 Điều 29 của Luật Đấu thầu, trừ gói thầu quy định tại khoản 5 Điều này, quy trình lựa chọn nhà thầu gồm các bước:
+
+a) Lập, thẩm định, phê duyệt kế hoạch lựa chọn nhà thầu;
+
+b) Thương thảo hợp đồng với nhà thầu được xác định có đủ năng lực, kinh nghiệm;
+
+c) Phê duyệt, công khai kết quả lựa chọn nhà thầu;
+
+d) Hoàn thiện, ký kết hợp đồng với nhà thầu;
+
+Hợp đồng phải bao gồm đầy đủ các nội dung liên quan đến yêu cầu về phạm vi, nội dung công việc cần thực hiện, thời gian thực hiện, chất lượng công việc cần đạt được và giá trị hợp đồng;
+
+đ) Việc đăng tải thông tin về kế hoạch lựa chọn nhà thầu, kết quả lựa chọn nhà thầu và các thông tin về đấu thầu khác được thực hiện theo quy định tại Điều 7 và Điều 8 của Luật Đấu thầu.
+
+<a id="dieu-83-khoan-5"></a>
+**5.** Đối với gói thầu mua vé máy bay cho đoàn đi công tác trong nước và quốc tế theo quy định tại điểm đ khoản 1 Điều 29 của Luật Đấu thầu:
+
+a) Đối với đoàn đi công tác quốc tế, căn cứ kế hoạch công tác và hành trình bay được duyệt, cơ quan, đơn vị được giao kinh phí và nhiệm vụ mua vé máy bay lấy tối thiểu 02 báo giá của 02 đại lý bán vé máy bay khác nhau (hoặc báo giá của 01 đại lý bán vé máy bay của ít nhất 02 hãng hàng không khác nhau, trong đó có ít nhất 01 đại lý chính hãng của hàng không quốc gia Việt Nam) với cùng hành trình bay để xem xét, so sánh và lựa chọn đơn vị cung cấp vé máy bay trên cơ sở đáp ứng các yêu cầu: đường bay trực tiếp, phù hợp với lịch công tác; tổng các khoản chi tiền vé (bao gồm các khoản thuế và phụ phí), tiền đi đường, tiền chờ đợi tại sân bay thấp nhất. Người đứng đầu cơ quan, đơn vị được giao kinh phí và nhiệm vụ mua vé máy bay ký hợp đồng với nhà cung cấp bảo đảm nguyên tắc tiết kiệm, hiệu quả và chịu trách nhiệm về quyết định của mình. Trường hợp thay đổi đường bay ở nước ngoài do nhu cầu công tác thì người đứng đầu cơ quan, đơn vị được giao kinh phí quyết định việc mua vé trên cơ sở đề nghị của trưởng đoàn công tác;
+
+b) Đối với đoàn đi công tác trong nước:
+
+Người đứng đầu cơ quan, đơn vị được giao kinh phí và nhiệm vụ mua vé máy bay ký hợp đồng với nhà cung cấp bảo đảm nguyên tắc tiết kiệm, hiệu quả và chịu trách nhiệm về quyết định của mình;
+
+c) Việc mua vé máy bay cho các đoàn đi công tác trong nước và quốc tế theo quy định tại điểm a và điểm b khoản này không phải lập, thẩm định, phê duyệt kế hoạch lựa chọn nhà thầu.
+
+### Mục 4. LỰA CHỌN NHÀ THẦU THỰC HIỆN GÓI THẦU CÓ SỰ THAM GIA THỰC HIỆN CỦA CỘNG ĐỒNG
+
+
+<a id="dieu-84"></a>
+### Điều 84. Tư cách hợp lệ của cộng đồng dân cư, tổ chức đoàn thể, nhóm thợ tại địa phương
+
+<a id="dieu-84-khoan-1"></a>
+**1.** Cộng đồng dân cư, tổ chức đoàn thể, nhóm thợ tại địa phương có tư cách hợp lệ để tham gia thực hiện các gói thầu quy định tại Điều 27 của Luật Đấu thầu khi người dân thuộc cộng đồng dân cư, nhóm thợ hoặc các hội viên của tổ chức đoàn thể sinh sống, cư trú trên địa bàn triển khai gói thầu và được hưởng lợi từ gói thầu.
+
+<a id="dieu-84-khoan-2"></a>
+**2.** Người đại diện của cộng đồng dân cư, tổ chức đoàn thể, nhóm thợ phải có năng lực hành vi dân sự đầy đủ theo quy định pháp luật, không đang bị truy cứu trách nhiệm hình sự, được cộng đồng dân cư, tổ chức đoàn thể, nhóm thợ lựa chọn để thay mặt cộng đồng dân cư, tổ chức đoàn thể, nhóm thợ ký kết hợp đồng.
+
+
+<a id="dieu-85"></a>
+### Điều 85. Quy trình lựa chọn nhà thầu là cộng đồng dân cư, tổ chức đoàn thể, nhóm thợ tại địa phương
+
+<a id="dieu-85-khoan-1"></a>
+**1.** Sau khi có kế hoạch lựa chọn nhà thầu được phê duyệt, chủ đầu tư dự thảo hợp đồng bao gồm các yêu cầu về phạm vi, nội dung công việc cần thực hiện, chất lượng, tiến độ công việc cần đạt được, giá hợp đồng, quyền và nghĩa vụ của các bên.
+
+<a id="dieu-85-khoan-2"></a>
+**2.** Chủ đầu tư niêm yết thông báo công khai về việc mời tham gia thực hiện gói thầu tại trụ sở Ủy ban nhân dân cấp xã và thông báo trên các phương tiện truyền thông cấp xã, các nơi sinh hoạt cộng đồng để các cộng đồng dân cư, tổ chức đoàn thể và nhóm thợ trên địa bàn biết. Thông báo cần ghi rõ thời gian họp bàn về phương án thực hiện gói thầu.
+
+<a id="dieu-85-khoan-3"></a>
+**3.** Cộng đồng dân cư, tổ chức đoàn thể, nhóm thợ quan tâm nhận dự thảo hợp đồng để nghiên cứu và chuẩn bị hồ sơ năng lực bao gồm các nội dung: họ tên, độ tuổi, năng lực và kinh nghiệm phù hợp với tính chất gói thầu của các thành viên tham gia thực hiện gói thầu.
+
+<a id="dieu-85-khoan-4"></a>
+**4.** Chủ đầu tư tổ chức xem xét, lựa chọn cộng đồng dân cư hoặc tổ chức đoàn thể, nhóm thợ tốt nhất và mời đại diện thương thảo, ký kết hợp đồng.
+
+Trường hợp chỉ có một cộng đồng dân cư hoặc tổ chức đoàn thể, nhóm thợ quan tâm thì xem xét giao cho cộng đồng dân cư hoặc tổ chức đoàn thể, nhóm thợ đó thực hiện. Trường hợp không thể giao cho cộng đồng dân cư, tổ chức đoàn thể thực hiện hoặc không có cộng đồng dân cư, tổ chức đoàn thể quan tâm thì giao cho nhóm thợ thực hiện.
+
+<a id="dieu-85-khoan-5"></a>
+**5.** Thời hạn tối đa từ khi thông báo công khai về việc mời tham gia thực hiện gói thầu đến khi ký kết hợp đồng là 30 ngày.
+
+<a id="dieu-85-khoan-6"></a>
+**6.** Chủ đầu tư công khai kết quả lựa chọn cộng đồng dân cư hoặc tổ chức đoàn thể hoặc nhóm thợ được lựa chọn trên Hệ thống mạng đấu thầu quốc gia, tại trụ sở Ủy ban nhân dân cấp xã và thông báo trên các phương tiện truyền thông cấp xã.
+
+
+<a id="dieu-86"></a>
+### Điều 86. Tạm ứng, thanh toán và giám sát, nghiệm thu gói thầu
+
+<a id="dieu-86-khoan-1"></a>
+**1.** Cộng đồng dân cư, tổ chức đoàn thể, nhóm thợ được chủ đầu tư tạm ứng, thanh toán trực tiếp bằng tiền mặt hoặc chuyển khoản thông qua người đại diện của cộng đồng dân cư, tổ chức đoàn thể, nhóm thợ.
+
+<a id="dieu-86-khoan-2"></a>
+**2.** Chủ đầu tư chịu trách nhiệm tổ chức giám sát việc thực hiện gói thầu, Ủy ban nhân dân cấp xã và các tổ chức đoàn thể có trách nhiệm tham gia giám sát việc thực hiện của cộng đồng dân cư, tổ chức đoàn thể, nhóm thợ.
+
+<a id="dieu-86-khoan-3"></a>
+**3.** Chủ đầu tư tổ chức nghiệm thu gói thầu đã hoàn thành. Các thành phần tham gia nghiệm thu bao gồm:
+
+a) Đại diện chủ đầu tư;
+
+b) Đại diện cộng đồng dân cư, tổ chức đoàn thể, nhóm thợ thực hiện gói thầu;
+
+c) Đại diện cộng đồng dân cư trên địa bàn được hưởng lợi từ sản phẩm, công trình của gói thầu;
+
+d) Các thành phần có liên quan khác do chủ đầu tư quyết định.
+
+## Chương VI. 
+
+__MUA SẮM TẬP TRUNG, MUA SẮM THUỘC DỰ TOÁN MUA SẮM, MUA THUỐC, HÓA CHẤT, VẬT TƯ XÉT NGHIỆM, THIẾT BỊ Y TẾ__
+
+### Mục 1. MUA SẮM TẬP TRUNG
+
+
+<a id="dieu-87"></a>
+### Điều 87. Nguyên tắc mua sắm tập trung
+
+<a id="dieu-87-khoan-1"></a>
+**1.** Việc mua sắm tập trung được thực hiện thông qua đơn vị mua sắm tập trung thuộc bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương, Ủy ban nhân dân cấp tỉnh, doanh nghiệp, trừ trường hợp quy định tại khoản 5 Điều 53 của Luật Đấu thầu. Trường hợp đơn vị mua sắm tập trung không đủ năng lực thì thuê tư vấn đấu thầu thực hiện việc lựa chọn nhà thầu.
+
+<a id="dieu-87-khoan-2"></a>
+**2.** Đối với hàng hóa, dịch vụ thuộc danh mục phải áp dụng mua sắm tập trung sử dụng thỏa thuận khung, đơn vị có nhu cầu mua sắm hàng hóa, dịch vụ phải ký kết hợp đồng với nhà thầu đã được lựa chọn thông qua mua sắm tập trung. Trường hợp thỏa thuận khung còn hiệu lực mà ký kết hợp đồng với nhà thầu khác không được lựa chọn thông qua mua sắm tập trung thì không được thanh toán, trừ trường hợp quy định tại khoản 22, khoản 23 Điều 131 của Nghị định này.
+
+
+<a id="dieu-88"></a>
+### Điều 88. Trách nhiệm trong mua sắm tập trung
+
+<a id="dieu-88-khoan-1"></a>
+**1.** Đơn vị mua sắm tập trung thực hiện trách nhiệm của chủ đầu tư quy định tại Điều 78 của Luật Đấu thầu.
+
+<a id="dieu-88-khoan-2"></a>
+**2.** Cấp trên của đơn vị mua sắm tập trung thực hiện trách nhiệm của người có thẩm quyền quy định tại Điều 77 của Luật Đấu thầu.
+
+
+<a id="dieu-89"></a>
+### Điều 89. Quy trình mua sắm tập trung áp dụng đấu thầu rộng rãi
+
+<a id="dieu-89-khoan-1"></a>
+**1.** Quy trình mua sắm tập trung:
+
+Việc mua sắm tập trung áp dụng đấu thầu rộng rãi được thực hiện theo quy định tại Điều 22 và Điều 34 của Nghị định này, bao gồm các bước sau:
+
+a) Xác định khối lượng mua sắm:
+
+Việc xác định khối lượng mua sắm tập trung căn cứ vào danh mục hàng hóa, dịch vụ của các đơn vị có nhu cầu mua sắm hàng hóa, dịch vụ gửi nhu cầu đến đơn vị mua sắm tập trung hoặc đơn vị mua sắm tập trung tự xác định khối lượng cần mua căn cứ khối lượng và số lượng sử dụng thực tế của kỳ mua sắm trước đó. Đối với việc mua sắm tài sản theo Luật Quản lý, sử dụng tài sản công, trừ thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế, việc xác định khối lượng mua sắm tập trung căn cứ vào danh mục hàng hóa, dịch vụ của các đơn vị có nhu cầu mua sắm hàng hóa, dịch vụ gửi nhu cầu đến đơn vị mua sắm tập trung theo quy định của pháp luật về quản lý, sử dụng tài sản công.
+
+Đơn vị mua sắm tập trung, đàm phán giá có trách nhiệm tổng hợp nhu cầu mua sắm của cơ sở khám bệnh, chữa bệnh tư nhân (nếu có) và tổ chức mua thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế cho cả các cơ sở khám bệnh, chữa bệnh tư nhân như quy định đối với cơ sở khám bệnh, chữa bệnh công lập trên địa bàn;
+
+b) Việc lập, thẩm định và phê duyệt kế hoạch lựa chọn nhà thầu thực hiện theo quy định tại các Điều 37, 38, 39 và 41 của Luật Đấu thầu;
+
+c) Việc tổ chức lựa chọn nhà thầu thực hiện theo quy định tại Điều 26 và Điều 38 của Nghị định này.
+
+Trường hợp cần lựa chọn nhiều hơn 01 nhà thầu trúng thầu trong 01 phần hoặc 01 gói thầu không chia phần, hồ sơ mời thầu phải quy định các điều kiện chào thầu, phương pháp đánh giá, xếp hạng nhà thầu;
+
+d) Việc đánh giá hồ sơ dự thầu thực hiện theo quy định tại các Điều 27, 28, 29, 30 hoặc các Điều 39, 40, 41, 42 và 43 của Nghị định này;
+
+đ) Việc trình thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu và giải thích lý do nhà thầu không trúng thầu trong trường hợp nhà thầu có yêu cầu thực hiện theo quy định tại Điều 31 và Điều 44 của Nghị định này;
+
+e) Hoàn thiện, ký kết thỏa thuận khung:
+
+Đơn vị mua sắm tập trung và nhà thầu trúng thầu hoàn thiện nội dung thỏa thuận khung theo quy định tại Điều 90 của Nghị định này, làm cơ sở ký kết thỏa thuận khung. Trường hợp một nhà thầu trúng nhiều phần của gói thầu hoặc trúng nhiều gói thầu khác nhau, nhà thầu phải nộp bản cam kết bảo đảm nhà thầu có đủ năng lực và kinh nghiệm để hoàn thành công việc theo chất lượng và tiến độ thực hiện; bản cam kết này là một phần của hợp đồng;
+
+g) Hoàn thiện, ký kết và thực hiện hợp đồng với nhà thầu trúng thầu:
+
+Trường hợp đơn vị mua sắm tập trung trực tiếp ký kết hợp đồng với nhà thầu trúng thầu thì không phải ký kết thỏa thuận khung theo quy định tại điểm e khoản này. Nhà thầu đã ký kết thỏa thuận khung phải thực hiện biện pháp bảo đảm thực hiện hợp đồng trước hoặc cùng thời điểm hợp đồng có hiệu lực cho đơn vị có nhu cầu mua sắm. Nhà thầu thực hiện biện pháp bảo đảm thực hiện hợp đồng cho từng đơn vị có nhu cầu mua sắm hoặc cho tổng số phần mà nhà thầu ký hợp đồng theo mẫu được quy định trong hồ sơ mời thầu hoặc mẫu khác được chủ đầu tư chấp thuận.
+
+Đơn vị có nhu cầu mua sắm thông báo cho đơn vị mua sắm tập trung trong trường hợp nhà thầu không ký hợp đồng. Nhà thầu đã ký thỏa thuận khung và được đơn vị có nhu cầu mua sắm yêu cầu ký hợp đồng nhưng không ký hợp đồng, không thực hiện biện pháp bảo đảm thực hiện hợp đồng trừ trường hợp bất khả kháng sẽ bị khóa tài khoản trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 06 tháng kể từ ngày Bộ Kế hoạch và Đầu tư nhận được văn bản đề nghị của đơn vị mua sắm tập trung;
+
+h) Quyết toán, thanh lý hợp đồng.
+
+<a id="dieu-89-khoan-2"></a>
+**2.** Căn cứ quy mô, tính chất, gói thầu có thể được chia thành nhiều phần để tổ chức đấu thầu lựa chọn một hoặc nhiều nhà thầu trúng thầu.
+
+<a id="dieu-89-khoan-3"></a>
+**3.** Đối với gói thầu cần lựa chọn nhiều hơn một nhà thầu trúng thầu trong một phần hoặc một gói thầu không chia phần, hồ sơ mời thầu có thể quy định lựa chọn nhà thầu theo một trong các cách thức sau:
+
+a) Lựa chọn nhà thầu căn cứ theo khả năng cung cấp:
+
+Nhà thầu được chào thầu căn cứ theo khả năng cung cấp hàng hóa, dịch vụ của mình, không bắt buộc phải chào đủ số lượng, khối lượng trong hồ sơ mời thầu. Căn cứ khả năng cung cấp hàng hóa, dịch vụ của từng nhà thầu đã chào, chủ đầu tư tổ chức đánh giá, lựa chọn tổ hợp các nhà thầu theo thứ tự xếp hạng từ cao xuống thấp trên cơ sở tiêu chuẩn đánh giá nêu trong hồ sơ mời thầu. Việc lựa chọn danh sách nhà thầu trúng thầu phải đảm bảo tổng số lượng hàng hóa mà các nhà thầu trúng thầu chào thầu bằng số lượng hàng hóa nêu trong hồ sơ mời thầu, đồng thời bảo đảm tổng giá đề nghị trúng thầu của gói thầu thấp nhất (đối với gói thầu áp dụng phương pháp giá thấp nhất); tổng giá đánh giá của gói thầu là thấp nhất (đối với gói thầu áp dụng phương pháp giá đánh giá); tổng điểm tổng hợp của gói thầu cao nhất (đối với gói thầu áp dụng phương pháp kết hợp giữa kỹ thuật và giá) và giá đề nghị trúng thầu của cả gói thầu không vượt giá gói thầu được duyệt.
+
+Đơn vị có nhu cầu mua sắm hoặc đơn vị mua sắm tập trung ký hợp đồng với nhà thầu theo thứ tự ưu tiên trong danh sách xếp hạng nhà thầu. Trường hợp nhà thầu xếp hạng cao hơn không đồng ý ký hợp đồng thì đơn vị có nhu cầu mua sắm, đơn vị mua sắm tập trung được ký hợp đồng với nhà thầu xếp hạng liền kề.
+
+Trường hợp nhà thầu xếp hạng cao hơn từ chối cung cấp hàng hóa, dịch vụ mà không có lý do chính đáng, không thuộc trường hợp bất khả kháng, vi phạm thỏa thuận khung, hợp đồng thì việc xử lý vi phạm hợp đồng thực hiện theo thỏa thuận khung, hợp đồng. Nhà thầu vi phạm hợp đồng sẽ bị phạt hợp đồng theo quy định trong hợp đồng, không được hoàn trả giá trị bảo đảm thực hiện hợp đồng, bị công khai thông tin về kết quả thực hiện hợp đồng và đăng tải trên Hệ thống mạng đấu thầu quốc gia;
+
+b) Lựa chọn nhà thầu căn cứ khối lượng mời thầu:
+
+Việc lựa chọn nhà thầu căn cứ tiêu chuẩn đánh giá nêu trong hồ sơ mời thầu theo quy định tại Điều 24 và Điều 35 của Nghị định này. Nhà thầu chào thầu theo khối lượng, số lượng yêu cầu trong hồ sơ mời thầu. Danh sách phê duyệt nhà thầu trúng thầu bao gồm danh sách chính (nhà thầu xếp thứ nhất) và danh sách dự bị (nhà thầu xếp thứ 2 trở đi). Trong quá trình thực hiện hợp đồng, trường hợp nhà thầu trong danh sách chính vi phạm hợp đồng, không thể tiếp tục cung ứng hàng hóa, dịch vụ theo số lượng, khối lượng quy định tại thỏa thuận khung hoặc theo hợp đồng đã ký kết thì đơn vị mua sắm tập trung, đơn vị có nhu cầu mua sắm chấm dứt hợp đồng với nhà thầu đó và mời nhà thầu xếp hạng thứ hai (danh sách dự bị) vào hoàn thiện, ký kết thỏa thuận khung hoặc ký kết hợp đồng, đồng thời yêu cầu nhà thầu khôi phục hiệu lực của hồ sơ dự thầu, bảo đảm dự thầu để có cơ sở ký kết thỏa thuận khung, hợp đồng. Trường hợp nhà thầu xếp hạng thứ hai từ chối hoàn thiện, ký kết hợp đồng thì xử lý tình huống theo quy định tại khoản 16 Điều 131 của Nghị định này. Nhà thầu trúng thầu trước đó vi phạm hợp đồng sẽ bị phạt hợp đồng theo quy định trong hợp đồng, không được hoàn trả giá trị bảo đảm thực hiện hợp đồng, bị công khai thông tin về kết quả thực hiện hợp đồng và đăng tải trên Hệ thống mạng đấu thầu quốc gia.
+
+
+<a id="dieu-90"></a>
+### Điều 90. Nội dung thỏa thuận khung
+
+<a id="dieu-90-khoan-1"></a>
+**1.** Căn cứ quy mô, tính chất của gói thầu, đơn vị mua sắm tập trung quy định cụ thể nội dung chi tiết của thỏa thuận khung trong hồ sơ mời thầu cho phù hợp nhưng phải bao gồm những nội dung chủ yếu quy định tại khoản 2 Điều này.
+
+<a id="dieu-90-khoan-2"></a>
+**2.** Những nội dung chủ yếu của thỏa thuận khung:
+
+a) Phạm vi cung cấp hàng hóa, dịch vụ;
+
+b) Thời gian, địa điểm giao hàng, cung cấp dịch vụ dự kiến;
+
+c) Điều kiện bàn giao hàng hóa, dịch vụ; tạm ứng, thanh toán, thanh lý hợp đồng;
+
+d) Mức giá tương ứng với từng loại hàng hóa, dịch vụ;
+
+đ) Điều kiện bảo hành, bảo trì; đào tạo, hướng dẫn sử dụng hàng hóa, dịch vụ;
+
+e) Trách nhiệm của nhà thầu cung cấp hàng hóa, dịch vụ, trong đó bao gồm trách nhiệm ký kết, thực hiện hợp đồng và thực hiện biện pháp bảo đảm thực hiện hợp đồng với đơn vị có nhu cầu mua sắm;
+
+g) Trách nhiệm của đơn vị có nhu cầu mua sắm trong việc ký kết hợp đồng, sử dụng hàng hóa, dịch vụ;
+
+h) Trách nhiệm của đơn vị mua sắm tập trung;
+
+i) Thời hạn có hiệu lực của thỏa thuận khung;
+
+k) Xử phạt, bồi thường thiệt hại do vi phạm hợp đồng;
+
+l) Các nội dung liên quan khác.
+
+### Mục 2. MUA SẮM THUỘC DỰ TOÁN MUA SẮM
+
+
+<a id="dieu-91"></a>
+### Điều 91. Thẩm quyền quyết định việc mua sắm
+
+<a id="dieu-91-khoan-1"></a>
+**1.** Thẩm quyền quyết định việc mua sắm tài sản:
+
+a) Thẩm quyền quyết định việc mua sắm tài sản công tại cơ quan, đơn vị thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công;
+
+b) Thủ trưởng cơ quan trung ương quyết định hoặc quy định thẩm quyền quyết định việc mua sắm tài sản thuộc các nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước;
+
+c) Hội đồng nhân dân cấp tỉnh quyết định hoặc quy định thẩm quyền quyết định việc mua sắm tài sản của các nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước đối với nguồn kinh phí thuộc phạm vi quản lý của địa phương.
+
+<a id="dieu-91-khoan-2"></a>
+**2.** Thẩm quyền quyết định việc mua sắm hàng hóa, dịch vụ không thuộc các trường hợp tại khoản 1 Điều này:
+
+a) Thủ trưởng cơ quan trung ương quyết định hoặc quy định thẩm quyền quyết định việc mua sắm đối với nguồn kinh phí khoa học và công nghệ thuộc phạm vi quản lý của cơ quan trung ương (bao gồm cả việc mua sắm tại cơ quan, đơn vị thuộc phạm vi quản lý và cơ quan, tổ chức, đơn vị, cá nhân khác thực hiện nhiệm vụ khoa học và công nghệ không thuộc phạm vi quản lý của cơ quan trung ương);
+
+b) Hội đồng nhân dân cấp tỉnh quyết định hoặc quy định thẩm quyền quyết định việc mua sắm đối với nguồn kinh phí khoa học và công nghệ thuộc phạm vi quản lý của địa phương (bao gồm cả việc mua sắm tại cơ quan, đơn vị thuộc phạm vi quản lý và cơ quan, tổ chức, đơn vị, cá nhân khác thực hiện nhiệm vụ khoa học và công nghệ không thuộc phạm vi quản lý của địa phương);
+
+c) Thủ trưởng đơn vị dự toán các cấp quyết định việc mua sắm đối với gói thầu, nội dung mua sắm có giá trị thuộc phạm vi được cơ quan có thẩm quyền quyết định hoặc quy định thẩm quyền quyết định và được quyết định việc mua sắm đối với gói thầu, nội dung mua sắm có giá trị không quá 200 triệu đồng;
+
+d) Thủ trưởng cơ quan trung ương, Hội đồng nhân dân cấp tỉnh quyết định hoặc quy định thẩm quyền quyết định việc mua sắm phục vụ hoạt động của đơn vị sự nghiệp công lập thuộc phạm vi quản lý.
+
+
+<a id="dieu-92"></a>
+### Điều 92. Quy trình thực hiện mua sắm
+
+<a id="dieu-92-khoan-1"></a>
+**1.** Việc lựa chọn nhà thầu thuộc dự toán mua sắm thực hiện theo quy trình quy định tại các Chương I, II, III, IV, V, VI và VII của Nghị định này, không phải trình, phê duyệt quyết định mua sắm.
+
+<a id="dieu-92-khoan-2"></a>
+**2.** Đối với các hàng hóa thuộc danh mục do Chính phủ, Thủ tướng Chính phủ quy định tiêu chuẩn, định mức hoặc quyết định việc phân cấp quy định tiêu chuẩn, định mức thì điều kiện xét duyệt trúng thầu là giá đề nghị trúng thầu của từng hàng hóa đảm bảo không vượt mức giá của từng hàng hóa đó theo tiêu chuẩn, định mức do cấp có thẩm quyền ban hành.
+
+### Mục 3. MUA THUỐC, HÓA CHẤT, VẬT TƯ XÉT NGHIỆM, THIẾT BỊ Y TẾ
+
+
+<a id="dieu-93"></a>
+### Điều 93. Lựa chọn nhà thầu theo số lượng dịch vụ kỹ thuật
+
+<a id="dieu-93-khoan-1"></a>
+**1.** Việc lựa chọn nhà thầu cung cấp trọn gói thiết bị, hóa chất, vật tư xét nghiệm, dịch vụ đi kèm (không bao gồm nhân công vận hành) được thực hiện theo quy định tại điểm b khoản 1 Điều 55 của Luật Đấu thầu. Hồ sơ mời thầu bao gồm các nội dung sau:
+
+a) Yêu cầu về kỹ thuật đối với thiết bị; yêu cầu đối với phần mềm vận hành thiết bị, hiệu chỉnh thiết bị;
+
+b) Yêu cầu về thời hạn sử dụng của hóa chất, vật tư xét nghiệm;
+
+c) Yêu cầu nhà thầu liệt kê tất cả hóa chất, vật tư xét nghiệm và các vật tư cần thiết đi kèm để thực hiện từng dịch vụ kỹ thuật; quy cách đóng gói các hàng hóa này;
+
+d) Biểu tổng hợp giá dự thầu được xây dựng căn cứ vào số lượng dịch vụ kỹ thuật dự kiến và đơn giá do nhà thầu chào cho từng dịch vụ kỹ thuật. Đơn giá này là chi phí trọn gói để thực hiện gói thầu tính cho mỗi dịch vụ kỹ thuật, bao gồm chi phí về thiết bị, hóa chất, vật tư xét nghiệm; dịch vụ bảo hành, bảo dưỡng, thay thế linh kiện; lắp đặt, đào tạo, hướng dẫn sử dụng; hóa chất, vật tư xét nghiệm, vật tư cần thiết đi kèm phục vụ công tác thử nghiệm chất lượng dịch vụ kỹ thuật và hiệu chỉnh thiết bị; thiết bị dự phòng (nếu có); hóa chất, vật tư xét nghiệm mẫu và các chi phí liên quan khác để thực hiện gói thầu. Chủ đầu tư không phải chịu bất kỳ chi phí nào khác ngoài chi phí trọn gói tính theo số lượng dịch vụ kỹ thuật và đơn giá trong hợp đồng;
+
+đ) Yêu cầu đối với nhà thầu về việc lưu kho, lưu trữ hóa chất, vật tư xét nghiệm để đảm bảo dịch vụ kỹ thuật được thực hiện liên tục, không bị gián đoạn;
+
+e) Yêu cầu đối với công tác lắp đặt và thử nghiệm chất lượng, thông số của dịch vụ kỹ thuật;
+
+g) Yêu cầu về bảo hành, bảo dưỡng, bao gồm bảo dưỡng định kỳ thiết bị;
+
+h) Yêu cầu về thiết bị dự phòng, việc bố trí thiết bị dự phòng tại cơ sở y tế (nếu cần thiết);
+
+i) Các nội dung cần thiết khác.
+
+<a id="dieu-93-khoan-2"></a>
+**2.** Nhà thầu phải phân bổ tất cả chi phí thực hiện gói thầu quy định tại điểm d khoản 1 Điều này vào đơn giá cho từng dịch vụ kỹ thuật và không được thanh toán cho bất kỳ chi phí nào khác ngoài chi phí tính theo số lượng dịch vụ kỹ thuật và đơn giá trong hợp đồng.
+
+<a id="dieu-93-khoan-3"></a>
+**3.** Gói thầu có thể chia thành các phần tương ứng với một hoặc một số loại dịch vụ kỹ thuật. Cơ sở khám bệnh, chữa bệnh được tổng hợp nhu cầu của các cơ sở khám bệnh, chữa bệnh khác để hình thành gói thầu.
+
+<a id="dieu-93-khoan-4"></a>
+**4.** Thời gian thực hiện hợp đồng không quá 60 tháng. Trường hợp hai bên thống nhất áp dụng tùy chọn mua thêm, chủ đầu tư báo cáo người có thẩm quyền xem xét, quyết định việc sửa đổi hợp đồng để gia hạn tương ứng thời gian thực hiện hợp đồng cho phần công việc bổ sung nhưng không quá 18 tháng.
+
+<a id="dieu-93-khoan-5"></a>
+**5.** Trường hợp hết thời gian thực hiện hợp đồng mà số lượng dịch vụ kỹ thuật quy định trong hợp đồng chưa được thực hiện hết thì chủ đầu tư có thể báo cáo người có thẩm quyền xem xét, quyết định việc gia hạn thời gian thực hiện hợp đồng nhưng không quá 12 tháng.
+
+<a id="dieu-93-khoan-6"></a>
+**6.** Trong mọi trường hợp, việc gia hạn thời gian thực hiện hợp đồng quy định tại khoản 4 và khoản 5 Điều này phải bảo đảm tổng thời gian gia hạn hợp đồng không quá 18 tháng.
+
+
+<a id="dieu-94"></a>
+### Điều 94. Mua thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế
+
+<a id="dieu-94-khoan-1"></a>
+**1.** Việc chỉ định thầu đối với các gói thầu quy định tại điểm c khoản 1 Điều 23 của Luật Đấu thầu được thực hiện trong các trường hợp sau:
+
+a) Trường hợp cấp bách cần triển khai ngay để phục vụ công tác phòng, chống dịch:
+
+Gói thầu dịch vụ tư vấn, phi tư vấn, thuốc (bao gồm cả vắc xin, sinh phẩm), hóa chất, vật tư xét nghiệm, thiết bị y tế (bao gồm cả vật tư tiêm chủng), linh kiện, phụ kiện, phương tiện, xây lắp cần triển khai ngay nhằm phục vụ công tác phòng, chống dịch theo văn bản chỉ đạo của cấp có thẩm quyền (cơ quan quản lý nhà nước có thẩm quyền về y tế hoặc chính quyền các cấp) hoặc quyết định công bố dịch đối với bệnh truyền nhiễm hoặc địa phương đề nghị công bố dịch đối với bệnh truyền nhiễm thuộc nhóm A theo quy định của pháp luật;
+
+Gói thầu dịch vụ tư vấn, phi tư vấn, thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế, linh kiện, phụ kiện, phương tiện, xây lắp để thiết lập, cải tạo, xây dựng khu điều trị, bệnh viện dã chiến phục vụ công tác phòng, chống dịch mà số lượng thuốc, hoá chất, vật tư xét nghiệm, thiết bị y tế, linh kiện, phụ kiện, phương tiện hiện có tại cơ sở khám, chữa bệnh không đáp ứng được;
+
+Gói thầu dịch vụ tư vấn, phi tư vấn, thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế, linh kiện, phụ kiện, phương tiện, xây lắp phục vụ các đoàn ngoại giao, hỗ trợ các nước phòng, chống dịch cần triển khai ngay nhằm đáp ứng yêu cầu thực tiễn và theo đề nghị của cấp có thẩm quyền;
+
+b) Trường hợp cấp bách cần triển khai ngay để duy trì hoạt động của cơ sở khám bệnh, chữa bệnh bao gồm gói thầu dịch vụ tư vấn, phi tư vấn, thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế, linh kiện, phụ kiện, phương tiện, xây lắp nếu không triển khai ngay sẽ làm gián đoạn hoạt động tại cơ sở khám bệnh, chữa bệnh gây nguy hại đến sức khoẻ, tính mạng người bệnh;
+
+c) Trường hợp cấp cứu người bệnh trong tình trạng cấp cứu theo quy định của Luật Khám bệnh, chữa bệnh (nếu có) bao gồm các gói thầu dịch vụ tư vấn, phi tư vấn, thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế, linh kiện, phụ kiện, phương tiện, xây lắp do nhu cầu đột xuất, không có mặt hàng thay thế và bắt buộc phải sử dụng để đảm bảo sức khoẻ, tính mạng của người bệnh;
+
+d) Các trường hợp khác theo hướng dẫn của Bộ Y tế (nếu có).
+
+<a id="dieu-94-khoan-2"></a>
+**2.** Trường hợp thuốc, thiết bị y tế, vật tư xét nghiệm thuộc danh mục mua sắm tập trung trong kế hoạch lựa chọn nhà thầu được cấp có thẩm quyền phê duyệt nhưng chưa có kết quả lựa chọn nhà thầu hoặc không lựa chọn được nhà thầu trúng thầu hoặc khi thỏa thuận khung của gói thầu mua sắm tập trung hết hiệu lực thì cơ sở khám bệnh, chữa bệnh được mua sắm theo thông báo của đơn vị được giao nhiệm vụ mua sắm tập trung để đáp ứng nhu cầu sử dụng nhưng tối đa không quá 12 tháng theo một trong các hình thức lựa chọn nhà thầu: đấu thầu rộng rãi, đấu thầu hạn chế, chỉ định thầu, mua sắm trực tiếp, chào giá trực tuyến, mua sắm trực tuyến, chào hàng cạnh tranh theo quy định của Luật Đấu thầu, Nghị định này và được quỹ bảo hiểm y tế thanh toán theo đúng giá hợp đồng; trường hợp có kết quả trúng thầu mua sắm tập trung, chủ đầu tư được tiếp tục mua sắm theo hợp đồng đã ký với nhà thầu.
+
+<a id="dieu-94-khoan-3"></a>
+**3.** Bộ Y tế tổ chức mua thuốc tập trung cấp quốc gia và chủ trì, phối hợp với Bộ Tài chính, Bảo hiểm xã hội Việt Nam thực hiện đàm phán giá. Trường hợp áp dụng đàm phán giá, nhà thầu được mời vào đàm phán phải đáp ứng tư cách hợp lệ quy định tại các điểm a, b, c, d, e, g và i khoản 1 Điều 5 của Luật Đấu thầu.
+
+<a id="dieu-94-khoan-4"></a>
+**4.** Đối với việc lựa chọn nhà thầu cung cấp thuốc, Bảo hiểm xã hội Việt Nam có trách nhiệm sau đây:
+
+a) Tham gia vào quá trình thẩm định kế hoạch lựa chọn nhà thầu đối với mua sắm tập trung, đàm phán giá;
+
+b) Công khai giá từng loại thuốc trúng thầu được thanh toán từ nguồn quỹ bảo hiểm y tế của từng bệnh viện, địa phương, Bộ Y tế trên trang thông tin điện tử của Bảo hiểm xã hội Việt Nam.
+
+
+<a id="dieu-95"></a>
+### Điều 95. Thanh toán chi phí mua thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế cho các cơ sở khám bệnh, chữa bệnh tư nhân
+
+<a id="dieu-95-khoan-1"></a>
+**1.** Cơ sở khám bệnh, chữa bệnh tư nhân được tổng hợp, gửi nhu cầu mua thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế của mình cho đơn vị mua sắm tập trung ở địa phương nơi cơ sở đó đặt trụ sở để mua sắm tập trung (cấp quốc gia, cấp địa phương), đàm phán giá. Khi tổng hợp nhu cầu mua sắm tập trung, cơ sở khám bệnh, chữa bệnh tư nhân có trách nhiệm xây dựng kế hoạch sử dụng thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế tuân thủ các quy định về đấu thầu thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế tập trung tại địa phương như đối với cơ sở khám bệnh, chữa bệnh công lập trên địa bàn.
+
+Trường hợp cơ sở khám bệnh, chữa bệnh tư nhân có nhu cầu mua sắm thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế thông qua đơn vị mua sắm tập trung thì phải ký kết hợp đồng với đơn vị mua sắm tập trung.
+
+<a id="dieu-95-khoan-2"></a>
+**2.** Các cơ sở khám bệnh, chữa bệnh tư nhân không tổng hợp nhu cầu để mua sắm tập trung, đàm phán giá theo quy định tại khoản 1 Điều này thì tự tổ chức lựa chọn nhà thầu cung cấp thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế. Việc thanh toán thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế thuộc danh mục do quỹ bảo hiểm y tế chi trả được thực hiện theo quy định tại các khoản 3, 4, 5 và 6 Điều này.
+
+<a id="dieu-95-khoan-3"></a>
+**3.** Cơ sở khám bệnh, chữa bệnh tư nhân sử dụng thuốc thuộc danh mục thuốc do quỹ bảo hiểm y tế chi trả để phục vụ công tác khám chữa bệnh thì được quỹ bảo hiểm y tế thanh toán theo giá thuốc mua vào nhưng không vượt đơn giá trúng thầu của các cơ sở khám bệnh, chữa bệnh công lập tuyến tỉnh, tuyến trung ương hoặc cơ sở khám bệnh, chữa bệnh cùng cấp chuyên môn kỹ thuật trên cùng địa bàn của thuốc cùng tên thương mại, hãng sản xuất, xuất xứ, nồng độ, hàm lượng, đường dùng, cùng nhóm tiêu chí kỹ thuật, dạng bào chế, đơn vị tính.
+
+Trường hợp không có đơn giá trúng thầu trên cùng địa bàn nêu trên, việc xác định đơn giá để thanh toán căn cứ theo đơn giá trúng thầu của thuốc cùng tên thương mại, hãng sản xuất, xuất xứ, nồng độ, hàm lượng, đường dùng, cùng nhóm tiêu chí kỹ thuật, dạng bào chế, đơn vị tính theo thứ tự ưu tiên như sau:
+
+a) Kết quả mua sắm tập trung quốc gia, kết quả đàm phán giá;
+
+b) Kết quả mua sắm tập trung trên địa bàn;
+
+c) Kết quả đấu thầu của các cơ sở khám bệnh, chữa bệnh công lập tuyến tỉnh, tuyến trung ương hoặc cơ sở khám bệnh, chữa bệnh cùng cấp chuyên môn kỹ thuật trên địa bàn lân cận;
+
+d) Kết quả đấu thầu của các cơ sở khám bệnh, chữa bệnh công lập tuyến tỉnh, tuyến trung ương hoặc cơ sở khám bệnh, chữa bệnh cùng cấp chuyên môn kỹ thuật trên địa bàn Thành phố Hà Nội, Thành phố Hồ Chí Minh.
+
+<a id="dieu-95-khoan-4"></a>
+**4.** Đối với hóa chất, vật tư xét nghiệm, thiết bị y tế, cơ sở khám bệnh, chữa bệnh tư nhân được thanh toán theo đúng giá mặt hàng hóa chất, vật tư xét nghiệm, thiết bị y tế, hãng sản xuất, xuất xứ, tiêu chí kỹ thuật theo giá mua vào nhưng không vượt đơn giá đã trúng thầu của các cơ sở khám bệnh, chữa bệnh công lập tuyến tỉnh, tuyến trung ương hoặc cơ sở khám bệnh, chữa bệnh cùng cấp chuyên môn kỹ thuật trên cùng địa bàn của cùng hóa chất, vật tư xét nghiệm, thiết bị y tế.
+
+Trường hợp không có đơn giá trúng thầu trên cùng địa bàn nêu trên, việc xác định đơn giá để thanh toán căn cứ theo đơn giá trúng thầu của mặt hàng hóa chất, vật tư xét nghiệm, thiết bị y tế có cùng hãng sản xuất, xuất xứ, tiêu chí kỹ thuật theo thứ tự ưu tiên như sau:
+
+a) Kết quả mua sắm tập trung quốc gia, kết quả đàm phán giá;
+
+b) Kết quả mua sắm tập trung trên địa bàn;
+
+c) Kết quả đấu thầu của các cơ sở khám bệnh, chữa bệnh công lập tuyến tỉnh, tuyến trung ương hoặc cơ sở khám bệnh, chữa bệnh cùng cấp chuyên môn kỹ thuật trên địa bàn lân cận;
+
+d) Kết quả đấu thầu của các cơ sở khám bệnh, chữa bệnh công lập tuyến tỉnh, tuyến trung ương hoặc cơ sở khám bệnh, chữa bệnh cùng cấp chuyên môn kỹ thuật trên địa bàn Thành phố Hà Nội, Thành phố Hồ Chí Minh.
+
+<a id="dieu-95-khoan-5"></a>
+**5.** Trường hợp cơ sở y tế tư nhân chọn áp dụng Luật Đấu thầu để tổ chức lựa chọn nhà thầu cung cấp thuốc, việc thanh toán căn cứ kết quả lựa chọn nhà thầu nhưng không vượt đơn giá trúng thầu trên cùng địa bàn, kết quả mua sắm tập trung, kết quả đàm phán giá, kết quả đấu thầu trên địa bàn lân cận, địa bàn Thành phố Hà Nội, Thành phố Hồ Chí Minh theo nguyên tắc quy định tại khoản 3 Điều này.
+
+<a id="dieu-95-khoan-6"></a>
+**6.** Trường hợp cơ sở y tế tư nhân chọn áp dụng Luật Đấu thầu để tổ chức lựa chọn nhà thầu cung cấp hóa chất, vật tư xét nghiệm, thiết bị y tế, việc thanh toán căn cứ kết quả lựa chọn nhà thầu nhưng không vượt đơn giá trúng thầu trên cùng địa bàn, kết quả mua sắm tập trung, kết quả đàm phán giá, kết quả đấu thầu trên địa bàn lân cận, địa bàn Thành phố Hà Nội, Thành phố Hồ Chí Minh theo nguyên tắc quy định tại khoản 4 Điều này.
+
+## Chương VII. 
+
+__LỰA CHỌN NHÀ THẦU QUA MẠNG __
+
+### Mục 1. ĐẤU THẦU QUA MẠNG
+
+
+<a id="dieu-96"></a>
+### Điều 96. Kết nối Hệ thống mạng đấu thầu quốc gia với các hệ thống khác
+
+<a id="dieu-96-khoan-1"></a>
+**1.** Kết nối với Hệ thống thông tin quốc gia về đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký hộ kinh doanh:
+
+a) Hệ thống mạng đấu thầu quốc gia tiếp nhận thông tin về đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký hộ kinh doanh để phục vụ cho việc đăng ký tham gia, hoạt động của nhà thầu trên Hệ thống mạng đấu thầu quốc gia;
+
+b) Hệ thống mạng đấu thầu quốc gia sử dụng thông tin về tình trạng pháp lý, báo cáo tài chính và các thông tin khác của doanh nghiệp, hợp tác xã, hộ kinh doanh lưu giữ tại Hệ thống thông tin quốc gia về đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký hộ kinh doanh để đánh giá hồ sơ dự sơ tuyển, hồ sơ quan tâm, hồ sơ dự thầu và xét duyệt trúng thầu. Dữ liệu chia sẻ giữa Hệ thống thông tin quốc gia về đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký hộ kinh doanh với Hệ thống mạng đấu thầu quốc gia được cập nhật thường xuyên, liên tục;
+
+c) Bộ Kế hoạch và Đầu tư xây dựng, quản lý, hướng dẫn thực hiện kết nối giữa các Hệ thống quy định tại điểm a và điểm b khoản này.
+
+<a id="dieu-96-khoan-2"></a>
+**2.** Kết nối với Hệ thống thông tin quản lý thuế:
+
+a) Hệ thống mạng đấu thầu quốc gia sử dụng thông tin về thực hiện nghĩa vụ nộp thuế và thông tin báo cáo tài chính của tổ chức, doanh nghiệp, hộ kinh doanh trên Hệ thống thông tin quốc gia về đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký hộ kinh doanh để phục vụ cho việc đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ dự thầu và xét duyệt trúng thầu;
+
+b) Thông tin về nghĩa vụ nộp thuế và thông tin báo cáo tài chính của tổ chức, doanh nghiệp, hộ kinh doanh được cập nhật thường xuyên, liên tục;
+
+c) Bộ Tài chính, Bộ Kế hoạch và Đầu tư tổ chức thực hiện kết nối Hệ thống thông tin quản lý thuế với Hệ thống mạng đấu thầu quốc gia thông qua Hệ thống thông tin quốc gia về đăng ký doanh nghiệp, đăng ký hợp tác xã, đăng ký hộ kinh doanh; quản lý thông tin tiếp nhận theo quy định của pháp luật về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.
+
+<a id="dieu-96-khoan-3"></a>
+**3.** Kết nối với Hệ thống thông tin về quản lý ngân sách và kho bạc:
+
+a) Hệ thống mạng đấu thầu quốc gia chia sẻ các thông tin về hợp đồng, tiến độ thực hiện, bảng xác định giá trị khối lượng công việc hoàn thành, tiến độ thanh toán của hợp đồng phục vụ quản lý thực hiện hợp đồng, thanh toán hợp đồng và quản lý năng lực kinh nghiệm, kết quả thực hiện hợp đồng của nhà thầu;
+
+b) Bộ Tài chính, Bộ Kế hoạch và Đầu tư tổ chức thực hiện kết nối Hệ thống thông tin quản lý ngân sách và kho bạc với Hệ thống mạng đấu thầu quốc gia; quản lý thông tin tiếp nhận theo đúng quy định của pháp luật về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.
+
+<a id="dieu-96-khoan-4"></a>
+**4.** Hệ thống mạng đấu thầu quốc gia được kết nối với Bảo hiểm xã hội Việt Nam, Cổng thông tin và các Hệ thống khác để đơn giản hoá quy trình đấu thầu, quản lý hợp đồng, thanh toán hợp đồng.
+
+
+<a id="dieu-97"></a>
+### Điều 97. Quy trình lựa chọn nhà thầu qua mạng
+
+<a id="dieu-97-khoan-1"></a>
+**1.** Việc lập, thẩm định, phê duyệt hồ sơ mời sơ tuyển, hồ sơ mời quan tâm, hồ sơ mời thầu thực hiện theo quy định tại các Điều 23, 24, 25, 35, 36, 37, 60, 61 và 62 của Nghị định này.
+
+a) Đối với các nội dung yêu cầu trong bảng dữ liệu, tiêu chuẩn đánh giá về tính hợp lệ, năng lực, kinh nghiệm trong hồ sơ mời sơ tuyển, hồ sơ mời thầu của gói thầu mua sắm hàng hóa, xây lắp, dịch vụ phi tư vấn, chủ đầu tư, bên mời thầu không được đính kèm các file yêu cầu khác ngoài các nội dung đã được số hóa dưới dạng webform trên Hệ thống mạng đấu thầu quốc gia;
+
+b) Đối với các nội dung yêu cầu trong bảng dữ liệu, tiêu chuẩn đánh giá về tính hợp lệ, năng lực, kinh nghiệm, tiêu chuẩn đánh giá về kỹ thuật trong hồ sơ mời quan tâm, hồ sơ mời thầu của gói thầu dịch vụ tư vấn, chủ đầu tư, bên mời thầu không được đính kèm các file yêu cầu khác ngoài các nội dung đã được số hóa dưới dạng webform trên Hệ thống mạng đấu thầu quốc gia.
+
+<a id="dieu-97-khoan-2"></a>
+**2.** Tiêu chuẩn đánh giá hồ sơ dự sơ tuyển, hồ sơ quan tâm, hồ sơ dự thầu thực hiện theo quy định tại các Điều 23, 24, 35, 36, 60 và 61 của Nghị định này.
+
+<a id="dieu-97-khoan-3"></a>
+**3.** Nguyên tắc đánh giá hồ sơ dự thầu thực hiện theo quy định tại các khoản 1, 2, 3, 4, 6, 7 và 8 Điều 27, khoản 1 Điều 39 và khoản 1, khoản 2 Điều 64 của Nghị định này.
+
+Đối với gói thầu mua sắm hàng hóa, dịch vụ phi tư vấn theo phương thức một giai đoạn một túi hồ sơ, sử dụng phương pháp giá thấp nhất và các hồ sơ dự thầu không có bất kỳ ưu đãi nào thì Hệ thống mạng đấu thầu quốc gia tự động xếp hạng nhà thầu theo giá dự thầu; việc đánh giá hồ sơ dự thầu có thể được thực hiện đối với nhà thầu xếp hạng thứ nhất. Trường hợp nhà thầu xếp hạng thứ nhất không đáp ứng thì đánh giá đối với nhà thầu xếp hạng tiếp theo.
+
+<a id="dieu-97-khoan-4"></a>
+**4.** Việc làm rõ hồ sơ dự thầu được thực hiện thông qua Hệ thống mạng đấu thầu quốc gia theo quy định tại các khoản 1, 3, 4, 5 Điều 28 và các khoản 1, 3, 4, 5 Điều 65 của Nghị định này.
+
+<a id="dieu-97-khoan-5"></a>
+**5.** Việc sửa lỗi, hiệu chỉnh sai lệch thực hiện theo quy định tại Điều 29 và Điều 66 của Nghị định này.
+
+<a id="dieu-97-khoan-6"></a>
+**6.** Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, kết quả lựa chọn danh sách ngắn, kết quả lựa chọn nhà thầu được phê duyệt trên Hệ thống mạng đấu thầu quốc gia theo lộ trình quy định tại điểm d khoản 8 Điều này.
+
+<a id="dieu-97-khoan-7"></a>
+**7.** Nhà thầu có trách nhiệm theo dõi, cập nhật các thông tin trên Hệ thống mạng đấu thầu quốc gia đối với gói thầu mà nhà thầu quan tâm hoặc tham dự. Trường hợp xảy ra các sai sót do không theo dõi, cập nhật thông tin trên Hệ thống mạng đấu thầu quốc gia dẫn đến bất lợi cho nhà thầu trong quá trình tham dự thầu bao gồm: thay đổi, sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, thời điểm đóng thầu, thời gian thương thảo hợp đồng và các nội dung khác thì nhà thầu phải tự chịu trách nhiệm và chịu bất lợi trong quá trình tham dự thầu.
+
+<a id="dieu-97-khoan-8"></a>
+**8.** Việc lựa chọn nhà thầu qua mạng từ ngày Nghị định này có hiệu lực thi hành đến hết ngày 31 tháng 12 năm 2024 được thực hiện theo lộ trình sau:
+
+a) Tổ chức lựa chọn nhà thầu qua mạng đối với toàn bộ (100%) gói thầu thuộc dự án đầu tư áp dụng hình thức đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh trong nước thuộc lĩnh vực hàng hóa, xây lắp, dịch vụ phi tư vấn, dịch vụ tư vấn có giá gói thầu không quá 500 tỷ đồng, trừ gói thầu hỗn hợp, gói thầu áp dụng phương thức hai giai đoạn một túi hồ sơ, hai giai đoạn hai túi hồ sơ, đấu thầu quốc tế;
+
+b) Việc tổ chức lựa chọn nhà thầu qua mạng trong năm phải bảo đảm tổng số lượng gói thầu đạt tối thiểu 95% số lượng gói thầu và tối thiểu 90% tống giá trị gói thầu áp dụng hình thức đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh trong nước trừ gói thầu hỗn hợp, gói thầu áp dụng phương thức hai giai đoạn một túi hồ sơ, hai giai đoạn hai túi hồ sơ, đấu thầu quốc tế;
+
+c) Tổ chức lựa chọn nhà thầu qua mạng đối với toàn bộ (100%) gói thầu thuộc dự toán mua sắm áp dụng hình thức đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh trong nước, trừ gói thầu hỗn hợp, gói thầu áp dụng phương thức hai giai đoạn một túi hồ sơ, hai giai đoạn hai túi hồ sơ, đấu thầu quốc tế;
+
+d) Đối với gói thầu áp dụng lựa chọn nhà thầu qua mạng, việc phê duyệt hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, kết quả lựa chọn danh sách ngắn, kết quả lựa chọn nhà thầu trên Hệ thống mạng đấu thầu quốc gia được thực hiện kể từ ngày 01 tháng 12 năm 2024.
+
+<a id="dieu-97-khoan-9"></a>
+**9.** Các trường hợp không đấu thầu trên Hệ thống mạng đấu thầu quốc gia quy định tại khoản 5 Điều 50 của Luật Đấu thầu bao gồm:
+
+a) Gói thầu áp dụng phương thức hai giai đoạn một túi hồ sơ, hai giai đoạn hai túi hồ sơ, đấu thầu quốc tế;
+
+b) Gói thầu áp dụng hình thức chỉ định thầu, mua sắm trực tiếp, tự thực hiện, đàm phán giá, lựa chọn nhà thầu trong trường hợp đặc biệt, gói thầu có sự tham gia của cộng đồng, lựa chọn tư vấn cá nhân theo quy trình rút gọn. Đối với các hình thức lựa chọn nhà thầu này, việc ký hợp đồng điện tử được thực hiện trên cơ sở phù hợp với tính năng và sự phát triển của Hệ thống mạng đấu thầu quốc gia;
+
+c) Dự án, dự toán mua sắm, gói thầu có các nội dung được bảo mật mà việc công khai thông tin trên Hệ thống mạng đấu thầu quốc gia sẽ ảnh hưởng tới lợi ích cộng đồng hoặc gây nguy hại đến trật tự, an toàn xã hội hoặc gây nguy hại tới quốc phòng, an ninh, đối ngoại, biên giới lãnh thổ.
+
+Trường hợp việc công khai các thông tin về dự án, dự toán mua sắm, gói thầu, kế hoạch lựa chọn nhà thầu, hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, kết quả lựa chọn nhà thầu theo quy định tại Điều 8 của Luật Đấu thầu có thể dẫn đến các hậu quả quy định tại điểm này, chủ đầu tư báo cáo người có thẩm quyền xem xét, quyết định phê duyệt trong kế hoạch lựa chọn nhà thầu về việc không tổ chức đấu thầu qua mạng.
+
+Trường hợp một số thông tin trong dự án, dự toán mua sắm, gói thầu, hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu cần bảo mật và các thông tin còn lại vẫn được công khai thì chủ đầu tư báo cáo người có thẩm quyền về cách thức cung cấp thông tin. Các thông tin cần bảo mật không phải công khai trên Hệ thống mạng đấu thầu quốc gia; các thông tin khác được tiếp tục đăng tải và tổ chức lựa chọn nhà thầu qua mạng;
+
+d) Gói thầu vượt quá khả năng đáp ứng về hạ tầng kỹ thuật của Hệ thống mạng đấu thầu quốc gia;
+
+đ) Các gói thầu khác theo quy định của pháp luật.
+
+### Mục 2. CHÀO GIÁ TRỰC TUYẾN
+
+
+<a id="dieu-98"></a>
+### Điều 98. Điều kiện áp dụng chào giá trực tuyến
+
+<a id="dieu-98-khoan-1"></a>
+**1.** Chào giá trực tuyến bao gồm chào giá trực tuyến theo quy trình thông thường và chào giá trực tuyến theo quy trình rút gọn.
+
+<a id="dieu-98-khoan-2"></a>
+**2.** Chào giá trực tuyến theo quy trình thông thường được áp dụng trong các trường hợp sau đây:
+
+a) Gói thầu dịch vụ phi tư vấn thông dụng, đơn giản;
+
+b) Gói thầu mua sắm hàng hóa thông dụng, sẵn có trên thị trường với đặc tính kỹ thuật được tiêu chuẩn hóa và tương đương nhau về chất lượng; có sự cạnh tranh giữa các nhà cung cấp; tiêu chuẩn đánh giá quan trọng nhất là giá, không có hoặc ít có yếu tố tác động của chi phí vòng đời;
+
+c) Nhóm hàng hóa, dịch vụ có thể áp dụng chào giá trực tuyến bao gồm: nguyên liệu, nhiên liệu, vật liệu xây dựng cơ bản (quặng sắt, cốt liệu đường, vật liệu xây dựng, ống đồng và các nguyên liệu khác); thiết bị công nghệ thông tin đã được chuẩn hóa gồm máy tính, hộp mực, các modem và các thiết bị khác; giấy in, giấy photocopy, vật tư đơn giản, bóng đèn; mua quyền sử dụng phần mềm thương mại; năng lượng, than hoặc khí đốt; hóa chất; dịch vụ vận chuyển; dịch vụ vệ sinh; dịch vụ bảo trì; các hàng hóa, dịch vụ khác đáp ứng quy định tại điểm a và điểm b khoản này.
+
+<a id="dieu-98-khoan-3"></a>
+**3.** Chào giá trực tuyến theo quy trình rút gọn được áp dụng trong một hoặc các trường hợp sau đây:
+
+a) Gói thầu mua sắm hàng hóa, cung cấp dịch vụ phi tư vấn có giá trị không quá 300 triệu đồng đối với dự toán mua sắm;
+
+b) Gói thầu thuộc dự án đầu tư của doanh nghiệp nhà nước, doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ và dự án đầu tư theo Luật Đầu tư công, bao gồm: gói thầu mua sắm hàng hóa, cung cấp dịch vụ phi tư vấn có giá gói thầu không quá 01 tỷ đồng;
+
+c) Gói thầu mua sắm hàng hóa, cung cấp dịch vụ phi tư vấn phải mua của hãng sản xuất cụ thể để bảo đảm tính tương thích về công nghệ, bản quyền với các trang thiết bị, máy móc, phần mềm, dịch vụ sẵn có hoặc do các điều kiện bảo hành của hãng sản xuất mà không thể mua của hãng sản xuất khác và có nhiều nhà thầu có khả năng cung cấp.
+
+
+<a id="dieu-99"></a>
+### Điều 99. Nguyên tắc chào giá trực tuyến
+
+<a id="dieu-99-khoan-1"></a>
+**1.** Nhà thầu có thể liên tục thay đổi mức giá, các yếu tố khác ngoài giá (nếu có) trong thời gian chào giá trực tuyến. Mức giá, các yếu tố khác ngoài giá (nếu có) do các nhà thầu chào được công khai trên Hệ thống mạng đấu thầu quốc gia được công khai trong quá trình chào giá, trừ tên nhà thầu. Hệ thống mạng đấu thầu quốc gia tự động xếp hạng và công khai thứ tự xếp hạng của nhà thầu tương ứng với mức giá, các yếu tố khác ngoài giá (nếu có) trong thời gian chào giá trực tuyến; thời gian còn lại của quá trình chào giá trực tuyến.
+
+<a id="dieu-99-khoan-2"></a>
+**2.** Trường hợp giá dự thầu là yếu tố duy nhất được phép chào lại và gói thầu đánh giá theo phương pháp giá thấp nhất mà có nhiều nhà thầu cùng chào giá thấp nhất thì nhà thầu chào giá đầu tiên thấp nhất trúng thầu.
+
+<a id="dieu-99-khoan-3"></a>
+**3.** Trường hợp không sử dụng phương pháp giá thấp nhất, Hệ thống mạng đấu thầu quốc gia tự động xếp hạng nhà thầu theo tiêu chuẩn đánh giá trong hồ sơ mời thầu mà có nhiều nhà thầu cùng xếp hạng thứ nhất thì nhà thầu xếp hạng thứ nhất đầu tiên trúng thầu.
+
+<a id="dieu-99-khoan-4"></a>
+**4.** Thời điểm kết thúc chào giá trực tuyến phải trong giờ hành chính.
+
+<a id="dieu-99-khoan-5"></a>
+**5.** Giá chào không được cao hơn giá gói thầu và không được cao hơn giá chào thấp nhất đối với trường hợp giá là yếu tố duy nhất được chào lại. Trường hợp giá dự thầu sau giảm giá (nếu có) của tất cả nhà thầu đáp ứng yêu cầu về kỹ thuật vượt giá gói thầu và không có nhà thầu nào tham gia chào giá trực tuyến đối với chào giá trực tuyến theo quy trình thông thường thì chủ đầu tư xử lý tình huống theo quy định tại điểm b hoặc điểm c hoặc điểm d khoản 8 Điều 131 của Nghị định này.
+
+
+<a id="dieu-100"></a>
+### Điều 100. Quy trình chào giá trực tuyến thông thường
+
+<a id="dieu-100-khoan-1"></a>
+**1.** Trên cơ sở kế hoạch lựa chọn nhà thầu được phê duyệt, việc tổ chức chào giá trực tuyến theo quy trình thông thường được thực hiện tại bước đánh giá về tài chính, làm căn cứ để so sánh hồ sơ dự thầu và xếp hạng nhà thầu.
+
+<a id="dieu-100-khoan-2"></a>
+**2.** Chuẩn bị lựa chọn nhà thầu:
+
+Việc lập, thẩm định và phê duyệt hồ sơ mời thầu thực hiện theo quy định tại Điều 24 và Điều 25 của Nghị định này. Đối với gói thầu có giá gói thầu dưới 05 tỷ đồng, thời gian chuẩn bị hồ sơ dự thầu tối thiểu là 05 ngày làm việc kể từ ngày đầu tiên hồ sơ mời thầu được phát hành đến ngày có thời điểm đóng thầu.
+
+<a id="dieu-100-khoan-3"></a>
+**3.** Ngoài các nội dung quy định tại Điều 24 của Nghị định này, hồ sơ mời thầu còn phải bao gồm tối thiểu các thông tin sau liên quan đến quá trình chào giá trực tuyến:
+
+a) Thông báo về việc áp dụng chào giá trực tuyến trong quá trình lựa chọn nhà thầu;
+
+b) Các yếu tố khác ngoài giá mà nhà thầu được phép thay đổi (nếu có) và công thức quy đổi để so sánh, xếp hạng nhà thầu.
+
+<a id="dieu-100-khoan-4"></a>
+**4.** Tổ chức lựa chọn nhà thầu:
+
+Việc tổ chức lựa chọn nhà thầu được thực hiện theo quy định tại Điều 26 của Nghị định này.
+
+<a id="dieu-100-khoan-5"></a>
+**5.** Đánh giá hồ sơ dự thầu và tổ chức chào giá trực tuyến:
+
+a) Việc đánh giá hồ sơ dự thầu thực hiện theo quy định tại Điều 97 của Nghị định này;
+
+b) Danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật được thẩm định, phê duyệt. Trên cơ sở danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật, bên mời thầu gửi thông báo mời tham gia chào giá trực tuyến Trên Hệ thống mạng đấu thầu quốc gia đến các nhà thầu có tên trong danh sách trong thời hạn tối thiểu 03 ngày làm việc trước ngày có thời điểm bắt đầu chào giá trực tuyến. Thông báo mời tham gia chào giá trực tuyến bao gồm các nội dung sau: thời điểm bắt đầu chào giá trực tuyến; nguyên tắc xếp hạng nhà thầu, bao gồm cả công thức toán học được sử dụng trong quá trình chào giá trực tuyến (nếu có) để tự động xếp hạng nhà thầu trên cơ sở mức giá nhà thầu chào cùng với các yếu tố khác trong phiên chào giá trực tuyến; bước giá (mức chênh lệch tối thiểu của lần chào giá sau so với lần chào giá trước liền kề); thời điểm kết thúc chào giá trực tuyến; các thông tin liên quan khác (nếu có);
+
+c) Nhà thầu quyết định việc tham gia chào giá trực tuyến theo thông báo của bên mời thầu. Trường hợp nhà thầu được mời tham gia chào giá trực tuyến nhưng không tham gia thì hồ sơ dự thầu của nhà thầu sẽ tiếp tục được đánh giá về tài chính căn cứ theo hồ sơ dự thầu đã nộp trước thời điểm đóng thầu.
+
+<a id="dieu-100-khoan-6"></a>
+**6.** Ghi nhận kết quả chào giá trực tuyến:
+
+a) Nhà thầu tham gia chào giá trực tuyến trên Hệ thống mạng đấu thầu quốc gia. Thời gian chào giá trực tuyến tối thiểu là 03 giờ kể từ thời điểm bắt đầu chào giá trực tuyến;
+
+b) Hệ thống mạng đấu thầu quốc gia ghi nhận giá chào cuối cùng của từng nhà thầu tại thời điểm kết thúc chào giá trực tuyến và danh sách xếp hạng nhà thầu;
+
+c) Việc xét duyệt trúng thầu thực hiện theo quy định tại Điều 61 của Luật Đấu thầu căn cứ vào giá dự thầu và các yếu tố ngoài giá (nếu có) tại thời điểm kết thúc chào giá trực tuyến của nhà thầu xếp thứ nhất.
+
+<a id="dieu-100-khoan-7"></a>
+**7.** Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu:
+
+Việc trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu thực hiện theo quy định tại Điều 31 của Nghị định này.
+
+<a id="dieu-100-khoan-8"></a>
+**8.** Hoàn thiện, ký kết và quản lý thực hiện hợp đồng:
+
+Hợp đồng ký kết giữa các bên phải phù hợp với quyết định phê duyệt kết quả lựa chọn nhà thầu, hồ sơ mời thầu, hồ sơ dự thầu và các tài liệu liên quan khác. Việc hoàn thiện, ký kết và quản lý thực hiện hợp đồng thực hiện theo quy định tại Điều 32 và Điều 33 của Nghị định này.
+
+
+<a id="dieu-101"></a>
+### Điều 101. Quy trình chào giá trực tuyến rút gọn
+
+<a id="dieu-101-khoan-1"></a>
+**1.** Chuẩn bị thông báo mời thầu trên cơ sở kế hoạch lựa chọn nhà thầu được phê duyệt:
+
+Thông báo mời thầu bao gồm các thông tin sau đây:
+
+a) Yêu cầu cụ thể về xuất xứ, ký mã hiệu, nhãn hiệu, hãng sản xuất, thông số kỹ thuật của hàng hóa, thời gian giao hàng, bảo hành và các nội dung cần thiết khác (nếu có) đối với gói thầu mua sắm hàng hóa; phạm vi công việc, yêu cầu kỹ thuật, thời gian thực hiện, thời gian hoàn thành dịch vụ và các nội dung cần thiết khác (nếu có) đối với gói thầu dịch vụ phi tư vấn;
+
+b) Thời điểm bắt đầu chào giá trực tuyến, nguyên tắc xếp hạng nhà thầu, bước giá, thời điểm kết thúc chào giá trực tuyến và các thông tin liên quan khác (nếu có);
+
+c) Không nêu yêu cầu về bảo đảm dự thầu.
+
+<a id="dieu-101-khoan-2"></a>
+**2.** Sau khi chủ đầu tư phê duyệt thông báo mời thầu, bên mời thầu đăng tải thông báo mời thầu trên Hệ thống mạng đấu thầu quốc gia trong thời hạn tối thiểu 03 ngày làm việc trước ngày có thời điểm bắt đầu chào giá trực tuyến. Thời gian chào giá trực tuyến tối thiểu là 24 giờ kể từ thời điểm bắt đầu chào giá trực tuyến.
+
+<a id="dieu-101-khoan-3"></a>
+**3.** Nhà thầu tham gia chào giá trực tuyến trực tiếp trên Hệ thống mạng đấu thầu quốc gia để chào giá cho các nội dung xác định trong thông báo mời thầu và được chào giá theo thời hạn quy định trong thông báo mời thầu.
+
+<a id="dieu-101-khoan-4"></a>
+**4.** Để tham gia chào giá trực tuyến, nhà thầu phải cam kết trong đơn dự thầu đáp ứng các yêu cầu trong thông báo mời thầu. Trường hợp nhà thầu trúng thầu nhưng không thực hiện theo cam kết thì bị xử lý theo đúng cam kết trong đơn dự thầu (công khai tên nhà thầu trên Hệ thống mạng đấu thầu quốc gia và khóa tài khoản trong thời hạn 06 tháng kể từ ngày Bộ Kế hoạch và Đầu tư nhận được văn bản đề nghị của chủ đầu tư), trừ trường hợp bất khả kháng.
+
+<a id="dieu-101-khoan-5"></a>
+**5.** Ghi nhận kết quả chào giá trực tuyến:
+
+a) Hệ thống mạng đấu thầu quốc gia ghi nhận giá chào cuối cùng của từng nhà thầu tại thời điểm kết thúc chào giá trực tuyến và danh sách xếp hạng nhà thầu;
+
+b) Việc xét duyệt trúng thầu thực hiện theo quy định tại Điều 61 của Luật Đấu thầu căn cứ vào giá dự thầu tại thời điểm kết thúc chào giá trực tuyến của nhà thầu xếp thứ nhất.
+
+<a id="dieu-101-khoan-6"></a>
+**6.** Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu:
+
+Việc trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu thực hiện theo quy định tại Điều 31 của Nghị định này.
+
+<a id="dieu-101-khoan-7"></a>
+**7.** Hoàn thiện, ký kết và quản lý thực hiện hợp đồng:
+
+Hợp đồng ký kết giữa các bên phải phù hợp với quyết định phê duyệt kết quả lựa chọn nhà thầu, hồ sơ mời thầu, hồ sơ dự thầu và các tài liệu liên quan khác. Việc hoàn thiện, ký kết và quản lý thực hiện hợp đồng thực hiện theo quy định tại Điều 32 và Điều 33 của Nghị định này.
+
+### Mục 3. MUA SẮM TRỰC TUYẾN
+
+
+<a id="dieu-102"></a>
+### Điều 102. Hình thức mua sắm trực tuyến
+
+<a id="dieu-102-khoan-1"></a>
+**1.** Mua sắm trực tuyến phải được phê duyệt trong kế hoạch lựa chọn nhà thầu và được áp dụng đối với hàng hóa, dịch vụ của gói thầu thuộc dự toán mua sắm có giá gói thầu không quá 100 triệu đồng; gói thầu mua sắm hàng hóa, dịch vụ thuộc dự án đầu tư của doanh nghiệp nhà nước, doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ và dự án đầu tư theo Luật Đầu tư công có giá gói thầu không quá 01 tỷ đồng.
+
+<a id="dieu-102-khoan-2"></a>
+**2.** Thời gian áp dụng mua sắm trực tuyến đối với các hạng mục trong danh mục hàng hóa, dịch vụ mua sắm tập trung là thời gian thực hiện hợp đồng trong trường hợp không ký thỏa thuận khung nhưng không quá 12 tháng kể từ ngày hợp đồng có hiệu lực hoặc thời gian có hiệu lực của thỏa thuận khung.
+
+
+<a id="dieu-103"></a>
+### Điều 103. Quy trình mua sắm trực tuyến
+
+<a id="dieu-103-khoan-1"></a>
+**1.** Hệ thống mạng đấu thầu quốc gia tự động trích xuất thông tin về kết quả lựa chọn nhà thầu đối với mua sắm tập trung vào danh mục hàng hóa, dịch vụ áp dụng mua sắm trực tuyến.
+
+<a id="dieu-103-khoan-2"></a>
+**2.** Căn cứ danh mục hàng hóa, dịch vụ quy định tại khoản 1 Điều này, chủ đầu tư, bên mời thầu có nhu cầu mua sắm trực tuyến đặt mua hàng hóa, dịch vụ trực tiếp trên Hệ thống mạng đấu thầu quốc gia. Nội dung đơn hàng đối với từng hàng hóa, dịch vụ bao gồm: số lượng, khối lượng; phương thức vận chuyển và đơn giá vận chuyển (nếu có); đơn giá của hàng hóa, dịch vụ; phương thức thanh toán; địa điểm giao hàng hoặc địa điểm thực hiện; các thông tin cần thiết khác.
+
+<a id="dieu-103-khoan-3"></a>
+**3.** Đối với mỗi yêu cầu đặt hàng, Hệ thống mạng đấu thầu quốc gia tự động gửi thông báo cho nhà thầu đã trúng thầu trong mua sắm tập trung trước đó. Nhà thầu có trách nhiệm xác nhận đơn hàng hoặc từ chối đơn hàng trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 03 ngày kể từ ngày nhận được yêu cầu đặt hàng.
+
+<a id="dieu-103-khoan-4"></a>
+**4.** Hệ thống mạng đấu thầu quốc gia hiển thị thông báo về việc xác nhận đơn hàng hoặc từ chối đơn hàng của nhà thầu và gửi thông báo đến đơn vị đặt mua.
+
+<a id="dieu-103-khoan-5"></a>
+**5.** Công khai kết quả mua sắm trực tuyến.
+
+<a id="dieu-103-khoan-6"></a>
+**6.** Việc hoàn thiện, ký kết và quản lý thực hiện hợp đồng thực hiện theo quy định tại Điều 32 và Điều 33 của Nghị định này. Nhà thầu quản lý các đơn hàng đã xác nhận và chịu trách nhiệm cung cấp hàng hóa, dịch vụ theo yêu cầu, đảm bảo chất lượng và tiến độ.
+
+
+<a id="dieu-104"></a>
+### Điều 104. Thông tin hàng hóa, dịch vụ được mua sắm trực tuyến
+
+Trường hợp điều chỉnh giảm giá hàng hóa, dịch vụ so với quy định trong thỏa thuận khung, hợp đồng đã ký trước đó, nhà thầu thông báo cho đơn vị mua sắm tập trung và Hệ thống mạng đấu thầu quốc gia tối thiểu 05 ngày trước thời điểm điều chỉnh giảm giá hàng hóa, dịch vụ.
+
+## Chương VIII. 
+
+__HỢP ĐỒNG__
+
+
+<a id="dieu-105"></a>
+### Điều 105. Hợp đồng đối với nhà thầu được lựa chọn
+
+<a id="dieu-105-khoan-1"></a>
+**1.** Hợp đồng ký kết giữa chủ đầu tư (hoặc đơn vị được ủy quyền) với nhà thầu là hợp đồng dân sự và được xác lập bằng văn bản. Người đại diện theo pháp luật hoặc người được đại diện theo pháp luật ủy quyền (sau đây gọi là đại diện hợp pháp) của nhà thầu có trách nhiệm ký hợp đồng; đối với nhà thầu liên danh, đại diện hợp pháp của các thành viên liên danh chịu trách nhiệm ký hợp đồng theo quy định tại khoản 3 Điều 67 của Luật Đấu thầu. Hợp đồng đã được các bên ký kết, có hiệu lực và phù hợp với quy định của pháp luật là cơ sở pháp lý cao nhất ràng buộc trách nhiệm, nghĩa vụ của các bên trong quá trình thực hiện hợp đồng và để giải quyết tranh chấp phát sinh (nếu có).
+
+Nội dung của hợp đồng phải được lập theo mẫu quy định trong hồ sơ mời thầu, hồ sơ yêu cầu, đồng thời phù hợp với kết quả thương thảo hợp đồng (nếu có), kết quả hoàn thiện hợp đồng, kết quả lựa chọn nhà thầu trên cơ sở yêu cầu của gói thầu và hướng dẫn của cơ quan quản lý nhà nước chuyên ngành.
+
+<a id="dieu-105-khoan-2"></a>
+**2.** Khi ký kết hợp đồng, văn bản hợp đồng phải đảm bảo phù hợp với các nội dung sau:
+
+a) Điều kiện chung của hợp đồng, điều kiện cụ thể của hợp đồng trong hồ sơ mời thầu, hồ sơ yêu cầu và các nội dung hiệu chỉnh, bổ sung, làm rõ trong quá trình lựa chọn nhà thầu;
+
+b) Các nội dung đề xuất của nhà thầu trong hồ sơ dự thầu, hồ sơ đề xuất được chủ đầu tư chấp thuận và các nội dung thống nhất giữa hai bên trong quá trình thương thảo hợp đồng (nếu có), hoàn thiện hợp đồng;
+
+c) Quyết định phê duyệt kết quả lựa chọn nhà thầu;
+
+d) Quy định của pháp luật.
+
+<a id="dieu-105-khoan-3"></a>
+**3.** Việc quản lý chất lượng hàng hóa, dịch vụ; đồng tiền và hình thức thanh toán hợp đồng; tạm ứng; thanh toán hợp đồng; nguyên tắc thanh toán, thanh lý hợp đồng thực hiện theo quy định tại các Điều 108, 109, 110, 111, 112 và 113 của Nghị định này.
+
+
+<a id="dieu-106"></a>
+### Điều 106. Sửa đổi hợp đồng
+
+<a id="dieu-106-khoan-1"></a>
+**1.** Sửa đổi hợp đồng là việc chủ đầu tư, nhà thầu thống nhất sửa đổi, bổ sung một hoặc một số nội dung so với quy định trong hợp đồng đã ký. Việc sửa đổi hợp đồng chỉ được thực hiện trong thời gian hợp đồng còn hiệu lực; việc sửa đổi các nội dung về tiến độ, khối lượng, giá thực hiện theo quy định tại khoản 2 Điều 70 của Luật Đấu thầu. Việc sửa đổi hợp đồng được áp dụng đối với tất cả loại hợp đồng quy định tại Điều 64 của Luật Đấu thầu và phải được thực hiện bằng văn bản sửa đổi hợp đồng.
+
+<a id="dieu-106-khoan-2"></a>
+**2.** Các bên có thể thỏa thuận trong hợp đồng về quy trình, thủ tục sửa đổi hợp đồng theo quy định tại điểm a khoản 1 Điều 70 của Luật Đấu thầu trong các trường hợp sau đây:
+
+a) Khi có sự thay đổi về chính sách, pháp luật làm ảnh hưởng trực tiếp đến việc thực hiện hợp đồng;
+
+b) Sự kiện bất khả kháng;
+
+c) Thay đổi phương thức vận chuyển, địa điểm giao hàng, dịch vụ liên quan đối với gói thầu mua sắm hàng hóa;
+
+d) Bổ sung khối lượng, số lượng công việc thuộc tùy chọn mua thêm ngoài khối lượng, số lượng nêu trong hợp đồng. Trong trường hợp này, văn bản sửa đổi hợp đồng phải quy định rõ khối lượng, giá trị, thời gian giao hàng hoặc thời gian hoàn thành dịch vụ đối với công việc bổ sung và các nội dung cần thiết khác. Thời gian giao hàng hoặc thời gian hoàn thành dịch vụ cho khối lượng công việc bổ sung có thể ngoài thời gian thực hiện hợp đồng ban đầu nhưng phải được người có thẩm quyền cho phép. Chủ đầu tư được áp dụng tùy chọn mua thêm nhiều lần nhưng không vượt mức tối đa nêu trong kế hoạch lựa chọn nhà thầu.
+
+Trường hợp tại thời điểm áp dụng tùy chọn mua thêm có sự thay đổi về chính sách thuế giá trị gia tăng thì đơn giá hàng hóa, dịch vụ (bao gồm thuế giá trị gia tăng) thuộc tùy chọn mua thêm không được vượt giá trị trước thuế của hàng hóa, dịch vụ trong hợp đồng đã ký cộng với thuế giá trị gia tăng tại thời điểm áp dụng tùy chọn mua thêm;
+
+đ) Thay đổi về thiết kế được duyệt;
+
+e) Một hoặc các bên đề xuất các sáng kiến, cải tiến thực hiện hợp đồng mang lại lợi ích cao hơn cho chủ đầu tư;
+
+g) Thay đổi tiến độ hợp đồng theo quy định tại khoản 3 Điều 70 của Luật Đấu thầu;
+
+h) Các trường hợp khác theo quy định của pháp luật và thỏa thuận giữa các bên, bao gồm khối lượng, giá và các nội dung khác.
+
+<a id="dieu-106-khoan-3"></a>
+**3.** Khi chỉ số giá và các yếu tố khác biến động theo hướng dẫn của Bộ Xây dựng, chủ đầu tư và nhà thầu có thể xem xét sửa đổi hợp đồng đối với gói thầu thuộc phạm vi điều chỉnh của Luật Xây dựng bảo đảm phù hợp với quy định về sửa đổi hợp đồng do hoàn cảnh thực hiện hợp đồng có thay đổi cơ bản quy định tại pháp luật dân sự.
+
+<a id="dieu-106-khoan-4"></a>
+**4.** Đối với gói thầu mua sắm hàng hóa, cung cấp dịch vụ phi tư vấn thuộc dự toán mua sắm áp dụng hợp đồng theo đơn giá cố định, hợp đồng theo đơn giá điều chỉnh, trường hợp hết thời gian thực hiện hợp đồng mà khối lượng công việc quy định tại hợp đồng ban đầu chưa được thực hiện hết thì chủ đầu tư có thể báo cáo người có thẩm quyền xem xét, quyết định việc gia hạn thời gian thực hiện hợp đồng nhưng không quá 06 tháng, trừ trường hợp quy định tại khoản 5 Điều 93 của Nghị định này.
+
+<a id="dieu-106-khoan-5"></a>
+**5.** Các trường hợp thay đổi giá hợp đồng, khối lượng và các nội dung khác đã được quy định trong hợp đồng mà không phải sửa đổi hợp đồng, không phải ký kết văn bản sửa đổi hợp đồng đáp ứng quy định tại khoản 5 Điều 70 của Luật Đấu thầu bao gồm:
+
+a) Điều chỉnh giá hợp đồng do lạm phát, giảm phát đối với hợp đồng theo đơn giá điều chỉnh, hợp đồng theo thời gian, hợp đồng theo kết quả đầu ra (nếu có) theo quy định tại khoản 2 và khoản 3 Điều 107 của Nghị định này;
+
+b) Tăng, giảm khối lượng đối với hợp đồng theo đơn giá cố định, đơn giá điều chỉnh; đối với gói thầu mua sắm hàng hóa, phi tư vấn áp dụng hợp đồng theo đơn giá cố định, đơn giá điều chỉnh, việc bổ sung khối lượng thuộc tùy chọn mua thêm áp dụng sửa đổi hợp đồng theo quy định tại điểm d khoản 2 Điều này;
+
+c) Tăng, giảm thời gian đối với hợp đồng theo thời gian; tăng, giảm chi phí trực tiếp thực hiện đối với hợp đồng chi phí cộng phí; tăng, giảm giá trị cơ sở để tính phần trăm chi phí đối với hợp đồng theo tỷ lệ phần trăm; tăng, giảm mức giảm trừ thanh toán, mức tăng giá trị thanh toán đối với hợp đồng theo kết quả đầu ra;
+
+d) Các trường hợp khác theo quy định của pháp luật và thỏa thuận giữa các bên.
+
+Trường hợp việc thay đổi các nội dung quy định tại khoản này dẫn đến không đáp ứng được một hoặc các điều kiện quy định tại khoản 5 Điều 70 của Luật Đấu thầu thì phải báo cáo người có thẩm quyền cho phép sửa đổi hợp đồng.
+
+
+<a id="dieu-107"></a>
+### Điều 107. Điều chỉnh giá hợp đồng do lạm phát, giảm phát
+
+<a id="dieu-107-khoan-1"></a>
+**1.** Việc điều chỉnh giá hợp đồng do lạm phát, giảm phát (sau đây gọi là điều chỉnh trượt giá hợp đồng) đối với loại hợp đồng theo đơn giá điều chỉnh được thực hiện theo quy định tại khoản 2 và khoản 3 Điều này. Đối với hợp đồng theo thời gian, hợp đồng theo kết quả đầu ra, trượt giá hợp đồng có thể được áp dụng đối với hợp đồng có thời gian thực hiện dài hoặc trong hoàn cảnh thị trường có biến động giá lớn.
+
+<a id="dieu-107-khoan-2"></a>
+**2.** Việc áp dụng điều chỉnh trượt giá phải được quy định trong hồ sơ mời thầu, hồ sơ yêu cầu và được hoàn thiện nội dung trong quá trình thương thảo hợp đồng (nếu có), hoàn thiện hợp đồng. Hợp đồng phải quy định nguyên tắc, thời gian tính điều chỉnh; cơ sở dữ liệu đầu vào để tính điều chỉnh; thời điểm để tính toán chỉ số giá hoặc giá gốc để làm cơ sở xác định chênh lệch do trượt giá cho mỗi lần thanh toán hợp đồng. Nội dung giá hợp đồng phải bao gồm mục giá trị trượt giá tạm tính trên cơ sở dự kiến trượt giá và quy định pháp luật về quản lý chi phí để làm cơ sở thanh toán. Việc quản lý và thanh toán giá trị trượt giá theo quy định đã có trong hợp đồng, không yêu cầu phải ký văn bản sửa đổi hợp đồng; trường hợp do biến động về giá, việc thanh toán các đợt tiếp theo dẫn đến giá hợp đồng vượt giá gói thầu thì chủ đầu tư phải báo cáo người có thẩm quyền xem xét, chấp thuận. Trường hợp được người có thẩm quyền chấp thuận, các bên ký kết văn bản sửa đổi hợp đồng trước khi thực hiện thanh toán.
+
+<a id="dieu-107-khoan-3"></a>
+**3.** Trượt giá hợp đồng được xác định theo các phương pháp sau:
+
+a) Phương pháp bù trừ trực tiếp;
+
+b) Phương pháp điều chỉnh bằng công thức điều chỉnh trên cơ sở áp dụng chỉ số giá. Chỉ số giá để làm cơ sở tính trượt giá được xác định theo quy định trong hồ sơ mời thầu, hồ sơ yêu cầu và nội dung thương thảo hợp đồng (nếu có), hoàn thiện hợp đồng. Nguồn chỉ số có thể quy định áp dụng theo chỉ số giá do Tổng cục Thống kê Việt Nam công bố hoặc chỉ số giá xây dựng do Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh công bố. Đối với nội dung chi phí tính điều chỉnh trượt giá có nguồn gốc từ nước ngoài, có thể quy định áp dụng chỉ số giá được cơ quan thống kê độc lập nơi phát sinh chi phí ở nước ngoài công bố. Việc xác định phương pháp, công thức tính điều chỉnh giá phải dựa trên cơ sở khoa học, phù hợp tính chất của gói thầu và quy định cụ thể về quản lý rủi ro trượt giá trong hợp đồng. Chủ đầu tư có thể vận dụng các công thức điều chỉnh đang áp dụng rộng rãi trên thị trường quốc tế bao gồm các mẫu quy định của Hiệp hội quốc tế các kỹ sư tư vấn (FIDIC), hướng dẫn của Ngân hàng Thế giới (WB), Ngân hàng Phát triển Châu Á (ADB) và các mẫu khác;
+
+c) Phương pháp điều chỉnh ngoài quy định tại điểm a và điểm b khoản này theo quy định của pháp luật.
+
+
+<a id="dieu-108"></a>
+### Điều 108. Quản lý chất lượng hàng hóa, dịch vụ
+
+<a id="dieu-108-khoan-1"></a>
+**1.** Các yêu cầu về chất lượng hàng hóa, dịch vụ phải được quy định cụ thể thông qua chỉ tiêu, thông số, quy cách kỹ thuật sản phẩm, quy trình kiểm soát chất lượng nêu trong yêu cầu kỹ thuật, điều kiện cụ thể của hợp đồng và các nội dung khác trong hồ sơ mời thầu, hồ sơ yêu cầu. Trên cơ sở đề xuất của nhà thầu trong hồ sơ dự thầu, các nội dung làm rõ, bổ sung trong quá trình đánh giá hồ sơ dự thầu, hồ sơ đề xuất và nội dung thương thảo (nếu có), hoàn thiện hợp đồng, yêu cầu về chất lượng hàng hóa, dịch vụ được bổ sung, hoàn thiện để ký kết hợp đồng làm cơ sở thực hiện.
+
+<a id="dieu-108-khoan-2"></a>
+**2.** Hợp đồng phải quy định quy trình và thủ tục để kiểm soát các chỉ tiêu chất lượng của hàng hóa, dịch vụ; kiểm soát nguồn gốc xuất xứ của hàng hóa.
+
+
+<a id="dieu-109"></a>
+### Điều 109. Đồng tiền và hình thức thanh toán hợp đồng
+
+<a id="dieu-109-khoan-1"></a>
+**1.** Đồng tiền sử dụng để thanh toán hợp đồng phải được quy định cụ thể trong hợp đồng và phù hợp với yêu cầu của hồ sơ mời thầu, hồ sơ yêu cầu và không được trái với các quy định của pháp luật.
+
+<a id="dieu-109-khoan-2"></a>
+**2.** Các chi phí trong nước phải được thanh toán bằng đồng Việt Nam, các chi phí bên ngoài lãnh thổ Việt Nam được thanh toán bằng đồng tiền nước ngoài, đồng Việt Nam theo quy định trong hợp đồng.
+
+<a id="dieu-109-khoan-3"></a>
+**3.** Hình thức thanh toán có thể bằng tiền mặt, chuyển khoản và các hình thức khác do các bên thỏa thuận theo quy định của pháp luật và phải được ghi trong hợp đồng.
+
+
+<a id="dieu-110"></a>
+### Điều 110. Tạm ứng hợp đồng
+
+<a id="dieu-110-khoan-1"></a>
+**1.** Tạm ứng hợp đồng là khoản kinh phí được ứng trước cho nhà thầu để triển khai thực hiện các công việc theo hợp đồng.
+
+<a id="dieu-110-khoan-2"></a>
+**2.** Tùy theo quy mô, tính chất của gói thầu để xác định mức tạm ứng, phù hợp với quy định của pháp luật (nếu có). Hợp đồng phải quy định về mức tạm ứng, thời điểm tạm ứng, bảo lãnh tạm ứng, thu hồi tạm ứng; trách nhiệm của các bên trong việc quản lý, sử dụng kinh phí tạm ứng; thu giá trị của bảo lãnh tạm ứng trong trường hợp sử dụng kinh phí tạm ứng không đúng mục đích.
+
+<a id="dieu-110-khoan-3"></a>
+**3.** Nhà thầu chịu trách nhiệm quản lý việc sử dụng vốn tạm ứng đúng mục đích, đúng đối tượng, có hiệu quả. Nghiêm cấm việc tạm ứng mà không sử dụng hoặc sử dụng không đúng mục đích.
+
+
+<a id="dieu-111"></a>
+### Điều 111. Thanh toán hợp đồng
+
+<a id="dieu-111-khoan-1"></a>
+**1.** Giá hợp đồng và các điều khoản cụ thể về thanh toán được ghi trong hợp đồng là cơ sở để thanh toán cho nhà thầu.
+
+<a id="dieu-111-khoan-2"></a>
+**2.** Việc thanh toán không căn cứ theo dự toán và các quy định, hướng dẫn hiện hành của Nhà nước về định mức, đơn giá; không căn cứ vào đơn giá trong hóa đơn tài chính đối với các yếu tố đầu vào của nhà thầu, bao gồm vật tư, máy móc, thiết bị và các yếu tố đầu vào khác.
+
+<a id="dieu-111-khoan-3"></a>
+**3.** Trường hợp trong một hợp đồng có nhiều loại hợp đồng khác nhau thì áp dụng nguyên tắc thanh toán tương ứng với từng loại hợp đồng theo quy định tại Điều 112 của Nghị định này.
+
+
+<a id="dieu-112"></a>
+### Điều 112. Nguyên tắc thanh toán đối với các loại hợp đồng
+
+<a id="dieu-112-khoan-1"></a>
+**1.** Đối với hợp đồng trọn gói:
+
+Việc thanh toán được thực hiện theo tỷ lệ phần trăm giá hợp đồng hoặc giá công trình, hạng mục công trình, khối lượng công việc tương ứng với giai đoạn thanh toán được các bên thỏa thuận trong hợp đồng; khi thanh toán không yêu cầu có xác nhận khối lượng hoàn thành chi tiết.
+
+<a id="dieu-112-khoan-2"></a>
+**2.** Đối với hợp đồng theo đơn giá cố định:
+
+Giá trị thanh toán được xác định trên cơ sở đơn giá cố định trong hợp đồng nhân với khối lượng, số lượng công việc thực tế mà nhà thầu đã thực hiện và đã được nghiệm thu tương ứng với các mốc hoàn thành và quy định trong hợp đồng.
+
+<a id="dieu-112-khoan-3"></a>
+**3.** Đối với hợp đồng theo đơn giá điều chỉnh:
+
+Giá trị thanh toán được xác định trên cơ sở đơn giá hoặc đơn giá đã được điều chỉnh theo quy định trong hợp đồng nhân với khối lượng, số lượng công việc thực tế mà nhà thầu đã thực hiện và đã được nghiệm thu tương ứng với các mốc hoàn thành và quy định trong hợp đồng; trường hợp hợp đồng không điều chỉnh đơn giá mà điều chỉnh trượt giá thì giá trị thanh toán được xác định theo giá hợp đồng được điều chỉnh trượt giá theo quy định của hợp đồng.
+
+<a id="dieu-112-khoan-4"></a>
+**4.** Đối với hợp đồng theo thời gian:
+
+a) Mức thù lao cho chuyên gia: được tính xác định trên cơ sở lương của chuyên gia và các chi phí liên quan đến lương như bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, nghỉ lễ, nghỉ tết, chi phí quản lý của nhà thầu (nếu có) và các chi phí khác được nêu trong hợp đồng hoặc được điều chỉnh theo quy định nhân với thời gian làm việc thực tế (theo tháng, tuần, ngày, giờ) tương ứng với các mốc hoàn thành và quy định trong hợp đồng;
+
+b) Đối với các công việc ngoài quy định tại điểm a khoản này áp dụng đơn giá theo đơn vị thời gian, việc thanh toán căn cứ vào đơn giá nhân với thời gian làm việc, sử dụng thực tế tương ứng với các mốc hoàn thành và quy định trong hợp đồng;
+
+c) Các khoản chi phí liên quan (ngoài chi phí lương của chuyên gia, chi phí công việc khác áp dụng đơn giá theo đơn vị thời gian quy định tại điểm a và điểm b khoản này) bao gồm: chi phí đi lại, khảo sát, thuê văn phòng làm việc, thông tin liên lạc và các chi phí khác thì thanh toán theo phương thức quy định trong hợp đồng. Đối với mỗi khoản chi phí này, hợp đồng cần quy định rõ phương thức thanh toán như thanh toán theo thực tế dựa vào hóa đơn, chứng từ hợp lệ do nhà thầu xuất trình hoặc thanh toán trên cơ sở đơn giá thỏa thuận trong hợp đồng.
+
+<a id="dieu-112-khoan-5"></a>
+**5.** Đối với hợp đồng theo tỷ lệ phần trăm:
+
+Giá trị thanh toán được xác định trên cơ sở tỷ lệ phần trăm ghi trong hợp đồng nhân với giá trị công trình được nghiệm thu và phù hợp với thời hạn bảo hiểm công trình ghi trong hợp đồng.
+
+<a id="dieu-112-khoan-6"></a>
+**6.** Đối với hợp đồng theo kết quả đầu ra:
+
+Giá trị thanh toán được xác định trên cơ sở giá trị công việc thực tế đã được nghiệm thu tương ứng với giai đoạn thanh toán được các bên thỏa thuận trong hợp đồng, cộng hoặc trừ với mức tăng giá trị thanh toán, mức giảm trừ thanh toán theo quy định trong hợp đồng căn cứ theo kết quả đầu ra.
+
+<a id="dieu-112-khoan-7"></a>
+**7.** Đối với hợp đồng theo chi phí cộng phí:
+
+Việc thanh toán căn cứ vào các chi phí thực tế mà nhà thầu đã bỏ ra để thực hiện hợp đồng, cộng với mức lợi nhuận phù hợp cho nhà thầu trên cơ sở quy định tại hợp đồng.
+
+<a id="dieu-112-khoan-8"></a>
+**8.** Việc xử lý hồ sơ thanh toán được thực hiện trong thời hạn 14 ngày kể từ ngày nhà thầu nộp đủ chứng từ, hồ sơ thanh toán cho chủ đầu tư.
+
+
+<a id="dieu-113"></a>
+### Điều 113. Thanh lý hợp đồng
+
+<a id="dieu-113-khoan-1"></a>
+**1.** Hợp đồng được thanh lý trong trường hợp sau đây:
+
+a) Các bên hoàn thành các nghĩa vụ theo hợp đồng đã ký;
+
+b) Hợp đồng bị chấm dứt (hủy bỏ) theo quy định của pháp luật.
+
+<a id="dieu-113-khoan-2"></a>
+**2.** Các bên có thể thỏa thuận về việc hợp đồng tự động hết hiệu lực khi hoàn thành các nghĩa vụ theo hợp đồng đã ký hoặc ký kết biên bản thanh lý hợp đồng. Biên bản thanh lý hợp đồng có thể được lập riêng hoặc như một phần của biên bản nghiệm thu đợt cuối cùng hoặc biên bản thống nhất chấm dứt hợp đồng với nội dung phù hợp với trách nhiệm các bên đã quy định trong hợp đồng. Việc thanh lý hợp đồng phải được thực hiện trong thời hạn 45 ngày kể từ ngày các bên hoàn thành các nghĩa vụ theo hợp đồng đã ký hoặc trong thời hạn 45 ngày kể từ ngày hợp đồng bị chấm dứt (hủy bỏ) theo quy định của pháp luật và không quá 90 ngày đối với những hợp đồng có quy mô lớn, phức tạp.
+
+## Chương IX. 
+
+__KIỂM TRA, GIÁM SÁT HOẠT ĐỘNG ĐẤU THẦU VÀ XỬ LÝ VI PHẠM TRONG ĐẤU THẦU__
+
+### Mục 1. KIỂM TRA HOẠT ĐỘNG ĐẤU THẦU
+
+
+<a id="dieu-114"></a>
+### Điều 114. Trách nhiệm kiểm tra hoạt động đấu thầu
+
+<a id="dieu-114-khoan-1"></a>
+**1.** Bộ Kế hoạch và Đầu tư:
+
+a) Chủ trì tổ chức kiểm tra hoạt động đấu thầu tại các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương, địa phương theo kế hoạch định kỳ do Bộ trưởng Bộ Kế hoạch và Đầu tư phê duyệt;
+
+b) Chủ trì tổ chức kiểm tra hoạt động đấu thầu theo quy định tại khoản 2 Điều này;
+
+c) Cơ quan, đơn vị có chức năng, nhiệm vụ quản lý về hoạt động đấu thầu thuộc Bộ Kế hoạch và Đầu tư giúp Bộ trưởng Bộ Kế hoạch và Đầu tư thực hiện kiểm tra hoạt động đấu thầu theo quy định tại điểm a khoản này.
+
+<a id="dieu-114-khoan-2"></a>
+**2.** Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương chủ trì tổ chức kiểm tra hoạt động đấu thầu đối với các dự án do Thủ trưởng cơ quan ở trung ương quyết định đầu tư và các đơn vị thuộc phạm vi quản lý của mình.
+
+<a id="dieu-114-khoan-3"></a>
+**3.** Ủy ban nhân dân cấp tỉnh:
+
+a) Chủ trì tổ chức kiểm tra hoạt động đấu thầu của các đơn vị thuộc phạm vi quản lý và các dự án do Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định đầu tư;
+
+b) Sở Kế hoạch và Đầu tư giúp Ủy ban nhân dân cấp tỉnh thực hiện kiểm tra hoạt động đấu thầu theo quy định tại điểm a khoản này.
+
+<a id="dieu-114-khoan-4"></a>
+**4.** Người có thẩm quyền của doanh nghiệp nhà nước tổ chức kiểm tra hoạt động đấu thầu đối với các dự án đầu tư do mình quyết định đầu tư, dự án đầu tư của doanh nghiệp do doanh nghiệp mình nắm giữ 100% vốn điều lệ.
+
+
+<a id="dieu-115"></a>
+### Điều 115. Trách nhiệm của đoàn kiểm tra, thành viên đoàn kiểm tra
+
+<a id="dieu-115-khoan-1"></a>
+**1.** Trách nhiệm của đoàn kiểm tra:
+
+a) Thực hiện kiểm tra hoạt động đấu thầu theo quy định tại quyết định kiểm tra;
+
+b) Đề nghị đơn vị được kiểm tra, tổ chức, cá nhân có liên quan cung cấp thông tin, tài liệu để phục vụ việc kiểm tra theo yêu cầu của đoàn kiểm tra;
+
+c) Xây dựng dự thảo báo cáo kiểm tra và thông báo về dự thảo báo cáo kiểm tra cho tổ chức, cá nhân thuộc đơn vị được kiểm tra;
+
+d) Xây dựng dự thảo kết luận kiểm tra.
+
+<a id="dieu-115-khoan-2"></a>
+**2.** Trách nhiệm của Trưởng đoàn kiểm tra:
+
+a) Tổ chức xây dựng và phê duyệt kế hoạch kiểm tra chi tiết;
+
+b) Phân công nhiệm vụ cho các thành viên đoàn kiểm tra khi thực hiện kiểm tra.
+
+<a id="dieu-115-khoan-3"></a>
+**3.** Trách nhiệm của thành viên đoàn kiểm tra:
+
+a) Thực hiện kiểm tra theo đúng quy định và theo phân công của Trưởng đoàn kiểm tra;
+
+b) Xây dựng báo cáo kết quả kiểm tra cá nhân theo phân công;
+
+c) Báo cáo Trưởng đoàn kiểm tra về kết quả kiểm tra do mình thực hiện;
+
+d) Được quyền bảo lưu ý kiến và chịu trách nhiệm trước pháp luật về ý kiến của mình.
+
+
+<a id="dieu-116"></a>
+### Điều 116. Trách nhiệm của tổ chức, cá nhân thuộc đơn vị được kiểm tra và tổ chức, cá nhân có liên quan
+
+<a id="dieu-116-khoan-1"></a>
+**1.** Trách nhiệm của tổ chức, cá nhân thuộc đơn vị được kiểm tra:
+
+a) Phối hợp và tạo điều kiện cho đoàn kiểm tra trong quá trình kiểm tra;
+
+b) Báo cáo trung thực, cung cấp thông tin, tài liệu kịp thời, đầy đủ và chịu trách nhiệm trước pháp luật về nội dung đã cung cấp;
+
+c) Giải trình về các nội dung tại dự thảo báo cáo kiểm tra (nếu có);
+
+d) Thực hiện kết luận kiểm tra của cơ quan kiểm tra;
+
+đ) Gửi báo cáo phản hồi về tình hình thực hiện kết luận kiểm tra đến cơ quan kiểm tra theo quy định tại khoản 4 Điều 121 của Nghị định này.
+
+<a id="dieu-116-khoan-2"></a>
+**2.** Trách nhiệm của tổ chức, cá nhân có liên quan:
+
+a) Báo cáo trung thực, cung cấp thông tin, tài liệu kịp thời, đầy đủ khi đoàn kiểm tra có yêu cầu và chịu trách nhiệm trước pháp luật về nội dung đã cung cấp;
+
+b) Giải trình về các nội dung tại dự thảo báo cáo kiểm tra (nếu có).
+
+
+<a id="dieu-117"></a>
+### Điều 117. Nguyên tắc tổ chức kiểm tra
+
+<a id="dieu-117-khoan-1"></a>
+**1.** Tuân thủ quy định của pháp luật, bảo đảm chính xác, khách quan, công khai, minh bạch và kịp thời.
+
+<a id="dieu-117-khoan-2"></a>
+**2.** Công tâm, khách quan, không gây khó khăn cho đơn vị được kiểm tra; tuân thủ các quy định về phòng, chống tham nhũng.
+
+<a id="dieu-117-khoan-3"></a>
+**3.** Tiến hành độc lập nhưng có sự phối hợp và phân định rõ thẩm quyền giữa các cơ quan có thẩm quyền kiểm tra.
+
+<a id="dieu-117-khoan-4"></a>
+**4.** Không chồng chéo, trùng lặp về phạm vi, đơn vị được kiểm tra, nội dung và thời gian kiểm tra giữa các cơ quan có thẩm quyền kiểm tra.
+
+<a id="dieu-117-khoan-5"></a>
+**5.** Trường hợp có sự trùng lặp về đơn vị được kiểm tra thì ưu tiên thực hiện kiểm tra của cơ quan quản lý chuyên ngành hoặc cơ quan cấp trên.
+
+
+<a id="dieu-118"></a>
+### Điều 118. Hình thức kiểm tra
+
+<a id="dieu-118-khoan-1"></a>
+**1.** Kiểm tra định kỳ:
+
+a) Kiểm tra định kỳ được thực hiện theo kế hoạch thường xuyên hằng năm được người đứng đầu cơ quan có thẩm quyền kiểm tra phê duyệt;
+
+b) Căn cứ tình hình thực hiện hoạt động đấu thầu của từng năm, đơn vị chủ trì kiểm tra lập kế hoạch kiểm tra định kỳ cho năm kế tiếp, trình người đứng đầu cơ quan có thẩm quyền kiểm tra phê duyệt. Kế hoạch kiểm tra định kỳ bao gồm các nội dung sau đây: danh sách các đơn vị được kiểm tra; dự án, dự toán mua sắm sẽ tiến hành kiểm tra; thời gian thực hiện kiểm tra; phạm vi và nội dung kiểm tra; đơn vị phối hợp kiểm tra (nếu có);
+
+c) Trường hợp cần điều chỉnh kế hoạch kiểm tra định kỳ đã phê duyệt, đơn vị chủ trì kiểm tra lập kế hoạch điều chỉnh, trình người đứng đầu cơ quan có thẩm quyền kiểm tra phê duyệt;
+
+d) Kế hoạch kiểm tra định kỳ và kế hoạch điều chỉnh (nếu có) được phê duyệt là cơ sở để người đứng đầu cơ quan có thẩm quyền kiểm tra phê duyệt quyết định kiểm tra và tổ chức triển khai thực hiện kiểm tra;
+
+đ) Kế hoạch kiểm tra định kỳ và kế hoạch điều chỉnh (nếu có) được gửi đến đơn vị được kiểm tra trong thời hạn tối đa là 10 ngày kể từ ngày được phê duyệt nhưng phải đảm bảo đơn vị được kiểm tra nhận được tối thiểu là 15 ngày trước ngày tiến hành kiểm tra.
+
+<a id="dieu-118-khoan-2"></a>
+**2.** Kiểm tra đột xuất:
+
+a) Kiểm tra đột xuất do người đứng đầu cơ quan có thẩm quyền kiểm tra quyết định;
+
+b) Kiểm tra đột xuất được thực hiện đối với từng trường hợp theo yêu cầu của Thủ tướng Chính phủ, Thủ trưởng cơ quan trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh, người đứng đầu cơ quan có thẩm quyền kiểm tra.
+
+
+<a id="dieu-119"></a>
+### Điều 119. Phương thức kiểm tra
+
+<a id="dieu-119-khoan-1"></a>
+**1.** Một cuộc kiểm tra có thể được tiến hành theo một hoặc kết hợp các phương thức kiểm tra quy định tại khoản 2 và khoản 3 Điều này.
+
+<a id="dieu-119-khoan-2"></a>
+**2.** Kiểm tra trực tiếp là phương thức được áp dụng chủ yếu và được thực hiện trực tiếp tại cơ sở của đơn vị được kiểm tra.
+
+<a id="dieu-119-khoan-3"></a>
+**3.** Báo cáo bằng văn bản là phương thức đoàn kiểm tra yêu cầu đơn vị được kiểm tra báo cáo bằng văn bản về nội dung cần kiểm tra.
+
+
+<a id="dieu-120"></a>
+### Điều 120. Thời gian và kinh phí kiểm tra hoạt động đấu thầu
+
+<a id="dieu-120-khoan-1"></a>
+**1.** Thời gian kiểm tra hoạt động đấu thầu:
+
+a) Thời gian kiểm tra trực tiếp tại cơ sở tối đa là 07 ngày làm việc kể từ ngày công bố quyết định kiểm tra, trừ trường hợp quy định tại điểm b khoản này. Trong thời hạn tối đa 30 ngày kể từ ngày kết thúc kiểm tra trực tiếp, đoàn kiểm tra phải có báo cáo kiểm tra. Người đứng đầu cơ quan có thẩm quyền kiểm tra phê duyệt kết luận kiểm tra trong thời hạn tối đa 20 ngày kể từ ngày đoàn kiểm tra trình dự thảo kết luận kiểm tra;
+
+b) Trường hợp cuộc kiểm tra có nội dung phức tạp và liên quan đến nhiều đơn vị được kiểm tra thì thời gian kiểm tra trực tiếp tại cơ sở tối đa là 15 ngày kể từ ngày công bố quyết định kiểm tra. Trong thời hạn tối đa 40 ngày kể từ ngày kết thúc kiểm tra trực tiếp, đoàn kiểm tra phải có báo cáo kiểm tra. Người đứng đầu cơ quan có thẩm quyền kiểm tra phê duyệt kết luận kiểm tra trong thời hạn tối đa 30 ngày kể từ ngày đoàn kiểm tra trình dự thảo kết luận kiểm tra.
+
+<a id="dieu-120-khoan-2"></a>
+**2.** Kinh phí thực hiện kiểm tra:
+
+a) Kinh phí thực hiện kiểm tra được bố trí trong dự toán chi thường xuyên hằng năm của đơn vị chủ trì kiểm tra hoạt động đấu thầu thuộc các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương, Sở Kế hoạch và Đầu tư theo quy định của Luật Ngân sách nhà nước và các văn bản hướng dẫn;
+
+b) Doanh nghiệp nhà nước tự bố trí kinh phí thực hiện kiểm tra.
+
+
+<a id="dieu-121"></a>
+### Điều 121. Quy trình kiểm tra theo phương thức kiểm tra trực tiếp
+
+<a id="dieu-121-khoan-1"></a>
+**1.** Chuẩn bị kiểm tra:
+
+Căn cứ kế hoạch kiểm tra định kỳ hoặc yêu cầu kiểm tra đột xuất, đơn vị chủ trì kiểm tra thực hiện các công việc sau:
+
+a) Thu thập thông tin, tài liệu liên quan đến cuộc kiểm tra; trường hợp kiểm tra đột xuất, việc thu thập thông tin, tài liệu được thực hiện trước hoặc sau khi có quyết định kiểm tra;
+
+b) Xác định thành phần của đoàn kiểm tra, thành viên tham gia của đơn vị phối hợp (nếu có);
+
+c) Trình người đứng đầu cơ quan có thẩm quyền kiểm tra phê duyệt quyết định kiểm tra;
+
+d) Trưởng đoàn kiểm tra phê duyệt kế hoạch kiểm tra chi tiết sau khi quyết định kiểm tra được phê duyệt; trường hợp cuộc kiểm tra có nội dung phức tạp, liên quan đến nhiều đơn vị được kiểm tra hoặc theo yêu cầu kiểm tra đột xuất, Trưởng đoàn kiểm tra xem xét, quyết định trình kế hoạch kiểm tra chi tiết để người đứng đầu cơ quan có thẩm quyền kiểm tra phê duyệt;
+
+đ) Xây dựng đề cương báo cáo để làm cơ sở cho đơn vị được kiểm tra lập báo cáo về hoạt động đấu thầu cần kiểm tra;
+
+e) Thông báo bằng văn bản kèm theo kế hoạch kiểm tra chi tiết và đề cương báo cáo cho đơn vị được kiểm tra, cơ quan quản lý cấp trên của đơn vị được kiểm tra (nếu có) và các đơn vị có liên quan (nếu có). Văn bản thông báo được gửi cho đơn vị được kiểm tra trong thời hạn tối thiểu là 10 ngày trước ngày tiến hành kiểm tra.
+
+<a id="dieu-121-khoan-2"></a>
+**2.** Tổ chức kiểm tra:
+
+a) Trưởng đoàn kiểm tra công bố quyết định kiểm tra khi bắt đầu tổ chức kiểm tra trực tiếp tại cơ sở của đơn vị được kiểm tra, lập biên bản công bố quyết định kiểm tra;
+
+b) Đoàn kiểm tra tiến hành thu thập, nghiên cứu, phân tích, đánh giá các thông tin, tài liệu liên quan đến hoạt động đấu thầu được kiểm tra, bao gồm cả các thông tin quy định tại khoản 1 Điều 124 của Nghị định này đối với đơn vị được kiểm tra; lập biểu đánh giá và nhận xét đối với từng nội dung liên quan; kiểm tra, xác minh các thông tin, tài liệu (nếu cần thiết); kiểm tra kết quả thực hiện để làm cơ sở kết luận các nội dung kiểm tra. Trong quá trình kiểm tra, đoàn kiểm tra có thể trao đổi với các đơn vị được kiểm tra và tiến hành kiểm tra thực địa khi cần thiết. Tùy thuộc vào quy mô, tính chất của cuộc kiểm tra, Trưởng đoàn kiểm tra quyết định việc lập biên bản xác nhận nội dung kiểm tra;
+
+c) Đoàn kiểm tra thông báo bằng văn bản cho đơn vị được kiểm tra về việc kết thúc kiểm tra trực tiếp tại cơ sở và bàn giao tài liệu, trang thiết bị sử dụng (nếu có) trong quá trình kiểm tra;
+
+d) Sau khi kết thúc kiểm tra trực tiếp tại cơ sở, đoàn kiểm tra xây dựng dự thảo báo cáo kiểm tra trình Trưởng đoàn kiểm tra xem xét, quyết định trước khi gửi cho đơn vị được kiểm tra có ý kiến. Dự thảo báo cáo kiểm tra được gửi cho đơn vị được kiểm tra bằng văn bản hoặc đồng thời bằng văn bản, fax và email;
+
+đ) Trên cơ sở dự thảo báo cáo kiểm tra, ý kiến tiếp thu giải trình của đơn vị được kiểm tra, đoàn kiểm tra có trách nhiệm hoàn thiện báo cáo kiểm tra.
+
+<a id="dieu-121-khoan-3"></a>
+**3.** Kết luận kiểm tra:
+
+a) Trên cơ sở báo cáo kiểm tra, đoàn kiểm tra dự thảo kết luận kiểm tra để trình người đứng đầu cơ quan có thẩm quyền kiểm tra xem xét, phê duyệt. Kết luận kiểm tra phải đưa ra biện pháp xử lý đối với hành vi vi phạm pháp luật về đấu thầu;
+
+b) Kết luận kiểm tra được gửi cho đơn vị được kiểm tra và cơ quan quản lý cấp trên của đơn vị được kiểm tra (nếu có) và các đơn vị có liên quan (nếu cần thiết).
+
+<a id="dieu-121-khoan-4"></a>
+**4.** Theo dõi việc thực hiện kết luận kiểm tra:
+
+a) Người đứng đầu đơn vị được kiểm tra tổ chức thực hiện kết luận kiểm tra và có báo cáo về tình hình thực hiện kết luận kiểm tra gửi cơ quan có thẩm quyền kiểm tra trong thời hạn quy định tại kết luận kiểm tra. Báo cáo bao gồm các nội dung sau: biện pháp khắc phục những tồn tại, sai sót nêu trong kết luận kiểm tra; biện pháp chấn chỉnh hoạt động đấu thầu; việc xử lý trách nhiệm của tổ chức, cá nhân theo kiến nghị của đoàn kiểm tra (nếu có);
+
+b) Việc theo dõi thực hiện kết luận kiểm tra được thực hiện thông qua báo cáo theo quy định tại điểm a khoản này. Tổ chức, cá nhân thuộc đơn vị được kiểm tra và tổ chức, cá nhân liên quan có trách nhiệm thực hiện kết luận kiểm tra nhưng không thực hiện hoặc thực hiện không đầy đủ, kịp thời thì tùy theo tính chất, mức độ vi phạm bị xử lý theo quy định của pháp luật.
+
+
+<a id="dieu-122"></a>
+### Điều 122. Quy trình kiểm tra theo phương thức báo cáo bằng văn bản
+
+<a id="dieu-122-khoan-1"></a>
+**1.** Chuẩn bị kiểm tra:
+
+Cơ quan có thẩm quyền kiểm tra hoặc đoàn kiểm tra do cơ quan có thẩm quyền kiểm tra thành lập yêu cầu đơn vị được kiểm tra báo cáo tình hình thực hiện trách nhiệm quản lý về đấu thầu hoặc tình hình thực hiện hoạt động đấu thầu gồm các nội dung sau:
+
+a) Mục đích, yêu cầu báo cáo;
+
+b) Phạm vi và nội dung báo cáo;
+
+c) Đề cương yêu cầu báo cáo;
+
+d) Thời hạn nộp báo cáo của đơn vị được kiểm tra;
+
+đ) Trách nhiệm của đơn vị được kiểm tra;
+
+e) Các nội dung khác có liên quan.
+
+<a id="dieu-122-khoan-2"></a>
+**2.** Tổ chức kiểm tra:
+
+a) Căn cứ báo cáo của đơn vị được kiểm tra, đơn vị chủ trì kiểm tra thực hiện thu thập, nghiên cứu, phân tích, đánh giá các thông tin, bao gồm cả các thông tin quy định tại khoản 1 Điều 124 của Nghị định này đối với đơn vị được kiểm tra; tài liệu liên quan đến nội dung yêu cầu báo cáo; tiến hành xác minh các thông tin, tài liệu khi cần thiết; trong quá trình kiểm tra, đơn vị chủ trì kiểm tra có thể trao đổi với đơn vị được kiểm tra (nếu cần thiết);
+
+b) Đơn vị chủ trì kiểm tra tổ chức xây dựng dự thảo báo cáo kiểm tra trong đó đề xuất biện pháp xử lý đối với các vấn đề phát hiện được trong quá trình kiểm tra.
+
+<a id="dieu-122-khoan-3"></a>
+**3.** Kết luận kiểm tra và theo dõi việc thực hiện kết luận kiểm tra được thực hiện theo quy định tại khoản 3 và khoản 4 Điều 121 của Nghị định này.
+
+### Mục 2. GIÁM SÁT HOẠT ĐỘNG ĐẤU THẦU
+
+
+<a id="dieu-123"></a>
+### Điều 123. Giám sát hoạt động đấu thầu của người có thẩm quyền
+
+<a id="dieu-123-khoan-1"></a>
+**1.** Thẩm quyền giám sát hoạt động đấu thầu:
+
+a) Đối với dự án mà Thủ tướng Chính phủ là người có thẩm quyền, căn cứ vào quy mô, tính chất của dự án, gói thầu, Thủ tướng Chính phủ quyết định cơ quan, đơn vị chủ trì, tổ chức việc giám sát khi cần thiết;
+
+b) Người có thẩm quyền giao cá nhân hoặc đơn vị trực thuộc có chuyên môn về đấu thầu độc lập với chủ đầu tư, bên mời thầu, tổ chuyên gia thực hiện việc giám sát hoạt động đấu thầu đối với gói thầu thuộc dự án, dự toán mua sắm trong phạm vi quản lý của mình khi cần thiết.
+
+<a id="dieu-123-khoan-2"></a>
+**2.** Trình tự, thủ tục giám sát hoạt động đấu thầu của người có thẩm quyền:
+
+a) Chuẩn bị giám sát: xác định gói thầu cần giám sát trong kế hoạch lựa chọn nhà thầu; thông báo cho chủ đầu tư về cá nhân, đơn vị thực hiện giám sát, nội dung giám sát hoạt động đấu thầu. Cá nhân hoặc đơn vị thực hiện việc giám sát phải được công khai trong hồ sơ mời thầu, hồ sơ yêu cầu;
+
+b) Thực hiện giám sát: cá nhân hoặc đơn vị thực hiện giám sát trao đổi trực tiếp, lập biên bản làm việc hoặc yêu cầu các tổ chức, cá nhân có liên quan báo cáo bằng văn bản về các nội dung giám sát. Chủ đầu tư, bên mời thầu và tổ chức, cá nhân có liên quan có trách nhiệm cung cấp hồ sơ, tài liệu theo yêu cầu của cá nhân hoặc đơn vị thực hiện giám sát;
+
+c) Báo cáo kết quả giám sát: cá nhân hoặc đơn vị thực hiện giám sát báo cáo kịp thời bằng văn bản đến người có thẩm quyền khi phát hiện hành vi, nội dung không phù hợp với quy định pháp luật về đấu thầu để có biện pháp xử lý thích hợp, bảo đảm hiệu quả của quá trình lựa chọn nhà thầu.
+
+<a id="dieu-123-khoan-3"></a>
+**3.** Trách nhiệm của cá nhân hoặc đơn vị thực hiện giám sát hoạt động đấu thầu:
+
+a) Trung thực, khách quan; không gây phiền hà cho chủ đầu tư, bên mời thầu trong quá trình giám sát;
+
+b) Yêu cầu chủ đầu tư, bên mời thầu cung cấp hồ sơ, tài liệu liên quan phục vụ quá trình giám sát;
+
+c) Tiếp nhận thông tin phản ánh của nhà thầu và các tổ chức, cá nhân liên quan đến quá trình lựa chọn nhà thầu của gói thầu đang thực hiện giám sát;
+
+d) Bảo mật thông tin theo quy định của pháp luật;
+
+đ) Chịu trách nhiệm về kết quả giám sát của mình;
+
+e) Thực hiện các trách nhiệm khác theo quy định của pháp luật về đấu thầu và pháp luật khác có liên quan.
+
+
+<a id="dieu-124"></a>
+### Điều 124. Giám sát thường xuyên hoạt động đấu thầu của cơ quan quản lý nhà nước về đấu thầu thuộc bộ, ngành, địa phương
+
+<a id="dieu-124-khoan-1"></a>
+**1.** Việc giám sát thường xuyên hoạt động đấu thầu của cơ quan quản lý nhà nước về đấu thầu thuộc bộ, ngành, địa phương được thực hiện khi phát hiện hoạt động đấu thầu có dấu hiệu không bảo đảm mục tiêu cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế theo thông tin được tổng hợp trên Hệ thống mạng đấu thầu quốc gia hoặc theo kiến nghị, phản ánh của tổ chức, cá nhân liên quan, bao gồm:
+
+a) Chủ đầu tư không trả lời yêu cầu làm rõ hồ sơ mời thầu, không trả lời kiến nghị về hồ sơ mời thầu, kết quả lựa chọn nhà thầu của nhà thầu;
+
+b) Chủ đầu tư vi phạm quy định về thời gian đăng tải kế hoạch lựa chọn nhà thầu, kết quả lựa chọn nhà thầu và các thông tin khác;
+
+c) Chủ đầu tư có số lượng trung bình nhà thầu tham gia đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, chào giá trực tuyến theo quy trình thông thường thấp;
+
+d) Chủ đầu tư có nhiều gói thầu có kiến nghị về hồ sơ mời thầu, kết quả lựa chọn nhà thầu;
+
+đ) Hồ sơ mời thầu bị kiến nghị có các quy định làm hạn chế cạnh tranh;
+
+e) Các thông tin khác có liên quan.
+
+<a id="dieu-124-khoan-2"></a>
+**2.** Trên cơ sở kết quả tổng hợp các nội dung, thông tin quy định tại khoản 1 Điều này, cơ quan quản lý nhà nước về đấu thầu thuộc bộ, ngành, địa phương kịp thời thực hiện các biện pháp sau:
+
+a) Chấn chỉnh hoạt động đấu thầu trên địa bàn, lĩnh vực thuộc phạm vi quản lý;
+
+b) Yêu cầu chủ đầu tư, người có thẩm quyền xem xét, xử lý tổ chức, cá nhân có hành vi vi phạm (nếu có).
+
+### Mục 3. XỬ LÝ VI PHẠM
+
+
+<a id="dieu-125"></a>
+### Điều 125. Xử lý vi phạm trong hoạt động đấu thầu
+
+<a id="dieu-125-khoan-1"></a>
+**1.** Thời gian cấm tham gia hoạt động đấu thầu đối với tổ chức, cá nhân có hành vi vi phạm, bao gồm cả cá nhân thuộc chủ đầu tư, bên mời thầu:
+
+a) Cấm tham gia hoạt động đấu thầu từ 03 năm đến 05 năm đối với một trong các hành vi vi phạm các khoản 1, 2, 4 và điểm a khoản 3 Điều 16 của Luật Đấu thầu;
+
+b) Cấm tham gia hoạt động đấu thầu từ 01 năm đến 03 năm đối với một trong các hành vi vi phạm điểm b, điểm c khoản 3; khoản 5; điểm g, h, i, k, l khoản 6; khoản 8; khoản 9 Điều 16 của Luật Đấu thầu;
+
+c) Cấm tham gia hoạt động đấu thầu từ 06 tháng đến 01 năm đối với một trong các hành vi vi phạm các điểm a, b, c, d, đ, e khoản 6 và khoản 7 Điều 16 của Luật Đấu thầu;
+
+Đối với nhà thầu liên danh, việc cấm tham gia hoạt động đấu thầu áp dụng với tất cả thành viên liên danh khi một hoặc một số thành viên liên danh vi phạm quy định tại Điều 16 của Luật Đấu thầu, trừ trường hợp: thành viên liên danh vi phạm quy định tại điểm c khoản 3, khoản 4, các điểm b, c, d, đ khoản 5, các điểm a, b, c, d, đ, e, g khoản 6, khoản 7, điểm a, điểm b khoản 8 Điều 16 của Luật Đấu thầu thì chỉ cấm tham gia hoạt động đấu thầu đối với thành viên đó mà không cấm tham gia hoạt động đấu thầu đối với các thành viên còn lại.
+
+<a id="dieu-125-khoan-2"></a>
+**2.** Trường hợp tổ chức, cá nhân có từ 02 hành vi vi phạm trở lên thuộc cùng phạm vi quản lý của người có thẩm quyền và các hành vi này chưa bị cấm tham gia hoạt động đấu thầu thì người có thẩm quyền ban hành quyết định cấm tham gia hoạt động đấu thầu với thời gian cấm được xác định bằng tổng thời gian cấm của các hành vi vi phạm nhưng tối đa không quá 05 năm.
+
+<a id="dieu-125-khoan-3"></a>
+**3.** Thời hiệu áp dụng biện pháp cấm tham gia hoạt động đấu thầu quy định tại khoản 1 Điều này là 10 năm tính từ ngày xảy ra hành vi vi phạm.
+
+<a id="dieu-125-khoan-4"></a>
+**4.** Người có thẩm quyền xem xét, ban hành quyết định cấm tham gia hoạt động đấu thầu trong phạm vi quản lý của mình trong thời hạn 15 ngày kể từ ngày nhận được một trong các tài liệu sau:
+
+a) Văn bản đề nghị của chủ đầu tư kèm theo các tài liệu chứng minh hành vi vi phạm;
+
+b) Kiến nghị tại kết luận thanh tra của cơ quan thanh tra, kết luận kiểm tra của đoàn kiểm tra, báo cáo kết quả kiểm toán của cơ quan kiểm toán nhà nước;
+
+c) Kết quả giải quyết kiến nghị của Hội đồng tư vấn giải quyết kiến nghị;
+
+d) Các văn bản khác của cơ quan nhà nước có thẩm quyền trong đó xác định hành vi vi phạm.
+
+<a id="dieu-125-khoan-5"></a>
+**5.** Tùy theo tính chất, mức độ vi phạm, người có thẩm quyền cấm tham gia hoạt động đấu thầu theo quy định tại khoản 4 Điều này hoặc đề nghị Thủ trưởng cơ quan trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, ban hành quyết định cấm tham gia hoạt động đấu thầu trong phạm vi quản lý của bộ, ngành, địa phương. Thủ trưởng cơ quan trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, ban hành quyết định cấm tham gia hoạt động đấu thầu trong thời hạn 15 ngày kể từ ngày nhận được văn bản đề nghị cấm tham gia hoạt động đấu thầu của người có thẩm quyền.
+
+<a id="dieu-125-khoan-6"></a>
+**6.** Căn cứ quyết định cấm tham gia hoạt động đấu thầu được đăng tải trên Hệ thống mạng đấu thầu quốc gia, Bộ trưởng Bộ Kế hoạch và Đầu tư ban hành quyết định cấm tham gia hoạt động đấu thầu trên phạm vi toàn quốc trong thời hạn 05 năm đối với tổ chức, cá nhân đang bị cấm tham gia hoạt động đấu thầu tại 03 quyết định khác nhau của Thủ trưởng cơ quan trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh.
+
+<a id="dieu-125-khoan-7"></a>
+**7.** Quyết định cấm tham gia hoạt động đấu thầu bao gồm các nội dung:
+
+a) Tên người có thẩm quyền;
+
+b) Tên tổ chức, cá nhân vi phạm;
+
+c) Thời gian cấm bao gồm: thời gian cấm đối với hành vi vi phạm (nội dung vi phạm, căn cứ pháp lý để xử lý vi phạm); thời gian cấm đối với hành vi vi phạm tiếp theo (nếu có); tổng thời gian cấm;
+
+d) Phạm vi cấm;
+
+đ) Hiệu lực thi hành: ngày có hiệu lực và ngày kết thúc hiệu lực.
+
+<a id="dieu-125-khoan-8"></a>
+**8.** Trường hợp tổ chức, cá nhân bị cấm tham gia hoạt động đấu thầu không đồng ý với quyết định cấm tham gia hoạt động đấu thầu thì có quyền khởi kiện ra Tòa án theo quy định của pháp luật về tố tụng dân sự.
+
+<a id="dieu-125-khoan-9"></a>
+**9.** Thành viên tổ chuyên gia, tổ thẩm định có hành vi vi phạm quy định tại Điều 16 của Luật Đấu thầu bị xử lý theo quy định tại khoản 1 Điều này và bị thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu.
+
+## Chương X. 
+
+__NỘI DUNG, TRÁCH NHIỆM THẨM ĐỊNH TRONG LỰA CHỌN NHÀ THẦU__
+
+
+<a id="dieu-126"></a>
+### Điều 126. Trách nhiệm của đơn vị thẩm định
+
+<a id="dieu-126-khoan-1"></a>
+**1.** Bộ Kế hoạch và Đầu tư chịu trách nhiệm tổ chức thẩm định các nội dung sau đây:
+
+a) Kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu thuộc thẩm quyền phê duyệt của Thủ tướng Chính phủ;
+
+b) Phương án lựa chọn nhà thầu trong trường hợp đặc biệt do Thủ tướng Chính phủ xem xét, quyết định theo quy định tại điểm c khoản 1 Điều 29 của Luật Đấu thầu và các trường hợp khác theo yêu cầu của Thủ tướng Chính phủ.
+
+<a id="dieu-126-khoan-2"></a>
+**2.** Đối với dự án đầu tư, trách nhiệm thẩm định kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu trong trường hợp không áp dụng kế hoạch tổng thể lựa chọn nhà thầu được quy định như sau:
+
+a) Sở Kế hoạch và Đầu tư chịu trách nhiệm tổ chức thẩm định kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu đối với dự án đầu tư do Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định đầu tư, trừ các gói thầu quy định tại điểm a khoản 1 Điều 78 của Luật Đấu thầu;
+
+b) Cơ quan, tổ chức được Thủ trưởng cơ quan trung ương, người có thẩm quyền của doanh nghiệp nhà nước, doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ giao nhiệm vụ thẩm định kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu đối với dự án thuộc thẩm quyền quyết định của mình;
+
+c) Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp huyện theo quy định của pháp luật về tổ chức chính quyền địa phương chịu trách nhiệm thẩm định kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu đối với dự án đầu tư thuộc thẩm quyền quyết định của Chủ tịch Ủy ban nhân dân cấp huyện;
+
+d) Đơn vị giúp việc liên quan chịu trách nhiệm thẩm định kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu đối với dự án đầu tư thuộc thẩm quyền quyết định của Chủ tịch Ủy ban nhân dân cấp xã, thủ trưởng các cơ quan khác ở địa phương;
+
+đ) Chủ đầu tư hoặc người đứng đầu đơn vị được giao nhiệm vụ chuẩn bị dự án trong trường hợp chưa xác định được chủ đầu tư giao cho tổ chức, cá nhân thuộc cơ quan mình thực hiện thẩm định kế hoạch lựa chọn nhà thầu của gói thầu đấu thầu trước quy định tại Điều 42 của Luật Đấu thầu hoặc gói thầu cần thực hiện trước khi có quyết định phê duyệt dự án.
+
+<a id="dieu-126-khoan-3"></a>
+**3.** Đối với dự án đầu tư, trường hợp áp dụng kế hoạch tổng thể lựa chọn nhà thầu, chủ đầu tư giao cho tổ chức, cá nhân thuộc cơ quan mình thực hiện thẩm định kế hoạch lựa chọn nhà thầu.
+
+<a id="dieu-126-khoan-4"></a>
+**4.** Đối với dự toán mua sắm, trách nhiệm thẩm định kế hoạch lựa chọn nhà thầu được quy định như sau:
+
+a) Đối với gói thầu mua sắm tài sản, hàng hóa (bao gồm cả mua thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế), dịch vụ mà Thủ trưởng cơ quan trung ương là người có thẩm quyền thì Thủ trưởng cơ quan trung ương quyết định cơ quan, tổ chức, bộ phận làm nhiệm vụ thẩm định kế hoạch lựa chọn nhà thầu;
+
+b) Đối với gói thầu mua thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế do Chủ tịch Ủy ban nhân dân cấp tỉnh là người có thẩm quyền thì Sở Y tế chủ trì thẩm định kế hoạch lựa chọn nhà thầu;
+
+c) Đối với gói thầu ngoài gói thầu mua thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế mà Chủ tịch Ủy ban nhân dân cấp tỉnh là người có thẩm quyền thì Chủ tịch Ủy ban nhân dân cấp tỉnh chỉ đạo Sở Tài chính hoặc một cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh theo quy định của pháp luật về tổ chức chính quyền địa phương chịu trách nhiệm chủ trì thẩm định kế hoạch lựa chọn nhà thầu;
+
+d) Đối với gói thầu mua sắm tài sản, hàng hóa, dịch vụ (bao gồm cả mua thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế) mà Thủ trưởng cơ quan, đơn vị trực tiếp sử dụng dự toán mua sắm quyết định việc mua sắm theo quy định tại Điều 91 của Nghị định này thì Thủ trưởng cơ quan, đơn vị quyết định cơ quan, tổ chức, bộ phận làm nhiệm vụ thẩm định kế hoạch lựa chọn nhà thầu.
+
+<a id="dieu-126-khoan-5"></a>
+**5.** Trường hợp Thủ trưởng cơ quan trung ương, Chủ tịch Ủy ban nhân dân các cấp, người có thẩm quyền của doanh nghiệp nhà nước, doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ, người có thẩm quyền khác ủy quyền phê duyệt kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu thì người được ủy quyền tổ chức việc thẩm định kế hoạch tổng thể lựa chọn nhà thầu, kế hoạch lựa chọn nhà thầu.
+
+<a id="dieu-126-khoan-6"></a>
+**6.** Chủ đầu tư chịu trách nhiệm tổ chức thẩm định các nội dung sau đây: hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu, kết quả đánh giá hồ sơ quan tâm, kết quả đánh giá hồ sơ dự sơ tuyển, danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật (đối với gói thầu áp dụng phương thức một giai đoạn hai túi hồ sơ, hai giai đoạn hai túi hồ sơ), kết quả lựa chọn nhà thầu.
+
+<a id="dieu-126-khoan-7"></a>
+**7.** Trường hợp tổ chức, cá nhân được giao thẩm định không đủ năng lực thì tiến hành lựa chọn một tổ chức tư vấn có đủ năng lực và kinh nghiệm để thẩm định.
+
+
+<a id="dieu-127"></a>
+### Điều 127. Thẩm định kế hoạch tổng thể lựa chọn nhà thầu
+
+<a id="dieu-127-khoan-1"></a>
+**1.** Hồ sơ trình thẩm định, phê duyệt bao gồm:
+
+a) Tờ trình đề nghị phê duyệt kế hoạch tổng thể lựa chọn nhà thầu;
+
+b) Dự thảo kế hoạch tổng thể lựa chọn nhà thầu;
+
+c) Các tài liệu là căn cứ lập kế hoạch tổng thể lựa chọn nhà thầu;
+
+d) Tài liệu khác có liên quan.
+
+<a id="dieu-127-khoan-2"></a>
+**2.** Nội dung thẩm định bao gồm:
+
+a) Kiểm tra sự phù hợp về các nội dung của kế hoạch tổng thể lựa chọn nhà thầu quy định tại Điều 15 của Nghị định này;
+
+b) Các nội dung liên quan khác.
+
+<a id="dieu-127-khoan-3"></a>
+**3.** Báo cáo thẩm định bao gồm các nội dung sau đây:
+
+a) Khái quát nội dung chính của kế hoạch tổng thể lựa chọn nhà thầu, cơ sở pháp lý để lập kế hoạch tổng thể lựa chọn nhà thầu;
+
+b) Nhận xét và ý kiến của đơn vị thẩm định về nội dung của kế hoạch tổng thể lựa chọn nhà thầu;
+
+c) Đề xuất và kiến nghị của đơn vị thẩm định về kế hoạch tổng thể lựa chọn nhà thầu. Đối với các nội dung không thống nhất với dự thảo kế hoạch tổng thể lựa chọn nhà thầu, đơn vị thẩm định phải đưa ra lý do cụ thể và đề xuất biện pháp giải quyết để trình người có thẩm quyền xem xét, quyết định;
+
+d) Các ý kiến khác (nếu có).
+
+<a id="dieu-127-khoan-4"></a>
+**4.** Trước khi ký báo cáo thẩm định, đơn vị thẩm định có thể tổ chức họp giữa các bên để trao đổi các nội dung nếu thấy cần thiết.
+
+
+<a id="dieu-128"></a>
+### Điều 128. Thẩm định kế hoạch lựa chọn nhà thầu
+
+<a id="dieu-128-khoan-1"></a>
+**1.** Hồ sơ trình thẩm định, phê duyệt bao gồm:
+
+a) Tờ trình đề nghị phê duyệt kế hoạch lựa chọn nhà thầu;
+
+b) Dự thảo kế hoạch lựa chọn nhà thầu;
+
+c) Các tài liệu là căn cứ lập kế hoạch lựa chọn nhà thầu;
+
+d) Tài liệu khác có liên quan.
+
+<a id="dieu-128-khoan-2"></a>
+**2.** Nội dung thẩm định bao gồm:
+
+Thẩm định kế hoạch lựa chọn nhà thầu là việc kiểm tra, đánh giá và đưa ra ý kiến nhận xét căn cứ quy định của pháp luật về đấu thầu và pháp luật có liên quan về các nội dung sau đây:
+
+a) Căn cứ pháp lý để lập kế hoạch lựa chọn nhà thầu:
+
+Xem xét tính phù hợp, đầy đủ của cơ sở pháp lý của việc lập kế hoạch lựa chọn nhà thầu và những lưu ý cần thiết (nếu có).
+
+Đối với gói thầu đấu thầu trước, việc lập kế hoạch lựa chọn nhà thầu được thực hiện trước khi ký kết điều ước quốc tế, thỏa thuận về vốn ODA và vốn vay ưu đãi của nhà tài trợ nước ngoài theo quy định tại Điều 42 của Luật Đấu thầu;
+
+b) Việc phân chia dự án, dự toán mua sắm thành các gói thầu:
+
+Xem xét sự phù hợp của việc phân chia dự án, dự toán mua sắm thành các gói thầu; việc phân chia thành các gói thầu phải căn cứ theo tính chất kỹ thuật, trình tự thực hiện, tính đồng bộ của dự án, dự toán mua sắm và sự hợp lý về quy mô gói thầu;
+
+c) Văn bản trình duyệt kế hoạch lựa chọn nhà thầu gồm những nội dung: xem xét sự phù hợp về các nội dung tại kế hoạch lựa chọn nhà thầu và về sự tuân thủ hoặc phù hợp với quy định của pháp luật về đấu thầu, pháp luật khác có liên quan cũng như yêu cầu của dự án, dự toán mua sắm và những lưu ý cần thiết khác (nếu có) đối với phần công việc thuộc kế hoạch lựa chọn nhà thầu; xem xét sự phù hợp của tổng giá trị các phần công việc đã thực hiện, phần công việc không áp dụng được một trong các hình thức lựa chọn nhà thầu, phần công việc thuộc kế hoạch lựa chọn nhà thầu, phần công việc chưa đủ điều kiện lập kế hoạch lựa chọn nhà thầu (nếu có) so với tổng mức đầu tư của dự án, dự toán mua sắm. Đối với dự toán mua sắm, trường hợp gói thầu có thời gian thực hiện dài hơn 01 năm thì xem xét sự phù hợp của tổng giá trị các phần công việc so với dự toán mua sắm của năm ngân sách, năm tài chính và dự kiến dự toán mua sắm của các năm ngân sách, năm tài chính tiếp theo.
+
+<a id="dieu-128-khoan-3"></a>
+**3.** Báo cáo thẩm định bao gồm các nội dung sau đây:
+
+a) Khái quát nội dung chính của dự án, dự toán mua sắm;
+
+b) Nhận xét và ý kiến của đơn vị thẩm định về cơ sở pháp lý, việc tuân thủ quy định của pháp luật về đấu thầu và pháp luật khác có liên quan; ý kiến thống nhất hoặc không thống nhất về nội dung dự thảo kế hoạch lựa chọn nhà thầu;
+
+c) Đề xuất và kiến nghị của đơn vị thẩm định về việc phê duyệt kế hoạch lựa chọn nhà thầu. Đối với các nội dung không thống nhất với dự thảo kế hoạch lựa chọn nhà thầu, đơn vị thẩm định phải đưa ra lý do cụ thể và đề xuất biện pháp giải quyết để trình người có trách nhiệm phê duyệt kế hoạch lựa chọn nhà thầu xem xét, quyết định;
+
+d) Các ý kiến khác (nếu có).
+
+
+<a id="dieu-129"></a>
+### Điều 129. Thẩm định hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu
+
+<a id="dieu-129-khoan-1"></a>
+**1.** Hồ sơ trình thẩm định, phê duyệt bao gồm:
+
+a) Tờ trình đề nghị phê duyệt hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu của bên mời thầu;
+
+b) Dự thảo hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu;
+
+c) Quyết định phê duyệt dự án (nếu có), quyết định phê duyệt kế hoạch lựa chọn nhà thầu;
+
+d) Tài liệu khác có liên quan.
+
+<a id="dieu-129-khoan-2"></a>
+**2.** Nội dung thẩm định bao gồm:
+
+a) Kiểm tra các tài liệu là căn cứ để lập hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu;
+
+b) Kiểm tra sự phù hợp về nội dung của hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu so với quy mô, mục tiêu, phạm vi công việc, thời gian thực hiện của dự án, dự toán mua sắm, gói thầu; so với hồ sơ thiết kế, dự toán của gói thầu, yêu cầu về đặc tính, thông số kỹ thuật của hàng hóa (nếu có); so với biên bản trao đổi giữa bên mời thầu với các nhà thầu tham dự thầu trong giai đoạn một (đối với gói thầu áp dụng phương thức hai giai đoạn); so với quy định của pháp luật về đấu thầu và pháp luật khác có liên quan;
+
+c) Xem xét về những ý kiến khác nhau (nếu có) giữa tổ chức, cá nhân tham gia lập hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu;
+
+d) Các nội dung liên quan khác.
+
+<a id="dieu-129-khoan-3"></a>
+**3.** Báo cáo thẩm định bao gồm các nội dung sau đây:
+
+a) Khái quát nội dung chính của dự án, dự toán mua sắm, gói thầu, cơ sở pháp lý để lập hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu;
+
+b) Nhận xét và ý kiến của đơn vị thẩm định về cơ sở pháp lý, việc tuân thủ quy định của pháp luật về đấu thầu và pháp luật khác có liên quan; ý kiến thống nhất hoặc không thống nhất về nội dung dự thảo hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu;
+
+c) Đề xuất và kiến nghị của đơn vị thẩm định về việc phê duyệt hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu; về biện pháp xử lý đối với trường hợp phát hiện hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu không tuân thủ quy định của pháp luật về đấu thầu và pháp luật khác có liên quan; về biện pháp giải quyết đối với những trường hợp chưa đủ cơ sở phê duyệt hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu;
+
+d) Các ý kiến khác (nếu có).
+
+<a id="dieu-129-khoan-4"></a>
+**4.** Trước khi ký báo cáo thẩm định, đơn vị thẩm định có thể tổ chức họp giữa các bên để giải quyết các vấn đề còn tồn tại nếu thấy cần thiết.
+
+
+<a id="dieu-130"></a>
+### Điều 130. Thẩm định kết quả đánh giá hồ sơ quan tâm, kết quả đánh giá hồ sơ dự sơ tuyển, danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật, kết quả lựa chọn nhà thầu
+
+<a id="dieu-130-khoan-1"></a>
+**1.** Nguyên tắc chung:
+
+a) Kết quả đánh giá hồ sơ quan tâm, kết quả đánh giá hồ sơ dự sơ tuyển, kết quả lựa chọn nhà thầu phải được thẩm định trước khi phê duyệt;
+
+b) Đối với gói thầu áp dụng phương thức một giai đoạn một túi hồ sơ thì tiến hành thẩm định kết quả lựa chọn nhà thầu mà không phải thẩm định danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật;
+
+c) Đối với gói thầu dịch vụ tư vấn, hàng hóa, xây lắp, phi tư vấn, hỗn hợp áp dụng phương thức một giai đoạn hai túi hồ sơ, gói thầu áp dụng hình thức chào giá trực tuyến theo quy trình thông thường, danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật phải được thẩm định trước khi phê duyệt;
+
+d) Đối với gói thầu áp dụng phương thức hai giai đoạn một túi hồ sơ, không tiến hành thẩm định trong giai đoạn một, việc thẩm định trong giai đoạn hai thực hiện như đối với gói thầu áp dụng phương thức một giai đoạn một túi hồ sơ;
+
+đ) Đối với gói thầu áp dụng phương thức hai giai đoạn hai túi hồ sơ, giai đoạn một chỉ tiến hành thẩm định danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật, việc thẩm định trong giai đoạn hai thực hiện như đối với gói thầu áp dụng phương thức một giai đoạn hai túi hồ sơ, trong đó danh sách nhà thầu đáp ứng yêu cầu kỹ thuật ở giai đoạn hai được thẩm định tương ứng với các nội dung về kỹ thuật trong hồ sơ mời thầu giai đoạn hai đã được hiệu chỉnh so với giai đoạn một;
+
+e) Trước khi ký báo cáo thẩm định, đơn vị thẩm định có thể tổ chức họp giữa các bên để giải quyết các vấn đề còn tồn tại nếu thấy cần thiết;
+
+g) Không tiến hành thẩm định danh sách xếp hạng nhà thầu.
+
+<a id="dieu-130-khoan-2"></a>
+**2.** Thẩm định kết quả đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển:
+
+a) Hồ sơ trình thẩm định, phê duyệt bao gồm:
+
+Tờ trình đề nghị phê duyệt kết quả đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển của bên mời thầu, trong đó phải nêu rõ ý kiến của bên mời thầu đối với các đề xuất, kiến nghị của tổ chuyên gia;
+
+Báo cáo kết quả đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển của tổ chuyên gia;
+
+Các hồ sơ, tài liệu: hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, biên bản mở thầu, hồ sơ quan tâm, hồ sơ dự sơ tuyển của các nhà thầu và các tài liệu khác có liên quan.
+
+b) Nội dung thẩm định bao gồm:
+
+Kiểm tra các tài liệu là căn cứ của việc mời quan tâm, tổ chức sơ tuyển;
+
+Kiểm tra việc tuân thủ quy định về thời gian trong quá trình mời quan tâm, tổ chức sơ tuyển;
+
+Kiểm tra việc đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển; việc tuân thủ quy định của pháp luật về đấu thầu và pháp luật khác có liên quan trong quá trình đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển;
+
+Xem xét về những ý kiến khác nhau (nếu có) giữa bên mời thầu với tổ chuyên gia; giữa các cá nhân trong tổ chuyên gia;
+
+Các nội dung liên quan khác.
+
+c) Báo cáo thẩm định bao gồm các nội dung:
+
+Khái quát nội dung chính của dự án, dự toán mua sắm, gói thầu, cơ sở pháp lý đối với việc mời quan tâm, tổ chức sơ tuyển;
+
+Tóm tắt quá trình mời quan tâm, tổ chức sơ tuyển và đề nghị của bên mời thầu về kết quả đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển;
+
+Nhận xét và ý kiến của đơn vị thẩm định về cơ sở pháp lý, việc tuân thủ quy định pháp luật về đấu thầu và pháp luật khác có liên quan; về sự bảo đảm cạnh tranh, công bằng, minh bạch trong quá trình mời quan tâm, tổ chức sơ tuyển; ý kiến thống nhất hoặc không thống nhất về kết quả đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển;
+
+Đề xuất và kiến nghị của đơn vị thẩm định về kết quả đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển; về biện pháp xử lý đối với trường hợp phát hiện sự không tuân thủ quy định của pháp luật về đấu thầu và pháp luật khác có liên quan trong quá trình mời quan tâm, tổ chức sơ tuyển; về biện pháp giải quyết đối với những trường hợp chưa đủ cơ sở kết luận về kết quả đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển;
+
+Các ý kiến khác (nếu có).
+
+<a id="dieu-130-khoan-3"></a>
+**3.** Thẩm định danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật đối với gói thầu dịch vụ tư vấn, phi tư vấn, mua sắm hàng hóa, xây lắp hai túi hồ sơ:
+
+a) Hồ sơ trình thẩm định, phê duyệt bao gồm:
+
+Tờ trình đề nghị phê duyệt danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật của bên mời thầu, trong đó phải nêu rõ ý kiến của bên mời thầu đối với các đề xuất, kiến nghị của tổ chuyên gia;
+
+Báo cáo kết quả đánh giá hồ sơ đề xuất về kỹ thuật của tổ chuyên gia;
+
+Các hồ sơ, tài liệu: hồ sơ mời thầu, hồ sơ yêu cầu, biên bản mở thầu, hồ sơ đề xuất về kỹ thuật của các nhà thầu và những tài liệu khác có liên quan.
+
+b) Nội dung thẩm định bao gồm:
+
+Kiểm tra việc đánh giá hồ sơ đề xuất về kỹ thuật; việc tuân thủ quy định của pháp luật về đấu thầu và pháp luật khác có liên quan trong quá trình đánh giá hồ sơ đề xuất về kỹ thuật;
+
+Xem xét về những ý kiến khác nhau (nếu có) giữa bên mời thầu với tổ chuyên gia; giữa các cá nhân trong tổ chuyên gia;
+
+Các nội dung liên quan khác.
+
+c) Báo cáo thẩm định bao gồm các nội dung:
+
+Tóm tắt quá trình tổ chức lựa chọn nhà thầu (từ khi đăng tải thông báo mời thầu đến khi trình thẩm định danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật) và đề nghị của bên mời thầu về danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật;
+
+Nhận xét và ý kiến của đơn vị thẩm định về cơ sở pháp lý, việc tuân thủ quy định pháp luật về đấu thầu và pháp luật khác có liên quan; về sự bảo đảm cạnh tranh, công bằng, minh bạch trong quá trình lựa chọn danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật; ý kiến thống nhất hoặc không thống nhất về kết quả lựa chọn danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật; đề xuất biện pháp xử lý đối với trường hợp phát hiện sự không tuân thủ quy định của pháp luật về đấu thầu và pháp luật khác có liên quan trong quá trình đánh giá hồ sơ đề xuất về kỹ thuật; đề xuất biện pháp giải quyết đối với những trường hợp chưa đủ cơ sở kết luận về kết quả lựa chọn danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật;
+
+Các ý kiến khác (nếu có).
+
+<a id="dieu-130-khoan-4"></a>
+**4.** Thẩm định kết quả lựa chọn nhà thầu:
+
+a) Hồ sơ trình thẩm định, phê duyệt bao gồm:
+
+Tờ trình đề nghị phê duyệt kết quả lựa chọn nhà thầu của bên mời thầu, trong đó phải nêu rõ ý kiến của bên mời thầu đối với các ý kiến, đề xuất, kiến nghị của tổ chuyên gia;
+
+Báo cáo kết quả đánh giá hồ sơ dự thầu, hồ sơ đề xuất của tổ chuyên gia;
+
+Biên bản thương thảo hợp đồng (nếu có);
+
+Bản chụp các hồ sơ, tài liệu: Hồ sơ mời thầu, hồ sơ yêu cầu, biên bản mở thầu, hồ sơ dự thầu, hồ sơ đề xuất của các nhà thầu và các tài liệu khác có liên quan; trường hợp đã tiến hành thẩm định danh sách nhà thầu đáp ứng yêu cầu về kỹ thuật thì chỉ gửi biên bản mở hồ sơ đề xuất về tài chính và bản chụp hồ sơ đề xuất về tài chính của các nhà thầu đáp ứng yêu cầu về kỹ thuật.
+
+b) Nội dung thẩm định bao gồm:
+
+Kiểm tra các tài liệu là căn cứ của việc tổ chức lựa chọn nhà thầu;
+
+Kiểm tra việc tuân thủ quy định về thời gian trong quá trình lựa chọn nhà thầu;
+
+Kiểm tra việc đánh giá hồ sơ dự thầu, hồ sơ đề xuất đối với gói thầu áp dụng phương thức một giai đoạn một túi hồ sơ, hai giai đoạn một túi hồ sơ và hai giai đoạn hai túi hồ sơ; việc tuân thủ quy định của pháp luật về đấu thầu và pháp luật khác có liên quan trong quá trình đánh giá hồ sơ dự thầu, hồ sơ đề xuất;
+
+Kiểm tra việc đánh giá hồ sơ đề xuất về tài chính đối với gói thầu áp dụng phương thức một giai đoạn hai túi hồ sơ; việc tuân thủ quy định của pháp luật về đấu thầu và pháp luật khác có liên quan trong quá trình đánh giá hồ sơ đề xuất về tài chính;
+
+Kiểm tra việc tuân thủ quy định của pháp luật về đấu thầu và pháp luật khác có liên quan trong quá trình thương thảo hợp đồng (nếu có); kiểm tra sự phù hợp giữa kết quả thương thảo hợp đồng so với kết quả lựa chọn nhà thầu (nếu có), danh sách xếp hạng nhà thầu, hồ sơ mời thầu, hồ sơ yêu cầu và hồ sơ dự thầu, hồ sơ đề xuất của nhà thầu;
+
+Xem xét về những ý kiến khác nhau (nếu có) giữa bên mời thầu với tổ chuyên gia; giữa các cá nhân trong tổ chuyên gia;
+
+Các nội dung liên quan khác.
+
+c) Báo cáo thẩm định bao gồm các nội dung:
+
+Khái quát về nội dung chính của dự án, dự toán mua sắm, gói thầu, cơ sở pháp lý đối với việc tổ chức lựa chọn nhà thầu;
+
+Tóm tắt toàn bộ quá trình lựa chọn nhà thầu từ khi lựa chọn danh sách ngắn (nếu có) đến khi trình thẩm định kết quả lựa chọn nhà thầu, kèm theo các hồ sơ, tài liệu theo quy định tại khoản 2 và khoản 3 Điều này;
+
+Tóm tắt đề xuất, kiến nghị của bên mời thầu về kết quả lựa chọn nhà thầu;
+
+Nhận xét và ý kiến của đơn vị thẩm định về cơ sở pháp lý, việc tuân thủ quy định pháp luật về đấu thầu và pháp luật khác có liên quan; về sự bảo đảm cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế trong quá trình lựa chọn nhà thầu; ý kiến thống nhất hoặc không thống nhất về kết quả lựa chọn nhà thầu; đề xuất biện pháp xử lý đối với trường hợp phát hiện sự không tuân thủ quy định của pháp luật về đấu thầu và pháp luật khác có liên quan trong quá trình lựa chọn nhà thầu; đề xuất biện pháp giải quyết đối với những trường hợp chưa đủ cơ sở kết luận về kết quả lựa chọn nhà thầu;
+
+Các ý kiến khác (nếu có).
+
+## Chương XI. 
+
+__CÁC VẤN ĐỀ KHÁC__
+
+
+<a id="dieu-131"></a>
+### Điều 131. Xử lý tình huống trong đấu thầu qua mạng và không qua mạng
+
+<a id="dieu-131-khoan-1"></a>
+**1.** Trường hợp có lý do cần điều chỉnh giá gói thầu hoặc nội dung gói thầu, phải điều chỉnh kế hoạch lựa chọn nhà thầu theo quy định của pháp luật trước thời điểm đóng thầu, trừ trường hợp quy định tại khoản 2 và khoản 8 Điều này.
+
+<a id="dieu-131-khoan-2"></a>
+**2.** Trường hợp gói thầu có dự toán được duyệt sau khi phê duyệt kế hoạch lựa chọn nhà thầu mà dự toán gói thầu cao hơn hoặc thấp hơn giá gói thầu ghi trong kế hoạch lựa chọn nhà thầu thì dự toán đó sẽ thay thế giá gói thầu trong kế hoạch lựa chọn nhà thầu theo nguyên tắc sau đây:
+
+a) Trường hợp dự toán gói thầu được duyệt cao hơn giá gói thầu trong kế hoạch lựa chọn nhà thầu nhưng bảo đảm giá trị cao hơn đó không làm vượt tổng mức đầu tư của dự án, dự toán mua sắm thì không phải điều chỉnh kế hoạch lựa chọn nhà thầu. Trường hợp giá trị cao hơn đó làm vượt tổng mức đầu tư của dự án, dự toán mua sắm thì phải điều chỉnh kế hoạch lựa chọn nhà thầu; nếu hình thức lựa chọn nhà thầu trong kế hoạch lựa chọn nhà thầu đã duyệt không còn phù hợp thì phải điều chỉnh hình thức lựa chọn nhà thầu;
+
+b) Trường hợp dự toán gói thầu được duyệt thấp hơn giá gói thầu trong kế hoạch lựa chọn nhà thầu mà không làm thay đổi hình thức lựa chọn nhà thầu trong kế hoạch lựa chọn nhà thầu đã duyệt thì không phải điều chỉnh kế hoạch lựa chọn nhà thầu; trường hợp cần điều chỉnh hình thức lựa chọn nhà thầu cho phù hợp với giá trị mới của gói thầu theo dự toán được duyệt thì phải tiến hành điều chỉnh kế hoạch lựa chọn nhà thầu.
+
+Dự toán được phê duyệt sau khi kế hoạch lựa chọn nhà thầu được duyệt theo quy định tại khoản này phải được đăng tải trên Hệ thống mạng đấu thầu quốc gia trong thời hạn tối thiểu 05 ngày trước ngày có thời điểm đóng thầu.
+
+<a id="dieu-131-khoan-3"></a>
+**3.** Trường hợp khi xác định danh sách ngắn có ít hơn 03 nhà thầu đáp ứng yêu cầu thì căn cứ điều kiện cụ thể của gói thầu, chủ đầu tư xử lý theo một trong hai cách sau đây:
+
+a) Tiến hành lựa chọn bổ sung nhà thầu vào danh sách ngắn;
+
+b) Cho phép phát hành ngay hồ sơ mời thầu cho nhà thầu trong danh sách ngắn.
+
+<a id="dieu-131-khoan-4"></a>
+**4.** Trường hợp tại thời điểm đóng thầu không có nhà thầu tham dự thầu thì chủ đầu tư quyết định xử lý theo một trong các cách sau đây:
+
+a) Hủy thông báo mời quan tâm, thông báo mời sơ tuyển, thông báo mời thầu để mời thầu lại. Trong trường hợp này, trước khi mời thầu lại, cần rà soát, sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu (nếu cần thiết) để bảo đảm trong hồ sơ không có điều kiện nào nhằm hạn chế sự tham dự thầu của nhà thầu hoặc tạo lợi thế cho một hoặc một số nhà thầu gây ra sự cạnh tranh không bình đẳng;
+
+b) Gia hạn thời điểm đóng thầu tối thiểu là 05 ngày đối với gói thầu đang thực hiện mời quan tâm, mời sơ tuyển, gói thầu xây lắp, hỗn hợp có giá gói thầu không quá 20 tỷ đồng, gói thầu mua sắm hàng hóa, dịch vụ phi tư vấn có giá gói thầu không quá 10 tỷ đồng; gia hạn thời điểm đóng thầu tối thiểu là 10 ngày đối với gói thầu khác.
+
+<a id="dieu-131-khoan-5"></a>
+**5.** Trường hợp tại thời điểm đóng thầu đối với gói thầu áp dụng hình thức đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, chào giá trực tuyến theo quy trình thông thường mà chỉ có 01 hoặc 02 nhà thầu nộp hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ dự thầu thì chủ đầu tư xem xét, giải quyết trong thời hạn không quá 04 giờ kể từ thời điểm đóng thầu theo một trong hai cách sau đây:
+
+a) Cho phép gia hạn thời điểm đóng thầu nhằm tăng thêm số lượng nhà thầu nộp hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ dự thầu. Trong trường hợp này phải quy định rõ thời điểm đóng thầu mới và các thời hạn tương ứng để nhà thầu có đủ thời gian sửa đổi hoặc bổ sung hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ dự thầu đã nộp theo yêu cầu mới;
+
+b) Cho phép mở thầu ngay để tiến hành đánh giá.
+
+<a id="dieu-131-khoan-6"></a>
+**6.** Đối với trường hợp xử lý tình huống theo quy định tại khoản 4 Điều này và trường hợp hủy thầu theo quy định tại khoản 1 Điều 17 của Luật Đấu thầu, không phải điều chỉnh thời gian bắt đầu tổ chức lựa chọn nhà thầu trong kế hoạch lựa chọn nhà thầu.
+
+<a id="dieu-131-khoan-7"></a>
+**7.** Trường hợp nhà thầu xếp hạng thứ nhất có giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) vượt giá gói thầu và ít nhất 01 nhà thầu trong danh sách xếp hạng có giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) không vượt giá gói thầu thì được phép mời nhà thầu xếp hạng thứ nhất vào đàm phán về giá nhưng phải bảo đảm giá sau đàm phán không được vượt giá gói thầu được duyệt. Trường hợp đàm phán không thành công, được mời nhà thầu xếp hạng tiếp theo vào đàm phán.
+
+<a id="dieu-131-khoan-8"></a>
+**8.** Trường hợp giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của tất cả các nhà thầu đáp ứng yêu cầu về kỹ thuật và thuộc danh sách xếp hạng đều vượt giá gói thầu đã duyệt thì chủ đầu tư xem xét, quyết định xử lý tình huống theo một hoặc kết hợp lần lượt các cách sau đây:
+
+a) Cho phép các nhà thầu này được chào lại giá dự thầu nếu giá gói thầu đã bao gồm đầy đủ các yếu tố cấu thành chi phí thực hiện gói thầu;
+
+b) Cho phép đồng thời với việc các nhà thầu chào lại giá dự thầu, xem xét lại giá gói thầu, nội dung hồ sơ mời thầu đã duyệt, nếu cần thiết.
+
+Trường hợp cho phép các nhà thầu được chào lại giá dự thầu thì cần quy định rõ thời gian chuẩn bị và nộp hồ sơ chào lại giá dự thầu nhưng không quá 10 ngày kể từ ngày bên mời thầu gửi văn bản đề nghị chào lại giá dự thầu và quy định rõ việc mở các hồ sơ chào lại giá dự thầu theo quy trình mở thầu quy định tại Điều 26 của Nghị định này hoặc chào lại giá dự thầu trên Hệ thống mạng đấu thầu quốc gia đối với đấu thầu qua mạng.
+
+Trường hợp cần điều chỉnh giá gói thầu trong kế hoạch lựa chọn nhà thầu đã duyệt, người có thẩm quyền chịu trách nhiệm phê duyệt điều chỉnh trong thời hạn 10 ngày kể từ ngày nhận được đề nghị điều chỉnh nhưng bảo đảm việc điều chỉnh được thực hiện trước thời điểm hết hạn nộp hồ sơ chào lại giá dự thầu;
+
+c) Mời các nhà thầu này tham gia chào giá trực tuyến theo quy trình rút gọn. Trường hợp cần điều chỉnh giá gói thầu trong kế hoạch lựa chọn nhà thầu đã duyệt thì người có thẩm quyền có trách nhiệm phê duyệt điều chỉnh trước thời điểm bắt đầu chào giá trực tuyến;
+
+d) Cho phép mời nhà thầu xếp hạng thứ nhất vào đàm phán về giá nhưng phải bảo đảm giá sau đàm phán không được vượt giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) thấp nhất. Trường hợp cần điều chỉnh giá gói thầu trong kế hoạch lựa chọn nhà thầu đã duyệt thì người có thẩm quyền có trách nhiệm phê duyệt điều chỉnh trong thời hạn tối đa là 10 ngày kể từ ngày nhận được đề nghị điều chỉnh. Trường hợp đàm phán không thành công thì mời nhà thầu xếp hạng tiếp theo vào đàm phán. Cách thức này chỉ áp dụng đối với trường hợp gói thầu áp dụng hình thức đấu thầu rộng rãi và chủ đầu tư phải chịu trách nhiệm về tính cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế của dự án, dự toán mua sắm, gói thầu.
+
+Trường hợp chỉ có một nhà thầu vượt qua bước đánh giá về kỹ thuật thì xử lý theo quy định tại điểm a hoặc điểm b khoản này hoặc cho phép mời nhà thầu vào đàm phán về giá nhưng bảo đảm giá sau đàm phán không vượt giá gói thầu.
+
+<a id="dieu-131-khoan-9"></a>
+**9.** Đối với gói thầu mua sắm hàng hóa theo quy định tại khoản 2 Điều 92 của Nghị định này, trường hợp nhà thầu xếp hạng thứ nhất có đơn giá dự thầu một hoặc một số mặt hàng vượt tiêu chuẩn, định mức do cấp có thẩm quyền ban hành và giá đề nghị trúng thầu không vượt giá gói thầu được duyệt thì có thể xem xét, xử lý lần lượt theo các cách như sau:
+
+a) Mời nhà thầu xếp hạng thứ nhất vào đàm phán đối với các mặt hàng có đơn giá dự thầu vượt tiêu chuẩn, định mức mua sắm do cấp có thẩm quyền ban hành;
+
+b) Cho phép tất cả nhà thầu vượt qua bước đánh giá về kỹ thuật được chào lại giá dự thầu.
+
+<a id="dieu-131-khoan-10"></a>
+**10.** Đối với gói thầu chia phần:
+
+a) Trường hợp có một phần hoặc nhiều phần thuộc gói thầu không có nhà thầu tham dự thầu hoặc không có nhà thầu đáp ứng yêu cầu, chủ đầu tư báo cáo người có thẩm quyền cho phép tách phần đó ra thành gói thầu riêng biệt để tổ chức lựa chọn nhà thầu theo quy định;
+
+b) Trường hợp một nhà thầu trúng thầu tất cả các phần thì gói thầu có một hợp đồng. Trường hợp nhiều nhà thầu trúng thầu các phần khác nhau thì gói thầu có nhiều hợp đồng tương ứng với một hoặc một số phần mà mỗi nhà thầu trúng thầu;
+
+c) Trường hợp giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của tất cả các nhà thầu vượt qua bước đánh giá về kỹ thuật của một phần vượt giá trị ước tính của phần đó trong giá gói thầu làm tổng giá đề nghị trúng thầu vượt giá gói thầu hoặc giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của nhà thầu xếp hạng thứ nhất ở một hoặc một số phần cao hơn giá trị ước tính của một hoặc một số phần đó trong giá gói thầu làm tổng giá đề nghị trúng thầu vượt giá gói thầu thì chủ đầu tư căn cứ quy định tại khoản 7 và khoản 8 Điều này để xử lý tình huống đối với các phần này.
+
+<a id="dieu-131-khoan-11"></a>
+**11.** Trường hợp hồ sơ dự thầu có giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) thấp khác thường, ảnh hưởng đến chất lượng gói thầu hoặc gói thầu xây lắp có giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) nhỏ hơn 70% giá gói thầu thì chủ đầu tư xử lý tình huống như sau:
+
+a) Yêu cầu nhà thầu giải thích, làm rõ về tính khả thi của giá dự thầu khác thường đó và các chi phí cấu thành giá dự thầu. Nhà thầu phải chứng minh sự phù hợp giữa giá dự thầu với phạm vi công việc, giải pháp thực hiện do nhà thầu đề xuất, tiến độ thực hiện và các yêu cầu khác của hồ sơ mời thầu. Nếu sự giải thích của nhà thầu không đủ rõ, không có tính thuyết phục thì không chấp nhận giá dự thầu đó, đồng thời coi các hạng mục có giá chào thấp khác thường dẫn đến giá dự thầu thấp khác thường như là sai lệch thiếu và tiến hành hiệu chỉnh sai lệch đối với các hạng mục này theo quy định tại khoản 2 Điều 29 của Nghị định này. Việc hiệu chỉnh sai lệch chỉ nhằm mục đích so sánh, xếp hạng nhà thầu. Trường hợp sau hiệu chỉnh sai lệch nhà thầu vẫn xếp thứ nhất thì giá đề nghị trúng thầu không bao gồm giá trị hiệu chỉnh sai lệch quy định tại điểm này;
+
+b) Trường hợp để đề phòng rủi ro, chủ đầu tư có thể quy định giá trị bảo đảm thực hiện hợp đồng lớn hơn 10% nhưng không quá 30% giá hợp đồng và phải được người có thẩm quyền chấp thuận bằng văn bản.
+
+<a id="dieu-131-khoan-12"></a>
+**12.** Đối với gói thầu xây lắp, hỗn hợp áp dụng đấu thầu quốc tế, trường hợp nhà thầu xếp thứ nhất có hồ sơ dự thầu không cân bằng: có đơn giá chào cao hơn đáng kể so với đơn giá tương ứng trong dự toán gói thầu ở các hạng mục công việc có các yêu cầu kỹ thuật đơn giản, dễ thực hiện, hạng mục công việc có khả năng phát sinh khối lượng ngoài khối lượng trong bảng giá dự thầu và có đơn giá chào thấp hơn đáng kể so với đơn giá tương ứng trong dự toán gói thầu ở các hạng mục công việc phức tạp, khó thực hiện thì bên mời thầu có thể yêu cầu nhà thầu làm rõ bằng văn bản về các chi phí cấu thành giá dự thầu. Nhà thầu phải chứng minh sự phù hợp giữa giá dự thầu với phạm vi công việc, biện pháp thi công do nhà thầu đề xuất, tiến độ thực hiện và các yêu cầu khác của hồ sơ mời thầu. Nếu sự giải thích của nhà thầu không đủ rõ, không có tính thuyết phục thì hồ sơ dự thầu của nhà thầu sẽ bị loại. Trường hợp để đề phòng rủi ro, chủ đầu tư có thể quy định giá trị bảo đảm thực hiện hợp đồng lớn hơn 10% nhưng không quá 30% giá hợp đồng và phải được người có thẩm quyền chấp thuận bằng văn bản.
+
+<a id="dieu-131-khoan-13"></a>
+**13.** Trường hợp hồ sơ mời thầu quy định nhà thầu được đề xuất biện pháp thi công khác với biện pháp thi công nêu trong hồ sơ mời thầu, phần sai khác giữa khối lượng công việc theo biện pháp thi công nêu trong hồ sơ mời thầu và khối lượng công việc theo biện pháp thi công do nhà thầu đề xuất sẽ không bị hiệu chỉnh sai lệch theo quy định tại khoản 2 Điều 29 của Nghị định này. Phần sai khác này không bị tính là sai lệch thiếu.
+
+<a id="dieu-131-khoan-14"></a>
+**14.** Trường hợp nhà thầu đang trong quá trình tham dự thầu nhưng bị sáp nhập thì nhà thầu sau khi sáp nhập được tiếp tục tham dự thầu và được thừa hưởng năng lực, kinh nghiệm trong đấu thầu của nhà thầu bị sáp nhập.
+
+<a id="dieu-131-khoan-15"></a>
+**15.** Trường hợp chi nhánh, xí nghiệp, văn phòng đại diện được tách ra khỏi pháp nhân theo quy định của pháp luật về dân sự thì nhà thầu tiếp nhận hoặc hình thành từ chi nhánh, xí nghiệp, văn phòng đại diện được kế thừa năng lực, kinh nghiệm trong đấu thầu mà chi nhánh, xí nghiệp, văn phòng đại diện đã thực hiện.
+
+<a id="dieu-131-khoan-16"></a>
+**16.** Đối với gói thầu áp dụng thương thảo hợp đồng theo quy định tại khoản 1 Điều 43 của Luật Đấu thầu, trường hợp nhà thầu xếp hạng thứ nhất không tiến hành thương thảo, không ký biên bản thương thảo, thương thảo không thành công, chủ đầu tư xem xét, quyết định mời nhà thầu xếp hạng tiếp theo (nếu có) vào thương thảo. Nội dung thương thảo căn cứ vào hồ sơ dự thầu và giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của nhà thầu được mời vào thương thảo. Trường hợp thương thảo không thành công, bên mời thầu báo cáo chủ đầu tư xem xét, quyết định việc mời các nhà thầu tiếp theo (nếu có) vào thương thảo hợp đồng; nội dung thương thảo căn cứ vào hồ sơ dự thầu và giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của nhà thầu được mời vào thương thảo hợp đồng. Trường hợp các nhà thầu được mời thương thảo hợp đồng nhưng từ chối thương thảo, không ký biên bản thương thảo, thương thảo không thành công thì chủ đầu tư xem xét, quyết định hủy thầu theo quy định tại khoản 1 Điều 17 của Luật Đấu thầu.
+
+Trường hợp nhà thầu xếp hạng tiếp theo được mời vào thương thảo hợp đồng theo quy định tại điểm này trong thời hạn còn hiệu lực của hồ sơ dự thầu mà không đến thương thảo hoặc có thương thảo nhưng không ký biên bản thương thảo thì không được hoàn trả giá trị bảo đảm dự thầu. Trường hợp hồ sơ dự thầu của nhà thầu xếp hạng tiếp theo hết hiệu lực thì bên mời thầu phải yêu cầu nhà thầu gia hạn hiệu lực của hồ sơ dự thầu, bảo đảm dự thầu trước khi thương thảo hợp đồng.
+
+<a id="dieu-131-khoan-17"></a>
+**17.** Trường hợp giá đề nghị trúng thầu thấp dưới 50% giá gói thầu được duyệt thì chủ đầu tư yêu cầu nhà thầu làm rõ các yếu tố cấu thành chi phí chào thầu, xem xét các bằng chứng liên quan theo hướng sau đây:
+
+a) Các yếu tố kinh tế liên quan đến biện pháp thi công, quy trình sản xuất hoặc cung cấp dịch vụ;
+
+b) Giải pháp kinh tế được áp dụng hoặc các lợi thế đặc biệt của nhà thầu dẫn đến lợi thế về giá cả;
+
+c) Nguồn gốc của hàng hóa, dịch vụ, nhân sự cung cấp cho gói thầu, trong đó phải bảo đảm tuân thủ các quy định của pháp luật.
+
+Trường hợp đáp ứng được các điều kiện quy định tại các điểm a, b và c khoản này thì hồ sơ dự thầu, hồ sơ đề xuất của nhà thầu vẫn được chấp nhận trúng thầu. Trường hợp để đề phòng rủi ro, chủ đầu tư có thể quy định giá trị bảo đảm thực hiện hợp đồng lớn hơn 10% nhưng không quá 30% giá hợp đồng và phải được người có thẩm quyền chấp thuận bằng văn bản. Nhà thầu nhận được sự trợ cấp của bất kỳ tổ chức, cá nhân nào dẫn đến sự cạnh tranh không bình đẳng thì hồ sơ dự thầu, hồ sơ đề xuất của nhà thầu sẽ bị loại.
+
+<a id="dieu-131-khoan-18"></a>
+**18.** Trường hợp sau khi đánh giá, có nhiều nhà thầu được đánh giá tốt nhất, ngang nhau thì xử lý theo thứ tự ưu tiên như sau cho đến khi lựa chọn được nhà thầu trúng thầu:
+
+a) Trao thầu cho doanh nghiệp nhỏ và vừa do phụ nữ làm chủ theo quy định của pháp luật về hỗ trợ doanh nghiệp nhỏ và vừa (nếu có);
+
+b) Trao thầu cho nhà thầu có điểm kỹ thuật cao hơn hoặc có số tiêu chí đánh giá về kỹ thuật ở mức chấp nhận được ít hơn đối với trường hợp gói thầu áp dụng phương pháp giá thấp nhất; trao thầu cho nhà thầu có giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) thấp hơn đối với gói thầu áp dụng phương pháp giá đánh giá hoặc phương pháp kết hợp giữa kỹ thuật và giá;
+
+c) Trao thầu cho nhà thầu có trụ sở chính ở địa phương nơi triển khai gói thầu;
+
+d) Trao thầu cho nhà thầu có sử dụng số lượng lao động là thương binh, người khuyết tật từ 25% trở lên có hợp đồng lao động với thời gian thực hiện hợp đồng từ 03 tháng trở lên, đến thời điểm đóng thầu vẫn còn hiệu lực;
+
+đ) Trao thầu cho nhà thầu có sử dụng số lượng lao động là dân tộc thiểu số từ 25% trở lên có hợp đồng lao động với thời gian thực hiện hợp đồng từ 03 tháng trở lên, đến thời điểm đóng thầu vẫn còn hiệu lực;
+
+e) Trao thầu cho nhà thầu có sử dụng số lượng lao động là nữ giới từ 25% trở lên có hợp đồng lao động với thời gian thực hiện hợp đồng từ 03 tháng trở lên, đến thời điểm đóng thầu vẫn còn hiệu lực;
+
+g) Cho phép các nhà thầu này chào lại giá dự thầu để lựa chọn nhà thầu có giá chào thấp nhất. Nhà thầu không được chào giá cao hơn giá nhà thầu đã chào sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có). Việc chào lại giá dự thầu thực hiện theo quy định tại điểm a khoản 8 Điều này;
+
+h) Mời các nhà thầu này tham gia chào giá trực tuyến theo quy trình rút gọn. Nhà thầu không được chào giá cao hơn giá nhà thầu đã chào sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có).
+
+<a id="dieu-131-khoan-19"></a>
+**19.** Trường hợp nhà thầu trúng thầu không tiến hành hoàn thiện, ký kết hợp đồng hoặc tại thời điểm ký kết hợp đồng, nhà thầu trúng thầu không đáp ứng yêu cầu về năng lực kỹ thuật, tài chính quy định tại khoản 2 Điều 66 của Luật Đấu thầu thì chủ đầu tư xem xét, quyết định xử lý theo trình tự như sau:
+
+a) Mời nhà thầu xếp hạng thứ hai (nếu có) vào hoàn thiện hợp đồng, đồng thời yêu cầu nhà thầu này gia hạn hoặc khôi phục hiệu lực của hồ sơ dự thầu, biện pháp bảo đảm dự thầu (trong trường hợp hết thời gian có hiệu lực) với thời hạn hiệu lực mới tối thiểu là 30 ngày kể từ ngày dự kiến bắt đầu tiến hành hoàn thiện hợp đồng.
+
+Trường hợp nhà thầu xếp hạng thứ hai không chấp thuận hoàn thiện hợp đồng hoặc không gia hạn hoặc khôi phục hiệu lực của hồ sơ dự thầu, biện pháp bảo đảm dự thầu theo yêu cầu, chủ đầu tư xem xét, quyết định xử lý theo một trong hai phương án quy định tại điểm b hoặc điểm c khoản này.
+
+Việc hoàn thiện hợp đồng thực hiện theo quy định tại Điều 32 của Nghị định này. Nội dung hoàn thiện hợp đồng phải căn cứ vào hồ sơ dự thầu và giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của nhà thầu xếp hạng thứ hai. Sau khi hoàn thiện hợp đồng với nhà thầu xếp hạng thứ hai, chủ đầu tư hủy quyết định phê duyệt kết quả lựa chọn nhà thầu trước đó và ban hành quyết định trúng thầu cho nhà thầu xếp hạng thứ hai trước khi ký kết hợp đồng với nhà thầu.
+
+Trường hợp nhà thầu xếp hạng thứ hai không chấp nhận kết quả hoàn thiện hợp đồng, không ký kết hợp đồng với chủ đầu tư thì nhà thầu không được hoàn trả giá trị bảo đảm dự thầu, trừ trường hợp bất khả kháng hoặc trường hợp chủ đầu tư không tuân thủ nguyên tắc hoàn thiện hợp đồng. Trong trường hợp này, chủ đầu tư xem xét, quyết định xử lý theo một trong hai phương án quy định tại điểm b hoặc điểm c khoản này;
+
+b) Mời nhà thầu xếp hạng thứ ba (nếu có) vào hoàn thiện dự thảo hợp đồng. Trường hợp nhà thầu xếp hạng thứ ba không chấp thuận hoàn thiện hợp đồng hoặc không gia hạn hoặc khôi phục hiệu lực của hồ sơ dự thầu, biện pháp bảo đảm dự thầu theo yêu cầu, chủ đầu tư xem xét, quyết định việc mời các nhà thầu xếp hạng tiếp theo (nếu có) vào hoàn thiện hợp đồng hoặc hủy thầu theo quy định tại khoản 1 Điều 17 của Luật Đấu thầu.
+
+Nhà thầu được mời vào hoàn thiện hợp đồng phải gia hạn hoặc khôi phục hiệu lực của hồ sơ dự thầu, biện pháp bảo đảm dự thầu (trong trường hợp hết thời gian có hiệu lực) với thời hạn hiệu lực mới tối thiểu là 30 ngày kể từ ngày dự kiến bắt đầu tiến hành hoàn thiện hợp đồng.
+
+Việc hoàn thiện hợp đồng thực hiện theo quy định tại Điều 32 của Nghị định này. Nội dung hoàn thiện hợp đồng phải căn cứ vào hồ sơ dự thầu và giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch, trừ đi giá trị giảm giá (nếu có) của nhà thầu được mời vào hoàn thiện hợp đồng. Sau khi hoàn thiện hợp đồng với nhà thầu, chủ đầu tư hủy quyết định phê duyệt kết quả lựa chọn nhà thầu trước đó và ban hành quyết định trúng thầu cho nhà thầu đã hoàn thiện hợp đồng trước khi ký kết hợp đồng với nhà thầu này.
+
+Trường hợp nhà thầu được mời vào hoàn thiện hợp đồng không chấp nhận kết quả hoàn thiện hợp đồng, không ký kết hợp đồng với chủ đầu tư thì không được hoàn trả giá trị bảo đảm dự thầu và chủ đầu tư xem xét, quyết định hủy thầu theo quy định tại khoản 1 Điều 17 của Luật Đấu thầu;
+
+c) Hủy thầu theo quy định tại khoản 1 Điều 17 của Luật Đấu thầu.
+
+<a id="dieu-131-khoan-20"></a>
+**20.** Trường hợp trong quá trình thực hiện hợp đồng, người có thẩm quyền quyết định không công nhận kết quả lựa chọn nhà thầu khi có bằng chứng nhà thầu trúng thầu có hành vi vi phạm quy định tại Điều 16 của Luật Đấu thầu hoặc nhà thầu trúng thầu có hành vi vi phạm quy định của pháp luật có liên quan dẫn đến không bảo đảm cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế hoặc làm sai lệch kết quả lựa chọn nhà thầu thì chủ đầu tư xử lý như sau:
+
+a) Tịch thu giá trị bảo đảm thực hiện hợp đồng của nhà thầu và thu hồi các khoản tạm ứng (nếu có);
+
+b) Thanh toán cho nhà thầu các phần công việc mà nhà thầu đã thực hiện, được nghiệm thu theo quy định trong hợp đồng;
+
+c) Chấm dứt hợp đồng với nhà thầu; đối với nhà thầu liên danh mà chỉ có thành viên trong liên danh vi phạm và bị cấm tham gia hoạt động đấu thầu theo quy định tại khoản 1 Điều 125 của Nghị định này thì thành viên liên danh còn lại không bị coi là không hoàn thành hợp đồng do lỗi của nhà thầu;
+
+d) Đăng tải thông tin nhà thầu vi phạm trên Hệ thống mạng đấu thầu quốc gia trong thời hạn 05 ngày làm việc kể từ ngày ban hành quyết định chấm dứt hợp đồng với nhà thầu vi phạm, đồng thời gửi quyết định chấm dứt hợp đồng và các tài liệu, văn bản xử lý vi phạm khác (nếu có) đến Bộ Kế hoạch và Đầu tư để tổng hợp, theo dõi;
+
+đ) Sau khi chấm dứt hợp đồng với nhà thầu trúng thầu trước đó, phần công việc chưa thực hiện được chỉ định thầu cho nhà thầu xếp thứ hai trong danh sách xếp hạng, trường hợp nhà thầu xếp thứ hai không chấp nhận ký hợp đồng thì chủ đầu tư chỉ định nhà thầu khác hoặc tách phần công việc chưa thực hiện thành gói thầu mới và tổ chức lựa chọn nhà thầu theo quy định của pháp luật. Trường hợp cần thiết có thể xem xét, phê duyệt lại giá gói thầu đối với phần công việc chưa thực hiện để tổ chức đấu thầu. Trường hợp áp dụng chỉ định thầu, giá trị phần công việc chưa thực hiện được tính bằng giá trị ghi trong hợp đồng trừ đi giá trị của phần công việc đã thực hiện trước đó.
+
+<a id="dieu-131-khoan-21"></a>
+**21.** Trường hợp trong quá trình thực hiện hợp đồng, người có thẩm quyền quyết định không công nhận kết quả lựa chọn nhà thầu khi có bằng chứng chủ đầu tư, bên mời thầu, tổ chuyên gia, tổ thẩm định có hành vi quy định tại Điều 16 của Luật Đấu thầu hoặc có hành vi vi phạm quy định của pháp luật có liên quan dẫn đến không bảo đảm cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế hoặc làm sai lệch kết quả lựa chọn nhà thầu mà không do lỗi của nhà thầu trúng thầu thì người có thẩm quyền quyết định xử lý như sau:
+
+a) Yêu cầu chủ đầu tư thu hồi các khoản tạm ứng (nếu có) và chấm dứt hợp đồng với nhà thầu. Nhà thầu được hoàn trả giá trị bảo đảm thực hiện hợp đồng và được đền bù các chi phí liên quan đến việc chấm dứt hợp đồng do lỗi của chủ đầu tư theo thỏa thuận nêu trong hợp đồng. Chủ đầu tư chịu trách nhiệm đền bù thiệt hại cho nhà thầu theo quy định trong hợp đồng;
+
+b) Phần công việc chưa thực hiện được tách thành gói thầu mới để tổ chức lựa chọn nhà thầu theo quy định. Trường hợp cần thiết có thể xem xét, phê duyệt lại giá gói thầu;
+
+c) Trường hợp gói thầu đã thực hiện, hoàn thành trên 70% khối lượng công việc của hợp đồng và việc xử lý tình huống theo quy định tại điểm a và điểm b khoản này không mang lại hiệu quả kinh tế thì người có thẩm quyền quyết định việc cho phép tiếp tục duy trì hợp đồng với nhà thầu trúng thầu.
+
+<a id="dieu-131-khoan-22"></a>
+**22.** Trường hợp một hoặc một số thành viên liên danh vi phạm hợp đồng, không còn năng lực để tiếp tục thực hiện hợp đồng, làm ảnh hưởng nghiêm trọng đến tiến độ, chất lượng, hiệu quả của gói thầu thì xử lý như sau:
+
+a) Phạt hợp đồng theo quy định trong hợp đồng đối với tất cả các thành viên liên danh;
+
+b) Tịch thu giá trị bảo đảm thực hiện hợp đồng của tất cả thành viên liên danh;
+
+c) Chấm dứt hợp đồng với một hoặc một số thành viên của liên danh mà vi phạm hợp đồng; trong trường hợp này, chỉ một hoặc một số thành viên liên danh vi phạm hợp đồng bị coi là không hoàn thành hợp đồng và bị đăng tải trên Hệ thống mạng đấu thầu quốc gia; các thành viên còn lại được tiếp tục thực hiện hợp đồng tương ứng với phần công việc đảm nhận trong liên danh. Trong thời hạn 05 ngày làm việc kể từ ngày ban hành quyết định chấm dứt hợp đồng với một hoặc một số thành viên liên danh, chủ đầu tư phải đăng tải thông tin thành viên liên danh vi phạm hợp đồng trên Hệ thống mạng đấu thầu quốc gia; trong thông báo phải nêu rõ lý do vi phạm dẫn tới phải chấm dứt hợp đồng và gửi quyết định đến Bộ Kế hoạch và Đầu tư để tổng hợp, theo dõi;
+
+d) Phần công việc của thành viên vi phạm được giao cho các thành viên còn lại thực hiện nếu các thành viên này đủ năng lực, kinh nghiệm. Trong trường hợp này, các thành viên còn lại phải thực hiện biện pháp bảo đảm thực hiện hợp đồng mới tương ứng với giá trị phần công việc chưa thực hiện của gói thầu;
+
+đ) Trường hợp các thành viên còn lại từ chối thực hiện hoặc không đủ năng lực, kinh nghiệm để thực hiện thì chủ đầu tư báo cáo người có thẩm quyền cho phép tách phần công việc của thành viên vi phạm thành gói thầu riêng để chỉ định thầu theo quy định tại điểm đ khoản 20 Điều này hoặc tổ chức lựa chọn nhà thầu theo quy định.
+
+<a id="dieu-131-khoan-23"></a>
+**23.** Trường hợp nhà thầu thực hiện gói thầu vi phạm hợp đồng, không còn năng lực để tiếp tục thực hiện hợp đồng, làm ảnh hưởng nghiêm trọng đến tiến độ, chất lượng, hiệu quả của gói thầu thì chủ đầu tư xem xét, báo cáo người có thẩm quyền quyết định cho phép chấm dứt hợp đồng với nhà thầu đó; nhà thầu vi phạm hợp đồng bị coi là không hoàn thành hợp đồng.
+
+Đối với phần công việc chưa thực hiện được áp dụng hình thức chỉ định thầu cho nhà thầu khác với giá trị được tính bằng giá trị ghi trong hợp đồng trừ đi giá trị của phần công việc đã thực hiện, được nghiệm thu trước đó.
+
+Chủ đầu tư phải bảo đảm nhà thầu được chỉ định có năng lực, kinh nghiệm đáp ứng yêu cầu thực hiện phần công việc còn lại của gói thầu. Trường hợp không áp dụng hình thức chỉ định thầu thì hình thành gói thầu mới để tổ chức lựa chọn nhà thầu, trường hợp cần thiết, xem xét lại giá gói thầu đối với phần công việc còn lại trước khi tổ chức lựa chọn nhà thầu theo quy định của pháp luật. Trường hợp việc thực hiện hợp đồng chậm tiến độ không do lỗi của nhà thầu thì không được phép chấm dứt hợp đồng để thay thế nhà thầu khác. Trường hợp phải chấm dứt hợp đồng với nhà thầu vi phạm hợp đồng để thay thế nhà thầu mới, trong thời hạn 05 ngày làm việc kể từ ngày ban hành quyết định chấm dứt hợp đồng với nhà thầu vi phạm hợp đồng, chủ đầu tư phải đăng tải thông tin nhà thầu vi phạm hợp đồng, thông tin nhà thầu thay thế trên Hệ thống mạng đấu thầu quốc gia, đồng thời gửi quyết định chấm dứt hợp đồng và các tài liệu xử lý vi phạm hợp đồng khác (nếu có) đến Bộ Kế hoạch và Đầu tư để tổng hợp, theo dõi. Thông báo phải nêu rõ lý do nhà thầu vi phạm hợp đồng dẫn tới phải chấm dứt hợp đồng, hình thức lựa chọn nhà thầu thay thế, tên nhà thầu được chỉ định trong trường hợp áp dụng hình thức chỉ định thầu.
+
+<a id="dieu-131-khoan-24"></a>
+**24.** Đối với nhà thầu liên danh, trường hợp trong quá trình thực hiện hợp đồng cần đẩy nhanh tiến độ thực hiện so với hợp đồng đã ký (cần sửa đổi hợp đồng), chủ đầu tư báo cáo người có thẩm quyền cho phép chủ đầu tư và nhà thầu thỏa thuận, điều chỉnh phạm vi công việc giữa các thành viên liên danh phù hợp với tiến độ được rút ngắn. Trong trường hợp này, người có thẩm quyền, chủ đầu tư phải bảo đảm thành viên đảm nhận phần công việc bổ sung có đủ năng lực, kinh nghiệm để thực hiện phần công việc đó và việc điều chuyển phạm vi công việc giữa các thành viên liên danh không nhằm mục đích chuyển nhượng thầu.
+
+<a id="dieu-131-khoan-25"></a>
+**25.** Trong quá trình nhà thầu thực hiện hợp đồng, trường hợp nhân sự của nhà thầu (ký kết hợp đồng lao động với nhà thầu tại thời điểm nhân sự thực hiện hành vi vi phạm) bị Tòa án kết án có hành vi vi phạm quy định về đấu thầu gây hậu quả nghiêm trọng theo quy định pháp luật về hình sự để cho nhà thầu đó trúng thầu thì chủ đầu tư phải chấm dứt hợp đồng với nhà thầu và tịch thu giá trị bảo đảm thực hiện hợp đồng của nhà thầu; nhà thầu chỉ được thanh toán đối với các phần công việc đã thực hiện, được nghiệm thu theo quy định trong hợp đồng. Nhà thầu bị coi là không hoàn thành hợp đồng và bị đăng tải trên Hệ thống mạng đấu thầu quốc gia; trong thông báo phải nêu rõ lý do vi phạm dẫn tới phải chấm dứt hợp đồng; đối với phần công việc chưa thực hiện, chủ đầu tư tiến hành chỉ định thầu theo quy định tại điểm đ khoản 20 Điều này hoặc tách thành gói thầu mới và tổ chức lựa chọn nhà thầu theo quy định của pháp luật.
+
+<a id="dieu-131-khoan-26"></a>
+**26.** Trường hợp nhà thầu có nhân sự (ký kết hợp đồng lao động với nhà thầu tại thời điểm nhân sự thực hiện hành vi vi phạm) bị cơ quan điều tra kết luận có hành vi vi phạm quy định về đấu thầu gây hậu quả nghiêm trọng theo quy định pháp luật về hình sự nhằm mục đích cho nhà thầu trúng thầu nhưng nhân sự của nhà thầu chưa bị Tòa án kết án hoặc nhà thầu chưa bị người có thẩm quyền ra quyết định cấm tham gia hoạt động đấu thầu thì nhà thầu vẫn được tiếp tục tham dự thầu.
+
+<a id="dieu-131-khoan-27"></a>
+**27.** Trong quá trình thực hiện hợp đồng, trường hợp nhà thầu có đề nghị thay đổi các hàng hóa có phiên bản sản xuất, năm sản xuất mới hơn so với hàng hóa ghi trong hợp đồng thì căn cứ nhu cầu sử dụng, chủ đầu tư được chấp thuận đề xuất của nhà thầu nếu đáp ứng đầy đủ các điều kiện sau đây:
+
+a) Được nhà thầu thông báo bằng văn bản cho chủ đầu tư;
+
+b) Hàng hóa thay thế và hàng hóa ghi trong hợp đồng thuộc cùng hãng sản xuất và có cùng xuất xứ;
+
+c) Hàng hóa thay thế có tính năng kỹ thuật, cấu hình, thông số và các yêu cầu kỹ thuật khác tương đương hoặc tốt hơn hàng hóa ghi trong hợp đồng;
+
+d) Phù hợp với nhu cầu sử dụng;
+
+đ) Đơn giá của hàng hóa không vượt đơn giá ghi trong hợp đồng.
+
+<a id="dieu-131-khoan-28"></a>
+**28.** Trường hợp gặp sự cố dẫn đến Hệ thống mạng đấu thầu quốc gia không thể vận hành và việc khắc phục sự cố dự kiến diễn ra trong thời gian dài, Bộ Kế hoạch và Đầu tư thông báo trên Hệ thống mạng đấu thầu quốc gia về cách thức tổ chức lựa chọn nhà thầu trong thời gian Hệ thống mạng đấu thầu quốc gia gặp sự cố và xử lý sự cố, bao gồm việc tổ chức lựa chọn nhà thầu không qua mạng.
+
+<a id="dieu-131-khoan-29"></a>
+**29.** Ngoài trường hợp quy định từ khoản 1 đến khoản 28 Điều này, khi phát sinh tình huống, chủ đầu tư xem xét, quyết định xử lý tình huống trên cơ sở bảo đảm cạnh tranh, công bằng, minh bạch, hiệu quả kinh tế và trách nhiệm giải trình.
+
+
+<a id="dieu-132"></a>
+### Điều 132. Quản lý nhà thầu
+
+<a id="dieu-132-khoan-1"></a>
+**1.** Trách nhiệm của nhà thầu:
+
+a) Đăng ký trên Hệ thống mạng đấu thầu quốc gia theo quy định tại điểm d khoản 1 Điều 5 của Luật Đấu thầu trước khi kết quả lựa chọn nhà thầu được phê duyệt;
+
+b) Thường xuyên cập nhật, chịu trách nhiệm về tính chính xác, trung thực của thông tin về năng lực, kinh nghiệm của mình trên Hệ thống mạng đấu thầu quốc gia;
+
+c) Ngoài các trách nhiệm quy định tại điểm a và điểm b khoản này, nhà thầu nước ngoài còn phải thực hiện các trách nhiệm sau đây:
+
+Sau khi được lựa chọn để thực hiện các gói thầu trên lãnh thổ Việt Nam, nhà thầu nước ngoài phải tuân thủ các quy định của pháp luật Việt Nam về nhập cảnh, xuất cảnh; nhập khẩu, xuất khẩu hàng hóa; đăng ký tạm trú, tạm vắng; thực hiện chế độ kế toán, thuế và các quy định khác của pháp luật Việt Nam có liên quan, trừ trường hợp điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc thỏa thuận vay có quy định khác.
+
+Trong thời hạn 15 ngày kể từ ngày hợp đồng ký kết với nhà thầu nước ngoài có hiệu lực, chủ đầu tư có trách nhiệm đăng tải danh sách nhà thầu nước ngoài trúng thầu trên Hệ thống mạng đấu thầu quốc gia và gửi thông báo bằng văn bản về thông tin nhà thầu trúng thầu đến Bộ Kế hoạch và Đầu tư, Bộ quản lý ngành và Sở Kế hoạch và Đầu tư ở địa phương nơi triển khai dự án để tổng hợp và theo dõi;
+
+d) Nhà thầu nước ngoài được lựa chọn theo quy định của Luật Đấu thầu không phải xin cấp giấy phép thầu.
+
+<a id="dieu-132-khoan-2"></a>
+**2.** Quản lý nhà thầu phụ:
+
+a) Nhà thầu được ký kết hợp đồng với các nhà thầu phụ trong danh sách các nhà thầu phụ nêu trong hồ sơ dự thầu, hồ sơ đề xuất hoặc ký với nhà thầu phụ được chủ đầu tư chấp thuận để tham gia thực hiện công việc xây lắp; tư vấn; phi tư vấn; dịch vụ liên quan của gói thầu cung cấp hàng hóa; công việc thuộc gói thầu hỗn hợp. Việc sử dụng nhà thầu phụ sẽ không làm thay đổi các nghĩa vụ của nhà thầu. Nhà thầu phải chịu trách nhiệm về khối lượng, chất lượng, tiến độ và các trách nhiệm khác đối với phần công việc do nhà thầu phụ thực hiện;
+
+b) Việc thay thế, bổ sung nhà thầu phụ quy định tại điểm a khoản này hoặc thay đổi nội dung thầu phụ nêu trong hồ sơ dự thầu, hồ sơ đề xuất chỉ được thực hiện khi được chủ đầu tư, tư vấn giám sát chấp thuận và không vượt mức tối đa giá trị công việc dành cho nhà thầu phụ nêu trong hợp đồng; việc sử dụng nhà thầu phụ phải phù hợp với nhu cầu của nhà thầu trong thực hiện hợp đồng, nhà thầu phụ phải đáp ứng về năng lực, kinh nghiệm theo yêu cầu của nhà thầu;
+
+c) Nhà thầu chịu trách nhiệm lựa chọn, sử dụng các nhà thầu phụ có năng lực và kinh nghiệm đáp ứng yêu cầu thực hiện các công việc được giao. Trường hợp sử dụng nhà thầu phụ đặc biệt thực hiện công việc quan trọng của gói thầu theo yêu cầu của hồ sơ mời thầu, việc đánh giá năng lực và kinh nghiệm của nhà thầu phụ đặc biệt được thực hiện theo quy định nêu trong hồ sơ mời thầu. Khi sử dụng nhà thầu phụ đặc biệt, nhà thầu không bắt buộc phải đáp ứng yêu cầu về năng lực, kinh nghiệm đối với phần công việc giao cho nhà thầu phụ đặc biệt;
+
+d) Nhà thầu chịu trách nhiệm thanh toán đầy đủ, đúng tiến độ cho nhà thầu phụ theo đúng thỏa thuận giữa nhà thầu với nhà thầu phụ.
+
+## Chương XII. 
 
 __ĐIỀU KHOẢN THI HÀNH__
 
-<a id="dieu-33"></a>
-### Điều 33. Hiệu lực thi hành
 
-<a id="dieu-33-khoan-1"></a>
-1. Nghị định này có hiệu lực thi hành kể từ ngày 27 tháng 02 năm 2024.
+<a id="dieu-133"></a>
+### Điều 133. Quy định chuyển tiếp
 
-<a id="dieu-33-khoan-2"></a>
-2. Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ hết hiệu lực kể từ ngày Nghị định này có hiệu lực thi hành.
+<a id="dieu-133-khoan-1"></a>
+**1.** Đối với gói thầu đã phê duyệt kế hoạch lựa chọn nhà thầu nhưng đến ngày Nghị định này có hiệu lực thi hành chưa phát hành hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu và có nội dung không phù hợp với quy định của Luật Đấu thầu số 22/2023/QH15 và Nghị định này thì phải phê duyệt điều chỉnh kế hoạch lựa chọn nhà thầu, hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu để phù hợp với quy định của Luật Đấu thầu số 22/2023/QH15 và Nghị định này.
 
-<a id="dieu-34"></a>
-### Điều 34. Quy định chuyển tiếp
+Trường hợp gói thầu không áp dụng lựa chọn nhà thầu qua mạng và đã phát hành hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu nhưng đến ngày Nghị định này có hiệu lực thi hành chưa đóng thầu thì phải sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu để phù hợp với quy định của Luật Đấu thầu số 22/2023/QH15, Nghị định này. Việc sửa đổi, gia hạn thời điểm đóng thầu theo quy định tại điểm b khoản 2 Điều 26, khoản 2 Điều 38 và khoản 2 Điều 63 của Nghị định này.
 
-Đối với các gói thầu đã phê duyệt kế hoạch lựa chọn nhà thầu hoặc phát hành hồ sơ mời thầu trước ngày Nghị định này có hiệu lực thì tiếp tục thực hiện theo quy định của Nghị định số 63/2014/NĐ-CP.
+Đối với gói thầu áp dụng hình thức chỉ định thầu theo quy trình rút gọn, mua sắm trực tiếp, tự thực hiện, lựa chọn nhà thầu trong trường hợp đặc biệt, lựa chọn nhà thầu thực hiện gói thầu có sự tham gia thực hiện của cộng đồng, trường hợp đã phê duyệt kế hoạch lựa chọn nhà thầu nhưng đến ngày Nghị định này có hiệu lực thi hành chưa phê duyệt kết quả lựa chọn nhà thầu mà kế hoạch lựa chọn nhà thầu có nội dung không phù hợp với quy định của Luật Đấu thầu số 22/2023/QH15 và Nghị định này thì phải phê duyệt điều chỉnh kế hoạch lựa chọn nhà thầu.
 
-<a id="dieu-35"></a>
-### Điều 35. Trách nhiệm thi hành
+<a id="dieu-133-khoan-2"></a>
+**2.** Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu đã phát hành trước ngày 01 tháng 01 năm 2024 thì được tiếp tục thực hiện theo quy định của Luật Đấu thầu số 43/2013/QH13; Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu; Nghị định số 32/2019/NĐ-CP ngày 10 tháng 4 năm 2019 của Chính phủ quy định giao nhiệm vụ, đặt hàng hoặc đấu thầu cung cấp sản phẩm, dịch vụ công sử dụng ngân sách nhà nước từ nguồn kinh phí chi thường xuyên (sau đây gọi là Nghị định số 32/2019/NĐ-CP); Quyết định số 17/2019/QĐ-TTg ngày 08 tháng 4 năm 2019 của Thủ tướng Chính phủ quy định về một số gói thầu, nội dung mua sắm nhằm duy trì hoạt động thường xuyên được áp dụng hình thức lựa chọn nhà thầu trong trường hợp đặc biệt theo quy định tại Điều 26 Luật Đấu thầu và các Thông tư hướng dẫn thực hiện Nghị định.
 
-Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
+<a id="dieu-133-khoan-3"></a>
+**3.** Trong thời gian Chính phủ chưa sửa đổi, bổ sung, thay thế Nghị định số 32/2019/NĐ-CP, việc đặt hàng, giao nhiệm vụ cung cấp sản phẩm, dịch vụ công sử dụng ngân sách nhà nước từ nguồn chi phí thường xuyên được tiếp tục thực hiện theo quy định tại Nghị định số 32/2019/NĐ-CP nhưng không được trái với quy định của Luật Đấu thầu số 22/2023/QH15.
+
+<a id="dieu-133-khoan-4"></a>
+**4.** Trong thời gian Chính phủ chưa sửa đổi, bổ sung, thay thế Nghị định số 15/2021/NĐ-CP ngày 03 tháng 3 năm 2021 quy định chi tiết một số nội dung về quản lý dự án đầu tư xây dựng; Nghị định số 29/2021/NĐ-CP ngày 26 tháng 3 năm 2021 quy định về trình tự, thủ tục thẩm định dự án quan trọng quốc gia và giám sát, đánh giá đầu tư, “dự án đầu tư xây dựng sử dụng vốn nhà nước ngoài đầu tư công” được hiểu là dự án đầu tư xây dựng sử dụng vốn ngân sách nhà nước, công trái quốc gia, trái phiếu chính phủ, trái phiếu chính quyền địa phương, vốn hỗ trợ phát triển chính thức, vốn vay ưu đãi của các nhà tài trợ, vốn từ quỹ phát triển hoạt động sự nghiệp, vốn tín dụng đầu tư phát triển của Nhà nước, vốn tín dụng do Chính phủ bảo lãnh, vốn vay được bảo đảm bằng tài sản của Nhà nước, vốn đầu tư phát triển của doanh nghiệp nhà nước, giá trị quyền sử dụng đất nhưng không bao gồm vốn đầu tư công theo quy định của pháp luật về đầu tư công.
+
+<a id="dieu-133-khoan-5"></a>
+**5.** Trường hợp dự án đầu tư được phân chia thành các dự án thành phần, vận hành, khai thác độc lập hoặc công tác bồi thường, hỗ trợ, tái định cư được tách thành tiểu dự án riêng theo các quy định pháp luật thì việc lựa chọn nhà thầu thực hiện các dự án thành phần, tiểu dự án được áp dụng như quy định đối với dự án độc lập. Người có thẩm quyền quyết định đầu tư các dự án thành phần, Chủ tịch Ủy ban nhân dân các cấp đối với tiểu dự án bồi thường, hỗ trợ, tái định cư thực hiện thẩm quyền, trách nhiệm của người có thẩm quyền trong việc tổ chức lựa chọn nhà thầu theo quy định của Luật Đấu thầu và Nghị định này.
+
+<a id="dieu-133-khoan-6"></a>
+**6.** Trong thời gian từ ngày 01 tháng 01 năm 2024 đến ngày Nghị định này có hiệu lực thi hành, các chi phí lựa chọn nhà thầu trên Hệ thống mạng đấu thầu quốc gia được áp dụng theo Hợp đồng Xây dựng - Kinh doanh - Chuyển giao (BOT) ký kết giữa Bộ Kế hoạch và Đầu tư với nhà đầu tư Dự án “Ứng dụng thương mại điện tử trong mua sắm Chính phủ”. Bộ Kế hoạch và Đầu tư hướng dẫn về quản lý và sử dụng các chi phí trong lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia.
+
+<a id="dieu-133-khoan-7"></a>
+**7.** Trong thời gian từ ngày 01 tháng 01 năm 2024 đến ngày Nghị định này có hiệu lực thi hành, việc lựa chọn nhà thầu thực hiện theo quy định của Luật Đấu thầu số 22/2023/QH15 và các nội dung của Nghị định số 63/2014/NĐ-CP, các văn bản hướng dẫn có liên quan còn phù hợp với quy định của Luật Đấu thầu số 22/2023/QH15. Bộ Kế hoạch và Đầu tư hướng dẫn hoặc trình cấp có thẩm quyền xem xét, xử lý các vấn đề phát sinh trong quá trình thực hiện quy định tại khoản này.
+
+
+<a id="dieu-134"></a>
+### Điều 134. Hiệu lực thi hành
+
+<a id="dieu-134-khoan-1"></a>
+**1.** Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành.
+
+Kể từ ngày Nghị định này có hiệu lực thi hành, các Nghị định của Chính phủ, Quyết định của Thủ tướng Chính phủ và các điều khoản sau đây hết hiệu lực thi hành:
+
+a) Nghị định số 63/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà thầu;
+
+b) Các Điều 69, 70, 71, 72, 73, 75, 76, 77 và 78 của Nghị định số 151/2017/NĐ-CP ngày 26 tháng 12 năm 2017 của Chính phủ quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công;
+
+c) Các điểm b, c khoản 2 và các điểm b, c khoản 3 Điều 5 của Nghị định số 70/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ quy định việc quản lý, sử dụng tài sản được hình thành thông qua việc triển khai thực hiện nhiệm vụ khoa học và công nghệ sử dụng vốn nhà nước;
+
+d) Quyết định số 17/2019/QĐ-TTg ngày 08 tháng 4 năm 2019 của Thủ tướng Chính phủ quy định về một số gói thầu, nội dung mua sắm nhằm duy trì hoạt động thường xuyên được áp dụng hình thức lựa chọn nhà thầu trong trường hợp đặc biệt theo quy định tại Điều 26 Luật Đấu thầu.
+
+<a id="dieu-134-khoan-2"></a>
+**2.** Hàng hóa có xuất xứ Việt Nam theo quy định tại khoản 1 Điều 10 của Luật Đấu thầu được xác định theo quy định của pháp luật thương mại về cách thức xác định hàng hóa sản xuất tại Việt Nam, pháp luật về công nghệ thông tin đối với sản phẩm phần mềm công nghệ thông tin. Quy định tại điểm b khoản 5 Điều 5 của Nghị định này có hiệu lực cho đến khi pháp luật thương mại có quy định về cách thức xác định hàng hóa sản xuất tại Việt Nam.
+
+<a id="dieu-134-khoan-3"></a>
+**3.** Đối với việc mua sắm hàng hóa, dịch vụ thực hiện nhiệm vụ khoa học và công nghệ thuộc phần kinh phí được giao khoán của nhiệm vụ khoa học và công nghệ có sử dụng ngân sách nhà nước (bao gồm cả nhiệm vụ khoán chi từng phần và nhiệm vụ khoán chi đến sản phẩm cuối cùng), tổ chức, cá nhân chủ trì chịu trách nhiệm thực hiện việc mua sắm mà không phải áp dụng quy định tại Luật Đấu thầu và Nghị định này nhưng phải bảo đảm chế độ hóa đơn, chứng từ đầy đủ theo quy định của pháp luật.
+
+<a id="dieu-134-khoan-4"></a>
+**4.** Đối với việc mua sắm không sử dụng vốn ngân sách nhà nước để thực hiện nhiệm vụ khoa học và công nghệ của cá nhân, tổ chức tham gia nhiệm vụ khoa học và công nghệ mà không phải là cơ quan nhà nước, đơn vị sự nghiệp công lập thì cá nhân, tổ chức đó tự quyết định việc mua sắm bảo đảm đầy đủ chứng từ, hóa đơn mà không phải áp dụng quy trình, thủ tục quy định tại Luật Đấu thầu và Nghị định này.
+
+<a id="dieu-134-khoan-5"></a>
+**5.** Đối với việc mua sắm hàng hóa, dịch vụ để thực hiện nhiệm vụ khoa học và công nghệ trong lĩnh vực nông, lâm, ngư nghiệp thông qua mua trực tiếp từ hộ gia đình, cá nhân thì tổ chức, cá nhân chủ trì nhiệm vụ khoa học và công nghệ thực hiện mua gom trực tiếp hàng hóa, dịch vụ từ hộ gia đình, cá nhân mà không phải áp dụng quy trình, thủ tục quy định tại Luật Đấu thầu và Nghị định này.
+
+<a id="dieu-134-khoan-6"></a>
+**6.** Việc công khai thông tin về kết quả thực hiện hợp đồng của nhà thầu, chất lượng hàng hóa đã được sử dụng theo quy định tại Điều 17 và Điều 18 của Nghị định này được thực hiện đối với các gói thầu tổ chức lựa chọn nhà thầu theo quy định của Luật Đấu thầu số 22/2023/QH15.
+
+<a id="dieu-134-khoan-7"></a>
+**7.** Việc xác định danh mục, yêu cầu về tính năng và yêu cầu kỹ thuật của gói thầu mua sắm thiết bị y tế, vật tư xét nghiệm phục vụ cho việc lập kế hoạch lựa chọn nhà thầu, tổ chức lựa chọn nhà thầu thực hiện theo quy định của pháp luật. Trường hợp pháp luật chưa có quy định, chủ đầu tư quyết định việc thành lập hội đồng hoặc giao một đơn vị trực thuộc để lựa chọn danh mục, yêu cầu về tính năng và yêu cầu kỹ thuật đáp ứng yêu cầu chuyên môn.
+
+
+<a id="dieu-135"></a>
+### Điều 135. Trách nhiệm thi hành
+
+<a id="dieu-135-khoan-1"></a>
+**1.** Bộ Kế hoạch và Đầu tư có trách nhiệm:
+
+a) Quy định chi tiết và hướng dẫn thực hiện các điều, khoản được giao theo quy định tại Luật Đấu thầu, Nghị định này và các nội dung cần thiết khác để đáp ứng yêu cầu quản lý nhà nước về đấu thầu;
+
+b) Tổng hợp, quản lý cơ sở dữ liệu về nhà thầu; chất lượng hàng hóa đã được sử dụng; danh sách nhà thầu vi phạm pháp luật về đấu thầu; danh sách nhà thầu nước ngoài trúng thầu;
+
+c) Hướng dẫn về quản lý và sử dụng các chi phí trong lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia; thực hiện việc cắt giảm chi phí lựa chọn nhà thầu qua mạng căn cứ tình hình phát triển đấu thầu qua mạng từng thời kỳ;
+
+d) Ban hành mẫu hồ sơ đấu thầu gồm: mẫu kế hoạch tổng thể lựa chọn nhà thầu; mẫu kế hoạch lựa chọn nhà thầu; mẫu hồ sơ mời quan tâm, mẫu hồ sơ mời sơ tuyển; mẫu hồ sơ mời thầu; mẫu hồ sơ yêu cầu; mẫu hồ sơ mua sắm trực tuyến, chào giá trực tuyến; mẫu báo cáo đánh giá; mẫu báo cáo thẩm định; mẫu kiểm tra hoạt động đấu thầu, mẫu báo cáo tình hình thực hiện hoạt động đấu thầu và các mẫu khác trong đấu thầu;
+
+đ) Chỉnh sửa các biểu mẫu dưới dạng webform trên Hệ thống mạng đấu thầu quốc gia nhằm tạo điều kiện thuận lợi hơn cho các bên tham gia vào hoạt động lựa chọn nhà thầu qua mạng, giảm thủ tục hành chính, tăng cường tính cạnh tranh, công bằng, minh bạch và hiệu quả kinh tế trong đấu thầu, bảo đảm hiệu quả công tác quản lý nhà nước về đấu thầu.
+
+<a id="dieu-135-khoan-2"></a>
+**2.** Bộ Y tế có trách nhiệm:
+
+a) Hướng dẫn thực hiện việc lựa chọn nhà thầu, các biện pháp thi hành Luật Đấu thầu số 22/2023/QH15 và Nghị định này trong phạm vi quản lý của mình;
+
+b) Ban hành mẫu hồ sơ lựa chọn nhà thầu đối với thuốc;
+
+c) Hướng dẫn về nguyên tắc, tiêu chí, tổng hợp nhu cầu để lập danh mục thuốc mua sắm tập trung; thời hạn tổng hợp danh mục, thời gian ban hành danh mục; thời gian dự kiến tổ chức lựa chọn nhà thầu, thời gian dự kiến công khai thông tin về thỏa thuận khung, hợp đồng trong mua sắm tập trung;
+
+d) Nghiên cứu, hướng dẫn về phân nhóm thiết bị y tế theo tiêu chuẩn kỹ thuật, chất lượng.
+
+<a id="dieu-135-khoan-3"></a>
+**3.** Định kỳ hằng năm, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương, Ủy ban nhân dân cấp tỉnh, các doanh nghiệp nhà nước và các cơ quan, tổ chức khác thuộc đối tượng áp dụng theo quy định tại Điều 2 của Luật Đấu thầu báo cáo tình hình thực hiện công tác đấu thầu, gửi về Bộ Kế hoạch và Đầu tư để tổng hợp, báo cáo Thủ tướng Chính phủ.
+
+<a id="dieu-135-khoan-4"></a>
+**4.** Thủ trưởng cơ quan trung ương, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trong phạm vi chức năng, nhiệm vụ của mình chịu trách nhiệm hướng dẫn và thi hành Nghị định này./.
 
 ---
 
-__TM. CHÍNH PHỦ__
-__THỦ TƯỚNG__
-*(Đã ký)*
-__Phạm Minh Chính__
+## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
+
+> [!TIP]
+> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
+

@@ -1,0 +1,67 @@
+{
+  "table_id": "bang_28",
+  "rows_count": 9,
+  "columns_count": 10,
+  "headers": [
+    "Số TT",
+    "Nội dung",
+    "Dự toán điều chỉnh lần cuối",
+    "Dự toán điều chỉnh lần cuối",
+    "Dự toán điều chỉnh lần cuối",
+    "Dự toán điều chỉnh lần cuối",
+    "Quyết toán được duyệt",
+    "Quyết toán được duyệt",
+    "Quyết toán được duyệt",
+    "Quyết toán được duyệt"
+  ],
+  "records": [
+    {
+      "Số TT": "Số TT",
+      "Nội dung": "Nội dung",
+      "Dự toán điều chỉnh lần cuối": "Tổng số",
+      "Quyết toán được duyệt": ""
+    },
+    {
+      "Số TT": "1",
+      "Nội dung": "2",
+      "Dự toán điều chỉnh lần cuối": "6=7+8",
+      "Quyết toán được duyệt": ""
+    },
+    {
+      "Số TT": "I",
+      "Nội dung": "Tổng cộng(1) (I= 1+2+3+4+5)",
+      "Dự toán điều chỉnh lần cuối": "",
+      "Quyết toán được duyệt": ""
+    },
+    {
+      "Số TT": "1",
+      "Nội dung": "Nguồn thu năm trước chuyển sang",
+      "Dự toán điều chỉnh lần cuối": "",
+      "Quyết toán được duyệt": ""
+    },
+    {
+      "Số TT": "2",
+      "Nội dung": "Nguồn thu từ chi phí của dự án được giao quản lý",
+      "Dự toán điều chỉnh lần cuối": "",
+      "Quyết toán được duyệt": ""
+    },
+    {
+      "Số TT": "3",
+      "Nội dung": "Dự án điều chỉnh, bổ sung trong năm (nếu có)",
+      "Dự toán điều chỉnh lần cuối": "",
+      "Quyết toán được duyệt": ""
+    },
+    {
+      "Số TT": "4",
+      "Nội dung": "Nguồn hợp pháp khác của đơn vị (nếu có)",
+      "Dự toán điều chỉnh lần cuối": "",
+      "Quyết toán được duyệt": ""
+    },
+    {
+      "Số TT": "5",
+      "Nội dung": "NSNN cấp (nếu có)",
+      "Dự toán điều chỉnh lần cuối": "",
+      "Quyết toán được duyệt": ""
+    }
+  ]
+}

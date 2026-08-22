@@ -14,18 +14,20 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 12__
 
-__CƠ QUAN/ĐƠN VỊ
-THẨM ĐỊNH
+__CƠ QUAN/ĐƠN VỊ  
+THẨM ĐỊNH  
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
 ---------------__
 
-Số: ...
+Số: ...  
 V/v thông báo kết quả thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt... *(tên công trình/dự án)*
 
 *..., ngày ... tháng ... năm ...*
+
+ 
 
 Kính gửi: *(Tên chủ đầu tư).*
 
@@ -109,11 +111,13 @@ Thiết kế xây dựng triển khai sau khi dự án được phê duyệt ...
 
 Yêu cầu sửa đổi, bổ sung, hoàn thiện (nếu có).
 
-__*Nơi nhận:*__
-- Như trên;
+ 
+
+__*Nơi nhận:*__  
+- Như trên;  
 - Lưu: .....
 
-__CƠ QUAN/ĐƠN VỊ THẨM ĐỊNH__
+__CƠ QUAN/ĐƠN VỊ THẨM ĐỊNH__  
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*
 
 _______________________________

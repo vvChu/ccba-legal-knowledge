@@ -13,7 +13,7 @@ usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC A
 
 __PHỤ LỤC X__
 
-DANH MỤC HỒ SƠ PHỤC VỤ QUẢN LÝ, SỬ DỤNG CÔNG TRÌNH XÂY DỰNG
+DANH MỤC HỒ SƠ PHỤC VỤ QUẢN LÝ, SỬ DỤNG CÔNG TRÌNH XÂY DỰNG  
 *(Kèm theo Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ)*
 
 **1.** Quyết định phê duyệt dự án đầu tư xây dựng công trình và Báo cáo nghiên cứu khả thi đầu tư xây dựng hoặc Báo cáo kinh tế - kỹ thuật đầu tư xây dựng.

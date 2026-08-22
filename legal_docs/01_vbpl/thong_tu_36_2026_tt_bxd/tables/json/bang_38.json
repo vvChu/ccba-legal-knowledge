@@ -1,0 +1,22 @@
+{
+  "table_id": "bang_38",
+  "rows_count": 3,
+  "columns_count": 3,
+  "headers": [
+    "Tổng chi phí trực tiếp (T), chi phí gián tiếp (GT), thu nhập chịu thuế tính trước (TL) (tỷ đồng)",
+    "≤ 2",
+    "> 2"
+  ],
+  "records": [
+    {
+      "Tổng chi phí trực tiếp (T), chi phí gián tiếp (GT), thu nhập chịu thuế tính trước (TL) (tỷ đồng)": "Lập phương án kỹ thuật khảo sát xây dựng (%)",
+      "≤ 2": "2",
+      "> 2": "1,5"
+    },
+    {
+      "Tổng chi phí trực tiếp (T), chi phí gián tiếp (GT), thu nhập chịu thuế tính trước (TL) (tỷ đồng)": "Lập báo cáo kết quả khảo sát xây dựng (%)",
+      "≤ 2": "3",
+      "> 2": "2,5"
+    }
+  ]
+}

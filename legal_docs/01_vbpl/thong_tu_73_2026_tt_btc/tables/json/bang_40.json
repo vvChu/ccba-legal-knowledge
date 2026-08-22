@@ -1,0 +1,129 @@
+{
+  "table_id": "bang_40",
+  "rows_count": 12,
+  "columns_count": 10,
+  "headers": [
+    "Số TT",
+    "Nội dung",
+    "Chủ đầu tư",
+    "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án",
+    "Giá trị quyết toán do chủ đầu tư đề nghị",
+    "Số vốn đã giải ngân",
+    "Quyết định phê duyệt quyết toán",
+    "Quyết định phê duyệt quyết toán",
+    "Quyết định phê duyệt quyết toán",
+    "Ghi chú"
+  ],
+  "records": [
+    {
+      "Số TT": "Số TT",
+      "Nội dung": "Nội dung",
+      "Chủ đầu tư": "Chủ đầu tư",
+      "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án": "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án",
+      "Giá trị quyết toán do chủ đầu tư đề nghị": "Giá trị quyết toán do chủ đầu tư đề nghị",
+      "Số vốn đã giải ngân": "Số vốn đã giải ngân",
+      "Quyết định phê duyệt quyết toán": "Người chức vụ",
+      "Ghi chú": "Ghi chú"
+    },
+    {
+      "Số TT": "",
+      "Nội dung": "Tổng số (1+2+3)",
+      "Chủ đầu tư": "Tổng số (1+2+3)",
+      "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án": "",
+      "Giá trị quyết toán do chủ đầu tư đề nghị": "",
+      "Số vốn đã giải ngân": "",
+      "Quyết định phê duyệt quyết toán": "",
+      "Ghi chú": ""
+    },
+    {
+      "Số TT": "1",
+      "Nội dung": "Dự án chính",
+      "Chủ đầu tư": "",
+      "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án": "",
+      "Giá trị quyết toán do chủ đầu tư đề nghị": "",
+      "Số vốn đã giải ngân": "",
+      "Quyết định phê duyệt quyết toán": "",
+      "Ghi chú": ""
+    },
+    {
+      "Số TT": "",
+      "Nội dung": "- …",
+      "Chủ đầu tư": "",
+      "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án": "",
+      "Giá trị quyết toán do chủ đầu tư đề nghị": "",
+      "Số vốn đã giải ngân": "",
+      "Quyết định phê duyệt quyết toán": "",
+      "Ghi chú": ""
+    },
+    {
+      "Số TT": "",
+      "Nội dung": "- …",
+      "Chủ đầu tư": "",
+      "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án": "",
+      "Giá trị quyết toán do chủ đầu tư đề nghị": "",
+      "Số vốn đã giải ngân": "",
+      "Quyết định phê duyệt quyết toán": "",
+      "Ghi chú": ""
+    },
+    {
+      "Số TT": "2",
+      "Nội dung": "Dự án thành phần, tiểu dự án",
+      "Chủ đầu tư": "",
+      "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án": "",
+      "Giá trị quyết toán do chủ đầu tư đề nghị": "",
+      "Số vốn đã giải ngân": "",
+      "Quyết định phê duyệt quyết toán": "",
+      "Ghi chú": ""
+    },
+    {
+      "Số TT": "",
+      "Nội dung": "- …",
+      "Chủ đầu tư": "",
+      "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án": "",
+      "Giá trị quyết toán do chủ đầu tư đề nghị": "",
+      "Số vốn đã giải ngân": "",
+      "Quyết định phê duyệt quyết toán": "",
+      "Ghi chú": ""
+    },
+    {
+      "Số TT": "",
+      "Nội dung": "- …",
+      "Chủ đầu tư": "",
+      "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án": "",
+      "Giá trị quyết toán do chủ đầu tư đề nghị": "",
+      "Số vốn đã giải ngân": "",
+      "Quyết định phê duyệt quyết toán": "",
+      "Ghi chú": ""
+    },
+    {
+      "Số TT": "3",
+      "Nội dung": "Dự án thành phần, tiểu dự án",
+      "Chủ đầu tư": "",
+      "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án": "",
+      "Giá trị quyết toán do chủ đầu tư đề nghị": "",
+      "Số vốn đã giải ngân": "",
+      "Quyết định phê duyệt quyết toán": "",
+      "Ghi chú": ""
+    },
+    {
+      "Số TT": "",
+      "Nội dung": "-...",
+      "Chủ đầu tư": "",
+      "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án": "",
+      "Giá trị quyết toán do chủ đầu tư đề nghị": "",
+      "Số vốn đã giải ngân": "",
+      "Quyết định phê duyệt quyết toán": "",
+      "Ghi chú": ""
+    },
+    {
+      "Số TT": "",
+      "Nội dung": "- …",
+      "Chủ đầu tư": "",
+      "Tổng mức đầu tư được phê duyệt hoặc điều chỉnh lần cuối của dự án": "",
+      "Giá trị quyết toán do chủ đầu tư đề nghị": "",
+      "Số vốn đã giải ngân": "",
+      "Quyết định phê duyệt quyết toán": "",
+      "Ghi chú": ""
+    }
+  ]
+}

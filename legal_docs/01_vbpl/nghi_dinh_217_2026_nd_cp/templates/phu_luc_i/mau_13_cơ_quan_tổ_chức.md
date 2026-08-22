@@ -14,17 +14,19 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 13__
 
-__CƠ QUAN/TỔ CHỨC
-PHÊ DUYỆT
+__CƠ QUAN/TỔ CHỨC  
+PHÊ DUYỆT  
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
 ---------------__
 
 Số: ...
 
 ...*..., ngày ... tháng ... năm ...*
+
+ 
 
 __QUYẾT ĐỊNH__
 
@@ -78,12 +80,14 @@ __Điều 2. __Tổ chức thực hiện.
 
 __Điều 3. __Tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành quyết định.
 
-__*Nơi nhận:*__
-- Như Điều 3;
-- Các cơ quan có liên quan;
+ 
+
+__*Nơi nhận:*__  
+- Như Điều 3;   
+- Các cơ quan có liên quan;  
 - Lưu:...
 
-__CƠ QUAN PHÊ DUYỆT__
+__CƠ QUAN PHÊ DUYỆT__  
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*
 
 _____________________________

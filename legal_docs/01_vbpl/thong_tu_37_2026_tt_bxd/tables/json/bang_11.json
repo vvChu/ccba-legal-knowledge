@@ -1,0 +1,63 @@
+{
+  "table_id": "bang_11",
+  "rows_count": 8,
+  "columns_count": 5,
+  "headers": [
+    "TT",
+    "Loại máy và thiết bị",
+    "Nhân công điều khiển máy theo bảng giá ca máy ban hành trước ngày 1/7/2026",
+    "Đơn giá nhân công theo công bố của địa phương (đồng/ngày công)",
+    "Giá nhân công quy đổi sang Nhóm vận hành máy, điều khiển máy: (đồng/ngày công)"
+  ],
+  "records": [
+    {
+      "TT": "1",
+      "Loại máy và thiết bị": "Máy đào một gầu, bánh xích - dung tích gầu 1,60 m3",
+      "Nhân công điều khiển máy theo bảng giá ca máy ban hành trước ngày 1/7/2026": "1x4/7",
+      "Đơn giá nhân công theo công bố của địa phương (đồng/ngày công)": "320.230",
+      "Giá nhân công quy đổi sang Nhóm vận hành máy, điều khiển máy: (đồng/ngày công)": "323.788"
+    },
+    {
+      "TT": "2",
+      "Loại máy và thiết bị": "Cần cẩu bánh xích - sức nâng 80t",
+      "Nhân công điều khiển máy theo bảng giá ca máy ban hành trước ngày 1/7/2026": "1x4/7+1x6/7",
+      "Đơn giá nhân công theo công bố của địa phương (đồng/ngày công)": "320.230 + 446.382 = 766.612",
+      "Giá nhân công quy đổi sang Nhóm vận hành máy, điều khiển máy: (đồng/ngày công)": "323.788"
+    },
+    {
+      "TT": "3",
+      "Loại máy và thiết bị": "Máy đóng cọc tự hành, bánh xích - trọng lượng đầu búa 3,5t",
+      "Nhân công điều khiển máy theo bảng giá ca máy ban hành trước ngày 1/7/2026": "1x5/7",
+      "Đơn giá nhân công theo công bố của địa phương (đồng/ngày công)": "376.513",
+      "Giá nhân công quy đổi sang Nhóm vận hành máy, điều khiển máy: (đồng/ngày công)": "323.788"
+    },
+    {
+      "TT": "4",
+      "Loại máy và thiết bị": "Trạm trộn bê tông - năng suất 90 m3/h",
+      "Nhân công điều khiển máy theo bảng giá ca máy ban hành trước ngày 1/7/2026": "2x3/7+1x5/7",
+      "Đơn giá nhân công theo công bố của địa phương (đồng/ngày công)": "2*269.770 + 376.513 = 916.053",
+      "Giá nhân công quy đổi sang Nhóm vận hành máy, điều khiển máy: (đồng/ngày công)": "323.788"
+    },
+    {
+      "TT": "5",
+      "Loại máy và thiết bị": "Máy rải hỗn hợp bê tông nhựa - năng suất 130 cv - 140 cv",
+      "Nhân công điều khiển máy theo bảng giá ca máy ban hành trước ngày 1/7/2026": "1x3/7+1x5/7",
+      "Đơn giá nhân công theo công bố của địa phương (đồng/ngày công)": "269.770 + 376.513 = 646.283",
+      "Giá nhân công quy đổi sang Nhóm vận hành máy, điều khiển máy: (đồng/ngày công)": "323.788"
+    },
+    {
+      "TT": "6",
+      "Loại máy và thiết bị": "Máy khoan xoay đập tự hành, khí nén (chưa tính khí nén) - đường kính khoan D105-110 mm",
+      "Nhân công điều khiển máy theo bảng giá ca máy ban hành trước ngày 1/7/2026": "1x3/7+1x4/7",
+      "Đơn giá nhân công theo công bố của địa phương (đồng/ngày công)": "269.770 + 320.230 = 590.000",
+      "Giá nhân công quy đổi sang Nhóm vận hành máy, điều khiển máy: (đồng/ngày công)": "323.788"
+    },
+    {
+      "TT": "7",
+      "Loại máy và thiết bị": "Máy cắt uốn cốt thép - công suất 5 kW",
+      "Nhân công điều khiển máy theo bảng giá ca máy ban hành trước ngày 1/7/2026": "1x3/7",
+      "Đơn giá nhân công theo công bố của địa phương (đồng/ngày công)": "269.770",
+      "Giá nhân công quy đổi sang Nhóm vận hành máy, điều khiển máy: (đồng/ngày công)": "323.788"
+    }
+  ]
+}

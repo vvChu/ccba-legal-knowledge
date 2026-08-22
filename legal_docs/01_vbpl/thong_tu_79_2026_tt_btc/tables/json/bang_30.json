@@ -1,0 +1,35 @@
+{
+  "table_id": "bang_30",
+  "rows_count": 4,
+  "columns_count": 5,
+  "headers": [
+    "Số TT",
+    "Tên dự án được giao quản lý",
+    "Tỷ lệ phân bổ (%)",
+    "Giá trị phân bổ (đồng)",
+    "Ghi chú"
+  ],
+  "records": [
+    {
+      "Số TT": "",
+      "Tên dự án được giao quản lý": "Tổng cộng",
+      "Tỷ lệ phân bổ (%)": "100",
+      "Giá trị phân bổ (đồng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "Số TT": "1",
+      "Tên dự án được giao quản lý": "Dự án ...",
+      "Tỷ lệ phân bổ (%)": "",
+      "Giá trị phân bổ (đồng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "Số TT": "2",
+      "Tên dự án được giao quản lý": "Dự án ...",
+      "Tỷ lệ phân bổ (%)": "",
+      "Giá trị phân bổ (đồng)": "",
+      "Ghi chú": ""
+    }
+  ]
+}

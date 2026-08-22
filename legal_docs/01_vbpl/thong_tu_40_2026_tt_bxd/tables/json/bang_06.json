@@ -1,0 +1,25 @@
+{
+  "table_id": "bang_06",
+  "rows_count": 3,
+  "columns_count": 6,
+  "headers": [
+    "STT",
+    "Nội dung",
+    "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)",
+    "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)",
+    "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)",
+    "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)"
+  ],
+  "records": [
+    {
+      "STT": "STT",
+      "Nội dung": "Nội dung",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)": ">100"
+    },
+    {
+      "STT": "1",
+      "Nội dung": "Định mức tỷ lệ (%) chi phí gián tiếp",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)": "56"
+    }
+  ]
+}

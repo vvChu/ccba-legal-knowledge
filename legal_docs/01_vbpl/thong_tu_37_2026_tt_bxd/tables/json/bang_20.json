@@ -1,0 +1,71 @@
+{
+  "table_id": "bang_20",
+  "rows_count": 9,
+  "columns_count": 14,
+  "headers": [
+    "Thời gian tiến hành khảo sát:",
+    "Thời gian tiến hành khảo sát:",
+    "Từ ngày... đến ngày....",
+    "Từ ngày... đến ngày....",
+    "Từ ngày... đến ngày....",
+    "Từ ngày... đến ngày....",
+    "Từ ngày... đến ngày....",
+    "Từ ngày... đến ngày....",
+    "Từ ngày... đến ngày....",
+    "Từ ngày... đến ngày....",
+    "Từ ngày... đến ngày....",
+    "Từ ngày... đến ngày....",
+    "Mã khu vực:",
+    "I"
+  ],
+  "records": [
+    {
+      "Thời gian tiến hành khảo sát:": "Khu vực 1 gồm các địa bàn:",
+      "Từ ngày... đến ngày....": "...",
+      "Mã khu vực:": "Tổng số phiếu khảo sát:",
+      "I": ""
+    },
+    {
+      "Thời gian tiến hành khảo sát:": "Loại công tác xây dựng",
+      "Từ ngày... đến ngày....": "Giá nhân công xây dựng bình quân (đồng/ ngày)",
+      "Mã khu vực:": "Giá nhân công xây dựng bình quân (đ/ngc)",
+      "I": "Giá nhân công xây dựng bình quân (đ/ngc)"
+    },
+    {
+      "Thời gian tiến hành khảo sát:": "Số thứ tự mẫu phiếu khảo sát",
+      "Từ ngày... đến ngày....": "",
+      "Mã khu vực:": "Giá nhân công xây dựng bình quân (đ/ngc)",
+      "I": "Giá nhân công xây dựng bình quân (đ/ngc)"
+    },
+    {
+      "Thời gian tiến hành khảo sát:": "[2]",
+      "Từ ngày... đến ngày....": "[n]",
+      "Mã khu vực:": "GXDi = [(3)+(4)+(5)+...]/n",
+      "I": "GXDi = [(3)+(4)+(5)+...]/n"
+    },
+    {
+      "Thời gian tiến hành khảo sát:": "Nhóm 1:",
+      "Từ ngày... đến ngày....": "",
+      "Mã khu vực:": "",
+      "I": ""
+    },
+    {
+      "Thời gian tiến hành khảo sát:": "Nhóm 2:",
+      "Từ ngày... đến ngày....": "",
+      "Mã khu vực:": "",
+      "I": ""
+    },
+    {
+      "Thời gian tiến hành khảo sát:": "...",
+      "Từ ngày... đến ngày....": "",
+      "Mã khu vực:": "",
+      "I": ""
+    },
+    {
+      "Thời gian tiến hành khảo sát:": "",
+      "Từ ngày... đến ngày....": "",
+      "Mã khu vực:": "",
+      "I": ""
+    }
+  ]
+}

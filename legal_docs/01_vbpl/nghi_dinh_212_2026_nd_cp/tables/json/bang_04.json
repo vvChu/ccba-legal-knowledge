@@ -1,0 +1,140 @@
+{
+  "table_id": "bang_04",
+  "rows_count": 26,
+  "columns_count": 6,
+  "headers": [
+    "STT",
+    "Lĩnh vực cấp chứng chỉ hành nghề",
+    "Lĩnh vực cấp chứng chỉ hành nghề",
+    "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề",
+    "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề",
+    "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề"
+  ],
+  "records": [
+    {
+      "STT": "STT",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Nội dung hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Hạng III"
+    },
+    {
+      "STT": "1",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Lĩnh vực khảo sát xây dựng",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Lĩnh vực khảo sát xây dựng"
+    },
+    {
+      "STT": "1.1",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Khảo sát địa hình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm khảo sát địa hình, giám sát khảo sát địa hình dự án nhóm C, công trình từ cấp III trở xuống."
+    },
+    {
+      "STT": "1.2",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Khảo sát địa chất công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm khảo sát địa chất, giám sát khảo sát địa chất công trình từ cấp III trở xuống."
+    },
+    {
+      "STT": "2",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Lĩnh vực lập quy hoạch đô thị và nông thôn",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Lĩnh vực lập quy hoạch đô thị và nông thôn"
+    },
+    {
+      "STT": "",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Lập quy hoạch đô thị và nông thôn",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm lập nhiệm vụ quy hoạch; chủ nhiệm lập quy hoạch; chủ trì lĩnh vực chuyên môn lập quy hoạch đô thị và nông thôn thuộc thẩm quyền phê duyệt của Ủy ban nhân dân cấp xã."
+    },
+    {
+      "STT": "3",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Thiết kế xây dựng",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Thiết kế xây dựng"
+    },
+    {
+      "STT": "3.1",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Kết cấu công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "- Được làm chủ nhiệm thiết kế xây dựng; chủ trì thiết kế, thẩm tra thiết kế xây dựng công trình/hạng mục công trình - kết cấu công trình của các công trình từ cấp III trở xuống trừ công trình khai thác mỏ, đường bộ, đường sắt, cầu - hầm, đường thủy nội địa - hàng hải, thủy lợi, đê điều, công trình cấp nước - thoát nước, công trình xử lý chất thải rắn. - Được làm chủ nhiệm các công trình tuyến đầu mối chắn nước, tuyến năng lượng của dự án thủy điện từ cấp III trở xuống."
+    },
+    {
+      "STT": "3.2",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Khai thác mỏ",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm thiết kế xây dựng; chủ trì thiết kế, thẩm tra thiết kế xây dựng công trình/hạng mục công trình - công trình khai thác mỏ và các công trình tương tự từ cấp III trở xuống."
+    },
+    {
+      "STT": "3.3",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Đường bộ",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm thiết kế xây dựng; chủ trì thiết kế, thẩm tra thiết kế xây dựng công trình/hạng mục công trình - công trình đường bộ, đường cất, hạ cánh, đường lăn, sân đỗ tàu bay và các công trình có kết cấu tương tự từ cấp III trở xuống; chủ trì lĩnh vực chuyên môn các quy hoạch đô thị và nông thôn thuộc thẩm quyền của Ủy ban nhân dân cấp xã phê duyệt."
+    },
+    {
+      "STT": "3.4",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Đường sắt",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm thiết kế xây dựng; chủ trì thiết kế, thẩm tra thiết kế xây dựng công trình/hạng mục công trình - công trình đường sắt và các công trình có kết cấu tương tự từ cấp III trở xuống; chủ trì lĩnh vực chuyên môn các quy hoạch đô thị và nông thôn thuộc thẩm quyền của Ủy ban nhân dân cấp xã phê duyệt."
+    },
+    {
+      "STT": "3.5",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Cầu - hầm",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm thiết kế xây dựng; chủ trì thiết kế, thẩm tra thiết kế xây dựng công trình/hạng mục công trình - công trình cầu, hầm, công trình có kết cấu cột, trụ, tháp và các công trình có kết cấu tương tự từ cấp III trở xuống; chủ trì lĩnh vực chuyên môn các quy hoạch đô thị và nông thôn thuộc thẩm quyền của Ủy ban nhân dân cấp xã phê duyệt."
+    },
+    {
+      "STT": "3.6",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Đường thủy nội địa - Hàng hải",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm thiết kế xây dựng; chủ trì thiết kế, thẩm tra thiết kế xây dựng công trình/hạng mục công trình - công trình đường thủy nội địa - hàng hải và các công trình có kết cấu tương tự từ cấp III trở xuống."
+    },
+    {
+      "STT": "3.7",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Thủy lợi, đê điều",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm thiết kế xây dựng; chủ trì thiết kế, thẩm tra thiết kế xây dựng công trình/hạng mục công trình - công trình thủy lợi, đê điều và các công trình có kết cấu tương tự từ cấp III trở xuống. - Được làm chủ nhiệm các công trình tuyến đầu mối chắn nước, tuyến năng lượng của dự án thủy điện từ cấp III trở xuống."
+    },
+    {
+      "STT": "3.8",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Cấp nước - thoát nước",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm thiết kế xây dựng; chủ trì thiết kế, thẩm tra thiết kế xây dựng công trình/hạng mục công trình - công trình cấp nước - thoát nước và các công trình tương tự từ cấp III trở xuống; chủ trì lĩnh vực chuyên môn các quy hoạch đô thị và nông thôn thuộc thẩm quyền của ủy ban nhân dân cấp xã phê duyệt."
+    },
+    {
+      "STT": "3.9",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Xử lý chất thải rắn",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm thiết kế xây dựng; chủ trì thiết kế, thẩm tra thiết kế xây dựng công trình/hạng mục công trình - công trình xử lý chất thải rắn và các công trình tương tự từ cấp III trở xuống."
+    },
+    {
+      "STT": "3.10",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Hệ thống điện",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm thiết kế xây dựng; chủ trì thiết kế, thẩm tra thiết kế cơ - điện công trình - hệ thống điện của các công trình từ cấp III trở xuống (bao gồm công trình đường dây và trạm biến áp); chủ trì lĩnh vực chuyên môn các quy hoạch đô thị và nông thôn thuộc thẩm quyền của Ủy ban nhân dân cấp xã phê duyệt."
+    },
+    {
+      "STT": "3.11",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Hệ thống cấp - thoát nước công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm thiết kế xây dựng; chủ trì thiết kế, thẩm tra thiết kế cơ - điện công trình - hệ thống cấp - thoát nước, tuyến ống, cống cấp thoát nước của các công trình/hạng mục công trình từ cấp III trở xuống; chủ trì lĩnh vực chuyên môn các quy hoạch đô thị và nông thôn thuộc thẩm quyền của Ủy ban nhân dân cấp xã phê duyệt."
+    },
+    {
+      "STT": "3.12",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Hệ thống thông gió - cấp thoát nhiệt",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm chủ nhiệm thiết kế xây dựng; chủ trì thiết kế, thẩm tra thiết kế cơ - điện công trình - hệ thống thông gió - cấp thoát nhiệt của các công trình/hạng mục công trình từ cấp III trở xuống."
+    },
+    {
+      "STT": "4",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Lĩnh vực giám sát thi công xây dựng",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Lĩnh vực giám sát thi công xây dựng"
+    },
+    {
+      "STT": "4.1",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Giám sát công tác xây dựng công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm giám sát trưởng; giám sát khảo sát xây dựng các loại công trình/hạng mục công trình từ cấp III trở xuống; được làm giám sát viên công tác xây dựng tất cả các loại, cấp công trình."
+    },
+    {
+      "STT": "4.2",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Giám sát công tác lắp đặt thiết bị công trình",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm giám sát trưởng lắp đặt thiết bị công trình của các công trình/hạng mục công trình từ cấp III trở xuống; giám sát viên lắp đặt thiết bị công trình của tất cả các cấp công trình/ hạng mục công trình (bao gồm công trình đường dây và trạm biến áp)."
+    },
+    {
+      "STT": "5",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Quản lý dự án đầu tư xây dựng và Chỉ huy trưởng công trường - Lĩnh vực không yêu cầu chứng chỉ hành nghề",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Quản lý dự án đầu tư xây dựng và Chỉ huy trưởng công trường - Lĩnh vực không yêu cầu chứng chỉ hành nghề"
+    },
+    {
+      "STT": "",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Quản lý dự án đầu tư xây dựng và Chỉ huy trưởng công trường",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Được làm giám đốc quản lý dự án đầu tư xây dựng các dự án nhóm C và được làm chỉ huy trưởng công trường các công trình/hạng mục công trình từ cấp III trở xuống."
+    },
+    {
+      "STT": "Ghi chú: Đối với các chứng chỉ hành nghề đã được cấp trước thời điểm Nghị định này có hiệu lực: Phạm vi hoạt động của Chứng chỉ hành nghề đối với lĩnh vực Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật, giám sát công tác xây dựng công trình giao thông, giám sát công tác xây dựng công trình phục vụ nông nghiệp và phát triển nông thôn (thủy lợi, đê điều) thực hiện theo phạm vi và lĩnh vực hoạt động của Chứng chỉ giám sát công tác xây dựng công trình tại mục 4.1 Phụ lục này.",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Ghi chú: Đối với các chứng chỉ hành nghề đã được cấp trước thời điểm Nghị định này có hiệu lực: Phạm vi hoạt động của Chứng chỉ hành nghề đối với lĩnh vực Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật, giám sát công tác xây dựng công trình giao thông, giám sát công tác xây dựng công trình phục vụ nông nghiệp và phát triển nông thôn (thủy lợi, đê điều) thực hiện theo phạm vi và lĩnh vực hoạt động của Chứng chỉ giám sát công tác xây dựng công trình tại mục 4.1 Phụ lục này.",
+      "Phạm vi hoạt động xây dựng của chứng chỉ hành nghề": "Ghi chú: Đối với các chứng chỉ hành nghề đã được cấp trước thời điểm Nghị định này có hiệu lực: Phạm vi hoạt động của Chứng chỉ hành nghề đối với lĩnh vực Giám sát công tác xây dựng công trình dân dụng - công nghiệp và hạ tầng kỹ thuật, giám sát công tác xây dựng công trình giao thông, giám sát công tác xây dựng công trình phục vụ nông nghiệp và phát triển nông thôn (thủy lợi, đê điều) thực hiện theo phạm vi và lĩnh vực hoạt động của Chứng chỉ giám sát công tác xây dựng công trình tại mục 4.1 Phụ lục này."
+    }
+  ]
+}

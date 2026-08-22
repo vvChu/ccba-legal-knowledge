@@ -1,0 +1,9 @@
+﻿STT,KHOẢN MỤC CHI PHÍ,CÁCH TÍNH,GIÁ TRỊ,KÝ HIỆU
+[1],[2],[3],[4],[5]
+1,Chi phí chuyên gia,,,Ccg
+2,Chi phí quản lý,Ccg x Tỷ lệ,,Cql
+3,Chi phí khác,,,Ck
+4,Thu nhập chịu thuế tính trước,(Ccg + Cql ) x 6%,,TL
+5,Thuế,,,T
+6,Chi phí dự phòng,(Ccg + Cql + Ck + TL + T) x Tỷ lệ,,Cdp
+,TỔNG CỘNG,Ccg + Cql + Ck + TL + T + Cdp,,CTV

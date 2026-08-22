@@ -1,0 +1,55 @@
+{
+  "table_id": "bang_04",
+  "rows_count": 6,
+  "columns_count": 6,
+  "headers": [
+    "Stt",
+    "Loại vật liệu",
+    "Đơn vị",
+    "Khối lượng theo thiết kế",
+    "Khối lượng thực tế thi công",
+    "Ghi chú"
+  ],
+  "records": [
+    {
+      "Stt": "(1)",
+      "Loại vật liệu": "(2)",
+      "Đơn vị": "(3)",
+      "Khối lượng theo thiết kế": "(4)",
+      "Khối lượng thực tế thi công": "(5)",
+      "Ghi chú": "(6)"
+    },
+    {
+      "Stt": "1",
+      "Loại vật liệu": "Vật liệu thứ 1",
+      "Đơn vị": "",
+      "Khối lượng theo thiết kế": "",
+      "Khối lượng thực tế thi công": "",
+      "Ghi chú": ""
+    },
+    {
+      "Stt": "2",
+      "Loại vật liệu": "Vật liệu thứ 2",
+      "Đơn vị": "",
+      "Khối lượng theo thiết kế": "",
+      "Khối lượng thực tế thi công": "",
+      "Ghi chú": ""
+    },
+    {
+      "Stt": "3",
+      "Loại vật liệu": "Vật liệu thứ 3",
+      "Đơn vị": "",
+      "Khối lượng theo thiết kế": "",
+      "Khối lượng thực tế thi công": "",
+      "Ghi chú": ""
+    },
+    {
+      "Stt": "…",
+      "Loại vật liệu": "Vật liệu thứ….",
+      "Đơn vị": "",
+      "Khối lượng theo thiết kế": "",
+      "Khối lượng thực tế thi công": "",
+      "Ghi chú": ""
+    }
+  ]
+}

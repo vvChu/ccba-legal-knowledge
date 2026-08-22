@@ -14,19 +14,23 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 04__
 
-__CƠ QUAN CHUẨN BỊ DỰ ÁN
+__CƠ QUAN CHUẨN BỊ DỰ ÁN  
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
 ---------------__
 
-Số: ...
+Số: ...  
 V/v thẩm định Báo cáo kinh tế - kỹ thuật *(tên dự án)*
 
 *..., ngày ... tháng ... năm ...*
 
+ 
+
 Kính gửi: *(Cơ quan/Đơn vị được người quyết định đầu tư giao thẩm định).*
+
+ 
 
 Căn cứ Luật Xây dựng ngày ... tháng ... năm 2025;
 
@@ -98,11 +102,13 @@ __II. DANH MỤC HỒ SƠ TRÌNH THẨM ĐỊNH__
 
 *(Cơ quan chuẩn bị dự án)* trình *(Cơ quan/Đơn vị được Người quyết định đầu tư giao thẩm định)* thẩm định Báo cáo kinh tế - kỹ thuật *(tên dự án)* với các nội dung nêu trên.
 
-__*Nơi nhận:*__
-- Như trên;
+ 
+
+__*Nơi nhận:*__  
+- Như trên;  
 - Lưu:...
 
-__CƠ QUAN CHUẨN BỊ DỰ ÁN__
+__CƠ QUAN CHUẨN BỊ DỰ ÁN__  
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*
 
 _________________________________

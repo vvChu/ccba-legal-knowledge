@@ -1,0 +1,154 @@
+{
+  "table_id": "bang_03",
+  "rows_count": 29,
+  "columns_count": 5,
+  "headers": [
+    "STT",
+    "Lĩnh vực cấp chứng chỉ hành nghề",
+    "Lĩnh vực cấp chứng chỉ hành nghề",
+    "Chuyên môn",
+    "Chuyên môn"
+  ],
+  "records": [
+    {
+      "STT": "STT",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Nội dung hành nghề",
+      "Chuyên môn": "Chuyên môn đào tạo phù hợp thể hiện tại bảng điểm hoặc phụ lục văn bằng trong trường hợp văn bằng không ghi rõ chuyên ngành đào tạo"
+    },
+    {
+      "STT": "1",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Lĩnh vực khảo sát xây dựng",
+      "Chuyên môn": "Lĩnh vực khảo sát xây dựng"
+    },
+    {
+      "STT": "1.1",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Khảo sát địa hình",
+      "Chuyên môn": "Có môn học về trắc địa, bản đồ."
+    },
+    {
+      "STT": "1.2",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Khảo sát địa chất công trình",
+      "Chuyên môn": "Có môn học về địa chất công trình, địa chất thủy văn."
+    },
+    {
+      "STT": "2",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Lĩnh vực lập quy hoạch đô thị và nông thôn",
+      "Chuyên môn": "Lĩnh vực lập quy hoạch đô thị và nông thôn"
+    },
+    {
+      "STT": "",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Lập quy hoạch đô thị và nông thôn",
+      "Chuyên môn": ""
+    },
+    {
+      "STT": "3",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Lĩnh vực thiết kế xây dựng",
+      "Chuyên môn": "Lĩnh vực thiết kế xây dựng"
+    },
+    {
+      "STT": "3.1",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Kết cấu công trình",
+      "Chuyên môn": "Có các môn học, đồ án môn học, đồ án tốt nghiệp về kết cấu công trình dân dụng và công nghiệp."
+    },
+    {
+      "STT": "3.2",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Khai thác mỏ",
+      "Chuyên môn": "Có các môn học, đồ án môn học, đồ án tốt nghiệp về công trình ngầm và mỏ."
+    },
+    {
+      "STT": "3.3",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Đường bộ",
+      "Chuyên môn": "Có các môn học, đồ án môn học, đồ án tốt nghiệp về công trình giao thông đường bộ."
+    },
+    {
+      "STT": "3.4",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Đường sắt",
+      "Chuyên môn": "Có các môn học, đồ án môn học, đồ án tốt nghiệp về công trình giao thông đường sắt."
+    },
+    {
+      "STT": "3.5",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Cầu - Hầm",
+      "Chuyên môn": "Có các môn học, đồ án môn học, đồ án tốt nghiệp về công trình giao thông cầu, hầm."
+    },
+    {
+      "STT": "3.6",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Đường thủy nội địa - Hàng hải",
+      "Chuyên môn": "Có các môn học, đồ án môn học, đồ án tốt nghiệp về công trình giao thông đường thủy nội địa, cảng đường thủy, công trình trên sông, công trình cảng biển."
+    },
+    {
+      "STT": "3.7",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Thủy lợi, đê điều",
+      "Chuyên môn": "Có các môn học, đồ án môn học, đồ án tốt nghiệp về công trình thủy lợi, thủy điện, đê điều."
+    },
+    {
+      "STT": "3.8",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Cấp nước - thoát nước",
+      "Chuyên môn": "Có các môn học, đồ án môn học, đồ án tốt nghiệp về công trình cấp nước - thoát nước."
+    },
+    {
+      "STT": "3.9",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Công trình Xử lý chất thải rắn",
+      "Chuyên môn": "Có các môn học, đồ án môn học, đồ án tốt nghiệp về kỹ thuật môi trường."
+    },
+    {
+      "STT": "3.10",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Hệ thống điện",
+      "Chuyên môn": "Có các môn học, đồ án môn học, đồ án tốt nghiệp về kỹ thuật điện."
+    },
+    {
+      "STT": "3.11",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Hệ thống cấp - thoát nước công trình",
+      "Chuyên môn": "Có các môn học, đồ án môn học, đồ án tốt nghiệp về cấp nước, thoát nước trong công trình."
+    },
+    {
+      "STT": "3.12",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Hệ thống thông gió - cấp thoát nhiệt",
+      "Chuyên môn": "Có các môn học, đồ án môn học, đồ án tốt nghiệp về kỹ thuật thông gió - cấp thoát nhiệt, nhiệt lạnh, vi khí hậu."
+    },
+    {
+      "STT": "4",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Lĩnh vực giám sát thi công xây dựng",
+      "Chuyên môn": "Lĩnh vực giám sát thi công xây dựng"
+    },
+    {
+      "STT": "4.1",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Giám sát công tác xây dựng công trình",
+      "Chuyên môn": "Có môn học về kết cấu công trình dân dụng, công nghiệp, công trình ngầm và mỏ, công trình giao thông, công trình thủy lợi, đê điều, công trình cấp nước - thoát nước, kiến trúc, kinh tế xây dựng và chuyên ngành kỹ thuật có liên quan đến xây dựng công trình."
+    },
+    {
+      "STT": "4.2",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Giám sát công tác lắp đặt thiết bị công trình",
+      "Chuyên môn": "Có môn học về kỹ thuật điện, thông gió - cấp thoát nhiệt, nhiệt lạnh, vi khí hậu, cấp nước - thoát nước trong công trình."
+    },
+    {
+      "STT": "5",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Giám đốc quản lý dự án đầu tư xây dựng - Lĩnh vực không yêu cầu cấp chứng chỉ hành nghề",
+      "Chuyên môn": "Giám đốc quản lý dự án đầu tư xây dựng - Lĩnh vực không yêu cầu cấp chứng chỉ hành nghề"
+    },
+    {
+      "STT": "",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Giám đốc quản lý dự án đầu tư xây dựng",
+      "Chuyên môn": "Có môn học về kết cấu công trình dân dụng, công nghiệp, công trình ngầm và mỏ, công trình giao thông, công trình thủy lợi, đê điều, công trình cấp nước - thoát nước, kiến trúc, kinh tế xây dựng và chuyên ngành kỹ thuật có liên quan đến xây dựng công trình; kỹ thuật điện, thông gió - cấp thoát nhiệt, nhiệt lạnh, vi khí hậu, cấp nước - thoát nước trong công trình."
+    },
+    {
+      "STT": "6",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Chỉ huy trưởng công trường - Lĩnh vực không yêu cầu cấp chứng chỉ hành nghề",
+      "Chuyên môn": "Chỉ huy trưởng công trường - Lĩnh vực không yêu cầu cấp chứng chỉ hành nghề"
+    },
+    {
+      "STT": "6.1",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Chỉ huy trưởng công tác thi công xây dựng công trình",
+      "Chuyên môn": "Có môn học về kết cấu công trình dân dụng, công nghiệp, công trình ngầm và mỏ, công trình giao thông, công trình thủy lợi, đê điều, công trình cấp nước - thoát nước, kiến trúc, kinh tế xây dựng và chuyên ngành kỹ thuật có liên quan đến xây dựng công trình."
+    },
+    {
+      "STT": "6.2",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "Chỉ huy trưởng công tác lắp đặt thiết bị công trình",
+      "Chuyên môn": "Có môn học về kỹ thuật điện, thông gió - cấp thoát nhiệt, nhiệt lạnh, vi khí hậu, cấp nước - thoát nước trong công trình."
+    },
+    {
+      "STT": "* Ghi chú: - Đối với văn bằng đào tạo không thuộc hệ thống giáo dục Việt Nam, hội đồng xét cấp chứng chỉ hành nghề căn cứ bảng điểm/phụ lục văn bằng để đánh giá tương đương. - Khi xét chuyên môn đào tạo phù hợp, hội đồng xét cấp chứng chỉ hành nghề căn cứ bảng điểm hoặc phụ lục văn bằng để đánh giá nội dung đào tạo tương đương với đồ án môn học, đồ án tốt nghiệp. - Cụm từ “các chuyên ngành kỹ thuật có liên quan” tại Phụ lục này được hiểu là các chuyên ngành đào tạo thuộc cùng nhóm kỹ thuật, có nội dung đào tạo, môn học, đồ án môn học, đồ án tốt nghiệp hoặc nội dung đào tạo tương đương phù hợp trực tiếp với lĩnh vực, nội dung hành nghề đề nghị cấp chứng chỉ hành nghề. Việc xác định chuyên ngành kỹ thuật có liên quan phải căn cứ vào văn bằng, bảng điểm, phụ lục văn bằng và nội dung đào tạo thực tế của cá nhân.",
+      "Lĩnh vực cấp chứng chỉ hành nghề": "* Ghi chú: - Đối với văn bằng đào tạo không thuộc hệ thống giáo dục Việt Nam, hội đồng xét cấp chứng chỉ hành nghề căn cứ bảng điểm/phụ lục văn bằng để đánh giá tương đương. - Khi xét chuyên môn đào tạo phù hợp, hội đồng xét cấp chứng chỉ hành nghề căn cứ bảng điểm hoặc phụ lục văn bằng để đánh giá nội dung đào tạo tương đương với đồ án môn học, đồ án tốt nghiệp. - Cụm từ “các chuyên ngành kỹ thuật có liên quan” tại Phụ lục này được hiểu là các chuyên ngành đào tạo thuộc cùng nhóm kỹ thuật, có nội dung đào tạo, môn học, đồ án môn học, đồ án tốt nghiệp hoặc nội dung đào tạo tương đương phù hợp trực tiếp với lĩnh vực, nội dung hành nghề đề nghị cấp chứng chỉ hành nghề. Việc xác định chuyên ngành kỹ thuật có liên quan phải căn cứ vào văn bằng, bảng điểm, phụ lục văn bằng và nội dung đào tạo thực tế của cá nhân.",
+      "Chuyên môn": "* Ghi chú: - Đối với văn bằng đào tạo không thuộc hệ thống giáo dục Việt Nam, hội đồng xét cấp chứng chỉ hành nghề căn cứ bảng điểm/phụ lục văn bằng để đánh giá tương đương. - Khi xét chuyên môn đào tạo phù hợp, hội đồng xét cấp chứng chỉ hành nghề căn cứ bảng điểm hoặc phụ lục văn bằng để đánh giá nội dung đào tạo tương đương với đồ án môn học, đồ án tốt nghiệp. - Cụm từ “các chuyên ngành kỹ thuật có liên quan” tại Phụ lục này được hiểu là các chuyên ngành đào tạo thuộc cùng nhóm kỹ thuật, có nội dung đào tạo, môn học, đồ án môn học, đồ án tốt nghiệp hoặc nội dung đào tạo tương đương phù hợp trực tiếp với lĩnh vực, nội dung hành nghề đề nghị cấp chứng chỉ hành nghề. Việc xác định chuyên ngành kỹ thuật có liên quan phải căn cứ vào văn bằng, bảng điểm, phụ lục văn bằng và nội dung đào tạo thực tế của cá nhân."
+    }
+  ]
+}

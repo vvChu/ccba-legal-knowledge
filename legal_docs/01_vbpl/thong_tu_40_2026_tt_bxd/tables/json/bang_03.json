@@ -1,0 +1,167 @@
+{
+  "table_id": "bang_03",
+  "rows_count": 20,
+  "columns_count": 6,
+  "headers": [
+    "TT",
+    "Khoản mục chi phí",
+    "Giá trị trước thuế",
+    "Thuế GTGT",
+    "Giá trị sau thuế",
+    "Ký hiệu"
+  ],
+  "records": [
+    {
+      "TT": "[1]",
+      "Khoản mục chi phí": "[2]",
+      "Giá trị trước thuế": "[3]",
+      "Thuế GTGT": "[4]",
+      "Giá trị sau thuế": "[5]",
+      "Ký hiệu": "[6]"
+    },
+    {
+      "TT": "1",
+      "Khoản mục chi phí": "Chi phí bảo dưỡng công trình",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": "GBD"
+    },
+    {
+      "TT": "1.1",
+      "Khoản mục chi phí": "Chi phí thực hiện bảo dưỡng",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": ""
+    },
+    {
+      "TT": "1.2",
+      "Khoản mục chi phí": "Chi phí khác",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": ""
+    },
+    {
+      "TT": "1.3",
+      "Khoản mục chi phí": "Chi phí dự phòng (nếu có)",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": ""
+    },
+    {
+      "TT": "2",
+      "Khoản mục chi phí": "Chi phí sửa chữa công trình",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": "GSC"
+    },
+    {
+      "TT": "2.1",
+      "Khoản mục chi phí": "Chi phí thực hiện sửa chữa",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": ""
+    },
+    {
+      "TT": "2.2",
+      "Khoản mục chi phí": "Chi phí khác",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": ""
+    },
+    {
+      "TT": "2.3",
+      "Khoản mục chi phí": "Chi phí dự phòng (nếu có)",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": ""
+    },
+    {
+      "TT": "3",
+      "Khoản mục chi phí": "Chi phí các công việc khác trong kế hoạch bảo trì công trình",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": "GK"
+    },
+    {
+      "TT": "3.1",
+      "Khoản mục chi phí": "Chi phí quản lý của chủ sở hữu, chủ sử dụng công trình",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": "GQL"
+    },
+    {
+      "TT": "3.2",
+      "Khoản mục chi phí": "Chi phí kiểm tra",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": ""
+    },
+    {
+      "TT": "3.3",
+      "Khoản mục chi phí": "Chi phí quan trắc (nếu có)",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": ""
+    },
+    {
+      "TT": "3.4",
+      "Khoản mục chi phí": "Chi phí kiểm định chất lượng (nếu có)",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": ""
+    },
+    {
+      "TT": "3.5",
+      "Khoản mục chi phí": "Chi phí đánh giá an toàn công trình (nếu có)",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": ""
+    },
+    {
+      "TT": "3.6",
+      "Khoản mục chi phí": "Lập kế hoạch bảo trì hàng năm",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": ""
+    },
+    {
+      "TT": "3.7",
+      "Khoản mục chi phí": "Lập, thẩm tra hoặc điều chỉnh quy trình bảo trì công trình xây dựng (nếu có)",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": ""
+    },
+    {
+      "TT": "3.8",
+      "Khoản mục chi phí": "Các chi phí thực hiện các công việc khác có liên quan theo quy định của pháp luật chuyên ngành (nếu có)",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": ""
+    },
+    {
+      "TT": "",
+      "Khoản mục chi phí": "TỔNG CỘNG (1+2+3)",
+      "Giá trị trước thuế": "",
+      "Thuế GTGT": "",
+      "Giá trị sau thuế": "",
+      "Ký hiệu": "GBT"
+    }
+  ]
+}

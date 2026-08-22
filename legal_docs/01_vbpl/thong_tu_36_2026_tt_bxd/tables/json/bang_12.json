@@ -1,0 +1,24 @@
+{
+  "table_id": "bang_12",
+  "rows_count": 3,
+  "columns_count": 5,
+  "headers": [
+    "TT",
+    "Khoản mục chi phí",
+    "Chi phí mua sắm thiết bị chưa có thuế giá trị gia tăng (tỷ đồng)",
+    "Chi phí mua sắm thiết bị chưa có thuế giá trị gia tăng (tỷ đồng)",
+    "Chi phí mua sắm thiết bị chưa có thuế giá trị gia tăng (tỷ đồng)"
+  ],
+  "records": [
+    {
+      "TT": "TT",
+      "Khoản mục chi phí": "Khoản mục chi phí",
+      "Chi phí mua sắm thiết bị chưa có thuế giá trị gia tăng (tỷ đồng)": ">20.000"
+    },
+    {
+      "TT": "",
+      "Khoản mục chi phí": "Chi phí quản lý mua sắm thiết bị",
+      "Chi phí mua sắm thiết bị chưa có thuế giá trị gia tăng (tỷ đồng)": "0,9"
+    }
+  ]
+}

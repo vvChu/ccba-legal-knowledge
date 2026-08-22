@@ -14,19 +14,21 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 11__
 
-__NHÀ THẦU THẨM TRA
-THIẾT KẾ XÂY DỰNG
+__NHÀ THẦU THẨM TRA  
+THIẾT KẾ XÂY DỰNG  
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
 ---------------__
 
 Số: ...
 
 *..., ngày ... tháng ... năm ...*
 
-__BÁO CÁO KẾT QUẢ THẨM TRA THIẾT KẾ XÂY DỰNG TRIỂN KHAI SAU KHI DỰ ÁN ĐƯỢC PHÊ DUYỆT__
+ 
+
+__BÁO CÁO KẾT QUẢ THẨM TRA THIẾT KẾ XÂY DỰNG TRIỂN KHAI SAU KHI DỰ ÁN ĐƯỢC PHÊ DUYỆT__  
 __(Tên công trình ...)__
 
 Kính gửi: *(Tên chủ đầu tư).*
@@ -143,9 +145,11 @@ __CHỦ NHIỆM, CHỦ TRÌ THẨM TRA CỦA TỪNG BỘ MÔN__
 
 *(Kết quả thẩm tra được bổ sung thêm một số nội dung khác nhằm đáp ứng yêu cầu thẩm tra của chủ đầu tư và nhà thầu thẩm tra thiết kế xây dựng, việc đóng dấu thẩm tra tại các bản vẽ được thực hiện sau khi nhà thầu thiết kế đã chỉnh sửa, hoàn thiện hồ sơ theo yêu cầu của nhà thầu thẩm tra thiết kế xây dựng).*
 
-__*Nơi nhận:*__
-- Như trên;
+ 
+
+__*Nơi nhận:*__  
+- Như trên;  
 - Lưu:........
 
-__NHÀ THẦU THẨM TRA THIẾT KẾ XÂY DỰNG__
+__NHÀ THẦU THẨM TRA THIẾT KẾ XÂY DỰNG__  
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*

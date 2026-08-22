@@ -1,0 +1,36 @@
+{
+  "table_id": "bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong",
+  "rows_count": 5,
+  "columns_count": 7,
+  "headers": [
+    "STT",
+    "Loại công trình",
+    "Chi phí xây dựng trước thuế trong tổng mức đầu tư của dự án được duyệt (tỷ đồng)",
+    "Chi phí xây dựng trước thuế trong tổng mức đầu tư của dự án được duyệt (tỷ đồng)",
+    "Chi phí xây dựng trước thuế trong tổng mức đầu tư của dự án được duyệt (tỷ đồng)",
+    "Chi phí xây dựng trước thuế trong tổng mức đầu tư của dự án được duyệt (tỷ đồng)",
+    "Chi phí xây dựng trước thuế trong tổng mức đầu tư của dự án được duyệt (tỷ đồng)"
+  ],
+  "records": [
+    {
+      "STT": "STT",
+      "Loại công trình": "Loại công trình",
+      "Chi phí xây dựng trước thuế trong tổng mức đầu tư của dự án được duyệt (tỷ đồng)": ">1000"
+    },
+    {
+      "STT": "[1]",
+      "Loại công trình": "[2]",
+      "Chi phí xây dựng trước thuế trong tổng mức đầu tư của dự án được duyệt (tỷ đồng)": "[7]"
+    },
+    {
+      "STT": "1",
+      "Loại công trình": "Công trình xây dựng theo tuyến",
+      "Chi phí xây dựng trước thuế trong tổng mức đầu tư của dự án được duyệt (tỷ đồng)": "1,7"
+    },
+    {
+      "STT": "2",
+      "Loại công trình": "Công trình xây dựng còn lại",
+      "Chi phí xây dựng trước thuế trong tổng mức đầu tư của dự án được duyệt (tỷ đồng)": "0,85"
+    }
+  ]
+}

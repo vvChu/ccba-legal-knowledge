@@ -1,0 +1,1955 @@
+{
+  "table_id": "bang_27",
+  "rows_count": 278,
+  "columns_count": 7,
+  "headers": [
+    "Mã hiệu",
+    "Loại máy và thiết bị",
+    "Số ca năm",
+    "Định mức (%)",
+    "Định mức (%)",
+    "Định mức (%)",
+    "Nguyên giá tham khảo (1000 VND)"
+  ],
+  "records": [
+    {
+      "Mã hiệu": "Mã hiệu",
+      "Loại máy và thiết bị": "Loại máy và thiết bị",
+      "Số ca năm": "Số ca năm",
+      "Định mức (%)": "Chi phí khác",
+      "Nguyên giá tham khảo (1000 VND)": "Nguyên giá tham khảo (1000 VND)"
+    },
+    {
+      "Mã hiệu": "1",
+      "Loại máy và thiết bị": "2",
+      "Số ca năm": "3",
+      "Định mức (%)": "6",
+      "Nguyên giá tham khảo (1000 VND)": "7"
+    },
+    {
+      "Mã hiệu": "M201.0000",
+      "Loại máy và thiết bị": "MÁY VÀ THIẾT BỊ KHẢO SÁT",
+      "Số ca năm": "",
+      "Định mức (%)": "",
+      "Nguyên giá tham khảo (1000 VND)": ""
+    },
+    {
+      "Mã hiệu": "M201.0001",
+      "Loại máy và thiết bị": "Bộ khoan tay",
+      "Số ca năm": "180",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "35.083"
+    },
+    {
+      "Mã hiệu": "M201.0002",
+      "Loại máy và thiết bị": "Máy khoan XY-1A",
+      "Số ca năm": "180",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "102.500"
+    },
+    {
+      "Mã hiệu": "M201.0003",
+      "Loại máy và thiết bị": "Máy khoan XY-3",
+      "Số ca năm": "180",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "210.909"
+    },
+    {
+      "Mã hiệu": "M201.0004",
+      "Loại máy và thiết bị": "Máy khoan GK-250",
+      "Số ca năm": "180",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "136.364"
+    },
+    {
+      "Mã hiệu": "M201.0005",
+      "Loại máy và thiết bị": "Bộ nén ngang GA",
+      "Số ca năm": "180",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "476.947"
+    },
+    {
+      "Mã hiệu": "M201.0006",
+      "Loại máy và thiết bị": "Búa căn MO - 10 (chưa tính khí nén)",
+      "Số ca năm": "180",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "6.363"
+    },
+    {
+      "Mã hiệu": "M201.0007",
+      "Loại máy và thiết bị": "Búa khoan tay P30",
+      "Số ca năm": "180",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "12.268"
+    },
+    {
+      "Mã hiệu": "M201.0008",
+      "Loại máy và thiết bị": "Thùng trục 0,5 m3",
+      "Số ca năm": "150",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "3.096"
+    },
+    {
+      "Mã hiệu": "M201.0009",
+      "Loại máy và thiết bị": "Máy khoan F-60L",
+      "Số ca năm": "250",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "1.396.445"
+    },
+    {
+      "Mã hiệu": "M201.0010",
+      "Loại máy và thiết bị": "Máy xuyên động RA-50",
+      "Số ca năm": "180",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "58.816"
+    },
+    {
+      "Mã hiệu": "M201.0011",
+      "Loại máy và thiết bị": "Máy xuyên tĩnh Gouda",
+      "Số ca năm": "180",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "495.291"
+    },
+    {
+      "Mã hiệu": "M201.0012",
+      "Loại máy và thiết bị": "Thiết bị đo ngẫu lực",
+      "Số ca năm": "180",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "340.513"
+    },
+    {
+      "Mã hiệu": "M201.0013",
+      "Loại máy và thiết bị": "Bộ dụng cụ thí nghiệm SPT",
+      "Số ca năm": "180",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "10.777"
+    },
+    {
+      "Mã hiệu": "M201.0014",
+      "Loại máy và thiết bị": "Biến thế thắp sáng",
+      "Số ca năm": "150",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "3.325"
+    },
+    {
+      "Mã hiệu": "M201.0015",
+      "Loại máy và thiết bị": "Máy thăm dò địa vật lý UJ-18",
+      "Số ca năm": "150",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "31.300"
+    },
+    {
+      "Mã hiệu": "M201.0016",
+      "Loại máy và thiết bị": "Máy thăm dò địa vật lý MF-2-100",
+      "Số ca năm": "150",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "38.752"
+    },
+    {
+      "Mã hiệu": "M201.0017",
+      "Loại máy và thiết bị": "Máy, thiết bị thăm dò địa chấn - loại 1 mạch (ES-125)",
+      "Số ca năm": "150",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "97.797"
+    },
+    {
+      "Mã hiệu": "M201.0018",
+      "Loại máy và thiết bị": "Máy, thiết bị thăm dò địa chấn - loại 12 mạch (Triosx-12)",
+      "Số ca năm": "150",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "292.130"
+    },
+    {
+      "Mã hiệu": "M201.0019",
+      "Loại máy và thiết bị": "Máy, thiết bị thăm dò địa chấn - loại 24 mạch (Triosx-24)",
+      "Số ca năm": "150",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "343.379"
+    },
+    {
+      "Mã hiệu": "M201.0020",
+      "Loại máy và thiết bị": "Máy thuỷ bình điện tử",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "15.822"
+    },
+    {
+      "Mã hiệu": "M201.0021",
+      "Loại máy và thiết bị": "Máy toàn đạc điện tử",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "178.855"
+    },
+    {
+      "Mã hiệu": "M201.0022",
+      "Loại máy và thiết bị": "Bộ thiết bị khống chế mặt bằng GPS (3 máy)",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "670.706"
+    },
+    {
+      "Mã hiệu": "M201.0023",
+      "Loại máy và thiết bị": "Ống nhòm",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.147"
+    },
+    {
+      "Mã hiệu": "M201.0024",
+      "Loại máy và thiết bị": "Kính hiển vi",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "8.943"
+    },
+    {
+      "Mã hiệu": "M201.0025",
+      "Loại máy và thiết bị": "Kính hiển vi điện tử quét",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "3.221.684"
+    },
+    {
+      "Mã hiệu": "M201.0026",
+      "Loại máy và thiết bị": "Máy ảnh",
+      "Số ca năm": "150",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "6.306"
+    },
+    {
+      "Mã hiệu": "M201.0027",
+      "Loại máy và thiết bị": "Máy đo sâu hồi âm đa tia",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "2.791.667"
+    },
+    {
+      "Mã hiệu": "M201.0028",
+      "Loại máy và thiết bị": "Máy đo sâu hồi âm đơn tia",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "309.909"
+    },
+    {
+      "Mã hiệu": "M201.0029",
+      "Loại máy và thiết bị": "Máy định vị vệ tinh DGPS",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "430.909"
+    },
+    {
+      "Mã hiệu": "M201.0030",
+      "Loại máy và thiết bị": "Máy triều ký tự ghi",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "85.909"
+    },
+    {
+      "Mã hiệu": "M201.0031",
+      "Loại máy và thiết bị": "Máy định vị vệ tinh RTK",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "500.545"
+    },
+    {
+      "Mã hiệu": "M201.0032",
+      "Loại máy và thiết bị": "Máy đo tốc độ sóng âm",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "168.818"
+    },
+    {
+      "Mã hiệu": "M201.0033",
+      "Loại máy và thiết bị": "Máy bù sóng",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.533.143"
+    },
+    {
+      "Mã hiệu": "M201.0034",
+      "Loại máy và thiết bị": "La bàn vệ tinh",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "239.091"
+    },
+    {
+      "Mã hiệu": "M201.0035",
+      "Loại máy và thiết bị": "Máy scanner (khổ A3)",
+      "Số ca năm": "150",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "49.173"
+    },
+    {
+      "Mã hiệu": "M202.0000",
+      "Loại máy và thiết bị": "MÁY VÀ THIẾT BỊ THÍ NGHIỆM VẬT LIỆU, CẤU KIỆN VÀ KẾT CẤU XÂY DỰNG",
+      "Số ca năm": "",
+      "Định mức (%)": "",
+      "Nguyên giá tham khảo (1000 VND)": ""
+    },
+    {
+      "Mã hiệu": "M202.0001",
+      "Loại máy và thiết bị": "Cần Belkenman",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "20.866"
+    },
+    {
+      "Mã hiệu": "M202.0002",
+      "Loại máy và thiết bị": "Thiết bị đếm phóng xạ",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "142.511"
+    },
+    {
+      "Mã hiệu": "M202.0003",
+      "Loại máy và thiết bị": "TRL Profile Beam",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "399.443"
+    },
+    {
+      "Mã hiệu": "M202.0004",
+      "Loại máy và thiết bị": "Máy FWD",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "2.056.833"
+    },
+    {
+      "Mã hiệu": "M202.0005",
+      "Loại máy và thiết bị": "Thiết bị đo phản ứng Romdas",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "92.408"
+    },
+    {
+      "Mã hiệu": "M202.0006",
+      "Loại máy và thiết bị": "Bộ thiết bị PIT (đo biến dạng nhỏ)",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "348.767"
+    },
+    {
+      "Mã hiệu": "M202.0007",
+      "Loại máy và thiết bị": "Bộ thiết bị đo PDA (đo biến dạng lớn)",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.371.222"
+    },
+    {
+      "Mã hiệu": "M202.0008",
+      "Loại máy và thiết bị": "Bộ thiết bị siêu âm",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "573.827"
+    },
+    {
+      "Mã hiệu": "M202.0009",
+      "Loại máy và thiết bị": "Cân điện tử",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "8.255"
+    },
+    {
+      "Mã hiệu": "M202.0010",
+      "Loại máy và thiết bị": "Cân phân tích",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "12.726"
+    },
+    {
+      "Mã hiệu": "M202.0011",
+      "Loại máy và thiết bị": "Cân bàn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "4.815"
+    },
+    {
+      "Mã hiệu": "M202.0012",
+      "Loại máy và thiết bị": "Cân thủy tĩnh",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "5.618"
+    },
+    {
+      "Mã hiệu": "M202.0013",
+      "Loại máy và thiết bị": "Lò nung",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "14.217"
+    },
+    {
+      "Mã hiệu": "M202.0014",
+      "Loại máy và thiết bị": "Tủ sấy",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "12.268"
+    },
+    {
+      "Mã hiệu": "M202.0015",
+      "Loại máy và thiết bị": "Tủ hút khí độc",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "12.268"
+    },
+    {
+      "Mã hiệu": "M202.0016",
+      "Loại máy và thiết bị": "Tủ lạnh",
+      "Số ca năm": "250",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "7.796"
+    },
+    {
+      "Mã hiệu": "M202.0017",
+      "Loại máy và thiết bị": "Máy hút chân không",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "3.783"
+    },
+    {
+      "Mã hiệu": "M202.0018",
+      "Loại máy và thiết bị": "Máy hút ẩm OASIS-America",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "10.319"
+    },
+    {
+      "Mã hiệu": "M202.0019",
+      "Loại máy và thiết bị": "Bếp điện",
+      "Số ca năm": "150",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "803"
+    },
+    {
+      "Mã hiệu": "M202.0020",
+      "Loại máy và thiết bị": "Bếp cát",
+      "Số ca năm": "150",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.032"
+    },
+    {
+      "Mã hiệu": "M202.0021",
+      "Loại máy và thiết bị": "Máy chưng cất nước",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "7.567"
+    },
+    {
+      "Mã hiệu": "M202.0022",
+      "Loại máy và thiết bị": "Máy trộn đất",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "6.306"
+    },
+    {
+      "Mã hiệu": "M202.0023",
+      "Loại máy và thiết bị": "Máy trộn xi măng, dung tích 5lít",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "19.949"
+    },
+    {
+      "Mã hiệu": "M202.0024",
+      "Loại máy và thiết bị": "Máy trộn dung dịch lỏng (máy đo độ rung vữa)",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "16.968"
+    },
+    {
+      "Mã hiệu": "M202.0025",
+      "Loại máy và thiết bị": "Máy đầm tiêu chuẩn (đầm rung)",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "6.306"
+    },
+    {
+      "Mã hiệu": "M202.0026",
+      "Loại máy và thiết bị": "Máy cắt đất",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "2.637"
+    },
+    {
+      "Mã hiệu": "M202.0027",
+      "Loại máy và thiết bị": "Máy cắt mẫu lớn (30x30) cm",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "17.198"
+    },
+    {
+      "Mã hiệu": "M202.0028",
+      "Loại máy và thiết bị": "Máy cắt ứng biến",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "163.950"
+    },
+    {
+      "Mã hiệu": "M202.0029",
+      "Loại máy và thiết bị": "Máy nén 3 trục",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "779.854"
+    },
+    {
+      "Mã hiệu": "M202.0030",
+      "Loại máy và thiết bị": "Máy ép litvinốp",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "17.886"
+    },
+    {
+      "Mã hiệu": "M202.0031",
+      "Loại máy và thiết bị": "Kích tháo mẫu",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "7.796"
+    },
+    {
+      "Mã hiệu": "M202.0032",
+      "Loại máy và thiết bị": "Máy ép mẫu đá, bê tông",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "166.931"
+    },
+    {
+      "Mã hiệu": "M202.0033",
+      "Loại máy và thiết bị": "Máy cắt mẫu vật liệu (bê tông, gạch, đá)",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "72.574"
+    },
+    {
+      "Mã hiệu": "M202.0034",
+      "Loại máy và thiết bị": "Máy khoan mẫu đá",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "67.071"
+    },
+    {
+      "Mã hiệu": "M202.0035",
+      "Loại máy và thiết bị": "Máy mài thử độ mài mòn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "10.319"
+    },
+    {
+      "Mã hiệu": "M202.0036",
+      "Loại máy và thiết bị": "Máy nén một trục",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "17.886"
+    },
+    {
+      "Mã hiệu": "M202.0037",
+      "Loại máy và thiết bị": "Máy nén Marshall",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "264.728"
+    },
+    {
+      "Mã hiệu": "M202.0038",
+      "Loại máy và thiết bị": "Máy CBR",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "78.994"
+    },
+    {
+      "Mã hiệu": "M202.0039",
+      "Loại máy và thiết bị": "Máy thí nghiệm thuỷ lực quay tay",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "8.369"
+    },
+    {
+      "Mã hiệu": "M202.0040",
+      "Loại máy và thiết bị": "Máy nén 4 t (quay tay)",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "7.796"
+    },
+    {
+      "Mã hiệu": "M202.0041",
+      "Loại máy và thiết bị": "Máy nén thuỷ lực 10 t",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "21.440"
+    },
+    {
+      "Mã hiệu": "M202.0042",
+      "Loại máy và thiết bị": "Máy nén thuỷ lực 50 t",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "35.656"
+    },
+    {
+      "Mã hiệu": "M202.0043",
+      "Loại máy và thiết bị": "Máy nén thuỷ lực 125 t",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "47.695"
+    },
+    {
+      "Mã hiệu": "M202.0044",
+      "Loại máy và thiết bị": "Máy nén thuỷ lực 200 t",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "62.000"
+    },
+    {
+      "Mã hiệu": "M202.0045",
+      "Loại máy và thiết bị": "Máy kéo nén thủy lực 100 t",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "52.166"
+    },
+    {
+      "Mã hiệu": "M202.0046",
+      "Loại máy và thiết bị": "Máy kéo nén uốn thuỷ lực 25 t",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "28.892"
+    },
+    {
+      "Mã hiệu": "M202.0047",
+      "Loại máy và thiết bị": "Máy kéo nén uốn thuỷ lực 100 t",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "241.340"
+    },
+    {
+      "Mã hiệu": "M202.0048",
+      "Loại máy và thiết bị": "Máy gia tải - 20 t",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "37.261"
+    },
+    {
+      "Mã hiệu": "M202.0049",
+      "Loại máy và thiết bị": "Máy caragrang (làm thí nghiệm chảy)",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "6.306"
+    },
+    {
+      "Mã hiệu": "M202.0050",
+      "Loại máy và thiết bị": "Máy xác định hệ số thấm",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "86.447"
+    },
+    {
+      "Mã hiệu": "M202.0051",
+      "Loại máy và thiết bị": "Máy đo PH",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "9.287"
+    },
+    {
+      "Mã hiệu": "M202.0052",
+      "Loại máy và thiết bị": "Máy đo âm thanh",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "8.369"
+    },
+    {
+      "Mã hiệu": "M202.0053",
+      "Loại máy và thiết bị": "Máy đo chiều dày màng sơn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "107.772"
+    },
+    {
+      "Mã hiệu": "M202.0054",
+      "Loại máy và thiết bị": "Máy đo điện thế thí nghiệm ăn mòn cốt thép trong bê tông",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "92.408"
+    },
+    {
+      "Mã hiệu": "M202.0055",
+      "Loại máy và thiết bị": "Máy đo vết nứt",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "16.280"
+    },
+    {
+      "Mã hiệu": "M202.0056",
+      "Loại máy và thiết bị": "Máy đo tốc độ ăn mòn cốt thép trong bê tông",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "134.027"
+    },
+    {
+      "Mã hiệu": "M202.0057",
+      "Loại máy và thiết bị": "Máy đo độ thấm của I-on Clo",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "193.874"
+    },
+    {
+      "Mã hiệu": "M202.0058",
+      "Loại máy và thiết bị": "Dụng cụ đo độ cháy của than",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "12.038"
+    },
+    {
+      "Mã hiệu": "M202.0059",
+      "Loại máy và thiết bị": "Máy đo gia tốc",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "98.370"
+    },
+    {
+      "Mã hiệu": "M202.0060",
+      "Loại máy và thiết bị": "Máy ghi nhiệt ổn định",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "16.854"
+    },
+    {
+      "Mã hiệu": "M202.0061",
+      "Loại máy và thiết bị": "Máy đo chuyển vị",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "60.765"
+    },
+    {
+      "Mã hiệu": "M202.0062",
+      "Loại máy và thiết bị": "Máy xác định môđun",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "31.300"
+    },
+    {
+      "Mã hiệu": "M202.0063",
+      "Loại máy và thiết bị": "Máy so màu ngọn lửa",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "41.733"
+    },
+    {
+      "Mã hiệu": "M202.0064",
+      "Loại máy và thiết bị": "Máy so màu quang điện",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "107.313"
+    },
+    {
+      "Mã hiệu": "M202.0065",
+      "Loại máy và thiết bị": "Máy đo độ dãn dài Bitum",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "62.599"
+    },
+    {
+      "Mã hiệu": "M202.0066",
+      "Loại máy và thiết bị": "Máy chiết nhựa (Xốc lét)",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "8.828"
+    },
+    {
+      "Mã hiệu": "M202.0067",
+      "Loại máy và thiết bị": "Bộ thí nghiệm độ co ngót, trương nở",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "14.561"
+    },
+    {
+      "Mã hiệu": "M202.0068",
+      "Loại máy và thiết bị": "Bộ dụng cụ đo độ xuyên động hình côn DCP",
+      "Số ca năm": "180",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "1.376"
+    },
+    {
+      "Mã hiệu": "M202.0069",
+      "Loại máy và thiết bị": "Thiết bị thử tỷ diện",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "15.822"
+    },
+    {
+      "Mã hiệu": "M202.0070",
+      "Loại máy và thiết bị": "Bàn dằn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "26.828"
+    },
+    {
+      "Mã hiệu": "M202.0071",
+      "Loại máy và thiết bị": "Bàn rung",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "9.745"
+    },
+    {
+      "Mã hiệu": "M202.0072",
+      "Loại máy và thiết bị": "Máy khuấy bằng từ",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "15.249"
+    },
+    {
+      "Mã hiệu": "M202.0073",
+      "Loại máy và thiết bị": "Máy khuấy cầm tay NAG-2",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "9.057"
+    },
+    {
+      "Mã hiệu": "M202.0074",
+      "Loại máy và thiết bị": "Máy nghiền bi sứ LE1",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "8.369"
+    },
+    {
+      "Mã hiệu": "M202.0075",
+      "Loại máy và thiết bị": "Máy phân tích hạt Lazer",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "82.778"
+    },
+    {
+      "Mã hiệu": "M202.0076",
+      "Loại máy và thiết bị": "Máy phân tích vi nhiệt",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "67.071"
+    },
+    {
+      "Mã hiệu": "M202.0077",
+      "Loại máy và thiết bị": "Tenxômét",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "7.911"
+    },
+    {
+      "Mã hiệu": "M202.0078",
+      "Loại máy và thiết bị": "Máy đo độ giãn nở bê tông",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "83.466"
+    },
+    {
+      "Mã hiệu": "M202.0079",
+      "Loại máy và thiết bị": "Máy đo hệ số dẫn nhiệt",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "7.452"
+    },
+    {
+      "Mã hiệu": "M202.0080",
+      "Loại máy và thiết bị": "Máy nhiễu xạ Rơn ghen (phân tích thành phần hoá lý của vật liệu)",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "2.364.900"
+    },
+    {
+      "Mã hiệu": "M202.0081",
+      "Loại máy và thiết bị": "Cần ép mẫu thử gạch chịu lửa",
+      "Số ca năm": "120",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.147"
+    },
+    {
+      "Mã hiệu": "M202.0082",
+      "Loại máy và thiết bị": "Côn thử độ sụt",
+      "Số ca năm": "120",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "909"
+    },
+    {
+      "Mã hiệu": "M202.0083",
+      "Loại máy và thiết bị": "Dụng cụ xác định độ chịu lực va đập xung kích gạch lát xi măng (viên bi sắt)",
+      "Số ca năm": "120",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.147"
+    },
+    {
+      "Mã hiệu": "M202.0084",
+      "Loại máy và thiết bị": "Dụng cụ xác định giới hạn bền liên kết",
+      "Số ca năm": "120",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "803"
+    },
+    {
+      "Mã hiệu": "M202.0085",
+      "Loại máy và thiết bị": "Chén bạch kim",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "25.223"
+    },
+    {
+      "Mã hiệu": "M202.0086",
+      "Loại máy và thiết bị": "Kẹp niken",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "9.057"
+    },
+    {
+      "Mã hiệu": "M202.0087",
+      "Loại máy và thiết bị": "Máy siêu âm đo chiều dầy kim loại",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "42.306"
+    },
+    {
+      "Mã hiệu": "M202.0088",
+      "Loại máy và thiết bị": "Máy dò vị trí cốt thép",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "67.071"
+    },
+    {
+      "Mã hiệu": "M202.0089",
+      "Loại máy và thiết bị": "Máy siêu âm kiểm tra chất lượng mối hàn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "153.517"
+    },
+    {
+      "Mã hiệu": "M202.0090",
+      "Loại máy và thiết bị": "Máy siêu âm kiểm tra cường độ bê tông của cấu kiện bê tông, bê tông cốt thép tại hiện trường",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "64.204"
+    },
+    {
+      "Mã hiệu": "M202.0091",
+      "Loại máy và thiết bị": "Súng bi",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "8.599"
+    },
+    {
+      "Mã hiệu": "M202.0092",
+      "Loại máy và thiết bị": "Thiết bị hấp mẫu xi măng",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.200"
+    },
+    {
+      "Mã hiệu": "M202.0093",
+      "Loại máy và thiết bị": "Bình hút ẩm",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "500"
+    },
+    {
+      "Mã hiệu": "M202.0094",
+      "Loại máy và thiết bị": "Bộ dụng cụ xác định thấm nước",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "22.000"
+    },
+    {
+      "Mã hiệu": "M202.0095",
+      "Loại máy và thiết bị": "Bơm thủy lực ZB4-500",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "16.360"
+    },
+    {
+      "Mã hiệu": "M202.0096",
+      "Loại máy và thiết bị": "Đồng hồ đo áp lực",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "200"
+    },
+    {
+      "Mã hiệu": "M202.0097",
+      "Loại máy và thiết bị": "Đồng hồ đo biến dạng",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.200"
+    },
+    {
+      "Mã hiệu": "M202.0098",
+      "Loại máy và thiết bị": "Đồng hồ đo nước",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "2.800"
+    },
+    {
+      "Mã hiệu": "M202.0099",
+      "Loại máy và thiết bị": "Đồng hồ đo lún",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.800"
+    },
+    {
+      "Mã hiệu": "M202.0100",
+      "Loại máy và thiết bị": "Đồng hồ Shore A",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.500"
+    },
+    {
+      "Mã hiệu": "M202.0101",
+      "Loại máy và thiết bị": "Dụng cụ đo độ bền va đập",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.200"
+    },
+    {
+      "Mã hiệu": "M202.0102",
+      "Loại máy và thiết bị": "Dụng cụ đo hệ số giãn nở ẩm",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "5.000"
+    },
+    {
+      "Mã hiệu": "M202.0103",
+      "Loại máy và thiết bị": "Dụng cụ phá vỡ mẫu kính",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "2.500"
+    },
+    {
+      "Mã hiệu": "M202.0104",
+      "Loại máy và thiết bị": "Dụng cụ thử thấm mực",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "500"
+    },
+    {
+      "Mã hiệu": "M202.0105",
+      "Loại máy và thiết bị": "Dụng cụ Vica",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.900"
+    },
+    {
+      "Mã hiệu": "M202.0106",
+      "Loại máy và thiết bị": "Dụng cụ xác định độ bền va đập",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "90.000"
+    },
+    {
+      "Mã hiệu": "M202.0107",
+      "Loại máy và thiết bị": "Dụng cụ xác định độ bền va uốn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "80.000"
+    },
+    {
+      "Mã hiệu": "M202.0108",
+      "Loại máy và thiết bị": "Khuôn Capping mẫu",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.500"
+    },
+    {
+      "Mã hiệu": "M202.0109",
+      "Loại máy và thiết bị": "Khuôn dập mẫu",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "440"
+    },
+    {
+      "Mã hiệu": "M202.0110",
+      "Loại máy và thiết bị": "Kích kéo thủy lực 60 t",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "20.455"
+    },
+    {
+      "Mã hiệu": "M202.0111",
+      "Loại máy và thiết bị": "Kích thủy lực 800 t",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "124.150"
+    },
+    {
+      "Mã hiệu": "M202.0112",
+      "Loại máy và thiết bị": "Kính phóng đại đo lường",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "3.500"
+    },
+    {
+      "Mã hiệu": "M202.0113",
+      "Loại máy và thiết bị": "Kính lúp",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "200"
+    },
+    {
+      "Mã hiệu": "M202.0114",
+      "Loại máy và thiết bị": "Máy bộ đàm",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "350"
+    },
+    {
+      "Mã hiệu": "M202.0115",
+      "Loại máy và thiết bị": "Máy cắt quay tay",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.200"
+    },
+    {
+      "Mã hiệu": "M202.0116",
+      "Loại máy và thiết bị": "Máy cắt, mài mẫu vật liệu",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "18.000"
+    },
+    {
+      "Mã hiệu": "M202.0117",
+      "Loại máy và thiết bị": "Máy đo dao động điện tử (kèm đầu đo dao động 3 chiều)",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "281.375"
+    },
+    {
+      "Mã hiệu": "M202.0118",
+      "Loại máy và thiết bị": "Máy đo độ bóng",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "6.500"
+    },
+    {
+      "Mã hiệu": "M202.0119",
+      "Loại máy và thiết bị": "Máy khoan HILTI hoặc loại tương tự",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "15.000"
+    },
+    {
+      "Mã hiệu": "M202.0120",
+      "Loại máy và thiết bị": "Thiết bị đo độ dẫn nước",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "2.500"
+    },
+    {
+      "Mã hiệu": "M202.0121",
+      "Loại máy và thiết bị": "Thiết bị đo độ dày",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.500"
+    },
+    {
+      "Mã hiệu": "M202.0122",
+      "Loại máy và thiết bị": "Máy đo độ giãn nở nhiệt dài",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "2.500"
+    },
+    {
+      "Mã hiệu": "M202.0123",
+      "Loại máy và thiết bị": "Máy dò khuyết tật",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "3.500"
+    },
+    {
+      "Mã hiệu": "M202.0124",
+      "Loại máy và thiết bị": "Máy đo kích thước",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "2.500"
+    },
+    {
+      "Mã hiệu": "M202.0125",
+      "Loại máy và thiết bị": "Máy đo thời gian khô màng sơn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "3.000"
+    },
+    {
+      "Mã hiệu": "M202.0126",
+      "Loại máy và thiết bị": "Máy đo ứng suất bề mặt",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "5.000"
+    },
+    {
+      "Mã hiệu": "M202.0127",
+      "Loại máy và thiết bị": "Máy đo ứng suất điện tử",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "5.000"
+    },
+    {
+      "Mã hiệu": "M202.0128",
+      "Loại máy và thiết bị": "Máy Hveem",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "15.000"
+    },
+    {
+      "Mã hiệu": "M202.0129",
+      "Loại máy và thiết bị": "Máy kéo vải địa kỹ thuật",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "220.000"
+    },
+    {
+      "Mã hiệu": "M202.0130",
+      "Loại máy và thiết bị": "Máy kéo, nén WDW-100",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "220.000"
+    },
+    {
+      "Mã hiệu": "M202.0131",
+      "Loại máy và thiết bị": "Máy thử cơ lý thạch cao",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "5.000"
+    },
+    {
+      "Mã hiệu": "M202.0132",
+      "Loại máy và thiết bị": "Máy kiểm tra độ cứng",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "9.900"
+    },
+    {
+      "Mã hiệu": "M202.0133",
+      "Loại máy và thiết bị": "Máy làm sạch bằng siêu âm",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "3.500"
+    },
+    {
+      "Mã hiệu": "M202.0134",
+      "Loại máy và thiết bị": "Máy mài mòn bề mặt",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "18.000"
+    },
+    {
+      "Mã hiệu": "M202.0135",
+      "Loại máy và thiết bị": "Máy mài mòn sâu",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "4.500"
+    },
+    {
+      "Mã hiệu": "M202.0136",
+      "Loại máy và thiết bị": "Máy nén cố kết",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "25.000"
+    },
+    {
+      "Mã hiệu": "M202.0137",
+      "Loại máy và thiết bị": "Máy phân tích thành phần kim loại",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "10.000"
+    },
+    {
+      "Mã hiệu": "M202.0138",
+      "Loại máy và thiết bị": "Máy quang phổ đo hệ số phản xạ ánh sáng",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "50.000"
+    },
+    {
+      "Mã hiệu": "M202.0139",
+      "Loại máy và thiết bị": "Máy quang phổ đo hệ số truyền sáng",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "60.000"
+    },
+    {
+      "Mã hiệu": "M202.0140",
+      "Loại máy và thiết bị": "Máy siêu âm đo vết nứt",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "36.500"
+    },
+    {
+      "Mã hiệu": "M202.0141",
+      "Loại máy và thiết bị": "Máy soi kim tương",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "10.000"
+    },
+    {
+      "Mã hiệu": "M202.0142",
+      "Loại máy và thiết bị": "Máy thấm",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "19.900"
+    },
+    {
+      "Mã hiệu": "M202.0143",
+      "Loại máy và thiết bị": "Máy thử độ bền nén, uốn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "210.000"
+    },
+    {
+      "Mã hiệu": "M202.0144",
+      "Loại máy và thiết bị": "Máy thử độ bục",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "5.000"
+    },
+    {
+      "Mã hiệu": "M202.0145",
+      "Loại máy và thiết bị": "Máy thử độ rơi côn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "4.500"
+    },
+    {
+      "Mã hiệu": "M202.0146",
+      "Loại máy và thiết bị": "Máy uốn gạch",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "80.000"
+    },
+    {
+      "Mã hiệu": "M202.0147",
+      "Loại máy và thiết bị": "Nồi hấp áp suất cao (Autoclave)",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "5.500"
+    },
+    {
+      "Mã hiệu": "M202.0148",
+      "Loại máy và thiết bị": "Thiết bị đo chuyển vị Indicator",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "15.000"
+    },
+    {
+      "Mã hiệu": "M202.0149",
+      "Loại máy và thiết bị": "Thiết bị đo điểm sương",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "10.000"
+    },
+    {
+      "Mã hiệu": "M202.0150",
+      "Loại máy và thiết bị": "Thiết bị đo độ bền ẩm",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "10.000"
+    },
+    {
+      "Mã hiệu": "M202.0151",
+      "Loại máy và thiết bị": "Thiết bị đo độ cứng màng sơn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "5.000"
+    },
+    {
+      "Mã hiệu": "M202.0152",
+      "Loại máy và thiết bị": "Thiết bị đo độ dày",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.500"
+    },
+    {
+      "Mã hiệu": "M202.0153",
+      "Loại máy và thiết bị": "Thiết bị đo hệ số ma sát",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "5.000"
+    },
+    {
+      "Mã hiệu": "M202.0154",
+      "Loại máy và thiết bị": "Thiết bị đo thử độ kín",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "5.000"
+    },
+    {
+      "Mã hiệu": "M202.0155",
+      "Loại máy và thiết bị": "Thiết bị thử tính năng sử dụng của sứ vệ sinh",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "15.000"
+    },
+    {
+      "Mã hiệu": "M202.0156",
+      "Loại máy và thiết bị": "Thiết bị thử va đập phản hồi",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "10.000"
+    },
+    {
+      "Mã hiệu": "M202.0157",
+      "Loại máy và thiết bị": "Tủ chiếu UV",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "5.000"
+    },
+    {
+      "Mã hiệu": "M202.0158",
+      "Loại máy và thiết bị": "Tủ khí hậu",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "60.000"
+    },
+    {
+      "Mã hiệu": "M202.0159",
+      "Loại máy và thiết bị": "Thước đo vết nứt",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "139"
+    },
+    {
+      "Mã hiệu": "M202.0160",
+      "Loại máy và thiết bị": "Vi kế",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "139"
+    },
+    {
+      "Mã hiệu": "M202.0161",
+      "Loại máy và thiết bị": "Máy scanner (khổ Ao)",
+      "Số ca năm": "150",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "119.581"
+    },
+    {
+      "Mã hiệu": "M202.0162",
+      "Loại máy và thiết bị": "Máy vẽ plotter",
+      "Số ca năm": "220",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "99.975"
+    },
+    {
+      "Mã hiệu": "M202.0163",
+      "Loại máy và thiết bị": "Máy vi tính",
+      "Số ca năm": "220",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "10.089"
+    },
+    {
+      "Mã hiệu": "M202.0164",
+      "Loại máy và thiết bị": "Máy tính xách tay",
+      "Số ca năm": "220",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "18.917"
+    },
+    {
+      "Mã hiệu": "M202.0165",
+      "Loại máy và thiết bị": "Bể ổn nhiệt",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "7.452"
+    },
+    {
+      "Mã hiệu": "M202.0166",
+      "Loại máy và thiết bị": "Bếp gas công nghiệp",
+      "Số ca năm": "150",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "500"
+    },
+    {
+      "Mã hiệu": "M202.0167",
+      "Loại máy và thiết bị": "Bình thử bọt khí",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "27.000"
+    },
+    {
+      "Mã hiệu": "M202.0168",
+      "Loại máy và thiết bị": "Bộ dụng cụ xác định hàm lượng cát",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.500"
+    },
+    {
+      "Mã hiệu": "M202.0169",
+      "Loại máy và thiết bị": "Bộ thiết bị thí nghiệm điểm hóa mềm (ELE)",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "303.030"
+    },
+    {
+      "Mã hiệu": "M202.0170",
+      "Loại máy và thiết bị": "Dụng cụ đo nhám",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "500"
+    },
+    {
+      "Mã hiệu": "M202.0171",
+      "Loại máy và thiết bị": "Dụng cụ thử va đập bi rơi",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.200"
+    },
+    {
+      "Mã hiệu": "M202.0172",
+      "Loại máy và thiết bị": "Dụng cụ thử va đập con lắc",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.200"
+    },
+    {
+      "Mã hiệu": "M202.0173",
+      "Loại máy và thiết bị": "Dụng cụ thử xuyên",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.900"
+    },
+    {
+      "Mã hiệu": "M202.0174",
+      "Loại máy và thiết bị": "Dụng cụ xác định sự thay đổi chiều dài của mẫu vữa",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "2.200"
+    },
+    {
+      "Mã hiệu": "M202.0175",
+      "Loại máy và thiết bị": "Dụng cụ xác định thời gian bắt đầu đông kết",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "3.000"
+    },
+    {
+      "Mã hiệu": "M202.0176",
+      "Loại máy và thiết bị": "Khoáng chuẩn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.000"
+    },
+    {
+      "Mã hiệu": "M202.0177",
+      "Loại máy và thiết bị": "Khung giá máy & Máy gia tải 50 tấn kỹ thuật số",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "37.261"
+    },
+    {
+      "Mã hiệu": "M202.0178",
+      "Loại máy và thiết bị": "Máy Gigarang",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "10.000"
+    },
+    {
+      "Mã hiệu": "M202.0179",
+      "Loại máy và thiết bị": "Máy SHWD",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "2.056.833"
+    },
+    {
+      "Mã hiệu": "M202.0180",
+      "Loại máy và thiết bị": "Máy bào gỗ",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.200"
+    },
+    {
+      "Mã hiệu": "M202.0181",
+      "Loại máy và thiết bị": "Máy cắt Makita",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "3.979"
+    },
+    {
+      "Mã hiệu": "M202.0182",
+      "Loại máy và thiết bị": "Máy cắt phẳng",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "25.000"
+    },
+    {
+      "Mã hiệu": "M202.0183",
+      "Loại máy và thiết bị": "Máy đầm xoay",
+      "Số ca năm": "220",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "6.306"
+    },
+    {
+      "Mã hiệu": "M202.0184",
+      "Loại máy và thiết bị": "Máy đo chiều dày lớp bê tông bảo vệ và đo đường kính cốt thép",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "114.350"
+    },
+    {
+      "Mã hiệu": "M202.0185",
+      "Loại máy và thiết bị": "Máy đo độ đàn hồi",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "62.599"
+    },
+    {
+      "Mã hiệu": "M202.0186",
+      "Loại máy và thiết bị": "Máy kéo, nén thủy lực 0,5 tấn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "8.369"
+    },
+    {
+      "Mã hiệu": "M202.0187",
+      "Loại máy và thiết bị": "Máy kéo, nén thủy lực 20 tấn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "25.000"
+    },
+    {
+      "Mã hiệu": "M202.0188",
+      "Loại máy và thiết bị": "Máy kéo, nén thủy lực 200 tấn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "62.000"
+    },
+    {
+      "Mã hiệu": "M202.0189",
+      "Loại máy và thiết bị": "Máy kéo, nén thủy lực 50 tấn",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "35.656"
+    },
+    {
+      "Mã hiệu": "M202.0190",
+      "Loại máy và thiết bị": "Máy khoan lấy mẫu chuyên dụng",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "6.800"
+    },
+    {
+      "Mã hiệu": "M202.0191",
+      "Loại máy và thiết bị": "Máy khuấy và làm mát nước",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "5.500"
+    },
+    {
+      "Mã hiệu": "M202.0192",
+      "Loại máy và thiết bị": "Máy thử cường độ bám dính",
+      "Số ca năm": "220",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "18.000"
+    },
+    {
+      "Mã hiệu": "M202.0193",
+      "Loại máy và thiết bị": "Máy thử độ chống thấm",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "18.000"
+    },
+    {
+      "Mã hiệu": "M202.0194",
+      "Loại máy và thiết bị": "Máy thử kéo xác định cường độ bám dính",
+      "Số ca năm": "220",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "18.000"
+    },
+    {
+      "Mã hiệu": "M202.0195",
+      "Loại máy và thiết bị": "Máy xác định độ thấm nước của bê tông kiểu C430 (hoặc C431)",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "19.900"
+    },
+    {
+      "Mã hiệu": "M202.0196",
+      "Loại máy và thiết bị": "Nhớt kế",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "20.000"
+    },
+    {
+      "Mã hiệu": "M202.0197",
+      "Loại máy và thiết bị": "Nhớt kế Suttard",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "150"
+    },
+    {
+      "Mã hiệu": "M202.0198",
+      "Loại máy và thiết bị": "Nhớt kế Vebe",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "6.000"
+    },
+    {
+      "Mã hiệu": "M202.0199",
+      "Loại máy và thiết bị": "Súng bật nẩy",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "9.000"
+    },
+    {
+      "Mã hiệu": "M202.0200",
+      "Loại máy và thiết bị": "Thiết bị đo góc nghỉ của cát",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "2.000"
+    },
+    {
+      "Mã hiệu": "M202.0201",
+      "Loại máy và thiết bị": "Thiết bị đo góc nghỉ tự nhiên của đất rời",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.500"
+    },
+    {
+      "Mã hiệu": "M202.0202",
+      "Loại máy và thiết bị": "Thiết bị đo nhiệt độ bê tông",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.800"
+    },
+    {
+      "Mã hiệu": "M202.0203",
+      "Loại máy và thiết bị": "Thiết bị đo nhiệt lượng",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.500"
+    },
+    {
+      "Mã hiệu": "M202.0204",
+      "Loại máy và thiết bị": "Thiết bị gia nhiệt vòng và bi",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "10.000"
+    },
+    {
+      "Mã hiệu": "M202.0205",
+      "Loại máy và thiết bị": "Thiết bị thử tải trọng",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "10.000"
+    },
+    {
+      "Mã hiệu": "M202.0206",
+      "Loại máy và thiết bị": "Thiết bị wheel tracking",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.387.200"
+    },
+    {
+      "Mã hiệu": "M202.0207",
+      "Loại máy và thiết bị": "Thiết bị xác định độ bền cọ rửa",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "40.000"
+    },
+    {
+      "Mã hiệu": "M202.0208",
+      "Loại máy và thiết bị": "Thiết bị xác định thay đổi chiều cao cột vữa",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "1.000"
+    },
+    {
+      "Mã hiệu": "M202.0209",
+      "Loại máy và thiết bị": "Xe chuyên dùng",
+      "Số ca năm": "180",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "546.000"
+    },
+    {
+      "Mã hiệu": "M202.0210",
+      "Loại máy và thiết bị": "Dụng cụ vòng và bi",
+      "Số ca năm": "200",
+      "Định mức (%)": "4",
+      "Nguyên giá tham khảo (1000 VND)": "3.500"
+    },
+    {
+      "Mã hiệu": "M203.0000",
+      "Loại máy và thiết bị": "MÁY VÀ THIẾT BỊ THÍ NGHIỆM ĐIỆN, ĐƯỜNG DÂY VÀ TRẠM BIẾN ÁP",
+      "Số ca năm": "",
+      "Định mức (%)": "",
+      "Nguyên giá tham khảo (1000 VND)": ""
+    },
+    {
+      "Mã hiệu": "M203.0001",
+      "Loại máy và thiết bị": "Bộ tạo nguồn 3 pha",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "508.246"
+    },
+    {
+      "Mã hiệu": "M203.0002",
+      "Loại máy và thiết bị": "Bộ nguồn AC-DC",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "49.988"
+    },
+    {
+      "Mã hiệu": "M203.0003",
+      "Loại máy và thiết bị": "Công tơ mẫu xách tay",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "210.613"
+    },
+    {
+      "Mã hiệu": "M203.0004",
+      "Loại máy và thiết bị": "Hộp bộ đo tgd Delta",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "1.000.900"
+    },
+    {
+      "Mã hiệu": "M203.0005",
+      "Loại máy và thiết bị": "Hợp bộ đo lường",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "946.212"
+    },
+    {
+      "Mã hiệu": "M203.0006",
+      "Loại máy và thiết bị": "Hợp bộ phân tích hàm lượng khí",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "1.618.868"
+    },
+    {
+      "Mã hiệu": "M203.0007",
+      "Loại máy và thiết bị": "Hợp bộ thí nghiệm cao áp",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "507.559"
+    },
+    {
+      "Mã hiệu": "M203.0008",
+      "Loại máy và thiết bị": "Hợp bộ thí nghiệm rơle",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "955.957"
+    },
+    {
+      "Mã hiệu": "M203.0009",
+      "Loại máy và thiết bị": "Máy điều chỉnh điện áp 1pha",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "19.835"
+    },
+    {
+      "Mã hiệu": "M203.0010",
+      "Loại máy và thiết bị": "Máy đo độ A xít",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "182.524"
+    },
+    {
+      "Mã hiệu": "M203.0011",
+      "Loại máy và thiết bị": "Máy đo độ chớp cháy kín",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "174.957"
+    },
+    {
+      "Mã hiệu": "M203.0012",
+      "Loại máy và thiết bị": "Máy đo độ nhớt",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "150.307"
+    },
+    {
+      "Mã hiệu": "M203.0013",
+      "Loại máy và thiết bị": "Máy đo điện áp xuyên thủng",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "36.574"
+    },
+    {
+      "Mã hiệu": "M203.0014",
+      "Loại máy và thiết bị": "Máy đo điện trở một chiều",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "179.658"
+    },
+    {
+      "Mã hiệu": "M203.0015",
+      "Loại máy và thiết bị": "Máy đo điện trở tiếp địa",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "61.109"
+    },
+    {
+      "Mã hiệu": "M203.0016",
+      "Loại máy và thiết bị": "Máy đo điện trở tiếp xúc",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "104.905"
+    },
+    {
+      "Mã hiệu": "M203.0017",
+      "Loại máy và thiết bị": "Cầu đo tang dầu cách điện",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "365.277"
+    },
+    {
+      "Mã hiệu": "M203.0018",
+      "Loại máy và thiết bị": "Máy đo tỷ trọng",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "73.491"
+    },
+    {
+      "Mã hiệu": "M203.0019",
+      "Loại máy và thiết bị": "Máy đo vạn năng",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "151.224"
+    },
+    {
+      "Mã hiệu": "M203.0020",
+      "Loại máy và thiết bị": "Máy chụp sóng",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "521.317"
+    },
+    {
+      "Mã hiệu": "M203.0021",
+      "Loại máy và thiết bị": "Máy kiểm tra độ ổn định oxy hoá dầu",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "374.105"
+    },
+    {
+      "Mã hiệu": "M203.0022",
+      "Loại máy và thiết bị": "Máy phát tần số",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "133.224"
+    },
+    {
+      "Mã hiệu": "M203.0023",
+      "Loại máy và thiết bị": "Máy phân tích độ ẩm khí SF6",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "184.244"
+    },
+    {
+      "Mã hiệu": "M203.0024",
+      "Loại máy và thiết bị": "Máy đo vi lượng ẩm",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "166.702"
+    },
+    {
+      "Mã hiệu": "M203.0025",
+      "Loại máy và thiết bị": "Mê gôm mét",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "50.446"
+    },
+    {
+      "Mã hiệu": "M203.0026",
+      "Loại máy và thiết bị": "Thiết bị kiểm tra áp lực",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "86.332"
+    },
+    {
+      "Mã hiệu": "M203.0027",
+      "Loại máy và thiết bị": "Thiết bị tạo dòng điện",
+      "Số ca năm": "220",
+      "Định mức (%)": "5",
+      "Nguyên giá tham khảo (1000 VND)": "499.762"
+    }
+  ]
+}

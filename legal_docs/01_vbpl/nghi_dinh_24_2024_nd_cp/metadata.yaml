@@ -1,12 +1,19 @@
 id: nghi_dinh_24_2024_nd_cp
-title: Nghị định 24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu
 document_number: 24/2024/NĐ-CP
+title: Nghị định 24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành
+  Luật Đấu thầu về lựa chọn nhà thầu
 type: Nghị định
 issued_by: Chính phủ
+signer: Đang cập nhật
 issued_date: '2024-02-27'
 effective_date: '2024-02-27'
 status: active
-doc_type: vbpl
-relations:
-  guided_by: Luat-Dau-thau-2023-22-2023-QH15
-  replaces: 63/2014/NĐ-CP
+pdf_path: legal_docs/01_vbpl/nghi_dinh_24_2024_nd_cp/nghi_dinh_24_2024_nd_cp.pdf
+pdf_sha256: 810b9139d0074b49ab5b873667793d4c52433fc365fbfec787db408c17a1b104
+pdf_status: verified
+legal_basis:
+- doc_id: luật_tổ_chức_chính_phủ_ngày_19_tháng_6_năm_2015
+  title: Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015
+- doc_id: luật_đấu_thầu_ngày_23_tháng_6_năm_2023
+  title: Luật Đấu thầu ngày 23 tháng 6 năm 2023
+replaces: 63/2014/NĐ-CP

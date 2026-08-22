@@ -14,19 +14,21 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 01__
 
-__CƠ QUAN CHUẨN BỊ DỰ ÁN
+__CƠ QUAN CHUẨN BỊ DỰ ÁN  
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
 ---------------__
 
 Số: ...
 
 *..., ngày ... tháng ... năm ...*
 
-__TỜ TRÌNH__
-__Thẩm định Báo cáo nghiên cứu khả thi__
+ 
+
+__TỜ TRÌNH__  
+__Thẩm định Báo cáo nghiên cứu khả thi__  
 __*(tên dự án/công trình của dự án)*__
 
 Kính gửi: *(Cơ quan chuyên môn về xây dựng1).*
@@ -95,13 +97,15 @@ __II.__ __DANH MỤC HỒ SƠ TRÌNH THẨM ĐỊNH__
 
 *(Cơ quan chuẩn bị dự án)* trình *(Cơ quan chuyên môn về xây dựng)* thẩm định Báo cáo nghiên cứu khả thi *(tên dự án/công trình của dự án)* với các nội dung nêu trên.
 
-__*Nơi nhận:*__
-- Như trên;
-- Cơ quan chuyên môn về xây dựng thuộc UBND cấp tỉnh... (để biết và quản lý)6;
+ 
+
+__*Nơi nhận:*__  
+- Như trên;  
+- Cơ quan chuyên môn về xây dựng thuộc UBND cấp tỉnh... (để biết và quản lý)6;  
 - Lưu:...
 
-__CƠ QUAN CHUẨN BỊ DỰ ÁN__
-*(Ký, ghi rõ họ và tên,
+__CƠ QUAN CHUẨN BỊ DỰ ÁN__  
+*(Ký, ghi rõ họ và tên,  
 chức vụ và đóng dấu)*
 
 ________________________________

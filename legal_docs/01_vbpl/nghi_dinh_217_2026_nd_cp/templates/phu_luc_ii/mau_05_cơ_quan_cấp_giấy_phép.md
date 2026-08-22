@@ -14,18 +14,22 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 05__
 
-__CƠ QUAN CẤP GIẤY PHÉP
-XÂY DỰNG...__
+__CƠ QUAN CẤP GIẤY PHÉP  
+XÂY DỰNG...__  
 __-------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
 ---------------__
+
+ 
 
 *...., ngày ... tháng ... năm ...*
 
-__GIẤY PHÉP XÂY DỰNG CÓ THỜI HẠN__
-Số: .../GPXD
+ 
+
+__GIẤY PHÉP XÂY DỰNG CÓ THỜI HẠN__  
+Số: .../GPXD  
 *(Sử dụng cho công trình, công trình nhà ở riêng lẻ)*
 
 **1.** Nội dung tương ứng với nội dung của giấy phép xây dựng đối với các loại công trình và công trình nhà ở riêng lẻ.
@@ -38,12 +42,16 @@ Mã định danh công trình xây dựng (theo quy định của Chính phủ v
 
 **4.** Giấy phép này có hiệu lực khởi công xây dựng trong thời hạn 12 tháng kể từ ngày cấp; quá thời hạn trên thì phải đề nghị gia hạn giấy phép xây dựng.
 
-__*Nơi nhận:*__
-- Chủ đầu tư;
+ 
+
+__*Nơi nhận:*__  
+- Chủ đầu tư;  
 - Lưu: VT, ......
 
-__CƠ QUAN CẤP GIẤY PHÉP XÂY DỰNG__
+__CƠ QUAN CẤP GIẤY PHÉP XÂY DỰNG__  
 *(Ký tên, đóng dấu)*
+
+ 
 
 __CHỦ ĐẦU TƯ PHẢI THỰC HIỆN CÁC NỘI DUNG SAU ĐÂY:__
 
@@ -63,6 +71,10 @@ __ĐIỀU CHỈNH/GIA HẠN GIẤY PHÉP__
 
 **2.** Thời gian có hiệu lực của giấy phép: ..........................................................................
 
-*..., ngày... tháng... năm ...*
-__CƠ QUAN CẤP GIẤY PHÉP XÂY DỰNG__
+ 
+
+ 
+
+*..., ngày... tháng... năm ...*  
+__CƠ QUAN CẤP GIẤY PHÉP XÂY DỰNG__  
 *(Ký tên, đóng dấu)*

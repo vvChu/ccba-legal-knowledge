@@ -1,0 +1,71 @@
+{
+  "table_id": "bang_15",
+  "rows_count": 8,
+  "columns_count": 6,
+  "headers": [
+    "STT",
+    "NỘI DUNG CHI PHÍ",
+    "GIÁ TRỊ TRƯỚC THUẾ",
+    "THUẾ GTGT",
+    "GIÁ TRỊ SAU THUẾ",
+    "KÝ HIỆU"
+  ],
+  "records": [
+    {
+      "STT": "[1]",
+      "NỘI DUNG CHI PHÍ": "[2]",
+      "GIÁ TRỊ TRƯỚC THUẾ": "[3]",
+      "THUẾ GTGT": "[4]",
+      "GIÁ TRỊ SAU THUẾ": "[5]",
+      "KÝ HIỆU": "[6]"
+    },
+    {
+      "STT": "1",
+      "NỘI DUNG CHI PHÍ": "Chi phí bảo hiểm công trình",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": ""
+    },
+    {
+      "STT": "2",
+      "NỘI DUNG CHI PHÍ": "Phí thẩm định thiết kế",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": ""
+    },
+    {
+      "STT": "3",
+      "NỘI DUNG CHI PHÍ": "Chi phí kiểm tra công tác nghiệm thu",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": ""
+    },
+    {
+      "STT": "...",
+      "NỘI DUNG CHI PHÍ": "...",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": ""
+    },
+    {
+      "STT": "...",
+      "NỘI DUNG CHI PHÍ": "Các loại chi phí khác có liên quan",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": ""
+    },
+    {
+      "STT": "",
+      "NỘI DUNG CHI PHÍ": "TỔNG CỘNG",
+      "GIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGT": "",
+      "GIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆU": "GK"
+    }
+  ]
+}

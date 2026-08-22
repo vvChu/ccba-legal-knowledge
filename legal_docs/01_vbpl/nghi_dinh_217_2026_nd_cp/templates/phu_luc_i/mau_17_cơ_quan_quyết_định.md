@@ -14,20 +14,22 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 __Mẫu số 17__
 
-__CƠ QUAN QUYẾT ĐỊNH
+__CƠ QUAN QUYẾT ĐỊNH  
 -------__
 
-__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
-Độc lập - Tự do - Hạnh phúc
+__CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  
+Độc lập - Tự do - Hạnh phúc  
 ---------------__
 
 Số: ...
 
 *..., ngày ... tháng ... năm ...*
 
+ 
+
 __QUYẾT ĐỊNH__
 
-__Ban hành Lệnh xây dựng công trình khẩn cấp
+__Ban hành Lệnh xây dựng công trình khẩn cấp  
 *(tên dự án/công trình)*__
 
 __NGƯỜI QUYẾT ĐỊNH__
@@ -72,12 +74,14 @@ __Điều 3. __Quyết định này có hiệu lực thi hành kể từ ngày k
 
 __Điều 4. __Tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này.
 
-__*Nơi nhận:*__
-- Như Điều 4;
-- Các cơ quan có liên quan;
+ 
+
+__*Nơi nhận:*__  
+- Như Điều 4;  
+- Các cơ quan có liên quan;  
 - Lưu:...
 
-__NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ__
+__NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ__  
 *(Ký, ghi rõ họ và tên, chức vụ và đóng dấu)*
 
 ___________________________

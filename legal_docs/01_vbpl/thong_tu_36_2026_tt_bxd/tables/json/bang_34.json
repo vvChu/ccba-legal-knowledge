@@ -1,0 +1,187 @@
+{
+  "table_id": "bang_34",
+  "rows_count": 18,
+  "columns_count": 8,
+  "headers": [
+    "TÊN CÔNG TÁC",
+    "MÃ HIỆU ĐƠN GIÁ",
+    "MÃ HIỆU VL, NC, M",
+    "THÀNH PHẦN HAO PHÍ",
+    "ĐƠN VỊ TÍNH",
+    "KHỐI LƯỢNG",
+    "ĐƠN GIÁ",
+    "THÀNH TIỀN"
+  ],
+  "records": [
+    {
+      "TÊN CÔNG TÁC": "[1]",
+      "MÃ HIỆU ĐƠN GIÁ": "[2]",
+      "MÃ HIỆU VL, NC, M": "[3]",
+      "THÀNH PHẦN HAO PHÍ": "[4]",
+      "ĐƠN VỊ TÍNH": "[5]",
+      "KHỐI LƯỢNG": "[6]",
+      "ĐƠN GIÁ": "[7]",
+      "THÀNH TIỀN": "[8]"
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "",
+      "THÀNH PHẦN HAO PHÍ": "Chi phí VL",
+      "ĐƠN VỊ TÍNH": "VL",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "V.1",
+      "THÀNH PHẦN HAO PHÍ": "",
+      "ĐƠN VỊ TÍNH": "",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "V.2",
+      "THÀNH PHẦN HAO PHÍ": "",
+      "ĐƠN VỊ TÍNH": "",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "...",
+      "THÀNH PHẦN HAO PHÍ": "",
+      "ĐƠN VỊ TÍNH": "",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "",
+      "THÀNH PHẦN HAO PHÍ": "Cộng",
+      "ĐƠN VỊ TÍNH": "",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "",
+      "THÀNH PHẦN HAO PHÍ": "Chi phí NC",
+      "ĐƠN VỊ TÍNH": "NC",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "NC.1",
+      "THÀNH PHẦN HAO PHÍ": "",
+      "ĐƠN VỊ TÍNH": "công",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "NC.2",
+      "THÀNH PHẦN HAO PHÍ": "",
+      "ĐƠN VỊ TÍNH": "công",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "...",
+      "THÀNH PHẦN HAO PHÍ": "",
+      "ĐƠN VỊ TÍNH": "",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "",
+      "THÀNH PHẦN HAO PHÍ": "Cộng",
+      "ĐƠN VỊ TÍNH": "",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "",
+      "THÀNH PHẦN HAO PHÍ": "Chi phí MTC",
+      "ĐƠN VỊ TÍNH": "MTC",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "M.1",
+      "THÀNH PHẦN HAO PHÍ": "",
+      "ĐƠN VỊ TÍNH": "ca",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "M.2",
+      "THÀNH PHẦN HAO PHÍ": "",
+      "ĐƠN VỊ TÍNH": "ca",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "...",
+      "THÀNH PHẦN HAO PHÍ": "",
+      "ĐƠN VỊ TÍNH": "",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 1",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.1",
+      "MÃ HIỆU VL, NC, M": "",
+      "THÀNH PHẦN HAO PHÍ": "Cộng",
+      "ĐƠN VỊ TÍNH": "",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    },
+    {
+      "TÊN CÔNG TÁC": "Công tác xây dựng 2",
+      "MÃ HIỆU ĐƠN GIÁ": "DG.2",
+      "MÃ HIỆU VL, NC, M": "...",
+      "THÀNH PHẦN HAO PHÍ": "",
+      "ĐƠN VỊ TÍNH": "",
+      "KHỐI LƯỢNG": "",
+      "ĐƠN GIÁ": "",
+      "THÀNH TIỀN": ""
+    }
+  ]
+}

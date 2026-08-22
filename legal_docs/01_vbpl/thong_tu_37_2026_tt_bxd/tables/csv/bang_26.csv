@@ -1,0 +1,664 @@
+﻿Mã hiệu,Loại máy và thiết bị,Số ca năm,Định mức (%),Định mức (%),Định mức (%),"Định mức tiêu hao nhiên liệu, năng lượng (1ca)","Nhân công vận hành, điều khiển máy",Nguyên giá tham khảo (1.000 VND)
+Mã hiệu,Loại máy và thiết bị,Số ca năm,Khấu hao,Sửa chữa,Chi phí khác,"Định mức tiêu hao nhiên liệu, năng lượng (1ca)","Nhân công vận hành, điều khiển máy",Nguyên giá tham khảo (1.000 VND)
+1,2,3,4,5,6,7,8,9
+M101.0000,MÁY THI CÔNG ĐẤT VÀ LU LÈN,,,,,,,
+M101.0100,"Máy đào một gầu, bánh xích - dung tích gầu:",,,,,,,
+M101.0101,"0,40 m3",280,"17,0","5,80",5,43 lít diezel,1 nhân công vận hành,809.944
+M101.0102,"0,50 m3",280,"17,0","5,80",5,51 lít diezel,1 nhân công vận hành,952.186
+M101.0103,"0,65 m3",280,"17,0","5,80",5,59 lít diezel,1 nhân công vận hành,1.075.609
+M101.0104,"0,80 m3",280,"17,0","5,80",5,65 lít diezel,1 nhân công vận hành,1.183.203
+M101.0105,"1,25 m3",280,"17,0","5,80",5,83 lít diezel,1 nhân công vận hành,1.863.636
+M101.0106,"1,60 m3",280,"16,0","5,50",5,113 lít diezel,1 nhân công vận hành,2.244.200
+M101.0107,"2,30 m3",280,"16,0","5,50",5,138 lít diezel,1 nhân công vận hành,3.258.264
+M101.0108,"3,60 m3",300,"14,0","4,00",5,199 lít diezel,1 nhân công vận hành,6.504.000
+M101.0115,"Máy đào 1,25 m3 gắn đầu búa thủy lực/hàm kẹp",280,"17,0","5,80",5,83 lít diezel,1 nhân công vận hành,2.150.000
+M101.0116,"Máy đào 1,60 m3 gắn đầu búa thủy lực",300,"16,0","5,50",5,113 lít diezel,1 nhân công vận hành,2.530.564
+M101.0200,"Máy đào một gầu, bánh hơi - dung tích gầu:",,,,,,,
+M101.0201,"0,80 m3",260,"17,0","5,40",5,57 lít diezel,1 nhân công vận hành,1.172.647
+M101.0202,"1,25 m3",260,"17,0","4,70",5,73 lít diezel,1 nhân công vận hành,2.084.693
+M101.0300,Máy đào gầu dây - dung tích gầu:,,,,,,,
+M101.0301,"0,40 m3",260,"17,0","5,80",5,59 lít diezel,1 nhân công vận hành,1.080.697
+M101.0302,"0,65 m3",260,"17,0","5,80",5,65 lít diezel,1 nhân công vận hành,1.188.698
+M101.0303,"1,20 m3",260,"16,0","5,50",5,113 lít diezel,1 nhân công vận hành,2.208.172
+M101.0304,"1,60 m3",260,"16,0","5,50",5,128 lít diezel,1 nhân công vận hành,2.806.763
+M101.0305,"2,30 m3",260,"16,0","5,50",5,164 lít diezel,1 nhân công vận hành,3.732.682
+M101.0306,"2,50 m3",260,"16,0","5,50",5,174 lít diezel,1 nhân công vận hành,3.763.258
+M101.0307,"3,50 m3",260,"16,0","5,50",5,225 lít diezel,1 nhân công vận hành,3.916.136
+M101.0400,Máy xúc lật - dung tích gầu:,,,,,,,
+M101.0401,"0,65 m3",280,"16,0","4,80",5,29 lít diezel,1 nhân công vận hành,690.656
+M101.0402,"0,9 m3",280,"16,0","4,80",5,39 lít diezel,1 nhân công vận hành,911.473
+M101.0403,"1,25 m3",280,"16,0","4,80",5,47 lít diezel,1 nhân công vận hành,1.061.665
+M101.0404,"1,6m3 ÷ 1,65 m3",280,"16,0","4,80",5,75 lít diezel,1 nhân công vận hành,1.362.509
+M101.0405,"2,30 m3",280,"14,0","4,40",5,95 lít diezel,1 nhân công vận hành,1.769.175
+M101.0406,"3,20 m3",280,"14,0","3,80",5,134 lít diezel,1 nhân công vận hành,3.282.220
+M101.0500,Máy ủi - công suất:,,,,,,,
+M101.0501,75 cv,280,"18,0","6,00",5,38 lít diezel,1 nhân công vận hành,496.093
+M101.0502,100 cv,280,"14,0","5,80",5,44 lít diezel,1 nhân công vận hành,792.756
+M101.0503,110 cv,280,"14,0","5,80",5,46 lít diezel,1 nhân công vận hành,851.855
+M101.0504,140 cv,280,"14,0","5,80",5,59 lít diezel,1 nhân công vận hành,1.366.980
+M101.0505,180 cv,280,"14,0","5,50",5,76 lít diezel,1 nhân công vận hành,1.753.811
+M101.0506,240 cv,280,"13,0","5,20",5,94 lít diezel,1 nhân công vận hành,2.203.242
+M101.0507,320 cv,280,"12,0","4,10",5,125 lít diezel,1 nhân công vận hành,3.710.784
+M101.0600,Máy cạp tự hành - dung tích thùng:,,,,,,,
+M101.0601,9 m3,280,"14,0","4,20",5,132 lít diezel,1 nhân công vận hành,1.727.900
+M101.0602,16 m3,280,"14,0","4,00",5,154 lít diezel,1 nhân công vận hành,2.631.577
+M101.0603,25 m3,280,"13,0","4,00",5,182 lít diezel,1 nhân công vận hành,3.289.328
+M101.0700,Máy san tự hành - công suất:,,,,,,,
+M101.0701,110 cv,230,"15,0","3,60",5,39 lít diezel,1 nhân công vận hành,1.022.799
+M101.0702,140 cv,230,"14,0","3,08",5,44 lít diezel,1 nhân công vận hành,1.370.764
+M101.0703,180 cv,250,"14,0","3,10",5,54 lít diezel,1 nhân công vận hành,1.713.454
+M101.0800,Máy đầm đất cầm tay - trọng lượng:,,,,,,,
+M101.0801,50 kg,200,"20,0","5,40",4,3 lít xăng,1 nhân công vận hành,26.484
+M101.0802,60 kg,200,"20,0","5,40",4,"3,5 lít xăng",1 nhân công vận hành,33.134
+M101.0803,70 kg,200,"20,0","5,40",4,4 lít xăng,1 nhân công vận hành,35.771
+M101.0804,80 kg,200,"20,0","5,40",4,5 lít xăng,1 nhân công vận hành,37.663
+M101.0900,Máy lu bánh hơi tự hành - trọng lượng tĩnh:,,,,,,,
+M101.0901,9 t,270,"15,0","4,30",5,34 lít diezel,1 nhân công vận hành,611.661
+M101.0902,16 t,270,"15,0","4,30",5,38 lít diezel,1 nhân công vận hành,695.012
+M101.0903,18 t,270,"14,0","4,30",5,42 lít diezel,1 nhân công vận hành,765.981
+M101.0904,25 t,270,"14,0","4,10",5,55 lít diezel,1 nhân công vận hành,873.524
+M101.1000,Máy lu rung tự hành - trọng lượng tĩnh:,,,,,,,
+M101.1001,8 t,270,"14,0","4,60",5,19 lít diezel,1 nhân công vận hành,778.593
+M101.1002,12 t,270,"14,0","4,60",5,27 lít diezel,1 nhân công vận hành,1.008.000
+M101.1003,15 t,270,"14,0","4,30",5,39 lít diezel,1 nhân công vận hành,1.268.266
+M101.1004,18 t,270,"14,0","4,30",5,53 lít diezel,1 nhân công vận hành,1.484.153
+M101.1005,20t,270,"14,0","4,30",5,61 lít diezel,1 nhân công vận hành,1.535.452
+M101.1006,25 t,270,"14,0","3,70",5,67 lít diezel,1 nhân công vận hành,1.668.970
+M101.1100,Máy lu bánh thép tự hành - trọng lượng tĩnh:,,,,,,,
+M101.1101,"6,0 t",270,"15,0","2,90",5,20 lít diezel,1 nhân công vận hành,310.973
+M101.1102,"8,5 t ÷ 9 t",270,"15,0","2,90",5,24 lít diezel,1 nhân công vận hành,365.850
+M101.1103,10 t,270,"15,0","2,90",5,26 lít diezel,1 nhân công vận hành,476.144
+M101.1104,12 t,270,"15,0","2,90",5,32 lít diezel,1 nhân công vận hành,516.960
+M101.1105,16 t,270,"15,0","2,90",5,37 lít diezel,1 nhân công vận hành,534.828
+M101.1106,25 t,270,"15,0","2,90",5,47 lít diezel,1 nhân công vận hành,601.429
+M101.1200,Máy lu chân cừu tự hành - trọng lượng tĩnh:,,,,,,,
+M101.1201,12 t,270,"15,0","3,60",5,29 lít diezel,1 nhân công vận hành,1.073.429
+M101.1202,20 t,270,"15,0","3,60",5,61 lít diezel,1 nhân công vận hành,1.610.452
+M101.1203,25t,270,"15,0","3,60",5,67 lít diezel,1 nhân công vận hành,1.768.970
+M102.0000,MÁY NÂNG CHUYỂN,,,,,,,
+M102.0100,Cần trục ô tô - sức nâng:,,,,,,,
+M102.0101,3 t,250,"9,0","5,10",5,25 lít diezel,1 nhân công vận hành + 1 lái xe,645.827
+M102.0102,4 t,250,"9,0","5,10",5,26 lít diezel,1 nhân công vận hành + 1 lái xe,693.293
+M102.0103,5 t,250,"9,0","4,70",5,30 lít diezel,1 nhân công vận hành + 1 lái xe,769.879
+M102.0104,6 t,250,"9,0","4,70",5,33 lít diezel,1 nhân công vận hành + 1 lái xe,948.964
+M102.0105,10 t,250,"9,0","4,50",5,37 lít diezel,1 nhân công vận hành + 1 lái xe,1.328.572
+M102.0106,16 t,250,"9,0","4,50",5,43 lít diezel,1 nhân công vận hành + 1 lái xe,1.556.727
+M102.0107,20 t,250,"8,0","4,50",5,44 lít diezel,1 nhân công vận hành + 1 lái xe,1.939.546
+M102.0108,25 t,250,"8,0","4,30",5,50 lít diezel,1 nhân công vận hành + 1 lái xe,2.230.644
+M102.0109,30 t,250,"8,0","4,30",5,54 lít diezel,1 nhân công vận hành + 1 lái xe,2.521.398
+M102.0110,40 t,250,"7,0","4,10",5,64 lít diezel,1 nhân công vận hành + 1 lái xe,3.736.007
+M102.0111,50 t,250,"7,0","4,10",5,70 lít diezel,1 nhân công vận hành + 1 lái xe,5.241.944
+M102.0200,Cần cẩu bánh hơi - sức nâng:,,,,,,,
+M102.0201,6t,240,"9,0","4,50",5,25 lít diezel,2 nhân công vận hành,629.428
+M102.0202,16 t,240,"9,0","4,50",5,33 lít diezel,2 nhân công vận hành,1.032.544
+M102.0203,25 t,240,"9,0","4,50",5,36 lít diezel,2 nhân công vận hành,1.266.087
+M102.0204,40 t,240,"8,0","4,00",5,50 lít diezel,2 nhân công vận hành,2.624.354
+M102.0205,63 t ÷ 65 t,240,"8,0","4,00",5,61 lít diezel,2 nhân công vận hành,3.109.212
+M102.0206,80t,240,"7,0","3,80",5,67 lít diezel,2 nhân công vận hành,4.714.447
+M102.0207,90 t,240,"7,0","3,80",5,69 lít diezel,2 nhân công vận hành,5.870.688
+M102.0208,100 t,240,"7,0","3,80",5,74 lít diezel,2 nhân công vận hành,7.072.227
+M102.0209,110 t,240,"7,0","3,60",5,78 lít diezel,2 nhân công vận hành,8.936.333
+M102.0210,125 t ÷ 130 t,240,"7,0","3,60",5,81 lít diezel,2 nhân công vận hành,10.669.966
+M102.0300,Cần cẩu bánh xích - sức nâng:,,,,,,,
+M102.0301,5 t,250,"9,0","5,40",5,32 lít diezel,2 nhân công vận hành,808.517
+M102.0302,10 t,250,"9,0","4,50",5,36 lít diezel,2 nhân công vận hành,1.085.398
+M102.0303,16 t,250,"9,0","4,50",5,45 lít diezel,2 nhân công vận hành,1.411.235
+M102.0304,25 t,250,"8,0","4,60",5,47 lít diezel,2 nhân công vận hành,1.896.437
+M102.0305,28 t,250,"8,0","4,60",5,49 lít diezel,2 nhân công vận hành,2.263.892
+M102.0306,40 t,250,"8,0","4,10",5,51 lít diezel,2 nhân công vận hành,2.973.986
+M102.0307,50 t,250,"8,0","4,10",5,54 lít diezel,2 nhân công vận hành,3.818.900
+M102.0308,60 t,250,"8,0","4,10",5,55 lít diezel,2 nhân công vận hành,4.110.300
+M102.0309,63 t ÷ 65 t,250,"7,0","4,10",5,56 lít diezel,2 nhân công vận hành,4.653.327
+M102.0310,80 t,250,"7,0","3,80",5,58 lít diezel,2 nhân công vận hành,5.492.391
+M102.0311,100 t,250,"7,0","3,80",5,59 lít diezel,2 nhân công vận hành,7.004.354
+M102.0312,110 t,250,"7,0","3,60",5,63 lít diezel,2 nhân công vận hành,8.157.167
+M102.0313,125 t ÷ 130 t,250,"7,0","3,60",5,72 lít diezel,2 nhân công vận hành,11.463.578
+M102.0314,150 t,250,"7,0","3,60",5,83 lít diezel,2 nhân công vận hành,12.790.430
+M102.0315,250t,200,"7,0","3,60",5,141 lít diezel,2 nhân công vận hành,26.563.873
+M102.0316,300t,200,"7,0","3,60",5,155 lít diezel,2 nhân công vận hành,36.309.348
+M102.0400,Cần trục tháp - sức nâng:,,,,,,,
+M102.0401,5 t,290,"13,0","4,70",6,42 kWh,2 nhân công vận hành,871.689
+M102.0402,10 t,290,"12,0","4,00",6,60 kWh,2 nhân công vận hành,1.419.834
+M102.0403,12 t,290,"12,0","4,00",6,68 kWh,2 nhân công vận hành,1.729.964
+M102.0404,15 t,290,"12,0","4,00",6,90 kWh,2 nhân công vận hành,1.900.450
+M102.0405,20 t,290,"11,0","3,80",6,113 kWh,2 nhân công vận hành,2.279.943
+M102.0406,25 t,290,"11,0","3,80",6,120 kWh,2 nhân công vận hành,3.161.607
+M102.0407,30 t,290,"11,0","3,80",6,128 kWh,2 nhân công vận hành,3.962.098
+M102.0408,40 t,290,"11,0","3,50",6,135 kWh,2 nhân công vận hành,4.598.753
+M102.0409,50 t,290,"11,0","3,50",6,143 kWh,2 nhân công vận hành,5.768.420
+M102.0410,60 t,290,"11,0","3,50",6,198 kWh,2 nhân công vận hành,7.210.611
+M102.0500,Cần cẩu nổi:,,,,,,,
+M102.0501,Kéo theo - sức nâng 30 t,195,"9,0","6,20",7,81 lít diezel,1 thuyền phó + 3 thợ máy + 1 thợ điện + 1 thủy thủ,2.794.100
+M102.0502,Tự hành - sức nâng 100 t,195,"9,0","6,00",7,118 lít diezel,1 thuyền trưởng + 1 thuyền phó + 4 thợ máy + 1 thợ điện + 1 thuỷ thủ,4.205.700
+M102.0600,Cổng trục - sức nâng:,,,,,,,
+M102.0601,10 t,195,"12,0","2,80",5,81 kWh,2 nhân công vận hành,471.300
+M102.0602,20 t,195,"12,0","2,80",5,90 kWh,2 nhân công vận hành,655.320
+M102.0603,30 t,195,"12,0","2,80",5,90 kWh,2 nhân công vận hành,730.500
+M102.0604,50 t,195,"12,0","2,50",5,123 kWh,2 nhân công vận hành,891.135
+M102.0605,60 t,195,"12,0","2,50",5,144 kWh,2 nhân công vận hành,966.900
+M102.0606,90 t,195,"12,0","2,50",5,180 kWh,2 nhân công vận hành,1.300.802
+M102.0701,Cẩu lao dầm K33-60,195,"12,0","3,50",6,233 kWh,6 nhân công vận hành,2.698.418
+M102.0702,Thiết bị nâng hạ dầm 90 t,195,"12,0","3,50",6,232 kWh,4 nhân công vận hành,2.955.481
+M102.0703,"Hệ thống xe goong di chuyển dầm (gồm mô tơ điện 3,5 kW và con lăn)",195,"14,0","3,50",6,16 kWh,1 nhân công vận hành,11.818
+M102.0800,Cầu trục - sức nâng:,,,,,,,
+M102.0801,30 t,290,"9,0","2,30",5,48 kWh,2 nhân công vận hành,378.691
+M102.0802,40 t,290,"9,0","2,30",5,60 kWh,2 nhân công vận hành,426.157
+M102.0803,50 t,290,"9,0","2,30",5,72 kWh,2 nhân công vận hành,482.909
+M102.0804,60 t,290,"9,0","2,30",5,84 kWh,2 nhân công vận hành,579.445
+M102.0805,90 t,290,"9,0","2,30",5,108 kWh,2 nhân công vận hành,720.350
+M102.0806,110 t,290,"9,0","2,10",5,132 kWh,2 nhân công vận hành,994.021
+M102.0807,125 t,290,"9,0","2,10",5,144 kWh,2 nhân công vận hành,1.143.067
+M102.0808,180 t,290,"9,0","2,10",5,168 kWh,2 nhân công vận hành,1.486.217
+M102.0809,250 t,290,"9,0","2,00",5,204 kWh,2 nhân công vận hành,1.918.794
+M102.0900,Máy vận thăng - sức nâng:,,,,,,,
+M102.0901,"0,8 t",290,"17,0","4,30",5,21 kWh,1 nhân công vận hành,187.683
+M102.0902,2 t,290,"17,0","4,10",5,32 kWh,1 nhân công vận hành,251.200
+M102.0903,3 t,290,"17,0","4,10",5,39 kWh,1 nhân công vận hành,288.920
+M102.1000,Máy vận thăng lồng - sức nâng:,,,,,,,
+M102.1001,3 t,290,"16,5","4,10",5,47 kWh,1 nhân công vận hành,590.336
+M102.1100,Tời điện - sức kéo:,,,,,,,
+M102.1101,"0,5 t",240,"15,0","5,10",4,4 kWh,1 nhân công vận hành,4.600
+M102.1102,"1,0 t",240,"15,0","5,10",4,5 kWh,1 nhân công vận hành,5.900
+M102.1103,"1,5 t",240,"15,0","4,60",4,"5,5 kWh",1 nhân công vận hành,16.400
+M102.1104,"2,0 t",240,"15,0","4,60",4,"6,3 kWh",1 nhân công vận hành,23.900
+M102.1105,"3,0 t",240,"15,0","4,60",4,11 kWh,1 nhân công vận hành,38.600
+M102.1106,"3,5 t",240,"15,0","4,60",4,12 kWh,1 nhân công vận hành,42.500
+M102.1107,"5,0 t",240,"15,0","4,60",4,14 kWh,1 nhân công vận hành,51.700
+M102.1108,"7,5t",240,"15,0","4,60",4,27 kWh,1 nhân công vận hành,80.800
+M102.1109,10t,240,"15,0","4,60",4,41 kWh,1 nhân công vận hành,127.000
+M102.1110,15t,240,"15,0","4,60",4,44 kWh,1 nhân công vận hành,202.481
+M102.1200,Pa lăng xích - sức nâng:,,,,,,,
+M102.1201a,1t,240,"15,0","4,60",4,,1 nhân công vận hành,1.850
+M102.1201,3 t,240,"15,0","4,60",4,,1 nhân công vận hành,7.900
+M102.1202,5 t,240,"15,0","4,20",4,,1 nhân công vận hành,10.200
+M102.1203,20t,240,"15,0","4,20",4,,1 nhân công vận hành,18.360
+M102.1300,Kích nâng - sức nâng:,,,,,,,
+M102.1301,5 t,190,"13,0","2,20",5,,1 nhân công vận hành,2.700
+M102.1302,10 t,190,"13,0","2,20",5,,1 nhân công vận hành,4.600
+M102.1303,30 t,190,"13,0","2,20",5,,1 nhân công vận hành,5.800
+M102.1304,50 t,190,"13,0","2,20",5,,1 nhân công vận hành,9.800
+M102.1305,100 t,190,"13,0","2,20",5,,1 nhân công vận hành,19.000
+M102.1306,200 t,190,"13,0","2,20",5,,1 nhân công vận hành,27.400
+M102.1307,250 t,190,"13,0","2,20",5,,1 nhân công vận hành,44.000
+M102.1308,500 t,190,"13,0","2,20",5,,1 nhân công vận hành,95.500
+M102.1309,Hệ kích nâng 25t (máy bơm dầu thủy lực 3 kW),190,"13,0","2,00",5,6 kWh,1 nhân công vận hành,118.182
+M102.1400,Kích thông tâm,,,,,,,
+M102.1401,RRH - 100 t,190,"13,0","2,20",5,,1 nhân công vận hành,84.383
+M102.1402,YCW - 150 t,190,"13,0","2,20",5,,1 nhân công vận hành,11.694
+M102.1403,YCW - 250 t,190,"13,0","2,20",5,,1 nhân công vận hành,18.000
+M102.1404,YCW - 500 t,190,"13,0","2,20",5,,1 nhân công vận hành,55.491
+M102.1501,"Kích đẩy liên tục tự động ZLD- 60 (60t, 6c)",190,"13,0","3,50",5,29 kWh,2 nhân công vận hành,242.715
+M102.1601,Kích sợi đơn YDC - 500 t,190,"13,0","2,20",5,,1 nhân công vận hành,20.179
+M102.1700,Trạm bơm dầu áp lực- công suất:,,,,,,,
+M102.1701,40 MPa (HCP-400),190,"16,0","6,50",5,14 kWh,1 nhân công vận hành,24.077
+M102.1702,50 MPa (ZB4 - 500),190,"16,0","6,50",5,20 kWh,1 nhân công vận hành,30.497
+M102.1800,Xe nâng - chiều cao nâng:,,,,,,,
+M102.1801,9 m,280,"13,0","4,00",5,22 lít diezel,1 nhân công vận hành + 1 lái xe,511.600
+M102.1802,12 m,280,"13,0","4,00",5,25 lít diezel,1 nhân công vận hành + 1 lái xe,731.758
+M102.1803,18 m,280,"13,0","3,80",5,29 lít diezel,1 nhân công vận hành + 1 lái xe,994.767
+M102.1804,24 m,280,"13,0","3,80",5,33 lít diezel,1 nhân công vận hành + 1 lái xe,1.254.565
+M102.1805,Xe nâng hàng - sức nâng 2t,240,"16,0","3,50",5,9 lít diezel,1 nhân công vận hành,180.200
+M102.1900,Xe thang - chiều dài thang:,,,,,,,
+M102.1901,9 m,280,"15,0","3,90",5,25 lít diezel,1 nhân công vận hành + 1 lái xe,1.008.639
+M102.1902,12 m,280,"15,0","3,70",5,29 lít diezel,1 nhân công vận hành + 1 lái xe,1.371.165
+M102.1903,18 m,280,"15,0","3,70",5,33 lít diezel,1 nhân công vận hành + 1 lái xe,1.662.779
+M103.0000,MÁY VÀ THIẾT BỊ GIA CỐ NỀN MÓNG,,,,,,,
+M103.0100,"Máy đóng cọc tự hành, bánh xích - trọng lượng đầu búa:",,,,,,,
+M103.0101,"1,2 t",260,"14,0","4,40",5,56 lít diezel,1 nhân công vận hành,1.125.927
+M103.0102,"1,8 t",260,"14,0","4,40",5,59 lít diezel,1 nhân công vận hành,1.233.813
+M103.0103,"3,5 t",260,"13,0","3,90",5,62 lít diezel,1 nhân công vận hành,2.354.696
+M103.0104,"4,5 t",260,"13,0","3,90",5,65 lít diezel,1 nhân công vận hành,2.751.960
+M103.0105,"8,0 t",260,"13,0","3,90",5,146 lít diezel,1 nhân công vận hành,12.825.610
+M103.0200,Máy đóng cọc chạy trên ray - trọng lượng đầu búa:,,,,,,,
+M103.0201,"1,2 t",260,"14,0","3,90",5,24 lít diezel + 14 kWh,1 nhân công vận hành,579.674
+M103.0202,"1,8 t",260,"14,0","3,90",5,30 lít diezel + 14 kWh,1 nhân công vận hành,852.657
+M103.0203,"2,5 t",260,"12,0","3,50",5,36 lít diezel + 25 kWh,1 nhân công vận hành,1.129.080
+M103.0204,"3,5 t",260,"12,0","3,50",5,48 lít diezel + 25 kWh,1 nhân công vận hành,1.271.935
+M103.0205,"4,5 t",260,"12,0","3,50",5,63 lít diezel + 34 kWh,1 nhân công vận hành,1.570.829
+M103.0206,"5,5 t",260,"12,0","3,50",5,78 lít diezel + 34 kWh,1 nhân công vận hành,1.872.934
+M103.0300,"Máy búa rung tự hành, bánh xích - công suất:",,,,,,,
+M103.0301,60 kW,220,"13,0","4,80",5,40 lít diezel + 159 kWh,1 nhân công vận hành,3.047.619
+M103.0302,90 kW,220,"13,0","4,80",5,51 lít diezel + 240 kWh,1 nhân công vận hành,4.585.650
+M103.0400,Đầu Búa rung - công suất:,,,,,,,
+M103.0401,40 kW,240,"14,0","3,80",5,108 kWh,,122.906
+M103.0402,50 kW,240,"14,0","3,80",5,135 kWh,,149.734
+M103.0402a,60 kW,240,"14,0","3,80",5,162 kWh,,250.000
+M103.0403,170 kW,240,"14,0","2,64",5,357 kWh,,282.270
+M103.0500,Tàu đóng cọc - trọng lượng đầu búa:,,,,,,,
+M103.0501,"1,2 t",240,"12,0","5,90",6,37 lít diezel,1 thuyền phó + 3 thợ máy + 1 thợ điện + 1 thủy thủ,2.532.100
+M103.0502,"1,8 t",240,"12,0","5,90",6,42 lít diezel,1 thuyền phó + 3 thợ máy + 1 thợ điện + 1 thủy thủ,2.891.261
+M103.0503,"2,5 t",240,"12,0","5,90",6,47 lít diezel,1 thuyền phó + 3 thợ máy + 1 thợ điện + 1 thủy thủ,2.994.676
+M103.0504,"3,5 t",240,"12,0","5,90",6,52 lít diezel,1 thuyền phó + 3 thợ máy + 1 thợ điện + 1 thủy thủ,3.049.364
+M103.0505,"4,5 t",240,"12,0","5,90",6,58 lít diezel,1 thuyền phó + 3 thợ máy + 1 thợ điện + 1 thủy thủ,3.765.940
+M103.0600,"Tàu đóng cọc C 96 - búa thuỷ lực, trọng lượng đầu búa:",,,,,,,
+M103.0601,"7,5 t",240,"11,0","4,60",6,162 lít diezel,1 thuyền trưởng + 1 thuyền phó + 4 thợ máy + 1 thợ điện + 1 thuỷ thủ,9.816.850
+M103.0700,Máy ép cọc trước - lực ép:,,,,,,,
+M103.0701,60 t,210,"17,0","4,00",5,38 kWh,1 nhân công vận hành,138.727
+M103.0702,100 t,210,"17,0","4,00",5,53 kWh,1 nhân công vận hành,188.256
+M103.0703,150 t,210,"17,0","4,00",5,75 kWh,1 nhân công vận hành,213.021
+M103.0704,200 t,210,"17,0","4,00",5,84 kWh,1 nhân công vận hành,237.786
+M103.0801,Máy ép cọc Robot thủy lực tự hành 860t,180,"22,0","3,96",5,756 kWh,2 nhân công vận hành,6.642.900
+M103.0901,"Máy ép thuỷ lực (KGK-130C4), lực ép 130 t",240,"15,0","2,60",5,138 kWh,1 nhân công vận hành,671.738
+M103.0902,Máy ép cọc thủy lực 45 Hp,240,"15,0","2,60",5,25 kWh,1 nhân công vận hành,132.000
+M103.1001,Máy cấy bấc thấm,230,"12,0","3,10",5,48 lít diezel,1 nhân công vận hành,1.099.500
+M103.1100,Máy khoan xoay:,,,,,,,
+M103.1101,Máy khoan xoay 80kNm÷125kNm,260,"13,0","8,20",5,52 lít diezel,1 nhân công vận hành,3.934.467
+M103.1102,Máy khoan xoay 150kNm÷200kNm,260,"13,0","8,20",5,68 lít diezel,1 nhân công vận hành,4.514.371
+M103.1103,Máy khoan xoay > 200kNm÷300kNm,260,"13,0","8,20",5,96 lít diezel,1 nhân công vận hành,11.608.382
+M103.1104,Máy khoan xoay > 300kNm÷400kNm,260,"13,0","6,50",5,137 lít diezel,1 nhân công vận hành,14.865.951
+M103.1105,"Gầu đào (thi công móng cọc, tường Barrette)",260,"13,0","5,80",5,,,565.686
+M103.1201,Máy khoan tường sét,260,"13,0","6,50",5,32 lít diezel + 171 kWh,1 nhân công vận hành,4.600.000
+M103.1300,Máy khoan cọc đất,,,,,,,
+M103.1301,Máy khoan cọc đất (1 cần),260,"13,0","6,50",5,36 lít diezel + 167 kWh,1 nhân công vận hành,5.354.545
+M103.1302,Máy khoan cọc đất (2 cần),260,"13,0","6,50",5,36 lít diezel + 232 kWh,1 nhân công vận hành,6.109.091
+M103.1311,"Máy khoan cọc xi măng đất 120 tấn, đầu khoan RAS 180kW",260,"13,0","6,50",5,36 lít diezel + 768 kWh,2 nhân công vận hành,26.590.503
+M103.1312,Hệ thống kiểm soát khoan RAS,260,"13,0","6,50",5,,1 nhân công vận hành,2.659.423
+M103.1401,Máy cấp xi măng,260,"13,0","6,50",5,,,14.800
+M103.1500,Máy trộn dung dịch - dung tích:,,,,,,,
+M103.1501,750 lít,300,"16,0","6,40",5,13 kWh,1 nhân công vận hành,25.796
+M103.1502,1000 lít,300,"15,0","5,80",5,18 kWh,1 nhân công vận hành,177.479
+M103.1600,Máy sàng lọc - năng suất:,,,,,,,
+M103.1601,100 m3/h,300,"15,0","5,80",5,21 kWh,1 nhân công vận hành,353.468
+M103.1700,Máy bơm dung dịch - năng suất:,,,,,,,
+M103.1701,15 m3/h,215,"16,0","6,60",5,37 kWh,1 nhân công vận hành,22.000
+M103.1702,200 m3/h,215,"16,0","6,60",5,50 kWh,1 nhân công vận hành,43.182
+M104.0000,MÁY SẢN XUẤT VẬT LIỆU XÂY DỰNG,,,,,,,
+M104.0100,Máy trộn bê tông - dung tích:,,,,,,,
+M104.0101,100 lít,165,"19,0","6,50",5,8 kWh,1 nhân công vận hành,23.050
+M104.0102,250 lít,165,"19,0","6,50",5,11 kWh,1 nhân công vận hành,30.210
+M104.0200,Máy trộn vữa - dung tích:,,,,,,,
+M104.0201,80 lít,170,"19,0","6,80",5,5 kWh,1 nhân công vận hành,12.841
+M104.0202,150 lít,170,"19,0","6,80",5,8 kWh,1 nhân công vận hành,17.828
+M104.0203,250 lít,170,"19,0","6,80",5,11 kWh,1 nhân công vận hành,22.873
+M104.0300,Máy trộn vữa xi măng - dung tích:,,,,,,,
+M104.0301,1200 lít,170,"19,0","6,80",5,72 kWh,1 nhân công vận hành,75.863
+M104.0302,1600 lít,170,"19,0","6,80",5,96 kWh,1 nhân công vận hành,104.103
+M104.0310,Trạm trộn vữa - năng suất:,,,,,,,
+M104.0312,24 m3/h,260,"15,0","5,60",5,85 kWh,2 nhân công vận hành,1.295.000
+M104.0400,Trạm trộn bê tông - năng suất:,,,,,,,
+M104.0401,16 m3/h,260,"15,0","5,80",5,92 kWh,2 nhân công vận hành,907.804
+M104.0402,25 m3/h,260,"15,0","5,60",5,116 kWh,2 nhân công vận hành,1.264.024
+M104.0403,30 m3/h,260,"15,0","5,60",5,172 kWh,2 nhân công vận hành,1.596.969
+M104.0404,50 m3/h,260,"15,0","5,60",5,198 kWh,2 nhân công vận hành,2.549.373
+M104.0405,60 m3/h,260,"15,0","5,30",5,265 kWh,2 nhân công vận hành,2.804.470
+M104.0406,75 m3/h,260,"15,0","5,30",5,418 kWh,3 nhân công vận hành,3.237.391
+M104.0407,90 m3/h,260,"15,0","5,30",5,425 kWh,3 nhân công vận hành,4.306.280
+M104.0408,125 m3/h,260,"15,0","5,30",5,446 kWh,3 nhân công vận hành,5.375.168
+M104.0409,160 m3/h,260,"15,0","5,00",5,553 kWh,4 nhân công vận hành,5.643.909
+M104.0500,"Máy sàng rửa đá, sỏi - năng suất:",,,,,,,
+M104.0501,35 m3/h,155,"18,0","7,60",5,76 kWh,1 nhân công vận hành,18.917
+M104.0502,45 m3/h,155,"18,0","7,60",5,97 kWh,1 nhân công vận hành,23.618
+M104.0600,Máy nghiền sàng đá di động - năng suất:,,,,,,,
+M104.0601,20 m3/h,260,"18,0","8,60",5,315 kWh,2 nhân công vận hành,1.351.273
+M104.0602,25 m3/h,260,"18,0","7,60",5,357 kWh,2 nhân công vận hành,1.766.194
+M104.0603,125 m3/h,260,"18,0","7,60",5,630 kWh,2 nhân công vận hành,5.964.816
+M104.0700,Máy nghiền đá thô - năng suất:,,,,,,,
+M104.0701,14 m3/h,260,"18,0","8,60",5,134 kWh,2 nhân công vận hành,214.626
+M104.0702,200 m3/h,260,"18,0","8,60",5,840 kWh,2 nhân công vận hành,1.831.774
+M104.0710,Trạm nghiền đá - năng suất:,,,,,,,
+M104.0714,250 T/h,260,"18,0","8,60",5,3341 kWh,2 nhân công vận hành,12.899.035
+M104.0800,Trạm trộn bê tông asphan - năng suất:,,,,,,,
+M104.0801,25 t/h,190,"15,0","5,70",5,210 kWh,3 nhân công vận hành,3.286.462
+M104.0802,50 t/h,190,"15,0","5,70",5,300 kWh,3 nhân công vận hành,4.648.053
+M104.0803,60 t/h,190,"15,0","5,70",5,324 kWh,4 nhân công vận hành,5.422.748
+M104.0804,80 t/h,190,"15,0","5,50",5,384 kWh,5 nhân công vận hành,6.094.486
+M104.0805,120 t/h,190,"15,0","5,50",5,714 kWh,5 nhân công vận hành,6.737.442
+M105.0000,MÁY VÀ THIẾT BỊ THI CÔNG MẶT ĐƯỜNG BỘ,,,,,,,
+M105.0100,Máy phun nhựa đường - công suất:,,,,,,,
+M105.0101,190 cv,150,"13,0","5,60",6,57 lít diezel,1 nhân công vận hành + 1 lái xe,930.161
+M105.0200,Máy rải hỗn hợp bê tông nhựa - năng suất:,,,,,,,
+M105.0201,65 t/h,180,"14,0","6,40",5,34 lít diezel,2 nhân công vận hành,1.284.890
+M105.0202,100 t/h,180,"14,0","6,40",5,50 lít diezel,2 nhân công vận hành,1.520.612
+M105.0203,130 cv - 140 cv,180,"14,0","3,80",5,63 lít diezel,2 nhân công vận hành,2.991.351
+M105.0204,Máy rải nhựa đường Micro- Asphalt tự hành,180,"14,0","3,80",5,"75,6 lít diezel",2 nhân công vận hành,11.150.596
+M105.0301,Máy rải Novachip 170 cv,180,"14,0","3,80",5,79 lít diezel,2 nhân công vận hành,13.200.000
+M105.0401,"Máy rải cấp phối đá dăm, năng suất 50 m3/h - 60 m3/h",180,"14,0","4,20",5,30 lít diezel,2 nhân công vận hành,2.043.419
+M105.0402,Máy rải xi măng SW16TC (16m3),180,"14,0","5,60",6,57 lít diezel,2 nhân công vận hành,6.500.000
+M105.0500,Máy cào bóc,,,,,,,
+M105.0501,Máy cào bóc đường Wirtgen - 1000C,220,"16,0","5,80",5,92 lít diezel,2 nhân công vận hành,3.128.588
+M105.0502,"Máy cào bóc tái sinh, Wigent 2400",180,"16,0","5,80",5,340 lít diezel,2 nhân công vận hành,24.432.515
+M105.0503,"Máy cào bóc tái sinh, công suất > 450 HP",180,"16,0","5,80",5,523 lít diezel,2 nhân công vận hành,17.000.000
+M105.0601,Thiết bị sơn kẻ vạch YHK 10A,200,"20,0","3,50",5,,1 nhân công vận hành,57.211
+M105.0701,"Lò nấu sơn YHK 3A, lò nung keo",200,"17,0","3,60",5,11 lít diezel,1 nhân công vận hành,324.920
+M105.0801,Máy rót mastic,200,"17,0","4,50",5,4 lít xăng,1 nhân công vận hành,34.166
+M105.0901,Thiết bị nấu nhựa 500 lít,200,"25,0","10,0",5,,1 nhân công vận hành,45.516
+M105.1001,Máy rải bê tông SP500,200,"14,0","4,20",5,73 lít diezel,2 nhân công vận hành,7.369.287
+M106.0000,PHƯƠNG TIỆN VẬN TẢI ĐƯỜNG BỘ,,,,,,,
+M106.0100,Ô tô vận tải thùng - trọng tải:,,,,,,,
+M106.0101,"0,5 t",250,"18,0","6,20",6,5 lít xăng,1 lái xe,106.420
+M106.0102,"1,5 t",250,"18,0","6,20",6,7 lít xăng,1 lái xe,157.562
+M106.0103,2 t,250,"18,0","6,20",6,12 lít xăng,1 lái xe,183.212
+M106.0104,"2,5 t",250,"17,0","6,20",6,13 lít xăng,1 lái xe,218.983
+M106.0105,5 t,250,"17,0","6,20",6,25 lít diezel,1 lái xe,317.869
+M106.0106,7 t,250,"17,0","6,20",6,31 lít diezel,1 lái xe,427.131
+M106.0107,10 t,250,"16,0","6,20",6,38 lít diezel,1 lái xe,560.241
+M106.0108,12 t,260,"16,0","6,20",6,41 lít diezel,1 lái xe,606.044
+M106.0109,15 t,260,"16,0","6,20",6,46 lít diezel,1 lái xe,739.497
+M106.0110,20 t,270,"14,0","5,40",6,56 lít diezel,1 lái xe,1.248.374
+M106.0111,32 t,270,"14,0","5,40",6,62 lít diezel,1 lái xe,1.976.364
+M106.0200,Ô tô tự đổ - trọng tải:,,,,,,,
+M106.0201,"2,5 t",260,"17,0","7,50",6,19 lít xăng,1 lái xe,248.104
+M106.0202,5 t,260,"17,0","7,50",6,41 lít diezel,1 lái xe,437.559
+M106.0203,7 t,260,"17,0","7,30",6,46 lít diezel,1 lái xe,616.643
+M106.0204,10 t,280,"17,0","7,30",6,57 lít diezel,1 lái xe,
+M106.0205,12 t,280,"17,0","7,30",6,65 lít diezel,1 lái xe,812.415
+M106.0206,15 t,300,"16,0","6,80",6,73 lít diezel,1 lái xe,1.035.410
+M106.0207,20 t,300,"16,0","6,80",6,76 lít diezel,1 lái xe,1.540.447
+M106.0208,22 t,300,"14,0","6,80",6,77 lít diezel,1 lái xe,1.802.194
+M106.0209,25 t,340,"13,0","6,80",6,81 lít diezel,1 lái xe,2.341.396
+M106.0210,27 t,340,"13,0","6,60",6,86 lít diezel,1 lái xe,2.505.849
+M106.0300,Ô tô đầu kéo - công suất:,,,,,,,
+M106.0301,150 cv,200,"13,0","4,90",6,30 lít diezel,1 lái xe,448.050
+M106.0302,200 cv,200,"13,0","4,90",6,40 lít diezel,1 lái xe,618.750
+M106.0303,255 cv,200,"12,0","4,40",6,51 lít diezel,1 lái xe,878.300
+M106.0304,272 cv,260,"11,0","4,00",6,56 lít diezel,1 lái xe,1.079.950
+M106.0305,360 cv,260,"11,0","3,80",6,68 lít diezel,1 lái xe,1.136.368
+M106.0400,Ô tô chuyển trộn bê tông - dung tích thùng trộn:,,,,,,,
+M106.0401,6 m3,260,"14,0","5,70",6,43 lít diezel,1 nhân công vận hành + 1 lái xe,884.645
+M106.0402,"10,7 m3",260,"14,0","5,50",6,64 lít diezel,1 nhân công vận hành + 1 lái xe,2.176.758
+M106.0403,"14,5 m3",260,"14,0","5,50",6,70 lít diezel,1 nhân công vận hành + 1 lái xe,2.966.930
+M106.0500,Ô tô tưới nước - dung tích:,,,,,,,
+M106.0501,4 m3,260,"13,0","4,80",6,20 lít diezel,1 lái xe,438.539
+M106.0502,5 m3,260,"12,0","4,40",6,23 lít diezel,1 lái xe,497.469
+M106.0503,6 m3,260,"12,0","4,40",6,24 lít diezel,1 lái xe,571.304
+M106.0504,7 m3,260,"11,0","4,10",6,26 lít diezel,1 lái xe,688.248
+M106.0505,9 m3,260,"11,0","4,10",6,27 lít diezel,1 lái xe,796.249
+M106.0506,10 m3,260,"11,0","4,10",6,30 lít diezel,1 lái xe,866.135
+M106.0507,16 m3,270,"11,0","4,10",6,35 lít diezel,1 lái xe,1.114.405
+M106.0600,"Ô tô hút bùn, hút mùn khoan, dung tích:",,,,,,,
+M106.0601,2 m3,260,"13,0","5,20",6,19 lít diezel,1 lái xe,435.615
+M106.0602,3 m3,260,"13,0","5,20",6,27 lít diezel,1 lái xe,642.388
+M106.0700,Ô tô bán tải - trọng tải:,,,,,,,
+M106.0701,"1,5 t",250,"16,0","4,50",6,18 lít xăng,1 lái xe,359.717
+M106.0800,Rơ mooc - trọng tải:,,,,,,,
+M106.0801,15 t,240,"13,0","3,70",6,,,160.855
+M106.0802,21t,240,"13,0","3,70",6,,,186.651
+M106.0803,30 t,240,"13,0","3,10",6,,,251.560
+M106.0804,40 t,240,"13,0","3,10",6,,,297.117
+M106.0805,60 t,240,"13,0","3,10",6,,,333.817
+M106.0806,100 t,240,"13,0","3,10",6,,,537.425
+M106.0807,125 t,240,"13,0","3,10",6,,,601.973
+M106.0900,Xe bồn chuyên dụng,,,,,,,
+M106.0901,30 t,240,"13,0","3,10",6,93 lít diezel,1 lái xe,1.340.000
+M106.0902,"Xe bồn 13-14m3 (chở bitum, polymer)",180,"14,0","5,60",6,35 lít diezel,1 nhân công vận hành + 1 lái xe,3.243.150
+M106.0903,Ô tô cấp nhũ tương 5 m3,180,"12,0","4,40",6,23 lít diezel,1 lái xe,931.000
+M106.1000,Ô tô phun sơn,,,,,,,
+M106.1001,"19,7cv",180,"12,0","4,40",6,16 lít diezel 5 lít xăng,1 lái xe,4.895.800
+M107.0000,MÁY KHOAN ĐẤT ĐÁ,,,,,,,
+M107.0100,"Máy khoan đất đá, cầm tay - đường kính khoan:",,,,,,,
+M107.0101,"D ≤ 42 mm (động cơ điện-1,2 kW)",240,"18,0","8,50",5,5 kWh,1 nhân công vận hành,13.471
+M107.0102,D ≤ 42 mm (truyền động khí nén - chưa tính khí nén),240,"18,0","8,50",5,,1 nhân công vận hành,26.484
+M107.0103,D ≤ 42 mm (khoan SIG - chưa tính khí nén),240,"18,0","6,50",5,,1 nhân công vận hành,126.804
+M107.0104,Búa chèn (truyền động khí nén - chưa tính khí nén),240,"18,0","8,50",5,,1 nhân công vận hành,6.134
+M107.0200,"Máy khoan xoay đập tự hành, khí nén (chưa tính khí nén) - đường kính khoan:",,,,,,,
+M107.0201,D75-95 mm,270,"17,0","5,30",5,,2 nhân công vận hành,1.101.564
+M107.0202,D105-110 mm,270,"17,0","5,30",5,,2 nhân công vận hành,1.376.725
+M107.0300,"Máy khoan hầm tự hành, động cơ diezel - đường kính khoan:",,,,,,,
+M107.0301,D 45 mm (2 cần - 147 cv),285,"13,0","3,90",6,84 lít diezel,2 nhân công vận hành,11.436.520
+M107.0302,D 45 mm (3 cần - 255 cv),285,"13,0","3,90",6,138 lít diezel,2 nhân công vận hành,16.668.260
+M107.0400,Máy khoan néo - độ sâu khoan:,,,,,,,
+M107.0401,"H 3,5 m (80 cv)",285,"13,0","3,90",6,38 lít diezel,2 nhân công vận hành,12.651.359
+M107.0500,"Máy khoan ROBBIN, đường kính khoan:",,,,,,,
+M107.0501,"D 2,4 m (250 kW)",240,"13,0","3,20",6,675 kWh,2 nhân công vận hành,41.605.242
+M107.0600,"Tổ hợp dàn khoan neo, công suất:",,,,,,,
+M107.0601,9 kW,240,"18,0","1,80",6,16 kWh,1 nhân công vận hành,2.207.026
+M107.0700,Máy khoan tạo lỗ neo gia cố mái ta luy:,,,,,,,
+M107.0701,YG 60,250,"13,0","4,50",5,28 lít diezel,2 nhân công vận hành,1.043.321
+M107.0800,Máy khoan dẫn chuyên dụng,,,,,,,
+M107.0801,HCR1200-EDII,285,"13,0","5,20",5,332 lít diezel,1 nhân công vận hành,5.660.000
+M107.0803,Máy khoan XY-1A (phục vụ công tác xây dựng),180,"10,0","5,00",5,"20,4 lít diezel",1 nhân công vận hành,102.500
+M108.0000,MÁY VÀ THIẾT BỊ ĐỘNG LỰC,,,,,,,
+M108.0100,Máy phát điện lưu động - công suất:,,,,,,,
+M108.0101,"3,75 kVA",170,"13,0","4,20",5,2 lít diezel,1 nhân công vận hành,8.369
+M108.0102,"6,25 kVA",170,"13,0","4,20",5,5 lít diezel,1 nhân công vận hành,28.433
+M108.0103,"37,5 kVA",170,"12,0","3,90",5,24 lít diezel,1 nhân công vận hành,117.173
+M108.0104,"62,5 kVA",170,"12,0","3,90",5,36 lít diezel,1 nhân công vận hành,172.893
+M108.0105,"93,75 kVA",170,"11,0","3,60",5,45 lít diezel,1 nhân công vận hành,244.894
+M108.0106,150kVA,170,"10,0","3,30",5,76 lít diezel,1 nhân công vận hành,320.678
+M108.0107,250 kVA,170,"10,0","3,30",5,106 lít diezel,1 nhân công vận hành,335.697
+M108.0200,"Máy nén khí, động cơ xăng - năng suất:",,,,,,,
+M108.0201,120 m3/h,180,"11,0","5,00",5,14 lít xăng,1 nhân công vận hành,71.198
+M108.0202,600 m3/h,180,"10,0","4,60",5,46 lít xăng,1 nhân công vận hành,374.105
+M108.0300,"Máy nén khí, động cơ diezel - năng suất:",,,,,,,
+M108.0301,120 m3/h,180,"11,0","5,40",5,14 lít diezel,1 nhân công vận hành,77.045
+M108.0302,240 m3/h,180,"11,0","5,40",5,28 lít diezel,1 nhân công vận hành,156.842
+M108.0303,360 m3/h,180,"11,0","5,40",5,35 lít diezel,1 nhân công vận hành,217.034
+M108.0304,420 m3/h,180,"11,0","5,40",5,38 lít diezel,1 nhân công vận hành,281.811
+M108.0305,540 m3/h,180,"11,0","5,40",5,44 lít diezel,1 nhân công vận hành,321.366
+M108.0306,600 m3/h,180,"10,0","5,00",5,47 lít diezel,1 nhân công vận hành,410.793
+M108.0307,660 m3/h,180,"10,0","5,00",5,50 lít diezel,1 nhân công vận hành,478.552
+M108.0308,1200 m3/h,180,"10,0","3,90",5,75 lít diezel,1 nhân công vận hành,959.970
+M108.0309,1260 m3/h,180,"10,0","3,50",5,78 lít diezel,1 nhân công vận hành,1.103.857
+M108.0400,"Máy nén khí, động cơ điện - năng suất:",,,,,,,
+M108.0401,5 m3/h,180,"12,0","5,20",5,2 kWh,1 nhân công vận hành,2.866
+M108.0402,300 m3/h,180,"11,0","3,80",5,86 kWh,1 nhân công vận hành,143.199
+M108.0403,600 m3/h,180,"11,0","3,40",5,125 kWh,1 nhân công vận hành,309.098
+M109.0000,MÁY VÀ THIẾT BỊ THI CÔNG CÔNG TRÌNH THỦY,,,,,,,
+M109.0110,Sà lan tự hành (không mở đáy) - trọng tải:,,,,,,,
+M109.0111,200 t,270,"9,5","5,00",6,120 lít diezel,1 thuyền trưởng + 1 thuyền phó + 1 máy I + 1 thợ máy + 2 thuỷ thủ,2.252.000
+M109.0112,400 t,270,"9,5","5,00",6,202 lít diezel,1 thuyền trưởng + 1 thuyền phó + 1 máy I + 1 thợ máy + 2 thuỷ thủ,3.500.000
+M109.0113,800 t,270,"9,5","4,20",6,540 lít diezel,1 thuyền trưởng + 1 thuyền phó + 1 máy I + 2 thợ máy + 3 thuỷ thủ,5.750.000
+M109.0115,1200 t,270,"9,5","4,20",6,931 lít diezel,1 thuyền trưởng + 1 thuyền phó + 1 máy I + 2 thợ máy + 3 thuỷ thủ,8.000.000
+M109.0100,Sà lan - trọng tải:,,,,,,,
+M109.0101,100 t,260,"11,0","5,90",6,,,490.476
+M109.0102,200 t,290,"11,0","5,90",6,,,721.153
+M109.0103,250 t,290,"11,0","5,90",6,,,901.384
+M109.0104,400 t,290,"11,0","5,50",6,,,1.207.730
+M109.0105,600 t,290,"11,0","5,50",6,,,1.420.866
+M109.0106,800 t,290,"11,0","5,20",6,,,2.012.922
+M109.0107,1000 t,290,"11,0","5,20",6,,,2.368.110
+M109.0200,Phao thép - trọng tải:,,,,,,,
+M109.0201,60 t,230,"11,0","5,90",6,,,121.530
+M109.0202,200 t,230,"11,0","5,90",6,,,211.645
+M109.0203,250 t,230,"11,0","5,90",6,,,222.193
+M109.0301,Pông tông,230,"13,0","5,20",6,,,343.952
+M109.0400,Thuyền (ghe) đặt máy bơm - trọng tải:,,,,,,,
+M109.0401,5 t,230,"11,0","5,20",6,44 lít diezel,1 thuyền trưởng,258.000
+M109.0402,40 t,230,"11,0","5,20",6,131 lít diezel,1 thuyền trưởng + 1 thủy thủ,887.000
+M109.0500,Ca nô - công suất:,,,,,,,
+M109.0501,12 cv,260,"12,0","6,00",6,3 lít diezel,1 thuyền trưởng,94.701
+M109.0502,23 cv,260,"12,0","6,00",6,5 lít diezel,1 thuyền trưởng,103.988
+M109.0503,30 cv,260,"12,0","5,40",6,6 lít diezel,1 thuyền trưởng,112.816
+M109.0504,54 cv,260,"12,0","5,40",6,10 lít diezel,1 thuyền trưởng + 1 thủy thủ,144.918
+M109.0505,75 cv,260,"11,0","4,60",6,14 lít diezel,1 thuyền trưởng + 1 thủy thủ,207.403
+M109.0506,90 cv,260,"11,0","4,60",6,19 lít diezel,1 thuyền trưởng + 1 thủy thủ,278.115
+M109.0507,150 cv,260,"11,0","4,60",6,23 lít diezel,1 thuyền trưởng + 1 máy I +1 thủy thủ,364.360
+M109.0700,"Tầu kéo và phục vụ thi công thuỷ (làm neo, cấp dầu,...) - công suất:",,,,,,,
+M109.0701,75 cv,260,"9,5","5,20",6,68 lít diezel,1 thuyền trưởng + 2 thợ máy + 1 thợ điện + 2 thuỷ thủ,258.000
+M109.0702,150 cv,260,"9,5","5,00",6,95 lít diezel,1 thuyền trưởng + 1 thuyền phó + 1 máy I + 2 thợ máy + 2 thuỷ thủ,612.500
+M109.0703,250 cv,260,"9,5","5,00",6,148 lít diezel,1 thuyền trưởng + 1 thuyền phó + 1 máy I + 2 thợ máy + 2 thuỷ thủ,787.238
+M109.0704,360 cv,260,"9,5","5,00",6,202 lít diezel,1 thuyền trưởng+ 1 thuyền phó + 1 máy I + 2 thợ máy + 2 thuỷ thủ,887.000
+M109.0705,600 cv,260,"9,5","4,20",6,315 lít diezel,1 thuyền trưởng + 1 thuyền phó + 1 máy I + 3 thợ máy + 4 thuỷ thủ,1.318.800
+M109.0706,1200 cv (tầu kéo biển),270,"9,5","3,80",6,714 lít diezel,1 thuyền trưởng + 1 thuyền phó + 1 máy I + 3 thợ máy + 4 thuỷ thủ,9.851.500
+M109.0800,Tàu cuốc sông- công suất:,,,,,,,
+M109.0801,495 cv,290,"7,0","5,10",6,520 lít diezel,1 thuyền trưởng + 1 thuyền phó + 1 máy trưởng + 1 máy II + 1 điện trưởng + 1 kỹ thuật viên cuốc I + 2 kỹ thuật viên cuốc II + 4 thợ máy + 4 thuỷ thủ,11.237.300
+M109.0900,Tàu cuốc biển - công suất:,,,,,,,
+M109.0901,2085 cv,290,"7,0","4,50",6,1751 lít diezel,1 thuyền trưởng + 1 thuyền phó + 1 máy trưởng + 1 máy II + 1 điện trưởng + 1 kỹ thuật viên cuốc I + 2 kỹ thuật viên cuốc II + 4 thợ máy + 4 thuỷ thủ,34.650.000
+M109.1000,Tàu hút - công suất:,,,,,,,
+M109.1001,585 cv,290,"9,0","4,10",6,573 lít diezel,1 thuyền trưởng + thuyền phó + 1 máy trưởng + 1 máy II + 1 kỹ thuật viên cuốc I + 1 kỹ thuật viên cuốc II + 2 thợ máy + 4 thuỷ thủ,7.685.500
+M109.1002,1200 cv,290,"7,0","3,75",6,1008 lít diezel,1 thuyền trưởng + thuyền phó + 1 máy trưởng + 1 máy II + 1 điện trưởng + 1 kỹ thuật viên cuốc I + 1 kỹ thuật viên cuốc II + 6 thợ máy + 2 thuỷ thủ,20.115.500
+M109.1003,3958 cv ÷ 4170 cv,290,"7,0","2,40",6,3211 lít diezel,1 thuyền trưởng + thuyền phó + 1 máy trưởng + 1 máy II + 1 điện trưởng + 1 kỹ thuật viên cuốc I + 3 kỹ thuật viên cuốc II + 6 thợ máy + 4 thuỷ thủ,101.976.100
+M109.1004,280 cv,290,"9,0","4,10",6,342 lít diezel,1 thuyền trưởng + thuyền phó + 1 máy trưởng + 1 máy II + 1 kỹ thuật viên cuốc I + 1 kỹ thuật viên cuốc II + 2 thợ máy + 4 thuỷ thủ,
+M109.1005,400 cv,290,"9,0","4,10",6,450 lít diezel,1 thuyền trưởng + thuyền phó + 1 máy trưởng + 1 máy II + 1 kỹ thuật viên cuốc I + 1 kỹ thuật viên cuốc II + 2 thợ máy + 4 thuỷ thủ,
+M109.1100,Tàu hút bụng tự hành - công suất:,,,,,,,
+M109.1101,1390 cv,290,"7,0","6,50",6,1446 lít diezel,1 thuyền trưởng + thuyền phó + 1 máy trưởng + 1 máy II + 1 điện trưởng + 1 kỹ thuật viên cuốc I + 1 kỹ thuật viên cuốc II + 2 thợ máy + 4 thuỷ thủ,11.388.400
+M109.1102,5945 cv,290,"7,0","6,00",6,5232 lít diezel,1 thuyền trưởng + 1 thuyền phó + 1 máy trưởng + 1 máy II + 1 điện trưởng + 1 kỹ thuật viên cuốc I + 1 kỹ thuật viên cuốc II + 2 thợ máy + 4 thuỷ thủ,65.840.000
+M109.1200,"Tầu ngoạm (có tính năng phá đá ngầm), công suất 3170 CV - dung tích gầu:",,,,,,,
+M109.1201,17 m3,290,"9,0","5,50",6,2663 lít diezel,1 thuyền trưởng + 1 thuyền phó + 1 máy trưởng + 1 máy II + 1 kỹ thuật viên cuốc I + 3 kỹ thuật viên cuốc II + 4 thợ máy + 4 thuỷ thủ,38.478.500
+M109.1300,Máy xáng cạp - dung tích gầu:,,,,,,,
+M109.1301,"1,25 m3",250,"10,0","5,20",6,70 lít diezel,1 nhân công vận hành,1.699.696
+M109.1401,Trạm lặn,170,"25,0","7,50",8,,2 thợ lặn,77.160
+M110.0000,MÁY VÀ THIẾT BỊ THI CÔNG TRONG HẦM,,,,,,,
+M110.0100,Máy xúc chuyên dùng trong hầm - dung tích gầu:,,,,,,,
+M110.0101,"0,9 m3",290,"13,0","4,80",6,52 lít diezel,1 nhân công vận hành,3.125.148
+M110.0102,"1,65 m3",290,"13,0","4,80",6,65 lít diezel,1 nhân công vận hành,3.593.955
+M110.0200,"Máy cào đá, động cơ điện - năng suất:",,,,,,,
+M110.0201,3 m3/ph,290,"12,0","5,30",6,248 kWh,1 nhân công vận hành,975.792
+M110.0300,Thiết bị phục vụ vận chuyển đá nổ mìn trong hầm:,,,,,,,
+M110.0301,Tời ma nơ - 13 kW,300,"14,0","4,30",6,43 kWh,1 nhân công vận hành,29.121
+M110.0302,Xe goòng 3 t,300,"14,0","4,30",6,,1 nhân công vận hành,30.956
+M110.0303,Đầu kéo 30 t,300,"11,0","3,80",6,37 lít diezel,1 nhân công vận hành,3.107.721
+M110.0304,Quang lật 360 t/h,300,"14,0","4,30",6,27 kWh,1 nhân công vận hành,247.875
+M110.0400,Máy nâng phục vụ thi công hầm - công suất:,,,,,,,
+M110.0401,135 cv,270,"12,0","3,10",6,45 lít diezel,1 nhân công vận hành,781.918
+M111.0000,"MÁY VÀ THIẾT BỊ THI CÔNG ĐƯỜNG ỐNG, ĐƯỜNG CÁP NGẦM",,,,,,,
+M111.0100,Máy và thiết bị khoan đặt đường ống:,,,,,,,
+M111.0101,"Máy nâng TO-12-24, sức nâng 15t",180,"16,0","4,20",6,53 lít diezel,2 nhân công vận hành,1.091.245
+M111.0102,Máy khoan ngang UĐB-4,150,"17,0","4,20",6,33 lít xăng,2 nhân công vận hành,464.335
+M111.0200,Máy và thiết bị khoan đặt đường cáp ngầm:,,,,,,,
+M111.0201,Máy khoan ngầm có định hướng,260,"15,0","3,50",6,201 kWh,2 nhân công vận hành,5.938.103
+M111.0202,Hệ thống STS (phục vụ khoan ngầm có định hướng khi khoan qua sông nước),150,"15,0","3,50",6,2 kWh,2 nhân công vận hành,1.755.761
+M112.0000,MÁY VÀ THIẾT BỊ THI CÔNG KHÁC,,,,,,,
+M112.0100,"Máy bơm nước, động cơ điện - công suất:",,,,,,,
+M112.0101,"1,1 kW",190,"17,0","4,70",5,3 kWh,,3.440
+M112.0102,2 kW,190,"17,0","4,70",5,5 kWh,,3.898
+M112.0103,"2,8 kW",190,"17,0","4,70",5,8 kWh,,4.586
+M112.0104,"7 kW ÷ 7,5 kW",180,"17,0","4,70",5,10 kWh,,10.663
+M112.0105,14 kW,180,"16,0","4,50",5,34 kWh,,17.198
+M112.0106,20 kW,180,"16,0","4,20",5,48 kWh,,27.860
+M112.0200,"Máy bơm nước, động cơ diezel - công suất:",,,,,,,
+M112.0201,5 cv,150,"20,0","5,40",5,"2,7 lít diezel",,12.956
+M112.0202,"5,5 cv",150,"20,0","5,40",5,3 lít diezel,,15.478
+M112.0203,10 cv,150,"20,0","5,40",5,5 lít diezel,,26.943
+M112.0204,20 cv,150,"18,0","4,70",5,10 lít diezel,,65.809
+M112.0205,25 cv,150,"17,0","4,00",5,11 lít diezel,,73.720
+M112.0206,30 cv,150,"17,0","4,00",5,15 lít diezel,,89.198
+M112.0207,40 cv,150,"17,0","4,40",5,20 lít diezel,,114.952
+M112.0208,75 cv,150,"16,0","3,80",5,36 lít diezel,,237.442
+M112.0209,120 cv,150,"16,0","3,80",5,53 lít diezel,,267.801
+M112.0210,200 m3/h,150,"20,0","5,40",5,98 lít diezel,,
+M112.0300,"Máy bơm nước, động cơ xăng - công suất:",,,,,,,
+M112.0301,3 cv,150,"20,0","5,80",5,"1,6 lít xăng",,9.860
+M112.0302,6 cv,150,"20,0","5,80",5,3 lít xăng,,16.854
+M112.0303,8 cv,150,"20,0","5,80",5,4 lít xăng,,22.013
+M112.0401,"Máy bơm chân không 7,5 kW",280,"13,0","3,60",5,22 kWh,,252.231
+M112.0402,Máy bơm xói 4MC (75 kW),180,"13,0","3,60",5,180 kWh,1 nhân công vận hành,120.039
+M112.0501,Máy bơm áp lực xói nước đầu cọc (300 cv),180,"13,0","2,20",5,111 lít diezel,1 nhân công vận hành,1.158.316
+M112.0600,Máy bơm vữa - năng suất:,,,,,,,
+M112.0601,6 m3/h,150,"18,0","6,60",5,19 kWh,1 nhân công vận hành,103.415
+M112.0602,9 m3/h,150,"18,0","6,60",5,34 kWh,1 nhân công vận hành,129.899
+M112.0603,32 - 50 m3/h,150,"18,0","6,10",5,72 kWh,1 nhân công vận hành,170.830
+M112.0605,15 m3/h,150,"18,0","6,10",5,67 kWh,1 nhân công vận hành,156.815
+M112.0700,"Máy bơm cát, động cơ diezel - công suất:",,,,,,,
+M112.0701,126 cv,200,"12,0","3,80",5,54 lít diezel,1 nhân công vận hành,240.684
+M112.0702,350 cv,200,"12,0","3,50",5,127 lít diezel,1 nhân công vận hành,505.900
+M112.0703,380 cv,200,"12,0","3,30",5,136 lít diezel,1 nhân công vận hành,541.420
+M112.0704,480 cv,200,"12,0","3,10",5,168 lít diezel,1 nhân công vận hành,659.820
+M112.0705,600 m3/h,200,"12,0","3,80",5,210 lít diezel,1 nhân công vận hành,
+M112.0800,"Xe bơm bê tông, tự hành - năng suất:",,,,,,,
+M112.0801,50 m3/h,260,"13,0","5,40",6,53 lít diezel,1 nhân công vận hành + 1 lái xe,2.508.786
+M112.0802,60 m3/h,260,"13,0","5,00",6,60 lít diezel,1 nhân công vận hành + 1 lái xe,2.809.744
+M112.0900,Máy bơm bê tông - năng suất:,,,,,,,
+M112.0901,40 - 60 m3/h,220,"13,0","6,50",5,182 kWh,2 nhân công vận hành,1.245.106
+M112.0902,60 - 90 m3/h,220,"13,0","6,50",5,248 kWh,2 nhân công vận hành,1.711.849
+M112.1000,Máy phun vẩy - năng suất:,,,,,,,
+M112.1001,9 m3/h (AL 285),200,"13,0","4,90",6,54 kWh,1 nhân công vận hành,1.734.436
+M112.1002,16 m3/h (AL 500),200,"13,0","4,50",6,429 kWh,1 nhân công vận hành,6.737.447
+M112.1100,"Máy đầm bê tông, đầm bàn - công suất:",,,,,,,
+M112.1101,"1,0 kW",150,"25,0","8,80",4,5 kWh,1 nhân công vận hành,6.420
+M112.1200,"Máy đầm bê tông, đầm cạnh - công suất:",,,,,,,
+M112.1201,"1,0 kW",150,"25,0","8,80",4,5 kWh,,5.045
+M112.1300,"Máy đầm bê tông, dầm dùi - công suất:",,,,,,,
+M112.1301,"1,5 kW",150,"20,0","8,80",4,7 kWh,1 nhân công vận hành,7.395
+M112.1302,"3,5 kW",150,"20,0","6,50",4,16 kWh,1 nhân công vận hành,24.535
+M112.1400,Máy phun (chưa tính khí nén):,,,,,,,
+M112.1401,Máy phun sơn 400 m2/h,150,"22,0","5,40",4,,1 nhân công vận hành,8.026
+M112.1402,"Máy phun chất tạo màng 5,5Hp",150,"22,0","5,40",4,,1 nhân công vận hành,7.452
+M112.1403,Máy phun cát,200,"22,0","4,20",4,,1 nhân công vận hành,16.510
+M112.1404,Máy phun bi 235 kW,250,"22,0","4,20",4,176 kWh,2 nhân công vận hành,3.123.015
+M112.1500,Máy khoan đứng - công suất:,,,,,,,
+M112.1501,"2,5 kW",220,"12,5","4,10",4,5 kWh,,42.900
+M112.1502,"4,5 kW",220,"12,5","4,10",4,9 kWh,,57.200
+M112.1600,"Máy khoan sắt cầm tay, đường kính khoan:",,,,,,,
+M112.1601,"1,7 kW",130,"30,0","8,40",4,3 kWh,,4.150
+M112.1700,Máy khoan bê tông cầm tay - công suất:,,,,,,,
+M112.1701,"0,62 kW",150,"30,0","7,50",4,"0,9 kWh",,4.800
+M112.1702,"0,75 kW",150,"20,0","7,50",4,"1,1 kWh",,6.250
+M112.1703,"0,85 kW",150,"20,0","7,50",4,"1,3 kWh",,6.750
+M112.1704,"1,00 kW",130,"20,0","7,50",4,"1,6 kWh",,8.400
+M112.1705,"1,50 kW",110,"20,0","7,50",4,"2,3 kWh",,10.400
+M112.1800,Máy luồn cáp - công suất:,,,,,,,
+M112.1801,15 kW,240,"9,0","2,20",5,27 kWh,1 nhân công vận hành,94.900
+M112.1900,Máy cắt cáp - công suất:,,,,,,,
+M112.1901,10 kW,230,"13,3","3,50",4,13 kWh,1 nhân công vận hành,23.400
+M112.2000,Máy cắt sắt cầm tay - công suất:,,,,,,,
+M112.2001,"1,7 kW",130,"30,0","7,50",4,3 kWh,,7.750
+M112.2100,Máy cắt gạch đá - công suất:,,,,,,,
+M112.2101,"1,5 kW",120,"20,0","5,5",4,"2,7 kWh",,8.750
+M112.2102,"1,7 kW",90,"14,0","7,00",4,3 kWh,,7.900
+M112.2200,Máy cắt bê tông - công suất:,,,,,,,
+M112.2201,"7,5 kW",120,"20,0","5,50",4,11 kWh,1 nhân công vận hành,17.400
+M112.2202,12 cv (MCD 218),120,"20,0","4,50",5,8 lít xăng,1 nhân công vận hành,38.500
+M112.2203,"Máy cắt vát 20,5cv",120,"20,0","4,50",5,34 lít xăng,1 nhân công vận hành,325.000
+M112.2204,Máy cắt khe tạo nhám 55kW,120,"20,0","4,50",5,50 lít diezel,1 nhân công vận hành,4.776.400
+M112.2300,Máy cắt ống - công suất:,,,,,,,
+M112.2301,5 kW,240,"14,0","4,50",4,9 kWh,1 nhân công vận hành,28.200
+M112.2400,Máy cắt tôn - công suất:,,,,,,,
+M112.2401,5 kW,240,"13,0","3,80",4,10 kWh,1 nhân công vận hành,18.800
+M112.2402,15 kW,240,"13,0","3,90",4,27 kWh,1 nhân công vận hành,156.600
+M112.2500,Máy cắt đột - công suất:,,,,,,,
+M112.2501,"2,8 kW",240,"14,0","4,10",4,5 kWh,1 nhân công vận hành,41.700
+M112.2600,Máy cắt uốn cốt thép - công suất:,,,,,,,
+M112.2601,5 kW,240,"14,0","4,10",4,9 kWh,1 nhân công vận hành,18.200
+M112.2700,Máy cắt cỏ cầm tay - công suất:,,,,,,,
+M112.2701,"0,8 kW",190,"20,5","10,50",4,2 kWh,,4.600
+M112.2801,Máy cắt thép Plasma,230,"13,0","3,80",4,13 kWh,1 nhân công vận hành,68.900
+M112.2900,Búa căn khí nén (chưa tính khí nén) - tiêu hao khí nén:,,,,,,,
+M112.2901,"1,5 m3/ph",120,"30,0","6,60",5,,,5.400
+M112.2902,"3,0 m3/ph",120,"30,0","6,60",5,,,6.100
+M112.3000,Máy uốn ống - công suất:,,,,,,,
+M112.3001,"2,0 kW÷2,8 kW",230,"14,0","4,50",4,5 kWh,1 nhân công vận hành,28.200
+M112.3100,Máy lốc tôn - công suất:,,,,,,,
+M112.3101,5 kW,230,"13,0","3,90",4,10 kWh,1 nhân công vận hành,54.800
+M112.3102,Máy lốc tôn (chiều dày tôn đến 40mm),230,"13,0","3,90",4,32 kWh,1 nhân công vận hành,2.818.531
+M112.3200,Máy cưa kim loại - công suất:,,,,,,,
+M112.3201,"1,7 kW",230,"14,0","4,10",4,4 kWh,,22.700
+M112.3202,"2,7 kW",230,"14,0","4,10",4,6 kWh,,27.300
+M112.3300,Máy tiện - công suất:,,,,,,,
+M112.3301a,"4,5kW",230,"14,0","4,10",4,10 kWh,1 nhân công vận hành,40.500
+M112.3301,10 kW,230,"14,0","4,10",4,19 kWh,1 nhân công vận hành,111.400
+M112.3400,Máy bào thép - công suất:,,,,,,,
+M112.3401,"7,5 kW",230,"14,0","4,10",4,16 kWh,1 nhân công vận hành,72.900
+M112.3500,Máy phay - công suất:,,,,,,,
+M112.3501,7 kW,230,"14,0","4,10",4,15 kWh,1 nhân công vận hành,89.100
+M112.3600,Máy ghép mí - công suất:,,,,,,,
+M112.3601,"1,1 kW",220,"14,0","4,10",4,2 kWh,1 nhân công vận hành,6.100
+M112.3700,Máy mài - công suất:,,,,,,,
+M112.3701,"1,0 kW",220,"14,0","4,90",4,2 kWh,,3.500
+M112.3702,"1,6 kW - 1,7 kW",220,"14,0","4,90",4,3 kWh,,7.400
+M112.3703,"2,7 kW",230,"14,0","4,90",4,4 kWh,,11.200
+M112.3800,Máy cưa gỗ cầm tay - công suất:,,,,,,,
+M112.3801,"1,3 kW",180,"30,0","10,5",4,3 kWh,,7.600
+M112.3900,Máy hàn một chiều - công suất:,,,,,,,
+M112.3901,50 kW,200,"24,0","4,50",5,105 kWh,1 nhân công vận hành,26.000
+M112.4000,Máy hàn xoay chiều - công suất:,,,,,,,
+M112.4001,7 kW,200,"21,0","4,80",5,15 kWh,1 nhân công vận hành,4.300
+M112.4002,14 kW ÷ 15 kW,200,"21,0","4,80",5,29 kWh,1 nhân công vận hành,8.600
+M112.4003,23 kW,200,"21,0","4,80",5,48 kWh,1 nhân công vận hành,16.000
+M112.4100,Máy hàn hơi - công suất:,,,,,,,
+M112.4101,1000 l/h,160,"21,0","4,80",5,,1 nhân công vận hành,3.400
+M112.4102,2000 l/h,160,"21,0","4,80",5,,1 nhân công vận hành,5.200
+M112.4201,Máy hàn cắt dưới nước,90,"21,0","10,0",5,,2 thợ lặn,106.900
+M112.4202,Máy hàn TIG,200,"21,0","4,80",5,40 kWh,1 nhân công vận hành,41.528
+M112.4300,Máy hàn nối ống nhựa:,,,,,,,
+M112.4301,Máy hàn nhiệt cầm tay,200,"21,0","6,50",5,6 kWh,,1.532
+M112.4302,Máy gia nhiệt D315mm,200,"21,0","6,50",5,8 kWh,1 nhân công vận hành,50.000
+M112.4303,Máy gia nhiệt D630mm,200,"21,0","6,50",5,12 kWh,1 nhân công vận hành,122.727
+M112.4304,Máy gia nhiệt D1200mm,200,"21,0","6,50",5,18 kWh,1 nhân công vận hành,170.909
+M112.4400,Máy quạt gió - công suất:,,,,,,,
+M112.4401,"2,5 kW",160,"19,0","1,70",5,16 kWh,,3.600
+M112.4402,"4,5 kW",160,"19,0","1,70",5,29 kWh,,7.900
+M112.4500,Máy khoan khoan đập cáp - công suất:,,,,,,,
+M112.4501,40 kW,200,"14,0","6,40",5,144 kWh,1 nhân công vận hành,630.000
+M112.4600,Máy khoan xoay - công suất:,,,,,,,
+M112.4601,54 cv,230,"14,0","6,50",5,19 lít diezel,1 nhân công vận hành,1.117.200
+M112.4602,300 cv,230,"13,0","3,90",5,97 lít diezel,1 nhân công vận hành,7.036.900
+M112.4700,Bộ kích chuyên dùng,,,,,,,
+M112.4701,Bộ thiết bị trượt (60 kích loại 6 t),200,"18,0","4,50",5,65 kWh,2 nhân công vận hành,550.300
+M112.4702,"Bộ kích lắp dựng, tháo dỡ ván khuôn 50-60 t",200,"13,0","2,20",5,14 kWh,1 nhân công vận hành,91.300
+M112.4800,Một số máy và thiết bị chuyên dùng,,,,,,,
+M112.4801,Máy xiết bu lông,230,14,"4,90",4,3 kWh,,37.900
+M112.4802,"Máy xóa vạch sơn, công suất 13HP",200,20,"3,50",5,4 lít xăng,,34.166
+M112.4803,Máy hiện sóng 2 tia (Oscilograf),220,10,"3,50",5,,,93.480
+M112.4804,Vôn mét điện tử,200,10,"2,20",4,,,3.400
+M112.4805,Đồng hồ vạn năng,200,10,"2,20",4,,,1.500
