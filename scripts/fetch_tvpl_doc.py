@@ -47,11 +47,16 @@ class ChromeCDP:
         self.ws: websocket.WebSocket | None = None
 
     def get_pages(self) -> list[dict[str, Any]]:
-        """List all open page targets in Chrome."""
+        """List all open page targets in Chrome, creating one if none exist."""
         try:
             resp = requests.get(f"{self.base_url}/json", timeout=5)
             resp.raise_for_status()
-            return [t for t in resp.json() if t.get("type") == "page"]
+            pages = [t for t in resp.json() if t.get("type") == "page"]
+            if not pages:
+                new_tab_resp = requests.put(f"{self.base_url}/json/new?about:blank", timeout=5)
+                if new_tab_resp.status_code in (200, 201):
+                    pages = [new_tab_resp.json()]
+            return pages
         except Exception as e:
             raise ChromeCDPError(f"Failed to connect to Chrome on port {self.port}: {e}") from e
 

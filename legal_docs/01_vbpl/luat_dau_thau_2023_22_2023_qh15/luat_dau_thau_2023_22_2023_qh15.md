@@ -21,11 +21,7 @@ legal_basis: []
 
 ---
 
-LUẬT ĐẤU THẦU SỐ 22/2023/QH15
 
-# Chương I
-
-QUY ĐỊNH CHUNG
 
 
 <a id="dieu-1"></a>
@@ -37,14 +33,14 @@ Luật này quy định về quản lý nhà nước đối với hoạt động
 <a id="dieu-2"></a>
 ### Điều 2. Đối tượng áp dụng
 
-Luật này áp dụng đối với các cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động đấu thầu bao gồm:
+Luật này áp dụng đối với các cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động đấu thầu bao gồm: 
 
 <a id="dieu-2-khoan-1"></a>
-**1.** Hoạt động lựa chọn nhà thầu có sử dụng vốn ngân sách nhà nước theo quy định của Luật Ngân sách nhà nước , vốn từ nguồn thu hợp pháp theo quy định của pháp luật của các cơ quan nhà nước, đơn vị sự nghiệp công lập để:
+**1.** Hoạt động lựa chọn nhà thầu có sử dụng vốn ngân sách nhà nước theo quy định của Luật Ngân sách nhà nước, vốn từ nguồn thu hợp pháp theo quy định của pháp luật của các cơ quan nhà nước, đơn vị sự nghiệp công lập để:
 
 a) Thực hiện dự án đầu tư, dự toán mua sắm của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị sự nghiệp công lập và các tổ chức, cá nhân khác;
 
-b) Cung cấp sản phẩm, dịch vụ công; mua thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế; mua hàng dự trữ quốc gia, thuê bảo quản hàng dự trữ quốc gia, trừ hoạt động mua trực tiếp rộng rãi của mọi đối tượng theo quy định của pháp luật về dự trữ quốc gia;
+b) Cung cấp sản phẩm, dịch vụ công; mua thuốc, hóa chất,__ __vật tư xét nghiệm, thiết bị y tế; mua hàng dự trữ quốc gia, thuê bảo quản hàng dự trữ quốc gia, trừ hoạt động mua trực tiếp rộng rãi của mọi đối tượng theo quy định của pháp luật về dự trữ quốc gia;
 
 c) Thực hiện các công việc khác phải tổ chức đấu thầu theo quy định của pháp luật có liên quan;
 
@@ -58,7 +54,7 @@ b) Gói thầu trang bị cơ sở vật chất - kỹ thuật, máy móc, thi�
 <a id="dieu-2-khoan-3"></a>
 **3.** Hoạt động lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh gồm:
 
-a) Dự án đầu tư có sử dụng đất thuộc trường hợp phải tổ chức đấu thầu theo quy định của pháp luật về đất đai;
+a) Dự án đầu tư có sử dụng đất thuộc trường hợp phải tổ chức đấu thầu theo quy định của pháp luật về đất đai; 
 
 b) Dự án đầu tư thuộc trường hợp phải tổ chức đấu thầu lựa chọn nhà đầu tư theo quy định của pháp luật quản lý ngành, lĩnh vực;
 
@@ -67,7 +63,7 @@ b) Dự án đầu tư thuộc trường hợp phải tổ chức đấu thầu 
 
 
 <a id="dieu-3"></a>
-### Điều 3. Áp dụng Luật Đấu thầu, pháp luật có liên quan và điều ước quốc tế, thỏa thuận về vốn hỗ trợ phát triển chính thức, vốn vay ưu đãi của nhà tài trợ nước ngoài
+### Điều 3. Áp dụng Luật Đấu thầu, pháp luật có liên quan và điều ước quốc tế, thỏa thuận về vốn hỗ trợ phát triển chính thức, __vốn vay ưu đãi của nhà tài trợ nước ngoài__
 
 <a id="dieu-3-khoan-1"></a>
 **1.** Hoạt động đấu thầu thuộc phạm vi điều chỉnh của Luật này phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan. Trường hợp có quy định khác nhau về đấu thầu giữa Luật này và luật khác được ban hành trước ngày Luật này có hiệu lực thi hành thì thực hiện theo quy định của Luật này, trừ trường hợp quy định tại các khoản 2, 3, 4, 5, 6 và 7 Điều này.
@@ -84,7 +80,7 @@ b) Dự án đầu tư thuộc trường hợp phải tổ chức đấu thầu 
 <a id="dieu-3-khoan-5"></a>
 **5.** Việc lựa chọn nhà thầu thuộc dự án có sử dụng vốn hỗ trợ phát triển chính thức (ODA), vốn vay ưu đãi của nhà tài trợ nước ngoài theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên (sau đây gọi là điều ước quốc tế), thỏa thuận vay nước ngoài thì áp dụng quy định của điều ước quốc tế, thỏa thuận vay đó. Trường hợp điều ước quốc tế, thỏa thuận vay không quy định hoặc quy định phải áp dụng pháp luật Việt Nam thì áp dụng quy định của Luật này.
 
-Trước khi đàm phán, quyết định ký thỏa thuận vay không phải là điều ước quốc tế có quy định về đấu thầu khác hoặc chưa được quy định tại Luật này, Chính phủ trình Ủy ban Thường vụ Quốc hội cho ý kiến.
+Trước khi đàm phán, quyết định ký thỏa thuận vay không phải là điều ước quốc tế có quy định về đấu thầu khác hoặc chưa được quy định tại Luật này, Chính phủ trình Ủy ban Thường vụ Quốc hội cho ý kiến. 
 
 <a id="dieu-3-khoan-6"></a>
 **6.** Trường hợp gói thầu bao gồm cả nội dung mua sắm thuộc phạm vi điều chỉnh của Luật này và nội dung mua sắm thuộc phạm vi điều chỉnh của điều ước quốc tế thì người có thẩm quyền có thể quyết định việc lựa chọn nhà thầu của phần nội dung mua sắm thuộc phạm vi điều chỉnh của Luật này thực hiện theo quy định của điều ước quốc tế.
@@ -92,19 +88,19 @@ Trước khi đàm phán, quyết định ký thỏa thuận vay không phải l
 <a id="dieu-3-khoan-7"></a>
 **7.** Cơ quan, tổ chức, doanh nghiệp được tự quyết định việc lựa chọn nhà thầu trên cơ sở bảo đảm công khai, minh bạch, hiệu quả kinh tế và trách nhiệm giải trình trong các trường hợp sau đây:
 
-a) Lựa chọn nhà thầu thực hiện gói thầu sử dụng vốn do tổ chức, cá nhân trong nước tài trợ mà nhà tài trợ yêu cầu không lựa chọn nhà thầu theo quy định của Luật này; gói thầu của đơn vị sự nghiệp công lập sử dụng nguồn vốn vay, trừ vốn tín dụng đầu tư của nhà nước, vốn vay lại từ vốn ODA, vốn vay ưu đãi của nhà tài trợ nước ngoài ;
+a) Lựa chọn nhà thầu thực hiện gói thầu sử dụng vốn do tổ chức, cá nhân trong nước tài trợ mà nhà tài trợ yêu cầu không lựa chọn nhà thầu theo quy định của Luật này; gói thầu của đơn vị sự nghiệp công lập sử dụng nguồn vốn vay, trừ vốn tín dụng đầu tư của nhà nước, vốn vay lại từ vốn ODA, vốn vay ưu đãi của nhà tài trợ nước ngoài;
 
 b) Tổ chức lựa chọn nhà thầu ở nước ngoài của cơ quan nhà nước, đơn vị sự nghiệp công lập, doanh nghiệp nhà nước, doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ, trừ trường hợp quy định tại khoản 4 Điều này;
 
 c) Việc thuê, mua, thuê mua nhà, trụ sở, tài sản gắn liền với đất;
 
-d) Lựa chọn nhà thầu cung cấp hàng hóa, dịch vụ tư vấn, dịch vụ phi tư vấn để bảo đảm tính liên tục cho hoạt động sản xuất, kinh doanh và mua sắm nhằm duy trì hoạt động thường xuyên sử dụng nguồn vốn sản xuất, kinh doanh của doanh nghiệp nhà nước, doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ; lựa chọn nhà thầu để thực hiện các gói thầu thuộc dự án đầu tư kinh doanh quy định tại khoản 3 Điều 2 của Luật này ; lựa chọn nhà thầu cung cấp dịch vụ tư vấn, nguyên liệu, nhiên liệu, vật liệu, vật tư, dịch vụ phi tư vấn phục vụ trực tiếp cho gói thầu mà đơn vị sự nghiệp công lập đã trúng thầu;
+d) Lựa chọn nhà thầu cung cấp hàng hóa, dịch vụ tư vấn, dịch vụ phi tư vấn để bảo đảm tính liên tục cho hoạt động sản xuất, kinh doanh và mua sắm nhằm duy trì hoạt động thường xuyên sử dụng nguồn vốn sản xuất, kinh doanh của doanh nghiệp nhà nước, doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ; lựa chọn nhà thầu để thực hiện các gói thầu thuộc dự án đầu tư kinh doanh quy định tại khoản 3 Điều 2 của Luật này; lựa chọn nhà thầu cung cấp dịch vụ tư vấn, nguyên liệu, nhiên liệu, vật liệu, vật tư, dịch vụ phi tư vấn phục vụ trực tiếp cho gói thầu mà đơn vị sự nghiệp công lập đã trúng thầu;
 
 đ) Việc xác định hòa giải viên, thành viên trong ban phân xử tranh chấp, hội đồng trọng tài để xử lý tranh chấp phát sinh trong quá trình thực hiện hợp đồng do các bên tự quyết định theo quy định của hợp đồng;
 
 e) Mua sắm hàng hóa, dịch vụ có giá bán do Nhà nước định giá cụ thể theo quy định của pháp luật về giá;
 
-g) Lựa chọn nhà thầu cung cấp dịch vụ dầu khí, hàng hóa phục vụ hoạt động dầu khí phù hợp với hợp đồng dầu khí được cấp có thẩm quyền phê duyệt theo quy định của Luật Dầu khí .
+g) Lựa chọn nhà thầu cung cấp dịch vụ dầu khí, hàng hóa phục vụ hoạt động dầu khí phù hợp với hợp đồng dầu khí được cấp có thẩm quyền phê duyệt theo quy định của Luật Dầu khí.
 
 
 <a id="dieu-4"></a>
@@ -112,108 +108,90 @@ g) Lựa chọn nhà thầu cung cấp dịch vụ dầu khí, hàng hóa phục
 
 Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-<a id="dieu-4-khoan-1"></a>
-**1.** Bên mời thầu là cơ quan, tổ chức thực hiện các hoạt động đấu thầu, bao gồm:
+1.* Bên mời thầu* là cơ quan, tổ chức thực hiện các hoạt động đấu thầu, bao gồm:
 
 a) Chủ đầu tư hoặc tổ chức do chủ đầu tư quyết định thành lập hoặc lựa chọn;
 
 b) Cơ quan có thẩm quyền chấp thuận chủ trương đầu tư hoặc cơ quan có thẩm quyền quyết định tổ chức đấu thầu lựa chọn nhà đầu tư; đơn vị được cơ quan có thẩm quyền giao nhiệm vụ tổ chức lựa chọn nhà đầu tư.
 
-<a id="dieu-4-khoan-2"></a>
-**2.** Chủ đầu tư là cơ quan, tổ chức sở hữu vốn, vay vốn hoặc được giao trực tiếp quản lý, sử dụng vốn, quản lý quá trình thực hiện dự án; đơn vị sử dụng ngân sách; đơn vị dự toán trực tiếp sử dụng dự toán mua sắm ngoài ngân sách nhà nước; đơn vị mua sắm tập trung.
+2.* Chủ đầu tư* là cơ quan, tổ chức sở hữu vốn, vay vốn hoặc được giao trực tiếp quản lý, sử dụng vốn, quản lý quá trình thực hiện dự án; đơn vị sử dụng ngân sách; đơn vị dự toán trực tiếp sử dụng dự toán mua sắm ngoài ngân sách nhà nước; đơn vị mua sắm tập trung. 
 
-<a id="dieu-4-khoan-3"></a>
-**3.** Danh sách ngắn là danh sách nhà thầu trúng sơ tuyển đối với đấu thầu rộng rãi có sơ tuyển; danh sách nhà thầu, nhà đầu tư được mời tham dự thầu đối với đấu thầu hạn chế; danh sách nhà thầu có hồ sơ quan tâm đáp ứng yêu cầu của hồ sơ mời quan tâm.
+3.* Danh sách ngắn* là danh sách nhà thầu trúng sơ tuyển đối với đấu thầu rộng rãi có sơ tuyển; danh sách nhà thầu, nhà đầu tư được mời tham dự thầu đối với đấu thầu hạn chế; danh sách nhà thầu có hồ sơ quan tâm đáp ứng yêu cầu của hồ sơ mời quan tâm.
 
-<a id="dieu-4-khoan-4"></a>
-**4.** Dịch vụ tư vấn là một hoặc một số hoạt động dịch vụ bao gồm: lập, đánh giá báo cáo quy hoạch, tổng sơ đồ phát triển, kiến trúc; khảo sát, lập báo cáo nghiên cứu tiền khả thi, báo cáo đề xuất chủ trương đầu tư, hồ sơ đề nghị chấp thuận chủ trương đầu tư, báo cáo nghiên cứu khả thi, báo cáo kinh tế - kỹ thuật, báo cáo đánh giá tác động môi trường; khảo sát, lập thiết kế, dự toán; tư vấn đấu thầu; tư vấn thẩm tra, thẩm định; tư vấn giám sát; tư vấn quản lý dự án; tư vấn thu xếp tài chính; kiểm toán và các dịch vụ tư vấn khác.
+4.* Dịch vụ tư vấn* là một hoặc một số hoạt động dịch vụ bao gồm: lập, đánh giá báo cáo quy hoạch, tổng sơ đồ phát triển, kiến trúc; khảo sát, lập báo cáo nghiên cứu tiền khả thi, báo cáo đề xuất chủ trương đầu tư, hồ sơ đề nghị chấp thuận chủ trương đầu tư, báo cáo nghiên cứu khả thi, báo cáo kinh tế - kỹ thuật, báo cáo đánh giá tác động môi trường; khảo sát, lập thiết kế, dự toán; tư vấn đấu thầu; tư vấn thẩm tra, thẩm định; tư vấn giám sát; tư vấn quản lý dự án; tư vấn thu xếp tài chính; kiểm toán và các dịch vụ tư vấn khác.
 
-<a id="dieu-4-khoan-5"></a>
-**5.** Dịch vụ phi tư vấn là một hoặc một số hoạt động dịch vụ bao gồm: logistics, bảo hiểm, quảng cáo, nghiệm thu chạy thử, chụp ảnh vệ tinh; in ấn; vệ sinh; truyền thông; sửa chữa, bảo trì, bảo dưỡng và hoạt động dịch vụ khác không phải là dịch vụ tư vấn quy định tại khoản 4 Điều này.
+5.* Dịch vụ phi tư vấn* là một hoặc một số hoạt động dịch vụ bao gồm: logistics, bảo hiểm, quảng cáo, nghiệm thu chạy thử, chụp ảnh vệ tinh; in ấn; vệ sinh; truyền thông; sửa chữa, bảo trì, bảo dưỡng và hoạt động dịch vụ khác không phải là dịch vụ tư vấn quy định tại khoản 4 Điều này.
 
-<a id="dieu-4-khoan-6"></a>
-**6.** Dự án đầu tư (sau đây gọi là dự án) bao gồm: chương trình, dự án đầu tư xây dựng mới; dự án mua sắm tài sản; dự án cải tạo, nâng cấp, mở rộng; dự án, nhiệm vụ, đề án quy hoạch; hỗ trợ kỹ thuật; các chương trình, dự án khác theo quy định của pháp luật.
+6.* Dự án đầu tư* (sau đây gọi là dự án) bao gồm: chương trình, dự án đầu tư xây dựng mới; dự án mua sắm tài sản; dự án cải tạo, nâng cấp, mở rộng; dự án, nhiệm vụ, đề án quy hoạch; hỗ trợ kỹ thuật; các chương trình, dự án khác theo quy định của pháp luật.
 
-<a id="dieu-4-khoan-7"></a>
-**7.** Dự toán mua sắm là dự kiến nguồn kinh phí để mua sắm trong phạm vi dự toán ngân sách nhà nước được cấp có thẩm quyền phê duyệt đối với cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị sự nghiệp công lập và các tổ chức, cá nhân khác; dự kiến nguồn kinh phí để mua sắm trong phạm vi nguồn tài chính hợp pháp của cơ quan nhà nước, đơn vị sự nghiệp công lập.
+7.* Dự toán mua sắm*__ __là dự kiến nguồn kinh phí để mua sắm trong phạm vi dự toán ngân sách nhà nước được cấp có thẩm quyền phê duyệt đối với cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, tổ chức xã hội, đơn vị thuộc lực lượng vũ trang nhân dân, đơn vị sự nghiệp công lập và các tổ chức, cá nhân khác; dự kiến nguồn kinh phí để mua sắm trong phạm vi nguồn tài chính hợp pháp của cơ quan nhà nước, đơn vị sự nghiệp công lập.
 
-<a id="dieu-4-khoan-8"></a>
-**8.** Đấu thầu là quá trình lựa chọn nhà thầu để ký kết, thực hiện hợp đồng cung cấp dịch vụ tư vấn, dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, lựa chọn nhà đầu tư để ký kết, thực hiện hợp đồng dự án đầu tư kinh doanh trên cơ sở bảo đảm cạnh tranh, công bằng, minh bạch, hiệu quả kinh tế và trách nhiệm giải trình.
+8.* Đấu thầu* là quá trình lựa chọn nhà thầu để ký kết, thực hiện hợp đồng cung cấp dịch vụ tư vấn, dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, lựa chọn nhà đầu tư để ký kết, thực hiện hợp đồng dự án đầu tư kinh doanh trên cơ sở bảo đảm cạnh tranh, công bằng, minh bạch, hiệu quả kinh tế và trách nhiệm giải trình.
 
-<a id="dieu-4-khoan-9"></a>
-**9.** Đấu thầu qua mạng là việc thực hiện hoạt động đấu thầu trên Hệ thống mạng đấu thầu quốc gia.
+9.* Đấu thầu qua mạng* là việc thực hiện hoạt động đấu thầu trên Hệ thống mạng đấu thầu quốc gia.
 
-<a id="dieu-4-khoan-10"></a>
-**10.** Đấu thầu quốc tế là hoạt động đấu thầu mà nhà thầu, nhà đầu tư trong nước, nước ngoài được tham dự thầu.
+10.* Đấu thầu quốc tế* là hoạt động đấu thầu mà nhà thầu, nhà đầu tư trong nước, nước ngoài được tham dự thầu.
 
-<a id="dieu-4-khoan-11"></a>
-**11.** Đấu thầu trong nước là hoạt động đấu thầu chỉ có nhà thầu, nhà đầu tư trong nước được tham dự thầu.
+11.* Đấu thầu trong nước* là hoạt động__* *__đấu thầu chỉ có nhà thầu, nhà đầu tư trong nước được tham dự thầu. 
 
-<a id="dieu-4-khoan-12"></a>
-**12.** Giá dự thầu là giá do nhà thầu chào trong đơn dự thầu, bao gồm toàn bộ các chi phí để thực hiện gói thầu theo yêu cầu của hồ sơ mời thầu, hồ sơ yêu cầu.
+12.* Giá dự thầu* là giá do nhà thầu chào trong đơn dự thầu, bao gồm toàn bộ các chi phí để thực hiện gói thầu theo yêu cầu của hồ sơ mời thầu, hồ sơ yêu cầu. 
 
 <a id="dieu-4-khoan-13"></a>
-**13.** Giá đề nghị trúng thầu là giá dự thầu của nhà thầu được đề nghị trúng thầu sau khi đã được sửa lỗi, hiệu chỉnh sai lệch theo yêu cầu của hồ sơ mời thầu, hồ sơ yêu cầu, trừ đi giá trị giảm giá (nếu có).
+**13.** *Giá đề nghị trúng thầu* là giá dự thầu của nhà thầu được đề nghị trúng thầu sau khi đã được sửa lỗi, hiệu chỉnh sai lệch theo yêu cầu của hồ sơ mời thầu, hồ sơ yêu cầu, trừ đi giá trị giảm giá (nếu có).
 
 <a id="dieu-4-khoan-14"></a>
-**14.** Giá hợp đồng là giá trị ghi trong hợp đồng giữa chủ đầu tư và nhà thầu.
+**14.** *Giá hợp đồng* là giá trị ghi trong hợp đồng giữa chủ đầu tư và nhà thầu.
 
 <a id="dieu-4-khoan-15"></a>
-**15.** Gói thầu là một phần hoặc toàn bộ dự án, dự toán mua sắm, có thể gồm những nội dung mua sắm giống nhau thuộc nhiều dự án hoặc là khối lượng mua sắm một lần, khối lượng mua sắm cho một thời kỳ đối với dự toán mua sắm, mua sắm tập trung.
+**15.** *Gói thầu* là một phần hoặc toàn bộ dự án, dự toán mua sắm, có thể gồm những nội dung mua sắm giống nhau thuộc nhiều dự án hoặc là khối lượng mua sắm một lần, khối lượng mua sắm cho một thời kỳ đối với dự toán mua sắm, mua sắm tập trung.
 
 <a id="dieu-4-khoan-16"></a>
-**16.** Gói thầu hỗn hợp là gói thầu thuộc các trường hợp sau: thiết kế và cung cấp hàng hóa (EP); thiết kế và xây lắp (EC); cung cấp hàng hóa và xây lắp (PC); thiết kế, cung cấp hàng hóa và xây lắp (EPC); lập dự án, thiết kế, cung cấp hàng hóa và xây lắp (chìa khóa trao tay).
+**16.** *Gói thầu hỗn hợp* là gói thầu thuộc các trường hợp sau: thiết kế và cung cấp hàng hóa (EP); thiết kế và xây lắp (EC); cung cấp hàng hóa và xây lắp (PC); thiết kế, cung cấp hàng hóa và xây lắp (EPC); lập dự án, thiết kế, cung cấp hàng hóa và xây lắp (chìa khóa trao tay).
 
-<a id="dieu-4-khoan-17"></a>
-**17.** Hàng hóa gồm máy móc, thiết bị, nguyên liệu, nhiên liệu, vật liệu, vật tư, phụ tùng; sản phẩm; phương tiện; hàng tiêu dùng; thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế; phần mềm thương mại.
+17.* Hàng hóa* gồm máy móc, thiết bị, nguyên liệu, nhiên liệu, vật liệu, vật tư, phụ tùng; sản phẩm; phương tiện; hàng tiêu dùng; thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế; phần mềm thương mại.
 
-<a id="dieu-4-khoan-18"></a>
-**18.** Hệ thống mạng đấu thầu quốc gia là hệ thống công nghệ thông tin do cơ quan quản lý nhà nước về hoạt động đấu thầu xây dựng và quản lý nhằm mục đích thống nhất quản lý thông tin về đấu thầu và thực hiện đấu thầu qua mạng.
+18.* Hệ thống mạng đấu thầu quốc gia* là hệ thống công nghệ thông tin do cơ quan quản lý nhà nước về hoạt động đấu thầu xây dựng và quản lý nhằm mục đích thống nhất quản lý thông tin về đấu thầu và thực hiện đấu thầu qua mạng.
 
 <a id="dieu-4-khoan-19"></a>
-**19.** Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển là toàn bộ tài liệu sử dụng cho hình thức đấu thầu rộng rãi có bước mời quan tâm, sơ tuyển, bao gồm các yêu cầu về năng lực và kinh nghiệm đối với nhà thầu làm căn cứ để bên mời thầu lựa chọn danh sách nhà thầu trúng sơ tuyển, danh sách nhà thầu có hồ sơ quan tâm được đánh giá đáp ứng yêu cầu của hồ sơ mời quan tâm. Trường hợp lựa chọn nhà đầu tư, hồ sơ mời quan tâm là toàn bộ tài liệu sử dụng cho dự án cần xác định số lượng nhà đầu tư quan tâm theo quy định của pháp luật về đất đai, pháp luật về quản lý ngành, lĩnh vực, bao gồm yêu cầu sơ bộ về năng lực, kinh nghiệm đối với nhà đầu tư.
+**19.** *Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển* là toàn bộ tài liệu sử dụng cho hình thức đấu thầu rộng rãi có bước mời quan tâm, sơ tuyển, bao gồm các yêu cầu về năng lực và kinh nghiệm đối với nhà thầu làm căn cứ để bên mời thầu lựa chọn danh sách nhà thầu trúng sơ tuyển, danh sách nhà thầu có hồ sơ quan tâm được đánh giá đáp ứng yêu cầu của hồ sơ mời quan tâm. Trường hợp lựa chọn nhà đầu tư, hồ sơ mời quan tâm là toàn bộ tài liệu sử dụng cho dự án cần xác định số lượng nhà đầu tư quan tâm theo quy định của pháp luật về đất đai, pháp luật về quản lý ngành, lĩnh vực, bao gồm yêu cầu sơ bộ về năng lực, kinh nghiệm đối với nhà đầu tư.
 
-<a id="dieu-4-khoan-20"></a>
-**20.** Hồ sơ quan tâm, hồ sơ dự sơ tuyển là toàn bộ tài liệu do nhà thầu lập và nộp cho bên mời thầu theo yêu cầu của hồ sơ mời quan tâm, hồ sơ mời sơ tuyển. Trường hợp lựa chọn nhà đầu tư, hồ sơ đăng ký thực hiện dự án là toàn bộ tài liệu do nhà đầu tư lập và nộp theo yêu cầu của hồ sơ mời quan tâm.
+20.* Hồ sơ quan tâm, hồ sơ dự sơ tuyển* là toàn bộ tài liệu do nhà thầu lập và nộp cho bên mời thầu theo yêu cầu của hồ sơ mời quan tâm, hồ sơ mời sơ tuyển. Trường hợp lựa chọn nhà đầu tư, hồ sơ đăng ký thực hiện dự án là toàn bộ tài liệu do nhà đầu tư lập và nộp theo yêu cầu của hồ sơ mời quan tâm.
 
-<a id="dieu-4-khoan-21"></a>
-**21.** Hồ sơ mời thầu là toàn bộ tài liệu sử dụng cho hình thức đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, bao gồm các yêu cầu cho một dự án, gói thầu, dự án đầu tư kinh doanh làm căn cứ để nhà thầu, nhà đầu tư chuẩn bị hồ sơ dự thầu và để bên mời thầu tổ chức đánh giá hồ sơ dự thầu.
+21.* Hồ sơ mời thầu* là toàn bộ tài liệu sử dụng cho hình thức đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, bao gồm các yêu cầu cho một dự án, gói thầu, dự án đầu tư kinh doanh làm căn cứ để nhà thầu, nhà đầu tư chuẩn bị hồ sơ dự thầu và để bên mời thầu tổ chức đánh giá hồ sơ dự thầu. 
 
-<a id="dieu-4-khoan-22"></a>
-**22.** Hồ sơ yêu cầu là toàn bộ tài liệu sử dụng cho hình thức chỉ định thầu, mua sắm trực tiếp, đàm phán giá, bao gồm các yêu cầu cho gói thầu, làm căn cứ để nhà thầu chuẩn bị hồ sơ đề xuất và để bên mời thầu tổ chức đánh giá hồ sơ đề xuất.
+22.* Hồ sơ yêu cầu* là toàn bộ tài liệu sử dụng cho hình thức chỉ định thầu, mua sắm trực tiếp, đàm phán giá, bao gồm các yêu cầu cho gói thầu, làm căn cứ để nhà thầu chuẩn bị hồ sơ đề xuất và để bên mời thầu tổ chức đánh giá hồ sơ đề xuất. 
 
 <a id="dieu-4-khoan-23"></a>
-**23.** Hồ sơ dự thầu, hồ sơ đề xuất là toàn bộ tài liệu do nhà thầu, nhà đầu tư lập và nộp cho bên mời thầu theo yêu cầu của hồ sơ mời thầu, hồ sơ yêu cầu.
+**23.** *Hồ sơ dự thầu, hồ sơ đề xuất* là toàn bộ tài liệu do nhà thầu, nhà đầu tư lập và nộp cho bên mời thầu theo yêu cầu của hồ sơ mời thầu, hồ sơ yêu cầu.
 
 <a id="dieu-4-khoan-24"></a>
-**24.** Người có thẩm quyền là người quyết định đầu tư hoặc người quyết định việc mua sắm theo quy định của pháp luật. Trường hợp lựa chọn nhà đầu tư, người có thẩm quyền là người đứng đầu cơ quan có thẩm quyền chấp thuận chủ trương đầu tư theo quy định của pháp luật về đầu tư hoặc cơ quan có thẩm quyền quyết định tổ chức đấu thầu lựa chọn nhà đầu tư.
+**24.** *Người có thẩm quyền* là người quyết định đầu tư hoặc người quyết định việc mua sắm theo quy định của pháp luật. Trường hợp lựa chọn nhà đầu tư, người có thẩm quyền là người đứng đầu cơ quan có thẩm quyền chấp thuận chủ trương đầu tư theo quy định của pháp luật về đầu tư hoặc cơ quan có thẩm quyền quyết định tổ chức đấu thầu lựa chọn nhà đầu tư.
 
-<a id="dieu-4-khoan-25"></a>
-**25.** Nhà đầu tư là tổ chức, cá nhân tham dự thầu, đứng tên dự thầu và trực tiếp ký, thực hiện hợp đồng nếu được lựa chọn. Nhà đầu tư có thể là nhà đầu tư độc lập hoặc nhà đầu tư liên danh.
+25.* Nhà đầu tư* là tổ chức, cá nhân tham dự thầu, đứng tên dự thầu và trực tiếp ký, thực hiện hợp đồng nếu được lựa chọn. Nhà đầu tư có thể là nhà đầu tư độc lập hoặc nhà đầu tư liên danh.
 
 <a id="dieu-4-khoan-26"></a>
-**26.** Nhà thầu là tổ chức, cá nhân hoặc kết hợp giữa các tổ chức hoặc giữa các cá nhân với nhau theo hình thức liên danh trên cơ sở thỏa thuận liên danh tham dự thầu, đứng tên dự thầu và trực tiếp ký, thực hiện hợp đồng nếu được lựa chọn. Trường hợp liên danh, thỏa thuận liên danh phải quy định rõ trách nhiệm của thành viên đứng đầu liên danh và trách nhiệm chung, trách nhiệm riêng của từng thành viên trong liên danh đối với toàn bộ phạm vi của gói thầu.
+**26.** *Nhà thầu* là tổ chức, cá nhân hoặc kết hợp giữa các tổ chức hoặc giữa các cá nhân với nhau theo hình thức__ __liên danh trên cơ sở thỏa thuận liên danh tham dự thầu, đứng tên dự thầu và trực tiếp ký, thực hiện hợp đồng nếu được lựa chọn.__* *__Trường hợp liên danh, thỏa thuận liên danh phải quy định rõ trách nhiệm của thành viên đứng đầu liên danh và trách nhiệm chung, trách nhiệm riêng của từng thành viên trong liên danh đối với toàn bộ phạm vi của gói thầu.
 
 <a id="dieu-4-khoan-27"></a>
-**27.** Nhà thầu phụ là tổ chức, cá nhân ký hợp đồng với nhà thầu để tham gia thực hiện công việc xây lắp; tư vấn; phi tư vấn; dịch vụ liên quan của gói thầu cung cấp hàng hóa; công việc thuộc gói thầu hỗn hợp.
+**27.** *Nhà thầu phụ *là tổ chức, cá nhân ký hợp đồng với nhà thầu để tham gia thực hiện công việc xây lắp; tư vấn; phi tư vấn; dịch vụ liên quan của gói thầu cung cấp hàng hóa; công việc thuộc gói thầu hỗn hợp.
 
 <a id="dieu-4-khoan-28"></a>
-**28.** Nhà thầu phụ đặc biệt là nhà thầu phụ thực hiện công việc quan trọng của gói thầu do nhà thầu đề xuất trong hồ sơ dự thầu, hồ sơ đề xuất trên cơ sở yêu cầu về năng lực, kinh nghiệm ghi trong hồ sơ mời thầu, hồ sơ yêu cầu.
+**28.** *Nhà thầu phụ đặc biệt *là nhà thầu phụ thực hiện công việc quan trọng của gói thầu do nhà thầu đề xuất trong hồ sơ dự thầu, hồ sơ đề xuất trên cơ sở yêu cầu về năng lực, kinh nghiệm ghi trong hồ sơ mời thầu, hồ sơ yêu cầu.
 
 <a id="dieu-4-khoan-29"></a>
-**29.** Nhà thầu nước ngoài, nhà đầu tư nước ngoài là tổ chức được thành lập theo pháp luật nước ngoài hoặc cá nhân có quốc tịch nước ngoài tham dự thầu.
+**29.** *Nhà thầu nước ngoài, nhà đầu tư nước ngoài* là tổ chức được thành lập theo pháp luật nước ngoài hoặc cá nhân có quốc tịch nước ngoài tham dự thầu.
 
 <a id="dieu-4-khoan-30"></a>
-**30.** Nhà thầu trong nước, nhà đầu tư trong nước là tổ chức được thành lập theo pháp luật Việt Nam hoặc cá nhân có quốc tịch Việt Nam tham dự thầu.
+**30.** *Nhà thầu trong nước, nhà đầu tư trong nước* là tổ chức được thành lập theo pháp luật Việt Nam hoặc cá nhân có quốc tịch Việt Nam tham dự thầu.
 
 <a id="dieu-4-khoan-31"></a>
-**31.** Thời điểm đóng thầu là thời điểm hết hạn nhận hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ dự thầu, hồ sơ đề xuất.
+**31.** *Thời điểm đóng thầu* là thời điểm hết hạn nhận hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ dự thầu, hồ sơ đề xuất.
 
 <a id="dieu-4-khoan-32"></a>
-**32.** Thời gian có hiệu lực của hồ sơ dự thầu, hồ sơ đề xuất là số ngày được quy định trong hồ sơ mời thầu, hồ sơ yêu cầu và được tính kể từ ngày có thời điểm đóng thầu đến ngày cuối cùng có hiệu lực theo quy định trong hồ sơ mời thầu, hồ sơ yêu cầu. Từ thời điểm đóng thầu đến hết 24 giờ của ngày đóng thầu được tính là 01 ngày.
+**32.** *Thời gian có hiệu lực của hồ sơ dự thầu, hồ sơ đề xuất* là số ngày được quy định trong hồ sơ mời thầu, hồ sơ yêu cầu và được tính kể từ ngày có thời điểm đóng thầu đến ngày cuối cùng có hiệu lực theo quy định trong hồ sơ mời thầu, hồ sơ yêu cầu. Từ thời điểm đóng thầu đến hết 24 giờ của ngày đóng thầu được tính là 01 ngày.
 
 <a id="dieu-4-khoan-33"></a>
-**33.** Xây lắp gồm những công việc thuộc quá trình xây dựng và lắp đặt công trình, hạng mục công trình.
+**33.** *Xây lắp* gồm những công việc thuộc quá trình xây dựng và lắp đặt công trình, hạng mục công trình.
 
 
 <a id="dieu-5"></a>
@@ -226,13 +204,13 @@ a) Đối với nhà thầu, nhà đầu tư trong nước: là doanh nghiệp, 
 
 b) Hạch toán tài chính độc lập;
 
-c) Không đang trong quá trình thực hiện thủ tục giải thể hoặc bị thu hồi giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã, tổ hợp tác; không thuộc trường hợp mất khả năng thanh toán theo quy định của pháp luật về phá sản ;
+c) Không đang trong quá trình thực hiện thủ tục giải thể hoặc bị thu hồi giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã, tổ hợp tác; không thuộc trường hợp mất khả năng thanh toán theo quy định của pháp luật về phá sản;
 
-d) Có tên trên Hệ thống mạng đấu thầu quốc gia trước khi phê duyệt kết quả lựa chọn nhà thầu, nhà đầu tư;
+d) Có tên trên Hệ thống mạng đấu thầu quốc gia trước khi phê duyệt kết quả lựa chọn nhà thầu, nhà đầu tư; 
 
-đ) Bảo đảm cạnh tranh trong đấu thầu theo quy định tại Điều 6 của Luật này ;
+đ) Bảo đảm cạnh tranh trong đấu thầu theo quy định tại Điều 6 của Luật này;
 
-e) Không đang trong thời gian bị cấm tham dự thầu theo quyết định của người có thẩm quyền, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh quy định tại khoản 3 Điều 87 của Luật này ;
+e) Không đang trong thời gian bị cấm tham dự thầu theo quyết định của người có thẩm quyền, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh quy định tại khoản 3 Điều 87 của Luật này; 
 
 g) Không đang bị truy cứu trách nhiệm hình sự;
 
@@ -256,7 +234,7 @@ a) Có năng lực hành vi dân sự đầy đủ theo quy định pháp luật
 
 b) Có chứng chỉ chuyên môn phù hợp trong trường hợp pháp luật có quy định;
 
-c) Đáp ứng điều kiện quy định tại điểm e và điểm g khoản 1 Điều này.
+c) Đáp ứng điều kiện quy định tại điểm e và điểm g khoản 1 Điều này. 
 
 <a id="dieu-5-khoan-4"></a>
 **4.** Nhà thầu, nhà đầu tư có tư cách hợp lệ theo quy định tại các khoản 1, 2 và 3 Điều này được tham dự thầu với tư cách độc lập hoặc liên danh.
@@ -270,7 +248,7 @@ c) Đáp ứng điều kiện quy định tại điểm e và điểm g khoản 
 
 a) Nhà thầu tư vấn lập hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, quản lý dự án, giám sát; nhà thầu tư vấn lập, thẩm tra, thẩm định hồ sơ thiết kế, dự toán; nhà thầu tư vấn lập, thẩm định nhiệm vụ khảo sát, thiết kế;
 
-b) Nhà thầu tư vấn đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển;
+b) Nhà thầu tư vấn đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển; 
 
 c) Nhà thầu tư vấn thẩm định kết quả mời quan tâm, kết quả sơ tuyển;
 
@@ -279,7 +257,7 @@ d) Chủ đầu tư, bên mời thầu, trừ trường hợp nhà thầu là đ
 <a id="dieu-6-khoan-2"></a>
 **2.** Nhà thầu tham dự thầu phải độc lập về pháp lý và độc lập về tài chính theo quy định tại điểm d khoản 1 Điều này và với các bên sau đây:
 
-a) Các nhà thầu tư vấn quản lý dự án, tư vấn giám sát; nhà thầu tư vấn lập, thẩm tra, thẩm định hồ sơ thiết kế, dự toán; nhà thầu tư vấn lập, thẩm định nhiệm vụ khảo sát, thiết kế; nhà thầu tư vấn lập, thẩm định hồ sơ mời thầu , hồ sơ yêu cầu ; nhà thầu tư vấn đánh giá hồ sơ dự thầu, hồ sơ đề xuất; nhà thầu tư vấn thẩm định kết quả lựa chọn nhà thầu gói thầu đó;
+a) Các nhà thầu tư vấn quản lý dự án, tư vấn giám sát; nhà thầu tư vấn lập, thẩm tra, thẩm định hồ sơ thiết kế, dự toán; nhà thầu tư vấn lập, thẩm định nhiệm vụ khảo sát, thiết kế; nhà thầu tư vấn lập, thẩm định hồ sơ mời thầu, hồ sơ yêu cầu; nhà thầu tư vấn đánh giá hồ sơ dự thầu, hồ sơ đề xuất; nhà thầu tư vấn thẩm định kết quả lựa chọn nhà thầu gói thầu đó; 
 
 b) Các nhà thầu khác cùng tham dự thầu trong một gói thầu đối với đấu thầu hạn chế.
 
@@ -287,11 +265,11 @@ b) Các nhà thầu khác cùng tham dự thầu trong một gói thầu đối 
 **3.** Nhà thầu tư vấn giám sát thực hiện hợp đồng, nhà thầu thực hiện hợp đồng, nhà thầu tư vấn kiểm định gói thầu đó phải độc lập về pháp lý và độc lập về tài chính với nhau.
 
 <a id="dieu-6-khoan-4"></a>
-**4.** Nhà thầu quy định tại các khoản 1, 2 và 3 Điều này được đánh giá độc lập về pháp lý và độc lập về tài chính khi đáp ứng đủ các điều kiện sau đây:
+**4.** Nhà thầu quy định tại các khoản 1, 2 và 3 Điều này được đánh giá độc lập về pháp lý và độc lập về tài chính khi đáp ứng đủ các điều kiện sau đây:
 
 a) Không cùng thuộc một cơ quan hoặc tổ chức trực tiếp quản lý đối với đơn vị sự nghiệp công lập;
 
-b) Nhà thầu với chủ đầu tư , bên mời thầu không có cổ phần hoặc phần vốn góp trên 30% của nhau;
+b) Nhà thầu với chủ đầu tư, bên mời thầu không có cổ phần hoặc phần vốn góp trên 30% của nhau;
 
 c) Nhà thầu không có cổ phần hoặc phần vốn góp trên 20% của nhau khi cùng tham dự thầu trong một gói thầu đối với đấu thầu hạn chế;
 
@@ -339,9 +317,9 @@ l) Thông tin khác có liên quan.
 <a id="dieu-7-khoan-2"></a>
 **2.** Thông tin về lựa chọn nhà đầu tư bao gồm:
 
-a) Thông tin về dự án đầu tư kinh doanh theo quy định tại khoản 2 Điều 47 của Luật này ;
+a) Thông tin về dự án đầu tư kinh doanh theo quy định tại khoản 2 Điều 47 của Luật này; 
 
-b) Thông báo mời quan tâm, hồ sơ mời quan tâm; kết quả mời quan tâm;
+b) Thông báo mời quan tâm, hồ sơ mời quan tâm; kết quả mời quan tâm; 
 
 c) Thông báo mời thầu, hồ sơ mời thầu và các nội dung sửa đổi, làm rõ hồ sơ (nếu có);
 
@@ -363,18 +341,18 @@ g) Thông tin khác có liên quan.
 <a id="dieu-8-khoan-1"></a>
 **1.** Trách nhiệm đăng tải thông tin về lựa chọn nhà thầu được quy định như sau:
 
-a) Chủ đầu tư có trách nhiệm đăng tải thông tin quy định tại các điểm a, g, h, i và k khoản 1 Điều 7 của Luật này ;
+a) Chủ đầu tư có trách nhiệm đăng tải thông tin quy định tại các điểm a, g, h, i và k khoản 1 Điều 7 của Luật này;
 
-b) Bên mời thầu có trách nhiệm đăng tải thông tin quy định tại các điểm b, c, d và đ khoản 1 Điều 7 của Luật này . Đối với gói thầu được tổ chức đấu thầu quốc tế, bên mời thầu phải đăng tải các thông tin quy định tại các điểm b, c và d khoản 1 Điều 7 của Luật này bằng tiếng Việt và tiếng Anh; đối với thông tin quy định tại điểm đ khoản 1 Điều 7 của Luật này , bên mời thầu đăng tải bằng tiếng Anh hoặc tiếng Việt và tiếng Anh;
+b) Bên mời thầu có trách nhiệm đăng tải thông tin quy định tại các điểm b, c, d và đ khoản 1 Điều 7 của Luật này. Đối với gói thầu được tổ chức đấu thầu quốc tế, bên mời thầu phải đăng tải các thông tin quy định tại các điểm b, c và d khoản 1 Điều 7 của Luật này bằng tiếng Việt và tiếng Anh; đối với thông tin quy định tại điểm đ khoản 1 Điều 7 của Luật này, bên mời thầu đăng tải bằng tiếng Anh hoặc tiếng Việt và tiếng Anh;
 
-c) Nhà thầu có trách nhiệm cập nhật, đăng tải thông tin về năng lực, kinh nghiệm của mình vào cơ sở dữ liệu nhà thầu, trong đó bao gồm thông tin quy định tại điểm k khoản 1 Điều 7 của Luật này .
+c) Nhà thầu có trách nhiệm cập nhật, đăng tải thông tin về năng lực, kinh nghiệm của mình vào cơ sở dữ liệu nhà thầu, trong đó bao gồm thông tin quy định tại điểm k khoản 1 Điều 7 của Luật này.
 
 <a id="dieu-8-khoan-2"></a>
 **2.** Trách nhiệm đăng tải thông tin về lựa chọn nhà đầu tư được quy định như sau:
 
-a) Cơ quan có thẩm quyền có trách nhiệm đăng tải thông tin quy định tại các điểm a, b và e khoản 2 Điều 7 của Luật này ;
+a) Cơ quan có thẩm quyền có trách nhiệm đăng tải thông tin quy định tại các điểm a, b và e khoản 2 Điều 7 của Luật này;
 
-b) Bên mời thầu có trách nhiệm đăng tải thông tin quy định tại các điểm c, d và đ khoản 2 Điều 7 của Luật này . Đối với dự án đầu tư kinh doanh được tổ chức đấu thầu quốc tế, bên mời thầu phải đăng tải các thông tin này bằng tiếng Việt và tiếng Anh.
+b) Bên mời thầu có trách nhiệm đăng tải thông tin quy định tại các điểm c, d và đ khoản 2 Điều 7 của Luật này. Đối với dự án đầu tư kinh doanh được tổ chức đấu thầu quốc tế, bên mời thầu phải đăng tải các thông tin này bằng tiếng Việt và tiếng Anh.
 
 <a id="dieu-8-khoan-3"></a>
 **3.** Tổ chức, cá nhân cung cấp, đăng tải thông tin quy định tại khoản 1 và khoản 2 Điều này chịu trách nhiệm trước pháp luật về tính chính xác và trung thực của các thông tin đã đăng ký, đăng tải trên Hệ thống mạng đấu thầu quốc gia và tính thống nhất giữa tài liệu đăng tải với tài liệu đã được phê duyệt.
@@ -427,7 +405,7 @@ d) Nhà thầu nước ngoài liên danh với nhà thầu trong nước mà nh�
 
 e) Nhà thầu là doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ theo quy định của pháp luật về hỗ trợ doanh nghiệp nhỏ và vừa;
 
-g) Nhà thầu là doanh nghiệp khởi nghiệp sáng tạo theo quy định của pháp luật;
+g) Nhà thầu là doanh nghiệp khởi nghiệp sáng tạo theo quy định của pháp luật; 
 
 h) Nhà thầu có sử dụng số lượng lao động nữ từ 25% trở lên; số lượng lao động là thương binh, người khuyết tật từ 25% trở lên; số lượng lao động là người dân tộc thiểu số từ 25% trở lên.
 
@@ -455,7 +433,7 @@ c) Đối tượng quy định tại điểm h khoản 1 Điều này được h
 
 d) Đối tượng quy định tại điểm e khoản 1 Điều này được hưởng ưu đãi theo quy định tại điểm a và điểm đ khoản 2 Điều này khi tham dự gói thầu xây lắp tổ chức đấu thầu trong nước;
 
-đ) Ngoài ưu đãi theo quy định tại điểm b và điểm c khoản 2 Điều này, nhà thầu quy định tại điểm c và điểm g khoản 1 Điều này còn được hưởng ưu đãi theo quy định tại điểm d khoản 2 Điều này khi tham dự thầu gói thầu cung cấp dịch vụ tư vấn, dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, hỗn hợp tổ chức đấu thầu trong nước;
+đ) Ngoài ưu đãi theo quy định tại điểm b và điểm c khoản 2 Điều này, nhà thầu quy định tại điểm c và điểm g khoản 1 Điều này còn được hưởng ưu đãi theo quy định tại điểm d khoản 2 Điều này khi tham dự thầu gói thầu cung cấp dịch vụ tư vấn, dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, hỗn hợp tổ chức đấu thầu trong nước;
 
 e) Đối với gói thầu mua sắm hàng hóa tổ chức đấu thầu trong nước mà có ít nhất 03 hãng sản xuất cho 01 mặt hàng xuất xứ trong nước đáp ứng về kỹ thuật, chất lượng, giá thì chủ đầu tư quyết định việc yêu cầu nhà thầu chào hàng hoá xuất xứ trong nước đối với mặt hàng này.
 
@@ -492,9 +470,9 @@ c) Gói thầu cung cấp dịch vụ tư vấn mà người có thẩm quyền 
 d) Gói thầu mua sắm hàng hóa mà hàng hóa đó trong nước không sản xuất được hoặc sản xuất được nhưng không đáp ứng một trong các yêu cầu về kỹ thuật, chất lượng, giá. Trường hợp hàng hóa thông dụng đã được nhập khẩu và chào bán tại Việt Nam thì không tổ chức đấu thầu quốc tế.
 
 <a id="dieu-11-khoan-2"></a>
-**2.** Việc tổ chức đấu thầu quốc tế để lựa chọn nhà đầu tư được thực hiện đối với các dự án đầu tư kinh doanh quy định tại khoản 3 Điều 2 của Luật này , trừ trường hợp sau đây:
+**2.** Việc tổ chức đấu thầu quốc tế để lựa chọn nhà đầu tư được thực hiện đối với các dự án đầu tư kinh doanh quy định tại khoản 3 Điều 2 của Luật này, trừ trường hợp sau đây:
 
-a) Dự án thuộc danh mục ngành, nghề chưa được tiếp cận thị trường đối với nhà đầu tư nước ngoài theo quy định của pháp luật về đầu tư;
+a) Dự án thuộc danh mục ngành, nghề chưa được tiếp cận thị trường đối với nhà đầu tư nước ngoài theo quy định của pháp luật về đầu tư; 
 
 b) Dự án cần thực hiện đấu thầu trong nước do yêu cầu về bảo đảm quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội;
 
@@ -524,7 +502,7 @@ d) Dự án có tổng vốn đầu tư dưới 800 tỷ đồng;
 <a id="dieu-13-khoan-2"></a>
 **2.** Đối với đấu thầu quốc tế:
 
-a) Hồ sơ mời thầu, hồ sơ yêu cầu phải quy định về đồng tiền dự thầu trong hồ sơ dự thầu, hồ sơ đề xuất nhưng không quá 03 loại tiền tệ;
+a) Hồ sơ mời thầu, hồ sơ yêu cầu phải quy định về đồng tiền dự thầu trong hồ sơ dự thầu, hồ sơ đề xuất nhưng không quá 03 loại tiền tệ; 
 
 b) Trường hợp hồ sơ mời thầu quy định nhà thầu, nhà đầu tư được chào thầu bằng 02 hoặc 03 loại tiền tệ thì khi đánh giá hồ sơ dự thầu phải quy đổi về 01 loại tiền tệ; trường hợp trong số các đồng tiền đó có Đồng Việt Nam thì phải quy đổi về Đồng Việt Nam. Hồ sơ mời thầu phải quy định về đồng tiền quy đổi, thời điểm và căn cứ xác định tỷ giá quy đổi;
 
@@ -543,14 +521,14 @@ a) Đặt cọc;
 
 b) Nộp thư bảo lãnh của tổ chức tín dụng trong nước, chi nhánh ngân hàng nước ngoài được thành lập theo pháp luật Việt Nam;
 
-c) Nộp giấy chứng nhận bảo hiểm bảo lãnh của doanh nghiệp bảo hiểm phi nhân thọ trong nước, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài được thành lập theo pháp luật Việt Nam.
+c) Nộp giấy chứng nhận bảo hiểm bảo lãnh của doanh nghiệp bảo hiểm phi nhân thọ trong nước, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài được thành lập theo pháp luật Việt Nam. 
 
 <a id="dieu-14-khoan-2"></a>
 **2.** Bảo đảm dự thầu được áp dụng trong các trường hợp sau đây:
 
 a) Đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh đối với gói thầu cung cấp dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp và gói thầu hỗn hợp;
 
-b) Đấu thầu rộng rãi, đấu thầu hạn chế đối với lựa chọn nhà đầu tư.
+b) Đấu thầu rộng rãi, đấu thầu hạn chế đối với lựa chọn nhà đầu tư. 
 
 <a id="dieu-14-khoan-3"></a>
 **3.** Nhà thầu, nhà đầu tư thực hiện biện pháp bảo đảm dự thầu trước thời điểm đóng thầu theo quy định của hồ sơ mời thầu; trường hợp áp dụng phương thức đấu thầu hai giai đoạn, nhà thầu, nhà đầu tư phải thực hiện biện pháp bảo đảm dự thầu trong giai đoạn hai.
@@ -581,13 +559,13 @@ c) Từ 0,5% đến 1,5% tổng vốn đầu tư của dự án đầu tư kinh 
 
 a) Sau thời điểm đóng thầu và trong thời gian có hiệu lực của hồ sơ dự thầu, nhà thầu, nhà đầu tư rút hồ sơ dự thầu hoặc có văn bản từ chối thực hiện một hoặc các công việc đã đề xuất trong hồ sơ dự thầu theo yêu cầu của hồ sơ mời thầu;
 
-b) Nhà thầu, nhà đầu tư có hành vi vi phạm quy định tại Điều 16 của Luật này hoặc vi phạm pháp luật về đấu thầu dẫn đến phải hủy thầu theo quy định tại điểm d và điểm đ khoản 1, điểm d và điểm đ khoản 2 Điều 17 của Luật này ;
+b) Nhà thầu, nhà đầu tư có hành vi vi phạm quy định tại Điều 16 của Luật này hoặc vi phạm pháp luật về đấu thầu dẫn đến phải hủy thầu theo quy định tại điểm d và điểm đ khoản 1, điểm d và điểm đ khoản 2 Điều 17 của Luật này;
 
-c) Nhà thầu, nhà đầu tư không thực hiện biện pháp bảo đảm thực hiện hợp đồng theo quy định tại Điều 68 và Điều 75 của Luật này ;
+c) Nhà thầu, nhà đầu tư không thực hiện biện pháp bảo đảm thực hiện hợp đồng theo quy định tại Điều 68 và Điều 75 của Luật này;
 
-d) Nhà thầu không tiến hành hoặc từ chối thương thảo hợp đồng (nếu có) trong thời hạn 05 ngày làm việc đối với đấu thầu trong nước và 10 ngày đối với đấu thầu quốc tế kể từ ngày nhận được thông báo mời thương thảo hợp đồng hoặc đã thương thảo hợp đồng nhưng từ chối hoàn thiện, ký kết biên bản thương thảo hợp đồng, trừ trường hợp bất khả kháng;
+d) Nhà thầu không tiến hành hoặc từ chối thương thảo hợp đồng (nếu có) trong thời hạn 05 ngày làm việc đối với đấu thầu trong nước và 10 ngày đối với đấu thầu quốc tế kể từ ngày nhận được thông báo mời thương thảo hợp đồng hoặc đã thương thảo hợp đồng nhưng từ chối hoàn thiện, ký kết biên bản thương thảo hợp đồng, trừ trường hợp bất khả kháng; 
 
-đ) Nhà thầu không tiến hành hoặc từ chối hoàn thiện hợp đồng, thỏa thuận khung trong thời hạn 10 ngày đối với đấu thầu trong nước và 20 ngày đối với đấu thầu quốc tế kể từ ngày nhận được thông báo trúng thầu của bên mời thầu , trừ trường hợp bất khả kháng;
+đ) Nhà thầu không tiến hành hoặc từ chối hoàn thiện hợp đồng, thỏa thuận khung trong thời hạn 10 ngày đối với đấu thầu trong nước và 20 ngày đối với đấu thầu quốc tế kể từ ngày nhận được thông báo trúng thầu của bên mời thầu, trừ trường hợp bất khả kháng; 
 
 e) Nhà thầu không tiến hành hoặc từ chối ký kết hợp đồng, thỏa thuận khung trong thời hạn 10 ngày đối với đấu thầu trong nước và 20 ngày đối với đấu thầu quốc tế kể từ ngày hoàn thiện hợp đồng, thỏa thuận khung, trừ trường hợp bất khả kháng;
 
@@ -598,9 +576,9 @@ h) Nhà đầu tư không tiến hành hoặc từ chối ký kết hợp đồn
 <a id="dieu-14-khoan-10"></a>
 **10.** Trường hợp nhà thầu, nhà đầu tư vi phạm quy định của pháp luật về đấu thầu dẫn đến không được hoàn trả bảo đảm dự thầu, bảo đảm thực hiện hợp đồng theo quy định tại khoản 9 Điều này, khoản 6 Điều 68 và khoản 4 Điều 75 của Luật này thì việc quản lý, sử dụng khoản thu từ bảo đảm dự thầu, bảo đảm thực hiện hợp đồng không được hoàn trả được thực hiện như sau:
 
-a) Đối với các dự án, gói thầu có sử dụng vốn ngân sách nhà nước, khoản thu này được nộp vào ngân sách nhà nước theo quy định của pháp luật về ngân sách nhà nước;
+a) Đối với các dự án, gói thầu có sử dụng vốn ngân sách nhà nước, khoản thu này được nộp vào ngân sách nhà nước theo quy định của pháp luật về ngân sách nhà nước;
 
-b) Đối với các dự án, gói thầu không sử dụng vốn ngân sách nhà nước, dự án đầu tư kinh doanh, khoản thu này được sử dụng theo quy chế tài chính của chủ đầu tư, cơ quan có thẩm quyền;
+b) Đối với các dự án, gói thầu không sử dụng vốn ngân sách nhà nước, dự án đầu tư kinh doanh, khoản thu này được sử dụng theo quy chế tài chính của chủ đầu tư, cơ quan có thẩm quyền;
 
 c) Trường hợp bên mời thầu là đơn vị tư vấn đấu thầu do chủ đầu tư lựa chọn thì khoản thu này phải nộp lại cho chủ đầu tư. Chủ đầu tư quản lý, sử dụng khoản thu này theo quy định tại điểm a và điểm b khoản này.
 
@@ -613,9 +591,9 @@ c) Trường hợp bên mời thầu là đơn vị tư vấn đấu thầu do c
 
 a) Hồ sơ yêu cầu, hồ sơ mời thầu đối với đấu thầu trong nước, hồ sơ mời quan tâm, hồ sơ mời sơ tuyển được phát hành miễn phí trên Hệ thống mạng đấu thầu quốc gia;
 
-b) Hồ sơ mời thầu đối với đấu thầu quốc tế được phát hành trên Hệ thống mạng đấu thầu quốc gia; nhà thầu nộp tiền mua bản điện tử hồ sơ mời thầu khi nộp hồ sơ dự thầu;
+b) Hồ sơ mời thầu đối với đấu thầu quốc tế được phát hành trên Hệ thống mạng đấu thầu quốc gia; nhà thầu nộp tiền mua bản điện tử hồ sơ mời thầu khi nộp hồ sơ dự thầu; 
 
-c) Chủ đầu tư , bên mời thầu chịu chi phí đăng tải thông tin về đấu thầu, chi phí liên quan đến tổ chức lựa chọn nhà thầu;
+c) Chủ đầu tư, bên mời thầu chịu chi phí đăng tải thông tin về đấu thầu, chi phí liên quan đến tổ chức lựa chọn nhà thầu;
 
 d) Nhà thầu chịu chi phí liên quan đến việc chuẩn bị hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ dự thầu, hồ sơ đề xuất, tham dự thầu, chi phí giải quyết kiến nghị (nếu có).
 
@@ -655,22 +633,22 @@ c) Nhà thầu, nhà đầu tư có năng lực, kinh nghiệm đã tham dự th
 <a id="dieu-16-khoan-4"></a>
 **4.** Gian lận bao gồm các hành vi sau đây:
 
-a) Làm giả hoặc làm sai lệch thông tin, hồ sơ, tài liệu trong đấu thầu;
+a) Làm giả hoặc làm sai lệch thông tin, hồ sơ, tài liệu trong đấu thầu; 
 
 b) Cố ý cung cấp thông tin, tài liệu không trung thực, không khách quan trong hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ đăng ký thực hiện dự án đầu tư kinh doanh, hồ sơ dự thầu, hồ sơ đề xuất nhằm làm sai lệch kết quả lựa chọn nhà thầu, nhà đầu tư.
 
 <a id="dieu-16-khoan-5"></a>
 **5.** Cản trở bao gồm các hành vi sau đây:
 
-a) Hủy hoại, lừa dối, thay đổi, che giấu chứng cứ hoặc báo cáo sai sự thật; đe dọa hoặc gợi ý đối với bất kỳ bên nào nhằm ngăn chặn việc làm rõ hành vi đưa, nhận, môi giới hối lộ, gian lận hoặc thông đồng với cơ quan có chức năng, thẩm quyền về giám sát, kiểm tra, thanh tra, kiểm toán;
+a) Hủy hoại, lừa dối, thay đổi, che giấu chứng cứ hoặc báo cáo sai sự thật; đe dọa hoặc gợi ý đối với bất kỳ bên nào nhằm ngăn chặn việc làm rõ hành vi đưa, nhận, môi giới hối lộ, gian lận hoặc thông đồng với cơ quan có chức năng, thẩm quyền về giám sát, kiểm tra, thanh tra, kiểm toán; 
 
-b) Cản trở người có thẩm quyền, chủ đầu tư, bên mời thầu, nhà thầu, nhà đầu tư trong lựa chọn nhà thầu, nhà đầu tư;
+b) Cản trở người có thẩm quyền, chủ đầu tư, bên mời thầu, nhà thầu, nhà đầu tư trong lựa chọn nhà thầu, nhà đầu tư; 
 
 c) Cản trở cơ quan có thẩm quyền giám sát, kiểm tra, thanh tra, kiểm toán đối với hoạt động đấu thầu;
 
 d) Cố tình khiếu nại, tố cáo, kiến nghị sai sự thật để cản trở hoạt động đấu thầu;
 
-đ) Có hành vi vi phạm pháp luật về an toàn, an ninh mạng nhằm can thiệp, cản trở việc đấu thầu qua mạng.
+đ) Có hành vi vi phạm pháp luật về an toàn, an ninh mạng nhằm can thiệp, cản trở việc đấu thầu qua mạng. 
 
 <a id="dieu-16-khoan-6"></a>
 **6.** Không bảo đảm công bằng, minh bạch bao gồm các hành vi sau đây:
@@ -691,18 +669,18 @@ g) Nhà thầu tư vấn giám sát đồng thời thực hiện tư vấn kiể
 
 h) Áp dụng hình thức lựa chọn nhà thầu, nhà đầu tư không phải là hình thức đấu thầu rộng rãi khi không đủ điều kiện theo quy định của Luật này;
 
-i) Nêu yêu cầu cụ thể về nhãn hiệu, xuất xứ hàng hóa trong hồ sơ mời thầu đối với gói thầu mua sắm hàng hóa, xây lắp hoặc gói thầu hỗn hợp khi áp dụng hình thức đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, trừ trường hợp quy định tại điểm e khoản 3 Điều 10 , khoản 2 Điều 44 và khoản 1 Điều 56 của Luật này ;
+i) Nêu yêu cầu cụ thể về nhãn hiệu, xuất xứ hàng hóa trong hồ sơ mời thầu đối với gói thầu mua sắm hàng hóa, xây lắp hoặc gói thầu hỗn hợp khi áp dụng hình thức đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, trừ trường hợp quy định tại điểm e khoản 3 Điều 10, khoản 2 Điều 44 và khoản 1 Điều 56 của Luật này;
 
-k) Nêu điều kiện trong hồ sơ mời thầu nhằm hạn chế sự tham gia của nhà thầu, nhà đầu tư hoặc nhằm tạo lợi thế cho một hoặc một số nhà thầu, nhà đầu tư gây ra sự cạnh tranh không bình đẳng, vi phạm quy định tại khoản 3 Điều 44 và khoản 2 Điều 48 của Luật này ;
+k) Nêu điều kiện trong hồ sơ mời thầu nhằm hạn chế sự tham gia của nhà thầu, nhà đầu tư hoặc nhằm tạo lợi thế cho một hoặc một số nhà thầu, nhà đầu tư gây ra sự cạnh tranh không bình đẳng, vi phạm quy định tại khoản 3 Điều 44 và khoản 2 Điều 48 của Luật này;
 
-l) Chia nhỏ dự án, dự toán mua sắm thành các gói thầu nhằm mục đích chỉ định thầu; chia dự án, dự toán mua sắm nhằm hạn chế sự tham gia của các nhà thầu.
+l) Chia nhỏ dự án, dự toán mua sắm thành các gói thầu nhằm mục đích chỉ định thầu; chia dự án, dự toán mua sắm nhằm hạn chế sự tham gia của các nhà thầu. 
 
 <a id="dieu-16-khoan-7"></a>
-**7.** Tiết lộ những tài liệu, thông tin về quá trình lựa chọn nhà thầu, nhà đầu tư, trừ trường hợp cung cấp thông tin theo quy định tại điểm b khoản 8 và điểm g khoản 9 Điều 77 , khoản 11 Điều 78 , điểm h khoản 1 Điều 79 , khoản 4 Điều 80 , khoản 4 Điều 81 , khoản 2 Điều 82 , điểm b khoản 4 Điều 93 của Luật này , bao gồm:
+**7.** Tiết lộ những tài liệu, thông tin về quá trình lựa chọn nhà thầu, nhà đầu tư, trừ trường hợp cung cấp thông tin theo quy định tại điểm b khoản 8 và điểm g khoản 9 Điều 77, khoản 11 Điều 78, điểm h khoản 1 Điều 79, khoản 4 Điều 80, khoản 4 Điều 81, khoản 2 Điều 82, điểm b khoản 4 Điều 93 của Luật này, bao gồm:
 
 a) Nội dung hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu trước thời điểm phát hành theo quy định;
 
-b) Nội dung hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ đăng ký thực hiện dự án đầu tư kinh doanh, hồ sơ dự thầu, hồ sơ đề xuất; nội dung yêu cầu làm rõ hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ đăng ký thực hiện dự án đầu tư kinh doanh, hồ sơ dự thầu, hồ sơ đề xuất của bên mời thầu và trả lời của nhà thầu, nhà đầu tư trong quá trình đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ đăng ký thực hiện dự án đầu tư kinh doanh, hồ sơ dự thầu, hồ sơ đề xuất; báo cáo của bên mời thầu , báo cáo của tổ chuyên gia, báo cáo thẩm định, báo cáo của nhà thầu tư vấn, báo cáo của cơ quan chuyên môn có liên quan trong quá trình lựa chọn nhà thầu, nhà đầu tư; tài liệu ghi chép, biên bản cuộc họp xét thầu, các ý kiến nhận xét, đánh giá đối với từng hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ đăng ký thực hiện dự án đầu tư kinh doanh, hồ sơ dự thầu, hồ sơ đề xuất trước khi được công khai theo quy định;
+b) Nội dung hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ đăng ký thực hiện dự án đầu tư kinh doanh, hồ sơ dự thầu, hồ sơ đề xuất; nội dung yêu cầu làm rõ hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ đăng ký thực hiện dự án đầu tư kinh doanh, hồ sơ dự thầu, hồ sơ đề xuất của bên mời thầu và trả lời của nhà thầu, nhà đầu tư trong quá trình đánh giá hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ đăng ký thực hiện dự án đầu tư kinh doanh, hồ sơ dự thầu, hồ sơ đề xuất; báo cáo của bên mời thầu, báo cáo của tổ chuyên gia, báo cáo thẩm định, báo cáo của nhà thầu tư vấn, báo cáo của cơ quan chuyên môn có liên quan trong quá trình lựa chọn nhà thầu, nhà đầu tư; tài liệu ghi chép, biên bản cuộc họp xét thầu, các ý kiến nhận xét, đánh giá đối với từng hồ sơ quan tâm, hồ sơ dự sơ tuyển, hồ sơ đăng ký thực hiện dự án đầu tư kinh doanh, hồ sơ dự thầu, hồ sơ đề xuất trước khi được công khai theo quy định;
 
 c) Kết quả lựa chọn nhà thầu, nhà đầu tư trước khi được công khai theo quy định;
 
@@ -711,7 +689,7 @@ d) Các tài liệu khác trong quá trình lựa chọn nhà thầu, nhà đầ
 <a id="dieu-16-khoan-8"></a>
 **8.** Chuyển nhượng thầu trong trường hợp sau đây:
 
-a) Nhà thầu chuyển nhượng cho nhà thầu khác phần công việc thuộc gói thầu ngoài giá trị tối đa dành cho nhà thầu phụ và khối lượng công việc dành cho nhà thầu phụ đặc biệt đã nêu trong hợp đồng;
+a) Nhà thầu chuyển nhượng cho nhà thầu khác phần công việc thuộc gói thầu ngoài giá trị tối đa dành cho nhà thầu phụ và khối lượng công việc dành cho nhà thầu phụ đặc biệt đã nêu trong hợp đồng; 
 
 b) Nhà thầu chuyển nhượng cho nhà thầu khác phần công việc thuộc gói thầu chưa vượt mức tối đa giá trị công việc dành cho nhà thầu phụ nêu trong hợp đồng nhưng ngoài phạm vi công việc dành cho nhà thầu phụ đã đề xuất trong hồ sơ dự thầu, hồ sơ đề xuất mà không được chủ đầu tư, tư vấn giám sát chấp thuận;
 
@@ -720,7 +698,7 @@ c) Chủ đầu tư, tư vấn giám sát chấp thuận để nhà thầu chuy�
 d) Chủ đầu tư, tư vấn giám sát chấp thuận để nhà thầu chuyển nhượng công việc quy định tại điểm b khoản này mà vượt mức tối đa giá trị công việc dành cho nhà thầu phụ nêu trong hợp đồng.
 
 <a id="dieu-16-khoan-9"></a>
-**9.** Tổ chức lựa chọn nhà thầu khi chưa xác định được nguồn vốn theo quy định tại khoản 3 Điều 39 của Luật này .
+**9.** Tổ chức lựa chọn nhà thầu khi chưa xác định được nguồn vốn theo quy định tại khoản 3 Điều 39 của Luật này.
 
 
 <a id="dieu-17"></a>
@@ -735,7 +713,7 @@ b) Thay đổi về mục tiêu, phạm vi đầu tư trong quyết định đ�
 
 c) Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu không tuân thủ quy định của Luật này, quy định khác của pháp luật có liên quan dẫn đến nhà thầu được lựa chọn không đáp ứng yêu cầu để thực hiện gói thầu;
 
-d) Nhà thầu trúng thầu thực hiện hành vi bị cấm quy định tại Điều 16 của Luật này ;
+d) Nhà thầu trúng thầu thực hiện hành vi bị cấm quy định tại Điều 16 của Luật này;
 
 đ) Tổ chức, cá nhân khác ngoài nhà thầu trúng thầu thực hiện hành vi bị cấm quy định tại Điều 16 của Luật này dẫn đến sai lệch kết quả lựa chọn nhà thầu.
 
@@ -748,7 +726,7 @@ b) Thay đổi mục tiêu, quy mô, địa điểm, vốn đầu tư, thời h�
 
 c) Hồ sơ mời thầu có một hoặc một số nội dung không tuân thủ quy định của Luật này, quy định khác của pháp luật có liên quan dẫn đến sai lệch kết quả lựa chọn nhà đầu tư hoặc nhà đầu tư được lựa chọn không còn đáp ứng yêu cầu để thực hiện dự án đầu tư kinh doanh;
 
-d) Nhà đầu tư trúng thầu thực hiện hành vi bị cấm quy định tại Điều 16 của Luật này ;
+d) Nhà đầu tư trúng thầu thực hiện hành vi bị cấm quy định tại Điều 16 của Luật này;
 
 đ) Tổ chức, cá nhân khác ngoài nhà đầu tư trúng thầu thực hiện hành vi bị cấm quy định tại Điều 16 của Luật này dẫn đến sai lệch kết quả lựa chọn nhà đầu tư.
 
@@ -769,10 +747,10 @@ a) Đình chỉ cuộc thầu để tạm dừng các hoạt động lựa chọ
 
 b) Không công nhận kết quả lựa chọn nhà thầu, nhà đầu tư trong quá trình tổ chức lựa chọn nhà thầu, nhà đầu tư và quá trình thực hiện hợp đồng;
 
-c) Xử lý vi phạm trong đấu thầu theo quy định tại Điều 87 của Luật này .
+c) Xử lý vi phạm trong đấu thầu theo quy định tại Điều 87 của Luật này.
 
 <a id="dieu-18-khoan-2"></a>
-**2.** Văn bản đình chỉ, không công nhận kết quả lựa chọn nhà thầu, nhà đầu tư phải nêu rõ lý do, nội dung, biện pháp và thời gian khắc phục vi phạm về đấu thầu.
+**2.** Văn bản đình chỉ, không công nhận kết quả lựa chọn nhà thầu, nhà đầu tư phải nêu rõ lý do, nội dung, biện pháp và thời gian khắc phục vi phạm về đấu thầu.
 
 
 <a id="dieu-19"></a>
@@ -790,11 +768,11 @@ c) Xử lý vi phạm trong đấu thầu theo quy định tại Điều 87 củ
 <a id="dieu-19-khoan-4"></a>
 **4.** Chính phủ quy định chi tiết về năng lực, kinh nghiệm của thành viên tổ chuyên gia, tổ thẩm định.
 
-# Chương II
+## Chương II. 
 
-HÌNH THỨC, PHƯƠNG THỨC LỰA CHỌN NHÀ THẦU, NHÀ ĐẦU TƯ
+__HÌNH THỨC, PHƯƠNG THỨC LỰA CHỌN NHÀ THẦU, NHÀ ĐẦU TƯ__
 
-## Mục 1. HÌNH THỨC LỰA CHỌN NHÀ THẦU
+### Mục 1. HÌNH THỨC LỰA CHỌN NHÀ THẦU
 
 
 <a id="dieu-20"></a>
@@ -832,13 +810,13 @@ i) Lựa chọn nhà thầu trong trường hợp đặc biệt.
 **1.** Đấu thầu rộng rãi là hình thức lựa chọn nhà thầu trong đó không hạn chế số lượng nhà thầu tham dự.
 
 <a id="dieu-21-khoan-2"></a>
-**2.** Đấu thầu rộng rãi được áp dụng đối với tất cả các gói thầu, trừ trường hợp quy định tại các điều 22, 23 , 24, 25 , 26, 27 , 28 và 29 của Luật này . Trường hợp không đấu thầu rộng rãi, văn bản trình duyệt kế hoạch lựa chọn nhà thầu phải nêu rõ lý do không thực hiện đấu thầu rộng rãi; người có thẩm quyền quyết định và chịu trách nhiệm về việc không áp dụng đấu thầu rộng rãi.
+**2.** Đấu thầu rộng rãi được áp dụng đối với tất cả các gói thầu, trừ trường hợp quy định tại các điều 22, 23, 24, 25, 26, 27, 28 và 29 của Luật này. Trường hợp không đấu thầu rộng rãi, văn bản trình duyệt kế hoạch lựa chọn nhà thầu phải nêu rõ lý do không thực hiện đấu thầu rộng rãi; người có thẩm quyền quyết định và chịu trách nhiệm về việc không áp dụng đấu thầu rộng rãi.
 
 
 <a id="dieu-22"></a>
 ### Điều 22. Đấu thầu hạn chế
 
-Đấu thầu hạn chế là hình thức lựa chọn nhà thầu trong đó chỉ có một số nhà thầu đáp ứng yêu cầu của gói thầu được mời tham dự thầu, áp dụng trong các trường hợp sau đây:
+Đấu thầu hạn chế là hình thức lựa chọn nhà thầu trong đó chỉ có một số nhà thầu đáp ứng yêu cầu của gói thầu được mời tham dự thầu, áp dụng trong các trường hợp sau đây: 
 
 <a id="dieu-22-khoan-1"></a>
 **1.** Gói thầu có yêu cầu cao về kỹ thuật hoặc kỹ thuật có tính đặc thù mà chỉ có một số nhà thầu đáp ứng yêu cầu của gói thầu;
@@ -853,13 +831,13 @@ i) Lựa chọn nhà thầu trong trường hợp đặc biệt.
 <a id="dieu-23-khoan-1"></a>
 **1.** Chỉ định thầu được áp dụng trong các trường hợp sau đây:
 
-a) Gói thầu cấp bách cần triển khai nhằm mục tiêu bảo vệ chủ quyền, an ninh quốc gia; gói thầu cần thực hiện để khắc phục ngay hoặc để xử lý kịp thời hậu quả gây ra do thiên tai, hỏa hoạn, tai nạn bất ngờ, sự cố, thảm họa hoặc sự kiện bất khả kháng khác;
+a) Gói thầu cấp bách cần triển khai nhằm mục tiêu bảo vệ chủ quyền, an ninh quốc gia; gói thầu cần thực hiện để khắc phục ngay hoặc để xử lý kịp thời hậu quả gây ra do thiên tai, hỏa hoạn, tai nạn bất ngờ, sự cố, thảm họa hoặc sự kiện bất khả kháng khác; 
 
-b) Gói thầu cung cấp dịch vụ tư vấn, phi tư vấn, hàng hóa, xây lắp cần triển khai ngay để tránh gây nguy hại đến tính mạng và tài sản của cộng đồng dân cư trên địa bàn hoặc để không ảnh hưởng nghiêm trọng đến công trình liền kề;
+b) Gói thầu cung cấp dịch vụ tư vấn, phi tư vấn, hàng hóa, xây lắp cần triển khai ngay để tránh gây nguy hại đến tính mạng và tài sản của cộng đồng dân cư trên địa bàn hoặc để không ảnh hưởng nghiêm trọng đến công trình liền kề; 
 
 c) Gói thầu cung cấp dịch vụ tư vấn, phi tư vấn, thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế, linh kiện, phụ kiện, phương tiện, xây lắp cần triển khai ngay để phục vụ công tác phòng, chống dịch bệnh hoặc duy trì hoạt động của cơ sở khám bệnh, chữa bệnh trong trường hợp cấp bách, tránh gây nguy hại đến tính mạng, sức khỏe người dân; gói thầu mua thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế, linh kiện, phụ kiện để cấp cứu người bệnh trong tình trạng cấp cứu theo quy định của Luật Khám bệnh, chữa bệnh trong trường hợp cơ sở khám bệnh, chữa bệnh không có đủ thuốc, hóa chất, vật tư xét nghiệm, thiết bị y tế, linh kiện, phụ kiện; gói thầu mua thuốc, thiết bị y tế chỉ có duy nhất một hãng sản xuất trên thị trường;
 
-d) Gói thầu cần thực hiện để bảo vệ bí mật nhà nước;
+d) Gói thầu cần thực hiện để bảo vệ bí mật nhà nước; 
 
 đ) Gói thầu cung cấp dịch vụ tư vấn phải mua từ nhà thầu đã thực hiện trước đó do cần bảo đảm tính tương thích về công nghệ, bản quyền mà không thể mua được từ nhà thầu khác; gói thầu mua sắm hàng hóa, dịch vụ phi tư vấn phải mua từ nhà thầu đã thực hiện trước đó hoặc từ hãng sản xuất, đại lý của hãng sản xuất do cần bảo đảm tính tương thích về công nghệ, bản quyền với các trang thiết bị, máy móc, phần mềm, dịch vụ sẵn có hoặc do các điều kiện bảo hành của nhà thầu, hãng sản xuất mà không thể mua được từ nhà thầu khác, hãng sản xuất khác;
 
@@ -873,14 +851,14 @@ i) Gói thầu chỉ có duy nhất một nhà thầu thực hiện được tr�
 
 k) Gói thầu thuộc dự án quan trọng quốc gia được áp dụng hình thức chỉ định thầu theo Nghị quyết của Quốc hội khi quyết định chủ trương đầu tư dự án;
 
-l) Gói thầu thuê kho lưu giữ hàng tạm giữ; gói thầu thuê vận chuyển, bốc xếp hàng tạm giữ tại các cảng biển, địa điểm kiểm tra hàng hóa tập trung trong trường hợp chỉ có duy nhất một đơn vị cung cấp dịch vụ trong cảng; gói thầu nhập khẩu vũ khí thể thao phục vụ các câu lạc bộ, trường, trung tâm đào tạo huấn luyện thể thao tập luyện, thi đấu hằng năm;
+l) Gói thầu thuê kho lưu giữ hàng tạm giữ; gói thầu thuê vận chuyển, bốc xếp hàng tạm giữ tại các cảng biển, địa điểm kiểm tra hàng hóa tập trung trong trường hợp chỉ có duy nhất một đơn vị cung cấp dịch vụ trong cảng; gói thầu nhập khẩu vũ khí thể thao phục vụ các câu lạc bộ, trường, trung tâm đào tạo huấn luyện thể thao tập luyện, thi đấu hằng năm;
 
-m) Gói thầu thuộc dự toán mua sắm có giá gói thầu trong hạn mức từ trên 50 triệu đồng đến 100 triệu đồng; gói thầu thuộc dự án đầu tư của doanh nghiệp nhà nước, doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ và dự án đầu tư theo Luật Đầu tư công , bao gồm: gói thầu cung cấp dịch vụ tư vấn có giá gói thầu trong hạn mức không quá 500 triệu đồng, gói thầu phi tư vấn, hàng hóa, xây lắp, hỗn hợp có giá gói thầu trong hạn mức không quá 01 tỷ đồng.
+m) Gói thầu thuộc dự toán mua sắm có giá gói thầu trong hạn mức từ trên 50 triệu đồng đến 100 triệu đồng; gói thầu thuộc dự án đầu tư của doanh nghiệp nhà nước, doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ và dự án đầu tư theo Luật Đầu tư công, bao gồm: gói thầu cung cấp dịch vụ tư vấn có giá gói thầu trong hạn mức không quá 500 triệu đồng, gói thầu phi tư vấn, hàng hóa, xây lắp, hỗn hợp có giá gói thầu trong hạn mức không quá 01 tỷ đồng. 
 
 Trường hợp cần điều chỉnh hạn mức quy định tại điểm này để phù hợp với điều kiện kinh tế - xã hội và yêu cầu quản lý nhà nước, Chính phủ trình Ủy ban Thường vụ Quốc hội xem xét, quyết định.
 
 <a id="dieu-23-khoan-2"></a>
-**2.** Đối với gói thầu quy định tại các điểm a, b và c khoản 1 Điều này, chủ đầu tư quyết định, chịu trách nhiệm việc chỉ định thầu theo quy trình rút gọn cho nhà thầu có năng lực, kinh nghiệm để thực hiện ngay gói thầu. Trong thời hạn 15 ngày kể từ ngày bắt đầu thực hiện gói thầu, các bên phải hoàn thiện thủ tục chỉ định thầu bao gồm các bước sau: chuẩn bị và gửi dự thảo hợp đồng cho nhà thầu; hoàn thiện hợp đồng; trình, phê duyệt và công khai kết quả lựa chọn nhà thầu; ký kết và quản lý thực hiện hợp đồng.
+**2.** Đối với gói thầu quy định tại các điểm a, b và c khoản 1 Điều này, chủ đầu tư quyết định, chịu trách nhiệm việc chỉ định thầu theo quy trình rút gọn cho nhà thầu có năng lực, kinh nghiệm để thực hiện ngay gói thầu. Trong thời hạn 15 ngày kể từ ngày bắt đầu thực hiện gói thầu, các bên phải hoàn thiện thủ tục chỉ định thầu bao gồm các bước sau: chuẩn bị và gửi dự thảo hợp đồng cho nhà thầu; hoàn thiện hợp đồng; trình, phê duyệt và công khai kết quả lựa chọn nhà thầu; ký kết và quản lý thực hiện hợp đồng.
 
 <a id="dieu-23-khoan-3"></a>
 **3.** Việc thực hiện chỉ định thầu đối với gói thầu quy định tại các điểm d, đ, e, g, h, i, k, l và m khoản 1 Điều này phải đáp ứng đủ các điều kiện sau đây:
@@ -889,7 +867,7 @@ a) Có quyết định đầu tư được phê duyệt đối với dự án, t
 
 b) Có kế hoạch lựa chọn nhà thầu được phê duyệt;
 
-c) Đã được bố trí vốn để thực hiện gói thầu;
+c) Đã được bố trí vốn để thực hiện gói thầu; 
 
 d) Có dự toán được phê duyệt theo quy định, trừ gói thầu EP, EC, EPC, gói thầu chìa khóa trao tay.
 
@@ -909,7 +887,7 @@ d) Có dự toán được phê duyệt theo quy định, trừ gói thầu EP, 
 <a id="dieu-24"></a>
 ### Điều 24. Chào hàng cạnh tranh
 
-Chào hàng cạnh tranh được áp dụng đối với gói thầu có giá gói thầu không quá 05 tỷ đồng thuộc một trong các trường hợp sau đây:
+Chào hàng cạnh tranh được áp dụng đối với gói thầu có giá gói thầu không quá 05 tỷ đồng thuộc một trong các trường hợp sau đây: 
 
 <a id="dieu-24-khoan-1"></a>
 **1.** Gói thầu dịch vụ phi tư vấn thông dụng, đơn giản;
@@ -935,7 +913,7 @@ Chào hàng cạnh tranh được áp dụng đối với gói thầu có giá g
 
 a) Nhà thầu đã trúng thầu thông qua đấu thầu rộng rãi hoặc đấu thầu hạn chế và đã ký hợp đồng thực hiện gói thầu trước đó;
 
-b) Chủ đầu tư chỉ được áp dụng mua sắm trực tiếp một lần đối với các loại hàng hóa thuộc gói thầu và khối lượng từng hạng mục công việc nhỏ hơn 130% so với khối lượng hạng mục tương ứng thuộc gói thầu đã ký hợp đồng trước đó, không bao gồm khối lượng của tùy chọn mua thêm (nếu có);
+b) Chủ đầu tư chỉ được áp dụng mua sắm trực tiếp một lần đối với các loại hàng hóa thuộc gói thầu và khối lượng từng hạng mục công việc nhỏ hơn 130% so với khối lượng hạng mục tương ứng thuộc gói thầu đã ký hợp đồng trước đó, không bao gồm khối lượng của tùy chọn mua thêm (nếu có); 
 
 c) Đơn giá của các phần việc thuộc gói thầu áp dụng mua sắm trực tiếp không được vượt đơn giá của các phần việc tương ứng thuộc gói thầu tương tự đã ký hợp đồng trước đó, đồng thời, phù hợp với giá thị trường tại thời điểm hoàn thiện hợp đồng;
 
@@ -967,7 +945,7 @@ c) Có phương án khả thi huy động nhân sự, máy móc, thiết bị đ
 <a id="dieu-27"></a>
 ### Điều 27. Tham gia thực hiện của cộng đồng
 
-Cộng đồng dân cư, tổ, nhóm thợ đủ năng lực tại địa phương nơi có gói thầu được giao thực hiện toàn bộ hoặc một phần gói thầu thuộc chương trình mục tiêu quốc gia, chương trình đầu tư công mà Nhà nước và Nhân dân cùng làm có giá gói thầu không quá 05 tỷ đồng.
+Cộng đồng dân cư, tổ, nhóm thợ đủ năng lực tại địa phương nơi có gói thầu được giao thực hiện toàn bộ hoặc một phần gói thầu thuộc chương trình mục tiêu quốc gia, chương trình đầu tư công mà Nhà nước và Nhân dân cùng làm có giá gói thầu không quá 05 tỷ đồng. 
 
 
 <a id="dieu-28"></a>
@@ -976,7 +954,7 @@ Cộng đồng dân cư, tổ, nhóm thợ đủ năng lực tại địa phươ
 <a id="dieu-28-khoan-1"></a>
 **1.** Đàm phán giá được áp dụng đối với các gói thầu sau đây:
 
-a) Mua biệt dược gốc, sinh phẩm tham chiếu;
+a) Mua biệt dược gốc, sinh phẩm tham chiếu; 
 
 b) Mua thuốc, thiết bị y tế, vật tư xét nghiệm chỉ có 01 hoặc 02 hãng sản xuất.
 
@@ -988,11 +966,11 @@ b) Mua thuốc, thiết bị y tế, vật tư xét nghiệm chỉ có 01 hoặc
 ### Điều 29. Lựa chọn nhà thầu trong trường hợp đặc biệt
 
 <a id="dieu-29-khoan-1"></a>
-**1.** Việc lựa chọn nhà thầu trong trường hợp đặc biệt được áp dụng đối với các gói thầu không thể lựa chọn nhà thầu theo quy định tại các điều 21, 22, 23, 24, 25, 26, 27 và 28 của Luật này , bao gồm:
+**1.** Việc lựa chọn nhà thầu trong trường hợp đặc biệt được áp dụng đối với các gói thầu không thể lựa chọn nhà thầu theo quy định tại các điều 21, 22, 23, 24, 25, 26, 27 và 28 của Luật này, bao gồm:
 
 a) Gói thầu mua thuốc, vắc xin trong quá trình thử nghiệm, có yêu cầu đặc thù của nhà sản xuất về điều kiện mua, thanh toán, bảo lãnh, bảo đảm và điều kiện khác trong quá trình thực hiện hợp đồng;
 
-b) Gói thầu mua thuốc, vắc xin, thiết bị y tế thông qua các tổ chức quốc tế;
+b) Gói thầu mua thuốc, vắc xin, thiết bị y tế thông qua các tổ chức quốc tế; 
 
 c) Gói thầu có yêu cầu bảo đảm quốc phòng, an ninh, đối ngoại, biên giới lãnh thổ;
 
@@ -1002,9 +980,9 @@ d) Lựa chọn luật sư cung cấp dịch vụ pháp lý để bảo vệ quy
 
 e) Gói thầu thực hiện nhiệm vụ chính trị do Đảng và Nhà nước giao, bao gồm: tuyên truyền trên báo in, báo điện tử, đài phát thanh, truyền hình và phương tiện thông tin đại chúng khác trong trường hợp cơ quan, đơn vị được giao kinh phí tuyên truyền trực tiếp ký hợp đồng với các cơ quan này để thực hiện; tổ chức chương trình nghệ thuật đặc biệt; hợp tác sản xuất phim;
 
-g) Gói thầu sản xuất và lắp đặt sân khấu phục vụ sản xuất chương trình phát sóng gắn liền với ý tưởng thực hiện; thuê địa điểm để tổ chức sản xuất, ghi hình chương trình mang tính nghệ thuật cao;
+g) Gói thầu sản xuất và lắp đặt sân khấu phục vụ sản xuất chương trình phát sóng gắn liền với ý tưởng thực hiện; thuê địa điểm để tổ chức sản xuất, ghi hình chương trình mang tính nghệ thuật cao; 
 
-h) Gói thầu cung cấp dịch vụ in ấn, cung cấp tem, biên lai, niêm phong theo quy định của pháp luật về quản lý thuế, hải quan; gói thầu mua chó nghiệp vụ, đào tạo chó nghiệp vụ, mua ma túy, chất nổ, mẫu tẩm nguồn hơi ma túy, chất nổ để huấn luyện chó nghiệp vụ;
+h) Gói thầu cung cấp dịch vụ in ấn, cung cấp tem, biên lai, niêm phong theo quy định của pháp luật về quản lý thuế, hải quan; gói thầu mua chó nghiệp vụ, đào tạo chó nghiệp vụ, mua ma túy, chất nổ, mẫu tẩm nguồn hơi ma túy, chất nổ để huấn luyện chó nghiệp vụ; 
 
 i) Trường hợp dự án, gói thầu có điều kiện đặc thù về quy trình, thủ tục, tiêu chí lựa chọn nhà thầu, điều kiện ký kết và thực hiện hợp đồng không thuộc quy định tại các điểm a, b, c, d, đ, e, g và h khoản này, Chính phủ trình Ủy ban Thường vụ Quốc hội quyết định việc bổ sung trường hợp áp dụng hình thức lựa chọn nhà thầu trong trường hợp đặc biệt.
 
@@ -1018,12 +996,12 @@ b) Bộ trưởng Bộ Y tế quyết định và chịu trách nhiệm về vi�
 c) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định và chịu trách nhiệm về việc lựa chọn nhà thầu quy định tại các điểm d, đ, e, g và h khoản 1 Điều này.
 
 <a id="dieu-29-khoan-3"></a>
-**3.** Văn bản đề nghị phê duyệt phương án lựa chọn nhà thầu trong trường hợp đặc biệt phải nêu rõ lý do không thể đáp ứng điều kiện về lựa chọn nhà thầu quy định tại các điều 21, 22, 23, 24 , 25, 26 , 27 và 28 của Luật này .
+**3.** Văn bản đề nghị phê duyệt phương án lựa chọn nhà thầu trong trường hợp đặc biệt phải nêu rõ lý do không thể đáp ứng điều kiện về lựa chọn nhà thầu quy định tại các điều 21, 22, 23, 24, 25, 26, 27 và 28 của Luật này.
 
 <a id="dieu-29-khoan-4"></a>
 **4.** Chính phủ quy định chi tiết hồ sơ, quy trình, thủ tục lựa chọn nhà thầu trong trường hợp đặc biệt.
 
-## Mục 2. PHƯƠNG THỨC LỰA CHỌN NHÀ THẦU
+### Mục 2. PHƯƠNG THỨC LỰA CHỌN NHÀ THẦU
 
 
 <a id="dieu-30"></a>
@@ -1032,7 +1010,7 @@ c) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính 
 <a id="dieu-30-khoan-1"></a>
 **1.** Phương thức một giai đoạn một túi hồ sơ được áp dụng trong các trường hợp sau đây:
 
-a) Đấu thầu rộng rãi, đấu thầu hạn chế đối với gói thầu cung cấp dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, hỗn hợp, trừ trường hợp quy định tại điểm b khoản 1 Điều 31 của Luật này ;
+a) Đấu thầu rộng rãi, đấu thầu hạn chế đối với gói thầu cung cấp dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, hỗn hợp, trừ trường hợp quy định tại điểm b khoản 1 Điều 31 của Luật này;
 
 b) Chào hàng cạnh tranh đối với gói thầu cung cấp dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, gói thầu hỗn hợp cung cấp hàng hóa và xây lắp;
 
@@ -1055,7 +1033,7 @@ d) Mua sắm trực tiếp đối với gói thầu mua sắm hàng hóa.
 
 a) Đấu thầu rộng rãi, đấu thầu hạn chế đối với gói thầu cung cấp dịch vụ tư vấn;
 
-b) Đấu thầu rộng rãi, đấu thầu hạn chế đối với gói thầu cung cấp dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, hỗn hợp đòi hỏi kỹ thuật cao theo quy định của pháp luật về khoa học, công nghệ.
+b) Đấu thầu rộng rãi, đấu thầu hạn chế đối với gói thầu cung cấp dịch vụ phi tư vấn, mua sắm hàng hóa, xây lắp, hỗn hợp đòi hỏi kỹ thuật cao theo quy định của pháp luật về khoa học, công nghệ. 
 
 <a id="dieu-31-khoan-2"></a>
 **2.** Nhà thầu nộp đồng thời hồ sơ đề xuất về kỹ thuật và hồ sơ đề xuất về tài chính riêng biệt theo yêu cầu của hồ sơ mời thầu.
@@ -1076,7 +1054,7 @@ b) Đấu thầu rộng rãi, đấu thầu hạn chế đối với gói thâ�
 <a id="dieu-32-khoan-3"></a>
 **3.** Trong giai đoạn hai, quy trình lựa chọn nhà thầu được thực hiện như sau:
 
-a) Nhà thầu trong danh sách đạt yêu cầu giai đoạn một được mời làm rõ hồ sơ đề xuất về kỹ thuật. Nội dung làm rõ đề xuất về kỹ thuật bao gồm việc chủ đầu tư , bên mời thầu yêu cầu nhà thầu điều chỉnh đề xuất về kỹ thuật giai đoạn một. Nhà thầu được đưa ra ý kiến góp ý về nội dung hồ sơ mời thầu;
+a) Nhà thầu trong danh sách đạt yêu cầu giai đoạn một được mời làm rõ hồ sơ đề xuất về kỹ thuật. Nội dung làm rõ đề xuất về kỹ thuật bao gồm việc chủ đầu tư, bên mời thầu yêu cầu nhà thầu điều chỉnh đề xuất về kỹ thuật giai đoạn một. Nhà thầu được đưa ra ý kiến góp ý về nội dung hồ sơ mời thầu;
 
 b) Trên cơ sở nội dung làm rõ đề xuất về kỹ thuật với từng nhà thầu, hồ sơ mời thầu giai đoạn một được điều chỉnh, bổ sung về chỉ dẫn nhà thầu, tiêu chuẩn đánh giá, yêu cầu kỹ thuật, điều kiện hợp đồng và các nội dung khác để hình thành hồ sơ mời thầu giai đoạn hai, kể cả các sai lệch về kỹ thuật của nhà thầu đã được chấp nhận, đề xuất trong phương án thay thế của nhà thầu đã được chấp nhận;
 
@@ -1095,13 +1073,13 @@ c) Nhà thầu nộp hồ sơ dự thầu bao gồm đề xuất về kỹ thu�
 <a id="dieu-33-khoan-3"></a>
 **3.** Trong giai đoạn hai, quy trình lựa chọn nhà thầu được thực hiện như sau:
 
-a) Nhà thầu trong danh sách đạt yêu cầu giai đoạn một được mời làm rõ hồ sơ đề xuất về kỹ thuật. Nội dung làm rõ đề xuất về kỹ thuật bao gồm việc chủ đầu tư , bên mời thầu yêu cầu nhà thầu điều chỉnh đề xuất về kỹ thuật giai đoạn một. Nhà thầu được đưa ra ý kiến góp ý về nội dung hồ sơ mời thầu;
+a) Nhà thầu trong danh sách đạt yêu cầu giai đoạn một được mời làm rõ hồ sơ đề xuất về kỹ thuật. Nội dung làm rõ đề xuất về kỹ thuật bao gồm việc chủ đầu tư, bên mời thầu yêu cầu nhà thầu điều chỉnh đề xuất về kỹ thuật giai đoạn một. Nhà thầu được đưa ra ý kiến góp ý về nội dung hồ sơ mời thầu;
 
 b) Trên cơ sở nội dung làm rõ đề xuất về kỹ thuật với từng nhà thầu, hồ sơ mời thầu giai đoạn một được điều chỉnh, bổ sung về chỉ dẫn nhà thầu, tiêu chuẩn đánh giá, yêu cầu kỹ thuật, điều kiện hợp đồng và các nội dung khác để hình thành hồ sơ mời thầu giai đoạn hai, kể cả các sai lệch về kỹ thuật của nhà thầu đã được chấp nhận, đề xuất trong phương án thay thế của nhà thầu đã được chấp nhận;
 
 c) Nhà thầu nộp hồ sơ dự thầu bao gồm đề xuất về kỹ thuật và đề xuất về tài chính riêng biệt theo yêu cầu của hồ sơ mời thầu giai đoạn hai, trong đó có giá dự thầu và bảo đảm dự thầu. Hồ sơ đề xuất tài chính được chào tương ứng theo phương án đề xuất kỹ thuật chính của nhà thầu; trường hợp nhà thầu chào phương án kỹ thuật thay thế thì phải gửi kèm theo phần đề xuất tài chính cho phương án thay thế này. Việc mở thầu được tiến hành hai lần. Hồ sơ đề xuất về kỹ thuật sẽ được mở ngay sau thời điểm đóng thầu. Nhà thầu đáp ứng yêu cầu về kỹ thuật sẽ được mở hồ sơ đề xuất về tài chính để đánh giá.
 
-## Mục 3. HÌNH THỨC, PHƯƠNG THỨC LỰA CHỌN NHÀ ĐẦU TƯ
+### Mục 3. HÌNH THỨC, PHƯƠNG THỨC LỰA CHỌN NHÀ ĐẦU TƯ
 
 
 <a id="dieu-34"></a>
@@ -1110,7 +1088,7 @@ c) Nhà thầu nộp hồ sơ dự thầu bao gồm đề xuất về kỹ thu�
 <a id="dieu-34-khoan-1"></a>
 **1.** Đấu thầu rộng rãi:
 
-Đấu thầu rộng rãi được áp dụng đối với dự án đầu tư kinh doanh mà không hạn chế số lượng nhà đầu tư tham dự.
+Đấu thầu rộng rãi được áp dụng đối với dự án đầu tư kinh doanh mà không hạn chế số lượng nhà đầu tư tham dự. 
 
 <a id="dieu-34-khoan-2"></a>
 **2.** Đấu thầu hạn chế:
@@ -1126,7 +1104,7 @@ c) Nhà thầu nộp hồ sơ dự thầu bao gồm đề xuất về kỹ thu�
 
 a) Phương thức một giai đoạn một túi hồ sơ được áp dụng trong trường hợp đấu thầu rộng rãi, đấu thầu hạn chế lựa chọn nhà đầu tư;
 
-b) Nhà đầu tư nộp hồ sơ dự thầu gồm đề xuất về kỹ thuật và đề xuất về tài chính theo yêu cầu của hồ sơ mời thầu;
+b) Nhà đầu tư nộp hồ sơ dự thầu gồm đề xuất về kỹ thuật và đề xuất về tài chính theo yêu cầu của hồ sơ mời thầu; 
 
 c) Việc mở thầu được tiến hành một lần đối với toàn bộ hồ sơ dự thầu.
 
@@ -1135,21 +1113,21 @@ c) Việc mở thầu được tiến hành một lần đối với toàn bộ 
 
 a) Phương thức một giai đoạn hai túi hồ sơ được áp dụng trong trường hợp đấu thầu rộng rãi lựa chọn nhà đầu tư đối với dự án đầu tư kinh doanh có yêu cầu công trình kiến trúc có giá trị theo quy định của pháp luật về kiến trúc;
 
-b) Nhà đầu tư nộp đồng thời hồ sơ đề xuất về kỹ thuật và hồ sơ đề xuất về tài chính riêng biệt theo yêu cầu của hồ sơ mời thầu;
+b) Nhà đầu tư nộp đồng thời hồ sơ đề xuất về kỹ thuật và hồ sơ đề xuất về tài chính riêng biệt theo yêu cầu của hồ sơ mời thầu; 
 
 c) Việc mở thầu được tiến hành hai lần. Hồ sơ đề xuất về kỹ thuật sẽ được mở ngay sau thời điểm đóng thầu. Nhà đầu tư đáp ứng yêu cầu về kỹ thuật sẽ được mở hồ sơ đề xuất về tài chính để đánh giá.
 
 <a id="dieu-35-khoan-3"></a>
 **3.** Phương thức hai giai đoạn một túi hồ sơ:
 
-Phương thức hai giai đoạn một túi hồ sơ được áp dụng trong trường hợp đấu thầu rộng rãi lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh có yêu cầu đặc thù phát triển kinh tế, xã hội của ngành, vùng, địa phương nhưng chưa xác định được cụ thể tiêu chuẩn về kỹ thuật, kinh tế, xã hội, môi trường.
+Phương thức hai giai đoạn một túi hồ sơ được áp dụng trong trường hợp đấu thầu rộng rãi lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh có yêu cầu đặc thù phát triển kinh tế, xã hội của ngành, vùng, địa phương nhưng chưa xác định được cụ thể tiêu chuẩn về kỹ thuật, kinh tế, xã hội, môi trường. 
 
 <a id="dieu-35-khoan-4"></a>
 **4.** Chính phủ quy định chi tiết Điều này.
 
-# Chương III
+## Chương III. 
 
-KẾ HOẠCH LỰA CHỌN NHÀ THẦU
+__KẾ HOẠCH LỰA CHỌN NHÀ THẦU__
 
 
 <a id="dieu-36"></a>
@@ -1164,13 +1142,13 @@ KẾ HOẠCH LỰA CHỌN NHÀ THẦU
 <a id="dieu-36-khoan-3"></a>
 **3.** Kế hoạch tổng thể lựa chọn nhà thầu bao gồm những nội dung chủ yếu sau đây:
 
-a) Xem xét bối cảnh thực hiện dự án đối với công tác đấu thầu;
+a) Xem xét bối cảnh thực hiện dự án đối với công tác đấu thầu; 
 
-b) Đánh giá năng lực, nguồn lực và kinh nghiệm của chủ đầu tư đối với việc thực hiện các hoạt động đấu thầu của dự án;
+b) Đánh giá năng lực, nguồn lực và kinh nghiệm của chủ đầu tư đối với việc thực hiện các hoạt động đấu thầu của dự án; 
 
-c) Phân tích thị trường và xác định rủi ro trong đấu thầu;
+c) Phân tích thị trường và xác định rủi ro trong đấu thầu; 
 
-d) Mục tiêu cụ thể của hoạt động đấu thầu;
+d) Mục tiêu cụ thể của hoạt động đấu thầu; 
 
 đ) Đề xuất kế hoạch tổng thể lựa chọn nhà thầu cho dự án bao gồm: phân chia dự án thành các gói thầu; hình thức và phương thức lựa chọn nhà thầu; loại hợp đồng, nguyên tắc phân chia và quản lý rủi ro; tiến độ thực hiện các công việc chính, gói thầu; nội dung khác cần lưu ý trong soạn thảo hồ sơ mời thầu, quản lý thực hiện hợp đồng.
 
@@ -1211,14 +1189,14 @@ c) Dự án đã được giao kế hoạch đầu tư công trung hạn, trừ 
 
 d) Kế hoạch bố trí vốn thực hiện dự án hoặc nguồn vốn thực hiện dự án đối với dự án không thuộc trường hợp quy định tại điểm c khoản này;
 
-đ) Điều ước quốc tế, thỏa thuận vay đối với dự án sử dụng vốn ODA, vốn vay ưu đãi của nhà tài trợ nước ngoài , trừ trường hợp đấu thầu trước quy định tại Điều 42 của Luật này ;
+đ) Điều ước quốc tế, thỏa thuận vay đối với dự án sử dụng vốn ODA, vốn vay ưu đãi của nhà tài trợ nước ngoài, trừ trường hợp đấu thầu trước quy định tại Điều 42 của Luật này;
 
 e) Văn bản pháp lý có liên quan.
 
 <a id="dieu-38-khoan-2"></a>
 **2.** Căn cứ lập kế hoạch lựa chọn nhà thầu đối với dự toán mua sắm:
 
-a) Tiêu chuẩn, định mức sử dụng tài sản công của cơ quan, tổ chức, đơn vị và cán bộ, công chức, viên chức, người lao động (nếu có);
+a) Tiêu chuẩn, định mức sử dụng tài sản công của cơ quan, tổ chức, đơn vị và cán bộ, công chức, viên chức, người lao động (nếu có); 
 
 b) Dự toán mua sắm;
 
@@ -1238,7 +1216,7 @@ Tên gói thầu thể hiện tính chất, nội dung và phạm vi công việ
 
 a) Giá gói thầu là giá trị của gói thầu được phê duyệt trong kế hoạch lựa chọn nhà thầu. Giá gói thầu bao gồm toàn bộ chi phí để thực hiện gói thầu, kể cả chi phí dự phòng, phí, lệ phí và thuế. Giá gói thầu được cập nhật trong thời hạn 28 ngày trước ngày mở thầu nếu cần thiết;
 
-b) Đối với gói thầu chia phần thì ghi rõ giá gói thầu và giá ước tính cho từng phần trong giá gói thầu;
+b) Đối với gói thầu chia phần thì ghi rõ giá gói thầu và giá ước tính cho từng phần trong giá gói thầu; 
 
 c) Đối với gói thầu áp dụng tùy chọn mua thêm quy định tại khoản 8 Điều này, giá gói thầu không bao gồm giá trị của tùy chọn mua thêm.
 
@@ -1247,7 +1225,7 @@ Chính phủ quy định chi tiết về nội dung giá gói thầu trong kế 
 <a id="dieu-39-khoan-3"></a>
 **3.** Nguồn vốn:
 
-Đối với mỗi gói thầu phải nêu rõ nguồn vốn đã được xác định hoặc phê duyệt. Trường hợp sử dụng vốn ODA, vốn vay ưu đãi của nhà tài trợ nước ngoài thì phải ghi rõ tên nhà tài trợ và cơ cấu nguồn vốn, bao gồm vốn tài trợ, vốn đối ứng trong nước. Đối với dự toán mua sắm, trường hợp gói thầu có thời gian thực hiện dài hơn 01 năm, nguồn vốn có thể được xác định trên cơ sở dự toán mua sắm của năm ngân sách và dự kiến dự toán mua sắm của các năm ngân sách tiếp theo.
+Đối với mỗi gói thầu phải nêu rõ nguồn vốn đã được xác định hoặc phê duyệt. Trường hợp sử dụng vốn ODA, vốn vay ưu đãi của nhà tài trợ nước ngoài thì phải ghi rõ tên nhà tài trợ và cơ cấu nguồn vốn, bao gồm vốn tài trợ, vốn đối ứng trong nước. Đối với dự toán mua sắm, trường hợp gói thầu có thời gian thực hiện dài hơn 01 năm, nguồn vốn có thể được xác định trên cơ sở dự toán mua sắm của năm ngân sách và dự kiến dự toán mua sắm của các năm ngân sách tiếp theo. 
 
 <a id="dieu-39-khoan-4"></a>
 **4.** Hình thức và phương thức lựa chọn nhà thầu:
@@ -1276,7 +1254,7 @@ Thời gian thực hiện gói thầu được tính từ ngày hợp đồng c�
 <a id="dieu-39-khoan-8"></a>
 **8.** Tùy chọn mua thêm (nếu có):
 
-a) Tùy chọn mua thêm là khả năng chủ đầu tư mua bổ sung hàng hóa, dịch vụ tư vấn, dịch vụ phi tư vấn của gói thầu ngoài khối lượng nêu trong hợp đồng;
+a) Tùy chọn mua thêm là khả năng chủ đầu tư mua bổ sung hàng hóa, dịch vụ tư vấn, dịch vụ phi tư vấn của gói thầu ngoài khối lượng nêu trong hợp đồng; 
 
 b) Trường hợp gói thầu áp dụng tùy chọn mua thêm, kế hoạch lựa chọn nhà thầu phải ghi rõ khối lượng, số lượng, giá trị ước tính của phần tùy chọn mua thêm;
 
@@ -1296,7 +1274,7 @@ a) Phần công việc đã thực hiện, bao gồm nội dung công việc li�
 
 b) Phần công việc không áp dụng được một trong các hình thức lựa chọn nhà thầu;
 
-c) Phần công việc thuộc kế hoạch lựa chọn nhà thầu, bao gồm nội dung công việc và giá trị tương ứng hình thành các gói thầu được thực hiện theo một trong các hình thức lựa chọn nhà thầu quy định tại các điều 21, 22, 23, 24 , 25, 26 , 27, 28 và 29 của Luật này ;
+c) Phần công việc thuộc kế hoạch lựa chọn nhà thầu, bao gồm nội dung công việc và giá trị tương ứng hình thành các gói thầu được thực hiện theo một trong các hình thức lựa chọn nhà thầu quy định tại các điều 21, 22, 23, 24, 25, 26, 27, 28 và 29 của Luật này;
 
 d) Phần công việc chưa đủ điều kiện lập kế hoạch lựa chọn nhà thầu (nếu có), trong đó nêu rõ nội dung và giá trị của phần công việc này;
 
@@ -1307,7 +1285,7 @@ e) Nội dung khác có liên quan.
 <a id="dieu-40-khoan-2"></a>
 **2.** Thẩm quyền phê duyệt kế hoạch lựa chọn nhà thầu:
 
-a) Chủ đầu tư tổ chức lập và phê duyệt kế hoạch lựa chọn nhà thầu trong trường hợp đã phê duyệt kế hoạch tổng thể lựa chọn nhà thầu;
+a) Chủ đầu tư tổ chức lập và phê duyệt kế hoạch lựa chọn nhà thầu trong trường hợp đã phê duyệt kế hoạch tổng thể lựa chọn nhà thầu; 
 
 b) Người có thẩm quyền xem xét, phê duyệt kế hoạch lựa chọn nhà thầu đối với dự án không áp dụng kế hoạch tổng thể lựa chọn nhà thầu hoặc ủy quyền cho chủ đầu tư, cơ quan, đơn vị thuộc phạm vi quản lý phê duyệt, trừ trường hợp quy định tại điểm c khoản này;
 
@@ -1327,7 +1305,7 @@ a) Phần công việc đã thực hiện, bao gồm nội dung công việc c�
 
 b) Phần công việc không áp dụng được một trong các hình thức lựa chọn nhà thầu;
 
-c) Phần công việc thuộc kế hoạch lựa chọn nhà thầu, bao gồm nội dung công việc và giá trị tương ứng hình thành gói thầu được thực hiện theo một trong các hình thức lựa chọn nhà thầu quy định tại các điều 21, 22 , 23, 24 , 25, 26, 27, 28 và 29 của Luật này ;
+c) Phần công việc thuộc kế hoạch lựa chọn nhà thầu, bao gồm nội dung công việc và giá trị tương ứng hình thành gói thầu được thực hiện theo một trong các hình thức lựa chọn nhà thầu quy định tại các điều 21, 22, 23, 24, 25, 26, 27, 28 và 29 của Luật này;
 
 d) Phần công việc chưa đủ điều kiện lập kế hoạch lựa chọn nhà thầu (nếu có), trong đó nêu rõ nội dung và giá trị của phần công việc này;
 
@@ -1351,13 +1329,13 @@ e) Nội dung khác có liên quan.
 Các hoạt động thực hiện trước khi ký kết điều ước quốc tế, thỏa thuận về vốn ODA và vốn vay ưu đãi của nhà tài trợ nước ngoài gồm: lập, trình duyệt, thẩm định, phê duyệt kế hoạch lựa chọn nhà thầu, hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu, hồ sơ yêu cầu, xác định danh sách ngắn.
 
 <a id="dieu-42-khoan-2"></a>
-**2.** Các hoạt động quy định tại khoản 1 Điều này được thực hiện theo quy định tại điểm a khoản 1 Điều 43 của Luật này .
+**2.** Các hoạt động quy định tại khoản 1 Điều này được thực hiện theo quy định tại điểm a khoản 1 Điều 43 của Luật này.
 
-# Chương IV
+## Chương IV. 
 
-QUY TRÌNH, THỦ TỤC LỰA CHỌN NHÀ THẦU, NHÀ ĐẦU TƯ
+__QUY TRÌNH, THỦ TỤC LỰA CHỌN NHÀ THẦU, NHÀ ĐẦU TƯ__
 
-## Mục 1. QUY TRÌNH, THỦ TỤC LỰA CHỌN NHÀ THẦU
+### Mục 1. QUY TRÌNH, THỦ TỤC LỰA CHỌN NHÀ THẦU
 
 
 <a id="dieu-43"></a>
@@ -1366,43 +1344,43 @@ QUY TRÌNH, THỦ TỤC LỰA CHỌN NHÀ THẦU, NHÀ ĐẦU TƯ
 <a id="dieu-43-khoan-1"></a>
 **1.** Quy trình, thủ tục lựa chọn nhà thầu đối với đấu thầu rộng rãi, đấu thầu hạn chế bao gồm các bước sau đây:
 
-a) Chuẩn bị lựa chọn nhà thầu;
+a) Chuẩn bị lựa chọn nhà thầu; 
 
-b) Tổ chức lựa chọn nhà thầu;
+b) Tổ chức lựa chọn nhà thầu; 
 
 c) Đánh giá hồ sơ dự thầu;
 
-d) Thương thảo hợp đồng đối với gói thầu cung cấp dịch vụ tư vấn.
+d) Thương thảo hợp đồng đối với gói thầu cung cấp dịch vụ tư vấn. 
 
 Đối với gói thầu mua sắm hàng hóa, xây lắp, cung cấp dịch vụ phi tư vấn áp dụng đấu thầu quốc tế, gói thầu hỗn hợp và gói thầu có yêu cầu kỹ thuật cao, trường hợp cần thiết, bên mời thầu có thể thương thảo hợp đồng với nhà thầu xếp hạng thứ nhất;
 
 đ) Trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu và giải thích lý do nhà thầu không trúng thầu theo yêu cầu của nhà thầu (nếu có);
 
-e) Hoàn thiện, ký kết và quản lý thực hiện hợp đồng.
+e) Hoàn thiện, ký kết và quản lý thực hiện hợp đồng. 
 
 <a id="dieu-43-khoan-2"></a>
 **2.** Quy trình, thủ tục lựa chọn nhà thầu đối với chỉ định thầu bao gồm các bước sau đây:
 
-a) Chuẩn bị lựa chọn nhà thầu;
+a) Chuẩn bị lựa chọn nhà thầu; 
 
-b) Tổ chức lựa chọn nhà thầu;
+b) Tổ chức lựa chọn nhà thầu; 
 
-c) Đánh giá hồ sơ đề xuất và thương thảo về đề xuất của một hoặc các nhà thầu (nếu có);
+c) Đánh giá hồ sơ đề xuất và thương thảo về đề xuất của một hoặc các nhà thầu (nếu có); 
 
-d) Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu;
+d) Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu; 
 
 đ) Hoàn thiện, ký kết và quản lý thực hiện hợp đồng.
 
-Đối với trường hợp quy định tại điểm m khoản 1 Điều 23 của Luật này , người có thẩm quyền có thể quyết định áp dụng quy trình rút gọn bao gồm các bước sau: chuẩn bị và gửi dự thảo hợp đồng cho nhà thầu; hoàn thiện hợp đồng; trình, phê duyệt và công khai kết quả lựa chọn nhà thầu; ký kết và quản lý thực hiện hợp đồng.
+Đối với trường hợp quy định tại điểm m khoản 1 Điều 23 của Luật này, người có thẩm quyền có thể quyết định áp dụng quy trình rút gọn bao gồm các bước sau: chuẩn bị và gửi dự thảo hợp đồng cho nhà thầu; hoàn thiện hợp đồng; trình, phê duyệt và công khai kết quả lựa chọn nhà thầu; ký kết và quản lý thực hiện hợp đồng.
 
 <a id="dieu-43-khoan-3"></a>
 **3.** Quy trình, thủ tục lựa chọn nhà thầu đối với chào hàng cạnh tranh bao gồm các bước sau đây:
 
-a) Chuẩn bị lựa chọn nhà thầu;
+a) Chuẩn bị lựa chọn nhà thầu; 
 
-b) Tổ chức lựa chọn nhà thầu;
+b) Tổ chức lựa chọn nhà thầu; 
 
-c) Đánh giá hồ sơ dự thầu;
+c) Đánh giá hồ sơ dự thầu; 
 
 d) Trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà thầu và giải thích lý do nhà thầu không trúng thầu theo yêu cầu của nhà thầu (nếu có);
 
@@ -1411,13 +1389,13 @@ d) Trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nh�
 <a id="dieu-43-khoan-4"></a>
 **4.** Quy trình, thủ tục lựa chọn nhà thầu đối với mua sắm trực tiếp bao gồm các bước sau đây:
 
-a) Chuẩn bị lựa chọn nhà thầu;
+a) Chuẩn bị lựa chọn nhà thầu; 
 
-b) Tổ chức lựa chọn nhà thầu;
+b) Tổ chức lựa chọn nhà thầu; 
 
 c) Đánh giá hồ sơ đề xuất và thương thảo về đề xuất của nhà thầu;
 
-d) Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu;
+d) Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn nhà thầu; 
 
 đ) Hoàn thiện, ký kết và quản lý thực hiện hợp đồng.
 
@@ -1426,7 +1404,7 @@ d) Trình, thẩm định, phê duyệt và công khai kết quả lựa chọn 
 
 a) Chuẩn bị phương án tự thực hiện, bao gồm dự thảo thỏa thuận giao việc;
 
-b) Hoàn thiện phương án tự thực hiện;
+b) Hoàn thiện phương án tự thực hiện; 
 
 c) Phê duyệt và công khai kết quả lựa chọn nhà thầu;
 
@@ -1435,13 +1413,13 @@ d) Ký kết thỏa thuận giao việc; quản lý việc thực hiện gói th
 <a id="dieu-43-khoan-6"></a>
 **6.** Lựa chọn tư vấn cá nhân được áp dụng khi công việc của gói thầu chỉ yêu cầu một hoặc một số chuyên gia có kinh nghiệm, năng lực thực hiện mà không cần sự tham gia của tổ chức, không yêu cầu các điều kiện để thực hiện công việc như đối với nhà thầu là tổ chức. Quy trình, thủ tục lựa chọn tư vấn cá nhân bao gồm các bước sau đây:
 
-a) Chuẩn bị lựa chọn nhà thầu;
+a) Chuẩn bị lựa chọn nhà thầu; 
 
-b) Tổ chức lựa chọn nhà thầu;
+b) Tổ chức lựa chọn nhà thầu; 
 
-c) Đánh giá hồ sơ lý lịch khoa học của nhà thầu tư vấn cá nhân;
+c) Đánh giá hồ sơ lý lịch khoa học của nhà thầu tư vấn cá nhân; 
 
-d) Thương thảo hợp đồng;
+d) Thương thảo hợp đồng; 
 
 đ) Trình, phê duyệt và công khai kết quả lựa chọn nhà thầu;
 
@@ -1450,11 +1428,11 @@ e) Ký kết và quản lý thực hiện hợp đồng.
 <a id="dieu-43-khoan-7"></a>
 **7.** Quy trình, thủ tục lựa chọn nhà thầu đối với gói thầu có sự tham gia thực hiện của cộng đồng bao gồm các bước sau đây:
 
-a) Chuẩn bị phương án lựa chọn cộng đồng dân cư, tổ, nhóm thợ tại địa phương để triển khai thực hiện gói thầu;
+a) Chuẩn bị phương án lựa chọn cộng đồng dân cư, tổ, nhóm thợ tại địa phương để triển khai thực hiện gói thầu; 
 
-b) Tổ chức lựa chọn;
+b) Tổ chức lựa chọn; 
 
-c) Phê duyệt và công khai kết quả lựa chọn;
+c) Phê duyệt và công khai kết quả lựa chọn; 
 
 d) Hoàn thiện, ký kết và quản lý thực hiện hợp đồng.
 
@@ -1468,19 +1446,19 @@ d) Hoàn thiện, ký kết và quản lý thực hiện hợp đồng.
 <a id="dieu-44-khoan-1"></a>
 **1.** Hồ sơ mời thầu bao gồm:
 
-a) Chỉ dẫn nhà thầu, tùy chọn mua thêm (nếu có);
+a) Chỉ dẫn nhà thầu, tùy chọn mua thêm (nếu có); 
 
-b) Bảng dữ liệu đấu thầu;
+b) Bảng dữ liệu đấu thầu; 
 
 c) Tiêu chuẩn đánh giá về tính hợp lệ của hồ sơ dự thầu; năng lực, kinh nghiệm của nhà thầu; kỹ thuật; tài chính, thương mại; uy tín của nhà thầu thông qua việc tham dự thầu, thực hiện các hợp đồng tương tự trước đó và chất lượng hàng hóa tương tự đã sử dụng.
 
-Trường hợp sử dụng nhà thầu phụ đặc biệt, hồ sơ mời thầu phải nêu rõ phạm vi công việc và yêu cầu về năng lực, kinh nghiệm của nhà thầu phụ đặc biệt;
+Trường hợp sử dụng nhà thầu phụ đặc biệt, hồ sơ mời thầu phải nêu rõ phạm vi công việc và yêu cầu về năng lực, kinh nghiệm của nhà thầu phụ đặc biệt; 
 
-d) Biểu mẫu mời thầu và dự thầu;
+d) Biểu mẫu mời thầu và dự thầu; 
 
-đ) Phạm vi cung cấp, yêu cầu về kỹ thuật, điều khoản tham chiếu;
+đ) Phạm vi cung cấp, yêu cầu về kỹ thuật, điều khoản tham chiếu; 
 
-e) Điều kiện và biểu mẫu hợp đồng;
+e) Điều kiện và biểu mẫu hợp đồng; 
 
 g) Các hồ sơ, bản vẽ và nội dung khác (nếu có).
 
@@ -1504,11 +1482,11 @@ a) Thời gian chuẩn bị hồ sơ quan tâm, hồ sơ dự sơ tuyển tối 
 
 b) Thời gian chuẩn bị hồ sơ dự thầu đối với đấu thầu rộng rãi, đấu thầu hạn chế tối thiểu là 18 ngày đối với đấu thầu trong nước, 35 ngày đối với đấu thầu quốc tế kể từ ngày đầu tiên hồ sơ mời thầu được phát hành đến ngày có thời điểm đóng thầu; đối với gói thầu xây lắp, hỗn hợp có giá gói thầu không quá 20 tỷ đồng, gói thầu mua sắm hàng hóa, dịch vụ phi tư vấn có giá gói thầu không quá 10 tỷ đồng thì thời gian chuẩn bị hồ sơ dự thầu tối thiểu là 09 ngày đối với đấu thầu trong nước, 18 ngày đối với đấu thầu quốc tế;
 
-c) Thời gian chuẩn bị hồ sơ dự thầu đối với chào hàng cạnh tranh tối thiểu là 05 ngày làm việc kể từ ngày đầu tiên hồ sơ mời thầu được phát hành đến ngày có thời điểm đóng thầu;
+c) Thời gian chuẩn bị hồ sơ dự thầu đối với chào hàng cạnh tranh tối thiểu là 05 ngày làm việc kể từ ngày đầu tiên hồ sơ mời thầu được phát hành đến ngày có thời điểm đóng thầu; 
 
 d) Trường hợp gói thầu đủ điều kiện áp dụng hình thức chỉ định thầu theo quy định tại điểm a, b và c khoản 1 Điều 23 của Luật này nhưng người có thẩm quyền quyết định áp dụng hình thức đấu thầu rộng rãi để lựa chọn nhà thầu thì thời gian chuẩn bị hồ sơ dự thầu tối thiểu là 09 ngày kể từ ngày đầu tiên hồ sơ mời thầu được phát hành đến ngày có thời điểm đóng thầu;
 
-đ) Việc sửa đổi hồ sơ mời thầu được thực hiện trong thời gian tối thiểu là 10 ngày trước ngày có thời điểm đóng thầu; đối với gói thầu xây lắp, hỗn hợp có giá gói thầu không quá 20 tỷ đồng, gói thầu mua sắm hàng hóa, dịch vụ phi tư vấn có giá gói thầu không quá 10 tỷ đồng, việc sửa đổi hồ sơ mời thầu được thực hiện trong thời gian tối thiểu là 03 ngày làm việc trước ngày có thời điểm đóng thầu. Việc sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển được thực hiện trong thời gian tối thiểu là 03 ngày làm việc trước ngày có thời điểm đóng thầu.
+đ) Việc sửa đổi hồ sơ mời thầu được thực hiện trong thời gian tối thiểu là 10 ngày trước ngày có thời điểm đóng thầu; đối với gói thầu xây lắp, hỗn hợp có giá gói thầu không quá 20 tỷ đồng, gói thầu mua sắm hàng hóa, dịch vụ phi tư vấn có giá gói thầu không quá 10 tỷ đồng, việc sửa đổi hồ sơ mời thầu được thực hiện trong thời gian tối thiểu là 03 ngày làm việc trước ngày có thời điểm đóng thầu. Việc sửa đổi hồ sơ mời quan tâm, hồ sơ mời sơ tuyển được thực hiện trong thời gian tối thiểu là 03 ngày làm việc trước ngày có thời điểm đóng thầu. 
 
 <a id="dieu-45-khoan-2"></a>
 **2.** Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, hồ sơ mời thầu được phát hành đồng thời với thông báo mời quan tâm, thông báo mời sơ tuyển, thông báo mời thầu.
@@ -1516,7 +1494,7 @@ d) Trường hợp gói thầu đủ điều kiện áp dụng hình thức ch�
 <a id="dieu-45-khoan-3"></a>
 **3.** Đối với các công việc khác ngoài quy định tại khoản 1 và khoản 2 Điều này, người có thẩm quyền, chủ đầu tư có trách nhiệm quyết định thời gian thực hiện trên cơ sở bảo đảm tiến độ của dự án, gói thầu.
 
-## Mục 2. QUY TRÌNH, THỦ TỤC LỰA CHỌN NHÀ ĐẦU TƯ
+### Mục 2. QUY TRÌNH, THỦ TỤC LỰA CHỌN NHÀ ĐẦU TƯ
 
 
 <a id="dieu-46"></a>
@@ -1527,9 +1505,9 @@ d) Trường hợp gói thầu đủ điều kiện áp dụng hình thức ch�
 
 a) Công bố dự án đầu tư kinh doanh;
 
-b) Chuẩn bị đấu thầu lựa chọn nhà đầu tư gồm: lập, thẩm định, phê duyệt hồ sơ mời thầu;
+b) Chuẩn bị đấu thầu lựa chọn nhà đầu tư gồm: lập, thẩm định, phê duyệt hồ sơ mời thầu; 
 
-c) Tổ chức đấu thầu lựa chọn nhà đầu tư gồm: mời thầu; phát hành, sửa đổi, làm rõ hồ sơ mời thầu; chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút, thay thế hồ sơ dự thầu;
+c) Tổ chức đấu thầu lựa chọn nhà đầu tư gồm: mời thầu; phát hành, sửa đổi, làm rõ hồ sơ mời thầu; chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, rút, thay thế hồ sơ dự thầu; 
 
 d) Đánh giá hồ sơ dự thầu gồm: mở thầu; kiểm tra, đánh giá tính hợp lệ của hồ sơ dự thầu; đánh giá chi tiết hồ sơ dự thầu;
 
@@ -1572,17 +1550,17 @@ e) Nội dung khác có liên quan.
 <a id="dieu-48-khoan-1"></a>
 **1.** Hồ sơ mời thầu bao gồm:
 
-a) Chỉ dẫn nhà đầu tư;
+a) Chỉ dẫn nhà đầu tư; 
 
-b) Bảng dữ liệu đấu thầu;
+b) Bảng dữ liệu đấu thầu; 
 
-c) Nội dung kiểm tra, đánh giá tính hợp lệ của hồ sơ dự thầu;
+c) Nội dung kiểm tra, đánh giá tính hợp lệ của hồ sơ dự thầu; 
 
-d) Phương pháp và tiêu chuẩn đánh giá về năng lực, kinh nghiệm của nhà đầu tư; phương án đầu tư kinh doanh; hiệu quả sử dụng đất hoặc hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương;
+d) Phương pháp và tiêu chuẩn đánh giá về năng lực, kinh nghiệm của nhà đầu tư; phương án đầu tư kinh doanh; hiệu quả sử dụng đất hoặc hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương; 
 
-đ) Biểu mẫu mời thầu và dự thầu;
+đ) Biểu mẫu mời thầu và dự thầu; 
 
-e) Thông tin và yêu cầu thực hiện dự án đầu tư kinh doanh;
+e) Thông tin và yêu cầu thực hiện dự án đầu tư kinh doanh; 
 
 g) Dự thảo hợp đồng, biểu mẫu hợp đồng;
 
@@ -1604,7 +1582,7 @@ h) Nội dung khác có liên quan.
 <a id="dieu-49-khoan-3"></a>
 **3.** Đối với các công việc khác ngoài quy định tại khoản 1 và khoản 2 Điều này, người có thẩm quyền, bên mời thầu có trách nhiệm quyết định thời gian thực hiện trên cơ sở bảo đảm tiến độ thực hiện của dự án đầu tư kinh doanh.
 
-## Mục 3. ĐẤU THẦU QUA MẠNG
+### Mục 3. ĐẤU THẦU QUA MẠNG
 
 
 <a id="dieu-50"></a>
@@ -1613,9 +1591,9 @@ h) Nội dung khác có liên quan.
 <a id="dieu-50-khoan-1"></a>
 **1.** Đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh trong nước phải thực hiện trên Hệ thống mạng đấu thầu quốc gia theo lộ trình sau đây:
 
-a) Từ ngày Luật này có hiệu lực thi hành đến hết ngày 31 tháng 12 năm 2024, việc đấu thầu qua mạng hoặc không qua mạng thực hiện theo quy định của Chính phủ;
+a) Từ ngày Luật này có hiệu lực thi hành đến hết ngày 31 tháng 12 năm 2024, việc đấu thầu qua mạng hoặc không qua mạng thực hiện theo quy định của Chính phủ;  
 
-b) Từ ngày 01 tháng 01 năm 2025, áp dụng đấu thầu qua mạng đối với tất cả các gói thầu, trừ trường hợp không đấu thầu trên Hệ thống mạng đấu thầu quốc gia theo quy định tại khoản 5 Điều này.
+b) Từ ngày 01 tháng 01 năm 2025, áp dụng đấu thầu qua mạng đối với tất cả các gói thầu, trừ trường hợp không đấu thầu trên Hệ thống mạng đấu thầu quốc gia theo quy định tại khoản 5 Điều này. 
 
 <a id="dieu-50-khoan-2"></a>
 **2.** Các nội dung lựa chọn nhà thầu, nhà đầu tư được thực hiện trên Hệ thống mạng đấu thầu quốc gia bao gồm:
@@ -1644,10 +1622,10 @@ k) Thanh toán điện tử.
 **3.** Văn bản điện tử trên Hệ thống mạng đấu thầu quốc gia có giá trị theo quy định của pháp luật về giao dịch điện tử, làm cơ sở đối chiếu, so sánh, xác thực thông tin phục vụ công tác đánh giá, thẩm định, thanh tra, kiểm tra, kiểm toán và giải ngân.
 
 <a id="dieu-50-khoan-4"></a>
-**4.** Chi phí trong đấu thầu qua mạng bao gồm: chi phí tham gia Hệ thống mạng đấu thầu quốc gia; chi phí đăng tải thông tin về đấu thầu theo quy định tại điểm c khoản 1 và điểm c khoản 2 Điều 15 của Luật này , tham dự thầu, ký kết hợp đồng và các chi phí khác khi đấu thầu trên Hệ thống mạng đấu thầu quốc gia.
+**4.** Chi phí trong đấu thầu qua mạng bao gồm: chi phí tham gia Hệ thống mạng đấu thầu quốc gia; chi phí đăng tải thông tin về đấu thầu theo quy định tại điểm c khoản 1 và điểm c khoản 2 Điều 15 của Luật này, tham dự thầu, ký kết hợp đồng và các chi phí khác khi đấu thầu trên Hệ thống mạng đấu thầu quốc gia.
 
 <a id="dieu-50-khoan-5"></a>
-**5.** Chính phủ quy định việc kết nối, chia sẻ thông tin theo quy định tại khoản 6 Điều 51 của Luật này ; kỹ thuật đấu thầu qua mạng phù hợp với tính năng và sự phát triển của Hệ thống mạng đấu thầu quốc gia; quy trình, thủ tục, chi phí đấu thầu qua mạng; lộ trình lựa chọn nhà đầu tư qua mạng; những trường hợp không đấu thầu trên Hệ thống mạng đấu thầu quốc gia.
+**5.** Chính phủ quy định việc kết nối, chia sẻ thông tin theo quy định tại khoản 6 Điều 51 của Luật này; kỹ thuật đấu thầu qua mạng phù hợp với tính năng và sự phát triển của Hệ thống mạng đấu thầu quốc gia; quy trình, thủ tục, chi phí đấu thầu qua mạng; lộ trình lựa chọn nhà đầu tư qua mạng; những trường hợp không đấu thầu trên Hệ thống mạng đấu thầu quốc gia.
 
 
 <a id="dieu-51"></a>
@@ -1699,9 +1677,9 @@ k) Thanh toán điện tử.
 <a id="dieu-52-khoan-8"></a>
 **8.** Thực hiện trách nhiệm khác theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
-# Chương V
+## Chương V. 
 
-MUA SẮM TẬP TRUNG; MUA THUỐC, HÓA CHẤT, VẬT TƯ XÉT NGHIỆM, THIẾT BỊ Y TẾ; CUNG CẤP SẢN PHẨM, DỊCH VỤ CÔNG
+__MUA SẮM TẬP TRUNG; MUA THUỐC, HÓA CHẤT, VẬT TƯ XÉT NGHIỆM, THIẾT BỊ Y TẾ; CUNG CẤP SẢN PHẨM, DỊCH VỤ CÔNG__
 
 
 <a id="dieu-53"></a>
@@ -1710,7 +1688,7 @@ MUA SẮM TẬP TRUNG; MUA THUỐC, HÓA CHẤT, VẬT TƯ XÉT NGHIỆM, THIẾ
 <a id="dieu-53-khoan-1"></a>
 **1.** Mua sắm tập trung được áp dụng khi đáp ứng đủ các điều kiện sau đây:
 
-a) Hàng hóa, dịch vụ cần mua sắm với số lượng lớn, chủng loại tương tự ở một hoặc nhiều cơ quan, tổ chức, đơn vị.
+a) Hàng hóa, dịch vụ cần mua sắm với số lượng lớn, chủng loại tương tự ở một hoặc nhiều cơ quan, tổ chức, đơn vị. 
 
 Trường hợp mua thuốc hiếm, thuốc cần mua với số lượng ít có thể áp dụng hình thức mua sắm tập trung để bảo đảm có đủ thuốc phục vụ nhu cầu khám bệnh, chữa bệnh;
 
@@ -1719,17 +1697,17 @@ b) Thuộc danh mục hàng hóa, dịch vụ áp dụng mua sắm tập trung q
 <a id="dieu-53-khoan-2"></a>
 **2.** Thẩm quyền ban hành danh mục hàng hóa, dịch vụ áp dụng mua sắm tập trung được quy định như sau:
 
-a) Bộ trưởng Bộ Y tế ban hành danh mục mua sắm tập trung cấp quốc gia đối với thuốc; danh mục mua sắm tập trung cấp quốc gia đối với thiết bị y tế, vật tư xét nghiệm trong trường hợp cần thiết;
+a) Bộ trưởng Bộ Y tế ban hành danh mục mua sắm tập trung cấp quốc gia đối với thuốc; danh mục mua sắm tập trung cấp quốc gia đối với thiết bị y tế, vật tư xét nghiệm trong trường hợp cần thiết; 
 
 b) Bộ trưởng Bộ Tài chính ban hành danh mục hàng hóa, dịch vụ áp dụng mua sắm tập trung cấp quốc gia, trừ danh mục do Bộ trưởng Bộ Y tế ban hành theo quy định tại điểm a khoản này;
 
-c) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh , người đứng đầu doanh nghiệp nhà nước, doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ ban hành danh mục hàng hóa, dịch vụ áp dụng mua sắm tập trung (bao gồm cả danh mục thuốc, thiết bị y tế, vật tư xét nghiệm) thuộc phạm vi quản lý của mình, trừ hàng hóa, dịch vụ thuộc danh mục mua sắm tập trung cấp quốc gia do Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Tài chính ban hành theo quy định tại điểm a và điểm b khoản này.
+c) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh, người đứng đầu doanh nghiệp nhà nước, doanh nghiệp do doanh nghiệp nhà nước nắm giữ 100% vốn điều lệ ban hành danh mục hàng hóa, dịch vụ áp dụng mua sắm tập trung (bao gồm cả danh mục thuốc, thiết bị y tế, vật tư xét nghiệm) thuộc phạm vi quản lý của mình, trừ hàng hóa, dịch vụ thuộc danh mục mua sắm tập trung cấp quốc gia do Bộ trưởng Bộ Y tế, Bộ trưởng Bộ Tài chính ban hành theo quy định tại điểm a và điểm b khoản này.
 
 <a id="dieu-53-khoan-3"></a>
 **3.** Mua sắm tập trung phải được thực hiện thông qua hình thức đấu thầu rộng rãi. Trường hợp hàng hóa thuộc danh mục mua sắm tập trung nhưng cần mua sắm để phòng, chống dịch bệnh theo quy định tại điểm c khoản 1 Điều 23 của Luật này thì được áp dụng hình thức chỉ định thầu. Trường hợp hàng hóa thuộc danh mục mua sắm tập trung đáp ứng điều kiện đàm phán giá theo quy định tại khoản 1 Điều 28 của Luật này thì được áp dụng hình thức đàm phán giá.
 
 <a id="dieu-53-khoan-4"></a>
-**4.** Mua sắm tập trung được thực hiện ở cấp quốc gia, Bộ, cơ quan trung ương, địa phương , doanh nghiệp và thực hiện theo một trong hai cách thức sau đây:
+**4.** Mua sắm tập trung được thực hiện ở cấp quốc gia, Bộ, cơ quan trung ương, địa phương, doanh nghiệp và thực hiện theo một trong hai cách thức sau đây:
 
 a) Đơn vị mua sắm tập trung tiến hành lựa chọn nhà thầu, trực tiếp ký hợp đồng với nhà thầu được lựa chọn;
 
@@ -1767,11 +1745,11 @@ b) Đơn vị mua sắm tập trung tiến hành lựa chọn nhà thầu, ký v
 <a id="dieu-55-khoan-1"></a>
 **1.** Cơ sở khám bệnh, chữa bệnh có thể lựa chọn nhà thầu cung cấp hóa chất, vật tư xét nghiệm, thiết bị y tế theo một trong các cách thức sau đây:
 
-a) Lựa chọn nhà thầu thực hiện gói thầu cung cấp hóa chất, vật tư xét nghiệm và nhà thầu trúng thầu chịu trách nhiệm cung cấp thiết bị y tế để sử dụng hóa chất, vật tư xét nghiệm đó theo yêu cầu của chủ đầu tư; nhà thầu không chuyển giao quyền sở hữu, chỉ chuyển giao quyền sử dụng thiết bị y tế cho cơ sở khám bệnh, chữa bệnh;
+a) Lựa chọn nhà thầu thực hiện gói thầu cung cấp hóa chất, vật tư xét nghiệm và nhà thầu trúng thầu chịu trách nhiệm cung cấp thiết bị y tế để sử dụng hóa chất, vật tư xét nghiệm đó theo yêu cầu của chủ đầu tư; nhà thầu không chuyển giao quyền sở hữu, chỉ chuyển giao quyền sử dụng thiết bị y tế cho cơ sở khám bệnh, chữa bệnh; 
 
-b) Lựa chọn nhà thầu theo số lượng dịch vụ kỹ thuật:
+b) Lựa chọn nhà thầu theo số lượng dịch vụ kỹ thuật: 
 
-Nhà thầu cung cấp cho chủ đầu tư hoá chất, vật tư xét nghiệm, thiết bị y tế, linh kiện, phụ kiện thay thế và các dịch vụ liên quan để vận hành thiết bị y tế theo số lượng dịch vụ kỹ thuật mà chủ đầu tư , bên mời thầu yêu cầu trong hồ sơ mời thầu, hồ sơ yêu cầu, không cung cấp nhân công vận hành thiết bị y tế.
+Nhà thầu cung cấp cho chủ đầu tư hoá chất, vật tư xét nghiệm, thiết bị y tế, linh kiện, phụ kiện thay thế và các dịch vụ liên quan để vận hành thiết bị y tế theo số lượng dịch vụ kỹ thuật mà chủ đầu tư, bên mời thầu yêu cầu trong hồ sơ mời thầu, hồ sơ yêu cầu, không cung cấp nhân công vận hành thiết bị y tế. 
 
 Nhà thầu chỉ chuyển giao quyền sử dụng, không chuyển giao quyền sở hữu thiết bị y tế cho chủ đầu tư. Giá gói thầu và giá dự thầu được xác định trên cơ sở số lượng dịch vụ kỹ thuật dự kiến. Thời gian thực hiện hợp đồng không quá 05 năm;
 
@@ -1781,7 +1759,7 @@ d) Lựa chọn nhà thầu cung cấp thiết bị y tế theo quy định củ
 
 đ) Lựa chọn nhà thầu cung cấp hóa chất, vật tư xét nghiệm để vận hành thiết bị y tế đã có;
 
-e) Lựa chọn nhà thầu cung cấp dịch vụ kỹ thuật theo quy định của Luật Khám bệnh, chữa bệnh .
+e) Lựa chọn nhà thầu cung cấp dịch vụ kỹ thuật theo quy định của Luật Khám bệnh, chữa bệnh. 
 
 <a id="dieu-55-khoan-2"></a>
 **2.** Đối với việc mua thuốc không thuộc danh mục thuốc do quỹ bảo hiểm y tế chi trả, mua vắc xin để tiêm chủng theo hình thức dịch vụ, cơ sở khám bệnh, chữa bệnh, cơ sở y tế tự quyết định việc mua sắm trên cơ sở bảo đảm công khai, minh bạch, hiệu quả kinh tế và trách nhiệm giải trình.
@@ -1811,9 +1789,9 @@ b) Đối với thuốc được Bộ Y tế công bố có ít nhất 03 hãng 
 ### Điều 57. Lựa chọn nhà thầu cung cấp sản phẩm, dịch vụ công
 
 <a id="dieu-57-khoan-1"></a>
-**1.** Sản phẩm, dịch vụ công là sản phẩm, dịch vụ thiết yếu đối với đời sống kinh tế - xã hội của đất nước, cộng đồng dân cư hoặc bảo đảm quốc phòng, an ninh mà Nhà nước phải tổ chức thực hiện trong các lĩnh vực: giáo dục, đào tạo; giáo dục nghề nghiệp; y tế; văn hóa, thể thao và du lịch; thông tin và truyền thông; khoa học và công nghệ; tài nguyên và môi trường; giao thông vận tải; nông nghiệp và phát triển nông thôn; công thương; xây dựng; lao động, thương binh và xã hội; tư pháp và lĩnh vực khác theo quy định của pháp luật.
+**1.** Sản phẩm, dịch vụ công là sản phẩm, dịch vụ thiết yếu đối với đời sống kinh tế - xã hội của đất nước, cộng đồng dân cư hoặc bảo đảm quốc phòng, an ninh mà Nhà nước phải tổ chức thực hiện trong các lĩnh vực: giáo dục, đào tạo; giáo dục nghề nghiệp; y tế; văn hóa, thể thao và du lịch; thông tin và truyền thông; khoa học và công nghệ; tài nguyên và môi trường; giao thông vận tải; nông nghiệp và phát triển nông thôn; công thương; xây dựng; lao động, thương binh và xã hội; tư pháp và lĩnh vực khác theo quy định của pháp luật.
 
-Sản phẩm, dịch vụ công bao gồm sản phẩm, dịch vụ công ích và dịch vụ sự nghiệp công.
+Sản phẩm, dịch vụ công bao gồm sản phẩm, dịch vụ công ích và dịch vụ sự nghiệp công. 
 
 <a id="dieu-57-khoan-2"></a>
 **2.** Việc lựa chọn nhà thầu cung cấp sản phẩm, dịch vụ công được thực hiện theo quy định của Luật này.
@@ -1821,11 +1799,11 @@ Sản phẩm, dịch vụ công bao gồm sản phẩm, dịch vụ công ích v
 <a id="dieu-57-khoan-3"></a>
 **3.** Ngoài các hình thức lựa chọn nhà thầu quy định tại Chương II của Luật này, việc lựa chọn nhà thầu cung cấp sản phẩm, dịch vụ công được thực hiện theo hình thức đặt hàng, giao nhiệm vụ theo quy định của Chính phủ.
 
-# Chương VI
+## Chương VI. 
 
-PHƯƠNG PHÁP ĐÁNH GIÁ HỒ SƠ DỰ THẦU VÀ XÉT DUYỆT TRÚNG THẦU
+__PHƯƠNG PHÁP ĐÁNH GIÁ HỒ SƠ DỰ THẦU VÀ XÉT DUYỆT TRÚNG THẦU__
 
-## Mục 1. PHƯƠNG PHÁP ĐÁNH GIÁ HỒ SƠ DỰ THẦU VÀ XÉT DUYỆT TRÚNG THẦU TRONG LỰA CHỌN NHÀ THẦU
+### Mục 1. PHƯƠNG PHÁP ĐÁNH GIÁ HỒ SƠ DỰ THẦU VÀ XÉT DUYỆT TRÚNG THẦU TRONG LỰA CHỌN NHÀ THẦU
 
 
 <a id="dieu-58"></a>
@@ -1866,7 +1844,7 @@ b) Điểm tổng hợp được xây dựng trên cơ sở kết hợp giữa �
 <a id="dieu-59-khoan-1"></a>
 **1.** Phương pháp giá thấp nhất:
 
-a) Phương pháp giá thấp nhất được áp dụng đối với các gói thầu tư vấn đơn giản, gói thầu tư vấn có quy trình thực hiện rõ ràng theo các tiêu chuẩn có sẵn;
+a) Phương pháp giá thấp nhất được áp dụng đối với các gói thầu tư vấn đơn giản, gói thầu tư vấn có quy trình thực hiện rõ ràng theo các tiêu chuẩn có sẵn; 
 
 b) Nhà thầu có hồ sơ dự thầu đáp ứng yêu cầu về kỹ thuật, có giá dự thầu sau sửa lỗi, hiệu chỉnh sai lệch (nếu có), trừ đi giá trị giảm giá (nếu có) thấp nhất được xếp hạng thứ nhất.
 
@@ -1889,7 +1867,7 @@ b) Điểm tổng hợp được xây dựng trên cơ sở kết hợp giữa �
 
 a) Phương pháp dựa trên kỹ thuật được áp dụng đối với gói thầu tư vấn có yêu cầu kỹ thuật cao, đặc thù;
 
-b) Nhà thầu có hồ sơ dự thầu đáp ứng yêu cầu về kỹ thuật và đạt điểm kỹ thuật cao nhất được xếp hạng thứ nhất, được mời đến mở hồ sơ đề xuất tài chính, làm cơ sở để thương thảo hợp đồng.
+b) Nhà thầu có hồ sơ dự thầu đáp ứng yêu cầu về kỹ thuật và đạt điểm kỹ thuật cao nhất được xếp hạng thứ nhất, được mời đến mở hồ sơ đề xuất tài chính, làm cơ sở để thương thảo hợp đồng. 
 
 
 <a id="dieu-60"></a>
@@ -1911,7 +1889,7 @@ d) Có giá đề nghị trúng thầu không vượt giá gói thầu được 
 
 a) Có hồ sơ lý lịch khoa học, đề xuất kỹ thuật (nếu có) tốt nhất và đáp ứng yêu cầu của điều khoản tham chiếu;
 
-b) Có giá đề nghị trúng thầu không vượt giá gói thầu được phê duyệt.
+b) Có giá đề nghị trúng thầu không vượt giá gói thầu được phê duyệt. 
 
 <a id="dieu-60-khoan-3"></a>
 **3.** Đối với nhà thầu không được lựa chọn, thông báo kết quả lựa chọn nhà thầu phải nêu lý do nhà thầu không trúng thầu.
@@ -1938,7 +1916,7 @@ e) Có giá đề nghị trúng thầu không vượt giá gói thầu được 
 <a id="dieu-61-khoan-2"></a>
 **2.** Đối với nhà thầu không được lựa chọn, thông báo kết quả lựa chọn nhà thầu phải nêu lý do nhà thầu không trúng thầu.
 
-## Mục 2. PHƯƠNG PHÁP ĐÁNH GIÁ HỒ SƠ DỰ THẦU VÀ XÉT DUYỆT TRÚNG THẦU TRONG LỰA CHỌN NHÀ ĐẦU TƯ
+### Mục 2. PHƯƠNG PHÁP ĐÁNH GIÁ HỒ SƠ DỰ THẦU VÀ XÉT DUYỆT TRÚNG THẦU TRONG LỰA CHỌN NHÀ ĐẦU TƯ
 
 
 <a id="dieu-62"></a>
@@ -1985,11 +1963,11 @@ d) Đáp ứng yêu cầu về hiệu quả sử dụng đất, hiệu quả đ�
 <a id="dieu-63-khoan-2"></a>
 **2.** Đối với nhà đầu tư không được lựa chọn, thông báo kết quả lựa chọn nhà đầu tư phải nêu lý do nhà đầu tư không trúng thầu.
 
-# Chương VII
+## Chương VII. 
 
-HỢP ĐỒNG
+__HỢP ĐỒNG__
 
-## Mục 1. HỢP ĐỒNG VỚI NHÀ THẦU
+### Mục 1. HỢP ĐỒNG VỚI NHÀ THẦU
 
 
 <a id="dieu-64"></a>
@@ -2018,12 +1996,12 @@ b) Hợp đồng theo đơn giá cố định có đơn giá không thay đổi 
 
 a) Hợp đồng theo đơn giá điều chỉnh được áp dụng đối với gói thầu có thời gian thực hiện dài và có rủi ro biến động giá đối với các chi phí đầu vào để thực hiện hợp đồng, có thể tác động tiêu cực đến việc thực hiện gói thầu nếu áp dụng đơn giá cố định. Hợp đồng theo đơn giá điều chỉnh có đơn giá, giá hợp đồng có thể được điều chỉnh căn cứ vào các thỏa thuận trong hợp đồng đối với toàn bộ nội dung công việc trong hợp đồng. Giá hợp đồng ban đầu dựa trên cơ sở số lượng, khối lượng công việc cần thiết với đơn giá cơ sở theo hợp đồng và chi phí dự phòng cho số lượng, khối lượng công việc có thể phát sinh, chi phí dự phòng trượt giá. Nội dung hợp đồng phải quy định phương pháp tính trượt giá và chi phí dự phòng trượt giá theo quy định của pháp luật;
 
-b) Nhà thầu được thanh toán theo số lượng, khối lượng công việc được nghiệm thu và đơn giá quy định tại hợp đồng hoặc đơn giá đã điều chỉnh (nếu có).
+b) Nhà thầu được thanh toán theo số lượng, khối lượng công việc được nghiệm thu và đơn giá quy định tại hợp đồng hoặc đơn giá đã điều chỉnh (nếu có). 
 
 <a id="dieu-64-khoan-4"></a>
 **4.** Hợp đồng theo thời gian:
 
-Hợp đồng theo thời gian có thể áp dụng trong tình trạng khẩn cấp; sửa chữa, bảo trì công trình, máy móc, thiết bị; dịch vụ tư vấn khi khó xác định được phạm vi và thời gian thực hiện dịch vụ. Giá hợp đồng được tính trên cơ sở đơn giá cho đơn vị thời gian, mức lương đã thỏa thuận theo giờ, ngày, tuần hoặc tháng nêu trong hợp đồng và chi phí phát sinh hợp lý có thể bồi hoàn.
+Hợp đồng theo thời gian có thể áp dụng trong tình trạng khẩn cấp; sửa chữa, bảo trì công trình, máy móc, thiết bị; dịch vụ tư vấn khi khó xác định được phạm vi và thời gian thực hiện dịch vụ. Giá hợp đồng được tính trên cơ sở đơn giá cho đơn vị thời gian, mức lương đã thỏa thuận theo giờ, ngày, tuần hoặc tháng nêu trong hợp đồng và chi phí phát sinh hợp lý có thể bồi hoàn. 
 
 <a id="dieu-64-khoan-5"></a>
 **5.** Hợp đồng theo chi phí cộng phí:
@@ -2038,7 +2016,7 @@ Hợp đồng theo kết quả đầu ra được áp dụng đối với công 
 <a id="dieu-64-khoan-7"></a>
 **7.** Hợp đồng theo tỷ lệ phần trăm:
 
-Hợp đồng theo tỷ lệ phần trăm chỉ có thể áp dụng cho gói thầu bảo hiểm công trình mà giá trị hợp đồng được xác định chính xác trên cơ sở giá trị công trình thực tế được nghiệm thu.
+Hợp đồng theo tỷ lệ phần trăm chỉ có thể áp dụng cho gói thầu bảo hiểm công trình mà giá trị hợp đồng được xác định chính xác trên cơ sở giá trị công trình thực tế được nghiệm thu. 
 
 <a id="dieu-64-khoan-8"></a>
 **8.** Hợp đồng hỗn hợp:
@@ -2061,7 +2039,7 @@ c) Quyết định phê duyệt kết quả lựa chọn nhà thầu.
 <a id="dieu-65-khoan-2"></a>
 **2.** Ngoài các tài liệu quy định tại khoản 1 Điều này, tùy theo quy mô, tính chất của gói thầu, hồ sơ hợp đồng có thể bao gồm một hoặc một số tài liệu sau đây:
 
-a) Biên bản hoàn thiện hợp đồng;
+a) Biên bản hoàn thiện hợp đồng; 
 
 b) Biên bản thương thảo hợp đồng (nếu có);
 
@@ -2090,10 +2068,10 @@ e) Tài liệu khác có liên quan.
 <a id="dieu-67"></a>
 ### Điều 67. Ký kết hợp đồng với nhà thầu được lựa chọn
 
-Việc ký kết hợp đồng giữa chủ đầu tư và nhà thầu được thực hiện như sau:
+Việc ký kết hợp đồng giữa chủ đầu tư và nhà thầu được thực hiện như sau: 
 
 <a id="dieu-67-khoan-1"></a>
-**1.** Một gói thầu được thực hiện theo một hợp đồng; trong một hợp đồng có thể áp dụng một hoặc nhiều loại hợp đồng quy định tại Điều 64 của Luật này ; đối với gói thầu mua sắm tập trung hoặc gói thầu chia thành nhiều phần, một gói thầu có thể thực hiện theo nhiều hợp đồng tương ứng với một hoặc một số phần. Trường hợp áp dụng nhiều loại hợp đồng thì phải quy định rõ loại hợp đồng tương ứng với từng nội dung công việc cụ thể;
+**1.** Một gói thầu được thực hiện theo một hợp đồng; trong một hợp đồng có thể áp dụng một hoặc nhiều loại hợp đồng quy định tại Điều 64 của Luật này; đối với gói thầu mua sắm tập trung hoặc gói thầu chia thành nhiều phần, một gói thầu có thể thực hiện theo nhiều hợp đồng tương ứng với một hoặc một số phần. Trường hợp áp dụng nhiều loại hợp đồng thì phải quy định rõ loại hợp đồng tương ứng với từng nội dung công việc cụ thể;
 
 <a id="dieu-67-khoan-2"></a>
 **2.** Hợp đồng được ký kết giữa các bên phải phù hợp với nội dung trong hồ sơ mời thầu, hồ sơ yêu cầu, hồ sơ dự thầu, hồ sơ đề xuất, kết quả thương thảo hợp đồng (nếu có), quyết định phê duyệt kết quả lựa chọn nhà thầu, trong đó nêu rõ phạm vi công việc dành cho nhà thầu phụ đặc biệt (nếu có) và giá trị công việc tối đa dành cho nhà thầu phụ. Giá trị công việc tối đa dành cho nhà thầu phụ không bao gồm khối lượng công việc dành cho nhà thầu phụ đặc biệt;
@@ -2113,9 +2091,9 @@ Việc ký kết hợp đồng giữa chủ đầu tư và nhà thầu được 
 
 a) Đặt cọc;
 
-b) Nộp thư bảo lãnh của tổ chức tín dụng trong nước, chi nhánh ngân hàng nước ngoài được thành lập theo pháp luật Việt Nam;
+b) Nộp thư bảo lãnh của tổ chức tín dụng trong nước, chi nhánh ngân hàng nước ngoài được thành lập theo pháp luật Việt Nam; 
 
-c) Nộp giấy chứng nhận bảo hiểm bảo lãnh của doanh nghiệp bảo hiểm phi nhân thọ trong nước, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài được thành lập theo pháp luật Việt Nam.
+c) Nộp giấy chứng nhận bảo hiểm bảo lãnh của doanh nghiệp bảo hiểm phi nhân thọ trong nước, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài được thành lập theo pháp luật Việt Nam.
 
 <a id="dieu-68-khoan-2"></a>
 **2.** Bảo đảm thực hiện hợp đồng được áp dụng đối với nhà thầu được lựa chọn, trừ các trường hợp sau đây:
@@ -2124,7 +2102,7 @@ a) Nhà thầu cung cấp dịch vụ tư vấn;
 
 b) Nhà thầu được lựa chọn theo hình thức tự thực hiện hoặc hình thức tham gia thực hiện của cộng đồng;
 
-c) Nhà thầu thực hiện gói thầu có giá gói thầu thuộc hạn mức chỉ định thầu quy định tại điểm m khoản 1 Điều 23 của Luật này .
+c) Nhà thầu thực hiện gói thầu có giá gói thầu thuộc hạn mức chỉ định thầu quy định tại điểm m khoản 1 Điều 23 của Luật này.
 
 <a id="dieu-68-khoan-3"></a>
 **3.** Nhà thầu được lựa chọn phải thực hiện biện pháp bảo đảm thực hiện hợp đồng trước hoặc cùng thời điểm hợp đồng có hiệu lực.
@@ -2168,31 +2146,31 @@ a) Các trường hợp do các bên thỏa thuận trong hợp đồng đã ký
 
 b) Trường hợp hoàn cảnh thực hiện hợp đồng có thay đổi cơ bản theo quy định của pháp luật về dân sự;
 
-c) Theo yêu cầu của cơ quan nhà nước có thẩm quyền làm ảnh hưởng đến việc thực hiện hợp đồng mà không do lỗi của chủ đầu tư.
+c) Theo yêu cầu của cơ quan nhà nước có thẩm quyền làm ảnh hưởng đến việc thực hiện hợp đồng mà không do lỗi của chủ đầu tư.
 
 <a id="dieu-70-khoan-2"></a>
-**2.** Nội dung sửa đổi hợp đồng có thể bao gồm: khối lượng, tiến độ, giá, áp dụng tùy chọn mua thêm và các nội dung khác do các bên thỏa thuận trong hợp đồng đã ký kết, trừ trường hợp quy định tại khoản 5 Điều này. Đối với việc sửa đổi về tiến độ, khối lượng, giá chỉ áp dụng trong thời gian thực hiện gói thầu ghi trong hợp đồng, trừ trường hợp áp dụng tùy chọn mua thêm.
+**2.** Nội dung sửa đổi hợp đồng có thể bao gồm: khối lượng, tiến độ, giá, áp dụng tùy chọn mua thêm và các nội dung khác do các bên thỏa thuận trong hợp đồng đã ký kết, trừ trường hợp quy định tại khoản 5 Điều này. Đối với việc sửa đổi về tiến độ, khối lượng, giá chỉ áp dụng trong thời gian thực hiện gói thầu ghi trong hợp đồng, trừ trường hợp áp dụng tùy chọn mua thêm.
 
 <a id="dieu-70-khoan-3"></a>
 **3.** Trong quá trình thực hiện hợp đồng, các bên được điều chỉnh các mốc thời gian hoàn thành các nội dung quy định cụ thể trong hợp đồng trong các trường hợp sau đây:
 
-a) Trường hợp bất khả kháng hoặc phát sinh các điều kiện bất lợi, cản trở nhà thầu trong việc thực hiện hợp đồng và không liên quan đến vi phạm hoặc sơ suất của các bên tham gia hợp đồng;
+a) Trường hợp bất khả kháng hoặc phát sinh các điều kiện bất lợi, cản trở nhà thầu trong việc thực hiện hợp đồng và không liên quan đến vi phạm hoặc sơ suất của các bên tham gia hợp đồng;
 
-b) Thay đổi, điều chỉnh dự án, phạm vi công việc, phạm vi cung cấp, thiết kế, giải pháp thi công chủ đạo, biện pháp cung cấp do yêu cầu khách quan làm ảnh hưởng đến tiến độ hợp đồng;
+b) Thay đổi, điều chỉnh dự án, phạm vi công việc, phạm vi cung cấp, thiết kế, giải pháp thi công chủ đạo, biện pháp cung cấp do yêu cầu khách quan làm ảnh hưởng đến tiến độ hợp đồng;
 
-c) Một hoặc các bên đề xuất sáng kiến, cải tiến thực hiện hợp đồng mà cần thay đổi tiến độ nhằm mục đích mang lại lợi ích cao hơn cho chủ đầu tư;
+c) Một hoặc các bên đề xuất sáng kiến, cải tiến thực hiện hợp đồng mà cần thay đổi tiến độ nhằm mục đích mang lại lợi ích cao hơn cho chủ đầu tư;
 
-d) Việc bàn giao mặt bằng không đúng với thỏa thuận trong hợp đồng, tạm dừng hợp đồng do lỗi của chủ đầu tư ảnh hưởng đến tiến độ hợp đồng mà không do lỗi của nhà thầu;
+d) Việc bàn giao mặt bằng không đúng với thỏa thuận trong hợp đồng, tạm dừng hợp đồng do lỗi của chủ đầu tư ảnh hưởng đến tiến độ hợp đồng mà không do lỗi của nhà thầu;
 
 đ) Tạm dừng thực hiện công việc theo yêu cầu của cơ quan nhà nước có thẩm quyền mà không do lỗi của chủ đầu tư, nhà thầu.
 
 <a id="dieu-70-khoan-4"></a>
-**4.** Khi sửa đổi hợp đồng làm thay đổi thời gian thực hiện hợp đồng hoặc vượt giá gói thầu (bao gồm dự phòng) được duyệt thì phải được người có thẩm quyền cho phép. Giá hợp đồng sau khi điều chỉnh phải bảo đảm không vượt tổng mức đầu tư, dự toán mua sắm. Trường hợp dự án, dự toán mua sắm gồm nhiều gói thầu, tổng giá hợp đồng sau khi điều chỉnh phải bảo đảm không vượt tổng mức đầu tư, dự toán mua sắm.
+**4.** Khi sửa đổi hợp đồng làm thay đổi thời gian thực hiện hợp đồng hoặc vượt giá gói thầu (bao gồm dự phòng) được duyệt thì phải được người có thẩm quyền cho phép. Giá hợp đồng sau khi điều chỉnh phải bảo đảm không vượt tổng mức đầu tư, dự toán mua sắm. Trường hợp dự án, dự toán mua sắm gồm nhiều gói thầu, tổng giá hợp đồng sau khi điều chỉnh phải bảo đảm không vượt tổng mức đầu tư, dự toán mua sắm.
 
 <a id="dieu-70-khoan-5"></a>
 **5.** Các bên không phải ký kết văn bản sửa đổi hợp đồng đối với trường hợp thay đổi giá hợp đồng, khối lượng và nội dung khác đã được quy định trong hợp đồng khi đáp ứng đủ các điều kiện sau đây:
 
-a) Không vượt giá gói thầu ghi trong kế hoạch lựa chọn nhà thầu; trường hợp dự toán gói thầu được phê duyệt sau khi có kế hoạch lựa chọn nhà thầu thì không vượt dự toán gói thầu;
+a) Không vượt giá gói thầu ghi trong kế hoạch lựa chọn nhà thầu; trường hợp dự toán gói thầu được phê duyệt sau khi có kế hoạch lựa chọn nhà thầu thì không vượt dự toán gói thầu;
 
 b) Không vượt thời gian thực hiện gói thầu ghi trong hợp đồng;
 
@@ -2201,9 +2179,9 @@ c) Phương pháp, công thức, hạng mục và các nội dung cần thiết 
 <a id="dieu-70-khoan-6"></a>
 **6.** Chính phủ quy định chi tiết Điều này.
 
-## Mục 2. HỢP ĐỒNG DỰ ÁN ĐẦU TƯ KINH DOANH VỚI NHÀ ĐẦU TƯ
+### Mục 2. HỢP ĐỒNG DỰ ÁN ĐẦU TƯ KINH DOANH VỚI NHÀ ĐẦU TƯ
 
-Điều 71. Ký kết hợp đồng và nguyên tắc thực hiện hợp đồng dự án đầu tư kinh doanh
+__Điều 71. Ký kết hợp đồng và nguyên tắc thực hiện hợp đồng dự án đầu tư kinh doanh__
 
 <a id="dieu-70-khoan-1"></a>
 **1.** Việc ký kết hợp đồng dự án đầu tư kinh doanh phải đáp ứng đủ các điều kiện sau đây:
@@ -2219,7 +2197,7 @@ b) Tại thời điểm ký kết, nhà đầu tư được lựa chọn phải 
 **3.** Cơ quan có thẩm quyền hoặc bên mời thầu (trong trường hợp được ủy quyền) ký kết hợp đồng với nhà đầu tư được lựa chọn. Đối với nhà đầu tư liên danh, tất cả các thành viên liên danh phải trực tiếp ký, đóng dấu (nếu có) vào văn bản hợp đồng.
 
 <a id="dieu-70-khoan-4"></a>
-**4.** Việc thực hiện hợp đồng dự án đầu tư kinh doanh tuân thủ nguyên tắc quy định tại Điều 69 của Luật này .
+**4.** Việc thực hiện hợp đồng dự án đầu tư kinh doanh tuân thủ nguyên tắc quy định tại Điều 69 của Luật này.
 
 
 <a id="dieu-72"></a>
@@ -2259,11 +2237,11 @@ a) Thông tin về các bên ký kết hợp đồng, thời điểm có hiệu 
 
 b) Thông tin về dự án đầu tư kinh doanh, bao gồm: mục tiêu, địa điểm, tiến độ thực hiện dự án; quy mô và tổng vốn đầu tư; điều kiện sử dụng đất và tài nguyên khác (nếu có); phương án, yêu cầu về bồi thường, hỗ trợ, tái định cư và tổ chức xây dựng công trình phụ trợ (nếu có); bảo đảm an toàn và bảo vệ môi trường; trường hợp bất khả kháng và phương án xử lý trong trường hợp bất khả kháng;
 
-c) Trách nhiệm thực hiện thủ tục bồi thường, hỗ trợ, tái định cư và tổ chức xây dựng công trình phụ trợ (nếu có); giao đất, cho thuê đất (nếu có);
+c) Trách nhiệm thực hiện thủ tục bồi thường, hỗ trợ, tái định cư và tổ chức xây dựng công trình phụ trợ (nếu có); giao đất, cho thuê đất (nếu có); 
 
 d) Nghĩa vụ của nhà đầu tư trong việc thực hiện các cam kết đã đề xuất trong hồ sơ dự thầu; việc thành lập doanh nghiệp để quản lý dự án đầu tư kinh doanh (nếu có);
 
-đ) Bảo đảm thực hiện hợp đồng; các nguyên tắc, điều kiện sửa đổi, chấm dứt hợp đồng; chuyển nhượng quyền và nghĩa vụ của các bên;
+đ) Bảo đảm thực hiện hợp đồng; các nguyên tắc, điều kiện sửa đổi, chấm dứt hợp đồng; chuyển nhượng quyền và nghĩa vụ của các bên; 
 
 e) Pháp luật điều chỉnh hợp đồng và cơ chế giải quyết tranh chấp.
 
@@ -2290,9 +2268,9 @@ e) Pháp luật điều chỉnh hợp đồng và cơ chế giải quyết tranh
 <a id="dieu-75-khoan-1"></a>
 **1.** Nhà đầu tư phải thực hiện một trong các biện pháp sau đây để bảo đảm trách nhiệm thực hiện hợp đồng dự án đầu tư kinh doanh trước hoặc cùng thời điểm hợp đồng có hiệu lực:
 
-a) Nộp thư bảo lãnh của tổ chức tín dụng trong nước, chi nhánh ngân hàng nước ngoài được thành lập theo pháp luật Việt Nam;
+a) Nộp thư bảo lãnh của tổ chức tín dụng trong nước, chi nhánh ngân hàng nước ngoài được thành lập theo pháp luật Việt Nam; 
 
-b) Nộp giấy chứng nhận bảo hiểm bảo lãnh của doanh nghiệp bảo hiểm phi nhân thọ trong nước, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài được thành lập theo pháp luật Việt Nam.
+b) Nộp giấy chứng nhận bảo hiểm bảo lãnh của doanh nghiệp bảo hiểm phi nhân thọ trong nước, chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài được thành lập theo pháp luật Việt Nam.
 
 <a id="dieu-75-khoan-2"></a>
 **2.** Căn cứ quy mô, tính chất của dự án đầu tư kinh doanh, giá trị bảo đảm thực hiện hợp đồng được quy định trong hồ sơ mời thầu theo mức xác định từ 1% đến 3% tổng vốn đầu tư.
@@ -2329,23 +2307,23 @@ c) Trường hợp khác được các bên thỏa thuận tại hợp đồng p
 
 a) Việc chuyển nhượng phải được người có thẩm quyền chấp thuận;
 
-b) Nhà đầu tư nhận chuyển nhượng phải đáp ứng yêu cầu về năng lực kỹ thuật, tài chính để thực hiện dự án đầu tư kinh doanh;
+b) Nhà đầu tư nhận chuyển nhượng phải đáp ứng yêu cầu về năng lực kỹ thuật, tài chính để thực hiện dự án đầu tư kinh doanh; 
 
 c) Nhà đầu tư nhận chuyển nhượng cam kết kế thừa toàn bộ các quyền, nghĩa vụ của bên chuyển nhượng theo quy định tại hợp đồng dự án đầu tư kinh doanh.
 
-# Chương VIII
+## Chương VIII. 
 
-TRÁCH NHIỆM CỦA CÁC BÊN TRONG HOẠT ĐỘNG ĐẤU THẦU
+__TRÁCH NHIỆM CỦA CÁC BÊN TRONG HOẠT ĐỘNG ĐẤU THẦU__
 
 
 <a id="dieu-77"></a>
 ### Điều 77. Trách nhiệm của người có thẩm quyền
 
 <a id="dieu-77-khoan-1"></a>
-**1.** Phê duyệt kế hoạch tổng thể lựa chọn nhà thầu quy định tại Điều 36 của Luật này .
+**1.** Phê duyệt kế hoạch tổng thể lựa chọn nhà thầu quy định tại Điều 36 của Luật này.
 
 <a id="dieu-77-khoan-2"></a>
-**2.** Phê duyệt kế hoạch lựa chọn nhà thầu quy định tại Điều 40 và Điều 41 của Luật này .
+**2.** Phê duyệt kế hoạch lựa chọn nhà thầu quy định tại Điều 40 và Điều 41 của Luật này.
 
 <a id="dieu-77-khoan-3"></a>
 **3.** Tổ chức thẩm định nội dung quy định tại khoản 1 và khoản 2 Điều này.
@@ -2367,16 +2345,16 @@ TRÁCH NHIỆM CỦA CÁC BÊN TRONG HOẠT ĐỘNG ĐẤU THẦU
 
 a) Điều chỉnh nhiệm vụ và thẩm quyền của chủ đầu tư trong trường hợp không đáp ứng điều kiện theo quy định của pháp luật về đấu thầu và các yêu cầu của dự án, gói thầu;
 
-b) Yêu cầu chủ đầu tư , bên mời thầu cung cấp hồ sơ, tài liệu để phục vụ công tác kiểm tra, giám sát, giải quyết kiến nghị, xử lý vi phạm pháp luật về đấu thầu và công việc quy định tại khoản 4, khoản 5 Điều này;
+b) Yêu cầu chủ đầu tư, bên mời thầu cung cấp hồ sơ, tài liệu để phục vụ công tác kiểm tra, giám sát, giải quyết kiến nghị, xử lý vi phạm pháp luật về đấu thầu và công việc quy định tại khoản 4, khoản 5 Điều này;
 
-c) Có ý kiến đối với việc xử lý tình huống trong trường hợp phức tạp theo đề nghị của chủ đầu tư quy định tại điểm a khoản 3 Điều 88 của Luật này .
+c) Có ý kiến đối với việc xử lý tình huống trong trường hợp phức tạp theo đề nghị của chủ đầu tư quy định tại điểm a khoản 3 Điều 88 của Luật này.
 
 <a id="dieu-77-khoan-9"></a>
 **9.** Đối với lựa chọn nhà đầu tư, ngoài trách nhiệm quy định tại các khoản 4, 5, 6 và 7 Điều này, người có thẩm quyền còn có trách nhiệm sau đây:
 
 a) Đại diện cơ quan có thẩm quyền quyết định tổ chức đấu thầu lựa chọn nhà đầu tư;
 
-b) Quyết định giao đơn vị có nhân sự đáp ứng yêu cầu thực hiện công tác lựa chọn nhà đầu tư làm bên mời thầu; trường hợp nhân sự không đáp ứng yêu cầu thì lựa chọn nhà thầu tư vấn để thực hiện một số nhiệm vụ của bên mời thầu;
+b) Quyết định giao đơn vị có nhân sự đáp ứng yêu cầu thực hiện công tác lựa chọn nhà đầu tư làm bên mời thầu; trường hợp nhân sự không đáp ứng yêu cầu thì lựa chọn nhà thầu tư vấn để thực hiện một số nhiệm vụ của bên mời thầu; 
 
 c) Phê duyệt hồ sơ mời quan tâm; phê duyệt hồ sơ mời thầu hoặc ủy quyền phê duyệt hồ sơ mời thầu;
 
@@ -2401,13 +2379,13 @@ g) Yêu cầu bên mời thầu cung cấp hồ sơ, tài liệu để phục v�
 <a id="dieu-78-khoan-1"></a>
 **1.** Phê duyệt các nội dung sau đây:
 
-a) Kế hoạch lựa chọn nhà thầu trong trường hợp gói thầu được thực hiện trước khi có quyết định phê duyệt dự án, gói thầu đấu thầu trước; kế hoạch lựa chọn nhà thầu đối với dự án đã phê duyệt kế hoạch tổng thể lựa chọn nhà thầu;
+a) Kế hoạch lựa chọn nhà thầu trong trường hợp gói thầu được thực hiện trước khi có quyết định phê duyệt dự án, gói thầu đấu thầu trước; kế hoạch lựa chọn nhà thầu đối với dự án đã phê duyệt kế hoạch tổng thể lựa chọn nhà thầu; 
 
 b) Hồ sơ mời quan tâm, hồ sơ mời sơ tuyển, danh sách ngắn;
 
 c) Hồ sơ mời thầu, hồ sơ yêu cầu;
 
-d) Kết quả lựa chọn nhà thầu.
+d) Kết quả lựa chọn nhà thầu. 
 
 <a id="dieu-78-khoan-2"></a>
 **2.** Tổ chức thẩm định các nội dung quy định tại khoản 1 Điều này.
@@ -2434,7 +2412,7 @@ d) Kết quả lựa chọn nhà thầu.
 **9.** Báo cáo tình hình thực hiện công tác đấu thầu hằng năm.
 
 <a id="dieu-78-khoan-10"></a>
-**10.** Hủy thầu đối với trường hợp quy định tại điểm a khoản 1 Điều 17 của Luật này .
+**10.** Hủy thầu đối với trường hợp quy định tại điểm a khoản 1 Điều 17 của Luật này.
 
 <a id="dieu-78-khoan-11"></a>
 **11.** Cung cấp thông tin, tài liệu liên quan và giải trình việc thực hiện trách nhiệm quy định tại Điều này theo yêu cầu của người có thẩm quyền, cơ quan thanh tra, kiểm tra, cơ quan quản lý nhà nước về hoạt động đấu thầu.
@@ -2443,7 +2421,7 @@ d) Kết quả lựa chọn nhà thầu.
 **12.** Chịu trách nhiệm trước pháp luật và người có thẩm quyền về quá trình lựa chọn nhà thầu.
 
 <a id="dieu-78-khoan-13"></a>
-**13.** Trường hợp chủ đầu tư đồng thời là bên mời thầu thì còn phải thực hiện trách nhiệm quy định tại Điều 79 của Luật này .
+**13.** Trường hợp chủ đầu tư đồng thời là bên mời thầu thì còn phải thực hiện trách nhiệm quy định tại Điều 79 của Luật này.
 
 <a id="dieu-78-khoan-14"></a>
 **14.** Trang bị cơ sở hạ tầng về công nghệ thông tin đáp ứng yêu cầu đấu thầu qua mạng.
@@ -2492,7 +2470,7 @@ d) Trình duyệt hồ sơ mời thầu, kết quả lựa chọn nhà đ
 
 đ) Đàm phán hợp đồng với nhà đầu tư; ký kết và quản lý hợp đồng với nhà đầu tư trong trường hợp được ủy quyền;
 
-e) Hủy thầu theo quy định tại điểm a khoản 2 Điều 17 của Luật này ;
+e) Hủy thầu theo quy định tại điểm a khoản 2 Điều 17 của Luật này;
 
 g) Bảo mật các thông tin, tài liệu liên quan trong quá trình lựa chọn nhà đầu tư;
 
@@ -2502,7 +2480,7 @@ i) Giải quyết kiến nghị trong lựa chọn nhà đầu tư;
 
 k) Báo cáo tình hình thực hiện công tác đấu thầu hằng năm;
 
-l) Chịu trách nhiệm trước pháp luật và người có thẩm quyền trong phạm vi công việc được giao theo quy định tại khoản này.
+l) Chịu trách nhiệm trước pháp luật và người có thẩm quyền trong phạm vi công việc được giao theo quy định tại khoản này. 
 
 <a id="dieu-79-khoan-3"></a>
 **3.** Trang bị cơ sở hạ tầng về công nghệ thông tin đáp ứng yêu cầu đấu thầu qua mạng.
@@ -2566,7 +2544,7 @@ l) Chịu trách nhiệm trước pháp luật và người có thẩm quyê�
 
 a) Trang bị cơ sở hạ tầng về công nghệ thông tin khi tham gia đấu thầu qua mạng;
 
-b) Chịu trách nhiệm trước pháp luật về tính chính xác và trung thực của thông tin đã đăng ký, đăng tải trên Hệ thống mạng đấu thầu quốc gia.
+b) Chịu trách nhiệm trước pháp luật về tính chính xác và trung thực của thông tin đã đăng ký, đăng tải trên Hệ thống mạng đấu thầu quốc gia. 
 
 <a id="dieu-82-khoan-4"></a>
 **4.** Thực hiện các nội dung theo hợp đồng đã ký kết.
@@ -2574,11 +2552,11 @@ b) Chịu trách nhiệm trước pháp luật về tính chính xác và tru
 <a id="dieu-82-khoan-5"></a>
 **5.** Thực hiện trách nhiệm khác theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
-# Chương IX
+## Chương IX. 
 
-QUẢN LÝ NHÀ NƯỚC ĐỐI VỚI HOẠT ĐỘNG ĐẤU THẦU
+__QUẢN LÝ NHÀ NƯỚC ĐỐI VỚI HOẠT ĐỘNG ĐẤU THẦU__
 
-## Mục 1. QUẢN LÝ NHÀ NƯỚC VỀ ĐẤU THẦU
+### Mục 1. QUẢN LÝ NHÀ NƯỚC VỀ ĐẤU THẦU
 
 
 <a id="dieu-83"></a>
@@ -2696,7 +2674,7 @@ e) Trình tự, thủ tục giám sát hoạt động đấu thầu của ngư�
 <a id="dieu-87-khoan-3"></a>
 **3.** Thẩm quyền quyết định cấm tham gia hoạt động đấu thầu được quy định như sau:
 
-a) Người có thẩm quyền cấm tham gia hoạt động đấu thầu đối với các dự án, dự án đầu tư kinh doanh, dự toán mua sắm trong phạm vi quản lý của mình;
+a) Người có thẩm quyền cấm tham gia hoạt động đấu thầu đối với các dự án, dự án đầu tư kinh doanh, dự toán mua sắm trong phạm vi quản lý của mình; 
 
 b) Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Chủ tịch Ủy ban nhân dân cấp tỉnh cấm tham gia hoạt động đấu thầu trong phạm vi quản lý của Bộ, ngành, địa phương;
 
@@ -2708,7 +2686,7 @@ c) Bộ trưởng Bộ Kế hoạch và Đầu tư cấm tham gia hoạt động
 <a id="dieu-87-khoan-5"></a>
 **5.** Chính phủ quy định chi tiết các khoản 2, 3 và 4 Điều này.
 
-## Mục 2. XỬ LÝ TÌNH HUỐNG VÀ GIẢI QUYẾT KIẾN NGHỊ TRONG HOẠT ĐỘNG ĐẤU THẦU
+### Mục 2. XỬ LÝ TÌNH HUỐNG VÀ GIẢI QUYẾT KIẾN NGHỊ TRONG HOẠT ĐỘNG ĐẤU THẦU
 
 
 <a id="dieu-88"></a>
@@ -2723,9 +2701,9 @@ c) Bộ trưởng Bộ Kế hoạch và Đầu tư cấm tham gia hoạt động
 <a id="dieu-88-khoan-3"></a>
 **3.** Thẩm quyền xử lý tình huống trong đấu thầu được quy định như sau:
 
-a) Đối với lựa chọn nhà thầu, người quyết định xử lý tình huống là chủ đầu tư. Trong trường hợp phức tạp, chủ đầu tư quyết định xử lý tình huống sau khi có ý kiến của người có thẩm quyền;
+a) Đối với lựa chọn nhà thầu, người quyết định xử lý tình huống là chủ đầu tư. Trong trường hợp phức tạp, chủ đầu tư quyết định xử lý tình huống sau khi có ý kiến của người có thẩm quyền; 
 
-b) Đối với lựa chọn nhà đầu tư, người quyết định xử lý tình huống là người có thẩm quyền.
+b) Đối với lựa chọn nhà đầu tư, người quyết định xử lý tình huống là người có thẩm quyền. 
 
 <a id="dieu-88-khoan-4"></a>
 **4.** Chính phủ quy định chi tiết Điều này.
@@ -2735,7 +2713,7 @@ b) Đối với lựa chọn nhà đầu tư, người quyết định xử lý 
 ### Điều 89. Giải quyết kiến nghị trong hoạt động đấu thầu
 
 <a id="dieu-89-khoan-1"></a>
-**1.** Khi thấy quyền và lợi ích hợp pháp bị ảnh hưởng, nhà thầu, nhà đầu tư, cơ quan, tổ chức được kiến nghị người có thẩm quyền, chủ đầu tư, bên mời thầu xem xét lại các vấn đề trong quá trình lựa chọn nhà thầu, nhà đầu tư, kết quả lựa chọn nhà thầu, nhà đầu tư theo quy định tại các điều 90, 91 và 92 của Luật này .
+**1.** Khi thấy quyền và lợi ích hợp pháp bị ảnh hưởng, nhà thầu, nhà đầu tư, cơ quan, tổ chức được kiến nghị người có thẩm quyền, chủ đầu tư, bên mời thầu xem xét lại các vấn đề trong quá trình lựa chọn nhà thầu, nhà đầu tư, kết quả lựa chọn nhà thầu, nhà đầu tư theo quy định tại các điều 90, 91 và 92 của Luật này.
 
 <a id="dieu-89-khoan-2"></a>
 **2.** Nhà thầu, nhà đầu tư, cơ quan, tổ chức chỉ được xem xét, giải quyết kiến nghị khi chưa gửi đơn khiếu nại, tố cáo, khởi kiện. Trường hợp đang trong quá trình giải quyết kiến nghị mà nhà thầu, nhà đầu tư, cơ quan, tổ chức khởi kiện, khiếu nại, tố cáo thì việc giải quyết kiến nghị được chấm dứt ngay.
@@ -2769,7 +2747,7 @@ d) Nội dung kiến nghị liên quan trực tiếp đến kết quả đánh g
 
 đ) Chi phí giải quyết kiến nghị được nhà thầu, nhà đầu tư có kiến nghị nộp cho bộ phận thường trực giúp việc cho Chủ tịch Hội đồng tư vấn giải quyết kiến nghị (sau đây gọi là bộ phận thường trực) trước hoặc đồng thời với đơn kiến nghị;
 
-e) Nhà thầu phải gửi đơn kiến nghị đến chủ đầu tư, người có thẩm quyền trong thời hạn quy định tại khoản 2 Điều 91 của Luật này ; nhà đầu tư phải gửi đơn kiến nghị đến bên mời thầu, người có thẩm quyền trong thời hạn quy định tại khoản 2 Điều 92 của Luật này .
+e) Nhà thầu phải gửi đơn kiến nghị đến chủ đầu tư, người có thẩm quyền trong thời hạn quy định tại khoản 2 Điều 91 của Luật này; nhà đầu tư phải gửi đơn kiến nghị đến bên mời thầu, người có thẩm quyền trong thời hạn quy định tại khoản 2 Điều 92 của Luật này.
 
 <a id="dieu-90-khoan-3"></a>
 **3.** Trường hợp kiến nghị của nhà thầu, nhà đầu tư, cơ quan, tổ chức không đáp ứng điều kiện quy định tại khoản 1 và khoản 2 Điều này, người có trách nhiệm giải quyết kiến nghị thông báo bằng văn bản cho nhà thầu, nhà đầu tư, cơ quan, tổ chức về việc không xem xét, giải quyết kiến nghị.
@@ -2792,7 +2770,7 @@ d) Người có thẩm quyền phải có văn bản giải quyết kiến ngh�
 <a id="dieu-91-khoan-2"></a>
 **2.** Việc giải quyết kiến nghị sau khi có thông báo kết quả lựa chọn nhà thầu được thực hiện theo một trong hai quy trình sau đây:
 
-a) Nhà thầu gửi đơn kiến nghị đến chủ đầu tư trong thời hạn 10 ngày kể từ ngày kết quả lựa chọn nhà thầu được đăng tải trên Hệ thống mạng đấu thầu quốc gia. Chủ đầu tư phải có văn bản giải quyết kiến nghị gửi nhà thầu trong thời hạn 07 ngày làm việc kể từ ngày nhận được đơn kiến nghị của nhà thầu.
+a) Nhà thầu gửi đơn kiến nghị đến chủ đầu tư trong thời hạn 10 ngày kể từ ngày kết quả lựa chọn nhà thầu được đăng tải trên Hệ thống mạng đấu thầu quốc gia. Chủ đầu tư phải có văn bản giải quyết kiến nghị gửi nhà thầu trong thời hạn 07 ngày làm việc kể từ ngày nhận được đơn kiến nghị của nhà thầu. 
 
 Trường hợp nhà thầu không đồng ý với kết quả giải quyết kiến nghị hoặc quá thời hạn quy định tại khoản này mà chủ đầu tư không có văn bản giải quyết kiến nghị thì nhà thầu có quyền gửi đơn kiến nghị đến người có thẩm quyền thông qua bộ phận thường trực trong thời hạn 05 ngày làm việc kể từ ngày hết hạn giải quyết kiến nghị hoặc ngày nhận được văn bản giải quyết kiến nghị của chủ đầu tư. Người có thẩm quyền ban hành quyết định giải quyết kiến nghị về kết quả lựa chọn nhà thầu trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến bằng văn bản của Hội đồng tư vấn giải quyết kiến nghị;
 
@@ -2821,14 +2799,14 @@ a) Nhà đầu tư, cơ quan, tổ chức gửi đơn kiến nghị đến bên 
 
 b) Bên mời thầu phải có văn bản giải quyết kiến nghị gửi đến nhà đầu tư, cơ quan, tổ chức trong thời hạn 15 ngày kể từ ngày nhận được đơn kiến nghị của nhà đầu tư, cơ quan, tổ chức;
 
-c) Trường hợp nhà đầu tư, cơ quan, tổ chức không đồng ý với kết quả giải quyết kiến nghị hoặc quá thời hạn quy định tại điểm b khoản này mà bên mời thầu không có văn bản giải quyết kiến nghị thì nhà đầu tư, cơ quan, tổ chức có quyền gửi đơn kiến nghị đến người có thẩm quyền trong thời hạn 05 ngày làm việc kể từ ngày hết hạn giải quyết kiến nghị hoặc ngày nhận được văn bản giải quyết kiến nghị của bên mời thầu;
+c) Trường hợp nhà đầu tư, cơ quan, tổ chức không đồng ý với kết quả giải quyết kiến nghị hoặc quá thời hạn quy định tại điểm b khoản này mà bên mời thầu không có văn bản giải quyết kiến nghị thì nhà đầu tư, cơ quan, tổ chức có quyền gửi đơn kiến nghị đến người có thẩm quyền trong thời hạn 05 ngày làm việc kể từ ngày hết hạn giải quyết kiến nghị hoặc ngày nhận được văn bản giải quyết kiến nghị của bên mời thầu; 
 
 d) Người có thẩm quyền phải có văn bản giải quyết kiến nghị gửi đến nhà đầu tư, cơ quan, tổ chức trong thời hạn 05 ngày làm việc kể từ ngày nhận được đơn kiến nghị của nhà đầu tư, cơ quan, tổ chức.
 
 <a id="dieu-92-khoan-2"></a>
 **2.** Việc giải quyết kiến nghị sau khi có thông báo kết quả lựa chọn nhà đầu tư được thực hiện theo một trong hai quy trình sau đây:
 
-a) Nhà đầu tư gửi đơn kiến nghị đến bên mời thầu trong thời hạn 10 ngày kể từ ngày có thông báo kết quả lựa chọn nhà đầu tư. Bên mời thầu phải có văn bản giải quyết kiến nghị gửi đến nhà đầu tư trong thời hạn 15 ngày kể từ ngày nhận được đơn kiến nghị của nhà đầu tư.
+a) Nhà đầu tư gửi đơn kiến nghị đến bên mời thầu trong thời hạn 10 ngày kể từ ngày có thông báo kết quả lựa chọn nhà đầu tư. Bên mời thầu phải có văn bản giải quyết kiến nghị gửi đến nhà đầu tư trong thời hạn 15 ngày kể từ ngày nhận được đơn kiến nghị của nhà đầu tư. 
 
 Trường hợp nhà đầu tư không đồng ý với kết quả giải quyết kiến nghị hoặc quá thời hạn giải quyết kiến nghị quy định tại điểm này mà bên mời thầu không có văn bản giải quyết kiến nghị thì nhà đầu tư có quyền gửi đơn kiến nghị đến người có thẩm quyền thông qua bộ phận thường trực trong thời hạn 05 ngày làm việc kể từ ngày hết hạn giải quyết kiến nghị hoặc ngày nhận được văn bản giải quyết kiến nghị của bên mời thầu. Người có thẩm quyền ban hành quyết định giải quyết kiến nghị về kết quả lựa chọn nhà đầu tư trong thời hạn 10 ngày kể từ ngày nhận được ý kiến bằng văn bản của Hội đồng tư vấn giải quyết kiến nghị;
 
@@ -2853,11 +2831,11 @@ b) Nhà đầu tư gửi đơn kiến nghị đến người có thẩm quyền 
 <a id="dieu-93-khoan-1"></a>
 **1.** Hội đồng tư vấn giải quyết kiến nghị bao gồm:
 
-a) Hội đồng tư vấn giải quyết kiến nghị do Bộ trưởng Bộ Kế hoạch và Đầu tư thành lập;
+a) Hội đồng tư vấn giải quyết kiến nghị do Bộ trưởng Bộ Kế hoạch và Đầu tư thành lập; 
 
-b) Hội đồng tư vấn giải quyết kiến nghị do Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương thành lập;
+b) Hội đồng tư vấn giải quyết kiến nghị do Bộ trưởng, Thủ trưởng cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương thành lập; 
 
-c) Hội đồng tư vấn giải quyết kiến nghị do Giám đốc Sở Kế hoạch và Đầu tư thành lập.
+c) Hội đồng tư vấn giải quyết kiến nghị do Giám đốc Sở Kế hoạch và Đầu tư thành lập. 
 
 Hội đồng tư vấn giải quyết kiến nghị được thành lập trong thời hạn 05 ngày làm việc kể từ ngày nhận được đơn kiến nghị của nhà thầu, nhà đầu tư.
 
@@ -2884,11 +2862,11 @@ c) Hội đồng tư vấn giải quyết kiến nghị quy định tại điể
 <a id="dieu-93-khoan-4"></a>
 **4.** Hoạt động của Hội đồng tư vấn giải quyết kiến nghị được quy định như sau:
 
-a) Hội đồng tư vấn giải quyết kiến nghị hoạt động theo từng vụ việc, làm việc theo nguyên tắc tập thể và quyết định theo đa số. Thành viên được quyền bảo lưu ý kiến và chịu trách nhiệm trước pháp luật về ý kiến của mình;
+a) Hội đồng tư vấn giải quyết kiến nghị hoạt động theo từng vụ việc, làm việc theo nguyên tắc tập thể và quyết định theo đa số. Thành viên được quyền bảo lưu ý kiến và chịu trách nhiệm trước pháp luật về ý kiến của mình; 
 
 b) Hội đồng tư vấn giải quyết kiến nghị có quyền yêu cầu nhà thầu, nhà đầu tư, chủ đầu tư, bên mời thầu và các cơ quan liên quan cung cấp thông tin của gói thầu, dự án, dự án đầu tư kinh doanh và các thông tin liên quan khác để thực hiện nhiệm vụ;
 
-c) Kết quả giải quyết kiến nghị được gửi đến người có thẩm quyền trong thời hạn 25 ngày đối với kiến nghị của nhà thầu, 35 ngày đối với kiến nghị của nhà đầu tư kể từ ngày Hội đồng tư vấn giải quyết kiến nghị được thành lập.
+c) Kết quả giải quyết kiến nghị được gửi đến người có thẩm quyền trong thời hạn 25 ngày đối với kiến nghị của nhà thầu, 35 ngày đối với kiến nghị của nhà đầu tư kể từ ngày Hội đồng tư vấn giải quyết kiến nghị được thành lập. 
 
 
 <a id="dieu-94"></a>
@@ -2900,9 +2878,9 @@ c) Kết quả giải quyết kiến nghị được gửi đến người có t
 <a id="dieu-94-khoan-2"></a>
 **2.** Khi nộp đơn khởi kiện hoặc trong quá trình Tòa án giải quyết vụ kiện, các bên có quyền yêu cầu Tòa án tạm dừng việc đóng thầu; phê duyệt danh sách ngắn; phê duyệt kết quả lựa chọn nhà thầu, nhà đầu tư; ký kết hợp đồng; thực hiện hợp đồng và các biện pháp khẩn cấp tạm thời khác theo quy định của pháp luật.
 
-# Chương X
+## Chương X. 
 
-ĐIỀU KHOẢN THI HÀNH
+__ĐIỀU KHOẢN THI HÀNH__
 
 
 <a id="dieu-95"></a>
@@ -2912,7 +2890,7 @@ c) Kết quả giải quyết kiến nghị được gửi đến người có t
 **1.** Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2024.
 
 <a id="dieu-95-khoan-2"></a>
-**2.** Luật Đấu thầu số 43/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 03/2016/QH14 , Luật số 04/2017/QH14 , Luật số 40/2019/QH14 , Luật số 64/2020/QH14 và Luật số 03/2022/QH15 (sau đây gọi là Luật Đấu thầu số 43/2013/QH13 ) hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ quy định tại Điều 96 của Luật này .
+**2.** Luật Đấu thầu số 43/2013/QH13 đã được sửa đổi, bổ sung một số điều theo Luật số 03/2016/QH14, Luật số 04/2017/QH14, Luật số 40/2019/QH14, Luật số 64/2020/QH14 và Luật số 03/2022/QH15 (sau đây gọi là Luật Đấu thầu số 43/2013/QH13) hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ quy định tại Điều 96 của Luật này.
 
 <a id="dieu-95-khoan-3"></a>
 **3.** Hợp đồng được ký kết theo quy định tại điểm a khoản 1 Điều 55 của Luật này được thực hiện trong thời hạn quy định tại hợp đồng nhưng không quá 05 năm kể từ ngày Luật này có hiệu lực thi hành.
