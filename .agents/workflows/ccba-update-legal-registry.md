@@ -1,8 +1,8 @@
 ---
 name: ccba-update-legal-registry
-description: Tự động đồng bộ các thay đổi pháp lý từ legal_registry.yaml lên Google NotebookLM (hỗ trợ lưu trữ qua Google Drive chung).
-disable-model-invocation: true
-keywords: [legal, sync, update, notebooklm, drive]
+description: Tự động kích hoạt khi: Cập nhật hoặc đăng ký văn bản pháp lý mới vào legal_registry.yaml, tính toán lại mã băm SHA-256 đối soát PDF, hoặc đồng bộ tri thức lên Google NotebookLM / Cloud RAG
+disable-model-invocation: false
+keywords: [legal, sync, update, registry, sha256, notebooklm, drive]
 ---
 
 # Lệnh Slash Command `/ccba-update-legal-registry`

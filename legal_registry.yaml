@@ -49,7 +49,7 @@ laws:
   pdf_sha256: bacd661b1e7cb5e58f21c9357f465d1248588aea7838ba6d286f8982562edf01
   cong_bao_number: 1205+1206/2025
   pdf_status: verified
-- id: Luat-Dau-thau-2023-22-2023-QH15
+- id: luat_dau_thau_2023_22_2023_qh15
   document_number: 22/2023/QH15
   type: Luật
   issued_by: Quốc hội
@@ -60,16 +60,16 @@ laws:
   status: active
   relations:
     replaces: 43/2013/QH13
-  title: Luật Đấu thầu 2023 (Số 22/2023/QH15)
+  title: Luật Đấu thầu số 22/2023/QH15
   bundle_path: legal_docs/01_vbpl/luat_dau_thau_2023_22_2023_qh15/
   source_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-Dau-thau-2023-22-2023-QH15-518805.aspx
   pdf_path: legal_docs/01_vbpl/luat_dau_thau_2023_22_2023_qh15/luat_22_2023_qh15.pdf
   pdf_sha256: 9c6fbdb47b2bc1f51b729443d9bf328d4428a51b3ef34a3d98f65e0499221621
   cong_bao_number: 789+790/2023
   pdf_status: verified
-  sha256: ed8e5f9dc3c6f7f1c97c3580cfcae55e0fbeac678d1a44680ccd2547914300dc
+  sha256: 9c6fbdb47b2bc1f51b729443d9bf328d4428a51b3ef34a3d98f65e0499221621
   source_file: .md\extracted_docs\luat_dau_thau_2023_22_2023_qh15\luat_dau_thau_2023_22_2023_qh15.docx
-  source_file_size_kb: 8.2
+  source_file_size_kb: 83.2
 - id: nghi_dinh_217_2026_nd_cp
   document_number: 217/2026/NĐ-CP
   title: Nghị định 217/2026/NĐ-CP về Quản lý dự án đầu tư xây dựng
@@ -491,7 +491,7 @@ laws:
       cong_bao_number: 373/2026
       pdf_status: pending_download
   sha256: 7a59f3596250ee821784af3aee0a3e23bdaf0585e214e1d6fc7e29d998513390
-  pdf_path: legal_docs/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd.pdf
+  pdf_path: legal_docs/02_qcvn/qcvn_04_2021_bxd/sources/qcvn_04_2021_bxd.pdf
   pdf_sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
   cong_bao_number: 373/2026 (SĐ1) / 235/2021
   pdf_status: verified
@@ -512,11 +512,11 @@ laws:
     - id: SD1-2023-QCVN-06
       title: Sửa đổi 1:2023 QCVN 06:2022/BXD (Thông tư 09/2023/TT-BXD)
       source_url: https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Thong-tu-09-2023-TT-BXD-sua-doi-1-2023-QCVN-06-2022-BXD-an-toan-chay-cho-nha-cong-trinh-583536.aspx
-      pdf_path: legal_docs/02_qcvn/qcvn_06_2022_bxd/sd1_2023_qcvn_06_2022_bxd.pdf
+      pdf_path: legal_docs/02_qcvn/qcvn_06_2022_bxd/sources/sd1_2023_qcvn_06_2022_bxd.pdf
       pdf_sha256: 61228c151c373924bdad12965fe3f04768c85cd74fef36c9ae80432eb6954a4a
       cong_bao_number: 235+236/2023
       pdf_status: verified
-  pdf_path: legal_docs/02_qcvn/qcvn_06_2022_bxd/qcvn_06_2022_bxd.pdf
+  pdf_path: legal_docs/02_qcvn/qcvn_06_2022_bxd/sources/qcvn_06_2022_bxd.pdf
   pdf_sha256: e7b0f82433420e163e6d9d1e842f316a29ee50e473f075459bd52bc637aff7d5
   cong_bao_number: 235+236/2023 (SĐ1) / 1141+1142/2022
   pdf_status: verified

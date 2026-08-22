@@ -260,6 +260,94 @@ class LegalSpokeValidator:
 
         return (len(self.errors), len(self.warnings))
 
+    def validate_pure_normative_body_gate(self) -> Tuple[int, int]:
+        """Validate OKF v2.2 Pure Normative Body standard (ADR 0021).
+        
+        Checks:
+        1. Frontmatter presence and required fields (id, document_number, pdf_anchor).
+        2. Scoped Header Noise Scan (First 25 lines of main body): No raw Quốc hiệu/Tiêu ngữ.
+        3. Scoped Footer Noise Scan (Last 25 lines before MOC): No raw Nơi nhận/Chữ ký.
+        """
+        vbpl_dir = self.legal_docs_dir / "01_vbpl"
+        if not vbpl_dir.exists():
+            return (len(self.errors), len(self.warnings))
+
+        for doc_dir in vbpl_dir.iterdir():
+            if not doc_dir.is_dir():
+                continue
+
+            primary_md = doc_dir / f"{doc_dir.name}.md"
+            if not primary_md.exists():
+                md_files = [f for f in doc_dir.glob("*.md") if f.name not in ("index.md", "dead_ends.md", "log.md")]
+                if md_files:
+                    primary_md = md_files[0]
+                else:
+                    continue
+
+            try:
+                content = primary_md.read_text(encoding="utf-8")
+            except Exception as e:
+                self.errors.append(f"Pure Normative Body Error [{doc_dir.name}]: Cannot read {primary_md.name}: {e}")
+                continue
+
+            # 1. Frontmatter Check
+            if not content.startswith("---"):
+                self.errors.append(
+                    f"Pure Normative Body Error [{doc_dir.name}]: Missing YAML Frontmatter (---) at top of {primary_md.name}"
+                )
+            else:
+                parts = content.split("---", 2)
+                if len(parts) >= 3:
+                    try:
+                        fm_data = yaml.safe_load(parts[1])
+                        if not isinstance(fm_data, dict):
+                            self.errors.append(
+                                f"Pure Normative Body Error [{doc_dir.name}]: YAML frontmatter must be a dictionary in {primary_md.name}"
+                            )
+                        else:
+                            for req_field in ["id", "document_number", "pdf_anchor"]:
+                                if req_field not in fm_data:
+                                    self.errors.append(
+                                        f"Pure Normative Body Error [{doc_dir.name}]: Missing required frontmatter field '{req_field}'"
+                                    )
+                    except Exception as exc:
+                        self.errors.append(
+                            f"Pure Normative Body Error [{doc_dir.name}]: Invalid YAML frontmatter in {primary_md.name}: {exc}"
+                        )
+
+            # Extract body after frontmatter
+            body_parts = content.split("---", 2)
+            body_text = body_parts[2].strip() if len(body_parts) >= 3 else content
+
+            # Separate main body from appendix navigation MOC
+            moc_split = re.split(r"(?:^|\n)##\s+📑\s+HỆ\s+THỐNG\s+PHỤ\s+LỤC", body_text, flags=re.IGNORECASE)
+            main_body = moc_split[0].strip()
+            body_lines = [l.strip() for l in main_body.splitlines() if l.strip()]
+
+            # 2. Scoped Header Noise Scan (First 25 non-empty lines)
+            header_window = "\n".join(body_lines[:25])
+            if "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM" in header_window or "Độc lập - Tự do - Hạnh phúc" in header_window:
+                self.errors.append(
+                    f"Pure Normative Body Error [{doc_dir.name}]: Unstripped administrative header (Quốc hiệu/Tiêu ngữ) in {primary_md.name}"
+                )
+
+            # 3. Scoped Footer Noise Scan (Last 25 non-empty lines before MOC)
+            footer_window = "\n".join(body_lines[-25:]) if len(body_lines) >= 25 else "\n".join(body_lines)
+            sig_pattern = r"(?:^|\n)(?:__\*?\s*Nơi nhận\s*:|\*+Nơi nhận\s*:|\bNơi nhận\s*:|__KT\.\s+BỘ\s+TRƯỞNG|KT\.\s+BỘ\s+TRƯỞNG|CHỦ\s+TỊCH\s+QUỐC\s+HỘI|TM\.\s+QUỐC\s+HỘI|TM\.\s+CHÍNH\s+PHỦ|__THỦ\s+TƯỚNG__|THỦ\s+TƯỚNG\b)"
+            if re.search(sig_pattern, footer_window, re.IGNORECASE):
+                self.errors.append(
+                    f"Pure Normative Body Error [{doc_dir.name}]: Unstripped administrative footer (Nơi nhận / Chữ ký) in {primary_md.name}"
+                )
+
+            # 4. Raw Web Scraping & HTML Artifact Gate
+            html_noise_pattern = r"(?:<script\b|<form\b|<input\b|<iframe\b|class=[\"'][^\"']*(?:NoiDungChiase|clearfix|download1|clsBookmark)|onclick=)"
+            if re.search(html_noise_pattern, body_text, re.IGNORECASE):
+                self.errors.append(
+                    f"Pure Normative Body Error [{doc_dir.name}]: Detected raw web scraping HTML/JS artifacts in {primary_md.name}"
+                )
+
+        return (len(self.errors), len(self.warnings))
+
     def run_all_checks(self) -> bool:
         """Run all validation checks and print a summary report."""
         print("=================================================================")
@@ -272,12 +360,14 @@ class LegalSpokeValidator:
         self.validate_table_attachments()
         self.validate_fake_data_gate()
         self.validate_pdf_metadata_and_ast_enrichment()
+        self.validate_pure_normative_body_gate()
 
         print("-> Registry Check completed.")
         print("-> OKF Bundles Structure Check completed.")
         print("-> Table Attachments Check completed.")
         print("-> Fake Data Gate Check completed.")
-        print("-> PDF Metadata & AST Jurisdiction Gate Check completed.\n")
+        print("-> PDF Metadata & AST Jurisdiction Gate Check completed.")
+        print("-> Pure Normative Body & Scoped Noise Gate Check completed.\n")
 
         print("-----------------------------------------------------------------")
         print("SUMMARY REPORT:")

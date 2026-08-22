@@ -1,6 +1,6 @@
 ---
-description: Quy trình thực thi cào dữ liệu văn bản pháp luật VIP từ Thư viện Pháp luật (TVPL) qua Deep Seam TVPLCrawler
-disable-model-invocation: true
+description: Tự động kích hoạt khi: Người dùng cung cấp đường dẫn URL Thư Viện Pháp Luật (thuvienphapluat.vn), yêu cầu cào/tải văn bản pháp lý mới, hoặc khi phát hiện file DOCX nguồn bị thiếu/lỗi cần tự động đăng nhập VIP và tải tài sản gốc
+disable-model-invocation: false
 ---
 # Quy trình thực thi Slash Command `/ccba-tvpl-vip-crawler`
 

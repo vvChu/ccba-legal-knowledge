@@ -1,6 +1,6 @@
 ---
-description: Workflow tư vấn và rà soát pháp luật xây dựng Việt Nam với RAG và Grounding Gate
-disable-model-invocation: true
+description: Tự động kích hoạt khi người dùng yêu cầu: tra cứu, tư vấn, đối chiếu văn bản quy phạm pháp luật xây dựng Việt Nam, kiểm tra tuân thủ điều khoản, hoặc khi cần trích dẫn căn cứ pháp lý với Grounding Gate
+disable-model-invocation: false
 ---
 # Workflow: Tư Vấn & Rà Soát Pháp Luật Xây Dựng (/ccba-legal-intel)
 

@@ -15,13 +15,20 @@
 
 ---
 
-## 🚀 Quy trình 3 Bước Xử lý Văn bản Mới (OKF v2.2 Pipeline):
+## 🚀 Quy trình 4 Bước Chuẩn Hóa Văn Bản Mới (Universal OKF v2.2 Pipeline):
 
-Bất kỳ khi nào tiếp nhận một Luật, Nghị định, Thông tư, QCVN hoặc TCVN mới, Agent **bắt buộc** thực hiện tuần tự 3 bước:
+Bất kỳ khi nào tiếp nhận một Luật, Nghị định, Thông tư, QCVN hoặc TCVN mới (hoặc khi phát hiện file nguồn DOCX bị thiếu/lỗi), Agent **bắt buộc** thực hiện tuần tự 4 bước:
 
-### 1. Nạp & Chuyển đổi sang OKF v2.2 Bundle:
+### 0. Thu thập & Xác thực Nguồn gốc (Acquisition Gate — Bắt buộc qua ccba-legal-intel):
+* Tuyệt đối cấm cào HTML web tự do bằng `read_url_content` hay `requests`.
+* Kích hoạt Deep Seam `TVPLCrawler` từ `ccba-legal-intel` (hoặc Cổng Dữ liệu Mở Quốc gia `vbpl.vn`, `quochoi.vn`):
 ```powershell
-python scripts/docx_converter.py "duong/dan/file_goc.docx" "legal_docs/01_vbpl/ten_van_ban"
+python scripts/download_tvpl_docx.py --url "<url_tvpl>" --output ".md/extracted_docs/<ten_van_ban>"
+```
+
+### 1. Nạp & Chuyển đổi sang OKF v2.2 Bundle (ADR 0021):
+```powershell
+python scripts/docx_converter.py ".md/extracted_docs/ten_van_ban/ten_file.docx" "legal_docs/01_vbpl/ten_van_ban"
 ```
 
 ### 2. Hợp nhất Văn bản Sửa đổi (nếu có văn bản sửa đổi):
@@ -32,11 +39,12 @@ python -m scripts.consolidator `
   --output legal_docs/01_vbpl/ten_van_ban/
 ```
 
-### 3. Kiểm định Bắt buộc qua 4 Cổng CI Gates (Zero-Tolerance):
+### 3. Kiểm định Bắt buộc qua 5 Cổng CI Gates (Zero-Tolerance):
 ```powershell
 python scripts/validate_legal_spoke.py
-python scripts/verify_knowledge_integrity.py
-python scripts/verify_cross_links.py
+python scripts/test_converter_regression.py
 python scripts/audit_visual_parity.py
+python scripts/verify_cross_links.py
+python scripts/verify_all_docs_against_pdf.py
 ```
-*Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Parity, 100% Valid Links, 100% Visual Parity`.
+*Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Valid Links, 100% PDF SHA-256 Match, 100% Visual Parity`.
