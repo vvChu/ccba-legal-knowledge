@@ -1,11 +1,15 @@
 """Download official .docx document from Thư viện Pháp luật."""
 
+import os
 import time
 from pathlib import Path
 from dotenv import load_dotenv
 from playwright.sync_api import sync_playwright
 
 load_dotenv()
+
+_TVPL_USERNAME = os.getenv("TVPL_USERNAME")
+_TVPL_PASSWORD = os.getenv("TVPL_PASSWORD")
 
 def download_qcvn_docx(url: str, output_path: Path) -> bool:
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -27,8 +31,12 @@ def download_qcvn_docx(url: str, output_path: Path) -> bool:
             if login_btn:
                 login_btn.click()
                 time.sleep(2)
-                page.fill("input[name='txtDangNhap'], input[type='text']", "vuvanchu119")
-                page.fill("input[name='txtMatKhau'], input[type='password']", "Chu@123456")
+                if not _TVPL_USERNAME or not _TVPL_PASSWORD:
+                    print("[Error] TVPL_USERNAME or TVPL_PASSWORD not set in .env")
+                    browser.close()
+                    return False
+                page.fill("input[name='txtDangNhap'], input[type='text']", _TVPL_USERNAME)
+                page.fill("input[name='txtMatKhau'], input[type='password']", _TVPL_PASSWORD)
                 page.click("button[type='submit'], input[type='submit']")
                 time.sleep(3)
                 page.goto(url)

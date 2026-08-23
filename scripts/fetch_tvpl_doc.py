@@ -158,8 +158,8 @@ class ChromeCDP:
 
     def handle_login(self) -> bool:
         """Detect login popup or page, fill in credentials, submit, and confirm multi-session warning."""
-        username = os.environ.get("TVPL_USERNAME", "vuvanchu119")
-        password = os.environ.get("TVPL_PASSWORD", "Chu@123456")
+        username = os.environ.get("TVPL_USERNAME", "")
+        password = os.environ.get("TVPL_PASSWORD", "")
         if not username or not password:
             print(
                 "  [Login] Missing TVPL_USERNAME or TVPL_PASSWORD env variable. Cannot perform auto-login."

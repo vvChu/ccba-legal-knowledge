@@ -1,3 +1,5 @@
+import os
+from dotenv import load_dotenv
 """Direct download script for QCVN 06 docx."""
 
 import sys
@@ -5,6 +7,7 @@ import time
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
+load_dotenv()
 sys.stdout.reconfigure(encoding="utf-8")
 
 def download_now():
@@ -25,8 +28,8 @@ def download_now():
         time.sleep(2)
 
         if page.query_selector("input[name='txtDangNhap']"):
-            page.fill("input[name='txtDangNhap']", "vuvanchu119")
-            page.fill("input[name='txtMatKhau']", "Chu@123456")
+            page.fill("input[name='txtDangNhap']", os.getenv("TVPL_USERNAME", ""))
+            page.fill("input[name='txtMatKhau']", os.getenv("TVPL_PASSWORD", ""))
             page.click("#btDangNhap, input[type='submit']")
             time.sleep(3)
 

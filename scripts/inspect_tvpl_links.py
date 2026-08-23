@@ -1,3 +1,5 @@
+import os
+from dotenv import load_dotenv
 """Inspect TVPL logged in page for 03/2021/TT-BXD."""
 
 import sys
@@ -5,6 +7,7 @@ import time
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
+load_dotenv()
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
@@ -21,8 +24,8 @@ def inspect():
         time.sleep(2)
 
         if page.query_selector("input[name='txtDangNhap']"):
-            page.fill("input[name='txtDangNhap']", "vuvanchu119")
-            page.fill("input[name='txtMatKhau']", "Chu@123456")
+            page.fill("input[name='txtDangNhap']", os.getenv("TVPL_USERNAME", ""))
+            page.fill("input[name='txtMatKhau']", os.getenv("TVPL_PASSWORD", ""))
             page.click("#btDangNhap, input[type='submit']")
             time.sleep(3)
 

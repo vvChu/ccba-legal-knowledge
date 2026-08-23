@@ -1,9 +1,12 @@
+import os
+from dotenv import load_dotenv
 """Download official QCVN 06:2022/BXD .docx file from Thư viện Pháp luật."""
 
 import time
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
+load_dotenv()
 def download_qcvn_docx() -> bool:
     target_dir = Path(".md/extracted_docs/qcvn_06_2022_bxd")
     target_dir.mkdir(parents=True, exist_ok=True)
@@ -17,12 +20,12 @@ def download_qcvn_docx() -> bool:
         context = browser.new_context(accept_downloads=True)
         page = context.new_page()
 
-        print("[Crawler] Logging in as VIP account 'vuvanchu119'...")
+        print("[Crawler] Logging in as VIP account...")
         try:
             page.goto("https://thuvienphapluat.vn/thanh-vien/dang-nhap.aspx", wait_until="domcontentloaded")
             time.sleep(2)
-            page.fill("input[name='txtDangNhap']", "vuvanchu119")
-            page.fill("input[name='txtMatKhau']", "Chu@123456")
+            page.fill("input[name='txtDangNhap']", os.getenv("TVPL_USERNAME", ""))
+            page.fill("input[name='txtMatKhau']", os.getenv("TVPL_PASSWORD", ""))
             page.click("input[type='submit'], button[type='submit'], #btDangNhap")
             time.sleep(3)
         except Exception as e:

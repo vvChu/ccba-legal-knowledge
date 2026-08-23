@@ -1,3 +1,5 @@
+import os
+from dotenv import load_dotenv
 """Download authentic QCVN 04 .doc/.docx from TVPL using real visible Chrome browser."""
 
 import sys
@@ -5,6 +7,7 @@ import time
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
+load_dotenv()
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
@@ -60,8 +63,8 @@ def run():
         # Login VIP
         if page.query_selector("input[name='txtDangNhap']"):
             print("[2/4] Điền thông tin tài khoản VIP...")
-            page.fill("input[name='txtDangNhap']", "vuvanchu119")
-            page.fill("input[name='txtMatKhau']", "Chu@123456")
+            page.fill("input[name='txtDangNhap']", os.getenv("TVPL_USERNAME", ""))
+            page.fill("input[name='txtMatKhau']", os.getenv("TVPL_PASSWORD", ""))
             page.click("#btDangNhap, input[type='submit']")
             time.sleep(4)
 
