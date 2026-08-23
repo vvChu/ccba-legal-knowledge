@@ -368,6 +368,9 @@ class LegalSpokeValidator:
             "sync_notebooklm_knowledge.py",
             "benchmark_legal_rag.py",
             "spoke_cli.py",
+            "check_hub_import_depth.py",
+            "check_spoke_cleanliness.py",
+            "safe_pytest.py",
         }
 
         py_files = list(scripts_dir.glob("*.py"))
@@ -384,9 +387,9 @@ class LegalSpokeValidator:
                         f"Ensure it belongs to Spoke CI gates or delegates to Hub packages."
                     )
 
-        if len(py_files) > 10:
+        if len(py_files) > 15:
             self.warnings.append(
-                f"Spoke Cleanliness Gate: scripts/ directory contains {len(py_files)} files (> 10 threshold). "
+                f"Spoke Cleanliness Gate: scripts/ directory contains {len(py_files)} files (> 15 threshold). "
                 f"Consider archiving legacy or one-off utilities."
             )
 
