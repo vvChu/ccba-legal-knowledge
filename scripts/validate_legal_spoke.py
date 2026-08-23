@@ -392,6 +392,63 @@ class LegalSpokeValidator:
 
         return (len(self.errors), len(self.warnings))
 
+    def validate_template_and_table_integrity(self) -> Tuple[int, int]:
+        """Gate 8: Verify Template & Table Structural Integrity (ADR 0021).
+
+        1. Checks that all templates in templates/ have valid 2D GFM Markdown tables rather than flattened paragraphs.
+        2. Verifies that documents referencing forms (e.g. 'Mẫu số 01', 'hệ thống mẫu biểu') have corresponding non-empty templates/.
+        3. Prevents redundant/fragmented table CSV/JSON files when templates already exist.
+        """
+        for cat_dir in [self.legal_docs_dir / "01_vbpl", self.legal_docs_dir / "02_qcvn"]:
+            if not cat_dir.exists():
+                continue
+            for doc_dir in cat_dir.iterdir():
+                if not doc_dir.is_dir():
+                    continue
+
+                primary_md = doc_dir / f"{doc_dir.name}.md"
+                if not primary_md.exists():
+                    continue
+
+                content = primary_md.read_text(encoding="utf-8")
+                body_only = content.split("## 📑")[0] if "## 📑" in content else content
+                templates_dir = doc_dir / "templates"
+
+                # Check 1: Missing templates when forms are defined in normative body
+                form_regex = re.compile(
+                    r"(?:Mẫu\s+số\s+[0-9a-zA-Z\.\-]+(?:\s+ban\s+hành)?\s+kèm\s+theo\s+(?:Nghị\s+định|Thông\s+tư|Quyết\s+định)\s+này|"
+                    r"ban\s+hành\s+kèm\s+theo\s+(?:Nghị\s+định|Thông\s+tư|Quyết\s+định)\s+này\s+(?:các\s+)?(?:mẫu\s+biểu|biểu\s+mẫu)|"
+                    r"tại\s+Phụ\s+lục\s+Hệ\s+thống\s+biểu\s+mẫu)",
+                    re.IGNORECASE,
+                )
+                has_form_definition = bool(form_regex.search(body_only))
+
+                if has_form_definition:
+                    if not templates_dir.exists() or not list(templates_dir.rglob("*.md")):
+                        self.errors.append(
+                            f"Template Integrity Error [{doc_dir.name}]: Document defines form templates, but templates/ is empty or missing."
+                        )
+
+                # Check 2: Broken table paragraphs in templates
+                if templates_dir.exists():
+                    for tmpl_file in templates_dir.rglob("*.md"):
+                        tmpl_txt = tmpl_file.read_text(encoding="utf-8")
+                        if re.search(r"(?:__TT__|\bTT\b)\s*\n\s*\n\s*__(?:Danh mục|Tên sản phẩm)", tmpl_txt):
+                            if "|" not in tmpl_txt:
+                                self.errors.append(
+                                    f"Broken Table Error [{tmpl_file.relative_to(self.root_dir)}]: Flattened/vertical table detected. Must be converted to 2D GFM Pipe Table."
+                                )
+
+                # Check 3: Redundant table links in Semantic MOC
+                if "## 📑 HỆ THỐNG PHỤ LỤC" in content or "## 📑 DANH MỤC PHỤ LỤC" in content:
+                    moc_part = content.split("## 📑")[1] if "## 📑" in content else ""
+                    if re.search(r"-\s*📊\s*\[bang_\d+\]\(\./tables/csv/bang_\d+\.csv\)", moc_part):
+                        self.warnings.append(
+                            f"Redundant Table Warning [{doc_dir.name}]: MOC contains generic '[bang_XX]' links. Ensure meaningful titles or clean redundant table exports."
+                        )
+
+        return (len(self.errors), len(self.warnings))
+
     def run_all_checks(self) -> bool:
         """Run all validation checks and print a summary report."""
         print("=================================================================")
@@ -406,6 +463,7 @@ class LegalSpokeValidator:
         self.validate_pdf_metadata_and_ast_enrichment()
         self.validate_pure_normative_body_gate()
         self.validate_spoke_cleanliness()
+        self.validate_template_and_table_integrity()
 
         print("-> Registry Check completed.")
         print("-> OKF Bundles Structure Check completed.")
@@ -413,7 +471,8 @@ class LegalSpokeValidator:
         print("-> Fake Data Gate Check completed.")
         print("-> PDF Metadata & AST Jurisdiction Gate Check completed.")
         print("-> Pure Normative Body & Scoped Noise Gate Check completed.")
-        print("-> Spoke Cleanliness & Zero-Wrapper Gate completed.\n")
+        print("-> Spoke Cleanliness & Zero-Wrapper Gate completed.")
+        print("-> Template & Table Structural Integrity Gate completed.\n")
 
         print("-----------------------------------------------------------------")
         print("SUMMARY REPORT:")

@@ -489,3 +489,15 @@ __ĐIỀU KHOẢN THI HÀNH__
 ### Điều 42. Trách nhiệm thi hành
 
 Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
+
+---
+
+## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU KÈM THEO
+
+> [!TIP]
+> Toàn bộ các Biểu mẫu PCCC đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/):
+
+- 📋 [Mẫu số PC11 — Văn bản đề nghị thẩm định thiết kế về PCCC của Chủ đầu tư](./templates/mau_pc11_van_ban_de_nghi_tham_dinh_thiet_ke_ve_pccc.md)
+- 📋 [Mẫu số PC12 — Giấy chứng nhận thẩm duyệt thiết kế về PCCC](./templates/mau_pc12_giay_chung_nhan_tham_duyet_thiet_ke_ve_pccc.md)
+- 📋 [Mẫu số PC13 — Văn bản kết quả tự thẩm định thiết kế PCCC của Chủ đầu tư](./templates/mau_pc13_ket_qua_tu_tham_dinh_thiet_ke_pccc.md)
+- 📋 [Mẫu số PC14 — Văn bản chấp thuận kết quả nghiệm thu về PCCC](./templates/mau_pc14_van_ban_chap_thuan_ket_qua_nghiem_thu_ve_pccc.md)
