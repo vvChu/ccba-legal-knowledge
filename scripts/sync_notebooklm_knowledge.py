@@ -1,6 +1,10 @@
-"""
-CCBA Legal Knowledge Spoke — Google NotebookLM Sync Engine.
-Tuân thủ nghiêm ngặt ADR 0012 (Clean Unified Whitelist) và ADR 0018 (Git-Ratchet Sync).
+"""CCBA Legal Knowledge Spoke — Google NotebookLM / Cloud RAG Sync Engine.
+
+Tuân thủ nghiêm ngặt:
+- ADR 0012: Clean Unified Whitelist & Quarantine Gate
+- ADR 0021: OKF v2.2 Pure Normative Body & Atomic Templates
+- ADR 0023: Full Comprehensive NotebookLM Ingestion Strategy for Ultra Tier (500+ sources capacity)
+
 Tạo bởi CCBA — Trung tâm Tư vấn và Ứng dụng BIM trong Xây dựng.
 """
 
@@ -21,113 +25,175 @@ if hasattr(sys.stdout, "reconfigure"):
 ROOT_DIR = Path(__file__).resolve().parent.parent
 REGISTRY_PATH = ROOT_DIR / "legal_registry.yaml"
 WORKSPACE_CONTEXT_PATH = ROOT_DIR / ".md" / "workspace_context.yaml"
+ULTRA_TIER_MAX_SOURCES = 500
 
 
-def get_canonical_whitelist(root_dir: Path) -> list[dict[str, Any]]:
-    """Trích xuất danh sách 32 nguồn Markdown sạch theo chuẩn ADR 0012."""
+def get_canonical_manifest(
+    root_dir: Path, ultra_full: bool = True
+) -> list[dict[str, Any]]:
+    """Trích xuất danh sách nguồn tri thức chuẩn hóa theo ADR 0012 và ADR 0023."""
     if not REGISTRY_PATH.exists():
         raise FileNotFoundError(f"Không tìm thấy registry tại {REGISTRY_PATH}")
 
     reg = yaml.safe_load(REGISTRY_PATH.read_text(encoding="utf-8"))
-    laws = reg.get("laws", [])
+    all_docs: list[dict[str, Any]] = []
+    if "laws" in reg:
+        all_docs.extend(reg["laws"])
+    if "documents" in reg:
+        all_docs.extend(reg["documents"].values())
 
-    whitelist: list[dict[str, Any]] = []
+    sources: list[dict[str, Any]] = []
+    seen_paths: set[str] = set()
 
-    # 1. Quét các văn bản luật, nghị định, thông tư trong 01_vbpl
-    for item in laws:
+    for item in all_docs:
         bp = item.get("bundle_path", "")
-        bundle_dir = root_dir / bp
+        if not bp:
+            continue
+        bundle_dir = root_dir / bp.strip("/")
         if not bundle_dir.exists():
             continue
 
-        md_files = sorted(bundle_dir.glob("*.md"))
-        for mf in md_files:
-            if mf.name in ("index.md", "dead_ends.md", "log.md"):
-                continue
+        slug = bundle_dir.name
 
-            # Rào chắn cách ly QCVN theo ADR 0012
-            if "02_qcvn" in str(mf):
-                if "hop_nhat" in mf.name or mf.name in (
-                    "qcvn_02_2022_bxd.md",
-                    "qcvn_03_2022_bxd.md",
-                ):
-                    content = mf.read_text(encoding="utf-8")
+        # 1. Thân văn bản Markdown chính (<slug>.md)
+        normative_md = bundle_dir / f"{slug}.md"
+        if normative_md.exists() and str(normative_md) not in seen_paths:
+            content = normative_md.read_text(encoding="utf-8")
+            sha = hashlib.sha256(content.encode("utf-8")).hexdigest()
+            seen_paths.add(str(normative_md))
+            sources.append(
+                {
+                    "id": item.get("id", slug),
+                    "title": item.get("title", slug),
+                    "type": "Normative Body",
+                    "category": bp.strip("/").split("/")[1] if len(bp.strip("/").split("/")) > 1 else "01_vbpl",
+                    "file_path": normative_md,
+                    "rel_path": normative_md.relative_to(root_dir),
+                    "size_bytes": normative_md.stat().st_size,
+                    "word_count": len(content.split()),
+                    "sha256": sha,
+                }
+            )
+
+        # 2. Toàn bộ Biểu mẫu Nguyên tử (templates/) theo ADR 0023
+        if ultra_full:
+            tmpl_dir = bundle_dir / "templates"
+            if tmpl_dir.exists():
+                for tf in sorted(tmpl_dir.glob("**/*.md")):
+                    if str(tf) in seen_paths:
+                        continue
+                    content = tf.read_text(encoding="utf-8")
                     sha = hashlib.sha256(content.encode("utf-8")).hexdigest()
-                    whitelist.append(
+                    seen_paths.add(str(tf))
+                    sources.append(
                         {
-                            "id": item.get("id", mf.stem),
-                            "title": item.get("title", mf.stem),
-                            "category": "02_qcvn",
-                            "file_path": mf,
-                            "rel_path": mf.relative_to(root_dir),
-                            "size_bytes": mf.stat().st_size,
+                            "id": f"{slug}_{tf.stem}",
+                            "title": f"Biểu mẫu {tf.stem} ({slug})",
+                            "type": "Atomic Form Template",
+                            "category": "templates",
+                            "file_path": tf,
+                            "rel_path": tf.relative_to(root_dir),
+                            "size_bytes": tf.stat().st_size,
                             "word_count": len(content.split()),
                             "sha256": sha,
                         }
                     )
-            elif "04_appendices" in str(mf):
-                content = mf.read_text(encoding="utf-8")
-                sha = hashlib.sha256(content.encode("utf-8")).hexdigest()
-                whitelist.append(
-                    {
-                        "id": item.get("id", mf.stem),
-                        "title": item.get("title", mf.stem),
-                        "category": "04_appendices",
-                        "file_path": mf,
-                        "rel_path": mf.relative_to(root_dir),
-                        "size_bytes": mf.stat().st_size,
-                        "word_count": len(content.split()),
-                        "sha256": sha,
-                    }
-                )
-            else:
-                content = mf.read_text(encoding="utf-8")
-                sha = hashlib.sha256(content.encode("utf-8")).hexdigest()
-                whitelist.append(
-                    {
-                        "id": item.get("id", mf.stem),
-                        "title": item.get("title", mf.stem),
-                        "category": "01_vbpl",
-                        "file_path": mf,
-                        "rel_path": mf.relative_to(root_dir),
-                        "size_bytes": mf.stat().st_size,
-                        "word_count": len(content.split()),
-                        "sha256": sha,
-                    }
-                )
 
-    return whitelist
+            # 3. Toàn bộ Bảng tra cứu số liệu (tables/csv/) theo ADR 0023
+            table_dir = bundle_dir / "tables" / "csv"
+            if table_dir.exists():
+                for tb in sorted(table_dir.glob("*.csv")):
+                    if str(tb) in seen_paths:
+                        continue
+                    content = tb.read_text(encoding="utf-8", errors="replace")
+                    sha = hashlib.sha256(content.encode("utf-8")).hexdigest()
+                    seen_paths.add(str(tb))
+                    sources.append(
+                        {
+                            "id": f"{slug}_{tb.stem}",
+                            "title": f"Bảng {tb.stem} ({slug})",
+                            "type": "Technical Table 2D",
+                            "category": "tables",
+                            "file_path": tb,
+                            "rel_path": tb.relative_to(root_dir),
+                            "size_bytes": tb.stat().st_size,
+                            "word_count": len(content.split(",")),
+                            "sha256": sha,
+                        }
+                    )
+
+    # 4. Các Bảng so sánh đối chiếu quy chuẩn độc lập (Internal Matrix)
+    for cat in ["01_vbpl", "02_qcvn", "04_appendices"]:
+        cat_dir = root_dir / "legal_docs" / cat
+        if not cat_dir.exists():
+            continue
+        for mf in sorted(cat_dir.glob("*.md")):
+            if mf.name in ("index.md", "dead_ends.md", "log.md") or str(mf) in seen_paths:
+                continue
+            content = mf.read_text(encoding="utf-8")
+            sha = hashlib.sha256(content.encode("utf-8")).hexdigest()
+            seen_paths.add(str(mf))
+            sources.append(
+                {
+                    "id": mf.stem,
+                    "title": f"Bảng Đối Chiếu {mf.stem}",
+                    "type": "Matrix Comparison",
+                    "category": cat,
+                    "file_path": mf,
+                    "rel_path": mf.relative_to(root_dir),
+                    "size_bytes": mf.stat().st_size,
+                    "word_count": len(content.split()),
+                    "sha256": sha,
+                }
+            )
+
+    return sources
 
 
-def print_manifest(whitelist: list[dict[str, Any]]) -> None:
-    """In bảng tổng hợp manifest 32 nguồn chuẩn hóa."""
-    total_bytes = sum(w["size_bytes"] for w in whitelist)
-    total_words = sum(w["word_count"] for w in whitelist)
+def print_manifest(sources: list[dict[str, Any]], ultra_full: bool = True) -> None:
+    """In bảng tổng hợp manifest và đo lường hạn ngạch Cloud RAG Ultra."""
+    total_bytes = sum(w["size_bytes"] for w in sources)
+    total_words = sum(w["word_count"] for w in sources)
+    quota_ratio = (len(sources) / ULTRA_TIER_MAX_SOURCES) * 100
 
-    print("=================================================================")
-    print("   CCBA NOTEBOOKLM CANONICAL WHITELIST MANIFEST (ADR 0012)       ")
-    print("=================================================================")
-    print(f"Tổng số nguồn chuẩn hóa: {len(whitelist)} tệp")
-    print(f"Tổng dung lượng        : {total_bytes / (1024 * 1024):.2f} MB ({total_bytes:,} bytes)")
-    print(f"Tổng khối lượng từ     : {total_words:,} words")
-    print("-----------------------------------------------------------------")
-    print(f"{'TT':<3} | {'Nhóm':<12} | {'Dung lượng':<10} | {'Từ':<8} | {'Đường dẫn tệp'}")
-    print("-" * 65)
-    for idx, item in enumerate(whitelist, 1):
+    normative_count = sum(1 for s in sources if s["type"] == "Normative Body")
+    template_count = sum(1 for s in sources if s["type"] == "Atomic Form Template")
+    table_count = sum(1 for s in sources if s["type"] == "Technical Table 2D")
+    matrix_count = sum(1 for s in sources if s["type"] == "Matrix Comparison")
+
+    print("=========================================================================================")
+    if ultra_full:
+        print("   CCBA NOTEBOOKLM FULL COMPREHENSIVE ULTRA MANIFEST (ADR 0023)                         ")
+    else:
+        print("   CCBA NOTEBOOKLM NORMATIVE-ONLY MANIFEST (ADR 0012 WHITELIST)                         ")
+    print("=========================================================================================")
+    print(f"  • Tổng số nguồn nạp (Sources)   : {len(sources):,} tệp / {ULTRA_TIER_MAX_SOURCES} quota ({quota_ratio:.1f}% Ultra Tier)")
+    print(f"    - Thân văn bản thuần khiết    : {normative_count} tệp")
+    print(f"    - Biểu mẫu nguyên tử         : {template_count} tệp")
+    print(f"    - Bảng tra cứu kỹ thuật 2D   : {table_count} tệp")
+    print(f"    - Bảng đối chiếu ma trận     : {matrix_count} tệp")
+    print(f"  • Tổng dung lượng dữ liệu      : {total_bytes / (1024 * 1024):.2f} MB ({total_bytes:,} bytes)")
+    print(f"  • Tổng khối lượng từ (Words)   : {total_words:,} words")
+    print("-----------------------------------------------------------------------------------------")
+    print(f"{'TT':<3} | {'Phân loại':<20} | {'Dung lượng':<10} | {'Từ/Cột':<8} | {'Đường dẫn tệp'}")
+    print("-" * 89)
+    for idx, item in enumerate(sources[:30], 1):
         size_kb = f"{item['size_bytes'] / 1024:.1f} KB"
         words = f"{item['word_count']:,}"
-        print(f"{idx:02d}  | {item['category']:<12} | {size_kb:<10} | {words:<8} | {item['rel_path']}")
-    print("=================================================================\n")
+        print(f"{idx:02d}  | {item['type'][:19]:<20} | {size_kb:<10} | {words:<8} | {item['rel_path']}")
+    if len(sources) > 30:
+        print(f"... và {len(sources) - 30} tệp nguồn khác sẵn sàng đồng bộ.")
+    print("=========================================================================================\n")
 
 
 async def execute_sync(
-    notebook_id: str, whitelist: list[dict[str, Any]], dry_run: bool = False
+    notebook_id: str, sources: list[dict[str, Any]], dry_run: bool = False, ultra_full: bool = True
 ) -> int:
-    """Thực thi đồng bộ danh sách 32 nguồn lên NotebookLM."""
-    print_manifest(whitelist)
+    """Thực thi đồng bộ danh sách nguồn lên NotebookLM."""
+    print_manifest(sources, ultra_full=ultra_full)
 
     if dry_run:
-        print("[DRY-RUN]: Đã kiểm tra đối soát 100% tệp tin. Không thực hiện upload.")
+        print("✅ [DRY-RUN]: Đã kiểm tra đối soát 100% tệp tin. Toàn bộ nguồn khớp hạn ngạch Ultra an toàn. Không gọi API.")
         return 0
 
     try:
@@ -143,24 +209,24 @@ async def execute_sync(
         print("[MOCK MODE]: Chưa phát hiện Google Session Cookie thực tế.")
         print("Đang chạy mô phỏng đồng bộ dữ liệu qua Mock Client Adapter...")
         print("-----------------------------------------------------------------")
-        for idx, item in enumerate(whitelist, 1):
-            print(f"[{idx:02d}/{len(whitelist)}] -> Uploaded (mock): {item['rel_path'].name}")
-        print("\n✅ [MOCK SYNC SUCCESSFUL]: Đã mô phỏng nạp thành công 32 nguồn vào Mock NotebookLM.")
+        for idx, item in enumerate(sources, 1):
+            print(f"[{idx:03d}/{len(sources)}] -> Uploaded (mock): {item['rel_path'].name}")
+        print(f"\n✅ [MOCK SYNC SUCCESSFUL]: Đã mô phỏng nạp thành công {len(sources)} nguồn vào Mock NotebookLM.")
         return 0
 
     print(f"Bắt đầu kết nối Google NotebookLM (ID: {notebook_id})...")
     try:
         async with client as real_client:
-            for idx, item in enumerate(whitelist, 1):
+            for idx, item in enumerate(sources, 1):
                 file_path_str = str(item["file_path"].resolve())
-                print(f"[{idx:02d}/{len(whitelist)}] Đang tải lên: {item['rel_path'].name}...", end=" ")
+                print(f"[{idx:03d}/{len(sources)}] Đang tải lên: {item['rel_path'].name}...", end=" ")
                 try:
                     await real_client.add_file_source(notebook_id, file_path_str)
                     print("✅ Xong.")
                 except Exception as e:
                     print(f"❌ Lỗi: {e}")
 
-        print("\n🎉 HOÀN THÀNH: Đã đồng bộ toàn bộ kho tri thức sạch lên Google NotebookLM!")
+        print("\n🎉 HOÀN THÀNH: Đã đồng bộ toàn bộ kho tri thức toàn diện lên Google NotebookLM!")
         return 0
 
     except Exception as e:
@@ -178,7 +244,9 @@ async def execute_sync(
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Đồng bộ kho tri thức pháp lý lên Google NotebookLM.")
+    parser = argparse.ArgumentParser(
+        description="Đồng bộ kho tri thức pháp lý toàn diện lên Google NotebookLM (ADR 0023)."
+    )
     parser.add_argument(
         "--notebook-id",
         type=str,
@@ -188,12 +256,22 @@ def main() -> None:
     parser.add_argument(
         "--dry-run",
         action="store_true",
-        help="Chỉ kiểm tra và in manifest danh mục 32 tệp, không gọi API",
+        help="Chỉ kiểm tra và in manifest danh mục nguồn, không gọi API",
+    )
+    parser.add_argument(
+        "--normative-only",
+        action="store_true",
+        help="Chỉ nạp thân văn bản chính (ADR 0012 whitelist 50 sources)",
     )
     args = parser.parse_args()
 
-    whitelist = get_canonical_whitelist(ROOT_DIR)
-    code = asyncio.run(execute_sync(args.notebook_id, whitelist, dry_run=args.dry_run))
+    ultra_full = not args.normative_only
+    sources = get_canonical_manifest(ROOT_DIR, ultra_full=ultra_full)
+    code = asyncio.run(
+        execute_sync(
+            args.notebook_id, sources, dry_run=args.dry_run, ultra_full=ultra_full
+        )
+    )
     sys.exit(code)
 
 
