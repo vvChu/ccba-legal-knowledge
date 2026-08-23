@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 import pytest
 
-from scripts.gold_standard_processor import (
+from ccba_legal.gold_standard import (
     clean_html_tables,
     inject_semantic_anchors,
     generate_clauses_ast,

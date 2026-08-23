@@ -21,30 +21,30 @@ Bất kỳ khi nào tiếp nhận một Luật, Nghị định, Thông tư, QCVN
 
 ### 0. Thu thập & Xác thực Nguồn gốc (Acquisition Gate — Bắt buộc qua ccba-legal-intel):
 * Tuyệt đối cấm cào HTML web tự do bằng `read_url_content` hay `requests`.
-* Kích hoạt Deep Seam `TVPLCrawler` từ `ccba-legal-intel` (hoặc Cổng Dữ liệu Mở Quốc gia `vbpl.vn`, `quochoi.vn`):
+* Kích hoạt Deep Seam `TVPLCrawler` trực tiếp từ `ccba-legal-intel` CLI:
 ```powershell
-python scripts/fetch_tvpl_doc.py "<url_or_doc_number>"
+python -m ccba_legal fetch "<url_or_doc_number>"
 ```
 
 ### 1. Nạp & Chuyển đổi sang OKF v2.2 Bundle (ADR 0021):
 ```powershell
-python scripts/docx_converter.py ".md/extracted_docs/ten_van_ban/ten_file.docx" "legal_docs/01_vbpl/ten_van_ban"
+python -m ccba_legal convert ".md/extracted_docs/ten_van_ban/ten_file.docx" "legal_docs/01_vbpl/ten_van_ban"
 ```
 
 ### 2. Hợp nhất Văn bản Sửa đổi (nếu có văn bản sửa đổi):
 ```powershell
-python -m scripts.consolidator `
+python -m ccba_legal consolidate `
   --manifest legal_docs/01_vbpl/ten_van_ban/patch_manifest.yaml `
   --base legal_docs/01_vbpl/ten_van_ban/ten_van_ban.md `
   --output legal_docs/01_vbpl/ten_van_ban/
 ```
 
-### 3. Kiểm định Bắt buộc qua 5 Cổng CI Gates (Zero-Tolerance):
+### 3. Kiểm định Bắt buộc qua Bộ Cổng CI Gates Spoke (Zero-Tolerance):
 ```powershell
 python scripts/validate_legal_spoke.py
 python scripts/test_converter_regression.py
-python scripts/audit_visual_parity.py
 python scripts/verify_cross_links.py
 python scripts/verify_all_docs_against_pdf.py
+python scripts/verify_docx_against_pdf.py
 ```
 *Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Valid Links, 100% PDF SHA-256 Match, 100% Visual Parity`.

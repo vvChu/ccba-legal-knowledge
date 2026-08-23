@@ -13,7 +13,8 @@ from pathlib import Path
 import pytest
 import docx
 
-from scripts.docx_converter import convert_docx_to_okf_bundle, normalize_docx_markdown, main as docx_converter_main
+from ccba_legal import convert_docx_to_okf_bundle, normalize_docx_markdown
+from ccba_legal.cli import main as docx_converter_main
 
 TARGET_DECREES = [
     "nghi_dinh_217_2026_nd_cp",

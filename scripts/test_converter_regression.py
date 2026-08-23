@@ -24,7 +24,7 @@ root_dir = Path(__file__).resolve().parent.parent
 if str(root_dir) not in sys.path:
     sys.path.insert(0, str(root_dir))
 
-from scripts.docx_converter import convert_docx_to_okf_bundle
+from ccba_legal import convert_docx_to_okf_bundle
 
 
 class ConverterRegressionSuite:

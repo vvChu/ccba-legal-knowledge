@@ -4,21 +4,17 @@ import json
 from pathlib import Path
 import pytest
 
-from scripts.consolidator.patch_manifest_schema import (
+from ccba_legal.consolidator import (
+    ASTNode,
+    ConsolidationResult,
     DefectSeverity,
     DocMode,
+    DualModeASTParser,
+    LegislativeConsolidator,
     PatchAction,
     PatchItem,
     PatchManifest,
     load_manifest,
-)
-from scripts.consolidator.dual_mode_parser import (
-    ASTNode,
-    DualModeASTParser,
-)
-from scripts.consolidator.patcher import (
-    ConsolidationResult,
-    LegislativeConsolidator,
 )
 
 
@@ -319,7 +315,7 @@ def test_real_qcvn04_patch_manifest():
 
 def test_manifest_generator_mock(tmp_path: Path):
     """Test 10: LLM-Assisted Manifest Generator produces valid PatchManifest."""
-    from scripts.consolidator.manifest_generator import ManifestGenerator
+    from ccba_legal.consolidator import ManifestGenerator
 
     mock_llm_json = """{
       "target_doc_id": "qcvn_mock",

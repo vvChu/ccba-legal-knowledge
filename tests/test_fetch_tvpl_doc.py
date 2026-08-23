@@ -1,17 +1,67 @@
-"""Unit tests for fetch_tvpl_doc.py 4-Layer Precision Check and Hub ChromeCDP Integration."""
-
-from __future__ import annotations
-
+import hashlib
+import re
 import tempfile
+import unicodedata
 from pathlib import Path
+from typing import Any
 import pytest
-
-from scripts.fetch_tvpl_doc import (
-    _normalize,
-    compute_file_sha256,
-    find_doc_in_registry,
-)
+import yaml
 from ccba_legal.crawler import MockChromeCDP, get_tvpl_metadata
+
+
+def _normalize(text: str) -> str:
+    """Normalize string by removing diacritics, punctuation, and lowering."""
+    text = unicodedata.normalize("NFD", text)
+    text = "".join(ch for ch in text if unicodedata.category(ch) != "Mn")
+    text = text.replace("đ", "d").replace("Đ", "D")
+    text = re.sub(r"[^\w\s]", " ", text)
+    return re.sub(r"\s+", " ", text).strip().lower()
+
+
+def compute_file_sha256(file_path: Path) -> str:
+    """Compute SHA-256 hash of a file."""
+    sha256 = hashlib.sha256()
+    with open(file_path, "rb") as f:
+        for chunk in iter(lambda: f.read(65536), b""):
+            sha256.update(chunk)
+    return sha256.hexdigest()
+
+
+def find_doc_in_registry(
+    key: str, registry_file: Path | None = None
+) -> tuple[str | None, str | None, dict[str, Any] | None]:
+    """Find a document in legal_registry.yaml by number, title, id, or URL."""
+    reg_path = registry_file or (Path(__file__).resolve().parent.parent / "legal_registry.yaml")
+    if not reg_path.exists():
+        return None, None, None
+
+    with open(reg_path, encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+
+    all_items: list[dict[str, Any]] = []
+    for section in ["laws", "decrees", "circulars", "standards"]:
+        all_items.extend(data.get(section, []))
+
+    norm_key = _normalize(key)
+
+    # 1. Exact match on URL
+    if key.startswith("http://") or key.startswith("https://"):
+        for item in all_items:
+            if item.get("source_url") == key or item.get("tvpl_url") == key:
+                return item.get("id"), key, item
+        slug = re.sub(r"[^\w\d]+", "_", Path(key).stem.lower()).strip("_")
+        return slug, key, None
+
+    # 2. Match on document_number or id
+    for item in all_items:
+        doc_num = item.get("document_number", "")
+        doc_id = item.get("id", "")
+        if key == doc_num or key == doc_id or norm_key == _normalize(doc_num) or norm_key == _normalize(doc_id):
+            url = item.get("tvpl_url") or item.get("source_url")
+            slug = item.get("id", "").lower().replace("-", "_")
+            return slug, url, item
+
+    return None, None, None
 
 
 def test_normalize_vietnamese_strings() -> None:

@@ -3,7 +3,7 @@
 from pathlib import Path
 import pytest
 import docx
-from scripts.docx_converter import convert_docx_to_okf_bundle, normalize_docx_markdown
+from ccba_legal import convert_docx_to_okf_bundle, normalize_docx_markdown
 
 def create_dummy_docx(docx_path: Path) -> Path:
     """Helper to create a small valid .docx file."""

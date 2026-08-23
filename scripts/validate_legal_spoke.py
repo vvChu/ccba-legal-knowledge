@@ -348,6 +348,50 @@ class LegalSpokeValidator:
 
         return (len(self.errors), len(self.warnings))
 
+    def validate_spoke_cleanliness(self) -> Tuple[int, int]:
+        """Gate 7: Verify Spoke Cleanliness and Zero-Wrapper Architecture.
+        
+        Ensures scripts/ contains <= 10 core files (only CI gates and sync runners)
+        and prevents any ephemeral fix_* or prototype scripts from polluting the codebase.
+        """
+        scripts_dir = self.root_dir / "scripts"
+        if not scripts_dir.exists():
+            return (0, 0)
+
+        allowed_core_scripts = {
+            "__init__.py",
+            "validate_legal_spoke.py",
+            "test_converter_regression.py",
+            "verify_cross_links.py",
+            "verify_all_docs_against_pdf.py",
+            "verify_docx_against_pdf.py",
+            "sync_notebooklm_knowledge.py",
+            "benchmark_legal_rag.py",
+            "spoke_cli.py",
+        }
+
+        py_files = list(scripts_dir.glob("*.py"))
+        for py_file in py_files:
+            if py_file.name not in allowed_core_scripts:
+                if any(py_file.name.startswith(p) for p in ["fix_", "audit_", "build_", "temp_", "clean_"]):
+                    self.errors.append(
+                        f"Spoke Cleanliness Gate: Ephemeral script '{py_file.name}' detected in scripts/. "
+                        f"Please move to .md/archive/legacy_scripts/ or .md/scratch/."
+                    )
+                else:
+                    self.warnings.append(
+                        f"Spoke Cleanliness Gate: Extra script '{py_file.name}' found in scripts/. "
+                        f"Ensure it belongs to Spoke CI gates or delegates to Hub packages."
+                    )
+
+        if len(py_files) > 10:
+            self.warnings.append(
+                f"Spoke Cleanliness Gate: scripts/ directory contains {len(py_files)} files (> 10 threshold). "
+                f"Consider archiving legacy or one-off utilities."
+            )
+
+        return (len(self.errors), len(self.warnings))
+
     def run_all_checks(self) -> bool:
         """Run all validation checks and print a summary report."""
         print("=================================================================")
@@ -361,13 +405,15 @@ class LegalSpokeValidator:
         self.validate_fake_data_gate()
         self.validate_pdf_metadata_and_ast_enrichment()
         self.validate_pure_normative_body_gate()
+        self.validate_spoke_cleanliness()
 
         print("-> Registry Check completed.")
         print("-> OKF Bundles Structure Check completed.")
         print("-> Table Attachments Check completed.")
         print("-> Fake Data Gate Check completed.")
         print("-> PDF Metadata & AST Jurisdiction Gate Check completed.")
-        print("-> Pure Normative Body & Scoped Noise Gate Check completed.\n")
+        print("-> Pure Normative Body & Scoped Noise Gate Check completed.")
+        print("-> Spoke Cleanliness & Zero-Wrapper Gate completed.\n")
 
         print("-----------------------------------------------------------------")
         print("SUMMARY REPORT:")
