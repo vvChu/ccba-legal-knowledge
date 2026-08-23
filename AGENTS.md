@@ -23,7 +23,7 @@ Bất kỳ khi nào tiếp nhận một Luật, Nghị định, Thông tư, QCVN
 * Tuyệt đối cấm cào HTML web tự do bằng `read_url_content` hay `requests`.
 * Kích hoạt Deep Seam `TVPLCrawler` từ `ccba-legal-intel` (hoặc Cổng Dữ liệu Mở Quốc gia `vbpl.vn`, `quochoi.vn`):
 ```powershell
-python scripts/download_tvpl_docx.py --url "<url_tvpl>" --output ".md/extracted_docs/<ten_van_ban>"
+python scripts/fetch_tvpl_doc.py "<url_or_doc_number>"
 ```
 
 ### 1. Nạp & Chuyển đổi sang OKF v2.2 Bundle (ADR 0021):
