@@ -1,10 +1,12 @@
-"""CLI Interface for CCBA Legislative Consolidator."""
+"""CLI Interface for CCBA Legislative Consolidator (delegates to Hub SDK)."""
+
+from __future__ import annotations
 
 import argparse
 import sys
 from pathlib import Path
 
-from .patcher import LegislativeConsolidator
+from ccba_legal.consolidator import LegislativeConsolidator
 
 
 def main() -> None:
@@ -47,7 +49,7 @@ def main() -> None:
     amending_path = Path(args.amending) if args.amending else None
 
     print("=================================================================")
-    print("        CCBA LEGISLATIVE CONSOLIDATOR (OKF v2.0)                 ")
+    print("        CCBA LEGISLATIVE CONSOLIDATOR (Hub SDK Engine)          ")
     print("=================================================================")
     print(f"📄 Manifest: {manifest_path}")
     print(f"📄 Base Document: {base_path}")
@@ -63,20 +65,15 @@ def main() -> None:
         amending_md_path=amending_path,
     )
 
-    if result.success:
-        print("✅ CONSOLIDATION COMPLETED SUCCESSFULLY!")
-        print(f"  • Consolidated Markdown: {result.consolidated_md_path}")
-        print(f"  • Rich AST clauses.json: {result.clauses_json_path} ({result.total_clauses} clauses)")
-        print(f"  • Diff Matrix: {result.diff_matrix_path}")
-        print(f"  • Statistics: +{result.added_clauses} added, ~{result.modified_clauses} modified, -{result.repealed_clauses} repealed")
-        print("=================================================================")
-        sys.exit(0)
-    else:
-        print("❌ CONSOLIDATION FAILED WITH ERRORS:")
-        for err in result.errors:
-            print(f"  - {err}")
-        print("=================================================================")
+    print(f"Consolidation Status: {result.status}")
+    print(f"Target Bundle: {result.bundle_dir}")
+    print(f"Patches Applied: {len(result.patches_applied)}")
+    if result.errors:
+        print(f"Errors: {result.errors}")
         sys.exit(1)
+
+    print("✅ Consolidation completed successfully!")
+    sys.exit(0)
 
 
 if __name__ == "__main__":

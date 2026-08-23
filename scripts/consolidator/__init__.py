@@ -1,22 +1,21 @@
-"""CCBA Legislative Consolidator Package — Deterministic Legal Document Patching & VBHN Generation."""
+"""CCBA Legislative Consolidator Package — Deterministic Legal Document Patching & VBHN Generation.
 
-from .patch_manifest_schema import (
+Thin Spoke wrapper delegating 100% to Hub SDK `ccba_legal.consolidator`.
+"""
+
+from __future__ import annotations
+
+from ccba_legal.ast_parser import ASTNode
+from ccba_legal.consolidator import (
+    ConsolidationResult,
     DocMode,
+    DualModeASTParser,
+    LegislativeConsolidator,
+    ManifestGenerator,
     PatchAction,
     PatchItem,
     PatchManifest,
     load_manifest,
-)
-from .dual_mode_parser import (
-    ASTNode,
-    DualModeASTParser,
-)
-from .patcher import (
-    ConsolidationResult,
-    LegislativeConsolidator,
-)
-from .manifest_generator import (
-    ManifestGenerator,
 )
 
 __all__ = [
