@@ -45,4 +45,5 @@ project:
   name: ccba-legal-knowledge
   notebook_id: 2e8ac123-31c0-4afa-9e8b-de95a69e3b87
   qc_mode: standalone-knowledge-base
-  type: Kho Tri thức Pháp lý & Quy chuẩn
+  type: "Pháp điển"
+  archetype: "knowledge_corpus"
