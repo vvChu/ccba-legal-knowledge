@@ -447,6 +447,25 @@ class LegalSpokeValidator:
                             f"Redundant Table Warning [{doc_dir.name}]: MOC contains generic '[bang_XX]' links. Ensure meaningful titles or clean redundant table exports."
                         )
 
+                # Check 4: Markdown list item lazy continuation / paragraph collapsing
+                all_md_files = [primary_md] + (list(templates_dir.rglob("*.md")) if templates_dir.exists() else [])
+                for md_path in all_md_files:
+                    txt = md_path.read_text(encoding="utf-8")
+                    lines = txt.splitlines()
+                    for i in range(len(lines) - 1):
+                        curr_line = lines[i].strip()
+                        next_line = lines[i + 1].strip()
+                        if curr_line.startswith(("- ", "+ ", "* ")) and next_line:
+                            if not next_line.startswith(("- ", "+ ", "* ", "#", "|", ">")):
+                                if re.match(
+                                    r"^(?:\d+\.\d+|\d+\.\d+\.\d+|Điều\s+\d+|Khoản\s+\d+|Mục\s+[IVXLCDM0-9]+)\b",
+                                    next_line,
+                                ):
+                                    self.errors.append(
+                                        f"Markdown Formatting Error [{md_path.relative_to(self.root_dir)}:L{i+2}]: "
+                                        f"Sub-clause '{next_line[:30]}' immediately follows a list item without a blank line, causing it to collapse into the bullet point."
+                                    )
+
         return (len(self.errors), len(self.warnings))
 
     def run_all_checks(self) -> bool:
