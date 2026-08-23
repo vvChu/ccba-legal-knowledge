@@ -1,6 +1,0 @@
-﻿STT,Loại vật liệu,Đơn vị tính,Giá vật liệu đến công trình,Giá vật liệu đến công trình,Giá vật liệu đến công trình,Chi phí vận chuyển nội bộ công trình (nếu có),Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có),Giá vật liệu đến hiện trường công trình
-STT,Loại vật liệu,Đơn vị tính,Giá tại nguồn cung cấp,Chi phí vận chuyển đến công trình (nếu có),Chi phí bốc xếp (nếu có),Chi phí vận chuyển nội bộ công trình (nếu có),Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có),Giá vật liệu đến hiện trường công trình
-[1],[2],[3],[4],[5],[6],[7],[8],[9] = [4]+[5]+[6] + [7]+[8]
-1,,,,,,,,
-2,,,,,,,,
-...,,,,,,,,

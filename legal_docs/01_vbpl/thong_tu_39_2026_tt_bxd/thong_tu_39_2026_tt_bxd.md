@@ -395,7 +395,3 @@ d) Tổ chức đào tạo, bồi dưỡng, hướng dẫn cán bộ, công ch�
 - 📄 **[Phụ lục IV - Mẫu 03: TÊN CƠ QUAN/TỔ CHỨC](./templates/phu_luc_iv/mau_03_tên_cơ_quan_tổ_chức.md)**
 - 📄 **[Phụ lục V - Mẫu 01: ..., ngày ...tháng ... năm …](./templates/phu_luc_v/mau_01_ngày_tháng_năm.md)**
 - 📄 **[Phụ lục V - Mẫu 02: CƠ QUAN/ĐƠN VỊ](./templates/phu_luc_v/mau_02_cơ_quan_đơn_vị.md)**
-- 📊 **[bang_03](./tables/csv/bang_03.csv)**
-- 📊 **[bang_05](./tables/csv/bang_05.csv)**
-- 📊 **[bang_06](./tables/csv/bang_06.csv)**
-- 📊 **[bang_07](./tables/csv/bang_07.csv)**

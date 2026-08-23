@@ -1,961 +1,337 @@
 ---
-title: "PHƯƠNG PHÁP XÁC ĐỊNH GIÁ NHÂN CÔNG XÂY DỰNG"
+title: "PHỤ LỤC III"
 document: "37/2026/TT-BXD"
-appendix: "Phụ lục III"
+appendix: "Phụ lục 3"
 type: "form_template"
 usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
 
-# Phụ Lục III - PHƯƠNG PHÁP XÁC ĐỊNH GIÁ NHÂN CÔNG XÂY DỰNG
-*(Kèm theo 37/2026/TT-BXD)*
+# PHỤ LỤC III
+*(Ban hành kèm theo Thông tư số 37/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
 
 ---
 
-__PHỤ LỤC III__
 
-PHƯƠNG PHÁP XÁC ĐỊNH GIÁ NHÂN CÔNG XÂY DỰNG  
-*(Kèm theo Thông tư số 37/2026/TT-BXD ngày 26/6/2026 của Bộ trưởng Bộ Xây dựng)*
+## PHỤ LỤC III
 
-__I. XÁC ĐỊNH GIÁ NHÂN CÔNG XÂY DỰNG ĐỂ CÔNG BỐ__
+PHƯƠNG PHÁP XÁC ĐỊNH GIÁ NHÂN CÔNG XÂY DỰNG (Kèm theo Thông tư số 37/2026/TT-BXD ngày 26/6/2026 của Bộ trưởng Bộ Xây dựng)
 
-__1. Khảo sát, thu thập số liệu, xác định giá nhân công xây dựng__
+### I. XÁC ĐỊNH GIÁ NHÂN CÔNG XÂY DỰNG ĐỂ CÔNG BỐ
 
-1.1. Nguồn thông tin để thực hiện khảo sát, thu thập số liệu
-
+**1.** Khảo sát, thu thập số liệu, xác định giá nhân công xây dựng
+**1.1.** Nguồn thông tin để thực hiện khảo sát, thu thập số liệu
 a) Khảo sát trực tiếp, thu thập số liệu tại công trình trong khu vực công bố và các doanh nghiệp trong lĩnh vực xây dựng trên địa bàn tỉnh/thành phố;
-
 b) Khảo sát, thu thập số liệu từ các chuyên gia có kinh nghiệm, chủ đầu tư, nhà thầu và cá nhân, tổ chức trong lĩnh vực xây dựng trên địa bàn tỉnh, thành phố;
-
 c) Thống kê số liệu từ Hệ thống thông tin, Cơ sở dữ liệu quốc gia về hoạt động xây dựng; hồ sơ quyết toán hoàn thành, số liệu kết quả trúng thầu của công trình xây dựng tại khu vực công bố có điều chỉnh theo chỉ số giá nhân công xây dựng về thời điểm xác định;
-
 d) Kết hợp các kết quả khảo sát, thống kê nêu trên.
-
-1.2. Nguyên tắc khảo sát, thu thập số liệu để xác định, công bố giá nhân công xây dựng
-
+**1.2.** Nguyên tắc khảo sát, thu thập số liệu để xác định, công bố giá nhân công xây dựng
 a) Giá nhân công xây dựng được khảo sát, thu thập số liệu, xác định và công bố phù hợp với nhóm nhân công xây dựng quy định tại Bảng 3.1 Phụ lục này và quy định tại Thông tư hướng dẫn một số nội dung, phương pháp xác định và quản lý chi phí đầu tư xây dựng của Bộ trưởng Bộ Xây dựng.
-
 b) Việc xác định, công bố thông tin về giá nhân công xây dựng phải phù hợp với mặt bằng giá nhân công xây dựng trên thị trường lao động của từng địa phương nhưng không thấp hơn mức lương tối thiểu vùng do Chính phủ quy định. Giá nhân công xây dựng công bố bao gồm các khoản phụ cấp, bảo hiểm người lao động phải nộp theo quy định, không bao gồm các khoản bảo hiểm mà người sử dụng lao động phải nộp theo quy định. Giá nhân công xây dựng công bố được xác định cho thời gian làm việc bình thường (08h/ngày và không quá 48h trong 1 tuần) theo quy định của Luật lao động.
-
 c) Việc lựa chọn khu vực khảo sát, thu thập số liệu để xác định và công bố giá nhân công xây dựng phải đảm bảo đủ số lượng thông tin yêu cầu tối thiểu, đảm bảo đủ độ tin cậy và phản ánh được mặt bằng nhân công xây dựng tại khu vực cần công bố. Khu vực được lựa chọn để khảo sát và công bố giá nhân công xây dựng là khu vực có sự tương đồng về điều kiện kinh tế - xã hội, phù hợp quy định phân vùng của Chính phủ.
-
 d) Các công trình, dự án được lựa chọn khảo sát, thu thập thông tin để xác định và công bố giá nhân công xây dựng đảm bảo tính phổ biến về loại công trình, điều kiện thi công, tiến độ thi công, công nghệ thi công. Các đối tượng được lựa chọn để phỏng vấn thu thập thông tin (các chuyên gia, chủ đầu tư, nhà thầu…) phải có kinh nghiệm, sự am hiểu về lĩnh vực xây dựng và thị trường nhân công xây dựng. Các doanh nghiệp xây dựng trên địa bàn được lựa chọn để khảo sát, thu thập thông tin phải là các doanh nghiệp có đăng ký kinh doanh, năng lực và kinh nghiệm trong lĩnh vực xây dựng.
-
 đ) Quá trình khảo sát, thu thập thông tin theo trình tự, phương pháp và các bảng, biểu mẫu được hướng dẫn tại Phụ lục này. Số liệu thu thập được đảm bảo tính trung thực, khách quan, có sự xác nhận của các bên có liên quan.
-
 e) Số liệu khảo sát, thống kê sử dụng để xác định giá nhân công xây dựng phải được xử lý, sàng lọc, rà soát trước khi tính toán xác định giá nhân công xây dựng.
-
 g) Giá nhân công được xác định là mức giá bình quân của nhóm nhân công xây dựng.
-
-1.3. Tổ chức khảo sát, thu thập số liệu
-
+**1.3.** Tổ chức khảo sát, thu thập số liệu
 Bước 1: Cơ quan chủ trì (Sở Xây dựng) quyết định thành lập tổ khảo sát (đại diện Sở Xây dựng làm tổ trưởng) và phê duyệt kế hoạch khảo sát gồm các nội dung sau:
-
 - Thời gian bắt đầu và kết thúc công việc khảo sát;
-
 - Các khu vực dự kiến khảo sát, công bố giá nhân công xây dựng;
-
 - Danh mục các công trình đang thi công xây dựng, đã thi công xây dựng hoàn thành trong 3 năm trên địa bàn được lựa chọn khảo sát, các đối tượng cần khảo sát, thu thập số liệu;
-
 - Danh mục các công việc cần khảo sát, thu thập số liệu và kinh phí phục vụ khảo sát;
-
 - Tên tổ chức tư vấn chuyên môn thực hiện công tác khảo sát (nếu có).
-
 Bước 2: Thông báo tới các đối tượng sẽ thực hiện khảo sát (các Chủ đầu tư, Ban quản lý dự án, các đơn vị tư vấn, nhà thầu, doanh nghiệp xây dựng và các chuyên gia) trên địa bàn về kế hoạch thực hiện khảo sát để phối hợp khảo sát.
-
 Bước 3: Tiến hành khảo sát, thu thập giá nhân công xây dựng theo danh mục nhóm công tác xây dựng.
-
 Bước 4: Tổng hợp, rà soát và xử lý các số liệu thu thập được
-
 Bước 5: Hoàn thiện, công bố theo quy định.
-
-1.4. Khảo sát giá nhân công xây dựng
-
+**1.4.** Khảo sát giá nhân công xây dựng
 a) Khảo sát trực tiếp tại công trình: thực hiện khảo sát giá nhân công với tối thiểu 05 công tác xây dựng trong mỗi nhóm nhân công, theo tổ đội trực tiếp thực hiện các công tác đó; mỗi công việc được khảo sát tại tối thiểu 03 công trình xây dựng.
-
-b) Khảo sát, thu thập số liệu tại các doanh nghiệp xây dựng trên địa bàn tỉnh/thành phố: Cần thực hiện ít nhất tại 03 doanh nghiệp xây dựng có kinh nghiệm thi công xây dựng đại diện đối với ít nhất 03 loại hình công trình xây dựng__. __Số liệu thu thập là hợp đồng lao động hoặc bảng lương doanh nghiệp chi trả cho công nhân xây dựng tại các công trình trong vòng 02 năm gần thời điểm khảo sát nhất.
-
+b) Khảo sát, thu thập số liệu tại các doanh nghiệp xây dựng trên địa bàn tỉnh/thành phố: Cần thực hiện ít nhất tại 03 doanh nghiệp xây dựng có kinh nghiệm thi công xây dựng đại diện đối với ít nhất 03 loại hình công trình xây dựng. Số liệu thu thập là hợp đồng lao động hoặc bảng lương doanh nghiệp chi trả cho công nhân xây dựng tại các công trình trong vòng 02 năm gần thời điểm khảo sát nhất.
 c) Khi thực hiện khảo sát trực tiếp tại công trình và các doanh nghiệp xây dựng trên địa bàn, trường hợp không đủ số lượng cần khảo sát theo quy định tại điểm a, b khoản này thì có thể kết hợp với số liệu khảo sát từ nguồn thông tin nêu tại điểm b, c khoản 1.1 nêu trên để đảm bảo số mẫu khảo sát theo quy định.
-
 Sở Xây dựng tổ chức xây dựng cơ sở dữ liệu, danh sách các doanh nghiệp xây dựng, chuyên gia trong lĩnh vực xây dựng, ... phục vụ cho việc thu thập dữ liệu. Sử dụng phương thức cung cấp thông tin qua trang thông tin điện tử hoặc ứng dụng phần mềm để thuận tiện cho việc tổng hợp, xử lý thông tin phục vụ công bố giá kịp thời và thuận lợi cho việc liên thông với hệ thống thông tin, dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng
-
 d) Giá nhân công xây dựng của mỗi công tác xây dựng thứ i trong công thức (3.1) được khảo sát bằng mẫu phiếu khảo sát tại các Bảng 3.2, Bảng 3.3, Bảng 3.4 và tổng hợp số liệu tính toán theo Bảng 3.5 của Phụ lục này.
-
-1.5. Xác định giá nhân công xây dựng
-
+**1.5.** Xác định giá nhân công xây dựng
 Giá nhân công xây dựng của loại công tác xây dựng được tính bằng trung bình số học giá nhân công thu thập, tổng hợp từ các mẫu phiếu khảo sát sau khi xử lý số liệu, quy đổi thời gian làm việc theo quy định tại mục 2 Phần I Phụ lục này và xác định theo công thức sau:
-
-![](data:image/png;base64,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)Trong đó:
-
+Trong đó:
 GNCXD: giá nhân công xây dựng của nhóm nhân công xây dựng (đồng/ngày công);
-
- : giá nhân công thực hiện công tác xây dựng thứ i trong nhóm nhân công xây dựng. Giá nhân công thực hiện công tác xây dựng thứ i được xác định bằng khảo sát theo hướng dẫn tại Phụ lục này (đồng/ngày công);
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAfCAIAAADr6EOiAAAAAXNSR0IArs4c6QAABChJREFUSEvtVmtMFFcUntmd3ZlZdpEgC7pIRUnDD+wLS8SSVNNQQmsI1C19iqlSWmLsw2glTS1dUtO0P2iapoC1xsYNCbUErYQVsNaNqWyBUkoaJfLYgLgKVbCwOzt3HvfOdNjFhG1nhQnEX56f995zv/nO+c53B5dlGbvvobvviLOAD1A1lZ1ngpKmhGWocLC3br/jJx/ShIsvXcPAHyBjLZoEoumwGh8JYnoc18R0ERWWkchzAHAcx4eD40WIBCY85XCqr/794n1NN7R19p4VliF7+6q7qaHZcw3GJsSbTQY9gnjcunTz+LWU8o+KbEql/J6KF6qfcDa+kqylbEpfo4Q4+fuxt556dGv50U5fAIToKsH4Oo6UblqfU30FhPKYnkO59gYfin6Pyg4W7TQ/UF/2uPWhoi87p4TIKxE33l61u6rDH0r1d32Ya3eOLQsqvHny7Q2WmEf2t02qfZYw1vnbKKvswJl+5xtZWz85f4OTNLBV5yqOfGe3Gai0spZ/Iu+SRFFQtAVAcAbwoqggIRgMBHhtVGV1CQS8PX9OyeTK5DXk/JmQ2eu9Z53VFXvKy/fsq6xt6hplJJ3eZDYbtSgpqvtLPMtLmAQFMWIicFNK5vP2LSsuN590DSdt2bYp1awRbo6DehZteziVxriJ4avTkYOIE4Qp0RqDQ505KdFEaHWHu4VTRzWl52/LiscmPa3nvML/fMcQWiE0+tH841EqRG/c/UFZTsIdV12NawSgyN+NSPoICoBhGBaFliUEGCAgJCGOYYKCOBuK/jgBzr9D73A41D4aN6dlbV4nXG5pON0dWLUhIzWOkBBCEAp+r/uHxk6QXlRqz7BgYLzPVVtRuuvwr3TOs5mJ/JXjB9870m+MR93Vr5Z8PYjhkwOetob6M32CLSN9FT1H8p6OiPjp6z2tP55q7x4GsWuSEyw6bvr2LYawPZb3or1w83pqtq8IcuM/V+1yTOw4UVsIWxt7kwpeyrZiQzUFr/91oK3umThMBkONB0u/MRw49ZV9tT7EcaHZnjV/Nhhkw5YIAMuyQHkA/mNXt9yfFmQX7q2sOTsQCNkFP1iXm/nmhbvjPnOp8sm07d+PimG4BZWvI4wkbTLRFEWRJElRNE1TpJGIzNNZn95ZsnHiYg+zcrVZTdgxa1OscOzvO3PSXBB1UUoVJ7o6Atnvvmw488WxLr9KCuu7OUWlJVvnTGfJqBIS/f2u5sHkvOLX3vm4WHYerrs0pbzASKElKxqGUBQYb3vDhZiinfm2cFexaBpeFEVFSv5h94nPPm83PLcjLy3GQOt8v3x79Py4JYkc87guevEV1PTQH+6WcyNrSw7tzU8JyU+JJf83KVwFjidoc6jVEmJYgBkoisAhAMhIGnW4sogk3EAZ54guB+oiixJ5bMl9fYC6QAX+BW5Ng8jLGpGZAAAAAElFTkSuQmCC)m: số lượng giá nhân công xây dựng được thu thập, tổng hợp trong nhóm.
-
+: giá nhân công thực hiện công tác xây dựng thứ i trong nhóm nhân công xây dựng. Giá nhân công thực hiện công tác xây dựng thứ i được xác định bằng khảo sát theo hướng dẫn tại Phụ lục này (đồng/ngày công);
+m: số lượng giá nhân công xây dựng được thu thập, tổng hợp trong nhóm.
 1.6 Trường hợp đối với các khu vực vùng sâu, vùng xa (khu vực dân cư thưa thớt, nằm sâu trong rừng núi hoặc vùng ngập nước, xa các trung tâm kinh tế, văn hóa, giao thông không thuận tiện, đi lại khó khăn, điều kiện kinh tế - xã hội kém phát triển) và hải đảo, việc tổ chức khảo sát giá nhân công để công bố không thể thực hiện được thì giá nhân công xây dựng bình quân công bố cho các khu vực này được điều chỉnh nhưng không vượt quá 2 lần so với giá nhân công xây dựng bình quân đã công bố của vùng lân cận.
-
-1.7. Hồ sơ xác định giá nhân công xây dựng
-
+**1.7.** Hồ sơ xác định giá nhân công xây dựng
 Hồ sơ xác định giá nhân công xây dựng do địa phương công bố gồm:
-
 - Quyết định thành lập tổ khảo sát;
-
 - Kế hoạch khảo sát;
-
 - Thuyết minh khảo sát trong đó nêu rõ: Đặc điểm kinh tế - xã hội của các khu vực công bố giá nhân công xây dựng của tỉnh; số lượng, loại công trình đang thực hiện hoặc đã thực hiện trước thời điểm khảo sát của từng khu vực; các phiếu khảo sát lập theo mẫu; các biểu tổng hợp giá nhân công xây dựng đủ pháp lý theo quy định tại Phụ lục này;
-
 - File phần mềm tính toán giá nhân công xây dựng.
-
-1.8. Công bố giá nhân công xây dựng
-
+**1.8.** Công bố giá nhân công xây dựng
 Mẫu công bố giá nhân công xây dựng quy định tại Thông tư hướng dẫn một số nội dung, phương pháp xác định và quản lý chi phí đầu tư xây dựng của Bộ Xây dựng.
-
-__2. Quy đổi thời gian làm việc theo quy định__
-
+**2.** Quy đổi thời gian làm việc theo quy định
 Giá nhân công xây dựng được xác định cho 1 ngày công tương ứng với 8 giờ làm việc. Trường hợp số liệu khảo sát giá nhân công xây dựng cho một ngày công có số giờ công khác 8 giờ làm việc thì thực hiện quy đổi về giá nhân công xây dựng tương ứng với một ngày công như sau:
-
-![](data:image/png;base64,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)Trong đó:
-
- : giá nhân công xây dựng của công tác xây dựng thứ i được xác định cho 1 ngày công tương ứng với 8 giờ công làm việc.
-
-![](data:image/png;base64,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) : giá nhân công xây dựng của công tác xây dựng thứ i được khảo sát thu thập dữ liệu.
-
-![](data:image/png;base64,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)H: số giờ công cho một ngày công của giá nhân công xây dựng được khảo sát của công tác xây dựng thứ i.
-
-__3. Điều chỉnh giá nhân công xây dựng của địa phương__
-
+Trong đó:
+: giá nhân công xây dựng của công tác xây dựng thứ i được xác định cho 1 ngày công tương ứng với 8 giờ công làm việc.
+: giá nhân công xây dựng của công tác xây dựng thứ i được khảo sát thu thập dữ liệu.
+H: số giờ công cho một ngày công của giá nhân công xây dựng được khảo sát của công tác xây dựng thứ i.
+**3.** Điều chỉnh giá nhân công xây dựng của địa phương
 Khi thị trường nhân công xây dựng tại địa phương không có sự biến động lớn (về mặt bằng giá, nhu cầu nhân công lao động,...), giá nhân công xây dựng bình quân để công bố được xác định bằng cách điều chỉnh trên cơ sở giá nhân công xây dựng đã được công bố. Việc điều chỉnh giá nhân công xây dựng bình quân theo hướng dẫn tại mục này để công bố chỉ được thực hiện tối đa không quá 2 năm liên tiếp.
-
 Trường hợp sử dụng giá nhân công xây dựng đã được địa phương công bố để điều chỉnh, sử dụng công bố cho năm tiếp theo thì việc điều chỉnh thực hiện sau:
-
 - Việc điều chỉnh phải đảm bảo giá nhân công xây dựng đáp ứng các nguyên tắc quy định tại điểm a, b, khoản 1.2 Mục 1 Phần I của Phụ lục này.
-
 - Tương quan mức biến động giá nhân công phù hợp với khu vực thị trường.
-
 - Điều chỉnh giá nhân công xây dựng về thời điểm cần xác định để công bố theo công thức sau:
-
-![](data:image/png;base64,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)Trong đó:
-
- : giá nhân công xây dựng nhóm i tại vùng j của địa phương tại thời điểm cần xác định.
-
-![](data:image/png;base64,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)\+ i: là các nhóm nhân công xây dựng quy định tại Bảng 3.1
-
-\+ j: là các vùng theo bảng công bố giá nhân công của địa phương
-
--  : giá nhân công nhóm i tại vùng j của địa phương đã được công bố.
-
-![](data:image/png;base64,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)- K1: hệ số điều chỉnh do chi phí sinh hoạt tăng (tính theo tỷ lệ %).
-
+Trong đó:
+: giá nhân công xây dựng nhóm i tại vùng j của địa phương tại thời điểm cần xác định.
++ i: là các nhóm nhân công xây dựng quy định tại Bảng 3.1
++ j: là các vùng theo bảng công bố giá nhân công của địa phương
+- : giá nhân công nhóm i tại vùng j của địa phương đã được công bố.
+- K1: hệ số điều chỉnh do chi phí sinh hoạt tăng (tính theo tỷ lệ %).
 K1 được xác định bằng mức biến động (tăng, giảm) của chỉ số giá tiêu dùng (CPI) của địa phương trong năm liền kề trước đó.
-
--  : hệ số điều chỉnh tăng tại vùng j của địa phương khi xét đến các yếu tố khác như: nhu cầu thu hút lao động, tốc độ tăng trưởng kinh tế, khả năng cân đối vốn đầu tư xây dựng của địa phương. Hệ số  xác định không quá 15%.
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAjCAIAAAABqF3BAAAAAXNSR0IArs4c6QAAAy9JREFUSEtj/P//PwM1ABM1DAGZMWoQUkh+//Llyx/MkCU1jD4eavW2TV546xe6USQa9J9V0SU1L9xcnIUig/5/eXDuzN1Pf/4zMzNSZBAjpzDfu129LQtPv/1LkUEMzHwK6tJcf39iyQxIYfTn5w8o+Pkbat//XwgxiBsYWZgwfAWWgAfar4f7Z85Ye+XtPwZGfg3fjCwfZY6/786snDTv8LO/DMzsQjoBOanOMmw4cxTcRWzydj763/YtW7rzrbaPszIHUAezkKGF+JMtSzec+qzmF2yLxxTUvMYuoaYoxMzIL6cqyQmx+MfDM2fu8TmXTOpNs5CAOQYUPlh8h5KOmFkZGRgZWVnA6v59ubyifeYD17b+XFtxdpi6v19//GYV5GZnJhxrjKDQ/Pf90e6umoW/wjobApQ54Q74+fD0kRucFk4GQsSkoz/fP97d1ZNbfVS7oi3ZRADh5t8Pd685zJM+qy9RGUugA0tIGPh6odmMj41f09nRSFGQU9Sh5dg7JFkQ88+37z9//0MThHAx8hqbnEf10g3Tsy2ZT05vnHn0PUraY+bkYIOEIAbAkmmZOXllXQvqs23+HpzYOPUQMGURA3DkfiZh28yabFuGQ1OaJh94TYxRKAb9/wvyCMQzjCCjsmwZjkxvnLT3JaIk+/vrx/dvP34As863r99+/EL4HBFyv1/vK9Tl5lRN2/ryF0T03+udpUa8LMKWRRvuffkJCuRfT3f15cTGJmbmZcV4Ojom9O17/QeilgFm0M+H25qCtEQEBIRVfSrX3/kOEv9xb32uuZSAgIC4ulPGnDPv//7/fGZiUuqkY6+//fj++fpcf1mZoMX3f6Ma9P//7x/fPoPBV6CLoeD3D4jQ5y/fwS4CGv71K0T27+OlYUqqcWuf/UU3CGvywCH478fTXQ2+5uFTTn2BqoB7jQRjgKYc6k/0T5x45MUPuDbSDfr98khfYmDmrFOvf/779/MrzChSDfp9Z3mOV3jrzluv3r9/c393X+X08xDPkWjQ+wO1dlICQuLSMmAgreDUeu4r2CBGkGGkgB9o9SwbDw+4KCDZIFyWkljT4nY71QwCAD037Ta50pVfAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAeCAIAAABSe/KxAAAAAXNSR0IArs4c6QAAAzlJREFUSEtj/P//PwOp4PuXL385eHhYsOpjItU0BoaPh1q9bZMX3vqFXSvpJv5nVXRJzQs3F8fuRAZSTfz/5cG5M3c//fnPzMxIHTcycgrzvdvV27Lw9Nu/1DGRgZlPQV2a6+9PnPGJ6us/P39Awc/fUBf8/4UQg7iKkYUJh4fB0sjB++vh/pkz1l55+4+BkV/DNyPLR5nj77szKyfNO/zsLwMzu5BOQE6qswwbgdSB7EY2eTsf/W/7li3d+Vbbx1mZA6iVWcjQQvzJlqUbTn1W8wu2JWgcUAuqr9kl1BSFmBn55VQlOSFO+fHwzJl7fM4lk3rTLCRgzgOFIU6Po6ceZlZGBkZGVhawhn9fLq9on/nAta0/11acHab079cfv1kFudmZSYhrRlDQ//v+aHdXzcJfYZ0NAcqccCf9fHj6yA1OCycDIZLS45/vH+/u6smtPqpd0ZZsIoDwyO+Hu9cc5kmf1ZeojDOGgCUFEvh6odmMj41f09nRSFGQU9Sh5dg7VAX//3z7/vP3PzRBZC62XMgm51G9dMP0bEvmk9MbZx59j5KYmTk52CChjANgz9fMnLyyrgX12TZ/D05snHoImEKJB7hLCiZh28yabFuGQ1OaJh94TbyZ6Cb+/wvyI8SfjCAzs2wZjkxvnLT35R+4M//++vH9248fwNz57eu3H7/QczhKGP9+va9Ql5tTNW3ry18QiX+vd5Ya8bIIWxZtuPflJyhGfj3d1ZcTG5uYmZcV4+nomNC37/UfZEMYkDg/H25rCtISERAQVvWpXH/nO0jqx731ueZSAgIC4upOGXPOvP/7//OZiUmpk469/vbj++frc/1lZYIW3/+NZAqyif////7x7TMYfAV6Bgp+/4AIff7yHexGoC1fv0Jk/z5eGqakGrf22V+cJuJJZhhS/3483dXgax4+5dQXFDlUNxJtItC4Q/2J/okTj7z4gaaJLBN/vzzSlxiYOevU65///v38imomGSb+vrM8xyu8deetV+/fv7m/u69y+nlkf5Nu4vsDtXZSAkLi0jJgIK3g1HruK5LPGYFs4nMYtBT+8gWR3IFCbDw8SAUROSbidwGpLQDC/qG+iQDRjz0bDrzOCQAAAABJRU5ErkJggg==)Trên cơ sở kết quả tính toán và dữ liệu biến động giá nhân công thị trường, địa phương xem xét lựa chọn phương án điều chỉnh giá nhân công.”.
-
-__4. Phương pháp chuyển đổi giá nhân công theo nhóm trong giai đoạn chuyển tiếp__
-
+- : hệ số điều chỉnh tăng tại vùng j của địa phương khi xét đến các yếu tố khác như: nhu cầu thu hút lao động, tốc độ tăng trưởng kinh tế, khả năng cân đối vốn đầu tư xây dựng của địa phương. Hệ số xác định không quá 15%.
+Trên cơ sở kết quả tính toán và dữ liệu biến động giá nhân công thị trường, địa phương xem xét lựa chọn phương án điều chỉnh giá nhân công.”.
+**4.** Phương pháp chuyển đổi giá nhân công theo nhóm trong giai đoạn chuyển tiếp
 Trong thời gian địa phương thực hiện việc khảo sát, xây dựng giá nhân công theo các nhóm quy định tại Bảng 3.1, việc quy đổi giá nhân công từ bảng giá nhân công theo cấp bậc thợ công bố hiện hành sang bảng giá nhân công theo nhóm quy định tại Bảng 3.1 được thực hiện như sau:
-
 (1) Trên cơ sở các nhóm công tác quy định tại Bảng 3.1 và các công tác quy định tại hệ thống định mức, lựa chọn các công tác xây dựng (hoặc các loại máy và thiết bị) đại diện cho các nhóm và các cấp bậc nhân công trong nhóm (hoặc nhân công điều khiển các loại máy và thiết bị) để thực hiện tính toán quy đổi như sau:
-
 Nhóm 1: Chặt cây ở địa hình bằng phẳng; phá dỡ kết cấu bằng máy; đào móng bằng thủ công; đắp đất nền móng công trình; đắp đất nền đường; xói hút đất từ tầu hút phun, hút bụng.
-
 Nhóm 2: Đóng cọc bê tông cốt thép; bê tông tường, dầm; cốt thép tường, dầm; ván khuôn thép móng, tường; thảm bê tông nhựa; xây tường gạch.
-
 Nhóm 3: Gia công vì kèo thép; gia công cột thép; trát tường; trát trụ, cột; ốp gạch tường; lát nền, sàn; lắp đặt hệ thống điện: quạt, đèn, điều hòa cục bộ.
-
 Nhóm 4: Rải căng dây đường dây tải điện (nhôm, đồng, thép) bằng thủ công và bằng máy; lắp đặt máy biến áp; thí nghiệm độ chặt nền đường; lắp đặt máy và thiết bị cần cẩu, cầu trục.
-
 Nhóm vận hành máy, điều khiển máy: Máy đào một gầu bánh xích; cần cẩu bánh xích; máy đóng cọc tự hành bánh xích; trạm trộn bê tông; máy rải hỗn hợp bê tông nhựa; máy khoan xoay đập tự hành, khí nén (chưa tính khí nén); máy cắt uốn cốt thép.
-
 Nhóm lái xe: Cần trục ô tô; xe nâng; máy phun nhựa đường; ô tô vận tải thùng; ô tô tự đổ; ô tô chuyển trộn bê tông; xe bơm bê tông tự hành
-
 Các nhóm còn lại: Xác định bằng đơn giá nhân công bậc bình quân đã được công bố.
-
 (2) Căn cứ bảng giá nhân công đã được công bố, xác định đơn giá nhân công cho các công tác nêu trên; trên cơ sở đó tính giá trị trung bình để xác định giá nhân công bình quân cho từng nhóm.
-
 (3) Căn cứ vào mặt bằng giá nhân công địa phương và kết quả tính toán chuyển đổi, địa phương quyết định áp dụng mức giá nhân công cho các nhóm.
-
 Ví dụ chuyển đổi nhân công cho Nhóm 1:
 
-__TT__
-
-__Tên công tác xây dựng__
-
-__Bậc nhân công theo định mức xây dựng ban hành trước ngày 1/7/2026__
-
-__Đơn giá nhân công theo công bố của địa phương (đồng/ngày công)__
-
-__Giá nhân công quy đổi sang Nhóm 1 (đồng/ngày công)__
-
-1
-
-Chặt cây ở địa hình bằng phẳng
-
-Nhân công 3,0/7
-
-237.763
-
-__*241.469*__
-
-2
-
-Phá dỡ kết cấu bằng máy
-
-Nhân công 3,0/7
-
-237.763
-
-3
-
-Đào móng bằng thủ công
-
-Nhân công 3,0/7
-
-237.763
-
-4
-
-Đắp đất nền móng công trình
-
-Nhân công 3,0/7
-
-237.763
-
-5
-
-Đắp đất nền đường
-
-Nhân công 3,0/7
-
-237.763
-
-6
-
-Xói hút đất từ tầu hút phun, hút bụng
-
-Nhân công 3,5/7
-
-260.000
+| TT | Tên công tác xây dựng | Bậc nhân công theo định mức xây dựng ban hành trước ngày 1/7/2026 | Đơn giá nhân công theo công bố của địa phương (đồng/ngày công) | Giá nhân công quy đổi sang Nhóm 1 (đồng/ngày công) |
+| --- | --- | --- | --- | --- |
+| 1 | Chặt cây ở địa hình bằng phẳng | Nhân công 3,0/7 | 237.763 | 241.469 |
+| 2 | Phá dỡ kết cấu bằng máy | Nhân công 3,0/7 | 237.763 | 241.469 |
+| 3 | Đào móng bằng thủ công | Nhân công 3,0/7 | 237.763 | 241.469 |
+| 4 | Đắp đất nền móng công trình | Nhân công 3,0/7 | 237.763 | 241.469 |
+| 5 | Đắp đất nền đường | Nhân công 3,0/7 | 237.763 | 241.469 |
+| 6 | Xói hút đất từ tầu hút phun, hút bụng | Nhân công 3,5/7 | 260.000 | 241.469 |
 
 Ví dụ chuyển đổi nhân công cho Nhóm vận hành máy, điều khiển máy:
 
-__TT__
-
-__Loại máy và thiết bị__
-
-__Nhân công điều khiển máy theo bảng giá ca máy ban hành trước ngày 1/7/2026__
-
-__Đơn giá nhân công theo công bố của địa phương (đồng/ngày công)__
-
-__Giá nhân công quy đổi sang Nhóm vận hành máy, điều__ __khiển máy:__ __(đồng/ngày__ __công)__
-
-1
-
-Máy đào một gầu, bánh xích - dung tích gầu 1,60 m3
-
-1x4/7
-
-320.230
-
-__*323.788*__
-
-2
-
-Cần cẩu bánh xích - sức nâng 80t
-
-1x4/7\+1x6/7
-
-320.230 \+ 446.382 = 766.612
-
-3
-
-Máy đóng cọc tự hành, bánh xích - trọng lượng đầu búa 3,5t
-
-1x5/7
-
-376.513
-
-4
-
-Trạm trộn bê tông - năng suất 90 m3/h
-
-2x3/7\+1x5/7
-
-2\*269.770 \+ 376.513 = 916.053
-
-5
-
-Máy rải hỗn hợp bê tông nhựa - năng suất 130 cv - 140 cv
-
-1x3/7\+1x5/7
-
-269.770 \+ 376.513 = 646.283
-
-6
-
-Máy khoan xoay đập tự hành, khí nén (chưa tính khí nén) - đường kính khoan D105-110 mm
-
-1x3/7\+1x4/7
-
-269.770 \+ 320.230 = 590.000
-
-7
-
-Máy cắt uốn cốt thép - công suất 5 kW
-
-1x3/7
-
-269.770
+| TT | Loại máy và thiết bị | Nhân công điều khiển máy theo bảng giá ca máy ban hành trước ngày 1/7/2026 | Đơn giá nhân công theo công bố của địa phương (đồng/ngày công) | Giá nhân công quy đổi sang Nhóm vận hành máy, điều khiển máy: (đồng/ngày công) |
+| --- | --- | --- | --- | --- |
+| 1 | Máy đào một gầu, bánh xích - dung tích gầu 1,60 m3 | 1x4/7 | 320.230 | 323.788 |
+| 2 | Cần cẩu bánh xích - sức nâng 80t | 1x4/7+1x6/7 | 320.230 + 446.382 = 766.612 | 323.788 |
+| 3 | Máy đóng cọc tự hành, bánh xích - trọng lượng đầu búa 3,5t | 1x5/7 | 376.513 | 323.788 |
+| 4 | Trạm trộn bê tông - năng suất 90 m3/h | 2x3/7+1x5/7 | 2*269.770 + 376.513 = 916.053 | 323.788 |
+| 5 | Máy rải hỗn hợp bê tông nhựa - năng suất 130 cv - 140 cv | 1x3/7+1x5/7 | 269.770 + 376.513 = 646.283 | 323.788 |
+| 6 | Máy khoan xoay đập tự hành, khí nén (chưa tính khí nén) - đường kính khoan D105-110 mm | 1x3/7+1x4/7 | 269.770 + 320.230 = 590.000 | 323.788 |
+| 7 | Máy cắt uốn cốt thép - công suất 5 kW | 1x3/7 | 269.770 | 323.788 |
 
 Ví dụ chuyển đổi nhân công cho Nhóm lái xe:
 
-__TT__
+| TT | Loại máy và thiết bị | Nhân công điều khiển máy theo bảng giá ca máy ban hành trước ngày 1/7/2026 | Đơn giá nhân công theo công bố của địa phương (đồng/ngày công) | Giá nhân công quy đổi sang Nhóm lái xe (đồng/ngày công) |
+| --- | --- | --- | --- | --- |
+| 1 | Cần trục ô tô - sức nâng 16 t | 1x1/4+1x3/4 lái xe | 250.000 + 350.000 = 600.000 | 303.750 |
+| 2 | Xe nâng - chiều cao nâng 18 m | 1x1/4+1x3/4 lái xe | 250.000 + 350.000 = 600.000 | 303.750 |
+| 2 | Xe nâng - chiều cao nâng 18 m | 1x1/4+1x3/4 lái xe | 250.000 + 350.000 = 600.000 | 303.750 |
+| 3 | Máy phun nhựa đường - công suất 190 cv | 1x1/4+1x3/4 lái xe | 250.000 + 350.000 = 600.000 | 303.750 |
+| 3 | Máy phun nhựa đường - công suất 190 cv | 1x1/4+1x3/4 lái xe | 250.000 + 350.000 = 600.000 | 303.750 |
+| 4 | Ô tô vận tải thùng - trọng tải 10 t | 1x2/4 lái xe | 295.000 | 303.750 |
+| 5 | Ô tô tự đổ - trọng tải 15 t | 1x3/4 lái xe | 350.000 | 303.750 |
+| 6 | Ô tô chuyển trộn bê tông - dung tích thùng trộn 10,7 m3 | 1x1/4+1x3/4 lái xe | 250.000 + 350.000 = 600.000 | 303.750 |
+| 6 | Ô tô chuyển trộn bê tông - dung tích thùng trộn 10,7 m3 | 1x1/4+1x3/4 lái xe | 250.000 + 350.000 = 600.000 | 303.750 |
+| 7 | Xe bơm bê tông tự hành - năng suất 60 m3/h | 1x1/4+1x3/4 lái xe | 250.000 + 350.000 = 600.000 | 303.750 |
+| 7 | Xe bơm bê tông tự hành - năng suất 60 m3/h | 1x1/4+1x3/4 lái xe | 250.000 + 350.000 = 600.000 | 303.750 |
 
-__Loại máy và thiết bị__
 
-__Nhân công điều khiển máy theo bảng giá ca máy ban hành trước ngày 1/7/2026__
+### II. XÁC ĐỊNH GIÁ NHÂN CÔNG XÂY DỰNG CỦA CÔNG TRÌNH
 
-__Đơn giá nhân công theo công bố của địa phương (đồng/ngày công)__
-
-__Giá nhân công quy đổi sang Nhóm lái xe (đồng/ngày công)__
-
-1
-
-Cần trục ô tô - sức nâng 16 t
-
-1x1/4\+1x3/4 lái xe
-
-250.000 \+ 350.000 = 600.000
-
-__*303.750*__
-
-2
-
-Xe nâng - chiều cao nâng 18 m
-
-1x1/4\+1x3/4 lái xe
-
-250.000 \+ 350.000 = 600.000
-
-3
-
-Máy phun nhựa đường - công suất 190 cv
-
-1x1/4\+1x3/4 lái xe
-
-250.000 \+ 350.000 = 600.000
-
-4
-
-Ô tô vận tải thùng - trọng tải 10 t
-
-1x2/4 lái xe
-
-295.000
-
-5
-
-Ô tô tự đổ - trọng tải 15 t
-
-1x3/4 lái xe
-
-350.000
-
-6
-
-Ô tô chuyển trộn bê tông - dung tích thùng trộn 10,7 m3
-
-1x1/4\+1x3/4 lái xe
-
-250.000 \+ 350.000 = 600.000
-
-7
-
-Xe bơm bê tông tự hành - năng suất 60 m3/h
-
-1x1/4\+1x3/4 lái xe
-
-250.000 \+ 350.000 = 600.000
-
-__II. XÁC ĐỊNH GIÁ NHÂN CÔNG XÂY DỰNG CỦA CÔNG TRÌNH__
-
-__1. Nguồn thông tin để thực hiện khảo sát__
-
+**1.** Nguồn thông tin để thực hiện khảo sát
 a) Khảo sát trực tiếp người lao động thực hiện các công tác xây dựng phù hợp với các công tác cần xác định giá nhân công xây dựng của công trình, dự án;
-
 b) Khảo sát các doanh nghiệp thi công xây dựng công trình, doanh nghiệp có sử dụng lao động thực hiện các công tác xây dựng tương tự với các công tác xây dựng của công trình, dự án;
-
 c) Khảo sát chuyên gia có kinh nghiệm, chủ đầu tư, nhà thầu và cá nhân, tổ chức trong lĩnh vực xây dựng cần khảo sát;
-
 d) Thống kê số liệu từ hồ sơ quyết toán hoàn thành, số liệu kết quả trúng thầu của công trình xây dựng tương tự (nếu có), có điều chỉnh theo chỉ số giá nhân công xây dựng về thời điểm xác định và địa điểm xây dựng;
-
 đ) Kết hợp các nguồn thông tại các điểm a, b, c, d nêu trên.
-
-__2. Nguyên tắc khảo sát để xác định giá nhân công xây dựng__
-
+**2.** Nguyên tắc khảo sát để xác định giá nhân công xây dựng
 a) Giá nhân công xây dựng được khảo sát phải phù hợp với giá nhân công xây dựng trên thị trường xây dựng (đã bao gồm các khoản phụ cấp và bảo hiểm người lao động phải nộp theo quy định và không bao gồm các khoản bảo hiểm mà người sử dụng lao động phải nộp theo quy định). Giá nhân công xây dựng được xác định cho thời gian làm việc là 8h/ngày. Riêng đối với nhóm nhân công xây dựng làm công việc có tính chất đặc biệt thì thời gian làm việc trong một ngày theo quy định hiện hành và được quy đổi về thời gian làm việc là 8h/ngày.
-
 b) Thời điểm điều tra khảo sát giá nhân công xây dựng phải phù hợp với thời gian thực hiện dự án.
-
 c) Điều tra, khảo sát thông qua người sử dụng lao động và người lao động làm các công tác xây dựng bằng cách phỏng vấn trực tiếp hoặc gửi phiếu điều tra gián tiếp; điều tra, khảo sát thu thập các hồ sơ, tài liệu liên quan đến bảng lương của người sử dụng lao động trả cho người lao động để làm cơ sở tính toán xác định giá nhân công xây dựng công trình (các bảng lương có xác nhận của người sử dụng lao động hoặc chữ ký của người lao động).
-
-__3. Khảo sát giá nhân công xây dựng.__
-
+**3.** Khảo sát giá nhân công xây dựng.
 a) Trường hợp giá nhân công xây dựng công bố của địa phương không phù hợp với đặc thù của một số công tác xây dựng của công trình thì thực hiện khảo sát xác định giá nhân công xây dựng công trình cho từng công tác xây dựng. Mỗi công tác xây dựng cần thực hiện khảo sát với yêu cầu số lượng nguồn thông tin tối thiểu đối với 06 người lao động (nêu tại điểm a khoản 1 Mục II) hoặc 03 doanh nghiệp (nêu tại điểm b khoản 1 Mục II) hoặc 06 cá nhân, tổ chức (nêu tại điểm c khoản 1 Mục II) có kinh nghiệm đối với việc thực hiện các công tác xây dựng có điều kiện, yêu cầu thi công tương ứng với điều kiện, yêu cầu thi công của công trình.
-
 b) Trường hợp giá nhân công xây dựng công bố của địa phương không phù hợp với đặc thù của công trình, dự án (áp dụng cho tất cả các công tác xây dựng của công trình, dự án) thì thực hiện khảo sát xác định giá nhân công công trình để áp dụng cho tất cả các công tác xây dựng của công trình, dự án. Việc khảo sát giá nhân công công trình thực hiện đối với từng nhóm nhân công như quy định tại khoản 1.4 Mục I Phụ lục này và với yêu cầu số lượng nguồn thông tin tối thiểu như quy định tại điểm a nêu trên.
-
-__4. Các quy định khác__
-
+**4.** Các quy định khác
 a) Trường hợp trên khu vực, địa phương cần khảo sát thiếu đối tượng khảo sát thì có thể lựa chọn nguồn thông tin khảo sát (nêu tại điểm d khoản 1), các đối tượng khảo sát phù hợp với các đặc điểm của dự án cần khảo sát giá nhân công ở các khu vực, địa phương lân cận.
-
 b) Mẫu các phiếu điều tra khảo sát được quy định tại các Bảng 3.6, Bảng 3.7 Phụ lục này.
-
 c) Trường hợp công trình có yêu cầu đặc biệt về tiến độ hoặc cần huy động số lượng lớn nhân công trong thời gian ngắn làm biến động mặt bằng giá nhân công, chủ đầu tư được điều chỉnh giá nhân công xây dựng phù hợp với thực tế. Việc điều chỉnh phải có thuyết minh và không vượt quá 2 lần so với giá nhân công xây dựng bình quân của khu vực tương ứng.
-
-__5. Xác định giá nhân công xây dựng:__
-
+**5.** Xác định giá nhân công xây dựng:
 a) Số liệu điều tra khảo sát giá nhân công xây dựng phải được rà soát, xử lý (loại bỏ mẫu khảo sát có biến động bất thường).
-
 b) Phương pháp xác định nhân công xây dựng như quy định tại khoản 1.5 Mục I của Phụ lục này.
 
-__BẢNG 3.1__
+### BẢNG 3.1
+
+
+## DANH MỤC NHÓM NHÂN CÔNG
+
+
+| Stt | Nhân công xây dựng | Loại công tác xây dựng |
+| --- | --- | --- |
+| I | Nhóm nhân công xây dựng |  |
+| 1 | Nhóm 1 | Chuẩn bị mặt bằng, phá dỡ - tháo dỡ, vệ sinh; công tác phục vụ thi công (bốc xếp, vận chuyển, đóng bao, giàn giáo); công tác đất, đá, cát (đào, đắp, bơm, nạo vét, xói hút, vận chuyển và không gồm phá đá bằng nổ mìn). |
+| 2 | Nhóm 2 | Thi công cọc, gia cố, khoan tạo lỗ, khoan giảm áp, khớp nối, phá đá bằng khoan nổ mìn, bê tông xi măng, lắp đặt cấu kiện bê tông, ván khuôn, cốt thép, bê tông nhựa, xây gạch, đá và các công tác khác chưa được quy định tại nhóm 1, 3 và 4 bảng này. |
+| 3 | Nhóm 3 | Lắp đặt hệ thống kỹ thuật công trình; đường ray, gia công lắp dựng kết cấu gỗ, kết cấu sắt thép; cáp thép; trát, ốp, lát, láng, làm trần, mái, sơn, bả; khảo sát xây dựng. |
+| 4 | Nhóm 4 | Lắp đặt, tháo dỡ đường dây tải điện và trạm biến áp, thiết bị công nghệ, thông tin, tín hiệu, đo lường, điều khiển, thí nghiệm. |
+| II | Nhóm nhân công vận hành, điều khiển máy |  |
+| 1 | Nhân công vận hành máy, điều khiển máy |  |
+| 2 | Lái xe |  |
+| 3 | Thủy thủ, thợ máy, thợ điện. |  |
+| 4 | Máy trưởng, máy I, máy II, điện trưởng, kỹ thuật viên cuốc I, kỹ thuật viên cuốc II. |  |
+| 5 | Thuyền trưởng, thuyền phó |  |
+| III | Nhóm nhân công thực hiện các công tác khác |  |
+| 1 | Kỹ sư thực hiện khảo sát, thí nghiệm |  |
+| 2 | Thợ lặn |  |
+| 3 | Nghệ nhân |  |
+| 4 | Nhân công xây dựng và vận hành máy, thiết bị trong hầm lò |  |
+| 5 | Nhân công cơ điện mỏ hầm lò |  |
+
+Ghi chú: đối với các công tác xây dựng thuộc một số các công trình chuyên ngành, đặc thù thì thực hiện theo hướng dẫn, quy định của ngành (nếu có)
+
+### BẢNG 3.2
+
+
+| PHIẾU KHẢO SÁT TỔ ĐỘI, THU THẬP GIÁ NHÂN CÔNG XÂY DỰNG TẠI CÔNG TRÌNH | &nbsp; | &nbsp; | &nbsp; |
+| --- | --- | --- | --- |
+| Tên dự án: | Số thứ tự phiếu khảo sát: | CT.01 |  |
+| Tên công trình: | Khu vực công bố: |  |  |
+| Loại công trình: | Vùng (theo phân vùng CP): |  |  |
+| Tên chủ đầu tư: | Nguồn vốn dự án: |  |  |
+| Tên nhà thầu xây dựng: |  |  |  |
+| Địa điểm XDCT: |  |  |  |
+| Thời gian khảo sát: |  |  |  |
+| Đơn vị khảo sát: |  |  |  |
+| STT | Họ và tên | Giá nhân công xây dựng thực nhận (đ/ngc) | Ghi chú |
+| [1] | [2] | (3) | (4) |
+| 1 | Nhóm 1 | Thời gian làm việc/ca, điều kiện làm việc, … |  |
+|  | Nguyễn Văn A |  | Thời gian làm việc/ca, điều kiện làm việc, … |
+|  | Nguyễn Văn B |  | Thời gian làm việc/ca, điều kiện làm việc, … |
+|  | …. |  | Thời gian làm việc/ca, điều kiện làm việc, … |
+|  | Giá nhân công xây dựng bình quân nhóm 1 (đ/ngày công) |  | Thời gian làm việc/ca, điều kiện làm việc, … |
+| 2 | Nhóm 2 |  | Thời gian làm việc/ca, điều kiện làm việc, … |
+|  | Nguyễn Văn B |  |  |
+|  | Nguyễn Văn C |  |  |
+|  | .. |  |  |
+|  | Giá nhân công xây dựng bình quân nhóm (đ/ngày công) |  |  |
+
+
+| Đơn vị khảo sát | Đại diện nhà thầu | Đại diện cơ quan được phân công thực hiện nhiệm vụ xây dựng |
+| --- | --- | --- |
+
+
+### BẢNG 3.3
 
-__DANH MỤC NHÓM NHÂN CÔNG__
+
+| PHIẾU THỐNG KÊ GIÁ NHÂN CÔNG XÂY DỰNG TỪ KẾT QUẢ TRÚNG THẦU/SỐ LIỆU QUYẾT TOÁN CÔNG TRÌNH HOÀN THÀNH | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| --- | --- | --- | --- | --- | --- | --- |
+| Tên dự án: |  | Số thứ tự phiếu khảo sát: | QT.01 |  |  |  |
+| Tên công trình: |  | Khu vực công bố: |  |  |  |  |
+| Loại công trình: |  | Vùng (phân vùng Chính phủ): |  |  |  |  |
+| Tên chủ đầu tư: |  | Nguồn vốn dự án: |  |  |  |  |
+| Tên nhà thầu xây dựng: |  |  |  |  |  |  |
+| Địa điểm xây dựng công trình: |  |  |  |  |  |  |
+| Thời gian khảo sát: |  |  |  |  |  |  |
+| Đơn vị khảo sát: |  |  |  |  |  |  |
+| STT | Tên công tác xây dựng | ĐVT | Chi phí nhân công để thực hiện 1 đơn vị công tác xây dựng (trong hồ sơ khảo sát) | Định mức hao phí lao động thực hiện công tác xây dựng tại cột (3) (trong hồ sơ khảo sát) | Giá nhân công xây dựng được khảo sát | Ghi chú |
+| (1) | (2) |  | (3) | (4) | (5)=(3)/(4) | (6) |
+| 1 | SX, LD cốt thép BT tại chỗ, cốt thép lanh tô, giằng tường đk<10mm, chiều cao <=50m | tấn |  |  |  |  |
+| 2 | Sản xuất lắp dựng, tháo dỡ ván khuôn lanh tô, giằng tường bằng ván ép phủ phim | m2 |  |  |  |  |
+| .. | ... | ... |  |  |  |  |
+|  | Giá nhân công xây dựng bình quân nhóm (đ/ngc) |  |  |  |  |  |
+
+
+| Đơn vị khảo sát | Chủ đầu tư | Đại diện cơ quan được phân công thực hiện nhiệm vụ xây dựng |
+| --- | --- | --- |
+
+
+### BẢNG 3.4
+
+
+| PHIẾU KHẢO SÁT THU THẬP THÔNG TIN TỪ CHUYÊN GIA | &nbsp; | &nbsp; | &nbsp; |
+| --- | --- | --- | --- |
+| Tên chuyên gia: | Số thứ tự phiếu khảo sát: | CG.01 |  |
+| Đơn vị công tác: | Khu vực công bố: |  |  |
+| Số năm kinh nghiệm: | Vùng (theo phân vùng Chính phủ): |  |  |
+| Lĩnh vực công tác: |  |  |  |
+| Địa điểm khảo sát ĐGNCXD: |  |  |  |
+| Thời gian khảo sát: |  |  |  |
+| Đơn vị khảo sát: |  |  |  |
+| STT | Tên công tác | ĐGNCXD bình quân (đ/ngc) | Ghi chú |
+| [1] | [2] | [3] | [4] |
+| 1 | Gia công, lắp dựng cốt thép |  |  |
+| 2 | Đổ bê tông |  |  |
+| ... |  |  |  |
+|  | Giá nhân công xây dựng bình quân (đ/ngc) | GiXD |  |
 
-__Stt__
 
-__Nhân công xây dựng__
+| Đơn vị khảo sát | Chuyên gia | Đại diện cơ quan được phân công thực hiện nhiệm vụ xây dựng |
+| --- | --- | --- |
 
-__Loại công tác xây dựng__
 
-__I__
+### BẢNG 3.5
 
-__Nhóm nhân công xây dựng__
 
-1
+## BẢNG TỔNG HỢP GIÁ NHÂN CÔNG XÂY DỰNG TỪNG KHU VỰC CỦA ĐỊA PHƯƠNG
 
-Nhóm 1
 
-Chuẩn bị mặt bằng, phá dỡ - tháo dỡ, vệ sinh; công tác phục vụ thi công (bốc xếp, vận chuyển, đóng bao, giàn giáo); công tác đất, đá, cát (đào, đắp, bơm, nạo vét, xói hút, vận chuyển và không gồm phá đá bằng nổ mìn).
+| Thời gian tiến hành khảo sát: | Từ ngày... đến ngày.... | Mã khu vực: | I | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Khu vực 1 gồm các địa bàn: | ... | Tổng số phiếu khảo sát: |  |  |  |  |  |  |  |  |  |  |
+| STT | Loại công tác xây dựng | Giá nhân công xây dựng bình quân (đồng/ ngày) | Giá nhân công xây dựng bình quân (đ/ngc) |  |  |  |  |  |  |  |  |  |
+| STT | Số thứ tự mẫu phiếu khảo sát | CT.01 | CT.02 | .... | CG.01 | CG.02 | .... | QT.01 | QT.02 | .... |  | Giá nhân công xây dựng bình quân (đ/ngc) |
+| [1] | [2] | [3] | [4] | [5] | [6] | [7] |  | [8] | [9] | … | [n] | GXDi = [(3)+(4)+(5)+...]/n |
+| 1 | Nhóm 1: |  |  |  |  |  |  |  |  |  |  |  |
+| 2 | Nhóm 2: |  |  |  |  |  |  |  |  |  |  |  |
+| ... | ... |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-2
 
-Nhóm 2
+| ĐƠN VỊ KHẢO SÁT | ĐẠI DIỆN CƠ QUAN ĐƯỢC PHÂN CÔNG THỰC HIỆN NHIỆM VỤ XÂY DỰNG |
+| --- | --- |
 
-Thi công cọc, gia cố, khoan tạo lỗ, khoan giảm áp, khớp nối, phá đá bằng khoan nổ mìn, bê tông xi măng, lắp đặt cấu kiện bê tông, ván khuôn, cốt thép, bê tông nhựa, xây gạch, đá và các công tác khác chưa được quy định tại nhóm 1, 3 và 4 bảng này.
 
-3
+### BẢNG 3.6
 
-Nhóm 3
 
-Lắp đặt hệ thống kỹ thuật công trình; đường ray, gia công lắp dựng kết cấu gỗ, kết cấu sắt thép; cáp thép; trát, ốp, lát, láng, làm trần, mái, sơn, bả; khảo sát xây dựng.
+| PHIẾU KHẢO SÁT GIÁ NHÂN CÔNG XÂY DỰNG TẠI CÁC DOANH NGHIỆP/ TỔ CHỨC/… NƠI THỰC HIỆN DỰ ÁN | &nbsp; | &nbsp; | &nbsp; |
+| --- | --- | --- | --- |
+| Tên dự án/công trình: | Số thứ tự phiếu khảo sát: | DN.01 |  |
+| Loại công trình: | Khu vực khảo sát: |  |  |
+| Tên chủ đầu tư: | Khu vực khảo sát: |  |  |
+| Tên nhà thầu xây dựng: | Nguồn vốn dự án: |  |  |
+| Địa điểm XDCT: |  |  |  |
+| Thời gian khảo sát: |  |  |  |
+| Đơn vị khảo sát: |  |  |  |
+| STT | Họ và tên | Giá nhân công xây dựng thực nhận (đ/ngc) | Ghi chú |
+| [1] | [2] | (3) | (4) |
+| 1 | Phá dỡ tường cũ |  |  |
+|  | Nguyễn văn A | ... | ... |
+| 2 | Xây tường gạch chỉ |  |  |
+|  | Nguyễn văn B | ... | ... |
+| .... | .... |  |  |
+| ... | ... | ... | ... |
+|  |  |  |  |
 
-4
 
-Nhóm 4
+| Đơn vị khảo sát | Đại diện doanh nghiệp được khảo sát | Đại diện đơn vị Tổ chức khảo sát |
+| --- | --- | --- |
 
-Lắp đặt, tháo dỡ đường dây tải điện và trạm biến áp, thiết bị công nghệ, thông tin, tín hiệu, đo lường, điều khiển, thí nghiệm.
 
-__II__
+### BẢNG 3.7
 
-__Nhóm nhân công vận hành, điều khiển máy__
 
-1
+| PHIẾU KHẢO SÁT GIÁ NHÂN CÔNG XÂY DỰNG NGƯỜI LAO ĐỘNG TRỰC TIẾP | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| --- | --- | --- | --- | --- |
+| Thời gian khảo sát | Loại công tác xây dựng | Loại I |  |  |
+| Khu vực khảo sát | Số thứ tự phiếu khảo sát | LĐIV.01 |  |  |
+| Đơn vị khảo sát |  |  |  |  |
+| STT | Họ và tên | Giá nhân công xây dựng thực nhận (đ/ngc) | Công tác xây dựng đảm nhiệm | Ghi chú |
+| (1) | (2) | (3) | (4) | (5) |
+| 1 | Nguyễn Văn A | ... | Đổ bê tông sàn mái | ... |
+| 2 | ... | ... | ... | ... |
+|  | Giá nhân công xây dựng bình quân (đ/ngc) |  |  |  |
 
-Nhân công vận hành máy, điều khiển máy
 
-2
+| Đơn vị khảo sát | Đại diện đơn vị Tổ chức khảo sát |
+| --- | --- |
 
-Lái xe
-
-3
-
-Thủy thủ, thợ máy, thợ điện.
-
-4
-
-Máy trưởng, máy I, máy II, điện trưởng, kỹ thuật viên cuốc I, kỹ thuật viên cuốc II.
-
-5
-
-Thuyền trưởng, thuyền phó
-
-__III__
-
-__Nhóm nhân công thực hiện các công tác khác__
-
-1
-
-Kỹ sư thực hiện khảo sát, thí nghiệm
-
-2
-
-Thợ lặn
-
-3
-
-Nghệ nhân
-
-4
-
-Nhân công xây dựng và vận hành máy, thiết bị trong hầm lò
-
-5
-
-Nhân công cơ điện mỏ hầm lò
-
-*Ghi chú: đối với các công tác xây dựng thuộc một số các công trình chuyên ngành, đặc thù thì thực hiện theo hướng dẫn, quy định của ngành (nếu có)*
-
-__BẢNG 3.2__
-
-__PHIẾU KHẢO SÁT TỔ ĐỘI, THU THẬP GIÁ NHÂN CÔNG XÂY DỰNG TẠI CÔNG TRÌNH__
-
-__Tên dự án:__
-
-__Số thứ tự phiếu khảo sát:__
-
-CT.01
-
-__Tên công trình:__
-
-__Khu vực công bố:__
-
-__Loại công trình:__
-
-__Vùng (theo phân vùng CP):__
-
-__Tên chủ đầu tư:__
-
-__Nguồn vốn dự án:__
-
-__Tên nhà thầu xây dựng:__
-
-__Địa điểm XDCT:__
-
-__Thời gian khảo sát:__
-
-__Đơn vị khảo sát:__
-
-__STT__
-
-__Họ và tên__
-
-__Giá nhân công xây dựng thực nhận (đ/ngc)__
-
-__Ghi chú__
-
-\[1\]
-
-\[2\]
-
-(3)
-
-(4)
-
-1
-
-Nhóm 1
-
-*Thời gian làm việc/ca, điều kiện làm việc, …*
-
-Nguyễn Văn A
-
-Nguyễn Văn B
-
-….
-
-Giá nhân công xây dựng bình quân nhóm 1 (đ/ngày công)
-
-2
-
-Nhóm 2
-
-Nguyễn Văn B
-
-Nguyễn Văn C
-
-..
-
-Giá nhân công xây dựng bình quân nhóm (đ/ngày công)
-
-__Đơn vị khảo sát__
-
-__Đại diện nhà thầu__
-
-__Đại diện cơ quan được phân công thực hiện nhiệm vụ xây dựng__
-
-__BẢNG 3.3__
-
-__PHIẾU THỐNG KÊ GIÁ NHÂN CÔNG XÂY DỰNG TỪ KẾT QUẢ TRÚNG THẦU/SỐ LIỆU QUYẾT TOÁN CÔNG TRÌNH HOÀN THÀNH__
-
-__Tên dự án:__
-
-__Số thứ tự phiếu khảo sát:__
-
-QT.01
-
-__Tên công trình:__
-
-__Khu vực công bố:__
-
-__Loại công trình:__
-
-__Vùng (phân vùng Chính phủ):__
-
-__Tên chủ đầu tư:__
-
-__Nguồn vốn dự án:__
-
-__Tên nhà thầu xây dựng:__
-
-__Địa điểm xây dựng công trình:__
-
-__Thời gian khảo sát:__
-
-__Đơn vị khảo sát:__
-
-__STT__
-
-__Tên công tác xây dựng__
-
-__ĐVT__
-
-__Chi phí nhân công để thực hiện 1 đơn vị công tác xây__ __dựng (trong hồ sơ khảo sát)__
-
-__Định mức hao phí lao động thực hiện công tác xây dựng__ __tại cột (3) (trong hồ sơ khảo sát)__
-
-__Giá nhân công xây dựng được khảo sát__
-
-__Ghi chú__
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)=(3)/(4)
-
-(6)
-
-1
-
-SX, LD cốt thép BT tại chỗ, cốt thép lanh tô, giằng tường đk<10mm, chiều cao <=50m
-
-tấn
-
-2
-
-Sản xuất lắp dựng, tháo dỡ ván khuôn lanh tô, giằng tường bằng ván ép phủ phim
-
-m2
-
-..
-
-...
-
-...
-
-Giá nhân công xây dựng bình quân nhóm (đ/ngc)
-
-__Đơn vị khảo sát__
-
-__Chủ đầu tư__
-
-__Đại diện cơ quan được phân công thực hiện nhiệm vụ xây dựng__
-
-__BẢNG 3.4__
-
-__PHIẾU KHẢO SÁT THU THẬP THÔNG TIN TỪ CHUYÊN GIA__
-
-__Tên chuyên gia:__
-
-__Số thứ tự phiếu khảo sát:__
-
-CG.01
-
-__Đơn vị công tác:__
-
-__Khu vực công bố:__
-
-__Số năm kinh nghiệm:__
-
-__Vùng (theo phân vùng Chính phủ):__
-
-__Lĩnh vực công tác:__
-
-__Địa điểm khảo sát ĐGNCXD:__
-
-__Thời gian khảo sát:__
-
-__Đơn vị khảo sát:__
-
-__STT__
-
-__Tên công tác__
-
-__ĐGNCXD bình quân (đ/ngc)__
-
-__Ghi chú__
-
-\[1\]
-
-\[2\]
-
-\[3\]
-
-\[4\]
-
-1
-
-Gia công, lắp dựng cốt thép
-
-2
-
-Đổ bê tông
-
-...
-
-Giá nhân công xây dựng bình quân (đ/ngc)
-
-GiXD
-
-__Đơn vị khảo sát__
-
-__Chuyên gia__
-
-__Đại diện cơ quan được phân công thực hiện nhiệm vụ xây dựng__
-
-__BẢNG 3.5__
-
-__BẢNG TỔNG HỢP GIÁ NHÂN CÔNG XÂY DỰNG TỪNG KHU VỰC CỦA ĐỊA PHƯƠNG__
-
-__Thời gian tiến hành khảo sát:__
-
-Từ ngày... đến ngày....
-
-Mã khu vực:
-
-I
-
-__Khu vực 1 gồm các địa bàn:__
-
-...
-
-Tổng số phiếu khảo sát:
-
-__STT__
-
-__Loại công tác__ __xây dựng__
-
-__Giá nhân công xây dựng bình quân (đồng/ ngày)__
-
-__Giá nhân công xây dựng bình quân (đ/ngc)__
-
-__Số thứ tự mẫu__ __phiếu khảo sát__
-
-CT.01
-
-CT.02
-
-....
-
-CG.01
-
-CG.02
-
-....
-
-QT.01
-
-QT.02
-
-....
-
-\[1\]
-
-\[2\]
-
-\[3\]
-
-\[4\]
-
-\[5\]
-
-\[6\]
-
-\[7\]
-
-\[8\]
-
-\[9\]
-
-…
-
-\[n\]
-
-GXDi = \[(3)\+(4)\+(5)\+...\]/n
-
-1
-
-Nhóm 1:
-
-2
-
-Nhóm 2:
-
-...
-
-...
-
-__ĐƠN VỊ KHẢO SÁT__
-
-__ĐẠI DIỆN CƠ QUAN ĐƯỢC PHÂN CÔNG THỰC HIỆN NHIỆM VỤ XÂY DỰNG__
-
-__BẢNG 3.6__
-
-__PHIẾU KHẢO SÁT GIÁ NHÂN CÔNG XÂY DỰNG TẠI CÁC DOANH NGHIỆP/ TỔ CHỨC/… NƠI THỰC HIỆN DỰ ÁN__
-
-__Tên dự án/công trình:__
-
-__Số thứ tự phiếu khảo sát:__
-
-DN.01
-
-__Loại công trình:__
-
-__Khu vực khảo sát:__
-
-__Tên chủ đầu tư:__
-
-__Tên nhà thầu xây dựng:__
-
-__Nguồn vốn dự án:__
-
-__Địa điểm XDCT:__
-
-__Thời gian khảo sát:__
-
-__Đơn vị khảo sát:__
-
-__STT__
-
-__Họ và tên__
-
-__Giá nhân công xây dựng thực nhận (đ/ngc)__
-
-__Ghi chú__
-
-\[1\]
-
-\[2\]
-
-(3)
-
-(4)
-
-1
-
-Phá dỡ tường cũ
-
-Nguyễn văn A
-
-...
-
-...
-
-2
-
-Xây tường gạch chỉ
-
-Nguyễn văn B
-
-...
-
-...
-
-....
-
-....
-
-...
-
-...
-
-...
-
-...
-
-__Đơn vị khảo sát__
-
-__Đại diện doanh nghiệp được khảo sát__
-
-__Đại diện đơn vị Tổ chức khảo sát__
-
-__BẢNG 3.7__
-
-__PHIẾU KHẢO SÁT GIÁ NHÂN CÔNG XÂY DỰNG NGƯỜI LAO ĐỘNG TRỰC TIẾP__
-
-__Thời gian khảo sát__
-
-__Loại công tác xây dựng__
-
-Loại I
-
-__Khu vực khảo sát__
-
-__Số thứ tự phiếu khảo sát__
-
-LĐIV.01
-
-__Đơn vị khảo sát__
-
-__STT__
-
-__Họ và tên__
-
-__Giá nhân công xây__ __dựng thực nhận (đ/ngc)__
-
-__Công tác xây dựng đảm nhiệm__
-
-__Ghi chú__
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-1
-
-Nguyễn Văn A
-
-...
-
-Đổ bê tông sàn mái
-
-...
-
-2
-
-...
-
-...
-
-...
-
-...
-
-Giá nhân công xây dựng bình quân (đ/ngc)
-
-__Đơn vị khảo sát__
-
-__Đại diện đơn vị Tổ chức khảo sát__

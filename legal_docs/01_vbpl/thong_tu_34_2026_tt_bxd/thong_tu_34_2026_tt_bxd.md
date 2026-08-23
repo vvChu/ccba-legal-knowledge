@@ -202,9 +202,3 @@ b) Việc điều chỉnh thiết kế xây dựng làm thay đổi về mức �
 - 📄 **[Phụ lục I: PHÂN CẤP CÔNG TRÌNH XÂY DỰNG THEO MỨC ĐỘ QUAN TRỌNG HOẶC QUY MÔ CÔNG SUẤT](./templates/phu_luc_i_phân_cấp_công_trình_xây_dựng_theo_mức_độ.md)**
 - 📄 **[Phụ lục II: PHÂN CẤP CÔNG TRÌNH XÂY DỰNG THEO QUY MÔ KẾT CẤU](./templates/phu_luc_ii_phân_cấp_công_trình_xây_dựng_theo_quy_mô.md)**
 - 📄 **[Phụ lục III: VÍ DỤ XÁC ĐỊNH CẤP CÔNG TRÌNH VÀ ÁP DỤNG CẤP CÔNG TRÌNH TRONG QUẢN LÝ HOẠT ĐỘNG XÂY DỰNG](./templates/phu_luc_iii_ví_dụ_xác_định_cấp_công_trình_và_áp_dụng.md)**
-- 📊 **[bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong](./tables/csv/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.csv)**
-- 📊 **[bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong](./tables/csv/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.csv)**
-- 📊 **[bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong](./tables/csv/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.csv)**
-- 📊 **[bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong](./tables/csv/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.csv)**
-- 📊 **[bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong](./tables/csv/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.csv)**
-- 📊 **[bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong](./tables/csv/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.csv)**

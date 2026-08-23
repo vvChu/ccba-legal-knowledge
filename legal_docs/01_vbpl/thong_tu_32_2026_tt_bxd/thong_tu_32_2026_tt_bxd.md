@@ -224,4 +224,3 @@ __* *__
 > [!TIP]
 > Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 
-- 📊 **[bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong](./tables/csv/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.csv)**

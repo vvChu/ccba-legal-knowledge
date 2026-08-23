@@ -875,7 +875,3 @@ d) Cụm từ “quyết toán vốn đầu tư công dự án hoàn thành” t
 > [!TIP]
 > Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 
-- 📊 **[bang_02](./tables/csv/bang_02.csv)**
-- 📊 **[bang_03](./tables/csv/bang_03.csv)**
-- 📊 **[bang_04](./tables/csv/bang_04.csv)**
-- 📊 **[bang_07](./tables/csv/bang_07.csv)**

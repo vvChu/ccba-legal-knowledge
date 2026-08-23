@@ -1524,9 +1524,3 @@ Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban 
 - 📄 **[Phụ lục III - Mẫu 12: TỔ CHỨC/CÁ NHÂN](./templates/phu_luc_iii/mau_12_tổ_chức_cá_nhân.md)**
 - 📄 **[Phụ lục III - Mẫu 13: CÔNG TY.........](./templates/phu_luc_iii/mau_13_công_ty.md)**
 - 📄 **[Phụ lục IV: KÝ HIỆU NƠI CẤP CHỨNG CHỈ HÀNH NGHỀ HOẠT ĐỘNG XÂY DỰNG](./templates/phu_luc_iv_ký_hiệu_nơi_cấp_chứng_chỉ_hành_nghề_hoạt.md)**
-- 📊 **[bang_03](./tables/csv/bang_03.csv)**
-- 📊 **[bang_04](./tables/csv/bang_04.csv)**
-- 📊 **[bang_06](./tables/csv/bang_06.csv)**
-- 📊 **[bang_08](./tables/csv/bang_08.csv)**
-- 📊 **[bang_12](./tables/csv/bang_12.csv)**
-- 📊 **[bang_27](./tables/csv/bang_27.csv)**
