@@ -398,9 +398,3 @@ __ __
 - 📄 **[Phụ lục II: DANH MỤC SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG THUỘC NHÓM RỦI RO CAO](./templates/phu_luc_ii_danh_mục_sản_phẩm_hàng_hóa_vật_liệu_xây_.md)**
 - 📄 **[Phụ lục III: DANH MỤC SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG THUỘC NHÓM RỦI RO TRUNG BÌNH](./templates/phu_luc_iii_danh_mục_sản_phẩm_hàng_hóa_vật_liệu_xây_.md)**
 - 📄 **[Phụ lục IV: BÁO CÁO TÌNH HÌNH KIỂM TRA CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA VẬT LIỆU XÂY DỰNG](./templates/phu_luc_iv_báo_cáo_tình_hình_kiểm_tra_chất_lượng_sả.md)**
-- 📊 **[bang_03](./tables/csv/bang_03.csv)**
-- 📊 **[bang_04](./tables/csv/bang_04.csv)**
-- 📊 **[bang_05](./tables/csv/bang_05.csv)**
-- 📊 **[bang_07](./tables/csv/bang_07.csv)**
-- 📊 **[bang_08](./tables/csv/bang_08.csv)**
-- 📊 **[bang_09](./tables/csv/bang_09.csv)**
