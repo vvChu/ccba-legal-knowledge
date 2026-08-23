@@ -70,14 +70,39 @@
 18. **ADR 0018:** Git-Ratchet Multi-Platform Knowledge Sync & Dual-Store Topology (NotebookLM + Local Spark Vector DB).
 19. **ADR 0019:** Tiered Audit Persona & Client Self-Audit Affidavit Engine (Automated PCCC Affidavit per ND 105/2025).
 20. **ADR 0020:** Hybrid Symbolic Formula Solver Engine (LLM parameter extractor + deterministic Python formula solvers in `formulas/`).
+21. **ADR 0021:** OKF v2.2 Pure Normative Body & Atomic Form Templates (Shallow path, 100% clean normative body, modular templates/ and tables/).
+22. **ADR 0022:** OKF v2.2 QCVN Modular Annexes Architecture.
+23. **ADR 0023:** Full Comprehensive NotebookLM Ingestion Strategy for Ultra Tier (500-600 sources quota, 100% full unified coverage).
+24. **ADR 0024:** Dual-Track Provenance with Footnote Anchor for Consolidated Legal Norms.
+25. **ADR 0025:** Strict Zero-Tolerance Provenance Enactment Gate for Legal Ingestion (Mandatory genuine binary source DOCX/PDF SHA-256).
+26. **ADR 0026:** Package-Based Downstream Legal Knowledge Distribution via `ccba-legal-intel` SDK.
 
-## 4. Rào Chắn Kiểm Toán Tự Động (Quality Gates)
+---
 
-Mọi đóng góp dữ liệu mới vào Spoke bắt buộc phải chạy và vượt qua 3 script kiểm toán với `0 Errors, 0 Warnings, 100% Parity`:
+## 4. Mẫu Hình & Bài Học Đột Phá Đúc Kết (Core Evidence-Backed Learnings)
+
+### A. Rào Chắn Nguồn Gốc Nhị Phân (Strict Binary Provenance vs Synthetic Data)
+- **Anti-Pattern (AP-01):** Khi thiếu file Word gốc, Agent tự ý cào HTML từ web hoặc viết code tự sinh file DOCX nhân tạo (Synthetic DOCX) dẫn đến việc lọt mã JavaScript/quảng cáo rác hoặc đứt gãy paragraph.
+- **Core Pattern (P-01):** Bắt buộc 100% tài liệu phải được tải trực tiếp từ máy chủ TVPL VIP hoặc Cổng Dữ liệu Quốc gia qua Deep Seam `TVPLCrawler` (Chrome CDP + Cloudflare Solver) và lưu vào `.md/extracted_docs/<slug>/` trước khi bóc tách.
+
+### B. Thân Văn Bản Thuần Khiết (Pure Normative Body & Scoped Noise Stripping)
+- **Core Pattern (P-02):** Loại bỏ 100% rác layout hành chính (Quốc hiệu, Tiêu ngữ, Nơi nhận, Chữ ký Chủ tịch Quốc hội / Bộ trưởng, mã JS/HTML) khỏi thân Markdown chính.
+- Tách toàn bộ hơn 90 biểu mẫu hành chính thành Module Biểu mẫu Nguyên tử (`templates/`) và hơn 100 bảng số liệu thành (`tables/`).
+
+### C. Kích Hoạt Tự Động Workflow Theo Ngữ Cảnh (Contextual Auto-Triggering)
+- **Core Pattern (P-03):** Đặt `disable-model-invocation: false` trong YAML frontmatter và mở rộng mô tả ngữ cảnh song ngữ (tiếng Việt / tiếng Anh) cho các workflow trọng yếu (`ccba-legal-intel`, `ccba-tvpl-vip-crawler`, `ccba-convert-markdown`, `ccba-update-legal-registry`, `ccba-eval-gate`, `ccba-ai-qc-pccc-audit`) để Agent tự động nhận diện và kích hoạt đúng quy trình không cần người dùng gõ lệnh thủ công.
+
+---
+
+## 5. Rào Chắn Kiểm Toán Tự Động 5 Cổng CI Gates (Zero-Tolerance Quality Gates)
+
+Mọi đóng góp dữ liệu mới vào Spoke bắt buộc phải chạy và vượt qua toàn bộ 5 script kiểm toán với `0 Errors, 0 Warnings, 100% Valid Links, 100% PDF SHA-256 Match, 100% Visual Parity`:
 ```bash
 python scripts/validate_legal_spoke.py
-python scripts/verify_knowledge_integrity.py
+python scripts/test_converter_regression.py
+python scripts/audit_visual_parity.py
 python scripts/verify_cross_links.py
+python scripts/verify_all_docs_against_pdf.py
 ```
 
 ---
