@@ -346,24 +346,31 @@ c) Việc quản lý, sử dụng chi phí dự phòng;
 
 ---
 
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
+---
+
+## 📑 HỆ THỐNG PHỤ LỤC & BIỂU MẪU KÈM THEO
 
 > [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
+> Toàn bộ 8 Phụ lục phương pháp và hệ thống Biểu mẫu thẩm định/công bố giá của Thông tư đã được chuẩn hóa thành các Module nguyên tử độc lập tại [`./templates/`](./templates/):
 
-- 📄 **[Phụ lục I: PHƯƠNG PHÁP XÁC ĐỊNH SƠ BỘ TỔNG MỨC ĐẦU TƯ XÂY DỰNG, TỔNG MỨC ĐẦU TƯ XÂY DỰNG](./templates/phu_luc_i_phương_pháp_xác_định_sơ_bộ_tổng_mức_đầu_.md)**
-- 📄 **[Phụ lục II: PHƯƠNG PHÁP XÁC ĐỊNH DỰ TOÁN XÂY DỰNG](./templates/phu_luc_ii_phương_pháp_xác_định_dự_toán_xây_dựng.md)**
-- 📄 **[Phụ lục III: PHƯƠNG PHÁP XÁC ĐỊNH CHI PHÍ XÂY DỰNG](./templates/phu_luc_iii_phương_pháp_xác_định_chi_phí_xây_dựng.md)**
-- 📄 **[Phụ lục IV: PHƯƠNG PHÁP XÁC ĐỊNH GIÁ CÔNG TÁC XÂY DỰNG VÀ GIÁ NHÓM CÔNG TÁC XÂY DỰNG](./templates/phu_luc_iv_phương_pháp_xác_định_giá_công_tác_xây_dự.md)**
-- 📄 **[Phụ lục V: PHƯƠNG PHÁP XÁC ĐỊNH DỰ TOÁN CHI PHÍ KHẢO SÁT XÂY DỰNG VÀ CHI PHÍ THÍ NGHIỆM CHUYÊN NGÀNH XÂY DỰNG](./templates/phu_luc_v_phương_pháp_xác_định_dự_toán_chi_phí_khả.md)**
-- 📄 **[Phụ lục VI: PHƯƠNG PHÁP XÁC ĐỊNH DỰ TOÁN CHI PHÍ TƯ VẤN](./templates/phu_luc_vi_phương_pháp_xác_định_dự_toán_chi_phí_tư_.md)**
-- 📄 **[Phụ lục VII - Mẫu 01: CÔNG BỐ GIÁ VẬT LIỆU XÂY DỰNG THÁNG/QUÝ…. NĂM… TRÊN ĐỊA BÀN TỈNH/THÀNH PHỐ](./templates/phu_luc_vii/mau_01_công_bố_giá_vật_liệu_xây_dựng_tháng_quý_.md)**
-- 📄 **[Phụ lục VII - Mẫu 02: CÔNG BỐ GIÁ NHÂN CÔNG XÂY DỰNG NĂM… TRÊN ĐỊA BÀN TỈNH/THÀNH PHỐ](./templates/phu_luc_vii/mau_02_công_bố_giá_nhân_công_xây_dựng_năm_trên_.md)**
-- 📄 **[Phụ lục VII - Mẫu 03: STT](./templates/phu_luc_vii/mau_03_stt.md)**
-- 📄 **[Phụ lục VIII - Mẫu 01: ĐƠN VỊ THẨM TRA](./templates/phu_luc_viii/mau_01_đơn_vị_thẩm_tra.md)**
-- 📄 **[Phụ lục VIII - Mẫu 02: CƠ QUAN CHUYÊN MÔN](./templates/phu_luc_viii/mau_02_cơ_quan_chuyên_môn.md)**
-- 📄 **[Phụ lục VIII - Mẫu 03: CƠ QUAN/ĐƠN VỊ ĐƯỢC NGƯỜI QUYẾT ĐỊNH ĐẦU TƯ GIAO THẨM ĐỊNH](./templates/phu_luc_viii/mau_03_cơ_quan_đơn_vị_được_người_quyết_định_đầu.md)**
-- 📄 **[Phụ lục VIII - Mẫu 04: CHỦ ĐẦU TƯ](./templates/phu_luc_viii/mau_04_chủ_đầu_tư.md)**
-- 📄 **[Phụ lục VIII - Mẫu 05: ĐƠN VỊ THẨM TRA](./templates/phu_luc_viii/mau_05_đơn_vị_thẩm_tra.md)**
-- 📄 **[Phụ lục VIII - Mẫu 06: CƠ QUAN CHUYÊN MÔN](./templates/phu_luc_viii/mau_06_cơ_quan_chuyên_môn.md)**
-- 📄 **[Phụ lục VIII - Mẫu 07: CƠ QUAN/ĐƠN VỊ3](./templates/phu_luc_viii/mau_07_cơ_quan_đơn_vị3.md)**
+### 📚 Các Module Phương Pháp Xác Định Chi Phí (Phụ lục I - VI):
+- 📄 [Phụ lục I: Phương pháp xác định sơ bộ tổng mức đầu tư, tổng mức đầu tư](./templates/phu_luc_i_phuong_phap_xac_dinh_so_bo_tong_muc_dau_tu.md)
+- 📄 [Phụ lục II: Phương pháp xác định dự toán xây dựng](./templates/phu_luc_ii_phuong_phap_xac_dinh_du_toan_xay_dung.md)
+- 📄 [Phụ lục III: Phương pháp xác định chi phí xây dựng](./templates/phu_luc_iii_phuong_phap_xac_dinh_chi_phi_xay_dung.md)
+- 📄 [Phụ lục IV: Phương pháp xác định giá công tác xây dựng và giá nhóm công tác](./templates/phu_luc_iv_phuong_phap_xac_dinh_gia_cong_tac_xay_dung.md)
+- 📄 [Phụ lục V: Phương pháp xác định dự toán chi phí khảo sát và thí nghiệm chuyên ngành](./templates/phu_luc_v_phuong_phap_xac_dinh_du_toan_chi_phi_khao_sat.md)
+- 📄 [Phụ lục VI: Phương pháp xác định dự toán chi phí tư vấn](./templates/phu_luc_vi_phuong_phap_xac_dinh_du_toan_chi_phi_tu_van.md)
+
+### 📋 Hệ Thống Mẫu Biểu Công Bố Giá (Phụ lục VII):
+- 📋 [Phụ lục VII - Mẫu số 01: Công bố giá vật liệu xây dựng](./templates/phu_luc_vii/mau_01_cong_bo_gia_vat_lieu_xay_dung.md)
+- 📋 [Phụ lục VII - Mẫu số 02: Công bố giá nhân công xây dựng](./templates/phu_luc_vii/mau_02_cong_bo_gia_nhan_cong_xay_dung.md)
+- 📋 [Phụ lục VII - Mẫu số 03: Công bố giá ca máy và thiết bị thi công](./templates/phu_luc_vii/mau_03_cong_bo_gia_ca_may_va_thiet_bi_thi_cong.md)
+
+### 📋 Hệ Thống Mẫu Biểu Báo Cáo Thẩm Tra, Thẩm Định (Phụ lục VIII):
+- 📋 [Phụ lục VIII - Mẫu số 01: Báo cáo kết quả thẩm tra tổng mức đầu tư xây dựng](./templates/phu_luc_viii/mau_01_bao_cao_ket_qua_tham_tra_tong_muc_dau_tu.md)
+- 📋 [Phụ lục VIII - Mẫu số 02: Thông báo kết quả thẩm định tổng mức đầu tư (CQ chuyên môn)](./templates/phu_luc_viii/mau_02_thong_bao_ket_qua_tham_dinh_tong_muc_dau_tu_co_quan_chuyen_mon.md)
+- 📋 [Phụ lục VIII - Mẫu số 03: Thông báo kết quả thẩm định tổng mức đầu tư (CQ được giao)](./templates/phu_luc_viii/mau_03_thong_bao_ket_qua_tham_dinh_tong_muc_dau_tu_co_quan_duoc_giao.md)
+- 📋 [Phụ lục VIII - Mẫu số 04: Báo cáo kết quả thẩm định tổng mức đầu tư (Chủ đầu tư)](./templates/phu_luc_viii/mau_04_bao_cao_ket_qua_tham_dinh_tong_muc_dau_tu_chu_dau_tu.md)
+- 📋 [Phụ lục VIII - Mẫu số 05: Báo cáo kết quả thẩm tra dự toán xây dựng công trình](./templates/phu_luc_viii/mau_05_bao_cao_ket_qua_tham_tra_du_toan_xay_dung.md)
+- 📋 [Phụ lục VIII - Mẫu số 06: Thông báo kết quả thẩm định dự toán xây dựng (CQ chuyên môn)](./templates/phu_luc_viii/mau_06_thong_bao_ket_qua_tham_dinh_du_toan_co_quan_chuyen_mon.md)
+- 📋 [Phụ lục VIII - Mẫu số 07: Báo cáo kết quả thẩm định dự toán xây dựng (Chủ đầu tư)](./templates/phu_luc_viii/mau_07_bao_cao_ket_qua_tham_dinh_du_toan_chu_dau_tu.md)

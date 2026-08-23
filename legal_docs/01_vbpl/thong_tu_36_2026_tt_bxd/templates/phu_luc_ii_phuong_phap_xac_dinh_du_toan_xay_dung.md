@@ -1,12 +1,12 @@
 ---
-title: "PHỤ LỤC II"
+title: "PHƯƠNG PHÁP XÁC ĐỊNH DỰ TOÁN XÂY DỰNG"
 document: "36/2026/TT-BXD"
-appendix: "Phụ lục 2"
+appendix: "Phụ lục II"
 type: "form_template"
 usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
 
-# PHỤ LỤC II
+# PHỤ LỤC II - PHƯƠNG PHÁP XÁC ĐỊNH DỰ TOÁN XÂY DỰNG
 *(Ban hành kèm theo Thông tư số 36/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
 
 ---
