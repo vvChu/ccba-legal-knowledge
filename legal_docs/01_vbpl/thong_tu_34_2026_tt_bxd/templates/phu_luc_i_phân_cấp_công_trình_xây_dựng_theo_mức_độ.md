@@ -14,6 +14,7 @@ usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC A
 
 ## PHỤ LỤC I
 
+
 PHÂN CẤP CÔNG TRÌNH XÂY DỰNG THEO MỨC ĐỘ QUAN TRỌNG HOẶC QUY MÔ CÔNG SUẤT (Ban hành kèm theo Thông tư số 34/2026/TT-BXD ngày 25 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)
 
 ### Bảng 1.1 Phân cấp công trình sử dụng cho mục đích dân dụng (công trình dân dụng)
@@ -44,8 +45,11 @@ PHÂN CẤP CÔNG TRÌNH XÂY DỰNG THEO MỨC ĐỘ QUAN TRỌNG HOẶC QUY M�
 | 1.1.7 | Trụ sở cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội | Mức độ quan trọng | Nhà Quốc hội, Phủ Chủ tịch, Trụ sở Chính phủ, Trụ sở Trung ương Đảng; các công trình đặc biệt quan trọng khác | Trụ sở làm việc của: Tỉnh ủy; HĐND, UBND cấp tỉnh; Bộ; Tòa án nhân dân, Viện kiểm sát nhân dân tối cao | Trụ sở làm việc: cấp Cục, cấp Sở và cấp tương đương; Tòa án nhân dân, Viện kiểm sát nhân dân cấp tỉnh, khu vực | Trụ sở làm việc của: Đảng ủy, HĐND, UBND cấp xã và cấp tương đương |  |
 | 1.1.8 | Cơ sở vận hành lò phản ứng hạt nhân nghiên cứu | Công suất nhiệt thiết kế (MWt) | ≥20 | 2 ÷ <20 | <2 |  |  |
 
+
 Ghi chú:
+
 - Công trình dân dụng khác có mục đích sử dụng phù hợp với loại công trình nêu trong Bảng 1.1 thì sử dụng Bảng 1.1 để xác định cấp theo mức độ quan trọng hoặc quy mô công suất.
+
 - Tham khảo các ví dụ xác định cấp công trình dân dụng trong Phụ lục III.
 
 ### Bảng 1.2 Phân cấp công trình sử dụng cho mục đích sản xuất công nghiệp (công trình công nghiệp)
@@ -198,9 +202,13 @@ Ghi chú:
 | 1.2.7 | c) Nhà máy xay xát, lau bóng gạo | TSL (nghìn tấn sản phẩm/năm) |  | >200 | 100 ÷ 200 | 1 ÷ <100 | <1 |
 | 1.2.8 | Cơ sở chuyển hoá, làm giàu urani; cơ sở chế tạo, tái chế nhiên liệu hạt nhân; cơ sở lưu giữ, xử lý, chôn cất nhiên liệu hạt nhân đã qua sử dụng | Mức độ quan trọng | Cấp đặc biệt với mọi quy mô |  |  |  |  |
 
+
 Ghi chú:
+
 - Công trình công nghiệp khác có mục đích sử dụng phù hợp với loại công trình nêu trong Bảng 1.2 thì sử dụng Bảng 1.2 để xác định cấp theo mức độ quan trọng hoặc quy mô công suất.
+
 - Các chữ viết tắt trong Bảng 1.2: QTC là quy tiêu chuẩn; TCS là Tổng công suất, TSL là Tổng sản lượng, Tổng công suất (hoặc Tổng sản lượng) được tính cho toàn bộ các dây chuyền công nghệ thuộc dự án.
+
 - Tham khảo các ví dụ xác định cấp công trình công nghiệp trong Phụ lục III.
 
 ### Bảng 1.3 Phân cấp công trình cung cấp cơ sở, tiện ích hạ tầng kỹ thuật (công trình hạ tầng kỹ thuật)
@@ -234,10 +242,15 @@ Ghi chú:
 | 1.3.9 | Đường cáp truyền tín hiệu viễn thông | Mức độ quan trọng | Liên quốc gia | Liên tỉnh | Nội tỉnh |  |  |
 | 1.3.10 | Công trình lấn biển | Diện tích (ha) |  |  | ≥300 | <300 |  |
 
+
 Ghi chú:
+
 - Công trình hạ tầng kỹ thuật khác có mục đích sử dụng phù hợp với loại công trình nêu trong Bảng 1.3 thì sử dụng Bảng 1.3 để xác định cấp theo mức độ quan trọng hoặc quy mô công suất.
+
 - Các chữ viết tắt trong Bảng 1.3: TCS là Tổng công suất tính cho toàn bộ các dây chuyền công nghệ thuộc dự án.
+
 - (*): Đối với Nhà để xe ô tô thì chỗ để xe ô tô được xét cho ô tô chở người đến 9 chỗ hoặc xe ô tô tải dưới 3.500 kg. Trường hợp Nhà để xe hỗn hợp bao gồm xe ô tô và xe mô tô (xe gắn máy) thì quy đổi 6 chỗ để xe mô tô (xe gắn máy) tương đương với 1 chỗ để xe ô tô.
+
 - Tham khảo các ví dụ xác định cấp công trình hạ tầng kỹ thuật trong Phụ lục III.
 
 ### Bảng 1.4 Phân cấp công trình phục vụ giao thông vận tải (công trình giao thông)
@@ -291,8 +304,11 @@ Ghi chú:
 | 1.4.6 | b) Đài kiểm soát không lưu | Mức độ quan trọng | Cảng hàng không quốc tế | Cảng hàng không, sân bay nội địa |  |  |  |
 | 1.4.6 | 1.4.6.4 Hăng ga máy bay | Mức độ quan trọng | Cấp I với mọi quy mô |  |  |  |  |
 
+
 Ghi chú:
+
 - Công trình giao thông khác có mục đích sử dụng phù hợp với loại công trình nêu trong Bảng 1.4 thì sử dụng Bảng 1.4 để xác định cấp theo mức độ quan trọng hoặc quy mô công suất.
+
 - Tham khảo các ví dụ xác định cấp công trình giao thông trong Phụ lục III.
 
 ### Bảng 1.5 Phân cấp công trình phục vụ nông nghiệp và môi trường (công trình nông nghiệp và môi trường)
@@ -324,6 +340,9 @@ Ghi chú:
 | 1.5.1 | 1.5.1.7 Bờ bao | Diện tích khu vực bảo vệ (nghìn ha) |  |  | ≥10 | 0,5 ÷ <10 | <0,5 |
 | 1.5.2 | Công trình đê điều: Xác định cấp theo Quyết định của Bộ Nông nghiệp và Môi trường theo quy định tại khoản 2 Điều 2 Nghị định số 113/2007/NĐ-CP ngày 28/6/2007 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đê điều được sửa đổi, bổ sung theo Điều 29 Nghị định 53/2026/NĐ-CP ngày 05/02/2026 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực đê điều và phòng, chống thiên tai. |  |  |  |  |  |  |
 
+
 Ghi chú:
+
 - Công trình nông nghiệp và môi trường khác có mục đích sử dụng phù hợp với loại công trình nêu trong Bảng 1.5 thì sử dụng Bảng 1.5 để xác định cấp theo mức độ quan trọng hoặc quy mô công suất.
+
 - Tham khảo các ví dụ xác định cấp công trình nông nghiệp và môi trường trong Phụ lục III.

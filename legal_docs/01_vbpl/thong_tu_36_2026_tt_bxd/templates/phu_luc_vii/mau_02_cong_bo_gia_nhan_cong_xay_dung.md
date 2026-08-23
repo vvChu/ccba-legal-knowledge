@@ -12,10 +12,10 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 ---
 
+
 Mẫu số 02
 
-## CÔNG BỐ GIÁ NHÂN CÔNG XÂY DỰNG NĂM… TRÊN ĐỊA BÀN TỈNH/THÀNH PHỐ
-
+CÔNG BỐ GIÁ NHÂN CÔNG XÂY DỰNG NĂM… TRÊN ĐỊA BÀN TỈNH/THÀNH PHỐ
 
 | Stt | Nhóm nhân công * | Tên nhân công* (Loại công tác) | Đơn vị tính * | Giá nhân công xây dựng (đồng) * | &nbsp; | &nbsp; |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -25,9 +25,15 @@ Mẫu số 02
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 
+
 Ghi chú:
+
 - Tải tệp dữ liệu điện tử mẫu (định dạng Microsoft Excel) từ địa chỉ: https://dmdgxd.cemia.gov.vn, mục “Hồ sơ tài liệu” để thuận tiện nhập dữ liệu công bố giá nhân công xây dựng và chuyển đổi vào Hệ thống thông tin, dữ liệu về định mức xây dựng, giá xây dựng và chỉ số giá xây dựng;
+
 - Những mục có dấu (*) là bắt buộc;
+
 - [5] [6] [7] Khu vực, vùng:
+
 + “Khu vực...” là tên một hoặc một nhóm đơn vị hành chính theo vùng;
+
 + Việc phân chia vùng/ khu vực để công bố giá nhân công theo khu vực khảo sát, thu thập số liệu để xác định và công bố giá nhân công xây dựng do địa phương lựa chọn, phù hợp với quy định phân vùng của Chính phủ.

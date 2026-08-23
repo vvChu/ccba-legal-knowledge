@@ -1,7 +1,7 @@
 ---
-title: "PHỤ LỤC IV"
+title: "Phụ lục IV"
 document: "37/2026/TT-BXD"
-appendix: "Phụ lục 4"
+appendix: "Phụ lục IV"
 type: "form_template"
 usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
@@ -14,182 +14,339 @@ usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC A
 
 ## PHỤ LỤC IV
 
+
 PHƯƠNG PHÁP XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG (Kèm theo Thông tư số 37/2026/TT-BXD ngày 26/6/2026 của Bộ trưởng Bộ Xây dựng)
 
 ### I. XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG ĐỂ CÁC TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG CÔNG BỐ
 
+
 Giá ca máy và thiết bị thi công xây dựng (sau đây gọi là giá ca máy) là mức chi phí bình quân cho một ca làm việc theo quy định của máy và thiết bị thi công xây dựng. Giá ca máy gồm toàn bộ hoặc một số khoản mục chi phí như chi phí khấu hao, chi phí sửa chữa, chi phí nhiên liệu, năng lượng, chi phí nhân công vận hành điều khiển và chi phí khác.
+
 Giá ca máy và thiết bị thi công để các tỉnh, thành phố trực thuộc Trung ương công bố được xác định như sau:
+
 **1.** Trình tự xác định giá ca máy
+
 - Bước 1: Lập danh mục máy và thiết bị thi công xây dựng cần xác định giá ca máy;
+
 - Bước 2: Xác định định mức các hao phí, các dữ liệu cơ bản và nguyên giá làm cơ sở xác định giá ca máy;
+
 - Bước 3: Tính toán, xác định giá ca máy.
+
 **2.** Lập danh mục xác định giá ca máy và thiết bị thi công xây dựng
+
 - Các tỉnh, thành phố trực thuộc Trung ương căn cứ nhu cầu sử dụng máy trên địa bàn để lập danh mục máy và thiết bị thi công làm cơ sở xác định giá ca máy công bố;
+
 - Danh mục máy và thiết bị thi công phải phù hợp với hệ thống định mức do cơ quan nhà nước có thẩm quyền ban hành. Các tỉnh, thành phố trực thuộc Trung ương có thể tham khảo danh mục máy và thiết bị thi công nêu tại Mục V Phụ lục này để làm cơ sở lập danh mục xác định giá ca máy và thiết bị thi công.
+
 **3.** Xác định định mức các hao phí và các dữ liệu cơ bản làm cơ sở xác định giá ca máy
-a) Các tỉnh, thành phố trực thuộc Trung ương căn cứ định mức các hao phí và các dữ liệu cơ bản đối với những máy và thiết bị thi công nêu tại Mục V Phụ lục này để làm cơ sở xác định giá ca máy.
-b) Đối với các loại máy và thiết bị thi công chưa có trong Mục V Phụ lục này thì định mức các hao phí và các dữ liệu cơ bản được xác định như sau:
+
+- a) Các tỉnh, thành phố trực thuộc Trung ương căn cứ định mức các hao phí và các dữ liệu cơ bản đối với những máy và thiết bị thi công nêu tại Mục V Phụ lục này để làm cơ sở xác định giá ca máy.
+
+- b) Đối với các loại máy và thiết bị thi công chưa có trong Mục V Phụ lục này thì định mức các hao phí và các dữ liệu cơ bản được xác định như sau:
+
 - Định mức khấu hao của máy: căn cứ theo hướng dẫn của Bộ Tài chính về chế độ quản lý, sử dụng và trích khấu hao tài sản cố định hoặc tham khảo vận dụng của loại máy có cùng tính năng kỹ thuật nêu tại Mục V Phụ lục này;
+
 - Định mức sửa chữa của máy: khảo sát thu thập, tổng hợp số liệu về chi phí bảo dưỡng, sửa chữa máy thông qua các tài liệu sau: thống kê chi phí bảo dưỡng, sửa chữa máy, các hướng dẫn về bảo dưỡng, sửa chữa máy; quy đổi chi phí bảo dưỡng, sửa chữa máy thành tỷ lệ phần trăm (%) so với nguyên giá máy; phân bổ đều tỷ lệ % chi phí bảo dưỡng, sửa chữa máy theo số năm đời máy. Trường hợp không đủ thông tin, dữ liệu cần thiết thì được xác định bằng cách vận dụng định mức sửa chữa của loại máy có cùng tính năng kỹ thuật nêu tại Mục V Phụ lục này;
+
 - Số ca làm việc trong năm của máy: khảo sát thu thập, tổng hợp số liệu về thời gian sử dụng máy trong thực tế từ các hồ sơ, tài liệu liên quan đến thời gian sử dụng máy gồm: nhật ký công trình, báo cáo thống kê định kỳ về thời gian sử dụng máy, các quy định và yêu cầu kỹ thuật về thời gian bảo dưỡng, sửa chữa máy, số liệu thống kê về thời tiết ảnh hưởng đến thời gian làm việc của máy; quy định về thời gian sử dụng và hoạt động cả đời máy trong tài liệu kỹ thuật của máy hoặc do nhà sản xuất máy công bố… Bổ sung các yếu tố ảnh hưởng đến số ca làm việc của máy trong năm theo những điều kiện cụ thể của công trình. Trường hợp không đủ thông tin, dữ liệu thì được xác định bằng cách vận dụng số ca làm việc trong năm của loại máy có cùng tính năng kỹ thuật nêu tại Mục V Phụ lục này;
+
 - Định mức tiêu hao nhiên liệu, năng lượng: khảo sát số liệu mức nhiên liệu, năng lượng của máy tiêu thụ phù hợp với thời gian làm việc thực tế của máy trong ca; số liệu tính toán theo hướng dẫn trong tài liệu kỹ thuật của máy do nhà sản xuất máy công bố về tiêu hao nhiên liệu, năng lượng khi máy hoạt động;
+
 - Số lượng nhân công vận hành, điều khiển máy: theo yêu cầu về số lượng nhân công vận hành, điều khiển máy; tham khảo các hướng dẫn về nhân công vận hành, điều khiển máy do nhà sản xuất máy công bố. Trường hợp không đủ thông tin, dữ liệu cần thiết thì được xác định bằng cách vận dụng số lượng nhân công vận hành, điều khiển máy của loại máy có cùng tính năng kỹ thuật nêu tại Mục V Phụ lục này.
+
 - Định mức chi phí khác của máy: khảo sát thu thập, tổng hợp số liệu về chi phí khác của máy gồm các chi phí cần thiết để máy hoạt động bình thường, có hiệu quả tại công trình; quy đổi giá trị khoản chi phí này theo tỷ lệ % so với giá tính khấu hao của máy; phân bổ chi phí quản lý máy theo năm. Trường hợp không đủ thông tin, dữ liệu cần thiết thì được xác định bằng cách vận dụng định mức chi phí khác của loại máy có cùng tính năng kỹ thuật nêu tại Mục V Phụ lục này;
+
 **4.** Nguyên giá của máy và thiết bị thi công được xác định theo hướng dẫn tại điểm c, khoản 1 Mục III Phụ lục này.
+
 **5.** Tính toán, xác định giá ca máy và thiết bị thi công: giá ca máy và thiết bị thi công được tính toán, xác định theo nội dung nêu tại Mục III Phụ lục này.
+
 **6.** Hồ sơ xác định/trình công bố giá ca máy và thiết bị thi công: Hồ sơ xác định giá ca máy và thiết bị thi công do tỉnh, thành phố trực thuộc Trung ương công bố gồm:
-a) Thuyết minh, xử lý số liệu, tính toán giá ca máy và thiết bị thi công để công bố.
-b) Đối với các loại máy và thiết bị thi công chưa có trong Mục V Phụ lục này
+
+- a) Thuyết minh, xử lý số liệu, tính toán giá ca máy và thiết bị thi công để công bố.
+
+- b) Đối với các loại máy và thiết bị thi công chưa có trong Mục V Phụ lục này
+
 - Các tài liệu liên quan đến thông số kỹ thuật chủ yếu của máy và thiết bị thi công cần xác định, thông tin về nguyên giá máy và thiết bị thi công (hợp đồng, hóa đơn mua bán máy; báo giá của nhà cung cấp máy và thiết bị thi công xây dựng công trình; nguyên giá máy và thiết bị thi công của công trình/dự án tương tự).
+
 - Phiếu khảo sát, thu thập số liệu và báo cáo tổng hợp kết quả khảo sát (nếu có). Số lượng phiếu khảo sát phải đảm bảo độ tin cậy, mang tính đại diện và được xác định phù hợp với nhu cầu sử dụng máy trên địa bàn của tỉnh, thành phố trực thuộc Trung ương.
+
 **7.** Sở Xây dựng tổ chức xây dựng cơ sở dữ liệu, danh sách doanh nghiệp xây dựng, doanh nghiệp kinh doanh mua, bán, cho thuê máy, chuyên gia trong lĩnh vực xây dựng, ... phục vụ cho việc thu thập dữ liệu xác định giá ca máy. Sử dụng phương thức cung cấp thông tin qua trang thông tin điện tử hoặc ứng dụng phần mềm để thuận tiện cho việc tổng hợp, xử lý thông tin phục vụ công bố giá kịp thời và thuận lợi cho việc liên thông với hệ thống thông tin, dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng.
 
 ### II. XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG CỦA CÔNG TRÌNH
 
+
 **1.** Xác định giá ca máy đối với các loại máy và thiết bị thi công chưa được công bố hoặc đã được cấp có thẩm quyền công bố nhưng chưa phù hợp với yêu cầu sử dụng và điều kiện thi công của công trình
-a) Xác định giá ca máy đối với các loại máy và thiết bị thi công chưa được công bố:
+
+- a) Xác định giá ca máy đối với các loại máy và thiết bị thi công chưa được công bố:
+
 - Phương pháp xác định giá ca máy căn cứ theo hướng dẫn nêu tại Mục III Phụ lục này;
+
 - Đối với định mức các hao phí: Số ca năm; định mức khấu hao, sửa chữa, chi phí khác được xác định bằng cách vận dụng định mức các hao phí của loại máy có cùng tính năng kỹ thuật nêu tại Mục V Phụ lục này để làm cơ sở xác định giá ca máy thi công;
+
 - Đối với thành phần nhân công vận hành, điều khiển máy: được xác định theo hướng dẫn của nhà sản xuất máy hoặc yêu cầu công nghệ hoặc tham khảo máy có cùng tính năng kỹ thuật nêu tại Mục V Phụ lục này. Đơn giá nhân công vận hành, điều khiển máy xác định theo công bố của tỉnh, thành phố hoặc theo đơn giá nhân công vận hành, điều khiển máy của công trình (nếu được xác định riêng cho công trình).
+
 - Đối với định mức tiêu hao nhiên liệu, năng lượng: được xác định theo quy định trong tài liệu kỹ thuật của máy do nhà sản xuất máy công bố về tiêu hao nhiên liệu, năng lượng khi máy hoạt động hoặc theo số liệu mức tiêu hao nhiên liệu, năng lượng của máy tiêu thụ phù hợp với thời gian làm việc thực tế của máy trong ca;
+
 - Nguyên giá của máy và thiết bị thi công được xác định theo hướng dẫn nêu tại điểm c, khoản 1 Mục III Phụ lục này;
+
 - Ngoài ra có thể tham khảo giá ca máy của công trình, dự án đã và đang thực hiện sau khi quy đổi về mặt bằng giá tại thời điểm xác định giá ca máy của công trình để quyết định áp dụng.
-b) Xác định giá ca máy đối với các loại máy và thiết bị thi công đã được cấp có thẩm quyền công bố nhưng áp dụng cho công trình chưa phù hợp
+
+- b) Xác định giá ca máy đối với các loại máy và thiết bị thi công đã được cấp có thẩm quyền công bố nhưng áp dụng cho công trình chưa phù hợp
+
 - Căn cứ theo bảng định mức các hao phí, các dữ liệu cơ bản và nguyên giá làm cơ sở xác định giá ca máy nêu tại Mục V Phụ lục này điều chỉnh các định mức hao phí, dữ liệu để cập nhật, tính toán lại giá ca máy;
+
 - Giá các yếu tố đầu vào (nhiên liệu, năng lượng; đơn giá nhân công vận hành) được xác định phù hợp với công trình và quy định tại Thông tư hướng dẫn một số nội dung, phương pháp xác định và quản lý chi phí đầu tư xây dựng.
-c) Hồ sơ xác định giá ca máy và thiết bị thi công của công trình: Hồ sơ xác định giá ca máy và thiết bị thi công của công trình gồm:
+
+- c) Hồ sơ xác định giá ca máy và thiết bị thi công của công trình: Hồ sơ xác định giá ca máy và thiết bị thi công của công trình gồm:
+
 - Các tài liệu liên quan đến thông số kỹ thuật chủ yếu của máy và thiết bị thi công cần xác định, thông tin về nguyên giá máy và thiết bị thi công (hợp đồng, hóa đơn mua bán máy; báo giá của nhà cung cấp máy và thiết bị thi công xây dựng công trình; nguyên giá máy và thiết bị thi công của công trình/dự án tương tự);
+
 - Thuyết minh, xử lý số liệu, tính toán giá ca máy và thiết bị thi công của công trình.
+
 **2.** Tham khảo dữ liệu giá ca máy của nước ngoài
+
 Trường hợp dự án sử dụng công nghệ thi công mới hoặc áp dụng định mức xây dựng do tổ chức nước ngoài công bố nhưng trong nước chưa có dữ liệu tương ứng thì được phép tham khảo phương pháp xác định giá ca máy và dữ liệu giá ca máy thi công của nước ngoài để xác định giá ca máy.
+
 Việc tham khảo phải bảo đảm các yêu cầu sau:
+
 - Phương pháp xác định và dữ liệu được lựa chọn phải phù hợp với loại máy, công nghệ, điều kiện thi công của công trình;
+
 - Thực hiện quy đổi, hiệu chỉnh về điều kiện Việt Nam, bao gồm: mặt bằng giá, chế độ tiền lương, giá nhiên liệu;
+
 - Bảo đảm phù hợp với quy định của pháp luật về quản lý chi phí đầu tư xây dựng và mặt bằng giá thị trường tại thời điểm xác định.
+
 **3.** Xác định giá ca máy chờ đợi
+
 Trường hợp cần xác định giá ca máy chờ đợi thì giá ca máy chờ đợi bao gồm các khoản mục chi phí sau: chi phí khấu hao (được tính 50% chi phí khấu hao), chi phí nhân công vận hành điều khiển (được tính 50% chi phí nhân công vận hành điều khiển) và chi phí khác của máy.
 
 ### III. XÁC ĐỊNH CÁC KHOẢN MỤC CHI PHÍ CỦA GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG
 
+
 Các khoản mục chi phí khấu hao, chi phí sửa chữa, chi phí nhiên liệu, năng lượng, chi phí nhân công vận hành điều khiển và chi phí khác của máy và được xác định theo công thức sau:
+
 Trong đó:
+
 CCM: giá ca máy (đồng/ca);
+
 CKH: chi phí khấu hao (đồng/ca);
+
 CSC: chi phí sửa chữa (đồng/ca);
+
 CNL: chi phí nhiên liệu, năng lượng (đồng/ca);
+
 CNC: chi phí nhân công vận hành điều khiển (đồng/ca);
+
 CCPK: chi phí khác (đồng/ca).
+
 Các khoản mục chi phí trong giá ca máy được xác định trên cơ sở nguyên giá máy, định mức các hao phí xác định giá ca máy và giá các yếu tố nhiên liệu, năng lượng, đơn giá nhân công vận hành.
+
 **1.** Xác định chi phí khấu hao
-a) Trong quá trình sử dụng máy, máy bị hao mòn, giảm dần giá trị sử dụng và giá trị của máy do tham gia vào hoạt động sản xuất kinh doanh, do bào mòn của tự nhiên.
+
+- a) Trong quá trình sử dụng máy, máy bị hao mòn, giảm dần giá trị sử dụng và giá trị của máy do tham gia vào hoạt động sản xuất kinh doanh, do bào mòn của tự nhiên.
+
 Khấu hao máy là việc tính toán, và phân bổ một cách có hệ thống nguyên giá của máy vào chi phí sản xuất, kinh doanh trong thời gian trích khấu hao của máy để thu hồi vốn đầu tư máy. Khấu hao của máy được tính trong giá ca máy.
-b) Chi phí khấu hao trong giá ca máy được xác định theo công thức sau:
+
+- b) Chi phí khấu hao trong giá ca máy được xác định theo công thức sau:
+
 Trong đó:
+
 CKH: chi phí khấu hao trong giá ca máy (đồng/ca);
+
 G: nguyên giá máy trước thuế (đồng);
+
 GTH: giá trị thu hồi (đồng);
+
 ĐKH: định mức khấu hao của máy (%/năm);
+
 NCA: số ca làm việc của máy trong năm (ca/năm).
-c) Xác định nguyên giá máy:
+
+- c) Xác định nguyên giá máy:
+
 - Nguyên giá của máy để tính giá ca máy được xác định theo giá máy mới, phù hợp với mặt bằng thị trường của loại máy sử dụng để thi công xây dựng công trình.
+
 - Nguyên giá của máy là toàn bộ các chi phí để đầu tư mua máy tính đến thời điểm đưa máy vào trạng thái sẵn sàng sử dụng gồm giá mua máy (không kể chi phí cho vật tư, phụ tùng thay thế mua kèm theo), thuế nhập khẩu (nếu có), chi phí vận chuyển, bốc xếp, bảo quản, chi phí lưu kho, chi phí lắp đặt (lần đầu tại một công trình), chi phí chuyển giao công nghệ (nếu có), chạy thử, các khoản chi phí hợp lệ khác có liên quan trực tiếp đến việc đầu tư máy, không bao gồm thuế giá trị gia tăng.
+
 - Nguyên giá của máy không bao gồm các chi phí như: chi phí lắp đặt, tháo dỡ trạm trộn bê tông xi măng, trạm trộn bê tông nhựa, cần trục di chuyển trên ray, cần trục tháp và các thiết bị, máy thi công xây dựng tương tự khác từ lần thứ hai trở đi. Các chi phí này được xác định bằng cách lập dự toán và được tính vào chi phí khác trong dự toán xây dựng công trình.
+
 - Nguyên giá của máy được xác định trên cơ sở các số liệu sau:
+
 + Hợp đồng mua, bán máy; hóa đơn và các chi phí khác liên quan để đưa máy vào trạng thái sẵn sàng hoạt động;
+
 + Báo giá của nhà cung cấp máy và thiết bị thi công xây dựng công trình;
+
 + Tham khảo nguyên giá máy từ các công trình/dự án tương tự đã và đang thực hiện trên địa bàn tỉnh, thành phố;
+
 + Tham khảo nguyên giá máy các địa phương lân cận công bố hoặc tham khảo nguyên giá máy của Bộ Xây dựng nêu tại Mục V Phụ lục này;
+
 + Dữ liệu hóa đơn điện tử; dữ liệu thông quan, nhập khẩu;
+
 + Hệ thống thông tin, Cơ sở dữ liệu quốc gia có liên quan.
-d) Giá trị thu hồi: là giá trị phần còn lại của máy sau khi thanh lý, được xác định như sau:
+
+- d) Giá trị thu hồi: là giá trị phần còn lại của máy sau khi thanh lý, được xác định như sau:
+
 - Đối với máy có nguyên giá từ 30.000.000 đồng (ba mươi triệu đồng) trở lên giá trị thu hồi tính bằng 10% nguyên giá.
+
 - Không tính giá trị thu hồi với máy có nguyên giá nhỏ hơn 30.000.000 đồng (ba mươi triệu đồng).
-đ) Định mức khấu hao của máy (%/năm) được xác định trên cơ sở căn cứ theo hướng dẫn của Bộ Tài chính về chế độ quản lý, sử dụng và trích khấu hao tài sản cố định hoặc tham khảo định mức khấu hao của máy nêu tại Mục V Phụ lục này. Đối với những máy làm việc ở vùng nước mặn, nước lợ và trong môi trường ăn mòn cao thì định mức khấu hao được điều chỉnh với hệ số 1,05.
-e) Số ca làm việc của máy trong năm (ca/năm) được xác định trên cơ sở số ca làm việc của máy trong năm nêu tại Mục V Phụ lục này.
+
+- đ) Định mức khấu hao của máy (%/năm) được xác định trên cơ sở căn cứ theo hướng dẫn của Bộ Tài chính về chế độ quản lý, sử dụng và trích khấu hao tài sản cố định hoặc tham khảo định mức khấu hao của máy nêu tại Mục V Phụ lục này. Đối với những máy làm việc ở vùng nước mặn, nước lợ và trong môi trường ăn mòn cao thì định mức khấu hao được điều chỉnh với hệ số 1,05.
+
+- e) Số ca làm việc của máy trong năm (ca/năm) được xác định trên cơ sở số ca làm việc của máy trong năm nêu tại Mục V Phụ lục này.
+
 **2.** Xác định chi phí sửa chữa
-a) Chi phí sửa chữa máy là các khoản chi phí để bảo dưỡng, sửa chữa máy định kỳ, sửa chữa máy đột xuất trong quá trình sử dụng máy nhằm duy trì và khôi phục năng lực hoạt động tiêu chuẩn của máy. Chi phí sửa chữa trong giá ca máy được xác định theo công thức sau:
+
+- a) Chi phí sửa chữa máy là các khoản chi phí để bảo dưỡng, sửa chữa máy định kỳ, sửa chữa máy đột xuất trong quá trình sử dụng máy nhằm duy trì và khôi phục năng lực hoạt động tiêu chuẩn của máy. Chi phí sửa chữa trong giá ca máy được xác định theo công thức sau:
+
 Trong đó:
+
 CSC: chi phí sửa chữa trong giá ca máy (đồng/ca);
+
 ĐSC: định mức sửa chữa của máy (% năm);
+
 G: nguyên giá máy trước thuế giá trị gia tăng (đồng);
+
 NCA: số ca làm việc của máy trong năm (ca/năm).
-b) Định mức sửa chữa của máy (% năm) được xác định trên cơ sở định mức sửa chữa của máy nêu tại Mục V Phụ lục này. Đối với những máy làm việc ở vùng nước mặn, nước lợ và trong môi trường ăn mòn cao thì định mức sửa chữa được điều chỉnh với hệ số 1,05.
-c) Nguyên giá máy trước thuế (G) và số ca làm việc của máy trong năm (NCA) xác định như quy định tại điểm c, e khoản 1 Mục III Phụ lục này.
-d) Chi phí sửa chữa máy chưa bao gồm chi phí thay thế các loại phụ tùng thuộc bộ phận công tác của máy có giá trị lớn mà sự hao mòn của chúng phụ thuộc chủ yếu tính chất của đối tượng công tác.
+
+- b) Định mức sửa chữa của máy (% năm) được xác định trên cơ sở định mức sửa chữa của máy nêu tại Mục V Phụ lục này. Đối với những máy làm việc ở vùng nước mặn, nước lợ và trong môi trường ăn mòn cao thì định mức sửa chữa được điều chỉnh với hệ số 1,05.
+
+- c) Nguyên giá máy trước thuế (G) và số ca làm việc của máy trong năm (NCA) xác định như quy định tại điểm c, e khoản 1 Mục III Phụ lục này.
+
+- d) Chi phí sửa chữa máy chưa bao gồm chi phí thay thế các loại phụ tùng thuộc bộ phận công tác của máy có giá trị lớn mà sự hao mòn của chúng phụ thuộc chủ yếu tính chất của đối tượng công tác.
+
 **3.** Xác định chi phí nhiên liệu, năng lượng
-a) Nhiên liệu, năng lượng là xăng, dầu, điện, gas hoặc khí nén tiêu hao trong thời gian một ca làm việc của máy để tạo ra động lực cho máy hoạt động gọi là nhiên liệu chính.
+
+- a) Nhiên liệu, năng lượng là xăng, dầu, điện, gas hoặc khí nén tiêu hao trong thời gian một ca làm việc của máy để tạo ra động lực cho máy hoạt động gọi là nhiên liệu chính.
+
 Các loại dầu mỡ bôi trơn, dầu truyền động,... gọi là nhiên liệu phụ trong một ca làm việc của máy được xác định bằng hệ số so với chi phí nhiên liệu chính.
-b) Chi phí nhiên liệu, năng lượng trong giá ca máy được xác định theo công thức sau:
+
+- b) Chi phí nhiên liệu, năng lượng trong giá ca máy được xác định theo công thức sau:
+
 Trong đó:
+
 CNL: chi phí nhiên liệu, năng lượng trong giá ca máy (đồng/ca);
+
 ĐNL: định mức tiêu hao nhiên liệu, năng lượng loại i của thời gian máy làm việc trong một ca;
+
 GNL: giá nhiên liệu loại i;
+
 KPi: hệ số chi phí nhiên liệu phụ loại i;
+
 n: số loại nhiên liệu, năng lượng sử dụng trong một ca máy.
-c) Định mức tiêu hao nhiên liệu, năng lượng của thời gian máy làm việc trong một ca của một loại máy và thiết bị thi công nêu tại Mục V Phụ lục này.
-d) Giá nhiên liệu, năng lượng được xác định trên cơ sở:
+
+- c) Định mức tiêu hao nhiên liệu, năng lượng của thời gian máy làm việc trong một ca của một loại máy và thiết bị thi công nêu tại Mục V Phụ lục này.
+
+- d) Giá nhiên liệu, năng lượng được xác định trên cơ sở:
+
 - Giá xăng, dầu: theo thông báo của nhà cung cấp phù hợp với thời điểm tính giá ca máy và khu vực xây dựng công trình;
+
 - Giá điện: theo quy định về giá bán điện của nhà nước phù hợp với thời điểm tính giá ca máy và khu vực xây dựng công trình.
-đ) Hệ số chi phí nhiên liệu phụ cho một ca máy làm việc, được xác định theo từng loại máy và điều kiện cụ thể của công trình. Hệ số chi phí nhiên liệu phụ có giá trị bình quân như sau:
+
+- đ) Hệ số chi phí nhiên liệu phụ cho một ca máy làm việc, được xác định theo từng loại máy và điều kiện cụ thể của công trình. Hệ số chi phí nhiên liệu phụ có giá trị bình quân như sau:
+
 - Máy và thiết bị chạy động cơ xăng: 1,02;
+
 - Máy và thiết bị chạy động cơ diesel: 1,03;
+
 - Máy và thiết bị chạy động cơ điện: 1,05.
-e) Định mức tiêu hao nhiên liệu, năng lượng của máy và thiết bị chuyên dùng khảo sát, thí nghiệm nêu tại Chương II Mục V Phụ lục này đã tính vào mức hao phí trong định mức dự toán.
+
+- e) Định mức tiêu hao nhiên liệu, năng lượng của máy và thiết bị chuyên dùng khảo sát, thí nghiệm nêu tại Chương II Mục V Phụ lục này đã tính vào mức hao phí trong định mức dự toán.
+
 **4.** Xác định chi phí nhân công vận hành, điều khiển máy
-a) Chi phí nhân công vận hành, điều khiển trong một ca máy được xác định trên cơ sở các quy định về số lượng, thành phần, nhóm nhân công vận hành, điều khiển máy theo quy trình vận hành máy và đơn giá ngày công tương ứng với nhân công vận hành, điều khiển máy.
-b) Chi phí nhân công vận hành, điều khiển trong giá ca máy được xác định theo công thức sau:
+
+- a) Chi phí nhân công vận hành, điều khiển trong một ca máy được xác định trên cơ sở các quy định về số lượng, thành phần, nhóm nhân công vận hành, điều khiển máy theo quy trình vận hành máy và đơn giá ngày công tương ứng với nhân công vận hành, điều khiển máy.
+
+- b) Chi phí nhân công vận hành, điều khiển trong giá ca máy được xác định theo công thức sau:
+
 Trong đó:
+
 Ni: số lượng nhân công vận hành, điều khiển máy loại i trong một ca máy;
+
 CTLi: đơn giá ngày công của nhân công vận hành, điều khiển máy loại i;
+
 n: số lượng, loại nhân công vận hành, điều khiển máy trong một ca máy.
-c) Số lượng nhân công vận hành, điều khiển máy của một loại máy được xác định theo số lượng, thành phần, nhóm nhân công vận hành, điều khiển máy nêu tại Mục V Phụ lục này.
-d) Đơn giá ngày công của nhân công vận hành, điều khiển máy được xác định trên cơ sở đơn giá nhân công vận hành xây dựng do Sở Xây dựng của tỉnh, thành phố công bố hoặc đơn giá nhân công vận hành, điều khiển máy của công trình (nếu được xác định riêng cho công trình).
-đ) Định mức nhân công vận hành, điều khiển của máy và thiết bị chuyên dùng khảo sát, thí nghiệm nêu tại Chương II Mục V Phụ lục này đã tính vào mức hao phí trong định mức dự toán.
+
+- c) Số lượng nhân công vận hành, điều khiển máy của một loại máy được xác định theo số lượng, thành phần, nhóm nhân công vận hành, điều khiển máy nêu tại Mục V Phụ lục này.
+
+- d) Đơn giá ngày công của nhân công vận hành, điều khiển máy được xác định trên cơ sở đơn giá nhân công vận hành xây dựng do Sở Xây dựng của tỉnh, thành phố công bố hoặc đơn giá nhân công vận hành, điều khiển máy của công trình (nếu được xác định riêng cho công trình).
+
+- đ) Định mức nhân công vận hành, điều khiển của máy và thiết bị chuyên dùng khảo sát, thí nghiệm nêu tại Chương II Mục V Phụ lục này đã tính vào mức hao phí trong định mức dự toán.
+
 **5.** Xác định chi phí khác
-a) Chi phí khác trong giá ca máy là các khoản chi phí cần thiết đảm bảo để máy hoạt động bình thường, có hiệu quả tại công trình, gồm bảo hiểm máy, thiết bị trong quá trình sử dụng; bảo quản máy và phục vụ cho công tác bảo dưỡng kỹ thuật trong bảo quản máy; đăng kiểm các loại; di chuyển máy trong nội bộ công trình và các khoản chi phí có liên quan trực tiếp đến quản lý máy và sử dụng máy tại công trình chưa được tính trong các nội dung chi phí khác trong giá xây dựng công trình, dự toán xây dựng. Chi phí khác trong giá ca máy được xác định theo công thức sau:
+
+- a) Chi phí khác trong giá ca máy là các khoản chi phí cần thiết đảm bảo để máy hoạt động bình thường, có hiệu quả tại công trình, gồm bảo hiểm máy, thiết bị trong quá trình sử dụng; bảo quản máy và phục vụ cho công tác bảo dưỡng kỹ thuật trong bảo quản máy; đăng kiểm các loại; di chuyển máy trong nội bộ công trình và các khoản chi phí có liên quan trực tiếp đến quản lý máy và sử dụng máy tại công trình chưa được tính trong các nội dung chi phí khác trong giá xây dựng công trình, dự toán xây dựng. Chi phí khác trong giá ca máy được xác định theo công thức sau:
+
 Trong đó:
+
 CK: chi phí khác trong giá ca máy (đồng/ca);
+
 GK: định mức chi phí khác của máy (% năm);
+
 G: nguyên giá máy trước thuế (đồng);
+
 NCA: số ca làm việc của máy trong năm (ca/năm).
-b) Định mức chi phí khác của máy được xác định trên cơ sở tham khảo nêu tại Mục V Phụ lục này.
-c) Nguyên giá máy trước thuế (G) và số ca làm việc của máy trong năm (NCA) xác định như quy định tại điểm c, e khoản 1 Mục III Phụ lục này.
+
+- b) Định mức chi phí khác của máy được xác định trên cơ sở tham khảo nêu tại Mục V Phụ lục này.
+
+- c) Nguyên giá máy trước thuế (G) và số ca làm việc của máy trong năm (NCA) xác định như quy định tại điểm c, e khoản 1 Mục III Phụ lục này.
 
 ### IV. XÁC ĐỊNH GIÁ THUÊ MÁY
 
+
 **1.** Xác định giá thuê máy theo ca máy
-a) Trình tự xác định giá ca máy theo số liệu khảo sát giá thuê máy như sau:
+
+- a) Trình tự xác định giá ca máy theo số liệu khảo sát giá thuê máy như sau:
+
 - Bước 1: Lập danh mục máy và thiết bị thi công xây dựng có thông tin giá thuê máy phổ biến trên thị trường;
+
 - Bước 2: Khảo sát xác định giá thuê máy trên thị trường;
+
 - Bước 3: Tính toán, xác định giá ca máy theo giá ca máy thuê bình quân.
-b) Phạm vi/khu vực khảo sát giá thuê máy: Khảo sát trên địa bàn các địa phương và các địa phương lân cận.
-c) Nguyên tắc khảo sát xác định giá ca máy thuê:
+
+- b) Phạm vi/khu vực khảo sát giá thuê máy: Khảo sát trên địa bàn các địa phương và các địa phương lân cận.
+
+- c) Nguyên tắc khảo sát xác định giá ca máy thuê:
+
 - Giá ca máy thuê trên thị trường được khảo sát thu thập, tổng hợp số liệu, thống kê giá cho thuê máy của các doanh nghiệp xây dựng, doanh nghiệp kinh doanh mua, bán, cho thuê máy;
+
 - Giá ca máy thuê được khảo sát xác định phù hợp với chủng loại máy và thiết bị thi công được sử dụng trong định mức dự toán ban hành, hoặc định mức dự toán xây dựng của công trình.
-d) Nội dung khảo sát cần xác định rõ các thông tin sau:
+
+- d) Nội dung khảo sát cần xác định rõ các thông tin sau:
+
 - Giá ca máy thuê được khảo sát xác định bao gồm toàn bộ hoặc một số các khoản mục chi phí trong giá ca máy như chi phí khấu hao; chi phí sửa chữa; chi phí nhiên liệu, năng lượng; chi phí nhân công vận hành, điều khiển máy và chi phí khác của máy. Các nội dung chi phí khác liên quan đến việc cho thuê máy để đủ điều kiện cho máy hoạt động, vận hành tại công trường (nếu có) như các khoản mục chi phí quy định và chi phí vận chuyển máy móc, thiết bị đến công trình... được tính riêng không bao gồm trong giá ca máy thuê được khảo sát;
+
 - Giá ca máy thuê được khảo sát xác định tương ứng với đơn vị ca máy (theo quy định về thời gian một ca hoạt động sản xuất thi công của định mức dự toán xây dựng) và các hình thức cho thuê máy (cho thuê bao gồm cả vận hành hoặc chỉ cho thuê máy không bao gồm vận hành) cùng các điều kiện cho thuê máy kèm theo;
+
 - Trường hợp doanh nghiệp công bố giá thuê máy theo các đơn vị thời gian thuê máy theo giờ, theo ngày, theo tháng hoặc năm thì phải được quy đổi về giá thuê theo ca máy để phục vụ tính toán;
+
 - Trường hợp hình thức cho thuê máy bao gồm cả vận hành thì thông tin khảo sát cần xác định riêng các khoản mục chi phí liên quan đến vận hành máy (gồm chi phí nhiên liệu, năng lượng, chi phí nhân công vận hành điều khiển máy) và các khoản mục chi phí được phân bổ vào giá ca máy thuê (gồm chi phí khấu hao, chi phí sửa chữa, chi phí khác);
+
 - Khảo sát các thông tin cơ bản của máy: về thông số kỹ thuật của máy (chủng loại, công suất, kích thước, mức độ tiêu hao nhiên liệu…); về xuất xứ của máy; về tình trạng của máy…;
+
 - Khảo sát các thông tin cơ bản về doanh nghiệp cho thuê máy;
-đ) Tổng hợp xử lý số liệu và tính toán xác định giá ca máy thuê
+
+- đ) Tổng hợp xử lý số liệu và tính toán xác định giá ca máy thuê
+
 Giá ca máy thuê sau khi khảo sát được sàng lọc theo từng loại và công suất máy, đồng thời được xử lý dữ liệu trước khi tính toán xác định giá ca máy thuê bình quân làm cơ sở công bố, cụ thể:
+
 - Các khoản mục chi phí nhiên liệu, năng lượng, chi phí nhân công vận hành, điều khiển máy trong giá ca máy thuê khảo sát được chuẩn xác theo quy định của nhà sản xuất về mức tiêu hao năng lượng, nhiên liệu, thành phần nhân công vận hành, điều khiển máy và các quy định xác định giá nhiên liệu, năng lượng, đơn giá nhân công vận hành tại Mục III Phụ lục này. Sau đó tổng hợp xử lý bằng phương pháp hồi quy, chuyển đổi số liệu về thời điểm tính toán và tổng hợp để xác định chi phí;
+
 - Các khoản mục chi phí khấu hao, chi phí sửa chữa, chi phí khác trong giá ca máy thuê khảo sát được xử lý bằng phương pháp hồi quy, chuyển đổi số liệu về thời điểm tính toán và tổng hợp để xác định chi phí.
+
 **2.** Xác định giá thuê máy theo giờ
-a) Giá thuê máy theo giờ là chi phí bên đi thuê trả cho bên cho thuê để được quyền sử dụng máy trong một khoảng thời gian tính theo giờ máy (chưa đủ một ca) để hoàn thành đơn vị khối lượng sản phẩm xây dựng.
-b) Giá máy theo giờ bao gồm chi phí nhiên liệu, năng lượng; chi phí tiền lương nhân công vận hành, điều khiển máy; chi phí khấu hao, chi phí sửa chữa và chi phí khác được tính toán và được phân bổ cho một giờ làm việc.
-c) Tùy theo loại máy xây dựng, tính chất công việc của công tác xây dựng, công nghệ, biện pháp thi công, giá máy theo giờ được xác định trên cơ sở điều chỉnh giá ca máy theo ca được công bố trong bảng giá ca máy của địa phương nhân với hệ số 1,2 hoặc xác định theo hướng dẫn nêu tại Mục II của Phụ lục này.
+
+- a) Giá thuê máy theo giờ là chi phí bên đi thuê trả cho bên cho thuê để được quyền sử dụng máy trong một khoảng thời gian tính theo giờ máy (chưa đủ một ca) để hoàn thành đơn vị khối lượng sản phẩm xây dựng.
+
+- b) Giá máy theo giờ bao gồm chi phí nhiên liệu, năng lượng; chi phí tiền lương nhân công vận hành, điều khiển máy; chi phí khấu hao, chi phí sửa chữa và chi phí khác được tính toán và được phân bổ cho một giờ làm việc.
+
+- c) Tùy theo loại máy xây dựng, tính chất công việc của công tác xây dựng, công nghệ, biện pháp thi công, giá máy theo giờ được xác định trên cơ sở điều chỉnh giá ca máy theo ca được công bố trong bảng giá ca máy của địa phương nhân với hệ số 1,2 hoặc xác định theo hướng dẫn nêu tại Mục II của Phụ lục này.
+
 **3.** Sở Xây dựng tổ chức xây dựng cơ sở dữ liệu, danh sách doanh nghiệp xây dựng, doanh nghiệp kinh doanh mua, bán, cho thuê máy, chuyên gia trong lĩnh vực xây dựng, ... phục vụ cho việc thu thập dữ liệu giá thuê máy. Sử dụng phương thức cung cấp thông tin qua trang thông tin điện tử hoặc ứng dụng phần mềm để thuận tiện cho việc tổng hợp, xử lý thông tin phục vụ công bố giá kịp thời và thuận lợi cho việc liên thông với hệ thống thông tin, dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng.
 
 ### V. BẢNG ĐỊNH MỨC CÁC HAO PHÍ, CÁC DỮ LIỆU CƠ BẢN VÀ NGUYÊN GIÁ LÀM CƠ SỞ ĐỂ XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG
 
+
 Định mức các hao phí, các dữ liệu cơ bản và nguyên giá làm cơ sở xác định giá ca máy và thiết bị thi công được xác định theo các bảng định mức quy định tại mục này. Đối với các loại máy và thiết bị chuyên ngành chưa có trong các bảng định mức quy định tại mục này thực hiện theo công bố của các Bộ quản lý công trình xây dựng chuyên ngành.
 
-## CHƯƠNG I: MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG
-
+CHƯƠNG I: MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG
 
 | Mã hiệu | Loại máy và thiết bị | Số ca năm | Định mức (%) | Định mức tiêu hao nhiên liệu, năng lượng (1ca) | Nhân công vận hành, điều khiển máy | Nguyên giá tham khảo (1.000 VND) | &nbsp; | &nbsp; |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -858,8 +1015,7 @@ c) Tùy theo loại máy xây dựng, tính chất công việc của công tác
 | M112.4805 | Đồng hồ vạn năng | 200 | 10 | 2,20 | 4 |  |  | 1.500 |
 
 
-## CHƯƠNG II: MÁY VÀ THIẾT BỊ CHUYÊN DÙNG KHẢO SÁT, THÍ NGHIỆM
-
+CHƯƠNG II: MÁY VÀ THIẾT BỊ CHUYÊN DÙNG KHẢO SÁT, THÍ NGHIỆM
 
 | Mã hiệu | Loại máy và thiết bị | Số ca năm | Định mức (%) | Nguyên giá tham khảo (1000 VND) | &nbsp; | &nbsp; |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1140,5 +1296,6 @@ c) Tùy theo loại máy xây dựng, tính chất công việc của công tác
 | M203.0025 | Mê gôm mét | 220 | 10 | 3,50 | 5 | 50.446 |
 | M203.0026 | Thiết bị kiểm tra áp lực | 220 | 10 | 3,50 | 5 | 86.332 |
 | M203.0027 | Thiết bị tạo dòng điện | 220 | 10 | 3,50 | 5 | 499.762 |
+
 
 Ghi chú: Một số loại máy và thiết bị thi công không có thông tin nguyên giá tham khảo, việc xác định nguyên giá của máy và thiết bị thi công theo hướng dẫn nêu tại điểm c, khoản 1 Mục III Phụ lục này.

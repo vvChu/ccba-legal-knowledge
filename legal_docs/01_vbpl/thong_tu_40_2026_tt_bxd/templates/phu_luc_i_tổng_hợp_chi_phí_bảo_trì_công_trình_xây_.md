@@ -6,7 +6,7 @@ type: "form_template"
 usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
 
-# Phụ Lục I - TỔNG HỢP CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
+# PHỤ LỤC I - TỔNG HỢP CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
 *(Ban hành kèm theo Thông tư số 40/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
 
 ---
@@ -14,9 +14,11 @@ usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC A
 
 ## PHỤ LỤC I
 
+
 TỔNG HỢP CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG (Ban hành kèm theo Thông tư số 40/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)
 
 ### Bảng 1. TỔNG HỢP CHI PHÍ BẢO TRÌ CÔNG TRÌNH XÂY DỰNG
+
 
 Đơn vị tính: đồng
 

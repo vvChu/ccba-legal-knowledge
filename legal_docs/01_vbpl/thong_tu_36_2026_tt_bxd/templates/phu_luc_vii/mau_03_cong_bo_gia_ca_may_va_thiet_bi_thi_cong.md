@@ -12,6 +12,7 @@ usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh H�
 
 ---
 
+
 Mẫu số 03: Công bố giá ca máy và thiết bị thi công năm.... trên địa bàn tỉnh/thành phố......
 
 | STT | Mã hiệu | Loại máy và thiết bị | Số ca năm | Định mức (%) | Định mức tiêu hao nhiên liệu, năng lượng (1 ca) | Nhân công điều khiển máy | Nguyên giá tham khảo (1000 VNĐ) | Chi phí nhiên liệu (đồng/ ca) | Chi phí nhân công điều khiển máy vùng/ khu vực... (đồng/ca) | Giá ca máy vùng/ khu vực... (đồng/ ca) | &nbsp; | &nbsp; |
@@ -65,5 +66,6 @@ Mẫu số 03: Công bố giá ca máy và thiết bị thi công năm.... trên
 | III |  | MÁY VÀ THIẾT BỊ THÍ NGHIỆM ĐIỆN, ĐƯỜNG DÂY VÀ TRẠM BIẾN ÁP |  |  |  |  |  |  |  |  |  |  |
 | 3.1 |  | Bộ tạo nguồn 3 pha |  |  |  |  |  |  |  |  |  |  |
 | ... |  | ... | ... | ... |  |  |  |  |  |  |  |  |
+
 
 Ghi chú: Chi phí nhân công điều khiển máy và thiết bị theo vùng/khu vực công bố theo đặc điểm của địa phương.
