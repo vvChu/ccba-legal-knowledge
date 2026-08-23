@@ -3,7 +3,7 @@ id: "thong_tu_79_2026_tt_btc"
 document_number: "79/2026/TT-BTC"
 title: "Thông tư 79/2026/TT-BTC quy định thu, chi của Chủ đầu tư, Ban QLDA sử dụng vốn ngân sách nhà nước"
 issued_by: "Bộ Tài chính"
-signer: "Đang cập nhật"
+signer: "Tạ Anh Tuấn"
 issued_date: "2026-06-30"
 effective_date: "2026-07-01"
 status: "active"
@@ -52,7 +52,7 @@ legal_basis:
 ## THÔNG TƯ 79/2026/TT-BTC QUY ĐỊNH THU, CHI CỦA CHỦ ĐẦU TƯ, BAN QLDA SỬ DỤNG VỐN NGÂN SÁCH NHÀ NƯỚC
 
 > [!NOTE]
-> **Cơ quan ban hành:** Bộ Tài chính (Người ký: Đang cập nhật).  
+> **Cơ quan ban hành:** Bộ Tài chính (Người ký: KT. Bộ trưởng - Thứ trưởng Tạ Anh Tuấn).  
 > **Ngày ban hành:** 2026-06-30 | **Hiệu lực:** 2026-07-01.  
 > **Mỏ neo PDF Công báo (PDF Anchor of Trust):** [`thong_tu_79_2026_tt_btc.pdf`](./thong_tu_79_2026_tt_btc.pdf) *(SHA-256: `ccd9cd294aabe6603bada057d2511902ab883d376a090f43698165db3cb5fcc4`)*.
 
@@ -504,29 +504,19 @@ b) Có ý kiến tham gia bằng văn bản với chủ đầu tư về quyết 
 
 ---
 
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
+---
+
+## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU KÈM THEO
 
 > [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
+> Toàn bộ 9 Mẫu biểu đã được chuẩn hóa thành các Module Biểu mẫu nguyên tử độc lập tại thư mục [`./templates/`](./templates/):
 
-- 📊 **[bang_04](./tables/csv/bang_04.csv)**
-- 📊 **[bang_07](./tables/csv/bang_07.csv)**
-- 📊 **[bang_08](./tables/csv/bang_08.csv)**
-- 📊 **[bang_11](./tables/csv/bang_11.csv)**
-- 📊 **[bang_14](./tables/csv/bang_14.csv)**
-- 📊 **[bang_15](./tables/csv/bang_15.csv)**
-- 📊 **[bang_18](./tables/csv/bang_18.csv)**
-- 📊 **[bang_21](./tables/csv/bang_21.csv)**
-- 📊 **[bang_24](./tables/csv/bang_24.csv)**
-- 📊 **[bang_25](./tables/csv/bang_25.csv)**
-- 📊 **[bang_28](./tables/csv/bang_28.csv)**
-- 📊 **[bang_29](./tables/csv/bang_29.csv)**
-- 📊 **[bang_30](./tables/csv/bang_30.csv)**
-- 📊 **[bang_33](./tables/csv/bang_33.csv)**
-- 📊 **[bang_34](./tables/csv/bang_34.csv)**
-- 📊 **[bang_35](./tables/csv/bang_35.csv)**
-- 📊 **[bang_36](./tables/csv/bang_36.csv)**
-- 📊 **[bang_39](./tables/csv/bang_39.csv)**
-- 📊 **[bang_40](./tables/csv/bang_40.csv)**
-- 📊 **[bang_41](./tables/csv/bang_41.csv)**
-- 📊 **[bang_42](./tables/csv/bang_42.csv)**
+- 📋 [Mẫu số 01(i)/DT-QLDA — Bảng tính chi phí tư vấn, quản lý dự án (lập riêng cho từng dự án)](./templates/mau_01i_dt_qlda_bang_tinh_chi_phi_tu_van_quan_ly_du_an.md)
+- 📋 [Mẫu số 02/DT-QLDA — Bảng tính lương năm](./templates/mau_02_dt_qlda_bang_tinh_luong_nam.md)
+- 📋 [Mẫu số 03/DT-QLDA — Dự toán thu, chi quản lý dự án năm](./templates/mau_03_dt_qlda_du_toan_thu_chi_quan_ly_du_an_nam.md)
+- 📋 [Mẫu số 01/QĐ-QLDA — Quyết định phê duyệt dự toán thu, chi năm](./templates/mau_01_qd_qlda_quyet_dinh_phe_duyet_du_toan_thu_chi.md)
+- 📋 [Mẫu số 02/QĐ-QLDA — Quyết định phê duyệt dự toán thu, chi của Ban quản lý dự án](./templates/mau_02_qd_qlda_quyet_dinh_phe_duyet_du_toan_thu_chi_ban_qlda.md)
+- 📋 [Mẫu số 01/QT-QLDA — Bảng tổng hợp quyết toán thu, chi năm](./templates/mau_01_qt_qlda_bang_tong_hop_quyet_toan_thu_chi.md)
+- 📋 [Mẫu số 01.QĐ/QT-QLDA — Quyết định phê duyệt quyết toán thu, chi năm](./templates/mau_01_qd_qt_qlda_quyet_dinh_phe_duyet_quyet_toan_thu_chi.md)
+- 📋 [Mẫu số 02/QT-QLDA — Báo cáo quyết toán thu, chi năm](./templates/mau_02_qt_qlda_bao_cao_quyet_toan_thu_chi_nam.md)
+- 📋 [Mẫu số 02.QĐ/QT-QLDA — Quyết định phê duyệt quyết toán thu, chi năm](./templates/mau_02_qd_qt_qlda_quyet_dinh_phe_duyet_quyet_toan_thu_chi_nam.md)
