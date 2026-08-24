@@ -12,6 +12,7 @@
 3. **Độc lập Mã nguồn:** Không chứa code ứng dụng frontend/backend, tập trung 100% cho OKF Markdown Bundles, RAG Metadata, Atomic Templates và Pipeline kiểm định.
 4. **PDF là Mỏ Neo Pháp Lý Tối Thượng (ADR 0016):** 100% văn bản nạp vào phải có metadata theo dõi PDF Công báo gốc và mã băm SHA-256.
 5. **Thân Văn Bản Thuần Khiết & Biểu Mẫu Nguyên Tử (ADR 0021):** Thân văn bản chính loại bỏ 100% rác layout hành chính; Phụ lục biểu mẫu được tách thành Atomic Form Templates (`templates/phu_luc_XX/mau_YY_...md`); Bảng số liệu tra cứu đưa vào `tables/`.
+6. **Bảo Tồn Ký Tự Gốc & Kiểm Định Thị Giác (ADR 0029 & ADR 0030):** Bảo toàn $100\%$ dấu gạch đầu dòng `-` và `+` bằng cơ chế thoát ký tự `\- ` và `&nbsp;&nbsp;\+ `; Áp dụng Bảng Điều Hướng Phụ Lục 2D cho QCVN/TCVN; Tách chú thích ra khỏi ô bảng; Không dồn cục dòng; Bắt buộc vượt qua `lint_visual_parity.py`.
 
 ---
 
@@ -26,7 +27,7 @@ Bất kỳ khi nào tiếp nhận một Luật, Nghị định, Thông tư, QCVN
 python -m ccba_legal fetch "<url_or_doc_number>"
 ```
 
-### 1. Nạp & Chuyển đổi sang OKF v2.2 Bundle (ADR 0021):
+### 1. Nạp & Chuyển đổi sang OKF v2.2 Bundle (ADR 0021, ADR 0029, ADR 0030):
 ```powershell
 python -m ccba_legal convert ".md/extracted_docs/ten_van_ban/ten_file.docx" "legal_docs/01_vbpl/ten_van_ban"
 ```
@@ -41,10 +42,11 @@ python -m ccba_legal consolidate `
 
 ### 3. Kiểm định Bắt buộc qua Bộ Cổng CI Gates Spoke (Zero-Tolerance):
 ```powershell
+python scripts/lint_visual_parity.py
 python scripts/validate_legal_spoke.py
 python scripts/test_converter_regression.py
 python scripts/verify_cross_links.py
 python scripts/verify_all_docs_against_pdf.py
 python scripts/verify_docx_against_pdf.py
 ```
-*Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Valid Links, 100% PDF SHA-256 Match, 100% Visual Parity`.
+*Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Visual Parity, 100% Valid Links, 100% PDF SHA-256 Match`.

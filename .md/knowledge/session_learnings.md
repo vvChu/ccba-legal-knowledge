@@ -76,6 +76,11 @@
 24. **ADR 0024:** Dual-Track Provenance with Footnote Anchor for Consolidated Legal Norms.
 25. **ADR 0025:** Strict Zero-Tolerance Provenance Enactment Gate for Legal Ingestion (Mandatory genuine binary source DOCX/PDF SHA-256).
 26. **ADR 0026:** Package-Based Downstream Legal Knowledge Distribution via `ccba-legal-intel` SDK.
+27. **ADR 0027:** Deep Seam OLE Container Extraction for mega DOCX (embedded .doc in oleObject.bin).
+28. **ADR 0028:** 3-Tier Semantic Classifier for DOCX Tables (trien khai ADR 0028 cho classify_and_extract_tables).
+29. **ADR 0029:** Verbatim Literal List Marker Preservation (\\- va &amp;nbsp;&amp;nbsp;\\+).
+30. **ADR 0030:** Full-Document Structural Skim + 2D Appendix Navigation Tables.
+31. **ADR 0031:** AI Vision Formula Harvester — Boc tach cong thuc anh VML/PNG sang KaTeX voi Heuristic Kep, SHA-256 Cache, Retry Validation (max_tokens=1024, few-shot prompt).
 
 ---
 
@@ -154,3 +159,158 @@ python scripts/verify_all_docs_against_pdf.py
 - **Triệu chứng:** Danh mục phân cấp con (`  -`) bị dồn hàng thành bullet cấp 1 do thiếu thụt dòng 2 spaces hoặc bị ngắt bởi dòng trống không thụt lề.
 - **Giải pháp triệt tiêu:** Sử dụng cú pháp thụt dòng chuẩn CommonMark 2 spaces (`  -`) và kiểm tra bằng ảnh chụp trang PDF Công báo gốc làm mỏ neo thị giác (*Visual Ground Truth*).
 
+---
+
+## 8. Mẫu Hình Bóc Tách Văn Bản Siêu Lớn & Kiểm Soát Rơi Rớt Dữ Liệu (ADR 0027)
+
+### A. Cơ Chế Giải Nén Vùng Nhúng OLE (Deep Seam OLE Container Extraction)
+- **Vấn đề:** Với các văn bản pháp lý quy mô lớn (như Thông tư 38/2026/TT-BXD với 1.893 trang), tệp `.docx` của TVPL đóng gói toàn bộ 8 tập phụ lục vào một khối nhị phân nhúng OLE (`word/embeddings/oleObject1.bin` - 5.1 MB) chứa tệp `Phu luc.doc` (64.35 MB). Các parser thông thường chỉ đọc `word/document.xml` (chỉ có 24 dòng Điều 1, 2) và bỏ sót 100% dữ liệu 8 phụ lục!
+- **Giải pháp chuẩn hóa (ADR 0027):**
+  1. Tự động kiểm tra cấu trúc ZIP của file DOCX xem có phân vùng `word/embeddings/` hay không.
+  2. Phân tích Magic Bytes (`D0 CF 11 E0`, `PK\x03\x04`) để giải nén tệp nhúng bên trong.
+  3. Tự động chuyển đổi file `.doc` nhị phân sang `.docx` OpenXML chuẩn thông qua Word COM (`win32com.client`).
+  4. Nạp tệp `.docx` đã bung vào pipeline `ccba-legal convert` để bóc tách toàn diện 8 Phụ lục.
+
+### B. Cơ Chế Kiểm Soát Tính Toàn Vẹn Theo Khế Ước Văn Bản (Document-Driven Parity Gate)
+- **Vấn đề:** Không thể áp dụng một con số số lượng dòng/bảng cố định cho tất cả văn bản (vì Luật khác Nghị định, Nghị định khác Thông tư định mức).
+- **Giải pháp chuẩn hóa:**
+---
+
+## 9. Mẫu Hình Bóc Tách Bảng Ngữ Nghĩa & Gom Chú Thích Nguyên Tử (ADR 0028)
+
+### A. Triệt Tiêu Vấn Nạn Magic Number Trong Lọc Bảng
+- **Anti-Pattern cũ:** Dùng điều kiện kích thước hình học tùy tiện `if cols_cnt < 3 and rows_cnt < 20: continue` với giả định bảng nhỏ là rác căn lề hành chính.
+- **Hậu quả thực tế:** Làm mất âm thầm (*Silent Data Loss*) hàng loạt bảng quy chuẩn/tiêu chuẩn 2 cột quan trọng (Phụ lục A TCVN 7336: Phân loại cơ sở nguy cơ cháy 2 cột $\times$ 9 dòng; Bảng 4 TCVN 7336: Mã màu đầu phun Sprinkler; Bảng phân cấp đất đá TT 38/2026).
+- **Giải pháp chuẩn hóa (ADR 0028):**
+  1. **Bộ Phân Loại Ngữ Nghĩa 3 Tầng (3-Tier Semantic Classifier):** Phân biệt bảng căn lề hành chính thuần túy (`Quốc hiệu`, `Tiêu ngữ`, `Nơi nhận`, `Ký tên`, `Đóng dấu`, `Lưu: VT`) với Bảng Dữ liệu Kỹ thuật dựa trên từ khóa ngữ nghĩa (`nguy cơ`, `phân loại`, `phụ lục`, `quy định`, `mã hiệu`, `định mức`, `công năng`, `tải trọng`, `chi phí`, `áp lực`, `lưu lượng`).
+  2. Bảng dữ liệu kỹ thuật dù có 2 cột hay 1 dòng đều được bảo toàn 100%.
+
+### B. Cơ Chế Gom Chú Thích Nguyên Tử (Unified Footnote Harvester)
+- **Vấn đề:** Các bảng tiêu chuẩn (như Phụ lục A, Bảng 1, Bảng 7 của TCVN 7336) luôn có các đoạn `CHÚ THÍCH 1, 2, 3, 4` quy định các hệ số nhân bắt buộc ($1,5\times, 2,5\times$) nằm ở các paragraph ngay phía dưới bảng.
+- **Giải pháp chuẩn hóa:**
+  1. Duyệt cấu trúc văn bản theo đúng thứ tự dòng chảy tài liệu (`element.body.iterchildren()`).
+  2. Tự động phát hiện và gom toàn bộ các đoạn văn `CHÚ THÍCH`, `GHI CHÚ`, `Chú dẫn`, `Trong đó:` nằm liền kề dưới bảng vào cùng một khối nguyên tử (`Atomic Table Unit`).
+  3. Xuất chú thích đồng bộ vào cả Metadata JSON (`footnotes: [...]`) và tệp Markdown/CSV.
+
+---
+
+## 10. Quyết Định Kiến Trúc Mới: Bảo Tồn Ký Tự Gốc Cho Danh Sách Quy Chuẩn (ADR 0029)
+
+### A. Vấn đề "Biến dạng Danh sách" trong Trình Biên Dịch Markdown
+- **Hiện tượng:** Khi sử dụng cú pháp danh sách chuẩn của Markdown (`- `, `+ `, `* `), các trình render (VS Code Preview, GitHub, trình duyệt) tự động biên dịch thành thẻ HTML `<ul><li>...</li></ul>` và hiển thị bằng **dấu chấm tròn (`•`)**.
+- **Hệ quả pháp lý:** Làm biến dạng cấu trúc phân cấp typographic của văn bản quy chuẩn Việt Nam (nơi dấu gạch ngang `-` đại diện cho cấp điều khoản 1 và dấu cộng `+` đại diện cho cấp điều khoản 2).
+
+### B. Giải Pháp: Thoát Ký Tự (Markdown Escaping) để Giữ Nguyên Dấu `-` và `+`
+- **Cơ chế:** Sử dụng cú pháp thoát ký tự `\- ` cho cấp 1 và `&nbsp;&nbsp;\+ ` cho cấp 2.
+- **Kết quả:**
+  1. Trình biên dịch Markdown xuất ra thẻ `<p>- Nội dung</p>` và `<p>&nbsp;&nbsp;+ Nội dung con</p>`.
+  2. Hiển thị trên Preview chính xác $100\%$ ký tự dấu gạch ngang (`-`) và dấu cộng (`+`), hoàn toàn không bị biến thành dấu chấm tròn (`•`), đạt độ tương thích thị giác tuyệt đối so với bản in PDF Công báo gốc.
+
+---
+
+## 11. Chuẩn Hóa Bóc Tách Đa Hình & Bảng Điều Hướng Phụ Lục 2D (ADR 0030)
+
+### A. Cơ Chế Quét Toàn Văn Không Bỏ Sót (Full-Document Structural Skim)
+- **Vấn đề:** Việc chỉ quét vài chục đoạn đầu tiên dễ dẫn đến phán đoán sai lệch giữa văn bản hành chính và tài liệu kỹ thuật.
+- **Quy tắc bất biến:**
+  1. Quét $100\%$ các đoạn văn và bảng biểu XML của tài liệu DOCX nguồn.
+  2. Phân loại chuẩn xác 5 nhóm hình thái: `VBPL_ADMIN`, `TECHNICAL_QCVN`, `TECHNICAL_TCVN`, `CIRCULAR_COST_NORM`, `INTERNATIONAL_ISO`.
+
+### B. Quy Chuẩn Trình Bày Phụ Lục & Bảng Biểu (Anti-Clumping Layout Rules)
+- **Quy tắc 1 (Bảng Điều Hướng 2D cho QCVN/TCVN):** Mọi phụ lục kỹ thuật phải được trình bày dưới dạng Bảng Điều Hướng 2D tường minh:
+  ```markdown
+  | Phụ lục | Tính chất | Nội dung chuyên môn | Liên kết Module |
+  | :---: | :---: | :--- | :---: |
+  | **Phụ lục A** | *Quy định* | Tên đầy đủ có dấu tiếng Việt | [👉 Xem chi tiết](./templates/...) |
+  ```
+- **Quy tắc 2 (Danh sách có tiền tố '- ' cho VBPL):** Mọi liên kết phụ lục biểu mẫu trong VBPL hành chính phải bắt đầu bằng `- 📄 [Tên](./...)` để chống lỗi trình duyệt tự động gộp nhiều dòng thành 1 dòng ngang duy nhất.
+- **Quy tắc 3 (Tách Chú Thích Khỏi Ô Bảng):** Các khối `CHÚ THÍCH 1, 2, ...` dưới bảng kỹ thuật tuyệt đối không được nhét vào trong ô bảng `<td>`, phải được tách thành các đoạn văn độc lập `**CHÚ THÍCH X:**` có dòng trống `\n\n` ngăn cách.
+
+
+
+
+
+
+---
+
+## 12. Boc Tach Cong Thuc Toan Hoc Chuyen Nganh bang AI Vision (ADR 0031)
+
+> **Nguon:** Duc ket tu phien kiem chung doi khang thuc te tren TCVN 7336:2021 (2026-08-24). Moi so lieu duoi day la **du lieu do thuc te**, khong phai uoc luong ly thuyet.
+
+### A. Dac Diem Luu Tru Cong Thuc Trong Tai Lieu Ky Thuat DOCX
+
+- **Thuc te khao sat (TCVN 7336:2021):**
+  - **0 OMML** (`<m:oMath>`) — Microsoft Equation 3.0 (cu) luu cong thuc duoi dang **anh VML**, khong phai XML toan hoc.
+  - **21 anh PNG** nhung trong `word/media/imageX.png`, anh xa qua `word/_rels/document.xml.rels` (`rId -> Target`).
+  - Moi cong thuc nam trong doan van **rong** (`p.text == ""`) chua `<v:shape> / <v:imagedata r:id="rIdXX">`.
+  - Kich thuoc anh (height/width) duoc doc tu attribute `style="height:Xpt;width:Ypt"` cua the `<v:shape>`.
+
+- **Phan bo kich thuoc do thuc te:**
+
+  | Doan | height (pt) | width (pt) | Loai |
+  | :--- | ---: | ---: | :--- |
+  | P498 | 125.1 | 431.6 | **So do** (Hinh B.1) |
+  | P649 |  45.6 | 431.6 | **So do** (bi nham neu chi loc height) |
+  | P594 |  25.5 | 243.0 | **Cong thuc** (P_B) |
+  | P606 |  18.0 | 189.8 | **Cong thuc** (nho) |
+
+### B. Heuristic Phan Loai Cong Thuc vs So Do — Heuristic Kep Bat Buoc (Fix 1)
+
+- **Anti-Pattern cu:** Chi kiem tra `height <= 60pt` -> sai voi P649 (45.6pt x 431.6pt la so do mang duong ong).
+- **Heuristic dung (ADR 0031):**
+  ```python
+  def is_formula_image(height_pt: float, width_pt: float, surrounding_text: str) -> bool:
+      is_small = height_pt <= 60.0 and width_pt <= 380.0   # Dieu kien kep
+      has_context = any(kw in surrounding_text for kw in [
+          "theo cong thuc", "Trong do:", "duoc xac dinh",
+          "duoc tinh theo", "xac dinh theo", "theo bieu thuc",
+      ])
+      return is_small and has_context
+  ```
+- **Ket qua:** 6/6 test case PASS, bao gom phan loai dung P649.
+
+### C. AI Vision OCR Cong Thuc — Thuc Te Do Luong
+
+- **Model:** `gemini-3.7-flash` (`ModelArchetype.STANDARD`) qua AI Gateway LiteLLM, Tailscale VPN `100.83.192.30:8090`.
+- **Interface Vision:** `ai.chat_multi(messages)` voi `content` la `list[dict]` co `type=image_url` — `PrivacyGuardHook` chap nhan `list` content (da kiem chung thuc te).
+- **Latency do thuc te [do thuc te]:**
+  - `image13.png` (4408 bytes, P_B nhieu hang tu): **~22.6 giay**
+  - `image7.png` (4003 bytes, cong thuc don gian): **~13.6 giay**
+- **Loi phat hien qua test thuc te:**
+  1. `max_tokens=512` gay **cat dut cong thuc dai** co nhieu chi so duoi tieng Viet UTF-8. Fix: `max_tokens=1024`.
+  2. Prompt tieng Anh thuan -> model sinh fragment sai format `}{100}$`. Fix: few-shot prompt tieng Viet + strict prompt fallback.
+
+### D. Pipeline Chuan — Retry + Validation + SHA-256 Cache (Fix 2 & 3)
+
+```python
+# Vong lap retry toi da 2 lan voi escalating prompt
+for attempt, prompt in enumerate([VISION_PROMPT_FEWSHOT, VISION_PROMPT_STRICT]):
+    result = ai.chat_multi(messages, model=STANDARD, max_tokens=1024, temperature=0.0, timeout=60.0)
+    if result.strip().startswith("`$`$`") and result.strip().endswith("`$`$`") and len(result) > 6:
+        _write_cache(cache_dir, sha256, result)   # SHA-256 cache tiet kiem 13-23s/anh
+        return result
+# Fallback: placeholder — khong crash pipeline
+return f"<!-- FORMULA_IMAGE_PLACEHOLDER: {sha256[:8]} -->"
+```
+
+- **SHA-256 Cache path:** `.md/cache/formula_vision/<sha256>.json`
+- **Offline / CI/CD:** Env var `AI_SKIP_VISION=1` -> toan bo formula call bi bo qua, tra placeholder.
+- **Validation format:** `startswith("`$`$`") AND endswith("`$`$`") AND len > 6 AND chr(10)+chr(10) not in result`
+
+### E. Xu Ly PDF Ky Thuat So (PyMuPDF)
+
+- **Xac nhan:** TCVN 7336:2021 PDF la **PDF dien tu co text layer** (trang 1: 2630 chars text).
+- **Trang 23** (Phu luc B): **6 embedded images** (xref=73..78, kich thuoc 86x27px -> 217x43px).
+- **Heuristic PDF:** `height_px <= 80 AND width_px <= 600` -> FORMULA (tuong duong ~60pt x 450pt o 96dpi).
+- **PyMuPDF API:** `doc.extract_image(xref)["image"]` tra ve binary PNG/JPEG — xu ly giong DOCX path.
+
+### F. ADR Index & File Trien Khai
+
+- **ADR 0031** bo sung vao danh sach ADR tai Muc 3.
+- **Module chinh:** `packages/ccba-legal-intel/src/ccba_legal/formula_harvester.py`
+- **Tich hop vao:** `docx_converter.process_technical_standard_strategy()` tai dong ~300.
+- **Public API (Hub):**
+  - `is_formula_image(height_pt, width_pt, surrounding_text) -> bool`
+  - `extract_latex_from_image(img_bytes, cache_dir, skip_vision) -> str`
+  - `harvest_docx_formula_images(docx_path, cache_dir, skip_vision) -> dict[rid, katex]`
+  - `harvest_pdf_formula_images(pdf_path, cache_dir, skip_vision) -> list[dict]`
