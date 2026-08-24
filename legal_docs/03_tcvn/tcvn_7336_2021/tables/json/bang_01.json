@@ -1,0 +1,96 @@
+{
+  "table_id": "bang_01",
+  "rows_count": 11,
+  "columns_count": 6,
+  "headers": [
+    "Nhóm nguy cơ phát sinh cháy",
+    "Cường độ phun tối thiểu (l/s.m2)",
+    "Lưu lượng tối thiểu(1) (l/s)",
+    "Diện tích tính toán tối thiểu(1) (m2)",
+    "Thời gian phun tối thiểu",
+    "Khoảng cách tối đa giữa các đầu phun (1) (m)"
+  ],
+  "records": [
+    {
+      "Nhóm nguy cơ phát sinh cháy": "Nhóm nguy cơ phát sinh cháy",
+      "Cường độ phun tối thiểu (l/s.m2)": "Bằng nước",
+      "Lưu lượng tối thiểu(1) (l/s)": "Bằng dung dịch chất tạo bọt",
+      "Diện tích tính toán tối thiểu(1) (m2)": "Bằng nước",
+      "Thời gian phun tối thiểu": "Bằng dung dịch chất tạo bọt",
+      "Khoảng cách tối đa giữa các đầu phun (1) (m)": "Diện tích tính toán tối thiểu(1) (m2)"
+    },
+    {
+      "Nhóm nguy cơ phát sinh cháy": "1",
+      "Cường độ phun tối thiểu (l/s.m2)": "0,08",
+      "Lưu lượng tối thiểu(1) (l/s)": "-",
+      "Diện tích tính toán tối thiểu(1) (m2)": "10",
+      "Thời gian phun tối thiểu": "-",
+      "Khoảng cách tối đa giữa các đầu phun (1) (m)": "60"
+    },
+    {
+      "Nhóm nguy cơ phát sinh cháy": "2",
+      "Cường độ phun tối thiểu (l/s.m2)": "0,12",
+      "Lưu lượng tối thiểu(1) (l/s)": "0,08",
+      "Diện tích tính toán tối thiểu(1) (m2)": "30",
+      "Thời gian phun tối thiểu": "20",
+      "Khoảng cách tối đa giữa các đầu phun (1) (m)": "120"
+    },
+    {
+      "Nhóm nguy cơ phát sinh cháy": "3",
+      "Cường độ phun tối thiểu (l/s.m2)": "0,24",
+      "Lưu lượng tối thiểu(1) (l/s)": "0,12",
+      "Diện tích tính toán tối thiểu(1) (m2)": "60",
+      "Thời gian phun tối thiểu": "30",
+      "Khoảng cách tối đa giữa các đầu phun (1) (m)": "120"
+    },
+    {
+      "Nhóm nguy cơ phát sinh cháy": "4.1",
+      "Cường độ phun tối thiểu (l/s.m2)": "0,3",
+      "Lưu lượng tối thiểu(1) (l/s)": "0,15",
+      "Diện tích tính toán tối thiểu(1) (m2)": "110",
+      "Thời gian phun tối thiểu": "55",
+      "Khoảng cách tối đa giữa các đầu phun (1) (m)": "180"
+    },
+    {
+      "Nhóm nguy cơ phát sinh cháy": "4.2",
+      "Cường độ phun tối thiểu (l/s.m2)": "-",
+      "Lưu lượng tối thiểu(1) (l/s)": "0,17",
+      "Diện tích tính toán tối thiểu(1) (m2)": "-",
+      "Thời gian phun tối thiểu": "65",
+      "Khoảng cách tối đa giữa các đầu phun (1) (m)": "180"
+    },
+    {
+      "Nhóm nguy cơ phát sinh cháy": "5",
+      "Cường độ phun tối thiểu (l/s.m2)": "Theo bảng 2",
+      "Lưu lượng tối thiểu(1) (l/s)": "90",
+      "Diện tích tính toán tối thiểu(1) (m2)": "60",
+      "Thời gian phun tối thiểu": "3",
+      "Khoảng cách tối đa giữa các đầu phun (1) (m)": ""
+    },
+    {
+      "Nhóm nguy cơ phát sinh cháy": "6",
+      "Cường độ phun tối thiểu (l/s.m2)": "Theo bảng 2",
+      "Lưu lượng tối thiểu(1) (l/s)": "90",
+      "Diện tích tính toán tối thiểu(1) (m2)": "60",
+      "Thời gian phun tối thiểu": "3",
+      "Khoảng cách tối đa giữa các đầu phun (1) (m)": ""
+    },
+    {
+      "Nhóm nguy cơ phát sinh cháy": "7",
+      "Cường độ phun tối thiểu (l/s.m2)": "Theo bảng 2",
+      "Lưu lượng tối thiểu(1) (l/s)": "90",
+      "Diện tích tính toán tối thiểu(1) (m2)": "(10-25)(2)",
+      "Thời gian phun tối thiểu": "3",
+      "Khoảng cách tối đa giữa các đầu phun (1) (m)": ""
+    },
+    {
+      "Nhóm nguy cơ phát sinh cháy": "CHÚ THÍCH 1: (1) Áp dụng với với hệ thống chữa cháy tự động Sprinkler, hệ thống chữa cháy tự động Sprinkler-Drencher; (2) Thời gian phun của hệ thống chữa cháy tự động bằng bọt bội số nở thấp và trung bình để chữa cháy theo diện tích: 25 min - đối với các phòng thuộc nguy cơ cháy nhóm 7; 15 min - đối với các phòng thuộc hạng nguy hiểm cháy nổ A, B và C1; 10 min - đối với các phòng thuộc hạng nguy hiểm cháy nổ C2 và C3. CHÚ THÍCH 2: Nhóm nguy cơ phát sinh cháy được quy định trong Phụ lục A. CHÚ THÍCH 3: Đối với hệ thống chữa cháy sử dụng nước pha thêm chất phụ gia (bảo đảm theo thông số kỹ thuật, yêu cầu của nhà sản xuất) để tăng khả năng thẩm thấu trên nguyên lý pha chất tạo bọt, cường độ phun và lưu lượng cho phép giảm 1,5 lần so với nước. CHÚ THÍCH 4: Đối với hệ thống Sprinkler, các giá trị cường độ phun và lưu lượng nước hoặc dung dịch chất tạo bọt, được áp dụng cho các phòng cao dưới 10 m, cũng như cho các gian phòng có ô lấy sáng với tổng diện tích ô lấy sáng trên mái không quá 10% diện tích. Chiều cao của các gian phòng có ô lấy sáng khi diện tích ô lấy sáng hơn 10% được lấy đến phần mái che. Các thông số quy định của việc lắp đặt cho các phòng có chiều cao từ 10 đến 20 m được thực hiện theo các bảng 2, 3 CHÚ THÍCH 5: Nếu khu vực được bảo vệ thực tế (Stt) nhỏ hơn diện tích tính toán tối thiểu (S) được quy định trong Bảng 1, thì lưu lượng thực tế có thể giảm theo hệ số K = Stt / S CHÚ THÍCH 6: Để tính toán lưu lượng của hệ thống Drencher, cần xác định số lượng đầu phun trong khu vực chữa cháy của hệ thống và tính toán theo Phụ lục B (đối với cường độ phun theo Bảng 1, 2, 3, tương ứng với nhóm nguy cơ phát sinh cháy trong Phụ lục A). CHÚ THÍCH 7: Bảng này thể hiện cường độ phun của dung dịch chất tạo bọt thông thường. CHÚ THÍCH 8: Đối với hệ thống chữa cháy Drencher, cho phép bố trí khoảng cách giữa các đầu phun lớn hơn trong Bảng 1, khi đó các đầu phun phải bảo đảm các giá trị cường độ phun của toàn bộ khu vực được bảo vệ và không mâu thuẫn với các tài liệu kỹ thuật cho loại đầu phun này. CHÚ THÍCH 9: Khoảng cách giữa các đầu phun dưới trần, mái dốc được xác định theo phương ngang.",
+      "Cường độ phun tối thiểu (l/s.m2)": "",
+      "Lưu lượng tối thiểu(1) (l/s)": "",
+      "Diện tích tính toán tối thiểu(1) (m2)": "",
+      "Thời gian phun tối thiểu": "",
+      "Khoảng cách tối đa giữa các đầu phun (1) (m)": ""
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,56 @@
+{
+  "table_id": "bang_06",
+  "rows_count": 12,
+  "columns_count": 2,
+  "headers": [
+    "Đường kính",
+    "Sức cản đơn vị A, s2/l6"
+  ],
+  "records": [
+    {
+      "Đường kính": "Đường kính danh định DN",
+      "Sức cản đơn vị A, s2/l6": "Tính toán, mm"
+    },
+    {
+      "Đường kính": "20",
+      "Sức cản đơn vị A, s2/l6": "20,25"
+    },
+    {
+      "Đường kính": "25",
+      "Sức cản đơn vị A, s2/l6": "26"
+    },
+    {
+      "Đường kính": "32",
+      "Sức cản đơn vị A, s2/l6": "34,75"
+    },
+    {
+      "Đường kính": "40",
+      "Sức cản đơn vị A, s2/l6": "0,04453"
+    },
+    {
+      "Đường kính": "50",
+      "Sức cản đơn vị A, s2/l6": "52"
+    },
+    {
+      "Đường kính": "70",
+      "Sức cản đơn vị A, s2/l6": "67"
+    },
+    {
+      "Đường kính": "80",
+      "Sức cản đơn vị A, s2/l6": "79,5"
+    },
+    {
+      "Đường kính": "100",
+      "Sức cản đơn vị A, s2/l6": "105"
+    },
+    {
+      "Đường kính": "125",
+      "Sức cản đơn vị A, s2/l6": "130"
+    },
+    {
+      "Đường kính": "150",
+      "Sức cản đơn vị A, s2/l6": "155"
+    }
+  ],
+  "footnotes": []
+}

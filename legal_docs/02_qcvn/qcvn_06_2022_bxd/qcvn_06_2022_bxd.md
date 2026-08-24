@@ -203,11 +203,14 @@ Chiều cao PCCC của nhà (không tính tầng kỹ thuật trên cùng) đư�
 - Bằng một nửa tổng khoảng cách tính từ mặt đường cho xe chữa cháy tiếp cận đến mặt sàn và đến trần của tầng trên cùng - khi không có lỗ cửa (cửa sổ).
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Khi mái nhà được khai thác sử dụng thì chiều cao PCCC của nhà được xác định hàng khoảng cách lớn nhất từ mai đường cho xe chữa cháy tiếp cận đến mép trên tường bao của mái
 
-- **CHÚ THÍCH 2:** Khi xác định chiều cao PCCC thì mái nhà không được tính là có khai thác sử dụng nếu con người không có mặt thường xuyên trên mái
+**CHÚ THÍCH 1:** Khi mái nhà được khai thác sử dụng thì chiều cao PCCC của nhà được xác định hàng khoảng cách lớn nhất từ mai đường cho xe chữa cháy tiếp cận đến mép trên tường bao của mái
 
-- **CHÚ THÍCH 3:** Khi có ban công (lô gia) hoặc kết cấu bao che (lan can) cửa sổ thì chiều cao PCCC được tính bằng khoảng cách lớn nhất từ mặt đường cho xe chữa cháy tiếp cận đến mép trên của kết cấu bao che (lan can).
+
+**CHÚ THÍCH 2:** Khi xác định chiều cao PCCC thì mái nhà không được tính là có khai thác sử dụng nếu con người không có mặt thường xuyên trên mái
+
+
+**CHÚ THÍCH 3:** Khi có ban công (lô gia) hoặc kết cấu bao che (lan can) cửa sổ thì chiều cao PCCC được tính bằng khoảng cách lớn nhất từ mặt đường cho xe chữa cháy tiếp cận đến mép trên của kết cấu bao che (lan can).
 
 #### <a id="muc-1-4-10" name="muc-1-4-10"></a>1.4.10  Chiều cao tia nước đặc
 
@@ -699,11 +702,14 @@ _CHÚ THÍCH: Cấp nguy hiểm cháy của vật liệu xây dựng là chỉ t
 - Mất khả năng hạn chế bức xạ nhiệt (ký hiệu bằng chữ W) do thông lượng nhiệt ở khoảng cách quy định từ bề mặt không bị đốt nóng của cấu kiện/kết cấu đạt tới giá trị giới hạn.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Giới hạn chịu lửa của cấu kiện xây dựng được xác định bằng thử nghiệm chịu lửa theo TCVN 9311-1 đến TCVN 9311-8 hoặc các tiêu chuẩn tương đương hoặc bằng tính toán theo tiêu chuẩn thiết kế chịu lửa được áp dụng.
-  - Giới hạn chịu lửa của các ống dẫn khói, không khí được xác định theo tiêu chuẩn ISO 6944 hoặc các tiêu chuẩn tương đương.
-- **CHÚ THÍCH 2:** Giới hạn chịu lửa yêu cầu của các cấu kiện xây dựng cụ thể được quy định trong quy chuẩn này và trong các quy chuẩn kỹ thuật cho từng loại công trình. Giới hạn chịu lửa yêu cầu của cấu kiện xây dựng được ký hiệu bằng REI, REW, EI, EW, EIW, RE hoặc R kèm theo các chỉ số tương ứng về thời gian chịu tác động của lửa tính bằng phút. Ví dụ: cấu kiện có giới hạn chịu lửa yêu cầu là REI 120 nghĩa là cấu kiện phải duy trì được đồng thời cả ba khả năng: chịu lực, toàn vẹn và cách nhiệt trong khoảng thời gian chịu tác động của lửa là 120 phút. Cấu kiện có giới hạn chịu lửa yêu cầu là R 60, thì cấu kiện chỉ phải duy trì khả năng chịu lực trong thời gian 60 phút, không yêu cầu về khả năng cách nhiệt và tính toàn vẹn.
 
-- **CHÚ THÍCH 3:** Một cấu kiện xây dựng được cho là bảo đảm yêu cầu về giới hạn chịu lửa nếu thoả mãn một trong các điều kiện sau:
+**CHÚ THÍCH 1:** Giới hạn chịu lửa của cấu kiện xây dựng được xác định bằng thử nghiệm chịu lửa theo TCVN 9311-1 đến TCVN 9311-8 hoặc các tiêu chuẩn tương đương hoặc bằng tính toán theo tiêu chuẩn thiết kế chịu lửa được áp dụng.
+  - Giới hạn chịu lửa của các ống dẫn khói, không khí được xác định theo tiêu chuẩn ISO 6944 hoặc các tiêu chuẩn tương đương.
+
+**CHÚ THÍCH 2:** Giới hạn chịu lửa yêu cầu của các cấu kiện xây dựng cụ thể được quy định trong quy chuẩn này và trong các quy chuẩn kỹ thuật cho từng loại công trình. Giới hạn chịu lửa yêu cầu của cấu kiện xây dựng được ký hiệu bằng REI, REW, EI, EW, EIW, RE hoặc R kèm theo các chỉ số tương ứng về thời gian chịu tác động của lửa tính bằng phút. Ví dụ: cấu kiện có giới hạn chịu lửa yêu cầu là REI 120 nghĩa là cấu kiện phải duy trì được đồng thời cả ba khả năng: chịu lực, toàn vẹn và cách nhiệt trong khoảng thời gian chịu tác động của lửa là 120 phút. Cấu kiện có giới hạn chịu lửa yêu cầu là R 60, thì cấu kiện chỉ phải duy trì khả năng chịu lực trong thời gian 60 phút, không yêu cầu về khả năng cách nhiệt và tính toàn vẹn.
+
+
+**CHÚ THÍCH 3:** Một cấu kiện xây dựng được cho là bảo đảm yêu cầu về giới hạn chịu lửa nếu thoả mãn một trong các điều kiện sau:
 
   a) Cấu kiện có cấu tạo với đặc điểm kỹ thuật giống như mẫu thử nghiệm chịu lửa và mẫu này khi thử nghiệm có giới hạn chịu lửa không nhỏ hơn giới hạn chịu lửa yêu cầu của cấu kiện đó.
 
@@ -726,12 +732,14 @@ _CHÚ THÍCH:_
 ### 2.2.3.2  Giá trị các tiêu chí để xếp cấu kiện xây dựng vào một cấp nguy hiểm cháy nhất định được xác định phù hợp với các phương pháp nêu trong các tiêu chuẩn quốc gia (hoặc tương đương) về thử nghiệm an toàn cháy.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Cho phép xếp cấu kiện xây dựng vào cấp nguy hiểm cháy mà không cần thử nghiệm như sau:
+
+**CHÚ THÍCH 1:** Cho phép xếp cấu kiện xây dựng vào cấp nguy hiểm cháy mà không cần thử nghiệm như sau:
   a) Cấp K0 - nếu cấu kiện được chế tạo chỉ từ vật liệu không cháy;
   b) Cấp K1 - nếu bề mặt ngoài của cấu kiện được cấu tạo từ vật liệu có đồng thời các chỉ tiêu kỹ thuật về cháy không nguy hiểm hơn Ch1, BC1, SK1;
   c) Cấp K2 - nếu bề mặt ngoài của cấu kiện được cấu tạo từ vật liệu có đồng thời các chỉ tiêu kỹ thuật về cháy không nguy hiểm hơn Ch2, BC2, SK2;
   d) Cấp K3 - nếu bề mặt ngoài của cấu kiện được cấu tạo chỉ từ các vật liệu có một trong các chỉ tiêu kỹ thuật về cháy là Ch3, BC3, SK3
-- **CHÚ THÍCH 2:** Cấu kiện tường kính bao che (facad) được coi là cấu kiện có cấp nguy hiểm cháy K0, nếu các bộ phận của nó (bao gồm cả bộ phận liên kết với nhà) được làm từ vật liệu không cháy. Cho phép không xét đến các mạch chèn bịt và lớp phủ mặt ngoài có chiều dày nhỏ hơn 0,3 mm (nếu có)
+
+**CHÚ THÍCH 2:** Cấu kiện tường kính bao che (facad) được coi là cấu kiện có cấp nguy hiểm cháy K0, nếu các bộ phận của nó (bao gồm cả bộ phận liên kết với nhà) được làm từ vật liệu không cháy. Cho phép không xét đến các mạch chèn bịt và lớp phủ mặt ngoài có chiều dày nhỏ hơn 0,3 mm (nếu có)
 
 <a id="muc-2-3"></a>
 ### 2.3  Bộ phận ngăn cháy
@@ -860,9 +868,11 @@ Loại 2 - cầu thang bên trong nhà, để hở;
 Loại 3 - cầu thang bên ngoài nhà, để hở.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** "Để hở" nghĩa là không được đặt trong buồng thang bộ.
 
-- **CHÚ THÍCH 2:** Một số hình minh họa về các loại cầu thang bộ được thể hiện tai Phụ lục I.
+**CHÚ THÍCH 1:** "Để hở" nghĩa là không được đặt trong buồng thang bộ.
+
+
+**CHÚ THÍCH 2:** Một số hình minh họa về các loại cầu thang bộ được thể hiện tai Phụ lục I.
 
 <a id="muc-2-4-2-2"></a>
 ### 2.4.2.2  Thang chữa cháy để phục vụ cho việc chữa cháy và cứu nạn được phân thành 2 loại sau:
@@ -965,14 +975,20 @@ Bậc chịu lửa của nhà, công trình, khoang cháy được thiết lập
 | V | Không quy định | Không quy định | Không quy định | Không quy định | Không quy định | Không quy định | Không quy định | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Trong các nhà có bậc chịu lửa I, II, III thì sàn và trần của tầng hầm, tầng nửa hầm phải làm bằng vật liệu không cháy và có giới hạn chịu lửa ít nhất REI 90. Sàn tầng 1 và tầng trên cùng phải làm bằng vật liệu có tính cháy không thấp hơn Ch1. Trong các nhà có bậc chịu lửa IV, V thì sàn của tầng hầm hoặc tầng nửa hầm phải làm bằng vật liệu có tính cháy không thấp hơn Ch1 và có giới hạn chịu lửa không dưới REl 45.
-- **CHÚ THÍCH 2:** Không quy định giới hạn chịu lửa của các tấm lợp (kể cả tấm lợp có lớp cách nhiệt) và xà gồ đỡ tấm lợp (trừ các nhà, khoang cháy, gian phòng thuộc nhóm nguy hiểm cháy theo công năng F3.1, F3.2, nhà sản xuất, nhà kho nhóm F5 và các nhà, gian phòng, khoang cháy khác thuộc hạng A, B, C) khi thoả mãn đồng thời các điều kiện sau:
+
+**CHÚ THÍCH 1:** Trong các nhà có bậc chịu lửa I, II, III thì sàn và trần của tầng hầm, tầng nửa hầm phải làm bằng vật liệu không cháy và có giới hạn chịu lửa ít nhất REI 90. Sàn tầng 1 và tầng trên cùng phải làm bằng vật liệu có tính cháy không thấp hơn Ch1. Trong các nhà có bậc chịu lửa IV, V thì sàn của tầng hầm hoặc tầng nửa hầm phải làm bằng vật liệu có tính cháy không thấp hơn Ch1 và có giới hạn chịu lửa không dưới REl 45.
+
+**CHÚ THÍCH 2:** Không quy định giới hạn chịu lửa của các tấm lợp (kể cả tấm lợp có lớp cách nhiệt) và xà gồ đỡ tấm lợp (trừ các nhà, khoang cháy, gian phòng thuộc nhóm nguy hiểm cháy theo công năng F3.1, F3.2, nhà sản xuất, nhà kho nhóm F5 và các nhà, gian phòng, khoang cháy khác thuộc hạng A, B, C) khi thoả mãn đồng thời các điều kiện sau:
   - Mặt dưới xà gồ nằm cách sàn ngay dưới chúng một khoảng cách tối thiểu 6,1 m;
   - Tấm lợp và xà gồ được làm từ các vật liệu không cháy hoặc cháy yếu (Ch1).
-- **CHÚ THÍCH 3:** Đối với nhà (nhà nhóm F1.3 và nhà hỗn hợp) có 2 hoặc 3 tầng hầm thì các cấu kiện kết cấu chịu lực ở tầng hầm phải có giới hạn chịu lửa tối thiểu R 120.
-- **CHÚ THÍCH 4:** Trong các phòng có sản xuất hoặc bảo quản các chất lỏng cháy được thì sàn phải làm bằng vật liệu không cháy.
-- **CHÚ THÍCH 5:** Cho phép một phần tường ngoài không chịu lực không cần bảo vệ chống cháy với diện tích xác định theo E.3, Phụ lục E.
-- **CHÚ THÍCH 6:** Không quy định giới hạn chịu lửa của tường ngoài không chịu lực đối với các mặt nhà đồng thời thoả mãn các điều kiện sau:
+
+**CHÚ THÍCH 3:** Đối với nhà (nhà nhóm F1.3 và nhà hỗn hợp) có 2 hoặc 3 tầng hầm thì các cấu kiện kết cấu chịu lực ở tầng hầm phải có giới hạn chịu lửa tối thiểu R 120.
+
+**CHÚ THÍCH 4:** Trong các phòng có sản xuất hoặc bảo quản các chất lỏng cháy được thì sàn phải làm bằng vật liệu không cháy.
+
+**CHÚ THÍCH 5:** Cho phép một phần tường ngoài không chịu lực không cần bảo vệ chống cháy với diện tích xác định theo E.3, Phụ lục E.
+
+**CHÚ THÍCH 6:** Không quy định giới hạn chịu lửa của tường ngoài không chịu lực đối với các mặt nhà đồng thời thoả mãn các điều kiện sau:
   - Toàn nhà được trang bị chữa cháy tự động sprinkler theo TCVN 7336;
   - Bảo đảm khoảng cách phòng cháy chống cháy tối thiểu tương ứng với 100 % diện tích tường ngoài không cần bảo vệ chống cháy tại E.3, Phụ lục E;
   - Tường ngoài không chịu lực của nhà có cấp nguy hiểm cháy K0. Vật liệu hoàn thiện tường ngoài (nếu có) là vật liệu không cháy hoặc có tính cháy không thấp hơn Ch1 và tính lan truyền cháy không thấp hơn LT1.
@@ -1248,9 +1264,11 @@ Các cửa đi có cánh mở ra (cửa bản lề) nằm trong các cửa nói 
 ### 3.2.4  Số lượng và chiều rộng của các lối ra thoát nạn từ các gian phòng, các tầng và các nhà được xác định theo số lượng người thoát nạn lớn nhất có thể đi qua chúng và khoảng cách giới hạn cho phép từ chỗ xa nhất có thể có người (sinh hoạt, làm việc) tới lối ra thoát nạn gần nhất.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Số lượng người thoát nạn lớn nhất từ các không gian khác nhau của nhà hoặc phần nhà được xác định theo G.3, Phụ lục G
 
-- **CHÚ THÍCH 2:** Ngoài các yêu cầu chung được nêu trong quy chuẩn này, yêu cầu cụ thể về số lượng và chiều rộng của các lối ra thoát nạn được nếu trong tài liệu chuẩn cho từng loại công trình. Phụ lục G nêu một số quy định cụ thể cho các nhóm nhà thường gặp.
+**CHÚ THÍCH 1:** Số lượng người thoát nạn lớn nhất từ các không gian khác nhau của nhà hoặc phần nhà được xác định theo G.3, Phụ lục G
+
+
+**CHÚ THÍCH 2:** Ngoài các yêu cầu chung được nêu trong quy chuẩn này, yêu cầu cụ thể về số lượng và chiều rộng của các lối ra thoát nạn được nếu trong tài liệu chuẩn cho từng loại công trình. Phụ lục G nêu một số quy định cụ thể cho các nhóm nhà thường gặp.
 
 - Các phần nhà có công năng khác nhau và được ngăn chia bởi các bộ phận ngăn cháy thì phải có các lối ra thoát nạn độc lập, trừ các trường hợp được quy định cụ thể trong quy chuẩn này.
 
@@ -1829,9 +1847,11 @@ Cửa của các khoang đệm ngăn cháy, cửa đi, cửa nắp ngăn cháy t
 Đối với các kênh, giếng và đường ống để vận chuyển các chất và vật liệu khác với các loại nói trên thì tại các vị trí giao cắt với các bộ phận ngăn cháy này phải có thiết bị tự động ngăn cản sự lan truyền của các sản phẩm cháy theo các kênh, giếng và ống dẫn.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Cho phép đặt ống thông gió và ống khói trong tường ngăn cháy của nhà ở, công trình công cộng và nhà phụ trợ khi chiều dày tối thiểu của tường ngăn cháy (trừ tiết diện đường ống) ở chỗ đó không được dưới 25 cm, còn chiều dày của phần ngăn giữa ống khói và ống thông hơi tối thiểu là 12 cm.
 
-- **CHÚ THÍCH 2:** Những lỗ đặt ống dẫn nước ở bộ phận ngăn cháy phải được xử lý phù hợp với quy định tại 4.1.2.
+**CHÚ THÍCH 1:** Cho phép đặt ống thông gió và ống khói trong tường ngăn cháy của nhà ở, công trình công cộng và nhà phụ trợ khi chiều dày tối thiểu của tường ngăn cháy (trừ tiết diện đường ống) ở chỗ đó không được dưới 25 cm, còn chiều dày của phần ngăn giữa ống khói và ống thông hơi tối thiểu là 12 cm.
+
+
+**CHÚ THÍCH 2:** Những lỗ đặt ống dẫn nước ở bộ phận ngăn cháy phải được xử lý phù hợp với quy định tại 4.1.2.
 
 <a id="muc-4-2-3"></a>
 ### 4.2.3  Các kết cấu bao che của các giếng thang máy (trừ các giếng đã nêu tại 3.4.6) và các phòng máy của thang máy (trừ các phòng trên mái), cũng như của các kênh, giếng và hộp kỹ thuật phải đáp ứng các yêu cầu đặt ra như đối với các vách ngăn cháy loại 1 và các sàn ngăn cháy loại 3. Không quy định giới hạn chịu lửa của các kết cấu bao che giữa giếng thang máy và phòng máy của thang máy.
@@ -1910,9 +1930,11 @@ b) Ô văng cửa được làm bằng vật liệu không cháy, có chiều r�
 c) Phần tường ngoài tiếp giáp với sàn giữa các tầng bằng kính cường lực, có chiều dày không nhỏ hơn 6 mm, được trang bị các đầu phun sprinkler của thiết bị chữa cháy tự động, bảo đảm các đầu phun được đặt cách nhau không quá 2 m từ phía các gian phòng (hành lang) liền kề tường ngoài và cách mặt trong của tường ngoài không quá 0,5 m.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Yêu cầu về giới hạn chịu lửa (nếu có) của các thành phần hình thành nên đai ngăn cháy được lấy phù hợp với Bảng 4 hoặc Bảng A.1 tùy theo quy mô của nhà. Đối với thành phần ngăn cách theo phương đứng phải bảo đảm chỉ tiêu toàn vẹn (E), đối với chi tiết mối nối hoặc chèn bịt khe hở phải bảo đảm chỉ tiêu toàn vẹn (E) và cách nhiệt (I), đối với chi tiết liên kết cố định phải bảo đảm chỉ tiêu chịu lực (R).
 
-- **CHÚ THÍCH 2:** Các yêu cầu nêu trên không áp dụng đối với vị trí các cửa ra vào của lô gia và ban công, có phần bản sàn ban công đưa ra lớn hơn 0,6 m cũng như đối với các lối ra thoát nạn.
+**CHÚ THÍCH 1:** Yêu cầu về giới hạn chịu lửa (nếu có) của các thành phần hình thành nên đai ngăn cháy được lấy phù hợp với Bảng 4 hoặc Bảng A.1 tùy theo quy mô của nhà. Đối với thành phần ngăn cách theo phương đứng phải bảo đảm chỉ tiêu toàn vẹn (E), đối với chi tiết mối nối hoặc chèn bịt khe hở phải bảo đảm chỉ tiêu toàn vẹn (E) và cách nhiệt (I), đối với chi tiết liên kết cố định phải bảo đảm chỉ tiêu chịu lực (R).
+
+
+**CHÚ THÍCH 2:** Các yêu cầu nêu trên không áp dụng đối với vị trí các cửa ra vào của lô gia và ban công, có phần bản sàn ban công đưa ra lớn hơn 0,6 m cũng như đối với các lối ra thoát nạn.
 
 <a id="muc-4-3-3-2"></a>
 ### 4.3.3.2  Giới hạn chịu lửa của các cấu kiện của tường ngoài có lắp kính lấy sáng cũng phải bảo đảm yêu cầu như đối với các tường ngoài không chịu lực và quy định tại 4.3.2, 4.3.3.
@@ -1981,21 +2003,29 @@ g) Để chữa cháy trong không gian sảnh thông tầng, cho phép lắp đ
 ### 5.1.2.3  Lưu lượng nước cho chữa cháy ngoài nhà cho nhà có nhóm nguy hiểm cháy theo công năng F5, tính cho 1 đám cháy, lấy theo nhà có yêu cầu giá trị lớn nhất như Bảng 9 và Bảng 10.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Khi tính toán lưu lượng nước chữa cháy cho 2 đám cháy thì lấy giá trị bằng cho 2 nhà có yêu cầu lưu lượng lớn nhất.
 
-- **CHÚ THÍCH 2:** Lưu lượng nước cho chữa cháy ngoài nhà cho các nhà phụ trợ nằm độc lập lấy theo Bảng 8 giống như cho nhà có nhóm nguy hiểm cháy theo công năng F2, F3, F4, còn nếu nằm trong các nhà sản xuất thì tính theo khối tích chung của nhà sản xuất và lấy theo Bảng 9.
+**CHÚ THÍCH 1:** Khi tính toán lưu lượng nước chữa cháy cho 2 đám cháy thì lấy giá trị bằng cho 2 nhà có yêu cầu lưu lượng lớn nhất.
 
-- **CHÚ THÍCH 3:** Lưu lượng nước cho chữa cháy ngoài nhà cho nhà phục vụ nông nghiệp và phát triển nông thôn có bậc chịu lửa I, II với khối tích không lớn hơn 5 000 m3 hạng nguy hiểm cháy và cháy nổ D, E lấy bằng 5 L/s.
 
-- **CHÚ THÍCH 4:** Lưu lượng nước cho chữa cháy ngoài nhà cho trạm truyền thanh, truyền hình không phụ thuộc khối tích của trạm và số lượng người sống trong khu vực đặt các trạm này, phải lấy không nhỏ hơn 15 L/s, ngay cả khi Bảng 9 và Bảng 10 quy định lưu lượng thấp hơn giá trị này.
+**CHÚ THÍCH 2:** Lưu lượng nước cho chữa cháy ngoài nhà cho các nhà phụ trợ nằm độc lập lấy theo Bảng 8 giống như cho nhà có nhóm nguy hiểm cháy theo công năng F2, F3, F4, còn nếu nằm trong các nhà sản xuất thì tính theo khối tích chung của nhà sản xuất và lấy theo Bảng 9.
 
-- **CHÚ THÍCH 5:** Lưu lượng nước cho chữa cháy ngoài nhà cho nhà có khối tích lớn hơn trong Bằng 9 và Bảng 10 phải tuân theo các yêu cầu đặc biệt.
 
-- **CHÚ THÍCH 6:** Đối với nhà có bậc chịu lửa II làm bằng kết cấu gỗ thì lưu lượng nước cho chữa cháy ngoài nhà lấy lớn hơn 5 L/s so với Bảng 9 và Bảng 10.
+**CHÚ THÍCH 3:** Lưu lượng nước cho chữa cháy ngoài nhà cho nhà phục vụ nông nghiệp và phát triển nông thôn có bậc chịu lửa I, II với khối tích không lớn hơn 5 000 m3 hạng nguy hiểm cháy và cháy nổ D, E lấy bằng 5 L/s.
 
-- **CHÚ THÍCH 7:** Lưu lượng nước cho chữa cháy ngoài nhà cho nhà và khu vực kho lạnh bảo quản thực phẩm thì lấy giống nhà có hạng nguy hiểm cháy C.
 
-- **CHÚ THÍCH 8:** Lưu lượng nước cho chữa cháy ngoài nhà cho cơ sở lưu trữ công-ten-nơ có hàng hóa phụ thuộc vào số lượng công-ten-nơ, được lấy như sau:
+**CHÚ THÍCH 4:** Lưu lượng nước cho chữa cháy ngoài nhà cho trạm truyền thanh, truyền hình không phụ thuộc khối tích của trạm và số lượng người sống trong khu vực đặt các trạm này, phải lấy không nhỏ hơn 15 L/s, ngay cả khi Bảng 9 và Bảng 10 quy định lưu lượng thấp hơn giá trị này.
+
+
+**CHÚ THÍCH 5:** Lưu lượng nước cho chữa cháy ngoài nhà cho nhà có khối tích lớn hơn trong Bằng 9 và Bảng 10 phải tuân theo các yêu cầu đặc biệt.
+
+
+**CHÚ THÍCH 6:** Đối với nhà có bậc chịu lửa II làm bằng kết cấu gỗ thì lưu lượng nước cho chữa cháy ngoài nhà lấy lớn hơn 5 L/s so với Bảng 9 và Bảng 10.
+
+
+**CHÚ THÍCH 7:** Lưu lượng nước cho chữa cháy ngoài nhà cho nhà và khu vực kho lạnh bảo quản thực phẩm thì lấy giống nhà có hạng nguy hiểm cháy C.
+
+
+**CHÚ THÍCH 8:** Lưu lượng nước cho chữa cháy ngoài nhà cho cơ sở lưu trữ công-ten-nơ có hàng hóa phụ thuộc vào số lượng công-ten-nơ, được lấy như sau:
 
 - Từ 30 đến 50 công-ten-nơ lấy 15 L/s;
 
@@ -2033,11 +2063,16 @@ _CHÚ THÍCH:_
 | > 1 000 | 5 | 110 | 110 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Lưu lượng nước cho chữa cháy ngoài nhà trong khu dân cư phải không nhỏ hơn lưu lượng nước chữa cháy cho nhà theo Bảng 8.
-- **CHÚ THÍCH 2:** Khi thực hiện cấp nước theo vùng, lưu lượng nước cho chữa cháy ngoài nhà và số đám cháy đồng thời theo từng vùng được lấy phụ thuộc vào số dân sống trong vùng.
-- **CHÚ THÍCH 3:** Số đám cháy đồng thời và lưu lượng nước cho 1 đám cháy cho một vùng có số dân trên 1 triệu người thì tuân theo luận chứng của các yêu cầu kỹ thuật đặc biệt.
-- **CHÚ THÍCH 4:** Đối với hệ thống các cụm đường ống nhóm (chung) số đám cháy đồng thời lấy phụ thuộc vào tổng số dân trong các cụm có kết nối với hệ thống đường ống. Lưu lượng nước để hồi phục lượng nước chữa cháy theo cụm đường ống nhóm được xác định bằng tổng lượng nước cho khu dân cư (tương ứng với số đám cháy đồng thời) tối đa để chữa cháy tuân theo quy định tại 5.1.3.3 và 5.1.3.4.
-- **CHÚ THÍCH 5:** Số đám cháy tính toán đồng thời trong khu dân cư phải bao gồm cả các đám cháy của nhà sản xuất và nhà kho trong khu dân cư đó. Khi đó lưu lượng nước tính toán bao gồm cả lưu lượng nước để chữa cháy tương ứng cho các nhà đó, nhưng không nhỏ hơn giá trị trong Bảng 7.
+
+**CHÚ THÍCH 1:** Lưu lượng nước cho chữa cháy ngoài nhà trong khu dân cư phải không nhỏ hơn lưu lượng nước chữa cháy cho nhà theo Bảng 8.
+
+**CHÚ THÍCH 2:** Khi thực hiện cấp nước theo vùng, lưu lượng nước cho chữa cháy ngoài nhà và số đám cháy đồng thời theo từng vùng được lấy phụ thuộc vào số dân sống trong vùng.
+
+**CHÚ THÍCH 3:** Số đám cháy đồng thời và lưu lượng nước cho 1 đám cháy cho một vùng có số dân trên 1 triệu người thì tuân theo luận chứng của các yêu cầu kỹ thuật đặc biệt.
+
+**CHÚ THÍCH 4:** Đối với hệ thống các cụm đường ống nhóm (chung) số đám cháy đồng thời lấy phụ thuộc vào tổng số dân trong các cụm có kết nối với hệ thống đường ống. Lưu lượng nước để hồi phục lượng nước chữa cháy theo cụm đường ống nhóm được xác định bằng tổng lượng nước cho khu dân cư (tương ứng với số đám cháy đồng thời) tối đa để chữa cháy tuân theo quy định tại 5.1.3.3 và 5.1.3.4.
+
+**CHÚ THÍCH 5:** Số đám cháy tính toán đồng thời trong khu dân cư phải bao gồm cả các đám cháy của nhà sản xuất và nhà kho trong khu dân cư đó. Khi đó lưu lượng nước tính toán bao gồm cả lưu lượng nước để chữa cháy tương ứng cho các nhà đó, nhưng không nhỏ hơn giá trị trong Bảng 7.
 
 ### <a id="bang-8" name="bang-8"></a>Bảng 8 - Lưu lượng nước cho chữa cháy ngoài nhà của nhà thuộc nhóm nguy hiểm cháy theo công năng F1, F2, F3, F4
 
@@ -2056,8 +2091,10 @@ _CHÚ THÍCH:_
 | > 16 | - | 25 | 30 | 30 | 35 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Nếu hiệu suất của mạng đường ống ngoài nhà không đủ để truyền lưu lượng nước tính toán cho chữa cháy hoặc khi liên kết ống vào với mạng đường ống cụt thì cần phải xem xét lắp đặt bồn, bể, với thể tích phải bảo đảm lưu lượng nước cho chữa cháy ngoài nhà trong 3 giờ.
-- **CHÚ THÍCH 2:** Trong khu dân cư không có đường ống nước chữa cháy thì phải có bồn, bể nước bảo đảm chữa cháy trong 3 giờ.
+
+**CHÚ THÍCH 1:** Nếu hiệu suất của mạng đường ống ngoài nhà không đủ để truyền lưu lượng nước tính toán cho chữa cháy hoặc khi liên kết ống vào với mạng đường ống cụt thì cần phải xem xét lắp đặt bồn, bể, với thể tích phải bảo đảm lưu lượng nước cho chữa cháy ngoài nhà trong 3 giờ.
+
+**CHÚ THÍCH 2:** Trong khu dân cư không có đường ống nước chữa cháy thì phải có bồn, bể nước bảo đảm chữa cháy trong 3 giờ.
 
 _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Đối với nhà thuộc khu vực làng, xã (nông thôn) lấy lưu lượng nước cho 1 đám cháy là 5 L/s.
@@ -2273,9 +2310,11 @@ Khi ngắt một bồn, bể thì lượng nước trữ để chữa cháy tron
 ### 5.1.5.8  Lượng nước chữa cháy của bồn, bể và hồ nước nhân tạo xác định trên cơ sở tính toán lượng nước tiêu thụ và thời gian chữa cháy theo quy định tại 5.1.2.2, 5.1.2.3, 5.1.2.4, 5.1.2.5, 5.1.2.6 và 5.1.3.3.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Tính toán thể tích nước chữa cháy của hồ nhân tạo hở phải tính đến khả năng bốc hơi và đóng bằng của nước. Mực nước tối thiểu không được nhỏ hơn 0,5 m.
 
-- **CHÚ THÍCH 2:** Phải bảo đảm lối vào cho xe chữa cháy tiếp cận bể, hồ và những điểm lấy nước tương tự.
+**CHÚ THÍCH 1:** Tính toán thể tích nước chữa cháy của hồ nhân tạo hở phải tính đến khả năng bốc hơi và đóng bằng của nước. Mực nước tối thiểu không được nhỏ hơn 0,5 m.
+
+
+**CHÚ THÍCH 2:** Phải bảo đảm lối vào cho xe chữa cháy tiếp cận bể, hồ và những điểm lấy nước tương tự.
 
 <a id="muc-5-1-5-9"></a>
 ### 5.1.5.9  Bồn, bể, trụ nước chữa cháy ngoài nhà, hồ nước chữa cháy tự nhiên và nhân tạo phải đặt tại vị trí bảo đảm bán kính phục vụ:
@@ -2433,9 +2472,11 @@ Khi áp suất giữa van và đầu nối của họng nước chữa cháy l�
 - Đối với nhà công cộng, nhà sản xuất và nhà phụ trợ của công trình công nghiệp có chiều cao PCCC trên 50 m không nhỏ hơn 16 m.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Áp suất của họng nước chữa cháy phải được tính toán tổn thất của cuộn vòi chữa cháy dài 10, 15 và 20 m.
 
-- **CHÚ THÍCH 2:** Để nhận tia nước đặc lưu lượng đến 4 L/s thì sử dụng họng nước chữa cháy DN 50, đối với lưu lượng lớn hơn phải sử dụng họng DN 65 Khi luận chứng kinh tế - kỹ thuật cho phép thì được dùng họng nước chữa cháy DN 50 cho lưu lượng trên 4 L/s
+**CHÚ THÍCH 1:** Áp suất của họng nước chữa cháy phải được tính toán tổn thất của cuộn vòi chữa cháy dài 10, 15 và 20 m.
+
+
+**CHÚ THÍCH 2:** Để nhận tia nước đặc lưu lượng đến 4 L/s thì sử dụng họng nước chữa cháy DN 50, đối với lưu lượng lớn hơn phải sử dụng họng DN 65 Khi luận chứng kinh tế - kỹ thuật cho phép thì được dùng họng nước chữa cháy DN 50 cho lưu lượng trên 4 L/s
 
 <a id="muc-5-2-8"></a>
 ### 5.2.8  Thiết kế bể áp lực cho nhà phải bảo đảm mọi thời điểm đều cung cấp được tia nước đặc cao trên 4 m tại tầng cao nhất hoặc tầng ngay dưới nơi đặt bể, và không nhỏ hơn 6 m đối với các tầng còn lại; khi đó số tia nước bảo đảm: 2 tia mỗi tia 2,5 L/s trong 10 phút khi số tia tính toán là 2 hoặc nhiều hơn, 1 tia trong các trường hợp còn lại.
@@ -2462,9 +2503,11 @@ Trong các hệ thống chữa cháy đường ống khô lắp đặt trong cá
 - Trong nhà ở với chiều dài hành lang lớn hơn 10 m, cũng như nhà sản xuất và nhà công cộng có từ 2 tia nước tính toán trở lên cho mỗi điểm thì phải bố trí 2 tia phun từ 2 tủ chữa cháy cạnh nhau (2 họng nước khác nhau).
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Phải lắp đặt họng nước chữa cháy trong các tầng kỹ thuật, tầng áp mái và tầng hầm kỹ thuật nếu trong đó có vật liệu và kết cấu làm từ vật liệu cháy được.
 
-- **CHÚ THÍCH 2:** Số tia nước từ mỗi tủ không được lớn hơn 2.
+**CHÚ THÍCH 1:** Phải lắp đặt họng nước chữa cháy trong các tầng kỹ thuật, tầng áp mái và tầng hầm kỹ thuật nếu trong đó có vật liệu và kết cấu làm từ vật liệu cháy được.
+
+
+**CHÚ THÍCH 2:** Số tia nước từ mỗi tủ không được lớn hơn 2.
 
 <a id="muc-5-2-1-2"></a>
 ### 5.2.1.2  Các họng nước chữa cháy được lắp đặt sao cho miệng họng nằm ở độ cao 1,20 m ± 0,15 m so với mặt sàn và đặt trong các tủ chữa cháy có lỗ thông gió, được dán niêm phong. Đối với họng nước chữa cháy kép, cho phép lắp đặt 1 họng nằm trên 1 họng nằm dưới, khi đó họng nằm dưới phải lắp có chiều cao không nhỏ hơn 1,0 m tính từ mặt sàn.
@@ -2613,9 +2656,11 @@ Khoảng cách từ mép đường cho xe chữa cháy đến tường của nh�
 Trong những trường hợp cần thiết, khoảng cách từ mép gần nhà của đường xe chạy đến tường ngoài của nhà và công trình được tăng đến 60 m với điều kiện nhà và công trình này có các đường cụt đi vào, kèm theo bãi quay xe chữa cháy và bố trí các trụ nước chữa cháy. Trong trường hợp đó, khoảng cách từ nhà và công trình đến bãi quay xe chữa cháy phải không nhỏ hơn 5 m và không lớn hơn 15 m và khoảng cách giữa các đường cụt không được vượt quá 100 m.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Chiều rộng của nhà và công trình lấy theo khoảng cách giữa các trục định vị.
 
-- **CHÚ THÍCH 2:** Đối với các hồ nước được sử dụng để chữa cháy, cần bố trí lối vào với khoảng sân có kích thước mỗi cạnh không nhỏ hơn 12 m
+**CHÚ THÍCH 1:** Chiều rộng của nhà và công trình lấy theo khoảng cách giữa các trục định vị.
+
+
+**CHÚ THÍCH 2:** Đối với các hồ nước được sử dụng để chữa cháy, cần bố trí lối vào với khoảng sân có kích thước mỗi cạnh không nhỏ hơn 12 m
 
 ### <a id="bang-15" name="bang-15"></a>Bảng 15 - Chiều dài của bãi đỗ xe chữa cháy đối với nhà hoặc phần nhà nhóm F1.1, F1.2, F2, F3, F4
 

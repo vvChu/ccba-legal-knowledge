@@ -1,0 +1,22 @@
+﻿Chiều cao khu vực bảo vệ (m),Nhóm nguy cơ cháy
+Chiều cao khu vực bảo vệ (m),Nhóm 1,Nhóm 2,Nhóm 3,Nhóm 4.1,Nhóm 4.2
+Chiều cao khu vực bảo vệ (m),Bằng nước,Bằng dung dịch chất tạo bọt,Bằng nước,Bằng dung dịch chất tạo bọt,Bằng nước,Bằng dung dịch chất tạo bọt
+Cường độ phun tối thiểu (l/s.m2)
+Từ 10 đến 12,"0,09","0,13","0,09","0,26","0,13","0,33","0,17","0,20"
+Trên 12 đến 14,"0,1","0,14","0,1","0,29","0,14","0,36","0,18","0,22"
+Trên 14 đến 16,"0,11","0,16","0,11","0,31","0,16","0,39","0,2","0,25"
+Trên 16 đến 18,"0,12","0,17","0,12","0,34","0,17","0,42","0,21","0,27"
+Trên 18 đến 20,"0,13","0,18","0,13","0,36","0,18","0,45","0,23","0,30"
+Lưu lượng tối thiểu (l/s)
+Từ 10 đến 12,12,35,25,70,35,130,65,95
+Trên 12 đến 14,14,40,30,85,45,155,80,115
+Trên 14 đến 16,17,50,35,95,50,180,90,140
+Trên 16 đến 18,20,57,40,115,60,215,105,165
+Trên 18 đến 20,24,65,50,130,65,240,120,195
+Diện tích tính toán tối thiểu (m2)
+Từ 10 đến 12,66,132,198,238
+Trên 12 đến 14,72,144,216,259
+Trên 14 đến 16,78,156,230,276
+Trên 16 đến 18,84,168,252,303
+Trên 18 đến 20,90,180,270,325
+"CHÚ THÍCH 1: Nhóm nguy cơ phát sinh cháy được nêu trong Phụ lục A. CHÚ THÍCH 2: Các thông số về lưu lượng và cường độ phun được áp dụng cho đầu phun nước và bọt có cấu tạo thông thường CHÚ THÍCH 3: Bảng thể hiện cường độ phun của dung dịch chất tạo bọt thông thường. CHÚ THÍCH 4: Trong trường hợp diện tích thực tế (Stt) của khu vực được bảo vệ bởi hệ thống chữa cháy tự động bằng nước, bọt nhỏ hơn diện tích tính toán tối thiểu (S) của hệ thống chữa cháy tự động Sprinkler, Sprinkler-Drecher được quy định trong Bảng 3, thì lưu lượng thực tế có thể giảm theo hệ số K = Stt/ S."

@@ -86,11 +86,14 @@ Trong trường hợp không đủ diện tích để làm các tấm che ngoài
 Diện tích tấm che ngoài dễ bung phải được xác định bằng tính toán. Trong trường hợp không có số liệu tính toán thì diện tích tấm che ngoài dễ bung phải lấy không nhỏ hơn 0,05 m2 trên 1 m3 thể tích gian phòng hạng A và không ít hơn 0,03 m2 trên 1 m3 thể tích gian phòng hạng B.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Nếu dùng kính có chiều dày 3, 4 hoặc 5 mm cho các tấm che ngoài dễ bung thì diện tích tương ứng không nhỏ hơn 0,8, 1,0 và 1,5 m2. Không được dùng kính có gia cường, kính 2 lớp, 3 lớp, stalinite và polycarbonate trong tấm che ngoài dễ bung.
 
-- **CHÚ THÍCH 2:** Tấm phủ dạng cuộn trên khu vực tấm che ngoài dễ bung của mái phải được bố trí thành các mảnh có diện tích không lớn hơn 180 m2.
+**CHÚ THÍCH 1:** Nếu dùng kính có chiều dày 3, 4 hoặc 5 mm cho các tấm che ngoài dễ bung thì diện tích tương ứng không nhỏ hơn 0,8, 1,0 và 1,5 m2. Không được dùng kính có gia cường, kính 2 lớp, 3 lớp, stalinite và polycarbonate trong tấm che ngoài dễ bung.
 
-- **CHÚ THÍCH 3:** Tải trọng tính toán của khối lượng tấm che ngoài dễ bung trên mái không được vượt quá 0,7 kPa
+
+**CHÚ THÍCH 2:** Tấm phủ dạng cuộn trên khu vực tấm che ngoài dễ bung của mái phải được bố trí thành các mảnh có diện tích không lớn hơn 180 m2.
+
+
+**CHÚ THÍCH 3:** Tải trọng tính toán của khối lượng tấm che ngoài dễ bung trên mái không được vượt quá 0,7 kPa
 
 <a id="muc-A-1-3"></a>
 ### A.1.3  Bố trí mặt bằng - không gian
@@ -324,8 +327,10 @@ Vật liệu ốp lát hoàn thiện bề mặt các cấu kiện bao che cabin 
 | 9.12 Tường vách ngăn cách gian phòng của trạm biến áp | El 60 | El 60 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Giới hạn chịu lửa R của kết cấu chịu lực mà là gối tựa cho sàn ngăn cháy phải không nhỏ hơn giới hạn chịu lửa R của chính sàn ngăn cháy đó.
-- **CHÚ THÍCH 2:** Cho phép áp dụng các quy định về giới hạn chịu lửa của tường ngoài không chịu lực theo chú thích 5, 6 của Bảng 4
+
+**CHÚ THÍCH 1:** Giới hạn chịu lửa R của kết cấu chịu lực mà là gối tựa cho sàn ngăn cháy phải không nhỏ hơn giới hạn chịu lửa R của chính sàn ngăn cháy đó.
+
+**CHÚ THÍCH 2:** Cho phép áp dụng các quy định về giới hạn chịu lửa của tường ngoài không chịu lực theo chú thích 5, 6 của Bảng 4
 
 _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Các bộ phận của nhà như các tường chịu lực, cột chịu lực, hệ giằng, vách cứng, các bộ phận của sàn (dầm xà hoặc tấm sàn) được xếp vào loại các bộ phận chịu lực của nhà nếu chúng tham gia vào việc bảo đảm sự ổn định tổng thể và sự bất biến hình của nhà khi có cháy. Các bộ phận chịu lực mà không tham gia vào việc bảo đảm ổn định tổng thể của nhà phải được đơn vị thiết kế chỉ dân trong tài liệu kỹ thuật của nhà.

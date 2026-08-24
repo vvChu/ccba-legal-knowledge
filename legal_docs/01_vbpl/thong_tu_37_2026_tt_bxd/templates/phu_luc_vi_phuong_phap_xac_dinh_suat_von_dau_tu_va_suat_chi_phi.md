@@ -1,12 +1,12 @@
 ---
-title: "# PHƯƠNG PHÁP XÁC ĐỊNH SUẤT VỐN ĐẦU TƯ VÀ SUẤT CHI PHÍ"
+title: "PHƯƠNG PHÁP XÁC ĐỊNH SUẤT VỐN ĐẦU TƯ VÀ SUẤT CHI PHÍ"
 document: "37/2026/TT-BXD"
 appendix: "Phụ lục VI"
 type: "form_template"
 usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
 
-# Phụ Lục VI - # PHƯƠNG PHÁP XÁC ĐỊNH SUẤT VỐN ĐẦU TƯ VÀ SUẤT CHI PHÍ
+# PHỤ LỤC VI - PHƯƠNG PHÁP XÁC ĐỊNH SUẤT VỐN ĐẦU TƯ VÀ SUẤT CHI PHÍ
 *(Kèm theo 37/2026/TT-BXD)*
 
 ---
@@ -356,67 +356,41 @@ __a) Thuyết minh:__
 
 Suất vốn đầu tư, suất chi phí thể hiện các nội dung: mã hiệu và các chỉ tiêu suất vốn đầu tư (bao gồm cả suất chi phí xây dựng, thiết bị); suất chi phí (gồm suất chi phí xây dựng, suất chi phí thiết bị); đơn vị tính.
 
-__D. BIỂU MẪU CÔNG BỐ__
+### D. BIỂU MẪU CÔNG BỐ
 
-__1. Tên__ __chỉ tiêu:__
+#### 1. Tên chỉ tiêu:
 
-__a. Thuyết__ __minh:__
+**a) Thuyết minh:**
 
-__b. Suất__ __vốn đầu tư,__ __suất__ __chi__ __phí__ 
+**b) Suất vốn đầu tư, suất chi phí:**
 
-__Bảng__ __số…: Suất__ __vốn đầu tư của…__
+##### Bảng số…: Suất vốn đầu tư của…
 
-Đơn vị tính:…..
+*Đơn vị tính: …..*
 
-__Mã hiệu__
+| Mã hiệu | Loại công trình/dự án<br>*(Bao gồm thông tin cơ bản về quy mô, thông số kỹ thuật… của công trình/dự án)* | Suất vốn đầu tư | Trong đó: Suất chi phí xây dựng | Trong đó: Suất chi phí thiết bị |
+| :---: | :--- | :---: | :---: | :---: |
+| [1] | [2] | [3] | [4] | [5] |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
-__Loại công trình/dự án__
+*Ghi chú (nếu có):*
 
-*(Bao gồm thông tin cơ bản về quy mô, thông số kỹ thuật… của công trình/dự án)*
+---
 
-__Suất vốn đầu tư__
+##### Bảng số…: Suất chi phí của…
 
-__Trong đó__
+*Đơn vị tính: …..*
 
-__Suất chi__ __phí xây dựng__
+| Mã hiệu | Loại công trình, hạng mục công trình, hệ thống kỹ thuật hoặc dây chuyền công nghệ<br>*(Bao gồm thông tin cơ bản về quy mô, công suất, đặc điểm kết cấu, công nghệ…)* | Suất chi phí xây dựng | Suất chi phí thiết bị |
+| :---: | :--- | :---: | :---: |
+| [1] | [2] | [3] | [4] |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
-__Suất chi__ __phí thiết bị__
+*Ghi chú (nếu có):*
 
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-Ghi chú (nếu có):
-
-__Bảng__ __số…: Suất__ __chi__ __phí__ __của…__
-
-Đơn vị tính:
-
-__Mã hiệu__
-
-__Loại công trình, hạng mục công trình, hệ thống kỹ thuật hoặc dây chuyền công nghệ__
-
-*(Bao gồm thông tin cơ bản về quy mô, công suất, đặc điểm kết cấu, công nghệ…)*
-
-__Suất chi__ __phí xây dựng__
-
-__Suất chi phí thiết bị__
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-Ghi chú (nếu có):
+---
 
 __Đ. XÁC ĐỊNH SUẤT VỐN ĐẦU TƯ, SUẤT CHI PHÍ CỦA CHỦ ĐẦU TƯ VÀ ĐƠN VỊ TƯ VẤN__
 

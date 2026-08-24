@@ -52,9 +52,12 @@ GIỚI HẠN CHỊU LỬA DANH ĐỊNH CỦA MỘT SỐ CẤU KIỆN
 | 11. Tường rỗng nhiều lớp có lớp ngoài bằng gạch tổ ong đất sét nung với tỷ lệ độ rỗng nhỏ hơn 50 % như mục 9 và lớp trong bằng block bê tông khí chưng áp có khối lượng thể tích từ 480 kg/m3 đến 1 200 kg/m3: | 150 | 140 | 100 | 100 | 100 | 100 | 75 | 75 | 75 | 75 | 75 | 75 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2
-- **CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định. Các kết cấu siêu tĩnh được tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng.
-- **CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời.
+
+**CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2
+
+**CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định. Các kết cấu siêu tĩnh được tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng.
+
+**CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời.
 
 _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** “Cốt liệu Nhóm 1” có nghĩa là xỉ bọt, pumice, xỉ lò cao, tro bay về viên, gạch và các sản phẩm đất sét nung nghiền nhỏ (bao gồm cả keramzit), clinker nung và đá vôi nghiền.
@@ -116,9 +119,12 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | b) Chiều rộng tiết diện dầm | 250 | 200 | 160 | 130 | 100 | 80 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2.
-- **CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định. Các kết cấu siêu tĩnh được tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng
-- **CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời.
+
+**CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2.
+
+**CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định. Các kết cấu siêu tĩnh được tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng
+
+**CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời.
 
 _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Có thể bổ sung cốt thép phụ để giữ lớp bê tông bảo vệ nếu cần.
@@ -149,9 +155,12 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | b) Chiều rộng tiết diện dầm | 250 | 200 | 160 | 130 | 100 | 80 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2.
-- **CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định Các kết cấu siêu tĩnh được tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng.
-- **CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời.
+
+**CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2.
+
+**CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định Các kết cấu siêu tĩnh được tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng.
+
+**CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời.
 
 _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Có thể bổ sung cốt thép phụ để giữ lớp bê tông bảo vệ nếu cần
@@ -174,9 +183,12 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | 3. Bê tông cốt liệu nhẹ | 300 | 275 | 225 | 200 | 190 | 150 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2
-- **CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định. Các kết cấu siêu tĩnh được tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng
-- **CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời.
+
+**CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2
+
+**CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định. Các kết cấu siêu tĩnh được tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng
+
+**CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời.
 
 _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Vermiculite/thạch cao phải có tỷ lệ phối trộn theo thể tích nằm trong khoảng 1,5:1 đến 2:1
@@ -191,9 +203,12 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | b) Có trát vermiculite/thạch cao<sup>1)</sup> dày 15 mm trên bề mặt tiếp xúc với lửa | 125 | 100 | 75 | 75 | 65 | 65 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2.
-- **CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định. Các kết cấu siêu tĩnh được tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng
-- **CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời
+
+**CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2.
+
+**CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định. Các kết cấu siêu tĩnh được tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng
+
+**CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời
 
 _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Vermiculite/thạch cao phải có tỷ lệ phối trộn theo thể tích nằm trong khoảng 1,5:1 đến 2:1.
@@ -284,9 +299,12 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | d) Chiều dày tại bản phía trên | 150 | 150 | 100 | 100 | 75 | 65 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2.
-- **CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định. Các kết cấu siêu tĩnh tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng.
-- **CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời.
+
+**CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2.
+
+**CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định. Các kết cấu siêu tĩnh tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng.
+
+**CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời.
 
 _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Có thể cộng thêm chiều dày của các lớp láng hoặc lớp hoàn thiện bằng vật liệu không cháy.
@@ -330,9 +348,12 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | d) Chiều dày tại bản phía trên<sup>2)</sup> | 150 | 150 | 125 | 125 | 100 | 90 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2.
-- **CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định Các kết cấu siêu tĩnh tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng
-- **CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời.
+
+**CHÚ THÍCH 1:** Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2.
+
+**CHÚ THÍCH 2:** Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định Các kết cấu siêu tĩnh tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng
+
+**CHÚ THÍCH 3:** Các thông số của tiết diện cấu kiện phải xét đồng thời.
 
 _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Có thể bổ sung cốt thép phụ để giữ lớp bê tông bảo vệ nếu cần.

@@ -1,0 +1,44 @@
+---
+title: "Phụ lục A (Quy định): Phân loại cơ sở theo nhóm nguy cơ phát sinh cháy"
+document: "TCVN 7336:2021"
+appendix: "Phụ lục A"
+type: "normative_annex"
+usage: "Phân loại cơ sở theo nhóm nguy cơ phát sinh cháy phụ thuộc vào công năng và tải trọng cháy"
+---
+
+# Phụ lục A
+### (Quy định)
+## Phân loại cơ sở theo nhóm nguy cơ phát sinh cháy phụ thuộc vào công năng và tải trọng cháy
+
+> [!NOTE]
+> **Tiêu chuẩn viện dẫn:** Tiêu chuẩn Quốc gia TCVN 7336:2021 (Phòng cháy và chữa cháy - Hệ thống chữa cháy tự động bằng nước, bọt - Yêu cầu thiết kế và lắp đặt).  
+> **Mỏ neo PDF (PDF Anchor):** [`tcvn_7336_2021.pdf`](../tcvn_7336_2021.pdf).
+
+---
+
+| Nhóm nguy cơ phát sinh cháy | Danh sách các cơ sở đặc trưng, ngành công nghiệp và quy trình công nghệ |
+| :---: | :--- |
+| **1** | - Nhà văn phòng, làm việc;<br>- Nhà ở: nhà chung cư, nhà tập thể, ký túc xá;<br>- Trường học: nhà trẻ, trường mẫu giáo, mầm non; trường tiểu học, trung học cơ sở, trung học phổ thông, trường nhiều cấp học; trường đại học và cao đẳng, trường trung học chuyên nghiệp; trường dạy nghề, trường công nhân kỹ thuật, trường nghiệp vụ và các loại trường hoặc trung tâm đào tạo khác;<br>- Bệnh viện, phòng khám (đa khoa, chuyên khoa), trạm y tế, nhà hộ sinh, nhà điều dưỡng, phục hồi chức năng, chỉnh hình, nhà dưỡng lão, cơ sở phòng chống dịch bệnh, cơ sở nghiên cứu, thí nghiệm chuyên ngành y tế, trung tâm y tế, cơ sở y tế khác;<br>- Khu vui chơi, giải trí, thẩm mỹ, kinh doanh xoa bóp;<br>- Nhà hàng, cửa hàng ăn uống, giải khát, tiện ích;<br>- Khách sạn, nhà khách, nhà nghỉ, nhà trọ;<br>- Bảo tàng, thư viện, triển lãm, nhà trưng bày, nhà sách, nhà hội chợ;<br>- Nhà thể dục, thể thao;<br>- Nhà ga hành khách (hàng không, đường sắt), nhà chờ bến xe ô tô, trạm dừng nghỉ, bến tàu, nhà chờ cáp treo. |
+| **2** | Tải trọng cháy 181-1400 MJ/m2.<br>- Cơ sở kinh doanh karaoke, vũ trường, quán bar, câu lạc bộ;<br>- Nhà hát, rạp chiếu phim, rạp xiếc, trung tâm hội nghị, tổ chức sự kiện, nhà văn hóa;<br>- Chợ, trung tâm thương mại, siêu thị, cửa hàng;<br>- Bưu điện, bưu cục, đài phát thanh, truyền hình, viễn thông, nhà lắp đặt thiết bị thông tin, trung tâm lưu trữ, đài kiểm soát không lưu;<br>- Nhà ga hàng hóa (hàng không, đường sắt), nhà chứa máy bay, nhà chứa tàu điện, tàu hỏa;<br>- Nhà để xe, nhà đăng kiểm, sửa chữa, bảo dưỡng ô tô, mô tô, xe gắn máy, xe điện;<br>- Các gian phòng sản xuất của ngành công nghiệp chế biến gỗ;<br>- Các gian phòng sản xuất của ngành công nghiệp thuốc lá; đồ điện tử (ti vi, máy tính, điện thoại...), điện lạnh (điều hòa, tủ lạnh,...); linh kiện, phụ tùng thông tin và điện tử (mạch in điện tử, IC và các sản phẩm tương đương); thuốc và vật tư y tế; pin, ắc-quy.<br>- Các gian phòng sản xuất có quy trình sơn, ngâm tẩm, pha trộn, tẩy dầu mỡ, bảo quản và tái bảo quản, rửa các bộ phận với việc sử dụng chất lỏng và dầu mỡ dễ cháy; sản xuất len, vật liệu nhân tạo và phim; ngành may mặc; sản xuất có sử dụng sản phẩm cao su; cơ sở thuộc hạng nguy hiểm cháy nổ C3;<br>- Các gian phòng sản xuất của nhà máy chế tạo máy động lực và máy nông nghiệp; nhà máy chế tạo máy công cụ và thiết bị công nghiệp; nhà máy chế tạo thiết bị nâng hạ; nhà máy chế tạo máy xây dựng; nhà máy chế tạo thiết bị toàn bộ; nhà máy sản xuất, lắp ráp phương tiện giao thông (ô tô, xe máy, tàu thủy,...); nhà máy chế tạo thiết bị điện, thiết bị cơ cho công nghiệp điện tử, điện lạnh; nhà máy sản xuất các sản phẩm cơ khí cho các ngành công nghiệp khác (công nghiệp hỗ trợ)<br>- Băng tải vận chuyển nguyên vật liệu dễ cháy;<br>- Các gian phòng xay xát, lau bóng gạo; sản xuất, chế biến, đóng gói các sản phẩm nông sản khác. |
+| **3** | - Phòng để sản xuất các sản phẩm cao su;<br>- Phòng để sản xuất bột giấy và giấy; xơ sợi; dệt; in, nhuộm (ngành dệt, may); sản phẩm may; thuộc da và các sản phẩm từ da; các sản phẩm nhựa |
+| **4.1** | Tải trọng cháy 1401-2200 MJ/m2<br>Phòng để sản xuất sợi tự nhiên và tổng hợp dễ cháy, buồng sơn và sấy khô, khu vực sơn hở và sấy khô, sơn, vecni và các cơ sở làm keo sử dụng chất lỏng cháy và chất lỏng dễ cháy |
+| **4.2** | Tải trọng cháy trên 2200 MJ/m2<br>Phòng máy của trạm nén khí, thu hồi, hydro hóa, trạm chiết xuất và các cơ sở sản xuất khác sử dụng khí cháy, xăng, cồn và các loại chất lỏng cháy và chất lỏng dễ cháy khác và cơ sở thuộc hạng nguy hiểm cháy nổ C1 |
+| **5** | Kho chứa vật liệu không cháy trong bao bì dễ cháy. Kho vật liệu dễ cháy |
+| **6** | Kho chứa vật liệu dễ cháy bao gồm cao su, nhựa... |
+| **7** | Kho vecni, sơn, chất lỏng dễ cháy, chất lỏng cháy |
+
+---
+
+### CHÚ THÍCH
+
+
+**CHÚ THÍCH 1:** Nhóm các cơ sở được xác định theo công năng của chúng. Trong trường hợp không thể chọn cơ sở tương tự thì xác định nhóm theo công năng của các gian phòng.
+
+**CHÚ THÍCH 2:** Nhóm của các cơ sở được xác định theo tải trọng cháy.
+
+**CHÚ THÍCH 3:** Các thông số của hệ thống chữa cháy bằng nước và bọt cho các phòng kho trong các tòa nhà, cơ sở thuộc nhóm nguy cơ phát sinh cháy nhóm 1 được lấy theo các phòng thuộc nhóm nguy cơ phát sinh cháy nhóm 2.
+
+**CHÚ THÍCH 4:** Đối với nhóm nguy cơ phát sinh cháy nhóm 2, lưu lượng và cường độ phun nước hoặc dung dịch chất tạo bọt phải được tăng lên so với các giá trị tiêu chuẩn được đưa ra trong Bảng 1 cho nhóm nguy cơ phát sinh cháy nhóm 2, không nhỏ hơn:
+  - $1,5$ lần khi tải trọng cháy trên $1400\text{ MJ/m}^2$;
+  - $2,5$ lần khi tải trọng cháy cụ thể trên $2200\text{ MJ/m}^2$.
+

@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > **Văn bản:** Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng  
-> **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
+> **Cơ quan ban hành:** Bộ Xây dựng (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
 > **Mỏ neo PDF Công báo:** [thong_tu_36_2026_tt_bxd.pdf](./thong_tu_36_2026_tt_bxd.pdf) *(SHA-256: `6ef24aa5112ab267fbad9c66f5b17fbc7c8b7c9015ae370f71864d327febd20c`)*.
 

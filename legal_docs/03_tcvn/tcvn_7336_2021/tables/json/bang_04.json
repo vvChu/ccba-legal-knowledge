@@ -1,0 +1,56 @@
+{
+  "table_id": "bang_04",
+  "rows_count": 12,
+  "columns_count": 2,
+  "headers": [
+    "Nhiệt độ môi trường tối đa cho phép trong khu vực của các đầu phun, °C",
+    "Nhiệt độ tác động danh định của đầu phun, °C"
+  ],
+  "records": [
+    {
+      "Nhiệt độ môi trường tối đa cho phép trong khu vực của các đầu phun, °C": "Dưới 39",
+      "Nhiệt độ tác động danh định của đầu phun, °C": "57"
+    },
+    {
+      "Nhiệt độ môi trường tối đa cho phép trong khu vực của các đầu phun, °C": "Từ 39 đến dưới 50",
+      "Nhiệt độ tác động danh định của đầu phun, °C": "68, 72 hoặc 74"
+    },
+    {
+      "Nhiệt độ môi trường tối đa cho phép trong khu vực của các đầu phun, °C": "Từ 50 đến dưới 70",
+      "Nhiệt độ tác động danh định của đầu phun, °C": "79 hoặc 93"
+    },
+    {
+      "Nhiệt độ môi trường tối đa cho phép trong khu vực của các đầu phun, °C": "Từ 70 đến dưới 77",
+      "Nhiệt độ tác động danh định của đầu phun, °C": "100"
+    },
+    {
+      "Nhiệt độ môi trường tối đa cho phép trong khu vực của các đầu phun, °C": "Từ 77 đến dưới 86",
+      "Nhiệt độ tác động danh định của đầu phun, °C": "121"
+    },
+    {
+      "Nhiệt độ môi trường tối đa cho phép trong khu vực của các đầu phun, °C": "Từ 86 đến dưới 100",
+      "Nhiệt độ tác động danh định của đầu phun, °C": "141"
+    },
+    {
+      "Nhiệt độ môi trường tối đa cho phép trong khu vực của các đầu phun, °C": "Từ 100 đến dưới 120",
+      "Nhiệt độ tác động danh định của đầu phun, °C": "163"
+    },
+    {
+      "Nhiệt độ môi trường tối đa cho phép trong khu vực của các đầu phun, °C": "Từ 120 đến dưới 140",
+      "Nhiệt độ tác động danh định của đầu phun, °C": "182"
+    },
+    {
+      "Nhiệt độ môi trường tối đa cho phép trong khu vực của các đầu phun, °C": "Từ 140 đến dưới 162",
+      "Nhiệt độ tác động danh định của đầu phun, °C": "204"
+    },
+    {
+      "Nhiệt độ môi trường tối đa cho phép trong khu vực của các đầu phun, °C": "Từ 162 đến dưới 185",
+      "Nhiệt độ tác động danh định của đầu phun, °C": "227"
+    },
+    {
+      "Nhiệt độ môi trường tối đa cho phép trong khu vực của các đầu phun, °C": "Từ 185 đến dưới 200",
+      "Nhiệt độ tác động danh định của đầu phun, °C": "240"
+    }
+  ],
+  "footnotes": []
+}

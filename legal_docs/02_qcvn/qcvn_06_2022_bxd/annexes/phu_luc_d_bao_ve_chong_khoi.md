@@ -99,9 +99,11 @@ Cho phép hút xả khói qua hành lang liền kề từ các gian phòng có d
 Không cho phép ngăn chia phần hành lang cụt của nhà bằng các vách ngăn có cửa đi thành các đoạn có chiều dài nhỏ hơn 15 m.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Khu vực không có thông gió tự nhiên khi có cháy là khu vực không có ô cửa mở trên kết cấu xây dựng ngoài (tường ngoài) hoặc khu vực có ô cửa mở nhưng diện tích không đủ để thoát sản phẩm cháy
 
-- **CHÚ THÍCH 2:** Để thông gió tự nhiên khi có cháy cho các hành lang phải bố trí các ô cửa sổ mở hoặc lỗ cửa trên tường ngoài với các yêu cầu sau:
+**CHÚ THÍCH 1:** Khu vực không có thông gió tự nhiên khi có cháy là khu vực không có ô cửa mở trên kết cấu xây dựng ngoài (tường ngoài) hoặc khu vực có ô cửa mở nhưng diện tích không đủ để thoát sản phẩm cháy
+
+
+**CHÚ THÍCH 2:** Để thông gió tự nhiên khi có cháy cho các hành lang phải bố trí các ô cửa sổ mở hoặc lỗ cửa trên tường ngoài với các yêu cầu sau:
 
 - Mép trên ô cửa không thấp hơn 2,5 m và mép dưới ô cửa không cao quá 1,5 m tính từ mặt sàn,
 
@@ -109,7 +111,8 @@ _CHÚ THÍCH:_
 
 - Ô cửa phải mở được bằng tay một cách dễ dàng khi người đứng trên sàn.
 
-- **CHÚ THÍCH 3:** Để thông gió tự nhiên khi cháy cho gian phòng phải có các 6 cửa sổ mở hoặc lỗ cửa trên tường ngoài tương tự như CHÚ THÍCH 2, với chiều rộng tối thiểu 0,24 m cho mỗi m chiều dài tường ngoài Nếu tường ngoài chỉ nằm ở 1 phía của gian phòng thì khoảng cách từ tường ngoài này đến tường ngăn bên trong không được lớn hơn 20 m. Nếu các ô cửa mở nằm ở hai kết cấu xây dựng ngoài đối diện nhau thì khoảng cách giữa hai kết cấu đó không lớn hơn 40 m, trong trường hợp này thì chiều dài tường ngoài không được nhỏ hơn 1/3 tổng chiều dài của các tường ngăn phòng bên trong.
+
+**CHÚ THÍCH 3:** Để thông gió tự nhiên khi cháy cho gian phòng phải có các 6 cửa sổ mở hoặc lỗ cửa trên tường ngoài tương tự như CHÚ THÍCH 2, với chiều rộng tối thiểu 0,24 m cho mỗi m chiều dài tường ngoài Nếu tường ngoài chỉ nằm ở 1 phía của gian phòng thì khoảng cách từ tường ngoài này đến tường ngăn bên trong không được lớn hơn 20 m. Nếu các ô cửa mở nằm ở hai kết cấu xây dựng ngoài đối diện nhau thì khoảng cách giữa hai kết cấu đó không lớn hơn 40 m, trong trường hợp này thì chiều dài tường ngoài không được nhỏ hơn 1/3 tổng chiều dài của các tường ngăn phòng bên trong.
 
 <a id="muc-D-3"></a>
 ### D.3  Các yêu cầu tại D.2 không cần áp dụng đối với:
@@ -159,9 +162,11 @@ _CHÚ THÍCH: Màn ngăn khói là màn cuốn được điều khiển tự đ�
 ### <a id="muc-d-8" name="muc-d-8"></a>D.8  Để thoát khói trực tiếp cho các gian phòng và hành lang của nhà một tầng có thể áp dụng hệ thống hút xả khói theo cơ chế cưỡng bức, hoặc theo cơ chế tự nhiên thông qua các giếng (ống) thu khói với van khói, thông qua các cửa nắp hút khói, hoặc thông qua các cửa trời mở và không đón gió vào.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Hệ thống hút xả khói theo cơ chế cưỡng bức là hệ thống hút xả khói, trong đó lực hút khói ra ngoài được tạo ra và duy trì bởi quạt hút.
 
-- **CHÚ THÍCH 2:** Hệ thống hút xả khói theo cơ chế tự nhiên là hệ thống hút xả khói, trong đó khói tự thoát ra ngoài nhà qua các lỗ mở trên kết cấu bao che của nhà theo các định luật vật lý tự nhiên.
+**CHÚ THÍCH 1:** Hệ thống hút xả khói theo cơ chế cưỡng bức là hệ thống hút xả khói, trong đó lực hút khói ra ngoài được tạo ra và duy trì bởi quạt hút.
+
+
+**CHÚ THÍCH 2:** Hệ thống hút xả khói theo cơ chế tự nhiên là hệ thống hút xả khói, trong đó khói tự thoát ra ngoài nhà qua các lỗ mở trên kết cấu bao che của nhà theo các định luật vật lý tự nhiên.
 
 - Trong các nhà nhiều tầng cần sử dụng hệ thống hút xả khói theo cơ chế cưỡng bức. Cho phép sử dụng hệ thống hút xả khói theo cơ chế tự nhiên đối với tầng trên cùng của nhà nhiều tầng, thông qua van khói, cửa nắp hút khói, hoặc các cửa trời mở, cửa chớp mở và không đón gió vào.
 
@@ -187,9 +192,11 @@ b) Các đường ống và kênh dẫn nếu có yêu cầu về giới hạn c
 - El 30 - đối với các trường hợp khác nằm trong phạm vi khoang cháy được phục vụ.
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Không yêu cầu giới hạn chịu lửa đối với các đường ống nằm trong kênh hoặc giếng kỹ thuật được bao che bởi các bộ phận ngăn cháy có giới hạn chịu lửa tương đương theo quy định
 
-- **CHÚ THÍCH 2:** Van ngăn cháy loại thường mở là loại van ngăn cháy sẽ bị đóng lại khi có cháy
+**CHÚ THÍCH 1:** Không yêu cầu giới hạn chịu lửa đối với các đường ống nằm trong kênh hoặc giếng kỹ thuật được bao che bởi các bộ phận ngăn cháy có giới hạn chịu lửa tương đương theo quy định
+
+
+**CHÚ THÍCH 2:** Van ngăn cháy loại thường mở là loại van ngăn cháy sẽ bị đóng lại khi có cháy
 
   c) Van ngăn cháy loại thường đóng có giới hạn chịu lửa không thấp hơn:
 

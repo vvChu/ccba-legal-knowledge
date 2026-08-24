@@ -1,9 +1,9 @@
 # Gói Tri Thức Pháp Lý OKF v2.2: 38/2026/TT-BXD
 
 > [!NOTE]
-> **Văn bản:** Thông tư 38/2026/TT-BXD ban hành hệ thống định mức xây dựng quốc gia  
-> **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
-> **Hiệu lực:** 2026-07-01.  
+> **Văn bản:** Thông tư 38/2026/TT-BXD ban hành hệ thống định mức xây dựng quốc gia
+> **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).
+> **Hiệu lực:** 2026-07-01.
 > **Mỏ neo PDF Công báo:** [thong_tu_38_2026_tt_bxd.pdf](./thong_tu_38_2026_tt_bxd.pdf) *(SHA-256: `79d952610a16a3556f9903f37383259a1a2c01f6aef13c03042b449462ae54ef`)*.
 
 ---

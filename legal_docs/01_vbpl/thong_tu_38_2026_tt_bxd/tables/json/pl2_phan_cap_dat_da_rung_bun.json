@@ -1,0 +1,205 @@
+[
+  {
+    "table_id": "Bảng 0.1: Phân loại rừng áp dụng cho công tác phát rừng, phá dỡ cây cối",
+    "headers": [
+      "Loại rừng",
+      "Mật độ cây (cây/ha)",
+      "Đường kính thân cây d (cm)",
+      "Chiều cao cây h (m)"
+    ],
+    "rows": [
+      [
+        "**Rừng loại 1**",
+        "≤ 500",
+        "≤ 10",
+        "≤ 5"
+      ],
+      [
+        "**Rừng loại 2**",
+        "501 ÷ 1000",
+        "10 ÷ 20",
+        "5 ÷ 10"
+      ],
+      [
+        "**Rừng loại 3**",
+        "> 1000",
+        "> 20",
+        "> 10"
+      ]
+    ]
+  },
+  {
+    "table_id": "Bảng 0.2: Bảng quy đổi cây theo đường kính thân cây",
+    "headers": [
+      "Nhóm đường kính thân (cm)",
+      "Hệ số quy đổi về cây chuẩn (d = 20cm)"
+    ],
+    "rows": [
+      [
+        "**d ≤ 10**",
+        "0,3"
+      ],
+      [
+        "**10 < d ≤ 20**",
+        "1,0"
+      ],
+      [
+        "**20 < d ≤ 30**",
+        "1,8"
+      ],
+      [
+        "**30 < d ≤ 40**",
+        "2,8"
+      ],
+      [
+        "**d > 40**",
+        "4,0"
+      ]
+    ]
+  },
+  {
+    "table_id": "Bảng 0.3: Phân loại bùn áp dụng cho công tác nạo vét bùn",
+    "headers": [
+      "Cấp bùn",
+      "Độ sệt B",
+      "Mô tả trạng thái cơ lý"
+    ],
+    "rows": [
+      [
+        "**Bùn cấp 1**",
+        "B > 1",
+        "Bùn lỏng, chảy tự do"
+      ],
+      [
+        "**Bùn cấp 2**",
+        "0,75 < B ≤ 1",
+        "Bùn dẻo chảy"
+      ],
+      [
+        "**Bùn cấp 3**",
+        "0,50 < B ≤ 0,75",
+        "Bùn dẻo mềm"
+      ],
+      [
+        "**Bùn cấp 4**",
+        "B ≤ 0,50",
+        "Bùn dẻo cứng, lẫn sét cát"
+      ]
+    ]
+  },
+  {
+    "table_id": "Bảng 0.4: Bảng phân cấp đất áp dụng cho công tác đào, đắp đất thủ công",
+    "headers": [
+      "Cấp đất",
+      "Tên loại đất",
+      "Đặc tính thi công"
+    ],
+    "rows": [
+      [
+        "**Đất cấp I**",
+        "Đất cát, đất mùn, đất phù sa cát pha",
+        "Dễ đào bằng xẻng"
+      ],
+      [
+        "**Đất cấp II**",
+        "Đất cát pha sét, đất sét pha sỏi sạn nhỏ",
+        "Đào bằng cuốc bàn, cuốc chim"
+      ],
+      [
+        "**Đất cấp III**",
+        "Đất sét cứng, đất lẫn sỏi sạn cuội nhỏ",
+        "Cần dùng cuốc chim, xà beng"
+      ],
+      [
+        "**Đất cấp IV**",
+        "Đất sét rất cứng, đất đồi lẫn đá tảng cuội lớn",
+        "Phải dùng xà beng, búa tạ"
+      ]
+    ]
+  },
+  {
+    "table_id": "Bảng 0.5: Bảng phân cấp đất áp dụng cho công tác đóng cọc, ép cọc",
+    "headers": [
+      "Cấp đất đóng cọc",
+      "Loại cọc áp dụng",
+      "Số búa đóng trung bình / 1m cọc"
+    ],
+    "rows": [
+      [
+        "**Cấp I**",
+        "Cọc bê tông, cọc thép, cọc ván",
+        "≤ 30 nhát búa / m"
+      ],
+      [
+        "**Cấp II**",
+        "Cọc bê tông, cọc thép, cọc ván",
+        "31 ÷ 60 nhát búa / m"
+      ],
+      [
+        "**Cấp III**",
+        "Cọc bê tông, cọc thép, cọc ván",
+        "> 60 nhát búa / m"
+      ]
+    ]
+  },
+  {
+    "table_id": "Bảng 0.6: Bảng phân cấp đá áp dụng cho công tác đào phá đá, nổ mìn",
+    "headers": [
+      "Cấp đá",
+      "Cường độ kháng nén đơn trục $R_c$ (MPa)",
+      "Hệ số nứt nẻ $K_n$"
+    ],
+    "rows": [
+      [
+        "**Đá cấp I**",
+        "$R_c \\le 15$",
+        "$K_n > 0,75$"
+      ],
+      [
+        "**Đá cấp II**",
+        "$15 < R_c \\le 30$",
+        "$0,50 < K_n \\le 0,75$"
+      ],
+      [
+        "**Đá cấp III**",
+        "$30 < R_c \\le 60$",
+        "$0,25 < K_n \\le 0,50$"
+      ],
+      [
+        "**Đá cấp IV**",
+        "$R_c > 60$",
+        "$K_n \\le 0,25$"
+      ]
+    ]
+  },
+  {
+    "table_id": "Bảng 0.7: Bảng phân cấp đá áp dụng cho công tác khoan tạo lỗ cọc nhồi",
+    "headers": [
+      "Cấp đá khoan cọc",
+      "Loại đá địa chất",
+      "Tốc độ khoan định mức (m/ca)"
+    ],
+    "rows": [
+      [
+        "**Đá cấp I**",
+        "Đá phong hóa mạnh, đá phiến mềm",
+        "4 ÷ 6 m/ca"
+      ],
+      [
+        "**Đá cấp II**",
+        "Đá cát kết, đá vôi nứt nẻ",
+        "2,5 ÷ 4 m/ca"
+      ],
+      [
+        "**Đá cấp III**",
+        "Đá vôi cứng, đá granit phong hóa vừa",
+        "1,5 ÷ 2,5 m/ca"
+      ],
+      [
+        "**Đá cấp IV**",
+        "Đá granit tươi, đá bazan đặc chắc",
+        "< 1,5 m/ca"
+      ]
+    ]
+  }
+]

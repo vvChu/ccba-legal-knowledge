@@ -1,0 +1,96 @@
+{
+  "table_id": "bang_03",
+  "rows_count": 22,
+  "columns_count": 2,
+  "headers": [
+    "Chiều cao khu vực bảo vệ (m)",
+    "Nhóm nguy cơ cháy"
+  ],
+  "records": [
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Chiều cao khu vực bảo vệ (m)",
+      "Nhóm nguy cơ cháy": "Nhóm 1"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Chiều cao khu vực bảo vệ (m)",
+      "Nhóm nguy cơ cháy": "Bằng nước"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Cường độ phun tối thiểu (l/s.m2)",
+      "Nhóm nguy cơ cháy": ""
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Từ 10 đến 12",
+      "Nhóm nguy cơ cháy": "0,09"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Trên 12 đến 14",
+      "Nhóm nguy cơ cháy": "0,1"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Trên 14 đến 16",
+      "Nhóm nguy cơ cháy": "0,11"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Trên 16 đến 18",
+      "Nhóm nguy cơ cháy": "0,12"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Trên 18 đến 20",
+      "Nhóm nguy cơ cháy": "0,13"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Lưu lượng tối thiểu (l/s)",
+      "Nhóm nguy cơ cháy": ""
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Từ 10 đến 12",
+      "Nhóm nguy cơ cháy": "12"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Trên 12 đến 14",
+      "Nhóm nguy cơ cháy": "14"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Trên 14 đến 16",
+      "Nhóm nguy cơ cháy": "17"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Trên 16 đến 18",
+      "Nhóm nguy cơ cháy": "20"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Trên 18 đến 20",
+      "Nhóm nguy cơ cháy": "24"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Diện tích tính toán tối thiểu (m2)",
+      "Nhóm nguy cơ cháy": ""
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Từ 10 đến 12",
+      "Nhóm nguy cơ cháy": "66"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Trên 12 đến 14",
+      "Nhóm nguy cơ cháy": "72"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Trên 14 đến 16",
+      "Nhóm nguy cơ cháy": "78"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Trên 16 đến 18",
+      "Nhóm nguy cơ cháy": "84"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "Trên 18 đến 20",
+      "Nhóm nguy cơ cháy": "90"
+    },
+    {
+      "Chiều cao khu vực bảo vệ (m)": "CHÚ THÍCH 1: Nhóm nguy cơ phát sinh cháy được nêu trong Phụ lục A. CHÚ THÍCH 2: Các thông số về lưu lượng và cường độ phun được áp dụng cho đầu phun nước và bọt có cấu tạo thông thường CHÚ THÍCH 3: Bảng thể hiện cường độ phun của dung dịch chất tạo bọt thông thường. CHÚ THÍCH 4: Trong trường hợp diện tích thực tế (Stt) của khu vực được bảo vệ bởi hệ thống chữa cháy tự động bằng nước, bọt nhỏ hơn diện tích tính toán tối thiểu (S) của hệ thống chữa cháy tự động Sprinkler, Sprinkler-Drecher được quy định trong Bảng 3, thì lưu lượng thực tế có thể giảm theo hệ số K = Stt/ S.",
+      "Nhóm nguy cơ cháy": ""
+    }
+  ],
+  "footnotes": []
+}

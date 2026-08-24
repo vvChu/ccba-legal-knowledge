@@ -1,0 +1,255 @@
+{
+  "table_id": "bang_07",
+  "rows_count": 35,
+  "columns_count": 5,
+  "headers": [
+    "Loại ống",
+    "Đường kính danh định DN",
+    "Đường kính ngoài, mm",
+    "Độ dày, mm",
+    "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2"
+  ],
+  "records": [
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "15",
+      "Đường kính ngoài, mm": "18",
+      "Độ dày, mm": "2,0",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "0,0755"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "20",
+      "Đường kính ngoài, mm": "25",
+      "Độ dày, mm": "2,0",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "0,75"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "25",
+      "Đường kính ngoài, mm": "32",
+      "Độ dày, mm": "2,2",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "3,44"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "32",
+      "Đường kính ngoài, mm": "40",
+      "Độ dày, mm": "2,2",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "13,97"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "40",
+      "Đường kính ngoài, mm": "45",
+      "Độ dày, mm": "2,2",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "28,7"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "50",
+      "Đường kính ngoài, mm": "57",
+      "Độ dày, mm": "2,5",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "110"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "65",
+      "Đường kính ngoài, mm": "76",
+      "Độ dày, mm": "2,8",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "572"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "80",
+      "Đường kính ngoài, mm": "89",
+      "Độ dày, mm": "2,8",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "1429"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "100",
+      "Đường kính ngoài, mm": "108",
+      "Độ dày, mm": "2,8",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "4322"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "100",
+      "Đường kính ngoài, mm": "108",
+      "Độ dày, mm": "3,0",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "4231"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "100",
+      "Đường kính ngoài, mm": "114",
+      "Độ dày, mm": "2,8",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "5872"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "100",
+      "Đường kính ngoài, mm": "114*",
+      "Độ dày, mm": "3,0*",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "5757"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "125",
+      "Đường kính ngoài, mm": "133",
+      "Độ dày, mm": "3,2",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "13530"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "125",
+      "Đường kính ngoài, mm": "133*",
+      "Độ dày, mm": "3,5*",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "13190"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "125",
+      "Đường kính ngoài, mm": "140",
+      "Độ dày, mm": "3,2",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "18070"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "150",
+      "Đường kính ngoài, mm": "152",
+      "Độ dày, mm": "3,2",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "28690"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "150",
+      "Đường kính ngoài, mm": "159",
+      "Độ dày, mm": "3,2",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "36920"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "150",
+      "Đường kính ngoài, mm": "159*",
+      "Độ dày, mm": "4,0*",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "34880"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "200",
+      "Đường kính ngoài, mm": "219*",
+      "Độ dày, mm": "4,0*",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "209900"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "250",
+      "Đường kính ngoài, mm": "273*",
+      "Độ dày, mm": "4,0*",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "711300"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "300",
+      "Đường kính ngoài, mm": "325*",
+      "Độ dày, mm": "4,0*",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "1856000"
+    },
+    {
+      "Loại ống": "Ống thép hàn điện",
+      "Đường kính danh định DN": "350",
+      "Đường kính ngoài, mm": "377*",
+      "Độ dày, mm": "5,0*",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "4062000"
+    },
+    {
+      "Loại ống": "Đường ống thép dẫn khí và nước",
+      "Đường kính danh định DN": "15",
+      "Đường kính ngoài, mm": "21,3",
+      "Độ dày, mm": "2,5",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "0,18"
+    },
+    {
+      "Loại ống": "Đường ống thép dẫn khí và nước",
+      "Đường kính danh định DN": "20",
+      "Đường kính ngoài, mm": "26,8",
+      "Độ dày, mm": "2,5",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "0,926"
+    },
+    {
+      "Loại ống": "Đường ống thép dẫn khí và nước",
+      "Đường kính danh định DN": "25",
+      "Đường kính ngoài, mm": "33,5",
+      "Độ dày, mm": "2,8",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "3,65"
+    },
+    {
+      "Loại ống": "Đường ống thép dẫn khí và nước",
+      "Đường kính danh định DN": "32",
+      "Đường kính ngoài, mm": "42,3",
+      "Độ dày, mm": "2,8",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "16,5"
+    },
+    {
+      "Loại ống": "Đường ống thép dẫn khí và nước",
+      "Đường kính danh định DN": "40",
+      "Đường kính ngoài, mm": "48",
+      "Độ dày, mm": "3,0",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "34,5"
+    },
+    {
+      "Loại ống": "Đường ống thép dẫn khí và nước",
+      "Đường kính danh định DN": "50",
+      "Đường kính ngoài, mm": "60",
+      "Độ dày, mm": "3,0",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "135"
+    },
+    {
+      "Loại ống": "Đường ống thép dẫn khí và nước",
+      "Đường kính danh định DN": "65",
+      "Đường kính ngoài, mm": "75,5",
+      "Độ dày, mm": "3,2",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "517"
+    },
+    {
+      "Loại ống": "Đường ống thép dẫn khí và nước",
+      "Đường kính danh định DN": "80",
+      "Đường kính ngoài, mm": "88,5",
+      "Độ dày, mm": "3,5",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "1262"
+    },
+    {
+      "Loại ống": "Đường ống thép dẫn khí và nước",
+      "Đường kính danh định DN": "90",
+      "Đường kính ngoài, mm": "101",
+      "Độ dày, mm": "3,5",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "2725"
+    },
+    {
+      "Loại ống": "Đường ống thép dẫn khí và nước",
+      "Đường kính danh định DN": "100",
+      "Đường kính ngoài, mm": "114",
+      "Độ dày, mm": "4,0",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "5205"
+    },
+    {
+      "Loại ống": "Đường ống thép dẫn khí và nước",
+      "Đường kính danh định DN": "125",
+      "Đường kính ngoài, mm": "140",
+      "Độ dày, mm": "4,0",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "16940"
+    },
+    {
+      "Loại ống": "Đường ống thép dẫn khí và nước",
+      "Đường kính danh định DN": "150",
+      "Đường kính ngoài, mm": "165",
+      "Độ dày, mm": "4,0",
+      "Đặc tính thủy lực của đường ống KT, x 10-6 l6/s2": "43000"
+    }
+  ],
+  "footnotes": [
+    "CHÚ THÍCH: Các ống có thông số được đánh dấu bằng \"*\" được sử dụng trong các mạng đường cấp nước bên ngoài."
+  ]
+}

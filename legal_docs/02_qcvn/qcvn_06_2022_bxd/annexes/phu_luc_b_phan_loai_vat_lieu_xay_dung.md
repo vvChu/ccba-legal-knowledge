@@ -49,8 +49,10 @@ VÍ DỤ: Một số vật liệu thực tế được xếp vào loại vật l
 | Ch4 - cháy mạnh | > 450 | > 85 | > 50 | > 300 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Các thông số thử nghiệm được xác định theo tiêu chuẩn quốc gia hiện hành hoặc tiêu chuẩn tương đương về phương pháp thử tính cháy của vật liệu xây dựng
-- **CHÚ THÍCH 2:** Nếu thử nghiệm theo TCVN 12695 (ISO 1182), các vật liệu đáp ứng các yêu cầu sau cũng được xếp vào nhóm vật liệu cháy yếu Ch1: - Mức gia tăng nhiệt độ của lò đốt không quá 50 °C; - Khối lượng mẫu bị giảm không quá 50 %; - Thời gian kéo dài của ngọn lửa không quá 20 s.
+
+**CHÚ THÍCH 1:** Các thông số thử nghiệm được xác định theo tiêu chuẩn quốc gia hiện hành hoặc tiêu chuẩn tương đương về phương pháp thử tính cháy của vật liệu xây dựng
+
+**CHÚ THÍCH 2:** Nếu thử nghiệm theo TCVN 12695 (ISO 1182), các vật liệu đáp ứng các yêu cầu sau cũng được xếp vào nhóm vật liệu cháy yếu Ch1: - Mức gia tăng nhiệt độ của lò đốt không quá 50 °C; - Khối lượng mẫu bị giảm không quá 50 %; - Thời gian kéo dài của ngọn lửa không quá 20 s.
 
 <a id="muc-B-1-3"></a>
 ### B.1.3  Các nhóm vật liệu theo tính bắt cháy
@@ -138,8 +140,10 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Không yêu cầu đánh giá đặc tính kỹ thuật về cháy đối với các lớp phủ có chiều dày đến 0,3 mm, phủ trên nền tường, trần hoặc sàn làm từ vật liệu không cháy
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Ký hiệu "+" nghĩa là chỉ tiêu này cần được áp dụng CHÚ THÍCH 2. Ký hiệu “-” nghĩa là chỉ tiêu này không cần áp dụng
-- **CHÚ THÍCH 3:** Khi áp dụng vật liệu chống thấm là lớp phủ bề mặt của mái thì các chỉ tiêu về tính nguy hiểm cháy cần được áp dụng theo mục 3.
+
+**CHÚ THÍCH 1:** Ký hiệu "+" nghĩa là chỉ tiêu này cần được áp dụng CHÚ THÍCH 2. Ký hiệu “-” nghĩa là chỉ tiêu này không cần áp dụng
+
+**CHÚ THÍCH 3:** Khi áp dụng vật liệu chống thấm là lớp phủ bề mặt của mái thì các chỉ tiêu về tính nguy hiểm cháy cần được áp dụng theo mục 3.
 
 <a id="muc-B-2"></a>
 ### B.2  Yêu cầu về an toàn cháy đối với vật liệu

@@ -36,8 +36,10 @@ Bậc chịu lửa, cấp nguy hiểm cháy kết cấu, chiều cao PCCC lớn 
 | V | Không quy định | 3 | 800 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Quy định về số tầng (chiều cao PCCC cho phép), diện tích khoang cháy của các nhà thuộc nhóm nguy hiểm cháy theo công năng F1.3 có chiều cao PCCC từ trên 75 m đến 150 m được quy định tại Phụ lục A.
-- **CHÚ THÍCH 2:** Các bộ phận chịu lực của nhà hai tầng có bậc chịu lửa IV phải có giới hạn chịu lửa không thấp hơn R 30.
+
+**CHÚ THÍCH 1:** Quy định về số tầng (chiều cao PCCC cho phép), diện tích khoang cháy của các nhà thuộc nhóm nguy hiểm cháy theo công năng F1.3 có chiều cao PCCC từ trên 75 m đến 150 m được quy định tại Phụ lục A.
+
+**CHÚ THÍCH 2:** Các bộ phận chịu lực của nhà hai tầng có bậc chịu lửa IV phải có giới hạn chịu lửa không thấp hơn R 30.
 
 <a id="muc-H-2"></a>
 ### H.2  Nhà công cộng
@@ -64,10 +66,14 @@ Cần tuân thủ thêm các quy định bổ sung tại H.2.2 đến H.2.12 đ�
 | V | S1, S2, S3 | 6 | 1 200 | 800 | - | - | - | - | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Bảng này được áp dụng cho các loại nhà công cộng được đề cập trong H.2.1, trừ khi có quy định khác nêu tại H.2.2 đến H.2.12.
-- **CHÚ THÍCH 2:** Dấu “-” trong bảng có nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng.
-- **CHÚ THÍCH 3:** Trong nhà có bậc chịu lửa IV với chiều cao 2 tầng thì kết cấu chịu lực của nhà phải có giới hạn chịu lửa không thấp hơn R 45.
-- **CHÚ THÍCH 4:** Quy định về số tầng (chiều cao PCCC cho phép), diện tích khoang cháy của các nhà công cộng có chiều cao PCCC từ trên 50 m đến 150 m được quy định tại Phụ lục A.
+
+**CHÚ THÍCH 1:** Bảng này được áp dụng cho các loại nhà công cộng được đề cập trong H.2.1, trừ khi có quy định khác nêu tại H.2.2 đến H.2.12.
+
+**CHÚ THÍCH 2:** Dấu “-” trong bảng có nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng.
+
+**CHÚ THÍCH 3:** Trong nhà có bậc chịu lửa IV với chiều cao 2 tầng thì kết cấu chịu lực của nhà phải có giới hạn chịu lửa không thấp hơn R 45.
+
+**CHÚ THÍCH 4:** Quy định về số tầng (chiều cao PCCC cho phép), diện tích khoang cháy của các nhà công cộng có chiều cao PCCC từ trên 50 m đến 150 m được quy định tại Phụ lục A.
 
 <a id="muc-H-2-2"></a>
 ### H.2.2  Các cơ sở dịch vụ (nhóm F3.5)
@@ -106,10 +112,14 @@ Bậc chịu lửa, cấp nguy hiểm cháy kết cấu, chiều cao PCCC lớn 
 | IV, V | S1, S2, S3 | 3 | 500 | - | - | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Dấu "-" nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng.
-- **CHÚ THÍCH 2:** Trong các nhà của các cơ sở thương mại 1 tầng có bậc chịu lửa III, trừ các cơ sở kinh doanh sơn và véc ni, các vật liệu xây dựng hoàn thiện, phụ tùng, phụ kiện ô tô, thảm, đồ nội thất, cho phép tăng gấp đôi diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy với điều kiện phải ngăn cách gian bán hàng với các phòng khác bằng tường ngăn cháy loại 2.
-- **CHÚ THÍCH 3:** Đối với nhà cửa hàng có bậc chịu lửa I và II, cho phép tăng chiều cao của nhà thêm 1 tầng nếu chỉ bố trí kho hàng, các gian phòng phục vụ, dịch vụ và phòng kỹ thuật ở tầng trên cùng.
-- **CHÚ THÍCH 4:** Số tầng được tính bằng số các tầng trên mặt đất không kể tầng kỹ thuật trên cùng.
+
+**CHÚ THÍCH 1:** Dấu "-" nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng.
+
+**CHÚ THÍCH 2:** Trong các nhà của các cơ sở thương mại 1 tầng có bậc chịu lửa III, trừ các cơ sở kinh doanh sơn và véc ni, các vật liệu xây dựng hoàn thiện, phụ tùng, phụ kiện ô tô, thảm, đồ nội thất, cho phép tăng gấp đôi diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy với điều kiện phải ngăn cách gian bán hàng với các phòng khác bằng tường ngăn cháy loại 2.
+
+**CHÚ THÍCH 3:** Đối với nhà cửa hàng có bậc chịu lửa I và II, cho phép tăng chiều cao của nhà thêm 1 tầng nếu chỉ bố trí kho hàng, các gian phòng phục vụ, dịch vụ và phòng kỹ thuật ở tầng trên cùng.
+
+**CHÚ THÍCH 4:** Số tầng được tính bằng số các tầng trên mặt đất không kể tầng kỹ thuật trên cùng.
 
 <a id="muc-H-2-4"></a>
 ### H.2.4  Nhà trẻ, mẫu giáo, mầm non
@@ -214,9 +224,12 @@ Khi rạp chiếu phim có một số phòng chiếu phim thì tổng sức ch�
 | F2.2 | IV, V | S0, S1, S2, S3 | 3 (1) | ≤ 300 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Trong các nhà nhóm F2.1 chiều cao lớn nhất được phép bố trí gian phòng, được xác định bởi cao độ của tầng tại vị trí hàng ghế đầu tiên, không được vượt quá 9 m đối với các gian có sức chứa trên 600 chỗ. Trong các nhà có bậc chịu lửa I và cáp nguy hiểm cháy kết cấu S0 cho phép bố trí các gian có sức chứa đến 300 chỗ ở chiều cao lớn hơn 28 m.
-- **CHÚ THÍCH 2:** Trong các nhà nhóm F 2.2, không được bố trí các sàn nhảy có sức chứa lớn hơn 400 người cũng như các gian phòng có công năng khác với sức chứa lớn hơn 600 người ở chiều cao PCCC của tầng tương ứng lớn hơn 9 m Trong nhà có bậc chịu lửa I và cấp nguy hiểm cháy kết cấu S0, cho phép bố trí các gian sức chứa đến 300 chỗ ở chiều cao lớn hơn 28 m, nhưng phải tuân thủ yêu cầu tại A.2.4.
-- **CHÚ THÍCH 3:** Khi kết hợp rạp chiếu phim hoạt động quanh năm với rạp chiếu phim hoạt động mùa vụ với bậc chịu lửa khác nhau thì các rạp này phải được ngăn cách với nhau bằng tường ngăn cháy loại 2.
+
+**CHÚ THÍCH 1:** Trong các nhà nhóm F2.1 chiều cao lớn nhất được phép bố trí gian phòng, được xác định bởi cao độ của tầng tại vị trí hàng ghế đầu tiên, không được vượt quá 9 m đối với các gian có sức chứa trên 600 chỗ. Trong các nhà có bậc chịu lửa I và cáp nguy hiểm cháy kết cấu S0 cho phép bố trí các gian có sức chứa đến 300 chỗ ở chiều cao lớn hơn 28 m.
+
+**CHÚ THÍCH 2:** Trong các nhà nhóm F 2.2, không được bố trí các sàn nhảy có sức chứa lớn hơn 400 người cũng như các gian phòng có công năng khác với sức chứa lớn hơn 600 người ở chiều cao PCCC của tầng tương ứng lớn hơn 9 m Trong nhà có bậc chịu lửa I và cấp nguy hiểm cháy kết cấu S0, cho phép bố trí các gian sức chứa đến 300 chỗ ở chiều cao lớn hơn 28 m, nhưng phải tuân thủ yêu cầu tại A.2.4.
+
+**CHÚ THÍCH 3:** Khi kết hợp rạp chiếu phim hoạt động quanh năm với rạp chiếu phim hoạt động mùa vụ với bậc chịu lửa khác nhau thì các rạp này phải được ngăn cách với nhau bằng tường ngăn cháy loại 2.
 
 <a id="muc-H-2-7"></a>
 ### H.2.7  Nhà và công trình thể thao
@@ -357,11 +370,14 @@ _CHÚ THÍCH:_
 | IV | S0, S1, S2, S3 | ≤ 100 | 3 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Chiều cao lớn nhất cho phép bố trí gian phòng là cao độ của tầng tương ứng với hàng ghế đầu tiên.
-- **CHÚ THÍCH 2:** Trong các nhà trẻ, mầm non, mẫu giáo, các cơ sở dưỡng lão và chăm sóc người khuyết tật (không phải kiểu căn hộ), bệnh viện, các nhà ngủ của cơ sở giáo dục nội trú và các cơ sở trẻ em, cơ sở chăm sóc sức khỏe trẻ em (nhóm F1.
+
+**CHÚ THÍCH 1:** Chiều cao lớn nhất cho phép bố trí gian phòng là cao độ của tầng tương ứng với hàng ghế đầu tiên.
+
+**CHÚ THÍCH 2:** Trong các nhà trẻ, mầm non, mẫu giáo, các cơ sở dưỡng lão và chăm sóc người khuyết tật (không phải kiểu căn hộ), bệnh viện, các nhà ngủ của cơ sở giáo dục nội trú và các cơ sở trẻ em, cơ sở chăm sóc sức khỏe trẻ em (nhóm F1.
 - 1), không cho phép bố trí các gian phòng nói trên cao quá tầng 2, còn đối với các trường học (nhóm F4.
 - 1) - không cho phép cao quá tầng 3.
-- **CHÚ THÍCH 3:** Tổng sức chứa của các gian phòng đặt trên cùng một tầng không được vượt quá giá trị cho phép trong bảng này (trừ trường hợp các gian phòng đặt ở các khoang cháy khác nhau).
+
+**CHÚ THÍCH 3:** Tổng sức chứa của các gian phòng đặt trên cùng một tầng không được vượt quá giá trị cho phép trong bảng này (trừ trường hợp các gian phòng đặt ở các khoang cháy khác nhau).
 
 <a id="muc-H-3"></a>
 ### H.3  Nhà hành chính - phụ trợ của cơ sở sản xuất và kho
@@ -477,8 +493,10 @@ Bậc chịu lửa, cấp nguy hiểm cháy kết cấu, chiều cao nhà lớn 
 | E | 8 | V | Không quy định | 2 600 | 1 500 | - | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Cho phép tăng lên đến 1 800 m2 đối với diện tích tầng chứa chim và cừu giữa các tường ngăn cháy của nhà một tầng có bậc chịu lửa V và hạng C.
-- **CHÚ THÍCH 2:** Dấu "-" nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng.
+
+**CHÚ THÍCH 1:** Cho phép tăng lên đến 1 800 m2 đối với diện tích tầng chứa chim và cừu giữa các tường ngăn cháy của nhà một tầng có bậc chịu lửa V và hạng C.
+
+**CHÚ THÍCH 2:** Dấu "-" nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng.
 
 _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Chiều cao nhà trong bảng này được tính từ sàn tầng 1 đến trần tầng trên cùng, bao gồm cả tầng kỹ thuật; với trần nhà có cao độ thay đổi thì lấy giá trị cao đỏ trung bình. Khi xác định số tầng nhà thì chỉ tính các tầng trên mặt đất. Không quy định chiều cao nhà một tầng có cáp nguy hiểm cháy S0 và S1.
@@ -537,8 +555,10 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 | E | 9 | V | Không quy định | 2 200 | 1 200 | - | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Dấu "-" nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng.
-- **CHÚ THÍCH 2:** Đối với các nhà kho hạng C, E, trong trường hợp nhà bậc chịu lửa I, cấp S0 vẫn không thể đáp ứng yêu cầu về chiều cao hoặc diện tích khoang cháy phù hợp với quy mô cần thiết, cho phép áp dụng đồng bộ tiêu chuẩn NFPA 5000 phiên bản mới nhất hoặc tiêu chuẩn tương đương để xác định chiều cao và diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy tương ứng với giới hạn chịu lửa của các kết cấu, cấu kiện nhà và các điều kiện khác. Giới hạn chịu lửa của kết cấu, cấu kiện nhà trong trường hợp này không được thấp hơn quy định trong Bảng 4 đối với nhà có bậc chịu lửa I.
+
+**CHÚ THÍCH 1:** Dấu "-" nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng.
+
+**CHÚ THÍCH 2:** Đối với các nhà kho hạng C, E, trong trường hợp nhà bậc chịu lửa I, cấp S0 vẫn không thể đáp ứng yêu cầu về chiều cao hoặc diện tích khoang cháy phù hợp với quy mô cần thiết, cho phép áp dụng đồng bộ tiêu chuẩn NFPA 5000 phiên bản mới nhất hoặc tiêu chuẩn tương đương để xác định chiều cao và diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy tương ứng với giới hạn chịu lửa của các kết cấu, cấu kiện nhà và các điều kiện khác. Giới hạn chịu lửa của kết cấu, cấu kiện nhà trong trường hợp này không được thấp hơn quy định trong Bảng 4 đối với nhà có bậc chịu lửa I.
 
 _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Chiều cao nhà trong bảng này được tính từ sàn tầng 1 đến trần tầng trên cùng, bao gồm cả tầng kỹ thuật, với trần nhà có cao độ thay đổi thì lấy giá trị cao độ trung bình. Khi xác định số tầng nhà thì chỉ tính các tầng trên mặt đất. Không quy định chiều cao nhà một tầng có bậc chịu lửa I, II, III và cấp nguy hiểm cháy S0. Chiều cao nhà một tầng có bậc chịu lửa IV và cấp nguy hiểm cháy S0, S1 không được lớn hơn 25 m, đối với cấp S2, S3 - không lớn hơn 18 m (tính từ mặt sàn đến mép dưới của kết cấu chịu lực mái tại vị trí gối đỡ)

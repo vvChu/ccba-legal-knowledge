@@ -48,14 +48,21 @@ _CHÚ THÍCH: Xác định khoảng cách phòng cháy chống cháy đối vớ
 | IV, V | S2, S3 | 15 | 15 | 15 | 18 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Khoảng cách giữa các nhà và công trình là khoảng cách thông thủy giữa các bức tường ngoài hoặc các kết cấu bao che của chúng. Trong trường hợp các kết cấu, cấu kiện của nhà và công trình làm bằng những vật liệu cháy vươn ra hơn 1 m thì phải lấy khoảng cách giữa các kết cấu, cấu kiện này.
-- **CHÚ THÍCH 2:** Khoảng cách phòng cháy chống cháy giữa các bức tường đặc (không có lỗ cửa sổ) của nhà ở và nhà, công trình công cộng (với bậc chịu lửa I đến IV; cấp nguy hiểm cháy kết cấu S0, S1; lớp hoàn thiện tường ngoài có tính cháy tối thiểu Ch1; lớp mặt ngoài (chống thấm) của mái tối thiểu Ch1 và LT1) đến các nhà và công trình khác cho phép lấy nhỏ hơn 20 % giá trị quy định trong bảng này.
-- **CHÚ THÍCH 3:** Đối với các nhà 2 tầng kết cấu lắp ghép dạng khung-tấm với bậc chịu lửa V, cũng như các nhà được lợp bằng vật liệu cháy, thì khoảng cách phòng cháy chống cháy cần phải tăng thêm 20 % giá trị quy định trong bảng này.
-- **CHÚ THÍCH 4:** Không quy định khoảng cách phòng cháy chống cháy giữa các nhà ở, nhà và công trình công cộng nếu bức tường cao và rộng hơn giữa hai nhà, hoặc cả hai bức tường liền kề của hai nhà là các tường ngăn cháy loại 1.
-- **CHÚ THÍCH 5:** Không quy định khoảng cách giữa các nhà ở, cũng như giữa các nhà ở và các công trình phục vụ sinh hoạt khác khi tổng diện tích đất xây dựng (gồm cả diện tích đất không xây dựng giữa chúng) không vượt quá diện tích tầng cho phép lớn nhất trong phạm vi của một khoang cháy xác định theo bậc chịu lửa và cấp nguy hiểm cháy kết cấu kém nhất (xem Phụ lục H)
-- **CHÚ THÍCH 6:** Không quy định khoảng cách giữa các nhà và công trình công cộng khi tổng diện tích đất xây dựng (gồm cả diện tích đất không xây dựng giữa chúng) không vượt quá diện tích tầng cho phép lớn nhất trong phạm vi của một khoang cháy (xem Phụ lục H).
+
+**CHÚ THÍCH 1:** Khoảng cách giữa các nhà và công trình là khoảng cách thông thủy giữa các bức tường ngoài hoặc các kết cấu bao che của chúng. Trong trường hợp các kết cấu, cấu kiện của nhà và công trình làm bằng những vật liệu cháy vươn ra hơn 1 m thì phải lấy khoảng cách giữa các kết cấu, cấu kiện này.
+
+**CHÚ THÍCH 2:** Khoảng cách phòng cháy chống cháy giữa các bức tường đặc (không có lỗ cửa sổ) của nhà ở và nhà, công trình công cộng (với bậc chịu lửa I đến IV; cấp nguy hiểm cháy kết cấu S0, S1; lớp hoàn thiện tường ngoài có tính cháy tối thiểu Ch1; lớp mặt ngoài (chống thấm) của mái tối thiểu Ch1 và LT1) đến các nhà và công trình khác cho phép lấy nhỏ hơn 20 % giá trị quy định trong bảng này.
+
+**CHÚ THÍCH 3:** Đối với các nhà 2 tầng kết cấu lắp ghép dạng khung-tấm với bậc chịu lửa V, cũng như các nhà được lợp bằng vật liệu cháy, thì khoảng cách phòng cháy chống cháy cần phải tăng thêm 20 % giá trị quy định trong bảng này.
+
+**CHÚ THÍCH 4:** Không quy định khoảng cách phòng cháy chống cháy giữa các nhà ở, nhà và công trình công cộng nếu bức tường cao và rộng hơn giữa hai nhà, hoặc cả hai bức tường liền kề của hai nhà là các tường ngăn cháy loại 1.
+
+**CHÚ THÍCH 5:** Không quy định khoảng cách giữa các nhà ở, cũng như giữa các nhà ở và các công trình phục vụ sinh hoạt khác khi tổng diện tích đất xây dựng (gồm cả diện tích đất không xây dựng giữa chúng) không vượt quá diện tích tầng cho phép lớn nhất trong phạm vi của một khoang cháy xác định theo bậc chịu lửa và cấp nguy hiểm cháy kết cấu kém nhất (xem Phụ lục H)
+
+**CHÚ THÍCH 6:** Không quy định khoảng cách giữa các nhà và công trình công cộng khi tổng diện tích đất xây dựng (gồm cả diện tích đất không xây dựng giữa chúng) không vượt quá diện tích tầng cho phép lớn nhất trong phạm vi của một khoang cháy (xem Phụ lục H).
 - Chú thích này không áp dụng cho các nhà và công trình thuộc nhóm nguy hiểm cháy theo công năng F1.1 và F4.1, và các cơ sở kinh doanh khí cháy, chất lỏng cháy và chất lỏng dễ bắt cháy, cũng như các chất và vật liệu có khả năng nổ và cháy khi tác dụng với nước, ô xi trong không khí hoặc giữa chúng với nhau
-- **CHÚ THÍCH 7:** Cho phép giảm 50% khoảng cách phòng cháy chống cháy quy định trong bảng này đối với các nhà, công trình có bậc chịu lửa I và II, cấp nguy hiểm cháy kết cấu S0 và mỗi nhà đều được trang bị chữa cháy tự động toàn nhà.
+
+**CHÚ THÍCH 7:** Cho phép giảm 50% khoảng cách phòng cháy chống cháy quy định trong bảng này đối với các nhà, công trình có bậc chịu lửa I và II, cấp nguy hiểm cháy kết cấu S0 và mỗi nhà đều được trang bị chữa cháy tự động toàn nhà.
 
 <a id="muc-E-2"></a>
 ### E.2  Khoảng cách phòng cháy chống cháy giữa các nhà sản xuất, nhà kho
@@ -73,9 +80,12 @@ Khoảng cách phòng cháy chống cháy giữa các nhà trong một cơ sở 
 | 3. Bậc chịu lửa III và cấp S2, S3. Bậc chịu lửa IV và cấp S1, S2, S3. Bậc chịu lửa V | 12 | 15 | 18 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Khoảng cách nhỏ nhất giữa các nhà là khoảng cách thông thủy giữa các bức tường ngoài hoặc kết cấu bên ngoài của chúng. Trong trường hợp nhà hoặc công trình có phần kết cấu, cấu kiện làm bằng những vật liệu cháy vươn ra hơn 1 m thì khoảng cách nhỏ nhất phải lấy là khoảng cách giữa các kết cấu, cấu kiện này.
-- **CHÚ THÍCH 2:** Không quy định khoảng cách giữa các nhà nhóm F5 trong những trường hợp sau a) Nếu tổng diện tích mặt sàn của từ 2 nhà trở lên có bậc chịu lửa III, IV không vượt quá diện tích lớn nhất cho phép của một tầng trong phạm vi một khoang cháy (Phụ lục H) tính theo hạng nguy hiểm cháy cao nhất, bậc chịu lửa và cấp nguy hiểm cháy thấp nhất. b) Nếu tường của nhà, công trình cao hơn hoặc rộng hơn quay về phía một công trình khác là tường ngăn cháy loại 1. c) Nếu các nhà và công trình có bậc chịu lửa III, không phụ thuộc vào tính nguy hiểm cháy của các gian phòng trong chúng, có các bức tường đứng đối diện là tường ngăn cháy loại 2 với các lỗ mở được chèn bịt bằng cửa ngăn cháy hoặc van ngăn cháy loại 2. Khoảng cách giữa các nhà phải bảo đảm các yêu cầu về khoảng cách phục vụ chữa cháy và cứu nạn cứu hộ.
-- **CHÚ THÍCH 3:** Khoảng cách đã quy định trong bảng này đối với những nhà có bậc chịu lửa I, II, cũng như các nhà bậc III, IV với cấp S0 thuộc hạng A, B, C được giảm từ 9 m xuống còn 6 m khi các nhà đó được trang bị hệ thống chữa cháy tự động cho toàn nhà.
+
+**CHÚ THÍCH 1:** Khoảng cách nhỏ nhất giữa các nhà là khoảng cách thông thủy giữa các bức tường ngoài hoặc kết cấu bên ngoài của chúng. Trong trường hợp nhà hoặc công trình có phần kết cấu, cấu kiện làm bằng những vật liệu cháy vươn ra hơn 1 m thì khoảng cách nhỏ nhất phải lấy là khoảng cách giữa các kết cấu, cấu kiện này.
+
+**CHÚ THÍCH 2:** Không quy định khoảng cách giữa các nhà nhóm F5 trong những trường hợp sau a) Nếu tổng diện tích mặt sàn của từ 2 nhà trở lên có bậc chịu lửa III, IV không vượt quá diện tích lớn nhất cho phép của một tầng trong phạm vi một khoang cháy (Phụ lục H) tính theo hạng nguy hiểm cháy cao nhất, bậc chịu lửa và cấp nguy hiểm cháy thấp nhất. b) Nếu tường của nhà, công trình cao hơn hoặc rộng hơn quay về phía một công trình khác là tường ngăn cháy loại 1. c) Nếu các nhà và công trình có bậc chịu lửa III, không phụ thuộc vào tính nguy hiểm cháy của các gian phòng trong chúng, có các bức tường đứng đối diện là tường ngăn cháy loại 2 với các lỗ mở được chèn bịt bằng cửa ngăn cháy hoặc van ngăn cháy loại 2. Khoảng cách giữa các nhà phải bảo đảm các yêu cầu về khoảng cách phục vụ chữa cháy và cứu nạn cứu hộ.
+
+**CHÚ THÍCH 3:** Khoảng cách đã quy định trong bảng này đối với những nhà có bậc chịu lửa I, II, cũng như các nhà bậc III, IV với cấp S0 thuộc hạng A, B, C được giảm từ 9 m xuống còn 6 m khi các nhà đó được trang bị hệ thống chữa cháy tự động cho toàn nhà.
 
 <a id="muc-E-3"></a>
 ### E.3  Xác định diện tích lỗ mở không được bảo vệ chống cháy của tường ngoài và giới hạn chịu lửa tương ứng của phần tường ngoài phải bảo vệ chống cháy

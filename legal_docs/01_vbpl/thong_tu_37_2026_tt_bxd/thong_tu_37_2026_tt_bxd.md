@@ -17,10 +17,6 @@ legal_basis:
 - doc_id: nghị_định_số_33_2025_nđ_cp_của_chính_phủ_quy_định_
   title: Nghị định số 33/2025/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền
     hạn và cơ cấu tổ chức của Bộ Xây dựng
-- doc_id: bảng_giá_nhân_công_đã_công_bố_theo_quy_định_trước_
-  title: bảng giá nhân công đã công bố theo quy định trước đây, tổ chức chuyển đổi
-    theo phương pháp quy định tại khoản 4 Mục I Phụ lục III Thông tư này để công bố
-    áp dụng kể từ ngày Thông tư này có hiệu lực thi hành
 ---
 
 # 37/2026/TT-BXD
@@ -85,9 +81,9 @@ legal_basis:
 > [!TIP]
 > Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 
-- 📄 **[Phụ lục I: PHƯƠNG PHÁP XÁC ĐỊNH ĐỊNH MỨC DỰ TOÁN MỚI, ĐIỀU CHỈNH ĐỊNH MỨC DỰ TOÁN VÀ RÀ SOÁT, CẬP NHẬT HỆ THỐNG ĐỊNH MỨC](./templates/phu_luc_i_phương_pháp_xác_định_định_mức_dự_toán_mớ.md)**
-- 📄 **[Phụ lục II: HƯỚNG DẪN KHẢO SÁT, THU THẬP, CÔNG BỐ THÔNG TIN VỀ GIÁ VẬT LIỆU XÂY DỰNG](./templates/phu_luc_ii_hướng_dẫn_khảo_sát_thu_thập_công_bố_thôn.md)**
-- 📄 **[Phụ lục III: PHƯƠNG PHÁP XÁC ĐỊNH GIÁ NHÂN CÔNG XÂY DỰNG](./templates/phu_luc_iii_phương_pháp_xác_định_giá_nhân_công_xây_d.md)**
-- 📄 **[Phụ lục IV: PHƯƠNG PHÁP XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG](./templates/phu_luc_iv_phương_pháp_xác_định_giá_ca_máy_và_thiết.md)**
-- 📄 **[Phụ lục V: # PHƯƠNG PHÁP XÁC ĐỊNH CHỈ SỐ GIÁ XÂY DỰNG](./templates/phu_luc_v_phương_pháp_xác_định_chỉ_số_giá_xây_dựng.md)**
-- 📄 **[Phụ lục VI: # PHƯƠNG PHÁP XÁC ĐỊNH SUẤT VỐN ĐẦU TƯ VÀ SUẤT CHI PHÍ](./templates/phu_luc_vi_phương_pháp_xác_định_suất_vốn_đầu_tư_và_.md)**
+- 📄 **[Phụ lục I: PHƯƠNG PHÁP XÁC ĐỊNH ĐỊNH MỨC DỰ TOÁN MỚI, ĐIỀU CHỈNH ĐỊNH MỨC DỰ TOÁN VÀ RÀ SOÁT, CẬP NHẬT HỆ THỐNG ĐỊNH MỨC](./templates/phu_luc_i_phuong_phap_xac_dinh_dinh_muc_du_toan_moi.md)**
+- 📄 **[Phụ lục II: HƯỚNG DẪN KHẢO SÁT, THU THẬP, CÔNG BỐ THÔNG TIN VỀ GIÁ VẬT LIỆU XÂY DỰNG](./templates/phu_luc_ii_huong_dan_khao_sat_thu_thap_cong_bo_gia_vlxd.md)**
+- 📄 **[Phụ lục III: PHƯƠNG PHÁP XÁC ĐỊNH GIÁ NHÂN CÔNG XÂY DỰNG](./templates/phu_luc_iii_phuong_phap_xac_dinh_gia_nhan_cong_xay_dung.md)**
+- 📄 **[Phụ lục IV: PHƯƠNG PHÁP XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG](./templates/phu_luc_iv_phuong_phap_xac_dinh_gia_ca_may_va_thiet_bi_thi_cong.md)**
+- 📄 **[Phụ lục V: PHƯƠNG PHÁP XÁC ĐỊNH CHỈ SỐ GIÁ XÂY DỰNG](./templates/phu_luc_v_phuong_phap_xac_dinh_chi_so_gia_xay_dung.md)**
+- 📄 **[Phụ lục VI: PHƯƠNG PHÁP XÁC ĐỊNH SUẤT VỐN ĐẦU TƯ VÀ SUẤT CHI PHÍ](./templates/phu_luc_vi_phuong_phap_xac_dinh_suat_von_dau_tu_va_suat_chi_phi.md)**

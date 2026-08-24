@@ -210,29 +210,10 @@ Trong đó tổng khối lượng công tác hoặc kết cấu xây dựng (m) 
 
 Hệ số chuyển đổi định mức Kcđ được xác định phụ thuộc vào phương pháp xác định định mức; nhóm công tác (đơn giản hay phức tạp theo dây chuyền công nghệ tổ chức thi công; điều kiện thi công, yêu cầu kỹ thuật; chu kỳ làm việc (liên tục hay gián đoạn)); số liệu khảo sát.
 
-Nội dung
-
-Tính toán theo hồ sơ thiết kế, quy chuẩn, tiêu chuẩn xây dựng
-
-Theo số liệu thống kê của công trình đã thực hiện
-
-Tổ chức khảo sát, thu thập số liệu từ thi công thực tế
-
-Hao phí nhân công
-
-≤ 1,2
-
-≤ 1,15
-
-≤ 1,1
-
-Hao phí máy thi công
-
-≤ 1,15
-
-≤ 1,1
-
-≤ 1,05
+| Nội dung | Tính toán theo hồ sơ thiết kế, quy chuẩn, tiêu chuẩn xây dựng | Theo số liệu thống kê của công trình đã thực hiện | Tổ chức khảo sát, thu thập số liệu từ thi công thực tế |
+| :--- | :---: | :---: | :---: |
+| **Hao phí nhân công** | ≤ 1,2 | ≤ 1,15 | ≤ 1,1 |
+| **Hao phí máy thi công** | ≤ 1,15 | ≤ 1,1 | ≤ 1,05 |
 
 **6.** Hướng dẫn sử dụng định mức của nước ngoài để phân tích, đánh giá, đề xuất áp dụng cho công trình
 
@@ -362,368 +343,81 @@ d) Tổng hợp các bảng tính toán chi tiết xác định định mức.
 
 e) Kết quả định mức được hoàn thiện, cập nhật sau khi rà soát.
 
-__IV. HƯỚNG DẪN KHẢO SÁT, BIỂU MẪU KHẢO SÁT THU THẬP DỮ LIỆU__
+__IV. HƯỚNG DẪN KHẢO SÁT, BIỂU MẪU KHẢO SÁT THU THẬP DỮ LIỆU__
 
-**1.** Khảo sát xác định định mức dự toán công trình
+**1. Hướng dẫn chung**
 
-1.1. Việc tổ chức khảo sát thu thập dữ liệu trực tiếp tại công trình trong quá trình thi công thực hiện trên cơ sở đề cương khảo sát với một số nội dung chính như sau: Tên công tác/định mức cần khảo sát; yêu cầu kỹ thuật, biện pháp tổ chức thi công, điều kiện thi công tại công trình; thành phần công việc (công đoạn/bước công việc) được xác định định mức; dự kiến các phương án khảo sát (phạm vi, cách thức thu thập dữ liệu…) tương ứng với từng nội dung thành phần hao phí; thành phần tham gia thực hiện khảo sát…
+1.1. Yêu cầu về khảo sát, thu thập số liệu:
 
-Việc theo dõi, thu thập số liệu từ thực tế thi công của công trình được thực hiện thông qua phương pháp khảo sát truyền thống (theo dõi, kiểm đếm, bấm giờ và ghi chép trực tiếp vào biểu mẫu) hoặc áp dụng các công nghệ số và công nghệ hiện trường, bao gồm mô hình thông tin công trình, bản sao số, cảm biến nhận dạng tự động, định vị, xử lý dữ liệu và mô phỏng; dữ liệu hình ảnh từ camera giám sát công trường, video ghi hình quá trình thi công và số liệu trích xuất từ hệ thống quản lý hoạt động của máy móc, thiết bị thi công tham gia vào dây chuyền công nghệ.
+- Việc khảo sát, thu thập số liệu được thực hiện trực tiếp tại công trình, bảo đảm tính khách quan, trung thực, đại diện và đầy đủ các yếu tố ảnh hưởng đến quá trình thi công.
+- Số lượng phiếu khảo sát đối với mỗi công tác xây dựng phải đạt tối thiểu từ 03 đến 05 phiếu (tùy thuộc vào quy mô, tính chất công tác) tại các thời điểm, vị trí thi công khác nhau.
 
-1.2. Số lần khảo sát và mức độ chênh lệch giữa các lần khảo sát trực tiếp tại công trình
+1.2. Mẫu biểu thu thập số liệu:
 
-a) Thực hiện khảo sát ít nhất 5 lần/định mức tương ứng với phạm vi khảo sát (vị trí, thời điểm thi công…) khác nhau nhưng đảm bảo tương đồng về yêu cầu kỹ thuật, biện pháp tổ chức thi công, điều kiện thi công. Mức độ chênh lệch số liệu thu thập được của các lần khảo sát đối với vật liệu chính; năng suất nhân công; năng suất các máy và thiết bị thi công chính, đảm bảo không quá 20% (giữa số liệu nhỏ nhất và lớn nhất của các lần khảo sát). Trường hợp số liệu khảo sát không đảm bảo yêu cầu thì tiếp tục khảo sát.
+##### MẪU 1: PHIẾU KHẢO SÁT SỐ LIỆU VẬT LIỆU TẠI CÔNG TRÌNH
 
-b) Trường hợp công tác xây dựng mang tính chất đặc thù, có khối lượng thi công không đảm bảo đủ số lần khảo sát tối thiểu quy định tại điểm a nêu trên thì số lần khảo sát do chủ đầu tư quyết định.
+- Công tác: ……………………………………………………………………………
+- Tên định mức:……………………………………………………………………….
+- Gói thầu/Công trình:…………………….. Khối lượng thi công:………...............
+- Vị trí khảo sát:………………………….. Khí hậu/thời tiết:……………….……
+- Thời gian khảo sát:……………………... Điều kiện khác: …….…………….....
+- Vật liệu:.………………….......................
 
-1.3. Biểu mẫu khảo sát thu thập số liệu trực tiếp tại công trình tham khảo theo hướng dẫn tại Mục 3 Phần IV Phụ lục này.
+| Stt | Loại vật liệu | Đơn vị | Khối lượng theo thiết kế | Khối lượng thực tế thi công | Ghi chú |
+| :---: | :--- | :---: | :---: | :---: | :--- |
+| *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* |
+| 1 | Vật liệu thứ 1 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| 2 | Vật liệu thứ 2 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| 3 | Vật liệu thứ 3 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| … | Vật liệu thứ…. | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
-**2.** Khảo sát phục vụ công tác rà soát, cập nhật định mức
+*Ghi chú: Vật liệu cần ghi đầy đủ các thông tin chủng, loại.*
 
-Việc khảo sát, thu thập dữ liệu phục vụ công tác rà soát, cập nhật định mức thực hiện trên cơ sở danh mục, kế hoạch rà soát định mức, đề cương, biểu mẫu khảo sát phù hợp với từng nội dung, yêu cầu rà soát, cập nhật định mức. Tham khảo biểu mẫu theo hướng dẫn tại Mục 3 Phần IV Phụ lục này để tổ chức thực hiện khảo sát trực tiếp hoặc thiết lập các nội dung khảo sát gián tiếp trên cơ sở nội dung, yêu cầu rà soát, cập nhật định mức.
+| Đại diện chủ đầu tư<br>*(ký, ghi rõ họ tên)* | Đơn vị tư vấn giám sát (nếu có)<br>*(ký, ghi rõ họ tên)* | Nhà thầu thi công xây dựng<br>*(ký, ghi rõ họ tên)* | Đơn vị thực hiện khảo sát<br>*(ký, ghi rõ họ tên)* |
+| :---: | :---: | :---: | :---: |
 
-**3.** Biểu mẫu khảo sát thu thập số liệu trực tiếp tại công trình (để tham khảo).
+---
 
-__PHIẾU KHẢO SÁT VẬT LIỆU TẠI CÔNG TRÌNH__
+##### MẪU 2: PHIẾU KHẢO SÁT SỐ LIỆU NHÂN CÔNG TẠI CÔNG TRÌNH
 
-Công tác: …………………………………………………………………………… 
+- Công tác: …………………………………………………………………………….
+- Tên định mức:………………………………………………………………………..
+- Gói thầu/Công trình:……………………………………… Khối lượng thi công:……….....................
+- Vị trí khảo sát:……………………………………………… Khí hậu/thời tiết:….………………………
+- Thời gian khảo sát:………………………………………… Điều kiện khác: ……………….…………
+- Tổ đội nhân công:..……………………..……………………………...
 
-Tên định mức:………………………………………………………………………. 
+| Stt | Nội dung công việc thực hiện | Thời gian (b.đầu) | Thời gian (k.thúc) | Thời gian (∆t) | Nhân công thứ 1<br>(số lượng…) | Nhân công thứ 2<br>(số lượng…) | Nhân công thứ 3<br>(số lượng…) | Nhân công thứ …<br>(số lượng…) | Ghi chú |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* |
+| 1 | Công đoạn/bước công việc thứ 1 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| 2 | Công đoạn/bước công việc thứ 2 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| … | Công đoạn/bước công việc thứ … | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
-Gói thầu/Công trình:…………………….. Khối lượng thi công:………...............
+*Ghi chú: Đính kèm danh sách thông tin của nhân công (tên, bậc thợ, hợp đồng lao động).*
 
-Vị trí khảo sát:………………………….. Khí hậu/thời tiết:……………….…… 
+| Đại diện chủ đầu tư<br>*(ký, ghi rõ họ tên)* | Đơn vị tư vấn giám sát (nếu có)<br>*(ký, ghi rõ họ tên)* | Nhà thầu thi công xây dựng<br>*(ký, ghi rõ họ tên)* | Đơn vị thực hiện khảo sát<br>*(ký, ghi rõ họ tên)* |
+| :---: | :---: | :---: | :---: |
 
-Thời gian khảo sát:……………………... Điều kiện khác: …….…………….....
+---
 
-Vật liệu:.………………….......................
+##### MẪU 3: PHIẾU KHẢO SÁT SỐ LIỆU MÁY THI CÔNG TẠI CÔNG TRÌNH
 
-Stt
+- Công tác: ……………………………………………………………………………
+- Tên định mức:……………………………………………………………………….
+- Gói thầu/Công trình:…………………….. Khối lượng thi công:………...............
+- Vị trí khảo sát:………………………….. Khí hậu/thời tiết:……………….……
+- Thời gian khảo sát:……………………... Điều kiện khác: …….…………….....
+- Máy thi công (MTC): ………………………..………………………
 
-Loại vật liệu
+| Stt | Nội dung công việc thực hiện | Thời gian (b.đầu) | Thời gian (k.thúc) | Thời gian (∆t) | MTC thứ 1<br>(số lượng…) | MTC thứ 2<br>(số lượng…) | MTC thứ 3<br>(số lượng…) | MTC thứ …<br>(số lượng…) | Ghi chú |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| *(1)* | *(2)* | *(3)* | *(4)* | *(5)* | *(6)* | *(7)* | *(8)* | *(9)* | *(10)* |
+| 1 | Công đoạn/bước công việc thứ 1 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| 2 | Công đoạn/bước công việc thứ 2 | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| … | Công đoạn/bước công việc thứ … | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
-Đơn vị
+*Ghi chú: Đính kèm danh sách máy với đầy đủ các thông tin: chủng loại, nước sản xuất, năm sản xuất, công suất máy.*
 
-Khối lượng theo thiết kế
-
-Khối lượng thực tế thi công
-
-Ghi chú
-
-*(1)*
-
-*(2)*
-
-*(3)*
-
-*(4)*
-
-*(5)*
-
-*(6)*
-
-1
-
-Vật liệu thứ 1
-
-2
-
-Vật liệu thứ 2
-
-3
-
-Vật liệu thứ 3
-
-…
-
-Vật liệu thứ….
-
-Ghi chú: Vật liệu cần ghi đầy đủ các thông tin chủng, loại.
-
-Đại diện chủ đầu tư  
-(ký, ghi rõ họ tên)
-
-Đơn vị tư vấn giám sát (nếu có)   
-(ký, ghi rõ họ tên)
-
-Nhà thầu thi công xây dựng  
-(ký, ghi rõ họ tên)
-
-Đơn vị thực hiện khảo sát  
-(ký, ghi rõ họ tên)
-
-__PHIẾU KHẢO SÁT SỐ LIỆU NHÂN CÔNG TẠI CÔNG TRÌNH__
-
-Công tác: …………………………………………………………………………….
-
-Tên định mức:………………………………………………………………………..
-
-Gói thầu/Công trình:……………………………………… Khối lượng thi công:……….....................
-
-Vị trí khảo sát:……………………………………………… Khí hậu/thời tiết:….………………………
-
-Thời gian khảo sát:………………………………………… Điều kiện khác: ……………….…………
-
-Tổ đội nhân công:..……………………..……………………………...
-
-Stt
-
-Nội dung công việc thực hiện
-
-Thời gian
-
-Thành phần nhân công
-
-Ghi chú
-
-Nhân công thứ 1 (số lượng…)
-
-Nhân công thứ 2 (số lượng…)
-
-Nhân công thứ 3 (số lượng…)
-
-Nhân công thứ … (số lượng…)
-
-b.đầu
-
-k.thúc
-
-(∆ t)
-
-b.đầu
-
-k.thúc
-
-b.đầu
-
-k.thúc
-
-b.đầu
-
-k.thúc
-
-b.đầu
-
-k.thúc
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-*(1)*
-
-*(2)*
-
-*(3)*
-
-*(4)*
-
-*(5)*
-
-*(6)*
-
-*(7)*
-
-*(8)*
-
-*(9)*
-
-*(10)*
-
-*(11)*
-
-*(…)*
-
-*(….)*
-
-*(…)*
-
-1
-
-Công đoạn/bước công việc thứ 1
-
-2
-
-Công đoạn/bước công việc thứ 2
-
-…
-
-Công đoạn/bước công việc thứ …
-
-Ghi chú:
-
-- Cột (3), (4) thời gian bắt đầu và kết thúc cho từng công đoạn/bước công việc của công tác xây dựng. Trường hợp xuất hiện thời gian ngừng thi công thì được ghi chép đầy đủ thời gian bắt đầu, kết thúc khi ngừng thi công, lý do ngừng thi công được ghi vào cột ghi chú.
-
-- Nhân công thứ 1, nhân công thứ 2, nhân công thứ 3, nhân công thứ…tương ứng với công đoạn/bước công việc thứ 1, công đoạn/bước công việc thứ 2, công đoạn/bước công việc thứ 3, công đoạn/bước công việc thứ…
-
-- Đính kèm danh sách thông tin của nhân công do chủ đầu tư, nhà thầu cung cấp.
-
-Đại diện chủ đầu tư  
-(ký, ghi rõ họ tên)
-
-Đơn vị tư vấn giám sát (nếu có)   
-(ký, ghi rõ họ tên)
-
-Nhà thầu thi công xây dựng  
-(ký, ghi rõ họ tên)
-
-Đơn vị thực hiện khảo sát  
-(ký, ghi rõ họ tên)
-
-__PHIẾU KHẢO SÁT SỐ LIỆU MÁY THI CÔNG TẠI CÔNG TRÌNH__
-
-Công tác: ……………………………………………………………………………
-
-Tên định mức:………………………………………………………………………..
-
-Gói thầu/Công trình:………………………………………… Khối lượng thi công:………...………..... 
-
-Vị trí khảo sát:………………………………………………… Khí hậu/thời tiết:….…………………… 
-
-Thời gian khảo sát:…………………………………………… Điều kiện khác: ……………….………
-
-Máy thi công (MTC): ………………………..……………………………...
-
-Stt
-
-Nội dung công việc thực hiện
-
-Thời gian
-
-Thành phần máy thi công
-
-Ghi chú
-
-MTC thứ 1
-
-MTC thứ 2
-
-MTC thứ 3
-
-MTC thứ … (số lượng…)
-
-(số lượng…)
-
-(số lượng…)
-
-(số lượng…)
-
-b.đầu
-
-k.thúc
-
-(∆ t)
-
-b.đầu
-
-k.thúc
-
-b.đầu
-
-k.thúc
-
-b.đầu
-
-k.thúc
-
-b.đầu
-
-k.thúc
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-(h:ph)
-
-*(1)*
-
-*(2)*
-
-*(3)*
-
-*(4)*
-
-*(5)*
-
-*(6)*
-
-*(7)*
-
-*(8)*
-
-*(9)*
-
-*(10)*
-
-*(11)*
-
-*(…)*
-
-*(…)*
-
-*(…)*
-
-1
-
-Công đoạn/bước công việc thứ 1
-
-2
-
-Công đoạn/bước công việc thứ 2
-
-…
-
-Công đoạn/bước công việc thứ …
-
-Ghi chú:
-
-- Cột (3), (4) thời gian bắt đầu và kết thúc cho từng công đoạn/bước công việc của công tác xây dựng. Trường hợp xuất hiện thời gian ngừng thi công cần ghi chép đầy đủ thời gian bắt đầu, kết thúc khi ngừng thi công, lý do ngừng thi công được ghi vào cột ghi chú.
-
-- Đính kèm danh sách máy với đầy đủ các thông tin sau: Tên, chủng loại, xuất xứ máy; thông số kỹ thuật của máy (như: công suất, trọng tải, trọng lượng, dung tích,...) do chủ đầu tư, nhà thầu cung cấp.
-
-Đại diện chủ đầu tư  
-(ký, ghi rõ họ tên)
-
-Đơn vị tư vấn giám sát (nếu có)   
-(ký, ghi rõ họ tên)
-
-Nhà thầu thi công xây dựng  
-(ký, ghi rõ họ tên)
-
-Đơn vị thực hiện khảo sát  
-(ký, ghi rõ họ tên)
+| Đại diện chủ đầu tư<br>*(ký, ghi rõ họ tên)* | Đơn vị tư vấn giám sát (nếu có)<br>*(ký, ghi rõ họ tên)* | Nhà thầu thi công xây dựng<br>*(ký, ghi rõ họ tên)* | Đơn vị thực hiện khảo sát<br>*(ký, ghi rõ họ tên)* |
+| :---: | :---: | :---: | :---: |

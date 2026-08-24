@@ -61,8 +61,10 @@ Bảng G.2a - Khoảng cách giới hạn cho phép từ cửa ra vào của gia
 | V | 15 | 10 | 10 | 5 | 5 | |
 
 _CHÚ THÍCH:_
-- **CHÚ THÍCH 1:** Mật độ dòng người thoát nạn được xác định bằng tỉ số giữa tổng số người phải thoát nạn theo đường thoát nạn và diện tích của đường thoát nạn đó.
-- **CHÚ THÍCH 2:** Phải áp dụng những giá trị khoảng cách quy định tại Bảng G.2a như sau: Đối với trường mầm non lấy theo cột (6); Đối với các trường phổ thông, trường kỹ thuật dạy nghề, các trường cao đẳng, chuyên nghiệp và đại học lấy theo cột (3); Đối với các cơ sở điều trị nội trú lấy theo cột (5); Đối với khách sạn lấy theo cột (4) Đối với các nhà công cộng khác, mật độ dòng người thoát nạn trong hành lang được lấy cụ thể cho từng dự án.
+
+**CHÚ THÍCH 1:** Mật độ dòng người thoát nạn được xác định bằng tỉ số giữa tổng số người phải thoát nạn theo đường thoát nạn và diện tích của đường thoát nạn đó.
+
+**CHÚ THÍCH 2:** Phải áp dụng những giá trị khoảng cách quy định tại Bảng G.2a như sau: Đối với trường mầm non lấy theo cột (6); Đối với các trường phổ thông, trường kỹ thuật dạy nghề, các trường cao đẳng, chuyên nghiệp và đại học lấy theo cột (3); Đối với các cơ sở điều trị nội trú lấy theo cột (5); Đối với khách sạn lấy theo cột (4) Đối với các nhà công cộng khác, mật độ dòng người thoát nạn trong hành lang được lấy cụ thể cho từng dự án.
 
 _1. Từ gian phòng có cửa ra bố trí ở giữa các buồng thang bộ hoặc ở giữa các lối ra bên ngoài_
 

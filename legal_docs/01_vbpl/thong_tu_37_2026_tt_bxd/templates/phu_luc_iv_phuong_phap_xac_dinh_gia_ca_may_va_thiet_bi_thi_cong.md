@@ -1,24 +1,22 @@
 ---
-title: "Phụ lục IV"
+title: "PHƯƠNG PHÁP XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG"
 document: "37/2026/TT-BXD"
 appendix: "Phụ lục IV"
 type: "form_template"
 usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
 
-# PHỤ LỤC IV
-*(Ban hành kèm theo Thông tư số 37/2026/TT-BXD ngày 26 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
+# Phụ Lục IV - PHƯƠNG PHÁP XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG
+*(Kèm theo 37/2026/TT-BXD)*
 
 ---
 
+__PHỤ LỤC IV__
 
-## PHỤ LỤC IV
+PHƯƠNG PHÁP XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG  
+*(Kèm theo Thông tư số 37/2026/TT-BXD ngày 26/6/2026 của Bộ trưởng Bộ Xây dựng)*
 
-
-PHƯƠNG PHÁP XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG (Kèm theo Thông tư số 37/2026/TT-BXD ngày 26/6/2026 của Bộ trưởng Bộ Xây dựng)
-
-### I. XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG ĐỂ CÁC TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG CÔNG BỐ
-
+__I. XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG ĐỂ CÁC TỈNH, THÀNH PHỐ TRỰC THUỘC TRUNG ƯƠNG CÔNG BỐ__
 
 Giá ca máy và thiết bị thi công xây dựng (sau đây gọi là giá ca máy) là mức chi phí bình quân cho một ca làm việc theo quy định của máy và thiết bị thi công xây dựng. Giá ca máy gồm toàn bộ hoặc một số khoản mục chi phí như chi phí khấu hao, chi phí sửa chữa, chi phí nhiên liệu, năng lượng, chi phí nhân công vận hành điều khiển và chi phí khác.
 
@@ -40,9 +38,9 @@ Giá ca máy và thiết bị thi công để các tỉnh, thành phố trực t
 
 **3.** Xác định định mức các hao phí và các dữ liệu cơ bản làm cơ sở xác định giá ca máy
 
-- a) Các tỉnh, thành phố trực thuộc Trung ương căn cứ định mức các hao phí và các dữ liệu cơ bản đối với những máy và thiết bị thi công nêu tại Mục V Phụ lục này để làm cơ sở xác định giá ca máy.
+a) Các tỉnh, thành phố trực thuộc Trung ương căn cứ định mức các hao phí và các dữ liệu cơ bản đối với những máy và thiết bị thi công nêu tại Mục V Phụ lục này để làm cơ sở xác định giá ca máy.
 
-- b) Đối với các loại máy và thiết bị thi công chưa có trong Mục V Phụ lục này thì định mức các hao phí và các dữ liệu cơ bản được xác định như sau:
+b) Đối với các loại máy và thiết bị thi công chưa có trong Mục V Phụ lục này thì định mức các hao phí và các dữ liệu cơ bản được xác định như sau:
 
 - Định mức khấu hao của máy: căn cứ theo hướng dẫn của Bộ Tài chính về chế độ quản lý, sử dụng và trích khấu hao tài sản cố định hoặc tham khảo vận dụng của loại máy có cùng tính năng kỹ thuật nêu tại Mục V Phụ lục này;
 
@@ -62,9 +60,9 @@ Giá ca máy và thiết bị thi công để các tỉnh, thành phố trực t
 
 **6.** Hồ sơ xác định/trình công bố giá ca máy và thiết bị thi công: Hồ sơ xác định giá ca máy và thiết bị thi công do tỉnh, thành phố trực thuộc Trung ương công bố gồm:
 
-- a) Thuyết minh, xử lý số liệu, tính toán giá ca máy và thiết bị thi công để công bố.
+a) Thuyết minh, xử lý số liệu, tính toán giá ca máy và thiết bị thi công để công bố.
 
-- b) Đối với các loại máy và thiết bị thi công chưa có trong Mục V Phụ lục này
+b) Đối với các loại máy và thiết bị thi công chưa có trong Mục V Phụ lục này
 
 - Các tài liệu liên quan đến thông số kỹ thuật chủ yếu của máy và thiết bị thi công cần xác định, thông tin về nguyên giá máy và thiết bị thi công (hợp đồng, hóa đơn mua bán máy; báo giá của nhà cung cấp máy và thiết bị thi công xây dựng công trình; nguyên giá máy và thiết bị thi công của công trình/dự án tương tự).
 
@@ -72,12 +70,11 @@ Giá ca máy và thiết bị thi công để các tỉnh, thành phố trực t
 
 **7.** Sở Xây dựng tổ chức xây dựng cơ sở dữ liệu, danh sách doanh nghiệp xây dựng, doanh nghiệp kinh doanh mua, bán, cho thuê máy, chuyên gia trong lĩnh vực xây dựng, ... phục vụ cho việc thu thập dữ liệu xác định giá ca máy. Sử dụng phương thức cung cấp thông tin qua trang thông tin điện tử hoặc ứng dụng phần mềm để thuận tiện cho việc tổng hợp, xử lý thông tin phục vụ công bố giá kịp thời và thuận lợi cho việc liên thông với hệ thống thông tin, dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng.
 
-### II. XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG CỦA CÔNG TRÌNH
+__II. XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG CỦA CÔNG TRÌNH__
 
+__1. Xác định giá ca máy đối với các loại máy và thiết bị thi công chưa được công bố hoặc đã được cấp có thẩm quyền công bố nhưng chưa phù hợp với yêu cầu sử dụng và điều kiện thi công của công trình__
 
-**1.** Xác định giá ca máy đối với các loại máy và thiết bị thi công chưa được công bố hoặc đã được cấp có thẩm quyền công bố nhưng chưa phù hợp với yêu cầu sử dụng và điều kiện thi công của công trình
-
-- a) Xác định giá ca máy đối với các loại máy và thiết bị thi công chưa được công bố:
+a) Xác định giá ca máy đối với các loại máy và thiết bị thi công chưa được công bố:
 
 - Phương pháp xác định giá ca máy căn cứ theo hướng dẫn nêu tại Mục III Phụ lục này;
 
@@ -91,19 +88,19 @@ Giá ca máy và thiết bị thi công để các tỉnh, thành phố trực t
 
 - Ngoài ra có thể tham khảo giá ca máy của công trình, dự án đã và đang thực hiện sau khi quy đổi về mặt bằng giá tại thời điểm xác định giá ca máy của công trình để quyết định áp dụng.
 
-- b) Xác định giá ca máy đối với các loại máy và thiết bị thi công đã được cấp có thẩm quyền công bố nhưng áp dụng cho công trình chưa phù hợp
+b) Xác định giá ca máy đối với các loại máy và thiết bị thi công đã được cấp có thẩm quyền công bố nhưng áp dụng cho công trình chưa phù hợp
 
 - Căn cứ theo bảng định mức các hao phí, các dữ liệu cơ bản và nguyên giá làm cơ sở xác định giá ca máy nêu tại Mục V Phụ lục này điều chỉnh các định mức hao phí, dữ liệu để cập nhật, tính toán lại giá ca máy;
 
 - Giá các yếu tố đầu vào (nhiên liệu, năng lượng; đơn giá nhân công vận hành) được xác định phù hợp với công trình và quy định tại Thông tư hướng dẫn một số nội dung, phương pháp xác định và quản lý chi phí đầu tư xây dựng.
 
-- c) Hồ sơ xác định giá ca máy và thiết bị thi công của công trình: Hồ sơ xác định giá ca máy và thiết bị thi công của công trình gồm:
+c) Hồ sơ xác định giá ca máy và thiết bị thi công của công trình: Hồ sơ xác định giá ca máy và thiết bị thi công của công trình gồm:
 
 - Các tài liệu liên quan đến thông số kỹ thuật chủ yếu của máy và thiết bị thi công cần xác định, thông tin về nguyên giá máy và thiết bị thi công (hợp đồng, hóa đơn mua bán máy; báo giá của nhà cung cấp máy và thiết bị thi công xây dựng công trình; nguyên giá máy và thiết bị thi công của công trình/dự án tương tự);
 
 - Thuyết minh, xử lý số liệu, tính toán giá ca máy và thiết bị thi công của công trình.
 
-**2.** Tham khảo dữ liệu giá ca máy của nước ngoài
+__2. Tham khảo dữ liệu giá ca máy của nước ngoài__
 
 Trường hợp dự án sử dụng công nghệ thi công mới hoặc áp dụng định mức xây dựng do tổ chức nước ngoài công bố nhưng trong nước chưa có dữ liệu tương ứng thì được phép tham khảo phương pháp xác định giá ca máy và dữ liệu giá ca máy thi công của nước ngoài để xác định giá ca máy.
 
@@ -115,52 +112,51 @@ Việc tham khảo phải bảo đảm các yêu cầu sau:
 
 - Bảo đảm phù hợp với quy định của pháp luật về quản lý chi phí đầu tư xây dựng và mặt bằng giá thị trường tại thời điểm xác định.
 
-**3.** Xác định giá ca máy chờ đợi
+__3. Xác định giá ca máy chờ đợi__
 
 Trường hợp cần xác định giá ca máy chờ đợi thì giá ca máy chờ đợi bao gồm các khoản mục chi phí sau: chi phí khấu hao (được tính 50% chi phí khấu hao), chi phí nhân công vận hành điều khiển (được tính 50% chi phí nhân công vận hành điều khiển) và chi phí khác của máy.
 
-### III. XÁC ĐỊNH CÁC KHOẢN MỤC CHI PHÍ CỦA GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG
-
+__III. XÁC ĐỊNH CÁC KHOẢN MỤC CHI PHÍ CỦA GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG__
 
 Các khoản mục chi phí khấu hao, chi phí sửa chữa, chi phí nhiên liệu, năng lượng, chi phí nhân công vận hành điều khiển và chi phí khác của máy và được xác định theo công thức sau:
 
 Trong đó:
 
-CCM: giá ca máy (đồng/ca);
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYkAAAAsCAIAAAAfGdMDAAAAAXNSR0IArs4c6QAAEItJREFUeF7tnHdcFEcbx68X7lAJKIISEJBmpFlQbIkGLARNUxMxvkaNqRpNU4kxmGiMJa/GmmiMMYoixUjsRkRFUYRYUARFkaKCdLm2V3bvnTu44/Bu91ausL6fef7wI3uzM7/5zrPPzs48u3S1Wk2DBglAApAAxQgwKKYHyoEEIAFIQEMAxiboB5AAJEBFAjA2UXFUoCZIABKAsQn6ACQACVCRAIxNVBwVqAkSgARgbII+AAlAAlQkAGMTFUcFaoIEIAEYm6APQAKQABUJwNhExVGBmiABSADGJugDkAAkQEUCMDZRcVSgJkgAEqATvU+HqRQKpQpT0+h0Oo1GZ7I5HCYmVrGE7I4ERzlVFBFEERnNrkEpMZST05GXz7PTNm5sQpGG0rwj+5LSL5bIGHxHgYODW0j061Gu1w6WjPji3SBex3SRcqooIogiMpqdglJiKCenYy6cZ7JVMG8yYeLi9EVRQSExC3ZdKGuUSKRSqaSu+OS6/0T27BqyMEdk+iSbH6WcKooIooiM5vGnlBjKybH5NfJ/1ADNRF+w+qwfxno4hX6YfEesRPUFMJW8+szysQPfP9XQEQDsr0oulRJ11F6CKCKjBQWxGnsx0Y8LxeR0xIVhrzYxpVyhNGpMKRGJECIJqFIuk4gMTlQp5IrWqEJwqonYhFxdN74n1yXm53yZ0Ynog78SFh+vtRcOg3bsrkqSv3n+siz8MGwnQRSR0TISZtTYiYneLSgmpwMuC3s1iclrbpzcl3zmXtvbtfjq5jdDRiy9JMbRoZI9upqydMqYqdtuyZuLyB9kJ/3xV26FxHx4Mt6nk/ybmnS6ShASFeVvvKjEcB81McaHbf/P0dlflarpztWCOiXeg7q9BFFERgsGYjX2YqIfE4rJeSYXdciIVj3K2rb+sKx/TKQX36C8NH/P2o1HSh7LcepQ1d48e+Jw+t5DeRWIrgjHfeD4EewTa/97uER/DOd0o9iElGWfK5Kyu/oFu3NMneMYFO7TCezaWcUkYgJDDZqwqypduxhqKKFth+0oiCIyWvpPoMaOTPSDQTE5VrkqqFYJWp6+Ym1R79eivB1YBtpkN/YlXmb7eOBvi7FcgkZOnjGhr7DNXIbJ94qeNkK8/dsd+TLCrhrHpsricoTG6dz9OZOhCVSGd/ypkdYd+3ZMfzwbNW9fqUpfJWI/VeS6QRFBFJHRzIxSYignh5xfUa+UujFj09qz7tFje3MNxckK9u0u9J36dp82R5+Uz2SxOZ3Y7CfnMuyeoyaElW1bm1bWeokb99woNmGoEsXA9zCZts/KdI5enH4ez46snujVGqXtpUoqMTDAzfBPCcBicL+2JSaKyGjpLVk1dhokismhXjSxqiK08nBiarn/sIHOhtUihSmJhd5TpoQISDRmKpIIgoaESo8nphbhPQ+Ceo3O43Rxc+LQVKK6RqKQRkIRiSKMLs745mSY4GkfVQ2nV00ZrbM34tOunFj9tv7vN79Jr2hFYktBFJHRMoDk1diSid6bKCaHhJc/00XUdRf+OV3fPdDf0WDugxSlJd70mhwXSiYy4XTfwTvQQ3HpZGa5Ap/PkwvsWPX+Gd5clsuYTbcUphfflfrjYFdRhsgVwORyhRys1YNsYLClaLhhCKpAxSKRWAHSy40N/IJvKoPyZFVhKqUU1KhQaXYBUBVoGFGCeloOy5szIlRKGSij/aGtobL7d27pLC9xesQrG7KLdH8XlzUZnEBWkBrVIJIjMk1XdQiMuNlaBug/Ali0bJW0IJCClP8WMICFqeHRyiIPhSwTXDWa5sywsYEck60CjcCTxZqhk0pkckAHx7XstVHWQe2I8xL6ObpE/17amgQgu7Xn6wVb87RJjqKLC4O7hsbj7tOBInXHp3q6jNig26fT96P20NseXM+Zx+pwe2acQ4DVps8NFbJdxq27YmJnEH1cdOlyuTa5QFlzOXVdwtLVG7f8umnDuuWLVmeWl2b+NKl379ifbxhcBaV/TA30jV35z13DS1urp/bo50P88WzgzMR7BkkRpFSh4oqsTe8EeY9ccqCwHmnIXfPGoNHzt2eX1ZWf3/xOn14vxqeBjTekKm/nx+GeAz7dfbnaKDEDa7XGrE+HT/rrkcGRNhBJCVKrKk9tXrbk++WLpo8MDJyUdF8TG424nTEaHuvKkEjKs7fPHRkY/f2ZWk0IwmRVuTs+iZn9S3ZxSc7294Kfj5i362K5CHdTl7QaUkxQPDUX7ksxEmzU1pWD48kV5zYBjxkya/GS+dPjZv98+v5jk65VIcON6R0UTKzcbMOpD3x5ruNTqnT9VJbt+fKT1ZkPm+cUlSc/B7Hpy1NVIlz3wYtNDadm+vK6xezTXhMmzVTuJVKwPS6gk8Av7pcrdUjrhEczKbqf9cfWg8WayKO4s/vDcR/sLGjSzpvEd5Lj56bcV0murokO8or+8V9dapTi9m/v9XHt99X5RuNBxJS1VZV4VlXzxLCTUoVJbqwZGT7rRC2KiQqTV36fckuknTdJC34aFT7jWI2Wg7IiMbbPhKQHRvOmNoQen5s3fNKBavyxJiFIcnnF1DmpDxA5Ii7Zv2T+fjAOJrkR5HpYQwa45yPFW8d6eY1enlWvHQd5SeryPwtlGIbc3hLV960DVfjzpqeCQoKJZgaCo+Zp2ajNwSElB8eTr68aGT77WLVcXPT7RL/BC84/Nu1aVo4FVKuu8fQcP363cbt1EURVtmeKd+eu7npzZLFYju7uQVN3G0ytDHuBH5tmgaj3Wpo+6hl13dQ6FTdo6rK184ajx7+bPv3rHRk37tc3ScSNDwsy/ly7/brHy1G+YKdOnLtjW67fq68EOXLYwAQ+oyfHetExJrdb2JjIhmN/X5ZoHyMVty/UCF/w5LI5LOO8AzrL2bU7nrm68NqeQUYVjQ72BRjgH6w2O+Vg0+BZE/yELKbmNWUW0MzksLTdZbJB1XQeG/xgiZEQJK+vul1YUiZSMx16vTR+jCcXhxt+roJ5gSRkaF7T5ruFxY5QJK345XwjqJPF5jH4bCadzuTwmXQmYGGdtBAyYnDVSEz6lK3Z4Hgyi8Nj0BlcDkfQM8BT+PDeAzHDpGuZH6BnugS3q5cbVyWpk7QstTLdxnyTlnH07xbbu+wNH8feE39ISvx6nLtm6wrk6UsJlrcNWKBiMcJ09urGx/U807txHK/o+N2HdsePElz77bPXh/cfGBn95vxtN1xiP3j3xV6aTUNZydkz5d3D+nbRN9YpeFiYO1i+pncZOuFl5cn0nCbwE1KQ09htsCaWWcPMqtI1gtxM2XiCM3bi0O5tPpig1szwtIabUdlGJk8oJJZtVlDnviMHiTbNfnfp/vxqbvDQMBc5Ljf8liyXoa2b6Tjko8WT1ft+/DVbE53aG4vMqTHLpLmjJtTg+xTBKFgsh7BVtUqlFN29dlcZFB7gpL1UcFzLGu5NyTp4PfsN8MSqSyp1iZJsJ7/gML2FBrhyWVzXgNBgP7B3pW7K3ThzwsxNuU26hCYAUCEBO9qYTLOkadhDRS2o07nfAB+Ca4xgEqlSgHVAsXa9WiyWSGVypf65rDFzrr/35CNGCyVI4a4V/5RkJ7zYf87BWkySs3VDWuGlb4dGfp2Ll9X+1JNYAlWah5Vb60f28o8MCXnrtwL92rPm8IaXfAd/vmaTxjau/OgF71eJHteaRYEVczLqCAWh9df2fjY6qKfPsNm/5VSjeNyI2rGGDDV6/8iK5GJF/bkVMeGxP16oqzi8IuUO2NRQlv4xJjiOYEHySWXk1BAPkmk1NTg+RTgGFsvBGxGNIwWMXrZjx9qlS9YdLGjCdS0yLvIsl2k6vWiQR9SG2yZ3xkQXv43sNVT3zgpam7FgqP+wBae0y5rg4V18L3v/T7NCXZ19YhfvzLhZZ7CAXJc+q3fgzL0PCZYziLKYmGwu30EgEAITCBz4PIPnMqbASYghjYo2CZ+6uOgQOn6s87mDmSV5VxSeg3tY+Oj05O2EQFVzUcZzQ2fOHfFg/YL1Zx8Z5EEwOvWJemeW1t4e7m2Yeo93wzJ3T245j1CQonPwm8v3pm2Z5nJh6ZxVp0QOBNxwdFhDhq5qpyHvx0+iJa/YelEzdzJl4GtdhEZOjdlB0rbRVg2hT1k2Ru3zZIbAKyI27qOv4j8cG+RI5FqUnPFYS5Rj5LSZw0TnT5eYetgQRiw6nn90wYDmZAKG80sJx/KOJrzo3Dwrpws8B8TO2ZB1p/Rq0jdThvs/15qwWJdz9rZf3IxX3AgCUDszLAXeAyKc7uVeqdV7slrWIJZq1wbUNF6fmHE9Lu5cc0LhG9mdAQ7Y2Vjer37z4zRW8qKlqcXS1tbpHJ3Z69t4TQVZWQ/oPKeAsQvWL49B867VuOFzsw8kp8j349+ipazcWWjqhQG0sapB2mbubVtVhmqIfMp2KohbZYH1Sx6X03p7xXEt2+nr+JrZAXHxs50upp19ZCoViQtmLq2p4XSeQCgwWCimA4DgbiYUOnBYzYu92gghLTxy8nHMVx8MJlw0aWdsojuPmjHNN+fPPTnVMpDbpJDXXM+5UYnRwQcRMESFcvzHxfYuuI4GDHamoUrwKAg+n2mXCKUGDxMohsqx5yI/XLWw74Xvvth47pFcpQK61ECJJuMdfGxMJVPT1IjSklVWci6jbjh/6HB+I/gmBN2hSzcvfw9Xd5Pc2jkK5ERoS4E+Y5qMLvDfLoPej5/iXlupiU1qVAl2VFGpvNnqrp2+VoF2kBocn7KxGjxPBl/yQFEl0rpIguNatneipxhlGxXl94lbMsMtd++J22IrtADyRNJPSKMWfjy8ZXqFVyczISGhXe2x3EMiPB8d3fr735cK7xSXPHYJHxYirLmUvivpGrNvWKC/F0vB7vfGEKeH5w/sSj5b2y18cF/PLlzbOhomqcg5sCcps0zoHxEa+Lxj3aXknSkZRRKhELmZ8VdmuTAwIsS3s+j6kb17jhWxfAeE+7sJrPzE2ZalvPTQ9wu3ZJZWluZl5rOjZk8f5Mo35hbmSvhOUruGp81JakV1/uHE3RdkAf2C3B3ZdG7PF3zYjzHvgZ5ycHzP0bwH9fUlV7MzUremlgdOGR8kaO9COSmpeGoiArr2NPIpm7MBe5amPfnvxL2nyhyDIkN9XfgMGo5rSZ19Anq7C23qRKSg2rgQU+jxQogHcrdE0a1HF4ueOpTVN/ObvEZF9evhYC4YEH4v3FyHMQWCqGhMJthsBbvUYE8epGLLZCiXz2UywWjKGQKu5pBUhtB4fAeWlfapiVRpBSAYhwfmkAwaKhXLMJA6oEkXUIDDYPmMDd4TRFFEJlOxeXyuJr/AtiYTi1HwnXUmXY2qmaBBbWtG3GyrQTtvAn1WsPg8/SAoJShbwAS8EBkCFLK1joIpVTyhbSNT8yzOtJoOYmNqRHSOxHfgtLxZiuNaHI7tncj27kGuBeAeDLbhpwjInfZEKVSFMkjFAotiU7ukwZMgAUgAEjBPwNy8ynwNsAQkAAlAAtYnAGOT9ZnCGiEBSMByAjA2Wc4Q1gAJQALWJwBjk/WZwhohAUjAcgIwNlnOENYACUAC1icAY5P1mcIaIQFIwHICMDZZzhDWAAlAAtYnAGOT9ZnCGiEBSMByAjA2Wc4Q1gAJQALWJwBjk/WZwhohAUjAcgL/Ay1BRT/Z/B5VAAAAAElFTkSuQmCC)CCM: giá ca máy (đồng/ca);
 
-CKH: chi phí khấu hao (đồng/ca);
+CKH: chi phí khấu hao (đồng/ca); 
 
 CSC: chi phí sửa chữa (đồng/ca);
 
 CNL: chi phí nhiên liệu, năng lượng (đồng/ca);
 
-CNC: chi phí nhân công vận hành điều khiển (đồng/ca);
+CNC: chi phí nhân công vận hành điều khiển (đồng/ca); 
 
 CCPK: chi phí khác (đồng/ca).
 
 Các khoản mục chi phí trong giá ca máy được xác định trên cơ sở nguyên giá máy, định mức các hao phí xác định giá ca máy và giá các yếu tố nhiên liệu, năng lượng, đơn giá nhân công vận hành.
 
-**1.** Xác định chi phí khấu hao
+__1. Xác định chi phí khấu hao__
 
-- a) Trong quá trình sử dụng máy, máy bị hao mòn, giảm dần giá trị sử dụng và giá trị của máy do tham gia vào hoạt động sản xuất kinh doanh, do bào mòn của tự nhiên.
+a) Trong quá trình sử dụng máy, máy bị hao mòn, giảm dần giá trị sử dụng và giá trị của máy do tham gia vào hoạt động sản xuất kinh doanh, do bào mòn của tự nhiên.
 
 Khấu hao máy là việc tính toán, và phân bổ một cách có hệ thống nguyên giá của máy vào chi phí sản xuất, kinh doanh trong thời gian trích khấu hao của máy để thu hồi vốn đầu tư máy. Khấu hao của máy được tính trong giá ca máy.
 
-- b) Chi phí khấu hao trong giá ca máy được xác định theo công thức sau:
+b) Chi phí khấu hao trong giá ca máy được xác định theo công thức sau:
 
-Trong đó:
+![](data:image/png;base64,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)Trong đó:
 
 CKH: chi phí khấu hao trong giá ca máy (đồng/ca);
 
-G: nguyên giá máy trước thuế (đồng);
+G: nguyên giá máy trước thuế (đồng); 
 
 GTH: giá trị thu hồi (đồng);
 
 ĐKH: định mức khấu hao của máy (%/năm);
 
-NCA: số ca làm việc của máy trong năm (ca/năm).
+NCA: số ca làm việc của máy trong năm (ca/năm). 
 
-- c) Xác định nguyên giá máy:
+c) Xác định nguyên giá máy:
 
 - Nguyên giá của máy để tính giá ca máy được xác định theo giá máy mới, phù hợp với mặt bằng thị trường của loại máy sử dụng để thi công xây dựng công trình.
 
@@ -170,33 +166,33 @@ NCA: số ca làm việc của máy trong năm (ca/năm).
 
 - Nguyên giá của máy được xác định trên cơ sở các số liệu sau:
 
-+ Hợp đồng mua, bán máy; hóa đơn và các chi phí khác liên quan để đưa máy vào trạng thái sẵn sàng hoạt động;
+\+ Hợp đồng mua, bán máy; hóa đơn và các chi phí khác liên quan để đưa máy vào trạng thái sẵn sàng hoạt động;
 
-+ Báo giá của nhà cung cấp máy và thiết bị thi công xây dựng công trình;
+\+ Báo giá của nhà cung cấp máy và thiết bị thi công xây dựng công trình;
 
-+ Tham khảo nguyên giá máy từ các công trình/dự án tương tự đã và đang thực hiện trên địa bàn tỉnh, thành phố;
+\+ Tham khảo nguyên giá máy từ các công trình/dự án tương tự đã và đang thực hiện trên địa bàn tỉnh, thành phố;
 
-+ Tham khảo nguyên giá máy các địa phương lân cận công bố hoặc tham khảo nguyên giá máy của Bộ Xây dựng nêu tại Mục V Phụ lục này;
+\+ Tham khảo nguyên giá máy các địa phương lân cận công bố hoặc tham khảo nguyên giá máy của Bộ Xây dựng nêu tại Mục V Phụ lục này;
 
-+ Dữ liệu hóa đơn điện tử; dữ liệu thông quan, nhập khẩu;
+\+ Dữ liệu hóa đơn điện tử; dữ liệu thông quan, nhập khẩu;
 
-+ Hệ thống thông tin, Cơ sở dữ liệu quốc gia có liên quan.
+\+ Hệ thống thông tin, Cơ sở dữ liệu quốc gia có liên quan.
 
-- d) Giá trị thu hồi: là giá trị phần còn lại của máy sau khi thanh lý, được xác định như sau:
+d) Giá trị thu hồi: là giá trị phần còn lại của máy sau khi thanh lý, được xác định như sau:
 
 - Đối với máy có nguyên giá từ 30.000.000 đồng (ba mươi triệu đồng) trở lên giá trị thu hồi tính bằng 10% nguyên giá.
 
 - Không tính giá trị thu hồi với máy có nguyên giá nhỏ hơn 30.000.000 đồng (ba mươi triệu đồng).
 
-- đ) Định mức khấu hao của máy (%/năm) được xác định trên cơ sở căn cứ theo hướng dẫn của Bộ Tài chính về chế độ quản lý, sử dụng và trích khấu hao tài sản cố định hoặc tham khảo định mức khấu hao của máy nêu tại Mục V Phụ lục này. Đối với những máy làm việc ở vùng nước mặn, nước lợ và trong môi trường ăn mòn cao thì định mức khấu hao được điều chỉnh với hệ số 1,05.
+đ) Định mức khấu hao của máy (%/năm) được xác định trên cơ sở căn cứ theo hướng dẫn của Bộ Tài chính về chế độ quản lý, sử dụng và trích khấu hao tài sản cố định hoặc tham khảo định mức khấu hao của máy nêu tại Mục V Phụ lục này. Đối với những máy làm việc ở vùng nước mặn, nước lợ và trong môi trường ăn mòn cao thì định mức khấu hao được điều chỉnh với hệ số 1,05.
 
-- e) Số ca làm việc của máy trong năm (ca/năm) được xác định trên cơ sở số ca làm việc của máy trong năm nêu tại Mục V Phụ lục này.
+e) Số ca làm việc của máy trong năm (ca/năm) được xác định trên cơ sở số ca làm việc của máy trong năm nêu tại Mục V Phụ lục này.
 
-**2.** Xác định chi phí sửa chữa
+__2. Xác định chi phí sửa chữa__
 
-- a) Chi phí sửa chữa máy là các khoản chi phí để bảo dưỡng, sửa chữa máy định kỳ, sửa chữa máy đột xuất trong quá trình sử dụng máy nhằm duy trì và khôi phục năng lực hoạt động tiêu chuẩn của máy. Chi phí sửa chữa trong giá ca máy được xác định theo công thức sau:
+a) Chi phí sửa chữa máy là các khoản chi phí để bảo dưỡng, sửa chữa máy định kỳ, sửa chữa máy đột xuất trong quá trình sử dụng máy nhằm duy trì và khôi phục năng lực hoạt động tiêu chuẩn của máy. Chi phí sửa chữa trong giá ca máy được xác định theo công thức sau:
 
-Trong đó:
+![](data:image/png;base64,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)Trong đó:
 
 CSC: chi phí sửa chữa trong giá ca máy (đồng/ca);
 
@@ -206,21 +202,21 @@ G: nguyên giá máy trước thuế giá trị gia tăng (đồng);
 
 NCA: số ca làm việc của máy trong năm (ca/năm).
 
-- b) Định mức sửa chữa của máy (% năm) được xác định trên cơ sở định mức sửa chữa của máy nêu tại Mục V Phụ lục này. Đối với những máy làm việc ở vùng nước mặn, nước lợ và trong môi trường ăn mòn cao thì định mức sửa chữa được điều chỉnh với hệ số 1,05.
+b) Định mức sửa chữa của máy (% năm) được xác định trên cơ sở định mức sửa chữa của máy nêu tại Mục V Phụ lục này. Đối với những máy làm việc ở vùng nước mặn, nước lợ và trong môi trường ăn mòn cao thì định mức sửa chữa được điều chỉnh với hệ số 1,05.
 
-- c) Nguyên giá máy trước thuế (G) và số ca làm việc của máy trong năm (NCA) xác định như quy định tại điểm c, e khoản 1 Mục III Phụ lục này.
+c) Nguyên giá máy trước thuế (G) và số ca làm việc của máy trong năm (NCA) xác định như quy định tại điểm c, e khoản 1 Mục III Phụ lục này.
 
-- d) Chi phí sửa chữa máy chưa bao gồm chi phí thay thế các loại phụ tùng thuộc bộ phận công tác của máy có giá trị lớn mà sự hao mòn của chúng phụ thuộc chủ yếu tính chất của đối tượng công tác.
+d) Chi phí sửa chữa máy chưa bao gồm chi phí thay thế các loại phụ tùng thuộc bộ phận công tác của máy có giá trị lớn mà sự hao mòn của chúng phụ thuộc chủ yếu tính chất của đối tượng công tác.
 
-**3.** Xác định chi phí nhiên liệu, năng lượng
+__3. Xác định chi phí nhiên liệu, năng lượng__
 
-- a) Nhiên liệu, năng lượng là xăng, dầu, điện, gas hoặc khí nén tiêu hao trong thời gian một ca làm việc của máy để tạo ra động lực cho máy hoạt động gọi là nhiên liệu chính.
+a) Nhiên liệu, năng lượng là xăng, dầu, điện, gas hoặc khí nén tiêu hao trong thời gian một ca làm việc của máy để tạo ra động lực cho máy hoạt động gọi là nhiên liệu chính.
 
 Các loại dầu mỡ bôi trơn, dầu truyền động,... gọi là nhiên liệu phụ trong một ca làm việc của máy được xác định bằng hệ số so với chi phí nhiên liệu chính.
 
-- b) Chi phí nhiên liệu, năng lượng trong giá ca máy được xác định theo công thức sau:
+b) Chi phí nhiên liệu, năng lượng trong giá ca máy được xác định theo công thức sau: 
 
-Trong đó:
+![](data:image/png;base64,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)Trong đó:
 
 CNL: chi phí nhiên liệu, năng lượng trong giá ca máy (đồng/ca);
 
@@ -232,15 +228,15 @@ KPi: hệ số chi phí nhiên liệu phụ loại i;
 
 n: số loại nhiên liệu, năng lượng sử dụng trong một ca máy.
 
-- c) Định mức tiêu hao nhiên liệu, năng lượng của thời gian máy làm việc trong một ca của một loại máy và thiết bị thi công nêu tại Mục V Phụ lục này.
+c) Định mức tiêu hao nhiên liệu, năng lượng của thời gian máy làm việc trong một ca của một loại máy và thiết bị thi công nêu tại Mục V Phụ lục này.
 
-- d) Giá nhiên liệu, năng lượng được xác định trên cơ sở:
+d) Giá nhiên liệu, năng lượng được xác định trên cơ sở:
 
 - Giá xăng, dầu: theo thông báo của nhà cung cấp phù hợp với thời điểm tính giá ca máy và khu vực xây dựng công trình;
 
 - Giá điện: theo quy định về giá bán điện của nhà nước phù hợp với thời điểm tính giá ca máy và khu vực xây dựng công trình.
 
-- đ) Hệ số chi phí nhiên liệu phụ cho một ca máy làm việc, được xác định theo từng loại máy và điều kiện cụ thể của công trình. Hệ số chi phí nhiên liệu phụ có giá trị bình quân như sau:
+đ) Hệ số chi phí nhiên liệu phụ cho một ca máy làm việc, được xác định theo từng loại máy và điều kiện cụ thể của công trình. Hệ số chi phí nhiên liệu phụ có giá trị bình quân như sau:
 
 - Máy và thiết bị chạy động cơ xăng: 1,02;
 
@@ -248,52 +244,51 @@ n: số loại nhiên liệu, năng lượng sử dụng trong một ca máy.
 
 - Máy và thiết bị chạy động cơ điện: 1,05.
 
-- e) Định mức tiêu hao nhiên liệu, năng lượng của máy và thiết bị chuyên dùng khảo sát, thí nghiệm nêu tại Chương II Mục V Phụ lục này đã tính vào mức hao phí trong định mức dự toán.
+e) Định mức tiêu hao nhiên liệu, năng lượng của máy và thiết bị chuyên dùng khảo sát, thí nghiệm nêu tại Chương II Mục V Phụ lục này đã tính vào mức hao phí trong định mức dự toán.
 
-**4.** Xác định chi phí nhân công vận hành, điều khiển máy
+__4. Xác định chi phí nhân công vận hành, điều khiển máy__
 
-- a) Chi phí nhân công vận hành, điều khiển trong một ca máy được xác định trên cơ sở các quy định về số lượng, thành phần, nhóm nhân công vận hành, điều khiển máy theo quy trình vận hành máy và đơn giá ngày công tương ứng với nhân công vận hành, điều khiển máy.
+a) Chi phí nhân công vận hành, điều khiển trong một ca máy được xác định trên cơ sở các quy định về số lượng, thành phần, nhóm nhân công vận hành, điều khiển máy theo quy trình vận hành máy và đơn giá ngày công tương ứng với nhân công vận hành, điều khiển máy.
 
-- b) Chi phí nhân công vận hành, điều khiển trong giá ca máy được xác định theo công thức sau:
+b) Chi phí nhân công vận hành, điều khiển trong giá ca máy được xác định theo công thức sau:
 
-Trong đó:
+![](data:image/png;base64,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)Trong đó:
 
-Ni: số lượng nhân công vận hành, điều khiển máy loại i trong một ca máy;
+Ni: số lượng nhân công vận hành, điều khiển máy loại i trong một ca máy; 
 
 CTLi: đơn giá ngày công của nhân công vận hành, điều khiển máy loại i;
 
 n: số lượng, loại nhân công vận hành, điều khiển máy trong một ca máy.
 
-- c) Số lượng nhân công vận hành, điều khiển máy của một loại máy được xác định theo số lượng, thành phần, nhóm nhân công vận hành, điều khiển máy nêu tại Mục V Phụ lục này.
+c) Số lượng nhân công vận hành, điều khiển máy của một loại máy được xác định theo số lượng, thành phần, nhóm nhân công vận hành, điều khiển máy nêu tại Mục V Phụ lục này.
 
-- d) Đơn giá ngày công của nhân công vận hành, điều khiển máy được xác định trên cơ sở đơn giá nhân công vận hành xây dựng do Sở Xây dựng của tỉnh, thành phố công bố hoặc đơn giá nhân công vận hành, điều khiển máy của công trình (nếu được xác định riêng cho công trình).
+d) Đơn giá ngày công của nhân công vận hành, điều khiển máy được xác định trên cơ sở đơn giá nhân công vận hành xây dựng do Sở Xây dựng của tỉnh, thành phố công bố hoặc đơn giá nhân công vận hành, điều khiển máy của công trình (nếu được xác định riêng cho công trình).
 
-- đ) Định mức nhân công vận hành, điều khiển của máy và thiết bị chuyên dùng khảo sát, thí nghiệm nêu tại Chương II Mục V Phụ lục này đã tính vào mức hao phí trong định mức dự toán.
+đ) Định mức nhân công vận hành, điều khiển của máy và thiết bị chuyên dùng khảo sát, thí nghiệm nêu tại Chương II Mục V Phụ lục này đã tính vào mức hao phí trong định mức dự toán.
 
-**5.** Xác định chi phí khác
+__5. Xác định chi phí khác__
 
-- a) Chi phí khác trong giá ca máy là các khoản chi phí cần thiết đảm bảo để máy hoạt động bình thường, có hiệu quả tại công trình, gồm bảo hiểm máy, thiết bị trong quá trình sử dụng; bảo quản máy và phục vụ cho công tác bảo dưỡng kỹ thuật trong bảo quản máy; đăng kiểm các loại; di chuyển máy trong nội bộ công trình và các khoản chi phí có liên quan trực tiếp đến quản lý máy và sử dụng máy tại công trình chưa được tính trong các nội dung chi phí khác trong giá xây dựng công trình, dự toán xây dựng. Chi phí khác trong giá ca máy được xác định theo công thức sau:
+a) Chi phí khác trong giá ca máy là các khoản chi phí cần thiết đảm bảo để máy hoạt động bình thường, có hiệu quả tại công trình, gồm bảo hiểm máy, thiết bị trong quá trình sử dụng; bảo quản máy và phục vụ cho công tác bảo dưỡng kỹ thuật trong bảo quản máy; đăng kiểm các loại; di chuyển máy trong nội bộ công trình và các khoản chi phí có liên quan trực tiếp đến quản lý máy và sử dụng máy tại công trình chưa được tính trong các nội dung chi phí khác trong giá xây dựng công trình, dự toán xây dựng. Chi phí khác trong giá ca máy được xác định theo công thức sau:
 
-Trong đó:
+![](data:image/png;base64,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)Trong đó:
 
-CK: chi phí khác trong giá ca máy (đồng/ca);
+CK: chi phí khác trong giá ca máy (đồng/ca); 
 
-GK: định mức chi phí khác của máy (% năm);
+GK: định mức chi phí khác của máy (% năm); 
 
 G: nguyên giá máy trước thuế (đồng);
 
 NCA: số ca làm việc của máy trong năm (ca/năm).
 
-- b) Định mức chi phí khác của máy được xác định trên cơ sở tham khảo nêu tại Mục V Phụ lục này.
+b) Định mức chi phí khác của máy được xác định trên cơ sở tham khảo nêu tại Mục V Phụ lục này.
 
-- c) Nguyên giá máy trước thuế (G) và số ca làm việc của máy trong năm (NCA) xác định như quy định tại điểm c, e khoản 1 Mục III Phụ lục này.
+c) Nguyên giá máy trước thuế (G) và số ca làm việc của máy trong năm (NCA) xác định như quy định tại điểm c, e khoản 1 Mục III Phụ lục này.
 
-### IV. XÁC ĐỊNH GIÁ THUÊ MÁY
+__IV. XÁC ĐỊNH GIÁ THUÊ MÁY__
 
+__1. Xác định giá thuê máy theo ca máy__
 
-**1.** Xác định giá thuê máy theo ca máy
-
-- a) Trình tự xác định giá ca máy theo số liệu khảo sát giá thuê máy như sau:
+a) Trình tự xác định giá ca máy theo số liệu khảo sát giá thuê máy như sau:
 
 - Bước 1: Lập danh mục máy và thiết bị thi công xây dựng có thông tin giá thuê máy phổ biến trên thị trường;
 
@@ -301,15 +296,15 @@ NCA: số ca làm việc của máy trong năm (ca/năm).
 
 - Bước 3: Tính toán, xác định giá ca máy theo giá ca máy thuê bình quân.
 
-- b) Phạm vi/khu vực khảo sát giá thuê máy: Khảo sát trên địa bàn các địa phương và các địa phương lân cận.
+b) Phạm vi/khu vực khảo sát giá thuê máy: Khảo sát trên địa bàn các địa phương và các địa phương lân cận.
 
-- c) Nguyên tắc khảo sát xác định giá ca máy thuê:
+c) Nguyên tắc khảo sát xác định giá ca máy thuê:
 
 - Giá ca máy thuê trên thị trường được khảo sát thu thập, tổng hợp số liệu, thống kê giá cho thuê máy của các doanh nghiệp xây dựng, doanh nghiệp kinh doanh mua, bán, cho thuê máy;
 
 - Giá ca máy thuê được khảo sát xác định phù hợp với chủng loại máy và thiết bị thi công được sử dụng trong định mức dự toán ban hành, hoặc định mức dự toán xây dựng của công trình.
 
-- d) Nội dung khảo sát cần xác định rõ các thông tin sau:
+d) Nội dung khảo sát cần xác định rõ các thông tin sau:
 
 - Giá ca máy thuê được khảo sát xác định bao gồm toàn bộ hoặc một số các khoản mục chi phí trong giá ca máy như chi phí khấu hao; chi phí sửa chữa; chi phí nhiên liệu, năng lượng; chi phí nhân công vận hành, điều khiển máy và chi phí khác của máy. Các nội dung chi phí khác liên quan đến việc cho thuê máy để đủ điều kiện cho máy hoạt động, vận hành tại công trường (nếu có) như các khoản mục chi phí quy định và chi phí vận chuyển máy móc, thiết bị đến công trình... được tính riêng không bao gồm trong giá ca máy thuê được khảo sát;
 
@@ -323,7 +318,7 @@ NCA: số ca làm việc của máy trong năm (ca/năm).
 
 - Khảo sát các thông tin cơ bản về doanh nghiệp cho thuê máy;
 
-- đ) Tổng hợp xử lý số liệu và tính toán xác định giá ca máy thuê
+đ) Tổng hợp xử lý số liệu và tính toán xác định giá ca máy thuê
 
 Giá ca máy thuê sau khi khảo sát được sàng lọc theo từng loại và công suất máy, đồng thời được xử lý dữ liệu trước khi tính toán xác định giá ca máy thuê bình quân làm cơ sở công bố, cụ thể:
 
@@ -331,26 +326,27 @@ Giá ca máy thuê sau khi khảo sát được sàng lọc theo từng loại v
 
 - Các khoản mục chi phí khấu hao, chi phí sửa chữa, chi phí khác trong giá ca máy thuê khảo sát được xử lý bằng phương pháp hồi quy, chuyển đổi số liệu về thời điểm tính toán và tổng hợp để xác định chi phí.
 
-**2.** Xác định giá thuê máy theo giờ
+__2. Xác định giá thuê máy theo giờ__
 
-- a) Giá thuê máy theo giờ là chi phí bên đi thuê trả cho bên cho thuê để được quyền sử dụng máy trong một khoảng thời gian tính theo giờ máy (chưa đủ một ca) để hoàn thành đơn vị khối lượng sản phẩm xây dựng.
+a) Giá thuê máy theo giờ là chi phí bên đi thuê trả cho bên cho thuê để được quyền sử dụng máy trong một khoảng thời gian tính theo giờ máy (chưa đủ một ca) để hoàn thành đơn vị khối lượng sản phẩm xây dựng.
 
-- b) Giá máy theo giờ bao gồm chi phí nhiên liệu, năng lượng; chi phí tiền lương nhân công vận hành, điều khiển máy; chi phí khấu hao, chi phí sửa chữa và chi phí khác được tính toán và được phân bổ cho một giờ làm việc.
+b) Giá máy theo giờ bao gồm chi phí nhiên liệu, năng lượng; chi phí tiền lương nhân công vận hành, điều khiển máy; chi phí khấu hao, chi phí sửa chữa và chi phí khác được tính toán và được phân bổ cho một giờ làm việc.
 
-- c) Tùy theo loại máy xây dựng, tính chất công việc của công tác xây dựng, công nghệ, biện pháp thi công, giá máy theo giờ được xác định trên cơ sở điều chỉnh giá ca máy theo ca được công bố trong bảng giá ca máy của địa phương nhân với hệ số 1,2 hoặc xác định theo hướng dẫn nêu tại Mục II của Phụ lục này.
+c) Tùy theo loại máy xây dựng, tính chất công việc của công tác xây dựng, công nghệ, biện pháp thi công, giá máy theo giờ được xác định trên cơ sở điều chỉnh giá ca máy theo ca được công bố trong bảng giá ca máy của địa phương nhân với hệ số 1,2 hoặc xác định theo hướng dẫn nêu tại Mục II của Phụ lục này.
 
 **3.** Sở Xây dựng tổ chức xây dựng cơ sở dữ liệu, danh sách doanh nghiệp xây dựng, doanh nghiệp kinh doanh mua, bán, cho thuê máy, chuyên gia trong lĩnh vực xây dựng, ... phục vụ cho việc thu thập dữ liệu giá thuê máy. Sử dụng phương thức cung cấp thông tin qua trang thông tin điện tử hoặc ứng dụng phần mềm để thuận tiện cho việc tổng hợp, xử lý thông tin phục vụ công bố giá kịp thời và thuận lợi cho việc liên thông với hệ thống thông tin, dữ liệu về định mức xây dựng, giá xây dựng, chỉ số giá xây dựng.
 
-### V. BẢNG ĐỊNH MỨC CÁC HAO PHÍ, CÁC DỮ LIỆU CƠ BẢN VÀ NGUYÊN GIÁ LÀM CƠ SỞ ĐỂ XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG
-
+__V. BẢNG ĐỊNH MỨC CÁC HAO PHÍ, CÁC DỮ LIỆU CƠ BẢN VÀ NGUYÊN GIÁ LÀM CƠ SỞ ĐỂ XÁC ĐỊNH GIÁ CA MÁY VÀ THIẾT BỊ THI CÔNG__
 
 Định mức các hao phí, các dữ liệu cơ bản và nguyên giá làm cơ sở xác định giá ca máy và thiết bị thi công được xác định theo các bảng định mức quy định tại mục này. Đối với các loại máy và thiết bị chuyên ngành chưa có trong các bảng định mức quy định tại mục này thực hiện theo công bố của các Bộ quản lý công trình xây dựng chuyên ngành.
 
-CHƯƠNG I: MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG
+---
 
-| Mã hiệu | Loại máy và thiết bị | Số ca năm | Định mức (%) | Định mức tiêu hao nhiên liệu, năng lượng (1ca) | Nhân công vận hành, điều khiển máy | Nguyên giá tham khảo (1.000 VND) | &nbsp; | &nbsp; |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mã hiệu | Loại máy và thiết bị | Số ca năm | Khấu hao | Sửa chữa | Chi phí khác | Định mức tiêu hao nhiên liệu, năng lượng (1ca) | Nhân công vận hành, điều khiển máy | Nguyên giá tham khảo (1.000 VND) |
+### CHƯƠNG I: MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG
+*(Tra cứu dữ liệu bảng tính đầy đủ tại [bang_dinh_muc_hao_phi_ca_may_chuong_1.csv](./../tables/csv/bang_dinh_muc_hao_phi_ca_may_chuong_1.csv))*
+
+| Mã hiệu | Loại máy và thiết bị | Số ca năm | Khấu hao (%) | Sửa chữa (%) | Chi phí khác (%) | Định mức tiêu hao nhiên liệu, năng lượng (1 ca) | Nhân công vận hành, điều khiển máy | Nguyên giá tham khảo (1.000 VNĐ) |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | M101.0000 | MÁY THI CÔNG ĐẤT VÀ LU LÈN |  |  |  |  |  |  |  |
 | M101.0100 | Máy đào một gầu, bánh xích - dung tích gầu: |  |  |  |  |  |  |  |
@@ -1014,12 +1010,13 @@ CHƯƠNG I: MÁY VÀ THIẾT BỊ THI CÔNG XÂY DỰNG
 | M112.4804 | Vôn mét điện tử | 200 | 10 | 2,20 | 4 |  |  | 3.400 |
 | M112.4805 | Đồng hồ vạn năng | 200 | 10 | 2,20 | 4 |  |  | 1.500 |
 
+---
 
-CHƯƠNG II: MÁY VÀ THIẾT BỊ CHUYÊN DÙNG KHẢO SÁT, THÍ NGHIỆM
+### CHƯƠNG II: MÁY VÀ THIẾT BỊ CHUYÊN DÙNG KHẢO SÁT, THÍ NGHIỆM
+*(Tra cứu dữ liệu bảng tính đầy đủ tại [bang_dinh_muc_hao_phi_ca_may_chuong_2.csv](./../tables/csv/bang_dinh_muc_hao_phi_ca_may_chuong_2.csv))*
 
-| Mã hiệu | Loại máy và thiết bị | Số ca năm | Định mức (%) | Nguyên giá tham khảo (1000 VND) | &nbsp; | &nbsp; |
-| --- | --- | --- | --- | --- | --- | --- |
-| Mã hiệu | Loại máy và thiết bị | Số ca năm | Khấu hao | Sửa chữa | Chi phí khác | Nguyên giá tham khảo (1000 VND) |
+| Mã hiệu | Loại máy và thiết bị | Số ca năm | Khấu hao (%) | Sửa chữa (%) | Chi phí khác (%) | Nguyên giá tham khảo (1.000 VNĐ) |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | M201.0000 | MÁY VÀ THIẾT BỊ KHẢO SÁT |  |  |  |  |  |
 | M201.0001 | Bộ khoan tay | 180 | 15 | 6,00 | 5 | 35.083 |
@@ -1296,6 +1293,3 @@ CHƯƠNG II: MÁY VÀ THIẾT BỊ CHUYÊN DÙNG KHẢO SÁT, THÍ NGHIỆM
 | M203.0025 | Mê gôm mét | 220 | 10 | 3,50 | 5 | 50.446 |
 | M203.0026 | Thiết bị kiểm tra áp lực | 220 | 10 | 3,50 | 5 | 86.332 |
 | M203.0027 | Thiết bị tạo dòng điện | 220 | 10 | 3,50 | 5 | 499.762 |
-
-
-Ghi chú: Một số loại máy và thiết bị thi công không có thông tin nguyên giá tham khảo, việc xác định nguyên giá của máy và thiết bị thi công theo hướng dẫn nêu tại điểm c, khoản 1 Mục III Phụ lục này.
