@@ -183,7 +183,7 @@ def main() -> int:
     with open(registry_file, encoding="utf-8") as f:
         reg = yaml.safe_load(f) or {}
 
-    laws = reg.get("laws", [])
+    laws = reg.get("laws", []) + reg.get("standards", [])
     print("=" * 110)
     print("      CCBA FORENSIC AUDIT: OFFICIAL PDF GAZETTE VS MARKDOWN KNOWLEDGE REPOSITORY")
     print("=" * 110)

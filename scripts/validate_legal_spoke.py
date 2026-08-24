@@ -146,6 +146,9 @@ class LegalSpokeValidator:
             for ref in ref_matches:
                 target_file = bundle_dir / ref
                 if not target_file.exists():
+                    # Check parent bundle root if md_file is in templates/ or subfolder
+                    target_file = bundle_dir.parent / ref
+                if not target_file.exists():
                     self.warnings.append(
                         f"Table Attachment Warning [{md_file.relative_to(self.root_dir)}]: Referenced table asset missing: {ref}"
                     )
@@ -371,6 +374,7 @@ class LegalSpokeValidator:
             "check_hub_import_depth.py",
             "check_spoke_cleanliness.py",
             "safe_pytest.py",
+            "lint_visual_parity.py",
         }
 
         py_files = list(scripts_dir.glob("*.py"))
@@ -468,6 +472,20 @@ class LegalSpokeValidator:
                                         f"Markdown Formatting Error [{md_path.relative_to(self.root_dir)}:L{i+2}]: "
                                         f"Sub-clause '{next_line[:30]}' immediately follows a list item without a blank line, causing it to collapse into the bullet point."
                                     )
+
+        return (len(self.errors), len(self.warnings))
+
+
+    def validate_visual_parity(self) -> Tuple[int, int]:
+        """Validate 100% Visual Parity & Zero Formatting Clutter (ADR 0029 & ADR 0030)."""
+        from scripts.lint_visual_parity import lint_document
+
+        md_files = sorted(self.legal_docs_dir.rglob("*.md"))
+        for md_file in md_files:
+            errs = lint_document(md_file)
+            for e in errs:
+                rel = md_file.relative_to(self.root_dir)
+                self.errors.append(f"Visual Parity Error [{rel}]: {e}")
 
         return (len(self.errors), len(self.warnings))
 

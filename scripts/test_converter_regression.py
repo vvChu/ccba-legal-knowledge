@@ -46,11 +46,14 @@ class ConverterRegressionSuite:
             data = yaml.safe_load(f)
 
         laws = data.get("laws", [])
+        standards = data.get("standards", [])
         documents = data.get("documents", {})
         all_docs: List[Dict[str, Any]] = []
 
         if isinstance(laws, list):
             all_docs.extend(laws)
+        if isinstance(standards, list):
+            all_docs.extend(standards)
         if isinstance(documents, dict):
             all_docs.extend(documents.values())
 
