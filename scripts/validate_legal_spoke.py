@@ -480,6 +480,35 @@ class LegalSpokeValidator:
                                         f"Sub-clause '{next_line[:30]}' immediately follows a list item without a blank line, causing it to collapse into the bullet point."
                                     )
 
+        # Check 5: Technical Figure Manifest & Image Integrity (ADR 0030)
+        for cat_dir in [self.legal_docs_dir / "02_qcvn", self.legal_docs_dir / "03_tcvn"]:
+            if not cat_dir.exists():
+                continue
+            for doc_dir in cat_dir.iterdir():
+                if not doc_dir.is_dir():
+                    continue
+                figures_dir = doc_dir / "figures"
+                if figures_dir.exists():
+                    catalog_file = figures_dir / "figures_catalog.yaml"
+                    if not catalog_file.exists():
+                        self.errors.append(
+                            f"Figure Catalog Error [{doc_dir.name}]: figures/ directory exists but '{catalog_file.name}' is missing."
+                        )
+                    else:
+                        try:
+                            with open(catalog_file, "r", encoding="utf-8") as f:
+                                cat_data = yaml.safe_load(f)
+                            for fig in cat_data.get("figures", []):
+                                img_rel = fig.get("image_relpath")
+                                if img_rel:
+                                    img_abs = doc_dir / img_rel
+                                    if not img_abs.exists():
+                                        self.errors.append(
+                                            f"Figure Image Error [{doc_dir.name}]: Image '{img_rel}' declared in catalog does not exist on disk."
+                                        )
+                        except Exception as e:
+                            self.errors.append(f"Figure Catalog Error [{doc_dir.name}]: Failed to parse figures_catalog.yaml: {e}")
+
         return (len(self.errors), len(self.warnings))
 
 
