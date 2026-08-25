@@ -1,30 +1,30 @@
 [
   {
-    "Re": "5·105",
-    "βmin, °": "85",
-    "cmin": "- 2,2",
-    "βb, °": "135",
-    "cb": "- 0,4"
+    "Re": "5·10$^5$",
+    "$\\beta_{min}$, °": "85",
+    "$c_{min}$": "&nbsp;&nbsp;\\- 2,2",
+    "$\\beta_b$, °": "135",
+    "$c_b$": "&nbsp;&nbsp;\\- 0,4"
   },
   {
-    "Re": "2·106",
-    "βmin, °": "80",
-    "cmin": "- 1,9",
-    "βb, °": "120",
-    "cb": "- 0,7"
+    "Re": "2·10$^6$",
+    "$\\beta_{min}$, °": "80",
+    "$c_{min}$": "&nbsp;&nbsp;\\- 1,9",
+    "$\\beta_b$, °": "120",
+    "$c_b$": "&nbsp;&nbsp;\\- 0,7"
   },
   {
-    "Re": "107",
-    "βmin, °": "75",
-    "cmin": "- 1,5",
-    "βb, °": "105",
-    "cb": "- 0,8"
+    "Re": "10$^7$",
+    "$\\beta_{min}$, °": "75",
+    "$c_{min}$": "&nbsp;&nbsp;\\- 1,5",
+    "$\\beta_b$, °": "105",
+    "$c_b$": "&nbsp;&nbsp;\\- 0,8"
   },
   {
-    "Re": "Các ký hiệu trong Bảng F.10: βmin là vị trí có giá trị áp lực gió nhỏ nhất; cmin là giá trị hệ số khí động áp lực gió nhỏ nhất; βb là vị trí dòng gió tách nhánh; cb là giá trị hệ số khí động áp lực gió nền.",
-    "βmin, °": "Các ký hiệu trong Bảng F.10: βmin là vị trí có giá trị áp lực gió nhỏ nhất; cmin là giá trị hệ số khí động áp lực gió nhỏ nhất; βb là vị trí dòng gió tách nhánh; cb là giá trị hệ số khí động áp lực gió nền.",
-    "cmin": "Các ký hiệu trong Bảng F.10: βmin là vị trí có giá trị áp lực gió nhỏ nhất; cmin là giá trị hệ số khí động áp lực gió nhỏ nhất; βb là vị trí dòng gió tách nhánh; cb là giá trị hệ số khí động áp lực gió nền.",
-    "βb, °": "Các ký hiệu trong Bảng F.10: βmin là vị trí có giá trị áp lực gió nhỏ nhất; cmin là giá trị hệ số khí động áp lực gió nhỏ nhất; βb là vị trí dòng gió tách nhánh; cb là giá trị hệ số khí động áp lực gió nền.",
-    "cb": "Các ký hiệu trong Bảng F.10: βmin là vị trí có giá trị áp lực gió nhỏ nhất; cmin là giá trị hệ số khí động áp lực gió nhỏ nhất; βb là vị trí dòng gió tách nhánh; cb là giá trị hệ số khí động áp lực gió nền."
+    "Re": "Các ký hiệu trong Bảng F.10:<br>$\\beta_{min}$ là vị trí có giá trị áp lực gió nhỏ nhất;<br>$c_{min}$ là giá trị hệ số khí động áp lực gió nhỏ nhất;<br>$\\beta_b$ là vị trí dòng gió tách nhánh;<br>$c_b$ là giá trị hệ số khí động áp lực gió nền.",
+    "$\\beta_{min}$, °": "",
+    "$c_{min}$": "",
+    "$\\beta_b$, °": "",
+    "$c_b$": ""
   }
 ]

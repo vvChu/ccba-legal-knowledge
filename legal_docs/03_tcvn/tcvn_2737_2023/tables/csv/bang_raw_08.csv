@@ -1,8 +1,8 @@
-1),Khi h ≤ b:,ze = h
+1),Khi h ≤ b:,$z_e$ = h
 2),Khi b < h ≤ 2b:,
-,z > b,ze = h
-,0 < z ≤ b,ze = b
+,z > b,$z_e$ = h
+,0 < z ≤ b,$z_e$ = b
 3),Khi h > 2b:,
-,z ≥ h - b,ze = h
-,b < z < h - b,ze = z
-,0 < z ≤ b,ze = b
+,z ≥ h - b,$z_e$ = h
+,b < z < h - b,$z_e$ = z
+,0 < z ≤ b,$z_e$ = b

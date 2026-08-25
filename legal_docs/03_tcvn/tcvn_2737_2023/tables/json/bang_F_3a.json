@@ -1,67 +1,74 @@
 [
   {
-    "Góc dốc α, °": "Góc dốc α, °",
-    "Góc hướng gió θ = 0°": "Vùng",
-    "Góc hướng gió θ = 180°": "Vùng"
+    "Góc dốc $\\alpha$, °": "Góc dốc $\\alpha$, °",
+    "Góc hướng gió $\\theta$ = 0°": "Vùng",
+    "Góc hướng gió $\\theta$ = 180°": "",
+    "": ""
   },
   {
-    "Góc dốc α, °": "Góc dốc α, °",
-    "Góc hướng gió θ = 0°": "H",
-    "Góc hướng gió θ = 180°": "H"
+    "Góc dốc $\\alpha$, °": "Góc dốc $\\alpha$, °",
+    "Góc hướng gió $\\theta$ = 0°": "F",
+    "Góc hướng gió $\\theta$ = 180°": "G",
+    "": "H"
   },
   {
-    "Góc dốc α, °": "5",
-    "Góc hướng gió θ = 0°": "- 0,6",
-    "Góc hướng gió θ = 180°": "- 0,8"
+    "Góc dốc $\\alpha$, °": "5",
+    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;\\- 1,7",
+    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 1,2",
+    "": "&nbsp;&nbsp;\\- 0,8"
   },
   {
-    "Góc dốc α, °": "5",
-    "Góc hướng gió θ = 0°": "+ 0,0",
-    "Góc hướng gió θ = 180°": "- 0,8"
+    "Góc dốc $\\alpha$, °": "5",
+    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,0",
+    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 2,3",
+    "": ""
   },
   {
-    "Góc dốc α, °": "15",
-    "Góc hướng gió θ = 0°": "- 0,3",
-    "Góc hướng gió θ = 180°": "- 0,9"
+    "Góc dốc $\\alpha$, °": "15",
+    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;\\- 0,9",
+    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 0,8",
+    "": "&nbsp;&nbsp;\\- 0,9"
   },
   {
-    "Góc dốc α, °": "15",
-    "Góc hướng gió θ = 0°": "+ 0,2",
-    "Góc hướng gió θ = 180°": "- 0,9"
+    "Góc dốc $\\alpha$, °": "15",
+    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,2",
+    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 2,5",
+    "": ""
   },
   {
-    "Góc dốc α, °": "30",
-    "Góc hướng gió θ = 0°": "- 0,2",
-    "Góc hướng gió θ = 180°": "-0,8"
+    "Góc dốc $\\alpha$, °": "30",
+    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;\\- 0,5",
+    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 0,2",
+    "": ""
   },
   {
-    "Góc dốc α, °": "30",
-    "Góc hướng gió θ = 0°": "+ 0,4",
-    "Góc hướng gió θ = 180°": "-0,8"
+    "Góc dốc $\\alpha$, °": "30",
+    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,4",
+    "": ""
   },
   {
-    "Góc dốc α, °": "45",
-    "Góc hướng gió θ = 0°": "- 0,0",
-    "Góc hướng gió θ = 180°": "- 0,7"
+    "Góc dốc $\\alpha$, °": "45",
+    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;\\- 0,0",
+    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 0,6",
+    "": ""
   },
   {
-    "Góc dốc α, °": "45",
-    "Góc hướng gió θ = 0°": "+ 0,6",
-    "Góc hướng gió θ = 180°": "- 0,7"
+    "Góc dốc $\\alpha$, °": "45",
+    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,6",
+    "": ""
   },
   {
-    "Góc dốc α, °": "60",
-    "Góc hướng gió θ = 0°": "+ 0,7",
-    "Góc hướng gió θ = 180°": "- 0,5"
+    "Góc dốc $\\alpha$, °": "60",
+    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 0,5",
+    "": ""
   },
   {
-    "Góc dốc α, °": "75",
-    "Góc hướng gió θ = 0°": "+ 0,8",
-    "Góc hướng gió θ = 180°": "- 0,5"
-  },
-  {
-    "Góc dốc α, °": "CHÚ THÍCH 1: Khi θ = 0°, áp lực thay đổi nhanh giữa các giá trị âm và dương khi góc dốc + 5° ≤ α ≤ + 45°, do đó cả hai giá trị âm và dương đều được nêu trong bảng này. Đối với mái này, cần xét hai trường hợp: một là với tất cả các giá trị dương và hai là với tất cả các giá trị âm. Không được xét đồng thời giá trị âm và dương trên cùng một mặt. CHÚ THÍCH 2: Sử dụng phương pháp nội suy tuyến tính cho các góc dốc trung gian nằm giữa các giá trị cùng dấu. Các giá trị bằng 0,0 dùng để nội suy tuyến tính.",
-    "Góc hướng gió θ = 0°": "CHÚ THÍCH 1: Khi θ = 0°, áp lực thay đổi nhanh giữa các giá trị âm và dương khi góc dốc + 5° ≤ α ≤ + 45°, do đó cả hai giá trị âm và dương đều được nêu trong bảng này. Đối với mái này, cần xét hai trường hợp: một là với tất cả các giá trị dương và hai là với tất cả các giá trị âm. Không được xét đồng thời giá trị âm và dương trên cùng một mặt. CHÚ THÍCH 2: Sử dụng phương pháp nội suy tuyến tính cho các góc dốc trung gian nằm giữa các giá trị cùng dấu. Các giá trị bằng 0,0 dùng để nội suy tuyến tính.",
-    "Góc hướng gió θ = 180°": "CHÚ THÍCH 1: Khi θ = 0°, áp lực thay đổi nhanh giữa các giá trị âm và dương khi góc dốc + 5° ≤ α ≤ + 45°, do đó cả hai giá trị âm và dương đều được nêu trong bảng này. Đối với mái này, cần xét hai trường hợp: một là với tất cả các giá trị dương và hai là với tất cả các giá trị âm. Không được xét đồng thời giá trị âm và dương trên cùng một mặt. CHÚ THÍCH 2: Sử dụng phương pháp nội suy tuyến tính cho các góc dốc trung gian nằm giữa các giá trị cùng dấu. Các giá trị bằng 0,0 dùng để nội suy tuyến tính."
+    "Góc dốc $\\alpha$, °": "75",
+    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,8",
+    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 0,5",
+    "": ""
   }
 ]

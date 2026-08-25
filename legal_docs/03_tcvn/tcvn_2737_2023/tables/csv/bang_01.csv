@@ -1,11 +1,10 @@
-Kết cấu công trình và loại đất,Giá trị γf
+Kết cấu công trình và loại đất,Giá trị $\gamma_f$
 1. Kết cấu,
 "a) Kim loại, trừ trường hợp nêu trong 7.3","1,05"
-"b) Bê tông (có khối lượng thể tích trung bình lớn hơn 1 600 kg/m3), bê tông cốt thép, khối xây, gỗ","1,1"
-"c) Bê tông (có khối lượng thể tích nhỏ hơn hoặc bằng 1 600 kg/m3), các lớp ngăn cách, lớp căn phẳng, lớp hoàn thiện (bản, vật liệu cuộn, độn, lớp láng phẳng và tương tự), được sản xuất, chế tạo:",
-- Trong nhà máy,"1,2"
-- Ngoài công trường,"1,3"
+"b) Bê tông (có khối lượng thể tích trung bình lớn hơn 1 600 kg/$m^3$), bê tông cốt thép, khối xây, gỗ","1,1"
+"c) Bê tông (có khối lượng thể tích nhỏ hơn hoặc bằng 1 600 kg/$m^3$), các lớp ngăn cách, lớp căn phẳng, lớp hoàn thiện (bản, vật liệu cuộn, độn, lớp láng phẳng và tương tự), được sản xuất, chế tạo:",
+&nbsp;&nbsp;\- Trong nhà máy,"1,2"
+&nbsp;&nbsp;\- Ngoài công trường,"1,3"
 2. Đất,
 a) Nguyên thổ,"1,1"
 b) Đắp,"1,15"
-"CHÚ THÍCH: Khi xác định tải trọng do đất, cần kể đến tải trọng do vật liệu chất đống, thiết bị, phương tiện giao thông truyền lên đất.","CHÚ THÍCH: Khi xác định tải trọng do đất, cần kể đến tải trọng do vật liệu chất đống, thiết bị, phương tiện giao thông truyền lên đất."

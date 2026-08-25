@@ -1,70 +1,82 @@
 [
   {
-    "Gốc dốc α, °": "Gốc dốc α, °",
-    "Vùng": "J"
+    "Gốc dốc $\\alpha$, °": "Gốc dốc $\\alpha$, °",
+    "Vùng": "F",
+    "": "J"
   },
   {
-    "Gốc dốc α, °": "- 45",
-    "Vùng": "-1,0"
+    "Gốc dốc $\\alpha$, °": "&nbsp;&nbsp;\\- 45",
+    "Vùng": "-0,6",
+    "": ""
   },
   {
-    "Gốc dốc α, °": "- 30",
-    "Vùng": "-0,8"
+    "Gốc dốc $\\alpha$, °": "&nbsp;&nbsp;\\- 30",
+    "Vùng": "-1,1",
+    "": "-0,8"
   },
   {
-    "Gốc dốc α, °": "- 15",
-    "Vùng": "-0,7"
+    "Gốc dốc $\\alpha$, °": "&nbsp;&nbsp;\\- 15",
+    "Vùng": "-2,5",
+    "": "-0,7"
   },
   {
-    "Gốc dốc α, °": "-  5",
-    "Vùng": "+ 0,2"
+    "Gốc dốc $\\alpha$, °": "&nbsp;&nbsp;\\- 5",
+    "Vùng": "&nbsp;&nbsp;\\- 2,3",
+    "": ""
   },
   {
-    "Gốc dốc α, °": "-  5",
-    "Vùng": "- 0,6"
+    "Gốc dốc $\\alpha$, °": "&nbsp;&nbsp;\\- 5",
+    "Vùng": "&nbsp;&nbsp;\\- 2,3",
+    "": ""
   },
   {
-    "Gốc dốc α, °": "5",
-    "Vùng": "+ 0,2"
+    "Gốc dốc $\\alpha$, °": "5",
+    "Vùng": "&nbsp;&nbsp;\\- 1.7",
+    "": ""
   },
   {
-    "Gốc dốc α, °": "5",
-    "Vùng": "- 0,6"
+    "Gốc dốc $\\alpha$, °": "5",
+    "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,0",
+    "": ""
   },
   {
-    "Gốc dốc α, °": "15",
-    "Vùng": "- 1,0"
+    "Gốc dốc $\\alpha$, °": "15",
+    "Vùng": "&nbsp;&nbsp;\\- 0,9",
+    "": "&nbsp;&nbsp;\\- 1,0"
   },
   {
-    "Gốc dốc α, °": "15",
-    "Vùng": "- 1,0"
+    "Gốc dốc $\\alpha$, °": "15",
+    "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,2",
+    "": ""
   },
   {
-    "Gốc dốc α, °": "30",
-    "Vùng": "- 0,5"
+    "Gốc dốc $\\alpha$, °": "30",
+    "Vùng": "&nbsp;&nbsp;\\- 0,5",
+    "": ""
   },
   {
-    "Gốc dốc α, °": "30",
-    "Vùng": "- 0,5"
+    "Gốc dốc $\\alpha$, °": "30",
+    "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+    "": ""
   },
   {
-    "Gốc dốc α, °": "45",
-    "Vùng": "- 0,3"
+    "Gốc dốc $\\alpha$, °": "45",
+    "Vùng": "&nbsp;&nbsp;\\- 0,0",
+    "": ""
   },
   {
-    "Gốc dốc α, °": "45",
-    "Vùng": "+ 0,0"
+    "Gốc dốc $\\alpha$, °": "45",
+    "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+    "": ""
   },
   {
-    "Gốc dốc α, °": "60",
-    "Vùng": "- 0,3"
+    "Gốc dốc $\\alpha$, °": "60",
+    "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+    "": ""
   },
   {
-    "Gốc dốc α, °": "75",
-    "Vùng": "- 0,3"
-  },
-  {
-    "Gốc dốc α, °": "CHÚ THÍCH 1: Khi θ = 0°, áp lực thay đổi nhanh giữa các giá trị âm và dương khi góc dốc - 5° ≤ α ≤ + 45°, do đó cả hai giá trị âm và dương đều được nêu trong bảng này. Đối với mái này, cần xét hai trường hợp: một là với tất cả các giá trị dương và hai là với tất cả các giá trị âm. Không được xét đồng thời giá trị âm và dương trên cùng một mặt. CHÚ THÍCH 2: Sử dụng nội suy tuyến tính cho các góc dốc nằm trong khoảng giữa các giá trị cùng dấu (không nội suy giữa α = + 5° và α = - 5° mà dùng số liệu cho mái bằng trong F.2). Các giá trị bằng 0,0 dùng để nội suy tuyến tính.",
-    "Vùng": "CHÚ THÍCH 1: Khi θ = 0°, áp lực thay đổi nhanh giữa các giá trị âm và dương khi góc dốc - 5° ≤ α ≤ + 45°, do đó cả hai giá trị âm và dương đều được nêu trong bảng này. Đối với mái này, cần xét hai trường hợp: một là với tất cả các giá trị dương và hai là với tất cả các giá trị âm. Không được xét đồng thời giá trị âm và dương trên cùng một mặt. CHÚ THÍCH 2: Sử dụng nội suy tuyến tính cho các góc dốc nằm trong khoảng giữa các giá trị cùng dấu (không nội suy giữa α = + 5° và α = - 5° mà dùng số liệu cho mái bằng trong F.2). Các giá trị bằng 0,0 dùng để nội suy tuyến tính."
+    "Gốc dốc $\\alpha$, °": "75",
+    "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,8",
+    "": ""
   }
 ]

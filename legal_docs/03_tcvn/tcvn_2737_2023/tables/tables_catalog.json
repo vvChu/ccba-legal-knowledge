@@ -1,11 +1,11 @@
 [
   {
     "table_id": "bang_01",
-    "title": "Bảng 1 - Hệ số độ tin cậy về tải trọng γf của trọng lượng kết cấu và đất",
+    "title": "Bảng 1 - Hệ số độ tin cậy về tải trọng $\\gamma_f$ của trọng lượng kết cấu và đất",
     "number": "1",
     "csv_path": "tables/csv/bang_01.csv",
     "json_path": "tables/json/bang_01.json",
-    "rows_count": 11,
+    "rows_count": 10,
     "status": "active"
   },
   {
@@ -14,12 +14,12 @@
     "number": "2",
     "csv_path": "tables/csv/bang_02.csv",
     "json_path": "tables/json/bang_02.json",
-    "rows_count": 6,
+    "rows_count": 5,
     "status": "active"
   },
   {
     "table_id": "bang_03",
-    "title": "Bảng 3 - Hệ số độ tin cậy về tải trọng γf của lượng thiết bị và vật liệu",
+    "title": "Bảng 3 - Hệ số độ tin cậy về tải trọng $\\gamma_f$ của lượng thiết bị và vật liệu",
     "number": "3",
     "csv_path": "tables/csv/bang_03.csv",
     "json_path": "tables/json/bang_03.json",
@@ -28,11 +28,11 @@
   },
   {
     "table_id": "bang_04",
-    "title": "Bảng 4 - Giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn phân bố đều qk,t lên sàn, mái, cầu thang bộ",
+    "title": "Bảng 4 - Giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn phân bố đều $q_{k,t}$ lên sàn, mái, cầu thang bộ",
     "number": "4",
     "csv_path": "tables/csv/bang_04.csv",
     "json_path": "tables/json/bang_04.json",
-    "rows_count": 42,
+    "rows_count": 41,
     "status": "active"
   },
   {
@@ -41,7 +41,7 @@
     "number": "5",
     "csv_path": "tables/csv/bang_05.csv",
     "json_path": "tables/json/bang_05.json",
-    "rows_count": 9,
+    "rows_count": 8,
     "status": "active"
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "table_id": "bang_07",
-    "title": "Bảng 7 - Giá trị của áp lực gió cơ sở W0 theo bản đồ phân vùng áp lực gió trên lãnh thổ Việt Nam",
+    "title": "Bảng 7 - Giá trị của áp lực gió cơ sở $W_0$ theo bản đồ phân vùng áp lực gió trên lãnh thổ Việt Nam",
     "number": "7",
     "csv_path": "tables/csv/bang_07.csv",
     "json_path": "tables/json/bang_07.json",
@@ -73,7 +73,7 @@
   },
   {
     "table_id": "bang_08",
-    "title": "Bảng 8 - Các hệ số zg, zmin và α",
+    "title": "Bảng 8 - Các hệ số $z_g$, $z_{min}$ và $\\alpha$",
     "number": "8",
     "csv_path": "tables/csv/bang_08.csv",
     "json_path": "tables/json/bang_08.json",
@@ -82,11 +82,11 @@
   },
   {
     "table_id": "bang_09",
-    "title": "Bảng 9 - Hệ số k(ze)",
+    "title": "Bảng 9 - Hệ số k($z_e$)",
     "number": "9",
     "csv_path": "tables/csv/bang_09.csv",
     "json_path": "tables/json/bang_09.json",
-    "rows_count": 19,
+    "rows_count": 18,
     "status": "active"
   },
   {
@@ -122,7 +122,7 @@
     "number": "B.1",
     "csv_path": "tables/csv/bang_b_1.csv",
     "json_path": "tables/json/bang_b_1.json",
-    "rows_count": 14,
+    "rows_count": 13,
     "status": "active"
   },
   {
@@ -154,7 +154,7 @@
   },
   {
     "table_id": "bang_b_2",
-    "title": "Bảng B.2 - Giá trị giới hạn Fu của tải trọng ngang do va chạm của cần trục với gối chặn cuối đường ray",
+    "title": "Bảng B.2 - Giá trị giới hạn $F_u$ của tải trọng ngang do va chạm của cần trục với gối chặn cuối đường ray",
     "number": "B.2",
     "csv_path": "tables/csv/bang_b_2.csv",
     "json_path": "tables/json/bang_b_2.json",
@@ -181,11 +181,11 @@
   },
   {
     "table_id": "bang_f_1",
-    "title": "Bảng F.1 - Hệ số cx cho các vùng trên tường phẳng, hàng rào và kết cấu tương tự (xem Hình F.1)",
+    "title": "Bảng F.1 - Hệ số $c_x$ cho các vùng trên tường phẳng, hàng rào và kết cấu tương tự (xem Hình F.1)",
     "number": "F.1",
     "csv_path": "tables/csv/bang_f_1.csv",
     "json_path": "tables/json/bang_f_1.json",
-    "rows_count": 9,
+    "rows_count": 8,
     "status": "active"
   },
   {
@@ -199,11 +199,11 @@
   },
   {
     "table_id": "bang_f_2",
-    "title": "Bảng F.2 - Hệ số ce cho mái bằng",
+    "title": "Bảng F.2 - Hệ số $c_e$ cho mái bằng",
     "number": "F.2",
     "csv_path": "tables/csv/bang_f_2.csv",
     "json_path": "tables/json/bang_f_2.json",
-    "rows_count": 13,
+    "rows_count": 12,
     "status": "active"
   },
   {
@@ -217,16 +217,16 @@
   },
   {
     "table_id": "bang_f_3a",
-    "title": "Bảng F.3a - Hệ số khí động áp lực ngoài ce cho mái dốc một phía khi góc hướng gió θ = 0° và θ = 180°",
+    "title": "Bảng F.3a - Hệ số khí động áp lực ngoài $c_e$ cho mái dốc một phía khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 180°",
     "number": "F.3a",
     "csv_path": "tables/csv/bang_f_3a.csv",
     "json_path": "tables/json/bang_f_3a.json",
-    "rows_count": 14,
+    "rows_count": 13,
     "status": "active"
   },
   {
     "table_id": "bang_f_3b",
-    "title": "Bảng F.3b - Hệ số khí động áp lực ngoài ce cho mái dốc một phía khi góc hướng gió θ = 90°",
+    "title": "Bảng F.3b - Hệ số khí động áp lực ngoài $c_e$ cho mái dốc một phía khi góc hướng gió $\\theta$ = 90°",
     "number": "F.3b",
     "csv_path": "tables/csv/bang_f_3b.csv",
     "json_path": "tables/json/bang_f_3b.json",
@@ -235,7 +235,7 @@
   },
   {
     "table_id": "bang_f_4",
-    "title": "Bảng F.4 - Hệ số ce cho tường thẳng đứng của nhà có mặt bằng chữ nhật",
+    "title": "Bảng F.4 - Hệ số $c_e$ cho tường thẳng đứng của nhà có mặt bằng chữ nhật",
     "number": "F.4",
     "csv_path": "tables/csv/bang_f_4.csv",
     "json_path": "tables/json/bang_f_4.json",
@@ -244,16 +244,16 @@
   },
   {
     "table_id": "bang_f_5a",
-    "title": "Bảng F.5a - Hệ số ce khi góc hướng gió θ = 0°",
+    "title": "Bảng F.5a - Hệ số $c_e$ khi góc hướng gió $\\theta$ = 0°",
     "number": "F.5a",
     "csv_path": "tables/csv/bang_f_5a.csv",
     "json_path": "tables/json/bang_f_5a.json",
-    "rows_count": 18,
+    "rows_count": 17,
     "status": "active"
   },
   {
     "table_id": "bang_f_5b",
-    "title": "Bảng F.5b - Hệ số ce khi góc hướng gió θ = 90°",
+    "title": "Bảng F.5b - Hệ số $c_e$ khi góc hướng gió $\\theta$ = 90°",
     "number": "F.5b",
     "csv_path": "tables/csv/bang_f_5b.csv",
     "json_path": "tables/json/bang_f_5b.json",
@@ -271,16 +271,16 @@
   },
   {
     "table_id": "bang_f_6",
-    "title": "Bảng F.6 - Hệ số khí động áp lực ngoài ce cho mái dốc bốn phía",
+    "title": "Bảng F.6 - Hệ số khí động áp lực ngoài $c_e$ cho mái dốc bốn phía",
     "number": "F.6",
     "csv_path": "tables/csv/bang_f_6.csv",
     "json_path": "tables/json/bang_f_6.json",
-    "rows_count": 13,
+    "rows_count": 12,
     "status": "active"
   },
   {
     "table_id": "bang_f_7",
-    "title": "Bảng F.7 - Hệ số khí động áp lực ngoài ce cho mái nón",
+    "title": "Bảng F.7 - Hệ số khí động áp lực ngoài $c_e$ cho mái nón",
     "number": "F.7",
     "csv_path": "tables/csv/bang_f_7.csv",
     "json_path": "tables/json/bang_f_7.json",
@@ -298,7 +298,7 @@
   },
   {
     "table_id": "bang_f_8",
-    "title": "Bảng F.8 - Hệ số ce cho tường và mái của nhà có góc lõm",
+    "title": "Bảng F.8 - Hệ số $c_e$ cho tường và mái của nhà có góc lõm",
     "number": "F.8",
     "csv_path": "tables/csv/bang_f_8.csv",
     "json_path": "tables/json/bang_f_8.json",
@@ -307,11 +307,11 @@
   },
   {
     "table_id": "bang_f_9",
-    "title": "Bảng F.9 - Hệ số ce cho mái che",
+    "title": "Bảng F.9 - Hệ số $c_e$ cho mái che",
     "number": "F.9",
     "csv_path": "tables/csv/bang_f_9.csv",
     "json_path": "tables/json/bang_f_9.json",
-    "rows_count": 15,
+    "rows_count": 14,
     "status": "active"
   },
   {
@@ -343,7 +343,7 @@
   },
   {
     "table_id": "bang_f_10",
-    "title": "Bảng F.10 - Các giá trị βmin, βb, cmin và cb",
+    "title": "Bảng F.10 - Các giá trị $\\beta_{min}$, $\\beta_b$, $c_{min}$ và $c_b$",
     "number": "F.10",
     "csv_path": "tables/csv/bang_f_10.csv",
     "json_path": "tables/json/bang_f_10.json",
@@ -352,7 +352,7 @@
   },
   {
     "table_id": "bang_f_11",
-    "title": "Bảng F.11 - Các hệ số ce2 và ci",
+    "title": "Bảng F.11 - Các hệ số $c_{e2}$ và $c_i$",
     "number": "F.11",
     "csv_path": "tables/csv/bang_f_11.csv",
     "json_path": "tables/json/bang_f_11.json",
@@ -388,7 +388,7 @@
   },
   {
     "table_id": "bang_f_12",
-    "title": "Bảng F.12 - Hệ số cx∞ cho tiết diện n góc và các cấu kiện kết cấu (dạng định hình)",
+    "title": "Bảng F.12 - Hệ số $c_{x∞}$ cho tiết diện n góc và các cấu kiện kết cấu (dạng định hình)",
     "number": "F.12",
     "csv_path": "tables/csv/bang_f_12.csv",
     "json_path": "tables/json/bang_f_12.json",
@@ -406,7 +406,7 @@
   },
   {
     "table_id": "bang_f_13",
-    "title": "Bảng F.13 - Hệ số η",
+    "title": "Bảng F.13 - Hệ số $\\eta$",
     "number": "F.13",
     "csv_path": "tables/csv/bang_f_13.csv",
     "json_path": "tables/json/bang_f_13.json",
@@ -424,7 +424,7 @@
   },
   {
     "table_id": "bang_f_14",
-    "title": "Bảng F.14 - Hệ số k1",
+    "title": "Bảng F.14 - Hệ số $k_1$",
     "number": "F.14",
     "csv_path": "tables/csv/bang_f_14.csv",
     "json_path": "tables/json/bang_f_14.json",
@@ -442,16 +442,16 @@
   },
   {
     "table_id": "bang_f_15",
-    "title": "Bảng F.15 - Độ mảnh hiệu dụng λe",
+    "title": "Bảng F.15 - Độ mảnh hiệu dụng $\\lambda_e$",
     "number": "F.15",
     "csv_path": "tables/csv/bang_f_15.csv",
     "json_path": "tables/json/bang_f_15.json",
-    "rows_count": 3,
+    "rows_count": 2,
     "status": "active"
   },
   {
     "table_id": "bang_f_16",
-    "title": "Bảng F.16 - Độ nhám Δ của bề mặt kết cấu",
+    "title": "Bảng F.16 - Độ nhám $\\Delta$ của bề mặt kết cấu",
     "number": "F.16",
     "csv_path": "tables/csv/bang_f_16.csv",
     "json_path": "tables/json/bang_f_16.json",
@@ -478,11 +478,11 @@
   },
   {
     "table_id": "bang_g_1",
-    "title": "Bảng G.1 - Độ võng đứng giới hạn fu và tải trọng tương ứng để xác định độ võng đứng f",
+    "title": "Bảng G.1 - Độ võng đứng giới hạn $f_u$ và tải trọng tương ứng để xác định độ võng đứng f",
     "number": "G.1",
     "csv_path": "tables/csv/bang_g_1.csv",
     "json_path": "tables/json/bang_g_1.json",
-    "rows_count": 19,
+    "rows_count": 18,
     "status": "active"
   },
   {
@@ -496,7 +496,7 @@
   },
   {
     "table_id": "bang_g_2",
-    "title": "Bảng G.2 - Các hệ số p, p1, n, b",
+    "title": "Bảng G.2 - Các hệ số p, $p_1$, n, b",
     "number": "G.2",
     "csv_path": "tables/csv/bang_g_2.csv",
     "json_path": "tables/json/bang_g_2.json",
@@ -505,7 +505,7 @@
   },
   {
     "table_id": "bang_g_3",
-    "title": "Bảng G.3 - Độ võng ngang giới hạn fμ của cột nhà có cầu trục, trụ cầu cạn, dầm đỡ cầu trục và kết cấu hãm",
+    "title": "Bảng G.3 - Độ võng ngang giới hạn $f_{\\mu}$ của cột nhà có cầu trục, trụ cầu cạn, dầm đỡ cầu trục và kết cấu hãm",
     "number": "G.3",
     "csv_path": "tables/csv/bang_g_3.csv",
     "json_path": "tables/json/bang_g_3.json",
@@ -514,29 +514,29 @@
   },
   {
     "table_id": "bang_g_4",
-    "title": "Bảng G.4 - Độ võng đứng giới hạn fu và tải trọng tương ứng để xác định độ võng đứng f",
+    "title": "Bảng G.4 - Độ võng đứng giới hạn $f_u$ và tải trọng tương ứng để xác định độ võng đứng f",
     "number": "G.4",
     "csv_path": "tables/csv/bang_g_4.csv",
     "json_path": "tables/json/bang_g_4.json",
-    "rows_count": 19,
+    "rows_count": 18,
     "status": "active"
   },
   {
     "table_id": "bang_g_5",
-    "title": "Bảng G.5 - Chuyển vị ngang giới hạn fu theo yêu cầu cấu tạo",
+    "title": "Bảng G.5 - Chuyển vị ngang giới hạn $f_u$ theo yêu cầu cấu tạo",
     "number": "G.5",
     "csv_path": "tables/csv/bang_g_5.csv",
     "json_path": "tables/json/bang_g_5.json",
-    "rows_count": 9,
+    "rows_count": 8,
     "status": "active"
   },
   {
     "table_id": "bang_h_1",
-    "title": "Bảng H.1 - Giá trị tối thiểu của hệ số tầm quan trọng γn",
+    "title": "Bảng H.1 - Giá trị tối thiểu của hệ số tầm quan trọng $\\gamma_n$",
     "number": "H.1",
     "csv_path": "tables/csv/bang_h_1.csv",
     "json_path": "tables/json/bang_h_1.json",
-    "rows_count": 5,
+    "rows_count": 4,
     "status": "active"
   }
 ]

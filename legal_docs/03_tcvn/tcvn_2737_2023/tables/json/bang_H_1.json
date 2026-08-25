@@ -2,21 +2,16 @@
   {
     "Cấp hậu quả của công trình": "C1",
     "Mức độ quan trọng của công trình": "Thấp",
-    "Giá trị γn": "0,87"
+    "Giá trị $\\gamma_n$": "0,87"
   },
   {
     "Cấp hậu quả của công trình": "C2",
     "Mức độ quan trọng của công trình": "Trung bình",
-    "Giá trị γn": "1,00"
+    "Giá trị $\\gamma_n$": "1,00"
   },
   {
     "Cấp hậu quả của công trình": "C3",
     "Mức độ quan trọng của công trình": "Cao",
-    "Giá trị γn": "1,15"
-  },
-  {
-    "Cấp hậu quả của công trình": "CHÚ THÍCH: Đối với nhà cao trên 250 m và mái nhịp lớn (không có trụ trung gian) với nhịp lớn hơn 120 m thì hệ số γn lấy không nhỏ hơn 1,2.",
-    "Mức độ quan trọng của công trình": "CHÚ THÍCH: Đối với nhà cao trên 250 m và mái nhịp lớn (không có trụ trung gian) với nhịp lớn hơn 120 m thì hệ số γn lấy không nhỏ hơn 1,2.",
-    "Giá trị γn": "CHÚ THÍCH: Đối với nhà cao trên 250 m và mái nhịp lớn (không có trụ trung gian) với nhịp lớn hơn 120 m thì hệ số γn lấy không nhỏ hơn 1,2."
+    "Giá trị $\\gamma_n$": "1,15"
   }
 ]

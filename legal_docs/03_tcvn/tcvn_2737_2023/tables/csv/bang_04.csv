@@ -1,10 +1,10 @@
-Khu vực,"Giá trị qk,t , kN/m2, không nhỏ hơn"
-Khu vực A: Khu vực ở,Khu vực A: Khu vực ở
+Khu vực,"Giá trị $q_{k,t}$, kN/$m^2$, không nhỏ hơn"
+Khu vực A: Khu vực ở,
 "A1: Căn hộ nhà ở; phòng ngủ của trường mầm non và trại trẻ mồ côi; phòng ngủ của nhà nghỉ, nhà dưỡng lão, ký túc xá và khách sạn; phòng ngủ và nghỉ của bệnh viện và nhà nghỉ dưỡng; bếp và vệ sinh:",
 a) Sàn,"1,5"
 "b) Ban công, lô gia","2,0"
 "A2: Sảnh, phòng chờ, hành lang, cầu thang bộ (với các đường đi lại liên quan) thông với khu vực A1","3,0"
-"Khu vực B: Khu vực làm việc, văn phòng, kỹ thuật","Khu vực B: Khu vực làm việc, văn phòng, kỹ thuật"
+"Khu vực B: Khu vực làm việc, văn phòng, kỹ thuật",
 "B1: Phòng làm việc của trụ sở cơ quan, phòng làm việc cho người nghiên cứu khoa học; phòng sinh hoạt (phòng vệ sinh, phòng tắm, phòng để quần áo) của cơ sở công nghiệp và của nhà và công trình công cộng:",
 a) Sàn,"2,0"
 "b) Ban công, lô gia","2,5"
@@ -25,9 +25,9 @@ C2: Các khu vực có ghế gắn cố định:,
 "C2.2  Sảnh, phòng chờ, hành lang, cầu thang bộ (với các đường đi lại liên quan) thông với khu vực C2.1","4,0"
 "C3: Khu vực người đi lại tự do, ví dụ: các khu vực trong nhà thờ, bảo tàng; các gian phòng triển lãm, các gian phòng trưng bày và tương tự, và các khu vực thông với chúng trong công trình công cộng, trụ sở cơ quan, khách sạn, bệnh viện; sân ga đường sắt; cầu vượt bộ hành sân ga","4,0"
 "C4: Khu vực người hoạt động nhiều, ví dụ: phòng khiêu vũ, phòng tập thể hình, phòng bida và các khu vực thông với chúng như sảnh, phòng chờ, hành lang, cầu thang bộ (với các đường đi lại liên quan)","4,0"
-"C5: Khu vực tập trung rất đông người C5.1  Khu vực có các sự kiện cộng đồng như: phòng hòa nhạc; phòng tập thể thao, khán đài; ban công và các phòng tập trung đông người thông với ban công; sân khấu; sân thượng; cầu vượt bộ hành tại sân ga đường sắt lớn; sân ga đường sắt lớn, tàu điện ngầm, tàu điện trên cao và tương tự; gian lánh nạn","5,0"
+"C5: Khu vực tập trung rất đông người<br>C5.1  Khu vực có các sự kiện cộng đồng như: phòng hòa nhạc; phòng tập thể thao, khán đài; ban công và các phòng tập trung đông người thông với ban công; sân khấu; sân thượng; cầu vượt bộ hành tại sân ga đường sắt lớn; sân ga đường sắt lớn, tàu điện ngầm, tàu điện trên cao và tương tự; gian lánh nạn","5,0"
 "C5.2  Sảnh, phòng chờ, hành lang, cầu thang bộ (với các đường đi lại liên quan) thông với khu vực C5.1","5,0"
-Khu vực D: Khu vực thương mại,Khu vực D: Khu vực thương mại
+Khu vực D: Khu vực thương mại,
 D1: Khu vực cửa hàng kinh doanh bán lẻ,"4,0"
 "D2: Khu vực bán hàng ở trung tâm thương mại, siêu thị và tương tự","5,0"
 "Khu vực H: Mái không sử dụng, chỉ có người đi lại sửa chữa","0,3"
@@ -36,7 +36,6 @@ Khu vực I: Mái có sử dụng,
 I2: Những chỗ nghỉ ngơi,"1,5"
 I3: Những chỗ khác,"0,7"
 Khu vực L: Khu vực chăn nuôi,
-L1: Khu vực chăn nuôi gia súc nhỏ,"2,0 1)"
-L2: Khu vực chăn nuôi gia súc lớn,"5,0 1)"
-"1) Tải trọng cho các khu vực này lấy theo nhiệm vụ thiết kế trên cơ sở giải pháp công nghệ, nhưng không nhỏ hơn các giá trị nêu tại các khu vực L1 và 12.","1) Tải trọng cho các khu vực này lấy theo nhiệm vụ thiết kế trên cơ sở giải pháp công nghệ, nhưng không nhỏ hơn các giá trị nêu tại các khu vực L1 và 12."
-"CHÚ THÍCH 1: Riêng cầu thang bộ và tiền sảnh (trước cửa ra vào chính) của nhà ở và tổ hợp cao trên 75 m; công trình công cộng cao trên 50 m và nhà đa năng (mà trong đó các gian phòng có công năng công cộng được bố trí ở độ cao trên 50 m) thì qk,t lấy không nhỏ hơn 5,0 kN/m2. CHÚ THÍCH 2: Riêng sảnh, phòng chờ, hành lang tầng 1 của các nhà và công trình nêu tại CHÚ THÍCH 1 thì qk,t lấy không nhỏ hơn 4,0 kN/m2. CHÚ THÍCH 3: Khi thiết kế các gian phòng khiêu vũ, sân khấu nhà hát và khán đài công trình thể thao thì phải kể đến tác dụng động của tải trọng với tần số bằng 2 Hz và biên độ bằng 1,7 kPa. Giá trị hệ số động lực, cũng như diện tích tác dụng được quy định trong các tiêu chuẩn về thiết kế hoặc trong nhiệm vụ thiết kế.","CHÚ THÍCH 1: Riêng cầu thang bộ và tiền sảnh (trước cửa ra vào chính) của nhà ở và tổ hợp cao trên 75 m; công trình công cộng cao trên 50 m và nhà đa năng (mà trong đó các gian phòng có công năng công cộng được bố trí ở độ cao trên 50 m) thì qk,t lấy không nhỏ hơn 5,0 kN/m2. CHÚ THÍCH 2: Riêng sảnh, phòng chờ, hành lang tầng 1 của các nhà và công trình nêu tại CHÚ THÍCH 1 thì qk,t lấy không nhỏ hơn 4,0 kN/m2. CHÚ THÍCH 3: Khi thiết kế các gian phòng khiêu vũ, sân khấu nhà hát và khán đài công trình thể thao thì phải kể đến tác dụng động của tải trọng với tần số bằng 2 Hz và biên độ bằng 1,7 kPa. Giá trị hệ số động lực, cũng như diện tích tác dụng được quy định trong các tiêu chuẩn về thiết kế hoặc trong nhiệm vụ thiết kế."
+L1: Khu vực chăn nuôi gia súc nhỏ,"2,0 $^{1)}$"
+L2: Khu vực chăn nuôi gia súc lớn,"5,0 $^{1)}$"
+"$^{1)}$ Tải trọng cho các khu vực này lấy theo nhiệm vụ thiết kế trên cơ sở giải pháp công nghệ, nhưng không nhỏ hơn các giá trị nêu tại các khu vực L1 và 12.",

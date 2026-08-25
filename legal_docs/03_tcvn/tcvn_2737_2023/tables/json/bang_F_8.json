@@ -1,12 +1,14 @@
 [
   {
-    "Tường": "M",
-    "Các mặt đứng còn lại": "Các mặt đứng còn lại",
-    "Mái": "Mái"
+    "Tường": "K",
+    "Các mặt đứng còn lại": "L",
+    "Mái": "M",
+    "": "Mái"
   },
   {
-    "Tường": "0,8",
-    "Các mặt đứng còn lại": "Theo Bảng F.4",
-    "Mái": "Theo các bảng F.5a và F.5b"
+    "Tường": "Theo Bảng F.4",
+    "Các mặt đứng còn lại": "Nội suy tuyến tính giữa vùng K và M",
+    "Mái": "0,8",
+    "": "Theo các bảng F.5a và F.5b"
   }
 ]
