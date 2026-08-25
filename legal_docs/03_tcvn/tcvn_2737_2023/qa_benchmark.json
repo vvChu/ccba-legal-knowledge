@@ -49,8 +49,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 4.2  Giá trị tính toán của tải trọng được xác định bằng tích của giá trị tiêu chuẩn của tải trọng với hệ số độ tin cậy về tải trọng ứng với trạng thái giới hạn đang xét. Giá trị tối thiểu của hệ số độ tin cậy về tải trọng γf trong các tổ hợp cơ bản và đặc biệt lấy như sau: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 4.2  Giá trị tính toán của tải trọng được xác định bằng tích của giá trị tiêu chuẩn của tải trọng với hệ số độ tin cậy về tải trọng ứng với trạng thái giới hạn đang xét. Giá trị tối thiểu của hệ số độ tin cậy về tải trọng γf trong các tổ hợp cơ bản và đặc biệt lấy như sau: (tcvn_2737_2023.md#muc-4-2).",
+    "question": "Quy định tại 4.2  Giá trị tính toán của tải trọng được xác định bằng tích của giá trị tiêu chuẩn của tải trọng với hệ số độ tin cậy về tải trọng ứng với trạng thái giới hạn đang xét. Giá trị tối thiểu của hệ số độ tin cậy về tải trọng $\\gamma_f$ trong các tổ hợp cơ bản và đặc biệt lấy như sau: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 4.2  Giá trị tính toán của tải trọng được xác định bằng tích của giá trị tiêu chuẩn của tải trọng với hệ số độ tin cậy về tải trọng ứng với trạng thái giới hạn đang xét. Giá trị tối thiểu của hệ số độ tin cậy về tải trọng $\\gamma_f$ trong các tổ hợp cơ bản và đặc biệt lấy như sau: (tcvn_2737_2023.md#muc-4-2).",
     "anchor": "muc-4-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -84,8 +84,8 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 5.1  Tùy theo thời hạn tác dụng, các tải trọng được phân thành tải trọng thường xuyên G, tải trọng tạm thời Q (dài hạn QL và ngắn hạn Qt) và tải trọng đặc biệt A. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 5.1  Tùy theo thời hạn tác dụng, các tải trọng được phân thành tải trọng thường xuyên G, tải trọng tạm thời Q (dài hạn QL và ngắn hạn Qt) và tải trọng đặc biệt A. (tcvn_2737_2023.md#muc-5-1).",
+    "question": "Quy định tại 5.1  Tùy theo thời hạn tác dụng, các tải trọng được phân thành tải trọng thường xuyên G, tải trọng tạm thời Q (dài hạn $Q_L$ và ngắn hạn $Q_t$) và tải trọng đặc biệt A. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 5.1  Tùy theo thời hạn tác dụng, các tải trọng được phân thành tải trọng thường xuyên G, tải trọng tạm thời Q (dài hạn $Q_L$ và ngắn hạn $Q_t$) và tải trọng đặc biệt A. (tcvn_2737_2023.md#muc-5-1).",
     "anchor": "muc-5-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
@@ -105,15 +105,15 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 5.4  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời dài hạn QL: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 5.4  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời dài hạn QL: (tcvn_2737_2023.md#muc-5-4).",
+    "question": "Quy định tại 5.4  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời dài hạn $Q_L$: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 5.4  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời dài hạn $Q_L$: (tcvn_2737_2023.md#muc-5-4).",
     "anchor": "muc-5-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 5.5  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời ngắn hạn Qt: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 5.5  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời ngắn hạn Qt: (tcvn_2737_2023.md#muc-5-5).",
+    "question": "Quy định tại 5.5  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời ngắn hạn $Q_t$: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 5.5  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời ngắn hạn $Q_t$: (tcvn_2737_2023.md#muc-5-5).",
     "anchor": "muc-5-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
@@ -161,22 +161,22 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 6.3  Đối với các tổ hợp cơ bản và đặc biệt, trừ các trường hợp nêu trong TCVN 9386 và trong các tiêu chuẩn về thiết kế kết cấu và nền, giá trị hệ số tổ hợp của tải trọng tạm thời dài hạn ψL được lấy như sau: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.3  Đối với các tổ hợp cơ bản và đặc biệt, trừ các trường hợp nêu trong TCVN 9386 và trong các tiêu chuẩn về thiết kế kết cấu và nền, giá trị hệ số tổ hợp của tải trọng tạm thời dài hạn ψL được lấy như sau: (tcvn_2737_2023.md#muc-6-3).",
+    "question": "Quy định tại 6.3  Đối với các tổ hợp cơ bản và đặc biệt, trừ các trường hợp nêu trong TCVN 9386 và trong các tiêu chuẩn về thiết kế kết cấu và nền, giá trị hệ số tổ hợp của tải trọng tạm thời dài hạn $\\psi_L$ được lấy như sau: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.3  Đối với các tổ hợp cơ bản và đặc biệt, trừ các trường hợp nêu trong TCVN 9386 và trong các tiêu chuẩn về thiết kế kết cấu và nền, giá trị hệ số tổ hợp của tải trọng tạm thời dài hạn $\\psi_L$ được lấy như sau: (tcvn_2737_2023.md#muc-6-3).",
     "anchor": "muc-6-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 6.4  Đối với các tổ hợp cơ bản theo công thức (1), giá trị hệ số tổ hợp của các tải trọng tạm thời ngắn hạn ψt được lấy như sau: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.4  Đối với các tổ hợp cơ bản theo công thức (1), giá trị hệ số tổ hợp của các tải trọng tạm thời ngắn hạn ψt được lấy như sau: (tcvn_2737_2023.md#muc-6-4).",
+    "question": "Quy định tại 6.4  Đối với các tổ hợp cơ bản theo công thức (1), giá trị hệ số tổ hợp của các tải trọng tạm thời ngắn hạn $\\psi_t$ được lấy như sau: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.4  Đối với các tổ hợp cơ bản theo công thức (1), giá trị hệ số tổ hợp của các tải trọng tạm thời ngắn hạn $\\psi_t$ được lấy như sau: (tcvn_2737_2023.md#muc-6-4).",
     "anchor": "muc-6-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 6.5  Đối với tổ hợp đặc biệt theo công thức (2), các giá trị hệ số tổ hợp của tải trọng tạm thời ngắn hạn ψt được lấy như sau: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.5  Đối với tổ hợp đặc biệt theo công thức (2), các giá trị hệ số tổ hợp của tải trọng tạm thời ngắn hạn ψt được lấy như sau: (tcvn_2737_2023.md#muc-6-5).",
+    "question": "Quy định tại 6.5  Đối với tổ hợp đặc biệt theo công thức (2), các giá trị hệ số tổ hợp của tải trọng tạm thời ngắn hạn $\\psi_t$ được lấy như sau: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.5  Đối với tổ hợp đặc biệt theo công thức (2), các giá trị hệ số tổ hợp của tải trọng tạm thời ngắn hạn $\\psi_t$ được lấy như sau: (tcvn_2737_2023.md#muc-6-5).",
     "anchor": "muc-6-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
@@ -189,8 +189,8 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 6.7  Khi tính toán dầm, xà, tường, cột và móng chịu tải trọng truyền từ một sàn thì giá trị tiêu chuẩn của các tải trọng nêu trong Bảng 4 được phép giảm xuống tùy theo diện chịu tải A, m2, mà từ đó tải trọng truyền lên cấu kiện đang xét, bằng cách nhân với hệ số φ1, hoặc φ2 như sau: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.7  Khi tính toán dầm, xà, tường, cột và móng chịu tải trọng truyền từ một sàn thì giá trị tiêu chuẩn của các tải trọng nêu trong Bảng 4 được phép giảm xuống tùy theo diện chịu tải A, m2, mà từ đó tải trọng truyền lên cấu kiện đang xét, bằng cách nhân với hệ số φ1, hoặc φ2 như sau: (tcvn_2737_2023.md#muc-6-7).",
+    "question": "Quy định tại 6.7  Khi tính toán dầm, xà, tường, cột và móng chịu tải trọng truyền từ một sàn thì giá trị tiêu chuẩn của các tải trọng nêu trong Bảng 4 được phép giảm xuống tùy theo diện chịu tải A, $m^2$, mà từ đó tải trọng truyền lên cấu kiện đang xét, bằng cách nhân với hệ số $\\varphi_1$, hoặc $\\varphi_2$ như sau: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.7  Khi tính toán dầm, xà, tường, cột và móng chịu tải trọng truyền từ một sàn thì giá trị tiêu chuẩn của các tải trọng nêu trong Bảng 4 được phép giảm xuống tùy theo diện chịu tải A, $m^2$, mà từ đó tải trọng truyền lên cấu kiện đang xét, bằng cách nhân với hệ số $\\varphi_1$, hoặc $\\varphi_2$ như sau: (tcvn_2737_2023.md#muc-6-7).",
     "anchor": "muc-6-7",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
@@ -210,8 +210,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 6.8  Khi xác định nội lực để tính toán cột, tường và móng chịu tải trọng truyền từ hai sàn tầng trở lên thì giá trị tiêu chuẩn đối với các khu vực A đến D nêu trong Bảng 4 được phép giảm xuống bằng cách nhân với các hệ số φ3 hoặc φ4 như sau: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.8  Khi xác định nội lực để tính toán cột, tường và móng chịu tải trọng truyền từ hai sàn tầng trở lên thì giá trị tiêu chuẩn đối với các khu vực A đến D nêu trong Bảng 4 được phép giảm xuống bằng cách nhân với các hệ số φ3 hoặc φ4 như sau: (tcvn_2737_2023.md#muc-6-8).",
+    "question": "Quy định tại 6.8  Khi xác định nội lực để tính toán cột, tường và móng chịu tải trọng truyền từ hai sàn tầng trở lên thì giá trị tiêu chuẩn đối với các khu vực A đến D nêu trong Bảng 4 được phép giảm xuống bằng cách nhân với các hệ số $\\varphi_3$ hoặc $\\varphi_4$ như sau: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.8  Khi xác định nội lực để tính toán cột, tường và móng chịu tải trọng truyền từ hai sàn tầng trở lên thì giá trị tiêu chuẩn đối với các khu vực A đến D nêu trong Bảng 4 được phép giảm xuống bằng cách nhân với các hệ số $\\varphi_3$ hoặc $\\varphi_4$ như sau: (tcvn_2737_2023.md#muc-6-8).",
     "anchor": "muc-6-8",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
@@ -245,15 +245,15 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 7.2  Hệ số độ tin cậy về tải trọng γf của trọng lượng kết cấu xây dựng và nền lấy theo Bảng 1. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 7.2  Hệ số độ tin cậy về tải trọng γf của trọng lượng kết cấu xây dựng và nền lấy theo Bảng 1. (tcvn_2737_2023.md#muc-7-2).",
+    "question": "Quy định tại 7.2  Hệ số độ tin cậy về tải trọng $\\gamma_f$ của trọng lượng kết cấu xây dựng và nền lấy theo Bảng 1. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 7.2  Hệ số độ tin cậy về tải trọng $\\gamma_f$ của trọng lượng kết cấu xây dựng và nền lấy theo Bảng 1. (tcvn_2737_2023.md#muc-7-2).",
     "anchor": "muc-7-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 7.3  Khi kiểm tra kết cấu về ổn định vị trí chống lật, cũng như trong các trường hợp khác khi sự giảm trọng lượng kết cấu và đất có thể làm cho điều kiện làm việc của kết cấu nguy hiểm hơn, thì cần tiến hành tính toán với hệ số độ tin cậy về tải trọng γf = 0,9 đối với trọng lượng kết cấu hoặc bộ phận của kết cấu, nếu không có quy định giá trị khác trong các tiêu chuẩn về thiết kế kết cấu và nền. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 7.3  Khi kiểm tra kết cấu về ổn định vị trí chống lật, cũng như trong các trường hợp khác khi sự giảm trọng lượng kết cấu và đất có thể làm cho điều kiện làm việc của kết cấu nguy hiểm hơn, thì cần tiến hành tính toán với hệ số độ tin cậy về tải trọng γf = 0,9 đối với trọng lượng kết cấu hoặc bộ phận của kết cấu, nếu không có quy định giá trị khác trong các tiêu chuẩn về thiết kế kết cấu và nền. (tcvn_2737_2023.md#muc-7-3).",
+    "question": "Quy định tại 7.3  Khi kiểm tra kết cấu về ổn định vị trí chống lật, cũng như trong các trường hợp khác khi sự giảm trọng lượng kết cấu và đất có thể làm cho điều kiện làm việc của kết cấu nguy hiểm hơn, thì cần tiến hành tính toán với hệ số độ tin cậy về tải trọng $\\gamma_f$ = 0,9 đối với trọng lượng kết cấu hoặc bộ phận của kết cấu, nếu không có quy định giá trị khác trong các tiêu chuẩn về thiết kế kết cấu và nền. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 7.3  Khi kiểm tra kết cấu về ổn định vị trí chống lật, cũng như trong các trường hợp khác khi sự giảm trọng lượng kết cấu và đất có thể làm cho điều kiện làm việc của kết cấu nguy hiểm hơn, thì cần tiến hành tính toán với hệ số độ tin cậy về tải trọng $\\gamma_f$ = 0,9 đối với trọng lượng kết cấu hoặc bộ phận của kết cấu, nếu không có quy định giá trị khác trong các tiêu chuẩn về thiết kế kết cấu và nền. (tcvn_2737_2023.md#muc-7-3).",
     "anchor": "muc-7-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -315,8 +315,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.2.4  Hệ số độ tin cậy về tải trọng γf của trọng lượng thiết bị và vật liệu lấy theo Bảng 3. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.2.4  Hệ số độ tin cậy về tải trọng γf của trọng lượng thiết bị và vật liệu lấy theo Bảng 3. (tcvn_2737_2023.md#muc-8-2-4).",
+    "question": "Quy định tại 8.2.4  Hệ số độ tin cậy về tải trọng $\\gamma_f$ của trọng lượng thiết bị và vật liệu lấy theo Bảng 3. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.2.4  Hệ số độ tin cậy về tải trọng $\\gamma_f$ của trọng lượng thiết bị và vật liệu lấy theo Bảng 3. (tcvn_2737_2023.md#muc-8-2-4).",
     "anchor": "muc-8-2-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -350,15 +350,15 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.3.2  Giá trị tiêu chuẩn của tải trọng do trọng lượng các tường (vách) ngăn tạm thời tác dụng lên xà (dầm), sàn tầng được lấy phụ thuộc vào kết cấu, sơ đồ bố trí và đặc điểm tựa lên sàn tầng và tường của chúng. Tải trọng vừa nêu được phép coi là tải trọng phân bố đều bổ sung với giá trị tiêu chuẩn được lấy trên cơ sở tính toán theo sơ đồ bố trí đã dự tính, nhưng không nhỏ hơn 1,0 kN/m2. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.3.2  Giá trị tiêu chuẩn của tải trọng do trọng lượng các tường (vách) ngăn tạm thời tác dụng lên xà (dầm), sàn tầng được lấy phụ thuộc vào kết cấu, sơ đồ bố trí và đặc điểm tựa lên sàn tầng và tường của chúng. Tải trọng vừa nêu được phép coi là tải trọng phân bố đều bổ sung với giá trị tiêu chuẩn được lấy trên cơ sở tính toán theo sơ đồ bố trí đã dự tính, nhưng không nhỏ hơn 1,0 kN/m2. (tcvn_2737_2023.md#muc-8-3-2).",
+    "question": "Quy định tại 8.3.2  Giá trị tiêu chuẩn của tải trọng do trọng lượng các tường (vách) ngăn tạm thời tác dụng lên xà (dầm), sàn tầng được lấy phụ thuộc vào kết cấu, sơ đồ bố trí và đặc điểm tựa lên sàn tầng và tường của chúng. Tải trọng vừa nêu được phép coi là tải trọng phân bố đều bổ sung với giá trị tiêu chuẩn được lấy trên cơ sở tính toán theo sơ đồ bố trí đã dự tính, nhưng không nhỏ hơn 1,0 kN/$m^2$. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.3.2  Giá trị tiêu chuẩn của tải trọng do trọng lượng các tường (vách) ngăn tạm thời tác dụng lên xà (dầm), sàn tầng được lấy phụ thuộc vào kết cấu, sơ đồ bố trí và đặc điểm tựa lên sàn tầng và tường của chúng. Tải trọng vừa nêu được phép coi là tải trọng phân bố đều bổ sung với giá trị tiêu chuẩn được lấy trên cơ sở tính toán theo sơ đồ bố trí đã dự tính, nhưng không nhỏ hơn 1,0 kN/$m^2$. (tcvn_2737_2023.md#muc-8-3-2).",
     "anchor": "muc-8-3-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.3.3  Giá trị tiêu chuẩn giảm qk,qper của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 4 lấy bằng các giá trị qk,t nêu trong Bảng 4 (trừ các khu vực B5 và H) nhân với hệ số giảm η = 0,35, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.3.3  Giá trị tiêu chuẩn giảm qk,qper của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 4 lấy bằng các giá trị qk,t nêu trong Bảng 4 (trừ các khu vực B5 và H) nhân với hệ số giảm η = 0,35, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. (tcvn_2737_2023.md#muc-8-3-3).",
+    "question": "Quy định tại 8.3.3  Giá trị tiêu chuẩn giảm $q_{k,qper}$ của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 4 lấy bằng các giá trị $q_{k,t}$ nêu trong Bảng 4 (trừ các khu vực B5 và H) nhân với hệ số giảm η = 0,35, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.3.3  Giá trị tiêu chuẩn giảm $q_{k,qper}$ của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 4 lấy bằng các giá trị $q_{k,t}$ nêu trong Bảng 4 (trừ các khu vực B5 và H) nhân với hệ số giảm η = 0,35, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. (tcvn_2737_2023.md#muc-8-3-3).",
     "anchor": "muc-8-3-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -371,8 +371,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.3.5  Hệ số độ tin cậy về tải trọng γf của: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.3.5  Hệ số độ tin cậy về tải trọng γf của: (tcvn_2737_2023.md#muc-8-3-5).",
+    "question": "Quy định tại 8.3.5  Hệ số độ tin cậy về tải trọng $\\gamma_f$ của: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.3.5  Hệ số độ tin cậy về tải trọng $\\gamma_f$ của: (tcvn_2737_2023.md#muc-8-3-5).",
     "anchor": "muc-8-3-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -399,8 +399,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.4.3  Đối với tải trọng tập trung nêu trong 8.4.2, lấy hệ số độ tin cậy về tải trọng γf = 1,2. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.4.3  Đối với tải trọng tập trung nêu trong 8.4.2, lấy hệ số độ tin cậy về tải trọng γf = 1,2. (tcvn_2737_2023.md#muc-8-4-3).",
+    "question": "Quy định tại 8.4.3  Đối với tải trọng tập trung nêu trong 8.4.2, lấy hệ số độ tin cậy về tải trọng $\\gamma_f$ = 1,2. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.4.3  Đối với tải trọng tập trung nêu trong 8.4.2, lấy hệ số độ tin cậy về tải trọng $\\gamma_f$ = 1,2. (tcvn_2737_2023.md#muc-8-4-3).",
     "anchor": "muc-8-4-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -420,8 +420,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.5.2  Khi tính toán chọc thủng bản sàn tầng và trong các trường hợp kể đến tác động cục bộ thì cần kể đến các tải trọng tập trung có giá trị bằng 0,5 Qk,t đặt lên hai diện tích hình vuông nằm cách nhau 1,8 m tại vị trí bất lợi nhất (mỗi hình vuông có cạnh bằng 100 mm đối với khu vực F trong Bảng 5 và bằng 200 mm đối với khu vực G trong Bảng 5). Các tải trọng tập trung vừa nêu không được xét đồng thời với tải trọng phân bố đều qk,t. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.5.2  Khi tính toán chọc thủng bản sàn tầng và trong các trường hợp kể đến tác động cục bộ thì cần kể đến các tải trọng tập trung có giá trị bằng 0,5 Qk,t đặt lên hai diện tích hình vuông nằm cách nhau 1,8 m tại vị trí bất lợi nhất (mỗi hình vuông có cạnh bằng 100 mm đối với khu vực F trong Bảng 5 và bằng 200 mm đối với khu vực G trong Bảng 5). Các tải trọng tập trung vừa nêu không được xét đồng thời với tải trọng phân bố đều qk,t. (tcvn_2737_2023.md#muc-8-5-2).",
+    "question": "Quy định tại 8.5.2  Khi tính toán chọc thủng bản sàn tầng và trong các trường hợp kể đến tác động cục bộ thì cần kể đến các tải trọng tập trung có giá trị bằng 0,5 $Q_{k,t}$ đặt lên hai diện tích hình vuông nằm cách nhau 1,8 m tại vị trí bất lợi nhất (mỗi hình vuông có cạnh bằng 100 mm đối với khu vực F trong Bảng 5 và bằng 200 mm đối với khu vực G trong Bảng 5). Các tải trọng tập trung vừa nêu không được xét đồng thời với tải trọng phân bố đều $q_{k,t}$. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.5.2  Khi tính toán chọc thủng bản sàn tầng và trong các trường hợp kể đến tác động cục bộ thì cần kể đến các tải trọng tập trung có giá trị bằng 0,5 $Q_{k,t}$ đặt lên hai diện tích hình vuông nằm cách nhau 1,8 m tại vị trí bất lợi nhất (mỗi hình vuông có cạnh bằng 100 mm đối với khu vực F trong Bảng 5 và bằng 200 mm đối với khu vực G trong Bảng 5). Các tải trọng tập trung vừa nêu không được xét đồng thời với tải trọng phân bố đều $q_{k,t}$. (tcvn_2737_2023.md#muc-8-5-2).",
     "anchor": "muc-8-5-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -441,15 +441,15 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.5.4  Giá trị tiêu chuẩn giảm qk,qper của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 5 lấy bằng các giá trị qk,t nêu trong Bảng 5 nhân với hệ số giảm η = 0,6 cho khu vực F, η = 0,35 cho khu vực G, và η theo nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ cho khu vực G1, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.5.4  Giá trị tiêu chuẩn giảm qk,qper của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 5 lấy bằng các giá trị qk,t nêu trong Bảng 5 nhân với hệ số giảm η = 0,6 cho khu vực F, η = 0,35 cho khu vực G, và η theo nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ cho khu vực G1, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. (tcvn_2737_2023.md#muc-8-5-4).",
+    "question": "Quy định tại 8.5.4  Giá trị tiêu chuẩn giảm $q_{k,qper}$ của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 5 lấy bằng các giá trị $q_{k,t}$ nêu trong Bảng 5 nhân với hệ số giảm η = 0,6 cho khu vực F, η = 0,35 cho khu vực G, và η theo nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ cho khu vực G1, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.5.4  Giá trị tiêu chuẩn giảm $q_{k,qper}$ của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 5 lấy bằng các giá trị $q_{k,t}$ nêu trong Bảng 5 nhân với hệ số giảm η = 0,6 cho khu vực F, η = 0,35 cho khu vực G, và η theo nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ cho khu vực G1, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. (tcvn_2737_2023.md#muc-8-5-4).",
     "anchor": "muc-8-5-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.5.5  Đối với tải trọng nêu trong 8.5.1, lấy hệ số độ tin cậy về tải trọng γf = 1,2. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.5.5  Đối với tải trọng nêu trong 8.5.1, lấy hệ số độ tin cậy về tải trọng γf = 1,2. (tcvn_2737_2023.md#muc-8-5-5).",
+    "question": "Quy định tại 8.5.5  Đối với tải trọng nêu trong 8.5.1, lấy hệ số độ tin cậy về tải trọng $\\gamma_f$ = 1,2. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.5.5  Đối với tải trọng nêu trong 8.5.1, lấy hệ số độ tin cậy về tải trọng $\\gamma_f$ = 1,2. (tcvn_2737_2023.md#muc-8-5-5).",
     "anchor": "muc-8-5-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -469,8 +469,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.6.2  Giá trị tính toán của tải trọng do xe chữa cháy tác dụng lên tường tầng hầm và sàn mái phần hầm hoặc sàn mái khối đế của nhà được lấy theo thông số kỹ thuật của phương tiện giao thông và phù hợp với nhiệm vụ thiết kế. Khi không có thông số kỹ thuật của xe chữa cháy thì giá trị tiêu chuẩn qk của tải trọng do trọng lượng xe chữa cháy được lấy không nhỏ hơn 15 kN/m2 và giá trị tính toán lấy bằng qd = γf . ξ. qk, trong đó γf là hệ số độ tin cậy về tải trọng, lấy bằng 1,2; ξ là hệ số động lực, lấy bằng 1,4. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.6.2  Giá trị tính toán của tải trọng do xe chữa cháy tác dụng lên tường tầng hầm và sàn mái phần hầm hoặc sàn mái khối đế của nhà được lấy theo thông số kỹ thuật của phương tiện giao thông và phù hợp với nhiệm vụ thiết kế. Khi không có thông số kỹ thuật của xe chữa cháy thì giá trị tiêu chuẩn qk của tải trọng do trọng lượng xe chữa cháy được lấy không nhỏ hơn 15 kN/m2 và giá trị tính toán lấy bằng qd = γf . ξ. qk, trong đó γf là hệ số độ tin cậy về tải trọng, lấy bằng 1,2; ξ là hệ số động lực, lấy bằng 1,4. (tcvn_2737_2023.md#muc-8-6-2).",
+    "question": "Quy định tại 8.6.2  Giá trị tính toán của tải trọng do xe chữa cháy tác dụng lên tường tầng hầm và sàn mái phần hầm hoặc sàn mái khối đế của nhà được lấy theo thông số kỹ thuật của phương tiện giao thông và phù hợp với nhiệm vụ thiết kế. Khi không có thông số kỹ thuật của xe chữa cháy thì giá trị tiêu chuẩn $q_k$ của tải trọng do trọng lượng xe chữa cháy được lấy không nhỏ hơn 15 kN/$m^2$ và giá trị tính toán lấy bằng $q_d$ = $\\gamma_f$ . ξ. $q_k$, trong đó $\\gamma_f$ là hệ số độ tin cậy về tải trọng, lấy bằng 1,2; ξ là hệ số động lực, lấy bằng 1,4. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.6.2  Giá trị tính toán của tải trọng do xe chữa cháy tác dụng lên tường tầng hầm và sàn mái phần hầm hoặc sàn mái khối đế của nhà được lấy theo thông số kỹ thuật của phương tiện giao thông và phù hợp với nhiệm vụ thiết kế. Khi không có thông số kỹ thuật của xe chữa cháy thì giá trị tiêu chuẩn $q_k$ của tải trọng do trọng lượng xe chữa cháy được lấy không nhỏ hơn 15 kN/$m^2$ và giá trị tính toán lấy bằng $q_d$ = $\\gamma_f$ . ξ. $q_k$, trong đó $\\gamma_f$ là hệ số độ tin cậy về tải trọng, lấy bằng 1,2; ξ là hệ số động lực, lấy bằng 1,4. (tcvn_2737_2023.md#muc-8-6-2).",
     "anchor": "muc-8-6-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -518,8 +518,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.7.2  Giá trị tính toán của tải trọng do trực thăng lên sàn mái nhà khi cất cánh Fd,up được tính theo công thức: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.7.2  Giá trị tính toán của tải trọng do trực thăng lên sàn mái nhà khi cất cánh Fd,up được tính theo công thức: (tcvn_2737_2023.md#muc-8-7-2).",
+    "question": "Quy định tại 8.7.2  Giá trị tính toán của tải trọng do trực thăng lên sàn mái nhà khi cất cánh $F_{d,up}$ được tính theo công thức: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.7.2  Giá trị tính toán của tải trọng do trực thăng lên sàn mái nhà khi cất cánh $F_{d,up}$ được tính theo công thức: (tcvn_2737_2023.md#muc-8-7-2).",
     "anchor": "muc-8-7-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -616,15 +616,15 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.8  Hệ số độ tin cậy về tải trọng đối với tải trọng do cần trục, kể cả khi kiểm tra ổn định cục bộ bụng dầm, lấy bằng γf = 1,2 đối với tất cả các chế độ làm việc của cần trục. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.8  Hệ số độ tin cậy về tải trọng đối với tải trọng do cần trục, kể cả khi kiểm tra ổn định cục bộ bụng dầm, lấy bằng γf = 1,2 đối với tất cả các chế độ làm việc của cần trục. (tcvn_2737_2023.md#muc-9-8).",
+    "question": "Quy định tại 9.8  Hệ số độ tin cậy về tải trọng đối với tải trọng do cần trục, kể cả khi kiểm tra ổn định cục bộ bụng dầm, lấy bằng $\\gamma_f$ = 1,2 đối với tất cả các chế độ làm việc của cần trục. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.8  Hệ số độ tin cậy về tải trọng đối với tải trọng do cần trục, kể cả khi kiểm tra ổn định cục bộ bụng dầm, lấy bằng $\\gamma_f$ = 1,2 đối với tất cả các chế độ làm việc của cần trục. (tcvn_2737_2023.md#muc-9-8).",
     "anchor": "muc-9-8",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.9  Khi kể đến tác dụng cục bộ và tác dụng động của tải trọng đứng tập trung do một bánh xe cần trục (cầu trục hoặc cần trục treo) thì giá trị tiêu chuẩn toàn phần của tải trọng này khi tính toán độ bền của dầm đường cầu cần được nhân với hệ số bổ sung γf1, bằng: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.9  Khi kể đến tác dụng cục bộ và tác dụng động của tải trọng đứng tập trung do một bánh xe cần trục (cầu trục hoặc cần trục treo) thì giá trị tiêu chuẩn toàn phần của tải trọng này khi tính toán độ bền của dầm đường cầu cần được nhân với hệ số bổ sung γf1, bằng: (tcvn_2737_2023.md#muc-9-9).",
+    "question": "Quy định tại 9.9  Khi kể đến tác dụng cục bộ và tác dụng động của tải trọng đứng tập trung do một bánh xe cần trục (cầu trục hoặc cần trục treo) thì giá trị tiêu chuẩn toàn phần của tải trọng này khi tính toán độ bền của dầm đường cầu cần được nhân với hệ số bổ sung $\\gamma_{f1}$, bằng: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.9  Khi kể đến tác dụng cục bộ và tác dụng động của tải trọng đứng tập trung do một bánh xe cần trục (cầu trục hoặc cần trục treo) thì giá trị tiêu chuẩn toàn phần của tải trọng này khi tính toán độ bền của dầm đường cầu cần được nhân với hệ số bổ sung $\\gamma_{f1}$, bằng: (tcvn_2737_2023.md#muc-9-9).",
     "anchor": "muc-9-9",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -686,8 +686,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.18  Khi xét đến hai cần trục (cầu trục hoặc cần trục treo) thì tải trọng do chúng phải được nhân với hệ số tổ hợp ψt, bằng: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.18  Khi xét đến hai cần trục (cầu trục hoặc cần trục treo) thì tải trọng do chúng phải được nhân với hệ số tổ hợp ψt, bằng: (tcvn_2737_2023.md#muc-9-18).",
+    "question": "Quy định tại 9.18  Khi xét đến hai cần trục (cầu trục hoặc cần trục treo) thì tải trọng do chúng phải được nhân với hệ số tổ hợp $\\psi_t$, bằng: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.18  Khi xét đến hai cần trục (cầu trục hoặc cần trục treo) thì tải trọng do chúng phải được nhân với hệ số tổ hợp $\\psi_t$, bằng: (tcvn_2737_2023.md#muc-9-18).",
     "anchor": "muc-9-18",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -700,8 +700,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.20  Để kiểm tra mỏi cho bụng dầm trong vùng tác dụng của tải trọng đứng tập trung do một bánh xe của cần trục thì giá trị nội lực đứng do một bánh xe đã lấy có kể đến yêu cầu tại 9.19 cần được nhân với hệ số γf1 mà đã được kể đến khi tính toán độ bền của dầm đường cẩu theo 9.9. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.20  Để kiểm tra mỏi cho bụng dầm trong vùng tác dụng của tải trọng đứng tập trung do một bánh xe của cần trục thì giá trị nội lực đứng do một bánh xe đã lấy có kể đến yêu cầu tại 9.19 cần được nhân với hệ số γf1 mà đã được kể đến khi tính toán độ bền của dầm đường cẩu theo 9.9. (tcvn_2737_2023.md#muc-9-20).",
+    "question": "Quy định tại 9.20  Để kiểm tra mỏi cho bụng dầm trong vùng tác dụng của tải trọng đứng tập trung do một bánh xe của cần trục thì giá trị nội lực đứng do một bánh xe đã lấy có kể đến yêu cầu tại 9.19 cần được nhân với hệ số $\\gamma_{f1}$ mà đã được kể đến khi tính toán độ bền của dầm đường cẩu theo 9.9. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.20  Để kiểm tra mỏi cho bụng dầm trong vùng tác dụng của tải trọng đứng tập trung do một bánh xe của cần trục thì giá trị nội lực đứng do một bánh xe đã lấy có kể đến yêu cầu tại 9.19 cần được nhân với hệ số $\\gamma_{f1}$ mà đã được kể đến khi tính toán độ bền của dầm đường cẩu theo 9.9. (tcvn_2737_2023.md#muc-9-20).",
     "anchor": "muc-9-20",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -742,8 +742,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.1.4  Dạng kích động xoáy cộng hưởng và dao động mất ổn định khí động phải được kể đến đối với nhà, kết cấu bụng đặc hoặc các phần riêng lẻ của chúng mà có trục trung tâm thẳng (hoặc gần thẳng), cũng như có hình dạng và kích thước tiết diện ngang không đổi hoặc thay đổi uyển chuyển với độ mảnh hiệu dụng λe > 20, trong đó λe được xác định theo F.18. Tiêu chí xảy ra dao động mất ổn định khí động được quy định trong các tiêu chuẩn thiết kế. Khi thiết kế công trình thì cần sử dụng các giải pháp kiến trúc và giải pháp kết cấu để không xảy ra dao động mất ổn định khí động. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.1.4  Dạng kích động xoáy cộng hưởng và dao động mất ổn định khí động phải được kể đến đối với nhà, kết cấu bụng đặc hoặc các phần riêng lẻ của chúng mà có trục trung tâm thẳng (hoặc gần thẳng), cũng như có hình dạng và kích thước tiết diện ngang không đổi hoặc thay đổi uyển chuyển với độ mảnh hiệu dụng λe > 20, trong đó λe được xác định theo F.18. Tiêu chí xảy ra dao động mất ổn định khí động được quy định trong các tiêu chuẩn thiết kế. Khi thiết kế công trình thì cần sử dụng các giải pháp kiến trúc và giải pháp kết cấu để không xảy ra dao động mất ổn định khí động. (tcvn_2737_2023.md#muc-10-1-4).",
+    "question": "Quy định tại 10.1.4  Dạng kích động xoáy cộng hưởng và dao động mất ổn định khí động phải được kể đến đối với nhà, kết cấu bụng đặc hoặc các phần riêng lẻ của chúng mà có trục trung tâm thẳng (hoặc gần thẳng), cũng như có hình dạng và kích thước tiết diện ngang không đổi hoặc thay đổi uyển chuyển với độ mảnh hiệu dụng $\\lambda_e$ > 20, trong đó $\\lambda_e$ được xác định theo F.18. Tiêu chí xảy ra dao động mất ổn định khí động được quy định trong các tiêu chuẩn thiết kế. Khi thiết kế công trình thì cần sử dụng các giải pháp kiến trúc và giải pháp kết cấu để không xảy ra dao động mất ổn định khí động. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.1.4  Dạng kích động xoáy cộng hưởng và dao động mất ổn định khí động phải được kể đến đối với nhà, kết cấu bụng đặc hoặc các phần riêng lẻ của chúng mà có trục trung tâm thẳng (hoặc gần thẳng), cũng như có hình dạng và kích thước tiết diện ngang không đổi hoặc thay đổi uyển chuyển với độ mảnh hiệu dụng $\\lambda_e$ > 20, trong đó $\\lambda_e$ được xác định theo F.18. Tiêu chí xảy ra dao động mất ổn định khí động được quy định trong các tiêu chuẩn thiết kế. Khi thiết kế công trình thì cần sử dụng các giải pháp kiến trúc và giải pháp kết cấu để không xảy ra dao động mất ổn định khí động. (tcvn_2737_2023.md#muc-10-1-4).",
     "anchor": "muc-10-1-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -756,8 +756,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.1.6  Hệ số độ tin cậy về tải trọng γf đối với tải trọng gió chính được lấy bằng 2,1; khi tính toán kích động xoáy cộng hưởng thì hệ số độ tin cậy về tải trọng γf, lấy bằng 1,0. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.1.6  Hệ số độ tin cậy về tải trọng γf đối với tải trọng gió chính được lấy bằng 2,1; khi tính toán kích động xoáy cộng hưởng thì hệ số độ tin cậy về tải trọng γf, lấy bằng 1,0. (tcvn_2737_2023.md#muc-10-1-6).",
+    "question": "Quy định tại 10.1.6  Hệ số độ tin cậy về tải trọng $\\gamma_f$ đối với tải trọng gió chính được lấy bằng 2,1; khi tính toán kích động xoáy cộng hưởng thì hệ số độ tin cậy về tải trọng $\\gamma_f$, lấy bằng 1,0. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.1.6  Hệ số độ tin cậy về tải trọng $\\gamma_f$ đối với tải trọng gió chính được lấy bằng 2,1; khi tính toán kích động xoáy cộng hưởng thì hệ số độ tin cậy về tải trọng $\\gamma_f$, lấy bằng 1,0. (tcvn_2737_2023.md#muc-10-1-6).",
     "anchor": "muc-10-1-6",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -777,8 +777,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.2.2  Giá trị tiêu chuẩn của tải trọng gió WK tại độ cao tương đương ze được xác định theo công thức: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.2  Giá trị tiêu chuẩn của tải trọng gió WK tại độ cao tương đương ze được xác định theo công thức: (tcvn_2737_2023.md#muc-10-2-2).",
+    "question": "Quy định tại 10.2.2  Giá trị tiêu chuẩn của tải trọng gió $W_K$ tại độ cao tương đương $z_e$ được xác định theo công thức: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.2  Giá trị tiêu chuẩn của tải trọng gió $W_K$ tại độ cao tương đương $z_e$ được xác định theo công thức: (tcvn_2737_2023.md#muc-10-2-2).",
     "anchor": "muc-10-2-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -791,8 +791,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.2.3  Áp lực gió cơ sở W0 được lấy theo phân vùng gió trên lãnh thổ Việt Nam theo địa danh hành chính hoặc theo bản đồ phân vùng áp lực gió nêu trong [1]. Giá trị W0 nêu trong Bảng 7 được trích dẫn từ 5.2 của [1]. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.3  Áp lực gió cơ sở W0 được lấy theo phân vùng gió trên lãnh thổ Việt Nam theo địa danh hành chính hoặc theo bản đồ phân vùng áp lực gió nêu trong [1]. Giá trị W0 nêu trong Bảng 7 được trích dẫn từ 5.2 của [1]. (tcvn_2737_2023.md#muc-10-2-3).",
+    "question": "Quy định tại 10.2.3  Áp lực gió cơ sở $W_0$ được lấy theo phân vùng gió trên lãnh thổ Việt Nam theo địa danh hành chính hoặc theo bản đồ phân vùng áp lực gió nêu trong [1]. Giá trị $W_0$ nêu trong Bảng 7 được trích dẫn từ 5.2 của [1]. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.3  Áp lực gió cơ sở $W_0$ được lấy theo phân vùng gió trên lãnh thổ Việt Nam theo địa danh hành chính hoặc theo bản đồ phân vùng áp lực gió nêu trong [1]. Giá trị $W_0$ nêu trong Bảng 7 được trích dẫn từ 5.2 của [1]. (tcvn_2737_2023.md#muc-10-2-3).",
     "anchor": "muc-10-2-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -812,8 +812,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.2.4  Độ cao tương đương ze xác định như sau: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.4  Độ cao tương đương ze xác định như sau: (tcvn_2737_2023.md#muc-10-2-4).",
+    "question": "Quy định tại 10.2.4  Độ cao tương đương $z_e$ xác định như sau: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.4  Độ cao tương đương $z_e$ xác định như sau: (tcvn_2737_2023.md#muc-10-2-4).",
     "anchor": "muc-10-2-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -826,8 +826,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.2.5  Giá trị của hệ số k(ze), kể đến sự thay đổi áp lực gió theo độ cao ze so với mốc chuẩn và dạng địa hình, được xác định theo công thức: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.5  Giá trị của hệ số k(ze), kể đến sự thay đổi áp lực gió theo độ cao ze so với mốc chuẩn và dạng địa hình, được xác định theo công thức: (tcvn_2737_2023.md#muc-10-2-5).",
+    "question": "Quy định tại 10.2.5  Giá trị của hệ số k($z_e$), kể đến sự thay đổi áp lực gió theo độ cao $z_e$ so với mốc chuẩn và dạng địa hình, được xác định theo công thức: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.5  Giá trị của hệ số k($z_e$), kể đến sự thay đổi áp lực gió theo độ cao $z_e$ so với mốc chuẩn và dạng địa hình, được xác định theo công thức: (tcvn_2737_2023.md#muc-10-2-5).",
     "anchor": "muc-10-2-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -854,36 +854,36 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.2.6  Khi xác định các thành phần We, Wf, Wi, Wx và Wy thì sử dụng các hệ số khí động tương ứng: hệ số khí động áp lực ngoài ce; hệ số khí động ma sát cf, hệ số khí động áp lực trong ci; hệ số khí động cản chính diện cx; hệ số khí động lực ngang cy. Trong một số hợp mà cần phải kể đến mô men xoắn WMz thì sử dụng hệ số khí động mô men xoắn cMz. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.6  Khi xác định các thành phần We, Wf, Wi, Wx và Wy thì sử dụng các hệ số khí động tương ứng: hệ số khí động áp lực ngoài ce; hệ số khí động ma sát cf, hệ số khí động áp lực trong ci; hệ số khí động cản chính diện cx; hệ số khí động lực ngang cy. Trong một số hợp mà cần phải kể đến mô men xoắn WMz thì sử dụng hệ số khí động mô men xoắn cMz. (tcvn_2737_2023.md#muc-10-2-6).",
+    "question": "Quy định tại 10.2.6  Khi xác định các thành phần $W_e$, $W_f$, $W_i$, $W_x$ và $W_y$ thì sử dụng các hệ số khí động tương ứng: hệ số khí động áp lực ngoài ce; hệ số khí động ma sát $c_f$, hệ số khí động áp lực trong $c_i$; hệ số khí động cản chính diện $c_x$; hệ số khí động lực ngang $c_y$. Trong một số hợp mà cần phải kể đến mô men xoắn $W_{Mz}$ thì sử dụng hệ số khí động mô men xoắn $c_{Mz}$. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.6  Khi xác định các thành phần $W_e$, $W_f$, $W_i$, $W_x$ và $W_y$ thì sử dụng các hệ số khí động tương ứng: hệ số khí động áp lực ngoài ce; hệ số khí động ma sát $c_f$, hệ số khí động áp lực trong $c_i$; hệ số khí động cản chính diện $c_x$; hệ số khí động lực ngang $c_y$. Trong một số hợp mà cần phải kể đến mô men xoắn $W_{Mz}$ thì sử dụng hệ số khí động mô men xoắn $c_{Mz}$. (tcvn_2737_2023.md#muc-10-2-6).",
     "anchor": "muc-10-2-6",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.2.7  Hệ số hiệu ứng giật Gf của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.7  Hệ số hiệu ứng giật Gf (tcvn_2737_2023.md#muc-10-2-7).",
+    "question": "Quy định tại 10.2.7  Hệ số hiệu ứng giật $G_f$ của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.7  Hệ số hiệu ứng giật $G_f$ (tcvn_2737_2023.md#muc-10-2-7).",
     "anchor": "muc-10-2-7",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.2.7.1  Hệ số hiệu ứng giật Gf là hệ số phản ứng của kết cấu dưới tác dụng của tải trọng gió (bao gồm cả thành phần phản ứng tĩnh và thành phần phản ứng động của kết cấu). của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.7.1  Hệ số hiệu ứng giật Gf là hệ số phản ứng của kết cấu dưới tác dụng của tải trọng gió (bao gồm cả thành phần phản ứng tĩnh và thành phần phản ứng động của kết cấu). (tcvn_2737_2023.md#muc-10-2-7-1).",
+    "question": "Quy định tại 10.2.7.1  Hệ số hiệu ứng giật $G_f$ là hệ số phản ứng của kết cấu dưới tác dụng của tải trọng gió (bao gồm cả thành phần phản ứng tĩnh và thành phần phản ứng động của kết cấu). của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.7.1  Hệ số hiệu ứng giật $G_f$ là hệ số phản ứng của kết cấu dưới tác dụng của tải trọng gió (bao gồm cả thành phần phản ứng tĩnh và thành phần phản ứng động của kết cấu). (tcvn_2737_2023.md#muc-10-2-7-1).",
     "anchor": "muc-10-2-7-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.2.7.2  Đối với kết cấu “cứng” (có chu kỳ dao động riêng cơ bản thứ nhất T1 ≤ 1 s) thì Gf có thể lấy bằng 0,85. của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.7.2  Đối với kết cấu “cứng” (có chu kỳ dao động riêng cơ bản thứ nhất T1 ≤ 1 s) thì Gf có thể lấy bằng 0,85. (tcvn_2737_2023.md#muc-10-2-7-2).",
+    "question": "Quy định tại 10.2.7.2  Đối với kết cấu “cứng” (có chu kỳ dao động riêng cơ bản thứ nhất $T_1$ ≤ 1 s) thì $G_f$ có thể lấy bằng 0,85. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.7.2  Đối với kết cấu “cứng” (có chu kỳ dao động riêng cơ bản thứ nhất $T_1$ ≤ 1 s) thì $G_f$ có thể lấy bằng 0,85. (tcvn_2737_2023.md#muc-10-2-7-2).",
     "anchor": "muc-10-2-7-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.2.7.3  Đối với kết cấu “mềm” (có chu kỳ dao động riêng cơ bản thứ nhất T1 > 1 s) thì Gf được xác định theo công thức: của TCVN tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.7.3  Đối với kết cấu “mềm” (có chu kỳ dao động riêng cơ bản thứ nhất T1 > 1 s) thì Gf được xác định theo công thức: (tcvn_2737_2023.md#muc-10-2-7-3).",
+    "question": "Quy định tại 10.2.7.3  Đối với kết cấu “mềm” (có chu kỳ dao động riêng cơ bản thứ nhất $T_1$ > 1 s) thì $G_f$ được xác định theo công thức: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.7.3  Đối với kết cấu “mềm” (có chu kỳ dao động riêng cơ bản thứ nhất $T_1$ > 1 s) thì $G_f$ được xác định theo công thức: (tcvn_2737_2023.md#muc-10-2-7-3).",
     "anchor": "muc-10-2-7-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
