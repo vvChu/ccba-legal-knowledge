@@ -374,24 +374,27 @@ b là cạnh vuông góc hướng gió</em></p>
 
 <p align="center">
 
-![image59.png](../figures/images/image59.png)
+![Hình F.7 - Sơ đồ mặt đứng](../figures/images/image59.png)
 
 </p>
 
 <p align="center">
 
-![image60.png](../figures/images/image60.png)
+![Hình F.7a](../figures/images/image60.png)
 
 </p>
+
+<p align="center"><strong>a) Góc hướng gió $\theta = 0^\circ$</strong></p>
 
 <p align="center">
 
-![image61.png](../figures/images/image61.png)
+![Hình F.7b](../figures/images/image61.png)
 
 </p>
 
-<p align="center"><em>a) Góc hướng gió θ = 0° e = min (b; 2h)
-b là cạnh vuông góc hướng gió a) Góc hướng gió θ = 0° b) Góc hướng gió θ = 90°</em></p>
+<p align="center"><em>$e = \min(b, 2h)$, $b$ là cạnh vuông góc hướng gió</em></p>
+
+<p align="center"><strong>b) Góc hướng gió $\theta = 90^\circ$</strong></p>
 
 <a id="hinh-f_7"></a>
 
@@ -527,7 +530,7 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 <p align="center">
 
-![image67.png](../figures/images/image67.png)
+![Hình F.10a](../figures/images/image67.png)
 
 </p>
 
@@ -535,13 +538,11 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 <p align="center">
 
-![image68.png](../figures/images/image68.png)
+![Hình F.10b](../figures/images/image68.png)
 
 </p>
 
 <p align="center"><strong>b) Nhà có chiều cao thay đổi</strong></p>
-
-**CHÚ DẪN: 1 - Tường chắn gió**
 
 <a id="hinh-f_10"></a>
 
