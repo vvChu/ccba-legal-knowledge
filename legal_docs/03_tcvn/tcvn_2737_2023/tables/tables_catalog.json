@@ -63,15 +63,6 @@
     "status": "active"
   },
   {
-    "table_id": "bang_raw_08",
-    "title": "Bảng raw_08",
-    "number": "raw_08",
-    "csv_path": "tables/csv/bang_raw_08.csv",
-    "json_path": "tables/json/bang_raw_08.json",
-    "rows_count": 8,
-    "status": "active"
-  },
-  {
     "table_id": "bang_08",
     "title": "Bảng 8 - Các hệ số $z_g$, $z_{min}$ và $\\alpha$",
     "number": "8",
@@ -87,15 +78,6 @@
     "csv_path": "tables/csv/bang_09.csv",
     "json_path": "tables/json/bang_09.json",
     "rows_count": 18,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_11",
-    "title": "Bảng raw_11",
-    "number": "raw_11",
-    "csv_path": "tables/csv/bang_raw_11.csv",
-    "json_path": "tables/json/bang_raw_11.json",
-    "rows_count": 3,
     "status": "active"
   },
   {
@@ -126,57 +108,12 @@
     "status": "active"
   },
   {
-    "table_id": "bang_raw_15",
-    "title": "Bảng raw_15",
-    "number": "raw_15",
-    "csv_path": "tables/csv/bang_raw_15.csv",
-    "json_path": "tables/json/bang_raw_15.json",
-    "rows_count": 1,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_16",
-    "title": "Bảng raw_16",
-    "number": "raw_16",
-    "csv_path": "tables/csv/bang_raw_16.csv",
-    "json_path": "tables/json/bang_raw_16.json",
-    "rows_count": 1,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_17",
-    "title": "Bảng raw_17",
-    "number": "raw_17",
-    "csv_path": "tables/csv/bang_raw_17.csv",
-    "json_path": "tables/json/bang_raw_17.json",
-    "rows_count": 1,
-    "status": "active"
-  },
-  {
     "table_id": "bang_b_2",
     "title": "Bảng B.2 - Giá trị giới hạn $F_u$ của tải trọng ngang do va chạm của cần trục với gối chặn cuối đường ray",
     "number": "B.2",
     "csv_path": "tables/csv/bang_b_2.csv",
     "json_path": "tables/json/bang_b_2.json",
     "rows_count": 6,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_19",
-    "title": "Bảng raw_19",
-    "number": "raw_19",
-    "csv_path": "tables/csv/bang_raw_19.csv",
-    "json_path": "tables/json/bang_raw_19.json",
-    "rows_count": 1,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_20",
-    "title": "Bảng raw_20",
-    "number": "raw_20",
-    "csv_path": "tables/csv/bang_raw_20.csv",
-    "json_path": "tables/json/bang_raw_20.json",
-    "rows_count": 1,
     "status": "active"
   },
   {
@@ -189,30 +126,12 @@
     "status": "active"
   },
   {
-    "table_id": "bang_raw_22",
-    "title": "Bảng raw_22",
-    "number": "raw_22",
-    "csv_path": "tables/csv/bang_raw_22.csv",
-    "json_path": "tables/json/bang_raw_22.json",
-    "rows_count": 1,
-    "status": "active"
-  },
-  {
     "table_id": "bang_f_2",
     "title": "Bảng F.2 - Hệ số $c_e$ cho mái bằng",
     "number": "F.2",
     "csv_path": "tables/csv/bang_f_2.csv",
     "json_path": "tables/json/bang_f_2.json",
     "rows_count": 12,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_24",
-    "title": "Bảng raw_24",
-    "number": "raw_24",
-    "csv_path": "tables/csv/bang_raw_24.csv",
-    "json_path": "tables/json/bang_raw_24.json",
-    "rows_count": 1,
     "status": "active"
   },
   {
@@ -261,15 +180,6 @@
     "status": "active"
   },
   {
-    "table_id": "bang_raw_30",
-    "title": "Bảng raw_30",
-    "number": "raw_30",
-    "csv_path": "tables/csv/bang_raw_30.csv",
-    "json_path": "tables/json/bang_raw_30.json",
-    "rows_count": 2,
-    "status": "active"
-  },
-  {
     "table_id": "bang_f_6",
     "title": "Bảng F.6 - Hệ số khí động áp lực ngoài $c_e$ cho mái dốc bốn phía",
     "number": "F.6",
@@ -284,15 +194,6 @@
     "number": "F.7",
     "csv_path": "tables/csv/bang_f_7.csv",
     "json_path": "tables/json/bang_f_7.json",
-    "rows_count": 3,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_33",
-    "title": "Bảng raw_33",
-    "number": "raw_33",
-    "csv_path": "tables/csv/bang_raw_33.csv",
-    "json_path": "tables/json/bang_raw_33.json",
     "rows_count": 3,
     "status": "active"
   },
@@ -315,33 +216,6 @@
     "status": "active"
   },
   {
-    "table_id": "bang_raw_36",
-    "title": "Bảng raw_36",
-    "number": "raw_36",
-    "csv_path": "tables/csv/bang_raw_36.csv",
-    "json_path": "tables/json/bang_raw_36.json",
-    "rows_count": 1,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_37",
-    "title": "Bảng raw_37",
-    "number": "raw_37",
-    "csv_path": "tables/csv/bang_raw_37.csv",
-    "json_path": "tables/json/bang_raw_37.json",
-    "rows_count": 1,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_38",
-    "title": "Bảng raw_38",
-    "number": "raw_38",
-    "csv_path": "tables/csv/bang_raw_38.csv",
-    "json_path": "tables/json/bang_raw_38.json",
-    "rows_count": 1,
-    "status": "active"
-  },
-  {
     "table_id": "bang_f_10",
     "title": "Bảng F.10 - Các giá trị $\\beta_{min}$, $\\beta_b$, $c_{min}$ và $c_b$",
     "number": "F.10",
@@ -360,48 +234,12 @@
     "status": "active"
   },
   {
-    "table_id": "bang_raw_41",
-    "title": "Bảng raw_41",
-    "number": "raw_41",
-    "csv_path": "tables/csv/bang_raw_41.csv",
-    "json_path": "tables/json/bang_raw_41.json",
-    "rows_count": 1,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_42",
-    "title": "Bảng raw_42",
-    "number": "raw_42",
-    "csv_path": "tables/csv/bang_raw_42.csv",
-    "json_path": "tables/json/bang_raw_42.json",
-    "rows_count": 1,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_43",
-    "title": "Bảng raw_43",
-    "number": "raw_43",
-    "csv_path": "tables/csv/bang_raw_43.csv",
-    "json_path": "tables/json/bang_raw_43.json",
-    "rows_count": 1,
-    "status": "active"
-  },
-  {
     "table_id": "bang_f_12",
     "title": "Bảng F.12 - Hệ số $c_{x∞}$ cho tiết diện n góc và các cấu kiện kết cấu (dạng định hình)",
     "number": "F.12",
     "csv_path": "tables/csv/bang_f_12.csv",
     "json_path": "tables/json/bang_f_12.json",
     "rows_count": 5,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_45",
-    "title": "Bảng raw_45",
-    "number": "raw_45",
-    "csv_path": "tables/csv/bang_raw_45.csv",
-    "json_path": "tables/json/bang_raw_45.json",
-    "rows_count": 1,
     "status": "active"
   },
   {
@@ -414,30 +252,12 @@
     "status": "active"
   },
   {
-    "table_id": "bang_raw_47",
-    "title": "Bảng raw_47",
-    "number": "raw_47",
-    "csv_path": "tables/csv/bang_raw_47.csv",
-    "json_path": "tables/json/bang_raw_47.json",
-    "rows_count": 1,
-    "status": "active"
-  },
-  {
     "table_id": "bang_f_14",
     "title": "Bảng F.14 - Hệ số $k_1$",
     "number": "F.14",
     "csv_path": "tables/csv/bang_f_14.csv",
     "json_path": "tables/json/bang_f_14.json",
     "rows_count": 4,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_49",
-    "title": "Bảng raw_49",
-    "number": "raw_49",
-    "csv_path": "tables/csv/bang_raw_49.csv",
-    "json_path": "tables/json/bang_raw_49.json",
-    "rows_count": 1,
     "status": "active"
   },
   {
@@ -459,39 +279,12 @@
     "status": "active"
   },
   {
-    "table_id": "bang_raw_52",
-    "title": "Bảng raw_52",
-    "number": "raw_52",
-    "csv_path": "tables/csv/bang_raw_52.csv",
-    "json_path": "tables/json/bang_raw_52.json",
-    "rows_count": 3,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_53",
-    "title": "Bảng raw_53",
-    "number": "raw_53",
-    "csv_path": "tables/csv/bang_raw_53.csv",
-    "json_path": "tables/json/bang_raw_53.json",
-    "rows_count": 2,
-    "status": "active"
-  },
-  {
     "table_id": "bang_g_1",
     "title": "Bảng G.1 - Độ võng đứng giới hạn $f_u$ và tải trọng tương ứng để xác định độ võng đứng f",
     "number": "G.1",
     "csv_path": "tables/csv/bang_g_1.csv",
     "json_path": "tables/json/bang_g_1.json",
     "rows_count": 18,
-    "status": "active"
-  },
-  {
-    "table_id": "bang_raw_55",
-    "title": "Bảng raw_55",
-    "number": "raw_55",
-    "csv_path": "tables/csv/bang_raw_55.csv",
-    "json_path": "tables/json/bang_raw_55.json",
-    "rows_count": 1,
     "status": "active"
   },
   {

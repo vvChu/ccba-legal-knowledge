@@ -1,8 +1,0 @@
-﻿1),Khi h ≤ b:,ze = h
-2),Khi b < h ≤ 2b:,
-,z > b,ze = h
-,0 < z ≤ b,ze = b
-3),Khi h > 2b:,
-,z ≥ h - b,ze = h
-,b < z < h - b,ze = z
-,0 < z ≤ b,ze = b
