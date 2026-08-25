@@ -10,13 +10,17 @@
 \- Đối với nhà bê tông cốt thép:
 
 <a id="formula-e_1"></a>
-$$G_f = 0{,}8 + \frac{h}{1\,200} \tag{E.1}$$
+$$
+G_f = 0{,}8 + \frac{h}{1\,200} \tag{E.1}
+$$
 <!-- formula_id: "F_TCVN2737_HE_SO_AP_LUC_KHONG_KHI_E1" -->
 
 \- Đối với nhà thép:
 
 <a id="formula-e_2"></a>
-$$G_f = 0{,}85 + \frac{h}{800} \tag{E.2}$$
+$$
+G_f = 0{,}85 + \frac{h}{800} \tag{E.2}
+$$
 <!-- formula_id: "F_TCVN2737_HE_SO_DO_CAO_E2" -->
 
 trong đó:

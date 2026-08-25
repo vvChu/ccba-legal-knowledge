@@ -825,7 +825,9 @@ khi $z_{g}$ < d/2: $c_{z}$ = 0,6.
 
 
 <a id="formula-f_1"></a>
-$$\text{Re} = \frac{d \cdot V(z_e)_{3\,600\text{s},50}}{\nu} 	ag{F.1}$$
+$$
+\text{Re} = \frac{d \cdot V(z_e)_{3\,600\text{s},50}}{\nu} \tag{F.1}
+$$
 <!-- formula_id: "F_TCVN2737_SO_REYNOLD_F1" -->
 
 trong đó:
@@ -838,7 +840,9 @@ trong đó:
 
 
 <a id="formula-f_2"></a>
-$$V(z_e)_{3\,600\text{s},50} = \bar{b} \left(\frac{z_e}{10}\right)^{\bar{\alpha}} V_{3\text{s},50} 	ag{F.2}$$
+$$
+V(z_e)_{3\,600\text{s},50} = \bar{b} \left(\frac{z_e}{10}\right)^{\bar{\alpha}} V_{3\text{s},50} \tag{F.2}
+$$
 <!-- formula_id: "F_TCVN2737_VAN_TOC_GIO_F2" -->
 
 với:
@@ -861,7 +865,9 @@ $z_{e}$ là độ cao tương đương, tính bằng mét (m).
 
 
 <a id="formula-f_3"></a>
-$$c_{e1} = k_{\lambda 1} c_\beta 	ag{F.3}$$
+$$
+c_{e1} = k_{\lambda 1} c_\beta \tag{F.3}
+$$
 <!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F3" -->
 
 trong đó:
@@ -923,7 +929,9 @@ trong đó:
 
 
 <a id="formula-f_4"></a>
-$$c_x = k_\lambda c_{x\infty} 	ag{F.4}$$
+$$
+c_x = k_\lambda c_{x\infty} \tag{F.4}
+$$
 <!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F4" -->
 
 trong đó:
@@ -953,7 +961,9 @@ trong đó:
 
 
 <a id="formula-f_5"></a>
-$$c_{x\beta} = c_x \sin^2 \beta 	ag{F.5}$$
+$$
+c_{x\beta} = c_x \sin^2 \beta \tag{F.5}
+$$
 <!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F5" -->
 
 trong đó
@@ -997,7 +1007,9 @@ $z_{e}$ lấy bằng khoảng cách từ mặt đất đến trục của công 
 
 
 <a id="formula-f_6"></a>
-$$c_x = k_\lambda c_{x\infty} 	ag{F.6}$$
+$$
+c_x = k_\lambda c_{x\infty} \tag{F.6}
+$$
 <!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F6" -->
 
 trong đó:
@@ -1056,7 +1068,9 @@ Hệ số khí động $c_{x}$ của kết cấu rỗng phẳng đứng độc l
 
 
 <a id="formula-f_7"></a>
-$$c_x = \frac{\sum c_{xi} A_i}{A_c} 	ag{F.7}$$
+$$
+c_x = \frac{\sum c_{xi} A_i}{A_c} \tag{F.7}
+$$
 <!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F7" -->
 
 trong đó
@@ -1127,7 +1141,9 @@ Hệ số khí động $c_{t}$ của tháp rỗng và giàn không gian (Hình F
 
 
 <a id="formula-f_8"></a>
-$$c_t = c_x (1 + \eta) k_1 	ag{F.8}$$
+$$
+c_t = c_x (1 + \eta) k_1 \tag{F.8}
+$$
 <!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F8" -->
 
 trong đó:
@@ -1167,7 +1183,9 @@ Hệ số đặc của kết cấu φ được xác định theo công thức:
 
 
 <a id="formula-f_9"></a>
-$$\varphi = \frac{\sum A_i}{A_c} = \frac{A}{A_c} 	ag{F.9}$$
+$$
+\varphi = \frac{\sum A_i}{A_c} = \frac{A}{A_c} \tag{F.9}
+$$
 <!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F9" -->
 
 trong đó:

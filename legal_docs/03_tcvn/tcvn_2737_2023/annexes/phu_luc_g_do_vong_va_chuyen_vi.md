@@ -151,7 +151,9 @@ $f_{2}$ - Độ võng của kết cấu vì kèo gần kết cấu vì kèo ch�
 
 
 <a id="formula-g_1"></a>
-$$f_u = \frac{g(p + p_1 + q)}{30n^2 (bp + p_1 + q)} 	ag{G.1}$$
+$$
+f_u = \frac{g(p + p_1 + q)}{30n^2 (bp + p_1 + q)} \tag{G.1}
+$$
 <!-- formula_id: "F_TCVN2737_DO_VONG_GIOI_HAN_G1" -->
 
 trong đó:

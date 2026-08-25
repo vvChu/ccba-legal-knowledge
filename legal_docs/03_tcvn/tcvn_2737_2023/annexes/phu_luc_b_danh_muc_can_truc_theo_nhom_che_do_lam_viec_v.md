@@ -35,7 +35,9 @@
 **B.2.1**  Giá trị tiêu chuẩn $F_k$ của tải trọng ngang, hướng dọc theo đường cẩu và sinh ra do va chạm của cần trục vào gối chặn cuối đường ray được xác định theo công thức:
 
 <a id="formula-b_1"></a>
-$$F_k = rac{m v^2}{f} \tag{B.1}$$
+$$
+F_k = \frac{m v^2}{f} \tag{B.1}
+$$
 <!-- formula_id: "F_TCVN2737_LUC_VA_CHAM_B1" -->
 
 trong đó:
@@ -47,7 +49,9 @@ trong đó:
 \- $m$ là khối lượng quy đổi của cần trục, được xác định theo công thức:
 
 <a id="formula-b_2"></a>
-$$m = rac{m_b}{2} + (m_c + k m_q) rac{L - L_1}{L} \tag{B.2}$$
+$$
+m = \frac{m_b}{2} + (m_c + k m_q) \frac{L - L_1}{L} \tag{B.2}
+$$
 <!-- formula_id: "F_TCVN2737_KHOI_LUONG_QUY_DOI_B2" -->
 
 trong đó:
@@ -65,7 +69,9 @@ trong đó:
 **B.2.2**  Giá trị tính toán $F_d$ của tải trọng ngang do va chạm đang xét được xác định theo công thức:
 
 <a id="formula-b_3"></a>
-$$F_d = \gamma_f F_k \tag{B.3}$$
+$$
+F_d = \gamma_f F_k \tag{B.3}
+$$
 <!-- formula_id: "F_TCVN2737_LUC_VA_CHAM_TINH_TOAN_B3" -->
 
 trong đó:
