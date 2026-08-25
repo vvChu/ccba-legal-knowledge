@@ -11,7 +11,7 @@
 
 - [Toàn văn Thân Quy Chuẩn (Markdown OKF v2.2)](./tcvn_2737_2023.md) — Thân văn bản quy phạm kỹ thuật thuần khiết.
 - [Metadata Pháp lý & Thuộc tính (YAML)](./metadata.yaml) — Thông số hiệu lực, ban hành, mã băm PDF SHA-256.
-- [Cây Cú Pháp Điều Khoản (AST Clauses JSON)](./clauses.json) — 353 nodes điều khoản phục vụ AI QC & RAG.
-- [Bộ Đánh Giá Độ Chính Xác (QA Benchmark)](./qa_benchmark.json) — 353 cặp câu hỏi - câu trả lời đối soát.
+- [Cây Cú Pháp Điều Khoản (AST Clauses JSON)](./clauses.json) — 366 nodes điều khoản phục vụ AI QC & RAG.
+- [Bộ Đánh Giá Độ Chính Xác (QA Benchmark)](./qa_benchmark.json) — 366 cặp câu hỏi - câu trả lời đối soát.
 - [Kho Module Phụ Lục Kỹ Thuật (Templates Directory)](./templates/) — 0 Module Phụ lục Markdown.
 - [Bảng Tra Cứu Số Hóa (Tables Directory)](./tables/) — 37 Bảng tra cứu số học (CSV + JSON).

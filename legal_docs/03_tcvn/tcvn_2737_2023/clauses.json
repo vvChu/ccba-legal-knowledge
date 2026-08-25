@@ -1251,13 +1251,130 @@
     "line_end": 1486
   },
   {
+    "clause_id": "muc-11",
+    "anchor": "muc-11",
+    "title": "11  ĐỘ VÕNG VÀ CHUYỂN VỊ",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1496,
+    "line_end": 1496
+  },
+  {
+    "clause_id": "muc-11-1",
+    "anchor": "muc-11-1",
+    "title": "11.1  Phạm vi áp dụng",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1500,
+    "line_end": 1500
+  },
+  {
+    "clause_id": "muc-11-2",
+    "anchor": "muc-11-2",
+    "title": "11.2  Yêu cầu chung",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1510,
+    "line_end": 1510
+  },
+  {
+    "clause_id": "muc-11-2-1",
+    "anchor": "muc-11-2-1",
+    "title": "11.2.1  Khi tính toán các kết cấu xây dựng cần phải thỏa mãn điều kiện:",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1514,
+    "line_end": 1514
+  },
+  {
     "clause_id": "formula-25",
     "anchor": "formula-25",
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1510,
-    "line_end": 1510
+    "line_start": 1518,
+    "line_end": 1518
+  },
+  {
+    "clause_id": "muc-11-2-2",
+    "anchor": "muc-11-2-2",
+    "title": "11.2.2  Các tình huống tính toán mà trong đó cần xác định độ võng và chuyển vị, các tải trọng tương ứng với chúng, cũng như các yêu cầu liên quan đến độ vồng thi công được nêu trong G.1.5 (Phụ lục G).",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1545,
+    "line_end": 1545
+  },
+  {
+    "clause_id": "muc-11-2-3",
+    "anchor": "muc-11-2-3",
+    "title": "11.2.3  Độ võng của các cấu kiện kết cấu theo yêu cầu thẩm mỹ - tâm lý không cần phải khống chế nếu độ võng này không làm xấu đi hình dáng bên ngoài của kết cấu (ví dụ: mái màng, mái đua nghiêng, kết cấu có cánh dưới treo hoặc nâng cao), hoặc nếu các cấu kiện kết cấu bị khuất tầm nhìn.",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1549,
+    "line_end": 1549
+  },
+  {
+    "clause_id": "muc-11-2-4",
+    "anchor": "muc-11-2-4",
+    "title": "11.2.4  Đối với các cấu kiện của mái cần phải đảm bảo sao cho ngay cả khi tính cả độ võng của chúng thì độ dốc của mái theo một trong các phương không nhỏ hơn 1/200 (trừ các trường hợp được nêu trong các tiêu chuẩn khác).",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1555,
+    "line_end": 1555
+  },
+  {
+    "clause_id": "muc-11-2-5",
+    "anchor": "muc-11-2-5",
+    "title": "11.2.5  Hệ số động lực $\\xi$ đối với các tải trọng do xe bốc xếp, xe điện nâng chuyển di động, cầu trục và cần trục treo lấy bằng 1,0.",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1559,
+    "line_end": 1559
+  },
+  {
+    "clause_id": "muc-11-3",
+    "anchor": "muc-11-3",
+    "title": "11.3  Độ võng giới hạn",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1563,
+    "line_end": 1563
+  },
+  {
+    "clause_id": "muc-11-3-1",
+    "anchor": "muc-11-3-1",
+    "title": "11.3.1  Độ võng giới hạn của các cấu kiện kết cấu của mái và sàn tầng theo các yêu cầu về công nghệ, cấu tạo và tâm sinh lý cần được tính từ trục uốn của cấu kiện tương ứng với trạng thái tại thời điểm đặt tải trọng gây ra độ võng cần tính, còn theo yêu cầu thẩm mỹ - tâm lý thì được tính từ đường thẳng nối các gối tựa của các cấu kiện này (xem cùng G.1.7, Phụ lục G).",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1567,
+    "line_end": 1567
+  },
+  {
+    "clause_id": "muc-11-3-2",
+    "anchor": "muc-11-3-2",
+    "title": "11.3.2  Khoảng cách (khe hở) từ đỉnh xe con của cầu trục đến điểm dưới cùng của kết cấu chịu lực bị võng của mái (hoặc các vật gắn với chúng) lấy không nhỏ hơn 100 mm.",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1571,
+    "line_end": 1571
+  },
+  {
+    "clause_id": "muc-11-3-3",
+    "anchor": "muc-11-3-3",
+    "title": "11.3.3  Độ võng giới hạn đối với các tình huống tính toán khác nhau được nêu trong G.2, Phụ lục G.",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1575,
+    "line_end": 1575
+  },
+  {
+    "clause_id": "muc-11-4",
+    "anchor": "muc-11-4",
+    "title": "11.4  Chuyển vị giới hạn",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1579,
+    "line_end": 1579
   },
   {
     "clause_id": "phu-luc-a",
@@ -1265,8 +1382,8 @@
     "title": "PHỤ LỤC A  (Tham khảo)  TRỌNG LƯỢNG ĐƠN VỊ CỦA VẬT LIỆU",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1559,
-    "line_end": 1559
+    "line_start": 1585,
+    "line_end": 1585
   },
   {
     "clause_id": "muc-a-1",
@@ -1274,8 +1391,8 @@
     "title": "A.1  Trọng lượng đơn vị của một số vật liệu có thể tham khảo trong Bảng A.1.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1563,
-    "line_end": 1563
+    "line_start": 1589,
+    "line_end": 1589
   },
   {
     "clause_id": "bang-bang-a-1",
@@ -1283,8 +1400,8 @@
     "title": "Bảng A.1 - Trọng lượng đơn vị của một số vật liệu",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1569,
-    "line_end": 1569
+    "line_start": 1595,
+    "line_end": 1595
   },
   {
     "clause_id": "muc-a-2",
@@ -1292,8 +1409,8 @@
     "title": "A.2  Để có thêm thông tin, trọng lượng đơn vị của các vật liệu khác có thể tham khảo trong các tiêu chuẩn sản phẩm và các tài liệu kỹ thuật do nhà sản xuất, chế tạo công bố.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1581,
-    "line_end": 1581
+    "line_start": 1607,
+    "line_end": 1607
   },
   {
     "clause_id": "phu-luc-b",
@@ -1301,8 +1418,8 @@
     "title": "PHỤ LỤC B  (Quy định)  DANH MỤC CẦN TRỤC THEO NHÓM CHẾ ĐỘ LÀM VIỆC VÀ TẢI TRỌNG VA CHẠM CỦA CẦN TRỤC VỚI GỐI CHẶN CUỐI ĐƯỜNG RAY",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1585,
-    "line_end": 1585
+    "line_start": 1611,
+    "line_end": 1611
   },
   {
     "clause_id": "muc-b-1",
@@ -1310,8 +1427,8 @@
     "title": "B.1  Danh mục một số cần trục theo nhóm chế độ làm việc",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1589,
-    "line_end": 1589
+    "line_start": 1615,
+    "line_end": 1615
   },
   {
     "clause_id": "bang-bang-b-1",
@@ -1319,8 +1436,8 @@
     "title": "Bảng B.1 - Danh mục một số cần trục theo nhóm chế độ làm việc",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1593,
-    "line_end": 1593
+    "line_start": 1619,
+    "line_end": 1619
   },
   {
     "clause_id": "muc-b-2",
@@ -1328,8 +1445,8 @@
     "title": "B.2  Tải trọng do va chạm cần trục với gối chặn cuối đường ray",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1614,
-    "line_end": 1614
+    "line_start": 1640,
+    "line_end": 1640
   },
   {
     "clause_id": "muc-b-2-1",
@@ -1337,8 +1454,8 @@
     "title": "B.2.1  Giá trị tiêu chuẩn $F_k$ của tải trọng ngang, hướng dọc theo đường cẩu và sinh ra do va chạm của cần trục vào gối chặn cuối đường ray được xác định theo công thức:",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1618,
-    "line_end": 1618
+    "line_start": 1644,
+    "line_end": 1644
   },
   {
     "clause_id": "formula-b_1",
@@ -1346,8 +1463,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1622,
-    "line_end": 1622
+    "line_start": 1648,
+    "line_end": 1648
   },
   {
     "clause_id": "formula-b_2",
@@ -1355,8 +1472,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1645,
-    "line_end": 1645
+    "line_start": 1671,
+    "line_end": 1671
   },
   {
     "clause_id": "muc-b-2-2",
@@ -1364,8 +1481,8 @@
     "title": "B.2.2  Giá trị tính toán $F_d$ của tải trọng ngang do va chạm đang xét được xác định theo công thức:",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1672,
-    "line_end": 1672
+    "line_start": 1698,
+    "line_end": 1698
   },
   {
     "clause_id": "formula-b_3",
@@ -1373,8 +1490,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1676,
-    "line_end": 1676
+    "line_start": 1702,
+    "line_end": 1702
   },
   {
     "clause_id": "bang-bang-b-2",
@@ -1382,8 +1499,8 @@
     "title": "Bảng B.2 - Giá trị giới hạn $F_u$ của tải trọng ngang do va chạm của cần trục với gối chặn cuối đường ray",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1693,
-    "line_end": 1693
+    "line_start": 1719,
+    "line_end": 1719
   },
   {
     "clause_id": "phu-luc-c",
@@ -1391,8 +1508,8 @@
     "title": "PHỤ LỤC C  (Quy định)  PHƯƠNG PHÁP XÁC ĐỊNH MỐC CHUẨN",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1705,
-    "line_end": 1705
+    "line_start": 1731,
+    "line_end": 1731
   },
   {
     "clause_id": "muc-c-1",
@@ -1400,8 +1517,8 @@
     "title": "C.1  Khi xác định hệ số k($z_e$) theo công thức (12), nếu mặt đất xung quanh nhà và công trình không bằng phẳng thì độ cao tương đương $z_e$ được xác định thông qua độ cao z (xem 10.2.4) và z được xác định như sau:",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1709,
-    "line_end": 1709
+    "line_start": 1735,
+    "line_end": 1735
   },
   {
     "clause_id": "hinh-c_1",
@@ -1409,8 +1526,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1726,
-    "line_end": 1726
+    "line_start": 1752,
+    "line_end": 1752
   },
   {
     "clause_id": "phu-luc-d",
@@ -1418,8 +1535,8 @@
     "title": "PHỤ LỤC D  (Tham khảo)  MINH HỌA CÁC DẠNG ĐỊA HÌNH",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1731,
-    "line_end": 1731
+    "line_start": 1757,
+    "line_end": 1757
   },
   {
     "clause_id": "hinh-d_1",
@@ -1427,8 +1544,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1734,
-    "line_end": 1734
+    "line_start": 1760,
+    "line_end": 1760
   },
   {
     "clause_id": "hinh-d_2",
@@ -1436,8 +1553,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1738,
-    "line_end": 1738
+    "line_start": 1764,
+    "line_end": 1764
   },
   {
     "clause_id": "hinh-d_3",
@@ -1445,8 +1562,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1742,
-    "line_end": 1742
+    "line_start": 1768,
+    "line_end": 1768
   },
   {
     "clause_id": "phu-luc-e",
@@ -1454,8 +1571,8 @@
     "title": "PHỤ LỤC E  (Tham khảo)  MỘT SỐ CÔNG THỨC ĐƠN GIẢN TÍNH HỆ SỐ HIỆU ỨNG GIẬT GF VÀ KÍCH THƯỚC TƯƠNG ĐƯƠNG CHO MỘT SỐ MẶT BẰNG PHỨC TẠP CỦA CÔNG TRÌNH",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1747,
-    "line_end": 1747
+    "line_start": 1773,
+    "line_end": 1773
   },
   {
     "clause_id": "muc-e-1",
@@ -1463,8 +1580,8 @@
     "title": "E.1  Một số công thức đơn giản tính hệ số hiệu ứng giật $G_f$",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1751,
-    "line_end": 1751
+    "line_start": 1777,
+    "line_end": 1777
   },
   {
     "clause_id": "formula-e_1",
@@ -1472,8 +1589,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1758,
-    "line_end": 1758
+    "line_start": 1784,
+    "line_end": 1784
   },
   {
     "clause_id": "formula-e_2",
@@ -1481,8 +1598,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1768,
-    "line_end": 1768
+    "line_start": 1794,
+    "line_end": 1794
   },
   {
     "clause_id": "muc-e-2",
@@ -1490,8 +1607,8 @@
     "title": "E.2  Kích thước tương đương cho một số mặt bằng phức tạp của công trình",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1781,
-    "line_end": 1781
+    "line_start": 1807,
+    "line_end": 1807
   },
   {
     "clause_id": "hinh-e_1",
@@ -1499,8 +1616,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1802,
-    "line_end": 1802
+    "line_start": 1828,
+    "line_end": 1828
   },
   {
     "clause_id": "phu-luc-f",
@@ -1508,8 +1625,8 @@
     "title": "PHỤ LỤC F  (Quy định)  HỆ SỐ KHÍ ĐỘNG",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1817,
-    "line_end": 1817
+    "line_start": 1843,
+    "line_end": 1843
   },
   {
     "clause_id": "muc-f-1",
@@ -1517,8 +1634,8 @@
     "title": "F.1  Kết cấu phẳng đứng độc lập",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1821,
-    "line_end": 1821
+    "line_start": 1847,
+    "line_end": 1847
   },
   {
     "clause_id": "muc-f-1-1",
@@ -1526,8 +1643,8 @@
     "title": "F.1.1  Tường phẳng (kể cả tường chắn mái), hàng rào và kết cấu tương tự",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1825,
-    "line_end": 1825
+    "line_start": 1851,
+    "line_end": 1851
   },
   {
     "clause_id": "muc-f-1-1-1",
@@ -1535,8 +1652,8 @@
     "title": "F.1.1.1  Hệ số $c_x$ cho các vùng khác nhau của kết cấu (Hình F.1) lấy theo Bảng F.1.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1829,
-    "line_end": 1829
+    "line_start": 1855,
+    "line_end": 1855
   },
   {
     "clause_id": "muc-f-1-1-2",
@@ -1544,8 +1661,8 @@
     "title": "F.1.1.2  Độ cao tương đương $z_e$ = h.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1833,
-    "line_end": 1833
+    "line_start": 1859,
+    "line_end": 1859
   },
   {
     "clause_id": "muc-f-1-1-3",
@@ -1553,8 +1670,8 @@
     "title": "F.1.1.3  Hệ số đặc của kết cấu $\\varphi$ là tỉ số giữa diện tích phần đặc và diện tích bao của kết cấu.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1837,
-    "line_end": 1837
+    "line_start": 1863,
+    "line_end": 1863
   },
   {
     "clause_id": "hinh-f_1",
@@ -1562,8 +1679,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1846,
-    "line_end": 1846
+    "line_start": 1872,
+    "line_end": 1872
   },
   {
     "clause_id": "bang-bang-f-1",
@@ -1571,8 +1688,8 @@
     "title": "Bảng F.1 - Hệ số $c_x$ cho các vùng trên tường phẳng, hàng rào và kết cấu tương tự (xem Hình F.1)",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1851,
-    "line_end": 1851
+    "line_start": 1877,
+    "line_end": 1877
   },
   {
     "clause_id": "muc-f-1-2",
@@ -1580,8 +1697,8 @@
     "title": "F.1.2  Bảng quảng cáo",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1867,
-    "line_end": 1867
+    "line_start": 1893,
+    "line_end": 1893
   },
   {
     "clause_id": "hinh-f_2",
@@ -1589,8 +1706,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1876,
-    "line_end": 1876
+    "line_start": 1902,
+    "line_end": 1902
   },
   {
     "clause_id": "muc-f-2",
@@ -1598,8 +1715,8 @@
     "title": "F.2  Mái bằng",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1881,
-    "line_end": 1881
+    "line_start": 1907,
+    "line_end": 1907
   },
   {
     "clause_id": "muc-f-2-1",
@@ -1607,8 +1724,8 @@
     "title": "F.2.1  Mái được coi là mái bằng khi có góc dốc $\\alpha$ trong khoảng - 5° < $\\alpha$ < 5°.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1885,
-    "line_end": 1885
+    "line_start": 1911,
+    "line_end": 1911
   },
   {
     "clause_id": "muc-f-2-2",
@@ -1616,8 +1733,8 @@
     "title": "F.2.2  Mái được chia thành các vùng như trên Hình F.3.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1889,
-    "line_end": 1889
+    "line_start": 1915,
+    "line_end": 1915
   },
   {
     "clause_id": "muc-f-2-3",
@@ -1625,8 +1742,8 @@
     "title": "F.2.3  Đối với mái bằng và mái có các cạnh bo tròn hoặc vát góc (Hình F.3b), độ cao tương đương lấy bằng $z_e$ = h. Đối với mái bằng có tường chắn mái (xem Hình F.3a), độ cao tương đương lấy bằng $z_e$ = h + $h_p$.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1893,
-    "line_end": 1893
+    "line_start": 1919,
+    "line_end": 1919
   },
   {
     "clause_id": "muc-f-2-4",
@@ -1634,8 +1751,8 @@
     "title": "F.2.4  Hệ số khí động áp lực $c_e$ cho từng vùng lấy theo Bảng F.2.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1897,
-    "line_end": 1897
+    "line_start": 1923,
+    "line_end": 1923
   },
   {
     "clause_id": "hinh-f_3",
@@ -1643,8 +1760,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1905,
-    "line_end": 1905
+    "line_start": 1931,
+    "line_end": 1931
   },
   {
     "clause_id": "bang-bang-f-2",
@@ -1652,8 +1769,8 @@
     "title": "Bảng F.2 - Hệ số $c_e$ cho mái bằng",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1910,
-    "line_end": 1910
+    "line_start": 1936,
+    "line_end": 1936
   },
   {
     "clause_id": "muc-f-3",
@@ -1661,8 +1778,8 @@
     "title": "F.3  Mái dốc một phía",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1930,
-    "line_end": 1930
+    "line_start": 1956,
+    "line_end": 1956
   },
   {
     "clause_id": "muc-f-3-1",
@@ -1670,8 +1787,8 @@
     "title": "F.3.1  Mái dốc một phía, bao gồm cả các phần nhô ra, được chia thành các vùng như trên Hình F.4.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1934,
-    "line_end": 1934
+    "line_start": 1960,
+    "line_end": 1960
   },
   {
     "clause_id": "muc-f-3-2",
@@ -1679,8 +1796,8 @@
     "title": "F.3.2  Độ cao tương đương lấy bằng $z_e$ = h.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1938,
-    "line_end": 1938
+    "line_start": 1964,
+    "line_end": 1964
   },
   {
     "clause_id": "muc-f-3-3",
@@ -1688,8 +1805,8 @@
     "title": "F.3.3  Hệ số khí động áp lực $c_e$ được xác định cho từng vùng theo các bảng F3a và F.3b.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1942,
-    "line_end": 1942
+    "line_start": 1968,
+    "line_end": 1968
   },
   {
     "clause_id": "hinh-f_4",
@@ -1697,8 +1814,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1954,
-    "line_end": 1954
+    "line_start": 1980,
+    "line_end": 1980
   },
   {
     "clause_id": "bang-bang-f-3a",
@@ -1706,8 +1823,8 @@
     "title": "Bảng F.3a - Hệ số khí động áp lực ngoài $c_e$ cho mái dốc một phía khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 180°",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1959,
-    "line_end": 1959
+    "line_start": 1985,
+    "line_end": 1985
   },
   {
     "clause_id": "bang-bang-f-3b",
@@ -1715,8 +1832,8 @@
     "title": "Bảng F.3b - Hệ số khí động áp lực ngoài $c_e$ cho mái dốc một phía khi góc hướng gió $\\theta$ = 90°",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1980,
-    "line_end": 1980
+    "line_start": 2006,
+    "line_end": 2006
   },
   {
     "clause_id": "muc-f-4",
@@ -1724,8 +1841,8 @@
     "title": "F.4  Nhà mái dốc hai phía có mặt bằng hình chữ nhật",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1994,
-    "line_end": 1994
+    "line_start": 2020,
+    "line_end": 2020
   },
   {
     "clause_id": "muc-f-4-1",
@@ -1733,8 +1850,8 @@
     "title": "F.4.1  Tường thẳng đứng",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1998,
-    "line_end": 1998
+    "line_start": 2024,
+    "line_end": 2024
   },
   {
     "clause_id": "muc-f-4-1-1",
@@ -1742,8 +1859,8 @@
     "title": "F.4.1.1  Hệ số khí động $c_e$ cho các vùng trên các tường của nhà có mặt bằng chữ nhật (Hình F.5a) lấy theo Bảng F.4.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2002,
-    "line_end": 2002
+    "line_start": 2028,
+    "line_end": 2028
   },
   {
     "clause_id": "hinh-f_5a",
@@ -1751,8 +1868,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2007,
-    "line_end": 2007
+    "line_start": 2033,
+    "line_end": 2033
   },
   {
     "clause_id": "hinh-f_5b",
@@ -1760,8 +1877,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2011,
-    "line_end": 2011
+    "line_start": 2037,
+    "line_end": 2037
   },
   {
     "clause_id": "bang-bang-f-4",
@@ -1769,8 +1886,8 @@
     "title": "Bảng F.4 - Hệ số $c_e$ cho tường thẳng đứng của nhà có mặt bằng chữ nhật",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2016,
-    "line_end": 2016
+    "line_start": 2042,
+    "line_end": 2042
   },
   {
     "clause_id": "muc-f-4-1-2",
@@ -1778,8 +1895,8 @@
     "title": "F.4.1.2  Đối với các tường bên có lô gia nhô ra, hệ số khí động ma sát lấy bằng $c_f$ = 0,1.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2027,
-    "line_end": 2027
+    "line_start": 2053,
+    "line_end": 2053
   },
   {
     "clause_id": "muc-f-4-2",
@@ -1787,8 +1904,8 @@
     "title": "F.4.2  Mái dốc hai phía",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2031,
-    "line_end": 2031
+    "line_start": 2057,
+    "line_end": 2057
   },
   {
     "clause_id": "muc-f-4-2-1",
@@ -1796,8 +1913,8 @@
     "title": "F.4.2.1  Mái dốc hai phía được chia thành các vùng như trên Hình F.6.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2035,
-    "line_end": 2035
+    "line_start": 2061,
+    "line_end": 2061
   },
   {
     "clause_id": "muc-f-4-2-2",
@@ -1805,8 +1922,8 @@
     "title": "F.4.2.2  Hệ số khí động áp lực $c_e$ cho các vùng của mái được xác định theo các bảng F.5a và F.5b phụ thuộc vào hướng gió.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2039,
-    "line_end": 2039
+    "line_start": 2065,
+    "line_end": 2065
   },
   {
     "clause_id": "muc-f-4-2-3",
@@ -1814,8 +1931,8 @@
     "title": "F.4.2.3  Đối với mái trơn dài khi góc hướng gió $\\theta$ = 90° (Hình F.6c) thì hệ số khí động ma sát $c_f$ = 0,02.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2043,
-    "line_end": 2043
+    "line_start": 2069,
+    "line_end": 2069
   },
   {
     "clause_id": "hinh-f_6",
@@ -1823,8 +1940,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2066,
-    "line_end": 2066
+    "line_start": 2092,
+    "line_end": 2092
   },
   {
     "clause_id": "bang-bang-f-5a",
@@ -1832,8 +1949,8 @@
     "title": "Bảng F.5a - Hệ số $c_e$ khi góc hướng gió $\\theta$ = 0°",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2071,
-    "line_end": 2071
+    "line_start": 2097,
+    "line_end": 2097
   },
   {
     "clause_id": "bang-bang-f-5b",
@@ -1841,8 +1958,8 @@
     "title": "Bảng F.5b - Hệ số $c_e$ khi góc hướng gió $\\theta$ = 90°",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2096,
-    "line_end": 2096
+    "line_start": 2122,
+    "line_end": 2122
   },
   {
     "clause_id": "muc-f-5",
@@ -1850,8 +1967,8 @@
     "title": "F.5  Mái dốc bốn phía",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2114,
-    "line_end": 2114
+    "line_start": 2140,
+    "line_end": 2140
   },
   {
     "clause_id": "muc-f-5-1",
@@ -1859,8 +1976,8 @@
     "title": "F.5.1  Mái dốc bốn phía, bao gồm cả các phần nhô ra, được chia thành các vùng như trên Hình F.7.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2118,
-    "line_end": 2118
+    "line_start": 2144,
+    "line_end": 2144
   },
   {
     "clause_id": "muc-f-5-2",
@@ -1868,8 +1985,8 @@
     "title": "F.5.2  Độ cao tương đương lấy bằng $z_e$ = h.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2122,
-    "line_end": 2122
+    "line_start": 2148,
+    "line_end": 2148
   },
   {
     "clause_id": "muc-f-5-3",
@@ -1877,8 +1994,8 @@
     "title": "F.5.3  Hệ số khí động áp lực $c_e$ cho từng vùng lấy theo Bảng F.6.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2126,
-    "line_end": 2126
+    "line_start": 2152,
+    "line_end": 2152
   },
   {
     "clause_id": "hinh-f_7",
@@ -1886,8 +2003,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2135,
-    "line_end": 2135
+    "line_start": 2161,
+    "line_end": 2161
   },
   {
     "clause_id": "bang-bang-f-6",
@@ -1895,8 +2012,8 @@
     "title": "Bảng F.6 - Hệ số khí động áp lực ngoài $c_e$ cho mái dốc bốn phía",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2140,
-    "line_end": 2140
+    "line_start": 2166,
+    "line_end": 2166
   },
   {
     "clause_id": "muc-f-6",
@@ -1904,8 +2021,8 @@
     "title": "F.6  Nhà mặt bằng chữ nhật có mái vòm và gần vòm",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2160,
-    "line_end": 2160
+    "line_start": 2186,
+    "line_end": 2186
   },
   {
     "clause_id": "muc-f-6-1",
@@ -1913,8 +2030,8 @@
     "title": "F.6.1  Sự phân bố hệ số khí động $c_e$ cho các vùng A, B, C trên bề mặt mái được thể hiện trên Hình F.8.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2164,
-    "line_end": 2164
+    "line_start": 2190,
+    "line_end": 2190
   },
   {
     "clause_id": "muc-f-6-2",
@@ -1922,8 +2039,8 @@
     "title": "F.6.2  Hệ số khí động $c_e$ cho tường lấy theo Bảng F.4.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2168,
-    "line_end": 2168
+    "line_start": 2194,
+    "line_end": 2194
   },
   {
     "clause_id": "muc-f-6-3",
@@ -1931,8 +2048,8 @@
     "title": "F.6.3  Khi xác định độ cao tương đương $z_e$ theo 10.2.4: h = $h_1$ + 0,7f.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2172,
-    "line_end": 2172
+    "line_start": 2198,
+    "line_end": 2198
   },
   {
     "clause_id": "hinh-f_8",
@@ -1940,8 +2057,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2183,
-    "line_end": 2183
+    "line_start": 2209,
+    "line_end": 2209
   },
   {
     "clause_id": "muc-f-7",
@@ -1949,8 +2066,8 @@
     "title": "F.7  Công trình mặt bằng tròn có mái chỏm cầu và mái nón",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2188,
-    "line_end": 2188
+    "line_start": 2214,
+    "line_end": 2214
   },
   {
     "clause_id": "muc-f-7-1",
@@ -1958,8 +2075,8 @@
     "title": "F.7.1  Đối với mái chỏm cầu (xem Hình F.9a), giá trị hệ số khí động áp lực ngoài $c_e$ lấy không đổi dọc theo các tiết diện song song với B-B. Các giá trị của hệ số $c_e$ tại các vị trí A và C, cũng như tại tiết diện B-B được thể hiện trên Hình F.9a. Đối với các tiết diện trung gian, hệ số $c_e$ được xác định bằng nội suy tuyến tính.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2192,
-    "line_end": 2192
+    "line_start": 2218,
+    "line_end": 2218
   },
   {
     "clause_id": "hinh-f_9a",
@@ -1967,8 +2084,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2199,
-    "line_end": 2199
+    "line_start": 2225,
+    "line_end": 2225
   },
   {
     "clause_id": "muc-f-7-2",
@@ -1976,8 +2093,8 @@
     "title": "F.7.2  Đối với mái nón (xem Hình F.9b), giá trị hệ số khí động áp lực ngoài $c_e$ khi góc dốc của mái 15° < $\\alpha$ < 30° được xác định theo Bảng F.7.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2204,
-    "line_end": 2204
+    "line_start": 2230,
+    "line_end": 2230
   },
   {
     "clause_id": "hinh-f_9b",
@@ -1985,8 +2102,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2209,
-    "line_end": 2209
+    "line_start": 2235,
+    "line_end": 2235
   },
   {
     "clause_id": "bang-bang-f-7",
@@ -1994,8 +2111,8 @@
     "title": "Bảng F.7 - Hệ số khí động áp lực ngoài $c_e$ cho mái nón",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2214,
-    "line_end": 2214
+    "line_start": 2240,
+    "line_end": 2240
   },
   {
     "clause_id": "muc-f-7-3",
@@ -2003,8 +2120,8 @@
     "title": "F.7.3  Đối với mái chỏm cầu và mái nón khi xác định độ cao tương đương $z_e$ theo 10.2.4: h = $h_1$ + 0,7f.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2223,
-    "line_end": 2223
+    "line_start": 2249,
+    "line_end": 2249
   },
   {
     "clause_id": "muc-f-8",
@@ -2012,8 +2129,8 @@
     "title": "F.8  Nhà có cửa trời dọc nhà và nhà có chiều cao thay đổi",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2227,
-    "line_end": 2227
+    "line_start": 2253,
+    "line_end": 2253
   },
   {
     "clause_id": "muc-f-8-1",
@@ -2021,8 +2138,8 @@
     "title": "F.8.1  Đối với các vùng A và B (Hình F.10), hệ số $c_e$ được xác định theo các bảng F.5a và F.5b.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2231,
-    "line_end": 2231
+    "line_start": 2257,
+    "line_end": 2257
   },
   {
     "clause_id": "muc-f-8-2",
@@ -2030,8 +2147,8 @@
     "title": "F.8.2  Đối với các cửa trời của vùng C (Hình F.10b):",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2235,
-    "line_end": 2235
+    "line_start": 2261,
+    "line_end": 2261
   },
   {
     "clause_id": "muc-f-8-3",
@@ -2039,8 +2156,8 @@
     "title": "F.8.3  Đối với các vùng còn lại của mái: $c_e$ = - 0,5.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2246,
-    "line_end": 2246
+    "line_start": 2272,
+    "line_end": 2272
   },
   {
     "clause_id": "muc-f-8-4",
@@ -2048,8 +2165,8 @@
     "title": "F.8.4  Đối với các mặt đứng và tường thẳng đứng của nhà, hệ số $c_e$ được xác định theo Bảng F.2.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2250,
-    "line_end": 2250
+    "line_start": 2276,
+    "line_end": 2276
   },
   {
     "clause_id": "muc-f-8-5",
@@ -2057,8 +2174,8 @@
     "title": "F.8.5  Khi xác định độ cao tương đương $z_e$ theo 10.2.4: h = $h_1$.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2254,
-    "line_end": 2254
+    "line_start": 2280,
+    "line_end": 2280
   },
   {
     "clause_id": "hinh-f_10",
@@ -2066,8 +2183,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2267,
-    "line_end": 2267
+    "line_start": 2293,
+    "line_end": 2293
   },
   {
     "clause_id": "muc-f-9",
@@ -2075,8 +2192,8 @@
     "title": "F.9  Nhà có cửa trời trên đỉnh",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2272,
-    "line_end": 2272
+    "line_start": 2298,
+    "line_end": 2298
   },
   {
     "clause_id": "muc-f-9-1",
@@ -2084,8 +2201,8 @@
     "title": "F.9.1  Đối với cửa trời phía đón gió, hệ số $c_e$ được xác định theo các bảng F.5a và F.5b.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2276,
-    "line_end": 2276
+    "line_start": 2302,
+    "line_end": 2302
   },
   {
     "clause_id": "muc-f-9-2",
@@ -2093,8 +2210,8 @@
     "title": "F.9.2  Đối với các cửa trời còn lại, hệ số $c_e$ được xác định như đối với vùng C (xem F.8).",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2280,
-    "line_end": 2280
+    "line_start": 2306,
+    "line_end": 2306
   },
   {
     "clause_id": "muc-f-9-3",
@@ -2102,8 +2219,8 @@
     "title": "F.9.3  Đối với các phần còn lại của mái: $c_e$ = - 0,5.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2284,
-    "line_end": 2284
+    "line_start": 2310,
+    "line_end": 2310
   },
   {
     "clause_id": "muc-f-9-4",
@@ -2111,8 +2228,8 @@
     "title": "F.9.4  Đối với các mặt đứng và tường thẳng đứng của nhà, hệ số $c_e$ được xác định theo Bảng F.4.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2288,
-    "line_end": 2288
+    "line_start": 2314,
+    "line_end": 2314
   },
   {
     "clause_id": "muc-f-9-5",
@@ -2120,8 +2237,8 @@
     "title": "F.9.5  Khi xác định độ cao tương đương $z_e$ theo 10.2.4: h = $h_1$.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2292,
-    "line_end": 2292
+    "line_start": 2318,
+    "line_end": 2318
   },
   {
     "clause_id": "hinh-f_11",
@@ -2129,8 +2246,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2297,
-    "line_end": 2297
+    "line_start": 2323,
+    "line_end": 2323
   },
   {
     "clause_id": "muc-f-10",
@@ -2138,8 +2255,8 @@
     "title": "F.10  Nhà có mái răng cưa",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2302,
-    "line_end": 2302
+    "line_start": 2328,
+    "line_end": 2328
   },
   {
     "clause_id": "muc-f-10-1",
@@ -2147,8 +2264,8 @@
     "title": "F.10.1  Đối với vùng A (Hình F.13), hệ số $c_e$ được xác định theo các bảng F.5a và F.5b.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2306,
-    "line_end": 2306
+    "line_start": 2332,
+    "line_end": 2332
   },
   {
     "clause_id": "muc-f-10-2",
@@ -2156,8 +2273,8 @@
     "title": "F.10.2  Đối với vùng còn lại của mái, hệ số $c_e$ = - 0,5.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2310,
-    "line_end": 2310
+    "line_start": 2336,
+    "line_end": 2336
   },
   {
     "clause_id": "muc-f-10-3",
@@ -2165,8 +2282,8 @@
     "title": "F.10.3  Đối với các mặt đứng và tường thẳng đứng của nhà, hệ số $c_e$ được xác định theo Bảng F.4.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2314,
-    "line_end": 2314
+    "line_start": 2340,
+    "line_end": 2340
   },
   {
     "clause_id": "muc-f-10-4",
@@ -2174,8 +2291,8 @@
     "title": "F.10.4  Khi xác định độ cao tương đương $z_e$ theo 10.2.4: h = $h_1$.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2318,
-    "line_end": 2318
+    "line_start": 2344,
+    "line_end": 2344
   },
   {
     "clause_id": "muc-f-10-5",
@@ -2183,8 +2300,8 @@
     "title": "F.10.5  Hệ số khí động ma sát cho mái răng cưa $c_f$ = 0,04.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2322,
-    "line_end": 2322
+    "line_start": 2348,
+    "line_end": 2348
   },
   {
     "clause_id": "hinh-f_12",
@@ -2192,8 +2309,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2327,
-    "line_end": 2327
+    "line_start": 2353,
+    "line_end": 2353
   },
   {
     "clause_id": "muc-f-11",
@@ -2201,8 +2318,8 @@
     "title": "F.11  Nhà có góc lõm",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2332,
-    "line_end": 2332
+    "line_start": 2358,
+    "line_end": 2358
   },
   {
     "clause_id": "muc-f-11-1",
@@ -2210,8 +2327,8 @@
     "title": "F.11.1  Hệ số $c_e$ cho tường và mái của nhà có góc lõm (Hình F.13) được nêu trong Bảng F.8.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2336,
-    "line_end": 2336
+    "line_start": 2362,
+    "line_end": 2362
   },
   {
     "clause_id": "hinh-f_13",
@@ -2219,8 +2336,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2341,
-    "line_end": 2341
+    "line_start": 2367,
+    "line_end": 2367
   },
   {
     "clause_id": "bang-bang-f-8",
@@ -2228,8 +2345,8 @@
     "title": "Bảng F.8 - Hệ số $c_e$ cho tường và mái của nhà có góc lõm",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2346,
-    "line_end": 2346
+    "line_start": 2372,
+    "line_end": 2372
   },
   {
     "clause_id": "muc-f-11-2",
@@ -2237,8 +2354,8 @@
     "title": "F.11.2  Khi xác định độ cao tương đương $z_e$ theo 10.2.4: h = $h_1$.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2355,
-    "line_end": 2355
+    "line_start": 2381,
+    "line_end": 2381
   },
   {
     "clause_id": "muc-f-12",
@@ -2246,8 +2363,8 @@
     "title": "F.12  Xét đến áp lực trong",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2359,
-    "line_end": 2359
+    "line_start": 2385,
+    "line_end": 2385
   },
   {
     "clause_id": "muc-f-12-1",
@@ -2255,8 +2372,8 @@
     "title": "F.12.1  Độ hở của tường chắn $\\mu$ được xác định bằng tỉ số giữa tổng diện tích lỗ mở của tường chắn và tổng diện tích tường chắn.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2363,
-    "line_end": 2363
+    "line_start": 2389,
+    "line_end": 2389
   },
   {
     "clause_id": "muc-f-12-2",
@@ -2264,8 +2381,8 @@
     "title": "F.12.2  Khi độ hở $\\mu$ ≤ 5 %: $c_{i1}$ = $c_{i2}$ = ± 0,2. Đối với mỗi tường nhà, dấu “cộng” hoặc “trừ” cần được lựa chọn theo điều kiện thực hiện phương án bất lợi nhất của tải trọng.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2367,
-    "line_end": 2367
+    "line_start": 2393,
+    "line_end": 2393
   },
   {
     "clause_id": "muc-f-12-3",
@@ -2273,8 +2390,8 @@
     "title": "F.12.3  Các hệ số khí động $c_e$ cho mặt ngoài cần được lấy theo F.2 đến F.10.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2373,
-    "line_end": 2373
+    "line_start": 2399,
+    "line_end": 2399
   },
   {
     "clause_id": "hinh-f_14",
@@ -2282,8 +2399,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2380,
-    "line_end": 2380
+    "line_start": 2406,
+    "line_end": 2406
   },
   {
     "clause_id": "muc-f-13",
@@ -2291,8 +2408,8 @@
     "title": "F.13  Mái che",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2385,
-    "line_end": 2385
+    "line_start": 2411,
+    "line_end": 2411
   },
   {
     "clause_id": "hinh-f_15",
@@ -2300,8 +2417,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2398,
-    "line_end": 2398
+    "line_start": 2424,
+    "line_end": 2424
   },
   {
     "clause_id": "bang-bang-f-9",
@@ -2309,8 +2426,8 @@
     "title": "Bảng F.9 - Hệ số $c_e$ cho mái che",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2403,
-    "line_end": 2403
+    "line_start": 2429,
+    "line_end": 2429
   },
   {
     "clause_id": "muc-f-14",
@@ -2318,8 +2435,8 @@
     "title": "F.14  Khối cầu",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2425,
-    "line_end": 2425
+    "line_start": 2451,
+    "line_end": 2451
   },
   {
     "clause_id": "muc-f-14-1",
@@ -2327,8 +2444,8 @@
     "title": "F.14.1  Hệ số khí động cản chính diện $c_x$ của khối cầu khi $z_g$ ≥ d/2 (Hình F.16) được xác định theo các biểu đồ trên Hình F.17 phụ thuộc vào hệ số Reynold Re (xem F.14.4) và độ nhám tương đối $\\delta$ = $\\Delta$/d, trong đó $\\Delta$ là độ nhám bề mặt, tính bằng mét (m) (xem F.19).",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2429,
-    "line_end": 2429
+    "line_start": 2455,
+    "line_end": 2455
   },
   {
     "clause_id": "hinh-f_16",
@@ -2336,8 +2453,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2436,
-    "line_end": 2436
+    "line_start": 2462,
+    "line_end": 2462
   },
   {
     "clause_id": "hinh-f_17",
@@ -2345,8 +2462,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2442,
-    "line_end": 2442
+    "line_start": 2468,
+    "line_end": 2468
   },
   {
     "clause_id": "muc-f-14-2",
@@ -2354,8 +2471,8 @@
     "title": "F.14.2  Hệ số lực nâng khối cầu $c_z$ lấy như sau:",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2447,
-    "line_end": 2447
+    "line_start": 2473,
+    "line_end": 2473
   },
   {
     "clause_id": "muc-f-14-3",
@@ -2363,8 +2480,8 @@
     "title": "F.14.3  Độ cao tương đương $z_e$ (xem 10.2.4): $z_e$ = $z_g$+ d/2.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2455,
-    "line_end": 2455
+    "line_start": 2481,
+    "line_end": 2481
   },
   {
     "clause_id": "muc-f-14-4",
@@ -2372,8 +2489,8 @@
     "title": "F.14.4  Số Reynold Re được xác định theo công thức:",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2459,
-    "line_end": 2459
+    "line_start": 2485,
+    "line_end": 2485
   },
   {
     "clause_id": "formula-f_1",
@@ -2381,8 +2498,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2463,
-    "line_end": 2463
+    "line_start": 2489,
+    "line_end": 2489
   },
   {
     "clause_id": "formula-f_2",
@@ -2390,8 +2507,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2480,
-    "line_end": 2480
+    "line_start": 2506,
+    "line_end": 2506
   },
   {
     "clause_id": "muc-f-15",
@@ -2399,8 +2516,8 @@
     "title": "F.15  Công trình và các cấu kiện kết cấu có bề mặt trụ tròn",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2499,
-    "line_end": 2499
+    "line_start": 2525,
+    "line_end": 2525
   },
   {
     "clause_id": "muc-f-15-1",
@@ -2408,8 +2525,8 @@
     "title": "F.15.1  Hệ số khí động áp lực ngoài $c_{e1}$ (xem Hình F.18) được xác định theo công thức:",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2503,
-    "line_end": 2503
+    "line_start": 2529,
+    "line_end": 2529
   },
   {
     "clause_id": "formula-f_3",
@@ -2417,8 +2534,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2507,
-    "line_end": 2507
+    "line_start": 2533,
+    "line_end": 2533
   },
   {
     "clause_id": "hinh-f_18",
@@ -2426,8 +2543,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2525,
-    "line_end": 2525
+    "line_start": 2551,
+    "line_end": 2551
   },
   {
     "clause_id": "hinh-f_19",
@@ -2435,8 +2552,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2531,
-    "line_end": 2531
+    "line_start": 2557,
+    "line_end": 2557
   },
   {
     "clause_id": "bang-bang-f-10",
@@ -2444,8 +2561,8 @@
     "title": "Bảng F.10 - Các giá trị $\\beta_{min}$, $\\beta_b$, $c_{min}$ và $c_b$",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2536,
-    "line_end": 2536
+    "line_start": 2562,
+    "line_end": 2562
   },
   {
     "clause_id": "muc-f-15-2",
@@ -2453,8 +2570,8 @@
     "title": "F.15.2  Giá trị các hệ số khí động áp lực $c_{e2}$ và $c_i$ (Hình F.18) được nêu trong Bảng F.11. Hệ số $c_i$ cần được kể đến đối với “mái nổi” (cũng có thể gọi là “mái phao”), cũng như khi không có mái.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2547,
-    "line_end": 2547
+    "line_start": 2573,
+    "line_end": 2573
   },
   {
     "clause_id": "bang-bang-f-11",
@@ -2462,8 +2579,8 @@
     "title": "Bảng F.11 - Các hệ số $c_{e2}$ và $c_i$",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2551,
-    "line_end": 2551
+    "line_start": 2577,
+    "line_end": 2577
   },
   {
     "clause_id": "muc-f-15-3",
@@ -2471,8 +2588,8 @@
     "title": "F.15.3  Hệ số khí động cản chính diện $c_x$ được xác định theo công thức:",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2559,
-    "line_end": 2559
+    "line_start": 2585,
+    "line_end": 2585
   },
   {
     "clause_id": "formula-f_4",
@@ -2480,8 +2597,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2563,
-    "line_end": 2563
+    "line_start": 2589,
+    "line_end": 2589
   },
   {
     "clause_id": "hinh-f_20",
@@ -2489,8 +2606,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2579,
-    "line_end": 2579
+    "line_start": 2605,
+    "line_end": 2605
   },
   {
     "clause_id": "muc-f-15-4",
@@ -2498,8 +2615,8 @@
     "title": "F.15.4  Đối với dây dẫn $c_x$ = 1,2.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2584,
-    "line_end": 2584
+    "line_start": 2610,
+    "line_end": 2610
   },
   {
     "clause_id": "muc-f-15-5",
@@ -2507,8 +2624,8 @@
     "title": "F.15.5  Hệ số khí động cản chính diện $c_{x\\beta}$ của các cấu kiện nằm nghiêng (Hình F.21) được xác định theo công thức:",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2588,
-    "line_end": 2588
+    "line_start": 2614,
+    "line_end": 2614
   },
   {
     "clause_id": "formula-f_5",
@@ -2516,8 +2633,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2592,
-    "line_end": 2592
+    "line_start": 2618,
+    "line_end": 2618
   },
   {
     "clause_id": "hinh-f_21",
@@ -2525,8 +2642,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2618,
-    "line_end": 2618
+    "line_start": 2644,
+    "line_end": 2644
   },
   {
     "clause_id": "muc-f-15-6",
@@ -2534,8 +2651,8 @@
     "title": "F.15.6  Số Reynold Re được xác định theo công thức (F.1) trong F.14.4, trong đó:",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2623,
-    "line_end": 2623
+    "line_start": 2649,
+    "line_end": 2649
   },
   {
     "clause_id": "muc-f-16",
@@ -2543,8 +2660,8 @@
     "title": "F.16  Công trình hình lăng trụ và các cấu kiện kết cấu",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2631,
-    "line_end": 2631
+    "line_start": 2657,
+    "line_end": 2657
   },
   {
     "clause_id": "muc-f-16-1",
@@ -2552,8 +2669,8 @@
     "title": "F.16.1  Hệ số khí động cản chính diện $c_x$ của công trình hình lăng trụ được xác định theo công thức:",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2635,
-    "line_end": 2635
+    "line_start": 2661,
+    "line_end": 2661
   },
   {
     "clause_id": "formula-f_6",
@@ -2561,8 +2678,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2639,
-    "line_end": 2639
+    "line_start": 2665,
+    "line_end": 2665
   },
   {
     "clause_id": "hinh-f_22",
@@ -2570,8 +2687,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2655,
-    "line_end": 2655
+    "line_start": 2681,
+    "line_end": 2681
   },
   {
     "clause_id": "bang-bang-f-12",
@@ -2579,8 +2696,8 @@
     "title": "Bảng F.12 - Hệ số $c_{x∞}$ cho tiết diện n góc và các cấu kiện kết cấu (dạng định hình)",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2660,
-    "line_end": 2660
+    "line_start": 2686,
+    "line_end": 2686
   },
   {
     "clause_id": "muc-f-16-2",
@@ -2588,8 +2705,8 @@
     "title": "F.16.2  Hệ số khí động cản chính diện $c_x$ đối với các thanh định hình lấy bằng 1,4 ($c_x$ = 1,4).",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2671,
-    "line_end": 2671
+    "line_start": 2697,
+    "line_end": 2697
   },
   {
     "clause_id": "muc-f-17",
@@ -2597,8 +2714,8 @@
     "title": "F.17  Kết cấu rỗng",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2675,
-    "line_end": 2675
+    "line_start": 2701,
+    "line_end": 2701
   },
   {
     "clause_id": "muc-f-17-1",
@@ -2606,8 +2723,8 @@
     "title": "F.17.1  Chỉ dẫn chung",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2679,
-    "line_end": 2679
+    "line_start": 2705,
+    "line_end": 2705
   },
   {
     "clause_id": "muc-f-17-1-1",
@@ -2615,8 +2732,8 @@
     "title": "F.17.1.1  Các hệ số khí động của kết cấu rỗng được tính trên diện tích các mặt của giàn không gian hoặc diện tích bao của giàn phẳng.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2683,
-    "line_end": 2683
+    "line_start": 2709,
+    "line_end": 2709
   },
   {
     "clause_id": "muc-f-17-1-2",
@@ -2624,8 +2741,8 @@
     "title": "F.17.1.2  Hướng trục x đối với giàn phẳng trùng với hướng gió và vuông góc với mặt phẳng kết cấu giàn; đối với giàn không gian hướng gió tính toán được chỉ trong Bảng 14.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2687,
-    "line_end": 2687
+    "line_start": 2713,
+    "line_end": 2713
   },
   {
     "clause_id": "muc-f-17-2",
@@ -2633,8 +2750,8 @@
     "title": "F.17.2  Kết cấu rỗng phẳng đứng độc lập",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2691,
-    "line_end": 2691
+    "line_start": 2717,
+    "line_end": 2717
   },
   {
     "clause_id": "formula-f_7",
@@ -2642,8 +2759,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2697,
-    "line_end": 2697
+    "line_start": 2723,
+    "line_end": 2723
   },
   {
     "clause_id": "hinh-f_23",
@@ -2651,8 +2768,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2717,
-    "line_end": 2717
+    "line_start": 2743,
+    "line_end": 2743
   },
   {
     "clause_id": "muc-f-17-3",
@@ -2660,8 +2777,8 @@
     "title": "F.17.3  Dãy kết cấu rỗng phẳng song song nhau",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2722,
-    "line_end": 2722
+    "line_start": 2748,
+    "line_end": 2748
   },
   {
     "clause_id": "hinh-f_24",
@@ -2669,8 +2786,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2731,
-    "line_end": 2731
+    "line_start": 2757,
+    "line_end": 2757
   },
   {
     "clause_id": "bang-bang-f-13",
@@ -2678,8 +2795,8 @@
     "title": "Bảng F.13 - Hệ số $\\eta$",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2736,
-    "line_end": 2736
+    "line_start": 2762,
+    "line_end": 2762
   },
   {
     "clause_id": "muc-f-17-4",
@@ -2687,8 +2804,8 @@
     "title": "F.17.4  Tháp rỗng và giàn không gian",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2754,
-    "line_end": 2754
+    "line_start": 2780,
+    "line_end": 2780
   },
   {
     "clause_id": "formula-f_8",
@@ -2696,8 +2813,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2760,
-    "line_end": 2760
+    "line_start": 2786,
+    "line_end": 2786
   },
   {
     "clause_id": "hinh-f_25",
@@ -2705,8 +2822,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2778,
-    "line_end": 2778
+    "line_start": 2804,
+    "line_end": 2804
   },
   {
     "clause_id": "bang-bang-f-14",
@@ -2714,8 +2831,8 @@
     "title": "Bảng F.14 - Hệ số $k_1$",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2783,
-    "line_end": 2783
+    "line_start": 2809,
+    "line_end": 2809
   },
   {
     "clause_id": "muc-f-17-5",
@@ -2723,8 +2840,8 @@
     "title": "F.17.5  Hệ số đặc của kết cấu",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2793,
-    "line_end": 2793
+    "line_start": 2819,
+    "line_end": 2819
   },
   {
     "clause_id": "formula-f_9",
@@ -2732,8 +2849,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2799,
-    "line_end": 2799
+    "line_start": 2825,
+    "line_end": 2825
   },
   {
     "clause_id": "hinh-f_26",
@@ -2741,8 +2858,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2815,
-    "line_end": 2815
+    "line_start": 2841,
+    "line_end": 2841
   },
   {
     "clause_id": "muc-f-18",
@@ -2750,8 +2867,8 @@
     "title": "F.18  Xét đến độ mảnh hiệu dụng của công trình",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2820,
-    "line_end": 2820
+    "line_start": 2846,
+    "line_end": 2846
   },
   {
     "clause_id": "hinh-f_27",
@@ -2759,8 +2876,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2827,
-    "line_end": 2827
+    "line_start": 2853,
+    "line_end": 2853
   },
   {
     "clause_id": "bang-bang-f-15",
@@ -2768,8 +2885,8 @@
     "title": "Bảng F.15 - Độ mảnh hiệu dụng $\\lambda_e$",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2832,
-    "line_end": 2832
+    "line_start": 2858,
+    "line_end": 2858
   },
   {
     "clause_id": "muc-f-19",
@@ -2777,8 +2894,8 @@
     "title": "F.19  Xét đến độ nhám bề mặt ngoài",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2840,
-    "line_end": 2840
+    "line_start": 2866,
+    "line_end": 2866
   },
   {
     "clause_id": "bang-bang-f-16",
@@ -2786,8 +2903,8 @@
     "title": "Bảng F.16 - Độ nhám $\\Delta$ của bề mặt kết cấu",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2848,
-    "line_end": 2848
+    "line_start": 2874,
+    "line_end": 2874
   },
   {
     "clause_id": "phu-luc-g",
@@ -2795,8 +2912,8 @@
     "title": "PHỤ LỤC G  (Quy định)  ĐỘ VÕNG VÀ CHUYỂN VỊ",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2865,
-    "line_end": 2865
+    "line_start": 2891,
+    "line_end": 2891
   },
   {
     "clause_id": "muc-g-1",
@@ -2804,8 +2921,8 @@
     "title": "G.1  Xác định độ võng và chuyển vị",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2869,
-    "line_end": 2869
+    "line_start": 2895,
+    "line_end": 2895
   },
   {
     "clause_id": "muc-g-1-1",
@@ -2813,8 +2930,8 @@
     "title": "G.1.1  Khi xác định độ võng và chuyển vị cần phải kể đến tất cả các yếu tố chính ảnh hưởng đến giá trị của chúng (biến dạng không đàn hồi của vật liệu, sự hình thành vết nứt, việc xét đến sơ đồ biến dạng, việc xét đến các kết cấu liền kề, độ mềm dẻo của các nút liên kết và nền). Khi có đủ cơ sở, có thể không cần tính đến một số yếu tố nào đó hoặc tính đến bằng phương pháp gần đúng.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2873,
-    "line_end": 2873
+    "line_start": 2899,
+    "line_end": 2899
   },
   {
     "clause_id": "muc-g-1-2",
@@ -2822,8 +2939,8 @@
     "title": "G.1.2  Đối với kết cấu dùng loại vật liệu có tính từ biến thì phải kể đến sự tăng độ võng theo thời gian. Khi khống chế độ võng theo yêu cầu tâm sinh lý thì chỉ kể đến từ biến ngắn hạn xuất hiện ngay sau khi đặt tải, còn theo yêu cầu công nghệ và cấu tạo (trừ khi tính toán kể đến tải trọng gió), thẩm mỹ - tâm lý thì kể đến từ biến toàn phần.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2877,
-    "line_end": 2877
+    "line_start": 2903,
+    "line_end": 2903
   },
   {
     "clause_id": "muc-g-1-3",
@@ -2831,8 +2948,8 @@
     "title": "G.1.3  Khi xác định độ võng ngang của cột nhà một tầng và của trụ cầu cạn do tải trọng ngang của cần trục cần chọn sơ đồ tính của cột (trụ) có kể đến điều kiện liên kết với giả thiết:",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2881,
-    "line_end": 2881
+    "line_start": 2907,
+    "line_end": 2907
   },
   {
     "clause_id": "muc-g-1-4",
@@ -2840,8 +2957,8 @@
     "title": "G.1.4  Khi kết cấu xây dựng dao động thì việc phân loại dao động, các thông số quy định, các giá trị giới hạn cho phép của chúng đối với nhà ở, nhà công cộng và nhà công nghiệp phải được quy định theo yêu cầu của các tiêu chuẩn có liên quan.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2887,
-    "line_end": 2887
+    "line_start": 2913,
+    "line_end": 2913
   },
   {
     "clause_id": "muc-g-1-5",
@@ -2849,8 +2966,8 @@
     "title": "G.1.5  Tình huống tính toán, mà trong đó phải xác định độ võng, chuyển vị và các tải trọng tương ứng với chúng, phải được lựa chọn tùy thuộc vào việc tính toán được thực hiện theo các yêu cầu nào.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2893,
-    "line_end": 2893
+    "line_start": 2919,
+    "line_end": 2919
   },
   {
     "clause_id": "muc-g-1-6",
@@ -2858,8 +2975,8 @@
     "title": "G.1.6  Độ võng của các cấu kiện của sàn tầng và mái theo yêu cầu cấu tạo không được vượt quá khoảng cách (khe hở) giữa mặt dưới của các cấu kiện đó và mặt trên (đỉnh) của tường ngăn, vách kính, khuôn cửa sổ, khuôn cửa đi và các cấu kiện cấu tạo khác nằm dưới các cấu kiện chịu lực.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2909,
-    "line_end": 2909
+    "line_start": 2935,
+    "line_end": 2935
   },
   {
     "clause_id": "muc-g-1-7",
@@ -2867,8 +2984,8 @@
     "title": "G.1.7  Trong trường hợp giữa các tường có tường ngăn chịu lực (với chiều cao gần bằng chiều cao tường) thì giá trị L trong mục 2a Bảng G.1 lấy bằng khoảng cách giữa mặt trong của các tường chịu lực (hoặc các cột) và các tường ngăn (hoặc giữa mặt trong của các tường ngăn như trên Hình G.1).",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2913,
-    "line_end": 2913
+    "line_start": 2939,
+    "line_end": 2939
   },
   {
     "clause_id": "hinh-g_1",
@@ -2876,8 +2993,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2931,
-    "line_end": 2931
+    "line_start": 2957,
+    "line_end": 2957
   },
   {
     "clause_id": "muc-g-1-8",
@@ -2885,8 +3002,8 @@
     "title": "G.1.8  Độ võng của kết cấu vì kèo khi có đường ray của cần trục treo (Bảng G.1, mục 2c) lấy bằng hiệu các độ võng $f_1$ và $f_2$ của các kết cấu vì kèo liền kề nhau (Hình G.2).",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2936,
-    "line_end": 2936
+    "line_start": 2962,
+    "line_end": 2962
   },
   {
     "clause_id": "hinh-g_2",
@@ -2894,8 +3011,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2953,
-    "line_end": 2953
+    "line_start": 2979,
+    "line_end": 2979
   },
   {
     "clause_id": "muc-g-1-9",
@@ -2903,8 +3020,8 @@
     "title": "G.1.9  Chuyển vị ngang của khung cần được xác định trong mặt phẳng tường và tường ngăn mà tính toàn vẹn của chúng cần được đảm bảo.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2958,
-    "line_end": 2958
+    "line_start": 2984,
+    "line_end": 2984
   },
   {
     "clause_id": "muc-g-2",
@@ -2912,8 +3029,8 @@
     "title": "G.2  Độ võng giới hạn",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2962,
-    "line_end": 2962
+    "line_start": 2988,
+    "line_end": 2988
   },
   {
     "clause_id": "muc-g-2-1",
@@ -2921,8 +3038,8 @@
     "title": "G.2.1  Độ võng đứng giới hạn của cấu kiện kết cấu",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2966,
-    "line_end": 2966
+    "line_start": 2992,
+    "line_end": 2992
   },
   {
     "clause_id": "muc-g-2-2-1",
@@ -2930,8 +3047,8 @@
     "title": "G.2.2.1  Độ võng đứng giới hạn $f_u$ của các cấu kiện kết cấu và tải trọng tương ứng dùng để xác định độ võng f được nêu trong Bảng G.1.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2970,
-    "line_end": 2970
+    "line_start": 2996,
+    "line_end": 2996
   },
   {
     "clause_id": "bang-bang-g-1",
@@ -2939,8 +3056,8 @@
     "title": "Bảng G.1 - Độ võng đứng giới hạn $f_u$ và tải trọng tương ứng để xác định độ võng đứng f",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2974,
-    "line_end": 2974
+    "line_start": 3000,
+    "line_end": 3000
   },
   {
     "clause_id": "muc-g-2-2",
@@ -2948,8 +3065,8 @@
     "title": "G.2.2  Yêu cầu tâm sinh lý",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3000,
-    "line_end": 3000
+    "line_start": 3026,
+    "line_end": 3026
   },
   {
     "clause_id": "formula-g_1",
@@ -2957,8 +3074,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3006,
-    "line_end": 3006
+    "line_start": 3032,
+    "line_end": 3032
   },
   {
     "clause_id": "bang-bang-g-2",
@@ -2966,8 +3083,8 @@
     "title": "Bảng G.2 - Các hệ số p, $p_1$, n, b",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3031,
-    "line_end": 3031
+    "line_start": 3057,
+    "line_end": 3057
   },
   {
     "clause_id": "muc-g-2-3",
@@ -2975,8 +3092,8 @@
     "title": "G.2.3  Độ võng ngang giới hạn của cột và kết cấu hãm do tải trọng cần trục",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3041,
-    "line_end": 3041
+    "line_start": 3067,
+    "line_end": 3067
   },
   {
     "clause_id": "bang-bang-g-3",
@@ -2984,8 +3101,8 @@
     "title": "Bảng G.3 - Độ võng ngang giới hạn $f_{\\mu}$ của cột nhà có cầu trục, trụ cầu cạn, dầm đỡ cầu trục và kết cấu hãm",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3049,
-    "line_end": 3049
+    "line_start": 3075,
+    "line_end": 3075
   },
   {
     "clause_id": "muc-g-2-4",
@@ -2993,8 +3110,8 @@
     "title": "G.2.4  Độ võng ngang giới hạn của nhà, cấu kiện riêng lẻ và trụ đỡ băng tải do tải trọng gió, độ nghiêng của móng và tác động nhiệt khí hậu",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3063,
-    "line_end": 3063
+    "line_start": 3089,
+    "line_end": 3089
   },
   {
     "clause_id": "muc-g-2-4-1",
@@ -3002,8 +3119,8 @@
     "title": "G.2.4.1  Đối với trạng thái giới hạn thứ hai, chuyển vị ngang của nhà không khung do tải trọng gió không cần khống chế giới hạn.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3067,
-    "line_end": 3067
+    "line_start": 3093,
+    "line_end": 3093
   },
   {
     "clause_id": "muc-g-2-4-2",
@@ -3011,8 +3128,8 @@
     "title": "G.2.4.2  Độ võng ngang giới hạn của cột (trụ) nhà khung do tác động của nhiệt khí hậu và lún lấy bằng:",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3071,
-    "line_end": 3071
+    "line_start": 3097,
+    "line_end": 3097
   },
   {
     "clause_id": "muc-g-2-4-3",
@@ -3020,8 +3137,8 @@
     "title": "G.2.4.3  Độ võng ngang giới hạn của các bộ phận cấu tạo của vách kính và tương tự được quy định theo tiêu chuẩn chuyên ngành có liên quan hoặc theo nhiệm vụ thiết kế.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3083,
-    "line_end": 3083
+    "line_start": 3109,
+    "line_end": 3109
   },
   {
     "clause_id": "muc-g-2-5",
@@ -3029,8 +3146,8 @@
     "title": "G.2.5  Độ võng giới hạn và chuyển vị giới hạn của nhà và các cấu kiện riêng lẻ của nhà theo các yêu cầu công nghệ và cấu tạo",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3087,
-    "line_end": 3087
+    "line_start": 3113,
+    "line_end": 3113
   },
   {
     "clause_id": "muc-g-2-5-1",
@@ -3038,8 +3155,8 @@
     "title": "G.2.5.1  Độ võng đứng giới hạn của các cấu kiện kết cấu theo các yêu cầu công nghệ và cấu tạo",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3091,
-    "line_end": 3091
+    "line_start": 3117,
+    "line_end": 3117
   },
   {
     "clause_id": "muc-g-2-5-1-1",
@@ -3047,8 +3164,8 @@
     "title": "G.2.5.1.1  Độ võng đứng giới hạn của cấu kiện kết cấu theo yêu cầu công nghệ và cấu tạo được nêu trong Bảng G.4. Yêu cầu về khe hở giữa các cấu kiện liền kề được nêu trong G.2.5.1.2.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3095,
-    "line_end": 3095
+    "line_start": 3121,
+    "line_end": 3121
   },
   {
     "clause_id": "bang-bang-g-4",
@@ -3056,8 +3173,8 @@
     "title": "Bảng G.4 - Độ võng đứng giới hạn $f_u$ và tải trọng tương ứng để xác định độ võng đứng f",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3099,
-    "line_end": 3099
+    "line_start": 3125,
+    "line_end": 3125
   },
   {
     "clause_id": "muc-g-2-5-1-2",
@@ -3065,8 +3182,8 @@
     "title": "G.2.5.1.2  Khe hở giữa mặt dưới của các cấu kiện của mái, sàn tầng và đỉnh tường ngăn nằm dưới các cấu kiện đó, thông thường, không được vượt quá 40 mm. Trong các trường hợp, khi việc thực hiện các yêu cầu vừa nêu liên quan đến sự tăng độ cứng của sàn tầng và mái thì phải sử dụng các biện pháp cấu tạo để tránh sự tăng độ cứng đó (ví dụ: không bố trí các tường ngăn ngay dưới dầm chịu uốn mà bố trí ở bên cạnh nó).",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3125,
-    "line_end": 3125
+    "line_start": 3151,
+    "line_end": 3151
   },
   {
     "clause_id": "muc-g-2-5-2",
@@ -3074,8 +3191,8 @@
     "title": "G.2.5.2  Độ dịch ngang (dịch vào) giới hạn của đường cẩu, cầu cạn ngoài trời theo yêu cầu công nghệ",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3129,
-    "line_end": 3129
+    "line_start": 3155,
+    "line_end": 3155
   },
   {
     "clause_id": "muc-g-2-5-3",
@@ -3083,8 +3200,8 @@
     "title": "G.2.5.3  Độ võng ngang (chuyển vị ngang) giới hạn của nhà, cấu kiện kết cấu riêng lẻ và trụ đỡ băng tải do tải trọng gió và độ nghiêng của móng",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3135,
-    "line_end": 3135
+    "line_start": 3161,
+    "line_end": 3161
   },
   {
     "clause_id": "muc-g-2-5-3-1",
@@ -3092,8 +3209,8 @@
     "title": "G.2.5.3.1  Chuyển vị ngang giới hạn của nhà theo yêu cầu cấu tạo (đảm bảo sự nguyên vẹn của phần chèn khung như tường, tường ngăn, các bộ phận của cửa đi và cửa sổ) được nêu trong Bảng G.5. Các chỉ dẫn về xác định chuyển vị nêu trong G.2.5.3.2.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3139,
-    "line_end": 3139
+    "line_start": 3165,
+    "line_end": 3165
   },
   {
     "clause_id": "bang-bang-g-5",
@@ -3101,8 +3218,8 @@
     "title": "Bảng G.5 - Chuyển vị ngang giới hạn $f_u$ theo yêu cầu cấu tạo",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3147,
-    "line_end": 3147
+    "line_start": 3173,
+    "line_end": 3173
   },
   {
     "clause_id": "muc-g-2-5-3-2",
@@ -3110,8 +3227,8 @@
     "title": "G.2.5.3.2  Đối với các sơ đồ khung giằng của nhà nhiều tầng có chiều cao trên 40 m thì độ nghiêng của các màng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng tính bằng $f_1$/$h_s$ + $f_2$/L (Hình G.3) không được vượt quá (xem Bảng G.5): 1/500 đối với mục 2a và 1/700 đối với mục 2b và 1/300 đối với mục 2c.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3163,
-    "line_end": 3163
+    "line_start": 3189,
+    "line_end": 3189
   },
   {
     "clause_id": "hinh-g_3",
@@ -3119,8 +3236,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3182,
-    "line_end": 3182
+    "line_start": 3208,
+    "line_end": 3208
   },
   {
     "clause_id": "muc-g-2-5-4",
@@ -3128,8 +3245,8 @@
     "title": "G.2.5.4  Độ vồng của các cấu kiện của sàn tầng do lực nén trước",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3187,
-    "line_end": 3187
+    "line_start": 3213,
+    "line_end": 3213
   },
   {
     "clause_id": "phu-luc-h",
@@ -3137,8 +3254,8 @@
     "title": "PHỤ LỤC H  (Quy định)  HỆ SỐ TẦM QUAN TRỌNG CỦA CÔNG TRÌNH",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3201,
-    "line_end": 3201
+    "line_start": 3227,
+    "line_end": 3227
   },
   {
     "clause_id": "muc-h-1",
@@ -3146,8 +3263,8 @@
     "title": "H.1  Tùy thuộc vào cấp hậu quả của công trình, khi thiết kế cần sử dụng hệ số độ tin cậy về tầm quan trọng của công trình $\\gamma_n$.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3205,
-    "line_end": 3205
+    "line_start": 3231,
+    "line_end": 3231
   },
   {
     "clause_id": "muc-h-2",
@@ -3155,8 +3272,8 @@
     "title": "H.2  Việc phân cấp hậu quả của công trình theo [2] phụ thuộc vào công năng sử dụng, cũng như hậu quả về xã hội, môi trường và kinh tế do sự hư hỏng và phá hoại của nó gây ra.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3209,
-    "line_end": 3209
+    "line_start": 3235,
+    "line_end": 3235
   },
   {
     "clause_id": "muc-h-3",
@@ -3164,8 +3281,8 @@
     "title": "H.3  Hệ số tầm quan trọng của công trình $\\gamma_n$ được lấy theo Bảng H.1 khi tính toán theo trạng thái giới hạn thứ nhất và lấy bằng 1,0 khi tính toán theo trạng thái giới hạn thứ hai.",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3213,
-    "line_end": 3213
+    "line_start": 3239,
+    "line_end": 3239
   },
   {
     "clause_id": "bang-bang-h-1",
@@ -3173,7 +3290,7 @@
     "title": "Bảng H.1 - Giá trị tối thiểu của hệ số tầm quan trọng $\\gamma_n$",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 3217,
-    "line_end": 3217
+    "line_start": 3243,
+    "line_end": 3243
   }
 ]
