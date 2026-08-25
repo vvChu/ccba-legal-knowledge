@@ -4,33 +4,27 @@
 
 
 <a id="muc-e-1"></a>
-### E.1  Một số công thức đơn giản tính hệ số hiệu ứng giật $G_f$
+### E.1  Một số công thức đơn giản tính hệ số hiệu ứng giật $G_{f}$
 
-Đối với nhà cao tầng có hình dạng đều đặn theo chiều cao và có chu kỳ dao động riêng cơ bản thứ nhất $T_1$ > 1 s và chiều cao không quá 150 m, có thể xác định hệ số hiệu ứng giật $G_f$ theo các công thức sau để tính toán sơ bộ:
+Đối với nhà cao tầng có hình dạng đều đặn theo chiều cao và có chu kỳ dao động riêng cơ bản thứ nhất $T_{1}$ > 1 s và chiều cao không quá 150 m, có thể xác định hệ số hiệu ứng giật $G_{f}$ theo các công thức sau để tính toán sơ bộ:
 
-\- Đối với nhà bê tông cốt thép:
+- Đối với nhà bê tông cốt thép:
+
 
 <a id="formula-e_1"></a>
-
-$$
-k_n = 1 - 0,1 \cdot \dots \tag{E.1}
-$$
-
+$$k_n = 1 - 0,1 \cdot \dots 	ag{E.1}$$
 <!-- formula_id: "F_TCVN2737_HE_SO_AP_LUC_KHONG_KHI_E1" -->
 
-\- Đối với nhà thép:
+- Đối với nhà thép:
+
 
 <a id="formula-e_2"></a>
-
-$$
-\dots \tag{E.2}
-$$
-
+$$\dots 	ag{E.2}$$
 <!-- formula_id: "F_TCVN2737_HE_SO_DO_CAO_E2" -->
 
 trong đó:
 
-&nbsp;&nbsp;&nbsp;&nbsp;h là chiều cao công trình, tính bằng mét (m).
+&nbsp;&nbsp;&nbsp;&nbsp;\- h là chiều cao công trình, tính bằng mét (m).
 
 
 <a id="muc-e-2"></a>
@@ -66,11 +60,11 @@ d) Mặt bằng công trình hình chữ Y đơn
 > \- **Phạm vi:** Kích thước tương đương cho các mặt bằng phức tạp (chữ L, U, T, chữ thập, thắt eo)
 > \- **Thông số cơ sở:** b (chiều rộng tương đương), d (chiều sâu tương đương), e = min(b, 2h)
 
-CHÚ THÍCH: $<!-- FORMULA_PLACEHOLDER: 178b7ec0 -->$
+**CHÚ THÍCH:** $<!-- FORMULA_PLACEHOLDER: 178b7ec0 -->$
 
 e) Mặt bằng công trình hình chữ L
 
-CHÚ THÍCH: $<!-- FORMULA_PLACEHOLDER: 841f9c85 -->$
+**CHÚ THÍCH:** $<!-- FORMULA_PLACEHOLDER: 841f9c85 -->$
 
 f) Mặt bằng công trình hình chữ Z
 

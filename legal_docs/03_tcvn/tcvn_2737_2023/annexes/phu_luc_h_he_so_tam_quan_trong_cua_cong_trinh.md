@@ -4,7 +4,7 @@
 
 
 <a id="muc-h-1"></a>
-### H.1  Tùy thuộc vào cấp hậu quả của công trình, khi thiết kế cần sử dụng hệ số độ tin cậy về tầm quan trọng của công trình $\gamma_n$.
+### H.1  Tùy thuộc vào cấp hậu quả của công trình, khi thiết kế cần sử dụng hệ số độ tin cậy về tầm quan trọng của công trình $\gamma_{n}$.
 
 
 <a id="muc-h-2"></a>
@@ -12,19 +12,19 @@
 
 
 <a id="muc-h-3"></a>
-### H.3  Hệ số tầm quan trọng của công trình $\gamma_n$ được lấy theo Bảng H.1 khi tính toán theo trạng thái giới hạn thứ nhất và lấy bằng 1,0 khi tính toán theo trạng thái giới hạn thứ hai.
+### H.3  Hệ số tầm quan trọng của công trình $\gamma_{n}$ được lấy theo Bảng H.1 khi tính toán theo trạng thái giới hạn thứ nhất và lấy bằng 1,0 khi tính toán theo trạng thái giới hạn thứ hai.
 
 
 <a id="bang-bang-h-1"></a>
-### Bảng H.1 - Giá trị tối thiểu của hệ số tầm quan trọng $\gamma_n$
+### Bảng H.1 - Giá trị tối thiểu của hệ số tầm quan trọng $\gamma_{n}$
 
-| Cấp hậu quả của công trình | Mức độ quan trọng của công trình | Giá trị $\gamma_n$ |
+| Cấp hậu quả của công trình | Mức độ quan trọng của công trình | Giá trị $\gamma_{n}$ |
 | :--- | :--- | :---: |
 | C1 | Thấp | 0,87 |
 | C2 | Trung bình | 1,00 |
 | C3 | Cao | 1,15 |
 
-**CHÚ THÍCH:** Đối với nhà cao trên 250 m và mái nhịp lớn (không có trụ trung gian) với nhịp lớn hơn 120 m thì hệ số $\gamma_n$ lấy không nhỏ hơn 1,2.
+**CHÚ THÍCH:** Đối với nhà cao trên 250 m và mái nhịp lớn (không có trụ trung gian) với nhịp lớn hơn 120 m thì hệ số $\gamma_{n}$ lấy không nhỏ hơn 1,2.
 
 Thư mục tài liệu tham khảo
 
@@ -42,7 +42,7 @@ Thư mục tài liệu tham khảo
 
 [7] ASCE/SEI 7-16, Minimum design loads and associated criteria for buildings and other structures (ASCE/SEI 7-16, Tải trọng thiết kế tối thiểu và tiêu chí liên quan đối với nhà và các kết cấu khác)
 
-[8] GOST 27751-2014, 
+[8] GOST 27751-2014,
 
 $<!-- FORMULA_PLACEHOLDER: 99db9ae5 -->$(GOST 27751-2014, Độ tin cậy của kết cấu xây dựng và nền. Yêu cầu chung)
 
@@ -51,6 +51,8 @@ $<!-- FORMULA_PLACEHOLDER: 99db9ae5 -->$(GOST 27751-2014, Độ tin cậy của 
 [10] SP 267.1325800.2016,  (SP 267.1325800.2016 (c $<!-- FORMULA_PLACEHOLDER: 68394c88 -->$ N 1), Nhà và tổ hợp cao tầng. Nguyên tắc thiết kế (cùng sửa đổi 1))
 
 [11] SP 296.1325800.2017,  (c $<!-- FORMULA_PLACEHOLDER: a6d7fa60 -->$ N 1, 2) (SP 296.1325800.2017, Nhà và công trình. Tác động đặc biệt (cùng các sửa đổi 1, 2))
+
+MỤC LỤC
 
 
 <a id="muc-1"></a>
@@ -66,11 +68,11 @@ $<!-- FORMULA_PLACEHOLDER: 99db9ae5 -->$(GOST 27751-2014, Độ tin cậy của 
 
 
 <a id="muc-3-1"></a>
-#### 3.1  Thuật ngữ và định nghĩa
+### 3.1  Thuật ngữ và định nghĩa
 
 
 <a id="muc-3-2"></a>
-#### 3.2  Ký hiệu
+### 3.2  Ký hiệu
 
 
 <a id="muc-4"></a>
@@ -168,13 +170,13 @@ Phụ lục C (quy định) Phương pháp xác định mốc chuẩn
 
 Phụ lục D (tham khảo) Minh họa các dạng địa hình
 
-Phụ lục E (tham khảo) Một số công thức đơn giản tính hệ số hiệu ứng giật $G_f$ và kích thước tương đương cho một số mặt bằng phức tạp của công trình 
+Phụ lục E (tham khảo) Một số công thức đơn giản tính hệ số hiệu ứng giật $G_{f}$ và kích thước tương đương cho một số mặt bằng phức tạp của công trình
 
-Phụ lục F (quy định) Hệ số khí động 
+Phụ lục F (quy định) Hệ số khí động
 
-Phụ lục G (quy định) Độ võng và chuyển vị 
+Phụ lục G (quy định) Độ võng và chuyển vị
 
-Phụ lục H (quy định) Hệ số tầm quan trọng của công trình 
+Phụ lục H (quy định) Hệ số tầm quan trọng của công trình
 
 Thư mục tài liệu tham khảo
 

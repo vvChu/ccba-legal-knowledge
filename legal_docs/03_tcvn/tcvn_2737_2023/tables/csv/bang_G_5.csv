@@ -1,8 +1,8 @@
-"Nhà, tường và tường ngăn","Liên kết giữa tường, tường ngăn với khung nhà",Giá trị $f_u$
+﻿"Nhà, tường và tường ngăn","Liên kết giữa tường, tường ngăn với khung nhà",Giá trị $f_{u}$
 1. Nhà nhiều tầng,Bất kỳ,h/500
 2. Một tầng của nhà nhiều tầng:,,
-"a) Tường và tường ngăn làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép",Cứng,$h_s$/500
-b) Tường (có ốp đá tự nhiên) làm từ gạch ceramic,Cứng,$h_s$/700
-"c) Tường và tường ngăn (có ốp đá tự nhiên) làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép; tường và tường ngăn làm bằng gạch ceramic",Mềm,$h_s$/300
-3. Nhà một tầng (với tường tự chịu lực),Mềm,$h_s$/300
-"Các ký hiệu trong Bảng G.5:<br>h là chiều cao nhà nhiều tầng, lấy bằng khoảng cách từ mặt móng đến trục của xà đỡ mái.<br>$h_s$ là chiều cao tầng của nhà một tầng, lấy bằng khoảng cách từ mặt móng đến mặt dưới của kết cấu vì kèo; trong nhà nhiều tầng: đối với tầng dưới cùng - bằng khoảng cách từ trên mặt móng đến trục của xà đỡ sàn tầng; đối với các tầng còn lại - bằng khoảng cách giữa các trục của các xà liền kề.",,
+"a) Tường và tường ngăn làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép",Cứng,$h_{s}$/500
+b) Tường (có ốp đá tự nhiên) làm từ gạch ceramic,Cứng,$h_{s}$/700
+"c) Tường và tường ngăn (có ốp đá tự nhiên) làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép; tường và tường ngăn làm bằng gạch ceramic",Mềm,$h_{s}$/300
+3. Nhà một tầng (với tường tự chịu lực),Mềm,$h_{s}$/300
+"Các ký hiệu trong Bảng G.5:<br>h là chiều cao nhà nhiều tầng, lấy bằng khoảng cách từ mặt móng đến trục của xà đỡ mái.<br>$h_{s}$ là chiều cao tầng của nhà một tầng, lấy bằng khoảng cách từ mặt móng đến mặt dưới của kết cấu vì kèo; trong nhà nhiều tầng: đối với tầng dưới cùng - bằng khoảng cách từ trên mặt móng đến trục của xà đỡ sàn tầng; đối với các tầng còn lại - bằng khoảng cách giữa các trục của các xà liền kề.",,

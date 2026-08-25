@@ -1,82 +1,151 @@
-[
-  {
-    "Gốc dốc $\\alpha$, °": "Gốc dốc $\\alpha$, °",
-    "Vùng": "F",
-    "": "J"
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "&nbsp;&nbsp;\\- 45",
-    "Vùng": "-0,6",
-    "": ""
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "&nbsp;&nbsp;\\- 30",
-    "Vùng": "-1,1",
-    "": "-0,8"
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "&nbsp;&nbsp;\\- 15",
-    "Vùng": "-2,5",
-    "": "-0,7"
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "&nbsp;&nbsp;\\- 5",
-    "Vùng": "&nbsp;&nbsp;\\- 2,3",
-    "": ""
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "&nbsp;&nbsp;\\- 5",
-    "Vùng": "&nbsp;&nbsp;\\- 2,3",
-    "": ""
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "5",
-    "Vùng": "&nbsp;&nbsp;\\- 1.7",
-    "": ""
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "5",
-    "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,0",
-    "": ""
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "15",
-    "Vùng": "&nbsp;&nbsp;\\- 0,9",
-    "": "&nbsp;&nbsp;\\- 1,0"
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "15",
-    "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,2",
-    "": ""
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "30",
-    "Vùng": "&nbsp;&nbsp;\\- 0,5",
-    "": ""
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "30",
-    "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
-    "": ""
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "45",
-    "Vùng": "&nbsp;&nbsp;\\- 0,0",
-    "": ""
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "45",
-    "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
-    "": ""
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "60",
-    "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
-    "": ""
-  },
-  {
-    "Gốc dốc $\\alpha$, °": "75",
-    "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,8",
-    "": ""
-  }
-]
+{
+  "table_id": "bang_f_5a",
+  "table_number": "F.5a",
+  "table_title": "Bảng F.5a - Hệ số $c_{e}$ khi góc hướng gió θ = 0°",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Gốc dốc α, °": "Gốc dốc α, °",
+      "Vùng": "F",
+      "col_3": "G",
+      "col_4": "H",
+      "col_5": "I",
+      "col_6": "J"
+    },
+    {
+      "_row_id": 2,
+      "Gốc dốc α, °": "&nbsp;&nbsp;\\- 45",
+      "Vùng": "-0,6",
+      "col_3": "-0,8",
+      "col_4": "-0,7",
+      "col_5": "-1,0",
+      "col_6": ""
+    },
+    {
+      "_row_id": 3,
+      "Gốc dốc α, °": "&nbsp;&nbsp;\\- 30",
+      "Vùng": "-1,1",
+      "col_3": "-2,0",
+      "col_4": "-0,8",
+      "col_5": "-0,6",
+      "col_6": "-0,8"
+    },
+    {
+      "_row_id": 4,
+      "Gốc dốc α, °": "&nbsp;&nbsp;\\- 15",
+      "Vùng": "-2,5",
+      "col_3": "-1,3",
+      "col_4": "-0,9",
+      "col_5": "-0,5",
+      "col_6": "-0,7"
+    },
+    {
+      "_row_id": 5,
+      "Gốc dốc α, °": "&nbsp;&nbsp;\\- 5",
+      "Vùng": "&nbsp;&nbsp;\\- 2,3",
+      "col_3": "&nbsp;&nbsp;\\- 1,2",
+      "col_4": "&nbsp;&nbsp;\\- 0,8",
+      "col_5": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,2",
+      "col_6": ""
+    },
+    {
+      "_row_id": 6,
+      "Gốc dốc α, °": "&nbsp;&nbsp;\\- 5",
+      "Vùng": "&nbsp;&nbsp;\\- 2,3",
+      "col_3": "&nbsp;&nbsp;\\- 1,2",
+      "col_4": "&nbsp;&nbsp;\\- 0,8",
+      "col_5": "&nbsp;&nbsp;\\- 0,6",
+      "col_6": ""
+    },
+    {
+      "_row_id": 7,
+      "Gốc dốc α, °": "5",
+      "Vùng": "&nbsp;&nbsp;\\- 1.7",
+      "col_3": "&nbsp;&nbsp;\\- 1,2",
+      "col_4": "&nbsp;&nbsp;\\- 0,6",
+      "col_5": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,2",
+      "col_6": ""
+    },
+    {
+      "_row_id": 8,
+      "Gốc dốc α, °": "5",
+      "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,0",
+      "col_3": "&nbsp;&nbsp;\\- 0,6",
+      "col_4": "",
+      "col_5": "",
+      "col_6": ""
+    },
+    {
+      "_row_id": 9,
+      "Gốc dốc α, °": "15",
+      "Vùng": "&nbsp;&nbsp;\\- 0,9",
+      "col_3": "&nbsp;&nbsp;\\- 0,8",
+      "col_4": "&nbsp;&nbsp;\\- 0,3",
+      "col_5": "&nbsp;&nbsp;\\- 0,4",
+      "col_6": "&nbsp;&nbsp;\\- 1,0"
+    },
+    {
+      "_row_id": 10,
+      "Gốc dốc α, °": "15",
+      "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,2",
+      "col_3": "&nbsp;&nbsp;\\- 0,4",
+      "col_4": "&nbsp;&nbsp;\\- 1,0",
+      "col_5": "",
+      "col_6": ""
+    },
+    {
+      "_row_id": 11,
+      "Gốc dốc α, °": "30",
+      "Vùng": "&nbsp;&nbsp;\\- 0,5",
+      "col_3": "&nbsp;&nbsp;\\- 0,2",
+      "col_4": "&nbsp;&nbsp;\\- 0,4",
+      "col_5": "&nbsp;&nbsp;\\- 0,5",
+      "col_6": ""
+    },
+    {
+      "_row_id": 12,
+      "Gốc dốc α, °": "30",
+      "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+      "col_3": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,4",
+      "col_4": "&nbsp;&nbsp;\\- 0,4",
+      "col_5": "&nbsp;&nbsp;\\- 0,5",
+      "col_6": ""
+    },
+    {
+      "_row_id": 13,
+      "Gốc dốc α, °": "45",
+      "Vùng": "&nbsp;&nbsp;\\- 0,0",
+      "col_3": "&nbsp;&nbsp;\\- 0,2",
+      "col_4": "&nbsp;&nbsp;\\- 0,3",
+      "col_5": "",
+      "col_6": ""
+    },
+    {
+      "_row_id": 14,
+      "Gốc dốc α, °": "45",
+      "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+      "col_3": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,6",
+      "col_4": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,0",
+      "col_5": "",
+      "col_6": ""
+    },
+    {
+      "_row_id": 15,
+      "Gốc dốc α, °": "60",
+      "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+      "col_3": "&nbsp;&nbsp;\\- 0,2",
+      "col_4": "&nbsp;&nbsp;\\- 0,3",
+      "col_5": "",
+      "col_6": ""
+    },
+    {
+      "_row_id": 16,
+      "Gốc dốc α, °": "75",
+      "Vùng": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,8",
+      "col_3": "&nbsp;&nbsp;\\- 0,2",
+      "col_4": "&nbsp;&nbsp;\\- 0,3",
+      "col_5": "",
+      "col_6": ""
+    }
+  ]
+}

@@ -1,37 +1,49 @@
-[
-  {
-    "Khu vực": "Khu vực F: Bãi đỗ xe trong nhà cho phương tiện giao thông có tổng trọng lượng không lớn hơn 30 kN:",
-    "Tải trọng phân bố đều $q_{k,t}$, kN/$m^2$, không nhỏ hơn": "",
-    "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": ""
-  },
-  {
-    "Khu vực": "a) Khu vực đỗ xe",
-    "Tải trọng phân bố đều $q_{k,t}$, kN/$m^2$, không nhỏ hơn": "3,5",
-    "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": "20,0"
-  },
-  {
-    "Khu vực": "b) Đường dốc và đoạn đường vào cửa tầng hầm/nửa hầm",
-    "Tải trọng phân bố đều $q_{k,t}$, kN/$m^2$, không nhỏ hơn": "5,0",
-    "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": "25,0"
-  },
-  {
-    "Khu vực": "Khu vực G: Bãi đỗ xe trong nhà cho phương tiện giao thông có tổng trọng lượng lớn hơn 30 kN nhưng không lớn hơn 160 kN:",
-    "Tải trọng phân bố đều $q_{k,t}$, kN/$m^2$, không nhỏ hơn": "",
-    "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": ""
-  },
-  {
-    "Khu vực": "a) Khu vực đỗ xe",
-    "Tải trọng phân bố đều $q_{k,t}$, kN/$m^2$, không nhỏ hơn": "5,0",
-    "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": "90"
-  },
-  {
-    "Khu vực": "b) Đường dốc và đoạn đường vào cửa tầng hầm/nửa hầm",
-    "Tải trọng phân bố đều $q_{k,t}$, kN/$m^2$, không nhỏ hơn": "7,0",
-    "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": "100"
-  },
-  {
-    "Khu vực": "Khu vực G1: Bãi đỗ xe cho phương tiện giao thông có tổng trọng lượng lớn hơn 160 kN",
-    "Tải trọng phân bố đều $q_{k,t}$, kN/$m^2$, không nhỏ hơn": "Theo nhiệm vụ thiết kế",
-    "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": ""
-  }
-]
+{
+  "table_id": "bang_05",
+  "table_number": "5",
+  "table_title": "Bảng 5 - Giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn tương đương thẳng đứng phân bố đều và cục bộ lên các sàn (sàn tầng, sàn mái và sàn trên nền đất) của bãi đỗ xe",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Khu vực": "Khu vực F: Bãi đỗ xe trong nhà cho phương tiện giao thông có tổng trọng lượng không lớn hơn 30 kN:",
+      "Tải trọng phân bố đều $q_{k,t}$, kN/$m^{2}$, không nhỏ hơn": "",
+      "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": ""
+    },
+    {
+      "_row_id": 2,
+      "Khu vực": "a) Khu vực đỗ xe",
+      "Tải trọng phân bố đều $q_{k,t}$, kN/$m^{2}$, không nhỏ hơn": "3,5",
+      "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": "20,0"
+    },
+    {
+      "_row_id": 3,
+      "Khu vực": "b) Đường dốc và đoạn đường vào cửa tầng hầm/nửa hầm",
+      "Tải trọng phân bố đều $q_{k,t}$, kN/$m^{2}$, không nhỏ hơn": "5,0",
+      "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": "25,0"
+    },
+    {
+      "_row_id": 4,
+      "Khu vực": "Khu vực G: Bãi đỗ xe trong nhà cho phương tiện giao thông có tổng trọng lượng lớn hơn 30 kN nhưng không lớn hơn 160 kN:",
+      "Tải trọng phân bố đều $q_{k,t}$, kN/$m^{2}$, không nhỏ hơn": "",
+      "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": ""
+    },
+    {
+      "_row_id": 5,
+      "Khu vực": "a) Khu vực đỗ xe",
+      "Tải trọng phân bố đều $q_{k,t}$, kN/$m^{2}$, không nhỏ hơn": "5,0",
+      "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": "90"
+    },
+    {
+      "_row_id": 6,
+      "Khu vực": "b) Đường dốc và đoạn đường vào cửa tầng hầm/nửa hầm",
+      "Tải trọng phân bố đều $q_{k,t}$, kN/$m^{2}$, không nhỏ hơn": "7,0",
+      "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": "100"
+    },
+    {
+      "_row_id": 7,
+      "Khu vực": "Khu vực G1: Bãi đỗ xe cho phương tiện giao thông có tổng trọng lượng lớn hơn 160 kN",
+      "Tải trọng phân bố đều $q_{k,t}$, kN/$m^{2}$, không nhỏ hơn": "Theo nhiệm vụ thiết kế",
+      "Tải trọng tập trung $Q_{k,t}$, kN, không nhỏ hơn": ""
+    }
+  ]
+}

@@ -1,34 +1,47 @@
-[
-  {
-    "Thiết bị và vật liệu": "1. Thiết bị cố định",
-    "Giá trị $\\gamma_f$": "1,05"
-  },
-  {
-    "Thiết bị và vật liệu": "2. Lớp ngăn cách của thiết bị cố định",
-    "Giá trị $\\gamma_f$": "1,2"
-  },
-  {
-    "Thiết bị và vật liệu": "3. Các chất chứa trong thiết bị (trong đó có bể chứa và đường ống):",
-    "Giá trị $\\gamma_f$": ""
-  },
-  {
-    "Thiết bị và vật liệu": "a) Chất lỏng",
-    "Giá trị $\\gamma_f$": "1,0"
-  },
-  {
-    "Thiết bị và vật liệu": "b) Chất huyền phù, chất cặn, vật liệu rời",
-    "Giá trị $\\gamma_f$": "1,1"
-  },
-  {
-    "Thiết bị và vật liệu": "4. Xe bốc xếp và xe điện nâng chuyển di động (gồm cả vật bốc xếp và di chuyển)",
-    "Giá trị $\\gamma_f$": "1,2"
-  },
-  {
-    "Thiết bị và vật liệu": "5. Vật liệu và sản phẩm chất kho",
-    "Giá trị $\\gamma_f$": "1,2"
-  },
-  {
-    "Thiết bị và vật liệu": "6. Kho sách, kho lưu trữ",
-    "Giá trị $\\gamma_f$": "1,2"
-  }
-]
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Hệ số độ tin cậy về tải trọng $\\gamma_{f}$ của lượng thiết bị và vật liệu",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Thiết bị và vật liệu": "1. Thiết bị cố định",
+      "Giá trị $\\gamma_{f}$": "1,05"
+    },
+    {
+      "_row_id": 2,
+      "Thiết bị và vật liệu": "2. Lớp ngăn cách của thiết bị cố định",
+      "Giá trị $\\gamma_{f}$": "1,2"
+    },
+    {
+      "_row_id": 3,
+      "Thiết bị và vật liệu": "3. Các chất chứa trong thiết bị (trong đó có bể chứa và đường ống):",
+      "Giá trị $\\gamma_{f}$": ""
+    },
+    {
+      "_row_id": 4,
+      "Thiết bị và vật liệu": "a) Chất lỏng",
+      "Giá trị $\\gamma_{f}$": "1,0"
+    },
+    {
+      "_row_id": 5,
+      "Thiết bị và vật liệu": "b) Chất huyền phù, chất cặn, vật liệu rời",
+      "Giá trị $\\gamma_{f}$": "1,1"
+    },
+    {
+      "_row_id": 6,
+      "Thiết bị và vật liệu": "4. Xe bốc xếp và xe điện nâng chuyển di động (gồm cả vật bốc xếp và di chuyển)",
+      "Giá trị $\\gamma_{f}$": "1,2"
+    },
+    {
+      "_row_id": 7,
+      "Thiết bị và vật liệu": "5. Vật liệu và sản phẩm chất kho",
+      "Giá trị $\\gamma_{f}$": "1,2"
+    },
+    {
+      "_row_id": 8,
+      "Thiết bị và vật liệu": "6. Kho sách, kho lưu trữ",
+      "Giá trị $\\gamma_{f}$": "1,2"
+    }
+  ]
+}

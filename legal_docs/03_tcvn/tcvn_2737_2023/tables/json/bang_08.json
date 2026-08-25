@@ -1,23 +1,31 @@
-[
-  {
-    "Dạng địa hình": "A",
-    "Mô tả dạng địa hình": "Trống trải, không có hoặc có rất ít vật cản cao không quá 1,5 m (bờ biển thoáng, mặt sông, hồ lớn, đồng muối, cánh đồng không có cây cao...), xem Hình D.1, Phụ lục D.",
-    "Giá trị $z_g$, m": "213,36",
-    "Giá trị $z_{min}$, m": "2,13",
-    "Giá trị<br>$\\alpha$": "11,5"
-  },
-  {
-    "Dạng địa hình": "B",
-    "Mô tả dạng địa hình": "Tương đối trống trải, có một số vật cản thưa thớt cao không quá 10 m (vùng ngoại ô ít nhà, thị trấn, làng mạc, rừng thưa hoặc rừng non, vùng trồng cây thưa...), xem Hình D.2, Phụ lục D.",
-    "Giá trị $z_g$, m": "274,32",
-    "Giá trị $z_{min}$, m": "4,57",
-    "Giá trị<br>$\\alpha$": "9,5"
-  },
-  {
-    "Dạng địa hình": "C",
-    "Mô tả dạng địa hình": "Bị che chắn mạnh, có nhiều vật cản sát nhau cao từ 10 m trở lên (trong thành phố, vùng rừng rậm...), xem Hình D.3, Phụ lục D.",
-    "Giá trị $z_g$, m": "365,76",
-    "Giá trị $z_{min}$, m": "9,14",
-    "Giá trị<br>$\\alpha$": "7,0"
-  }
-]
+{
+  "table_id": "bang_08",
+  "table_number": "8",
+  "table_title": "Bảng 8 - Các hệ số $z_{g}$, $z_{min}$ và α",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Dạng địa hình": "A",
+      "Mô tả dạng địa hình": "Trống trải, không có hoặc có rất ít vật cản cao không quá 1,5 m (bờ biển thoáng, mặt sông, hồ lớn, đồng muối, cánh đồng không có cây cao...), xem Hình D.1, Phụ lục D.",
+      "Giá trị $z_{g}$, m": "213,36",
+      "Giá trị $z_{min}$, m": "2,13",
+      "Giá trịα": "11,5"
+    },
+    {
+      "_row_id": 2,
+      "Dạng địa hình": "B",
+      "Mô tả dạng địa hình": "Tương đối trống trải, có một số vật cản thưa thớt cao không quá 10 m (vùng ngoại ô ít nhà, thị trấn, làng mạc, rừng thưa hoặc rừng non, vùng trồng cây thưa...), xem Hình D.2, Phụ lục D.",
+      "Giá trị $z_{g}$, m": "274,32",
+      "Giá trị $z_{min}$, m": "4,57",
+      "Giá trịα": "9,5"
+    },
+    {
+      "_row_id": 3,
+      "Dạng địa hình": "C",
+      "Mô tả dạng địa hình": "Bị che chắn mạnh, có nhiều vật cản sát nhau cao từ 10 m trở lên (trong thành phố, vùng rừng rậm...), xem Hình D.3, Phụ lục D.",
+      "Giá trị $z_{g}$, m": "365,76",
+      "Giá trị $z_{min}$, m": "9,14",
+      "Giá trịα": "7,0"
+    }
+  ]
+}

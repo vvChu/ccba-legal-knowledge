@@ -1,14 +1,22 @@
-[
-  {
-    "Dạng đường bao tiết diện ngang và hướng gió": "",
-    "Giá trị $k_1$": "1,0"
-  },
-  {
-    "Dạng đường bao tiết diện ngang và hướng gió": "",
-    "Giá trị $k_1$": "0,9"
-  },
-  {
-    "Dạng đường bao tiết diện ngang và hướng gió": "",
-    "Giá trị $k_1$": "1,2"
-  }
-]
+{
+  "table_id": "bang_f_14",
+  "table_number": "F.14",
+  "table_title": "Bảng F.14 - Hệ số $k_{1}$",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Dạng đường bao tiết diện ngang và hướng gió": "",
+      "Giá trị $k_{1}$": "1,0"
+    },
+    {
+      "_row_id": 2,
+      "Dạng đường bao tiết diện ngang và hướng gió": "",
+      "Giá trị $k_{1}$": "0,9"
+    },
+    {
+      "_row_id": 3,
+      "Dạng đường bao tiết diện ngang và hướng gió": "$\\xrightarrow{\\text{Gió}} \\lozenge$",
+      "Giá trị $k_{1}$": "1,2"
+    }
+  ]
+}

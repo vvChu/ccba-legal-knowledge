@@ -1,57 +1,150 @@
-[
-  {
-    "Góc dốc<br>$\\alpha_0$, °, cho $\\theta$ = 0°,<br>$\\alpha_{90}$, °, cho $\\theta$ = 90°": "Góc dốc<br>$\\alpha_0$, °, cho $\\theta$ = 0°,<br>$\\alpha_{90}$, °, cho $\\theta$ = 90°",
-    "Các vùng khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 90°": "F",
-    "": "N"
-  },
-  {
-    "Góc dốc<br>$\\alpha_0$, °, cho $\\theta$ = 0°,<br>$\\alpha_{90}$, °, cho $\\theta$ = 90°": "5",
-    "Các vùng khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 90°": "&nbsp;&nbsp;\\- 1,7",
-    "": ""
-  },
-  {
-    "Góc dốc<br>$\\alpha_0$, °, cho $\\theta$ = 0°,<br>$\\alpha_{90}$, °, cho $\\theta$ = 90°": "5",
-    "Các vùng khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 90°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,0",
-    "": ""
-  },
-  {
-    "Góc dốc<br>$\\alpha_0$, °, cho $\\theta$ = 0°,<br>$\\alpha_{90}$, °, cho $\\theta$ = 90°": "15",
-    "Các vùng khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 90°": "&nbsp;&nbsp;\\- 0,9",
-    "": "&nbsp;&nbsp;\\- 0,3"
-  },
-  {
-    "Góc dốc<br>$\\alpha_0$, °, cho $\\theta$ = 0°,<br>$\\alpha_{90}$, °, cho $\\theta$ = 90°": "15",
-    "Các vùng khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 90°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,2",
-    "": ""
-  },
-  {
-    "Góc dốc<br>$\\alpha_0$, °, cho $\\theta$ = 0°,<br>$\\alpha_{90}$, °, cho $\\theta$ = 90°": "30",
-    "Các vùng khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 90°": "&nbsp;&nbsp;\\- 0,5",
-    "": ""
-  },
-  {
-    "Góc dốc<br>$\\alpha_0$, °, cho $\\theta$ = 0°,<br>$\\alpha_{90}$, °, cho $\\theta$ = 90°": "30",
-    "Các vùng khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 90°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,5",
-    "": "&nbsp;&nbsp;\\- 0,2"
-  },
-  {
-    "Góc dốc<br>$\\alpha_0$, °, cho $\\theta$ = 0°,<br>$\\alpha_{90}$, °, cho $\\theta$ = 90°": "45",
-    "Các vùng khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 90°": "&nbsp;&nbsp;\\- 0,0",
-    "": ""
-  },
-  {
-    "Góc dốc<br>$\\alpha_0$, °, cho $\\theta$ = 0°,<br>$\\alpha_{90}$, °, cho $\\theta$ = 90°": "45",
-    "Các vùng khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 90°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
-    "": ""
-  },
-  {
-    "Góc dốc<br>$\\alpha_0$, °, cho $\\theta$ = 0°,<br>$\\alpha_{90}$, °, cho $\\theta$ = 90°": "60",
-    "Các vùng khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 90°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
-    "": ""
-  },
-  {
-    "Góc dốc<br>$\\alpha_0$, °, cho $\\theta$ = 0°,<br>$\\alpha_{90}$, °, cho $\\theta$ = 90°": "75",
-    "Các vùng khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 90°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,8",
-    "": ""
-  }
-]
+{
+  "table_id": "bang_f_6",
+  "table_number": "F.6",
+  "table_title": "Bảng F.6 - Hệ số khí động áp lực ngoài $c_{e}$ cho mái dốc bốn phía",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Góc dốc$\\alpha_{0}$, °, cho θ = 0°,$\\alpha_{90}$, °, cho θ = 90°": "Góc dốc$\\alpha_{0}$, °, cho θ = 0°,$\\alpha_{90}$, °, cho θ = 90°",
+      "Các vùng khi góc hướng gió θ = 0° và θ = 90°": "F",
+      "col_3": "G",
+      "col_4": "H",
+      "col_5": "I",
+      "col_6": "J",
+      "col_7": "K",
+      "col_8": "L",
+      "col_9": "M",
+      "col_10": "N"
+    },
+    {
+      "_row_id": 2,
+      "Góc dốc$\\alpha_{0}$, °, cho θ = 0°,$\\alpha_{90}$, °, cho θ = 90°": "5",
+      "Các vùng khi góc hướng gió θ = 0° và θ = 90°": "&nbsp;&nbsp;\\- 1,7",
+      "col_3": "&nbsp;&nbsp;\\- 1,2",
+      "col_4": "&nbsp;&nbsp;\\- 0,6",
+      "col_5": "&nbsp;&nbsp;\\- 0,3",
+      "col_6": "&nbsp;&nbsp;\\- 0,6",
+      "col_7": "&nbsp;&nbsp;\\- 1,2",
+      "col_8": "&nbsp;&nbsp;\\- 0,6",
+      "col_9": "&nbsp;&nbsp;\\- 0,4",
+      "col_10": ""
+    },
+    {
+      "_row_id": 3,
+      "Góc dốc$\\alpha_{0}$, °, cho θ = 0°,$\\alpha_{90}$, °, cho θ = 90°": "5",
+      "Các vùng khi góc hướng gió θ = 0° và θ = 90°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,0",
+      "col_3": "&nbsp;&nbsp;\\- 0,3",
+      "col_4": "&nbsp;&nbsp;\\- 0,6",
+      "col_5": "&nbsp;&nbsp;\\- 1,2",
+      "col_6": "&nbsp;&nbsp;\\- 0,6",
+      "col_7": "&nbsp;&nbsp;\\- 0,4",
+      "col_8": "",
+      "col_9": "",
+      "col_10": ""
+    },
+    {
+      "_row_id": 4,
+      "Góc dốc$\\alpha_{0}$, °, cho θ = 0°,$\\alpha_{90}$, °, cho θ = 90°": "15",
+      "Các vùng khi góc hướng gió θ = 0° và θ = 90°": "&nbsp;&nbsp;\\- 0,9",
+      "col_3": "&nbsp;&nbsp;\\- 0,8",
+      "col_4": "&nbsp;&nbsp;\\- 0,3",
+      "col_5": "&nbsp;&nbsp;\\- 0,5",
+      "col_6": "&nbsp;&nbsp;\\- 1,0",
+      "col_7": "&nbsp;&nbsp;\\- 1,2",
+      "col_8": "&nbsp;&nbsp;\\- 1,4",
+      "col_9": "&nbsp;&nbsp;\\- 0,6",
+      "col_10": "&nbsp;&nbsp;\\- 0,3"
+    },
+    {
+      "_row_id": 5,
+      "Góc dốc$\\alpha_{0}$, °, cho θ = 0°,$\\alpha_{90}$, °, cho θ = 90°": "15",
+      "Các vùng khi góc hướng gió θ = 0° và θ = 90°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,2",
+      "col_3": "&nbsp;&nbsp;\\- 0,5",
+      "col_4": "&nbsp;&nbsp;\\- 1,0",
+      "col_5": "&nbsp;&nbsp;\\- 1,2",
+      "col_6": "&nbsp;&nbsp;\\- 1,4",
+      "col_7": "&nbsp;&nbsp;\\- 0,6",
+      "col_8": "&nbsp;&nbsp;\\- 0,3",
+      "col_9": "",
+      "col_10": ""
+    },
+    {
+      "_row_id": 6,
+      "Góc dốc$\\alpha_{0}$, °, cho θ = 0°,$\\alpha_{90}$, °, cho θ = 90°": "30",
+      "Các vùng khi góc hướng gió θ = 0° và θ = 90°": "&nbsp;&nbsp;\\- 0,5",
+      "col_3": "&nbsp;&nbsp;\\- 0,2",
+      "col_4": "&nbsp;&nbsp;\\- 0,4",
+      "col_5": "&nbsp;&nbsp;\\- 0,7",
+      "col_6": "&nbsp;&nbsp;\\- 0,5",
+      "col_7": "&nbsp;&nbsp;\\- 1,4",
+      "col_8": "&nbsp;&nbsp;\\- 0,8",
+      "col_9": "&nbsp;&nbsp;\\- 0,2",
+      "col_10": ""
+    },
+    {
+      "_row_id": 7,
+      "Góc dốc$\\alpha_{0}$, °, cho θ = 0°,$\\alpha_{90}$, °, cho θ = 90°": "30",
+      "Các vùng khi góc hướng gió θ = 0° và θ = 90°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,5",
+      "col_3": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+      "col_4": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,4",
+      "col_5": "&nbsp;&nbsp;\\- 0,4",
+      "col_6": "&nbsp;&nbsp;\\- 0,7",
+      "col_7": "&nbsp;&nbsp;\\- 0,5",
+      "col_8": "&nbsp;&nbsp;\\- 1,4",
+      "col_9": "&nbsp;&nbsp;\\- 0,8",
+      "col_10": "&nbsp;&nbsp;\\- 0,2"
+    },
+    {
+      "_row_id": 8,
+      "Góc dốc$\\alpha_{0}$, °, cho θ = 0°,$\\alpha_{90}$, °, cho θ = 90°": "45",
+      "Các vùng khi góc hướng gió θ = 0° và θ = 90°": "&nbsp;&nbsp;\\- 0,0",
+      "col_3": "&nbsp;&nbsp;\\- 0,3",
+      "col_4": "&nbsp;&nbsp;\\- 0,6",
+      "col_5": "&nbsp;&nbsp;\\- 0,3",
+      "col_6": "&nbsp;&nbsp;\\- 1,3",
+      "col_7": "&nbsp;&nbsp;\\- 0,8",
+      "col_8": "&nbsp;&nbsp;\\- 0,2",
+      "col_9": "",
+      "col_10": ""
+    },
+    {
+      "_row_id": 9,
+      "Góc dốc$\\alpha_{0}$, °, cho θ = 0°,$\\alpha_{90}$, °, cho θ = 90°": "45",
+      "Các vùng khi góc hướng gió θ = 0° và θ = 90°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+      "col_3": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,6",
+      "col_4": "&nbsp;&nbsp;\\- 0,3",
+      "col_5": "&nbsp;&nbsp;\\- 0,6",
+      "col_6": "&nbsp;&nbsp;\\- 0,3",
+      "col_7": "&nbsp;&nbsp;\\- 1,3",
+      "col_8": "&nbsp;&nbsp;\\- 0,8",
+      "col_9": "&nbsp;&nbsp;\\- 0,2",
+      "col_10": ""
+    },
+    {
+      "_row_id": 10,
+      "Góc dốc$\\alpha_{0}$, °, cho θ = 0°,$\\alpha_{90}$, °, cho θ = 90°": "60",
+      "Các vùng khi góc hướng gió θ = 0° và θ = 90°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+      "col_3": "&nbsp;&nbsp;\\- 0,3",
+      "col_4": "&nbsp;&nbsp;\\- 0,6",
+      "col_5": "&nbsp;&nbsp;\\- 0,3",
+      "col_6": "&nbsp;&nbsp;\\- 1,2",
+      "col_7": "&nbsp;&nbsp;\\- 0,4",
+      "col_8": "&nbsp;&nbsp;\\- 0,2",
+      "col_9": "",
+      "col_10": ""
+    },
+    {
+      "_row_id": 11,
+      "Góc dốc$\\alpha_{0}$, °, cho θ = 0°,$\\alpha_{90}$, °, cho θ = 90°": "75",
+      "Các vùng khi góc hướng gió θ = 0° và θ = 90°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,8",
+      "col_3": "&nbsp;&nbsp;\\- 0,3",
+      "col_4": "&nbsp;&nbsp;\\- 0,6",
+      "col_5": "&nbsp;&nbsp;\\- 0,3",
+      "col_6": "&nbsp;&nbsp;\\- 1,2",
+      "col_7": "&nbsp;&nbsp;\\- 0,4",
+      "col_8": "&nbsp;&nbsp;\\- 0,2",
+      "col_9": "",
+      "col_10": ""
+    }
+  ]
+}

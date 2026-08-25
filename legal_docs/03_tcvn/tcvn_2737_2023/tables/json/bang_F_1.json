@@ -1,44 +1,77 @@
-[
-  {
-    "Hệ số đặc": "Hệ số đặc",
-    "Tường": "Tường",
-    "Vùng": "A",
-    "": ""
-  },
-  {
-    "Hệ số đặc": "$\\varphi$ = 1,0",
-    "Tường": "Thẳng",
-    "Vùng": "L/h ≤ 3",
-    "": ""
-  },
-  {
-    "Hệ số đặc": "$\\varphi$ = 1,0",
-    "Tường": "Thẳng",
-    "Vùng": "L/h = 5",
-    "": "1,2"
-  },
-  {
-    "Hệ số đặc": "$\\varphi$ = 1,0",
-    "Tường": "Thẳng",
-    "Vùng": "L/h ≥ 10",
-    "": "1,2"
-  },
-  {
-    "Hệ số đặc": "$\\varphi$ = 1,0",
-    "Tường": "Có bẻ góc với chiều dài phần bẻ góc không nhỏ hơn h $^{1)}$",
-    "Vùng": "2,1",
-    "": ""
-  },
-  {
-    "Hệ số đặc": "$\\varphi$ = 0,8",
-    "Tường": "",
-    "Vùng": "1,2",
-    "": ""
-  },
-  {
-    "Hệ số đặc": "$^{1)}$ Đối với chiều dài phần bẻ góc trong khoảng từ 0 đến h, có thể xác định $c_x$ bằng nội suy tuyến tính.",
-    "Tường": "",
-    "Vùng": "",
-    "": ""
-  }
-]
+{
+  "table_id": "bang_f_1",
+  "table_number": "F.1",
+  "table_title": "Bảng F.1 - Hệ số $c_{x}$ cho các vùng trên tường phẳng, hàng rào và kết cấu tương tự (xem Hình F.1)",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Hệ số đặc": "Hệ số đặc",
+      "Tường": "Tường",
+      "Vùng": "A",
+      "col_4": "B",
+      "col_5": "C",
+      "col_6": "D",
+      "col_7": ""
+    },
+    {
+      "_row_id": 2,
+      "Hệ số đặc": "φ = 1,0",
+      "Tường": "Thẳng",
+      "Vùng": "L/h ≤ 3",
+      "col_4": "2,3",
+      "col_5": "1,4",
+      "col_6": "1,2",
+      "col_7": ""
+    },
+    {
+      "_row_id": 3,
+      "Hệ số đặc": "φ = 1,0",
+      "Tường": "Thẳng",
+      "Vùng": "L/h = 5",
+      "col_4": "2,9",
+      "col_5": "1,8",
+      "col_6": "1,4",
+      "col_7": "1,2"
+    },
+    {
+      "_row_id": 4,
+      "Hệ số đặc": "φ = 1,0",
+      "Tường": "Thẳng",
+      "Vùng": "L/h ≥ 10",
+      "col_4": "3,4",
+      "col_5": "2,1",
+      "col_6": "1,7",
+      "col_7": "1,2"
+    },
+    {
+      "_row_id": 5,
+      "Hệ số đặc": "φ = 1,0",
+      "Tường": "Có bẻ góc với chiều dài phần bẻ góc không nhỏ hơn h $^{1)}$",
+      "Vùng": "2,1",
+      "col_4": "1,8",
+      "col_5": "1,4",
+      "col_6": "1,2",
+      "col_7": ""
+    },
+    {
+      "_row_id": 6,
+      "Hệ số đặc": "φ = 0,8",
+      "Tường": "",
+      "Vùng": "1,2",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "_row_id": 7,
+      "Hệ số đặc": "$^{1)}$ Đối với chiều dài phần bẻ góc trong khoảng từ 0 đến h, có thể xác định $c_{x}$ bằng nội suy tuyến tính.",
+      "Tường": "",
+      "Vùng": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": ""
+    }
+  ]
+}

@@ -1,22 +1,32 @@
-[
-  {
-    "Cần trục": "1. Cần trục treo (kéo tay hay điều khiển bằng điện), cầu trục điều khiển bằng tay",
-    "Giá trị giới hạn $F_u$, kN": "10"
-  },
-  {
-    "Cần trục": "2. Cầu trục điện công dụng chung thuộc nhóm chế độ làm việc từ A1 đến A3",
-    "Giá trị giới hạn $F_u$, kN": "50"
-  },
-  {
-    "Cần trục": "3. Cầu trục điện công dụng chung và cầu trục chuyên dụng thuộc nhóm chế độ làm việc từ A4 đến A7, cũng như cầu trục đúc",
-    "Giá trị giới hạn $F_u$, kN": "150"
-  },
-  {
-    "Cần trục": "4. Cầu trục điện chuyên dụng thuộc nhóm chế độ làm việc A8:",
-    "Giá trị giới hạn $F_u$, kN": ""
-  },
-  {
-    "Cần trục": "a) Có móc mềm<br>b) Có móc cứng",
-    "Giá trị giới hạn $F_u$, kN": "250<br>500"
-  }
-]
+{
+  "table_id": "bang_b_2",
+  "table_number": "B.2",
+  "table_title": "Bảng B.2 - Giá trị giới hạn $F_{u}$ của tải trọng ngang do va chạm của cần trục với gối chặn cuối đường ray",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cần trục": "1. Cần trục treo (kéo tay hay điều khiển bằng điện), cầu trục điều khiển bằng tay",
+      "Giá trị giới hạn $F_{u}$, kN": "10"
+    },
+    {
+      "_row_id": 2,
+      "Cần trục": "2. Cầu trục điện công dụng chung thuộc nhóm chế độ làm việc từ A1 đến A3",
+      "Giá trị giới hạn $F_{u}$, kN": "50"
+    },
+    {
+      "_row_id": 3,
+      "Cần trục": "3. Cầu trục điện công dụng chung và cầu trục chuyên dụng thuộc nhóm chế độ làm việc từ A4 đến A7, cũng như cầu trục đúc",
+      "Giá trị giới hạn $F_{u}$, kN": "150"
+    },
+    {
+      "_row_id": 4,
+      "Cần trục": "4. Cầu trục điện chuyên dụng thuộc nhóm chế độ làm việc A8:",
+      "Giá trị giới hạn $F_{u}$, kN": ""
+    },
+    {
+      "_row_id": 5,
+      "Cần trục": "a) Có móc mềmb) Có móc cứng",
+      "Giá trị giới hạn $F_{u}$, kN": "250500"
+    }
+  ]
+}

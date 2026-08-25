@@ -1,42 +1,57 @@
-[
-  {
-    "Loại bề mặt": "1. Kính",
-    "Độ nhám A": "1,5·10$^{-6}$"
-  },
-  {
-    "Loại bề mặt": "2. Vật liệu được đánh bóng",
-    "Độ nhám A": "2·10$^{-6}$"
-  },
-  {
-    "Loại bề mặt": "3. Sơn dầu mịn",
-    "Độ nhám A": "6·10$^{-6}$"
-  },
-  {
-    "Loại bề mặt": "4. Sơn phun",
-    "Độ nhám A": "2·10$^{-5}$"
-  },
-  {
-    "Loại bề mặt": "5. Gang đúc",
-    "Độ nhám A": "2·10$^{-4}$"
-  },
-  {
-    "Loại bề mặt": "6. Thép mạ kẽm",
-    "Độ nhám A": "2·10$^{-4}$"
-  },
-  {
-    "Loại bề mặt": "7. Bê tông mài",
-    "Độ nhám A": "2·10$^{-4}$"
-  },
-  {
-    "Loại bề mặt": "8. Bê tông nhám",
-    "Độ nhám A": "10$^{-3}$"
-  },
-  {
-    "Loại bề mặt": "9. Gỉ sét",
-    "Độ nhám A": "2·10$^{-3}$"
-  },
-  {
-    "Loại bề mặt": "10. Khối xây (gạch, đá)",
-    "Độ nhám A": "3·10$^{-3}$"
-  }
-]
+{
+  "table_id": "bang_f_16",
+  "table_number": "F.16",
+  "table_title": "Bảng F.16 - Độ nhám Δ của bề mặt kết cấu",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại bề mặt": "1. Kính",
+      "Độ nhám A": "1,5·10$^{-6}$"
+    },
+    {
+      "_row_id": 2,
+      "Loại bề mặt": "2. Vật liệu được đánh bóng",
+      "Độ nhám A": "2·10$^{-6}$"
+    },
+    {
+      "_row_id": 3,
+      "Loại bề mặt": "3. Sơn dầu mịn",
+      "Độ nhám A": "6·10$^{-6}$"
+    },
+    {
+      "_row_id": 4,
+      "Loại bề mặt": "4. Sơn phun",
+      "Độ nhám A": "2·10$^{-5}$"
+    },
+    {
+      "_row_id": 5,
+      "Loại bề mặt": "5. Gang đúc",
+      "Độ nhám A": "2·10$^{-4}$"
+    },
+    {
+      "_row_id": 6,
+      "Loại bề mặt": "6. Thép mạ kẽm",
+      "Độ nhám A": "2·10$^{-4}$"
+    },
+    {
+      "_row_id": 7,
+      "Loại bề mặt": "7. Bê tông mài",
+      "Độ nhám A": "2·10$^{-4}$"
+    },
+    {
+      "_row_id": 8,
+      "Loại bề mặt": "8. Bê tông nhám",
+      "Độ nhám A": "10$^{-3}$"
+    },
+    {
+      "_row_id": 9,
+      "Loại bề mặt": "9. Gỉ sét",
+      "Độ nhám A": "2·10$^{-3}$"
+    },
+    {
+      "_row_id": 10,
+      "Loại bề mặt": "10. Khối xây (gạch, đá)",
+      "Độ nhám A": "3·10$^{-3}$"
+    }
+  ]
+}

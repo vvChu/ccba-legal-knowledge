@@ -1,30 +1,39 @@
-[
-  {
-    "Re": "5·10$^5$",
-    "$\\beta_{min}$, °": "85",
-    "$c_{min}$": "&nbsp;&nbsp;\\- 2,2",
-    "$\\beta_b$, °": "135",
-    "$c_b$": "&nbsp;&nbsp;\\- 0,4"
-  },
-  {
-    "Re": "2·10$^6$",
-    "$\\beta_{min}$, °": "80",
-    "$c_{min}$": "&nbsp;&nbsp;\\- 1,9",
-    "$\\beta_b$, °": "120",
-    "$c_b$": "&nbsp;&nbsp;\\- 0,7"
-  },
-  {
-    "Re": "10$^7$",
-    "$\\beta_{min}$, °": "75",
-    "$c_{min}$": "&nbsp;&nbsp;\\- 1,5",
-    "$\\beta_b$, °": "105",
-    "$c_b$": "&nbsp;&nbsp;\\- 0,8"
-  },
-  {
-    "Re": "Các ký hiệu trong Bảng F.10:<br>$\\beta_{min}$ là vị trí có giá trị áp lực gió nhỏ nhất;<br>$c_{min}$ là giá trị hệ số khí động áp lực gió nhỏ nhất;<br>$\\beta_b$ là vị trí dòng gió tách nhánh;<br>$c_b$ là giá trị hệ số khí động áp lực gió nền.",
-    "$\\beta_{min}$, °": "",
-    "$c_{min}$": "",
-    "$\\beta_b$, °": "",
-    "$c_b$": ""
-  }
-]
+{
+  "table_id": "bang_f_10",
+  "table_number": "F.10",
+  "table_title": "Bảng F.10 - Các giá trị $\\beta_{min}$, $\\beta_{b}$, $c_{min}$ và $c_{b}$",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Re": "5·10$^{5}$",
+      "$\\beta_{min}$, °": "85",
+      "$c_{min}$": "&nbsp;&nbsp;\\- 2,2",
+      "$\\beta_{b}$, °": "135",
+      "$c_{b}$": "&nbsp;&nbsp;\\- 0,4"
+    },
+    {
+      "_row_id": 2,
+      "Re": "2·10$^{6}$",
+      "$\\beta_{min}$, °": "80",
+      "$c_{min}$": "&nbsp;&nbsp;\\- 1,9",
+      "$\\beta_{b}$, °": "120",
+      "$c_{b}$": "&nbsp;&nbsp;\\- 0,7"
+    },
+    {
+      "_row_id": 3,
+      "Re": "10$^{7}$",
+      "$\\beta_{min}$, °": "75",
+      "$c_{min}$": "&nbsp;&nbsp;\\- 1,5",
+      "$\\beta_{b}$, °": "105",
+      "$c_{b}$": "&nbsp;&nbsp;\\- 0,8"
+    },
+    {
+      "_row_id": 4,
+      "Re": "Các ký hiệu trong Bảng F.10:$\\beta_{min}$ là vị trí có giá trị áp lực gió nhỏ nhất;$c_{min}$ là giá trị hệ số khí động áp lực gió nhỏ nhất;$\\beta_{b}$ là vị trí dòng gió tách nhánh;$c_{b}$ là giá trị hệ số khí động áp lực gió nền.",
+      "$\\beta_{min}$, °": "",
+      "$c_{min}$": "",
+      "$\\beta_{b}$, °": "",
+      "$c_{b}$": ""
+    }
+  ]
+}

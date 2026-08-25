@@ -1,17 +1,25 @@
-[
-  {
-    "Cấp hậu quả của công trình": "C1",
-    "Mức độ quan trọng của công trình": "Thấp",
-    "Giá trị $\\gamma_n$": "0,87"
-  },
-  {
-    "Cấp hậu quả của công trình": "C2",
-    "Mức độ quan trọng của công trình": "Trung bình",
-    "Giá trị $\\gamma_n$": "1,00"
-  },
-  {
-    "Cấp hậu quả của công trình": "C3",
-    "Mức độ quan trọng của công trình": "Cao",
-    "Giá trị $\\gamma_n$": "1,15"
-  }
-]
+{
+  "table_id": "bang_h_1",
+  "table_number": "H.1",
+  "table_title": "Bảng H.1 - Giá trị tối thiểu của hệ số tầm quan trọng $\\gamma_{n}$",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp hậu quả của công trình": "C1",
+      "Mức độ quan trọng của công trình": "Thấp",
+      "Giá trị $\\gamma_{n}$": "0,87"
+    },
+    {
+      "_row_id": 2,
+      "Cấp hậu quả của công trình": "C2",
+      "Mức độ quan trọng của công trình": "Trung bình",
+      "Giá trị $\\gamma_{n}$": "1,00"
+    },
+    {
+      "_row_id": 3,
+      "Cấp hậu quả của công trình": "C3",
+      "Mức độ quan trọng của công trình": "Cao",
+      "Giá trị $\\gamma_{n}$": "1,15"
+    }
+  ]
+}

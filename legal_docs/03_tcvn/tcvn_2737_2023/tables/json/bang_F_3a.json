@@ -1,74 +1,127 @@
-[
-  {
-    "Góc dốc $\\alpha$, °": "Góc dốc $\\alpha$, °",
-    "Góc hướng gió $\\theta$ = 0°": "Vùng",
-    "Góc hướng gió $\\theta$ = 180°": "",
-    "": ""
-  },
-  {
-    "Góc dốc $\\alpha$, °": "Góc dốc $\\alpha$, °",
-    "Góc hướng gió $\\theta$ = 0°": "F",
-    "Góc hướng gió $\\theta$ = 180°": "G",
-    "": "H"
-  },
-  {
-    "Góc dốc $\\alpha$, °": "5",
-    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;\\- 1,7",
-    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 1,2",
-    "": "&nbsp;&nbsp;\\- 0,8"
-  },
-  {
-    "Góc dốc $\\alpha$, °": "5",
-    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,0",
-    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 2,3",
-    "": ""
-  },
-  {
-    "Góc dốc $\\alpha$, °": "15",
-    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;\\- 0,9",
-    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 0,8",
-    "": "&nbsp;&nbsp;\\- 0,9"
-  },
-  {
-    "Góc dốc $\\alpha$, °": "15",
-    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,2",
-    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 2,5",
-    "": ""
-  },
-  {
-    "Góc dốc $\\alpha$, °": "30",
-    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;\\- 0,5",
-    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 0,2",
-    "": ""
-  },
-  {
-    "Góc dốc $\\alpha$, °": "30",
-    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
-    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,4",
-    "": ""
-  },
-  {
-    "Góc dốc $\\alpha$, °": "45",
-    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;\\- 0,0",
-    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 0,6",
-    "": ""
-  },
-  {
-    "Góc dốc $\\alpha$, °": "45",
-    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
-    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,6",
-    "": ""
-  },
-  {
-    "Góc dốc $\\alpha$, °": "60",
-    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
-    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 0,5",
-    "": ""
-  },
-  {
-    "Góc dốc $\\alpha$, °": "75",
-    "Góc hướng gió $\\theta$ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,8",
-    "Góc hướng gió $\\theta$ = 180°": "&nbsp;&nbsp;\\- 0,5",
-    "": ""
-  }
-]
+{
+  "table_id": "bang_f_3a",
+  "table_number": "F.3a",
+  "table_title": "Bảng F.3a - Hệ số khí động áp lực ngoài $c_{e}$ cho mái dốc một phía khi góc hướng gió θ = 0° và θ = 180°",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Góc dốc α, °": "Góc dốc α, °",
+      "Góc hướng gió θ = 0°": "Vùng",
+      "Góc hướng gió θ = 180°": "",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "_row_id": 2,
+      "Góc dốc α, °": "Góc dốc α, °",
+      "Góc hướng gió θ = 0°": "F",
+      "Góc hướng gió θ = 180°": "G",
+      "col_4": "H",
+      "col_5": "F",
+      "col_6": "G",
+      "col_7": "H"
+    },
+    {
+      "_row_id": 3,
+      "Góc dốc α, °": "5",
+      "Góc hướng gió θ = 0°": "&nbsp;&nbsp;\\- 1,7",
+      "Góc hướng gió θ = 180°": "&nbsp;&nbsp;\\- 1,2",
+      "col_4": "&nbsp;&nbsp;\\- 0,6",
+      "col_5": "&nbsp;&nbsp;\\- 2,3",
+      "col_6": "&nbsp;&nbsp;\\- 1,3",
+      "col_7": "&nbsp;&nbsp;\\- 0,8"
+    },
+    {
+      "_row_id": 4,
+      "Góc dốc α, °": "5",
+      "Góc hướng gió θ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,0",
+      "Góc hướng gió θ = 180°": "&nbsp;&nbsp;\\- 2,3",
+      "col_4": "&nbsp;&nbsp;\\- 1,3",
+      "col_5": "&nbsp;&nbsp;\\- 0,8",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "_row_id": 5,
+      "Góc dốc α, °": "15",
+      "Góc hướng gió θ = 0°": "&nbsp;&nbsp;\\- 0,9",
+      "Góc hướng gió θ = 180°": "&nbsp;&nbsp;\\- 0,8",
+      "col_4": "&nbsp;&nbsp;\\- 0,3",
+      "col_5": "&nbsp;&nbsp;\\- 2,5",
+      "col_6": "&nbsp;&nbsp;\\- 1,3",
+      "col_7": "&nbsp;&nbsp;\\- 0,9"
+    },
+    {
+      "_row_id": 6,
+      "Góc dốc α, °": "15",
+      "Góc hướng gió θ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,2",
+      "Góc hướng gió θ = 180°": "&nbsp;&nbsp;\\- 2,5",
+      "col_4": "&nbsp;&nbsp;\\- 1,3",
+      "col_5": "&nbsp;&nbsp;\\- 0,9",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "_row_id": 7,
+      "Góc dốc α, °": "30",
+      "Góc hướng gió θ = 0°": "&nbsp;&nbsp;\\- 0,5",
+      "Góc hướng gió θ = 180°": "&nbsp;&nbsp;\\- 0,2",
+      "col_4": "-1,1",
+      "col_5": "-0,8",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "_row_id": 8,
+      "Góc dốc α, °": "30",
+      "Góc hướng gió θ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+      "Góc hướng gió θ = 180°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,4",
+      "col_4": "-1,1",
+      "col_5": "-0,8",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "_row_id": 9,
+      "Góc dốc α, °": "45",
+      "Góc hướng gió θ = 0°": "&nbsp;&nbsp;\\- 0,0",
+      "Góc hướng gió θ = 180°": "&nbsp;&nbsp;\\- 0,6",
+      "col_4": "&nbsp;&nbsp;\\- 0,5",
+      "col_5": "&nbsp;&nbsp;\\- 0,7",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "_row_id": 10,
+      "Góc dốc α, °": "45",
+      "Góc hướng gió θ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+      "Góc hướng gió θ = 180°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,6",
+      "col_4": "&nbsp;&nbsp;\\- 0,6",
+      "col_5": "&nbsp;&nbsp;\\- 0,5",
+      "col_6": "&nbsp;&nbsp;\\- 0,7",
+      "col_7": ""
+    },
+    {
+      "_row_id": 11,
+      "Góc dốc α, °": "60",
+      "Góc hướng gió θ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+      "Góc hướng gió θ = 180°": "&nbsp;&nbsp;\\- 0,5",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "_row_id": 12,
+      "Góc dốc α, °": "75",
+      "Góc hướng gió θ = 0°": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,8",
+      "Góc hướng gió θ = 180°": "&nbsp;&nbsp;\\- 0,5",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": ""
+    }
+  ]
+}

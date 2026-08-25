@@ -1,23 +1,31 @@
-[
-  {
-    "Khu vực": "K",
-    "Hạng trực thăng theo trọng lượng cất cánh": "HC1 (nhẹ)",
-    "Trọng lượng trực thăng, kN": "< 50 $^{1)}$",
-    "Tải trọng cất cánh,<br>$Q_{k,t}$, kN": "20",
-    "Kích thước diện truyền tải,<br>m x m": "0,2 x 0,2"
-  },
-  {
-    "Khu vực": "K",
-    "Hạng trực thăng theo trọng lượng cất cánh": "HC2 (trung bình)",
-    "Trọng lượng trực thăng, kN": "≥ 50 và ≤ 150 $^{2)}$",
-    "Tải trọng cất cánh,<br>$Q_{k,t}$, kN": "60",
-    "Kích thước diện truyền tải,<br>m x m": "0,3 x 0,3"
-  },
-  {
-    "Khu vực": "$^{1)}$ Tải trọng tiêu chuẩn do trọng lượng cát cánh của trực thăng lên kết cấu đỡ chính (quy ước) không lớn hơn 20 kN.<br>$^{2)}$ Tải trọng tiêu chuẩn do trọng lượng cát cánh của trực thăng lên kết cấu đỡ chính (quy ước) trên 20 kN đến 60 kN.",
-    "Hạng trực thăng theo trọng lượng cất cánh": "",
-    "Trọng lượng trực thăng, kN": "",
-    "Tải trọng cất cánh,<br>$Q_{k,t}$, kN": "",
-    "Kích thước diện truyền tải,<br>m x m": ""
-  }
-]
+{
+  "table_id": "bang_06",
+  "table_number": "6",
+  "table_title": "Bảng 6 - Giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn mái nhà do trực thăng",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Khu vực": "K",
+      "Hạng trực thăng theo trọng lượng cất cánh": "HC1 (nhẹ)",
+      "Trọng lượng trực thăng, kN": "< 50 $^{1)}$",
+      "Tải trọng cất cánh,$Q_{k,t}$, kN": "20",
+      "Kích thước diện truyền tải,m x m": "0,2 x 0,2"
+    },
+    {
+      "_row_id": 2,
+      "Khu vực": "K",
+      "Hạng trực thăng theo trọng lượng cất cánh": "HC2 (trung bình)",
+      "Trọng lượng trực thăng, kN": "≥ 50 và ≤ 150 $^{2)}$",
+      "Tải trọng cất cánh,$Q_{k,t}$, kN": "60",
+      "Kích thước diện truyền tải,m x m": "0,3 x 0,3"
+    },
+    {
+      "_row_id": 3,
+      "Khu vực": "$^{1)}$ Tải trọng tiêu chuẩn do trọng lượng cát cánh của trực thăng lên kết cấu đỡ chính (quy ước) không lớn hơn 20 kN.$^{2)}$ Tải trọng tiêu chuẩn do trọng lượng cát cánh của trực thăng lên kết cấu đỡ chính (quy ước) trên 20 kN đến 60 kN.",
+      "Hạng trực thăng theo trọng lượng cất cánh": "",
+      "Trọng lượng trực thăng, kN": "",
+      "Tải trọng cất cánh,$Q_{k,t}$, kN": "",
+      "Kích thước diện truyền tải,m x m": ""
+    }
+  ]
+}

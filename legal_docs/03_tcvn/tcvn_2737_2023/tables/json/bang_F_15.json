@@ -1,8 +1,14 @@
-[
-  {
-    "$\\lambda_e$= $\\lambda$/2": "Các ký hiệu trong Bảng F.15:<br>L, b tương ứng là kích thước lớn nhất và nhỏ nhất của công trình hoặc cấu kiện của nó trong mặt phẳng vuông góc với hướng gió. ",
-    "$\\lambda_e$= $\\lambda$": "",
-    "$\\lambda_e$= 2λ": "",
-    "$\\lambda_e$= ∞": ""
-  }
-]
+{
+  "table_id": "bang_f_15",
+  "table_number": "F.15",
+  "table_title": "Bảng F.15 - Độ mảnh hiệu dụng $\\lambda_{e}$",
+  "rows": [
+    {
+      "_row_id": 1,
+      "$\\lambda_{e}$= λ/2": "Các ký hiệu trong Bảng F.15:L, b tương ứng là kích thước lớn nhất và nhỏ nhất của công trình hoặc cấu kiện của nó trong mặt phẳng vuông góc với hướng gió.",
+      "$\\lambda_{e}$= λ": "",
+      "$\\lambda_{e}$= 2λ": "",
+      "$\\lambda_{e}$= ∞": ""
+    }
+  ]
+}

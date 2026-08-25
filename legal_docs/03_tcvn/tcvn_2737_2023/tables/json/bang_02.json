@@ -1,22 +1,31 @@
-[
-  {
-    "Khu vực": "Khu vực E: Khu vực kho",
-    "Giá trị tải trọng phân bố đều $q_{k,t}$, kN/$m^2$": "",
-    "Giá trị tải trọng tập trung $Q_{k,t}$ , kN": ""
-  },
-  {
-    "Khu vực": "E1: Kho thương mại",
-    "Giá trị tải trọng phân bố đều $q_{k,t}$, kN/$m^2$": "Không nhỏ hơn 5,0",
-    "Giá trị tải trọng tập trung $Q_{k,t}$ , kN": "Không nhỏ hơn 6,0"
-  },
-  {
-    "Khu vực": "E2: Phòng kho xưởng và công nghiệp",
-    "Giá trị tải trọng phân bố đều $q_{k,t}$, kN/$m^2$": "Theo nhiệm vụ thiết kế, nhưng không nhỏ hơn:<br>3,0 - để tính bản sàn và dầm phụ;<br>2,0 - để tính xà (dầm), cột và móng.",
-    "Giá trị tải trọng tập trung $Q_{k,t}$ , kN": "Theo nhiệm vụ thiết kế, nhưng không nhỏ hơn 3,0"
-  },
-  {
-    "Khu vực": "E3: Kho sách, kho lưu trữ",
-    "Giá trị tải trọng phân bố đều $q_{k,t}$, kN/$m^2$": "Theo nhiệm vụ thiết kế, nhưng không nhỏ hơn 5,0",
-    "Giá trị tải trọng tập trung $Q_{k,t}$ , kN": "Không nhỏ hơn 6,0"
-  }
-]
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Giá trị tiêu chuẩn của tải trọng lên sàn khu vực kho",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Khu vực": "Khu vực E: Khu vực kho",
+      "Giá trị tải trọng phân bố đều $q_{k,t}$, kN/$m^{2}$": "",
+      "Giá trị tải trọng tập trung $Q_{k,t}$ , kN": ""
+    },
+    {
+      "_row_id": 2,
+      "Khu vực": "E1: Kho thương mại",
+      "Giá trị tải trọng phân bố đều $q_{k,t}$, kN/$m^{2}$": "Không nhỏ hơn 5,0",
+      "Giá trị tải trọng tập trung $Q_{k,t}$ , kN": "Không nhỏ hơn 6,0"
+    },
+    {
+      "_row_id": 3,
+      "Khu vực": "E2: Phòng kho xưởng và công nghiệp",
+      "Giá trị tải trọng phân bố đều $q_{k,t}$, kN/$m^{2}$": "Theo nhiệm vụ thiết kế, nhưng không nhỏ hơn:3,0 - để tính bản sàn và dầm phụ;2,0 - để tính xà (dầm), cột và móng.",
+      "Giá trị tải trọng tập trung $Q_{k,t}$ , kN": "Theo nhiệm vụ thiết kế, nhưng không nhỏ hơn 3,0"
+    },
+    {
+      "_row_id": 4,
+      "Khu vực": "E3: Kho sách, kho lưu trữ",
+      "Giá trị tải trọng phân bố đều $q_{k,t}$, kN/$m^{2}$": "Theo nhiệm vụ thiết kế, nhưng không nhỏ hơn 5,0",
+      "Giá trị tải trọng tập trung $Q_{k,t}$ , kN": "Không nhỏ hơn 6,0"
+    }
+  ]
+}

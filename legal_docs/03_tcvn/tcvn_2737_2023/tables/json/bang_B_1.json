@@ -1,62 +1,79 @@
-[
-  {
-    "Cần trục": "1. Cần trục dẫn động bằng tay các loại",
-    "Nhóm chế độ làm việc": "A1 đến A3",
-    "Điều kiện sử dụng": "Bất kỳ"
-  },
-  {
-    "Cần trục": "2. Cần trục dẫn động bằng pa lăng treo kể cả với thiết bị mang tải treo",
-    "Nhóm chế độ làm việc": "A1 đến A3",
-    "Điều kiện sử dụng": "Công tác sửa chữa, di chuyển tải trọng với cường độ hạn chế"
-  },
-  {
-    "Cần trục": "3. Cần trục với xe con có tời kể cả với kẹp treo",
-    "Nhóm chế độ làm việc": "A1 đến A3",
-    "Điều kiện sử dụng": "Trong các gian máy của trạm thủy điện, công tác lắp ráp và di chuyển tải trọng với cường độ hạn chế"
-  },
-  {
-    "Cần trục": "4. Cần trục với xe con có tời kể cả với thiết bị mang tải treo",
-    "Nhóm chế độ làm việc": "A4 đến A6",
-    "Điều kiện sử dụng": "Công tác di chuyển tải trọng với cường độ trung bình; công tác công nghệ ở các phân xưởng cơ khí; trong các kho chứa các thành phẩm của xí nghiệp vật liệu xây dựng; trong các kho phân phối các sản phẩm kim loại"
-  },
-  {
-    "Cần trục": "5. Cần trục gàu ngoạm hai cáp, cần trục gàu ngoạm-nam châm",
-    "Nhóm chế độ làm việc": "A4 đến A6",
-    "Điều kiện sử dụng": "Trong các kho hỗn hợp, công việc với các tải trọng khác nhau"
-  },
-  {
-    "Cần trục": "6. Cần trục nam châm",
-    "Nhóm chế độ làm việc": "A4 đến A6",
-    "Điều kiện sử dụng": "Trong các kho bán thành phẩm, công việc với các tải trọng khác nhau"
-  },
-  {
-    "Cần trục": "7. Cần trục tôi, cần trục rèn, cần trục mang điện cực, cần trục đúc",
-    "Nhóm chế độ làm việc": "A7",
-    "Điều kiện sử dụng": "Trong các phân xưởng của nhà máy luyện kim"
-  },
-  {
-    "Cần trục": "8. Cần trục gàu ngoạm hai cáp, cần trục gàu ngoạm-nam châm",
-    "Nhóm chế độ làm việc": "A7",
-    "Điều kiện sử dụng": "Trong các kho chứa vật liệu chất đống, sắt vụn với các tải trọng cùng loại (làm việc một hoặc hai ca)"
-  },
-  {
-    "Cần trục": "9. Cần trục với xe con tời kể cả với kẹp treo",
-    "Nhóm chế độ làm việc": "A7",
-    "Điều kiện sử dụng": "Cần trục công nghệ làm việc suốt ngày đêm"
-  },
-  {
-    "Cần trục": "10. Cần trục dầm nâng, cần trục mang thùng nạp liệu có gàu ngoạm, cần trục nạp liệu lò Martin, cần trục dỡ thỏi đúc, cần trục đập, cần trục lò giếng",
-    "Nhóm chế độ làm việc": "A8",
-    "Điều kiện sử dụng": "Trong các phân xưởng của nhà máy luyện kim"
-  },
-  {
-    "Cần trục": "11. Cần trục nam châm",
-    "Nhóm chế độ làm việc": "A8",
-    "Điều kiện sử dụng": "Trong các phân xưởng và kho của nhà máy luyện kim, các cơ sở lớn chứa kim loại với tải trọng cùng loại"
-  },
-  {
-    "Cần trục": "12. Cần trục gàu ngoạm hai cáp, cần trục gàu ngoạm-nam châm",
-    "Nhóm chế độ làm việc": "A8",
-    "Điều kiện sử dụng": "Trong các kho chứa vật liệu chất đống và sắt vụn với tải trọng cùng loại (làm việc suốt ngày đêm)"
-  }
-]
+{
+  "table_id": "bang_b_1",
+  "table_number": "B.1",
+  "table_title": "Bảng B.1 - Danh mục một số cần trục theo nhóm chế độ làm việc",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cần trục": "1. Cần trục dẫn động bằng tay các loại",
+      "Nhóm chế độ làm việc": "A1 đến A3",
+      "Điều kiện sử dụng": "Bất kỳ"
+    },
+    {
+      "_row_id": 2,
+      "Cần trục": "2. Cần trục dẫn động bằng pa lăng treo kể cả với thiết bị mang tải treo",
+      "Nhóm chế độ làm việc": "A1 đến A3",
+      "Điều kiện sử dụng": "Công tác sửa chữa, di chuyển tải trọng với cường độ hạn chế"
+    },
+    {
+      "_row_id": 3,
+      "Cần trục": "3. Cần trục với xe con có tời kể cả với kẹp treo",
+      "Nhóm chế độ làm việc": "A1 đến A3",
+      "Điều kiện sử dụng": "Trong các gian máy của trạm thủy điện, công tác lắp ráp và di chuyển tải trọng với cường độ hạn chế"
+    },
+    {
+      "_row_id": 4,
+      "Cần trục": "4. Cần trục với xe con có tời kể cả với thiết bị mang tải treo",
+      "Nhóm chế độ làm việc": "A4 đến A6",
+      "Điều kiện sử dụng": "Công tác di chuyển tải trọng với cường độ trung bình; công tác công nghệ ở các phân xưởng cơ khí; trong các kho chứa các thành phẩm của xí nghiệp vật liệu xây dựng; trong các kho phân phối các sản phẩm kim loại"
+    },
+    {
+      "_row_id": 5,
+      "Cần trục": "5. Cần trục gàu ngoạm hai cáp, cần trục gàu ngoạm-nam châm",
+      "Nhóm chế độ làm việc": "A4 đến A6",
+      "Điều kiện sử dụng": "Trong các kho hỗn hợp, công việc với các tải trọng khác nhau"
+    },
+    {
+      "_row_id": 6,
+      "Cần trục": "6. Cần trục nam châm",
+      "Nhóm chế độ làm việc": "A4 đến A6",
+      "Điều kiện sử dụng": "Trong các kho bán thành phẩm, công việc với các tải trọng khác nhau"
+    },
+    {
+      "_row_id": 7,
+      "Cần trục": "7. Cần trục tôi, cần trục rèn, cần trục mang điện cực, cần trục đúc",
+      "Nhóm chế độ làm việc": "A7",
+      "Điều kiện sử dụng": "Trong các phân xưởng của nhà máy luyện kim"
+    },
+    {
+      "_row_id": 8,
+      "Cần trục": "8. Cần trục gàu ngoạm hai cáp, cần trục gàu ngoạm-nam châm",
+      "Nhóm chế độ làm việc": "A7",
+      "Điều kiện sử dụng": "Trong các kho chứa vật liệu chất đống, sắt vụn với các tải trọng cùng loại (làm việc một hoặc hai ca)"
+    },
+    {
+      "_row_id": 9,
+      "Cần trục": "9. Cần trục với xe con tời kể cả với kẹp treo",
+      "Nhóm chế độ làm việc": "A7",
+      "Điều kiện sử dụng": "Cần trục công nghệ làm việc suốt ngày đêm"
+    },
+    {
+      "_row_id": 10,
+      "Cần trục": "10. Cần trục dầm nâng, cần trục mang thùng nạp liệu có gàu ngoạm, cần trục nạp liệu lò Martin, cần trục dỡ thỏi đúc, cần trục đập, cần trục lò giếng",
+      "Nhóm chế độ làm việc": "A8",
+      "Điều kiện sử dụng": "Trong các phân xưởng của nhà máy luyện kim"
+    },
+    {
+      "_row_id": 11,
+      "Cần trục": "11. Cần trục nam châm",
+      "Nhóm chế độ làm việc": "A8",
+      "Điều kiện sử dụng": "Trong các phân xưởng và kho của nhà máy luyện kim, các cơ sở lớn chứa kim loại với tải trọng cùng loại"
+    },
+    {
+      "_row_id": 12,
+      "Cần trục": "12. Cần trục gàu ngoạm hai cáp, cần trục gàu ngoạm-nam châm",
+      "Nhóm chế độ làm việc": "A8",
+      "Điều kiện sử dụng": "Trong các kho chứa vật liệu chất đống và sắt vụn với tải trọng cùng loại (làm việc suốt ngày đêm)"
+    }
+  ]
+}

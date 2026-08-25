@@ -1,11 +1,17 @@
-[
-  {
-    "h/d": "$c_{e2}$, $c_i$",
-    "1/6": "&nbsp;&nbsp;\\- 0,50",
-    "1/4": "&nbsp;&nbsp;\\- 0,55",
-    "1/2": "&nbsp;&nbsp;\\- 0,70",
-    "1": "&nbsp;&nbsp;\\- 0,80",
-    "2": "&nbsp;&nbsp;\\- 0,90",
-    "≥ 5": "&nbsp;&nbsp;\\- 1,05"
-  }
-]
+{
+  "table_id": "bang_f_11",
+  "table_number": "F.11",
+  "table_title": "Bảng F.11 - Các hệ số $c_{e2}$ và $c_{i}$",
+  "rows": [
+    {
+      "_row_id": 1,
+      "h/d": "$c_{e2}$, $c_{i}$",
+      "1/6": "&nbsp;&nbsp;\\- 0,50",
+      "1/4": "&nbsp;&nbsp;\\- 0,55",
+      "1/2": "&nbsp;&nbsp;\\- 0,70",
+      "1": "&nbsp;&nbsp;\\- 0,80",
+      "2": "&nbsp;&nbsp;\\- 0,90",
+      "≥ 5": "&nbsp;&nbsp;\\- 1,05"
+    }
+  ]
+}

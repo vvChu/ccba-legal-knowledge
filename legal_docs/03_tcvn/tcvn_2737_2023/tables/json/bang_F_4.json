@@ -1,22 +1,43 @@
-[
-  {
-    "h/d": "h/d",
-    "Vùng": "A",
-    "": "E"
-  },
-  {
-    "h/d": "5",
-    "Vùng": "&nbsp;&nbsp;\\- 1,2",
-    "": "&nbsp;&nbsp;\\- 0,7"
-  },
-  {
-    "h/d": "1",
-    "Vùng": "&nbsp;&nbsp;\\- 1,2",
-    "": "&nbsp;&nbsp;\\- 0,5"
-  },
-  {
-    "h/d": "≤ 0,25",
-    "Vùng": "&nbsp;&nbsp;\\- 1,2",
-    "": "&nbsp;&nbsp;\\- 0,3"
-  }
-]
+{
+  "table_id": "bang_f_4",
+  "table_number": "F.4",
+  "table_title": "Bảng F.4 - Hệ số $c_{e}$ cho tường thẳng đứng của nhà có mặt bằng chữ nhật",
+  "rows": [
+    {
+      "_row_id": 1,
+      "h/d": "h/d",
+      "Vùng": "A",
+      "col_3": "B",
+      "col_4": "C",
+      "col_5": "D",
+      "col_6": "E"
+    },
+    {
+      "_row_id": 2,
+      "h/d": "5",
+      "Vùng": "&nbsp;&nbsp;\\- 1,2",
+      "col_3": "&nbsp;&nbsp;\\- 0,8",
+      "col_4": "&nbsp;&nbsp;\\- 0,5",
+      "col_5": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,8",
+      "col_6": "&nbsp;&nbsp;\\- 0,7"
+    },
+    {
+      "_row_id": 3,
+      "h/d": "1",
+      "Vùng": "&nbsp;&nbsp;\\- 1,2",
+      "col_3": "&nbsp;&nbsp;\\- 0,8",
+      "col_4": "&nbsp;&nbsp;\\- 0,5",
+      "col_5": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,8",
+      "col_6": "&nbsp;&nbsp;\\- 0,5"
+    },
+    {
+      "_row_id": 4,
+      "h/d": "≤ 0,25",
+      "Vùng": "&nbsp;&nbsp;\\- 1,2",
+      "col_3": "&nbsp;&nbsp;\\- 0,8",
+      "col_4": "&nbsp;&nbsp;\\- 0,5",
+      "col_5": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 0,7",
+      "col_6": "&nbsp;&nbsp;\\- 0,3"
+    }
+  ]
+}

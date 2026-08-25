@@ -18,8 +18,10 @@
 <a id="muc-g-1-3"></a>
 ### G.1.3  Khi xác định độ võng ngang của cột nhà một tầng và của trụ cầu cạn do tải trọng ngang của cần trục cần chọn sơ đồ tính của cột (trụ) có kể đến điều kiện liên kết với giả thiết:
 
-\- Cột nhà và trụ các cầu cạn trong nhà không có dịch chuyển ngang ở cao độ gối tựa trên cùng (nếu sàn mái không tạo thành tấm cứng trong mặt phẳng ngang, cần kể đến độ mềm dẻo theo phương ngang của gối tựa này);
-\- Trụ các cầu cạn ngoài trời được coi như công xôn.
+- Cột nhà và trụ các cầu cạn trong nhà không có dịch chuyển ngang ở cao độ gối tựa trên cùng (nếu sàn mái không tạo thành tấm cứng trong mặt phẳng ngang, cần kể đến độ mềm dẻo theo phương ngang của gối tựa này);
+
+- Trụ các cầu cạn ngoài trời được coi như công xôn.
+
 
 <a id="muc-g-1-4"></a>
 ### G.1.4  Khi kết cấu xây dựng dao động thì việc phân loại dao động, các thông số quy định, các giá trị giới hạn cho phép của chúng đối với nhà ở, nhà công cộng và nhà công nghiệp phải được quy định theo yêu cầu của các tiêu chuẩn có liên quan.
@@ -50,12 +52,8 @@ Nếu việc tính toán được thực hiện theo yêu cầu thẩm mỹ - t�
 <a id="muc-g-1-7"></a>
 ### G.1.7  Trong trường hợp giữa các tường có tường ngăn chịu lực (với chiều cao gần bằng chiều cao tường) thì giá trị L trong mục 2a Bảng G.1 lấy bằng khoảng cách giữa mặt trong của các tường chịu lực (hoặc các cột) và các tường ngăn (hoặc giữa mặt trong của các tường ngăn như trên Hình G.1).
 
-
-$$F_{d',down} = C \sqrt{m}$$
 a) Có một tường ngăn
 
-
-$$F_{d',down} = C \sqrt{m}$$
 b) Có hai tường ngăn
 
 CHÚ DẪN:
@@ -74,21 +72,19 @@ CHÚ DẪN:
 
 
 <a id="muc-g-1-8"></a>
-### G.1.8  Độ võng của kết cấu vì kèo khi có đường ray của cần trục treo (Bảng G.1, mục 2c) lấy bằng hiệu các độ võng $f_1$ và $f_2$ của các kết cấu vì kèo liền kề nhau (Hình G.2).
+### G.1.8  Độ võng của kết cấu vì kèo khi có đường ray của cần trục treo (Bảng G.1, mục 2c) lấy bằng hiệu các độ võng $f_{1}$ và $f_{2}$ của các kết cấu vì kèo liền kề nhau (Hình G.2).
 
-
-$$F_{d',down} = C \sqrt{m}$$
 CHÚ DẪN:
 
-| 1 - Kết cấu vì kèo;  | 3 - Cần trục treo; |
+| 1 - Kết cấu vì kèo; | 3 - Cần trục treo; |
 | :--- | :--- |
 | 2 - Dầm đỡ đường ray cần trục treo; | 4 - Vị trí ban đầu của kết cấu vì kèo. |
 
-CHÚ THÍCH:
+**CHÚ THÍCH:** 
 
-$f_1$ - Độ võng của kết cấu vì kèo chịu lực nhiều nhất;
+$f_{1}$ - Độ võng của kết cấu vì kèo chịu lực nhiều nhất;
 
-$f_2$ - Độ võng của kết cấu vì kèo gần kết cấu vì kèo chịu lực nhiều nhất.
+$f_{2}$ - Độ võng của kết cấu vì kèo gần kết cấu vì kèo chịu lực nhiều nhất.
 
 
 <a id="hinh-g_2"></a>
@@ -111,33 +107,33 @@ $f_2$ - Độ võng của kết cấu vì kèo gần kết cấu vì kèo chịu
 
 
 <a id="muc-g-2-2-1"></a>
-### G.2.2.1  Độ võng đứng giới hạn $f_u$ của các cấu kiện kết cấu và tải trọng tương ứng dùng để xác định độ võng f được nêu trong Bảng G.1.
+### G.2.2.1  Độ võng đứng giới hạn $f_{u}$ của các cấu kiện kết cấu và tải trọng tương ứng dùng để xác định độ võng f được nêu trong Bảng G.1.
 
 
 <a id="bang-bang-g-1"></a>
-### Bảng G.1 - Độ võng đứng giới hạn $f_u$ và tải trọng tương ứng để xác định độ võng đứng f
+### Bảng G.1 - Độ võng đứng giới hạn $f_{u}$ và tải trọng tương ứng để xác định độ võng đứng f
 
-| Cấu kiện kết cấu | Yêu cầu | Giá trị $f_u$ | Tải trọng để xác định độ võng đứng f |
+| Cấu kiện kết cấu | Yêu cầu | Giá trị $f_{u}$ | Tải trọng để xác định độ võng đứng f |
 | :--- | :--- | :--- | :--- |
 | 1. Dầm đỡ cần trục kiểu cầu (cầu trục) và cần trục treo được điều khiển từ cabin ứng với chế độ làm việc (theo TCVN 8590-1:2010 (ISO 4301-1:1986)): |  |  |  |
 | nhóm A1 đến A6 | Tâm sinh lý | L/400 | Tải trọng do một cần trục |
 | nhóm A7 | Tâm sinh lý | L/500 | Tải trọng do một cần trục |
 | nhóm A8 | Tâm sinh lý | L/600 | Tải trọng do một cần trục |
 | 2. Dầm, giàn, xà, bản, xà gồ, tấm, bản (bao gồm cả sườn của tấm và bản) đỡ: |  |  |  |
-| a) Mái và sàn tầng nhìn thấy được, có nhịp L, m:<br>L ≤ 1<br>L = 3<br>L = 3 | Thẩm mỹ - tâm lý | L/120<br>L/150<br>L/150 | Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm $\eta$ nêu tại 8.3.3) |
-| L = 6<br>L = 24 (12)<br>L ≥ 36 (24) | Thẩm mỹ - tâm lý | L/200<br>L/250<br>L/300 | Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm $\eta$ nêu tại 8.3.3) |
+| a) Mái và sàn tầng nhìn thấy được, có nhịp L, m:<br>L ≤ 1<br>L = 3<br>L = 3 | Thẩm mỹ - tâm lý | L/120<br>L/150<br>L/150 | Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm η nêu tại 8.3.3) |
+| L = 6<br>L = 24 (12)<br>L ≥ 36 (24) | Thẩm mỹ - tâm lý | L/200<br>L/250<br>L/300 | Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm η nêu tại 8.3.3) |
 | b) Mái và sàn tầng khi sử dụng pa lăng, cần trục treo được điều khiển từ cabin | Tâm sinh lý | L/400 hoặc a/200 (lấy giá trị nhỏ hơn) | Tải trọng do một cần trục hoặc pa lăng trên một đường ray |
 | c) Sàn tầng chịu tác dụng của: | Tâm sinh lý | L/350 | Giá trị bất lợi hơn trong hai giá trị:<br>&nbsp;&nbsp;\- 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng;<br>&nbsp;&nbsp;\- tải trọng do một xe xếp tải. |
 | &nbsp;&nbsp;\- các tải trọng di chuyển, vật liệu, chi tiết máy móc và các tải trọng di động khác (trong đó có tải trọng di chuyển trên nền không ray) | Tâm sinh lý | L/350 | Giá trị bất lợi hơn trong hai giá trị:<br>&nbsp;&nbsp;\- 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng;<br>&nbsp;&nbsp;\- tải trọng do một xe xếp tải. |
 | &nbsp;&nbsp;\- tải trọng di chuyển trên ray:<br>&nbsp;&nbsp;&nbsp;&nbsp;\+ khổ hẹp | Tâm sinh lý | L/400 | Tải trọng do một toa (hoặc một xe) chạy trên một đường ray |
 | &nbsp;&nbsp;&nbsp;&nbsp;\+ khổ rộng | Tâm sinh lý | L/500 | Tải trọng do một toa (hoặc một xe) chạy trên một đường ray |
-| d) mái và sàn tầng bãi đỗ xe trong nhà với nhịp L, m:<br>L = 6<br>L = 12<br>L ≥ 24 | Tâm sinh lý | L/200<br>L/250<br>L/300 | Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm $\eta$ nêu tại 8.3.3) |
+| d) mái và sàn tầng bãi đỗ xe trong nhà với nhịp L, m:<br>L = 6<br>L = 12<br>L ≥ 24 | Tâm sinh lý | L/200<br>L/250<br>L/300 | Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm η nêu tại 8.3.3) |
 | 3. Các bộ phận của cầu thang bộ (bản thang, chiếu nghỉ, chiếu tới, cốn), của ban công, của lôgia | Thẩm mỹ - tâm lý | Như trong mục 2a |  |
 | 3. Các bộ phận của cầu thang bộ (bản thang, chiếu nghỉ, chiếu tới, cốn), của ban công, của lôgia | Tâm sinh lý | Xác định theo G.2.2 |  |
 | 4. Lanh tô, tấm tường treo phía trên lỗ cửa sổ và cửa đi (xà và xà gồ vách kính) | Thẩm mỹ - tâm lý | Như trong mục 2a |  |
 | Các ký hiệu trong Bảng G.1:<br>L là nhịp tính toán của cấu kiện.<br>a là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào. |  |  |  |
 
-**CHÚ THÍCH 1:** Đối với công xôn L được lấy bằng hai lần chiều dài vươn công xôn.<br>CHÚ THÍCH 2: Đối với các giá trị trung gian của L trong mục 2a, độ võng giới hạn xác định bằng nội suy tuyến tính có kể đến các yêu cầu trong G.1.7.<br>CHÚ THÍCH 3: Trong mục 2a lấy số trong ngoặc đơn khi chiều cao phòng đến nhỏ hơn hoặc bằng 6 m.<br>CHÚ THÍCH 4: Cách tính độ võng theo mục 2b được nêu trong G.1.8.<br>CHÚ THÍCH 5: Khi khống chế độ võng giới hạn theo yêu cầu thẩm mỹ - tâm lý thì cho phép chiều dài nhịp L lấy bằng khoảng cách giữa mặt trong của các tường chịu lực (hoặc các cột).<br>CHÚ THÍCH 6: Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) và cần trục treo lấy theo Bảng B.1, Phụ lục B.
+**CHÚ THÍCH:** Đối với công xôn L được lấy bằng hai lần chiều dài vươn công xôn.<br>CHÚ THÍCH 2: Đối với các giá trị trung gian của L trong mục 2a, độ võng giới hạn xác định bằng nội suy tuyến tính có kể đến các yêu cầu trong G.1.7.<br>CHÚ THÍCH 3: Trong mục 2a lấy số trong ngoặc đơn khi chiều cao phòng đến nhỏ hơn hoặc bằng 6 m.<br>CHÚ THÍCH 4: Cách tính độ võng theo mục 2b được nêu trong G.1.8.<br>CHÚ THÍCH 5: Khi khống chế độ võng giới hạn theo yêu cầu thẩm mỹ - tâm lý thì cho phép chiều dài nhịp L lấy bằng khoảng cách giữa mặt trong của các tường chịu lực (hoặc các cột).<br>CHÚ THÍCH 6: Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) và cần trục treo lấy theo Bảng B.1, Phụ lục B.
 
 
 <a id="muc-g-2-2"></a>
@@ -147,38 +143,34 @@ $f_2$ - Độ võng của kết cấu vì kèo gần kết cấu vì kèo chịu
 
 
 <a id="formula-g_1"></a>
-
-$$
-f_u = \frac{g(p + p_1 + q)}{30n^2 (bp + p_1 + q)} \tag{G.1}
-$$
-
+$$f_u = \frac{g(p + p_1 + q)}{30n^2 (bp + p_1 + q)} 	ag{G.1}$$
 <!-- formula_id: "F_TCVN2737_DO_VONG_GIOI_HAN_G1" -->
 
 trong đó:
 
-&nbsp;&nbsp;&nbsp;&nbsp;g là gia tốc trọng trường;
+&nbsp;&nbsp;&nbsp;&nbsp;\- g là gia tốc trọng trường;
 
-&nbsp;&nbsp;&nbsp;&nbsp;p là giá trị tiêu chuẩn của tải trọng do trọng lượng con người gây ra dao động, lấy theo Bảng G.2;
+&nbsp;&nbsp;&nbsp;&nbsp;\- p là giá trị tiêu chuẩn của tải trọng do trọng lượng con người gây ra dao động, lấy theo Bảng G.2;
 
-&nbsp;&nbsp;&nbsp;&nbsp;$p_1$ là giá trị tiêu chuẩn giảm của tải trọng lên sàn, lấy theo Bảng G.2;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $p_{1}$ là giá trị tiêu chuẩn giảm của tải trọng lên sàn, lấy theo Bảng G.2;
 
-&nbsp;&nbsp;&nbsp;&nbsp;q là giá trị tiêu chuẩn của tải trọng do trọng lượng của cấu kiện đang tính và các kết cấu tựa lên nó;
+&nbsp;&nbsp;&nbsp;&nbsp;\- q là giá trị tiêu chuẩn của tải trọng do trọng lượng của cấu kiện đang tính và các kết cấu tựa lên nó;
 
-&nbsp;&nbsp;&nbsp;&nbsp;n là tần số gia tải khi người đi lại, lấy theo Bảng G.2;
+&nbsp;&nbsp;&nbsp;&nbsp;\- n là tần số gia tải khi người đi lại, lấy theo Bảng G.2;
 
-&nbsp;&nbsp;&nbsp;&nbsp;b là hệ số, lấy theo Bảng G.2.
+&nbsp;&nbsp;&nbsp;&nbsp;\- b là hệ số, lấy theo Bảng G.2.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Độ võng f cần được xác định do tổng các tải trọng $\varphi_1$ p + $p_1$ + q, trong đó là hệ số xác định theo công thức (3).
+Độ võng f cần được xác định do tổng các tải trọng $\varphi_{1}$ p + $p_{1}$ + q, trong đó là hệ số xác định theo công thức (3).
 
 
 <a id="bang-bang-g-2"></a>
-### Bảng G.2 - Các hệ số p, $p_1$, n, b
+### Bảng G.2 - Các hệ số p, $p_{1}$, n, b
 
-| Các khu vực<br>(theo Bảng 4) | p,<br>kN/$m^2$ | $p_1$, <br>kN/$m^2$ | n,<br>Hz | b |
+| Các khu vực<br>(theo Bảng 4) | p,<br>kN/$m^{2}$ | $p_{1}$,<br>kN/$m^{2}$ | n,<br>Hz | b |
 | :--- | :---: | :--- | :---: | :--- |
 | 1. Các khu vực A, B (trừ phòng sinh hoạt ở khu B1); những chỗ nghỉ ngơi thuộc khu vực I2) | 0,25 | Lấy bằng $q_{k,qper}$ theo 8.3.3 | 1,5 |  |
 | 2. Phòng học thuộc khu vực C1.1 và phòng sinh hoạt thuộc khu vực B1;<br>Các khu vực C (trừ phòng khiêu vũ thuộc khu vực C4) và D;<br>Những chỗ tập trung đông người thuộc khu vực I1 | 0,50 | Lấy bằng $q_{k,qper}$ theo 8.3.3 | 1,5 |  |
-| Các ký hiệu trong bảng:<br>Q là trọng lượng của một người, lấy bằng 0,8 kN.<br>$\alpha$ là hệ số, lấy bằng:<br>1,0 - đối với cấu kiện tính theo sơ đồ dầm;<br>0,6 - đối với các cấu kiện còn lại (ví dụ, khi bản sàn kê ba hoặc bốn cạnh).<br>a là bước dầm, xà; chiều rộng bản sàn (tấm), tính bằng mét (m).<br>L là nhịp tính toán của cấu kiện kết cấu, tính bằng mét (m). |  |  |  |  |
+| Các ký hiệu trong bảng:<br>Q là trọng lượng của một người, lấy bằng 0,8 kN.<br>α là hệ số, lấy bằng:<br>1,0 - đối với cấu kiện tính theo sơ đồ dầm;<br>0,6 - đối với các cấu kiện còn lại (ví dụ, khi bản sàn kê ba hoặc bốn cạnh).<br>a là bước dầm, xà; chiều rộng bản sàn (tấm), tính bằng mét (m).<br>L là nhịp tính toán của cấu kiện kết cấu, tính bằng mét (m). |  |  |  |  |
 
 
 <a id="muc-g-2-3"></a>
@@ -192,7 +184,7 @@ trong đó:
 <a id="bang-bang-g-3"></a>
 ### Bảng G.3 - Độ võng ngang giới hạn $f_{\mu}$ của cột nhà có cầu trục, trụ cầu cạn, dầm đỡ cầu trục và kết cấu hãm
 
-| Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) | Giá trị $f_u$ của |  |  |
+| Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) | Giá trị $f_{u}$ của |  |  |
 | :--- | :--- | :--- | :--- |
 | Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) | Cột nhà và trụ cầu cạn trong nhà | Trụ cầu cạn ngoài trời | Dầm đỡ cầu trục và kết cấu hãm, nhà và cầu cạn (cả trong nhà và ngoài trời) |
 | A1 đến A3 | h/500 | h/1 500 | L/500 |
@@ -214,9 +206,9 @@ trong đó:
 <a id="muc-g-2-4-2"></a>
 ### G.2.4.2  Độ võng ngang giới hạn của cột (trụ) nhà khung do tác động của nhiệt khí hậu và lún lấy bằng:
 
-$h_s$/150 - khi tường và tường ngăn bằng gạch, bê tông thạch cao, bê tông cốt thép hay panen treo;
+$h_{s}$/150 - khi tường và tường ngăn bằng gạch, bê tông thạch cao, bê tông cốt thép hay panen treo;
 
-$h_s$/200 - khi tường được ốp bằng đá tự nhiên, tường bằng gạch đất sét nung hoặc bằng kính (vách kính), trong đó $h_s$ là chiều cao một tầng, còn đối với nhà một tầng có cầu trục thì $h_s$ là chiều cao từ mặt móng đến mặt dưới của dầm đỡ cầu trục.
+$h_{s}$/200 - khi tường được ốp bằng đá tự nhiên, tường bằng gạch đất sét nung hoặc bằng kính (vách kính), trong đó $h_{s}$ là chiều cao một tầng, còn đối với nhà một tầng có cầu trục thì $h_{s}$ là chiều cao từ mặt móng đến mặt dưới của dầm đỡ cầu trục.
 
 Khi đó tác động của nhiệt độ cần được lấy không kể đến sự thay đổi nhiệt độ không khí bên ngoài ngày đêm và chênh lệch nhiệt độ do bức xạ mặt trời.
 
@@ -240,9 +232,9 @@ Khi xác định độ võng ngang do tác động của nhiệt khí hậu và 
 
 
 <a id="bang-bang-g-4"></a>
-### Bảng G.4 - Độ võng đứng giới hạn $f_u$ và tải trọng tương ứng để xác định độ võng đứng f
+### Bảng G.4 - Độ võng đứng giới hạn $f_{u}$ và tải trọng tương ứng để xác định độ võng đứng f
 
-| Cấu kiện kết cấu | Yêu cầu | Giá trị $f_u$ | Tải trọng để xác định độ võng đứng f |
+| Cấu kiện kết cấu | Yêu cầu | Giá trị $f_{u}$ | Tải trọng để xác định độ võng đứng f |
 | :--- | :--- | :--- | :--- |
 | 1. Dầm đỡ cần trục kiểu cầu (cầu trục) và cần trục treo được điều khiển: |  |  |  |
 | a) từ dưới nền, kể cả pa lăng | Công nghệ | L/250 | Tải trọng do một cần trục |
@@ -258,11 +250,11 @@ Khi xác định độ võng ngang do tác động của nhiệt khí hậu và 
 | &nbsp;&nbsp;\- tải trọng di chuyển trên ray: | Công nghệ | L/350 | Giá trị bất lợi hơn trong hai giá trị:<br>&nbsp;&nbsp;\- 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng;<br>&nbsp;&nbsp;\- tải trọng do một xe xếp tải |
 | &nbsp;&nbsp;&nbsp;&nbsp;\+ khổ hẹp | Công nghệ | L/400 | Tải trọng do một toa (hoặc xe) chạy trên một đường ray |
 | &nbsp;&nbsp;&nbsp;&nbsp;\+ khổ rộng | Công nghệ | L/500 | Tải trọng do một toa (hoặc xe) chạy trên một đường ray |
-| d) Mái và sàn tầng của bãi đỗ xe trong nhà, có nhịp L, m:<br>L = 6<br>L = 12<br>L ≥ 24 | Công nghệ | L/200<br>L/250<br>L/300 | Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm $\eta$ nêu tại 8.3.3 và tải trọng tạm thời ngắn hạn nêu tại Bảng 5 với hệ số giảm $\eta$ nêu tại 8.5.4) |
+| d) Mái và sàn tầng của bãi đỗ xe trong nhà, có nhịp L, m:<br>L = 6<br>L = 12<br>L ≥ 24 | Công nghệ | L/200<br>L/250<br>L/300 | Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm η nêu tại 8.3.3 và tải trọng tạm thời ngắn hạn nêu tại Bảng 5 với hệ số giảm η nêu tại 8.5.4) |
 | 3. Lanh tô, tấm tường treo phía trên lỗ cửa sổ và cửa đi (xà và xà gồ vách kính) | Cấu tạo | L/200 | Tải trọng làm giảm khe hở giữa cấu kiện chịu lực và phần chèn các cửa sổ, cửa đi dưới cấu kiện chịu lực đó. |
 | Các ký hiệu trong Bảng G.4:<br>L là nhịp tính toán của cấu kiện kết cấu.<br>a là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào. |  |  |  |
 
-**CHÚ THÍCH 1:** Đối với công xôn L được lấy bằng hai lần chiều dài vươn công xôn.<br>CHÚ THÍCH 2: Cách tính độ võng theo mục 2b được nêu trong G.1.8.<br>CHÚ THÍCH 3: Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) và cần trục treo lấy theo Phụ lục B.
+**CHÚ THÍCH:** Đối với công xôn L được lấy bằng hai lần chiều dài vươn công xôn.<br>CHÚ THÍCH 2: Cách tính độ võng theo mục 2b được nêu trong G.1.8.<br>CHÚ THÍCH 3: Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) và cần trục treo lấy theo Phụ lục B.
 
 
 <a id="muc-g-2-5-1-2"></a>
@@ -288,33 +280,31 @@ Chuyển vị ngang của nhà cần được xác định có kể đến độ
 
 
 <a id="bang-bang-g-5"></a>
-### Bảng G.5 - Chuyển vị ngang giới hạn $f_u$ theo yêu cầu cấu tạo
+### Bảng G.5 - Chuyển vị ngang giới hạn $f_{u}$ theo yêu cầu cấu tạo
 
-| Nhà, tường và tường ngăn | Liên kết giữa tường, tường ngăn với khung nhà | Giá trị $f_u$ |
+| Nhà, tường và tường ngăn | Liên kết giữa tường, tường ngăn với khung nhà | Giá trị $f_{u}$ |
 | :--- | :--- | :--- |
 | 1. Nhà nhiều tầng | Bất kỳ | h/500 |
 | 2. Một tầng của nhà nhiều tầng: |  |  |
-| a) Tường và tường ngăn làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép | Cứng | $h_s$/500 |
-| b) Tường (có ốp đá tự nhiên) làm từ gạch ceramic | Cứng | $h_s$/700 |
-| c) Tường và tường ngăn (có ốp đá tự nhiên) làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép; tường và tường ngăn làm bằng gạch ceramic | Mềm | $h_s$/300 |
-| 3. Nhà một tầng (với tường tự chịu lực) | Mềm | $h_s$/300 |
-| Các ký hiệu trong Bảng G.5:<br>h là chiều cao nhà nhiều tầng, lấy bằng khoảng cách từ mặt móng đến trục của xà đỡ mái.<br>$h_s$ là chiều cao tầng của nhà một tầng, lấy bằng khoảng cách từ mặt móng đến mặt dưới của kết cấu vì kèo; trong nhà nhiều tầng: đối với tầng dưới cùng - bằng khoảng cách từ trên mặt móng đến trục của xà đỡ sàn tầng; đối với các tầng còn lại - bằng khoảng cách giữa các trục của các xà liền kề. |  |  |
+| a) Tường và tường ngăn làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép | Cứng | $h_{s}$/500 |
+| b) Tường (có ốp đá tự nhiên) làm từ gạch ceramic | Cứng | $h_{s}$/700 |
+| c) Tường và tường ngăn (có ốp đá tự nhiên) làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép; tường và tường ngăn làm bằng gạch ceramic | Mềm | $h_{s}$/300 |
+| 3. Nhà một tầng (với tường tự chịu lực) | Mềm | $h_{s}$/300 |
+| Các ký hiệu trong Bảng G.5:<br>h là chiều cao nhà nhiều tầng, lấy bằng khoảng cách từ mặt móng đến trục của xà đỡ mái.<br>$h_{s}$ là chiều cao tầng của nhà một tầng, lấy bằng khoảng cách từ mặt móng đến mặt dưới của kết cấu vì kèo; trong nhà nhiều tầng: đối với tầng dưới cùng - bằng khoảng cách từ trên mặt móng đến trục của xà đỡ sàn tầng; đối với các tầng còn lại - bằng khoảng cách giữa các trục của các xà liền kề. |  |  |
 
-**CHÚ THÍCH 1:** Đối với tầng trên cùng của nhà nhiều tầng được thiết kế có sử dụng các cấu kiện của mái nhà một tầng thì các chuyển vị ngang giới hạn được lấy như đối với nhà một tầng. Khi đó chiều cao tầng trên cùng $h_s$ được tính từ trục của dầm đỡ sàn tầng đến mặt dưới của kết cấu vì kèo.<br>CHÚ THÍCH 2: Các liên kết sau được xếp vào loại mềm: liên kết giữa tường hoặc tường ngăn với khung mà không ngăn cản dịch chuyển của khung (không truyền vào tường và tường ngăn nội lực có thể gây hư hỏng các cấu kiện cấu tạo); các liên kết được xếp vào loại cứng; liên kết ngăn cản các dịch chuyển tương hỗ của khung, tường hoặc tường ngăn.<br>CHÚ THÍCH 3: Đối với nhà một tầng có tường treo (cũng như khi không có tấm mái cứng) và đối với khung độc lập nhiều tầng đỡ thiết bị trong nhà công nghiệp, chuyển vị ngang giới hạn cho phép tăng lên 30 % (nhưng lấy không lớn hơn $h_s$/150), trong phạm vi mỗi tầng.
+**CHÚ THÍCH:** Đối với tầng trên cùng của nhà nhiều tầng được thiết kế có sử dụng các cấu kiện của mái nhà một tầng thì các chuyển vị ngang giới hạn được lấy như đối với nhà một tầng. Khi đó chiều cao tầng trên cùng $h_{s}$ được tính từ trục của dầm đỡ sàn tầng đến mặt dưới của kết cấu vì kèo.<br>CHÚ THÍCH 2: Các liên kết sau được xếp vào loại mềm: liên kết giữa tường hoặc tường ngăn với khung mà không ngăn cản dịch chuyển của khung (không truyền vào tường và tường ngăn nội lực có thể gây hư hỏng các cấu kiện cấu tạo); các liên kết được xếp vào loại cứng; liên kết ngăn cản các dịch chuyển tương hỗ của khung, tường hoặc tường ngăn.<br>CHÚ THÍCH 3: Đối với nhà một tầng có tường treo (cũng như khi không có tấm mái cứng) và đối với khung độc lập nhiều tầng đỡ thiết bị trong nhà công nghiệp, chuyển vị ngang giới hạn cho phép tăng lên 30 % (nhưng lấy không lớn hơn $h_{s}$/150), trong phạm vi mỗi tầng.
 
 
 <a id="muc-g-2-5-3-2"></a>
-### G.2.5.3.2  Đối với các sơ đồ khung giằng của nhà nhiều tầng có chiều cao trên 40 m thì độ nghiêng của các màng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng tính bằng $f_1$/$h_s$ + $f_2$/L (Hình G.3) không được vượt quá (xem Bảng G.5): 1/500 đối với mục 2a và 1/700 đối với mục 2b và 1/300 đối với mục 2c.
+### G.2.5.3.2  Đối với các sơ đồ khung giằng của nhà nhiều tầng có chiều cao trên 40 m thì độ nghiêng của các màng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng tính bằng $f_{1}$/$h_{s}$ + $f_{2}$/L (Hình G.3) không được vượt quá (xem Bảng G.5): 1/500 đối với mục 2a và 1/700 đối với mục 2b và 1/300 đối với mục 2c.
 
-
-$$F_{d',down} = C \sqrt{m}$$
 CHÚ DẪN:
 
 1 - Vách cứng;
 
 2 - Mảng tường thuộc phạm vi các tầng.
 
-CHÚ THÍCH:
+**CHÚ THÍCH:** 
 
 Đường nét liền chỉ sơ đồ ban đầu của khung trước khi chịu tải trọng.
 
@@ -329,7 +319,7 @@ CHÚ THÍCH:
 <a id="muc-g-2-5-4"></a>
 ### G.2.5.4  Độ vồng của các cấu kiện của sàn tầng do lực nén trước
 
-Độ vồng giới hạn $f_u$ của các cấu kiện của sàn tầng theo yêu cầu cấu tạo lấy bằng:
+Độ vồng giới hạn $f_{u}$ của các cấu kiện của sàn tầng theo yêu cầu cấu tạo lấy bằng:
 
 khi L ≤ 3m: 15 mm;
 

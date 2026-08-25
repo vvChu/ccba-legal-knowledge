@@ -1,17 +1,17 @@
-Cấu kiện kết cấu,Yêu cầu,Giá trị $f_u$,Tải trọng để xác định độ võng đứng f
+﻿Cấu kiện kết cấu,Yêu cầu,Giá trị $f_{u}$,Tải trọng để xác định độ võng đứng f
 1. Dầm đỡ cần trục kiểu cầu (cầu trục) và cần trục treo được điều khiển từ cabin ứng với chế độ làm việc (theo TCVN 8590-1:2010 (ISO 4301-1:1986)):,,,
 nhóm A1 đến A6,Tâm sinh lý,L/400,Tải trọng do một cần trục
 nhóm A7,Tâm sinh lý,L/500,Tải trọng do một cần trục
 nhóm A8,Tâm sinh lý,L/600,Tải trọng do một cần trục
 "2. Dầm, giàn, xà, bản, xà gồ, tấm, bản (bao gồm cả sườn của tấm và bản) đỡ:",,,
-"a) Mái và sàn tầng nhìn thấy được, có nhịp L, m:<br>L ≤ 1<br>L = 3<br>L = 3",Thẩm mỹ - tâm lý,L/120<br>L/150<br>L/150,Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm $\eta$ nêu tại 8.3.3)
-L = 6<br>L = 24 (12)<br>L ≥ 36 (24),Thẩm mỹ - tâm lý,L/200<br>L/250<br>L/300,Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm $\eta$ nêu tại 8.3.3)
+"a) Mái và sàn tầng nhìn thấy được, có nhịp L, m:<br>L ≤ 1<br>L = 3<br>L = 3",Thẩm mỹ - tâm lý,L/120<br>L/150<br>L/150,Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm η nêu tại 8.3.3)
+L = 6<br>L = 24 (12)<br>L ≥ 36 (24),Thẩm mỹ - tâm lý,L/200<br>L/250<br>L/300,Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm η nêu tại 8.3.3)
 "b) Mái và sàn tầng khi sử dụng pa lăng, cần trục treo được điều khiển từ cabin",Tâm sinh lý,L/400 hoặc a/200 (lấy giá trị nhỏ hơn),Tải trọng do một cần trục hoặc pa lăng trên một đường ray
 c) Sàn tầng chịu tác dụng của:,Tâm sinh lý,L/350,"Giá trị bất lợi hơn trong hai giá trị:<br>&nbsp;&nbsp;\- 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng;<br>&nbsp;&nbsp;\- tải trọng do một xe xếp tải."
 "&nbsp;&nbsp;\- các tải trọng di chuyển, vật liệu, chi tiết máy móc và các tải trọng di động khác (trong đó có tải trọng di chuyển trên nền không ray)",Tâm sinh lý,L/350,"Giá trị bất lợi hơn trong hai giá trị:<br>&nbsp;&nbsp;\- 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng;<br>&nbsp;&nbsp;\- tải trọng do một xe xếp tải."
 &nbsp;&nbsp;\- tải trọng di chuyển trên ray:<br>&nbsp;&nbsp;&nbsp;&nbsp;\+ khổ hẹp,Tâm sinh lý,L/400,Tải trọng do một toa (hoặc một xe) chạy trên một đường ray
 &nbsp;&nbsp;&nbsp;&nbsp;\+ khổ rộng,Tâm sinh lý,L/500,Tải trọng do một toa (hoặc một xe) chạy trên một đường ray
-"d) mái và sàn tầng bãi đỗ xe trong nhà với nhịp L, m:<br>L = 6<br>L = 12<br>L ≥ 24",Tâm sinh lý,L/200<br>L/250<br>L/300,Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm $\eta$ nêu tại 8.3.3)
+"d) mái và sàn tầng bãi đỗ xe trong nhà với nhịp L, m:<br>L = 6<br>L = 12<br>L ≥ 24",Tâm sinh lý,L/200<br>L/250<br>L/300,Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm η nêu tại 8.3.3)
 "3. Các bộ phận của cầu thang bộ (bản thang, chiếu nghỉ, chiếu tới, cốn), của ban công, của lôgia",Thẩm mỹ - tâm lý,Như trong mục 2a,
 "3. Các bộ phận của cầu thang bộ (bản thang, chiếu nghỉ, chiếu tới, cốn), của ban công, của lôgia",Tâm sinh lý,Xác định theo G.2.2,
 "4. Lanh tô, tấm tường treo phía trên lỗ cửa sổ và cửa đi (xà và xà gồ vách kính)",Thẩm mỹ - tâm lý,Như trong mục 2a,

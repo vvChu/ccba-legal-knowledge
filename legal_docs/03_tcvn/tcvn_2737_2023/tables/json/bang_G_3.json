@@ -1,27 +1,42 @@
-[
-  {
-    "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)",
-    "Giá trị $f_u$ của": "Cột nhà và trụ cầu cạn trong nhà",
-    "": "Dầm đỡ cầu trục và kết cấu hãm, nhà và cầu cạn (cả trong nhà và ngoài trời)"
-  },
-  {
-    "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "A1 đến A3",
-    "Giá trị $f_u$ của": "h/500",
-    "": "L/500"
-  },
-  {
-    "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "A4 đến A6",
-    "Giá trị $f_u$ của": "h/1 000",
-    "": "L/1 000"
-  },
-  {
-    "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "A7 đến A8",
-    "Giá trị $f_u$ của": "h/2000",
-    "": "L/2 000"
-  },
-  {
-    "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "Các ký hiệu trong Bảng G.3:<br>h là chiều cao từ mặt trên của móng đến đỉnh của đường ray cầu trục (đối với nhà 1 tầng và cầu cạn ngoài trời hoặc trong nhà) hoặc khoảng cách từ trục dầm sàn đến đỉnh của đường ray cầu trục (đối với các tầng trên của nhà nhiều tầng);<br>L là nhịp tính toán của cấu kiện (dầm).",
-    "Giá trị $f_u$ của": "",
-    "": ""
-  }
-]
+{
+  "table_id": "bang_g_3",
+  "table_number": "G.3",
+  "table_title": "Bảng G.3 - Độ võng ngang giới hạn $f_{\\mu}$ của cột nhà có cầu trục, trụ cầu cạn, dầm đỡ cầu trục và kết cấu hãm",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)",
+      "Giá trị $f_{u}$ của": "Cột nhà và trụ cầu cạn trong nhà",
+      "col_3": "Trụ cầu cạn ngoài trời",
+      "col_4": "Dầm đỡ cầu trục và kết cấu hãm, nhà và cầu cạn (cả trong nhà và ngoài trời)"
+    },
+    {
+      "_row_id": 2,
+      "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "A1 đến A3",
+      "Giá trị $f_{u}$ của": "h/500",
+      "col_3": "h/1 500",
+      "col_4": "L/500"
+    },
+    {
+      "_row_id": 3,
+      "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "A4 đến A6",
+      "Giá trị $f_{u}$ của": "h/1 000",
+      "col_3": "h/2000",
+      "col_4": "L/1 000"
+    },
+    {
+      "_row_id": 4,
+      "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "A7 đến A8",
+      "Giá trị $f_{u}$ của": "h/2000",
+      "col_3": "h/2500",
+      "col_4": "L/2 000"
+    },
+    {
+      "_row_id": 5,
+      "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "Các ký hiệu trong Bảng G.3:h là chiều cao từ mặt trên của móng đến đỉnh của đường ray cầu trục (đối với nhà 1 tầng và cầu cạn ngoài trời hoặc trong nhà) hoặc khoảng cách từ trục dầm sàn đến đỉnh của đường ray cầu trục (đối với các tầng trên của nhà nhiều tầng);L là nhịp tính toán của cấu kiện (dầm).",
+      "Giá trị $f_{u}$ của": "",
+      "col_3": "",
+      "col_4": ""
+    }
+  ]
+}

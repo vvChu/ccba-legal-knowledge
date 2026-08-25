@@ -1,10 +1,16 @@
-[
-  {
-    "Vùng áp lực gió trên bản đồ": "$W_0$, daN/$m^2$",
-    "I": "65",
-    "II": "95",
-    "III": "125",
-    "IV": "155",
-    "V": "185"
-  }
-]
+{
+  "table_id": "bang_07",
+  "table_number": "7",
+  "table_title": "Bảng 7 - Giá trị của áp lực gió cơ sở $W_{0}$ theo bản đồ phân vùng áp lực gió trên lãnh thổ Việt Nam",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Vùng áp lực gió trên bản đồ": "$W_{0}$, daN/$m^{2}$",
+      "I": "65",
+      "II": "95",
+      "III": "125",
+      "IV": "155",
+      "V": "185"
+    }
+  ]
+}

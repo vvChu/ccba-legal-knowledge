@@ -33,84 +33,72 @@
 
 
 <a id="muc-b-2-1"></a>
-### B.2.1  Giá trị tiêu chuẩn $F_k$ của tải trọng ngang, hướng dọc theo đường cẩu và sinh ra do va chạm của cần trục vào gối chặn cuối đường ray được xác định theo công thức:
+### B.2.1  Giá trị tiêu chuẩn $F_{k}$ của tải trọng ngang, hướng dọc theo đường cẩu và sinh ra do va chạm của cần trục vào gối chặn cuối đường ray được xác định theo công thức:
 
 
 <a id="formula-b_1"></a>
-
-$$
-F_k = \frac{m v^2}{f} \tag{B.1}
-$$
-
+$$F_k = \frac{m v^2}{f} 	ag{B.1}$$
 <!-- formula_id: "F_TCVN2737_LUC_VA_CHAM_B1" -->
 
 trong đó:
 
-&nbsp;&nbsp;&nbsp;&nbsp;$F_k$ tính bằng kilôniutơn (kN);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $F_{k}$ tính bằng kilôniutơn (kN);
 
-&nbsp;&nbsp;&nbsp;&nbsp;v là vận tốc của cần trục ở thời điểm va chạm, lấy bằng một nửa vận tốc danh nghĩa, tính bằng mét trên giây (m/s).
+&nbsp;&nbsp;&nbsp;&nbsp;\- v là vận tốc của cần trục ở thời điểm va chạm, lấy bằng một nửa vận tốc danh nghĩa, tính bằng mét trên giây (m/s).
 
-&nbsp;&nbsp;&nbsp;&nbsp;f là độ nhún lớn nhất có khả năng xảy ra của bộ giảm xóc, tính bằng mét (m), lấy bằng:
+&nbsp;&nbsp;&nbsp;&nbsp;\- f là độ nhún lớn nhất có khả năng xảy ra của bộ giảm xóc, tính bằng mét (m), lấy bằng:
 
-&nbsp;&nbsp;&nbsp;&nbsp;0,1 - đối với các cần trục có móc mềm và sức nâng không lớn hơn 50 T thuộc các nhóm chế độ làm việc từ A1 đến A7;
+&nbsp;&nbsp;&nbsp;&nbsp;\- 0,1 - đối với các cần trục có móc mềm và sức nâng không lớn hơn 50 T thuộc các nhóm chế độ làm việc từ A1 đến A7;
 
-&nbsp;&nbsp;&nbsp;&nbsp;0,2 - đối với các trường hợp khác.
+&nbsp;&nbsp;&nbsp;&nbsp;\- 0,2 - đối với các trường hợp khác.
 
-&nbsp;&nbsp;&nbsp;&nbsp;m là khối lượng quy đổi của cần trục, được xác định theo công thức:
+&nbsp;&nbsp;&nbsp;&nbsp;\- m là khối lượng quy đổi của cần trục, được xác định theo công thức:
 
 
 <a id="formula-b_2"></a>
-
-$$
-m = \frac{m_b}{2} + (m_c + k m_q) \frac{L - L_1}{L} \tag{B.2}
-$$
-
+$$m = \frac{m_b}{2} + (m_c + k m_q) \frac{L - L_1}{L} 	ag{B.2}$$
 <!-- formula_id: "F_TCVN2737_KHOI_LUONG_QUY_DOI_B2" -->
 
 trong đó:
 
-&nbsp;&nbsp;&nbsp;&nbsp;$m_b$ là khối lượng cầu của cần trục, tính bằng tấn (T);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $m_{b}$ là khối lượng cầu của cần trục, tính bằng tấn (T);
 
-&nbsp;&nbsp;&nbsp;&nbsp;$m_c$ là khối lượng xe tời, tính bằng tấn (T)
+&nbsp;&nbsp;&nbsp;&nbsp;\- $m_{c}$ là khối lượng xe tời, tính bằng tấn (T)
 
-&nbsp;&nbsp;&nbsp;&nbsp;$m_q$ là sức nâng của cần trục, tính bằng tấn (T);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $m_{q}$ là sức nâng của cần trục, tính bằng tấn (T);
 
-&nbsp;&nbsp;&nbsp;&nbsp;k là hệ số, lấy bằng:
+&nbsp;&nbsp;&nbsp;&nbsp;\- k là hệ số, lấy bằng:
 
-&nbsp;&nbsp;&nbsp;&nbsp;0 - đối với các cần trục có móc mềm;
+&nbsp;&nbsp;&nbsp;&nbsp;\- 0 - đối với các cần trục có móc mềm;
 
-&nbsp;&nbsp;&nbsp;&nbsp;1,0 - đối với cần trục có móc cứng.
+&nbsp;&nbsp;&nbsp;&nbsp;\- 1,0 - đối với cần trục có móc cứng.
 
-&nbsp;&nbsp;&nbsp;&nbsp;L là nhịp của cần trục, tính bằng mét (m).
+&nbsp;&nbsp;&nbsp;&nbsp;\- L là nhịp của cần trục, tính bằng mét (m).
 
-&nbsp;&nbsp;&nbsp;&nbsp;$L_1$ là khoảng cách từ xe tời tới ray có gối chặn cần tính tải trọng va chạm, tính bằng mét (m).
+&nbsp;&nbsp;&nbsp;&nbsp;\- $L_{1}$ là khoảng cách từ xe tời tới ray có gối chặn cần tính tải trọng va chạm, tính bằng mét (m).
 
 
 <a id="muc-b-2-2"></a>
-### B.2.2  Giá trị tính toán $F_d$ của tải trọng ngang do va chạm đang xét được xác định theo công thức:
+### B.2.2  Giá trị tính toán $F_{d}$ của tải trọng ngang do va chạm đang xét được xác định theo công thức:
 
 
 <a id="formula-b_3"></a>
-
-$$
-F_d = \gamma_f F_k \tag{B.3}
-$$
-
+$$F_d = \gamma_f F_k 	ag{B.3}$$
 <!-- formula_id: "F_TCVN2737_LUC_VA_CHAM_TINH_TOAN_B3" -->
 
 trong đó:
 
-&nbsp;&nbsp;&nbsp;&nbsp;$\gamma_f$ là hệ số độ tin cậy về tải trọng, lấy theo 9.8;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $\gamma_{f}$ là hệ số độ tin cậy về tải trọng, lấy theo 9.8;
 
-&nbsp;&nbsp;&nbsp;&nbsp;$F_k$ xác định theo công thức (B.1).
+&nbsp;&nbsp;&nbsp;&nbsp;\- $F_{k}$ xác định theo công thức (B.1).
 
-Giá trị $F_d$ lấy không lớn hơn giá trị giới hạn $F_u$ nêu trong Bảng B.2 hoặc theo lý lịch cầu trục.
+&nbsp;&nbsp;&nbsp;&nbsp;\- Giá trị $F_{d}$ lấy không lớn hơn giá trị giới hạn $F_{u}$ nêu trong Bảng B.2 hoặc theo lý lịch cầu trục.
 
 
 <a id="bang-bang-b-2"></a>
-### Bảng B.2 - Giá trị giới hạn $F_u$ của tải trọng ngang do va chạm của cần trục với gối chặn cuối đường ray
+### Bảng B.2 - Giá trị giới hạn $F_{u}$ của tải trọng ngang do va chạm của cần trục với gối chặn cuối đường ray
 
-| Cần trục | Giá trị giới hạn $F_u$, kN |
+| Cần trục | Giá trị giới hạn $F_{u}$, kN |
 | :--- | :---: |
 | 1. Cần trục treo (kéo tay hay điều khiển bằng điện), cầu trục điều khiển bằng tay | 10 |
 | 2. Cầu trục điện công dụng chung thuộc nhóm chế độ làm việc từ A1 đến A3 | 50 |

@@ -1,104 +1,126 @@
-[
-  {
-    "Cấu kiện kết cấu": "1. Dầm đỡ cần trục kiểu cầu (cầu trục) và cần trục treo được điều khiển:",
-    "Yêu cầu": "",
-    "Giá trị $f_u$": "",
-    "Tải trọng để xác định độ võng đứng f": ""
-  },
-  {
-    "Cấu kiện kết cấu": "a) từ dưới nền, kể cả pa lăng",
-    "Yêu cầu": "Công nghệ",
-    "Giá trị $f_u$": "L/250",
-    "Tải trọng để xác định độ võng đứng f": "Tải trọng do một cần trục"
-  },
-  {
-    "Cấu kiện kết cấu": "b) từ cabin ứng với chế độ làm việc (theo TCVN 8590-1:2010 (ISO 4301-1:1986)):",
-    "Yêu cầu": "Công nghệ",
-    "Giá trị $f_u$": "",
-    "Tải trọng để xác định độ võng đứng f": ""
-  },
-  {
-    "Cấu kiện kết cấu": "nhóm A1 đến A6",
-    "Yêu cầu": "",
-    "Giá trị $f_u$": "L/400",
-    "Tải trọng để xác định độ võng đứng f": "Tải trọng do một cần trục"
-  },
-  {
-    "Cấu kiện kết cấu": "nhóm A7",
-    "Yêu cầu": "",
-    "Giá trị $f_u$": "L/500",
-    "Tải trọng để xác định độ võng đứng f": "Tải trọng do một cần trục"
-  },
-  {
-    "Cấu kiện kết cấu": "nhóm A8",
-    "Yêu cầu": "",
-    "Giá trị $f_u$": "L/600",
-    "Tải trọng để xác định độ võng đứng f": "Tải trọng do một cần trục"
-  },
-  {
-    "Cấu kiện kết cấu": "2. Dầm, giàn, xà, bản, xà gồ, bản, tấm (bao gồm cả sườn của bản và tấm) của:",
-    "Yêu cầu": "",
-    "Giá trị $f_u$": "",
-    "Tải trọng để xác định độ võng đứng f": ""
-  },
-  {
-    "Cấu kiện kết cấu": "a) Mái và sàn tầng có tường ngăn ngay dưới chúng",
-    "Yêu cầu": "Cấu tạo",
-    "Giá trị $f_u$": "Lấy theo G.2.5.1.2",
-    "Tải trọng để xác định độ võng đứng f": "Tải trọng làm giảm khe hở giữa cấu kiện chịu lực của kết cấu và tường ngăn nằm ngay dưới chúng"
-  },
-  {
-    "Cấu kiện kết cấu": "b) Mái và sàn tầng khi sử dụng pa lăng, cần trục treo được điều khiển từ dưới nền",
-    "Yêu cầu": "Công nghệ",
-    "Giá trị $f_u$": "L/300 hoặc a/150<br>(lấy giá trị nhỏ hơn)",
-    "Tải trọng để xác định độ võng đứng f": "Tải trọng tạm thời ngắn hạn có kể đến tải trọng do một cần trục hoặc pa lăng trên một đường ray"
-  },
-  {
-    "Cấu kiện kết cấu": "c) Sàn tầng mà chịu tác dụng của:",
-    "Yêu cầu": "Công nghệ",
-    "Giá trị $f_u$": "",
-    "Tải trọng để xác định độ võng đứng f": ""
-  },
-  {
-    "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- các tải trọng di chuyển, vật liệu, chi tiết máy móc và các tải trọng di động khác (trong đó có tải trọng di chuyển trên nền không ray)",
-    "Yêu cầu": "Công nghệ",
-    "Giá trị $f_u$": "L/350",
-    "Tải trọng để xác định độ võng đứng f": "Giá trị bất lợi hơn trong hai giá trị:<br>&nbsp;&nbsp;\\- 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng;<br>&nbsp;&nbsp;\\- tải trọng do một xe xếp tải"
-  },
-  {
-    "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- tải trọng di chuyển trên ray:",
-    "Yêu cầu": "Công nghệ",
-    "Giá trị $f_u$": "L/350",
-    "Tải trọng để xác định độ võng đứng f": "Giá trị bất lợi hơn trong hai giá trị:<br>&nbsp;&nbsp;\\- 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng;<br>&nbsp;&nbsp;\\- tải trọng do một xe xếp tải"
-  },
-  {
-    "Cấu kiện kết cấu": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ khổ hẹp",
-    "Yêu cầu": "Công nghệ",
-    "Giá trị $f_u$": "L/400",
-    "Tải trọng để xác định độ võng đứng f": "Tải trọng do một toa (hoặc xe) chạy trên một đường ray"
-  },
-  {
-    "Cấu kiện kết cấu": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ khổ rộng",
-    "Yêu cầu": "Công nghệ",
-    "Giá trị $f_u$": "L/500",
-    "Tải trọng để xác định độ võng đứng f": "Tải trọng do một toa (hoặc xe) chạy trên một đường ray"
-  },
-  {
-    "Cấu kiện kết cấu": "d) Mái và sàn tầng của bãi đỗ xe trong nhà, có nhịp L, m:<br>L = 6<br>L = 12<br>L ≥ 24",
-    "Yêu cầu": "Công nghệ",
-    "Giá trị $f_u$": "L/200<br>L/250<br>L/300",
-    "Tải trọng để xác định độ võng đứng f": "Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm $\\eta$ nêu tại 8.3.3 và tải trọng tạm thời ngắn hạn nêu tại Bảng 5 với hệ số giảm $\\eta$ nêu tại 8.5.4)"
-  },
-  {
-    "Cấu kiện kết cấu": "3. Lanh tô, tấm tường treo phía trên lỗ cửa sổ và cửa đi (xà và xà gồ vách kính)",
-    "Yêu cầu": "Cấu tạo",
-    "Giá trị $f_u$": "L/200",
-    "Tải trọng để xác định độ võng đứng f": "Tải trọng làm giảm khe hở giữa cấu kiện chịu lực và phần chèn các cửa sổ, cửa đi dưới cấu kiện chịu lực đó."
-  },
-  {
-    "Cấu kiện kết cấu": "Các ký hiệu trong Bảng G.4:<br>L là nhịp tính toán của cấu kiện kết cấu.<br>a là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào.",
-    "Yêu cầu": "",
-    "Giá trị $f_u$": "",
-    "Tải trọng để xác định độ võng đứng f": ""
-  }
-]
+{
+  "table_id": "bang_g_4",
+  "table_number": "G.4",
+  "table_title": "Bảng G.4 - Độ võng đứng giới hạn $f_{u}$ và tải trọng tương ứng để xác định độ võng đứng f",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấu kiện kết cấu": "1. Dầm đỡ cần trục kiểu cầu (cầu trục) và cần trục treo được điều khiển:",
+      "Yêu cầu": "",
+      "Giá trị $f_{u}$": "",
+      "Tải trọng để xác định độ võng đứng f": ""
+    },
+    {
+      "_row_id": 2,
+      "Cấu kiện kết cấu": "a) từ dưới nền, kể cả pa lăng",
+      "Yêu cầu": "Công nghệ",
+      "Giá trị $f_{u}$": "L/250",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng do một cần trục"
+    },
+    {
+      "_row_id": 3,
+      "Cấu kiện kết cấu": "b) từ cabin ứng với chế độ làm việc (theo TCVN 8590-1:2010 (ISO 4301-1:1986)):",
+      "Yêu cầu": "Công nghệ",
+      "Giá trị $f_{u}$": "",
+      "Tải trọng để xác định độ võng đứng f": ""
+    },
+    {
+      "_row_id": 4,
+      "Cấu kiện kết cấu": "nhóm A1 đến A6",
+      "Yêu cầu": "",
+      "Giá trị $f_{u}$": "L/400",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng do một cần trục"
+    },
+    {
+      "_row_id": 5,
+      "Cấu kiện kết cấu": "nhóm A7",
+      "Yêu cầu": "",
+      "Giá trị $f_{u}$": "L/500",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng do một cần trục"
+    },
+    {
+      "_row_id": 6,
+      "Cấu kiện kết cấu": "nhóm A8",
+      "Yêu cầu": "",
+      "Giá trị $f_{u}$": "L/600",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng do một cần trục"
+    },
+    {
+      "_row_id": 7,
+      "Cấu kiện kết cấu": "2. Dầm, giàn, xà, bản, xà gồ, bản, tấm (bao gồm cả sườn của bản và tấm) của:",
+      "Yêu cầu": "",
+      "Giá trị $f_{u}$": "",
+      "Tải trọng để xác định độ võng đứng f": ""
+    },
+    {
+      "_row_id": 8,
+      "Cấu kiện kết cấu": "a) Mái và sàn tầng có tường ngăn ngay dưới chúng",
+      "Yêu cầu": "Cấu tạo",
+      "Giá trị $f_{u}$": "Lấy theo G.2.5.1.2",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng làm giảm khe hở giữa cấu kiện chịu lực của kết cấu và tường ngăn nằm ngay dưới chúng"
+    },
+    {
+      "_row_id": 9,
+      "Cấu kiện kết cấu": "b) Mái và sàn tầng khi sử dụng pa lăng, cần trục treo được điều khiển từ dưới nền",
+      "Yêu cầu": "Công nghệ",
+      "Giá trị $f_{u}$": "L/300 hoặc a/150(lấy giá trị nhỏ hơn)",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng tạm thời ngắn hạn có kể đến tải trọng do một cần trục hoặc pa lăng trên một đường ray"
+    },
+    {
+      "_row_id": 10,
+      "Cấu kiện kết cấu": "c) Sàn tầng mà chịu tác dụng của:",
+      "Yêu cầu": "Công nghệ",
+      "Giá trị $f_{u}$": "",
+      "Tải trọng để xác định độ võng đứng f": ""
+    },
+    {
+      "_row_id": 11,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- các tải trọng di chuyển, vật liệu, chi tiết máy móc và các tải trọng di động khác (trong đó có tải trọng di chuyển trên nền không ray)",
+      "Yêu cầu": "Công nghệ",
+      "Giá trị $f_{u}$": "L/350",
+      "Tải trọng để xác định độ võng đứng f": "Giá trị bất lợi hơn trong hai giá trị:&nbsp;&nbsp;\\- 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng;&nbsp;&nbsp;\\- tải trọng do một xe xếp tải"
+    },
+    {
+      "_row_id": 12,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- tải trọng di chuyển trên ray:",
+      "Yêu cầu": "Công nghệ",
+      "Giá trị $f_{u}$": "L/350",
+      "Tải trọng để xác định độ võng đứng f": "Giá trị bất lợi hơn trong hai giá trị:&nbsp;&nbsp;\\- 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng;&nbsp;&nbsp;\\- tải trọng do một xe xếp tải"
+    },
+    {
+      "_row_id": 13,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ khổ hẹp",
+      "Yêu cầu": "Công nghệ",
+      "Giá trị $f_{u}$": "L/400",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng do một toa (hoặc xe) chạy trên một đường ray"
+    },
+    {
+      "_row_id": 14,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ khổ rộng",
+      "Yêu cầu": "Công nghệ",
+      "Giá trị $f_{u}$": "L/500",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng do một toa (hoặc xe) chạy trên một đường ray"
+    },
+    {
+      "_row_id": 15,
+      "Cấu kiện kết cấu": "d) Mái và sàn tầng của bãi đỗ xe trong nhà, có nhịp L, m:L = 6L = 12L ≥ 24",
+      "Yêu cầu": "Công nghệ",
+      "Giá trị $f_{u}$": "L/200L/250L/300",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm η nêu tại 8.3.3 và tải trọng tạm thời ngắn hạn nêu tại Bảng 5 với hệ số giảm η nêu tại 8.5.4)"
+    },
+    {
+      "_row_id": 16,
+      "Cấu kiện kết cấu": "3. Lanh tô, tấm tường treo phía trên lỗ cửa sổ và cửa đi (xà và xà gồ vách kính)",
+      "Yêu cầu": "Cấu tạo",
+      "Giá trị $f_{u}$": "L/200",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng làm giảm khe hở giữa cấu kiện chịu lực và phần chèn các cửa sổ, cửa đi dưới cấu kiện chịu lực đó."
+    },
+    {
+      "_row_id": 17,
+      "Cấu kiện kết cấu": "Các ký hiệu trong Bảng G.4:L là nhịp tính toán của cấu kiện kết cấu.a là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào.",
+      "Yêu cầu": "",
+      "Giá trị $f_{u}$": "",
+      "Tải trọng để xác định độ võng đứng f": ""
+    }
+  ]
+}

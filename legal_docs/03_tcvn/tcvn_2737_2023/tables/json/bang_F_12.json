@@ -1,26 +1,35 @@
-[
-  {
-    "Sơ đồ tiết diện và hướng gió": "Đa giác đều",
-    "$\\theta$,°": "Bất kỳ",
-    "n (số cạnh)": "5",
-    "$c_{x∞}$khi Re > 4.10$^5$": "1,8"
-  },
-  {
-    "Sơ đồ tiết diện và hướng gió": "Đa giác đều",
-    "$\\theta$,°": "Bất kỳ",
-    "n (số cạnh)": "từ 6 đến 8",
-    "$c_{x∞}$khi Re > 4.10$^5$": "1,5"
-  },
-  {
-    "Sơ đồ tiết diện và hướng gió": "Đa giác đều",
-    "$\\theta$,°": "Bất kỳ",
-    "n (số cạnh)": "10",
-    "$c_{x∞}$khi Re > 4.10$^5$": "1,2"
-  },
-  {
-    "Sơ đồ tiết diện và hướng gió": "Đa giác đều",
-    "$\\theta$,°": "Bất kỳ",
-    "n (số cạnh)": "12",
-    "$c_{x∞}$khi Re > 4.10$^5$": "1,0"
-  }
-]
+{
+  "table_id": "bang_f_12",
+  "table_number": "F.12",
+  "table_title": "Bảng F.12 - Hệ số $c_{x∞}$ cho tiết diện n góc và các cấu kiện kết cấu (dạng định hình)",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Sơ đồ tiết diện và hướng gió": "Đa giác đều",
+      "θ,°": "Bất kỳ",
+      "n (số cạnh)": "5",
+      "$c_{x∞}$khi Re > 4.10$^{5}$": "1,8"
+    },
+    {
+      "_row_id": 2,
+      "Sơ đồ tiết diện và hướng gió": "Đa giác đều",
+      "θ,°": "Bất kỳ",
+      "n (số cạnh)": "từ 6 đến 8",
+      "$c_{x∞}$khi Re > 4.10$^{5}$": "1,5"
+    },
+    {
+      "_row_id": 3,
+      "Sơ đồ tiết diện và hướng gió": "Đa giác đều",
+      "θ,°": "Bất kỳ",
+      "n (số cạnh)": "10",
+      "$c_{x∞}$khi Re > 4.10$^{5}$": "1,2"
+    },
+    {
+      "_row_id": 4,
+      "Sơ đồ tiết diện và hướng gió": "Đa giác đều",
+      "θ,°": "Bất kỳ",
+      "n (số cạnh)": "12",
+      "$c_{x∞}$khi Re > 4.10$^{5}$": "1,0"
+    }
+  ]
+}
