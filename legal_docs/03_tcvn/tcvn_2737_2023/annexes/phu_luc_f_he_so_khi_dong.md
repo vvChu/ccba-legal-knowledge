@@ -322,45 +322,41 @@ b là cạnh vuông góc hướng gió</em></p>
 
 <a id="bang-bang-f-5a"></a>
 
-**Bảng F.5a — Hệ số ce khi góc hướng gió $\theta$ = 0°**
+**Bảng F.5a — Hệ số $c_e$ khi góc hướng gió $\theta = 0^\circ$**
 
-| Gốc dốc α, ° | Vùng |
-| :---: | :--- |
-| Gốc dốc α, ° | F |
-| - 45 | -0,6 |
-| - 30 | -1,1 |
-| - 15 | -2,5 |
-| -  5 | - 2,3 |
-| -  5 | - 2,3 |
-| 5 | - 1.7 |
-| 5 | + 0,0 |
-| 15 | - 0,9 |
-| 15 | + 0,2 |
-| 30 | - 0,5 |
-| 30 | + 0,7 |
-| 45 | - 0,0 |
-| 45 | + 0,7 |
-| 60 | + 0,7 |
-| 75 | + 0,8 |
-| CHÚ THÍCH 1: Khi θ = 0°, áp lực thay đổi nhanh giữa các giá trị âm và dương khi góc dốc - 5° ≤ α ≤ + 45°, do đó cả hai giá trị âm và dương đều được nêu trong bảng này. Đối với mái này, cần xét hai trường hợp: một là với tất cả các giá trị dương và hai là với tất cả các giá trị âm. Không được xét đồng thời giá trị âm và dương trên cùng một mặt.<br>CHÚ THÍCH 2: Sử dụng nội suy tuyến tính cho các góc dốc nằm trong khoảng giữa các giá trị cùng dấu (không nội suy giữa α = + 5° và α = - 5° mà dùng số liệu cho mái bằng trong F.2). Các giá trị bằng 0,0 dùng để nội suy tuyến tính. |  |
+| Góc dốc $\alpha$ (°) | Vùng F | Vùng G | Vùng H | Vùng I | Vùng J |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| - 45 | - 0,6 | - 0,6 | - 0,8 | - 0,7 | - 1,0 |
+| - 30 | - 1,1 | - 2,0 | - 0,8 | - 0,6 | - 0,8 |
+| - 15 | - 2,5 | - 1,3 | - 0,9 | - 0,5 | - 0,7 |
+| - 5 | - 2,3 | - 1,2 | - 0,8 | + 0,2<br>- 0,6 | + 0,2<br>- 0,6 |
+| 5 | - 1,7<br>+ 0,0 | - 1,2<br>+ 0,0 | - 0,6<br>+ 0,0 | - 0,6 | + 0,2<br>- 0,6 |
+| 15 | - 0,9<br>+ 0,2 | - 0,8<br>+ 0,2 | - 0,3<br>+ 0,2 | - 0,4 | - 1,0 |
+| 30 | - 0,5<br>+ 0,7 | - 0,5<br>+ 0,7 | - 0,2<br>+ 0,4 | - 0,4 | - 0,5 |
+| 45 | - 0,0<br>+ 0,7 | - 0,0<br>+ 0,7 | - 0,0<br>+ 0,6 | - 0,2<br>+ 0,0 | - 0,3<br>+ 0,0 |
+| 60 | + 0,7 | + 0,7 | + 0,7 | - 0,2 | - 0,3 |
+| 75 | + 0,8 | + 0,8 | + 0,8 | - 0,2 | - 0,3 |
+
+**CHÚ THÍCH 1:** Khi $\theta = 0^\circ$, áp lực thay đổi nhanh giữa các giá trị âm và dương khi góc dốc $- 5^\circ \le \alpha \le + 45^\circ$, do đó cả hai giá trị âm và dương đều được nêu trong bảng này. Đối với mái này, cần xét hai trường hợp: một là với tất cả các giá trị dương và hai là với tất cả các giá trị âm. Không được xét đồng thời giá trị âm và dương trên cùng một mặt.  
+**CHÚ THÍCH 2:** Sử dụng nội suy tuyến tính cho các góc dốc nằm trong khoảng giữa các giá trị cùng dấu (không nội suy giữa $\alpha = + 5^\circ$ và $\alpha = - 5^\circ$ mà dùng số liệu cho mái bằng trong F.2). Các giá trị bằng 0,0 dùng để nội suy tuyến tính.  
+**CHÚ THÍCH 3:** Góc dốc của mặt đón gió luôn ảnh hưởng tới hệ số khí động áp lực.
 
 <a id="bang-bang-f-5b"></a>
 
-**Bảng F.5b — Hệ số ce khi góc hướng gió $\theta$ = 90°**
+**Bảng F.5b — Hệ số $c_e$ khi góc hướng gió $\theta = 90^\circ$**
 
-| Góc dốc α, ° | Vùng |
-| :---: | :--- |
-| Góc dốc α, ° | F |
-| - 45 | - 1,4 |
-| - 30 | - 1,5 |
-| - 15 | - 1,9 |
-| - 5 | - 1,8 |
-| + 5 | - 1,6 |
-| 15 | - 1,3 |
-| 30 | - 1,1 |
-| 45 | - 1,1 |
-| 60 | - 1,1 |
-| 75 | - 1,1 |
+| Góc dốc $\alpha$ (°) | Vùng F | Vùng G | Vùng H | Vùng I |
+| :---: | :---: | :---: | :---: | :---: |
+| - 45 | - 1,4 | - 1,2 | - 1,0 | - 0,9 |
+| - 30 | - 1,5 | - 1,2 | - 1,0 | - 0,9 |
+| - 15 | - 1,9 | - 1,2 | - 0,8 | - 0,8 |
+| - 5 | - 1,8 | - 1,2 | - 0,7 | - 0,6 |
+| + 5 | - 1,6 | - 1,3 | - 0,7 | - 0,6 |
+| 15 | - 1,3 | - 1,3 | - 0,6 | - 0,5 |
+| 30 | - 1,1 | - 1,4 | - 0,8 | - 0,5 |
+| 45 | - 1,1 | - 1,4 | - 0,9 | - 0,5 |
+| 60 | - 1,1 | - 1,2 | - 0,8 | - 0,5 |
+| 75 | - 1,1 | - 1,2 | - 0,8 | - 0,5 |
 
 ### F.5  Mái dốc bốn phía
 
@@ -403,22 +399,19 @@ b là cạnh vuông góc hướng gió a) Góc hướng gió θ = 0° b) Góc h�
 
 <a id="bang-bang-f-6"></a>
 
-**Bảng F.6 — Hệ số khí động áp lực ngoài ce cho mái dốc bốn phía**
+**Bảng F.6 — Hệ số khí động áp lực ngoài $c_e$ cho mái dốc bốn phía**
 
-| Góc dốc<br>α0, °, cho θ = 0°,<br>α90, °, cho θ = 90° | Các vùng khi góc hướng gió $\theta$ = 0° và θ = 90° |
-| :---: | :--- |
-| Góc dốc<br>α0, °, cho θ = 0°,<br>α90, °, cho θ = 90° | F |
-| 5 | - 1,7 |
-| 5 | + 0,0 |
-| 15 | - 0,9 |
-| 15 | + 0,2 |
-| 30 | - 0,5 |
-| 30 | + 0,5 |
-| 45 | - 0,0 |
-| 45 | + 0,7 |
-| 60 | + 0,7 |
-| 75 | + 0,8 |
-| CHÚ THÍCH 1: Khi θ = 0°, áp lực thay đổi nhanh giữa các giá trị âm và dương trên mặt đón gió khi góc dốc - 5° ≤ α ≤ + 45°, do đó cả hai giá trị âm và dương đều được nêu trong bảng này. Đối với mái này, cần xét hai trường hợp: một là với tất cả các giá trị dương và hai là với tất cả các giá trị âm. Không xét đồng thời cả hai giá trị âm và dương trên cùng một mặt.<br>CHÚ THÍCH 2: Sử dụng nội suy tuyến tính cho các góc dốc nằm giữa các giá trị cùng dấu. Các giá trị bằng 0,0 dùng để nội suy tuyến tính.<br>CHÚ THÍCH 3: Góc dốc của mặt đón gió luôn ảnh hưởng tới hệ số khí động áp lực. |  |
+| Góc dốc $\alpha_0$ cho $\theta = 0^\circ$<br>$\alpha_{90}$ cho $\theta = 90^\circ$ | Vùng F | Vùng G | Vùng H | Vùng I | Vùng J | Vùng K | Vùng L | Vùng M | Vùng N |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 5 | - 1,7<br>+ 0,0 | - 1,2<br>+ 0,0 | - 0,6<br>+ 0,0 | - 0,3 | - 0,6 | - 0,6 | - 1,2 | - 0,4 | - 0,4 |
+| 15 | - 0,9<br>+ 0,2 | - 0,8<br>+ 0,2 | - 0,3<br>+ 0,2 | - 0,5 | - 1,0 | - 1,2 | - 1,4 | - 0,6 | - 0,3 |
+| 30 | - 0,5<br>+ 0,7 | - 0,5<br>+ 0,7 | - 0,2<br>+ 0,4 | - 0,4 | - 0,5 | - 0,5 | - 0,8 | - 0,8 | - 0,2 |
+| 45 | - 0,0<br>+ 0,7 | - 0,0<br>+ 0,7 | - 0,0<br>+ 0,6 | - 0,3 | - 0,4 | - 0,7 | - 0,8 | - 0,8 | - 0,2 |
+| 60 | + 0,7 | + 0,7 | + 0,7 | - 0,3 | - 0,4 | - 0,7 | - 0,8 | - 0,8 | - 0,2 |
+| 75 | + 0,8 | + 0,8 | + 0,8 | - 0,3 | - 0,4 | - 0,7 | - 0,8 | - 0,8 | - 0,2 |
+
+**CHÚ THÍCH 1:** Khi $\theta = 0^\circ$, áp lực thay đổi nhanh giữa các giá trị âm và dương khi góc dốc $+ 5^\circ \le \alpha \le + 45^\circ$, do đó cả hai giá trị âm và dương đều được nêu trong bảng này. Đối với mái này, cần xét hai trường hợp: một là với tất cả các giá trị dương và hai là với tất cả các giá trị âm. Không được xét đồng thời giá trị âm và dương trên cùng một mặt.  
+**CHÚ THÍCH 2:** Sử dụng phương pháp nội suy tuyến tính cho các góc dốc trung gian nằm giữa các giá trị cùng dấu. Các giá trị bằng 0,0 dùng để nội suy tuyến tính.
 
 ### F.6  Nhà mặt bằng chữ nhật có mái vòm và gần vòm
 
