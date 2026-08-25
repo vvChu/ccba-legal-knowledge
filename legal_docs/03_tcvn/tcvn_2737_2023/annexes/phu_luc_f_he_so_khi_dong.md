@@ -378,23 +378,9 @@ b là cạnh vuông góc hướng gió</em></p>
 
 </p>
 
-<p align="center">
-
-![Hình F.7a](../figures/images/image60.png)
-
-</p>
-
-<p align="center"><strong>a) Góc hướng gió $\theta = 0^\circ$</strong></p>
-
-<p align="center">
-
-![Hình F.7b](../figures/images/image61.png)
-
-</p>
-
-<p align="center"><em>$e = \min(b, 2h)$, $b$ là cạnh vuông góc hướng gió</em></p>
-
-<p align="center"><strong>b) Góc hướng gió $\theta = 90^\circ$</strong></p>
+| a) Góc hướng gió $\theta = 0^\circ$ | b) Góc hướng gió $\theta = 90^\circ$ |
+| :---: | :---: |
+| ![Hình F.7a](../figures/images/image60.png)<br><br>**a) Góc hướng gió $\theta = 0^\circ$** | *$e = \min(b, 2h)$<br>$b$ là cạnh vuông góc hướng gió*<br><br>![Hình F.7b](../figures/images/image61.png)<br><br>**b) Góc hướng gió $\theta = 90^\circ$** |
 
 <a id="hinh-f_7"></a>
 
