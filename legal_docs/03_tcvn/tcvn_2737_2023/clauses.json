@@ -1697,53 +1697,44 @@
     "title": "PHỤ LỤC F  (Quy định)  HỆ SỐ KHÍ ĐỘNG",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 2,
-    "line_end": 2
-  },
-  {
-    "clause_id": "muc-f-1",
-    "anchor": "muc-f-1",
-    "title": "F.1  Kết cấu phẳng đứng độc lập",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 6,
-    "line_end": 6
+    "line_start": 1,
+    "line_end": 1
   },
   {
     "clause_id": "muc-f-1-1",
     "anchor": "muc-f-1-1",
-    "title": "F.1.1**  Tường phẳng (kể cả tường chắn mái), hàng rào và kết cấu tương tự",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 10,
-    "line_end": 10
+    "line_start": 7,
+    "line_end": 7
   },
   {
     "clause_id": "muc-f-1-1-1",
     "anchor": "muc-f-1-1-1",
-    "title": "F.1.1.1**  Hệ số $c_{x}$ cho các vùng khác nhau của kết cấu (Hình F.1) lấy theo Bảng F.1.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 14,
-    "line_end": 14
+    "line_start": 11,
+    "line_end": 11
   },
   {
     "clause_id": "muc-f-1-1-2",
     "anchor": "muc-f-1-1-2",
-    "title": "F.1.1.2**  Độ cao tương đương $z_{e}$ = h.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 18,
-    "line_end": 18
+    "line_start": 15,
+    "line_end": 15
   },
   {
     "clause_id": "muc-f-1-1-3",
     "anchor": "muc-f-1-1-3",
-    "title": "F.1.1.3**  Hệ số đặc của kết cấu φ là tỉ số giữa diện tích phần đặc và diện tích bao của kết cấu.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 22,
-    "line_end": 22
+    "line_start": 19,
+    "line_end": 19
   },
   {
     "clause_id": "hinh-f_1",
@@ -1751,26 +1742,26 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 32,
-    "line_end": 32
+    "line_start": 47,
+    "line_end": 47
   },
   {
     "clause_id": "bang-bang-f-1",
     "anchor": "bang-bang-f-1",
-    "title": "Bảng F.1 — Hệ số $c_{x}$ cho các vùng trên tường phẳng, hàng rào và kết cấu tương tự (xem Hình F.1)",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 55,
-    "line_end": 55
+    "line_start": 51,
+    "line_end": 51
   },
   {
     "clause_id": "muc-f-1-2",
     "anchor": "muc-f-1-2",
-    "title": "F.1.2**  Bảng quảng cáo",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 71,
-    "line_end": 71
+    "line_start": 66,
+    "line_end": 66
   },
   {
     "clause_id": "hinh-f_2",
@@ -1778,53 +1769,44 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 81,
-    "line_end": 81
+    "line_start": 88,
+    "line_end": 88
   },
   {
-    "clause_id": "muc-f-2",
-    "anchor": "muc-f-2",
-    "title": "F.2  Mái bằng",
+    "clause_id": "muc-f-2-1",
+    "anchor": "muc-f-2-1",
+    "title": "",
+    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 94,
+    "line_end": 94
+  },
+  {
+    "clause_id": "muc-f-2-2",
+    "anchor": "muc-f-2-2",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
     "line_start": 98,
     "line_end": 98
   },
   {
-    "clause_id": "muc-f-2-1",
-    "anchor": "muc-f-2-1",
-    "title": "F.2.1**  Mái được coi là mái bằng khi có góc dốc α trong khoảng - 5° < α < 5°.",
+    "clause_id": "muc-f-2-3",
+    "anchor": "muc-f-2-3",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
     "line_start": 102,
     "line_end": 102
   },
   {
-    "clause_id": "muc-f-2-2",
-    "anchor": "muc-f-2-2",
-    "title": "F.2.2**  Mái được chia thành các vùng như trên Hình F.3.",
+    "clause_id": "muc-f-2-4",
+    "anchor": "muc-f-2-4",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
     "line_start": 106,
     "line_end": 106
-  },
-  {
-    "clause_id": "muc-f-2-3",
-    "anchor": "muc-f-2-3",
-    "title": "F.2.3**  Đối với mái bằng và mái có các cạnh bo tròn hoặc vát góc (Hình F.3b), độ cao tương đương lấy bằng $z_{e}$ = h. Đối với mái bằng có tường chắn mái (xem Hình F.3a), độ cao tương đương lấy bằng $z_{e}$ = h + $h_{p}$.",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 110,
-    "line_end": 110
-  },
-  {
-    "clause_id": "muc-f-2-4",
-    "anchor": "muc-f-2-4",
-    "title": "F.2.4**  Hệ số khí động áp lực $c_{e}$ cho từng vùng lấy theo Bảng F.2.",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 114,
-    "line_end": 114
   },
   {
     "clause_id": "hinh-f_3",
@@ -1832,53 +1814,44 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 123,
-    "line_end": 123
+    "line_start": 127,
+    "line_end": 127
   },
   {
     "clause_id": "bang-bang-f-2",
     "anchor": "bang-bang-f-2",
-    "title": "Bảng F.2 — Hệ số $c_{e}$ cho mái bằng",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 145,
-    "line_end": 145
-  },
-  {
-    "clause_id": "muc-f-3",
-    "anchor": "muc-f-3",
-    "title": "F.3  Mái dốc một phía",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 165,
-    "line_end": 165
+    "line_start": 131,
+    "line_end": 131
   },
   {
     "clause_id": "muc-f-3-1",
     "anchor": "muc-f-3-1",
-    "title": "F.3.1**  Mái dốc một phía, bao gồm cả các phần nhô ra, được chia thành các vùng như trên Hình F.4.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 169,
-    "line_end": 169
+    "line_start": 152,
+    "line_end": 152
   },
   {
     "clause_id": "muc-f-3-2",
     "anchor": "muc-f-3-2",
-    "title": "F.3.2**  Độ cao tương đương lấy bằng $z_{e}$ = h.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 173,
-    "line_end": 173
+    "line_start": 156,
+    "line_end": 156
   },
   {
     "clause_id": "muc-f-3-3",
     "anchor": "muc-f-3-3",
-    "title": "F.3.3**  Hệ số khí động áp lực $c_{e}$ được xác định cho từng vùng theo các bảng F3a và F.3b.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 177,
-    "line_end": 177
+    "line_start": 160,
+    "line_end": 160
   },
   {
     "clause_id": "hinh-f_4",
@@ -1886,53 +1859,44 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 214,
-    "line_end": 214
+    "line_start": 191,
+    "line_end": 191
   },
   {
     "clause_id": "bang-bang-f-3a",
     "anchor": "bang-bang-f-3a",
-    "title": "Bảng F.3a — Hệ số khí động áp lực ngoài $c_{e}$ cho mái dốc một phía khi góc hướng gió θ = 0° và θ = 180°",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 230,
-    "line_end": 230
+    "line_start": 195,
+    "line_end": 195
   },
   {
     "clause_id": "bang-bang-f-3b",
     "anchor": "bang-bang-f-3b",
-    "title": "Bảng F.3b — Hệ số khí động áp lực ngoài $c_{e}$ cho mái dốc một phía khi góc hướng gió θ = 90°",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 251,
-    "line_end": 251
-  },
-  {
-    "clause_id": "muc-f-4",
-    "anchor": "muc-f-4",
-    "title": "F.4  Nhà mái dốc hai phía có mặt bằng hình chữ nhật",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 265,
-    "line_end": 265
+    "line_start": 215,
+    "line_end": 215
   },
   {
     "clause_id": "muc-f-4-1",
     "anchor": "muc-f-4-1",
-    "title": "F.4.1**  Tường thẳng đứng",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 269,
-    "line_end": 269
+    "line_start": 231,
+    "line_end": 231
   },
   {
     "clause_id": "muc-f-4-1-1",
     "anchor": "muc-f-4-1-1",
-    "title": "F.4.1.1**  Hệ số khí động $c_{e}$ cho các vùng trên các tường của nhà có mặt bằng chữ nhật (Hình F.5a) lấy theo Bảng F.4.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 273,
-    "line_end": 273
+    "line_start": 235,
+    "line_end": 235
   },
   {
     "clause_id": "hinh-f_5a",
@@ -1940,8 +1904,8 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 279,
-    "line_end": 279
+    "line_start": 247,
+    "line_end": 247
   },
   {
     "clause_id": "hinh-f_5b",
@@ -1949,62 +1913,62 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 302,
-    "line_end": 302
+    "line_start": 257,
+    "line_end": 257
   },
   {
     "clause_id": "bang-bang-f-4",
     "anchor": "bang-bang-f-4",
-    "title": "Bảng F.4 — Hệ số $c_{e}$ cho tường thẳng đứng của nhà có mặt bằng chữ nhật",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 319,
-    "line_end": 319
+    "line_start": 261,
+    "line_end": 261
   },
   {
     "clause_id": "muc-f-4-1-2",
     "anchor": "muc-f-4-1-2",
-    "title": "F.4.1.2**  Đối với các tường bên có lô gia nhô ra, hệ số khí động ma sát lấy bằng $c_{f}$ = 0,1.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 330,
-    "line_end": 330
+    "line_start": 272,
+    "line_end": 272
   },
   {
     "clause_id": "muc-f-4-2",
     "anchor": "muc-f-4-2",
-    "title": "F.4.2**  Mái dốc hai phía",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 334,
-    "line_end": 334
+    "line_start": 276,
+    "line_end": 276
   },
   {
     "clause_id": "muc-f-4-2-1",
     "anchor": "muc-f-4-2-1",
-    "title": "F.4.2.1**  Mái dốc hai phía được chia thành các vùng như trên Hình F.6.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 338,
-    "line_end": 338
+    "line_start": 280,
+    "line_end": 280
   },
   {
     "clause_id": "muc-f-4-2-2",
     "anchor": "muc-f-4-2-2",
-    "title": "F.4.2.2**  Hệ số khí động áp lực $c_{e}$ cho các vùng của mái được xác định theo các bảng F.5a và F.5b phụ thuộc vào hướng gió.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 342,
-    "line_end": 342
+    "line_start": 284,
+    "line_end": 284
   },
   {
     "clause_id": "muc-f-4-2-3",
     "anchor": "muc-f-4-2-3",
-    "title": "F.4.2.3**  Đối với mái trơn dài khi góc hướng gió θ = 90° (Hình F.6c) thì hệ số khí động ma sát $c_{f}$ = 0,02.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 346,
-    "line_end": 346
+    "line_start": 288,
+    "line_end": 288
   },
   {
     "clause_id": "hinh-f_6",
@@ -2012,62 +1976,53 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 386,
-    "line_end": 386
+    "line_start": 322,
+    "line_end": 322
   },
   {
     "clause_id": "bang-bang-f-5a",
     "anchor": "bang-bang-f-5a",
-    "title": "Bảng F.5a — Hệ số $c_{e}$ khi góc hướng gió θ = 0°",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 403,
-    "line_end": 403
+    "line_start": 326,
+    "line_end": 326
   },
   {
     "clause_id": "bang-bang-f-5b",
     "anchor": "bang-bang-f-5b",
-    "title": "Bảng F.5b — Hệ số $c_{e}$ khi góc hướng gió θ = 90°",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 428,
-    "line_end": 428
-  },
-  {
-    "clause_id": "muc-f-5",
-    "anchor": "muc-f-5",
-    "title": "F.5  Mái dốc bốn phía",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 446,
-    "line_end": 446
+    "line_start": 350,
+    "line_end": 350
   },
   {
     "clause_id": "muc-f-5-1",
     "anchor": "muc-f-5-1",
-    "title": "F.5.1**  Mái dốc bốn phía, bao gồm cả các phần nhô ra, được chia thành các vùng như trên Hình F.7.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 450,
-    "line_end": 450
+    "line_start": 370,
+    "line_end": 370
   },
   {
     "clause_id": "muc-f-5-2",
     "anchor": "muc-f-5-2",
-    "title": "F.5.2**  Độ cao tương đương lấy bằng $z_{e}$ = h.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 454,
-    "line_end": 454
+    "line_start": 374,
+    "line_end": 374
   },
   {
     "clause_id": "muc-f-5-3",
     "anchor": "muc-f-5-3",
-    "title": "F.5.3**  Hệ số khí động áp lực $c_{e}$ cho từng vùng lấy theo Bảng F.6.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 458,
-    "line_end": 458
+    "line_start": 378,
+    "line_end": 378
   },
   {
     "clause_id": "hinh-f_7",
@@ -2075,53 +2030,44 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 466,
-    "line_end": 466
+    "line_start": 403,
+    "line_end": 403
   },
   {
     "clause_id": "bang-bang-f-6",
     "anchor": "bang-bang-f-6",
-    "title": "Bảng F.6 — Hệ số khí động áp lực ngoài $c_{e}$ cho mái dốc bốn phía",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 485,
-    "line_end": 485
-  },
-  {
-    "clause_id": "muc-f-6",
-    "anchor": "muc-f-6",
-    "title": "F.6  Nhà mặt bằng chữ nhật có mái vòm và gần vòm",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 505,
-    "line_end": 505
+    "line_start": 407,
+    "line_end": 407
   },
   {
     "clause_id": "muc-f-6-1",
     "anchor": "muc-f-6-1",
-    "title": "F.6.1**  Sự phân bố hệ số khí động $c_{e}$ cho các vùng A, B, C trên bề mặt mái được thể hiện trên Hình F.8.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 509,
-    "line_end": 509
+    "line_start": 428,
+    "line_end": 428
   },
   {
     "clause_id": "muc-f-6-2",
     "anchor": "muc-f-6-2",
-    "title": "F.6.2**  Hệ số khí động $c_{e}$ cho tường lấy theo Bảng F.4.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 513,
-    "line_end": 513
+    "line_start": 432,
+    "line_end": 432
   },
   {
     "clause_id": "muc-f-6-3",
     "anchor": "muc-f-6-3",
-    "title": "F.6.3**  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$ + 0,7f.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 517,
-    "line_end": 517
+    "line_start": 436,
+    "line_end": 436
   },
   {
     "clause_id": "hinh-f_8",
@@ -2129,26 +2075,17 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 525,
-    "line_end": 525
-  },
-  {
-    "clause_id": "muc-f-7",
-    "anchor": "muc-f-7",
-    "title": "F.7  Công trình mặt bằng tròn có mái chỏm cầu và mái nón",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 546,
-    "line_end": 546
+    "line_start": 456,
+    "line_end": 456
   },
   {
     "clause_id": "muc-f-7-1",
     "anchor": "muc-f-7-1",
-    "title": "F.7.1**  Đối với mái chỏm cầu (xem Hình F.9a), giá trị hệ số khí động áp lực ngoài $c_{e}$ lấy không đổi dọc theo các tiết diện song song với B-B. Các giá trị của hệ số $c_{e}$ tại các vị trí A và C, cũng như tại tiết diện B-B được thể hiện trên Hình F.9a. Đối với các tiết diện trung gian, hệ số $c_{e}$ được xác định bằng nội suy tuyến tính.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 550,
-    "line_end": 550
+    "line_start": 462,
+    "line_end": 462
   },
   {
     "clause_id": "hinh-f_9a",
@@ -2156,17 +2093,17 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 554,
-    "line_end": 554
+    "line_start": 478,
+    "line_end": 478
   },
   {
     "clause_id": "muc-f-7-2",
     "anchor": "muc-f-7-2",
-    "title": "F.7.2**  Đối với mái nón (xem Hình F.9b), giá trị hệ số khí động áp lực ngoài $c_{e}$ khi góc dốc của mái 15° < α < 30° được xác định theo Bảng F.7.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 565,
-    "line_end": 565
+    "line_start": 482,
+    "line_end": 482
   },
   {
     "clause_id": "hinh-f_9b",
@@ -2174,80 +2111,71 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 569,
-    "line_end": 569
+    "line_start": 492,
+    "line_end": 492
   },
   {
     "clause_id": "bang-bang-f-7",
     "anchor": "bang-bang-f-7",
-    "title": "Bảng F.7 — Hệ số khí động áp lực ngoài $c_{e}$ cho mái nón",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 580,
-    "line_end": 580
+    "line_start": 496,
+    "line_end": 496
   },
   {
     "clause_id": "muc-f-7-3",
     "anchor": "muc-f-7-3",
-    "title": "F.7.3**  Đối với mái chỏm cầu và mái nón khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$ + 0,7f.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 589,
-    "line_end": 589
-  },
-  {
-    "clause_id": "muc-f-8",
-    "anchor": "muc-f-8",
-    "title": "F.8  Nhà có cửa trời dọc nhà và nhà có chiều cao thay đổi",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 593,
-    "line_end": 593
+    "line_start": 505,
+    "line_end": 505
   },
   {
     "clause_id": "muc-f-8-1",
     "anchor": "muc-f-8-1",
-    "title": "F.8.1**  Đối với các vùng A và B (Hình F.10), hệ số $c_{e}$ được xác định theo các bảng F.5a và F.5b.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 597,
-    "line_end": 597
+    "line_start": 511,
+    "line_end": 511
   },
   {
     "clause_id": "muc-f-8-2",
     "anchor": "muc-f-8-2",
-    "title": "F.8.2**  Đối với các cửa trời của vùng C (Hình F.10b):",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 601,
-    "line_end": 601
+    "line_start": 515,
+    "line_end": 515
   },
   {
     "clause_id": "muc-f-8-3",
     "anchor": "muc-f-8-3",
-    "title": "F.8.3**  Đối với các vùng còn lại của mái: $c_{e}$ = - 0,5.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 612,
-    "line_end": 612
+    "line_start": 526,
+    "line_end": 526
   },
   {
     "clause_id": "muc-f-8-4",
     "anchor": "muc-f-8-4",
-    "title": "F.8.4**  Đối với các mặt đứng và tường thẳng đứng của nhà, hệ số $c_{e}$ được xác định theo Bảng F.2.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 616,
-    "line_end": 616
+    "line_start": 530,
+    "line_end": 530
   },
   {
     "clause_id": "muc-f-8-5",
     "anchor": "muc-f-8-5",
-    "title": "F.8.5**  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 620,
-    "line_end": 620
+    "line_start": 534,
+    "line_end": 534
   },
   {
     "clause_id": "hinh-f_10",
@@ -2255,62 +2183,53 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 646,
-    "line_end": 646
-  },
-  {
-    "clause_id": "muc-f-9",
-    "anchor": "muc-f-9",
-    "title": "F.9  Nhà có cửa trời trên đỉnh",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 651,
-    "line_end": 651
+    "line_start": 556,
+    "line_end": 556
   },
   {
     "clause_id": "muc-f-9-1",
     "anchor": "muc-f-9-1",
-    "title": "F.9.1**  Đối với cửa trời phía đón gió, hệ số $c_{e}$ được xác định theo các bảng F.5a và F.5b.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 655,
-    "line_end": 655
+    "line_start": 562,
+    "line_end": 562
   },
   {
     "clause_id": "muc-f-9-2",
     "anchor": "muc-f-9-2",
-    "title": "F.9.2**  Đối với các cửa trời còn lại, hệ số $c_{e}$ được xác định như đối với vùng C (xem F.8).",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 659,
-    "line_end": 659
+    "line_start": 566,
+    "line_end": 566
   },
   {
     "clause_id": "muc-f-9-3",
     "anchor": "muc-f-9-3",
-    "title": "F.9.3**  Đối với các phần còn lại của mái: $c_{e}$ = - 0,5.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 663,
-    "line_end": 663
+    "line_start": 570,
+    "line_end": 570
   },
   {
     "clause_id": "muc-f-9-4",
     "anchor": "muc-f-9-4",
-    "title": "F.9.4**  Đối với các mặt đứng và tường thẳng đứng của nhà, hệ số $c_{e}$ được xác định theo Bảng F.4.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 667,
-    "line_end": 667
+    "line_start": 574,
+    "line_end": 574
   },
   {
     "clause_id": "muc-f-9-5",
     "anchor": "muc-f-9-5",
-    "title": "F.9.5**  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 671,
-    "line_end": 671
+    "line_start": 578,
+    "line_end": 578
   },
   {
     "clause_id": "hinh-f_11",
@@ -2318,62 +2237,53 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 675,
-    "line_end": 675
-  },
-  {
-    "clause_id": "muc-f-10",
-    "anchor": "muc-f-10",
-    "title": "F.10  Nhà có mái răng cưa",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 686,
-    "line_end": 686
+    "line_start": 588,
+    "line_end": 588
   },
   {
     "clause_id": "muc-f-10-1",
     "anchor": "muc-f-10-1",
-    "title": "F.10.1**  Đối với vùng A (Hình F.13), hệ số $c_{e}$ được xác định theo các bảng F.5a và F.5b.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 690,
-    "line_end": 690
+    "line_start": 594,
+    "line_end": 594
   },
   {
     "clause_id": "muc-f-10-2",
     "anchor": "muc-f-10-2",
-    "title": "F.10.2**  Đối với vùng còn lại của mái, hệ số $c_{e}$ = - 0,5.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 694,
-    "line_end": 694
+    "line_start": 598,
+    "line_end": 598
   },
   {
     "clause_id": "muc-f-10-3",
     "anchor": "muc-f-10-3",
-    "title": "F.10.3**  Đối với các mặt đứng và tường thẳng đứng của nhà, hệ số $c_{e}$ được xác định theo Bảng F.4.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 698,
-    "line_end": 698
+    "line_start": 602,
+    "line_end": 602
   },
   {
     "clause_id": "muc-f-10-4",
     "anchor": "muc-f-10-4",
-    "title": "F.10.4**  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 702,
-    "line_end": 702
+    "line_start": 606,
+    "line_end": 606
   },
   {
     "clause_id": "muc-f-10-5",
     "anchor": "muc-f-10-5",
-    "title": "F.10.5**  Hệ số khí động ma sát cho mái răng cưa $c_{f}$ = 0,04.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 706,
-    "line_end": 706
+    "line_start": 610,
+    "line_end": 610
   },
   {
     "clause_id": "hinh-f_12",
@@ -2381,26 +2291,17 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 710,
-    "line_end": 710
-  },
-  {
-    "clause_id": "muc-f-11",
-    "anchor": "muc-f-11",
-    "title": "F.11  Nhà có góc lõm",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 721,
-    "line_end": 721
+    "line_start": 620,
+    "line_end": 620
   },
   {
     "clause_id": "muc-f-11-1",
     "anchor": "muc-f-11-1",
-    "title": "F.11.1**  Hệ số $c_{e}$ cho tường và mái của nhà có góc lõm (Hình F.13) được nêu trong Bảng F.8.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 725,
-    "line_end": 725
+    "line_start": 626,
+    "line_end": 626
   },
   {
     "clause_id": "hinh-f_13",
@@ -2408,62 +2309,53 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 729,
-    "line_end": 729
+    "line_start": 636,
+    "line_end": 636
   },
   {
     "clause_id": "bang-bang-f-8",
     "anchor": "bang-bang-f-8",
-    "title": "Bảng F.8 — Hệ số $c_{e}$ cho tường và mái của nhà có góc lõm",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 740,
-    "line_end": 740
+    "line_start": 640,
+    "line_end": 640
   },
   {
     "clause_id": "muc-f-11-2",
     "anchor": "muc-f-11-2",
-    "title": "F.11.2**  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 749,
-    "line_end": 749
-  },
-  {
-    "clause_id": "muc-f-12",
-    "anchor": "muc-f-12",
-    "title": "F.12  Xét đến áp lực trong",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 753,
-    "line_end": 753
+    "line_start": 649,
+    "line_end": 649
   },
   {
     "clause_id": "muc-f-12-1",
     "anchor": "muc-f-12-1",
-    "title": "F.12.1**  Độ hở của tường chắn μ được xác định bằng tỉ số giữa tổng diện tích lỗ mở của tường chắn và tổng diện tích tường chắn.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 757,
-    "line_end": 757
+    "line_start": 655,
+    "line_end": 655
   },
   {
     "clause_id": "muc-f-12-2",
     "anchor": "muc-f-12-2",
-    "title": "F.12.2**  Khi độ hở μ ≤ 5 %: $c_{i1}$ = $c_{i2}$ = ± 0,2. Đối với mỗi tường nhà, dấu “cộng” hoặc “trừ” cần được lựa chọn theo điều kiện thực hiện phương án bất lợi nhất của tải trọng.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 761,
-    "line_end": 761
+    "line_start": 659,
+    "line_end": 659
   },
   {
     "clause_id": "muc-f-12-3",
     "anchor": "muc-f-12-3",
-    "title": "F.12.3**  Các hệ số khí động $c_{e}$ cho mặt ngoài cần được lấy theo F.2 đến F.10.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 767,
-    "line_end": 767
+    "line_start": 665,
+    "line_end": 665
   },
   {
     "clause_id": "hinh-f_14",
@@ -2471,17 +2363,8 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 771,
-    "line_end": 771
-  },
-  {
-    "clause_id": "muc-f-13",
-    "anchor": "muc-f-13",
-    "title": "F.13  Mái che",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 782,
-    "line_end": 782
+    "line_start": 681,
+    "line_end": 681
   },
   {
     "clause_id": "hinh-f_15",
@@ -2489,35 +2372,26 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 792,
-    "line_end": 792
+    "line_start": 699,
+    "line_end": 699
   },
   {
     "clause_id": "bang-bang-f-9",
     "anchor": "bang-bang-f-9",
-    "title": "Bảng F.9 — Hệ số $c_{e}$ cho mái che",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 803,
-    "line_end": 803
-  },
-  {
-    "clause_id": "muc-f-14",
-    "anchor": "muc-f-14",
-    "title": "F.14  Khối cầu",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 825,
-    "line_end": 825
+    "line_start": 703,
+    "line_end": 703
   },
   {
     "clause_id": "muc-f-14-1",
     "anchor": "muc-f-14-1",
-    "title": "F.14.1**  Hệ số khí động cản chính diện $c_{x}$ của khối cầu khi $z_{g}$ ≥ d/2 (Hình F.16) được xác định theo các biểu đồ trên Hình F.17 phụ thuộc vào hệ số Reynold Re (xem F.14.4) và độ nhám tương đối δ = Δ/d, trong đó Δ là độ nhám bề mặt, tính bằng mét (m) (xem F.19).",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 829,
-    "line_end": 829
+    "line_start": 726,
+    "line_end": 726
   },
   {
     "clause_id": "hinh-f_16",
@@ -2525,8 +2399,8 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 835,
-    "line_end": 835
+    "line_start": 738,
+    "line_end": 738
   },
   {
     "clause_id": "hinh-f_17",
@@ -2534,80 +2408,44 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 846,
-    "line_end": 846
+    "line_start": 748,
+    "line_end": 748
   },
   {
     "clause_id": "muc-f-14-2",
     "anchor": "muc-f-14-2",
-    "title": "F.14.2**  Hệ số lực nâng khối cầu $c_{z}$ lấy như sau:",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 857,
-    "line_end": 857
+    "line_start": 752,
+    "line_end": 752
   },
   {
     "clause_id": "muc-f-14-3",
     "anchor": "muc-f-14-3",
-    "title": "F.14.3**  Độ cao tương đương $z_{e}$ (xem 10.2.4): $z_{e}$ = $z_{g}$+ d/2.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 865,
-    "line_end": 865
+    "line_start": 760,
+    "line_end": 760
   },
   {
     "clause_id": "muc-f-14-4",
     "anchor": "muc-f-14-4",
-    "title": "F.14.4**  Số Reynold Re được xác định theo công thức:",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 869,
-    "line_end": 869
-  },
-  {
-    "clause_id": "formula-f_1",
-    "anchor": "formula-f_1",
-    "title": "$$",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 873,
-    "line_end": 873
-  },
-  {
-    "clause_id": "formula-f_2",
-    "anchor": "formula-f_2",
-    "title": "$$",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 888,
-    "line_end": 888
-  },
-  {
-    "clause_id": "muc-f-15",
-    "anchor": "muc-f-15",
-    "title": "F.15  Công trình và các cấu kiện kết cấu có bề mặt trụ tròn",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 905,
-    "line_end": 905
+    "line_start": 764,
+    "line_end": 764
   },
   {
     "clause_id": "muc-f-15-1",
     "anchor": "muc-f-15-1",
-    "title": "F.15.1**  Hệ số khí động áp lực ngoài $c_{e1}$ (xem Hình F.18) được xác định theo công thức:",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 909,
-    "line_end": 909
-  },
-  {
-    "clause_id": "formula-f_3",
-    "anchor": "formula-f_3",
-    "title": "$$",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 913,
-    "line_end": 913
+    "line_start": 810,
+    "line_end": 810
   },
   {
     "clause_id": "hinh-f_18",
@@ -2615,8 +2453,8 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 928,
-    "line_end": 928
+    "line_start": 831,
+    "line_end": 831
   },
   {
     "clause_id": "hinh-f_19",
@@ -2624,53 +2462,44 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 939,
-    "line_end": 939
+    "line_start": 841,
+    "line_end": 841
   },
   {
     "clause_id": "bang-bang-f-10",
     "anchor": "bang-bang-f-10",
-    "title": "Bảng F.10 — Các giá trị $\\beta_{min}$, $\\beta_{b}$, $c_{min}$ và $c_{b}$",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 950,
-    "line_end": 950
+    "line_start": 845,
+    "line_end": 845
   },
   {
     "clause_id": "muc-f-15-2",
     "anchor": "muc-f-15-2",
-    "title": "F.15.2**  Giá trị các hệ số khí động áp lực $c_{e2}$ và $c_{i}$ (Hình F.18) được nêu trong Bảng F.11. Hệ số $c_{i}$ cần được kể đến đối với “mái nổi” (cũng có thể gọi là “mái phao”), cũng như khi không có mái.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 961,
-    "line_end": 961
+    "line_start": 856,
+    "line_end": 856
   },
   {
     "clause_id": "bang-bang-f-11",
     "anchor": "bang-bang-f-11",
-    "title": "Bảng F.11 — Các hệ số $c_{e2}$ và $c_{i}$",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 965,
-    "line_end": 965
+    "line_start": 860,
+    "line_end": 860
   },
   {
     "clause_id": "muc-f-15-3",
     "anchor": "muc-f-15-3",
-    "title": "F.15.3**  Hệ số khí động cản chính diện $c_{x}$ được xác định theo công thức:",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 973,
-    "line_end": 973
-  },
-  {
-    "clause_id": "formula-f_4",
-    "anchor": "formula-f_4",
-    "title": "$$",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 977,
-    "line_end": 977
+    "line_start": 868,
+    "line_end": 868
   },
   {
     "clause_id": "hinh-f_20",
@@ -2678,35 +2507,26 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 990,
-    "line_end": 990
+    "line_start": 887,
+    "line_end": 887
   },
   {
     "clause_id": "muc-f-15-4",
     "anchor": "muc-f-15-4",
-    "title": "F.15.4**  Đối với dây dẫn $c_{x}$ = 1,2.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1001,
-    "line_end": 1001
+    "line_start": 891,
+    "line_end": 891
   },
   {
     "clause_id": "muc-f-15-5",
     "anchor": "muc-f-15-5",
-    "title": "F.15.5**  Hệ số khí động cản chính diện $c_{x\\beta}$ của các cấu kiện nằm nghiêng (Hình F.21) được xác định theo công thức:",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1005,
-    "line_end": 1005
-  },
-  {
-    "clause_id": "formula-f_5",
-    "anchor": "formula-f_5",
-    "title": "$$",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 1009,
-    "line_end": 1009
+    "line_start": 895,
+    "line_end": 895
   },
   {
     "clause_id": "hinh-f_21",
@@ -2714,44 +2534,26 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1028,
-    "line_end": 1028
+    "line_start": 920,
+    "line_end": 920
   },
   {
     "clause_id": "muc-f-15-6",
     "anchor": "muc-f-15-6",
-    "title": "F.15.6**  Số Reynold Re được xác định theo công thức (F.1) trong F.14.4, trong đó:",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1039,
-    "line_end": 1039
-  },
-  {
-    "clause_id": "muc-f-16",
-    "anchor": "muc-f-16",
-    "title": "F.16  Công trình hình lăng trụ và các cấu kiện kết cấu",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 1047,
-    "line_end": 1047
+    "line_start": 924,
+    "line_end": 924
   },
   {
     "clause_id": "muc-f-16-1",
     "anchor": "muc-f-16-1",
-    "title": "F.16.1**  Hệ số khí động cản chính diện $c_{x}$ của công trình hình lăng trụ được xác định theo công thức:",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1051,
-    "line_end": 1051
-  },
-  {
-    "clause_id": "formula-f_6",
-    "anchor": "formula-f_6",
-    "title": "$$",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 1055,
-    "line_end": 1055
+    "line_start": 934,
+    "line_end": 934
   },
   {
     "clause_id": "hinh-f_22",
@@ -2759,80 +2561,62 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1068,
-    "line_end": 1068
+    "line_start": 953,
+    "line_end": 953
   },
   {
     "clause_id": "bang-bang-f-12",
     "anchor": "bang-bang-f-12",
-    "title": "Bảng F.12 — Hệ số $c_{x∞}$ cho tiết diện n góc và các cấu kiện kết cấu (dạng định hình)",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1079,
-    "line_end": 1079
+    "line_start": 957,
+    "line_end": 957
   },
   {
     "clause_id": "muc-f-16-2",
     "anchor": "muc-f-16-2",
-    "title": "F.16.2**  Hệ số khí động cản chính diện $c_{x}$ đối với các thanh định hình lấy bằng 1,4 ($c_{x}$ = 1,4).",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1090,
-    "line_end": 1090
-  },
-  {
-    "clause_id": "muc-f-17",
-    "anchor": "muc-f-17",
-    "title": "F.17  Kết cấu rỗng",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 1094,
-    "line_end": 1094
+    "line_start": 968,
+    "line_end": 968
   },
   {
     "clause_id": "muc-f-17-1",
     "anchor": "muc-f-17-1",
-    "title": "F.17.1**  Chỉ dẫn chung",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1098,
-    "line_end": 1098
+    "line_start": 974,
+    "line_end": 974
   },
   {
     "clause_id": "muc-f-17-1-1",
     "anchor": "muc-f-17-1-1",
-    "title": "F.17.1.1**  Các hệ số khí động của kết cấu rỗng được tính trên diện tích các mặt của giàn không gian hoặc diện tích bao của giàn phẳng.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1102,
-    "line_end": 1102
+    "line_start": 978,
+    "line_end": 978
   },
   {
     "clause_id": "muc-f-17-1-2",
     "anchor": "muc-f-17-1-2",
-    "title": "F.17.1.2**  Hướng trục x đối với giàn phẳng trùng với hướng gió và vuông góc với mặt phẳng kết cấu giàn; đối với giàn không gian hướng gió tính toán được chỉ trong Bảng 14.",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1106,
-    "line_end": 1106
+    "line_start": 982,
+    "line_end": 982
   },
   {
     "clause_id": "muc-f-17-2",
     "anchor": "muc-f-17-2",
-    "title": "F.17.2**  Kết cấu rỗng phẳng đứng độc lập",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1110,
-    "line_end": 1110
-  },
-  {
-    "clause_id": "formula-f_7",
-    "anchor": "formula-f_7",
-    "title": "$$",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 1116,
-    "line_end": 1116
+    "line_start": 986,
+    "line_end": 986
   },
   {
     "clause_id": "hinh-f_23",
@@ -2840,17 +2624,17 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1135,
-    "line_end": 1135
+    "line_start": 1018,
+    "line_end": 1018
   },
   {
     "clause_id": "muc-f-17-3",
     "anchor": "muc-f-17-3",
-    "title": "F.17.3**  Dãy kết cấu rỗng phẳng song song nhau",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1146,
-    "line_end": 1146
+    "line_start": 1022,
+    "line_end": 1022
   },
   {
     "clause_id": "hinh-f_24",
@@ -2858,35 +2642,26 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1154,
-    "line_end": 1154
+    "line_start": 1036,
+    "line_end": 1036
   },
   {
     "clause_id": "bang-bang-f-13",
     "anchor": "bang-bang-f-13",
-    "title": "Bảng F.13 — Hệ số η",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1165,
-    "line_end": 1165
+    "line_start": 1040,
+    "line_end": 1040
   },
   {
     "clause_id": "muc-f-17-4",
     "anchor": "muc-f-17-4",
-    "title": "F.17.4**  Tháp rỗng và giàn không gian",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1183,
-    "line_end": 1183
-  },
-  {
-    "clause_id": "formula-f_8",
-    "anchor": "formula-f_8",
-    "title": "$$",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 1189,
-    "line_end": 1189
+    "line_start": 1058,
+    "line_end": 1058
   },
   {
     "clause_id": "hinh-f_25",
@@ -2894,35 +2669,26 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1204,
-    "line_end": 1204
+    "line_start": 1081,
+    "line_end": 1081
   },
   {
     "clause_id": "bang-bang-f-14",
     "anchor": "bang-bang-f-14",
-    "title": "Bảng F.14 — Hệ số $k_{1}$",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1215,
-    "line_end": 1215
+    "line_start": 1085,
+    "line_end": 1085
   },
   {
     "clause_id": "muc-f-17-5",
     "anchor": "muc-f-17-5",
-    "title": "F.17.5**  Hệ số đặc của kết cấu",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1225,
-    "line_end": 1225
-  },
-  {
-    "clause_id": "formula-f_9",
-    "anchor": "formula-f_9",
-    "title": "$$",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 1231,
-    "line_end": 1231
+    "line_start": 1095,
+    "line_end": 1095
   },
   {
     "clause_id": "hinh-f_26",
@@ -2930,17 +2696,8 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1244,
-    "line_end": 1244
-  },
-  {
-    "clause_id": "muc-f-18",
-    "anchor": "muc-f-18",
-    "title": "F.18  Xét đến độ mảnh hiệu dụng của công trình",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 1255,
-    "line_end": 1255
+    "line_start": 1121,
+    "line_end": 1121
   },
   {
     "clause_id": "hinh-f_27",
@@ -2948,35 +2705,26 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1261,
-    "line_end": 1261
+    "line_start": 1135,
+    "line_end": 1135
   },
   {
     "clause_id": "bang-bang-f-15",
     "anchor": "bang-bang-f-15",
-    "title": "Bảng F.15 — Độ mảnh hiệu dụng $\\lambda_{e}$",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1272,
-    "line_end": 1272
-  },
-  {
-    "clause_id": "muc-f-19",
-    "anchor": "muc-f-19",
-    "title": "F.19  Xét đến độ nhám bề mặt ngoài",
-    "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
-    "jurisdiction": "CQXD",
-    "line_start": 1280,
-    "line_end": 1280
+    "line_start": 1139,
+    "line_end": 1139
   },
   {
     "clause_id": "bang-bang-f-16",
     "anchor": "bang-bang-f-16",
-    "title": "Bảng F.16 — Độ nhám Δ của bề mặt kết cấu",
+    "title": "",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD",
-    "line_start": 1288,
-    "line_end": 1288
+    "line_start": 1152,
+    "line_end": 1152
   },
   {
     "clause_id": "phu-luc-g",
@@ -2984,80 +2732,71 @@
     "title": "PHỤ LỤC G  (Quy định)  ĐỘ VÕNG VÀ CHUYỂN VỊ",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 2,
-    "line_end": 2
-  },
-  {
-    "clause_id": "muc-g-1",
-    "anchor": "muc-g-1",
-    "title": "G.1  Xác định độ võng và chuyển vị",
-    "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
-    "jurisdiction": "CQXD",
-    "line_start": 6,
-    "line_end": 6
+    "line_start": 1,
+    "line_end": 1
   },
   {
     "clause_id": "muc-g-1-1",
     "anchor": "muc-g-1-1",
-    "title": "G.1.1**  Khi xác định độ võng và chuyển vị cần phải kể đến tất cả các yếu tố chính ảnh hưởng đến giá trị của chúng (biến dạng không đàn hồi của vật liệu, sự hình thành vết nứt, việc xét đến sơ đồ biến dạng, việc xét đến các kết cấu liền kề, độ mềm dẻo của các nút liên kết và nền). Khi có đủ cơ sở, có thể không cần tính đến một số yếu tố nào đó hoặc tính đến bằng phương pháp gần đúng.",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 10,
-    "line_end": 10
+    "line_start": 7,
+    "line_end": 7
   },
   {
     "clause_id": "muc-g-1-2",
     "anchor": "muc-g-1-2",
-    "title": "G.1.2**  Đối với kết cấu dùng loại vật liệu có tính từ biến thì phải kể đến sự tăng độ võng theo thời gian. Khi khống chế độ võng theo yêu cầu tâm sinh lý thì chỉ kể đến từ biến ngắn hạn xuất hiện ngay sau khi đặt tải, còn theo yêu cầu công nghệ và cấu tạo (trừ khi tính toán kể đến tải trọng gió), thẩm mỹ - tâm lý thì kể đến từ biến toàn phần.",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 14,
-    "line_end": 14
+    "line_start": 11,
+    "line_end": 11
   },
   {
     "clause_id": "muc-g-1-3",
     "anchor": "muc-g-1-3",
-    "title": "G.1.3**  Khi xác định độ võng ngang của cột nhà một tầng và của trụ cầu cạn do tải trọng ngang của cần trục cần chọn sơ đồ tính của cột (trụ) có kể đến điều kiện liên kết với giả thiết:",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 18,
-    "line_end": 18
+    "line_start": 15,
+    "line_end": 15
   },
   {
     "clause_id": "muc-g-1-4",
     "anchor": "muc-g-1-4",
-    "title": "G.1.4**  Khi kết cấu xây dựng dao động thì việc phân loại dao động, các thông số quy định, các giá trị giới hạn cho phép của chúng đối với nhà ở, nhà công cộng và nhà công nghiệp phải được quy định theo yêu cầu của các tiêu chuẩn có liên quan.",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 26,
-    "line_end": 26
+    "line_start": 23,
+    "line_end": 23
   },
   {
     "clause_id": "muc-g-1-5",
     "anchor": "muc-g-1-5",
-    "title": "G.1.5**  Tình huống tính toán, mà trong đó phải xác định độ võng, chuyển vị và các tải trọng tương ứng với chúng, phải được lựa chọn tùy thuộc vào việc tính toán được thực hiện theo các yêu cầu nào.",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 32,
-    "line_end": 32
+    "line_start": 29,
+    "line_end": 29
   },
   {
     "clause_id": "muc-g-1-6",
     "anchor": "muc-g-1-6",
-    "title": "G.1.6**  Độ võng của các cấu kiện của sàn tầng và mái theo yêu cầu cấu tạo không được vượt quá khoảng cách (khe hở) giữa mặt dưới của các cấu kiện đó và mặt trên (đỉnh) của tường ngăn, vách kính, khuôn cửa sổ, khuôn cửa đi và các cấu kiện cấu tạo khác nằm dưới các cấu kiện chịu lực.",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 48,
-    "line_end": 48
+    "line_start": 45,
+    "line_end": 45
   },
   {
     "clause_id": "muc-g-1-7",
     "anchor": "muc-g-1-7",
-    "title": "G.1.7**  Trong trường hợp giữa các tường có tường ngăn chịu lực (với chiều cao gần bằng chiều cao tường) thì giá trị L trong mục 2a Bảng G.1 lấy bằng khoảng cách giữa mặt trong của các tường chịu lực (hoặc các cột) và các tường ngăn (hoặc giữa mặt trong của các tường ngăn như trên Hình G.1).",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 52,
-    "line_end": 52
+    "line_start": 49,
+    "line_end": 49
   },
   {
     "clause_id": "hinh-g_1",
@@ -3065,17 +2804,17 @@
     "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 83,
-    "line_end": 83
+    "line_start": 76,
+    "line_end": 76
   },
   {
     "clause_id": "muc-g-1-8",
     "anchor": "muc-g-1-8",
-    "title": "G.1.8**  Độ võng của kết cấu vì kèo khi có đường ray của cần trục treo (Bảng G.1, mục 2c) lấy bằng hiệu các độ võng $f_{1}$ và $f_{2}$ của các kết cấu vì kèo liền kề nhau (Hình G.2).",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 88,
-    "line_end": 88
+    "line_start": 80,
+    "line_end": 80
   },
   {
     "clause_id": "hinh-g_2",
@@ -3083,224 +2822,206 @@
     "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 104,
-    "line_end": 104
+    "line_start": 102,
+    "line_end": 102
   },
   {
     "clause_id": "muc-g-1-9",
     "anchor": "muc-g-1-9",
-    "title": "G.1.9**  Chuyển vị ngang của khung cần được xác định trong mặt phẳng tường và tường ngăn mà tính toàn vẹn của chúng cần được đảm bảo.",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 115,
-    "line_end": 115
-  },
-  {
-    "clause_id": "muc-g-2",
-    "anchor": "muc-g-2",
-    "title": "G.2  Độ võng giới hạn",
-    "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
-    "jurisdiction": "CQXD",
-    "line_start": 119,
-    "line_end": 119
+    "line_start": 106,
+    "line_end": 106
   },
   {
     "clause_id": "muc-g-2-1",
     "anchor": "muc-g-2-1",
-    "title": "G.2.1**  Độ võng đứng giới hạn của cấu kiện kết cấu",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 123,
-    "line_end": 123
+    "line_start": 112,
+    "line_end": 112
   },
   {
     "clause_id": "muc-g-2-2-1",
     "anchor": "muc-g-2-2-1",
-    "title": "G.2.2.1**  Độ võng đứng giới hạn $f_{u}$ của các cấu kiện kết cấu và tải trọng tương ứng dùng để xác định độ võng f được nêu trong Bảng G.1.",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 127,
-    "line_end": 127
+    "line_start": 116,
+    "line_end": 116
   },
   {
     "clause_id": "bang-bang-g-1",
     "anchor": "bang-bang-g-1",
-    "title": "Bảng G.1 — Độ võng đứng giới hạn $f_{u}$ và tải trọng tương ứng để xác định độ võng đứng f",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 131,
-    "line_end": 131
+    "line_start": 120,
+    "line_end": 120
   },
   {
     "clause_id": "muc-g-2-2",
     "anchor": "muc-g-2-2",
-    "title": "G.2.2**  Yêu cầu tâm sinh lý",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 157,
-    "line_end": 157
-  },
-  {
-    "clause_id": "formula-g_1",
-    "anchor": "formula-g_1",
-    "title": "$$",
-    "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
-    "jurisdiction": "CQXD",
-    "line_start": 163,
-    "line_end": 163
+    "line_start": 145,
+    "line_end": 145
   },
   {
     "clause_id": "bang-bang-g-2",
     "anchor": "bang-bang-g-2",
-    "title": "Bảng G.2 — Các hệ số p, $p_{1}$, n, b",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 186,
-    "line_end": 186
+    "line_start": 175,
+    "line_end": 175
   },
   {
     "clause_id": "muc-g-2-3",
     "anchor": "muc-g-2-3",
-    "title": "G.2.3**  Độ võng ngang giới hạn của cột và kết cấu hãm do tải trọng cần trục",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 196,
-    "line_end": 196
+    "line_start": 185,
+    "line_end": 185
   },
   {
     "clause_id": "bang-bang-g-3",
     "anchor": "bang-bang-g-3",
-    "title": "Bảng G.3 — Độ võng ngang giới hạn $f_{\\mu}$ của cột nhà có cầu trục, trụ cầu cạn, dầm đỡ cầu trục và kết cấu hãm",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 204,
-    "line_end": 204
+    "line_start": 193,
+    "line_end": 193
   },
   {
     "clause_id": "muc-g-2-4",
     "anchor": "muc-g-2-4",
-    "title": "G.2.4**  Độ võng ngang giới hạn của nhà, cấu kiện riêng lẻ và trụ đỡ băng tải do tải trọng gió, độ nghiêng của móng và tác động nhiệt khí hậu",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 218,
-    "line_end": 218
+    "line_start": 207,
+    "line_end": 207
   },
   {
     "clause_id": "muc-g-2-4-1",
     "anchor": "muc-g-2-4-1",
-    "title": "G.2.4.1**  Đối với trạng thái giới hạn thứ hai, chuyển vị ngang của nhà không khung do tải trọng gió không cần khống chế giới hạn.",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 222,
-    "line_end": 222
+    "line_start": 211,
+    "line_end": 211
   },
   {
     "clause_id": "muc-g-2-4-2",
     "anchor": "muc-g-2-4-2",
-    "title": "G.2.4.2**  Độ võng ngang giới hạn của cột (trụ) nhà khung do tác động của nhiệt khí hậu và lún lấy bằng:",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 226,
-    "line_end": 226
+    "line_start": 215,
+    "line_end": 215
   },
   {
     "clause_id": "muc-g-2-4-3",
     "anchor": "muc-g-2-4-3",
-    "title": "G.2.4.3**  Độ võng ngang giới hạn của các bộ phận cấu tạo của vách kính và tương tự được quy định theo tiêu chuẩn chuyên ngành có liên quan hoặc theo nhiệm vụ thiết kế.",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 238,
-    "line_end": 238
+    "line_start": 227,
+    "line_end": 227
   },
   {
     "clause_id": "muc-g-2-5",
     "anchor": "muc-g-2-5",
-    "title": "G.2.5**  Độ võng giới hạn và chuyển vị giới hạn của nhà và các cấu kiện riêng lẻ của nhà theo các yêu cầu công nghệ và cấu tạo",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 242,
-    "line_end": 242
+    "line_start": 231,
+    "line_end": 231
   },
   {
     "clause_id": "muc-g-2-5-1",
     "anchor": "muc-g-2-5-1",
-    "title": "G.2.5.1**  Độ võng đứng giới hạn của các cấu kiện kết cấu theo các yêu cầu công nghệ và cấu tạo",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 246,
-    "line_end": 246
+    "line_start": 235,
+    "line_end": 235
   },
   {
     "clause_id": "muc-g-2-5-1-1",
     "anchor": "muc-g-2-5-1-1",
-    "title": "G.2.5.1.1**  Độ võng đứng giới hạn của cấu kiện kết cấu theo yêu cầu công nghệ và cấu tạo được nêu trong Bảng G.4. Yêu cầu về khe hở giữa các cấu kiện liền kề được nêu trong G.2.5.1.2.",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 250,
-    "line_end": 250
+    "line_start": 239,
+    "line_end": 239
   },
   {
     "clause_id": "bang-bang-g-4",
     "anchor": "bang-bang-g-4",
-    "title": "Bảng G.4 — Độ võng đứng giới hạn $f_{u}$ và tải trọng tương ứng để xác định độ võng đứng f",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 254,
-    "line_end": 254
+    "line_start": 243,
+    "line_end": 243
   },
   {
     "clause_id": "muc-g-2-5-1-2",
     "anchor": "muc-g-2-5-1-2",
-    "title": "G.2.5.1.2**  Khe hở giữa mặt dưới của các cấu kiện của mái, sàn tầng và đỉnh tường ngăn nằm dưới các cấu kiện đó, thông thường, không được vượt quá 40 mm. Trong các trường hợp, khi việc thực hiện các yêu cầu vừa nêu liên quan đến sự tăng độ cứng của sàn tầng và mái thì phải sử dụng các biện pháp cấu tạo để tránh sự tăng độ cứng đó (ví dụ: không bố trí các tường ngăn ngay dưới dầm chịu uốn mà bố trí ở bên cạnh nó).",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 280,
-    "line_end": 280
+    "line_start": 268,
+    "line_end": 268
   },
   {
     "clause_id": "muc-g-2-5-2",
     "anchor": "muc-g-2-5-2",
-    "title": "G.2.5.2**  Độ dịch ngang (dịch vào) giới hạn của đường cẩu, cầu cạn ngoài trời theo yêu cầu công nghệ",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 284,
-    "line_end": 284
+    "line_start": 272,
+    "line_end": 272
   },
   {
     "clause_id": "muc-g-2-5-3",
     "anchor": "muc-g-2-5-3",
-    "title": "G.2.5.3**  Độ võng ngang (chuyển vị ngang) giới hạn của nhà, cấu kiện kết cấu riêng lẻ và trụ đỡ băng tải do tải trọng gió và độ nghiêng của móng",
+    "title": "",
+    "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 278,
+    "line_end": 278
+  },
+  {
+    "clause_id": "muc-g-2-5-3-1",
+    "anchor": "muc-g-2-5-3-1",
+    "title": "",
+    "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 282,
+    "line_end": 282
+  },
+  {
+    "clause_id": "bang-bang-g-5",
+    "anchor": "bang-bang-g-5",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
     "line_start": 290,
     "line_end": 290
   },
   {
-    "clause_id": "muc-g-2-5-3-1",
-    "anchor": "muc-g-2-5-3-1",
-    "title": "G.2.5.3.1**  Chuyển vị ngang giới hạn của nhà theo yêu cầu cấu tạo (đảm bảo sự nguyên vẹn của phần chèn khung như tường, tường ngăn, các bộ phận của cửa đi và cửa sổ) được nêu trong Bảng G.5. Các chỉ dẫn về xác định chuyển vị nêu trong G.2.5.3.2.",
-    "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
-    "jurisdiction": "CQXD",
-    "line_start": 294,
-    "line_end": 294
-  },
-  {
-    "clause_id": "bang-bang-g-5",
-    "anchor": "bang-bang-g-5",
-    "title": "Bảng G.5 — Chuyển vị ngang giới hạn $f_{u}$ theo yêu cầu cấu tạo",
-    "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
-    "jurisdiction": "CQXD",
-    "line_start": 302,
-    "line_end": 302
-  },
-  {
     "clause_id": "muc-g-2-5-3-2",
     "anchor": "muc-g-2-5-3-2",
-    "title": "G.2.5.3.2**  Đối với các sơ đồ khung giằng của nhà nhiều tầng có chiều cao trên 40 m thì độ nghiêng của các màng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng tính bằng $f_{1}$/$h_{s}$ + $f_{2}$/L (Hình G.3) không được vượt quá (xem Bảng G.5): 1/500 đối với mục 2a và 1/700 đối với mục 2b và 1/300 đối với mục 2c.",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 318,
-    "line_end": 318
+    "line_start": 305,
+    "line_end": 305
   },
   {
     "clause_id": "hinh-g_3",
@@ -3308,17 +3029,17 @@
     "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 332,
-    "line_end": 332
+    "line_start": 325,
+    "line_end": 325
   },
   {
     "clause_id": "muc-g-2-5-4",
     "anchor": "muc-g-2-5-4",
-    "title": "G.2.5.4**  Độ vồng của các cấu kiện của sàn tầng do lực nén trước",
+    "title": "",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD",
-    "line_start": 343,
-    "line_end": 343
+    "line_start": 329,
+    "line_end": 329
   },
   {
     "clause_id": "phu-luc-h",
@@ -3326,43 +3047,43 @@
     "title": "PHỤ LỤC H  (Quy định)  HỆ SỐ TẦM QUAN TRỌNG CỦA CÔNG TRÌNH",
     "source_file": "annexes/phu_luc_h_he_so_tam_quan_trong_cua_cong_trinh.md",
     "jurisdiction": "CQXD",
-    "line_start": 2,
-    "line_end": 2
+    "line_start": 1,
+    "line_end": 1
   },
   {
     "clause_id": "muc-h-1",
     "anchor": "muc-h-1",
-    "title": "H.1**  Tùy thuộc vào cấp hậu quả của công trình, khi thiết kế cần sử dụng hệ số độ tin cậy về tầm quan trọng của công trình $\\gamma_{n}$.",
+    "title": "",
     "source_file": "annexes/phu_luc_h_he_so_tam_quan_trong_cua_cong_trinh.md",
     "jurisdiction": "CQXD",
-    "line_start": 6,
-    "line_end": 6
+    "line_start": 5,
+    "line_end": 5
   },
   {
     "clause_id": "muc-h-2",
     "anchor": "muc-h-2",
-    "title": "H.2**  Việc phân cấp hậu quả của công trình theo [2] phụ thuộc vào công năng sử dụng, cũng như hậu quả về xã hội, môi trường và kinh tế do sự hư hỏng và phá hoại của nó gây ra.",
+    "title": "",
     "source_file": "annexes/phu_luc_h_he_so_tam_quan_trong_cua_cong_trinh.md",
     "jurisdiction": "CQXD",
-    "line_start": 10,
-    "line_end": 10
+    "line_start": 9,
+    "line_end": 9
   },
   {
     "clause_id": "muc-h-3",
     "anchor": "muc-h-3",
-    "title": "H.3**  Hệ số tầm quan trọng của công trình $\\gamma_{n}$ được lấy theo Bảng H.1 khi tính toán theo trạng thái giới hạn thứ nhất và lấy bằng 1,0 khi tính toán theo trạng thái giới hạn thứ hai.",
+    "title": "",
     "source_file": "annexes/phu_luc_h_he_so_tam_quan_trong_cua_cong_trinh.md",
     "jurisdiction": "CQXD",
-    "line_start": 14,
-    "line_end": 14
+    "line_start": 13,
+    "line_end": 13
   },
   {
     "clause_id": "bang-bang-h-1",
     "anchor": "bang-bang-h-1",
-    "title": "Bảng H.1 — Giá trị tối thiểu của hệ số tầm quan trọng $\\gamma_{n}$",
+    "title": "",
     "source_file": "annexes/phu_luc_h_he_so_tam_quan_trong_cua_cong_trinh.md",
     "jurisdiction": "CQXD",
-    "line_start": 18,
-    "line_end": 18
+    "line_start": 17,
+    "line_end": 17
   }
 ]
