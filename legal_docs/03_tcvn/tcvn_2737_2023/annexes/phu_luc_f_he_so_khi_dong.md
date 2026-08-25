@@ -50,18 +50,18 @@
 
 <a id="bang-bang-f-1"></a>
 
-**Bảng F.1 — Hệ số cx cho các vùng trên tường phẳng, hàng rào và kết cấu tương tự (xem Hình F.1)**
+**Bảng F.1 — Hệ số $c_x$ cho các vùng trên tường phẳng, hàng rào và kết cấu tương tự (xem [Hình F.1](#hinh-f_1))**
 
-| Hệ số đặc | Tường | Vùng |
-| :---: | :--- | :--- |
-| Hệ số đặc | Tường | A |
-| φ = 1,0 | Thẳng | L/h ≤ 3 |
-| φ = 1,0 | Thẳng | L/h = 5 |
-| φ = 1,0 | Thẳng | L/h ≥ 10 |
-| φ = 1,0 | Có bẻ góc với chiều dài phần bẻ góc không nhỏ hơn h 1) | 2,1 |
-| φ = 0,8 |  | 1,2 |
-| 1) Đối với chiều dài phần bẻ góc trong khoảng từ 0 đến h, có thể xác định cx bằng nội suy tuyến tính. |  |  |
-| CHÚ THÍCH: Với các giá trị trung gian của hệ số đặc φ, có thể xác định cx bằng nội suy tuyến tính. |  |  |
+| Hệ số đặc $\varphi$ | Loại tường | Tỷ lệ $L/h$ | Vùng A | Vùng B | Vùng C | Vùng D |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: |
+| $\varphi = 1{,}0$ | Thẳng | $L/h \le 3$ | 2,3 | 1,4 | 1,2 | 1,2 |
+| $\varphi = 1{,}0$ | Thẳng | $L/h = 5$ | 2,9 | 1,8 | 1,4 | 1,2 |
+| $\varphi = 1{,}0$ | Thẳng | $L/h \ge 10$ | 3,4 | 2,1 | 1,7 | 1,2 |
+| $\varphi = 1{,}0$ | Có bẻ góc với chiều dài phần bẻ góc không nhỏ hơn $h$ <sup>1)</sup> | — | 2,1 | 1,8 | 1,4 | 1,2 |
+| $\varphi = 0{,}8$ | — | — | 1,2 | 1,2 | 1,2 | 1,2 |
+
+<sup>1)</sup> Đối với chiều dài phần bẻ góc trong khoảng từ 0 đến $h$, có thể xác định $c_x$ bằng nội suy tuyến tính.  
+**CHÚ THÍCH:** Với các giá trị trung gian của hệ số đặc $\varphi$, có thể xác định $c_x$ bằng nội suy tuyến tính.
 
 <a id="muc-f-1-2"></a>
 
@@ -130,22 +130,27 @@ b là cạnh vuông góc hướng gió</em></p>
 
 <a id="bang-bang-f-2"></a>
 
-**Bảng F.2 — Hệ số ce cho mái bằng**
+**Bảng F.2 — Hệ số $c_e$ cho mái bằng**
 
-| Loại mái | Vùng |
-| :---: | :--- |
-| Loại mái | F |
-| Có cạnh sắc | - 1,8 |
-| Có tường chắn mái | hp/h = 0,025 |
-| Có tường chắn mái | hp/h = 0,05 |
-| Có tường chắn mái | hp/h = 0,10 |
-| Có cạnh bo tròn | r/h = 0,05 |
-| Có cạnh bo tròn | r/h = 0,10 |
-| Có cạnh bo tròn | r/h = 0,20 |
-| Có cạnh vát góc | α = 30° |
-| Có cạnh vát góc | α = 45° |
-| Có cạnh vát góc | α = 60° |
-| CHÚ THÍCH 1: Đối với mái có tường chắn mái hoặc mái có cạnh bo tròn, có thể sử dụng nội suy tuyến tính cho các giá trị trung gian của hp/h và r/h.<br>CHÚ THÍCH 2: Đối với mái có cạnh vát góc, có thể sử dụng nội suy tuyến tính giữa α = 30°, α = 45° và α = 60°. Khi α > 60°, sử dụng nội suy tuyến tính giữa giá trị α = 60° và giá trị cho mái bằng có cạnh sắc.<br>CHÚ THÍCH 3: Trong vùng I, nơi có các giá trị dương và âm, thì cần xét cả hai giá trị này.<br>CHÚ THÍCH 4: Đối với mái có cạnh vát góc, hệ số khí động áp lực ngoài ce lấy theo Bảng F.5a, vùng F và G, phụ thuộc vào góc dốc của mái có cạnh vát góc.<br>CHÚ THÍCH 5: Đối với mái có cạnh bo tròn, hệ số khí động áp lực ngoài ce được xác định bằng nội suy tuyến tính (dọc theo đường bo tròn) giữa các giá trị cho tường và cho mái.<br>CHÚ THÍCH 6: Đối với mái có cạnh vát góc với kích thước nằm ngang nhỏ hơn e/10 thì sử dụng giá trị ce cho mái có cạnh sắc. e được xác định như trên Hình F.3. |  |
+| Loại mái | Thông số hình học | Vùng F | Vùng G | Vùng H | Vùng I |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| Có cạnh sắc | — | - 1,8 | - 1,2 | - 0,7 | $\pm 0{,}2$ |
+| Có tường chắn mái | $h_p / h = 0{,}025$ | - 1,6 | - 1,1 | - 0,7 | $\pm 0{,}2$ |
+| Có tường chắn mái | $h_p / h = 0{,}05$ | - 1,4 | - 0,9 | - 0,7 | $\pm 0{,}2$ |
+| Có tường chắn mái | $h_p / h = 0{,}10$ | - 1,2 | - 0,8 | - 0,7 | $\pm 0{,}2$ |
+| Có cạnh bo tròn | $r / h = 0{,}05$ | - 1,0 | - 0,7 | - 0,6 | $\pm 0{,}2$ |
+| Có cạnh bo tròn | $r / h = 0{,}10$ | - 0,7 | - 0,7 | - 0,6 | $\pm 0{,}2$ |
+| Có cạnh bo tròn | $r / h = 0{,}20$ | - 0,5 | - 0,5 | - 0,5 | $\pm 0{,}2$ |
+| Có cạnh vát góc | $\alpha = 30^\circ$ | - 1,0 | - 1,0 | - 0,6 | $\pm 0{,}2$ |
+| Có cạnh vát góc | $\alpha = 45^\circ$ | - 1,2 | - 1,2 | - 0,6 | $\pm 0{,}2$ |
+| Có cạnh vát góc | $\alpha = 60^\circ$ | - 1,4 | - 1,4 | - 0,6 | $\pm 0{,}2$ |
+
+**CHÚ THÍCH 1:** Đối với mái có tường chắn mái hoặc mái có cạnh bo tròn, có thể sử dụng nội suy tuyến tính cho các giá trị trung gian của $h_p/h$ và $r/h$.  
+**CHÚ THÍCH 2:** Đối với mái có cạnh vát góc, có thể sử dụng nội suy tuyến tính giữa $\alpha = 30^\circ$, $\alpha = 45^\circ$ và $\alpha = 60^\circ$. Khi $\alpha > 60^\circ$, sử dụng nội suy tuyến tính giữa giá trị $\alpha = 60^\circ$ và giá trị cho mái bằng có cạnh sắc.  
+**CHÚ THÍCH 3:** Trong vùng I, nơi có các giá trị dương và âm, thì cần xét cả hai giá trị này.  
+**CHÚ THÍCH 4:** Đối với mái có cạnh vát góc, hệ số khí động áp lực ngoài $c_e$ lấy theo Bảng F.5a, vùng F và G, phụ thuộc vào góc dốc của mái có cạnh vát góc.  
+**CHÚ THÍCH 5:** Đối với mái có cạnh bo tròn, hệ số khí động áp lực ngoài $c_e$ được xác định bằng nội suy tuyến tính (dọc theo đường bo tròn) giữa các giá trị cho tường và cho mái.  
+**CHÚ THÍCH 6:** Đối với mái có cạnh vát góc với kích thước nằm ngang nhỏ hơn $e/10$ thì sử dụng giá trị $c_e$ cho mái có cạnh sắc. $e$ được xác định như trên [Hình F.3](#hinh-f_3).
 
 ### F.3  Mái dốc một phía
 
@@ -260,14 +265,15 @@ b là cạnh vuông góc hướng gió</em></p>
 
 <a id="bang-bang-f-4"></a>
 
-**Bảng F.4 — Hệ số ce cho tường thẳng đứng của nhà có mặt bằng chữ nhật**
+**Bảng F.4 — Hệ số $c_e$ cho tường thẳng đứng của nhà có mặt bằng chữ nhật**
 
-| h/d | Vùng |
-| :---: | :--- |
-| h/d | A |
-| 5 | - 1,2 |
-| 1 | - 1,2 |
-| ≤ 0,25 | - 1,2 |
+| Tỷ lệ $h/d$ | Vùng A ($c_{pe,10}$) | Vùng B ($c_{pe,10}$) | Vùng C ($c_{pe,10}$) | Vùng D ($c_{pe,10}$) | Vùng E ($c_{pe,10}$) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 5 | - 1,2 | - 0,8 | - 0,5 | + 0,8 | - 0,7 |
+| 1 | - 1,2 | - 0,8 | - 0,5 | + 0,8 | - 0,5 |
+| $\le 0{,}25$ | - 1,2 | - 0,8 | - 0,5 | + 0,7 | - 0,3 |
+
+**CHÚ THÍCH:** Sử dụng nội suy tuyến tính cho các giá trị trung gian của tỷ lệ $h/d$.
 
 <a id="muc-f-4-1-2"></a>
 
