@@ -1215,13 +1215,40 @@
     "line_end": 1437
   },
   {
+    "clause_id": "formula-22",
+    "anchor": "formula-22",
+    "title": "",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1450,
+    "line_end": 1450
+  },
+  {
+    "clause_id": "formula-23",
+    "anchor": "formula-23",
+    "title": "",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1459,
+    "line_end": 1459
+  },
+  {
+    "clause_id": "formula-24",
+    "anchor": "formula-24",
+    "title": "",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1468,
+    "line_end": 1468
+  },
+  {
     "clause_id": "bang-bang-10",
     "anchor": "bang-bang-10",
     "title": "Bảng 10 - Giá trị các hệ số cho các dạng địa hình",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1459,
-    "line_end": 1459
+    "line_start": 1486,
+    "line_end": 1486
   },
   {
     "clause_id": "formula-25",
@@ -1229,8 +1256,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1483,
-    "line_end": 1483
+    "line_start": 1510,
+    "line_end": 1510
   },
   {
     "clause_id": "phu-luc-a",
@@ -1238,8 +1265,8 @@
     "title": "PHỤ LỤC A  (Tham khảo)  TRỌNG LƯỢNG ĐƠN VỊ CỦA VẬT LIỆU",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1532,
-    "line_end": 1532
+    "line_start": 1559,
+    "line_end": 1559
   },
   {
     "clause_id": "bang-bang-a-1",
@@ -1247,8 +1274,8 @@
     "title": "Bảng A.1 - Trọng lượng đơn vị của một số vật liệu",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1540,
-    "line_end": 1540
+    "line_start": 1567,
+    "line_end": 1567
   },
   {
     "clause_id": "phu-luc-b",
@@ -1256,8 +1283,8 @@
     "title": "PHỤ LỤC B  (Quy định)  DANH MỤC CẦN TRỤC THEO NHÓM CHẾ ĐỘ LÀM VIỆC VÀ TẢI TRỌNG VA CHẠM CỦA CẦN TRỤC VỚI GỐI CHẶN CUỐI ĐƯỜNG RAY",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1554,
-    "line_end": 1554
+    "line_start": 1581,
+    "line_end": 1581
   },
   {
     "clause_id": "bang-bang-b-1",
@@ -1265,8 +1292,26 @@
     "title": "Bảng B.1 - Danh mục một số cần trục theo nhóm chế độ làm việc",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1560,
-    "line_end": 1560
+    "line_start": 1587,
+    "line_end": 1587
+  },
+  {
+    "clause_id": "formula-b_1",
+    "anchor": "formula-b_1",
+    "title": "",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1612,
+    "line_end": 1612
+  },
+  {
+    "clause_id": "formula-b_2",
+    "anchor": "formula-b_2",
+    "title": "",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1635,
+    "line_end": 1635
   },
   {
     "clause_id": "bang-bang-b-2",
@@ -1274,8 +1319,8 @@
     "title": "Bảng B.2 - Giá trị giới hạn $F_u$ của tải trọng ngang do va chạm của cần trục với gối chặn cuối đường ray",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1636,
-    "line_end": 1636
+    "line_start": 1672,
+    "line_end": 1672
   },
   {
     "clause_id": "phu-luc-c",
@@ -1283,8 +1328,8 @@
     "title": "PHỤ LỤC C  (Quy định)  PHƯƠNG PHÁP XÁC ĐỊNH MỐC CHUẨN",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1648,
-    "line_end": 1648
+    "line_start": 1684,
+    "line_end": 1684
   },
   {
     "clause_id": "hinh-c_1",
@@ -1292,8 +1337,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1667,
-    "line_end": 1667
+    "line_start": 1703,
+    "line_end": 1703
   },
   {
     "clause_id": "phu-luc-d",
@@ -1301,8 +1346,8 @@
     "title": "PHỤ LỤC D  (Tham khảo)  MINH HỌA CÁC DẠNG ĐỊA HÌNH",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1672,
-    "line_end": 1672
+    "line_start": 1708,
+    "line_end": 1708
   },
   {
     "clause_id": "hinh-d_1",
@@ -1310,8 +1355,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1675,
-    "line_end": 1675
+    "line_start": 1711,
+    "line_end": 1711
   },
   {
     "clause_id": "hinh-d_2",
@@ -1319,8 +1364,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1679,
-    "line_end": 1679
+    "line_start": 1715,
+    "line_end": 1715
   },
   {
     "clause_id": "hinh-d_3",
@@ -1328,8 +1373,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1683,
-    "line_end": 1683
+    "line_start": 1719,
+    "line_end": 1719
   },
   {
     "clause_id": "phu-luc-e",
@@ -1337,8 +1382,26 @@
     "title": "PHỤ LỤC E  (Tham khảo)  MỘT SỐ CÔNG THỨC ĐƠN GIẢN TÍNH HỆ SỐ HIỆU ỨNG GIẬT GF VÀ KÍCH THƯỚC TƯƠNG ĐƯƠNG CHO MỘT SỐ MẶT BẰNG PHỨC TẠP CỦA CÔNG TRÌNH",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1688,
-    "line_end": 1688
+    "line_start": 1724,
+    "line_end": 1724
+  },
+  {
+    "clause_id": "formula-e_1",
+    "anchor": "formula-e_1",
+    "title": "",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1733,
+    "line_end": 1733
+  },
+  {
+    "clause_id": "formula-e_2",
+    "anchor": "formula-e_2",
+    "title": "",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1743,
+    "line_end": 1743
   },
   {
     "clause_id": "hinh-e_1",
@@ -1346,8 +1409,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1727,
-    "line_end": 1727
+    "line_start": 1775,
+    "line_end": 1775
   },
   {
     "clause_id": "phu-luc-f",
@@ -1355,8 +1418,8 @@
     "title": "PHỤ LỤC F  (Quy định)  HỆ SỐ KHÍ ĐỘNG",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1742,
-    "line_end": 1742
+    "line_start": 1790,
+    "line_end": 1790
   },
   {
     "clause_id": "hinh-f_1",
@@ -1364,8 +1427,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1761,
-    "line_end": 1761
+    "line_start": 1809,
+    "line_end": 1809
   },
   {
     "clause_id": "bang-bang-f-1",
@@ -1373,8 +1436,8 @@
     "title": "Bảng F.1 - Hệ số $c_x$ cho các vùng trên tường phẳng, hàng rào và kết cấu tương tự (xem Hình F.1)",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1766,
-    "line_end": 1766
+    "line_start": 1814,
+    "line_end": 1814
   },
   {
     "clause_id": "hinh-f_2",
@@ -1382,8 +1445,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1789,
-    "line_end": 1789
+    "line_start": 1837,
+    "line_end": 1837
   },
   {
     "clause_id": "hinh-f_3",
@@ -1391,8 +1454,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1808,
-    "line_end": 1808
+    "line_start": 1856,
+    "line_end": 1856
   },
   {
     "clause_id": "bang-bang-f-2",
@@ -1400,8 +1463,8 @@
     "title": "Bảng F.2 - Hệ số $c_e$ cho mái bằng",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1813,
-    "line_end": 1813
+    "line_start": 1861,
+    "line_end": 1861
   },
   {
     "clause_id": "hinh-f_4",
@@ -1409,8 +1472,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1849,
-    "line_end": 1849
+    "line_start": 1897,
+    "line_end": 1897
   },
   {
     "clause_id": "bang-bang-f-3a",
@@ -1418,8 +1481,8 @@
     "title": "Bảng F.3a - Hệ số khí động áp lực ngoài $c_e$ cho mái dốc một phía khi góc hướng gió $\\theta$ = 0° và $\\theta$ = 180°",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1854,
-    "line_end": 1854
+    "line_start": 1902,
+    "line_end": 1902
   },
   {
     "clause_id": "bang-bang-f-3b",
@@ -1427,8 +1490,8 @@
     "title": "Bảng F.3b - Hệ số khí động áp lực ngoài $c_e$ cho mái dốc một phía khi góc hướng gió $\\theta$ = 90°",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1875,
-    "line_end": 1875
+    "line_start": 1923,
+    "line_end": 1923
   },
   {
     "clause_id": "hinh-f_5a",
@@ -1436,8 +1499,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1896,
-    "line_end": 1896
+    "line_start": 1944,
+    "line_end": 1944
   },
   {
     "clause_id": "hinh-f_5b",
@@ -1445,8 +1508,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1900,
-    "line_end": 1900
+    "line_start": 1948,
+    "line_end": 1948
   },
   {
     "clause_id": "bang-bang-f-4",
@@ -1454,8 +1517,8 @@
     "title": "Bảng F.4 - Hệ số $c_e$ cho tường thẳng đứng của nhà có mặt bằng chữ nhật",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1905,
-    "line_end": 1905
+    "line_start": 1953,
+    "line_end": 1953
   },
   {
     "clause_id": "hinh-f_6",
@@ -1463,8 +1526,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1941,
-    "line_end": 1941
+    "line_start": 1989,
+    "line_end": 1989
   },
   {
     "clause_id": "bang-bang-f-5a",
@@ -1472,8 +1535,8 @@
     "title": "Bảng F.5a - Hệ số $c_e$ khi góc hướng gió $\\theta$ = 0°",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1946,
-    "line_end": 1946
+    "line_start": 1994,
+    "line_end": 1994
   },
   {
     "clause_id": "bang-bang-f-5b",
@@ -1481,8 +1544,8 @@
     "title": "Bảng F.5b - Hệ số $c_e$ khi góc hướng gió $\\theta$ = 90°",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 1971,
-    "line_end": 1971
+    "line_start": 2019,
+    "line_end": 2019
   },
   {
     "clause_id": "hinh-f_7",
@@ -1490,8 +1553,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2000,
-    "line_end": 2000
+    "line_start": 2048,
+    "line_end": 2048
   },
   {
     "clause_id": "bang-bang-f-6",
@@ -1499,8 +1562,8 @@
     "title": "Bảng F.6 - Hệ số khí động áp lực ngoài $c_e$ cho mái dốc bốn phía",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2005,
-    "line_end": 2005
+    "line_start": 2053,
+    "line_end": 2053
   },
   {
     "clause_id": "hinh-f_8",
@@ -1508,8 +1571,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2036,
-    "line_end": 2036
+    "line_start": 2084,
+    "line_end": 2084
   },
   {
     "clause_id": "hinh-f_9a",
@@ -1517,8 +1580,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2044,
-    "line_end": 2044
+    "line_start": 2092,
+    "line_end": 2092
   },
   {
     "clause_id": "hinh-f_9b",
@@ -1526,8 +1589,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2050,
-    "line_end": 2050
+    "line_start": 2098,
+    "line_end": 2098
   },
   {
     "clause_id": "bang-bang-f-7",
@@ -1535,8 +1598,8 @@
     "title": "Bảng F.7 - Hệ số khí động áp lực ngoài $c_e$ cho mái nón",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2055,
-    "line_end": 2055
+    "line_start": 2103,
+    "line_end": 2103
   },
   {
     "clause_id": "hinh-f_10",
@@ -1544,8 +1607,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2094,
-    "line_end": 2094
+    "line_start": 2142,
+    "line_end": 2142
   },
   {
     "clause_id": "hinh-f_11",
@@ -1553,8 +1616,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2112,
-    "line_end": 2112
+    "line_start": 2160,
+    "line_end": 2160
   },
   {
     "clause_id": "hinh-f_12",
@@ -1562,8 +1625,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2130,
-    "line_end": 2130
+    "line_start": 2178,
+    "line_end": 2178
   },
   {
     "clause_id": "hinh-f_13",
@@ -1571,8 +1634,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2140,
-    "line_end": 2140
+    "line_start": 2188,
+    "line_end": 2188
   },
   {
     "clause_id": "bang-bang-f-8",
@@ -1580,8 +1643,8 @@
     "title": "Bảng F.8 - Hệ số $c_e$ cho tường và mái của nhà có góc lõm",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2145,
-    "line_end": 2145
+    "line_start": 2193,
+    "line_end": 2193
   },
   {
     "clause_id": "hinh-f_14",
@@ -1589,8 +1652,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2169,
-    "line_end": 2169
+    "line_start": 2217,
+    "line_end": 2217
   },
   {
     "clause_id": "hinh-f_15",
@@ -1598,8 +1661,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2185,
-    "line_end": 2185
+    "line_start": 2233,
+    "line_end": 2233
   },
   {
     "clause_id": "bang-bang-f-9",
@@ -1607,8 +1670,8 @@
     "title": "Bảng F.9 - Hệ số $c_e$ cho mái che",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2190,
-    "line_end": 2190
+    "line_start": 2238,
+    "line_end": 2238
   },
   {
     "clause_id": "hinh-f_16",
@@ -1616,8 +1679,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2219,
-    "line_end": 2219
+    "line_start": 2267,
+    "line_end": 2267
   },
   {
     "clause_id": "hinh-f_17",
@@ -1625,8 +1688,26 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2225,
-    "line_end": 2225
+    "line_start": 2273,
+    "line_end": 2273
+  },
+  {
+    "clause_id": "formula-f_1",
+    "anchor": "formula-f_1",
+    "title": "",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2288,
+    "line_end": 2288
+  },
+  {
+    "clause_id": "formula-f_2",
+    "anchor": "formula-f_2",
+    "title": "",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2305,
+    "line_end": 2305
   },
   {
     "clause_id": "hinh-f_18",
@@ -1634,8 +1715,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2280,
-    "line_end": 2280
+    "line_start": 2337,
+    "line_end": 2337
   },
   {
     "clause_id": "hinh-f_19",
@@ -1643,8 +1724,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2286,
-    "line_end": 2286
+    "line_start": 2343,
+    "line_end": 2343
   },
   {
     "clause_id": "bang-bang-f-10",
@@ -1652,8 +1733,8 @@
     "title": "Bảng F.10 - Các giá trị $\\beta_{min}$, $\\beta_b$, $c_{min}$ và $c_b$",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2291,
-    "line_end": 2291
+    "line_start": 2348,
+    "line_end": 2348
   },
   {
     "clause_id": "bang-bang-f-11",
@@ -1661,8 +1742,8 @@
     "title": "Bảng F.11 - Các hệ số $c_{e2}$ và $c_i$",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2304,
-    "line_end": 2304
+    "line_start": 2361,
+    "line_end": 2361
   },
   {
     "clause_id": "hinh-f_20",
@@ -1670,8 +1751,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2324,
-    "line_end": 2324
+    "line_start": 2378,
+    "line_end": 2378
   },
   {
     "clause_id": "hinh-f_21",
@@ -1679,8 +1760,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2353,
-    "line_end": 2353
+    "line_start": 2404,
+    "line_end": 2404
   },
   {
     "clause_id": "hinh-f_22",
@@ -1688,8 +1769,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2378,
-    "line_end": 2378
+    "line_start": 2426,
+    "line_end": 2426
   },
   {
     "clause_id": "bang-bang-f-12",
@@ -1697,8 +1778,17 @@
     "title": "Bảng F.12 - Hệ số $c_{x∞}$ cho tiết diện n góc và các cấu kiện kết cấu (dạng định hình)",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2383,
-    "line_end": 2383
+    "line_start": 2431,
+    "line_end": 2431
+  },
+  {
+    "clause_id": "formula-f_7",
+    "anchor": "formula-f_7",
+    "title": "",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2456,
+    "line_end": 2456
   },
   {
     "clause_id": "hinh-f_23",
@@ -1706,8 +1796,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2422,
-    "line_end": 2422
+    "line_start": 2476,
+    "line_end": 2476
   },
   {
     "clause_id": "hinh-f_24",
@@ -1715,8 +1805,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2434,
-    "line_end": 2434
+    "line_start": 2488,
+    "line_end": 2488
   },
   {
     "clause_id": "bang-bang-f-13",
@@ -1724,8 +1814,8 @@
     "title": "Bảng F.13 - Hệ số $\\eta$",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2439,
-    "line_end": 2439
+    "line_start": 2493,
+    "line_end": 2493
   },
   {
     "clause_id": "hinh-f_25",
@@ -1733,8 +1823,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2473,
-    "line_end": 2473
+    "line_start": 2524,
+    "line_end": 2524
   },
   {
     "clause_id": "bang-bang-f-14",
@@ -1742,8 +1832,17 @@
     "title": "Bảng F.14 - Hệ số $k_1$",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2478,
-    "line_end": 2478
+    "line_start": 2529,
+    "line_end": 2529
+  },
+  {
+    "clause_id": "formula-f_9",
+    "anchor": "formula-f_9",
+    "title": "",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2543,
+    "line_end": 2543
   },
   {
     "clause_id": "hinh-f_26",
@@ -1751,8 +1850,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2502,
-    "line_end": 2502
+    "line_start": 2559,
+    "line_end": 2559
   },
   {
     "clause_id": "hinh-f_27",
@@ -1760,8 +1859,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2512,
-    "line_end": 2512
+    "line_start": 2569,
+    "line_end": 2569
   },
   {
     "clause_id": "bang-bang-f-15",
@@ -1769,8 +1868,8 @@
     "title": "Bảng F.15 - Độ mảnh hiệu dụng $\\lambda_e$",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2517,
-    "line_end": 2517
+    "line_start": 2574,
+    "line_end": 2574
   },
   {
     "clause_id": "bang-bang-f-16",
@@ -1778,8 +1877,8 @@
     "title": "Bảng F.16 - Độ nhám $\\Delta$ của bề mặt kết cấu",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2531,
-    "line_end": 2531
+    "line_start": 2588,
+    "line_end": 2588
   },
   {
     "clause_id": "phu-luc-g",
@@ -1787,8 +1886,8 @@
     "title": "PHỤ LỤC G  (Quy định)  ĐỘ VÕNG VÀ CHUYỂN VỊ",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2548,
-    "line_end": 2548
+    "line_start": 2605,
+    "line_end": 2605
   },
   {
     "clause_id": "hinh-g_1",
@@ -1796,8 +1895,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2598,
-    "line_end": 2598
+    "line_start": 2655,
+    "line_end": 2655
   },
   {
     "clause_id": "hinh-g_2",
@@ -1805,8 +1904,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2618,
-    "line_end": 2618
+    "line_start": 2675,
+    "line_end": 2675
   },
   {
     "clause_id": "bang-bang-g-1",
@@ -1814,8 +1913,17 @@
     "title": "Bảng G.1 - Độ võng đứng giới hạn $f_u$ và tải trọng tương ứng để xác định độ võng đứng f",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2631,
-    "line_end": 2631
+    "line_start": 2688,
+    "line_end": 2688
+  },
+  {
+    "clause_id": "formula-g_1",
+    "anchor": "formula-g_1",
+    "title": "",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2718,
+    "line_end": 2718
   },
   {
     "clause_id": "bang-bang-g-2",
@@ -1823,8 +1931,8 @@
     "title": "Bảng G.2 - Các hệ số p, $p_1$, n, b",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2680,
-    "line_end": 2680
+    "line_start": 2743,
+    "line_end": 2743
   },
   {
     "clause_id": "bang-bang-g-3",
@@ -1832,8 +1940,8 @@
     "title": "Bảng G.3 - Độ võng ngang giới hạn $f_{\\mu}$ của cột nhà có cầu trục, trụ cầu cạn, dầm đỡ cầu trục và kết cấu hãm",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2696,
-    "line_end": 2696
+    "line_start": 2759,
+    "line_end": 2759
   },
   {
     "clause_id": "bang-bang-g-4",
@@ -1841,8 +1949,8 @@
     "title": "Bảng G.4 - Độ võng đứng giới hạn $f_u$ và tải trọng tương ứng để xác định độ võng đứng f",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2732,
-    "line_end": 2732
+    "line_start": 2795,
+    "line_end": 2795
   },
   {
     "clause_id": "bang-bang-g-5",
@@ -1850,8 +1958,8 @@
     "title": "Bảng G.5 - Chuyển vị ngang giới hạn $f_u$ theo yêu cầu cấu tạo",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2772,
-    "line_end": 2772
+    "line_start": 2835,
+    "line_end": 2835
   },
   {
     "clause_id": "hinh-g_3",
@@ -1859,8 +1967,8 @@
     "title": "",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2805,
-    "line_end": 2805
+    "line_start": 2868,
+    "line_end": 2868
   },
   {
     "clause_id": "phu-luc-h",
@@ -1868,8 +1976,8 @@
     "title": "PHỤ LỤC H  (Quy định)  HỆ SỐ TẦM QUAN TRỌNG CỦA CÔNG TRÌNH",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2822,
-    "line_end": 2822
+    "line_start": 2885,
+    "line_end": 2885
   },
   {
     "clause_id": "bang-bang-h-1",
@@ -1877,7 +1985,7 @@
     "title": "Bảng H.1 - Giá trị tối thiểu của hệ số tầm quan trọng $\\gamma_n$",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD",
-    "line_start": 2832,
-    "line_end": 2832
+    "line_start": 2895,
+    "line_end": 2895
   }
 ]
