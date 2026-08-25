@@ -1,0 +1,50 @@
+[
+  {
+    "Loại mái": "Loại mái",
+    "Vùng": "I"
+  },
+  {
+    "Loại mái": "Có cạnh sắc",
+    "Vùng": "± 0,2"
+  },
+  {
+    "Loại mái": "hp/h = 0,025",
+    "Vùng": "± 0,2"
+  },
+  {
+    "Loại mái": "hp/h = 0,05",
+    "Vùng": "± 0,2"
+  },
+  {
+    "Loại mái": "hp/h = 0,10",
+    "Vùng": "± 0,2"
+  },
+  {
+    "Loại mái": "r/h = 0,05",
+    "Vùng": "± 0,2"
+  },
+  {
+    "Loại mái": "r/h = 0,10",
+    "Vùng": "± 0,2"
+  },
+  {
+    "Loại mái": "r/h = 0,20",
+    "Vùng": "± 0,2"
+  },
+  {
+    "Loại mái": "α = 30°",
+    "Vùng": "± 0,2"
+  },
+  {
+    "Loại mái": "α = 45°",
+    "Vùng": "± 0,2"
+  },
+  {
+    "Loại mái": "α = 60°",
+    "Vùng": "± 0,2"
+  },
+  {
+    "Loại mái": "CHÚ THÍCH 1: Đối với mái có tường chắn mái hoặc mái có cạnh bo tròn, có thể sử dụng nội suy tuyến tính cho các giá trị trung gian của hp/h và r/h. CHÚ THÍCH 2: Đối với mái có cạnh vát góc, có thể sử dụng nội suy tuyến tính giữa α = 30°, α = 45° và α = 60°. Khi α > 60°, sử dụng nội suy tuyến tính giữa giá trị α = 60° và giá trị cho mái bằng có cạnh sắc. CHÚ THÍCH 3: Trong vùng I, nơi có các giá trị dương và âm, thì cần xét cả hai giá trị này. CHÚ THÍCH 4: Đối với mái có cạnh vát góc, hệ số khí động áp lực ngoài ce lấy theo Bảng F.5a, vùng F và G, phụ thuộc vào góc dốc của mái có cạnh vát góc. CHÚ THÍCH 5: Đối với mái có cạnh bo tròn, hệ số khí động áp lực ngoài ce được xác định bằng nội suy tuyến tính (dọc theo đường bo tròn) giữa các giá trị cho tường và cho mái. CHÚ THÍCH 6: Đối với mái có cạnh vát góc với kích thước nằm ngang nhỏ hơn e/10 thì sử dụng giá trị ce cho mái có cạnh sắc. e được xác định như trên Hình F.3.",
+    "Vùng": "CHÚ THÍCH 1: Đối với mái có tường chắn mái hoặc mái có cạnh bo tròn, có thể sử dụng nội suy tuyến tính cho các giá trị trung gian của hp/h và r/h. CHÚ THÍCH 2: Đối với mái có cạnh vát góc, có thể sử dụng nội suy tuyến tính giữa α = 30°, α = 45° và α = 60°. Khi α > 60°, sử dụng nội suy tuyến tính giữa giá trị α = 60° và giá trị cho mái bằng có cạnh sắc. CHÚ THÍCH 3: Trong vùng I, nơi có các giá trị dương và âm, thì cần xét cả hai giá trị này. CHÚ THÍCH 4: Đối với mái có cạnh vát góc, hệ số khí động áp lực ngoài ce lấy theo Bảng F.5a, vùng F và G, phụ thuộc vào góc dốc của mái có cạnh vát góc. CHÚ THÍCH 5: Đối với mái có cạnh bo tròn, hệ số khí động áp lực ngoài ce được xác định bằng nội suy tuyến tính (dọc theo đường bo tròn) giữa các giá trị cho tường và cho mái. CHÚ THÍCH 6: Đối với mái có cạnh vát góc với kích thước nằm ngang nhỏ hơn e/10 thì sử dụng giá trị ce cho mái có cạnh sắc. e được xác định như trên Hình F.3."
+  }
+]

@@ -1,38 +1,74 @@
-{
-  "table_id": "bang_09",
-  "rows_count": 6,
-  "columns_count": 3,
-  "headers": [
-    "Khu vực",
-    "Giá trị tải trọng phân bố đều qk,t , kN/m2",
-    "Giá trị tải trọng tập trung Qk,t , kN"
-  ],
-  "records": [
-    {
-      "Khu vực": "Khu vực E: Khu vực kho",
-      "Giá trị tải trọng phân bố đều qk,t , kN/m2": "",
-      "Giá trị tải trọng tập trung Qk,t , kN": ""
-    },
-    {
-      "Khu vực": "E1: Kho thương mại",
-      "Giá trị tải trọng phân bố đều qk,t , kN/m2": "Không nhỏ hơn 5,0",
-      "Giá trị tải trọng tập trung Qk,t , kN": "Không nhỏ hơn 6,0"
-    },
-    {
-      "Khu vực": "E2: Phòng kho xưởng và công nghiệp",
-      "Giá trị tải trọng phân bố đều qk,t , kN/m2": "Theo nhiệm vụ thiết kế, nhưng không nhỏ hơn: 3,0 - để tính bản sàn và dầm phụ; 2,0 - để tính xà (dầm), cột và móng.",
-      "Giá trị tải trọng tập trung Qk,t , kN": "Theo nhiệm vụ thiết kế, nhưng không nhỏ hơn 3,0"
-    },
-    {
-      "Khu vực": "E3: Kho sách, kho lưu trữ",
-      "Giá trị tải trọng phân bố đều qk,t , kN/m2": "Theo nhiệm vụ thiết kế, nhưng không nhỏ hơn 5,0",
-      "Giá trị tải trọng tập trung Qk,t , kN": "Không nhỏ hơn 6,0"
-    },
-    {
-      "Khu vực": "CHÚ THÍCH: Giá trị qk,t dùng để xác định hiệu ứng tổng thể và giá trị Qk,t dùng để xác định hiệu ứng cục bộ. Các giá trị qk,t và Qk,t không áp dụng đồng thời.",
-      "Giá trị tải trọng phân bố đều qk,t , kN/m2": "",
-      "Giá trị tải trọng tập trung Qk,t , kN": ""
-    }
-  ],
-  "footnotes": []
-}
+[
+  {
+    "Độ cao tương đương ze, m": "Độ cao tương đương ze, m",
+    "Giá trị k(ze) đối với các dạng địa hình": "C"
+  },
+  {
+    "Độ cao tương đương ze, m": "5",
+    "Giá trị k(ze) đối với các dạng địa hình": "0,59"
+  },
+  {
+    "Độ cao tương đương ze, m": "10",
+    "Giá trị k(ze) đối với các dạng địa hình": "0,72"
+  },
+  {
+    "Độ cao tương đương ze, m": "15",
+    "Giá trị k(ze) đối với các dạng địa hình": "0,81"
+  },
+  {
+    "Độ cao tương đương ze, m": "20",
+    "Giá trị k(ze) đối với các dạng địa hình": "0,88"
+  },
+  {
+    "Độ cao tương đương ze, m": "30",
+    "Giá trị k(ze) đối với các dạng địa hình": "0,98"
+  },
+  {
+    "Độ cao tương đương ze, m": "40",
+    "Giá trị k(ze) đối với các dạng địa hình": "1,07"
+  },
+  {
+    "Độ cao tương đương ze, m": "50",
+    "Giá trị k(ze) đối với các dạng địa hình": "1,14"
+  },
+  {
+    "Độ cao tương đương ze, m": "60",
+    "Giá trị k(ze) đối với các dạng địa hình": "1,20"
+  },
+  {
+    "Độ cao tương đương ze, m": "80",
+    "Giá trị k(ze) đối với các dạng địa hình": "1,30"
+  },
+  {
+    "Độ cao tương đương ze, m": "100",
+    "Giá trị k(ze) đối với các dạng địa hình": "1,39"
+  },
+  {
+    "Độ cao tương đương ze, m": "150",
+    "Giá trị k(ze) đối với các dạng địa hình": "1,56"
+  },
+  {
+    "Độ cao tương đương ze, m": "200",
+    "Giá trị k(ze) đối với các dạng địa hình": "1,69"
+  },
+  {
+    "Độ cao tương đương ze, m": "250",
+    "Giá trị k(ze) đối với các dạng địa hình": "1,80"
+  },
+  {
+    "Độ cao tương đương ze, m": "300",
+    "Giá trị k(ze) đối với các dạng địa hình": "1,90"
+  },
+  {
+    "Độ cao tương đương ze, m": "350",
+    "Giá trị k(ze) đối với các dạng địa hình": "1,98"
+  },
+  {
+    "Độ cao tương đương ze, m": "400",
+    "Giá trị k(ze) đối với các dạng địa hình": "1,98"
+  },
+  {
+    "Độ cao tương đương ze, m": "CHÚ THÍCH 1: Đối với các độ cao tương đương ze trung gian cho phép xác định giá trị k(ze) bằng cách nội suy tuyến tính. CHÚ THÍCH 2: Khi xác định tải trọng gió cho một công trình, các dạng địa hình có thể khác nhau theo hướng gió khác nhau.",
+    "Giá trị k(ze) đối với các dạng địa hình": "CHÚ THÍCH 1: Đối với các độ cao tương đương ze trung gian cho phép xác định giá trị k(ze) bằng cách nội suy tuyến tính. CHÚ THÍCH 2: Khi xác định tải trọng gió cho một công trình, các dạng địa hình có thể khác nhau theo hướng gió khác nhau."
+  }
+]

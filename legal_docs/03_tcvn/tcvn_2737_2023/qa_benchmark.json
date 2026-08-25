@@ -1,848 +1,1625 @@
 [
   {
-    "question": "Quy định tại 1  PHẠM VI ÁP DỤNG của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 1  PHẠM VI ÁP DỤNG của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 1  PHẠM VI ÁP DỤNG (tcvn_2737_2023.md#muc-1).",
     "anchor": "muc-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 2  TÀI LIỆU VIỆN DẪN của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 2  TÀI LIỆU VIỆN DẪN của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 2  TÀI LIỆU VIỆN DẪN (tcvn_2737_2023.md#muc-2).",
     "anchor": "muc-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 3  THUẬT NGỮ, ĐỊNH NGHĨA VÀ KÝ HIỆU của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 3  THUẬT NGỮ, ĐỊNH NGHĨA VÀ KÝ HIỆU của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 3  THUẬT NGỮ, ĐỊNH NGHĨA VÀ KÝ HIỆU (tcvn_2737_2023.md#muc-3).",
     "anchor": "muc-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 3.1  Thuật ngữ và định nghĩa của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 3.1  Thuật ngữ và định nghĩa của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 3.1  Thuật ngữ và định nghĩa (tcvn_2737_2023.md#muc-3-1).",
     "anchor": "muc-3-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 3.2  Ký hiệu của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 3.2  Ký hiệu của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 3.2  Ký hiệu (tcvn_2737_2023.md#muc-3-2).",
     "anchor": "muc-3-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 1 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 1 (tcvn_2737_2023.md#bang-1).",
-    "anchor": "bang-1",
-    "source_file": "tcvn_2737_2023.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 4  YÊU CẦU CHUNG của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 4  YÊU CẦU CHUNG của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 4  YÊU CẦU CHUNG (tcvn_2737_2023.md#muc-4).",
     "anchor": "muc-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 4.1  Các đặc trưng cơ bản của các tải trọng quy định trong tiêu chuẩn này là các giá trị tiêu chuẩn (cơ sở) của chúng. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 4.1  Các đặc trưng cơ bản của các tải trọng quy định trong tiêu chuẩn này là các giá trị tiêu chuẩn (cơ sở) của chúng. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 4.1  Các đặc trưng cơ bản của các tải trọng quy định trong tiêu chuẩn này là các giá trị tiêu chuẩn (cơ sở) của chúng. (tcvn_2737_2023.md#muc-4-1).",
     "anchor": "muc-4-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 4.2  Giá trị tính toán của tải trọng được xác định bằng tích của giá trị tiêu chuẩn của tải trọng với hệ số độ tin cậy về tải trọng ứng với trạng thái giới hạn đang xét. Giá trị tối thiểu của hệ số độ tin cậy về tải trọng γf trong các tổ hợp cơ bản và đặc biệt lấy như sau: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 4.2  Giá trị tính toán của tải trọng được xác định bằng tích của giá trị tiêu chuẩn của tải trọng với hệ số độ tin cậy về tải trọng ứng với trạng thái giới hạn đang xét. Giá trị tối thiểu của hệ số độ tin cậy về tải trọng γf trong các tổ hợp cơ bản và đặc biệt lấy như sau: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 4.2  Giá trị tính toán của tải trọng được xác định bằng tích của giá trị tiêu chuẩn của tải trọng với hệ số độ tin cậy về tải trọng ứng với trạng thái giới hạn đang xét. Giá trị tối thiểu của hệ số độ tin cậy về tải trọng γf trong các tổ hợp cơ bản và đặc biệt lấy như sau: (tcvn_2737_2023.md#muc-4-2).",
     "anchor": "muc-4-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 4.3  Giá trị tính toán của một số tải trọng đặc biệt (tải trọng do xe chữa cháy; tải trọng va chạm do trực thăng; tải trọng va chạm do xe nâng) được quy định tương ứng trong 8.6, 8.7.3 và 8.8. Giá trị tính toán của các tải trọng đặc biệt khác được quy định trong các tiêu chuẩn thiết kế có liên quan hoặc trong nhiệm vụ thiết kế. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 4.3  Giá trị tính toán của một số tải trọng đặc biệt (tải trọng do xe chữa cháy; tải trọng va chạm do trực thăng; tải trọng va chạm do xe nâng) được quy định tương ứng trong 8.6, 8.7.3 và 8.8. Giá trị tính toán của các tải trọng đặc biệt khác được quy định trong các tiêu chuẩn thiết kế có liên quan hoặc trong nhiệm vụ thiết kế. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 4.3  Giá trị tính toán của một số tải trọng đặc biệt (tải trọng do xe chữa cháy; tải trọng va chạm do trực thăng; tải trọng va chạm do xe nâng) được quy định tương ứng trong 8.6, 8.7.3 và 8.8. Giá trị tính toán của các tải trọng đặc biệt khác được quy định trong các tiêu chuẩn thiết kế có liên quan hoặc trong nhiệm vụ thiết kế. (tcvn_2737_2023.md#muc-4-3).",
     "anchor": "muc-4-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 4.4  Giá trị tính toán của tải trọng và tác động khí hậu (tải trọng gió, tác động nhiệt độ và tác động khác) được phép xác định trên cơ sở phân tích dữ liệu khí hậu đối với địa điểm xây dựng. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 4.4  Giá trị tính toán của tải trọng và tác động khí hậu (tải trọng gió, tác động nhiệt độ và tác động khác) được phép xác định trên cơ sở phân tích dữ liệu khí hậu đối với địa điểm xây dựng. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 4.4  Giá trị tính toán của tải trọng và tác động khí hậu (tải trọng gió, tác động nhiệt độ và tác động khác) được phép xác định trên cơ sở phân tích dữ liệu khí hậu đối với địa điểm xây dựng. (tcvn_2737_2023.md#muc-4-4).",
     "anchor": "muc-4-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 4.5  Các yêu cầu bổ sung về quy định các giá trị tiêu chuẩn và tính toán của tải trọng, cũng như hệ số độ tin cậy về tải trọng và hệ số tổ hợp tải trọng được phép quy định trong các tiêu chuẩn đối với các loại của công trình, kết cấu xây dựng và nền. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 4.5  Các yêu cầu bổ sung về quy định các giá trị tiêu chuẩn và tính toán của tải trọng, cũng như hệ số độ tin cậy về tải trọng và hệ số tổ hợp tải trọng được phép quy định trong các tiêu chuẩn đối với các loại của công trình, kết cấu xây dựng và nền. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 4.5  Các yêu cầu bổ sung về quy định các giá trị tiêu chuẩn và tính toán của tải trọng, cũng như hệ số độ tin cậy về tải trọng và hệ số tổ hợp tải trọng được phép quy định trong các tiêu chuẩn đối với các loại của công trình, kết cấu xây dựng và nền. (tcvn_2737_2023.md#muc-4-5).",
     "anchor": "muc-4-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 5  PHÂN LOẠI TẢI TRỌNG của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 5  PHÂN LOẠI TẢI TRỌNG của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 5  PHÂN LOẠI TẢI TRỌNG (tcvn_2737_2023.md#muc-5).",
     "anchor": "muc-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 5.1  Tùy theo thời hạn tác dụng, các tải trọng được phân thành tải trọng thường xuyên G, tải trọng tạm thời Q (dài hạn QL và ngắn hạn Qt) và tải trọng đặc biệt A. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 5.1  Tùy theo thời hạn tác dụng, các tải trọng được phân thành tải trọng thường xuyên G, tải trọng tạm thời Q (dài hạn QL và ngắn hạn Qt) và tải trọng đặc biệt A. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 5.1  Tùy theo thời hạn tác dụng, các tải trọng được phân thành tải trọng thường xuyên G, tải trọng tạm thời Q (dài hạn QL và ngắn hạn Qt) và tải trọng đặc biệt A. (tcvn_2737_2023.md#muc-5-1).",
     "anchor": "muc-5-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 5.2  Tải trọng xuất hiện trong quá trình chế tạo, bảo quản và vận chuyển kết cấu, cũng như thi công công trình được đưa vào tính toán như là tải trọng tạm thời ngắn hạn. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 5.2  Tải trọng xuất hiện trong quá trình chế tạo, bảo quản và vận chuyển kết cấu, cũng như thi công công trình được đưa vào tính toán như là tải trọng tạm thời ngắn hạn. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 5.2  Tải trọng xuất hiện trong quá trình chế tạo, bảo quản và vận chuyển kết cấu, cũng như thi công công trình được đưa vào tính toán như là tải trọng tạm thời ngắn hạn. (tcvn_2737_2023.md#muc-5-2).",
     "anchor": "muc-5-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 5.3  Các tải trọng sau đây được xếp vào loại tải trọng thường xuyên G: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 5.3  Các tải trọng sau đây được xếp vào loại tải trọng thường xuyên G: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 5.3  Các tải trọng sau đây được xếp vào loại tải trọng thường xuyên G: (tcvn_2737_2023.md#muc-5-3).",
     "anchor": "muc-5-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 5.4  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời dài hạn QL: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 5.4  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời dài hạn QL: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 5.4  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời dài hạn QL: (tcvn_2737_2023.md#muc-5-4).",
     "anchor": "muc-5-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 5.5  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời ngắn hạn Qt: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 5.5  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời ngắn hạn Qt: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 5.5  Các tải trọng sau đây được xếp vào loại tải trọng tạm thời ngắn hạn Qt: (tcvn_2737_2023.md#muc-5-5).",
     "anchor": "muc-5-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 5.6  Các tải trọng sau đây được xếp vào loại tải trọng đặc biệt A: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 5.6  Các tải trọng sau đây được xếp vào loại tải trọng đặc biệt A: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 5.6  Các tải trọng sau đây được xếp vào loại tải trọng đặc biệt A: (tcvn_2737_2023.md#muc-5-6).",
     "anchor": "muc-5-6",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 6  TỔ HỢP TẢI TRỌNG của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 6  TỔ HỢP TẢI TRỌNG của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 6  TỔ HỢP TẢI TRỌNG (tcvn_2737_2023.md#muc-6).",
     "anchor": "muc-6",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 6.1  Khi tính toán kết cấu và nền theo các trạng thái giới hạn thứ nhất và thứ hai cần kể đến các tổ hợp bất lợi của các tải trọng hoặc hệ quả tải trọng tương ứng của chúng. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 6.1  Khi tính toán kết cấu và nền theo các trạng thái giới hạn thứ nhất và thứ hai cần kể đến các tổ hợp bất lợi của các tải trọng hoặc hệ quả tải trọng tương ứng của chúng. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 6.1  Khi tính toán kết cấu và nền theo các trạng thái giới hạn thứ nhất và thứ hai cần kể đến các tổ hợp bất lợi của các tải trọng hoặc hệ quả tải trọng tương ứng của chúng. (tcvn_2737_2023.md#muc-6-1).",
     "anchor": "muc-6-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 6.2  Tùy thuộc vào các thành phần tải trọng được kể đến, cần phân biệt: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 6.2  Tùy thuộc vào các thành phần tải trọng được kể đến, cần phân biệt: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 6.2  Tùy thuộc vào các thành phần tải trọng được kể đến, cần phân biệt: (tcvn_2737_2023.md#muc-6-2).",
     "anchor": "muc-6-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại Bảng 2 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 2 (tcvn_2737_2023.md#bang-2).",
-    "anchor": "bang-2",
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-1).",
+    "anchor": "formula-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 3 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 3 (tcvn_2737_2023.md#bang-3).",
-    "anchor": "bang-3",
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-2).",
+    "anchor": "formula-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 6.3  Đối với các tổ hợp cơ bản và đặc biệt, trừ các trường hợp nêu trong TCVN 9386 và trong các tiêu chuẩn về thiết kế kết cấu và nền, giá trị hệ số tổ hợp của tải trọng tạm thời dài hạn ψL được lấy như sau: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 6.3  Đối với các tổ hợp cơ bản và đặc biệt, trừ các trường hợp nêu trong TCVN 9386 và trong các tiêu chuẩn về thiết kế kết cấu và nền, giá trị hệ số tổ hợp của tải trọng tạm thời dài hạn ψL được lấy như sau: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 6.3  Đối với các tổ hợp cơ bản và đặc biệt, trừ các trường hợp nêu trong TCVN 9386 và trong các tiêu chuẩn về thiết kế kết cấu và nền, giá trị hệ số tổ hợp của tải trọng tạm thời dài hạn ψL được lấy như sau: (tcvn_2737_2023.md#muc-6-3).",
     "anchor": "muc-6-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 6.4  Đối với các tổ hợp cơ bản theo công thức (1), giá trị hệ số tổ hợp của các tải trọng tạm thời ngắn hạn ψt được lấy như sau: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 6.4  Đối với các tổ hợp cơ bản theo công thức (1), giá trị hệ số tổ hợp của các tải trọng tạm thời ngắn hạn ψt được lấy như sau: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 6.4  Đối với các tổ hợp cơ bản theo công thức (1), giá trị hệ số tổ hợp của các tải trọng tạm thời ngắn hạn ψt được lấy như sau: (tcvn_2737_2023.md#muc-6-4).",
     "anchor": "muc-6-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 6.5  Đối với tổ hợp đặc biệt theo công thức (2), các giá trị hệ số tổ hợp của tải trọng tạm thời ngắn hạn ψt được lấy như sau: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 6.5  Đối với tổ hợp đặc biệt theo công thức (2), các giá trị hệ số tổ hợp của tải trọng tạm thời ngắn hạn ψt được lấy như sau: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 6.5  Đối với tổ hợp đặc biệt theo công thức (2), các giá trị hệ số tổ hợp của tải trọng tạm thời ngắn hạn ψt được lấy như sau: (tcvn_2737_2023.md#muc-6-5).",
     "anchor": "muc-6-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 6.6  Khi xét các tổ hợp tải trọng theo 6.3 đến 6.5 thì một tải trọng trong các trường hợp sau đây được coi là một tải trọng tạm thời: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 6.6  Khi xét các tổ hợp tải trọng theo 6.3 đến 6.5 thì một tải trọng trong các trường hợp sau đây được coi là một tải trọng tạm thời: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 6.6  Khi xét các tổ hợp tải trọng theo 6.3 đến 6.5 thì một tải trọng trong các trường hợp sau đây được coi là một tải trọng tạm thời: (tcvn_2737_2023.md#muc-6-6).",
     "anchor": "muc-6-6",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 6.7  Khi tính toán dầm, xà, tường, cột và móng chịu tải trọng truyền từ một sàn thì giá trị tiêu chuẩn của các tải trọng nêu trong Bảng 4 được phép giảm xuống tùy theo diện chịu tải A, m2, mà từ đó tải trọng truyền lên cấu kiện đang xét, bằng cách nhân với hệ số φ1, hoặc φ2 như sau: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 6.7  Khi tính toán dầm, xà, tường, cột và móng chịu tải trọng truyền từ một sàn thì giá trị tiêu chuẩn của các tải trọng nêu trong Bảng 4 được phép giảm xuống tùy theo diện chịu tải A, m2, mà từ đó tải trọng truyền lên cấu kiện đang xét, bằng cách nhân với hệ số φ1, hoặc φ2 như sau: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 6.7  Khi tính toán dầm, xà, tường, cột và móng chịu tải trọng truyền từ một sàn thì giá trị tiêu chuẩn của các tải trọng nêu trong Bảng 4 được phép giảm xuống tùy theo diện chịu tải A, m2, mà từ đó tải trọng truyền lên cấu kiện đang xét, bằng cách nhân với hệ số φ1, hoặc φ2 như sau: (tcvn_2737_2023.md#muc-6-7).",
     "anchor": "muc-6-7",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại Bảng 4 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 4 (tcvn_2737_2023.md#bang-4).",
-    "anchor": "bang-4",
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-3).",
+    "anchor": "formula-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 5 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 5 (tcvn_2737_2023.md#bang-5).",
-    "anchor": "bang-5",
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-4).",
+    "anchor": "formula-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 6.8  Khi xác định nội lực để tính toán cột, tường và móng chịu tải trọng truyền từ hai sàn tầng trở lên thì giá trị tiêu chuẩn đối với các khu vực A đến D nêu trong Bảng 4 được phép giảm xuống bằng cách nhân với các hệ số φ3 hoặc φ4 như sau: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 6.8  Khi xác định nội lực để tính toán cột, tường và móng chịu tải trọng truyền từ hai sàn tầng trở lên thì giá trị tiêu chuẩn đối với các khu vực A đến D nêu trong Bảng 4 được phép giảm xuống bằng cách nhân với các hệ số φ3 hoặc φ4 như sau: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 6.8  Khi xác định nội lực để tính toán cột, tường và móng chịu tải trọng truyền từ hai sàn tầng trở lên thì giá trị tiêu chuẩn đối với các khu vực A đến D nêu trong Bảng 4 được phép giảm xuống bằng cách nhân với các hệ số φ3 hoặc φ4 như sau: (tcvn_2737_2023.md#muc-6-8).",
     "anchor": "muc-6-8",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại Bảng 6 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 6 (tcvn_2737_2023.md#bang-6).",
-    "anchor": "bang-6",
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-5).",
+    "anchor": "formula-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 7 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 7 (tcvn_2737_2023.md#bang-7).",
-    "anchor": "bang-7",
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-6).",
+    "anchor": "formula-6",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 7  TRỌNG LƯỢNG CỦA KẾT CẤU VÀ ĐẤT của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 7  TRỌNG LƯỢNG CỦA KẾT CẤU VÀ ĐẤT của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 7  TRỌNG LƯỢNG CỦA KẾT CẤU VÀ ĐẤT (tcvn_2737_2023.md#muc-7).",
     "anchor": "muc-7",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 7.1  Giá trị tiêu chuẩn của trọng lượng kết cấu chế tạo trong nhà máy cần được xác định theo các tiêu chuẩn, các bản vẽ thi công hoặc số liệu trong lý lịch thiết bị của nhà sản xuất chế tạo, đối với các kết cấu xây dựng khác và đất - theo kích thước thiết kế và trọng lượng đơn vị của vật liệu và đất có kể đến độ ẩm thực tế của chúng trong các điều kiện thi công và sử dụng công trình. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 7.1  Giá trị tiêu chuẩn của trọng lượng kết cấu chế tạo trong nhà máy cần được xác định theo các tiêu chuẩn, các bản vẽ thi công hoặc số liệu trong lý lịch thiết bị của nhà sản xuất chế tạo, đối với các kết cấu xây dựng khác và đất - theo kích thước thiết kế và trọng lượng đơn vị của vật liệu và đất có kể đến độ ẩm thực tế của chúng trong các điều kiện thi công và sử dụng công trình. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 7.1  Giá trị tiêu chuẩn của trọng lượng kết cấu chế tạo trong nhà máy cần được xác định theo các tiêu chuẩn, các bản vẽ thi công hoặc số liệu trong lý lịch thiết bị của nhà sản xuất chế tạo, đối với các kết cấu xây dựng khác và đất - theo kích thước thiết kế và trọng lượng đơn vị của vật liệu và đất có kể đến độ ẩm thực tế của chúng trong các điều kiện thi công và sử dụng công trình. (tcvn_2737_2023.md#muc-7-1).",
     "anchor": "muc-7-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 7.2  Hệ số độ tin cậy về tải trọng γf của trọng lượng kết cấu xây dựng và nền lấy theo Bảng 1. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 7.2  Hệ số độ tin cậy về tải trọng γf của trọng lượng kết cấu xây dựng và nền lấy theo Bảng 1. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 7.2  Hệ số độ tin cậy về tải trọng γf của trọng lượng kết cấu xây dựng và nền lấy theo Bảng 1. (tcvn_2737_2023.md#muc-7-2).",
     "anchor": "muc-7-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 7.3  Khi kiểm tra kết cấu về ổn định vị trí chống lật, cũng như trong các trường hợp khác khi sự giảm trọng lượng kết cấu và đất có thể làm cho điều kiện làm việc của kết cấu nguy hiểm hơn, thì cần tiến hành tính toán với hệ số độ tin cậy về tải trọng γf = 0,9 đối với trọng lượng kết cấu hoặc bộ phận của kết cấu, nếu không có quy định giá trị khác trong các tiêu chuẩn về thiết kế kết cấu và nền. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 7.3  Khi kiểm tra kết cấu về ổn định vị trí chống lật, cũng như trong các trường hợp khác khi sự giảm trọng lượng kết cấu và đất có thể làm cho điều kiện làm việc của kết cấu nguy hiểm hơn, thì cần tiến hành tính toán với hệ số độ tin cậy về tải trọng γf = 0,9 đối với trọng lượng kết cấu hoặc bộ phận của kết cấu, nếu không có quy định giá trị khác trong các tiêu chuẩn về thiết kế kết cấu và nền. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 7.3  Khi kiểm tra kết cấu về ổn định vị trí chống lật, cũng như trong các trường hợp khác khi sự giảm trọng lượng kết cấu và đất có thể làm cho điều kiện làm việc của kết cấu nguy hiểm hơn, thì cần tiến hành tính toán với hệ số độ tin cậy về tải trọng γf = 0,9 đối với trọng lượng kết cấu hoặc bộ phận của kết cấu, nếu không có quy định giá trị khác trong các tiêu chuẩn về thiết kế kết cấu và nền. (tcvn_2737_2023.md#muc-7-3).",
     "anchor": "muc-7-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 8 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 8 (tcvn_2737_2023.md#bang-8).",
-    "anchor": "bang-8",
+    "question": "Quy định tại Bảng 1 - Hệ số độ tin cậy về tải trọng γf của trọng lượng kết cấu và đất của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 1 - Hệ số độ tin cậy về tải trọng γf của trọng lượng kết cấu và đất (tcvn_2737_2023.md#bang-bang-01).",
+    "anchor": "bang-bang-01",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8  TẢI TRỌNG DO THIẾT BỊ, NGƯỜI, ĐỘNG VẬT, VẬT LIỆU VÀ SẢN PHẨM CHẤT KHO, PHƯƠNG TIỆN GIAO THÔNG, XE CHỮA CHÁY của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8  TẢI TRỌNG DO THIẾT BỊ, NGƯỜI, ĐỘNG VẬT, VẬT LIỆU VÀ SẢN PHẨM CHẤT KHO, PHƯƠNG TIỆN GIAO THÔNG, XE CHỮA CHÁY của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8  TẢI TRỌNG DO THIẾT BỊ, NGƯỜI, ĐỘNG VẬT, VẬT LIỆU VÀ SẢN PHẨM CHẤT KHO, PHƯƠNG TIỆN GIAO THÔNG, XE CHỮA CHÁY (tcvn_2737_2023.md#muc-8).",
     "anchor": "muc-8",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.1  Yêu cầu chung của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.1  Yêu cầu chung của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1  Yêu cầu chung (tcvn_2737_2023.md#muc-8-1).",
     "anchor": "muc-8-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.2  Xác định tải trọng do thiết bị, vật liệu và sản phẩm chất kho của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.2  Xác định tải trọng do thiết bị, vật liệu và sản phẩm chất kho của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.2  Xác định tải trọng do thiết bị, vật liệu và sản phẩm chất kho (tcvn_2737_2023.md#muc-8-2).",
     "anchor": "muc-8-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.2.1  Tải trọng do thiết bị (trong đó có các đường ống dẫn, phương tiện giao thông), vật liệu và sản phẩm chất kho được xác định theo nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ, trong đó phải nêu được: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.2.1  Tải trọng do thiết bị (trong đó có các đường ống dẫn, phương tiện giao thông), vật liệu và sản phẩm chất kho được xác định theo nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ, trong đó phải nêu được: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.2.1  Tải trọng do thiết bị (trong đó có các đường ống dẫn, phương tiện giao thông), vật liệu và sản phẩm chất kho được xác định theo nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ, trong đó phải nêu được: (tcvn_2737_2023.md#muc-8-2-1).",
     "anchor": "muc-8-2-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.2.2  Giá trị tiêu chuẩn của trọng lượng thiết bị (kể cả đường ống dẫn) được xác định theo các tiêu chuẩn và theo tài liệu kỹ thuật của nhà sản xuất, chế tạo, còn đối với các thiết bị phi tiêu chuẩn - theo các thông số kỹ thuật trong lý lịch thiết bị hay bản vẽ thi công, chế tạo. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.2.2  Giá trị tiêu chuẩn của trọng lượng thiết bị (kể cả đường ống dẫn) được xác định theo các tiêu chuẩn và theo tài liệu kỹ thuật của nhà sản xuất, chế tạo, còn đối với các thiết bị phi tiêu chuẩn - theo các thông số kỹ thuật trong lý lịch thiết bị hay bản vẽ thi công, chế tạo. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.2.2  Giá trị tiêu chuẩn của trọng lượng thiết bị (kể cả đường ống dẫn) được xác định theo các tiêu chuẩn và theo tài liệu kỹ thuật của nhà sản xuất, chế tạo, còn đối với các thiết bị phi tiêu chuẩn - theo các thông số kỹ thuật trong lý lịch thiết bị hay bản vẽ thi công, chế tạo. (tcvn_2737_2023.md#muc-8-2-2).",
     "anchor": "muc-8-2-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.2.3  Khi chọn giá tiêu chuẩn của tải trọng trong các phòng kho, phải kể đến tải trọng phân bố đều tương đương lên sàn tầng, sàn mái, và sàn trên nền đất, cũng như tải trọng đứng tập trung, và khi cần thiết, tải trọng ngang tập trung đặt lên để kể đến ảnh hưởng bất lợi nhất có thể của tải trọng và tác động cục bộ. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.2.3  Khi chọn giá tiêu chuẩn của tải trọng trong các phòng kho, phải kể đến tải trọng phân bố đều tương đương lên sàn tầng, sàn mái, và sàn trên nền đất, cũng như tải trọng đứng tập trung, và khi cần thiết, tải trọng ngang tập trung đặt lên để kể đến ảnh hưởng bất lợi nhất có thể của tải trọng và tác động cục bộ. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.2.3  Khi chọn giá tiêu chuẩn của tải trọng trong các phòng kho, phải kể đến tải trọng phân bố đều tương đương lên sàn tầng, sàn mái, và sàn trên nền đất, cũng như tải trọng đứng tập trung, và khi cần thiết, tải trọng ngang tập trung đặt lên để kể đến ảnh hưởng bất lợi nhất có thể của tải trọng và tác động cục bộ. (tcvn_2737_2023.md#muc-8-2-3).",
     "anchor": "muc-8-2-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 9 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 9 (tcvn_2737_2023.md#bang-9).",
-    "anchor": "bang-9",
+    "question": "Quy định tại Bảng 2 - Giá trị tiêu chuẩn của tải trọng lên sàn khu vực kho của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 2 - Giá trị tiêu chuẩn của tải trọng lên sàn khu vực kho (tcvn_2737_2023.md#bang-bang-02).",
+    "anchor": "bang-bang-02",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.2.4  Hệ số độ tin cậy về tải trọng γf của trọng lượng thiết bị và vật liệu lấy theo Bảng 3. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.2.4  Hệ số độ tin cậy về tải trọng γf của trọng lượng thiết bị và vật liệu lấy theo Bảng 3. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.2.4  Hệ số độ tin cậy về tải trọng γf của trọng lượng thiết bị và vật liệu lấy theo Bảng 3. (tcvn_2737_2023.md#muc-8-2-4).",
     "anchor": "muc-8-2-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 10 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 10 (tcvn_2737_2023.md#bang-10).",
-    "anchor": "bang-10",
+    "question": "Quy định tại Bảng 3 - Hệ số độ tin cậy về tải trọng γf của lượng thiết bị và vật liệu của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 3 - Hệ số độ tin cậy về tải trọng γf của lượng thiết bị và vật liệu (tcvn_2737_2023.md#bang-bang-03).",
+    "anchor": "bang-bang-03",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.3  Tải trọng phân bố đều của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.3  Tải trọng phân bố đều của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.3  Tải trọng phân bố đều (tcvn_2737_2023.md#muc-8-3).",
     "anchor": "muc-8-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.3.1  Giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn phân bố đều lên sàn, mái, cầu thang bộ và sàn trên nền đất được nêu trong Bảng 4. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.3.1  Giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn phân bố đều lên sàn, mái, cầu thang bộ và sàn trên nền đất được nêu trong Bảng 4. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.3.1  Giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn phân bố đều lên sàn, mái, cầu thang bộ và sàn trên nền đất được nêu trong Bảng 4. (tcvn_2737_2023.md#muc-8-3-1).",
     "anchor": "muc-8-3-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 11 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 11 (tcvn_2737_2023.md#bang-11).",
-    "anchor": "bang-11",
+    "question": "Quy định tại Bảng 4 - Giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn phân bố đều qk,t lên sàn, mái, cầu thang bộ của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 4 - Giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn phân bố đều qk,t lên sàn, mái, cầu thang bộ (tcvn_2737_2023.md#bang-bang-04).",
+    "anchor": "bang-bang-04",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.3.2  Giá trị tiêu chuẩn của tải trọng do trọng lượng các tường (vách) ngăn tạm thời tác dụng lên xà (dầm), sàn tầng được lấy phụ thuộc vào kết cấu, sơ đồ bố trí và đặc điểm tựa lên sàn tầng và tường của chúng. Tải trọng vừa nêu được phép coi là tải trọng phân bố đều bổ sung với giá trị tiêu chuẩn được lấy trên cơ sở tính toán theo sơ đồ bố trí đã dự tính, nhưng không nhỏ hơn 1,0 kN/m2. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.3.2  Giá trị tiêu chuẩn của tải trọng do trọng lượng các tường (vách) ngăn tạm thời tác dụng lên xà (dầm), sàn tầng được lấy phụ thuộc vào kết cấu, sơ đồ bố trí và đặc điểm tựa lên sàn tầng và tường của chúng. Tải trọng vừa nêu được phép coi là tải trọng phân bố đều bổ sung với giá trị tiêu chuẩn được lấy trên cơ sở tính toán theo sơ đồ bố trí đã dự tính, nhưng không nhỏ hơn 1,0 kN/m2. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.3.2  Giá trị tiêu chuẩn của tải trọng do trọng lượng các tường (vách) ngăn tạm thời tác dụng lên xà (dầm), sàn tầng được lấy phụ thuộc vào kết cấu, sơ đồ bố trí và đặc điểm tựa lên sàn tầng và tường của chúng. Tải trọng vừa nêu được phép coi là tải trọng phân bố đều bổ sung với giá trị tiêu chuẩn được lấy trên cơ sở tính toán theo sơ đồ bố trí đã dự tính, nhưng không nhỏ hơn 1,0 kN/m2. (tcvn_2737_2023.md#muc-8-3-2).",
     "anchor": "muc-8-3-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.3.3  Giá trị tiêu chuẩn giảm qk,qper của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 4 lấy bằng các giá trị qk,t nêu trong Bảng 4 (trừ các khu vực B5 và H) nhân với hệ số giảm η = 0,35, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.3.3  Giá trị tiêu chuẩn giảm qk,qper của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 4 lấy bằng các giá trị qk,t nêu trong Bảng 4 (trừ các khu vực B5 và H) nhân với hệ số giảm η = 0,35, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.3.3  Giá trị tiêu chuẩn giảm qk,qper của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 4 lấy bằng các giá trị qk,t nêu trong Bảng 4 (trừ các khu vực B5 và H) nhân với hệ số giảm η = 0,35, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. (tcvn_2737_2023.md#muc-8-3-3).",
     "anchor": "muc-8-3-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.3.4  Giá trị tiêu chuẩn của tải trọng ngang tác dụng lên tay vịn của cầu thang bộ và ban công lấy bằng: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.3.4  Giá trị tiêu chuẩn của tải trọng ngang tác dụng lên tay vịn của cầu thang bộ và ban công lấy bằng: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.3.4  Giá trị tiêu chuẩn của tải trọng ngang tác dụng lên tay vịn của cầu thang bộ và ban công lấy bằng: (tcvn_2737_2023.md#muc-8-3-4).",
     "anchor": "muc-8-3-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.3.5  Hệ số độ tin cậy về tải trọng γf của: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.3.5  Hệ số độ tin cậy về tải trọng γf của: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.3.5  Hệ số độ tin cậy về tải trọng γf của: (tcvn_2737_2023.md#muc-8-3-5).",
     "anchor": "muc-8-3-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.4  Tải trọng tập trung của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.4  Tải trọng tập trung của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.4  Tải trọng tập trung (tcvn_2737_2023.md#muc-8-4).",
     "anchor": "muc-8-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.4.1  Các bộ phận chịu lực của sàn tầng, sàn mái, cầu thang bộ và ban công (lô gia) cần được kiểm tra khả năng chịu tải trọng tập trung thẳng đứng đặt lên một bộ phận tại một vị trí bất lợi trên một diện tích hình vuông có cạnh không lớn hơn 100 mm. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.4.1  Các bộ phận chịu lực của sàn tầng, sàn mái, cầu thang bộ và ban công (lô gia) cần được kiểm tra khả năng chịu tải trọng tập trung thẳng đứng đặt lên một bộ phận tại một vị trí bất lợi trên một diện tích hình vuông có cạnh không lớn hơn 100 mm. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.4.1  Các bộ phận chịu lực của sàn tầng, sàn mái, cầu thang bộ và ban công (lô gia) cần được kiểm tra khả năng chịu tải trọng tập trung thẳng đứng đặt lên một bộ phận tại một vị trí bất lợi trên một diện tích hình vuông có cạnh không lớn hơn 100 mm. (tcvn_2737_2023.md#muc-8-4-1).",
     "anchor": "muc-8-4-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.4.2  Nếu trong nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ không quy định giá trị tiêu chuẩn lớn hơn của tải trọng tập trung thì giá trị tiêu chuẩn được lấy bằng: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.4.2  Nếu trong nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ không quy định giá trị tiêu chuẩn lớn hơn của tải trọng tập trung thì giá trị tiêu chuẩn được lấy bằng: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.4.2  Nếu trong nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ không quy định giá trị tiêu chuẩn lớn hơn của tải trọng tập trung thì giá trị tiêu chuẩn được lấy bằng: (tcvn_2737_2023.md#muc-8-4-2).",
     "anchor": "muc-8-4-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.4.3  Đối với tải trọng tập trung nêu trong 8.4.2, lấy hệ số độ tin cậy về tải trọng γf = 1,2. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.4.3  Đối với tải trọng tập trung nêu trong 8.4.2, lấy hệ số độ tin cậy về tải trọng γf = 1,2. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.4.3  Đối với tải trọng tập trung nêu trong 8.4.2, lấy hệ số độ tin cậy về tải trọng γf = 1,2. (tcvn_2737_2023.md#muc-8-4-3).",
     "anchor": "muc-8-4-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.5  Tải trọng do phương tiện giao thông của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.5  Tải trọng do phương tiện giao thông của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.5  Tải trọng do phương tiện giao thông (tcvn_2737_2023.md#muc-8-5).",
     "anchor": "muc-8-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.5.1  Điều này quy định các giá trị tải trọng thẳng đứng tác dụng lên sàn tầng, sàn mái và sàn trên nền đất do các bánh xe của các phương tiện giao thông di chuyển tự do, cũng như trên các đường ray. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.5.1  Điều này quy định các giá trị tải trọng thẳng đứng tác dụng lên sàn tầng, sàn mái và sàn trên nền đất do các bánh xe của các phương tiện giao thông di chuyển tự do, cũng như trên các đường ray. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.5.1  Điều này quy định các giá trị tải trọng thẳng đứng tác dụng lên sàn tầng, sàn mái và sàn trên nền đất do các bánh xe của các phương tiện giao thông di chuyển tự do, cũng như trên các đường ray. (tcvn_2737_2023.md#muc-8-5-1).",
     "anchor": "muc-8-5-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.5.2  Khi tính toán chọc thủng bản sàn tầng và trong các trường hợp kể đến tác động cục bộ thì cần kể đến các tải trọng tập trung có giá trị bằng 0,5 Qk,t đặt lên hai diện tích hình vuông nằm cách nhau 1,8 m tại vị trí bất lợi nhất (mỗi hình vuông có cạnh bằng 100 mm đối với khu vực F trong Bảng 5 và bằng 200 mm đối với khu vực G trong Bảng 5). Các tải trọng tập trung vừa nêu không được xét đồng thời với tải trọng phân bố đều qk,t. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.5.2  Khi tính toán chọc thủng bản sàn tầng và trong các trường hợp kể đến tác động cục bộ thì cần kể đến các tải trọng tập trung có giá trị bằng 0,5 Qk,t đặt lên hai diện tích hình vuông nằm cách nhau 1,8 m tại vị trí bất lợi nhất (mỗi hình vuông có cạnh bằng 100 mm đối với khu vực F trong Bảng 5 và bằng 200 mm đối với khu vực G trong Bảng 5). Các tải trọng tập trung vừa nêu không được xét đồng thời với tải trọng phân bố đều qk,t. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.5.2  Khi tính toán chọc thủng bản sàn tầng và trong các trường hợp kể đến tác động cục bộ thì cần kể đến các tải trọng tập trung có giá trị bằng 0,5 Qk,t đặt lên hai diện tích hình vuông nằm cách nhau 1,8 m tại vị trí bất lợi nhất (mỗi hình vuông có cạnh bằng 100 mm đối với khu vực F trong Bảng 5 và bằng 200 mm đối với khu vực G trong Bảng 5). Các tải trọng tập trung vừa nêu không được xét đồng thời với tải trọng phân bố đều qk,t. (tcvn_2737_2023.md#muc-8-5-2).",
     "anchor": "muc-8-5-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.5.3  Giá trị tính toán của tải trọng nêu trong Bảng 5 được phép chính xác lại dựa theo các thông số kỹ thuật của phương tiện giao thông vận tải có kể đến sơ đồ bố trí cho trước và hệ số động lực ξ ≥ 1,4. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.5.3  Giá trị tính toán của tải trọng nêu trong Bảng 5 được phép chính xác lại dựa theo các thông số kỹ thuật của phương tiện giao thông vận tải có kể đến sơ đồ bố trí cho trước và hệ số động lực ξ ≥ 1,4. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.5.3  Giá trị tính toán của tải trọng nêu trong Bảng 5 được phép chính xác lại dựa theo các thông số kỹ thuật của phương tiện giao thông vận tải có kể đến sơ đồ bố trí cho trước và hệ số động lực ξ ≥ 1,4. (tcvn_2737_2023.md#muc-8-5-3).",
     "anchor": "muc-8-5-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 12 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 12 (tcvn_2737_2023.md#bang-12).",
-    "anchor": "bang-12",
+    "question": "Quy định tại Bảng 5 - Giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn tương đương thẳng đứng phân bố đều và cục bộ lên các sàn (sàn tầng, sàn mái và sàn trên nền đất) của bãi đỗ xe của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 5 - Giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn tương đương thẳng đứng phân bố đều và cục bộ lên các sàn (sàn tầng, sàn mái và sàn trên nền đất) của bãi đỗ xe (tcvn_2737_2023.md#bang-bang-05).",
+    "anchor": "bang-bang-05",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.5.4  Giá trị tiêu chuẩn giảm qk,qper của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 5 lấy bằng các giá trị qk,t nêu trong Bảng 5 nhân với hệ số giảm η = 0,6 cho khu vực F, η = 0,35 cho khu vực G, và η theo nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ cho khu vực G1, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.5.4  Giá trị tiêu chuẩn giảm qk,qper của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 5 lấy bằng các giá trị qk,t nêu trong Bảng 5 nhân với hệ số giảm η = 0,6 cho khu vực F, η = 0,35 cho khu vực G, và η theo nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ cho khu vực G1, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.5.4  Giá trị tiêu chuẩn giảm qk,qper của các tải trọng tạm thời ngắn hạn phân bố đều nêu trong Bảng 5 lấy bằng các giá trị qk,t nêu trong Bảng 5 nhân với hệ số giảm η = 0,6 cho khu vực F, η = 0,35 cho khu vực G, và η theo nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ cho khu vực G1, nếu trong các tiêu chuẩn về thiết kế kết cấu và nền không quy định giá trị khác tùy thuộc vào tình huống tính toán đang xét. (tcvn_2737_2023.md#muc-8-5-4).",
     "anchor": "muc-8-5-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.5.5  Đối với tải trọng nêu trong 8.5.1, lấy hệ số độ tin cậy về tải trọng γf = 1,2. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.5.5  Đối với tải trọng nêu trong 8.5.1, lấy hệ số độ tin cậy về tải trọng γf = 1,2. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.5.5  Đối với tải trọng nêu trong 8.5.1, lấy hệ số độ tin cậy về tải trọng γf = 1,2. (tcvn_2737_2023.md#muc-8-5-5).",
     "anchor": "muc-8-5-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.6  Tải trọng do xe chữa cháy lên sàn mái phần hầm hoặc sàn mái khối đế của nhà của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.6  Tải trọng do xe chữa cháy lên sàn mái phần hầm hoặc sàn mái khối đế của nhà của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.6  Tải trọng do xe chữa cháy lên sàn mái phần hầm hoặc sàn mái khối đế của nhà (tcvn_2737_2023.md#muc-8-6).",
     "anchor": "muc-8-6",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.6.1  Khi tính toán nhà và công trình trong tình huống tính toán đặc biệt phải kể đến tải trọng do xe chữa cháy (là tải trọng đặc biệt, xem 5.6) theo thông số kỹ thuật của xe chữa cháy và phù hợp với nhiệm vụ thiết kế. Tải trọng này cần được kể đến trong tổ hợp đặc biệt. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.6.1  Khi tính toán nhà và công trình trong tình huống tính toán đặc biệt phải kể đến tải trọng do xe chữa cháy (là tải trọng đặc biệt, xem 5.6) theo thông số kỹ thuật của xe chữa cháy và phù hợp với nhiệm vụ thiết kế. Tải trọng này cần được kể đến trong tổ hợp đặc biệt. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.6.1  Khi tính toán nhà và công trình trong tình huống tính toán đặc biệt phải kể đến tải trọng do xe chữa cháy (là tải trọng đặc biệt, xem 5.6) theo thông số kỹ thuật của xe chữa cháy và phù hợp với nhiệm vụ thiết kế. Tải trọng này cần được kể đến trong tổ hợp đặc biệt. (tcvn_2737_2023.md#muc-8-6-1).",
     "anchor": "muc-8-6-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.6.2  Giá trị tính toán của tải trọng do xe chữa cháy tác dụng lên tường tầng hầm và sàn mái phần hầm hoặc sàn mái khối đế của nhà được lấy theo thông số kỹ thuật của phương tiện giao thông và phù hợp với nhiệm vụ thiết kế. Khi không có thông số kỹ thuật của xe chữa cháy thì giá trị tiêu chuẩn qk của tải trọng do trọng lượng xe chữa cháy được lấy không nhỏ hơn 15 kN/m2 và giá trị tính toán lấy bằng qd = γf . ξ. qk, trong đó γf là hệ số độ tin cậy về tải trọng, lấy bằng 1,2; ξ là hệ số động lực, lấy bằng 1,4. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.6.2  Giá trị tính toán của tải trọng do xe chữa cháy tác dụng lên tường tầng hầm và sàn mái phần hầm hoặc sàn mái khối đế của nhà được lấy theo thông số kỹ thuật của phương tiện giao thông và phù hợp với nhiệm vụ thiết kế. Khi không có thông số kỹ thuật của xe chữa cháy thì giá trị tiêu chuẩn qk của tải trọng do trọng lượng xe chữa cháy được lấy không nhỏ hơn 15 kN/m2 và giá trị tính toán lấy bằng qd = γf . ξ. qk, trong đó γf là hệ số độ tin cậy về tải trọng, lấy bằng 1,2; ξ là hệ số động lực, lấy bằng 1,4. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.6.2  Giá trị tính toán của tải trọng do xe chữa cháy tác dụng lên tường tầng hầm và sàn mái phần hầm hoặc sàn mái khối đế của nhà được lấy theo thông số kỹ thuật của phương tiện giao thông và phù hợp với nhiệm vụ thiết kế. Khi không có thông số kỹ thuật của xe chữa cháy thì giá trị tiêu chuẩn qk của tải trọng do trọng lượng xe chữa cháy được lấy không nhỏ hơn 15 kN/m2 và giá trị tính toán lấy bằng qd = γf . ξ. qk, trong đó γf là hệ số độ tin cậy về tải trọng, lấy bằng 1,2; ξ là hệ số động lực, lấy bằng 1,4. (tcvn_2737_2023.md#muc-8-6-2).",
     "anchor": "muc-8-6-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.6.3  Khi cho phép xe chữa cháy chạy trên sàn mái phần hầm hoặc sàn mái khối đế của nhà thì giá trị tính toán của tải trọng do xe chữa cháy tác dụng lên các mái này cần được lấy phụ thuộc vào loại xe, nhưng không nhỏ hơn 160 kN lên mỗi trục, hoặc được lấy bằng 450 kN, đặt tại vị trí bất lợi nhất có thể. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.6.3  Khi cho phép xe chữa cháy chạy trên sàn mái phần hầm hoặc sàn mái khối đế của nhà thì giá trị tính toán của tải trọng do xe chữa cháy tác dụng lên các mái này cần được lấy phụ thuộc vào loại xe, nhưng không nhỏ hơn 160 kN lên mỗi trục, hoặc được lấy bằng 450 kN, đặt tại vị trí bất lợi nhất có thể. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.6.3  Khi cho phép xe chữa cháy chạy trên sàn mái phần hầm hoặc sàn mái khối đế của nhà thì giá trị tính toán của tải trọng do xe chữa cháy tác dụng lên các mái này cần được lấy phụ thuộc vào loại xe, nhưng không nhỏ hơn 160 kN lên mỗi trục, hoặc được lấy bằng 450 kN, đặt tại vị trí bất lợi nhất có thể. (tcvn_2737_2023.md#muc-8-6-3).",
     "anchor": "muc-8-6-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.6.4  Áp lực lên sàn mái phần hầm hoặc sàn mái khối đế do chân chống xe chữa cháy phải được kể đến trong tổ hợp tải trọng riêng và lấy bằng tải trọng lớn nhất lên một chân chống khi kích nâng thủy lực chuyển động (bằng 1,75 lần tải trọng trung bình tác dụng lên chân chống đó). của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.6.4  Áp lực lên sàn mái phần hầm hoặc sàn mái khối đế do chân chống xe chữa cháy phải được kể đến trong tổ hợp tải trọng riêng và lấy bằng tải trọng lớn nhất lên một chân chống khi kích nâng thủy lực chuyển động (bằng 1,75 lần tải trọng trung bình tác dụng lên chân chống đó). của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.6.4  Áp lực lên sàn mái phần hầm hoặc sàn mái khối đế do chân chống xe chữa cháy phải được kể đến trong tổ hợp tải trọng riêng và lấy bằng tải trọng lớn nhất lên một chân chống khi kích nâng thủy lực chuyển động (bằng 1,75 lần tải trọng trung bình tác dụng lên chân chống đó). (tcvn_2737_2023.md#muc-8-6-4).",
     "anchor": "muc-8-6-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.6.5  Kích thước diện tích truyền tải từ các bánh của xe chữa cháy lên mái ở phần đường xe chạy lấy bằng (0,2 x 0,6) m; kích thước đế chân chống hoặc đệm chuyên dụng cho chân chống lấy bằng (0,5 x 0,5) m. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.6.5  Kích thước diện tích truyền tải từ các bánh của xe chữa cháy lên mái ở phần đường xe chạy lấy bằng (0,2 x 0,6) m; kích thước đế chân chống hoặc đệm chuyên dụng cho chân chống lấy bằng (0,5 x 0,5) m. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.6.5  Kích thước diện tích truyền tải từ các bánh của xe chữa cháy lên mái ở phần đường xe chạy lấy bằng (0,2 x 0,6) m; kích thước đế chân chống hoặc đệm chuyên dụng cho chân chống lấy bằng (0,5 x 0,5) m. (tcvn_2737_2023.md#muc-8-6-5).",
     "anchor": "muc-8-6-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.7  Tải trọng do trực thăng của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.7  Tải trọng do trực thăng của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.7  Tải trọng do trực thăng (tcvn_2737_2023.md#muc-8-7).",
     "anchor": "muc-8-7",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.7.1  Khi tính toán tải trọng lên sàn mái do trực thăng, phải kể đến tải trọng tĩnh và động. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.7.1  Khi tính toán tải trọng lên sàn mái do trực thăng, phải kể đến tải trọng tĩnh và động. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.7.1  Khi tính toán tải trọng lên sàn mái do trực thăng, phải kể đến tải trọng tĩnh và động. (tcvn_2737_2023.md#muc-8-7-1).",
     "anchor": "muc-8-7-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 13 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 13 (tcvn_2737_2023.md#bang-13).",
-    "anchor": "bang-13",
+    "question": "Quy định tại Bảng 6 - Giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn mái nhà do trực thăng của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 6 - Giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn mái nhà do trực thăng (tcvn_2737_2023.md#bang-bang-06).",
+    "anchor": "bang-bang-06",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.7.2  Giá trị tính toán của tải trọng do trực thăng lên sàn mái nhà khi cất cánh Fd,up được tính theo công thức: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.7.2  Giá trị tính toán của tải trọng do trực thăng lên sàn mái nhà khi cất cánh Fd,up được tính theo công thức: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.7.2  Giá trị tính toán của tải trọng do trực thăng lên sàn mái nhà khi cất cánh Fd,up được tính theo công thức: (tcvn_2737_2023.md#muc-8-7-2).",
     "anchor": "muc-8-7-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 14 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 14 (tcvn_2737_2023.md#bang-14).",
-    "anchor": "bang-14",
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-7).",
+    "anchor": "formula-7",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.7.3  Tải trọng va chạm do trực thăng của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.7.3  Tải trọng va chạm do trực thăng của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.7.3  Tải trọng va chạm do trực thăng (tcvn_2737_2023.md#muc-8-7-3).",
     "anchor": "muc-8-7-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 15 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 15 (tcvn_2737_2023.md#bang-15).",
-    "anchor": "bang-15",
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-8).",
+    "anchor": "formula-8",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.8  Tải trọng va chạm do xe nâng của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 8.8  Tải trọng va chạm do xe nâng của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 8.8  Tải trọng va chạm do xe nâng (tcvn_2737_2023.md#muc-8-8).",
     "anchor": "muc-8-8",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 16 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 16 (tcvn_2737_2023.md#bang-16).",
-    "anchor": "bang-16",
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-9).",
+    "anchor": "formula-9",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9  TẢI TRỌNG DO CẦU TRỤC VÀ CẦN TRỤC TREO của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9  TẢI TRỌNG DO CẦU TRỤC VÀ CẦN TRỤC TREO của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9  TẢI TRỌNG DO CẦU TRỤC VÀ CẦN TRỤC TREO (tcvn_2737_2023.md#muc-9).",
     "anchor": "muc-9",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.1  Tải trọng do cầu trục và cần trục treo cần được xác định phụ thuộc vào nhóm chế độ làm việc của chúng nêu trong Bảng B.1 (Phụ lục B) và các tiêu chuẩn có liên quan khác; loại dẫn động và phương pháp nâng vật cầu. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.1  Tải trọng do cầu trục và cần trục treo cần được xác định phụ thuộc vào nhóm chế độ làm việc của chúng nêu trong Bảng B.1 (Phụ lục B) và các tiêu chuẩn có liên quan khác; loại dẫn động và phương pháp nâng vật cầu. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.1  Tải trọng do cầu trục và cần trục treo cần được xác định phụ thuộc vào nhóm chế độ làm việc của chúng nêu trong Bảng B.1 (Phụ lục B) và các tiêu chuẩn có liên quan khác; loại dẫn động và phương pháp nâng vật cầu. (tcvn_2737_2023.md#muc-9-1).",
     "anchor": "muc-9-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.2  Giá trị tiêu chuẩn của tải trọng đứng truyền qua các bánh xe của cần trục (cầu trục và cần trục treo) lên đường cẩu, và các số liệu cần thiết khác để tính toán cần được lấy phù hợp với yêu cầu của các tiêu chuẩn đối với cần trục, còn đối với cần trục phi tiêu chuẩn - phù hợp với các số liệu nêu trong lý lịch máy của nhà chế tạo. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.2  Giá trị tiêu chuẩn của tải trọng đứng truyền qua các bánh xe của cần trục (cầu trục và cần trục treo) lên đường cẩu, và các số liệu cần thiết khác để tính toán cần được lấy phù hợp với yêu cầu của các tiêu chuẩn đối với cần trục, còn đối với cần trục phi tiêu chuẩn - phù hợp với các số liệu nêu trong lý lịch máy của nhà chế tạo. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.2  Giá trị tiêu chuẩn của tải trọng đứng truyền qua các bánh xe của cần trục (cầu trục và cần trục treo) lên đường cẩu, và các số liệu cần thiết khác để tính toán cần được lấy phù hợp với yêu cầu của các tiêu chuẩn đối với cần trục, còn đối với cần trục phi tiêu chuẩn - phù hợp với các số liệu nêu trong lý lịch máy của nhà chế tạo. (tcvn_2737_2023.md#muc-9-2).",
     "anchor": "muc-9-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.3  Giá trị tiêu chuẩn của tải trọng ngang, hướng dọc theo đường cẩu do lực hãm của cầu trục, lấy bằng 0,1 lần giá trị tiêu chuẩn toàn phần của tải trọng đứng tác dụng lên các bánh xe hãm ở phía cầu trục đang xét. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.3  Giá trị tiêu chuẩn của tải trọng ngang, hướng dọc theo đường cẩu do lực hãm của cầu trục, lấy bằng 0,1 lần giá trị tiêu chuẩn toàn phần của tải trọng đứng tác dụng lên các bánh xe hãm ở phía cầu trục đang xét. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.3  Giá trị tiêu chuẩn của tải trọng ngang, hướng dọc theo đường cẩu do lực hãm của cầu trục, lấy bằng 0,1 lần giá trị tiêu chuẩn toàn phần của tải trọng đứng tác dụng lên các bánh xe hãm ở phía cầu trục đang xét. (tcvn_2737_2023.md#muc-9-3).",
     "anchor": "muc-9-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.4  Giá trị tiêu chuẩn của tải trọng ngang, hướng vuông góc đường cẩu do lực hãm của xe tời điện, lấy bằng: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.4  Giá trị tiêu chuẩn của tải trọng ngang, hướng vuông góc đường cẩu do lực hãm của xe tời điện, lấy bằng: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.4  Giá trị tiêu chuẩn của tải trọng ngang, hướng vuông góc đường cẩu do lực hãm của xe tời điện, lấy bằng: (tcvn_2737_2023.md#muc-9-4).",
     "anchor": "muc-9-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.5  Giá trị tiêu chuẩn của tải trọng ngang, hướng vuông góc đường cẩu và do cầu trục bị lệch và đường cẩu không song song (lực xô ngang), đối với từng bánh xe chạy của cầu trục lấy bằng 0,2 lần giá trị tiêu chuẩn toàn phần của tải trọng đứng tác dụng lên một bánh xe. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.5  Giá trị tiêu chuẩn của tải trọng ngang, hướng vuông góc đường cẩu và do cầu trục bị lệch và đường cẩu không song song (lực xô ngang), đối với từng bánh xe chạy của cầu trục lấy bằng 0,2 lần giá trị tiêu chuẩn toàn phần của tải trọng đứng tác dụng lên một bánh xe. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.5  Giá trị tiêu chuẩn của tải trọng ngang, hướng vuông góc đường cẩu và do cầu trục bị lệch và đường cẩu không song song (lực xô ngang), đối với từng bánh xe chạy của cầu trục lấy bằng 0,2 lần giá trị tiêu chuẩn toàn phần của tải trọng đứng tác dụng lên một bánh xe. (tcvn_2737_2023.md#muc-9-5).",
     "anchor": "muc-9-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.6  Tải trọng ngang do lực hãm của cầu trục và xe tời và lực xô ngang được coi là lực dương tại vị trí tiếp xúc giữa các bánh xe chạy của cầu trục với đường ray. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.6  Tải trọng ngang do lực hãm của cầu trục và xe tời và lực xô ngang được coi là lực dương tại vị trí tiếp xúc giữa các bánh xe chạy của cầu trục với đường ray. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.6  Tải trọng ngang do lực hãm của cầu trục và xe tời và lực xô ngang được coi là lực dương tại vị trí tiếp xúc giữa các bánh xe chạy của cầu trục với đường ray. (tcvn_2737_2023.md#muc-9-6).",
     "anchor": "muc-9-6",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.7  Giá trị tiêu chuẩn của tải trọng ngang, hướng dọc theo đường cẩu và do va chạm cần trục với gối chắn cuối đường ray cần được xác định theo các chỉ dẫn nêu trong B.2, Phụ lục B. Tải trọng này chỉ phải kể đến khi tính toán gối chắn cuối đường ray và liên kết của gối chắn này với dầm đỡ cầu trục. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.7  Giá trị tiêu chuẩn của tải trọng ngang, hướng dọc theo đường cẩu và do va chạm cần trục với gối chắn cuối đường ray cần được xác định theo các chỉ dẫn nêu trong B.2, Phụ lục B. Tải trọng này chỉ phải kể đến khi tính toán gối chắn cuối đường ray và liên kết của gối chắn này với dầm đỡ cầu trục. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.7  Giá trị tiêu chuẩn của tải trọng ngang, hướng dọc theo đường cẩu và do va chạm cần trục với gối chắn cuối đường ray cần được xác định theo các chỉ dẫn nêu trong B.2, Phụ lục B. Tải trọng này chỉ phải kể đến khi tính toán gối chắn cuối đường ray và liên kết của gối chắn này với dầm đỡ cầu trục. (tcvn_2737_2023.md#muc-9-7).",
     "anchor": "muc-9-7",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.8  Hệ số độ tin cậy về tải trọng đối với tải trọng do cần trục, kể cả khi kiểm tra ổn định cục bộ bụng dầm, lấy bằng γf = 1,2 đối với tất cả các chế độ làm việc của cần trục. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.8  Hệ số độ tin cậy về tải trọng đối với tải trọng do cần trục, kể cả khi kiểm tra ổn định cục bộ bụng dầm, lấy bằng γf = 1,2 đối với tất cả các chế độ làm việc của cần trục. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.8  Hệ số độ tin cậy về tải trọng đối với tải trọng do cần trục, kể cả khi kiểm tra ổn định cục bộ bụng dầm, lấy bằng γf = 1,2 đối với tất cả các chế độ làm việc của cần trục. (tcvn_2737_2023.md#muc-9-8).",
     "anchor": "muc-9-8",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.9  Khi kể đến tác dụng cục bộ và tác dụng động của tải trọng đứng tập trung do một bánh xe cần trục (cầu trục hoặc cần trục treo) thì giá trị tiêu chuẩn toàn phần của tải trọng này khi tính toán độ bền của dầm đường cầu cần được nhân với hệ số bổ sung γf1, bằng: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.9  Khi kể đến tác dụng cục bộ và tác dụng động của tải trọng đứng tập trung do một bánh xe cần trục (cầu trục hoặc cần trục treo) thì giá trị tiêu chuẩn toàn phần của tải trọng này khi tính toán độ bền của dầm đường cầu cần được nhân với hệ số bổ sung γf1, bằng: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.9  Khi kể đến tác dụng cục bộ và tác dụng động của tải trọng đứng tập trung do một bánh xe cần trục (cầu trục hoặc cần trục treo) thì giá trị tiêu chuẩn toàn phần của tải trọng này khi tính toán độ bền của dầm đường cầu cần được nhân với hệ số bổ sung γf1, bằng: (tcvn_2737_2023.md#muc-9-9).",
     "anchor": "muc-9-9",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.10  Khi tính toán độ bền và ổn định của dầm đường cầu và liên kết của dầm đường cẩu với kết cấu chịu lực thì giá trị tiêu chuẩn của tải trọng đứng do cần trục cần được nhân với hệ số động lực ξ = 1,2, không phụ thuộc vào bước cột. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.10  Khi tính toán độ bền và ổn định của dầm đường cầu và liên kết của dầm đường cẩu với kết cấu chịu lực thì giá trị tiêu chuẩn của tải trọng đứng do cần trục cần được nhân với hệ số động lực ξ = 1,2, không phụ thuộc vào bước cột. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.10  Khi tính toán độ bền và ổn định của dầm đường cầu và liên kết của dầm đường cẩu với kết cấu chịu lực thì giá trị tiêu chuẩn của tải trọng đứng do cần trục cần được nhân với hệ số động lực ξ = 1,2, không phụ thuộc vào bước cột. (tcvn_2737_2023.md#muc-9-10).",
     "anchor": "muc-9-10",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.11  Khi tính toán độ bền và ổn định của dầm đường cẩu, cần xét tải trọng đứng do không quá hai cầu trục hoặc cần trục treo tác dụng bất lợi nhất. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.11  Khi tính toán độ bền và ổn định của dầm đường cẩu, cần xét tải trọng đứng do không quá hai cầu trục hoặc cần trục treo tác dụng bất lợi nhất. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.11  Khi tính toán độ bền và ổn định của dầm đường cẩu, cần xét tải trọng đứng do không quá hai cầu trục hoặc cần trục treo tác dụng bất lợi nhất. (tcvn_2737_2023.md#muc-9-11).",
     "anchor": "muc-9-11",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.12  Khi tính toán độ bền và ổn định của khung, cột, móng, cũng như nền của nhà có cầu trục làm việc ở một số nhịp (ở mỗi nhịp trên một tầng), thì trên mỗi đường cẩu tải trọng đứng được lấy do không quá hai cầu trục tác dụng bất lợi nhất, còn khi tính đến sự kết hợp của các cầu trục làm việc ở các nhịp khác nhau trong một tuyến - do không quá bốn cầu trục tác dụng bất lợi nhất. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.12  Khi tính toán độ bền và ổn định của khung, cột, móng, cũng như nền của nhà có cầu trục làm việc ở một số nhịp (ở mỗi nhịp trên một tầng), thì trên mỗi đường cẩu tải trọng đứng được lấy do không quá hai cầu trục tác dụng bất lợi nhất, còn khi tính đến sự kết hợp của các cầu trục làm việc ở các nhịp khác nhau trong một tuyến - do không quá bốn cầu trục tác dụng bất lợi nhất. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.12  Khi tính toán độ bền và ổn định của khung, cột, móng, cũng như nền của nhà có cầu trục làm việc ở một số nhịp (ở mỗi nhịp trên một tầng), thì trên mỗi đường cẩu tải trọng đứng được lấy do không quá hai cầu trục tác dụng bất lợi nhất, còn khi tính đến sự kết hợp của các cầu trục làm việc ở các nhịp khác nhau trong một tuyến - do không quá bốn cầu trục tác dụng bất lợi nhất. (tcvn_2737_2023.md#muc-9-12).",
     "anchor": "muc-9-12",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.13  Khi tính toán độ bền và ổn định của khung, cột, kết cấu vì kèo, kết cấu đỡ vì kèo, móng, cũng như nền của nhà có cần trục treo trên một hoặc một số đường cẩu, thì trên mỗi đường cầu tải trọng đứng được lấy do không quá hai cần trục treo tác dụng bất lợi nhất. Khi tính đến sự kết hợp của các cần trục treo làm việc trong một tuyến trên các đường cẩu khác nhau, tải trọng đứng được lấy như sau: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.13  Khi tính toán độ bền và ổn định của khung, cột, kết cấu vì kèo, kết cấu đỡ vì kèo, móng, cũng như nền của nhà có cần trục treo trên một hoặc một số đường cẩu, thì trên mỗi đường cầu tải trọng đứng được lấy do không quá hai cần trục treo tác dụng bất lợi nhất. Khi tính đến sự kết hợp của các cần trục treo làm việc trong một tuyến trên các đường cẩu khác nhau, tải trọng đứng được lấy như sau: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.13  Khi tính toán độ bền và ổn định của khung, cột, kết cấu vì kèo, kết cấu đỡ vì kèo, móng, cũng như nền của nhà có cần trục treo trên một hoặc một số đường cẩu, thì trên mỗi đường cầu tải trọng đứng được lấy do không quá hai cần trục treo tác dụng bất lợi nhất. Khi tính đến sự kết hợp của các cần trục treo làm việc trong một tuyến trên các đường cẩu khác nhau, tải trọng đứng được lấy như sau: (tcvn_2737_2023.md#muc-9-13).",
     "anchor": "muc-9-13",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.14  Khi tính toán độ bền và ổn định của dầm đường cẩu, cột, khung, kết cấu vì kèo, kết cấu đỡ vì kèo, móng, cũng như nền thì tải trọng ngang cần được kể đến do không quá hai cần trục (cầu trục hoặc cần trục treo) tác dụng bất lợi nhất nằm trên một đường cẩu hoặc trên các đường cẩu khác nhau ở trong một nhịp. Khi đó, đối với mỗi cần trục (cầu trục hoặc cần trục treo) chỉ phải kể đến một tải trọng ngang (hướng ngang hoặc dọc đường cẩu). của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.14  Khi tính toán độ bền và ổn định của dầm đường cẩu, cột, khung, kết cấu vì kèo, kết cấu đỡ vì kèo, móng, cũng như nền thì tải trọng ngang cần được kể đến do không quá hai cần trục (cầu trục hoặc cần trục treo) tác dụng bất lợi nhất nằm trên một đường cẩu hoặc trên các đường cẩu khác nhau ở trong một nhịp. Khi đó, đối với mỗi cần trục (cầu trục hoặc cần trục treo) chỉ phải kể đến một tải trọng ngang (hướng ngang hoặc dọc đường cẩu). của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.14  Khi tính toán độ bền và ổn định của dầm đường cẩu, cột, khung, kết cấu vì kèo, kết cấu đỡ vì kèo, móng, cũng như nền thì tải trọng ngang cần được kể đến do không quá hai cần trục (cầu trục hoặc cần trục treo) tác dụng bất lợi nhất nằm trên một đường cẩu hoặc trên các đường cẩu khác nhau ở trong một nhịp. Khi đó, đối với mỗi cần trục (cầu trục hoặc cần trục treo) chỉ phải kể đến một tải trọng ngang (hướng ngang hoặc dọc đường cẩu). (tcvn_2737_2023.md#muc-9-14).",
     "anchor": "muc-9-14",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.15  Theo nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ cần xác định số cần trục (cầu trục và cần trục treo) được kể đến trong tính toán độ bền và ổn định: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.15  Theo nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ cần xác định số cần trục (cầu trục và cần trục treo) được kể đến trong tính toán độ bền và ổn định: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.15  Theo nhiệm vụ thiết kế trên cơ sở các giải pháp công nghệ cần xác định số cần trục (cầu trục và cần trục treo) được kể đến trong tính toán độ bền và ổn định: (tcvn_2737_2023.md#muc-9-15).",
     "anchor": "muc-9-15",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.16  Khi xác định các độ võng đứng và ngang của dầm đường cẩu, cũng như chuyển vị ngang của cột, thì chỉ cần kể đến tải trọng do một cần trục (cầu trục hoặc cần trục treo) tác dụng bất lợi nhất. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.16  Khi xác định các độ võng đứng và ngang của dầm đường cẩu, cũng như chuyển vị ngang của cột, thì chỉ cần kể đến tải trọng do một cần trục (cầu trục hoặc cần trục treo) tác dụng bất lợi nhất. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.16  Khi xác định các độ võng đứng và ngang của dầm đường cẩu, cũng như chuyển vị ngang của cột, thì chỉ cần kể đến tải trọng do một cần trục (cầu trục hoặc cần trục treo) tác dụng bất lợi nhất. (tcvn_2737_2023.md#muc-9-16).",
     "anchor": "muc-9-16",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.17  Khi trên một đường cẩu có một cần trục (cầu trục hoặc cần trục treo) và khi không lắp cần trục thứ hai trong thời gian sử dụng công trình, thì trên đường cẩu này chỉ cần kể đến tải trọng do một cần trục. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.17  Khi trên một đường cẩu có một cần trục (cầu trục hoặc cần trục treo) và khi không lắp cần trục thứ hai trong thời gian sử dụng công trình, thì trên đường cẩu này chỉ cần kể đến tải trọng do một cần trục. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.17  Khi trên một đường cẩu có một cần trục (cầu trục hoặc cần trục treo) và khi không lắp cần trục thứ hai trong thời gian sử dụng công trình, thì trên đường cẩu này chỉ cần kể đến tải trọng do một cần trục. (tcvn_2737_2023.md#muc-9-17).",
     "anchor": "muc-9-17",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.18  Khi xét đến hai cần trục (cầu trục hoặc cần trục treo) thì tải trọng do chúng phải được nhân với hệ số tổ hợp ψt, bằng: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.18  Khi xét đến hai cần trục (cầu trục hoặc cần trục treo) thì tải trọng do chúng phải được nhân với hệ số tổ hợp ψt, bằng: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.18  Khi xét đến hai cần trục (cầu trục hoặc cần trục treo) thì tải trọng do chúng phải được nhân với hệ số tổ hợp ψt, bằng: (tcvn_2737_2023.md#muc-9-18).",
     "anchor": "muc-9-18",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.19  Khi tính toán chịu mỏi cho các dầm đường cầu đỡ cầu trục điện và liên kết của các dầm này với các kết cấu chịu lực thì giá trị tải trọng cầu trục được xác định bằng cách nhân giá trị tiêu chuẩn của tải trọng đứng do một cầu trục (xem 9.2) ở trong mỗi nhịp nhà với hệ số giảm η bằng: của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.19  Khi tính toán chịu mỏi cho các dầm đường cầu đỡ cầu trục điện và liên kết của các dầm này với các kết cấu chịu lực thì giá trị tải trọng cầu trục được xác định bằng cách nhân giá trị tiêu chuẩn của tải trọng đứng do một cầu trục (xem 9.2) ở trong mỗi nhịp nhà với hệ số giảm η bằng: của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.19  Khi tính toán chịu mỏi cho các dầm đường cầu đỡ cầu trục điện và liên kết của các dầm này với các kết cấu chịu lực thì giá trị tải trọng cầu trục được xác định bằng cách nhân giá trị tiêu chuẩn của tải trọng đứng do một cầu trục (xem 9.2) ở trong mỗi nhịp nhà với hệ số giảm η bằng: (tcvn_2737_2023.md#muc-9-19).",
     "anchor": "muc-9-19",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.20  Để kiểm tra mỏi cho bụng dầm trong vùng tác dụng của tải trọng đứng tập trung do một bánh xe của cần trục thì giá trị nội lực đứng do một bánh xe đã lấy có kể đến yêu cầu tại 9.19 cần được nhân với hệ số γf1 mà đã được kể đến khi tính toán độ bền của dầm đường cẩu theo 9.9. của tcvn_2737_2023 là gì?",
+    "question": "Quy định tại 9.20  Để kiểm tra mỏi cho bụng dầm trong vùng tác dụng của tải trọng đứng tập trung do một bánh xe của cần trục thì giá trị nội lực đứng do một bánh xe đã lấy có kể đến yêu cầu tại 9.19 cần được nhân với hệ số γf1 mà đã được kể đến khi tính toán độ bền của dầm đường cẩu theo 9.9. của TCVN tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại 9.20  Để kiểm tra mỏi cho bụng dầm trong vùng tác dụng của tải trọng đứng tập trung do một bánh xe của cần trục thì giá trị nội lực đứng do một bánh xe đã lấy có kể đến yêu cầu tại 9.19 cần được nhân với hệ số γf1 mà đã được kể đến khi tính toán độ bền của dầm đường cẩu theo 9.9. (tcvn_2737_2023.md#muc-9-20).",
     "anchor": "muc-9-20",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 17 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 17 (tcvn_2737_2023.md#bang-17).",
-    "anchor": "bang-17",
+    "question": "Quy định tại 10  TẢI TRỌNG GIÓ của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10  TẢI TRỌNG GIÓ (tcvn_2737_2023.md#muc-10).",
+    "anchor": "muc-10",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 18 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 18 (tcvn_2737_2023.md#bang-18).",
-    "anchor": "bang-18",
+    "question": "Quy định tại 10.1  Yêu cầu chung của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.1  Yêu cầu chung (tcvn_2737_2023.md#muc-10-1).",
+    "anchor": "muc-10-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 19 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 19 (tcvn_2737_2023.md#bang-19).",
-    "anchor": "bang-19",
+    "question": "Quy định tại 10.1.1  Điều này áp dụng cho công trình có chiều cao không lớn hơn 200 m hoặc nhịp không lớn hơn 150 m. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.1.1  Điều này áp dụng cho công trình có chiều cao không lớn hơn 200 m hoặc nhịp không lớn hơn 150 m. (tcvn_2737_2023.md#muc-10-1-1).",
+    "anchor": "muc-10-1-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 20 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 20 (tcvn_2737_2023.md#bang-20).",
-    "anchor": "bang-20",
+    "question": "Quy định tại 10.1.2  Đối với nhà và công trình phải xét các tác động do gió gây ra sau đây: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.1.2  Đối với nhà và công trình phải xét các tác động do gió gây ra sau đây: (tcvn_2737_2023.md#muc-10-1-2).",
+    "anchor": "muc-10-1-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 21 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 21 (tcvn_2737_2023.md#bang-21).",
-    "anchor": "bang-21",
+    "question": "Quy định tại 10.1.3  Dạng chính của tải trọng gió liên quan tới tác động trực tiếp của gió lớn nhất lên nhà và công trình cho các vị trí xây dựng và phải được kể đến khi thiết kế mọi nhà và công trình. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.1.3  Dạng chính của tải trọng gió liên quan tới tác động trực tiếp của gió lớn nhất lên nhà và công trình cho các vị trí xây dựng và phải được kể đến khi thiết kế mọi nhà và công trình. (tcvn_2737_2023.md#muc-10-1-3).",
+    "anchor": "muc-10-1-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 22 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 22 (tcvn_2737_2023.md#bang-22).",
-    "anchor": "bang-22",
+    "question": "Quy định tại 10.1.4  Dạng kích động xoáy cộng hưởng và dao động mất ổn định khí động phải được kể đến đối với nhà, kết cấu bụng đặc hoặc các phần riêng lẻ của chúng mà có trục trung tâm thẳng (hoặc gần thẳng), cũng như có hình dạng và kích thước tiết diện ngang không đổi hoặc thay đổi uyển chuyển với độ mảnh hiệu dụng λe > 20, trong đó λe được xác định theo F.18. Tiêu chí xảy ra dao động mất ổn định khí động được quy định trong các tiêu chuẩn thiết kế. Khi thiết kế công trình thì cần sử dụng các giải pháp kiến trúc và giải pháp kết cấu để không xảy ra dao động mất ổn định khí động. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.1.4  Dạng kích động xoáy cộng hưởng và dao động mất ổn định khí động phải được kể đến đối với nhà, kết cấu bụng đặc hoặc các phần riêng lẻ của chúng mà có trục trung tâm thẳng (hoặc gần thẳng), cũng như có hình dạng và kích thước tiết diện ngang không đổi hoặc thay đổi uyển chuyển với độ mảnh hiệu dụng λe > 20, trong đó λe được xác định theo F.18. Tiêu chí xảy ra dao động mất ổn định khí động được quy định trong các tiêu chuẩn thiết kế. Khi thiết kế công trình thì cần sử dụng các giải pháp kiến trúc và giải pháp kết cấu để không xảy ra dao động mất ổn định khí động. (tcvn_2737_2023.md#muc-10-1-4).",
+    "anchor": "muc-10-1-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 23 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 23 (tcvn_2737_2023.md#bang-23).",
-    "anchor": "bang-23",
+    "question": "Quy định tại 10.1.5  Dao động mất ổn định khí động dạng uốn, xoắn vặn, uốn-xoắn được nêu trong các tiêu chuẩn khác có liên quan đến tải trọng gió hoặc trong các tài liệu kỹ thuật chuyên ngành. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.1.5  Dao động mất ổn định khí động dạng uốn, xoắn vặn, uốn-xoắn được nêu trong các tiêu chuẩn khác có liên quan đến tải trọng gió hoặc trong các tài liệu kỹ thuật chuyên ngành. (tcvn_2737_2023.md#muc-10-1-5).",
+    "anchor": "muc-10-1-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 24 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 24 (tcvn_2737_2023.md#bang-24).",
-    "anchor": "bang-24",
+    "question": "Quy định tại 10.1.6  Hệ số độ tin cậy về tải trọng γf đối với tải trọng gió chính được lấy bằng 2,1; khi tính toán kích động xoáy cộng hưởng thì hệ số độ tin cậy về tải trọng γf, lấy bằng 1,0. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.1.6  Hệ số độ tin cậy về tải trọng γf đối với tải trọng gió chính được lấy bằng 2,1; khi tính toán kích động xoáy cộng hưởng thì hệ số độ tin cậy về tải trọng γf, lấy bằng 1,0. (tcvn_2737_2023.md#muc-10-1-6).",
+    "anchor": "muc-10-1-6",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 25 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 25 (tcvn_2737_2023.md#bang-25).",
-    "anchor": "bang-25",
+    "question": "Quy định tại 10.2  Tải trọng gió chính của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2  Tải trọng gió chính (tcvn_2737_2023.md#muc-10-2).",
+    "anchor": "muc-10-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 26 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 26 (tcvn_2737_2023.md#bang-26).",
-    "anchor": "bang-26",
+    "question": "Quy định tại 10.2.1  Tải trọng gió W tác dụng lên công trình được xem xét theo một trong hai phương án. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.1  Tải trọng gió W tác dụng lên công trình được xem xét theo một trong hai phương án. (tcvn_2737_2023.md#muc-10-2-1).",
+    "anchor": "muc-10-2-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 27 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 27 (tcvn_2737_2023.md#bang-27).",
-    "anchor": "bang-27",
+    "question": "Quy định tại 10.2.2  Giá trị tiêu chuẩn của tải trọng gió WK tại độ cao tương đương ze được xác định theo công thức: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.2  Giá trị tiêu chuẩn của tải trọng gió WK tại độ cao tương đương ze được xác định theo công thức: (tcvn_2737_2023.md#muc-10-2-2).",
+    "anchor": "muc-10-2-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 28 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 28 (tcvn_2737_2023.md#bang-28).",
-    "anchor": "bang-28",
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-10).",
+    "anchor": "formula-10",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 29 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 29 (tcvn_2737_2023.md#bang-29).",
-    "anchor": "bang-29",
+    "question": "Quy định tại 10.2.3  Áp lực gió cơ sở W0 được lấy theo phân vùng gió trên lãnh thổ Việt Nam theo địa danh hành chính hoặc theo bản đồ phân vùng áp lực gió nêu trong [1]. Giá trị W0 nêu trong Bảng 7 được trích dẫn từ 5.2 của [1]. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.3  Áp lực gió cơ sở W0 được lấy theo phân vùng gió trên lãnh thổ Việt Nam theo địa danh hành chính hoặc theo bản đồ phân vùng áp lực gió nêu trong [1]. Giá trị W0 nêu trong Bảng 7 được trích dẫn từ 5.2 của [1]. (tcvn_2737_2023.md#muc-10-2-3).",
+    "anchor": "muc-10-2-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 30 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 30 (tcvn_2737_2023.md#bang-30).",
-    "anchor": "bang-30",
+    "question": "Quy định tại Bảng 7 - Giá trị của áp lực gió cơ sở W0 theo bản đồ phân vùng áp lực gió trên lãnh thổ Việt Nam của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 7 - Giá trị của áp lực gió cơ sở W0 theo bản đồ phân vùng áp lực gió trên lãnh thổ Việt Nam (tcvn_2737_2023.md#bang-bang-07).",
+    "anchor": "bang-bang-07",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 31 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 31 (tcvn_2737_2023.md#bang-31).",
-    "anchor": "bang-31",
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-11).",
+    "anchor": "formula-11",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 32 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 32 (tcvn_2737_2023.md#bang-32).",
-    "anchor": "bang-32",
+    "question": "Quy định tại 10.2.4  Độ cao tương đương ze xác định như sau: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.4  Độ cao tương đương ze xác định như sau: (tcvn_2737_2023.md#muc-10-2-4).",
+    "anchor": "muc-10-2-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 33 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 33 (tcvn_2737_2023.md#bang-33).",
-    "anchor": "bang-33",
+    "question": "Quy định tại Bảng raw_08 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_08 (tcvn_2737_2023.md#bang-bang-raw-08).",
+    "anchor": "bang-bang-raw-08",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 34 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 34 (tcvn_2737_2023.md#bang-34).",
-    "anchor": "bang-34",
+    "question": "Quy định tại 10.2.5  Giá trị của hệ số k(ze), kể đến sự thay đổi áp lực gió theo độ cao ze so với mốc chuẩn và dạng địa hình, được xác định theo công thức: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.5  Giá trị của hệ số k(ze), kể đến sự thay đổi áp lực gió theo độ cao ze so với mốc chuẩn và dạng địa hình, được xác định theo công thức: (tcvn_2737_2023.md#muc-10-2-5).",
+    "anchor": "muc-10-2-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 35 của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 35 (tcvn_2737_2023.md#bang-35).",
-    "anchor": "bang-35",
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-12).",
+    "anchor": "formula-12",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng 8 - Các hệ số zg, zmin và α của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 8 - Các hệ số zg, zmin và α (tcvn_2737_2023.md#bang-bang-08).",
+    "anchor": "bang-bang-08",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng 9 - Hệ số k(ze) của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 9 - Hệ số k(ze) (tcvn_2737_2023.md#bang-bang-09).",
+    "anchor": "bang-bang-09",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 10.2.6  Khi xác định các thành phần We, Wf, Wi, Wx và Wy thì sử dụng các hệ số khí động tương ứng: hệ số khí động áp lực ngoài ce; hệ số khí động ma sát cf, hệ số khí động áp lực trong ci; hệ số khí động cản chính diện cx; hệ số khí động lực ngang cy. Trong một số hợp mà cần phải kể đến mô men xoắn WMz thì sử dụng hệ số khí động mô men xoắn cMz. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.6  Khi xác định các thành phần We, Wf, Wi, Wx và Wy thì sử dụng các hệ số khí động tương ứng: hệ số khí động áp lực ngoài ce; hệ số khí động ma sát cf, hệ số khí động áp lực trong ci; hệ số khí động cản chính diện cx; hệ số khí động lực ngang cy. Trong một số hợp mà cần phải kể đến mô men xoắn WMz thì sử dụng hệ số khí động mô men xoắn cMz. (tcvn_2737_2023.md#muc-10-2-6).",
+    "anchor": "muc-10-2-6",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 10.2.7  Hệ số hiệu ứng giật Gf của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.7  Hệ số hiệu ứng giật Gf (tcvn_2737_2023.md#muc-10-2-7).",
+    "anchor": "muc-10-2-7",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 10.2.7.1  Hệ số hiệu ứng giật Gf là hệ số phản ứng của kết cấu dưới tác dụng của tải trọng gió (bao gồm cả thành phần phản ứng tĩnh và thành phần phản ứng động của kết cấu). của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.7.1  Hệ số hiệu ứng giật Gf là hệ số phản ứng của kết cấu dưới tác dụng của tải trọng gió (bao gồm cả thành phần phản ứng tĩnh và thành phần phản ứng động của kết cấu). (tcvn_2737_2023.md#muc-10-2-7-1).",
+    "anchor": "muc-10-2-7-1",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 10.2.7.2  Đối với kết cấu “cứng” (có chu kỳ dao động riêng cơ bản thứ nhất T1 ≤ 1 s) thì Gf có thể lấy bằng 0,85. của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.7.2  Đối với kết cấu “cứng” (có chu kỳ dao động riêng cơ bản thứ nhất T1 ≤ 1 s) thì Gf có thể lấy bằng 0,85. (tcvn_2737_2023.md#muc-10-2-7-2).",
+    "anchor": "muc-10-2-7-2",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại 10.2.7.3  Đối với kết cấu “mềm” (có chu kỳ dao động riêng cơ bản thứ nhất T1 > 1 s) thì Gf được xác định theo công thức: của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.2.7.3  Đối với kết cấu “mềm” (có chu kỳ dao động riêng cơ bản thứ nhất T1 > 1 s) thì Gf được xác định theo công thức: (tcvn_2737_2023.md#muc-10-2-7-3).",
+    "anchor": "muc-10-2-7-3",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-13).",
+    "anchor": "formula-13",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-14).",
+    "anchor": "formula-14",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-15).",
+    "anchor": "formula-15",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-16).",
+    "anchor": "formula-16",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-17).",
+    "anchor": "formula-17",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-18).",
+    "anchor": "formula-18",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-19).",
+    "anchor": "formula-19",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-20).",
+    "anchor": "formula-20",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-21).",
+    "anchor": "formula-21",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_11 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_11 (tcvn_2737_2023.md#bang-bang-raw-11).",
+    "anchor": "bang-bang-raw-11",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng 10 - Giá trị các hệ số cho các dạng địa hình của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 10 - Giá trị các hệ số cho các dạng địa hình (tcvn_2737_2023.md#bang-bang-10).",
+    "anchor": "bang-bang-10",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#formula-25).",
+    "anchor": "formula-25",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại PHỤ LỤC A  (Tham khảo)  TRỌNG LƯỢNG ĐƠN VỊ CỦA VẬT LIỆU của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại PHỤ LỤC A  (Tham khảo)  TRỌNG LƯỢNG ĐƠN VỊ CỦA VẬT LIỆU (tcvn_2737_2023.md#phu-luc-a).",
+    "anchor": "phu-luc-a",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng A.1 - Trọng lượng đơn vị của một số vật liệu của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng A.1 - Trọng lượng đơn vị của một số vật liệu (tcvn_2737_2023.md#bang-bang-a-1).",
+    "anchor": "bang-bang-a-1",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại PHỤ LỤC B  (Quy định)  DANH MỤC CẦN TRỤC THEO NHÓM CHẾ ĐỘ LÀM VIỆC VÀ TẢI TRỌNG VA CHẠM CỦA CẦN TRỤC VỚI GỐI CHẶN CUỐI ĐƯỜNG RAY của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại PHỤ LỤC B  (Quy định)  DANH MỤC CẦN TRỤC THEO NHÓM CHẾ ĐỘ LÀM VIỆC VÀ TẢI TRỌNG VA CHẠM CỦA CẦN TRỤC VỚI GỐI CHẶN CUỐI ĐƯỜNG RAY (tcvn_2737_2023.md#phu-luc-b).",
+    "anchor": "phu-luc-b",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng B.1 - Danh mục một số cần trục theo nhóm chế độ làm việc của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng B.1 - Danh mục một số cần trục theo nhóm chế độ làm việc (tcvn_2737_2023.md#bang-bang-b-1).",
+    "anchor": "bang-bang-b-1",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_15 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_15 (tcvn_2737_2023.md#bang-bang-raw-15).",
+    "anchor": "bang-bang-raw-15",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_16 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_16 (tcvn_2737_2023.md#bang-bang-raw-16).",
+    "anchor": "bang-bang-raw-16",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_17 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_17 (tcvn_2737_2023.md#bang-bang-raw-17).",
+    "anchor": "bang-bang-raw-17",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng B.2 - Giá trị giới hạn Fu của tải trọng ngang do va chạm của cần trục với gối chặn cuối đường ray của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng B.2 - Giá trị giới hạn Fu của tải trọng ngang do va chạm của cần trục với gối chặn cuối đường ray (tcvn_2737_2023.md#bang-bang-b-2).",
+    "anchor": "bang-bang-b-2",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại PHỤ LỤC C  (Quy định)  PHƯƠNG PHÁP XÁC ĐỊNH MỐC CHUẨN của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại PHỤ LỤC C  (Quy định)  PHƯƠNG PHÁP XÁC ĐỊNH MỐC CHUẨN (tcvn_2737_2023.md#phu-luc-c).",
+    "anchor": "phu-luc-c",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-c_1).",
+    "anchor": "hinh-c_1",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại PHỤ LỤC D  (Tham khảo)  MINH HỌA CÁC DẠNG ĐỊA HÌNH của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại PHỤ LỤC D  (Tham khảo)  MINH HỌA CÁC DẠNG ĐỊA HÌNH (tcvn_2737_2023.md#phu-luc-d).",
+    "anchor": "phu-luc-d",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-d_1).",
+    "anchor": "hinh-d_1",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-d_2).",
+    "anchor": "hinh-d_2",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-d_3).",
+    "anchor": "hinh-d_3",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại PHỤ LỤC E  (Tham khảo)  MỘT SỐ CÔNG THỨC ĐƠN GIẢN TÍNH HỆ SỐ HIỆU ỨNG GIẬT GF VÀ KÍCH THƯỚC TƯƠNG ĐƯƠNG CHO MỘT SỐ MẶT BẰNG PHỨC TẠP CỦA CÔNG TRÌNH của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại PHỤ LỤC E  (Tham khảo)  MỘT SỐ CÔNG THỨC ĐƠN GIẢN TÍNH HỆ SỐ HIỆU ỨNG GIẬT GF VÀ KÍCH THƯỚC TƯƠNG ĐƯƠNG CHO MỘT SỐ MẶT BẰNG PHỨC TẠP CỦA CÔNG TRÌNH (tcvn_2737_2023.md#phu-luc-e).",
+    "anchor": "phu-luc-e",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_19 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_19 (tcvn_2737_2023.md#bang-bang-raw-19).",
+    "anchor": "bang-bang-raw-19",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_20 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_20 (tcvn_2737_2023.md#bang-bang-raw-20).",
+    "anchor": "bang-bang-raw-20",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-e_1).",
+    "anchor": "hinh-e_1",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại PHỤ LỤC F  (Quy định)  HỆ SỐ KHÍ ĐỘNG của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại PHỤ LỤC F  (Quy định)  HỆ SỐ KHÍ ĐỘNG (tcvn_2737_2023.md#phu-luc-f).",
+    "anchor": "phu-luc-f",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_1).",
+    "anchor": "hinh-f_1",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.1 - Hệ số cx cho các vùng trên tường phẳng, hàng rào và kết cấu tương tự (xem Hình F.1) của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.1 - Hệ số cx cho các vùng trên tường phẳng, hàng rào và kết cấu tương tự (xem Hình F.1) (tcvn_2737_2023.md#bang-bang-f-1).",
+    "anchor": "bang-bang-f-1",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_2).",
+    "anchor": "hinh-f_2",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_22 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_22 (tcvn_2737_2023.md#bang-bang-raw-22).",
+    "anchor": "bang-bang-raw-22",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_3).",
+    "anchor": "hinh-f_3",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.2 - Hệ số ce cho mái bằng của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.2 - Hệ số ce cho mái bằng (tcvn_2737_2023.md#bang-bang-f-2).",
+    "anchor": "bang-bang-f-2",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_24 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_24 (tcvn_2737_2023.md#bang-bang-raw-24).",
+    "anchor": "bang-bang-raw-24",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_4).",
+    "anchor": "hinh-f_4",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.3a - Hệ số khí động áp lực ngoài ce cho mái dốc một phía khi góc hướng gió θ = 0° và θ = 180° của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.3a - Hệ số khí động áp lực ngoài ce cho mái dốc một phía khi góc hướng gió θ = 0° và θ = 180° (tcvn_2737_2023.md#bang-bang-f-3a).",
+    "anchor": "bang-bang-f-3a",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.3b - Hệ số khí động áp lực ngoài ce cho mái dốc một phía khi góc hướng gió θ = 90° của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.3b - Hệ số khí động áp lực ngoài ce cho mái dốc một phía khi góc hướng gió θ = 90° (tcvn_2737_2023.md#bang-bang-f-3b).",
+    "anchor": "bang-bang-f-3b",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_5a).",
+    "anchor": "hinh-f_5a",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_5b).",
+    "anchor": "hinh-f_5b",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.4 - Hệ số ce cho tường thẳng đứng của nhà có mặt bằng chữ nhật của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.4 - Hệ số ce cho tường thẳng đứng của nhà có mặt bằng chữ nhật (tcvn_2737_2023.md#bang-bang-f-4).",
+    "anchor": "bang-bang-f-4",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_6).",
+    "anchor": "hinh-f_6",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.5a - Hệ số ce khi góc hướng gió θ = 0° của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.5a - Hệ số ce khi góc hướng gió θ = 0° (tcvn_2737_2023.md#bang-bang-f-5a).",
+    "anchor": "bang-bang-f-5a",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.5b - Hệ số ce khi góc hướng gió θ = 90° của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.5b - Hệ số ce khi góc hướng gió θ = 90° (tcvn_2737_2023.md#bang-bang-f-5b).",
+    "anchor": "bang-bang-f-5b",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_30 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_30 (tcvn_2737_2023.md#bang-bang-raw-30).",
+    "anchor": "bang-bang-raw-30",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_7).",
+    "anchor": "hinh-f_7",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.6 - Hệ số khí động áp lực ngoài ce cho mái dốc bốn phía của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.6 - Hệ số khí động áp lực ngoài ce cho mái dốc bốn phía (tcvn_2737_2023.md#bang-bang-f-6).",
+    "anchor": "bang-bang-f-6",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_8).",
+    "anchor": "hinh-f_8",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_9a).",
+    "anchor": "hinh-f_9a",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_9b).",
+    "anchor": "hinh-f_9b",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.7 - Hệ số khí động áp lực ngoài ce cho mái nón của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.7 - Hệ số khí động áp lực ngoài ce cho mái nón (tcvn_2737_2023.md#bang-bang-f-7).",
+    "anchor": "bang-bang-f-7",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_33 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_33 (tcvn_2737_2023.md#bang-bang-raw-33).",
+    "anchor": "bang-bang-raw-33",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_10).",
+    "anchor": "hinh-f_10",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_11).",
+    "anchor": "hinh-f_11",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_12).",
+    "anchor": "hinh-f_12",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_13).",
+    "anchor": "hinh-f_13",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.8 - Hệ số ce cho tường và mái của nhà có góc lõm của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.8 - Hệ số ce cho tường và mái của nhà có góc lõm (tcvn_2737_2023.md#bang-bang-f-8).",
+    "anchor": "bang-bang-f-8",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_14).",
+    "anchor": "hinh-f_14",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_15).",
+    "anchor": "hinh-f_15",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.9 - Hệ số ce cho mái che của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.9 - Hệ số ce cho mái che (tcvn_2737_2023.md#bang-bang-f-9).",
+    "anchor": "bang-bang-f-9",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_16).",
+    "anchor": "hinh-f_16",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_17).",
+    "anchor": "hinh-f_17",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_36 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_36 (tcvn_2737_2023.md#bang-bang-raw-36).",
+    "anchor": "bang-bang-raw-36",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_37 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_37 (tcvn_2737_2023.md#bang-bang-raw-37).",
+    "anchor": "bang-bang-raw-37",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_38 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_38 (tcvn_2737_2023.md#bang-bang-raw-38).",
+    "anchor": "bang-bang-raw-38",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_18).",
+    "anchor": "hinh-f_18",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_19).",
+    "anchor": "hinh-f_19",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.10 - Các giá trị βmin, βb, cmin và cb của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.10 - Các giá trị βmin, βb, cmin và cb (tcvn_2737_2023.md#bang-bang-f-10).",
+    "anchor": "bang-bang-f-10",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.11 - Các hệ số ce2 và ci của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.11 - Các hệ số ce2 và ci (tcvn_2737_2023.md#bang-bang-f-11).",
+    "anchor": "bang-bang-f-11",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_41 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_41 (tcvn_2737_2023.md#bang-bang-raw-41).",
+    "anchor": "bang-bang-raw-41",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_20).",
+    "anchor": "hinh-f_20",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_42 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_42 (tcvn_2737_2023.md#bang-bang-raw-42).",
+    "anchor": "bang-bang-raw-42",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_21).",
+    "anchor": "hinh-f_21",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_43 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_43 (tcvn_2737_2023.md#bang-bang-raw-43).",
+    "anchor": "bang-bang-raw-43",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_22).",
+    "anchor": "hinh-f_22",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.12 - Hệ số cx∞ cho tiết diện n góc và các cấu kiện kết cấu (dạng định hình) của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.12 - Hệ số cx∞ cho tiết diện n góc và các cấu kiện kết cấu (dạng định hình) (tcvn_2737_2023.md#bang-bang-f-12).",
+    "anchor": "bang-bang-f-12",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_45 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_45 (tcvn_2737_2023.md#bang-bang-raw-45).",
+    "anchor": "bang-bang-raw-45",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_23).",
+    "anchor": "hinh-f_23",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_24).",
+    "anchor": "hinh-f_24",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.13 - Hệ số η của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.13 - Hệ số η (tcvn_2737_2023.md#bang-bang-f-13).",
+    "anchor": "bang-bang-f-13",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_47 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_47 (tcvn_2737_2023.md#bang-bang-raw-47).",
+    "anchor": "bang-bang-raw-47",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_25).",
+    "anchor": "hinh-f_25",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.14 - Hệ số k1 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.14 - Hệ số k1 (tcvn_2737_2023.md#bang-bang-f-14).",
+    "anchor": "bang-bang-f-14",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_49 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_49 (tcvn_2737_2023.md#bang-bang-raw-49).",
+    "anchor": "bang-bang-raw-49",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_26).",
+    "anchor": "hinh-f_26",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-f_27).",
+    "anchor": "hinh-f_27",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.15 - Độ mảnh hiệu dụng λe của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.15 - Độ mảnh hiệu dụng λe (tcvn_2737_2023.md#bang-bang-f-15).",
+    "anchor": "bang-bang-f-15",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng F.16 - Độ nhám Δ của bề mặt kết cấu của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng F.16 - Độ nhám Δ của bề mặt kết cấu (tcvn_2737_2023.md#bang-bang-f-16).",
+    "anchor": "bang-bang-f-16",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại PHỤ LỤC G  (Quy định)  ĐỘ VÕNG VÀ CHUYỂN VỊ của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại PHỤ LỤC G  (Quy định)  ĐỘ VÕNG VÀ CHUYỂN VỊ (tcvn_2737_2023.md#phu-luc-g).",
+    "anchor": "phu-luc-g",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_52 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_52 (tcvn_2737_2023.md#bang-bang-raw-52).",
+    "anchor": "bang-bang-raw-52",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-g_1).",
+    "anchor": "hinh-g_1",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_53 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_53 (tcvn_2737_2023.md#bang-bang-raw-53).",
+    "anchor": "bang-bang-raw-53",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-g_2).",
+    "anchor": "hinh-g_2",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng G.1 - Độ võng đứng giới hạn fu và tải trọng tương ứng để xác định độ võng đứng f của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng G.1 - Độ võng đứng giới hạn fu và tải trọng tương ứng để xác định độ võng đứng f (tcvn_2737_2023.md#bang-bang-g-1).",
+    "anchor": "bang-bang-g-1",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng raw_55 của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng raw_55 (tcvn_2737_2023.md#bang-bang-raw-55).",
+    "anchor": "bang-bang-raw-55",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng G.2 - Các hệ số p, p1, n, b của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng G.2 - Các hệ số p, p1, n, b (tcvn_2737_2023.md#bang-bang-g-2).",
+    "anchor": "bang-bang-g-2",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng G.3 - Độ võng ngang giới hạn fμ của cột nhà có cầu trục, trụ cầu cạn, dầm đỡ cầu trục và kết cấu hãm của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng G.3 - Độ võng ngang giới hạn fμ của cột nhà có cầu trục, trụ cầu cạn, dầm đỡ cầu trục và kết cấu hãm (tcvn_2737_2023.md#bang-bang-g-3).",
+    "anchor": "bang-bang-g-3",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng G.4 - Độ võng đứng giới hạn fu và tải trọng tương ứng để xác định độ võng đứng f của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng G.4 - Độ võng đứng giới hạn fu và tải trọng tương ứng để xác định độ võng đứng f (tcvn_2737_2023.md#bang-bang-g-4).",
+    "anchor": "bang-bang-g-4",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng G.5 - Chuyển vị ngang giới hạn fu theo yêu cầu cấu tạo của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng G.5 - Chuyển vị ngang giới hạn fu theo yêu cầu cấu tạo (tcvn_2737_2023.md#bang-bang-g-5).",
+    "anchor": "bang-bang-g-5",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (tcvn_2737_2023.md#hinh-g_3).",
+    "anchor": "hinh-g_3",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại PHỤ LỤC H  (Quy định)  HỆ SỐ TẦM QUAN TRỌNG CỦA CÔNG TRÌNH của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại PHỤ LỤC H  (Quy định)  HỆ SỐ TẦM QUAN TRỌNG CỦA CÔNG TRÌNH (tcvn_2737_2023.md#phu-luc-h).",
+    "anchor": "phu-luc-h",
+    "source_file": "tcvn_2737_2023.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Bảng H.1 - Giá trị tối thiểu của hệ số tầm quan trọng γn của TCVN tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng H.1 - Giá trị tối thiểu của hệ số tầm quan trọng γn (tcvn_2737_2023.md#bang-bang-h-1).",
+    "anchor": "bang-bang-h-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   }

@@ -1,0 +1,166 @@
+[
+  {
+    "Khu vực": "Khu vực A: Khu vực ở",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "Khu vực A: Khu vực ở"
+  },
+  {
+    "Khu vực": "A1: Căn hộ nhà ở; phòng ngủ của trường mầm non và trại trẻ mồ côi; phòng ngủ của nhà nghỉ, nhà dưỡng lão, ký túc xá và khách sạn; phòng ngủ và nghỉ của bệnh viện và nhà nghỉ dưỡng; bếp và vệ sinh:",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": ""
+  },
+  {
+    "Khu vực": "a) Sàn",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "1,5"
+  },
+  {
+    "Khu vực": "b) Ban công, lô gia",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "2,0"
+  },
+  {
+    "Khu vực": "A2: Sảnh, phòng chờ, hành lang, cầu thang bộ (với các đường đi lại liên quan) thông với khu vực A1",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "3,0"
+  },
+  {
+    "Khu vực": "Khu vực B: Khu vực làm việc, văn phòng, kỹ thuật",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "Khu vực B: Khu vực làm việc, văn phòng, kỹ thuật"
+  },
+  {
+    "Khu vực": "B1: Phòng làm việc của trụ sở cơ quan, phòng làm việc cho người nghiên cứu khoa học; phòng sinh hoạt (phòng vệ sinh, phòng tắm, phòng để quần áo) của cơ sở công nghiệp và của nhà và công trình công cộng:",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": ""
+  },
+  {
+    "Khu vực": "a) Sàn",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "2,0"
+  },
+  {
+    "Khu vực": "b) Ban công, lô gia",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "2,5"
+  },
+  {
+    "Khu vực": "B2: Phòng làm việc và phòng thí nghiệm của cơ sở y tế; phòng thí nghiệm của cơ sở giáo dục, đào tạo, khoa học; phòng máy tính; khu bếp nhà công cộng; phòng của cơ sở dịch vụ đời sống (cắt tóc, xưởng mỹ thuật và tương tự):",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": ""
+  },
+  {
+    "Khu vực": "a) Sàn",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "2,0"
+  },
+  {
+    "Khu vực": "b) Ban công, lô gia",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "2,5"
+  },
+  {
+    "Khu vực": "B3: Gian phòng kỹ thuật",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "2,0"
+  },
+  {
+    "Khu vực": "B4: Sảnh, phòng chờ, hành lang, cầu thang bộ (với các đường đi lại liên quan) thông với các khu vực B1, B2 và B3",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "3,0"
+  },
+  {
+    "Khu vực": "B5: Các khu vực bảo dưỡng và sửa chữa thiết bị trong các phòng xưởng",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "1,5"
+  },
+  {
+    "Khu vực": "Khu vực C: Khu vực có thể tập trung dông người, trừ các khu vực A, B và D",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": ""
+  },
+  {
+    "Khu vực": "C1: Các khu vực có bàn và tương tự:",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": ""
+  },
+  {
+    "Khu vực": "C1.1  Phòng học của cơ sở giáo dục, lễ tân",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "2,0"
+  },
+  {
+    "Khu vực": "C1.2  Phòng đọc sách",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "2,0"
+  },
+  {
+    "Khu vực": "C1.3  Phòng ăn, ví dụ: trong quán cà phê, nhà hàng, nhà ăn",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "3,0"
+  },
+  {
+    "Khu vực": "C1.4  Sảnh, phòng chờ, hành lang, cầu thang bộ (với các đường đi lại liên quan) thông với các khu vực C1.1, C1.2 và C1.3",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "3,0"
+  },
+  {
+    "Khu vực": "C2: Các khu vực có ghế gắn cố định:",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": ""
+  },
+  {
+    "Khu vực": "C2.1  Rạp chiếu phim, rạp hát, nhà thờ, phòng hòa nhạc, phòng hội trường, phòng họp, phòng chờ",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "4,0"
+  },
+  {
+    "Khu vực": "C2.2  Sảnh, phòng chờ, hành lang, cầu thang bộ (với các đường đi lại liên quan) thông với khu vực C2.1",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "4,0"
+  },
+  {
+    "Khu vực": "C3: Khu vực người đi lại tự do, ví dụ: các khu vực trong nhà thờ, bảo tàng; các gian phòng triển lãm, các gian phòng trưng bày và tương tự, và các khu vực thông với chúng trong công trình công cộng, trụ sở cơ quan, khách sạn, bệnh viện; sân ga đường sắt; cầu vượt bộ hành sân ga",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "4,0"
+  },
+  {
+    "Khu vực": "C4: Khu vực người hoạt động nhiều, ví dụ: phòng khiêu vũ, phòng tập thể hình, phòng bida và các khu vực thông với chúng như sảnh, phòng chờ, hành lang, cầu thang bộ (với các đường đi lại liên quan)",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "4,0"
+  },
+  {
+    "Khu vực": "C5: Khu vực tập trung rất đông người C5.1  Khu vực có các sự kiện cộng đồng như: phòng hòa nhạc; phòng tập thể thao, khán đài; ban công và các phòng tập trung đông người thông với ban công; sân khấu; sân thượng; cầu vượt bộ hành tại sân ga đường sắt lớn; sân ga đường sắt lớn, tàu điện ngầm, tàu điện trên cao và tương tự; gian lánh nạn",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "5,0"
+  },
+  {
+    "Khu vực": "C5.2  Sảnh, phòng chờ, hành lang, cầu thang bộ (với các đường đi lại liên quan) thông với khu vực C5.1",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "5,0"
+  },
+  {
+    "Khu vực": "Khu vực D: Khu vực thương mại",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "Khu vực D: Khu vực thương mại"
+  },
+  {
+    "Khu vực": "D1: Khu vực cửa hàng kinh doanh bán lẻ",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "4,0"
+  },
+  {
+    "Khu vực": "D2: Khu vực bán hàng ở trung tâm thương mại, siêu thị và tương tự",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "5,0"
+  },
+  {
+    "Khu vực": "Khu vực H: Mái không sử dụng, chỉ có người đi lại sửa chữa",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "0,3"
+  },
+  {
+    "Khu vực": "Khu vực I: Mái có sử dụng",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": ""
+  },
+  {
+    "Khu vực": "I1: Những chỗ tập trung đông người (đi từ các phòng xưởng, phòng họp lớn, phòng hội trường và tương tự)",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "4,0"
+  },
+  {
+    "Khu vực": "I2: Những chỗ nghỉ ngơi",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "1,5"
+  },
+  {
+    "Khu vực": "I3: Những chỗ khác",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "0,7"
+  },
+  {
+    "Khu vực": "Khu vực L: Khu vực chăn nuôi",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": ""
+  },
+  {
+    "Khu vực": "L1: Khu vực chăn nuôi gia súc nhỏ",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "2,0 1)"
+  },
+  {
+    "Khu vực": "L2: Khu vực chăn nuôi gia súc lớn",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "5,0 1)"
+  },
+  {
+    "Khu vực": "1) Tải trọng cho các khu vực này lấy theo nhiệm vụ thiết kế trên cơ sở giải pháp công nghệ, nhưng không nhỏ hơn các giá trị nêu tại các khu vực L1 và 12.",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "1) Tải trọng cho các khu vực này lấy theo nhiệm vụ thiết kế trên cơ sở giải pháp công nghệ, nhưng không nhỏ hơn các giá trị nêu tại các khu vực L1 và 12."
+  },
+  {
+    "Khu vực": "CHÚ THÍCH 1: Riêng cầu thang bộ và tiền sảnh (trước cửa ra vào chính) của nhà ở và tổ hợp cao trên 75 m; công trình công cộng cao trên 50 m và nhà đa năng (mà trong đó các gian phòng có công năng công cộng được bố trí ở độ cao trên 50 m) thì qk,t lấy không nhỏ hơn 5,0 kN/m2. CHÚ THÍCH 2: Riêng sảnh, phòng chờ, hành lang tầng 1 của các nhà và công trình nêu tại CHÚ THÍCH 1 thì qk,t lấy không nhỏ hơn 4,0 kN/m2. CHÚ THÍCH 3: Khi thiết kế các gian phòng khiêu vũ, sân khấu nhà hát và khán đài công trình thể thao thì phải kể đến tác dụng động của tải trọng với tần số bằng 2 Hz và biên độ bằng 1,7 kPa. Giá trị hệ số động lực, cũng như diện tích tác dụng được quy định trong các tiêu chuẩn về thiết kế hoặc trong nhiệm vụ thiết kế.",
+    "Giá trị qk,t , kN/m2, không nhỏ hơn": "CHÚ THÍCH 1: Riêng cầu thang bộ và tiền sảnh (trước cửa ra vào chính) của nhà ở và tổ hợp cao trên 75 m; công trình công cộng cao trên 50 m và nhà đa năng (mà trong đó các gian phòng có công năng công cộng được bố trí ở độ cao trên 50 m) thì qk,t lấy không nhỏ hơn 5,0 kN/m2. CHÚ THÍCH 2: Riêng sảnh, phòng chờ, hành lang tầng 1 của các nhà và công trình nêu tại CHÚ THÍCH 1 thì qk,t lấy không nhỏ hơn 4,0 kN/m2. CHÚ THÍCH 3: Khi thiết kế các gian phòng khiêu vũ, sân khấu nhà hát và khán đài công trình thể thao thì phải kể đến tác dụng động của tải trọng với tần số bằng 2 Hz và biên độ bằng 1,7 kPa. Giá trị hệ số động lực, cũng như diện tích tác dụng được quy định trong các tiêu chuẩn về thiết kế hoặc trong nhiệm vụ thiết kế."
+  }
+]

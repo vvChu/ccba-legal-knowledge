@@ -1,0 +1,23 @@
+[
+  {
+    "Các khu vực (theo Bảng 4)": "1. Các khu vực A, B (trừ phòng sinh hoạt ở khu B1); những chỗ nghỉ ngơi thuộc khu vực I2)",
+    "p, kN/m2": "0,25",
+    "p1, kN/m2": "Lấy bằng qk,qper theo 8.3.3",
+    "n, Hz": "1,5",
+    "b": ""
+  },
+  {
+    "Các khu vực (theo Bảng 4)": "2. Phòng học thuộc khu vực C1.1 và phòng sinh hoạt thuộc khu vực B1; Các khu vực C (trừ phòng khiêu vũ thuộc khu vực C4) và D; Những chỗ tập trung đông người thuộc khu vực I1",
+    "p, kN/m2": "0,50",
+    "p1, kN/m2": "Lấy bằng qk,qper theo 8.3.3",
+    "n, Hz": "1,5",
+    "b": ""
+  },
+  {
+    "Các khu vực (theo Bảng 4)": "Các ký hiệu trong bảng: Q là trọng lượng của một người, lấy bằng 0,8 kN. α là hệ số, lấy bằng: 1,0 - đối với cấu kiện tính theo sơ đồ dầm; 0,6 - đối với các cấu kiện còn lại (ví dụ, khi bản sàn kê ba hoặc bốn cạnh). a là bước dầm, xà; chiều rộng bản sàn (tấm), tính bằng mét (m). L là nhịp tính toán của cấu kiện kết cấu, tính bằng mét (m).",
+    "p, kN/m2": "Các ký hiệu trong bảng: Q là trọng lượng của một người, lấy bằng 0,8 kN. α là hệ số, lấy bằng: 1,0 - đối với cấu kiện tính theo sơ đồ dầm; 0,6 - đối với các cấu kiện còn lại (ví dụ, khi bản sàn kê ba hoặc bốn cạnh). a là bước dầm, xà; chiều rộng bản sàn (tấm), tính bằng mét (m). L là nhịp tính toán của cấu kiện kết cấu, tính bằng mét (m).",
+    "p1, kN/m2": "Các ký hiệu trong bảng: Q là trọng lượng của một người, lấy bằng 0,8 kN. α là hệ số, lấy bằng: 1,0 - đối với cấu kiện tính theo sơ đồ dầm; 0,6 - đối với các cấu kiện còn lại (ví dụ, khi bản sàn kê ba hoặc bốn cạnh). a là bước dầm, xà; chiều rộng bản sàn (tấm), tính bằng mét (m). L là nhịp tính toán của cấu kiện kết cấu, tính bằng mét (m).",
+    "n, Hz": "Các ký hiệu trong bảng: Q là trọng lượng của một người, lấy bằng 0,8 kN. α là hệ số, lấy bằng: 1,0 - đối với cấu kiện tính theo sơ đồ dầm; 0,6 - đối với các cấu kiện còn lại (ví dụ, khi bản sàn kê ba hoặc bốn cạnh). a là bước dầm, xà; chiều rộng bản sàn (tấm), tính bằng mét (m). L là nhịp tính toán của cấu kiện kết cấu, tính bằng mét (m).",
+    "b": "Các ký hiệu trong bảng: Q là trọng lượng của một người, lấy bằng 0,8 kN. α là hệ số, lấy bằng: 1,0 - đối với cấu kiện tính theo sơ đồ dầm; 0,6 - đối với các cấu kiện còn lại (ví dụ, khi bản sàn kê ba hoặc bốn cạnh). a là bước dầm, xà; chiều rộng bản sàn (tấm), tính bằng mét (m). L là nhịp tính toán của cấu kiện kết cấu, tính bằng mét (m)."
+  }
+]

@@ -1,44 +1,23 @@
-{
-  "table_id": "bang_10",
-  "rows_count": 9,
-  "columns_count": 2,
-  "headers": [
-    "Thiết bị và vật liệu",
-    "Giá trị γf"
-  ],
-  "records": [
-    {
-      "Thiết bị và vật liệu": "1. Thiết bị cố định",
-      "Giá trị γf": "1,05"
-    },
-    {
-      "Thiết bị và vật liệu": "2. Lớp ngăn cách của thiết bị cố định",
-      "Giá trị γf": "1,2"
-    },
-    {
-      "Thiết bị và vật liệu": "3. Các chất chứa trong thiết bị (trong đó có bể chứa và đường ống):",
-      "Giá trị γf": ""
-    },
-    {
-      "Thiết bị và vật liệu": "a) Chất lỏng",
-      "Giá trị γf": "1,0"
-    },
-    {
-      "Thiết bị và vật liệu": "b) Chất huyền phù, chất cặn, vật liệu rời",
-      "Giá trị γf": "1,1"
-    },
-    {
-      "Thiết bị và vật liệu": "4. Xe bốc xếp và xe điện nâng chuyển di động (gồm cả vật bốc xếp và di chuyển)",
-      "Giá trị γf": "1,2"
-    },
-    {
-      "Thiết bị và vật liệu": "5. Vật liệu và sản phẩm chất kho",
-      "Giá trị γf": "1,2"
-    },
-    {
-      "Thiết bị và vật liệu": "6. Kho sách, kho lưu trữ",
-      "Giá trị γf": "1,2"
-    }
-  ],
-  "footnotes": []
-}
+[
+  {
+    "Dạng địa hình": "A",
+    "cr": "0,15",
+    ", m": "198,12",
+    "": "0,80",
+    "ᾱ": "1/9"
+  },
+  {
+    "Dạng địa hình": "B",
+    "cr": "0,20",
+    ", m": "152,40",
+    "": "0,65",
+    "ᾱ": "1/6,5"
+  },
+  {
+    "Dạng địa hình": "C",
+    "cr": "0,30",
+    ", m": "97,54",
+    "": "0,45",
+    "ᾱ": "1/4"
+  }
+]

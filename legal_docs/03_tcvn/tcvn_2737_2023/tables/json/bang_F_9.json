@@ -1,0 +1,72 @@
+[
+  {
+    "Loại sơ đồ": "Loại sơ đồ",
+    "α,°": "α,°",
+    "Giá trị ce": "ce4"
+  },
+  {
+    "Loại sơ đồ": "I",
+    "α,°": "10",
+    "Giá trị ce": "0,0"
+  },
+  {
+    "Loại sơ đồ": "I",
+    "α,°": "20",
+    "Giá trị ce": "-0,4"
+  },
+  {
+    "Loại sơ đồ": "I",
+    "α,°": "30",
+    "Giá trị ce": "0,0"
+  },
+  {
+    "Loại sơ đồ": "II",
+    "α,°": "10",
+    "Giá trị ce": "0,0"
+  },
+  {
+    "Loại sơ đồ": "II",
+    "α,°": "20",
+    "Giá trị ce": "0,0"
+  },
+  {
+    "Loại sơ đồ": "II",
+    "α,°": "30",
+    "Giá trị ce": "0,4"
+  },
+  {
+    "Loại sơ đồ": "III",
+    "α,°": "10",
+    "Giá trị ce": "-"
+  },
+  {
+    "Loại sơ đồ": "III",
+    "α,°": "20",
+    "Giá trị ce": "-"
+  },
+  {
+    "Loại sơ đồ": "III",
+    "α,°": "30",
+    "Giá trị ce": "-"
+  },
+  {
+    "Loại sơ đồ": "IV",
+    "α,°": "10",
+    "Giá trị ce": "-"
+  },
+  {
+    "Loại sơ đồ": "IV",
+    "α,°": "20",
+    "Giá trị ce": "-"
+  },
+  {
+    "Loại sơ đồ": "IV",
+    "α,°": "30",
+    "Giá trị ce": "-"
+  },
+  {
+    "Loại sơ đồ": "CHÚ THÍCH 1: Đối với các giá trị âm của ce1, ce2, ce3, ce4, hướng áp lực trên các sơ đồ cần được thay thế ngược lại. CHÚ THÍCH 2: Đối với mái che lượn sóng, hệ số khí động ma sát cf = 0,04. CHÚ THÍCH 3: Đối với mái che nằm ngang, phải xét hai phương án chất tải ứng với các sơ đồ III và IV với α = 10°.",
+    "α,°": "CHÚ THÍCH 1: Đối với các giá trị âm của ce1, ce2, ce3, ce4, hướng áp lực trên các sơ đồ cần được thay thế ngược lại. CHÚ THÍCH 2: Đối với mái che lượn sóng, hệ số khí động ma sát cf = 0,04. CHÚ THÍCH 3: Đối với mái che nằm ngang, phải xét hai phương án chất tải ứng với các sơ đồ III và IV với α = 10°.",
+    "Giá trị ce": "CHÚ THÍCH 1: Đối với các giá trị âm của ce1, ce2, ce3, ce4, hướng áp lực trên các sơ đồ cần được thay thế ngược lại. CHÚ THÍCH 2: Đối với mái che lượn sóng, hệ số khí động ma sát cf = 0,04. CHÚ THÍCH 3: Đối với mái che nằm ngang, phải xét hai phương án chất tải ứng với các sơ đồ III và IV với α = 10°."
+  }
+]
