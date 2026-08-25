@@ -195,37 +195,32 @@ b là cạnh vuông góc hướng gió</em></p>
 
 <a id="bang-bang-f-3a"></a>
 
-**Bảng F.3a — Hệ số khí động áp lực ngoài ce cho mái dốc một phía khi góc hướng gió $\theta$ = 0° và θ = 180°**
+**Bảng F.3a — Hệ số khí động áp lực ngoài $c_e$ cho mái dốc một phía khi góc hướng gió $\theta = 0^\circ$ và $\theta = 180^\circ$**
 
-| Góc dốc α, ° | Góc hướng gió θ = 0° | Góc hướng gió θ = 180° |
-| :---: | :--- | :--- |
-| Góc dốc α, ° | Vùng |  |
-| Góc dốc α, ° | F | G |
-| 5 | - 1,7 | - 1,2 |
-| 5 | + 0,0 | - 2,3 |
-| 15 | - 0,9 | - 0,8 |
-| 15 | + 0,2 | - 2,5 |
-| 30 | - 0,5 | - 0,2 |
-| 30 | + 0,7 | + 0,4 |
-| 45 | - 0,0 | - 0,6 |
-| 45 | + 0,7 | + 0,6 |
-| 60 | + 0,7 | - 0,5 |
-| 75 | + 0,8 | - 0,5 |
-| CHÚ THÍCH 1: Khi θ = 0°, áp lực thay đổi nhanh giữa các giá trị âm và dương khi góc dốc + 5° ≤ α ≤ + 45°, do đó cả hai giá trị âm và dương đều được nêu trong bảng này. Đối với mái này, cần xét hai trường hợp: một là với tất cả các giá trị dương và hai là với tất cả các giá trị âm. Không được xét đồng thời giá trị âm và dương trên cùng một mặt.<br>CHÚ THÍCH 2: Sử dụng phương pháp nội suy tuyến tính cho các góc dốc trung gian nằm giữa các giá trị cùng dấu. Các giá trị bằng 0,0 dùng để nội suy tuyến tính. |  |  |
+| Góc dốc $\alpha$ (°) | Hướng gió $\theta = 0^\circ$<br>(Vùng F) | Hướng gió $\theta = 0^\circ$<br>(Vùng G) | Hướng gió $\theta = 0^\circ$<br>(Vùng H) | Hướng gió $\theta = 180^\circ$<br>(Vùng F) | Hướng gió $\theta = 180^\circ$<br>(Vùng G) | Hướng gió $\theta = 180^\circ$<br>(Vùng H) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 5 | - 1,7<br>+ 0,0 | - 1,2<br>+ 0,0 | - 0,6<br>+ 0,0 | - 2,3 | - 1,3 | - 0,8 |
+| 15 | - 0,9<br>+ 0,2 | - 0,8<br>+ 0,2 | - 0,3<br>+ 0,2 | - 2,5 | - 1,3 | - 0,9 |
+| 30 | - 0,5<br>+ 0,7 | - 0,5<br>+ 0,7 | - 0,2<br>+ 0,4 | - 1,1 | - 0,8 | - 0,8 |
+| 45 | - 0,0<br>+ 0,7 | - 0,0<br>+ 0,7 | - 0,0<br>+ 0,6 | - 0,6 | - 0,5 | - 0,7 |
+| 60 | + 0,7 | + 0,7 | + 0,7 | - 0,5 | - 0,5 | - 0,5 |
+| 75 | + 0,8 | + 0,8 | + 0,8 | - 0,5 | - 0,5 | - 0,5 |
+
+**CHÚ THÍCH 1:** Khi $\theta = 0^\circ$, áp lực thay đổi nhanh giữa các giá trị âm và dương khi góc dốc $+ 5^\circ \le \alpha \le + 45^\circ$, do đó cả hai giá trị âm và dương đều được nêu trong bảng này. Đối với mái này, cần xét hai trường hợp: một là với tất cả các giá trị dương và hai là với tất cả các giá trị âm. Không được xét đồng thời giá trị âm và dương trên cùng một mặt.  
+**CHÚ THÍCH 2:** Sử dụng phương pháp nội suy tuyến tính cho các góc dốc trung gian nằm giữa các giá trị cùng dấu. Các giá trị bằng 0,0 dùng để nội suy tuyến tính.
 
 <a id="bang-bang-f-3b"></a>
 
-**Bảng F.3b — Hệ số khí động áp lực ngoài ce cho mái dốc một phía khi góc hướng gió $\theta$ = 90°**
+**Bảng F.3b — Hệ số khí động áp lực ngoài $c_e$ cho mái dốc một phía khi góc hướng gió $\theta = 90^\circ$**
 
-| Góc dốc α, ° | Vùng |
-| :---: | :--- |
-| Góc dốc α, ° | Fup |
-| 5 | - 2,1 |
-| 15 | - 2,4 |
-| 30 | - 2,1 |
-| 45 | - 1,5 |
-| 60 | - 1,2 |
-| 75 | - 1,2 |
+| Góc dốc $\alpha$ (°) | Vùng $F_{up}$ | Vùng $F_{low}$ | Vùng G | Vùng H | Vùng I |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 5 | - 2,1 | - 2,1 | - 1,8 | - 0,6 | - 0,5 |
+| 15 | - 2,4 | - 1,6 | - 1,9 | - 0,8 | - 0,7 |
+| 30 | - 2,1 | - 1,3 | - 1,5 | - 1,0 | - 0,8 |
+| 45 | - 1,5 | - 1,3 | - 1,4 | - 1,0 | - 0,9 |
+| 60 | - 1,2 | - 1,2 | - 1,2 | - 1,0 | - 0,7 |
+| 75 | - 1,2 | - 1,2 | - 1,2 | - 1,0 | - 0,5 |
 
 ### F.4  Nhà mái dốc hai phía có mặt bằng hình chữ nhật
 
