@@ -187,13 +187,31 @@ b) Góc hướng gió θ = 0° và θ = 180°
 c) Góc hướng gió θ = 90°
 
 
-<a id="hinh-f_4"></a>
+<p align="center">
+
+![Hình F.4a](../figures/images/hinh_f_4a.png)
+
+</p>
+
+<p align="center"><strong>a) Sơ đồ chung</strong></p>
 
 <p align="center">
 
-![Hình F.4](../figures/images/hinh_f_4.png)
+![Hình F.4b](../figures/images/hinh_f_4b.png)
 
 </p>
+
+<p align="center"><strong>b) Góc hướng gió $\theta = 0^\circ$ và $\theta = 180^\circ$</strong></p>
+
+<p align="center">
+
+![Hình F.4c](../figures/images/hinh_f_4c.png)
+
+</p>
+
+<p align="center"><strong>c) Góc hướng gió $\theta = 90^\circ$</strong></p>
+
+<a id="hinh-f_4"></a>
 
 <p align="center"><strong>Hình F.4 — Mái dốc một phía</strong></p>
 
@@ -341,13 +359,31 @@ CHÚ DẪN:
 2 - Phía hút gió.
 
 
-<a id="hinh-f_6"></a>
+<p align="center">
+
+![Hình F.6a](../figures/images/hinh_f_6a.png)
+
+</p>
+
+<p align="center"><strong>a) Sơ đồ chung</strong></p>
 
 <p align="center">
 
-![Hình F.6](../figures/images/hinh_f_6.png)
+![Hình F.6b](../figures/images/hinh_f_6b.png)
 
 </p>
+
+<p align="center"><strong>b) Góc hướng gió $\theta = 0^\circ \quad e = \min(b, 2h)$</strong></p>
+
+<p align="center">
+
+![Hình F.6c](../figures/images/hinh_f_6c.png)
+
+</p>
+
+<p align="center"><strong>c) Góc hướng gió $\theta = 90^\circ$</strong></p>
+
+<a id="hinh-f_6"></a>
 
 <p align="center"><strong>Hình F.6 — Mái dốc hai phía của nhà có mặt bằng chữ nhật</strong></p>
 
@@ -591,13 +627,23 @@ b) Nhà có chiều cao thay đổi
 CHÚ DẪN: 1 - Tường chắn gió
 
 
-<a id="hinh-f_10"></a>
+<p align="center">
+
+![Hình F.10a](../figures/images/hinh_f_10a.png)
+
+</p>
+
+<p align="center"><strong>a) Nhà có cửa trời dọc nhà</strong></p>
 
 <p align="center">
 
-![Hình F.10](../figures/images/hinh_f_10.png)
+![Hình F.10b](../figures/images/hinh_f_10b.png)
 
 </p>
+
+<p align="center"><strong>b) Nhà có chiều cao thay đổi</strong></p>
+
+<a id="hinh-f_10"></a>
 
 <p align="center"><strong>Hình F.10 — Nhà có cửa trời dọc nhà và nhà có chiều cao thay đổi</strong></p>
 
