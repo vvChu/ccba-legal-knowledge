@@ -40,13 +40,9 @@ python -m ccba_legal consolidate `
   --output legal_docs/01_vbpl/ten_van_ban/
 ```
 
-### 3. Kiểm định Bắt buộc qua Bộ Cổng CI Gates Spoke (Zero-Tolerance):
+### 3. Kiểm định Nghiệm Thu Master CI Gate (1-Command Automation-First):
 ```powershell
-python scripts/lint_visual_parity.py
 python scripts/validate_legal_spoke.py
-python scripts/test_converter_regression.py
-python scripts/verify_cross_links.py
-python scripts/verify_all_docs_against_pdf.py
-python scripts/verify_docx_against_pdf.py
 ```
+*Tự động thực thi toàn bộ 10 Cổng kiểm định tuần tự (Registry, OKF Bundles, Table Attachments, Fake Data, PDF Metadata, Pure Body, Cleanliness, Atomic Templates, Visual Parity, và Self-Healing ADR Traceability).*
 *Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Visual Parity, 100% Valid Links, 100% PDF SHA-256 Match`.

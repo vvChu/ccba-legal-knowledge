@@ -1,0 +1,14 @@
+﻿"Góc dốc α, °",Góc hướng gió θ = 0°,Góc hướng gió θ = 180°
+"Góc dốc α, °",Vùng
+"Góc dốc α, °",F,G,H,F,G,H
+5,"- 1,7","- 1,2","- 0,6","- 2,3","- 1,3","- 0,8"
+5,"+ 0,0","- 2,3","- 1,3","- 0,8"
+15,"- 0,9","- 0,8","- 0,3","- 2,5","- 1,3","- 0,9"
+15,"+ 0,2","- 2,5","- 1,3","- 0,9"
+30,"- 0,5","- 0,2","-1,1","-0,8"
+30,"+ 0,7","+ 0,4","-1,1","-0,8"
+45,"- 0,0","- 0,6","- 0,5","- 0,7"
+45,"+ 0,7","+ 0,6","- 0,6","- 0,5","- 0,7"
+60,"+ 0,7","- 0,5"
+75,"+ 0,8","- 0,5"
+"CHÚ THÍCH 1: Khi θ = 0°, áp lực thay đổi nhanh giữa các giá trị âm và dương khi góc dốc + 5° ≤ α ≤ + 45°, do đó cả hai giá trị âm và dương đều được nêu trong bảng này. Đối với mái này, cần xét hai trường hợp: một là với tất cả các giá trị dương và hai là với tất cả các giá trị âm. Không được xét đồng thời giá trị âm và dương trên cùng một mặt. CHÚ THÍCH 2: Sử dụng phương pháp nội suy tuyến tính cho các góc dốc trung gian nằm giữa các giá trị cùng dấu. Các giá trị bằng 0,0 dùng để nội suy tuyến tính."

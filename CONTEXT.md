@@ -102,6 +102,19 @@ Tài liệu này là Từ điển Thuật ngữ miền nghiệp vụ (Ubiquitous
 - **Cổng Kiểm Định Nguồn Gốc Nghiêm Ngặt (Strict Provenance Enactment Gate - ADR 0025):** Rào chắn CI Gate tự động từ chối và chặn đứng mọi văn bản quy phạm pháp luật nạp vào hệ thống nếu thiếu tệp nguồn nhị phân gốc (`.docx`/`.pdf`) hoặc mã băm SHA-256 đối soát từ các cơ quan ban hành chính thức.
 - **Phân Phối Tri Thức Qua Gói SDK (Package-Based Knowledge Distribution - ADR 0026):** Mô hình kiến trúc phân định Producer-Consumer giữa Spoke Tri thức (chuyên sản xuất, chuẩn hóa và kiểm định dữ liệu OKF v2.2) và Hub Nền tảng (đóng gói Python Package `ccba-legal-intel` cung cấp API kiểu an toàn cho các downstream agents).
 
+---
+
+## 5. Thuật ngữ Quản trị Hành vi Agent (Agent Behavior Governance — ADR 0032)
+
+- **Cổng Tra Cứu Catalog (Catalog Query Gate - ADR 0032):** Cơ chế cưỡng chế Reuse-First hai lớp, verify-based, được kích hoạt tự động khi agent chuẩn bị tạo code mới liên quan đến Hub capabilities. Chuyển từ mô hình trust-based (agent tự cam kết) sang verify-based (hệ thống kiểm chứng hành động thực tế).
+- **Cổng Lập Kế Hoạch (Planning Gate):** Lớp 1 của Catalog Query Gate — kích hoạt một lần duy nhất khi agent nhận yêu cầu và chuẩn bị lập `implementation_plan.md`, bảo vệ *ý định* của agent ngay từ đầu luồng. Output bắt buộc được trích dẫn tường minh trong Implementation Plan.
+- **Cổng Tiền Thực Thi (Pre-execution Gate):** Lớp 2 của Catalog Query Gate — kích hoạt ngay trước khi agent tạo file `.py` mới có chứa capability keywords (`fetch`, `crawl`, `convert`, `formula`, `harvest`, `embed`, `registry`...), bảo vệ *hành động thực tế* và chặn drift xảy ra giữa chừng khi thực thi.
+- **Từ Khóa Năng Lực (Capability Keywords):** Tập hợp từ khóa Python được phân nhóm theo Hub capability (`fetch_group`, `convert_group`, `formula_group`, `registry_group`, `rag_group`) dùng làm trigger tự động cho Pre-execution Gate. Agent phải scan intent của code sắp viết so với danh sách này trước khi tạo file mới.
+- **Ngoại Lệ Có Biên Bản (BYPASS):** Trạng thái kết quả của Catalog Query Gate khi agent xác định Hub tool đã tồn tại nhưng không đáp ứng đủ scope hiện tại. Agent được phép tiếp tục nhưng **bắt buộc** ghi lý do vào `.md/logs/catalog_gate_audit.jsonl`. BYPASS không yêu cầu phê duyệt người dùng nhưng tạo Bypass Debt.
+- **Nợ Ngoại Lệ (Bypass Debt):** Số lần BYPASS tích lũy theo thời gian — chỉ số đo mức độ Hub catalog còn thiếu so với nhu cầu thực tế của agent. Bypass Debt > 5 là tín hiệu cần mở rộng Hub catalog, không phải tín hiệu agent sai.
+- **Tỷ Lệ Kích Hoạt Cổng (Hit Rate):** Tỷ lệ `(PASS + BLOCK) / total_ops` — đo xem Gate có đang được agent thực sự chạy không. Hit Rate < 80% là dấu hiệu Gate bị bỏ qua.
+- **Tỷ Lệ Chặn (Block Rate):** Tỷ lệ `BLOCK / (PASS + BLOCK)` — đo tần suất agent drift khỏi Hub tools. Block Rate > 20% là dấu hiệu agent đang có xu hướng tái tạo code đã có sẵn trong Hub.
+
 
 
 

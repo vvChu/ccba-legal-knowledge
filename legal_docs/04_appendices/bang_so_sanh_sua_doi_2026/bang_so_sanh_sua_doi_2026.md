@@ -1,3 +1,33 @@
+---
+okf_version: '2.2'
+type: legal_comparative_matrix
+title: Bảng So sánh Đối chiếu Sửa đổi 01:2026 QCVN 04:2021/BXD (Thông tư 31/2026/TT-BXD)
+description: Tài liệu Phụ lục đối chiếu quy định chính quy trong hệ thống tri thức
+  xây dựng CCBA.
+tags:
+- xay_dung
+- phap_ly
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/04_appendices/bang_so_sanh_sua_doi_2026/bang_so_sanh_sua_doi_2026.md
+id: bang_so_sanh_sua_doi_2026
+doc_id: bang_so_sanh_sua_doi_2026
+document_number: APPENDIX-SD-2026-QCVN-04
+document_type: Phụ lục đối chiếu
+issued_by: CCBA Legal Research Group
+signer: ''
+issued_date: '2026-06-15'
+effective_date: '2026-12-15'
+status: active
+pdf_anchor:
+  path: ./bang_so_sanh_sua_doi_2026.pdf
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: QCVN 04:2021/BXD
+  relation_type: compares
+- target_id: 31/2026/TT-BXD
+  relation_type: compares
+---
+
 # BẢNG SO SÁNH ĐỐI CHIẾU SỬA ĐỔI 01:2026 QCVN 04:2021/BXD
 
 *(Căn cứ Thông tư 31/2026/TT-BXD ngày 15/06/2026 của Bộ Xây dựng — Hiệu lực thi hành từ ngày 15/12/2026)*

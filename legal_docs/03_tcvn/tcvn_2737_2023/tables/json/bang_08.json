@@ -1,0 +1,52 @@
+{
+  "table_id": "bang_08",
+  "rows_count": 11,
+  "columns_count": 2,
+  "headers": [
+    "Kết cấu công trình và loại đất",
+    "Giá trị γf"
+  ],
+  "records": [
+    {
+      "Kết cấu công trình và loại đất": "1. Kết cấu",
+      "Giá trị γf": ""
+    },
+    {
+      "Kết cấu công trình và loại đất": "a) Kim loại, trừ trường hợp nêu trong 7.3",
+      "Giá trị γf": "1,05"
+    },
+    {
+      "Kết cấu công trình và loại đất": "b) Bê tông (có khối lượng thể tích trung bình lớn hơn 1 600 kg/m3), bê tông cốt thép, khối xây, gỗ",
+      "Giá trị γf": "1,1"
+    },
+    {
+      "Kết cấu công trình và loại đất": "c) Bê tông (có khối lượng thể tích nhỏ hơn hoặc bằng 1 600 kg/m3), các lớp ngăn cách, lớp căn phẳng, lớp hoàn thiện (bản, vật liệu cuộn, độn, lớp láng phẳng và tương tự), được sản xuất, chế tạo:",
+      "Giá trị γf": ""
+    },
+    {
+      "Kết cấu công trình và loại đất": "- Trong nhà máy",
+      "Giá trị γf": "1,2"
+    },
+    {
+      "Kết cấu công trình và loại đất": "- Ngoài công trường",
+      "Giá trị γf": "1,3"
+    },
+    {
+      "Kết cấu công trình và loại đất": "2. Đất",
+      "Giá trị γf": ""
+    },
+    {
+      "Kết cấu công trình và loại đất": "a) Nguyên thổ",
+      "Giá trị γf": "1,1"
+    },
+    {
+      "Kết cấu công trình và loại đất": "b) Đắp",
+      "Giá trị γf": "1,15"
+    },
+    {
+      "Kết cấu công trình và loại đất": "CHÚ THÍCH: Khi xác định tải trọng do đất, cần kể đến tải trọng do vật liệu chất đống, thiết bị, phương tiện giao thông truyền lên đất.",
+      "Giá trị γf": ""
+    }
+  ],
+  "footnotes": []
+}

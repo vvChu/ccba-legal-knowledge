@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_36",
+  "rows_count": 6,
+  "columns_count": 2,
+  "headers": [
+    "Vật liệu",
+    "Giá trị"
+  ],
+  "records": [
+    {
+      "Vật liệu": "1. Nhôm",
+      "Giá trị": "27,0"
+    },
+    {
+      "Vật liệu": "2. Thép",
+      "Giá trị": "78,5"
+    },
+    {
+      "Vật liệu": "3. Bê tông nặng không có cốt thép",
+      "Giá trị": "24,0"
+    },
+    {
+      "Vật liệu": "4. Bê tông nặng có cốt thép",
+      "Giá trị": "25,0"
+    },
+    {
+      "Vật liệu": "5. Kính tấm",
+      "Giá trị": "25,0"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,41 +1,35 @@
 ---
-id: "nghi_dinh_193_2026_nd_cp"
-document_number: "193/2026/NĐ-CP"
-title: "Nghị định 193/2026/NĐ-CP về Quyết toán vốn đầu tư dự án"
-issued_by: "Chính phủ"
-signer: "Đang cập nhật"
-issued_date: "2026-06-25"
-effective_date: "2026-07-01"
-status: "active"
-pdf_anchor: "./nghi_dinh_193_2026_nd_cp.pdf"
-legal_basis:
-- doc_id: luật_tổ_chức_chính_phủ_số_63_2025_qh15
-  title: Luật Tổ chức Chính phủ số 63/2025/QH15
-- doc_id: luật_ban_hành_văn_bản_quy_phạm_pháp_luật_số_64_202
-  title: Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ
-    sung bởi Luật số 87/2025/QH15
-- doc_id: Luat-Xay-dung-2025-135-2025-QH15
-  title: Luật Xây dựng số 135/2025/QH15
-- doc_id: luật_ngân_sách_nhà_nước_số_89_2025_qh15_được_sửa_đ
-  title: Luật Ngân sách nhà nước số 89/2025/QH15 được sửa đổi, bổ sung bởi Luật số
-    145/2025/QH15
-- doc_id: luật_đầu_tư_công_số_58_2024_qh15_được_sửa_đổi_bổ_s
-  title: Luật Đầu tư công số 58/2024/QH15 được sửa đổi, bổ sung bởi Luật số 90/2025/QH15
-- doc_id: luật_đất_đai_số_31_2024_qh15
-  title: Luật Đất đai số 31/2024/QH15
-- doc_id: luật_đấu_thầu_số_22_2023_qh15_được_sửa_đổi_bổ_sung
-  title: Luật Đấu thầu số 22/2023/QH15 được sửa đổi, bổ sung bởi Luật số 57/2024/QH15
-    và Luật số 90/2025/QH15
-- doc_id: luật_bảo_vệ_bí_mật_nhà_nước_số_117_2025_qh15
-  title: Luật Bảo vệ bí mật nhà nước số 117/2025/QH15
-- doc_id: luật_quy_hoạch_số_112_2025_qh15
-  title: Luật Quy hoạch số 112/2025/QH15
-- doc_id: luật_quản_lý_nợ_công_số_20_2017_qh14_được_sửa_đổi_
-  title: Luật Quản lý nợ công số 20/2017/QH14 được sửa đổi, bổ sung bởi Luật số 90/2025/QH15
-    và Luật số 141/2025/QH15
-- doc_id: luật_cơ_quan_đại_diện_nước_cộng_hòa_xã_hội_chủ_ngh
-  title: Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài
-    số 33/2009/QH12 được sửa đổi, bổ sung bởi Luật số 19/2017/QH14
+okf_version: '2.2'
+type: legal_normative_body
+title: Nghị định 193/2026/NĐ-CP về Quyết toán vốn đầu tư dự án
+description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng
+  CCBA.
+tags:
+- dau_tu_xay_dung
+- nghi_dinh
+- vbpl
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/nghi_dinh_193_2026_nd_cp/nghi_dinh_193_2026_nd_cp.md
+id: nghi_dinh_193_2026_nd_cp
+doc_id: nghi_dinh_193_2026_nd_cp
+document_number: 193/2026/NĐ-CP
+document_type: Nghị định
+issued_by: Chính phủ
+signer: Đang cập nhật
+issued_date: '2026-06-25'
+effective_date: '2026-07-01'
+status: active
+pdf_anchor:
+  path: ./nghi_dinh_193_2026_nd_cp.pdf
+  sha256: a0a064fc9401ed4cc860100b171adad3258219086b3563abd37b3a8806630a4e
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: Luat-Xay-dung-2025-135-2025-QH15
+  relation_type: guided_by
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 193/2026/NĐ-CP

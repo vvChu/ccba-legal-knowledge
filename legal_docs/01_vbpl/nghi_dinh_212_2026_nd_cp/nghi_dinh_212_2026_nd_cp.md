@@ -1,40 +1,36 @@
 ---
-id: "nghi_dinh_212_2026_nd_cp"
-document_number: "212/2026/NĐ-CP"
-title: "Nghị định 212/2026/NĐ-CP về Điều kiện năng lực hoạt động xây dựng & CSDL quốc gia"
-issued_by: "Chính phủ"
-signer: "Đang cập nhật"
-issued_date: "2026-06-25"
-effective_date: "2026-07-01"
-status: "active"
-pdf_anchor: "./nghi_dinh_212_2026_nd_cp.pdf"
-legal_basis:
-- doc_id: luật_tổ_chức_chính_phủ_số_63_2025_qh15
-  title: Luật Tổ chức Chính phủ số 63/2025/QH15
-- doc_id: luật_ban_hành_văn_bản_quy_phạm_pháp_luật_số_64_202
-  title: Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ
-    sung bởi Luật số 87/2025/QH15
-- doc_id: luật_tiếp_cận_thông_tin_số_104_2016_qh13
-  title: Luật Tiếp cận thông tin số 104/2016/QH13
-- doc_id: luật_giao_dịch_điện_tử_số_20_2023_qh15
-  title: Luật Giao dịch điện tử số 20/2023/QH15
-- doc_id: luật_dữ_liệu_số_60_2024_qh15
-  title: Luật Dữ liệu số 60/2024/QH15
-- doc_id: luật_khoa_học_công_nghệ_và_đổi_mới_sáng_tạo_số_93_
-  title: Luật Khoa học, công nghệ và đổi mới sáng tạo số 93/2025/QH15
-- doc_id: luật_an_ninh_mạng_số_116_2025_qh15
-  title: Luật An ninh mạng số 116/2025/QH15
-- doc_id: Luat-Xay-dung-2025-135-2025-QH15
-  title: Luật Xây dựng số 135/2025/QH15
-- doc_id: luật_đầu_tư_số_143_2025_qh15
-  title: Luật Đầu tư số 143/2025/QH15
-- doc_id: luật_quy_hoạch_đô_thị_và_nông_thôn_số_47_2024_qh15
-  title: Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15 được sửa đổi, bổ sung
-    bởi Luật số 144/2025/QH15
-- doc_id: luật_chuyển_đổi_số_số_148_2025_qh15
-  title: Luật Chuyển đổi số số 148/2025/QH15
-- doc_id: luật_bảo_vệ_dữ_liệu_cá_nhân_số_91_2025_qh15
-  title: Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15
+okf_version: '2.2'
+type: legal_normative_body
+title: Nghị định 212/2026/NĐ-CP về Điều kiện năng lực hoạt động xây dựng & CSDL quốc
+  gia
+description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng
+  CCBA.
+tags:
+- nghi_dinh
+- vbpl
+- xay_dung
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/nghi_dinh_212_2026_nd_cp/nghi_dinh_212_2026_nd_cp.md
+id: nghi_dinh_212_2026_nd_cp
+doc_id: nghi_dinh_212_2026_nd_cp
+document_number: 212/2026/NĐ-CP
+document_type: Nghị định
+issued_by: Chính phủ
+signer: Đang cập nhật
+issued_date: '2026-06-25'
+effective_date: '2026-07-01'
+status: active
+pdf_anchor:
+  path: ./nghi_dinh_212_2026_nd_cp.pdf
+  sha256: 3a52a394b8b1909f1337127df69db87ac840243154620aaa95b41e96808a09f9
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: Luat-Xay-dung-2025-135-2025-QH15
+  relation_type: guided_by
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 212/2026/NĐ-CP

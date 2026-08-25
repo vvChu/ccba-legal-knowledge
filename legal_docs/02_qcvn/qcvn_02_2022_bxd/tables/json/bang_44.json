@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_44",
+  "rows_count": 8,
+  "columns_count": 2,
+  "headers": [
+    "Vùng bờ biển",
+    "Tháng"
+  ],
+  "records": [
+    {
+      "Vùng bờ biển": "Vùng bờ biển",
+      "Tháng": "1"
+    },
+    {
+      "Vùng bờ biển": "Quảng Ninh - Thanh Hóa",
+      "Tháng": "0,00"
+    },
+    {
+      "Vùng bờ biển": "Nghệ An - Quảng Bình",
+      "Tháng": "0,00"
+    },
+    {
+      "Vùng bờ biển": "Quảng Trị - Quảng Ngãi",
+      "Tháng": "0,00"
+    },
+    {
+      "Vùng bờ biển": "Bình Định - Ninh Thuận",
+      "Tháng": "0,00"
+    },
+    {
+      "Vùng bờ biển": "Bình Thuận - Cà Mau",
+      "Tháng": "0,05"
+    },
+    {
+      "Vùng bờ biển": "Bắc Biển Đông",
+      "Tháng": "0,00"
+    }
+  ],
+  "footnotes": []
+}

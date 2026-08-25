@@ -1,0 +1,112 @@
+[
+  {
+    "table_id": "bang_01",
+    "file_stem": "bang_01",
+    "title": "Bang 01",
+    "columns_count": 6,
+    "rows_count": 0,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_01.json",
+    "csv_path": "tables/csv/bang_01.csv",
+    "has_normative_conditions": false
+  },
+  {
+    "table_id": "bang_02",
+    "file_stem": "bang_02",
+    "title": "Bang 02",
+    "columns_count": 2,
+    "rows_count": 0,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_02.json",
+    "csv_path": "tables/csv/bang_02.csv",
+    "has_normative_conditions": false
+  },
+  {
+    "table_id": "bang_03",
+    "file_stem": "bang_03",
+    "title": "Bang 03",
+    "columns_count": 2,
+    "rows_count": 0,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_03.json",
+    "csv_path": "tables/csv/bang_03.csv",
+    "has_normative_conditions": false
+  },
+  {
+    "table_id": "bang_04",
+    "file_stem": "bang_04",
+    "title": "Bang 04",
+    "columns_count": 2,
+    "rows_count": 0,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_04.json",
+    "csv_path": "tables/csv/bang_04.csv",
+    "has_normative_conditions": false
+  },
+  {
+    "table_id": "bang_05",
+    "file_stem": "bang_05",
+    "title": "Bang 05",
+    "columns_count": 2,
+    "rows_count": 0,
+    "footnotes_count": 6,
+    "json_path": "tables/json/bang_05.json",
+    "csv_path": "tables/csv/bang_05.csv",
+    "has_normative_conditions": true
+  },
+  {
+    "table_id": "bang_06",
+    "file_stem": "bang_06",
+    "title": "Bang 06",
+    "columns_count": 2,
+    "rows_count": 0,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_06.json",
+    "csv_path": "tables/csv/bang_06.csv",
+    "has_normative_conditions": false
+  },
+  {
+    "table_id": "bang_07",
+    "file_stem": "bang_07",
+    "title": "Bang 07",
+    "columns_count": 5,
+    "rows_count": 0,
+    "footnotes_count": 1,
+    "json_path": "tables/json/bang_07.json",
+    "csv_path": "tables/csv/bang_07.csv",
+    "has_normative_conditions": true
+  },
+  {
+    "table_id": "bang_08",
+    "file_stem": "bang_08",
+    "title": "Bang 08",
+    "columns_count": 11,
+    "rows_count": 0,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_08.json",
+    "csv_path": "tables/csv/bang_08.csv",
+    "has_normative_conditions": false
+  },
+  {
+    "table_id": "bang_09",
+    "file_stem": "bang_09",
+    "title": "Bang 09",
+    "columns_count": 2,
+    "rows_count": 0,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_09.json",
+    "csv_path": "tables/csv/bang_09.csv",
+    "has_normative_conditions": false
+  },
+  {
+    "table_id": "bang_10",
+    "file_stem": "bang_10",
+    "title": "Bang 10",
+    "columns_count": 2,
+    "rows_count": 0,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_10.json",
+    "csv_path": "tables/csv/bang_10.csv",
+    "has_normative_conditions": false
+  }
+]

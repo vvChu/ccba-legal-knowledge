@@ -1,0 +1,2801 @@
+{
+  "table_id": "bang_02",
+  "rows_count": 399,
+  "columns_count": 5,
+  "headers": [
+    "Địa danh",
+    "Vùng",
+    "W0 (daN/m2) 3 s, 20 năm",
+    "V3s,50 (m/s) 3 s, 50 năm",
+    "V10m,50 (m/s) 10 phút, 50 năm"
+  ],
+  "records": [
+    {
+      "Địa danh": "(1)",
+      "Vùng": "(2)",
+      "W0 (daN/m2) 3 s, 20 năm": "(3)",
+      "V3s,50 (m/s) 3 s, 50 năm": "(4)",
+      "V10m,50 (m/s) 10 phút, 50 năm": "(5)"
+    },
+    {
+      "Địa danh": "1. Thành phố Hà Nội",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các quận, thị xã, huyện (không bao gồm các huyện Mỹ Đức, Phú Xuyên, Thường Tín và Ứng Hòa)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Mỹ Đức (xã Đại Hưng, xã Hùng Tiến, xã Hương Sơn, xã Vạn Kim)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Mỹ Đức (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Phú Xuyên (xã Phú Túc, xã Hồng Minh, xã Tri Trung)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Phú Xuyên (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Thường Tín (xã Minh Cường, xã Thống Nhất, xã Tô Hiệu, xã Vạn Điểm, xã Văn Tự)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Thường Tín (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Ứng Hoà (thị trấn Vân Đình, xã Quảng Phú Cầu, xã Liên Bạt, xã Đồng Tiến, xã Sơn Công, xã Hoa Sơn, xã Trường Thịnh, xã Viên Nội, xã Viên An, xã Cao Thành, xã Hoà Xá)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Ứng Hoà (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "2. Thành phố Hồ Chí Minh",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, quận, huyện (bao gồm cả thành phố Thủ Đức, không bao gồm huyện Củ Chi)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Củ Chi",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "3. Thành phố Hải Phòng",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các quận, huyện (không bao gồm các huyện Bạch Long Vĩ và Thủy Nguyên)",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "55",
+      "V10m,50 (m/s) 10 phút, 50 năm": "39"
+    },
+    {
+      "Địa danh": "Huyện Bạch Long Vĩ",
+      "Vùng": "V",
+      "W0 (daN/m2) 3 s, 20 năm": "185",
+      "V3s,50 (m/s) 3 s, 50 năm": "61",
+      "V10m,50 (m/s) 10 phút, 50 năm": "43"
+    },
+    {
+      "Địa danh": "Huyện Thuỷ Nguyên",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "4. Thành phố Đà Nẵng",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các quận, huyện (không bao gồm các huyện Hòa Vang và Hoàng Sa)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Hòa Vang (xã Hòa Ninh, xã Hòa Phú, xã Hòa Khương)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Hòa Vang (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Hoàng Sa (tất cả các đảo thuộc quần đảo Hoàng Sa)",
+      "Vùng": "V",
+      "W0 (daN/m2) 3 s, 20 năm": "185",
+      "V3s,50 (m/s) 3 s, 50 năm": "61",
+      "V10m,50 (m/s) 10 phút, 50 năm": "43"
+    },
+    {
+      "Địa danh": "5. Thành phố Cần Thơ",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các quận, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "6. An Giang",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm các huyện Thoại Sơn, Tri Tôn)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Thoại Sơn (thị trấn Phú Hòa, xã Định Mỹ, xã Định Thành, xã Phú Thuận, xã Tây Phú, xã Vĩnh Chánh, xã Vĩnh Phú, xã Vĩnh Trạch)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Thoại Sơn (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Tri Tôn (thị trấn Ba Chúc, thị trấn Tri Tôn, xã Châu Lăng, xã Lạc Quới, xã Lê Trì, xã Núi Tô, xã Tà Đảnh)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Tri Tôn (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "7. Bà Rịa - Vũng Tàu",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm huyện Côn Đảo)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Côn Đảo",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "8. Bạc Liêu",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "9. Bắc Giang",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm huyện Sơn Động)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Sơn Động (thị trấn Tây Yên Tử, xã Dương Hưu, xã Long Sơn, xã Thanh Luận)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Sơn Động (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "10. Bắc Kạn",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các huyện (không bao gồm thành phố Bắc Kạn và huyện Ngân Sơn)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Thành phố Bắc Kạn",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Ngân Sơn",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "11. Bắc Ninh",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm huyện Lương Tài)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Lương Tài (xã Lai Hạ, xã Minh Tân, xã Trung Chính, xã Trung Kênh, xã Trừng Xá)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Lương Tài (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "12. Bến Tre",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "13. Bình Dương",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "14. Bình Định",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm các huyện An Lão, Hoài Ân, Tây Sơn, Vân Canh và Vĩnh Thạnh)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện An Lão (xã An Toàn, xã An Vinh, xã An Nghĩa)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện An Lão (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Hoài Ân (xã Dak Mang, xã Bok Tới, xã Ân Nghĩa, xã Ân Sơn)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Hoài Ân (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Tây Sơn (xã Bình Thuận, xã Tây An, xã Tây Vinh)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Tây Sơn (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Vân Canh (thị trấn Vân Canh, xã Canh Liên, xã Canh Thuận, xã Canh Hòa)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Vân Canh (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Vĩnh Thạnh",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "15. Bình Phước",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "16. Bình Thuận",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Phan Thiết",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Bắc Bình (xã Bình An, xã Bình Tân, xã Hải Ninh, xã Phan Điền, xã Phan Lâm, xã Phan Sơn, xã Phan Thanh, xã Phan Tiến, xã Sông Bình, xã Sông Lũy)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Bắc Bình (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Đức Linh",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Hàm Tân",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Hàm Thuận Bắc (thị trấn Phú Long, xã Hồng Sơn, xã Hàm Liêm, xã Hàm Đức, xã Hàm Hiệp, xã Hàm Thắng)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Hàm Thuận Bắc (các địa danh hành chính còn lại)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Hàm Thuận Nam (xã Hàm Cần, xã Hàm Thạnh, xã Mương Mán, xã Mỹ Thạnh)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Hàm Thuận Nam (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Phú Quý",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Tánh Linh",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Tuy Phong",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Thị xã La Gi",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "17. Cà Mau",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "18. Cao Bằng",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "19. Đắk Lắk",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm huyện M'Đrắk)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện M'Đrắk (thị trấn M'Đrắk, xã Cư M'ta, xã Ea Pil, xã Krông Á, xã Krông Jing)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện M'Đrắk (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "20. Đắk Nông",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "21. Điện Biên",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "22. Đồng Nai",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Biên Hòa",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Thành phố Long Khánh",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Cẩm Mỹ",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Định Quán",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Long Thành",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Nhơn Trạch",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Tân Phú",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Thống Nhất",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Trảng Bom",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Vĩnh Cửu",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Xuân Lộc",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "23. Đồng Tháp",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm các huyện Châu Thành và Lai Vung)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Châu Thành",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Lai Vung (xã Phong Hòa, xã Long Thắng, xã Tân Hòa, xã Định Hòa)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Lai Vung (các địa danh hành chính còn lại)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "24. Gia Lai",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "25. Hà Giang",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Hà Giang",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Bắc Mê",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Bắc Quang",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Đồng Văn",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Hoàng Su Phì",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Mèo Vạc",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Quang Bình",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Quản Bạ",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Vị Xuyên",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Xín Mần",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Yên Minh",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "26. Hà Nam",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm huyện Bình Lục)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Bình Lục",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "55",
+      "V10m,50 (m/s) 10 phút, 50 năm": "39"
+    },
+    {
+      "Địa danh": "27. Hà Tĩnh",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Hà Tĩnh",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "55",
+      "V10m,50 (m/s) 10 phút, 50 năm": "39"
+    },
+    {
+      "Địa danh": "Thị xã Hồng Lĩnh",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "55",
+      "V10m,50 (m/s) 10 phút, 50 năm": "39"
+    },
+    {
+      "Địa danh": "Thị xã Kỳ Anh",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Can Lộc",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "55",
+      "V10m,50 (m/s) 10 phút, 50 năm": "39"
+    },
+    {
+      "Địa danh": "Huyện Cẩm Xuyên (thị trấn Thiên Cầm, xã Cẩm Dương, xã Yên Hòa, xã Cẩm Lĩnh, xã Cẩm Lộc, xã Cẩm Nhượng, xã Cẩm Trung)",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Cẩm Xuyên (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Đức Thọ",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Hương Khê (xã Hương Lâm, xã Hương Liên, xã Hương Trà, xã Hương Vĩnh, xã Hương Xuân, xã Phú Gia, xã Phú Phong)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Hương Khê (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Hương Sơn (thị trấn Tây Sơn, xã Quang Diệm, xã Sơn Hàm, xã Sơn Hồng, xã Sơn Kim 1, xã Sơn Kim 2, xã Sơn Lĩnh, xã Sơn Tây)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Hương Sơn (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Kỳ Anh",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Nghi Xuân",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Thạch Hà",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Vũ Quang",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Lộc Hà",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "28. Hải Dương",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm huyện Tứ Kỳ)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Tứ Kỳ",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "29. Hậu Giang",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "30. Hòa Bình",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, huyện (không bao gồm các huyện Đà Bắc, Lạc Thủy, Mai Châu và Yên Thủy)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Đà Bắc (thị trấn Đà Bắc, xã Tân Minh, xã Vầy Nưa, xã Cao Sơn, xã Tú Lý, xã Hiền Lương, xã Toàn Sơn)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Đà Bắc (các địa danh hành chính còn lại)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Lạc Thuỷ (thị trấn Ba Hàng Đồi, xã Hưng Thi, xã Phú Thành, xã Thống Nhất, xã Phú Lão,)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Lạc Thuỷ (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Mai Châu (thị trấn Mai Châu, xã Mai Hạ, xã Mai Hịch, xã Nà Phòn, xã Sơn Thủy, xã Tân Thành, xã Đồng Tân, xã Thành Sơn, xã Vạn Mai)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Mai Châu (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Yên Thuỷ (xã Lạc Lương, xã Lạc Thịnh, xã Lạc Sĩ, xã Đa Phúc)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Yên Thuỷ (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "31. Hưng Yên",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm các huyện Văn Giang và Văn Lâm)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Văn Giang",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Văn Lâm",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "32. Khánh Hòa",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm các huyện Khánh Sơn, Khánh Vĩnh và Trường Sa)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Khánh Sơn",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Khánh Vĩnh",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Trường Sa (tất cả các đảo thuộc quần đảo Trường Sa)",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "33. Kiên Giang",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm các huyện Kiên Hải và thành phố Phú Quốc)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Thành phố Phú Quốc (bao gồm đảo Phú Quốc và các đảo khác thuộc thành phố Phú Quốc), Huyện Kiên Hải",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "34. Kon Tum",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "35. Lai Châu",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "36. Lạng Sơn",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, huyện (không bao gồm các huyện Đình Lập và Hữu Lũng)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Đình Lập (xã Bắc Lãng, xã Châu Sơn, xã Đồng Thắng, xã Lâm Ca)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Đình Lập (các địa danh hành chính còn lại)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Hữu Lũng (xã Đồng Tiến, xã Hoà Thắng, xã Minh Hòa, xã Minh Sơn, xã Thanh Sơn, xã Vân Nham)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Hữu Lũng (các địa danh hành chính còn lại)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "37. Lào Cai",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, huyện (không bao gồm thị xã Sa Pa và các huyện Bát Xát và Văn Bàn)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Thị xã Sa Pa",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Bát Xát (Thị trấn Bát Xát, xã Quang Kim, xã Tòng Sành)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Bát Xát (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Văn Bàn (xã Dần Thàng, xã Dương Qùy, xã Hòa Mạc, xã Khánh Yên Hạ, xã Khánh Yên Trung, xã Minh Lương, xã Nậm Chầy, xã Nậm Mả, xã Nậm Xây, xã Nậm Xé, xã Thẩm Dương)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Văn Bàn (các địa danh hành chính còn lại)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "38. Lâm Đồng",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "39. Long An",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Tân An",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Bến Lức",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Cần Giuộc",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Cần Đước",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Châu Thành",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Đức Hoà",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Đức Huệ",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Mộc Hoá",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Tân Hưng",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Tân Thạnh",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Tân Trụ",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Thạnh Hoá",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Thủ Thừa",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Vĩnh Hưng",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Thị xã Kiến Tường",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "40. Nam Định",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "41. Nghệ An",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Vinh",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Thị xã Cửa Lò",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Thị xã Hoàng Mai",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Thị xã Thái Hoà",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Con Cuông",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Diễn Châu",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Đô Lương",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Hưng Nguyên",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Kỳ Sơn",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Nam Đàn",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Nghi Lộc (xã Nghi Thiết, xã Khánh Hợp, xã Nghi Quang, xã Nghi Tiến)",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Nghi Lộc (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Nghĩa Đàn (xã Nghĩa An, xã Nghĩa Đức, xã Nghĩa Hiếu, xã Nghĩa Hồng, xã Nghĩa Hưng, xã Nghĩa Khánh, xã Nghĩa Thành, xã Nghĩa Mai, xã Nghĩa Minh, xã Nghĩa Thịnh, xã Nghĩa Yên)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Nghĩa Đàn (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Quế Phong",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Quỳ Châu (xã Châu Bính, xã Châu Hạnh, xã Châu Hội, xã Châu Nga)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Quỳ Châu (các địa danh hành chính còn lại)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Quỳ Hợp",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Quỳnh Lưu (xã An Hoà, xã Quỳnh Nghĩa, xã Quỳnh Bảng, xã Quỳnh Đôi, xã Quỳnh Long, xã Quỳnh Lương, xã Quỳnh Minh, xã Quỳnh Thanh, xã Quỳnh Thuận, xã Quỳnh Yên, xã Tiến Thuỷ)",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Quỳnh Lưu (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Tân Kỳ",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Thanh Chương",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Tương Dương",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Yên Thành (xã Đô Thành, xã Đức Thành, xã Hậu Thành, xã Hoa Thành, xã Hồng Thành, xã Hợp Thành, xã Lăng Thành, xã Mã Thành, xã Nhân Thành, xã Phú Thành, xã Phúc Thành, xã Sơn Thành, xã Tân Thành, xã Thọ Thành, xã Tiến Thành, xã Văn Thành, xã Viên Thành, xã Vĩnh Thành)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Yên Thành (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "42. Ninh Bình",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Ninh Bình",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Thành phố Tam Điệp",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Gia Viễn",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Hoa Lư",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Kim Sơn",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Nho Quan",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Yên Khánh",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Yên Mô",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "43. Ninh Thuận",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Phan Rang - Tháp Chàm",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Bác Ái",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Ninh Hải",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Ninh Phước",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Ninh Sơn",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Thuận Bắc",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Thuận Nam",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "44. Phú Thọ",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "45. Phú Yên",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm các huyện Đồng Xuân, Sông Hinh, Sơn Hoà và Tây Hòa)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Đồng Xuân (xã Phú Mỡ, xã Xuân Phước, xã Xuân Quang 1, xã Xuân Quang 2, xã Xuân Quang 3)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Đồng Xuân (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Sông Hinh",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Sơn Hoà",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Tây Hòa (xã Hòa Mỹ Đông, xã Hòa Mỹ Tây, xã Hoà Phong, xã Hòa Phú, xã Sơn Thành Đông, xã Sơn Thành Tây)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Tây Hòa (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "46. Quảng Bình",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Đồng Hới",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Thị xã Ba Đồn",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Bố Trạch (xã Bắc Trạch, xã Đại Trạch, xã Đồng Trạch, xã Đức Trạch, xã Hải Phú, xã Lý Trạch, xã Nhân Trạch, xã Thanh Trạch, xã Trung Trạch)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Bố Trạch (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Lệ Thuỷ (xã Ngư Thủy Bắc, xã Ngư Thủy, xã Sen Thủy)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Lệ Thuỷ (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Minh Hoá",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Quảng Ninh",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Quảng Trạch",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Tuyên Hoá",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "47. Quảng Nam",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Tam Kỳ",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Thành phố Hội An",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Thị xã Điện Bàn",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Bắc Trà My (xã Trà Bui, xã Trà Đốc, xã Trà Sơn, xã Trà Tân)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Bắc Trà My (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Duy Xuyên (xã Duy Sơn, xã Duy Phú, xã Duy Hòa, xã Duy Trinh, xã Duy Châu, xã Duy Thu, xã Duy Tân)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Duy Xuyên (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Đại Lộc",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Đông Giang",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Hiệp Đức",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Nam Giang",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Nam Trà My",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Nông Sơn",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Núi Thành",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Phước Sơn",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Quế Sơn (thị trấn Hương An, xã Quế Mỹ, xã Quế Phú, xã Quế Xuân 1, xã Quế Xuân 2)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Quế Sơn (các địa danh hành chính còn lại)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Tây Giang",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Thăng Bình",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Tiên Phước",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Phú Ninh (Thị trấn Phú Thịnh, xã Tam Lãnh, xã Tam Lộc, xã Tam Dân, xã Tam Vinh, xã Tam Phước, xã Tam Thái)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Phú Ninh (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "48. Quảng Ngãi",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, huyện (không bao gồm các huyện Ba Tơ, Minh Long, Sơn Hà, Sơn Tây và Trà Bồng)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Ba Tơ",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Minh Long",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Sơn Hà",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Sơn Tây (xã Sơn Lập, xã Sơn Tân, xã Sơn Màu, xã Sơn Tinh)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Sơn Tây (các địa danh hành chính còn lại)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Trà Bồng",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "49. Quảng Ninh",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm thị xã Quảng Yên, các huyện Bình Liêu, Cô Tô và Vân Đồn)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Bình Liêu",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Cô Tô",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Thị xã Quảng Yên",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Vân Đồn",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "50. Quảng Trị",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm các huyện Gio Linh, Hướng Hóa, Triệu Phong, Vĩnh Linh và Cồn Cỏ)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Gio Linh",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Hướng Hoá",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Triệu Phong",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Vĩnh Linh",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Cồn Cỏ",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "51. Sóc Trăng",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả thành phố, thị xã, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "52. Sơn La",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả thành phố, thị xã, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "53. Tây Ninh",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả thành phố, thị xã, huyện",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "54. Thái Bình",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả thành phố, thị xã, huyện",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "55. Thái Nguyên",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả các thành phố, thị xã, huyện (không bao gồm các huyện Đồng Hỷ, Phú Lương và Võ Nhai)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Đồng Hỷ (thị trấn Trại Cau, xã Hợp Tiến, xã Nam Hoà, xã Tân Lợi)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Đồng Hỷ (các địa danh hành chính còn lại)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Phú Lương",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Võ Nhai",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "56. Thanh Hóa",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Thanh Hóa",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Thành phố Sầm Sơn",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Thị xã Bỉm Sơn",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Thị xã Nghi Sơn",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Bá Thước",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Cẩm Thuỷ",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Đông Sơn",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Hà Trung (xã Hà Hải, xã Lĩnh Toại, xã Hà Vinh)",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Hà Trung (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Hậu Lộc",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Hoằng Hoá",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Lang Chánh",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Mường Lát",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Nga Sơn",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Ngọc Lặc",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Như Thanh",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Như Xuân",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Nông Cống",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Quảng Xương (thị trấn Tân Phong, xã Quảng Hòa, xã Quảng Hợp, xã Quảng Long, xã Quảng Ngọc, xã Quảng Phúc, xã Quảng Trạch, xã Quảng Văn, xã Quảng Yên)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Quảng Xương (các địa danh hành chính còn lại)",
+      "Vùng": "IV",
+      "W0 (daN/m2) 3 s, 20 năm": "155",
+      "V3s,50 (m/s) 3 s, 50 năm": "56",
+      "V10m,50 (m/s) 10 phút, 50 năm": "40"
+    },
+    {
+      "Địa danh": "Huyện Quan Hoá",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Quan Sơn",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Thạch Thành",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Thọ Xuân (thị trấn Lam Sơn, Thị trấn Sao Vàng, xã Quảng Phú, xã Thọ Diên, xã Thọ Hải, xã Thọ Lâm, xã Thọ Lập, xã Thuận Minh, xã Thọ Xương, xã Xuân Bái, xã Xuân Hòa, xã Xuân Hưng, xã Xuân Phú, xã Xuân Thiên, xã Xuân Tín)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Thọ Xuân (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Thường Xuân",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Thiệu Hóa",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Triệu Sơn",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Vĩnh Lộc",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Yên Định",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "57. Thừa Thiên Huế",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Huế",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Thị xã Hương Thủy",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Thị xã Hương Trà",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện A Lưới",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Nam Đông (xã Thượng Lộ, xã Hương Phú, xã Hương Lộc)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Nam Đông (các địa danh hành chính còn lại)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Phú Lộc (thị trấn Phú Lộc, xã Lộc Điền, xã Lộc Trì, xã Xuân Lộc, xã Lộc Hoà, xã Lộc Bổn, xã Lộc An, xã Lộc Sơn, xã Vinh Hưng)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Phú Lộc (các địa danh hành chính còn lại)",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Phú Vang",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Phong Điền",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "Huyện Quảng Điền",
+      "Vùng": "III",
+      "W0 (daN/m2) 3 s, 20 năm": "125",
+      "V3s,50 (m/s) 3 s, 50 năm": "50",
+      "V10m,50 (m/s) 10 phút, 50 năm": "36"
+    },
+    {
+      "Địa danh": "58. Tiền Giang",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả thành phố, thị xã, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "59. Trà Vinh",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả thành phố, thị xã, quận, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "60. Tuyên Quang",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Tuyên Quang",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Chiêm Hoá",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Hàm Yên",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Na Hang",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Sơn Dương",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Yên Sơn",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Lâm Bình",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "61. Vĩnh Long",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả thành phố, thị xã, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "62. Vĩnh Phúc",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Tất cả thành phố, thị xã, huyện",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "63. Yên Bái",
+      "Vùng": "",
+      "W0 (daN/m2) 3 s, 20 năm": "",
+      "V3s,50 (m/s) 3 s, 50 năm": "",
+      "V10m,50 (m/s) 10 phút, 50 năm": ""
+    },
+    {
+      "Địa danh": "Thành phố Yên Bái",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Thị xã Nghĩa Lộ",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Lục Yên",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Mù Căng Chải",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Trạm Tấu",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Trấn Yên",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Văn Chấn (thị trấn Nông trường Liên Sơn, xã Cát Thịnh, xã Gia Hội, xã Nậm Búng, xã Nậm Lành, xã Nghĩa Sơn, xã Sơn Lương, xã Sơn Thịnh, xã Tú Lệ)",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    },
+    {
+      "Địa danh": "Huyện Văn Chấn (các địa danh hành chính còn lại)",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Văn Yên",
+      "Vùng": "I",
+      "W0 (daN/m2) 3 s, 20 năm": "65",
+      "V3s,50 (m/s) 3 s, 50 năm": "36",
+      "V10m,50 (m/s) 10 phút, 50 năm": "26"
+    },
+    {
+      "Địa danh": "Huyện Yên Bình",
+      "Vùng": "II",
+      "W0 (daN/m2) 3 s, 20 năm": "95",
+      "V3s,50 (m/s) 3 s, 50 năm": "44",
+      "V10m,50 (m/s) 10 phút, 50 năm": "31"
+    }
+  ],
+  "footnotes": []
+}

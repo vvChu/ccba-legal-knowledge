@@ -1,3 +1,33 @@
+---
+okf_version: '2.2'
+type: legal_comparative_matrix
+title: Bảng So sánh Đối chiếu Sửa đổi 1:2023 QCVN 06:2022/BXD (Thông tư 09/2023/TT-BXD)
+description: Tài liệu Phụ lục đối chiếu quy định chính quy trong hệ thống tri thức
+  xây dựng CCBA.
+tags:
+- xay_dung
+- phap_ly
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/04_appendices/bang_so_sanh_sua_doi_2023_qcvn_06/bang_so_sanh_sua_doi_2023_qcvn_06.md
+id: bang_so_sanh_sua_doi_2023_qcvn_06
+doc_id: bang_so_sanh_sua_doi_2023_qcvn_06
+document_number: APPENDIX-SD-2023-QCVN-06
+document_type: Phụ lục đối chiếu
+issued_by: CCBA Legal Research Group
+signer: ''
+issued_date: '2023-10-10'
+effective_date: '2023-12-01'
+status: active
+pdf_anchor:
+  path: ./bang_so_sanh_sua_doi_2023_qcvn_06.pdf
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: QCVN 06:2022/BXD
+  relation_type: compares
+- target_id: 09/2023/TT-BXD
+  relation_type: compares
+---
+
 # BẢNG SO SÁNH ĐỐI CHIẾU SỬA ĐỔI 1:2023 QCVN 06:2022/BXD
 
 *(Căn cứ Thông tư 09/2023/TT-BXD ngày 10/10/2023 của Bộ Xây dựng — Hiệu lực thi hành từ ngày 01/12/2023)*

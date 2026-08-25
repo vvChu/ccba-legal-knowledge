@@ -1,33 +1,37 @@
 ---
-id: "nghi_dinh_206_2026_nd_cp"
-document_number: "206/2026/NĐ-CP"
-title: "Nghị định 206/2026/NĐ-CP về Quản lý chi phí đầu tư xây dựng"
-issued_by: "Chính phủ"
-signer: "Đang cập nhật"
-issued_date: "2026-06-25"
-effective_date: "2026-07-01"
-status: "active"
-pdf_anchor: "./nghi_dinh_206_2026_nd_cp.pdf"
-legal_basis:
-- doc_id: luật_tổ_chức_chính_phủ_số_63_2025_qh15
-  title: Luật Tổ chức Chính phủ số 63/2025/QH15
-- doc_id: luật_tổ_chức_chính_quyền_địa_phương_số_72_2025_qh1
-  title: Luật Tổ chức chính quyền địa phương số 72/2025/QH15
-- doc_id: Luat-Xay-dung-2025-135-2025-QH15
-  title: Luật Xây dựng số 135/2025/QH15
-- doc_id: Luat-Xay-dung-2025-135-2025-QH15
-  title: Luật Đầu tư công số 58/2024/QH15 được sửa đổi, bổ sung bởi Luật số 90/2025/QH15,
-    Luật Xây dựng số 135/2025/QH15
-- doc_id: luật_đầu_tư_theo_phương_thức_đối_tác_công_tư_số_64
-  title: Luật Đầu tư theo phương thức đối tác công tư số 64/2020/QH14 được sửa đổi,
-    bổ sung bởi Luật số 03/2022/QH15, Luật số 28/2023/QH15, Luật số 35/2024/QH15,
-    Luật số 57/2024/QH15, Luật số 90/2025/QH15, Luật số 133/2025/QH15
-- doc_id: luật_đấu_thầu_số_22_2023_qh15_được_sửa_đổi_bổ_sung
-  title: Luật Đấu thầu số 22/2023/QH15 được sửa đổi, bổ sung bởi Luật số 57/2024/QH15,
-    Luật số 90/2025/QH15, Luật số 116/2025/QH15, Luật số 133/2025/QH15
-- doc_id: luật_ngân_sách_nhà_nước_số_89_2025_qh15_được_sửa_đ
-  title: Luật Ngân sách nhà nước số 89/2025/QH15 được sửa đổi, bổ sung bởi Luật số
-    145/2025/QH15
+okf_version: '2.2'
+type: legal_normative_body
+title: Nghị định 206/2026/NĐ-CP về Quản lý chi phí đầu tư xây dựng
+description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng
+  CCBA.
+tags:
+- dau_tu_xay_dung
+- nghi_dinh
+- quan_ly_chi_phi
+- vbpl
+- xay_dung
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/nghi_dinh_206_2026_nd_cp/nghi_dinh_206_2026_nd_cp.md
+id: nghi_dinh_206_2026_nd_cp
+doc_id: nghi_dinh_206_2026_nd_cp
+document_number: 206/2026/NĐ-CP
+document_type: Nghị định
+issued_by: Chính phủ
+signer: Đang cập nhật
+issued_date: '2026-06-25'
+effective_date: '2026-07-01'
+status: active
+pdf_anchor:
+  path: ./nghi_dinh_206_2026_nd_cp.pdf
+  sha256: 160aebe33b6981e7111ce327cacc675447d736fb10a519bdfef2a8db02131373
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: Luat-Xay-dung-2025-135-2025-QH15
+  relation_type: guided_by
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 206/2026/NĐ-CP

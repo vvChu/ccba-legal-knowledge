@@ -1,3 +1,42 @@
+---
+okf_version: '2.2'
+type: technical_standard_qcvn
+title: QCVN 04:2021/BXD — Quy chuẩn kỹ thuật quốc gia về Nhà chung cư (Sửa đổi 01:2026
+  / TT 31/2026/TT-BXD)
+description: Tài liệu Quy chuẩn kỹ thuật quốc gia quy định chính quy trong hệ thống
+  tri thức xây dựng CCBA.
+tags:
+- nha_o
+- qcvn
+- quy_chuan_ky_thuat
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd.md
+id: QCVN-04-2021-BXD
+doc_id: QCVN-04-2021-BXD
+document_number: QCVN 04:2021/BXD
+document_type: Quy chuẩn kỹ thuật quốc gia
+issued_by: Bộ Xây dựng
+signer: ''
+issued_date: '2021-05-19'
+effective_date: '2021-07-05'
+status: current
+pdf_anchor:
+  path: ./qcvn_04_2021_bxd.pdf
+  sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
+  cong_bao_number: 373/2026 (SĐ1) / 235/2021
+relations:
+- target_id: '{''id'': ''SD1-2026-QCVN-04'', ''document_number'': ''31/2026/TT-BXD'',
+    ''title'': ''Sửa đổi 01:2026 QCVN 04:2021/BXD (Thông tư 31/2026/TT-BXD)'', ''source_url'':
+    ''https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-31-2026-TT-BXD-sua-doi-01-2026-QCVN-04-2021-BXD-Nha-chung-cu-711082.aspx'',
+    ''sha256'': ''63719290355103aad94f95b09d7f32de356c2df58d751b1f601a8ceb37efbd92'',
+    ''pdf_sha256'': ''63719290355103aad94f95b09d7f32de356c2df58d751b1f601a8ceb37efbd92'',
+    ''cong_bao_number'': ''373/2026'', ''pdf_status'': ''pending_download''}'
+  relation_type: amendments
+artifacts:
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
+---
+
 **QCVN 04:2021/BXD**
 
 # QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ NHÀ CHUNG CƯ

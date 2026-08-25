@@ -1,18 +1,38 @@
 ---
-id: "nghi_dinh_24_2024_nd_cp"
-document_number: "24/2024/NĐ-CP"
-title: "Nghị định 24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu"
-issued_by: "Chính phủ"
-signer: "Đang cập nhật"
-issued_date: "2024-02-27"
-effective_date: "2024-02-27"
-status: "active"
-pdf_anchor: "./nghi_dinh_24_2024_nd_cp.pdf"
-legal_basis:
-- doc_id: luật_tổ_chức_chính_phủ_ngày_19_tháng_6_năm_2015
-  title: Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015
-- doc_id: luật_đấu_thầu_ngày_23_tháng_6_năm_2023
-  title: Luật Đấu thầu ngày 23 tháng 6 năm 2023
+okf_version: '2.2'
+type: legal_normative_body
+title: Nghị định 24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành
+  Luật Đấu thầu về lựa chọn nhà thầu
+description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng
+  CCBA.
+tags:
+- dau_thau
+- nghi_dinh
+- vbpl
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/nghi_dinh_24_2024_nd_cp/nghi_dinh_24_2024_nd_cp.md
+id: nghi_dinh_24_2024_nd_cp
+doc_id: nghi_dinh_24_2024_nd_cp
+document_number: 24/2024/NĐ-CP
+document_type: Nghị định
+issued_by: Chính phủ
+signer: Đang cập nhật
+issued_date: '2024-02-27'
+effective_date: '2024-02-27'
+status: active
+pdf_anchor:
+  path: ./nghi_dinh_24_2024_nd_cp.pdf
+  sha256: 810b9139d0074b49ab5b873667793d4c52433fc365fbfec787db408c17a1b104
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: Luat-Dau-thau-2023-22-2023-QH15
+  relation_type: guided_by
+- target_id: 63/2014/NĐ-CP
+  relation_type: replaces
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 24/2024/NĐ-CP

@@ -1,40 +1,37 @@
 ---
-id: "thong_tu_41_2026_tt_bxd"
-document_number: "41/2026/TT-BXD"
-title: "Thông tư 41/2026/TT-BXD về quản lý chất lượng sản phẩm, hàng hóa vật liệu xây dựng"
-issued_by: "Bộ Xây dựng"
-signer: "Đang cập nhật"
-issued_date: "2026-06-30"
-effective_date: "2026-07-01"
-status: "active"
-pdf_anchor: "./thong_tu_41_2026_tt_bxd.pdf"
-legal_basis:
-- doc_id: luật_chất_lượng_sản_phẩm_hàng_hóa_số_05_2007_qh12_
-  title: Luật Chất lượng sản phẩm, hàng hóa số 05/2007/QH12 đã được sửa đổi, bổ sung
-    bởi Luật số 78/2025/QH15
-- doc_id: luật_tiêu_chuẩn_và_quy_chuẩn_kỹ_thuật_số_68_2006_q
-  title: Luật Tiêu chuẩn và Quy chuẩn kỹ thuật số 68/2006/QH11 đã được sửa đổi, bổ
-    sung bởi Luật số 70/2025/QH15
-- doc_id: Luat-Xay-dung-2025-135-2025-QH15
-  title: Luật Xây dựng số 135/2025/QH15
-- doc_id: nghị_định_số_33_2025_nđ_cp_ngày_08_tháng_3_năm_202
-  title: Nghị định số 33/2025/NĐ-CP ngày 08 tháng 3 năm 2025 của Chính phủ quy định
-    chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng
-- doc_id: nghị_định_số_209_2026_nđ_cp_ngày_15_tháng_6_năm_20
-  title: Nghị định số 209/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ quy định
-    chi tiết một số điều và biện pháp thi hành Luật Xây dựng về quản lý vật liệu xây
-    dựng
-- doc_id: nghị_định_số_207_2026_nđ_cp_ngày_15_tháng_6_năm_20
-  title: Nghị định số 207/2026/NĐ-CP ngày 15 tháng 6 năm 2026 của Chính phủ quy định
-    chi tiết một số điều của Luật Xây dựng về quản lý chất lượng, thi công xây dựng
-    và bảo trì công trình xây dựng
-- doc_id: nghị_định_số_37_2026_nđ_cp_ngày_23_tháng_01_năm_20
-  title: Nghị định số 37/2026/NĐ-CP ngày 23 tháng 01 năm 2026 của Chính phủ quy định
-    chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng
-    sản phẩm, hàng hóa
-- doc_id: nghị_định_số_22_2026_nđ_cp_ngày_16_tháng_01_năm_20
-  title: Nghị định số 22/2026/NĐ-CP ngày 16 tháng 01 năm 2026 của Chính phủ quy định
-    chi tiết một số điều và biện pháp thi hành Luật Tiêu chuẩn và Quy chuẩn kỹ thuật
+okf_version: '2.2'
+type: legal_normative_body
+title: Thông tư 41/2026/TT-BXD về quản lý chất lượng sản phẩm, hàng hóa vật liệu xây
+  dựng
+description: Tài liệu Thông tư quy định chính quy trong hệ thống tri thức xây dựng
+  CCBA.
+tags:
+- quan_ly_chat_luong
+- thong_tu
+- vbpl
+- xay_dung
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/thong_tu_41_2026_tt_bxd/thong_tu_41_2026_tt_bxd.md
+id: thong_tu_41_2026_tt_bxd
+doc_id: thong_tu_41_2026_tt_bxd
+document_number: 41/2026/TT-BXD
+document_type: Thông tư
+issued_by: Bộ Xây dựng
+signer: Đang cập nhật
+issued_date: '2026-06-30'
+effective_date: '2026-07-01'
+status: active
+pdf_anchor:
+  path: ./thong_tu_41_2026_tt_bxd.pdf
+  sha256: 5fd3c24a5062d11526ba966c6a7e8933f389bb5df7cb26a26cbac34a6a85ff30
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: nghi_dinh_209_2026_nd_cp
+  relation_type: guided_by
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 41/2026/TT-BXD

@@ -1,0 +1,122 @@
+{
+  "table_id": "bang_77",
+  "rows_count": 19,
+  "columns_count": 4,
+  "headers": [
+    "Cấu kiện kết cấu",
+    "Yêu cầu",
+    "Giá trị fu",
+    "Tải trọng để xác định độ võng đứng f"
+  ],
+  "records": [
+    {
+      "Cấu kiện kết cấu": "1. Dầm đỡ cần trục kiểu cầu (cầu trục) và cần trục treo được điều khiển từ cabin ứng với chế độ làm việc (theo TCVN 8590-1:2010 (ISO 4301-1:1986)):",
+      "Yêu cầu": "",
+      "Giá trị fu": "",
+      "Tải trọng để xác định độ võng đứng f": ""
+    },
+    {
+      "Cấu kiện kết cấu": "nhóm A1 đến A6",
+      "Yêu cầu": "Tâm sinh lý",
+      "Giá trị fu": "L/400",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng do một cần trục"
+    },
+    {
+      "Cấu kiện kết cấu": "nhóm A7",
+      "Yêu cầu": "Tâm sinh lý",
+      "Giá trị fu": "L/500",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng do một cần trục"
+    },
+    {
+      "Cấu kiện kết cấu": "nhóm A8",
+      "Yêu cầu": "Tâm sinh lý",
+      "Giá trị fu": "L/600",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng do một cần trục"
+    },
+    {
+      "Cấu kiện kết cấu": "2. Dầm, giàn, xà, bản, xà gồ, tấm, bản (bao gồm cả sườn của tấm và bản) đỡ:",
+      "Yêu cầu": "",
+      "Giá trị fu": "",
+      "Tải trọng để xác định độ võng đứng f": ""
+    },
+    {
+      "Cấu kiện kết cấu": "a) Mái và sàn tầng nhìn thấy được, có nhịp L, m: L ≤ 1 L = 3 L = 3",
+      "Yêu cầu": "Thẩm mỹ - tâm lý",
+      "Giá trị fu": "L/120 L/150 L/150",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm η nêu tại 8.3.3)"
+    },
+    {
+      "Cấu kiện kết cấu": "L = 6 L = 24 (12) L ≥ 36 (24)",
+      "Yêu cầu": "Thẩm mỹ - tâm lý",
+      "Giá trị fu": "L/200 L/250 L/300",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm η nêu tại 8.3.3)"
+    },
+    {
+      "Cấu kiện kết cấu": "b) Mái và sàn tầng khi sử dụng pa lăng, cần trục treo được điều khiển từ cabin",
+      "Yêu cầu": "Tâm sinh lý",
+      "Giá trị fu": "L/400 hoặc a/200 (lấy giá trị nhỏ hơn)",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng do một cần trục hoặc pa lăng trên một đường ray"
+    },
+    {
+      "Cấu kiện kết cấu": "c) Sàn tầng chịu tác dụng của:",
+      "Yêu cầu": "Tâm sinh lý",
+      "Giá trị fu": "L/350",
+      "Tải trọng để xác định độ võng đứng f": "Giá trị bất lợi hơn trong hai giá trị: - 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng; - tải trọng do một xe xếp tải."
+    },
+    {
+      "Cấu kiện kết cấu": "- các tải trọng di chuyển, vật liệu, chi tiết máy móc và các tải trọng di động khác (trong đó có tải trọng di chuyển trên nền không ray)",
+      "Yêu cầu": "Tâm sinh lý",
+      "Giá trị fu": "L/350",
+      "Tải trọng để xác định độ võng đứng f": "Giá trị bất lợi hơn trong hai giá trị: - 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng; - tải trọng do một xe xếp tải."
+    },
+    {
+      "Cấu kiện kết cấu": "- tải trọng di chuyển trên ray: + khổ hẹp",
+      "Yêu cầu": "Tâm sinh lý",
+      "Giá trị fu": "L/400",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng do một toa (hoặc một xe) chạy trên một đường ray"
+    },
+    {
+      "Cấu kiện kết cấu": "+ khổ rộng",
+      "Yêu cầu": "Tâm sinh lý",
+      "Giá trị fu": "L/500",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng do một toa (hoặc một xe) chạy trên một đường ray"
+    },
+    {
+      "Cấu kiện kết cấu": "d) mái và sàn tầng bãi đỗ xe trong nhà với nhịp L, m: L = 6 L = 12 L ≥ 24",
+      "Yêu cầu": "Tâm sinh lý",
+      "Giá trị fu": "L/200 L/250 L/300",
+      "Tải trọng để xác định độ võng đứng f": "Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm η nêu tại 8.3.3)"
+    },
+    {
+      "Cấu kiện kết cấu": "3. Các bộ phận của cầu thang bộ (bản thang, chiếu nghỉ, chiếu tới, cốn), của ban công, của lôgia",
+      "Yêu cầu": "Thẩm mỹ - tâm lý",
+      "Giá trị fu": "Như trong mục 2a",
+      "Tải trọng để xác định độ võng đứng f": ""
+    },
+    {
+      "Cấu kiện kết cấu": "3. Các bộ phận của cầu thang bộ (bản thang, chiếu nghỉ, chiếu tới, cốn), của ban công, của lôgia",
+      "Yêu cầu": "Tâm sinh lý",
+      "Giá trị fu": "Xác định theo G.2.2",
+      "Tải trọng để xác định độ võng đứng f": ""
+    },
+    {
+      "Cấu kiện kết cấu": "4. Lanh tô, tấm tường treo phía trên lỗ cửa sổ và cửa đi (xà và xà gồ vách kính)",
+      "Yêu cầu": "Thẩm mỹ - tâm lý",
+      "Giá trị fu": "Như trong mục 2a",
+      "Tải trọng để xác định độ võng đứng f": ""
+    },
+    {
+      "Cấu kiện kết cấu": "Các ký hiệu trong Bảng G.1: L là nhịp tính toán của cấu kiện. a là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào.",
+      "Yêu cầu": "",
+      "Giá trị fu": "",
+      "Tải trọng để xác định độ võng đứng f": ""
+    },
+    {
+      "Cấu kiện kết cấu": "CHÚ THÍCH 1: Đối với công xôn L được lấy bằng hai lần chiều dài vươn công xôn. CHÚ THÍCH 2: Đối với các giá trị trung gian của L trong mục 2a, độ võng giới hạn xác định bằng nội suy tuyến tính có kể đến các yêu cầu trong G.1.7. CHÚ THÍCH 3: Trong mục 2a lấy số trong ngoặc đơn khi chiều cao phòng đến nhỏ hơn hoặc bằng 6 m. CHÚ THÍCH 4: Cách tính độ võng theo mục 2b được nêu trong G.1.8. CHÚ THÍCH 5: Khi khống chế độ võng giới hạn theo yêu cầu thẩm mỹ - tâm lý thì cho phép chiều dài nhịp L lấy bằng khoảng cách giữa mặt trong của các tường chịu lực (hoặc các cột). CHÚ THÍCH 6: Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) và cần trục treo lấy theo Bảng B.1, Phụ lục B.",
+      "Yêu cầu": "",
+      "Giá trị fu": "",
+      "Tải trọng để xác định độ võng đứng f": ""
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "table_id": "bang_03",
+    "file_stem": "bang_03",
+    "title": "Bang 03",
+    "columns_count": 3,
+    "rows_count": 0,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_03.json",
+    "csv_path": "tables/csv/bang_03.csv",
+    "has_normative_conditions": false
+  },
+  {
+    "table_id": "bang_04",
+    "file_stem": "bang_04",
+    "title": "Bang 04",
+    "columns_count": 4,
+    "rows_count": 0,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_04.json",
+    "csv_path": "tables/csv/bang_04.csv",
+    "has_normative_conditions": false
+  },
+  {
+    "table_id": "bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong",
+    "file_stem": "bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong",
+    "title": "Bang Danh Muc Cong Trinh Anh Huong An Toan Cong Dong",
+    "columns_count": 4,
+    "rows_count": 0,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.json",
+    "csv_path": "tables/csv/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.csv",
+    "has_normative_conditions": false
+  }
+]

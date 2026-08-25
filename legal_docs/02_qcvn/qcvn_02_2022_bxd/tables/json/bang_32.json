@@ -1,0 +1,6326 @@
+{
+  "table_id": "bang_32",
+  "rows_count": 1053,
+  "columns_count": 4,
+  "headers": [
+    "Tháng",
+    "Khuếch tán / tổng cộng",
+    "Giờ",
+    "Giờ mặt trời mọc / Giờ mặt trời lặn"
+  ],
+  "records": [
+    {
+      "Tháng": "Tháng",
+      "Khuếch tán / tổng cộng": "Khuếch tán / tổng cộng",
+      "Giờ": "12",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "13"
+    },
+    {
+      "Tháng": "Tháng",
+      "Khuếch tán / tổng cộng": "Khuếch tán / tổng cộng",
+      "Giờ": "12",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "11"
+    },
+    {
+      "Tháng": "Trạm Lai Châu",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,0"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "50,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "46,8"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "57,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "54,0"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,5"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "69,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "65,4"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,5"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "78,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "73,7"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "36,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,2"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "72,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "68,0"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "36,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,5"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,5"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "37,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,9"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "60,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,1"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,9"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,9"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,0"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "62,5"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,6"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "57,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "54,1"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "23,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "22,2"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "52,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "49,3"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "23,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "22,7"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "48,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "45,3"
+    },
+    {
+      "Tháng": "Trạm Sơn La",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,2"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "49,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "46,7"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,8"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "54,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "51,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,3"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "62,3"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,6"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "74,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "70,4"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "72,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "68,8"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "36,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,2"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "36,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,2"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,5"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,5"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,7"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,1"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "62,6"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,1"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,2"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "51,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "48,6"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "23,7"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "50,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "47,4"
+    },
+    {
+      "Tháng": "Trạm Lào Cai",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "23,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "22,5"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,1"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "23,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "23,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "36,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "35,0"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,4"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "46,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "44,2"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "36,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,4"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,5"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,5"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,6"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "37,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "35,0"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "56,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "53,5"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,6"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,4"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,4"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,3"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "58,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "55,7"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,9"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "42,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "41,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,3"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "24,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "23,0"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "35,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,0"
+    },
+    {
+      "Tháng": "Trạm Sapa",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "24,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "23,5"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "33,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "24,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,4"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "34,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,8"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,5"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "44,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "42,7"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,5"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "49,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "47,2"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "36,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,4"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "44,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "42,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "36,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,6"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "36,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,2"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,9"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "35,6"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,0"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "35,8"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "33,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,1"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,0"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "28,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,2"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "29,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,3"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "24,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "23,2"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "32,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,0"
+    },
+    {
+      "Tháng": "Trạm Yên Bái",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "24,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "22,9"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "32,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,6"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "32,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,4"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "35,3"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,0"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "44,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "41,6"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "60,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,9"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,7"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "58,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "54,9"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,5"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,0"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,6"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,9"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,0"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,9"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "54,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "51,0"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,5"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "44,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "42,2"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,2"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "36,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,4"
+    },
+    {
+      "Tháng": "Trạm Hà Giang",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "22,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "21,2"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "31,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,4"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "22,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "21,9"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "32,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,3"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "42,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "40,2"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,9"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "54,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "51,6"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,7"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,6"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "53,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "50,9"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,6"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,4"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,2"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,2"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,0"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,4"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,9"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "42,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "41,1"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "35,5"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "23,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "22,6"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "32,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,0"
+    },
+    {
+      "Tháng": "Trạm Tuyên Quang",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "23,5"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "34,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "35,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,5"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,8"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "39,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "37,1"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,7"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "48,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "45,3"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,0"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,7"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,3"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,2"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,2"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,5"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,4"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,9"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,8"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,7"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,8"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "55,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "52,4"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,5"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "45,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "43,1"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,3"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,9"
+    },
+    {
+      "Tháng": "Trạm Cao Bằng",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "24,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "22,8"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "33,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "33,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,5"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "40,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "38,5"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,8"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "47,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "44,8"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,8"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,5"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,8"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,6"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,2"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "69,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "65,4"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "72,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "68,6"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,0"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,1"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,3"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "52,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "49,4"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,0"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "46,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "43,8"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "24,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "23,2"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "39,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "37,3"
+    },
+    {
+      "Tháng": "Trạm Lạng Sơn",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,5"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "34,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,7"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,2"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "35,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,2"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,7"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "36,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,7"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,3"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "47,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "45,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,5"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "70,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "65,8"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,0"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,8"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,5"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "42,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "40,5"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,3"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,9"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,5"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "55,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "52,7"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,2"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "49,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "46,7"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,6"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "39,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,9"
+    },
+    {
+      "Tháng": "Trạm Bắc Kạn",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "24,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "23,6"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,1"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,6"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "36,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,1"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,5"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "39,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "37,4"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "48,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "46,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,6"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "62,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,2"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,4"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,8"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,5"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,1"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,3"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,2"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "54,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "51,6"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,8"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "46,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "43,2"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,1"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "38,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,1"
+    },
+    {
+      "Tháng": "Trạm Thái Nguyên",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,1"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "35,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,4"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "35,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,5"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,9"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "38,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,0"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "47,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "44,8"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "62,7"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,7"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,2"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,1"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,5"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,4"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,5"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,6"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,9"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,5"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "47,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "45,3"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,6"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "40,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "37,9"
+    },
+    {
+      "Tháng": "Trạm Việt Trì",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,0"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "34,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,4"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "36,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,9"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,8"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "38,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,5"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "50,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "47,6"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,4"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "71,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "66,7"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,9"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,9"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "68,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "64,1"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,2"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,2"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "6,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,3"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,3"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "58,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "55,4"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,5"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "49,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "46,4"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,7"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "41,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "38,7"
+    },
+    {
+      "Tháng": "Trạm Hòn Gai",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,9"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "38,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,6"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,0"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "33,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,9"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,8"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "36,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,2"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,7"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "46,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "44,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,6"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "62,7"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,8"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "60,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,8"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,0"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "62,8"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,6"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "57,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "55,0"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,1"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,1"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,1"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,8"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "53,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "50,4"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,0"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "43,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "40,9"
+    },
+    {
+      "Tháng": "Trạm Bắc Giang",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,6"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "36,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,1"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "35,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,2"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,4"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "38,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,0"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "49,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "46,4"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "72,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "67,9"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,7"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,7"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,8"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "68,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "64,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,0"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,2"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,1"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "64,1"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,9"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "60,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,6"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,0"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "51,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "48,7"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,6"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "41,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "39,2"
+    },
+    {
+      "Tháng": "Trạm Hà Nội",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,3"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "35,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "36,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,0"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,4"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "38,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,0"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "39,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "37,2"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "49,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "47,0"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,3"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "69,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "65,6"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,3"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,9"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,0"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,0"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,4"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,2"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,7"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,3"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,1"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,2"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "51,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "47,9"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,7"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "42,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "39,4"
+    },
+    {
+      "Tháng": "Trạm Sơn Tây",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,2"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "35,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,6"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "36,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,9"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,1"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "38,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,6"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,3"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "50,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "47,6"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,5"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,3"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "60,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,3"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,1"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "62,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,6"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,3"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,2"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,4"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "57,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "54,4"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "48,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "45,6"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,7"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "40,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "38,2"
+    },
+    {
+      "Tháng": "Trạm Hoà Bình",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,1"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "35,0"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,2"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "39,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,7"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,2"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "42,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "40,1"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "36,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,2"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "53,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "50,5"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,4"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "68,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,8"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,3"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "58,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "55,3"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,2"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,0"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,6"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,5"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,8"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "58,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "55,4"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,9"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "55,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "52,9"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,7"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "47,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "44,5"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,2"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "40,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "38,1"
+    },
+    {
+      "Tháng": "Trạm Hải Dương",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,0"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "36,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,7"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,2"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,8"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,7"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,9"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "49,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "46,4"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "72,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "67,6"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,8"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,5"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "70,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "66,1"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,4"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,5"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,3"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,8"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,4"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "52,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "48,9"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,2"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "42,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "39,8"
+    },
+    {
+      "Tháng": "Trạm Hưng Yên",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,8"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "35,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,8"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,9"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "35,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,0"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,4"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "35,5"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,3"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "51,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "48,3"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "71,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "67,4"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,7"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,4"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "71,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "67,1"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,4"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "21,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "21,1"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,5"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,5"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "60,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,9"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,6"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "50,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "47,3"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,2"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "42,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "39,9"
+    },
+    {
+      "Tháng": "Trạm Phủ Liễn",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,8"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "35,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,7"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "33,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,4"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,0"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "34,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,6"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,6"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "46,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "44,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,6"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,3"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,7"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,0"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,9"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,8"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,3"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,7"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,4"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,1"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,9"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,4"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "52,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "49,8"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,0"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "43,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "40,9"
+    },
+    {
+      "Tháng": "Trạm Thái Bình",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,3"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "68,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,4"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "24,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "23,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "31,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,5"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,1"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,2"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,8"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "47,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "45,3"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,5"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "69,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "65,4"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,6"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,0"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,6"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "70,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "66,6"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,3"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,7"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,0"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,4"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,4"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,7"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "50,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "47,4"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,1"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "41,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "39,2"
+    },
+    {
+      "Tháng": "Trạm Nam Định",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,7"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "35,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "34,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,9"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,9"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,6"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "52,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "48,9"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "71,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "67,4"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,0"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,8"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,3"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "72,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "68,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,5"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,2"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,6"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,5"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,6"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "580,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "54,9"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,6"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "51,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "48,6"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,2"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "41,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "38,6"
+    },
+    {
+      "Tháng": "Trạm Ninh Bình",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,2"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "39,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "37,4"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,7"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "35,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,7"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,9"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "35,4"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,5"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "55,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "51,5"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,7"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "80,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "74,9"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,4"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "70,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "66,3"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,4"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "77,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "72,8"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "68,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "64,1"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "64,1"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,9"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "55,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "53,5"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,7"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "54,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "51,2"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,4"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "44,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "42,2"
+    },
+    {
+      "Tháng": "Trạm Thanh Hoá",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,7"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "39,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "37,6"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "36,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,7"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,1"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "57,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "54,0"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "36,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,4"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "55,4"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,6"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "80,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "75,4"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "71,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "67,1"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,3"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "76,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "72,2"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,5"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,7"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "62,2"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,8"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "57,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "55,5"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,4"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "49,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "47,4"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,8"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "45,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "43,2"
+    },
+    {
+      "Tháng": "Trạm Vinh",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,2"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "30,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,6"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,2"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "28,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,1"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "36,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,0"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,7"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,2"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,0"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "82,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "77,1"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,6"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "69,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "66,1"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,0"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "76,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "71,9"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "64,0"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,0"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,2"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,4"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "46,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "45,2"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,6"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "41,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "39,3"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,1"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "32,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,3"
+    },
+    {
+      "Tháng": "Trạm Hà Tĩnh",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,3"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "31,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,7"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "29,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,3"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,4"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "35,0"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,7"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "60,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "81,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "76,0"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,3"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "76,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "720,0"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,9"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "77,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "73,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "62,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,0"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "58,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "55,9"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,4"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "45,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "43,9"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "38,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,9"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,9"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "32,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,8"
+    },
+    {
+      "Tháng": "Trạm Đồng Hới",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,4"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "34,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "33,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,7"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,2"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "45,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "42,8"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "81,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "75,5"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,7"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "86,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "81,5"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,8"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "83,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "78,6"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,6"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "85,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "80,5"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,5"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "64,0"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,6"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "68,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "65,5"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,7"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "43,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "42,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,1"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "41,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "39,4"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,3"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "33,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,1"
+    },
+    {
+      "Tháng": "Trạm Đông Hà",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,8"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "35,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,8"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "43,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "40,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "44,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "41,7"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "51,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "48,7"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,6"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "75,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "69,9"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,6"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "77,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "72,6"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,6"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "77,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "72,5"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,7"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "74,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "70,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,6"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "75,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "70,8"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,2"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "55,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "53,4"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "*",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "103,0"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "52,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "49,2"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,4"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "39,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,8"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,7"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "34,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,4"
+    },
+    {
+      "Tháng": "Trạm Huế",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,1"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "39,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "37,4"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,4"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "47,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "44,5"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,8"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "55,7"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,2"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "78,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "72,5"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,7"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "81,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "76,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,4"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "79,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "74,9"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,6"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "76,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "72,4"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,8"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "77,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "72,3"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,6"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,6"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,4"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "53,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "50,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,7"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "41,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "38,6"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,1"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,9"
+    },
+    {
+      "Tháng": "Trạm Đà Nẵng",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,3"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "41,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "39,4"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,7"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "51,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "48,0"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,2"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,1"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,9"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "79,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "73,5"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,6"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "81,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "76,0"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,4"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "77,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "73,0"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,6"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "75,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "71,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,1"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "75,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "70,3"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,6"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "37,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "35,5"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,4"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "53,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "50,6"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,0"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "45,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "42,6"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,6"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "39,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "37,3"
+    },
+    {
+      "Tháng": "Trạm Quảng Ngãi",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,7"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "41,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "39,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "54,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "51,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "68,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "64,4"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,2"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "79,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "74,5"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,4"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "77,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "73,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,1"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "80,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "76,1"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,4"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "77,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "73,0"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,4"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "81,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "76,0"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,2"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "72,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "68,9"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,5"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "57,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "54,1"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,2"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "42,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "40,0"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,8"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "38,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,4"
+    },
+    {
+      "Tháng": "Trạm Quy Nhơn",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,3"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "45,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "43,1"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "54,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "52,1"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "68,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "65,0"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,8"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "83,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "78,0"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "87,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "81,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,9"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "80,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "75,5"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,3"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "75,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "70,9"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,6"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "89,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "82,2"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,2"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "73,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "69,6"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,0"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "51,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "49,8"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,1"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "44,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "41,7"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,0"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "39,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "37,4"
+    },
+    {
+      "Tháng": "Trạm Tuy Hoà",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,3"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "45,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "42,8"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "56,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "54,1"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,5"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "70,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "66,7"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,8"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "84,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "78,9"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "86,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "80,4"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,1"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "80,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "75,3"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,5"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "73,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "69,1"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,6"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "79,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "74,0"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "72,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "68,6"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,1"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "51,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "49,5"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,1"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "44,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "41,8"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,0"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "40,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "38,3"
+    },
+    {
+      "Tháng": "Trạm Nha Trang",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,2"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,2"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,2"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "75,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "71,1"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,5"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "85,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "79,9"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "78,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "74,0"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,8"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "72,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "68,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,8"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "91,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "85,5"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,2"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "79,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "74,1"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,5"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "88,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "81,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "81,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "77,3"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,7"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "69,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "66,0"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,6"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,1"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,4"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,0"
+    },
+    {
+      "Tháng": "Trạm Plêiku",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "24,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "23,7"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,1"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,1"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "69,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "66,2"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,3"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,7"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,4"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "79,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "74,5"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,6"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "73,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "69,1"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,3"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "69,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "65,5"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,0"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "55,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "53,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "36,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "58,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "55,1"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "38,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "36,3"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "70,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "64,9"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,7"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "56,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "54,5"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,0"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "57,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "53,8"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "24,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "23,6"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "53,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "50,3"
+    },
+    {
+      "Tháng": "Trạm Buôn Ma Thuột",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "24,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,1"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "55,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "52,6"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "70,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "66,4"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,4"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "73,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "69,0"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,4"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "71,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "67,5"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,4"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "36,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,3"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,8"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,7"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,4"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,2"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,8"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "54,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "51,7"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,1"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "49,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "47,8"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,9"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "54,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "50,7"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "25,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,5"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "49,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "46,6"
+    },
+    {
+      "Tháng": "Trạm Đà Lạt",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "24,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "24,3"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "71,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "67,9"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "85,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "80,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "87,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "81,8"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,2"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "80,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "75,6"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "73,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "69,3"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "36,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,5"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "71,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "67,2"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "68,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "64,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "36,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "34,0"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,4"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,7"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,4"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,9"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,7"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "23,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "23,3"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "62,4"
+    },
+    {
+      "Tháng": "Trạm Phan Thiết",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,3"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "87,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "82,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,3"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "86,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "82,7"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,1"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "91,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "86,8"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,2"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "84,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "78,9"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,4"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "74,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "70,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,7"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "90,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "83,9"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,7"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "75,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "70,3"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,5"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "84,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "77,8"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,8"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "82,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "77,4"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,8"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "85,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "80,2"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,8"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "75,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "71,8"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,3"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "81,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "76,6"
+    },
+    {
+      "Tháng": "Trạm Tân Sơn Nhất",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "26,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "25,3"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,7"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "52,7"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "71,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "68,1"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,7"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "70,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "65,7"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,7"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,4"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,6"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,4"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,4"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,1"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,0"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,9"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,6"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "56,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "53,3"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,7"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "58,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "55,4"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,3"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "54,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "51,8"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,7"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "55,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,2"
+    },
+    {
+      "Tháng": "Trạm Sóc Trăng",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,9"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,8"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,1"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "79,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "74,9"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,6"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "82,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "77,6"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "30,8"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "84,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "78,2"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,2"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,7"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,1"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,0"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,7"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,0"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,8"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "64,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,8"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,2"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "60,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,0"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,5"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,4"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,7"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,6"
+    },
+    {
+      "Tháng": "Trạm Rạch Giá",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,8"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "55,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "53,1"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,5"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "66,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "62,9"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,8"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "67,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "63,6"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,1"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "72,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "67,1"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,4"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,4"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,7"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "60,6"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,0"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "56,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "53,8"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "58,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "55,2"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "35,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,6"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "56,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "53,3"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,8"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "58,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "54,6"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,2"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "53,4",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "50,9"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,0"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "52,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "50,1"
+    },
+    {
+      "Tháng": "Trạm Cà Mau",
+      "Khuếch tán / tổng cộng": "",
+      "Giờ": "",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": ""
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "28,2",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "27,1"
+    },
+    {
+      "Tháng": "1",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "65,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "61,9"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "29,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,4"
+    },
+    {
+      "Tháng": "2",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "74,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "70,5"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "31,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "29,8"
+    },
+    {
+      "Tháng": "3",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "77,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "73,3"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,3"
+    },
+    {
+      "Tháng": "4",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "79,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "74,0"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,4"
+    },
+    {
+      "Tháng": "5",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "63,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "59,8"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,2"
+    },
+    {
+      "Tháng": "6",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "58,5",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "55,3"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,6",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,1"
+    },
+    {
+      "Tháng": "7",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,7",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,4"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "34,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "33,1"
+    },
+    {
+      "Tháng": "8",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "62,3",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "58,6"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "32,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "31,6"
+    },
+    {
+      "Tháng": "9",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "61,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,4"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "33,9",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "32,3"
+    },
+    {
+      "Tháng": "10",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "60,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,2"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "30,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "28,9"
+    },
+    {
+      "Tháng": "11",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "60,1",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "57,2"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "khuếch tán",
+      "Giờ": "27,8",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "26,8"
+    },
+    {
+      "Tháng": "12",
+      "Khuếch tán / tổng cộng": "tổng cộng",
+      "Giờ": "59,0",
+      "Giờ mặt trời mọc / Giờ mặt trời lặn": "56,3"
+    }
+  ],
+  "footnotes": []
+}

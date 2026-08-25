@@ -1,14 +1,32 @@
 ---
-id: "luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1"
-document_number: "Đang cập nhật"
-title: "luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1"
-issued_by: "Bộ Xây dựng"
-signer: "Đang cập nhật"
-issued_date: "2026-06-30"
-effective_date: "2026-07-01"
-status: "active"
-pdf_anchor: "./luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1.pdf"
-legal_basis: []
+okf_version: '2.2'
+type: legal_normative_body
+title: Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ 2024 (Số 55/2024/QH15)
+description: Tài liệu Luật quy định chính quy trong hệ thống tri thức xây dựng CCBA.
+tags:
+- an_toan_chay
+- luat
+- pccc
+- vbpl
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1.md
+id: Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347
+doc_id: Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347
+document_number: 55/2024/QH15
+document_type: Luật
+issued_by: Quốc hội
+signer: Đang cập nhật
+issued_date: '2024-11-29'
+effective_date: '2025-07-01'
+status: active
+pdf_anchor:
+  path: ./luat_55_2024_qh15.pdf
+  sha256: 706a8bfbb2328ca11e2e54bd44849b22854256a2d68240cdf8fa320909c6f90b
+  cong_bao_number: 1187+1188/2024
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # ĐANG CẬP NHẬT
@@ -17,7 +35,7 @@ legal_basis: []
 > [!NOTE]
 > **Cơ quan ban hành:** Bộ Xây dựng (Người ký: Đang cập nhật).  
 > **Ngày ban hành:** 2026-06-30 | **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo (PDF Anchor of Trust):** [`luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1.pdf`](./luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1.pdf) *(SHA-256: `verified`)*.
+> **Mỏ neo PDF Công báo:** [luat_55_2024_qh15.pdf](./luat_55_2024_qh15.pdf) *(SHA-256: `verified`)*.
 
 ---
 

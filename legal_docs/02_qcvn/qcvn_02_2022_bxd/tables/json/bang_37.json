@@ -1,0 +1,6018 @@
+{
+  "table_id": "bang_37",
+  "rows_count": 1202,
+  "columns_count": 3,
+  "headers": [
+    "Trạm",
+    "Cấp lượng mưa (mm)",
+    "Tháng"
+  ],
+  "records": [
+    {
+      "Trạm": "Trạm",
+      "Cấp lượng mưa (mm)": "Cấp lượng mưa (mm)",
+      "Tháng": "1"
+    },
+    {
+      "Trạm": "1. Mường Tè",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "26,6"
+    },
+    {
+      "Trạm": "1. Mường Tè",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "2,7"
+    },
+    {
+      "Trạm": "1. Mường Tè",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,9"
+    },
+    {
+      "Trạm": "1. Mường Tè",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "1. Mường Tè",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "1. Mường Tè",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "1. Mường Tè",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "1. Mường Tè",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "2. Sìn Hồ",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,6"
+    },
+    {
+      "Trạm": "2. Sìn Hồ",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "5,1"
+    },
+    {
+      "Trạm": "2. Sìn Hồ",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1"
+    },
+    {
+      "Trạm": "2. Sìn Hồ",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,9"
+    },
+    {
+      "Trạm": "2. Sìn Hồ",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "2. Sìn Hồ",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "2. Sìn Hồ",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "2. Sìn Hồ",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "3. Tam Đường",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "25"
+    },
+    {
+      "Trạm": "3. Tam Đường",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "3,7"
+    },
+    {
+      "Trạm": "3. Tam Đường",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,2"
+    },
+    {
+      "Trạm": "3. Tam Đường",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "3. Tam Đường",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "3. Tam Đường",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "3. Tam Đường",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "3. Tam Đường",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "4. Than Uyên",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "25,3"
+    },
+    {
+      "Trạm": "4. Than Uyên",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "3,9"
+    },
+    {
+      "Trạm": "4. Than Uyên",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,9"
+    },
+    {
+      "Trạm": "4. Than Uyên",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "4. Than Uyên",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "4. Than Uyên",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "4. Than Uyên",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "4. Than Uyên",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "5. Lai Châu",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "26,6"
+    },
+    {
+      "Trạm": "5. Lai Châu",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "2,7"
+    },
+    {
+      "Trạm": "5. Lai Châu",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "5. Lai Châu",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "5. Lai Châu",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "5. Lai Châu",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "5. Lai Châu",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "5. Lai Châu",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "6. Tuần Giáo",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "25,8"
+    },
+    {
+      "Trạm": "6. Tuần Giáo",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "3,9"
+    },
+    {
+      "Trạm": "6. Tuần Giáo",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "6. Tuần Giáo",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "6. Tuần Giáo",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "6. Tuần Giáo",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "6. Tuần Giáo",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "6. Tuần Giáo",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "7. Pha Đin",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "25,2"
+    },
+    {
+      "Trạm": "7. Pha Đin",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "4,2"
+    },
+    {
+      "Trạm": "7. Pha Đin",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "7. Pha Đin",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "7. Pha Đin",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "7. Pha Đin",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "7. Pha Đin",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "7. Pha Đin",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "8. Điện Biên",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "27,2"
+    },
+    {
+      "Trạm": "8. Điện Biên",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "2,5"
+    },
+    {
+      "Trạm": "8. Điện Biên",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "8. Điện Biên",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "8. Điện Biên",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "8. Điện Biên",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "8. Điện Biên",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "8. Điện Biên",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "9. Quỳnh Nhai",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "27,2"
+    },
+    {
+      "Trạm": "9. Quỳnh Nhai",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "2,1"
+    },
+    {
+      "Trạm": "9. Quỳnh Nhai",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,9"
+    },
+    {
+      "Trạm": "9. Quỳnh Nhai",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "9. Quỳnh Nhai",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "9. Quỳnh Nhai",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "9. Quỳnh Nhai",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "9. Quỳnh Nhai",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "10. Sông Mã",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "27,6"
+    },
+    {
+      "Trạm": "10. Sông Mã",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,9"
+    },
+    {
+      "Trạm": "10. Sông Mã",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "10. Sông Mã",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "10. Sông Mã",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "10. Sông Mã",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "10. Sông Mã",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "10. Sông Mã",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "11. Cò Nòi",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "27,9"
+    },
+    {
+      "Trạm": "11. Cò Nòi",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "2,1"
+    },
+    {
+      "Trạm": "11. Cò Nòi",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "11. Cò Nòi",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "11. Cò Nòi",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "11. Cò Nòi",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "11. Cò Nòi",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "11. Cò Nòi",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "12. Yên Châu",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "28,4"
+    },
+    {
+      "Trạm": "12. Yên Châu",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,9"
+    },
+    {
+      "Trạm": "12. Yên Châu",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "12. Yên Châu",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "12. Yên Châu",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "12. Yên Châu",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "12. Yên Châu",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "12. Yên Châu",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "13. Bắc Yên",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "26,1"
+    },
+    {
+      "Trạm": "13. Bắc Yên",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "3,5"
+    },
+    {
+      "Trạm": "13. Bắc Yên",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "13. Bắc Yên",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "13. Bắc Yên",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "13. Bắc Yên",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "13. Bắc Yên",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "13. Bắc Yên",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "14. Phù Yên",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "26,1"
+    },
+    {
+      "Trạm": "14. Phù Yên",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "3,6"
+    },
+    {
+      "Trạm": "14. Phù Yên",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "14. Phù Yên",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "14. Phù Yên",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "14. Phù Yên",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "14. Phù Yên",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "14. Phù Yên",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "15. Mộc Châu",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "20,8"
+    },
+    {
+      "Trạm": "15. Mộc Châu",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,2"
+    },
+    {
+      "Trạm": "15. Mộc Châu",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "15. Mộc Châu",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "15. Mộc Châu",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "15. Mộc Châu",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "15. Mộc Châu",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "15. Mộc Châu",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "16. Sơn La",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "26,8"
+    },
+    {
+      "Trạm": "16. Sơn La",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "2,9"
+    },
+    {
+      "Trạm": "16. Sơn La",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "16. Sơn La",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "16. Sơn La",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "16. Sơn La",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "16. Sơn La",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "16. Sơn La",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "17. Kim Bôi",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "20,2"
+    },
+    {
+      "Trạm": "17. Kim Bôi",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,4"
+    },
+    {
+      "Trạm": "17. Kim Bôi",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "17. Kim Bôi",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "17. Kim Bôi",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "17. Kim Bôi",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "17. Kim Bôi",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "17. Kim Bôi",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "18. Mai Châu",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "28,3"
+    },
+    {
+      "Trạm": "18. Mai Châu",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "2"
+    },
+    {
+      "Trạm": "18. Mai Châu",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "18. Mai Châu",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "18. Mai Châu",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "18. Mai Châu",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "18. Mai Châu",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "18. Mai Châu",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "19. Chi Nê",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,7"
+    },
+    {
+      "Trạm": "19. Chi Nê",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,3"
+    },
+    {
+      "Trạm": "19. Chi Nê",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "19. Chi Nê",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "19. Chi Nê",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "19. Chi Nê",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "19. Chi Nê",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "19. Chi Nê",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "20. Lạc Sơn",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "21,2"
+    },
+    {
+      "Trạm": "20. Lạc Sơn",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,5"
+    },
+    {
+      "Trạm": "20. Lạc Sơn",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "20. Lạc Sơn",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "20. Lạc Sơn",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "20. Lạc Sơn",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "20. Lạc Sơn",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "20. Lạc Sơn",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "21. Hoà Bình",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,2"
+    },
+    {
+      "Trạm": "21. Hoà Bình",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6,8"
+    },
+    {
+      "Trạm": "21. Hoà Bình",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "21. Hoà Bình",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "21. Hoà Bình",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "21. Hoà Bình",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "21. Hoà Bình",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "21. Hoà Bình",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "22. Hoàng Su Phì",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "25,4"
+    },
+    {
+      "Trạm": "22. Hoàng Su Phì",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "4,6"
+    },
+    {
+      "Trạm": "22. Hoàng Su Phì",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "22. Hoàng Su Phì",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "22. Hoàng Su Phì",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "22. Hoàng Su Phì",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "22. Hoàng Su Phì",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "22. Hoàng Su Phì",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "23. Bắc Mê",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,6"
+    },
+    {
+      "Trạm": "23. Bắc Mê",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "5,9"
+    },
+    {
+      "Trạm": "23. Bắc Mê",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "23. Bắc Mê",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "23. Bắc Mê",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "23. Bắc Mê",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "23. Bắc Mê",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "23. Bắc Mê",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "24. Bắc Quang",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "16,9"
+    },
+    {
+      "Trạm": "24. Bắc Quang",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "10,4"
+    },
+    {
+      "Trạm": "24. Bắc Quang",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,8"
+    },
+    {
+      "Trạm": "24. Bắc Quang",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "1,2"
+    },
+    {
+      "Trạm": "24. Bắc Quang",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "24. Bắc Quang",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "24. Bắc Quang",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "24. Bắc Quang",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "25. Hà Giang",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "21,2"
+    },
+    {
+      "Trạm": "25. Hà Giang",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,7"
+    },
+    {
+      "Trạm": "25. Hà Giang",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,3"
+    },
+    {
+      "Trạm": "25. Hà Giang",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "25. Hà Giang",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "25. Hà Giang",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "25. Hà Giang",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "25. Hà Giang",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "26. Bắc Hà",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "21,9"
+    },
+    {
+      "Trạm": "26. Bắc Hà",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,7"
+    },
+    {
+      "Trạm": "26. Bắc Hà",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,9"
+    },
+    {
+      "Trạm": "26. Bắc Hà",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "26. Bắc Hà",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "26. Bắc Hà",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "26. Bắc Hà",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "26. Bắc Hà",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "27. Sa Pa",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "15,2"
+    },
+    {
+      "Trạm": "27. Sa Pa",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "12,7"
+    },
+    {
+      "Trạm": "27. Sa Pa",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,3"
+    },
+    {
+      "Trạm": "27. Sa Pa",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "1,1"
+    },
+    {
+      "Trạm": "27. Sa Pa",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "27. Sa Pa",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "27. Sa Pa",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "27. Sa Pa",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "28. Mù Cang Chải",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "26,7"
+    },
+    {
+      "Trạm": "28. Mù Cang Chải",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "2,7"
+    },
+    {
+      "Trạm": "28. Mù Cang Chải",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "28. Mù Cang Chải",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "28. Mù Cang Chải",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "28. Mù Cang Chải",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "28. Mù Cang Chải",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "28. Mù Cang Chải",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "29. Văn Chấn",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "26"
+    },
+    {
+      "Trạm": "29. Văn Chấn",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "3,9"
+    },
+    {
+      "Trạm": "29. Văn Chấn",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "29. Văn Chấn",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "29. Văn Chấn",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "29. Văn Chấn",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "29. Văn Chấn",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "29. Văn Chấn",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "30. Lục Yên",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "19,9"
+    },
+    {
+      "Trạm": "30. Lục Yên",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,1"
+    },
+    {
+      "Trạm": "30. Lục Yên",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,3"
+    },
+    {
+      "Trạm": "30. Lục Yên",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "30. Lục Yên",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "30. Lục Yên",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "30. Lục Yên",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "30. Lục Yên",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "31. Yên Bái",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "18,4"
+    },
+    {
+      "Trạm": "31. Yên Bái",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "11"
+    },
+    {
+      "Trạm": "31. Yên Bái",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,1"
+    },
+    {
+      "Trạm": "31. Yên Bái",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "31. Yên Bái",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "31. Yên Bái",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "31. Yên Bái",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "31. Yên Bái",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "32. Hàm Yên",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "20,4"
+    },
+    {
+      "Trạm": "32. Hàm Yên",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,4"
+    },
+    {
+      "Trạm": "32. Hàm Yên",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "32. Hàm Yên",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "32. Hàm Yên",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "32. Hàm Yên",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "32. Hàm Yên",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "32. Hàm Yên",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "33. Tuyên Quang",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "21,5"
+    },
+    {
+      "Trạm": "33. Tuyên Quang",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,3"
+    },
+    {
+      "Trạm": "33. Tuyên Quang",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "33. Tuyên Quang",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "33. Tuyên Quang",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "33. Tuyên Quang",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "33. Tuyên Quang",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "33. Tuyên Quang",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "34. Chiêm Hóa",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "21,1"
+    },
+    {
+      "Trạm": "34. Chiêm Hóa",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,6"
+    },
+    {
+      "Trạm": "34. Chiêm Hóa",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "34. Chiêm Hóa",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "34. Chiêm Hóa",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "34. Chiêm Hóa",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "34. Chiêm Hóa",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "34. Chiêm Hóa",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "35. Chợ Rã",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "25,1"
+    },
+    {
+      "Trạm": "35. Chợ Rã",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "4,8"
+    },
+    {
+      "Trạm": "35. Chợ Rã",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "35. Chợ Rã",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "35. Chợ Rã",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "35. Chợ Rã",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "35. Chợ Rã",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "35. Chợ Rã",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "36. Ngân Sơn",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "20,2"
+    },
+    {
+      "Trạm": "36. Ngân Sơn",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,3"
+    },
+    {
+      "Trạm": "36. Ngân Sơn",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "36. Ngân Sơn",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "36. Ngân Sơn",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "36. Ngân Sơn",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "36. Ngân Sơn",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "36. Ngân Sơn",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "37. Bắc Kạn",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,2"
+    },
+    {
+      "Trạm": "37. Bắc Kạn",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6,5"
+    },
+    {
+      "Trạm": "37. Bắc Kạn",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "37. Bắc Kạn",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "37. Bắc Kạn",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "37. Bắc Kạn",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "37. Bắc Kạn",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "37. Bắc Kạn",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "38. Định Hóa",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,3"
+    },
+    {
+      "Trạm": "38. Định Hóa",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6,5"
+    },
+    {
+      "Trạm": "38. Định Hóa",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "38. Định Hóa",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "38. Định Hóa",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "38. Định Hóa",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "38. Định Hóa",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "38. Định Hóa",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "39. Thái Nguyên",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "21,9"
+    },
+    {
+      "Trạm": "39. Thái Nguyên",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8"
+    },
+    {
+      "Trạm": "39. Thái Nguyên",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "39. Thái Nguyên",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "39. Thái Nguyên",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "39. Thái Nguyên",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "39. Thái Nguyên",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "39. Thái Nguyên",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "40. Minh Đài",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "18,5"
+    },
+    {
+      "Trạm": "40. Minh Đài",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "10,8"
+    },
+    {
+      "Trạm": "40. Minh Đài",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1"
+    },
+    {
+      "Trạm": "40. Minh Đài",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "40. Minh Đài",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "40. Minh Đài",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "40. Minh Đài",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "40. Minh Đài",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "41. Phú Hộ",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "19,8"
+    },
+    {
+      "Trạm": "41. Phú Hộ",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,5"
+    },
+    {
+      "Trạm": "41. Phú Hộ",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,1"
+    },
+    {
+      "Trạm": "41. Phú Hộ",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "41. Phú Hộ",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "41. Phú Hộ",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "41. Phú Hộ",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "41. Phú Hộ",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "42. Việt Trì",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "20,8"
+    },
+    {
+      "Trạm": "42. Việt Trì",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,9"
+    },
+    {
+      "Trạm": "42. Việt Trì",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "42. Việt Trì",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "42. Việt Trì",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "42. Việt Trì",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "42. Việt Trì",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "42. Việt Trì",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "43. Tam Đảo",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "14,9"
+    },
+    {
+      "Trạm": "43. Tam Đảo",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "14,5"
+    },
+    {
+      "Trạm": "43. Tam Đảo",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "43. Tam Đảo",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "43. Tam Đảo",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "43. Tam Đảo",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "43. Tam Đảo",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "43. Tam Đảo",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "44. Vĩnh Yên",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,1"
+    },
+    {
+      "Trạm": "44. Vĩnh Yên",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,9"
+    },
+    {
+      "Trạm": "44. Vĩnh Yên",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "44. Vĩnh Yên",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "44. Vĩnh Yên",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "44. Vĩnh Yên",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "44. Vĩnh Yên",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "44. Vĩnh Yên",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "45. Bảo Lạc",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "26,6"
+    },
+    {
+      "Trạm": "45. Bảo Lạc",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "3,1"
+    },
+    {
+      "Trạm": "45. Bảo Lạc",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "45. Bảo Lạc",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "45. Bảo Lạc",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "45. Bảo Lạc",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "45. Bảo Lạc",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "45. Bảo Lạc",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "46. Nguyên Bình",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "18,7"
+    },
+    {
+      "Trạm": "46. Nguyên Bình",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "10,1"
+    },
+    {
+      "Trạm": "46. Nguyên Bình",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,2"
+    },
+    {
+      "Trạm": "46. Nguyên Bình",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "46. Nguyên Bình",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "46. Nguyên Bình",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "46. Nguyên Bình",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "46. Nguyên Bình",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "47. Trùng Khánh",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "20,3"
+    },
+    {
+      "Trạm": "47. Trùng Khánh",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,1"
+    },
+    {
+      "Trạm": "47. Trùng Khánh",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "47. Trùng Khánh",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "47. Trùng Khánh",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "47. Trùng Khánh",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "47. Trùng Khánh",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "47. Trùng Khánh",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "48. Cao Bằng",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,9"
+    },
+    {
+      "Trạm": "48. Cao Bằng",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6,6"
+    },
+    {
+      "Trạm": "48. Cao Bằng",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "48. Cao Bằng",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "48. Cao Bằng",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "48. Cao Bằng",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "48. Cao Bằng",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "48. Cao Bằng",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "49. Bắc Sơn",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "20,7"
+    },
+    {
+      "Trạm": "49. Bắc Sơn",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,5"
+    },
+    {
+      "Trạm": "49. Bắc Sơn",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "49. Bắc Sơn",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "49. Bắc Sơn",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "49. Bắc Sơn",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "49. Bắc Sơn",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "49. Bắc Sơn",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "50. Hữu Lũng",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "24,7"
+    },
+    {
+      "Trạm": "50. Hữu Lũng",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "5,1"
+    },
+    {
+      "Trạm": "50. Hữu Lũng",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "50. Hữu Lũng",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "50. Hữu Lũng",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "50. Hữu Lũng",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "50. Hữu Lũng",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "50. Hữu Lũng",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "51. Đình Lập",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "24,6"
+    },
+    {
+      "Trạm": "51. Đình Lập",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "5,2"
+    },
+    {
+      "Trạm": "51. Đình Lập",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "51. Đình Lập",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "51. Đình Lập",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "51. Đình Lập",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "51. Đình Lập",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "51. Đình Lập",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "52. Thất Khê",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "21,3"
+    },
+    {
+      "Trạm": "52. Thất Khê",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8"
+    },
+    {
+      "Trạm": "52. Thất Khê",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,9"
+    },
+    {
+      "Trạm": "52. Thất Khê",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "52. Thất Khê",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "52. Thất Khê",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "52. Thất Khê",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "52. Thất Khê",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "53. Lạng Sơn",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,1"
+    },
+    {
+      "Trạm": "53. Lạng Sơn",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6,4"
+    },
+    {
+      "Trạm": "53. Lạng Sơn",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "53. Lạng Sơn",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "53. Lạng Sơn",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "53. Lạng Sơn",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "53. Lạng Sơn",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "53. Lạng Sơn",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "54. Lục Ngạn",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "24,3"
+    },
+    {
+      "Trạm": "54. Lục Ngạn",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "5,6"
+    },
+    {
+      "Trạm": "54. Lục Ngạn",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "54. Lục Ngạn",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "54. Lục Ngạn",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "54. Lục Ngạn",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "54. Lục Ngạn",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "54. Lục Ngạn",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "55. Sơn Động",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "24,4"
+    },
+    {
+      "Trạm": "55. Sơn Động",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "5,4"
+    },
+    {
+      "Trạm": "55. Sơn Động",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "55. Sơn Động",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "55. Sơn Động",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "55. Sơn Động",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "55. Sơn Động",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "55. Sơn Động",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "56. Bắc Giang",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,9"
+    },
+    {
+      "Trạm": "56. Bắc Giang",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6"
+    },
+    {
+      "Trạm": "56. Bắc Giang",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "56. Bắc Giang",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "56. Bắc Giang",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "56. Bắc Giang",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "56. Bắc Giang",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "56. Bắc Giang",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "57. Hiệp Hòa",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,2"
+    },
+    {
+      "Trạm": "57. Hiệp Hòa",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6,8"
+    },
+    {
+      "Trạm": "57. Hiệp Hòa",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "57. Hiệp Hòa",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "57. Hiệp Hòa",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "57. Hiệp Hòa",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "57. Hiệp Hòa",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "57. Hiệp Hòa",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "58. Uông Bí",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "25,4"
+    },
+    {
+      "Trạm": "58. Uông Bí",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "4,5"
+    },
+    {
+      "Trạm": "58. Uông Bí",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "58. Uông Bí",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "58. Uông Bí",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "58. Uông Bí",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "58. Uông Bí",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "58. Uông Bí",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "59. Cô Tô",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "24,5"
+    },
+    {
+      "Trạm": "59. Cô Tô",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "5,5"
+    },
+    {
+      "Trạm": "59. Cô Tô",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "59. Cô Tô",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "59. Cô Tô",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "59. Cô Tô",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "59. Cô Tô",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "59. Cô Tô",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "60. Bãi Cháy",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "24,4"
+    },
+    {
+      "Trạm": "60. Bãi Cháy",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "5,4"
+    },
+    {
+      "Trạm": "60. Bãi Cháy",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "60. Bãi Cháy",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "60. Bãi Cháy",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "60. Bãi Cháy",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "60. Bãi Cháy",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "60. Bãi Cháy",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "61. Cửa Ông",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,6"
+    },
+    {
+      "Trạm": "61. Cửa Ông",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6"
+    },
+    {
+      "Trạm": "61. Cửa Ông",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "61. Cửa Ông",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "61. Cửa Ông",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "61. Cửa Ông",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "61. Cửa Ông",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "61. Cửa Ông",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "62. Tiên Yên",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,5"
+    },
+    {
+      "Trạm": "62. Tiên Yên",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6,8"
+    },
+    {
+      "Trạm": "62. Tiên Yên",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "62. Tiên Yên",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "62. Tiên Yên",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "62. Tiên Yên",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "62. Tiên Yên",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "62. Tiên Yên",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "63. Quảng Hà",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "20,9"
+    },
+    {
+      "Trạm": "63. Quảng Hà",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8"
+    },
+    {
+      "Trạm": "63. Quảng Hà",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "63. Quảng Hà",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "63. Quảng Hà",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "63. Quảng Hà",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "63. Quảng Hà",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "63. Quảng Hà",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "64. Phủ Liễn",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,6"
+    },
+    {
+      "Trạm": "64. Phủ Liễn",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6,2"
+    },
+    {
+      "Trạm": "64. Phủ Liễn",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "64. Phủ Liễn",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "64. Phủ Liễn",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "64. Phủ Liễn",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "64. Phủ Liễn",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "64. Phủ Liễn",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "65. Hòn Dấu",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "25,4"
+    },
+    {
+      "Trạm": "65. Hòn Dấu",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "4,7"
+    },
+    {
+      "Trạm": "65. Hòn Dấu",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "65. Hòn Dấu",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "65. Hòn Dấu",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "65. Hòn Dấu",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "65. Hòn Dấu",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "65. Hòn Dấu",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "66. Bạch Long Vĩ",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "24,8"
+    },
+    {
+      "Trạm": "66. Bạch Long Vĩ",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "5,4"
+    },
+    {
+      "Trạm": "66. Bạch Long Vĩ",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "66. Bạch Long Vĩ",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "66. Bạch Long Vĩ",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "66. Bạch Long Vĩ",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "66. Bạch Long Vĩ",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "66. Bạch Long Vĩ",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "67. Ba Vì",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22"
+    },
+    {
+      "Trạm": "67. Ba Vì",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,7"
+    },
+    {
+      "Trạm": "67. Ba Vì",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "67. Ba Vì",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "67. Ba Vì",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "67. Ba Vì",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "67. Ba Vì",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "67. Ba Vì",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "68. Hà Đông",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "21,4"
+    },
+    {
+      "Trạm": "68. Hà Đông",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,4"
+    },
+    {
+      "Trạm": "68. Hà Đông",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "68. Hà Đông",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "68. Hà Đông",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "68. Hà Đông",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "68. Hà Đông",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "68. Hà Đông",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "69. Sơn Tây",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,3"
+    },
+    {
+      "Trạm": "69. Sơn Tây",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,6"
+    },
+    {
+      "Trạm": "69. Sơn Tây",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "69. Sơn Tây",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "69. Sơn Tây",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "69. Sơn Tây",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "69. Sơn Tây",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "69. Sơn Tây",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "70. Hà Nội",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,5"
+    },
+    {
+      "Trạm": "70. Hà Nội",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,6"
+    },
+    {
+      "Trạm": "70. Hà Nội",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "70. Hà Nội",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "70. Hà Nội",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "70. Hà Nội",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "70. Hà Nội",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "70. Hà Nội",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "71. Chí Linh",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "25,5"
+    },
+    {
+      "Trạm": "71. Chí Linh",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "4,6"
+    },
+    {
+      "Trạm": "71. Chí Linh",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "71. Chí Linh",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "71. Chí Linh",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "71. Chí Linh",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "71. Chí Linh",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "71. Chí Linh",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "72. Hải Dương",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,9"
+    },
+    {
+      "Trạm": "72. Hải Dương",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6,1"
+    },
+    {
+      "Trạm": "72. Hải Dương",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "72. Hải Dương",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "72. Hải Dương",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "72. Hải Dương",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "72. Hải Dương",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "72. Hải Dương",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "73. Hưng Yên",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,9"
+    },
+    {
+      "Trạm": "73. Hưng Yên",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7"
+    },
+    {
+      "Trạm": "73. Hưng Yên",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "73. Hưng Yên",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "73. Hưng Yên",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "73. Hưng Yên",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "73. Hưng Yên",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "73. Hưng Yên",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "74. Nam Định",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,8"
+    },
+    {
+      "Trạm": "74. Nam Định",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7"
+    },
+    {
+      "Trạm": "74. Nam Định",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "74. Nam Định",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "74. Nam Định",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "74. Nam Định",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "74. Nam Định",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "74. Nam Định",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "75. Văn Lý",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,8"
+    },
+    {
+      "Trạm": "75. Văn Lý",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,1"
+    },
+    {
+      "Trạm": "75. Văn Lý",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "75. Văn Lý",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "75. Văn Lý",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "75. Văn Lý",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "75. Văn Lý",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "75. Văn Lý",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "76. Thái Bình",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,5"
+    },
+    {
+      "Trạm": "76. Thái Bình",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,4"
+    },
+    {
+      "Trạm": "76. Thái Bình",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "76. Thái Bình",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "76. Thái Bình",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "76. Thái Bình",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "76. Thái Bình",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "76. Thái Bình",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "77. Hà Nam",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22"
+    },
+    {
+      "Trạm": "77. Hà Nam",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,7"
+    },
+    {
+      "Trạm": "77. Hà Nam",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "77. Hà Nam",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "77. Hà Nam",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "77. Hà Nam",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "77. Hà Nam",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "77. Hà Nam",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "78. Ninh Bình",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,6"
+    },
+    {
+      "Trạm": "78. Ninh Bình",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,3"
+    },
+    {
+      "Trạm": "78. Ninh Bình",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "78. Ninh Bình",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "78. Ninh Bình",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "78. Ninh Bình",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "78. Ninh Bình",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "78. Ninh Bình",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "79. Nho Quan",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "21,7"
+    },
+    {
+      "Trạm": "79. Nho Quan",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,1"
+    },
+    {
+      "Trạm": "79. Nho Quan",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "79. Nho Quan",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "79. Nho Quan",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "79. Nho Quan",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "79. Nho Quan",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "79. Nho Quan",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "80. Yên Định",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "24,5"
+    },
+    {
+      "Trạm": "80. Yên Định",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "5,6"
+    },
+    {
+      "Trạm": "80. Yên Định",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "80. Yên Định",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "80. Yên Định",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "80. Yên Định",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "80. Yên Định",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "80. Yên Định",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "81. Bái Thượng",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "20,4"
+    },
+    {
+      "Trạm": "81. Bái Thượng",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,3"
+    },
+    {
+      "Trạm": "81. Bái Thượng",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "81. Bái Thượng",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "81. Bái Thượng",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "81. Bái Thượng",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "81. Bái Thượng",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "81. Bái Thượng",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "82. Như Xuân",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "21,5"
+    },
+    {
+      "Trạm": "82. Như Xuân",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,6"
+    },
+    {
+      "Trạm": "82. Như Xuân",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "82. Như Xuân",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "82. Như Xuân",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "82. Như Xuân",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "82. Như Xuân",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "82. Như Xuân",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "83. Tĩnh Gia",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "21,3"
+    },
+    {
+      "Trạm": "83. Tĩnh Gia",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,7"
+    },
+    {
+      "Trạm": "83. Tĩnh Gia",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,1"
+    },
+    {
+      "Trạm": "83. Tĩnh Gia",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "83. Tĩnh Gia",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "83. Tĩnh Gia",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "83. Tĩnh Gia",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "83. Tĩnh Gia",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "84. Thanh Hóa",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,6"
+    },
+    {
+      "Trạm": "84. Thanh Hóa",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,6"
+    },
+    {
+      "Trạm": "84. Thanh Hóa",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "84. Thanh Hóa",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "84. Thanh Hóa",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "84. Thanh Hóa",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "84. Thanh Hóa",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "84. Thanh Hóa",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "85. Hồi Xuân",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "25,3"
+    },
+    {
+      "Trạm": "85. Hồi Xuân",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "5"
+    },
+    {
+      "Trạm": "85. Hồi Xuân",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "85. Hồi Xuân",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "85. Hồi Xuân",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "85. Hồi Xuân",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "85. Hồi Xuân",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "85. Hồi Xuân",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "86. Quỳ Châu",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "24,1"
+    },
+    {
+      "Trạm": "86. Quỳ Châu",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6,1"
+    },
+    {
+      "Trạm": "86. Quỳ Châu",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "86. Quỳ Châu",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "86. Quỳ Châu",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "86. Quỳ Châu",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "86. Quỳ Châu",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "86. Quỳ Châu",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "87. Quỳ Hợp",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,2"
+    },
+    {
+      "Trạm": "87. Quỳ Hợp",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8"
+    },
+    {
+      "Trạm": "87. Quỳ Hợp",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "87. Quỳ Hợp",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "87. Quỳ Hợp",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "87. Quỳ Hợp",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "87. Quỳ Hợp",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "87. Quỳ Hợp",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "88. Tây Hiếu",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,2"
+    },
+    {
+      "Trạm": "88. Tây Hiếu",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6,9"
+    },
+    {
+      "Trạm": "88. Tây Hiếu",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "88. Tây Hiếu",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "88. Tây Hiếu",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "88. Tây Hiếu",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "88. Tây Hiếu",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "88. Tây Hiếu",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "89. Quỳnh Lưu",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,9"
+    },
+    {
+      "Trạm": "89. Quỳnh Lưu",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6,3"
+    },
+    {
+      "Trạm": "89. Quỳnh Lưu",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "89. Quỳnh Lưu",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "89. Quỳnh Lưu",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "89. Quỳnh Lưu",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "89. Quỳnh Lưu",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "89. Quỳnh Lưu",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "90. Con Cuông",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "19,6"
+    },
+    {
+      "Trạm": "90. Con Cuông",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,6"
+    },
+    {
+      "Trạm": "90. Con Cuông",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,2"
+    },
+    {
+      "Trạm": "90. Con Cuông",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "90. Con Cuông",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "90. Con Cuông",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "90. Con Cuông",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "90. Con Cuông",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "91. Đô Lương",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "20,3"
+    },
+    {
+      "Trạm": "91. Đô Lương",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,2"
+    },
+    {
+      "Trạm": "91. Đô Lương",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,9"
+    },
+    {
+      "Trạm": "91. Đô Lương",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "91. Đô Lương",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "91. Đô Lương",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "91. Đô Lương",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "91. Đô Lương",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "92. Tương Dương",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "27,2"
+    },
+    {
+      "Trạm": "92. Tương Dương",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "3,1"
+    },
+    {
+      "Trạm": "92. Tương Dương",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "92. Tương Dương",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "92. Tương Dương",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "92. Tương Dương",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "92. Tương Dương",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "92. Tương Dương",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "93. Vinh",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "18,6"
+    },
+    {
+      "Trạm": "93. Vinh",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,2"
+    },
+    {
+      "Trạm": "93. Vinh",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,9"
+    },
+    {
+      "Trạm": "93. Vinh",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "93. Vinh",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "93. Vinh",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "93. Vinh",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "93. Vinh",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "94. Hương Khê",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "18,3"
+    },
+    {
+      "Trạm": "94. Hương Khê",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "10,3"
+    },
+    {
+      "Trạm": "94. Hương Khê",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,4"
+    },
+    {
+      "Trạm": "94. Hương Khê",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "94. Hương Khê",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "94. Hương Khê",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "94. Hương Khê",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "94. Hương Khê",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "95. Kỳ Anh",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "16,2"
+    },
+    {
+      "Trạm": "95. Kỳ Anh",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,2"
+    },
+    {
+      "Trạm": "95. Kỳ Anh",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "2,8"
+    },
+    {
+      "Trạm": "95. Kỳ Anh",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "2,6"
+    },
+    {
+      "Trạm": "95. Kỳ Anh",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "1,3"
+    },
+    {
+      "Trạm": "95. Kỳ Anh",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "95. Kỳ Anh",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "95. Kỳ Anh",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "96. Hà Tĩnh",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "16,6"
+    },
+    {
+      "Trạm": "96. Hà Tĩnh",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,9"
+    },
+    {
+      "Trạm": "96. Hà Tĩnh",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "2,6"
+    },
+    {
+      "Trạm": "96. Hà Tĩnh",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "1,7"
+    },
+    {
+      "Trạm": "96. Hà Tĩnh",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "1,1"
+    },
+    {
+      "Trạm": "96. Hà Tĩnh",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "96. Hà Tĩnh",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "96. Hà Tĩnh",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "97. Tuyên Hóa",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "17,4"
+    },
+    {
+      "Trạm": "97. Tuyên Hóa",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "11,1"
+    },
+    {
+      "Trạm": "97. Tuyên Hóa",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,4"
+    },
+    {
+      "Trạm": "97. Tuyên Hóa",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "97. Tuyên Hóa",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "97. Tuyên Hóa",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "97. Tuyên Hóa",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "97. Tuyên Hóa",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "98. Ba Đồn",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "20,9"
+    },
+    {
+      "Trạm": "98. Ba Đồn",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,4"
+    },
+    {
+      "Trạm": "98. Ba Đồn",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,4"
+    },
+    {
+      "Trạm": "98. Ba Đồn",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "98. Ba Đồn",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "98. Ba Đồn",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "98. Ba Đồn",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "98. Ba Đồn",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "99. Đồng Hới",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "20,7"
+    },
+    {
+      "Trạm": "99. Đồng Hới",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,4"
+    },
+    {
+      "Trạm": "99. Đồng Hới",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,3"
+    },
+    {
+      "Trạm": "99. Đồng Hới",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,9"
+    },
+    {
+      "Trạm": "99. Đồng Hới",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "99. Đồng Hới",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "99. Đồng Hới",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "99. Đồng Hới",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "100. Cồn Cỏ",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "16,5"
+    },
+    {
+      "Trạm": "100. Cồn Cỏ",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,8"
+    },
+    {
+      "Trạm": "100. Cồn Cỏ",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "2,6"
+    },
+    {
+      "Trạm": "100. Cồn Cỏ",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "2"
+    },
+    {
+      "Trạm": "100. Cồn Cỏ",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "1,7"
+    },
+    {
+      "Trạm": "100. Cồn Cỏ",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "100. Cồn Cỏ",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "100. Cồn Cỏ",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "101. Đông Hà",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "18,4"
+    },
+    {
+      "Trạm": "101. Đông Hà",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,5"
+    },
+    {
+      "Trạm": "101. Đông Hà",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,4"
+    },
+    {
+      "Trạm": "101. Đông Hà",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "1,2"
+    },
+    {
+      "Trạm": "101. Đông Hà",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "101. Đông Hà",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "101. Đông Hà",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "101. Đông Hà",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "102. Khe Sanh",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "22,4"
+    },
+    {
+      "Trạm": "102. Khe Sanh",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,7"
+    },
+    {
+      "Trạm": "102. Khe Sanh",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "102. Khe Sanh",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "102. Khe Sanh",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "102. Khe Sanh",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "102. Khe Sanh",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "102. Khe Sanh",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "103. A Lưới",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "15,2"
+    },
+    {
+      "Trạm": "103. A Lưới",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "11,9"
+    },
+    {
+      "Trạm": "103. A Lưới",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "2"
+    },
+    {
+      "Trạm": "103. A Lưới",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "1,4"
+    },
+    {
+      "Trạm": "103. A Lưới",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "103. A Lưới",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "103. A Lưới",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "103. A Lưới",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "104. Nam Đông",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "16"
+    },
+    {
+      "Trạm": "104. Nam Đông",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,7"
+    },
+    {
+      "Trạm": "104. Nam Đông",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "2,7"
+    },
+    {
+      "Trạm": "104. Nam Đông",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "2,1"
+    },
+    {
+      "Trạm": "104. Nam Đông",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "1,4"
+    },
+    {
+      "Trạm": "104. Nam Đông",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "104. Nam Đông",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "104. Nam Đông",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "105. Huế",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "16,3"
+    },
+    {
+      "Trạm": "105. Huế",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,7"
+    },
+    {
+      "Trạm": "105. Huế",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "2,4"
+    },
+    {
+      "Trạm": "105. Huế",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "2"
+    },
+    {
+      "Trạm": "105. Huế",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "1,1"
+    },
+    {
+      "Trạm": "105. Huế",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "105. Huế",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "105. Huế",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "106. Đà Nẵng",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "20,3"
+    },
+    {
+      "Trạm": "106. Đà Nẵng",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,3"
+    },
+    {
+      "Trạm": "106. Đà Nẵng",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,4"
+    },
+    {
+      "Trạm": "106. Đà Nẵng",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "1,1"
+    },
+    {
+      "Trạm": "106. Đà Nẵng",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "106. Đà Nẵng",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "106. Đà Nẵng",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "106. Đà Nẵng",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "107. Tam Kỳ",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "17"
+    },
+    {
+      "Trạm": "107. Tam Kỳ",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,4"
+    },
+    {
+      "Trạm": "107. Tam Kỳ",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "2,4"
+    },
+    {
+      "Trạm": "107. Tam Kỳ",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "1,6"
+    },
+    {
+      "Trạm": "107. Tam Kỳ",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "1,1"
+    },
+    {
+      "Trạm": "107. Tam Kỳ",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "107. Tam Kỳ",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "107. Tam Kỳ",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "108. Trà My",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "16,3"
+    },
+    {
+      "Trạm": "108. Trà My",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,3"
+    },
+    {
+      "Trạm": "108. Trà My",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "2,7"
+    },
+    {
+      "Trạm": "108. Trà My",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "2,5"
+    },
+    {
+      "Trạm": "108. Trà My",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "1,7"
+    },
+    {
+      "Trạm": "108. Trà My",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "108. Trà My",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "108. Trà My",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "109. Ba Tơ",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "14,5"
+    },
+    {
+      "Trạm": "109. Ba Tơ",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,2"
+    },
+    {
+      "Trạm": "109. Ba Tơ",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "2,9"
+    },
+    {
+      "Trạm": "109. Ba Tơ",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "2,4"
+    },
+    {
+      "Trạm": "109. Ba Tơ",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "1,8"
+    },
+    {
+      "Trạm": "109. Ba Tơ",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "109. Ba Tơ",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "109. Ba Tơ",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "110. Quảng Ngãi",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "16,8"
+    },
+    {
+      "Trạm": "110. Quảng Ngãi",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "9,3"
+    },
+    {
+      "Trạm": "110. Quảng Ngãi",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "2"
+    },
+    {
+      "Trạm": "110. Quảng Ngãi",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "1,4"
+    },
+    {
+      "Trạm": "110. Quảng Ngãi",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "1,2"
+    },
+    {
+      "Trạm": "110. Quảng Ngãi",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "110. Quảng Ngãi",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "110. Quảng Ngãi",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "111. Lý Sơn",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "17,9"
+    },
+    {
+      "Trạm": "111. Lý Sơn",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,8"
+    },
+    {
+      "Trạm": "111. Lý Sơn",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,7"
+    },
+    {
+      "Trạm": "111. Lý Sơn",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "2"
+    },
+    {
+      "Trạm": "111. Lý Sơn",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "1,2"
+    },
+    {
+      "Trạm": "111. Lý Sơn",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "111. Lý Sơn",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "111. Lý Sơn",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "112. Hoài Nhơn",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "19,2"
+    },
+    {
+      "Trạm": "112. Hoài Nhơn",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,6"
+    },
+    {
+      "Trạm": "112. Hoài Nhơn",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,5"
+    },
+    {
+      "Trạm": "112. Hoài Nhơn",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,9"
+    },
+    {
+      "Trạm": "112. Hoài Nhơn",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "112. Hoài Nhơn",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "112. Hoài Nhơn",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "112. Hoài Nhơn",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "113. Quy Nhơn",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "18,8"
+    },
+    {
+      "Trạm": "113. Quy Nhơn",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,8"
+    },
+    {
+      "Trạm": "113. Quy Nhơn",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,8"
+    },
+    {
+      "Trạm": "113. Quy Nhơn",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "1"
+    },
+    {
+      "Trạm": "113. Quy Nhơn",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "113. Quy Nhơn",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "113. Quy Nhơn",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "113. Quy Nhơn",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "114. Sơn Hòa",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "21,9"
+    },
+    {
+      "Trạm": "114. Sơn Hòa",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "7,9"
+    },
+    {
+      "Trạm": "114. Sơn Hòa",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "114. Sơn Hòa",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "114. Sơn Hòa",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "114. Sơn Hòa",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "114. Sơn Hòa",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "114. Sơn Hòa",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "115. Tuy Hòa",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "19,3"
+    },
+    {
+      "Trạm": "115. Tuy Hòa",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,6"
+    },
+    {
+      "Trạm": "115. Tuy Hòa",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,5"
+    },
+    {
+      "Trạm": "115. Tuy Hòa",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "1"
+    },
+    {
+      "Trạm": "115. Tuy Hòa",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "115. Tuy Hòa",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "115. Tuy Hòa",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "115. Tuy Hòa",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "116. Nha Trang",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,2"
+    },
+    {
+      "Trạm": "116. Nha Trang",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6"
+    },
+    {
+      "Trạm": "116. Nha Trang",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,9"
+    },
+    {
+      "Trạm": "116. Nha Trang",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "116. Nha Trang",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "116. Nha Trang",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "116. Nha Trang",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "116. Nha Trang",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "117. Cam Ranh",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "26,3"
+    },
+    {
+      "Trạm": "117. Cam Ranh",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "3,6"
+    },
+    {
+      "Trạm": "117. Cam Ranh",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "117. Cam Ranh",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "117. Cam Ranh",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "117. Cam Ranh",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "117. Cam Ranh",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "117. Cam Ranh",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "118. Trường Sa",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "16,1"
+    },
+    {
+      "Trạm": "118. Trường Sa",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,7"
+    },
+    {
+      "Trạm": "118. Trường Sa",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,9"
+    },
+    {
+      "Trạm": "118. Trường Sa",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "2,2"
+    },
+    {
+      "Trạm": "118. Trường Sa",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "1,5"
+    },
+    {
+      "Trạm": "118. Trường Sa",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "118. Trường Sa",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "118. Trường Sa",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "119. Phan Thiết",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "30,4"
+    },
+    {
+      "Trạm": "119. Phan Thiết",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "119. Phan Thiết",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "119. Phan Thiết",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "119. Phan Thiết",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "119. Phan Thiết",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "119. Phan Thiết",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "119. Phan Thiết",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "120. Hàm Tân",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "30,4"
+    },
+    {
+      "Trạm": "120. Hàm Tân",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "120. Hàm Tân",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "120. Hàm Tân",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "120. Hàm Tân",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "120. Hàm Tân",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "120. Hàm Tân",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "120. Hàm Tân",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "121. Phú Quý",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "28,4"
+    },
+    {
+      "Trạm": "121. Phú Quý",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "2"
+    },
+    {
+      "Trạm": "121. Phú Quý",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "121. Phú Quý",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "121. Phú Quý",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "121. Phú Quý",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "121. Phú Quý",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "121. Phú Quý",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "122. Đắc Tô",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "30,5"
+    },
+    {
+      "Trạm": "122. Đắc Tô",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "122. Đắc Tô",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "122. Đắc Tô",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "122. Đắc Tô",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "122. Đắc Tô",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "122. Đắc Tô",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "122. Đắc Tô",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "123. Kon Tum",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "30,7"
+    },
+    {
+      "Trạm": "123. Kon Tum",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "123. Kon Tum",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "123. Kon Tum",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "123. Kon Tum",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "123. Kon Tum",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "123. Kon Tum",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "123. Kon Tum",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "124. Pleiku",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "30,3"
+    },
+    {
+      "Trạm": "124. Pleiku",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "124. Pleiku",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "124. Pleiku",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "124. Pleiku",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "124. Pleiku",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "124. Pleiku",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "124. Pleiku",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "125. An Khê",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "23,7"
+    },
+    {
+      "Trạm": "125. An Khê",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "6,3"
+    },
+    {
+      "Trạm": "125. An Khê",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "125. An Khê",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "125. An Khê",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "125. An Khê",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "125. An Khê",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "125. An Khê",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "126. Aunpa",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,8"
+    },
+    {
+      "Trạm": "126. Aunpa",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,1"
+    },
+    {
+      "Trạm": "126. Aunpa",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "126. Aunpa",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "126. Aunpa",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "126. Aunpa",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "126. Aunpa",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "126. Aunpa",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "127. M'Đrăc",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "19,4"
+    },
+    {
+      "Trạm": "127. M'Đrăc",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "8,9"
+    },
+    {
+      "Trạm": "127. M'Đrăc",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "1,7"
+    },
+    {
+      "Trạm": "127. M'Đrăc",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "127. M'Đrăc",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "127. M'Đrăc",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "127. M'Đrăc",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "127. M'Đrăc",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "128. Buôn Ma Thuột",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,5"
+    },
+    {
+      "Trạm": "128. Buôn Ma Thuột",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,1"
+    },
+    {
+      "Trạm": "128. Buôn Ma Thuột",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "128. Buôn Ma Thuột",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "128. Buôn Ma Thuột",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "128. Buôn Ma Thuột",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "128. Buôn Ma Thuột",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "128. Buôn Ma Thuột",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "129. Buôn Hồ",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "28,5"
+    },
+    {
+      "Trạm": "129. Buôn Hồ",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "2,3"
+    },
+    {
+      "Trạm": "129. Buôn Hồ",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "129. Buôn Hồ",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "129. Buôn Hồ",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "129. Buôn Hồ",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "129. Buôn Hồ",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "129. Buôn Hồ",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "130. Đắk Nông",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "28,6"
+    },
+    {
+      "Trạm": "130. Đắk Nông",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,6"
+    },
+    {
+      "Trạm": "130. Đắk Nông",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "130. Đắk Nông",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "130. Đắk Nông",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "130. Đắk Nông",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "130. Đắk Nông",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "130. Đắk Nông",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "131. Liên Khương",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,9"
+    },
+    {
+      "Trạm": "131. Liên Khương",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "131. Liên Khương",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "131. Liên Khương",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "131. Liên Khương",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "131. Liên Khương",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "131. Liên Khương",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "131. Liên Khương",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "132. Đà Lạt",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "30"
+    },
+    {
+      "Trạm": "132. Đà Lạt",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "132. Đà Lạt",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "132. Đà Lạt",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "132. Đà Lạt",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "132. Đà Lạt",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "132. Đà Lạt",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "132. Đà Lạt",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "133. Bảo Lộc",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "25,5"
+    },
+    {
+      "Trạm": "133. Bảo Lộc",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "3,1"
+    },
+    {
+      "Trạm": "133. Bảo Lộc",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "133. Bảo Lộc",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "133. Bảo Lộc",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "133. Bảo Lộc",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "133. Bảo Lộc",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "133. Bảo Lộc",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "134. Đồng Phú",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,5"
+    },
+    {
+      "Trạm": "134. Đồng Phú",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,2"
+    },
+    {
+      "Trạm": "134. Đồng Phú",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "134. Đồng Phú",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "134. Đồng Phú",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "134. Đồng Phú",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "134. Đồng Phú",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "134. Đồng Phú",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "135. Phước Long",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,1"
+    },
+    {
+      "Trạm": "135. Phước Long",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,3"
+    },
+    {
+      "Trạm": "135. Phước Long",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "135. Phước Long",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "135. Phước Long",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "135. Phước Long",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "135. Phước Long",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "135. Phước Long",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "136. Tây Ninh",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,3"
+    },
+    {
+      "Trạm": "136. Tây Ninh",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,1"
+    },
+    {
+      "Trạm": "136. Tây Ninh",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "136. Tây Ninh",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "136. Tây Ninh",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "136. Tây Ninh",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "136. Tây Ninh",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "136. Tây Ninh",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "137. Vũng Tàu",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "30,1"
+    },
+    {
+      "Trạm": "137. Vũng Tàu",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "0,7"
+    },
+    {
+      "Trạm": "137. Vũng Tàu",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "137. Vũng Tàu",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "137. Vũng Tàu",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "137. Vũng Tàu",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "137. Vũng Tàu",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "137. Vũng Tàu",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "138. Côn Đảo",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,1"
+    },
+    {
+      "Trạm": "138. Côn Đảo",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,5"
+    },
+    {
+      "Trạm": "138. Côn Đảo",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "138. Côn Đảo",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "138. Côn Đảo",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "138. Côn Đảo",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "138. Côn Đảo",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "138. Côn Đảo",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "139. Mộc Hoá",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "28,7"
+    },
+    {
+      "Trạm": "139. Mộc Hoá",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,6"
+    },
+    {
+      "Trạm": "139. Mộc Hoá",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "139. Mộc Hoá",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "139. Mộc Hoá",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "139. Mộc Hoá",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "139. Mộc Hoá",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "139. Mộc Hoá",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "140. Mỹ Tho",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,7"
+    },
+    {
+      "Trạm": "140. Mỹ Tho",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1"
+    },
+    {
+      "Trạm": "140. Mỹ Tho",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "140. Mỹ Tho",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "140. Mỹ Tho",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "140. Mỹ Tho",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "140. Mỹ Tho",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "140. Mỹ Tho",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "141. Cao Lãnh",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,2"
+    },
+    {
+      "Trạm": "141. Cao Lãnh",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,3"
+    },
+    {
+      "Trạm": "141. Cao Lãnh",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "141. Cao Lãnh",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "141. Cao Lãnh",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "141. Cao Lãnh",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "141. Cao Lãnh",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "141. Cao Lãnh",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "142. Ba Tri",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "30,1"
+    },
+    {
+      "Trạm": "142. Ba Tri",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "142. Ba Tri",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "142. Ba Tri",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "142. Ba Tri",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "142. Ba Tri",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "142. Ba Tri",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "142. Ba Tri",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "143. Càng Long",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,9"
+    },
+    {
+      "Trạm": "143. Càng Long",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "0,8"
+    },
+    {
+      "Trạm": "143. Càng Long",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "143. Càng Long",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "143. Càng Long",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "143. Càng Long",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "143. Càng Long",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "143. Càng Long",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "144. Châu Đốc",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,3"
+    },
+    {
+      "Trạm": "144. Châu Đốc",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,3"
+    },
+    {
+      "Trạm": "144. Châu Đốc",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "144. Châu Đốc",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "144. Châu Đốc",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "144. Châu Đốc",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "144. Châu Đốc",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "144. Châu Đốc",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "145. Cần Thơ",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,2"
+    },
+    {
+      "Trạm": "145. Cần Thơ",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,3"
+    },
+    {
+      "Trạm": "145. Cần Thơ",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "145. Cần Thơ",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "145. Cần Thơ",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "145. Cần Thơ",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "145. Cần Thơ",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "145. Cần Thơ",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "146. Sóc Trăng",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,5"
+    },
+    {
+      "Trạm": "146. Sóc Trăng",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,1"
+    },
+    {
+      "Trạm": "146. Sóc Trăng",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "146. Sóc Trăng",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "146. Sóc Trăng",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "146. Sóc Trăng",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "146. Sóc Trăng",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "146. Sóc Trăng",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "147. Rạch Giá",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29"
+    },
+    {
+      "Trạm": "147. Rạch Giá",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,3"
+    },
+    {
+      "Trạm": "147. Rạch Giá",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "147. Rạch Giá",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "147. Rạch Giá",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "147. Rạch Giá",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "147. Rạch Giá",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "147. Rạch Giá",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "148. Phú Quốc",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "26,7"
+    },
+    {
+      "Trạm": "148. Phú Quốc",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "2,8"
+    },
+    {
+      "Trạm": "148. Phú Quốc",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,6"
+    },
+    {
+      "Trạm": "148. Phú Quốc",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "148. Phú Quốc",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,4"
+    },
+    {
+      "Trạm": "148. Phú Quốc",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "148. Phú Quốc",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "148. Phú Quốc",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "149. Bạc Liêu",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "29,5"
+    },
+    {
+      "Trạm": "149. Bạc Liêu",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "1,2"
+    },
+    {
+      "Trạm": "149. Bạc Liêu",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "149. Bạc Liêu",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "149. Bạc Liêu",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "149. Bạc Liêu",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "149. Bạc Liêu",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "149. Bạc Liêu",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "150. Cà Mau",
+      "Cấp lượng mưa (mm)": "Không mưa",
+      "Tháng": "27,5"
+    },
+    {
+      "Trạm": "150. Cà Mau",
+      "Cấp lượng mưa (mm)": "0,2-5",
+      "Tháng": "2,4"
+    },
+    {
+      "Trạm": "150. Cà Mau",
+      "Cấp lượng mưa (mm)": "5,1-10",
+      "Tháng": "0,5"
+    },
+    {
+      "Trạm": "150. Cà Mau",
+      "Cấp lượng mưa (mm)": "10,1-20",
+      "Tháng": "0,3"
+    },
+    {
+      "Trạm": "150. Cà Mau",
+      "Cấp lượng mưa (mm)": "20,1-50",
+      "Tháng": "0,2"
+    },
+    {
+      "Trạm": "150. Cà Mau",
+      "Cấp lượng mưa (mm)": "50,1-100",
+      "Tháng": "0,1"
+    },
+    {
+      "Trạm": "150. Cà Mau",
+      "Cấp lượng mưa (mm)": "100,1-150",
+      "Tháng": "0"
+    },
+    {
+      "Trạm": "150. Cà Mau",
+      "Cấp lượng mưa (mm)": "≥ 150,1",
+      "Tháng": "0"
+    }
+  ],
+  "footnotes": []
+}

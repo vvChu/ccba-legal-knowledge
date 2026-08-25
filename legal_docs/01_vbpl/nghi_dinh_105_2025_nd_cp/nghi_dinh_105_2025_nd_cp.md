@@ -1,18 +1,36 @@
 ---
-id: "nghi_dinh_105_2025_nd_cp"
-document_number: "105/2025/NĐ-CP"
-title: "Nghị định 105/2025/NĐ-CP về PCCC và cứu nạn, cứu hộ trong xây dựng"
-issued_by: "Chính phủ"
-signer: "Phạm Minh Chính"
-issued_date: "2025-05-15"
-effective_date: "2025-07-01"
-status: "active"
-pdf_anchor: "./nghi_dinh_105_2025_nd_cp.pdf"
-legal_basis:
-- doc_id: luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1
-  title: Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15
-- doc_id: Luat-Xay-dung-2025-135-2025-QH15
-  title: Luật Xây dựng số 135/2025/QH15
+okf_version: '2.2'
+type: legal_normative_body
+title: Nghị định 105/2025/NĐ-CP về Quy định chi tiết một số điều và biện pháp thi
+  hành Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ
+description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng
+  CCBA.
+tags:
+- an_toan_chay
+- nghi_dinh
+- pccc
+- vbpl
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/nghi_dinh_105_2025_nd_cp/nghi_dinh_105_2025_nd_cp.md
+id: nghi_dinh_105_2025_nd_cp
+doc_id: nghi_dinh_105_2025_nd_cp
+document_number: 105/2025/NĐ-CP
+document_type: Nghị định
+issued_by: Chính phủ
+signer: Phạm Minh Chính
+issued_date: '2025-05-15'
+effective_date: '2025-07-01'
+status: active
+pdf_anchor:
+  path: ./nghi_dinh_105_2025_nd_cp.pdf
+  sha256: f4f8993ffe37a93d26f335571793d3369a69737b0ed26504aba486ae38343f6a
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347
+  relation_type: guided_by
+artifacts:
+  templates_dir: ./templates/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 105/2025/NĐ-CP
@@ -21,7 +39,7 @@ legal_basis:
 > [!NOTE]
 > **Cơ quan ban hành:** Chính phủ (Người ký: Thủ tướng Phạm Minh Chính).  
 > **Ngày ban hành:** 2025-05-15 | **Hiệu lực:** 2025-07-01.  
-> **Mỏ neo PDF Công báo (PDF Anchor of Trust):** [`nghi_dinh_105_2025_nd_cp.pdf`](./nghi_dinh_105_2025_nd_cp.pdf) *(SHA-256: `81a0e88383a8bce0671607ecb2e98fa6a8397a61d15a9fffa5d95e0c5b3c589b`)*.
+> **Mỏ neo PDF Công báo (PDF Anchor of Trust):** [`nghi_dinh_105_2025_nd_cp.pdf`](./nghi_dinh_105_2025_nd_cp.pdf) *(SHA-256: `f4f8993ffe37a93d26f335571793d3369a69737b0ed26504aba486ae38343f6a`)*.
 
 ---
 

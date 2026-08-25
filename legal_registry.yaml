@@ -23,7 +23,7 @@ laws:
   title: Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ 2024 (Số 55/2024/QH15)
   bundle_path: legal_docs/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Nha-o/Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347.aspx
-  sha256: 6c306d82325a341fdd4b736809a9b7e4b2cbb4af8df918c57b82478475e6685f
+  sha256: 1f9d0298939a0f50b0a9b6e1e1830481c22c9596cc41fe40a88b8f9070875c0d
   pdf_path: legal_docs/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/luat_55_2024_qh15.pdf
   pdf_sha256: 706a8bfbb2328ca11e2e54bd44849b22854256a2d68240cdf8fa320909c6f90b
   cong_bao_number: 1187+1188/2024
@@ -44,7 +44,7 @@ laws:
   title: Luật Xây dựng 2025 (Số 135/2025/QH15)
   bundle_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Xay-dung-2025-so-135-2025-QH15-675213.aspx
-  sha256: d4c3bb7e9ca85b46a43300e2cc96f5b488e4ccf2c18a2aed39bf4e62f64b1517
+  sha256: 1055a12467698f6a411f4336dca42322288d321a62c0b685f9f79206b13d1980
   pdf_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15/luat_135_2025_qh15.pdf
   pdf_sha256: bacd661b1e7cb5e58f21c9357f465d1248588aea7838ba6d286f8982562edf01
   cong_bao_number: 1205+1206/2025
@@ -67,7 +67,7 @@ laws:
   pdf_sha256: 9c6fbdb47b2bc1f51b729443d9bf328d4428a51b3ef34a3d98f65e0499221621
   cong_bao_number: 789+790/2023
   pdf_status: verified
-  sha256: 9c6fbdb47b2bc1f51b729443d9bf328d4428a51b3ef34a3d98f65e0499221621
+  sha256: e35866bbeb7d67067d50a21398edfecc078ce34f049dc7a99a00f9dca3e52592
   source_file: .md\extracted_docs\luat_dau_thau_2023_22_2023_qh15\luat_dau_thau_2023_22_2023_qh15.docx
   source_file_size_kb: 61.3
 - id: nghi_dinh_217_2026_nd_cp
@@ -83,7 +83,7 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-217-2026-ND-CP-quan-ly-du-an-dau-tu-xay-dung-696494.aspx
   relations:
     guided_by: Luat-Xay-dung-2025-135-2025-QH15
-  sha256: 267bc191345fcf50bed8ef1e933b8c76d89544f00313a4f0c012d72273666050
+  sha256: 2424f4952be46b0e430a1248dd0541e3367179d44d306fb4610ecb5d418a3aab
   pdf_path: legal_docs/01_vbpl/nghi_dinh_217_2026_nd_cp/nghi_dinh_217_2026_nd_cp.pdf
   pdf_sha256: 2a9eb4d4d5ee8b5726f1c906ac0702d00a04a3452efc65f92d87cc3c8071ab0f
   cong_bao_number: Đang cập nhật
@@ -103,7 +103,7 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-207-2026-ND-CP-quan-ly-chat-luong-thi-cong-bao-tri-cong-trinh-701883.aspx
   relations:
     guided_by: Luat-Xay-dung-2025-135-2025-QH15
-  sha256: 6075a48964e1a8ffe84e6d1106a53fd3b724505f566fe4ec9c6847f8fe6e6ec0
+  sha256: d1f5fed375e85f5af80e1688b352c27d36e0b975e646373101fdef454426d844
   pdf_path: legal_docs/01_vbpl/nghi_dinh_207_2026_nd_cp/nghi_dinh_207_2026_nd_cp.pdf
   pdf_sha256: aaedee18527d73ee0f3802dd447f42dd7044c82b06c532dd3c2317aacb78ced5
   cong_bao_number: Đang cập nhật
@@ -127,7 +127,7 @@ laws:
   pdf_sha256: 3a52a394b8b1909f1337127df69db87ac840243154620aaa95b41e96808a09f9
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: bb9b651e55140864032987139230c72ff55e1bac6c4459dfa26431300e5d59a1
+  sha256: 32c73f0c9ebe4a1e96b2f362d35336c1a866ec1623fca0aca812867d25a9e6cd
   source_file: .md\extracted_docs\nghi_dinh_212_2026_nd_cp\212_2026_ND-CP_697287.docx
   source_file_size_kb: 281.5
 - id: nghi_dinh_206_2026_nd_cp
@@ -146,7 +146,7 @@ laws:
   pdf_sha256: 160aebe33b6981e7111ce327cacc675447d736fb10a519bdfef2a8db02131373
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: 59417a6321ae8bff4b71da893e86e4d286e16a2d7a9589c6d4fd23e37587b79b
+  sha256: 74a7d982ae490e7c565dc355230d8bc95410340c8f1e147f6c373f30f0429a51
   source_file: .md\extracted_docs\nghi_dinh_206_2026_nd_cp\206_2026_ND-CP_457659.docx
   source_file_size_kb: 28.3
 - id: nghi_dinh_210_2026_nd_cp
@@ -165,7 +165,7 @@ laws:
   pdf_sha256: b60801b38a87cd6dfe0a3f680999aa1f7ca3d48306f86825c9e2765ff993d598
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: 6bb739a25ec69c08b09b136851e4646d34963e9d24328075b0e92987ee6c5e18
+  sha256: 2c139a748e8b5f602ca8bb840bfe2073b85d9a85bcd989daec310e9bc3006c58
   source_file: .md\extracted_docs\nghi_dinh_210_2026_nd_cp\210_2026_ND-CP_696691.docx
   source_file_size_kb: 168.3
 - id: nghi_dinh_209_2026_nd_cp
@@ -184,7 +184,7 @@ laws:
   pdf_sha256: df417e2903348560a7641b9f4308be938ae0a173c57a7630ce7687687cf71769
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: cf2185c2bb12a463cb89bab82ed89316c6bb4d05f97a61e214e973f0a16f7ba2
+  sha256: 74f4fed557698e6b50dbf8e1f4a5ccfe5bbed81ae6d1a229ad20dcbd8bb1fbf9
   source_file: .md\extracted_docs\nghi_dinh_209_2026_nd_cp\209_2026_ND-CP_288496.docx
   source_file_size_kb: 12.8
 - id: nghi_dinh_193_2026_nd_cp
@@ -203,7 +203,7 @@ laws:
   pdf_sha256: a0a064fc9401ed4cc860100b171adad3258219086b3563abd37b3a8806630a4e
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: cee7740353d88125e2072827758fa9dfe45f831c8370dc94d3eb6ca45458c0f2
+  sha256: ba2ec573a1bf2c6dde69e537c3773b534cafc89bf65a2a892c22978f2a792a7f
   source_file: .md\extracted_docs\nghi_dinh_193_2026_nd_cp\193_2026_ND-CP_709388.docx
   source_file_size_kb: 61.6
 - id: nghi_dinh_105_2025_nd_cp
@@ -223,7 +223,7 @@ laws:
   pdf_sha256: f4f8993ffe37a93d26f335571793d3369a69737b0ed26504aba486ae38343f6a
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: 1af2efce8d6c9792647129be0c6465eaf3faf6efbfcc11a1c45692399b59aef0
+  sha256: 4bfbb20fac8b961afe92a8f9e3329cf078636df503bcfc391aa45ea2df0257ec
 - id: nghi_dinh_24_2024_nd_cp
   document_number: 24/2024/NĐ-CP
   title: Nghị định 24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành
@@ -242,7 +242,7 @@ laws:
   pdf_sha256: 810b9139d0074b49ab5b873667793d4c52433fc365fbfec787db408c17a1b104
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: a74c52aa0a1c21f86a096971f3a972bebe46ac3c195bbe5c60b4b5da0853bd7f
+  sha256: 0b8baa26bb35bad472a05b0182febdc047cabac0e4b9e87c9b96a15a5facf4bc
   source_file: .md\extracted_docs\nghi_dinh_24_2024_nd_cp\nghi_dinh_24_2024_nd_cp.docx
   source_file_size_kb: 192.9
 - id: thong_tu_101_2026_tt_bqp
@@ -262,7 +262,7 @@ laws:
   pdf_sha256: 8512ccb3393c2d1f833a7de251ac46a9847a0d0da154a33004210651def327d7
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: f174b547c868d88a1d4d41abb14f3d29123f2ed8a92caefa8e11c15e6931e884
+  sha256: 9441a49babe0e68a1b367b909ec4880ffff635ff3f559dd8c44acd78dee4c696
   source_file: .md\extracted_docs\thong_tu_101_2026_tt_bqp\101_2026_TT-BQP_713990.docx
   source_file_size_kb: 16.1
 - id: thong_tu_32_2026_tt_bxd
@@ -282,7 +282,7 @@ laws:
   pdf_sha256: ea27c3c8030538e7c0c025b8fd29884f938c3b2cb95ab8182b5a58b420ab2790
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: abde74431a6960442c414673a19ea8e6b451c99c883dd68b5601590ab2c4ea32
+  sha256: 7018dc703ad772c27e2ea6b45134a05ebd535ca0b213aeb59c82458b7c45eea3
   source_file: .md\extracted_docs\thong_tu_32_2026_tt_bxd\32_2026_TT-BXD_711676.docx
   source_file_size_kb: 10.9
 - id: thong_tu_33_2026_tt_bxd
@@ -302,7 +302,7 @@ laws:
   pdf_sha256: 73b9b92da82b5a2ca53f7c0b53936fdd35eec0fd40b24a44d00179fe1ff62399
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: 9367ee8a8ae0df89b1e2c91f0ff84e7fb312dfe18d154a342046c039b22de185
+  sha256: 896e1a48420615bda54f42594d96d714aad93171731d1ad6162bd05316f5b56a
   source_file: .md\extracted_docs\thong_tu_33_2026_tt_bxd\33_2026_TT-BXD_712404.docx
   source_file_size_kb: 11.0
 - id: thong_tu_34_2026_tt_bxd
@@ -322,7 +322,7 @@ laws:
   pdf_sha256: b65419b559da67420d9b6b0681ddfa695c29ad8b3ae270ed70b2a545f6a17aae
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: e32ebf134ce9485fe3b03be826549edf5690365e55c8f020eaf3974bb661b9e4
+  sha256: 3014ad697dc2e5680dfa12a2f6814fe5c43aa2d8bec259d66bbe1e17c3319898
   source_file: .md\extracted_docs\thong_tu_34_2026_tt_bxd\34_2026_TT-BXD_712306.docx
   source_file_size_kb: 81.3
 - id: thong_tu_36_2026_tt_bxd
@@ -342,7 +342,7 @@ laws:
   pdf_sha256: 6ef24aa5112ab267fbad9c66f5b17fbc7c8b7c9015ae370f71864d327febd20c
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: 89df583067507576e3a192adcad16b2262374a1de9ce0f5eb99fbd3331419e7d
+  sha256: 74b13d4f32b362d76f37ed0840c375e4b60356256f9617c4c1eb6d109ed921cb
   source_file: .md\extracted_docs\thong_tu_36_2026_tt_bxd\36_2026_TT-BXD_712408.docx
   source_file_size_kb: 272.3
 - id: thong_tu_37_2026_tt_bxd
@@ -362,7 +362,7 @@ laws:
   pdf_sha256: beb581cec6b66d74a774c69b8d4d744710f641a9d59a25a82cfce1487e04bd3f
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: e89f23bf792854d1cc0535d3c7f1b3328c60eafc57c0834b09928473a1cc5e36
+  sha256: cecf0ee916dc85ccb992320aec6d01b2bb8cddf65d11878ae2d03433db61602e
   source_file: .md\extracted_docs\thong_tu_37_2026_tt_bxd\37_2026_TT-BXD_712395.docx
   source_file_size_kb: 463.6
 - id: thong_tu_38_2026_tt_bxd
@@ -386,7 +386,7 @@ laws:
   pdf_sha256: 79d952610a16a3556f9903f37383259a1a2c01f6aef13c03042b449462ae54ef
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: 742fee33dcd007eecae6fd6864673e735a6e036cd506bbcdc2484325b0a4f508
+  sha256: 740100c47f28c4eaffbd5ddfd8e433f3e6077383e58fdc6f7df3562abbd64e8b
   source_file: .md\extracted_docs\thong_tu_38_2026_tt_bxd\38_2026_TT-BXD_712406.docx
   source_file_size_kb: 4269.0
 - id: thong_tu_39_2026_tt_bxd
@@ -406,7 +406,7 @@ laws:
   pdf_sha256: fcbd63740d9d284018c986e44ffea60ec9836120e0cad0d595e54b78dd660396
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: 975834ef42aa0c7f72720d3b1b178e8628079e0b6da89c293e9c04b375f6893e
+  sha256: e420c654c40537020f05b0c42c7db9d732ca9afd7d9631281831ddab70157e6d
   source_file: .md\extracted_docs\thong_tu_39_2026_tt_bxd\39_2026_TT-BXD_712407.docx
   source_file_size_kb: 137.1
 - id: thong_tu_40_2026_tt_bxd
@@ -426,7 +426,7 @@ laws:
   pdf_sha256: 5f0cceab8d62dae9d46bb333eeb3ea227129e029d1bbf971304714ee62702fcf
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: 1cd42693c2c0f805b14e3b0cda9be6b9fcf78a2f8c66e854b863d0265613dee4
+  sha256: dc57b9780dd91b69e3a97e6c3ec9c08eedb0a03d83cad3ed87bb9a0a7a157f4b
   source_file: .md\extracted_docs\thong_tu_40_2026_tt_bxd\40_2026_TT-BXD_712405.docx
   source_file_size_kb: 51.3
 - id: thong_tu_41_2026_tt_bxd
@@ -446,7 +446,7 @@ laws:
   pdf_sha256: 5fd3c24a5062d11526ba966c6a7e8933f389bb5df7cb26a26cbac34a6a85ff30
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: dc6bc2ebcaf83d15e153e3b567a6d24bc0f7e5f0359cf2f388dd1b120a79788f
+  sha256: 7af269157755b7ade2d1b66483d5910dcea895d66b797c5289e6bfab19aa2293
   source_file: .md\extracted_docs\thong_tu_41_2026_tt_bxd\41_2026_TT-BXD_697288.docx
   source_file_size_kb: 28.8
 - id: thong_tu_73_2026_tt_btc
@@ -466,7 +466,7 @@ laws:
   pdf_sha256: 98585a04eb1174e040409944cdafdb1ce2114d072055b866d24cb5f39ae3a5dd
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: 5f39e1b1c5da80c374b896d42d5035d269dfd344c66f521878061274cb8bf435
+  sha256: 8719779f5289e0a83f6ead96d8ad9c3b507c5c481bd5d0da743de69e5356184b
   source_file: .md\extracted_docs\thong_tu_73_2026_tt_btc\73_2026_TT-BTC_712590.docx
   source_file_size_kb: 50.1
 - id: thong_tu_79_2026_tt_btc
@@ -486,9 +486,27 @@ laws:
   pdf_sha256: ccd9cd294aabe6603bada057d2511902ab883d376a090f43698165db3cb5fcc4
   cong_bao_number: Đang cập nhật
   pdf_status: verified
-  sha256: 5476b800d1d32cba5137c97271da0f2297baabbc5106aecdd7e79e02e4bc924a
+  sha256: e572234523c1ae846f88408264e6d473b55a15364f81d6141108b445b6ae3abe
   source_file: .md\extracted_docs\thong_tu_79_2026_tt_btc\79_2026_TT-BTC_713348.docx
   source_file_size_kb: 65.6
+- id: QCVN-02-2022-BXD
+  document_number: QCVN 02:2022/BXD
+  title: QCVN 02:2022/BXD — Quy chuẩn kỹ thuật quốc gia về Số liệu điều kiện tự nhiên
+    dùng trong xây dựng
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Xây dựng
+  issued_date: '2022-09-26'
+  effective_date: '2023-03-26'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_02_2022_bxd/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-02-2022-TT-BXD-QCVN-02-2022-BXD-So-lieu-dieu-kien-tu-nhien-dung-trong-xay-dung-530884.aspx
+  pdf_path: legal_docs/02_qcvn/qcvn_02_2022_bxd/qcvn_02_2022_bxd.pdf
+  pdf_sha256: 0375f3b798e01dfde379710648c8024edc71b5718ec5ee4f0e405764620c7a7d
+  cong_bao_number: 1045+1046/2022
+  pdf_status: verified
+  sha256: ce8498fd6d4ca7f8d86f18c25ce53859c9ff9f515d97cabce207aad566f19e99
+  source_file: .md\extracted_docs\qcvn_02_2022_bxd\qcvn_02_2022_bxd.docx
+  source_file_size_kb: 15752.9
 - id: QCVN-04-2021-BXD
   document_number: QCVN 04:2021/BXD
   title: QCVN 04:2021/BXD — Quy chuẩn kỹ thuật quốc gia về Nhà chung cư (Sửa đổi 01:2026
@@ -510,7 +528,7 @@ laws:
       pdf_sha256: 63719290355103aad94f95b09d7f32de356c2df58d751b1f601a8ceb37efbd92
       cong_bao_number: 373/2026
       pdf_status: pending_download
-  sha256: 7a59f3596250ee821784af3aee0a3e23bdaf0585e214e1d6fc7e29d998513390
+  sha256: 73967d4d35762a85b871f269eca5227f641ed6c9eddac2fe3a4cb78fdf08ccf3
   pdf_path: legal_docs/02_qcvn/qcvn_04_2021_bxd/sources/qcvn_04_2021_bxd.pdf
   pdf_sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
   cong_bao_number: 373/2026 (SĐ1) / 235/2021
@@ -541,7 +559,7 @@ laws:
   pdf_sha256: e7b0f82433420e163e6d9d1e842f316a29ee50e473f075459bd52bc637aff7d5
   cong_bao_number: 235+236/2023 (SĐ1) / 1141+1142/2022
   pdf_status: verified
-  sha256: c7654fd9673bb11cab8b0fcbe5e4dcecb01b313279020222f33a7c3d3013c8b1
+  sha256: 9b566e602b6c1a28c5b42ad2f97985bb0813b80d6900e2ad0927250a8bf82a28
   source_file: .md\extracted_docs\qcvn_06_2022_bxd\qcvn_06_2022_bxd.docx
   source_file_size_kb: 2501.7
 - id: bang_so_sanh_luat_xay_dung_2025_vs_2014
@@ -615,5 +633,21 @@ standards:
   sha256: 4b68e9986b2401826bc59b8d27771eccecaefea7592473468ab03b733d3ab2e8
   pdf_path: legal_docs/03_tcvn/tcvn_7336_2021/tcvn_7336_2021.pdf
   pdf_sha256: 77bb1cad1efdaefae6f32baddf238351aa1ef6309735532625cbf5fd608e596f
+  cong_bao_number: TCVN
+  pdf_status: verified
+- id: TCVN-2737-2023
+  document_number: TCVN 2737:2023
+  title: TCVN 2737:2023 Tải trọng và tác động
+  type: Tiêu chuẩn quốc gia
+  issued_by: Bộ Khoa học và Công nghệ
+  issued_date: '2023-06-29'
+  effective_date: '2023-06-29'
+  status: active
+  bundle_path: legal_docs/03_tcvn/tcvn_2737_2023/
+  source_file: .md/extracted_docs/tcvn_2737_2023/tcvn_2737_2023.docx
+  source_file_size_kb: 5957.2
+  sha256: ae8d99a6e567d1f9864487bc7b9e0158ce0d3a7ee90677b42db8f1b9fccda6b5
+  pdf_path: legal_docs/03_tcvn/tcvn_2737_2023/tcvn_2737_2023.pdf
+  pdf_sha256: 8f134e4476b7c03b3dcd9f5b81a9b4525378757b356c0b7541f32e9fd0b206f8
   cong_bao_number: TCVN
   pdf_status: verified

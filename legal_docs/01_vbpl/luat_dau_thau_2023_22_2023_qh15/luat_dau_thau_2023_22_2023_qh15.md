@@ -1,14 +1,34 @@
 ---
-id: "luat_dau_thau_2023_22_2023_qh15"
-document_number: "22/2023/QH15"
-title: "Luật Đấu thầu số 22/2023/QH15"
-issued_by: "Quốc hội"
-signer: "Vương Đình Huệ"
-issued_date: "2023-06-23"
-effective_date: "2024-01-01"
-status: "active"
-pdf_anchor: "./luat_22_2023_qh15.pdf"
-legal_basis: []
+okf_version: '2.2'
+type: legal_normative_body
+title: Luật Đấu thầu số 22/2023/QH15
+description: Tài liệu Luật quy định chính quy trong hệ thống tri thức xây dựng CCBA.
+tags:
+- dau_thau
+- luat
+- vbpl
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/luat_dau_thau_2023_22_2023_qh15/luat_dau_thau_2023_22_2023_qh15.md
+id: luat_dau_thau_2023_22_2023_qh15
+doc_id: luat_dau_thau_2023_22_2023_qh15
+document_number: 22/2023/QH15
+document_type: Luật
+issued_by: Quốc hội
+signer: Vương Đình Huệ
+issued_date: '2023-06-23'
+effective_date: '2024-01-01'
+status: active
+pdf_anchor:
+  path: ./luat_22_2023_qh15.pdf
+  sha256: 9c6fbdb47b2bc1f51b729443d9bf328d4428a51b3ef34a3d98f65e0499221621
+  cong_bao_number: 789+790/2023
+relations:
+- target_id: 43/2013/QH13
+  relation_type: replaces
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 22/2023/QH15

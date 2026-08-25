@@ -1,0 +1,24 @@
+{
+  "table_id": "bang_71",
+  "rows_count": 4,
+  "columns_count": 2,
+  "headers": [
+    "Dạng đường bao tiết diện ngang và hướng gió",
+    "Giá trị k1"
+  ],
+  "records": [
+    {
+      "Dạng đường bao tiết diện ngang và hướng gió": "",
+      "Giá trị k1": "1,0"
+    },
+    {
+      "Dạng đường bao tiết diện ngang và hướng gió": "",
+      "Giá trị k1": "0,9"
+    },
+    {
+      "Dạng đường bao tiết diện ngang và hướng gió": "",
+      "Giá trị k1": "1,2"
+    }
+  ],
+  "footnotes": []
+}

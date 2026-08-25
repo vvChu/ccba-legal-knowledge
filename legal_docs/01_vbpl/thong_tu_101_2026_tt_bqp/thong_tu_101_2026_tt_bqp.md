@@ -1,31 +1,36 @@
 ---
-id: "thong_tu_101_2026_tt_bqp"
-document_number: "101/2026/TT-BQP"
-title: "Thông tư 101/2026/TT-BQP quy định chi tiết trong lĩnh vực quốc phòng theo Luật Xây dựng 2025"
-issued_by: "Bộ Quốc phòng"
-signer: "Đang cập nhật"
-issued_date: "2026-06-30"
-effective_date: "2026-07-01"
-status: "active"
-pdf_anchor: "./thong_tu_101_2026_tt_bqp.pdf"
-legal_basis:
-- doc_id: Luat-Xay-dung-2025-135-2025-QH15
-  title: Luật Xây dựng số 135/2025/QH15
-- doc_id: luật_quốc_phòng_số_22_2018_qh14
-  title: Luật Quốc phòng số 22/2018/QH14
-- doc_id: luật_tình_trạng_khẩn_cấp_số_104_2025_qh15
-  title: Luật Tình trạng khẩn cấp số 104/2025/QH15
-- doc_id: luật_bảo_vệ_bí_mật_nhà_nước_số_117_2025_qh15
-  title: Luật Bảo vệ bí mật Nhà nước số 117/2025/QH15
-- doc_id: nghị_định_số_01_2022_nđ_cp_của_chính_phủ_quy_định_
-  title: Nghị định số 01/2022/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền
-    hạn và cơ cấu tổ chức của Bộ Quốc phòng, được sửa đổi, bổ sung bởi Nghị định số
-    03/2025/NĐ-CP của Chính phủ
-- doc_id: nghị_định_số_217_2026_nđ_cp_của_chính_phủ_quy_định
-  title: Nghị định số 217/2026/NĐ-CP của Chính phủ quy định chi tiết một số điều của
-    Luật Xây dựng về quản lý hoạt động xây dựng
-- doc_id: nghị_định_số_206_2026_nđ_cp_của_chính_phủ_về_quản_
-  title: Nghị định số 206/2026/NĐ-CP của Chính phủ về quản lý chi phí đầu tư xây dựng
+okf_version: '2.2'
+type: legal_normative_body
+title: Thông tư 101/2026/TT-BQP quy định chi tiết trong lĩnh vực quốc phòng theo Luật
+  Xây dựng 2025
+description: Tài liệu Thông tư quy định chính quy trong hệ thống tri thức xây dựng
+  CCBA.
+tags:
+- thong_tu
+- vbpl
+- xay_dung
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/thong_tu_101_2026_tt_bqp/thong_tu_101_2026_tt_bqp.md
+id: thong_tu_101_2026_tt_bqp
+doc_id: thong_tu_101_2026_tt_bqp
+document_number: 101/2026/TT-BQP
+document_type: Thông tư
+issued_by: Bộ Quốc phòng
+signer: Đang cập nhật
+issued_date: '2026-06-30'
+effective_date: '2026-07-01'
+status: active
+pdf_anchor:
+  path: ./thong_tu_101_2026_tt_bqp.pdf
+  sha256: 8512ccb3393c2d1f833a7de251ac46a9847a0d0da154a33004210651def327d7
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: Luat-Xay-dung-2025-135-2025-QH15
+  relation_type: guided_by
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 101/2026/TT-BQP

@@ -1,22 +1,37 @@
 ---
-id: "thong_tu_36_2026_tt_bxd"
-document_number: "36/2026/TT-BXD"
-title: "Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng"
-issued_by: "Bộ Xây dựng"
-signer: "Đang cập nhật"
-issued_date: "2026-06-30"
-effective_date: "2026-07-01"
-status: "active"
-pdf_anchor: "./thong_tu_36_2026_tt_bxd.pdf"
-legal_basis:
-- doc_id: luật_xây_dựng_số_135_2025_qh15
-  title: Luật Xây dựng số 135/2025/QH15
-- doc_id: nghị_định_số_33_2025_nđ_cp_quy_định_chức_năng_nhiệ
-  title: Nghị định số 33/2025/NĐ-CP quy định chức năng, nhiệm vụ, quyền hạn và cơ
-    cấu tổ chức của Bộ Xây dựng
-- doc_id: nghị_định_số_206_2026_nđ_cp_quy_định_chi_tiết_về_q
-  title: Nghị định số 206/2026/NĐ-CP quy định chi tiết về quản lý chi phí đầu tư xây
-    dựng
+okf_version: '2.2'
+type: legal_normative_body
+title: Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng
+description: Tài liệu Thông tư quy định chính quy trong hệ thống tri thức xây dựng
+  CCBA.
+tags:
+- dau_tu_xay_dung
+- quan_ly_chi_phi
+- thong_tu
+- vbpl
+- xay_dung
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/thong_tu_36_2026_tt_bxd/thong_tu_36_2026_tt_bxd.md
+id: thong_tu_36_2026_tt_bxd
+doc_id: thong_tu_36_2026_tt_bxd
+document_number: 36/2026/TT-BXD
+document_type: Thông tư
+issued_by: Bộ Xây dựng
+signer: Đang cập nhật
+issued_date: '2026-06-30'
+effective_date: '2026-07-01'
+status: active
+pdf_anchor:
+  path: ./thong_tu_36_2026_tt_bxd.pdf
+  sha256: 6ef24aa5112ab267fbad9c66f5b17fbc7c8b7c9015ae370f71864d327febd20c
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: nghi_dinh_206_2026_nd_cp
+  relation_type: guided_by
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 36/2026/TT-BXD

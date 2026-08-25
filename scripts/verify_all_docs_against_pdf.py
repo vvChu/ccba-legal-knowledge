@@ -76,6 +76,10 @@ def audit_document(doc_entry: dict[str, Any], root_dir: Path) -> dict[str, Any]:
 
     pdf_path = root_dir / pdf_rel
     if not pdf_path.exists():
+        if doc_entry.get("pdf_status") == "pending_download":
+            res["status"] = "PENDING"
+            res["notes"].append(f"PDF pending download: {pdf_rel}")
+            return res
         res["status"] = "FAIL"
         res["notes"].append(f"PDF not found: {pdf_rel}")
         return res
@@ -214,12 +218,14 @@ def main() -> int:
         if r["status"] == "PASS":
             pass_count += 1
             status_str = "✅ PASS"
+        elif r["status"] == "PENDING":
+            status_str = "⏳ PENDING"
         else:
             fail_count += 1
             status_str = "❌ FAIL"
 
-        sha_str = "✅ Match" if r["pdf_sha_match"] else "❌ Mis"
-        rate_str = f"{r['dieu_match_rate']:.1f}%" if r["pdf_dieu_count"] > 0 else "Scan"
+        sha_str = "✅ Match" if r["pdf_sha_match"] else ("⏳ Pend" if r["status"] == "PENDING" else "❌ Mis")
+        rate_str = f"{r['dieu_match_rate']:.1f}%" if r["pdf_dieu_count"] > 0 else ("N/A" if r["status"] == "PENDING" else "Scan")
         short_num = str(r["doc_number"] or r["id"])[:26]
         short_type = str(r["type"])[:10]
 

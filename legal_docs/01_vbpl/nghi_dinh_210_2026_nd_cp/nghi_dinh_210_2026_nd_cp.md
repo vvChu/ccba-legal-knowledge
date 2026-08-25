@@ -1,18 +1,36 @@
 ---
-id: "nghi_dinh_210_2026_nd_cp"
-document_number: "210/2026/NĐ-CP"
-title: "Nghị định 210/2026/NĐ-CP về Hợp đồng xây dựng"
-issued_by: "Chính phủ"
-signer: "Đang cập nhật"
-issued_date: "2026-06-25"
-effective_date: "2026-07-01"
-status: "active"
-pdf_anchor: "./nghi_dinh_210_2026_nd_cp.pdf"
-legal_basis:
-- doc_id: luật_tổ_chức_chính_phủ_số_63_2025_qh15
-  title: Luật Tổ chức Chính phủ số 63/2025/QH15
-- doc_id: Luat-Xay-dung-2025-135-2025-QH15
-  title: Luật Xây dựng số 135/2025/QH15
+okf_version: '2.2'
+type: legal_normative_body
+title: Nghị định 210/2026/NĐ-CP về Hợp đồng xây dựng
+description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng
+  CCBA.
+tags:
+- hop_dong_xay_dung
+- nghi_dinh
+- vbpl
+- xay_dung
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/nghi_dinh_210_2026_nd_cp/nghi_dinh_210_2026_nd_cp.md
+id: nghi_dinh_210_2026_nd_cp
+doc_id: nghi_dinh_210_2026_nd_cp
+document_number: 210/2026/NĐ-CP
+document_type: Nghị định
+issued_by: Chính phủ
+signer: Đang cập nhật
+issued_date: '2026-06-25'
+effective_date: '2026-07-01'
+status: active
+pdf_anchor:
+  path: ./nghi_dinh_210_2026_nd_cp.pdf
+  sha256: b60801b38a87cd6dfe0a3f680999aa1f7ca3d48306f86825c9e2765ff993d598
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: Luat-Xay-dung-2025-135-2025-QH15
+  relation_type: guided_by
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 210/2026/NĐ-CP

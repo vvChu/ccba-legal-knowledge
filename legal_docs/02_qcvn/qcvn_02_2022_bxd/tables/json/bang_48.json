@@ -1,0 +1,504 @@
+{
+  "table_id": "bang_48",
+  "rows_count": 62,
+  "columns_count": 6,
+  "headers": [
+    "Tỉnh",
+    "TP/Huyện/ Thị xã",
+    "Trạm",
+    "Năm bắt đầu",
+    "Năm kết thúc",
+    "Tháng"
+  ],
+  "records": [
+    {
+      "Tỉnh": "Tỉnh",
+      "TP/Huyện/ Thị xã": "TP/Huyện/ Thị xã",
+      "Trạm": "Trạm",
+      "Năm bắt đầu": "Năm bắt đầu",
+      "Năm kết thúc": "Năm kết thúc",
+      "Tháng": "1"
+    },
+    {
+      "Tỉnh": "1. An Giang",
+      "TP/Huyện/ Thị xã": "TP. Châu Đốc",
+      "Trạm": "Châu Đốc",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,28"
+    },
+    {
+      "Tỉnh": "2. Bà Rịa - Vũng Tàu",
+      "TP/Huyện/ Thị xã": "Côn Đảo",
+      "Trạm": "1979",
+      "Năm bắt đầu": "2007",
+      "Năm kết thúc": "0,00",
+      "Tháng": "0,14"
+    },
+    {
+      "Tỉnh": "2. Bà Rịa - Vũng Tàu",
+      "TP/Huyện/ Thị xã": "TP. Vũng Tàu",
+      "Trạm": "Vũng Tàu",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,00"
+    },
+    {
+      "Tỉnh": "3. Bắc Giang",
+      "TP/Huyện/ Thị xã": "TP. Bắc Giang",
+      "Trạm": "Bắc Giang",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,12"
+    },
+    {
+      "Tỉnh": "4. Bắc Kạn",
+      "TP/Huyện/ Thị xã": "TP. Bắc Kạn",
+      "Trạm": "Bắc Kạn",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,14"
+    },
+    {
+      "Tỉnh": "5. Bình Định",
+      "TP/Huyện/ Thị xã": "TP. Quy Nhơn",
+      "Trạm": "Qui Nhơn",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,07"
+    },
+    {
+      "Tỉnh": "6. Bình Thuận",
+      "TP/Huyện/ Thị xã": "TP. Phan Thiết",
+      "Trạm": "Phan Thiết",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,00"
+    },
+    {
+      "Tỉnh": "7. Cà Mau",
+      "TP/Huyện/ Thị xã": "TP. Cà Mau",
+      "Trạm": "Cà Mau",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,24"
+    },
+    {
+      "Tỉnh": "8. Cần Thơ",
+      "TP/Huyện/ Thị xã": "TP. Cần Thơ",
+      "Trạm": "Cần Thơ",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,31"
+    },
+    {
+      "Tỉnh": "9. Cao Bằng",
+      "TP/Huyện/ Thị xã": "TP. Cao Bằng",
+      "Trạm": "Cao Bằng",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,23"
+    },
+    {
+      "Tỉnh": "10.Đắk Lắk",
+      "TP/Huyện/ Thị xã": "TP. Buôn Ma Thuột",
+      "Trạm": "Buôn Ma Thuột",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,10"
+    },
+    {
+      "Tỉnh": "11.Gia Lai",
+      "TP/Huyện/ Thị xã": "TP. Pleiku",
+      "Trạm": "Pleiku",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,07"
+    },
+    {
+      "Tỉnh": "12.Hà Giang",
+      "TP/Huyện/ Thị xã": "TP. Hà Giang",
+      "Trạm": "Hà Giang",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,26"
+    },
+    {
+      "Tỉnh": "13.Hà Nam",
+      "TP/Huyện/ Thị xã": "TP. Phủ Lý",
+      "Trạm": "Hà Nam",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,19"
+    },
+    {
+      "Tỉnh": "14.Hà Tĩnh",
+      "TP/Huyện/ Thị xã": "TX. Kỳ Anh",
+      "Trạm": "Kỳ Anh",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,05"
+    },
+    {
+      "Tỉnh": "15.Hà Tĩnh",
+      "TP/Huyện/ Thị xã": "TP. Hà Tĩnh",
+      "Trạm": "Hà Tĩnh",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,14"
+    },
+    {
+      "Tỉnh": "16.Hoà Bình",
+      "TP/Huyện/ Thị xã": "TP. Hòa Bình",
+      "Trạm": "Hoà Bình",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,26"
+    },
+    {
+      "Tỉnh": "17.Hưng Yên",
+      "TP/Huyện/ Thị xã": "TP. Hưng Yên",
+      "Trạm": "Hưng Yên",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,19"
+    },
+    {
+      "Tỉnh": "18.Khánh Hoà",
+      "TP/Huyện/ Thị xã": "TP. Nha Trang",
+      "Trạm": "Nha Trang",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,07"
+    },
+    {
+      "Tỉnh": "18.Khánh Hoà",
+      "TP/Huyện/ Thị xã": "Trường Sa",
+      "Trạm": "1979",
+      "Năm bắt đầu": "2007",
+      "Năm kết thúc": "1,10",
+      "Tháng": "0,55"
+    },
+    {
+      "Tỉnh": "19.Kiên Giang",
+      "TP/Huyện/ Thị xã": "TP. Phú Quốc",
+      "Trạm": "Phú Quốc",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,52"
+    },
+    {
+      "Tỉnh": "19.Kiên Giang",
+      "TP/Huyện/ Thị xã": "TP. Rạch Giá",
+      "Trạm": "Rạch Giá",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,66"
+    },
+    {
+      "Tỉnh": "20.Kon Tum",
+      "TP/Huyện/ Thị xã": "TP. Kon Tum",
+      "Trạm": "Kon Tum",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,00"
+    },
+    {
+      "Tỉnh": "21.Điện Biên",
+      "TP/Huyện/ Thị xã": "TP. Điện Biên Phủ",
+      "Trạm": "Điện Biên",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,63"
+    },
+    {
+      "Tỉnh": "22.Lai Châu",
+      "TP/Huyện/ Thị xã": "TP. Lai Châu",
+      "Trạm": "Lai Châu",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "1,26"
+    },
+    {
+      "Tỉnh": "23.Lâm Đồng",
+      "TP/Huyện/ Thị xã": "TP. Đà Lạt",
+      "Trạm": "Đà Lạt",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,14"
+    },
+    {
+      "Tỉnh": "24.Lạng Sơn",
+      "TP/Huyện/ Thị xã": "Tràng Định",
+      "Trạm": "Thất khê",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,26"
+    },
+    {
+      "Tỉnh": "24.Lạng Sơn",
+      "TP/Huyện/ Thị xã": "TP. Lạng Sơn",
+      "Trạm": "Lạng Sơn",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,23"
+    },
+    {
+      "Tỉnh": "25.Lào Cai",
+      "TP/Huyện/ Thị xã": "TP. Sa Pa",
+      "Trạm": "Sa Pa",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,70"
+    },
+    {
+      "Tỉnh": "26.Long An",
+      "TP/Huyện/ Thị xã": "Mộc Hoá",
+      "Trạm": "1979",
+      "Năm bắt đầu": "2007",
+      "Năm kết thúc": "1,14",
+      "Tháng": "1,07"
+    },
+    {
+      "Tỉnh": "27.Nam Định",
+      "TP/Huyện/ Thị xã": "TP. Nam Định",
+      "Trạm": "Nam Định",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,14"
+    },
+    {
+      "Tỉnh": "28.Nghệ An",
+      "TP/Huyện/ Thị xã": "Quỳnh Lưu",
+      "Trạm": "1965",
+      "Năm bắt đầu": "2007",
+      "Năm kết thúc": "0,09",
+      "Tháng": "0,84"
+    },
+    {
+      "Tỉnh": "28.Nghệ An",
+      "TP/Huyện/ Thị xã": "TP. Vinh",
+      "Trạm": "Vinh",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,16"
+    },
+    {
+      "Tỉnh": "29.Ninh Bình",
+      "TP/Huyện/ Thị xã": "TP. Ninh Bình",
+      "Trạm": "Ninh Bình",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,12"
+    },
+    {
+      "Tỉnh": "30.Phú Thọ",
+      "TP/Huyện/ Thị xã": "TX. Phú Thọ",
+      "Trạm": "Phú Hộ",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,21"
+    },
+    {
+      "Tỉnh": "31.Phú Yên",
+      "TP/Huyện/ Thị xã": "TP. Tuy Hoà",
+      "Trạm": "Tuy Hoà",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,03"
+    },
+    {
+      "Tỉnh": "32.Quảng Bình",
+      "TP/Huyện/ Thị xã": "TP. Đồng Hới",
+      "Trạm": "Đồng Hới",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,09"
+    },
+    {
+      "Tỉnh": "33.Quảng Ngãi",
+      "TP/Huyện/ Thị xã": "TP. Quảng Ngãi",
+      "Trạm": "Quảng Ngãi",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,00"
+    },
+    {
+      "Tỉnh": "34.Quảng Ninh",
+      "TP/Huyện/ Thị xã": "Tiên Yên",
+      "Trạm": "1965",
+      "Năm bắt đầu": "2007",
+      "Năm kết thúc": "0,21",
+      "Tháng": "0,79"
+    },
+    {
+      "Tỉnh": "34.Quảng Ninh",
+      "TP/Huyện/ Thị xã": "TP. Hạ Long",
+      "Trạm": "Bãi Cháy",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,16"
+    },
+    {
+      "Tỉnh": "35.Quảng Trị",
+      "TP/Huyện/ Thị xã": "TP. Đông Hà",
+      "Trạm": "Đông Hà",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,00"
+    },
+    {
+      "Tỉnh": "35.Quảng Trị",
+      "TP/Huyện/ Thị xã": "Vĩnh Linh",
+      "Trạm": "Cồn Cỏ",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,03"
+    },
+    {
+      "Tỉnh": "36.Sóc Trăng",
+      "TP/Huyện/ Thị xã": "TP. Sóc Trăng",
+      "Trạm": "Sóc Trăng",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,03"
+    },
+    {
+      "Tỉnh": "37.Sơn La",
+      "TP/Huyện/ Thị xã": "Mộc Châu",
+      "Trạm": "1965",
+      "Năm bắt đầu": "2007",
+      "Năm kết thúc": "0,35",
+      "Tháng": "1,37"
+    },
+    {
+      "Tỉnh": "37.Sơn La",
+      "TP/Huyện/ Thị xã": "TP. Sơn La",
+      "Trạm": "Sơn La",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,74"
+    },
+    {
+      "Tỉnh": "38.Tây Ninh",
+      "TP/Huyện/ Thị xã": "TP. Tây Ninh",
+      "Trạm": "Tây Ninh",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,79"
+    },
+    {
+      "Tỉnh": "39.Thái Bình",
+      "TP/Huyện/ Thị xã": "TP. Thái Bình",
+      "Trạm": "Thái Bình",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,12"
+    },
+    {
+      "Tỉnh": "40.Thái Nguyên",
+      "TP/Huyện/ Thị xã": "TP. Thái Nguyên",
+      "Trạm": "Thái Nguyên",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,28"
+    },
+    {
+      "Tỉnh": "41.Thanh Hoá",
+      "TP/Huyện/ Thị xã": "Quan Hoá",
+      "Trạm": "Hồi Xuân",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,19"
+    },
+    {
+      "Tỉnh": "41.Thanh Hoá",
+      "TP/Huyện/ Thị xã": "TP. Thanh Hoá",
+      "Trạm": "Thanh Hoá",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,12"
+    },
+    {
+      "Tỉnh": "42.Thừa Thiên- Huế",
+      "TP/Huyện/ Thị xã": "TP. Huế",
+      "Trạm": "Huế",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,00"
+    },
+    {
+      "Tỉnh": "43.Tiền Giang",
+      "TP/Huyện/ Thị xã": "TP. Mỹ Tho",
+      "Trạm": "Mỹ Tho",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,28"
+    },
+    {
+      "Tỉnh": "44.TP. Đà Nẵng",
+      "TP/Huyện/ Thị xã": "Q. Hải Châu",
+      "Trạm": "Đà Nẵng",
+      "Năm bắt đầu": "1979",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,00"
+    },
+    {
+      "Tỉnh": "45.TP. Hà Nội",
+      "TP/Huyện/ Thị xã": "Q. Đống Đa",
+      "Trạm": "Láng",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,23"
+    },
+    {
+      "Tỉnh": "45.TP. Hà Nội",
+      "TP/Huyện/ Thị xã": "TX. Sơn Tây",
+      "Trạm": "Sơn Tây",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,23"
+    },
+    {
+      "Tỉnh": "46.TP. Hải Phòng",
+      "TP/Huyện/ Thị xã": "Bạch Long Vĩ",
+      "Trạm": "1965",
+      "Năm bắt đầu": "2007",
+      "Năm kết thúc": "0,14",
+      "Tháng": "0,56"
+    },
+    {
+      "Tỉnh": "46.TP. Hải Phòng",
+      "TP/Huyện/ Thị xã": "Q. Kiến An",
+      "Trạm": "Phủ Liễn",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,19"
+    },
+    {
+      "Tỉnh": "47.Tuyên Quang",
+      "TP/Huyện/ Thị xã": "TP. Tuyên Quang",
+      "Trạm": "Tuyên Quang",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,19"
+    },
+    {
+      "Tỉnh": "48.Yên Bái",
+      "TP/Huyện/ Thị xã": "TP. Yên Bái",
+      "Trạm": "Yên Bái",
+      "Năm bắt đầu": "1965",
+      "Năm kết thúc": "2007",
+      "Tháng": "0,37"
+    },
+    {
+      "Tỉnh": "48.Yên Bái",
+      "TP/Huyện/ Thị xã": "Văn Chấn",
+      "Trạm": "1965",
+      "Năm bắt đầu": "2007",
+      "Năm kết thúc": "0,33",
+      "Tháng": "1,88"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,3 +1,42 @@
+---
+okf_version: '2.2'
+type: technical_standard_qcvn
+title: QCVN 06:2022/BXD — Quy chuẩn kỹ thuật quốc gia về An toàn cháy cho nhà và công
+  trình (Sửa đổi 1:2023 / TT 09/2023/TT-BXD)
+description: Tài liệu Quy chuẩn kỹ thuật quốc gia quy định chính quy trong hệ thống
+  tri thức xây dựng CCBA.
+tags:
+- qcvn
+- quy_chuan_ky_thuat
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/02_qcvn/qcvn_06_2022_bxd/qcvn_06_2022_bxd.md
+id: QCVN-06-2022-BXD
+doc_id: QCVN-06-2022-BXD
+document_number: QCVN 06:2022/BXD
+document_type: Quy chuẩn kỹ thuật quốc gia
+issued_by: Bộ Xây dựng
+signer: ''
+issued_date: '2022-11-30'
+effective_date: '2023-01-16'
+status: current
+pdf_anchor:
+  path: ./qcvn_06_2022_bxd.pdf
+  sha256: e7b0f82433420e163e6d9d1e842f316a29ee50e473f075459bd52bc637aff7d5
+  cong_bao_number: 235+236/2023 (SĐ1) / 1141+1142/2022
+relations:
+- target_id: '{''id'': ''SD1-2023-QCVN-06'', ''title'': ''Sửa đổi 1:2023 QCVN 06:2022/BXD
+    (Thông tư 09/2023/TT-BXD)'', ''source_url'': ''https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Thong-tu-09-2023-TT-BXD-sua-doi-1-2023-QCVN-06-2022-BXD-an-toan-chay-cho-nha-cong-trinh-583536.aspx'',
+    ''pdf_path'': ''legal_docs/02_qcvn/qcvn_06_2022_bxd/sources/sd1_2023_qcvn_06_2022_bxd.pdf'',
+    ''pdf_sha256'': ''61228c151c373924bdad12965fe3f04768c85cd74fef36c9ae80432eb6954a4a'',
+    ''cong_bao_number'': ''235+236/2023'', ''pdf_status'': ''verified''}'
+  relation_type: amendments
+artifacts:
+  annexes_dir: ./annexes/
+  tables_dir: ./tables/
+  tables_catalog: ./tables/tables_catalog.json
+  benchmark_file: ./qa_benchmark.json
+---
+
 **QCVN 06:2022/BXD (VĂN BẢN HỢP NHẤT NĂM 2023)**
 
 # QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ AN TOÀN CHÁY CHO NHÀ VÀ CÔNG TRÌNH

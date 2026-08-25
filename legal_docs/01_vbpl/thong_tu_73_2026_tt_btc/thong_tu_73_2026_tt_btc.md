@@ -1,28 +1,36 @@
 ---
-id: "thong_tu_73_2026_tt_btc"
-document_number: "73/2026/TT-BTC"
-title: "Thông tư 73/2026/TT-BTC quy định hệ thống mẫu biểu trong công tác quyết toán vốn đầu tư"
-issued_by: "Bộ Tài chính"
-signer: "Tạ Anh Tuấn"
-issued_date: "2026-06-25"
-effective_date: "2026-07-01"
-status: "active"
-pdf_anchor: "./thong_tu_73_2026_tt_btc.pdf"
-legal_basis:
-- doc_id: luật_ngân_sách_nhà_nước_số_89_2025_qh15
-  title: Luật Ngân sách nhà nước số 89/2025/QH15
-- doc_id: luật_đầu_tư_công_số_58_2024_qh15_được_sửa_đổi_bổ_s
-  title: Luật Đầu tư công số 58/2024/QH15 được sửa đổi, bổ sung bởi Luật số 90/2025/QH15
-- doc_id: luật_ban_hành_văn_bản_quy_phạm_pháp_luật_số_64_202
-  title: Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ sung bởi Luật số 87/2025/QH15
-- doc_id: Luat-Xay-dung-2025-135-2025-QH15
-  title: Luật Xây dựng số 135/2025/QH15
-- doc_id: nghị_định_số_193_2026_nđ_cp_ngày_01_tháng_6_năm_20
-  title: Nghị định số 193/2026/NĐ-CP ngày 01 tháng 6 năm 2026 của Chính phủ quy định về quyết toán vốn đầu tư dự án
-- doc_id: nghị_định_số_09_2019_nđ_cp_ngày_24_tháng_01_năm_20
-  title: Nghị định số 09/2019/NĐ-CP ngày 24 tháng 01 năm 2019 của Chính phủ quy định về chế độ báo cáo của cơ quan hành chính nhà nước
-- doc_id: nghị_định_số_29_2025_nđ_cp_ngày_24_tháng_02_năm_20
-  title: Nghị định số 29/2025/NĐ-CP ngày 24 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính được sửa đổi, bổ sung bởi Nghị định số 166/2025/NĐ-CP ngày 30 tháng 6 năm 2025 của Chính phủ
+okf_version: '2.2'
+type: legal_normative_body
+title: Thông tư 73/2026/TT-BTC quy định hệ thống mẫu biểu trong công tác quyết toán
+  vốn đầu tư
+description: Tài liệu Thông tư quy định chính quy trong hệ thống tri thức xây dựng
+  CCBA.
+tags:
+- dau_tu_xay_dung
+- thong_tu
+- vbpl
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/thong_tu_73_2026_tt_btc/thong_tu_73_2026_tt_btc.md
+id: thong_tu_73_2026_tt_btc
+doc_id: thong_tu_73_2026_tt_btc
+document_number: 73/2026/TT-BTC
+document_type: Thông tư
+issued_by: Bộ Tài chính
+signer: Tạ Anh Tuấn
+issued_date: '2026-06-25'
+effective_date: '2026-07-01'
+status: active
+pdf_anchor:
+  path: ./thong_tu_73_2026_tt_btc.pdf
+  sha256: 98585a04eb1174e040409944cdafdb1ce2114d072055b866d24cb5f39ae3a5dd
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: nghi_dinh_193_2026_nd_cp
+  relation_type: guided_by
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 73/2026/TT-BTC

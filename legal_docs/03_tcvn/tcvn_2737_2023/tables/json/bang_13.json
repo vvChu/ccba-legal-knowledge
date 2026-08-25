@@ -1,0 +1,36 @@
+{
+  "table_id": "bang_13",
+  "rows_count": 4,
+  "columns_count": 5,
+  "headers": [
+    "Khu vực",
+    "Hạng trực thăng theo trọng lượng cất cánh",
+    "Trọng lượng trực thăng, kN",
+    "Tải trọng cất cánh, Qk,t, kN",
+    "Kích thước diện truyền tải, m x m"
+  ],
+  "records": [
+    {
+      "Khu vực": "K",
+      "Hạng trực thăng theo trọng lượng cất cánh": "HC1 (nhẹ)",
+      "Trọng lượng trực thăng, kN": "< 50 1)",
+      "Tải trọng cất cánh, Qk,t, kN": "20",
+      "Kích thước diện truyền tải, m x m": "0,2 x 0,2"
+    },
+    {
+      "Khu vực": "K",
+      "Hạng trực thăng theo trọng lượng cất cánh": "HC2 (trung bình)",
+      "Trọng lượng trực thăng, kN": "≥ 50 và ≤ 150 2)",
+      "Tải trọng cất cánh, Qk,t, kN": "60",
+      "Kích thước diện truyền tải, m x m": "0,3 x 0,3"
+    },
+    {
+      "Khu vực": "1) Tải trọng tiêu chuẩn do trọng lượng cát cánh của trực thăng lên kết cấu đỡ chính (quy ước) không lớn hơn 20 kN. 2) Tải trọng tiêu chuẩn do trọng lượng cát cánh của trực thăng lên kết cấu đỡ chính (quy ước) trên 20 kN đến 60 kN.",
+      "Hạng trực thăng theo trọng lượng cất cánh": "",
+      "Trọng lượng trực thăng, kN": "",
+      "Tải trọng cất cánh, Qk,t, kN": "",
+      "Kích thước diện truyền tải, m x m": ""
+    }
+  ],
+  "footnotes": []
+}

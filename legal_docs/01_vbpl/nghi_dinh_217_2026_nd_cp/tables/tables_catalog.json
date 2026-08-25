@@ -1,0 +1,13 @@
+[
+  {
+    "table_id": "bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong",
+    "file_stem": "bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong",
+    "title": "Bang Danh Muc Cong Trinh Anh Huong An Toan Cong Dong",
+    "columns_count": 4,
+    "rows_count": 0,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.json",
+    "csv_path": "tables/csv/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.csv",
+    "has_normative_conditions": false
+  }
+]

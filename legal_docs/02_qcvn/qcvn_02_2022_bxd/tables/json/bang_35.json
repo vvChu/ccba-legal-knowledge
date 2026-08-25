@@ -1,0 +1,753 @@
+{
+  "table_id": "bang_35",
+  "rows_count": 149,
+  "columns_count": 3,
+  "headers": [
+    "Trạm",
+    "Đặc trưng",
+    "Thời đoạn (phút)"
+  ],
+  "records": [
+    {
+      "Trạm": "Trạm",
+      "Đặc trưng": "Đặc trưng",
+      "Thời đoạn (phút)": "10"
+    },
+    {
+      "Trạm": "1. Lai Châu",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "17"
+    },
+    {
+      "Trạm": "1. Lai Châu",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "23,3"
+    },
+    {
+      "Trạm": "1. Lai Châu",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1962"
+    },
+    {
+      "Trạm": "2. Điện Biên",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "18,5"
+    },
+    {
+      "Trạm": "2. Điện Biên",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "22,1"
+    },
+    {
+      "Trạm": "2. Điện Biên",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1972"
+    },
+    {
+      "Trạm": "3. Sơn La",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "19"
+    },
+    {
+      "Trạm": "3. Sơn La",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "29,1"
+    },
+    {
+      "Trạm": "3. Sơn La",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1979"
+    },
+    {
+      "Trạm": "4. Lào Cai",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "20"
+    },
+    {
+      "Trạm": "4. Lào Cai",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "29,6"
+    },
+    {
+      "Trạm": "4. Lào Cai",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1961"
+    },
+    {
+      "Trạm": "5. Sa Pa",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "15,3"
+    },
+    {
+      "Trạm": "5. Sa Pa",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "29"
+    },
+    {
+      "Trạm": "5. Sa Pa",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1983"
+    },
+    {
+      "Trạm": "6. Yên Bái",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "21"
+    },
+    {
+      "Trạm": "6. Yên Bái",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "29,9"
+    },
+    {
+      "Trạm": "6. Yên Bái",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1961"
+    },
+    {
+      "Trạm": "7. Hà Giang",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "20,4"
+    },
+    {
+      "Trạm": "7. Hà Giang",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "26,8"
+    },
+    {
+      "Trạm": "7. Hà Giang",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1974"
+    },
+    {
+      "Trạm": "8. Tuyên Quang",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "22,7"
+    },
+    {
+      "Trạm": "8. Tuyên Quang",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "32,1"
+    },
+    {
+      "Trạm": "8. Tuyên Quang",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1969"
+    },
+    {
+      "Trạm": "9. Bắc Kạn",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "21,2"
+    },
+    {
+      "Trạm": "9. Bắc Kạn",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "30"
+    },
+    {
+      "Trạm": "9. Bắc Kạn",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1978"
+    },
+    {
+      "Trạm": "10.Thái Nguyên",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "24,8"
+    },
+    {
+      "Trạm": "10.Thái Nguyên",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "31,7"
+    },
+    {
+      "Trạm": "10.Thái Nguyên",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1973"
+    },
+    {
+      "Trạm": "11.Việt Trì",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "21,6"
+    },
+    {
+      "Trạm": "11.Việt Trì",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "31,4"
+    },
+    {
+      "Trạm": "11.Việt Trì",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1973"
+    },
+    {
+      "Trạm": "12.Vĩnh Phúc",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "21,9"
+    },
+    {
+      "Trạm": "12.Vĩnh Phúc",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "35,4"
+    },
+    {
+      "Trạm": "12.Vĩnh Phúc",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1981"
+    },
+    {
+      "Trạm": "13.Hòn Gai",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "21,9"
+    },
+    {
+      "Trạm": "13.Hòn Gai",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "27,2"
+    },
+    {
+      "Trạm": "13.Hòn Gai",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1966"
+    },
+    {
+      "Trạm": "14.Bãi Cháy",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "14.Bãi Cháy",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "14.Bãi Cháy",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "15.Sơn Tây",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "23,6"
+    },
+    {
+      "Trạm": "15.Sơn Tây",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "30,7"
+    },
+    {
+      "Trạm": "15.Sơn Tây",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1970"
+    },
+    {
+      "Trạm": "16.Ba Vì",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "23,6"
+    },
+    {
+      "Trạm": "16.Ba Vì",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "30,7"
+    },
+    {
+      "Trạm": "16.Ba Vì",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1970"
+    },
+    {
+      "Trạm": "17.Hà Nội",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "23,3"
+    },
+    {
+      "Trạm": "17.Hà Nội",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "35,2"
+    },
+    {
+      "Trạm": "17.Hà Nội",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1968"
+    },
+    {
+      "Trạm": "18.Hà Đông",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "21,7"
+    },
+    {
+      "Trạm": "18.Hà Đông",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "38,7"
+    },
+    {
+      "Trạm": "18.Hà Đông",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1993"
+    },
+    {
+      "Trạm": "19.Bắc Ninh",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "22,8"
+    },
+    {
+      "Trạm": "19.Bắc Ninh",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "35,6"
+    },
+    {
+      "Trạm": "19.Bắc Ninh",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "2013"
+    },
+    {
+      "Trạm": "20.Hoà Bình",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "22,3"
+    },
+    {
+      "Trạm": "20.Hoà Bình",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "31,8"
+    },
+    {
+      "Trạm": "20.Hoà Bình",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1963"
+    },
+    {
+      "Trạm": "21.Bắc Giang",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "20"
+    },
+    {
+      "Trạm": "21.Bắc Giang",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "31,8"
+    },
+    {
+      "Trạm": "21.Bắc Giang",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1971"
+    },
+    {
+      "Trạm": "22.Hải Dương",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "21,3"
+    },
+    {
+      "Trạm": "22.Hải Dương",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "29,9"
+    },
+    {
+      "Trạm": "22.Hải Dương",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1972"
+    },
+    {
+      "Trạm": "23.Hưng Yên",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "19,8"
+    },
+    {
+      "Trạm": "23.Hưng Yên",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "30,6"
+    },
+    {
+      "Trạm": "23.Hưng Yên",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1975"
+    },
+    {
+      "Trạm": "24.Phủ Liễn",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "22,3"
+    },
+    {
+      "Trạm": "24.Phủ Liễn",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "30"
+    },
+    {
+      "Trạm": "24.Phủ Liễn",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1979"
+    },
+    {
+      "Trạm": "25. Thái Bình",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "23,4"
+    },
+    {
+      "Trạm": "25. Thái Bình",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "39,1"
+    },
+    {
+      "Trạm": "25. Thái Bình",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1977"
+    },
+    {
+      "Trạm": "26.Nam Định",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "22,5"
+    },
+    {
+      "Trạm": "26.Nam Định",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "30,7"
+    },
+    {
+      "Trạm": "26.Nam Định",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1965"
+    },
+    {
+      "Trạm": "27.Ninh Bình",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "25,2"
+    },
+    {
+      "Trạm": "27.Ninh Bình",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "40"
+    },
+    {
+      "Trạm": "27.Ninh Bình",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1974"
+    },
+    {
+      "Trạm": "28.Thanh Hoá",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "21,5"
+    },
+    {
+      "Trạm": "28.Thanh Hoá",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "36,4"
+    },
+    {
+      "Trạm": "28.Thanh Hoá",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1963"
+    },
+    {
+      "Trạm": "29.Hà Tĩnh",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "19,4"
+    },
+    {
+      "Trạm": "29.Hà Tĩnh",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "30,2"
+    },
+    {
+      "Trạm": "29.Hà Tĩnh",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1965"
+    },
+    {
+      "Trạm": "30.Đồng Hới",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "17,8"
+    },
+    {
+      "Trạm": "30.Đồng Hới",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "30"
+    },
+    {
+      "Trạm": "30.Đồng Hới",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1978"
+    },
+    {
+      "Trạm": "31.Huế",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "19,3"
+    },
+    {
+      "Trạm": "31.Huế",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "26"
+    },
+    {
+      "Trạm": "31.Huế",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1971"
+    },
+    {
+      "Trạm": "32.Đà Nẵng",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "18,6"
+    },
+    {
+      "Trạm": "32.Đà Nẵng",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "30"
+    },
+    {
+      "Trạm": "32.Đà Nẵng",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1964"
+    },
+    {
+      "Trạm": "33.Quy Nhơn",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "18,1"
+    },
+    {
+      "Trạm": "33.Quy Nhơn",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "25"
+    },
+    {
+      "Trạm": "33.Quy Nhơn",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1970"
+    },
+    {
+      "Trạm": "34.Pleiku",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "19,4"
+    },
+    {
+      "Trạm": "34.Pleiku",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "26"
+    },
+    {
+      "Trạm": "34.Pleiku",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1966"
+    },
+    {
+      "Trạm": "35.Tuy Hòa",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "17,5"
+    },
+    {
+      "Trạm": "35.Tuy Hòa",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "22,2"
+    },
+    {
+      "Trạm": "35.Tuy Hòa",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1973"
+    },
+    {
+      "Trạm": "36.Nha Trang",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "15,5"
+    },
+    {
+      "Trạm": "36.Nha Trang",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "25,5"
+    },
+    {
+      "Trạm": "36.Nha Trang",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1978"
+    },
+    {
+      "Trạm": "37.Buôn Ma Thuột",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "20"
+    },
+    {
+      "Trạm": "37.Buôn Ma Thuột",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "32,7"
+    },
+    {
+      "Trạm": "37.Buôn Ma Thuột",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1973"
+    },
+    {
+      "Trạm": "38.Phan Thiết",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "18,8"
+    },
+    {
+      "Trạm": "38.Phan Thiết",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "25,2"
+    },
+    {
+      "Trạm": "38.Phan Thiết",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1962"
+    },
+    {
+      "Trạm": "39.Phước Long",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "19,8"
+    },
+    {
+      "Trạm": "39.Phước Long",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "25"
+    },
+    {
+      "Trạm": "39.Phước Long",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1962"
+    },
+    {
+      "Trạm": "40.Tân Sơn Hòa (TP.HCM)",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "21,3"
+    },
+    {
+      "Trạm": "40.Tân Sơn Hòa (TP.HCM)",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "32"
+    },
+    {
+      "Trạm": "40.Tân Sơn Hòa (TP.HCM)",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1973"
+    },
+    {
+      "Trạm": "41.Thủ Dầu Một",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "41.Thủ Dầu Một",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "41.Thủ Dầu Một",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "42.Vũng Tàu",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "42.Vũng Tàu",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "42.Vũng Tàu",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "43.Biên Hòa",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "43.Biên Hòa",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "43.Biên Hòa",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "44.Tây Ninh",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "44.Tây Ninh",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "44.Tây Ninh",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "45.Mỹ Tho",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "45.Mỹ Tho",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "45.Mỹ Tho",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "46.Rạch Giá",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "46.Rạch Giá",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "46.Rạch Giá",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "47.Long An",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "47.Long An",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "47.Long An",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "-"
+    },
+    {
+      "Trạm": "48.Sóc Trăng",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "19,8"
+    },
+    {
+      "Trạm": "48.Sóc Trăng",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "24,1"
+    },
+    {
+      "Trạm": "48.Sóc Trăng",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1966"
+    },
+    {
+      "Trạm": "49.Cà Mau",
+      "Đặc trưng": "Trung bình",
+      "Thời đoạn (phút)": "24,2"
+    },
+    {
+      "Trạm": "49.Cà Mau",
+      "Đặc trưng": "Lớn nhất",
+      "Thời đoạn (phút)": "30,6"
+    },
+    {
+      "Trạm": "49.Cà Mau",
+      "Đặc trưng": "Năm xuất hiện",
+      "Thời đoạn (phút)": "1979"
+    }
+  ],
+  "footnotes": []
+}

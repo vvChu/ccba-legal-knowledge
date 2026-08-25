@@ -1,0 +1,4158 @@
+{
+  "table_id": "bang_24",
+  "rows_count": 830,
+  "columns_count": 3,
+  "headers": [
+    "Hướng gió hoặc lặng gió",
+    "Đặc trưng",
+    "Tháng"
+  ],
+  "records": [
+    {
+      "Hướng gió hoặc lặng gió": "Hướng gió hoặc lặng gió",
+      "Đặc trưng": "Đặc trưng",
+      "Tháng": "1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Lai Châu",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "53,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "13,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "8,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "3,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "4,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "4,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "4,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "4,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "4,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Điện Biên",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "53,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "13,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "8,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "3,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "4,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "4,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "4,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "4,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "4,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Sơn la",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "51,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "3,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "3,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "29,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "6,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "3,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "1,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Lào Cai",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "41,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "1,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "4,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "28,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "13,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "3,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Sa Pa",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "23,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "6,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "18,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "6,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "8,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "9,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "5,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "10,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "4,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "11,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "4,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Yên Bái",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "38,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "3,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "17,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "17,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "3,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "14,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Hà Giang",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "54,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "20,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "11,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "4,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "1,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Tuyên Quang",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "26,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "5,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "3,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "8,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "25,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "9,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "5,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "4,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "12,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Cao Bằng",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "28,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "3,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "7,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "38,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "10,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "3,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "4,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Lạng Sơn",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "27,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "42,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "4,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "6,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "4,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "0,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "6,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "9,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "4,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Bắc Kạn",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "31,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "11,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "27,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "4,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "14,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "5,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "1,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "2,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Thái Nguyên",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "35,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "6,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "21,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "3,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "15,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "1,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "11,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Tam Đảo",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "18,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "33,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "4,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "7,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "3,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "5,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "5,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "16,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "5,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Hòn Gai",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "10,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "30,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "21,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "10,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "11,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "7,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "7,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Bắc Giang",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "10,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "30,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "21,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "10,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "11,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "7,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "7,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Hà Nội",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "20,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "11,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "27,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "7,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "21,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "3,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "5,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Hải Dương",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "23,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "34,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "3,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "18,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "14,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "3,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Phù Liễn",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "8,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "13,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "22,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "23,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "3,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "17,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "5,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "7,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Nam Định",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "22,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "21,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "4,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "14,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "12,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "4,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "18,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Thanh Hoá",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "26,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "19,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "16,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "14,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "9,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "8,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Vinh",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "33,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "16,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "14,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "9,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "3,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "4,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "15,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Hà Tĩnh",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "30,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "15,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "12,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "5,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "6,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "28,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Đồng Hới",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "22,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "12,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "4,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "8,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "6,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "5,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "3,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "3,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "39,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "4,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Đông Hà",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "31,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "12,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "7,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "13,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "33,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Huế",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "40,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "5,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "8,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "10,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "2,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "8,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "21,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Đà Nẵng",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "45,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "13,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "5,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "13,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "3,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "0,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "0,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "15,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Quảng Ngãi",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "50,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "15,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "7,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "6,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "14,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Quy Nhơn",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "21,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "40,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "9,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "0,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "1,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "23,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Tuy Hoà",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "40,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "39,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "18,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "18,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "3,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "-"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "-"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "0,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Nha Trang",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "13,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "29,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "5,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "21,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "5,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "4,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "4,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "8,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "20,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Trường Sa",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "23,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "9,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "71,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "8,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "4,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "6,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Kon Tum",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "40,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "0,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "11,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "45,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "3,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "0,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Buôn Ma Thuột",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "3,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "0,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "22,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "5,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "72,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "5,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "-"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "-"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "0,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Đà Lạt",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "33,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "46,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "10,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "3,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "0,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Phan Thiết",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "13,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "9,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "16,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "48,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "5,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "7,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "5,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Phước Long",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "29,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "7,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "18,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "28,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "4,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "3,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "5,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Tân Sơn Nhất",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "8,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "14,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "11,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "12,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "25,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "14,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "4,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "6,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Vũng Tàu",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "25,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "13,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "51,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "4,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "3,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Cao Lãnh",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "44,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "13,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "9,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "14,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "14,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "1,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Cần Thơ",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "41,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "7,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "9,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "25,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "14,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Sóc Trăng",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "37,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "3,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "20,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "37,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "3,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "0,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Mộc Hoá",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "31,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "5,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "29,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "3,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "3,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "20,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "3,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Phú Quốc",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "23,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "0,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "22,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "3,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "38,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "3,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "3,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "5,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "3,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,7"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "0,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Rạch Giá",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "25,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "4,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "20,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "24,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "14,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "4,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "4,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "2,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "3,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "0,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Châu Đốc",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "37,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "25,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "11,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "7,9"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "8,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "6,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,5"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,3"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "2,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "3,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Trạm Cà Mau",
+      "Đặc trưng": "",
+      "Tháng": ""
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Lặng gió",
+      "Đặc trưng": "PL",
+      "Tháng": "41,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "3,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "1,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "11,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "2,6"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "P",
+      "Tháng": "37,8"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông",
+      "Đặc trưng": "V",
+      "Tháng": "2,4"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "P",
+      "Tháng": "5,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Đông Nam",
+      "Đặc trưng": "V",
+      "Tháng": "2,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,2"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Nam",
+      "Đặc trưng": "V",
+      "Tháng": "1,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "P",
+      "Tháng": "0,1"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây",
+      "Đặc trưng": "V",
+      "Tháng": "4,0"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "P",
+      "Tháng": "-"
+    },
+    {
+      "Hướng gió hoặc lặng gió": "Tây Bắc",
+      "Đặc trưng": "V",
+      "Tháng": "-"
+    }
+  ],
+  "footnotes": []
+}

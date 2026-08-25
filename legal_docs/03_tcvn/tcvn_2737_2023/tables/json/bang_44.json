@@ -1,0 +1,53 @@
+{
+  "table_id": "bang_44",
+  "rows_count": 9,
+  "columns_count": 3,
+  "headers": [
+    "Hệ số đặc",
+    "Tường",
+    "Vùng"
+  ],
+  "records": [
+    {
+      "Hệ số đặc": "Hệ số đặc",
+      "Tường": "Tường",
+      "Vùng": "A"
+    },
+    {
+      "Hệ số đặc": "φ = 1,0",
+      "Tường": "Thẳng",
+      "Vùng": "L/h ≤ 3"
+    },
+    {
+      "Hệ số đặc": "φ = 1,0",
+      "Tường": "Thẳng",
+      "Vùng": "L/h = 5"
+    },
+    {
+      "Hệ số đặc": "φ = 1,0",
+      "Tường": "Thẳng",
+      "Vùng": "L/h ≥ 10"
+    },
+    {
+      "Hệ số đặc": "φ = 1,0",
+      "Tường": "Có bẻ góc với chiều dài phần bẻ góc không nhỏ hơn h 1)",
+      "Vùng": "2,1"
+    },
+    {
+      "Hệ số đặc": "φ = 0,8",
+      "Tường": "",
+      "Vùng": "1,2"
+    },
+    {
+      "Hệ số đặc": "1) Đối với chiều dài phần bẻ góc trong khoảng từ 0 đến h, có thể xác định cx bằng nội suy tuyến tính.",
+      "Tường": "",
+      "Vùng": ""
+    },
+    {
+      "Hệ số đặc": "CHÚ THÍCH: Với các giá trị trung gian của hệ số đặc φ, có thể xác định cx bằng nội suy tuyến tính.",
+      "Tường": "",
+      "Vùng": ""
+    }
+  ],
+  "footnotes": []
+}

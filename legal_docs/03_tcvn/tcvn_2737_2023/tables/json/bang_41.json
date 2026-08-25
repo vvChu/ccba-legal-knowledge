@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_41",
+  "rows_count": 6,
+  "columns_count": 2,
+  "headers": [
+    "Cần trục",
+    "Giá trị giới hạn Fu, kN"
+  ],
+  "records": [
+    {
+      "Cần trục": "1. Cần trục treo (kéo tay hay điều khiển bằng điện), cầu trục điều khiển bằng tay",
+      "Giá trị giới hạn Fu, kN": "10"
+    },
+    {
+      "Cần trục": "2. Cầu trục điện công dụng chung thuộc nhóm chế độ làm việc từ A1 đến A3",
+      "Giá trị giới hạn Fu, kN": "50"
+    },
+    {
+      "Cần trục": "3. Cầu trục điện công dụng chung và cầu trục chuyên dụng thuộc nhóm chế độ làm việc từ A4 đến A7, cũng như cầu trục đúc",
+      "Giá trị giới hạn Fu, kN": "150"
+    },
+    {
+      "Cần trục": "4. Cầu trục điện chuyên dụng thuộc nhóm chế độ làm việc A8:",
+      "Giá trị giới hạn Fu, kN": ""
+    },
+    {
+      "Cần trục": "a) Có móc mềm b) Có móc cứng",
+      "Giá trị giới hạn Fu, kN": "250 500"
+    }
+  ],
+  "footnotes": []
+}

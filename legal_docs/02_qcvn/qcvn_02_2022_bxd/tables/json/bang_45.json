@@ -1,0 +1,128 @@
+{
+  "table_id": "bang_45",
+  "rows_count": 20,
+  "columns_count": 4,
+  "headers": [
+    "Cấp gió",
+    "Tốc độ gió",
+    "Độ cao sóng trung bình",
+    "Mức độ nguy hại"
+  ],
+  "records": [
+    {
+      "Cấp gió": "Bô-pho",
+      "Tốc độ gió": "m/s",
+      "Độ cao sóng trung bình": "km/h",
+      "Mức độ nguy hại": "m"
+    },
+    {
+      "Cấp gió": "0",
+      "Tốc độ gió": "0 - 0,2",
+      "Độ cao sóng trung bình": "<1",
+      "Mức độ nguy hại": "-"
+    },
+    {
+      "Cấp gió": "1",
+      "Tốc độ gió": "0,3 - 1,5",
+      "Độ cao sóng trung bình": "1-5",
+      "Mức độ nguy hại": "0,1"
+    },
+    {
+      "Cấp gió": "2",
+      "Tốc độ gió": "1,6 - 3,3",
+      "Độ cao sóng trung bình": "6-11",
+      "Mức độ nguy hại": "0,2"
+    },
+    {
+      "Cấp gió": "3",
+      "Tốc độ gió": "3,4 - 5,4",
+      "Độ cao sóng trung bình": "12-19",
+      "Mức độ nguy hại": "0,6"
+    },
+    {
+      "Cấp gió": "4",
+      "Tốc độ gió": "5,5 - 7,9",
+      "Độ cao sóng trung bình": "20 - 28",
+      "Mức độ nguy hại": "1,0"
+    },
+    {
+      "Cấp gió": "5",
+      "Tốc độ gió": "8,0 - 10,7",
+      "Độ cao sóng trung bình": "29 - 38",
+      "Mức độ nguy hại": "2,0"
+    },
+    {
+      "Cấp gió": "6",
+      "Tốc độ gió": "10,8 - 13,8",
+      "Độ cao sóng trung bình": "39 - 49",
+      "Mức độ nguy hại": "3,0"
+    },
+    {
+      "Cấp gió": "7",
+      "Tốc độ gió": "13,9 - 17,1",
+      "Độ cao sóng trung bình": "50 - 61",
+      "Mức độ nguy hại": "4,0"
+    },
+    {
+      "Cấp gió": "9",
+      "Tốc độ gió": "17,2 - 20,7",
+      "Độ cao sóng trung bình": "62 - 74",
+      "Mức độ nguy hại": "5,5"
+    },
+    {
+      "Cấp gió": "9",
+      "Tốc độ gió": "20,8 - 24,4",
+      "Độ cao sóng trung bình": "75 - 88",
+      "Mức độ nguy hại": "7,0"
+    },
+    {
+      "Cấp gió": "10",
+      "Tốc độ gió": "24,5 - 28,4",
+      "Độ cao sóng trung bình": "89 - 102",
+      "Mức độ nguy hại": "9,0"
+    },
+    {
+      "Cấp gió": "11",
+      "Tốc độ gió": "28,5 - 32,6",
+      "Độ cao sóng trung bình": "103-117",
+      "Mức độ nguy hại": "11,5"
+    },
+    {
+      "Cấp gió": "12",
+      "Tốc độ gió": "32,7 - 36,9",
+      "Độ cao sóng trung bình": "118 - 133",
+      "Mức độ nguy hại": "14,0"
+    },
+    {
+      "Cấp gió": "13",
+      "Tốc độ gió": "37,0 - 41,4",
+      "Độ cao sóng trung bình": "134 - 149",
+      "Mức độ nguy hại": "14,0"
+    },
+    {
+      "Cấp gió": "14",
+      "Tốc độ gió": "41,5 - 46,1",
+      "Độ cao sóng trung bình": "150 - 166",
+      "Mức độ nguy hại": "14,0"
+    },
+    {
+      "Cấp gió": "15",
+      "Tốc độ gió": "46,2 - 50,9",
+      "Độ cao sóng trung bình": "167 - 183",
+      "Mức độ nguy hại": "14,0"
+    },
+    {
+      "Cấp gió": "16",
+      "Tốc độ gió": "51,0 - 56,0",
+      "Độ cao sóng trung bình": "184 - 201",
+      "Mức độ nguy hại": "14,0"
+    },
+    {
+      "Cấp gió": "17",
+      "Tốc độ gió": "56,1 - 61,2",
+      "Độ cao sóng trung bình": "202 - 220",
+      "Mức độ nguy hại": "14,0"
+    }
+  ],
+  "footnotes": []
+}

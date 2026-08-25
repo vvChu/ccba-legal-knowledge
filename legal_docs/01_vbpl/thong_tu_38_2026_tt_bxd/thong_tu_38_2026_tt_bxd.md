@@ -1,22 +1,43 @@
 ---
-id: "thong_tu_38_2026_tt_bxd"
-document_number: "38/2026/TT-BXD"
-title: "Thông tư 38/2026/TT-BXD ban hành hệ thống định mức xây dựng quốc gia"
-issued_by: "Bộ Xây dựng"
-signer: "Bùi Xuân Dũng"
-issued_date: "2026-06-26"
-effective_date: "2026-07-01"
-status: "active"
-pdf_anchor: "./thong_tu_38_2026_tt_bxd.pdf"
-legal_basis:
-- doc_id: Luat-Xay-dung-2025-135-2025-QH15
-  title: Luật Xây dựng số 135/2025/QH15
-- doc_id: nghị_định_số_33_2025_nđ_cp_của_chính_phủ_quy_định_
-  title: Nghị định số 33/2025/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền
-    hạn và cơ cấu tổ chức của Bộ Xây dựng
-- doc_id: nghị_định_số_206_2026_nđ_cp_của_chính_phủ_quy_định
-  title: Nghị định số 206/2026/NĐ-CP của Chính phủ quy định chi tiết về quản lý chi
-    phí đầu tư xây dựng
+okf_version: '2.2'
+type: legal_normative_body
+title: Thông tư 38/2026/TT-BXD ban hành hệ thống định mức xây dựng quốc gia
+description: Tài liệu Thông tư quy định chính quy trong hệ thống tri thức xây dựng
+  CCBA.
+tags:
+- thong_tu
+- vbpl
+- xay_dung
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/thong_tu_38_2026_tt_bxd/thong_tu_38_2026_tt_bxd.md
+id: thong_tu_38_2026_tt_bxd
+doc_id: thong_tu_38_2026_tt_bxd
+document_number: 38/2026/TT-BXD
+document_type: Thông tư
+issued_by: Bộ Xây dựng
+signer: Bùi Xuân Dũng
+issued_date: '2026-06-30'
+effective_date: '2026-07-01'
+status: active
+pdf_anchor:
+  path: ./thong_tu_38_2026_tt_bxd.pdf
+  sha256: 79d952610a16a3556f9903f37383259a1a2c01f6aef13c03042b449462ae54ef
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: nghi_dinh_206_2026_nd_cp
+  relation_type: guided_by
+- target_id: 12/2021/TT-BXD
+  relation_type: replaces
+- target_id: 09/2024/TT-BXD
+  relation_type: replaces
+- target_id: 08/2025/TT-BXD
+  relation_type: replaces
+- target_id: 60/2025/TT-BXD
+  relation_type: replaces
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 38/2026/TT-BXD

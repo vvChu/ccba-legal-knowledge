@@ -4,7 +4,7 @@
 > **Văn bản:** luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1  
 > **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  
 > **Hiệu lực:** 2026-07-01.  
-> **Mỏ neo PDF Công báo:** [luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1.pdf](./luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1.pdf) *(SHA-256: `verified`)*.
+> **PDF Gốc**: [luat_55_2024_qh15.pdf](./luat_55_2024_qh15.pdf) *(SHA-256: `verified`)*.
 
 ---
 

@@ -1,0 +1,643 @@
+{
+  "table_id": "bang_01",
+  "rows_count": 127,
+  "columns_count": 3,
+  "headers": [
+    "Tỉnh, Thành phố",
+    "Thành phố, Thị xã, Quận, Huyện",
+    "Mật độ sét đánh (số lần/km2/năm)"
+  ],
+  "records": [
+    {
+      "Tỉnh, Thành phố": "1. An Giang",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Long Xuyên, TP. Châu Đốc, TX. Tân Châu, H. An Phú, H. Châu Phú, H. Châu Thành, H. Chợ Mới, H. Tân Phú, H. Thoại Sơn, H. Tri Tôn, H. Tịnh Biên",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "2. Bà Rịa - Vũng Tàu",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Vũng Tàu, TP. Bà Rịa, H. Côn Đảo, H. Long Điền, H. Đất Đỏ, H. Xuyên Mộc",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "2. Bà Rịa - Vũng Tàu",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Tân Thành, H. Châu Đức",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "3. Bắc Kạn",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Bắc Kạn, H. Ba Bể, H. Bạch Thông, H. Chợ Mới, H. Na Rì, H. Ngân Sơn, H. Pắc Nặm",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "3. Bắc Kạn",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Chợ Đồn",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "4. Bắc Giang",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Bắc Giang, H. Hiệp Hoà, H. Lạng Giang, H. Lục Nam, H. Lục Ngạn, H. Sơn Động, H. Tân Yên, H. Việt Yên, H. Yên Dũng, H. Yên Thế",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "5. Bắc Ninh",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Bắc Ninh, H. Gia Bình, H. Lương Tài, H. Quế Võ, H. Yên Phong",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "5. Bắc Ninh",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Từ Sơn, H. Tiên Du, H. Thuận Thành",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "6. Bạc Liêu",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Bạc Liêu",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "6. Bạc Liêu",
+      "Thành phố, Thị xã, Quận, Huyện": "TX. Giá Rai, H. Đông Hải, H. Hồng Dân, H. Phước Long, H. Vĩnh Lợi, H. Hòa Bình",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "7. Bến Tre",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Bến Tre, H. Châu Thành, H. Chợ Lách, H. Giồng Trôm, H. Mỏ Cày Nam, H. Mỏ Cày Bắc",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "7. Bến Tre",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Thạnh Phú, H. Ba Tri, H. Bình Đại",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "8. Bình Định",
+      "Thành phố, Thị xã, Quận, Huyện": "TP.Quy Nhơn, H. Tuy Phước",
+      "Mật độ sét đánh (số lần/km2/năm)": "5,7"
+    },
+    {
+      "Tỉnh, Thành phố": "8. Bình Định",
+      "Thành phố, Thị xã, Quận, Huyện": "H. An Lão, TX. An Nhơn, H. Hoài Ân, TX. Hoài Nhơn, H. Phù Cát, H. Phù Mỹ, H. Tây Sơn, H. Vân Canh, H. Vĩnh Thạnh",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "9. Bình Dương",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Thủ Dầu Một, TP. Dĩ An, TX. Tân Uyên, TP. Thuận An, H. Bắc Tân Uyên",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "9. Bình Dương",
+      "Thành phố, Thị xã, Quận, Huyện": "TX. Bến Cát, H. Dầu Tiếng, H. Phú Giáo, H. Bàu Bàng",
+      "Mật độ sét đánh (số lần/km2/năm)": "14,9"
+    },
+    {
+      "Tỉnh, Thành phố": "10. Bình Phước",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Đồng Xoài, TX. Bình Long, H. Chơn Thành, H. Đồng Phú, H. Hớn Quản",
+      "Mật độ sét đánh (số lần/km2/năm)": "14,9"
+    },
+    {
+      "Tỉnh, Thành phố": "10. Bình Phước",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Bù Đốp, H. Bù Đăng, H. Lộc Ninh, TX. Phước Long, H. Bù Gia Mập",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "11. Bình Thuận",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Phan Thiết, TX. La Gi, H. Hàm Tân, H. Hàm Thuận Bắc, H. Hàm Thuận Nam, H. Tánh Linh",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "11. Bình Thuận",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Đức Linh",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "11. Bình Thuận",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Phú Quý",
+      "Mật độ sét đánh (số lần/km2/năm)": "7,0"
+    },
+    {
+      "Tỉnh, Thành phố": "11. Bình Thuận",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Bắc Bình",
+      "Mật độ sét đánh (số lần/km2/năm)": "5,7"
+    },
+    {
+      "Tỉnh, Thành phố": "11. Bình Thuận",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Tuy Phong",
+      "Mật độ sét đánh (số lần/km2/năm)": "3,4"
+    },
+    {
+      "Tỉnh, Thành phố": "12. Cà Mau",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Cà Mau, H. U Minh, H. Thới Bình, H. Trần Văn Thời, H. Cái Nước, H. Đầm Dơi, H. Phú Tân, H. Năm Căn, H. Ngọc Hiển",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "13. Cao Bằng",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Cao Bằng, H. Bảo Lạc, H. Bảo Lâm, H. Hà Quảng, H. Hạ Lang, H. Hòa An, H. Nguyên Bình, H. Phục Hoà, H. Quảng Uyên, H. Thạch An, H. Thông Nông, H. Trà Lĩnh, H. Trùng Khánh",
+      "Mật độ sét đánh (số lần/km2/năm)": "9,2"
+    },
+    {
+      "Tỉnh, Thành phố": "14. Cần Thơ",
+      "Thành phố, Thị xã, Quận, Huyện": "Q. Bình Thủy, Q. Cái Răng, Q. Ninh Kiều, Q. Ô Môn, H. Cờ Đỏ, H. Phong Điền, Q. Thốt Nốt, H. Vĩnh Thạnh, H. Thới Lai",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "15. Đà Nẵng",
+      "Thành phố, Thị xã, Quận, Huyện": "Q. Cẩm Lệ, Q. Hải Châu, Q. Liên Chiểu, Q. Ngũ Hành Sơn, Q. Sơn Trà, Q. Thanh Khê, H. Hòa Vang",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "15. Đà Nẵng",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Hoàng Sa",
+      "Mật độ sét đánh (số lần/km2/năm)": "7,0"
+    },
+    {
+      "Tỉnh, Thành phố": "16. Đắk Lắk",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Buôn Ma Thuột, TX. Buôn Hồ, H. Buôn Đôn, H. Ea Súp, H. Cư M'Gar, H. Ea H'Leo, H. Krông Búk, H. Krông Năng",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "16. Đắk Lắk",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Krông Păk, H. Krông Ana, H. Lắk, H. Krông Bông, H. Ea Kar, H. Cư Kuin",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "16. Đắk Lắk",
+      "Thành phố, Thị xã, Quận, Huyện": "H. M'Đrắk",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "17. Điện biên",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Điện Biên Phủ, H. Điện Biên, H. Điện Biên Đông",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "17. Điện biên",
+      "Thành phố, Thị xã, Quận, Huyện": "TX. Mường Lay, H. Mường Chà, H. Mường Nhé, H. Tủa Chùa, H. Tuần Giáo, H. Mường Ảng, H. Nậm Pồ",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "18. Đắk Nông",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Gia Nghĩa, H. Krông Nô",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "18. Đắk Nông",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Đắk Mil, H. Đắk R' Lấp, H. Đắk Song, H. Cư Jút, H. Tuy Đức, H. Đắk Glong",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "19. Đồng Nai",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Biên Hòa, H. Long Thành, H. Nhơn Trạch, H. Vĩnh Cửu, H. Trảng Bom",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "19. Đồng Nai",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Long Khánh, H. Tân Phú, H. Định Quán, H. Thống Nhất",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "19. Đồng Nai",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Xuân Lộc, H. Cẩm Mỹ",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "20. Đồng Tháp",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Cao Lãnh, H. Lấp Vò, TP. Sa Đéc, H. Tân Hồng, H. Tam Nông, H. Tháp Mười, TX. Hồng Ngự, H. Cao Lãnh, H. Thanh Bình, H. Lai Vung, H. Châu Thành, H. Hồng Ngự",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "21. Gia Lai",
+      "Thành phố, Thị xã, Quận, Huyện": "TX. An Khê, H. Chư Păh, H. Ia Grai, H. Mang Yang, H. Đắc Đoa, H. Đắc Pơ, H. Kông Chro",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "21. Gia Lai",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Pleiku, H. K’Bang, H. Ia Pa, H. Đức Cơ, H. Krông Pa",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "21. Gia Lai",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Chư Prông, H. Chư Sê, TX. Ayun Pa, H. Chư Pưh",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "22. Hà Giang",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Hà Giang, H. Bắc Mê, H. Bắc Quang, H. Quản Bạ, H. Vị Xuyên,",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "22. Hà Giang",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Hoàng Su Phì, H. Mèo Vạc, H. Quang Bình, H. Xín Mần, H. Đồng Văn, H. Yên Minh",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "23. Hà Nam",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Phủ Lý, H. Kim Bảng, H. Thanh Liêm, TX. Duy Tiên",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "23. Hà Nam",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Bình Lục, H. Lý Nhân",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "24. Hà Nội",
+      "Thành phố, Thị xã, Quận, Huyện": "Q. Ba Đình, Q. Cầu Giấy, Q. Đống Đa, Q. Hai Bà Trưng, Q. Hoàng Mai, Q. Hoàn Kiếm, Q. Long Biên, Q. Tây Hồ, Q. Thanh Xuân, Q. Bắc Từ Liêm, Q. Nam Từ Liêm, H. Gia Lâm, H. Thanh Trì, H. Đông Anh, Q. Hà Đông, TX. Sơn Tây , H. Ba Vì, H. Chương Mỹ, H. Mỹ Đức, H. Phú Xuyên, H. Thanh Oai, H. Thường Tín, H. Ứng Hòa",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "24. Hà Nội",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Sóc Sơn, H. Phúc Thọ, H. Đan Phượng, H. Thạch Thất, H. Quốc Oai, H. Hoài Đức, H. Mê Linh",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "25. Hà Tĩnh",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Hà Tĩnh, H. Cẩm Xuyên, H. Can Lộc, H. Đức Thọ, H. Hương Sơn, TX. Kỳ Anh, H. Nghi Xuân, H. Thạch Hà, H. Vũ Quang, H. Kỳ Anh, TX. Hồng Lĩnh, H. Lộc Hà",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "25. Hà Tĩnh",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Hương Khê",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "26. Hậu Giang",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Châu Thành, H. Phụng Hiệp",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "26. Hậu Giang",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Vị Thanh, H. Vị Thuỷ, H. Long Mỹ, H. Châu Thành A, TX. Long Mỹ, TX. Ngã Bảy",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "27. Hải Dương",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Hải Dương, H. Bình Giang, H. Cẩm Giàng, TP. Chí Linh, H. Gia Lộc, H. Nam Sách, H. Ninh Giang, H. Thanh Miện",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "27. Hải Dương",
+      "Thành phố, Thị xã, Quận, Huyện": "TX. Kinh Môn, H. Kim Thành, H. Thanh Hà, H. Tứ Kỳ",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "28. Hải Phòng",
+      "Thành phố, Thị xã, Quận, Huyện": "Q. Hồng Bàng, Q. Kiến An, Q. Lê Chân, Q. Ngô Quyền, H. An Dương, H. An Lão, H. Bạch Long Vĩ, H. Thủy Nguyên, Q. Dương Kinh",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "28. Hải Phòng",
+      "Thành phố, Thị xã, Quận, Huyện": "Q. Hải An, Q. Đồ Sơn, H. Tiên Lãng, H. Vĩnh Bảo, H. Kiến Thụy, H. Cát Hải",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "29. Hoà Bình",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Hòa Bình, H. Đà Bắc, H. Kim Bôi, Kỳ Sơn, H. Lạc Thủy, H. Lương Sơn, H. Mai Châu",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "29. Hoà Bình",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Cao Phong, H. Tân Lạc, H. Lạc Sơn, H. Yên Thủy",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "30. Hưng Yên",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Hưng Yên, H. Phù Cừ, H. Tiên Lữ",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "30. Hưng Yên",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Ân Thi, H. Khoái Châu, H. Kim Động, TX. Mỹ Hào, H. Văn Giang, H. Văn Lâm, H. Yên Mỹ",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "31. Khánh Hoà",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Nha Trang",
+      "Mật độ sét đánh (số lần/km2/năm)": "3,4"
+    },
+    {
+      "Tỉnh, Thành phố": "31. Khánh Hoà",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Cam Ranh, H. Diên Khánh, H. Vạn Ninh, TX. Ninh Hòa, H. Cam Lâm",
+      "Mật độ sét đánh (số lần/km2/năm)": "5,7"
+    },
+    {
+      "Tỉnh, Thành phố": "31. Khánh Hoà",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Khánh Sơn, H. Khánh Vĩnh",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "31. Khánh Hoà",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Trường Sa",
+      "Mật độ sét đánh (số lần/km2/năm)": "7,0"
+    },
+    {
+      "Tỉnh, Thành phố": "32. Kiên Giang",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Rạch Giá, TP. Hà Tiên, H. An Biên, H. An Minh, H. Châu Thành, H. Giồng Riềng, H. Gò Quao, H. Hòn Đất, H. Kiên Hải, H. Kiên Lương, H. Tân Hiệp, H. Vĩnh Thuận, H. Giang Thành, H. U Minh Thượng",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "32. Kiên Giang",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Phú Quốc",
+      "Mật độ sét đánh (số lần/km2/năm)": "7,0"
+    },
+    {
+      "Tỉnh, Thành phố": "33. Kon Tum",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Kom Tum, H. Kon Plông, H. Kon Rẫy, H. Đắk Glei, H. Đắk Hà, H. Sa Thầy, H. Ia H’Drai",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "33. Kon Tum",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Đắk Tô, H. Ngọc Hồi, H. Tu Mơ Rông",
+      "Mật độ sét đánh (số lần/km2/năm)": "5,7"
+    },
+    {
+      "Tỉnh, Thành phố": "34. Lâm Đồng",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Đà Lạt, H. Đam Rông, H. Đơn Dương, H. Đức Trọng, H. Lâm Hà",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "34. Lâm Đồng",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Bảo Lộc, H. Bảo Lâm, H. Cát Tiên, H. Di Linh",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "34. Lâm Đồng",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Đạ Huoai, H. Đạ Tẻh",
+      "Mật độ sét đánh (số lần/km2/năm)": "5,7"
+    },
+    {
+      "Tỉnh, Thành phố": "34. Lâm Đồng",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Lạc Dương",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "35. Lào Cai",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Lào Cai, TX. Sa Pa, H. Bắc Hà, H. Bát Xát, H. Mường Khương, H. Si Ma Cai",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "35. Lào Cai",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Bảo Thắng, H. Bảo Yên, H. Văn Bàn",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "36. Lạng Sơn",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Lạng Sơn, H. Bắc Sơn, H. Bình Gia, H. Cao Lộc, H. Chi Lăng, H. Đình Lập, H. Hữu Lũng, H. Lộc Bình, H. Tràng Định, H. Văn Lãng, H. Văn Quan",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "37. Lai Châu",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Lai Châu, H. Mường Tè, H. Phong Thổ, H. Sìn Hồ, H. Tam Đường, H. Than Uyên, H. Nậm Nhùn, H. Tân Uyên",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "38. Long An",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Tân An, H. Bến Lức, H. Cần Đước, H. Cần Guộc, H. Châu Thành, H. Đức Hòa, H. Tân Trụ, H. Tân Hưng, H. Tân Thạnh, H. Thủ Thừa",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "38. Long An",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Đức Huệ, H. Mộc Hóa, H. Thạnh Hóa, H. Vĩnh Hưng",
+      "Mật độ sét đánh (số lần/km2/năm)": "14,9"
+    },
+    {
+      "Tỉnh, Thành phố": "39. Nam Định",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Nam Định, H. Giao Thủy, H. Hải Hậu, H. Mỹ Lộc, H. Nam Trực, H. Nghĩa Hưng, H. Trực Ninh, H. Vụ Bản, H. Xuân Trường, H. Ý Yên",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "40. Nghệ An",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Vinh, TX. Cửa Lò, TX. Hoàng Mai, TX. Thái Hòa, H. Hưng Nguyên, H. Nam Đàn, H. Thanh Chương, H. Đô Lương, H. Yên Thành, H. Quỳnh Lưu, H. Diễn Châu, H. Nghi Lộc",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "40. Nghệ An",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Anh Sơn, H. Con Cuông, H. Nghĩa Đàn, H. Tân Kỳ, H. Tương Dương, H. Kỳ Sơn, H. Quế Phong",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "40. Nghệ An",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Quỳ Châu, H. Quỳ Hợp",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "41. Ninh Bình",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Ninh Bình, TP. Tam Điệp, H. Hoa Lư, H. Kim Sơn, H. Yên Khánh, H. Yên Mô",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "41. Ninh Bình",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Gia Viễn, H. Nho Quan",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "42. Ninh Thuận",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Phan Rang - Tháp Chàm, H. Ninh Phước, H. Thuận Nam",
+      "Mật độ sét đánh (số lần/km2/năm)": "1,4"
+    },
+    {
+      "Tỉnh, Thành phố": "42. Ninh Thuận",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Bắc Ái, H. Ninh Sơn, H. Thuận Bắc",
+      "Mật độ sét đánh (số lần/km2/năm)": "5,7"
+    },
+    {
+      "Tỉnh, Thành phố": "42. Ninh Thuận",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Ninh Hải",
+      "Mật độ sét đánh (số lần/km2/năm)": "3,4"
+    },
+    {
+      "Tỉnh, Thành phố": "43. Phú Thọ",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Việt Trì, TX. Phú Thọ, H. Đoan Hùng, H. Hạ Hoà, H. Lâm Thao, H. Phù Ninh, H. Cẩm Khê, H. Tam Nông, H. Thanh Ba, H. Thanh Sơn, H. Thanh Thuỷ, H. Yên Lập, H. Tân Sơn",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "44. Phú Yên",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Tuy Hòa",
+      "Mật độ sét đánh (số lần/km2/năm)": "3,4"
+    },
+    {
+      "Tỉnh, Thành phố": "44. Phú Yên",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Đông Xuân, H. Sông Hinh, H. Sơn Hòa",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "44. Phú Yên",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Phú Hòa, TX. Sông Cầu, H. Tuy An, H. Tây Hòa, H. Đông Hòa",
+      "Mật độ sét đánh (số lần/km2/năm)": "5,7"
+    },
+    {
+      "Tỉnh, Thành phố": "45. Quảng Bình",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Đồng Hới, TX. Ba Đồn, H. Bố Trạch, H. Lệ Thủy, H. Minh Hóa, H. Quảng Ninh, H. Quảng Trạch",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "45. Quảng Bình",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Tuyên Hóa",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "46. Quảng Nam",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Tam Kỳ, TP. Hội An, H. Bắc Trà My, H. Duy Xuyên, H. Đại Lộc, TX. Điện Bàn, H. Nam Trà My, H. Phú Ninh, H. Núi Thành, H. Quế Sơn, H. Thăng Bình, H. Tiên Phước, H. Hiệp Đức",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "46. Quảng Nam",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Đông Giang, H. Nam Giang, H. Phước Sơn, H. Tây Giang, H. Nông Sơn",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "47. Quảng Ngãi",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Quảng Ngãi, H. Bình Sơn, TX. Đức Phổ, H. Lý Sơn, H. Mộ Đức, H. Nghĩa Hành, H. Tư Nghĩa, H. Sơn Tịnh",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "47. Quảng Ngãi",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Ba Tơ, H. Minh Long, H. Sơn Hà, H. Sơn Tây, H. Trà Bồng",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "48. Quảng Ninh",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Hạ Long, TP. Uông Bí, TX. Đông Triều, TX. Quảng Uyên, H. Bình Liêu",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "48. Quảng Ninh",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Móng Cái, H. Ba Chẽ, H. Cô Tô, H. Đầm Hà, H. Hải Hà, H. Hoành Bồ, H. Tiên Yên, H. Vân Đồ, TP. Cẩm Phả",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "49. Quảng Trị",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Đông Hà, H. Cam Lộ, H. Cồn Cỏ, H. Gio Linh, H. Hướng Hóa, H. Vĩnh Linh",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "49. Quảng Trị",
+      "Thành phố, Thị xã, Quận, Huyện": "TX. Quảng Trị, H. Đa Krông, H. Hải Lăng, H. Triệu Phong",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "50. Sơn La",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Sơn La, H. Bắc Yên, H. Mai Sơn, H. Mộc Châu, H. Mường La, H. Phù Yên, H. Quỳnh Nhai, H. Sông Mã, H. Sốp Cộp, H. Thuận Châu, H. Yên Châu, H. Vân Hồ",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "51. Sóc Trăng",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Sóc Trăng, H. Cù Lao Dung, H. Kế Sách, H. Long Phú, H. Mỹ Xuyên, TX. Vĩnh Châu, H. Trần Đề",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "51. Sóc Trăng",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Mỹ Tú, TX. Ngã Năm, H. Thạnh Trị, H Châu Thành",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "52. Tây Ninh",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Tây Ninh, H. Châu Thành, TX. Hòa Thành, H. Tân Biên, H. Tân Châu",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "52. Tây Ninh",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Gò Dầu, TX. Trảng Bàng, H. Bến cầu, H. Dương Minh Châu",
+      "Mật độ sét đánh (số lần/km2/năm)": "14,9"
+    },
+    {
+      "Tỉnh, Thành phố": "53. Thái Bình",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Thái Bình, H. Đông Hưng, H. Hưng Hà, H. Kiến Xương, H. Quỳnh Phụ, H. Thái Thụy, H. Tiền Hải, H. Vũ Thư",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "54. Thái Nguyên",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Thái Nguyên, H. Định Hóa, H. Đồng Hỷ, TX. Phổ Yên, H. Phú Bình, H. Phú Lương, H. Võ Nhai, TP. Sông Công, H. Đại Từ",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "55. Thanh Hoá",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Thanh Hóa, TX. Bỉm Sơn, TP. Sầm Sơn, H. Đông Sơn, H. Hà Trung, H. Hậu Lộc, H. Hoằng Hóa, H. Như Thanh, H. Như Xuân, H. Nông Cống, H. Nga Sơn, H. Thiệu Hóa, H. Thọ Xuân, H. Quảng Xương, TX. Nghi Sơn, H. Triệu Sơn, H. Vĩnh Lộc, H. Yên Định",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "55. Thanh Hoá",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Bá Thước, H. Thạch Thành",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "55. Thanh Hoá",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Lang Chánh, H. Mường Lát, H. Quan Hóa, H. Quan Sơn, H. Thường Xuân, H. Ngọc Lặc, H. Cẩm Thủy",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "56. Thừa Thiên Huế",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Huế, H. Phong Điền, H. Phú Lộc, H. Phú Vang, H. Quảng Điền",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "56. Thừa Thiên Huế",
+      "Thành phố, Thị xã, Quận, Huyện": "H. A Lưới, TX. Hương Trà, TX. Hương Thủy, H. Nam Đông",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "57. Tiền Giang",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Mỹ Tho, TX. Gò Công, H. Cái Bè, TX. Cai Lậy, H. Châu Thành, H. Tân Phước, H. Chợ Gạo, H. Gò Công Đông, H. Gò Công Tây",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "58. TP. Hồ Chí Minh",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Thủ Đức, Quận 1, Quận 3, Quận 4, Quận 5, Quận 6, Quận 7, Quận 8, Quận 10, Quận 11, Quận 12, Q. Tân Phú, Q. Bình Tân, Q. Bình Thạnh, Q. Gò Vấp, Q. Phú Nhuận, Q. Tân Bình, H. Bình Chánh, H. Nhà Bè, H. Hóc Môn",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "58. TP. Hồ Chí Minh",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Cần Giờ",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "58. TP. Hồ Chí Minh",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Củ Chi",
+      "Mật độ sét đánh (số lần/km2/năm)": "14,9"
+    },
+    {
+      "Tỉnh, Thành phố": "59. Trà Vinh",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Trà Vinh, H. Càng Long",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "59. Trà Vinh",
+      "Thành phố, Thị xã, Quận, Huyện": "TX. Duyên Hải, H. Cầu Kè, H. Cầu Ngang, H. Châu Thành, H. Duyên Hải, H. Tiểu Cần, H. Trà Cú",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "60. Tuyên Quang",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Tuyên Quang, H. Chiêm Hóa, H. Hàm Yên, H. Na Hang, H. Lâm Bình, H. Yên Sơn",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "60. Tuyên Quang",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Sơn Dương",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "61. Vĩnh Long",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Vĩnh Long, H. Long Hồ, H. Mang Thít, H. Bình Tân",
+      "Mật độ sét đánh (số lần/km2/năm)": "13,7"
+    },
+    {
+      "Tỉnh, Thành phố": "61. Vĩnh Long",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Tam Bình, H. Trà Ôn, H. Vũng Liêm, TX. Bình Minh",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "62. Vĩnh Phúc",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Vĩnh Yên, TP. Phúc Yên, H. Bình Xuyên, H. Lập Thạch, H. Tam Dương, H. Vĩnh Tường, H. Yên Lạc, H. Sông Lô",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    },
+    {
+      "Tỉnh, Thành phố": "62. Vĩnh Phúc",
+      "Thành phố, Thị xã, Quận, Huyện": "H. Tam Đảo",
+      "Mật độ sét đánh (số lần/km2/năm)": "8,2"
+    },
+    {
+      "Tỉnh, Thành phố": "63. Yên Bái",
+      "Thành phố, Thị xã, Quận, Huyện": "TP. Yên Bái, TX. Nghĩa Lộ, H. Lục Yên, H. Mù Cang Chải, H. Trạm Tấu, H. Trấn Yên, H. Văn Chấn, H. Văn Yên, H. Yên Bình",
+      "Mật độ sét đánh (số lần/km2/năm)": "10,9"
+    }
+  ],
+  "footnotes": []
+}

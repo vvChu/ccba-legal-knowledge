@@ -1,20 +1,37 @@
 ---
-id: "nghi_dinh_217_2026_nd_cp"
-document_number: "217/2026/NĐ-CP"
-title: "Nghị định 217/2026/NĐ-CP về Quản lý dự án đầu tư xây dựng"
-issued_by: "Chính phủ"
-signer: "Phạm Gia Túc"
-issued_date: "2026-06-19"
-effective_date: "2026-07-01"
-status: "active"
-pdf_anchor: "./nghi_dinh_217_2026_nd_cp.pdf"
-legal_basis:
-- doc_id: luật_tổ_chức_chính_phủ_số_63_2025_qh15
-  title: Luật Tổ chức Chính phủ số 63/2025/QH15
-- doc_id: luật_tổ_chức_chính_quyền_địa_phương_số_72_2025_qh1
-  title: Luật Tổ chức chính quyền địa phương số 72/2025/QH15
-- doc_id: Luat-Xay-dung-2025-135-2025-QH15
-  title: Luật Xây dựng số 135/2025/QH15
+okf_version: '2.2'
+type: legal_normative_body
+title: Nghị định 217/2026/NĐ-CP về Quản lý dự án đầu tư xây dựng
+description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng
+  CCBA.
+tags:
+- dau_tu_xay_dung
+- nghi_dinh
+- quan_ly_du_an
+- vbpl
+- xay_dung
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/nghi_dinh_217_2026_nd_cp/nghi_dinh_217_2026_nd_cp.md
+id: nghi_dinh_217_2026_nd_cp
+doc_id: nghi_dinh_217_2026_nd_cp
+document_number: 217/2026/NĐ-CP
+document_type: Nghị định
+issued_by: Chính phủ
+signer: Phạm Gia Túc
+issued_date: '2026-06-19'
+effective_date: '2026-07-01'
+status: active
+pdf_anchor:
+  path: ./nghi_dinh_217_2026_nd_cp.pdf
+  sha256: 2a9eb4d4d5ee8b5726f1c906ac0702d00a04a3452efc65f92d87cc3c8071ab0f
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: Luat-Xay-dung-2025-135-2025-QH15
+  relation_type: guided_by
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 217/2026/NĐ-CP

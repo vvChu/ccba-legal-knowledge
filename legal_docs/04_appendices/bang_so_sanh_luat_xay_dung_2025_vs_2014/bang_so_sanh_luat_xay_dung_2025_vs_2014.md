@@ -1,3 +1,33 @@
+---
+okf_version: '2.2'
+type: legal_comparative_matrix
+title: Bảng So sánh Nội dung Đổi mới Luật Xây dựng 2025 (135/2025/QH15) vs Luật Xây
+  dựng 2014 (50/2014/QH13)
+description: Tài liệu Phụ lục đối chiếu quy định chính quy trong hệ thống tri thức
+  xây dựng CCBA.
+tags:
+- xay_dung
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/04_appendices/bang_so_sanh_luat_xay_dung_2025_vs_2014/bang_so_sanh_luat_xay_dung_2025_vs_2014.md
+id: bang_so_sanh_luat_xay_dung_2025_vs_2014
+doc_id: bang_so_sanh_luat_xay_dung_2025_vs_2014
+document_number: APPENDIX-XD-2025-2014
+document_type: Phụ lục đối chiếu
+issued_by: CCBA Legal Research Group
+signer: ''
+issued_date: '2026-07-01'
+effective_date: '2026-07-01'
+status: active
+pdf_anchor:
+  path: ./bang_so_sanh_luat_xay_dung_2025_vs_2014.pdf
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: 135/2025/QH15
+  relation_type: compares
+- target_id: 50/2014/QH13
+  relation_type: compares
+---
+
 # BẢNG SO SÁNH NỘI DUNG ĐỔI MỚI LUẬT XÂY DỰNG 2025 (135/2025/QH15) VỚI LUẬT XÂY DỰNG 2014 (SỬA ĐỔI 2020)
 
 *(Căn cứ Luật Xây dựng số 135/2025/QH15 ngày 10/12/2025 - Hiệu lực thi hành từ 01/07/2026)*

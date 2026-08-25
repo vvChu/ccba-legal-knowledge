@@ -1,23 +1,36 @@
 ---
-id: "thong_tu_32_2026_tt_bxd"
-document_number: "32/2026/TT-BXD"
-title: "Thông tư 32/2026/TT-BXD quy định chi tiết một số điều của Nghị định 207/2026/NĐ-CP về quản lý chất lượng"
-issued_by: "Bộ Xây dựng"
-signer: "Đang cập nhật"
-issued_date: "2026-06-30"
-effective_date: "2026-07-01"
-status: "active"
-pdf_anchor: "./thong_tu_32_2026_tt_bxd.pdf"
-legal_basis:
-- doc_id: Luat-Xay-dung-2025-135-2025-QH15
-  title: Luật Xây dựng số 135/2025/QH15
-- doc_id: nghị_định_số_207_2026_nđ_cp_của_chính_phủ_quy_định
-  title: Nghị định số 207/2026/NĐ-CP của Chính phủ quy định chi tiết một số điều của
-    Luật Xây dựng về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây
-    dựng
-- doc_id: nghị_định_số_33_2025_nđ_cp_của_chính_phủ_quy_định_
-  title: Nghị định số 33/2025/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền
-    hạn và cơ cấu tổ chức của Bộ Xây dựng
+okf_version: '2.2'
+type: legal_normative_body
+title: Thông tư 32/2026/TT-BXD quy định chi tiết một số điều của Nghị định 207/2026/NĐ-CP
+  về quản lý chất lượng
+description: Tài liệu Thông tư quy định chính quy trong hệ thống tri thức xây dựng
+  CCBA.
+tags:
+- quan_ly_chat_luong
+- thong_tu
+- vbpl
+timestamp: '2026-08-25T00:00:00Z'
+resource: legal_docs/01_vbpl/thong_tu_32_2026_tt_bxd/thong_tu_32_2026_tt_bxd.md
+id: thong_tu_32_2026_tt_bxd
+doc_id: thong_tu_32_2026_tt_bxd
+document_number: 32/2026/TT-BXD
+document_type: Thông tư
+issued_by: Bộ Xây dựng
+signer: Đang cập nhật
+issued_date: '2026-06-30'
+effective_date: '2026-07-01'
+status: active
+pdf_anchor:
+  path: ./thong_tu_32_2026_tt_bxd.pdf
+  sha256: ea27c3c8030538e7c0c025b8fd29884f938c3b2cb95ab8182b5a58b420ab2790
+  cong_bao_number: Đang cập nhật
+relations:
+- target_id: nghi_dinh_207_2026_nd_cp
+  relation_type: guided_by
+artifacts:
+  templates_dir: ./templates/
+  tables_dir: ./tables/
+  benchmark_file: ./qa_benchmark.json
 ---
 
 # 32/2026/TT-BXD

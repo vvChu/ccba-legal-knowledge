@@ -1,0 +1,2 @@
+{"ts": "2026-08-24T15:42:27.954412+07:00", "layer": "pre_exec", "intent": "formula wide image", "action": "BYPASS", "matched_tools": ["[capability: formula_group]"], "triggers_matched": ["formula"], "bypass_reason": "Hub formula_harvester không hỗ trợ width > 380pt cho TCVN 2737"}
+{"ts": "2026-08-24T15:45:59.890828+07:00", "layer": "planning", "intent": "fetch and convert TCVN 2737 2023", "action": "PASS", "matched_tools": ["[capability: fetch_group]", "[capability: convert_group]"], "triggers_matched": ["fetch", "convert"]}

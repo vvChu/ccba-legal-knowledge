@@ -1,0 +1,24 @@
+{
+  "table_id": "bang_18",
+  "rows_count": 2,
+  "columns_count": 6,
+  "headers": [
+    "Vùng áp lực gió trên bản đồ",
+    "I",
+    "II",
+    "III",
+    "IV",
+    "V"
+  ],
+  "records": [
+    {
+      "Vùng áp lực gió trên bản đồ": "W0, daN/m2",
+      "I": "65",
+      "II": "95",
+      "III": "125",
+      "IV": "155",
+      "V": "185"
+    }
+  ],
+  "footnotes": []
+}

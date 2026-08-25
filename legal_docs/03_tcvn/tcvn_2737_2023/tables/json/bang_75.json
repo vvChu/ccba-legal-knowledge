@@ -1,0 +1,20 @@
+{
+  "table_id": "bang_75",
+  "rows_count": 3,
+  "columns_count": 2,
+  "headers": [
+    "1 - Tường chịu lực (hoặc cột);",
+    "4 - Sàn tàng (hoặc mái) khi chịu tải trọng;"
+  ],
+  "records": [
+    {
+      "1 - Tường chịu lực (hoặc cột);": "2 - Tường ngăn;",
+      "4 - Sàn tàng (hoặc mái) khi chịu tải trọng;": "5 - Các đoạn thẳng mốc để tính độ võng;"
+    },
+    {
+      "1 - Tường chịu lực (hoặc cột);": "3 - Sàn tầng (hoặc mái) trước khi chịu tải trọng;",
+      "4 - Sàn tàng (hoặc mái) khi chịu tải trọng;": "6 - Khe hở."
+    }
+  ],
+  "footnotes": []
+}
