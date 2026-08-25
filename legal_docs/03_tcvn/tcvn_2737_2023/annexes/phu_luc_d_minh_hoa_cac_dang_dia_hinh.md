@@ -5,21 +5,33 @@
 
 <a id="hinh-d_1"></a>
 
+<p align="center">
+
 ![Hình D.1](../figures/images/hinh_d_1.png)
 
-**Hình D.1 — Hình ảnh minh họa địa hình dạng A**
+</p>
+
+<p align="center"><strong>Hình D.1 — Hình ảnh minh họa địa hình dạng A</strong></p>
 
 
 <a id="hinh-d_2"></a>
 
+<p align="center">
+
 ![Hình D.2](../figures/images/hinh_d_2.png)
 
-**Hình D.2 — Hình ảnh minh họa địa hình dạng B**
+</p>
+
+<p align="center"><strong>Hình D.2 — Hình ảnh minh họa địa hình dạng B</strong></p>
 
 
 <a id="hinh-d_3"></a>
 
+<p align="center">
+
 ![Hình D.3](../figures/images/hinh_d_3.png)
 
-**Hình D.3 — Hình ảnh minh họa địa hình dạng C**
+</p>
+
+<p align="center"><strong>Hình D.3 — Hình ảnh minh họa địa hình dạng C</strong></p>
 

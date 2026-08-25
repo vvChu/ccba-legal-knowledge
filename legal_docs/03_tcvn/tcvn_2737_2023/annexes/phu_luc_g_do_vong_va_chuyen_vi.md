@@ -66,9 +66,13 @@ CHÚ DẪN:
 
 <a id="hinh-g_1"></a>
 
+<p align="center">
+
 ![Hình G.1](../figures/images/hinh_g_1.png)
 
-**Hình G.1 — Sơ đồ xác định các giá trị L (L1, L2, L3) khi có tường ngăn nằm giữa các tường chịu lực**
+</p>
+
+<p align="center"><strong>Hình G.1 — Sơ đồ xác định các giá trị L (L1, L2, L3) khi có tường ngăn nằm giữa các tường chịu lực</strong></p>
 
 
 <a id="muc-g-1-8"></a>
@@ -89,9 +93,13 @@ $f_{2}$ - Độ võng của kết cấu vì kèo gần kết cấu vì kèo ch�
 
 <a id="hinh-g_2"></a>
 
+<p align="center">
+
 ![Hình G.2](../figures/images/hinh_g_2.png)
 
-**Hình G.2 — Sơ đồ tính độ võng của kết cấu vì kèo khi có đường ray của cần trục treo**
+</p>
+
+<p align="center"><strong>Hình G.2 — Sơ đồ tính độ võng của kết cấu vì kèo khi có đường ray của cần trục treo</strong></p>
 
 
 <a id="muc-g-1-9"></a>
@@ -311,9 +319,13 @@ CHÚ DẪN:
 
 <a id="hinh-g_3"></a>
 
+<p align="center">
+
 ![Hình G.3](../figures/images/hinh_g_3.png)
 
-**Hình G.3 — Sơ đồ độ nghiêng lệch của mảng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng trong nhà có sơ đồ khung giằng**
+</p>
+
+<p align="center"><strong>Hình G.3 — Sơ đồ độ nghiêng lệch của mảng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng trong nhà có sơ đồ khung giằng</strong></p>
 
 
 <a id="muc-g-2-5-4"></a>

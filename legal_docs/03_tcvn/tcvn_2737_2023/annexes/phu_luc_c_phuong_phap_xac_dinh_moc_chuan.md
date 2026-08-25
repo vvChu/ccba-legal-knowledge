@@ -3,7 +3,7 @@
 
 
 <a id="muc-c-1"></a>
-### C.1  Khi xác định hệ số $k(z_e)$ theo công thức (12), nếu mặt đất xung quanh nhà và công trình không bằng phẳng thì độ cao tương đương $z_e$ được xác định thông qua độ cao $z$ (xem 10.2.4) và $z$ được xác định như sau:
+### C.1  Khi xác định hệ số $k(z_e)$ theo công thức (12), nếu mặt đất xung quanh nhà và công trình không bằng phẳng thì độ cao tương đương $z_e$ được xác định thông qua độ cao $z$ (xem [10.2.4](#muc-10-2-4)) và $z$ được xác định như sau:
 
 \- a) Trường hợp mặt đất có độ dốc nhỏ so với phương nằm ngang $i \le 0,3$, độ cao $z$ được tính từ mặt đất (mốc chuẩn) đặt nhà và công trình tới điểm cần xét.
 
@@ -14,24 +14,33 @@
 
 <a id="hinh-c_1a"></a>
 
+<p align="center">
+
 ![Hình C.1a](../figures/images/hinh_c_1a.png)
+
+</p>
 
 **CHÚ THÍCH:** Bên trái điểm A: $z_0 = z_1$; Trên đoạn BC: $z_0 = \frac{H(2 - i)}{1,7}$; Bên phải điểm D: $z_0 = z_2$; Trên đoạn AB và CD: $z_0$ được xác định bằng nội suy tuyến tính.
 
-**a) Khi mặt đất có độ dốc $0,3 < i < 2$**
+<p align="center"><strong>a) Khi mặt đất có độ dốc $0,3 < i < 2$</strong></p>
 
 
 <a id="hinh-c_1b"></a>
 
+<p align="center">
+
 ![Hình C.1b](../figures/images/hinh_c_1b.png)
+
+</p>
 
 **CHÚ THÍCH:** Bên trái điểm C: $z_0 = z_1$; Bên phải điểm D: $z_0 = z_2$; Trên đoạn CD: $z_0$ được xác định bằng nội suy tuyến tính.
 
-**b) Khi mặt đất có độ dốc $i \ge 2$**
+<p align="center"><strong>b) Khi mặt đất có độ dốc $i \ge 2$</strong></p>
 
 
 <a id="hinh-c_1"></a>
-### **Hình C.1 — Mặt cao độ công trình quy ước $z_0$ (mốc chuẩn)**
+
+<p align="center"><strong>Hình C.1 — Mặt cao độ công trình quy ước $z_0$ (mốc chuẩn)</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học & Phương pháp Xác định Mốc chuẩn Khí động ($z_0$):**

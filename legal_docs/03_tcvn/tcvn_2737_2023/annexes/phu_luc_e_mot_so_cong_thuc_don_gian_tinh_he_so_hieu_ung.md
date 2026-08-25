@@ -51,9 +51,13 @@ d) Mặt bằng công trình hình chữ Y đơn
 
 <a id="hinh-e_1"></a>
 
+<p align="center">
+
 ![Hình E.1](../figures/images/hinh_e_1.png)
 
-**Hình E.1 — Kích thước tương đương cho một số mặt bằng phức tạp của công trình**
+</p>
+
+<p align="center"><strong>Hình E.1 — Kích thước tương đương cho một số mặt bằng phức tạp của công trình</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học & Tham chiếu Khí động:**

@@ -31,9 +31,13 @@ Khi L ≤ 2h
 
 <a id="hinh-f_1"></a>
 
+<p align="center">
+
 ![Hình F.1](../figures/images/hinh_f_1.png)
 
-**Hình F.1 — Các vùng trên tường phẳng, hàng rào và kết cấu tương tự**
+</p>
+
+<p align="center"><strong>Hình F.1 — Các vùng trên tường phẳng, hàng rào và kết cấu tương tự</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học & Tham chiếu Khí động:**
@@ -76,9 +80,13 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 <a id="hinh-f_2"></a>
 
+<p align="center">
+
 ![Hình F.2](../figures/images/hinh_f_2.png)
 
-**Hình F.2 — Bảng quảng cáo**
+</p>
+
+<p align="center"><strong>Hình F.2 — Bảng quảng cáo</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học & Tham chiếu Khí động:**
@@ -114,9 +122,13 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 <a id="hinh-f_3"></a>
 
+<p align="center">
+
 ![Hình F.3](../figures/images/hinh_f_3.png)
 
-**Hình F.3 — Mái bằng**
+</p>
+
+<p align="center"><strong>Hình F.3 — Mái bằng</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học & Tham chiếu Khí động:**
@@ -177,9 +189,13 @@ c) Góc hướng gió θ = 90°
 
 <a id="hinh-f_4"></a>
 
+<p align="center">
+
 ![Hình F.4](../figures/images/hinh_f_4.png)
 
-**Hình F.4 — Mái dốc một phía**
+</p>
+
+<p align="center"><strong>Hình F.4 — Mái dốc một phía</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học & Tham chiếu Khí động:**
@@ -244,9 +260,13 @@ c) Góc hướng gió θ = 90°
 
 <a id="hinh-f_5a"></a>
 
+<p align="center">
+
 ![Hình F.5a](../figures/images/hinh_f_5a.png)
 
-**Hình F.5a — Tường thẳng đứng của nhà có mặt bằng chữ nhật**
+</p>
+
+<p align="center"><strong>Hình F.5a — Tường thẳng đứng của nhà có mặt bằng chữ nhật</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học & Tham chiếu Khí động:**
@@ -263,9 +283,13 @@ c) Góc hướng gió θ = 90°
 
 <a id="hinh-f_5b"></a>
 
+<p align="center">
+
 ![Hình F.5b](../figures/images/hinh_f_5b.png)
 
-**Hình F.5b — Tường nghiêng của nhà có mặt bằng chữ nhật**
+</p>
+
+<p align="center"><strong>Hình F.5b — Tường nghiêng của nhà có mặt bằng chữ nhật</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học & Tham chiếu Khí động:**
@@ -319,9 +343,13 @@ CHÚ DẪN:
 
 <a id="hinh-f_6"></a>
 
+<p align="center">
+
 ![Hình F.6](../figures/images/hinh_f_6.png)
 
-**Hình F.6 — Mái dốc hai phía của nhà có mặt bằng chữ nhật**
+</p>
+
+<p align="center"><strong>Hình F.6 — Mái dốc hai phía của nhà có mặt bằng chữ nhật</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học & Tham chiếu Khí động:**
@@ -401,9 +429,13 @@ CHÚ DẪN:
 
 <a id="hinh-f_7"></a>
 
+<p align="center">
+
 ![Hình F.7](../figures/images/hinh_f_7.png)
 
-**Hình F.7 — Mái dốc bốn phía**
+</p>
+
+<p align="center"><strong>Hình F.7 — Mái dốc bốn phía</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học & Tham chiếu Khí động:**
@@ -456,9 +488,13 @@ CHÚ DẪN:
 
 <a id="hinh-f_8"></a>
 
+<p align="center">
+
 ![Hình F.8](../figures/images/hinh_f_8.png)
 
-**Hình F.8 — Phân bố hệ số khí động ce trên bề mặt mái vòm và mái gần giống vòm**
+</p>
+
+<p align="center"><strong>Hình F.8 — Phân bố hệ số khí động ce trên bề mặt mái vòm và mái gần giống vòm</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học & Tham chiếu Khí động:**
@@ -481,9 +517,13 @@ CHÚ DẪN:
 
 <a id="hinh-f_9a"></a>
 
+<p align="center">
+
 ![Hình F.9a](../figures/images/hinh_f_9a.png)
 
-**Hình F.9a — Mái chòm cầu**
+</p>
+
+<p align="center"><strong>Hình F.9a — Mái chòm cầu</strong></p>
 
 
 <a id="muc-f-7-2"></a>
@@ -492,9 +532,13 @@ CHÚ DẪN:
 
 <a id="hinh-f_9b"></a>
 
+<p align="center">
+
 ![Hình F.9b](../figures/images/hinh_f_9b.png)
 
-**Hình F.9b — Mái nón**
+</p>
+
+<p align="center"><strong>Hình F.9b — Mái nón</strong></p>
 
 
 <a id="bang-bang-f-7"></a>
@@ -549,9 +593,13 @@ CHÚ DẪN: 1 - Tường chắn gió
 
 <a id="hinh-f_10"></a>
 
+<p align="center">
+
 ![Hình F.10](../figures/images/hinh_f_10.png)
 
-**Hình F.10 — Nhà có cửa trời dọc nhà và nhà có chiều cao thay đổi**
+</p>
+
+<p align="center"><strong>Hình F.10 — Nhà có cửa trời dọc nhà và nhà có chiều cao thay đổi</strong></p>
 
 
 <a id="muc-f-9"></a>
@@ -580,9 +628,13 @@ CHÚ DẪN: 1 - Tường chắn gió
 
 <a id="hinh-f_11"></a>
 
+<p align="center">
+
 ![Hình F.11](../figures/images/hinh_f_11.png)
 
-**Hình F.11 — Nhà có cửa trời trên đỉnh**
+</p>
+
+<p align="center"><strong>Hình F.11 — Nhà có cửa trời trên đỉnh</strong></p>
 
 
 <a id="muc-f-10"></a>
@@ -611,9 +663,13 @@ CHÚ DẪN: 1 - Tường chắn gió
 
 <a id="hinh-f_12"></a>
 
+<p align="center">
+
 ![Hình F.12](../figures/images/hinh_f_12.png)
 
-**Hình F.12 — Nhà có mái răng cưa**
+</p>
+
+<p align="center"><strong>Hình F.12 — Nhà có mái răng cưa</strong></p>
 
 
 <a id="muc-f-11"></a>
@@ -626,9 +682,13 @@ CHÚ DẪN: 1 - Tường chắn gió
 
 <a id="hinh-f_13"></a>
 
+<p align="center">
+
 ![Hình F.13](../figures/images/hinh_f_13.png)
 
-**Hình F.13 — Mặt bằng của nhà có góc lõm**
+</p>
+
+<p align="center"><strong>Hình F.13 — Mặt bằng của nhà có góc lõm</strong></p>
 
 
 <a id="bang-bang-f-8"></a>
@@ -664,9 +724,13 @@ Khi μ ≥ 30 %: $c_{i1}$ = - 0,5; $c_{i2}$= 0,8.
 
 <a id="hinh-f_14"></a>
 
+<p align="center">
+
 ![Hình F.14](../figures/images/hinh_f_14.png)
 
-**Hình F.14 — Các hệ số khí động có xét đến áp lực trong**
+</p>
+
+<p align="center"><strong>Hình F.14 — Các hệ số khí động có xét đến áp lực trong</strong></p>
 
 
 <a id="muc-f-13"></a>
@@ -681,9 +745,13 @@ CHÚ DẪN:
 
 <a id="hinh-f_15"></a>
 
+<p align="center">
+
 ![Hình F.15](../figures/images/hinh_f_15.png)
 
-**Hình F.15 — Các sơ đồ phân bố hệ số ce cho mái che**
+</p>
+
+<p align="center"><strong>Hình F.15 — Các sơ đồ phân bố hệ số ce cho mái che</strong></p>
 
 
 <a id="bang-bang-f-9"></a>
@@ -720,16 +788,24 @@ Khi $z_{g}$ < d/2, hệ số $c_{x}$ cần được tăng lên 1,6 lần.
 
 <a id="hinh-f_16"></a>
 
+<p align="center">
+
 ![Hình F.16](../figures/images/hinh_f_16.png)
 
-**Hình F.16 — Khối cầu**
+</p>
+
+<p align="center"><strong>Hình F.16 — Khối cầu</strong></p>
 
 
 <a id="hinh-f_17"></a>
 
+<p align="center">
+
 ![Hình F.17](../figures/images/hinh_f_17.png)
 
-**Hình F.17 — Hệ số khí động cản chính diện cx của khối cầu**
+</p>
+
+<p align="center"><strong>Hình F.17 — Hệ số khí động cản chính diện cx của khối cầu</strong></p>
 
 
 <a id="muc-f-14-2"></a>
@@ -799,16 +875,24 @@ trong đó:
 
 <a id="hinh-f_18"></a>
 
+<p align="center">
+
 ![Hình F.18](../figures/images/hinh_f_18.png)
 
-**Hình F.18 — Hệ số khí động của công trình và các cấu kiện kết cấu có bề mặt trụ tròn**
+</p>
+
+<p align="center"><strong>Hình F.18 — Hệ số khí động của công trình và các cấu kiện kết cấu có bề mặt trụ tròn</strong></p>
 
 
 <a id="hinh-f_19"></a>
 
+<p align="center">
+
 ![Hình F.19](../figures/images/hinh_f_19.png)
 
-**Hình F.19 — Sự phân bố hệ số cβ trên bề mặt trụ tròn**
+</p>
+
+<p align="center"><strong>Hình F.19 — Sự phân bố hệ số cβ trên bề mặt trụ tròn</strong></p>
 
 
 <a id="bang-bang-f-10"></a>
@@ -851,9 +935,13 @@ trong đó:
 
 <a id="hinh-f_20"></a>
 
+<p align="center">
+
 ![Hình F.20](../figures/images/hinh_f_20.png)
 
-**Hình F.20 — Hệ số cx∞**
+</p>
+
+<p align="center"><strong>Hình F.20 — Hệ số cx∞</strong></p>
 
 
 <a id="muc-f-15-4"></a>
@@ -883,9 +971,13 @@ CHÚ DẪN:
 
 <a id="hinh-f_21"></a>
 
+<p align="center">
+
 ![Hình F.21](../figures/images/hinh_f_21.png)
 
-**Hình F.21 — Cấu kiện nằm nghiêng**
+</p>
+
+<p align="center"><strong>Hình F.21 — Cấu kiện nằm nghiêng</strong></p>
 
 
 <a id="muc-f-15-6"></a>
@@ -917,9 +1009,13 @@ trong đó:
 
 <a id="hinh-f_22"></a>
 
+<p align="center">
+
 ![Hình F.22](../figures/images/hinh_f_22.png)
 
-**Hình F.22 — Hệ số khí động cản chính diện cx của công trình hình lăng trụ**
+</p>
+
+<p align="center"><strong>Hình F.22 — Hệ số khí động cản chính diện cx của công trình hình lăng trụ</strong></p>
 
 
 <a id="bang-bang-f-12"></a>
@@ -978,9 +1074,13 @@ trong đó
 
 <a id="hinh-f_23"></a>
 
+<p align="center">
+
 ![Hình F.23](../figures/images/hinh_f_23.png)
 
-**Hình F.23 — Kết cấu rỗng phẳng đứng độc lập**
+</p>
+
+<p align="center"><strong>Hình F.23 — Kết cấu rỗng phẳng đứng độc lập</strong></p>
 
 
 <a id="muc-f-17-3"></a>
@@ -993,9 +1093,13 @@ trong đó
 
 <a id="hinh-f_24"></a>
 
+<p align="center">
+
 ![Hình F.24](../figures/images/hinh_f_24.png)
 
-**Hình F.24 — Dãy kết cấu rỗng phẳng song song nhau**
+</p>
+
+<p align="center"><strong>Hình F.24 — Dãy kết cấu rỗng phẳng song song nhau</strong></p>
 
 
 <a id="bang-bang-f-13"></a>
@@ -1037,9 +1141,13 @@ $k_{1}$ là hệ số, lấy theo Bảng F.14.
 
 <a id="hinh-f_25"></a>
 
+<p align="center">
+
 ![Hình F.25](../figures/images/hinh_f_25.png)
 
-**Hình F.25 — Tháp rỗng và giàn không gian**
+</p>
+
+<p align="center"><strong>Hình F.25 — Tháp rỗng và giàn không gian</strong></p>
 
 
 <a id="bang-bang-f-14"></a>
@@ -1071,9 +1179,13 @@ trong đó:
 
 <a id="hinh-f_26"></a>
 
+<p align="center">
+
 ![Hình F.26](../figures/images/hinh_f_26.png)
 
-**Hình F.26 — Các thông số để xác định hệ số đặc φ của giàn**
+</p>
+
+<p align="center"><strong>Hình F.26 — Các thông số để xác định hệ số đặc φ của giàn</strong></p>
 
 
 <a id="muc-f-18"></a>
@@ -1084,9 +1196,13 @@ Giá trị hệ số $k_{\lambda}$ phụ thuộc vào độ mảnh hiệu dụng
 
 <a id="hinh-f_27"></a>
 
+<p align="center">
+
 ![Hình F.27](../figures/images/hinh_f_27.png)
 
-**Hình F.27 — Hệ số kλ**
+</p>
+
+<p align="center"><strong>Hình F.27 — Hệ số kλ</strong></p>
 
 
 <a id="bang-bang-f-15"></a>

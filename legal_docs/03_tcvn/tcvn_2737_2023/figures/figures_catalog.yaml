@@ -8,16 +8,6 @@ figures:
   anchor: hinh-c_1a
   image_relpath: figures/images/hinh_c_1a.png
   has_image: true
-  geometry_rules:
-    description: Sơ đồ xác định mốc chuẩn z0 trên sườn dốc vừa (0,3 < i < 2)
-    parameters:
-    - z0
-    - z1
-    - z2
-    - H
-    - 3H
-    - i
-    formula_bc: z0 = H*(2 - i)/1.7
 - figure_id: FIG_TCVN2737_C_1B
   tag: C.1b
   title: Mặt cao độ công trình quy ước z0 khi mặt đất có độ dốc i >= 2
@@ -25,15 +15,6 @@ figures:
   anchor: hinh-c_1b
   image_relpath: figures/images/hinh_c_1b.png
   has_image: true
-  geometry_rules:
-    description: Sơ đồ xác định mốc chuẩn z0 trên vách dốc đứng (i >= 2)
-    parameters:
-    - z0
-    - z1
-    - z2
-    - H
-    - 3H
-    - i
 - figure_id: FIG_TCVN2737_D_1
   tag: D.1
   title: Hình ảnh minh họa địa hình dạng A
