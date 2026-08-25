@@ -4,19 +4,19 @@
 
 
 <a id="muc-h-1"></a>
-### H.1  Tùy thuộc vào cấp hậu quả của công trình, khi thiết kế cần sử dụng hệ số độ tin cậy về tầm quan trọng của công trình $\gamma_{n}$.
+**H.1**  Tùy thuộc vào cấp hậu quả của công trình, khi thiết kế cần sử dụng hệ số độ tin cậy về tầm quan trọng của công trình $\gamma_{n}$.
 
 
 <a id="muc-h-2"></a>
-### H.2  Việc phân cấp hậu quả của công trình theo [2] phụ thuộc vào công năng sử dụng, cũng như hậu quả về xã hội, môi trường và kinh tế do sự hư hỏng và phá hoại của nó gây ra.
+**H.2**  Việc phân cấp hậu quả của công trình theo [2] phụ thuộc vào công năng sử dụng, cũng như hậu quả về xã hội, môi trường và kinh tế do sự hư hỏng và phá hoại của nó gây ra.
 
 
 <a id="muc-h-3"></a>
-### H.3  Hệ số tầm quan trọng của công trình $\gamma_{n}$ được lấy theo Bảng H.1 khi tính toán theo trạng thái giới hạn thứ nhất và lấy bằng 1,0 khi tính toán theo trạng thái giới hạn thứ hai.
+**H.3**  Hệ số tầm quan trọng của công trình $\gamma_{n}$ được lấy theo Bảng H.1 khi tính toán theo trạng thái giới hạn thứ nhất và lấy bằng 1,0 khi tính toán theo trạng thái giới hạn thứ hai.
 
 
 <a id="bang-bang-h-1"></a>
-### Bảng H.1 - Giá trị tối thiểu của hệ số tầm quan trọng $\gamma_{n}$
+**Bảng H.1 — Giá trị tối thiểu của hệ số tầm quan trọng $\gamma_{n}$**
 
 | Cấp hậu quả của công trình | Mức độ quan trọng của công trình | Giá trị $\gamma_{n}$ |
 | :--- | :--- | :---: |
@@ -179,4 +179,3 @@ Phụ lục G (quy định) Độ võng và chuyển vị
 Phụ lục H (quy định) Hệ số tầm quan trọng của công trình
 
 Thư mục tài liệu tham khảo
-

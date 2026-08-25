@@ -8,19 +8,19 @@
 
 
 <a id="muc-f-1-1"></a>
-### F.1.1  Tường phẳng (kể cả tường chắn mái), hàng rào và kết cấu tương tự
+**F.1.1**  Tường phẳng (kể cả tường chắn mái), hàng rào và kết cấu tương tự
 
 
 <a id="muc-f-1-1-1"></a>
-### F.1.1.1  Hệ số $c_{x}$ cho các vùng khác nhau của kết cấu (Hình F.1) lấy theo Bảng F.1.
+**F.1.1.1**  Hệ số $c_{x}$ cho các vùng khác nhau của kết cấu (Hình F.1) lấy theo Bảng F.1.
 
 
 <a id="muc-f-1-1-2"></a>
-### F.1.1.2  Độ cao tương đương $z_{e}$ = h.
+**F.1.1.2**  Độ cao tương đương $z_{e}$ = h.
 
 
 <a id="muc-f-1-1-3"></a>
-### F.1.1.3  Hệ số đặc của kết cấu φ là tỉ số giữa diện tích phần đặc và diện tích bao của kết cấu.
+**F.1.1.3**  Hệ số đặc của kết cấu φ là tỉ số giữa diện tích phần đặc và diện tích bao của kết cấu.
 
 Khi L > 4h
 
@@ -53,7 +53,7 @@ Khi L ≤ 2h
 
 
 <a id="bang-bang-f-1"></a>
-### Bảng F.1 - Hệ số $c_{x}$ cho các vùng trên tường phẳng, hàng rào và kết cấu tương tự (xem Hình F.1)
+**Bảng F.1 — Hệ số $c_{x}$ cho các vùng trên tường phẳng, hàng rào và kết cấu tương tự (xem Hình F.1)**
 
 | Hệ số đặc | Tường | Vùng |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -69,7 +69,7 @@ Khi L ≤ 2h
 
 
 <a id="muc-f-1-2"></a>
-### F.1.2  Bảng quảng cáo
+**F.1.2**  Bảng quảng cáo
 
 Đối với bảng quảng cáo nằm cách mặt đất một khoảng $z_{g}$ ≥ d/4 (Hình F.2): $c_{x}$ = 2,5 $k_{\lambda}$, trong đó $k_{\lambda}$ được xác định theo F.18.
 
@@ -100,19 +100,19 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 
 <a id="muc-f-2-1"></a>
-### F.2.1  Mái được coi là mái bằng khi có góc dốc α trong khoảng - 5° < α < 5°.
+**F.2.1**  Mái được coi là mái bằng khi có góc dốc α trong khoảng - 5° < α < 5°.
 
 
 <a id="muc-f-2-2"></a>
-### F.2.2  Mái được chia thành các vùng như trên Hình F.3.
+**F.2.2**  Mái được chia thành các vùng như trên Hình F.3.
 
 
 <a id="muc-f-2-3"></a>
-### F.2.3  Đối với mái bằng và mái có các cạnh bo tròn hoặc vát góc (Hình F.3b), độ cao tương đương lấy bằng $z_{e}$ = h. Đối với mái bằng có tường chắn mái (xem Hình F.3a), độ cao tương đương lấy bằng $z_{e}$ = h + $h_{p}$.
+**F.2.3**  Đối với mái bằng và mái có các cạnh bo tròn hoặc vát góc (Hình F.3b), độ cao tương đương lấy bằng $z_{e}$ = h. Đối với mái bằng có tường chắn mái (xem Hình F.3a), độ cao tương đương lấy bằng $z_{e}$ = h + $h_{p}$.
 
 
 <a id="muc-f-2-4"></a>
-### F.2.4  Hệ số khí động áp lực $c_{e}$ cho từng vùng lấy theo Bảng F.2.
+**F.2.4**  Hệ số khí động áp lực $c_{e}$ cho từng vùng lấy theo Bảng F.2.
 
 **CHÚ THÍCH:** Hệ số khí động áp lực $c_{e}$ cho tường chắn mái được xác định theo F.1.1.
 
@@ -143,7 +143,7 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 
 <a id="bang-bang-f-2"></a>
-### Bảng F.2 - Hệ số $c_{e}$ cho mái bằng
+**Bảng F.2 — Hệ số $c_{e}$ cho mái bằng**
 
 | Loại mái | Vùng |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :---: |
@@ -167,15 +167,15 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 
 <a id="muc-f-3-1"></a>
-### F.3.1  Mái dốc một phía, bao gồm cả các phần nhô ra, được chia thành các vùng như trên Hình F.4.
+**F.3.1**  Mái dốc một phía, bao gồm cả các phần nhô ra, được chia thành các vùng như trên Hình F.4.
 
 
 <a id="muc-f-3-2"></a>
-### F.3.2  Độ cao tương đương lấy bằng $z_{e}$ = h.
+**F.3.2**  Độ cao tương đương lấy bằng $z_{e}$ = h.
 
 
 <a id="muc-f-3-3"></a>
-### F.3.3  Hệ số khí động áp lực $c_{e}$ được xác định cho từng vùng theo các bảng F3a và F.3b.
+**F.3.3**  Hệ số khí động áp lực $c_{e}$ được xác định cho từng vùng theo các bảng F3a và F.3b.
 
 a) Sơ đồ chung
 
@@ -210,7 +210,7 @@ c) Góc hướng gió θ = 90°
 
 
 <a id="bang-bang-f-3a"></a>
-### Bảng F.3a - Hệ số khí động áp lực ngoài $c_{e}$ cho mái dốc một phía khi góc hướng gió θ = 0° và θ = 180°
+**Bảng F.3a — Hệ số khí động áp lực ngoài $c_{e}$ cho mái dốc một phía khi góc hướng gió θ = 0° và θ = 180°**
 
 | Góc dốc α, ° | Góc hướng gió θ = 0° | Góc hướng gió θ = 180° |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -231,7 +231,7 @@ c) Góc hướng gió θ = 90°
 
 
 <a id="bang-bang-f-3b"></a>
-### Bảng F.3b - Hệ số khí động áp lực ngoài $c_{e}$ cho mái dốc một phía khi góc hướng gió θ = 90°
+**Bảng F.3b — Hệ số khí động áp lực ngoài $c_{e}$ cho mái dốc một phía khi góc hướng gió θ = 90°**
 
 | Góc dốc α, ° | Vùng |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -249,11 +249,11 @@ c) Góc hướng gió θ = 90°
 
 
 <a id="muc-f-4-1"></a>
-### F.4.1  Tường thẳng đứng
+**F.4.1**  Tường thẳng đứng
 
 
 <a id="muc-f-4-1-1"></a>
-### F.4.1.1  Hệ số khí động $c_{e}$ cho các vùng trên các tường của nhà có mặt bằng chữ nhật (Hình F.5a) lấy theo Bảng F.4.
+**F.4.1.1**  Hệ số khí động $c_{e}$ cho các vùng trên các tường của nhà có mặt bằng chữ nhật (Hình F.5a) lấy theo Bảng F.4.
 
 Đối với tường nghiêng (Hình F.5b) với góc nghiêng trong khoảng 45° < ω < 90°, các hệ số khí động được xác định tương tự như đối với tường thẳng đứng.
 
@@ -299,7 +299,7 @@ c) Góc hướng gió θ = 90°
 
 
 <a id="bang-bang-f-4"></a>
-### Bảng F.4 - Hệ số $c_{e}$ cho tường thẳng đứng của nhà có mặt bằng chữ nhật
+**Bảng F.4 — Hệ số $c_{e}$ cho tường thẳng đứng của nhà có mặt bằng chữ nhật**
 
 | h/d | Vùng |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -310,23 +310,23 @@ c) Góc hướng gió θ = 90°
 
 
 <a id="muc-f-4-1-2"></a>
-### F.4.1.2  Đối với các tường bên có lô gia nhô ra, hệ số khí động ma sát lấy bằng $c_{f}$ = 0,1.
+**F.4.1.2**  Đối với các tường bên có lô gia nhô ra, hệ số khí động ma sát lấy bằng $c_{f}$ = 0,1.
 
 
 <a id="muc-f-4-2"></a>
-### F.4.2  Mái dốc hai phía
+**F.4.2**  Mái dốc hai phía
 
 
 <a id="muc-f-4-2-1"></a>
-### F.4.2.1  Mái dốc hai phía được chia thành các vùng như trên Hình F.6.
+**F.4.2.1**  Mái dốc hai phía được chia thành các vùng như trên Hình F.6.
 
 
 <a id="muc-f-4-2-2"></a>
-### F.4.2.2  Hệ số khí động áp lực $c_{e}$ cho các vùng của mái được xác định theo các bảng F.5a và F.5b phụ thuộc vào hướng gió.
+**F.4.2.2**  Hệ số khí động áp lực $c_{e}$ cho các vùng của mái được xác định theo các bảng F.5a và F.5b phụ thuộc vào hướng gió.
 
 
 <a id="muc-f-4-2-3"></a>
-### F.4.2.3  Đối với mái trơn dài khi góc hướng gió θ = 90° (Hình F.6c) thì hệ số khí động ma sát $c_{f}$ = 0,02.
+**F.4.2.3**  Đối với mái trơn dài khi góc hướng gió θ = 90° (Hình F.6c) thì hệ số khí động ma sát $c_{f}$ = 0,02.
 
 a) Sơ đồ chung
 
@@ -365,7 +365,7 @@ CHÚ DẪN:
 
 
 <a id="bang-bang-f-5a"></a>
-### Bảng F.5a - Hệ số $c_{e}$ khi góc hướng gió θ = 0°
+**Bảng F.5a — Hệ số $c_{e}$ khi góc hướng gió θ = 0°**
 
 | Gốc dốc α, ° | Vùng |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -390,7 +390,7 @@ CHÚ DẪN:
 
 
 <a id="bang-bang-f-5b"></a>
-### Bảng F.5b - Hệ số $c_{e}$ khi góc hướng gió θ = 90°
+**Bảng F.5b — Hệ số $c_{e}$ khi góc hướng gió θ = 90°**
 
 | Góc dốc α, ° | Vùng |  |  |  |
 | :--- | :--- | :--- | :--- | :--- |
@@ -412,15 +412,15 @@ CHÚ DẪN:
 
 
 <a id="muc-f-5-1"></a>
-### F.5.1  Mái dốc bốn phía, bao gồm cả các phần nhô ra, được chia thành các vùng như trên Hình F.7.
+**F.5.1**  Mái dốc bốn phía, bao gồm cả các phần nhô ra, được chia thành các vùng như trên Hình F.7.
 
 
 <a id="muc-f-5-2"></a>
-### F.5.2  Độ cao tương đương lấy bằng $z_{e}$ = h.
+**F.5.2**  Độ cao tương đương lấy bằng $z_{e}$ = h.
 
 
 <a id="muc-f-5-3"></a>
-### F.5.3  Hệ số khí động áp lực $c_{e}$ cho từng vùng lấy theo Bảng F.6.
+**F.5.3**  Hệ số khí động áp lực $c_{e}$ cho từng vùng lấy theo Bảng F.6.
 
 | a) Góc hướng gió θ = 0° | e = min (b; 2h)<br>b là cạnh vuông góc hướng gió |
 | :--- | :--- |
@@ -447,7 +447,7 @@ CHÚ DẪN:
 
 
 <a id="bang-bang-f-6"></a>
-### Bảng F.6 - Hệ số khí động áp lực ngoài $c_{e}$ cho mái dốc bốn phía
+**Bảng F.6 — Hệ số khí động áp lực ngoài $c_{e}$ cho mái dốc bốn phía**
 
 | Góc dốc<br>$\alpha_{0}$, °, cho θ = 0°,<br>$\alpha_{90}$, °, cho θ = 90° | Các vùng khi góc hướng gió θ = 0° và θ = 90° |  |  |  |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -471,15 +471,15 @@ CHÚ DẪN:
 
 
 <a id="muc-f-6-1"></a>
-### F.6.1  Sự phân bố hệ số khí động $c_{e}$ cho các vùng A, B, C trên bề mặt mái được thể hiện trên Hình F.8.
+**F.6.1**  Sự phân bố hệ số khí động $c_{e}$ cho các vùng A, B, C trên bề mặt mái được thể hiện trên Hình F.8.
 
 
 <a id="muc-f-6-2"></a>
-### F.6.2  Hệ số khí động $c_{e}$ cho tường lấy theo Bảng F.4.
+**F.6.2**  Hệ số khí động $c_{e}$ cho tường lấy theo Bảng F.4.
 
 
 <a id="muc-f-6-3"></a>
-### F.6.3  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$ + 0,7f.
+**F.6.3**  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$ + 0,7f.
 
 **CHÚ THÍCH 1:** Khi 0 < $h_{1}$/d < 0,5 thì $c_{e1}$ có thể được xác định bằng nội suy tuyến tính.
 
@@ -512,7 +512,7 @@ CHÚ DẪN:
 
 
 <a id="muc-f-7-1"></a>
-### F.7.1  Đối với mái chỏm cầu (xem Hình F.9a), giá trị hệ số khí động áp lực ngoài $c_{e}$ lấy không đổi dọc theo các tiết diện song song với B-B. Các giá trị của hệ số $c_{e}$ tại các vị trí A và C, cũng như tại tiết diện B-B được thể hiện trên Hình F.9a. Đối với các tiết diện trung gian, hệ số $c_{e}$ được xác định bằng nội suy tuyến tính.
+**F.7.1**  Đối với mái chỏm cầu (xem Hình F.9a), giá trị hệ số khí động áp lực ngoài $c_{e}$ lấy không đổi dọc theo các tiết diện song song với B-B. Các giá trị của hệ số $c_{e}$ tại các vị trí A và C, cũng như tại tiết diện B-B được thể hiện trên Hình F.9a. Đối với các tiết diện trung gian, hệ số $c_{e}$ được xác định bằng nội suy tuyến tính.
 
 
 <a id="hinh-f_9a"></a>
@@ -527,7 +527,7 @@ CHÚ DẪN:
 
 
 <a id="muc-f-7-2"></a>
-### F.7.2  Đối với mái nón (xem Hình F.9b), giá trị hệ số khí động áp lực ngoài $c_{e}$ khi góc dốc của mái 15° < α < 30° được xác định theo Bảng F.7.
+**F.7.2**  Đối với mái nón (xem Hình F.9b), giá trị hệ số khí động áp lực ngoài $c_{e}$ khi góc dốc của mái 15° < α < 30° được xác định theo Bảng F.7.
 
 
 <a id="hinh-f_9b"></a>
@@ -542,7 +542,7 @@ CHÚ DẪN:
 
 
 <a id="bang-bang-f-7"></a>
-### Bảng F.7 - Hệ số khí động áp lực ngoài $c_{e}$ cho mái nón
+**Bảng F.7 — Hệ số khí động áp lực ngoài $c_{e}$ cho mái nón**
 
 | Vùng |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- |
@@ -551,7 +551,7 @@ CHÚ DẪN:
 
 
 <a id="muc-f-7-3"></a>
-### F.7.3  Đối với mái chỏm cầu và mái nón khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$ + 0,7f.
+**F.7.3**  Đối với mái chỏm cầu và mái nón khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$ + 0,7f.
 
 
 <a id="muc-f-8"></a>
@@ -559,11 +559,11 @@ CHÚ DẪN:
 
 
 <a id="muc-f-8-1"></a>
-### F.8.1  Đối với các vùng A và B (Hình F.10), hệ số $c_{e}$ được xác định theo các bảng F.5a và F.5b.
+**F.8.1**  Đối với các vùng A và B (Hình F.10), hệ số $c_{e}$ được xác định theo các bảng F.5a và F.5b.
 
 
 <a id="muc-f-8-2"></a>
-### F.8.2  Đối với các cửa trời của vùng C (Hình F.10b):
+**F.8.2**  Đối với các cửa trời của vùng C (Hình F.10b):
 
 | khi λ < 2: | $c_{x}$ = 0,2 |
 | :--- | :--- |
@@ -574,15 +574,15 @@ trong đó: λ = a/$h_{f}$, với $h_{f}$ là chiều cao các cửa trời củ
 
 
 <a id="muc-f-8-3"></a>
-### F.8.3  Đối với các vùng còn lại của mái: $c_{e}$ = - 0,5.
+**F.8.3**  Đối với các vùng còn lại của mái: $c_{e}$ = - 0,5.
 
 
 <a id="muc-f-8-4"></a>
-### F.8.4  Đối với các mặt đứng và tường thẳng đứng của nhà, hệ số $c_{e}$ được xác định theo Bảng F.2.
+**F.8.4**  Đối với các mặt đứng và tường thẳng đứng của nhà, hệ số $c_{e}$ được xác định theo Bảng F.2.
 
 
 <a id="muc-f-8-5"></a>
-### F.8.5  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$.
+**F.8.5**  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$.
 
 a) Nhà có cửa trời dọc nhà
 
@@ -607,23 +607,23 @@ CHÚ DẪN: 1 - Tường chắn gió
 
 
 <a id="muc-f-9-1"></a>
-### F.9.1  Đối với cửa trời phía đón gió, hệ số $c_{e}$ được xác định theo các bảng F.5a và F.5b.
+**F.9.1**  Đối với cửa trời phía đón gió, hệ số $c_{e}$ được xác định theo các bảng F.5a và F.5b.
 
 
 <a id="muc-f-9-2"></a>
-### F.9.2  Đối với các cửa trời còn lại, hệ số $c_{e}$ được xác định như đối với vùng C (xem F.8).
+**F.9.2**  Đối với các cửa trời còn lại, hệ số $c_{e}$ được xác định như đối với vùng C (xem F.8).
 
 
 <a id="muc-f-9-3"></a>
-### F.9.3  Đối với các phần còn lại của mái: $c_{e}$ = - 0,5.
+**F.9.3**  Đối với các phần còn lại của mái: $c_{e}$ = - 0,5.
 
 
 <a id="muc-f-9-4"></a>
-### F.9.4  Đối với các mặt đứng và tường thẳng đứng của nhà, hệ số $c_{e}$ được xác định theo Bảng F.4.
+**F.9.4**  Đối với các mặt đứng và tường thẳng đứng của nhà, hệ số $c_{e}$ được xác định theo Bảng F.4.
 
 
 <a id="muc-f-9-5"></a>
-### F.9.5  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$.
+**F.9.5**  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$.
 
 
 <a id="hinh-f_11"></a>
@@ -642,23 +642,23 @@ CHÚ DẪN: 1 - Tường chắn gió
 
 
 <a id="muc-f-10-1"></a>
-### F.10.1  Đối với vùng A (Hình F.13), hệ số $c_{e}$ được xác định theo các bảng F.5a và F.5b.
+**F.10.1**  Đối với vùng A (Hình F.13), hệ số $c_{e}$ được xác định theo các bảng F.5a và F.5b.
 
 
 <a id="muc-f-10-2"></a>
-### F.10.2  Đối với vùng còn lại của mái, hệ số $c_{e}$ = - 0,5.
+**F.10.2**  Đối với vùng còn lại của mái, hệ số $c_{e}$ = - 0,5.
 
 
 <a id="muc-f-10-3"></a>
-### F.10.3  Đối với các mặt đứng và tường thẳng đứng của nhà, hệ số $c_{e}$ được xác định theo Bảng F.4.
+**F.10.3**  Đối với các mặt đứng và tường thẳng đứng của nhà, hệ số $c_{e}$ được xác định theo Bảng F.4.
 
 
 <a id="muc-f-10-4"></a>
-### F.10.4  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$.
+**F.10.4**  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$.
 
 
 <a id="muc-f-10-5"></a>
-### F.10.5  Hệ số khí động ma sát cho mái răng cưa $c_{f}$ = 0,04.
+**F.10.5**  Hệ số khí động ma sát cho mái răng cưa $c_{f}$ = 0,04.
 
 
 <a id="hinh-f_12"></a>
@@ -677,7 +677,7 @@ CHÚ DẪN: 1 - Tường chắn gió
 
 
 <a id="muc-f-11-1"></a>
-### F.11.1  Hệ số $c_{e}$ cho tường và mái của nhà có góc lõm (Hình F.13) được nêu trong Bảng F.8.
+**F.11.1**  Hệ số $c_{e}$ cho tường và mái của nhà có góc lõm (Hình F.13) được nêu trong Bảng F.8.
 
 
 <a id="hinh-f_13"></a>
@@ -692,7 +692,7 @@ CHÚ DẪN: 1 - Tường chắn gió
 
 
 <a id="bang-bang-f-8"></a>
-### Bảng F.8 - Hệ số $c_{e}$ cho tường và mái của nhà có góc lõm
+**Bảng F.8 — Hệ số $c_{e}$ cho tường và mái của nhà có góc lõm**
 
 | Tường | Các mặt đứng còn lại | Mái |  |  |
 | :--- | :--- | :--- | :--- | :--- |
@@ -701,7 +701,7 @@ CHÚ DẪN: 1 - Tường chắn gió
 
 
 <a id="muc-f-11-2"></a>
-### F.11.2  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$.
+**F.11.2**  Khi xác định độ cao tương đương $z_{e}$ theo 10.2.4: h = $h_{1}$.
 
 
 <a id="muc-f-12"></a>
@@ -709,17 +709,17 @@ CHÚ DẪN: 1 - Tường chắn gió
 
 
 <a id="muc-f-12-1"></a>
-### F.12.1  Độ hở của tường chắn μ được xác định bằng tỉ số giữa tổng diện tích lỗ mở của tường chắn và tổng diện tích tường chắn.
+**F.12.1**  Độ hở của tường chắn μ được xác định bằng tỉ số giữa tổng diện tích lỗ mở của tường chắn và tổng diện tích tường chắn.
 
 
 <a id="muc-f-12-2"></a>
-### F.12.2  Khi độ hở μ ≤ 5 %: $c_{i1}$ = $c_{i2}$ = ± 0,2. Đối với mỗi tường nhà, dấu “cộng” hoặc “trừ” cần được lựa chọn theo điều kiện thực hiện phương án bất lợi nhất của tải trọng.
+**F.12.2**  Khi độ hở μ ≤ 5 %: $c_{i1}$ = $c_{i2}$ = ± 0,2. Đối với mỗi tường nhà, dấu “cộng” hoặc “trừ” cần được lựa chọn theo điều kiện thực hiện phương án bất lợi nhất của tải trọng.
 
 Khi μ ≥ 30 %: $c_{i1}$ = - 0,5; $c_{i2}$= 0,8.
 
 
 <a id="muc-f-12-3"></a>
-### F.12.3  Các hệ số khí động $c_{e}$ cho mặt ngoài cần được lấy theo F.2 đến F.10.
+**F.12.3**  Các hệ số khí động $c_{e}$ cho mặt ngoài cần được lấy theo F.2 đến F.10.
 
 
 <a id="hinh-f_14"></a>
@@ -755,7 +755,7 @@ CHÚ DẪN:
 
 
 <a id="bang-bang-f-9"></a>
-### Bảng F.9 - Hệ số $c_{e}$ cho mái che
+**Bảng F.9 — Hệ số $c_{e}$ cho mái che**
 
 | Loại sơ đồ | α,° | Giá trị $c_{e}$ |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -781,7 +781,7 @@ CHÚ DẪN:
 
 
 <a id="muc-f-14-1"></a>
-### F.14.1  Hệ số khí động cản chính diện $c_{x}$ của khối cầu khi $z_{g}$ ≥ d/2 (Hình F.16) được xác định theo các biểu đồ trên Hình F.17 phụ thuộc vào hệ số Reynold Re (xem F.14.4) và độ nhám tương đối δ = Δ/d, trong đó Δ là độ nhám bề mặt, tính bằng mét (m) (xem F.19).
+**F.14.1**  Hệ số khí động cản chính diện $c_{x}$ của khối cầu khi $z_{g}$ ≥ d/2 (Hình F.16) được xác định theo các biểu đồ trên Hình F.17 phụ thuộc vào hệ số Reynold Re (xem F.14.4) và độ nhám tương đối δ = Δ/d, trong đó Δ là độ nhám bề mặt, tính bằng mét (m) (xem F.19).
 
 Khi $z_{g}$ < d/2, hệ số $c_{x}$ cần được tăng lên 1,6 lần.
 
@@ -809,7 +809,7 @@ Khi $z_{g}$ < d/2, hệ số $c_{x}$ cần được tăng lên 1,6 lần.
 
 
 <a id="muc-f-14-2"></a>
-### F.14.2  Hệ số lực nâng khối cầu $c_{z}$ lấy như sau:
+**F.14.2**  Hệ số lực nâng khối cầu $c_{z}$ lấy như sau:
 
 khi $z_{g}$ > d/2: $c_{z}$ = 0;
 
@@ -817,11 +817,11 @@ khi $z_{g}$ < d/2: $c_{z}$ = 0,6.
 
 
 <a id="muc-f-14-3"></a>
-### F.14.3  Độ cao tương đương $z_{e}$ (xem 10.2.4): $z_{e}$ = $z_{g}$+ d/2.
+**F.14.3**  Độ cao tương đương $z_{e}$ (xem 10.2.4): $z_{e}$ = $z_{g}$+ d/2.
 
 
 <a id="muc-f-14-4"></a>
-### F.14.4  Số Reynold Re được xác định theo công thức:
+**F.14.4**  Số Reynold Re được xác định theo công thức:
 
 
 <a id="formula-f_1"></a>
@@ -857,7 +857,7 @@ $z_{e}$ là độ cao tương đương, tính bằng mét (m).
 
 
 <a id="muc-f-15-1"></a>
-### F.15.1  Hệ số khí động áp lực ngoài $c_{e1}$ (xem Hình F.18) được xác định theo công thức:
+**F.15.1**  Hệ số khí động áp lực ngoài $c_{e1}$ (xem Hình F.18) được xác định theo công thức:
 
 
 <a id="formula-f_3"></a>
@@ -896,7 +896,7 @@ trong đó:
 
 
 <a id="bang-bang-f-10"></a>
-### Bảng F.10 - Các giá trị $\beta_{min}$, $\beta_{b}$, $c_{min}$ và $c_{b}$
+**Bảng F.10 — Các giá trị $\beta_{min}$, $\beta_{b}$, $c_{min}$ và $c_{b}$**
 
 | Re | $\beta_{min}$, ° | $c_{min}$ | $\beta_{b}$, ° | $c_{b}$ |
 | :--- | :---: | :--- | :---: | :--- |
@@ -907,11 +907,11 @@ trong đó:
 
 
 <a id="muc-f-15-2"></a>
-### F.15.2  Giá trị các hệ số khí động áp lực $c_{e2}$ và $c_{i}$ (Hình F.18) được nêu trong Bảng F.11. Hệ số $c_{i}$ cần được kể đến đối với “mái nổi” (cũng có thể gọi là “mái phao”), cũng như khi không có mái.
+**F.15.2**  Giá trị các hệ số khí động áp lực $c_{e2}$ và $c_{i}$ (Hình F.18) được nêu trong Bảng F.11. Hệ số $c_{i}$ cần được kể đến đối với “mái nổi” (cũng có thể gọi là “mái phao”), cũng như khi không có mái.
 
 
 <a id="bang-bang-f-11"></a>
-### Bảng F.11 - Các hệ số $c_{e2}$ và $c_{i}$
+**Bảng F.11 — Các hệ số $c_{e2}$ và $c_{i}$**
 
 | h/d | 1/6 | 1/4 | 1/2 | 1 | 2 | ≥ 5 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -919,7 +919,7 @@ trong đó:
 
 
 <a id="muc-f-15-3"></a>
-### F.15.3  Hệ số khí động cản chính diện $c_{x}$ được xác định theo công thức:
+**F.15.3**  Hệ số khí động cản chính diện $c_{x}$ được xác định theo công thức:
 
 
 <a id="formula-f_4"></a>
@@ -945,11 +945,11 @@ trong đó:
 
 
 <a id="muc-f-15-4"></a>
-### F.15.4  Đối với dây dẫn $c_{x}$ = 1,2.
+**F.15.4**  Đối với dây dẫn $c_{x}$ = 1,2.
 
 
 <a id="muc-f-15-5"></a>
-### F.15.5  Hệ số khí động cản chính diện $c_{x\beta}$ của các cấu kiện nằm nghiêng (Hình F.21) được xác định theo công thức:
+**F.15.5**  Hệ số khí động cản chính diện $c_{x\beta}$ của các cấu kiện nằm nghiêng (Hình F.21) được xác định theo công thức:
 
 
 <a id="formula-f_5"></a>
@@ -981,7 +981,7 @@ CHÚ DẪN:
 
 
 <a id="muc-f-15-6"></a>
-### F.15.6  Số Reynold Re được xác định theo công thức (F.1) trong F.14.4, trong đó:
+**F.15.6**  Số Reynold Re được xác định theo công thức (F.1) trong F.14.4, trong đó:
 
 $z_{e}$ = 0,8h - đối với công trình thẳng đứng;
 
@@ -993,7 +993,7 @@ $z_{e}$ lấy bằng khoảng cách từ mặt đất đến trục của công 
 
 
 <a id="muc-f-16-1"></a>
-### F.16.1  Hệ số khí động cản chính diện $c_{x}$ của công trình hình lăng trụ được xác định theo công thức:
+**F.16.1**  Hệ số khí động cản chính diện $c_{x}$ của công trình hình lăng trụ được xác định theo công thức:
 
 
 <a id="formula-f_6"></a>
@@ -1019,7 +1019,7 @@ trong đó:
 
 
 <a id="bang-bang-f-12"></a>
-### Bảng F.12 - Hệ số $c_{x∞}$ cho tiết diện n góc và các cấu kiện kết cấu (dạng định hình)
+**Bảng F.12 — Hệ số $c_{x∞}$ cho tiết diện n góc và các cấu kiện kết cấu (dạng định hình)**
 
 | Sơ đồ tiết diện và hướng gió | θ,° | n (số cạnh) | $c_{x∞}$khi Re > 4.10$^{5}$ |
 | :--- | :--- | :--- | :---: |
@@ -1030,7 +1030,7 @@ trong đó:
 
 
 <a id="muc-f-16-2"></a>
-### F.16.2  Hệ số khí động cản chính diện $c_{x}$ đối với các thanh định hình lấy bằng 1,4 ($c_{x}$ = 1,4).
+**F.16.2**  Hệ số khí động cản chính diện $c_{x}$ đối với các thanh định hình lấy bằng 1,4 ($c_{x}$ = 1,4).
 
 
 <a id="muc-f-17"></a>
@@ -1038,19 +1038,19 @@ trong đó:
 
 
 <a id="muc-f-17-1"></a>
-### F.17.1  Chỉ dẫn chung
+**F.17.1**  Chỉ dẫn chung
 
 
 <a id="muc-f-17-1-1"></a>
-### F.17.1.1  Các hệ số khí động của kết cấu rỗng được tính trên diện tích các mặt của giàn không gian hoặc diện tích bao của giàn phẳng.
+**F.17.1.1**  Các hệ số khí động của kết cấu rỗng được tính trên diện tích các mặt của giàn không gian hoặc diện tích bao của giàn phẳng.
 
 
 <a id="muc-f-17-1-2"></a>
-### F.17.1.2  Hướng trục x đối với giàn phẳng trùng với hướng gió và vuông góc với mặt phẳng kết cấu giàn; đối với giàn không gian hướng gió tính toán được chỉ trong Bảng 14.
+**F.17.1.2**  Hướng trục x đối với giàn phẳng trùng với hướng gió và vuông góc với mặt phẳng kết cấu giàn; đối với giàn không gian hướng gió tính toán được chỉ trong Bảng 14.
 
 
 <a id="muc-f-17-2"></a>
-### F.17.2  Kết cấu rỗng phẳng đứng độc lập
+**F.17.2**  Kết cấu rỗng phẳng đứng độc lập
 
 Hệ số khí động $c_{x}$ của kết cấu rỗng phẳng đứng độc lập (Hình F.23) được xác định theo công thức:
 
@@ -1084,7 +1084,7 @@ trong đó
 
 
 <a id="muc-f-17-3"></a>
-### F.17.3  Dãy kết cấu rỗng phẳng song song nhau
+**F.17.3**  Dãy kết cấu rỗng phẳng song song nhau
 
 Đối với kết cấu đón gió, hệ số $c_{x1}$ được xác định như đối với giàn đứng độc lập; đối với các kết cấu từ thứ hai trở đi, $c_{x2}$ = $c_{x1}$η.
 
@@ -1103,7 +1103,7 @@ trong đó
 
 
 <a id="bang-bang-f-13"></a>
-### Bảng F.13 - Hệ số η
+**Bảng F.13 — Hệ số η**
 
 | φ | b/h |  |  |  |  |
 | :--- | :--- | :---: | :---: | :---: | :---: |
@@ -1121,7 +1121,7 @@ trong đó
 
 
 <a id="muc-f-17-4"></a>
-### F.17.4  Tháp rỗng và giàn không gian
+**F.17.4**  Tháp rỗng và giàn không gian
 
 Hệ số khí động $c_{t}$ của tháp rỗng và giàn không gian (Hình F.25) được xác định theo công thức:
 
@@ -1151,7 +1151,7 @@ $k_{1}$ là hệ số, lấy theo Bảng F.14.
 
 
 <a id="bang-bang-f-14"></a>
-### Bảng F.14 - Hệ số $k_{1}$
+**Bảng F.14 — Hệ số $k_{1}$**
 
 | Dạng đường bao tiết diện ngang và hướng gió | Giá trị $k_{1}$ |
 | :--- | :---: |
@@ -1161,7 +1161,7 @@ $k_{1}$ là hệ số, lấy theo Bảng F.14.
 
 
 <a id="muc-f-17-5"></a>
-### F.17.5  Hệ số đặc của kết cấu
+**F.17.5**  Hệ số đặc của kết cấu
 
 Hệ số đặc của kết cấu φ được xác định theo công thức:
 
@@ -1206,7 +1206,7 @@ Giá trị hệ số $k_{\lambda}$ phụ thuộc vào độ mảnh hiệu dụng
 
 
 <a id="bang-bang-f-15"></a>
-### Bảng F.15 - Độ mảnh hiệu dụng $\lambda_{e}$
+**Bảng F.15 — Độ mảnh hiệu dụng $\lambda_{e}$**
 
 | $\lambda_{e}$= λ/2 | $\lambda_{e}$= λ | $\lambda_{e}$= 2λ | $\lambda_{e}$= ∞ |
 | :--- | :--- | :--- | :--- |
@@ -1222,7 +1222,7 @@ Tùy theo sự gia công bề mặt kết cấu và vật liệu dùng để ch�
 
 
 <a id="bang-bang-f-16"></a>
-### Bảng F.16 - Độ nhám Δ của bề mặt kết cấu
+**Bảng F.16 — Độ nhám Δ của bề mặt kết cấu**
 
 | Loại bề mặt | Độ nhám A |
 | :--- | :--- |
@@ -1236,4 +1236,3 @@ Tùy theo sự gia công bề mặt kết cấu và vật liệu dùng để ch�
 | 8. Bê tông nhám | 10$^{-3}$ |
 | 9. Gỉ sét | 2·10$^{-3}$ |
 | 10. Khối xây (gạch, đá) | 3·10$^{-3}$ |
-

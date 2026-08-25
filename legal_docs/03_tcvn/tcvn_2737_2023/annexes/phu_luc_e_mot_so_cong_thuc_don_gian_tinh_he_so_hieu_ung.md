@@ -1,30 +1,26 @@
-
 <a id="phu-luc-e"></a>
-## PHỤ LỤC E  (Tham khảo)  MỘT SỐ CÔNG THỨC ĐƠN GIẢN TÍNH HỆ SỐ HIỆU ỨNG GIẬT GF VÀ KÍCH THƯỚC TƯƠNG ĐƯƠNG CHO MỘT SỐ MẶT BẰNG PHỨC TẠP CỦA CÔNG TRÌNH
+## PHỤ LỤC E  (Tham khảo)  MỘT SỐ CÔNG THỨC ĐƠN GIẢN TÍNH HỆ SỐ HIỆU ỨNG GIẬT $G_f$ VÀ KÍCH THƯỚC TƯƠNG ĐƯƠNG CHO MỘT SỐ MẶT BẰNG PHỨC TẠP CỦA CÔNG TRÌNH
 
 
 <a id="muc-e-1"></a>
-### E.1  Một số công thức đơn giản tính hệ số hiệu ứng giật $G_{f}$
+### E.1  Một số công thức đơn giản tính hệ số hiệu ứng giật $G_f$
 
-Đối với nhà cao tầng có hình dạng đều đặn theo chiều cao và có chu kỳ dao động riêng cơ bản thứ nhất $T_{1}$ > 1 s và chiều cao không quá 150 m, có thể xác định hệ số hiệu ứng giật $G_{f}$ theo các công thức sau để tính toán sơ bộ:
+Đối với nhà cao tầng có hình dạng đều đặn theo chiều cao và có chu kỳ dao động riêng cơ bản thứ nhất $T_1 > 1\text{ s}$ và chiều cao không quá $150\text{ m}$, có thể xác định hệ số hiệu ứng giật $G_f$ theo các công thức sau để tính toán sơ bộ:
 
-- Đối với nhà bê tông cốt thép:
-
+\- Đối với nhà bê tông cốt thép:
 
 <a id="formula-e_1"></a>
-$$k_n = 1 - 0,1 \cdot \dots 	ag{E.1}$$
+$$G_f = 0{,}8 + \frac{h}{1\,200} \tag{E.1}$$
 <!-- formula_id: "F_TCVN2737_HE_SO_AP_LUC_KHONG_KHI_E1" -->
 
-- Đối với nhà thép:
-
+\- Đối với nhà thép:
 
 <a id="formula-e_2"></a>
-$$\dots 	ag{E.2}$$
+$$G_f = 0{,}85 + \frac{h}{800} \tag{E.2}$$
 <!-- formula_id: "F_TCVN2737_HE_SO_DO_CAO_E2" -->
 
 trong đó:
-
-&nbsp;&nbsp;&nbsp;&nbsp;\- h là chiều cao công trình, tính bằng mét (m).
+\- $h$ là chiều cao công trình, tính bằng mét (m).
 
 
 <a id="muc-e-2"></a>
@@ -32,45 +28,81 @@ trong đó:
 
 Đối với một số công trình có mặt bằng phức tạp dạng chữ U, X, Y, Z, L thì kích thước tương đương của mặt bằng công trình có thể được xác định như đối với công trình có mặt bằng hình chữ nhật trên cơ sở kích thước của hình chữ nhật tương đương:
 
-a) Đối với công trình có mặt bằng hình chữ U và X: xem các hình E.1a và E.1b;
+\- a) Đối với công trình có mặt bằng hình chữ U và X: xem [Hình E.1a](#hinh-e_1a) và [Hình E.1b](#hinh-e_1b);
 
-b) Đối với công trình có mặt bằng hình chữ Y: xem các hình E.1c và E.1d;
+\- b) Đối với công trình có mặt bằng hình chữ Y: xem [Hình E.1c](#hinh-e_1c) và [Hình E.1d](#hinh-e_1d);
 
-c) Đối với công trình có mặt bằng hình chữ L và chữ Z: xem các hình E.1e và E.1f.
+\- c) Đối với công trình có mặt bằng hình chữ L và chữ Z: xem [Hình E.1e](#hinh-e_1e) và [Hình E.1f](#hinh-e_1f).
 
-a) Mặt bằng công trình hình chữ U
 
-b) Mặt bằng công trình hình chữ X
+<a id="hinh-e_1a"></a>
 
-c) Mặt bằng công trình hình chữ Y đôi
+<p align="center">
 
-**CHÚ THÍCH:** $<!-- FORMULA_PLACEHOLDER: 5749edab -->$.
+![Hình E.1a](../figures/images/hinh_e_1a.png)
 
-d) Mặt bằng công trình hình chữ Y đơn
+</p>
+
+<p align="center"><strong>a) Mặt bằng công trình hình chữ U</strong></p>
+
+
+<a id="hinh-e_1b"></a>
+
+<p align="center">
+
+![Hình E.1b](../figures/images/hinh_e_1b.png)
+
+</p>
+
+<p align="center"><strong>b) Mặt bằng công trình hình chữ X</strong></p>
+
+
+<a id="hinh-e_1c"></a>
+
+<p align="center">
+
+![Hình E.1c](../figures/images/hinh_e_1c.png)
+
+</p>
+
+**CHÚ THÍCH:** $d = d_1 + d_2 \cos \alpha_2 + d_3 \cos \alpha_3; \quad b = b_1 + b_2 \sin \alpha_2 + b_3 \sin \alpha_3$
+
+<p align="center"><strong>c) Mặt bằng công trình hình chữ Y đôi</strong></p>
+
+
+<a id="hinh-e_1d"></a>
+
+<p align="center">
+
+![Hình E.1d](../figures/images/hinh_e_1d.png)
+
+</p>
+
+**CHÚ THÍCH:** $d = d_1 + d_2 \cos \alpha_2; \quad b = b_1 + b_2 \sin \alpha_2$
+
+<p align="center"><strong>d) Mặt bằng công trình hình chữ Y đơn</strong></p>
+
+
+<a id="hinh-e_1e"></a>
+
+<p align="center">
+
+![Hình E.1e](../figures/images/hinh_e_1e.png)
+
+</p>
+
+**CHÚ THÍCH:** $d = d_1 + d_2; \quad b = b_1 + b_2$
+
+<p align="center"><strong>e) Mặt bằng công trình hình chữ L và f) Mặt bằng công trình hình chữ Z</strong></p>
 
 
 <a id="hinh-e_1"></a>
 
-<p align="center">
-
-![Hình E.1](../figures/images/hinh_e_1.png)
-
-</p>
-
 <p align="center"><strong>Hình E.1 — Kích thước tương đương cho một số mặt bằng phức tạp của công trình</strong></p>
 
 > [!NOTE]
-> **Đặc tả Hình học & Tham chiếu Khí động:**
-> \- **Phạm vi:** Kích thước tương đương cho các mặt bằng phức tạp (chữ L, U, T, chữ thập, thắt eo)
-> \- **Thông số cơ sở:** b (chiều rộng tương đương), d (chiều sâu tương đương), e = min(b, 2h)
-
-**CHÚ THÍCH:** $<!-- FORMULA_PLACEHOLDER: 178b7ec0 -->$
-
-e) Mặt bằng công trình hình chữ L
-
-**CHÚ THÍCH:** $<!-- FORMULA_PLACEHOLDER: 841f9c85 -->$
-
-f) Mặt bằng công trình hình chữ Z
-
-Hình E.1 (kết thúc)
-
+> **Đặc tả Hình học Quy đổi Mặt bằng Phức tạp (Hình E.1):**
+> \- **Mục đích:** Quy đổi mặt bằng phi chữ nhật (chữ U, X, Y, L, Z) về kích thước tương đương $(d, b)$ của hình chữ nhật ngoại tiếp để tính diện tích đón gió và hệ số khí động.
+> \- **Công thức quy đổi chính:**
+> &nbsp;&nbsp;+ **Mặt bằng chữ Y:** $d = \sum d_i \cos \alpha_i, \quad b = \sum b_i \sin \alpha_i$
+> &nbsp;&nbsp;+ **Mặt bằng chữ L/Z:** $d = \sum d_i, \quad b = \sum b_i$

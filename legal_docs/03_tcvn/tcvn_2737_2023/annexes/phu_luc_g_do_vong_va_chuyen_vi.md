@@ -8,15 +8,15 @@
 
 
 <a id="muc-g-1-1"></a>
-### G.1.1  Khi xác định độ võng và chuyển vị cần phải kể đến tất cả các yếu tố chính ảnh hưởng đến giá trị của chúng (biến dạng không đàn hồi của vật liệu, sự hình thành vết nứt, việc xét đến sơ đồ biến dạng, việc xét đến các kết cấu liền kề, độ mềm dẻo của các nút liên kết và nền). Khi có đủ cơ sở, có thể không cần tính đến một số yếu tố nào đó hoặc tính đến bằng phương pháp gần đúng.
+**G.1.1**  Khi xác định độ võng và chuyển vị cần phải kể đến tất cả các yếu tố chính ảnh hưởng đến giá trị của chúng (biến dạng không đàn hồi của vật liệu, sự hình thành vết nứt, việc xét đến sơ đồ biến dạng, việc xét đến các kết cấu liền kề, độ mềm dẻo của các nút liên kết và nền). Khi có đủ cơ sở, có thể không cần tính đến một số yếu tố nào đó hoặc tính đến bằng phương pháp gần đúng.
 
 
 <a id="muc-g-1-2"></a>
-### G.1.2  Đối với kết cấu dùng loại vật liệu có tính từ biến thì phải kể đến sự tăng độ võng theo thời gian. Khi khống chế độ võng theo yêu cầu tâm sinh lý thì chỉ kể đến từ biến ngắn hạn xuất hiện ngay sau khi đặt tải, còn theo yêu cầu công nghệ và cấu tạo (trừ khi tính toán kể đến tải trọng gió), thẩm mỹ - tâm lý thì kể đến từ biến toàn phần.
+**G.1.2**  Đối với kết cấu dùng loại vật liệu có tính từ biến thì phải kể đến sự tăng độ võng theo thời gian. Khi khống chế độ võng theo yêu cầu tâm sinh lý thì chỉ kể đến từ biến ngắn hạn xuất hiện ngay sau khi đặt tải, còn theo yêu cầu công nghệ và cấu tạo (trừ khi tính toán kể đến tải trọng gió), thẩm mỹ - tâm lý thì kể đến từ biến toàn phần.
 
 
 <a id="muc-g-1-3"></a>
-### G.1.3  Khi xác định độ võng ngang của cột nhà một tầng và của trụ cầu cạn do tải trọng ngang của cần trục cần chọn sơ đồ tính của cột (trụ) có kể đến điều kiện liên kết với giả thiết:
+**G.1.3**  Khi xác định độ võng ngang của cột nhà một tầng và của trụ cầu cạn do tải trọng ngang của cần trục cần chọn sơ đồ tính của cột (trụ) có kể đến điều kiện liên kết với giả thiết:
 
 - Cột nhà và trụ các cầu cạn trong nhà không có dịch chuyển ngang ở cao độ gối tựa trên cùng (nếu sàn mái không tạo thành tấm cứng trong mặt phẳng ngang, cần kể đến độ mềm dẻo theo phương ngang của gối tựa này);
 
@@ -24,13 +24,13 @@
 
 
 <a id="muc-g-1-4"></a>
-### G.1.4  Khi kết cấu xây dựng dao động thì việc phân loại dao động, các thông số quy định, các giá trị giới hạn cho phép của chúng đối với nhà ở, nhà công cộng và nhà công nghiệp phải được quy định theo yêu cầu của các tiêu chuẩn có liên quan.
+**G.1.4**  Khi kết cấu xây dựng dao động thì việc phân loại dao động, các thông số quy định, các giá trị giới hạn cho phép của chúng đối với nhà ở, nhà công cộng và nhà công nghiệp phải được quy định theo yêu cầu của các tiêu chuẩn có liên quan.
 
 Khi có các thiết bị và dụng cụ độ chính xác cao nhạy với dao động của kết cấu mà chúng đặt trên đó thì giá trị giới hạn của chuyển vị rung, vận tốc rung và gia tốc rung cần được xác định theo nhiệm vụ thiết kế.
 
 
 <a id="muc-g-1-5"></a>
-### G.1.5  Tình huống tính toán, mà trong đó phải xác định độ võng, chuyển vị và các tải trọng tương ứng với chúng, phải được lựa chọn tùy thuộc vào việc tính toán được thực hiện theo các yêu cầu nào.
+**G.1.5**  Tình huống tính toán, mà trong đó phải xác định độ võng, chuyển vị và các tải trọng tương ứng với chúng, phải được lựa chọn tùy thuộc vào việc tính toán được thực hiện theo các yêu cầu nào.
 
 Tình huống tính toán được đặc trưng bởi sơ đồ tính toán kết cấu, loại tải trọng, giá trị các hệ số điều kiện làm việc và các hệ số độ tin cậy, số lượng các trạng thái giới hạn được xét đến trong tình huống tính toán đó.
 
@@ -46,11 +46,11 @@ Nếu việc tính toán được thực hiện theo yêu cầu thẩm mỹ - t�
 
 
 <a id="muc-g-1-6"></a>
-### G.1.6  Độ võng của các cấu kiện của sàn tầng và mái theo yêu cầu cấu tạo không được vượt quá khoảng cách (khe hở) giữa mặt dưới của các cấu kiện đó và mặt trên (đỉnh) của tường ngăn, vách kính, khuôn cửa sổ, khuôn cửa đi và các cấu kiện cấu tạo khác nằm dưới các cấu kiện chịu lực.
+**G.1.6**  Độ võng của các cấu kiện của sàn tầng và mái theo yêu cầu cấu tạo không được vượt quá khoảng cách (khe hở) giữa mặt dưới của các cấu kiện đó và mặt trên (đỉnh) của tường ngăn, vách kính, khuôn cửa sổ, khuôn cửa đi và các cấu kiện cấu tạo khác nằm dưới các cấu kiện chịu lực.
 
 
 <a id="muc-g-1-7"></a>
-### G.1.7  Trong trường hợp giữa các tường có tường ngăn chịu lực (với chiều cao gần bằng chiều cao tường) thì giá trị L trong mục 2a Bảng G.1 lấy bằng khoảng cách giữa mặt trong của các tường chịu lực (hoặc các cột) và các tường ngăn (hoặc giữa mặt trong của các tường ngăn như trên Hình G.1).
+**G.1.7**  Trong trường hợp giữa các tường có tường ngăn chịu lực (với chiều cao gần bằng chiều cao tường) thì giá trị L trong mục 2a Bảng G.1 lấy bằng khoảng cách giữa mặt trong của các tường chịu lực (hoặc các cột) và các tường ngăn (hoặc giữa mặt trong của các tường ngăn như trên Hình G.1).
 
 a) Có một tường ngăn
 
@@ -76,7 +76,7 @@ CHÚ DẪN:
 
 
 <a id="muc-g-1-8"></a>
-### G.1.8  Độ võng của kết cấu vì kèo khi có đường ray của cần trục treo (Bảng G.1, mục 2c) lấy bằng hiệu các độ võng $f_{1}$ và $f_{2}$ của các kết cấu vì kèo liền kề nhau (Hình G.2).
+**G.1.8**  Độ võng của kết cấu vì kèo khi có đường ray của cần trục treo (Bảng G.1, mục 2c) lấy bằng hiệu các độ võng $f_{1}$ và $f_{2}$ của các kết cấu vì kèo liền kề nhau (Hình G.2).
 
 CHÚ DẪN:
 
@@ -103,7 +103,7 @@ $f_{2}$ - Độ võng của kết cấu vì kèo gần kết cấu vì kèo ch�
 
 
 <a id="muc-g-1-9"></a>
-### G.1.9  Chuyển vị ngang của khung cần được xác định trong mặt phẳng tường và tường ngăn mà tính toàn vẹn của chúng cần được đảm bảo.
+**G.1.9**  Chuyển vị ngang của khung cần được xác định trong mặt phẳng tường và tường ngăn mà tính toàn vẹn của chúng cần được đảm bảo.
 
 
 <a id="muc-g-2"></a>
@@ -111,15 +111,15 @@ $f_{2}$ - Độ võng của kết cấu vì kèo gần kết cấu vì kèo ch�
 
 
 <a id="muc-g-2-1"></a>
-### G.2.1  Độ võng đứng giới hạn của cấu kiện kết cấu
+**G.2.1**  Độ võng đứng giới hạn của cấu kiện kết cấu
 
 
 <a id="muc-g-2-2-1"></a>
-### G.2.2.1  Độ võng đứng giới hạn $f_{u}$ của các cấu kiện kết cấu và tải trọng tương ứng dùng để xác định độ võng f được nêu trong Bảng G.1.
+**G.2.2.1**  Độ võng đứng giới hạn $f_{u}$ của các cấu kiện kết cấu và tải trọng tương ứng dùng để xác định độ võng f được nêu trong Bảng G.1.
 
 
 <a id="bang-bang-g-1"></a>
-### Bảng G.1 - Độ võng đứng giới hạn $f_{u}$ và tải trọng tương ứng để xác định độ võng đứng f
+**Bảng G.1 — Độ võng đứng giới hạn $f_{u}$ và tải trọng tương ứng để xác định độ võng đứng f**
 
 | Cấu kiện kết cấu | Yêu cầu | Giá trị $f_{u}$ | Tải trọng để xác định độ võng đứng f |
 | :--- | :--- | :--- | :--- |
@@ -145,7 +145,7 @@ $f_{2}$ - Độ võng của kết cấu vì kèo gần kết cấu vì kèo ch�
 
 
 <a id="muc-g-2-2"></a>
-### G.2.2  Yêu cầu tâm sinh lý
+**G.2.2**  Yêu cầu tâm sinh lý
 
 Độ võng giới hạn theo yêu cầu tâm sinh lý của các cấu kiện của sàn tầng (dầm, xà, bản), cầu thang, ban công, lôgia, các phòng trong nhà ở và nhà công cộng, cũng như các phòng sinh hoạt của nhà sản xuất cần được xác định theo công thức:
 
@@ -172,7 +172,7 @@ trong đó:
 
 
 <a id="bang-bang-g-2"></a>
-### Bảng G.2 - Các hệ số p, $p_{1}$, n, b
+**Bảng G.2 — Các hệ số p, $p_{1}$, n, b**
 
 | Các khu vực<br>(theo Bảng 4) | p,<br>kN/$m^{2}$ | $p_{1}$,<br>kN/$m^{2}$ | n,<br>Hz | b |
 | :--- | :---: | :--- | :---: | :--- |
@@ -182,7 +182,7 @@ trong đó:
 
 
 <a id="muc-g-2-3"></a>
-### G.2.3  Độ võng ngang giới hạn của cột và kết cấu hãm do tải trọng cần trục
+**G.2.3**  Độ võng ngang giới hạn của cột và kết cấu hãm do tải trọng cần trục
 
 Độ võng ngang giới hạn của cột nhà có cần trục kiểu cầu (cầu trục), của trụ cầu cạn, cũng như của dầm đỡ cầu trục và của kết cấu hãm (dầm và giàn) lấy theo Bảng G.3 nhưng không nhỏ hơn 6 mm.
 
@@ -190,7 +190,7 @@ trong đó:
 
 
 <a id="bang-bang-g-3"></a>
-### Bảng G.3 - Độ võng ngang giới hạn $f_{\mu}$ của cột nhà có cầu trục, trụ cầu cạn, dầm đỡ cầu trục và kết cấu hãm
+**Bảng G.3 — Độ võng ngang giới hạn $f_{\mu}$ của cột nhà có cầu trục, trụ cầu cạn, dầm đỡ cầu trục và kết cấu hãm**
 
 | Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) | Giá trị $f_{u}$ của |  |  |
 | :--- | :--- | :--- | :--- |
@@ -204,15 +204,15 @@ trong đó:
 
 
 <a id="muc-g-2-4"></a>
-### G.2.4  Độ võng ngang giới hạn của nhà, cấu kiện riêng lẻ và trụ đỡ băng tải do tải trọng gió, độ nghiêng của móng và tác động nhiệt khí hậu
+**G.2.4**  Độ võng ngang giới hạn của nhà, cấu kiện riêng lẻ và trụ đỡ băng tải do tải trọng gió, độ nghiêng của móng và tác động nhiệt khí hậu
 
 
 <a id="muc-g-2-4-1"></a>
-### G.2.4.1  Đối với trạng thái giới hạn thứ hai, chuyển vị ngang của nhà không khung do tải trọng gió không cần khống chế giới hạn.
+**G.2.4.1**  Đối với trạng thái giới hạn thứ hai, chuyển vị ngang của nhà không khung do tải trọng gió không cần khống chế giới hạn.
 
 
 <a id="muc-g-2-4-2"></a>
-### G.2.4.2  Độ võng ngang giới hạn của cột (trụ) nhà khung do tác động của nhiệt khí hậu và lún lấy bằng:
+**G.2.4.2**  Độ võng ngang giới hạn của cột (trụ) nhà khung do tác động của nhiệt khí hậu và lún lấy bằng:
 
 $h_{s}$/150 - khi tường và tường ngăn bằng gạch, bê tông thạch cao, bê tông cốt thép hay panen treo;
 
@@ -224,23 +224,23 @@ Khi xác định độ võng ngang do tác động của nhiệt khí hậu và 
 
 
 <a id="muc-g-2-4-3"></a>
-### G.2.4.3  Độ võng ngang giới hạn của các bộ phận cấu tạo của vách kính và tương tự được quy định theo tiêu chuẩn chuyên ngành có liên quan hoặc theo nhiệm vụ thiết kế.
+**G.2.4.3**  Độ võng ngang giới hạn của các bộ phận cấu tạo của vách kính và tương tự được quy định theo tiêu chuẩn chuyên ngành có liên quan hoặc theo nhiệm vụ thiết kế.
 
 
 <a id="muc-g-2-5"></a>
-### G.2.5  Độ võng giới hạn và chuyển vị giới hạn của nhà và các cấu kiện riêng lẻ của nhà theo các yêu cầu công nghệ và cấu tạo
+**G.2.5**  Độ võng giới hạn và chuyển vị giới hạn của nhà và các cấu kiện riêng lẻ của nhà theo các yêu cầu công nghệ và cấu tạo
 
 
 <a id="muc-g-2-5-1"></a>
-### G.2.5.1  Độ võng đứng giới hạn của các cấu kiện kết cấu theo các yêu cầu công nghệ và cấu tạo
+**G.2.5.1**  Độ võng đứng giới hạn của các cấu kiện kết cấu theo các yêu cầu công nghệ và cấu tạo
 
 
 <a id="muc-g-2-5-1-1"></a>
-### G.2.5.1.1  Độ võng đứng giới hạn của cấu kiện kết cấu theo yêu cầu công nghệ và cấu tạo được nêu trong Bảng G.4. Yêu cầu về khe hở giữa các cấu kiện liền kề được nêu trong G.2.5.1.2.
+**G.2.5.1.1**  Độ võng đứng giới hạn của cấu kiện kết cấu theo yêu cầu công nghệ và cấu tạo được nêu trong Bảng G.4. Yêu cầu về khe hở giữa các cấu kiện liền kề được nêu trong G.2.5.1.2.
 
 
 <a id="bang-bang-g-4"></a>
-### Bảng G.4 - Độ võng đứng giới hạn $f_{u}$ và tải trọng tương ứng để xác định độ võng đứng f
+**Bảng G.4 — Độ võng đứng giới hạn $f_{u}$ và tải trọng tương ứng để xác định độ võng đứng f**
 
 | Cấu kiện kết cấu | Yêu cầu | Giá trị $f_{u}$ | Tải trọng để xác định độ võng đứng f |
 | :--- | :--- | :--- | :--- |
@@ -266,21 +266,21 @@ Khi xác định độ võng ngang do tác động của nhiệt khí hậu và 
 
 
 <a id="muc-g-2-5-1-2"></a>
-### G.2.5.1.2  Khe hở giữa mặt dưới của các cấu kiện của mái, sàn tầng và đỉnh tường ngăn nằm dưới các cấu kiện đó, thông thường, không được vượt quá 40 mm. Trong các trường hợp, khi việc thực hiện các yêu cầu vừa nêu liên quan đến sự tăng độ cứng của sàn tầng và mái thì phải sử dụng các biện pháp cấu tạo để tránh sự tăng độ cứng đó (ví dụ: không bố trí các tường ngăn ngay dưới dầm chịu uốn mà bố trí ở bên cạnh nó).
+**G.2.5.1.2**  Khe hở giữa mặt dưới của các cấu kiện của mái, sàn tầng và đỉnh tường ngăn nằm dưới các cấu kiện đó, thông thường, không được vượt quá 40 mm. Trong các trường hợp, khi việc thực hiện các yêu cầu vừa nêu liên quan đến sự tăng độ cứng của sàn tầng và mái thì phải sử dụng các biện pháp cấu tạo để tránh sự tăng độ cứng đó (ví dụ: không bố trí các tường ngăn ngay dưới dầm chịu uốn mà bố trí ở bên cạnh nó).
 
 
 <a id="muc-g-2-5-2"></a>
-### G.2.5.2  Độ dịch ngang (dịch vào) giới hạn của đường cẩu, cầu cạn ngoài trời theo yêu cầu công nghệ
+**G.2.5.2**  Độ dịch ngang (dịch vào) giới hạn của đường cẩu, cầu cạn ngoài trời theo yêu cầu công nghệ
 
 Độ dịch ngang (dịch vào) giới hạn của đường cẩu, cầu cạn ngoài trời do tải trọng theo phương ngang và tải trọng lệch tâm theo phương đứng do một cầu trục gây ra (không kể đến độ nghiêng của móng) theo yêu cầu công nghệ lấy bằng 20 mm.
 
 
 <a id="muc-g-2-5-3"></a>
-### G.2.5.3  Độ võng ngang (chuyển vị ngang) giới hạn của nhà, cấu kiện kết cấu riêng lẻ và trụ đỡ băng tải do tải trọng gió và độ nghiêng của móng
+**G.2.5.3**  Độ võng ngang (chuyển vị ngang) giới hạn của nhà, cấu kiện kết cấu riêng lẻ và trụ đỡ băng tải do tải trọng gió và độ nghiêng của móng
 
 
 <a id="muc-g-2-5-3-1"></a>
-### G.2.5.3.1  Chuyển vị ngang giới hạn của nhà theo yêu cầu cấu tạo (đảm bảo sự nguyên vẹn của phần chèn khung như tường, tường ngăn, các bộ phận của cửa đi và cửa sổ) được nêu trong Bảng G.5. Các chỉ dẫn về xác định chuyển vị nêu trong G.2.5.3.2.
+**G.2.5.3.1**  Chuyển vị ngang giới hạn của nhà theo yêu cầu cấu tạo (đảm bảo sự nguyên vẹn của phần chèn khung như tường, tường ngăn, các bộ phận của cửa đi và cửa sổ) được nêu trong Bảng G.5. Các chỉ dẫn về xác định chuyển vị nêu trong G.2.5.3.2.
 
 Chuyển vị ngang của nhà cần được xác định có kể đến độ nghiêng (lún không đều) của móng. Khi đó tải trọng do trọng lượng của thiết bị, đồ gỗ, con người, các loại vật liệu chất kho chỉ kể đến khi các tải trọng này được chất đều lên toàn bộ tất cả các sàn tầng của nhà nhiều tầng (có giảm đi phụ thuộc vào số tầng), trừ các trường hợp dự kiến trước phương án chất tải khác theo điều kiện sử dụng bình thường.
 
@@ -288,7 +288,7 @@ Chuyển vị ngang của nhà cần được xác định có kể đến độ
 
 
 <a id="bang-bang-g-5"></a>
-### Bảng G.5 - Chuyển vị ngang giới hạn $f_{u}$ theo yêu cầu cấu tạo
+**Bảng G.5 — Chuyển vị ngang giới hạn $f_{u}$ theo yêu cầu cấu tạo**
 
 | Nhà, tường và tường ngăn | Liên kết giữa tường, tường ngăn với khung nhà | Giá trị $f_{u}$ |
 | :--- | :--- | :--- |
@@ -304,7 +304,7 @@ Chuyển vị ngang của nhà cần được xác định có kể đến độ
 
 
 <a id="muc-g-2-5-3-2"></a>
-### G.2.5.3.2  Đối với các sơ đồ khung giằng của nhà nhiều tầng có chiều cao trên 40 m thì độ nghiêng của các màng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng tính bằng $f_{1}$/$h_{s}$ + $f_{2}$/L (Hình G.3) không được vượt quá (xem Bảng G.5): 1/500 đối với mục 2a và 1/700 đối với mục 2b và 1/300 đối với mục 2c.
+**G.2.5.3.2**  Đối với các sơ đồ khung giằng của nhà nhiều tầng có chiều cao trên 40 m thì độ nghiêng của các màng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng tính bằng $f_{1}$/$h_{s}$ + $f_{2}$/L (Hình G.3) không được vượt quá (xem Bảng G.5): 1/500 đối với mục 2a và 1/700 đối với mục 2b và 1/300 đối với mục 2c.
 
 CHÚ DẪN:
 
@@ -329,7 +329,7 @@ CHÚ DẪN:
 
 
 <a id="muc-g-2-5-4"></a>
-### G.2.5.4  Độ vồng của các cấu kiện của sàn tầng do lực nén trước
+**G.2.5.4**  Độ vồng của các cấu kiện của sàn tầng do lực nén trước
 
 Độ vồng giới hạn $f_{u}$ của các cấu kiện của sàn tầng theo yêu cầu cấu tạo lấy bằng:
 
@@ -340,4 +340,3 @@ khi L ≥ 12m: 40 mm;
 khi 3 m < L < 12 m: nội suy tuyến tính.
 
 Độ vồng f cần được xác định từ tác dụng của lực nén trước, trọng lượng bản thân của các cấu kiện của sàn tầng và trọng lượng các lớp lát sàn.
-
