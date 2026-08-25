@@ -1176,15 +1176,29 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại C.1  Khi xác định hệ số k($z_{e}$) theo công thức (12), nếu mặt đất xung quanh nhà và công trình không bằng phẳng thì độ cao tương đương $z_{e}$ được xác định thông qua độ cao z (xem 10.2.4) và z được xác định như sau: của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại C.1  Khi xác định hệ số k($z_{e}$) theo công thức (12), nếu mặt đất xung quanh nhà và công trình không bằng phẳng thì độ cao tương đương $z_{e}$ được xác định thông qua độ cao z (xem 10.2.4) và z được xác định như sau: (annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md#muc-c-1).",
+    "question": "Quy định tại C.1  Khi xác định hệ số $k(z_e)$ theo công thức (12), nếu mặt đất xung quanh nhà và công trình không bằng phẳng thì độ cao tương đương $z_e$ được xác định thông qua độ cao $z$ (xem 10.2.4) và $z$ được xác định như sau: của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại C.1  Khi xác định hệ số $k(z_e)$ theo công thức (12), nếu mặt đất xung quanh nhà và công trình không bằng phẳng thì độ cao tương đương $z_e$ được xác định thông qua độ cao $z$ (xem 10.2.4) và $z$ được xác định như sau: (annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md#muc-c-1).",
     "anchor": "muc-c-1",
     "source_file": "annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md",
     "jurisdiction": "CQXD"
   },
   {
     "question": "Quy định tại  của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại  (annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md#hinh-c_1).",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md#hinh-c_1a).",
+    "anchor": "hinh-c_1a",
+    "source_file": "annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md#hinh-c_1b).",
+    "anchor": "hinh-c_1b",
+    "source_file": "annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại Hình C.1 — Mặt cao độ công trình quy ước $z_0$ (mốc chuẩn) của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Hình C.1 — Mặt cao độ công trình quy ước $z_0$ (mốc chuẩn) (annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md#hinh-c_1).",
     "anchor": "hinh-c_1",
     "source_file": "annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md",
     "jurisdiction": "CQXD"

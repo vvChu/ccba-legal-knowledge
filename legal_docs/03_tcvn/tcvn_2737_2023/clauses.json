@@ -1508,26 +1508,44 @@
     "title": "PHỤ LỤC C  (Quy định)  PHƯƠNG PHÁP XÁC ĐỊNH MỐC CHUẨN",
     "source_file": "annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md",
     "jurisdiction": "CQXD",
-    "line_start": 2,
-    "line_end": 2
+    "line_start": 1,
+    "line_end": 1
   },
   {
     "clause_id": "muc-c-1",
     "anchor": "muc-c-1",
-    "title": "C.1  Khi xác định hệ số k($z_{e}$) theo công thức (12), nếu mặt đất xung quanh nhà và công trình không bằng phẳng thì độ cao tương đương $z_{e}$ được xác định thông qua độ cao z (xem 10.2.4) và z được xác định như sau:",
+    "title": "C.1  Khi xác định hệ số $k(z_e)$ theo công thức (12), nếu mặt đất xung quanh nhà và công trình không bằng phẳng thì độ cao tương đương $z_e$ được xác định thông qua độ cao $z$ (xem 10.2.4) và $z$ được xác định như sau:",
     "source_file": "annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md",
     "jurisdiction": "CQXD",
-    "line_start": 6,
-    "line_end": 6
+    "line_start": 5,
+    "line_end": 5
   },
   {
-    "clause_id": "hinh-c_1",
-    "anchor": "hinh-c_1",
+    "clause_id": "hinh-c_1a",
+    "anchor": "hinh-c_1a",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 15,
+    "line_end": 15
+  },
+  {
+    "clause_id": "hinh-c_1b",
+    "anchor": "hinh-c_1b",
     "title": "",
     "source_file": "annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md",
     "jurisdiction": "CQXD",
     "line_start": 24,
     "line_end": 24
+  },
+  {
+    "clause_id": "hinh-c_1",
+    "anchor": "hinh-c_1",
+    "title": "Hình C.1 — Mặt cao độ công trình quy ước $z_0$ (mốc chuẩn)",
+    "source_file": "annexes/phu_luc_c_phuong_phap_xac_dinh_moc_chuan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 33,
+    "line_end": 33
   },
   {
     "clause_id": "phu-luc-d",

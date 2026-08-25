@@ -1,24 +1,39 @@
 standard: TCVN 2737:2023
-total_figures: 37
+total_figures: 38
 figures:
-- figure_id: FIG_TCVN2737_C_1
-  tag: C.1
-  title: Mặt cao độ công trình quy ước z0 (mốc chuẩn)
+- figure_id: FIG_TCVN2737_C_1A
+  tag: C.1a
+  title: Mặt cao độ công trình quy ước z0 khi mặt đất có độ dốc 0,3 < i < 2
   annex: C
-  anchor: hinh-c_1
-  image_relpath: figures/images/hinh_c_1.png
+  anchor: hinh-c_1a
+  image_relpath: figures/images/hinh_c_1a.png
   has_image: true
   geometry_rules:
-    description: Mặt cao độ công trình quy ước z0 (mốc chuẩn) trên địa hình nghiêng
-      dốc
+    description: Sơ đồ xác định mốc chuẩn z0 trên sườn dốc vừa (0,3 < i < 2)
     parameters:
-    - z0 (mốc chuẩn quy ước)
-    - i (độ dốc mặt đất)
-    - z (cao độ tính toán)
-    cases:
-    - 'i <= 0.3: z tính từ mặt đất thực tế'
-    - '0.3 < i < 2: z tính từ mặt cao độ công trình quy ước z0'
-    - 'i >= 2: z tính từ đáy công trình hoặc vách đứng'
+    - z0
+    - z1
+    - z2
+    - H
+    - 3H
+    - i
+    formula_bc: z0 = H*(2 - i)/1.7
+- figure_id: FIG_TCVN2737_C_1B
+  tag: C.1b
+  title: Mặt cao độ công trình quy ước z0 khi mặt đất có độ dốc i >= 2
+  annex: C
+  anchor: hinh-c_1b
+  image_relpath: figures/images/hinh_c_1b.png
+  has_image: true
+  geometry_rules:
+    description: Sơ đồ xác định mốc chuẩn z0 trên vách dốc đứng (i >= 2)
+    parameters:
+    - z0
+    - z1
+    - z2
+    - H
+    - 3H
+    - i
 - figure_id: FIG_TCVN2737_D_1
   tag: D.1
   title: Hình ảnh minh họa địa hình dạng A
