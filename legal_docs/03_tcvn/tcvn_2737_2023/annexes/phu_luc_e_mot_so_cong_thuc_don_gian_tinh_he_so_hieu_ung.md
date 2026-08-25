@@ -69,8 +69,6 @@ trong đó:
 
 </p>
 
-**CHÚ THÍCH:** $d = d_1 + d_2 \cos \alpha_2 + d_3 \cos \alpha_3; \quad b = b_1 + b_2 \sin \alpha_2 + b_3 \sin \alpha_3$
-
 <p align="center"><strong>c) Mặt bằng công trình hình chữ Y đôi</strong></p>
 
 
@@ -82,9 +80,14 @@ trong đó:
 
 </p>
 
-**CHÚ THÍCH:** $d = d_1 + d_2 \cos \alpha_2; \quad b = b_1 + b_2 \sin \alpha_2$
+**CHÚ THÍCH:** $d = \frac{b}{1{,}8}$.
 
 <p align="center"><strong>d) Mặt bằng công trình hình chữ Y đơn</strong></p>
+
+
+<a id="hinh-e_1"></a>
+
+<p align="center"><strong>Hình E.1 — Kích thước tương đương cho một số mặt bằng phức tạp của công trình</strong></p>
 
 
 <a id="hinh-e_1e"></a>
@@ -95,18 +98,29 @@ trong đó:
 
 </p>
 
-**CHÚ THÍCH:** $d = d_1 + d_2; \quad b = b_1 + b_2$
+**CHÚ THÍCH:** $d = \frac{d_1 + d_2}{2}$.
 
-<p align="center"><strong>e) Mặt bằng công trình hình chữ L và f) Mặt bằng công trình hình chữ Z</strong></p>
+<p align="center"><strong>e) Mặt bằng công trình hình chữ L</strong></p>
 
 
-<a id="hinh-e_1"></a>
+<a id="hinh-e_1f"></a>
 
-<p align="center"><strong>Hình E.1 — Kích thước tương đương cho một số mặt bằng phức tạp của công trình</strong></p>
+<p align="center">
+
+![Hình E.1f](../figures/images/hinh_e_1f.png)
+
+</p>
+
+**CHÚ THÍCH:** $d = \frac{d_1 + d_2}{2}$.
+
+<p align="center"><strong>f) Mặt bằng công trình hình chữ Z</strong></p>
+
+<p align="center"><strong>Hình E.1 (kết thúc)</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học Quy đổi Mặt bằng Phức tạp (Hình E.1):**
-> \- **Mục đích:** Quy đổi mặt bằng phi chữ nhật (chữ U, X, Y, L, Z) về kích thước tương đương $(d, b)$ của hình chữ nhật ngoại tiếp để tính diện tích đón gió và hệ số khí động.
-> \- **Công thức quy đổi chính:**
-> &nbsp;&nbsp;+ **Mặt bằng chữ Y:** $d = \sum d_i \cos \alpha_i, \quad b = \sum b_i \sin \alpha_i$
-> &nbsp;&nbsp;+ **Mặt bằng chữ L/Z:** $d = \sum d_i, \quad b = \sum b_i$
+> \- **Mục đích:** Quy đổi mặt bằng phi chữ nhật (chữ U, X, Y đôi, Y đơn, L, Z) về kích thước tương đương $(d, b)$ của hình chữ nhật ngoại tiếp để tính diện tích đón gió và hệ số khí động.
+> \- **Công thức quy đổi kích thước tương đương $d$:**
+> &nbsp;&nbsp;+ **Mặt bằng chữ Y đơn (Hình E.1d):** $d = \frac{b}{1{,}8}$
+> &nbsp;&nbsp;+ **Mặt bằng chữ L (Hình E.1e):** $d = \frac{d_1 + d_2}{2}$
+> &nbsp;&nbsp;+ **Mặt bằng chữ Z (Hình E.1f):** $d = \frac{d_1 + d_2}{2}$

@@ -147,15 +147,15 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại $$C_m = \\gamma_n \\left( \\sum_{i \\ge 1} \\gamma_{f,i} G_{k,i} \\text{ “+” } \\sum_{j \\ge 1} \\gamma_{f,j} \\psi_{L,j} Q_{k,L,j} \\text{ “+” } \\sum_{m \\ge 1} \\gamma_{f,m} \\psi_{t,m} Q_{k,t,m} \\right) \tag{1}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$C_m = \\gamma_n \\left( \\sum_{i \\ge 1} \\gamma_{f,i} G_{k,i} \\text{ “+” } \\sum_{j \\ge 1} \\gamma_{f,j} \\psi_{L,j} Q_{k,L,j} \\text{ “+” } \\sum_{m \\ge 1} \\gamma_{f,m} \\psi_{t,m} Q_{k,t,m} \\right) \tag{1}$$ (tcvn_2737_2023.md#formula-1).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-1).",
     "anchor": "formula-1",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$C_a = \\left( \\sum_{i \\ge 1} \\gamma_{f,i} G_{k,i} \\text{ “+” } \\sum_{j \\ge 1} \\gamma_{f,j} \\psi_{L,j} Q_{k,L,j} \\text{ “+” } \\sum_{m \\ge 1} \\gamma_{f,m} \\psi_{t,m} Q_{k,t,m} \\right) \\text{ “+” } A_d \tag{2}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$C_a = \\left( \\sum_{i \\ge 1} \\gamma_{f,i} G_{k,i} \\text{ “+” } \\sum_{j \\ge 1} \\gamma_{f,j} \\psi_{L,j} Q_{k,L,j} \\text{ “+” } \\sum_{m \\ge 1} \\gamma_{f,m} \\psi_{t,m} Q_{k,t,m} \\right) \\text{ “+” } A_d \tag{2}$$ (tcvn_2737_2023.md#formula-2).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-2).",
     "anchor": "formula-2",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -196,15 +196,15 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại $$\\varphi_1 = 0,4 + \\frac{0,6}{\\sqrt{A / A_1}} \\ge 0,6 \tag{3}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$\\varphi_1 = 0,4 + \\frac{0,6}{\\sqrt{A / A_1}} \\ge 0,6 \tag{3}$$ (tcvn_2737_2023.md#formula-3).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-3).",
     "anchor": "formula-3",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$\\varphi_2 = 0,5 + \\frac{0,5}{\\sqrt{A / A_2}} \\ge 0,6 \tag{4}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$\\varphi_2 = 0,5 + \\frac{0,5}{\\sqrt{A / A_2}} \\ge 0,6 \tag{4}$$ (tcvn_2737_2023.md#formula-4).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-4).",
     "anchor": "formula-4",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -217,15 +217,15 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại $$\\varphi_3 = 0,4 + \\frac{\\varphi_1 - 0,4}{\\sqrt{n}} \\ge 0,5 \tag{5}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$\\varphi_3 = 0,4 + \\frac{\\varphi_1 - 0,4}{\\sqrt{n}} \\ge 0,5 \tag{5}$$ (tcvn_2737_2023.md#formula-5).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-5).",
     "anchor": "formula-5",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$\\varphi_4 = 0,5 + \\frac{\\varphi_2 - 0,5}{\\sqrt{n}} \\ge 0,5 \tag{6}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$\\varphi_4 = 0,5 + \\frac{\\varphi_2 - 0,5}{\\sqrt{n}} \\ge 0,5 \tag{6}$$ (tcvn_2737_2023.md#formula-6).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-6).",
     "anchor": "formula-6",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -525,8 +525,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$F_{d,up} = \\gamma_f \\cdot \\xi \\cdot Q_{k,t} \tag{7}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$F_{d,up} = \\gamma_f \\cdot \\xi \\cdot Q_{k,t} \tag{7}$$ (tcvn_2737_2023.md#formula-7).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-7).",
     "anchor": "formula-7",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -539,8 +539,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$F_{d',down} = C \\sqrt{m} \tag{8}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$F_{d',down} = C \\sqrt{m} \tag{8}$$ (tcvn_2737_2023.md#formula-8).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-8).",
     "anchor": "formula-8",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -553,8 +553,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$F_{d,h} = \\xi \\cdot G_k \tag{9}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$F_{d,h} = \\xi \\cdot G_k \tag{9}$$ (tcvn_2737_2023.md#formula-9).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-9).",
     "anchor": "formula-9",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -784,8 +784,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$W_k = W_{3s,10} \\cdot k(z_e) \\cdot c \\cdot G_f \tag{10}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$W_k = W_{3s,10} \\cdot k(z_e) \\cdot c \\cdot G_f \tag{10}$$ (tcvn_2737_2023.md#formula-10).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-10).",
     "anchor": "formula-10",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -805,8 +805,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$W_0 = 0,0613 \\, V_0^2 \tag{11}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$W_0 = 0,0613 \\, V_0^2 \tag{11}$$ (tcvn_2737_2023.md#formula-11).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-11).",
     "anchor": "formula-11",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -826,8 +826,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$k(z_e) = 2,01 \\left(\\frac{z_e}{z_g}\\right)^{2/\\alpha} \tag{12}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$k(z_e) = 2,01 \\left(\\frac{z_e}{z_g}\\right)^{2/\\alpha} \tag{12}$$ (tcvn_2737_2023.md#formula-12).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-12).",
     "anchor": "formula-12",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -882,85 +882,85 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$G_f = 0,925 \\left( \\frac{1 + 1,7 I(z_s) \\sqrt{g_Q^2 Q^2 + g_R^2 R^2}}{1 + 1,7 g_v I(z_s)} \\right) \tag{13}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$G_f = 0,925 \\left( \\frac{1 + 1,7 I(z_s) \\sqrt{g_Q^2 Q^2 + g_R^2 R^2}}{1 + 1,7 g_v I(z_s)} \\right) \tag{13}$$ (tcvn_2737_2023.md#formula-13).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-13).",
     "anchor": "formula-13",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$I(z_s) = c_r \\left(\\frac{10}{z_s}\\right)^{1/6} \tag{14}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$I(z_s) = c_r \\left(\\frac{10}{z_s}\\right)^{1/6} \tag{14}$$ (tcvn_2737_2023.md#formula-14).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-14).",
     "anchor": "formula-14",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$g_R = \\sqrt{2 \\ln(3\\,600 n_1)} + \\frac{0,577}{\\sqrt{2 \\ln(3\\,600 n_1)}} \tag{15}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$g_R = \\sqrt{2 \\ln(3\\,600 n_1)} + \\frac{0,577}{\\sqrt{2 \\ln(3\\,600 n_1)}} \tag{15}$$ (tcvn_2737_2023.md#formula-15).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-15).",
     "anchor": "formula-15",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$Q = \\sqrt{\\frac{1}{1 + 0,63 \\left(\\frac{b + h}{L(z_s)}\\right)^{0,63}}} \tag{16}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$Q = \\sqrt{\\frac{1}{1 + 0,63 \\left(\\frac{b + h}{L(z_s)}\\right)^{0,63}}} \tag{16}$$ (tcvn_2737_2023.md#formula-16).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-16).",
     "anchor": "formula-16",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$L(z_s) = \\ell \\left(\\frac{z_s}{10}\\right)^{\\bar{\\epsilon}} \tag{17}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$L(z_s) = \\ell \\left(\\frac{z_s}{10}\\right)^{\\bar{\\epsilon}} \tag{17}$$ (tcvn_2737_2023.md#formula-17).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-17).",
     "anchor": "formula-17",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$R = \\sqrt{\\frac{1}{\\beta} R_n R_h R_b (0,53 + 0,47 R_d)} \tag{18}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$R = \\sqrt{\\frac{1}{\\beta} R_n R_h R_b (0,53 + 0,47 R_d)} \tag{18}$$ (tcvn_2737_2023.md#formula-18).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-18).",
     "anchor": "formula-18",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$R_n = \\frac{7,47 N_1}{(1 + 10,3 N_1)^{5/3}} \tag{19}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$R_n = \\frac{7,47 N_1}{(1 + 10,3 N_1)^{5/3}} \tag{19}$$ (tcvn_2737_2023.md#formula-19).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-19).",
     "anchor": "formula-19",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$N_1 = \\frac{n_1 L(z_s)}{V(z_s)_{3\\,600\\text{s},50}} \tag{20}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$N_1 = \\frac{n_1 L(z_s)}{V(z_s)_{3\\,600\\text{s},50}} \tag{20}$$ (tcvn_2737_2023.md#formula-20).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-20).",
     "anchor": "formula-20",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$V(z_s)_{3\\,600\\text{s},50} = \\bar{b} \\left(\\frac{z_s}{10}\\right)^{\\bar{\\alpha}} V_{3s,50} \tag{21}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$V(z_s)_{3\\,600\\text{s},50} = \\bar{b} \\left(\\frac{z_s}{10}\\right)^{\\bar{\\alpha}} V_{3s,50} \tag{21}$$ (tcvn_2737_2023.md#formula-21).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-21).",
     "anchor": "formula-21",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$R_h = \\frac{1}{\\eta_h} - \\frac{1}{2\\eta_h^2}\\left(1 - e^{-2\\eta_h}\\right); \\quad R_h = 1 \\text{ khi } \\eta_h = 0 \tag{22}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$R_h = \\frac{1}{\\eta_h} - \\frac{1}{2\\eta_h^2}\\left(1 - e^{-2\\eta_h}\\right); \\quad R_h = 1 \\text{ khi } \\eta_h = 0 \tag{22}$$ (tcvn_2737_2023.md#formula-22).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-22).",
     "anchor": "formula-22",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$R_b = \\frac{1}{\\eta_b} - \\frac{1}{2\\eta_b^2}\\left(1 - e^{-2\\eta_b}\\right); \\quad R_b = 1 \\text{ khi } \\eta_b = 0 \tag{23}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$R_b = \\frac{1}{\\eta_b} - \\frac{1}{2\\eta_b^2}\\left(1 - e^{-2\\eta_b}\\right); \\quad R_b = 1 \\text{ khi } \\eta_b = 0 \tag{23}$$ (tcvn_2737_2023.md#formula-23).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-23).",
     "anchor": "formula-23",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$R_d = \\frac{1}{\\eta_d} - \\frac{1}{2\\eta_d^2}\\left(1 - e^{-2\\eta_d}\\right); \\quad R_d = 1 \\text{ khi } \\eta_d = 0 \tag{24}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$R_d = \\frac{1}{\\eta_d} - \\frac{1}{2\\eta_d^2}\\left(1 - e^{-2\\eta_d}\\right); \\quad R_d = 1 \\text{ khi } \\eta_d = 0 \tag{24}$$ (tcvn_2737_2023.md#formula-24).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-24).",
     "anchor": "formula-24",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -1001,8 +1001,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$f \\le f_u \tag{25}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$f \\le f_u \tag{25}$$ (tcvn_2737_2023.md#formula-25).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (tcvn_2737_2023.md#formula-25).",
     "anchor": "formula-25",
     "source_file": "tcvn_2737_2023.md",
     "jurisdiction": "CQXD"
@@ -1134,15 +1134,15 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$F_k = của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$F_k = (annexes/phu_luc_b_danh_muc_can_truc_theo_nhom_che_do_lam_viec_v.md#formula-b_1).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_b_danh_muc_can_truc_theo_nhom_che_do_lam_viec_v.md#formula-b_1).",
     "anchor": "formula-b_1",
     "source_file": "annexes/phu_luc_b_danh_muc_can_truc_theo_nhom_che_do_lam_viec_v.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$m = của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$m = (annexes/phu_luc_b_danh_muc_can_truc_theo_nhom_che_do_lam_viec_v.md#formula-b_2).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_b_danh_muc_can_truc_theo_nhom_che_do_lam_viec_v.md#formula-b_2).",
     "anchor": "formula-b_2",
     "source_file": "annexes/phu_luc_b_danh_muc_can_truc_theo_nhom_che_do_lam_viec_v.md",
     "jurisdiction": "CQXD"
@@ -1155,8 +1155,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$F_d = \\gamma_f F_k \\tag{B.3}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$F_d = \\gamma_f F_k \\tag{B.3}$$ (annexes/phu_luc_b_danh_muc_can_truc_theo_nhom_che_do_lam_viec_v.md#formula-b_3).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_b_danh_muc_can_truc_theo_nhom_che_do_lam_viec_v.md#formula-b_3).",
     "anchor": "formula-b_3",
     "source_file": "annexes/phu_luc_b_danh_muc_can_truc_theo_nhom_che_do_lam_viec_v.md",
     "jurisdiction": "CQXD"
@@ -1246,15 +1246,15 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$G_f = 0{,}8 + \\frac{h}{1\\,200} \\tag{E.1}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$G_f = 0{,}8 + \\frac{h}{1\\,200} \\tag{E.1}$$ (annexes/phu_luc_e_mot_so_cong_thuc_don_gian_tinh_he_so_hieu_ung.md#formula-e_1).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_e_mot_so_cong_thuc_don_gian_tinh_he_so_hieu_ung.md#formula-e_1).",
     "anchor": "formula-e_1",
     "source_file": "annexes/phu_luc_e_mot_so_cong_thuc_don_gian_tinh_he_so_hieu_ung.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$G_f = 0{,}85 + \\frac{h}{800} \\tag{E.2}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$G_f = 0{,}85 + \\frac{h}{800} \\tag{E.2}$$ (annexes/phu_luc_e_mot_so_cong_thuc_don_gian_tinh_he_so_hieu_ung.md#formula-e_2).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_e_mot_so_cong_thuc_don_gian_tinh_he_so_hieu_ung.md#formula-e_2).",
     "anchor": "formula-e_2",
     "source_file": "annexes/phu_luc_e_mot_so_cong_thuc_don_gian_tinh_he_so_hieu_ung.md",
     "jurisdiction": "CQXD"
@@ -1296,6 +1296,13 @@
   },
   {
     "question": "Quy định tại  của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (annexes/phu_luc_e_mot_so_cong_thuc_don_gian_tinh_he_so_hieu_ung.md#hinh-e_1).",
+    "anchor": "hinh-e_1",
+    "source_file": "annexes/phu_luc_e_mot_so_cong_thuc_don_gian_tinh_he_so_hieu_ung.md",
+    "jurisdiction": "CQXD"
+  },
+  {
+    "question": "Quy định tại  của tcvn_2737_2023 là gì?",
     "answer": "Xem chi tiết nội dung quy chuẩn tại  (annexes/phu_luc_e_mot_so_cong_thuc_don_gian_tinh_he_so_hieu_ung.md#hinh-e_1e).",
     "anchor": "hinh-e_1e",
     "source_file": "annexes/phu_luc_e_mot_so_cong_thuc_don_gian_tinh_he_so_hieu_ung.md",
@@ -1303,8 +1310,8 @@
   },
   {
     "question": "Quy định tại  của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại  (annexes/phu_luc_e_mot_so_cong_thuc_don_gian_tinh_he_so_hieu_ung.md#hinh-e_1).",
-    "anchor": "hinh-e_1",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại  (annexes/phu_luc_e_mot_so_cong_thuc_don_gian_tinh_he_so_hieu_ung.md#hinh-e_1f).",
+    "anchor": "hinh-e_1f",
     "source_file": "annexes/phu_luc_e_mot_so_cong_thuc_don_gian_tinh_he_so_hieu_ung.md",
     "jurisdiction": "CQXD"
   },
@@ -1988,15 +1995,15 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$\\text{Re} = \\frac{d \\cdot V(z_e)_{3\\,600\\text{s},50}}{\\nu} \tag{F.1}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$\\text{Re} = \\frac{d \\cdot V(z_e)_{3\\,600\\text{s},50}}{\\nu} \tag{F.1}$$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_1).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_1).",
     "anchor": "formula-f_1",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$V(z_e)_{3\\,600\\text{s},50} = \\bar{b} \\left(\\frac{z_e}{10}\\right)^{\\bar{\\alpha}} V_{3\\text{s},50} \tag{F.2}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$V(z_e)_{3\\,600\\text{s},50} = \\bar{b} \\left(\\frac{z_e}{10}\\right)^{\\bar{\\alpha}} V_{3\\text{s},50} \tag{F.2}$$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_2).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_2).",
     "anchor": "formula-f_2",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD"
@@ -2016,8 +2023,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$c_{e1} = k_{\\lambda 1} c_\\beta \tag{F.3}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$c_{e1} = k_{\\lambda 1} c_\\beta \tag{F.3}$$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_3).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_3).",
     "anchor": "formula-f_3",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD"
@@ -2065,8 +2072,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$c_x = k_\\lambda c_{x\\infty} \tag{F.4}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$c_x = k_\\lambda c_{x\\infty} \tag{F.4}$$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_4).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_4).",
     "anchor": "formula-f_4",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD"
@@ -2093,8 +2100,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$c_{x\\beta} = c_x \\sin^2 \\beta \tag{F.5}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$c_{x\\beta} = c_x \\sin^2 \\beta \tag{F.5}$$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_5).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_5).",
     "anchor": "formula-f_5",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD"
@@ -2128,8 +2135,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$c_x = k_\\lambda c_{x\\infty} \tag{F.6}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$c_x = k_\\lambda c_{x\\infty} \tag{F.6}$$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_6).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_6).",
     "anchor": "formula-f_6",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD"
@@ -2191,8 +2198,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$c_x = \\frac{\\sum c_{xi} A_i}{A_c} \tag{F.7}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$c_x = \\frac{\\sum c_{xi} A_i}{A_c} \tag{F.7}$$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_7).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_7).",
     "anchor": "formula-f_7",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD"
@@ -2233,8 +2240,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$c_t = c_x (1 + \\eta) k_1 \tag{F.8}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$c_t = c_x (1 + \\eta) k_1 \tag{F.8}$$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_8).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_8).",
     "anchor": "formula-f_8",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD"
@@ -2261,8 +2268,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$\\varphi = \\frac{\\sum A_i}{A_c} = \\frac{A}{A_c} \tag{F.9}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$\\varphi = \\frac{\\sum A_i}{A_c} = \\frac{A}{A_c} \tag{F.9}$$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_9).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_f_he_so_khi_dong.md#formula-f_9).",
     "anchor": "formula-f_9",
     "source_file": "annexes/phu_luc_f_he_so_khi_dong.md",
     "jurisdiction": "CQXD"
@@ -2436,8 +2443,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$f_u = \\frac{g(p + p_1 + q)}{30n^2 (bp + p_1 + q)} \tag{G.1}$$ của tcvn_2737_2023 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$f_u = \\frac{g(p + p_1 + q)}{30n^2 (bp + p_1 + q)} \tag{G.1}$$ (annexes/phu_luc_g_do_vong_va_chuyen_vi.md#formula-g_1).",
+    "question": "Quy định tại $$ của tcvn_2737_2023 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$ (annexes/phu_luc_g_do_vong_va_chuyen_vi.md#formula-g_1).",
     "anchor": "formula-g_1",
     "source_file": "annexes/phu_luc_g_do_vong_va_chuyen_vi.md",
     "jurisdiction": "CQXD"

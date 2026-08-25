@@ -1,5 +1,5 @@
 standard: TCVN 2737:2023
-total_figures: 38
+total_figures: 43
 figures:
 - figure_id: FIG_TCVN2737_C_1A
   tag: C.1a
@@ -36,20 +36,6 @@ figures:
   anchor: hinh-d_3
   image_relpath: figures/images/hinh_d_3.png
   has_image: true
-- figure_id: FIG_TCVN2737_E_1
-  tag: E.1
-  title: Kích thước tương đương cho một số mặt bằng phức tạp của công trình
-  annex: E
-  anchor: hinh-e_1
-  image_relpath: figures/images/hinh_e_1.png
-  has_image: true
-  geometry_rules:
-    description: Kích thước tương đương cho các mặt bằng phức tạp (chữ L, U, T, chữ
-      thập, thắt eo)
-    parameters:
-    - b (chiều rộng tương đương)
-    - d (chiều sâu tương đương)
-    - e = min(b, 2h)
 - figure_id: FIG_TCVN2737_F_1
   tag: F.1
   title: Các vùng trên tường phẳng, hàng rào và kết cấu tương tự
@@ -385,4 +371,46 @@ figures:
   annex: G
   anchor: hinh-g_3
   image_relpath: figures/images/hinh_g_3.png
+  has_image: true
+- figure_id: FIG_TCVN2737_E_1A
+  tag: E.1a
+  title: Mặt bằng công trình hình chữ U
+  annex: E
+  anchor: hinh-e_1a
+  image_relpath: figures/images/hinh_e_1a.png
+  has_image: true
+- figure_id: FIG_TCVN2737_E_1B
+  tag: E.1b
+  title: Mặt bằng công trình hình chữ X
+  annex: E
+  anchor: hinh-e_1b
+  image_relpath: figures/images/hinh_e_1b.png
+  has_image: true
+- figure_id: FIG_TCVN2737_E_1C
+  tag: E.1c
+  title: Mặt bằng công trình hình chữ Y đôi
+  annex: E
+  anchor: hinh-e_1c
+  image_relpath: figures/images/hinh_e_1c.png
+  has_image: true
+- figure_id: FIG_TCVN2737_E_1D
+  tag: E.1d
+  title: Mặt bằng công trình hình chữ Y đơn
+  annex: E
+  anchor: hinh-e_1d
+  image_relpath: figures/images/hinh_e_1d.png
+  has_image: true
+- figure_id: FIG_TCVN2737_E_1E
+  tag: E.1e
+  title: Mặt bằng công trình hình chữ L
+  annex: E
+  anchor: hinh-e_1e
+  image_relpath: figures/images/hinh_e_1e.png
+  has_image: true
+- figure_id: FIG_TCVN2737_E_1F
+  tag: E.1f
+  title: Mặt bằng công trình hình chữ Z
+  annex: E
+  anchor: hinh-e_1f
+  image_relpath: figures/images/hinh_e_1f.png
   has_image: true
