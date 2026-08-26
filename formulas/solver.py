@@ -22,8 +22,10 @@ from formulas.sprinkler_spacing import (
 )
 from formulas.wind_load_tcvn2737 import (
     calc_duopitch_roof_ce_coefficients,
+    calc_equivalent_building_dimensions,
     calc_flat_roof_ce_coefficients,
     calc_freestanding_wall_aerodynamic_coeff,
+    calc_gust_factor_gf,
     calc_hipped_roof_ce_coefficients,
     calc_monopitch_roof_ce_coefficients,
     calc_vertical_wall_ce_coefficients,
@@ -280,4 +282,38 @@ SymbolicFormulaSolver.register(
         },
     ),
     calc_hipped_roof_ce_coefficients,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_WIND_TCVN2737_E_GUST_FACTOR",
+        name="Hệ số hiệu ứng giật G_f theo công thức đơn giản",
+        category="WIND_LOAD",
+        standard_reference="Mục E.1, Công thức E.1 & E.2 Phụ lục E TCVN 2737:2023",
+        description="Tính toán hệ số hiệu ứng giật G_f cho nhà cao tầng BTCT (E.1) và nhà thép (E.2) có h <= 150m, T1 > 1s.",
+        parameters={
+            "structure_type": "Loại kết cấu ('concrete' / 'be_tong_cot_thep' hoặc 'steel' / 'thep')",
+            "height_h": "Chiều cao công trình h (m)",
+            "period_T1": "Chu kỳ dao động riêng thứ nhất T1 (s, mặc định 1.2s)",
+        },
+    ),
+    calc_gust_factor_gf,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_WIND_TCVN2737_E_EQUIV_DIM",
+        name="Kích thước tương đương cho mặt bằng phức tạp",
+        category="WIND_LOAD",
+        standard_reference="Mục E.2, Hình E.1 Phụ lục E TCVN 2737:2023",
+        description="Quy đổi kích thước tương đương (d, b) cho mặt bằng chữ U, X, Y đôi, Y đơn, L, Z.",
+        parameters={
+            "shape": "Dạng mặt bằng ('U', 'X', 'Y_DOUBLE', 'Y_SINGLE', 'L', 'Z')",
+            "b": "Bề rộng đón gió tổng thể của hình chữ nhật ngoại tiếp (m)",
+            "d": "Chiều sâu tổng thể dọc hướng gió cho dạng U, X (m, mặc định 0.0)",
+            "d1": "Chiều sâu nhánh 1 cho dạng L, Z (m, mặc định 0.0)",
+            "d2": "Chiều sâu nhánh 2 cho dạng L, Z (m, mặc định 0.0)",
+        },
+    ),
+    calc_equivalent_building_dimensions,
 )

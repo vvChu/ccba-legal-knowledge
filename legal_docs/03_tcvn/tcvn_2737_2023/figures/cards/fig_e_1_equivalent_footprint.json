@@ -1,0 +1,81 @@
+{
+  "$schema": "https://ccba.vn/schemas/visual_card_v1.json",
+  "card_id": "FIG_TCVN2737_E1",
+  "figure_number": "E.1",
+  "standard": "TCVN 2737:2023",
+  "title": "Kích thước tương đương cho một số mặt bằng phức tạp của công trình",
+  "image_relpath": "figures/images/hinh_e_1.png",
+  "normative_clauses": [
+    "E.2"
+  ],
+  "associated_tables": [],
+  "formula_id": "F_WIND_TCVN2737_E_EQUIV_DIM",
+  "governing_parameter": "shape",
+  "input_parameters": {
+    "shape": {
+      "description": "Dạng hình học mặt bằng (U, X, Y_DOUBLE, Y_SINGLE, L, Z)",
+      "type": "string"
+    },
+    "b": {
+      "description": "Bề rộng đón gió tổng thể của hình chữ nhật ngoại tiếp",
+      "unit": "m",
+      "type": "float"
+    },
+    "d": {
+      "description": "Chiều sâu tổng thể dọc hướng gió (cho dạng U, X)",
+      "unit": "m",
+      "default": 0.0,
+      "type": "float"
+    },
+    "d1": {
+      "description": "Kích thước chiều sâu nhánh 1 (cho dạng L, Z)",
+      "unit": "m",
+      "default": 0.0,
+      "type": "float"
+    },
+    "d2": {
+      "description": "Kích thước chiều sâu nhánh 2 (cho dạng L, Z)",
+      "unit": "m",
+      "default": 0.0,
+      "type": "float"
+    }
+  },
+  "branching_rules": [
+    {
+      "case_id": "SHAPE_U_X",
+      "condition": "shape in [\"U\", \"X\", \"Y_DOUBLE\"]",
+      "description": "Mặt bằng hình chữ U, X hoặc Y đôi",
+      "dimension_rules": {
+        "b_equiv": "b",
+        "d_equiv": "d"
+      }
+    },
+    {
+      "case_id": "SHAPE_Y_SINGLE",
+      "condition": "shape in [\"Y\", \"Y_SINGLE\"]",
+      "description": "Mặt bằng hình chữ Y đơn",
+      "dimension_rules": {
+        "b_equiv": "b",
+        "d_equiv": "b / 1.8"
+      }
+    },
+    {
+      "case_id": "SHAPE_L",
+      "condition": "shape == \"L\"",
+      "description": "Mặt bằng hình chữ L",
+      "dimension_rules": {
+        "b_equiv": "b",
+        "d_equiv": "(d1 + d2) / 2.0"
+      }
+    },
+    {
+      "case_id": "SHAPE_Z",
+      "condition": "shape == \"Z\"",
+      "description": "Mặt bằng hình chữ Z",
+      "dimension_rules": {
+        "b_equiv": "b",
+        "d_equiv": "(d1 + d2) / 2.0"
+      }
+    }
+  ]
+}

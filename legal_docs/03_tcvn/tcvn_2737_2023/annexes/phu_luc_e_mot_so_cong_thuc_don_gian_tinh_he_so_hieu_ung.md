@@ -39,88 +39,24 @@ trong đó:
 \- c) Đối với công trình có mặt bằng hình chữ L và chữ Z: xem [Hình E.1e](#hinh-e_1e) và [Hình E.1f](#hinh-e_1f).
 
 
-<a id="hinh-e_1a"></a>
-
-<p align="center">
-
-![Hình E.1a](../figures/images/hinh_e_1a.png)
-
-</p>
-
-<p align="center"><strong>a) Mặt bằng công trình hình chữ U</strong></p>
-
-
-<a id="hinh-e_1b"></a>
-
-<p align="center">
-
-![Hình E.1b](../figures/images/hinh_e_1b.png)
-
-</p>
-
-<p align="center"><strong>b) Mặt bằng công trình hình chữ X</strong></p>
-
-
-<a id="hinh-e_1c"></a>
-
-<p align="center">
-
-![Hình E.1c](../figures/images/hinh_e_1c.png)
-
-</p>
-
-<p align="center"><strong>c) Mặt bằng công trình hình chữ Y đôi</strong></p>
-
-
-<a id="hinh-e_1d"></a>
-
-<p align="center">
-
-![Hình E.1d](../figures/images/hinh_e_1d.png)
-
-</p>
-
-**CHÚ THÍCH:** $d = \frac{b}{1{,}8}$.
-
-<p align="center"><strong>d) Mặt bằng công trình hình chữ Y đơn</strong></p>
-
-
 <a id="hinh-e_1"></a>
+
+<p align="center">
+
+![Hình E.1](../figures/images/hinh_e_1.png)
+
+</p>
 
 <p align="center"><strong>Hình E.1 — Kích thước tương đương cho một số mặt bằng phức tạp của công trình</strong></p>
 
+_CHÚ THÍCH:_
 
-<a id="hinh-e_1e"></a>
-
-<p align="center">
-
-![Hình E.1e](../figures/images/hinh_e_1e.png)
-
-</p>
-
-**CHÚ THÍCH:** $d = \frac{d_1 + d_2}{2}$.
-
-<p align="center"><strong>e) Mặt bằng công trình hình chữ L</strong></p>
-
-
-<a id="hinh-e_1f"></a>
-
-<p align="center">
-
-![Hình E.1f](../figures/images/hinh_e_1f.png)
-
-</p>
-
-**CHÚ THÍCH:** $d = \frac{d_1 + d_2}{2}$.
-
-<p align="center"><strong>f) Mặt bằng công trình hình chữ Z</strong></p>
-
-<p align="center"><strong>Hình E.1 (kết thúc)</strong></p>
+1) Mặt bằng hình chữ Y đơn (Hình E.1d): $d = \frac{b}{1{,}8}$.
+2) Mặt bằng hình chữ L (Hình E.1e) và hình chữ Z (Hình E.1f): $d = \frac{d_1 + d_2}{2}$.
 
 > [!NOTE]
 > **Đặc tả Hình học Quy đổi Mặt bằng Phức tạp (Hình E.1):**
 > \- **Mục đích:** Quy đổi mặt bằng phi chữ nhật (chữ U, X, Y đôi, Y đơn, L, Z) về kích thước tương đương $(d, b)$ của hình chữ nhật ngoại tiếp để tính diện tích đón gió và hệ số khí động.
-> \- **Công thức quy đổi kích thước tương đương $d$:**
-> &nbsp;&nbsp;+ **Mặt bằng chữ Y đơn (Hình E.1d):** $d = \frac{b}{1{,}8}$
-> &nbsp;&nbsp;+ **Mặt bằng chữ L (Hình E.1e):** $d = \frac{d_1 + d_2}{2}$
-> &nbsp;&nbsp;+ **Mặt bằng chữ Z (Hình E.1f):** $d = \frac{d_1 + d_2}{2}$
+> \- **Tham chiếu Visual Card:** [`fig_e_1_equivalent_footprint.json`](../figures/cards/fig_e_1_equivalent_footprint.json)
+> \- **Bộ giải tính toán (Python Solver):** `calc_equivalent_building_dimensions` và `calc_gust_factor_gf` trong `formulas/wind_load_tcvn2737.py`.
+

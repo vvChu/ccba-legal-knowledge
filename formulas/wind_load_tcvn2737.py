@@ -948,3 +948,167 @@ def calc_hipped_roof_ce_coefficients(
         is_compliant=True,
         compliance_message="Hệ số c_e cho mái dốc bốn phía đã được tính toán chính xác theo Bảng F.6.",
     )
+
+
+# ===========================================================================
+# 7. PHỤ LỤC E: HỆ SỐ HIỆU ỨNG GIẬT G_f VÀ KÍCH THƯỚC TƯƠNG ĐƯƠNG MẶT BẰNG PHỨC TẠP
+# ===========================================================================
+
+def calc_gust_factor_gf(
+    structure_type: str,
+    height_h: float,
+    period_T1: float = 1.2,
+) -> CalculationResult:
+    """Tính toán hệ số hiệu ứng giật G_f theo công thức đơn giản (Phụ lục E.1 TCVN 2737:2023).
+
+    Áp dụng sơ bộ cho nhà cao tầng có hình dạng đều đặn theo chiều cao,
+    chu kỳ dao động riêng cơ bản thứ nhất T1 > 1s và chiều cao h <= 150m.
+
+    Args:
+        structure_type: Loại kết cấu ('concrete' / 'be_tong_cot_thep' hoặc 'steel' / 'thep').
+        height_h: Chiều cao công trình (m).
+        period_T1: Chu kỳ dao động riêng thứ nhất T1 (s, mặc định 1.2s).
+    """
+    if height_h <= 0:
+        raise ValueError("Chiều cao công trình h phải > 0")
+
+    st_norm = structure_type.strip().lower()
+    is_concrete = any(k in st_norm for k in ["concrete", "be_tong", "btct", "reinforced"])
+    is_steel = any(k in st_norm for k in ["steel", "thep"])
+
+    if not is_concrete and not is_steel:
+        raise ValueError(f"Loại kết cấu '{structure_type}' không hợp lệ. Chọn 'concrete' (bê tông) hoặc 'steel' (thép).")
+
+    steps: list[CalculationStep] = []
+    notes: list[str] = []
+
+    steps.append(
+        CalculationStep(
+            step_number=1,
+            description="Kiểm tra phạm vi áp dụng công thức đơn giản Phụ lục E.1",
+            formula_latex=r"T_1 > 1\text{ s}, h \le 150\text{ m}",
+            substitution=f"T_1 = {period_T1:g} s, h = {height_h:g} m",
+            result_text=f"T1 = {period_T1:g}s, h = {height_h:g}m",
+        )
+    )
+
+    if height_h > 150.0:
+        notes.append(f"CẢNH BÁO: Chiều cao h = {height_h:g}m vượt quá 150m. Phụ lục E.1 chỉ cho phép tính toán sơ bộ cho h <= 150m. Cần tính toán chi tiết theo Mục 10.2.")
+
+    if period_T1 <= 1.0:
+        notes.append(f"CHÚ Ý: Chu kỳ T1 = {period_T1:g}s <= 1.0s. Công trình thuộc dạng công trình cứng, Gf có thể lấy bằng 0.85 theo quy định chung.")
+
+    if is_concrete:
+        gf = 0.8 + height_h / 1200.0
+        formula_latex = r"G_f = 0{,}8 + \frac{h}{1\,200}"
+        subst = f"G_f = 0.8 + {height_h:g} / 1200 = {gf:.4f}"
+        st_name = "Nhà bê tông cốt thép (Công thức E.1)"
+        f_id = "F_WIND_TCVN2737_E1_CONCRETE"
+    else:
+        gf = 0.85 + height_h / 800.0
+        formula_latex = r"G_f = 0{,}85 + \frac{h}{800}"
+        subst = f"G_f = 0.85 + {height_h:g} / 800 = {gf:.4f}"
+        st_name = "Nhà thép (Công thức E.2)"
+        f_id = "F_WIND_TCVN2737_E2_STEEL"
+
+    gf_rounded = round(gf, 4)
+
+    steps.append(
+        CalculationStep(
+            step_number=2,
+            description=f"Tính hệ số hiệu ứng giật G_f cho {st_name}",
+            formula_latex=formula_latex,
+            substitution=subst,
+            result_text=f"G_f = {gf_rounded:.4f}",
+        )
+    )
+
+    return CalculationResult(
+        formula_id=f_id,
+        formula_name=f"Hệ số hiệu ứng giật G_f ({st_name})",
+        standard_reference="Mục E.1, Phụ lục E TCVN 2737:2023",
+        inputs={"structure_type": structure_type, "height_h": height_h, "period_T1": period_T1},
+        outputs={"gust_factor_Gf": gf_rounded},
+        unit="",
+        primary_value=gf_rounded,
+        steps=steps,
+        notes=notes,
+        is_compliant=True,
+        compliance_message=f"Hệ số G_f = {gf_rounded:.4f} được tính toán hợp lệ theo {st_name}.",
+    )
+
+
+def calc_equivalent_building_dimensions(
+    shape: str,
+    b: float,
+    d: float = 0.0,
+    d1: float = 0.0,
+    d2: float = 0.0,
+) -> CalculationResult:
+    """Xác định kích thước tương đương (d, b) cho mặt bằng phức tạp (Phụ lục E.2 / Hình E.1).
+
+    Căn cứ: Mục E.2, Hình E.1 Phụ lục E TCVN 2737:2023.
+
+    Args:
+        shape: Dạng mặt bằng ('U', 'X', 'Y_DOUBLE', 'Y_SINGLE', 'L', 'Z').
+        b: Bề rộng đón gió tổng thể của hình chữ nhật ngoại tiếp (m).
+        d: Chiều sâu tổng thể dọc hướng gió cho dạng U, X (m).
+        d1: Chiều sâu nhánh 1 cho dạng L, Z (m).
+        d2: Chiều sâu nhánh 2 cho dạng L, Z (m).
+    """
+    if b <= 0:
+        raise ValueError("Bề rộng đón gió b phải > 0")
+
+    sh_norm = shape.strip().upper().replace(" ", "_")
+    steps: list[CalculationStep] = []
+    notes: list[str] = []
+
+    if sh_norm in ("U", "X", "Y_DOUBLE"):
+        d_equiv = d if d > 0 else b
+        formula_latex = r"d = d, b = b"
+        subst = f"d = {d_equiv:g} m, b = {b:g} m"
+        desc = f"Mặt bằng hình chữ {sh_norm} (Hình E.1a/b/c)"
+        notes.append("Kích thước tương đương lấy bằng kích thước hình chữ nhật ngoại tiếp.")
+    elif sh_norm in ("Y", "Y_SINGLE", "Y_DON"):
+        d_equiv = round(b / 1.8, 3)
+        formula_latex = r"d = \frac{b}{1{,}8}"
+        subst = f"d = {b:g} / 1.8 = {d_equiv:g} m"
+        desc = "Mặt bằng hình chữ Y đơn (Hình E.1d)"
+        notes.append("CHÚ THÍCH Hình E.1d: d = b / 1.8.")
+    elif sh_norm in ("L", "Z"):
+        if d1 <= 0 or d2 <= 0:
+            raise ValueError(f"Dạng mặt bằng chữ {sh_norm} yêu cầu cung cấp d1 > 0 và d2 > 0.")
+        d_equiv = round((d1 + d2) / 2.0, 3)
+        formula_latex = r"d = \frac{d_1 + d_2}{2}"
+        subst = f"d = ({d1:g} + {d2:g}) / 2 = {d_equiv:g} m"
+        desc = f"Mặt bằng hình chữ {sh_norm} (Hình E.1e/f)"
+        notes.append(f"CHÚ THÍCH Hình E.1{sh_norm.lower()}: d = (d1 + d2) / 2.")
+    else:
+        raise ValueError(f"Dạng mặt bằng '{shape}' không được hỗ trợ. Chọn U, X, Y_DOUBLE, Y_SINGLE, L, Z.")
+
+    b_equiv = b
+
+    steps.append(
+        CalculationStep(
+            step_number=1,
+            description=f"Quy đổi kích thước tương đương cho {desc}",
+            formula_latex=formula_latex,
+            substitution=subst,
+            result_text=f"d_equiv = {d_equiv:g} m, b_equiv = {b_equiv:g} m",
+        )
+    )
+
+    return CalculationResult(
+        formula_id="F_WIND_TCVN2737_E_EQUIV_DIM",
+        formula_name=f"Kích thước tương đương cho {desc}",
+        standard_reference="Mục E.2, Hình E.1 Phụ lục E TCVN 2737:2023",
+        inputs={"shape": shape, "b": b, "d": d, "d1": d1, "d2": d2},
+        outputs={"b_equiv": b_equiv, "d_equiv": d_equiv},
+        unit="m",
+        primary_value=d_equiv,
+        steps=steps,
+        notes=notes,
+        is_compliant=True,
+        compliance_message=f"Đã xác định kích thước tương đương d = {d_equiv:g}m, b = {b_equiv:g}m cho mặt bằng {desc}.",
+    )
+

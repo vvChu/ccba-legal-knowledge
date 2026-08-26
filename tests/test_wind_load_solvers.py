@@ -11,7 +11,9 @@ from formulas import (
     SymbolicFormulaSolver,
     VisualCardEngine,
     calc_duopitch_roof_ce_coefficients,
+    calc_equivalent_building_dimensions,
     calc_freestanding_wall_aerodynamic_coeff,
+    calc_gust_factor_gf,
 )
 
 
@@ -330,11 +332,95 @@ class TestHippedRoofSolvers:
 
 
 class TestExtendedVisualCards:
-    """Kiểm tra nạp toàn bộ 6 Visual Cards."""
+    """Kiểm tra nạp toàn bộ các Visual Cards."""
 
-    def test_all_6_cards_present(self) -> None:
+    def test_all_cards_present(self) -> None:
         cards = VisualCardEngine.list_cards()
-        assert len(cards) >= 6
-        expected_ids = {"FIG_TCVN2737_F1", "FIG_TCVN2737_F3", "FIG_TCVN2737_F4", "FIG_TCVN2737_F5A", "FIG_TCVN2737_F6", "FIG_TCVN2737_F7"}
+        assert len(cards) >= 7
+        expected_ids = {
+            "FIG_TCVN2737_E1",
+            "FIG_TCVN2737_F1",
+            "FIG_TCVN2737_F3",
+            "FIG_TCVN2737_F4",
+            "FIG_TCVN2737_F5A",
+            "FIG_TCVN2737_F6",
+            "FIG_TCVN2737_F7",
+        }
         found_ids = {c["card_id"] for c in cards}
         assert expected_ids.issubset(found_ids)
+
+
+class TestGustFactorSolvers:
+    """Kiểm tra tính toán hệ số hiệu ứng giật G_f theo Phụ lục E.1 TCVN 2737:2023."""
+
+    def test_concrete_building_h_60m(self) -> None:
+        """Nhà BTCT h=60m, T1=1.2s -> Gf = 0.8 + 60/1200 = 0.85."""
+        res = calc_gust_factor_gf(structure_type="concrete", height_h=60.0, period_T1=1.2)
+        assert res.primary_value == 0.85
+        assert res.outputs["gust_factor_Gf"] == 0.85
+        assert res.is_compliant is True
+
+    def test_concrete_building_h_120m(self) -> None:
+        """Nhà BTCT h=120m -> Gf = 0.8 + 120/1200 = 0.90."""
+        res = calc_gust_factor_gf(structure_type="be_tong_cot_thep", height_h=120.0)
+        assert res.primary_value == 0.90
+
+    def test_steel_building_h_80m(self) -> None:
+        """Nhà thép h=80m -> Gf = 0.85 + 80/800 = 0.95."""
+        res = calc_gust_factor_gf(structure_type="steel", height_h=80.0)
+        assert res.primary_value == 0.95
+
+    def test_steel_building_h_40m(self) -> None:
+        """Nhà thép h=40m -> Gf = 0.85 + 40/800 = 0.90."""
+        res = calc_gust_factor_gf(structure_type="thep", height_h=40.0)
+        assert res.primary_value == 0.90
+
+    def test_gust_factor_height_warning_above_150m(self) -> None:
+        """Nhà cao h=180m vượt quá 150m -> cảnh báo trong notes."""
+        res = calc_gust_factor_gf(structure_type="concrete", height_h=180.0)
+        assert any("150m" in n for n in res.notes)
+
+    def test_gust_factor_invalid_inputs(self) -> None:
+        """Kiểm tra bắt lỗi đầu vào không hợp lệ."""
+        with pytest.raises(ValueError, match="h phải > 0"):
+            calc_gust_factor_gf(structure_type="concrete", height_h=-10.0)
+
+        with pytest.raises(ValueError, match="không hợp lệ"):
+            calc_gust_factor_gf(structure_type="wood", height_h=50.0)
+
+
+class TestEquivalentDimensionsSolvers:
+    """Kiểm tra quy đổi kích thước tương đương cho mặt bằng phức tạp (Phụ lục E.2 / Hình E.1)."""
+
+    def test_shape_u_and_x(self) -> None:
+        """Mặt bằng chữ U: b=30m, d=40m -> d_equiv=40m, b_equiv=30m."""
+        res = calc_equivalent_building_dimensions(shape="U", b=30.0, d=40.0)
+        assert res.outputs["b_equiv"] == 30.0
+        assert res.outputs["d_equiv"] == 40.0
+
+    def test_shape_y_single(self) -> None:
+        """Mặt bằng chữ Y đơn: b=36m -> d_equiv = 36 / 1.8 = 20.0m."""
+        res = calc_equivalent_building_dimensions(shape="Y_SINGLE", b=36.0)
+        assert res.outputs["d_equiv"] == 20.0
+        assert res.outputs["b_equiv"] == 36.0
+
+    def test_shape_l(self) -> None:
+        """Mặt bằng chữ L: b=50m, d1=20m, d2=40m -> d_equiv = (20 + 40)/2 = 30.0m."""
+        res = calc_equivalent_building_dimensions(shape="L", b=50.0, d1=20.0, d2=40.0)
+        assert res.outputs["d_equiv"] == 30.0
+        assert res.outputs["b_equiv"] == 50.0
+
+    def test_shape_z(self) -> None:
+        """Mặt bằng chữ Z: b=40m, d1=15m, d2=25m -> d_equiv = (15 + 25)/2 = 20.0m."""
+        res = calc_equivalent_building_dimensions(shape="Z", b=40.0, d1=15.0, d2=25.0)
+        assert res.outputs["d_equiv"] == 20.0
+        assert res.outputs["b_equiv"] == 40.0
+
+    def test_solver_facade_integration(self) -> None:
+        """Kiểm tra gọi qua Master Solver Facade."""
+        res_gf = SymbolicFormulaSolver.solve("F_WIND_TCVN2737_E_GUST_FACTOR", {"structure_type": "concrete", "height_h": 60.0})
+        assert res_gf.primary_value == 0.85
+
+        res_dim = SymbolicFormulaSolver.solve("F_WIND_TCVN2737_E_EQUIV_DIM", {"shape": "Y", "b": 36.0})
+        assert res_dim.outputs["d_equiv"] == 20.0
+

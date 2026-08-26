@@ -32,10 +32,10 @@ Xây dựng công cụ CLI tự động hóa cho Spoke/Platform (`scripts/modern
 
 **Bị chặn bởi:** `Ticket 1`.
 
-- [ ] Phụ lục E đạt Visual Parity $100\%$ với bố cục căn giữa hoàn hảo.
-- [ ] Visual Card `fig_e_1_gust_factor.json` nạp và tính toán tham số $G_f$ thành công.
-- [ ] Solver `calc_gust_factor_gf` vượt qua $100\%$ test cases kiểm chuẩn.
-- [ ] Vượt qua 10 Cổng Master CI Gate.
+- [x] Phụ lục E đạt Visual Parity $100\%$ với bố cục căn giữa hoàn hảo.
+- [x] Visual Card `fig_e_1_equivalent_footprint.json` nạp và tính toán tham số thành công.
+- [x] Solver `calc_gust_factor_gf` & `calc_equivalent_building_dimensions` vượt qua $100\%$ test cases kiểm chuẩn.
+- [x] Vượt qua 10 Cổng Master CI Gate.
 
 ---
 
