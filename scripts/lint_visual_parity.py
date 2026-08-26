@@ -1,39 +1,22 @@
 """Visual Parity Linter for CCBA Legal Knowledge Spoke (ADR 0029 & ADR 0030).
 
-Enforces zero-tolerance on visual clutter and formatting regressions across all Markdown documents:
-1. No redundant bullets before CHÚ THÍCH / GHI CHÚ (- **CHÚ THÍCH:)
-2. No raw HTML table tags (<table>, <tr>, <td>)
+Enforces zero-tolerance on visual clutter and formatting regressions across all Markdown documents
+by delegating to Hub Deep Seam `ccba_legal.visual_parity`.
 """
 
 from __future__ import annotations
 
-import re
 import sys
 from pathlib import Path
 
+# Enforce UTF-8 output encoding for Windows PowerShell
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
-
-def lint_document(md_path: Path) -> list[str]:
-    """Lint a single Markdown file for visual formatting issues."""
-    errors = []
-    text = md_path.read_text(encoding="utf-8")
-    lines = text.splitlines()
-
-    for idx, line in enumerate(lines, 1):
-        stripped = line.strip()
-
-        # 1. Check redundant bullet before CHÚ THÍCH / GHI CHÚ
-        if re.match(r"^[-*+]\s+(?:\*\*)?(?:CHÚ THÍCH|GHI CHÚ|Chú thích|Ghi chú)\s*\d*[:\.]?", stripped):
-            if re.search(r"^[-*+]\s+(?:\*\*)?CHÚ THÍCH\s+\d+:", stripped):
-                errors.append(f"Line {idx}: Redundant bullet before footnote header: '{stripped}'")
-
-        # 2. Check raw HTML table tags
-        if re.search(r"<(?:table|thead|tbody|tr|th|td)\b", stripped, re.IGNORECASE):
-            errors.append(f"Line {idx}: Unclean raw HTML table tag found: '{stripped}'")
-
-    return errors
+try:
+    from ccba_legal import lint_document
+except ImportError:
+    from ccba_legal.visual_parity import lint_document
 
 
 def main() -> int:

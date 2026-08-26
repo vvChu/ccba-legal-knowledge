@@ -128,3 +128,14 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
 - **Thẻ thị giác (Visual Cards JSON - `figures/cards/`):** Khai báo quy tắc phân vùng kích thước hình học (`e = min(b, 2h)`) và cây quyết định rẽ nhánh theo schema `visual_card_v1.json`.
 - **Bộ giải số học xác định (Deterministic Solvers Python - `formulas/`):** Đóng gói thành các hàm thuần túy (`pure functions`) xử lý nội suy, tách kịch bản tải trọng độc lập và xuất báo cáo thuyết minh thế số từng bước (`CalculationResult.format_text_report()`).
 - **Facade Master (`SymbolicFormulaSolver`):** Quản lý tập trung các công thức quy chuẩn và kết nối trực tiếp với quy trình kiểm tra tự động mô hình BIM (IFC).
+
+---
+
+## 10. R&D Graduation Ratification: Figure Extractor & Visual Parity Seams (2026-08-26)
+
+- **Thành quả Tốt nghiệp R&D:**
+  1. **Centered Figure Extraction Seam (`ccba_legal.figure_extractor`):** Hợp nhất chuẩn thẻ hình ảnh kỹ thuật căn giữa `<p align="center">...<p>` vào Deep Seam `figure_extractor.py` và xuất khẩu `extract_technical_figures`, `render_markdown_figure_card` qua `__init__.py`.
+  2. **Unified Visual Parity Seam (`ccba_legal.visual_parity`):** Tích hợp toàn diện 8 quy tắc kiểm định thị giác (bao gồm chặn footnote bullet thừa `- **CHÚ THÍCH:` và cấm raw HTML `<table>`) vào `VisualParityAuditor` và hàm `lint_document`.
+  3. **Zero-Wrapper Spoke CI Gate:** Tái cấu trúc `scripts/lint_visual_parity.py` và `scripts/check_hub_import_depth.py` để kế thừa trực tiếp từ Hub `ccba_legal`, bảo toàn $100\%$ Shallow Import (ADR 0030 / Hub Shallow Seam Contract) và đạt $10/10$ Cổng Master CI Gate với $0$ Errors, $0$ Warnings.
+  4. **Ground Truth Test Harness:** Bổ sung `test_figure_extractor.py` và cập nhật `test_visual_parity.py` trong Hub `ccba-legal-intel/tests/`, nâng tổng số test cases của Hub lên **150 passed (100%)**.
+
