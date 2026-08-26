@@ -238,37 +238,13 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 **F.4.2.3**  Đối với mái trơn dài khi góc hướng gió $\theta = 90^\circ$ ([Hình F.6c](#hinh-f_6)) thì hệ số khí động ma sát $c_f = 0{,}02$.
 
-<p align="center">
-
-![image56.png](../figures/images/image56.png)
-
-</p>
-
-<p align="center"><strong>a) Sơ đồ chung</strong></p>
-
-<p align="center">
-
-![image57.png](../figures/images/image57.png)
-
-</p>
-
-<p align="center"><strong>b) Góc hướng gió θ = 0°          e = min (b; 2h)</strong></p>
-
-<p align="center">
-
-![image58.png](../figures/images/image58.png)
-
-</p>
-
-<p align="center"><strong>c) Góc hướng gió θ = 90°</strong></p>
-
-**CHÚ DẪN:**
-
-1 - Phía đón gió;
-
-2 - Phía hút gió.
-
 <a id="hinh-f_6"></a>
+
+<p align="center">
+
+![Hình F.6](../figures/images/hinh_f_6.png)
+
+</p>
 
 <p align="center"><strong>Hình F.6 — Mái dốc hai phía của nhà có mặt bằng chữ nhật</strong></p>
 
@@ -364,25 +340,15 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 **F.6.3**  Khi xác định độ cao tương đương ze theo 10.2.4: h = h1 + 0,7f.
 
-<p align="center">
-
-![image62.png](../figures/images/image62.png)
-
-</p>
-
-<p align="center">
-
-![image63.png](../figures/images/image63.png)
-
-</p>
-
-CHÚ THÍCH 1: Khi 0 < h1/d < 0,5 thì ce1 có thể được xác định bằng nội suy tuyến tính.
-
-CHÚ THÍCH 2: Khi 0,2 < f/d ≤ 0,3 và h1/d ≥ 0,5 thì phải xét hai giá trị của hệ số khí động ce cho vùng A.
-
 <a id="hinh-f_8"></a>
 
-<p align="center"><strong>Hình F.8 — Phân bố hệ số khí động ce trên bề mặt mái vòm và mái gần giống vòm</strong></p>
+<p align="center">
+
+![Hình F.8](../figures/images/hinh_f_8.png)
+
+</p>
+
+<p align="center"><strong>Hình F.8 — Phân bố hệ số khí động $c_e$ trên bề mặt mái vòm và mái gần giống vòm</strong></p>
 
 ### F.7  Công trình mặt bằng tròn có mái chỏm cầu và mái nón
 
@@ -390,21 +356,15 @@ CHÚ THÍCH 2: Khi 0,2 < f/d ≤ 0,3 và h1/d ≥ 0,5 thì phải xét hai giá 
 
 **F.7.1**  Đối với mái chỏm cầu (xem Hình F.9a), giá trị hệ số khí động áp lực ngoài ce lấy không đổi dọc theo các tiết diện song song với B-B. Các giá trị của hệ số $c_e$ tại các vị trí A và C, cũng như tại tiết diện B-B được thể hiện trên Hình F.9a. Đối với các tiết diện trung gian, hệ số $c_e$ được xác định bằng nội suy tuyến tính.
 
-<p align="center">
-
-![image64.png](../figures/images/image64.png)
-
-</p>
-
-<p align="center">
-
-![image65.png](../figures/images/image65.png)
-
-</p>
-
 <a id="hinh-f_9a"></a>
 
-<p align="center"><strong>Hình F.9a — Mái chòm cầu</strong></p>
+<p align="center">
+
+![Hình F.9a](../figures/images/hinh_f_9a.png)
+
+</p>
+
+<p align="center"><strong>Hình F.9a — Mái chỏm cầu</strong></p>
 
 <a id="muc-f-7-2"></a>
 
@@ -422,12 +382,13 @@ CHÚ THÍCH 2: Khi 0,2 < f/d ≤ 0,3 và h1/d ≥ 0,5 thì phải xét hai giá 
 
 <a id="bang-bang-f-7"></a>
 
-**Bảng F.7 — Hệ số khí động áp lực ngoài ce cho mái nón**
+<a id="bang-bang-f-7"></a>
 
-| Vùng |
-| :---: |
-| A |
-| - 1,5 |
+**Bảng F.7 — Hệ số khí động áp lực ngoài $c_e$ cho mái nón**
+
+| Vùng A | Vùng B | Vùng C | Vùng D | Vùng E |
+| :---: | :---: | :---: | :---: | :---: |
+| - 1,5 | - 1,0 | - 1,1 | - 2,0 | - 0,7 |
 
 <a id="muc-f-7-3"></a>
 
@@ -462,23 +423,13 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 **F.8.5**  Khi xác định độ cao tương đương ze theo 10.2.4: h = h1.
 
-<p align="center">
-
-![Hình F.10a](../figures/images/image67.png)
-
-</p>
-
-<p align="center"><strong>a) Nhà có cửa trời dọc nhà</strong></p>
-
-<p align="center">
-
-![Hình F.10b](../figures/images/image68.png)
-
-</p>
-
-<p align="center"><strong>b) Nhà có chiều cao thay đổi</strong></p>
-
 <a id="hinh-f_10"></a>
+
+<p align="center">
+
+![Hình F.10](../figures/images/hinh_f_10.png)
+
+</p>
 
 <p align="center"><strong>Hình F.10 — Nhà có cửa trời dọc nhà và nhà có chiều cao thay đổi</strong></p>
 
@@ -552,13 +503,13 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 **F.11.1**  Hệ số ce cho tường và mái của nhà có góc lõm (Hình F.13) được nêu trong Bảng F.8.
 
+<a id="hinh-f_13"></a>
+
 <p align="center">
 
-![image71.png](../figures/images/image71.png)
+![Hình F.13](../figures/images/hinh_f_13.png)
 
 </p>
-
-<a id="hinh-f_13"></a>
 
 <p align="center"><strong>Hình F.13 — Mặt bằng của nhà có góc lõm</strong></p>
 
@@ -589,62 +540,56 @@ Khi μ ≥ 30 %: ci1 = - 0,5; ci2 = 0,8.
 
 <a id="muc-f-12-3"></a>
 
-**F.12.3**  Các hệ số khí động ce cho mặt ngoài cần được lấy theo F.2 đến F.10.
-
-<p align="center">
-
-![image72.png](../figures/images/image72.png)
-
-</p>
-
-<p align="center">
-
-![image73.png](../figures/images/image73.png)
-
-</p>
+**F.12.3**  Các hệ số khí động $c_e$ cho mặt ngoài cần được lấy theo F.2 đến F.10.
 
 <a id="hinh-f_14"></a>
+
+<p align="center">
+
+![Hình F.14](../figures/images/hinh_f_14.png)
+
+</p>
 
 <p align="center"><strong>Hình F.14 — Các hệ số khí động có xét đến áp lực trong</strong></p>
 
 ### F.13  Mái che
 
-Hệ số khí động ce của bốn loại mái che (Hình F.15) với kết cấu đỡ (ví dụ: cột, trụ) không có tấm chắn đứng đặc được xác định theo Bảng F.9.
+Hệ số khí động $c_e$ của bốn loại mái che ([Hình F.15](#hinh-f_15)) với kết cấu đỡ (ví dụ: cột, trụ) không có tấm chắn đứng đặc được xác định theo [Bảng F.9](#bang-bang-f-9).
+
+<a id="hinh-f_15"></a>
 
 <p align="center">
 
-![image74.png](../figures/images/image74.png)
+![Hình F.15](../figures/images/hinh_f_15.png)
 
 </p>
-
-**CHÚ DẪN:**
-
-1 - Kết cấu đỡ không có tấm chắn đứng đặc.
-
-<a id="hinh-f_15"></a>
 
 <p align="center"><strong>Hình F.15 — Các sơ đồ phân bố hệ số $c_e$ cho mái che</strong></p>
 
 <a id="bang-bang-f-9"></a>
 
-**Bảng F.9 — Hệ số ce cho mái che**
+<a id="bang-bang-f-9"></a>
 
-| Loại sơ đồ | α,° | Giá trị ce |
-| :---: | :--- | :--- |
-| Loại sơ đồ | α,° | ce1 |
-| I | 10 | 0,5 |
-| I | 20 | 1,1 |
-| I | 30 | 2,1 |
-| II | 10 | 0,0 |
-| II | 20 | 1,5 |
-| II | 30 | 2,0 |
-| III | 10 | 1,4 |
-| III | 20 | 1,8 |
-| III | 30 | 2,2 |
-| IV | 10 | 1,3 |
-| IV | 20 | 1,4 |
-| IV | 30 | 1,6 |
-| CHÚ THÍCH 1: Đối với các giá trị âm của ce1, ce2, ce3, ce4, hướng áp lực trên các sơ đồ cần được thay thế ngược lại.<br>CHÚ THÍCH 2: Đối với mái che lượn sóng, hệ số khí động ma sát cf = 0,04.<br>CHÚ THÍCH 3: Đối với mái che nằm ngang, phải xét hai phương án chất tải ứng với các sơ đồ III và IV với α = 10°. |  |  |
+**Bảng F.9 — Hệ số $c_e$ cho mái che**
+
+| Loại sơ đồ | Góc dốc $\alpha$ (°) | $c_{e1}$ | $c_{e2}$ | $c_{e3}$ | $c_{e4}$ |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| I | 10 | 0,5 | - 1,3 | - 1,1 | 0,0 |
+| I | 20 | 1,1 | 0,0 | 0,0 | - 0,4 |
+| I | 30 | 2,1 | 0,9 | 0,6 | 0,0 |
+| II | 10 | 0,0 | - 1,1 | - 1,5 | 0,0 |
+| II | 20 | 1,5 | 0,5 | 0,0 | 0,0 |
+| II | 30 | 2,0 | 0,8 | 0,4 | 0,4 |
+| III | 10 | 1,4 | 0,4 | — | — |
+| III | 20 | 1,8 | 0,5 | — | — |
+| III | 30 | 2,2 | 0,6 | — | — |
+| IV | 10 | 1,3 | 0,2 | — | — |
+| IV | 20 | 1,4 | 0,3 | — | — |
+| IV | 30 | 1,6 | 0,4 | — | — |
+
+**CHÚ THÍCH 1:** Đối với các giá trị âm của $c_{e1}, c_{e2}, c_{e3}, c_{e4}$, hướng áp lực trên các sơ đồ cần được thay thế ngược lại.  
+**CHÚ THÍCH 2:** Đối với mái che lượn sóng, hệ số khí động ma sát $c_f = 0{,}04$.  
+**CHÚ THÍCH 3:** Đối với mái che nằm ngang, phải xét hai phương án chất tải ứng với các sơ đồ III và IV với $\alpha = 10^\circ$.
 
 ### F.14  Khối cầu
 
@@ -654,25 +599,25 @@ Hệ số khí động ce của bốn loại mái che (Hình F.15) với kết c
 
 Khi zg < d/2, hệ số $c_x$ cần được tăng lên 1,6 lần.
 
+<a id="hinh-f_16"></a>
+
 <p align="center">
 
-![image75.png](../figures/images/image75.png)
+![Hình F.16](../figures/images/image77.png)
 
 </p>
-
-<a id="hinh-f_16"></a>
 
 <p align="center"><strong>Hình F.16 — Khối cầu</strong></p>
 
+<a id="hinh-f_17"></a>
+
 <p align="center">
 
-![image76.png](../figures/images/image76.png)
+![Hình F.17](../figures/images/image78.png)
 
 </p>
 
-<a id="hinh-f_17"></a>
-
-<p align="center"><strong>Hình F.17 — Hệ số khí động cản chính diện cx của khối cầu</strong></p>
+<p align="center"><strong>Hình F.17 — Hệ số khí động cản chính diện $c_x$ của khối cầu</strong></p>
 
 <a id="muc-f-14-2"></a>
 
@@ -688,15 +633,11 @@ khi zg < d/2: cz = 0,6.
 
 <a id="muc-f-14-4"></a>
 
-**F.14.4**  Số Reynold Re được xác định theo công thức:
+<a id="muc-f-14-4"></a>
 
-<p align="center">
+**F.14.4**  Số Reynold $Re$ được xác định theo công thức:
 
-![image77.png](../figures/images/image77.png)
-
-</p>
-
-<p align="center"><em>(F.1)</em></p>
+$$Re = \frac{V(z_e)_{3600\text{s}, 50} \cdot d}{\nu} \tag{F.1}$$
 
 trong đó:
 
@@ -704,29 +645,15 @@ d là đường kính khối cầu, tính bằng mét (m);
 
 v là độ nhớt động học, lấy bằng 0,145 x 10-4 m2/s;
 
-V(ze)3 600s,50 là vận tốc gió trung bình trong khoảng thời gian 3 600 s ứng với chu kỳ lặp 50 năm, tại độ cao tương đương ze, tính theo công thức:
+$V(z_e)_{3600\text{s}, 50}$ là vận tốc gió trung bình trong khoảng thời gian 3 600 s ứng với chu kỳ lặp 50 năm, tại độ cao tương đương $z_e$, tính theo công thức:
 
-<p align="center">
-
-![image78.png](../figures/images/image78.png)
-
-</p>
-
-<p align="center"><em>(F.2)</em></p>
+$$V(z_e)_{3600\text{s}, 50} = 0{,}68 \cdot V_{3\text{s}, 50} \cdot \left(\frac{z_e}{10}\right)^{\bar{\alpha}} \tag{F.2}$$
 
 với:
 
-V(ze)3 600s,50 tính bằng mét trên giây (m/s);
-
-V3s,50 là vận tốc gió 3s (lấy trung bình trong khoảng thời gian 3 s) ứng với chu kỳ lặp 50 năm, lấy theo [1];
-
-<p align="center">
-
-![image25.jpeg](../figures/images/image25.jpeg)
-
-</p>
-
-và ᾱ lấy theo Bảng 10;
+- $V(z_e)_{3600\text{s}, 50}$ tính bằng mét trên giây (m/s);
+- $V_{3\text{s}, 50}$ là vận tốc gió 3 s ứng với chu kỳ lặp 50 năm, lấy theo [1];
+- $0{,}68$ và $\bar{\alpha}$ lấy theo Bảng 10;
 
 ze là độ cao tương đương, tính bằng mét (m).
 
@@ -960,17 +887,18 @@ Ac là diện tích bao của kết cấu: Ac = L · h (xem thêm F.17.5).
 
 <a id="bang-bang-f-13"></a>
 
-**Bảng F.13 — Hệ số η**
+<a id="bang-bang-f-13"></a>
 
-| φ | b/h |
-| :---: | :--- |
-| φ | 1/2 |
-| 0,1 | 0,93 |
-| 0,2 | 0,75 |
-| 0,3 | 0,56 |
-| 0,4 | 0,38 |
-| 0,5 | 0,19 |
-| ≥ 0,6 | 0,00 |
+**Bảng F.13 — Hệ số $\eta$**
+
+| Hệ số đặc $\varphi$ | $b/h = 1/2$ | $b/h = 1$ | $b/h = 2$ | $b/h = 4$ | $b/h = 6$ |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 0,1 | 0,93 | 0,99 | 1,00 | 1,00 | 1,00 |
+| 0,2 | 0,75 | 0,81 | 0,87 | 0,90 | 0,93 |
+| 0,3 | 0,56 | 0,65 | 0,73 | 0,78 | 0,83 |
+| 0,4 | 0,38 | 0,48 | 0,59 | 0,65 | 0,72 |
+| 0,5 | 0,19 | 0,32 | 0,44 | 0,52 | 0,61 |
+| $\ge 0{,}6$ | 0,00 | 0,15 | 0,30 | 0,40 | 0,50 |
 
 Đối với giàn làm bằng ống khi $Re \ge 4 \cdot 10^5$, hệ số $\eta$ = 0,95.
 
@@ -1005,27 +933,23 @@ k1 là hệ số, lấy theo Bảng F.14.
 
 <a id="bang-bang-f-14"></a>
 
-**Bảng F.14 — Hệ số k1**
+<a id="bang-bang-f-14"></a>
 
-| Dạng đường bao tiết diện ngang và hướng gió | Giá trị k1 |
-| :---: | :--- |
-|  | 1,0 |
-|  | 0,9 |
-|  | 1,2 |
+**Bảng F.14 — Hệ số $k_1$**
+
+| Dạng đường bao tiết diện ngang và hướng gió | Giá trị $k_1$ |
+| :--- | :---: |
+| Tháp/giàn tiết diện vuông — Hướng gió vuông góc mặt bên | 1,0 |
+| Tháp/giàn tiết diện vuông — Hướng gió theo đường chéo góc | 0,9 |
+| Tháp/giàn tiết diện tam giác đều — Hướng gió bất kỳ | 1,2 |
 
 <a id="muc-f-17-5"></a>
 
 **F.17.5**  Hệ số đặc của kết cấu
 
-Hệ số đặc của kết cấu φ được xác định theo công thức:
+Hệ số đặc của kết cấu $\varphi$ được xác định theo công thức:
 
-<p align="center">
-
-![image92.png](../figures/images/image92.png)
-
-</p>
-
-<p align="center"><em>(F.9)</em></p>
+$$\varphi = \frac{\sum A_i}{A_c} \tag{F.9}$$
 
 trong đó:
 
@@ -1059,12 +983,19 @@ Giá trị hệ số $k_\lambda$ phụ thuộc vào độ mảnh hiệu dụng $
 
 <a id="bang-bang-f-15"></a>
 
-**Bảng F.15 — Độ mảnh hiệu dụng λe**
+<a id="bang-bang-f-15"></a>
 
-| λe = λ/2 | λe = λ | λe = 2λ | λe = ∞ |
-| :---: | :--- | :--- | :--- |
-|  |  |  |  |
-| Các ký hiệu trong Bảng F.15:<br>L, b tương ứng là kích thước lớn nhất và nhỏ nhất của công trình hoặc cấu kiện của nó trong mặt phẳng vuông góc với hướng gió. |  |  |  |
+**Bảng F.15 — Độ mảnh hiệu dụng $\lambda_e$**
+
+| Sơ đồ cấu tạo và vị trí của công trình trong không gian | Độ mảnh hiệu dụng $\lambda_e$ |
+| :--- | :---: |
+| Công trình tự do 2 đầu (hoặc hở 2 đầu dòng khí) | $\lambda_e = \lambda / 2$ |
+| Công trình có một đầu tự do, một đầu tựa sát mặt đất hoặc mặt phẳng ngăn | $\lambda_e = \lambda$ |
+| Công trình có hai đầu tựa sát mặt đất hoặc hai mặt phẳng ngăn | $\lambda_e = 2\lambda$ |
+| Công trình dài vô hạn hoặc liên tục | $\lambda_e = \infty$ |
+
+**Các ký hiệu trong Bảng F.15:**  
+$L, b$ tương ứng là kích thước lớn nhất và nhỏ nhất của công trình hoặc cấu kiện của nó trong mặt phẳng vuông góc với hướng gió; $\lambda = L/b$.
 
 ### F.19  Xét đến độ nhám bề mặt ngoài
 
@@ -1076,7 +1007,7 @@ Tùy theo sự gia công bề mặt kết cấu và vật liệu dùng để ch�
 
 Đơn vị tính bằng mét
 
-| Loại bề mặt | Độ nhám A |
+| Loại bề mặt | Độ nhám $\Delta$ (m) |
 | :---: | :--- |
 | 1. Kính | 1,5·10-6 |
 | 2. Vật liệu được đánh bóng | 2·10-6 |
