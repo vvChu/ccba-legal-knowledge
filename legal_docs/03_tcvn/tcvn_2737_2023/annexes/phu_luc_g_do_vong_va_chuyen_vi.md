@@ -16,9 +16,9 @@
 
 **G.1.3**  Khi xác định độ võng ngang của cột nhà một tầng và của trụ cầu cạn do tải trọng ngang của cần trục cần chọn sơ đồ tính của cột (trụ) có kể đến điều kiện liên kết với giả thiết:
 
-- Cột nhà và trụ các cầu cạn trong nhà không có dịch chuyển ngang ở cao độ gối tựa trên cùng (nếu sàn mái không tạo thành tấm cứng trong mặt phẳng ngang, cần kể đến độ mềm dẻo theo phương ngang của gối tựa này);
+&nbsp;&nbsp;&nbsp;&nbsp;\- Cột nhà và trụ các cầu cạn trong nhà không có dịch chuyển ngang ở cao độ gối tựa trên cùng (nếu sàn mái không tạo thành tấm cứng trong mặt phẳng ngang, cần kể đến độ mềm dẻo theo phương ngang của gối tựa này);
 
-- Trụ các cầu cạn ngoài trời được coi như công xôn.
+&nbsp;&nbsp;&nbsp;&nbsp;\- Trụ các cầu cạn ngoài trời được coi như công xôn.
 
 <a id="muc-g-1-4"></a>
 

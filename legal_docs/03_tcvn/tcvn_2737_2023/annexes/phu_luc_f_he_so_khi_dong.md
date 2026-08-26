@@ -59,7 +59,7 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 <p align="center">
 
-![image48.png](../figures/images/image48.png)
+![hinh_f_2](../figures/images/hinh_f_2.png)
 
 </p>
 
@@ -188,7 +188,7 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 <p align="center">
 
-![image54.png](../figures/images/image54.png)
+![hinh_f_5a](../figures/images/hinh_f_5a.png)
 
 </p>
 
@@ -198,7 +198,7 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 <p align="center">
 
-![image55.png](../figures/images/image55.png)
+![hinh_f_5b](../figures/images/hinh_f_5b.png)
 
 </p>
 
@@ -372,7 +372,7 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 <p align="center">
 
-![image66.png](../figures/images/image66.png)
+![hinh_f_9b](../figures/images/hinh_f_9b.png)
 
 </p>
 
@@ -457,7 +457,7 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 <p align="center">
 
-![image69.png](../figures/images/image69.png)
+![hinh_f_11](../figures/images/hinh_f_11.png)
 
 </p>
 
@@ -489,7 +489,7 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 <p align="center">
 
-![image70.png](../figures/images/image70.png)
+![hinh_f_12](../figures/images/hinh_f_12.png)
 
 </p>
 
@@ -603,7 +603,7 @@ Khi zg < d/2, hệ số $c_x$ cần được tăng lên 1,6 lần.
 
 <p align="center">
 
-![Hình F.16](../figures/images/image77.png)
+![Hình F.16](../figures/images/hinh_f_16.png)
 
 </p>
 
@@ -613,7 +613,7 @@ Khi zg < d/2, hệ số $c_x$ cần được tăng lên 1,6 lần.
 
 <p align="center">
 
-![Hình F.17](../figures/images/image78.png)
+![Hình F.17](../figures/images/hinh_f_17.png)
 
 </p>
 
@@ -651,9 +651,9 @@ $$V(z_e)_{3600\text{s}, 50} = 0{,}68 \cdot V_{3\text{s}, 50} \cdot \left(\frac{z
 
 với:
 
-- $V(z_e)_{3600\text{s}, 50}$ tính bằng mét trên giây (m/s);
-- $V_{3\text{s}, 50}$ là vận tốc gió 3 s ứng với chu kỳ lặp 50 năm, lấy theo [1];
-- $0{,}68$ và $\bar{\alpha}$ lấy theo Bảng 10;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $V(z_e)_{3600\text{s}, 50}$ tính bằng mét trên giây (m/s);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $V_{3\text{s}, 50}$ là vận tốc gió 3 s ứng với chu kỳ lặp 50 năm, lấy theo [1];
+&nbsp;&nbsp;&nbsp;&nbsp;\- $0{,}68$ và $\bar{\alpha}$ lấy theo Bảng 10;
 
 ze là độ cao tương đương, tính bằng mét (m).
 
@@ -663,8 +663,7 @@ ze là độ cao tương đương, tính bằng mét (m).
 
 **F.15.1**  Hệ số khí động áp lực ngoài ce1 (xem Hình F.18) được xác định theo công thức:
 
-| ce1 = kλ1cβ | (F.3) |
-| :--- | :--- |
+$$c_{e1} = k_{\lambda 1} c_\beta \tag{F.3}$$
 
 trong đó:
 
@@ -676,7 +675,7 @@ Sự phân bố hệ số $c_\beta$ trên bề mặt trụ tròn khi δ = Δ/d <
 
 <p align="center">
 
-![image79.png](../figures/images/image79.png)
+![hinh_f_18](../figures/images/hinh_f_18.png)
 
 </p>
 
@@ -686,7 +685,7 @@ Sự phân bố hệ số $c_\beta$ trên bề mặt trụ tròn khi δ = Δ/d <
 
 <p align="center">
 
-![image80.png](../figures/images/image80.png)
+![hinh_f_19](../figures/images/hinh_f_19.png)
 
 </p>
 
@@ -721,8 +720,7 @@ Sự phân bố hệ số $c_\beta$ trên bề mặt trụ tròn khi δ = Δ/d <
 
 **F.15.3**  Hệ số khí động cản chính diện cx được xác định theo công thức:
 
-| cx = kλcx∞ | (F.4) |
-| :--- | :--- |
+$$c_x = k_\lambda c_{x\infty} \tag{F.4}$$
 
 trong đó:
 
@@ -732,7 +730,7 @@ cx∞ là hệ số, lấy theo biểu đồ trên Hình F.20 phụ thuộc vào
 
 <p align="center">
 
-![image81.png](../figures/images/image81.png)
+![hinh_f_20](../figures/images/hinh_f_20.png)
 
 </p>
 
@@ -748,8 +746,7 @@ cx∞ là hệ số, lấy theo biểu đồ trên Hình F.20 phụ thuộc vào
 
 **F.15.5**  Hệ số khí động cản chính diện cxβ của các cấu kiện nằm nghiêng (Hình F.21) được xác định theo công thức:
 
-| cxβ = cxsin2 β | (F.5) |
-| :--- | :--- |
+$$c_{x\beta} = c_x \sin^2 \beta \tag{F.5}$$
 
 trong đó
 
@@ -759,7 +756,7 @@ cx được xác định theo các số liệu trong F.15, F.16 và F.17;
 
 <p align="center">
 
-![image82.png](../figures/images/image82.png)
+![hinh_f_21](../figures/images/hinh_f_21.png)
 
 </p>
 
@@ -787,8 +784,7 @@ ze lấy bằng khoảng cách từ mặt đất đến trục của công trìn
 
 **F.16.1**  Hệ số khí động cản chính diện cx của công trình hình lăng trụ được xác định theo công thức:
 
-| cx = kλ cx∞ | (F.6) |
-| :--- | :--- |
+$$c_x = k_\lambda c_{x\infty} \tag{F.6}$$
 
 trong đó:
 
@@ -798,7 +794,7 @@ cx∞ được lấy theo biểu đồ trên Hình F.22 đối với tiết di�
 
 <p align="center">
 
-![image83.png](../figures/images/image83.png)
+![hinh_f_22](../figures/images/hinh_f_22.png)
 
 </p>
 
@@ -843,15 +839,15 @@ Hệ số khí động cx của kết cấu rỗng phẳng đứng độc lập 
 
 
 
-<p align="center"><em>(F.7)</em></p>
+$$c_x = \frac{\sum c_{xi} A_i}{A_c} \tag{F.7}$$
 
 trong đó
 
 cxi là hệ số khí động của thanh thứ i của kết cấu:
 
-- lấy bằng 1,4 (cxi = 1,4) đối với thanh định hình;
+&nbsp;&nbsp;&nbsp;&nbsp;\- lấy bằng 1,4 (cxi = 1,4) đối với thanh định hình;
 
-- được xác định theo các chỉ dẫn trong F.12 và F.13 tương ứng đối với các cấu kiện tiết diện tròn và chữ nhật; khi đó kλ = 1;
+&nbsp;&nbsp;&nbsp;&nbsp;\- được xác định theo các chỉ dẫn trong F.12 và F.13 tương ứng đối với các cấu kiện tiết diện tròn và chữ nhật; khi đó kλ = 1;
 
 Ai là diện tích hình chiếu thanh thứ i của kết cấu (xem thêm F.17.5);
 
@@ -859,7 +855,7 @@ Ac là diện tích bao của kết cấu: Ac = L · h (xem thêm F.17.5).
 
 <p align="center">
 
-![image86.png](../figures/images/image86.png)
+![hinh_f_23](../figures/images/hinh_f_23.png)
 
 </p>
 
@@ -877,7 +873,7 @@ Ac là diện tích bao của kết cấu: Ac = L · h (xem thêm F.17.5).
 
 <p align="center">
 
-![image87.png](../figures/images/image87.png)
+![hinh_f_24](../figures/images/hinh_f_24.png)
 
 </p>
 
@@ -910,8 +906,7 @@ Ac là diện tích bao của kết cấu: Ac = L · h (xem thêm F.17.5).
 
 Hệ số khí động ct của tháp rỗng và giàn không gian (Hình F.25) được xác định theo công thức:
 
-| ct = cx (1 + η)k1 | (F.8) |
-| :--- | :--- |
+$$c_t = c_x (1 + \eta) k_1 \tag{F.8}$$
 
 trong đó:
 
@@ -923,7 +918,7 @@ k1 là hệ số, lấy theo Bảng F.14.
 
 <p align="center">
 
-![image88.png](../figures/images/image88.png)
+![hinh_f_25](../figures/images/hinh_f_25.png)
 
 </p>
 
@@ -959,7 +954,7 @@ Ac là diện tích bao của kết cấu (xem Hình F.26).
 
 <p align="center">
 
-![image93.png](../figures/images/image93.png)
+![hinh_f_26](../figures/images/hinh_f_26.png)
 
 </p>
 
@@ -973,7 +968,7 @@ Giá trị hệ số $k_\lambda$ phụ thuộc vào độ mảnh hiệu dụng $
 
 <p align="center">
 
-![image94.png](../figures/images/image94.png)
+![hinh_f_27](../figures/images/hinh_f_27.png)
 
 </p>
 
