@@ -582,6 +582,33 @@ class LegalSpokeValidator:
         trace_path = adr_dir / "TRACEABILITY_MATRIX.md"
         compile_traceability_matrix(adr_list, matrix, trace_path)
 
+        # Self-Healing & Linting for session_learnings.md
+        session_file = self.root_dir / ".md" / "knowledge" / "session_learnings.md"
+        if session_file.exists():
+            text = session_file.read_text(encoding="utf-8")
+            lines = text.splitlines()
+            new_lines = []
+            section_counter = 1
+            for line in lines:
+                m = re.match(r"^##\s+(\d+)\.\s+(.*)$", line)
+                if m:
+                    title = m.group(2)
+                    new_lines.append(f"## {section_counter}. {title}")
+                    section_counter += 1
+                else:
+                    new_lines.append(line)
+            clean_text = "\n".join(new_lines)
+            cleaned_clutter = re.sub(r"\n{3,}", "\n\n", clean_text).strip() + "\n"
+            if cleaned_clutter != text:
+                session_file.write_text(cleaned_clutter, encoding="utf-8")
+
+            # KaTeX balance check (ignoring code blocks and inline code backticks)
+            no_code_text = re.sub(r"```[\s\S]*?```", "", cleaned_clutter)
+            no_code_text = re.sub(r"`[^`]*`", "", no_code_text)
+            display_math_count = len(re.findall(r"\$\$", no_code_text))
+            if display_math_count % 2 != 0:
+                self.errors.append(f"KaTeX Error [session_learnings.md]: Unbalanced display math ($$) tags (count={display_math_count})")
+
         # Check for broken ADR references in core constitution files
         known_nums = {a["num"] for a in adr_list}
         for core_f in ["AGENTS.md", "CONTEXT.md", ".md/knowledge/session_learnings.md"]:
