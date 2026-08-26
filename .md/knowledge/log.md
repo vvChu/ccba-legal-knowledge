@@ -37,3 +37,12 @@ Tài liệu ghi nhận nhật ký đột biến, chuẩn hóa dữ liệu và ba
   - **ADR 0024:** Dual-Track Provenance with Footnote Anchor for Consolidated Legal Norms.
   - **ADR 0025:** Strict Zero-Tolerance Provenance Enactment Gate for Legal Ingestion.
   - **ADR 0026:** Package-Based Downstream Legal Knowledge Distribution via `ccba-legal-intel` SDK.
+
+## [2026-08-26] [feat] | OKF v2.3 Dual-Engine Paradigm & TCVN 2737:2023 Annex F Full Modernization
+- **Phạm vi:** `legal_docs/03_tcvn/tcvn_2737_2023/annexes/phu_luc_f_he_so_khi_dong.md`, `formulas/`, `docs/adr/`.
+- **Nội dung:**
+  - **Hình ảnh Composite:** Hợp nhất 11 sơ đồ hình học đa nhánh thành ảnh đơn nhất căn giữa (`hinh_f_1.png` -> `hinh_f_15.png`).
+  - **Bảng tra ma trận:** Khôi phục 16 bảng tra hệ số khí động với đầy đủ các cột và giá trị tải trọng kép `<br>`.
+  - **Công thức KaTeX:** Chuyển đổi 100% công thức (F.1 -> F.9) sang LaTeX khối.
+  - **Kiến trúc Song Mã:** Xây dựng 6 Visual Cards JSON + 6 Deterministic Solvers Python trong `wind_load_tcvn2737.py` + 38 unit tests Ground Truth.
+  - **Ban hành ADR 0034 & Spec:** Chuẩn hóa toàn diện OKF v2.3 và phân rã 5 tickets triển khai cho toàn bộ hệ thống.

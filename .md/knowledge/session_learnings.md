@@ -107,3 +107,24 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
 - **Anti-pattern phát hiện (2026-08-25):** Script vá `patch_tcvn2737_formulas.py` được viết nhanh trong scratch để sửa lỗi công thức TCVN 2737:2023. Khi chạy lại `python -m ccba_legal convert` từ DOCX gốc, logic vá không kích hoạt → lỗi tái phát do script nằm ngoài luồng chuyển đổi chính.
 - **Giải pháp chuẩn hóa:** Tạo workflow `/ccba-graduate-rd` cưỡng chế 5 bước chuyển hóa R&D → Deep Seam Production. 3 Invariants: (1) Không để script vá tồn tại qua phiên, (2) Upstream Promotion bắt buộc, (3) 1-Pass Clean Run.
 - **Tham chiếu:** Tier 3 User Workflow, ADR 0030 (Technical Standard Seam), ADR 0033 (Archive chuẩn).
+
+---
+
+## 8. OKF v2.3 Dual-Engine Technical Standards Paradigm (ADR 0034)
+
+### 8.1. Unified Centered Composite Images:
+- **Nguyên tắc:** Sơ đồ hình học kỹ thuật đa nhánh ($a, b, c$, mặt đứng, mặt bằng, mặt cắt) phải được hợp nhất thành **1 file ảnh composite đơn nhất** (`hinh_*.png`) trên nền trắng RGB, nhãn phụ nhúng trực tiếp, căn giữa $100\%$ bằng `<p align="center">`.
+- **Cấm tuyệt đối:** Cắt vụn sơ đồ thành các ảnh nhỏ rời rạc rồi dùng thẻ HTML dồn cục làm lệch lề tài liệu so với PDF gốc.
+
+### 8.2. Lossless Multi-Tier Matrix Tables:
+- **Nguyên tắc:** Bảo toàn $100\%$ số lượng cột của bảng tra kỹ thuật đa chiều (ví dụ: các cột tỉ lệ $b/h, h/d, lpha$).
+- **Giá trị tải trọng kép:** Định dạng các ô chứa đồng thời giá trị dương và âm (Hút âm / Đẩy dương) bằng thẻ `<br>` (ví dụ: `- 1,7<br>+ 0,0`).
+- **Tách chú thích chân bảng:** Toàn bộ ghi chú điều kiện biên và chú thích giải thích ký hiệu được đưa ra ngoài khung bảng Markdown (đặt ngay bên dưới bảng) để tránh làm méo mó cấu trúc dữ liệu.
+
+### 8.3. Pure KaTeX Mathematical Formulation:
+- **Nguyên tắc:** Triệt tiêu hoàn toàn ảnh công thức scan chất lượng thấp; chuyển đổi $100\%$ công thức giải tích sang định dạng KaTeX khối có đánh số `$$ ... \tag{X.Y} $$`.
+
+### 8.4. Dual-Engine Architecture (Visual Cards JSON + Deterministic Solvers Python):
+- **Thẻ thị giác (Visual Cards JSON - `figures/cards/`):** Khai báo quy tắc phân vùng kích thước hình học (`e = min(b, 2h)`) và cây quyết định rẽ nhánh theo schema `visual_card_v1.json`.
+- **Bộ giải số học xác định (Deterministic Solvers Python - `formulas/`):** Đóng gói thành các hàm thuần túy (`pure functions`) xử lý nội suy, tách kịch bản tải trọng độc lập và xuất báo cáo thuyết minh thế số từng bước (`CalculationResult.format_text_report()`).
+- **Facade Master (`SymbolicFormulaSolver`):** Quản lý tập trung các công thức quy chuẩn và kết nối trực tiếp với quy trình kiểm tra tự động mô hình BIM (IFC).
