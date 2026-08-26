@@ -15,9 +15,9 @@ Xây dựng công cụ CLI tự động hóa cho Spoke/Platform (`scripts/modern
 
 **Bị chặn bởi:** Không có — Biên giới Frontier (Bắt đầu ngay).
 
-- [ ] Tạo module `scripts/modernize_annex_engine.py` hỗ trợ các lệnh `composite-figures`, `build-matrix-tables`, `convert-math`.
-- [ ] Thử nghiệm chạy thành công trên dữ liệu mẫu của TCVN 2737:2023.
-- [ ] Tích hợp kiểm tra tự động vào `validate_legal_spoke.py`.
+- [x] Tạo module `scripts/modernize_annex_engine.py` hỗ trợ các lệnh `composite-figures`, `build-matrix-tables`, `convert-math`.
+- [x] Thử nghiệm chạy thành công trên dữ liệu mẫu của TCVN 2737:2023.
+- [x] Tích hợp kiểm tra tự động vào `validate_legal_spoke.py`.
 
 ---
 

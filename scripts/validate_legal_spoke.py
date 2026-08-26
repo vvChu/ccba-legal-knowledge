@@ -380,8 +380,7 @@ class LegalSpokeValidator:
             "sync_adr_matrix.py",
             "validate_adr_parity.py",
             "setup_pre_commit.py",
-            "migrate_to_dual_layer_okf.py",
-            "patch_tcvn2737_formulas.py",
+            "modernize_annex_engine.py",
         }
 
         py_files = list(scripts_dir.glob("*.py"))
