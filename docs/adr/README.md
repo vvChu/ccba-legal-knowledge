@@ -6,7 +6,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 
 ---
 
-## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0033)
+## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0034)
 
 ### Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.2 & Biểu Mẫu
 | Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
@@ -58,3 +58,8 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | [ADR 0033](0033-spoke-md-directory-hygiene-and-archiving.md) | Spoke .md Directory Hygiene & Archiving Structure | ✅ ACCEPTED | 2026-08-24 |
 
 ---
+
+### 📌 Các Quyết Định Khác (Unassigned)
+| Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
+| :--- | :--- | :---: | :---: |
+| [ADR 0034](0034-okf-v2-3-dual-engine-technical-standards.md) | OKF v2.3 Dual-Engine Technical Standards Paradigm (Parametric Visual Cards, Lossless Table Matrices & Deterministic Solvers) | ✅ ACCEPTED | 2026-08-26 |
