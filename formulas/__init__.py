@@ -17,16 +17,30 @@ from formulas.sprinkler_spacing import (
     calc_sprinkler_density_and_spacing,
     calc_sprinkler_room_layout,
 )
+from formulas.visual_card_engine import (
+    GeometricZoneResult,
+    VisualCardEngine,
+    VisualCardEvaluation,
+)
+from formulas.wind_load_tcvn2737 import (
+    calc_duopitch_roof_ce_coefficients,
+    calc_freestanding_wall_aerodynamic_coeff,
+)
 
 __all__ = [
     "CalculationResult",
     "CalculationStep",
     "FormulaMetadata",
     "SymbolicFormulaSolver",
+    "VisualCardEngine",
+    "VisualCardEvaluation",
+    "GeometricZoneResult",
     "calc_f1_f4_outdoor_water_demand",
     "calc_fire_water_tank_capacity",
     "calc_corridor_smoke_exhaust_flow",
     "calc_atrium_smoke_exhaust_flow",
     "calc_sprinkler_density_and_spacing",
     "calc_sprinkler_room_layout",
+    "calc_freestanding_wall_aerodynamic_coeff",
+    "calc_duopitch_roof_ce_coefficients",
 ]

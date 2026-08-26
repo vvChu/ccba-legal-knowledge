@@ -1,0 +1,103 @@
+{
+  "$schema": "https://ccba.vn/schemas/visual_card_v1.json",
+  "card_id": "FIG_TCVN2737_F6",
+  "figure_number": "F.6",
+  "standard": "TCVN 2737:2023",
+  "title": "Mái dốc hai phía của nhà có mặt bằng chữ nhật",
+  "image_relpath": "figures/images/hinh_f_6.png",
+  "normative_clauses": [
+    "F.4.2.1",
+    "F.4.2.2",
+    "F.4.2.3"
+  ],
+  "associated_tables": [
+    "Bảng F.5a",
+    "Bảng F.5b"
+  ],
+  "formula_id": "F_WIND_TCVN2737_F6_DUOPITCH",
+  "governing_parameters": [
+    "pitch_angle_alpha",
+    "wind_angle_theta",
+    "e_dimension"
+  ],
+  "input_parameters": {
+    "pitch_angle_alpha": {
+      "description": "Góc dốc của mái alpha (-45 đến 75 độ)",
+      "unit": "độ",
+      "type": "float"
+    },
+    "wind_angle_theta": {
+      "description": "Góc hướng gió theta (0, 90, 180 độ)",
+      "unit": "độ",
+      "default": 0.0,
+      "type": "float"
+    },
+    "building_width_b": {
+      "description": "Kích thước mặt đón gió (vuông góc hướng gió)",
+      "unit": "m",
+      "type": "float"
+    },
+    "building_height_h": {
+      "description": "Chiều cao đỉnh mái công trình",
+      "unit": "m",
+      "type": "float"
+    },
+    "building_depth_d": {
+      "description": "Kích thước dọc hướng gió",
+      "unit": "m",
+      "type": "float"
+    }
+  },
+  "dimension_rules": {
+    "e_dimension": "min(building_width_b, 2.0 * building_height_h)"
+  },
+  "zones_definition": {
+    "theta_0_deg": {
+      "Zone_F": {
+        "extent": "e/4 x e/10",
+        "description": "Góc mép đón gió trên mái đón gió"
+      },
+      "Zone_G": {
+        "extent": "e/10 rộng dọc mép đón gió",
+        "description": "Dải mép đón gió giữa hai vùng F"
+      },
+      "Zone_H": {
+        "extent": "Phần diện tích còn lại của nửa mái đón gió",
+        "description": "Diện tích giữa mái đón gió"
+      },
+      "Zone_I": {
+        "extent": "Phần diện tích chính của nửa mái khuất gió",
+        "description": "Diện tích chính mái khuất gió"
+      },
+      "Zone_J": {
+        "extent": "e/10 rộng dọc mép nóc nửa mái khuất gió",
+        "description": "Dải mép nóc mái khuất gió"
+      }
+    },
+    "theta_90_deg": {
+      "Zone_F": {
+        "extent": "e/4 x e/10",
+        "description": "Góc mép đón gió bên"
+      },
+      "Zone_G": {
+        "extent": "e/10 rộng",
+        "description": "Dải mép đón gió bên giữa hai vùng F"
+      },
+      "Zone_H": {
+        "extent": "e/2 x (b - e/5)",
+        "description": "Dải tiếp theo dọc sườn"
+      },
+      "Zone_I": {
+        "extent": "Phần diện tích còn lại",
+        "description": "Toàn bộ diện tích còn lại của mái"
+      }
+    }
+  },
+  "load_case_constraints": [
+    {
+      "scope": "theta == 0 and -5.0 <= alpha <= 45.0",
+      "rule": "SEPARATE_POSITIVE_AND_NEGATIVE_SCENARIOS",
+      "description": "Bắt buộc xét 2 trường hợp riêng: (1) Toàn bộ giá trị âm (Hút) và (2) Toàn bộ giá trị dương (Đẩy). Không xét đồng thời âm và dương trên cùng một mặt."
+    }
+  ]
+}

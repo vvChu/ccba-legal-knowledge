@@ -1,0 +1,113 @@
+{
+  "$schema": "https://ccba.vn/schemas/visual_card_v1.json",
+  "card_id": "FIG_TCVN2737_F1",
+  "figure_number": "F.1",
+  "standard": "TCVN 2737:2023",
+  "title": "Các vùng trên tường phẳng, hàng rào và kết cấu tương tự",
+  "image_relpath": "figures/images/hinh_f_1.png",
+  "normative_clauses": [
+    "F.1.1.1",
+    "F.1.1.2",
+    "F.1.1.3"
+  ],
+  "associated_tables": [
+    "Bảng F.1"
+  ],
+  "formula_id": "F_WIND_TCVN2737_F1_WALL",
+  "governing_parameter": "aspect_ratio_L_over_h",
+  "input_parameters": {
+    "length_L": {
+      "description": "Chiều dài tường",
+      "unit": "m",
+      "type": "float"
+    },
+    "height_h": {
+      "description": "Chiều cao tường",
+      "unit": "m",
+      "type": "float"
+    },
+    "solidity_ratio_phi": {
+      "description": "Hệ số đặc phi (0.8 đến 1.0)",
+      "default": 1.0,
+      "type": "float"
+    },
+    "return_corner_length": {
+      "description": "Chiều dài phần bẻ góc l_ret",
+      "unit": "m",
+      "default": 0.0,
+      "type": "float"
+    }
+  },
+  "branching_rules": [
+    {
+      "case_id": "CASE_LONG_WALL",
+      "condition": "L / h > 4.0",
+      "description": "Khi L > 4h (Tường dài)",
+      "zones": {
+        "Zone_A": {
+          "extent": "0 đến 0.3h",
+          "length_expr": "0.3 * h",
+          "description": "Mép đón gió tự do"
+        },
+        "Zone_B": {
+          "extent": "0.3h đến 2.0h",
+          "length_expr": "1.7 * h",
+          "description": "Dải chuyển tiếp"
+        },
+        "Zone_C": {
+          "extent": "2.0h đến 4.0h",
+          "length_expr": "2.0 * h",
+          "description": "Dải giữa"
+        },
+        "Zone_D": {
+          "extent": "4.0h đến L",
+          "length_expr": "L - 4.0 * h",
+          "description": "Phần còn lại của tường"
+        }
+      }
+    },
+    {
+      "case_id": "CASE_MEDIUM_WALL",
+      "condition": "2.0 < L / h <= 4.0",
+      "description": "Khi 2h < L <= 4h (Tường trung bình)",
+      "zones": {
+        "Zone_A": {
+          "extent": "0 đến 0.3h",
+          "length_expr": "0.3 * h",
+          "description": "Mép đón gió"
+        },
+        "Zone_B": {
+          "extent": "0.3h đến 2.0h",
+          "length_expr": "1.7 * h",
+          "description": "Dải giữa"
+        },
+        "Zone_C": {
+          "extent": "2.0h đến L",
+          "length_expr": "L - 2.0 * h",
+          "description": "Dải cuối"
+        }
+      }
+    },
+    {
+      "case_id": "CASE_SHORT_WALL",
+      "condition": "L / h <= 2.0",
+      "description": "Khi L <= 2h (Tường ngắn)",
+      "zones": {
+        "Zone_A": {
+          "extent": "0 đến 0.3h",
+          "length_expr": "0.3 * h",
+          "description": "Mép đón gió"
+        },
+        "Zone_B": {
+          "extent": "0.3h đến L",
+          "length_expr": "L - 0.3 * h",
+          "description": "Phần còn lại của tường"
+        }
+      }
+    }
+  ],
+  "return_corner_rule": {
+    "condition": "return_corner_length >= height_h",
+    "description": "Khi tường có bẻ góc với chiều dài không nhỏ hơn h, hệ số cx giảm đáng kể (xem Bảng F.1 hàng Có bẻ góc)"
+  }
+}

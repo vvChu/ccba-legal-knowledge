@@ -20,6 +20,10 @@ from formulas.sprinkler_spacing import (
     calc_sprinkler_density_and_spacing,
     calc_sprinkler_room_layout,
 )
+from formulas.wind_load_tcvn2737 import (
+    calc_duopitch_roof_ce_coefficients,
+    calc_freestanding_wall_aerodynamic_coeff,
+)
 
 
 class SymbolicFormulaSolver:
@@ -166,4 +170,40 @@ SymbolicFormulaSolver.register(
         },
     ),
     calc_sprinkler_room_layout,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_WIND_TCVN2737_F1_WALL",
+        name="Hệ số khí động c_x cho tường phẳng độc lập và hàng rào",
+        category="WIND_LOAD",
+        standard_reference="Mục F.1.1, Hình F.1 & Bảng F.1 Phụ lục F TCVN 2737:2023",
+        description="Tra cứu và nội suy hệ số cản c_x cho các vùng A, B, C, D trên tường phẳng độc lập.",
+        parameters={
+            "length_L": "Chiều dài tường L (m)",
+            "height_h": "Chiều cao tường h (m)",
+            "solidity_ratio_phi": "Hệ số đặc phi (mặc định 1.0)",
+            "has_return_corner": "bool: Có bẻ góc (mặc định False)",
+            "return_corner_length": "Chiều dài bẻ góc l_ret (m, mặc định 0.0)",
+        },
+    ),
+    calc_freestanding_wall_aerodynamic_coeff,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_WIND_TCVN2737_F6_DUOPITCH",
+        name="Hệ số khí động c_e cho mái dốc hai phía",
+        category="WIND_LOAD",
+        standard_reference="Mục F.4.2, Hình F.6, Bảng F.5a & Bảng F.5b TCVN 2737:2023",
+        description="Tính toán hệ số c_e cho các vùng F, G, H, I, J và phân tách kịch bản áp lực hút/đẩy.",
+        parameters={
+            "pitch_angle_alpha": "Góc dốc mái alpha (-45 đến 75 độ)",
+            "wind_angle_theta": "Góc hướng gió theta (0 hoặc 90 độ, mặc định 0)",
+            "building_width_b": "Chiều rộng đón gió b (m, tùy chọn)",
+            "building_height_h": "Chiều cao đỉnh mái h (m, tùy chọn)",
+            "building_depth_d": "Chiều sâu dọc gió d (m, tùy chọn)",
+        },
+    ),
+    calc_duopitch_roof_ce_coefficients,
 )
