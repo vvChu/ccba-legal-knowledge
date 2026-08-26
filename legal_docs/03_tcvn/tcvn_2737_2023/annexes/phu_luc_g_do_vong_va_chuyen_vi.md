@@ -118,8 +118,18 @@ _CHÚ THÍCH:_ $f_1$ - Độ võng của kết cấu vì kèo chịu lực nhi�
 | 3. Các bộ phận của cầu thang bộ (bản thang, chiếu nghỉ, chiếu tới, cốn), của ban công, của lôgia | Thẩm mỹ - tâm lý | Như trong mục 2a |  |
 | 3. Các bộ phận của cầu thang bộ (bản thang, chiếu nghỉ, chiếu tới, cốn), của ban công, của lôgia | Tâm sinh lý | Xác định theo G.2.2 |  |
 | 4. Lanh tô, tấm tường treo phía trên lỗ cửa sổ và cửa đi (xà và xà gồ vách kính) | Thẩm mỹ - tâm lý | Như trong mục 2a |  |
-| Các ký hiệu trong Bảng G.1:<br>L là nhịp tính toán của cấu kiện.<br>a là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào. |  |  |  |
-| CHÚ THÍCH 1: Đối với công xôn L được lấy bằng hai lần chiều dài vươn công xôn.<br>CHÚ THÍCH 2: Đối với các giá trị trung gian của L trong mục 2a, độ võng giới hạn xác định bằng nội suy tuyến tính có kể đến các yêu cầu trong G.1.7.<br>CHÚ THÍCH 3: Trong mục 2a lấy số trong ngoặc đơn khi chiều cao phòng đến nhỏ hơn hoặc bằng 6 m.<br>CHÚ THÍCH 4: Cách tính độ võng theo mục 2b được nêu trong G.1.8.<br>CHÚ THÍCH 5: Khi khống chế độ võng giới hạn theo yêu cầu thẩm mỹ - tâm lý thì cho phép chiều dài nhịp L lấy bằng khoảng cách giữa mặt trong của các tường chịu lực (hoặc các cột).<br>CHÚ THÍCH 6: Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) và cần trục treo lấy theo Bảng B.1, Phụ lục B. |  |  |  |
+
+> *Ký hiệu:*  
+> \- $L$ là nhịp tính toán của cấu kiện.  
+> \- $a$ là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào.  
+>  
+> *Chú thích:*  
+> 1) Đối với công xôn $L$ được lấy bằng hai lần chiều dài vươn công xôn.  
+> 2) Đối với các giá trị trung gian của $L$ trong mục 2a, độ võng giới hạn xác định bằng nội suy tuyến tính có kể đến các yêu cầu trong G.1.7.  
+> 3) Trong mục 2a lấy số trong ngoặc đơn khi chiều cao phòng đến nhỏ hơn hoặc bằng 6 m.  
+> 4) Cách tính độ võng theo mục 2b được nêu trong G.1.8.  
+> 5) Khi khống chế độ võng giới hạn theo yêu cầu thẩm mỹ - tâm lý thì cho phép chiều dài nhịp $L$ lấy bằng khoảng cách giữa mặt trong của các tường chịu lực (hoặc các cột).  
+> 6) Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) và cần trục treo lấy theo Bảng B.1, Phụ lục B.
 
 <a id="muc-g-2-2"></a>
 
@@ -152,11 +162,11 @@ trong đó:
 | 1. Các khu vực A, B (trừ phòng sinh hoạt ở khu B1); những chỗ nghỉ ngơi thuộc khu vực I2) | $0{,}25$ | Lấy bằng $q_{k,qper}$ theo [8.3.3](../tcvn_2737_2023.md#muc-8-3-3) | $1{,}5$ | $\frac{Q}{\alpha \cdot a \cdot L \cdot p}$ |
 | 2. Phòng học thuộc khu vực C1.1 và phòng sinh hoạt thuộc khu vực B1; Các khu vực C (trừ phòng khiêu vũ C4) và D; Chỗ tập trung đông người thuộc khu vực I1 | $0{,}50$ | Lấy bằng $q_{k,qper}$ theo [8.3.3](../tcvn_2737_2023.md#muc-8-3-3) | $1{,}5$ | $\frac{Q}{\alpha \cdot a \cdot L \cdot p}$ |
 
-_CHÚ DẪN KÝ HIỆU:_
-\- $Q$: Trọng lượng của một người, lấy bằng $0{,}8\text{ kN}$.
-\- $\alpha$: Hệ số, lấy bằng $1{,}0$ đối với cấu kiện tính theo sơ đồ dầm; $0{,}6$ đối với bản sàn kê 3 hoặc 4 cạnh.
-\- $a$: Bước dầm, xà; chiều rộng bản sàn (tấm) ($\text{m}$).
-\- $L$: Nhịp tính toán của cấu kiện kết cấu ($\text{m}$).
+> *Ký hiệu:*  
+> \- $Q$: Trọng lượng của một người, lấy bằng $0{,}8\text{ kN}$.  
+> \- $\alpha$: Hệ số, lấy bằng $1{,}0$ đối với cấu kiện tính theo sơ đồ dầm; $0{,}6$ đối với bản sàn kê 3 hoặc 4 cạnh.  
+> \- $a$: Bước dầm, xà; chiều rộng bản sàn (tấm) ($\text{m}$).  
+> \- $L$: Nhịp tính toán của cấu kiện kết cấu ($\text{m}$).
 
 <a id="muc-g-2-3"></a>
 
@@ -176,9 +186,12 @@ _CHÚ DẪN KÝ HIỆU:_
 | A1 đến A3 | h/500 |
 | A4 đến A6 | h/1 000 |
 | A7 đến A8 | h/2000 |
-| Các ký hiệu trong Bảng G.3:<br>h là chiều cao từ mặt trên của móng đến đỉnh của đường ray cầu trục (đối với nhà 1 tầng và cầu cạn ngoài trời hoặc trong nhà) hoặc khoảng cách từ trục dầm sàn đến đỉnh của đường ray cầu trục (đối với các tầng trên của nhà nhiều tầng);<br>L là nhịp tính toán của cấu kiện (dầm). |  |
 
-**CHÚ THÍCH: Nhóm chế độ làm việc của cầu trục lấy theo Bảng B.1, Phụ lục B.**
+> *Ký hiệu:*  
+> \- $h$ là chiều cao từ mặt trên của móng đến đỉnh của đường ray cầu trục (đối với nhà 1 tầng và cầu cạn ngoài trời hoặc trong nhà) hoặc khoảng cách từ trục dầm sàn đến đỉnh của đường ray cầu trục (đối với các tầng trên của nhà nhiều tầng);  
+> \- $L$ là nhịp tính toán của cấu kiện (dầm).  
+>  
+> *Chú thích:* Nhóm chế độ làm việc của cầu trục lấy theo Bảng B.1, Phụ lục B.
 
 <a id="muc-g-2-4"></a>
 
@@ -238,8 +251,15 @@ Khi xác định độ võng ngang do tác động của nhiệt khí hậu và 
 | + khổ rộng | Công nghệ | L/500 | Tải trọng do một toa (hoặc xe) chạy trên một đường ray |
 | d) Mái và sàn tầng của bãi đỗ xe trong nhà, có nhịp L, m:<br>L = 6<br>L = 12<br>L ≥ 24 | Công nghệ | L/200<br>L/250<br>L/300 | Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm η nêu tại 8.3.3 và tải trọng tạm thời ngắn hạn nêu tại Bảng 5 với hệ số giảm η nêu tại 8.5.4) |
 | 3. Lanh tô, tấm tường treo phía trên lỗ cửa sổ và cửa đi (xà và xà gồ vách kính) | Cấu tạo | L/200 | Tải trọng làm giảm khe hở giữa cấu kiện chịu lực và phần chèn các cửa sổ, cửa đi dưới cấu kiện chịu lực đó. |
-| Các ký hiệu trong Bảng G.4:<br>L là nhịp tính toán của cấu kiện kết cấu.<br>a là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào. |  |  |  |
-| CHÚ THÍCH 1: Đối với công xôn L được lấy bằng hai lần chiều dài vươn công xôn.<br>CHÚ THÍCH 2: Cách tính độ võng theo mục 2b được nêu trong G.1.8.<br>CHÚ THÍCH 3: Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) và cần trục treo lấy theo Phụ lục B. |  |  |  |
+
+> *Ký hiệu:*  
+> \- $L$ là nhịp tính toán của cấu kiện kết cấu.  
+> \- $a$ là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào.  
+>  
+> *Chú thích:*  
+> 1) Đối với công xôn $L$ được lấy bằng hai lần chiều dài vươn công xôn.  
+> 2) Cách tính độ võng theo mục 2b được nêu trong G.1.8.  
+> 3) Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) và cần trục treo lấy theo Phụ lục B.
 
 <a id="muc-g-2-5-1-2"></a>
 
@@ -275,8 +295,15 @@ Chuyển vị ngang của nhà cần được xác định có kể đến độ
 | b) Tường (có ốp đá tự nhiên) làm từ gạch ceramic | Cứng | hs/700 |
 | c) Tường và tường ngăn (có ốp đá tự nhiên) làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép; tường và tường ngăn làm bằng gạch ceramic | Mềm | hs/300 |
 | 3. Nhà một tầng (với tường tự chịu lực) | Mềm | hs/300 |
-| Các ký hiệu trong Bảng G.5:<br>h là chiều cao nhà nhiều tầng, lấy bằng khoảng cách từ mặt móng đến trục của xà đỡ mái.<br>hs là chiều cao tầng của nhà một tầng, lấy bằng khoảng cách từ mặt móng đến mặt dưới của kết cấu vì kèo; trong nhà nhiều tầng: đối với tầng dưới cùng - bằng khoảng cách từ trên mặt móng đến trục của xà đỡ sàn tầng; đối với các tầng còn lại - bằng khoảng cách giữa các trục của các xà liền kề. |  |  |
-| CHÚ THÍCH 1: Đối với tầng trên cùng của nhà nhiều tầng được thiết kế có sử dụng các cấu kiện của mái nhà một tầng thì các chuyển vị ngang giới hạn được lấy như đối với nhà một tầng. Khi đó chiều cao tầng trên cùng hs được tính từ trục của dầm đỡ sàn tầng đến mặt dưới của kết cấu vì kèo.<br>CHÚ THÍCH 2: Các liên kết sau được xếp vào loại mềm: liên kết giữa tường hoặc tường ngăn với khung mà không ngăn cản dịch chuyển của khung (không truyền vào tường và tường ngăn nội lực có thể gây hư hỏng các cấu kiện cấu tạo); các liên kết được xếp vào loại cứng; liên kết ngăn cản các dịch chuyển tương hỗ của khung, tường hoặc tường ngăn.<br>CHÚ THÍCH 3: Đối với nhà một tầng có tường treo (cũng như khi không có tấm mái cứng) và đối với khung độc lập nhiều tầng đỡ thiết bị trong nhà công nghiệp, chuyển vị ngang giới hạn cho phép tăng lên 30 % (nhưng lấy không lớn hơn hs/150), trong phạm vi mỗi tầng. |  |  |
+
+> *Ký hiệu:*  
+> \- $h$ là chiều cao nhà nhiều tầng, lấy bằng khoảng cách từ mặt móng đến trục của xà đỡ mái.  
+> \- $h_s$ là chiều cao tầng của nhà một tầng, lấy bằng khoảng cách từ mặt móng đến mặt dưới của kết cấu vì kèo; trong nhà nhiều tầng: đối với tầng dưới cùng - bằng khoảng cách từ trên mặt móng đến trục của xà đỡ sàn tầng; đối với các tầng còn lại - bằng khoảng cách giữa các trục của các xà liền kề.  
+>  
+> *Chú thích:*  
+> 1) Đối với tầng trên cùng của nhà nhiều tầng được thiết kế có sử dụng các cấu kiện của mái nhà một tầng thì các chuyển vị ngang giới hạn được lấy như đối với nhà một tầng. Khi đó chiều cao tầng trên cùng $h_s$ được tính từ trục của dầm đỡ sàn tầng đến mặt dưới của kết cấu vì kèo.  
+> 2) Các liên kết sau được xếp vào loại mềm: liên kết giữa tường hoặc tường ngăn với khung mà không ngăn cản dịch chuyển của khung (không truyền vào tường và tường ngăn nội lực có thể gây hư hỏng các cấu kiện cấu tạo); các liên kết được xếp vào loại cứng; liên kết ngăn cản các dịch chuyển tương hỗ của khung, tường hoặc tường ngăn.  
+> 3) Đối với nhà một tầng có tường treo (cũng như khi không có tấm mái cứng) và đối với khung độc lập nhiều tầng đỡ thiết bị trong nhà công nghiệp, chuyển vị ngang giới hạn cho phép tăng lên 30 % (nhưng lấy không lớn hơn $h_s/150$), trong phạm vi mỗi tầng.
 
 <a id="muc-g-2-5-3-2"></a>
 

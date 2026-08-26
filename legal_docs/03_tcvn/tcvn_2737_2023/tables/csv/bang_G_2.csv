@@ -1,4 +1,4 @@
-﻿Các khu vực<br>(theo Bảng 4),"p,<br>kN/$m^{2}$","$p_{1}$,<br>kN/$m^{2}$","n,<br>Hz",b
+Các khu vực<br>(theo Bảng 4),"p,<br>kN/$m^{2}$","$p_{1}$,<br>kN/$m^{2}$","n,<br>Hz",b
 "1. Các khu vực A, B (trừ phòng sinh hoạt ở khu B1); những chỗ nghỉ ngơi thuộc khu vực I2)","0,25","Lấy bằng $q_{k,qper}$ theo 8.3.3","1,5",
 2. Phòng học thuộc khu vực C1.1 và phòng sinh hoạt thuộc khu vực B1;<br>Các khu vực C (trừ phòng khiêu vũ thuộc khu vực C4) và D;<br>Những chỗ tập trung đông người thuộc khu vực I1,"0,50","Lấy bằng $q_{k,qper}$ theo 8.3.3","1,5",
 "Các ký hiệu trong bảng:<br>Q là trọng lượng của một người, lấy bằng 0,8 kN.<br>α là hệ số, lấy bằng:<br>1,0 - đối với cấu kiện tính theo sơ đồ dầm;<br>0,6 - đối với các cấu kiện còn lại (ví dụ, khi bản sàn kê ba hoặc bốn cạnh).<br>a là bước dầm, xà; chiều rộng bản sàn (tấm), tính bằng mét (m).<br>L là nhịp tính toán của cấu kiện kết cấu, tính bằng mét (m).",,,,

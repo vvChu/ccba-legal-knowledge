@@ -18,7 +18,7 @@
     {
       "_row_id": 3,
       "Khu vực": "E2: Phòng kho xưởng và công nghiệp",
-      "Giá trị tải trọng phân bố đều $q_{k,t}$, kN/$m^{2}$": "Theo nhiệm vụ thiết kế, nhưng không nhỏ hơn:3,0 - để tính bản sàn và dầm phụ;2,0 - để tính xà (dầm), cột và móng.",
+      "Giá trị tải trọng phân bố đều $q_{k,t}$, kN/$m^{2}$": "Theo nhiệm vụ thiết kế, nhưng không nhỏ hơn:<br>3,0 - để tính bản sàn và dầm phụ;<br>2,0 - để tính xà (dầm), cột và móng.",
       "Giá trị tải trọng tập trung $Q_{k,t}$ , kN": "Theo nhiệm vụ thiết kế, nhưng không nhỏ hơn 3,0"
     },
     {

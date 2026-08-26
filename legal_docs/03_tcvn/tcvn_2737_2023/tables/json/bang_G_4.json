@@ -63,7 +63,7 @@
       "_row_id": 9,
       "Cấu kiện kết cấu": "b) Mái và sàn tầng khi sử dụng pa lăng, cần trục treo được điều khiển từ dưới nền",
       "Yêu cầu": "Công nghệ",
-      "Giá trị $f_{u}$": "L/300 hoặc a/150(lấy giá trị nhỏ hơn)",
+      "Giá trị $f_{u}$": "L/300 hoặc a/150<br>(lấy giá trị nhỏ hơn)",
       "Tải trọng để xác định độ võng đứng f": "Tải trọng tạm thời ngắn hạn có kể đến tải trọng do một cần trục hoặc pa lăng trên một đường ray"
     },
     {
@@ -78,14 +78,14 @@
       "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- các tải trọng di chuyển, vật liệu, chi tiết máy móc và các tải trọng di động khác (trong đó có tải trọng di chuyển trên nền không ray)",
       "Yêu cầu": "Công nghệ",
       "Giá trị $f_{u}$": "L/350",
-      "Tải trọng để xác định độ võng đứng f": "Giá trị bất lợi hơn trong hai giá trị:&nbsp;&nbsp;\\- 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng;&nbsp;&nbsp;\\- tải trọng do một xe xếp tải"
+      "Tải trọng để xác định độ võng đứng f": "Giá trị bất lợi hơn trong hai giá trị:<br>&nbsp;&nbsp;\\- 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng;<br>&nbsp;&nbsp;\\- tải trọng do một xe xếp tải"
     },
     {
       "_row_id": 12,
       "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- tải trọng di chuyển trên ray:",
       "Yêu cầu": "Công nghệ",
       "Giá trị $f_{u}$": "L/350",
-      "Tải trọng để xác định độ võng đứng f": "Giá trị bất lợi hơn trong hai giá trị:&nbsp;&nbsp;\\- 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng;&nbsp;&nbsp;\\- tải trọng do một xe xếp tải"
+      "Tải trọng để xác định độ võng đứng f": "Giá trị bất lợi hơn trong hai giá trị:<br>&nbsp;&nbsp;\\- 0,7 lần giá trị tiêu chuẩn của tải trọng tạm thời ngắn hạn lên sàn tầng;<br>&nbsp;&nbsp;\\- tải trọng do một xe xếp tải"
     },
     {
       "_row_id": 13,
@@ -103,9 +103,9 @@
     },
     {
       "_row_id": 15,
-      "Cấu kiện kết cấu": "d) Mái và sàn tầng của bãi đỗ xe trong nhà, có nhịp L, m:L = 6L = 12L ≥ 24",
+      "Cấu kiện kết cấu": "d) Mái và sàn tầng của bãi đỗ xe trong nhà, có nhịp L, m:<br>L = 6<br>L = 12<br>L ≥ 24",
       "Yêu cầu": "Công nghệ",
-      "Giá trị $f_{u}$": "L/200L/250L/300",
+      "Giá trị $f_{u}$": "L/200<br>L/250<br>L/300",
       "Tải trọng để xác định độ võng đứng f": "Tải trọng thường xuyên và tạm thời dài hạn (trong đó có tải trọng tạm thời ngắn hạn nêu tại Bảng 4 với hệ số giảm η nêu tại 8.3.3 và tải trọng tạm thời ngắn hạn nêu tại Bảng 5 với hệ số giảm η nêu tại 8.5.4)"
     },
     {
@@ -117,7 +117,7 @@
     },
     {
       "_row_id": 17,
-      "Cấu kiện kết cấu": "Các ký hiệu trong Bảng G.4:L là nhịp tính toán của cấu kiện kết cấu.a là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào.",
+      "Cấu kiện kết cấu": "Các ký hiệu trong Bảng G.4:<br>L là nhịp tính toán của cấu kiện kết cấu.<br>a là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào.",
       "Yêu cầu": "",
       "Giá trị $f_{u}$": "",
       "Tải trọng để xác định độ võng đứng f": ""

@@ -9,7 +9,7 @@
       "Mô tả dạng địa hình": "Trống trải, không có hoặc có rất ít vật cản cao không quá 1,5 m (bờ biển thoáng, mặt sông, hồ lớn, đồng muối, cánh đồng không có cây cao...), xem Hình D.1, Phụ lục D.",
       "Giá trị $z_{g}$, m": "213,36",
       "Giá trị $z_{min}$, m": "2,13",
-      "Giá trịα": "11,5"
+      "Giá trị<br>α": "11,5"
     },
     {
       "_row_id": 2,
@@ -17,7 +17,7 @@
       "Mô tả dạng địa hình": "Tương đối trống trải, có một số vật cản thưa thớt cao không quá 10 m (vùng ngoại ô ít nhà, thị trấn, làng mạc, rừng thưa hoặc rừng non, vùng trồng cây thưa...), xem Hình D.2, Phụ lục D.",
       "Giá trị $z_{g}$, m": "274,32",
       "Giá trị $z_{min}$, m": "4,57",
-      "Giá trịα": "9,5"
+      "Giá trị<br>α": "9,5"
     },
     {
       "_row_id": 3,
@@ -25,7 +25,7 @@
       "Mô tả dạng địa hình": "Bị che chắn mạnh, có nhiều vật cản sát nhau cao từ 10 m trở lên (trong thành phố, vùng rừng rậm...), xem Hình D.3, Phụ lục D.",
       "Giá trị $z_{g}$, m": "365,76",
       "Giá trị $z_{min}$, m": "9,14",
-      "Giá trịα": "7,0"
+      "Giá trị<br>α": "7,0"
     }
   ]
 }

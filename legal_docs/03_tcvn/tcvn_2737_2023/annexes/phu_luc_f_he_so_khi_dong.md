@@ -702,7 +702,12 @@ Sự phân bố hệ số $c_\beta$ trên bề mặt trụ tròn khi δ = Δ/d <
 | 5·105 | 85 | - 2,2 | 135 | - 0,4 |
 | 2·106 | 80 | - 1,9 | 120 | - 0,7 |
 | 107 | 75 | - 1,5 | 105 | - 0,8 |
-| Các ký hiệu trong Bảng F.10:<br>βmin là vị trí có giá trị áp lực gió nhỏ nhất;<br>cmin là giá trị hệ số khí động áp lực gió nhỏ nhất;<br>βb là vị trí dòng gió tách nhánh;<br>cb là giá trị hệ số khí động áp lực gió nền. |  |  |  |  |
+
+> *Ký hiệu:*  
+> \- $\beta_{min}$ là vị trí có giá trị áp lực gió nhỏ nhất;  
+> \- $c_{min}$ là giá trị hệ số khí động áp lực gió nhỏ nhất;  
+> \- $\beta_b$ là vị trí dòng gió tách nhánh;  
+> \- $c_b$ là giá trị hệ số khí động áp lực gió nền.
 
 <a id="muc-f-15-2"></a>
 
