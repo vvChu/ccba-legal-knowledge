@@ -1,0 +1,62 @@
+{
+  "$schema": "https://ccba.vn/schemas/visual_card_v1.json",
+  "card_id": "FIG_TCVN2737_F5A",
+  "figure_number": "F.5a",
+  "standard": "TCVN 2737:2023",
+  "title": "Tường thẳng đứng của nhà có mặt bằng chữ nhật",
+  "image_relpath": "figures/images/image54.png",
+  "normative_clauses": [
+    "F.4.1.1",
+    "F.4.1.2"
+  ],
+  "associated_tables": [
+    "Bảng F.4"
+  ],
+  "formula_id": "F_WIND_TCVN2737_F5A_WALLS",
+  "governing_parameters": [
+    "h_over_d",
+    "e_dimension"
+  ],
+  "input_parameters": {
+    "building_height_h": {
+      "description": "Chiều cao công trình h",
+      "unit": "m",
+      "type": "float"
+    },
+    "building_depth_d": {
+      "description": "Chiều sâu dọc hướng gió d",
+      "unit": "m",
+      "type": "float"
+    },
+    "building_width_b": {
+      "description": "Chiều rộng đón gió b",
+      "unit": "m",
+      "type": "float"
+    }
+  },
+  "dimension_rules": {
+    "e_dimension": "min(building_width_b, 2.0 * building_height_h)"
+  },
+  "zones_definition": {
+    "Zone_A": {
+      "extent": "e/5",
+      "description": "Dải mép bên đón gió"
+    },
+    "Zone_B": {
+      "extent": "4e/5",
+      "description": "Dải giữa trên tường bên"
+    },
+    "Zone_C": {
+      "extent": "d - e",
+      "description": "Dải cuối trên tường bên (khi d > e)"
+    },
+    "Zone_D": {
+      "extent": "Toàn bộ tường đón gió",
+      "description": "Tường đón gió"
+    },
+    "Zone_E": {
+      "extent": "Toàn bộ tường hút gió",
+      "description": "Tường khuất gió"
+    }
+  }
+}

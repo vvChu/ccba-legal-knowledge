@@ -1,0 +1,53 @@
+{
+  "$schema": "https://ccba.vn/schemas/visual_card_v1.json",
+  "card_id": "FIG_TCVN2737_F7",
+  "figure_number": "F.7",
+  "standard": "TCVN 2737:2023",
+  "title": "Mái dốc bốn phía",
+  "image_relpath": "figures/images/hinh_f_7.png",
+  "normative_clauses": [
+    "F.5.1",
+    "F.5.2",
+    "F.5.3"
+  ],
+  "associated_tables": [
+    "Bảng F.6"
+  ],
+  "formula_id": "F_WIND_TCVN2737_F7_HIPPED",
+  "governing_parameters": [
+    "pitch_angle_alpha",
+    "wind_angle_theta",
+    "e_dimension"
+  ],
+  "input_parameters": {
+    "pitch_angle_alpha": {
+      "description": "Góc dốc mái alpha (5 đến 75 độ)",
+      "unit": "độ",
+      "type": "float"
+    },
+    "wind_angle_theta": {
+      "description": "Góc hướng gió theta (0 hoặc 90 độ)",
+      "unit": "độ",
+      "default": 0.0,
+      "type": "float"
+    },
+    "building_width_b": {
+      "description": "Chiều rộng đón gió b",
+      "unit": "m",
+      "type": "float"
+    },
+    "building_height_h": {
+      "description": "Chiều cao công trình h",
+      "unit": "m",
+      "type": "float"
+    },
+    "building_depth_d": {
+      "description": "Chiều sâu dọc gió d",
+      "unit": "m",
+      "type": "float"
+    }
+  },
+  "dimension_rules": {
+    "e_dimension": "min(building_width_b, 2.0 * building_height_h)"
+  }
+}

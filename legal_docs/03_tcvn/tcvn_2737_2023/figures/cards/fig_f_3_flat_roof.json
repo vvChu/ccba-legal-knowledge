@@ -1,0 +1,74 @@
+{
+  "$schema": "https://ccba.vn/schemas/visual_card_v1.json",
+  "card_id": "FIG_TCVN2737_F3",
+  "figure_number": "F.3",
+  "standard": "TCVN 2737:2023",
+  "title": "Mái bằng",
+  "image_relpath": "figures/images/hinh_f_3.png",
+  "normative_clauses": [
+    "F.2.1",
+    "F.2.2",
+    "F.2.3",
+    "F.2.4"
+  ],
+  "associated_tables": [
+    "Bảng F.2"
+  ],
+  "formula_id": "F_WIND_TCVN2737_F3_FLAT",
+  "governing_parameters": [
+    "roof_eaves_type",
+    "hp_over_h",
+    "r_over_h",
+    "e_dimension"
+  ],
+  "input_parameters": {
+    "roof_type": {
+      "description": "Loại mép mái (CANH_SAC, TUONG_CHAN_MAI, BO_TRON, VAT_GOC)",
+      "type": "string",
+      "default": "CANH_SAC"
+    },
+    "parapet_height_hp": {
+      "description": "Chiều cao tường chắn mái hp",
+      "unit": "m",
+      "default": 0.0,
+      "type": "float"
+    },
+    "radius_r": {
+      "description": "Bán kính bo tròn mép mái r",
+      "unit": "m",
+      "default": 0.0,
+      "type": "float"
+    },
+    "building_width_b": {
+      "description": "Chiều rộng mặt đón gió b",
+      "unit": "m",
+      "type": "float"
+    },
+    "building_height_h": {
+      "description": "Chiều cao công trình h",
+      "unit": "m",
+      "type": "float"
+    }
+  },
+  "dimension_rules": {
+    "e_dimension": "min(building_width_b, 2.0 * building_height_h)"
+  },
+  "zones_definition": {
+    "Zone_F": {
+      "extent": "e/4 x e/10",
+      "description": "Góc mép đón gió"
+    },
+    "Zone_G": {
+      "extent": "e/10 rộng dọc mép đón gió",
+      "description": "Dải mép đón gió giữa hai vùng F"
+    },
+    "Zone_H": {
+      "extent": "e/2 x (b - e/5)",
+      "description": "Dải tiếp theo dọc sườn"
+    },
+    "Zone_I": {
+      "extent": "Phần diện tích còn lại của mái",
+      "description": "Diện tích còn lại"
+    }
+  }
+}

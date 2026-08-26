@@ -216,3 +216,125 @@ class TestSolverFacade:
         assert "Trường hợp 1 (Áp lực âm / Hút)" in res.scenarios
         report = res.format_text_report()
         assert "Trường hợp 1 (Áp lực âm / Hút)" in report
+
+
+from formulas import (
+    calc_flat_roof_ce_coefficients,
+    calc_hipped_roof_ce_coefficients,
+    calc_monopitch_roof_ce_coefficients,
+    calc_vertical_wall_ce_coefficients,
+)
+
+
+class TestFlatRoofSolvers:
+    """Kiểm tra tra cứu hệ số c_e cho mái bằng (Bảng F.2 & Hình F.3)."""
+
+    def test_sharp_eaves(self) -> None:
+        """Mái bằng có cạnh sắc -> F=-1.8, G=-1.2, H=-0.7, I=±0.2."""
+        res = calc_flat_roof_ce_coefficients(eaves_type="CANH_SAC", building_height_h=10.0, building_width_b=30.0)
+        assert res.scenarios["Trường hợp 1 (Áp lực âm / Hút)"]["Vùng F"] == -1.8
+        assert res.scenarios["Trường hợp 1 (Áp lực âm / Hút)"]["Vùng G"] == -1.2
+        assert res.scenarios["Trường hợp 1 (Áp lực âm / Hút)"]["Vùng H"] == -0.7
+        assert res.scenarios["Trường hợp 1 (Áp lực âm / Hút)"]["Vùng I"] == -0.2
+        assert res.scenarios["Trường hợp 2 (Áp lực dương / Đẩy)"]["Vùng I"] == 0.2
+
+    def test_parapet_0_05(self) -> None:
+        """Mái bằng có tường chắn mái hp/h = 0.05 -> F=-1.4, G=-0.9."""
+        res = calc_flat_roof_ce_coefficients(
+            eaves_type="TUONG_CHAN_MAI",
+            parapet_height_hp=0.5,
+            building_height_h=10.0,
+        )
+        assert res.scenarios["Trường hợp 1 (Áp lực âm / Hút)"]["Vùng F"] == -1.4
+        assert res.scenarios["Trường hợp 1 (Áp lực âm / Hút)"]["Vùng G"] == -0.9
+
+    def test_rounded_0_10(self) -> None:
+        """Mái bằng có cạnh bo tròn r/h = 0.10 -> F=-0.7, G=-0.7, H=-0.7."""
+        res = calc_flat_roof_ce_coefficients(
+            eaves_type="BO_TRON",
+            radius_r=1.0,
+            building_height_h=10.0,
+        )
+        assert res.scenarios["Trường hợp 1 (Áp lực âm / Hút)"]["Vùng F"] == -0.7
+        assert res.scenarios["Trường hợp 1 (Áp lực âm / Hút)"]["Vùng G"] == -0.7
+        assert res.scenarios["Trường hợp 1 (Áp lực âm / Hút)"]["Vùng H"] == -0.7
+
+
+class TestVerticalWallSolvers:
+    """Kiểm tra tra cứu hệ số c_e cho tường thẳng đứng (Bảng F.4 & Hình F.5a)."""
+
+    def test_h_over_d_5(self) -> None:
+        """h/d = 5.0 -> A=-1.2, B=-0.8, C=-0.5, D=+0.8, E=-0.7."""
+        res = calc_vertical_wall_ce_coefficients(building_height_h=50.0, building_depth_d=10.0)
+        assert res.zone_values["Vùng A (Tường bên mép đón)"] == -1.2
+        assert res.zone_values["Vùng B (Tường bên dải giữa)"] == -0.8
+        assert res.zone_values["Vùng C (Tường bên dải cuối)"] == -0.5
+        assert res.zone_values["Vùng D (Tường đón gió)"] == 0.8
+        assert res.zone_values["Vùng E (Tường hút gió)"] == -0.7
+
+    def test_h_over_d_1(self) -> None:
+        """h/d = 1.0 -> A=-1.2, B=-0.8, C=-0.5, D=+0.8, E=-0.5."""
+        res = calc_vertical_wall_ce_coefficients(building_height_h=20.0, building_depth_d=20.0)
+        assert res.zone_values["Vùng D (Tường đón gió)"] == 0.8
+        assert res.zone_values["Vùng E (Tường hút gió)"] == -0.5
+
+    def test_h_over_d_0_25(self) -> None:
+        """h/d = 0.25 -> A=-1.2, B=-0.8, C=-0.5, D=+0.7, E=-0.3."""
+        res = calc_vertical_wall_ce_coefficients(building_height_h=5.0, building_depth_d=20.0)
+        assert res.zone_values["Vùng D (Tường đón gió)"] == 0.7
+        assert res.zone_values["Vùng E (Tường hút gió)"] == -0.3
+
+
+class TestMonopitchRoofSolvers:
+    """Kiểm tra tra cứu hệ số c_e cho mái dốc một phía (Bảng F.3a, F.3b)."""
+
+    def test_alpha_15_theta_0(self) -> None:
+        """alpha = 15°, theta = 0° -> Dual: Hút (F=-0.9, G=-0.8, H=-0.3), Đẩy (F=+0.2, G=+0.2, H=+0.2)."""
+        res = calc_monopitch_roof_ce_coefficients(pitch_angle_alpha=15.0, wind_angle_theta=0.0)
+        assert res.scenarios["Trường hợp 1 (Áp lực âm / Hút)"]["Vùng F"] == -0.9
+        assert res.scenarios["Trường hợp 2 (Áp lực dương / Đẩy)"]["Vùng F"] == 0.2
+
+    def test_alpha_15_theta_180(self) -> None:
+        """alpha = 15°, theta = 180° -> F=-2.5, G=-1.3, H=-0.9."""
+        res = calc_monopitch_roof_ce_coefficients(pitch_angle_alpha=15.0, wind_angle_theta=180.0)
+        assert res.zone_values["Vùng F"] == -2.5
+        assert res.zone_values["Vùng G"] == -1.3
+        assert res.zone_values["Vùng H"] == -0.9
+
+    def test_alpha_15_theta_90(self) -> None:
+        """alpha = 15°, theta = 90° -> F_up=-2.4, F_low=-1.6, G=-1.9, H=-0.8, I=-0.7."""
+        res = calc_monopitch_roof_ce_coefficients(pitch_angle_alpha=15.0, wind_angle_theta=90.0)
+        assert res.zone_values["Vùng F_up"] == -2.4
+        assert res.zone_values["Vùng F_low"] == -1.6
+        assert res.zone_values["Vùng G"] == -1.9
+        assert res.zone_values["Vùng H"] == -0.8
+        assert res.zone_values["Vùng I"] == -0.7
+
+
+class TestHippedRoofSolvers:
+    """Kiểm tra tra cứu hệ số c_e cho mái dốc bốn phía (Bảng F.6)."""
+
+    def test_alpha_15_theta_0(self) -> None:
+        """alpha = 15°, theta = 0° -> Dual F, G, H và các vùng I, J, K, L, M, N."""
+        res = calc_hipped_roof_ce_coefficients(pitch_angle_alpha=15.0, wind_angle_theta=0.0)
+        case_suction = res.scenarios["Trường hợp 1 (Áp lực âm / Hút)"]
+        assert case_suction["Vùng F"] == -0.9
+        assert case_suction["Vùng G"] == -0.8
+        assert case_suction["Vùng H"] == -0.3
+        assert case_suction["Vùng I"] == -0.5
+        assert case_suction["Vùng J"] == -1.0
+        assert case_suction["Vùng K"] == -1.2
+        assert case_suction["Vùng L"] == -1.4
+        assert case_suction["Vùng M"] == -0.6
+        assert case_suction["Vùng N"] == -0.3
+
+
+class TestExtendedVisualCards:
+    """Kiểm tra nạp toàn bộ 6 Visual Cards."""
+
+    def test_all_6_cards_present(self) -> None:
+        cards = VisualCardEngine.list_cards()
+        assert len(cards) >= 6
+        expected_ids = {"FIG_TCVN2737_F1", "FIG_TCVN2737_F3", "FIG_TCVN2737_F4", "FIG_TCVN2737_F5A", "FIG_TCVN2737_F6", "FIG_TCVN2737_F7"}
+        found_ids = {c["card_id"] for c in cards}
+        assert expected_ids.issubset(found_ids)

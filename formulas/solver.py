@@ -22,7 +22,11 @@ from formulas.sprinkler_spacing import (
 )
 from formulas.wind_load_tcvn2737 import (
     calc_duopitch_roof_ce_coefficients,
+    calc_flat_roof_ce_coefficients,
     calc_freestanding_wall_aerodynamic_coeff,
+    calc_hipped_roof_ce_coefficients,
+    calc_monopitch_roof_ce_coefficients,
+    calc_vertical_wall_ce_coefficients,
 )
 
 
@@ -206,4 +210,74 @@ SymbolicFormulaSolver.register(
         },
     ),
     calc_duopitch_roof_ce_coefficients,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_WIND_TCVN2737_F3_FLAT",
+        name="Hệ số khí động c_e cho mái bằng",
+        category="WIND_LOAD",
+        standard_reference="Mục F.2, Hình F.3 & Bảng F.2 TCVN 2737:2023",
+        description="Tính toán hệ số c_e cho mái bằng có cạnh sắc, tường chắn mái hoặc bo tròn.",
+        parameters={
+            "eaves_type": "Loại mép mái ('CANH_SAC', 'TUONG_CHAN_MAI', 'BO_TRON', 'VAT_GOC')",
+            "parapet_height_hp": "Chiều cao tường chắn mái hp (m, tùy chọn)",
+            "radius_r": "Bán kính bo tròn r (m, tùy chọn)",
+            "building_height_h": "Chiều cao công trình h (m)",
+            "building_width_b": "Chiều rộng đón gió b (m, tùy chọn)",
+        },
+    ),
+    calc_flat_roof_ce_coefficients,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_WIND_TCVN2737_F4_MONOPITCH",
+        name="Hệ số khí động c_e cho mái dốc một phía",
+        category="WIND_LOAD",
+        standard_reference="Mục F.3, Hình F.4, Bảng F.3a & Bảng F.3b TCVN 2737:2023",
+        description="Tính toán hệ số c_e cho mái dốc 1 phía khi gió thổi 0°, 90° hoặc 180°.",
+        parameters={
+            "pitch_angle_alpha": "Góc dốc mái alpha (5 đến 75 độ)",
+            "wind_angle_theta": "Góc hướng gió theta (0, 90 hoặc 180 độ, mặc định 0)",
+            "building_width_b": "Chiều rộng đón gió b (m, tùy chọn)",
+            "building_height_h": "Chiều cao đỉnh mái h (m, tùy chọn)",
+            "building_depth_d": "Chiều sâu dọc gió d (m, tùy chọn)",
+        },
+    ),
+    calc_monopitch_roof_ce_coefficients,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_WIND_TCVN2737_F5A_WALLS",
+        name="Hệ số khí động c_e cho tường thẳng đứng của nhà chữ nhật",
+        category="WIND_LOAD",
+        standard_reference="Mục F.4.1, Hình F.5a & Bảng F.4 TCVN 2737:2023",
+        description="Tính toán hệ số c_e cho các vùng A, B, C (tường bên), D (đón gió), E (hút gió).",
+        parameters={
+            "building_height_h": "Chiều cao công trình h (m)",
+            "building_depth_d": "Chiều sâu dọc hướng gió d (m)",
+            "building_width_b": "Chiều rộng đón gió b (m, tùy chọn)",
+        },
+    ),
+    calc_vertical_wall_ce_coefficients,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_WIND_TCVN2737_F7_HIPPED",
+        name="Hệ số khí động c_e cho mái dốc bốn phía",
+        category="WIND_LOAD",
+        standard_reference="Mục F.5, Hình F.7 & Bảng F.6 TCVN 2737:2023",
+        description="Tính toán hệ số c_e cho 9 vùng F đến N trên mái dốc bốn phía (mái hông).",
+        parameters={
+            "pitch_angle_alpha": "Góc dốc mái alpha (5 đến 75 độ)",
+            "wind_angle_theta": "Góc hướng gió theta (0 hoặc 90 độ, mặc định 0)",
+            "building_width_b": "Chiều rộng đón gió b (m, tùy chọn)",
+            "building_height_h": "Chiều cao đỉnh mái h (m, tùy chọn)",
+            "building_depth_d": "Chiều sâu dọc gió d (m, tùy chọn)",
+        },
+    ),
+    calc_hipped_roof_ce_coefficients,
 )

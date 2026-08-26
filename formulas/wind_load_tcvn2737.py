@@ -434,3 +434,517 @@ def calc_duopitch_roof_ce_coefficients(
         is_compliant=True,
         compliance_message="Hệ số khí động c_e (θ = 0°) đã được tính toán và phân tách kịch bản chính xác 100% theo Bảng F.5a.",
     )
+
+
+# ===========================================================================
+# 3. BẢNG F.2 & HÌNH F.3: MÁI BẰNG (FLAT ROOFS)
+# ===========================================================================
+
+def calc_flat_roof_ce_coefficients(
+    eaves_type: str = "CANH_SAC",
+    parapet_height_hp: float = 0.0,
+    radius_r: float = 0.0,
+    building_height_h: float = 0.0,
+    building_width_b: float = 0.0,
+) -> CalculationResult:
+    """Tính toán hệ số khí động áp lực ngoài c_e cho mái bằng (Bảng F.2 / Hình F.3).
+
+    Căn cứ: Mục F.2, Hình F.3 và Bảng F.2 Phụ lục F TCVN 2737:2023.
+
+    Args:
+        eaves_type: Loại mép mái ('CANH_SAC', 'TUONG_CHAN_MAI', 'BO_TRON', 'VAT_GOC').
+        parapet_height_hp: Chiều cao tường chắn mái hp (m, mặc định 0.0).
+        radius_r: Bán kính bo tròn mép mái r (m, mặc định 0.0).
+        building_height_h: Chiều cao công trình h (m).
+        building_width_b: Chiều rộng đón gió b (m).
+    """
+    etype = eaves_type.upper().strip()
+    h = max(0.1, building_height_h)
+    steps: list[CalculationStep] = []
+    notes: list[str] = []
+
+    if building_width_b > 0 and building_height_h > 0:
+        e_dim = min(building_width_b, 2.0 * building_height_h)
+        notes.append(f"Kích thước e = min(b, 2h) = min({building_width_b:g}, {2.0*h:g}) = {e_dim:g} m.")
+        notes.append(f"Phân vùng Hình F.3: Vùng F ({e_dim/4.0:.2f} x {e_dim/10.0:.2f} m), Vùng G ({e_dim/10.0:.2f} m dọc mép đón gió), Vùng H ({e_dim/2.0:.2f} m dọc sườn), Vùng I (diện tích còn lại).")
+
+    # Mặc định Cạnh sắc
+    f, g, h_val, i_val = -1.8, -1.2, -0.7, 0.2
+    desc = "Mái bằng có cạnh sắc"
+
+    if etype in ("TUONG_CHAN_MAI", "PARAPET") and parapet_height_hp > 0:
+        ratio = parapet_height_hp / h
+        desc = f"Mái bằng có tường chắn mái (hp/h = {ratio:.3f})"
+        if ratio <= 0.025:
+            f, g = -1.6, -1.1
+        elif ratio <= 0.05:
+            f = round(_interp(ratio, 0.025, 0.05, -1.6, -1.4), 3)
+            g = round(_interp(ratio, 0.025, 0.05, -1.1, -0.9), 3)
+        elif ratio < 0.10:
+            f = round(_interp(ratio, 0.05, 0.10, -1.4, -1.2), 3)
+            g = round(_interp(ratio, 0.05, 0.10, -0.9, -0.8), 3)
+        else:
+            f, g = -1.2, -0.8
+        notes.append(f"Hệ số khí động áp lực cho tường chắn mái được tính theo F.1.1 (Chú thích Bảng F.2).")
+    elif etype in ("BO_TRON", "ROUNDED") and radius_r > 0:
+        ratio = radius_r / h
+        desc = f"Mái bằng có cạnh bo tròn (r/h = {ratio:.3f})"
+        if ratio <= 0.05:
+            f, g, h_val = -1.0, -0.7, -0.7
+        elif ratio <= 0.10:
+            f = round(_interp(ratio, 0.05, 0.10, -1.0, -0.7), 3)
+            g, h_val = -0.7, -0.7
+        elif ratio < 0.20:
+            f = round(_interp(ratio, 0.10, 0.20, -0.7, -0.5), 3)
+            g = round(_interp(ratio, 0.10, 0.20, -0.7, -0.5), 3)
+            h_val = round(_interp(ratio, 0.10, 0.20, -0.7, -0.5), 3)
+        else:
+            f, g, h_val = -0.5, -0.5, -0.5
+
+    steps.append(
+        CalculationStep(
+            step_number=1,
+            description=f"Tra cứu và nội suy hệ số c_e Bảng F.2 cho {desc}",
+            formula_latex=r"c_e(	ext{mái bằng})",
+            substitution=f"Loại mép: {etype}",
+            result_text=f"Vùng F={f:g}, G={g:g}, H={h_val:g}, I=±{i_val:g}",
+        )
+    )
+
+    # Vùng I có cả giá trị dương và âm (CHÚ THÍCH 3)
+    scenarios = {
+        "Trường hợp 1 (Áp lực âm / Hút)": {"Vùng F": f, "Vùng G": g, "Vùng H": h_val, "Vùng I": -0.2},
+        "Trường hợp 2 (Áp lực dương / Đẩy)": {"Vùng F": f, "Vùng G": g, "Vùng H": h_val, "Vùng I": 0.2},
+    }
+    notes.append("CHÚ THÍCH 3 Bảng F.2: Trong vùng I, nơi có các giá trị dương và âm (±0.2), cần xét cả hai giá trị này.")
+
+    return CalculationResult(
+        formula_id="F_WIND_TCVN2737_F3_FLAT",
+        formula_name="Hệ số khí động c_e cho mái bằng",
+        standard_reference="Mục F.2, Hình F.3 & Bảng F.2 Phụ lục F TCVN 2737:2023",
+        inputs={
+            "eaves_type": etype,
+            "parapet_height_hp_m": parapet_height_hp,
+            "radius_r_m": radius_r,
+            "building_height_h_m": building_height_h,
+            "building_width_b_m": building_width_b,
+        },
+        outputs=scenarios,
+        unit="",
+        primary_value=f,
+        scenarios=scenarios,
+        steps=steps,
+        notes=notes,
+        is_compliant=True,
+        compliance_message="Hệ số khí động c_e cho mái bằng đã được tính toán chính xác theo Bảng F.2.",
+    )
+
+
+# ===========================================================================
+# 4. BẢNG F.4 & HÌNH F.5a: TƯỜNG THẲNG ĐỨNG CỦA NHÀ MẶT BẰNG CHỮ NHẬT
+# ===========================================================================
+
+def calc_vertical_wall_ce_coefficients(
+    building_height_h: float,
+    building_depth_d: float,
+    building_width_b: float = 0.0,
+) -> CalculationResult:
+    """Tính toán hệ số khí động c_e cho các tường thẳng đứng của nhà chữ nhật (Bảng F.4 / Hình F.5a).
+
+    Căn cứ: Mục F.4.1, Hình F.5a và Bảng F.4 Phụ lục F TCVN 2737:2023.
+
+    Args:
+        building_height_h: Chiều cao công trình h (m).
+        building_depth_d: Chiều sâu dọc hướng gió d (m).
+        building_width_b: Chiều rộng mặt đón gió b (m, tùy chọn).
+    """
+    if building_height_h <= 0 or building_depth_d <= 0:
+        raise ValueError("Chiều cao h và chiều sâu d phải > 0")
+
+    ratio_h_d = building_height_h / building_depth_d
+    steps: list[CalculationStep] = []
+    notes: list[str] = []
+
+    steps.append(
+        CalculationStep(
+            step_number=1,
+            description="Xác định tỷ lệ kích thước h/d",
+            formula_latex=r"rac{h}{d}",
+            substitution=rf"rac{{{building_height_h:g}}}{{{building_depth_d:g}}} = {ratio_h_d:.2f}",
+            result_text=f"h/d = {ratio_h_d:.2f}",
+        )
+    )
+
+    # Tra Bảng F.4
+    # h/d >= 5: A=-1.2, B=-0.8, C=-0.5, D=+0.8, E=-0.7
+    # h/d = 1:  A=-1.2, B=-0.8, C=-0.5, D=+0.8, E=-0.5
+    # h/d <= 0.25: A=-1.2, B=-0.8, C=-0.5, D=+0.7, E=-0.3
+    if ratio_h_d >= 5.0:
+        a, b_val, c_val, d_val, e_val = -1.2, -0.8, -0.5, 0.8, -0.7
+        desc = "h/d >= 5.0 (Tra trực tiếp hàng h/d = 5)"
+    elif ratio_h_d >= 1.0:
+        a, b_val, c_val = -1.2, -0.8, -0.5
+        d_val = 0.8
+        e_val = round(_interp(ratio_h_d, 1.0, 5.0, -0.5, -0.7), 3)
+        desc = "1.0 <= h/d < 5.0 (Nội suy tuyến tính vùng E giữa h/d=1 và h/d=5)"
+    elif ratio_h_d > 0.25:
+        a, b_val, c_val = -1.2, -0.8, -0.5
+        d_val = round(_interp(ratio_h_d, 0.25, 1.0, 0.7, 0.8), 3)
+        e_val = round(_interp(ratio_h_d, 0.25, 1.0, -0.3, -0.5), 3)
+        desc = "0.25 < h/d < 1.0 (Nội suy tuyến tính vùng D và E giữa h/d=0.25 và h/d=1)"
+    else:
+        a, b_val, c_val, d_val, e_val = -1.2, -0.8, -0.5, 0.7, -0.3
+        desc = "h/d <= 0.25 (Tra trực tiếp hàng h/d <= 0.25)"
+
+    steps.append(
+        CalculationStep(
+            step_number=2,
+            description=f"Tra và nội suy hệ số c_e Bảng F.4 ({desc})",
+            formula_latex=r"c_e(	ext{tường đứng})",
+            substitution=f"h/d = {ratio_h_d:.2f}",
+            result_text=f"Vùng A={a:g}, B={b_val:g}, C={c_val:g}, D={d_val:g}, E={e_val:g}",
+        )
+    )
+
+    if building_width_b > 0:
+        e_dim = min(building_width_b, 2.0 * building_height_h)
+        notes.append(f"Kích thước e = min(b, 2h) = min({building_width_b:g}, {2.0*building_height_h:g}) = {e_dim:g} m.")
+        notes.append(f"Phân vùng tường bên Hình F.5a: Vùng A (chiều rộng e/5 = {e_dim/5.0:.2f} m), Vùng B (chiều rộng 4e/5 = {4.0*e_dim/5.0:.2f} m), Vùng C (chiều rộng d - e = {building_depth_d - e_dim:.2f} m khi d > e).")
+
+    zones = {
+        "Vùng A (Tường bên mép đón)": a,
+        "Vùng B (Tường bên dải giữa)": b_val,
+        "Vùng C (Tường bên dải cuối)": c_val,
+        "Vùng D (Tường đón gió)": d_val,
+        "Vùng E (Tường hút gió)": e_val,
+    }
+
+    return CalculationResult(
+        formula_id="F_WIND_TCVN2737_F5A_WALLS",
+        formula_name="Hệ số khí động c_e cho tường thẳng đứng của nhà chữ nhật",
+        standard_reference="Mục F.4.1, Hình F.5a & Bảng F.4 Phụ lục F TCVN 2737:2023",
+        inputs={"building_height_h_m": building_height_h, "building_depth_d_m": building_depth_d, "building_width_b_m": building_width_b},
+        outputs={f"ce_{z}": val for z, val in zones.items()},
+        unit="",
+        primary_value=d_val,
+        zone_values=zones,
+        steps=steps,
+        notes=notes,
+        is_compliant=True,
+        compliance_message="Hệ số khí động c_e cho tường đứng đã được tính toán chính xác theo Bảng F.4.",
+    )
+
+
+# ===========================================================================
+# 5. BẢNG F.3a, F.3b & HÌNH F.4: MÁI DỐC MỘT PHÍA (MONOPITCH ROOFS)
+# ===========================================================================
+
+# Bảng F.3a: theta = 0 và 180 độ
+# Format: alpha: (F_0_neg, F_0_pos, G_0_neg, G_0_pos, H_0_neg, H_0_pos, F_180, G_180, H_180)
+_RAW_F3A: dict[float, tuple[float | None, ...]] = {
+    5.0:  (-1.7, 0.0, -1.2, 0.0, -0.6, 0.0, -2.3, -1.3, -0.8),
+    15.0: (-0.9, 0.2, -0.8, 0.2, -0.3, 0.2, -2.5, -1.3, -0.9),
+    30.0: (-0.5, 0.7, -0.5, 0.7, -0.2, 0.4, -1.1, -0.8, -0.8),
+    45.0: (-0.0, 0.7, -0.0, 0.7, -0.0, 0.6, -0.6, -0.5, -0.7),
+    60.0: (None, 0.7, None, 0.7, None, 0.7, -0.5, -0.5, -0.5),
+    75.0: (None, 0.8, None, 0.8, None, 0.8, -0.5, -0.5, -0.5),
+}
+
+# Bảng F.3b: theta = 90 độ
+# Format: alpha: (F_up, F_low, G, H, I)
+_RAW_F3B: dict[float, tuple[float, float, float, float, float]] = {
+    5.0:  (-2.1, -2.1, -1.8, -0.6, -0.5),
+    15.0: (-2.4, -1.6, -1.9, -0.8, -0.7),
+    30.0: (-2.1, -1.3, -1.5, -1.0, -0.8),
+    45.0: (-1.5, -1.3, -1.4, -1.0, -0.9),
+    60.0: (-1.2, -1.2, -1.2, -1.0, -0.7),
+    75.0: (-1.2, -1.2, -1.2, -1.0, -0.5),
+}
+
+
+def calc_monopitch_roof_ce_coefficients(
+    pitch_angle_alpha: float,
+    wind_angle_theta: float = 0.0,
+    building_width_b: float = 0.0,
+    building_height_h: float = 0.0,
+    building_depth_d: float = 0.0,
+) -> CalculationResult:
+    """Tính toán hệ số khí động áp lực ngoài c_e cho mái dốc một phía (Bảng F.3a, F.3b / Hình F.4).
+
+    Căn cứ: Mục F.3, Hình F.4, Bảng F.3a và Bảng F.3b Phụ lục F TCVN 2737:2023.
+
+    Args:
+        pitch_angle_alpha: Góc dốc mái alpha (5 <= alpha <= 75 độ).
+        wind_angle_theta: Góc hướng gió theta (0, 90 hoặc 180 độ, mặc định 0).
+        building_width_b: Chiều rộng đón gió b (m, tùy chọn).
+        building_height_h: Chiều cao đỉnh mái h (m, tùy chọn).
+        building_depth_d: Chiều sâu dọc gió d (m, tùy chọn).
+    """
+    alpha = float(pitch_angle_alpha)
+    if alpha < 5.0 or alpha > 75.0:
+        raise ValueError(f"Góc dốc mái alpha = {alpha:g}° nằm ngoài phạm vi Bảng F.3 (5° đến 75°)")
+
+    theta = 90.0 if abs(wind_angle_theta - 90.0) < 45.0 else (180.0 if wind_angle_theta >= 135.0 else 0.0)
+    steps: list[CalculationStep] = []
+    notes: list[str] = []
+
+    steps.append(
+        CalculationStep(
+            step_number=1,
+            description="Xác định góc dốc mái α và hướng gió θ",
+            formula_latex=r"lpha = \dots^\circ,\; 	heta = \dots^\circ",
+            substitution=rf"lpha = {alpha:g}^\circ, 	heta = {theta:g}^\circ",
+            result_text=f"α = {alpha:g}°, θ = {theta:g}°",
+        )
+    )
+
+    if building_width_b > 0 and building_height_h > 0:
+        e_dim = min(building_width_b, 2.0 * building_height_h)
+        notes.append(f"Kích thước e = min(b, 2h) = {e_dim:g} m.")
+
+    # theta = 90 deg (Bảng F.3b)
+    if theta == 90.0:
+        angles = sorted(_RAW_F3B.keys())
+        if alpha in _RAW_F3B:
+            f_up, f_low, g, h_val, i_val = _RAW_F3B[alpha]
+        else:
+            idx = 0
+            for k in range(len(angles) - 1):
+                if angles[k] <= alpha <= angles[k+1]:
+                    idx = k
+                    break
+            a0, a1 = angles[idx], angles[idx+1]
+            r0, r1 = _RAW_F3B[a0], _RAW_F3B[a1]
+            f_up = round(_interp(alpha, a0, a1, r0[0], r1[0]), 3)
+            f_low = round(_interp(alpha, a0, a1, r0[1], r1[1]), 3)
+            g = round(_interp(alpha, a0, a1, r0[2], r1[2]), 3)
+            h_val = round(_interp(alpha, a0, a1, r0[3], r1[3]), 3)
+            i_val = round(_interp(alpha, a0, a1, r0[4], r1[4]), 3)
+
+        zones = {"Vùng F_up": f_up, "Vùng F_low": f_low, "Vùng G": g, "Vùng H": h_val, "Vùng I": i_val}
+        return CalculationResult(
+            formula_id="F_WIND_TCVN2737_F4_MONOPITCH",
+            formula_name="Hệ số khí động c_e cho mái dốc 1 phía (θ = 90°)",
+            standard_reference="Mục F.3, Hình F.4 & Bảng F.3b TCVN 2737:2023",
+            inputs={"pitch_angle_alpha": alpha, "wind_angle_theta": 90.0},
+            outputs={f"ce_{z}": val for z, val in zones.items()},
+            unit="",
+            primary_value=f_up,
+            zone_values=zones,
+            steps=steps,
+            notes=notes,
+            is_compliant=True,
+            compliance_message="Hệ số c_e (θ = 90°) đã được tính toán chính xác theo Bảng F.3b.",
+        )
+
+    # theta = 180 deg
+    if theta == 180.0:
+        angles = sorted(_RAW_F3A.keys())
+        if alpha in _RAW_F3A:
+            r = _RAW_F3A[alpha]
+            f_180, g_180, h_180 = r[6], r[7], r[8]
+        else:
+            idx = 0
+            for k in range(len(angles) - 1):
+                if angles[k] <= alpha <= angles[k+1]:
+                    idx = k
+                    break
+            a0, a1 = angles[idx], angles[idx+1]
+            r0, r1 = _RAW_F3A[a0], _RAW_F3A[a1]
+            f_180 = round(_interp(alpha, a0, a1, r0[6], r1[6]), 3)
+            g_180 = round(_interp(alpha, a0, a1, r0[7], r1[7]), 3)
+            h_180 = round(_interp(alpha, a0, a1, r0[8], r1[8]), 3)
+
+        zones = {"Vùng F": f_180, "Vùng G": g_180, "Vùng H": h_180}
+        return CalculationResult(
+            formula_id="F_WIND_TCVN2737_F4_MONOPITCH",
+            formula_name="Hệ số khí động c_e cho mái dốc 1 phía (θ = 180°)",
+            standard_reference="Mục F.3, Hình F.4 & Bảng F.3a TCVN 2737:2023",
+            inputs={"pitch_angle_alpha": alpha, "wind_angle_theta": 180.0},
+            outputs={f"ce_{z}": val for z, val in zones.items()},
+            unit="",
+            primary_value=f_180,
+            zone_values=zones,
+            steps=steps,
+            notes=notes,
+            is_compliant=True,
+            compliance_message="Hệ số c_e (θ = 180°) đã được tính toán chính xác theo Bảng F.3a.",
+        )
+
+    # theta = 0 deg (có dual values)
+    angles = sorted(_RAW_F3A.keys())
+    if alpha in _RAW_F3A:
+        r = _RAW_F3A[alpha]
+        f_neg, f_pos, g_neg, g_pos, h_neg, h_pos = r[0], r[1], r[2], r[3], r[4], r[5]
+    else:
+        idx = 0
+        for k in range(len(angles) - 1):
+            if angles[k] <= alpha <= angles[k+1]:
+                idx = k
+                break
+        a0, a1 = angles[idx], angles[idx+1]
+        r0, r1 = _RAW_F3A[a0], _RAW_F3A[a1]
+
+        def _interp_val(v0: float | None, v1: float | None) -> float | None:
+            if v0 is not None and v1 is not None:
+                return round(_interp(alpha, a0, a1, v0, v1), 3)
+            return v0 if v0 is not None else v1
+
+        f_neg = _interp_val(r0[0], r1[0])
+        f_pos = _interp_val(r0[1], r1[1])
+        g_neg = _interp_val(r0[2], r1[2])
+        g_pos = _interp_val(r0[3], r1[3])
+        h_neg = _interp_val(r0[4], r1[4])
+        h_pos = _interp_val(r0[5], r1[5])
+
+    scenarios = {}
+    if f_pos is not None and f_neg is not None:
+        scenarios["Trường hợp 1 (Áp lực âm / Hút)"] = {"Vùng F": f_neg, "Vùng G": g_neg, "Vùng H": h_neg}
+        scenarios["Trường hợp 2 (Áp lực dương / Đẩy)"] = {"Vùng F": f_pos, "Vùng G": g_pos, "Vùng H": h_pos}
+        notes.append("CHÚ THÍCH 1 Bảng F.3a: Bắt buộc xét 2 trường hợp tải trọng riêng biệt (Toàn bộ âm hoặc Toàn bộ dương).")
+        primary = f_neg
+        zone_vals = {}
+    else:
+        primary = f_pos if f_pos is not None else f_neg
+        zone_vals = {"Vùng F": primary, "Vùng G": g_pos if g_pos is not None else g_neg, "Vùng H": h_pos if h_pos is not None else h_neg}
+
+    return CalculationResult(
+        formula_id="F_WIND_TCVN2737_F4_MONOPITCH",
+        formula_name="Hệ số khí động c_e cho mái dốc 1 phía (θ = 0°)",
+        standard_reference="Mục F.3, Hình F.4 & Bảng F.3a TCVN 2737:2023",
+        inputs={"pitch_angle_alpha": alpha, "wind_angle_theta": 0.0},
+        outputs=scenarios if scenarios else {f"ce_{z}": val for z, val in zone_vals.items()},
+        unit="",
+        primary_value=primary,
+        zone_values=zone_vals,
+        scenarios=scenarios,
+        steps=steps,
+        notes=notes,
+        is_compliant=True,
+        compliance_message="Hệ số c_e (θ = 0°) đã được tính toán chính xác theo Bảng F.3a.",
+    )
+
+
+# ===========================================================================
+# 6. BẢNG F.6 & HÌNH F.7: MÁI DỐC BỐN PHÍA (HIPPED ROOFS)
+# ===========================================================================
+
+# Bảng F.6:
+# Format: alpha: (F_neg, F_pos, G_neg, G_pos, H_neg, H_pos, I, J, K, L, M, N)
+_RAW_F6: dict[float, tuple[float | None, ...]] = {
+    5.0:  (-1.7, 0.0, -1.2, 0.0, -0.6, 0.0, -0.3, -0.6, -0.6, -1.2, -0.4, -0.4),
+    15.0: (-0.9, 0.2, -0.8, 0.2, -0.3, 0.2, -0.5, -1.0, -1.2, -1.4, -0.6, -0.3),
+    30.0: (-0.5, 0.7, -0.5, 0.7, -0.2, 0.4, -0.4, -0.5, -0.5, -0.8, -0.8, -0.2),
+    45.0: (-0.0, 0.7, -0.0, 0.7, -0.0, 0.6, -0.3, -0.4, -0.7, -0.8, -0.8, -0.2),
+    60.0: (None, 0.7, None, 0.7, None, 0.7, -0.3, -0.4, -0.7, -0.8, -0.8, -0.2),
+    75.0: (None, 0.8, None, 0.8, None, 0.8, -0.3, -0.4, -0.7, -0.8, -0.8, -0.2),
+}
+
+
+def calc_hipped_roof_ce_coefficients(
+    pitch_angle_alpha: float,
+    wind_angle_theta: float = 0.0,
+    building_width_b: float = 0.0,
+    building_height_h: float = 0.0,
+    building_depth_d: float = 0.0,
+) -> CalculationResult:
+    """Tính toán hệ số khí động áp lực ngoài c_e cho mái dốc bốn phía (Bảng F.6 / Hình F.7).
+
+    Căn cứ: Mục F.5, Hình F.7 và Bảng F.6 Phụ lục F TCVN 2737:2023.
+
+    Args:
+        pitch_angle_alpha: Góc dốc mái alpha (5 <= alpha <= 75 độ).
+        wind_angle_theta: Góc hướng gió theta (0 hoặc 90 độ, mặc định 0).
+        building_width_b: Chiều rộng đón gió b (m, tùy chọn).
+        building_height_h: Chiều cao đỉnh mái h (m, tùy chọn).
+        building_depth_d: Chiều sâu dọc gió d (m, tùy chọn).
+    """
+    alpha = float(pitch_angle_alpha)
+    if alpha < 5.0 or alpha > 75.0:
+        raise ValueError(f"Góc dốc mái alpha = {alpha:g}° nằm ngoài phạm vi Bảng F.6 (5° đến 75°)")
+
+    theta = 90.0 if abs(wind_angle_theta - 90.0) < 45.0 else 0.0
+    steps: list[CalculationStep] = []
+    notes: list[str] = []
+
+    steps.append(
+        CalculationStep(
+            step_number=1,
+            description="Xác định góc dốc mái α và góc hướng gió θ",
+            formula_latex=r"lpha = \dots^\circ,\; 	heta = \dots^\circ",
+            substitution=rf"lpha = {alpha:g}^\circ, 	heta = {theta:g}^\circ",
+            result_text=f"α = {alpha:g}°, θ = {theta:g}°",
+        )
+    )
+
+    if building_width_b > 0 and building_height_h > 0:
+        e_dim = min(building_width_b, 2.0 * building_height_h)
+        notes.append(f"Kích thước e = min(b, 2h) = {e_dim:g} m.")
+
+    angles = sorted(_RAW_F6.keys())
+    if alpha in _RAW_F6:
+        r = _RAW_F6[alpha]
+        f_neg, f_pos, g_neg, g_pos, h_neg, h_pos = r[0], r[1], r[2], r[3], r[4], r[5]
+        i_val, j_val, k_val, l_val, m_val, n_val = r[6], r[7], r[8], r[9], r[10], r[11]
+    else:
+        idx = 0
+        for k in range(len(angles) - 1):
+            if angles[k] <= alpha <= angles[k+1]:
+                idx = k
+                break
+        a0, a1 = angles[idx], angles[idx+1]
+        r0, r1 = _RAW_F6[a0], _RAW_F6[a1]
+
+        def _interp_val(v0: float | None, v1: float | None) -> float | None:
+            if v0 is not None and v1 is not None:
+                return round(_interp(alpha, a0, a1, v0, v1), 3)
+            return v0 if v0 is not None else v1
+
+        f_neg = _interp_val(r0[0], r1[0])
+        f_pos = _interp_val(r0[1], r1[1])
+        g_neg = _interp_val(r0[2], r1[2])
+        g_pos = _interp_val(r0[3], r1[3])
+        h_neg = _interp_val(r0[4], r1[4])
+        h_pos = _interp_val(r0[5], r1[5])
+        i_val = round(_interp(alpha, a0, a1, r0[6], r1[6]), 3)
+        j_val = round(_interp(alpha, a0, a1, r0[7], r1[7]), 3)
+        k_val = round(_interp(alpha, a0, a1, r0[8], r1[8]), 3)
+        l_val = round(_interp(alpha, a0, a1, r0[9], r1[9]), 3)
+        m_val = round(_interp(alpha, a0, a1, r0[10], r1[10]), 3)
+        n_val = round(_interp(alpha, a0, a1, r0[11], r1[11]), 3)
+
+    scenarios = {}
+    if f_pos is not None and f_neg is not None:
+        scenarios["Trường hợp 1 (Áp lực âm / Hút)"] = {
+            "Vùng F": f_neg, "Vùng G": g_neg, "Vùng H": h_neg, "Vùng I": i_val,
+            "Vùng J": j_val, "Vùng K": k_val, "Vùng L": l_val, "Vùng M": m_val, "Vùng N": n_val
+        }
+        scenarios["Trường hợp 2 (Áp lực dương / Đẩy)"] = {
+            "Vùng F": f_pos, "Vùng G": g_pos, "Vùng H": h_pos, "Vùng I": i_val,
+            "Vùng J": j_val, "Vùng K": k_val, "Vùng L": l_val, "Vùng M": m_val, "Vùng N": n_val
+        }
+        notes.append("CHÚ THÍCH 1 Bảng F.6: Bắt buộc xét 2 trường hợp tải trọng riêng biệt (Toàn bộ âm hoặc Toàn bộ dương).")
+        primary = f_neg
+        zone_vals = {}
+    else:
+        primary = f_pos if f_pos is not None else f_neg
+        zone_vals = {
+            "Vùng F": primary, "Vùng G": g_pos if g_pos is not None else g_neg, "Vùng H": h_pos if h_pos is not None else h_neg,
+            "Vùng I": i_val, "Vùng J": j_val, "Vùng K": k_val, "Vùng L": l_val, "Vùng M": m_val, "Vùng N": n_val
+        }
+
+    return CalculationResult(
+        formula_id="F_WIND_TCVN2737_F7_HIPPED",
+        formula_name="Hệ số khí động c_e cho mái dốc bốn phía",
+        standard_reference="Mục F.5, Hình F.7 & Bảng F.6 TCVN 2737:2023",
+        inputs={"pitch_angle_alpha": alpha, "wind_angle_theta": theta},
+        outputs=scenarios if scenarios else {f"ce_{z}": val for z, val in zone_vals.items()},
+        unit="",
+        primary_value=primary,
+        zone_values=zone_vals,
+        scenarios=scenarios,
+        steps=steps,
+        notes=notes,
+        is_compliant=True,
+        compliance_message="Hệ số c_e cho mái dốc bốn phía đã được tính toán chính xác theo Bảng F.6.",
+    )

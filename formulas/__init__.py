@@ -24,7 +24,11 @@ from formulas.visual_card_engine import (
 )
 from formulas.wind_load_tcvn2737 import (
     calc_duopitch_roof_ce_coefficients,
+    calc_flat_roof_ce_coefficients,
     calc_freestanding_wall_aerodynamic_coeff,
+    calc_hipped_roof_ce_coefficients,
+    calc_monopitch_roof_ce_coefficients,
+    calc_vertical_wall_ce_coefficients,
 )
 
 __all__ = [
@@ -43,4 +47,8 @@ __all__ = [
     "calc_sprinkler_room_layout",
     "calc_freestanding_wall_aerodynamic_coeff",
     "calc_duopitch_roof_ce_coefficients",
+    "calc_flat_roof_ce_coefficients",
+    "calc_monopitch_roof_ce_coefficients",
+    "calc_vertical_wall_ce_coefficients",
+    "calc_hipped_roof_ce_coefficients",
 ]
