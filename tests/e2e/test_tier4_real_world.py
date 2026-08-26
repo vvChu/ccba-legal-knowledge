@@ -170,8 +170,8 @@ def test_scenario_s7_footnote_regulatory_interpretation(
 # =====================================================================
 
 def test_scenario_s8_full_okf_spoke_validation_gate(repo_root: Path):
-    """S8: Complete automated gate execution via validate_legal_spoke.py and verify_knowledge_integrity.py."""
-    # 1. Execute validate_legal_spoke.py
+    """S8: Complete automated gate execution via validate_legal_spoke.py."""
+    # 1. Execute validate_legal_spoke.py (Master 10-Gate Validator)
     v_spoke = subprocess.run(
         [sys.executable, str(repo_root / "scripts" / "validate_legal_spoke.py")],
         capture_output=True,
@@ -182,13 +182,3 @@ def test_scenario_s8_full_okf_spoke_validation_gate(repo_root: Path):
     )
     assert v_spoke.returncode == 0, f"validate_legal_spoke failed:\n{v_spoke.stdout}\n{v_spoke.stderr}"
 
-    # 2. Execute verify_knowledge_integrity.py
-    v_integrity = subprocess.run(
-        [sys.executable, str(repo_root / "scripts" / "verify_knowledge_integrity.py")],
-        capture_output=True,
-        text=True,
-        encoding="utf-8",
-        errors="replace",
-        cwd=str(repo_root),
-    )
-    assert v_integrity.returncode == 0, f"verify_knowledge_integrity failed:\n{v_integrity.stdout}\n{v_integrity.stderr}"

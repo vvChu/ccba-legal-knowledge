@@ -188,6 +188,12 @@ def parse_markdown_qcvn(md_path: Path) -> MarkdownParsedBundle:
         raise FileNotFoundError(f"Target Markdown not found at {md_path}")
 
     raw_text = md_path.read_text(encoding="utf-8")
+    bundle_dir = md_path.parent
+    annexes_dir = bundle_dir / "annexes"
+    if annexes_dir.exists():
+        for annex_file in sorted(annexes_dir.glob("*.md")):
+            raw_text += "\n\n" + annex_file.read_text(encoding="utf-8")
+
     raw_lines = raw_text.splitlines()
     normalized_text = re.sub(r"\s+", " ", raw_text).lower()
 
@@ -405,7 +411,10 @@ def md_qcvn_path(qcvn_bundle_dir: Path) -> Path:
 @pytest.fixture(scope="session")
 def md_sd1_path(qcvn_bundle_dir: Path) -> Path:
     """Path to sua_doi_1_2023_qcvn_06_2022_bxd.md."""
-    return qcvn_bundle_dir / "sua_doi_1_2023_qcvn_06_2022_bxd.md"
+    target = qcvn_bundle_dir / "sources" / "sua_doi_1_2023_qcvn_06_2022_bxd.md"
+    if not target.exists():
+        target = qcvn_bundle_dir / "sua_doi_1_2023_qcvn_06_2022_bxd.md"
+    return target
 
 @pytest.fixture(scope="session")
 def qcvn_docx_parsed(docx_qcvn_path: Path) -> DocxParsedBundle:

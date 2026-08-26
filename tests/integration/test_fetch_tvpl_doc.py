@@ -31,7 +31,7 @@ def find_doc_in_registry(
     key: str, registry_file: Path | None = None
 ) -> tuple[str | None, str | None, dict[str, Any] | None]:
     """Find a document in legal_registry.yaml by number, title, id, or URL."""
-    reg_path = registry_file or (Path(__file__).resolve().parent.parent / "legal_registry.yaml")
+    reg_path = registry_file or (Path(__file__).resolve().parent.parent.parent / "legal_registry.yaml")
     if not reg_path.exists():
         return None, None, None
 

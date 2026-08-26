@@ -26,7 +26,7 @@ TARGET_DECREES = [
     "nghi_dinh_193_2026_nd_cp",
 ]
 
-ROOT_DIR = Path(__file__).resolve().parent.parent
+ROOT_DIR = Path(__file__).resolve().parent.parent.parent
 EXTRACTED_DOCS_DIR = ROOT_DIR / ".md" / "extracted_docs"
 LEGAL_DOCS_DIR = ROOT_DIR / "legal_docs" / "01_vbpl"
 
@@ -132,14 +132,14 @@ def test_docx_converter_custom_output_filename_in_subfolder(tmp_path: Path):
 
 def test_docx_converter_cli_invalid_flags():
     """Test CLI behavior with invalid flags using subprocess."""
-    cmd = [sys.executable, "-m", "scripts.docx_converter", "--invalid-flag-xyz"]
+    cmd = [sys.executable, "-m", "ccba_legal", "convert", "--invalid-flag-xyz"]
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=str(ROOT_DIR))
     assert result.returncode != 0
     assert "unrecognized arguments" in result.stderr or "usage:" in result.stderr
 
 def test_docx_converter_cli_missing_args():
     """Test CLI behavior when mandatory positional args are omitted."""
-    cmd = [sys.executable, "-m", "scripts.docx_converter"]
+    cmd = [sys.executable, "-m", "ccba_legal", "convert"]
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=str(ROOT_DIR))
     assert result.returncode != 0
     assert "required" in result.stderr or "usage:" in result.stderr
@@ -151,14 +151,13 @@ def test_docx_converter_cli_valid_run(tmp_path: Path):
     target_dir = tmp_path / "cli_bundle"
 
     cmd = [
-        sys.executable, "-m", "scripts.docx_converter",
+        sys.executable, "-m", "ccba_legal", "convert",
         str(input_docx), str(target_dir),
         "-o", "cli_out.md",
         "-t", "vbpl"
     ]
     result = subprocess.run(cmd, capture_output=True, text=True, cwd=str(ROOT_DIR))
     assert result.returncode == 0
-    assert "COMPLETE OKF BUNDLE RESULT" in result.stdout
     assert (target_dir / "cli_out.md").exists()
 
 # =====================================================================

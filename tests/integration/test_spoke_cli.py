@@ -7,7 +7,7 @@ from scripts.spoke_cli import get_spoke_stats
 from scripts.validate_legal_spoke import LegalSpokeValidator
 
 def test_spoke_stats_computation():
-    root_dir = Path(__file__).resolve().parent.parent
+    root_dir = Path(__file__).resolve().parent.parent.parent
     stats = get_spoke_stats(root_dir)
 
     assert stats["doc_count"] >= 21
@@ -19,7 +19,7 @@ def test_spoke_stats_computation():
     assert stats["total_qa"] > 700
 
 def test_spoke_validator_pass():
-    root_dir = Path(__file__).resolve().parent.parent
+    root_dir = Path(__file__).resolve().parent.parent.parent
     validator = LegalSpokeValidator(root_dir)
     success = validator.run_all_checks()
 

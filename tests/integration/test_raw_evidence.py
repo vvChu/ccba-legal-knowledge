@@ -13,7 +13,7 @@ TARGET_DECREES = [
     "nghi_dinh_193_2026_nd_cp",
 ]
 
-ROOT_DIR = Path(__file__).resolve().parent.parent
+ROOT_DIR = Path(__file__).resolve().parent.parent.parent
 EXTRACTED_DOCS_DIR = ROOT_DIR / "legal_docs" / "01_vbpl"
 
 def test_raw_evidence_directories_exist():

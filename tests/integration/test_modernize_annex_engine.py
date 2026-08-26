@@ -4,16 +4,18 @@ import sys
 from pathlib import Path
 from PIL import Image
 
-# Import from scripts
-scripts_dir = Path(__file__).parent.parent / "scripts"
-if str(scripts_dir) not in sys.path:
-    sys.path.insert(0, str(scripts_dir))
-
-from modernize_annex_engine import (
-    FigureAutoCompositor,
-    MathEquationConverter,
-    TableMatrixBuilder,
-)
+try:
+    from scripts.modernize_annex_engine import (
+        FigureAutoCompositor,
+        MathEquationConverter,
+        TableMatrixBuilder,
+    )
+except ImportError:
+    from modernize_annex_engine import (
+        FigureAutoCompositor,
+        MathEquationConverter,
+        TableMatrixBuilder,
+    )
 
 
 def test_figure_auto_compositor_vertical(tmp_path: Path) -> None:

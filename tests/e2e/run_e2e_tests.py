@@ -187,7 +187,7 @@ def generate_reports(
 def main() -> int:
     """Main CLI entry point."""
     tests_dir = Path(__file__).resolve().parent
-    repo_root = tests_dir.parent
+    repo_root = tests_dir.parent.parent
     reports_dir = repo_root / ".agents" / "test_reports"
 
     print("=" * 72)
