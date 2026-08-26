@@ -22,6 +22,12 @@ from formulas.visual_card_engine import (
     VisualCardEngine,
     VisualCardEvaluation,
 )
+from formulas.deflection_limits_tcvn2737 import (
+    calc_horizontal_drift_limit,
+    calc_importance_factor_gamma_n,
+    calc_vertical_deflection_limit,
+    check_deflection_and_drift_limits,
+)
 from formulas.vietnam_wind_zones import (
     calc_base_wind_pressure_w0,
 )
@@ -63,4 +69,8 @@ __all__ = [
     "calc_topography_datum_z0",
     "calc_terrain_height_factor_kz",
     "calc_base_wind_pressure_w0",
+    "calc_vertical_deflection_limit",
+    "calc_horizontal_drift_limit",
+    "calc_importance_factor_gamma_n",
+    "check_deflection_and_drift_limits",
 ]

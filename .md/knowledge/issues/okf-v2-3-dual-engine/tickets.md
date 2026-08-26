@@ -65,10 +65,10 @@ Xây dựng công cụ CLI tự động hóa cho Spoke/Platform (`scripts/modern
 
 **Bị chặn bởi:** `Ticket 1`.
 
-- [ ] Toàn bộ 6 bảng tra giới hạn độ võng/chuyển vị được chuẩn hóa GFM ma trận đầy đủ.
-- [ ] Solver kiểm tra chuyển vị trả về kết luận tuân thủ (`is_compliant`) rõ ràng.
-- [ ] Unit Tests bao phủ các loại kết cấu nhà 1 tầng, nhà nhiều tầng, dầm cầu trục.
-- [ ] Vượt qua 10 Cổng Master CI Gate.
+- [x] Toàn bộ 6 bảng tra giới hạn độ võng/chuyển vị được chuẩn hóa GFM ma trận đầy đủ.
+- [x] Solver kiểm tra chuyển vị trả về kết luận tuân thủ (`is_compliant`) rõ ràng.
+- [x] Unit Tests bao phủ các loại kết cấu nhà 1 tầng, nhà nhiều tầng, dầm cầu trục.
+- [x] Vượt qua 10 Cổng Master CI Gate.
 
 ---
 

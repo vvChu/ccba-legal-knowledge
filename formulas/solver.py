@@ -20,6 +20,12 @@ from formulas.sprinkler_spacing import (
     calc_sprinkler_density_and_spacing,
     calc_sprinkler_room_layout,
 )
+from formulas.deflection_limits_tcvn2737 import (
+    calc_horizontal_drift_limit,
+    calc_importance_factor_gamma_n,
+    calc_vertical_deflection_limit,
+    check_deflection_and_drift_limits,
+)
 from formulas.vietnam_wind_zones import (
     calc_base_wind_pressure_w0,
 )
@@ -371,4 +377,76 @@ SymbolicFormulaSolver.register(
         },
     ),
     calc_base_wind_pressure_w0,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_DEFLECTION_TCVN2737_G_VERT",
+        name="Độ võng đứng giới hạn [fu] cho dầm, sàn, giàn",
+        category="DEFLECTION_AND_DRIFT",
+        standard_reference="Bảng G.1, Bảng G.4 & Mục G.2.5.4 Phụ lục G TCVN 2737:2023",
+        description="Tính toán độ võng đứng giới hạn [fu] theo yêu cầu thẩm mỹ, tâm sinh lý và công nghệ.",
+        parameters={
+            "element_type": "Loại cấu kiện ('roof_floor_visible', 'crane_girder', 'floor_moving_load', 'parking_floor', 'lintel_wall', 'prestress_camber')",
+            "span_L": "Nhịp tính toán L (m)",
+            "is_cantilever": "True nếu là dầm/bản công xôn (mặc định False)",
+            "room_height": "Chiều cao thông thủy phòng (m, mặc định 4.0)",
+            "crane_control": "'cabin' hoặc 'floor' (mặc định 'cabin')",
+            "crane_group": "Chế độ làm việc cầu trục ('A1_A6', 'A7', 'A8')",
+            "rail_type": "Loại đường ray ('narrow', 'wide', 'none')",
+        },
+    ),
+    calc_vertical_deflection_limit,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_DRIFT_TCVN2737_G_HORIZ",
+        name="Chuyển vị ngang giới hạn [fu] cho nhà và cột",
+        category="DEFLECTION_AND_DRIFT",
+        standard_reference="Bảng G.3, Bảng G.5 & Mục G.2.4.2 Phụ lục G TCVN 2737:2023",
+        description="Tính toán chuyển vị ngang giới hạn [fu] cho nhà nhiều tầng, một tầng, cột cầu trục.",
+        parameters={
+            "structure_type": "'multistory_building_overall', 'multistory_single_story', 'single_story_building', 'crane_column', 'temperature_settlement_column'",
+            "total_height_h": "Chiều cao toàn nhà h (m, mặc định 30.0)",
+            "story_height_hs": "Chiều cao tầng hs (m, mặc định 3.6)",
+            "partition_material": "'brick_concrete_gypsum', 'natural_stone_ceramic', 'glass_curtain'",
+            "connection_type": "'rigid' hoặc 'flexible'",
+            "crane_group": "'A1_A3', 'A4_A6', 'A7_A8'",
+        },
+    ),
+    calc_horizontal_drift_limit,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_IMPORTANCE_TCVN2737_H_GAMMA_N",
+        name="Hệ số tầm quan trọng gamma_n",
+        category="IMPORTANCE_FACTOR",
+        standard_reference="Bảng H.1 & Mục H.3 Phụ lục H TCVN 2737:2023",
+        description="Xác định hệ số độ tin cậy về tầm quan trọng gamma_n theo cấp hậu quả C1, C2, C3.",
+        parameters={
+            "consequence_class": "Cấp hậu quả ('C1', 'C2', 'C3')",
+            "limit_state": "Trạng thái giới hạn ('ULS' hoặc 'SLS')",
+            "building_height": "Chiều cao công trình (m, mặc định 0.0)",
+            "span_length": "Nhịp lớn không trụ trung gian (m, mặc định 0.0)",
+        },
+    ),
+    calc_importance_factor_gamma_n,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_CHECK_DEFLECTION_DRIFT_COMPLIANCE",
+        name="Kiểm tra điều kiện an toàn chuyển vị f <= [fu]",
+        category="DEFLECTION_AND_DRIFT",
+        standard_reference="Phụ lục G & H TCVN 2737:2023",
+        description="Kiểm tra tuân thủ điều kiện an toàn độ võng/chuyển vị thực tế so với giới hạn tiêu chuẩn.",
+        parameters={
+            "actual_value_mm": "Giá trị độ võng/chuyển vị tính toán thực tế f (mm)",
+            "check_type": "'vertical_deflection' hoặc 'horizontal_drift'",
+            "params": "Dict các tham số truyền cho bộ giải giới hạn tương ứng",
+        },
+    ),
+    check_deflection_and_drift_limits,
 )

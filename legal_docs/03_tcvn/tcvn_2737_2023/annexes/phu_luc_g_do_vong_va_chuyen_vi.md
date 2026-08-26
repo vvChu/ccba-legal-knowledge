@@ -64,27 +64,23 @@ Nếu việc tính toán được thực hiện theo yêu cầu thẩm mỹ - t�
 
 **G.1.8**  Độ võng của kết cấu vì kèo khi có đường ray của cần trục treo (Bảng G.1, mục 2c) lấy bằng hiệu các độ võng f1 và f2 của các kết cấu vì kèo liền kề nhau (Hình G.2).
 
+<a id="hinh-g_2"></a>
+
 <p align="center">
 
-![image101.png](../figures/images/image101.png)
+![Hình G.2](../figures/images/hinh_g_2.png)
 
 </p>
 
-**CHÚ DẪN:**
-
-| 1 - Kết cấu vì kèo; | 3 - Cần trục treo; |
-| :---: | :--- |
-| 2 - Dầm đỡ đường ray cần trục treo; | 4 - Vị trí ban đầu của kết cấu vì kèo. |
-
-**CHÚ THÍCH:**
-
-f1 - Độ võng của kết cấu vì kèo chịu lực nhiều nhất;
-
-f2 - Độ võng của kết cấu vì kèo gần kết cấu vì kèo chịu lực nhiều nhất.
-
-<a id="hinh-g_2"></a>
-
 <p align="center"><strong>Hình G.2 — Sơ đồ tính độ võng của kết cấu vì kèo khi có đường ray của cần trục treo</strong></p>
+
+_CHÚ DẪN:_
+
+| 1 - Kết cấu vì kèo | 3 - Cần trục treo |
+| :--- | :--- |
+| 2 - Dầm đỡ đường ray cần trục treo | 4 - Vị trí ban đầu của kết cấu vì kèo |
+
+_CHÚ THÍCH:_ $f_1$ - Độ võng của kết cấu vì kèo chịu lực nhiều nhất; $f_2$ - Độ võng của kết cấu vì kèo gần kết cấu vì kèo chịu lực nhiều nhất.
 
 <a id="muc-g-1-9"></a>
 
@@ -129,41 +125,38 @@ f2 - Độ võng của kết cấu vì kèo gần kết cấu vì kèo chịu l�
 
 **G.2.2**  Yêu cầu tâm sinh lý
 
-Độ võng giới hạn theo yêu cầu tâm sinh lý của các cấu kiện của sàn tầng (dầm, xà, bản), cầu thang, ban công, lôgia, các phòng trong nhà ở và nhà công cộng, cũng như các phòng sinh hoạt của nhà sản xuất cần được xác định theo công thức:
-
-<p align="center">
-
-![image102.png](../figures/images/image102.png)
-
-</p>
-
-<p align="center"><em>(G.1)</em></p>
+$$f_u = \frac{g}{4 \pi^2 n^2} \cdot \frac{p + p_1 + q}{b p + p_1 + q} \tag{G.1}$$
 
 trong đó:
 
-g là gia tốc trọng trường;
+\- $g$ là gia tốc trọng trường ($9{,}81\text{ m/s}^2$);
 
-p là giá trị tiêu chuẩn của tải trọng do trọng lượng con người gây ra dao động, lấy theo Bảng G.2;
+\- $p$ là giá trị tiêu chuẩn của tải trọng do trọng lượng con người gây ra dao động, lấy theo Bảng G.2 ($\text{kN/m}^2$);
 
-p1 là giá trị tiêu chuẩn giảm của tải trọng lên sàn, lấy theo Bảng G.2;
+\- $p_1$ là giá trị tiêu chuẩn giảm của tải trọng lên sàn, lấy theo Bảng G.2 ($\text{kN/m}^2$);
 
-q là giá trị tiêu chuẩn của tải trọng do trọng lượng của cấu kiện đang tính và các kết cấu tựa lên nó;
+\- $q$ là giá trị tiêu chuẩn của tải trọng do trọng lượng của cấu kiện đang tính và các kết cấu tựa lên nó ($\text{kN/m}^2$);
 
-n là tần số gia tải khi người đi lại, lấy theo Bảng G.2;
+\- $n$ là tần số gia tải khi người đi lại, lấy theo Bảng G.2 ($\text{Hz}$);
 
-b là hệ số, lấy theo Bảng G.2.
+\- $b$ là hệ số xác định theo Bảng G.2: $b = \frac{Q}{\alpha \cdot a \cdot L \cdot p}$.
 
-Độ võng f cần được xác định do tổng các tải trọng φ1p + p1 + q, trong đó là hệ số xác định theo công thức (3).
+Độ võng $f$ cần được xác định do tổng các tải trọng $\psi_1 p + p_1 + q$, trong đó $\psi_1$ là hệ số xác định theo [công thức (3)](../tcvn_2737_2023.md#cong-thuc-3).
 
 <a id="bang-bang-g-2"></a>
 
-**Bảng G.2 — Các hệ số p, p1, n, b**
+**Bảng G.2 — Các hệ số $p$, $p_1$, $n$, $b$**
 
-| Các khu vực<br>(theo Bảng 4) | p,<br>kN/m2 | p1,<br>kN/m2 | n,<br>Hz | b |
-| :---: | :--- | :--- | :--- | :--- |
-| 1. Các khu vực A, B (trừ phòng sinh hoạt ở khu B1); những chỗ nghỉ ngơi thuộc khu vực I2) | 0,25 | Lấy bằng qk,qper theo 8.3.3 | 1,5 |  |
-| 2. Phòng học thuộc khu vực C1.1 và phòng sinh hoạt thuộc khu vực B1;<br>Các khu vực C (trừ phòng khiêu vũ thuộc khu vực C4) và D;<br>Những chỗ tập trung đông người thuộc khu vực I1 | 0,50 | Lấy bằng qk,qper theo 8.3.3 | 1,5 |  |
-| Các ký hiệu trong bảng:<br>Q là trọng lượng của một người, lấy bằng 0,8 kN.<br>α là hệ số, lấy bằng:<br>1,0 - đối với cấu kiện tính theo sơ đồ dầm;<br>0,6 - đối với các cấu kiện còn lại (ví dụ, khi bản sàn kê ba hoặc bốn cạnh).<br>a là bước dầm, xà; chiều rộng bản sàn (tấm), tính bằng mét (m).<br>L là nhịp tính toán của cấu kiện kết cấu, tính bằng mét (m). |  |  |  |  |
+| Các khu vực (theo Bảng 4) | $p$ ($\text{kN/m}^2$) | $p_1$ ($\text{kN/m}^2$) | $n$ ($\text{Hz}$) | $b$ |
+| :--- | :---: | :---: | :---: | :---: |
+| 1. Các khu vực A, B (trừ phòng sinh hoạt ở khu B1); những chỗ nghỉ ngơi thuộc khu vực I2) | $0{,}25$ | Lấy bằng $q_{k,qper}$ theo [8.3.3](../tcvn_2737_2023.md#muc-8-3-3) | $1{,}5$ | $\frac{Q}{\alpha \cdot a \cdot L \cdot p}$ |
+| 2. Phòng học thuộc khu vực C1.1 và phòng sinh hoạt thuộc khu vực B1; Các khu vực C (trừ phòng khiêu vũ C4) và D; Chỗ tập trung đông người thuộc khu vực I1 | $0{,}50$ | Lấy bằng $q_{k,qper}$ theo [8.3.3](../tcvn_2737_2023.md#muc-8-3-3) | $1{,}5$ | $\frac{Q}{\alpha \cdot a \cdot L \cdot p}$ |
+
+_CHÚ DẪN KÝ HIỆU:_
+\- $Q$: Trọng lượng của một người, lấy bằng $0{,}8\text{ kN}$.
+\- $\alpha$: Hệ số, lấy bằng $1{,}0$ đối với cấu kiện tính theo sơ đồ dầm; $0{,}6$ đối với bản sàn kê 3 hoặc 4 cạnh.
+\- $a$: Bước dầm, xà; chiều rộng bản sàn (tấm) ($\text{m}$).
+\- $L$: Nhịp tính toán của cấu kiện kết cấu ($\text{m}$).
 
 <a id="muc-g-2-3"></a>
 
@@ -289,36 +282,40 @@ Chuyển vị ngang của nhà cần được xác định có kể đến độ
 
 **G.2.5.3.2**  Đối với các sơ đồ khung giằng của nhà nhiều tầng có chiều cao trên 40 m thì độ nghiêng của các màng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng tính bằng f1/hs + f2/L (Hình G.3) không được vượt quá (xem Bảng G.5): 1/500 đối với mục 2a và 1/700 đối với mục 2b và 1/300 đối với mục 2c.
 
+<a id="hinh-g_3"></a>
+
 <p align="center">
 
-![image104.png](../figures/images/image104.png)
+![Hình G.3](../figures/images/hinh_g_3.png)
 
 </p>
 
-**CHÚ DẪN:**
-
-1 - Vách cứng;
-
-2 - Mảng tường thuộc phạm vi các tầng.
-
-**CHÚ THÍCH:**
-
-Đường nét liền chỉ sơ đồ ban đầu của khung trước khi chịu tải trọng.
-
-<a id="hinh-g_3"></a>
-
 <p align="center"><strong>Hình G.3 — Sơ đồ độ nghiêng lệch của mảng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng trong nhà có sơ đồ khung giằng</strong></p>
+
+_CHÚ DẪN:_
+
+| 1 - Vách cứng | 2 - Mảng tường thuộc phạm vi các tầng |
+| :--- | :--- |
+
+_CHÚ THÍCH:_ Đường nét liền chỉ sơ đồ ban đầu của khung trước khi chịu tải trọng.
 
 <a id="muc-g-2-5-4"></a>
 
 **G.2.5.4**  Độ vồng của các cấu kiện của sàn tầng do lực nén trước
 
-Độ vồng giới hạn fu của các cấu kiện của sàn tầng theo yêu cầu cấu tạo lấy bằng:
+Độ vồng giới hạn $f_u$ của các cấu kiện của sàn tầng theo yêu cầu cấu tạo lấy bằng:
 
-khi L ≤ 3m: 15 mm;
+\- khi $L \le 3\text{ m}$: $15\text{ mm}$;
 
-khi L ≥ 12m: 40 mm;
+\- khi $L \ge 12\text{ m}$: $40\text{ mm}$;
 
-khi 3 m < L < 12 m: nội suy tuyến tính.
+\- khi $3\text{ m} < L < 12\text{ m}$: nội suy tuyến tính.
 
-Độ vồng f cần được xác định từ tác dụng của lực nén trước, trọng lượng bản thân của các cấu kiện của sàn tầng và trọng lượng các lớp lát sàn.
+Độ vồng $f$ cần được xác định từ tác dụng của lực nén trước, trọng lượng bản thân của các cấu kiện của sàn tầng và trọng lượng các lớp lát sàn.
+
+> [!NOTE]
+> **Bộ Giải Tính Toán & Kiểm Tra Tuân Thủ (Python Solvers):**
+> \- **Kiểm tra độ võng đứng giới hạn:** `calc_vertical_deflection_limit` (Bảng G.1, Bảng G.4, Mục G.2.5.4).
+> \- **Kiểm tra chuyển vị ngang giới hạn:** `calc_horizontal_drift_limit` (Bảng G.3, Bảng G.5, Mục G.2.4.2).
+> \- **Đánh giá an toàn toàn diện:** `check_deflection_and_drift_limits` trong `formulas/deflection_limits_tcvn2737.py`.
+
