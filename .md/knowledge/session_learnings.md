@@ -1,7 +1,7 @@
 # 🧠 CCBA Platform Knowledge Base: Session Learnings & Architectural Invariants
 
 > **Scope:** Hub (`ccba-agent-platform`) & Spokes (`ccba-legal-knowledge`, etc.)
-> **Standard:** OKF v2.2, ADR 0016, ADR 0021, ADR 0031, ADR 0032.
+> **Standard:** OKF v2.3 Dual-Engine, ADR 0016, ADR 0021, ADR 0030, ADR 0031, ADR 0032, ADR 0034.
 
 ---
 
@@ -10,7 +10,7 @@
 - **Tier 1 — VIP Digital Vector Searchable PDF (`part=-100` / `#ctl00_Content_ThongTinVB_filePDFHyperLink`):**
   - **Mỏ neo Pháp lý Tối thượng Cấp 1 (Primary Anchor of Trust)**: Bản PDF số hóa toàn văn (ví dụ QCVN 02 619 trang, QCVN 06 182 trang, TT 38 1,893 trang). Chứa trọn vẹn 100% thân văn bản, toàn bộ phụ lục, bảng biểu và đồ thị.
 - **Tier 2 — VIP OpenXML Word Document (`part=-1&docx=1` / `#ctl00_Content_ThongTinVB_vietnameseHyperLink_Docx`):**
-  - **Nguồn Dữ Liệu Gốc Vàng (Gold Source Input)**: Nạp trực tiếp vào `docx_converter.py` để sinh ra OKF v2.2 Markdown Bundle (phân rã biểu mẫu `templates/` và bảng tra cứu `tables/`).
+  - **Nguồn Dữ Liệu Gốc Vàng (Gold Source Input)**: Nạp trực tiếp vào `docx_converter.py` để sinh ra OKF v2.2/v2.3 Markdown Bundle (phân rã biểu mẫu `templates/` và bảng tra cứu `tables/`).
 - **Tier 3 — Gazette Scan PDF (`part=0` / `#ctl00_Content_ThongTinVB_pdfHyperLink`):**
   - Dự phòng khi TVPL chưa xuất bản bản PDF số hóa riêng.
 
@@ -30,14 +30,19 @@
 
 ---
 
-## 4. Spoke CI Gates Verification Pipeline
+## 4. Spoke CI Gates Verification Pipeline (10 Master CI Gates)
 
-Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc phải vượt qua tuần tự 5 cổng kiểm định không dung thứ (Zero-Tolerance):
-1. `python scripts/lint_visual_parity.py` (0 lỗi layout/thoát ký tự `\- ` và `&nbsp;&nbsp;\+ `)
-2. `python scripts/validate_legal_spoke.py` (0 lỗi schema, AST, bảng biểu)
-3. `python scripts/test_converter_regression.py` (100% gói vượt qua kiểm thử hồi quy)
-4. `python scripts/verify_all_docs_against_pdf.py` (100% PDF Verified & SHA-256 Valid)
-5. `python scripts/verify_cross_links.py` (100% liên kết điều khoản và phụ lục hợp lệ)
+Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc phải vượt qua tuần tự 10 cổng kiểm định không dung thứ (Zero-Tolerance) qua `python scripts/validate_legal_spoke.py`:
+1. `Gate 1: Registry Integrity Check`
+2. `Gate 2: OKF Bundles Structure Check`
+3. `Gate 3: Table Attachments Check`
+4. `Gate 4: Fake Data Gate Check`
+5. `Gate 5: PDF Metadata & AST Jurisdiction Gate Check`
+6. `Gate 6: Pure Normative Body & Scoped Noise Gate Check`
+7. `Gate 7: Spoke Cleanliness & Zero-Wrapper Gate`
+8. `Gate 8: Template & Table Structural Integrity Gate`
+9. `Gate 9: Visual Parity & Footnote Monotonic Linter Gate`
+10. `Gate 10: ADR Living Traceability & Self-Healing Sync`
 
 ---
 
@@ -53,7 +58,7 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
 
 ---
 
-## 6. Mathematical Formula & Engineering Table Ingestion Governance (ADR 0030, ADR 0031, ADR 0020)
+## 6. Mathematical Formula & Engineering Table Ingestion Governance (ADR 0020, ADR 0030)
 
 ### 6.1. Nhận Diện Bẫy Layout Bảng Ẩn (Formula in Table Alignment Layout):
 - **Hiện tượng:** Văn bản Word TCVN/QCVN thường dùng bảng ẩn $1 \times 2$ borderless để căn trái công thức và căn phải số thứ tự `(1)`, `(2)`, `(3)`.
@@ -76,6 +81,7 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
 - **Cơ chế kích hoạt:** Tự động bắt đầu khi gặp trigger dẫn nhập: `trong đó:`, `với:`, `ở đây:`, `ký hiệu trong công thức:`.
 - **Thụt lề an toàn trong Markdown:** Sử dụng tiền tố `&nbsp;&nbsp;&nbsp;&nbsp;` (4 khoảng trắng không ngắt dòng) cho từng dòng giải thích biến số để tránh bẫy CommonMark Indented Code Block.
 - **Phân cấp thụt lề cấp 2:** Sử dụng `&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;` cho các mục con phân cấp của một biến số (ví dụ: các mức giá trị của độ cản $\beta$).
+
 ### 6.6. Quy Chuẩn Hiển Thị Đơn Vị Đo Có Số Mũ (Unit Super-Scripter Invariant - ADR 0030):
 - **Hiện tượng:** Văn bản Word thường xuất các đơn vị đo dạng phẳng (`m2`, `m3`, `daN/m2`, `kg/m3`, `kN/m2`) làm giảm chất lượng thị giác so với PDF gốc.
 - **Quy tắc xử lý:** Tự động chuyển đổi $100\%$ các đơn vị đo có số mũ thành định dạng LaTeX chuẩn: `$\text{m}^2$`, `$\text{m}^3$`, `$\text{daN/m}^2$`, `$\text{kg/m}^3$`, `$\text{kN/m}^2$`.
@@ -96,18 +102,6 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
 | **7. Line Patching Drift** | Sửa đổi văn bản bằng số dòng cố định dễ bị lệch khi văn bản thay đổi. | Hợp nhất văn bản dựa trên Semantic Anchor ID bất biến (`#muc-1-4-24`). | ADR 0022 (VBHNEngine) |
 | **8. Flat Unit Exponents** | Đơn vị đo dính số mũ phẳng (`m2`, `daN/m2`) làm giảm độ chính xác và tính thẩm mỹ. | Auto-convert thành LaTeX mũ: `$\text{m}^2$`, `$\text{daN/m}^2$`, `$\text{kg/m}^3$`. | ADR 0030 (Unit Super-Scripter) |
 
-
-
-
-
-
-
-## 9. R&D Graduation Anti-Pattern & /ccba-graduate-rd Workflow (ADR 0030, ADR 0033)
-
-- **Anti-pattern phát hiện (2026-08-25):** Script vá `patch_tcvn2737_formulas.py` được viết nhanh trong scratch để sửa lỗi công thức TCVN 2737:2023. Khi chạy lại `python -m ccba_legal convert` từ DOCX gốc, logic vá không kích hoạt → lỗi tái phát do script nằm ngoài luồng chuyển đổi chính.
-- **Giải pháp chuẩn hóa:** Tạo workflow `/ccba-graduate-rd` cưỡng chế 5 bước chuyển hóa R&D → Deep Seam Production. 3 Invariants: (1) Không để script vá tồn tại qua phiên, (2) Upstream Promotion bắt buộc, (3) 1-Pass Clean Run.
-- **Tham chiếu:** Tier 3 User Workflow, ADR 0030 (Technical Standard Seam), ADR 0033 (Archive chuẩn).
-
 ---
 
 ## 8. OKF v2.3 Dual-Engine Technical Standards Paradigm (ADR 0034)
@@ -117,7 +111,7 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
 - **Cấm tuyệt đối:** Cắt vụn sơ đồ thành các ảnh nhỏ rời rạc rồi dùng thẻ HTML dồn cục làm lệch lề tài liệu so với PDF gốc.
 
 ### 8.2. Lossless Multi-Tier Matrix Tables:
-- **Nguyên tắc:** Bảo toàn $100\%$ số lượng cột của bảng tra kỹ thuật đa chiều (ví dụ: các cột tỉ lệ $b/h, h/d, lpha$).
+- **Nguyên tắc:** Bảo toàn $100\%$ số lượng cột của bảng tra kỹ thuật đa chiều (ví dụ: các cột tỉ lệ $b/h, h/d, \alpha$).
 - **Giá trị tải trọng kép:** Định dạng các ô chứa đồng thời giá trị dương và âm (Hút âm / Đẩy dương) bằng thẻ `<br>` (ví dụ: `- 1,7<br>+ 0,0`).
 - **Tách chú thích chân bảng:** Toàn bộ ghi chú điều kiện biên và chú thích giải thích ký hiệu được đưa ra ngoài khung bảng Markdown (đặt ngay bên dưới bảng) để tránh làm méo mó cấu trúc dữ liệu.
 
@@ -131,24 +125,31 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
 
 ---
 
-## 10. R&D Graduation Ratification: Figure Extractor & Visual Parity Seams (2026-08-26)
+## 9. R&D Graduation Anti-Pattern & /ccba-graduate-rd Workflow (ADR 0030, ADR 0033)
 
-- **Thành quả Tốt nghiệp R&D:**
-  1. **Centered Figure Extraction Seam (`ccba_legal.figure_extractor`):** Hợp nhất chuẩn thẻ hình ảnh kỹ thuật căn giữa `<p align="center">...<p>` vào Deep Seam `figure_extractor.py` và xuất khẩu `extract_technical_figures`, `render_markdown_figure_card` qua `__init__.py`.
-  2. **Unified Visual Parity Seam (`ccba_legal.visual_parity`):** Tích hợp toàn diện 10 quy tắc kiểm định thị giác (bao gồm chặn footnote bullet thừa, cấm gộp dòng `<br>`, và kiểm tra chuỗi đơn điệu `CHÚ THÍCH 1` khi có `CHÚ THÍCH 2`) vào `VisualParityAuditor` và hàm `lint_document`.
-  3. **Zero-Wrapper Spoke CI Gate:** Tái cấu trúc `scripts/lint_visual_parity.py` và `scripts/check_hub_import_depth.py` để kế thừa trực tiếp từ Hub `ccba_legal`, bảo toàn $100\%$ Shallow Import (ADR 0030 / Hub Shallow Seam Contract) và đạt $10/10$ Cổng Master CI Gate với $0$ Errors, $0$ Warnings.
-  4. **Ground Truth Test Harness:** Bổ sung `test_figure_extractor.py` và cập nhật `test_visual_parity.py` trong Hub `ccba-legal-intel/tests/`, nâng tổng số test cases của Hub lên **154 passed (100%)**.
+- **Anti-pattern phát hiện (2026-08-25):** Script vá `patch_tcvn2737_formulas.py` được viết nhanh trong scratch để sửa lỗi công thức TCVN 2737:2023. Khi chạy lại `python -m ccba_legal convert` từ DOCX gốc, logic vá không kích hoạt $\rightarrow$ lỗi tái phát do script nằm ngoài luồng chuyển đổi chính.
+- **Giải pháp chuẩn hóa:** Tạo workflow `/ccba-graduate-rd` cưỡng chế 5 bước chuyển hóa R&D $\rightarrow$ Deep Seam Production. 3 Invariants: (1) Không để script vá tồn tại qua phiên, (2) Upstream Promotion bắt buộc, (3) 1-Pass Clean Run.
+- **Tham chiếu:** Tier 3 User Workflow, ADR 0030 (Technical Standard Seam), ADR 0033 (Archive chuẩn).
 
 ---
 
-## 11. Test Suite 3-Tier Reorganization & Upstream Contribution Loop Harmonization (2026-08-26)
+## 10. R&D Graduation Ratification: Figure Extractor, Modernize & Visual Parity (2026-08-26)
+
+- **Thành quả Tốt nghiệp R&D:**
+  1. **Centered Figure Extraction Seam (`ccba_legal.figure_extractor`):** Hợp nhất chuẩn thẻ hình ảnh kỹ thuật căn giữa `<p align="center">...<p>` vào Deep Seam `figure_extractor.py` và xuất khẩu `extract_technical_figures`, `render_markdown_figure_card` qua `__init__.py`.
+  2. **Modernize Annex Engine Seam (`ccba_legal.modernize`):** Chuyển giao `FigureAutoCompositor`, `TableMatrixBuilder`, và `MathEquationConverter` vào module chính quy `ccba_legal.modernize` (ADR 0034).
+  3. **Unified Visual Parity Seam (`ccba_legal.visual_parity`):** Tích hợp toàn diện 10 quy tắc kiểm định thị giác (bao gồm chặn footnote bullet thừa, cấm gộp dòng `<br>`, và kiểm tra chuỗi đơn điệu `CHÚ THÍCH 1` khi có `CHÚ THÍCH 2`) vào `VisualParityAuditor` và hàm `lint_document`.
+  4. **Zero-Wrapper Spoke CI Gate:** Tái cấu trúc `scripts/lint_visual_parity.py`, `scripts/modernize_annex_engine.py`, và `scripts/check_hub_import_depth.py` để kế thừa trực tiếp từ Hub `ccba_legal`, bảo toàn $100\%$ Shallow Import (ADR 0030 / Hub Shallow Seam Contract) và đạt $10/10$ Cổng Master CI Gate với $0$ Errors, $0$ Warnings.
+  5. **Ground Truth Test Harness:** Bổ sung `test_modernize.py`, `test_figure_extractor.py` và cập nhật `test_visual_parity.py` trong Hub `ccba-legal-intel/tests/`, nâng tổng số test cases của Hub lên **154 passed (100%)**.
+
+---
+
+## 11. Test Suite 3-Tier Reorganization & Upstream Loop Harmonization (2026-08-26)
 
 - **Tái Cấu Trúc Bộ Kiểm Thử 3 Phân Tầng (`tests/`):**
   - `tests/unit/`: Chứa các bộ giải toán học kỹ thuật xác định (Deterministic Solvers) — chạy siêu tốc (< 0.8s, 118 tests PASS 100%).
   - `tests/integration/`: Chứa các pipeline chuyển đổi DOCX, Crawler TVPL VIP, VBHNEngine và Spoke CI Gates (32 tests PASS 100%).
-  - `tests/e2e/`: Chứa các bộ kiểm toán sâu toàn vẹn tài liệu và dữ liệu lịch sử.
+  - `tests/e2e/`: Chứa các bộ kiểm toán sâu toàn vẹn tài liệu và dữ liệu lịch sử (Milestone 1, Milestone 2, Tier 1-4).
 - **Hàn Gắn Chu Trình Đóng Góp Ngược (Upstream Contribution Loop):**
   - **Liên kết hai chiều `--issue [ID]`:** Đồng bộ từ `/ccba-issue-to-hub` $\to$ `/ccba-graduate-rd` $\to$ `/ccba-contribute-to-hub` $\to$ PR tự động đóng Issue (`Closes #[ID]`).
-  - **Cổng Phân Loại Quy Mô Thông Minh (Smart Scope-Aware Issue Gate):** Tự động gợi ý/tạo GitHub Issue cho các thay đổi kiến trúc/module mới ($\ge 100$ dòng) để ghi nhận Changelog, đồng thời bỏ qua Issue cho các thay đổi nhỏ ($< 100$ dòng) để tránh rác Issue Tracker.
-
-
+  - **Cổng Phân Loại Quy Mô Thông Minh (Smart Scope-Aware Issue Gate):** Tự động gợi ý/tạo GitHub Issue cho các thay đổi kiến trúc/module mới ($\ge 100$ dòng) để ghi nhận Changelog & Ký ức dài hạn, đồng thời bỏ qua Issue cho các thay đổi nhỏ ($< 100$ dòng) để tránh rác Issue Tracker.
