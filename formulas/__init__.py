@@ -36,6 +36,7 @@ from formulas.wind_load_tcvn2737 import (
     calc_equivalent_building_dimensions,
     calc_flat_roof_ce_coefficients,
     calc_freestanding_wall_aerodynamic_coeff,
+    calc_full_wind_load_tcvn2737,
     calc_gust_factor_gf,
     calc_hipped_roof_ce_coefficients,
     calc_monopitch_roof_ce_coefficients,
@@ -73,4 +74,5 @@ __all__ = [
     "calc_horizontal_drift_limit",
     "calc_importance_factor_gamma_n",
     "check_deflection_and_drift_limits",
+    "calc_full_wind_load_tcvn2737",
 ]

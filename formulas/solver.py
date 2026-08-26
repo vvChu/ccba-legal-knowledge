@@ -34,6 +34,7 @@ from formulas.wind_load_tcvn2737 import (
     calc_equivalent_building_dimensions,
     calc_flat_roof_ce_coefficients,
     calc_freestanding_wall_aerodynamic_coeff,
+    calc_full_wind_load_tcvn2737,
     calc_gust_factor_gf,
     calc_hipped_roof_ce_coefficients,
     calc_monopitch_roof_ce_coefficients,
@@ -449,4 +450,30 @@ SymbolicFormulaSolver.register(
         },
     ),
     check_deflection_and_drift_limits,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_WIND_TCVN2737_FULL_PIPELINE",
+        name="Tải trọng gió toàn trình theo Chương 10 TCVN 2737:2023",
+        category="WIND_LOAD",
+        standard_reference="Chương 10, Phụ lục C, D, E, F, H TCVN 2737:2023",
+        description="Bộ giải tích hợp toàn trình tính áp lực gió tiêu chuẩn Wk và tính toán Wd theo từng vùng khí động học.",
+        parameters={
+            "province": "Tên tỉnh/thành phố (mặc định 'Hà Nội')",
+            "district": "Tên quận/huyện (tùy chọn)",
+            "commune": "Tên xã/phường (tùy chọn)",
+            "height_z": "Chiều cao điểm tính toán z (m, mặc định 10.0)",
+            "terrain_category": "Dạng địa hình ('A', 'B', 'C', mặc định 'B')",
+            "slope_i": "Độ dốc địa hình xung quanh (mặc định 0.0)",
+            "structure_geometry": "'vertical_wall', 'duopitch_roof', 'flat_roof', 'monopitch_roof', 'hipped_roof', 'freestanding_wall'",
+            "geometry_params": "Dict tham số hình học chi tiết",
+            "structure_type": "'concrete' hoặc 'steel'",
+            "total_building_height_h": "Chiều cao tổng thể toàn nhà h (m, mặc định 30.0)",
+            "period_T1": "Chu kỳ dao động T1 (s, mặc định 1.0)",
+            "consequence_class": "Cấp hậu quả ('C1', 'C2', 'C3', mặc định 'C2')",
+            "gamma_f": "Hệ số độ tin cậy tải trọng gió (mặc định 2.1)",
+        },
+    ),
+    calc_full_wind_load_tcvn2737,
 )

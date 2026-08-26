@@ -1265,3 +1265,307 @@ def calc_terrain_height_factor_kz(
     )
 
 
+# ===========================================================================
+# 9. BỘ GIẢI TẢI TRỌNG GIÓ TOÀN TRÌNH (CHƯƠNG 10 TCVN 2737:2023)
+# ===========================================================================
+
+def calc_full_wind_load_tcvn2737(
+    province: str = "Hà Nội",
+    district: str = "",
+    commune: str = "",
+    W0_custom: float | None = None,
+    height_z: float = 10.0,
+    terrain_category: str = "B",
+    slope_i: float = 0.0,
+    height_H_slope: float = 10.0,
+    structure_geometry: str = "vertical_wall",
+    geometry_params: dict[str, Any] | None = None,
+    structure_type: str = "concrete",
+    total_building_height_h: float = 30.0,
+    period_T1: float = 1.0,
+    consequence_class: str = "C2",
+    gamma_f: float = 2.1,
+) -> CalculationResult:
+    """Bộ giải xác định tải trọng gió toàn trình theo Chương 10 TCVN 2737:2023.
+
+    Kết nối toàn diện từ phân vùng áp lực gió W0, hệ số độ cao k(z), hệ số khí động học c_e,
+    hệ số hiệu ứng giật G_f, hệ số tầm quan trọng gamma_n đến áp lực gió tiêu chuẩn W_k và tính toán W_d.
+
+    Căn cứ: Mục 10.1, 10.2, Phụ lục C, D, E, F, H TCVN 2737:2023 và QCVN 02:2022/BXD.
+
+    Args:
+        province: Tên tỉnh/thành phố (ví dụ: 'Hà Nội', 'Hồ Chí Minh', 'Đà Nẵng').
+        district: Tên quận/huyện/thị xã (tùy chọn).
+        commune: Tên xã/phường/thị trấn (tùy chọn).
+        W0_custom: Giá trị W0 tùy chỉnh (daN/m2, ghi đè tra cứu).
+        height_z: Chiều cao điểm tính toán z so với mặt đất (m, mặc định 10m).
+        terrain_category: Dạng địa hình ('A', 'B' hoặc 'C', mặc định 'B').
+        slope_i: Độ dốc địa hình xung quanh i = tan(theta) (mặc định 0.0).
+        height_H_slope: Chiều cao dốc địa hình H (m, mặc định 10m).
+        structure_geometry: Loại hình học ('vertical_wall', 'duopitch_roof', 'flat_roof', 'monopitch_roof', 'hipped_roof', 'freestanding_wall', 'custom').
+        geometry_params: Tham số hình học chi tiết cho từng loại kết cấu.
+        structure_type: Loại kết cấu ('concrete' hoặc 'steel').
+        total_building_height_h: Chiều cao tổng thể toàn nhà h (m, mặc định 30m).
+        period_T1: Chu kỳ dao động cơ bản thứ nhất T1 (s, mặc định 1.0s).
+        consequence_class: Cấp hậu quả công trình ('C1', 'C2', 'C3', mặc định 'C2').
+        gamma_f: Hệ số độ tin cậy tải trọng gió (mặc định 2.1 theo Mục 10.1.6).
+    """
+    from formulas.deflection_limits_tcvn2737 import calc_importance_factor_gamma_n
+    from formulas.vietnam_wind_zones import calc_base_wind_pressure_w0
+
+    steps: list[CalculationStep] = []
+    notes: list[str] = []
+
+    # 1. Tra cứu hoặc lấy W0
+    if W0_custom is not None and W0_custom > 0:
+        w0 = float(W0_custom)
+        wind_zone = "Tùy chỉnh"
+        location_desc = f"Áp lực gió cơ sở nhập trực tiếp: W0 = {w0:g} daN/m2"
+        notes.append(f"W0 tùy chỉnh: {w0:g} daN/m2.")
+    else:
+        w0_res = calc_base_wind_pressure_w0(province, district, commune)
+        w0 = w0_res.primary_value
+        wind_zone = w0_res.outputs["wind_zone"]
+        location_desc = f"{province}" + (f", {district}" if district else "") + (f", {commune}" if commune else "")
+        notes.extend(w0_res.notes)
+
+    # 2. Áp lực gió 3s chu kỳ 10 năm W_3s,10 = gamma_T * W0 = 0.852 * W0
+    gamma_T = 0.852
+    w_3s_10 = round(gamma_T * w0, 2)
+    steps.append(
+        CalculationStep(
+            step_number=1,
+            description="Xác định áp lực gió cơ sở W0 và áp lực gió W3s,10",
+            formula_latex=r"W_{3s,10} = \gamma_T \cdot W_0 = 0{,}852 \cdot W_0",
+            substitution=f"W0 = {w0:g} daN/m2 (Vùng {wind_zone}, {location_desc}) -> W3s,10 = 0.852 * {w0:g} = {w_3s_10:g} daN/m2",
+            result_text=f"W3s,10 = {w_3s_10:g} daN/m2",
+        )
+    )
+
+    # 3. Mốc chuẩn z0 và độ cao tương đương z_e
+    if slope_i > 0.3:
+        datum_res = calc_topography_datum_z0(slope_i=slope_i, height_H=height_H_slope)
+        z0 = datum_res.primary_value
+        notes.append(f"Địa hình dốc i={slope_i:g}: Mốc chuẩn khí động z0 = {z0:g}m (Phụ lục C).")
+    else:
+        z0 = 0.0
+
+    z_e = max(height_z - z0, 0.1)
+
+    # 4. Hệ số độ cao k(z_e)
+    kz_res = calc_terrain_height_factor_kz(terrain_category=terrain_category, height_z=z_e)
+    kz = kz_res.primary_value
+    steps.append(
+        CalculationStep(
+            step_number=2,
+            description=f"Tính hệ số độ cao k(z_e) tại z = {height_z:g}m (z_e = {z_e:g}m, Địa hình dạng {terrain_category.upper()})",
+            formula_latex=r"k(z_e)\text{ tra theo Bảng 8 & Bảng 9 Mục 10.2.4}",
+            substitution=f"k({z_e:g}) = {kz:g} (Địa hình {terrain_category.upper()})",
+            result_text=f"k(z_e) = {kz:g}",
+        )
+    )
+    notes.extend(kz_res.notes)
+
+    # 5. Hệ số hiệu ứng giật G_f
+    if period_T1 <= 1.0:
+        gf = 0.85
+        gf_desc = "Kết cấu cứng (T1 <= 1.0s, Mục 10.2.7.2): G_f = 0.85"
+    else:
+        gf_res = calc_gust_factor_gf(
+            structure_type=structure_type,
+            height_h=total_building_height_h,
+            period_T1=period_T1,
+        )
+        gf = gf_res.primary_value
+        gf_desc = f"Kết cấu mềm (T1 = {period_T1:g}s > 1.0s, Phụ lục E.1): G_f = {gf:g}"
+        notes.extend(gf_res.notes)
+
+    steps.append(
+        CalculationStep(
+            step_number=3,
+            description="Xác định hệ số hiệu ứng giật G_f",
+            formula_latex=r"G_f = 0{,}85\text{ (cứng) hoặc theo Phụ lục E.1 (mềm)}",
+            substitution=gf_desc,
+            result_text=f"G_f = {gf:g}",
+        )
+    )
+
+    # 6. Hệ số tầm quan trọng gamma_n
+    imp_res = calc_importance_factor_gamma_n(
+        consequence_class=consequence_class,
+        limit_state="ULS",
+        building_height=total_building_height_h,
+    )
+    gamma_n = imp_res.primary_value
+    steps.append(
+        CalculationStep(
+            step_number=4,
+            description=f"Xác định hệ số tầm quan trọng gamma_n (Cấp hậu quả {consequence_class.upper()})",
+            formula_latex=r"\gamma_n\text{ tra theo Bảng H.1 Phụ lục H}",
+            substitution=f"Cấp {consequence_class.upper()} -> gamma_n = {gamma_n:g}",
+            result_text=f"gamma_n = {gamma_n:g}",
+        )
+    )
+    notes.extend(imp_res.notes)
+
+    # 7. Hệ số khí động học c_e theo từng vùng hình học
+    gp = geometry_params or {}
+    geom_norm = structure_geometry.strip().lower()
+    zones_ce: dict[str, float] = {}
+
+    def _extract_zones(c_result: CalculationResult) -> dict[str, float]:
+        if c_result.scenarios:
+            extracted: dict[str, float] = {}
+            for s_name, s_vals in c_result.scenarios.items():
+                for zk, zv in s_vals.items():
+                    extracted[f"{zk} ({s_name})"] = zv
+            return extracted
+        if c_result.zone_values:
+            return dict(c_result.zone_values)
+        return {k.replace("ce_", ""): v for k, v in c_result.outputs.items() if isinstance(v, (int, float))}
+
+    if geom_norm in ("vertical_wall", "tuong_dung"):
+        h_wall = gp.get("building_height_h", total_building_height_h)
+        b_wall = gp.get("building_width_b", 20.0)
+        d_wall = gp.get("building_depth_d", 30.0)
+        c_res = calc_vertical_wall_ce_coefficients(
+            building_height_h=h_wall,
+            building_width_b=b_wall,
+            building_depth_d=d_wall,
+        )
+        zones_ce = _extract_zones(c_res)
+        notes.append(f"Hệ số khí động tường đứng (Bảng F.2): h={h_wall:g}m, b={b_wall:g}m, d={d_wall:g}m.")
+
+    elif geom_norm in ("duopitch_roof", "mai_doc_doi"):
+        alpha = gp.get("pitch_angle_alpha", gp.get("pitch_angle_deg", 15.0))
+        theta = gp.get("wind_angle_theta", gp.get("wind_direction_deg", 0.0))
+        c_res = calc_duopitch_roof_ce_coefficients(pitch_angle_alpha=alpha, wind_angle_theta=theta)
+        zones_ce = _extract_zones(c_res)
+        notes.append(f"Hệ số khí động mái dốc đôi (Bảng F.6): alpha={alpha:g} độ, theta={theta:g} độ.")
+
+    elif geom_norm in ("flat_roof", "mai_phang"):
+        etype_raw = str(gp.get("eaves_type", gp.get("edge_type", "CANH_SAC"))).upper()
+        if "PARAPET" in etype_raw or "TUONG_CHAN" in etype_raw:
+            etype = "TUONG_CHAN_MAI"
+        elif "ROUND" in etype_raw or "BO_TRON" in etype_raw:
+            etype = "BO_TRON"
+        elif "CHAMFER" in etype_raw or "VAT_GOC" in etype_raw:
+            etype = "VAT_GOC"
+        else:
+            etype = "CANH_SAC"
+
+        c_res = calc_flat_roof_ce_coefficients(
+            eaves_type=etype,
+            parapet_height_hp=gp.get("parapet_height_hp", 0.0),
+            radius_r=gp.get("radius_r", 0.0),
+            building_height_h=gp.get("building_height_h", total_building_height_h),
+            building_width_b=gp.get("building_width_b", 20.0),
+        )
+        zones_ce = _extract_zones(c_res)
+        notes.append("Hệ số khí động mái phẳng (Bảng F.3).")
+
+    elif geom_norm in ("monopitch_roof", "mai_doc_don"):
+        alpha = gp.get("pitch_angle_alpha", gp.get("pitch_angle_deg", 15.0))
+        theta = gp.get("wind_angle_theta", gp.get("wind_direction_deg", 0.0))
+        c_res = calc_monopitch_roof_ce_coefficients(pitch_angle_alpha=alpha, wind_angle_theta=theta)
+        zones_ce = _extract_zones(c_res)
+        notes.append(f"Hệ số khí động mái dốc đơn (Bảng F.4/F.5): alpha={alpha:g} độ, theta={theta:g} độ.")
+
+    elif geom_norm in ("hipped_roof", "mai_4_mai"):
+        alpha = gp.get("pitch_angle_alpha", gp.get("pitch_angle_deg", 15.0))
+        theta = gp.get("wind_angle_theta", gp.get("wind_direction_deg", 0.0))
+        c_res = calc_hipped_roof_ce_coefficients(pitch_angle_alpha=alpha, wind_angle_theta=theta)
+        zones_ce = _extract_zones(c_res)
+        notes.append(f"Hệ số khí động mái 4 mái (Bảng F.7): alpha={alpha:g} độ, theta={theta:g} độ.")
+
+    elif geom_norm in ("freestanding_wall", "tuong_phang_doc_lap"):
+        l_wall = gp.get("length_L", 20.0)
+        h_w = gp.get("height_h", 4.0)
+        c_res = calc_freestanding_wall_aerodynamic_coeff(length_L=l_wall, height_h=h_w)
+        zones_ce = _extract_zones(c_res)
+        notes.append(f"Hệ số khí động tường độc lập (Bảng F.1): L={l_wall:g}m, h={h_w:g}m.")
+
+    else:
+        c_val = float(gp.get("c_e", 0.8))
+        zones_ce = {"Vùng khảo sát": c_val}
+        notes.append(f"Hệ số khí động tùy chỉnh: c_e = {c_val:g}.")
+
+    # 8. Tính toán Wk và Wd cho từng vùng
+    zone_results: dict[str, dict[str, float]] = {}
+    primary_wd_kNm2 = 0.0
+
+    step_idx = 5
+    for z_name, c_coeff in zones_ce.items():
+        w_k_zone = round(w_3s_10 * kz * c_coeff * gf, 2)
+        w_d_zone = round(gamma_f * gamma_n * w_k_zone, 2)
+        w_d_kNm2 = round(w_d_zone / 100.0, 4)
+
+        zone_results[z_name] = {
+            "c_e": c_coeff,
+            "W_k_daN_m2": w_k_zone,
+            "W_d_daN_m2": w_d_zone,
+            "W_d_kNm2": w_d_kNm2,
+        }
+
+        if abs(w_d_kNm2) > abs(primary_wd_kNm2):
+            primary_wd_kNm2 = w_d_kNm2
+
+        steps.append(
+            CalculationStep(
+                step_number=step_idx,
+                description=f"Tính áp lực gió tiêu chuẩn Wk và tính toán Wd cho {z_name} (c_e = {c_coeff:g})",
+                formula_latex=r"W_k = W_{3s,10} \cdot k(z_e) \cdot c_e \cdot G_f; \quad W_d = \gamma_f \cdot \gamma_n \cdot W_k",
+                substitution=(
+                    f"Wk = {w_3s_10:g} * {kz:g} * {c_coeff:g} * {gf:g} = {w_k_zone:g} daN/m2 | "
+                    f"Wd = {gamma_f:g} * {gamma_n:g} * {w_k_zone:g} = {w_d_zone:g} daN/m2 ({w_d_kNm2:g} kN/m2)"
+                ),
+                result_text=f"{z_name}: Wk = {w_k_zone:g} daN/m2, Wd = {w_d_zone:g} daN/m2 ({w_d_kNm2:g} kN/m2)",
+            )
+        )
+        step_idx += 1
+
+    return CalculationResult(
+        formula_id="F_WIND_TCVN2737_FULL_PIPELINE",
+        formula_name=f"Tải trọng gió toàn trình TCVN 2737:2023 ({location_desc}, z={height_z:g}m)",
+        standard_reference="Chương 10, Phụ lục C, D, E, F, H TCVN 2737:2023",
+        inputs={
+            "province": province,
+            "district": district,
+            "commune": commune,
+            "W0_daN_m2": w0,
+            "wind_zone": wind_zone,
+            "height_z": height_z,
+            "terrain_category": terrain_category,
+            "structure_geometry": structure_geometry,
+            "structure_type": structure_type,
+            "total_building_height_h": total_building_height_h,
+            "period_T1": period_T1,
+            "consequence_class": consequence_class,
+            "gamma_f": gamma_f,
+            "gamma_n": gamma_n,
+            "gamma_T": gamma_T,
+        },
+        outputs={
+            "W0_daN_m2": w0,
+            "W3s_10_daN_m2": w_3s_10,
+            "k_z": kz,
+            "z_e_m": z_e,
+            "G_f": gf,
+            "gamma_n": gamma_n,
+            "gamma_f": gamma_f,
+            "zones": zone_results,
+            "primary_Wd_kNm2": primary_wd_kNm2,
+        },
+        unit="kN/m2",
+        primary_value=primary_wd_kNm2,
+        steps=steps,
+        notes=notes,
+        is_compliant=True,
+        compliance_message=(
+            f"Đã hoàn thành tính toán tải trọng gió toàn trình tại {location_desc} "
+            f"(Vùng {wind_zone}, W0={w0:g}daN/m2) ở độ cao z={height_z:g}m: "
+            f"W_d cực đại = {primary_wd_kNm2:g} kN/m2."
+        ),
+    )
+
+

@@ -85,7 +85,7 @@ $$W_k = W_0 \cdot k(z_e) \cdot c_e \cdot G_f$$
 
 **Bị chặn bởi:** `Ticket 2`, `Ticket 3`.
 
-- [ ] Hàm `calc_total_wind_load_standard` thực thi tích hợp end-to-end thành công.
-- [ ] Xuất báo cáo Markdown thuyết minh tải trọng gió hoàn chỉnh cho công trình thực tế.
-- [ ] Unit Tests tích hợp toàn trình đạt $100\%$ pass rate.
-- [ ] Vượt qua 10 Cổng Master CI Gate.
+- [x] Hàm `calc_total_wind_load_standard` (và `calc_full_wind_load_tcvn2737`) thực thi tích hợp end-to-end thành công.
+- [x] Xuất báo cáo Markdown thuyết minh tải trọng gió hoàn chỉnh cho công trình thực tế.
+- [x] Unit Tests tích hợp toàn trình đạt $100\%$ pass rate.
+- [x] Vượt qua 10 Cổng Master CI Gate.
