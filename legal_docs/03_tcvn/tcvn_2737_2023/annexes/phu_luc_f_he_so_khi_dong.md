@@ -20,31 +20,13 @@
 
 **F.1.1.3**  Hệ số đặc của kết cấu φ là tỉ số giữa diện tích phần đặc và diện tích bao của kết cấu.
 
-<p align="center"><strong>Khi L > 4h</strong></p>
-
-<p align="center">
-
-![image44.png](../figures/images/image44.png)
-
-</p>
-
-<p align="center"><strong>Khi L ≤ 4h</strong></p>
-
-<p align="center">
-
-![image45.png](../figures/images/image45.png)
-
-</p>
-
-<p align="center"><strong>Khi L ≤ 2h</strong></p>
-
-<p align="center">
-
-![image46.png](../figures/images/image46.png)
-
-</p>
-
 <a id="hinh-f_1"></a>
+
+<p align="center">
+
+![Hình F.1](../figures/images/hinh_f_1.png)
+
+</p>
 
 <p align="center"><strong>Hình F.1 — Các vùng trên tường phẳng, hàng rào và kết cấu tương tự</strong></p>
 
@@ -105,22 +87,13 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 **CHÚ THÍCH: Hệ số khí động áp lực $c_e$ cho tường chắn mái được xác định theo F.1.1.**
 
-<p align="center">
-
-![image49.png](../figures/images/image49.png)
-
-</p>
-
-<p align="center">
-
-![image50.png](../figures/images/image50.png)
-
-</p>
-
-<p align="center"><em>e = min (b; 2h)
-b là cạnh vuông góc hướng gió</em></p>
-
 <a id="hinh-f_3"></a>
+
+<p align="center">
+
+![Hình F.3](../figures/images/hinh_f_3.png)
+
+</p>
 
 <p align="center"><strong>Hình F.3 — Mái bằng</strong></p>
 
@@ -162,34 +135,13 @@ b là cạnh vuông góc hướng gió</em></p>
 
 **F.3.3**  Hệ số khí động áp lực ce được xác định cho từng vùng theo các các bảng [F.3a](#bang-bang-f-3a) và [F.3b](#bang-bang-f-3b).
 
-<p align="center">
-
-![image51.png](../figures/images/image51.png)
-
-</p>
-
-<p align="center"><strong>a) Sơ đồ chung</strong></p>
-
-<p align="center">
-
-![image52.png](../figures/images/image52.png)
-
-</p>
-
-<p align="center"><em>e = min (b; 2h)
-b là cạnh vuông góc hướng gió</em></p>
-
-<p align="center"><strong>b) Góc hướng gió θ = 0° và θ = 180°</strong></p>
-
-<p align="center">
-
-![image53.png](../figures/images/image53.png)
-
-</p>
-
-<p align="center"><strong>c) Góc hướng gió θ = 90°</strong></p>
-
 <a id="hinh-f_4"></a>
+
+<p align="center">
+
+![Hình F.4](../figures/images/hinh_f_4.png)
+
+</p>
 
 <p align="center"><strong>Hình F.4 — Mái dốc một phía</strong></p>
 
@@ -372,17 +324,13 @@ b là cạnh vuông góc hướng gió</em></p>
 
 **F.5.3**  Hệ số khí động áp lực $c_e$ cho từng vùng lấy theo Bảng F.6.
 
+<a id="hinh-f_7"></a>
+
 <p align="center">
 
-![Hình F.7 - Sơ đồ mặt đứng](../figures/images/image59.png)
+![Hình F.7](../figures/images/hinh_f_7.png)
 
 </p>
-
-| a) Góc hướng gió $\theta = 0^\circ$ | b) Góc hướng gió $\theta = 90^\circ$ |
-| :---: | :---: |
-| ![Hình F.7a](../figures/images/image60.png)<br><br>**a) Góc hướng gió $\theta = 0^\circ$** | *$e = \min(b, 2h)$<br>$b$ là cạnh vuông góc hướng gió*<br><br>![Hình F.7b](../figures/images/image61.png)<br><br>**b) Góc hướng gió $\theta = 90^\circ$** |
-
-<a id="hinh-f_7"></a>
 
 <p align="center"><strong>Hình F.7 — Mái dốc bốn phía</strong></p>
 

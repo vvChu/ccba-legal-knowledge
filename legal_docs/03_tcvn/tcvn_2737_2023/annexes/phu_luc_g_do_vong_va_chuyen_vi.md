@@ -50,32 +50,15 @@ Nếu việc tính toán được thực hiện theo yêu cầu thẩm mỹ - t�
 
 **G.1.7**  Trong trường hợp giữa các tường có tường ngăn chịu lực (với chiều cao gần bằng chiều cao tường) thì giá trị L trong mục 2a Bảng G.1 lấy bằng khoảng cách giữa mặt trong của các tường chịu lực (hoặc các cột) và các tường ngăn (hoặc giữa mặt trong của các tường ngăn như trên Hình G.1).
 
-<p align="center">
-
-![image99.png](../figures/images/image99.png)
-
-</p>
-
-<p align="center"><strong>a) Có một tường ngăn</strong></p>
-
-<p align="center">
-
-![image100.png](../figures/images/image100.png)
-
-</p>
-
-<p align="center"><strong>b) Có hai tường ngăn</strong></p>
-
-**CHÚ DẪN:**
-
-| 1 - Tường chịu lực (hoặc cột); | 4 - Sàn tàng (hoặc mái) khi chịu tải trọng; |
-| :---: | :--- |
-| 2 - Tường ngăn; | 5 - Các đoạn thẳng mốc để tính độ võng; |
-| 3 - Sàn tầng (hoặc mái) trước khi chịu tải trọng; | 6 - Khe hở. |
-
 <a id="hinh-g_1"></a>
 
-<p align="center"><strong>Hình G.1 — Sơ đồ xác định các giá trị L (L1, L2, L3) khi có tường ngăn nằm giữa các tường chịu lực</strong></p>
+<p align="center">
+
+![Hình G.1](../figures/images/hinh_g_1.png)
+
+</p>
+
+<p align="center"><strong>Hình G.1 — Sơ đồ xác định các giá trị L ($L_1, L_2, L_3$) khi có tường ngăn nằm giữa các tường chịu lực</strong></p>
 
 <a id="muc-g-1-8"></a>
 
