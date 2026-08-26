@@ -520,9 +520,29 @@ class LegalSpokeValidator:
 
         md_files = sorted(self.legal_docs_dir.rglob("*.md"))
         for md_file in md_files:
+            rel = md_file.relative_to(self.root_dir)
+            content = md_file.read_text(encoding="utf-8")
+            lines = content.splitlines()
+
+            # Rule 1: Zero squashed notes with <br> (ADR 0030)
+            for i, line in enumerate(lines, 1):
+                if re.search(r"<br>\s*(?:\*\*)?CHÚ THÍCH", line, re.IGNORECASE):
+                    self.errors.append(f"Visual Parity Error [{rel}:L{i}]: Squashed note with <br> tag. Must be separated paragraphs.")
+
+            # Rule 2: Monotonic note numbering sequence (ADR 0030)
+            chunks = re.split(r"(?=\n#{1,4}\s+|\n<a id=)", content)
+            for chunk in chunks:
+                labels = [m.group(1).upper() for m in re.finditer(r"\b(CHÚ THÍCH(?:\s+\d+)?):", chunk, re.IGNORECASE)]
+                if labels:
+                    has_note_2 = any("CHÚ THÍCH 2" in l for l in labels)
+                    has_note_1 = any("CHÚ THÍCH 1" in l for l in labels)
+                    has_unnum_note = any(l == "CHÚ THÍCH" for l in labels)
+                    if has_note_2 and has_unnum_note and not has_note_1:
+                        self.errors.append(f"Visual Parity Error [{rel}]: Missing 'CHÚ THÍCH 1'. Unnumbered note followed by 'CHÚ THÍCH 2'.")
+
+            # Rule 3: Lint via ccba_legal linter
             errs = lint_document(md_file)
             for e in errs:
-                rel = md_file.relative_to(self.root_dir)
                 self.errors.append(f"Visual Parity Error [{rel}]: {e}")
 
         return (len(self.errors), len(self.warnings))

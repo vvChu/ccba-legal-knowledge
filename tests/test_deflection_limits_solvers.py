@@ -20,22 +20,28 @@ from formulas import (
 class TestPhysiologicalDeflectionLimits:
     """Kiểm tra độ võng giới hạn theo yêu cầu tâm sinh lý (Công thức G.1 và Bảng G.2)."""
 
-    def test_group_a_b_beam(self) -> None:
-        """Khu vực A, B (p=0.25), dầm (alpha=1.0), a=3m, L=6m."""
+    def test_group_a_b_beam_hand_calculation_benchmark(self) -> None:
+        """Khu vực A, B (p=0.25), dầm (alpha=1.0), a=3m, L=6m, p1=0.5, q=3.0 -> [fu] = 32.70mm chuẩn."""
         res = calc_physiological_deflection_limit_fu(
             occupancy_group="A_B",
+            p=0.25,
             p1=0.5,
             q=3.0,
+            n=1.5,
             a_m=3.0,
             span_L_m=6.0,
             beam_scheme="beam",
+            Q_person_kN=0.8,
+            g_m_s2=9.81,
         )
         assert res.formula_id == "F_PHYSIOLOGICAL_DEFLECTION_G1"
-        assert res.outputs["b_factor"] > 0
-        assert res.primary_value > 0
+        # b = 125 * sqrt(0.8 / (1.0 * 0.25 * 3.0 * 6.0)) = 125 * sqrt(0.177778) = 52.705
+        assert round(res.outputs["b_factor"], 3) == 52.705
+        # fu = 9.81 * (0.25 + 0.5 + 3.0) / (30 * 1.5^2 * (52.705 * 0.25 + 0.5 + 3.0)) = 36.7875 / (67.5 * 16.67625) = 0.03268 m = 32.68 mm (round to 32.70)
+        assert 32.60 <= res.primary_value <= 32.80
 
-    def test_group_c_d_slab(self) -> None:
-        """Khu vực C, D (p=0.50), bản sàn (alpha=0.6), a=4m, L=6m."""
+    def test_group_c_d_slab_benchmark(self) -> None:
+        """Khu vực C, D (p=0.50), bản sàn (alpha=0.6), a=4m, L=6m -> alpha=0.6, p=0.50."""
         res = calc_physiological_deflection_limit_fu(
             occupancy_group="C_D",
             p1=0.7,
@@ -46,6 +52,8 @@ class TestPhysiologicalDeflectionLimits:
         )
         assert res.inputs["alpha"] == 0.6
         assert res.inputs["p_kN_m2"] == 0.50
+        # b = 125 * sqrt(0.8 / (0.6 * 0.5 * 4 * 6)) = 125 * sqrt(0.8 / 7.2) = 125 * 0.33333 = 41.667
+        assert round(res.outputs["b_factor"], 1) == 41.7
         assert res.primary_value > 0
 
     def test_solver_facade_g1(self) -> None:
@@ -54,7 +62,7 @@ class TestPhysiologicalDeflectionLimits:
             "F_PHYSIOLOGICAL_DEFLECTION_G1",
             {"occupancy_group": "A_B", "a_m": 3.0, "span_L_m": 6.0},
         )
-        assert res.primary_value > 0
+        assert 32.0 <= res.primary_value <= 34.0
 
 
 class TestVerticalDeflectionLimits:
