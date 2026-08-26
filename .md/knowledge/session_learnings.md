@@ -135,7 +135,20 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
 
 - **Thành quả Tốt nghiệp R&D:**
   1. **Centered Figure Extraction Seam (`ccba_legal.figure_extractor`):** Hợp nhất chuẩn thẻ hình ảnh kỹ thuật căn giữa `<p align="center">...<p>` vào Deep Seam `figure_extractor.py` và xuất khẩu `extract_technical_figures`, `render_markdown_figure_card` qua `__init__.py`.
-  2. **Unified Visual Parity Seam (`ccba_legal.visual_parity`):** Tích hợp toàn diện 8 quy tắc kiểm định thị giác (bao gồm chặn footnote bullet thừa `- **CHÚ THÍCH:` và cấm raw HTML `<table>`) vào `VisualParityAuditor` và hàm `lint_document`.
+  2. **Unified Visual Parity Seam (`ccba_legal.visual_parity`):** Tích hợp toàn diện 10 quy tắc kiểm định thị giác (bao gồm chặn footnote bullet thừa, cấm gộp dòng `<br>`, và kiểm tra chuỗi đơn điệu `CHÚ THÍCH 1` khi có `CHÚ THÍCH 2`) vào `VisualParityAuditor` và hàm `lint_document`.
   3. **Zero-Wrapper Spoke CI Gate:** Tái cấu trúc `scripts/lint_visual_parity.py` và `scripts/check_hub_import_depth.py` để kế thừa trực tiếp từ Hub `ccba_legal`, bảo toàn $100\%$ Shallow Import (ADR 0030 / Hub Shallow Seam Contract) và đạt $10/10$ Cổng Master CI Gate với $0$ Errors, $0$ Warnings.
-  4. **Ground Truth Test Harness:** Bổ sung `test_figure_extractor.py` và cập nhật `test_visual_parity.py` trong Hub `ccba-legal-intel/tests/`, nâng tổng số test cases của Hub lên **150 passed (100%)**.
+  4. **Ground Truth Test Harness:** Bổ sung `test_figure_extractor.py` và cập nhật `test_visual_parity.py` trong Hub `ccba-legal-intel/tests/`, nâng tổng số test cases của Hub lên **154 passed (100%)**.
+
+---
+
+## 11. Test Suite 3-Tier Reorganization & Upstream Contribution Loop Harmonization (2026-08-26)
+
+- **Tái Cấu Trúc Bộ Kiểm Thử 3 Phân Tầng (`tests/`):**
+  - `tests/unit/`: Chứa các bộ giải toán học kỹ thuật xác định (Deterministic Solvers) — chạy siêu tốc (< 0.8s, 118 tests PASS 100%).
+  - `tests/integration/`: Chứa các pipeline chuyển đổi DOCX, Crawler TVPL VIP, VBHNEngine và Spoke CI Gates (32 tests PASS 100%).
+  - `tests/e2e/`: Chứa các bộ kiểm toán sâu toàn vẹn tài liệu và dữ liệu lịch sử.
+- **Hàn Gắn Chu Trình Đóng Góp Ngược (Upstream Contribution Loop):**
+  - **Liên kết hai chiều `--issue [ID]`:** Đồng bộ từ `/ccba-issue-to-hub` $\to$ `/ccba-graduate-rd` $\to$ `/ccba-contribute-to-hub` $\to$ PR tự động đóng Issue (`Closes #[ID]`).
+  - **Cổng Phân Loại Quy Mô Thông Minh (Smart Scope-Aware Issue Gate):** Tự động gợi ý/tạo GitHub Issue cho các thay đổi kiến trúc/module mới ($\ge 100$ dòng) để ghi nhận Changelog, đồng thời bỏ qua Issue cho các thay đổi nhỏ ($< 100$ dòng) để tránh rác Issue Tracker.
+
 
