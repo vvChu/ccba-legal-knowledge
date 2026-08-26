@@ -1,0 +1,50 @@
+{
+  "$schema": "https://ccba.vn/schemas/visual_card_v1.json",
+  "card_id": "FIG_TCVN2737_D1",
+  "figure_number": "D.1",
+  "standard": "TCVN 2737:2023",
+  "title": "Minh họa 3 dạng địa hình A, B, C",
+  "image_relpath": "figures/images/hinh_d_1.png",
+  "normative_clauses": [
+    "D.1",
+    "10.2.4"
+  ],
+  "associated_tables": [
+    "Bảng 8",
+    "Bảng 9",
+    "Bảng 10"
+  ],
+  "formula_id": "F_WIND_TCVN2737_D_KZ",
+  "governing_parameter": "terrain_category",
+  "input_parameters": {
+    "terrain_category": {
+      "description": "Dạng địa hình theo phân loại Mục 10.2.4 (A, B hoặc C)",
+      "type": "string"
+    },
+    "height_z": {
+      "description": "Chiều cao điểm tính toán so với mốc chuẩn (m)",
+      "unit": "m",
+      "type": "float"
+    }
+  },
+  "branching_rules": [
+    {
+      "case_id": "TERRAIN_A",
+      "condition": "terrain_category == \"A\"",
+      "description": "Dạng A: Trống trải, ít vật cản (zg=250m, zmin=1m, alpha=0.11)",
+      "formula": "k(z) = 0.86 * (z / 10)^0.22 khi z >= 1m"
+    },
+    {
+      "case_id": "TERRAIN_B",
+      "condition": "terrain_category == \"B\"",
+      "description": "Dạng B: Tương đối trống trải, có vật cản phân tán (zg=300m, zmin=3m, alpha=0.15)",
+      "formula": "k(z) = (z / 10)^0.30 khi z >= 3m"
+    },
+    {
+      "case_id": "TERRAIN_C",
+      "condition": "terrain_category == \"C\"",
+      "description": "Dạng C: Bị che chắn mạnh, đô thị san sát / rừng rậm (zg=400m, zmin=10m, alpha=0.20)",
+      "formula": "k(z) = (z / 10)^0.40 khi z >= 10m"
+    }
+  ]
+}

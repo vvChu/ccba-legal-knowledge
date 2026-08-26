@@ -49,10 +49,10 @@ Xây dựng công cụ CLI tự động hóa cho Spoke/Platform (`scripts/modern
 
 **Bị chặn bởi:** `Ticket 1`.
 
-- [ ] Toàn bộ bảng phân vùng gió 63 tỉnh thành được số hóa đầy đủ và chính xác $100\%$.
-- [ ] Solver tra $W_0$ và $k(z)$ hoạt động chính xác với mọi địa danh Việt Nam.
-- [ ] Unit Tests kiểm chuẩn tra cứu cho Hà Nội, TP.HCM, Đà Nẵng, Hải Phòng, Cần Thơ.
-- [ ] Vượt qua 10 Cổng Master CI Gate.
+- [x] Toàn bộ bảng phân vùng gió 63 tỉnh thành được số hóa đầy đủ và chính xác $100\%$.
+- [x] Solver tra $W_0$ và $k(z)$ hoạt động chính xác với mọi địa danh Việt Nam.
+- [x] Unit Tests kiểm chuẩn tra cứu cho Hà Nội, TP.HCM, Đà Nẵng, Hải Phòng, Cần Thơ.
+- [x] Vượt qua 10 Cổng Master CI Gate.
 
 ---
 

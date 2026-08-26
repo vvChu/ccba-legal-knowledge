@@ -10,10 +10,13 @@ import pytest
 from formulas import (
     SymbolicFormulaSolver,
     VisualCardEngine,
+    calc_base_wind_pressure_w0,
     calc_duopitch_roof_ce_coefficients,
     calc_equivalent_building_dimensions,
     calc_freestanding_wall_aerodynamic_coeff,
     calc_gust_factor_gf,
+    calc_terrain_height_factor_kz,
+    calc_topography_datum_z0,
 )
 
 
@@ -336,8 +339,10 @@ class TestExtendedVisualCards:
 
     def test_all_cards_present(self) -> None:
         cards = VisualCardEngine.list_cards()
-        assert len(cards) >= 7
+        assert len(cards) >= 9
         expected_ids = {
+            "FIG_TCVN2737_C1",
+            "FIG_TCVN2737_D1",
             "FIG_TCVN2737_E1",
             "FIG_TCVN2737_F1",
             "FIG_TCVN2737_F3",
@@ -423,4 +428,137 @@ class TestEquivalentDimensionsSolvers:
 
         res_dim = SymbolicFormulaSolver.solve("F_WIND_TCVN2737_E_EQUIV_DIM", {"shape": "Y", "b": 36.0})
         assert res_dim.outputs["d_equiv"] == 20.0
+
+
+class TestTopographyDatumSolvers:
+    """Kiểm tra xác định mốc chuẩn quy ước z0 theo Phụ lục C TCVN 2737:2023."""
+
+    def test_gentle_slope(self) -> None:
+        """Độ dốc i = 0.2 <= 0.3 -> z0 = 0.0."""
+        res = calc_topography_datum_z0(slope_i=0.2)
+        assert res.primary_value == 0.0
+        assert res.outputs["datum_z0"] == 0.0
+
+    def test_moderate_slope_bc(self) -> None:
+        """Độ dốc i = 1.0, H = 17.0m -> z0 = 17 * (2 - 1) / 1.7 = 10.0m."""
+        res = calc_topography_datum_z0(slope_i=1.0, height_H=17.0)
+        assert res.primary_value == 10.0
+
+    def test_moderate_slope_i_0_5(self) -> None:
+        """Độ dốc i = 0.5, H = 10.0m -> z0 = 10 * 1.5 / 1.7 = 8.824m."""
+        res = calc_topography_datum_z0(slope_i=0.5, height_H=10.0)
+        assert res.primary_value == 8.824
+
+    def test_steep_cliff(self) -> None:
+        """Độ dốc i = 2.5 >= 2.0, z1 = 5.0m -> z0 = 5.0m."""
+        res = calc_topography_datum_z0(slope_i=2.5, z1=5.0)
+        assert res.primary_value == 5.0
+
+    def test_invalid_inputs(self) -> None:
+        with pytest.raises(ValueError, match="i phải >= 0"):
+            calc_topography_datum_z0(slope_i=-0.5)
+
+
+class TestTerrainHeightFactorSolvers:
+    """Kiểm tra tính toán hệ số độ cao k(z) theo Mục 10.2.4, Bảng 8 & Bảng 9 và Phụ lục D."""
+
+    def test_terrain_a_z_10m(self) -> None:
+        """Dạng A ở z=10m -> k(10) = 0.86."""
+        res = calc_terrain_height_factor_kz(terrain_category="A", height_z=10.0)
+        assert res.primary_value == 0.86
+
+    def test_terrain_a_z_20m(self) -> None:
+        """Dạng A ở z=20m -> k(20) = 0.86 * 2^0.22 ≈ 1.002."""
+        res = calc_terrain_height_factor_kz(terrain_category="A", height_z=20.0)
+        assert res.primary_value == 1.002
+
+    def test_terrain_b_z_10m(self) -> None:
+        """Dạng B ở z=10m -> k(10) = 1.00."""
+        res = calc_terrain_height_factor_kz(terrain_category="B", height_z=10.0)
+        assert res.primary_value == 1.0
+
+    def test_terrain_b_z_20m(self) -> None:
+        """Dạng B ở z=20m -> k(20) = 2^0.30 ≈ 1.231."""
+        res = calc_terrain_height_factor_kz(terrain_category="B", height_z=20.0)
+        assert res.primary_value == 1.231
+
+    def test_terrain_b_z_below_min(self) -> None:
+        """Dạng B ở z=2m < zmin=3m -> lấy k(3) = 0.697."""
+        res = calc_terrain_height_factor_kz(terrain_category="B", height_z=2.0)
+        assert res.primary_value == 0.697
+        assert any("zmin" in n for n in res.notes)
+
+    def test_terrain_c_z_10m(self) -> None:
+        """Dạng C ở z=10m -> k(10) = 1.0."""
+        res = calc_terrain_height_factor_kz(terrain_category="C", height_z=10.0)
+        assert res.primary_value == 1.0
+
+    def test_terrain_c_z_5m(self) -> None:
+        """Dạng C ở z=5m < zmin=10m -> lấy k(10) = 1.0."""
+        res = calc_terrain_height_factor_kz(terrain_category="C", height_z=5.0)
+        assert res.primary_value == 1.0
+
+
+class TestVietnamWindZonesLookup:
+    """Kiểm tra tra cứu áp lực gió W0 cho 63 tỉnh thành (Bảng 5.1 QCVN 02:2022 & Bảng 7 TCVN 2737:2023)."""
+
+    def test_hanoi_general(self) -> None:
+        """Hà Nội chung -> Vùng II, W0 = 95 daN/m2."""
+        res = calc_base_wind_pressure_w0(province="Hà Nội")
+        assert res.outputs["wind_zone"] == "II"
+        assert res.primary_value == 95.0
+
+    def test_hanoi_my_duc_huong_son(self) -> None:
+        """Hà Nội, Mỹ Đức, Hương Sơn -> Vùng III, W0 = 125 daN/m2."""
+        res = calc_base_wind_pressure_w0(province="Hà Nội", district="Mỹ Đức", commune="Hương Sơn")
+        assert res.outputs["wind_zone"] == "III"
+        assert res.primary_value == 125.0
+
+    def test_hcm_cu_chi(self) -> None:
+        """TP.HCM, Củ Chi -> Vùng I, W0 = 65 daN/m2."""
+        res = calc_base_wind_pressure_w0(province="Hồ Chí Minh", district="Củ Chi")
+        assert res.outputs["wind_zone"] == "I"
+        assert res.primary_value == 65.0
+
+    def test_hcm_general(self) -> None:
+        """TP.HCM chung -> Vùng II, W0 = 95 daN/m2."""
+        res = calc_base_wind_pressure_w0(province="Thành phố Hồ Chí Minh")
+        assert res.outputs["wind_zone"] == "II"
+        assert res.primary_value == 95.0
+
+    def test_hai_phong_bach_long_vi(self) -> None:
+        """Hải Phòng, Bạch Long Vĩ -> Vùng V, W0 = 185 daN/m2."""
+        res = calc_base_wind_pressure_w0(province="Hải Phòng", district="Bạch Long Vĩ")
+        assert res.outputs["wind_zone"] == "V"
+        assert res.primary_value == 185.0
+
+    def test_da_nang_hoang_sa(self) -> None:
+        """Đà Nẵng, Hoàng Sa -> Vùng V, W0 = 185 daN/m2."""
+        res = calc_base_wind_pressure_w0(province="Đà Nẵng", district="Hoàng Sa")
+        assert res.outputs["wind_zone"] == "V"
+        assert res.primary_value == 185.0
+
+    def test_ba_ria_vung_tau_con_dao(self) -> None:
+        """Bà Rịa - Vũng Tàu, Côn Đảo -> Vùng III, W0 = 125 daN/m2."""
+        res = calc_base_wind_pressure_w0(province="Bà Rịa - Vũng Tàu", district="Côn Đảo")
+        assert res.outputs["wind_zone"] == "III"
+        assert res.primary_value == 125.0
+
+    def test_can_tho(self) -> None:
+        """Cần Thơ -> Vùng II, W0 = 95 daN/m2."""
+        res = calc_base_wind_pressure_w0(province="Cần Thơ")
+        assert res.outputs["wind_zone"] == "II"
+        assert res.primary_value == 95.0
+
+    def test_solver_facade_w0_kz_datum(self) -> None:
+        """Kiểm tra gọi qua Master Solver Facade."""
+        res_w0 = SymbolicFormulaSolver.solve("F_WIND_QCVN02_W0_LOOKUP", {"province": "Hà Nội"})
+        assert res_w0.primary_value == 95.0
+
+        res_kz = SymbolicFormulaSolver.solve("F_WIND_TCVN2737_D_KZ", {"terrain_category": "B", "height_z": 20.0})
+        assert res_kz.primary_value == 1.231
+
+        res_datum = SymbolicFormulaSolver.solve("F_WIND_TCVN2737_C_DATUM", {"slope_i": 1.0, "height_H": 17.0})
+        assert res_datum.primary_value == 10.0
+
 

@@ -12,47 +12,24 @@
 \- c) Trường hợp mặt đất có độ dốc lớn $i \ge 2$, mặt cao độ công trình quy ước $z_0$ (mốc chuẩn) để tính độ cao $z$ thấp hơn mặt đất thực được xác định theo [Hình C.1b](#hinh-c_1b).
 
 
-<a id="hinh-c_1a"></a>
-
-<p align="center">
-
-![Hình C.1a](../figures/images/hinh_c_1a.png)
-
-</p>
-
-**CHÚ THÍCH:** Bên trái điểm A: $z_0 = z_1$; Trên đoạn BC: $z_0 = \frac{H(2 - i)}{1{,}7}$; Bên phải điểm D: $z_0 = z_2$; Trên đoạn AB và CD: $z_0$ được xác định bằng nội suy tuyến tính.
-
-<p align="center"><strong>a) Khi mặt đất có độ dốc $0{,}3 < i < 2$</strong></p>
-
-
-<a id="hinh-c_1b"></a>
-
-<p align="center">
-
-![Hình C.1b](../figures/images/hinh_c_1b.png)
-
-</p>
-
-**CHÚ THÍCH:** Bên trái điểm C: $z_0 = z_1$; Bên phải điểm D: $z_0 = z_2$; Trên đoạn CD: $z_0$ được xác định bằng nội suy tuyến tính.
-
-<p align="center"><strong>b) Khi mặt đất có độ dốc $i \ge 2$</strong></p>
-
-
 <a id="hinh-c_1"></a>
 
+<p align="center">
+
+![Hình C.1](../figures/images/hinh_c_1.png)
+
+</p>
+
 <p align="center"><strong>Hình C.1 — Mặt cao độ công trình quy ước $z_0$ (mốc chuẩn)</strong></p>
+
+_CHÚ THÍCH:_
+
+1) Khi mặt đất có độ dốc $0{,}3 < i < 2$ (Hình C.1a): Bên trái điểm A lấy $z_0 = z_1$; Trên đoạn BC lấy $z_0 = \frac{H(2 - i)}{1{,}7}$; Bên phải điểm D lấy $z_0 = z_2$; Trên đoạn AB và CD xác định bằng nội suy tuyến tính.
+2) Khi mặt đất có độ dốc $i \ge 2$ (Hình C.1b): Bên trái điểm C lấy $z_0 = z_1$; Bên phải điểm D lấy $z_0 = z_2$; Trên đoạn CD xác định bằng nội suy tuyến tính.
 
 > [!NOTE]
 > **Đặc tả Hình học & Phương pháp Xác định Mốc chuẩn Khí động ($z_0$):**
 > \- **Phạm vi áp dụng:** Xác định mặt cao độ công trình quy ước $z_0$ (mốc chuẩn) khi địa hình xung quanh nhà/công trình không bằng phẳng (đồi, dốc, vách đứng) để tính độ cao tương đương $z_e$ theo công thức (12).
-> \- **Phân loại 3 trường hợp độ dốc địa hình $i$:**
-> &nbsp;&nbsp;+ **Trường hợp 1 ($i \le 0{,}3$ - Độ dốc nhỏ):** Mặt đất coi như bằng phẳng, lấy $z_0 = 0$ (tính trực tiếp từ mặt đất thực đặt công trình).
-> &nbsp;&nbsp;+ **Trường hợp 2 ($0{,}3 < i < 2$ - Sườn dốc vừa, [Hình C.1a](#hinh-c_1a)):**
-> &nbsp;&nbsp;&nbsp;&nbsp;* Bên trái điểm A: $z_0 = z_1$
-> &nbsp;&nbsp;&nbsp;&nbsp;* Trên đoạn BC (chiều rộng $H$): $z_0 = \frac{H(2 - i)}{1{,}7}$
-> &nbsp;&nbsp;&nbsp;&nbsp;* Bên phải điểm D (cách C khoảng $3H$): $z_0 = z_2$
-> &nbsp;&nbsp;&nbsp;&nbsp;* Trên đoạn AB và CD: $z_0$ xác định bằng nội suy tuyến tính.
-> &nbsp;&nbsp;+ **Trường hợp 3 ($i \ge 2$ - Vách dốc đứng, [Hình C.1b](#hinh-c_1b)):**
-> &nbsp;&nbsp;&nbsp;&nbsp;* Bên trái điểm C (đỉnh vách): $z_0 = z_1$
-> &nbsp;&nbsp;&nbsp;&nbsp;* Bên phải điểm D (cách C khoảng $3H$): $z_0 = z_2$
-> &nbsp;&nbsp;&nbsp;&nbsp;* Trên đoạn CD: $z_0$ xác định bằng nội suy tuyến tính.
+> \- **Tham chiếu Visual Card:** [`fig_c_1_benchmark_datum.json`](../figures/cards/fig_c_1_benchmark_datum.json)
+> \- **Bộ giải tính toán (Python Solver):** `calc_topography_datum_z0` trong `formulas/wind_load_tcvn2737.py`.
+

@@ -1112,3 +1112,156 @@ def calc_equivalent_building_dimensions(
         compliance_message=f"Đã xác định kích thước tương đương d = {d_equiv:g}m, b = {b_equiv:g}m cho mặt bằng {desc}.",
     )
 
+
+# ===========================================================================
+# 8. PHỤ LỤC C: MỐC CHUẨN KHÍ ĐỘNG z0 & PHỤ LỤC D: HỆ SỐ ĐỘ CAO k(z)
+# ===========================================================================
+
+def calc_topography_datum_z0(
+    slope_i: float,
+    height_H: float = 10.0,
+    zone: str = "BC",
+    x_pos: float = 0.0,
+    z1: float = 0.0,
+    z2: float = 0.0,
+) -> CalculationResult:
+    """Xác định mặt cao độ quy ước z0 (mốc chuẩn khí động) theo độ dốc địa hình (Phụ lục C TCVN 2737:2023).
+
+    Căn cứ: Mục C.1, Hình C.1a & C.1b Phụ lục C TCVN 2737:2023.
+
+    Args:
+        slope_i: Độ dốc địa hình so với phương ngang (i = tan theta hoặc H/L).
+        height_H: Chiều cao chênh lệch địa hình H (m, mặc định 10m).
+        zone: Vị trí xét ('left_A', 'AB', 'BC', 'CD', 'right_D', mặc định 'BC').
+        x_pos: Vị trí tương đối trên đoạn nội suy (m).
+        z1: Cao độ mặt đất thực đỉnh dốc (m).
+        z2: Cao độ mặt đất thực chân dốc (m).
+    """
+    if slope_i < 0:
+        raise ValueError("Độ dốc địa hình i phải >= 0")
+    if height_H <= 0:
+        raise ValueError("Chiều cao chênh lệch địa hình H phải > 0")
+
+    steps: list[CalculationStep] = []
+    notes: list[str] = []
+
+    if slope_i <= 0.3:
+        z0 = 0.0
+        formula_latex = r"z_0 = 0\text{ (mặt đất bằng phẳng)}"
+        subst = f"i = {slope_i:g} <= 0.3 -> z0 = 0 m"
+        desc = "Trường hợp 1: Độ dốc nhỏ (i <= 0.3)"
+        notes.append("Độ cao z được tính trực tiếp từ mặt đất thực đặt công trình.")
+    elif slope_i < 2.0:
+        desc = "Trường hợp 2: Sườn dốc vừa (0.3 < i < 2, Hình C.1a)"
+        z0_bc = round(height_H * (2.0 - slope_i) / 1.7, 3)
+        formula_latex = r"z_0 = \frac{H(2 - i)}{1{,}7}"
+        subst = f"z0 = {height_H:g} * (2 - {slope_i:g}) / 1.7 = {z0_bc:g} m"
+        z0 = z0_bc
+        notes.append(f"Trên đoạn BC: z0 = H*(2-i)/1.7 = {z0_bc:g}m.")
+        notes.append("Bên trái A: z0 = z1; Bên phải D: z0 = z2; Trên AB và CD: nội suy tuyến tính.")
+    else:
+        desc = "Trường hợp 3: Vách dốc đứng (i >= 2.0, Hình C.1b)"
+        z0 = z1
+        formula_latex = r"z_0 = z_1\text{ hoặc nội suy theo Hình C.1b}"
+        subst = f"i = {slope_i:g} >= 2.0 -> z0 = z1 = {z1:g} m (đỉnh vách)"
+        notes.append("Bên trái C: z0 = z1; Bên phải D: z0 = z2; Trên CD: nội suy tuyến tính.")
+
+    steps.append(
+        CalculationStep(
+            step_number=1,
+            description=f"Xác định mốc chuẩn quy ước z0 cho {desc}",
+            formula_latex=formula_latex,
+            substitution=subst,
+            result_text=f"z0 = {z0:g} m",
+        )
+    )
+
+    return CalculationResult(
+        formula_id="F_WIND_TCVN2737_C_DATUM",
+        formula_name=f"Mốc chuẩn khí động học z0 ({desc})",
+        standard_reference="Mục C.1, Phụ lục C TCVN 2737:2023",
+        inputs={"slope_i": slope_i, "height_H": height_H, "zone": zone, "z1": z1, "z2": z2},
+        outputs={"datum_z0": z0, "slope_i": slope_i, "height_H": height_H},
+        unit="m",
+        primary_value=z0,
+        steps=steps,
+        notes=notes,
+        is_compliant=True,
+        compliance_message=f"Đã xác định mốc chuẩn quy ước z0 = {z0:g}m theo {desc}.",
+    )
+
+
+def calc_terrain_height_factor_kz(
+    terrain_category: str,
+    height_z: float,
+) -> CalculationResult:
+    """Tính toán hệ số k(z_e) theo độ cao z và dạng địa hình A, B, C (Bảng 8 & Bảng 9 TCVN 2737:2023).
+
+    Căn cứ: Mục 10.2.4, Bảng 8 & Bảng 9 và Phụ lục D TCVN 2737:2023.
+
+    Args:
+        terrain_category: Dạng địa hình ('A', 'B' hoặc 'C').
+        height_z: Chiều cao điểm tính toán so với mốc chuẩn (m).
+    """
+    if height_z <= 0:
+        raise ValueError("Chiều cao tính toán z phải > 0")
+
+    cat_norm = terrain_category.strip().upper()
+    if cat_norm not in ("A", "B", "C"):
+        raise ValueError(f"Dạng địa hình '{terrain_category}' không hợp lệ. Chọn 'A', 'B' hoặc 'C'.")
+
+    steps: list[CalculationStep] = []
+    notes: list[str] = []
+
+    if cat_norm == "A":
+        z_min = 1.0
+        z_eff = max(height_z, z_min)
+        kz = 0.86 * (z_eff / 10.0) ** 0.22
+        formula_latex = r"k(z) = 0{,}86 \cdot \left(\frac{z}{10}\right)^{0{,}22}"
+        desc = "Địa hình dạng A (trống trải, ít vật cản)"
+        notes.append("Bảng 8: zg = 250m, zmin = 1m, alpha = 0.11.")
+    elif cat_norm == "B":
+        z_min = 3.0
+        z_eff = max(height_z, z_min)
+        kz = (z_eff / 10.0) ** 0.30
+        formula_latex = r"k(z) = \left(\frac{z}{10}\right)^{0{,}30}"
+        desc = "Địa hình dạng B (tương đối trống trải, có vật cản phân tán)"
+        notes.append("Bảng 8: zg = 300m, zmin = 3m, alpha = 0.15.")
+    else:
+        z_min = 10.0
+        z_eff = max(height_z, z_min)
+        kz = (z_eff / 10.0) ** 0.40
+        formula_latex = r"k(z) = \left(\frac{z}{10}\right)^{0{,}40}"
+        desc = "Địa hình dạng C (bị che chắn mạnh, nội thành đô thị lớn)"
+        notes.append("Bảng 8: zg = 400m, zmin = 10m, alpha = 0.20.")
+
+    if height_z < z_min:
+        notes.append(f"Chiều cao z = {height_z:g}m < zmin = {z_min:g}m, lấy k(z) = k(zmin) theo quy định Mục 10.2.4.")
+
+    kz_rounded = round(kz, 3)
+
+    steps.append(
+        CalculationStep(
+            step_number=1,
+            description=f"Tính hệ số độ cao k(z) cho {desc}",
+            formula_latex=formula_latex,
+            substitution=f"k({height_z:g}) = k({z_eff:g}) = {kz_rounded:g}",
+            result_text=f"k(z) = {kz_rounded:g}",
+        )
+    )
+
+    return CalculationResult(
+        formula_id="F_WIND_TCVN2737_D_KZ",
+        formula_name=f"Hệ số k(z) độ cao ({desc})",
+        standard_reference="Mục 10.2.4, Bảng 8 & Bảng 9 TCVN 2737:2023",
+        inputs={"terrain_category": terrain_category, "height_z": height_z},
+        outputs={"k_z": kz_rounded, "z_eff": z_eff, "z_min": z_min},
+        unit="",
+        primary_value=kz_rounded,
+        steps=steps,
+        notes=notes,
+        is_compliant=True,
+        compliance_message=f"Đã tính toán thành công hệ số độ cao k(z) = {kz_rounded:g} cho địa hình dạng {cat_norm} ở độ cao z = {height_z:g}m.",
+    )
+
+

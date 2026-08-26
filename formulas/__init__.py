@@ -22,6 +22,9 @@ from formulas.visual_card_engine import (
     VisualCardEngine,
     VisualCardEvaluation,
 )
+from formulas.vietnam_wind_zones import (
+    calc_base_wind_pressure_w0,
+)
 from formulas.wind_load_tcvn2737 import (
     calc_duopitch_roof_ce_coefficients,
     calc_equivalent_building_dimensions,
@@ -30,6 +33,8 @@ from formulas.wind_load_tcvn2737 import (
     calc_gust_factor_gf,
     calc_hipped_roof_ce_coefficients,
     calc_monopitch_roof_ce_coefficients,
+    calc_terrain_height_factor_kz,
+    calc_topography_datum_z0,
     calc_vertical_wall_ce_coefficients,
 )
 
@@ -55,4 +60,7 @@ __all__ = [
     "calc_hipped_roof_ce_coefficients",
     "calc_gust_factor_gf",
     "calc_equivalent_building_dimensions",
+    "calc_topography_datum_z0",
+    "calc_terrain_height_factor_kz",
+    "calc_base_wind_pressure_w0",
 ]

@@ -20,6 +20,9 @@ from formulas.sprinkler_spacing import (
     calc_sprinkler_density_and_spacing,
     calc_sprinkler_room_layout,
 )
+from formulas.vietnam_wind_zones import (
+    calc_base_wind_pressure_w0,
+)
 from formulas.wind_load_tcvn2737 import (
     calc_duopitch_roof_ce_coefficients,
     calc_equivalent_building_dimensions,
@@ -28,6 +31,8 @@ from formulas.wind_load_tcvn2737 import (
     calc_gust_factor_gf,
     calc_hipped_roof_ce_coefficients,
     calc_monopitch_roof_ce_coefficients,
+    calc_terrain_height_factor_kz,
+    calc_topography_datum_z0,
     calc_vertical_wall_ce_coefficients,
 )
 
@@ -316,4 +321,54 @@ SymbolicFormulaSolver.register(
         },
     ),
     calc_equivalent_building_dimensions,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_WIND_TCVN2737_C_DATUM",
+        name="Mặt cao độ quy ước z0 (mốc chuẩn khí động học)",
+        category="WIND_LOAD",
+        standard_reference="Mục C.1, Hình C.1 Phụ lục C TCVN 2737:2023",
+        description="Xác định mốc chuẩn quy ước z0 theo độ dốc địa hình i (i <= 0.3, 0.3 < i < 2, i >= 2).",
+        parameters={
+            "slope_i": "Độ dốc địa hình i (i = tan theta hoặc H/L)",
+            "height_H": "Chiều cao chênh lệch địa hình H (m, mặc định 10.0)",
+            "zone": "Vị trí xét ('left_A', 'AB', 'BC', 'CD', 'right_D', mặc định 'BC')",
+            "x_pos": "Vị trí tương đối trên đoạn nội suy (m, mặc định 0.0)",
+            "z1": "Cao độ đỉnh dốc (m, mặc định 0.0)",
+            "z2": "Cao độ chân dốc (m, mặc định 0.0)",
+        },
+    ),
+    calc_topography_datum_z0,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_WIND_TCVN2737_D_KZ",
+        name="Hệ số độ cao k(z) theo dạng địa hình",
+        category="WIND_LOAD",
+        standard_reference="Mục 10.2.4, Bảng 8 & Bảng 9 TCVN 2737:2023",
+        description="Tính toán hệ số k(z) theo độ cao z cho 3 dạng địa hình A, B, C.",
+        parameters={
+            "terrain_category": "Dạng địa hình ('A', 'B' hoặc 'C')",
+            "height_z": "Chiều cao điểm tính toán so với mốc chuẩn (m)",
+        },
+    ),
+    calc_terrain_height_factor_kz,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_WIND_QCVN02_W0_LOOKUP",
+        name="Tra cứu áp lực gió cơ sở W0 theo địa danh hành chính",
+        category="WIND_LOAD",
+        standard_reference="Bảng 5.1 QCVN 02:2022/BXD & Bảng 7 TCVN 2737:2023",
+        description="Tra cứu phân vùng áp lực gió W0, V3s,50, V10m,50 cho 63 tỉnh/thành phố và quận/huyện/xã.",
+        parameters={
+            "province": "Tên tỉnh hoặc thành phố (ví dụ: 'Hà Nội', 'Hồ Chí Minh')",
+            "district": "Tên quận, huyện, thị xã (tùy chọn)",
+            "commune": "Tên xã, phường, thị trấn (tùy chọn)",
+        },
+    ),
+    calc_base_wind_pressure_w0,
 )

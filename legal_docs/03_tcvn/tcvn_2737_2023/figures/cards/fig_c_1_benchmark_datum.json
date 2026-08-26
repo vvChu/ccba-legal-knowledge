@@ -1,0 +1,59 @@
+{
+  "$schema": "https://ccba.vn/schemas/visual_card_v1.json",
+  "card_id": "FIG_TCVN2737_C1",
+  "figure_number": "C.1",
+  "standard": "TCVN 2737:2023",
+  "title": "Mặt cao độ công trình quy ước z0 (mốc chuẩn)",
+  "image_relpath": "figures/images/hinh_c_1.png",
+  "normative_clauses": [
+    "C.1",
+    "10.2.4"
+  ],
+  "associated_tables": [],
+  "formula_id": "F_WIND_TCVN2737_C_DATUM",
+  "governing_parameter": "slope_i",
+  "input_parameters": {
+    "slope_i": {
+      "description": "Độ dốc của mặt đất xung quanh công trình so với phương ngang (i = tan theta)",
+      "type": "float"
+    },
+    "height_H": {
+      "description": "Chiều cao địa hình chênh lệch (m)",
+      "unit": "m",
+      "default": 10.0,
+      "type": "float"
+    },
+    "z1": {
+      "description": "Mặt đất thực tại vị trí đỉnh dốc (m)",
+      "unit": "m",
+      "default": 0.0,
+      "type": "float"
+    },
+    "z2": {
+      "description": "Mặt đất thực tại vị trí chân dốc (m)",
+      "unit": "m",
+      "default": 0.0,
+      "type": "float"
+    }
+  },
+  "branching_rules": [
+    {
+      "case_id": "CASE_GENTLE_SLOPE",
+      "condition": "slope_i <= 0.3",
+      "description": "Mặt đất có độ dốc nhỏ (i <= 0.3)",
+      "datum_rule": "z0 = 0 (tính trực tiếp từ mặt đất thực)"
+    },
+    {
+      "case_id": "CASE_MODERATE_SLOPE",
+      "condition": "0.3 < slope_i < 2.0",
+      "description": "Mặt đất có độ dốc vừa (0.3 < i < 2.0, Hình C.1a)",
+      "datum_rule": "Trên đoạn BC: z0 = H * (2 - i) / 1.7; Bên trái A: z0 = z1; Bên phải D: z0 = z2"
+    },
+    {
+      "case_id": "CASE_STEEP_CLIFF",
+      "condition": "slope_i >= 2.0",
+      "description": "Mặt đất có độ dốc lớn / vách đứng (i >= 2.0, Hình C.1b)",
+      "datum_rule": "Bên trái C: z0 = z1; Bên phải D: z0 = z2; Trên đoạn CD: nội suy tuyến tính"
+    }
+  ]
+}
