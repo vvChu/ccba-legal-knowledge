@@ -123,33 +123,34 @@ _CHÚ THÍCH:_ $f_1$ - Độ võng của kết cấu vì kèo chịu lực nhi�
 > \- $L$ là nhịp tính toán của cấu kiện.  
 > \- $a$ là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào.  
 >  
-> *Chú thích:*  
-> 1) Đối với công xôn $L$ được lấy bằng hai lần chiều dài vươn công xôn.  
-> 2) Đối với các giá trị trung gian của $L$ trong mục 2a, độ võng giới hạn xác định bằng nội suy tuyến tính có kể đến các yêu cầu trong G.1.7.  
-> 3) Trong mục 2a lấy số trong ngoặc đơn khi chiều cao phòng đến nhỏ hơn hoặc bằng 6 m.  
-> 4) Cách tính độ võng theo mục 2b được nêu trong G.1.8.  
-> 5) Khi khống chế độ võng giới hạn theo yêu cầu thẩm mỹ - tâm lý thì cho phép chiều dài nhịp $L$ lấy bằng khoảng cách giữa mặt trong của các tường chịu lực (hoặc các cột).  
-> 6) Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) và cần trục treo lấy theo Bảng B.1, Phụ lục B.
+> **CHÚ THÍCH 1:** Đối với công xôn $L$ được lấy bằng hai lần chiều dài vươn công xôn.  
+> **CHÚ THÍCH 2:** Đối với các giá trị trung gian của $L$ trong mục 2a, độ võng giới hạn xác định bằng nội suy tuyến tính có kể đến các yêu cầu trong G.1.7.  
+> **CHÚ THÍCH 3:** Trong mục 2a lấy số trong ngoặc đơn khi chiều cao phòng đến nhỏ hơn hoặc bằng 6 m.  
+> **CHÚ THÍCH 4:** Cách tính độ võng theo mục 2b được nêu trong G.1.8.  
+> **CHÚ THÍCH 5:** Khi khống chế độ võng giới hạn theo yêu cầu thẩm mỹ - tâm lý thì cho phép chiều dài nhịp $L$ lấy bằng khoảng cách giữa mặt trong của các tường chịu lực (hoặc các cột).  
+> **CHÚ THÍCH 6:** Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) và cần trục treo lấy theo Bảng B.1, Phụ lục B.
 
 <a id="muc-g-2-2"></a>
 
 **G.2.2**  Yêu cầu tâm sinh lý
 
-$$f_u = \frac{g}{4 \pi^2 n^2} \cdot \frac{p + p_1 + q}{b p + p_1 + q} \tag{G.1}$$
+Độ võng giới hạn theo yêu cầu tâm sinh lý của các cấu kiện của sàn tầng (dầm, xà, bản), cầu thang, ban công, lôgia, các phòng trong nhà ở và nhà công cộng, cũng như các phòng sinh hoạt của nhà sản xuất cần được xác định theo công thức:
+
+$$f_u = \frac{g(p + p_1 + q)}{30n^2 (bp + p_1 + q)} \tag{G.1}$$
 
 trong đó:
 
-\- $g$ là gia tốc trọng trường ($9{,}81\text{ m/s}^2$);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $g$ là gia tốc trọng trường;
 
-\- $p$ là giá trị tiêu chuẩn của tải trọng do trọng lượng con người gây ra dao động, lấy theo Bảng G.2 ($\text{kN/m}^2$);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $p$ là giá trị tiêu chuẩn của tải trọng do trọng lượng con người gây ra dao động, lấy theo Bảng G.2;
 
-\- $p_1$ là giá trị tiêu chuẩn giảm của tải trọng lên sàn, lấy theo Bảng G.2 ($\text{kN/m}^2$);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $p_1$ là giá trị tiêu chuẩn giảm của tải trọng lên sàn, lấy theo Bảng G.2;
 
-\- $q$ là giá trị tiêu chuẩn của tải trọng do trọng lượng của cấu kiện đang tính và các kết cấu tựa lên nó ($\text{kN/m}^2$);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $q$ là giá trị tiêu chuẩn của tải trọng do trọng lượng của cấu kiện đang tính và các kết cấu tựa lên nó;
 
-\- $n$ là tần số gia tải khi người đi lại, lấy theo Bảng G.2 ($\text{Hz}$);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $n$ là tần số gia tải khi người đi lại, lấy theo Bảng G.2;
 
-\- $b$ là hệ số xác định theo Bảng G.2: $b = \frac{Q}{\alpha \cdot a \cdot L \cdot p}$.
+&nbsp;&nbsp;&nbsp;&nbsp;\- $b$ là hệ số, lấy theo Bảng G.2.
 
 Độ võng $f$ cần được xác định do tổng các tải trọng $\psi_1 p + p_1 + q$, trong đó $\psi_1$ là hệ số xác định theo [công thức (3)](../tcvn_2737_2023.md#cong-thuc-3).
 
@@ -157,16 +158,18 @@ trong đó:
 
 **Bảng G.2 — Các hệ số $p$, $p_1$, $n$, $b$**
 
-| Các khu vực (theo Bảng 4) | $p$ ($\text{kN/m}^2$) | $p_1$ ($\text{kN/m}^2$) | $n$ ($\text{Hz}$) | $b$ |
+| Các khu vực<br>(theo Bảng 4) | $p$<br>($\text{kN/m}^2$) | $p_1$<br>($\text{kN/m}^2$) | $n$<br>($\text{Hz}$) | $b$ |
 | :--- | :---: | :---: | :---: | :---: |
-| 1. Các khu vực A, B (trừ phòng sinh hoạt ở khu B1); những chỗ nghỉ ngơi thuộc khu vực I2) | $0{,}25$ | Lấy bằng $q_{k,qper}$ theo [8.3.3](../tcvn_2737_2023.md#muc-8-3-3) | $1{,}5$ | $\frac{Q}{\alpha \cdot a \cdot L \cdot p}$ |
-| 2. Phòng học thuộc khu vực C1.1 và phòng sinh hoạt thuộc khu vực B1; Các khu vực C (trừ phòng khiêu vũ C4) và D; Chỗ tập trung đông người thuộc khu vực I1 | $0{,}50$ | Lấy bằng $q_{k,qper}$ theo [8.3.3](../tcvn_2737_2023.md#muc-8-3-3) | $1{,}5$ | $\frac{Q}{\alpha \cdot a \cdot L \cdot p}$ |
+| 1. Các khu vực A, B (trừ phòng sinh hoạt ở khu B1); những chỗ nghỉ ngơi thuộc khu vực I2) | $0{,}25$ | Lấy bằng $q_{k,qper}$ theo [8.3.3](../tcvn_2737_2023.md#muc-8-3-3) | $1{,}5$ | $125\sqrt{\frac{Q}{\alpha \cdot p \cdot a \cdot L}}$ |
+| 2. Phòng học thuộc khu vực C1.1 và phòng sinh hoạt thuộc khu vực B1;<br>Các khu vực C (trừ phòng khiêu vũ thuộc khu vực C4) và D;<br>Những chỗ tập trung đông người thuộc khu vực I1 | $0{,}50$ | Lấy bằng $q_{k,qper}$ theo [8.3.3](../tcvn_2737_2023.md#muc-8-3-3) | $1{,}5$ | $125\sqrt{\frac{Q}{\alpha \cdot p \cdot a \cdot L}}$ |
 
-> *Ký hiệu:*  
-> \- $Q$: Trọng lượng của một người, lấy bằng $0{,}8\text{ kN}$.  
-> \- $\alpha$: Hệ số, lấy bằng $1{,}0$ đối với cấu kiện tính theo sơ đồ dầm; $0{,}6$ đối với bản sàn kê 3 hoặc 4 cạnh.  
-> \- $a$: Bước dầm, xà; chiều rộng bản sàn (tấm) ($\text{m}$).  
-> \- $L$: Nhịp tính toán của cấu kiện kết cấu ($\text{m}$).
+> **Các ký hiệu trong bảng:**  
+> &nbsp;&nbsp;&nbsp;&nbsp;\- $Q$ là trọng lượng của một người, lấy bằng $0{,}8\text{ kN}$.  
+> &nbsp;&nbsp;&nbsp;&nbsp;\- $\alpha$ là hệ số, lấy bằng:  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ $1{,}0$ – đối với cấu kiện tính theo sơ đồ dầm;  
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+ $0{,}6$ – đối với các cấu kiện còn lại (ví dụ, khi bản sàn kê ba hoặc bốn cạnh).  
+> &nbsp;&nbsp;&nbsp;&nbsp;\- $a$ là bước dầm, xà; chiều rộng bản sàn (tấm), tính bằng mét (m).  
+> &nbsp;&nbsp;&nbsp;&nbsp;\- $L$ là nhịp tính toán của cấu kiện kết cấu, tính bằng mét (m).
 
 <a id="muc-g-2-3"></a>
 

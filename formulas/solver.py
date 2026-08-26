@@ -23,6 +23,7 @@ from formulas.sprinkler_spacing import (
 from formulas.deflection_limits_tcvn2737 import (
     calc_horizontal_drift_limit,
     calc_importance_factor_gamma_n,
+    calc_physiological_deflection_limit_fu,
     calc_vertical_deflection_limit,
     check_deflection_and_drift_limits,
 )
@@ -434,6 +435,29 @@ SymbolicFormulaSolver.register(
         },
     ),
     calc_importance_factor_gamma_n,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_PHYSIOLOGICAL_DEFLECTION_G1",
+        name="Độ võng giới hạn theo yêu cầu tâm sinh lý [fu] (Công thức G.1)",
+        category="DEFLECTION_AND_DRIFT",
+        standard_reference="Mục G.2.2 & Bảng G.2 Phụ lục G TCVN 2737:2023",
+        description="Tính toán độ võng giới hạn theo yêu cầu tâm sinh lý phụ thuộc vào tải trọng người dao động và thông số hình học sàn.",
+        parameters={
+            "occupancy_group": "Nhóm công năng ('A_B' hoặc 'C_D')",
+            "p": "Tải trọng con người dao động p (kN/m2, tùy chọn)",
+            "p1": "Tải trọng giảm lên sàn p1 (kN/m2, mặc định 0.5)",
+            "q": "Tải trọng bản thân kết cấu q (kN/m2, mặc định 3.0)",
+            "n": "Tần số gia tải n (Hz, mặc định 1.5)",
+            "a_m": "Bước dầm hoặc chiều rộng bản sàn a (m, mặc định 3.0)",
+            "span_L_m": "Nhịp tính toán L (m, mặc định 6.0)",
+            "beam_scheme": "'beam' (dầm, alpha=1.0) hoặc 'slab_3_4_edges' (bản sàn, alpha=0.6)",
+            "Q_person_kN": "Trọng lượng một người Q (kN, mặc định 0.8)",
+            "g_m_s2": "Gia tốc trọng trường g (m/s2, mặc định 9.81)",
+        },
+    ),
+    calc_physiological_deflection_limit_fu,
 )
 
 SymbolicFormulaSolver.register(

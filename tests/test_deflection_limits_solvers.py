@@ -1,4 +1,4 @@
-﻿"""
+"""
 Unit tests for Deflection and Drift Deterministic Solvers (TCVN 2737:2023 - Phụ lục G & H).
 Kiểm chứng tính đúng đắn 100% số học và điều kiện an toàn f <= [fu] (ADR 0020 & ADR 0034).
 """
@@ -11,9 +11,50 @@ from formulas import (
     SymbolicFormulaSolver,
     calc_horizontal_drift_limit,
     calc_importance_factor_gamma_n,
+    calc_physiological_deflection_limit_fu,
     calc_vertical_deflection_limit,
     check_deflection_and_drift_limits,
 )
+
+
+class TestPhysiologicalDeflectionLimits:
+    """Kiểm tra độ võng giới hạn theo yêu cầu tâm sinh lý (Công thức G.1 và Bảng G.2)."""
+
+    def test_group_a_b_beam(self) -> None:
+        """Khu vực A, B (p=0.25), dầm (alpha=1.0), a=3m, L=6m."""
+        res = calc_physiological_deflection_limit_fu(
+            occupancy_group="A_B",
+            p1=0.5,
+            q=3.0,
+            a_m=3.0,
+            span_L_m=6.0,
+            beam_scheme="beam",
+        )
+        assert res.formula_id == "F_PHYSIOLOGICAL_DEFLECTION_G1"
+        assert res.outputs["b_factor"] > 0
+        assert res.primary_value > 0
+
+    def test_group_c_d_slab(self) -> None:
+        """Khu vực C, D (p=0.50), bản sàn (alpha=0.6), a=4m, L=6m."""
+        res = calc_physiological_deflection_limit_fu(
+            occupancy_group="C_D",
+            p1=0.7,
+            q=3.5,
+            a_m=4.0,
+            span_L_m=6.0,
+            beam_scheme="slab_3_4_edges",
+        )
+        assert res.inputs["alpha"] == 0.6
+        assert res.inputs["p_kN_m2"] == 0.50
+        assert res.primary_value > 0
+
+    def test_solver_facade_g1(self) -> None:
+        """Kiểm tra gọi F_PHYSIOLOGICAL_DEFLECTION_G1 qua SymbolicFormulaSolver."""
+        res = SymbolicFormulaSolver.solve(
+            "F_PHYSIOLOGICAL_DEFLECTION_G1",
+            {"occupancy_group": "A_B", "a_m": 3.0, "span_L_m": 6.0},
+        )
+        assert res.primary_value > 0
 
 
 class TestVerticalDeflectionLimits:

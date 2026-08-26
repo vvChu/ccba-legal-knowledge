@@ -1,4 +1,4 @@
-﻿"""
+"""
 CCBA Legal Knowledge — Deflection & Drift Limits Deterministic Solvers (TCVN 2737:2023 Phụ lục G & H).
 Bộ giải xác định kiểm tra độ võng đứng giới hạn [fu], chuyển vị ngang [fu] và hệ số tầm quan trọng gamma_n (ADR 0020 & ADR 0034).
 """
@@ -197,6 +197,126 @@ def calc_vertical_deflection_limit(
         notes=notes,
         is_compliant=True,
         compliance_message=f"Đã xác định độ võng đứng giới hạn [fu] = {fu_mm:g} mm cho {desc}.",
+    )
+
+
+def calc_physiological_deflection_limit_fu(
+    occupancy_group: str = "A_B",
+    p: float | None = None,
+    p1: float = 0.5,
+    q: float = 3.0,
+    n: float = 1.5,
+    a_m: float = 3.0,
+    span_L_m: float = 6.0,
+    beam_scheme: str = "beam",
+    Q_person_kN: float = 0.8,
+    g_m_s2: float = 9.81,
+) -> CalculationResult:
+    """Tính toán độ võng giới hạn theo yêu cầu tâm sinh lý [fu] theo Mục G.2.2 và Bảng G.2 TCVN 2737:2023.
+
+    Công thức (G.1):
+        fu = [g * (p + p1 + q)] / [30 * n^2 * (b * p + p1 + q)]
+    với:
+        b = 125 * sqrt(Q / (alpha * p * a * L))
+
+    Args:
+        occupancy_group: 'A_B' (khu vực A, B; p=0.25) hoặc 'C_D' (phòng học C1.1, sinh hoạt B1, khu C, D; p=0.50).
+        p: Giá trị tiêu chuẩn của tải trọng do trọng lượng con người gây ra dao động (kN/m2).
+        p1: Giá trị tiêu chuẩn giảm của tải trọng lên sàn (kN/m2, lấy bằng qk,qper).
+        q: Giá trị tiêu chuẩn của tải trọng do trọng lượng cấu kiện và kết cấu tựa lên nó (kN/m2).
+        n: Tần số gia tải khi người đi lại (Hz, mặc định 1.5 Hz).
+        a_m: Bước dầm, xà; chiều rộng bản sàn (m).
+        span_L_m: Nhịp tính toán cấu kiện (m).
+        beam_scheme: 'beam' (sơ đồ dầm, alpha=1.0) hoặc 'slab_3_4_edges' (bản kê 3 hoặc 4 cạnh, alpha=0.6).
+        Q_person_kN: Trọng lượng một người (kN, mặc định 0.8 kN).
+        g_m_s2: Gia tốc trọng trường (m/s2, mặc định 9.81 m/s2).
+    """
+    import math
+
+    if a_m <= 0 or span_L_m <= 0:
+        raise ValueError("Kích thước a_m và span_L_m phải > 0")
+
+    if p is None:
+        occ_norm = occupancy_group.strip().upper()
+        if "C" in occ_norm or "D" in occ_norm or "2" in occ_norm:
+            p_val = 0.50
+            occ_desc = "Nhóm 2 (C1.1, B1, khu vực C, D; I1) - p = 0.50 kN/m2"
+        else:
+            p_val = 0.25
+            occ_desc = "Nhóm 1 (Khu vực A, B; I2) - p = 0.25 kN/m2"
+    else:
+        p_val = float(p)
+        occ_desc = f"Người dùng nhập trực tiếp p = {p_val:g} kN/m2"
+
+    scheme_norm = beam_scheme.strip().lower()
+    if "slab" in scheme_norm or "canh" in scheme_norm or "0.6" in scheme_norm:
+        alpha = 0.6
+        scheme_desc = "Bản sàn kê ba hoặc bốn cạnh (alpha = 0.6)"
+    else:
+        alpha = 1.0
+        scheme_desc = "Cấu kiện tính theo sơ đồ dầm (alpha = 1.0)"
+
+    denom_b = alpha * p_val * a_m * span_L_m
+    if denom_b <= 0:
+        raise ValueError("Tích alpha * p * a * L phải > 0")
+    b_val = round(125.0 * math.sqrt(Q_person_kN / denom_b), 3)
+
+    num = g_m_s2 * (p_val + p1 + q)
+    denom = 30.0 * (n ** 2) * (b_val * p_val + p1 + q)
+    fu_m = num / denom
+    fu_mm = round(fu_m * 1000.0, 2)
+
+    steps: list[CalculationStep] = [
+        CalculationStep(
+            step_number=1,
+            description="Xác định hệ số b theo Bảng G.2",
+            formula_latex=r"b = 125 \sqrt{\frac{Q}{\alpha \cdot p \cdot a \cdot L}}",
+            substitution=f"b = 125 * sqrt({Q_person_kN:g} / ({alpha:g} * {p_val:g} * {a_m:g} * {span_L_m:g}))",
+            result_text=f"b = {b_val:g}",
+        ),
+        CalculationStep(
+            step_number=2,
+            description="Tính độ võng giới hạn theo yêu cầu tâm sinh lý [fu] (Công thức G.1)",
+            formula_latex=r"[f_u] = \frac{g(p + p_1 + q)}{30 n^2 (b p + p_1 + q)}",
+            substitution=f"[fu] = ({g_m_s2:g} * ({p_val:g} + {p1:g} + {q:g})) / (30 * {n:g}^2 * ({b_val:g} * {p_val:g} + {p1:g} + {q:g}))",
+            result_text=f"[fu] = {fu_m:.5f} m = {fu_mm:g} mm",
+        ),
+    ]
+
+    notes = [
+        f"Khu vực sử dụng: {occ_desc}.",
+        f"Sơ đồ cấu kiện: {scheme_desc}.",
+        f"Thông số: a={a_m:g}m, L={span_L_m:g}m, Q={Q_person_kN:g}kN, p={p_val:g}kN/m2, p1={p1:g}kN/m2, q={q:g}kN/m2, n={n:g}Hz.",
+    ]
+
+    return CalculationResult(
+        formula_id="F_PHYSIOLOGICAL_DEFLECTION_G1",
+        formula_name="Độ võng giới hạn theo yêu cầu tâm sinh lý (Công thức G.1)",
+        standard_reference="Mục G.2.2 và Bảng G.2 TCVN 2737:2023",
+        inputs={
+            "occupancy_group": occupancy_group,
+            "p_kN_m2": p_val,
+            "p1_kN_m2": p1,
+            "q_kN_m2": q,
+            "n_Hz": n,
+            "a_m": a_m,
+            "span_L_m": span_L_m,
+            "beam_scheme": beam_scheme,
+            "alpha": alpha,
+            "Q_person_kN": Q_person_kN,
+            "g_m_s2": g_m_s2,
+        },
+        outputs={
+            "b_factor": b_val,
+            "fu_m": fu_m,
+            "fu_mm": fu_mm,
+        },
+        unit="mm",
+        primary_value=fu_mm,
+        steps=steps,
+        notes=notes,
+        is_compliant=True,
+        compliance_message=f"Độ võng giới hạn tâm sinh lý [fu] = {fu_mm:g} mm (b = {b_val:g}).",
     )
 
 
