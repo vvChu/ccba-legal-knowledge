@@ -23,8 +23,9 @@ effective_date: '2021-07-05'
 status: active
 pdf_anchor:
   path: ./qcvn_01_2021_bxd.pdf
-  sha256: b74016776ef230147524cf7f1b30f57ca51425818502238ed8203d7623c10abf
+  sha256: d99bc333dade2c16b607e135bd6c94728aef926ac556b1e459c020d1bf47026e
   cong_bao_number: Đang cập nhật
+
 relations:
   replaces:
   - id: QCVN-01-2019-BXD
