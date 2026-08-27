@@ -153,3 +153,22 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
 - **Hàn Gắn Chu Trình Đóng Góp Ngược (Upstream Contribution Loop):**
   - **Liên kết hai chiều `--issue [ID]`:** Đồng bộ từ `/ccba-issue-to-hub` $\to$ `/ccba-graduate-rd` $\to$ `/ccba-contribute-to-hub` $\to$ PR tự động đóng Issue (`Closes #[ID]`).
   - **Cổng Phân Loại Quy Mô Thông Minh (Smart Scope-Aware Issue Gate):** Tự động gợi ý/tạo GitHub Issue cho các thay đổi kiến trúc/module mới ($\ge 100$ dòng) để ghi nhận Changelog & Ký ức dài hạn, đồng thời bỏ qua Issue cho các thay đổi nhỏ ($< 100$ dòng) để tránh rác Issue Tracker.
+
+---
+
+## 12. R&D Graduation: OKF v2.4 Universal Specification, Single-Door tab=7 & Tri-Tier Cloud Vault (2026-08-27)
+
+- **Thành quả Tốt nghiệp R&D & Chuẩn Hóa Sản Phẩm:**
+  1. **OKF v2.4 Universal Agent-Centric Specification (ADR 0036):**
+
+     - $100\%$ mọi Bundle bắt buộc phải có thư mục `sources/` chứa PDF Công báo gốc và file Word gốc. Thư mục gốc chỉ chứa giao diện Markdown tinh gọn.
+     - Phân tách rạch ròi 4 ngăn kéo chuyên biệt: `tables/` (Bảng 2D), `figures/` (Visual Cards), `annexes/` (Phụ lục kỹ thuật quy chuẩn), `templates/` (Biểu mẫu hành chính nguyên tử). Tuyệt đối cấm để thư mục `templates/` rỗng.
+     - Đồng vị ma trận so sánh VBHN (`bang_so_sanh_thay_doi.md`) ngay tại gốc của Bundle để phục vụ QC Agent tra cứu với chi phí $0\text{ token}$.
+  2. **Single-Door tab=7 Harvesting Protocol:**
+     - Thay thế luồng nhảy 2 tab rườm rà bằng giao thức truy cập trực tiếp `tab=7` (Tải về) để tải trọn gói DOCX + PDF trong 1 lượt mở trang duy nhất.
+     - Bổ sung cơ chế **Silent Auto-Verification Grace Period** (chờ ngầm 5–7 giây để Cloudflare tự động xác minh trình duyệt thật) kết hợp `Page.bringToFront` chỉ khi cần người dùng can thiệp thủ công.
+  3. **Tri-Tier Cloud Binary Vault & Native Google Docs (ADR 0035):**
+     - Tự động hóa upload và chuyển đổi file DOCX sang Native Google Docs trên Google Drive Vault `CCBA_Legal_Vault` phục vụ nạp 1-click vào Google NotebookLM.
+     - File `.pdf` và `.docx` được bảo vệ hoàn toàn bởi `.gitignore`, giúp Git Spoke siêu nhẹ (<50MB).
+  4. **Bộ Giải Quy Hoạch QCVN 01:2021/BXD:**
+     - Hoàn thành 6 bộ giải xác định: Mật độ xây dựng thuần, Khoảng lùi, Khoảng cách an toàn môi trường, Bãi đỗ xe Bảng 2.19, Vát góc nút giao Mục 2.6.2, và Chỉ tiêu đất cây xanh đô thị Bảng 2.1 & 2.2.
