@@ -1,19 +1,20 @@
 id: qcvn_02_2022_bxd
-document_number: "QCVN 02:2022/BXD"
-title: "QCVN 02:2022/BXD - Quy chuẩn kỹ thuật quốc gia về số liệu điều kiện tự nhiên dùng trong xây dựng"
+document_number: QCVN 02:2022/BXD
+title: QCVN 02:2022/BXD - Quy chuẩn kỹ thuật quốc gia về số liệu điều kiện tự nhiên
+  dùng trong xây dựng
 type: Quy chuẩn kỹ thuật quốc gia
 issued_by: Bộ Xây dựng
 signer: Bộ trưởng Bộ Xây dựng
 issued_date: '2022-09-26'
 effective_date: '2023-03-26'
 status: active
-pdf_path: qcvn_02_2022_bxd.pdf
+pdf_path: legal_docs/02_qcvn/qcvn_02_2022_bxd/sources/qcvn_02_2022_bxd.pdf
 pdf_sha256: 0375f3b798e01dfde379710648c8024edc71b5718ec5ee4f0e405764620c7a7d
 pdf_status: verified
 legal_basis:
-  - "68/2006/QH11"
-  - "127/2007/NĐ-CP"
-  - "78/2018/NĐ-CP"
-  - "52/2022/NĐ-CP"
+- 68/2006/QH11
+- 127/2007/NĐ-CP
+- 78/2018/NĐ-CP
+- 52/2022/NĐ-CP
 replaces:
-  - "QCVN 02:2009/BXD"
+- QCVN 02:2009/BXD

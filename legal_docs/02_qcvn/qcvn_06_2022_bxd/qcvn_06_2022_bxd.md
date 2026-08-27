@@ -20,7 +20,7 @@ issued_date: '2022-11-30'
 effective_date: '2023-01-16'
 status: current
 pdf_anchor:
-  path: ./qcvn_06_2022_bxd.pdf
+  path: ./sources/qcvn_06_2022_bxd.pdf
   sha256: e7b0f82433420e163e6d9d1e842f316a29ee50e473f075459bd52bc637aff7d5
   cong_bao_number: 235+236/2023 (SĐ1) / 1141+1142/2022
 relations:

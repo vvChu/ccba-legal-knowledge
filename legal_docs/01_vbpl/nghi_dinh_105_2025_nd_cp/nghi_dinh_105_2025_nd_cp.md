@@ -22,7 +22,7 @@ issued_date: '2025-05-15'
 effective_date: '2025-07-01'
 status: active
 pdf_anchor:
-  path: ./nghi_dinh_105_2025_nd_cp.pdf
+  path: ./sources/nghi_dinh_105_2025_nd_cp.pdf
   sha256: f4f8993ffe37a93d26f335571793d3369a69737b0ed26504aba486ae38343f6a
   cong_bao_number: Đang cập nhật
 relations:

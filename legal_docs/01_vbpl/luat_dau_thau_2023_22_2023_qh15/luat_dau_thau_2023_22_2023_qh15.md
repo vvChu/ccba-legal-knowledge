@@ -19,7 +19,7 @@ issued_date: '2023-06-23'
 effective_date: '2024-01-01'
 status: active
 pdf_anchor:
-  path: ./luat_22_2023_qh15.pdf
+  path: ./sources/luat_22_2023_qh15.pdf
   sha256: 9c6fbdb47b2bc1f51b729443d9bf328d4428a51b3ef34a3d98f65e0499221621
   cong_bao_number: 789+790/2023
 relations:

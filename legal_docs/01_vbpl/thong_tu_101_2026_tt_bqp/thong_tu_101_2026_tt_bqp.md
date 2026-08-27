@@ -21,7 +21,7 @@ issued_date: '2026-06-30'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./thong_tu_101_2026_tt_bqp.pdf
+  path: ./sources/thong_tu_101_2026_tt_bqp.pdf
   sha256: 8512ccb3393c2d1f833a7de251ac46a9847a0d0da154a33004210651def327d7
   cong_bao_number: Đang cập nhật
 relations:

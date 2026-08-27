@@ -21,7 +21,7 @@ issued_date: '2024-02-27'
 effective_date: '2024-02-27'
 status: active
 pdf_anchor:
-  path: ./nghi_dinh_24_2024_nd_cp.pdf
+  path: ./sources/nghi_dinh_24_2024_nd_cp.pdf
   sha256: 810b9139d0074b49ab5b873667793d4c52433fc365fbfec787db408c17a1b104
   cong_bao_number: Đang cập nhật
 relations:

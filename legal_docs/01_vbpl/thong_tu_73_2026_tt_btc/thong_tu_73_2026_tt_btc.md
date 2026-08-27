@@ -21,7 +21,7 @@ issued_date: '2026-06-25'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./thong_tu_73_2026_tt_btc.pdf
+  path: ./sources/thong_tu_73_2026_tt_btc.pdf
   sha256: 98585a04eb1174e040409944cdafdb1ce2114d072055b866d24cb5f39ae3a5dd
   cong_bao_number: Đang cập nhật
 relations:

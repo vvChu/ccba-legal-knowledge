@@ -21,7 +21,7 @@ issued_date: '2021-05-19'
 effective_date: '2021-07-05'
 status: current
 pdf_anchor:
-  path: ./qcvn_04_2021_bxd.pdf
+  path: ./sources/qcvn_04_2021_bxd.pdf
   sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
   cong_bao_number: 373/2026 (SĐ1) / 235/2021
 relations:

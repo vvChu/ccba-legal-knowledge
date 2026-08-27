@@ -20,7 +20,7 @@ issued_date: '2026-06-30'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./thong_tu_33_2026_tt_bxd.pdf
+  path: ./sources/thong_tu_33_2026_tt_bxd.pdf
   sha256: 73b9b92da82b5a2ca53f7c0b53936fdd35eec0fd40b24a44d00179fe1ff62399
   cong_bao_number: Đang cập nhật
 relations:

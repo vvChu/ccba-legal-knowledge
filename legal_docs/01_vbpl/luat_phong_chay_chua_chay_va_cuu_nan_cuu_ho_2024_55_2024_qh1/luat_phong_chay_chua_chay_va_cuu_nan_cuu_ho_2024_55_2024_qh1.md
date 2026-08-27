@@ -20,7 +20,7 @@ issued_date: '2024-11-29'
 effective_date: '2025-07-01'
 status: active
 pdf_anchor:
-  path: ./luat_55_2024_qh15.pdf
+  path: ./sources/luat_55_2024_qh15.pdf
   sha256: 706a8bfbb2328ca11e2e54bd44849b22854256a2d68240cdf8fa320909c6f90b
   cong_bao_number: 1187+1188/2024
 artifacts:

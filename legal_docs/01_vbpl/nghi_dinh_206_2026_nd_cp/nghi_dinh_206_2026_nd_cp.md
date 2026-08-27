@@ -22,7 +22,7 @@ issued_date: '2026-06-25'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./nghi_dinh_206_2026_nd_cp.pdf
+  path: ./sources/nghi_dinh_206_2026_nd_cp.pdf
   sha256: 160aebe33b6981e7111ce327cacc675447d736fb10a519bdfef2a8db02131373
   cong_bao_number: Đang cập nhật
 relations:

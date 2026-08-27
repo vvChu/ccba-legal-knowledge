@@ -2,7 +2,8 @@
 okf_version: '2.3'
 type: technical_standard_qcvn
 title: QCVN 01:2021/BXD — Quy chuẩn kỹ thuật quốc gia về Quy hoạch xây dựng
-description: Quy chuẩn kỹ thuật quốc gia quy định các mức giới hạn của đặc tính kỹ thuật và yêu cầu quản lý bắt buộc phải tuân thủ trong hoạt động quy hoạch xây dựng.
+description: Quy chuẩn kỹ thuật quốc gia quy định các mức giới hạn của đặc tính kỹ
+  thuật và yêu cầu quản lý bắt buộc phải tuân thủ trong hoạt động quy hoạch xây dựng.
 tags:
 - quy_hoach
 - kien_truc
@@ -22,10 +23,9 @@ issued_date: '2021-05-19'
 effective_date: '2021-07-05'
 status: active
 pdf_anchor:
-  path: ./qcvn_01_2021_bxd.pdf
+  path: ./sources/qcvn_01_2021_bxd.pdf
   sha256: d99bc333dade2c16b607e135bd6c94728aef926ac556b1e459c020d1bf47026e
   cong_bao_number: Đang cập nhật
-
 relations:
   replaces:
   - id: QCVN-01-2019-BXD
