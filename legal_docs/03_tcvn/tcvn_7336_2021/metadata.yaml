@@ -8,7 +8,14 @@ issued_date: '2021-12-31'
 effective_date: '2021-12-31'
 status: active
 pdf_path: legal_docs/03_tcvn/tcvn_7336_2021/sources/tcvn_7336_2021.pdf
-pdf_sha256: verified
+pdf_sha256: 77bb1cad1efdaefae6f32baddf238351aa1ef6309735532625cbf5fd608e596f
 pdf_status: verified
 legal_basis: []
 replaces: []
+bundle_path: legal_docs/03_tcvn/tcvn_7336_2021/
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: 77bb1cad1efdaefae6f32baddf238351aa1ef6309735532625cbf5fd608e596f
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7336_2021/tcvn_7336_2021.pdf
+    status: verified

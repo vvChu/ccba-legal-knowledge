@@ -18,3 +18,14 @@ legal_basis:
 - doc_id: Luat-Xay-dung-2025-135-2025-QH15
   title: Luật Xây dựng số 135/2025/QH15
 replaces: []
+bundle_path: legal_docs/01_vbpl/nghi_dinh_217_2026_nd_cp/
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: 2a9eb4d4d5ee8b5726f1c906ac0702d00a04a3452efc65f92d87cc3c8071ab0f
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_217_2026_nd_cp/nghi_dinh_217_2026_nd_cp.pdf
+    status: verified
+  docx:
+    sha256: 0e72ea3e16f596bd9f8023293f5946a452e841be1d07a7fac600f40a5e8b650a
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_217_2026_nd_cp/nghi_dinh_217_2026_nd_cp.docx
+    status: synced

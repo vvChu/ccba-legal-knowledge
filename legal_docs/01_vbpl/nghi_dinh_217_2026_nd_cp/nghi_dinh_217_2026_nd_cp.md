@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Nghị định 217/2026/NĐ-CP về Quản lý dự án đầu tư xây dựng
 description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng
@@ -32,6 +32,7 @@ artifacts:
   templates_dir: ./templates/
   tables_dir: ./tables/
   benchmark_file: ./qa_benchmark.json
+  annexes_dir: ./annexes/
 ---
 
 # 217/2026/NĐ-CP

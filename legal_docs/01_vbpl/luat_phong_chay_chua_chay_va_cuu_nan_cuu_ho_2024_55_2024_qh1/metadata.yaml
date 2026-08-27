@@ -12,3 +12,10 @@ pdf_sha256: 706a8bfbb2328ca11e2e54bd44849b22854256a2d68240cdf8fa320909c6f90b
 pdf_status: verified
 legal_basis: []
 replaces: []
+bundle_path: legal_docs/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: 706a8bfbb2328ca11e2e54bd44849b22854256a2d68240cdf8fa320909c6f90b
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/luat_55_2024_qh15.pdf
+    status: verified

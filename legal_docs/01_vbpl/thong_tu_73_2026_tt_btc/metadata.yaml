@@ -32,3 +32,10 @@ legal_basis:
     chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính được sửa đổi,
     bổ sung bởi Nghị định số 166/2025/NĐ-CP ngày 30 tháng 6 năm 2025 của Chính phủ
 replaces: []
+bundle_path: legal_docs/01_vbpl/thong_tu_73_2026_tt_btc/
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: 98585a04eb1174e040409944cdafdb1ce2114d072055b866d24cb5f39ae3a5dd
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_73_2026_tt_btc/thong_tu_73_2026_tt_btc.pdf
+    status: verified

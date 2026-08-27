@@ -26,8 +26,6 @@ source_assets:
   pdf:
     sha256: d99bc333dade2c16b607e135bd6c94728aef926ac556b1e459c020d1bf47026e
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_01_2021_bxd/qcvn_01_2021_bxd.pdf
-    gdrive_file_id: 1T1rMv7UX8cLjVHle6FGO09zgdNls4gew
-    gdrive_view_url: https://drive.google.com/file/d/1T1rMv7UX8cLjVHle6FGO09zgdNls4gew/view?usp=drivesdk
     status: verified
 relations:
   replaces: QCVN-01-2019-BXD

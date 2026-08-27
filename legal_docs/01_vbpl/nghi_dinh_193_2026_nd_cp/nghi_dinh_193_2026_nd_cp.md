@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Nghị định 193/2026/NĐ-CP về Quyết toán vốn đầu tư dự án
 description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng

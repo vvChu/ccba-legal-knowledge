@@ -17,3 +17,12 @@ amendments:
   issuing_authority: Bộ Xây dựng
 table_structure: clause_based_standards
 pdf_path: legal_docs/02_qcvn/qcvn_04_2021_bxd/sources/qcvn_04_2021_bxd.pdf
+bundle_path: legal_docs/02_qcvn/qcvn_04_2021_bxd/
+pdf_sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
+pdf_status: verified
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd.pdf
+    status: verified

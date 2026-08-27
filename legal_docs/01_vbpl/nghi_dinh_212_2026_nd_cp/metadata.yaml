@@ -39,3 +39,10 @@ legal_basis:
 - doc_id: luật_bảo_vệ_dữ_liệu_cá_nhân_số_91_2025_qh15
   title: Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15
 replaces: []
+bundle_path: legal_docs/01_vbpl/nghi_dinh_212_2026_nd_cp/
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: 3a52a394b8b1909f1337127df69db87ac840243154620aaa95b41e96808a09f9
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_212_2026_nd_cp/nghi_dinh_212_2026_nd_cp.pdf
+    status: verified

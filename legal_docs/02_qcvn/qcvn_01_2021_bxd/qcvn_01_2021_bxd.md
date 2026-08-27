@@ -1,5 +1,5 @@
 ---
-okf_version: '2.3'
+okf_version: '2.4'
 type: technical_standard_qcvn
 title: QCVN 01:2021/BXD — Quy chuẩn kỹ thuật quốc gia về Quy hoạch xây dựng
 description: Quy chuẩn kỹ thuật quốc gia quy định các mức giới hạn của đặc tính kỹ

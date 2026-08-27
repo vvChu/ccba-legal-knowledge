@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Luật Đấu thầu số 22/2023/QH15
 description: Tài liệu Luật quy định chính quy trong hệ thống tri thức xây dựng CCBA.

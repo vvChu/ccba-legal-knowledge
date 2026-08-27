@@ -21,3 +21,10 @@ legal_basis:
   title: Nghị định số 33/2025/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền
     hạn và cơ cấu tổ chức của Bộ Xây dựng
 replaces: []
+bundle_path: legal_docs/01_vbpl/thong_tu_37_2026_tt_bxd/
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: beb581cec6b66d74a774c69b8d4d744710f641a9d59a25a82cfce1487e04bd3f
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_37_2026_tt_bxd/thong_tu_37_2026_tt_bxd.pdf
+    status: verified

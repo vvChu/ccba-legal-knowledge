@@ -11,3 +11,12 @@ doc_type: vbpl
 relations:
   guided_by: Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347
 pdf_path: legal_docs/01_vbpl/nghi_dinh_105_2025_nd_cp/sources/nghi_dinh_105_2025_nd_cp.pdf
+bundle_path: legal_docs/01_vbpl/nghi_dinh_105_2025_nd_cp/
+pdf_sha256: f4f8993ffe37a93d26f335571793d3369a69737b0ed26504aba486ae38343f6a
+pdf_status: verified
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: f4f8993ffe37a93d26f335571793d3369a69737b0ed26504aba486ae38343f6a
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_105_2025_nd_cp/nghi_dinh_105_2025_nd_cp.pdf
+    status: verified

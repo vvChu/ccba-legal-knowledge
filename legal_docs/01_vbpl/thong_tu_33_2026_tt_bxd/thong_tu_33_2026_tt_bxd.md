@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Thông tư 33/2026/TT-BXD về đánh giá an toàn công trình trong quá trình khai
   thác, sử dụng

@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Nghị định 24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành
   Luật Đấu thầu về lựa chọn nhà thầu

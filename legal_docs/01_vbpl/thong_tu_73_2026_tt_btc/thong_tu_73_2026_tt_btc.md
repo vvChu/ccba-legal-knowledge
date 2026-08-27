@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Thông tư 73/2026/TT-BTC quy định hệ thống mẫu biểu trong công tác quyết toán
   vốn đầu tư

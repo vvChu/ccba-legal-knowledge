@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: technical_standard_qcvn
 title: QCVN 02:2022/BXD — Quy chuẩn kỹ thuật quốc gia về Số liệu điều kiện tự nhiên
   dùng trong xây dựng

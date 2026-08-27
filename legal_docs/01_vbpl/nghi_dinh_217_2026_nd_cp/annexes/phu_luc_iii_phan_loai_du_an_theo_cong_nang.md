@@ -2,7 +2,7 @@
 title: "PHÂN LOẠI DỰ ÁN ĐẦU TƯ XÂY DỰNG THEO CÔNG NĂNG PHỤC VỤ VÀ TÍNH CHẤT CHUYÊN NGÀNH CỦA CÔNG TRÌNH"
 document: "217/2026/NĐ-CP"
 appendix: "Phụ lục III"
-type: "form_template"
+type: "normative_annex"
 usage: "Biểu mẫu / Phụ lục chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
 

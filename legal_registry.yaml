@@ -21,7 +21,7 @@ laws:
   status: active
   relations: {}
   title: Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ 2024 (Số 55/2024/QH15)
-  bundle_path: legal_docs/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1
+  bundle_path: legal_docs/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Nha-o/Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347.aspx
   sha256: 1f9d0298939a0f50b0a9b6e1e1830481c22c9596cc41fe40a88b8f9070875c0d
   pdf_path: legal_docs/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/sources/luat_55_2024_qh15.pdf
@@ -30,6 +30,11 @@ laws:
   pdf_status: verified
   source_file: .md\extracted_docs\luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1\luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1.docx
   source_file_size_kb: 32.8
+  source_assets:
+    pdf:
+      sha256: 706a8bfbb2328ca11e2e54bd44849b22854256a2d68240cdf8fa320909c6f90b
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/luat_55_2024_qh15.pdf
+      status: verified
 - id: Luat-Xay-dung-2025-135-2025-QH15
   document_number: 135/2025/QH15
   type: Luật
@@ -42,13 +47,18 @@ laws:
   relations:
     replaces: 50/2014/QH13
   title: Luật Xây dựng 2025 (Số 135/2025/QH15)
-  bundle_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15
+  bundle_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15/
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Xay-dung-2025-so-135-2025-QH15-675213.aspx
   sha256: 1055a12467698f6a411f4336dca42322288d321a62c0b685f9f79206b13d1980
   pdf_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15/sources/luat_135_2025_qh15.pdf
   pdf_sha256: bacd661b1e7cb5e58f21c9357f465d1248588aea7838ba6d286f8982562edf01
   cong_bao_number: 1205+1206/2025
   pdf_status: verified
+  source_assets:
+    pdf:
+      sha256: bacd661b1e7cb5e58f21c9357f465d1248588aea7838ba6d286f8982562edf01
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_xay_dung_2025_135_2025_qh15/luat_135_2025_qh15.pdf
+      status: verified
 - id: luat_dau_thau_2023_22_2023_qh15
   document_number: 22/2023/QH15
   type: Luật
@@ -70,6 +80,11 @@ laws:
   sha256: e35866bbeb7d67067d50a21398edfecc078ce34f049dc7a99a00f9dca3e52592
   source_file: .md\extracted_docs\luat_dau_thau_2023_22_2023_qh15\luat_dau_thau_2023_22_2023_qh15.docx
   source_file_size_kb: 61.3
+  source_assets:
+    pdf:
+      sha256: 9c6fbdb47b2bc1f51b729443d9bf328d4428a51b3ef34a3d98f65e0499221621
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_dau_thau_2023_22_2023_qh15/luat_22_2023_qh15.pdf
+      status: verified
 - id: nghi_dinh_217_2026_nd_cp
   document_number: 217/2026/NĐ-CP
   title: Nghị định 217/2026/NĐ-CP về Quản lý dự án đầu tư xây dựng
@@ -90,6 +105,15 @@ laws:
   pdf_status: verified
   source_file: .md\extracted_docs\nghi_dinh_217_2026_nd_cp\nghi_dinh_217_2026_nd_cp.docx
   source_file_size_kb: 103.9
+  source_assets:
+    pdf:
+      sha256: 2a9eb4d4d5ee8b5726f1c906ac0702d00a04a3452efc65f92d87cc3c8071ab0f
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_217_2026_nd_cp/nghi_dinh_217_2026_nd_cp.pdf
+      status: verified
+    docx:
+      sha256: 0e72ea3e16f596bd9f8023293f5946a452e841be1d07a7fac600f40a5e8b650a
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_217_2026_nd_cp/nghi_dinh_217_2026_nd_cp.docx
+      status: synced
 - id: nghi_dinh_207_2026_nd_cp
   document_number: 207/2026/NĐ-CP
   title: Nghị định 207/2026/NĐ-CP về Quản lý chất lượng, thi công & bảo trì công trình
@@ -110,6 +134,11 @@ laws:
   pdf_status: verified
   source_file: .md\extracted_docs\nghi_dinh_207_2026_nd_cp\nghi_dinh_207_2026_nd_cp.docx
   source_file_size_kb: 69.6
+  source_assets:
+    pdf:
+      sha256: aaedee18527d73ee0f3802dd447f42dd7044c82b06c532dd3c2317aacb78ced5
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_207_2026_nd_cp/nghi_dinh_207_2026_nd_cp.pdf
+      status: verified
 - id: nghi_dinh_212_2026_nd_cp
   document_number: 212/2026/NĐ-CP
   title: Nghị định 212/2026/NĐ-CP về Điều kiện năng lực hoạt động xây dựng & CSDL
@@ -130,6 +159,11 @@ laws:
   sha256: 32c73f0c9ebe4a1e96b2f362d35336c1a866ec1623fca0aca812867d25a9e6cd
   source_file: .md\extracted_docs\nghi_dinh_212_2026_nd_cp\212_2026_ND-CP_697287.docx
   source_file_size_kb: 281.5
+  source_assets:
+    pdf:
+      sha256: 3a52a394b8b1909f1337127df69db87ac840243154620aaa95b41e96808a09f9
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_212_2026_nd_cp/nghi_dinh_212_2026_nd_cp.pdf
+      status: verified
 - id: nghi_dinh_206_2026_nd_cp
   document_number: 206/2026/NĐ-CP
   title: Nghị định 206/2026/NĐ-CP về Quản lý chi phí đầu tư xây dựng
@@ -149,6 +183,11 @@ laws:
   sha256: 74a7d982ae490e7c565dc355230d8bc95410340c8f1e147f6c373f30f0429a51
   source_file: .md\extracted_docs\nghi_dinh_206_2026_nd_cp\206_2026_ND-CP_457659.docx
   source_file_size_kb: 28.3
+  source_assets:
+    pdf:
+      sha256: 160aebe33b6981e7111ce327cacc675447d736fb10a519bdfef2a8db02131373
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_206_2026_nd_cp/nghi_dinh_206_2026_nd_cp.pdf
+      status: verified
 - id: nghi_dinh_210_2026_nd_cp
   document_number: 210/2026/NĐ-CP
   title: Nghị định 210/2026/NĐ-CP về Hợp đồng xây dựng
@@ -168,6 +207,11 @@ laws:
   sha256: 2c139a748e8b5f602ca8bb840bfe2073b85d9a85bcd989daec310e9bc3006c58
   source_file: .md\extracted_docs\nghi_dinh_210_2026_nd_cp\210_2026_ND-CP_696691.docx
   source_file_size_kb: 168.3
+  source_assets:
+    pdf:
+      sha256: b60801b38a87cd6dfe0a3f680999aa1f7ca3d48306f86825c9e2765ff993d598
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_210_2026_nd_cp/nghi_dinh_210_2026_nd_cp.pdf
+      status: verified
 - id: nghi_dinh_209_2026_nd_cp
   document_number: 209/2026/NĐ-CP
   title: Nghị định 209/2026/NĐ-CP về Quản lý vật liệu xây dựng
@@ -187,6 +231,11 @@ laws:
   sha256: 74f4fed557698e6b50dbf8e1f4a5ccfe5bbed81ae6d1a229ad20dcbd8bb1fbf9
   source_file: .md\extracted_docs\nghi_dinh_209_2026_nd_cp\209_2026_ND-CP_288496.docx
   source_file_size_kb: 12.8
+  source_assets:
+    pdf:
+      sha256: df417e2903348560a7641b9f4308be938ae0a173c57a7630ce7687687cf71769
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_209_2026_nd_cp/nghi_dinh_209_2026_nd_cp.pdf
+      status: verified
 - id: nghi_dinh_193_2026_nd_cp
   document_number: 193/2026/NĐ-CP
   title: Nghị định 193/2026/NĐ-CP về Quyết toán vốn đầu tư dự án
@@ -206,6 +255,11 @@ laws:
   sha256: ba2ec573a1bf2c6dde69e537c3773b534cafc89bf65a2a892c22978f2a792a7f
   source_file: .md\extracted_docs\nghi_dinh_193_2026_nd_cp\193_2026_ND-CP_709388.docx
   source_file_size_kb: 61.6
+  source_assets:
+    pdf:
+      sha256: a0a064fc9401ed4cc860100b171adad3258219086b3563abd37b3a8806630a4e
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_193_2026_nd_cp/nghi_dinh_193_2026_nd_cp.pdf
+      status: verified
 - id: nghi_dinh_105_2025_nd_cp
   document_number: 105/2025/NĐ-CP
   title: Nghị định 105/2025/NĐ-CP về Quy định chi tiết một số điều và biện pháp thi
@@ -224,6 +278,11 @@ laws:
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: 4bfbb20fac8b961afe92a8f9e3329cf078636df503bcfc391aa45ea2df0257ec
+  source_assets:
+    pdf:
+      sha256: f4f8993ffe37a93d26f335571793d3369a69737b0ed26504aba486ae38343f6a
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_105_2025_nd_cp/nghi_dinh_105_2025_nd_cp.pdf
+      status: verified
 - id: nghi_dinh_24_2024_nd_cp
   document_number: 24/2024/NĐ-CP
   title: Nghị định 24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành
@@ -245,6 +304,11 @@ laws:
   sha256: 0b8baa26bb35bad472a05b0182febdc047cabac0e4b9e87c9b96a15a5facf4bc
   source_file: .md\extracted_docs\nghi_dinh_24_2024_nd_cp\nghi_dinh_24_2024_nd_cp.docx
   source_file_size_kb: 192.9
+  source_assets:
+    pdf:
+      sha256: 810b9139d0074b49ab5b873667793d4c52433fc365fbfec787db408c17a1b104
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_24_2024_nd_cp/nghi_dinh_24_2024_nd_cp.pdf
+      status: verified
 - id: thong_tu_101_2026_tt_bqp
   document_number: 101/2026/TT-BQP
   title: Thông tư 101/2026/TT-BQP quy định chi tiết trong lĩnh vực quốc phòng theo
@@ -265,6 +329,11 @@ laws:
   sha256: 9441a49babe0e68a1b367b909ec4880ffff635ff3f559dd8c44acd78dee4c696
   source_file: .md\extracted_docs\thong_tu_101_2026_tt_bqp\101_2026_TT-BQP_713990.docx
   source_file_size_kb: 16.1
+  source_assets:
+    pdf:
+      sha256: 8512ccb3393c2d1f833a7de251ac46a9847a0d0da154a33004210651def327d7
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_101_2026_tt_bqp/thong_tu_101_2026_tt_bqp.pdf
+      status: verified
 - id: thong_tu_32_2026_tt_bxd
   document_number: 32/2026/TT-BXD
   title: Thông tư 32/2026/TT-BXD quy định chi tiết một số điều của Nghị định 207/2026/NĐ-CP
@@ -285,6 +354,11 @@ laws:
   sha256: 7018dc703ad772c27e2ea6b45134a05ebd535ca0b213aeb59c82458b7c45eea3
   source_file: .md\extracted_docs\thong_tu_32_2026_tt_bxd\32_2026_TT-BXD_711676.docx
   source_file_size_kb: 10.9
+  source_assets:
+    pdf:
+      sha256: ea27c3c8030538e7c0c025b8fd29884f938c3b2cb95ab8182b5a58b420ab2790
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_32_2026_tt_bxd/thong_tu_32_2026_tt_bxd.pdf
+      status: verified
 - id: thong_tu_33_2026_tt_bxd
   document_number: 33/2026/TT-BXD
   title: Thông tư 33/2026/TT-BXD về đánh giá an toàn công trình trong quá trình khai
@@ -305,6 +379,11 @@ laws:
   sha256: 896e1a48420615bda54f42594d96d714aad93171731d1ad6162bd05316f5b56a
   source_file: .md\extracted_docs\thong_tu_33_2026_tt_bxd\33_2026_TT-BXD_712404.docx
   source_file_size_kb: 11.0
+  source_assets:
+    pdf:
+      sha256: 73b9b92da82b5a2ca53f7c0b53936fdd35eec0fd40b24a44d00179fe1ff62399
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_33_2026_tt_bxd/thong_tu_33_2026_tt_bxd.pdf
+      status: verified
 - id: thong_tu_34_2026_tt_bxd
   document_number: 34/2026/TT-BXD
   title: Thông tư 34/2026/TT-BXD quy định chi tiết về cấp công trình xây dựng phục
@@ -325,6 +404,11 @@ laws:
   sha256: 3014ad697dc2e5680dfa12a2f6814fe5c43aa2d8bec259d66bbe1e17c3319898
   source_file: .md\extracted_docs\thong_tu_34_2026_tt_bxd\34_2026_TT-BXD_712306.docx
   source_file_size_kb: 81.3
+  source_assets:
+    pdf:
+      sha256: b65419b559da67420d9b6b0681ddfa695c29ad8b3ae270ed70b2a545f6a17aae
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_34_2026_tt_bxd/thong_tu_34_2026_tt_bxd.pdf
+      status: verified
 - id: thong_tu_36_2026_tt_bxd
   document_number: 36/2026/TT-BXD
   title: Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây
@@ -345,6 +429,11 @@ laws:
   sha256: 74b13d4f32b362d76f37ed0840c375e4b60356256f9617c4c1eb6d109ed921cb
   source_file: .md\extracted_docs\thong_tu_36_2026_tt_bxd\36_2026_TT-BXD_712408.docx
   source_file_size_kb: 272.3
+  source_assets:
+    pdf:
+      sha256: 6ef24aa5112ab267fbad9c66f5b17fbc7c8b7c9015ae370f71864d327febd20c
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_36_2026_tt_bxd/thong_tu_36_2026_tt_bxd.pdf
+      status: verified
 - id: thong_tu_37_2026_tt_bxd
   document_number: 37/2026/TT-BXD
   title: Thông tư 37/2026/TT-BXD hướng dẫn phương pháp xác định định mức dự toán và
@@ -365,6 +454,11 @@ laws:
   sha256: cecf0ee916dc85ccb992320aec6d01b2bb8cddf65d11878ae2d03433db61602e
   source_file: .md\extracted_docs\thong_tu_37_2026_tt_bxd\37_2026_TT-BXD_712395.docx
   source_file_size_kb: 463.6
+  source_assets:
+    pdf:
+      sha256: beb581cec6b66d74a774c69b8d4d744710f641a9d59a25a82cfce1487e04bd3f
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_37_2026_tt_bxd/thong_tu_37_2026_tt_bxd.pdf
+      status: verified
 - id: thong_tu_38_2026_tt_bxd
   document_number: 38/2026/TT-BXD
   title: Thông tư 38/2026/TT-BXD ban hành hệ thống định mức xây dựng quốc gia
@@ -389,6 +483,11 @@ laws:
   sha256: 740100c47f28c4eaffbd5ddfd8e433f3e6077383e58fdc6f7df3562abbd64e8b
   source_file: .md\extracted_docs\thong_tu_38_2026_tt_bxd\38_2026_TT-BXD_712406.docx
   source_file_size_kb: 4269.0
+  source_assets:
+    pdf:
+      sha256: 79d952610a16a3556f9903f37383259a1a2c01f6aef13c03042b449462ae54ef
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_38_2026_tt_bxd/thong_tu_38_2026_tt_bxd.pdf
+      status: verified
 - id: thong_tu_39_2026_tt_bxd
   document_number: 39/2026/TT-BXD
   title: Thông tư 39/2026/TT-BXD hướng dẫn cơ sở dữ liệu quốc gia về hoạt động xây
@@ -409,6 +508,11 @@ laws:
   sha256: e420c654c40537020f05b0c42c7db9d732ca9afd7d9631281831ddab70157e6d
   source_file: .md\extracted_docs\thong_tu_39_2026_tt_bxd\39_2026_TT-BXD_712407.docx
   source_file_size_kb: 137.1
+  source_assets:
+    pdf:
+      sha256: fcbd63740d9d284018c986e44ffea60ec9836120e0cad0d595e54b78dd660396
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_39_2026_tt_bxd/thong_tu_39_2026_tt_bxd.pdf
+      status: verified
 - id: thong_tu_40_2026_tt_bxd
   document_number: 40/2026/TT-BXD
   title: Thông tư 40/2026/TT-BXD hướng dẫn xác định chi phí bảo trì công trình xây
@@ -429,6 +533,11 @@ laws:
   sha256: dc57b9780dd91b69e3a97e6c3ec9c08eedb0a03d83cad3ed87bb9a0a7a157f4b
   source_file: .md\extracted_docs\thong_tu_40_2026_tt_bxd\40_2026_TT-BXD_712405.docx
   source_file_size_kb: 51.3
+  source_assets:
+    pdf:
+      sha256: 5f0cceab8d62dae9d46bb333eeb3ea227129e029d1bbf971304714ee62702fcf
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_40_2026_tt_bxd/thong_tu_40_2026_tt_bxd.pdf
+      status: verified
 - id: thong_tu_41_2026_tt_bxd
   document_number: 41/2026/TT-BXD
   title: Thông tư 41/2026/TT-BXD về quản lý chất lượng sản phẩm, hàng hóa vật liệu
@@ -449,6 +558,11 @@ laws:
   sha256: 7af269157755b7ade2d1b66483d5910dcea895d66b797c5289e6bfab19aa2293
   source_file: .md\extracted_docs\thong_tu_41_2026_tt_bxd\41_2026_TT-BXD_697288.docx
   source_file_size_kb: 28.8
+  source_assets:
+    pdf:
+      sha256: 5fd3c24a5062d11526ba966c6a7e8933f389bb5df7cb26a26cbac34a6a85ff30
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_41_2026_tt_bxd/thong_tu_41_2026_tt_bxd.pdf
+      status: verified
 - id: thong_tu_73_2026_tt_btc
   document_number: 73/2026/TT-BTC
   title: Thông tư 73/2026/TT-BTC quy định hệ thống mẫu biểu trong công tác quyết toán
@@ -469,6 +583,11 @@ laws:
   sha256: 8719779f5289e0a83f6ead96d8ad9c3b507c5c481bd5d0da743de69e5356184b
   source_file: .md\extracted_docs\thong_tu_73_2026_tt_btc\73_2026_TT-BTC_712590.docx
   source_file_size_kb: 50.1
+  source_assets:
+    pdf:
+      sha256: 98585a04eb1174e040409944cdafdb1ce2114d072055b866d24cb5f39ae3a5dd
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_73_2026_tt_btc/thong_tu_73_2026_tt_btc.pdf
+      status: verified
 - id: thong_tu_79_2026_tt_btc
   document_number: 79/2026/TT-BTC
   title: Thông tư 79/2026/TT-BTC quy định thu, chi của Chủ đầu tư, Ban QLDA sử dụng
@@ -489,6 +608,11 @@ laws:
   sha256: e572234523c1ae846f88408264e6d473b55a15364f81d6141108b445b6ae3abe
   source_file: .md\extracted_docs\thong_tu_79_2026_tt_btc\79_2026_TT-BTC_713348.docx
   source_file_size_kb: 65.6
+  source_assets:
+    pdf:
+      sha256: ccd9cd294aabe6603bada057d2511902ab883d376a090f43698165db3cb5fcc4
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_79_2026_tt_btc/thong_tu_79_2026_tt_btc.pdf
+      status: verified
 - id: QCVN-01-2021-BXD
   document_number: QCVN 01:2021/BXD
   title: QCVN 01:2021/BXD — Quy chuẩn kỹ thuật quốc gia về Quy hoạch xây dựng
@@ -517,8 +641,6 @@ laws:
     pdf:
       sha256: d99bc333dade2c16b607e135bd6c94728aef926ac556b1e459c020d1bf47026e
       vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_01_2021_bxd/qcvn_01_2021_bxd.pdf
-      gdrive_file_id: 1T1rMv7UX8cLjVHle6FGO09zgdNls4gew
-      gdrive_view_url: https://drive.google.com/file/d/1T1rMv7UX8cLjVHle6FGO09zgdNls4gew/view?usp=drivesdk
       status: verified
   relations:
     replaces: QCVN-01-2019-BXD
@@ -540,6 +662,11 @@ laws:
   sha256: ce8498fd6d4ca7f8d86f18c25ce53859c9ff9f515d97cabce207aad566f19e99
   source_file: .md\extracted_docs\qcvn_02_2022_bxd\qcvn_02_2022_bxd.docx
   source_file_size_kb: 15752.9
+  source_assets:
+    pdf:
+      sha256: 0375f3b798e01dfde379710648c8024edc71b5718ec5ee4f0e405764620c7a7d
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2022_bxd/qcvn_02_2022_bxd.pdf
+      status: verified
 - id: QCVN-04-2021-BXD
   document_number: QCVN 04:2021/BXD
   title: QCVN 04:2021/BXD — Quy chuẩn kỹ thuật quốc gia về Nhà chung cư (Sửa đổi 01:2026
@@ -568,6 +695,11 @@ laws:
   pdf_status: verified
   source_file: .md\extracted_docs\qcvn_04_2021_bxd\qcvn_04_2021_bxd.docx
   source_file_size_kb: 22.9
+  source_assets:
+    pdf:
+      sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd.pdf
+      status: verified
 - id: QCVN-06-2022-BXD
   document_number: QCVN 06:2022/BXD
   title: QCVN 06:2022/BXD — Quy chuẩn kỹ thuật quốc gia về An toàn cháy cho nhà và
@@ -602,8 +734,7 @@ laws:
     amendment_pdf:
       sha256: 61228c151c373924bdad12965fe3f04768c85cd74fef36c9ae80432eb6954a4a
       vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_06_2022_bxd/sd1_2023_qcvn_06_2022_bxd.pdf
-      status: verified
-
+      status: synced
 - id: bang_so_sanh_luat_xay_dung_2025_vs_2014
   document_number: APPENDIX-XD-2025-2014
   title: Bảng So sánh Nội dung Đổi mới Luật Xây dựng 2025 (135/2025/QH15) vs Luật

@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: technical_standard_qcvn
 title: QCVN 06:2022/BXD — Quy chuẩn kỹ thuật quốc gia về An toàn cháy cho nhà và công
   trình (Sửa đổi 1:2023 / TT 09/2023/TT-BXD)
@@ -35,6 +35,7 @@ artifacts:
   tables_dir: ./tables/
   tables_catalog: ./tables/tables_catalog.json
   benchmark_file: ./qa_benchmark.json
+  figures_dir: ./figures/
 ---
 
 **QCVN 06:2022/BXD (VĂN BẢN HỢP NHẤT NĂM 2023)**

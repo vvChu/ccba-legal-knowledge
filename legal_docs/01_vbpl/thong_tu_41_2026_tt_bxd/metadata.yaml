@@ -39,3 +39,10 @@ legal_basis:
   title: Nghị định số 22/2026/NĐ-CP ngày 16 tháng 01 năm 2026 của Chính phủ quy định
     chi tiết một số điều và biện pháp thi hành Luật Tiêu chuẩn và Quy chuẩn kỹ thuật
 replaces: []
+bundle_path: legal_docs/01_vbpl/thong_tu_41_2026_tt_bxd/
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: 5fd3c24a5062d11526ba966c6a7e8933f389bb5df7cb26a26cbac34a6a85ff30
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_41_2026_tt_bxd/thong_tu_41_2026_tt_bxd.pdf
+    status: verified

@@ -29,7 +29,7 @@ source_assets:
   pdf:
     sha256: e7b0f82433420e163e6d9d1e842f316a29ee50e473f075459bd52bc637aff7d5
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_06_2022_bxd/qcvn_06_2022_bxd.pdf
-    status: synced
+    status: verified
   amendment_pdf:
     sha256: 61228c151c373924bdad12965fe3f04768c85cd74fef36c9ae80432eb6954a4a
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_06_2022_bxd/sd1_2023_qcvn_06_2022_bxd.pdf

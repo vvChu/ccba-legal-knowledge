@@ -20,3 +20,10 @@ legal_basis:
   title: Nghị định số 206/2026/NĐ-CP quy định chi tiết về quản lý chi phí đầu tư xây
     dựng
 replaces: []
+bundle_path: legal_docs/01_vbpl/thong_tu_36_2026_tt_bxd/
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: 6ef24aa5112ab267fbad9c66f5b17fbc7c8b7c9015ae370f71864d327febd20c
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_36_2026_tt_bxd/thong_tu_36_2026_tt_bxd.pdf
+    status: verified

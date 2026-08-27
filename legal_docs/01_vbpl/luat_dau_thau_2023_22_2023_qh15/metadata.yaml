@@ -12,3 +12,10 @@ pdf_sha256: 9c6fbdb47b2bc1f51b729443d9bf328d4428a51b3ef34a3d98f65e0499221621
 pdf_status: verified
 legal_basis: []
 replaces: 43/2013/QH13
+bundle_path: legal_docs/01_vbpl/luat_dau_thau_2023_22_2023_qh15/
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: 9c6fbdb47b2bc1f51b729443d9bf328d4428a51b3ef34a3d98f65e0499221621
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_dau_thau_2023_22_2023_qh15/luat_22_2023_qh15.pdf
+    status: verified
