@@ -416,3 +416,344 @@ def calc_min_environmental_safety_distance(
         is_compliant=is_compliant,
         compliance_message=comp_msg,
     )
+
+
+# -----------------------------------------------------------------------------
+# 5. BẢNG 2.19: CHỈ TIÊU TÍNH TOÁN CHỖ ĐỖ XE CHO CÁC LOẠI CÔNG TRÌNH
+# -----------------------------------------------------------------------------
+def calc_min_parking_spaces(
+    building_type: str,
+    floor_area_m2: float = 0.0,
+    num_apartments: int = 0,
+    num_hotel_rooms: int = 0,
+    hotel_stars: int = 3,
+    proposed_car_spaces: int | None = None,
+    proposed_motorbike_spaces: int | None = None,
+) -> CalculationResult:
+    """Tính toán chỉ tiêu số lượng chỗ đỗ xe tối thiểu theo Bảng 2.19 QCVN 01:2021/BXD.
+
+    Args:
+        building_type: Loại công trình ('apartment_commercial', 'apartment_social', 'office', 'commercial', 'hotel').
+        floor_area_m2: Diện tích sàn sử dụng / kinh doanh (m2).
+        num_apartments: Số lượng căn hộ (cho chung cư).
+        num_hotel_rooms: Số lượng phòng ngủ (cho khách sạn).
+        hotel_stars: Hạng sao khách sạn (mặc định 3 sao).
+        proposed_car_spaces: Số chỗ đỗ ô tô đề xuất thiết kế.
+        proposed_motorbike_spaces: Số chỗ đỗ xe máy/xe đạp đề xuất thiết kế.
+
+    Returns:
+        CalculationResult chứa số lượng chỗ đỗ tối thiểu và kiểm tra tuân thủ.
+    """
+    inputs: dict[str, Any] = {
+        "building_type": building_type,
+        "floor_area_m2": floor_area_m2,
+        "num_apartments": num_apartments,
+        "num_hotel_rooms": num_hotel_rooms,
+        "hotel_stars": hotel_stars,
+    }
+    if proposed_car_spaces is not None:
+        inputs["proposed_car_spaces"] = proposed_car_spaces
+    if proposed_motorbike_spaces is not None:
+        inputs["proposed_motorbike_spaces"] = proposed_motorbike_spaces
+
+    steps: list[CalculationStep] = []
+    notes: list[str] = []
+
+    b_type = building_type.lower()
+    if "social" in b_type or "nha_o_xa_hoi" in b_type:
+        type_label = "Nhà ở xã hội"
+        min_cars = int((num_apartments + 1) // 2)
+        min_motorbikes = num_apartments * 2
+        ratio_car = "1 chỗ ô tô / 2 căn hộ"
+        ratio_moto = "2 chỗ xe máy / 1 căn hộ"
+    elif "apartment" in b_type or "chung_cu" in b_type:
+        type_label = "Nhà ở chung cư thương mại"
+        min_cars = num_apartments * 1
+        min_motorbikes = num_apartments * 2
+        ratio_car = "1 chỗ ô tô / 1 căn hộ"
+        ratio_moto = "2 chỗ xe máy / 1 căn hộ"
+    elif "office" in b_type or "van_phong" in b_type or "tru_so" in b_type:
+        type_label = "Trụ sở cơ quan, văn phòng làm việc"
+        min_cars = max(1, int(floor_area_m2 // 100))
+        min_motorbikes = max(2, int(floor_area_m2 // 30))
+        ratio_car = "1 chỗ ô tô / 100 m² sàn sử dụng"
+        ratio_moto = "1 chỗ xe máy / 30 m² sàn sử dụng"
+    elif "commercial" in b_type or "mall" in b_type or "sieu_thi" in b_type or "tttm" in b_type:
+        type_label = "Trung tâm thương mại, siêu thị, cửa hàng lớn"
+        min_cars = max(1, int(floor_area_m2 // 100))
+        min_motorbikes = max(2, int(floor_area_m2 // 20))
+        ratio_car = "1 chỗ ô tô / 100 m² sàn sử dụng"
+        ratio_moto = "1 chỗ xe máy / 20 m² sàn sử dụng"
+    elif "hotel" in b_type or "khach_san" in b_type:
+        type_label = f"Khách sạn ({hotel_stars} sao)"
+        if hotel_stars >= 3:
+            min_cars = max(1, int((num_hotel_rooms + 3) // 4))
+            min_motorbikes = max(2, int((num_hotel_rooms + 9) // 10))
+            ratio_car = "1 chỗ ô tô / 4 phòng ngủ"
+            ratio_moto = "1 chỗ xe máy / 10 phòng ngủ"
+        else:
+            min_cars = max(1, int((num_hotel_rooms + 7) // 8))
+            min_motorbikes = max(2, int((num_hotel_rooms + 4) // 5))
+            ratio_car = "1 chỗ ô tô / 8 phòng ngủ"
+            ratio_moto = "1 chỗ xe máy / 5 phòng ngủ"
+    else:
+        type_label = "Công trình dịch vụ đô thị thông thường"
+        min_cars = max(1, int(floor_area_m2 // 150))
+        min_motorbikes = max(2, int(floor_area_m2 // 30))
+        ratio_car = "1 chỗ ô tô / 150 m² sàn"
+        ratio_moto = "1 chỗ xe máy / 30 m² sàn"
+
+    steps.append(
+        CalculationStep(
+            step_number=1,
+            description=f"Xác định định mức tính toán chỗ đỗ xe cho: {type_label}",
+            formula_latex=r"N_{\text{ô tô}} = \lceil Q \cdot \text{Định mức} \rceil,\quad N_{\text{xe máy}} = \lceil Q \cdot \text{Định mức} \rceil",
+            substitution=f"Định mức ô tô: {ratio_car}, Định mức xe máy: {ratio_moto}",
+            result_text=f"Tối thiểu: {min_cars} chỗ ô tô, {min_motorbikes} chỗ xe máy",
+        )
+    )
+
+    notes.append("Tiêu chuẩn diện tích chỗ đỗ: Ô tô tối thiểu 25 m²/chỗ (bao gồm đường giao thông nội bộ bãi đỗ).")
+    notes.append("Xe máy tối thiểu 2.5 m² - 3.0 m²/chỗ; xe đạp tối thiểu 0.9 m²/chỗ.")
+    notes.append("Đối với công trình hỗn hợp, diện tích bãi đỗ xe tính tổng cộng theo từng chức năng thành phần.")
+
+    is_compliant = True
+    comp_msgs: list[str] = []
+    if proposed_car_spaces is not None:
+        if proposed_car_spaces >= min_cars:
+            comp_msgs.append(f"Ô tô: ĐẠT ({proposed_car_spaces} ≥ {min_cars} chỗ)")
+        else:
+            is_compliant = False
+            comp_msgs.append(f"Ô tô: THIẾU ({proposed_car_spaces} < {min_cars} chỗ, thiếu {min_cars - proposed_car_spaces})")
+
+    if proposed_motorbike_spaces is not None:
+        if proposed_motorbike_spaces >= min_motorbikes:
+            comp_msgs.append(f"Xe máy: ĐẠT ({proposed_motorbike_spaces} ≥ {min_motorbikes} chỗ)")
+        else:
+            is_compliant = False
+            comp_msgs.append(f"Xe máy: THIẾU ({proposed_motorbike_spaces} < {min_motorbikes} chỗ, thiếu {min_motorbikes - proposed_motorbike_spaces})")
+
+    compliance_message = "; ".join(comp_msgs) if comp_msgs else f"Yêu cầu tối thiểu: {min_cars} chỗ ô tô, {min_motorbikes} chỗ xe máy."
+
+    return CalculationResult(
+        formula_id="F_PLANNING_QCVN01_PARKING",
+        formula_name="Tính toán Chỉ tiêu Chỗ Đỗ Xe Tối thiểu (QCVN 01:2021/BXD)",
+        standard_reference="Bảng 2.19 (Mục 2.9 QCVN 01:2021/BXD)",
+        inputs=inputs,
+        outputs={
+            "min_car_spaces": min_cars,
+            "min_motorbike_spaces": min_motorbikes,
+            "building_type_label": type_label,
+            "is_compliant": is_compliant,
+        },
+        unit="chỗ đỗ",
+        primary_value=float(min_cars),
+        steps=steps,
+        notes=notes,
+        is_compliant=is_compliant,
+        compliance_message=compliance_message,
+    )
+
+
+# -----------------------------------------------------------------------------
+# 6. MỤC 2.6.2: KÍCH THƯỚC VÁT GÓC LỘ GIỚI TẠI NÚT GIAO THÔNG
+# -----------------------------------------------------------------------------
+def calc_corner_chamfer_dimensions(
+    intersection_angle_deg: float,
+    road_width_1_m: float,
+    road_width_2_m: float,
+    proposed_chamfer_m: float | None = None,
+) -> CalculationResult:
+    """Tính toán kích thước vát góc lộ giới tại các nút giao thông theo Mục 2.6.2 QCVN 01:2021/BXD.
+
+    Args:
+        intersection_angle_deg: Góc giao nhau giữa 2 trục đường (độ).
+        road_width_1_m: Bề rộng lộ giới đường 1 (m).
+        road_width_2_m: Bề rộng lộ giới đường 2 (m).
+        proposed_chamfer_m: Kích thước cạnh vát góc đề xuất thiết kế (m).
+
+    Returns:
+        CalculationResult chứa kích thước cạnh vát tối thiểu và diện tích tam giác vát.
+    """
+    import math
+
+    inputs: dict[str, Any] = {
+        "intersection_angle_deg": intersection_angle_deg,
+        "road_width_1_m": road_width_1_m,
+        "road_width_2_m": road_width_2_m,
+    }
+    if proposed_chamfer_m is not None:
+        inputs["proposed_chamfer_m"] = proposed_chamfer_m
+
+    angle = intersection_angle_deg
+    min_width = min(road_width_1_m, road_width_2_m)
+    max_width = max(road_width_1_m, road_width_2_m)
+
+    if angle <= 60.0:
+        angle_tier = "Góc nhọn (≤ 60°)"
+        min_chamfer = 6.0 if max_width >= 12.0 else 5.0
+    elif angle <= 105.0:
+        angle_tier = "Góc gần vuông (60° đến 105°)"
+        if min_width >= 12.0:
+            min_chamfer = 5.0
+        elif max_width >= 12.0:
+            min_chamfer = 4.0
+        else:
+            min_chamfer = 3.0
+    elif angle <= 135.0:
+        angle_tier = "Góc tù (105° đến 135°)"
+        min_chamfer = 3.0
+    else:
+        angle_tier = "Góc rất tù (> 135°)"
+        min_chamfer = 0.0
+
+    # Triangle area: 0.5 * a * b * sin(alpha) with a = b = min_chamfer
+    rad = math.radians(angle)
+    triangle_area = 0.5 * (min_chamfer ** 2) * math.sin(rad) if min_chamfer > 0 else 0.0
+
+    steps = [
+        CalculationStep(
+            step_number=1,
+            description=f"Phân loại góc giao và quy mô lộ giới giao nhau ({angle_tier})",
+            formula_latex=r"L_{\text{vát}} = f(\alpha, W_1, W_2)",
+            substitution=f"Góc giao = {angle}°, Lộ giới đường: W1 = {road_width_1_m}m, W2 = {road_width_2_m}m",
+            result_text=f"Cạnh vát góc tối thiểu L = {min_chamfer:.1f} m",
+        ),
+        CalculationStep(
+            step_number=2,
+            description="Tính toán diện tích tam giác vát góc lộ giới bị cắt giảm",
+            formula_latex=r"S_{\text{vát}} = \frac{1}{2} \cdot L^2 \cdot \sin(\alpha)",
+            substitution=f"0.5 * ({min_chamfer})^2 * sin({angle}°) = {triangle_area:.2f} m²",
+            result_text=f"Diện tích vát góc = {triangle_area:.2f} m²",
+        ),
+    ]
+
+    notes = [
+        "Tại các góc giao nhau của các đường phố có lộ giới >= 12m, phải vát góc lộ giới để đảm bảo tầm nhìn an toàn.",
+        "Không được xây dựng công trình hay tường rào đặc che chắn tầm nhìn trong phạm vi tam giác vát góc.",
+    ]
+
+    is_compliant = True
+    comp_msg = f"Cạnh vát góc tối thiểu quy định là {min_chamfer:.1f} m."
+    if proposed_chamfer_m is not None:
+        if proposed_chamfer_m >= min_chamfer - 1e-3:
+            is_compliant = True
+            comp_msg = f"ĐẠT: Cạnh vát thiết kế {proposed_chamfer_m:.2f}m ≥ Cạnh vát quy định {min_chamfer:.1f}m."
+        else:
+            is_compliant = False
+            comp_msg = f"KHÔNG ĐẠT: Cạnh vát thiết kế {proposed_chamfer_m:.2f}m NHỎ HƠN quy định {min_chamfer:.1f}m (thiếu {min_chamfer - proposed_chamfer_m:.2f}m)."
+
+    return CalculationResult(
+        formula_id="F_PLANNING_QCVN01_CORNER_CHAMFER",
+        formula_name="Tính toán Kích thước Vát góc Lộ giới tại Nút giao (QCVN 01:2021/BXD)",
+        standard_reference="Mục 2.6.2 (QCVN 01:2021/BXD)",
+        inputs=inputs,
+        outputs={
+            "min_chamfer_m": min_chamfer,
+            "triangle_area_m2": round(triangle_area, 2),
+            "angle_tier": angle_tier,
+            "is_compliant": is_compliant,
+        },
+        unit="m",
+        primary_value=min_chamfer,
+        steps=steps,
+        notes=notes,
+        is_compliant=is_compliant,
+        compliance_message=comp_msg,
+    )
+
+
+# -----------------------------------------------------------------------------
+# 7. BẢNG 2.1 & 2.2: CHỈ TIÊU ĐẤT CÂY XANH ĐÔ THỊ
+# -----------------------------------------------------------------------------
+def calc_urban_greenery_requirement(
+    urban_grade: str,
+    population: int,
+    proposed_greenery_area_m2: float | None = None,
+) -> CalculationResult:
+    """Tính toán chỉ tiêu diện tích đất cây xanh sử dụng công cộng đô thị theo Bảng 2.1 & 2.2 QCVN 01:2021/BXD.
+
+    Args:
+        urban_grade: Loại đô thị ('special', 'grade_1', 'grade_2', 'grade_3', 'grade_4', 'grade_5').
+        population: Quy mô dân số đô thị hoặc khu vực quy hoạch (người).
+        proposed_greenery_area_m2: Diện tích đất cây xanh công cộng đề xuất (m2).
+
+    Returns:
+        CalculationResult chứa diện tích cây xanh tối thiểu và chỉ tiêu m2/người.
+    """
+    inputs: dict[str, Any] = {
+        "urban_grade": urban_grade,
+        "population": population,
+    }
+    if proposed_greenery_area_m2 is not None:
+        inputs["proposed_greenery_area_m2"] = proposed_greenery_area_m2
+
+    grade = urban_grade.lower()
+    if grade in ("special", "dac_biet", "grade_1", "loai_1", "grade_2", "loai_2"):
+        grade_name = "Đô thị loại Đặc biệt, Loại I, Loại II"
+        ratio_total = 7.0
+        ratio_residential = 5.0
+    elif grade in ("grade_3", "loai_3", "grade_4", "loai_4"):
+        grade_name = "Đô thị loại III, Loại IV"
+        ratio_total = 6.0
+        ratio_residential = 4.0
+    else:
+        grade_name = "Đô thị loại V"
+        ratio_total = 4.0
+        ratio_residential = 3.0
+
+    min_total_area = float(population) * ratio_total
+    min_residential_area = float(population) * ratio_residential
+
+    steps = [
+        CalculationStep(
+            step_number=1,
+            description=f"Xác định chỉ tiêu đất cây xanh công cộng đô thị theo cấp đô thị ({grade_name})",
+            formula_latex=r"\text{Chỉ tiêu cây xanh toàn đô thị} \ge \text{Định mức (Bảng 2.1 QCVN 01:2021/BXD)}",
+            substitution=f"Loại đô thị: {grade_name} -> Chỉ tiêu toàn đô thị: {ratio_total} m²/người, Cây xanh khu ở: {ratio_residential} m²/người",
+            result_text=f"Định mức: {ratio_total} m²/người",
+        ),
+        CalculationStep(
+            step_number=2,
+            description="Tính toán tổng diện tích đất cây xanh sử dụng công cộng tối thiểu",
+            formula_latex=r"S_{\text{cây xanh}} = N_{\text{dân số}} \cdot \text{Định mức}",
+            substitution=f"{population} người * {ratio_total} m²/người = {min_total_area:,.1f} m²",
+            result_text=f"Tổng diện tích cây xanh tối thiểu = {min_total_area:,.1f} m² ({min_total_area/10000:.2f} ha)",
+        ),
+    ]
+
+    notes = [
+        "Đất cây xanh sử dụng công cộng trong đơn vị ở bao gồm công viên, vườn hoa, sân chơi phục vụ thường xuyên cho người dân.",
+        "Bán kính phục vụ của công viên, vườn hoa trong đơn vị ở không được lớn hơn 300m đối với đô thị loại đặc biệt/loại I và không quá 500m đối với các đô thị còn lại.",
+    ]
+
+    is_compliant = True
+    comp_msg = f"Yêu cầu tối thiểu: {min_total_area:,.1f} m² ({ratio_total} m²/người)."
+    if proposed_greenery_area_m2 is not None:
+        if proposed_greenery_area_m2 >= min_total_area - 1.0:
+            is_compliant = True
+            comp_msg = f"ĐẠT: Diện tích cây xanh đề xuất {proposed_greenery_area_m2:,.1f}m² ≥ Ngưỡng tối thiểu {min_total_area:,.1f}m²."
+        else:
+            is_compliant = False
+            comp_msg = f"KHÔNG ĐẠT: Diện tích cây xanh đề xuất {proposed_greenery_area_m2:,.1f}m² THIẾU so với ngưỡng tối thiểu {min_total_area:,.1f}m² (thiếu {min_total_area - proposed_greenery_area_m2:,.1f}m²)."
+
+    return CalculationResult(
+        formula_id="F_PLANNING_QCVN01_GREENERY",
+        formula_name="Tính toán Chỉ tiêu Đất Cây xanh Đô thị (QCVN 01:2021/BXD)",
+        standard_reference="Bảng 2.1 & Bảng 2.2 (Mục 2.2 QCVN 01:2021/BXD)",
+        inputs=inputs,
+        outputs={
+            "min_total_greenery_m2": min_total_area,
+            "min_residential_greenery_m2": min_residential_area,
+            "ratio_m2_per_capita": ratio_total,
+            "grade_name": grade_name,
+            "is_compliant": is_compliant,
+        },
+        unit="m2",
+        primary_value=min_total_area,
+        steps=steps,
+        notes=notes,
+        is_compliant=is_compliant,
+        compliance_message=comp_msg,
+    )
+

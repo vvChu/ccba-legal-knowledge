@@ -31,10 +31,14 @@ from formulas.vietnam_wind_zones import (
     calc_base_wind_pressure_w0,
 )
 from formulas.planning_qcvn01 import (
+    calc_corner_chamfer_dimensions,
     calc_max_net_building_density,
     calc_min_environmental_safety_distance,
+    calc_min_parking_spaces,
     calc_min_setback_distance,
+    calc_urban_greenery_requirement,
 )
+
 from formulas.wind_load_tcvn2737 import (
     calc_duopitch_roof_ce_coefficients,
     calc_equivalent_building_dimensions,
@@ -555,3 +559,57 @@ SymbolicFormulaSolver.register(
     ),
     calc_min_environmental_safety_distance,
 )
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_PLANNING_QCVN01_PARKING",
+        name="Tính toán Chỉ tiêu Chỗ Đỗ Xe Tối thiểu",
+        category="PLANNING_PARKING",
+        standard_reference="Bảng 2.19 (Mục 2.9 QCVN 01:2021/BXD)",
+        description="Tính toán số lượng chỗ đỗ ô tô và xe máy tối thiểu cho chung cư thương mại, nhà ở xã hội, văn phòng, TTTM và khách sạn.",
+        parameters={
+            "building_type": "Loại công trình ('apartment_commercial', 'apartment_social', 'office', 'commercial', 'hotel')",
+            "floor_area_m2": "Diện tích sàn sử dụng (m2, mặc định 0.0)",
+            "num_apartments": "Số căn hộ (mặc định 0)",
+            "num_hotel_rooms": "Số phòng khách sạn (mặc định 0)",
+            "hotel_stars": "Số sao khách sạn (mặc định 3)",
+            "proposed_car_spaces": "Số chỗ ô tô thiết kế (tùy chọn)",
+            "proposed_motorbike_spaces": "Số chỗ xe máy thiết kế (tùy chọn)",
+        },
+    ),
+    calc_min_parking_spaces,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_PLANNING_QCVN01_CORNER_CHAMFER",
+        name="Tính toán Kích thước Vát góc Lộ giới tại Nút giao",
+        category="PLANNING_ROAD_NETWORK",
+        standard_reference="Mục 2.6.2 (QCVN 01:2021/BXD)",
+        description="Tính toán kích thước cạnh vát góc tam giác tối thiểu và diện tích vát góc tại nút giao lộ theo góc giao và cấp đường.",
+        parameters={
+            "intersection_angle_deg": "Góc giao nhau giữa 2 đường (độ)",
+            "road_width_1_m": "Bề rộng lộ giới đường 1 (m)",
+            "road_width_2_m": "Bề rộng lộ giới đường 2 (m)",
+            "proposed_chamfer_m": "Cạnh vát đề xuất (m, tùy chọn)",
+        },
+    ),
+    calc_corner_chamfer_dimensions,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_PLANNING_QCVN01_GREENERY",
+        name="Tính toán Chỉ tiêu Đất Cây xanh Đô thị",
+        category="PLANNING_GREENERY",
+        standard_reference="Bảng 2.1 & Bảng 2.2 (Mục 2.2 QCVN 01:2021/BXD)",
+        description="Tính toán diện tích đất cây xanh công cộng tối thiểu toàn đô thị và trong khu ở theo loại đô thị và quy mô dân số.",
+        parameters={
+            "urban_grade": "Cấp đô thị ('special', 'grade_1', 'grade_2', 'grade_3', 'grade_4', 'grade_5')",
+            "population": "Quy mô dân số (người)",
+            "proposed_greenery_area_m2": "Diện tích cây xanh đề xuất (m2, tùy chọn)",
+        },
+    ),
+    calc_urban_greenery_requirement,
+)
+

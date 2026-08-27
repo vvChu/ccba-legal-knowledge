@@ -145,3 +145,137 @@ def test_symbolic_formula_solver_facade_planning_registration():
     meta_atmt = SymbolicFormulaSolver.get_metadata("F_PLANNING_QCVN01_ATMT")
     assert meta_atmt is not None
     assert "Môi trường" in meta_atmt.name or "ATMT" in meta_atmt.name
+
+    meta_parking = SymbolicFormulaSolver.get_metadata("F_PLANNING_QCVN01_PARKING")
+    assert meta_parking is not None
+    assert "Đỗ Xe" in meta_parking.name
+
+    meta_chamfer = SymbolicFormulaSolver.get_metadata("F_PLANNING_QCVN01_CORNER_CHAMFER")
+    assert meta_chamfer is not None
+    assert "Vát góc" in meta_chamfer.name
+
+    meta_greenery = SymbolicFormulaSolver.get_metadata("F_PLANNING_QCVN01_GREENERY")
+    assert meta_greenery is not None
+    assert "Cây xanh" in meta_greenery.name
+
+
+def test_calc_min_parking_spaces():
+    from formulas.planning_qcvn01 import calc_min_parking_spaces
+
+    # 1. Commercial apartment: 100 units -> 100 cars, 200 motorbikes
+    res_apt = calc_min_parking_spaces(
+        building_type="apartment_commercial",
+        num_apartments=100,
+        proposed_car_spaces=110,
+        proposed_motorbike_spaces=220,
+    )
+    assert res_apt.outputs["min_car_spaces"] == 100
+    assert res_apt.outputs["min_motorbike_spaces"] == 200
+    assert res_apt.is_compliant is True
+
+    # 2. Social apartment: 100 units -> 50 cars, 200 motorbikes
+    res_soc = calc_min_parking_spaces(
+        building_type="apartment_social",
+        num_apartments=100,
+        proposed_car_spaces=40,
+        proposed_motorbike_spaces=200,
+    )
+    assert res_soc.outputs["min_car_spaces"] == 50
+    assert res_soc.is_compliant is False
+    assert "THIẾU" in res_soc.compliance_message
+
+    # 3. Office: 2500m2 floor area -> 25 cars, 83 motorbikes
+    res_off = calc_min_parking_spaces(
+        building_type="office",
+        floor_area_m2=2500.0,
+    )
+    assert res_off.outputs["min_car_spaces"] == 25
+    assert res_off.outputs["min_motorbike_spaces"] == 83
+
+    # 4. Shopping center: 5000m2 -> 50 cars, 250 motorbikes
+    res_mall = calc_min_parking_spaces(
+        building_type="commercial",
+        floor_area_m2=5000.0,
+    )
+    assert res_mall.outputs["min_car_spaces"] == 50
+    assert res_mall.outputs["min_motorbike_spaces"] == 250
+
+    # 5. Hotel 5 stars: 200 rooms -> 50 cars, 20 motorbikes
+    res_hotel = calc_min_parking_spaces(
+        building_type="hotel",
+        num_hotel_rooms=200,
+        hotel_stars=5,
+    )
+    assert res_hotel.outputs["min_car_spaces"] == 50
+    assert res_hotel.outputs["min_motorbike_spaces"] == 20
+
+
+def test_calc_corner_chamfer_dimensions():
+    from formulas.planning_qcvn01 import calc_corner_chamfer_dimensions
+
+    # 1. Acute angle: 45 deg, Road widths: 20m & 15m -> 6m
+    res_acute = calc_corner_chamfer_dimensions(
+        intersection_angle_deg=45.0,
+        road_width_1_m=20.0,
+        road_width_2_m=15.0,
+    )
+    assert res_acute.outputs["min_chamfer_m"] == 6.0
+    assert res_acute.outputs["triangle_area_m2"] > 0
+
+    # 2. Right angle: 90 deg, Road widths: 20m & 20m -> 5m
+    res_right_wide = calc_corner_chamfer_dimensions(
+        intersection_angle_deg=90.0,
+        road_width_1_m=20.0,
+        road_width_2_m=20.0,
+    )
+    assert res_right_wide.outputs["min_chamfer_m"] == 5.0
+    assert res_right_wide.outputs["triangle_area_m2"] == 12.5
+
+    # 3. Right angle: 90 deg, Road widths: 8m & 8m -> 3m
+    res_right_narrow = calc_corner_chamfer_dimensions(
+        intersection_angle_deg=90.0,
+        road_width_1_m=8.0,
+        road_width_2_m=8.0,
+    )
+    assert res_right_narrow.outputs["min_chamfer_m"] == 3.0
+
+    # 4. Obtuse angle: 120 deg -> 3m
+    res_obtuse = calc_corner_chamfer_dimensions(
+        intersection_angle_deg=120.0,
+        road_width_1_m=15.0,
+        road_width_2_m=15.0,
+    )
+    assert res_obtuse.outputs["min_chamfer_m"] == 3.0
+
+    # 5. Very obtuse angle: 150 deg -> 0m
+    res_flat = calc_corner_chamfer_dimensions(
+        intersection_angle_deg=150.0,
+        road_width_1_m=15.0,
+        road_width_2_m=15.0,
+    )
+    assert res_flat.outputs["min_chamfer_m"] == 0.0
+
+
+def test_calc_urban_greenery_requirement():
+    from formulas.planning_qcvn01 import calc_urban_greenery_requirement
+
+    # Grade 1 urban area: 100,000 population -> 700,000 m2 (70 ha)
+    res_g1 = calc_urban_greenery_requirement(
+        urban_grade="grade_1",
+        population=100000,
+        proposed_greenery_area_m2=750000.0,
+    )
+    assert res_g1.outputs["min_total_greenery_m2"] == 700000.0
+    assert res_g1.outputs["min_residential_greenery_m2"] == 500000.0
+    assert res_g1.is_compliant is True
+
+    # Grade 4 urban area: 50,000 population -> 300,000 m2 (30 ha)
+    res_g4 = calc_urban_greenery_requirement(
+        urban_grade="grade_4",
+        population=50000,
+        proposed_greenery_area_m2=250000.0,
+    )
+    assert res_g4.outputs["min_total_greenery_m2"] == 300000.0
+    assert res_g4.is_compliant is False
+    assert "KHÔNG ĐẠT" in res_g4.compliance_message
+
