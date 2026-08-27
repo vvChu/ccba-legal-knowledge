@@ -103,11 +103,25 @@ class LegalSpokeValidator:
                         f"OKF Warning [{doc_dir.name}]: Multiple markdown files exist but 'index.md' MOC is missing."
                     )
 
+                # OKF v2.4 Invariants: Check mandatory sources/ and no empty templates/
+                if cat in ["01_vbpl", "02_qcvn", "03_tcvn"]:
+                    sources_dir = doc_dir / "sources"
+                    if not sources_dir.exists():
+                        self.warnings.append(
+                            f"OKF v2.4 Invariant Warning [{doc_dir.name}]: Missing mandatory 'sources/' directory."
+                        )
+                    templates_dir = doc_dir / "templates"
+                    if templates_dir.exists() and not any(templates_dir.iterdir()):
+                        self.warnings.append(
+                            f"OKF v2.4 Invariant Warning [{doc_dir.name}]: Empty 'templates/' directory detected."
+                        )
+
                 # Validate frontmatter of markdown files
                 for md_path in main_md_files:
                     self._check_markdown_frontmatter(md_path)
 
         return (len(self.errors), len(self.warnings))
+
 
     def _check_markdown_frontmatter(self, md_path: Path) -> None:
         """Check YAML frontmatter of a markdown file if present."""

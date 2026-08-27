@@ -23,7 +23,7 @@
 | [ADR 0013](0013-dynamic-grace-period-compliance-gate.md) | **Dynamic Grace Period Compliance Gate for Retroactive Transition Auditing** | ✅ ACCEPTED | `CONTEXT.md` |
 | [ADR 0014](0014-split-jurisdiction-pccc-audit-routing.md) | **Split Jurisdiction PCCC Audit Routing & Metadata Binding (Luật 55/2024 & NĐ 105/2025)** | ✅ ACCEPTED | `CONTEXT.md` |
 | [ADR 0015](0015-unresolved-reference-metadata-fallback.md) | **Unresolved Normative Reference Fallback & Metadata Card Resolution** | ✅ ACCEPTED | `CONTEXT.md` |
-| [ADR 0016](0016-dual-track-hybrid-pdf-anchor-of-trust.md) | **Dual-Track Hybrid Extraction & PDF Anchor of Trust Protocol** | ✅ ACCEPTED | `.agents/skills/ccba-legal-ingest/SKILL.md`<br>`AGENTS.md`<br>`CONTEXT.md`<br>`.md/knowledge/session_learnings.md` |
+| [ADR 0016](0016-dual-track-hybrid-pdf-anchor-of-trust.md) | **Dual-Track Hybrid Extraction & PDF Anchor of Trust Protocol** | ✅ ACCEPTED | `.agents/skills/ccba-legal-ingest/SKILL.md`<br>`CONTEXT.md`<br>`.md/knowledge/session_learnings.md` |
 | [ADR 0017](0017-ast-structural-patching-consolidation-engine.md) | **AST Structural Patching via Semantic Action Tokens for Legislative Consolidation** | ✅ ACCEPTED | `CONTEXT.md` |
 | [ADR 0018](0018-git-ratchet-multi-platform-knowledge-sync.md) | **Git-Ratchet Multi-Platform Knowledge Sync & Dual-Store Topology** | ✅ ACCEPTED | `CONTEXT.md` |
 | [ADR 0019](0019-tiered-audit-persona-and-self-audit-affidavit.md) | **Tiered Audit Persona & Client Self-Audit Affidavit Engine** | ✅ ACCEPTED | `CONTEXT.md` |
@@ -41,5 +41,6 @@
 | [ADR 0031](0031-tvpl-vip-digital-pdf-priority-and-session-engine.md) | **TVPL VIP Digital Vector PDF Priority & Persistent Session Engine** | ✅ ACCEPTED | `.agents/skills/ccba-legal-ingest/SKILL.md`<br>`.agents/skills/ccba-legal-intel/SKILL.md`<br>`.md/knowledge/session_learnings.md` |
 | [ADR 0032](0032-catalog-query-gate-reuse-first-enforcement.md) | **— Catalog Query Gate: Cưỡng Chế Reuse-First bằng Cơ Chế Verify-Based** | ✅ ACCEPTED | `.agents/skills/ccba-adr-lifecycle/SKILL.md`<br>`CONTEXT.md`<br>`.md/knowledge/session_learnings.md` |
 | [ADR 0033](0033-spoke-md-directory-hygiene-and-archiving.md) | **Spoke .md Directory Hygiene & Archiving Structure** | ✅ ACCEPTED | `.md/knowledge/session_learnings.md` |
-| [ADR 0034](0034-okf-v2-3-dual-engine-technical-standards.md) | **OKF v2.3 Dual-Engine Technical Standards Paradigm (Parametric Visual Cards, Lossless Table Matrices & Deterministic Solvers)** | ✅ ACCEPTED | `.md/knowledge/session_learnings.md` |
-| [ADR 0035](0035-tri-tier-google-drive-vault-and-ingestion-2-0.md) | **Tri-Tier Cloud Binary Vault Architecture & Universal Ingestion Pipeline 2.0** | ✅ ACCEPTED | *Chưa có liên kết trực tiếp* |
+| [ADR 0034](0034-okf-v2-3-dual-engine-technical-standards.md) | **OKF v2.3 Dual-Engine Technical Standards Paradigm (Parametric Visual Cards, Lossless Table Matrices & Deterministic Solvers)** | ✅ ACCEPTED | `AGENTS.md`<br>`.md/knowledge/session_learnings.md` |
+| [ADR 0035](0035-tri-tier-google-drive-vault-and-ingestion-2-0.md) | **Tri-Tier Cloud Binary Vault Architecture & Universal Ingestion Pipeline 2.0** | ✅ ACCEPTED | `AGENTS.md` |
+| [ADR 0036](0036-okf-v2-4-universal-agent-centric-specification.md) | **OKF v2.4 Universal Agent-Centric Specification & Compartment Invariants** | ✅ ACCEPTED | `AGENTS.md` |

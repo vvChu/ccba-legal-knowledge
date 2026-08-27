@@ -6,7 +6,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 
 ---
 
-## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0035)
+## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0036)
 
 ### Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.2 & Biểu Mẫu
 | Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
@@ -64,3 +64,4 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | :--- | :--- | :---: | :---: |
 | [ADR 0034](0034-okf-v2-3-dual-engine-technical-standards.md) | OKF v2.3 Dual-Engine Technical Standards Paradigm (Parametric Visual Cards, Lossless Table Matrices & Deterministic Solvers) | ✅ ACCEPTED | 2026-08-26 |
 | [ADR 0035](0035-tri-tier-google-drive-vault-and-ingestion-2-0.md) | Tri-Tier Cloud Binary Vault Architecture & Universal Ingestion Pipeline 2.0 | ✅ ACCEPTED | 2026-08-27 |
+| [ADR 0036](0036-okf-v2-4-universal-agent-centric-specification.md) | OKF v2.4 Universal Agent-Centric Specification & Compartment Invariants | ✅ ACCEPTED | 2026-08-27 |
