@@ -30,6 +30,11 @@ from formulas.deflection_limits_tcvn2737 import (
 from formulas.vietnam_wind_zones import (
     calc_base_wind_pressure_w0,
 )
+from formulas.planning_qcvn01 import (
+    calc_max_net_building_density,
+    calc_min_environmental_safety_distance,
+    calc_min_setback_distance,
+)
 from formulas.wind_load_tcvn2737 import (
     calc_duopitch_roof_ce_coefficients,
     calc_equivalent_building_dimensions,
@@ -500,4 +505,53 @@ SymbolicFormulaSolver.register(
         },
     ),
     calc_full_wind_load_tcvn2737,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_PLANNING_QCVN01_NET_DENSITY",
+        name="Tính toán Mật độ Xây dựng Thuần Tối đa",
+        category="PLANNING_DENSITY",
+        standard_reference="Bảng 2.8 & Bảng 2.9 (Mục 2.6.3 QCVN 01:2021/BXD)",
+        description="Tính toán mật độ xây dựng thuần tối đa cho nhà ở riêng lẻ, chung cư và dịch vụ công cộng theo diện tích lô đất và chiều cao công trình.",
+        parameters={
+            "land_area_m2": "Diện tích lô đất xây dựng (m2)",
+            "building_height_m": "Chiều cao công trình (m, mặc định 0.0)",
+            "building_type": "Loại công trình ('detached_house', 'residential_apartment', 'service_public')",
+            "proposed_density_percent": "Mật độ đề xuất thiết kế để kiểm tra tuân thủ (%, tùy chọn)",
+        },
+    ),
+    calc_max_net_building_density,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_PLANNING_QCVN01_SETBACK",
+        name="Xác định Khoảng lùi Tối thiểu của Công trình",
+        category="PLANNING_SETBACK",
+        standard_reference="Bảng 2.7 (Mục 2.6.2 QCVN 01:2021/BXD)",
+        description="Tra cứu khoảng lùi tối thiểu (m) của công trình theo bề rộng lộ giới đường tiếp giáp và chiều cao xây dựng.",
+        parameters={
+            "road_width_m": "Bề rộng lộ giới đường tiếp giáp (m)",
+            "building_height_m": "Chiều cao xây dựng công trình (m)",
+            "proposed_setback_m": "Khoảng lùi đề xuất thiết kế (m, tùy chọn)",
+        },
+    ),
+    calc_min_setback_distance,
+)
+
+SymbolicFormulaSolver.register(
+    FormulaMetadata(
+        formula_id="F_PLANNING_QCVN01_ATMT",
+        name="Tra cứu Khoảng cách An toàn Môi trường (ATMT)",
+        category="PLANNING_ENVIRONMENTAL_SAFETY",
+        standard_reference="Bảng 2.10 (Mục 2.11 QCVN 01:2021/BXD)",
+        description="Tra cứu khoảng cách an toàn môi trường tối thiểu đối với trạm trung chuyển CTR, bãi chôn lấp, nhà máy xử lý rác, nghĩa trang, nhà tang lễ.",
+        parameters={
+            "facility_type": "Mã loại cơ sở ('solid_waste_transfer_closed', 'solid_waste_transfer_open', 'solid_waste_treatment_plant_closed', 'solid_waste_landfill_sanitary', 'cemetery_burial_primary', 'cemetery_burial_secondary', 'crematorium')",
+            "scale_capacity": "Quy mô/công suất (tùy chọn)",
+            "actual_distance_m": "Khoảng cách thực tế đến khu dân cư (m, tùy chọn)",
+        },
+    ),
+    calc_min_environmental_safety_distance,
 )

@@ -1,0 +1,43 @@
+{
+  "table_id": "bang_2_26",
+  "table_number": "2.26",
+  "table_title": "Bảng 2.26 - Chỉ tiêu cấp điện sinh hoạt (theo người)",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Chỉ tiêu": "Chỉ tiêu",
+      "Giai đoạn đầu": "Đô thị loại đặc biệt",
+      "Giai đoạn dài hạn": "Đô thị loại I",
+      "col_4": "Đô thị loại II-III",
+      "col_5": "Đô thị loại IV-V",
+      "col_6": "Đô thị loại đặc biệt",
+      "col_7": "Đô thị loại I",
+      "col_8": "Đô thị loại II-III",
+      "col_9": "Đô thị loại IV-V"
+    },
+    {
+      "_row_id": 2,
+      "Chỉ tiêu": "1. Điện năng (KWh/người.năm)",
+      "Giai đoạn đầu": "1 400",
+      "Giai đoạn dài hạn": "1 100",
+      "col_4": "750",
+      "col_5": "400",
+      "col_6": "2 400",
+      "col_7": "2 100",
+      "col_8": "1 500",
+      "col_9": "1000"
+    },
+    {
+      "_row_id": 3,
+      "Chỉ tiêu": "2. Phụ tải (W/người)",
+      "Giai đoạn đầu": "500",
+      "Giai đoạn dài hạn": "450",
+      "col_4": "300",
+      "col_5": "200",
+      "col_6": "800",
+      "col_7": "700",
+      "col_8": "500",
+      "col_9": "330"
+    }
+  ]
+}

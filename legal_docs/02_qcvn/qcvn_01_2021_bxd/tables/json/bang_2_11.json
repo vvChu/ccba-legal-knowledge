@@ -1,0 +1,22 @@
+{
+  "table_id": "bang_2_11",
+  "table_number": "2.11",
+  "table_title": "Bảng 2.11 - Tỷ lệ đất trồng cây xanh tối thiểu trong các lô đất xây dựng công trình",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Trong lô đất xây dựng công trình": "1- Nhà chung cư",
+      "Tỷ lệ đất tối thiểu trồng cây xanh (%)": "20"
+    },
+    {
+      "_row_id": 2,
+      "Trong lô đất xây dựng công trình": "2- Công trình giáo dục, y tế, văn hóa",
+      "Tỷ lệ đất tối thiểu trồng cây xanh (%)": "30"
+    },
+    {
+      "_row_id": 3,
+      "Trong lô đất xây dựng công trình": "3- Nhà máy",
+      "Tỷ lệ đất tối thiểu trồng cây xanh (%)": "20"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "table_id": "bang_2_8",
+  "table_number": "2.8",
+  "table_title": "Bảng 2.8 - Mật độ xây dựng thuần tối đa của lô đất xây dựng nhà ở riêng lẻ (nhà biệt thự, nhà ở liền kề, nhà ở độc lập)",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Diện tích lô đất ($m^{2}$/căn nhà)": "Mật độ xây dựng tối đa (%)",
+      "≤ 90": "100",
+      "100": "90",
+      "200": "70",
+      "300": "60",
+      "500": "50",
+      "≥ 1 000": "40"
+    }
+  ]
+}

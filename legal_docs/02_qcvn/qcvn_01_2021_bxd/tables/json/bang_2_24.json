@@ -1,0 +1,63 @@
+{
+  "table_id": "bang_2_24",
+  "table_number": "2.24",
+  "table_title": "Bảng 2.24 - Loại và quy mô trạm trung chuyển CTR sinh hoạt",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại và quy mô trạm trung chuyển": "Trạm trung chuyển không cố định",
+      "Công suất (tấn/ngày đêm)": "",
+      "Bán kính phục vụ tối đa (km)": "",
+      "Diện tích tối thiểu ($m^{2}$)": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại và quy mô trạm trung chuyển": "Cỡ nhỏ",
+      "Công suất (tấn/ngày đêm)": "< 5",
+      "Bán kính phục vụ tối đa (km)": "0,5",
+      "Diện tích tối thiểu ($m^{2}$)": "20"
+    },
+    {
+      "_row_id": 3,
+      "Loại và quy mô trạm trung chuyển": "Cỡ vừa",
+      "Công suất (tấn/ngày đêm)": "5 - 10",
+      "Bán kính phục vụ tối đa (km)": "1,0",
+      "Diện tích tối thiểu ($m^{2}$)": "35"
+    },
+    {
+      "_row_id": 4,
+      "Loại và quy mô trạm trung chuyển": "Cỡ lớn",
+      "Công suất (tấn/ngày đêm)": "> 10",
+      "Bán kính phục vụ tối đa (km)": "7,0",
+      "Diện tích tối thiểu ($m^{2}$)": "50"
+    },
+    {
+      "_row_id": 5,
+      "Loại và quy mô trạm trung chuyển": "Trạm trung chuyển cố định",
+      "Công suất (tấn/ngày đêm)": "",
+      "Bán kính phục vụ tối đa (km)": "",
+      "Diện tích tối thiểu ($m^{2}$)": ""
+    },
+    {
+      "_row_id": 6,
+      "Loại và quy mô trạm trung chuyển": "Cỡ nhỏ",
+      "Công suất (tấn/ngày đêm)": "< 100",
+      "Bán kính phục vụ tối đa (km)": "10",
+      "Diện tích tối thiểu ($m^{2}$)": "500"
+    },
+    {
+      "_row_id": 7,
+      "Loại và quy mô trạm trung chuyển": "Cỡ vừa",
+      "Công suất (tấn/ngày đêm)": "100 - 500",
+      "Bán kính phục vụ tối đa (km)": "15",
+      "Diện tích tối thiểu ($m^{2}$)": "3 000"
+    },
+    {
+      "_row_id": 8,
+      "Loại và quy mô trạm trung chuyển": "Cỡ lớn",
+      "Công suất (tấn/ngày đêm)": "> 500",
+      "Bán kính phục vụ tối đa (km)": "30",
+      "Diện tích tối thiểu ($m^{2}$)": "5 000"
+    }
+  ]
+}

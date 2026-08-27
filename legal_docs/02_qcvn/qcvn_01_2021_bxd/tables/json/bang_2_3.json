@@ -1,0 +1,135 @@
+{
+  "table_id": "bang_2_3",
+  "table_number": "2.3",
+  "table_title": "Bảng 2.3 - Quy mô tối thiểu của các công trình dịch vụ - công cộng cấp đô thị",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại công trình": "Loại công trình",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "Đơn vị tính",
+      "Chỉ tiêu sử dụng đất tối thiểu": "Chỉ tiêu",
+      "col_4": "Đơn vị tính",
+      "col_5": "Chỉ tiêu"
+    },
+    {
+      "_row_id": 2,
+      "Loại công trình": "A. Giáo dục",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "",
+      "Chỉ tiêu sử dụng đất tối thiểu": "",
+      "col_4": "",
+      "col_5": ""
+    },
+    {
+      "_row_id": 3,
+      "Loại công trình": "1. Trường trung học phổ thông",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "học sinh /1 000 người",
+      "Chỉ tiêu sử dụng đất tối thiểu": "40",
+      "col_4": "$m^{2}$/1 học sinh",
+      "col_5": "10"
+    },
+    {
+      "_row_id": 4,
+      "Loại công trình": "B. Y tế",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "",
+      "Chỉ tiêu sử dụng đất tối thiểu": "",
+      "col_4": "",
+      "col_5": ""
+    },
+    {
+      "_row_id": 5,
+      "Loại công trình": "2. Bệnh viện đa khoa",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "giường/1 000 người",
+      "Chỉ tiêu sử dụng đất tối thiểu": "4",
+      "col_4": "$m^{2}$/giường bệnh",
+      "col_5": "100"
+    },
+    {
+      "_row_id": 6,
+      "Loại công trình": "C. Văn hóa - Thể dục thể thao",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "",
+      "Chỉ tiêu sử dụng đất tối thiểu": "",
+      "col_4": "",
+      "col_5": ""
+    },
+    {
+      "_row_id": 7,
+      "Loại công trình": "3. Sân thể thao cơ bản",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "",
+      "Chỉ tiêu sử dụng đất tối thiểu": "$m^{2}$/người",
+      "col_4": "0,6",
+      "col_5": ""
+    },
+    {
+      "_row_id": 8,
+      "Loại công trình": "3. Sân thể thao cơ bản",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "",
+      "Chỉ tiêu sử dụng đất tối thiểu": "ha/công trình",
+      "col_4": "1,0",
+      "col_5": ""
+    },
+    {
+      "_row_id": 9,
+      "Loại công trình": "4. Sân vận động",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "",
+      "Chỉ tiêu sử dụng đất tối thiểu": "$m^{2}$/người",
+      "col_4": "0,8",
+      "col_5": ""
+    },
+    {
+      "_row_id": 10,
+      "Loại công trình": "4. Sân vận động",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "",
+      "Chỉ tiêu sử dụng đất tối thiểu": "ha/công trình",
+      "col_4": "2,5",
+      "col_5": ""
+    },
+    {
+      "_row_id": 11,
+      "Loại công trình": "5. Trung tâm Văn hóa - Thể thao",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "",
+      "Chỉ tiêu sử dụng đất tối thiểu": "$m^{2}$/người",
+      "col_4": "0,8",
+      "col_5": ""
+    },
+    {
+      "_row_id": 12,
+      "Loại công trình": "5. Trung tâm Văn hóa - Thể thao",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "",
+      "Chỉ tiêu sử dụng đất tối thiểu": "ha/công trình",
+      "col_4": "3,0",
+      "col_5": ""
+    },
+    {
+      "_row_id": 13,
+      "Loại công trình": "6. Nhà văn hóa (hoặc Cung văn hóa)",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "chỗ/ 1 000 người",
+      "Chỉ tiêu sử dụng đất tối thiểu": "8",
+      "col_4": "ha/công trình",
+      "col_5": "0,5"
+    },
+    {
+      "_row_id": 14,
+      "Loại công trình": "7. Nhà thiếu nhi (hoặc Cung thiếu nhi)",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "chỗ/ 1 000 người",
+      "Chỉ tiêu sử dụng đất tối thiểu": "2",
+      "col_4": "ha/công trình",
+      "col_5": "1,0"
+    },
+    {
+      "_row_id": 15,
+      "Loại công trình": "D. Thương mại",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "",
+      "Chỉ tiêu sử dụng đất tối thiểu": "",
+      "col_4": "",
+      "col_5": ""
+    },
+    {
+      "_row_id": 16,
+      "Loại công trình": "8. Chợ",
+      "Chỉ tiêu sử dụng công trình tối thiểu": "công trình",
+      "Chỉ tiêu sử dụng đất tối thiểu": "1",
+      "col_4": "ha/công trình",
+      "col_5": "1,0"
+    }
+  ]
+}

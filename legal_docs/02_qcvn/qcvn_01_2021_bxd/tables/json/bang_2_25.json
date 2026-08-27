@@ -1,0 +1,47 @@
+{
+  "table_id": "bang_2_25",
+  "table_number": "2.25",
+  "table_title": "Bảng 2.25 - Khoảng cách an toàn về môi trường của nghĩa trang",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đối tượng cần cách ly": "Đối tượng cần cách ly",
+      "Khoảng cách tối thiểu từ đối tượng cần cách ly là": "Khu huyệt mộ nghĩa trang hung táng",
+      "col_3": "Khu huyệt mộ nghĩa trang chôn một lần",
+      "col_4": "Khu huyệt mộ nghĩa trang cát táng",
+      "col_5": "Nhà, công trình chứa lò hỏa táng và lưu chứa thi hài trước khi hỏa táng"
+    },
+    {
+      "_row_id": 2,
+      "Đối tượng cần cách ly": "Công trình nhà ở tại đô thị và điểm dân cư nông thôn tập trung",
+      "Khoảng cách tối thiểu từ đối tượng cần cách ly là": "1 000 m",
+      "col_3": "500 m",
+      "col_4": "100 m",
+      "col_5": "500 m"
+    },
+    {
+      "_row_id": 3,
+      "Đối tượng cần cách ly": "Điểm lấy nước phục vụ nhu cầu sinh hoạt của đô thị, điểm dân cư nông thôn tập trung",
+      "Khoảng cách tối thiểu từ đối tượng cần cách ly là": "1 500 m",
+      "col_3": "1 000 m",
+      "col_4": "-",
+      "col_5": ""
+    },
+    {
+      "_row_id": 4,
+      "Đối tượng cần cách ly": "Đường sắt, Quốc lộ, Tỉnh lộ",
+      "Khoảng cách tối thiểu từ đối tượng cần cách ly là": "200 m",
+      "col_3": "-",
+      "col_4": "",
+      "col_5": ""
+    },
+    {
+      "_row_id": 5,
+      "Đối tượng cần cách ly": "Sông, hồ (bao gồm sông, hồ không dùng cho mục đích cấp nước sinh hoạt)",
+      "Khoảng cách tối thiểu từ đối tượng cần cách ly là": "300 m",
+      "col_3": "100 m",
+      "col_4": "-",
+      "col_5": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "$schema": "https://ccba.vn/schemas/visual_card_v1.json",
+  "card_id": "FIG_QCVN01_NET_DENSITY_INTERP",
+  "figure_number": "Sơ đồ 2.2",
+  "standard": "QCVN 01:2021/BXD",
+  "title": "Ma trận nội suy mật độ xây dựng thuần tối đa theo diện tích lô đất và chiều cao công trình",
+  "image_relpath": "figures/images/hinh_mat_do_xay_dung.png",
+  "normative_clauses": [
+    "2.6.3"
+  ],
+  "associated_tables": [
+    "Bảng 2.8",
+    "Bảng 2.9"
+  ],
+  "formula_id": "F_PLANNING_QCVN01_NET_DENSITY",
+  "governing_parameters": [
+    "land_area_m2",
+    "building_height_m",
+    "building_type"
+  ],
+  "input_parameters": {
+    "land_area_m2": {
+      "description": "Diện tích lô đất xây dựng",
+      "unit": "m2",
+      "type": "float"
+    },
+    "building_height_m": {
+      "description": "Chiều cao công trình",
+      "unit": "m",
+      "type": "float"
+    },
+    "building_type": {
+      "description": "Loại công trình (detached_house, residential_apartment, service_public)",
+      "unit": "string",
+      "type": "string"
+    }
+  },
+  "dimension_rules": {
+    "interpolation_rule": "Nội suy song tuyến tính theo công thức phân đoạn giữa các mốc diện tích (<=3000m2, 10000m2) và chiều cao (<=16m, 19m, 22m, 25m, 28m, 31m, 34m, 37m, 40m, 46m, >46m)"
+  }
+}

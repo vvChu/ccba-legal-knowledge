@@ -1,0 +1,43 @@
+{
+  "table_id": "bang_2_16",
+  "table_number": "2.16",
+  "table_title": "Bảng 2.16 - Quy định về diện tích cảng",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại cảng": "Cảng biển",
+      "Các yếu tố": "&nbsp;&nbsp;\\- Cầu cảng nhô ra",
+      "Chỉ tiêu $m^{2}$/1m dài bến cảng": "≥ 150"
+    },
+    {
+      "_row_id": 2,
+      "Loại cảng": "Cảng biển",
+      "Các yếu tố": "&nbsp;&nbsp;\\- Cầu cảng dọc theo bờ",
+      "Chỉ tiêu $m^{2}$/1m dài bến cảng": "≥ 300"
+    },
+    {
+      "_row_id": 3,
+      "Loại cảng": "Cảng thủy nội địa",
+      "Các yếu tố": "&nbsp;&nbsp;\\- Cảng công cộng",
+      "Chỉ tiêu $m^{2}$/1m dài bến cảng": "≥ 250"
+    },
+    {
+      "_row_id": 4,
+      "Loại cảng": "Cảng thủy nội địa",
+      "Các yếu tố": "&nbsp;&nbsp;\\- Cảng chuyên dùng",
+      "Chỉ tiêu $m^{2}$/1m dài bến cảng": "≥ 300"
+    },
+    {
+      "_row_id": 5,
+      "Loại cảng": "Bến thủy nội địa",
+      "Các yếu tố": "&nbsp;&nbsp;\\- Bến công cộng",
+      "Chỉ tiêu $m^{2}$/1m dài bến cảng": "≥ 100"
+    },
+    {
+      "_row_id": 6,
+      "Loại cảng": "Bến thủy nội địa",
+      "Các yếu tố": "&nbsp;&nbsp;\\- Bến chuyên dùng",
+      "Chỉ tiêu $m^{2}$/1m dài bến cảng": "≥ 100"
+    }
+  ]
+}

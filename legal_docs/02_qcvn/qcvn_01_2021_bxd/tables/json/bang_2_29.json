@@ -1,0 +1,42 @@
+{
+  "table_id": "bang_2_29",
+  "table_number": "2.29",
+  "table_title": "Bảng 2.29 - Chỉ tiêu cấp điện cho sản xuất công nghiệp, kho tàng",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại công nghiệp": "1. Công nghiệp nặng (luyện gang, luyện thép, sản xuất ôtô, sản xuất máy cái, công nghiệp hóa dầu, hóa chất, phân bón), sản xuất xi măng",
+      "Chỉ tiêu (kW/ha)": "350"
+    },
+    {
+      "_row_id": 2,
+      "Loại công nghiệp": "2. Công nghiệp vật liệu xây dựng khác, cơ khí",
+      "Chỉ tiêu (kW/ha)": "250"
+    },
+    {
+      "_row_id": 3,
+      "Loại công nghiệp": "3. Công nghiệp chế biến lương thực, thực phẩm, điện tử, vi tính, dệt",
+      "Chỉ tiêu (kW/ha)": "200"
+    },
+    {
+      "_row_id": 4,
+      "Loại công nghiệp": "4. Công nghiệp giầy da, may mặc",
+      "Chỉ tiêu (kW/ha)": "160"
+    },
+    {
+      "_row_id": 5,
+      "Loại công nghiệp": "5. Cụm công nghiệp nhỏ, tiểu công nghiệp",
+      "Chỉ tiêu (kW/ha)": "140"
+    },
+    {
+      "_row_id": 6,
+      "Loại công nghiệp": "6. Các cơ sở sản xuất thủ công nghiệp",
+      "Chỉ tiêu (kW/ha)": "120"
+    },
+    {
+      "_row_id": 7,
+      "Loại công nghiệp": "7. Kho tàng",
+      "Chỉ tiêu (kW/ha)": "50"
+    }
+  ]
+}

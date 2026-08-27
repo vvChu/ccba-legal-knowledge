@@ -42,3 +42,4 @@
 | [ADR 0032](0032-catalog-query-gate-reuse-first-enforcement.md) | **— Catalog Query Gate: Cưỡng Chế Reuse-First bằng Cơ Chế Verify-Based** | ✅ ACCEPTED | `.agents/skills/ccba-adr-lifecycle/SKILL.md`<br>`CONTEXT.md`<br>`.md/knowledge/session_learnings.md` |
 | [ADR 0033](0033-spoke-md-directory-hygiene-and-archiving.md) | **Spoke .md Directory Hygiene & Archiving Structure** | ✅ ACCEPTED | `.md/knowledge/session_learnings.md` |
 | [ADR 0034](0034-okf-v2-3-dual-engine-technical-standards.md) | **OKF v2.3 Dual-Engine Technical Standards Paradigm (Parametric Visual Cards, Lossless Table Matrices & Deterministic Solvers)** | ✅ ACCEPTED | `.md/knowledge/session_learnings.md` |
+| [ADR 0035](0035-tri-tier-google-drive-vault-and-ingestion-2-0.md) | **Tri-Tier Cloud Binary Vault Architecture & Universal Ingestion Pipeline 2.0** | ✅ ACCEPTED | *Chưa có liên kết trực tiếp* |

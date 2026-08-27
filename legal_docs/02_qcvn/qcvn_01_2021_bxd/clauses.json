@@ -1,0 +1,1784 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  QUY ĐỊNH CHUNG",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 57,
+    "line_end": 57
+  },
+  {
+    "clause_id": "muc-1-1",
+    "anchor": "muc-1-1",
+    "title": "1.1  Phạm vi điều chỉnh",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 61,
+    "line_end": 61
+  },
+  {
+    "clause_id": "muc-1-2",
+    "anchor": "muc-1-2",
+    "title": "1.2  Đối tượng áp dụng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 65,
+    "line_end": 65
+  },
+  {
+    "clause_id": "muc-1-3",
+    "anchor": "muc-1-3",
+    "title": "1.3  Tài liệu viện dẫn",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 69,
+    "line_end": 69
+  },
+  {
+    "clause_id": "muc-1-4",
+    "anchor": "muc-1-4",
+    "title": "1.4  Giải thích từ ngữ",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 73,
+    "line_end": 73
+  },
+  {
+    "clause_id": "muc-1-5",
+    "anchor": "muc-1-5",
+    "title": "1.5  Yêu cầu chung",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 77,
+    "line_end": 77
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  QUY ĐỊNH KỸ THUẬT",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 81,
+    "line_end": 81
+  },
+  {
+    "clause_id": "muc-2-1",
+    "anchor": "muc-2-1",
+    "title": "2.1  Yêu cầu về đất dân dụng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 85,
+    "line_end": 85
+  },
+  {
+    "clause_id": "muc-2-2",
+    "anchor": "muc-2-2",
+    "title": "2.2  Yêu cầu về đơn vị ở",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 89,
+    "line_end": 89
+  },
+  {
+    "clause_id": "muc-2-3",
+    "anchor": "muc-2-3",
+    "title": "2.3  Yêu cầu về các công trình dịch vụ - công cộng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 93,
+    "line_end": 93
+  },
+  {
+    "clause_id": "muc-2-4",
+    "anchor": "muc-2-4",
+    "title": "2.4  Yêu cầu về đất cây xanh",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 97,
+    "line_end": 97
+  },
+  {
+    "clause_id": "muc-2-5",
+    "anchor": "muc-2-5",
+    "title": "2.5  Yêu cầu về khu công nghiệp, khu chế xuất và khu công nghệ cao",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 101,
+    "line_end": 101
+  },
+  {
+    "clause_id": "muc-2-6",
+    "anchor": "muc-2-6",
+    "title": "2.6  Yêu cầu về kiến trúc cảnh quan, thiết kế đô thị và bố cục các công trình đối với các khu vực phát triển mới",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 105,
+    "line_end": 105
+  },
+  {
+    "clause_id": "muc-2-7",
+    "anchor": "muc-2-7",
+    "title": "2.7  Yêu cầu về không gian và sử dụng đất các khu vực hiện hữu trong đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 109,
+    "line_end": 109
+  },
+  {
+    "clause_id": "muc-2-8",
+    "anchor": "muc-2-8",
+    "title": "2.8  Yêu cầu về cao độ nền và thoát nước mặt",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 113,
+    "line_end": 113
+  },
+  {
+    "clause_id": "muc-2-9",
+    "anchor": "muc-2-9",
+    "title": "2.9  Yêu cầu về giao thông",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 117,
+    "line_end": 117
+  },
+  {
+    "clause_id": "muc-2-10",
+    "anchor": "muc-2-10",
+    "title": "2.10  Yêu cầu về cấp nước",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 121,
+    "line_end": 121
+  },
+  {
+    "clause_id": "muc-2-11",
+    "anchor": "muc-2-11",
+    "title": "2.11  Yêu cầu về thoát nước và xử lý nước thải (XLNT)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 125,
+    "line_end": 125
+  },
+  {
+    "clause_id": "muc-2-12",
+    "anchor": "muc-2-12",
+    "title": "2.12  Yêu cầu về thu gom, vận chuyển và xử lý chất thải rắn (CTR)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 129,
+    "line_end": 129
+  },
+  {
+    "clause_id": "muc-2-13",
+    "anchor": "muc-2-13",
+    "title": "2.13  Yêu cầu về nhà tang lễ, nghĩa trang và cơ sở hỏa táng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 133,
+    "line_end": 133
+  },
+  {
+    "clause_id": "muc-2-14",
+    "anchor": "muc-2-14",
+    "title": "2.14  Yêu cầu về cấp điện",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 137,
+    "line_end": 137
+  },
+  {
+    "clause_id": "muc-2-15",
+    "anchor": "muc-2-15",
+    "title": "2.15  Yêu cầu về bố trí công trình hạ tầng kỹ thuật ngầm",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 141,
+    "line_end": 141
+  },
+  {
+    "clause_id": "muc-2-16",
+    "anchor": "muc-2-16",
+    "title": "2.16  Yêu cầu về quy hoạch xây dựng nông thôn",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 145,
+    "line_end": 145
+  },
+  {
+    "clause_id": "muc-1-4-1",
+    "anchor": "muc-1-4-1",
+    "title": "1.4.1  Quy hoạch xây dựng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 217,
+    "line_end": 217
+  },
+  {
+    "clause_id": "muc-1-4-2",
+    "anchor": "muc-1-4-2",
+    "title": "1.4.2  Quy hoạch đô thị:",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 225,
+    "line_end": 225
+  },
+  {
+    "clause_id": "muc-1-4-3",
+    "anchor": "muc-1-4-3",
+    "title": "1.4.3  Khu chức năng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 231,
+    "line_end": 231
+  },
+  {
+    "clause_id": "muc-1-4-4",
+    "anchor": "muc-1-4-4",
+    "title": "1.4.4  Đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 237,
+    "line_end": 237
+  },
+  {
+    "clause_id": "muc-1-4-5",
+    "anchor": "muc-1-4-5",
+    "title": "1.4.5  Đất xây dựng đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 243,
+    "line_end": 243
+  },
+  {
+    "clause_id": "muc-1-4-6",
+    "anchor": "muc-1-4-6",
+    "title": "1.4.6  Đất dân dụng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 249,
+    "line_end": 249
+  },
+  {
+    "clause_id": "muc-1-4-7",
+    "anchor": "muc-1-4-7",
+    "title": "1.4.7  Khu vực phát triển đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 255,
+    "line_end": 255
+  },
+  {
+    "clause_id": "muc-1-4-8",
+    "anchor": "muc-1-4-8",
+    "title": "1.4.8  Đơn vị ở",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 261,
+    "line_end": 261
+  },
+  {
+    "clause_id": "muc-1-4-9",
+    "anchor": "muc-1-4-9",
+    "title": "1.4.9  Nhóm nhà ở",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 267,
+    "line_end": 267
+  },
+  {
+    "clause_id": "muc-1-4-10",
+    "anchor": "muc-1-4-10",
+    "title": "1.4.10  Lô đất",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 273,
+    "line_end": 273
+  },
+  {
+    "clause_id": "muc-1-4-11",
+    "anchor": "muc-1-4-11",
+    "title": "1.4.11  Nhà ở riêng lẻ",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 279,
+    "line_end": 279
+  },
+  {
+    "clause_id": "muc-1-4-12",
+    "anchor": "muc-1-4-12",
+    "title": "1.4.12  Nhà chung cư",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 285,
+    "line_end": 285
+  },
+  {
+    "clause_id": "muc-1-4-13",
+    "anchor": "muc-1-4-13",
+    "title": "1.4.13  Đất sử dụng hỗn hợp",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 291,
+    "line_end": 291
+  },
+  {
+    "clause_id": "muc-1-4-14",
+    "anchor": "muc-1-4-14",
+    "title": "1.4.14  Công trình hỗn hợp",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 297,
+    "line_end": 297
+  },
+  {
+    "clause_id": "muc-1-4-15",
+    "anchor": "muc-1-4-15",
+    "title": "1.4.15  Đất cây xanh đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 303,
+    "line_end": 303
+  },
+  {
+    "clause_id": "muc-1-4-16",
+    "anchor": "muc-1-4-16",
+    "title": "1.4.16  Đất cây xanh sử dụng công cộng trong đơn vị ở",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 315,
+    "line_end": 315
+  },
+  {
+    "clause_id": "muc-1-4-17",
+    "anchor": "muc-1-4-17",
+    "title": "1.4.17  Điểm dân cư nông thôn",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 321,
+    "line_end": 321
+  },
+  {
+    "clause_id": "muc-1-4-18",
+    "anchor": "muc-1-4-18",
+    "title": "1.4.18  Hệ thống hạ tầng kỹ thuật (HTKT)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 327,
+    "line_end": 327
+  },
+  {
+    "clause_id": "muc-1-4-19",
+    "anchor": "muc-1-4-19",
+    "title": "1.4.19  Hệ thống hạ tầng xã hội",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 351,
+    "line_end": 351
+  },
+  {
+    "clause_id": "muc-1-4-20",
+    "anchor": "muc-1-4-20",
+    "title": "1.4.20  Mật độ xây dựng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 361,
+    "line_end": 361
+  },
+  {
+    "clause_id": "muc-1-4-21",
+    "anchor": "muc-1-4-21",
+    "title": "1.4.21  Hệ số sử dụng đất",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 371,
+    "line_end": 371
+  },
+  {
+    "clause_id": "muc-1-4-22",
+    "anchor": "muc-1-4-22",
+    "title": "1.4.22  Chỉ giới đường đỏ",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 377,
+    "line_end": 377
+  },
+  {
+    "clause_id": "muc-1-4-23",
+    "anchor": "muc-1-4-23",
+    "title": "1.4.23  Chỉ giới xây dựng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 383,
+    "line_end": 383
+  },
+  {
+    "clause_id": "muc-1-4-24",
+    "anchor": "muc-1-4-24",
+    "title": "1.4.24  Khoảng lùi",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 389,
+    "line_end": 389
+  },
+  {
+    "clause_id": "muc-1-4-25",
+    "anchor": "muc-1-4-25",
+    "title": "1.4.25  Chiều cao công trình xây dựng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 395,
+    "line_end": 395
+  },
+  {
+    "clause_id": "muc-1-4-26",
+    "anchor": "muc-1-4-26",
+    "title": "1.4.26  Khoảng cách an toàn về môi trường (ATMT)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 403,
+    "line_end": 403
+  },
+  {
+    "clause_id": "muc-1-4-27",
+    "anchor": "muc-1-4-27",
+    "title": "1.4.27  Hành lang bảo vệ an toàn",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 409,
+    "line_end": 409
+  },
+  {
+    "clause_id": "muc-1-4-28",
+    "anchor": "muc-1-4-28",
+    "title": "1.4.28  Không gian xây dựng ngầm đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 415,
+    "line_end": 415
+  },
+  {
+    "clause_id": "muc-1-4-29",
+    "anchor": "muc-1-4-29",
+    "title": "1.4.29  Tuy-nen kỹ thuật",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 421,
+    "line_end": 421
+  },
+  {
+    "clause_id": "muc-1-4-30",
+    "anchor": "muc-1-4-30",
+    "title": "1.4.30  Hào kỹ thuật",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 427,
+    "line_end": 427
+  },
+  {
+    "clause_id": "muc-1-5-1",
+    "anchor": "muc-1-5-1",
+    "title": "1.5.1  Yêu cầu về dự báo trong đồ án quy hoạch:",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 437,
+    "line_end": 437
+  },
+  {
+    "clause_id": "muc-1-5-2",
+    "anchor": "muc-1-5-2",
+    "title": "1.5.2  Yêu cầu về lựa chọn đất xây dựng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 449,
+    "line_end": 449
+  },
+  {
+    "clause_id": "muc-1-5-3",
+    "anchor": "muc-1-5-3",
+    "title": "1.5.3  Yêu cầu về định hướng tổ chức không gian cấp vùng (huyện, liên huyện)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 459,
+    "line_end": 459
+  },
+  {
+    "clause_id": "muc-1-5-4",
+    "anchor": "muc-1-5-4",
+    "title": "1.5.4  Yêu cầu về tổ chức không gian toàn đô thị và các khu chức năng trong đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 477,
+    "line_end": 477
+  },
+  {
+    "clause_id": "muc-1-5-4-1",
+    "anchor": "muc-1-5-4-1",
+    "title": "1.5.4.1  Yêu cầu về tổ chức không gian toàn đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 481,
+    "line_end": 481
+  },
+  {
+    "clause_id": "muc-1-5-4-2",
+    "anchor": "muc-1-5-4-2",
+    "title": "1.5.4.2  Yêu cầu đối với các khu chức năng, các phân khu trong đô thị và các trung tâm",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 497,
+    "line_end": 497
+  },
+  {
+    "clause_id": "muc-1-5-5",
+    "anchor": "muc-1-5-5",
+    "title": "1.5.5  Yêu cầu về quy hoạch không gian xanh, đất cây xanh đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 513,
+    "line_end": 513
+  },
+  {
+    "clause_id": "muc-1-5-6",
+    "anchor": "muc-1-5-6",
+    "title": "1.5.6  Yêu cầu về quy hoạch không gian xây dựng ngầm",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 525,
+    "line_end": 525
+  },
+  {
+    "clause_id": "muc-1-5-7",
+    "anchor": "muc-1-5-7",
+    "title": "1.5.7  Yêu cầu về quy hoạch hạ tầng kỹ thuật",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 535,
+    "line_end": 535
+  },
+  {
+    "clause_id": "muc-1-5-8",
+    "anchor": "muc-1-5-8",
+    "title": "1.5.8  Yêu cầu về quy hoạch các khu chức năng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 555,
+    "line_end": 555
+  },
+  {
+    "clause_id": "muc-1-5-9",
+    "anchor": "muc-1-5-9",
+    "title": "1.5.9  Yêu cầu về mức độ thể hiện các đồ án quy hoạch",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 561,
+    "line_end": 561
+  },
+  {
+    "clause_id": "bang-bang-2-1",
+    "anchor": "bang-bang-2-1",
+    "title": "Bảng 2.1 - Chỉ tiêu đất dân dụng bình quân toàn đô thị (tương ứng với mật độ dân số bình quân toàn đô thị/diện tích đất dân dụng)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 585,
+    "line_end": 585
+  },
+  {
+    "clause_id": "bang-bang-2-2",
+    "anchor": "bang-bang-2-2",
+    "title": "Bảng 2.2 - Chỉ tiêu đất đơn vị ở bình quân toàn đô thị theo loại đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 605,
+    "line_end": 605
+  },
+  {
+    "clause_id": "muc-2-3-1",
+    "anchor": "muc-2-3-1",
+    "title": "2.3.1  Phân cấp các công trình dịch vụ - công cộng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 635,
+    "line_end": 635
+  },
+  {
+    "clause_id": "muc-2-3-2",
+    "anchor": "muc-2-3-2",
+    "title": "2.3.2  Quy định về hệ thống công trình dịch vụ - công cộng cấp đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 643,
+    "line_end": 643
+  },
+  {
+    "clause_id": "bang-bang-2-3",
+    "anchor": "bang-bang-2-3",
+    "title": "Bảng 2.3 - Quy mô tối thiểu của các công trình dịch vụ - công cộng cấp đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 649,
+    "line_end": 649
+  },
+  {
+    "clause_id": "muc-2-3-3",
+    "anchor": "muc-2-3-3",
+    "title": "2.3.3  Quy định về hệ thống công trình dịch vụ - công cộng cấp đơn vị ở",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 674,
+    "line_end": 674
+  },
+  {
+    "clause_id": "bang-bang-2-4",
+    "anchor": "bang-bang-2-4",
+    "title": "Bảng 2.4 - Quy mô tối thiểu của các công trình dịch vụ - công cộng cấp đơn vị ở",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 682,
+    "line_end": 682
+  },
+  {
+    "clause_id": "bang-bang-2-5",
+    "anchor": "bang-bang-2-5",
+    "title": "Bảng 2.5 - Diện tích tối thiểu đất cây xanh sử dụng công cộng trong đô thị (không bao gồm đất cây xanh sử dụng công cộng trong đơn vị ở)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 713,
+    "line_end": 713
+  },
+  {
+    "clause_id": "muc-2-5-1",
+    "anchor": "muc-2-5-1",
+    "title": "2.5.1  Yêu cầu chung",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 730,
+    "line_end": 730
+  },
+  {
+    "clause_id": "muc-2-5-2",
+    "anchor": "muc-2-5-2",
+    "title": "2.5.2  Khoảng cách an toàn về môi trường (ATMT)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 744,
+    "line_end": 744
+  },
+  {
+    "clause_id": "muc-2-5-3",
+    "anchor": "muc-2-5-3",
+    "title": "2.5.3  Sử dụng đất",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 756,
+    "line_end": 756
+  },
+  {
+    "clause_id": "bang-bang-2-6",
+    "anchor": "bang-bang-2-6",
+    "title": "Bảng 2.6 - Tỷ lệ tối thiểu đất giao thông, cây xanh, các khu kỹ thuật trong khu công nghiệp, khu chế xuất và khu công nghệ cao.",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 766,
+    "line_end": 766
+  },
+  {
+    "clause_id": "muc-2-6-1",
+    "anchor": "muc-2-6-1",
+    "title": "2.6.1  Khoảng cách tối thiểu giữa các tòa nhà, công trình riêng lẻ hoặc dãy nhà liền kề (gọi chung là công trình) phải được quy định tại đồ án quy hoạch chi tiết và thiết kế đô thị. Bố trí các công trình, xác định chiều cao công trình phải đảm bảo giảm thiểu các tác động tiêu cực của điều kiện tự nhiên (nắng, gió...), tạo ra các lợi thế cho điều kiện vi khí hậu trong công trình và phải đảm bảo các quy định về phòng cháy chữa cháy. Ngoài ra khoảng cách giữa các công trình phải đáp ứng các yêu cầu:",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 782,
+    "line_end": 782
+  },
+  {
+    "clause_id": "muc-2-6-1-1",
+    "anchor": "muc-2-6-1-1",
+    "title": "2.6.1.1  Trường hợp các công trình có chiều cao < 46 m",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 786,
+    "line_end": 786
+  },
+  {
+    "clause_id": "muc-2-6-1-2",
+    "anchor": "muc-2-6-1-2",
+    "title": "2.6.1.2  Trường hợp các công trình có chiều cao ≥ 46 m",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 796,
+    "line_end": 796
+  },
+  {
+    "clause_id": "muc-2-6-1-3",
+    "anchor": "muc-2-6-1-3",
+    "title": "2.6.1.3  Khoảng cách giữa các công trình có chiều cao khác nhau lấy theo quy định của công trình có chiều cao lớn hơn.",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 804,
+    "line_end": 804
+  },
+  {
+    "clause_id": "muc-2-6-1-4",
+    "anchor": "muc-2-6-1-4",
+    "title": "2.6.1.4  Đối với công trình có chiều dài cạnh dài và chiều dài đầu hồi tương đương nhau thì mặt công trình tiếp giáp với đường giao thông lớn nhất được tính là cạnh dài của dãy nhà.",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 808,
+    "line_end": 808
+  },
+  {
+    "clause_id": "muc-2-6-2",
+    "anchor": "muc-2-6-2",
+    "title": "2.6.2  Khoảng lùi của công trình",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 812,
+    "line_end": 812
+  },
+  {
+    "clause_id": "bang-bang-2-7",
+    "anchor": "bang-bang-2-7",
+    "title": "Bảng 2.7 - Quy định khoảng lùi tối thiểu (m) của các công trình theo bề rộng đường (giới hạn bởi các chỉ giới đường đỏ) và chiều cao xây dựng công trình",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 820,
+    "line_end": 820
+  },
+  {
+    "clause_id": "muc-2-6-3",
+    "anchor": "muc-2-6-3",
+    "title": "2.6.3  Mật độ xây dựng thuần tối đa cho phép",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 831,
+    "line_end": 831
+  },
+  {
+    "clause_id": "bang-bang-2-8",
+    "anchor": "bang-bang-2-8",
+    "title": "Bảng 2.8 - Mật độ xây dựng thuần tối đa của lô đất xây dựng nhà ở riêng lẻ (nhà biệt thự, nhà ở liền kề, nhà ở độc lập)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 843,
+    "line_end": 843
+  },
+  {
+    "clause_id": "bang-bang-2-9",
+    "anchor": "bang-bang-2-9",
+    "title": "Bảng 2.9 - Mật độ xây dựng thuần tối đa của nhóm nhà chung cư theo diện tích lô đất và chiều cao công trình",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 853,
+    "line_end": 853
+  },
+  {
+    "clause_id": "bang-bang-2-10",
+    "anchor": "bang-bang-2-10",
+    "title": "Bảng 2.10 - Mật độ xây dựng thuần tối đa của lô đất thương mại dịch vụ và lô đất sử dụng hỗn hợp cao tầng theo diện tích lô đất và chiều cao công trình",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 875,
+    "line_end": 875
+  },
+  {
+    "clause_id": "muc-2-6-4",
+    "anchor": "muc-2-6-4",
+    "title": "2.6.4  Mật độ xây dựng gộp",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 903,
+    "line_end": 903
+  },
+  {
+    "clause_id": "muc-2-6-5",
+    "anchor": "muc-2-6-5",
+    "title": "2.6.5  Tỷ lệ đất trồng cây xanh trong các lô đất xây dựng công trình, phải đảm bảo quy định về tỷ lệ tối thiểu đất trồng cây xanh nêu trong Bảng 2.11.",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 917,
+    "line_end": 917
+  },
+  {
+    "clause_id": "bang-bang-2-11",
+    "anchor": "bang-bang-2-11",
+    "title": "Bảng 2.11 - Tỷ lệ đất trồng cây xanh tối thiểu trong các lô đất xây dựng công trình",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 921,
+    "line_end": 921
+  },
+  {
+    "clause_id": "muc-2-6-6",
+    "anchor": "muc-2-6-6",
+    "title": "2.6.6  Kích thước trong lô đất quy hoạch xây dựng công trình nhà ở",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 931,
+    "line_end": 931
+  },
+  {
+    "clause_id": "muc-2-6-7",
+    "anchor": "muc-2-6-7",
+    "title": "2.6.7  Quy định về các chi tiết kiến trúc của công trình tiếp giáp với tuyến đường",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 941,
+    "line_end": 941
+  },
+  {
+    "clause_id": "muc-2-6-8",
+    "anchor": "muc-2-6-8",
+    "title": "2.6.8  Quan hệ với các công trình bên cạnh",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 951,
+    "line_end": 951
+  },
+  {
+    "clause_id": "muc-2-6-9",
+    "anchor": "muc-2-6-9",
+    "title": "2.6.9  Cổng ra vào, hàng rào của các công trình dịch vụ - công cộng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 959,
+    "line_end": 959
+  },
+  {
+    "clause_id": "muc-2-6-10",
+    "anchor": "muc-2-6-10",
+    "title": "2.6.10  Bảng thông tin, quảng cáo phải tuân thủ QCVN 17:2018/BXD.",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 967,
+    "line_end": 967
+  },
+  {
+    "clause_id": "muc-2-6-11",
+    "anchor": "muc-2-6-11",
+    "title": "2.6.11  Cửa hàng xăng dầu xây dựng cố định",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 971,
+    "line_end": 971
+  },
+  {
+    "clause_id": "muc-2-6-12",
+    "anchor": "muc-2-6-12",
+    "title": "2.6.12  Công trình cấp khí đốt",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 985,
+    "line_end": 985
+  },
+  {
+    "clause_id": "muc-2-6-13",
+    "anchor": "muc-2-6-13",
+    "title": "2.6.13  Công trình phòng cháy, chữa cháy",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 997,
+    "line_end": 997
+  },
+  {
+    "clause_id": "muc-2-7-1",
+    "anchor": "muc-2-7-1",
+    "title": "2.7.1  Quy định chung",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1011,
+    "line_end": 1011
+  },
+  {
+    "clause_id": "muc-2-7-2",
+    "anchor": "muc-2-7-2",
+    "title": "2.7.2  Quy định về đối tượng áp dụng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1031,
+    "line_end": 1031
+  },
+  {
+    "clause_id": "muc-2-7-3",
+    "anchor": "muc-2-7-3",
+    "title": "2.7.3  Quy định về sử dụng đất",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1043,
+    "line_end": 1043
+  },
+  {
+    "clause_id": "muc-2-7-4",
+    "anchor": "muc-2-7-4",
+    "title": "2.7.4  Quy định về bán kính phục vụ các công trình dịch vụ - công cộng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1055,
+    "line_end": 1055
+  },
+  {
+    "clause_id": "muc-2-7-5",
+    "anchor": "muc-2-7-5",
+    "title": "2.7.5  Quy định về khoảng lùi công trình trên các tuyến đường",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1061,
+    "line_end": 1061
+  },
+  {
+    "clause_id": "muc-2-7-6",
+    "anchor": "muc-2-7-6",
+    "title": "2.7.6  Quy định về khoảng cách tối thiểu giữa các dãy nhà, công trình",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1067,
+    "line_end": 1067
+  },
+  {
+    "clause_id": "muc-2-7-7",
+    "anchor": "muc-2-7-7",
+    "title": "2.7.7  Quy định về mật độ xây dựng thuần",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1073,
+    "line_end": 1073
+  },
+  {
+    "clause_id": "bang-bang-2-12",
+    "anchor": "bang-bang-2-12",
+    "title": "Bảng 2.12 - Hệ số sử dụng đất tối đa của lô đất chung cư, công trình dịch vụ đô thị và công trình sử dụng hỗn hợp cao tầng theo diện tích lô đất và chiều cao công trình",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1083,
+    "line_end": 1083
+  },
+  {
+    "clause_id": "muc-2-8-1",
+    "anchor": "muc-2-8-1",
+    "title": "2.8.1  Yêu cầu đối với quy hoạch cao độ nền",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1109,
+    "line_end": 1109
+  },
+  {
+    "clause_id": "bang-bang-2-13",
+    "anchor": "bang-bang-2-13",
+    "title": "Bảng 2.13 - Chu kỳ lặp lại mực nước ngập tính toán (năm) đối với khu chức năng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1121,
+    "line_end": 1121
+  },
+  {
+    "clause_id": "muc-2-8-2",
+    "anchor": "muc-2-8-2",
+    "title": "2.8.2  Yêu cầu về hệ thống thoát nước mặt",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1133,
+    "line_end": 1133
+  },
+  {
+    "clause_id": "bang-bang-2-14",
+    "anchor": "bang-bang-2-14",
+    "title": "Bảng 2.14 - Chu kỳ lặp lại trận mưa gây tràn cống tối thiểu (năm)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1151,
+    "line_end": 1151
+  },
+  {
+    "clause_id": "muc-2-9-1",
+    "anchor": "muc-2-9-1",
+    "title": "2.9.1  Yêu cầu chung",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1168,
+    "line_end": 1168
+  },
+  {
+    "clause_id": "muc-2-9-2",
+    "anchor": "muc-2-9-2",
+    "title": "2.9.2  Hệ thống giao thông đối ngoại",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1178,
+    "line_end": 1178
+  },
+  {
+    "clause_id": "muc-2-9-2-1",
+    "anchor": "muc-2-9-2-1",
+    "title": "2.9.2.1  Đường bộ",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1182,
+    "line_end": 1182
+  },
+  {
+    "clause_id": "muc-2-9-2-2",
+    "anchor": "muc-2-9-2-2",
+    "title": "2.9.2.2  Đường sắt",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1190,
+    "line_end": 1190
+  },
+  {
+    "clause_id": "bang-bang-2-15",
+    "anchor": "bang-bang-2-15",
+    "title": "Bảng 2.15 - Kích thước nền các loại ga",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1200,
+    "line_end": 1200
+  },
+  {
+    "clause_id": "muc-2-9-2-3",
+    "anchor": "muc-2-9-2-3",
+    "title": "2.9.2.3  Đường hàng không",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1217,
+    "line_end": 1217
+  },
+  {
+    "clause_id": "muc-2-9-2-4",
+    "anchor": "muc-2-9-2-4",
+    "title": "2.9.2.4  Đường thủy",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1225,
+    "line_end": 1225
+  },
+  {
+    "clause_id": "bang-bang-2-16",
+    "anchor": "bang-bang-2-16",
+    "title": "Bảng 2.16 - Quy định về diện tích cảng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1231,
+    "line_end": 1231
+  },
+  {
+    "clause_id": "muc-2-9-3",
+    "anchor": "muc-2-9-3",
+    "title": "2.9.3  Hệ thống giao thông đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1244,
+    "line_end": 1244
+  },
+  {
+    "clause_id": "muc-2-9-3-1",
+    "anchor": "muc-2-9-3-1",
+    "title": "2.9.3.1  Hệ thống đường đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1248,
+    "line_end": 1248
+  },
+  {
+    "clause_id": "bang-bang-2-17",
+    "anchor": "bang-bang-2-17",
+    "title": "Bảng 2.17 - Quy định về các loại đường trong đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1264,
+    "line_end": 1264
+  },
+  {
+    "clause_id": "muc-2-9-3-2",
+    "anchor": "muc-2-9-3-2",
+    "title": "2.9.3.2  Quảng trường giao thông, chỗ giao nhau giữa các đường đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1282,
+    "line_end": 1282
+  },
+  {
+    "clause_id": "muc-2-9-3-3",
+    "anchor": "muc-2-9-3-3",
+    "title": "2.9.3.3  Mạng lưới giao thông vận tải hành khách công cộng.",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1292,
+    "line_end": 1292
+  },
+  {
+    "clause_id": "muc-2-9-3-4",
+    "anchor": "muc-2-9-3-4",
+    "title": "2.9.3.4  Hệ thống đường sắt đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1306,
+    "line_end": 1306
+  },
+  {
+    "clause_id": "muc-2-9-4",
+    "anchor": "muc-2-9-4",
+    "title": "2.9.4  Công trình giao thông khác trong đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1320,
+    "line_end": 1320
+  },
+  {
+    "clause_id": "bang-bang-2-18",
+    "anchor": "bang-bang-2-18",
+    "title": "Bảng 2.18 - Chỉ tiêu tính toán diện tích bãi đỗ xe toàn đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1340,
+    "line_end": 1340
+  },
+  {
+    "clause_id": "bang-bang-2-19",
+    "anchor": "bang-bang-2-19",
+    "title": "Bảng 2.19 - Số chỗ đỗ xe ô-tô con tối thiểu",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1354,
+    "line_end": 1354
+  },
+  {
+    "clause_id": "muc-2-9-5",
+    "anchor": "muc-2-9-5",
+    "title": "2.9.5  Quy định về đảm bảo an toàn giao thông đô thị",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1366,
+    "line_end": 1366
+  },
+  {
+    "clause_id": "muc-2-10-1",
+    "anchor": "muc-2-10-1",
+    "title": "2.10.1  Khu vực bảo vệ của điểm lấy nước, công trình cấp nước",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1378,
+    "line_end": 1378
+  },
+  {
+    "clause_id": "bang-bang-2-20",
+    "anchor": "bang-bang-2-20",
+    "title": "Bảng 2.20 - Khu vực bảo vệ của điểm lấy nước, công trình cấp nước",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1386,
+    "line_end": 1386
+  },
+  {
+    "clause_id": "muc-2-10-2",
+    "anchor": "muc-2-10-2",
+    "title": "2.10.2  Nhu cầu sử dụng nước",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1407,
+    "line_end": 1407
+  },
+  {
+    "clause_id": "muc-2-10-3",
+    "anchor": "muc-2-10-3",
+    "title": "2.10.3  Nguồn nước và công trình cấp nước",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1425,
+    "line_end": 1425
+  },
+  {
+    "clause_id": "bang-bang-2-21",
+    "anchor": "bang-bang-2-21",
+    "title": "Bảng 2.21 - Diện tích nhà máy nước, trạm cấp nước",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1435,
+    "line_end": 1435
+  },
+  {
+    "clause_id": "muc-2-10-4",
+    "anchor": "muc-2-10-4",
+    "title": "2.10.4  Mạng lưới cấp nước",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1453,
+    "line_end": 1453
+  },
+  {
+    "clause_id": "muc-2-10-5",
+    "anchor": "muc-2-10-5",
+    "title": "2.10.5  Cấp nước chữa cháy",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1465,
+    "line_end": 1465
+  },
+  {
+    "clause_id": "muc-2-11-1",
+    "anchor": "muc-2-11-1",
+    "title": "2.11.1  Lưu lượng nước thải phát sinh",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1481,
+    "line_end": 1481
+  },
+  {
+    "clause_id": "muc-2-11-2",
+    "anchor": "muc-2-11-2",
+    "title": "2.11.2  Mạng lưới thoát nước",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1489,
+    "line_end": 1489
+  },
+  {
+    "clause_id": "muc-2-11-3",
+    "anchor": "muc-2-11-3",
+    "title": "2.11.3  Nhà máy xử lý nước thải, trạm xử lý nước thải (XLNT)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1499,
+    "line_end": 1499
+  },
+  {
+    "clause_id": "muc-2-11-4",
+    "anchor": "muc-2-11-4",
+    "title": "2.11.4  Quy định khoảng cách an toàn về môi trường (ATMT)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1513,
+    "line_end": 1513
+  },
+  {
+    "clause_id": "bang-bang-2-22",
+    "anchor": "bang-bang-2-22",
+    "title": "Bảng 2.22 - Khoảng cách an toàn về môi trường (ATMT)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1519,
+    "line_end": 1519
+  },
+  {
+    "clause_id": "muc-2-12-1",
+    "anchor": "muc-2-12-1",
+    "title": "2.12.1  Khối lượng CTR phát sinh",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1552,
+    "line_end": 1552
+  },
+  {
+    "clause_id": "bang-bang-2-23",
+    "anchor": "bang-bang-2-23",
+    "title": "Bảng 2.23 - Lượng CTR sinh hoạt phát sinh",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1558,
+    "line_end": 1558
+  },
+  {
+    "clause_id": "muc-2-12-2",
+    "anchor": "muc-2-12-2",
+    "title": "2.12.2  Trạm trung chuyển CTR sinh hoạt",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1573,
+    "line_end": 1573
+  },
+  {
+    "clause_id": "bang-bang-2-24",
+    "anchor": "bang-bang-2-24",
+    "title": "Bảng 2.24 - Loại và quy mô trạm trung chuyển CTR sinh hoạt",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1583,
+    "line_end": 1583
+  },
+  {
+    "clause_id": "muc-2-12-3",
+    "anchor": "muc-2-12-3",
+    "title": "2.12.3  Cơ sở xử lý CTR",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1598,
+    "line_end": 1598
+  },
+  {
+    "clause_id": "muc-2-12-4",
+    "anchor": "muc-2-12-4",
+    "title": "2.12.4  Khoảng cách an toàn môi trường (ATMT) của trạm trung chuyển chất thải rắn, cơ sở xử lý chất thải rắn (CTR)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1610,
+    "line_end": 1610
+  },
+  {
+    "clause_id": "muc-2-13-1",
+    "anchor": "muc-2-13-1",
+    "title": "2.13.1  Nhà tang lễ",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1640,
+    "line_end": 1640
+  },
+  {
+    "clause_id": "muc-2-13-2",
+    "anchor": "muc-2-13-2",
+    "title": "2.13.2  Nghĩa trang, cơ sở hỏa táng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1650,
+    "line_end": 1650
+  },
+  {
+    "clause_id": "bang-bang-2-25",
+    "anchor": "bang-bang-2-25",
+    "title": "Bảng 2.25 - Khoảng cách an toàn về môi trường của nghĩa trang",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1670,
+    "line_end": 1670
+  },
+  {
+    "clause_id": "muc-2-14-1",
+    "anchor": "muc-2-14-1",
+    "title": "2.14.1  Chỉ tiêu cấp điện",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1688,
+    "line_end": 1688
+  },
+  {
+    "clause_id": "bang-bang-2-26",
+    "anchor": "bang-bang-2-26",
+    "title": "Bảng 2.26 - Chỉ tiêu cấp điện sinh hoạt (theo người)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1696,
+    "line_end": 1696
+  },
+  {
+    "clause_id": "bang-bang-2-27",
+    "anchor": "bang-bang-2-27",
+    "title": "Bảng 2.27 - Chỉ tiêu cấp điện công trình công cộng, dịch vụ (theo %)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1706,
+    "line_end": 1706
+  },
+  {
+    "clause_id": "bang-bang-2-28",
+    "anchor": "bang-bang-2-28",
+    "title": "Bảng 2.28 - Chỉ tiêu cấp điện công trình công cộng, dịch vụ",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1714,
+    "line_end": 1714
+  },
+  {
+    "clause_id": "bang-bang-2-29",
+    "anchor": "bang-bang-2-29",
+    "title": "Bảng 2.29 - Chỉ tiêu cấp điện cho sản xuất công nghiệp, kho tàng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1730,
+    "line_end": 1730
+  },
+  {
+    "clause_id": "muc-2-14-2",
+    "anchor": "muc-2-14-2",
+    "title": "2.14.2  Hệ thống cấp điện",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1744,
+    "line_end": 1744
+  },
+  {
+    "clause_id": "muc-2-14-3",
+    "anchor": "muc-2-14-3",
+    "title": "2.14.3  Quỹ đất bố trí công trình",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1756,
+    "line_end": 1756
+  },
+  {
+    "clause_id": "bang-bang-2-30",
+    "anchor": "bang-bang-2-30",
+    "title": "Bảng 2.30 - Khoảng cách tối thiểu giữa các công trình hạ tầng kỹ thuật ngầm đô thị không nằm trong tuy-nen hoặc hào kỹ thuật (m)",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1770,
+    "line_end": 1770
+  },
+  {
+    "clause_id": "muc-2-16-1",
+    "anchor": "muc-2-16-1",
+    "title": "2.16.1  Quy định đối với khu đất xây dựng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1806,
+    "line_end": 1806
+  },
+  {
+    "clause_id": "muc-2-16-2",
+    "anchor": "muc-2-16-2",
+    "title": "2.16.2  Quy định về chỉ tiêu sử dụng đất",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1818,
+    "line_end": 1818
+  },
+  {
+    "clause_id": "bang-bang-2-31",
+    "anchor": "bang-bang-2-31",
+    "title": "Bảng 2.31 - Chỉ tiêu sử dụng đất tối thiểu điểm dân cư nông thôn",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1824,
+    "line_end": 1824
+  },
+  {
+    "clause_id": "muc-2-16-3",
+    "anchor": "muc-2-16-3",
+    "title": "2.16.3  Các khu chức năng của xã",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1837,
+    "line_end": 1837
+  },
+  {
+    "clause_id": "muc-2-16-4",
+    "anchor": "muc-2-16-4",
+    "title": "2.16.4  Yêu cầu về phân khu chức năng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1855,
+    "line_end": 1855
+  },
+  {
+    "clause_id": "muc-2-16-5",
+    "anchor": "muc-2-16-5",
+    "title": "2.16.5  Quy định về khu dân cư",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1871,
+    "line_end": 1871
+  },
+  {
+    "clause_id": "muc-2-16-5-1",
+    "anchor": "muc-2-16-5-1",
+    "title": "2.16.5.1  Đất xây dựng khu dân cư phải đảm bảo:",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1875,
+    "line_end": 1875
+  },
+  {
+    "clause_id": "muc-2-16-5-2",
+    "anchor": "muc-2-16-5-2",
+    "title": "2.16.5.2  Các chức năng cơ bản cho lô đất hộ gia đình gồm:",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1885,
+    "line_end": 1885
+  },
+  {
+    "clause_id": "muc-2-16-5-3",
+    "anchor": "muc-2-16-5-3",
+    "title": "2.16.5.3  Yêu cầu cho lô đất hộ gia đình",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1895,
+    "line_end": 1895
+  },
+  {
+    "clause_id": "muc-2-16-6",
+    "anchor": "muc-2-16-6",
+    "title": "2.16.6  Quy định về khu trung tâm xã",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1903,
+    "line_end": 1903
+  },
+  {
+    "clause_id": "muc-2-16-6-1",
+    "anchor": "muc-2-16-6-1",
+    "title": "2.16.6.1  Khu trung tâm chính xã bố trí các công trình sau:",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1907,
+    "line_end": 1907
+  },
+  {
+    "clause_id": "muc-2-16-6-2",
+    "anchor": "muc-2-16-6-2",
+    "title": "2.16.6.2  Trụ sở làm việc cơ quan xã",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1917,
+    "line_end": 1917
+  },
+  {
+    "clause_id": "muc-2-16-6-3",
+    "anchor": "muc-2-16-6-3",
+    "title": "2.16.6.3  Các công trình công cộng, dịch vụ",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1927,
+    "line_end": 1927
+  },
+  {
+    "clause_id": "bang-bang-2-32",
+    "anchor": "bang-bang-2-32",
+    "title": "Bảng 2.32 - Quy định về quy mô tối thiểu của các công trình công cộng, dịch vụ",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1931,
+    "line_end": 1931
+  },
+  {
+    "clause_id": "muc-2-16-7",
+    "anchor": "muc-2-16-7",
+    "title": "2.16.7  Quy định về khu vực chăn nuôi, sản xuất và phục vụ sản xuất nông nghiệp",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1957,
+    "line_end": 1957
+  },
+  {
+    "clause_id": "muc-2-16-8",
+    "anchor": "muc-2-16-8",
+    "title": "2.16.8  Quy định về khu sản xuất tiểu thủ công nghiệp, cụm công nghiệp tập trung",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1967,
+    "line_end": 1967
+  },
+  {
+    "clause_id": "muc-2-16-9",
+    "anchor": "muc-2-16-9",
+    "title": "2.16.9  Quy định về cây xanh",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1977,
+    "line_end": 1977
+  },
+  {
+    "clause_id": "muc-2-16-10",
+    "anchor": "muc-2-16-10",
+    "title": "2.16.10  Quy định về cửa hàng xăng dầu và công trình cấp khí đốt",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1989,
+    "line_end": 1989
+  },
+  {
+    "clause_id": "muc-2-16-11",
+    "anchor": "muc-2-16-11",
+    "title": "2.16.11  Quy định về cao độ nền và thoát nước mặt",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1997,
+    "line_end": 1997
+  },
+  {
+    "clause_id": "muc-2-16-11-1",
+    "anchor": "muc-2-16-11-1",
+    "title": "2.16.11.1  Phòng chống thiên tai, thảm họa",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2001,
+    "line_end": 2001
+  },
+  {
+    "clause_id": "muc-2-16-11-2",
+    "anchor": "muc-2-16-11-2",
+    "title": "2.16.11.2  Cao độ nền",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2015,
+    "line_end": 2015
+  },
+  {
+    "clause_id": "muc-2-16-11-3",
+    "anchor": "muc-2-16-11-3",
+    "title": "2.16.11.3  Hệ thống thoát nước mặt",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2023,
+    "line_end": 2023
+  },
+  {
+    "clause_id": "muc-2-16-12",
+    "anchor": "muc-2-16-12",
+    "title": "2.16.12  Quy định về giao thông",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2031,
+    "line_end": 2031
+  },
+  {
+    "clause_id": "muc-2-16-13",
+    "anchor": "muc-2-16-13",
+    "title": "2.16.13  Quy định về cấp nước",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2043,
+    "line_end": 2043
+  },
+  {
+    "clause_id": "muc-2-16-13-1",
+    "anchor": "muc-2-16-13-1",
+    "title": "2.16.13.1  Chỉ tiêu cấp nước",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2047,
+    "line_end": 2047
+  },
+  {
+    "clause_id": "muc-2-16-13-2",
+    "anchor": "muc-2-16-13-2",
+    "title": "2.16.13.2  Khu vực bảo vệ nguồn nước công cộng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2057,
+    "line_end": 2057
+  },
+  {
+    "clause_id": "muc-2-16-14",
+    "anchor": "muc-2-16-14",
+    "title": "2.16.14  Quy định về cấp điện và chiếu sáng công cộng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2065,
+    "line_end": 2065
+  },
+  {
+    "clause_id": "muc-2-16-14-1",
+    "anchor": "muc-2-16-14-1",
+    "title": "2.16.14.1  Yêu cầu chung",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2069,
+    "line_end": 2069
+  },
+  {
+    "clause_id": "muc-2-16-14-2",
+    "anchor": "muc-2-16-14-2",
+    "title": "2.16.14.2  Phụ tải điện",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2079,
+    "line_end": 2079
+  },
+  {
+    "clause_id": "muc-2-16-14-3",
+    "anchor": "muc-2-16-14-3",
+    "title": "2.16.14.3  Hệ thống cấp điện và chiếu sáng công cộng",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2089,
+    "line_end": 2089
+  },
+  {
+    "clause_id": "muc-2-16-15",
+    "anchor": "muc-2-16-15",
+    "title": "2.16.15  Quy định về thoát nước thải",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2103,
+    "line_end": 2103
+  },
+  {
+    "clause_id": "muc-2-16-16",
+    "anchor": "muc-2-16-16",
+    "title": "2.16.16  Quy định về quản lý chất thải rắn",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2113,
+    "line_end": 2113
+  },
+  {
+    "clause_id": "muc-2-16-17",
+    "anchor": "muc-2-16-17",
+    "title": "2.16.17  Quy định về nghĩa trang",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2127,
+    "line_end": 2127
+  },
+  {
+    "clause_id": "muc-3-1",
+    "anchor": "muc-3-1",
+    "title": "3.1  Quy chuẩn này quy định về các mức giới hạn của đặc tính kỹ thuật và yêu cầu quản lý bắt buộc phải tuân thủ trong công tác quy hoạch xây dựng, là công cụ để cơ quan quản lý nhà nước về quy hoạch xây dựng kiểm tra, giám sát việc lựa chọn các chỉ tiêu, thông số kỹ thuật và yêu cầu thiết kế trong đồ án quy hoạch, đồ án thiết kế đô thị và quy chế quản lý kiến trúc.",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2139,
+    "line_end": 2139
+  },
+  {
+    "clause_id": "muc-3-2",
+    "anchor": "muc-3-2",
+    "title": "3.2  Việc lựa chọn các chỉ tiêu, thông số kỹ thuật và yêu cầu thiết kế trong đồ án quy hoạch, đồ án thiết kế đô thị, quy chế quản lý kiến trúc dựa trên tiêu chuẩn được lựa chọn áp dụng hoặc các phương pháp luận khoa học khác nhưng phải đảm bảo sự phù hợp với quy định trong quy chuẩn này.",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2143,
+    "line_end": 2143
+  },
+  {
+    "clause_id": "muc-3-3",
+    "anchor": "muc-3-3",
+    "title": "3.3  Công tác quản lý đô thị phải căn cứ vào đồ án quy hoạch (quy hoạch chung, quy hoạch phân khu, quy hoạch chi tiết), đồ án thiết kế đô thị và quy chế quản lý kiến trúc được duyệt.",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2147,
+    "line_end": 2147
+  },
+  {
+    "clause_id": "muc-3-4",
+    "anchor": "muc-3-4",
+    "title": "3.4  Quy định chuyển tiếp",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2151,
+    "line_end": 2151
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Mọi tổ chức, cá nhân khi tham gia các hoạt động liên quan đến công tác quy hoạch xây dựng bao gồm lập, thẩm định, phê duyệt, điều chỉnh quy hoạch, tổ chức thực hiện quy hoạch, quản lý phát triển theo quy hoạch đã được phê duyệt và công tác xây dựng tiêu chuẩn quốc gia, quy chuẩn địa phương trong lĩnh vực quy hoạch xây dựng phải tuân thủ các quy định của quy chuẩn này.",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2165,
+    "line_end": 2165
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Các cơ quan quản lý Nhà nước về quy hoạch xây dựng, hoạt động xây dựng tại các địa phương có trách nhiệm tổ chức kiểm tra sự tuân thủ quy chuẩn này trong lập, thẩm định, phê duyệt và quản lý quy hoạch xây dựng trên địa bàn.",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2169,
+    "line_end": 2169
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Bộ Xây dựng chịu trách nhiệm phổ biến, hướng dẫn áp dụng quy chuẩn này cho các đối tượng có liên quan.",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2175,
+    "line_end": 2175
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Trong quá trình triển khai thực hiện quy chuẩn này, nếu có vướng mắc, mọi ý kiến gửi về Vụ Khoa học Công nghệ và Môi trường (Bộ Xây dựng) để được hướng dẫn và xử lý.",
+    "source_file": "qcvn_01_2021_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2179,
+    "line_end": 2179
+  }
+]

@@ -2,11 +2,11 @@ version: 0.3.0
 updated_at: '2026-08-17T17:30:00Z'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 30
+  total_documents: 33
   categories:
     01_vbpl: 24
-    02_qcvn: 2
-    03_tcvn: 1
+    02_qcvn: 4
+    03_tcvn: 2
     04_appendices: 3
 documents: {}
 laws:
@@ -489,6 +489,41 @@ laws:
   sha256: e572234523c1ae846f88408264e6d473b55a15364f81d6141108b445b6ae3abe
   source_file: .md\extracted_docs\thong_tu_79_2026_tt_btc\79_2026_TT-BTC_713348.docx
   source_file_size_kb: 65.6
+- id: QCVN-01-2021-BXD
+  document_number: QCVN 01:2021/BXD
+  title: QCVN 01:2021/BXD — Quy chuẩn kỹ thuật quốc gia về Quy hoạch xây dựng
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Xây dựng
+  signer: Lê Quang Hùng
+  issued_date: '2021-05-19'
+  effective_date: '2021-07-05'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_01_2021_bxd/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-01-2021-TT-BXD-QCVN-01-2021-BXD-Quy-chuan-ky-thuat-quoc-gia-ve-Quy-hoach-xay-dung-474747.aspx
+  pdf_path: legal_docs/02_qcvn/qcvn_01_2021_bxd/qcvn_01_2021_bxd.pdf
+  pdf_sha256: b74016776ef230147524cf7f1b30f57ca51425818502238ed8203d7623c10abf
+  cong_bao_number: Đang cập nhật
+  pdf_status: verified
+  sha256: b74016776ef230147524cf7f1b30f57ca51425818502238ed8203d7623c10abf
+  source_file: .md\extracted_docs\01_2021_tt_bxd\01_2021_TT-BXD_474747.docx
+  source_file_size_kb: 71.7
+  source_assets:
+    docx:
+      sha256: b74016776ef230147524cf7f1b30f57ca51425818502238ed8203d7623c10abf
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_01_2021_bxd/01_2021_TT-BXD_474747.docx
+      gdrive_file_id: 1ZU5NXVaRnneCFB3v2mBdZXEYba6HW3jG3ipqhEc3RUk
+      gdrive_view_url: https://docs.google.com/document/d/1ZU5NXVaRnneCFB3v2mBdZXEYba6HW3jG3ipqhEc3RUk/edit?usp=drivesdk
+
+      status: synced
+    pdf:
+      sha256: b74016776ef230147524cf7f1b30f57ca51425818502238ed8203d7623c10abf
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_01_2021_bxd/qcvn_01_2021_bxd.pdf
+      gdrive_file_id: 1T1rMv7UX8cLjVHle6FGO09zgdNls4gew
+      gdrive_view_url: https://drive.google.com/file/d/1T1rMv7UX8cLjVHle6FGO09zgdNls4gew/view?usp=drivesdk
+      status: verified
+  relations:
+    replaces: QCVN-01-2019-BXD
+
 - id: QCVN-02-2022-BXD
   document_number: QCVN 02:2022/BXD
   title: QCVN 02:2022/BXD — Quy chuẩn kỹ thuật quốc gia về Số liệu điều kiện tự nhiên
