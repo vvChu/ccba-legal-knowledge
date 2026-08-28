@@ -192,3 +192,19 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - 100% liên kết chéo và thẻ neo hình ảnh, bảng biểu trên toàn bộ 31 gói tri thức được chuẩn hóa chính xác tuyệt đối.
   5. **Quy Chuẩn Dọn Dẹp Scratch (Zero-Scratch Invariant):**
      - Tự động di chuyển toàn bộ script thử nghiệm sang `.md/archive/rd_scratch/`, giữ sạch 100% thư mục gốc và `scripts/`.
+
+---
+
+## 14. Documentation-as-Code Parity CI Governance, Shallow Path Adoption & Closed-Loop Release (2026-08-28)
+
+- **Thành quả Quản Trị Hệ Thống & Chống Lệch Pha (Zero Doc-Code Drift):**
+  1. **Tấm Khiên Kiểm Thử Tương Thích Lệnh - Mã Nguồn (test_workflow_script_parity.py):**
+     - Xây dựng bài test CI tự động quét 100% các file .agents/workflows/*.md và .agents/skills/**/SKILL.md.
+     - Tự động bóc tách mọi lệnh python scripts/..., python -m <package>, và liên kết tương đối. Báo lỗi chặn build ngay lập tức nếu phát hiện script đã bị đổi tên/xóa hoặc module chưa đăng ký.
+     - Chuẩn hóa toàn bộ 68 workflows và 76 skills trên Hub, đồng bộ 24/24 governance tests pass 100%.
+  2. **Nâng Cấp Bộ Nhận Diện Vòng Đời Spoke (spoke_adopter.py - Hub ADR-0041, ADR 0036):**
+     - Nâng cấp detect_spoke_stack trong /ccba-adopt-spoke để tự động nhận diện Spoke Tri thức theo mô hình Shallow Path Cấp 1 (legal_docs/ và legal_registry.yaml ở Root), gán chính xác Archetype knowledge_corpus.
+     - Cập nhật Mẫu C trong /ccba-init-spoke lên chuẩn OKF v2.4 Universal Agent-Centric.
+  3. **Quy Trình Khép Kín Đóng Góp & Phát Hành (Closed-Loop Release Loop):**
+     - Hoàn tất quy trình mẫu 7 bước: R&D -> /ccba-graduate-rd -> /ccba-contribute-to-hub (Hub PR #220) -> /ccba-create-pr & /ccba-release-feature (Spoke PR #1) -> sync_spoke.py --apply.
+     - Cả 2 repositories Hub và Spoke đều đạt trạng thái sạch sẽ, 100% tích hợp và đồng bộ với GitHub origin.

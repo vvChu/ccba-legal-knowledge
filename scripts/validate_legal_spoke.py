@@ -522,10 +522,18 @@ class LegalSpokeValidator:
 
         adr_files = sorted(f for f in adr_dir.glob("*.md") if f.name not in ("README.md", "TRACEABILITY_MATRIX.md"))
         adr_list = sorted([parse_adr_file(f) for f in adr_files], key=lambda x: x["num"])
+        known_nums = {a["num"] for a in adr_list}
+        # Include Hub Platform ADR numbers if Hub is accessible
+        for hub_candidate in [Path("D:/GitHubProjects/ccba-agent-platform/docs/adr"), self.root_dir.parent / "ccba-agent-platform" / "docs" / "adr"]:
+            if hub_candidate.exists():
+                for f in hub_candidate.glob("*.md"):
+                    m = re.match(r"^(\d+)-", f.name)
+                    if m:
+                        known_nums.add(int(m.group(1)))
 
         self._sync_adr_artifacts(adr_dir, adr_list)
         self._lint_session_learnings(self.root_dir / ".md" / "knowledge" / "session_learnings.md")
-        self._check_core_adr_references({a["num"] for a in adr_list})
+        self._check_core_adr_references(known_nums)
 
         return (len(self.errors), len(self.warnings))
 
