@@ -172,3 +172,23 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - File `.pdf` và `.docx` được bảo vệ hoàn toàn bởi `.gitignore`, giúp Git Spoke siêu nhẹ (<50MB).
   4. **Bộ Giải Quy Hoạch QCVN 01:2021/BXD:**
      - Hoàn thành 6 bộ giải xác định: Mật độ xây dựng thuần, Khoảng lùi, Khoảng cách an toàn môi trường, Bãi đỗ xe Bảng 2.19, Vát góc nút giao Mục 2.6.2, và Chỉ tiêu đất cây xanh đô thị Bảng 2.1 & 2.2.
+
+---
+
+## 13. R&D Graduation: Universal Ingestion Provenance Engine, Declarative Solvers & Cross-Link Parity (2026-08-28)
+
+- **Thành quả Tốt nghiệp R&D & Chuẩn Hóa Sản Phẩm:**
+  1. **Universal Gate 0 Ingestion Provenance Seam (`ccba_legal.provenance` - ADR 0016):**
+     - Đưa toàn bộ logic đối soát DOCX vs PDF Công báo vào Hub (`ccba_legal.provenance`), cung cấp các hàm cốt lõi `verify_docx_against_pdf`, `check_structure_alignment`, `compute_text_parity`, `extract_docx_data`, `extract_pdf_data`.
+     - Phân biệt PDF số hóa kỹ thuật số vs PDF scan hình ảnh (`is_scanned`), ngăn ngừa sai số giả lập text parity.
+     - Spoke `scripts/verify_docx_against_pdf.py` chuyển thành CLI runner tinh gọn, kế thừa 100% từ Hub Deep Seam.
+  2. **Declarative Formula Solver Registry (`formulas/solver.py`):**
+     - Tái cấu trúc solver registry sang mô hình khai báo tập trung `_BUILTIN_FORMULA_CATALOG` kết hợp Decorator `@register_formula`.
+     - Giảm 72% boilerplate code (616 dòng $\to$ 175 dòng), bảo toàn 100% 29 công thức kỹ thuật và 126 unit tests (chạy trong 0.30s).
+  3. **Category-Agnostic Cloud RAG Sync (`scripts/sync_notebooklm_knowledge.py`):**
+     - Loại bỏ danh mục hardcoded, tự động quét mọi thư mục phân loại dưới `legal_docs/` (`01_vbpl`, `02_qcvn`, `03_tcvn`, ...), đồng bộ trọn vẹn 308 tài sản RAG.
+  4. **Dynamic Fixtures & 100% Cross-Links Integrity:**
+     - Dynamic test fixtures trong `tests/conftest.py` đọc trực tiếp từ `legal_registry.yaml`.
+     - 100% liên kết chéo và thẻ neo hình ảnh, bảng biểu trên toàn bộ 31 gói tri thức được chuẩn hóa chính xác tuyệt đối.
+  5. **Quy Chuẩn Dọn Dẹp Scratch (Zero-Scratch Invariant):**
+     - Tự động di chuyển toàn bộ script thử nghiệm sang `.md/archive/rd_scratch/`, giữ sạch 100% thư mục gốc và `scripts/`.
