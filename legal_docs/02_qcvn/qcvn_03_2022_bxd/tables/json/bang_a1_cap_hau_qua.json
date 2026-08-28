@@ -1,0 +1,38 @@
+[
+  {
+    "cap": "C3",
+    "tieu_chi": "Tập trung đông người",
+    "nguong": "Ga HK chính; Hội nghị/Nhà hát > 1.200 chỗ; TTTM > 30.000 m2; Khán đài > 5.000 chỗ; BV ≥ 500 giường",
+    "dieu_khoan": "A.1.1"
+  },
+  {
+    "cap": "C3",
+    "tieu_chi": "Môi trường & sự cố lớn",
+    "nguong": "Phóng xạ, cháy nổ, kho xăng dầu lớn, nhiệt điện ≥ 150MW",
+    "dieu_khoan": "A.1.2"
+  },
+  {
+    "cap": "C3",
+    "tieu_chi": "Chính trị - xã hội",
+    "nguong": "Nhà Quốc hội, Phủ Chủ tịch, Trụ sở CP, TƯ Đảng, Bảo tàng QG",
+    "dieu_khoan": "A.1.3"
+  },
+  {
+    "cap": "C3",
+    "tieu_chi": "Quy mô kết cấu lớn",
+    "nguong": "Cao > 75m; Si lô > 15.000 m3; Nhịp ≥ 100m; Sâu ngầm ≥ 18m",
+    "dieu_khoan": "A.1.4"
+  },
+  {
+    "cap": "C1",
+    "tieu_chi": "Hậu quả nhỏ",
+    "nguong": "Nhà ở 1 tầng vật liệu tạm; Nhà 1 tầng mục đích tạm; Container/lều trại",
+    "dieu_khoan": "A.2"
+  },
+  {
+    "cap": "C2",
+    "tieu_chi": "Hậu quả trung bình",
+    "nguong": "Các công trình còn lại không thuộc C1 và C3",
+    "dieu_khoan": "A.3"
+  }
+]

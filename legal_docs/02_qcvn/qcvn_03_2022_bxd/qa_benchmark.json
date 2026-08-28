@@ -1,0 +1,37 @@
+{
+  "benchmark_id": "qa_qcvn_03_2022_bxd",
+  "document_id": "QCVN-03-2022-BXD",
+  "total_questions": 5,
+  "questions": [
+    {
+      "id": "qa_01",
+      "question": "Một tòa nhà chung cư có chiều cao 85m thì thuộc cấp hậu quả nào theo QCVN 03:2022/BXD?",
+      "ground_truth": "Tòa nhà có chiều cao 85m (> 75m) thuộc Cấp hậu quả C3 theo quy định tại Mục A.1.4.1 Phụ lục A của QCVN 03:2022/BXD (Kết cấu dạng nhà có chiều cao trên 75m).",
+      "reference_clause": "Phụ lục A, Mục A.1.4.1"
+    },
+    {
+      "id": "qa_02",
+      "question": "Thời hạn sử dụng theo thiết kế của công trình dân dụng thông thường là bao nhiêu năm?",
+      "ground_truth": "Thời hạn sử dụng theo thiết kế của công trình dân dụng thông thường là Mức 3: Không nhỏ hơn 50 năm theo Bảng 1 Mục 2.2 của QCVN 03:2022/BXD.",
+      "reference_clause": "Mục 2.2, Bảng 1"
+    },
+    {
+      "id": "qa_03",
+      "question": "Trung tâm thương mại nhiều tầng có tổng diện tích sàn kinh doanh 35.000 m2 thì thuộc cấp hậu quả nào?",
+      "ground_truth": "Thuộc Cấp hậu quả C3 theo quy định tại Mục A.1.1.3 Phụ lục A của QCVN 03:2022/BXD (Tòa nhà trung tâm thương mại có nhiều tầng với tổng diện tích sàn kinh doanh trên 30 000 m2).",
+      "reference_clause": "Phụ lục A, Mục A.1.1.3"
+    },
+    {
+      "id": "qa_04",
+      "question": "Kết cấu ngầm của công trình dân dụng có chiều sâu ngầm 20m thì xếp vào cấp hậu quả nào?",
+      "ground_truth": "Thuộc Cấp hậu quả C3 theo Mục A.1.4.5 Phụ lục A của QCVN 03:2022/BXD (Kết cấu ngầm thuộc công trình dân dụng có chiều sâu ngầm từ 18 m trở lên).",
+      "reference_clause": "Phụ lục A, Mục A.1.4.5"
+    },
+    {
+      "id": "qa_05",
+      "question": "Nhà bảo vệ và hàng rào tạm phục vụ thi công thuộc cấp hậu quả và thời hạn sử dụng nào?",
+      "ground_truth": "Nhà bảo vệ và hàng rào tạm thuộc Cấp hậu quả C1 theo Mục A.2.4 Phụ lục A và có Thời hạn sử dụng theo thiết kế thuộc Mức 1 (Nhỏ hơn 25 năm) theo Bảng 1 của QCVN 03:2022/BXD.",
+      "reference_clause": "Mục 2.2 Bảng 1 & Phụ lục A Mục A.2.4"
+    }
+  ]
+}

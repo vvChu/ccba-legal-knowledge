@@ -1,0 +1,11 @@
+{
+  "card_id": "card_02_thoi_han_su_dung_thiet_ke",
+  "title": "Sơ đồ Quyết định Xác định Thời Hạn Sử Dụng Thiết Kế (Mức 1 - 4)",
+  "description": "Xác định niên hạn thiết kế công trình theo Bảng 1 QCVN 03:2022/BXD",
+  "mapping": {
+    "Mức 1 (< 25 năm)": "Công trình tạm hoặc công trình cấp C1",
+    "Mức 2 (≥ 25 năm)": "Công trình môi trường biển, hóa chất xâm thực mạnh",
+    "Mức 3 (≥ 50 năm)": "Công trình dân dụng, công nghiệp, HTKT thông thường",
+    "Mức 4 (≥ 100 năm)": "Công trình biểu tượng quốc gia, bảo tàng, sân vận động QG"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "muc": "Mức 1",
+    "thoi_han": "< 25 năm",
+    "loai_cong_trinh": "Công trình tạm; công trình Mục A.2",
+    "can_cu": "Bảng 1 QCVN 03:2022/BXD"
+  },
+  {
+    "muc": "Mức 2",
+    "thoi_han": "≥ 25 năm",
+    "loai_cong_trinh": "Công trình môi trường xâm thực mạnh (trừ tạm)",
+    "can_cu": "Bảng 1 QCVN 03:2022/BXD"
+  },
+  {
+    "muc": "Mức 3",
+    "thoi_han": "≥ 50 năm",
+    "loai_cong_trinh": "Công trình dân dụng, công nghiệp, HTKT thông thường",
+    "can_cu": "Bảng 1 QCVN 03:2022/BXD"
+  },
+  {
+    "muc": "Mức 4",
+    "thoi_han": "≥ 100 năm",
+    "loai_cong_trinh": "Công trình độc đáo, biểu tượng quốc gia / địa phương",
+    "can_cu": "Bảng 1 QCVN 03:2022/BXD"
+  }
+]

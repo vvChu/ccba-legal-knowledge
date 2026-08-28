@@ -1,0 +1,10 @@
+{
+  "card_id": "card_01_cap_hau_qua_c1_c2_c3",
+  "title": "Sơ đồ Quyết định Xác định Cấp Hậu Quả Công Trình (C1, C2, C3)",
+  "description": "Thuật toán rẽ nhánh kiểm tra ngưỡng quy mô và tính chất công trình theo Phụ lục A QCVN 03:2022/BXD",
+  "rule_tree": {
+    "step_1": "Kiểm tra thuộc nhóm C3 (Nhà > 75m, Nhịp ≥ 100m, Sâu ngầm ≥ 18m, Đông người, Cháy nổ, Chính trị QG) -> Cấp C3",
+    "step_2": "Kiểm tra thuộc nhóm C1 (Nhà tạm 1 tầng, container tháo lắp, vật liệu độ bền thấp) -> Cấp C1",
+    "step_3": "Tất cả công trình còn lại -> Cấp C2"
+  }
+}

@@ -2,10 +2,10 @@ version: 0.3.0
 updated_at: '2026-08-17T17:30:00Z'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 33
+  total_documents: 35
   categories:
     01_vbpl: 24
-    02_qcvn: 4
+    02_qcvn: 6
     03_tcvn: 2
     04_appendices: 3
 documents: {}
@@ -667,6 +667,36 @@ laws:
       sha256: 0375f3b798e01dfde379710648c8024edc71b5718ec5ee4f0e405764620c7a7d
       vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2022_bxd/qcvn_02_2022_bxd.pdf
       status: verified
+- id: QCVN-03-2022-BXD
+  document_number: QCVN 03:2022/BXD
+  title: QCVN 03:2022/BXD — Quy chuẩn kỹ thuật quốc gia về Phân cấp công trình phục
+    vụ thiết kế xây dựng
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Xây dựng
+  signer: Lê Quang Hùng
+  issued_date: '2022-11-30'
+  effective_date: '2023-06-01'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_03_2022_bxd/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-05-2022-TT-BXD-Quy-chuan-QCVN-03-2022-BXD-phan-cap-cong-trinh-thiet-ke-xay-dung-543956.aspx
+  pdf_path: legal_docs/02_qcvn/qcvn_03_2022_bxd/sources/qcvn_03_2022_bxd.pdf
+  pdf_sha256: f0f1a871b1a73ac209911f508ab8f64999ec39237a6538d2b71a08a5b277e380
+  cong_bao_number: 05/2022/TT-BXD
+  pdf_status: verified
+  sha256: cfaf62f9de163aefc4bfd18f20965b9fea139a65e60cb3ae4554c6c2c881cfad
+  source_file: .md\extracted_docs\qcvn_03_2022_bxd\qcvn_03_2022_bxd.docx
+  source_file_size_kb: 13.4
+  source_assets:
+    docx:
+      sha256: cfaf62f9de163aefc4bfd18f20965b9fea139a65e60cb3ae4554c6c2c881cfad
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_03_2022_bxd/qcvn_03_2022_bxd.docx
+      status: synced
+    pdf:
+      sha256: f0f1a871b1a73ac209911f508ab8f64999ec39237a6538d2b71a08a5b277e380
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_03_2022_bxd/qcvn_03_2022_bxd.pdf
+      status: verified
+  relations:
+    replaces: QCVN-03-2012-BXD
 - id: QCVN-04-2021-BXD
   document_number: QCVN 04:2021/BXD
   title: QCVN 04:2021/BXD — Quy chuẩn kỹ thuật quốc gia về Nhà chung cư (Sửa đổi 01:2026
