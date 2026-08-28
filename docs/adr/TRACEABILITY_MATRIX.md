@@ -29,7 +29,7 @@
 | [ADR 0019](0019-tiered-audit-persona-and-self-audit-affidavit.md) | **Tiered Audit Persona & Client Self-Audit Affidavit Engine** | ✅ ACCEPTED | `CONTEXT.md` |
 | [ADR 0020](0020-hybrid-symbolic-formula-solver-engine.md) | **Hybrid Symbolic Formula Solver Engine for Normative Engineering Calculations** | ✅ ACCEPTED | `CONTEXT.md`<br>`.md/knowledge/session_learnings.md` |
 | [ADR 0021](0021-okf-v2-2-pure-normative-body-legal-graph.md) | **OKF v2.2 Pure Normative Body & Legal Knowledge Graph Topology** | ✅ ACCEPTED | `.agents/skills/ccba-legal-ingest/SKILL.md`<br>`.agents/skills/ccba-legal-intel/SKILL.md`<br>`AGENTS.md`<br>`CONTEXT.md`<br>`.md/knowledge/session_learnings.md` |
-| [ADR 0022](0022-okf-v2-2-qcvn-modular-annexes.md) | **OKF v2.2 QCVN Modular Technical Annexes & Active Core Pattern** | ✅ ACCEPTED | `.agents/skills/ccba-legal-ingest/SKILL.md`<br>`.md/knowledge/session_learnings.md` |
+| [ADR 0022](0022-okf-v2-2-qcvn-modular-annexes.md) | **OKF v2.2 QCVN Modular Technical Annexes & Active Core Pattern** | ✅ ACCEPTED | `.md/knowledge/session_learnings.md` |
 | [ADR 0023](0023-full-comprehensive-notebooklm-ultra-ingestion.md) | **Full Comprehensive NotebookLM Ingestion Strategy for Ultra Tier** | ✅ ACCEPTED | `CONTEXT.md` |
 | [ADR 0024](0024-dual-track-provenance-footnote-anchoring.md) | **Dual-Track Provenance with Footnote Anchor for Consolidated Legal Norms** | ✅ ACCEPTED | `.agents/skills/legal-advisor/SKILL.md`<br>`CONTEXT.md` |
 | [ADR 0025](0025-strict-provenance-enactment-gate.md) | **Strict Zero-Tolerance Provenance Enactment Gate for Legal Ingestion** | ✅ ACCEPTED | `CONTEXT.md` |
