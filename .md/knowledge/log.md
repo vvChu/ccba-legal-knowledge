@@ -46,3 +46,13 @@ Tài liệu ghi nhận nhật ký đột biến, chuẩn hóa dữ liệu và ba
   - **Công thức KaTeX:** Chuyển đổi 100% công thức (F.1 -> F.9) sang LaTeX khối.
   - **Kiến trúc Song Mã:** Xây dựng 6 Visual Cards JSON + 6 Deterministic Solvers Python trong `wind_load_tcvn2737.py` + 38 unit tests Ground Truth.
   - **Ban hành ADR 0034 & Spec:** Chuẩn hóa toàn diện OKF v2.3 và phân rã 5 tickets triển khai cho toàn bộ hệ thống.
+
+## [2026-08-28] [feat] | QCVN 03:2022/BXD 100% Verbatim Ingestion, Gate 11 Parity & Multi-Attachment Ingestion
+- **Phạm vi:** `legal_docs/02_qcvn/qcvn_03_2022_bxd/`, `packages/ccba-legal-intel/`, `scripts/validate_legal_spoke.py`, `AGENTS.md`.
+- **Nội dung:**
+  - **Nạp QCVN 03:2022/BXD:** Đóng gói chuẩn OKF v2.4 Universal (12 trang PDF, 137 đoạn DOCX nguyên văn 100%, 23 AST clauses `CQXD`, Bảng 1 Niên hạn Mức 1-4, Phụ lục A Cấp hậu quả C1/C2/C3, thẻ tính toán và biểu mẫu nguyên tử).
+  - **Gate 11 Verbatim Normative Parity Gate:** Thiết lập cổng kiểm định toán học thứ 11 trong CI và Pre-commit, chặn đứng mọi hành vi tóm tắt, diễn đạt lại thân văn bản quy phạm.
+  - **Vá Lỗ hổng Tài liệu & Nhận diện Công cụ:** Thêm lệnh `convert` tường minh, 3 kịch bản vận hành vào `AGENTS.md` / `SKILL.md` và đăng ký 6 CLI subcommands vào `catalog.yaml`.
+  - **Nâng cấp Multi-Attachment Crawler:** Tự động phát hiện và thu thập toàn bộ các tệp phụ lục đính kèm rời (`.doc`, `.docx`, `.xlsx`, `.pdf`) tại `tab=7` về `sources/attachments/` kèm unit test `100% PASS`.
+  - **Tốt nghiệp R&D:** Chuyển hóa toàn bộ thuật toán vào Hub Deep Seam `ccba_legal.provenance` và `ccba_legal.crawler.tier_downloader`, dọn sạch 100% scratch scripts.
+
