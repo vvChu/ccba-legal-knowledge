@@ -1,7 +1,6 @@
 """Tests for scripts/docx_converter.py."""
 
 from pathlib import Path
-import pytest
 import docx
 from ccba_legal import convert_docx_to_okf_bundle, normalize_docx_markdown
 

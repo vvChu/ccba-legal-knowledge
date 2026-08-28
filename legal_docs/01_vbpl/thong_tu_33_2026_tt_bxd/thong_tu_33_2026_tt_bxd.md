@@ -279,10 +279,4 @@ g) Kết luận và kiến nghị (nếu có)*.*
 <a id="dieu-12-khoan-2"></a>
 **2.** Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, các cá nhân, tổ chức phản ánh kịp thời về Bộ Xây dựng để được xem xét, hướng dẫn./.
 
----
-
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
-
-> [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 

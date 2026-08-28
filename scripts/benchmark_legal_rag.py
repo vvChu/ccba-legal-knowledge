@@ -9,11 +9,9 @@ Evaluates:
 from __future__ import annotations
 
 import json
-import math
 import re
 import sys
 import time
-from collections import Counter
 from pathlib import Path
 from typing import Any
 
@@ -70,7 +68,7 @@ class LegalRAGBenchmark:
                         c["citation"] = f"{c.get('title', cid)} ({slug}#{cid})"
 
                         self.clause_index[f"{slug}#{cid}"] = c
-                except Exception:
+                except (json.JSONDecodeError, OSError, KeyError):
                     pass
 
             if qa_file.exists():
@@ -79,7 +77,7 @@ class LegalRAGBenchmark:
                     for q in qa_data:
                         q["bundle"] = slug
                         self.qa_entries.append(q)
-                except Exception:
+                except (json.JSONDecodeError, OSError):
                     pass
 
     def retrieve(
@@ -222,7 +220,7 @@ def main() -> None:
     print("=========================================================================================")
     bench = LegalRAGBenchmark()
 
-    print(f"-> Nạp toàn bộ kho tri thức OKF v2.2:")
+    print("-> Nạp toàn bộ kho tri thức OKF v2.2:")
     print(f"   • Tổng số điều khoản AST : {len(bench.clause_index):,} nodes (Đã nạp toàn văn body)")
     print(f"   • Tổng số cặp câu hỏi QA : {len(bench.qa_entries):,} entries")
     print("-" * 89)

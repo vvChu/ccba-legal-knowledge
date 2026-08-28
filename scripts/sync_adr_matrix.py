@@ -13,11 +13,11 @@ sys.stderr.reconfigure(line_buffering=True, encoding="utf-8")
 
 # Define Pillar Classification Mapping
 PILLAR_MAPPING: dict[str, list[int]] = {
-    "Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.2 & Biểu Mẫu": [
-        1, 2, 3, 4, 5, 21, 22, 27, 28, 29, 30
+    "Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.4 Universal & Biểu Mẫu": [
+        1, 2, 3, 4, 5, 21, 22, 27, 28, 29, 30, 34, 36
     ],
-    "Trụ Cột 2: PDF Mỏ Neo Pháp Lý & Cơ Chế Thu Thập (Acquisition & Anchoring)": [
-        10, 16, 24, 25, 31
+    "Trụ Cột 2: PDF Mỏ Neo Pháp Lý & Tri-Tier Cloud Vault (Acquisition, Anchoring & Vault)": [
+        10, 16, 24, 25, 31, 35
     ],
     "Trụ Cột 3: Bộ Cổng Kiểm Định CI & Vận Hành Spoke (CI Gates & Operations)": [
         6, 7, 8, 9, 11, 12, 13, 14, 15, 17, 18, 19, 20, 23, 26, 32, 33
@@ -28,7 +28,6 @@ PILLAR_MAPPING: dict[str, list[int]] = {
 def parse_adr_file(adr_path: Path) -> dict[str, Any]:
     """Extract metadata from an ADR markdown file."""
     content = adr_path.read_text(encoding="utf-8")
-    lines = content.splitlines()
 
     # Extract ID and Title from H1
     h1_match = re.search(r"^#\s*ADR\s*0*([0-9]+)[:\s-]+(.*)$", content, re.MULTILINE | re.IGNORECASE)
@@ -81,7 +80,7 @@ def compile_adr_readme(adr_list: list[dict[str, Any]], target_file: Path) -> str
     lines = [
         "# 🏛️ CCBA Legal Knowledge Spoke — Architectural Decision Records (ADRs)",
         "",
-        "Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) định hình tiêu chuẩn đóng gói tri thức pháp lý **OKF v2.2 Native-First**, mỏ neo PDF Công báo gốc và hệ thống cổng kiểm định chất lượng tự động hóa.",
+        "Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) định hình tiêu chuẩn đóng gói tri thức pháp lý **OKF v2.4 Universal Agent-Centric**, mỏ neo PDF Công báo gốc và hệ thống cổng kiểm định chất lượng tự động hóa.",
         "",
         "*(Tệp này được biên dịch tự động bởi `scripts/sync_adr_matrix.py` — Không chỉnh sửa thủ công)*",
         "",
@@ -129,11 +128,6 @@ def compile_adr_readme(adr_list: list[dict[str, Any]], target_file: Path) -> str
 
 def scan_skill_radar(adr_list: list[dict[str, Any]], root_dir: Path) -> dict[str, list[dict[str, str]]]:
     """Scan all SKILL.md and AGENTS.md files across Spoke and Hub to detect ADR references."""
-    known_adrs = {f"ADR {a['num_str']}": a for a in adr_list}
-    known_adrs_short = {f"ADR {a['num']}": a for a in adr_list}
-    known_adrs_dash = {f"ADR-{a['num_str']}": a for a in adr_list}
-    known_adrs_dash_short = {f"ADR-{a['num']}": a for a in adr_list}
-
     matrix: dict[str, list[dict[str, str]]] = {a["num_str"]: [] for a in adr_list}
 
     target_paths: list[Path] = []
@@ -152,7 +146,6 @@ def scan_skill_radar(adr_list: list[dict[str, Any]], root_dir: Path) -> dict[str
         text = doc_path.read_text(encoding="utf-8")
         rel_path = str(doc_path.relative_to(root_dir)).replace("\\", "/")
 
-        found_adrs: set[str] = set()
         # Regex to find ADR references
         matches = re.findall(r"\bADR[-\s]*0*([0-9]+)\b", text, re.IGNORECASE)
         for m in matches:

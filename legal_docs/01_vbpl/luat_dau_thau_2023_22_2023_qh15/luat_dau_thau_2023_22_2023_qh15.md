@@ -2931,10 +2931,4 @@ __ĐIỀU KHOẢN THI HÀNH__
 <a id="dieu-96-khoan-4"></a>
 **4.** Hợp đồng mà nhà thầu trúng thầu vật tư, hóa chất có trách nhiệm cung cấp trang thiết bị y tế để sử dụng vật tư, hóa chất đó được ký kết trước ngày Luật này có hiệu lực thi hành được tiếp tục thực hiện trong thời hạn quy định tại hợp đồng nhưng không quá 05 năm kể từ ngày Luật này có hiệu lực thi hành./.
 
----
-
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
-
-> [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 

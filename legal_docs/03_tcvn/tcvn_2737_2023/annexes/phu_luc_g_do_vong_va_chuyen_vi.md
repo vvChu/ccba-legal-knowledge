@@ -152,7 +152,7 @@ trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $b$ là hệ số, lấy theo Bảng G.2.
 
-Độ võng $f$ cần được xác định do tổng các tải trọng $\psi_1 p + p_1 + q$, trong đó $\psi_1$ là hệ số xác định theo [công thức (3)](../tcvn_2737_2023.md#cong-thuc-3).
+Độ võng $f$ cần được xác định do tổng các tải trọng $\psi_1 p + p_1 + q$, trong đó $\psi_1$ là hệ số xác định theo [công thức (3)](../tcvn_2737_2023.md#formula-3).
 
 <a id="bang-bang-g-2"></a>
 

@@ -6,7 +6,6 @@ Tính toán khoảng cách, diện tích bảo vệ và số lượng đầu phu
 from __future__ import annotations
 
 import math
-from typing import Any
 
 from formulas.models import CalculationResult, CalculationStep
 
@@ -119,7 +118,7 @@ def calc_sprinkler_density_and_spacing(
         steps=steps,
         notes=[
             f"Thời gian hoạt động yêu cầu của hệ thống Sprinkler: {duration_min:g} phút.",
-            f"Khoảng cách từ đầu phun tới trần: 0,08 m đến 0,40 m.",
+            "Khoảng cách từ đầu phun tới trần: 0,08 m đến 0,40 m.",
             "Khoảng cách tối thiểu giữa 2 đầu phun cạnh nhau không nhỏ hơn 1,5 m để tránh phun ướt làm nguội đầu phun kế bên.",
         ],
         is_compliant=True,

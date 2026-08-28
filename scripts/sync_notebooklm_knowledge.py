@@ -123,29 +123,31 @@ def get_canonical_manifest(
                     )
 
     # 4. Các Bảng so sánh đối chiếu quy chuẩn độc lập (Internal Matrix)
-    for cat in ["01_vbpl", "02_qcvn", "04_appendices"]:
-        cat_dir = root_dir / "legal_docs" / cat
-        if not cat_dir.exists():
-            continue
-        for mf in sorted(cat_dir.glob("*.md")):
-            if mf.name in ("index.md", "dead_ends.md", "log.md") or str(mf) in seen_paths:
+    legal_docs = root_dir / "legal_docs"
+    if legal_docs.exists():
+        for cat_dir in sorted(legal_docs.iterdir()):
+            if not cat_dir.is_dir() or cat_dir.name.startswith("."):
                 continue
-            content = mf.read_text(encoding="utf-8")
-            sha = hashlib.sha256(content.encode("utf-8")).hexdigest()
-            seen_paths.add(str(mf))
-            sources.append(
-                {
-                    "id": mf.stem,
-                    "title": f"Bảng Đối Chiếu {mf.stem}",
-                    "type": "Matrix Comparison",
-                    "category": cat,
-                    "file_path": mf,
-                    "rel_path": mf.relative_to(root_dir),
-                    "size_bytes": mf.stat().st_size,
-                    "word_count": len(content.split()),
-                    "sha256": sha,
-                }
-            )
+            cat = cat_dir.name
+            for mf in sorted(cat_dir.glob("*.md")):
+                if mf.name in ("index.md", "dead_ends.md", "log.md") or str(mf) in seen_paths:
+                    continue
+                content = mf.read_text(encoding="utf-8")
+                sha = hashlib.sha256(content.encode("utf-8")).hexdigest()
+                seen_paths.add(str(mf))
+                sources.append(
+                    {
+                        "id": mf.stem,
+                        "title": f"Bảng Đối Chiếu {mf.stem}",
+                        "type": "Matrix Comparison",
+                        "category": cat,
+                        "file_path": mf,
+                        "rel_path": mf.relative_to(root_dir),
+                        "size_bytes": mf.stat().st_size,
+                        "word_count": len(content.split()),
+                        "sha256": sha,
+                    }
+                )
 
     return sources
 

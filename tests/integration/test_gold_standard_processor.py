@@ -2,13 +2,11 @@
 
 import json
 from pathlib import Path
-import pytest
 
 from ccba_legal.gold_standard import (
     clean_html_tables,
     inject_semantic_anchors,
     generate_clauses_ast,
-    extract_tables_and_formulas,
     process_okf_bundle,
     get_doc_profile,
 )

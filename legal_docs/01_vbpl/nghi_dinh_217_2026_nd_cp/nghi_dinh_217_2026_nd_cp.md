@@ -2489,5 +2489,5 @@ b) Riêng đối với dự án đầu tư xây dựng thuộc địa bàn thàn
 - 📄 **[Phụ lục II - Mẫu 04: CƠ QUAN CẤP GIẤY PHÉP](./templates/phu_luc_ii/mau_04_cơ_quan_cấp_giấy_phép.md)**
 - 📄 **[Phụ lục II - Mẫu 05: CƠ QUAN CẤP GIẤY PHÉP](./templates/phu_luc_ii/mau_05_cơ_quan_cấp_giấy_phép.md)**
 - 📄 **[Phụ lục II - Mẫu 06: MẪU DẤU CỦA CƠ QUAN THỰC HIỆN CẤP GIẤY PHÉP XÂY DỰNG](./templates/phu_luc_ii/mau_06_mẫu_dấu_của_cơ_quan_thực_hiện_cấp_giấy_p.md)**
-- 📄 **[Phụ lục III: PHÂN LOẠI DỰ ÁN ĐẦU TƯ XÂY DỰNG THEO CÔNG NĂNG PHỤC VỤ VÀ TÍNH CHẤT CHUYÊN NGÀNH CỦA CÔNG TRÌNH](./templates/phu_luc_iii_phân_loại_dự_án_đầu_tư_xây_dựng_theo_côn.md)**
+- 📄 **[Phụ lục III: PHÂN LOẠI DỰ ÁN ĐẦU TƯ XÂY DỰNG THEO CÔNG NĂNG PHỤC VỤ VÀ TÍNH CHẤT CHUYÊN NGÀNH CỦA CÔNG TRÌNH](./annexes/phu_luc_iii_phan_loai_du_an_theo_cong_nang.md)**
 - 📊 **[bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong](./tables/csv/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.csv)**

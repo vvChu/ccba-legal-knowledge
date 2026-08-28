@@ -456,11 +456,4 @@ b) Thiết kế xây dựng đang thực hiện thẩm định trước ngày Th
 
 <a id="dieu-19-khoan-2"></a>
 **2.** Cơ quan chuyên môn về xây dựng Bộ Quốc phòng và cơ quan chuyên môn về xây dựng trực thuộc đơn vị đầu mối Bộ Quốc phòng hướng dẫn thực hiện Thông tư này./.
-
----
-
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
-
-> [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
-
+**2.** Cơ quan chuyên môn về xây dựng Bộ Quốc phòng và cơ quan chuyên môn về xây dựng trực thuộc đơn vị đầu mối Bộ Quốc phòng hướng dẫn thực hiện Thông tư này./.

@@ -12,7 +12,7 @@
 \- c) Trường hợp mặt đất có độ dốc lớn $i \ge 2$, mặt cao độ công trình quy ước $z_0$ (mốc chuẩn) để tính độ cao $z$ thấp hơn mặt đất thực được xác định theo [Hình C.1b](#hinh-c_1b).
 
 
-<a id="hinh-c_1"></a>
+<a id="hinh-c_1"></a><a id="hinh-c_1a"></a><a id="hinh-c_1b"></a>
 
 <p align="center">
 

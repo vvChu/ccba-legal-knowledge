@@ -1,6 +1,6 @@
 # 🏛️ CCBA Legal Knowledge Spoke — Architectural Decision Records (ADRs)
 
-Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) định hình tiêu chuẩn đóng gói tri thức pháp lý **OKF v2.2 Native-First**, mỏ neo PDF Công báo gốc và hệ thống cổng kiểm định chất lượng tự động hóa.
+Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) định hình tiêu chuẩn đóng gói tri thức pháp lý **OKF v2.4 Universal Agent-Centric**, mỏ neo PDF Công báo gốc và hệ thống cổng kiểm định chất lượng tự động hóa.
 
 *(Tệp này được biên dịch tự động bởi `scripts/sync_adr_matrix.py` — Không chỉnh sửa thủ công)*
 
@@ -8,7 +8,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 
 ## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0036)
 
-### Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.2 & Biểu Mẫu
+### Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.4 Universal & Biểu Mẫu
 | Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
 | :--- | :--- | :---: | :---: |
 | [ADR 0001](0001-vbhn-dual-track-provenance.md) | Chiến lược Quản lý Văn bản Hợp nhất (VBHN) Dual-Track Provenance cho RAG & Thẩm tra Thiết kế | ✅ ACCEPTED | 2026-08-18 |
@@ -22,10 +22,12 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | [ADR 0028](0028-atomic-template-form-extraction.md) | Atomic Template Form Extraction & Table Isolation | ✅ ACCEPTED | 2026-08-21 |
 | [ADR 0029](0029-verbatim-bullet-parity-and-escaping.md) | Verbatim Bullet Parity & Markdown Escaping Protocol | ✅ ACCEPTED | 2026-08-22 |
 | [ADR 0030](0030-visual-parity-and-2d-navigation-matrix.md) | Visual Parity & 2D Annex Navigation Matrix for Large Standards | ✅ ACCEPTED | 2026-08-23 |
+| [ADR 0034](0034-okf-v2-3-dual-engine-technical-standards.md) | OKF v2.3 Dual-Engine Technical Standards Paradigm (Parametric Visual Cards, Lossless Table Matrices & Deterministic Solvers) | ✅ ACCEPTED | 2026-08-26 |
+| [ADR 0036](0036-okf-v2-4-universal-agent-centric-specification.md) | OKF v2.4 Universal Agent-Centric Specification & Compartment Invariants | ✅ ACCEPTED | 2026-08-27 |
 
 ---
 
-### Trụ Cột 2: PDF Mỏ Neo Pháp Lý & Cơ Chế Thu Thập (Acquisition & Anchoring)
+### Trụ Cột 2: PDF Mỏ Neo Pháp Lý & Tri-Tier Cloud Vault (Acquisition, Anchoring & Vault)
 | Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
 | :--- | :--- | :---: | :---: |
 | [ADR 0010](0010-four-layer-tvpl-vip-crawler-three-tier-fallback.md) | Cơ Chế Cào TVPL 4 Lớp Tự Động Kết Hợp Đăng Nhập VIP Chrome CDP & Fallback 3 Tầng | ✅ ACCEPTED | 2026-08-18 |
@@ -33,6 +35,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | [ADR 0024](0024-dual-track-provenance-footnote-anchoring.md) | Dual-Track Provenance with Footnote Anchor for Consolidated Legal Norms | ✅ ACCEPTED | 2026-08-22 |
 | [ADR 0025](0025-strict-provenance-enactment-gate.md) | Strict Zero-Tolerance Provenance Enactment Gate for Legal Ingestion | ✅ ACCEPTED | 2026-08-22 |
 | [ADR 0031](0031-tvpl-vip-digital-pdf-priority-and-session-engine.md) | TVPL VIP Digital Vector PDF Priority & Persistent Session Engine | ✅ ACCEPTED | 2026-08-24 |
+| [ADR 0035](0035-tri-tier-google-drive-vault-and-ingestion-2-0.md) | Tri-Tier Cloud Binary Vault Architecture & Universal Ingestion Pipeline 2.0 | ✅ ACCEPTED | 2026-08-27 |
 
 ---
 
@@ -58,10 +61,3 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | [ADR 0033](0033-spoke-md-directory-hygiene-and-archiving.md) | Spoke .md Directory Hygiene & Archiving Structure | ✅ ACCEPTED | 2026-08-24 |
 
 ---
-
-### 📌 Các Quyết Định Khác (Unassigned)
-| Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
-| :--- | :--- | :---: | :---: |
-| [ADR 0034](0034-okf-v2-3-dual-engine-technical-standards.md) | OKF v2.3 Dual-Engine Technical Standards Paradigm (Parametric Visual Cards, Lossless Table Matrices & Deterministic Solvers) | ✅ ACCEPTED | 2026-08-26 |
-| [ADR 0035](0035-tri-tier-google-drive-vault-and-ingestion-2-0.md) | Tri-Tier Cloud Binary Vault Architecture & Universal Ingestion Pipeline 2.0 | ✅ ACCEPTED | 2026-08-27 |
-| [ADR 0036](0036-okf-v2-4-universal-agent-centric-specification.md) | OKF v2.4 Universal Agent-Centric Specification & Compartment Invariants | ✅ ACCEPTED | 2026-08-27 |

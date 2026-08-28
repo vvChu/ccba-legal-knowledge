@@ -6,7 +6,6 @@ Tính toán lưu lượng hút khói hành lang và sảnh thông tầng theo Ph
 from __future__ import annotations
 
 import math
-from typing import Any
 
 from formulas.models import CalculationResult, CalculationStep
 

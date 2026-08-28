@@ -5,7 +5,6 @@ Tính toán lưu lượng cấp nước chữa cháy ngoài nhà theo Bảng 7, 
 
 from __future__ import annotations
 
-from typing import Any
 
 from formulas.models import CalculationResult, CalculationStep
 

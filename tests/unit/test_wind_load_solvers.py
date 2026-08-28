@@ -13,10 +13,14 @@ from formulas import (
     calc_base_wind_pressure_w0,
     calc_duopitch_roof_ce_coefficients,
     calc_equivalent_building_dimensions,
+    calc_flat_roof_ce_coefficients,
     calc_freestanding_wall_aerodynamic_coeff,
     calc_gust_factor_gf,
+    calc_hipped_roof_ce_coefficients,
+    calc_monopitch_roof_ce_coefficients,
     calc_terrain_height_factor_kz,
     calc_topography_datum_z0,
+    calc_vertical_wall_ce_coefficients,
 )
 
 
@@ -221,14 +225,6 @@ class TestSolverFacade:
         assert "Trường hợp 1 (Áp lực âm / Hút)" in res.scenarios
         report = res.format_text_report()
         assert "Trường hợp 1 (Áp lực âm / Hút)" in report
-
-
-from formulas import (
-    calc_flat_roof_ce_coefficients,
-    calc_hipped_roof_ce_coefficients,
-    calc_monopitch_roof_ce_coefficients,
-    calc_vertical_wall_ce_coefficients,
-)
 
 
 class TestFlatRoofSolvers:

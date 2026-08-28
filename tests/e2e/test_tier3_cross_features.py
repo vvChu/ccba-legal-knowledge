@@ -4,18 +4,15 @@ Verifies 16 pairwise combinatorial interactions between features
 as specified in TEST_INFRA.md and PROJECT.md.
 """
 
-import json
 import re
 import subprocess
 import sys
 from pathlib import Path
-from typing import Any, Dict, List, Set
+from typing import Any, Dict, List
 
-import pytest
 
 from tests.conftest import (
     DocxParsedBundle,
-    DocxTableData,
     MarkdownParsedBundle,
 )
 

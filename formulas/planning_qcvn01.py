@@ -10,7 +10,7 @@ Bao gồm:
 from __future__ import annotations
 
 from typing import Any
-from formulas.models import CalculationResult, CalculationStep, FormulaMetadata
+from formulas.models import CalculationResult, CalculationStep
 
 
 # -----------------------------------------------------------------------------

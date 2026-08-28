@@ -9,14 +9,12 @@ import re
 import subprocess
 import sys
 from pathlib import Path
-from typing import Any, Dict, List, Set
+from typing import Any, Dict, List
 
-import pytest
 import yaml
 
 from tests.conftest import (
     DocxParsedBundle,
-    DocxTableData,
     MarkdownParsedBundle,
 )
 
@@ -793,7 +791,6 @@ def test_f14_02_verify_script_normalizes_1_4_definitions(repo_root: Path):
     assert script_path.exists(), "verify_knowledge_integrity.py missing"
     
     # Check regex pattern logic inside verify script
-    from scripts.verify_knowledge_integrity import verify_bundle_against_docx
     heading_pattern = re.compile(r"^(\d+(\.\d+)+|PHỤ LỤC\s+[A-Z]|Bảng\s+[A-Z0-9]+)", re.IGNORECASE)
     
     # Ensure regex matches definition numbers 1.4.17 through 1.4.72
