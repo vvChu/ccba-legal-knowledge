@@ -578,15 +578,9 @@ class LegalSpokeValidator:
     def validate_docx_to_markdown_verbatim_parity(self) -> None:
         """Gate 11: Enforce 100% Verbatim Normative Text Parity between sources/*.docx and bundle Markdown files."""
         try:
-            import docx
+            from ccba_legal.provenance import verify_bundle_docx_vs_markdown
         except ImportError:
-            self.warnings.append("python-docx is not installed. Skipping Gate 11 DOCX-to-Markdown Verbatim Parity.")
-            return
-
-        def norm_words(text: str) -> str:
-            text = text.lower()
-            text = re.sub(r"[^\w\d\s]", " ", text, flags=re.UNICODE)
-            return re.sub(r"\s+", " ", text).strip()
+            verify_bundle_docx_vs_markdown = None  # type: ignore
 
         legal_docs = self.root_dir / "legal_docs"
         if not legal_docs.exists():
@@ -601,56 +595,69 @@ class LegalSpokeValidator:
                     continue
 
                 sources_dir = bundle_dir / "sources"
-                if not sources_dir.exists():
+                if not sources_dir.exists() or not list(sources_dir.glob("*.docx")):
                     continue
 
-                docx_files = list(sources_dir.glob("*.docx"))
-                if not docx_files:
-                    continue
+                if verify_bundle_docx_vs_markdown is not None:
+                    res = verify_bundle_docx_vs_markdown(bundle_dir)
+                    if res.get("status") == "error":
+                        self.errors.append(f"DOCX Read Error [{bundle_dir.name}]: {res.get('error')}")
+                    elif res.get("status") == "success" and not res.get("pass", True):
+                        sample_miss = "; ".join([f"[{i}] {p[:60]}" for i, p in res.get("missing_paras", [])[:3]])
+                        self.errors.append(
+                            f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {res.get('parity_rate', 0.0):.1f}% (< 98.0%). Missing {res.get('missing_count', 0)}/{res.get('docx_paras', 0)} paragraphs: {sample_miss}"
+                        )
+                else:
+                    try:
+                        import docx
+                    except ImportError:
+                        self.warnings.append("python-docx is not installed. Skipping Gate 11 DOCX-to-Markdown Verbatim Parity.")
+                        return
 
-                try:
-                    doc = docx.Document(docx_files[0])
-                except Exception as e:
-                    self.errors.append(f"DOCX Read Error [{bundle_dir.name}]: Failed to parse {docx_files[0].name}: {e}")
-                    continue
+                    docx_files = list(sources_dir.glob("*.docx"))
+                    try:
+                        doc = docx.Document(docx_files[0])
+                    except Exception as e:
+                        self.errors.append(f"DOCX Read Error [{bundle_dir.name}]: Failed to parse {docx_files[0].name}: {e}")
+                        continue
 
-                docx_paras = [p.text.strip() for p in doc.paragraphs if p.text.strip()]
-                if not docx_paras:
-                    continue
+                    docx_paras = [p.text.strip() for p in doc.paragraphs if p.text.strip()]
+                    if not docx_paras:
+                        continue
 
-                md_texts = []
-                for md_f in bundle_dir.rglob("*.md"):
-                    if "sources" not in md_f.parts:
-                        txt = self._safe_read_text(md_f)
-                        if txt:
-                            md_texts.append(txt)
+                    md_texts = []
+                    for md_f in bundle_dir.rglob("*.md"):
+                        if "sources" not in md_f.parts:
+                            txt = self._safe_read_text(md_f)
+                            if txt:
+                                md_texts.append(txt)
 
-                combined_md = "\n".join(md_texts)
-                norm_md = norm_words(combined_md)
+                    combined_md = "\n".join(md_texts)
+                    norm_md = re.sub(r"\s+", " ", re.sub(r"[^\w\d\s]", " ", combined_md.lower(), flags=re.UNICODE)).strip()
 
-                missing_paras = []
-                for idx, p in enumerate(docx_paras, 1):
-                    np = norm_words(p)
-                    words = np.split()
-                    matched = False
-                    if len(words) >= 4:
-                        for w in range(max(1, len(words) - 5)):
-                            chunk = " ".join(words[w : w + 6])
-                            if chunk in norm_md:
-                                matched = True
-                                break
-                        if not matched:
-                            missing_paras.append((idx, p))
-                    elif len(words) >= 2:
-                        if np not in norm_md:
-                            missing_paras.append((idx, p))
+                    missing_paras = []
+                    for idx, p in enumerate(docx_paras, 1):
+                        np = re.sub(r"\s+", " ", re.sub(r"[^\w\d\s]", " ", p.lower(), flags=re.UNICODE)).strip()
+                        words = np.split()
+                        matched = False
+                        if len(words) >= 4:
+                            for w in range(max(1, len(words) - 5)):
+                                chunk = " ".join(words[w : w + 6])
+                                if chunk in norm_md:
+                                    matched = True
+                                    break
+                            if not matched:
+                                missing_paras.append((idx, p))
+                        elif len(words) >= 2:
+                            if np not in norm_md:
+                                missing_paras.append((idx, p))
 
-                parity_rate = ((len(docx_paras) - len(missing_paras)) / len(docx_paras)) * 100.0
-                if parity_rate < 98.0:
-                    sample_miss = "; ".join([f"[{i}] {p[:60]}" for i, p in missing_paras[:3]])
-                    self.errors.append(
-                        f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {parity_rate:.1f}% (< 98.0%). Missing {len(missing_paras)}/{len(docx_paras)} paragraphs: {sample_miss}"
-                    )
+                    parity_rate = ((len(docx_paras) - len(missing_paras)) / len(docx_paras)) * 100.0
+                    if parity_rate < 98.0:
+                        sample_miss = "; ".join([f"[{i}] {p[:60]}" for i, p in missing_paras[:3]])
+                        self.errors.append(
+                            f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {parity_rate:.1f}% (< 98.0%). Missing {len(missing_paras)}/{len(docx_paras)} paragraphs: {sample_miss}"
+                        )
 
     def _check_core_adr_references(self, known_nums: Set[int]) -> None:
         """Check for broken ADR references in core constitution files."""
