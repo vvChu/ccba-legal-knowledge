@@ -4,7 +4,7 @@
 
 ---
 
-### A.1. Các công trình có cấp C3 (Hậu quả lớn)
+### A.1. Các công trình có cấp C3
 
 #### A.1.1. Công trình tập trung đông người
 \- **A.1.1.1.** Nhà ga hàng không (nhà ga chính).
@@ -35,13 +35,12 @@
 \- **A.1.4.5.** Kết cấu ngầm thuộc công trình dân dụng và công trình hạ tầng kỹ thuật trong đô thị có chiều sâu ngầm từ 18 m trở lên.
 &nbsp;&nbsp;*CHÚ THÍCH: Chiều sâu ngầm của kết cấu được tính từ cao độ mặt đất đặt công trình tới mặt sàn dưới cùng.*
 
-#### A.1.5. Các công trình khác
-Các công trình khác theo quyết định của người quyết định đầu tư, chủ đầu tư xây dựng công trình.
-*CHÚ THÍCH: Đê, đập, tường chắn, kè và các công trình chịu áp tương tự phân cấp theo quy chuẩn, tiêu chuẩn chuyên ngành khác.*
+#### A.1.5. Các công trình khác theo quyết định của người quyết định đầu tư, chủ đầu tư xây dựng công trình
+&nbsp;&nbsp;*CHÚ THÍCH: Đê, đập, tường chắn, kè và các công trình chịu áp tương tự phân cấp theo quy chuẩn, tiêu chuẩn chuyên ngành khác.*
 
 ---
 
-### A.2. Các công trình có cấp C1 (Hậu quả nhỏ)
+### A.2. Các công trình có cấp C1
 
 \- **A.2.1.** Nhà ở riêng lẻ một tầng sử dụng vật liệu độ bền lâu thấp (gạch xỉ, vôi xỉ, đá ong, đất, tre, lá và tương tự).
 \- **A.2.2.** Nhà một tầng dùng vào các mục đích: sinh hoạt tạm cho người, nhà tạm tổ chức sự kiện, hoạt động văn hóa, dịch vụ ngoài trời quy mô vừa và nhỏ; gia công, sản xuất tạm; kho lưu trữ tạm.
@@ -51,6 +50,6 @@ Các công trình khác theo quyết định của người quyết định đ�
 
 ---
 
-### A.3. Các công trình có cấp C2 (Hậu quả trung bình)
+### A.3. Các công trình có cấp C2
 
 Công trình khác ngoài các công trình có cấp C1 và cấp C3.
