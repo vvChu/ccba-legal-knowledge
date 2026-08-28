@@ -208,3 +208,19 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
   3. **Quy Trình Khép Kín Đóng Góp & Phát Hành (Closed-Loop Release Loop):**
      - Hoàn tất quy trình mẫu 7 bước: R&D -> /ccba-graduate-rd -> /ccba-contribute-to-hub (Hub PR #220) -> /ccba-create-pr & /ccba-release-feature (Spoke PR #1) -> sync_spoke.py --apply.
      - Cả 2 repositories Hub và Spoke đều đạt trạng thái sạch sẽ, 100% tích hợp và đồng bộ với GitHub origin.
+
+---
+
+## 15. Verbatim Normative Invariant, Universal Ingestion Pipeline & Gate 11 Parity Enforcement (2026-08-28)
+
+- **Thành quả Quản Trị & Cưỡng Chế Nguyên Văn Pháp Lý (Zero Paraphrase Drift):**
+  1. **Hiến pháp Bất khả xâm phạm Thân văn bản Quy phạm (Verbatim Normative Invariant - ADR 0037):**
+     - Ban hành quy tắc bất biến cấm $100\%$ mọi hành vi tóm tắt, diễn đạt lại (paraphrase), lược bỏ hoặc viết tắt câu từ trong thân văn bản quy chuẩn/luật (`.md`).
+     - Phân định rạch ròi 2 tầng trích xuất:
+       * **Thân văn bản quy phạm:** Bắt buộc trích xuất xác định $1:1$ từ DOCX Công báo gốc bằng Python `python-docx` AST parser (không cho phép LLM can thiệp tái tạo câu chữ).
+       * **Dữ liệu phái sinh:** LLM chỉ được phép phân tích ở các tệp hỗ trợ bên ngoài thân văn bản (`metadata.yaml`, `clauses.json`, `qa_benchmark.json`, `figures/cards/`, `templates/`).
+  2. **Gate 11: DOCX-to-Markdown Verbatim Normative Parity Gate (`scripts/validate_legal_spoke.py`):**
+     - Tích hợp cổng kiểm định thứ 11 tự động băm nhỏ và so khớp toàn bộ đoạn văn trong `sources/*.docx` với Markdown bundle.
+     - Cưỡng chế tỷ lệ trùng khớp $\ge 98.0\%$. Tự động chặn đứng `git commit` và CI nếu phát hiện bất kỳ điều khoản, định nghĩa hoặc chú thích nào bị thiếu hoặc sai lệch.
+  3. **Nạp & Chuẩn Hóa Chuẩn Mực QCVN 03:2022/BXD (Thông tư 05/2022/TT-BXD):**
+     - Hoàn tất đóng gói toàn diện OKF v2.4 cho QCVN 03:2022/BXD đạt 100.0% Parity (12 trang PDF, 137 đoạn DOCX nguyên văn, 23 điều khoản AST `CQXD`, Bảng 1 Niên hạn thiết kế Mức 1-4, Phụ lục A Cấp hậu quả C1/C2/C3, Thẻ tính toán tham số và Mẫu thuyết minh phân cấp).

@@ -19,6 +19,7 @@
 6. **Đồng Vị Ma Trận So Sánh VBHN (In-Bundle Comparative Matrix - ADR 0036):** Đối với văn bản hợp nhất, `bang_so_sanh_thay_doi.md` bắt buộc phải đặt trực tiếp ngay tại gốc của Bundle.
 7. **Tri-Tier Cloud Binary Vault & Native Google Docs (ADR 0035):** Toàn bộ file `.pdf` và `.docx` được bảo vệ bởi `.gitignore` và đồng bộ lên Google Drive Vault `CCBA_Legal_Vault`. File Word được tự động chuyển đổi sang Native Google Docs sẵn sàng cho Google NotebookLM.
 8. **Bảo Tồn Ký Tự Gốc & Kiểm Định Thị Giác (ADR 0029 & ADR 0030):** Bảo toàn $100\%$ dấu gạch đầu dòng `-` và `+` bằng cơ chế thoát ký tự `\- ` và `&nbsp;&nbsp;\+ `; Tách chú thích ra khỏi ô bảng; Không dồn cục dòng; Bắt buộc vượt qua `lint_visual_parity.py`.
+9. **Bảo Tồn Nguyên Văn Quy Phạm 100% (Verbatim Normative Invariant - ADR 0037):** Nghiêm cấm mọi hành vi tóm tắt, diễn đạt lại hoặc rút gọn thân văn bản quy phạm. Thân Markdown bắt buộc phải được trích xuất xác định $1:1$ từ DOCX Công báo gốc và vượt qua Gate 11 DOCX-to-Markdown Verbatim Parity (Parity Rate $\ge 98.0\%$).
 
 ---
 
@@ -32,8 +33,8 @@ Bất kỳ khi nào tiếp nhận một Luật, Nghị định, Thông tư, QCVN
 python -m ccba_legal ingest "<tvpl_url>" --category <01_vbpl|02_qcvn|03_tcvn> --upload-drive
 ```
 
-### 1. Nạp & Chuyển đổi sang OKF v2.4 Bundle (ADR 0021, ADR 0034, ADR 0036):
-* Tự động trích xuất thân văn bản thuần khiết, 32+ bảng số liệu 2D, cây điều khoản AST `clauses.json` và bộ câu hỏi `qa_benchmark.json`.
+### 1. Nạp & Chuyển đổi sang OKF v2.4 Bundle (ADR 0021, ADR 0034, ADR 0036, ADR 0037):
+* Tự động trích xuất thân văn bản thuần khiết nguyên văn $100\%$, 32+ bảng số liệu 2D, cây điều khoản AST `clauses.json` và bộ câu hỏi `qa_benchmark.json`.
 
 ### 2. Hợp nhất Văn bản Sửa đổi (VBHN Engine - nếu có văn bản sửa đổi):
 ```powershell
@@ -47,5 +48,5 @@ python -m ccba_legal consolidate `
 ```powershell
 python scripts/validate_legal_spoke.py
 ```
-*Tự động thực thi toàn bộ 10 Cổng kiểm định tuần tự (Registry, OKF Bundles, Table Attachments, Fake Data, PDF Metadata, Pure Body, Cleanliness, Atomic Templates, Visual Parity, và Self-Healing ADR Traceability).*
-*Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Visual Parity, 100% Valid Links, 100% PDF SHA-256 Match`.
+*Tự động thực thi toàn bộ 11 Cổng kiểm định tuần tự (Registry, OKF Bundles, Table Attachments, Fake Data, PDF Metadata, Pure Body, Cleanliness, Atomic Templates, Visual Parity, Self-Healing ADR Traceability, và DOCX-to-Markdown Verbatim Parity).*
+*Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Visual Parity, 100% Verbatim Match, 100% Valid Links, 100% PDF SHA-256 Match`.

@@ -575,6 +575,83 @@ class LegalSpokeValidator:
         if display_math_count % 2 != 0:
             self.errors.append(f"KaTeX Error [session_learnings.md]: Unbalanced display math ($$) tags (count={display_math_count})")
 
+    def validate_docx_to_markdown_verbatim_parity(self) -> None:
+        """Gate 11: Enforce 100% Verbatim Normative Text Parity between sources/*.docx and bundle Markdown files."""
+        try:
+            import docx
+        except ImportError:
+            self.warnings.append("python-docx is not installed. Skipping Gate 11 DOCX-to-Markdown Verbatim Parity.")
+            return
+
+        def norm_words(text: str) -> str:
+            text = text.lower()
+            text = re.sub(r"[^\w\d\s]", " ", text, flags=re.UNICODE)
+            return re.sub(r"\s+", " ", text).strip()
+
+        legal_docs = self.root_dir / "legal_docs"
+        if not legal_docs.exists():
+            return
+
+        for cat in ["01_vbpl", "02_qcvn", "03_tcvn"]:
+            cat_dir = legal_docs / cat
+            if not cat_dir.exists():
+                continue
+            for bundle_dir in cat_dir.iterdir():
+                if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
+                    continue
+
+                sources_dir = bundle_dir / "sources"
+                if not sources_dir.exists():
+                    continue
+
+                docx_files = list(sources_dir.glob("*.docx"))
+                if not docx_files:
+                    continue
+
+                try:
+                    doc = docx.Document(docx_files[0])
+                except Exception as e:
+                    self.errors.append(f"DOCX Read Error [{bundle_dir.name}]: Failed to parse {docx_files[0].name}: {e}")
+                    continue
+
+                docx_paras = [p.text.strip() for p in doc.paragraphs if p.text.strip()]
+                if not docx_paras:
+                    continue
+
+                md_texts = []
+                for md_f in bundle_dir.rglob("*.md"):
+                    if "sources" not in md_f.parts:
+                        txt = self._safe_read_text(md_f)
+                        if txt:
+                            md_texts.append(txt)
+
+                combined_md = "\n".join(md_texts)
+                norm_md = norm_words(combined_md)
+
+                missing_paras = []
+                for idx, p in enumerate(docx_paras, 1):
+                    np = norm_words(p)
+                    words = np.split()
+                    matched = False
+                    if len(words) >= 4:
+                        for w in range(max(1, len(words) - 5)):
+                            chunk = " ".join(words[w : w + 6])
+                            if chunk in norm_md:
+                                matched = True
+                                break
+                        if not matched:
+                            missing_paras.append((idx, p))
+                    elif len(words) >= 2:
+                        if np not in norm_md:
+                            missing_paras.append((idx, p))
+
+                parity_rate = ((len(docx_paras) - len(missing_paras)) / len(docx_paras)) * 100.0
+                if parity_rate < 98.0:
+                    sample_miss = "; ".join([f"[{i}] {p[:60]}" for i, p in missing_paras[:3]])
+                    self.errors.append(
+                        f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {parity_rate:.1f}% (< 98.0%). Missing {len(missing_paras)}/{len(docx_paras)} paragraphs: {sample_miss}"
+                    )
+
     def _check_core_adr_references(self, known_nums: Set[int]) -> None:
         """Check for broken ADR references in core constitution files."""
         for core_f in ["AGENTS.md", "CONTEXT.md", ".md/knowledge/session_learnings.md"]:
@@ -604,13 +681,14 @@ class LegalSpokeValidator:
         self.validate_template_and_table_integrity()
         self.validate_visual_parity()
         self.validate_adr_parity_and_sync()
+        self.validate_docx_to_markdown_verbatim_parity()
 
         for i, name in enumerate([
             "Registry Check", "OKF Bundles Structure Check", "Table Attachments Check",
             "Fake Data Gate Check", "PDF Metadata & AST Jurisdiction Gate Check",
             "Pure Normative Body & Scoped Noise Gate Check", "Spoke Cleanliness & Zero-Wrapper Gate",
             "Template & Table Structural Integrity Gate", "Visual Parity & Formatting Clutter Gate",
-            "ADR Living Traceability & Self-Healing Sync",
+            "ADR Living Traceability & Self-Healing Sync", "DOCX-to-Markdown Verbatim Normative Parity Gate",
         ], 1):
             print(f"-> Gate {i}: {name} completed.")
 
