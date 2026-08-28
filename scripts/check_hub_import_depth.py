@@ -22,9 +22,6 @@ import re
 import sys
 from pathlib import Path
 
-if hasattr(sys.stdout, "reconfigure"):
-    sys.stdout.reconfigure(encoding="utf-8")
-
 # Hub package import prefixes to monitor
 HUB_PACKAGE_PREFIXES = (
     "ccba_legal",
@@ -91,19 +88,17 @@ def main() -> int:
         target_files = [Path(f) for f in args.files if f.endswith(".py")]
     else:
         root = Path(args.path).resolve()
-        # Scan root *.py
-        target_files.extend(root.glob("*.py"))
-        # Scan scripts/, src/, tests/
-        for scan_dir in [root / "scripts", root / "src", root / "tests"]:
+        # Scan scripts/, src/, tests/ and root .py files
+        for scan_dir in [root, root / "scripts", root / "src", root / "tests"]:
             if scan_dir.exists():
                 target_files.extend(scan_dir.rglob("*.py"))
 
-    # Exclude .venv, __pycache__, .git, .md, .agents
+    # Exclude .venv, __pycache__, .git
     target_files = [
         f
         for f in target_files
         if not any(
-            part in (".venv", "venv", "__pycache__", ".git", "node_modules", ".md", ".agents") for part in f.parts
+            part in (".venv", "venv", "__pycache__", ".git", "node_modules") for part in f.parts
         )
     ]
 
