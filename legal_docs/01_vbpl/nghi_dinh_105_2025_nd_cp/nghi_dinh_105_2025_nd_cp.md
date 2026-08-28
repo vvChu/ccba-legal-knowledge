@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Nghị định 105/2025/NĐ-CP về Quy định chi tiết một số điều và biện pháp thi
   hành Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ
@@ -22,7 +22,7 @@ issued_date: '2025-05-15'
 effective_date: '2025-07-01'
 status: active
 pdf_anchor:
-  path: ./nghi_dinh_105_2025_nd_cp.pdf
+  path: ./sources/nghi_dinh_105_2025_nd_cp.pdf
   sha256: f4f8993ffe37a93d26f335571793d3369a69737b0ed26504aba486ae38343f6a
   cong_bao_number: Đang cập nhật
 relations:

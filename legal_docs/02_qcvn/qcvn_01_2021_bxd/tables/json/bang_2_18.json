@@ -1,0 +1,22 @@
+{
+  "table_id": "bang_2_18",
+  "table_number": "2.18",
+  "table_title": "Bảng 2.18 - Chỉ tiêu tính toán diện tích bãi đỗ xe toàn đô thị",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Quy mô dân số đô thị (1 000 người)": "> 150",
+      "Chỉ tiêu theo dân số ($m^{2}$/người)": "4,0"
+    },
+    {
+      "_row_id": 2,
+      "Quy mô dân số đô thị (1 000 người)": "50 - 150",
+      "Chỉ tiêu theo dân số ($m^{2}$/người)": "3,5"
+    },
+    {
+      "_row_id": 3,
+      "Quy mô dân số đô thị (1 000 người)": "< 50",
+      "Chỉ tiêu theo dân số ($m^{2}$/người)": "2,5"
+    }
+  ]
+}

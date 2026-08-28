@@ -1,0 +1,77 @@
+{
+  "table_id": "bang_2_15",
+  "table_number": "2.15",
+  "table_title": "Bảng 2.15 - Kích thước nền các loại ga",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại ga": "1- Ga hành khách",
+      "Kiểu bố trí đường đón, tiễn tàu": "",
+      "Chiều dài nền ga (m)": "",
+      "Chiều rộng nền ga (m)": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại ga": "&nbsp;&nbsp;\\- Ga cụt",
+      "Kiểu bố trí đường đón, tiễn tàu": "",
+      "Chiều dài nền ga (m)": "≥ 1 000",
+      "Chiều rộng nền ga (m)": "≥ 200"
+    },
+    {
+      "_row_id": 3,
+      "Loại ga": "&nbsp;&nbsp;\\- Ga thông qua",
+      "Kiểu bố trí đường đón, tiễn tàu": "",
+      "Chiều dài nền ga (m)": "≥ 1 400",
+      "Chiều rộng nền ga (m)": "≥ 100"
+    },
+    {
+      "_row_id": 4,
+      "Loại ga": "2- Ga hàng hóa",
+      "Kiểu bố trí đường đón, tiễn tàu": "",
+      "Chiều dài nền ga (m)": "≥ 500",
+      "Chiều rộng nền ga (m)": "≥ 100"
+    },
+    {
+      "_row_id": 5,
+      "Loại ga": "3- Ga kỹ thuật",
+      "Kiểu bố trí đường đón, tiễn tàu": "Nối tiếp",
+      "Chiều dài nền ga (m)": "≥ 4 000",
+      "Chiều rộng nền ga (m)": "≥ 200"
+    },
+    {
+      "_row_id": 6,
+      "Loại ga": "3- Ga kỹ thuật",
+      "Kiểu bố trí đường đón, tiễn tàu": "Hỗn hợp",
+      "Chiều dài nền ga (m)": "≥ 2 700",
+      "Chiều rộng nền ga (m)": "≥ 250"
+    },
+    {
+      "_row_id": 7,
+      "Loại ga": "3- Ga kỹ thuật",
+      "Kiểu bố trí đường đón, tiễn tàu": "Song song",
+      "Chiều dài nền ga (m)": "≥ 2 200",
+      "Chiều rộng nền ga (m)": "≥ 700"
+    },
+    {
+      "_row_id": 8,
+      "Loại ga": "4- Ga hỗn hợp",
+      "Kiểu bố trí đường đón, tiễn tàu": "Xếp dọc",
+      "Chiều dài nền ga (m)": "≥ 1 500",
+      "Chiều rộng nền ga (m)": "≥ 50"
+    },
+    {
+      "_row_id": 9,
+      "Loại ga": "4- Ga hỗn hợp",
+      "Kiểu bố trí đường đón, tiễn tàu": "Nửa xếp dọc",
+      "Chiều dài nền ga (m)": "≥ 1300",
+      "Chiều rộng nền ga (m)": "≥ 50"
+    },
+    {
+      "_row_id": 10,
+      "Loại ga": "4- Ga hỗn hợp",
+      "Kiểu bố trí đường đón, tiễn tàu": "Xếp ngang",
+      "Chiều dài nền ga (m)": "≥ 900",
+      "Chiều rộng nền ga (m)": "≥ 100"
+    }
+  ]
+}

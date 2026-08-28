@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Nghị định 207/2026/NĐ-CP về Quản lý chất lượng, thi công & bảo trì công trình
 description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng
@@ -20,7 +20,7 @@ issued_date: '2026-06-15'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./nghi_dinh_207_2026_nd_cp.pdf
+  path: ./sources/nghi_dinh_207_2026_nd_cp.pdf
   sha256: aaedee18527d73ee0f3802dd447f42dd7044c82b06c532dd3c2317aacb78ced5
   cong_bao_number: Đang cập nhật
 relations:

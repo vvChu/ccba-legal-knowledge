@@ -1,6 +1,5 @@
 """Unit tests for Modernize Annex Engine (Ticket 1 / OKF v2.3)."""
 
-import sys
 from pathlib import Path
 from PIL import Image
 

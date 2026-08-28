@@ -1,0 +1,8 @@
+﻿Tên phụ tải,Chỉ tiêu cấp điện
+1. Văn phòng<br>&nbsp;&nbsp;\- Không có điều hòa nhiệt độ<br>&nbsp;&nbsp;\- Có điều hòa nhiệt độ,20 W/$m^{2}$ sàn<br>30 W/$m^{2}$ sàn
+2. Trường học<br>&nbsp;&nbsp;\- Trường mẫu giáo<br>&nbsp;&nbsp;&nbsp;&nbsp;\+ Không có điều hòa nhiệt độ<br>&nbsp;&nbsp;&nbsp;&nbsp;\+ Có điều hòa nhiệt độ<br>&nbsp;&nbsp;\- Trường học<br>&nbsp;&nbsp;&nbsp;&nbsp;\+ Không có điều hòa nhiệt độ<br>&nbsp;&nbsp;&nbsp;&nbsp;\+ Có điều hòa nhiệt độ<br>&nbsp;&nbsp;\- Trường đại học<br>&nbsp;&nbsp;&nbsp;&nbsp;\+ Không có điều hòa nhiệt độ<br>&nbsp;&nbsp;&nbsp;&nbsp;\+ Có điều hòa nhiệt độ,"0,15 kW/cháu<br>0,2 kW/cháu<br>0,1 kW/HS<br>0,15 kW/HS<br>15 W/$m^{2}$ sàn<br>25 W/$m^{2}$ sàn"
+"3. Cửa hàng, siêu thị, chợ, trung tâm thương mại, dịch vụ<br>&nbsp;&nbsp;&nbsp;&nbsp;\+ Không có điều hòa<br>&nbsp;&nbsp;&nbsp;&nbsp;\+ Có điều hòa",20 W/$m^{2}$ sàn<br>30 W/$m^{2}$ sàn
+"4. Nhà nghỉ, khách sạn<br>&nbsp;&nbsp;\- Nhà nghỉ, khách sạn hạng 1 sao<br>&nbsp;&nbsp;\- Khách sạn hạng 2÷3 sao<br>&nbsp;&nbsp;\- Khách sạn hạng 4÷5 sao","2 kW/giường<br>2,5 kW/giường<br>3,5 kW/giường"
+"5. Khối khám chữa bệnh (công trình y tế)<br>&nbsp;&nbsp;\- Bệnh viện cấp quốc gia<br>&nbsp;&nbsp;\- Bệnh viện cấp tỉnh, thành phố<br>&nbsp;&nbsp;\- Bệnh viện cấp quận, huyện","2,5 kW/giường bệnh<br>2 kW/giường bệnh<br>1,5 kW/giường bệnh"
+"6. Rạp hát, rạp chiếu bóng, rạp xiếc<br>&nbsp;&nbsp;\- Có điều hòa nhiệt độ",25 W/$m^{2}$
+"7. Chiếu sáng công cộng<br>&nbsp;&nbsp;\- Chiếu sáng đường phố<br>&nbsp;&nbsp;\- Chiếu sáng công viên, vườn hoa","1 W/$m^{2}$<br>0,5 W/$m^{2}$"

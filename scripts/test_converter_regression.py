@@ -9,7 +9,6 @@ import argparse
 import json
 import re
 import sys
-import time
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -24,7 +23,7 @@ root_dir = Path(__file__).resolve().parent.parent
 if str(root_dir) not in sys.path:
     sys.path.insert(0, str(root_dir))
 
-from ccba_legal import convert_docx_to_okf_bundle
+from ccba_legal import convert_docx_to_okf_bundle  # noqa: E402
 
 
 class ConverterRegressionSuite:
@@ -78,10 +77,101 @@ class ConverterRegressionSuite:
 
         return None
 
+    def _find_testable_items(
+        self, bundle_filter: Optional[str] = None
+    ) -> List[Tuple[Dict[str, Any], Path, Path]]:
+        """Discovers registered bundles that have matching source docx files."""
+        all_docs = self.load_registered_documents()
+        testable_items: List[Tuple[Dict[str, Any], Path, Path]] = []
+        for doc in all_docs:
+            bundle_path_str = doc.get("bundle_path", "")
+            if not bundle_path_str:
+                continue
+            bundle_dir = self.root_dir / bundle_path_str
+            if bundle_filter and bundle_filter not in bundle_dir.name:
+                continue
+            source_docx = self.find_source_docx(bundle_dir.name)
+            if source_docx:
+                testable_items.append((doc, source_docx, bundle_dir))
+        return testable_items
+
+    @staticmethod
+    def _check_pure_body_noise(body_lines: List[str]) -> Tuple[bool, bool]:
+        """Checks for official header noise and signature/recipient footer noise."""
+        header_window = "\n".join(body_lines[:25])
+        header_noise = (
+            "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM" in header_window
+            or "Độc lập - Tự do - Hạnh phúc" in header_window
+        )
+        footer_window = "\n".join(body_lines[-25:]) if len(body_lines) >= 25 else "\n".join(body_lines)
+        footer_noise = bool(
+            re.search(
+                r"(?:^|\n)(?:__\*?\s*Nơi nhận\s*:|\*+Nơi nhận\s*:|\bNơi nhận\s*:|__KT\.\s+BỘ\s+TRƯỞNG|KT\.\s+BỘ\s+TRƯỞNG)",
+                footer_window,
+                re.IGNORECASE,
+            )
+        )
+        return header_noise, footer_noise
+
+    def _verify_bundle_compliance(
+        self, doc: Dict[str, Any], docx_path: Path, bundle_dir: Path, apply_conversion: bool
+    ) -> Tuple[bool, str]:
+        """Runs conversion (if requested) and validates OKF compliance for a single bundle."""
+        doc_num = doc.get("document_number", bundle_dir.name)
+        doc_type = doc.get("type", "VBPL")
+
+        if apply_conversion:
+            try:
+                convert_docx_to_okf_bundle(
+                    docx_path=docx_path,
+                    target_bundle_dir=bundle_dir,
+                    doc_type=doc_type,
+                    registry_file=self.registry_path,
+                )
+            except Exception as e:
+                return False, f"{doc_num[:30]:<32} | {doc_type:<12} | {'ERR':<10} | {'FAIL':<10} | ❌ CONVERT ERROR: {e}"
+
+        primary_md = bundle_dir / f"{bundle_dir.name}.md"
+        if not primary_md.exists():
+            md_files = [f for f in bundle_dir.glob("*.md") if f.name not in ("index.md", "dead_ends.md", "log.md")]
+            primary_md = md_files[0] if md_files else primary_md
+
+        if not primary_md.exists():
+            return False, f"{doc_num[:30]:<32} | {doc_type:<12} | {'0':<10} | {'MISSING':<10} | ❌ FAIL (No .md)"
+
+        content = primary_md.read_text(encoding="utf-8")
+        body_parts = content.split("---", 2)
+        body_text = body_parts[2].strip() if len(body_parts) >= 3 else content
+        body_lines = [line.strip() for line in body_text.splitlines() if line.strip()]
+
+        header_noise, footer_noise = self._check_pure_body_noise(body_lines)
+        pure_status = "✅ PASS" if (not header_noise and not footer_noise) else "⚠️ NOISE"
+
+        ast_count = 0
+        clauses_json = bundle_dir / "clauses.json"
+        if clauses_json.exists():
+            try:
+                c_data = json.loads(clauses_json.read_text(encoding="utf-8"))
+                ast_count = len(c_data) if isinstance(c_data, list) else 0
+            except (json.JSONDecodeError, OSError):
+                pass
+
+        if not header_noise and not footer_noise and ast_count > 0:
+            return True, f"{doc_num[:30]:<32} | {doc_type:<12} | {ast_count:<10} | {pure_status:<10} | ✅ PASS"
+
+        notes = []
+        if header_noise:
+            notes.append("Header noise")
+        if footer_noise:
+            notes.append("Footer noise")
+        if ast_count == 0:
+            notes.append("0 AST")
+        return False, f"{doc_num[:30]:<32} | {doc_type:<12} | {ast_count:<10} | {pure_status:<10} | ❌ FAIL ({', '.join(notes)})"
+
     def run_suite(
         self,
         bundle_filter: Optional[str] = None,
-        apply_conversion: bool = False
+        apply_conversion: bool = False,
     ) -> bool:
         """Run regression tests across all discoverable document bundles."""
         print("==================================================================================")
@@ -90,24 +180,7 @@ class ConverterRegressionSuite:
         print(f"Workspace Root    : {self.root_dir}")
         print(f"Mode              : {'APPLY CONVERSION' if apply_conversion else 'AUDIT & VERIFY'}\n")
 
-        all_docs = self.load_registered_documents()
-        testable_items: List[Tuple[Dict[str, Any], Path, Path]] = []
-
-        for doc in all_docs:
-            bundle_path_str = doc.get("bundle_path", "")
-            if not bundle_path_str:
-                continue
-
-            bundle_dir = self.root_dir / bundle_path_str
-            bundle_name = bundle_dir.name
-
-            if bundle_filter and bundle_filter not in bundle_name:
-                continue
-
-            source_docx = self.find_source_docx(bundle_name)
-            if source_docx:
-                testable_items.append((doc, source_docx, bundle_dir))
-
+        testable_items = self._find_testable_items(bundle_filter)
         print(f"Discovered {len(testable_items)} registered bundles with source DOCX assets:")
         for doc, docx, b_dir in testable_items:
             print(f"  • [{doc.get('document_number', 'N/A')}] {b_dir.name} (Source: {docx.name})")
@@ -118,79 +191,12 @@ class ConverterRegressionSuite:
 
         passed_count = 0
         failed_count = 0
-        skipped_count = 0
-
         for doc, docx_path, bundle_dir in testable_items:
-            doc_num = doc.get("document_number", bundle_dir.name)
-            doc_type = doc.get("type", "VBPL")
-
-            if apply_conversion:
-                try:
-                    convert_docx_to_okf_bundle(
-                        docx_path=docx_path,
-                        target_bundle_dir=bundle_dir,
-                        doc_type=doc_type,
-                        registry_file=self.registry_path
-                    )
-                except Exception as e:
-                    print(f"{doc_num[:30]:<32} | {doc_type:<12} | {'ERR':<10} | {'FAIL':<10} | ❌ CONVERT ERROR: {e}")
-                    failed_count += 1
-                    continue
-
-            # Verify bundle output standards
-            primary_md = bundle_dir / f"{bundle_dir.name}.md"
-            clauses_json = bundle_dir / "clauses.json"
-
-            if not primary_md.exists():
-                md_files = [f for f in bundle_dir.glob("*.md") if f.name not in ("index.md", "dead_ends.md", "log.md")]
-                if md_files:
-                    primary_md = md_files[0]
-
-            if not primary_md.exists():
-                print(f"{doc_num[:30]:<32} | {doc_type:<12} | {'0':<10} | {'MISSING':<10} | ❌ FAIL (No .md)")
-                failed_count += 1
-                continue
-
-            content = primary_md.read_text(encoding="utf-8")
-            body_parts = content.split("---", 2)
-            body_text = body_parts[2].strip() if len(body_parts) >= 3 else content
-            body_lines = [l.strip() for l in body_text.splitlines() if l.strip()]
-
-            # Pure Normative Body Header & Footer check
-            header_noise = False
-            footer_noise = False
-
-            header_window = "\n".join(body_lines[:25])
-            if "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM" in header_window or "Độc lập - Tự do - Hạnh phúc" in header_window:
-                header_noise = True
-
-            footer_window = "\n".join(body_lines[-25:]) if len(body_lines) >= 25 else "\n".join(body_lines)
-            if re.search(r"(?:^|\n)(?:__\*?\s*Nơi nhận\s*:|\*+Nơi nhận\s*:|\bNơi nhận\s*:|__KT\.\s+BỘ\s+TRƯỞNG|KT\.\s+BỘ\s+TRƯỞNG)", footer_window, re.IGNORECASE):
-                footer_noise = True
-
-            pure_status = "✅ PASS" if (not header_noise and not footer_noise) else "⚠️ NOISE"
-
-            # AST count
-            ast_count = 0
-            if clauses_json.exists():
-                try:
-                    c_data = json.loads(clauses_json.read_text(encoding="utf-8"))
-                    ast_count = len(c_data)
-                except Exception:
-                    pass
-
-            if not header_noise and not footer_noise and ast_count > 0:
-                print(f"{doc_num[:30]:<32} | {doc_type:<12} | {ast_count:<10} | {pure_status:<10} | ✅ PASS")
+            passed, log_line = self._verify_bundle_compliance(doc, docx_path, bundle_dir, apply_conversion)
+            print(log_line)
+            if passed:
                 passed_count += 1
             else:
-                status_note = []
-                if header_noise:
-                    status_note.append("Header noise")
-                if footer_noise:
-                    status_note.append("Footer noise")
-                if ast_count == 0:
-                    status_note.append("0 AST")
-                print(f"{doc_num[:30]:<32} | {doc_type:<12} | {ast_count:<10} | {pure_status:<10} | ❌ FAIL ({', '.join(status_note)})")
                 failed_count += 1
 
         print("-" * 95)
@@ -199,7 +205,6 @@ class ConverterRegressionSuite:
         print(f"  • Đạt chuẩn (PASS)   : {passed_count}")
         print(f"  • Cảnh báo / Thất bại : {failed_count}")
         print("==================================================================================")
-
         return failed_count == 0
 
 

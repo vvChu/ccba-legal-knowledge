@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_2_13",
+  "table_number": "2.13",
+  "table_title": "Bảng 2.13 - Chu kỳ lặp lại mực nước ngập tính toán (năm) đối với khu chức năng",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Khu chức năng": "Khu chức năng",
+      "Loại đô thị": "Đặc biệt, loại I",
+      "col_3": "Loại II, III, IV",
+      "col_4": "Loại V"
+    },
+    {
+      "_row_id": 2,
+      "Khu chức năng": "Trung tâm đô thị, khu dân cư tập trung và khu công nghiệp",
+      "Loại đô thị": "100",
+      "col_3": "50",
+      "col_4": "10"
+    },
+    {
+      "_row_id": 3,
+      "Khu chức năng": "Cây xanh, công viên, thể dục thể thao",
+      "Loại đô thị": "10",
+      "col_3": "2",
+      "col_4": ""
+    }
+  ]
+}

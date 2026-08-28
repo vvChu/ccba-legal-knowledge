@@ -255,4 +255,4 @@ def test_adv_07_idempotency_and_zero_mutation_guarantee():
         if h_orig != h_post:
             mismatches.append(f"{path}: initial={h_orig}, post={h_post}")
 
-    assert len(mismatches) == 0, f"Idempotency violation! File mutations detected:\n" + "\n".join(mismatches)
+    assert len(mismatches) == 0, "Idempotency violation! File mutations detected:\n" + "\n".join(mismatches)

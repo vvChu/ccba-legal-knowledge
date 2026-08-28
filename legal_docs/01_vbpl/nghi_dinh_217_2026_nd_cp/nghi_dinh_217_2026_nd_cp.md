@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Nghị định 217/2026/NĐ-CP về Quản lý dự án đầu tư xây dựng
 description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng
@@ -22,7 +22,7 @@ issued_date: '2026-06-19'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./nghi_dinh_217_2026_nd_cp.pdf
+  path: ./sources/nghi_dinh_217_2026_nd_cp.pdf
   sha256: 2a9eb4d4d5ee8b5726f1c906ac0702d00a04a3452efc65f92d87cc3c8071ab0f
   cong_bao_number: Đang cập nhật
 relations:
@@ -32,6 +32,7 @@ artifacts:
   templates_dir: ./templates/
   tables_dir: ./tables/
   benchmark_file: ./qa_benchmark.json
+  annexes_dir: ./annexes/
 ---
 
 # 217/2026/NĐ-CP
@@ -2488,5 +2489,5 @@ b) Riêng đối với dự án đầu tư xây dựng thuộc địa bàn thàn
 - 📄 **[Phụ lục II - Mẫu 04: CƠ QUAN CẤP GIẤY PHÉP](./templates/phu_luc_ii/mau_04_cơ_quan_cấp_giấy_phép.md)**
 - 📄 **[Phụ lục II - Mẫu 05: CƠ QUAN CẤP GIẤY PHÉP](./templates/phu_luc_ii/mau_05_cơ_quan_cấp_giấy_phép.md)**
 - 📄 **[Phụ lục II - Mẫu 06: MẪU DẤU CỦA CƠ QUAN THỰC HIỆN CẤP GIẤY PHÉP XÂY DỰNG](./templates/phu_luc_ii/mau_06_mẫu_dấu_của_cơ_quan_thực_hiện_cấp_giấy_p.md)**
-- 📄 **[Phụ lục III: PHÂN LOẠI DỰ ÁN ĐẦU TƯ XÂY DỰNG THEO CÔNG NĂNG PHỤC VỤ VÀ TÍNH CHẤT CHUYÊN NGÀNH CỦA CÔNG TRÌNH](./templates/phu_luc_iii_phân_loại_dự_án_đầu_tư_xây_dựng_theo_côn.md)**
+- 📄 **[Phụ lục III: PHÂN LOẠI DỰ ÁN ĐẦU TƯ XÂY DỰNG THEO CÔNG NĂNG PHỤC VỤ VÀ TÍNH CHẤT CHUYÊN NGÀNH CỦA CÔNG TRÌNH](./annexes/phu_luc_iii_phan_loai_du_an_theo_cong_nang.md)**
 - 📊 **[bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong](./tables/csv/bang_danh_muc_cong_trinh_anh_huong_an_toan_cong_dong.csv)**

@@ -4,17 +4,14 @@ Verifies 107 boundary limits, mathematical formulas, Unicode symbols,
 table dimensional extremes, and amendment delta integrity for QCVN 06:2022/BXD.
 """
 
-import math
 import re
 import unicodedata
 from pathlib import Path
-from typing import Any, Dict, List, Set
+from typing import Any, Dict, List
 
-import pytest
 
 from tests.conftest import (
     DocxParsedBundle,
-    DocxTableData,
     MarkdownParsedBundle,
 )
 

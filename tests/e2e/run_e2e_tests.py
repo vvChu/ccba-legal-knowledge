@@ -6,7 +6,6 @@ and exports comprehensive test reports to JSON and Markdown.
 """
 
 import json
-import os
 import re
 import subprocess
 import sys

@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Thông tư 101/2026/TT-BQP quy định chi tiết trong lĩnh vực quốc phòng theo Luật
   Xây dựng 2025
@@ -21,7 +21,7 @@ issued_date: '2026-06-30'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./thong_tu_101_2026_tt_bqp.pdf
+  path: ./sources/thong_tu_101_2026_tt_bqp.pdf
   sha256: 8512ccb3393c2d1f833a7de251ac46a9847a0d0da154a33004210651def327d7
   cong_bao_number: Đang cập nhật
 relations:
@@ -456,11 +456,4 @@ b) Thiết kế xây dựng đang thực hiện thẩm định trước ngày Th
 
 <a id="dieu-19-khoan-2"></a>
 **2.** Cơ quan chuyên môn về xây dựng Bộ Quốc phòng và cơ quan chuyên môn về xây dựng trực thuộc đơn vị đầu mối Bộ Quốc phòng hướng dẫn thực hiện Thông tư này./.
-
----
-
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
-
-> [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
-
+**2.** Cơ quan chuyên môn về xây dựng Bộ Quốc phòng và cơ quan chuyên môn về xây dựng trực thuộc đơn vị đầu mối Bộ Quốc phòng hướng dẫn thực hiện Thông tư này./.

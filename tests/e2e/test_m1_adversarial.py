@@ -6,15 +6,12 @@ Covers:
 """
 
 import sys
-import os
-import shutil
 import subprocess
 from pathlib import Path
 import pytest
 import docx
 
-from ccba_legal import convert_docx_to_okf_bundle, normalize_docx_markdown
-from ccba_legal.cli import main as docx_converter_main
+from ccba_legal import convert_docx_to_okf_bundle
 
 TARGET_DECREES = [
     "nghi_dinh_217_2026_nd_cp",
@@ -124,7 +121,7 @@ def test_docx_converter_custom_output_filename_in_subfolder(tmp_path: Path):
     # If output_filename has subfolder like 'nested/output.md', write_text might fail if nested/ is not created
     subpath_filename = "nested/output.md"
     try:
-        res = convert_docx_to_okf_bundle(input_docx, target_dir, output_filename=subpath_filename)
+        convert_docx_to_okf_bundle(input_docx, target_dir, output_filename=subpath_filename)
         assert (target_dir / "nested" / "output.md").exists()
     except FileNotFoundError:
         # Documented behavior: subfolder in output_filename is not auto-created unless handled

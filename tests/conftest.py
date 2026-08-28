@@ -7,10 +7,9 @@ enabling fast execution (< 2 seconds) of all 230+ assertions across 4 tiers.
 import csv
 import json
 import re
-import unicodedata
 from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Set, Tuple
+from typing import Any, Dict, List, Set, Tuple
 
 import docx
 import pytest
@@ -436,6 +435,7 @@ def sd1_md_parsed(md_sd1_path: Path) -> Dict[str, Any]:
     """Cached in-memory parsed model of sua_doi_1_2023_qcvn_06_2022_bxd.md."""
     return parse_markdown_amendment(md_sd1_path)
 
+
 @pytest.fixture(scope="session")
 def json_tables_map(qcvn_bundle_dir: Path) -> Dict[str, dict]:
     """Map of slug/stem to JSON table dict for all 64 files in tables/json/."""
@@ -449,7 +449,7 @@ def json_tables_map(qcvn_bundle_dir: Path) -> Dict[str, dict]:
                     result[json_file.stem] = data
                     if "table_id" in data:
                         result[data["table_id"]] = data
-                except Exception:
+                except (json.JSONDecodeError, OSError):
                     pass
     return result
 
@@ -464,7 +464,7 @@ def csv_tables_map(qcvn_bundle_dir: Path) -> Dict[str, List[List[str]]]:
                 try:
                     reader = csv.reader(f)
                     result[csv_file.stem] = list(reader)
-                except Exception:
+                except (csv.Error, OSError):
                     pass
     return result
 
@@ -474,7 +474,10 @@ def clauses_ast_data(qcvn_bundle_dir: Path) -> List[dict]:
     clauses_file = qcvn_bundle_dir / "clauses.json"
     if clauses_file.exists():
         with open(clauses_file, "r", encoding="utf-8") as f:
-            return json.load(f)
+            try:
+                return json.load(f)
+            except (json.JSONDecodeError, OSError):
+                return []
     return []
 
 @pytest.fixture(scope="session")
@@ -483,7 +486,10 @@ def qa_benchmark_data(qcvn_bundle_dir: Path) -> List[dict]:
     qa_file = qcvn_bundle_dir / "qa_benchmark.json"
     if qa_file.exists():
         with open(qa_file, "r", encoding="utf-8") as f:
-            return json.load(f)
+            try:
+                return json.load(f)
+            except (json.JSONDecodeError, OSError):
+                return []
     return []
 
 @pytest.fixture(scope="session")
@@ -492,5 +498,26 @@ def legal_registry_data(repo_root: Path) -> dict:
     reg_file = repo_root / "legal_registry.yaml"
     if reg_file.exists():
         with open(reg_file, "r", encoding="utf-8") as f:
-            return yaml.safe_load(f)
+            try:
+                return yaml.safe_load(f) or {}
+            except (yaml.YAMLError, OSError):
+                return {}
     return {}
+
+@pytest.fixture(scope="session")
+def all_registered_bundles(repo_root: Path, legal_registry_data: dict) -> List[Dict[str, Any]]:
+    """Returns list of all active registered bundle entries across categories."""
+    bundles = []
+    for doc in legal_registry_data.get("documents", []):
+        bp = doc.get("bundle_path")
+        if bp:
+            bundle_dir = repo_root / bp.strip("/")
+            if bundle_dir.exists():
+                bundles.append({**doc, "absolute_dir": bundle_dir})
+    return bundles
+
+@pytest.fixture(scope="session")
+def all_bundle_dirs(all_registered_bundles: List[Dict[str, Any]]) -> List[Path]:
+    """Returns list of Path objects for all registered OKF bundle directories."""
+    return [b["absolute_dir"] for b in all_registered_bundles]
+

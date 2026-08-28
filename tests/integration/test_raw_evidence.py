@@ -1,7 +1,6 @@
 """Tests for raw evidence store (Requirement R1)."""
 
 from pathlib import Path
-import pytest
 
 TARGET_DECREES = [
     "nghi_dinh_217_2026_nd_cp",

@@ -10,12 +10,24 @@ from pathlib import Path
 sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
 sys.stderr.reconfigure(line_buffering=True, encoding="utf-8")
 
-from sync_adr_matrix import (
-    compile_adr_readme,
-    compile_traceability_matrix,
-    parse_adr_file,
-    scan_skill_radar,
-)
+_SCRIPTS_DIR = Path(__file__).resolve().parent
+if str(_SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS_DIR))
+
+try:
+    from sync_adr_matrix import (
+        compile_adr_readme,
+        compile_traceability_matrix,
+        parse_adr_file,
+        scan_skill_radar,
+    )
+except ImportError:
+    from scripts.sync_adr_matrix import (
+        compile_adr_readme,
+        compile_traceability_matrix,
+        parse_adr_file,
+        scan_skill_radar,
+    )
 
 
 def validate_adr_parity() -> bool:

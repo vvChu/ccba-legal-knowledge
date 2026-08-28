@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Nghị định 206/2026/NĐ-CP về Quản lý chi phí đầu tư xây dựng
 description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng
@@ -22,7 +22,7 @@ issued_date: '2026-06-25'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./nghi_dinh_206_2026_nd_cp.pdf
+  path: ./sources/nghi_dinh_206_2026_nd_cp.pdf
   sha256: 160aebe33b6981e7111ce327cacc675447d736fb10a519bdfef2a8db02131373
   cong_bao_number: Đang cập nhật
 relations:
@@ -959,10 +959,4 @@ __ĐIỀU KHOẢN THI HÀNH__
 <a id="dieu-38-khoan-3"></a>
 **3.** Nghị định số 10/2021/NĐ-CP ngày 09 tháng 02 năm 2021 của Chính phủ về quản lý chi phí đầu tư xây dựng hết hiệu lực kể từ ngày Nghị định này có hiệu lực.
 
----
-
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
-
-> [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 

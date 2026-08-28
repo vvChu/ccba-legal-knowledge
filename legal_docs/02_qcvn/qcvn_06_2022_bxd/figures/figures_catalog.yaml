@@ -1,0 +1,22 @@
+version: '1.0'
+standard: QCVN 06:2022/BXD
+title: Danh mục Thẻ Thị giác Tham số hóa & Hình vẽ Minh họa QCVN 06:2022/BXD
+figures_count: 2
+cards:
+- id: card_fire_truck_access_dimensions
+  title: Bãi đỗ & Bãi quay xe chữa cháy (Bảng 14, 15, 16 - Mục 6)
+  type: dimensional_matrix_card
+  source_clauses:
+  - 'Mục 6.2'
+  - 'Bảng 14'
+  - 'Bảng 15'
+  - 'Bảng 16'
+  file: ./figures/cards/card_fire_truck_access_dimensions.json
+- id: card_travel_distance_to_exits
+  title: Cự ly Thoát nạn và Chiều rộng Lối thoát (Phụ lục G & Sửa đổi 1:2023)
+  type: egress_calculation_card
+  source_clauses:
+  - 'Mục 3.2'
+  - 'Mục 3.4'
+  - 'Bảng G.1'
+  file: ./figures/cards/card_travel_distance_to_exits.json

@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Thông tư 79/2026/TT-BTC quy định thu, chi của Chủ đầu tư, Ban QLDA sử dụng
   vốn ngân sách nhà nước
@@ -21,7 +21,7 @@ issued_date: '2026-06-30'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./thong_tu_79_2026_tt_btc.pdf
+  path: ./sources/thong_tu_79_2026_tt_btc.pdf
   sha256: ccd9cd294aabe6603bada057d2511902ab883d376a090f43698165db3cb5fcc4
   cong_bao_number: Đang cập nhật
 relations:

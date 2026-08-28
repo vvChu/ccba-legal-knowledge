@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Thông tư 39/2026/TT-BXD hướng dẫn cơ sở dữ liệu quốc gia về hoạt động xây dựng
 description: Tài liệu Thông tư quy định chính quy trong hệ thống tri thức xây dựng
@@ -20,7 +20,7 @@ issued_date: '2026-06-30'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./thong_tu_39_2026_tt_bxd.pdf
+  path: ./sources/thong_tu_39_2026_tt_bxd.pdf
   sha256: fcbd63740d9d284018c986e44ffea60ec9836120e0cad0d595e54b78dd660396
   cong_bao_number: Đang cập nhật
 relations:

@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Nghị định 209/2026/NĐ-CP về Quản lý vật liệu xây dựng
 description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng
@@ -20,7 +20,7 @@ issued_date: '2026-06-25'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./nghi_dinh_209_2026_nd_cp.pdf
+  path: ./sources/nghi_dinh_209_2026_nd_cp.pdf
   sha256: df417e2903348560a7641b9f4308be938ae0a173c57a7630ce7687687cf71769
   cong_bao_number: Đang cập nhật
 relations:
@@ -359,10 +359,4 @@ e) Tổ chức thanh tra, kiểm tra và xử lý vi phạm trong lĩnh vực v�
 <a id="dieu-19-khoan-2"></a>
 **2.** Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
----
-
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
-
-> [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 

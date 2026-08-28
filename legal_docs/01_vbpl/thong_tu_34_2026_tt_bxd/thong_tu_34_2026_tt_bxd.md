@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Thông tư 34/2026/TT-BXD quy định chi tiết về cấp công trình xây dựng phục vụ
   quản lý hoạt động xây dựng
@@ -21,7 +21,7 @@ issued_date: '2026-06-30'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./thong_tu_34_2026_tt_bxd.pdf
+  path: ./sources/thong_tu_34_2026_tt_bxd.pdf
   sha256: b65419b559da67420d9b6b0681ddfa695c29ad8b3ae270ed70b2a545f6a17aae
   cong_bao_number: Đang cập nhật
 relations:

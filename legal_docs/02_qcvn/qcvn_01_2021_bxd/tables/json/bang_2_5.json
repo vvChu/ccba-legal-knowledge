@@ -1,0 +1,27 @@
+{
+  "table_id": "bang_2_5",
+  "table_number": "2.5",
+  "table_title": "Bảng 2.5 - Diện tích tối thiểu đất cây xanh sử dụng công cộng trong đô thị (không bao gồm đất cây xanh sử dụng công cộng trong đơn vị ở)",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đô thị": "Đặc biệt",
+      "Tiêu chuẩn ($m^{2}$/người)": "7"
+    },
+    {
+      "_row_id": 2,
+      "Loại đô thị": "I và II",
+      "Tiêu chuẩn ($m^{2}$/người)": "6"
+    },
+    {
+      "_row_id": 3,
+      "Loại đô thị": "III và IV",
+      "Tiêu chuẩn ($m^{2}$/người)": "5"
+    },
+    {
+      "_row_id": 4,
+      "Loại đô thị": "V",
+      "Tiêu chuẩn ($m^{2}$/người)": "4"
+    }
+  ]
+}

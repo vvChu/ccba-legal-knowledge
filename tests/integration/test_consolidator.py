@@ -5,8 +5,6 @@ from pathlib import Path
 import pytest
 
 from ccba_legal.consolidator import (
-    ASTNode,
-    ConsolidationResult,
     DefectSeverity,
     DocMode,
     DualModeASTParser,

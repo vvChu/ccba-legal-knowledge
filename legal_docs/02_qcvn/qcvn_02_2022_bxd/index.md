@@ -14,5 +14,4 @@
 - [Metadata Pháp lý & Đồ thị (YAML)](./metadata.yaml) — Đặc tả thuộc tính văn bản.
 - [Cây Cú Pháp Điều Khoản (AST Clauses JSON)](./clauses.json) — 119 nodes điều khoản phục vụ AI QC & RAG.
 - [Bộ Đánh Giá Độ Chính Xác (QA Benchmark)](./qa_benchmark.json) — 119 cặp câu hỏi - câu trả lời đối soát.
-- [Kho Module Phụ Lục Kỹ Thuật (Templates Directory)](./templates/) — 0 Module Phụ lục Markdown.
 - [Bảng Tra Cứu Số Hóa (Tables Directory)](./tables/) — 49 Bảng tra cứu số học (CSV + JSON).

@@ -1,0 +1,42 @@
+{
+  "table_id": "bang_2_28",
+  "table_number": "2.28",
+  "table_title": "Bảng 2.28 - Chỉ tiêu cấp điện công trình công cộng, dịch vụ",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên phụ tải": "1. Văn phòng&nbsp;&nbsp;\\- Không có điều hòa nhiệt độ&nbsp;&nbsp;\\- Có điều hòa nhiệt độ",
+      "Chỉ tiêu cấp điện": "20 W/$m^{2}$ sàn30 W/$m^{2}$ sàn"
+    },
+    {
+      "_row_id": 2,
+      "Tên phụ tải": "2. Trường học&nbsp;&nbsp;\\- Trường mẫu giáo&nbsp;&nbsp;&nbsp;&nbsp;\\+ Không có điều hòa nhiệt độ&nbsp;&nbsp;&nbsp;&nbsp;\\+ Có điều hòa nhiệt độ&nbsp;&nbsp;\\- Trường học&nbsp;&nbsp;&nbsp;&nbsp;\\+ Không có điều hòa nhiệt độ&nbsp;&nbsp;&nbsp;&nbsp;\\+ Có điều hòa nhiệt độ&nbsp;&nbsp;\\- Trường đại học&nbsp;&nbsp;&nbsp;&nbsp;\\+ Không có điều hòa nhiệt độ&nbsp;&nbsp;&nbsp;&nbsp;\\+ Có điều hòa nhiệt độ",
+      "Chỉ tiêu cấp điện": "0,15 kW/cháu0,2 kW/cháu0,1 kW/HS0,15 kW/HS15 W/$m^{2}$ sàn25 W/$m^{2}$ sàn"
+    },
+    {
+      "_row_id": 3,
+      "Tên phụ tải": "3. Cửa hàng, siêu thị, chợ, trung tâm thương mại, dịch vụ&nbsp;&nbsp;&nbsp;&nbsp;\\+ Không có điều hòa&nbsp;&nbsp;&nbsp;&nbsp;\\+ Có điều hòa",
+      "Chỉ tiêu cấp điện": "20 W/$m^{2}$ sàn30 W/$m^{2}$ sàn"
+    },
+    {
+      "_row_id": 4,
+      "Tên phụ tải": "4. Nhà nghỉ, khách sạn&nbsp;&nbsp;\\- Nhà nghỉ, khách sạn hạng 1 sao&nbsp;&nbsp;\\- Khách sạn hạng 2÷3 sao&nbsp;&nbsp;\\- Khách sạn hạng 4÷5 sao",
+      "Chỉ tiêu cấp điện": "2 kW/giường2,5 kW/giường3,5 kW/giường"
+    },
+    {
+      "_row_id": 5,
+      "Tên phụ tải": "5. Khối khám chữa bệnh (công trình y tế)&nbsp;&nbsp;\\- Bệnh viện cấp quốc gia&nbsp;&nbsp;\\- Bệnh viện cấp tỉnh, thành phố&nbsp;&nbsp;\\- Bệnh viện cấp quận, huyện",
+      "Chỉ tiêu cấp điện": "2,5 kW/giường bệnh2 kW/giường bệnh1,5 kW/giường bệnh"
+    },
+    {
+      "_row_id": 6,
+      "Tên phụ tải": "6. Rạp hát, rạp chiếu bóng, rạp xiếc&nbsp;&nbsp;\\- Có điều hòa nhiệt độ",
+      "Chỉ tiêu cấp điện": "25 W/$m^{2}$"
+    },
+    {
+      "_row_id": 7,
+      "Tên phụ tải": "7. Chiếu sáng công cộng&nbsp;&nbsp;\\- Chiếu sáng đường phố&nbsp;&nbsp;\\- Chiếu sáng công viên, vườn hoa",
+      "Chỉ tiêu cấp điện": "1 W/$m^{2}$0,5 W/$m^{2}$"
+    }
+  ]
+}

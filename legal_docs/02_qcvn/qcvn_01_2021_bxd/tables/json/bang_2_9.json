@@ -1,0 +1,111 @@
+{
+  "table_id": "bang_2_9",
+  "table_number": "2.9",
+  "table_title": "Bảng 2.9 - Mật độ xây dựng thuần tối đa của nhóm nhà chung cư theo diện tích lô đất và chiều cao công trình",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Chiều cao xây dựng công trình trên mặt đất (m)": "Chiều cao xây dựng công trình trên mặt đất (m)",
+      "Mật độ xây dựng tối đa (%) theo diện tích lô đất": "≤ 3 000 $m^{2}$",
+      "col_3": "10 000 $m^{2}$",
+      "col_4": "18 000 $m^{2}$",
+      "col_5": "≥ 35 000 $m^{2}$"
+    },
+    {
+      "_row_id": 2,
+      "Chiều cao xây dựng công trình trên mặt đất (m)": "≤ 16",
+      "Mật độ xây dựng tối đa (%) theo diện tích lô đất": "75",
+      "col_3": "65",
+      "col_4": "63",
+      "col_5": "60"
+    },
+    {
+      "_row_id": 3,
+      "Chiều cao xây dựng công trình trên mặt đất (m)": "19",
+      "Mật độ xây dựng tối đa (%) theo diện tích lô đất": "75",
+      "col_3": "60",
+      "col_4": "58",
+      "col_5": "55"
+    },
+    {
+      "_row_id": 4,
+      "Chiều cao xây dựng công trình trên mặt đất (m)": "22",
+      "Mật độ xây dựng tối đa (%) theo diện tích lô đất": "75",
+      "col_3": "57",
+      "col_4": "55",
+      "col_5": "52"
+    },
+    {
+      "_row_id": 5,
+      "Chiều cao xây dựng công trình trên mặt đất (m)": "25",
+      "Mật độ xây dựng tối đa (%) theo diện tích lô đất": "75",
+      "col_3": "53",
+      "col_4": "51",
+      "col_5": "48"
+    },
+    {
+      "_row_id": 6,
+      "Chiều cao xây dựng công trình trên mặt đất (m)": "28",
+      "Mật độ xây dựng tối đa (%) theo diện tích lô đất": "75",
+      "col_3": "50",
+      "col_4": "48",
+      "col_5": "45"
+    },
+    {
+      "_row_id": 7,
+      "Chiều cao xây dựng công trình trên mặt đất (m)": "31",
+      "Mật độ xây dựng tối đa (%) theo diện tích lô đất": "75",
+      "col_3": "48",
+      "col_4": "46",
+      "col_5": "43"
+    },
+    {
+      "_row_id": 8,
+      "Chiều cao xây dựng công trình trên mặt đất (m)": "34",
+      "Mật độ xây dựng tối đa (%) theo diện tích lô đất": "75",
+      "col_3": "46",
+      "col_4": "44",
+      "col_5": "41"
+    },
+    {
+      "_row_id": 9,
+      "Chiều cao xây dựng công trình trên mặt đất (m)": "37",
+      "Mật độ xây dựng tối đa (%) theo diện tích lô đất": "75",
+      "col_3": "44",
+      "col_4": "42",
+      "col_5": "39"
+    },
+    {
+      "_row_id": 10,
+      "Chiều cao xây dựng công trình trên mặt đất (m)": "40",
+      "Mật độ xây dựng tối đa (%) theo diện tích lô đất": "75",
+      "col_3": "43",
+      "col_4": "41",
+      "col_5": "38"
+    },
+    {
+      "_row_id": 11,
+      "Chiều cao xây dựng công trình trên mặt đất (m)": "43",
+      "Mật độ xây dựng tối đa (%) theo diện tích lô đất": "75",
+      "col_3": "42",
+      "col_4": "40",
+      "col_5": "37"
+    },
+    {
+      "_row_id": 12,
+      "Chiều cao xây dựng công trình trên mặt đất (m)": "46",
+      "Mật độ xây dựng tối đa (%) theo diện tích lô đất": "75",
+      "col_3": "41",
+      "col_4": "39",
+      "col_5": "36"
+    },
+    {
+      "_row_id": 13,
+      "Chiều cao xây dựng công trình trên mặt đất (m)": ">46",
+      "Mật độ xây dựng tối đa (%) theo diện tích lô đất": "75",
+      "col_3": "40",
+      "col_4": "38",
+      "col_5": "35"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Thông tư 32/2026/TT-BXD quy định chi tiết một số điều của Nghị định 207/2026/NĐ-CP
   về quản lý chất lượng
@@ -21,7 +21,7 @@ issued_date: '2026-06-30'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./thong_tu_32_2026_tt_bxd.pdf
+  path: ./sources/thong_tu_32_2026_tt_bxd.pdf
   sha256: ea27c3c8030538e7c0c025b8fd29884f938c3b2cb95ab8182b5a58b420ab2790
   cong_bao_number: Đang cập nhật
 relations:
@@ -230,10 +230,4 @@ e) Dự kiến phương án xử lý đối với công trình sau khi hết th�
 
 __* *__
 
----
-
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
-
-> [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 

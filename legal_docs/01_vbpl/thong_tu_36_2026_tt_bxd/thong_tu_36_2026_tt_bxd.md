@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Thông tư 36/2026/TT-BXD hướng dẫn xác định và quản lý chi phí đầu tư xây dựng
 description: Tài liệu Thông tư quy định chính quy trong hệ thống tri thức xây dựng
@@ -22,7 +22,7 @@ issued_date: '2026-06-30'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./thong_tu_36_2026_tt_bxd.pdf
+  path: ./sources/thong_tu_36_2026_tt_bxd.pdf
   sha256: 6ef24aa5112ab267fbad9c66f5b17fbc7c8b7c9015ae370f71864d327febd20c
   cong_bao_number: Đang cập nhật
 relations:

@@ -1,0 +1,16 @@
+{
+  "id": "card_travel_distance_to_exits",
+  "title": "Cự ly Thoát nạn và Chiều rộng Lối thoát nạn",
+  "standard": "QCVN 06:2022/BXD (bao gồm Sửa đổi 1:2023)",
+  "clauses": ["3.2", "3.4", "Bảng G.1"],
+  "parameters": {
+    "min_door_width_m": 0.8,
+    "min_door_height_m": 1.9,
+    "min_corridor_width_m": 1.2,
+    "corridor_between_exits_multiplier_with_sprinkler_smoke": 1.5,
+    "dead_end_corridor_multiplier_with_sprinkler_smoke": 1.5
+  },
+  "rules": [
+    "Cự ly thoát nạn giới hạn cho phép nhân hệ số 1.5 khi công trình trang bị hệ thống chữa cháy tự động Sprinkler và hút khói hành lang theo quy định tại Sửa đổi 1:2023."
+  ]
+}

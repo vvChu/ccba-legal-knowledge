@@ -1,0 +1,10 @@
+bundle_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15/
+pdf_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15/sources/luat_135_2025_qh15.pdf
+pdf_sha256: bacd661b1e7cb5e58f21c9357f465d1248588aea7838ba6d286f8982562edf01
+pdf_status: verified
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: bacd661b1e7cb5e58f21c9357f465d1248588aea7838ba6d286f8982562edf01
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_xay_dung_2025_135_2025_qh15/luat_135_2025_qh15.pdf
+    status: verified

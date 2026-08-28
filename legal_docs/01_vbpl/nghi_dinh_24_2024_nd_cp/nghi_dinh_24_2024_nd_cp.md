@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Nghị định 24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành
   Luật Đấu thầu về lựa chọn nhà thầu
@@ -21,7 +21,7 @@ issued_date: '2024-02-27'
 effective_date: '2024-02-27'
 status: active
 pdf_anchor:
-  path: ./nghi_dinh_24_2024_nd_cp.pdf
+  path: ./sources/nghi_dinh_24_2024_nd_cp.pdf
   sha256: 810b9139d0074b49ab5b873667793d4c52433fc365fbfec787db408c17a1b104
   cong_bao_number: Đang cập nhật
 relations:
@@ -4814,10 +4814,4 @@ d) Nghiên cứu, hướng dẫn về phân nhóm thiết bị y tế theo tiêu
 <a id="dieu-135-khoan-4"></a>
 **4.** Thủ trưởng cơ quan trung ương, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trong phạm vi chức năng, nhiệm vụ của mình chịu trách nhiệm hướng dẫn và thi hành Nghị định này./.
 
----
-
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
-
-> [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 

@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Thông tư 33/2026/TT-BXD về đánh giá an toàn công trình trong quá trình khai
   thác, sử dụng
@@ -20,7 +20,7 @@ issued_date: '2026-06-30'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./thong_tu_33_2026_tt_bxd.pdf
+  path: ./sources/thong_tu_33_2026_tt_bxd.pdf
   sha256: 73b9b92da82b5a2ca53f7c0b53936fdd35eec0fd40b24a44d00179fe1ff62399
   cong_bao_number: Đang cập nhật
 relations:
@@ -279,10 +279,4 @@ g) Kết luận và kiến nghị (nếu có)*.*
 <a id="dieu-12-khoan-2"></a>
 **2.** Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, các cá nhân, tổ chức phản ánh kịp thời về Bộ Xây dựng để được xem xét, hướng dẫn./.
 
----
-
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
-
-> [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 

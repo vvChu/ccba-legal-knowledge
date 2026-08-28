@@ -5,18 +5,14 @@ amendment overrides, bidirectional cross-reference traversal, and full spoke val
 against QCVN 06:2022/BXD and Sửa đổi 1:2023.
 """
 
-import json
-import re
 import subprocess
 import sys
 from pathlib import Path
 from typing import Any, Dict, List
 
-import pytest
 
 from tests.conftest import (
     DocxParsedBundle,
-    DocxTableData,
     MarkdownParsedBundle,
 )
 

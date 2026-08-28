@@ -7,7 +7,7 @@ signer: Đang cập nhật
 issued_date: '2026-06-25'
 effective_date: '2026-07-01'
 status: active
-pdf_path: legal_docs/01_vbpl/nghi_dinh_206_2026_nd_cp/nghi_dinh_206_2026_nd_cp.pdf
+pdf_path: legal_docs/01_vbpl/nghi_dinh_206_2026_nd_cp/sources/nghi_dinh_206_2026_nd_cp.pdf
 pdf_sha256: 160aebe33b6981e7111ce327cacc675447d736fb10a519bdfef2a8db02131373
 pdf_status: verified
 legal_basis:
@@ -31,3 +31,10 @@ legal_basis:
   title: Luật Ngân sách nhà nước số 89/2025/QH15 được sửa đổi, bổ sung bởi Luật số
     145/2025/QH15
 replaces: []
+bundle_path: legal_docs/01_vbpl/nghi_dinh_206_2026_nd_cp/
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: 160aebe33b6981e7111ce327cacc675447d736fb10a519bdfef2a8db02131373
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_206_2026_nd_cp/nghi_dinh_206_2026_nd_cp.pdf
+    status: verified

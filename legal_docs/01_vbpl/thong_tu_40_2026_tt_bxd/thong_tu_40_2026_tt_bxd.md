@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Thông tư 40/2026/TT-BXD hướng dẫn xác định chi phí bảo trì công trình xây dựng
 description: Tài liệu Thông tư quy định chính quy trong hệ thống tri thức xây dựng
@@ -21,7 +21,7 @@ issued_date: '2026-06-30'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./thong_tu_40_2026_tt_bxd.pdf
+  path: ./sources/thong_tu_40_2026_tt_bxd.pdf
   sha256: 5f0cceab8d62dae9d46bb333eeb3ea227129e029d1bbf971304714ee62702fcf
   cong_bao_number: Đang cập nhật
 relations:

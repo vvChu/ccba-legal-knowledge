@@ -39,7 +39,7 @@ trong đó:
 \- c) Đối với công trình có mặt bằng hình chữ L và chữ Z: xem [Hình E.1e](#hinh-e_1e) và [Hình E.1f](#hinh-e_1f).
 
 
-<a id="hinh-e_1"></a>
+<a id="hinh-e_1"></a><a id="hinh-e_1a"></a><a id="hinh-e_1b"></a><a id="hinh-e_1c"></a><a id="hinh-e_1d"></a><a id="hinh-e_1e"></a><a id="hinh-e_1f"></a>
 
 <p align="center">
 

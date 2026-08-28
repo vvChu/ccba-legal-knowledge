@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Luật Đấu thầu số 22/2023/QH15
 description: Tài liệu Luật quy định chính quy trong hệ thống tri thức xây dựng CCBA.
@@ -19,7 +19,7 @@ issued_date: '2023-06-23'
 effective_date: '2024-01-01'
 status: active
 pdf_anchor:
-  path: ./luat_22_2023_qh15.pdf
+  path: ./sources/luat_22_2023_qh15.pdf
   sha256: 9c6fbdb47b2bc1f51b729443d9bf328d4428a51b3ef34a3d98f65e0499221621
   cong_bao_number: 789+790/2023
 relations:
@@ -2931,10 +2931,4 @@ __ĐIỀU KHOẢN THI HÀNH__
 <a id="dieu-96-khoan-4"></a>
 **4.** Hợp đồng mà nhà thầu trúng thầu vật tư, hóa chất có trách nhiệm cung cấp trang thiết bị y tế để sử dụng vật tư, hóa chất đó được ký kết trước ngày Luật này có hiệu lực thi hành được tiếp tục thực hiện trong thời hạn quy định tại hợp đồng nhưng không quá 05 năm kể từ ngày Luật này có hiệu lực thi hành./.
 
----
-
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
-
-> [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 

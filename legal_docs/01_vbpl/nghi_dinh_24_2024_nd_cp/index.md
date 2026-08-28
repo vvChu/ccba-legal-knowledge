@@ -14,5 +14,3 @@
 - [Metadata Pháp lý & Đồ thị (YAML)](./metadata.yaml) — Đặc tả thuộc tính và cây đồ thị `legal_basis`.
 - [Cây Cú Pháp Điều Khoản (AST Clauses JSON)](./clauses.json) — 742 nodes điều khoản phục vụ AI QC & RAG.
 - [Bộ Đánh Giá Độ Chính Xác (QA Benchmark)](./qa_benchmark.json) — 742 cặp câu hỏi - câu trả lời đối soát.
-- [Kho Biểu Mẫu Chuẩn Hóa (Templates Directory)](./templates/) — 0 Biểu mẫu Markdown phục vụ Agent Copywriting & Sinh Hồ Sơ.
-- [Bảng Tra Cứu Kỹ Thuật (Tables Directory)](./tables/) — 0 Bảng tra cứu số học (CSV + JSON).

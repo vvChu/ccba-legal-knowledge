@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 > **Đây là Repository Spoke Tri thức Pháp lý chính quy của CCBA Agent Platform.**
-> Tất cả dữ liệu tri thức được đóng gói theo tiêu chuẩn **OKF v2.2 Native-First (Pure Normative Body & Atomic Templates - ADR 0021)**.
+> Tất cả dữ liệu tri thức được đóng gói theo tiêu chuẩn **OKF v2.4 Universal Agent-Centric (ADR 0021, ADR 0034, ADR 0035, ADR 0036)**.
 
 ---
 
@@ -10,34 +10,37 @@
 1. **Mô hình Đường dẫn Nông (Shallow Path):** Thư mục `legal_docs/` nằm tại Cấp 1 của Spoke. `legal_registry.yaml` nằm tại Root.
 2. **Reuse-First Gate:** Mọi thao tác cập nhật dữ liệu phải kế thừa trực tiếp từ package Hub (`packages/ccba-legal-intel`).
 3. **Độc lập Mã nguồn:** Không chứa code ứng dụng frontend/backend, tập trung 100% cho OKF Markdown Bundles, RAG Metadata, Atomic Templates và Pipeline kiểm định.
-4. **PDF là Mỏ Neo Pháp Lý Tối Thượng (ADR 0016):** 100% văn bản nạp vào phải có metadata theo dõi PDF Công báo gốc và mã băm SHA-256.
-5. **Thân Văn Bản Thuần Khiết & Biểu Mẫu Nguyên Tử (ADR 0021):** Thân văn bản chính loại bỏ 100% rác layout hành chính; Phụ lục biểu mẫu được tách thành Atomic Form Templates (`templates/phu_luc_XX/mau_YY_...md`); Bảng số liệu tra cứu đưa vào `tables/`.
-6. **Bảo Tồn Ký Tự Gốc & Kiểm Định Thị Giác (ADR 0029 & ADR 0030):** Bảo toàn $100\%$ dấu gạch đầu dòng `-` và `+` bằng cơ chế thoát ký tự `\- ` và `&nbsp;&nbsp;\+ `; Áp dụng Bảng Điều Hướng Phụ Lục 2D cho QCVN/TCVN; Tách chú thích ra khỏi ô bảng; Không dồn cục dòng; Bắt buộc vượt qua `lint_visual_parity.py`.
+4. **Ngăn Kéo Nguồn Gốc Bắt Buộc (Universal `sources/` Invariant - ADR 0036):** $100\%$ mọi Bundle bắt buộc phải có thư mục `sources/` chứa PDF Công báo gốc, file Word và các tài liệu nguồn cấu thành (`_goc.md`, `sua_doi_XX.md`). Thư mục gốc chỉ chứa giao diện Agent tinh gọn (`.md`, `metadata.yaml`, `clauses.json`, `index.md`).
+5. **Phân Tách Rạch Ròi 4 Ngăn Kéo Dữ Liệu (4 Specialized Compartments - ADR 0036):**
+   * `tables/`: Bảng số liệu tra cứu 2D (CSV, JSON, `tables_catalog.json`).
+   * `figures/`: Thẻ thị giác tính toán tham số hóa (`cards/`, `figures_catalog.yaml`).
+   * `annexes/`: Phụ lục kỹ thuật quy phạm (Technical Normative Annexes).
+   * `templates/`: Biểu mẫu hành chính nguyên tử (Atomic Form Templates theo ADR 0021). Cấm để thư mục `templates/` rỗng.
+6. **Đồng Vị Ma Trận So Sánh VBHN (In-Bundle Comparative Matrix - ADR 0036):** Đối với văn bản hợp nhất, `bang_so_sanh_thay_doi.md` bắt buộc phải đặt trực tiếp ngay tại gốc của Bundle.
+7. **Tri-Tier Cloud Binary Vault & Native Google Docs (ADR 0035):** Toàn bộ file `.pdf` và `.docx` được bảo vệ bởi `.gitignore` và đồng bộ lên Google Drive Vault `CCBA_Legal_Vault`. File Word được tự động chuyển đổi sang Native Google Docs sẵn sàng cho Google NotebookLM.
+8. **Bảo Tồn Ký Tự Gốc & Kiểm Định Thị Giác (ADR 0029 & ADR 0030):** Bảo toàn $100\%$ dấu gạch đầu dòng `-` và `+` bằng cơ chế thoát ký tự `\- ` và `&nbsp;&nbsp;\+ `; Tách chú thích ra khỏi ô bảng; Không dồn cục dòng; Bắt buộc vượt qua `lint_visual_parity.py`.
 
 ---
 
-## 🚀 Quy trình 4 Bước Chuẩn Hóa Văn Bản Mới (Universal OKF v2.2 Pipeline):
+## 🚀 Quy trình 4 Bước Chuẩn Hóa Văn Bản Mới (Universal OKF v2.4 Pipeline):
 
-Bất kỳ khi nào tiếp nhận một Luật, Nghị định, Thông tư, QCVN hoặc TCVN mới (hoặc khi phát hiện file nguồn DOCX bị thiếu/lỗi), Agent **bắt buộc** thực hiện tuần tự 4 bước:
+Bất kỳ khi nào tiếp nhận một Luật, Nghị định, Thông tư, QCVN hoặc TCVN mới, Agent **bắt buộc** thực hiện tuần tự 4 bước:
 
-### 0. Thu thập & Xác thực Nguồn gốc (Acquisition Gate — Bắt buộc qua ccba-legal-intel):
-* Tuyệt đối cấm cào HTML web tự do bằng `read_url_content` hay `requests`.
-* Kích hoạt Deep Seam `TVPLCrawler` trực tiếp từ `ccba-legal-intel` CLI:
+### 0. Thu thập & Xác thực Nguồn gốc (Acquisition Gate — Giao thức "Một Cửa `tab=7`"):
+* Tự động đăng nhập VIP và điều hướng trực tiếp vào `?tab=7` để tải trọn gói DOCX + PDF Công báo + Biểu mẫu đính kèm trong 1 lượt mở trang:
 ```powershell
-python -m ccba_legal fetch "<url_or_doc_number>"
+python -m ccba_legal ingest "<tvpl_url>" --category <01_vbpl|02_qcvn|03_tcvn> --upload-drive
 ```
 
-### 1. Nạp & Chuyển đổi sang OKF v2.2 Bundle (ADR 0021, ADR 0029, ADR 0030):
-```powershell
-python -m ccba_legal convert ".md/extracted_docs/ten_van_ban/ten_file.docx" "legal_docs/01_vbpl/ten_van_ban"
-```
+### 1. Nạp & Chuyển đổi sang OKF v2.4 Bundle (ADR 0021, ADR 0034, ADR 0036):
+* Tự động trích xuất thân văn bản thuần khiết, 32+ bảng số liệu 2D, cây điều khoản AST `clauses.json` và bộ câu hỏi `qa_benchmark.json`.
 
-### 2. Hợp nhất Văn bản Sửa đổi (nếu có văn bản sửa đổi):
+### 2. Hợp nhất Văn bản Sửa đổi (VBHN Engine - nếu có văn bản sửa đổi):
 ```powershell
 python -m ccba_legal consolidate `
-  --manifest legal_docs/01_vbpl/ten_van_ban/patch_manifest.yaml `
-  --base legal_docs/01_vbpl/ten_van_ban/ten_van_ban.md `
-  --output legal_docs/01_vbpl/ten_van_ban/
+  --manifest legal_docs/02_qcvn/ten_van_ban/patch_manifest.yaml `
+  --base legal_docs/02_qcvn/ten_van_ban/sources/ten_van_ban_goc.md `
+  --output legal_docs/02_qcvn/ten_van_ban/
 ```
 
 ### 3. Kiểm định Nghiệm Thu Master CI Gate (1-Command Automation-First):

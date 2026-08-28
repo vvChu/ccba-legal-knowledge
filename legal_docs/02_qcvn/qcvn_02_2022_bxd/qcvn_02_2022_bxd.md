@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: technical_standard_qcvn
 title: QCVN 02:2022/BXD — Quy chuẩn kỹ thuật quốc gia về Số liệu điều kiện tự nhiên
   dùng trong xây dựng
@@ -21,7 +21,7 @@ issued_date: '2022-09-26'
 effective_date: '2023-03-26'
 status: active
 pdf_anchor:
-  path: ./qcvn_02_2022_bxd.pdf
+  path: ./sources/qcvn_02_2022_bxd.pdf
   sha256: 0375f3b798e01dfde379710648c8024edc71b5718ec5ee4f0e405764620c7a7d
   cong_bao_number: 1045+1046/2022
 relations:

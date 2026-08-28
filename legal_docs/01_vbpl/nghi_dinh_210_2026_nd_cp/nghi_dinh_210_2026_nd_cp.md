@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Nghị định 210/2026/NĐ-CP về Hợp đồng xây dựng
 description: Tài liệu Nghị định quy định chính quy trong hệ thống tri thức xây dựng
@@ -21,7 +21,7 @@ issued_date: '2026-06-25'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./nghi_dinh_210_2026_nd_cp.pdf
+  path: ./sources/nghi_dinh_210_2026_nd_cp.pdf
   sha256: b60801b38a87cd6dfe0a3f680999aa1f7ca3d48306f86825c9e2765ff993d598
   cong_bao_number: Đang cập nhật
 relations:
@@ -1004,10 +1004,4 @@ d) Đối với các hợp đồng xây dựng đã giao kết và đang thực 
 <a id="dieu-34-khoan-4"></a>
 **4.** Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
----
-
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
-
-> [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 

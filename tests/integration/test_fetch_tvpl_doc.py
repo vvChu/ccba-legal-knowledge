@@ -1,10 +1,8 @@
 import hashlib
 import re
-import tempfile
 import unicodedata
 from pathlib import Path
 from typing import Any
-import pytest
 import yaml
 from ccba_legal.crawler import MockChromeCDP, get_tvpl_metadata
 

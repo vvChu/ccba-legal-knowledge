@@ -1,0 +1,229 @@
+{
+  "total_tables": 32,
+  "tables": [
+    {
+      "table_id": "bang_2_1",
+      "table_number": "2.1",
+      "title": "Bảng 2.1 - Chỉ tiêu đất dân dụng bình quân toàn đô thị (tương ứng với mật độ dân số bình quân toàn đô thị/diện tích đất dân dụng)",
+      "csv_file": "tables/csv/bang_2_1.csv",
+      "json_file": "tables/json/bang_2_1.json"
+    },
+    {
+      "table_id": "bang_2_2",
+      "table_number": "2.2",
+      "title": "Bảng 2.2 - Chỉ tiêu đất đơn vị ở bình quân toàn đô thị theo loại đô thị",
+      "csv_file": "tables/csv/bang_2_2.csv",
+      "json_file": "tables/json/bang_2_2.json"
+    },
+    {
+      "table_id": "bang_2_3",
+      "table_number": "2.3",
+      "title": "Bảng 2.3 - Quy mô tối thiểu của các công trình dịch vụ - công cộng cấp đô thị",
+      "csv_file": "tables/csv/bang_2_3.csv",
+      "json_file": "tables/json/bang_2_3.json"
+    },
+    {
+      "table_id": "bang_2_4",
+      "table_number": "2.4",
+      "title": "Bảng 2.4 - Quy mô tối thiểu của các công trình dịch vụ - công cộng cấp đơn vị ở",
+      "csv_file": "tables/csv/bang_2_4.csv",
+      "json_file": "tables/json/bang_2_4.json"
+    },
+    {
+      "table_id": "bang_2_5",
+      "table_number": "2.5",
+      "title": "Bảng 2.5 - Diện tích tối thiểu đất cây xanh sử dụng công cộng trong đô thị (không bao gồm đất cây xanh sử dụng công cộng trong đơn vị ở)",
+      "csv_file": "tables/csv/bang_2_5.csv",
+      "json_file": "tables/json/bang_2_5.json"
+    },
+    {
+      "table_id": "bang_2_6",
+      "table_number": "2.6",
+      "title": "Bảng 2.6 - Tỷ lệ tối thiểu đất giao thông, cây xanh, các khu kỹ thuật trong khu công nghiệp, khu chế xuất và khu công nghệ cao.",
+      "csv_file": "tables/csv/bang_2_6.csv",
+      "json_file": "tables/json/bang_2_6.json"
+    },
+    {
+      "table_id": "bang_2_7",
+      "table_number": "2.7",
+      "title": "Bảng 2.7 - Quy định khoảng lùi tối thiểu (m) của các công trình theo bề rộng đường (giới hạn bởi các chỉ giới đường đỏ) và chiều cao xây dựng công trình",
+      "csv_file": "tables/csv/bang_2_7.csv",
+      "json_file": "tables/json/bang_2_7.json"
+    },
+    {
+      "table_id": "bang_2_8",
+      "table_number": "2.8",
+      "title": "Bảng 2.8 - Mật độ xây dựng thuần tối đa của lô đất xây dựng nhà ở riêng lẻ (nhà biệt thự, nhà ở liền kề, nhà ở độc lập)",
+      "csv_file": "tables/csv/bang_2_8.csv",
+      "json_file": "tables/json/bang_2_8.json"
+    },
+    {
+      "table_id": "bang_2_9",
+      "table_number": "2.9",
+      "title": "Bảng 2.9 - Mật độ xây dựng thuần tối đa của nhóm nhà chung cư theo diện tích lô đất và chiều cao công trình",
+      "csv_file": "tables/csv/bang_2_9.csv",
+      "json_file": "tables/json/bang_2_9.json"
+    },
+    {
+      "table_id": "bang_2_10",
+      "table_number": "2.10",
+      "title": "Bảng 2.10 - Mật độ xây dựng thuần tối đa của lô đất thương mại dịch vụ và lô đất sử dụng hỗn hợp cao tầng theo diện tích lô đất và chiều cao công trình",
+      "csv_file": "tables/csv/bang_2_10.csv",
+      "json_file": "tables/json/bang_2_10.json"
+    },
+    {
+      "table_id": "bang_2_11",
+      "table_number": "2.11",
+      "title": "Bảng 2.11 - Tỷ lệ đất trồng cây xanh tối thiểu trong các lô đất xây dựng công trình",
+      "csv_file": "tables/csv/bang_2_11.csv",
+      "json_file": "tables/json/bang_2_11.json"
+    },
+    {
+      "table_id": "bang_2_12",
+      "table_number": "2.12",
+      "title": "Bảng 2.12 - Hệ số sử dụng đất tối đa của lô đất chung cư, công trình dịch vụ đô thị và công trình sử dụng hỗn hợp cao tầng theo diện tích lô đất và chiều cao công trình",
+      "csv_file": "tables/csv/bang_2_12.csv",
+      "json_file": "tables/json/bang_2_12.json"
+    },
+    {
+      "table_id": "bang_2_13",
+      "table_number": "2.13",
+      "title": "Bảng 2.13 - Chu kỳ lặp lại mực nước ngập tính toán (năm) đối với khu chức năng",
+      "csv_file": "tables/csv/bang_2_13.csv",
+      "json_file": "tables/json/bang_2_13.json"
+    },
+    {
+      "table_id": "bang_2_14",
+      "table_number": "2.14",
+      "title": "Bảng 2.14 - Chu kỳ lặp lại trận mưa gây tràn cống tối thiểu (năm)",
+      "csv_file": "tables/csv/bang_2_14.csv",
+      "json_file": "tables/json/bang_2_14.json"
+    },
+    {
+      "table_id": "bang_2_15",
+      "table_number": "2.15",
+      "title": "Bảng 2.15 - Kích thước nền các loại ga",
+      "csv_file": "tables/csv/bang_2_15.csv",
+      "json_file": "tables/json/bang_2_15.json"
+    },
+    {
+      "table_id": "bang_2_16",
+      "table_number": "2.16",
+      "title": "Bảng 2.16 - Quy định về diện tích cảng",
+      "csv_file": "tables/csv/bang_2_16.csv",
+      "json_file": "tables/json/bang_2_16.json"
+    },
+    {
+      "table_id": "bang_2_17",
+      "table_number": "2.17",
+      "title": "Bảng 2.17 - Quy định về các loại đường trong đô thị",
+      "csv_file": "tables/csv/bang_2_17.csv",
+      "json_file": "tables/json/bang_2_17.json"
+    },
+    {
+      "table_id": "bang_2_18",
+      "table_number": "2.18",
+      "title": "Bảng 2.18 - Chỉ tiêu tính toán diện tích bãi đỗ xe toàn đô thị",
+      "csv_file": "tables/csv/bang_2_18.csv",
+      "json_file": "tables/json/bang_2_18.json"
+    },
+    {
+      "table_id": "bang_2_19",
+      "table_number": "2.19",
+      "title": "Bảng 2.19 - Số chỗ đỗ xe ô-tô con tối thiểu",
+      "csv_file": "tables/csv/bang_2_19.csv",
+      "json_file": "tables/json/bang_2_19.json"
+    },
+    {
+      "table_id": "bang_2_20",
+      "table_number": "2.20",
+      "title": "Bảng 2.20 - Khu vực bảo vệ của điểm lấy nước, công trình cấp nước",
+      "csv_file": "tables/csv/bang_2_20.csv",
+      "json_file": "tables/json/bang_2_20.json"
+    },
+    {
+      "table_id": "bang_2_21",
+      "table_number": "2.21",
+      "title": "Bảng 2.21 - Diện tích nhà máy nước, trạm cấp nước",
+      "csv_file": "tables/csv/bang_2_21.csv",
+      "json_file": "tables/json/bang_2_21.json"
+    },
+    {
+      "table_id": "bang_2_22",
+      "table_number": "2.22",
+      "title": "Bảng 2.22 - Khoảng cách an toàn về môi trường (ATMT)",
+      "csv_file": "tables/csv/bang_2_22.csv",
+      "json_file": "tables/json/bang_2_22.json"
+    },
+    {
+      "table_id": "bang_2_23",
+      "table_number": "2.23",
+      "title": "Bảng 2.23 - Lượng CTR sinh hoạt phát sinh",
+      "csv_file": "tables/csv/bang_2_23.csv",
+      "json_file": "tables/json/bang_2_23.json"
+    },
+    {
+      "table_id": "bang_2_24",
+      "table_number": "2.24",
+      "title": "Bảng 2.24 - Loại và quy mô trạm trung chuyển CTR sinh hoạt",
+      "csv_file": "tables/csv/bang_2_24.csv",
+      "json_file": "tables/json/bang_2_24.json"
+    },
+    {
+      "table_id": "bang_2_25",
+      "table_number": "2.25",
+      "title": "Bảng 2.25 - Khoảng cách an toàn về môi trường của nghĩa trang",
+      "csv_file": "tables/csv/bang_2_25.csv",
+      "json_file": "tables/json/bang_2_25.json"
+    },
+    {
+      "table_id": "bang_2_26",
+      "table_number": "2.26",
+      "title": "Bảng 2.26 - Chỉ tiêu cấp điện sinh hoạt (theo người)",
+      "csv_file": "tables/csv/bang_2_26.csv",
+      "json_file": "tables/json/bang_2_26.json"
+    },
+    {
+      "table_id": "bang_2_27",
+      "table_number": "2.27",
+      "title": "Bảng 2.27 - Chỉ tiêu cấp điện công trình công cộng, dịch vụ (theo %)",
+      "csv_file": "tables/csv/bang_2_27.csv",
+      "json_file": "tables/json/bang_2_27.json"
+    },
+    {
+      "table_id": "bang_2_28",
+      "table_number": "2.28",
+      "title": "Bảng 2.28 - Chỉ tiêu cấp điện công trình công cộng, dịch vụ",
+      "csv_file": "tables/csv/bang_2_28.csv",
+      "json_file": "tables/json/bang_2_28.json"
+    },
+    {
+      "table_id": "bang_2_29",
+      "table_number": "2.29",
+      "title": "Bảng 2.29 - Chỉ tiêu cấp điện cho sản xuất công nghiệp, kho tàng",
+      "csv_file": "tables/csv/bang_2_29.csv",
+      "json_file": "tables/json/bang_2_29.json"
+    },
+    {
+      "table_id": "bang_2_30",
+      "table_number": "2.30",
+      "title": "Bảng 2.30 - Khoảng cách tối thiểu giữa các công trình hạ tầng kỹ thuật ngầm đô thị không nằm trong tuy-nen hoặc hào kỹ thuật (m)",
+      "csv_file": "tables/csv/bang_2_30.csv",
+      "json_file": "tables/json/bang_2_30.json"
+    },
+    {
+      "table_id": "bang_2_31",
+      "table_number": "2.31",
+      "title": "Bảng 2.31 - Chỉ tiêu sử dụng đất tối thiểu điểm dân cư nông thôn",
+      "csv_file": "tables/csv/bang_2_31.csv",
+      "json_file": "tables/json/bang_2_31.json"
+    },
+    {
+      "table_id": "bang_2_32",
+      "table_number": "2.32",
+      "title": "Bảng 2.32 - Quy định về quy mô tối thiểu của các công trình công cộng, dịch vụ",
+      "csv_file": "tables/csv/bang_2_32.csv",
+      "json_file": "tables/json/bang_2_32.json"
+    }
+  ]
+}

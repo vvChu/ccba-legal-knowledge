@@ -1,0 +1,27 @@
+{
+  "table_id": "bang_2_31",
+  "table_number": "2.31",
+  "table_title": "Bảng 2.31 - Chỉ tiêu sử dụng đất tối thiểu điểm dân cư nông thôn",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đất": "Đất xây dựng công trình nhà ở",
+      "Chỉ tiêu sử dụng đất ($m^{2}$/người)": "25"
+    },
+    {
+      "_row_id": 2,
+      "Loại đất": "Đất xây dựng công trình công cộng, dịch vụ",
+      "Chỉ tiêu sử dụng đất ($m^{2}$/người)": "5"
+    },
+    {
+      "_row_id": 3,
+      "Loại đất": "Đất cho giao thông và hạ tầng kỹ thuật",
+      "Chỉ tiêu sử dụng đất ($m^{2}$/người)": "5"
+    },
+    {
+      "_row_id": 4,
+      "Loại đất": "Cây xanh công cộng",
+      "Chỉ tiêu sử dụng đất ($m^{2}$/người)": "2"
+    }
+  ]
+}

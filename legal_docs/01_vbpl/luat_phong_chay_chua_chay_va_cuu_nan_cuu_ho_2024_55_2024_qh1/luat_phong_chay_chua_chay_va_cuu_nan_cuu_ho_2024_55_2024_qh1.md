@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ 2024 (Số 55/2024/QH15)
 description: Tài liệu Luật quy định chính quy trong hệ thống tri thức xây dựng CCBA.
@@ -20,7 +20,7 @@ issued_date: '2024-11-29'
 effective_date: '2025-07-01'
 status: active
 pdf_anchor:
-  path: ./luat_55_2024_qh15.pdf
+  path: ./sources/luat_55_2024_qh15.pdf
   sha256: 706a8bfbb2328ca11e2e54bd44849b22854256a2d68240cdf8fa320909c6f90b
   cong_bao_number: 1187+1188/2024
 artifacts:
@@ -1479,10 +1479,4 @@ Trần Thanh Mẫn__
 
 __ __
 
----
-
-## 📑 HỆ THỐNG PHỤ LỤC BIỂU MẪU & BẢNG BIỂU KÈM THEO
-
-> [!TIP]
-> Toàn bộ các Phụ lục của văn bản đã được chuẩn hóa thành các Module Biểu mẫu độc lập tại thư mục [`./templates/`](./templates/) và Bảng tra cứu kỹ thuật tại [`./tables/`](./tables/):
 

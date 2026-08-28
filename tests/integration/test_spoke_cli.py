@@ -1,6 +1,5 @@
 """Unit tests for the Deep Module CLI Facade (spoke_cli.py)."""
 
-import sys
 from pathlib import Path
 
 from scripts.spoke_cli import get_spoke_stats

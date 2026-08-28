@@ -7,7 +7,7 @@ signer: Phạm Gia Túc
 issued_date: '2026-06-15'
 effective_date: '2026-07-01'
 status: active
-pdf_path: legal_docs/01_vbpl/nghi_dinh_207_2026_nd_cp/nghi_dinh_207_2026_nd_cp.pdf
+pdf_path: legal_docs/01_vbpl/nghi_dinh_207_2026_nd_cp/sources/nghi_dinh_207_2026_nd_cp.pdf
 pdf_sha256: aaedee18527d73ee0f3802dd447f42dd7044c82b06c532dd3c2317aacb78ced5
 pdf_status: verified
 legal_basis:
@@ -30,3 +30,10 @@ legal_basis:
     đổi, bổ sung một số điều theo Luật số 03/2022/QH15, Luật số 28/2023/QH15, Luật
     số 35/2024/QH15, Luật số 57/2024/QH15 và Luật số 90/2025/QH15
 replaces: []
+bundle_path: legal_docs/01_vbpl/nghi_dinh_207_2026_nd_cp/
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: aaedee18527d73ee0f3802dd447f42dd7044c82b06c532dd3c2317aacb78ced5
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_207_2026_nd_cp/nghi_dinh_207_2026_nd_cp.pdf
+    status: verified

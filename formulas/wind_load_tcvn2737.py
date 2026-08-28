@@ -485,7 +485,7 @@ def calc_flat_roof_ce_coefficients(
             g = round(_interp(ratio, 0.05, 0.10, -0.9, -0.8), 3)
         else:
             f, g = -1.2, -0.8
-        notes.append(f"Hệ số khí động áp lực cho tường chắn mái được tính theo F.1.1 (Chú thích Bảng F.2).")
+        notes.append("Hệ số khí động áp lực cho tường chắn mái được tính theo F.1.1 (Chú thích Bảng F.2).")
     elif etype in ("BO_TRON", "ROUNDED") and radius_r > 0:
         ratio = radius_r / h
         desc = f"Mái bằng có cạnh bo tròn (r/h = {ratio:.3f})"

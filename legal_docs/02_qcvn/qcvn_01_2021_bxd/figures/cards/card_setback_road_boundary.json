@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ccba.vn/schemas/visual_card_v1.json",
+  "card_id": "FIG_QCVN01_SETBACK_ROAD",
+  "figure_number": "Sơ đồ 2.1",
+  "standard": "QCVN 01:2021/BXD",
+  "title": "Quy định khoảng lùi tối thiểu của công trình theo bề rộng lộ giới và chiều cao xây dựng",
+  "image_relpath": "figures/images/hinh_khoang_lui.png",
+  "normative_clauses": [
+    "2.6.2"
+  ],
+  "associated_tables": [
+    "Bảng 2.7"
+  ],
+  "formula_id": "F_PLANNING_QCVN01_SETBACK",
+  "governing_parameters": [
+    "road_width_m",
+    "building_height_m"
+  ],
+  "input_parameters": {
+    "road_width_m": {
+      "description": "Bề rộng lộ giới đường tiếp giáp lô đất",
+      "unit": "m",
+      "type": "float"
+    },
+    "building_height_m": {
+      "description": "Chiều cao công trình xây dựng",
+      "unit": "m",
+      "type": "float"
+    }
+  },
+  "dimension_rules": {
+    "setback_rule": "Tra cứu Bảng 2.7 QCVN 01:2021/BXD theo khoảng chiều cao (<=19m, 22m, 25m, 28m, >28m) và lộ giới (<19m, 19m-22m, >22m)"
+  }
+}

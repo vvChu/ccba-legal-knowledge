@@ -1,5 +1,5 @@
 ---
-okf_version: '2.2'
+okf_version: '2.4'
 type: legal_normative_body
 title: Thông tư 37/2026/TT-BXD hướng dẫn phương pháp xác định định mức dự toán và
   chỉ tiêu kinh tế kỹ thuật
@@ -20,7 +20,7 @@ issued_date: '2026-06-30'
 effective_date: '2026-07-01'
 status: active
 pdf_anchor:
-  path: ./thong_tu_37_2026_tt_bxd.pdf
+  path: ./sources/thong_tu_37_2026_tt_bxd.pdf
   sha256: beb581cec6b66d74a774c69b8d4d744710f641a9d59a25a82cfce1487e04bd3f
   cong_bao_number: Đang cập nhật
 relations:
