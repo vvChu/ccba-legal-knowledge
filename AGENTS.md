@@ -28,13 +28,19 @@
 Bất kỳ khi nào tiếp nhận một Luật, Nghị định, Thông tư, QCVN hoặc TCVN mới, Agent **bắt buộc** thực hiện tuần tự 4 bước:
 
 ### 0. Thu thập & Xác thực Nguồn gốc (Acquisition Gate — Giao thức "Một Cửa `tab=7`"):
-* Tự động đăng nhập VIP và điều hướng trực tiếp vào `?tab=7` để tải trọn gói DOCX + PDF Công báo + Biểu mẫu đính kèm trong 1 lượt mở trang:
+* **Kịch bản 1 — Nạp tự động 1 lệnh toàn trình (Happy Path):**
 ```powershell
 python -m ccba_legal ingest "<tvpl_url>" --category <01_vbpl|02_qcvn|03_tcvn> --upload-drive
 ```
+* **Kịch bản 2 — Tiếp nhận thủ công / Fallback khi cào bị lỗi:** Nếu lệnh `ingest` bị kẹt do Cloudflare/Captcha, Agent giải quyết cục bộ để đưa đúng 2 tệp `.docx` và `.pdf` vào `sources/`. Ngay sau đó **bắt buộc** thực thi Bước 1 bằng lệnh `convert` — **nghiêm cấm tự viết Markdown bằng LLM**.
+* **Kịch bản 3 — Làm mới / Thay thế file kém chất lượng:** Khi cần thay thế file scan mờ bằng bản nét, chạy `python -m ccba_legal fetch "<tvpl_url>"` để tải đè file chuẩn vào `sources/` rồi chạy lại Bước 1 `convert`.
 
 ### 1. Nạp & Chuyển đổi sang OKF v2.4 Bundle (ADR 0021, ADR 0034, ADR 0036, ADR 0037):
-* Tự động trích xuất thân văn bản thuần khiết nguyên văn $100\%$, 32+ bảng số liệu 2D, cây điều khoản AST `clauses.json` và bộ câu hỏi `qa_benchmark.json`.
+* Thực thi lệnh chuyển đổi trích xuất nguyên văn $100\%$ bằng Deterministic Python-docx AST parser (Zero-LLM Paraphrase):
+```powershell
+python -m ccba_legal convert --docx-path "legal_docs/<category>/<doc_slug>/sources/<doc_slug>.docx" --target-bundle-dir "legal_docs/<category>/<doc_slug>"
+```
+* Tự động tạo thân văn bản nguyên văn $1:1$, 32+ bảng số liệu 2D (`tables/`), phụ lục biểu mẫu (`templates/`), cây điều khoản AST `clauses.json` và bộ câu hỏi `qa_benchmark.json`.
 
 ### 2. Hợp nhất Văn bản Sửa đổi (VBHN Engine - nếu có văn bản sửa đổi):
 ```powershell
