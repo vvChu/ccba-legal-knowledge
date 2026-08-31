@@ -443,4 +443,3 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Công thức (3) tại Mục 5.4.1.2: $a_{crc} \le a_{crc,u}$ *(Công thức 3)*
      - Công thức (4) tại Mục 5.5.1.2: $f \le f_u$ *(Công thức 4)*
      - Đạt 100% Verbatim Parity và vượt qua toàn bộ 11 Cổng Master CI Gate.
-
