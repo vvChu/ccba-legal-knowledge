@@ -260,17 +260,17 @@ rId430:
 rId14:
   formula_id: F_TCVN_5574_2018_FORMULA_8_9_10
   latex: '\begin{aligned} &\text{Khi } 0 \le \varepsilon_b \le \varepsilon_{b1}: &
-    \sigma_b &= E_b \varepsilon_b \tag{8} \\ &\text{Khi } \varepsilon_{b1} < \varepsilon_b
+    \sigma_b &= E_b \varepsilon_b \qquad (8) \\ &\text{Khi } \varepsilon_{b1} < \varepsilon_b
     < \varepsilon_{b0}: & \sigma_b &= \left[ \left(1 - \frac{\sigma_{b1}}{R_b}\right)
     \frac{\varepsilon_b - \varepsilon_{b1}}{\varepsilon_{b0} - \varepsilon_{b1}} +
-    \frac{\sigma_{b1}}{R_b} \right] R_b \tag{9} \\ &\text{Khi } \varepsilon_{b0} \le
-    \varepsilon_b \le \varepsilon_{b2}: & \sigma_b &= R_b \tag{10} \end{aligned}'
+    \frac{\sigma_{b1}}{R_b} \right] R_b \qquad (9) \\ &\text{Khi } \varepsilon_{b0}
+    \le \varepsilon_b \le \varepsilon_{b2}: & \sigma_b &= R_b \qquad (10) \end{aligned}'
 rId16:
   formula_id: F_TCVN_5574_2018_FORMULA_11_12
   latex: '\begin{aligned} &\text{Khi } 0 \le \varepsilon_b \le \varepsilon_{b1} \text{
     (với } \varepsilon_{b1} = R_b/E_{b,\text{red}}): & \sigma_b &= E_{b,\text{red}}\varepsilon_b
-    \tag{11} \\ &\text{Khi } \varepsilon_{b1} \le \varepsilon_b \le \varepsilon_{b2}:
-    & \sigma_b &= R_b \tag{12} \end{aligned}'
+    \qquad (11) \\ &\text{Khi } \varepsilon_{b1} \le \varepsilon_b \le \varepsilon_{b2}:
+    & \sigma_b &= R_b \qquad (12) \end{aligned}'
 rId26:
   formula_id: F_TCVN_5574_2018_FORMULA_22
   latex: N \le R_b b x \tag{22}
@@ -354,18 +354,18 @@ rId20:
 rId22:
   formula_id: F_TCVN_5574_2018_FORMULA_17_18
   latex: '\begin{aligned} &\text{Khi } 0 < \varepsilon_s < \varepsilon_{s0} : & \sigma_s
-    = \varepsilon_s E_s \tag{17} \\ &\text{Khi } \varepsilon_{s0} \le \varepsilon_s
-    \le \varepsilon_{s2} : & \sigma_s = R_s \tag{18} \end{aligned}'
+    = \varepsilon_s E_s \qquad (17) \\ &\text{Khi } \varepsilon_{s0} \le \varepsilon_s
+    \le \varepsilon_{s2} : & \sigma_s = R_s \qquad (18) \end{aligned}'
 rId23:
   formula_id: F_TCVN_5574_2018_FORMULA_19_21
   latex: '\begin{aligned} &\text{Khi } 0 < \varepsilon_s < \varepsilon_{s1} : & \sigma_s
-    = \varepsilon_s E_s \tag{19} \\ &\text{Khi } \varepsilon_{s1} \le \varepsilon_s
+    = \varepsilon_s E_s \qquad (19) \\ &\text{Khi } \varepsilon_{s1} \le \varepsilon_s
     \le \varepsilon_{s0} : & \sigma_s = \left[ \left(1 - \frac{\sigma_{s1}}{R_s}\right)\frac{\varepsilon_s
     - \varepsilon_{s1}}{\varepsilon_{s0} - \varepsilon_{s1}} + \frac{\sigma_{s1}}{R_s}
-    \right] R_s \tag{20} \\ &\text{Khi } \varepsilon_{s0} \le \varepsilon_s \le \varepsilon_{s2}
-    : & \sigma_s = \left[ \left(\frac{\sigma_{s2}}{R_s} - 1\right)\frac{\varepsilon_s
-    - \varepsilon_{s0}}{\varepsilon_{s2} - \varepsilon_{s0}} + 1 \right] R_s \tag{21}
-    \end{aligned}'
+    \right] R_s \qquad (20) \\ &\text{Khi } \varepsilon_{s0} \le \varepsilon_s \le
+    \varepsilon_{s2} : & \sigma_s = \left[ \left(\frac{\sigma_{s2}}{R_s} - 1\right)\frac{\varepsilon_s
+    - \varepsilon_{s0}}{\varepsilon_{s2} - \varepsilon_{s0}} + 1 \right] R_s \qquad
+    (21) \end{aligned}'
 rId70:
   formula_id: F_TCVN_5574_2018_FORMULA_47
   latex: k_b = \frac{0,15}{\varphi_L (0,3 + \delta_e)} \tag{47}
@@ -376,13 +376,13 @@ rId89:
   formula_id: F_TCVN_5574_2018_FORMULA_59
   latex: '\begin{aligned}
 
-    M_x &= \sum_i \sigma_{bi} A_{bi} Z_{bxi} + \sum_j \sigma_{sj} A_{sj} Z_{syj} \tag{59}
-    \\
+    M_x &= \sum_i \sigma_{bi} A_{bi} Z_{bxi} + \sum_j \sigma_{sj} A_{sj} Z_{syj} \qquad
+    (59) \\
 
-    M_y &= \sum_i \sigma_{bi} A_{bi} Z_{byi} + \sum_j \sigma_{sj} A_{sj} Z_{syj} \tag{60}
-    \\
+    M_y &= \sum_i \sigma_{bi} A_{bi} Z_{byi} + \sum_j \sigma_{sj} A_{sj} Z_{syj} \qquad
+    (60) \\
 
-    N &= \sum_i \sigma_{bi} A_{bi} + \sum_j \sigma_{sj} A_{sj} \tag{61}
+    N &= \sum_i \sigma_{bi} A_{bi} + \sum_j \sigma_{sj} A_{sj} \qquad (61)
 
     \end{aligned}'
 rId90:
@@ -394,54 +394,48 @@ rId90:
     .'
 rId91:
   formula_id: F_TCVN_5574_2018_FORMULA_64_65
-  latex: \begin{aligned} \nu_{bi} &= \frac{\sigma_{bi}}{E_{bi} \varepsilon_{bi}} \tag{64}
-    \\ \nu_{sj} &= \frac{\sigma_{sj}}{E_{sj} \varepsilon_{sj}} \tag{65} \end{aligned}
+  latex: \begin{aligned} \nu_{bi} &= \frac{\sigma_{bi}}{E_{bi} \varepsilon_{bi}} \qquad
+    (64) \\ \nu_{sj} &= \frac{\sigma_{sj}}{E_{sj} \varepsilon_{sj}} \qquad (65) \end{aligned}
 rId92:
-  formula_id: F_TCVN_5574_2018_FORMULA_68
-  latex: 'Top: v_{bi} = \frac{\sigma_{bi}}{E_b \varepsilon_{bi}}
-
-    Bottom: v_{sj} = \frac{\sigma_{sj}}{'
+  formula_id: F_TCVN_5574_2018_FORMULA_66_67
+  latex: \begin{aligned} \nu_{bi} &= \frac{\sigma_{bi}}{E_b \varepsilon_{bi}} \qquad
+    (66) \\ \nu_{sj} &= \frac{\sigma_{sj}}{E_s \varepsilon_{sj}} \qquad (67) \end{aligned}
 rId93:
   formula_id: F_TCVN_5574_2018_FORMULA_70
-  latex: \begin{align} |\varepsilon_{b,\max}| &\le \varepsilon_{b,u} \tag{70} \\ \varepsilon_{s,\max}
-    &\le \varepsilon_{s,u} \tag{71} \end{align}
+  latex: \begin{align} |\varepsilon_{b,\max}| &\le \varepsilon_{b,u} \qquad (70) \\
+    \varepsilon_{s,\max} &\le \varepsilon_{s,u} \qquad (71) \end{align}
 rId94:
-  formula_id: F_TCVN_5574_2018_FORMULA_72
-  latex: '\begin{align}
-
-    &M_x = D_{11} \frac{1}{r_x} + D_{12} \frac{1}{r_y} + D_{13} \varepsilon_0 \tag{72}
-    \\
-
-    &M_y = D_{12} \frac{1}{r_x} + D_{22} \frac{1}{r_y} + D_{23} \varepsilon_0 \tag{73}
-    \\
-
-    &N = D_{13} \frac{1}{r_x'
+  formula_id: F_TCVN_5574_2018_FORMULA_72_74
+  latex: \begin{aligned} M_x &= D_{11} \frac{1}{r_x} + D_{12} \frac{1}{r_y} + D_{13}
+    \varepsilon_0 \qquad (72) \\ M_y &= D_{12} \frac{1}{r_x} + D_{22} \frac{1}{r_y}
+    + D_{23} \varepsilon_0 \qquad (73) \\ N &= D_{13} \frac{1}{r_x} + D_{23} \frac{1}{r_y}
+    + D_{33} \varepsilon_0 \qquad (74) \end{aligned}
 rId95:
   formula_id: F_TCVN_5574_2018_FORMULA_75_80
   latex: \begin{aligned} D_{11} &= \sum_i A_{bi} Z_{bi}^2 E_b \nu_{bi} + \sum_j A_{sj}
-    Z_{sj}^2 E_{sj} \nu_{sj} \tag{75} \\ D_{22} &= \sum_i A_{bi} Y_{bi}^2 E_b \nu_{bi}
-    + \sum_j A_{sj} Y_{sj}^2 E_{sj} \nu_{sj} \tag{76} \\ D_{12} &= \sum_i A_{bi} Z_{bi}
-    Y_{bi} E_b \nu_{bi} + \sum_j A_{sj} Z_{sj} Y_{sj} E_{sj} \nu_{sj} \tag{77} \\
-    D_{13} &= \sum_i A_{bi} Z_{bi} E_b \nu_{bi} + \sum_j A_{sj} Z_{sj} E_{sj} \nu_{sj}
-    \tag{78} \\ D_{23} &= \sum_i A_{bi} Y_{bi} E_b \nu_{bi} + \sum_j A_{sj} Y_{sj}
-    E_{sj} \nu_{sj} \tag{79} \\ D_{33} &= \sum_i A_{bi} E_b \nu_{bi} + \sum_j A_{sj}
-    E_{sj} \nu_{sj} \tag{80} \end{aligned}
+    Z_{sj}^2 E_{sj} \nu_{sj} \qquad (75) \\ D_{22} &= \sum_i A_{bi} Y_{bi}^2 E_b \nu_{bi}
+    + \sum_j A_{sj} Y_{sj}^2 E_{sj} \nu_{sj} \qquad (76) \\ D_{12} &= \sum_i A_{bi}
+    Z_{bi} Y_{bi} E_b \nu_{bi} + \sum_j A_{sj} Z_{sj} Y_{sj} E_{sj} \nu_{sj} \qquad
+    (77) \\ D_{13} &= \sum_i A_{bi} Z_{bi} E_b \nu_{bi} + \sum_j A_{sj} Z_{sj} E_{sj}
+    \nu_{sj} \qquad (78) \\ D_{23} &= \sum_i A_{bi} Y_{bi} E_b \nu_{bi} + \sum_j A_{sj}
+    Y_{sj} E_{sj} \nu_{sj} \qquad (79) \\ D_{33} &= \sum_i A_{bi} E_b \nu_{bi} + \sum_j
+    A_{sj} E_{sj} \nu_{sj} \qquad (80) \end{aligned}
 rId96:
   formula_id: F_TCVN_5574_2018_FORMULA_81
   latex: '\begin{align}
 
-    M_x &= D_{11} \frac{1}{r_x} + D_{13} \epsilon_0 \tag{81} \\
+    M_x &= D_{11} \frac{1}{r_x} + D_{13} \epsilon_0 \qquad (81) \\
 
-    N &= D_{13} \frac{1}{r_x} + D_{33} \epsilon_0 \tag{82}
+    N &= D_{13} \frac{1}{r_x} + D_{33} \epsilon_0 \qquad (82)
 
     \end{align}'
 rId97:
   formula_id: F_TCVN_5574_2018_FORMULA_83
   latex: '\begin{aligned}
 
-    M_x &= D_{11} \frac{1}{r_x} + D_{13} \varepsilon_0 \tag{83} \\
+    M_x &= D_{11} \frac{1}{r_x} + D_{13} \varepsilon_0 \qquad (83) \\
 
-    0 &= D_{13} \frac{1}{r_x} + D_{33} \varepsilon_0 \tag{84}
+    0 &= D_{13} \frac{1}{r_x} + D_{33} \varepsilon_0 \qquad (84)
 
     \end{aligned}'
 rId98:
@@ -449,10 +443,10 @@ rId98:
   latex: '\begin{aligned}
 
     \varepsilon_{b,u} &= \varepsilon_{b2} - (\varepsilon_{b2} - \varepsilon_{b0})
-    \frac{\varepsilon_1}{\varepsilon_2} \tag{86} \\
+    \frac{\varepsilon_1}{\varepsilon_2} \qquad (86) \\
 
     \varepsilon_{bt,u} &= \varepsilon_{bt2} - (\varepsilon_{bt2} - \varepsilon_{bt0})
-    \frac{\varepsilon_1}{\varepsilon_2} \tag{87}
+    \frac{\varepsilon_1}{\varepsilon_2} \qquad (87)
 
     \end{aligned}'
 rId100:
@@ -462,12 +456,8 @@ rId100:
     Q_b = \frac{\varphi_{b2} R_{bt} b h_0^2}{C} \tag{90}'
 rId113:
   formula_id: F_TCVN_5574_2018_RID113
-  latex: '5 \left( 1 - \frac{\sigma_m}{R_b} \right) & \quad \text{khi} \quad 0.75
-    R_b < \sigma_m \le R_b \\
-
-    1 - \frac{\sigma_t}{2 R_{bt}} & \quad \text{khi} \quad 0 < \sigma_t \le R_{bt}
-
-    \end{align*}'
+  latex: \begin{cases} 1 & \text{khi } \sigma_m \le 0,75 R_b \\ 5 \left( 1 - \frac{\sigma_m}{R_b}
+    \right) & \text{khi } 0,75 R_b < \sigma_m \le R_b \end{cases}
 rId122:
   formula_id: F_TCVN_5574_2018_FORMULA_109
   latex: '\delta = \frac{Z_1}{2Z_2 + Z_1} \tag{109}
@@ -475,15 +465,7 @@ rId122:
     \delta = { \frac { Z _ { 1 } } { 2 Z _ { 2 } + Z _ { 1 } } } \tag{ 1 0 9 }'
 rId129:
   formula_id: F_TCVN_5574_2018_FORMULA_112
-  latex: 'I will wrap it in an equation environment or just use \tag. The prompt asks
-    for "clean KaTeX LaTeX syntax".
-
-    T_{sw,1} = q_{sw,1} \delta Z_1 Z_2 \tag{112}` is a good standard representation.
-
-    Or using `\begin{equation} ... \tag{112} \end{equation}`.
-
-    Given the instruction "If it contains formula number(s) like (15) or (16), include
-    them using \tag{...} or \qquad (...)", I will use'
+  latex: T_{sw,1} = q_{sw,1} \delta Z_1 Z_2 \tag{112}
 rId130:
   formula_id: F_TCVN_5574_2018_FORMULA_113
   latex: T_{s,1} = 0,5R_s A_{s,1} Z_2 \tag{113}
@@ -540,13 +522,13 @@ rId160:
   formula_id: F_TCVN_5574_2018_FORMULA_137
   latex: '\begin{gather}
 
-    (M_{x,u} - M_x)(M_{y,u} - M_y) - M_{xy}^2 \ge 0 \tag{137} \\
+    (M_{x,u} - M_x)(M_{y,u} - M_y) - M_{xy}^2 \ge 0 \qquad (137) \\
 
-    M_{x,u} \ge M_x \tag{138} \\
+    M_{x,u} \ge M_x \qquad (138) \\
 
-    M_{y,u} \ge M_y \tag{139} \\
+    M_{y,u} \ge M_y \qquad (139) \\
 
-    M_{xy,u} \ge M_{xy} \tag{140}
+    M_{xy,u} \ge M_{xy} \qquad (140)
 
     \end{gather}'
 rId167:
@@ -562,13 +544,13 @@ rId163:
   formula_id: F_TCVN_5574_2018_FORMULA_147
   latex: '\begin{align}
 
-    (N_{x,u} - N_x)(N_{y,u} - N_y) - N_{xy,u}^2 \ge 0 \tag{147} \\
+    (N_{x,u} - N_x)(N_{y,u} - N_y) - N_{xy,u}^2 \ge 0 \qquad (147) \\
 
-    N_{x,u} \ge N_x \tag{148} \\
+    N_{x,u} \ge N_x \qquad (148) \\
 
-    N_{y,u} \ge N_y \tag{149} \\
+    N_{y,u} \ge N_y \qquad (149) \\
 
-    N_{xy,u} \ge N_{xy} \tag{150}
+    N_{xy,u} \ge N_{xy} \qquad (150)
 
     \end{align}'
 rId164:
@@ -710,13 +692,13 @@ rId286:
   latex: '\begin{aligned}
 
     M_x &= \sum_i \sigma_{bi} A_{bi} Z_{bxi} + \sum_j \sigma_{sj} A_{sj} Z_{sxj} +
-    \sum_i \sigma_{s''i} A_{s''i} Z_{s''xi} \tag{233} \\
+    \sum_i \sigma_{s''i} A_{s''i} Z_{s''xi} \qquad (233) \\
 
     M_y &= \sum_i \sigma_{bi} A_{bi} Z_{byi} + \sum_j \sigma_{sj} A_{sj} Z_{syj} +
-    \sum_i \sigma_{s''i} A_{s''i} Z_{s''yi} \tag{234} \\
+    \sum_i \sigma_{s''i} A_{s''i} Z_{s''yi} \qquad (234) \\
 
     N &= \sum_i \sigma_{bi} A_{bi} + \sum_j \sigma_{sj} A_{sj} + \sum_i \sigma_{s''i}
-    A_{s''i} \tag{235}
+    A_{s''i} \qquad (235)
 
     \end{aligned}'
 rId287:
