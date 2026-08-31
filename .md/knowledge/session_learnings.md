@@ -425,4 +425,17 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Xây dựng công cụ chụp và xác thực Snapshot toàn diện cho **37 bundles** pháp quy trong Spoke (`.md/cache/golden_snapshots.json`).
      - Đối soát SHA-256 Markdown, số dòng, số điều khoản AST, số bảng 2D và số hình vẽ, cam kết **Zero-Regression (Sai lệch 0.0%)** cho toàn bộ quá trình Refactor.
   5. **Mô Hình Dữ Liệu Tường Minh (`ccba_legal.converters.standard.models`):**
-     - Định nghĩa `DocumentBlock`, `HierarchyState` Enum, `ConversionMetrics`, và `StandardConversionConfig` chuẩn bị cho việc phân rã `technical_standard.py` thành State-Driven Modular Handlers.
+      - Định nghĩa `DocumentBlock`, `HierarchyState` Enum, `ConversionMetrics`, và `StandardConversionConfig` chuẩn bị cho việc phân rã `technical_standard.py` thành State-Driven Modular Handlers.
+
+---
+
+## 30. Per-Bundle Formula Isolation & Expression-Tag Pair Auto-Detection (2026-08-31)
+
+- **Thành quả Quản Trị & Khắc Phục Lỗi Rò Rỉ Công Thức Toán Học Chéo Tiêu Chuẩn:**
+  1. **Triệt Tiêu Hoàn Toàn Rò Rỉ Dữ Liệu Chéo (Cross-Standard Fallback Pollution Elimination):**
+     - Xóa bỏ việc fallback tra cứu từ điển toàn cục `FORMULAS_MAP` giữa các tiêu chuẩn khác nhau. Mỗi tiêu chuẩn kỹ thuật có hệ thống công thức độc lập.
+     - Cưỡng chế cơ chế cách ly tuyệt đối: `formula_handler` chỉ được phép đọc override từ tệp `formulas_override.yaml` nằm trong chính thư mục bundle của tiêu chuẩn đó (`ctx.bundle_dir / "formulas_override.yaml"`), hoặc bóc tách trực tiếp từ Math XML/OMML/AI Vision của chính tệp Word đó.
+  2. **Tự Động Nhận Diện Cặp Biểu Thức - Số Hiệu Công Thức (Expression-Tag Pair Auto-Detection):**
+     - Khi gặp đoạn văn $i$ chứa biểu thức toán học (ví dụ: `F ≤ Fu`) và đoạn văn $i+1$ ngay sau đó là số hiệu công thức `(1)`, bộ chuyển đổi tự động ghép thành khối công thức KaTeX duy nhất `$$F \le F_u \tag{1}$$` và tự động nhảy qua 2 khối ($i + 2$), loại bỏ hoàn toàn hiện tượng lặp lại câu văn toán học trước khối công thức.
+  3. **Khôi Phục Nguyên Văn Công Thức (1) TCVN 5574:2018:**
+     - Đã chuyển đổi chuẩn xác công thức (1) tại mục 5.2.1.2 TCVN 5574:2018 thành $F \le F_u \tag{1}$, đạt 100% Verbatim Parity và vượt qua toàn bộ 11 Cổng Master CI Gate.
