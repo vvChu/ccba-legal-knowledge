@@ -443,3 +443,23 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Công thức (3) tại Mục 5.4.1.2: $a_{crc} \le a_{crc,u}$ *(Công thức 3)*
      - Công thức (4) tại Mục 5.5.1.2: $f \le f_u$ *(Công thức 4)*
      - Đạt 100% Verbatim Parity và vượt qua toàn bộ 11 Cổng Master CI Gate.
+
+---
+
+## 31. Universal Formula Frame Decoupling & 100% KaTeX Parity for Complex Standards (2026-08-31)
+
+- **Thành quả Quản Trị & Chuẩn Hóa Toàn Trình 85+ Công Thức TCVN 5574:2018:**
+  1. **Khử Bỏ Ký Tự Rác & Chuẩn Hóa Toán Tử Tự Động (`clean_formula_latex`):**
+     - Nâng cấp `table_handler.py` tự động quét và loại bỏ các dấu `$` bị lồng bên trong khối KaTeX của bảng khung Word (`$$...$$`).
+     - Tự động chuyển đổi các toán tử phi chuẩn (`≤`, `≥`, `≠`, `±`, `×`, `·`, `…`) thành mã lệnh KaTeX chuẩn (`\le`, `\ge`, `\ne`, `\pm`, `\times`, `\cdot`, `\dots`).
+     - Đảm bảo khoảng cách an toàn sau các lệnh LaTeX ký tự Hy Lạp và toán tử (`\varphi R_b` thay vì `\varphiR_b`).
+  2. **Cơ Chế Phân Giải Đa Tầng Cho Khung Bảng Công Thức (Multi-Tier Formula Frame Resolution):**
+     - Tự động nhận diện công thức theo thứ tự ưu tiên:
+       * `f_tag` trong `formulas_override.yaml` (override theo số hiệu công thức).
+       * `cell_rids` trong `formulas_override.yaml` (override theo mã định danh ảnh nhúng MathType/Drawing).
+       * Trích xuất trực tiếp văn bản từ `c.paragraphs[0]` kết hợp làm sạch bằng `clean_formula_latex`.
+       * Phân giải qua bộ từ điển Vision cache `ctx.rid_to_katex`.
+  3. **Hoàn Tất Chuẩn Hóa 100% Cho Toàn Bộ 85+ Công Thức TCVN 5574:2018:**
+     - Toàn bộ 73 công thức thân chính và 12 công thức phụ lục kỹ thuật đạt **100% Clean KaTeX**: $0$ placeholder `\text{Formula }`, $0$ lỗi lồng dấu `$`.
+     - Vượt qua toàn bộ 11 Cổng Master CI Gate và 165 bài kiểm thử unit test tự động.
+
