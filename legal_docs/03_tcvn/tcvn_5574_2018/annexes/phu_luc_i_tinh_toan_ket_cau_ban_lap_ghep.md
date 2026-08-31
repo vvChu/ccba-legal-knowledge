@@ -70,7 +70,7 @@ trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\gamma_{b,sh,j}$  là hệ số, lấy như trong điều kiện (I.3);
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- $\gamma_{sb,sh,j}$ là hệ số, lấy bằng 1,0, tính bằng một trên megapascan ($MPa^{-1}$);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $\gamma_{sb,sh,j}$ là hệ số, lấy bằng 1,0, tính bằng một trên megapascan ($ MPa^{-1}$);
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\gamma_{b,sh,lim}$ là hệ số, lấy bằng 2,0;
 

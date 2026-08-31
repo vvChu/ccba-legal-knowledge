@@ -455,8 +455,8 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 5.4.2  Tính toán theo sự mở rộng vết nứt được tiến hành theo điều kiện mà chiều rộng vết nứt $a_{crc}$ do ngoại lực không được vượt quá giá trị chiều rộng vết nứt giới hạn cho phép $a_{crc,u}$: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 5.4.2  Tính toán theo sự mở rộng vết nứt được tiến hành theo điều kiện mà chiều rộng vết nứt $a_{crc}$ do ngoại lực không được vượt quá giá trị chiều rộng vết nứt giới hạn cho phép $a_{crc,u}$: (tcvn_5574_2018.md#muc-5-4-2).",
+    "question": "Quy định tại 5.4.2  Tính toán theo sự mở rộng vết nứt được tiến hành theo điều kiện mà chiều rộng vết nứt $a_{crc}$ do ngoại lực không được vượt quá giá trị chiều rộng vết nứt giới hạn cho phép $ a_{crc,u}$: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 5.4.2  Tính toán theo sự mở rộng vết nứt được tiến hành theo điều kiện mà chiều rộng vết nứt $a_{crc}$ do ngoại lực không được vượt quá giá trị chiều rộng vết nứt giới hạn cho phép $ a_{crc,u}$: (tcvn_5574_2018.md#muc-5-4-2).",
     "anchor": "muc-5-4-2",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CONG_AN"
@@ -658,8 +658,8 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại 6.1.2.2  Giá trị tính toán của cường độ chịu nén dọc trục, $R_{b}$, và chịu kéo dọc trục, $R_{bt}$, của bê tông được xác định theo các công thức: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.1.2.2  Giá trị tính toán của cường độ chịu nén dọc trục, $R_{b}$, và chịu kéo dọc trục, $R_{bt}$, của bê tông được xác định theo các công thức: (tcvn_5574_2018.md#muc-6-1-2-2).",
+    "question": "Quy định tại 6.1.2.2  Giá trị tính toán của cường độ chịu nén dọc trục, $R_{b}$, và chịu kéo dọc trục, $ R_{bt}$, của bê tông được xác định theo các công thức: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.1.2.2  Giá trị tính toán của cường độ chịu nén dọc trục, $R_{b}$, và chịu kéo dọc trục, $ R_{bt}$, của bê tông được xác định theo các công thức: (tcvn_5574_2018.md#muc-6-1-2-2).",
     "anchor": "muc-6-1-2-2",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CONG_AN"
@@ -672,15 +672,15 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại Bảng 6 - Các cường độ tiêu chuẩn của bê tông, $R_{b,n}$ và $R_{bt,n}$, và các cường độ tính toán của bê tông đối với các trạng thái giới hạn thứ hai, $R_{b,ser}$ và $R_{bt,ser}$ của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 6 - Các cường độ tiêu chuẩn của bê tông, $R_{b,n}$ và $R_{bt,n}$, và các cường độ tính toán của bê tông đối với các trạng thái giới hạn thứ hai, $R_{b,ser}$ và $R_{bt,ser}$ (tcvn_5574_2018.md#bang-bang-06).",
+    "question": "Quy định tại Bảng 6 - Các cường độ tiêu chuẩn của bê tông, $R_{b,n}$ và $ R_{bt,n}$, và các cường độ tính toán của bê tông đối với các trạng thái giới hạn thứ hai, $ R_{b,ser}$ và $ R_{bt,ser}$ của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 6 - Các cường độ tiêu chuẩn của bê tông, $R_{b,n}$ và $ R_{bt,n}$, và các cường độ tính toán của bê tông đối với các trạng thái giới hạn thứ hai, $ R_{b,ser}$ và $ R_{bt,ser}$ (tcvn_5574_2018.md#bang-bang-06).",
     "anchor": "bang-bang-06",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại Bảng 7 - Các cường độ tính toán của bê tông, $R_{b}$ và $R_{bt}$, đối với các trạng thái giới hạn thứ nhất của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 7 - Các cường độ tính toán của bê tông, $R_{b}$ và $R_{bt}$, đối với các trạng thái giới hạn thứ nhất (tcvn_5574_2018.md#bang-bang-07).",
+    "question": "Quy định tại Bảng 7 - Các cường độ tính toán của bê tông, $R_{b}$ và $ R_{bt}$, đối với các trạng thái giới hạn thứ nhất của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 7 - Các cường độ tính toán của bê tông, $R_{b}$ và $ R_{bt}$, đối với các trạng thái giới hạn thứ nhất (tcvn_5574_2018.md#bang-bang-07).",
     "anchor": "bang-bang-07",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -721,8 +721,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 6.1.3.3  Giá trị mô đun đàn hồi ban đầu của bê tông khi nén và khi kéo $E_{b}$ lấy theo Bảng 10 phụ thuộc vào cấp cường độ chịu nén của bê tông B. Giá trị mô đun trượt G của bê tông lấy bằng 0,4$E_{b}$. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.1.3.3  Giá trị mô đun đàn hồi ban đầu của bê tông khi nén và khi kéo $E_{b}$ lấy theo Bảng 10 phụ thuộc vào cấp cường độ chịu nén của bê tông B. Giá trị mô đun trượt G của bê tông lấy bằng 0,4$E_{b}$. (tcvn_5574_2018.md#muc-6-1-3-3).",
+    "question": "Quy định tại 6.1.3.3  Giá trị mô đun đàn hồi ban đầu của bê tông khi nén và khi kéo $E_{b}$ lấy theo Bảng 10 phụ thuộc vào cấp cường độ chịu nén của bê tông B. Giá trị mô đun trượt G của bê tông lấy bằng 0,4$ E_{b}$. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 6.1.3.3  Giá trị mô đun đàn hồi ban đầu của bê tông khi nén và khi kéo $E_{b}$ lấy theo Bảng 10 phụ thuộc vào cấp cường độ chịu nén của bê tông B. Giá trị mô đun trượt G của bê tông lấy bằng 0,4$ E_{b}$. (tcvn_5574_2018.md#muc-6-1-3-3).",
     "anchor": "muc-6-1-3-3",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CONG_AN"
@@ -924,8 +924,8 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại Bảng 12 - Cường độ chịu kéo tiêu chuẩn của cốt thép $R_{s,n}$ và cường độ chịu kéo tính toán của cốt thép đối với các trạng thái giới hạn thứ hai $R_{s,ser}$ của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 12 - Cường độ chịu kéo tiêu chuẩn của cốt thép $R_{s,n}$ và cường độ chịu kéo tính toán của cốt thép đối với các trạng thái giới hạn thứ hai $R_{s,ser}$ (tcvn_5574_2018.md#bang-bang-12).",
+    "question": "Quy định tại Bảng 12 - Cường độ chịu kéo tiêu chuẩn của cốt thép $R_{s,n}$ và cường độ chịu kéo tính toán của cốt thép đối với các trạng thái giới hạn thứ hai $ R_{s,ser}$ của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại Bảng 12 - Cường độ chịu kéo tiêu chuẩn của cốt thép $R_{s,n}$ và cường độ chịu kéo tính toán của cốt thép đối với các trạng thái giới hạn thứ hai $ R_{s,ser}$ (tcvn_5574_2018.md#bang-bang-12).",
     "anchor": "bang-bang-12",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -1064,8 +1064,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 7.2.4  Tính toán độ bền các cấu kiện bê tông khi có tác dụng của lực cắt được tiến hành theo điều kiện mà tổng của tỉ số giữa ứng suất kéo chính và cường độ chịu kéo dọc trục tính toán, ($\\sigma_{mt}$/$R_{bt}$), và tỉ số giữa ứng suất nén chính và cường độ chịu nén tính toán dọc trục, ($\\sigma_{mc}$/$R_{b}$), không được vượt quá 1,0, nghĩa là ($\\sigma_{mt}$/$R_{bt}$) + ($\\sigma_{mc}$/$R_{b}$) ≤ 1,0. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 7.2.4  Tính toán độ bền các cấu kiện bê tông khi có tác dụng của lực cắt được tiến hành theo điều kiện mà tổng của tỉ số giữa ứng suất kéo chính và cường độ chịu kéo dọc trục tính toán, ($\\sigma_{mt}$/$R_{bt}$), và tỉ số giữa ứng suất nén chính và cường độ chịu nén tính toán dọc trục, ($\\sigma_{mc}$/$R_{b}$), không được vượt quá 1,0, nghĩa là ($\\sigma_{mt}$/$R_{bt}$) + ($\\sigma_{mc}$/$R_{b}$) ≤ 1,0. (tcvn_5574_2018.md#muc-7-2-4).",
+    "question": "Quy định tại 7.2.4  Tính toán độ bền các cấu kiện bê tông khi có tác dụng của lực cắt được tiến hành theo điều kiện mà tổng của tỉ số giữa ứng suất kéo chính và cường độ chịu kéo dọc trục tính toán, ($\\sigma_{mt}$/$ R_{bt}$), và tỉ số giữa ứng suất nén chính và cường độ chịu nén tính toán dọc trục, ($\\sigma_{mc}$/$ R_{b}$), không được vượt quá 1,0, nghĩa là ($\\sigma_{mt}$/$ R_{bt}$) + ($\\sigma_{mc}$/$ R_{b}$) ≤ 1,0. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 7.2.4  Tính toán độ bền các cấu kiện bê tông khi có tác dụng của lực cắt được tiến hành theo điều kiện mà tổng của tỉ số giữa ứng suất kéo chính và cường độ chịu kéo dọc trục tính toán, ($\\sigma_{mt}$/$ R_{bt}$), và tỉ số giữa ứng suất nén chính và cường độ chịu nén tính toán dọc trục, ($\\sigma_{mc}$/$ R_{b}$), không được vượt quá 1,0, nghĩa là ($\\sigma_{mt}$/$ R_{bt}$) + ($\\sigma_{mc}$/$ R_{b}$) ≤ 1,0. (tcvn_5574_2018.md#muc-7-2-4).",
     "anchor": "muc-7-2-4",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -1092,8 +1092,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 7.3.1  Khi tính toán độ bền các cấu kiện bê tông chịu nén lệch tâm chịu tác dụng của lực nén dọc trục thì cần kể đến độ lệch tâm ngẫu nhiên $e_{a}$. Độ lệch tâm $e_{a}$ này lấy không nhỏ hơn: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 7.3.1  Khi tính toán độ bền các cấu kiện bê tông chịu nén lệch tâm chịu tác dụng của lực nén dọc trục thì cần kể đến độ lệch tâm ngẫu nhiên $e_{a}$. Độ lệch tâm $e_{a}$ này lấy không nhỏ hơn: (tcvn_5574_2018.md#muc-7-3-1).",
+    "question": "Quy định tại 7.3.1  Khi tính toán độ bền các cấu kiện bê tông chịu nén lệch tâm chịu tác dụng của lực nén dọc trục thì cần kể đến độ lệch tâm ngẫu nhiên $e_{a}$. Độ lệch tâm $ e_{a}$ này lấy không nhỏ hơn: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 7.3.1  Khi tính toán độ bền các cấu kiện bê tông chịu nén lệch tâm chịu tác dụng của lực nén dọc trục thì cần kể đến độ lệch tâm ngẫu nhiên $e_{a}$. Độ lệch tâm $ e_{a}$ này lấy không nhỏ hơn: (tcvn_5574_2018.md#muc-7-3-1).",
     "anchor": "muc-7-3-1",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -1106,8 +1106,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 7.3.2  Khi độ mảnh của các cấu kiện $L_{0}$/i > 14 thì phải kể đến ảnh hưởng của uốn dọc đến khả năng chịu lực của chúng bằng cách nhân giá trị độ lệch tâm $e_{0}$ với hệ số η được xác định theo 7.3.5. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 7.3.2  Khi độ mảnh của các cấu kiện $L_{0}$/i > 14 thì phải kể đến ảnh hưởng của uốn dọc đến khả năng chịu lực của chúng bằng cách nhân giá trị độ lệch tâm $e_{0}$ với hệ số η được xác định theo 7.3.5. (tcvn_5574_2018.md#muc-7-3-2).",
+    "question": "Quy định tại 7.3.2  Khi độ mảnh của các cấu kiện $L_{0}$/i > 14 thì phải kể đến ảnh hưởng của uốn dọc đến khả năng chịu lực của chúng bằng cách nhân giá trị độ lệch tâm $ e_{0}$ với hệ số η được xác định theo 7.3.5. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 7.3.2  Khi độ mảnh của các cấu kiện $L_{0}$/i > 14 thì phải kể đến ảnh hưởng của uốn dọc đến khả năng chịu lực của chúng bằng cách nhân giá trị độ lệch tâm $ e_{0}$ với hệ số η được xác định theo 7.3.5. (tcvn_5574_2018.md#muc-7-3-2).",
     "anchor": "muc-7-3-2",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -1253,8 +1253,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.1.2.2.2  Tính toán độ bền tiết diện thẳng góc cần được tiến hành phụ thuộc vào sự tương quan giữa giá trị chiều cao tương đối của vùng chịu nén của bê tông ξ = x/$h_{0}$, được xác định từ các điều kiện cân bằng tương ứng, và giá trị chiều cao tương đối giới hạn của vùng chịu nén của bê tông $\\xi_{R}$, tại thời điểm khi trạng thái giới hạn của cấu kiện xảy ra đồng thời với việc ứng suất trong cốt thép chịu kéo đạt tới cường độ tính toán $R_{s}$. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.2.2  Tính toán độ bền tiết diện thẳng góc cần được tiến hành phụ thuộc vào sự tương quan giữa giá trị chiều cao tương đối của vùng chịu nén của bê tông ξ = x/$h_{0}$, được xác định từ các điều kiện cân bằng tương ứng, và giá trị chiều cao tương đối giới hạn của vùng chịu nén của bê tông $\\xi_{R}$, tại thời điểm khi trạng thái giới hạn của cấu kiện xảy ra đồng thời với việc ứng suất trong cốt thép chịu kéo đạt tới cường độ tính toán $R_{s}$. (tcvn_5574_2018.md#muc-8-1-2-2-2).",
+    "question": "Quy định tại 8.1.2.2.2  Tính toán độ bền tiết diện thẳng góc cần được tiến hành phụ thuộc vào sự tương quan giữa giá trị chiều cao tương đối của vùng chịu nén của bê tông ξ = x/$h_{0}$, được xác định từ các điều kiện cân bằng tương ứng, và giá trị chiều cao tương đối giới hạn của vùng chịu nén của bê tông $\\xi_{R}$, tại thời điểm khi trạng thái giới hạn của cấu kiện xảy ra đồng thời với việc ứng suất trong cốt thép chịu kéo đạt tới cường độ tính toán $ R_{s}$. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.2.2  Tính toán độ bền tiết diện thẳng góc cần được tiến hành phụ thuộc vào sự tương quan giữa giá trị chiều cao tương đối của vùng chịu nén của bê tông ξ = x/$h_{0}$, được xác định từ các điều kiện cân bằng tương ứng, và giá trị chiều cao tương đối giới hạn của vùng chịu nén của bê tông $\\xi_{R}$, tại thời điểm khi trạng thái giới hạn của cấu kiện xảy ra đồng thời với việc ứng suất trong cốt thép chịu kéo đạt tới cường độ tính toán $ R_{s}$. (tcvn_5574_2018.md#muc-8-1-2-2-2).",
     "anchor": "muc-8-1-2-2-2",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -1267,8 +1267,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.1.2.2.4  Khi tính toán các cấu kiện bê tông cốt thép chịu nén lệch tâm thì trong độ lệch tâm ban đầu của lực dọc $e_{0}$ cần kể đến độ lệch tâm ngẫu nhiên $e_{a}$. Độ lệch tâm $e_{a}$ này lấy không nhỏ hơn: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.2.4  Khi tính toán các cấu kiện bê tông cốt thép chịu nén lệch tâm thì trong độ lệch tâm ban đầu của lực dọc $e_{0}$ cần kể đến độ lệch tâm ngẫu nhiên $e_{a}$. Độ lệch tâm $e_{a}$ này lấy không nhỏ hơn: (tcvn_5574_2018.md#muc-8-1-2-2-4).",
+    "question": "Quy định tại 8.1.2.2.4  Khi tính toán các cấu kiện bê tông cốt thép chịu nén lệch tâm thì trong độ lệch tâm ban đầu của lực dọc $e_{0}$ cần kể đến độ lệch tâm ngẫu nhiên $ e_{a}$. Độ lệch tâm $ e_{a}$ này lấy không nhỏ hơn: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.2.4  Khi tính toán các cấu kiện bê tông cốt thép chịu nén lệch tâm thì trong độ lệch tâm ban đầu của lực dọc $e_{0}$ cần kể đến độ lệch tâm ngẫu nhiên $ e_{a}$. Độ lệch tâm $ e_{a}$ này lấy không nhỏ hơn: (tcvn_5574_2018.md#muc-8-1-2-2-4).",
     "anchor": "muc-8-1-2-2-4",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -1295,8 +1295,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.1.2.3.2  Giá trị $M_{u}$ đối với cấu kiện chịu uốn tiết diện chữ nhật (Hình 5) khi ξ = x/$h_{0}$ ≤ $\\xi_{R}$ được xác định theo công thức: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.3.2  Giá trị $M_{u}$ đối với cấu kiện chịu uốn tiết diện chữ nhật (Hình 5) khi ξ = x/$h_{0}$ ≤ $\\xi_{R}$ được xác định theo công thức: (tcvn_5574_2018.md#muc-8-1-2-3-2).",
+    "question": "Quy định tại 8.1.2.3.2  Giá trị $M_{u}$ đối với cấu kiện chịu uốn tiết diện chữ nhật (Hình 5) khi ξ = x/$ h_{0}$ ≤ $\\xi_{R}$ được xác định theo công thức: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.3.2  Giá trị $M_{u}$ đối với cấu kiện chịu uốn tiết diện chữ nhật (Hình 5) khi ξ = x/$ h_{0}$ ≤ $\\xi_{R}$ được xác định theo công thức: (tcvn_5574_2018.md#muc-8-1-2-3-2).",
     "anchor": "muc-8-1-2-3-2",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -1323,8 +1323,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.1.2.3.3  Giá trị $M_{u}$ đối với cấu kiện chịu uốn có cánh nằm trong vùng chịu nén (tiết diện chữ T và chữ I), khi ξ = x/$h_{0}$ ≤ $\\xi_{R}$ được xác định phụ thuộc vào vị trí biên vùng chịu nén: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.3.3  Giá trị $M_{u}$ đối với cấu kiện chịu uốn có cánh nằm trong vùng chịu nén (tiết diện chữ T và chữ I), khi ξ = x/$h_{0}$ ≤ $\\xi_{R}$ được xác định phụ thuộc vào vị trí biên vùng chịu nén: (tcvn_5574_2018.md#muc-8-1-2-3-3).",
+    "question": "Quy định tại 8.1.2.3.3  Giá trị $M_{u}$ đối với cấu kiện chịu uốn có cánh nằm trong vùng chịu nén (tiết diện chữ T và chữ I), khi ξ = x/$ h_{0}$ ≤ $\\xi_{R}$ được xác định phụ thuộc vào vị trí biên vùng chịu nén: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.3.3  Giá trị $M_{u}$ đối với cấu kiện chịu uốn có cánh nằm trong vùng chịu nén (tiết diện chữ T và chữ I), khi ξ = x/$ h_{0}$ ≤ $\\xi_{R}$ được xác định phụ thuộc vào vị trí biên vùng chịu nén: (tcvn_5574_2018.md#muc-8-1-2-3-3).",
     "anchor": "muc-8-1-2-3-3",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -1365,8 +1365,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.1.2.3.6  Trường hợp đặt cốt thép đối xứng, khi $R_{s}A_{s}$ = $R_{sc}A_s'$, thì giá trị $M_{u}$ được xác định theo công thức: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.3.6  Trường hợp đặt cốt thép đối xứng, khi $R_{s}A_{s}$ = $R_{sc}A_s'$, thì giá trị $M_{u}$ được xác định theo công thức: (tcvn_5574_2018.md#muc-8-1-2-3-6).",
+    "question": "Quy định tại 8.1.2.3.6  Trường hợp đặt cốt thép đối xứng, khi $R_{s}A_{s}$ = $ R_{sc}A_s'$, thì giá trị $ M_{u}$ được xác định theo công thức: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.3.6  Trường hợp đặt cốt thép đối xứng, khi $R_{s}A_{s}$ = $ R_{sc}A_s'$, thì giá trị $ M_{u}$ được xác định theo công thức: (tcvn_5574_2018.md#muc-8-1-2-3-6).",
     "anchor": "muc-8-1-2-3-6",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -1421,8 +1421,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.1.2.4.3  Tính toán độ bền tiết diện chữ nhật của các cấu kiện chịu nén lệch tâm với cốt thép nằm ở các phía đối diện nhau trong mặt phẳng uốn của tiết diện, khi độ lệch tâm của lực dọc $e_{0}$ ≤ h/30 và độ mảnh $L_{0}$/h ≤ 20, được phép tiến hành theo điều kiện: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.4.3  Tính toán độ bền tiết diện chữ nhật của các cấu kiện chịu nén lệch tâm với cốt thép nằm ở các phía đối diện nhau trong mặt phẳng uốn của tiết diện, khi độ lệch tâm của lực dọc $e_{0}$ ≤ h/30 và độ mảnh $L_{0}$/h ≤ 20, được phép tiến hành theo điều kiện: (tcvn_5574_2018.md#muc-8-1-2-4-3).",
+    "question": "Quy định tại 8.1.2.4.3  Tính toán độ bền tiết diện chữ nhật của các cấu kiện chịu nén lệch tâm với cốt thép nằm ở các phía đối diện nhau trong mặt phẳng uốn của tiết diện, khi độ lệch tâm của lực dọc $e_{0}$ ≤ h/30 và độ mảnh $ L_{0}$/h ≤ 20, được phép tiến hành theo điều kiện: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.4.3  Tính toán độ bền tiết diện chữ nhật của các cấu kiện chịu nén lệch tâm với cốt thép nằm ở các phía đối diện nhau trong mặt phẳng uốn của tiết diện, khi độ lệch tâm của lực dọc $e_{0}$ ≤ h/30 và độ mảnh $ L_{0}$/h ≤ 20, được phép tiến hành theo điều kiện: (tcvn_5574_2018.md#muc-8-1-2-4-3).",
     "anchor": "muc-8-1-2-4-3",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -1603,29 +1603,29 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.1.2.7.7  Đối với các cấu kiện bê tông cốt thép chỉ chịu tác dụng của các mô men uốn theo hai phương $M_{x}$ và $M_{y}$, (uốn xiên) thì trong phương trình (74) lấy N = 0. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.7.7  Đối với các cấu kiện bê tông cốt thép chỉ chịu tác dụng của các mô men uốn theo hai phương $M_{x}$ và $M_{y}$, (uốn xiên) thì trong phương trình (74) lấy N = 0. (tcvn_5574_2018.md#muc-8-1-2-7-7).",
+    "question": "Quy định tại 8.1.2.7.7  Đối với các cấu kiện bê tông cốt thép chỉ chịu tác dụng của các mô men uốn theo hai phương $M_{x}$ và $ M_{y}$, (uốn xiên) thì trong phương trình (74) lấy N = 0. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.7.7  Đối với các cấu kiện bê tông cốt thép chỉ chịu tác dụng của các mô men uốn theo hai phương $M_{x}$ và $ M_{y}$, (uốn xiên) thì trong phương trình (74) lấy N = 0. (tcvn_5574_2018.md#muc-8-1-2-7-7).",
     "anchor": "muc-8-1-2-7-7",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.1.2.7.8  Đối với các cấu kiện bê tông cốt thép chịu nén lệch tâm trong mặt phẳng đối xứng của tiết diện ngang và trục X nằm trong mặt phẳng này thì trong các phương trình từ (72) đến (74) lấy $M_{y}$ = 0 và $D_{12}$ = $D_{22}$ = $D_{23}$ = 0. Trong trường hợp này, các phương trình cân bằng có dạng: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.7.8  Đối với các cấu kiện bê tông cốt thép chịu nén lệch tâm trong mặt phẳng đối xứng của tiết diện ngang và trục X nằm trong mặt phẳng này thì trong các phương trình từ (72) đến (74) lấy $M_{y}$ = 0 và $D_{12}$ = $D_{22}$ = $D_{23}$ = 0. Trong trường hợp này, các phương trình cân bằng có dạng: (tcvn_5574_2018.md#muc-8-1-2-7-8).",
+    "question": "Quy định tại 8.1.2.7.8  Đối với các cấu kiện bê tông cốt thép chịu nén lệch tâm trong mặt phẳng đối xứng của tiết diện ngang và trục X nằm trong mặt phẳng này thì trong các phương trình từ (72) đến (74) lấy $M_{y}$ = 0 và $ D_{12}$ = $ D_{22}$ = $ D_{23}$ = 0. Trong trường hợp này, các phương trình cân bằng có dạng: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.7.8  Đối với các cấu kiện bê tông cốt thép chịu nén lệch tâm trong mặt phẳng đối xứng của tiết diện ngang và trục X nằm trong mặt phẳng này thì trong các phương trình từ (72) đến (74) lấy $M_{y}$ = 0 và $ D_{12}$ = $ D_{22}$ = $ D_{23}$ = 0. Trong trường hợp này, các phương trình cân bằng có dạng: (tcvn_5574_2018.md#muc-8-1-2-7-8).",
     "anchor": "muc-8-1-2-7-8",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.1.2.7.9  Đối với các cấu kiện bê tông cốt thép chịu uốn trong mặt phẳng đối xứng của tiết diện ngang và trục X nằm trong mặt phẳng này thì trong các phương trình từ (72) đến (74) lấy N = 0, $M_{y}$ = 0 và $D_{12}$ = $D_{22}$ = $D_{23}$ = 0. Trong trường hợp này, các phương trình cân bằng có dạng: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.7.9  Đối với các cấu kiện bê tông cốt thép chịu uốn trong mặt phẳng đối xứng của tiết diện ngang và trục X nằm trong mặt phẳng này thì trong các phương trình từ (72) đến (74) lấy N = 0, $M_{y}$ = 0 và $D_{12}$ = $D_{22}$ = $D_{23}$ = 0. Trong trường hợp này, các phương trình cân bằng có dạng: (tcvn_5574_2018.md#muc-8-1-2-7-9).",
+    "question": "Quy định tại 8.1.2.7.9  Đối với các cấu kiện bê tông cốt thép chịu uốn trong mặt phẳng đối xứng của tiết diện ngang và trục X nằm trong mặt phẳng này thì trong các phương trình từ (72) đến (74) lấy N = 0, $M_{y}$ = 0 và $ D_{12}$ = $ D_{22}$ = $ D_{23}$ = 0. Trong trường hợp này, các phương trình cân bằng có dạng: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.7.9  Đối với các cấu kiện bê tông cốt thép chịu uốn trong mặt phẳng đối xứng của tiết diện ngang và trục X nằm trong mặt phẳng này thì trong các phương trình từ (72) đến (74) lấy N = 0, $M_{y}$ = 0 và $ D_{12}$ = $ D_{22}$ = $ D_{23}$ = 0. Trong trường hợp này, các phương trình cân bằng có dạng: (tcvn_5574_2018.md#muc-8-1-2-7-9).",
     "anchor": "muc-8-1-2-7-9",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.1.2.7.10  Tính toán độ bền tiết diện thẳng góc của các cấu kiện bê tông chịu nén lệch tâm khi lực nén dọc trục nằm trong phạm vi tiết diện ngang của cấu kiện được tiến hành theo điều kiện (70) dựa trên các chỉ dẫn trong 8.1.2.7.5 đến 8.1.2.7.9, trong đó trong các công thức ở 8.1.2.7.6 lấy diện tích cốt thép $A_{sj}$ = 0 để xác định $D_{ij}$. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.7.10  Tính toán độ bền tiết diện thẳng góc của các cấu kiện bê tông chịu nén lệch tâm khi lực nén dọc trục nằm trong phạm vi tiết diện ngang của cấu kiện được tiến hành theo điều kiện (70) dựa trên các chỉ dẫn trong 8.1.2.7.5 đến 8.1.2.7.9, trong đó trong các công thức ở 8.1.2.7.6 lấy diện tích cốt thép $A_{sj}$ = 0 để xác định $D_{ij}$. (tcvn_5574_2018.md#muc-8-1-2-7-10).",
+    "question": "Quy định tại 8.1.2.7.10  Tính toán độ bền tiết diện thẳng góc của các cấu kiện bê tông chịu nén lệch tâm khi lực nén dọc trục nằm trong phạm vi tiết diện ngang của cấu kiện được tiến hành theo điều kiện (70) dựa trên các chỉ dẫn trong 8.1.2.7.5 đến 8.1.2.7.9, trong đó trong các công thức ở 8.1.2.7.6 lấy diện tích cốt thép $A_{sj}$ = 0 để xác định $ D_{ij}$. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.2.7.10  Tính toán độ bền tiết diện thẳng góc của các cấu kiện bê tông chịu nén lệch tâm khi lực nén dọc trục nằm trong phạm vi tiết diện ngang của cấu kiện được tiến hành theo điều kiện (70) dựa trên các chỉ dẫn trong 8.1.2.7.5 đến 8.1.2.7.9, trong đó trong các công thức ở 8.1.2.7.6 lấy diện tích cốt thép $A_{sj}$ = 0 để xác định $ D_{ij}$. (tcvn_5574_2018.md#muc-8-1-2-7-10).",
     "anchor": "muc-8-1-2-7-10",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -1876,15 +1876,15 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$q_{sw1} = \\frac{R_{sw} A_{sw1}}{s_w} \\tag{107}$$ của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$q_{sw1} = \\frac{R_{sw} A_{sw1}}{s_w} \\tag{107}$$ (tcvn_5574_2018.md#formula-107).",
+    "question": "Quy định tại $$q_{sw,1} = \\frac{R_{sw} A_{sw,1}}{s_w} \\tag{107}$$ của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$q_{sw,1} = \\frac{R_{sw} A_{sw,1}}{s_w} \\tag{107}$$ (tcvn_5574_2018.md#formula-107).",
     "anchor": "formula-107",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$C_{sw} = δ . C \\tag{108}$$ của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$C_{sw} = δ . C \\tag{108}$$ (tcvn_5574_2018.md#formula-108).",
+    "question": "Quy định tại $$C_{sw} = \\delta \\cdot C \\tag{108}$$ của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$C_{sw} = \\delta \\cdot C \\tag{108}$$ (tcvn_5574_2018.md#formula-108).",
     "anchor": "formula-108",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -2135,8 +2135,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.1.6.3.4  Giá trị các mô men kháng uốn $W_{sw,x}$ và $W_{sw,y}$ của cốt thép ngang khi chọc thủng trong trường hợp, khi mà cốt thép ngang phân bố đều dọc theo đường bao chọc thủng tính toán trong phạm vi của vùng có các biên nằm ở khoảng cách $h_{0}$/2 về mỗi phía của đường bao chọc thủng bê tông (Hình 18), lần lượt lấy bằng các giá trị $W_{bx}$ và $W_{by}$. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.6.3.4  Giá trị các mô men kháng uốn $W_{sw,x}$ và $W_{sw,y}$ của cốt thép ngang khi chọc thủng trong trường hợp, khi mà cốt thép ngang phân bố đều dọc theo đường bao chọc thủng tính toán trong phạm vi của vùng có các biên nằm ở khoảng cách $h_{0}$/2 về mỗi phía của đường bao chọc thủng bê tông (Hình 18), lần lượt lấy bằng các giá trị $W_{bx}$ và $W_{by}$. (tcvn_5574_2018.md#muc-8-1-6-3-4).",
+    "question": "Quy định tại 8.1.6.3.4  Giá trị các mô men kháng uốn $W_{sw,x}$ và $ W_{sw,y}$ của cốt thép ngang khi chọc thủng trong trường hợp, khi mà cốt thép ngang phân bố đều dọc theo đường bao chọc thủng tính toán trong phạm vi của vùng có các biên nằm ở khoảng cách $ h_{0}$/2 về mỗi phía của đường bao chọc thủng bê tông (Hình 18), lần lượt lấy bằng các giá trị $ W_{bx}$ và $ W_{by}$. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.1.6.3.4  Giá trị các mô men kháng uốn $W_{sw,x}$ và $ W_{sw,y}$ của cốt thép ngang khi chọc thủng trong trường hợp, khi mà cốt thép ngang phân bố đều dọc theo đường bao chọc thủng tính toán trong phạm vi của vùng có các biên nằm ở khoảng cách $ h_{0}$/2 về mỗi phía của đường bao chọc thủng bê tông (Hình 18), lần lượt lấy bằng các giá trị $ W_{bx}$ và $ W_{by}$. (tcvn_5574_2018.md#muc-8-1-6-3-4).",
     "anchor": "muc-8-1-6-3-4",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -2401,8 +2401,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.2.2.2.2  Cho phép mô men hình thành vết nứt được xác định không kể đến các biến dạng không đàn hồi của bê tông chịu kéo theo các chỉ dẫn 8.2.2.2.4, nhưng trong công thức (158) lấy $W_{pl}$ = $W_{red}$. Nếu khi đó điều kiện (155) hoặc điều kiện (177) không thỏa mãn thì mô men hình thành vết nứt cần được xác định có kể đến biến dạng không đàn hồi của bê tông chịu kéo. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.2.2.2.2  Cho phép mô men hình thành vết nứt được xác định không kể đến các biến dạng không đàn hồi của bê tông chịu kéo theo các chỉ dẫn 8.2.2.2.4, nhưng trong công thức (158) lấy $W_{pl}$ = $W_{red}$. Nếu khi đó điều kiện (155) hoặc điều kiện (177) không thỏa mãn thì mô men hình thành vết nứt cần được xác định có kể đến biến dạng không đàn hồi của bê tông chịu kéo. (tcvn_5574_2018.md#muc-8-2-2-2-2).",
+    "question": "Quy định tại 8.2.2.2.2  Cho phép mô men hình thành vết nứt được xác định không kể đến các biến dạng không đàn hồi của bê tông chịu kéo theo các chỉ dẫn 8.2.2.2.4, nhưng trong công thức (158) lấy $W_{pl}$ = $ W_{red}$. Nếu khi đó điều kiện (155) hoặc điều kiện (177) không thỏa mãn thì mô men hình thành vết nứt cần được xác định có kể đến biến dạng không đàn hồi của bê tông chịu kéo. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.2.2.2.2  Cho phép mô men hình thành vết nứt được xác định không kể đến các biến dạng không đàn hồi của bê tông chịu kéo theo các chỉ dẫn 8.2.2.2.4, nhưng trong công thức (158) lấy $W_{pl}$ = $ W_{red}$. Nếu khi đó điều kiện (155) hoặc điều kiện (177) không thỏa mãn thì mô men hình thành vết nứt cần được xác định có kể đến biến dạng không đàn hồi của bê tông chịu kéo. (tcvn_5574_2018.md#muc-8-2-2-2-2).",
     "anchor": "muc-8-2-2-2-2",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -2436,8 +2436,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.2.2.2.5  Mô men kháng uốn $W_{red}$ và khoảng cách $e_{x}$ được xác định theo các công thức: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.2.2.2.5  Mô men kháng uốn $W_{red}$ và khoảng cách $e_{x}$ được xác định theo các công thức: (tcvn_5574_2018.md#muc-8-2-2-2-5).",
+    "question": "Quy định tại 8.2.2.2.5  Mô men kháng uốn $W_{red}$ và khoảng cách $ e_{x}$ được xác định theo các công thức: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.2.2.2.5  Mô men kháng uốn $W_{red}$ và khoảng cách $ e_{x}$ được xác định theo các công thức: (tcvn_5574_2018.md#muc-8-2-2-2-5).",
     "anchor": "muc-8-2-2-2-5",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -2583,8 +2583,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 8.2.3.2.5  Đối với cấu kiện chịu uốn khi L/h < 10 thì cần kể đến ảnh hưởng của lực cắt đến độ võng. Trong trường hợp này, độ võng toàn phần f bằng tổng độ võng do biến dạng uốn $f_{m}$ (xem 8.2.3.2.3 và 8.2.3.2.4) và độ võng do biến dạng trượt $f_{q}$. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.2.3.2.5  Đối với cấu kiện chịu uốn khi L/h < 10 thì cần kể đến ảnh hưởng của lực cắt đến độ võng. Trong trường hợp này, độ võng toàn phần f bằng tổng độ võng do biến dạng uốn $f_{m}$ (xem 8.2.3.2.3 và 8.2.3.2.4) và độ võng do biến dạng trượt $f_{q}$. (tcvn_5574_2018.md#muc-8-2-3-2-5).",
+    "question": "Quy định tại 8.2.3.2.5  Đối với cấu kiện chịu uốn khi L/h < 10 thì cần kể đến ảnh hưởng của lực cắt đến độ võng. Trong trường hợp này, độ võng toàn phần f bằng tổng độ võng do biến dạng uốn $f_{m}$ (xem 8.2.3.2.3 và 8.2.3.2.4) và độ võng do biến dạng trượt $ f_{q}$. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 8.2.3.2.5  Đối với cấu kiện chịu uốn khi L/h < 10 thì cần kể đến ảnh hưởng của lực cắt đến độ võng. Trong trường hợp này, độ võng toàn phần f bằng tổng độ võng do biến dạng uốn $f_{m}$ (xem 8.2.3.2.3 và 8.2.3.2.4) và độ võng do biến dạng trượt $ f_{q}$. (tcvn_5574_2018.md#muc-8-2-3-2-5).",
     "anchor": "muc-8-2-3-2-5",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -2730,8 +2730,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.1.1  Ứng suất trước của cốt thép $\\sigma_{sp}$ lấy không lớn hơn 0,9$R_{s,n}$ đối với cốt thép cán nóng và cốt thép gia công nhiệt và không lớn hơn 0,8$R_{s,n}$ đối với cốt thép kéo (cán) nguội và cáp. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.1.1  Ứng suất trước của cốt thép $\\sigma_{sp}$ lấy không lớn hơn 0,9$R_{s,n}$ đối với cốt thép cán nóng và cốt thép gia công nhiệt và không lớn hơn 0,8$R_{s,n}$ đối với cốt thép kéo (cán) nguội và cáp. (tcvn_5574_2018.md#muc-9-1-1).",
+    "question": "Quy định tại 9.1.1  Ứng suất trước của cốt thép $\\sigma_{sp}$ lấy không lớn hơn 0,9$ R_{s,n}$ đối với cốt thép cán nóng và cốt thép gia công nhiệt và không lớn hơn 0,8$ R_{s,n}$ đối với cốt thép kéo (cán) nguội và cáp. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.1.1  Ứng suất trước của cốt thép $\\sigma_{sp}$ lấy không lớn hơn 0,9$ R_{s,n}$ đối với cốt thép cán nóng và cốt thép gia công nhiệt và không lớn hơn 0,8$ R_{s,n}$ đối với cốt thép kéo (cán) nguội và cáp. (tcvn_5574_2018.md#muc-9-1-1).",
     "anchor": "muc-9-1-1",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -2807,8 +2807,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.1.11  Ứng suất trước trong bè tông $\\sigma_{bp}$, khi truyền lực nén trước $P_{(1)}$, được xác định có kể đến các hao tổn thứ nhất, không được vượt quá: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.1.11  Ứng suất trước trong bè tông $\\sigma_{bp}$, khi truyền lực nén trước $P_{(1)}$, được xác định có kể đến các hao tổn thứ nhất, không được vượt quá: (tcvn_5574_2018.md#muc-9-1-11).",
+    "question": "Quy định tại 9.1.11  Ứng suất trước trong bè tông $\\sigma_{bp}$, khi truyền lực nén trước $ P_{(1)}$, được xác định có kể đến các hao tổn thứ nhất, không được vượt quá: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.1.11  Ứng suất trước trong bè tông $\\sigma_{bp}$, khi truyền lực nén trước $ P_{(1)}$, được xác định có kể đến các hao tổn thứ nhất, không được vượt quá: (tcvn_5574_2018.md#muc-9-1-11).",
     "anchor": "muc-9-1-11",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -2870,8 +2870,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.2.1.6  Khi tính toán cấu kiện ứng suất trước theo độ bền thì cần kể đến sai lệch có thể có của ứng suất trước đã được xác định theo 9.1.9 bằng cách nhân giá trị $\\sigma_{bpj}$ (hoặc lực nén trước $P_{j}$) đối với thanh thép thứ j đang xét hoặc nhóm các thanh thép ứng suất trước với hệ số $\\gamma_{sp}$. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.2.1.6  Khi tính toán cấu kiện ứng suất trước theo độ bền thì cần kể đến sai lệch có thể có của ứng suất trước đã được xác định theo 9.1.9 bằng cách nhân giá trị $\\sigma_{bpj}$ (hoặc lực nén trước $P_{j}$) đối với thanh thép thứ j đang xét hoặc nhóm các thanh thép ứng suất trước với hệ số $\\gamma_{sp}$. (tcvn_5574_2018.md#muc-9-2-1-6).",
+    "question": "Quy định tại 9.2.1.6  Khi tính toán cấu kiện ứng suất trước theo độ bền thì cần kể đến sai lệch có thể có của ứng suất trước đã được xác định theo 9.1.9 bằng cách nhân giá trị $\\sigma_{bpj}$ (hoặc lực nén trước $ P_{j}$) đối với thanh thép thứ j đang xét hoặc nhóm các thanh thép ứng suất trước với hệ số $\\gamma_{sp}$. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.2.1.6  Khi tính toán cấu kiện ứng suất trước theo độ bền thì cần kể đến sai lệch có thể có của ứng suất trước đã được xác định theo 9.1.9 bằng cách nhân giá trị $\\sigma_{bpj}$ (hoặc lực nén trước $ P_{j}$) đối với thanh thép thứ j đang xét hoặc nhóm các thanh thép ứng suất trước với hệ số $\\gamma_{sp}$. (tcvn_5574_2018.md#muc-9-2-1-6).",
     "anchor": "muc-9-2-1-6",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -2884,8 +2884,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 9.2.2.1  Tính toán độ bền các tiết diện thẳng góc cần được tiến hành theo các chỉ dẫn trong 8.1 có kể đến các chỉ dẫn bổ sung trong 9.2.2.2 đến 9.2.2.3. Khi đó, trong các công thức của 8.1, các ký hiệu $A_{s}$ và $A_s'$ dùng cho cả cốt thép ứng suất trước và không ứng suất trước. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.2.2.1  Tính toán độ bền các tiết diện thẳng góc cần được tiến hành theo các chỉ dẫn trong 8.1 có kể đến các chỉ dẫn bổ sung trong 9.2.2.2 đến 9.2.2.3. Khi đó, trong các công thức của 8.1, các ký hiệu $A_{s}$ và $A_s'$ dùng cho cả cốt thép ứng suất trước và không ứng suất trước. (tcvn_5574_2018.md#muc-9-2-2-1).",
+    "question": "Quy định tại 9.2.2.1  Tính toán độ bền các tiết diện thẳng góc cần được tiến hành theo các chỉ dẫn trong 8.1 có kể đến các chỉ dẫn bổ sung trong 9.2.2.2 đến 9.2.2.3. Khi đó, trong các công thức của 8.1, các ký hiệu $A_{s}$ và $ A_s'$ dùng cho cả cốt thép ứng suất trước và không ứng suất trước. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 9.2.2.1  Tính toán độ bền các tiết diện thẳng góc cần được tiến hành theo các chỉ dẫn trong 8.1 có kể đến các chỉ dẫn bổ sung trong 9.2.2.2 đến 9.2.2.3. Khi đó, trong các công thức của 8.1, các ký hiệu $A_{s}$ và $ A_s'$ dùng cho cả cốt thép ứng suất trước và không ứng suất trước. (tcvn_5574_2018.md#muc-9-2-2-1).",
     "anchor": "muc-9-2-2-1",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -3262,8 +3262,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.3.3.1  Trong các cấu kiện bê tông cốt thép, diện tích tiết diện của cốt thép dọc chịu kéo, cũng như chịu nén nếu cần theo tính toán, tính theo phần trăm diện tích tiết diện bê tông (bằng tích của chiều rộng tiết diện chữ nhật hoặc chiều rộng sườn của tiết diện chữ T hoặc chữ I và chiều cao làm việc của tiết diện), µ$\\varepsilon_{s}$ = ($A_{s}$/$bh_{0}$) $^{.}$ 100%, cần lấy không nhỏ hơn: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.3.3.1  Trong các cấu kiện bê tông cốt thép, diện tích tiết diện của cốt thép dọc chịu kéo, cũng như chịu nén nếu cần theo tính toán, tính theo phần trăm diện tích tiết diện bê tông (bằng tích của chiều rộng tiết diện chữ nhật hoặc chiều rộng sườn của tiết diện chữ T hoặc chữ I và chiều cao làm việc của tiết diện), µ$\\varepsilon_{s}$ = ($A_{s}$/$bh_{0}$) $^{.}$ 100%, cần lấy không nhỏ hơn: (tcvn_5574_2018.md#muc-10-3-3-1).",
+    "question": "Quy định tại 10.3.3.1  Trong các cấu kiện bê tông cốt thép, diện tích tiết diện của cốt thép dọc chịu kéo, cũng như chịu nén nếu cần theo tính toán, tính theo phần trăm diện tích tiết diện bê tông (bằng tích của chiều rộng tiết diện chữ nhật hoặc chiều rộng sườn của tiết diện chữ T hoặc chữ I và chiều cao làm việc của tiết diện), µ$\\varepsilon_{s}$ = ($ A_{s}$/$ bh_{0}$) $^{.}$ 100%, cần lấy không nhỏ hơn: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.3.3.1  Trong các cấu kiện bê tông cốt thép, diện tích tiết diện của cốt thép dọc chịu kéo, cũng như chịu nén nếu cần theo tính toán, tính theo phần trăm diện tích tiết diện bê tông (bằng tích của chiều rộng tiết diện chữ nhật hoặc chiều rộng sườn của tiết diện chữ T hoặc chữ I và chiều cao làm việc của tiết diện), µ$\\varepsilon_{s}$ = ($ A_{s}$/$ bh_{0}$) $^{.}$ 100%, cần lấy không nhỏ hơn: (tcvn_5574_2018.md#muc-10-3-3-1).",
     "anchor": "muc-10-3-3-1",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -3346,8 +3346,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.3.4.7  Trong các bản tại vùng chọc thủng theo phương vuông góc với các cạnh của đường bao tính toán, cốt thép ngang cần được đặt với bước không lớn hơn $h_{0}$/3 và không lớn hơn 300 mm (250 mm khi sử dụng bê tông từ B70 đến B100). Các thanh cốt thép nằm gần đường bao của diện chịu tải cần được bố trí cách đường bao này một khoảng không nhỏ hơn $h_{0}$/3 và không lớn hơn $h_{0}$/2. Khi đó, chiều rộng của vùng cần đặt cốt thép ngang (tính từ đường bao của diện chịu tải) không được nhỏ hơn 1,5 $h_{0}$. Cho phép tăng bước cốt thép ngang đến $h_{0}$/2. Khi đó, cần xem xét vị trí bất lợi nhất của tháp chọc thủng và trong tính toán chỉ cần kể đến các thanh cốt thép cắt qua tháp chọc thủng. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.3.4.7  Trong các bản tại vùng chọc thủng theo phương vuông góc với các cạnh của đường bao tính toán, cốt thép ngang cần được đặt với bước không lớn hơn $h_{0}$/3 và không lớn hơn 300 mm (250 mm khi sử dụng bê tông từ B70 đến B100). Các thanh cốt thép nằm gần đường bao của diện chịu tải cần được bố trí cách đường bao này một khoảng không nhỏ hơn $h_{0}$/3 và không lớn hơn $h_{0}$/2. Khi đó, chiều rộng của vùng cần đặt cốt thép ngang (tính từ đường bao của diện chịu tải) không được nhỏ hơn 1,5 $h_{0}$. Cho phép tăng bước cốt thép ngang đến $h_{0}$/2. Khi đó, cần xem xét vị trí bất lợi nhất của tháp chọc thủng và trong tính toán chỉ cần kể đến các thanh cốt thép cắt qua tháp chọc thủng. (tcvn_5574_2018.md#muc-10-3-4-7).",
+    "question": "Quy định tại 10.3.4.7  Trong các bản tại vùng chọc thủng theo phương vuông góc với các cạnh của đường bao tính toán, cốt thép ngang cần được đặt với bước không lớn hơn $h_{0}$/3 và không lớn hơn 300 mm (250 mm khi sử dụng bê tông từ B70 đến B100). Các thanh cốt thép nằm gần đường bao của diện chịu tải cần được bố trí cách đường bao này một khoảng không nhỏ hơn $ h_{0}$/3 và không lớn hơn $ h_{0}$/2. Khi đó, chiều rộng của vùng cần đặt cốt thép ngang (tính từ đường bao của diện chịu tải) không được nhỏ hơn 1,5 $ h_{0}$. Cho phép tăng bước cốt thép ngang đến $ h_{0}$/2. Khi đó, cần xem xét vị trí bất lợi nhất của tháp chọc thủng và trong tính toán chỉ cần kể đến các thanh cốt thép cắt qua tháp chọc thủng. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.3.4.7  Trong các bản tại vùng chọc thủng theo phương vuông góc với các cạnh của đường bao tính toán, cốt thép ngang cần được đặt với bước không lớn hơn $h_{0}$/3 và không lớn hơn 300 mm (250 mm khi sử dụng bê tông từ B70 đến B100). Các thanh cốt thép nằm gần đường bao của diện chịu tải cần được bố trí cách đường bao này một khoảng không nhỏ hơn $ h_{0}$/3 và không lớn hơn $ h_{0}$/2. Khi đó, chiều rộng của vùng cần đặt cốt thép ngang (tính từ đường bao của diện chịu tải) không được nhỏ hơn 1,5 $ h_{0}$. Cho phép tăng bước cốt thép ngang đến $ h_{0}$/2. Khi đó, cần xem xét vị trí bất lợi nhất của tháp chọc thủng và trong tính toán chỉ cần kể đến các thanh cốt thép cắt qua tháp chọc thủng. (tcvn_5574_2018.md#muc-10-3-4-7).",
     "anchor": "muc-10-3-4-7",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -3367,8 +3367,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.3.4.10  Ở các phần đầu của các cấu kiện ứng suất trước cần phải bố trí bổ sung cốt thép ngang hoặc cốt thép hạn chế biến dạng ngang (lưới thép hàn ôm tất cả các thành cốt thép dọc, cốt thép đai và tương tự với bước 50 mm đến 100 mm) trên một đoạn dài không nhỏ hơn 0,6 lần chiều dài vùng truyền ứng suất trước $L_{p}$, còn trong các cấu kiện làm từ bê tông nhẹ cấp cường độ chịu nén B7,5 đến B12,5 - với bước 50 mm trên một đoạn dài không nhỏ hơn $L_{p}$ và không nhỏ hơn 200 mm đối với các cấu kiện với cốt thép không có neo, còn khi có các chi tiết neo - trên một đoạn bằng hai lần chiều dài các chi tiết neo này. Việc bố trí neo ở các đầu của cốt thép là bắt buộc đối với cốt thép ứng suất trước căng trên bê tông, cũng như đối với cốt thép ứng suất trước căng trên bệ khi không đủ bám dính với bê tông (dây thép trơn, cáp nhiều sợi), khi đó, các chi tiết neo cần phải đảm bảo ngàm được chắc chắn cốt thép trong bê tông trong tất cả giai đoạn làm việc của nó. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.3.4.10  Ở các phần đầu của các cấu kiện ứng suất trước cần phải bố trí bổ sung cốt thép ngang hoặc cốt thép hạn chế biến dạng ngang (lưới thép hàn ôm tất cả các thành cốt thép dọc, cốt thép đai và tương tự với bước 50 mm đến 100 mm) trên một đoạn dài không nhỏ hơn 0,6 lần chiều dài vùng truyền ứng suất trước $L_{p}$, còn trong các cấu kiện làm từ bê tông nhẹ cấp cường độ chịu nén B7,5 đến B12,5 - với bước 50 mm trên một đoạn dài không nhỏ hơn $L_{p}$ và không nhỏ hơn 200 mm đối với các cấu kiện với cốt thép không có neo, còn khi có các chi tiết neo - trên một đoạn bằng hai lần chiều dài các chi tiết neo này. Việc bố trí neo ở các đầu của cốt thép là bắt buộc đối với cốt thép ứng suất trước căng trên bê tông, cũng như đối với cốt thép ứng suất trước căng trên bệ khi không đủ bám dính với bê tông (dây thép trơn, cáp nhiều sợi), khi đó, các chi tiết neo cần phải đảm bảo ngàm được chắc chắn cốt thép trong bê tông trong tất cả giai đoạn làm việc của nó. (tcvn_5574_2018.md#muc-10-3-4-10).",
+    "question": "Quy định tại 10.3.4.10  Ở các phần đầu của các cấu kiện ứng suất trước cần phải bố trí bổ sung cốt thép ngang hoặc cốt thép hạn chế biến dạng ngang (lưới thép hàn ôm tất cả các thành cốt thép dọc, cốt thép đai và tương tự với bước 50 mm đến 100 mm) trên một đoạn dài không nhỏ hơn 0,6 lần chiều dài vùng truyền ứng suất trước $L_{p}$, còn trong các cấu kiện làm từ bê tông nhẹ cấp cường độ chịu nén B7,5 đến B12,5 - với bước 50 mm trên một đoạn dài không nhỏ hơn $ L_{p}$ và không nhỏ hơn 200 mm đối với các cấu kiện với cốt thép không có neo, còn khi có các chi tiết neo - trên một đoạn bằng hai lần chiều dài các chi tiết neo này. Việc bố trí neo ở các đầu của cốt thép là bắt buộc đối với cốt thép ứng suất trước căng trên bê tông, cũng như đối với cốt thép ứng suất trước căng trên bệ khi không đủ bám dính với bê tông (dây thép trơn, cáp nhiều sợi), khi đó, các chi tiết neo cần phải đảm bảo ngàm được chắc chắn cốt thép trong bê tông trong tất cả giai đoạn làm việc của nó. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.3.4.10  Ở các phần đầu của các cấu kiện ứng suất trước cần phải bố trí bổ sung cốt thép ngang hoặc cốt thép hạn chế biến dạng ngang (lưới thép hàn ôm tất cả các thành cốt thép dọc, cốt thép đai và tương tự với bước 50 mm đến 100 mm) trên một đoạn dài không nhỏ hơn 0,6 lần chiều dài vùng truyền ứng suất trước $L_{p}$, còn trong các cấu kiện làm từ bê tông nhẹ cấp cường độ chịu nén B7,5 đến B12,5 - với bước 50 mm trên một đoạn dài không nhỏ hơn $ L_{p}$ và không nhỏ hơn 200 mm đối với các cấu kiện với cốt thép không có neo, còn khi có các chi tiết neo - trên một đoạn bằng hai lần chiều dài các chi tiết neo này. Việc bố trí neo ở các đầu của cốt thép là bắt buộc đối với cốt thép ứng suất trước căng trên bê tông, cũng như đối với cốt thép ứng suất trước căng trên bệ khi không đủ bám dính với bê tông (dây thép trơn, cáp nhiều sợi), khi đó, các chi tiết neo cần phải đảm bảo ngàm được chắc chắn cốt thép trong bê tông trong tất cả giai đoạn làm việc của nó. (tcvn_5574_2018.md#muc-10-3-4-10).",
     "anchor": "muc-10-3-4-10",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -3430,8 +3430,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại 10.3.5.7  Ở các gối tự do ngoài cùng của cấu kiện, chiều dài đoạn kéo vào gối của các thanh thép chịu kéo tính từ mép trong của gối tựa tự do khi thỏa mãn điều kiện Q ≤ $Q_{b,1}$ (xem 8.1.3.1, 8.1.3.2, 8.1.3.3.1, 8.1.3.3.2, 8.1.3.4) không được nhỏ hơn 5$d_{s}$. Nếu điều kiện này không thỏa mãn thì chiều dài đoạn kéo vào gối này được xác định theo 10.3.5.5. của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.3.5.7  Ở các gối tự do ngoài cùng của cấu kiện, chiều dài đoạn kéo vào gối của các thanh thép chịu kéo tính từ mép trong của gối tựa tự do khi thỏa mãn điều kiện Q ≤ $Q_{b,1}$ (xem 8.1.3.1, 8.1.3.2, 8.1.3.3.1, 8.1.3.3.2, 8.1.3.4) không được nhỏ hơn 5$d_{s}$. Nếu điều kiện này không thỏa mãn thì chiều dài đoạn kéo vào gối này được xác định theo 10.3.5.5. (tcvn_5574_2018.md#muc-10-3-5-7).",
+    "question": "Quy định tại 10.3.5.7  Ở các gối tự do ngoài cùng của cấu kiện, chiều dài đoạn kéo vào gối của các thanh thép chịu kéo tính từ mép trong của gối tựa tự do khi thỏa mãn điều kiện Q ≤ $Q_{b,1}$ (xem 8.1.3.1, 8.1.3.2, 8.1.3.3.1, 8.1.3.3.2, 8.1.3.4) không được nhỏ hơn 5$ d_{s}$. Nếu điều kiện này không thỏa mãn thì chiều dài đoạn kéo vào gối này được xác định theo 10.3.5.5. của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại 10.3.5.7  Ở các gối tự do ngoài cùng của cấu kiện, chiều dài đoạn kéo vào gối của các thanh thép chịu kéo tính từ mép trong của gối tựa tự do khi thỏa mãn điều kiện Q ≤ $Q_{b,1}$ (xem 8.1.3.1, 8.1.3.2, 8.1.3.3.1, 8.1.3.3.2, 8.1.3.4) không được nhỏ hơn 5$ d_{s}$. Nếu điều kiện này không thỏa mãn thì chiều dài đoạn kéo vào gối này được xác định theo 10.3.5.5. (tcvn_5574_2018.md#muc-10-3-5-7).",
     "anchor": "muc-10-3-5-7",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -4207,8 +4207,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại H.1  Tính toán công xôn ngắn của cột (vai cột) với $L_{1}$ ≤ 0,9$h_{0}$ (Hình H.1) chịu tác dụng của lực cắt, để đảm bảo độ bền trên dải bê tông nghiêng chịu nén giữa tải trọng tác dụng và gối tựa, cần được tiến hành theo điều kiện: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại H.1  Tính toán công xôn ngắn của cột (vai cột) với $L_{1}$ ≤ 0,9$h_{0}$ (Hình H.1) chịu tác dụng của lực cắt, để đảm bảo độ bền trên dải bê tông nghiêng chịu nén giữa tải trọng tác dụng và gối tựa, cần được tiến hành theo điều kiện: (annexes/phu_luc_h_tinh_toan_cong_xon_ngan.md#muc-h-1).",
+    "question": "Quy định tại H.1  Tính toán công xôn ngắn của cột (vai cột) với $L_{1}$ ≤ 0,9$ h_{0}$ (Hình H.1) chịu tác dụng của lực cắt, để đảm bảo độ bền trên dải bê tông nghiêng chịu nén giữa tải trọng tác dụng và gối tựa, cần được tiến hành theo điều kiện: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại H.1  Tính toán công xôn ngắn của cột (vai cột) với $L_{1}$ ≤ 0,9$ h_{0}$ (Hình H.1) chịu tác dụng của lực cắt, để đảm bảo độ bền trên dải bê tông nghiêng chịu nén giữa tải trọng tác dụng và gối tựa, cần được tiến hành theo điều kiện: (annexes/phu_luc_h_tinh_toan_cong_xon_ngan.md#muc-h-1).",
     "anchor": "muc-h-1",
     "source_file": "annexes/phu_luc_h_tinh_toan_cong_xon_ngan.md",
     "jurisdiction": "CQXD"
@@ -4375,8 +4375,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại K.4  Khi sử dụng biểu đồ đường cong biến dạng thì giá trị hệ số $v_{bk}$ cần được xác định bằng cách sử dụng các quan hệ từ (K.2) đến (K.8) mà trong đó thay vì các đặc trưng của bê tông $\\hat{\\sigma}_b \\text{ và } \\hat{\\varepsilon}_b$ cần sử dụng các đặc trưng của bê tông có cốt thép hạn chế biến dạng ngang $R_{b,red}$, $\\epsilon_{b0,red}$ và $\\epsilon_{b2,red}$, còn giá trị hệ số $v_{0}$ đối với nhánh xuống của biểu đồ nén dọc trục của bê tông lấy bằng giá trị tính được theo công thức: của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại K.4  Khi sử dụng biểu đồ đường cong biến dạng thì giá trị hệ số $v_{bk}$ cần được xác định bằng cách sử dụng các quan hệ từ (K.2) đến (K.8) mà trong đó thay vì các đặc trưng của bê tông $\\hat{\\sigma}_b \\text{ và } \\hat{\\varepsilon}_b$ cần sử dụng các đặc trưng của bê tông có cốt thép hạn chế biến dạng ngang $R_{b,red}$, $\\epsilon_{b0,red}$ và $\\epsilon_{b2,red}$, còn giá trị hệ số $v_{0}$ đối với nhánh xuống của biểu đồ nén dọc trục của bê tông lấy bằng giá trị tính được theo công thức: (annexes/phu_luc_k_xet_den_cot_thep_han_che_bien_dang_ngang_khi.md#muc-k-4).",
+    "question": "Quy định tại K.4  Khi sử dụng biểu đồ đường cong biến dạng thì giá trị hệ số $v_{bk}$ cần được xác định bằng cách sử dụng các quan hệ từ (K.2) đến (K.8) mà trong đó thay vì các đặc trưng của bê tông $\\hat{\\sigma}_b \\text{ và } \\hat{\\varepsilon}_b$ cần sử dụng các đặc trưng của bê tông có cốt thép hạn chế biến dạng ngang $ R_{b,red}$, $\\epsilon_{b0,red}$ và $\\epsilon_{b2,red}$, còn giá trị hệ số $ v_{0}$ đối với nhánh xuống của biểu đồ nén dọc trục của bê tông lấy bằng giá trị tính được theo công thức: của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại K.4  Khi sử dụng biểu đồ đường cong biến dạng thì giá trị hệ số $v_{bk}$ cần được xác định bằng cách sử dụng các quan hệ từ (K.2) đến (K.8) mà trong đó thay vì các đặc trưng của bê tông $\\hat{\\sigma}_b \\text{ và } \\hat{\\varepsilon}_b$ cần sử dụng các đặc trưng của bê tông có cốt thép hạn chế biến dạng ngang $ R_{b,red}$, $\\epsilon_{b0,red}$ và $\\epsilon_{b2,red}$, còn giá trị hệ số $ v_{0}$ đối với nhánh xuống của biểu đồ nén dọc trục của bê tông lấy bằng giá trị tính được theo công thức: (annexes/phu_luc_k_xet_den_cot_thep_han_che_bien_dang_ngang_khi.md#muc-k-4).",
     "anchor": "muc-k-4",
     "source_file": "annexes/phu_luc_k_xet_den_cot_thep_han_che_bien_dang_ngang_khi.md",
     "jurisdiction": "CQXD"
@@ -4522,8 +4522,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại M.3.8  Độ võng của các kết cấu vì kèo khi có đường ray của cần trục treo (Bảng M.1, mục 2d) cần lấy bằng hiệu giữa các độ võng $f_{1}$ và $f_{2}$ của các kết cấu vì kèo liền kề (Hình M.2). của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại M.3.8  Độ võng của các kết cấu vì kèo khi có đường ray của cần trục treo (Bảng M.1, mục 2d) cần lấy bằng hiệu giữa các độ võng $f_{1}$ và $f_{2}$ của các kết cấu vì kèo liền kề (Hình M.2). (annexes/phu_luc_m_do_vong_va_chuyen_vi_cua_ket_cau.md#muc-m-3-8).",
+    "question": "Quy định tại M.3.8  Độ võng của các kết cấu vì kèo khi có đường ray của cần trục treo (Bảng M.1, mục 2d) cần lấy bằng hiệu giữa các độ võng $f_{1}$ và $ f_{2}$ của các kết cấu vì kèo liền kề (Hình M.2). của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại M.3.8  Độ võng của các kết cấu vì kèo khi có đường ray của cần trục treo (Bảng M.1, mục 2d) cần lấy bằng hiệu giữa các độ võng $f_{1}$ và $ f_{2}$ của các kết cấu vì kèo liền kề (Hình M.2). (annexes/phu_luc_m_do_vong_va_chuyen_vi_cua_ket_cau.md#muc-m-3-8).",
     "anchor": "muc-m-3-8",
     "source_file": "annexes/phu_luc_m_do_vong_va_chuyen_vi_cua_ket_cau.md",
     "jurisdiction": "CQXD"

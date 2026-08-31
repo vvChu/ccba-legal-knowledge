@@ -16,7 +16,7 @@ $$\begin{aligned} D_{11} &= \sum_i A_{bi} Z_{bni}^2 E_b v_{bi} + \sum_j A_{bj} Z
 
 trong đó:
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- $A_{bk}$, $Z_{bxk}$, $Z_{byk}$  lần lượt là diện tích, các tọa độ trọng tâm vùng bê tông chịu nén thứ k có cốt thép hạn chế biến dạng ngang;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $A_{bk}$, $ Z_{bxk}$, $ Z_{byk}$  lần lượt là diện tích, các tọa độ trọng tâm vùng bê tông chịu nén thứ k có cốt thép hạn chế biến dạng ngang;
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $v_{bk}$  là hệ số đàn hồi của bê tông vùng thứ k có cốt thép hạn chế biến dạng ngang;
 
@@ -28,7 +28,7 @@ Trong các công thức từ (K.1) đến (K.6) cho phép lấy $A_{bi}$ = 0.
 <a id="muc-k-3"></a>
 ### K.3  Giá trị hệ số $v_{bk}$ lấy theo biểu đồ biến dạng khi nén dọc trục của bê tông có cốt thép hạn chế biến dạng ngang.
 
-Khi sử dụng biểu đồ hai đoạn thẳng hoặc ba đoạn thẳng thì giá trị hệ số $v_{bk}$  được xác định bằng cách sử dụng các quan hệ từ (9) đến (13) mà trong đó thay vì các đặc trưng của bê tông $R_{b}$, $\epsilon_{b0}$ và $\epsilon_{b2}$ cần sử dụng các đặc trưng của bê tông có cốt thép hạn chế biến dạng ngang $R_{b,red}$, $\epsilon_{b0,red}$ và $\epsilon_{b2,red}$:
+Khi sử dụng biểu đồ hai đoạn thẳng hoặc ba đoạn thẳng thì giá trị hệ số $v_{bk}$  được xác định bằng cách sử dụng các quan hệ từ (9) đến (13) mà trong đó thay vì các đặc trưng của bê tông $ R_{b}$, $\epsilon_{b0}$ và $\epsilon_{b2}$ cần sử dụng các đặc trưng của bê tông có cốt thép hạn chế biến dạng ngang $ R_{b,red}$, $\epsilon_{b0,red}$ và $\epsilon_{b2,red}$:
 
 
 $$\begin{aligned} R_{b,red} &= R_b + \varphi \mu_{xy}R_{s,xy} \qquad (K.7) \\ \varepsilon_{b0,red} &= \varepsilon_{b0} + 0,02 \alpha_{red} \qquad (K.8) \\ \varepsilon_{b2,red} &= \varepsilon_{b2}\frac{\varepsilon_{b0,red}}{\varepsilon_{b0}} \qquad (K.9) \end{aligned}$$
@@ -42,21 +42,21 @@ trong đó:
 $$\mu_{s,xy} = \frac{n_x A_{sx} L_x + n_y A_{sy} L_y}{A_{ef} s} \tag{K.10}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_K_10" -->
 
-trong đó:
+&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- $n_{x}$, $A_{sx}$, $L_{x}$  lần lượt là số thanh thép, diện tích tiết diện ngang và chiều dài lưới thép (đo theo trục các thanh ngoài cùng) theo một phương;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $n_{x}$, $ A_{sx}$, $ L_{x}$  lần lượt là số thanh thép, diện tích tiết diện ngang và chiều dài lưới thép (đo theo trục các thanh ngoài cùng) theo một phương;
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- $n_{x}$, $A_{sy}$, $L_{y}$  lần lượt là số thanh thép, diện tích tiết diện ngang và chiều dài lưới thép (đo theo trục các thanh ngoài cùng) theo phương kia;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $n_{x}$, $ A_{sy}$, $ L_{y}$  lần lượt là số thanh thép, diện tích tiết diện ngang và chiều dài lưới thép (đo theo trục các thanh ngoài cùng) theo phương kia;
 
 
 $$\begin{aligned} \varphi &= \frac{1}{0,23 + \alpha_{red}} \qquad (K.11) \\ \alpha_{red} &= \frac{\mu_{xy} R_{s,xy}}{R_b + 10} \qquad (K.12) \end{aligned}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_K_11_12" -->
 
-$R_{s,xy}$ và $R_{b}$ tính bằng megapascan (MPa).
+&nbsp;&nbsp;&nbsp;&nbsp;\- $R_{s,xy}$ và $ R_{b}$ tính bằng megapascan (MPa).
 
 
 <a id="muc-k-4"></a>
-### K.4  Khi sử dụng biểu đồ đường cong biến dạng thì giá trị hệ số $v_{bk}$ cần được xác định bằng cách sử dụng các quan hệ từ (K.2) đến (K.8) mà trong đó thay vì các đặc trưng của bê tông $\hat{\sigma}_b \text{ và } \hat{\varepsilon}_b$ cần sử dụng các đặc trưng của bê tông có cốt thép hạn chế biến dạng ngang $R_{b,red}$, $\epsilon_{b0,red}$ và $\epsilon_{b2,red}$, còn giá trị hệ số $v_{0}$ đối với nhánh xuống của biểu đồ nén dọc trục của bê tông lấy bằng giá trị tính được theo công thức:
+### K.4  Khi sử dụng biểu đồ đường cong biến dạng thì giá trị hệ số $v_{bk}$ cần được xác định bằng cách sử dụng các quan hệ từ (K.2) đến (K.8) mà trong đó thay vì các đặc trưng của bê tông $\hat{\sigma}_b \text{ và } \hat{\varepsilon}_b$ cần sử dụng các đặc trưng của bê tông có cốt thép hạn chế biến dạng ngang $ R_{b,red}$, $\epsilon_{b0,red}$ và $\epsilon_{b2,red}$, còn giá trị hệ số $ v_{0}$ đối với nhánh xuống của biểu đồ nén dọc trục của bê tông lấy bằng giá trị tính được theo công thức:
 
 
 <a id="formula-k_13"></a>

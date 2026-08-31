@@ -6,7 +6,7 @@
 <a id="muc-f-1"></a>
 ### F.1  Cột tiết diện vành khuyên
 
-Tính toán độ bền tiết diện vành khuyên của cột (Hình F.1) có tỷ số giữa bán kính trong và ngoài $r_{1}$/$r_{2}$ > 0,5 và đặt cốt thép phân bố đều theo chu vi (với số thanh cốt thép dọc tối thiểu là 7), được tiến hành phụ thuộc vào diện tích tương đối của vùng chịu nén của bê tông $\xi_{cir}$:
+Tính toán độ bền tiết diện vành khuyên của cột (Hình F.1) có tỷ số giữa bán kính trong và ngoài $r_{1}$/$ r_{2}$ > 0,5 và đặt cốt thép phân bố đều theo chu vi (với số thanh cốt thép dọc tối thiểu là 7), được tiến hành phụ thuộc vào diện tích tương đối của vùng chịu nén của bê tông $\xi_{cir}$:
 
 
 $$\xi_{cir} = \frac{N + R_s A_{s,tot}}{R_b A + (R_{sc} + 1,7R_s) A_{s,tot}} \tag{F.1}$$
@@ -30,13 +30,13 @@ trong đó:
 $$\xi_{or1} = \frac{N + 0,75 R_s A_{s,tot}}{R_b A + R_s A_{s,tot}} \tag{F.4}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_F_4" -->
 
-c) \- Khi $\xi_{cir}$ ≥ 0,6: theo điều kiện
+&nbsp;&nbsp;&nbsp;&nbsp;\- c) Khi $\xi_{cir}$ ≥ 0,6: theo điều kiện
 
 
 $$M \le \left(R_b A r_m + R_s A_{s,tot} r_s\right)\frac{\sin \pi \xi_{or2}}{\pi} \tag{F.5}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_F_5" -->
 
-trong đó:
+&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
 
 
 $$\xi_{cr2} = \frac{N}{R_b A + R_s A_{s,tot}} \tag{F.6}$$

@@ -29,25 +29,25 @@ trong đó:
 $$N_{\text{an}, j} = \frac{M}{z} + \frac{N}{n_{\text{an}}}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_2" -->
 
-$Q_{an,j}$  là lực trượt lớn nhất trong một hàng thanh neo, bằng:
+&nbsp;&nbsp;&nbsp;&nbsp;\- $Q_{an,j}$  là lực trượt lớn nhất trong một hàng thanh neo, bằng:
 
 
 $$Q_{\text{an},j} = \frac{Q - 0,3N'_{\text{an}}}{n_{\text{an}}}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_3" -->
 
-$N'_{\text{an}}$  là lực nén lớn nhất trong một hàng thanh neo, được xác định theo công thức:
+&nbsp;&nbsp;&nbsp;&nbsp;\- $N'_{\text{an}}$  là lực nén lớn nhất trong một hàng thanh neo, được xác định theo công thức:
 
 
 $$N'_{\text{an}} = \frac{M}{z} - \frac{N}{n_{\text{an}}}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_4" -->
 
-$Q_{an,j,0}$  là lực trượt chịu bởi tất cả các thanh neo, được xác định theo công thức:
+&nbsp;&nbsp;&nbsp;&nbsp;\- $Q_{an,j,0}$  là lực trượt chịu bởi tất cả các thanh neo, được xác định theo công thức:
 
 
 $$Q_{an,j,0} = \gamma_{s,sh} A_{an,j} \sqrt{R_b R_s}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_5" -->
 
-trong đó:
+&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\gamma_{s,sh}$  là hệ số, lấy bằng 1,65;
 
@@ -62,7 +62,7 @@ Trong các công thức từ (D.1) đến (D.6):
 
 M, N, Q  lần lượt là mô men uốn, lực dọc và lực trượt tác dụng lên chi tiết đặt sẵn; mô men uốn được xác định đối với trục nằm trên mặt phẳng chứa mép ngoài của bản và đi qua trọng tâm của tất cả các thanh neo;
 
-$n_{an}$  là số hàng thanh neo dọc theo hướng lực trượt; nếu không đảm bảo truyền lực trượt Q đều lên tất cả các thanh neo thì khi xác định lực trượt $Q_{an}$ chỉ kể đến không quá 4 hàng neo;
+$n_{an}$  là số hàng thanh neo dọc theo hướng lực trượt; nếu không đảm bảo truyền lực trượt Q đều lên tất cả các thanh neo thì khi xác định lực trượt $ Q_{an}$ chỉ kể đến không quá 4 hàng neo;
 
 z  là khoảng cách giữa các hàng thanh neo ngoài cùng;
 

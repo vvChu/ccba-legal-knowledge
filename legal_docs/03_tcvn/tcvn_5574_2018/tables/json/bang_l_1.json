@@ -23,19 +23,19 @@
     },
     {
       "_row_id": 4,
-      "Tiết diện": "a) Khi $b_{f}$/ b ≤ 2 không phụ thuộc vào tỉ số $h_{f}$/ h",
+      "Tiết diện": "a) Khi $b_{f}$/ b ≤ 2 không phụ thuộc vào tỉ số $ h_{f}$/ h",
       "Giá trị hệ số γ": "1,25",
       "Hình dạng tiết diện": "$b, h, h_f, b_f$"
     },
     {
       "_row_id": 5,
-      "Tiết diện": "b) Khi $b_{f}$/ b > 2 và $h_{f}$/ h ≥ 0,2",
+      "Tiết diện": "b) Khi $b_{f}$/ b > 2 và $ h_{f}$/ h ≥ 0,2",
       "Giá trị hệ số γ": "1,25",
       "Hình dạng tiết diện": "$b, h, h_f, b_f$"
     },
     {
       "_row_id": 6,
-      "Tiết diện": "c) Khi $b_{f}$/ b > 2 và $h_{f}$/ h < 0,2",
+      "Tiết diện": "c) Khi $b_{f}$/ b > 2 và $ h_{f}$/ h < 0,2",
       "Giá trị hệ số γ": "1,20",
       "Hình dạng tiết diện": "$b, h, h_f, b_f$"
     },
@@ -83,19 +83,19 @@
     },
     {
       "_row_id": 14,
-      "Tiết diện": "a) Khi $b'/b$≤ 2 không phụ thuộc vào tỉ số $h_{f}$/ h",
+      "Tiết diện": "a) Khi $b'/b$≤ 2 không phụ thuộc vào tỉ số $ h_{f}$/ h",
       "Giá trị hệ số γ": "1,30",
       "Hình dạng tiết diện": "$b'_f, h'_f, b, h_f, b_f, h$"
     },
     {
       "_row_id": 15,
-      "Tiết diện": "b) Khi 2 < $b_{f}$/ b ≤ 6 không phụ thuộc vào tỉ số $h_{f}$/ h",
+      "Tiết diện": "b) Khi 2 < $b_{f}$/ b ≤ 6 không phụ thuộc vào tỉ số $ h_{f}$/ h",
       "Giá trị hệ số γ": "1,25",
       "Hình dạng tiết diện": "$b'_f, h'_f, b, h_f, b_f, h$"
     },
     {
       "_row_id": 16,
-      "Tiết diện": "c) Khi $b_{f}$/ b > 6 và $h_{f}$/ h > 0,1",
+      "Tiết diện": "c) Khi $b_{f}$/ b > 6 và $ h_{f}$/ h > 0,1",
       "Giá trị hệ số γ": "1,25",
       "Hình dạng tiết diện": "$b'_f, h'_f, b, h_f, b_f, h$"
     },
@@ -107,19 +107,19 @@
     },
     {
       "_row_id": 18,
-      "Tiết diện": "a) Khi $b_{f}$/ b ≤ 4 không phụ thuộc vào tỉ số $h_{f}$/ h",
+      "Tiết diện": "a) Khi $b_{f}$/ b ≤ 4 không phụ thuộc vào tỉ số $ h_{f}$/ h",
       "Giá trị hệ số γ": "1,25",
       "Hình dạng tiết diện": "$b'_f, \\ h'_f, \\ b, \\ h, \\ b_f, \\ h_f$"
     },
     {
       "_row_id": 19,
-      "Tiết diện": "b) Khi $b_{f}$/ b > 4 và $h_{f}$/ h ≥ 0,2",
+      "Tiết diện": "b) Khi $b_{f}$/ b > 4 và $ h_{f}$/ h ≥ 0,2",
       "Giá trị hệ số γ": "1,25",
       "Hình dạng tiết diện": "$b'_f, \\ h'_f, \\ b, \\ h, \\ b_f, \\ h_f$"
     },
     {
       "_row_id": 20,
-      "Tiết diện": "c) Khi $b_{f}$/ b > 4 và $h_{f}$/ h < 0,2",
+      "Tiết diện": "c) Khi $b_{f}$/ b > 4 và $ h_{f}$/ h < 0,2",
       "Giá trị hệ số γ": "1,20",
       "Hình dạng tiết diện": "$b'_f, \\ h'_f, \\ b, \\ h, \\ b_f, \\ h_f$"
     },

@@ -115,13 +115,13 @@ Khe hở giữa mặt dưới của các cấu kiện của mái, sàn tầng v�
 
 
 <a id="muc-m-3-8"></a>
-### M.3.8  Độ võng của các kết cấu vì kèo khi có đường ray của cần trục treo (Bảng M.1, mục 2d) cần lấy bằng hiệu giữa các độ võng $f_{1}$ và $f_{2}$ của các kết cấu vì kèo liền kề (Hình M.2).
+### M.3.8  Độ võng của các kết cấu vì kèo khi có đường ray của cần trục treo (Bảng M.1, mục 2d) cần lấy bằng hiệu giữa các độ võng $f_{1}$ và $ f_{2}$ của các kết cấu vì kèo liền kề (Hình M.2).
 
 
 <a id="muc-m-3-9"></a>
 ### M.3.9  Chuyển vị theo phương ngang của khung cần được xác định trong mặt phẳng của các tường và tường ngăn mà sự toàn vẹn của chúng cần được đảm bảo.
 
-Đối với các hệ khung giăng của nhà nhiều tầng có chiều cao trên 40 m thì độ nghiêng của các mảng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng lấy bằng $f_{1}$/$h_{s}$ + $f_{1}$/L (Hình M.3) không được vượt quá (xem Bảng M.4): L/300 đối với mục 2; L/500 đối với mục 2a và L/500 đối với mục 2b.
+Đối với các hệ khung giăng của nhà nhiều tầng có chiều cao trên 40 m thì độ nghiêng của các mảng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng lấy bằng $f_{1}$/$ h_{s}$ + $ f_{1}$/L (Hình M.3) không được vượt quá (xem Bảng M.4): L/300 đối với mục 2; L/500 đối với mục 2a và L/500 đối với mục 2b.
 
 
 <!-- DIAGRAM: word/media/image315.png -->
@@ -291,8 +291,8 @@ trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- b  là hệ số, lấy theo Bảng M.2.
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- Độ võng cần được xác định theo tổng các tải trọng $\psi_{AI}$ + $p_{1}$ + q, trong đó: $\psi_{AI}$= $\beta = 0,4 + 0,6\sqrt{A_l} \tag{M.3}
-<!-- formula_id: "F_TCVN_5574_2018_FORMULA_M_3" -->$ với A là diện chịu tải, $A_{1}$ = 9 $m^{2}$.
+Độ võng cần được xác định theo tổng các tải trọng $\psi_{AI}$ + $ p_{1}$ + q, trong đó: $\psi_{AI}$= $\beta = 0,4 + 0,6\sqrt{A_l} \tag{M.3}
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_M_3" -->$ với A là diện chịu tải, $ A_{1}$ = 9 $ m^{2}$.
 
 
 <a id="bang-bang-m-2"></a>
@@ -388,7 +388,7 @@ trong đó:
 
 $h_{s}$/150 - khi tường và tường ngăn bằng gạch, bê tông thạch cao, bê tông cốt thép hay panen treo;
 
-$h_{s}$/200 - khi tường được ốp bằng đá thiên nhiên, tường bằng gạch gốm hoặc bằng kính (vách kính), trong đó $h_{s}$ là chiều cao một tầng, còn đối với nhà một tầng có cầu trục thì $h_{s}$ là chiều cao từ mặt móng đến mặt dưới của dầm cầu trục.
+$h_{s}$/200 - khi tường được ốp bằng đá thiên nhiên, tường bằng gạch gốm hoặc bằng kính (vách kính), trong đó $ h_{s}$ là chiều cao một tầng, còn đối với nhà một tầng có cầu trục thì $ h_{s}$ là chiều cao từ mặt móng đến mặt dưới của dầm cầu trục.
 
 Khi đó tác động của nhiệt độ cần được lấy không kể đến sự thay đổi nhiệt độ không khí ngày đêm và chênh lệch nhiệt độ do bức xạ mặt trời.
 

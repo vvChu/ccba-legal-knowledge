@@ -7,13 +7,13 @@
 | bang_03 | Bảng 3 - Mác chống thấm nước của bê tông | [CSV](tables/csv/bang_03.csv) | [JSON](tables/json/bang_03.json) |
 | bang_04 | Bảng 4 - Mác khối lượng thể tích trung bình của bê tông | [CSV](tables/csv/bang_04.csv) | [JSON](tables/json/bang_04.json) |
 | bang_05 | Bảng 5 - Mác tự ứng suất của bê tông | [CSV](tables/csv/bang_05.csv) | [JSON](tables/json/bang_05.json) |
-| bang_06 | Bảng 6 - Các cường độ tiêu chuẩn của bê tông, $R_{b,n}$ và $R_{bt,n}$, và các cường độ tính toán của bê tông đối với các trạng thái giới hạn thứ hai, $R_{b,ser}$ và $R_{bt,ser}$ | [CSV](tables/csv/bang_06.csv) | [JSON](tables/json/bang_06.json) |
-| bang_07 | Bảng 7 - Các cường độ tính toán của bê tông, $R_{b}$ và $R_{bt}$, đối với các trạng thái giới hạn thứ nhất | [CSV](tables/csv/bang_07.csv) | [JSON](tables/json/bang_07.json) |
+| bang_06 | Bảng 6 - Các cường độ tiêu chuẩn của bê tông, $R_{b,n}$ và $ R_{bt,n}$, và các cường độ tính toán của bê tông đối với các trạng thái giới hạn thứ hai, $ R_{b,ser}$ và $ R_{bt,ser}$ | [CSV](tables/csv/bang_06.csv) | [JSON](tables/json/bang_06.json) |
+| bang_07 | Bảng 7 - Các cường độ tính toán của bê tông, $R_{b}$ và $ R_{bt}$, đối với các trạng thái giới hạn thứ nhất | [CSV](tables/csv/bang_07.csv) | [JSON](tables/json/bang_07.json) |
 | bang_08 | Bảng 8 - Cường độ chịu kéo tính toán của bê tông đối với các trạng thái giới hạn thứ nhất $R_{bt}$ | [CSV](tables/csv/bang_08.csv) | [JSON](tables/json/bang_08.json) |
 | bang_09 | Bảng 9 - Biến dạng tương đối của bê tông khi có tác dụng dài hạn của tải trọng | [CSV](tables/csv/bang_09.csv) | [JSON](tables/json/bang_09.json) |
 | bang_10 | Bảng 10 - Mô đun đàn hồi ban đầu của bê tông khi nén và khi kéo, $E_{b}$ | [CSV](tables/csv/bang_10.csv) | [JSON](tables/json/bang_10.json) |
 | bang_11 | Bảng 11 - Hệ số từ biến của bê tông $\varphi_{b,cr}$ | [CSV](tables/csv/bang_11.csv) | [JSON](tables/json/bang_11.json) |
-| bang_12 | Bảng 12 - Cường độ chịu kéo tiêu chuẩn của cốt thép $R_{s,n}$ và cường độ chịu kéo tính toán của cốt thép đối với các trạng thái giới hạn thứ hai $R_{s,ser}$ | [CSV](tables/csv/bang_12.csv) | [JSON](tables/json/bang_12.json) |
+| bang_12 | Bảng 12 - Cường độ chịu kéo tiêu chuẩn của cốt thép $R_{s,n}$ và cường độ chịu kéo tính toán của cốt thép đối với các trạng thái giới hạn thứ hai $ R_{s,ser}$ | [CSV](tables/csv/bang_12.csv) | [JSON](tables/json/bang_12.json) |
 | bang_13 | Bảng 13 - Cường độ tính toán chịu kéo và chịu nén của cốt thép đối với các trạng thái giới hạn thứ nhất | [CSV](tables/csv/bang_13.csv) | [JSON](tables/json/bang_13.json) |
 | bang_14 | Bảng 14 - Cường độ chịu kéo tính toán của cốt thép ngang (cốt thép đai và các thanh uốn xiên) đối với các trạng thái giới hạn thứ nhất | [CSV](tables/csv/bang_14.csv) | [JSON](tables/json/bang_14.json) |
 | bang_15 | Bảng 15 - Hệ số φ khi có tác dụng dài hạn của tải trọng | [CSV](tables/csv/bang_15.csv) | [JSON](tables/json/bang_15.json) |

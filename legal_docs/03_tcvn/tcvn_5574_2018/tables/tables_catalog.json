@@ -39,14 +39,14 @@
     {
       "table_id": "bang_06",
       "table_number": "6",
-      "title": "Bảng 6 - Các cường độ tiêu chuẩn của bê tông, $R_{b,n}$ và $R_{bt,n}$, và các cường độ tính toán của bê tông đối với các trạng thái giới hạn thứ hai, $R_{b,ser}$ và $R_{bt,ser}$",
+      "title": "Bảng 6 - Các cường độ tiêu chuẩn của bê tông, $R_{b,n}$ và $ R_{bt,n}$, và các cường độ tính toán của bê tông đối với các trạng thái giới hạn thứ hai, $ R_{b,ser}$ và $ R_{bt,ser}$",
       "csv_file": "tables/csv/bang_06.csv",
       "json_file": "tables/json/bang_06.json"
     },
     {
       "table_id": "bang_07",
       "table_number": "7",
-      "title": "Bảng 7 - Các cường độ tính toán của bê tông, $R_{b}$ và $R_{bt}$, đối với các trạng thái giới hạn thứ nhất",
+      "title": "Bảng 7 - Các cường độ tính toán của bê tông, $R_{b}$ và $ R_{bt}$, đối với các trạng thái giới hạn thứ nhất",
       "csv_file": "tables/csv/bang_07.csv",
       "json_file": "tables/json/bang_07.json"
     },
@@ -81,7 +81,7 @@
     {
       "table_id": "bang_12",
       "table_number": "12",
-      "title": "Bảng 12 - Cường độ chịu kéo tiêu chuẩn của cốt thép $R_{s,n}$ và cường độ chịu kéo tính toán của cốt thép đối với các trạng thái giới hạn thứ hai $R_{s,ser}$",
+      "title": "Bảng 12 - Cường độ chịu kéo tiêu chuẩn của cốt thép $R_{s,n}$ và cường độ chịu kéo tính toán của cốt thép đối với các trạng thái giới hạn thứ hai $ R_{s,ser}$",
       "csv_file": "tables/csv/bang_12.csv",
       "json_file": "tables/json/bang_12.json"
     },

@@ -21,7 +21,7 @@
   latex: T_s = 0,9 N_s \frac{z_1}{C} z_2
 '107':
   formula_id: F_TCVN_5574_2018_FORMULA_107
-  latex: q_{sw1} = \frac{R_{sw} A_{sw1}}{s_w}
+  latex: q_{sw,1} = \frac{R_{sw} A_{sw,1}}{s_w}
 '128':
   formula_id: F_TCVN_5574_2018_FORMULA_128
   latex: q_{sw} = \frac{R_{sw} A_{sw}}{s_w}
@@ -872,3 +872,6 @@ rId104:
 rId112:
   formula_id: F_TCVN_5574_2018_FORMULA_98
   latex: \frac{s_{w,\max}}{h_0} = \frac{R_{bt} b h_0}{Q} \tag{98}
+'108':
+  formula_id: F_TCVN_5574_2018_FORMULA_108
+  latex: C_{sw} = \delta \cdot C

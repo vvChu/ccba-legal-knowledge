@@ -12,7 +12,7 @@ $$\begin{aligned} \varepsilon_m &= \frac{\sigma_m}{E_m v_m} \qquad (B.1) \\ d \v
 
 trong đó:
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- $\epsilon_{m}$, $\sigma_{m}$, $E_{m}$  lần lượt là biến dạng tương đối, ứng suất và mô đun đàn hồi ban đầu (d là dấu vi phân);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $\epsilon_{m}$, $\sigma_{m}$, $ E_{m}$  lần lượt là biến dạng tương đối, ứng suất và mô đun đàn hồi ban đầu (d là dấu vi phân);
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- m  là chỉ số vật liệu (đối với bê tông m = b, bt ; đối với cốt thép m = s);
 
@@ -22,9 +22,9 @@ trong đó:
 $$\nu_m = \hat{\nu}_m \pm \left(\nu_0 - \hat{\nu}_m\right)\sqrt{1 - \omega_1 \eta - \omega_2 \eta^2} \tag{B.3}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_3" -->
 
-trong đó:
+&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- $\hat{v}_m$ là giá trị của hệ số biến động $v_{m}$ tại đỉnh biểu đồ (khi $\sigma_{m}$ = $\hat{\sigma}_m$);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $\hat{v}_m$ là giá trị của hệ số biến động $ v_{m}$ tại đỉnh biểu đồ (khi $\sigma_{m}$ = $\hat{\sigma}_m$);
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $v_{0}$  là hệ số biến động ban đầu của mô đun cát tuyến (tại điểm bắt đầu của biểu đồ hoặc tại điểm bắt đầu của đoạn cong của biểu đồ);
 
@@ -36,7 +36,7 @@ trong đó:
 $$\eta = \frac{\sigma_m - \sigma_{m,pl}}{\bar{\sigma}_m - \sigma_{m,pl}} \tag{B.4}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_4" -->
 
-trong đó:
+&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\sigma_{m}$- $\sigma_{m,el}$≥ 0;
 
@@ -131,7 +131,7 @@ $$0,9 \le \tilde{\gamma}_n = 2 - \sqrt[5]{h/h_o} \qquad \text{(B.20)}$$
 
 trong đó:
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- $h_{e}$  là chiều cao chuẩn của tiết diện, $h_{e}$ = 30 cm;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $h_{e}$  là chiều cao chuẩn của tiết diện, $ h_{e}$ = 30 cm;
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- h  là chiều cao tiết diện, tính bằng centimét (cm);
 

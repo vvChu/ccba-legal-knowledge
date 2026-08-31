@@ -1,14 +1,14 @@
 {
   "table_id": "bang_12",
   "table_number": "12",
-  "table_title": "Bảng 12 - Cường độ chịu kéo tiêu chuẩn của cốt thép $R_{s,n}$ và cường độ chịu kéo tính toán của cốt thép đối với các trạng thái giới hạn thứ hai $R_{s,ser}$",
+  "table_title": "Bảng 12 - Cường độ chịu kéo tiêu chuẩn của cốt thép $R_{s,n}$ và cường độ chịu kéo tính toán của cốt thép đối với các trạng thái giới hạn thứ hai $ R_{s,ser}$",
   "rows": [
     {
       "_row_id": 1,
       "Loại cốt thép": "Thép thanh",
       "Tiêu chuẩn": "CB240-T",
       "Đường kính danh nghĩa, mm": "TCVN 1651-1:2008",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "6,0 đến 40,0",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "6,0 đến 40,0",
       "col_5": "240"
     },
     {
@@ -16,7 +16,7 @@
       "Loại cốt thép": "Thép thanh",
       "Tiêu chuẩn": "CB300-T",
       "Đường kính danh nghĩa, mm": "TCVN 1651-1:2008",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "6,0 đến 40,0",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "6,0 đến 40,0",
       "col_5": "300"
     },
     {
@@ -24,7 +24,7 @@
       "Loại cốt thép": "Thép thanh",
       "Tiêu chuẩn": "CB300-V",
       "Đường kính danh nghĩa, mm": "TCVN 1651-2:2018",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "6,0 đến 50,0",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "6,0 đến 50,0",
       "col_5": "300"
     },
     {
@@ -32,7 +32,7 @@
       "Loại cốt thép": "Thép thanh",
       "Tiêu chuẩn": "CB400-V",
       "Đường kính danh nghĩa, mm": "TCVN 1651-2:2018",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "6,0 đến 50,0",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "6,0 đến 50,0",
       "col_5": "400"
     },
     {
@@ -40,7 +40,7 @@
       "Loại cốt thép": "Thép thanh",
       "Tiêu chuẩn": "CB500-V",
       "Đường kính danh nghĩa, mm": "TCVN 1651-2:2018",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "6,0 đến 50,0",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "6,0 đến 50,0",
       "col_5": "500"
     },
     {
@@ -48,7 +48,7 @@
       "Loại cốt thép": "Thép thanh",
       "Tiêu chuẩn": "CB600-V",
       "Đường kính danh nghĩa, mm": "TCVN 1651-2:2018",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "6,0 đến 50,0",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "6,0 đến 50,0",
       "col_5": "600"
     },
     {
@@ -56,7 +56,7 @@
       "Loại cốt thép": "Thép thanh có giới hạn chảy quy ước, MPa",
       "Tiêu chuẩn": "835",
       "Đường kính danh nghĩa, mm": "TCVN 6284-5:1997 (ISO 6934-5:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "15,0 đến 40,0",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "15,0 đến 40,0",
       "col_5": "835"
     },
     {
@@ -64,7 +64,7 @@
       "Loại cốt thép": "Thép thanh có giới hạn chảy quy ước, MPa",
       "Tiêu chuẩn": "930",
       "Đường kính danh nghĩa, mm": "TCVN 6284-5:1997 (ISO 6934-5:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "15,0 đến 40,0",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "15,0 đến 40,0",
       "col_5": "930"
     },
     {
@@ -72,7 +72,7 @@
       "Loại cốt thép": "Thép thanh có giới hạn chảy quy ước, MPa",
       "Tiêu chuẩn": "1 080",
       "Đường kính danh nghĩa, mm": "TCVN 6284-5:1997 (ISO 6934-5:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "15,0 đến 40,0",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "15,0 đến 40,0",
       "col_5": "1 080"
     },
     {
@@ -80,7 +80,7 @@
       "Loại cốt thép": "Dây thép có giới hạn bền, MPa",
       "Tiêu chuẩn": "1 470",
       "Đường kính danh nghĩa, mm": "TCVN 6284-2:1997 (ISO 6394-2:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "9,0; 10,0; 12,2",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "9,0; 10,0; 12,2",
       "col_5": "1 200"
     },
     {
@@ -88,7 +88,7 @@
       "Loại cốt thép": "Dây thép có giới hạn bền, MPa",
       "Tiêu chuẩn": "1 570",
       "Đường kính danh nghĩa, mm": "TCVN 6284-2:1997 (ISO 6394-2:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "7,0; 8,0; 10,0; 12,2",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "7,0; 8,0; 10,0; 12,2",
       "col_5": "1 300"
     },
     {
@@ -96,7 +96,7 @@
       "Loại cốt thép": "Dây thép có giới hạn bền, MPa",
       "Tiêu chuẩn": "1 670",
       "Đường kính danh nghĩa, mm": "TCVN 6284-2:1997 (ISO 6394-2:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "4,0; 5,0; 6,0; 7,0; 8,0",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "4,0; 5,0; 6,0; 7,0; 8,0",
       "col_5": "1 400"
     },
     {
@@ -104,7 +104,7 @@
       "Loại cốt thép": "Dây thép có giới hạn bền, MPa",
       "Tiêu chuẩn": "1 770",
       "Đường kính danh nghĩa, mm": "TCVN 6284-2:1997 (ISO 6394-2:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "4,0; 5,0; 6,0",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "4,0; 5,0; 6,0",
       "col_5": "1 500"
     },
     {
@@ -112,7 +112,7 @@
       "Loại cốt thép": "Dày thép vuốt nguội",
       "Tiêu chuẩn": "TCVN 6288:1997 (ISO 10544:1992)",
       "Đường kính danh nghĩa, mm": "5,0 đến 12,0",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "500",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "500",
       "col_5": ""
     },
     {
@@ -120,7 +120,7 @@
       "Loại cốt thép": "Cáp 7 sợi thường khử ứng suất có giới hạn bền, MPa",
       "Tiêu chuẩn": "1 720",
       "Đường kính danh nghĩa, mm": "TCVN 6284-4:1997 (ISO 6934-4:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "9,3; 10,8; 12,4; 15,2",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "9,3; 10,8; 12,4; 15,2",
       "col_5": "1450"
     },
     {
@@ -128,7 +128,7 @@
       "Loại cốt thép": "Cáp 7 sợi thường khử ứng suất có giới hạn bền, MPa",
       "Tiêu chuẩn": "1 860",
       "Đường kính danh nghĩa, mm": "TCVN 6284-4:1997 (ISO 6934-4:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "9,5; 11,1; 12,7; 15,2",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "9,5; 11,1; 12,7; 15,2",
       "col_5": "1 550"
     },
     {
@@ -136,7 +136,7 @@
       "Loại cốt thép": "Cáp 7 sợi nén chặt khử ứng suất có giới hạn bền, MPa",
       "Tiêu chuẩn": "1 700",
       "Đường kính danh nghĩa, mm": "TCVN 6284-4:1997 (ISO 6934-4:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "18,0",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "18,0",
       "col_5": "1 500"
     },
     {
@@ -144,7 +144,7 @@
       "Loại cốt thép": "Cáp 7 sợi nén chặt khử ứng suất có giới hạn bền, MPa",
       "Tiêu chuẩn": "1 820",
       "Đường kính danh nghĩa, mm": "TCVN 6284-4:1997 (ISO 6934-4:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "15,2",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "15,2",
       "col_5": "1 600"
     },
     {
@@ -152,7 +152,7 @@
       "Loại cốt thép": "Cáp 7 sợi nén chặt khử ứng suất có giới hạn bền, MPa",
       "Tiêu chuẩn": "1 960",
       "Đường kính danh nghĩa, mm": "TCVN 6284-4:1997 (ISO 6934-4:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "12,7",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "12,7",
       "col_5": "1 700"
     },
     {
@@ -160,7 +160,7 @@
       "Loại cốt thép": "Cáp 19 sợi",
       "Tiêu chuẩn": "1 810",
       "Đường kính danh nghĩa, mm": "TCVN 6284-4:1997 (ISO 6934-4:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "20,3; 21,8",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "20,3; 21,8",
       "col_5": "1 500"
     },
     {
@@ -168,7 +168,7 @@
       "Loại cốt thép": "Cáp 19 sợi",
       "Tiêu chuẩn": "1 860",
       "Đường kính danh nghĩa, mm": "TCVN 6284-4:1997 (ISO 6934-4:1991)",
-      "Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa": "17,8; 19,3",
+      "Giá trị của $R_{s,n}$, MPa, và $ R_{s,ser}$, MPa": "17,8; 19,3",
       "col_5": "1 600"
     }
   ]
