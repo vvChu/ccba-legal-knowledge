@@ -462,4 +462,3 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
   3. **Hoàn Tất Chuẩn Hóa 100% Cho Toàn Bộ 85+ Công Thức TCVN 5574:2018:**
      - Toàn bộ 73 công thức thân chính và 12 công thức phụ lục kỹ thuật đạt **100% Clean KaTeX**: $0$ placeholder `\text{Formula }`, $0$ lỗi lồng dấu `$`.
      - Vượt qua toàn bộ 11 Cổng Master CI Gate và 165 bài kiểm thử unit test tự động.
-
