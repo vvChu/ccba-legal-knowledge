@@ -433,9 +433,14 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
 
 - **Thành quả Quản Trị & Khắc Phục Lỗi Rò Rỉ Công Thức Toán Học Chéo Tiêu Chuẩn:**
   1. **Triệt Tiêu Hoàn Toàn Rò Rỉ Dữ Liệu Chéo (Cross-Standard Fallback Pollution Elimination):**
-     - Xóa bỏ việc fallback tra cứu từ điển toàn cục `FORMULAS_MAP` giữa các tiêu chuẩn khác nhau. Mỗi tiêu chuẩn kỹ thuật có hệ thống công thức độc lập.
-     - Cưỡng chế cơ chế cách ly tuyệt đối: `formula_handler` chỉ được phép đọc override từ tệp `formulas_override.yaml` nằm trong chính thư mục bundle của tiêu chuẩn đó (`ctx.bundle_dir / "formulas_override.yaml"`), hoặc bóc tách trực tiếp từ Math XML/OMML/AI Vision của chính tệp Word đó.
+     - Xóa bỏ việc khởi tạo `load_bundle_formula_overrides(bundle_dir)` bằng từ điển toàn cục `FORMULAS_MAP` (vốn chứa 50+ công thức của TCVN 2737:2023). Khởi tạo mặc định bằng từ điển rỗng `{}`.
+     - Cưỡng chế cơ chế cách ly tuyệt đối: Mỗi tiêu chuẩn kỹ thuật có namespace độc lập, chỉ nạp override từ tệp `formulas_override.yaml` của chính bundle đó (`ctx.bundle_dir / "formulas_override.yaml"`), hoặc bóc tách trực tiếp từ Math XML/OMML/Layout Tables của chính tệp Word đó.
   2. **Tự Động Nhận Diện Cặp Biểu Thức - Số Hiệu Công Thức (Expression-Tag Pair Auto-Detection):**
      - Khi gặp đoạn văn $i$ chứa biểu thức toán học (ví dụ: `F ≤ Fu`) và đoạn văn $i+1$ ngay sau đó là số hiệu công thức `(1)`, bộ chuyển đổi tự động ghép thành khối công thức KaTeX duy nhất `$$F \le F_u \tag{1}$$` và tự động nhảy qua 2 khối ($i + 2$), loại bỏ hoàn toàn hiện tượng lặp lại câu văn toán học trước khối công thức.
-  3. **Khôi Phục Nguyên Văn Công Thức (1) TCVN 5574:2018:**
-     - Đã chuyển đổi chuẩn xác công thức (1) tại mục 5.2.1.2 TCVN 5574:2018 thành $F \le F_u \tag{1}$, đạt 100% Verbatim Parity và vượt qua toàn bộ 11 Cổng Master CI Gate.
+  3. **Khôi Phục Nguyên Văn 4 Công Thức Cốt Lõi TCVN 5574:2018 (Mục 5):**
+     - Công thức (1) tại Mục 5.2.1.2: $$F \le F_u \tag{1}$$
+     - Công thức (2) tại Mục 5.3.2: $$F \le F_{crc,u} \tag{2}$$
+     - Công thức (3) tại Mục 5.4.1.2: $$a_{crc} \le a_{crc,u} \tag{3}$$
+     - Công thức (4) tại Mục 5.5.1.2: $$f \le f_u \tag{4}$$
+     - Đạt 100% Verbatim Parity và vượt qua toàn bộ 11 Cổng Master CI Gate.
+
