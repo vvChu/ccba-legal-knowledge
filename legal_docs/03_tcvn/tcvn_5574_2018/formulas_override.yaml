@@ -331,17 +331,17 @@ rId69:
   formula_id: F_TCVN_5574_2018_FORMULA_58
   latex: x = \frac{R_s A_s - R_{sc} A'_s - N}{R_b b} \tag{58}
 rId74:
-  formula_id: F_TCVN_5574_RID74
-  latex: M'_u
+  formula_id: F_TCVN_5574_2018_RID74
+  latex: ''
 rId75:
-  formula_id: F_TCVN_5574_RID75
-  latex: M'_u
+  formula_id: F_TCVN_5574_2018_RID75
+  latex: ''
 rId76:
-  formula_id: F_TCVN_5574_RID76
-  latex: M'_u
+  formula_id: F_TCVN_5574_2018_RID76
+  latex: ''
 rId77:
-  formula_id: F_TCVN_5574_RID77
-  latex: M'_u
+  formula_id: F_TCVN_5574_2018_RID77
+  latex: ''
 rId17:
   formula_id: F_TCVN_5574_2018_FORMULA_13
   latex: E_{b,red} = \frac{R_b}{\varepsilon_{b1,red}}
@@ -386,12 +386,10 @@ rId89:
 
     \end{aligned}'
 rId90:
-  formula_id: F_TCVN_5574_2018_FORMULA_62
-  latex: 'First eq: \varepsilon_{bx} (epsilon sub bx), \varepsilon_0 , Z_{bxj} , Z_{byj}
-    .
-
-    Second eq: \varepsilon_{sj} (epsilon sub sj), \varepsilon_0 , Z_{sxj} , Z_{syj}
-    .'
+  formula_id: F_TCVN_5574_2018_FORMULA_62_63
+  latex: \begin{aligned} \varepsilon_{bi} &= \varepsilon_0 + \frac{1}{r_x} Z_{bxi}
+    + \frac{1}{r_y} Z_{byi} \qquad (62) \\ \varepsilon_{sj} &= \varepsilon_0 + \frac{1}{r_x}
+    Z_{sxj} + \frac{1}{r_y} Z_{syj} \qquad (63) \end{aligned}
 rId91:
   formula_id: F_TCVN_5574_2018_FORMULA_64_65
   latex: \begin{aligned} \nu_{bi} &= \frac{\sigma_{bi}}{E_{bi} \varepsilon_{bi}} \qquad
@@ -900,3 +898,9 @@ rId397:
   latex: '\varphi = \frac{1}{0,23 + \alpha_{red}} \tag{K.11}
 
     \alpha_{red} = \frac{\mu_{xy} R_{s,xy}}{R_b + 10} \tag{K.12}'
+rId86:
+  formula_id: F_TCVN_5574_2018_FIGURE_8_LEGEND
+  latex: ''
+rId144:
+  formula_id: F_TCVN_5574_2018_FIGURE_15_LEGEND
+  latex: ''
