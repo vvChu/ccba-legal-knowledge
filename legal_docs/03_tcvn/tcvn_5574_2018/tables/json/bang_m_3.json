@@ -1,0 +1,42 @@
+{
+  "table_id": "bang_m_3",
+  "table_number": "M.3",
+  "table_title": "Bảng M.3 - Độ võng giới hạn theo phương ngang $f_{u}$ của cột nhà có cầu trục, trụ cầu cạn, dầm cầu trục và kết cấu hãm",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)",
+      "Độ võng giới hạn $f_{u}$ của": "Cột nhà và trụ cầu cạn trong nhà",
+      "col_3": "Trụ cầu cạn ngoài trời",
+      "col_4": "Dầm cầu trục và kết cấu hãm, nhà và cầu cạn (cả trong nhà và ngoài trời)"
+    },
+    {
+      "_row_id": 2,
+      "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "A1 đến A3",
+      "Độ võng giới hạn $f_{u}$ của": "h/500",
+      "col_3": "h/1500",
+      "col_4": "L/500"
+    },
+    {
+      "_row_id": 3,
+      "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "A4 đến A6",
+      "Độ võng giới hạn $f_{u}$ của": "h/1000",
+      "col_3": "h/2000",
+      "col_4": "L/1000"
+    },
+    {
+      "_row_id": 4,
+      "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "A7 đến A8",
+      "Độ võng giới hạn $f_{u}$ của": "h/2000",
+      "col_3": "h/2500",
+      "col_4": "L/2000"
+    },
+    {
+      "_row_id": 5,
+      "Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục)": "Các ký hiệu trong bảng:h  là chiều cao từ mặt trên của móng đến đỉnh của đường ray cầu trục (đối với nhà 1 tầng và cầu cạn ngoài trời hoặc trong nhà) hoặc khoảng cách từ trục dầm sàn đến đỉnh của đường ray cầu trục (đối với các tầng trên của nhà nhiều tầng);L  là nhịp tính toán của cấu kiện (dầm).",
+      "Độ võng giới hạn $f_{u}$ của": "",
+      "col_3": "",
+      "col_4": ""
+    }
+  ]
+}

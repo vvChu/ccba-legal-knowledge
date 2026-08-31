@@ -6,7 +6,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 
 ---
 
-## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0036)
+## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0037)
 
 ### Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.4 Universal & Biểu Mẫu
 | Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
@@ -24,6 +24,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | [ADR 0030](0030-visual-parity-and-2d-navigation-matrix.md) | Visual Parity & 2D Annex Navigation Matrix for Large Standards | ✅ ACCEPTED | 2026-08-23 |
 | [ADR 0034](0034-okf-v2-3-dual-engine-technical-standards.md) | OKF v2.3 Dual-Engine Technical Standards Paradigm (Parametric Visual Cards, Lossless Table Matrices & Deterministic Solvers) | ✅ ACCEPTED | 2026-08-26 |
 | [ADR 0036](0036-okf-v2-4-universal-agent-centric-specification.md) | OKF v2.4 Universal Agent-Centric Specification & Compartment Invariants | ✅ ACCEPTED | 2026-08-27 |
+| [ADR 0037](0037-verbatim-normative-invariant.md) | Verbatim Normative Invariant | ✅ ACCEPTED | 2026-08-28 |
 
 ---
 

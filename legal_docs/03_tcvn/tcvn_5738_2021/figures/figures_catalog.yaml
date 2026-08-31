@@ -1,0 +1,15 @@
+standard: TCVN 5738:2021
+total_figures: 4
+figures:
+  - id: hinh_1
+    path: figures/images/hinh_1.png
+    title: Hình 1
+  - id: hinh_2
+    path: figures/images/hinh_2.png
+    title: Hình 2
+  - id: hinh_3
+    path: figures/images/hinh_3.png
+    title: Hình 3
+  - id: hinh_4
+    path: figures/images/hinh_4.png
+    title: Hình 4

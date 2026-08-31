@@ -87,10 +87,17 @@ class LegalSpokeValidator:
                 self.errors.append(f"Schema Error: Missing required root key '{key}' in legal_registry.yaml")
 
         laws = data.get("laws", [])
+        standards = data.get("standards", [])
         documents = data.get("documents", {})
-        all_docs = laws if isinstance(laws, list) else []
+        all_docs = []
+        if isinstance(laws, list):
+            all_docs.extend(laws)
+        if isinstance(standards, list):
+            all_docs.extend(standards)
         if isinstance(documents, dict):
             all_docs.extend(documents.values())
+        elif isinstance(documents, list):
+            all_docs.extend(documents)
 
         for doc in all_docs:
             if isinstance(doc, dict):
@@ -237,14 +244,19 @@ class LegalSpokeValidator:
     def _validate_registry_pdf_meta(self, data: Dict[str, Any]) -> None:
         """Validate PDF fields in legal_registry.yaml."""
         laws = data.get("laws", [])
+        standards = data.get("standards", [])
+        all_items = []
         if isinstance(laws, list):
-            for item in laws:
-                if isinstance(item, dict):
-                    doc_id = item.get("id", "UNKNOWN")
-                    if "pdf_status" not in item:
-                        self.errors.append(f"PDF Metadata Error [{doc_id}]: Missing 'pdf_status' in legal_registry.yaml")
-                    if "cong_bao_number" not in item:
-                        self.warnings.append(f"PDF Metadata Warning [{doc_id}]: Missing 'cong_bao_number' in legal_registry.yaml")
+            all_items.extend(laws)
+        if isinstance(standards, list):
+            all_items.extend(standards)
+        for item in all_items:
+            if isinstance(item, dict):
+                doc_id = item.get("id", "UNKNOWN")
+                if "pdf_status" not in item:
+                    self.errors.append(f"PDF Metadata Error [{doc_id}]: Missing 'pdf_status' in legal_registry.yaml")
+                if "cong_bao_number" not in item:
+                    self.warnings.append(f"PDF Metadata Warning [{doc_id}]: Missing 'cong_bao_number' in legal_registry.yaml")
 
     def _validate_qcvn_ast_clauses(self, qcvn_dir: Path) -> None:
         """Validate jurisdiction, severity, and Cong Bao numbers in QCVN clauses.json."""

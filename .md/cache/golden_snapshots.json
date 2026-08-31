@@ -1,0 +1,335 @@
+{
+  "luat_dau_thau_2023_22_2023_qh15": {
+    "slug": "luat_dau_thau_2023_22_2023_qh15",
+    "category": "01_vbpl",
+    "md_sha256": "c181708e5109525ac918181a657c9022aca0642ebaeeec556bb9de94d9ae9182",
+    "md_lines": 2934,
+    "clauses_count": 501,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1": {
+    "slug": "luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1",
+    "category": "01_vbpl",
+    "md_sha256": "87dad0ac404cf85ae4df4e5e9b705e72839f0a268146379c21292ac9bc92cee6",
+    "md_lines": 1482,
+    "clauses_count": 310,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "luat_xay_dung_2025_135_2025_qh15": {
+    "slug": "luat_xay_dung_2025_135_2025_qh15",
+    "category": "01_vbpl",
+    "md_sha256": "37a196d371c7131a6a3a937575e7b9d147b1518a5b22d3d2e30d52dbd3d8b4a0",
+    "md_lines": 1511,
+    "clauses_count": 462,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "nghi_dinh_105_2025_nd_cp": {
+    "slug": "nghi_dinh_105_2025_nd_cp",
+    "category": "01_vbpl",
+    "md_sha256": "fa4d805e782bad03cf444c2572fc5069433908308f0770c25232aa64d96097da",
+    "md_lines": 521,
+    "clauses_count": 127,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "nghi_dinh_193_2026_nd_cp": {
+    "slug": "nghi_dinh_193_2026_nd_cp",
+    "category": "01_vbpl",
+    "md_sha256": "e20747892b3f3a3d45c39fee75cdb2d6dd7e413434d6495b5e81752af14f99c5",
+    "md_lines": 871,
+    "clauses_count": 129,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "nghi_dinh_206_2026_nd_cp": {
+    "slug": "nghi_dinh_206_2026_nd_cp",
+    "category": "01_vbpl",
+    "md_sha256": "81a54608b667adc9a6f9c4abfa6fbc47a4d404eb40728745a10e7fc52901631a",
+    "md_lines": 962,
+    "clauses_count": 213,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "nghi_dinh_207_2026_nd_cp": {
+    "slug": "nghi_dinh_207_2026_nd_cp",
+    "category": "01_vbpl",
+    "md_sha256": "239abb3190c9b50999300cd31b1d670d1bb3a0ba6b15ee888c4d1a723adea95e",
+    "md_lines": 1984,
+    "clauses_count": 370,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "nghi_dinh_209_2026_nd_cp": {
+    "slug": "nghi_dinh_209_2026_nd_cp",
+    "category": "01_vbpl",
+    "md_sha256": "82c8c7caac2d2a37d0f939a6106173647e1a0ba87a83919cb70c905fcfd06412",
+    "md_lines": 362,
+    "clauses_count": 82,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "nghi_dinh_210_2026_nd_cp": {
+    "slug": "nghi_dinh_210_2026_nd_cp",
+    "category": "01_vbpl",
+    "md_sha256": "0da7270c25f62d07682c78b31aec26d281bad0612239c96a3860d2089da6d87d",
+    "md_lines": 1007,
+    "clauses_count": 159,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "nghi_dinh_212_2026_nd_cp": {
+    "slug": "nghi_dinh_212_2026_nd_cp",
+    "category": "01_vbpl",
+    "md_sha256": "5cbf2188f7f90b9b581f964fa66f103e10e74b2860ad8d382462c99bdbdc2738",
+    "md_lines": 1522,
+    "clauses_count": 292,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "nghi_dinh_217_2026_nd_cp": {
+    "slug": "nghi_dinh_217_2026_nd_cp",
+    "category": "01_vbpl",
+    "md_sha256": "211b34acd66b47a78465c5e1560fec443bb69f1efc510100fce35314f48d0ba9",
+    "md_lines": 2493,
+    "clauses_count": 496,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "nghi_dinh_24_2024_nd_cp": {
+    "slug": "nghi_dinh_24_2024_nd_cp",
+    "category": "01_vbpl",
+    "md_sha256": "d9a8e3f5132ef62a10711ca03ad0e1c01ecd2313f334caba056140414e74c627",
+    "md_lines": 4817,
+    "clauses_count": 742,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "thong_tu_101_2026_tt_bqp": {
+    "slug": "thong_tu_101_2026_tt_bqp",
+    "category": "01_vbpl",
+    "md_sha256": "9128e7ea60058784ffc628bd6127190f6a5da19cedcb8422fb222ca9c6260478",
+    "md_lines": 459,
+    "clauses_count": 81,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "thong_tu_32_2026_tt_bxd": {
+    "slug": "thong_tu_32_2026_tt_bxd",
+    "category": "01_vbpl",
+    "md_sha256": "504d5c647261aadace32132652f07d4dcf2ffd953324a45878d277e093e21854",
+    "md_lines": 233,
+    "clauses_count": 31,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "thong_tu_33_2026_tt_bxd": {
+    "slug": "thong_tu_33_2026_tt_bxd",
+    "category": "01_vbpl",
+    "md_sha256": "2e1940e71eb391b8050f9871be2d5a22f6cadbb5cc2802bf75a853f406f6f1c2",
+    "md_lines": 282,
+    "clauses_count": 51,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "thong_tu_34_2026_tt_bxd": {
+    "slug": "thong_tu_34_2026_tt_bxd",
+    "category": "01_vbpl",
+    "md_sha256": "1282ded9039d0983990cca748d47a49f8dd8479e6f7533fc0b0793e0088c90bd",
+    "md_lines": 210,
+    "clauses_count": 26,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "thong_tu_36_2026_tt_bxd": {
+    "slug": "thong_tu_36_2026_tt_bxd",
+    "category": "01_vbpl",
+    "md_sha256": "0c40001020f1a06b99e5f9de39057ccae64abddf40040e56b19b551f0eea8b65",
+    "md_lines": 391,
+    "clauses_count": 65,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "thong_tu_37_2026_tt_bxd": {
+    "slug": "thong_tu_37_2026_tt_bxd",
+    "category": "01_vbpl",
+    "md_sha256": "c9bc410a1693adac0ac0ded879a0385695a58055b45f3dcd3ed46cb79611ebd3",
+    "md_lines": 102,
+    "clauses_count": 13,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "thong_tu_38_2026_tt_bxd": {
+    "slug": "thong_tu_38_2026_tt_bxd",
+    "category": "01_vbpl",
+    "md_sha256": "40e75e7e22a3162fe447d56b1703a670eeb7b8a6e50ca792187c8906a4d8b07e",
+    "md_lines": 103,
+    "clauses_count": 12,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "thong_tu_39_2026_tt_bxd": {
+    "slug": "thong_tu_39_2026_tt_bxd",
+    "category": "01_vbpl",
+    "md_sha256": "9303ffe7adcee3d039743fed698fad7388d1449bc1238d5425970e2b2f4dc992",
+    "md_lines": 396,
+    "clauses_count": 64,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "thong_tu_40_2026_tt_bxd": {
+    "slug": "thong_tu_40_2026_tt_bxd",
+    "category": "01_vbpl",
+    "md_sha256": "6fd774434d7ba6368c6f6809c23467db809509fb53dc699154d2165e792e091e",
+    "md_lines": 168,
+    "clauses_count": 34,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "thong_tu_41_2026_tt_bxd": {
+    "slug": "thong_tu_41_2026_tt_bxd",
+    "category": "01_vbpl",
+    "md_sha256": "7738419fdef0b9e37ac5e237dbc07e2679a48c07c756c3f409e47da36bc99594",
+    "md_lines": 397,
+    "clauses_count": 82,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "thong_tu_73_2026_tt_btc": {
+    "slug": "thong_tu_73_2026_tt_btc",
+    "category": "01_vbpl",
+    "md_sha256": "f6a9f49660ad87a1d2d288c4aa862febf40f03865f8ad4602e621b6f56f5533a",
+    "md_lines": 166,
+    "clauses_count": 30,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "thong_tu_79_2026_tt_btc": {
+    "slug": "thong_tu_79_2026_tt_btc",
+    "category": "01_vbpl",
+    "md_sha256": "46809df0af4af6259988ea376ff9eda1bc549562319fb030ed65e2aba60941d4",
+    "md_lines": 507,
+    "clauses_count": 81,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "qcvn_01_2021_bxd": {
+    "slug": "qcvn_01_2021_bxd",
+    "category": "02_qcvn",
+    "md_sha256": "fb258db9b32a0c63f8db6c71e09e5aaa0e00e742e04866839b71268e7d573dc0",
+    "md_lines": 2254,
+    "clauses_count": 198,
+    "tables_count": 32,
+    "figures_count": 0
+  },
+  "qcvn_02_2022_bxd": {
+    "slug": "qcvn_02_2022_bxd",
+    "category": "02_qcvn",
+    "md_sha256": "f90e6caa6de2f4aa3f24f6716f4c088740b8285f26972471fbab0fbcaf048f04",
+    "md_lines": 2425,
+    "clauses_count": 119,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "qcvn_03_2022_bxd": {
+    "slug": "qcvn_03_2022_bxd",
+    "category": "02_qcvn",
+    "md_sha256": "6c42732dcba5f8bd0e602b411ffbb10046c5ac0f263022f44558d219d1c2b734",
+    "md_lines": 141,
+    "clauses_count": 23,
+    "tables_count": 2,
+    "figures_count": 0
+  },
+  "qcvn_04_2021_bxd": {
+    "slug": "qcvn_04_2021_bxd",
+    "category": "02_qcvn",
+    "md_sha256": "d0f5c2c550fe1b9c7680c1f1e26e362f79425d7d43b718e92b3532f60cbec9c3",
+    "md_lines": 836,
+    "clauses_count": 143,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "qcvn_06_2022_bxd": {
+    "slug": "qcvn_06_2022_bxd",
+    "category": "02_qcvn",
+    "md_sha256": "eaf60f5169cff82caa8818fa117c25c52131e45708fb0a37abb40e47a4976af8",
+    "md_lines": 2991,
+    "clauses_count": 768,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "tcvn_2737_2023": {
+    "slug": "tcvn_2737_2023",
+    "category": "03_tcvn",
+    "md_sha256": "6b9d1f8a2d3a8c7e215fe7fd56bb3a22c59f10a9623d86dde4bf477594f9f8f1",
+    "md_lines": 1545,
+    "clauses_count": 343,
+    "tables_count": 37,
+    "figures_count": 43
+  },
+  "tcvn_3890_2023": {
+    "slug": "tcvn_3890_2023",
+    "category": "03_tcvn",
+    "md_sha256": "7d09db5b29c8b77229e01b2df252f6dbc4af5d3b4ac81ba2bfcbec0ca7d293f6",
+    "md_lines": 663,
+    "clauses_count": 107,
+    "tables_count": 11,
+    "figures_count": 0
+  },
+  "tcvn_5574_2018": {
+    "slug": "tcvn_5574_2018",
+    "category": "03_tcvn",
+    "md_sha256": "106a90162b8fcf7031e9f465f9139891023ab3c9cfc1466c58936b337b40a94c",
+    "md_lines": 5698,
+    "clauses_count": 676,
+    "tables_count": 32,
+    "figures_count": 40
+  },
+  "tcvn_5738_2021": {
+    "slug": "tcvn_5738_2021",
+    "category": "03_tcvn",
+    "md_sha256": "3d777878f229dad709f61c6bc75e272f7b8526d83982dc5b0d302612c0b3fc89",
+    "md_lines": 774,
+    "clauses_count": 87,
+    "tables_count": 5,
+    "figures_count": 4
+  },
+  "tcvn_7336_2021": {
+    "slug": "tcvn_7336_2021",
+    "category": "03_tcvn",
+    "md_sha256": "f1689f89795f563c5a36b8a2af571e52c30214faf4c1c850fc84b39c435d74ec",
+    "md_lines": 1591,
+    "clauses_count": 263,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "bang_so_sanh_luat_xay_dung_2025_vs_2014": {
+    "slug": "bang_so_sanh_luat_xay_dung_2025_vs_2014",
+    "category": "04_appendices",
+    "md_sha256": "4cd53d28bee20798e9cc76acd4d6ede8b2f55f78c36cb717aade9db96c8122a0",
+    "md_lines": 47,
+    "clauses_count": 0,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "bang_so_sanh_sua_doi_2023_qcvn_06": {
+    "slug": "bang_so_sanh_sua_doi_2023_qcvn_06",
+    "category": "04_appendices",
+    "md_sha256": "ad7086a4b5b8302fbb51a8e9de022165a935e3273a8a1f1d3c866349938909a6",
+    "md_lines": 59,
+    "clauses_count": 0,
+    "tables_count": 0,
+    "figures_count": 0
+  },
+  "bang_so_sanh_sua_doi_2026": {
+    "slug": "bang_so_sanh_sua_doi_2026",
+    "category": "04_appendices",
+    "md_sha256": "1892639a56ca26859a7db8d35a26d08a82289848174f5fcb2821008c8aa83a65",
+    "md_lines": 56,
+    "clauses_count": 0,
+    "tables_count": 0,
+    "figures_count": 0
+  }
+}

@@ -1,0 +1,965 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2
+  },
+  {
+    "clause_id": "muc-1-1",
+    "anchor": "muc-1-1",
+    "title": "1.1  Tiêu chuẩn này quy định về trang bị, bố trí phương tiện, hệ thống phòng cháy và chữa cháy cho nhà, công trình, đô thị, khu kinh tế, khu công nghiệp, cụm công nghiệp, khu chế xuất, khu công nghệ cao và các khu chức năng khác theo quy định [5], khi:",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6
+  },
+  {
+    "clause_id": "muc-1-2",
+    "anchor": "muc-1-2",
+    "title": "1.2  Đối với nhà và công trình ngoài việc tuân thủ tiêu chuẩn này còn phải tuân thủ quy chuẩn, tiêu chuẩn riêng của các loại hình công trình đó, trong trường hợp có quy định khác với quy định tại tiêu chuẩn này, phải áp dụng quy định có yêu cầu cao hơn.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 18,
+    "line_end": 18
+  },
+  {
+    "clause_id": "muc-1-3",
+    "anchor": "muc-1-3",
+    "title": "1.3  Đối với nhà và công trình chưa có quy định cụ thể thì nghiên cứu áp dụng tiêu chuẩn nước ngoài, tiêu chuẩn quốc tế về PCCC theo quy định của pháp luật hiện hành hoặc thực hiện theo hướng dẫn của cơ quan quản lý chuyên ngành cấp Bộ về phòng cháy và chữa cháy.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 22,
+    "line_end": 22
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 26,
+    "line_end": 26
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 80,
+    "line_end": 80
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  QUY ĐỊNH CHUNG",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 244,
+    "line_end": 244
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Nhà, công trình, khoang cháy dựa trên tính nguy hiểm cháy theo công năng được phân thành các nhóm F1, F2, F3, F4, F5; nhà, công trình và gian phòng có công năng sản xuất và kho theo tính nguy hiểm cháy và cháy nổ được phân thành các hạng A, B, C, D, E theo quy định [17].",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 248,
+    "line_end": 248
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Nhà, công trình, hạng mục/khu vực, gian phòng, buồng và thiết bị (sau đây gọi chung là nhà và công trình), đô thị, khu kinh tế, khu công nghiệp, cụm công nghiệp, khu chế xuất, khu công nghệ cao và các khu chức năng khác theo quy định [5], không phụ thuộc vào chủ sở hữu và đơn vị chủ quản theo pháp nhân phải trang bị các phương tiện, hệ thống phòng cháy và chữa cháy theo quy định của tiêu chuẩn này.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 252,
+    "line_end": 252
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Lựa chọn loại phương tiện, phương pháp chữa cháy, loại chất chữa cháy phải phù hợp với tính chất, mức độ nguy hiểm cháy của nhà, công trình, với từng loại đám cháy, với khả năng, hiệu quả của phương tiện chữa cháy và từng loại chất chữa cháy quy định tại 4.4 và trong các tiêu chuẩn kỹ thuật hiện hành có liên quan.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 256,
+    "line_end": 256
+  },
+  {
+    "clause_id": "muc-4-4",
+    "anchor": "muc-4-4",
+    "title": "4.4  Hiệu quả chữa cháy của các chất chữa cháy quy định tại Bảng 1.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 260,
+    "line_end": 260
+  },
+  {
+    "clause_id": "bang-bang-01",
+    "anchor": "bang-bang-01",
+    "title": "Bảng 1 - Hiệu quả chữa cháy của các chất chữa cháy",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 264,
+    "line_end": 264
+  },
+  {
+    "clause_id": "muc-4-5",
+    "anchor": "muc-4-5",
+    "title": "4.5  Khi cải tạo làm tăng quy mô hoặc chuyển đổi công năng sử dụng: hoặc thay đổi hạng nguy hiểm cháy và cháy nổ của gian phòng, nhà, công trình theo hướng tăng tính chất nguy hiểm cháy của gian phòng, nhà, công trình thì phải áp dụng tiêu chuẩn này trong phạm vi thay đổi đó.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 287,
+    "line_end": 287
+  },
+  {
+    "clause_id": "muc-4-6",
+    "anchor": "muc-4-6",
+    "title": "4.6  Phải trang bị hệ thống chữa cháy tự động cho toàn bộ nhà nếu tổng diện tích các gian phòng trong nhà thuộc diện phải trang bị hệ thống chữa cháy tự động bằng hoặc lớn hơn 40% tổng diện tích sàn của nhà đó.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 291,
+    "line_end": 291
+  },
+  {
+    "clause_id": "muc-4-7",
+    "anchor": "muc-4-7",
+    "title": "4.7  Đối với gian phòng trong nhà thuộc nhóm nguy hiểm cháy theo công năng F5 (không bao gồm các gian phòng F5 nằm trong nhà thuộc nhóm nguy hiểm cháy theo công năng khác) đã trang bị hệ thống chữa cháy tự động có kết nối liên động với trung tâm báo cháy thì cho phép không trang bị đầu báo cháy tự động (các thiết bị khác của hệ thống báo cháy tự động phải trang bị bảo đảm theo quy định).",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 295,
+    "line_end": 295
+  },
+  {
+    "clause_id": "muc-4-8",
+    "anchor": "muc-4-8",
+    "title": "4.8  Việc trang bị phương tiện, hệ thống phòng cháy, chữa cháy cho nhà và công trình căn cứ trên cơ sở phân tích công năng sử dụng, tính chất nguy hiểm cháy và các yếu tố khác liên quan đến việc bảo vệ con người và tài sản. Đối với nhà và công trình không được quy định tại các Phụ lục A, B, C, D, E, F, G thì phải trang bị phương tiện, hệ thống phòng cháy, chữa cháy như với nhà và công trình có công năng tương tự.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 299,
+    "line_end": 299
+  },
+  {
+    "clause_id": "muc-4-9",
+    "anchor": "muc-4-9",
+    "title": "4.9  Hệ thống hoặc thiết bị báo cháy tự động trang bị cho nhà phải được kết nối với hệ thống quản lý cơ sở dữ liệu về phòng cháy, chữa cháy và truyền tin báo sự cố của cơ quan Cảnh sát phòng cháy chữa cháy theo quy định [9], [10].",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 303,
+    "line_end": 303
+  },
+  {
+    "clause_id": "muc-4-10",
+    "anchor": "muc-4-10",
+    "title": "4.10  Khi xác định yêu cầu trang bị hệ thống chữa cháy tự động và/hoặc hệ thống báo cháy tự động trước tiên cần xác định yêu cầu trang bị cho toàn bộ nhà (Bảng A.1), sau đó cho từng hạng mục/khu vực (Bảng A.2) và gian phòng trong nhà (Bảng A.3), cũng như thiết bị nằm trong phạm vi của công trình (Bảng A.4).",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 307,
+    "line_end": 307
+  },
+  {
+    "clause_id": "muc-4-11",
+    "anchor": "muc-4-11",
+    "title": "4.11  Đối với nhà không được phân chia hoặc được phân chia thành các gian phòng bởi các kết cấu xây dựng: tường, sàn có giới hạn chịu lửa thấp hơn REI 45, vách có giới hạn chịu lửa thấp hơn EI 45 thì trang bị hệ thống báo cháy tự động và/ hoặc hệ thống chữa cháy tự động tương ứng với gian phòng theo Bảng A.3.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 311,
+    "line_end": 311
+  },
+  {
+    "clause_id": "muc-4-12",
+    "anchor": "muc-4-12",
+    "title": "4.12  Trong nhà và công trình quy định tại Phụ lục A phải trang bị hệ thống chữa cháy tự động và/hoặc hệ thống báo cháy tự động cho toàn bộ nhà và công trình, trừ các khu vực sau:",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 315,
+    "line_end": 315
+  },
+  {
+    "clause_id": "muc-4-13",
+    "anchor": "muc-4-13",
+    "title": "4.13  Cho phép trong căn hộ của nhà nhóm F1.3 có chiều cao không quá 75 m chỉ bố trí đầu phun sprinkler của hệ thống chữa cháy tự động bằng nước tại cửa vào căn hộ (lắp tại vị trí bên trong căn hộ).",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 331,
+    "line_end": 331
+  },
+  {
+    "clause_id": "muc-4-14",
+    "anchor": "muc-4-14",
+    "title": "4.14  Các phương tiện, hệ thống phòng cháy, chữa cháy quy định trong tiêu chuẩn này phải được kiểm tra, bảo dưỡng định kỳ theo quy định của pháp luật và các tiêu chuẩn kỹ thuật hiện hành liên quan hoặc hướng dẫn của đơn vị sản xuất.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 335,
+    "line_end": 335
+  },
+  {
+    "clause_id": "muc-4-15",
+    "anchor": "muc-4-15",
+    "title": "4.15  Trong một số trường hợp riêng biệt, có thể xem xét thay thế một số yêu cầu của tiêu chuẩn này đối với công trình cụ thể khi có luận chứng kỹ thuật nêu rõ các giải pháp bổ sung, thay thế và cơ sở của những giải pháp này để bảo đảm an toàn cháy cho công trình. Luận chứng này phải được cơ quan quản lý chuyên ngành cấp Bộ về phòng cháy và chữa cháy chấp thuận.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CQXD",
+    "line_start": 339,
+    "line_end": 339
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  QUY ĐỊNH VỀ TRANG BỊ, BỐ TRÍ PHƯƠNG TIỆN, HỆ THỐNG PHÒNG CHÁY VÀ CHỮA CHÁY.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 343,
+    "line_end": 343
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Trang bị, bố trí bình chữa cháy.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 347,
+    "line_end": 347
+  },
+  {
+    "clause_id": "muc-5-1-1",
+    "anchor": "muc-5-1-1",
+    "title": "5.1.1  Trang bị, bố trí bình chữa cháy xách tay và bình chữa cháy có bánh xe.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 351,
+    "line_end": 351
+  },
+  {
+    "clause_id": "muc-5-1-1-1",
+    "anchor": "muc-5-1-1-1",
+    "title": "5.1.1.1  Tất cả các khu vực trong nhà và công trình kể cả những nơi đã được trang bị hệ thống chữa cháy phải trang bị bình chữa cháy xách tay hoặc bình chữa cháy có bánh xe.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 355,
+    "line_end": 355
+  },
+  {
+    "clause_id": "muc-5-1-1-2",
+    "anchor": "muc-5-1-1-2",
+    "title": "5.1.1.2  Lựa chọn, tính toán trang bị và bố trí bình chữa cháy thực hiện theo quy định tại điều 6 và điều 7 TCVN 7435-1.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 359,
+    "line_end": 359
+  },
+  {
+    "clause_id": "muc-5-1-1-3",
+    "anchor": "muc-5-1-1-3",
+    "title": "5.1.1.3  Đối với khu vực có diện tích hẹp và dài hoặc khu vực có nhiều cấp sàn khác nhau, gần kề nhau thì việc trang bị bình chữa cháy vẫn phải đảm bảo khoảng cách di chuyển từ vị trí để bình chữa cháy đến điểm xa nhất cần bảo vệ của một bình không vượt quá quy định tại 5.1.1.2.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 363,
+    "line_end": 363
+  },
+  {
+    "clause_id": "muc-5-1-1-4",
+    "anchor": "muc-5-1-1-4",
+    "title": "5.1.1.4  Trên cùng một sàn hoặc tầng nhà, nếu mặt bằng được ngăn thành các khu vực khác nhau bởi tường, vách, rào hoặc các vật cản khác không có lối đi qua lại thì việc trang bị bình chữa cháy phải riêng biệt và đảm bảo theo quy định tại 5.1.1.2 và 5.1.1.3.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 367,
+    "line_end": 367
+  },
+  {
+    "clause_id": "muc-5-1-1-5",
+    "anchor": "muc-5-1-1-5",
+    "title": "5.1.1.5  Phải có số lượng bình chữa cháy dự trữ không ít hơn 10% tổng số bình theo tính toán để trang bị thay thế khi cần thiết (cho phép không quá 100 bình mỗi loại).",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 371,
+    "line_end": 371
+  },
+  {
+    "clause_id": "muc-5-1-1-6",
+    "anchor": "muc-5-1-1-6",
+    "title": "5.1.1.6  Bình chữa cháy được bố trí theo thiết kế, ở vị trí dễ thấy, dễ lấy và nên có màu đỏ, trường hợp khó nhận biết có thể sử dụng các chỉ dẫn vị trí và theo các quy định tại Điều 5 TCVN 7435-1. Không được để bình chữa cháy tập trung một chỗ trừ trường hợp để trong kho dự trữ theo quy định tại 5.1.1.5.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 375,
+    "line_end": 375
+  },
+  {
+    "clause_id": "muc-5-1-1-7",
+    "anchor": "muc-5-1-1-7",
+    "title": "5.1.1.7  Bình chữa cháy xách tay và bình chữa cháy có bánh xe phải đảm bảo tính năng và cấu tạo được quy định tại TCVN 7026, TCVN 7027.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 401,
+    "line_end": 401
+  },
+  {
+    "clause_id": "muc-5-1-2",
+    "anchor": "muc-5-1-2",
+    "title": "5.1.2  Trang bị, bố trí bình bột chữa cháy tự động kích hoạt loại treo.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 405,
+    "line_end": 405
+  },
+  {
+    "clause_id": "muc-5-1-2-1",
+    "anchor": "muc-5-1-2-1",
+    "title": "5.1.2.1  Các bình bột chữa cháy tự động kích hoạt loại treo phải phù hợp với TCVN 12314-1.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 409,
+    "line_end": 409
+  },
+  {
+    "clause_id": "muc-5-1-2-2",
+    "anchor": "muc-5-1-2-2",
+    "title": "5.1.2.2  Căn cứ điều kiện thực tế của nhà và công trình, có thể lắp đặt ở mặt tường hoặc treo trên trần nhà, với chiều cao thích hợp sao cho đảm bảo diện tích bảo vệ hữu hiệu theo công bố của đơn vị sản xuất. Trong bất kỳ trường hợp nào phải đảm bảo khoảng cách từ bộ phận cảm biến nhiệt đến trần nhà là không quá 40 cm.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 413,
+    "line_end": 413
+  },
+  {
+    "clause_id": "muc-5-1-2-3",
+    "anchor": "muc-5-1-2-3",
+    "title": "5.1.2.3  Bình bột chữa cháy tự động kích hoạt loại treo có thể được trang bị tại khu vực bếp của nhà hàng, các phòng nồi hơi, giặt là có diện tích không quá 100 $m^{2}$. Nếu lắp đặt tại khu vực có diện tích trên 100 $m^{2}$ thì nên phân chia thành các khu vực có diện tích đến 100 $m^{2}$ bằng tường ngăn cháy (có giới hạn chịu lửa không thấp hơn REI 45) hoặc vách ngăn cháy (có giới hạn chịu lửa không thấp hơn EI 45).",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 417,
+    "line_end": 417
+  },
+  {
+    "clause_id": "muc-5-1-3",
+    "anchor": "muc-5-1-3",
+    "title": "5.1.3  Trang bị, bố trí bình khí chữa cháy tự động kích hoạt.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 421,
+    "line_end": 421
+  },
+  {
+    "clause_id": "muc-5-1-3-1",
+    "anchor": "muc-5-1-3-1",
+    "title": "5.1.3.1  Bình khí chữa cháy tự động kích hoạt phải phù hợp với TCVN 12314-2.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 425,
+    "line_end": 425
+  },
+  {
+    "clause_id": "muc-5-1-3-2",
+    "anchor": "muc-5-1-3-2",
+    "title": "5.1.3.2  Cho phép trang bị bình khí chữa cháy tự động kích hoạt (có thiết kế bổ sung chức năng giám sát xả, tín hiệu xả phải được truyền về tủ trung tâm báo cháy) thay thế hệ thống chữa cháy tự động bằng khí tại các khu vực không thường xuyên có người với diện tích không quá 100 $m^{2}$. Nếu lắp đặt tại khu vực có diện tích trên 100 $m^{2}$ thì phải phân chia thành các khu vực có diện tích không quá 100 $m^{2}$ bằng tường ngăn cháy (có giới hạn chịu lửa không thấp hơn REI 45) hoặc vách ngăn cháy (có giới hạn chịu lửa không thấp hơn EI 45).",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 429,
+    "line_end": 429
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Trang bị, bố trí hệ thống báo cháy tự động, thiết bị báo cháy cục bộ.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 433,
+    "line_end": 433
+  },
+  {
+    "clause_id": "muc-5-2-1",
+    "anchor": "muc-5-2-1",
+    "title": "5.2.1  Danh mục nhà; hạng mục/khu vực; gian phòng và thiết bị phải trang bị hệ thống báo cháy tự động, thiết bị báo cháy cục bộ được quy định tại Phụ lục A.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 437,
+    "line_end": 437
+  },
+  {
+    "clause_id": "muc-5-2-2",
+    "anchor": "muc-5-2-2",
+    "title": "5.2.2  Việc lựa chọn, bố trí thiết bị báo cháy cục bộ được thực hiện theo quy định như đối với các thiết bị tương tự của hệ thống báo cháy tự động.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 441,
+    "line_end": 441
+  },
+  {
+    "clause_id": "muc-5-2-3",
+    "anchor": "muc-5-2-3",
+    "title": "5.2.3  Yêu cầu kỹ thuật đối với hệ thống báo cháy tự động được quy định tại TCVN 5738 và TCVN 7568.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 445,
+    "line_end": 445
+  },
+  {
+    "clause_id": "muc-5-3",
+    "anchor": "muc-5-3",
+    "title": "5.3  Trang bị, bố trí hệ thống, thiết bị chữa cháy tự động.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 449,
+    "line_end": 449
+  },
+  {
+    "clause_id": "muc-5-3-1",
+    "anchor": "muc-5-3-1",
+    "title": "5.3.1  Danh mục nhà; hạng mục/khu vực; gian phòng và thiết bị phải trang bị, bố trí hệ thống, thiết bị chữa cháy tự động theo quy định tại Phụ lục A.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 453,
+    "line_end": 453
+  },
+  {
+    "clause_id": "muc-5-3-2",
+    "anchor": "muc-5-3-2",
+    "title": "5.3.2  Chất chữa cháy sử dụng trong hệ thống chữa cháy tự động có hiệu quả chữa cháy phù hợp với loại đám cháy của khu vực bảo vệ theo quy định tại Điều 4.3 và phù hợp với yêu cầu cần bảo vệ.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 459,
+    "line_end": 459
+  },
+  {
+    "clause_id": "muc-5-3-3",
+    "anchor": "muc-5-3-3",
+    "title": "5.3.3  Khi bố trí lắp đặt hệ thống chữa cháy tự động mà chất chữa cháy có nguy hiểm cho người phải tính toán thời gian thoát nạn, đảm bảo cho người cuối cùng thoát ra khỏi căn phòng hoặc vùng cần bảo vệ trước khi hệ thống tự động xả chất chữa cháy. Những quy định khác về lựa chọn, bố trí hệ thống chữa cháy tự động được quy định tại TCVN 5760, TCVN 6101, TCVN 6305, TCVN 7161, TCVN 7336, TCVN 13333 và các TCVN khác có liên quan do Bộ quản lý chuyên ngành quy định.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 463,
+    "line_end": 463
+  },
+  {
+    "clause_id": "muc-5-4",
+    "anchor": "muc-5-4",
+    "title": "5.4  Trang bị, bố trí hệ thống họng nước chữa cháy trong nhà, hệ thống cấp nước chữa cháy ngoài nhà.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 467,
+    "line_end": 467
+  },
+  {
+    "clause_id": "muc-5-4-1",
+    "anchor": "muc-5-4-1",
+    "title": "5.4.1  Trang bị, bố trí hệ thống họng nước chữa cháy trong nhà.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 471,
+    "line_end": 471
+  },
+  {
+    "clause_id": "muc-5-4-1-1",
+    "anchor": "muc-5-4-1-1",
+    "title": "5.4.1.1  Nhà phải trang bị hệ thống họng nước chữa cháy trong nhà được quy định tại Phụ lục B.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 475,
+    "line_end": 475
+  },
+  {
+    "clause_id": "muc-5-4-1-2",
+    "anchor": "muc-5-4-1-2",
+    "title": "5.4.1.2  Hệ thống họng nước chữa cháy trong nhà của các nhà sản xuất, nhà kho có mức nguy hiểm cháy cao, nhà có chiều cao từ 25 m trở lên, chợ, trung tâm thương mại, siêu thị, khách sạn, vũ trường, karaoke, quán bar, hộp đêm, nhà ga, các nhà dịch vụ cảng biển, các nhà dịch vụ cảng cạn, các nhà dịch vụ cảng thủy nội địa, nhà hát, rạp chiếu phim phải thường xuyên có nước duy trì áp suất bảo đảm kích hoạt hệ thống tự động.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 479,
+    "line_end": 479
+  },
+  {
+    "clause_id": "muc-5-4-1-3",
+    "anchor": "muc-5-4-1-3",
+    "title": "5.4.1.3  Hệ thống họng nước chữa cháy trong nhà có thể bố trí độc lập hoặc kết hợp với hệ thống chữa cháy tự động bằng nước. Hệ thống họng nước chữa cháy trong nhà phải có họng chờ lắp đặt ở ngoài nhà để tiếp nước từ xe bơm hoặc máy bơm chữa cháy di động.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 483,
+    "line_end": 483
+  },
+  {
+    "clause_id": "muc-5-4-1-4",
+    "anchor": "muc-5-4-1-4",
+    "title": "5.4.1.4  Không trang bị hệ thống họng nước chữa cháy cho nhà, khu vực, gian phòng có sử dụng hoặc bảo quản các chất mà khi tiếp xúc với nước có thể sinh ra cháy, nổ hoặc ngọn lửa lan truyền rộng.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 487,
+    "line_end": 487
+  },
+  {
+    "clause_id": "muc-5-4-2",
+    "anchor": "muc-5-4-2",
+    "title": "5.4.2  Trang bị, bố trí hệ thống cấp nước chữa cháy ngoài nhà.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 491,
+    "line_end": 491
+  },
+  {
+    "clause_id": "muc-5-4-2-1",
+    "anchor": "muc-5-4-2-1",
+    "title": "5.4.2.1  Hệ thống cấp nước chữa cháy ngoài nhà phải được trang bị theo quy định tại Phụ lục C.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 495,
+    "line_end": 495
+  },
+  {
+    "clause_id": "muc-5-4-2-2",
+    "anchor": "muc-5-4-2-2",
+    "title": "5.4.2.2  Trường hợp nhà, công trình nằm trong phạm vi bán kính phục vụ đến mọi điểm của nhà xét theo phương ngang không lớn hơn 200 m tính theo đường di chuyển của vòi chữa cháy đi bên ngoài nhà từ trụ cấp nước chữa cháy hoặc bãi đỗ, bến lấy nước của ao, hồ, sông, bể nước công cộng, nếu:",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 499,
+    "line_end": 499
+  },
+  {
+    "clause_id": "muc-5-4-2-3",
+    "anchor": "muc-5-4-2-3",
+    "title": "5.4.2.3  Cho phép kết hợp hệ thống cấp nước chữa cháy ngoài nhà với hệ thống cấp nước sinh hoạt, sản xuất.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 507,
+    "line_end": 507
+  },
+  {
+    "clause_id": "muc-5-5",
+    "anchor": "muc-5-5",
+    "title": "5.5  Trang bị, bố trí phương tiện chữa cháy cơ giới.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 511,
+    "line_end": 511
+  },
+  {
+    "clause_id": "muc-5-5-1",
+    "anchor": "muc-5-5-1",
+    "title": "5.5.1  Các kho, cảng hàng không, cảng biển, cơ sở trọng điểm về kinh tế, chính trị, văn hóa - xã hội, khu công nghiệp, khu chế xuất, khu công nghệ cao, cụm công nghiệp ngoài việc trang bị hệ thống chữa cháy, phải trang bị phương tiện chữa cháy cơ giới theo Tiêu chuẩn TCVN 13316 Phòng cháy chữa cháy - Xe ô tô chữa cháy các phần và các tiêu chuẩn quốc gia, các tiêu chuẩn quốc tế, tiêu chuẩn nước ngoài được phép áp dụng tại Việt Nam. Phương tiện chữa cháy cơ giới trang bị phải đáp ứng số lượng tối thiểu theo quy định tại Phụ lục D.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 515,
+    "line_end": 515
+  },
+  {
+    "clause_id": "muc-5-5-2",
+    "anchor": "muc-5-5-2",
+    "title": "5.5.2  Xe chữa cháy, tàu chữa cháy, máy bơm chữa cháy loại khiêng tay trang bị cho nhà, công trình đảm bảo các yêu cầu sau:",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 519,
+    "line_end": 519
+  },
+  {
+    "clause_id": "muc-5-6",
+    "anchor": "muc-5-6",
+    "title": "5.6  Trang bị, bố trí phương tiện, dụng cụ phá dỡ thô sơ; mặt nạ lọc độc và mặt nạ phòng độc cách ly.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 529,
+    "line_end": 529
+  },
+  {
+    "clause_id": "muc-5-6-1",
+    "anchor": "muc-5-6-1",
+    "title": "5.6.1  Trang bị, bố trí phương tiện, dụng cụ phá dỡ thô sơ.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 533,
+    "line_end": 533
+  },
+  {
+    "clause_id": "muc-5-6-1-1",
+    "anchor": "muc-5-6-1-1",
+    "title": "5.6.1.1  Nhà, công trình phải trang bị phương tiện, dụng cụ phá dỡ thô sơ được quy định tại Phụ lục E.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 537,
+    "line_end": 537
+  },
+  {
+    "clause_id": "muc-5-6-1-2",
+    "anchor": "muc-5-6-1-2",
+    "title": "5.6.1.2  Phương tiện, dụng cụ phá dỡ thô sơ trang bị cho nhà, công trình được bố trí tại khu vực thường trực về phòng cháy và chữa cháy.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 541,
+    "line_end": 541
+  },
+  {
+    "clause_id": "muc-5-6-2",
+    "anchor": "muc-5-6-2",
+    "title": "5.6.2  Trang bị, bố trí mặt nạ lọc độc và mặt nạ phòng độc cách ly.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 545,
+    "line_end": 545
+  },
+  {
+    "clause_id": "muc-5-6-2-1",
+    "anchor": "muc-5-6-2-1",
+    "title": "5.6.2.1  Nhà, công trình phải trang bị mặt nạ lọc độc và mặt nạ phòng độc cách ly được quy định tại Phụ lục F. Đối với các nhà, công trình khác: chung cư, bệnh viện, văn phòng, nhà hát, rạp chiếu phim... khuyến khích việc trang bị mặt nạ lọc độc.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 549,
+    "line_end": 549
+  },
+  {
+    "clause_id": "muc-5-6-2-2",
+    "anchor": "muc-5-6-2-2",
+    "title": "5.6.2.2  Mặt nạ lọc độc trang bị cho nhà, công trình được bố trí tại các tủ phương tiện trên hành lang thoát nạn từng tầng, mặt nạ phòng độc cách ly được bố trí tại phòng trực điều khiển chống cháy tại vị trí dễ thấy, dễ lấy và đảm bảo đúng hướng dẫn của đơn vị sản xuất.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 553,
+    "line_end": 553
+  },
+  {
+    "clause_id": "muc-5-6-2-3",
+    "anchor": "muc-5-6-2-3",
+    "title": "5.6.2.3  Mặt nạ lọc độc phải có các bộ lọc phù hợp với quy định tại các tiêu chuẩn, quy chuẩn hiện hành [19]. Mặt nạ phòng độc cách ly phải có mặt trùm toàn bộ khuôn mặt đáp ứng yêu cầu quy định tại TCVN 13332.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 557,
+    "line_end": 557
+  },
+  {
+    "clause_id": "muc-5-7",
+    "anchor": "muc-5-7",
+    "title": "5.7  Trang bị, bố trí phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn; hệ thống loa thông báo và hướng dẫn thoát nạn.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 561,
+    "line_end": 561
+  },
+  {
+    "clause_id": "muc-5-7-1",
+    "anchor": "muc-5-7-1",
+    "title": "5.7.1  Trang bị, bố trí phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 565,
+    "line_end": 565
+  },
+  {
+    "clause_id": "muc-5-7-1-1",
+    "anchor": "muc-5-7-1-1",
+    "title": "5.7.1.1  Phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn được trang bị cho tất cả các nhà, công trình (trừ nhà ở riêng lẻ)",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 569,
+    "line_end": 569
+  },
+  {
+    "clause_id": "muc-5-7-1-2",
+    "anchor": "muc-5-7-1-2",
+    "title": "5.7.1.2  Việc lựa chọn, bố trí phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn được quy định tại tiêu chuẩn TCVN 13456.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 573,
+    "line_end": 573
+  },
+  {
+    "clause_id": "muc-5-7-2",
+    "anchor": "muc-5-7-2",
+    "title": "5.7.2  Trang bị, bố trí hệ thống loa thông báo và hướng dẫn thoát nạn",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 577,
+    "line_end": 577
+  },
+  {
+    "clause_id": "muc-5-7-2-1",
+    "anchor": "muc-5-7-2-1",
+    "title": "5.7.2.1  Nhà, công trình phải trang bị hệ thống loa thông báo và hướng dẫn thoát nạn được quy định tại Phụ lục G.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 581,
+    "line_end": 581
+  },
+  {
+    "clause_id": "muc-5-7-2-2",
+    "anchor": "muc-5-7-2-2",
+    "title": "5.7.2.2  Hệ thống loa thông báo và hướng dẫn thoát nạn, bảo đảm mọi người trong nhà và công trình có thể nghe rõ thông báo, hướng dẫn khi có sự cố.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 585,
+    "line_end": 585
+  },
+  {
+    "clause_id": "muc-5-7-2-3",
+    "anchor": "muc-5-7-2-3",
+    "title": "5.7.2.3  Tín hiệu âm thanh của hệ thống loa thông báo và hướng dẫn thoát nạn phải đảm bảo mức âm thanh tổng thể (mức âm thanh của tiếng ồn thường xuyên cùng với âm thanh từ các tín hiệu cảnh báo tạo ra) không thấp hơn 75 dBA ở khoảng cách 3 m từ tín hiệu cảnh báo, nhưng không quá 120 dBA ở bất kỳ vị trí nào.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 589,
+    "line_end": 589
+  },
+  {
+    "clause_id": "muc-5-7-2-4",
+    "anchor": "muc-5-7-2-4",
+    "title": "5.7.2.4  Tín hiệu âm thanh của hệ thống loa thông báo và hướng dẫn thoát nạn phải tạo ra mức âm thanh cao hơn ít nhất 15 dBA so với mức âm thanh của tiếng ồn thường xuyên tại gian phòng. Việc đo mức âm thanh được thực hiện ở độ cao 1,5 m tính từ sàn nhà.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 593,
+    "line_end": 593
+  },
+  {
+    "clause_id": "muc-5-7-2-5",
+    "anchor": "muc-5-7-2-5",
+    "title": "5.7.2.5  Trong phòng ngủ, tín hiệu âm thanh của hệ thống loa thông báo và hướng dẫn thoát nạn phải có mức âm thanh cao hơn ít nhất 15 dBA so với mức âm thanh của tiếng ồn thường xuyên trong phòng, nhưng mức âm thanh tổng thể không nhỏ hơn 70 dBA và không quá 120 dBA. Việc đo mức âm thanh được thực hiện ở vị trí ngang với đầu của người đang ngủ.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 597,
+    "line_end": 597
+  },
+  {
+    "clause_id": "muc-5-7-2-6",
+    "anchor": "muc-5-7-2-6",
+    "title": "5.7.2.6  Thiết bị loa cảnh báo cháy và điều khiển thoát nạn gắn trên tường phải được bố trí sao cho phần trên của chúng cách mặt sàn ít nhất 2,3 m và cách trần tối thiểu phải là 0,15 m.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 601,
+    "line_end": 601
+  },
+  {
+    "clause_id": "muc-5-7-2-7",
+    "anchor": "muc-5-7-2-7",
+    "title": "5.7.2.7  Trong các phòng được bảo vệ, nơi có người ở trong các thiết bị chống ồn, cũng như trong các phòng có mức ồn trên 95 dBA, hệ thống loa thông báo và hướng dẫn thoát nạn phải kết hợp với cảnh báo bằng ánh sáng. Việc sử dụng thiết bị cảnh báo nhấp nháy bằng ánh sáng được cho phép.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 605,
+    "line_end": 605
+  },
+  {
+    "clause_id": "muc-5-7-2-8",
+    "anchor": "muc-5-7-2-8",
+    "title": "5.7.2.8  Thiết bị loa cảnh báo và chỉ dẫn thoát nạn bằng giọng nói phải phát ra âm thanh có tần số trong dải từ 200 Hz đến 5 000 Hz.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 609,
+    "line_end": 609
+  },
+  {
+    "clause_id": "muc-5-7-2-9",
+    "anchor": "muc-5-7-2-9",
+    "title": "5.7.2.9  Số lượng thiết bị loa cảnh báo và chỉ dẫn thoát nạn bằng giọng nói, cách bố trí và công suất của chúng phải đảm bảo mức âm thanh ở tất cả khu vực để ở phù hợp với các quy định của tiêu chuẩn này.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 613,
+    "line_end": 613
+  },
+  {
+    "clause_id": "muc-5-8",
+    "anchor": "muc-5-8",
+    "title": "5.8  Trang bị, bố trí phương tiện, dụng cụ chữa cháy ban đầu.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 617,
+    "line_end": 617
+  },
+  {
+    "clause_id": "muc-5-8-1",
+    "anchor": "muc-5-8-1",
+    "title": "5.8.1  Phương tiện, dụng cụ chữa cháy ban đầu trang bị cho nhà kho, cửa hàng, cơ sở sản xuất theo quy định tại Phụ lục H.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 621,
+    "line_end": 621
+  },
+  {
+    "clause_id": "muc-5-8-2",
+    "anchor": "muc-5-8-2",
+    "title": "5.8.2  Trang bị phương tiện, dụng cụ chữa cháy ban đầu cho kho dầu mỏ và sản phẩm dầu mỏ, cửa hàng xăng dầu, các công trình xăng dầu, cửa hàng kinh doanh khí đốt hóa lỏng (LPG) được quy định tại TCVN 5307, TCVN 4530, TCVN 5684, TCVN 6223 và các TCVN khác có liên quan do Bộ quản lý chuyên ngành quy định.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 625,
+    "line_end": 625
+  },
+  {
+    "clause_id": "muc-5-8-3",
+    "anchor": "muc-5-8-3",
+    "title": "5.8.3  Đối với các cơ sở khác, việc trang bị phương tiện, dụng cụ chữa cháy ban đầu sẽ tùy thuộc vào điều kiện và yêu cầu của từng cơ sở.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 629,
+    "line_end": 629
+  },
+  {
+    "clause_id": "muc-5-8-4",
+    "anchor": "muc-5-8-4",
+    "title": "5.8.4  Phương tiện, dụng cụ chữa cháy ban đầu được bố trí ở từng khu vực phù hợp với yêu cầu sử dụng để chữa cháy; không cản trở lối thoát nạn, lối đi và các hoạt động khác; tránh nắng, mưa và sự phá hủy của môi trường. Mỗi dụng cụ đựng cát kèm theo ít nhất 2 xẻng xúc. Các dụng cụ đựng cát chữa cháy được che đậy, không để vật bẩn rơi vào.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 633,
+    "line_end": 633
+  },
+  {
+    "clause_id": "muc-5-8-5",
+    "anchor": "muc-5-8-5",
+    "title": "5.8.5  Các phương tiện, dụng cụ chữa cháy ban đầu cần được sơn đỏ để dễ nhận biết.",
+    "source_file": "tcvn_3890_2023.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 637,
+    "line_end": 637
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A  (Quy định)  QUY ĐỊNH VỀ TRANG BỊ HỆ THỐNG BÁO CHÁY TỰ ĐỘNG, THIẾT BỊ BÁO CHÁY CỤC BỘ VÀ HỆ THỐNG CHỮA CHÁY TỰ ĐỘNG",
+    "source_file": "annexes/phu_luc_a_quy_dinh_ve_trang_bi_he_thong_bao_chay_tu_don.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2
+  },
+  {
+    "clause_id": "bang-bang-a-1",
+    "anchor": "bang-bang-a-1",
+    "title": "Bảng A.1 - Đối với nhà",
+    "source_file": "annexes/phu_luc_a_quy_dinh_ve_trang_bi_he_thong_bao_chay_tu_don.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6
+  },
+  {
+    "clause_id": "bang-bang-a-2",
+    "anchor": "bang-bang-a-2",
+    "title": "Bảng A.2 - Đối với hạng mục/khu vực",
+    "source_file": "annexes/phu_luc_a_quy_dinh_ve_trang_bi_he_thong_bao_chay_tu_don.md",
+    "jurisdiction": "CQXD",
+    "line_start": 70,
+    "line_end": 70
+  },
+  {
+    "clause_id": "bang-bang-a-3",
+    "anchor": "bang-bang-a-3",
+    "title": "Bảng A.3 - Đối với gian phòng",
+    "source_file": "annexes/phu_luc_a_quy_dinh_ve_trang_bi_he_thong_bao_chay_tu_don.md",
+    "jurisdiction": "CQXD",
+    "line_start": 94,
+    "line_end": 94
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B  (Quy định)  QUY ĐỊNH VỀ TRANG BỊ HỆ THỐNG HỌNG NƯỚC CHỮA CHÁY TRONG NHÀ",
+    "source_file": "annexes/phu_luc_b_quy_dinh_ve_trang_bi_he_thong_hong_nuoc_chua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2
+  },
+  {
+    "clause_id": "bang-bang-b-1",
+    "anchor": "bang-bang-b-1",
+    "title": "Bảng B.1 - Quy định về trang bị hệ thống họng nước chữa cháy trong nhà",
+    "source_file": "annexes/phu_luc_b_quy_dinh_ve_trang_bi_he_thong_hong_nuoc_chua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6
+  },
+  {
+    "clause_id": "phu-luc-c",
+    "anchor": "phu-luc-c",
+    "title": "PHỤ LỤC C  (Quy định)  QUY ĐỊNH VỀ TRANG BỊ HỆ THỐNG CẤP NƯỚC CHỮA CHÁY NGOÀI NHÀ",
+    "source_file": "annexes/phu_luc_c_quy_dinh_ve_trang_bi_he_thong_cap_nuoc_chua_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2
+  },
+  {
+    "clause_id": "bang-bang-c-1",
+    "anchor": "bang-bang-c-1",
+    "title": "Bảng C.1 - Quy định về trang bị hệ thống cấp nước chữa cháy ngoài nhà",
+    "source_file": "annexes/phu_luc_c_quy_dinh_ve_trang_bi_he_thong_cap_nuoc_chua_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6
+  },
+  {
+    "clause_id": "phu-luc-d",
+    "anchor": "phu-luc-d",
+    "title": "PHỤ LỤC D  (Quy định)  QUY ĐỊNH VỀ TRANG BỊ PHƯƠNG TIỆN CHỮA CHÁY CƠ GIỚI",
+    "source_file": "annexes/phu_luc_d_quy_dinh_ve_trang_bi_phuong_tien_chua_chay_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2
+  },
+  {
+    "clause_id": "bang-bang-d-1",
+    "anchor": "bang-bang-d-1",
+    "title": "Bảng D.1 - Quy định về trang bị phương tiện chữa cháy cơ giới",
+    "source_file": "annexes/phu_luc_d_quy_dinh_ve_trang_bi_phuong_tien_chua_chay_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6
+  },
+  {
+    "clause_id": "phu-luc-e",
+    "anchor": "phu-luc-e",
+    "title": "PHỤ LỤC E  (Quy định)  QUY ĐỊNH VỀ TRANG BỊ DỤNG CỤ PHÁ DỠ THÔ SƠ",
+    "source_file": "annexes/phu_luc_e_quy_dinh_ve_trang_bi_dung_cu_pha_do_tho_so.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2
+  },
+  {
+    "clause_id": "bang-bang-e-1",
+    "anchor": "bang-bang-e-1",
+    "title": "Bảng E.1 - Quy định về trang bị dụng cụ phá dỡ thô sơ",
+    "source_file": "annexes/phu_luc_e_quy_dinh_ve_trang_bi_dung_cu_pha_do_tho_so.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6
+  },
+  {
+    "clause_id": "phu-luc-f",
+    "anchor": "phu-luc-f",
+    "title": "PHỤ LỤC F  (Quy định)  QUY ĐỊNH VỀ TRANG BỊ MẶT NẠ LỌC ĐỘC VÀ MẶT NẠ PHÒNG ĐỘC CÁCH LY",
+    "source_file": "annexes/phu_luc_f_quy_dinh_ve_trang_bi_mat_na_loc_doc_va_mat_na.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2
+  },
+  {
+    "clause_id": "bang-bang-f-1",
+    "anchor": "bang-bang-f-1",
+    "title": "Bảng F.1 - Quy định về trang bị mặt nạ lọc độc và mặt nạ phòng độc cách ly",
+    "source_file": "annexes/phu_luc_f_quy_dinh_ve_trang_bi_mat_na_loc_doc_va_mat_na.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6
+  },
+  {
+    "clause_id": "phu-luc-g",
+    "anchor": "phu-luc-g",
+    "title": "PHỤ LỤC G  (Quy định)  QUY ĐỊNH VỀ TRANG BỊ HỆ THỐNG LOA THÔNG BÁO VÀ HƯỚNG DẪN THOÁT NẠN",
+    "source_file": "annexes/phu_luc_g_quy_dinh_ve_trang_bi_he_thong_loa_thong_bao_v.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2
+  },
+  {
+    "clause_id": "bang-bang-g-1",
+    "anchor": "bang-bang-g-1",
+    "title": "Bảng G.1 - Quy định về trang bị hệ thống loa thông báo và hướng dẫn thoát nạn",
+    "source_file": "annexes/phu_luc_g_quy_dinh_ve_trang_bi_he_thong_loa_thong_bao_v.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6
+  },
+  {
+    "clause_id": "phu-luc-h",
+    "anchor": "phu-luc-h",
+    "title": "PHỤ LỤC H  (Quy định)  QUY ĐỊNH VỀ TRANG BỊ PHƯƠNG TIỆN, DỤNG CỤ CHỮA CHÁY BAN ĐẦU",
+    "source_file": "annexes/phu_luc_h_quy_dinh_ve_trang_bi_phuong_tien_dung_cu_chua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2
+  },
+  {
+    "clause_id": "bang-bang-h-1",
+    "anchor": "bang-bang-h-1",
+    "title": "Bảng H.1 - Quy định về trang bị phương tiện, dụng cụ chữa cháy ban đầu",
+    "source_file": "annexes/phu_luc_h_quy_dinh_ve_trang_bi_phuong_tien_dung_cu_chua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6
+  }
+]

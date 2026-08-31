@@ -1,0 +1,56 @@
+﻿STT,Loại nhà,Hệ thống chữa cháy tự động $^{(1)}$,Hệ thống báo cháy tự động
+1.,Nhà ở riêng lẻ,Chiều cao từ 25 m trở lên,Cao từ 7 tầng hoặc 25 m trở lên<br>(Cho phép trang bị thiết bị báo cháy cục bộ)
+2.,"Nhà ở riêng lẻ kết hợp sản xuất, kinh doanh hàng hóa, chất dễ cháy có phần sản xuất, kinh doanh hàng hóa chất dễ cháy không quá 30% diện tích của nhà $^{(2)}$",Chiều cao từ 25 m trở lên,Cao từ 3 tầng trở lên hoặc khối tích từ 1 500 $m^{3}$ trở lên<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi chiều cao thấp hơn 5 tầng và khối tích nhỏ hơn 2 500 $m^{3}$)
+3.,Nhà hỗn hợp,Chiều cao từ 25 m trở lên hoặc diện tích từ 5 000 $m^{2}$ trở lên,Cao từ 3 tầng trở lên hoặc khối tích từ 1 500 $m^{3}$ trở lên<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi chiều cao thấp hơn 5 tầng và khối tích nhỏ hơn 1 500 $m^{3}$)
+4.,"Chung cư, nhà tập thể; ký túc xá",Chiều cao từ 25 m trở lên hoặc diện tích từ 10 000 $m^{2}$ trở lên,Cao từ 5 tầng trở lên hoặc khối tích từ 2 500 $m^{3}$ trở lên<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi chiều cao thấp hơn 5 tầng và khối tích nhỏ hơn 5 000 $m^{3}$)
+5.,"Nhà chuyên kinh doanh dịch vụ lưu trú (nhà trọ); khách sạn, nhà nghỉ và cơ sở lưu trú được thành lập theo quy định [1] (ngoại trừ bãi cắm trại du lịch)",Chiều cao từ 25 m trở lên hoặc diện tích từ 5 000 $m^{2}$ trở lên,Cao từ 3 tầng trở lên hoặc khối tích từ 2 500 $m^{3}$ trở lên<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi chiều cao thấp hơn 5 tầng và khối tích nhỏ hơn 5 000 $m^{3}$)
+6.,"Nhà dưỡng lão, nhà chăm sóc người khuyết tật",Không phụ thuộc vào quy mô,Không phụ thuộc vào quy mô<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi chiều cao thấp hơn 3 tầng và khối tích nhỏ hơn 1 000 $m^{3}$)
+7.,"Nhà trẻ, mẫu giáo, mầm non",Cao từ 4 tầng trở lên (không tính tầng kỹ thuật trên cùng),Có từ 100 cháu trở lên hoặc khối tích từ 1 000 $m^{3}$ trở lên<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi chiều cao dưới 15 m và khối tích dưới 1 500 $m^{3}$)
+8.,Trường học và các cơ sở giáo dục theo quy định [2] (ngoại trừ mục 6 bảng này),Chiều cao từ 25 m trở lên,Cao từ 5 tầng trở lên hoặc khối tích từ 5 000 $m^{3}$ trở lên<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi khối tích nhỏ hơn 2 000 $m^{3}$)
+9.,"Đài kiểm soát không lưu, nhà ga sân bay, nhà ga đường sắt, nhà chờ cáp treo vận chuyển người, các nhà dịch vụ bến cảng biển, cảng cạn, cảng thủy nội địa, bến xe khách, trạm dừng nghỉ",Chiều cao từ 25 m hoặc diện tích từ 10 000 $m^{2}$ trở lên,Không phụ thuộc vào quy mô.<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi chiều cao thấp hơn 3 tầng và khối tích nhỏ hơn 1 500 $m^{3}$)
+10.,"Bưu điện, cơ sở truyền thanh, truyền hình, viễn thông",Chiều cao từ 25 m hoặc diện tích từ 5 000 $m^{2}$ trở lên,Cao từ 3 tầng trở lên hoặc khối tích từ 1 500 $m^{3}$
+11.,"Nhà văn hóa, trung tâm tổ chức sự kiện",Chiều cao từ 25 m hoặc diện tích từ 5 000 $m^{2}$ trở lên,Cao từ 3 tầng trở lên hoặc khối tích từ 1 500 $m^{3}$
+12.,Nhà lưu trữ sách; thư viện,Chiều cao từ 25 m hoặc diện tích từ 5 000 $m^{2}$ trở lên,Không phụ thuộc vào quy mô<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi khối tích nhỏ hơn 1 500 $m^{3}$)
+13.,"Cửa hàng ăn uống, thẩm mỹ viện, kinh doanh dịch vụ xoa bóp; khối nhà của các công trình vui chơi giải trí, thủy cung",Chiều cao từ 25 m hoặc diện tích từ 5 000 $m^{2}$ trở lên,Khối tích từ 1 000 $m^{3}$ trở lên<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi chiều cao thấp hơn 3 tầng và khối tích nhỏ hơn 1 500 $m^{3}$)
+14.,"Nhà thi đấu thể thao, cung thể thao",Chiều cao từ 25 m trở lên,Khối tích từ 1 500 $m^{3}$ trở lên hoặc có từ 200 chỗ trở lên<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi khối tích nhỏ hơn 5 000 $m^{3}$)
+15.,"Nhà khám, chữa bệnh, lưu trú bệnh nhân của bệnh viện, trạm y tế, phòng khám, nhà điều dưỡng, phục hồi chức năng, chỉnh hình, cơ sở phòng chống dịch bệnh, trung tâm y tế, cơ sở y tế khác theo quy định của pháp luật hiện hành [3]",Chiều cao từ 25 m hoặc diện tích từ 2 000 $m^{2}$ trở lên,Cao từ 3 tầng trở lên hoặc khối tích từ 1.000 $m^{3}$ trở lên
+16.,Nhà hành chính $^{3)}$,Chiều cao từ 25 m trở lên hoặc diện tích từ 5 000 $m^{2}$ trở lên,Cao từ 5 tầng trở lên hoặc khối tích từ 1 500 $m^{3}$ trở lên<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi chiều cao thấp hơn 5 tầng và khối tích nhỏ hơn 5 000 $m^{3}$)
+17.,"Cửa hàng điện máy, cửa hàng bách hóa, cửa hàng tiện ích và các cửa hàng kinh doanh hàng hóa chất dễ cháy $^{4)}$",,
+17.1.,"Có bố trí tại tầng hầm, tầng bán hầm",Diện tích từ 200 $m^{2}$ trở lên,Không phụ thuộc vào quy mô
+17.2.,Bố trí tại trên mặt đất,Chiều cao từ 25 m trở lên hoặc diện tích từ 3 500 $m^{2}$ trở lên,Cao từ 3 tầng trở lên hoặc khối tích từ 1 000 $m^{3}$ trở lên<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi chiều cao thấp hơn 5 tầng và khối tích nhỏ hơn 1 500 $m^{3}$)
+18.,"Nhà thương mại $^{5)}$ (ngoại trừ các nhà trưng bày bán xe ô tô), nhà hát, rạp chiếu phim, rạp xiếc",,
+18.1.,"Có bố trí tại tầng hàm, tầng bán hầm",Diện tích từ 200 $m^{2}$ trở lên,Không phụ thuộc vào quy mô
+18.2.,Bố trí tại trên mặt đất,,
+18.2.1.,"Một tầng, hai tầng",Diện tích từ 3 500 $m^{2}$ trở lên,Không phụ thuộc vào quy mô
+18.2.2.,Từ ba tầng trở lên,Không phụ thuộc vào quy mô,
+18.3.,"Nhà kinh doanh chất lỏng cháy và dễ cháy (ngoại trừ hàng hóa được được chứa trong các can, bình có thể tích chứa không lớn hơn 20 lít)",Không phụ thuộc vào quy mô,
+19.,"Các nhà thuộc mục 3, mục 10 đến mục 18 của bảng này có bậc chịu lửa IV-V",Diện tích từ 1 200 $m^{2}$ trở lên,Không phụ thuộc vào diện tích<br>(Cho phép trang bị thiết bị báo cháy cục bộ khi diện tích dưới 300 $m^{2}$)
+20.,"Nhà kinh doanh dịch vụ karaoke, vũ trường, quán bar, hộp đêm",,
+20.1.,"Có bố trí tại tầng hầm, tầng bán hầm",Không phụ thuộc vào quy mô,
+20.2.,Bố trí tại trên mặt đất,,
+20.2.1.,Một hoặc hai tầng,Diện tích từ 500 $m^{2}$ trở lên,Không phụ thuộc diện tích
+20.2.2.,Từ ba tầng trở lên,Không phụ thuộc diện tích,
+21.,Nhà cho mục đích tôn giáo,Chiều cao từ 25 m trở lên,Cao từ 4 tầng trở lên
+22.,"Bảo tàng, nhà triển lãm",,
+22.1.,"Có bố trí tại tầng hầm, tầng bán hầm",Diện tích từ 200 $m^{2}$ trở lên,Không phụ thuộc vào quy mô
+22.2.,Bố trí tại trên mặt đất,,
+22.2.1.,"Một tầng, hai tầng",Diện tích từ 1 000 $m^{2}$ trở lên,Không phụ thuộc vào quy mô
+22.2.2.,Từ ba tầng trở lên,Không phụ thuộc vào quy mô,
+23.,"Trạm, đội phòng cháy chữa cháy",Chiều cao từ 25 m trở lên,Cao từ 5 tầng trở lên hoặc khối tích từ 5 000 $m^{3}$ trở lên
+24.,"Nhà lưu giữ (gara), trưng bày ô tô, xe máy $^{6)}$",,
+24.1.,Dạng kín,,
+24.1.1.,"Đặt tại tầng hầm, tầng bán hầm hoặc trên mặt đất từ 02 tầng trở lên",Không phụ thuộc vào diện tích,
+24.1.2.,Một tầng trên mặt đất,,
+24.1.2.1.,"Có bậc chịu lửa I, II, III có cấp nguy hiểm cháy kết cấu của nhà S0",Diện tích từ 7 000 $m^{2}$ trở lên,Không phụ thuộc vào diện tích
+24.1.2.2.,"Có bậc chịu lửa I, II, III, có cấp nguy hiểm cháy kết cấu của nhà S1",Diện tích từ 3 600 $m^{2}$ trở lên,Không phụ thuộc vào diện tích
+24.1.2.3.,"Có bậc chịu lửa IV, có cấp nguy hiểm cháy kết cấu của nhà S0",Diện tích từ 3 600 $m^{2}$ trở lên,Không phụ thuộc vào diện tích
+24.1.2.4.,"Có bậc chịu lửa IV, có cấp nguy hiểm cháy kết cấu của nhà S1",Diện tích từ 2 000 $m^{2}$ trở lên,Không phụ thuộc vào diện tích
+24.1.2.5.,"Có bậc chịu lửa IV, có cấp nguy hiểm cháy kết cấu của nhà S2, S3",Diện tích từ 1 000 $m^{2}$ trở lên,Không phụ thuộc vào diện tích
+24.1.3.,Gara ô tô cơ khí,Không phụ thuộc vào quy mô,-
+24.2.,Dạng hở $^{7)}$,,
+24.2.1.,Có khoảng cách từ điểm bất kỳ đến cạnh để hở không lớn hơn 12 m,-,Diện tích từ 4 000 $m^{2}$ hoặc khối tích từ 15 000 $m^{3}$ trở lên hoặc cao trên 3 tầng
+24.2.2.,Có khoảng cách từ điểm bất kỳ đến cạnh để hở lớn hơn 12 m,Diện tích từ 4 000 $m^{2}$ hoặc khối tích từ 15 000 $m^{3}$ trở lên hoặc cao trên 3 tầng,Không phụ thuộc vào diện tích
+25.,"Trang trại chăn nuôi gia súc, gia cầm $^{8)}$",-,Diện tích từ 10 000 $m^{2}$ trở lên
+26.,Nhà chế biến và lưu trữ nông sản dạng hạt $^{8)}$,Diện tích từ 1 000 $m^{2}$ trở lên,Diện tích từ 500 $m^{2}$ trở lên
+27.,"Nhà kho hạng nguy hiểm cháy C sắp xếp hàng trên giá đỡ có chiều cao để hàng trên 5,5 m",Không phụ thuộc vào quy mô,
+28.,"Nhà kho hạng nguy hiểm cháy B, C cao từ 2 tầng trở lên",Không phụ thuộc vào quy mô,

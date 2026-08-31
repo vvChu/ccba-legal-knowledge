@@ -1,0 +1,306 @@
+standard: TCVN 5574 2018
+total_figures: 40
+figures:
+- figure_id: FIG_1
+  tag: '1'
+  title: Các biểu đồ biến dạng của bê tông khi nén
+  annex: MAIN
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  tag: '2'
+  title: Các biểu đồ biến dạng của cốt thép khi kéo
+  annex: MAIN
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_3
+  tag: '3'
+  title: Sơ đồ nội lực và biểu đồ ứng suất (tại trạng thái giới hạn) trong tiết diện
+    thẳng góc với trục dọc cấu kiện bê tông chịu nén lệch tâm khi tính toán độ bền
+    không kể đến cường độ chịu kéo của bê tông vùng chịu kéo
+  annex: MAIN
+  anchor: hinh-3
+  image_relpath: figures/images/hinh_3.png
+  has_image: true
+- figure_id: FIG_4
+  tag: '4'
+  title: Sơ đồ nội lực và biểu đồ ứng suất (tại trạng thái giới hạn) trong tiết diện
+    thẳng góc với trục dọc cấu kiện bê tông chịu uốn (chịu nén lệch tâm) khi tính
+    toán độ bền có kể đến cường độ chịu kéo của bê tông vùng chịu kéo
+  annex: MAIN
+  anchor: hinh-4
+  image_relpath: figures/images/hinh_4.png
+  has_image: true
+- figure_id: FIG_5
+  tag: '5'
+  title: Sơ đồ nội lực và biểu đồ ứng suất trong tiết diện thẳng góc với trục dọc
+    cấu kiện bê tông cốt thép chịu uốn khi tính toán theo độ bền
+  annex: MAIN
+  anchor: hinh-5
+  image_relpath: figures/images/hinh_5.png
+  has_image: true
+- figure_id: FIG_6
+  tag: '6'
+  title: Vị trí biên vùng chịu nén trên tiết diện của cấu kiện bê tông cốt thép chịu
+    uốn
+  annex: MAIN
+  anchor: hinh-6
+  image_relpath: figures/images/hinh_6.png
+  has_image: true
+- figure_id: FIG_7
+  tag: '7'
+  title: Sơ đồ nội lực và biểu đồ ứng suất trong tiết diện thẳng góc với trục dọc
+    cấu kiện bê tông cốt thép chịu nén lệch tâm khi tính toán độ bền
+  annex: MAIN
+  anchor: hinh-7
+  image_relpath: figures/images/hinh_7.png
+  has_image: true
+- figure_id: FIG_8
+  tag: '8'
+  title: Sơ đồ nội lực và biểu đồ ứng suất trên tiết diện thẳng góc với trục dọc cấu
+    kiện bê tông cốt thép chịu kéo lệch tâm khi tính toán tiết diện theo độ bền
+  annex: MAIN
+  anchor: hinh-8
+  image_relpath: figures/images/hinh_8.png
+  has_image: true
+- figure_id: FIG_9
+  tag: '9'
+  title: Sơ đồ tính toán tiết diện thẳng góc của cấu kiện bê tông cốt thép
+  annex: MAIN
+  anchor: hinh-9
+  image_relpath: figures/images/hinh_9.png
+  has_image: true
+- figure_id: FIG_10
+  tag: '10'
+  title: Sơ đồ nội lực khi tính toán cấu kiện bê tông cốt thép theo tiết diện nghiêng
+    chịu tác dụng của lực cắt
+  annex: MAIN
+  anchor: hinh-10
+  image_relpath: figures/images/hinh_10.png
+  has_image: true
+- figure_id: FIG_11
+  tag: '11'
+  title: Sơ đồ nội lực khi tính toán cấu kiện bê tông cốt thép theo tiết diện nghiêng
+    chịu mô men
+  annex: MAIN
+  anchor: hinh-11
+  image_relpath: figures/images/hinh_11.png
+  has_image: true
+- figure_id: FIG_12
+  tag: '12'
+  title: Sơ đồ nội lực trong tiết diện không gian khi tính toán chịu mô men xoắn
+  annex: MAIN
+  anchor: hinh-12
+  image_relpath: figures/images/hinh_12.png
+  has_image: true
+- figure_id: FIG_13
+  tag: '13'
+  title: Sơ đồ tính toán cấu kiện chịu nén cục bộ khi có tải trọng cục bộ tác dụng
+  annex: MAIN
+  anchor: hinh-13
+  image_relpath: figures/images/hinh_13.png
+  has_image: true
+- figure_id: FIG_14
+  tag: '14'
+  title: Mô hình quy ước để tính toán chọc thủng
+  annex: MAIN
+  anchor: hinh-14
+  image_relpath: figures/images/hinh_14.png
+  has_image: true
+- figure_id: FIG_15
+  tag: '15'
+  title: Sơ đồ đường bao tính toán của tiết diện ngang khi chọc thủng
+  annex: MAIN
+  anchor: hinh-15
+  image_relpath: figures/images/hinh_15.png
+  has_image: true
+- figure_id: FIG_16
+  tag: '16'
+  title: Sơ đồ đường bao tính toán khi có lỗ mở trong bản
+  annex: MAIN
+  anchor: hinh-16
+  image_relpath: figures/images/hinh_16.png
+  has_image: true
+- figure_id: FIG_17
+  tag: '17'
+  title: Sơ đồ tính toán chọc thủng của cấu kiện không có cốt thép ngang
+  annex: MAIN
+  anchor: hinh-17
+  image_relpath: figures/images/hinh_17.png
+  has_image: true
+- figure_id: FIG_18
+  tag: '18'
+  title: Sơ đồ tính toán chọc thủng của bản bê tông cốt thép có cốt thép ngang đặt
+    đều nhau theo phương đứng
+  annex: MAIN
+  anchor: hinh-18
+  image_relpath: figures/images/hinh_18.png
+  has_image: true
+- figure_id: FIG_19
+  tag: '19'
+  title: Sơ đồ nội lực tác dụng lên phần tử phẳng được tách ra với chiều rộng đơn
+    vị
+  annex: MAIN
+  anchor: hinh-19
+  image_relpath: figures/images/hinh_19.png
+  has_image: true
+- figure_id: FIG_20
+  tag: '20'
+  title: Sơ đồ nội lực tác dụng trong các lớp bê tông và cốt thép của phần tử phẳng
+    được tách ra của bản (ở đây quy ước không thể hiện nội lực ở các cạnh đối diện)
+  annex: MAIN
+  anchor: hinh-20
+  image_relpath: figures/images/hinh_20.png
+  has_image: true
+- figure_id: FIG_21
+  tag: '21'
+  title: Sơ đồ nội lực tác dụng lên phần tử phẳng được tách ra của tường có chiều
+    rộng đơn vị (quy ước không thể hiện nội lực ở phía đối diện)
+  annex: MAIN
+  anchor: hinh-21
+  image_relpath: figures/images/hinh_21.png
+  has_image: true
+- figure_id: FIG_22
+  tag: '22'
+  title: Sơ đồ trạng thái ứng suất - biến dạng của tiết diện cấu kiện khi kiểm tra
+    sự hình thành vết nứt
+  annex: MAIN
+  anchor: hinh-22
+  image_relpath: figures/images/hinh_22.png
+  has_image: true
+- figure_id: FIG_23
+  tag: '23'
+  title: Sơ đồ trạng thái ứng suất - biến dạng của cấu kiện có vết nứt
+  annex: MAIN
+  anchor: hinh-23
+  image_relpath: figures/images/hinh_23.png
+  has_image: true
+- figure_id: FIG_24
+  tag: '24'
+  title: Tiết diện ngang quy đổi và sơ đồ trạng thái ứng suất - biến dạng của cấu
+    kiện có vết nứt khi tính toán biến dạng cấu kiện dưới tác dụng của mô men uốn
+  annex: MAIN
+  anchor: hinh-24
+  image_relpath: figures/images/hinh_24.png
+  has_image: true
+- figure_id: FIG_25
+  tag: '25'
+  title: Sơ đồ nội lực và biểu đồ ứng suất trong tiết diện thẳng góc với trục dọc
+    cấu kiện ứng suất trước chịu uốn khi tính toán độ bền trong giai đoạn nén trước
+  annex: MAIN
+  anchor: hinh-25
+  image_relpath: figures/images/hinh_25.png
+  has_image: true
+- figure_id: FIG_26
+  tag: '26'
+  title: Sơ đồ tính toán tiết diện thẳng góc của cấu kiện bê tông cốt thép ứng suất
+    trước
+  annex: MAIN
+  anchor: hinh-26
+  image_relpath: figures/images/hinh_26.png
+  has_image: true
+- figure_id: FIG_27
+  tag: '27'
+  title: Tiết diện ngang quy đổi và sơ đồ trạng thái ứng suất - biến dạng khi tính
+    toán cấu kiện ứng suất trước chịu uốn có vết nứt theo biến dạng
+  annex: MAIN
+  anchor: hinh-27
+  image_relpath: figures/images/hinh_27.png
+  has_image: true
+- figure_id: FIG_28
+  tag: '28'
+  title: Neo bằng các thanh uốn chữ U
+  annex: MAIN
+  anchor: hinh-28
+  image_relpath: figures/images/hinh_28.png
+  has_image: true
+- figure_id: FIG_29
+  tag: '29'
+  title: Các nút giao dầm với cột
+  annex: MAIN
+  anchor: hinh-29
+  image_relpath: figures/images/hinh_29.png
+  has_image: true
+- figure_id: FIG_30
+  tag: '30'
+  title: Bố trí cốt thép gối tựa trong vùng hai dầm giao nhau
+  annex: MAIN
+  anchor: hinh-30
+  image_relpath: figures/images/hinh_30.png
+  has_image: true
+- figure_id: FIG_B_1
+  tag: B.1
+  title: Các biểu đồ biến dạng (dạng đường cong) của bê tông
+  annex: B
+  anchor: hinh-b_1
+  image_relpath: figures/images/hinh_b_1.png
+  has_image: true
+- figure_id: FIG_D_1
+  tag: D.1
+  title: Sơ đồ nội lực tác dụng lên chi tiết đặt sẵn
+  annex: D
+  anchor: hinh-d_1
+  image_relpath: figures/images/hinh_d_1.png
+  has_image: true
+- figure_id: FIG_F_1
+  tag: F.1
+  title: Sơ đồ tính toán tiết diện vành khuyên của cấu kiện chịu nén
+  annex: F
+  anchor: hinh-f_1
+  image_relpath: figures/images/hinh_f_1.png
+  has_image: true
+- figure_id: FIG_G_1
+  tag: G.1
+  title: Sơ đồ tính toán chốt bê tông truyền lực trượt từ cấu kiện lắp ghép sang bê
+    tông liền khối
+  annex: G
+  anchor: hinh-g_1
+  image_relpath: figures/images/hinh_g_1.png
+  has_image: true
+- figure_id: FIG_H_1
+  tag: H.1
+  title: Sơ đồ tính toán công xôn ngắn chịu tác dụng của lực cắt
+  annex: H
+  anchor: hinh-h_1
+  image_relpath: figures/images/hinh_h_1.png
+  has_image: true
+- figure_id: FIG_M_1
+  tag: M.1
+  title: Sơ đồ xác định các giá trị L (L1, L2, L3) khi có tường ngăn nằm giữa các
+    tường chịu lực
+  annex: M
+  anchor: hinh-m_1
+  image_relpath: figures/images/hinh_m_1.png
+  has_image: true
+- figure_id: FIG_F_2
+  tag: F.2
+  title: Sơ đồ tính toán tiết diện tròn của cấu kiện chịu nén lệch tâm
+  annex: F
+  anchor: hinh-f_2
+  image_relpath: figures/images/hinh_f_2.png
+  has_image: true
+- figure_id: FIG_H_2
+  tag: H.2
+  title: Sơ đồ tính toán công xôn ngắn khi dầm lắp ghép chạy dọc chiều dài vươn công
+    xôn và tựa khớp lên công xôn
+  annex: H
+  anchor: hinh-h_2
+  image_relpath: figures/images/hinh_h_2.png
+  has_image: true
+- figure_id: FIG_M_2
+  tag: M.2
+  title: Sơ đồ tính độ võng của kết cấu vì kèo khi có đường ray của cần trục treo
+  annex: M
+  anchor: hinh-m_2
+  image_relpath: figures/images/hinh_m_2.png
+  has_image: true
+- figure_id: FIG_M_3
+  tag: M.3
+  title: Sơ đồ độ lệch của mảng tường thuộc phạm vi các tầng, tiếp giáp với vách cứng
+    trong nhà khung giằng
+  annex: M
+  anchor: hinh-m_3
+  image_relpath: figures/images/hinh_m_3.png
+  has_image: true

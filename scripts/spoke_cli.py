@@ -102,15 +102,18 @@ def main() -> None:
     subparsers = parser.add_subparsers(dest="command", help="Command action")
 
     # Command: validate
-    subparsers.add_parser("validate", help="Run 10-Gate Master integrity and schema validation checks")
+    subparsers.add_parser("validate", help="Run 11-Gate Master integrity and schema validation checks")
 
     # Command: stats
     subparsers.add_parser("stats", help="Print total knowledge volume, clauses count, and QA benchmark metrics")
 
     # Command: ingest
-    ingest_parser = subparsers.add_parser("ingest", help="Ingest a .docx file into an OKF bundle")
+    ingest_parser = subparsers.add_parser("ingest", help="Ingest a .docx file into an OKF v2.4 bundle")
     ingest_parser.add_argument("docx_path", type=Path, help="Path to input .docx file")
     ingest_parser.add_argument("slug", type=str, help="Document slug (e.g. nghi_dinh_217_2026_nd_cp)")
+    ingest_parser.add_argument(
+        "-c", "--category", type=str, choices=["01_vbpl", "02_qcvn", "03_tcvn"], default="01_vbpl", help="Document category"
+    )
     ingest_parser.add_argument("-t", "--doc-type", type=str, default="vbpl", help="Document profile type (default: vbpl)")
 
     # Command: sync-notebooklm
@@ -154,7 +157,9 @@ def main() -> None:
         sys.exit(code)
 
     elif args.command == "ingest":
-        target_bundle_dir = root_dir / "legal_docs" / "01_vbpl" / args.slug
+        target_bundle_dir = root_dir / "legal_docs" / args.category / args.slug
+        sources_dir = target_bundle_dir / "sources"
+        sources_dir.mkdir(parents=True, exist_ok=True)
         res = convert_docx_to_okf_bundle(
             docx_path=args.docx_path,
             target_bundle_dir=target_bundle_dir,

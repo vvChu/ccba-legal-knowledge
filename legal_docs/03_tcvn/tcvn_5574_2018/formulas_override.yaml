@@ -1,0 +1,270 @@
+rId12:
+  formula_id: F_TCVN_5574_2018_FORMULA_5_6
+  latex: \begin{aligned} R_b &= \frac{R_{b,n}}{\gamma_b} \qquad (5) \\ R_{bt} &= \frac{R_{bt,n}}{\gamma_{bt}}
+    \qquad (6) \end{aligned}
+rId13:
+  formula_id: F_TCVN_5574_2018_FORMULA_7
+  latex: E_{b,\tau} = \frac{E_b}{1 + \varphi_{b,cr}} \tag{7}
+rId18:
+  formula_id: F_TCVN_5574_2018_FORMULA_14
+  latex: R_s = \frac{R_{s,n}}{\gamma_s}
+rId27:
+  formula_id: F_TCVN_5574_2018_FORMULA_24
+  latex: N \le \frac{R_{bt} A}{\frac{A}{I} e_0 \eta y_t - 1} \tag{24}
+rId29:
+  formula_id: F_TCVN_5574_2018_FORMULA_26
+  latex: \eta = \frac{1}{1 - \frac{N}{N_{cr}}} \tag{26}
+rId30:
+  formula_id: F_TCVN_5574_2018_FORMULA_27
+  latex: N_{cr} = \frac{\pi^2 D}{L_0^2} \tag{27}
+rId33:
+  formula_id: F_TCVN_5574_2018_FORMULA_31
+  latex: \xi_R = \frac{x_R}{h_0} = \frac{0,8}{1 + \frac{\varepsilon_{s,el}}{\varepsilon_{b2}}}
+    \tag{31}
+rId34:
+  formula_id: F_TCVN_5574_2018_FORMULA_32
+  latex: \varepsilon_{s,el} = \frac{R_s}{E_s} \tag{32}
+rId40:
+  formula_id: F_TCVN_5574_2018_FORMULA_36
+  latex: R_s A_s \le R_b b'_f h'_f + R_{sc} A'_s \tag{36}
+rId62:
+  formula_id: F_TCVN_5574_2018_FORMULA_39
+  latex: N e \le R_b b x (h_0 - 0,5x) + R_{sc} A'_s (h_0 - a')
+rId63:
+  formula_id: F_TCVN_5574_2018_FORMULA_40
+  latex: e = e_0 \eta + 0,5h - a
+rId66:
+  formula_id: F_TCVN_5574_2018_FORMULA_43
+  latex: x = \frac{N + R_s A_s \frac{1 + \xi_R}{1 - \xi_R} - R_{sc} A'_s}{R_b b +
+    \frac{2 R_s A_s}{h_0 (1 - \xi_R)}} \tag{43}
+rId138:
+  formula_id: F_TCVN_5574_2018_FORMULA_120
+  latex: N \le \psi R_{bs,loc} A_{b,loc}
+rId139:
+  formula_id: F_TCVN_5574_2018_FORMULA_121
+  latex: R_{bs,loc} = R_{b,loc} + 2 \varphi_{s,xy} R_{s,xy} \mu_{s,xy}
+rId140:
+  formula_id: F_TCVN_5574_2018_FORMULA_122
+  latex: \varphi_{s,xy} = \sqrt{\frac{A_{b,loc,ef}}{A_{b,loc}}}
+rId141:
+  formula_id: F_TCVN_5574_2018_FORMULA_123
+  latex: \mu_{s,xy} = \frac{n_x A_{sx} L_x + n_y A_{sy} L_y}{A_{b,\text{loc},\text{ef}}
+    s}
+rId185:
+  formula_id: F_TCVN_5574_2018_FORMULA_157
+  latex: M_{crc} = R_{bt,ser} W_{pl} \pm N e_x
+rId186:
+  formula_id: F_TCVN_5574_2018_FORMULA_158
+  latex: \psi_s = 1 - 0,8 \frac{M_{crc}}{M}
+rId203:
+  formula_id: F_TCVN_5574_2018_FORMULA_185
+  latex: \left(\frac{1}{r}\right) = \left(\frac{1}{r}\right)_1 - \left(\frac{1}{r}\right)_2
+    + \left(\frac{1}{r}\right)_3
+rId237:
+  formula_id: F_TCVN_5574_2018_FORMULA_176
+  latex: E_{s,red} = \frac{E_s}{\psi_s}
+rId238:
+  formula_id: F_TCVN_5574_2018_FORMULA_186
+  latex: \sigma_{sj} = \frac{E_{sj} \nu_{sj} \varepsilon_{sj}}{\psi_{sj}}
+rId240:
+  formula_id: F_TCVN_5574_2018_FORMULA_207
+  latex: \Delta \sigma_{sp1} = 0,1 \sigma_{sp} - 20
+rId241:
+  formula_id: F_TCVN_5574_2018_FORMULA_208
+  latex: \Delta \sigma_{sp1} = 0,03 \sigma_{sp}
+rId243:
+  formula_id: F_TCVN_5574_2018_FORMULA_210
+  latex: \Delta \sigma_{sp1} = 0,05 \sigma_{sp}
+rId244:
+  formula_id: F_TCVN_5574_2018_FORMULA_211
+  latex: \Delta \sigma_{sp2} = 1,25 \Delta t
+rId247:
+  formula_id: F_TCVN_5574_2018_FORMULA_217
+  latex: \Delta \sigma_{sp7} = \sigma_{sp} \left(1 - \frac{1}{e^{\omega x + \delta
+    \theta}}\right)
+rId254:
+  formula_id: F_TCVN_5574_2018_FORMULA_225
+  latex: \sigma_{bp} = \frac{P}{A_{red}} \pm \frac{P e_{0p} y}{I_{red}}
+rId255:
+  formula_id: F_TCVN_5574_2018_FORMULA_222
+  latex: l_p = \frac{\sigma_{sp} A_s}{R_{\text{bond}} u_s}
+rId258:
+  formula_id: F_TCVN_5574_2018_FORMULA_202
+  latex: \varepsilon_{s,el} = \frac{R_s + 400 - \sigma_{sp}}{E_s}
+rId267:
+  formula_id: F_TCVN_5574_2018_FORMULA_224
+  latex: N_p = (\sigma'_{sp} - 330) A'_{sp} + \sigma_{sp} A_{sp}
+rId273:
+  formula_id: F_TCVN_5574_2018_FORMULA_227
+  latex: N_p e_p \le R_b b x (h_0 - 0,5x) + R_{sc} A'_s (h_0 - a')
+rId274:
+  formula_id: F_TCVN_5574_2018_FORMULA_228
+  latex: e_p = e_{0p} + 0,5h - a \pm \frac{M}{N_p}
+rId277:
+  formula_id: F_TCVN_5574_2018_FORMULA_229
+  latex: x = \frac{N_p + R_s A_s - R_{sc} A'_s}{R_b b}
+rId278:
+  formula_id: F_TCVN_5574_2018_FORMULA_230
+  latex: x = \frac{N_p + R_s A_s \frac{1 + \xi_R}{1 - \xi_R} - R_{sc} A'_s}{R_b b
+    + R_s A_s \frac{2}{1 - \xi_R}}
+rId284:
+  formula_id: F_TCVN_5574_2018_FORMULA_231
+  latex: x = \frac{N_p + R_s A_s - R_{sc} A'_s - R_b (b'_f - b) h'_f}{R_b b}
+rId285:
+  formula_id: F_TCVN_5574_2018_FORMULA_232
+  latex: x = \frac{N_p + R_s A_s \frac{1 + \xi_R}{1 - \xi_R} - R_{sc} A'_s - R_b (b'_f
+    - b) h'_f}{R_b b + R_s A_s \frac{2}{1 - \xi_R}}
+rId292:
+  formula_id: F_TCVN_5574_2018_FORMULA_239
+  latex: \nu_{si} = \frac{\sigma_{si}}{E_{si} (\varepsilon_{si} + \varepsilon_{0si})}
+rId293:
+  formula_id: F_TCVN_5574_2018_FORMULA_242
+  latex: M_{crc} = R_{bt,ser} W_{pl} \pm P e_{core,p}
+rId296:
+  formula_id: F_TCVN_5574_2018_FORMULA_166
+  latex: \sigma_s = \left[ \frac{M_p (h_0 - y_c)}{I_{red}} - \frac{N_p}{A_{red}} \right]
+    \frac{E_s}{E_b}
+rId297:
+  formula_id: F_TCVN_5574_2018_FORMULA_247
+  latex: \sigma_s = \frac{M - N_p(z - e_{sp})}{z A_s}
+rId303:
+  formula_id: F_TCVN_5574_2018_FORMULA_249
+  latex: \frac{1}{r} = \frac{M - N_p z_p}{E_{s,red} A_s z (h_0 - x_N)}
+rId306:
+  formula_id: F_TCVN_5574_2018_FORMULA_244
+  latex: \sigma_{si} = \left( \frac{E_{si} \varepsilon_{si}}{\psi_{si}} + E_{si}\varepsilon_{0si}
+    \right)
+rId307:
+  formula_id: F_TCVN_5574_2018_FORMULA_248
+  latex: \sigma_{sj} = \frac{E_{sj} \varepsilon_{sj}}{\psi_{sj}}
+rId308:
+  formula_id: F_TCVN_5574_2018_FORMULA_246
+  latex: \psi_{si(j)} = \frac{1}{1 + 0,8 \frac{\varepsilon_{si(j),cr}}{\varepsilon_{si(j)}}}
+rId309:
+  formula_id: F_TCVN_5574_2018_FORMULA_253
+  latex: d_{s,red} = \sqrt{\sum_{1}^{n} d_{si}^{2}}
+rId310:
+  formula_id: F_TCVN_5574_2018_FORMULA_255
+  latex: l_{0,an} = \alpha \frac{R_s A_s}{R_{bond} u_s}
+rId312:
+  formula_id: F_TCVN_5574_2018_FORMULA_256
+  latex: R_{bond} = \eta_1 \eta_2 R_{bt}
+rId313:
+  formula_id: F_TCVN_5574_2018_FORMULA_257
+  latex: l_{an} = \alpha_1 l_{0,an} \frac{A_{s,cal}}{A_{s,ef}}
+rId314:
+  formula_id: F_TCVN_5574_2018_FORMULA_258
+  latex: N_s = R_s A_s \frac{l_s}{l_{an}} \le R_s A_s
+rId315:
+  formula_id: F_TCVN_5574_2018_FORMULA_259
+  latex: l_{lap} = \alpha_2 l_{0,an} \frac{A_{s,cal}}{A_{s,ef}}
+rId344:
+  formula_id: F_TCVN_5574_2018_FORMULA_D_2
+  latex: N_{\text{an}, j} = \frac{M}{z} + \frac{N}{n_{\text{an}}}
+rId345:
+  formula_id: F_TCVN_5574_2018_FORMULA_D_3
+  latex: Q_{\text{an},j} = \frac{Q - 0,3N'_{\text{an}}}{n_{\text{an}}}
+rId348:
+  formula_id: F_TCVN_5574_2018_FORMULA_D_4
+  latex: N'_{\text{an}} = \frac{M}{z} - \frac{N}{n_{\text{an}}}
+rId349:
+  formula_id: F_TCVN_5574_2018_FORMULA_D_5
+  latex: Q_{an,j,0} = \gamma_{s,sh} A_{an,j} \sqrt{R_b R_s}
+rId352:
+  formula_id: F_TCVN_5574_2018_FORMULA_D_7
+  latex: A_{an,inc} = \frac{Q - 0,3 N'_{an}}{R_s}
+rId374:
+  formula_id: F_TCVN_5574_2018_FORMULA_G_4
+  latex: \sin^2 \theta = \frac{h_0^2}{h_0^2 + L_1^2}
+rId384:
+  formula_id: F_TCVN_5574_2018_FORMULA_H_4
+  latex: N_s = \frac{M + \frac{Q L_{\text{sup}}}{2}}{h_{0b}}
+rId429:
+  formula_id: F_TCVN_5574_2018_FORMULA_M_2
+  latex: f_v = \frac{g(p + p_1 + q)}{30n^2(bp + p_1 + q)}
+rId430:
+  formula_id: F_TCVN_5574_2018_FORMULA_M_3
+  latex: \beta = 0,4 + 0,6\sqrt{A_l}
+rId14:
+  formula_id: F_TCVN_5574_2018_FORMULA_8_9_10
+  latex: '\begin{aligned} &\text{- Khi } 0 \le \varepsilon_b \le \varepsilon_{b1}:
+    \\ &\qquad\qquad \sigma_b = E_b \varepsilon_b \qquad (8) \\[6pt] &\text{- Khi
+    } \varepsilon_{b1} < \varepsilon_b < \varepsilon_{b0}: \\ &\qquad\qquad \sigma_b
+    = \left[ \left(1 - \frac{\sigma_{b1}}{R_b}\right) \frac{\varepsilon_b - \varepsilon_{b1}}{\varepsilon_{b0}
+    - \varepsilon_{b1}} + \frac{\sigma_{b1}}{R_b} \right] R_b \qquad (9) \\[6pt] &\text{-
+    Khi } \varepsilon_{b0} \le \varepsilon_b \le \varepsilon_{b2}: \\ &\qquad\qquad
+    \sigma_b = R_b \qquad (10) \end{aligned}'
+rId16:
+  formula_id: F_TCVN_5574_2018_FORMULA_11_12
+  latex: '\begin{aligned} &\text{- Khi } 0 \le \varepsilon_b \le \varepsilon_{b1}
+    \text{ (với } \varepsilon_{b1} = R_b/E_{b,\text{red}}): \\ &\qquad\qquad \sigma_b
+    = E_{b,\text{red}}\varepsilon_b \qquad (11) \\[6pt] &\text{- Khi } \varepsilon_{b1}
+    \le \varepsilon_b \le \varepsilon_{b2}: \\ &\qquad\qquad \sigma_b = R_b \qquad
+    (12) \end{aligned}'
+rId26:
+  formula_id: F_TCVN_5574_2018_FORMULA_22
+  latex: N \le R_b b x \tag{22}
+rId28:
+  formula_id: F_TCVN_5574_2018_FORMULA_25
+  latex: N \le \frac{R_{bt} bh}{\frac{6 e_0 \eta}{h} - 1} \tag{25}
+'28':
+  formula_id: F_TCVN_5574_2018_FORMULA_28
+  latex: M \le M_u \tag{28}
+'29':
+  formula_id: F_TCVN_5574_2018_FORMULA_29
+  latex: M_u = R_{bt} W \tag{29}
+'30':
+  formula_id: F_TCVN_5574_2018_FORMULA_30
+  latex: W = \frac{bh^2}{6} \tag{30}
+'34':
+  formula_id: F_TCVN_5574_2018_FORMULA_34
+  latex: M_u = R_b b x (h_0 - 0,5x) + R_{sc} A'_s (h_0 - a') \tag{34}
+'35':
+  formula_id: F_TCVN_5574_2018_FORMULA_35
+  latex: x = \frac{R_s A_s - R_{sc} A'_s}{R_b b} \tag{35}
+'36':
+  formula_id: F_TCVN_5574_2018_FORMULA_36
+  latex: R_s A_s \le R_b b'_f h'_f + R_{sc} A'_s \tag{36}
+'37':
+  formula_id: F_TCVN_5574_2018_FORMULA_37
+  latex: M_u = R_b b x (h_0 - 0,5x) + R_b (b'_f - b) h'_f (h_0 - 0,5 h'_f) + R_{sc}
+    A'_s (h_0 - a') \tag{37}
+'38':
+  formula_id: F_TCVN_5574_2018_FORMULA_38
+  latex: x = \frac{R_s A_s - R_{sc} A'_s - R_b (b'_f - b) h'_f}{R_b b} \tag{38}
+'43':
+  formula_id: F_TCVN_5574_2018_FORMULA_43
+  latex: x = \frac{N + R_s A_s \frac{1 + \xi_R}{1 - \xi_R} - R_{sc} A'_s}{R_b b +
+    \frac{2 R_s A_s}{h_0 (1 - \xi_R)}} \tag{43}
+rId68:
+  formula_id: F_TCVN_5574_2018_FORMULA_44
+  latex: \eta = \frac{1}{1 - \frac{N}{N_{cr}}} \tag{44}
+rId69:
+  formula_id: F_TCVN_5574_2018_FORMULA_45
+  latex: N_{cr} = \frac{\pi^2 D}{L_0^2} \tag{45}
+'53':
+  formula_id: F_TCVN_5574_2018_FORMULA_53
+  latex: N e \le M_u \tag{53}
+'54':
+  formula_id: F_TCVN_5574_2018_FORMULA_54
+  latex: N e' \le M'_u \tag{54}
+'55':
+  formula_id: F_TCVN_5574_2018_FORMULA_55
+  latex: M_u = R_s A_s (h_0 - a') \tag{55}
+'56':
+  formula_id: F_TCVN_5574_2018_FORMULA_56
+  latex: M'_u = R_s A'_s (h_0 - a') \tag{56}
+'57':
+  formula_id: F_TCVN_5574_2018_FORMULA_57
+  latex: M_u = R_b b x (h_0 - 0,5x) + R_{sc} A'_s (h_0 - a') \tag{57}
+'58':
+  formula_id: F_TCVN_5574_2018_FORMULA_58
+  latex: x = \frac{R_s A_s - R_{sc} A'_s - N}{R_b b} \tag{58}
+rId74:
+  latex: M'_u
+rId75:
+  latex: M'_u
+rId76:
+  latex: M'_u
+rId77:
+  latex: M'_u

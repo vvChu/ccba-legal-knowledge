@@ -14,7 +14,7 @@ sys.stderr.reconfigure(line_buffering=True, encoding="utf-8")
 # Define Pillar Classification Mapping
 PILLAR_MAPPING: dict[str, list[int]] = {
     "Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.4 Universal & Biểu Mẫu": [
-        1, 2, 3, 4, 5, 21, 22, 27, 28, 29, 30, 34, 36
+        1, 2, 3, 4, 5, 21, 22, 27, 28, 29, 30, 34, 36, 37
     ],
     "Trụ Cột 2: PDF Mỏ Neo Pháp Lý & Tri-Tier Cloud Vault (Acquisition, Anchoring & Vault)": [
         10, 16, 24, 25, 31, 35

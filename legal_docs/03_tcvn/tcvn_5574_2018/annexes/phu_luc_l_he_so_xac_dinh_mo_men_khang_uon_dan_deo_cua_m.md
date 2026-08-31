@@ -1,0 +1,34 @@
+
+<a id="phu-luc-l"></a>
+## PHỤ LỤC L  (Quy định)  HỆ SỐ XÁC ĐỊNH MÔ MEN KHÁNG UỐN ĐÀN DẺO CỦA MỘT SỐ TIẾT DIỆN
+
+
+<a id="bang-bang-l-1"></a>
+### Bảng L.1 - Giá trị hệ số γ
+
+| Tiết diện | Giá trị hệ số γ | Hình dạng tiết diện |
+| :--- | :---: | :--- |
+| 1. Chữ nhật | 1,30 |  |
+| 2. Chữ T có cánh nằm trong vùng chịu nén | 1,30 |  |
+| 3. Chữ T có cánh nằm trong vùng chịu kéo |  | $b, h, h_f, b_f$ |
+| a) Khi $b_{f}$/ b ≤ 2 không phụ thuộc vào tỉ số $h_{f}$/ h | 1,25 | $b, h, h_f, b_f$ |
+| b) Khi $b_{f}$/ b > 2 và $h_{f}$/ h ≥ 0,2 | 1,25 | $b, h, h_f, b_f$ |
+| c) Khi $b_{f}$/ b > 2 và $h_{f}$/ h < 0,2 | 1,20 | $b, h, h_f, b_f$ |
+| 4. Chữ I đối xứng (tiết diện hộp) |  | $b'_f, h'_f, b, b_f, h_f, h$ |
+| a) khi $b_f'/b = \bar{b}_f$ b ≤ 2 không phụ thuộc vào tỉ số $\dot{p}/h = p/h$ | 1,30 | $b'_f, h'_f, b, b_f, h_f, h$ |
+| b) khi 2 < $b_f'/b = \bar{b}_f$ b ≤ 6 không phụ thuộc vào tỉ số $\dot{p}/h = p/h$ | 1,25 | $b'_f, h'_f, b, b_f, h_f, h$ |
+| c) khi $b_f'/b = \bar{b}_f$ b > 6 và $\dot{p}/h = p/h$ ≥ 0,2 | 1,25 | $b'_f, h'_f, b, b_f, h_f, h$ |
+| d) khi 6 < $b_f'/b = \bar{b}_f$ b < 15 và $\dot{p}/h = p/h$ < 0,2 | 1,20 | $b'_f, h'_f, b, b_f, h_f, h$ |
+| e) Khi $b_f'/b = \bar{b}_f$ b ≥ 15 và $\dot{p}/h = p/h$ < 0,2 | 1,15 | $b'_f, h'_f, b, b_f, h_f, h$ |
+| 5. Chữ I không đối xứng, thỏa mãn điều kiện $b'/b$≤ 3: |  | $b'_f, h'_f, b, h_f, b_f, h$ |
+| a) Khi $b'/b$≤ 2 không phụ thuộc vào tỉ số $h_{f}$/ h | 1,30 | $b'_f, h'_f, b, h_f, b_f, h$ |
+| b) Khi 2 < $b_{f}$/ b ≤ 6 không phụ thuộc vào tỉ số $h_{f}$/ h | 1,25 | $b'_f, h'_f, b, h_f, b_f, h$ |
+| c) Khi $b_{f}$/ b > 6 và $h_{f}$/ h > 0,1 | 1,25 | $b'_f, h'_f, b, h_f, b_f, h$ |
+| 6. Chữ I không đối xứng, thỏa mãn điều kiện 3 < $b'/b$< 8: |  | $b'_f, \ h'_f, \ b, \ h, \ b_f, \ h_f$ |
+| a) Khi $b_{f}$/ b ≤ 4 không phụ thuộc vào tỉ số $h_{f}$/ h | 1,25 | $b'_f, \ h'_f, \ b, \ h, \ b_f, \ h_f$ |
+| b) Khi $b_{f}$/ b > 4 và $h_{f}$/ h ≥ 0,2 | 1,25 | $b'_f, \ h'_f, \ b, \ h, \ b_f, \ h_f$ |
+| c) Khi $b_{f}$/ b > 4 và $h_{f}$/ h < 0,2 | 1,20 | $b'_f, \ h'_f, \ b, \ h, \ b_f, \ h_f$ |
+| 7. Chữ I không đối xứng, thỏa mãn điều kiện $b'/b$≥ 8: |  | $b'_f, h'_f, b, h_f, b_f, h$ |
+| a) Khi $h_{f}$/h > 0,3 | 1,35 | $b'_f, h'_f, b, h_f, b_f, h$ |
+| b) Khi $h_{f}$/ h ≤ 0,3 | 1,30 | $b'_f, h'_f, b, h_f, b_f, h$ |
+

@@ -1,0 +1,27 @@
+{
+  "table_id": "bang_19",
+  "table_number": "19",
+  "table_title": "Bảng 19 - Chiều dày tối thiểu của lớp bê tông bảo vệ",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Điều kiện làm việc của kết cấu nhà": "1. Trong các gian phòng được che phủ với độ ẩm bình thường và thấp (không lớn hơn 75 %).",
+      "Chiều dày tối thiểu của lớp bê tông bảo vệ": "20"
+    },
+    {
+      "_row_id": 2,
+      "Điều kiện làm việc của kết cấu nhà": "2. Trong các gian phòng được che phủ với độ ẩm nâng cao (lớn hơn 75 %) (khi không có các biện pháp bảo vệ bổ sung).",
+      "Chiều dày tối thiểu của lớp bê tông bảo vệ": "25"
+    },
+    {
+      "_row_id": 3,
+      "Điều kiện làm việc của kết cấu nhà": "3. Ngoài trời (khi không có các biện pháp bảo vệ bổ sung).",
+      "Chiều dày tối thiểu của lớp bê tông bảo vệ": "30"
+    },
+    {
+      "_row_id": 4,
+      "Điều kiện làm việc của kết cấu nhà": "4. Trong đất (khi không có các biện pháp bảo vệ bổ sung), trong móng khi có lớp bê tông lót.",
+      "Chiều dày tối thiểu của lớp bê tông bảo vệ": "40"
+    }
+  ]
+}

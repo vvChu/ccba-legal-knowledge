@@ -55,3 +55,9 @@ legal_docs/**/sources/*.docx
 legal_docs/**/*.pdf
 legal_docs/**/*.docx
 
+# Caches
+.md/cache/formula_vision/
+.md/cache/vision/
+
+
+

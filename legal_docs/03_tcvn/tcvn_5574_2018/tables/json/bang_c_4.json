@@ -1,0 +1,159 @@
+{
+  "table_id": "bang_c_4",
+  "table_number": "C.4",
+  "table_title": "Bảng C.4 - Cốt thép thanh cường độ cao",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Giới hạn chảy dùng để so sánh, MPa": "835",
+      "Ký hiệu thép (và/hoặc đường kính)": "Thanh 1030",
+      "Tiêu chuẩn sản phẩm": "TCVN 6284-5:1997 (ISO 6934-5:1991)",
+      "Giới hạn chảy quy ước, MPa": "835 min.",
+      "Giới hạn bền, MPa": "1 030 min."
+    },
+    {
+      "_row_id": 2,
+      "Giới hạn chảy dùng để so sánh, MPa": "930",
+      "Ký hiệu thép (và/hoặc đường kính)": "Thanh 1080",
+      "Tiêu chuẩn sản phẩm": "TCVN 6284-5:1997 (ISO 6934-5:1991)",
+      "Giới hạn chảy quy ước, MPa": "930 min.",
+      "Giới hạn bền, MPa": "1 080 min."
+    },
+    {
+      "_row_id": 3,
+      "Giới hạn chảy dùng để so sánh, MPa": "930",
+      "Ký hiệu thép (và/hoặc đường kính)": "Thanh 1180",
+      "Tiêu chuẩn sản phẩm": "TCVN 6284-5:1997 (ISO 6934-5:1991)",
+      "Giới hạn chảy quy ước, MPa": "930 min.",
+      "Giới hạn bền, MPa": "1 180 min."
+    },
+    {
+      "_row_id": 4,
+      "Giới hạn chảy dùng để so sánh, MPa": "1 080",
+      "Ký hiệu thép (và/hoặc đường kính)": "Thanh 1230",
+      "Tiêu chuẩn sản phẩm": "TCVN 6284-5:1997 (ISO 6934-5:1991)",
+      "Giới hạn chảy quy ước, MPa": "1 080 min.",
+      "Giới hạn bền, MPa": "1 230 min."
+    },
+    {
+      "_row_id": 5,
+      "Giới hạn chảy dùng để so sánh, MPa": "785",
+      "Ký hiệu thép (và/hoặc đường kính)": "A-V (A800)",
+      "Tiêu chuẩn sản phẩm": "GOST 5781-82*",
+      "Giới hạn chảy quy ước, MPa": "785 min.",
+      "Giới hạn bền, MPa": "1 030 min."
+    },
+    {
+      "_row_id": 6,
+      "Giới hạn chảy dùng để so sánh, MPa": "980",
+      "Ký hiệu thép (và/hoặc đường kính)": "A-VI (A1000)",
+      "Tiêu chuẩn sản phẩm": "GOST 5781-82*",
+      "Giới hạn chảy quy ước, MPa": "980 min.",
+      "Giới hạn bền, MPa": "1 230 min."
+    },
+    {
+      "_row_id": 7,
+      "Giới hạn chảy dùng để so sánh, MPa": "800",
+      "Ký hiệu thép (và/hoặc đường kính)": "$A_{T}$-V(AT800)",
+      "Tiêu chuẩn sản phẩm": "GOST 10884-94",
+      "Giới hạn chảy quy ước, MPa": "800 min.",
+      "Giới hạn bền, MPa": "1 000 min."
+    },
+    {
+      "_row_id": 8,
+      "Giới hạn chảy dùng để so sánh, MPa": "1 000",
+      "Ký hiệu thép (và/hoặc đường kính)": "$A_{T}$-VI (AT1000)",
+      "Tiêu chuẩn sản phẩm": "GOST 10884-94",
+      "Giới hạn chảy quy ước, MPa": "1 000 min.",
+      "Giới hạn bền, MPa": "1 250 min"
+    },
+    {
+      "_row_id": 9,
+      "Giới hạn chảy dùng để so sánh, MPa": "1 200",
+      "Ký hiệu thép (và/hoặc đường kính)": "$A_{T}$-VII (AT1200)",
+      "Tiêu chuẩn sản phẩm": "GOST 10884-94",
+      "Giới hạn chảy quy ước, MPa": "1 200 min.",
+      "Giới hạn bền, MPa": "1 450 min"
+    },
+    {
+      "_row_id": 10,
+      "Giới hạn chảy dùng để so sánh, MPa": "785",
+      "Ký hiệu thép (và/hoặc đường kính)": "SBPR 785/1030",
+      "Tiêu chuẩn sản phẩm": "JIS G 3109-1994",
+      "Giới hạn chảy quy ước, MPa": "785 min.",
+      "Giới hạn bền, MPa": "1 030 min."
+    },
+    {
+      "_row_id": 11,
+      "Giới hạn chảy dùng để so sánh, MPa": "930",
+      "Ký hiệu thép (và/hoặc đường kính)": "SBPR 930/1080",
+      "Tiêu chuẩn sản phẩm": "JIS G 3109-1994",
+      "Giới hạn chảy quy ước, MPa": "930 min.",
+      "Giới hạn bền, MPa": "1 080 min."
+    },
+    {
+      "_row_id": 12,
+      "Giới hạn chảy dùng để so sánh, MPa": "930",
+      "Ký hiệu thép (và/hoặc đường kính)": "SBPR 930/1180",
+      "Tiêu chuẩn sản phẩm": "JIS G 3109-1994",
+      "Giới hạn chảy quy ước, MPa": "930 min.",
+      "Giới hạn bền, MPa": "1 180 min."
+    },
+    {
+      "_row_id": 13,
+      "Giới hạn chảy dùng để so sánh, MPa": "1 080",
+      "Ký hiệu thép (và/hoặc đường kính)": "SBPR 1080/1230",
+      "Tiêu chuẩn sản phẩm": "JIS G 3109-1994",
+      "Giới hạn chảy quy ước, MPa": "1 080 min.",
+      "Giới hạn bền, MPa": "1 230 min."
+    },
+    {
+      "_row_id": 14,
+      "Giới hạn chảy dùng để so sánh, MPa": "835",
+      "Ký hiệu thép (và/hoặc đường kính)": "RE (RR)-1030",
+      "Tiêu chuẩn sản phẩm": "BS 4486:1980",
+      "Giới hạn chảy quy ước, MPa": "835 min.",
+      "Giới hạn bền, MPa": "1 030 min."
+    },
+    {
+      "_row_id": 15,
+      "Giới hạn chảy dùng để so sánh, MPa": "835",
+      "Ký hiệu thép (và/hoặc đường kính)": "Y1030H",
+      "Tiêu chuẩn sản phẩm": "EN 10138-4",
+      "Giới hạn chảy quy ước, MPa": "835 min.",
+      "Giới hạn bền, MPa": "1 030 min."
+    },
+    {
+      "_row_id": 16,
+      "Giới hạn chảy dùng để so sánh, MPa": "900",
+      "Ký hiệu thép (và/hoặc đường kính)": "Y1100H",
+      "Tiêu chuẩn sản phẩm": "EN 10138-4",
+      "Giới hạn chảy quy ước, MPa": "900 min.",
+      "Giới hạn bền, MPa": "1 100 min."
+    },
+    {
+      "_row_id": 17,
+      "Giới hạn chảy dùng để so sánh, MPa": "1 080",
+      "Ký hiệu thép (và/hoặc đường kính)": "Y1230H",
+      "Tiêu chuẩn sản phẩm": "EN 10138-4",
+      "Giới hạn chảy quy ước, MPa": "1 080 min.",
+      "Giới hạn bền, MPa": "1 230 min."
+    },
+    {
+      "_row_id": 18,
+      "Giới hạn chảy dùng để so sánh, MPa": "880",
+      "Ký hiệu thép (và/hoặc đường kính)": "gr. 1035 type I",
+      "Tiêu chuẩn sản phẩm": "ASTM A722M-98 (2003)",
+      "Giới hạn chảy quy ước, MPa": "880 min.",
+      "Giới hạn bền, MPa": "1 035 min."
+    },
+    {
+      "_row_id": 19,
+      "Giới hạn chảy dùng để so sánh, MPa": "830",
+      "Ký hiệu thép (và/hoặc đường kính)": "gr. 1035 type II",
+      "Tiêu chuẩn sản phẩm": "ASTM A722M-98 (2003)",
+      "Giới hạn chảy quy ước, MPa": "830 min.",
+      "Giới hạn bền, MPa": "1 035 min."
+    }
+  ]
+}

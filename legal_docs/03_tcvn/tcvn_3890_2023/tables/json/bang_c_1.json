@@ -1,0 +1,205 @@
+{
+  "table_id": "bang_c_1",
+  "table_number": "C.1",
+  "table_title": "Bảng C.1 - Quy định về trang bị hệ thống cấp nước chữa cháy ngoài nhà",
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1.",
+      "Loại nhà, công trình": "Đô thị, khu kinh tế, khu công nghiệp, cụm công nghiệp, khu chế xuất, khu công nghệ cao và các khu chức năng khác theo quy định của pháp luật hiện hành thuộc thẩm quyền phê duyệt của cấp huyện trở lên [5]",
+      "Quy mô": "Không phụ thuộc quy mô"
+    },
+    {
+      "_row_id": 2,
+      "TT": "2.",
+      "Loại nhà, công trình": "Nhà dưỡng lão, nhà chăm sóc người khuyết tật",
+      "Quy mô": "Không phụ thuộc quy mô"
+    },
+    {
+      "_row_id": 3,
+      "TT": "3.",
+      "Loại nhà, công trình": "Trụ sở cơ quan nhà nước các cấp, nhà làm việc của doanh nghiệp, tổ chức chính trị, xã hội, nhà văn hóa, nhà cho mục đích tôn giáo.",
+      "Quy mô": "Cao từ 6 tầng trở lên hoặc khối tích từ 5 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 4,
+      "TT": "4.",
+      "Loại nhà, công trình": "Nhà chung cư, nhà tập thể, nhà ở ký túc xá, nhà hỗn hợp",
+      "Quy mô": "Cao từ 6 tầng trở lên hoặc khối tích từ 5 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 5,
+      "TT": "5.",
+      "Loại nhà, công trình": "Nhà trẻ, trường mẫu giáo, mầm non",
+      "Quy mô": "Từ 100 cháu trở lên hoặc khối tích 3 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 6,
+      "TT": "6.",
+      "Loại nhà, công trình": "Trường học và các cơ sở giáo dục khác (ngoại trừ nhà trẻ)",
+      "Quy mô": "Cao từ 3 tầng trở lên hoặc khối tích từ 5 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 7,
+      "TT": "7.",
+      "Loại nhà, công trình": "Nhà khám, chữa bệnh, lưu trú bệnh nhân của bệnh viện, trạm y tế, phòng khám, nhà điều dưỡng, phục hồi chức năng, chỉnh hình, cơ sở phòng chống dịch bệnh, trung tâm y tế, cơ sở y tế khác theo quy định của pháp luật hiện hành [3]",
+      "Quy mô": "Cao từ 3 tầng trở lên hoặc khối tích từ 3 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 8,
+      "TT": "8.",
+      "Loại nhà, công trình": "Nhà hát, rạp chiếu phim, rạp xiếc",
+      "Quy mô": "Không phụ thuộc quy mô"
+    },
+    {
+      "_row_id": 9,
+      "TT": "9.",
+      "Loại nhà, công trình": "Trung tâm hội nghị, tổ chức sự kiện",
+      "Quy mô": "Không phụ thuộc quy mô"
+    },
+    {
+      "_row_id": 10,
+      "TT": "10.",
+      "Loại nhà, công trình": "Thẩm mỹ viện, kinh doanh dịch vụ xoa bóp",
+      "Quy mô": "Khối tích từ 1 500 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 11,
+      "TT": "11.",
+      "Loại nhà, công trình": "Câu lạc bộ, công viên giải trí, vườn thú, thủy cung",
+      "Quy mô": "Cao từ 6 tầng trở lên hoặc diện tích từ 10 000 $m^{2}$ trở lên"
+    },
+    {
+      "_row_id": 12,
+      "TT": "12.",
+      "Loại nhà, công trình": "Nhà kinh doanh dịch vụ karaoke, vũ trường, quán bar, hộp đêm",
+      "Quy mô": "Cao từ 3 tầng trở lên hoặc khối tích từ 1 500 $m^{3}$ trở lên hoặc bố trí trong tầng hầm, tầng bán hầm"
+    },
+    {
+      "_row_id": 13,
+      "TT": "13.",
+      "Loại nhà, công trình": "Chợ, trung tâm thương mại, siêu thị",
+      "Quy mô": "Không phụ thuộc vào quy mô"
+    },
+    {
+      "_row_id": 14,
+      "TT": "14.",
+      "Loại nhà, công trình": "Cửa hàng điện máy, cửa hàng bách hóa, cửa hàng tiện ích, cửa hàng tiện ích và các cửa hàng kinh doanh hàng hóa chất dễ cháy",
+      "Quy mô": "Khối tích từ 5 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 15,
+      "TT": "15.",
+      "Loại nhà, công trình": "Nhà hàng, cửa hàng ăn uống",
+      "Quy mô": "Cao từ 5 tầng trở lên hoặc khối tích từ 5 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 16,
+      "TT": "16.",
+      "Loại nhà, công trình": "Khách sạn, nhà khách, nhà nghỉ, nhà trọ, cơ sở lưu trú khác được thành lập theo quy định của pháp luật hiện hành [1]",
+      "Quy mô": "Cao từ 6 tầng trở lên hoặc khối tích từ 5 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 17,
+      "TT": "17.",
+      "Loại nhà, công trình": "Bảo tàng, thư viện, triển lãm, nhà trưng bày, nhà lưu trữ, nhà sách, nhà hội chợ",
+      "Quy mô": "Khối tích từ 5 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 18,
+      "TT": "18.",
+      "Loại nhà, công trình": "Bưu điện, cơ sở truyền thanh, truyền hình, viễn thông, nhà lắp đặt thiết bị thông tin, trung tâm lưu trữ, quản lý dữ liệu",
+      "Quy mô": "Cao từ 6 tầng trở lên hoặc khối tích từ 5 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 19,
+      "TT": "19.",
+      "Loại nhà, công trình": "Sân vận động",
+      "Quy mô": "Cao từ 6 tầng trở lên hoặc khối tích từ 5 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 20,
+      "TT": "20.",
+      "Loại nhà, công trình": "Nhà thi đấu thể thao, cung thể thao trong nhà, trung tâm thể dục, thể thao, trường đua, trường bắn, cơ sở thể thao khác được thành lập theo theo quy định của pháp luật hiện hành [6], [8]",
+      "Quy mô": "Cao từ 6 tầng trở lên hoặc khối tích từ 5 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 21,
+      "TT": "21.",
+      "Loại nhà, công trình": "Cảng hàng không; đài kiểm soát không lưu; bến cảng biển; cảng cạn; cảng thủy nội địa;",
+      "Quy mô": "Không phụ thuộc quy mô"
+    },
+    {
+      "_row_id": 22,
+      "TT": "22.",
+      "Loại nhà, công trình": "Nhà chờ bến xe ô tô, nhà ga đường sắt, nhà chờ cáp treo vận chuyển người, trạm dừng nghỉ",
+      "Quy mô": "Cao từ 6 tầng trở lên hoặc khối tích từ 5 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 23,
+      "TT": "23.",
+      "Loại nhà, công trình": "Các hạng mục thành phần của Công trình tàu điện ngầm; cơ sở đăng kiểm phương tiện giao thông cơ giới, cửa hàng kinh doanh, sửa chữa, bảo dưỡng ô tô, mô tô, xe máy",
+      "Quy mô": "Cao từ 6 tầng trở lên hoặc khối tích từ 5 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 24,
+      "TT": "24.",
+      "Loại nhà, công trình": "Nhà lưu giữ (gara), trưng bày, bảo dưỡng ô tô, xe máy",
+      "Quy mô": "Khối tích từ 3 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 25,
+      "TT": "25.",
+      "Loại nhà, công trình": "Cơ sở hạt nhân; cơ sở sản xuất, kinh doanh, bảo quản, vật liệu nổ công nghiệp và tiền chất thuốc nổ; kho vật liệu nổ công nghiệp, tiền chất thuốc nổ; cảng xuất, nhập vật liệu nổ công nghiệp, tiền chất thuốc nổ; kho vũ khí, công cụ hỗ trợ; cơ sở khai thác, chế biến, sản xuất, vận chuyển, kinh doanh, bảo quản dầu mỏ và sản phẩm dầu mỏ, khí đốt trên đất liền; kho dầu mỏ và sản phẩm dầu mỏ, kho khí đốt; cảng xuất, nhập dầu mỏ và sản phẩm dầu mỏ, khí đốt; cửa hàng kinh doanh xăng dầu;",
+      "Quy mô": "Không phụ thuộc quy mô"
+    },
+    {
+      "_row_id": 26,
+      "TT": "26.",
+      "Loại nhà, công trình": "Cơ sở khai thác, chế biến, sản xuất, vận chuyển, kinh doanh, bảo quản dầu mỏ và sản phẩm dầu mỏ, khí đốt trên đất liền; kho dầu mỏ và sản phẩm dầu mỏ, kho khí đốt; cảng xuất, nhập dầu mỏ và sản phẩm dầu mỏ, khí đốt; cửa hàng kinh doanh xăng dầu; cửa hàng kinh doanh chất lỏng dễ cháy; cơ sở kinh doanh khí đốt",
+      "Quy mô": "Không phụ thuộc quy mô"
+    },
+    {
+      "_row_id": 27,
+      "TT": "27.",
+      "Loại nhà, công trình": "Cơ sở công nghiệp, nhà sản xuất, nhà kho và các công trình có công năng tương tự",
+      "Quy mô": ""
+    },
+    {
+      "_row_id": 28,
+      "TT": "27.1.",
+      "Loại nhà, công trình": "Hạng nguy hiểm cháy, nổ A, B, C",
+      "Quy mô": "Diện tích từ 300 $m^{2}$ hoặc khối tích từ 1 500 $m^{3}$ hoặc cao từ 2 tầng trở lên"
+    },
+    {
+      "_row_id": 29,
+      "TT": "27.2.",
+      "Loại nhà, công trình": "Hạng nguy hiểm cháy, nổ D, E",
+      "Quy mô": "Diện tích từ 500 $m^{2}$ hoặc khối tích từ 2 500 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 30,
+      "TT": "28.",
+      "Loại nhà, công trình": "Trạm biến áp",
+      "Quy mô": "Điện áp từ 110 kV trở lên"
+    },
+    {
+      "_row_id": 31,
+      "TT": "29.",
+      "Loại nhà, công trình": "Nhà máy điện",
+      "Quy mô": "Không phụ thuộc quy mô"
+    },
+    {
+      "_row_id": 32,
+      "TT": "30.",
+      "Loại nhà, công trình": "Hầm có hoạt động sản xuất, bảo quản, sử dụng chất cháy, nổ",
+      "Quy mô": "Khối tích từ 1 000 $m^{3}$ trở lên"
+    },
+    {
+      "_row_id": 33,
+      "TT": "31.",
+      "Loại nhà, công trình": "Nhà kho hàng hóa, vật tư cháy được hoặc có bao bì cháy được",
+      "Quy mô": "Khối tích từ 3 000 $m^{3}$ trở lên"
+    }
+  ]
+}

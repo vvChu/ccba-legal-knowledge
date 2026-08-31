@@ -1,0 +1,31 @@
+{
+  "table_id": "bang_08",
+  "table_number": "8",
+  "table_title": "Bảng 8 - Cường độ chịu kéo tính toán của bê tông đối với các trạng thái giới hạn thứ nhất $R_{bt}$",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cường độ": "Cường độ",
+      "Bê tông": "Bê tông",
+      "Giá trị của $R_{bt}$ khi cấp cường độ chịu kéo của bê tông bằng": "$B_{t}$0,8",
+      "col_4": "$B_{t}$1,2",
+      "col_5": "$B_{t}$1,6",
+      "col_6": "$B_{t}$2,0",
+      "col_7": "$B_{t}$2,4",
+      "col_8": "$B_{t}$2,8",
+      "col_9": "$B_{t}$3,2"
+    },
+    {
+      "_row_id": 2,
+      "Cường độ": "Chịu kéo dọc trục $R_{bt}$",
+      "Bê tông": "Bê tông nặng, bê tông hạt nhỏ và bê tông tự ứng suất",
+      "Giá trị của $R_{bt}$ khi cấp cường độ chịu kéo của bê tông bằng": "0,62",
+      "col_4": "0,93",
+      "col_5": "1,25",
+      "col_6": "1,55",
+      "col_7": "1,85",
+      "col_8": "2,15",
+      "col_9": "2,45"
+    }
+  ]
+}

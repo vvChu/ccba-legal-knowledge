@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_h_1",
+  "table_number": "H.1",
+  "table_title": "Bảng H.1 - Quy định về trang bị phương tiện, dụng cụ chữa cháy ban đầu",
+  "rows": [
+    {
+      "_row_id": 1,
+      "STT": "1.",
+      "Tên hạng mục công trình": "Kho, cửa hàng chứa hàng hóa là chất lỏng có nhiệt độ bắt cháy > 45°C",
+      "Thùng cát, $m^{3}$": "1 $m^{3}$ trên mỗi 350 $m^{2}$ sàn",
+      "Xẻng, chiếc": "2 chiếc trên mỗi 350 $m^{2}$ sàn",
+      "Chăn sợi 1x2(m), chiếc": "1 chiếc trên mỗi 350 $m^{2}$ sàn"
+    },
+    {
+      "_row_id": 2,
+      "STT": "2.",
+      "Tên hạng mục công trình": "Phân xưởng sản xuất, chế biến có sử dụng thiết bị cơ khí, lò sấy, máy hàn",
+      "Thùng cát, $m^{3}$": "",
+      "Xẻng, chiếc": "1 chiếc trên mỗi 200 $m^{2}$ sàn",
+      "Chăn sợi 1x2(m), chiếc": ""
+    }
+  ]
+}

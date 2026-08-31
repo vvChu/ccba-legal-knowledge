@@ -1,0 +1,42 @@
+{
+  "table_id": "bang_01",
+  "title": "Bảng 1 - Quy định lắp đặt đầu báo cháy khói kiểu điểm",
+  "data": [
+    [
+      "Độ cao của khu vực bảo vệ (m)",
+      "Diện tích bảo vệ trung bình của một đầu báo cháy (m2)",
+      "Khoảng cách tối đa (m)",
+      "Khoảng cách tối đa (m)"
+    ],
+    [
+      "Độ cao của khu vực bảo vệ (m)",
+      "Diện tích bảo vệ trung bình của một đầu báo cháy (m2)",
+      "Giữa các đầu báo cháy",
+      "Từ đầu báo cháy đến tường nhà"
+    ],
+    [
+      "Đến 3,5",
+      "Đến 85",
+      "9,0",
+      "4,5"
+    ],
+    [
+      "Lớn hơn 3,5 đến 6,0",
+      "Đến 70",
+      "8,5",
+      "4,0"
+    ],
+    [
+      "Lớn hơn 6,0 đến 10",
+      "Đến 65",
+      "8,0",
+      "4,0"
+    ],
+    [
+      "Lớn hơn 10 đến 12",
+      "Đến 55",
+      "7,5",
+      "3,5"
+    ]
+  ]
+}

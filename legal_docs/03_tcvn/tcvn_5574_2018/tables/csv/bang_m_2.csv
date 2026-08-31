@@ -1,0 +1,5 @@
+﻿Loại phòng<br>(theo Bảng 3 của TCVN 2737:1995),p<br>kPa,$p_{1}$<br>kPa,n<br>Hz,b
+"Mục 1, 2, ngoại trừ phòng sinh hoạt và lớp học; Mục 4, 6b, 14b, 18b","0,25",Lấy theo Bảng 3 của TCVN 2737:1995,"1,5",$125 \sqrt{\frac{Q}{\alpha p a L}}$
+"Mục 2: phòng học và phòng sinh hoạt;<br>Mục 7, 8 ngoại trừ phòng khiêu vũ, khán đài;<br>Mục 14a, 15, 18a, 20","0,50",Lấy theo Bảng 3 của TCVN 2737:1995,"1,5",$125 \sqrt{\frac{Q}{\alpha p a L}}$
+"Mục 8: phòng khiêu vũ, khán đài;<br>Mục 9","1,50","0,2","2,0",50
+"Các ký hiệu trong bảng:<br>Q  là trọng lượng của một người lấy bằng 0,8 kN.<br>α  là hệ số, lấy bằng 1,0 đối với cấu kiện tính theo sơ đồ dầm và bằng 0,6 đối với các cấu kiện còn lại (ví dụ, khi bản sàn kê theo ba hoặc bốn cạnh).<br>a  là bước dầm, xà, chiều rộng của bản sàn, tính bằng mét (m).<br>L  là nhịp tính toán của cấu kiện, tính bằng mét (m).",,,,

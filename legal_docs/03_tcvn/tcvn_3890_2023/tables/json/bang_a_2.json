@@ -1,0 +1,112 @@
+{
+  "table_id": "bang_a_2",
+  "table_number": "A.2",
+  "table_title": "Bảng A.2 - Đối với hạng mục/khu vực",
+  "rows": [
+    {
+      "_row_id": 1,
+      "STT": "1.",
+      "Hạng mục/khu vực": "Hạng mục cáp $^{1)}$ của nhà máy điện (không bao gồm phần cáp đặt ở ngoài nhà, công trình)",
+      "Hệ thống chữa cháy tự động": "Không phụ thuộc vào quy mô",
+      "Hệ thống báo cháy tự động": ""
+    },
+    {
+      "_row_id": 2,
+      "STT": "2.",
+      "Hạng mục/khu vực": "Hạng mục cáp $^{1)}$ của trạm biến áp (không bao gồm phần cáp đặt ở ngoài nhà, công trình)",
+      "Hệ thống chữa cháy tự động": "",
+      "Hệ thống báo cháy tự động": ""
+    },
+    {
+      "_row_id": 3,
+      "STT": "2.1.",
+      "Hạng mục/khu vực": "Có điện áp từ 500 kV trở lên",
+      "Hệ thống chữa cháy tự động": "Không phụ thuộc vào quy mô",
+      "Hệ thống báo cháy tự động": ""
+    },
+    {
+      "_row_id": 4,
+      "STT": "2.2.",
+      "Hạng mục/khu vực": "Có điện áp dưới 500 kV.",
+      "Hệ thống chữa cháy tự động": "-",
+      "Hệ thống báo cháy tự động": "Không phụ thuộc vào quy mô"
+    },
+    {
+      "_row_id": 5,
+      "STT": "3.",
+      "Hạng mục/khu vực": "Hạng mục cáp $^{1)}$ của trạm biến áp có điện áp 110-220kV (không bao gồm phần cáp đặt ở ngoài nhà, công trình) với máy biến áp có công suất:",
+      "Hệ thống chữa cháy tự động": "",
+      "Hệ thống báo cháy tự động": ""
+    },
+    {
+      "_row_id": 6,
+      "STT": "3.1.",
+      "Hạng mục/khu vực": "Từ 63 MVA trở lên",
+      "Hệ thống chữa cháy tự động": "Không phụ thuộc vào quy mô",
+      "Hệ thống báo cháy tự động": ""
+    },
+    {
+      "_row_id": 7,
+      "STT": "3.2.",
+      "Hạng mục/khu vực": "Dưới 63 MVA",
+      "Hệ thống chữa cháy tự động": "-",
+      "Hệ thống báo cháy tự động": "Không phụ thuộc vào quy mô"
+    },
+    {
+      "_row_id": 8,
+      "STT": "4.",
+      "Hạng mục/khu vực": "Hầm cáp trong nhà sản xuất và nhà dân dụng trong đó đặt cáp hoặc dây dẫn có điện áp từ 220V trở lên:",
+      "Hệ thống chữa cháy tự động": "",
+      "Hệ thống báo cháy tự động": ""
+    },
+    {
+      "_row_id": 9,
+      "STT": "4.1.",
+      "Hạng mục/khu vực": "Khối tích hầm trên 100 $m^{3}$",
+      "Hệ thống chữa cháy tự động": "Từ 12 sợi trở lên",
+      "Hệ thống báo cháy tự động": "Từ 5 sợi trở lên"
+    },
+    {
+      "_row_id": 10,
+      "STT": "4.2.",
+      "Hạng mục/khu vực": "Khối tích hầm từ 10 $m^{3}$ đến 100 $m^{3}$",
+      "Hệ thống chữa cháy tự động": "-",
+      "Hệ thống báo cháy tự động": "Từ 5 sợi trở lên"
+    },
+    {
+      "_row_id": 11,
+      "STT": "5.",
+      "Hạng mục/khu vực": "Băng tải kín vận chuyển nguyên vật liệu dễ cháy",
+      "Hệ thống chữa cháy tự động": "Chiều dài từ 25 m trở lên",
+      "Hệ thống báo cháy tự động": ""
+    },
+    {
+      "_row_id": 12,
+      "STT": "6.",
+      "Hạng mục/khu vực": "Khoảng không gian phía trên trần giả hoặc dưới sàn nâng của các khu vực $^{2)}$ trong các gian phòng, nhà thuộc diện trang bị hệ thống chữa cháy tự động và/hoặc hệ thống báo cháy tự động) $^{3)}$ có:",
+      "Hệ thống chữa cháy tự động": "",
+      "Hệ thống báo cháy tự động": ""
+    },
+    {
+      "_row_id": 13,
+      "STT": "6.1.",
+      "Hạng mục/khu vực": "Đường ống kỹ thuật được bọc bằng vật liệu có tính cháy Ch2-Ch4, không phụ thuộc khối lượng",
+      "Hệ thống chữa cháy tự động": "Không phụ thuộc vào diện tích và thể tích",
+      "Hệ thống báo cháy tự động": ""
+    },
+    {
+      "_row_id": 14,
+      "STT": "6.2.",
+      "Hạng mục/khu vực": "Máng cáp (bó cáp) có điện áp từ 220V trở lên và tổng thể tích chất cháy thuộc nhóm Ch2 đến Ch4 từ 0,007 $m^{3}$/mét chiều dài trở lên",
+      "Hệ thống chữa cháy tự động": "Không phụ thuộc vào diện tích và thể tích",
+      "Hệ thống báo cháy tự động": ""
+    },
+    {
+      "_row_id": 15,
+      "STT": "6.3.",
+      "Hạng mục/khu vực": "Máng cáp (bó cáp) có điện áp từ 220V trở lên và tổng thể tích chất cháy thuộc nhóm Ch2 đến Ch4 từ 0,0015 $m^{3}$ đến dưới 0,007 $m^{3}$/mét chiều dài",
+      "Hệ thống chữa cháy tự động": "-",
+      "Hệ thống báo cháy tự động": "Không phụ thuộc vào diện tích và thể tích"
+    }
+  ]
+}

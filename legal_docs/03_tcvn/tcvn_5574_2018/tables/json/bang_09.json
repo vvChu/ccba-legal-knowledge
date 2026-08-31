@@ -1,0 +1,57 @@
+{
+  "table_id": "bang_09",
+  "table_number": "9",
+  "table_title": "Bảng 9 - Biến dạng tương đối của bê tông khi có tác dụng dài hạn của tải trọng",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Độ ẩm tương đối của không khí môi trường xung quanh,%": "Độ ẩm tương đối của không khí môi trường xung quanh,%",
+      "Biến dạng tương đối của bê tông khi có tác dụng dài hạn của tải trọng": "Khi nén",
+      "col_3": "Khi kéo",
+      "col_4": "",
+      "col_5": "",
+      "col_6": "",
+      "col_7": ""
+    },
+    {
+      "_row_id": 2,
+      "Độ ẩm tương đối của không khí môi trường xung quanh,%": "Độ ẩm tương đối của không khí môi trường xung quanh,%",
+      "Biến dạng tương đối của bê tông khi có tác dụng dài hạn của tải trọng": "$\\epsilon_{b0}$",
+      "col_3": "$\\epsilon_{b2}$",
+      "col_4": "$\\epsilon_{b1,red}$",
+      "col_5": "$\\epsilon_{bt0}$",
+      "col_6": "$\\epsilon_{bt2}$",
+      "col_7": "$\\epsilon_{bt1,red}$"
+    },
+    {
+      "_row_id": 3,
+      "Độ ẩm tương đối của không khí môi trường xung quanh,%": "Cao hơn 75",
+      "Biến dạng tương đối của bê tông khi có tác dụng dài hạn của tải trọng": "0,0030",
+      "col_3": "0,0042",
+      "col_4": "0,0024",
+      "col_5": "0,00021",
+      "col_6": "0,00027",
+      "col_7": "0,00019"
+    },
+    {
+      "_row_id": 4,
+      "Độ ẩm tương đối của không khí môi trường xung quanh,%": "Từ 40 đến 75",
+      "Biến dạng tương đối của bê tông khi có tác dụng dài hạn của tải trọng": "0,0034",
+      "col_3": "0,0048",
+      "col_4": "0,0028",
+      "col_5": "0,00024",
+      "col_6": "0,00031",
+      "col_7": "0,00022"
+    },
+    {
+      "_row_id": 5,
+      "Độ ẩm tương đối của không khí môi trường xung quanh,%": "Thấp hơn 40",
+      "Biến dạng tương đối của bê tông khi có tác dụng dài hạn của tải trọng": "0,0040",
+      "col_3": "0,0056",
+      "col_4": "0,0034",
+      "col_5": "0,00028",
+      "col_6": "0,00036",
+      "col_7": "0,00026"
+    }
+  ]
+}

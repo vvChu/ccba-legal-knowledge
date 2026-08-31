@@ -1,0 +1,39 @@
+{
+  "table_id": "bang_m_2",
+  "table_number": "M.2",
+  "table_title": "Bảng M.2 - Các hệ số p, $p_{1}$, n, b",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng(theo Bảng 3 của TCVN 2737:1995)": "Mục 1, 2, ngoại trừ phòng sinh hoạt và lớp học; Mục 4, 6b, 14b, 18b",
+      "pkPa": "0,25",
+      "$p_{1}$kPa": "Lấy theo Bảng 3 của TCVN 2737:1995",
+      "nHz": "1,5",
+      "b": "$125 \\sqrt{\\frac{Q}{\\alpha p a L}}$"
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng(theo Bảng 3 của TCVN 2737:1995)": "Mục 2: phòng học và phòng sinh hoạt;Mục 7, 8 ngoại trừ phòng khiêu vũ, khán đài;Mục 14a, 15, 18a, 20",
+      "pkPa": "0,50",
+      "$p_{1}$kPa": "Lấy theo Bảng 3 của TCVN 2737:1995",
+      "nHz": "1,5",
+      "b": "$125 \\sqrt{\\frac{Q}{\\alpha p a L}}$"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng(theo Bảng 3 của TCVN 2737:1995)": "Mục 8: phòng khiêu vũ, khán đài;Mục 9",
+      "pkPa": "1,50",
+      "$p_{1}$kPa": "0,2",
+      "nHz": "2,0",
+      "b": "50"
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng(theo Bảng 3 của TCVN 2737:1995)": "Các ký hiệu trong bảng:Q  là trọng lượng của một người lấy bằng 0,8 kN.α  là hệ số, lấy bằng 1,0 đối với cấu kiện tính theo sơ đồ dầm và bằng 0,6 đối với các cấu kiện còn lại (ví dụ, khi bản sàn kê theo ba hoặc bốn cạnh).a  là bước dầm, xà, chiều rộng của bản sàn, tính bằng mét (m).L  là nhịp tính toán của cấu kiện, tính bằng mét (m).",
+      "pkPa": "",
+      "$p_{1}$kPa": "",
+      "nHz": "",
+      "b": ""
+    }
+  ]
+}

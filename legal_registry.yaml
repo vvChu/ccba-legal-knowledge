@@ -2,11 +2,11 @@ version: 0.3.0
 updated_at: '2026-08-17T17:30:00Z'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 35
+  total_documents: 37
   categories:
     01_vbpl: 24
-    02_qcvn: 6
-    03_tcvn: 2
+    02_qcvn: 5
+    03_tcvn: 5
     04_appendices: 3
 documents: {}
 laws:
@@ -834,10 +834,15 @@ standards:
   source_file: .md/extracted_docs/tcvn_7336_2021/tcvn_7336_2021.docx
   source_file_size_kb: 167.9
   sha256: 4b68e9986b2401826bc59b8d27771eccecaefea7592473468ab03b733d3ab2e8
-  pdf_path: legal_docs/03_tcvn/tcvn_7336_2021/tcvn_7336_2021.pdf
+  pdf_path: legal_docs/03_tcvn/tcvn_7336_2021/sources/tcvn_7336_2021.pdf
   pdf_sha256: 77bb1cad1efdaefae6f32baddf238351aa1ef6309735532625cbf5fd608e596f
   cong_bao_number: TCVN
   pdf_status: verified
+  source_assets:
+    pdf:
+      sha256: 77bb1cad1efdaefae6f32baddf238351aa1ef6309735532625cbf5fd608e596f
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7336_2021/tcvn_7336_2021.pdf
+      status: verified
 - id: TCVN-2737-2023
   document_number: TCVN 2737:2023
   title: TCVN 2737:2023 Tải trọng và tác động
@@ -850,7 +855,78 @@ standards:
   source_file: .md/extracted_docs/tcvn_2737_2023/tcvn_2737_2023.docx
   source_file_size_kb: 5957.2
   sha256: ae8d99a6e567d1f9864487bc7b9e0158ce0d3a7ee90677b42db8f1b9fccda6b5
-  pdf_path: legal_docs/03_tcvn/tcvn_2737_2023/tcvn_2737_2023.pdf
+  pdf_path: legal_docs/03_tcvn/tcvn_2737_2023/sources/tcvn_2737_2023.pdf
   pdf_sha256: 8f134e4476b7c03b3dcd9f5b81a9b4525378757b356c0b7541f32e9fd0b206f8
   cong_bao_number: TCVN
   pdf_status: verified
+  source_assets:
+    pdf:
+      sha256: 8f134e4476b7c03b3dcd9f5b81a9b4525378757b356c0b7541f32e9fd0b206f8
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_2737_2023/tcvn_2737_2023.pdf
+      status: verified
+- id: TCVN-3890-2023
+  document_number: TCVN 3890:2023
+  title: TCVN 3890:2023 Phòng cháy và chữa cháy - Phương tiện phòng cháy và chữa cháy cho nhà và công trình - Trang bị, bố trí
+  type: Tiêu chuẩn quốc gia
+  issued_by: Bộ Khoa học và Công nghệ
+  issued_date: '2023-02-28'
+  effective_date: '2023-02-28'
+  status: active
+  bundle_path: legal_docs/03_tcvn/tcvn_3890_2023/
+  source_file: legal_docs/03_tcvn/tcvn_3890_2023/sources/tcvn_3890_2023.docx
+  source_file_size_kb: 107.0
+  sha256: 0cea22adf1c8241c9a41c0b8843eebd111b8afba7704498d7be87048106b0fbe
+  pdf_path: legal_docs/03_tcvn/tcvn_3890_2023/sources/tcvn_3890_2023.pdf
+  pdf_sha256: 1c22384f4a212eeb14b60e5dd12e9ab6dcac8c778fb1cf2a1c5865a4090c5e73
+  cong_bao_number: TCVN
+  pdf_status: verified
+  source_assets:
+    pdf:
+      sha256: 1c22384f4a212eeb14b60e5dd12e9ab6dcac8c778fb1cf2a1c5865a4090c5e73
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_3890_2023/tcvn_3890_2023.pdf
+      status: verified
+- id: TCVN-5738-2021
+  document_number: TCVN 5738:2021
+  title: TCVN 5738:2021 Phòng cháy chữa cháy - Hệ thống báo cháy tự động - Yêu cầu kỹ thuật
+  type: Tiêu chuẩn quốc gia
+  issued_by: Bộ Khoa học và Công nghệ
+  issued_date: '2021-12-29'
+  effective_date: '2021-12-29'
+  status: active
+  bundle_path: legal_docs/03_tcvn/tcvn_5738_2021/
+  source_file: legal_docs/03_tcvn/tcvn_5738_2021/sources/tcvn_5738_2021.docx
+  source_file_size_kb: 143.4
+  sha256: ae3c6382be521a2e598d613283ede57989beece24f9eb81d48a29322c99aeee0
+  pdf_path: legal_docs/03_tcvn/tcvn_5738_2021/sources/tcvn_5738_2021.pdf
+  pdf_sha256: 3c572562ff90cfc8d49c1aaa62c60bca81aaa5fe3f89202374a7701ba3727d0a
+  cong_bao_number: TCVN
+  pdf_status: verified
+  source_assets:
+    pdf:
+      sha256: 3c572562ff90cfc8d49c1aaa62c60bca81aaa5fe3f89202374a7701ba3727d0a
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5738_2021/tcvn_5738_2021.pdf
+      status: verified
+- id: TCVN-5574-2018
+  document_number: TCVN 5574:2018
+  title: TCVN 5574:2018 Thiết kế kết cấu bê tông và bê tông cốt thép
+  type: Tiêu chuẩn quốc gia
+  issued_by: Bộ Khoa học và Công nghệ
+  issued_date: '2018-12-28'
+  effective_date: '2018-12-28'
+  status: active
+  bundle_path: legal_docs/03_tcvn/tcvn_5574_2018/
+  source_file: legal_docs/03_tcvn/tcvn_5574_2018/sources/tcvn_5574_2018.docx
+  source_file_size_kb: 2228.3
+  sha256: 2a26b68bdb7e1b3d18c3ef7dc549e32115ee2ccc5580fd32c126ee1ecddd53fc
+  pdf_path: legal_docs/03_tcvn/tcvn_5574_2018/sources/tcvn_5574_2018.pdf
+  pdf_sha256: f12480db0a68005fa4f48a20ac328727a369ef2c1b60e5b3c9ac78c9da41279a
+  cong_bao_number: TCVN
+  pdf_status: verified
+  source_assets:
+    pdf:
+      sha256: f12480db0a68005fa4f48a20ac328727a369ef2c1b60e5b3c9ac78c9da41279a
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5574_2018/tcvn_5574_2018.pdf
+      status: verified
+
+
+

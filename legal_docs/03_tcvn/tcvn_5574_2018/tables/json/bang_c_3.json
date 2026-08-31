@@ -1,0 +1,47 @@
+{
+  "table_id": "bang_c_3",
+  "table_number": "C.3",
+  "table_title": "Bảng C.3 - Dây thép vuốt nguội cường độ thấp",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Giới hạn chảy dùng để so sánh, MPa": "500",
+      "Ký hiệu thép (và/hoặc đường kính)": "5 đến 12",
+      "Tiêu chuẩn sản phẩm": "TCVN 6288:1997 (ISO 10544:1992)",
+      "Giới hạn chảy quy ước, MPa": "500 min.",
+      "Giới hạn bền, MPa": "550 min."
+    },
+    {
+      "_row_id": 2,
+      "Giới hạn chảy dùng để so sánh, MPa": "500",
+      "Ký hiệu thép (và/hoặc đường kính)": "Bp-I (3,0; 4,0; 5,0)",
+      "Tiêu chuẩn sản phẩm": "GOST 6727:1980*",
+      "Giới hạn chảy quy ước, MPa": "500 min.",
+      "Giới hạn bền, MPa": "550 min."
+    },
+    {
+      "_row_id": 3,
+      "Giới hạn chảy dùng để so sánh, MPa": "500",
+      "Ký hiệu thép (và/hoặc đường kính)": "Các loại đường kính",
+      "Tiêu chuẩn sản phẩm": "JIS G 3532-2000",
+      "Giới hạn chảy quy ước, MPa": "500 min.",
+      "Giới hạn bền, MPa": "550 min."
+    },
+    {
+      "_row_id": 4,
+      "Giới hạn chảy dùng để so sánh, MPa": "450",
+      "Ký hiệu thép (và/hoặc đường kính)": "Trơn",
+      "Tiêu chuẩn sản phẩm": "ASTM A1064/A1064M-10",
+      "Giới hạn chảy quy ước, MPa": "450 min.",
+      "Giới hạn bền, MPa": "520 min."
+    },
+    {
+      "_row_id": 5,
+      "Giới hạn chảy dùng để so sánh, MPa": "480",
+      "Ký hiệu thép (và/hoặc đường kính)": "Vằn",
+      "Tiêu chuẩn sản phẩm": "ASTM A1064/A1064M-10",
+      "Giới hạn chảy quy ước, MPa": "480 min.",
+      "Giới hạn bền, MPa": "550 min."
+    }
+  ]
+}

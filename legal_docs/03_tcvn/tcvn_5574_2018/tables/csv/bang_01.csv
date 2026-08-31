@@ -1,0 +1,24 @@
+﻿Bê tông,Cấp cường độ chịu nén,
+Bê tông nặng,"B3,5; B5; B7,5; B10; B12,5; B15; B20; B25; B30; B35; B40; B45; B50; B55; B60; B70; B80; B90; B100",
+Bê tông tự ứng suất,B20; B25; B30; B35; B40; B45; B50; B55; B60; B70,
+Bê tông hạt nhỏ nhóm:,A - đóng rắn tự nhiên hoặc gia công nhiệt dưới áp suất khí quyển,"B3,5; B5; B7,5; B10; B12,5; B15; B20; B25; B30; B35; B40"
+Bê tông hạt nhỏ nhóm:,B - gia công chưng áp,B15; B20; B25; B30; B35; B40; B45; B50; B55; B60
+Bê tông nhẹ với mác khối lượng thể tích trung bình:,"D800, D900","B2,5; B3,5; B5; B7,5"
+Bê tông nhẹ với mác khối lượng thể tích trung bình:,"D1000, D1100","B2,5; B3,5; B5; B7,5; B10; B12,5"
+Bê tông nhẹ với mác khối lượng thể tích trung bình:,"D1200, D1300","B2,5; B3,5; B5; B7,5; B10; B12.5; B15; B20"
+Bê tông nhẹ với mác khối lượng thể tích trung bình:,"D1400, D1500","B3,5; B5; B7,5; B10; B12,5; B15; B20; B25; B30"
+Bê tông nhẹ với mác khối lượng thể tích trung bình:,"D1600, D1700","B7,5; B10; B12,5; B15; B20; B25; B30; B35; B40"
+Bê tông nhẹ với mác khối lượng thể tích trung bình:,"D1800, D1900",B15; B20; B25; B30; B35; B40
+Bê tông nhẹ với mác khối lượng thể tích trung bình:,D2000,B25; B30; B35; B40
+Bê tông tổ ong với mác khối lượng thể tích trung bình:,Chưng áp,Không chưng áp
+D500,"B1,5; B2; B2,5",-
+D600,"B1,5; B2; B2,5; B3,5","B1,5; B2"
+D700,"B2; B2,5; B3,5; B5","B1,5; B2; B2,5"
+D800,"B2,5; B3,5; B5; B7,5","B2; B2,5; B3,5"
+D900,"B3,5; B5; B7,5; B10","B2,5; B3,5; B5"
+D1000,"B7,5; B10; B12,5","B5; B7,5"
+D1100,"B10; B12,5; B15; B17,5","B7,5; B10"
+D1200,"B12.5; B15; B17,5; B20","B10; B12,5"
+Bê tông rỗng với mác khối lượng thể tích trung bình:,"D800, D900, D1000","B2,5; B3,5; B5"
+Bê tông rỗng với mác khối lượng thể tích trung bình:,"D1100, D1200, D1300","B7,5"
+Bê tông rỗng với mác khối lượng thể tích trung bình:,D1400,"B3,5; B5; B7,5"

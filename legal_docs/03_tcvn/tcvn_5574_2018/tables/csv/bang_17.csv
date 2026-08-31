@@ -1,0 +1,13 @@
+﻿Loại cốt thép,Tiêu chuẩn,"Giá trị $a_{crc,u}$ của vết nứt",
+Loại cốt thép,Tiêu chuẩn,Dài hạn,Ngắn hạn
+1. Theo điều kiện đảm bảo tính toàn vẹn cho cốt thép,,,
+"CB240-T, CB300-T",TCVN 1651-1:2008,"0,3","0,4"
+"CB300-V, CB400-V, CB500-V, CB600-V",TCVN 1651-2:2018,"0,3","0,4"
+Dây thép vuốt nguội,TCVN 6288:1997<br>(ISO 10544:1992),"0,3","0,4"
+"Cốt thép thanh cường độ cao (có giới hạn chảy quy ước 835, 930 và 1 080 MPa)",TCVN 6284-5:1997 (ISO 6934-5:1991),"0,2","0,3"
+Dây thép kéo nguội cường độ cao,TCVN 6284-2:1997<br>(ISO 6394-2:1991),"0,2","0,3"
+"Cáp 7 sợi đường kính 12,4 mm trở lên",TCVN 6284-4:1997<br>(ISO 6934-4:1991),"0,2","0,3"
+Cáp 19 sợi,TCVN 6284-4:1997<br>(ISO 6934-4:1991),"0,2","0,3"
+"Cáp 7 sợi đường kính nhỏ hơn 12,4 mm",TCVN 6284-4:1997<br>(ISO 6934-4:1991),"0,1","0,2"
+2. Theo điều kiện hạn chế thấm cho kết cấu,,,
+,-,"0,2","0,3"

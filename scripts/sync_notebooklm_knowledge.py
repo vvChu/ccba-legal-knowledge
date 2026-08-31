@@ -122,6 +122,29 @@ def get_canonical_manifest(
                         }
                     )
 
+            # 4. Toàn bộ Phụ lục Kỹ thuật Quy phạm (annexes/) theo ADR 0036
+            annex_dir = bundle_dir / "annexes"
+            if annex_dir.exists():
+                for af in sorted(annex_dir.glob("**/*.md")):
+                    if str(af) in seen_paths or af.name == "index.md":
+                        continue
+                    content = af.read_text(encoding="utf-8")
+                    sha = hashlib.sha256(content.encode("utf-8")).hexdigest()
+                    seen_paths.add(str(af))
+                    sources.append(
+                        {
+                            "id": f"{slug}_{af.stem}",
+                            "title": f"Phụ lục {af.stem} ({slug})",
+                            "type": "Technical Normative Annex",
+                            "category": "annexes",
+                            "file_path": af,
+                            "rel_path": af.relative_to(root_dir),
+                            "size_bytes": af.stat().st_size,
+                            "word_count": len(content.split()),
+                            "sha256": sha,
+                        }
+                    )
+
     # 4. Các Bảng so sánh đối chiếu quy chuẩn độc lập (Internal Matrix)
     legal_docs = root_dir / "legal_docs"
     if legal_docs.exists():
@@ -238,9 +261,9 @@ async def execute_sync(
         print("-----------------------------------------------------------------")
         print("👉 HƯỚNG DẪN ĐĂNG NHẬP LẠI (Chỉ cần làm 1 lần):")
         print("   Mở cửa sổ PowerShell hoặc CMD bên ngoài và chạy lệnh:")
-        print("   python scripts/notebooklm_login_fix.py")
+        print("   python -m ccba_legal login")
         print("   (hoặc chạy: python -m notebooklm login)")
-        print("   Sau khi trình duyệt đăng nhập xong, bấm ENTER để lưu token.")
+        print("   Sau khi trình duyệt đăng nhập xong, phiên làm việc sẽ được lưu tự động.")
         print("=" * 65)
         return 2
 

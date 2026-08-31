@@ -1,0 +1,119 @@
+{
+  "table_id": "bang_f_1",
+  "table_number": "F.1",
+  "table_title": "Bảng F.1 - Quy định về trang bị mặt nạ lọc độc và mặt nạ phòng độc cách ly",
+  "rows": [
+    {
+      "_row_id": 1,
+      "STT": "1.",
+      "Đối tượng": "Khách sạn, nhà khách, nhà nghỉ; nhà trọ, và cơ sở lưu trú khác theo quy định [1] (ngoại trừ bãi cắm trại du lịch) cao từ 3 tầng trở lên",
+      "Quy mô": "Không phụ thuộc quy mô",
+      "Số lượng, chiếc": "Trang bị mặt nạ lọc độc tại tất cả các tầng nhà với định mức 1 chiếc/1 người (bao gồm cả khách lưu trú và nhân viên phục vụ có mặt thường xuyên)"
+    },
+    {
+      "_row_id": 2,
+      "STT": "2.",
+      "Đối tượng": "Cơ sở kinh doanh dịch vụ karaoke, vũ trường, quán bar, hộp đêm",
+      "Quy mô": "Không phụ thuộc quy mô",
+      "Số lượng, chiếc": "Trang bị mặt nạ lọc độc tại tất cả các tầng nhà. Số lượng mặt nạ trên một tầng được tính toán theo số người có mặt đồng thời trong một phòng có diện tích lớn nhất của tầng đó với định mức 01 người/chiếc"
+    },
+    {
+      "_row_id": 3,
+      "STT": "3.",
+      "Đối tượng": "Cơ sở hạt nhân.",
+      "Quy mô": "Không phụ thuộc quy mô",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    },
+    {
+      "_row_id": 4,
+      "STT": "4.",
+      "Đối tượng": "Cảng hàng không, cảng biển.",
+      "Quy mô": "Không phụ thuộc quy mô",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    },
+    {
+      "_row_id": 5,
+      "STT": "5.",
+      "Đối tượng": "Cơ sở khai thác và chế biến dầu mỏ, khí đốt.",
+      "Quy mô": "Không phụ thuộc quy mô",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    },
+    {
+      "_row_id": 6,
+      "STT": "6.",
+      "Đối tượng": "Cơ sở khai thác than.",
+      "Quy mô": "Không phụ thuộc quy mô",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    },
+    {
+      "_row_id": 7,
+      "STT": "7.",
+      "Đối tượng": "Cơ sở sản xuất, kho vũ khí, vật liệu nổ",
+      "Quy mô": "Không phụ thuộc quy mô",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    },
+    {
+      "_row_id": 8,
+      "STT": "8.",
+      "Đối tượng": "Kho dự trữ cấp quốc gia; kho dầu mỏ, sản phẩm dầu mỏ",
+      "Quy mô": "Tổng dung tích 15 000 $m^{3}$ trở lên",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    },
+    {
+      "_row_id": 9,
+      "STT": "9.",
+      "Đối tượng": "Nhà máy thủy điện",
+      "Quy mô": "Công suất 300 MW trở lên",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    },
+    {
+      "_row_id": 10,
+      "STT": "10.",
+      "Đối tượng": "nhà máy nhiệt điện",
+      "Quy mô": "Công suất 200 MW trở lên",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    },
+    {
+      "_row_id": 11,
+      "STT": "11.",
+      "Đối tượng": "Cơ sở sản xuất giấy",
+      "Quy mô": "Công suất 35 000 tấn/ năm trở lên",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    },
+    {
+      "_row_id": 12,
+      "STT": "12.",
+      "Đối tượng": "Cơ sở dệt",
+      "Quy mô": "Công suất 25 triệu $m^{2}$/năm trở lên",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    },
+    {
+      "_row_id": 13,
+      "STT": "13.",
+      "Đối tượng": "Cơ sở sản xuất phân đạm",
+      "Quy mô": "Công suất 180 000 tấn/năm trở lên",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    },
+    {
+      "_row_id": 14,
+      "STT": "14.",
+      "Đối tượng": "Khu công nghiệp, khu chế xuất, khu công nghệ cao, cụm công nghiệp",
+      "Quy mô": "Diện tích từ 50 ha trở lên",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    },
+    {
+      "_row_id": 15,
+      "STT": "15.",
+      "Đối tượng": "Nhà cao tầng",
+      "Quy mô": "Cao từ 75 m trở lên hoặc có 2 tầng hầm trở lên",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    },
+    {
+      "_row_id": 16,
+      "STT": "16.",
+      "Đối tượng": "Rạp hát, rạp chiếu phim",
+      "Quy mô": "Không phụ thuộc quy mô",
+      "Số lượng, chiếc": "Trang bị tối thiểu 03 bộ mặt nạ phòng độc cách ly"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿"Nhà, tường và tường ngăn","Liên kết giữa tường, tường ngăn với khung nhà",Chuyển vị giới hạn $f_{u}$,
+1. Nhà nhiều tầng,Bất kỳ,h/500,
+2. Một tầng của nhà nhiều tầng:,Mềm,$h_{s}$/300,
+"a) Tường và tường ngăn bằng gạch, bằng bê tông thạch cao, bằng panen bê tông cốt thép",Cứng,$h_{s}$/500,
+b) Tường (ốp đá tự nhiên) làm từ gạch ceramic,Cứng,$h_{s}$/700,
+"3. Nhà một tầng (với tường chịu tải bản thân) chiều cao tầng $h_{s}$, m",nhỏ hơn hoặc bằng 6,Mềm,$h_{s}$/150
+"3. Nhà một tầng (với tường chịu tải bản thân) chiều cao tầng $h_{s}$, m",bằng 15,Mềm,$h_{s}$/200
+"3. Nhà một tầng (với tường chịu tải bản thân) chiều cao tầng $h_{s}$, m",lớn hơn hoặc bằng 30,Mềm,$h_{s}$/300
+"Các ký hiệu trong bảng:<br>h  là chiều cao nhà nhiều tầng, lấy bằng khoảng cách từ mặt móng đến trục của xà đỡ mái.<br>$h_{s}$  là chiều cao tầng của nhà một tầng, lấy bằng khoảng cách từ mặt móng đến mặt dưới của kết cấu vì kèo; trong nhà nhiều tầng: đối với tầng dưới - bằng khoảng cách từ trên mặt móng đến trục của xà đỡ sàn mái; đối với các tầng còn lại - bằng khoảng cách giữa các trục của các xà liền kề.",,,

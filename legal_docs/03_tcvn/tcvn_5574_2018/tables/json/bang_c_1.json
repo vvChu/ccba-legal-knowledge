@@ -1,0 +1,71 @@
+{
+  "table_id": "bang_c_1",
+  "table_number": "C.1",
+  "table_title": "Bảng C.1 - Cốt thép thanh tròn trơn",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Giới hạn chảy dùng để so sánh, MPa": "240",
+      "Ký hiệu thép": "CB240-T",
+      "Tiêu chuẩn sản phẩm": "TCVN 1651-1:2008",
+      "Giới hạn chảy thực tế, MPa": "240 min.",
+      "Giới hạn bền, MPa": "380 min."
+    },
+    {
+      "_row_id": 2,
+      "Giới hạn chảy dùng để so sánh, MPa": "300",
+      "Ký hiệu thép": "CB300-T",
+      "Tiêu chuẩn sản phẩm": "TCVN 1651-1:2008",
+      "Giới hạn chảy thực tế, MPa": "300 min.",
+      "Giới hạn bền, MPa": "440 min."
+    },
+    {
+      "_row_id": 3,
+      "Giới hạn chảy dùng để so sánh, MPa": "235",
+      "Ký hiệu thép": "A-I (A240)",
+      "Tiêu chuẩn sản phẩm": "GOST 5781-82*",
+      "Giới hạn chảy thực tế, MPa": "235 min.",
+      "Giới hạn bền, MPa": "373 min."
+    },
+    {
+      "_row_id": 4,
+      "Giới hạn chảy dùng để so sánh, MPa": "235",
+      "Ký hiệu thép": "SR235",
+      "Tiêu chuẩn sản phẩm": "JIS G 3112-2010",
+      "Giới hạn chảy thực tế, MPa": "235 min.",
+      "Giới hạn bền, MPa": "380 đến 520"
+    },
+    {
+      "_row_id": 5,
+      "Giới hạn chảy dùng để so sánh, MPa": "295",
+      "Ký hiệu thép": "SR295",
+      "Tiêu chuẩn sản phẩm": "JIS G 3112-2010",
+      "Giới hạn chảy thực tế, MPa": "295 min.",
+      "Giới hạn bền, MPa": "440 đến 600"
+    },
+    {
+      "_row_id": 6,
+      "Giới hạn chảy dùng để so sánh, MPa": "250",
+      "Ký hiệu thép": "gr. 250",
+      "Tiêu chuẩn sản phẩm": "BS 4449:1997",
+      "Giới hạn chảy thực tế, MPa": "250 min.",
+      "Giới hạn bền, MPa": "287,5 min."
+    },
+    {
+      "_row_id": 7,
+      "Giới hạn chảy dùng để so sánh, MPa": "250",
+      "Ký hiệu thép": "250R",
+      "Tiêu chuẩn sản phẩm": "AS 1302-1991",
+      "Giới hạn chảy thực tế, MPa": "250 min.",
+      "Giới hạn bền, MPa": "-"
+    },
+    {
+      "_row_id": 8,
+      "Giới hạn chảy dùng để so sánh, MPa": "250",
+      "Ký hiệu thép": "250S",
+      "Tiêu chuẩn sản phẩm": "AS 1302-1991",
+      "Giới hạn chảy thực tế, MPa": "250 min.",
+      "Giới hạn bền, MPa": "-"
+    }
+  ]
+}

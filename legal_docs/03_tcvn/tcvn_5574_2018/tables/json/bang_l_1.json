@@ -1,0 +1,145 @@
+{
+  "table_id": "bang_l_1",
+  "table_number": "L.1",
+  "table_title": "Bảng L.1 - Giá trị hệ số γ",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tiết diện": "1. Chữ nhật",
+      "Giá trị hệ số γ": "1,30",
+      "Hình dạng tiết diện": ""
+    },
+    {
+      "_row_id": 2,
+      "Tiết diện": "2. Chữ T có cánh nằm trong vùng chịu nén",
+      "Giá trị hệ số γ": "1,30",
+      "Hình dạng tiết diện": ""
+    },
+    {
+      "_row_id": 3,
+      "Tiết diện": "3. Chữ T có cánh nằm trong vùng chịu kéo",
+      "Giá trị hệ số γ": "",
+      "Hình dạng tiết diện": "$b, h, h_f, b_f$"
+    },
+    {
+      "_row_id": 4,
+      "Tiết diện": "a) Khi $b_{f}$/ b ≤ 2 không phụ thuộc vào tỉ số $h_{f}$/ h",
+      "Giá trị hệ số γ": "1,25",
+      "Hình dạng tiết diện": "$b, h, h_f, b_f$"
+    },
+    {
+      "_row_id": 5,
+      "Tiết diện": "b) Khi $b_{f}$/ b > 2 và $h_{f}$/ h ≥ 0,2",
+      "Giá trị hệ số γ": "1,25",
+      "Hình dạng tiết diện": "$b, h, h_f, b_f$"
+    },
+    {
+      "_row_id": 6,
+      "Tiết diện": "c) Khi $b_{f}$/ b > 2 và $h_{f}$/ h < 0,2",
+      "Giá trị hệ số γ": "1,20",
+      "Hình dạng tiết diện": "$b, h, h_f, b_f$"
+    },
+    {
+      "_row_id": 7,
+      "Tiết diện": "4. Chữ I đối xứng (tiết diện hộp)",
+      "Giá trị hệ số γ": "",
+      "Hình dạng tiết diện": "$b'_f, h'_f, b, b_f, h_f, h$"
+    },
+    {
+      "_row_id": 8,
+      "Tiết diện": "a) khi $b_f'/b = \\bar{b}_f$ b ≤ 2 không phụ thuộc vào tỉ số $\\dot{p}/h = p/h$",
+      "Giá trị hệ số γ": "1,30",
+      "Hình dạng tiết diện": "$b'_f, h'_f, b, b_f, h_f, h$"
+    },
+    {
+      "_row_id": 9,
+      "Tiết diện": "b) khi 2 < $b_f'/b = \\bar{b}_f$ b ≤ 6 không phụ thuộc vào tỉ số $\\dot{p}/h = p/h$",
+      "Giá trị hệ số γ": "1,25",
+      "Hình dạng tiết diện": "$b'_f, h'_f, b, b_f, h_f, h$"
+    },
+    {
+      "_row_id": 10,
+      "Tiết diện": "c) khi $b_f'/b = \\bar{b}_f$ b > 6 và $\\dot{p}/h = p/h$ ≥ 0,2",
+      "Giá trị hệ số γ": "1,25",
+      "Hình dạng tiết diện": "$b'_f, h'_f, b, b_f, h_f, h$"
+    },
+    {
+      "_row_id": 11,
+      "Tiết diện": "d) khi 6 < $b_f'/b = \\bar{b}_f$ b < 15 và $\\dot{p}/h = p/h$ < 0,2",
+      "Giá trị hệ số γ": "1,20",
+      "Hình dạng tiết diện": "$b'_f, h'_f, b, b_f, h_f, h$"
+    },
+    {
+      "_row_id": 12,
+      "Tiết diện": "e) Khi $b_f'/b = \\bar{b}_f$ b ≥ 15 và $\\dot{p}/h = p/h$ < 0,2",
+      "Giá trị hệ số γ": "1,15",
+      "Hình dạng tiết diện": "$b'_f, h'_f, b, b_f, h_f, h$"
+    },
+    {
+      "_row_id": 13,
+      "Tiết diện": "5. Chữ I không đối xứng, thỏa mãn điều kiện $b'/b$≤ 3:",
+      "Giá trị hệ số γ": "",
+      "Hình dạng tiết diện": "$b'_f, h'_f, b, h_f, b_f, h$"
+    },
+    {
+      "_row_id": 14,
+      "Tiết diện": "a) Khi $b'/b$≤ 2 không phụ thuộc vào tỉ số $h_{f}$/ h",
+      "Giá trị hệ số γ": "1,30",
+      "Hình dạng tiết diện": "$b'_f, h'_f, b, h_f, b_f, h$"
+    },
+    {
+      "_row_id": 15,
+      "Tiết diện": "b) Khi 2 < $b_{f}$/ b ≤ 6 không phụ thuộc vào tỉ số $h_{f}$/ h",
+      "Giá trị hệ số γ": "1,25",
+      "Hình dạng tiết diện": "$b'_f, h'_f, b, h_f, b_f, h$"
+    },
+    {
+      "_row_id": 16,
+      "Tiết diện": "c) Khi $b_{f}$/ b > 6 và $h_{f}$/ h > 0,1",
+      "Giá trị hệ số γ": "1,25",
+      "Hình dạng tiết diện": "$b'_f, h'_f, b, h_f, b_f, h$"
+    },
+    {
+      "_row_id": 17,
+      "Tiết diện": "6. Chữ I không đối xứng, thỏa mãn điều kiện 3 < $b'/b$< 8:",
+      "Giá trị hệ số γ": "",
+      "Hình dạng tiết diện": "$b'_f, \\ h'_f, \\ b, \\ h, \\ b_f, \\ h_f$"
+    },
+    {
+      "_row_id": 18,
+      "Tiết diện": "a) Khi $b_{f}$/ b ≤ 4 không phụ thuộc vào tỉ số $h_{f}$/ h",
+      "Giá trị hệ số γ": "1,25",
+      "Hình dạng tiết diện": "$b'_f, \\ h'_f, \\ b, \\ h, \\ b_f, \\ h_f$"
+    },
+    {
+      "_row_id": 19,
+      "Tiết diện": "b) Khi $b_{f}$/ b > 4 và $h_{f}$/ h ≥ 0,2",
+      "Giá trị hệ số γ": "1,25",
+      "Hình dạng tiết diện": "$b'_f, \\ h'_f, \\ b, \\ h, \\ b_f, \\ h_f$"
+    },
+    {
+      "_row_id": 20,
+      "Tiết diện": "c) Khi $b_{f}$/ b > 4 và $h_{f}$/ h < 0,2",
+      "Giá trị hệ số γ": "1,20",
+      "Hình dạng tiết diện": "$b'_f, \\ h'_f, \\ b, \\ h, \\ b_f, \\ h_f$"
+    },
+    {
+      "_row_id": 21,
+      "Tiết diện": "7. Chữ I không đối xứng, thỏa mãn điều kiện $b'/b$≥ 8:",
+      "Giá trị hệ số γ": "",
+      "Hình dạng tiết diện": "$b'_f, h'_f, b, h_f, b_f, h$"
+    },
+    {
+      "_row_id": 22,
+      "Tiết diện": "a) Khi $h_{f}$/h > 0,3",
+      "Giá trị hệ số γ": "1,35",
+      "Hình dạng tiết diện": "$b'_f, h'_f, b, h_f, b_f, h$"
+    },
+    {
+      "_row_id": 23,
+      "Tiết diện": "b) Khi $h_{f}$/ h ≤ 0,3",
+      "Giá trị hệ số γ": "1,30",
+      "Hình dạng tiết diện": "$b'_f, h'_f, b, h_f, b_f, h$"
+    }
+  ]
+}

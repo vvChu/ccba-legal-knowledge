@@ -1,0 +1,12 @@
+{
+  "table_id": "bang_05",
+  "table_number": "5",
+  "table_title": "Bảng 5 - Mác tự ứng suất của bê tông",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Bê tông": "Bê tông tự ứng suất",
+      "Mác tự ứng suất": "$S_{p}$0,6; $S_{p}$0,8; $S_{p}$1; $S_{p}$1,2; $S_{p}$1,5; $S_{p}$2; $S_{p}$3; $S_{p}$4"
+    }
+  ]
+}

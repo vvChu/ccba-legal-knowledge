@@ -1,0 +1,295 @@
+{
+  "table_id": "bang_d_1",
+  "table_number": "D.1",
+  "table_title": "Bảng D.1 - Quy định về trang bị phương tiện chữa cháy cơ giới",
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1",
+      "Đối tượng": "Kho",
+      "Quy mô": "",
+      "Xe chữa cháy, chiếc": "",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 2,
+      "TT": "1.1",
+      "Đối tượng": "Kho dự trữ",
+      "Quy mô": "cấp Quốc gia",
+      "Xe chữa cháy, chiếc": "1",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 3,
+      "TT": "1.2",
+      "Đối tượng": "Kho dự trữ",
+      "Quy mô": "cấp Bộ, ngành",
+      "Xe chữa cháy, chiếc": "",
+      "Tàu chữa cháy, chiếc": "1",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 4,
+      "TT": "1.3",
+      "Đối tượng": "Kho dầu mỏ và các sản phẩm dầu mỏ",
+      "Quy mô": "Tổng dung tích trên 100 000 $m^{3}$",
+      "Xe chữa cháy, chiếc": "2",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 5,
+      "TT": "1.4",
+      "Đối tượng": "Kho dầu mỏ và các sản phẩm dầu mỏ",
+      "Quy mô": "Tổng dung tích từ 50 000 đến 100 000 $m^{3}$",
+      "Xe chữa cháy, chiếc": "1",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 6,
+      "TT": "1.5",
+      "Đối tượng": "Kho dầu mỏ và các sản phẩm dầu mỏ",
+      "Quy mô": "Tổng dung tích nhỏ hơn 50 000 $m^{3}$",
+      "Xe chữa cháy, chiếc": "",
+      "Tàu chữa cháy, chiếc": "1",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 7,
+      "TT": "2",
+      "Đối tượng": "Cảng hàng không, cảng biển",
+      "Quy mô": "",
+      "Xe chữa cháy, chiếc": "",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 8,
+      "TT": "2.1",
+      "Đối tượng": "Cảng hàng không",
+      "Quy mô": "Quốc tế",
+      "Xe chữa cháy, chiếc": "3",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 9,
+      "TT": "2.2",
+      "Đối tượng": "Cảng hàng không",
+      "Quy mô": "Nội địa",
+      "Xe chữa cháy, chiếc": "2",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 10,
+      "TT": "2.3",
+      "Đối tượng": "Cảng biển",
+      "Quy mô": "Loại đặc biệt, loại I",
+      "Xe chữa cháy, chiếc": "2",
+      "Tàu chữa cháy, chiếc": "1",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 11,
+      "TT": "2.4",
+      "Đối tượng": "Cảng biển",
+      "Quy mô": "Loại II",
+      "Xe chữa cháy, chiếc": "1",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 12,
+      "TT": "2.5",
+      "Đối tượng": "Cảng biển",
+      "Quy mô": "Loại III",
+      "Xe chữa cháy, chiếc": "",
+      "Tàu chữa cháy, chiếc": "1",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 13,
+      "TT": "3",
+      "Đối tượng": "Cơ sở sản xuất",
+      "Quy mô": "",
+      "Xe chữa cháy, chiếc": "",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 14,
+      "TT": "3.1",
+      "Đối tượng": "Nhà máy nhiệt $điện^{1)}$",
+      "Quy mô": "Công suất từ 200 MW trở lên",
+      "Xe chữa cháy, chiếc": "1",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 15,
+      "TT": "3.2",
+      "Đối tượng": "Nhà máy thủy $điện^{1)}$",
+      "Quy mô": "Công suất từ 300 MW trở lên",
+      "Xe chữa cháy, chiếc": "1",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 16,
+      "TT": "3.3",
+      "Đối tượng": "Nhà máy nhiệt điện, thủy điện",
+      "Quy mô": "Có công suất nhỏ hơn công suất trên",
+      "Xe chữa cháy, chiếc": "",
+      "Tàu chữa cháy, chiếc": "1",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 17,
+      "TT": "3.4",
+      "Đối tượng": "Nhà máy điện hạt nhân",
+      "Quy mô": "Không phụ thuộc vào công suất",
+      "Xe chữa cháy, chiếc": "2",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 18,
+      "TT": "3.6",
+      "Đối tượng": "Nhà máy giấy",
+      "Quy mô": "Công suất trên 35 000 tấn/năm",
+      "Xe chữa cháy, chiếc": "1",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 19,
+      "TT": "3.7",
+      "Đối tượng": "Nhà máy dệt",
+      "Quy mô": "Công suất trên 20 triệu mét vuông/năm",
+      "Xe chữa cháy, chiếc": "1",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 20,
+      "TT": "3.8",
+      "Đối tượng": "Nhà máy xi măng",
+      "Quy mô": "Công suất trên 1 triệu tấn/năm",
+      "Xe chữa cháy, chiếc": "1",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 21,
+      "TT": "3.9",
+      "Đối tượng": "Nhà máy phân đạm",
+      "Quy mô": "Công suất từ 180 000 tấn/năm trở lên",
+      "Xe chữa cháy, chiếc": "1",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 22,
+      "TT": "3.10",
+      "Đối tượng": "Nhà máy thép",
+      "Quy mô": "Công suất từ 300 000 tấn phôi thép/năm trở lên",
+      "Xe chữa cháy, chiếc": "1",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 23,
+      "TT": "3.11",
+      "Đối tượng": "Nhà máy giấy, dệt, xi măng, phân đạm, thép",
+      "Quy mô": "Có công suất nhỏ hơn công suất trên",
+      "Xe chữa cháy, chiếc": "",
+      "Tàu chữa cháy, chiếc": "1",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 24,
+      "TT": "3.12",
+      "Đối tượng": "Nhà máy lọc dầu, lọc hóa dầu, hóa dầu",
+      "Quy mô": "Không phụ thuộc vào công suất",
+      "Xe chữa cháy, chiếc": "2",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 25,
+      "TT": "3.13",
+      "Đối tượng": "Cơ sở chế biến khí đốt",
+      "Quy mô": "Công suất từ 15 triệu $m^{3}$ khí /ngày đêm trở lên",
+      "Xe chữa cháy, chiếc": "1",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 26,
+      "TT": "3.14",
+      "Đối tượng": "Cơ sở khai thác khoáng sản",
+      "Quy mô": "Công suất từ 300 000 tấn/năm trở lên",
+      "Xe chữa cháy, chiếc": "1",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 27,
+      "TT": "3.15",
+      "Đối tượng": "Cơ sở chế biến khí đốt, khai thác khoáng sản",
+      "Quy mô": "Có công suất nhỏ hơn công suất trên",
+      "Xe chữa cháy, chiếc": "",
+      "Tàu chữa cháy, chiếc": "1",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 28,
+      "TT": "4",
+      "Đối tượng": "Khu công nghiệp, khu chế xuất, khu công nghệ cao, cụm công nghiệp",
+      "Quy mô": "",
+      "Xe chữa cháy, chiếc": "",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 29,
+      "TT": "4.1",
+      "Đối tượng": "Khu công nghiệp, khu chế xuất, khu công nghệ cao",
+      "Quy mô": "Tổng diện tích trên 300 ha",
+      "Xe chữa cháy, chiếc": "3",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 30,
+      "TT": "4.2",
+      "Đối tượng": "Khu công nghiệp, khu chế xuất, khu công nghệ cao",
+      "Quy mô": "Tổng diện tích từ trên 150 đến 300 ha",
+      "Xe chữa cháy, chiếc": "2",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 31,
+      "TT": "4.3",
+      "Đối tượng": "Khu công nghiệp, khu chế xuất, khu công nghệ cao, cụm công nghiệp",
+      "Quy mô": "Tổng diện tích từ 50 ha đến 150 ha",
+      "Xe chữa cháy, chiếc": "1",
+      "Tàu chữa cháy, chiếc": "",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    },
+    {
+      "_row_id": 32,
+      "TT": "4.4",
+      "Đối tượng": "Khu công nghiệp, khu chế xuất, khu công nghệ cao, cụm công nghiệp",
+      "Quy mô": "Tổng diện tích nhỏ hơn 50 ha",
+      "Xe chữa cháy, chiếc": "",
+      "Tàu chữa cháy, chiếc": "1",
+      "Máy bơm chữa cháy loại khiêng tay, chiếc": ""
+    }
+  ]
+}

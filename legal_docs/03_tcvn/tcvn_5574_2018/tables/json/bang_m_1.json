@@ -1,0 +1,203 @@
+{
+  "table_id": "bang_m_1",
+  "table_number": "M.1",
+  "table_title": "Bảng M.1 - Độ võng giới hạn theo phương đứng $f_{u}$ và tải trọng tương ứng để xác định độ võng theo phương đứng",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấu kiện kết cấu": "1. Dầm cầu trục dưới cần trục kiểu cầu (cầu trục) và cần trục treo được điều khiển:",
+      "Các yêu cầu": "",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "",
+      "Tải trọng để xác định độ võng theo phương đứng": ""
+    },
+    {
+      "_row_id": 2,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- từ dưới nền, kể cả palăng",
+      "Các yêu cầu": "Công nghệ",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/250",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng do một cần trục"
+    },
+    {
+      "_row_id": 3,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- từ cabin ứng với chế độ làm việc (theo TCVN 8590- 1:2010 (ISO 4301-1:1986)):",
+      "Các yêu cầu": "Tâm sinh lý và công nghệ",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "",
+      "Tải trọng để xác định độ võng theo phương đứng": ""
+    },
+    {
+      "_row_id": 4,
+      "Cấu kiện kết cấu": "nhóm A1 đến A6",
+      "Các yêu cầu": "Tâm sinh lý và công nghệ",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/400",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng do một cần trục"
+    },
+    {
+      "_row_id": 5,
+      "Cấu kiện kết cấu": "nhóm A7",
+      "Các yêu cầu": "Tâm sinh lý và công nghệ",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/500",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng do một cần trục"
+    },
+    {
+      "_row_id": 6,
+      "Cấu kiện kết cấu": "nhóm A8",
+      "Các yêu cầu": "Tâm sinh lý và công nghệ",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/600",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng do một cần trục"
+    },
+    {
+      "_row_id": 7,
+      "Cấu kiện kết cấu": "2. Dầm, giàn, xà, bản, xà gồ, tấm (bao gồm cả sườn của tấm và bản) của:",
+      "Các yêu cầu": "",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "",
+      "Tải trọng để xác định độ võng theo phương đứng": ""
+    },
+    {
+      "_row_id": 8,
+      "Cấu kiện kết cấu": "a) Mái và sàn tầng nhìn thấy được với nhịp L, m:",
+      "Các yêu cầu": "Thẩm mỹ - tâm lý",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng thường xuyên và tạm thời dài hạn"
+    },
+    {
+      "_row_id": 9,
+      "Cấu kiện kết cấu": "L ≤ 1",
+      "Các yêu cầu": "Thẩm mỹ - tâm lý",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/120",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng thường xuyên và tạm thời dài hạn"
+    },
+    {
+      "_row_id": 10,
+      "Cấu kiện kết cấu": "L = 3",
+      "Các yêu cầu": "Thẩm mỹ - tâm lý",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/150",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng thường xuyên và tạm thời dài hạn"
+    },
+    {
+      "_row_id": 11,
+      "Cấu kiện kết cấu": "L = 6",
+      "Các yêu cầu": "Thẩm mỹ - tâm lý",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/200",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng thường xuyên và tạm thời dài hạn"
+    },
+    {
+      "_row_id": 12,
+      "Cấu kiện kết cấu": "L = 24(12)",
+      "Các yêu cầu": "Thẩm mỹ - tâm lý",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/250",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng thường xuyên và tạm thời dài hạn"
+    },
+    {
+      "_row_id": 13,
+      "Cấu kiện kết cấu": "L ≥ 36(24)",
+      "Các yêu cầu": "Thẩm mỹ - tâm lý",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/300",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng thường xuyên và tạm thời dài hạn"
+    },
+    {
+      "_row_id": 14,
+      "Cấu kiện kết cấu": "b) Mái và sàn tầng có tường ngăn ở dưới chúng",
+      "Các yêu cầu": "Cấu tạo",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "Lấy theo M.3.6",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng làm giảm khe hở giữa các cấu kiện chịu lực của kết cấu và các tường ngăn"
+    },
+    {
+      "_row_id": 15,
+      "Cấu kiện kết cấu": "c) Mái và sàn tầng khi trên chúng có các bộ phận có thể bị tách (các lớp lót, lớp mặt sàn, vách ngăn)",
+      "Các yêu cầu": "Cấu tạo",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/150",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng tác dụng sau khi hoàn thành tường ngăn, lớp mặt sàn và các lớp lót"
+    },
+    {
+      "_row_id": 16,
+      "Cấu kiện kết cấu": "d) Mái và sàn tầng khi sử dụng palăng, cần trục treo được điều khiển từ:",
+      "Các yêu cầu": "",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "",
+      "Tải trọng để xác định độ võng theo phương đứng": ""
+    },
+    {
+      "_row_id": 17,
+      "Cấu kiện kết cấu": "-nền",
+      "Các yêu cầu": "Công nghệ",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "Giá trị nhỏ hơn trong hai giá trị: L/300và a/150",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng tạm thời có kể đến tải trọng do một cần trục hoặc palăng trên một đường ray"
+    },
+    {
+      "_row_id": 18,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- cabin",
+      "Các yêu cầu": "Tâm sinh lý",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "Giá trị nhỏ hơn trong hai giá trị: L/400 và a/200",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng do một cần trục hoặc palăng trên một đường ray"
+    },
+    {
+      "_row_id": 19,
+      "Cấu kiện kết cấu": "e) Sàn tầng chịu tác dụng của:",
+      "Các yêu cầu": "Tâm sinh lý và công nghệ",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "",
+      "Tải trọng để xác định độ võng theo phương đứng": ""
+    },
+    {
+      "_row_id": 20,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- các tải trọng di chuyển, vật liệu, chi tiết máy móc và các tải trọng di động khác (trong đó có tải trọng di chuyển trên nền không ray)",
+      "Các yêu cầu": "Tâm sinh lý và công nghệ",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/350",
+      "Tải trọng để xác định độ võng theo phương đứng": "Giá trị bất lợi hơn trong hai giá trị tải trọng:&nbsp;&nbsp;\\- 70 % toàn bộ tải trọng tạm thời tiêu chuẩn&nbsp;&nbsp;\\- tải trọng của một xe xếp tải"
+    },
+    {
+      "_row_id": 21,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- tải trọng di chuyển trên ray: + khổ hẹp",
+      "Các yêu cầu": "Tâm sinh lý và công nghệ",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/400",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng do một toa chạy trên một đường ray"
+    },
+    {
+      "_row_id": 22,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ khổ rộng",
+      "Các yêu cầu": "Tâm sinh lý và công nghệ",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/500",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng do một toa chạy trên một đường ray"
+    },
+    {
+      "_row_id": 23,
+      "Cấu kiện kết cấu": "3. Các bộ phận của cầu thang bộ (bản thang, chiếu nghỉ, chiếu tới, cốn), của ban công, của lôgia",
+      "Các yêu cầu": "Thẩm mỹ - tâm lý",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "Như trong mục 2a",
+      "Tải trọng để xác định độ võng theo phương đứng": ""
+    },
+    {
+      "_row_id": 24,
+      "Cấu kiện kết cấu": "3. Các bộ phận của cầu thang bộ (bản thang, chiếu nghỉ, chiếu tới, cốn), của ban công, của lôgia",
+      "Các yêu cầu": "Tâm sinh lý",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "Xác định theo M.4.2.2",
+      "Tải trọng để xác định độ võng theo phương đứng": ""
+    },
+    {
+      "_row_id": 25,
+      "Cấu kiện kết cấu": "4. Các bản sàn tầng, bản thang, chiếu nghỉ, chiếu tới, mà độ võng của chúng không bị cản trở bởi các cấu kiện liền kề",
+      "Các yêu cầu": "Tâm sinh lý",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "0,7 mm",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng tập trung 1 kN ở giữa nhịp"
+    },
+    {
+      "_row_id": 26,
+      "Cấu kiện kết cấu": "5. Lanh tô, tấm tường treo phía trên lỗ cửa sổ và cửa đi (xà và xà gồ vách kính)",
+      "Các yêu cầu": "Cấu tạo",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "L/200",
+      "Tải trọng để xác định độ võng theo phương đứng": "Tải trọng làm giảm khe hở giữa các cấu kiện chịu lực và phần chèn của các cửa sổ, cửa đi dưới các cấu kiện chịu lực đó."
+    },
+    {
+      "_row_id": 27,
+      "Cấu kiện kết cấu": "",
+      "Các yêu cầu": "Thẩm mỹ - tâm lý",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "Như trong mục 2a",
+      "Tải trọng để xác định độ võng theo phương đứng": ""
+    },
+    {
+      "_row_id": 28,
+      "Cấu kiện kết cấu": "Các ký hiệu trong bảng:L là nhịp tính toán của cấu kiện.a là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào.",
+      "Các yêu cầu": "",
+      "Độ võng giới hạn theo phương đứng $f_{u}$": "",
+      "Tải trọng để xác định độ võng theo phương đứng": ""
+    }
+  ]
+}

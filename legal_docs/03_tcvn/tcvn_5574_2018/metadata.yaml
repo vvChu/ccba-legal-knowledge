@@ -1,0 +1,28 @@
+document_id: TCVN-5574-2018
+doc_number: TCVN 5574:2018
+title: Thiết kế kết cấu bê tông và bê tông cốt thép
+type: Tiêu chuẩn quốc gia
+category: 03_tcvn
+issued_by: Bộ Khoa học và Công nghệ
+signer: Bộ Khoa học và Công nghệ
+issued_date: '2018-12-28'
+effective_date: '2018-12-28'
+status: Còn hiệu lực
+okf_version: v2.4
+sources:
+  docx:
+    file_name: tcvn_5574_2018.docx
+    sha256: 2a26b68bdb7e1b3d18c3ef7dc549e32115ee2ccc5580fd32c126ee1ecddd53fc
+    file_size: 2281739
+  pdf:
+    file_name: tcvn_5574_2018.pdf
+    sha256: f12480db0a68005fa4f48a20ac328727a369ef2c1b60e5b3c9ac78c9da41279a
+    file_size: 26971594
+compartments:
+  tables_count: 32
+  figures_count: 35
+  annexes_count: 13
+  clauses_count: 676
+  qa_count: 676
+links:
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-5574-2018-Thiet-ke-ket-cau-be-tong-va-be-tong-cot-thep-917896.aspx

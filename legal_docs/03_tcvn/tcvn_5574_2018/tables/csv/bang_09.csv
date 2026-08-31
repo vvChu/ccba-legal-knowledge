@@ -1,0 +1,6 @@
+﻿"Độ ẩm tương đối của không khí môi trường xung quanh,<br>%",Biến dạng tương đối của bê tông khi có tác dụng dài hạn của tải trọng,,,,,
+"Độ ẩm tương đối của không khí môi trường xung quanh,<br>%",Khi nén,Khi kéo,,,,
+"Độ ẩm tương đối của không khí môi trường xung quanh,<br>%",$\epsilon_{b0}$,$\epsilon_{b2}$,"$\epsilon_{b1,red}$",$\epsilon_{bt0}$,$\epsilon_{bt2}$,"$\epsilon_{bt1,red}$"
+Cao hơn 75,"0,0030","0,0042","0,0024","0,00021","0,00027","0,00019"
+Từ 40 đến 75,"0,0034","0,0048","0,0028","0,00024","0,00031","0,00022"
+Thấp hơn 40,"0,0040","0,0056","0,0034","0,00028","0,00036","0,00026"

@@ -1,0 +1,255 @@
+{
+  "table_id": "bang_c_2",
+  "table_number": "C.2",
+  "table_title": "Bảng C.2 - Cốt thép thanh vằn",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Giới hạn chảy dùng để so sánh, MPa": "300",
+      "Ký hiệu thép": "CB300-V",
+      "Tiêu chuẩn sản phẩm": "TCVN 1651-2:2018",
+      "Giới hạn chảy thực tế, MPa": "300 min.",
+      "Giới hạn bền, MPa": "450 min."
+    },
+    {
+      "_row_id": 2,
+      "Giới hạn chảy dùng để so sánh, MPa": "400",
+      "Ký hiệu thép": "CB400-V",
+      "Tiêu chuẩn sản phẩm": "TCVN 1651-2:2018",
+      "Giới hạn chảy thực tế, MPa": "400 min.",
+      "Giới hạn bền, MPa": "570 min."
+    },
+    {
+      "_row_id": 3,
+      "Giới hạn chảy dùng để so sánh, MPa": "500",
+      "Ký hiệu thép": "CB500-V",
+      "Tiêu chuẩn sản phẩm": "TCVN 1651-2:2018",
+      "Giới hạn chảy thực tế, MPa": "500 min.",
+      "Giới hạn bền, MPa": "650 min."
+    },
+    {
+      "_row_id": 4,
+      "Giới hạn chảy dùng để so sánh, MPa": "600",
+      "Ký hiệu thép": "CB600-V",
+      "Tiêu chuẩn sản phẩm": "TCVN 1651-2:2018",
+      "Giới hạn chảy thực tế, MPa": "600 min.",
+      "Giới hạn bền, MPa": "710 min."
+    },
+    {
+      "_row_id": 5,
+      "Giới hạn chảy dùng để so sánh, MPa": "295",
+      "Ký hiệu thép": "A-II (A300)",
+      "Tiêu chuẩn sản phẩm": "GOST 5781-82*",
+      "Giới hạn chảy thực tế, MPa": "295 min.",
+      "Giới hạn bền, MPa": "490 min."
+    },
+    {
+      "_row_id": 6,
+      "Giới hạn chảy dùng để so sánh, MPa": "390",
+      "Ký hiệu thép": "A-III (A400)",
+      "Tiêu chuẩn sản phẩm": "GOST 5781-82*",
+      "Giới hạn chảy thực tế, MPa": "390 min.",
+      "Giới hạn bền, MPa": "590 min."
+    },
+    {
+      "_row_id": 7,
+      "Giới hạn chảy dùng để so sánh, MPa": "590",
+      "Ký hiệu thép": "A-IV (A600)",
+      "Tiêu chuẩn sản phẩm": "GOST 5781-82*",
+      "Giới hạn chảy thực tế, MPa": "590 min.",
+      "Giới hạn bền, MPa": "883 min."
+    },
+    {
+      "_row_id": 8,
+      "Giới hạn chảy dùng để so sánh, MPa": "440",
+      "Ký hiệu thép": "$A_{T}$400",
+      "Tiêu chuẩn sản phẩm": "GOST 10884-94",
+      "Giới hạn chảy thực tế, MPa": "440 min.",
+      "Giới hạn bền, MPa": "550 min."
+    },
+    {
+      "_row_id": 9,
+      "Giới hạn chảy dùng để so sánh, MPa": "500",
+      "Ký hiệu thép": "$A_{T}$500",
+      "Tiêu chuẩn sản phẩm": "GOST 10884-94",
+      "Giới hạn chảy thực tế, MPa": "500 min.",
+      "Giới hạn bền, MPa": "600 min."
+    },
+    {
+      "_row_id": 10,
+      "Giới hạn chảy dùng để so sánh, MPa": "600",
+      "Ký hiệu thép": "$A_{T}$-IV ($A_{T}$600)",
+      "Tiêu chuẩn sản phẩm": "GOST 10884-94",
+      "Giới hạn chảy thực tế, MPa": "600 min.",
+      "Giới hạn bền, MPa": "800 min."
+    },
+    {
+      "_row_id": 11,
+      "Giới hạn chảy dùng để so sánh, MPa": "295",
+      "Ký hiệu thép": "SD295A",
+      "Tiêu chuẩn sản phẩm": "JIS G 3112-2010",
+      "Giới hạn chảy thực tế, MPa": "295 min.",
+      "Giới hạn bền, MPa": "440 đến 600"
+    },
+    {
+      "_row_id": 12,
+      "Giới hạn chảy dùng để so sánh, MPa": "295",
+      "Ký hiệu thép": "SD295B",
+      "Tiêu chuẩn sản phẩm": "JIS G 3112-2010",
+      "Giới hạn chảy thực tế, MPa": "295 đến 390",
+      "Giới hạn bền, MPa": "440 min."
+    },
+    {
+      "_row_id": 13,
+      "Giới hạn chảy dùng để so sánh, MPa": "345",
+      "Ký hiệu thép": "SD345",
+      "Tiêu chuẩn sản phẩm": "JIS G 3112-2010",
+      "Giới hạn chảy thực tế, MPa": "345 đến 440",
+      "Giới hạn bền, MPa": "490 min."
+    },
+    {
+      "_row_id": 14,
+      "Giới hạn chảy dùng để so sánh, MPa": "390",
+      "Ký hiệu thép": "SD390",
+      "Tiêu chuẩn sản phẩm": "JIS G 3112-2010",
+      "Giới hạn chảy thực tế, MPa": "390 đến 510",
+      "Giới hạn bền, MPa": "560 min."
+    },
+    {
+      "_row_id": 15,
+      "Giới hạn chảy dùng để so sánh, MPa": "490",
+      "Ký hiệu thép": "SD490",
+      "Tiêu chuẩn sản phẩm": "JIS G 3112-2010",
+      "Giới hạn chảy thực tế, MPa": "490 đến 625",
+      "Giới hạn bền, MPa": "620 min."
+    },
+    {
+      "_row_id": 16,
+      "Giới hạn chảy dùng để so sánh, MPa": "500",
+      "Ký hiệu thép": "B500A",
+      "Tiêu chuẩn sản phẩm": "BS 4449:2005",
+      "Giới hạn chảy thực tế, MPa": "500 min.",
+      "Giới hạn bền, MPa": "525 min."
+    },
+    {
+      "_row_id": 17,
+      "Giới hạn chảy dùng để so sánh, MPa": "500",
+      "Ký hiệu thép": "B500B",
+      "Tiêu chuẩn sản phẩm": "BS 4449:2005",
+      "Giới hạn chảy thực tế, MPa": "500 min.",
+      "Giới hạn bền, MPa": "540 min."
+    },
+    {
+      "_row_id": 18,
+      "Giới hạn chảy dùng để so sánh, MPa": "500",
+      "Ký hiệu thép": "B500C",
+      "Tiêu chuẩn sản phẩm": "BS 4449:2005",
+      "Giới hạn chảy thực tế, MPa": "500 min",
+      "Giới hạn bền, MPa": "575 đến 675"
+    },
+    {
+      "_row_id": 19,
+      "Giới hạn chảy dùng để so sánh, MPa": "500",
+      "Ký hiệu thép": "B500A",
+      "Tiêu chuẩn sản phẩm": "EN 10080:2005",
+      "Giới hạn chảy thực tế, MPa": "500 min.",
+      "Giới hạn bền, MPa": "525 min."
+    },
+    {
+      "_row_id": 20,
+      "Giới hạn chảy dùng để so sánh, MPa": "500",
+      "Ký hiệu thép": "B500B",
+      "Tiêu chuẩn sản phẩm": "EN 10080:2005",
+      "Giới hạn chảy thực tế, MPa": "500 min.",
+      "Giới hạn bền, MPa": "540 min."
+    },
+    {
+      "_row_id": 21,
+      "Giới hạn chảy dùng để so sánh, MPa": "500",
+      "Ký hiệu thép": "B500C",
+      "Tiêu chuẩn sản phẩm": "EN 10080:2005",
+      "Giới hạn chảy thực tế, MPa": "500 min.",
+      "Giới hạn bền, MPa": "575 đến 675"
+    },
+    {
+      "_row_id": 22,
+      "Giới hạn chảy dùng để so sánh, MPa": "280",
+      "Ký hiệu thép": "gr. 280",
+      "Tiêu chuẩn sản phẩm": "ASTM A615M-01b",
+      "Giới hạn chảy thực tế, MPa": "280 min.",
+      "Giới hạn bền, MPa": "420 min."
+    },
+    {
+      "_row_id": 23,
+      "Giới hạn chảy dùng để so sánh, MPa": "420",
+      "Ký hiệu thép": "gr. 420",
+      "Tiêu chuẩn sản phẩm": "ASTM A615M-01b",
+      "Giới hạn chảy thực tế, MPa": "420 min.",
+      "Giới hạn bền, MPa": "620 min."
+    },
+    {
+      "_row_id": 24,
+      "Giới hạn chảy dùng để so sánh, MPa": "520",
+      "Ký hiệu thép": "gr. 520",
+      "Tiêu chuẩn sản phẩm": "ASTM A615M-01b",
+      "Giới hạn chảy thực tế, MPa": "520 min.",
+      "Giới hạn bền, MPa": "690 min."
+    },
+    {
+      "_row_id": 25,
+      "Giới hạn chảy dùng để so sánh, MPa": "335",
+      "Ký hiệu thép": "RL335",
+      "Tiêu chuẩn sản phẩm": "GB 1499-91",
+      "Giới hạn chảy thực tế, MPa": "335 đến 460",
+      "Giới hạn bền, MPa": "510 min."
+    },
+    {
+      "_row_id": 26,
+      "Giới hạn chảy dùng để so sánh, MPa": "540",
+      "Ký hiệu thép": "RL540",
+      "Tiêu chuẩn sản phẩm": "GB 1499-91",
+      "Giới hạn chảy thực tế, MPa": "540 min.",
+      "Giới hạn bền, MPa": "835 min."
+    },
+    {
+      "_row_id": 27,
+      "Giới hạn chảy dùng để so sánh, MPa": "590",
+      "Ký hiệu thép": "RL590",
+      "Tiêu chuẩn sản phẩm": "GB 1499-91",
+      "Giới hạn chảy thực tế, MPa": "590 min.",
+      "Giới hạn bền, MPa": "885 min."
+    },
+    {
+      "_row_id": 28,
+      "Giới hạn chảy dùng để so sánh, MPa": "335",
+      "Ký hiệu thép": "HRB335, HRBF335",
+      "Tiêu chuẩn sản phẩm": "GB 1499-2007",
+      "Giới hạn chảy thực tế, MPa": "335 min.",
+      "Giới hạn bền, MPa": "455 min."
+    },
+    {
+      "_row_id": 29,
+      "Giới hạn chảy dùng để so sánh, MPa": "400",
+      "Ký hiệu thép": "HRB400, HRBF400",
+      "Tiêu chuẩn sản phẩm": "GB 1499-2007",
+      "Giới hạn chảy thực tế, MPa": "400 min.",
+      "Giới hạn bền, MPa": "540 min."
+    },
+    {
+      "_row_id": 30,
+      "Giới hạn chảy dùng để so sánh, MPa": "500",
+      "Ký hiệu thép": "HRB500, HRBF500",
+      "Tiêu chuẩn sản phẩm": "GB 1499-2007",
+      "Giới hạn chảy thực tế, MPa": "500 min.",
+      "Giới hạn bền, MPa": "630 min."
+    },
+    {
+      "_row_id": 31,
+      "Giới hạn chảy dùng để so sánh, MPa": "400",
+      "Ký hiệu thép": "AS 1302-400Y",
+      "Tiêu chuẩn sản phẩm": "AS 1302-1991",
+      "Giới hạn chảy thực tế, MPa": "400 min.",
+      "Giới hạn bền, MPa": "-"
+    }
+  ]
+}

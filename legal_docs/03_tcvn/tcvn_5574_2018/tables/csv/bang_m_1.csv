@@ -1,0 +1,29 @@
+﻿Cấu kiện kết cấu,Các yêu cầu,Độ võng giới hạn theo phương đứng $f_{u}$,Tải trọng để xác định độ võng theo phương đứng
+1. Dầm cầu trục dưới cần trục kiểu cầu (cầu trục) và cần trục treo được điều khiển:,,,
+"&nbsp;&nbsp;\- từ dưới nền, kể cả palăng",Công nghệ,L/250,Tải trọng do một cần trục
+&nbsp;&nbsp;\- từ cabin ứng với chế độ làm việc (theo TCVN 8590- 1:2010 (ISO 4301-1:1986)):,Tâm sinh lý và công nghệ,,
+nhóm A1 đến A6,Tâm sinh lý và công nghệ,L/400,Tải trọng do một cần trục
+nhóm A7,Tâm sinh lý và công nghệ,L/500,Tải trọng do một cần trục
+nhóm A8,Tâm sinh lý và công nghệ,L/600,Tải trọng do một cần trục
+"2. Dầm, giàn, xà, bản, xà gồ, tấm (bao gồm cả sườn của tấm và bản) của:",,,
+"a) Mái và sàn tầng nhìn thấy được với nhịp L, m:",Thẩm mỹ - tâm lý,,Tải trọng thường xuyên và tạm thời dài hạn
+L ≤ 1,Thẩm mỹ - tâm lý,L/120,Tải trọng thường xuyên và tạm thời dài hạn
+L = 3,Thẩm mỹ - tâm lý,L/150,Tải trọng thường xuyên và tạm thời dài hạn
+L = 6,Thẩm mỹ - tâm lý,L/200,Tải trọng thường xuyên và tạm thời dài hạn
+L = 24(12),Thẩm mỹ - tâm lý,L/250,Tải trọng thường xuyên và tạm thời dài hạn
+L ≥ 36(24),Thẩm mỹ - tâm lý,L/300,Tải trọng thường xuyên và tạm thời dài hạn
+b) Mái và sàn tầng có tường ngăn ở dưới chúng,Cấu tạo,Lấy theo M.3.6,Tải trọng làm giảm khe hở giữa các cấu kiện chịu lực của kết cấu và các tường ngăn
+"c) Mái và sàn tầng khi trên chúng có các bộ phận có thể bị tách (các lớp lót, lớp mặt sàn, vách ngăn)",Cấu tạo,L/150,"Tải trọng tác dụng sau khi hoàn thành tường ngăn, lớp mặt sàn và các lớp lót"
+"d) Mái và sàn tầng khi sử dụng palăng, cần trục treo được điều khiển từ:",,,
+-nền,Công nghệ,Giá trị nhỏ hơn trong hai giá trị: L/300và a/150,Tải trọng tạm thời có kể đến tải trọng do một cần trục hoặc palăng trên một đường ray
+&nbsp;&nbsp;\- cabin,Tâm sinh lý,Giá trị nhỏ hơn trong hai giá trị: L/400 và a/200,Tải trọng do một cần trục hoặc palăng trên một đường ray
+e) Sàn tầng chịu tác dụng của:,Tâm sinh lý và công nghệ,,
+"&nbsp;&nbsp;\- các tải trọng di chuyển, vật liệu, chi tiết máy móc và các tải trọng di động khác (trong đó có tải trọng di chuyển trên nền không ray)",Tâm sinh lý và công nghệ,L/350,Giá trị bất lợi hơn trong hai giá trị tải trọng:<br>&nbsp;&nbsp;\- 70 % toàn bộ tải trọng tạm thời tiêu chuẩn<br>&nbsp;&nbsp;\- tải trọng của một xe xếp tải
+&nbsp;&nbsp;\- tải trọng di chuyển trên ray: + khổ hẹp,Tâm sinh lý và công nghệ,L/400,Tải trọng do một toa chạy trên một đường ray
+&nbsp;&nbsp;&nbsp;&nbsp;\+ khổ rộng,Tâm sinh lý và công nghệ,L/500,Tải trọng do một toa chạy trên một đường ray
+"3. Các bộ phận của cầu thang bộ (bản thang, chiếu nghỉ, chiếu tới, cốn), của ban công, của lôgia",Thẩm mỹ - tâm lý,Như trong mục 2a,
+"3. Các bộ phận của cầu thang bộ (bản thang, chiếu nghỉ, chiếu tới, cốn), của ban công, của lôgia",Tâm sinh lý,Xác định theo M.4.2.2,
+"4. Các bản sàn tầng, bản thang, chiếu nghỉ, chiếu tới, mà độ võng của chúng không bị cản trở bởi các cấu kiện liền kề",Tâm sinh lý,"0,7 mm",Tải trọng tập trung 1 kN ở giữa nhịp
+"5. Lanh tô, tấm tường treo phía trên lỗ cửa sổ và cửa đi (xà và xà gồ vách kính)",Cấu tạo,L/200,"Tải trọng làm giảm khe hở giữa các cấu kiện chịu lực và phần chèn của các cửa sổ, cửa đi dưới các cấu kiện chịu lực đó."
+,Thẩm mỹ - tâm lý,Như trong mục 2a,
+Các ký hiệu trong bảng:<br>L là nhịp tính toán của cấu kiện.<br>a là bước dầm hoặc giàn mà đường đi của cần trục treo liên kết vào.,,,

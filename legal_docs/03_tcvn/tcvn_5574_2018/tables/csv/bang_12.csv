@@ -1,0 +1,22 @@
+﻿Loại cốt thép,Tiêu chuẩn,"Đường kính danh nghĩa, mm","Giá trị của $R_{s,n}$, MPa, và $R_{s,ser}$, MPa",
+Thép thanh,CB240-T,TCVN 1651-1:2008,"6,0 đến 40,0",240
+Thép thanh,CB300-T,TCVN 1651-1:2008,"6,0 đến 40,0",300
+Thép thanh,CB300-V,TCVN 1651-2:2018,"6,0 đến 50,0",300
+Thép thanh,CB400-V,TCVN 1651-2:2018,"6,0 đến 50,0",400
+Thép thanh,CB500-V,TCVN 1651-2:2018,"6,0 đến 50,0",500
+Thép thanh,CB600-V,TCVN 1651-2:2018,"6,0 đến 50,0",600
+"Thép thanh có giới hạn chảy quy ước, MPa",835,TCVN 6284-5:1997 (ISO 6934-5:1991),"15,0 đến 40,0",835
+"Thép thanh có giới hạn chảy quy ước, MPa",930,TCVN 6284-5:1997 (ISO 6934-5:1991),"15,0 đến 40,0",930
+"Thép thanh có giới hạn chảy quy ước, MPa",1 080,TCVN 6284-5:1997 (ISO 6934-5:1991),"15,0 đến 40,0",1 080
+"Dây thép có giới hạn bền, MPa",1 470,TCVN 6284-2:1997 (ISO 6394-2:1991),"9,0; 10,0; 12,2",1 200
+"Dây thép có giới hạn bền, MPa",1 570,TCVN 6284-2:1997 (ISO 6394-2:1991),"7,0; 8,0; 10,0; 12,2",1 300
+"Dây thép có giới hạn bền, MPa",1 670,TCVN 6284-2:1997 (ISO 6394-2:1991),"4,0; 5,0; 6,0; 7,0; 8,0",1 400
+"Dây thép có giới hạn bền, MPa",1 770,TCVN 6284-2:1997 (ISO 6394-2:1991),"4,0; 5,0; 6,0",1 500
+Dày thép vuốt nguội,TCVN 6288:1997 (ISO 10544:1992),"5,0 đến 12,0",500,
+"Cáp 7 sợi thường khử ứng suất có giới hạn bền, MPa",1 720,TCVN 6284-4:1997 (ISO 6934-4:1991),"9,3; 10,8; 12,4; 15,2",1450
+"Cáp 7 sợi thường khử ứng suất có giới hạn bền, MPa",1 860,TCVN 6284-4:1997 (ISO 6934-4:1991),"9,5; 11,1; 12,7; 15,2",1 550
+"Cáp 7 sợi nén chặt khử ứng suất có giới hạn bền, MPa",1 700,TCVN 6284-4:1997 (ISO 6934-4:1991),"18,0",1 500
+"Cáp 7 sợi nén chặt khử ứng suất có giới hạn bền, MPa",1 820,TCVN 6284-4:1997 (ISO 6934-4:1991),"15,2",1 600
+"Cáp 7 sợi nén chặt khử ứng suất có giới hạn bền, MPa",1 960,TCVN 6284-4:1997 (ISO 6934-4:1991),"12,7",1 700
+Cáp 19 sợi,1 810,TCVN 6284-4:1997 (ISO 6934-4:1991),"20,3; 21,8",1 500
+Cáp 19 sợi,1 860,TCVN 6284-4:1997 (ISO 6934-4:1991),"17,8; 19,3",1 600

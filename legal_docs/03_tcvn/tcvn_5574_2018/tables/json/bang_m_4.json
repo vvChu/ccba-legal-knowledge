@@ -1,0 +1,63 @@
+{
+  "table_id": "bang_m_4",
+  "table_number": "M.4",
+  "table_title": "Bảng M.4 - Chuyển vị giới hạn theo phương ngang $f_{u}$ theo yêu cầu cấu tạo",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Nhà, tường và tường ngăn": "1. Nhà nhiều tầng",
+      "Liên kết giữa tường, tường ngăn với khung nhà": "Bất kỳ",
+      "Chuyển vị giới hạn $f_{u}$": "h/500",
+      "col_4": ""
+    },
+    {
+      "_row_id": 2,
+      "Nhà, tường và tường ngăn": "2. Một tầng của nhà nhiều tầng:",
+      "Liên kết giữa tường, tường ngăn với khung nhà": "Mềm",
+      "Chuyển vị giới hạn $f_{u}$": "$h_{s}$/300",
+      "col_4": ""
+    },
+    {
+      "_row_id": 3,
+      "Nhà, tường và tường ngăn": "a) Tường và tường ngăn bằng gạch, bằng bê tông thạch cao, bằng panen bê tông cốt thép",
+      "Liên kết giữa tường, tường ngăn với khung nhà": "Cứng",
+      "Chuyển vị giới hạn $f_{u}$": "$h_{s}$/500",
+      "col_4": ""
+    },
+    {
+      "_row_id": 4,
+      "Nhà, tường và tường ngăn": "b) Tường (ốp đá tự nhiên) làm từ gạch ceramic",
+      "Liên kết giữa tường, tường ngăn với khung nhà": "Cứng",
+      "Chuyển vị giới hạn $f_{u}$": "$h_{s}$/700",
+      "col_4": ""
+    },
+    {
+      "_row_id": 5,
+      "Nhà, tường và tường ngăn": "3. Nhà một tầng (với tường chịu tải bản thân) chiều cao tầng $h_{s}$, m",
+      "Liên kết giữa tường, tường ngăn với khung nhà": "nhỏ hơn hoặc bằng 6",
+      "Chuyển vị giới hạn $f_{u}$": "Mềm",
+      "col_4": "$h_{s}$/150"
+    },
+    {
+      "_row_id": 6,
+      "Nhà, tường và tường ngăn": "3. Nhà một tầng (với tường chịu tải bản thân) chiều cao tầng $h_{s}$, m",
+      "Liên kết giữa tường, tường ngăn với khung nhà": "bằng 15",
+      "Chuyển vị giới hạn $f_{u}$": "Mềm",
+      "col_4": "$h_{s}$/200"
+    },
+    {
+      "_row_id": 7,
+      "Nhà, tường và tường ngăn": "3. Nhà một tầng (với tường chịu tải bản thân) chiều cao tầng $h_{s}$, m",
+      "Liên kết giữa tường, tường ngăn với khung nhà": "lớn hơn hoặc bằng 30",
+      "Chuyển vị giới hạn $f_{u}$": "Mềm",
+      "col_4": "$h_{s}$/300"
+    },
+    {
+      "_row_id": 8,
+      "Nhà, tường và tường ngăn": "Các ký hiệu trong bảng:h  là chiều cao nhà nhiều tầng, lấy bằng khoảng cách từ mặt móng đến trục của xà đỡ mái.$h_{s}$  là chiều cao tầng của nhà một tầng, lấy bằng khoảng cách từ mặt móng đến mặt dưới của kết cấu vì kèo; trong nhà nhiều tầng: đối với tầng dưới - bằng khoảng cách từ trên mặt móng đến trục của xà đỡ sàn mái; đối với các tầng còn lại - bằng khoảng cách giữa các trục của các xà liền kề.",
+      "Liên kết giữa tường, tường ngăn với khung nhà": "",
+      "Chuyển vị giới hạn $f_{u}$": "",
+      "col_4": ""
+    }
+  ]
+}

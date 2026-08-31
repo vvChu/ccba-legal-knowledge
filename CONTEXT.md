@@ -48,7 +48,7 @@ Tài liệu này là Từ điển Thuật ngữ miền nghiệp vụ (Ubiquitous
 - **Giao diện Truy vấn Nguyên tử (Atomic Table Matrix Lookup API):** Phương thức truy vấn ô bảng kỹ thuật trong SDK cho phép trích xuất độc lập giá trị số học đo lường và danh sách điều kiện quy chuẩn bắt buộc đi kèm.
 - **Đóng gói Nguyên tử Cả Điều Khoản (Atomic Clause Chunking - ADR 0011):** Chiến lược phân đoạn dữ liệu RAG trong đó toàn bộ nội dung của một Mục/Điều khoản lớn (bao gồm các điểm `a, b, c...`, gạch đầu dòng `+` và các ý con lồng đa tầng) được bảo toàn nguyên khối trong 1 Document Chunk duy nhất, triệt tiêu rủi ro đứt lìa câu định mức con khỏi câu điều kiện tiên quyết của cấp cha.
 - **Danh mục Lồng Đa Tầng (Nested Multi-level Lists):** Cấu trúc phân cấp văn bản quy chuẩn (Điều $\rightarrow$ Khoản/Điểm $\rightarrow$ Gạch đầu dòng `+` $\rightarrow$ Ý con `  -`) tuân thủ nghiêm ngặt quy tắc thụt lề 2 spaces của CommonMark để bảo toàn cây cú pháp AST cho các mô hình AI Vision và RAG Embedding.
-- **Kho Tri thức Chuẩn hóa Hiện hành (Clean Unified Repository - ADR 0012):** Bộ dữ liệu 32 nguồn Markdown được chọn lọc nghiêm ngặt phục vụ nạp lên Google NotebookLM và AI Gateway, bao gồm toàn bộ văn bản pháp luật hiện hành, các bản quy chuẩn hợp nhất mới nhất và bảng so sánh thay đổi, loại trừ các bản gốc cũ để bảo đảm 100% độ chính xác thời gian.
+- **Kho Tri thức Chuẩn hóa Hiện hành (Clean Unified Repository - ADR 0012):** Bộ dữ liệu 34 nguồn Markdown được chọn lọc nghiêm ngặt phục vụ nạp lên Google NotebookLM và AI Gateway, bao gồm toàn bộ văn bản pháp luật hiện hành, các bản quy chuẩn hợp nhất mới nhất và bảng so sánh thay đổi, loại trừ các bản gốc cũ để bảo đảm 100% độ chính xác thời gian.
 - **Rào chắn Ngăn chặn Bản Cũ (Obsolete Source Quarantine Gate):** Cơ chế lọc tự động trong pipeline đồng bộ ngăn không cho các tệp bản gốc cũ và bản sửa đổi rời rạc bị đẩy lên các không gian tìm kiếm RAG hiện hành.
 - **Cổng Kiểm Toán Ân Hạn Động (Dynamic Grace Period Compliance Gate - ADR 0013):** Cơ chế phân loại mức độ lỗi kiểm toán tự động theo thời gian (`audit_date`), tự động gán nhãn Cảnh báo vàng trong thời hạn ân hạn chuyển tiếp (ví dụ: 6 tháng từ 15/12/2026 đến 15/06/2027 cho chung cư hiện hữu) và tự động leo thang lên Lỗi đỏ vi phạm bắt buộc sau khi hết hạn chót.
 - **Thời hạn Ân Hạn Chuyển Tiếp (Grace Period):** Khoảng thời gian theo luật định cho phép đối tượng áp dụng (công trình hiện hữu) được duy trì trạng thái cũ trong khi chuẩn bị và hoàn thành phương án cải tạo, thích ứng theo quy chuẩn mới.
@@ -114,6 +114,16 @@ Tài liệu này là Từ điển Thuật ngữ miền nghiệp vụ (Ubiquitous
 - **Nợ Ngoại Lệ (Bypass Debt):** Số lần BYPASS tích lũy theo thời gian — chỉ số đo mức độ Hub catalog còn thiếu so với nhu cầu thực tế của agent. Bypass Debt > 5 là tín hiệu cần mở rộng Hub catalog, không phải tín hiệu agent sai.
 - **Tỷ Lệ Kích Hoạt Cổng (Hit Rate):** Tỷ lệ `(PASS + BLOCK) / total_ops` — đo xem Gate có đang được agent thực sự chạy không. Hit Rate < 80% là dấu hiệu Gate bị bỏ qua.
 - **Tỷ Lệ Chặn (Block Rate):** Tỷ lệ `BLOCK / (PASS + BLOCK)` — đo tần suất agent drift khỏi Hub tools. Block Rate > 20% là dấu hiệu agent đang có xu hướng tái tạo code đã có sẵn trong Hub.
+
+---
+
+## 6. Thuật ngữ Kiến trúc Nâng cao & Quy Chuẩn Hiện Đại (ADR 0033 - ADR 0037)
+
+- **Vệ Sinh & Lưu Trữ Thư Mục .md (Directory Hygiene & Archiving - ADR 0033):** Quy chuẩn cấu trúc thư mục `.md/`: cấp gốc chỉ lưu config tối thượng; toàn bộ tài liệu nguồn chuyển vào `.md/extracted_docs/`, scripts thử nghiệm đưa vào `.md/archive/`.
+- **Mô Hình Quy Chuẩn Kỹ Thuật Động Cơ Kép (OKF v2.3 Dual-Engine - ADR 0034):** Tiêu chuẩn chuyển đổi TCVN/QCVN tự động nhận diện công thức KaTeX đa dòng và dựng bảng ma trận GFM 2D phức tạp qua `TableMatrixBuilder`.
+- **Kho Nhị Phân Đám Mây 3 Tầng & Native Google Docs (Tri-Tier Cloud Binary Vault - ADR 0035):** Kiến trúc lưu trữ tài sản nhị phân nặng (.pdf, .docx) trên Google Drive `CCBA_Legal_Vault`, tự động chuyển đổi sang Native Google Docs sẵn sàng nạp 1-click vào NotebookLM.
+- **Đặc Tả Tri Thức Hướng Agent Toàn Cầu (OKF v2.4 Universal Agent-Centric - ADR 0036):** Tiêu chuẩn 5 Invariants: Universal `sources/`, phân tách 4 ngăn kéo (`tables/`, `figures/`, `annexes/`, `templates/`), ma trận VBHN đồng vị, khai báo `source_assets` và giao thức Một Cửa `tab=7`.
+- **Hiến Pháp Bảo Tồn Nguyên Văn Quy Phạm (Verbatim Normative Invariant - ADR 0037):** Cấm 100% việc dùng LLM tóm tắt/paraphrase thân văn bản pháp lý; bắt buộc trích xuất xác định 1:1 qua Python-docx AST parser và vượt qua Gate 11 DOCX Verbatim Parity Rate $\ge 98.0\%$.
 
 
 

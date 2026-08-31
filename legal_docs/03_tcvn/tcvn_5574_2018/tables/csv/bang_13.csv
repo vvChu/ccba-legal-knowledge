@@ -1,0 +1,23 @@
+﻿Loại cốt thép,Tiêu chuẩn,Cường độ tính toán của cốt thép đối với các trạng thái giới hạn thứ nhất,,
+Loại cốt thép,Tiêu chuẩn,"Khi kéo, $R_{s}$","Khi nén, $R_{sc}$",
+Thép thanh,CB240-T,TCVN 1651-1:2008,210,
+Thép thanh,CB300-T,TCVN 1651-1:2008,260,
+Thép thanh,CB300-V,TCVN 1651-2:2018,260,
+Thép thanh,CB400-V,TCVN 1651-2:2018,350,
+Thép thanh,CB500-V,TCVN 1651-2:2018,435,435 (400)
+Thép thanh,CB600-V,TCVN 1651-2:2018,520,470 (400)
+"Thép thanh có giới hạn chảy quy ước, MPa",835,TCVN 6284-5:1997 (ISO 6934-5:1991),730,500 (400)
+"Thép thanh có giới hạn chảy quy ước, MPa",930,TCVN 6284-5:1997 (ISO 6934-5:1991),810,500 (400)
+"Thép thanh có giới hạn chảy quy ước, MPa",1 080,TCVN 6284-5:1997 (ISO 6934-5:1991),940,500 (400)
+Dây thép vuốt nguội,TCVN 6288:1997<br>(ISO 10544:1992),435,415(380),
+"Dây thép có giới hạn chảy quy ước, MPa",1 200,TCVN 6284-2:1997 (ISO 6394-2:1991),1 040,500 (400)
+"Dây thép có giới hạn chảy quy ước, MPa",1 300,TCVN 6284-2:1997 (ISO 6394-2:1991),1 130,500 (400)
+"Dây thép có giới hạn chảy quy ước, MPa",1 400,TCVN 6284-2:1997 (ISO 6394-2:1991),1 220,500 (400)
+"Dây thép có giới hạn chảy quy ước, MPa",1 500,TCVN 6284-2:1997 (ISO 6394-2:1991),1 300,500 (400)
+"Cáp 7 sợi thường khử ứng suất có giới hạn chảy quy ước, MPa",1 450,TCVN 6284-4:1997 (ISO 6934-4:1991),1 260,500 (400)
+"Cáp 7 sợi thường khử ứng suất có giới hạn chảy quy ước, MPa",1 550,TCVN 6284-4:1997 (ISO 6934-4:1991),1 350,500 (400)
+"Cáp 7 sợi nén chặt khử ứng suất có giới hạn chảy quy ước, MPa",1 500,TCVN 6284-4:1997 (ISO 6934-4:1991),1 300,500 (400)
+"Cáp 7 sợi nén chặt khử ứng suất có giới hạn chảy quy ước, MPa",1 600,TCVN 6284-4:1997 (ISO 6934-4:1991),1 390,500 (400)
+"Cáp 7 sợi nén chặt khử ứng suất có giới hạn chảy quy ước, MPa",1 700,TCVN 6284-4:1997 (ISO 6934-4:1991),1 480,500 (400)
+"Cáp 19 sợi có giới hạn chảy quy ước, MPa",1 500,TCVN 6284-4:1997 (ISO 6934-4:1991),1 300,500 (400)
+"Cáp 19 sợi có giới hạn chảy quy ước, MPa",1 600,TCVN 6284-4:1997 (ISO 6934-4:1991),1 390,500 (400)

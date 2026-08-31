@@ -1,0 +1,43 @@
+{
+  "table_id": "bang_14",
+  "table_number": "14",
+  "table_title": "Bảng 14 - Cường độ chịu kéo tính toán của cốt thép ngang (cốt thép đai và các thanh uốn xiên) đối với các trạng thái giới hạn thứ nhất",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại cốt thép": "CB240-T",
+      "Tiêu chuẩn": "TCVN 1651-1:2008",
+      "Giá trị của $R_{sw}$": "170"
+    },
+    {
+      "_row_id": 2,
+      "Loại cốt thép": "CB300-T",
+      "Tiêu chuẩn": "TCVN 1651-1:2008",
+      "Giá trị của $R_{sw}$": "210"
+    },
+    {
+      "_row_id": 3,
+      "Loại cốt thép": "CB300-V",
+      "Tiêu chuẩn": "TCVN 1651-2:2018",
+      "Giá trị của $R_{sw}$": "210"
+    },
+    {
+      "_row_id": 4,
+      "Loại cốt thép": "CB400-V",
+      "Tiêu chuẩn": "TCVN 1651-2:2018",
+      "Giá trị của $R_{sw}$": "280"
+    },
+    {
+      "_row_id": 5,
+      "Loại cốt thép": "CB500-V",
+      "Tiêu chuẩn": "TCVN 1651-2:2018",
+      "Giá trị của $R_{sw}$": "300"
+    },
+    {
+      "_row_id": 6,
+      "Loại cốt thép": "Dây thép kéo nguội",
+      "Tiêu chuẩn": "TCVN 6288:1997 (ISO 10544:1992)",
+      "Giá trị của $R_{sw}$": "300"
+    }
+  ]
+}

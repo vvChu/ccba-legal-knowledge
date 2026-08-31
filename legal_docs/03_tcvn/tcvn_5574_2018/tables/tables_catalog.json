@@ -1,0 +1,229 @@
+{
+  "total_tables": 32,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Cấp và mác bê tông",
+      "csv_file": "tables/csv/bang_01.csv",
+      "json_file": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_02",
+      "table_number": "2",
+      "title": "Bảng 2 - Cấp cường độ chịu kéo dọc trục của bê tông",
+      "csv_file": "tables/csv/bang_02.csv",
+      "json_file": "tables/json/bang_02.json"
+    },
+    {
+      "table_id": "bang_03",
+      "table_number": "3",
+      "title": "Bảng 3 - Mác chống thấm nước của bê tông",
+      "csv_file": "tables/csv/bang_03.csv",
+      "json_file": "tables/json/bang_03.json"
+    },
+    {
+      "table_id": "bang_04",
+      "table_number": "4",
+      "title": "Bảng 4 - Mác khối lượng thể tích trung bình của bê tông",
+      "csv_file": "tables/csv/bang_04.csv",
+      "json_file": "tables/json/bang_04.json"
+    },
+    {
+      "table_id": "bang_05",
+      "table_number": "5",
+      "title": "Bảng 5 - Mác tự ứng suất của bê tông",
+      "csv_file": "tables/csv/bang_05.csv",
+      "json_file": "tables/json/bang_05.json"
+    },
+    {
+      "table_id": "bang_06",
+      "table_number": "6",
+      "title": "Bảng 6 - Các cường độ tiêu chuẩn của bê tông, $R_{b,n}$ và $R_{bt,n}$, và các cường độ tính toán của bê tông đối với các trạng thái giới hạn thứ hai, $R_{b,ser}$ và $R_{bt,ser}$",
+      "csv_file": "tables/csv/bang_06.csv",
+      "json_file": "tables/json/bang_06.json"
+    },
+    {
+      "table_id": "bang_07",
+      "table_number": "7",
+      "title": "Bảng 7 - Các cường độ tính toán của bê tông, $R_{b}$ và $R_{bt}$, đối với các trạng thái giới hạn thứ nhất",
+      "csv_file": "tables/csv/bang_07.csv",
+      "json_file": "tables/json/bang_07.json"
+    },
+    {
+      "table_id": "bang_08",
+      "table_number": "8",
+      "title": "Bảng 8 - Cường độ chịu kéo tính toán của bê tông đối với các trạng thái giới hạn thứ nhất $R_{bt}$",
+      "csv_file": "tables/csv/bang_08.csv",
+      "json_file": "tables/json/bang_08.json"
+    },
+    {
+      "table_id": "bang_09",
+      "table_number": "9",
+      "title": "Bảng 9 - Biến dạng tương đối của bê tông khi có tác dụng dài hạn của tải trọng",
+      "csv_file": "tables/csv/bang_09.csv",
+      "json_file": "tables/json/bang_09.json"
+    },
+    {
+      "table_id": "bang_10",
+      "table_number": "10",
+      "title": "Bảng 10 - Mô đun đàn hồi ban đầu của bê tông khi nén và khi kéo, $E_{b}$",
+      "csv_file": "tables/csv/bang_10.csv",
+      "json_file": "tables/json/bang_10.json"
+    },
+    {
+      "table_id": "bang_11",
+      "table_number": "11",
+      "title": "Bảng 11 - Hệ số từ biến của bê tông $\\varphi_{b,cr}$",
+      "csv_file": "tables/csv/bang_11.csv",
+      "json_file": "tables/json/bang_11.json"
+    },
+    {
+      "table_id": "bang_12",
+      "table_number": "12",
+      "title": "Bảng 12 - Cường độ chịu kéo tiêu chuẩn của cốt thép $R_{s,n}$ và cường độ chịu kéo tính toán của cốt thép đối với các trạng thái giới hạn thứ hai $R_{s,ser}$",
+      "csv_file": "tables/csv/bang_12.csv",
+      "json_file": "tables/json/bang_12.json"
+    },
+    {
+      "table_id": "bang_13",
+      "table_number": "13",
+      "title": "Bảng 13 - Cường độ tính toán chịu kéo và chịu nén của cốt thép đối với các trạng thái giới hạn thứ nhất",
+      "csv_file": "tables/csv/bang_13.csv",
+      "json_file": "tables/json/bang_13.json"
+    },
+    {
+      "table_id": "bang_14",
+      "table_number": "14",
+      "title": "Bảng 14 - Cường độ chịu kéo tính toán của cốt thép ngang (cốt thép đai và các thanh uốn xiên) đối với các trạng thái giới hạn thứ nhất",
+      "csv_file": "tables/csv/bang_14.csv",
+      "json_file": "tables/json/bang_14.json"
+    },
+    {
+      "table_id": "bang_15",
+      "table_number": "15",
+      "title": "Bảng 15 - Hệ số φ khi có tác dụng dài hạn của tải trọng",
+      "csv_file": "tables/csv/bang_15.csv",
+      "json_file": "tables/json/bang_15.json"
+    },
+    {
+      "table_id": "bang_16",
+      "table_number": "16",
+      "title": "Bảng 16 - Hệ số φ khi có tác dụng dài hạn của tải trọng",
+      "csv_file": "tables/csv/bang_16.csv",
+      "json_file": "tables/json/bang_16.json"
+    },
+    {
+      "table_id": "bang_17",
+      "table_number": "17",
+      "title": "Bảng 17 - Chiều rộng vết nứt giới hạn cho phép",
+      "csv_file": "tables/csv/bang_17.csv",
+      "json_file": "tables/json/bang_17.json"
+    },
+    {
+      "table_id": "bang_18",
+      "table_number": "18",
+      "title": "Bảng 18 - Các hệ số để xác định hao tổn do ma sát cốt thép",
+      "csv_file": "tables/csv/bang_18.csv",
+      "json_file": "tables/json/bang_18.json"
+    },
+    {
+      "table_id": "bang_19",
+      "table_number": "19",
+      "title": "Bảng 19 - Chiều dày tối thiểu của lớp bê tông bảo vệ",
+      "csv_file": "tables/csv/bang_19.csv",
+      "json_file": "tables/json/bang_19.json"
+    },
+    {
+      "table_id": "bang_c_1",
+      "table_number": "C.1",
+      "title": "Bảng C.1 - Cốt thép thanh tròn trơn",
+      "csv_file": "tables/csv/bang_c_1.csv",
+      "json_file": "tables/json/bang_c_1.json"
+    },
+    {
+      "table_id": "bang_c_2",
+      "table_number": "C.2",
+      "title": "Bảng C.2 - Cốt thép thanh vằn",
+      "csv_file": "tables/csv/bang_c_2.csv",
+      "json_file": "tables/json/bang_c_2.json"
+    },
+    {
+      "table_id": "bang_c_3",
+      "table_number": "C.3",
+      "title": "Bảng C.3 - Dây thép vuốt nguội cường độ thấp",
+      "csv_file": "tables/csv/bang_c_3.csv",
+      "json_file": "tables/json/bang_c_3.json"
+    },
+    {
+      "table_id": "bang_c_4",
+      "table_number": "C.4",
+      "title": "Bảng C.4 - Cốt thép thanh cường độ cao",
+      "csv_file": "tables/csv/bang_c_4.csv",
+      "json_file": "tables/json/bang_c_4.json"
+    },
+    {
+      "table_id": "bang_c_5",
+      "table_number": "C.5",
+      "title": "Bảng C.5 - Dãy thép ứng suất trước cường độ cao",
+      "csv_file": "tables/csv/bang_c_5.csv",
+      "json_file": "tables/json/bang_c_5.json"
+    },
+    {
+      "table_id": "bang_c_6",
+      "table_number": "C.6",
+      "title": "Bảng C.6 - Các loại cáp 7 sợi cường độ cao",
+      "csv_file": "tables/csv/bang_c_6.csv",
+      "json_file": "tables/json/bang_c_6.json"
+    },
+    {
+      "table_id": "bang_c_7",
+      "table_number": "C.7",
+      "title": "Bảng C.7 - Các loại cáp 19 sợi cường độ cao",
+      "csv_file": "tables/csv/bang_c_7.csv",
+      "json_file": "tables/json/bang_c_7.json"
+    },
+    {
+      "table_id": "bang_l_1",
+      "table_number": "L.1",
+      "title": "Bảng L.1 - Giá trị hệ số γ",
+      "csv_file": "tables/csv/bang_l_1.csv",
+      "json_file": "tables/json/bang_l_1.json"
+    },
+    {
+      "table_id": "bang_m_1",
+      "table_number": "M.1",
+      "title": "Bảng M.1 - Độ võng giới hạn theo phương đứng $f_{u}$ và tải trọng tương ứng để xác định độ võng theo phương đứng",
+      "csv_file": "tables/csv/bang_m_1.csv",
+      "json_file": "tables/json/bang_m_1.json"
+    },
+    {
+      "table_id": "bang_m_2",
+      "table_number": "M.2",
+      "title": "Bảng M.2 - Các hệ số p, $p_{1}$, n, b",
+      "csv_file": "tables/csv/bang_m_2.csv",
+      "json_file": "tables/json/bang_m_2.json"
+    },
+    {
+      "table_id": "bang_m_3",
+      "table_number": "M.3",
+      "title": "Bảng M.3 - Độ võng giới hạn theo phương ngang $f_{u}$ của cột nhà có cầu trục, trụ cầu cạn, dầm cầu trục và kết cấu hãm",
+      "csv_file": "tables/csv/bang_m_3.csv",
+      "json_file": "tables/json/bang_m_3.json"
+    },
+    {
+      "table_id": "bang_m_4",
+      "table_number": "M.4",
+      "title": "Bảng M.4 - Chuyển vị giới hạn theo phương ngang $f_{u}$ theo yêu cầu cấu tạo",
+      "csv_file": "tables/csv/bang_m_4.csv",
+      "json_file": "tables/json/bang_m_4.json"
+    },
+    {
+      "table_id": "bang_n_1",
+      "table_number": "N.1",
+      "title": "Bảng N.1 - Các nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) và cần trục treo",
+      "csv_file": "tables/csv/bang_n_1.csv",
+      "json_file": "tables/json/bang_n_1.json"
+    }
+  ]
+}

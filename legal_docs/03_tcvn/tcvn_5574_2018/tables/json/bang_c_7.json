@@ -1,0 +1,47 @@
+{
+  "table_id": "bang_c_7",
+  "table_number": "C.7",
+  "table_title": "Bảng C.7 - Các loại cáp 19 sợi cường độ cao",
+  "rows": [
+    {
+      "_row_id": 1,
+      "Giới hạn chảy dùng để so sánh, MPa": "1 580",
+      "Ký hiệu thép (và/hoặc đường kính)": "19 sợi-17,8-1860",
+      "Tiêu chuẩn sản phẩm": "TCVN 6284-4:1997 (ISO 6934-4:1991)",
+      "Giới hạn chảy quy ước, MPa": "1 581 min.",
+      "Giới hạn bền, MPa": "1 860 min."
+    },
+    {
+      "_row_id": 2,
+      "Giới hạn chảy dùng để so sánh, MPa": "1 580",
+      "Ký hiệu thép (và/hoặc đường kính)": "19 sợi-19,3-1860",
+      "Tiêu chuẩn sản phẩm": "TCVN 6284-4:1997 (ISO 6934-4:1991)",
+      "Giới hạn chảy quy ước, MPa": "1 581 min.",
+      "Giới hạn bền, MPa": "1 860 min."
+    },
+    {
+      "_row_id": 3,
+      "Giới hạn chảy dùng để so sánh, MPa": "1 540",
+      "Ký hiệu thép (và/hoặc đường kính)": "19 sợi-20,3-1810",
+      "Tiêu chuẩn sản phẩm": "TCVN 6284-4:1997 (ISO 6934-4:1991)",
+      "Giới hạn chảy quy ước, MPa": "1 539 min.",
+      "Giới hạn bền, MPa": "1 810 min."
+    },
+    {
+      "_row_id": 4,
+      "Giới hạn chảy dùng để so sánh, MPa": "1 540",
+      "Ký hiệu thép (và/hoặc đường kính)": "19 sợi-21,8-1810",
+      "Tiêu chuẩn sản phẩm": "TCVN 6284-4:1997 (ISO 6934-4:1991)",
+      "Giới hạn chảy quy ước, MPa": "1 539 min.",
+      "Giới hạn bền, MPa": "1 810 min."
+    },
+    {
+      "_row_id": 5,
+      "Giới hạn chảy dùng để so sánh, MPa": "1 500",
+      "Ký hiệu thép (và/hoặc đường kính)": "K19 (K1500)",
+      "Tiêu chuẩn sản phẩm": "TU 14-4-22-71",
+      "Giới hạn chảy quy ước, MPa": "1 500 min.",
+      "Giới hạn bền, MPa": "1 770 min."
+    }
+  ]
+}
