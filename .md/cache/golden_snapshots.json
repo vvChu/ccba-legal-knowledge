@@ -281,8 +281,8 @@
   "tcvn_5574_2018": {
     "slug": "tcvn_5574_2018",
     "category": "03_tcvn",
-    "md_sha256": "65740f93e5f385876f869d1d895488da27bf47318268ceb2ff98114686baf1bc",
-    "md_lines": 6415,
+    "md_sha256": "683d153085b7ac278ea828d081bc84da52ad64100bf3560fab50849f2eaff81f",
+    "md_lines": 6326,
     "clauses_count": 678,
     "tables_count": 32,
     "figures_count": 40

@@ -449,18 +449,14 @@ rId98:
     \end{aligned}'
 rId100:
   formula_id: F_TCVN_5574_2018_FORMULA_90
-  latex: 'So the LaTeX is: `Q_b = \frac{\varphi_{b2} R_{bt} b h_0^2}{C} \tag{90}
-
-    Q_b = \frac{\varphi_{b2} R_{bt} b h_0^2}{C} \tag{90}'
+  latex: Q_b = \frac{\varphi_{b2} R_{bt} b h_0^2}{C} \tag{90}
 rId113:
   formula_id: F_TCVN_5574_2018_RID113
   latex: \begin{cases} 1 & \text{khi } \sigma_m \le 0,75 R_b \\ 5 \left( 1 - \frac{\sigma_m}{R_b}
     \right) & \text{khi } 0,75 R_b < \sigma_m \le R_b \end{cases}
 rId122:
   formula_id: F_TCVN_5574_2018_FORMULA_109
-  latex: '\delta = \frac{Z_1}{2Z_2 + Z_1} \tag{109}
-
-    \delta = { \frac { Z _ { 1 } } { 2 Z _ { 2 } + Z _ { 1 } } } \tag{ 1 0 9 }'
+  latex: \delta = \frac{Z_1}{2Z_2 + Z_1} \tag{109}
 rId129:
   formula_id: F_TCVN_5574_2018_FORMULA_112
   latex: T_{sw,1} = q_{sw,1} \delta Z_1 Z_2 \tag{112}
@@ -504,11 +500,7 @@ rId157:
   latex: W_b = \frac{\pi(D+h_0)^2}{4} \tag{136}
 rId155:
   formula_id: F_TCVN_5574_2018_FORMULA_134
-  latex: 'So the string should be: `W_{bx(y)} = \frac{I_{bx(y)}}{x(y)_{\max}} \tag{134}`
-    or `W_{bx(y)} = \frac{I_{bx(y)}}{x(y)_{max}} \tag{134}`. I will use `\max` for
-    better typography.
-
-    W_{bx(y)} = \frac{I_{bx(y)}}{x(y)_{\max}} \tag{134}'
+  latex: W_{bx(y)} = \frac{I_{bx(y)}}{x(y)_{\max}} \tag{134}
 rId161:
   formula_id: F_TCVN_5574_2018_RID161
   latex: \frac { Q _ { x } } { Q _ { x , u } } + \frac { Q _ { y } } { Q _ { y , u
@@ -553,12 +545,11 @@ rId163:
     \end{aligned}'
 rId164:
   formula_id: F_TCVN_5574_2018_FORMULA_158
-  latex: 'Formula: M_{cr} = R_{bt,ser} W_{pl} \pm N e_0 .'
+  latex: M_{cr} = R_{bt,ser} W_{pl} \pm N e_0 \tag{158}
 rId166:
-  formula_id: F_TCVN_5574_2018_FORMULA_160
-  latex: 'W_{red} = \frac{I_{red}}{y_t} \tag{160}
-
-    e_x = \frac{W_{red}}{A_{red}} \tag{161}'
+  formula_id: F_TCVN_5574_2018_FORMULA_160_161
+  latex: \begin{aligned} W_{red} &= \frac{I_{red}}{y_t} \qquad (160) \\ e_x &= \frac{W_{red}}{A_{red}}
+    \qquad (161) \end{aligned}
 rId174:
   formula_id: F_TCVN_5574_2018_FORMULA_166
   latex: a_{crc,i} = \varphi_1 \varphi_2 \varphi_3 \psi_s \frac{\sigma_s}{E_s} L_s
@@ -602,9 +593,7 @@ rId200:
   latex: \gamma_x = \frac{1,2 Q_x \varphi_b}{G b h_0} \varphi_{crc} \tag{182}
 rId210:
   formula_id: F_TCVN_5574_2018_FORMULA_192
-  latex: 'E_{b1} = E_{b,r} = \frac{E_b}{1 + \varphi_{b,cr}} \tag{192}
-
-    E_{b1}=E_{b,r}=\frac{E_{b}}{1+\varphi_{b,cr}}\tag{192}'
+  latex: E_{b1} = E_{b,r} = \frac{E_b}{1 + \varphi_{b,cr}} \tag{192}
 rId206:
   formula_id: F_TCVN_5574_2018_FORMULA_189
   latex: I_{red} = I + I_s \alpha + I'_s \alpha \tag{189}
@@ -738,10 +727,9 @@ rId290:
   latex: \sigma_{si} = E_{si} \gamma_{si} \left( \varepsilon_{si} + \varepsilon_{spi}
     \right) \tag{241}
 rId319:
-  formula_id: F_TCVN_5574_2018_FORMULA_B_1
-  latex: '\varepsilon_m = \frac{\sigma_m}{E_m v_m} \tag{B.1}
-
-    d \varepsilon_m = \frac{d \sigma_m}{E_m v_m^k} \tag{B.2}'
+  formula_id: F_TCVN_5574_2018_FORMULA_B_1_2
+  latex: \begin{aligned} \varepsilon_m &= \frac{\sigma_m}{E_m v_m} \qquad (B.1) \\
+    d \varepsilon_m &= \frac{d \sigma_m}{E_m v_m^k} \qquad (B.2) \end{aligned}
 rId320:
   formula_id: F_TCVN_5574_2018_FORMULA_B_3
   latex: \nu_m = \hat{\nu}_m \pm \left(\nu_0 - \hat{\nu}_m\right)\sqrt{1 - \omega_1
@@ -755,38 +743,28 @@ rId328:
     + 2 \omega_2 \eta)}{2v_m^2(\tilde{\sigma}_m - \sigma_{m,el})\sqrt{1 - \omega_1
     \eta - \omega_2 \eta^2}} \tag{B.5}
 rId330:
-  formula_id: F_TCVN_5574_2018_FORMULA_B_6
-  latex: '\hat{\sigma}_b = -R_{b,ser} \tag{B.6}
-
-    \sigma_{b,el} = 0 \tag{B.7}
-
-    \hat{\nu} = \frac{\hat{\sigma}_b}{\hat{\varepsilon}_b E_b} \tag{B.8}
-
-    \eta = \frac{\sigma_b}{\hat{\sigma}_b} \tag{B.9}'
+  formula_id: F_TCVN_5574_2018_FORMULA_B_6_9
+  latex: \begin{aligned} \hat{\sigma}_b &= -R_{b,ser} \qquad (B.6) \\ \sigma_{b,el}
+    &= 0 \qquad (B.7) \\ \hat{\nu} &= \frac{\hat{\sigma}_b}{\hat{\varepsilon}_b E_b}
+    \qquad (B.8) \\ \eta &= \frac{\sigma_b}{\hat{\sigma}_b} \qquad (B.9) \end{aligned}
 rId331:
-  formula_id: F_TCVN_5574_2018_FORMULA_B_10
-  latex: 'v_0 = 1 \tag{B.10}
-
-    \omega_1 = 2 - 2,5\hat{v}_b \tag{B.11}'
+  formula_id: F_TCVN_5574_2018_FORMULA_B_10_11
+  latex: \begin{aligned} v_0 &= 1 \qquad (B.10) \\ \omega_1 &= 2 - 2,5\hat{v}_b \qquad
+    (B.11) \end{aligned}
 rId332:
-  formula_id: F_TCVN_5574_2018_FORMULA_B_12
-  latex: 'v_0 = 2,05\,\hat{v}_b \tag{B.12}
-
-    \omega_1 = 1,95\hat{v}_b - 0,138 \tag{B.13}'
+  formula_id: F_TCVN_5574_2018_FORMULA_B_12_13
+  latex: \begin{aligned} v_0 &= 2,05\,\hat{v}_b \qquad (B.12) \\ \omega_1 &= 1,95\hat{v}_b
+    - 0,138 \qquad (B.13) \end{aligned}
 rId333:
   formula_id: F_TCVN_5574_2018_FORMULA_B_14
   latex: \bar{\varepsilon}_b = -\frac{B}{E_b} \cdot \lambda \cdot \frac{1 + \frac{0,75
     \lambda B}{60} + \frac{0,2 \lambda}{B}}{0,12 + \frac{B}{60} + \frac{0,2}{B}} \tag{B.14}
 rId334:
-  formula_id: F_TCVN_5574_2018_FORMULA_B_15
-  latex: '\tilde{\sigma}_{bt} = R_{bt,ser} \tilde{\gamma}_{btq} \tag{B.15}
-
-    \sigma_{bt,el} = 0 \tag{B.16}
-
-    \eta = \frac{\sigma_{bt}}{\tilde{\sigma}_{bt}} \tag{B.17}
-
-    \tilde{\nu}_{bt} = \frac{0,6 + 0,15\frac{R_{bt,n}}{R_{bt,n}}}{\tilde{\gamma}_{btq}}
-    \tag{B.18}'
+  formula_id: F_TCVN_5574_2018_FORMULA_B_15_18
+  latex: \begin{aligned} \tilde{\sigma}_{bt} &= R_{bt,ser} \tilde{\gamma}_{btq} \qquad
+    (B.15) \\ \sigma_{bt,el} &= 0 \qquad (B.16) \\ \eta &= \frac{\sigma_{bt}}{\tilde{\sigma}_{bt}}
+    \qquad (B.17) \\ \tilde{\nu}_{bt} &= \frac{0,6 + 0,15\frac{R_{bt,n}}{R_{bt,n}}}{\tilde{\gamma}_{btq}}
+    \qquad (B.18) \end{aligned}
 rId336:
   formula_id: F_TCVN_5574_2018_FORMULA_B_19
   latex: \tilde{\gamma}_{btq} = \tilde{\gamma}_h + 0,007 \tag{B.19}
@@ -832,10 +810,9 @@ rId367:
   latex: \xi_{cir} = \frac{N + R_s A_{s,tot} R_b A \frac{\sin 2 \pi \xi_{cir}}{2 \pi}}{\frac{R_b
     A + 2,55 R_s A_{s,tot}}{}}\tag{F.10}
 rId369:
-  formula_id: F_TCVN_5574_2018_FORMULA_G_1
-  latex: 't_k \ge \frac{Q}{R_b L_k n_k} \tag{G.1}
-
-    h_k \ge \frac{Q}{2R_b L_k n_k} \tag{G.2}'
+  formula_id: F_TCVN_5574_2018_FORMULA_G_1_2
+  latex: \begin{aligned} t_k &\ge \frac{Q}{R_b L_k n_k} \qquad (G.1) \\ h_k &\ge \frac{Q}{2R_b
+    L_k n_k} \qquad (G.2) \end{aligned}
 rId373:
   formula_id: F_TCVN_5574_2018_FORMULA_H_1
   latex: Q \le 0,8R_b b l_{sub} \sin^2 \theta \left(1 + 5 \alpha \mu_v\right) \tag{H.1}
@@ -855,49 +832,37 @@ rId392:
 
     Q_j \le Q_{b,j,0} + \gamma_{jn} N_j \tag{I.8}'
 rId393:
-  formula_id: F_TCVN_5574_2018_FORMULA_I_9
-  latex: 'Khi 0,4 < \frac{N_j}{N_{j,0}} < 0,6 :
-
-    Q_j \le Q_{b,j,0} + 0,4 \gamma_{jw} N_{j,0} \tag{I.9}
-
-    Khi 0,6 \le \frac{N_j}{N_{j,0}} \le 1,0 :
-
-    Q_j \le Q_{b,j,0} + \gamma_{jw}\left(N_{j,0} - N_j\right) \tag{I.10}'
+  formula_id: F_TCVN_5574_2018_FORMULA_I_9_10
+  latex: '\begin{aligned} &\text{Khi } 0,4 < \frac{N_j}{N_{j,0}} < 0,6 : & Q_j &\le
+    Q_{b,j,0} + 0,4 \gamma_{jw} N_{j,0} \qquad (I.9) \\ &\text{Khi } 0,6 \le \frac{N_j}{N_{j,0}}
+    \le 1,0 : & Q_j &\le Q_{b,j,0} + \gamma_{jw}\left(N_{j,0} - N_j\right) \qquad
+    (I.10) \end{aligned}'
 rId394:
-  formula_id: F_TCVN_5574_2018_FORMULA_K_1
-  latex: 'D_{11} = \sum_i A_{bi} Z_{bni}^2 E_b v_{bi} + \sum_j A_{bj} Z_{snj}^2 E_{sj}
-    v_{sj} + \sum_k A_{bk} Z_{bnk}^2 E_b v_{bk} \tag{K.1}
-
-    D_{22} = \sum_i A_{bi} Z_{byi}^2 E_b v_{bi} + \sum_j A_{bj} Z_{syj}^2 E_{sj} v_{sj}
-    + \sum_k A_{bk} Z_{byk}^2 E_b v_{bk} \tag{K.2}
-
-    D_{12} = \sum_i A_{bi} Z_{bni} Z_{byi} E_b v_{bi} + \sum_j A_{bj} Z_{snj} Z_{syj}
-    E_{sj} v_{sj} + \sum_k A_{bk} Z_{bnk} Z_{byk} E_b v_{bk} \tag{K.3}
-
-    D_{13} = \sum_i A_{bi} Z_{bni} E_b v_{bi} + \sum_j A_{bj} Z_{snj} E_{sj} v_{sj}
-    + \sum_k A_{bk} Z_{bnk} E_b v_{bk} \tag{K.4}
-
-    D_{23} = \sum_i A_{bi} Z_{byi} E_b v_{bi} + \sum_j A_{bj} Z_{syj} E_{sj} v_{sj}
-    + \sum_k A_{bk} Z_{byk} E_b v_{bk} \tag{K.5}
-
-    D_{33} = \sum_i A_{bi} E_b v_{bi} + \sum_j A_{bj} E_{sj} v_{sj} + \sum_k A_{bk}
-    E_b v_{bk} \tag{K.6}'
+  formula_id: F_TCVN_5574_2018_FORMULA_K_1_6
+  latex: \begin{aligned} D_{11} &= \sum_i A_{bi} Z_{bni}^2 E_b v_{bi} + \sum_j A_{bj}
+    Z_{snj}^2 E_{sj} v_{sj} + \sum_k A_{bk} Z_{bnk}^2 E_b v_{bk} \qquad (K.1) \\ D_{22}
+    &= \sum_i A_{bi} Z_{byi}^2 E_b v_{bi} + \sum_j A_{bj} Z_{syj}^2 E_{sj} v_{sj}
+    + \sum_k A_{bk} Z_{byk}^2 E_b v_{bk} \qquad (K.2) \\ D_{12} &= \sum_i A_{bi} Z_{bni}
+    Z_{byi} E_b v_{bi} + \sum_j A_{bj} Z_{snj} Z_{syj} E_{sj} v_{sj} + \sum_k A_{bk}
+    Z_{bnk} Z_{byk} E_b v_{bk} \qquad (K.3) \\ D_{13} &= \sum_i A_{bi} Z_{bni} E_b
+    v_{bi} + \sum_j A_{bj} Z_{snj} E_{sj} v_{sj} + \sum_k A_{bk} Z_{bnk} E_b v_{bk}
+    \qquad (K.4) \\ D_{23} &= \sum_i A_{bi} Z_{byi} E_b v_{bi} + \sum_j A_{bj} Z_{syj}
+    E_{sj} v_{sj} + \sum_k A_{bk} Z_{byk} E_b v_{bk} \qquad (K.5) \\ D_{33} &= \sum_i
+    A_{bi} E_b v_{bi} + \sum_j A_{bj} E_{sj} v_{sj} + \sum_k A_{bk} E_b v_{bk} \qquad
+    (K.6) \end{aligned}
 rId395:
-  formula_id: F_TCVN_5574_2018_FORMULA_K_7
-  latex: 'R_{b,red} = R_b + \varphi \mu_{xy}R_{s,xy} \tag{K.7}
-
-    \varepsilon_{b0,red} = \varepsilon_{b0} + 0,02 \alpha_{red} \tag{K.8}
-
-    \varepsilon_{b2,red} = \varepsilon_{b2}\frac{\varepsilon_{b0,red}}{\varepsilon_{b0}}
-    \tag{K.9}'
+  formula_id: F_TCVN_5574_2018_FORMULA_K_7_9
+  latex: \begin{aligned} R_{b,red} &= R_b + \varphi \mu_{xy}R_{s,xy} \qquad (K.7)
+    \\ \varepsilon_{b0,red} &= \varepsilon_{b0} + 0,02 \alpha_{red} \qquad (K.8) \\
+    \varepsilon_{b2,red} &= \varepsilon_{b2}\frac{\varepsilon_{b0,red}}{\varepsilon_{b0}}
+    \qquad (K.9) \end{aligned}
 rId396:
   formula_id: F_TCVN_5574_2018_FORMULA_K_10
   latex: \mu_{s,xy} = \frac{n_x A_{sx} L_x + n_y A_{sy} L_y}{A_{ef} s} \tag{K.10}
 rId397:
-  formula_id: F_TCVN_5574_2018_FORMULA_K_11
-  latex: '\varphi = \frac{1}{0,23 + \alpha_{red}} \tag{K.11}
-
-    \alpha_{red} = \frac{\mu_{xy} R_{s,xy}}{R_b + 10} \tag{K.12}'
+  formula_id: F_TCVN_5574_2018_FORMULA_K_11_12
+  latex: \begin{aligned} \varphi &= \frac{1}{0,23 + \alpha_{red}} \qquad (K.11) \\
+    \alpha_{red} &= \frac{\mu_{xy} R_{s,xy}}{R_b + 10} \qquad (K.12) \end{aligned}
 rId86:
   formula_id: F_TCVN_5574_2018_FIGURE_8_LEGEND
   latex: ''

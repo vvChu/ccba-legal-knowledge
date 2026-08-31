@@ -24,13 +24,6 @@ trong đó: vế phải lấy không lớn hơn 3,5$R_{bt}bh_{0}$ và không nh�
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\mu_{w}= \frac{A_{sw}}{b s_w}$ là hàm lượng của các cốt thép đai nằm theo chiều cao công xôn, với $s_{w}$ là khoảng cách giữa các cốt thép đai, được đo theo đường vuông góc với chúng.
 
 
-<!-- DIAGRAM: word/media/image286.png -->
-
-**CHÚ DẪN:**
-
-1 - Dải bê tông nghiêng tính toán.
-
-
 <a id="hinh-h_1"></a>
 
 <p align="center">
@@ -38,6 +31,10 @@ trong đó: vế phải lấy không lớn hơn 3,5$R_{bt}bh_{0}$ và không nh�
 ![Hình H.1](../figures/images/hinh_h_1.png)
 
 </p>
+
+**CHÚ DẪN:**
+
+1 - Dải bê tông nghiêng tính toán.
 
 <p align="center"><strong>Hình H.1 — Sơ đồ tính toán công xôn ngắn chịu tác dụng của lực cắt</strong></p>
 
@@ -52,13 +49,6 @@ Khi dầm chạy dọc theo chiều dài vươn công xôn và tựa khớp lên
 Bố trí cốt thép ngang cho công xôn ngắn phải thỏa mãn các yêu cầu cấu tạo.
 
 
-<!-- DIAGRAM: word/media/image287.png -->
-
-**CHÚ DẪN:**
-
-1 - Dải bê tông nghiêng tính toán.
-
-
 <a id="hinh-h_2"></a>
 
 <p align="center">
@@ -66,6 +56,10 @@ Bố trí cốt thép ngang cho công xôn ngắn phải thỏa mãn các yêu c
 ![Hình H.2](../figures/images/hinh_h_2.png)
 
 </p>
+
+**CHÚ DẪN:**
+
+1 - Dải bê tông nghiêng tính toán.
 
 <p align="center"><strong>Hình H.2 — Sơ đồ tính toán công xôn ngắn khi dầm lắp ghép chạy dọc chiều dài vươn công xôn và tựa khớp lên công xôn</strong></p>
 

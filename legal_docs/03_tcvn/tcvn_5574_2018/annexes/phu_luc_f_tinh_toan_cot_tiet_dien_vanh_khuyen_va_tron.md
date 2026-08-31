@@ -53,13 +53,6 @@ $r_{s}$  là bán kính đường tròn đi qua trọng tâm các thanh cốt th
 Mô men uốn M được xác định có kể đến ảnh hưởng của uốn dọc cấu kiện.
 
 
-<!-- DIAGRAM: word/media/image275.png -->
-
-**CHÚ DẪN:**
-
-1 - Vùng chịu nén.
-
-
 <a id="hinh-f_1"></a>
 
 <p align="center">
@@ -67,6 +60,10 @@ Mô men uốn M được xác định có kể đến ảnh hưởng của uốn
 ![Hình F.1](../figures/images/hinh_f_1.png)
 
 </p>
+
+**CHÚ DẪN:**
+
+1 - Vùng chịu nén.
 
 <p align="center"><strong>Hình F.1 — Sơ đồ tính toán tiết diện vành khuyên của cấu kiện chịu nén</strong></p>
 
@@ -118,13 +115,6 @@ $A_{s,tot}$  là diện tích tiết diện toàn bộ cốt thép dọc.
 Mô men uốn M được xác định có kể đến ảnh hưởng của uốn dọc cấu kiện.
 
 
-<!-- DIAGRAM: word/media/image279.png -->
-
-**CHÚ DẪN:**
-
-1 - Vùng chịu nén.
-
-
 <a id="hinh-f_2"></a>
 
 <p align="center">
@@ -132,6 +122,10 @@ Mô men uốn M được xác định có kể đến ảnh hưởng của uốn
 ![Hình F.2](../figures/images/hinh_f_2.png)
 
 </p>
+
+**CHÚ DẪN:**
+
+1 - Vùng chịu nén.
 
 <p align="center"><strong>Hình F.2 — Sơ đồ tính toán tiết diện tròn của cấu kiện chịu nén lệch tâm</strong></p>
 

@@ -117,11 +117,8 @@ Q_j \le Q_{b,j,0} + \gamma_{jn} N_j \tag{I.8}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_I_8" -->
 
 
-$$Khi 0,4 < \frac{N_j}{N_{j,0}} < 0,6 :
-Q_j \le Q_{b,j,0} + 0,4 \gamma_{jw} N_{j,0} \tag{I.9}
-Khi 0,6 \le \frac{N_j}{N_{j,0}} \le 1,0 :
-Q_j \le Q_{b,j,0} + \gamma_{jw}\left(N_{j,0} - N_j\right) \tag{I.10}$$
-<!-- formula_id: "F_TCVN_5574_2018_FORMULA_I_9" -->
+$$\begin{aligned} &\text{Khi } 0,4 < \frac{N_j}{N_{j,0}} < 0,6 : & Q_j &\le Q_{b,j,0} + 0,4 \gamma_{jw} N_{j,0} \qquad (I.9) \\ &\text{Khi } 0,6 \le \frac{N_j}{N_{j,0}} \le 1,0 : & Q_j &\le Q_{b,j,0} + \gamma_{jw}\left(N_{j,0} - N_j\right) \qquad (I.10) \end{aligned}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_I_9_10" -->
 
 trong đó:
 

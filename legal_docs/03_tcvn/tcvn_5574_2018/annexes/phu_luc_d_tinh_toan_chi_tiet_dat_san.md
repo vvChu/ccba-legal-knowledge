@@ -7,9 +7,6 @@
 ### D.1  Các thanh neo hàn thẳng góc vào các bản thép phẳng của chi tiết đặt sẵn, chịu tác dụng của mô men uốn, lực thẳng góc với chúng và lực trượt do tải trọng tĩnh nằm trong mặt phẳng đối xứng của chi tiết đặt sẵn (Hình D.1) cần được tính toán theo điều kiện:
 
 
-<!-- DIAGRAM: word/media/image259.png -->
-
-
 <a id="hinh-d_1"></a>
 
 <p align="center">

@@ -7,9 +7,8 @@
 ### B.1  Quan hệ giải tích của các biểu đồ biến dạng (dạng đường cong) của bê tông có dạng:
 
 
-$$\varepsilon_m = \frac{\sigma_m}{E_m v_m} \tag{B.1}
-d \varepsilon_m = \frac{d \sigma_m}{E_m v_m^k} \tag{B.2}$$
-<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_1" -->
+$$\begin{aligned} \varepsilon_m &= \frac{\sigma_m}{E_m v_m} \qquad (B.1) \\ d \varepsilon_m &= \frac{d \sigma_m}{E_m v_m^k} \qquad (B.2) \end{aligned}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_1_2" -->
 
 trong đó:
 
@@ -56,13 +55,6 @@ Trong các công thức (B.3) và (B.5), lấy dấu “cộng” đối với b
 ### B.2  Khi nén một trục và nén thuần túy đối với bê tông thì biểu đồ biến dạng ban đầu của bê tông (Hình B.1a) được mô tả bằng các quan hệ từ (B.1) đến (B.5), trong đó các đại lượng được lấy như sau:
 
 
-<!-- DIAGRAM: word/media/image248.png -->
-
-**CHÚ DẪN:**
-
-1 - Nhánh lên; 2 - Nhánh xuống.
-
-
 <a id="hinh-b_1"></a>
 
 <p align="center">
@@ -71,30 +63,29 @@ Trong các công thức (B.3) và (B.5), lấy dấu “cộng” đối với b
 
 </p>
 
+**CHÚ DẪN:**
+
+1 - Nhánh lên; 2 - Nhánh xuống.
+
 <p align="center"><strong>Hình B.1 — Các biểu đồ biến dạng (dạng đường cong) của bê tông</strong></p>
 
 &nbsp;&nbsp;\- Đối với cả hai nhánh của biểu đồ:
 
 
-$$\hat{\sigma}_b = -R_{b,ser} \tag{B.6}
-\sigma_{b,el} = 0 \tag{B.7}
-\hat{\nu} = \frac{\hat{\sigma}_b}{\hat{\varepsilon}_b E_b} \tag{B.8}
-\eta = \frac{\sigma_b}{\hat{\sigma}_b} \tag{B.9}$$
-<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_6" -->
+$$\begin{aligned} \hat{\sigma}_b &= -R_{b,ser} \qquad (B.6) \\ \sigma_{b,el} &= 0 \qquad (B.7) \\ \hat{\nu} &= \frac{\hat{\sigma}_b}{\hat{\varepsilon}_b E_b} \qquad (B.8) \\ \eta &= \frac{\sigma_b}{\hat{\sigma}_b} \qquad (B.9) \end{aligned}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_6_9" -->
 
 &nbsp;&nbsp;\- Đối với nhánh lên:
 
 
-$$v_0 = 1 \tag{B.10}
-\omega_1 = 2 - 2,5\hat{v}_b \tag{B.11}$$
-<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_10" -->
+$$\begin{aligned} v_0 &= 1 \qquad (B.10) \\ \omega_1 &= 2 - 2,5\hat{v}_b \qquad (B.11) \end{aligned}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_10_11" -->
 
 &nbsp;&nbsp;\- Đối với nhánh xuống:
 
 
-$$v_0 = 2,05\,\hat{v}_b \tag{B.12}
-\omega_1 = 1,95\hat{v}_b - 0,138 \tag{B.13}$$
-<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_12" -->
+$$\begin{aligned} v_0 &= 2,05\,\hat{v}_b \qquad (B.12) \\ \omega_1 &= 1,95\hat{v}_b - 0,138 \qquad (B.13) \end{aligned}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_12_13" -->
 
 Hoành độ của đỉnh biểu đồ nén đọc trục của bê tông được xác định theo công thức:
 
@@ -117,11 +108,8 @@ trong đó:
 Khi kéo một trục và kéo thuần túy đối với bê tông thì biểu đồ biến dạng ban đầu của bê tông (Hình B.1 b) được mô tả bằng các quan hệ từ (B.1) đến (B.4), trong đó các đại lượng được lấy như sau:
 
 
-$$\tilde{\sigma}_{bt} = R_{bt,ser} \tilde{\gamma}_{btq} \tag{B.15}
-\sigma_{bt,el} = 0 \tag{B.16}
-\eta = \frac{\sigma_{bt}}{\tilde{\sigma}_{bt}} \tag{B.17}
-\tilde{\nu}_{bt} = \frac{0,6 + 0,15\frac{R_{bt,n}}{R_{bt,n}}}{\tilde{\gamma}_{btq}} \tag{B.18}$$
-<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_15" -->
+$$\begin{aligned} \tilde{\sigma}_{bt} &= R_{bt,ser} \tilde{\gamma}_{btq} \qquad (B.15) \\ \sigma_{bt,el} &= 0 \qquad (B.16) \\ \eta &= \frac{\sigma_{bt}}{\tilde{\sigma}_{bt}} \qquad (B.17) \\ \tilde{\nu}_{bt} &= \frac{0,6 + 0,15\frac{R_{bt,n}}{R_{bt,n}}}{\tilde{\gamma}_{btq}} \qquad (B.18) \end{aligned}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_15_18" -->
 
 trong đó:
 
