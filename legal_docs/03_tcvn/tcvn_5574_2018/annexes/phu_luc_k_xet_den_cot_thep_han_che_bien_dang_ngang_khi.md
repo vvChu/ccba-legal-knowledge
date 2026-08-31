@@ -44,6 +44,6 @@ trong đó:
 
 
 <a id="formula-k_13"></a>
-$$\text{Formula } (K.13) \tag{K.13}$$
+$$v_0 = \frac{R_b}{R_{b,red}} \tag{K.13}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_K_13" -->
 

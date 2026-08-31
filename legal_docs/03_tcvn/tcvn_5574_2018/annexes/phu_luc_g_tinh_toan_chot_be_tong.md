@@ -35,7 +35,7 @@ Khi có lực nén N thì chiều cao chốt bê tông được phép xác đị
 
 
 <a id="formula-g_3"></a>
-$$h_{k}$ ≥$\frac{Q - 0,7N}{2R_{\text{bt}}L_kn_k} \tag{G.3}$$
+$$h_k \ge \frac{Q - 0,7N}{2 R_{bt} L_k n_k} \tag{G.3}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_G_3" -->
 
 và lấy giảm xuống so với chiều cao đã được xác định theo công thức (G.2) nhưng không giảm quá hai lần.

@@ -61,7 +61,7 @@ Khi thỏa mãn điều kiện
 
 
 <a id="formula-f_8"></a>
-$$N ≤ 0,77$R_{b}$ A + 0,645$R_{s}A_{s,tot} \tag{F.8}$$
+$$N \le 0,77 R_{b} A + 0,645 R_{s}A_{s,tot} \tag{F.8}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_F_8" -->
 
 thì

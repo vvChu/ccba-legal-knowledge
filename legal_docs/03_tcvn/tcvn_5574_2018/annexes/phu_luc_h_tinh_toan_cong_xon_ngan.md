@@ -65,7 +65,7 @@ Bố trí cốt thép ngang cho công xôn ngắn phải thỏa mãn các yêu c
 
 
 <a id="formula-h_2"></a>
-$$\text{Formula } (H.2) \tag{H.2}$$
+$$Q \frac{L_1}{h_0} \le R_s A_s \tag{H.2}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_H_2" -->
 
 trong đó $L_{1}$, $h_{0}$ - xem Hình H.1.
@@ -76,7 +76,7 @@ Khi xà và cột liên kết cứng với nhau cùng với bê tông đổ bù 
 
 
 <a id="formula-h_3"></a>
-$$\text{Formula } (H.3) \tag{H.3}$$
+$$Q \frac{L_1}{h_0} - N_s \le R_s A_s \tag{H.3}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_H_3" -->
 
 trong đó:

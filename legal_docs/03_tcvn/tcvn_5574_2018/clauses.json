@@ -1424,7 +1424,7 @@
   {
     "clause_id": "formula-21",
     "anchor": "formula-21",
-    "title": "$$N ≤ $R_{b}A_{b} \\tag{21}$$",
+    "title": "$$N \\le R_{b}A_{b} \\tag{21}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 1784,
@@ -1433,7 +1433,7 @@
   {
     "clause_id": "formula-23",
     "anchor": "formula-23",
-    "title": "$$N ≤ $\\varphiR_{b}$ A \\tag{23}$$",
+    "title": "$$N \\le \\varphi R_{b} A \\tag{23}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 1799,
@@ -1640,7 +1640,7 @@
   {
     "clause_id": "formula-33",
     "anchor": "formula-33",
-    "title": "$$M ≤ $M_{u} \\tag{33}$$",
+    "title": "$$M \\le M_{u} \\tag{33}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 1991,
@@ -1748,7 +1748,7 @@
   {
     "clause_id": "formula-39",
     "anchor": "formula-39",
-    "title": "$$Mu = $R_{s}A_{s}$($h_{0}$-a’) \\tag{39}$$",
+    "title": "$$Mu = R_{s}A_{s} ( h_{0} -a’) \\tag{39}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2088,
@@ -1775,7 +1775,7 @@
   {
     "clause_id": "formula-42",
     "anchor": "formula-42",
-    "title": "$$\\text{Formula } (42) \\tag{42}$$",
+    "title": "$$x = \\frac{N + R_s A_s - R_{sc} A'_s}{R_b b} \\tag{42}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2119,
@@ -1802,7 +1802,7 @@
   {
     "clause_id": "formula-46",
     "anchor": "formula-46",
-    "title": "$$D = $k_{b}E_{b}$ I + $k_{s}E_{s}I_{s} \\tag{46}$$",
+    "title": "$$D = k_{b}E_{b} I + k_{s}E_{s}I_{s} \\tag{46}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2153,
@@ -1820,7 +1820,7 @@
   {
     "clause_id": "formula-49",
     "anchor": "formula-49",
-    "title": "$$N ≤ $N_{u} \\tag{49}$$",
+    "title": "$$N \\le N_{u} \\tag{49}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2182,
@@ -1829,7 +1829,7 @@
   {
     "clause_id": "formula-50",
     "anchor": "formula-50",
-    "title": "$$N_{u}$ = φ($R_{b}$ A+$R_{sc}A_{s,tot}$) \\tag{50}$$",
+    "title": "$$N_{u} = φ( R_{b} A+ R_{sc}A_{s,tot} ) \\tag{50}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2189,
@@ -1865,7 +1865,7 @@
   {
     "clause_id": "formula-51",
     "anchor": "formula-51",
-    "title": "$$N ≤ $N_{u} \\tag{51}$$",
+    "title": "$$N \\le N_{u} \\tag{51}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2260,
@@ -1874,7 +1874,7 @@
   {
     "clause_id": "formula-52",
     "anchor": "formula-52",
-    "title": "$$N_{u}$ = $R_{s}A_{s,tot} \\tag{52}$$",
+    "title": "$$N_{u} = R_{s}A_{s,tot} \\tag{52}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2273,
@@ -2009,7 +2009,7 @@
   {
     "clause_id": "formula-66",
     "anchor": "formula-66",
-    "title": "$$M_{x}$ = $M_{xd}$ + $Ne_{x} \\tag{66}$$",
+    "title": "$$M_{x} = M_{xd} + Ne_{x} \\tag{66}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2396,
@@ -2018,7 +2018,7 @@
   {
     "clause_id": "formula-67",
     "anchor": "formula-67",
-    "title": "$$M_{y}$ = $M_{yd}$ + $Ne_{y} \\tag{67}$$",
+    "title": "$$M_{y} = M_{yd} + Ne_{y} \\tag{67}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2401,
@@ -2081,7 +2081,7 @@
   {
     "clause_id": "formula-85",
     "anchor": "formula-85",
-    "title": "$$\\epsilon_{bt,max}$≤ $\\epsilon_{bt,u} \\tag{85}$$",
+    "title": "$$\\epsilon_{bt,max} \\le \\epsilon_{bt,u} \\tag{85}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2474,
@@ -2126,7 +2126,7 @@
   {
     "clause_id": "formula-88",
     "anchor": "formula-88",
-    "title": "$$Q ≤ $\\varphi_{b1}R_{b}bh_{0} \\tag{88}$$",
+    "title": "$$Q \\le \\varphi_{b1}R_{b}bh_{0} \\tag{88}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2525,
@@ -2162,7 +2162,7 @@
   {
     "clause_id": "formula-89",
     "anchor": "formula-89",
-    "title": "$$Q ≤ $Q_{b}$+$Q_{sw} \\tag{89}$$",
+    "title": "$$Q \\le Q_{b} + Q_{sw} \\tag{89}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2559,
@@ -2171,7 +2171,7 @@
   {
     "clause_id": "formula-91",
     "anchor": "formula-91",
-    "title": "$$Q_{sw}$ = $\\varphi_{sw}q_{sw}$ C \\tag{91}$$",
+    "title": "$$Q_{sw} = \\varphi_{sw}q_{sw} C \\tag{91}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2580,
@@ -2180,7 +2180,7 @@
   {
     "clause_id": "formula-92",
     "anchor": "formula-92",
-    "title": "$$\\text{Formula } (92) \\tag{92}$$",
+    "title": "$$q_{sw} = \\frac{R_{sw} A_{sw}}{s_w} \\tag{92}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2591,
@@ -2189,7 +2189,7 @@
   {
     "clause_id": "formula-93",
     "anchor": "formula-93",
-    "title": "$$Q_{1}$ ≤ $Q_{b,1}$ + $Q_{sw,1} \\tag{93}$$",
+    "title": "$$Q_{1} \\le Q_{b,1} + Q_{sw,1} \\tag{93}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2600,
@@ -2198,7 +2198,7 @@
   {
     "clause_id": "formula-94",
     "anchor": "formula-94",
-    "title": "$$Q_{b,1}$ = 0,5$R_{bt}bh_{0} \\tag{94}$$",
+    "title": "$$Q_{b,1} = 0,5 R_{bt}bh_{0} \\tag{94}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2607,
@@ -2207,7 +2207,7 @@
   {
     "clause_id": "formula-95",
     "anchor": "formula-95",
-    "title": "$$Q_{sw,1}$ = $q_{sw}h_{0} \\tag{95}$$",
+    "title": "$$Q_{sw,1} = q_{sw}h_{0} \\tag{95}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2612,
@@ -2216,7 +2216,7 @@
   {
     "clause_id": "formula-96",
     "anchor": "formula-96",
-    "title": "$$q_{sw}$ ≥ 0,25$R_{bt}$ b \\tag{96}$$",
+    "title": "$$q_{sw} \\ge 0,25 R_{bt} b \\tag{96}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2623,
@@ -2225,7 +2225,7 @@
   {
     "clause_id": "formula-97",
     "anchor": "formula-97",
-    "title": "$$\\text{Formula } (97) \\tag{97}$$",
+    "title": "$$Q_b = \\frac{\\varphi_{b2} R_{bt} b h_0^2}{C} \\tag{97}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2630,
@@ -2234,7 +2234,7 @@
   {
     "clause_id": "formula-98",
     "anchor": "formula-98",
-    "title": "$$\\text{Formula } (98) \\tag{98}$$",
+    "title": "$$s_{w,max} = \\frac{\\varphi_{b4} R_{bt} b h_0^2}{Q} \\tag{98}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2639,
@@ -2261,7 +2261,7 @@
   {
     "clause_id": "formula-99",
     "anchor": "formula-99",
-    "title": "$$M ≤ $M_{s}$ + $M_{sw} \\tag{99}$$",
+    "title": "$$M \\le M_{s} + M_{sw} \\tag{99}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2666,
@@ -2279,7 +2279,7 @@
   {
     "clause_id": "formula-100",
     "anchor": "formula-100",
-    "title": "$$M_{s}$ = $N_{s}z_{s} \\tag{100}$$",
+    "title": "$$M_{s} = N_{s}z_{s} \\tag{100}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2700,
@@ -2288,7 +2288,7 @@
   {
     "clause_id": "formula-101",
     "anchor": "formula-101",
-    "title": "$$M_{sw}$ = 0,5$Q_{sw}$ C \\tag{101}$$",
+    "title": "$$M_{sw} = 0,5 Q_{sw} C \\tag{101}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2713,
@@ -2333,7 +2333,7 @@
   {
     "clause_id": "formula-102",
     "anchor": "formula-102",
-    "title": "$$T ≤ 0,1$R_{b}b^{2}$ h \\tag{102}$$",
+    "title": "$$T \\le 0,1 R_{b}b^{2} h \\tag{102}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2756,
@@ -2351,7 +2351,7 @@
   {
     "clause_id": "formula-103",
     "anchor": "formula-103",
-    "title": "$$T ≤ $T_{sw}$ + $T_{s} \\tag{103}$$",
+    "title": "$$T \\le T_{sw} + T_{s} \\tag{103}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2771,
@@ -2369,7 +2369,7 @@
   {
     "clause_id": "formula-104",
     "anchor": "formula-104",
-    "title": "$$T_{sw}$ = 0,9$N_{sw}Z_{2} \\tag{104}$$",
+    "title": "$$T_{sw} = 0,9 N_{sw}Z_{2} \\tag{104}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2797,
@@ -2378,7 +2378,7 @@
   {
     "clause_id": "formula-105",
     "anchor": "formula-105",
-    "title": "$$\\text{Formula } (105) \\tag{105}$$",
+    "title": "$$T_s = 0,9 N_s \\frac{z_1}{C} z_2 \\tag{105}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2804,
@@ -2387,7 +2387,7 @@
   {
     "clause_id": "formula-106",
     "anchor": "formula-106",
-    "title": "$$N_{sw}$ = $q_{sw,1}C_{sw} \\tag{106}$$",
+    "title": "$$N_{sw} = q_{sw,1}C_{sw} \\tag{106}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2813,
@@ -2396,7 +2396,7 @@
   {
     "clause_id": "formula-107",
     "anchor": "formula-107",
-    "title": "$$\\text{Formula } (107) \\tag{107}$$",
+    "title": "$$q_{sw1} = \\frac{R_{sw} A_{sw1}}{s_w} \\tag{107}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2820,
@@ -2405,7 +2405,7 @@
   {
     "clause_id": "formula-108",
     "anchor": "formula-108",
-    "title": "$$C_{sw}$ = δ . C \\tag{108}$$",
+    "title": "$$C_{sw} = δ . C \\tag{108}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2831,
@@ -2414,7 +2414,7 @@
   {
     "clause_id": "formula-110",
     "anchor": "formula-110",
-    "title": "$$N_{s}$ = $R_{s}A_{s,1} \\tag{110}$$",
+    "title": "$$N_{s} = R_{s}A_{s,1} \\tag{110}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2842,
@@ -2423,7 +2423,7 @@
   {
     "clause_id": "formula-111",
     "anchor": "formula-111",
-    "title": "$$T_{1}$ ≤ $T_{sw,1}$ + $T_{s,1} \\tag{111}$$",
+    "title": "$$T_{1} \\le T_{sw,1} + T_{s,1} \\tag{111}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2857,
@@ -2594,7 +2594,7 @@
   {
     "clause_id": "formula-123",
     "anchor": "formula-123",
-    "title": "$$F ≤ $F_{b,u} \\tag{123}$$",
+    "title": "$$F \\le F_{b,u} \\tag{123}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3166,
@@ -2603,7 +2603,7 @@
   {
     "clause_id": "formula-124",
     "anchor": "formula-124",
-    "title": "$$F_{b,u}$ = $R_{bt}A_{b} \\tag{124}$$",
+    "title": "$$F_{b,u} = R_{bt}A_{b} \\tag{124}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3179,
@@ -2612,7 +2612,7 @@
   {
     "clause_id": "formula-125",
     "anchor": "formula-125",
-    "title": "$$A_{b}$ = $uh_{0} \\tag{125}$$",
+    "title": "$$A_{b} = uh_{0} \\tag{125}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3188,
@@ -2639,7 +2639,7 @@
   {
     "clause_id": "formula-126",
     "anchor": "formula-126",
-    "title": "$$F ≤ $F_{b,u}$ + $F_{sw,u} \\tag{126}$$",
+    "title": "$$F \\le F_{b,u} + F_{sw,u} \\tag{126}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3222,
@@ -2648,7 +2648,7 @@
   {
     "clause_id": "formula-127",
     "anchor": "formula-127",
-    "title": "$$F_{sw,u}$ = 0,8$q_{sw}$ u \\tag{127}$$",
+    "title": "$$F_{sw,u} = 0,8 q_{sw} u \\tag{127}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3235,
@@ -2657,7 +2657,7 @@
   {
     "clause_id": "formula-128",
     "anchor": "formula-128",
-    "title": "$$\\text{Formula } (128) \\tag{128}$$",
+    "title": "$$q_{sw} = \\frac{R_{sw} A_{sw}}{s_w} \\tag{128}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3246,
@@ -2693,7 +2693,7 @@
   {
     "clause_id": "formula-130",
     "anchor": "formula-130",
-    "title": "$$M_{b,u}$ = $R_{bt}W_{b}h_{0} \\tag{130}$$",
+    "title": "$$M_{b,u} = R_{bt}W_{b}h_{0} \\tag{130}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3308,
@@ -2711,7 +2711,7 @@
   {
     "clause_id": "formula-133",
     "anchor": "formula-133",
-    "title": "$$M_{sw,u}$ = 0,8$q_{sw}W_{sw} \\tag{133}$$",
+    "title": "$$M_{sw,u} = 0,8 q_{sw}W_{sw} \\tag{133}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3349,
@@ -2783,7 +2783,7 @@
   {
     "clause_id": "formula-141",
     "anchor": "formula-141",
-    "title": "$$M_{bxy,u}$ = 0,1$R_{b}b^{2}$ h \\tag{141}$$",
+    "title": "$$M_{bxy,u} = 0,1 R_{b}b^{2} h \\tag{141}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3440,
@@ -2792,7 +2792,7 @@
   {
     "clause_id": "formula-142",
     "anchor": "formula-142",
-    "title": "$$M_{sxy,u}$ = 0,5$R_{s}$($A_{sx}$ + $A_{sy}$)$h_{0} \\tag{142}$$",
+    "title": "$$M_{sxy,u} = 0,5 R_{s} ( A_{sx} + A_{sy} ) h_{0} \\tag{142}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3447,
@@ -2810,7 +2810,7 @@
   {
     "clause_id": "formula-144",
     "anchor": "formula-144",
-    "title": "$$Q_{x(y),u}$ = $Q_{b}$ + $Q_{sw} \\tag{144}$$",
+    "title": "$$Q_{x(y),u} = Q_{b} + Q_{sw} \\tag{144}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3474,
@@ -2819,7 +2819,7 @@
   {
     "clause_id": "formula-145",
     "anchor": "formula-145",
-    "title": "$$Q_{b}$ = 0,5$R_{bt}bh_{0} \\tag{145}$$",
+    "title": "$$Q_{b} = 0,5 R_{bt}bh_{0} \\tag{145}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3483,
@@ -2828,7 +2828,7 @@
   {
     "clause_id": "formula-146",
     "anchor": "formula-146",
-    "title": "$$Q_{sw}$ = $q_{sw}h_{0} \\tag{146}$$",
+    "title": "$$Q_{sw} = q_{sw}h_{0} \\tag{146}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3488,
@@ -2864,7 +2864,7 @@
   {
     "clause_id": "formula-151",
     "anchor": "formula-151",
-    "title": "$$N_{bxy,u}$ = 0,3$R_{b}A_{b} \\tag{151}$$",
+    "title": "$$N_{bxy,u} = 0,3 R_{b}A_{b} \\tag{151}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3528,
@@ -2873,7 +2873,7 @@
   {
     "clause_id": "formula-152",
     "anchor": "formula-152",
-    "title": "$$N_{sxy,u}$ = 0,5$R_{s}$($A_{sx}$ + $A_{sy}$) \\tag{152}$$",
+    "title": "$$N_{sxy,u} = 0,5 R_{s} ( A_{sx} + A_{sy} ) \\tag{152}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3537,
@@ -2972,7 +2972,7 @@
   {
     "clause_id": "formula-153",
     "anchor": "formula-153",
-    "title": "$$M > $M_{crc} \\tag{153}$$",
+    "title": "$$M > M_{crc} \\tag{153}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3596,
@@ -2981,7 +2981,7 @@
   {
     "clause_id": "formula-154",
     "anchor": "formula-154",
-    "title": "$$N > $N_{crc} \\tag{154}$$",
+    "title": "$$N > N_{crc} \\tag{154}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3609,
@@ -3008,7 +3008,7 @@
   {
     "clause_id": "formula-155",
     "anchor": "formula-155",
-    "title": "$$a_{crc}$ ≤ $a_{crc,u} \\tag{155}$$",
+    "title": "$$a_{crc} \\le a_{crc,u} \\tag{155}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3630,
@@ -3035,7 +3035,7 @@
   {
     "clause_id": "formula-156",
     "anchor": "formula-156",
-    "title": "$$a_{crc}$ = $a_{crc,1} \\tag{156}$$",
+    "title": "$$a_{crc} = a_{crc,1} \\tag{156}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3666,
@@ -3044,7 +3044,7 @@
   {
     "clause_id": "formula-157",
     "anchor": "formula-157",
-    "title": "$$a_{crc}$ = $a_{crc,1}$ + $a_{crc,2}$ - $a_{crc,3} \\tag{157}$$",
+    "title": "$$a_{crc} = a_{crc,1} + a_{crc,2} - a_{crc,3} \\tag{157}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3673,
@@ -3107,7 +3107,7 @@
   {
     "clause_id": "formula-159",
     "anchor": "formula-159",
-    "title": "$$W_{pl}$ = $\\gammaW_{red} \\tag{159}$$",
+    "title": "$$W_{pl} = \\gamma W_{red} \\tag{159}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3743,
@@ -3134,7 +3134,7 @@
   {
     "clause_id": "formula-165",
     "anchor": "formula-165",
-    "title": "$$N_{crc}$ = $A_{red}R_{bt,ser} \\tag{165}$$",
+    "title": "$$N_{crc} = A_{red}R_{bt,ser} \\tag{165}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3782,
@@ -3188,7 +3188,7 @@
   {
     "clause_id": "formula-171",
     "anchor": "formula-171",
-    "title": "$$\\text{Formula } (171) \\tag{171}$$",
+    "title": "$$z_s = h_0 - \\frac{x}{3} \\tag{171}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3868,
@@ -3269,7 +3269,7 @@
   {
     "clause_id": "formula-177",
     "anchor": "formula-177",
-    "title": "$$f ≤ $f_{u} \\tag{177}$$",
+    "title": "$$f \\le f_{u} \\tag{177}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 3955,
@@ -3314,7 +3314,7 @@
   {
     "clause_id": "formula-184",
     "anchor": "formula-184",
-    "title": "$$Q > 0,5$R_{bt,ser}bh_{0} \\tag{184}$$",
+    "title": "$$Q > 0,5 R_{bt,ser}bh_{0} \\tag{184}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 4056,
@@ -3359,7 +3359,7 @@
   {
     "clause_id": "formula-187",
     "anchor": "formula-187",
-    "title": "$$\\text{Formula } (187) \\tag{187}$$",
+    "title": "$$\\left(\\frac{1}{r}\\right) = \\frac{M}{D} \\tag{187}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 4105,
@@ -3368,7 +3368,7 @@
   {
     "clause_id": "formula-188",
     "anchor": "formula-188",
-    "title": "$$D = $E_{b1}I_{red} \\tag{188}$$",
+    "title": "$$D = E_{b1}I_{red} \\tag{188}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 4116,
@@ -3386,7 +3386,7 @@
   {
     "clause_id": "formula-191",
     "anchor": "formula-191",
-    "title": "$$E_{b1}$ = 0,85$E_{b} \\tag{191}$$",
+    "title": "$$E_{b1} = 0,85 E_{b} \\tag{191}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 4153,
@@ -3431,7 +3431,7 @@
   {
     "clause_id": "formula-200",
     "anchor": "formula-200",
-    "title": "$$D = $E_{s,red}A_{s}$ z($h_{0}$ - $x_{m}$) \\tag{200}$$",
+    "title": "$$D = E_{s,red}A_{s} z( h_{0} - x_{m} ) \\tag{200}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 4255,
@@ -3440,7 +3440,7 @@
   {
     "clause_id": "formula-201",
     "anchor": "formula-201",
-    "title": "$$\\text{Formula } (201) \\tag{201}$$",
+    "title": "$$z = h_0 - \\frac{x_m}{3} \\tag{201}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 4264,
@@ -3908,7 +3908,7 @@
   {
     "clause_id": "formula-244",
     "anchor": "formula-244",
-    "title": "$$\\text{Formula } (244) \\tag{244}$$",
+    "title": "$$r = \\frac{W_{red}}{A_{red}} \\tag{244}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 4831,
@@ -3944,7 +3944,7 @@
   {
     "clause_id": "formula-246",
     "anchor": "formula-246",
-    "title": "$$M_{p}$ = M ± $N_{p}e_{0p} \\tag{246}$$",
+    "title": "$$M_{p} = M \\pm N_{p}e_{0p} \\tag{246}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 4866,
@@ -3953,7 +3953,7 @@
   {
     "clause_id": "formula-248",
     "anchor": "formula-248",
-    "title": "$$\\text{Formula } (248) \\tag{248}$$",
+    "title": "$$z = h_0 - \\frac{x_N}{3} \\tag{248}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 4885,
@@ -3998,7 +3998,7 @@
   {
     "clause_id": "formula-249",
     "anchor": "formula-249",
-    "title": "$$\\text{Formula } (249) \\tag{249}$$",
+    "title": "$$\\frac{1}{r} = \\frac{M \\pm N_p e_{0p}}{D} \\tag{249}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 4914,
@@ -4367,7 +4367,7 @@
   {
     "clause_id": "formula-255",
     "anchor": "formula-255",
-    "title": "$$\\text{Formula } (255) \\tag{255}$$",
+    "title": "$$L_{0,an} = \\frac{R_s A_s}{R_{bond} u_s} \\tag{255}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 5261,
@@ -4817,7 +4817,7 @@
   {
     "clause_id": "formula-a_1",
     "anchor": "formula-a_1",
-    "title": "$$R_{b,n}$/B = (0,77 - 0,001B) \\tag{A.1}$$",
+    "title": "$$R_{b,n} /B = (0,77 - 0,001B) \\tag{A.1}$$",
     "source_file": "annexes/phu_luc_a_quan_he_giua_cac_cuong_do_chiu_nen_cua_be_ton.md",
     "jurisdiction": "CQXD",
     "line_start": 12,
@@ -4826,7 +4826,7 @@
   {
     "clause_id": "formula-a_2",
     "anchor": "formula-a_2",
-    "title": "$$R_{b,n}$/B = (0,95 - 0,005B) \\tag{A.2}$$",
+    "title": "$$R_{b,n} /B = (0,95 - 0,005B) \\tag{A.2}$$",
     "source_file": "annexes/phu_luc_a_quan_he_giua_cac_cuong_do_chiu_nen_cua_be_ton.md",
     "jurisdiction": "CQXD",
     "line_start": 21,
@@ -4844,7 +4844,7 @@
   {
     "clause_id": "formula-a_3",
     "anchor": "formula-a_3",
-    "title": "$$B = $R_{m}$(1 - 1,64v) \\tag{A.3}$$",
+    "title": "$$B = R_{m} (1 - 1,64v) \\tag{A.3}$$",
     "source_file": "annexes/phu_luc_a_quan_he_giua_cac_cuong_do_chiu_nen_cua_be_ton.md",
     "jurisdiction": "CQXD",
     "line_start": 32,
@@ -5024,7 +5024,7 @@
   {
     "clause_id": "formula-d_6",
     "anchor": "formula-d_6",
-    "title": "$$N_{an,j,0}$ = $R_{s}A_{an,j} \\tag{D.6}$$",
+    "title": "$$N_{an,j,0} = R_{s}A_{an,j} \\tag{D.6}$$",
     "source_file": "annexes/phu_luc_d_tinh_toan_chi_tiet_dat_san.md",
     "jurisdiction": "CQXD",
     "line_start": 37,
@@ -5051,7 +5051,7 @@
   {
     "clause_id": "formula-d_8",
     "anchor": "formula-d_8",
-    "title": "$$\\text{Formula } (D.8) \\tag{D.8}$$",
+    "title": "$$t \\ge 0,25 d_{an} \\frac{R_s}{f_v} \\tag{D.8}$$",
     "source_file": "annexes/phu_luc_d_tinh_toan_chi_tiet_dat_san.md",
     "jurisdiction": "CQXD",
     "line_start": 78,
@@ -5330,7 +5330,7 @@
   {
     "clause_id": "formula-f_8",
     "anchor": "formula-f_8",
-    "title": "$$N ≤ 0,77$R_{b}$ A + 0,645$R_{s}A_{s,tot} \\tag{F.8}$$",
+    "title": "$$N \\le 0,77 R_{b} A + 0,645 R_{s}A_{s,tot} \\tag{F.8}$$",
     "source_file": "annexes/phu_luc_f_tinh_toan_cot_tiet_dien_vanh_khuyen_va_tron.md",
     "jurisdiction": "CQXD",
     "line_start": 63,
@@ -5375,7 +5375,7 @@
   {
     "clause_id": "formula-g_3",
     "anchor": "formula-g_3",
-    "title": "$$h_{k}$ ≥$\\frac{Q - 0,7N}{2R_{\\text{bt}}L_kn_k} \\tag{G.3}$$",
+    "title": "$$h_k \\ge \\frac{Q - 0,7N}{2 R_{bt} L_k n_k} \\tag{G.3}$$",
     "source_file": "annexes/phu_luc_g_tinh_toan_chot_be_tong.md",
     "jurisdiction": "CQXD",
     "line_start": 37,
@@ -5429,7 +5429,7 @@
   {
     "clause_id": "formula-h_2",
     "anchor": "formula-h_2",
-    "title": "$$\\text{Formula } (H.2) \\tag{H.2}$$",
+    "title": "$$Q \\frac{L_1}{h_0} \\le R_s A_s \\tag{H.2}$$",
     "source_file": "annexes/phu_luc_h_tinh_toan_cong_xon_ngan.md",
     "jurisdiction": "CQXD",
     "line_start": 67,
@@ -5438,7 +5438,7 @@
   {
     "clause_id": "formula-h_3",
     "anchor": "formula-h_3",
-    "title": "$$\\text{Formula } (H.3) \\tag{H.3}$$",
+    "title": "$$Q \\frac{L_1}{h_0} - N_s \\le R_s A_s \\tag{H.3}$$",
     "source_file": "annexes/phu_luc_h_tinh_toan_cong_xon_ngan.md",
     "jurisdiction": "CQXD",
     "line_start": 78,
@@ -5492,7 +5492,7 @@
   {
     "clause_id": "formula-i_2",
     "anchor": "formula-i_2",
-    "title": "$$N_{j}$≤ $R_{s}A_{s,j} \\tag{I.2}$$",
+    "title": "$$N_{j} \\le R_{s}A_{s,j} \\tag{I.2}$$",
     "source_file": "annexes/phu_luc_i_tinh_toan_ket_cau_ban_lap_ghep.md",
     "jurisdiction": "CQXD",
     "line_start": 40,
@@ -5510,7 +5510,7 @@
   {
     "clause_id": "formula-i_3",
     "anchor": "formula-i_3",
-    "title": "$$Q_{j}$≤ $_{b,sh,j}R_{bt}A_{b,j} \\tag{I.3}$$",
+    "title": "$$Q_{j} \\le _{b,sh,j}R_{bt}A_{b,j} \\tag{I.3}$$",
     "source_file": "annexes/phu_luc_i_tinh_toan_ket_cau_ban_lap_ghep.md",
     "jurisdiction": "CQXD",
     "line_start": 49,
@@ -5528,7 +5528,7 @@
   {
     "clause_id": "formula-i_5",
     "anchor": "formula-i_5",
-    "title": "$$\\text{Formula } (I.5) \\tag{I.5}$$",
+    "title": "$$\\frac{Q_j}{Q_{j,0}} + \\frac{N_j}{N_{j,0}} \\le 1 \\tag{I.5}$$",
     "source_file": "annexes/phu_luc_i_tinh_toan_ket_cau_ban_lap_ghep.md",
     "jurisdiction": "CQXD",
     "line_start": 76,
@@ -5546,7 +5546,7 @@
   {
     "clause_id": "formula-i_6",
     "anchor": "formula-i_6",
-    "title": "$$N_{j}$ ≤ $R_{b}A_{b,j} \\tag{I.6}$$",
+    "title": "$$N_{j} \\le R_{b}A_{b,j} \\tag{I.6}$$",
     "source_file": "annexes/phu_luc_i_tinh_toan_ket_cau_ban_lap_ghep.md",
     "jurisdiction": "CQXD",
     "line_start": 91,
@@ -5555,7 +5555,7 @@
   {
     "clause_id": "formula-i_7",
     "anchor": "formula-i_7",
-    "title": "$$N_{j}$ ≤ $R_{b}A_{b,j}$ + $R_{sc}A_{s,j} \\tag{I.7}$$",
+    "title": "$$N_{j} \\le R_{b}A_{b,j} + R_{sc}A_{s,j} \\tag{I.7}$$",
     "source_file": "annexes/phu_luc_i_tinh_toan_ket_cau_ban_lap_ghep.md",
     "jurisdiction": "CQXD",
     "line_start": 98,
@@ -5618,7 +5618,7 @@
   {
     "clause_id": "formula-k_13",
     "anchor": "formula-k_13",
-    "title": "$$\\text{Formula } (K.13) \\tag{K.13}$$",
+    "title": "$$v_0 = \\frac{R_b}{R_{b,red}} \\tag{K.13}$$",
     "source_file": "annexes/phu_luc_k_xet_den_cot_thep_han_che_bien_dang_ngang_khi.md",
     "jurisdiction": "CQXD",
     "line_start": 46,
@@ -5681,7 +5681,7 @@
   {
     "clause_id": "formula-m_1",
     "anchor": "formula-m_1",
-    "title": "$$f ≤ $f_{u} \\tag{M.1}$$",
+    "title": "$$f \\le f_{u} \\tag{M.1}$$",
     "source_file": "annexes/phu_luc_m_do_vong_va_chuyen_vi_cua_ket_cau.md",
     "jurisdiction": "CQXD",
     "line_start": 22,

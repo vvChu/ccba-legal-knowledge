@@ -20,7 +20,7 @@ Phụ lục này không áp dụng cho các công trình thủy công, giao thô
 
 
 <a id="formula-m_1"></a>
-$$f ≤ $f_{u} \tag{M.1}$$
+$$f \le f_{u} \tag{M.1}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_M_1" -->
 
 trong đó:

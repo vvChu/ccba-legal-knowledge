@@ -38,7 +38,7 @@ Tính toán chịu kéo cho các mối nối tiếp xúc có cốt thép nên đ
 
 
 <a id="formula-i_2"></a>
-$$N_{j}$≤ $R_{s}A_{s,j} \tag{I.2}$$
+$$N_{j} \le R_{s}A_{s,j} \tag{I.2}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_I_2" -->
 
 
@@ -47,7 +47,7 @@ $$N_{j}$≤ $R_{s}A_{s,j} \tag{I.2}$$
 
 
 <a id="formula-i_3"></a>
-$$Q_{j}$≤ $_{b,sh,j}R_{bt}A_{b,j} \tag{I.3}$$
+$$Q_{j} \le _{b,sh,j}R_{bt}A_{b,j} \tag{I.3}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_I_3" -->
 
 trong đó:
@@ -74,7 +74,7 @@ trong đó:
 
 
 <a id="formula-i_5"></a>
-$$\text{Formula } (I.5) \tag{I.5}$$
+$$\frac{Q_j}{Q_{j,0}} + \frac{N_j}{N_{j,0}} \le 1 \tag{I.5}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_I_5" -->
 
 trong đó:
@@ -89,14 +89,14 @@ trong đó:
 
 
 <a id="formula-i_6"></a>
-$$N_{j}$ ≤ $R_{b}A_{b,j} \tag{I.6}$$
+$$N_{j} \le R_{b}A_{b,j} \tag{I.6}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_I_6" -->
 
 Tính toán chịu nén cho các mối nối tiếp xúc có cốt thép nên được tiến hành theo điều kiện:
 
 
 <a id="formula-i_7"></a>
-$$N_{j}$ ≤ $R_{b}A_{b,j}$ + $R_{sc}A_{s,j} \tag{I.7}$$
+$$N_{j} \le R_{b}A_{b,j} + R_{sc}A_{s,j} \tag{I.7}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_I_7" -->
 
 

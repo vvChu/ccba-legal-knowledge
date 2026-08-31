@@ -35,7 +35,7 @@ trong đó:
 
 
 <a id="formula-d_6"></a>
-$$N_{an,j,0}$ = $R_{s}A_{an,j} \tag{D.6}$$
+$$N_{an,j,0} = R_{s}A_{an,j} \tag{D.6}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_6" -->
 
 Trong các công thức từ (D.1) đến (D.6):
@@ -76,7 +76,7 @@ Ngoài ra, chiều dày bản táp t của chi tiết đặt sẵn được hàn
 
 
 <a id="formula-d_8"></a>
-$$\text{Formula } (D.8) \tag{D.8}$$
+$$t \ge 0,25 d_{an} \frac{R_s}{f_v} \tag{D.8}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_8" -->
 
 trong đó:

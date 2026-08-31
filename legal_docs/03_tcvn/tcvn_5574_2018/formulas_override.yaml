@@ -10,6 +10,67 @@
 '4':
   formula_id: F_TCVN_5574_2018_FORMULA_4
   latex: f \le f_u
+'42':
+  formula_id: F_TCVN_5574_2018_FORMULA_42
+  latex: x = \frac{N + R_s A_s - R_{sc} A'_s}{R_b b}
+'92':
+  formula_id: F_TCVN_5574_2018_FORMULA_92
+  latex: q_{sw} = \frac{R_{sw} A_{sw}}{s_w}
+'97':
+  formula_id: F_TCVN_5574_2018_FORMULA_97
+  latex: Q_b = \frac{\varphi_{b2} R_{bt} b h_0^2}{C}
+'98':
+  formula_id: F_TCVN_5574_2018_FORMULA_98
+  latex: s_{w,max} = \frac{\varphi_{b4} R_{bt} b h_0^2}{Q}
+'105':
+  formula_id: F_TCVN_5574_2018_FORMULA_105
+  latex: T_s = 0,9 N_s \frac{z_1}{C} z_2
+'107':
+  formula_id: F_TCVN_5574_2018_FORMULA_107
+  latex: q_{sw1} = \frac{R_{sw} A_{sw1}}{s_w}
+'128':
+  formula_id: F_TCVN_5574_2018_FORMULA_128
+  latex: q_{sw} = \frac{R_{sw} A_{sw}}{s_w}
+'171':
+  formula_id: F_TCVN_5574_2018_FORMULA_171
+  latex: z_s = h_0 - \frac{x}{3}
+'187':
+  formula_id: F_TCVN_5574_2018_FORMULA_187
+  latex: \left(\frac{1}{r}\right) = \frac{M}{D}
+'201':
+  formula_id: F_TCVN_5574_2018_FORMULA_201
+  latex: z = h_0 - \frac{x_m}{3}
+'244':
+  formula_id: F_TCVN_5574_2018_FORMULA_244
+  latex: r = \frac{W_{red}}{A_{red}}
+'248':
+  formula_id: F_TCVN_5574_2018_FORMULA_248
+  latex: z = h_0 - \frac{x_N}{3}
+'249':
+  formula_id: F_TCVN_5574_2018_FORMULA_249
+  latex: \frac{1}{r} = \frac{M \pm N_p e_{0p}}{D}
+'255':
+  formula_id: F_TCVN_5574_2018_FORMULA_255
+  latex: L_{0,an} = \frac{R_s A_s}{R_{bond} u_s}
+'D.8':
+  formula_id: F_TCVN_5574_2018_FORMULA_D_8
+  latex: t \ge 0,25 d_{an} \frac{R_s}{f_v}
+'G.3':
+  formula_id: F_TCVN_5574_2018_FORMULA_G_3
+  latex: h_k \ge \frac{Q - 0,7N}{2 R_{bt} L_k n_k}
+'H.2':
+  formula_id: F_TCVN_5574_2018_FORMULA_H_2
+  latex: Q \frac{L_1}{h_0} \le R_s A_s
+'H.3':
+  formula_id: F_TCVN_5574_2018_FORMULA_H_3
+  latex: Q \frac{L_1}{h_0} - N_s \le R_s A_s
+'I.5':
+  formula_id: F_TCVN_5574_2018_FORMULA_I_5
+  latex: \frac{Q_j}{Q_{j,0}} + \frac{N_j}{N_{j,0}} \le 1
+'K.13':
+  formula_id: F_TCVN_5574_2018_FORMULA_K_13
+  latex: v_0 = \frac{R_b}{R_{b,red}}
+
 rId12:
   formula_id: F_TCVN_5574_2018_FORMULA_5_6
   latex: \begin{aligned} R_b &= \frac{R_{b,n}}{\gamma_b} \qquad (5) \\ R_{bt} &= \frac{R_{bt,n}}{\gamma_{bt}}

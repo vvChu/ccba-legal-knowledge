@@ -10,7 +10,7 @@
 
 
 <a id="formula-a_1"></a>
-$$R_{b,n}$/B = (0,77 - 0,001B) \tag{A.1}$$
+$$R_{b,n} /B = (0,77 - 0,001B) \tag{A.1}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_A_1" -->
 
 nhưng không nhỏ hơn 0,72.
@@ -19,7 +19,7 @@ nhưng không nhỏ hơn 0,72.
 
 
 <a id="formula-a_2"></a>
-$$R_{b,n}$/B = (0,95 - 0,005B) \tag{A.2}$$
+$$R_{b,n} /B = (0,95 - 0,005B) \tag{A.2}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_A_2" -->
 
 Giá trị $R_{b,n}$ tính theo công thức (A.1) và (A.2), được làm tròn và ghi trong Bảng 6 của tiêu chuẩn này.
@@ -30,7 +30,7 @@ Giá trị $R_{b,n}$ tính theo công thức (A.1) và (A.2), được làm trò
 
 
 <a id="formula-a_3"></a>
-$$B = $R_{m}$(1 - 1,64v) \tag{A.3}$$
+$$B = R_{m} (1 - 1,64v) \tag{A.3}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_A_3" -->
 
 trong đó:
