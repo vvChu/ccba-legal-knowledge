@@ -462,3 +462,23 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
   3. **Hoàn Tất Chuẩn Hóa 100% Cho Toàn Bộ 85+ Công Thức TCVN 5574:2018:**
      - Toàn bộ 73 công thức thân chính và 12 công thức phụ lục kỹ thuật đạt **100% Clean KaTeX**: $0$ placeholder `\text{Formula }`, $0$ lỗi lồng dấu `$`.
      - Vượt qua toàn bộ 11 Cổng Master CI Gate và 165 bài kiểm thử unit test tự động.
+
+---
+
+## 32. Universal KaTeX Mathematical Syntax Integrity & Standalone Formula Ingestion (ADR 0038 - 2026-08-31)
+
+- **Bài học Khắc phục Lỗi Cú pháp & Tích hợp 228 Công thức TCVN 5574:2018:**
+  1. **Khắc phục Lỗi Bỏ sót Công thức Độc lập (Standalone Equation Image Dropping):**
+     - Trong DOCX tiêu chuẩn, 162+ công thức MathType là ảnh độc lập trên paragraph rỗng (`p.text == ""`).
+     - `_process_paragraph_block` trong `strategy.py` phải quét `rIds` trong XML của paragraph rỗng và ánh xạ với `ctx.formula_overrides` / `ctx.rid_to_katex` để xuất KaTeX block `$$...$$` gắn `<!-- formula_id: ... -->`.
+  2. **Quy tắc Bất Biến Regex Phân Tách Ký Tự Hy Lạp & Toán Tử (Regex Word-Boundary Isolation):**
+     - Không bao giờ gộp `le`, `ge` vào regex phân tách chữ cái không có word-boundary, vì `\left[` sẽ bị tách thành `\le ft[` và làm mất cân bằng `\left`/`\right]`.
+     - Chỉ áp dụng tách chữ số `([0-9])` và luôn có bước auto-heal khôi phục `\le ft` $\rightarrow$ `\left`, `\le q` $\rightarrow$ `\le`, `\ge q` $\rightarrow$ `\ge`.
+  3. **Quy tắc Đánh số Công thức Đa dòng (Multiline Environment KaTeX Guardrail):**
+     - Trong KaTeX/MathJax, `\tag{...}` **chỉ được phép ở cấp top-level equation** `$$...$$`. Khi đặt `\tag` trong `\begin{aligned}`, `\begin{gather}`, `\begin{cases}`, KaTeX sẽ báo lỗi `\tag works only at top level` và bôi đỏ toàn bộ khối công thức.
+     - **Giải pháp chuẩn:** Trong các môi trường đa dòng, luôn dùng khoảng đệm căn phải `\qquad (...)` cho từng dòng, ví dụ: `\sigma_b = E_b \varepsilon_b \qquad (8)`.
+  4. **Tách Rời Tuyệt Đối Khối Chú Thích Hình Ảnh (`<!-- FIGURE: ... -->`):**
+     - Tuyệt đối không bao bọc chuỗi chú thích hình ảnh `<!-- FIGURE: ... -->` bên trong dấu mở/đóng toán học `$$...$$`.
+     - Phải xuất thành comment HTML độc lập hoặc link ảnh Markdown `![...](figures/images/hinh_X.png)`.
+  5. **Tự Động Khôi Phục Biến Biến Dạng Bị Mất (`$_{b}$` $\rightarrow$ `$\varepsilon_{b}$`):**
+     - Tự động phát hiện các subscript mồ côi (orphaned subscripts) từ font Symbol của Word và điền lại ký tự Hy Lạp $\varepsilon$ cho các dòng điều kiện.

@@ -124,6 +124,8 @@ Tài liệu này là Từ điển Thuật ngữ miền nghiệp vụ (Ubiquitous
 - **Kho Nhị Phân Đám Mây 3 Tầng & Native Google Docs (Tri-Tier Cloud Binary Vault - ADR 0035):** Kiến trúc lưu trữ tài sản nhị phân nặng (.pdf, .docx) trên Google Drive `CCBA_Legal_Vault`, tự động chuyển đổi sang Native Google Docs sẵn sàng nạp 1-click vào NotebookLM.
 - **Đặc Tả Tri Thức Hướng Agent Toàn Cầu (OKF v2.4 Universal Agent-Centric - ADR 0036):** Tiêu chuẩn 5 Invariants: Universal `sources/`, phân tách 4 ngăn kéo (`tables/`, `figures/`, `annexes/`, `templates/`), ma trận VBHN đồng vị, khai báo `source_assets` và giao thức Một Cửa `tab=7`.
 - **Hiến Pháp Bảo Tồn Nguyên Văn Quy Phạm (Verbatim Normative Invariant - ADR 0037):** Cấm 100% việc dùng LLM tóm tắt/paraphrase thân văn bản pháp lý; bắt buộc trích xuất xác định 1:1 qua Python-docx AST parser và vượt qua Gate 11 DOCX Verbatim Parity Rate $\ge 98.0\%$.
+- **Chuẩn Hóa Cú Pháp Toán Học KaTeX Toàn Cầu (Universal KaTeX Mathematical Syntax Integrity - ADR 0038):** Quy chuẩn bất biến cho công thức toán trong tiêu chuẩn kỹ thuật: bóc tách 100% MathType khối ảnh độc lập trên paragraph rỗng; cô lập ranh giới từ Regex bảo toàn cặp ngoặc `\left[`/`\right]`; dùng `\qquad (X)` trong môi trường đa dòng (`aligned`, `gather`, `cases`) thay cho `\tag` để triệt tiêu lỗi bôi đỏ KaTeX; và tách rời hoàn toàn chú thích hình ảnh khỏi dấu `$$`.
+
 
 
 
