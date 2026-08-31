@@ -6,6 +6,11 @@
 <a id="muc-b-1"></a>
 ### B.1  Quan hệ giải tích của các biểu đồ biến dạng (dạng đường cong) của bê tông có dạng:
 
+
+$$\varepsilon_m = \frac{\sigma_m}{E_m v_m} \tag{B.1}
+d \varepsilon_m = \frac{d \sigma_m}{E_m v_m^k} \tag{B.2}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_1" -->
+
 trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\epsilon_{m}$, $\sigma_{m}$, $E_{m}$  lần lượt là biến dạng tương đối, ứng suất và mô đun đàn hồi ban đầu (d là dấu vi phân);
@@ -14,7 +19,11 @@ trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $v_{m}$  là hệ số biến động của mô đun cát tuyến, được xác định theo công thức:
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
+
+$$\nu_m = \hat{\nu}_m \pm \le ft(\nu_0 - \hat{\nu}_m\right)\sqrt{1 - \omega_1 \eta - \omega_2 \eta^2} \tag{B.3}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_3" -->
+
+trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\hat{v}_m$ là giá trị của hệ số biến động $v_{m}$ tại đỉnh biểu đồ (khi $\sigma_{m}$ = $\hat{\sigma}_m$);
 
@@ -24,7 +33,11 @@ trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\eta$ là mức gia tăng ứng suất, được xác định theo công thức:
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
+
+$$\eta = \frac{\sigma_m - \sigma_{m,pl}}{\bar{\sigma}_m - \sigma_{m,pl}} \tag{B.4}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_4" -->
+
+trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\sigma_{m}$- $\sigma_{m,el}$≥ 0;
 
@@ -32,11 +45,18 @@ trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $v_m^k$  là hệ số biến động của mô đun tiếp tuyến, có quan hệ với hệ số biến động của mô đun cát tuyến bằng công thức:
 
+
+$$\frac{1}{v_m^*} = \frac{1}{v_m} \pm \frac{\sigma_m(v_0 - \tilde{v}_m)(\omega_1 + 2 \omega_2 \eta)}{2v_m^2(\tilde{\sigma}_m - \sigma_{m,el})\sqrt{1 - \omega_1 \eta - \omega_2 \eta^2}} \tag{B.5}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_5" -->
+
 Trong các công thức (B.3) và (B.5), lấy dấu “cộng” đối với biểu đồ biến dạng của cốt thép và đối với nhánh lên của biểu đồ biến dạng của bê tông, lấy dấu “trừ" đối với nhánh xuống của biểu đồ biến dạng của bê tông. Cho phép sử dụng nhánh xuống của biểu đồ đến mức ứng suất η ≥ 0,85 (có kể đến các chỉ dẫn bổ sung trong B.3).
 
 
 <a id="muc-b-2"></a>
 ### B.2  Khi nén một trục và nén thuần túy đối với bê tông thì biểu đồ biến dạng ban đầu của bê tông (Hình B.1a) được mô tả bằng các quan hệ từ (B.1) đến (B.5), trong đó các đại lượng được lấy như sau:
+
+
+<!-- DIAGRAM: word/media/image248.png -->
 
 **CHÚ DẪN:**
 
@@ -55,11 +75,32 @@ Trong các công thức (B.3) và (B.5), lấy dấu “cộng” đối với b
 
 &nbsp;&nbsp;\- Đối với cả hai nhánh của biểu đồ:
 
+
+$$\hat{\sigma}_b = -R_{b,ser} \tag{B.6}
+\sigma_{b,el} = 0 \tag{B.7}
+\hat{\nu} = \frac{\hat{\sigma}_b}{\hat{\varepsilon}_b E_b} \tag{B.8}
+\eta = \frac{\sigma_b}{\hat{\sigma}_b} \tag{B.9}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_6" -->
+
 &nbsp;&nbsp;\- Đối với nhánh lên:
+
+
+$$v_0 = 1 \tag{B.10}
+\omega_1 = 2 - 2,5\hat{v}_b \tag{B.11}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_10" -->
 
 &nbsp;&nbsp;\- Đối với nhánh xuống:
 
+
+$$v_0 = 2,05\,\hat{v}_b \tag{B.12}
+\omega_1 = 1,95\hat{v}_b - 0,138 \tag{B.13}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_12" -->
+
 Hoành độ của đỉnh biểu đồ nén đọc trục của bê tông được xác định theo công thức:
+
+
+$$\bar{\varepsilon}_b = -\frac{B}{E_b} \cdot \lambda \cdot \frac{1 + \frac{0,75 \lambda B}{60} + \frac{0,2 \lambda}{B}}{0,12 + \frac{B}{60} + \frac{0,2}{B}} \tag{B.14}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_14" -->
 
 trong đó:
 
@@ -75,6 +116,13 @@ trong đó:
 
 Khi kéo một trục và kéo thuần túy đối với bê tông thì biểu đồ biến dạng ban đầu của bê tông (Hình B.1 b) được mô tả bằng các quan hệ từ (B.1) đến (B.4), trong đó các đại lượng được lấy như sau:
 
+
+$$\tilde{\sigma}_{bt} = R_{bt,ser} \tilde{\gamma}_{btq} \tag{B.15}
+\sigma_{bt,el} = 0 \tag{B.16}
+\eta = \frac{\sigma_{bt}}{\tilde{\sigma}_{bt}} \tag{B.17}
+\tilde{\nu}_{bt} = \frac{0,6 + 0,15\frac{R_{bt,n}}{R_{bt,n}}}{\tilde{\gamma}_{btq}} \tag{B.18}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_15" -->
+
 trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\tilde{\gamma}_{b/q}$ là hệ số, lấy như sau:
@@ -83,7 +131,15 @@ Khi kéo đúng tâm: bằng 1,0;
 
 Đối với cấu kiện chịu uốn:
 
+
+$$\tilde{\gamma}_{btq} = \tilde{\gamma}_h + 0,007 \tag{B.19}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_19" -->
+
 với
+
+
+$$0,9 \le q \tilde{\gamma}_n = 2 - \sqrt[5]{h/h_o} \qquad \text{(B.20)}$$
+<!-- formula_id: "F_TCVN_5574_2018_RID337" -->
 
 trong đó:
 

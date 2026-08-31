@@ -123,6 +123,9 @@ Khe hở giữa mặt dưới của các cấu kiện của mái, sàn tầng v�
 
 Đối với các hệ khung giăng của nhà nhiều tầng có chiều cao trên 40 m thì độ nghiêng của các mảng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng lấy bằng $f_{1}$/$h_{s}$ + $f_{1}$/L (Hình M.3) không được vượt quá (xem Bảng M.4): L/300 đối với mục 2; L/500 đối với mục 2a và L/500 đối với mục 2b.
 
+
+<!-- DIAGRAM: word/media/image315.png -->
+
 **CHÚ DẪN:**
 
 | 1 - Tường chịu lực (hoặc cột); trọng<br>2 - Tường ngăn;<br>3 - Sàn tầng (hoặc mái) trước khi chịu tải trọng; | 4 - Sàn tầng (hoặc sàn mái) khi chịu tải<br>5 - Các đoạn thẳng móc để tính độ võng;<br>6 - Khe hở. |
@@ -138,6 +141,9 @@ Khe hở giữa mặt dưới của các cấu kiện của mái, sàn tầng v�
 </p>
 
 <p align="center"><strong>Hình M.1 — Sơ đồ xác định các giá trị L (L1, L2, L3) khi có tường ngăn nằm giữa các tường chịu lực</strong></p>
+
+
+<!-- DIAGRAM: word/media/image316.png -->
 
 **CHÚ DẪN:**
 
@@ -161,6 +167,9 @@ $f_{2}$ - Độ võng của kết cấu vì kèo gắn kết cấu vì kèo ch�
 </p>
 
 <p align="center"><strong>Hình M.2 — Sơ đồ tính độ võng của kết cấu vì kèo khi có đường ray của cần trục treo</strong></p>
+
+
+<!-- DIAGRAM: word/media/image317.png -->
 
 **CHÚ DẪN:**
 
@@ -263,6 +272,10 @@ $f_{2}$ - Độ võng của kết cấu vì kèo gắn kết cấu vì kèo ch�
 
 <a id="muc-m-4-2-2"></a>
 ### M.4.2.2  Độ võng giới hạn theo các yêu cầu về tâm sinh lý của các cấu kiện của: sàn tầng (dầm, xà, bản), cầu thang, ban công, lôgia, các phòng trong nhà ở và nhà công cộng, cũng như của các phòng sinh hoạt của các nhà sản xuất cần xác định theo công thức:
+
+
+$$f_v = \frac{g(p + p_1 + q)}{30n^2(bp + p_1 + q)}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_M_2" -->
 
 trong đó:
 

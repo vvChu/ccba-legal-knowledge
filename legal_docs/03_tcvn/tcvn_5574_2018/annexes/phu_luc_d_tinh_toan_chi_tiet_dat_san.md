@@ -7,6 +7,9 @@
 ### D.1  Các thanh neo hàn thẳng góc vào các bản thép phẳng của chi tiết đặt sẵn, chịu tác dụng của mô men uốn, lực thẳng góc với chúng và lực trượt do tải trọng tĩnh nằm trong mặt phẳng đối xứng của chi tiết đặt sẵn (Hình D.1) cần được tính toán theo điều kiện:
 
 
+<!-- DIAGRAM: word/media/image259.png -->
+
+
 <a id="hinh-d_1"></a>
 
 <p align="center">
@@ -17,17 +20,37 @@
 
 <p align="center"><strong>Hình D.1 — Sơ đồ nội lực tác dụng lên chi tiết đặt sẵn</strong></p>
 
+
+$$\frac{Q_{an,j}}{Q_{an,j,0}} + \frac{N_{an,j}}{N_{an,j,0}} \le q 1 \tag{D.1}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_1" -->
+
 trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $N_{an,j}$  là lực kéo lớn nhất trong một hàng thanh neo, bằng:
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- $Q_{an,j}$  là lực trượt lớn nhất trong một hàng thanh neo, bằng:
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- $N'_{\text{an}}$  là lực nén lớn nhất trong một hàng thanh neo, được xác định theo công thức:
+$$N_{\text{an}, j} = \frac{M}{z} + \frac{N}{n_{\text{an}}}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_2" -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- $Q_{an,j,0}$  là lực trượt chịu bởi tất cả các thanh neo, được xác định theo công thức:
+$Q_{an,j}$  là lực trượt lớn nhất trong một hàng thanh neo, bằng:
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
+
+$$Q_{\text{an},j} = \frac{Q - 0,3N'_{\text{an}}}{n_{\text{an}}}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_3" -->
+
+$N'_{\text{an}}$  là lực nén lớn nhất trong một hàng thanh neo, được xác định theo công thức:
+
+
+$$N'_{\text{an}} = \frac{M}{z} - \frac{N}{n_{\text{an}}}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_4" -->
+
+$Q_{an,j,0}$  là lực trượt chịu bởi tất cả các thanh neo, được xác định theo công thức:
+
+
+$$Q_{an,j,0} = \gamma_{s,sh} A_{an,j} \sqrt{R_b R_s}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_5" -->
+
+trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\gamma_{s,sh}$  là hệ số, lấy bằng 1,65;
 
@@ -57,6 +80,10 @@ Khi bố trí các chi tiết đặt sẵn ở mặt trên (khi đổ bê tông)
 
 <a id="muc-d-2"></a>
 ### D.2  Trong các chi tiết đặt sẵn có các thanh neo được hàn xiên với một góc từ 15 ° đến 30 ° thì các thanh neo xiên này được tính chịu lực trượt (khi Q > N, với N là lực giật đứt) theo công thức:
+
+
+$$A_{an,inc} = \frac{Q - 0,3 N'_{an}}{R_s}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_7" -->
 
 trong đó:
 

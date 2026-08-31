@@ -30,6 +30,10 @@ Tính toán độ bền các mối nối tiếp xúc do tác dụng của các l
 <a id="muc-i-4"></a>
 ### I.4  Tính toán chịu kéo cho các mối nối tiếp xúc không cốt thép nên được tiến hành theo điều kiện:
 
+
+$$N_j \le q \gamma_{bt,j} R_{bt} A_{b,j} \tag{I.1}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_I_1" -->
+
 trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\gamma_{bt,j}$  là hệ số, lấy bằng 0,25 đối với các mối nối được gia công và bằng 0 đối với các mối nối không được gia công.
@@ -55,6 +59,10 @@ trong đó:
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\gamma_{b,sh,j}$ là hệ số, lấy bằng 0,5 đối với các mối nối không được gia công và bằng 1,0 đối với các mối nối được gia công.
 
 Tính toán chống trượt cho các mối nối tiếp xúc có cốt thép nén được tiến hành theo điều kiện:
+
+
+$$Q_j \le q \gamma_{b,sh,j} R_{bt} A_{b,j} \le ft(1 + \gamma_{sb,sh,j} R_{s,j} \mu_{s,j}\right) \tag{I.4}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_I_4" -->
 
 nhưng không lớn hơn $\gamma_{b,sh,lim}R_{bt}A_{b,j}$ ,
 
@@ -102,6 +110,18 @@ $$N_{j} \le R_{b}A_{b,j} + R_{sc}A_{s,j} \tag{I.7}$$
 
 <a id="muc-i-8"></a>
 ### I.8  Tính toán mối nối tiếp xúc chịu tác dụng đồng thời của các lực trượt và lực nén được tiến hành theo các điều kiện:
+
+
+$$Khi 0 \le q \frac{N_j}{N_{j,0}} \le q 0,4 :
+Q_j \le q Q_{b,j,0} + \gamma_{jn} N_j \tag{I.8}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_I_8" -->
+
+
+$$Khi 0,4 < \frac{N_j}{N_{j,0}} < 0,6 :
+Q_j \le q Q_{b,j,0} + 0,4 \gamma_{jw} N_{j,0} \tag{I.9}
+Khi 0,6 \le q \frac{N_j}{N_{j,0}} \le q 1,0 :
+Q_j \le q Q_{b,j,0} + \gamma_{jw}\le ft(N_{j,0} - N_j\right) \tag{I.10}$$
+<!-- formula_id: "F_TCVN_5574_2018_FORMULA_I_9" -->
 
 trong đó:
 
