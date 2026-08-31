@@ -533,7 +533,7 @@
   {
     "clause_id": "formula-2",
     "anchor": "formula-2",
-    "title": "$$C_a = \\left( \\sum_{i \\ge 1} \\gamma_{f,i} G_{k,i} \\text{ “+” } \\sum_{j \\ge 1} \\gamma_{f,j} \\psi_{L,j} Q_{k,L,j} \\text{ “+” } \\sum_{m \\ge 1} \\gamma_{f,m} \\psi_{t,m} Q_{k,t,m} \\right) \\text{ “+” } A_d \\tag{2}$$",
+    "title": "$$F \\le F_{crc,u} \\tag{2}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 819,
@@ -596,7 +596,7 @@
   {
     "clause_id": "formula-3",
     "anchor": "formula-3",
-    "title": "$$\\varphi_1 = 0,4 + \\frac{0,6}{\\sqrt{A / A_1}} \\ge 0,6 \\tag{3}$$",
+    "title": "$$a_{crc} \\le a_{crc,u} \\tag{3}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 848,
@@ -641,7 +641,7 @@
   {
     "clause_id": "formula-4",
     "anchor": "formula-4",
-    "title": "$$\\varphi_2 = 0,5 + \\frac{0,5}{\\sqrt{A / A_2}} \\ge 0,6 \\tag{4}$$",
+    "title": "$$f \\le f_u \\tag{4}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 871,
@@ -1424,7 +1424,7 @@
   {
     "clause_id": "formula-21",
     "anchor": "formula-21",
-    "title": "$$V(z_s)_{3\\,600\\text{s},50} = \\bar{b} \\left(\\frac{z_s}{10}\\right)^{\\bar{\\alpha}} V_{3s,50} \\tag{21}$$",
+    "title": "$$N ≤ $R_{b}A_{b} \\tag{21}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 1784,
@@ -1433,7 +1433,7 @@
   {
     "clause_id": "formula-23",
     "anchor": "formula-23",
-    "title": "$$R_b = \\frac{1}{\\eta_b} - \\frac{1}{2\\eta_b^2}\\left(1 - e^{-2\\eta_b}\\right); \\quad R_b = 1 \\text{ khi } \\eta_b = 0 \\tag{23}$$",
+    "title": "$$N ≤ $\\varphiR_{b}$ A \\tag{23}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 1799,
@@ -5330,7 +5330,7 @@
   {
     "clause_id": "formula-f_8",
     "anchor": "formula-f_8",
-    "title": "$$c_t = c_x (1 + \\eta) k_1 \\tag{F.8}$$",
+    "title": "$$N ≤ 0,77$R_{b}$ A + 0,645$R_{s}A_{s,tot} \\tag{F.8}$$",
     "source_file": "annexes/phu_luc_f_tinh_toan_cot_tiet_dien_vanh_khuyen_va_tron.md",
     "jurisdiction": "CQXD",
     "line_start": 63,

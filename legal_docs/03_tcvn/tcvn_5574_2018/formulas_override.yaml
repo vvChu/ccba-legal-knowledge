@@ -1,10 +1,20 @@
 '1':
   formula_id: F_TCVN_5574_2018_FORMULA_1
   latex: F \le F_u
+'2':
+  formula_id: F_TCVN_5574_2018_FORMULA_2
+  latex: F \le F_{crc,u}
+'3':
+  formula_id: F_TCVN_5574_2018_FORMULA_3
+  latex: a_{crc} \le a_{crc,u}
+'4':
+  formula_id: F_TCVN_5574_2018_FORMULA_4
+  latex: f \le f_u
 rId12:
   formula_id: F_TCVN_5574_2018_FORMULA_5_6
   latex: \begin{aligned} R_b &= \frac{R_{b,n}}{\gamma_b} \qquad (5) \\ R_{bt} &= \frac{R_{bt,n}}{\gamma_{bt}}
     \qquad (6) \end{aligned}
+
 
 rId13:
   formula_id: F_TCVN_5574_2018_FORMULA_7

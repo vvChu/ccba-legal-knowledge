@@ -413,8 +413,8 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại $$C_a = \\left( \\sum_{i \\ge 1} \\gamma_{f,i} G_{k,i} \\text{ “+” } \\sum_{j \\ge 1} \\gamma_{f,j} \\psi_{L,j} Q_{k,L,j} \\text{ “+” } \\sum_{m \\ge 1} \\gamma_{f,m} \\psi_{t,m} Q_{k,t,m} \\right) \\text{ “+” } A_d \\tag{2}$$ của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$C_a = \\left( \\sum_{i \\ge 1} \\gamma_{f,i} G_{k,i} \\text{ “+” } \\sum_{j \\ge 1} \\gamma_{f,j} \\psi_{L,j} Q_{k,L,j} \\text{ “+” } \\sum_{m \\ge 1} \\gamma_{f,m} \\psi_{t,m} Q_{k,t,m} \\right) \\text{ “+” } A_d \\tag{2}$$ (tcvn_5574_2018.md#formula-2).",
+    "question": "Quy định tại $$F \\le F_{crc,u} \\tag{2}$$ của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$F \\le F_{crc,u} \\tag{2}$$ (tcvn_5574_2018.md#formula-2).",
     "anchor": "formula-2",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -462,8 +462,8 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại $$\\varphi_1 = 0,4 + \\frac{0,6}{\\sqrt{A / A_1}} \\ge 0,6 \\tag{3}$$ của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$\\varphi_1 = 0,4 + \\frac{0,6}{\\sqrt{A / A_1}} \\ge 0,6 \\tag{3}$$ (tcvn_5574_2018.md#formula-3).",
+    "question": "Quy định tại $$a_{crc} \\le a_{crc,u} \\tag{3}$$ của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$a_{crc} \\le a_{crc,u} \\tag{3}$$ (tcvn_5574_2018.md#formula-3).",
     "anchor": "formula-3",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -497,8 +497,8 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại $$\\varphi_2 = 0,5 + \\frac{0,5}{\\sqrt{A / A_2}} \\ge 0,6 \\tag{4}$$ của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$\\varphi_2 = 0,5 + \\frac{0,5}{\\sqrt{A / A_2}} \\ge 0,6 \\tag{4}$$ (tcvn_5574_2018.md#formula-4).",
+    "question": "Quy định tại $$f \\le f_u \\tag{4}$$ của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$f \\le f_u \\tag{4}$$ (tcvn_5574_2018.md#formula-4).",
     "anchor": "formula-4",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -1106,15 +1106,15 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$V(z_s)_{3\\,600\\text{s},50} = \\bar{b} \\left(\\frac{z_s}{10}\\right)^{\\bar{\\alpha}} V_{3s,50} \\tag{21}$$ của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$V(z_s)_{3\\,600\\text{s},50} = \\bar{b} \\left(\\frac{z_s}{10}\\right)^{\\bar{\\alpha}} V_{3s,50} \\tag{21}$$ (tcvn_5574_2018.md#formula-21).",
+    "question": "Quy định tại $$N ≤ $R_{b}A_{b} \\tag{21}$$ của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$N ≤ $R_{b}A_{b} \\tag{21}$$ (tcvn_5574_2018.md#formula-21).",
     "anchor": "formula-21",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$R_b = \\frac{1}{\\eta_b} - \\frac{1}{2\\eta_b^2}\\left(1 - e^{-2\\eta_b}\\right); \\quad R_b = 1 \\text{ khi } \\eta_b = 0 \\tag{23}$$ của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$R_b = \\frac{1}{\\eta_b} - \\frac{1}{2\\eta_b^2}\\left(1 - e^{-2\\eta_b}\\right); \\quad R_b = 1 \\text{ khi } \\eta_b = 0 \\tag{23}$$ (tcvn_5574_2018.md#formula-23).",
+    "question": "Quy định tại $$N ≤ $\\varphiR_{b}$ A \\tag{23}$$ của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$N ≤ $\\varphiR_{b}$ A \\tag{23}$$ (tcvn_5574_2018.md#formula-23).",
     "anchor": "formula-23",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
@@ -4144,8 +4144,8 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$c_t = c_x (1 + \\eta) k_1 \\tag{F.8}$$ của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$c_t = c_x (1 + \\eta) k_1 \\tag{F.8}$$ (annexes/phu_luc_f_tinh_toan_cot_tiet_dien_vanh_khuyen_va_tron.md#formula-f_8).",
+    "question": "Quy định tại $$N ≤ 0,77$R_{b}$ A + 0,645$R_{s}A_{s,tot} \\tag{F.8}$$ của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$N ≤ 0,77$R_{b}$ A + 0,645$R_{s}A_{s,tot} \\tag{F.8}$$ (annexes/phu_luc_f_tinh_toan_cot_tiet_dien_vanh_khuyen_va_tron.md#formula-f_8).",
     "anchor": "formula-f_8",
     "source_file": "annexes/phu_luc_f_tinh_toan_cot_tiet_dien_vanh_khuyen_va_tron.md",
     "jurisdiction": "CQXD"
