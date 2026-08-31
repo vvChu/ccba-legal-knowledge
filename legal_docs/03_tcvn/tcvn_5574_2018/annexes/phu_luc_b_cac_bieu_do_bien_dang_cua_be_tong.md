@@ -20,7 +20,7 @@ trong đó:
 &nbsp;&nbsp;&nbsp;&nbsp;\- $v_{m}$  là hệ số biến động của mô đun cát tuyến, được xác định theo công thức:
 
 
-$$\nu_m = \hat{\nu}_m \pm \le ft(\nu_0 - \hat{\nu}_m\right)\sqrt{1 - \omega_1 \eta - \omega_2 \eta^2} \tag{B.3}$$
+$$\nu_m = \hat{\nu}_m \pm \left(\nu_0 - \hat{\nu}_m\right)\sqrt{1 - \omega_1 \eta - \omega_2 \eta^2} \tag{B.3}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_3" -->
 
 trong đó:
@@ -138,7 +138,7 @@ $$\tilde{\gamma}_{btq} = \tilde{\gamma}_h + 0,007 \tag{B.19}$$
 với
 
 
-$$0,9 \le q \tilde{\gamma}_n = 2 - \sqrt[5]{h/h_o} \qquad \text{(B.20)}$$
+$$0,9 \le \tilde{\gamma}_n = 2 - \sqrt[5]{h/h_o} \qquad \text{(B.20)}$$
 <!-- formula_id: "F_TCVN_5574_2018_RID337" -->
 
 trong đó:

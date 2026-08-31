@@ -21,7 +21,7 @@
 <p align="center"><strong>Hình D.1 — Sơ đồ nội lực tác dụng lên chi tiết đặt sẵn</strong></p>
 
 
-$$\frac{Q_{an,j}}{Q_{an,j,0}} + \frac{N_{an,j}}{N_{an,j,0}} \le q 1 \tag{D.1}$$
+$$\frac{Q_{an,j}}{Q_{an,j,0}} + \frac{N_{an,j}}{N_{an,j,0}} \le 1 \tag{D.1}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_1" -->
 
 trong đó:

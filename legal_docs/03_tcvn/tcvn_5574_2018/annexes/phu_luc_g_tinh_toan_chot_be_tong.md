@@ -7,8 +7,8 @@
 ### G.1  Các kích thước của chốt bê tông (Hình G.1) truyền lực trượt giữa các cấu kiện lắp ghép và bê tông hoặc vữa đổ bù nên được xác định theo các công thức:
 
 
-$$t_k \ge q \frac{Q}{R_b L_k n_k} \tag{G.1}
-h_k \ge q \frac{Q}{2R_b L_k n_k} \tag{G.2}$$
+$$t_k \ge \frac{Q}{R_b L_k n_k} \tag{G.1}
+h_k \ge \frac{Q}{2R_b L_k n_k} \tag{G.2}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_G_1" -->
 
 trong đó:

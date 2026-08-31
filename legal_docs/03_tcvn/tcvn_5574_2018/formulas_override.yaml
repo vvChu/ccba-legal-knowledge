@@ -36,7 +36,7 @@
   latex: z_s = h_0 - \frac{x}{3}
 '187':
   formula_id: F_TCVN_5574_2018_FORMULA_187
-  latex: \le ft(\frac{1}{r}\right) = \frac{M}{D}
+  latex: \left(\frac{1}{r}\right) = \frac{M}{D}
 '201':
   formula_id: F_TCVN_5574_2018_FORMULA_201
   latex: z = h_0 - \frac{x_m}{3}
@@ -130,8 +130,8 @@ rId186:
   latex: \psi_s = 1 - 0,8 \frac{M_{crc}}{M}
 rId203:
   formula_id: F_TCVN_5574_2018_FORMULA_185
-  latex: \le ft(\frac{1}{r}\right) = \le ft(\frac{1}{r}\right)_1 - \le ft(\frac{1}{r}\right)_2
-    + \le ft(\frac{1}{r}\right)_3
+  latex: \left(\frac{1}{r}\right) = \left(\frac{1}{r}\right)_1 - \left(\frac{1}{r}\right)_2
+    + \left(\frac{1}{r}\right)_3
 rId237:
   formula_id: F_TCVN_5574_2018_FORMULA_176
   latex: E_{s,red} = \frac{E_s}{\psi_s}
@@ -152,7 +152,7 @@ rId244:
   latex: \Delta \sigma_{sp2} = 1,25 \Delta t
 rId247:
   formula_id: F_TCVN_5574_2018_FORMULA_217
-  latex: \Delta \sigma_{sp7} = \sigma_{sp} \le ft(1 - \frac{1}{e^{\omega x + \delta
+  latex: \Delta \sigma_{sp7} = \sigma_{sp} \left(1 - \frac{1}{e^{\omega x + \delta
     \theta}}\right)
 rId254:
   formula_id: F_TCVN_5574_2018_FORMULA_225
@@ -194,8 +194,8 @@ rId293:
   latex: M_{crc} = R_{bt,ser} W_{pl} \pm P e_{core,p}
 rId296:
   formula_id: F_TCVN_5574_2018_FORMULA_166
-  latex: \sigma_s = \le ft[ \frac{M_p (h_0 - y_c)}{I_{red}} - \frac{N_p}{A_{red}}
-    \right] \frac{E_s}{E_b}
+  latex: \sigma_s = \left[ \frac{M_p (h_0 - y_c)}{I_{red}} - \frac{N_p}{A_{red}} \right]
+    \frac{E_s}{E_b}
 rId297:
   formula_id: F_TCVN_5574_2018_FORMULA_247
   latex: \sigma_s = \frac{M - N_p(z - e_{sp})}{z A_s}
@@ -204,7 +204,7 @@ rId303:
   latex: \frac{1}{r} = \frac{M - N_p z_p}{E_{s,red} A_s z (h_0 - x_N)}
 rId306:
   formula_id: F_TCVN_5574_2018_FORMULA_244
-  latex: \sigma_{si} = \le ft( \frac{E_{si} \varepsilon_{si}}{\psi_{si}} + E_{si}\varepsilon_{0si}
+  latex: \sigma_{si} = \left( \frac{E_{si} \varepsilon_{si}}{\psi_{si}} + E_{si}\varepsilon_{0si}
     \right)
 rId307:
   formula_id: F_TCVN_5574_2018_FORMULA_248
@@ -259,20 +259,18 @@ rId430:
   latex: \beta = 0,4 + 0,6\sqrt{A_l}
 rId14:
   formula_id: F_TCVN_5574_2018_FORMULA_8_9_10
-  latex: '\begin{aligned} &\text{- Khi } 0 \le \varepsilon_b \le \varepsilon_{b1}:
-    \\ &\qquad\qquad \sigma_b = E_b \varepsilon_b \qquad (8) \\[6pt] &\text{- Khi
-    } \varepsilon_{b1} < \varepsilon_b < \varepsilon_{b0}: \\ &\qquad\qquad \sigma_b
-    = \le ft[ \le ft(1 - \frac{\sigma_{b1}}{R_b}\right) \frac{\varepsilon_b - \varepsilon_{b1}}{\varepsilon_{b0}
-    - \varepsilon_{b1}} + \frac{\sigma_{b1}}{R_b} \right] R_b \qquad (9) \\[6pt] &\text{-
-    Khi } \varepsilon_{b0} \le \varepsilon_b \le \varepsilon_{b2}: \\ &\qquad\qquad
-    \sigma_b = R_b \qquad (10) \end{aligned}'
+  latex: '\begin{aligned} &\text{Khi } 0 \le \varepsilon_b \le \varepsilon_{b1}: &
+    \sigma_b &= E_b \varepsilon_b \tag{8} \\ &\text{Khi } \varepsilon_{b1} < \varepsilon_b
+    < \varepsilon_{b0}: & \sigma_b &= \left[ \left(1 - \frac{\sigma_{b1}}{R_b}\right)
+    \frac{\varepsilon_b - \varepsilon_{b1}}{\varepsilon_{b0} - \varepsilon_{b1}} +
+    \frac{\sigma_{b1}}{R_b} \right] R_b \tag{9} \\ &\text{Khi } \varepsilon_{b0} \le
+    \varepsilon_b \le \varepsilon_{b2}: & \sigma_b &= R_b \tag{10} \end{aligned}'
 rId16:
   formula_id: F_TCVN_5574_2018_FORMULA_11_12
-  latex: '\begin{aligned} &\text{- Khi } 0 \le \varepsilon_b \le \varepsilon_{b1}
-    \text{ (với } \varepsilon_{b1} = R_b/E_{b,\text{red}}): \\ &\qquad\qquad \sigma_b
-    = E_{b,\text{red}}\varepsilon_b \qquad (11) \\[6pt] &\text{- Khi } \varepsilon_{b1}
-    \le \varepsilon_b \le \varepsilon_{b2}: \\ &\qquad\qquad \sigma_b = R_b \qquad
-    (12) \end{aligned}'
+  latex: '\begin{aligned} &\text{Khi } 0 \le \varepsilon_b \le \varepsilon_{b1} \text{
+    (với } \varepsilon_{b1} = R_b/E_{b,\text{red}}): & \sigma_b &= E_{b,\text{red}}\varepsilon_b
+    \tag{11} \\ &\text{Khi } \varepsilon_{b1} \le \varepsilon_b \le \varepsilon_{b2}:
+    & \sigma_b &= R_b \tag{12} \end{aligned}'
 rId26:
   formula_id: F_TCVN_5574_2018_FORMULA_22
   latex: N \le R_b b x \tag{22}
@@ -464,10 +462,10 @@ rId100:
     Q_b = \frac{\varphi_{b2} R_{bt} b h_0^2}{C} \tag{90}'
 rId113:
   formula_id: F_TCVN_5574_2018_RID113
-  latex: '5 \le ft( 1 - \frac{\sigma_m}{R_b} \right) & \quad \text{khi} \quad 0.75
-    R_b < \sigma_m \le q R_b \\
+  latex: '5 \left( 1 - \frac{\sigma_m}{R_b} \right) & \quad \text{khi} \quad 0.75
+    R_b < \sigma_m \le R_b \\
 
-    1 - \frac{\sigma_t}{2 R_{bt}} & \quad \text{khi} \quad 0 < \sigma_t \le q R_{bt}
+    1 - \frac{\sigma_t}{2 R_{bt}} & \quad \text{khi} \quad 0 < \sigma_t \le R_{bt}
 
     \end{align*}'
 rId122:
@@ -491,7 +489,7 @@ rId130:
   latex: T_{s,1} = 0,5R_s A_{s,1} Z_2 \tag{113}
 rId132:
   formula_id: F_TCVN_5574_2018_FORMULA_114
-  latex: T \le q T_0 \sqrt{1 - \le ft( \frac{M}{M_0} \right)^2} \qquad (114)
+  latex: T \le T_0 \sqrt{1 - \left( \frac{M}{M_0} \right)^2} \qquad (114)
 rId135:
   formula_id: F_TCVN_5574_2018_FORMULA_117
   latex: R_{b,loc} = \varphi_b R_b \tag{117}
@@ -500,10 +498,10 @@ rId136:
   latex: \varphi_b = 0,8 \sqrt{\frac{A_{b,\text{max}}}{A_{b,\text{loc}}}} \tag{118}
 rId134:
   formula_id: F_TCVN_5574_2018_FORMULA_116
-  latex: N \le q \psi R_{b,loc} A_{b,loc} \tag{116}
+  latex: N \le \psi R_{b,loc} A_{b,loc} \tag{116}
 rId133:
   formula_id: F_TCVN_5574_2018_FORMULA_115
-  latex: T \le q T_0 \le ft( 1 - \frac{Q}{Q_0} \right) \tag{115}
+  latex: T \le T_0 \left( 1 - \frac{Q}{Q_0} \right) \tag{115}
 rId153:
   formula_id: F_TCVN_5574_2018_FORMULA_132
   latex: \frac{F}{F_{b,u} + F_{sw,u}} + \frac{M_x}{M_{bx,u} + M_{swx,u}} + \frac{M_y}{M_{by,u}
@@ -513,11 +511,11 @@ rId152:
   latex: \frac{M_x}{M_{bx,u}} + \frac{M_y}{M_{by,u}} \le 0,5 \frac{F}{F_{b,u}}
 rId154:
   formula_id: F_TCVN_5574_2018_RID154
-  latex: \frac{M_x}{M_{bx,u} + M_{swx,u}} + \frac{M_y}{M_{by,u} + M_{swy,u}} \le q
-    0,5 \frac{F}{F_{b,u} + F_{sw,u}}
+  latex: \frac{M_x}{M_{bx,u} + M_{swx,u}} + \frac{M_y}{M_{by,u} + M_{swy,u}} \le 0,5
+    \frac{F}{F_{b,u} + F_{sw,u}}
 rId150:
   formula_id: F_TCVN_5574_2018_FORMULA_129
-  latex: \frac{F}{F_{b,u}} + \frac{M}{M_{b,u}} \le q 1 \tag{129}
+  latex: \frac{F}{F_{b,u}} + \frac{M}{M_{b,u}} \le 1 \tag{129}
 rId151:
   formula_id: F_TCVN_5574_2018_FORMULA_131
   latex: \frac{F}{F_{b,u}} + \frac{M_x}{M_{bx,u}} + \frac{M_y}{M_{by,u}} \le 1 \tag{131}
@@ -534,7 +532,7 @@ rId155:
 rId161:
   formula_id: F_TCVN_5574_2018_RID161
   latex: \frac { Q _ { x } } { Q _ { x , u } } + \frac { Q _ { y } } { Q _ { y , u
-    } } . . \le q 1 \tag{ 143 }
+    } } . . \le 1 \tag{ 143 }
 rId156:
   formula_id: F_TCVN_5574_2018_FORMULA_135
   latex: W_b = \frac{\pi (D + h_0)^2}{4} \tag{135}
@@ -596,14 +594,14 @@ rId177:
   latex: \alpha_{s1} = \frac{E_s}{E_{b,red}} \tag{168}
 rId182:
   formula_id: F_TCVN_5574_2018_FORMULA_172
-  latex: \sigma_s = \le ft[ \frac{M(h_0 - y_c)}{I_{red}} \pm \frac{N}{A_{red}} \right]
+  latex: \sigma_s = \left[ \frac{M(h_0 - y_c)}{I_{red}} \pm \frac{N}{A_{red}} \right]
     \alpha_{s1} \tag{172}
 rId179:
   formula_id: F_TCVN_5574_2018_FORMULA_170
   latex: \sigma_s = \frac{M}{z_s A_s} \tag{170}
 rId187:
   formula_id: F_TCVN_5574_2018_FORMULA_178
-  latex: f_m = \int_0^L \overline{M}_x \le ft( \frac{1}{r} \right)_x dx \tag{178}
+  latex: f_m = \int_0^L \overline{M}_x \left( \frac{1}{r} \right)_x dx \tag{178}
 rId183:
   formula_id: F_TCVN_5574_2018_FORMULA_173
   latex: \sigma_s = \frac{N(e_s \pm z_s)}{A_s z_s} \tag{173}
@@ -612,13 +610,13 @@ rId184:
   latex: L_s = 0,5 \frac{A_{bf}}{A_s} d_s \tag{174}
 rId192:
   formula_id: F_TCVN_5574_2018_FORMULA_180
-  latex: f_m = sL^2 \le ft( \frac{1}{r} \right)_{\text{max}} \tag{180}
+  latex: f_m = sL^2 \left( \frac{1}{r} \right)_{\text{max}} \tag{180}
 rId197:
   formula_id: F_TCVN_5574_2018_FORMULA_181
   latex: f_q = \int_0^L \overline{Q}_x \gamma_x \, dx \tag{181}
 rId201:
   formula_id: F_TCVN_5574_2018_FORMULA_183
-  latex: \varphi_{crc} = \frac{3 E_b I_{red}}{M_x} \le ft( \frac{1}{r} \right)_x \tag{183}
+  latex: \varphi_{crc} = \frac{3 E_b I_{red}}{M_x} \left( \frac{1}{r} \right)_x \tag{183}
 rId200:
   formula_id: F_TCVN_5574_2018_FORMULA_182
   latex: \gamma_x = \frac{1,2 Q_x \varphi_b}{G b h_0} \varphi_{crc} \tag{182}
@@ -638,21 +636,21 @@ rId211:
   latex: I_{r e d}=I_{b}+I_{s} \alpha_{s 2}+I_{s}^{\prime} \alpha_{s 1} \tag{193}
 rId191:
   formula_id: F_TCVN_5574_2018_FORMULA_179
-  latex: f_m = \frac{L}{12n^2} \le ft\{ \le ft(\frac{1}{r}\right)_{sup, L} + \le ft(\frac{1}{r}\right)_{sup,
-    r} + 6 \sum
+  latex: f_m = \frac{L^2}{12n^2} \left\{ \left( \frac{1}{r} \right)_{\text{sup},L}
+    + \left( \frac{1}{r} \right)_{\text{sup},r} + 6 \sum_{i=1}^{\frac{n}{2}-1} i \left[
+    \left( \frac{1}{r} \right)_{iL} + \left( \frac{1}{r} \right)_{ir} \right] + (3n-2)
+    \left( \frac{1}{r} \right)_c \right\} \tag{179}
 rId202:
   formula_id: F_TCVN_5574_2018_FORMULA_185
-  latex: '\[ \le ft(\frac{1}{r}\right) = \le ft(\frac{1}{r}\right)_1 + \le ft(\frac{1}{r}\right)_2
-    \tag{185} \]
-
-    \[ \le ft(\frac{1}{r}\right) = \le ft(\'
+  latex: \left(\frac{1}{r}\right) = \left(\frac{1}{r}\right)_1 + \left(\frac{1}{r}\right)_2
+    \tag{185}
 rId217:
   formula_id: F_TCVN_5574_2018_FORMULA_194
   latex: S_{b0} = \alpha_{s2} S_{s0} - \alpha_{s1} S'_{s0} \tag{194}
 rId223:
   formula_id: F_TCVN_5574_2018_FORMULA_197
-  latex: x_m = h_0 \le ft( \sqrt{(\mu_s \alpha_{s2} + \mu'_s \alpha_{s1} + \mu'_f)^2
-    + 2 \le ft( \mu_s \alpha_{s2} + \mu'_s \alpha_{s1} \frac{a'}{h_0} + \mu'_f \frac{h'_f}{2h_0}
+  latex: x_m = h_0 \left( \sqrt{(\mu_s \alpha_{s2} + \mu'_s \alpha_{s1} + \mu'_f)^2
+    + 2 \left( \mu_s \alpha_{s2} + \mu'_s \alpha_{s1} \frac{a'}{h_0} + \mu'_f \frac{h'_f}{2h_0}
     \right)} - (\mu_s \alpha_{s2} + \mu'_s \alpha_{s1} + \mu'_f) \right) \tag{197}
 rId227:
   formula_id: F_TCVN_5574_2018_FORMULA_198
@@ -692,14 +690,14 @@ rId250:
 rId249:
   formula_id: F_TCVN_5574_2018_FORMULA_216
   latex: \Delta \sigma_{sp6} = \frac{0,8 \alpha \varphi_{b,cr}\sigma_{bpj}}{1 + \alpha
-    \mu_{spj}\le ft(1 + \frac{y_{sj}^2 A_{red}}{I_{red}}\right)(1 + 0,8 \varphi_{b,cr})}
+    \mu_{spj}\left(1 + \frac{y_{sj}^2 A_{red}}{I_{red}}\right)(1 + 0,8 \varphi_{b,cr})}
     \tag{216}
 rId251:
   formula_id: F_TCVN_5574_2018_FORMULA_218
-  latex: P_{(1)} = \sum_{j} \le ft( A_{spj} \sigma_{sp(1)j} \right) \tag{218}
+  latex: P_{(1)} = \sum_{j} \left( A_{spj} \sigma_{sp(1)j} \right) \tag{218}
 rId253:
   formula_id: F_TCVN_5574_2018_FORMULA_220
-  latex: P_{(2)} = \sum_{j} \le ft( A_{spj} \sigma_{sp(2)j} \right) \tag{220}
+  latex: P_{(2)} = \sum_{j} \left( A_{spj} \sigma_{sp(2)j} \right) \tag{220}
 rId252:
   formula_id: F_TCVN_5574_2018_FORMULA_219
   latex: \Delta \sigma_{sp(2)} = \sum_{i} \Delta \sigma_{spi} \tag{219}
@@ -743,21 +741,21 @@ rId289:
   latex: \sigma_{si} = E_{si} \nu_{si} \varepsilon_{si} \tag{240}
 rId222:
   formula_id: F_TCVN_5574_2018_FORMULA_196
-  latex: 'x_m = h_0 \le ft(\sqrt{\le ft(\mu_s \alpha_{s2}+\mu''_s \alpha_{s1}\right)^2+2
-    \le ft(\mu_s \alpha_{s2}+\mu''_s \alpha_{s1}\frac{a''}{h_0}\right)}-\le ft(\mu_s
+  latex: 'x_m = h_0 \left(\sqrt{\left(\mu_s \alpha_{s2}+\mu''_s \alpha_{s1}\right)^2+2
+    \left(\mu_s \alpha_{s2}+\mu''_s \alpha_{s1}\frac{a''}{h_0}\right)}-\left(\mu_s
     \alpha_{s2}+\mu''_s \alpha_{s1}\right)\right) \tag{196}
 
     \text{trong đó: } \mu''_s = \frac{A''_s}{bh_0}.'
 rId242:
   formula_id: F_TCVN_5574_2018_FORMULA_209
-  latex: \Delta \sigma_{sp1} = \le ft(0,22\frac{\sigma_{sp}}{R_{s,n}} - 0,1\right)\sigma_{sp}
+  latex: \Delta \sigma_{sp1} = \left(0,22\frac{\sigma_{sp}}{R_{s,n}} - 0,1\right)\sigma_{sp}
     \tag{209}
 rId280:
   formula_id: F_TCVN_5574_2018_FORMULA_229
-  latex: N_p \le q R_b b_f' h_f' - R_s A_s + R_{sc} A_s' \tag{229}
+  latex: N_p \le R_b b_f' h_f' - R_s A_s + R_{sc} A_s' \tag{229}
 rId290:
   formula_id: F_TCVN_5574_2018_FORMULA_241
-  latex: \sigma_{si} = E_{si} \gamma_{si} \le ft( \varepsilon_{si} + \varepsilon_{spi}
+  latex: \sigma_{si} = E_{si} \gamma_{si} \left( \varepsilon_{si} + \varepsilon_{spi}
     \right) \tag{241}
 rId319:
   formula_id: F_TCVN_5574_2018_FORMULA_B_1
@@ -766,7 +764,7 @@ rId319:
     d \varepsilon_m = \frac{d \sigma_m}{E_m v_m^k} \tag{B.2}'
 rId320:
   formula_id: F_TCVN_5574_2018_FORMULA_B_3
-  latex: \nu_m = \hat{\nu}_m \pm \le ft(\nu_0 - \hat{\nu}_m\right)\sqrt{1 - \omega_1
+  latex: \nu_m = \hat{\nu}_m \pm \left(\nu_0 - \hat{\nu}_m\right)\sqrt{1 - \omega_1
     \eta - \omega_2 \eta^2} \tag{B.3}
 rId325:
   formula_id: F_TCVN_5574_2018_FORMULA_B_4
@@ -814,37 +812,37 @@ rId336:
   latex: \tilde{\gamma}_{btq} = \tilde{\gamma}_h + 0,007 \tag{B.19}
 rId337:
   formula_id: F_TCVN_5574_2018_RID337
-  latex: 0,9 \le q \tilde{\gamma}_n = 2 - \sqrt[5]{h/h_o} \qquad \text{(B.20)}
+  latex: 0,9 \le \tilde{\gamma}_n = 2 - \sqrt[5]{h/h_o} \qquad \text{(B.20)}
 rId343:
   formula_id: F_TCVN_5574_2018_FORMULA_D_1
-  latex: \frac{Q_{an,j}}{Q_{an,j,0}} + \frac{N_{an,j}}{N_{an,j,0}} \le q 1 \tag{D.1}
+  latex: \frac{Q_{an,j}}{Q_{an,j,0}} + \frac{N_{an,j}}{N_{an,j,0}} \le 1 \tag{D.1}
 rId356:
   formula_id: F_TCVN_5574_2018_FORMULA_F_1
   latex: \xi_{cir} = \frac{N + R_s A_{s,tot}}{R_b A + (R_{sc} + 1,7R_s) A_{s,tot}}
     \tag{F.1}
 rId357:
   formula_id: F_TCVN_5574_2018_FORMULA_F_2
-  latex: M \le q \le ft(R_b A_r m + R_s A_{s,tot} r_s\right)\frac{\sin \pi\,\xi_{cir}}{\pi}
-    + R_s A_{s,tot} r_s \le ft(1 - 1,7\,\xi_{cir}\right)\le ft(0,2 + 1,3\,\xi_{cir}\right)
+  latex: M \le \left(R_b A_r m + R_s A_{s,tot} r_s\right)\frac{\sin \pi\,\xi_{cir}}{\pi}
+    + R_s A_{s,tot} r_s \left(1 - 1,7\,\xi_{cir}\right)\left(0,2 + 1,3\,\xi_{cir}\right)
     \tag{F.2}
 rId358:
   formula_id: F_TCVN_5574_2018_FORMULA_F_3
-  latex: M \le q \le ft(R_b A_r m + R_s A_{s,tot} r_s\right)\frac{\sin \pi \xi_{cir1}}{\pi}
+  latex: M \le \left(R_b A_r m + R_s A_{s,tot} r_s\right)\frac{\sin \pi \xi_{cir1}}{\pi}
     + 0,295 R_s A_{s,tot} r_s \tag{F.3}
 rId359:
   formula_id: F_TCVN_5574_2018_FORMULA_F_4
   latex: \xi_{or1} = \frac{N + 0,75 R_s A_{s,tot}}{R_b A + R_s A_{s,tot}} \tag{F.4}
 rId360:
   formula_id: F_TCVN_5574_2018_FORMULA_F_5
-  latex: M \le q \le ft(R_b A r_m + R_s A_{s,tot} r_s\right)\frac{\sin \pi \xi_{or2}}{\pi}
+  latex: M \le \left(R_b A r_m + R_s A_{s,tot} r_s\right)\frac{\sin \pi \xi_{or2}}{\pi}
     \tag{F.5}
 rId361:
   formula_id: F_TCVN_5574_2018_FORMULA_F_6
   latex: \xi_{cr2} = \frac{N}{R_b A + R_s A_{s,tot}} \tag{F.6}
 rId365:
   formula_id: F_TCVN_5574_2018_FORMULA_F_7
-  latex: M \le q \frac{2}{3} R_b A r \frac{\sin^3 \pi \xi_{or}}{\pi} + R_s A_{s,tot}
-    \le ft( \frac{\sin \pi \xi_{or}}{\pi} + \varphi \right) r_s \tag{F.7}
+  latex: M \le \frac{2}{3} R_b A r \frac{\sin^3 \pi \xi_{or}}{\pi} + R_s A_{s,tot}
+    \left( \frac{\sin \pi \xi_{or}}{\pi} + \varphi \right) r_s \tag{F.7}
 rId366:
   formula_id: F_TCVN_5574_2018_FORMULA_F_9
   latex: \xi_{or} = \frac{N + R_s A \frac{\sin 2 \pi \xi_{or}}{2 \pi}}{R_b A + R_s
@@ -855,36 +853,36 @@ rId367:
     A + 2,55 R_s A_{s,tot}}{}}\tag{F.10}
 rId369:
   formula_id: F_TCVN_5574_2018_FORMULA_G_1
-  latex: 't_k \ge q \frac{Q}{R_b L_k n_k} \tag{G.1}
+  latex: 't_k \ge \frac{Q}{R_b L_k n_k} \tag{G.1}
 
-    h_k \ge q \frac{Q}{2R_b L_k n_k} \tag{G.2}'
+    h_k \ge \frac{Q}{2R_b L_k n_k} \tag{G.2}'
 rId373:
   formula_id: F_TCVN_5574_2018_FORMULA_H_1
-  latex: Q \le q 0,8R_b b l_{sub} \sin^2 \theta \le ft(1 + 5 \alpha \mu_v\right) \tag{H.1}
+  latex: Q \le 0,8R_b b l_{sub} \sin^2 \theta \left(1 + 5 \alpha \mu_v\right) \tag{H.1}
 rId385:
   formula_id: F_TCVN_5574_2018_RID385
   latex: 1,4k_l l_w f_{wi} + 0,3Q
 rId386:
   formula_id: F_TCVN_5574_2018_FORMULA_I_1
-  latex: N_j \le q \gamma_{bt,j} R_{bt} A_{b,j} \tag{I.1}
+  latex: N_j \le \gamma_{bt,j} R_{bt} A_{b,j} \tag{I.1}
 rId387:
   formula_id: F_TCVN_5574_2018_FORMULA_I_4
-  latex: Q_j \le q \gamma_{b,sh,j} R_{bt} A_{b,j} \le ft(1 + \gamma_{sb,sh,j} R_{s,j}
+  latex: Q_j \le \gamma_{b,sh,j} R_{bt} A_{b,j} \left(1 + \gamma_{sb,sh,j} R_{s,j}
     \mu_{s,j}\right) \tag{I.4}
 rId392:
   formula_id: F_TCVN_5574_2018_FORMULA_I_8
-  latex: 'Khi 0 \le q \frac{N_j}{N_{j,0}} \le q 0,4 :
+  latex: 'Khi 0 \le \frac{N_j}{N_{j,0}} \le 0,4 :
 
-    Q_j \le q Q_{b,j,0} + \gamma_{jn} N_j \tag{I.8}'
+    Q_j \le Q_{b,j,0} + \gamma_{jn} N_j \tag{I.8}'
 rId393:
   formula_id: F_TCVN_5574_2018_FORMULA_I_9
   latex: 'Khi 0,4 < \frac{N_j}{N_{j,0}} < 0,6 :
 
-    Q_j \le q Q_{b,j,0} + 0,4 \gamma_{jw} N_{j,0} \tag{I.9}
+    Q_j \le Q_{b,j,0} + 0,4 \gamma_{jw} N_{j,0} \tag{I.9}
 
-    Khi 0,6 \le q \frac{N_j}{N_{j,0}} \le q 1,0 :
+    Khi 0,6 \le \frac{N_j}{N_{j,0}} \le 1,0 :
 
-    Q_j \le q Q_{b,j,0} + \gamma_{jw}\le ft(N_{j,0} - N_j\right) \tag{I.10}'
+    Q_j \le Q_{b,j,0} + \gamma_{jw}\left(N_{j,0} - N_j\right) \tag{I.10}'
 rId394:
   formula_id: F_TCVN_5574_2018_FORMULA_K_1
   latex: 'D_{11} = \sum_i A_{bi} Z_{bni}^2 E_b v_{bi} + \sum_j A_{bj} Z_{snj}^2 E_{sj}

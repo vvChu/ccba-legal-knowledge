@@ -7,7 +7,7 @@
 ### H.1  Tính toán công xôn ngắn của cột (vai cột) với $L_{1}$ ≤ 0,9$h_{0}$ (Hình H.1) chịu tác dụng của lực cắt, để đảm bảo độ bền trên dải bê tông nghiêng chịu nén giữa tải trọng tác dụng và gối tựa, cần được tiến hành theo điều kiện:
 
 
-$$Q \le q 0,8R_b b l_{sub} \sin^2 \theta \le ft(1 + 5 \alpha \mu_v\right) \tag{H.1}$$
+$$Q \le 0,8R_b b l_{sub} \sin^2 \theta \left(1 + 5 \alpha \mu_v\right) \tag{H.1}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_H_1" -->
 
 trong đó: vế phải lấy không lớn hơn 3,5$R_{bt}bh_{0}$ và không nhỏ hơn 2,5$R_{bt}bh_{0}$.
