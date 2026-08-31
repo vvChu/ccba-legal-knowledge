@@ -400,8 +400,8 @@ rId92:
     (66) \\ \nu_{sj} &= \frac{\sigma_{sj}}{E_s \varepsilon_{sj}} \qquad (67) \end{aligned}
 rId93:
   formula_id: F_TCVN_5574_2018_FORMULA_70
-  latex: \begin{align} |\varepsilon_{b,\max}| &\le \varepsilon_{b,u} \qquad (70) \\
-    \varepsilon_{s,\max} &\le \varepsilon_{s,u} \qquad (71) \end{align}
+  latex: \begin{aligned} |\varepsilon_{b,\max}| &\le \varepsilon_{b,u} \qquad (70)
+    \\ \varepsilon_{s,\max} &\le \varepsilon_{s,u} \qquad (71) \end{aligned}
 rId94:
   formula_id: F_TCVN_5574_2018_FORMULA_72_74
   latex: \begin{aligned} M_x &= D_{11} \frac{1}{r_x} + D_{12} \frac{1}{r_y} + D_{13}
@@ -420,13 +420,13 @@ rId95:
     A_{sj} E_{sj} \nu_{sj} \qquad (80) \end{aligned}
 rId96:
   formula_id: F_TCVN_5574_2018_FORMULA_81
-  latex: '\begin{align}
+  latex: '\begin{aligned}
 
-    M_x &= D_{11} \frac{1}{r_x} + D_{13} \epsilon_0 \qquad (81) \\
+    M_x &= D_{11} \frac{1}{r_x} + D_{13} \varepsilon_0 \qquad (81) \\
 
-    N &= D_{13} \frac{1}{r_x} + D_{33} \epsilon_0 \qquad (82)
+    N &= D_{13} \frac{1}{r_x} + D_{33} \varepsilon_0 \qquad (82)
 
-    \end{align}'
+    \end{aligned}'
 rId97:
   formula_id: F_TCVN_5574_2018_FORMULA_83
   latex: '\begin{aligned}
@@ -518,7 +518,7 @@ rId156:
   latex: W_b = \frac{\pi (D + h_0)^2}{4} \tag{135}
 rId160:
   formula_id: F_TCVN_5574_2018_FORMULA_137
-  latex: '\begin{gather}
+  latex: '\begin{aligned}
 
     (M_{x,u} - M_x)(M_{y,u} - M_y) - M_{xy}^2 \ge 0 \qquad (137) \\
 
@@ -528,7 +528,7 @@ rId160:
 
     M_{xy,u} \ge M_{xy} \qquad (140)
 
-    \end{gather}'
+    \end{aligned}'
 rId167:
   formula_id: F_TCVN_5574_2018_FORMULA_162
   latex: I_{red} = I + \alpha I_s + \alpha I'_s \tag{162}
@@ -540,7 +540,7 @@ rId173:
   latex: y_t = \frac{S_{t,red}}{A_{red}} \tag{164}
 rId163:
   formula_id: F_TCVN_5574_2018_FORMULA_147
-  latex: '\begin{align}
+  latex: '\begin{aligned}
 
     (N_{x,u} - N_x)(N_{y,u} - N_y) - N_{xy,u}^2 \ge 0 \qquad (147) \\
 
@@ -550,7 +550,7 @@ rId163:
 
     N_{xy,u} \ge N_{xy} \qquad (150)
 
-    \end{align}'
+    \end{aligned}'
 rId164:
   formula_id: F_TCVN_5574_2018_FORMULA_158
   latex: 'Formula: M_{cr} = R_{bt,ser} W_{pl} \pm N e_0 .'
