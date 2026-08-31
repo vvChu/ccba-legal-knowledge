@@ -259,8 +259,8 @@
     "jurisdiction": "CONG_AN"
   },
   {
-    "question": "Quy định tại $$C_m = \\gamma_n \\left( \\sum_{i \\ge 1} \\gamma_{f,i} G_{k,i} \\text{ “+” } \\sum_{j \\ge 1} \\gamma_{f,j} \\psi_{L,j} Q_{k,L,j} \\text{ “+” } \\sum_{m \\ge 1} \\gamma_{f,m} \\psi_{t,m} Q_{k,t,m} \\right) \\tag{1}$$ của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$C_m = \\gamma_n \\left( \\sum_{i \\ge 1} \\gamma_{f,i} G_{k,i} \\text{ “+” } \\sum_{j \\ge 1} \\gamma_{f,j} \\psi_{L,j} Q_{k,L,j} \\text{ “+” } \\sum_{m \\ge 1} \\gamma_{f,m} \\psi_{t,m} Q_{k,t,m} \\right) \\tag{1}$$ (tcvn_5574_2018.md#formula-1).",
+    "question": "Quy định tại $$F \\le F_u \\tag{1}$$ của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$F \\le F_u \\tag{1}$$ (tcvn_5574_2018.md#formula-1).",
     "anchor": "formula-1",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
