@@ -1743,15 +1743,15 @@
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$Q_b = \\frac{\\varphi_{b2} R_{bt} b h_0^2}{C} \\tag{97}$$ của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$Q_b = \\frac{\\varphi_{b2} R_{bt} b h_0^2}{C} \\tag{97}$$ (tcvn_5574_2018.md#formula-97).",
+    "question": "Quy định tại $$Q_b = \\frac{4\\varphi_{b2} h_0^2 q_{sw}}{C} \\tag{97}$$ của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$Q_b = \\frac{4\\varphi_{b2} h_0^2 q_{sw}}{C} \\tag{97}$$ (tcvn_5574_2018.md#formula-97).",
     "anchor": "formula-97",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"
   },
   {
-    "question": "Quy định tại $$s_{w,max} = \\frac{\\varphi_{b4} R_{bt} b h_0^2}{Q} \\tag{98}$$ của tcvn_5574_2018 là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại $$s_{w,max} = \\frac{\\varphi_{b4} R_{bt} b h_0^2}{Q} \\tag{98}$$ (tcvn_5574_2018.md#formula-98).",
+    "question": "Quy định tại $$\\frac{s_{w,\\max}}{h_0} = \\frac{R_{bt} b h_0}{Q} \\tag{98}$$ của tcvn_5574_2018 là gì?",
+    "answer": "Xem chi tiết nội dung quy chuẩn tại $$\\frac{s_{w,\\max}}{h_0} = \\frac{R_{bt} b h_0}{Q} \\tag{98}$$ (tcvn_5574_2018.md#formula-98).",
     "anchor": "formula-98",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD"

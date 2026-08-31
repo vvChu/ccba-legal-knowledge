@@ -16,12 +16,6 @@
 '92':
   formula_id: F_TCVN_5574_2018_FORMULA_92
   latex: q_{sw} = \frac{R_{sw} A_{sw}}{s_w}
-'97':
-  formula_id: F_TCVN_5574_2018_FORMULA_97
-  latex: Q_b = \frac{\varphi_{b2} R_{bt} b h_0^2}{C}
-'98':
-  formula_id: F_TCVN_5574_2018_FORMULA_98
-  latex: s_{w,max} = \frac{\varphi_{b4} R_{bt} b h_0^2}{Q}
 '105':
   formula_id: F_TCVN_5574_2018_FORMULA_105
   latex: T_s = 0,9 N_s \frac{z_1}{C} z_2
@@ -869,3 +863,9 @@ rId86:
 rId144:
   formula_id: F_TCVN_5574_2018_FIGURE_15_LEGEND
   latex: ''
+rId104:
+  formula_id: F_TCVN_5574_2018_FORMULA_97
+  latex: Q_b = \frac{4\varphi_{b2} h_0^2 q_{sw}}{C} \tag{97}
+rId112:
+  formula_id: F_TCVN_5574_2018_FORMULA_98
+  latex: \frac{s_{w,\max}}{h_0} = \frac{R_{bt} b h_0}{Q} \tag{98}

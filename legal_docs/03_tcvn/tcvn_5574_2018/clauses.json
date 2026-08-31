@@ -2243,7 +2243,7 @@
   {
     "clause_id": "formula-97",
     "anchor": "formula-97",
-    "title": "$$Q_b = \\frac{\\varphi_{b2} R_{bt} b h_0^2}{C} \\tag{97}$$",
+    "title": "$$Q_b = \\frac{4\\varphi_{b2} h_0^2 q_{sw}}{C} \\tag{97}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2811,
@@ -2252,7 +2252,7 @@
   {
     "clause_id": "formula-98",
     "anchor": "formula-98",
-    "title": "$$s_{w,max} = \\frac{\\varphi_{b4} R_{bt} b h_0^2}{Q} \\tag{98}$$",
+    "title": "$$\\frac{s_{w,\\max}}{h_0} = \\frac{R_{bt} b h_0}{Q} \\tag{98}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
     "line_start": 2820,
