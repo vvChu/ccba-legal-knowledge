@@ -497,11 +497,11 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 <a id="muc-f-10-1"></a>
 
-**F.10.1**  Đối với vùng A (Hình F.13), hệ số $c_e$ được xác định theo các bảng F.5a và F.5b.
+**F.10.1**  Đối với vùng A (Hình F.12), hệ số $c_e$ được xác định theo các bảng F.5a và F.5b.
 
 <a id="muc-f-10-2"></a>
 
-**F.10.2**  Đối với vùng còn lại của mái, hệ số $c_e$ = - 0,5.
+**F.10.2**  Đối với vùng còn lại của mái, hệ số $c_e = -0{,}5$.
 
 <a id="muc-f-10-3"></a>
 
@@ -509,11 +509,11 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 <a id="muc-f-10-4"></a>
 
-**F.10.4**  Khi xác định độ cao tương đương ze theo 10.2.4: h = h1.
+**F.10.4**  Khi xác định độ cao tương đương $z_e$ theo 10.2.4: $h = h_1$.
 
 <a id="muc-f-10-5"></a>
 
-**F.10.5**  Hệ số khí động ma sát cho mái răng cưa cf = 0,04.
+**F.10.5**  Hệ số khí động ma sát cho mái răng cưa $c_f = 0{,}04$.
 
 <a id="hinh-f_12"></a>
 
@@ -529,7 +529,7 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 <a id="muc-f-11-1"></a>
 
-**F.11.1**  Hệ số ce cho tường và mái của nhà có góc lõm (Hình F.13) được nêu trong Bảng F.8.
+**F.11.1**  Hệ số $c_e$ cho tường và mái của nhà có góc lõm (Hình F.13) được nêu trong Bảng F.8.
 
 <a id="hinh-f_13"></a>
 
@@ -543,28 +543,27 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 <a id="bang-bang-f-8"></a>
 
-**Bảng F.8 — Hệ số ce cho tường và mái của nhà có góc lõm**
+**Bảng F.8 — Hệ số $c_e$ cho tường và mái của nhà có góc lõm**
 
-| Tường | Các mặt đứng còn lại | Mái |
-| :---: | :--- | :--- |
-| K | L | M |
-| Theo Bảng F.4 | Nội suy tuyến tính giữa vùng K và M | 0,8 |
+| Tường — Vùng K | Tường — Vùng L | Tường — Vùng M | Các mặt đứng còn lại | Mái |
+| :---: | :---: | :---: | :---: | :---: |
+| Theo Bảng F.4 | Nội suy tuyến tính giữa vùng K và M | 0,8 | Theo Bảng F.4 | Theo các bảng F.5a và F.5b |
 
 <a id="muc-f-11-2"></a>
 
-**F.11.2**  Khi xác định độ cao tương đương ze theo 10.2.4: h = h1.
+**F.11.2**  Khi xác định độ cao tương đương $z_e$ theo 10.2.4: $h = h_1$.
 
 ### F.12  Xét đến áp lực trong
 
 <a id="muc-f-12-1"></a>
 
-**F.12.1**  Độ hở của tường chắn μ được xác định bằng tỉ số giữa tổng diện tích lỗ mở của tường chắn và tổng diện tích tường chắn.
+**F.12.1**  Độ hở của tường chắn $\mu$ được xác định bằng tỉ số giữa tổng diện tích lỗ mở của tường chắn và tổng diện tích tường chắn.
 
 <a id="muc-f-12-2"></a>
 
-**F.12.2**  Khi độ hở μ ≤ 5 %: ci1 = ci2 = ± 0,2. Đối với mỗi tường nhà, dấu “cộng” hoặc “trừ” cần được lựa chọn theo điều kiện thực hiện phương án bất lợi nhất của tải trọng.
+**F.12.2**  Khi độ hở $\mu \le 5\,\%$: $c_{i1} = c_{i2} = \pm 0{,}2$. Đối với mỗi tường nhà, dấu “cộng” hoặc “trừ” cần được lựa chọn theo điều kiện thực hiện phương án bất lợi nhất của tải trọng.
 
-Khi μ ≥ 30 %: ci1 = - 0,5; ci2 = 0,8.
+Khi $\mu \ge 30\,\%$: $c_{i1} = - 0{,}5;\; c_{i2} = 0{,}8$.
 
 <a id="muc-f-12-3"></a>
 
@@ -591,6 +590,8 @@ Hệ số khí động $c_e$ của bốn loại mái che ([Hình F.15](#hinh-f_1
 ![Hình F.15](../figures/images/hinh_f_15.png)
 
 </p>
+
+<p align="center"><em>CHÚ DẪN: 1 — Kết cấu đỡ không có tấm chắn đứng đặc</em></p>
 
 <p align="center"><strong>Hình F.15 — Các sơ đồ phân bố hệ số $c_e$ cho mái che</strong></p>
 

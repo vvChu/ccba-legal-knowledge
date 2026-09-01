@@ -1,23 +1,15 @@
 {
   "table_id": "bang_f_8",
   "table_number": "F.8",
-  "table_title": "Bảng F.8 - Hệ số $c_{e}$ cho tường và mái của nhà có góc lõm",
+  "table_title": "Bảng F.8 - Hệ số $c_e$ cho tường và mái của nhà có góc lõm",
   "rows": [
     {
       "_row_id": 1,
-      "Tường": "K",
-      "Các mặt đứng còn lại": "L",
-      "Mái": "M",
-      "col_4": "Các mặt đứng còn lại",
-      "col_5": "Mái"
-    },
-    {
-      "_row_id": 2,
-      "Tường": "Theo Bảng F.4",
-      "Các mặt đứng còn lại": "Nội suy tuyến tính giữa vùng K và M",
-      "Mái": "0,8",
-      "col_4": "Theo Bảng F.4",
-      "col_5": "Theo các bảng F.5a và F.5b"
+      "Tường — Vùng K": "Theo Bảng F.4",
+      "Tường — Vùng L": "Nội suy tuyến tính giữa vùng K và M",
+      "Tường — Vùng M": "0,8",
+      "Các mặt đứng còn lại": "Theo Bảng F.4",
+      "Mái": "Theo các bảng F.5a và F.5b"
     }
   ]
 }
