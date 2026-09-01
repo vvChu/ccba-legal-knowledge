@@ -58,13 +58,19 @@ Nếu việc tính toán được thực hiện theo yêu cầu thẩm mỹ - t�
 
 </p>
 
-<p align="center"><em>a) Có một tường ngăn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Có hai tường ngăn</em></p>
+_CHÚ DẪN:_
+- $1$ — Tường chịu lực (hoặc cột);
+- $2$ — Tường ngăn;
+- $3$ — Sàn tầng (hoặc mái) trước khi chịu tải trọng;
+- $4$ — Sàn tầng (hoặc mái) khi chịu tải trọng;
+- $5$ — Cầu đoạn thẳng nối các đỉnh độ võng;
+- $6$ — Khe hở.
 
-<p align="center"><strong>Hình G.1 — Sơ đồ xác định các giá trị L (L<sub>1</sub>, L<sub>2</sub>, L<sub>3</sub>) khi có tường ngăn nằm giữa các tường chịu lực</strong></p>
+<p align="center"><strong>Hình G.1 — Sơ đồ xác định các giá trị $L$ ($L_1, L_2, L_3$) khi có tường ngăn nằm giữa các tường chịu lực</strong></p>
 
 <a id="muc-g-1-8"></a>
 
-**G.1.8**  Độ võng của kết cấu vì kèo khi có đường ray của cần trục treo (Bảng G.1, mục 2c) lấy bằng hiệu các độ võng f1 và f2 của các kết cấu vì kèo liền kề nhau (Hình G.2).
+**G.1.8**  Độ võng của kết cấu vì kèo khi có đường ray của cần trục treo (Bảng G.1, mục 2c) lấy bằng hiệu các độ võng $f_1$ và $f_2$ của các kết cấu vì kèo liền kề nhau (Hình G.2).
 
 <a id="hinh-g_2"></a>
 
@@ -74,15 +80,15 @@ Nếu việc tính toán được thực hiện theo yêu cầu thẩm mỹ - t�
 
 </p>
 
-<p align="center"><strong>Hình G.2 — Sơ đồ tính độ võng của kết cấu vì kèo khi có đường ray của cần trục treo</strong></p>
-
 _CHÚ DẪN:_
+- $1$ — Kết cấu vì kèo;
+- $2$ — Dầm đỡ đường ray cần trục treo;
+- $3$ — Cần trục treo;
+- $4$ — Vị trí ban đầu của kết cấu vì kèo.
 
-| 1 - Kết cấu vì kèo | 3 - Cần trục treo |
-| :--- | :--- |
-| 2 - Dầm đỡ đường ray cần trục treo | 4 - Vị trí ban đầu của kết cấu vì kèo |
+_CHÚ THÍCH:_ $f_1$ — Độ võng của kết cấu vì kèo chịu lực nhiều nhất; $f_2$ — Độ võng của kết cấu vì kèo gần kết cấu vì kèo chịu lực nhiều nhất.
 
-_CHÚ THÍCH:_ $f_1$ - Độ võng của kết cấu vì kèo chịu lực nhiều nhất; $f_2$ - Độ võng của kết cấu vì kèo gần kết cấu vì kèo chịu lực nhiều nhất.
+<p align="center"><strong>Hình G.2 — Sơ đồ tính độ võng của kết cấu vì kèo khi có đường ray của cần trục treo</strong></p>
 
 <a id="muc-g-1-9"></a>
 
@@ -325,14 +331,13 @@ Chuyển vị ngang của nhà cần được xác định có kể đến độ
 
 </p>
 
-<p align="center"><strong>Hình G.3 — Sơ đồ độ nghiêng lệch của mảng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng trong nhà có sơ đồ khung giằng</strong></p>
-
 _CHÚ DẪN:_
-
-| 1 - Vách cứng | 2 - Mảng tường thuộc phạm vi các tầng |
-| :--- | :--- |
+- $1$ — Vách cứng;
+- $2$ — Mảng tường thuộc phạm vi các tầng.
 
 _CHÚ THÍCH:_ Đường nét liền chỉ sơ đồ ban đầu của khung trước khi chịu tải trọng.
+
+<p align="center"><strong>Hình G.3 — Sơ đồ độ nghiêng lệch của mảng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng trong nhà có sơ đồ khung giằng</strong></p>
 
 <a id="muc-g-2-5-4"></a>
 

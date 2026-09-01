@@ -37,7 +37,7 @@ _CHÚ THÍCH:_ Bên trái điểm C: $z_0 = z_1$; Bên phải điểm D: $z_0 = 
 
 <p align="center"><strong>b) Khi mặt đất có độ dốc i &ge; 2</strong></p>
 
-<p align="center"><strong>Hình C.1 — Mặt cao độ công trình quy ước z<sub>0</sub> (mốc chuẩn)</strong></p>
+<p align="center"><strong>Hình C.1 — Mặt cao độ công trình quy ước $z_0$ (mốc chuẩn)</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học & Phương pháp Xác định Mốc chuẩn Khí động ($z_0$):**
