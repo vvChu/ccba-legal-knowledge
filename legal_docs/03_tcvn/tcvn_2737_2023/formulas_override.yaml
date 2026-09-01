@@ -27,13 +27,13 @@
   formula_id: "F_TCVN2737_HE_SO_GIAM_SO_TANG_2"
   latex: '\varphi_4 = 0,5 + \frac{\varphi_2 - 0,5}{\sqrt{n}} \ge 0,5'
 "7":
-  formula_id: "F_TCVN2737_LUC_BUNG_CAU_TRUC"
+  formula_id: "F_TCVN2737_LUC_CAT_CANH_TRUC_THANG"
   latex: 'F_{d,up} = \gamma_f \cdot \xi \cdot Q_{k,t}'
 "8":
-  formula_id: "F_TCVN2737_LUC_VA_CHAM_CAU_TRUC"
+  formula_id: "F_TCVN2737_LUC_VA_CHAM_TRUC_THANG"
   latex: 'F_{d,down} = C \sqrt{m}'
 "9":
-  formula_id: "F_TCVN2737_LUC_HAM_NGANG_CAU_TRUC"
+  formula_id: "F_TCVN2737_LUC_VA_CHAM_XE_NANG"
   latex: 'F_{d,h} = \xi \cdot G_k'
 "10":
   formula_id: "F_TCVN2737_AP_LUC_GIO_TIEU_CHUAN"
