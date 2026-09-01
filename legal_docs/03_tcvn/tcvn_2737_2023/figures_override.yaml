@@ -6,6 +6,21 @@
     - "i <= 0.3: z tính từ mặt đất thực tế"
     - "0.3 < i < 2: z tính từ mặt cao độ công trình quy ước z0"
     - "i >= 2: z tính từ đáy công trình hoặc vách đứng"
+"D.1":
+  description: "Hình ảnh minh họa địa hình dạng A (Trống trải, không có hoặc rất ít vật cản cao quá 1,5 m)"
+  sub_figures: ["a) Bờ biển thoáng", "b) Cánh đồng không có cây cao"]
+  parameters: ["zg = 213.36 m", "zmin = 2.13 m", "alpha = 11.5"]
+  related_tables: ["8", "9", "10"]
+"D.2":
+  description: "Hình ảnh minh họa địa hình dạng B (Tương đối trống trải, vật cản phân tán cao từ 1,5 m đến 10 m)"
+  sub_figures: ["a) Làng mạc", "b) Thị trấn"]
+  parameters: ["zg = 274.32 m", "zmin = 4.57 m", "alpha = 9.5"]
+  related_tables: ["8", "9", "10"]
+"D.3":
+  description: "Hình ảnh minh họa địa hình dạng C (Bị che chắn mạnh, vật cản sát nhau cao từ 10 m trở lên)"
+  sub_figures: ["a) Thành phố lớn", "b) Vùng rừng rậm"]
+  parameters: ["zg = 365.76 m", "zmin = 9.14 m", "alpha = 7.0"]
+  related_tables: ["8", "9", "10"]
 "E.1":
   description: "Kích thước tương đương cho các mặt bằng phức tạp (chữ L, U, T, chữ thập, thắt eo)"
   parameters: ["b (chiều rộng tương đương)", "d (chiều sâu tương đương)", "e = min(b, 2h)"]

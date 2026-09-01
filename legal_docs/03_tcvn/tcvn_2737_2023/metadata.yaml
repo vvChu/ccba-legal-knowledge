@@ -19,3 +19,6 @@ source_assets:
     sha256: 8f134e4476b7c03b3dcd9f5b81a9b4525378757b356c0b7541f32e9fd0b206f8
     vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_2737_2023/tcvn_2737_2023.pdf
     status: verified
+  docx:
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_2737_2023/tcvn_2737_2023.docx
+    status: verified
