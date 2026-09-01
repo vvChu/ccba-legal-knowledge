@@ -1,49 +1,48 @@
 {
   "table_id": "bang_g_5",
   "table_number": "G.5",
-  "table_title": "Bảng G.5 - Chuyển vị ngang giới hạn $f_{u}$ theo yêu cầu cấu tạo",
+  "table_title": "Bảng G.5 - Chuyển vị ngang giới hạn $f_u$ theo yêu cầu cấu tạo",
+  "columns": [
+    "Nhà, tường và tường ngăn",
+    "Liên kết giữa tường, tường ngăn với khung nhà",
+    "Giá trị $f_u$"
+  ],
   "rows": [
     {
       "_row_id": 1,
       "Nhà, tường và tường ngăn": "1. Nhà nhiều tầng",
       "Liên kết giữa tường, tường ngăn với khung nhà": "Bất kỳ",
-      "Giá trị $f_{u}$": "h/500"
+      "Giá trị $f_u$": "$h/500$"
     },
     {
       "_row_id": 2,
-      "Nhà, tường và tường ngăn": "2. Một tầng của nhà nhiều tầng:",
-      "Liên kết giữa tường, tường ngăn với khung nhà": "",
-      "Giá trị $f_{u}$": ""
+      "Nhà, tường và tường ngăn": "2. Một tầng của nhà nhiều tầng — a) Tường và tường ngăn làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép",
+      "Liên kết giữa tường, tường ngăn với khung nhà": "Cứng",
+      "Giá trị $f_u$": "$h_s/500$"
     },
     {
       "_row_id": 3,
-      "Nhà, tường và tường ngăn": "a) Tường và tường ngăn làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép",
+      "Nhà, tường và tường ngăn": "2. Một tầng của nhà nhiều tầng — b) Tường (có ốp đá tự nhiên) làm từ gạch ceramic",
       "Liên kết giữa tường, tường ngăn với khung nhà": "Cứng",
-      "Giá trị $f_{u}$": "$h_{s}$/500"
+      "Giá trị $f_u$": "$h_s/700$"
     },
     {
       "_row_id": 4,
-      "Nhà, tường và tường ngăn": "b) Tường (có ốp đá tự nhiên) làm từ gạch ceramic",
-      "Liên kết giữa tường, tường ngăn với khung nhà": "Cứng",
-      "Giá trị $f_{u}$": "$h_{s}$/700"
+      "Nhà, tường và tường ngăn": "2. Một tầng của nhà nhiều tầng — c) Tường và tường ngăn (có ốp đá tự nhiên) làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép; tường và tường ngăn làm bằng gạch ceramic",
+      "Liên kết giữa tường, tường ngăn với khung nhà": "Mềm",
+      "Giá trị $f_u$": "$h_s/300$"
     },
     {
       "_row_id": 5,
-      "Nhà, tường và tường ngăn": "c) Tường và tường ngăn (có ốp đá tự nhiên) làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép; tường và tường ngăn làm bằng gạch ceramic",
-      "Liên kết giữa tường, tường ngăn với khung nhà": "Mềm",
-      "Giá trị $f_{u}$": "$h_{s}$/300"
-    },
-    {
-      "_row_id": 6,
       "Nhà, tường và tường ngăn": "3. Nhà một tầng (với tường tự chịu lực)",
       "Liên kết giữa tường, tường ngăn với khung nhà": "Mềm",
-      "Giá trị $f_{u}$": "$h_{s}$/300"
-    },
-    {
-      "_row_id": 7,
-      "Nhà, tường và tường ngăn": "Các ký hiệu trong Bảng G.5:<br>h là chiều cao nhà nhiều tầng, lấy bằng khoảng cách từ mặt móng đến trục của xà đỡ mái.<br>$h_{s}$ là chiều cao tầng của nhà một tầng, lấy bằng khoảng cách từ mặt móng đến mặt dưới của kết cấu vì kèo; trong nhà nhiều tầng: đối với tầng dưới cùng - bằng khoảng cách từ trên mặt móng đến trục của xà đỡ sàn tầng; đối với các tầng còn lại - bằng khoảng cách giữa các trục của các xà liền kề.",
-      "Liên kết giữa tường, tường ngăn với khung nhà": "",
-      "Giá trị $f_{u}$": ""
+      "Giá trị $f_u$": "$h_s/300$"
     }
+  ],
+  "footnotes": [
+    "Ký hiệu: h là chiều cao nhà nhiều tầng, lấy bằng khoảng cách từ mặt móng đến trục của xà đỡ mái; hs là chiều cao tầng của nhà một tầng, lấy bằng khoảng cách từ mặt móng đến mặt dưới của kết cấu vì kèo; trong nhà nhiều tầng: đối với tầng dưới cùng — bằng khoảng cách từ trên mặt móng đến trục của xà đỡ sàn tầng; đối với các tầng còn lại — bằng khoảng cách giữa các trục của các xà liền kề.",
+    "CHÚ THÍCH 1: Đối với tầng trên cùng của nhà nhiều tầng được thiết kế có sử dụng các cấu kiện của mái nhà một tầng thì các chuyển vị ngang giới hạn được lấy như đối với nhà một tầng. Khi đó chiều cao tầng trên cùng hs được tính từ trục của dầm đỡ sàn tầng đến mặt dưới của kết cấu vì kèo.",
+    "CHÚ THÍCH 2: Các liên kết sau được xếp vào loại mềm: liên kết giữa tường hoặc tường ngăn với khung mà không ngăn cản dịch chuyển của khung (không truyền vào tường và tường ngăn nội lực có thể gây hư hỏng các cấu kiện cấu tạo); các liên kết được xếp vào loại cứng: liên kết ngăn cản các dịch chuyển tương hỗ của khung, tường hoặc tường ngăn.",
+    "CHÚ THÍCH 3: Đối với nhà một tầng có tường treo (cũng như khi không có tấm mái cứng) và đối với khung độc lập nhiều tầng đỡ thiết bị trong nhà công nghiệp, chuyển vị ngang giới hạn cho phép tăng lên 30 % (nhưng lấy không lớn hơn hs/150), trong phạm vi mỗi tầng."
   ]
 }

@@ -299,29 +299,29 @@ Chuyển vị ngang của nhà cần được xác định có kể đến độ
 
 <a id="bang-bang-g-5"></a>
 
-**Bảng G.5 — Chuyển vị ngang giới hạn fu theo yêu cầu cấu tạo**
+**Bảng G.5 — Chuyển vị ngang giới hạn $f_u$ theo yêu cầu cấu tạo**
 
-| Nhà, tường và tường ngăn | Liên kết giữa tường, tường ngăn với khung nhà | Giá trị fu |
-| :---: | :--- | :--- |
-| 1. Nhà nhiều tầng | Bất kỳ | h/500 |
-| 2. Một tầng của nhà nhiều tầng: |  |  |
-| a) Tường và tường ngăn làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép | Cứng | hs/500 |
-| b) Tường (có ốp đá tự nhiên) làm từ gạch ceramic | Cứng | hs/700 |
-| c) Tường và tường ngăn (có ốp đá tự nhiên) làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép; tường và tường ngăn làm bằng gạch ceramic | Mềm | hs/300 |
-| 3. Nhà một tầng (với tường tự chịu lực) | Mềm | hs/300 |
+| Nhà, tường và tường ngăn | Liên kết giữa tường, tường ngăn với khung nhà | Giá trị $f_u$ |
+| :--- | :---: | :---: |
+| 1. Nhà nhiều tầng | Bất kỳ | $h/500$ |
+| **2. Một tầng của nhà nhiều tầng:** | | |
+| a) Tường và tường ngăn làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép | Cứng | $h_s/500$ |
+| b) Tường (có ốp đá tự nhiên) làm từ gạch ceramic | Cứng | $h_s/700$ |
+| c) Tường và tường ngăn (có ốp đá tự nhiên) làm bằng: gạch, bê tông thạch cao, panen bê tông cốt thép; tường và tường ngăn làm bằng gạch ceramic | Mềm | $h_s/300$ |
+| 3. Nhà một tầng (với tường tự chịu lực) | Mềm | $h_s/300$ |
 
-> *Ký hiệu:*  
+> **Ký hiệu:**  
 > \- $h$ là chiều cao nhà nhiều tầng, lấy bằng khoảng cách từ mặt móng đến trục của xà đỡ mái.  
-> \- $h_s$ là chiều cao tầng của nhà một tầng, lấy bằng khoảng cách từ mặt móng đến mặt dưới của kết cấu vì kèo; trong nhà nhiều tầng: đối với tầng dưới cùng - bằng khoảng cách từ trên mặt móng đến trục của xà đỡ sàn tầng; đối với các tầng còn lại - bằng khoảng cách giữa các trục của các xà liền kề.  
+> \- $h_s$ là chiều cao tầng của nhà một tầng, lấy bằng khoảng cách từ mặt móng đến mặt dưới của kết cấu vì kèo; trong nhà nhiều tầng: đối với tầng dưới cùng — bằng khoảng cách từ trên mặt móng đến trục của xà đỡ sàn tầng; đối với các tầng còn lại — bằng khoảng cách giữa các trục của các xà liền kề.  
 >  
-> *Chú thích:*  
+> **CHÚ THÍCH:**  
 > 1) Đối với tầng trên cùng của nhà nhiều tầng được thiết kế có sử dụng các cấu kiện của mái nhà một tầng thì các chuyển vị ngang giới hạn được lấy như đối với nhà một tầng. Khi đó chiều cao tầng trên cùng $h_s$ được tính từ trục của dầm đỡ sàn tầng đến mặt dưới của kết cấu vì kèo.  
-> 2) Các liên kết sau được xếp vào loại mềm: liên kết giữa tường hoặc tường ngăn với khung mà không ngăn cản dịch chuyển của khung (không truyền vào tường và tường ngăn nội lực có thể gây hư hỏng các cấu kiện cấu tạo); các liên kết được xếp vào loại cứng; liên kết ngăn cản các dịch chuyển tương hỗ của khung, tường hoặc tường ngăn.  
+> 2) Các liên kết sau được xếp vào loại mềm: liên kết giữa tường hoặc tường ngăn với khung mà không ngăn cản dịch chuyển của khung (không truyền vào tường và tường ngăn nội lực có thể gây hư hỏng các cấu kiện cấu tạo); các liên kết được xếp vào loại cứng: liên kết ngăn cản các dịch chuyển tương hỗ của khung, tường hoặc tường ngăn.  
 > 3) Đối với nhà một tầng có tường treo (cũng như khi không có tấm mái cứng) và đối với khung độc lập nhiều tầng đỡ thiết bị trong nhà công nghiệp, chuyển vị ngang giới hạn cho phép tăng lên 30 % (nhưng lấy không lớn hơn $h_s/150$), trong phạm vi mỗi tầng.
 
 <a id="muc-g-2-5-3-2"></a>
 
-**G.2.5.3.2**  Đối với các sơ đồ khung giằng của nhà nhiều tầng có chiều cao trên 40 m thì độ nghiêng của các màng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng tính bằng f1/hs + f2/L (Hình G.3) không được vượt quá (xem Bảng G.5): 1/500 đối với mục 2a và 1/700 đối với mục 2b và 1/300 đối với mục 2c.
+**G.2.5.3.2**  Đối với các sơ đồ khung giằng của nhà nhiều tầng có chiều cao trên 40 m thì độ nghiêng của các mảng tường (thuộc phạm vi các tầng) tiếp giáp với vách cứng tính bằng $f_1/h_s + f_2/L$ ([Hình G.3](#hinh-g_3)) không được vượt quá (xem Bảng G.5): $1/500$ đối với mục 2a, $1/700$ đối với mục 2b và $1/300$ đối với mục 2c.
 
 <a id="hinh-g_3"></a>
 
