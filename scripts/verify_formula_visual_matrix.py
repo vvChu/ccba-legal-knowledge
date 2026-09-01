@@ -105,6 +105,9 @@ def generate_formula_audit_report(
             latex = str(val).strip()
             fid = ""
 
+        if not latex:
+            continue
+
         # Extract or resolve formula number / tag
         tag_match = re.search(r"\\tag\{([^}]+)\}", latex)
         tag_val = tag_match.group(1).strip() if tag_match else ""
@@ -418,6 +421,13 @@ def _build_html_report(
             font-weight: 700;
             margin-bottom: 6px;
         }}
+        .tag-pill-condition {{
+            background: rgba(139, 148, 158, 0.15);
+            color: #8b949e;
+            border-color: rgba(139, 148, 158, 0.4);
+            font-weight: 500;
+            font-size: 12px;
+        }}
         .fid-text {{
             font-size: 11px;
             color: #8b949e;
@@ -502,6 +512,8 @@ def _build_html_report(
                 let tagHtml = "";
                 if (row.tag) {{
                     tagHtml = `<span class="tag-pill">Công thức (${{row.tag}})</span>`;
+                }} else {{
+                    tagHtml = `<span class="tag-pill tag-pill-condition">Biểu thức không số hiệu</span>`;
                 }}
                 let keyHtml = `<span class="fid-text"><strong>Key:</strong> ${{row.key}}</span>`;
                 let fidHtml = row.formula_id ? `<span class="fid-text">${{row.formula_id}}</span>` : "";
@@ -515,7 +527,9 @@ def _build_html_report(
                 // KaTeX column
                 let rawLatex = row.latex || "";
                 let cleanLatex = rawLatex.replace(/\\\\tag\\{{[^}}]+\\}}/g, "").trim();
-                let tagBadge = row.tag ? `<div class="katex-tag-badge">(${{escapeHtml(row.tag)}})</div>` : "";
+                let tagBadge = row.tag 
+                    ? `<div class="katex-tag-badge">(${{escapeHtml(row.tag)}})</div>` 
+                    : `<div class="katex-tag-badge" style="color: #6e7681; font-style: italic; font-weight: normal; font-size: 12px;">(Không số hiệu)</div>`;
 
                 tr.innerHTML = `
                     <td class="col-id">
