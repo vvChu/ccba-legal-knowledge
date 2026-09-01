@@ -360,6 +360,10 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 </p>
 
+**CHÚ THÍCH 1:** Khi $0 < h_1/d < 0{,}5$ thì $c_{e1}$ có thể được xác định bằng nội suy tuyến tính.
+
+**CHÚ THÍCH 2:** Khi $0{,}2 < f/d \le 0{,}3$ và $h_1/d \ge 0{,}5$ thì phải xét hai giá trị của hệ số khí động $c_e$ cho vùng A.
+
 <p align="center"><strong>Hình F.8 — Phân bố hệ số khí động $c_e$ trên bề mặt mái vòm và mái gần giống vòm</strong></p>
 
 ### F.7  Công trình mặt bằng tròn có mái chỏm cầu và mái nón
