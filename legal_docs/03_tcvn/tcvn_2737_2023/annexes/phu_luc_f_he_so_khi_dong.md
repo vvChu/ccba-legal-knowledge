@@ -252,7 +252,7 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 </p>
 
-<p align="center"><em>a) Sơ đồ chung &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Góc hướng gió θ = 0° &nbsp;&nbsp; e = min (b; 2h) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) Góc hướng gió θ = 90°</em></p>
+<p align="center"><em>a) Góc hướng gió θ = 0° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Góc hướng gió θ = 90°</em></p>
 
 <p align="center"><em>1 - Phía đón gió; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 - Phía hút gió.</em></p>
 
