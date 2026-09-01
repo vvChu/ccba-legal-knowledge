@@ -989,10 +989,10 @@ trong đó:
 **Bảng F.14 — Hệ số $k_1$**
 
 | Dạng đường bao tiết diện ngang và hướng gió | Giá trị $k_1$ |
-| :--- | :---: |
-| Tháp/giàn tiết diện vuông — Hướng gió vuông góc mặt bên | 1,0 |
-| Tháp/giàn tiết diện vuông — Hướng gió theo đường chéo góc | 0,9 |
-| Tháp/giàn tiết diện tam giác đều — Hướng gió bất kỳ | 1,2 |
+| :---: | :---: |
+| Tháp/giàn tiết diện vuông — Hướng gió vuông góc mặt bên<br><img src="../figures/images/bang_f_14_h1.png" width="90" alt="Tiết diện vuông hướng gió vuông góc"> | 1,0 |
+| Tháp/giàn tiết diện tam giác đều — Hướng gió bất kỳ<br><img src="../figures/images/bang_f_14_h2.png" width="90" alt="Tiết diện tam giác đều hướng gió bất kỳ"> | 0,9 |
+| Tháp/giàn tiết diện vuông — Hướng gió theo đường chéo góc<br><img src="../figures/images/bang_f_14_h3.png" width="90" alt="Tiết diện vuông hướng gió chéo góc"> | 1,2 |
 
 <a id="muc-f-17-5"></a>
 
@@ -1024,7 +1024,7 @@ trong đó:
 
 ### F.18  Xét đến độ mảnh hiệu dụng của công trình
 
-Giá trị hệ số $k_\lambda$ phụ thuộc vào độ mảnh hiệu dụng $\lambda_e$ của cấu kiện hoặc công trình được lấy theo biểu đồ trên Hình F.27. Độ mảnh hiệu dụng λe phụ thuộc vào độ mảnh $\lambda$ = L/b và được xác định theo Bảng F.15. Hệ số đặc φ xem F.17.5.
+Giá trị hệ số $k_\lambda$ phụ thuộc vào độ mảnh hiệu dụng $\lambda_e$ của cấu kiện hoặc công trình được lấy theo biểu đồ trên Hình F.27. Độ mảnh hiệu dụng $\lambda_e$ phụ thuộc vào độ mảnh $\lambda = L/b$ và được xác định theo Bảng F.15. Hệ số đặc $\varphi$ xem F.17.5.
 
 <a id="hinh-f_27"></a>
 
@@ -1038,16 +1038,14 @@ Giá trị hệ số $k_\lambda$ phụ thuộc vào độ mảnh hiệu dụng $
 
 <a id="bang-bang-f-15"></a>
 
-<a id="bang-bang-f-15"></a>
-
 **Bảng F.15 — Độ mảnh hiệu dụng $\lambda_e$**
 
 | Sơ đồ cấu tạo và vị trí của công trình trong không gian | Độ mảnh hiệu dụng $\lambda_e$ |
-| :--- | :---: |
-| Công trình tự do 2 đầu (hoặc hở 2 đầu dòng khí) | $\lambda_e = \lambda / 2$ |
-| Công trình có một đầu tự do, một đầu tựa sát mặt đất hoặc mặt phẳng ngăn | $\lambda_e = \lambda$ |
-| Công trình có hai đầu tựa sát mặt đất hoặc hai mặt phẳng ngăn | $\lambda_e = 2\lambda$ |
-| Công trình dài vô hạn hoặc liên tục | $\lambda_e = \infty$ |
+| :---: | :---: |
+| Công trình tự do 2 đầu (hoặc hở 2 đầu dòng khí)<br><img src="../figures/images/bang_f_15_h1.png" width="90" alt="Công trình tự do 2 đầu"> | $\lambda_e = \lambda / 2$ |
+| Công trình có một đầu tự do, một đầu tựa sát mặt đất hoặc mặt phẳng ngăn<br><img src="../figures/images/bang_f_15_h2.png" width="90" alt="Một đầu tự do, một đầu tựa sát mặt đất"> | $\lambda_e = \lambda$ |
+| Công trình có hai đầu tựa sát mặt đất hoặc hai mặt phẳng ngăn<br><img src="../figures/images/bang_f_15_h3.png" width="90" alt="Hai đầu tựa sát mặt đất"> | $\lambda_e = 2\lambda$ |
+| Công trình dài vô hạn hoặc liên tục<br><img src="../figures/images/bang_f_15_h4.png" width="90" alt="Công trình dài vô hạn"> | $\lambda_e = \infty$ |
 
 **Các ký hiệu trong Bảng F.15:**  
 $L, b$ tương ứng là kích thước lớn nhất và nhỏ nhất của công trình hoặc cấu kiện của nó trong mặt phẳng vuông góc với hướng gió; $\lambda = L/b$.

@@ -1,14 +1,34 @@
 {
   "table_id": "bang_f_15",
   "table_number": "F.15",
-  "table_title": "Bảng F.15 - Độ mảnh hiệu dụng $\\lambda_{e}$",
+  "table_title": "Bảng F.15 - Độ mảnh hiệu dụng $\\lambda_e$",
+  "columns": [
+    "Sơ đồ cấu tạo và vị trí của công trình trong không gian",
+    "Độ mảnh hiệu dụng $\\lambda_e$"
+  ],
   "rows": [
     {
       "_row_id": 1,
-      "$\\lambda_{e}$= λ/2": "Các ký hiệu trong Bảng F.15:<br>L, b tương ứng là kích thước lớn nhất và nhỏ nhất của công trình hoặc cấu kiện của nó trong mặt phẳng vuông góc với hướng gió.",
-      "$\\lambda_{e}$= λ": "",
-      "$\\lambda_{e}$= 2λ": "",
-      "$\\lambda_{e}$= ∞": ""
+      "Sơ đồ cấu tạo và vị trí của công trình trong không gian": "Công trình tự do 2 đầu (hoặc hở 2 đầu dòng khí)",
+      "Độ mảnh hiệu dụng $\\lambda_e$": "\\lambda_e = \\lambda / 2"
+    },
+    {
+      "_row_id": 2,
+      "Sơ đồ cấu tạo và vị trí của công trình trong không gian": "Công trình có một đầu tự do, một đầu tựa sát mặt đất hoặc mặt phẳng ngăn",
+      "Độ mảnh hiệu dụng $\\lambda_e$": "\\lambda_e = \\lambda"
+    },
+    {
+      "_row_id": 3,
+      "Sơ đồ cấu tạo và vị trí của công trình trong không gian": "Công trình có hai đầu tựa sát mặt đất hoặc hai mặt phẳng ngăn",
+      "Độ mảnh hiệu dụng $\\lambda_e$": "\\lambda_e = 2\\lambda"
+    },
+    {
+      "_row_id": 4,
+      "Sơ đồ cấu tạo và vị trí của công trình trong không gian": "Công trình dài vô hạn hoặc liên tục",
+      "Độ mảnh hiệu dụng $\\lambda_e$": "\\lambda_e = \\infty"
     }
+  ],
+  "footnotes": [
+    "Các ký hiệu trong Bảng F.15: L, b tương ứng là kích thước lớn nhất và nhỏ nhất của công trình hoặc cấu kiện của nó trong mặt phẳng vuông góc với hướng gió."
   ]
 }
