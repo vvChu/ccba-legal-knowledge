@@ -637,41 +637,55 @@ khi zg < d/2: cz = 0,6.
 
 **F.14.4**  Số Reynold $Re$ được xác định theo công thức:
 
-$$Re = \frac{V(z_e)_{3600\text{s}, 50} \cdot d}{\nu} \tag{F.1}$$
+<a id="formula-f_1"></a>
+$$
+Re = \frac{V(z_e)_{3600\text{s}, 50} \cdot d}{\nu} \tag{F.1}
+$$
+<!-- formula_id: "F_TCVN2737_SO_REYNOLD_F1" -->
 
 trong đó:
 
-d là đường kính khối cầu, tính bằng mét (m);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $d$ là đường kính khối cầu, tính bằng mét (m);
 
-v là độ nhớt động học, lấy bằng 0,145 x 10-4 m2/s;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $\nu$ là độ nhớt động học, lấy bằng $0{,}145 \times 10^{-4}\text{ m}^2/\text{s}$;
 
-$V(z_e)_{3600\text{s}, 50}$ là vận tốc gió trung bình trong khoảng thời gian 3 600 s ứng với chu kỳ lặp 50 năm, tại độ cao tương đương $z_e$, tính theo công thức:
+&nbsp;&nbsp;&nbsp;&nbsp;\- $V(z_e)_{3600\text{s}, 50}$ là vận tốc gió trung bình trong khoảng thời gian $3\,600\text{ s}$ ứng với chu kỳ lặp 50 năm, tại độ cao tương đương $z_e$, tính theo công thức:
 
-$$V(z_e)_{3600\text{s}, 50} = 0{,}68 \cdot V_{3\text{s}, 50} \cdot \left(\frac{z_e}{10}\right)^{\bar{\alpha}} \tag{F.2}$$
+<a id="formula-f_2"></a>
+$$
+V(z_e)_{3600\text{s}, 50} = 0{,}68 \cdot V_{3\text{s}, 50} \cdot \left(\frac{z_e}{10}\right)^{\bar{\alpha}} \tag{F.2}
+$$
+<!-- formula_id: "F_TCVN2737_VAN_TOC_GIO_F2" -->
 
 với:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $V(z_e)_{3600\text{s}, 50}$ tính bằng mét trên giây (m/s);
-&nbsp;&nbsp;&nbsp;&nbsp;\- $V_{3\text{s}, 50}$ là vận tốc gió 3 s ứng với chu kỳ lặp 50 năm, lấy theo [1];
+
+&nbsp;&nbsp;&nbsp;&nbsp;\- $V_{3\text{s}, 50}$ là vận tốc gió $3\text{ s}$ ứng với chu kỳ lặp 50 năm, lấy theo [1];
+
 &nbsp;&nbsp;&nbsp;&nbsp;\- $0{,}68$ và $\bar{\alpha}$ lấy theo Bảng 10;
 
-ze là độ cao tương đương, tính bằng mét (m).
+&nbsp;&nbsp;&nbsp;&nbsp;\- $z_e$ là độ cao tương đương, tính bằng mét (m).
 
 ### F.15  Công trình và các cấu kiện kết cấu có bề mặt trụ tròn
 
 <a id="muc-f-15-1"></a>
 
-**F.15.1**  Hệ số khí động áp lực ngoài ce1 (xem Hình F.18) được xác định theo công thức:
+**F.15.1**  Hệ số khí động áp lực ngoài $c_{e1}$ (xem [Hình F.18](#hinh-f_18)) được xác định theo công thức:
 
-$$c_{e1} = k_{\lambda 1} c_\beta \tag{F.3}$$
+<a id="formula-f_3"></a>
+$$
+c_{e1} = k_{\lambda 1} c_\beta \tag{F.3}
+$$
+<!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F3" -->
 
 trong đó:
 
-kλ1 = 1 - khi cβ > 0;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $k_{\lambda 1} = 1$ khi $c_\beta > 0$;
 
-kλ1 = kλ - khi cβ < 0, với kλ xác định theo F.18.
+&nbsp;&nbsp;&nbsp;&nbsp;\- $k_{\lambda 1} = k_\lambda$ khi $c_\beta < 0$, với $k_\lambda$ xác định theo F.18.
 
-Sự phân bố hệ số $c_\beta$ trên bề mặt trụ tròn khi δ = Δ/d < 5.10-4 (Δ xem trong F.19) được thể hiện trên Hình F.19 ứng với các số Reynolds $Re$ khác nhau (Re tính theo công thức (F.1)). Giá trị các góc βmin và βb trên Hình F.19, cũng như giá trị các hệ số cmin và cb tương ứng với các góc này được nêu trong Bảng F.10.
+Sự phân bố hệ số $c_\beta$ trên bề mặt trụ tròn khi $\delta = \Delta/d < 5 \times 10^{-4}$ ($\Delta$ xem trong F.19) được thể hiện trên [Hình F.19](#hinh-f_19) ứng với các số Reynolds $Re$ khác nhau ($Re$ tính theo công thức [(F.1)](#formula-f_1)). Giá trị các góc $\beta_{min}$ và $\beta_b$ trên [Hình F.19](#hinh-f_19), cũng như giá trị các hệ số $c_{min}$ và $c_b$ tương ứng với các góc này được nêu trong Bảng F.10.
 
 <p align="center">
 
@@ -723,15 +737,19 @@ Sự phân bố hệ số $c_\beta$ trên bề mặt trụ tròn khi δ = Δ/d <
 
 <a id="muc-f-15-3"></a>
 
-**F.15.3**  Hệ số khí động cản chính diện cx được xác định theo công thức:
+**F.15.3**  Hệ số khí động cản chính diện $c_x$ được xác định theo công thức:
 
-$$c_x = k_\lambda c_{x\infty} \tag{F.4}$$
+<a id="formula-f_4"></a>
+$$
+c_x = k_\lambda c_{x\infty} \tag{F.4}
+$$
+<!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F4" -->
 
 trong đó:
 
-kλ xác định theo F.18 phụ thuộc vào độ mảnh hiệu dụng của công trình;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $k_\lambda$ xác định theo F.18 phụ thuộc vào độ mảnh hiệu dụng của công trình;
 
-cx∞ là hệ số, lấy theo biểu đồ trên Hình F.20 phụ thuộc vào số Reynolds $Re$ (xem F.14.4) và độ nhám tương đối δ = Δ/d (Δ là độ nhám bề mặt, xem trong F.19); đối với công trình hình trụ tròn có sườn thì Δ là chiều cao sườn.
+&nbsp;&nbsp;&nbsp;&nbsp;\- $c_{x\infty}$ là hệ số, lấy theo biểu đồ trên [Hình F.20](#hinh-f_20) phụ thuộc vào số Reynolds $Re$ (xem F.14.4) và độ nhám tương đối $\delta = \Delta/d$ ($\Delta$ là độ nhám bề mặt, xem trong F.19); đối với công trình hình trụ tròn có sườn thì $\Delta$ là chiều cao sườn.
 
 <p align="center">
 
@@ -745,19 +763,23 @@ cx∞ là hệ số, lấy theo biểu đồ trên Hình F.20 phụ thuộc vào
 
 <a id="muc-f-15-4"></a>
 
-**F.15.4**  Đối với dây dẫn cx = 1,2.
+**F.15.4**  Đối với dây dẫn $c_x = 1{,}2$.
 
 <a id="muc-f-15-5"></a>
 
-**F.15.5**  Hệ số khí động cản chính diện cxβ của các cấu kiện nằm nghiêng (Hình F.21) được xác định theo công thức:
+**F.15.5**  Hệ số khí động cản chính diện $c_{x\beta}$ của các cấu kiện nằm nghiêng ([Hình F.21](#hinh-f_21)) được xác định theo công thức:
 
-$$c_{x\beta} = c_x \sin^2 \beta \tag{F.5}$$
+<a id="formula-f_5"></a>
+$$
+c_{x\beta} = c_x \sin^2 \beta \tag{F.5}
+$$
+<!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F5" -->
 
-trong đó
+trong đó:
 
-cx được xác định theo các số liệu trong F.15, F.16 và F.17;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $c_x$ được xác định theo các số liệu trong F.15, F.16 và F.17;
 
-β là góc giữa trục cấu kiện và hướng gió dọc theo trục x.
+&nbsp;&nbsp;&nbsp;&nbsp;\- $\beta$ là góc giữa trục cấu kiện và hướng gió dọc theo trục x.
 
 <p align="center">
 
@@ -787,15 +809,19 @@ ze lấy bằng khoảng cách từ mặt đất đến trục của công trìn
 
 <a id="muc-f-16-1"></a>
 
-**F.16.1**  Hệ số khí động cản chính diện cx của công trình hình lăng trụ được xác định theo công thức:
+**F.16.1**  Hệ số khí động cản chính diện $c_x$ của công trình hình lăng trụ được xác định theo công thức:
 
-$$c_x = k_\lambda c_{x\infty} \tag{F.6}$$
+<a id="formula-f_6"></a>
+$$
+c_x = k_\lambda c_{x\infty} \tag{F.6}
+$$
+<!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F6" -->
 
 trong đó:
 
-kλ được xác định theo F.18 phụ thuộc vào độ mảnh hiệu dụng của công trình λe;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $k_\lambda$ được xác định theo F.18 phụ thuộc vào độ mảnh hiệu dụng của công trình $\lambda_e$;
 
-cx∞ được lấy theo biểu đồ trên Hình F.22 đối với tiết diện chữ nhật và theo Bảng F.12 đối với tiết diện n góc và các cấu kiện kết cấu (dạng định hình).
+&nbsp;&nbsp;&nbsp;&nbsp;\- $c_{x\infty}$ được lấy theo biểu đồ trên [Hình F.22](#hinh-f_22) đối với tiết diện chữ nhật và theo Bảng F.12 đối với tiết diện n góc và các cấu kiện kết cấu (dạng định hình).
 
 <p align="center">
 
@@ -820,7 +846,7 @@ cx∞ được lấy theo biểu đồ trên Hình F.22 đối với tiết di�
 
 <a id="muc-f-16-2"></a>
 
-**F.16.2**  Hệ số khí động cản chính diện cx đối với các thanh định hình lấy bằng 1,4 (cx = 1,4).
+**F.16.2**  Hệ số khí động cản chính diện $c_x$ đối với các thanh định hình lấy bằng $1{,}4$ ($c_x = 1{,}4$).
 
 ### F.17  Kết cấu rỗng
 
@@ -840,23 +866,21 @@ cx∞ được lấy theo biểu đồ trên Hình F.22 đối với tiết di�
 
 **F.17.2**  Kết cấu rỗng phẳng đứng độc lập
 
-Hệ số khí động cx của kết cấu rỗng phẳng đứng độc lập (Hình F.23) được xác định theo công thức:
+Hệ số khí động $c_x$ của kết cấu rỗng phẳng đứng độc lập ([Hình F.23](#hinh-f_23)) được xác định theo công thức:
 
+<a id="formula-f_7"></a>
+$$
+c_x = \frac{\sum c_{xi} A_i}{A_c} \tag{F.7}
+$$
+<!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F7" -->
 
+trong đó:
 
-$$c_x = \frac{\sum c_{xi} A_i}{A_c} \tag{F.7}$$
+&nbsp;&nbsp;&nbsp;&nbsp;\- $c_{xi}$ là hệ số khí động của thanh thứ i của kết cấu: lấy bằng $1{,}4$ ($c_{xi} = 1{,}4$) đối với thanh định hình; được xác định theo các chỉ dẫn trong F.12 và F.13 tương ứng đối với các cấu kiện tiết diện tròn và chữ nhật (khi đó $k_\lambda = 1$);
 
-trong đó
+&nbsp;&nbsp;&nbsp;&nbsp;\- $A_i$ là diện tích hình chiếu thanh thứ i của kết cấu (xem thêm F.17.5);
 
-cxi là hệ số khí động của thanh thứ i của kết cấu:
-
-&nbsp;&nbsp;&nbsp;&nbsp;\- lấy bằng 1,4 (cxi = 1,4) đối với thanh định hình;
-
-&nbsp;&nbsp;&nbsp;&nbsp;\- được xác định theo các chỉ dẫn trong F.12 và F.13 tương ứng đối với các cấu kiện tiết diện tròn và chữ nhật; khi đó kλ = 1;
-
-Ai là diện tích hình chiếu thanh thứ i của kết cấu (xem thêm F.17.5);
-
-Ac là diện tích bao của kết cấu: Ac = L · h (xem thêm F.17.5).
+&nbsp;&nbsp;&nbsp;&nbsp;\- $A_c$ là diện tích bao của kết cấu: $A_c = L \cdot h$ (xem thêm F.17.5).
 
 <p align="center">
 
@@ -909,17 +933,21 @@ Ac là diện tích bao của kết cấu: Ac = L · h (xem thêm F.17.5).
 
 **F.17.4**  Tháp rỗng và giàn không gian
 
-Hệ số khí động ct của tháp rỗng và giàn không gian (Hình F.25) được xác định theo công thức:
+Hệ số khí động $c_t$ của tháp rỗng và giàn không gian ([Hình F.25](#hinh-f_25)) được xác định theo công thức:
 
-$$c_t = c_x (1 + \eta) k_1 \tag{F.8}$$
+<a id="formula-f_8"></a>
+$$
+c_t = c_x (1 + \eta) k_1 \tag{F.8}
+$$
+<!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F8" -->
 
 trong đó:
 
-cx được xác định như đối với giàn đứng độc lập;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $c_x$ được xác định như đối với giàn đứng độc lập;
 
-η được xác định như đối với dãy giàn phẳng (xem F.17.3);
+&nbsp;&nbsp;&nbsp;&nbsp;\- $\eta$ được xác định như đối với dãy giàn phẳng (xem F.17.3);
 
-k1 là hệ số, lấy theo Bảng F.14.
+&nbsp;&nbsp;&nbsp;&nbsp;\- $k_1$ là hệ số, lấy theo Bảng F.14.
 
 <p align="center">
 
@@ -930,8 +958,6 @@ k1 là hệ số, lấy theo Bảng F.14.
 <a id="hinh-f_25"></a>
 
 <p align="center"><strong>Hình F.25 — Tháp rỗng và giàn không gian</strong></p>
-
-<a id="bang-bang-f-14"></a>
 
 <a id="bang-bang-f-14"></a>
 
@@ -949,13 +975,17 @@ k1 là hệ số, lấy theo Bảng F.14.
 
 Hệ số đặc của kết cấu $\varphi$ được xác định theo công thức:
 
-$$\varphi = \frac{\sum A_i}{A_c} \tag{F.9}$$
+<a id="formula-f_9"></a>
+$$
+\varphi = \frac{\sum A_i}{A_c} \tag{F.9}
+$$
+<!-- formula_id: "F_TCVN2737_HE_SO_KHI_DONG_F9" -->
 
 trong đó:
 
-Ai là diện tích hình chiếu của cấu kiện thứ i trong giàn;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $A_i$ là diện tích hình chiếu của cấu kiện thứ i trong giàn;
 
-Ac là diện tích bao của kết cấu (xem Hình F.26).
+&nbsp;&nbsp;&nbsp;&nbsp;\- $A_c$ là diện tích bao của kết cấu (xem [Hình F.26](#hinh-f_26)).
 
 <p align="center">
 

@@ -136,7 +136,11 @@ _CHÚ THÍCH:_ $f_1$ - Độ võng của kết cấu vì kèo chịu lực nhi�
 
 Độ võng giới hạn theo yêu cầu tâm sinh lý của các cấu kiện của sàn tầng (dầm, xà, bản), cầu thang, ban công, lôgia, các phòng trong nhà ở và nhà công cộng, cũng như các phòng sinh hoạt của nhà sản xuất cần được xác định theo công thức:
 
-$$f_u = \frac{g(p + p_1 + q)}{30n^2 (bp + p_1 + q)} \tag{G.1}$$
+<a id="formula-g_1"></a>
+$$
+f_u = \frac{g(p + p_1 + q)}{30n^2 (bp + p_1 + q)} \tag{G.1}
+$$
+<!-- formula_id: "F_TCVN2737_DO_VONG_GIOI_HAN_G1" -->
 
 trong đó:
 
