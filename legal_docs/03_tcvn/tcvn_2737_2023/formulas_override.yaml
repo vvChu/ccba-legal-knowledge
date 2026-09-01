@@ -80,6 +80,9 @@
 "24":
   formula_id: "F_TCVN2737_HAM_TUONG_QUAN_CHIEU_SAU"
   latex: 'R_d = \frac{1}{\eta_d} - \frac{1}{2\eta_d^2}\left(1 - e^{-2\eta_d}\right); \quad R_d = 1 \text{ khi } \eta_d = 0'
+"10.2.7.3":
+  formula_id: "F_TCVN2737_HE_SO_DAN_SUAT_KHI_DONG_ETA"
+  latex: '\eta_h = 4{,}6 \frac{n_1 h}{V(z_s)_{3\,600\text{s},50}}; \quad \eta_b = 4{,}6 \frac{n_1 b}{V(z_s)_{3\,600\text{s},50}}; \quad \eta_d = 15{,}4 \frac{n_1 d}{V(z_s)_{3\,600\text{s},50}}'
 "25":
   formula_id: "F_TCVN2737_DO_VONG_GIOI_HAN"
   latex: 'f \le f_u'
