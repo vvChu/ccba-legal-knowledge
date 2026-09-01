@@ -504,7 +504,7 @@ rId161:
     } } . . \le 1 \tag{ 143 }
 rId156:
   formula_id: F_TCVN_5574_2018_FORMULA_135
-  latex: W_b = \frac{\pi (D + h_0)^2}{4} \tag{135}
+  latex: x(y)_0 = \frac{\sum L_i x_i (y_i)_0}{\sum L_i} \tag{135}
 rId160:
   formula_id: F_TCVN_5574_2018_FORMULA_137
   latex: '\begin{aligned}
