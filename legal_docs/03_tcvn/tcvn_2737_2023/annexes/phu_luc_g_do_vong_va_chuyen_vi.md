@@ -187,20 +187,19 @@ trong đó:
 
 <a id="bang-bang-g-3"></a>
 
-**Bảng G.3 — Độ võng ngang giới hạn fμ của cột nhà có cầu trục, trụ cầu cạn, dầm đỡ cầu trục và kết cấu hãm**
+**Bảng G.3 — Độ võng ngang giới hạn $f_u$ của cột nhà có cầu trục, trụ cầu cạn, dầm đỡ cầu trục và kết cấu hãm**
 
-| Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) | Giá trị fu của |
-| :---: | :--- |
-| Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) | Cột nhà và trụ cầu cạn trong nhà |
-| A1 đến A3 | h/500 |
-| A4 đến A6 | h/1 000 |
-| A7 đến A8 | h/2000 |
+| Nhóm chế độ làm việc của cần trục kiểu cầu (cầu trục) | Cột nhà và trụ cầu cạn trong nhà | Trụ cầu cạn ngoài trời | Dầm đỡ cầu trục và kết cấu hãm, nhà và cầu cạn (cả trong nhà và ngoài trời) |
+| :---: | :---: | :---: | :---: |
+| A1 đến A3 | $h/500$ | $h/1500$ | $L/500$ |
+| A4 đến A6 | $h/1000$ | $h/2000$ | $L/1000$ |
+| A7 đến A8 | $h/2000$ | $h/2500$ | $L/2000$ |
 
 > *Ký hiệu:*  
 > \- $h$ là chiều cao từ mặt trên của móng đến đỉnh của đường ray cầu trục (đối với nhà 1 tầng và cầu cạn ngoài trời hoặc trong nhà) hoặc khoảng cách từ trục dầm sàn đến đỉnh của đường ray cầu trục (đối với các tầng trên của nhà nhiều tầng);  
 > \- $L$ là nhịp tính toán của cấu kiện (dầm).  
 >  
-> *Chú thích:* Nhóm chế độ làm việc của cầu trục lấy theo Bảng B.1, Phụ lục B.
+> **CHÚ THÍCH:** Nhóm chế độ làm việc của cầu trục lấy theo Bảng B.1, Phụ lục B.
 
 <a id="muc-g-2-4"></a>
 

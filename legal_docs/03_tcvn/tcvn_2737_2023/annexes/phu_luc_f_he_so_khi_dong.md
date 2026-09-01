@@ -939,8 +939,6 @@ trong đó:
 
 <a id="bang-bang-f-13"></a>
 
-<a id="bang-bang-f-13"></a>
-
 **Bảng F.13 — Hệ số $\eta$**
 
 | Hệ số đặc $\varphi$ | $b/h = 1/2$ | $b/h = 1$ | $b/h = 2$ | $b/h = 4$ | $b/h = 6$ |
