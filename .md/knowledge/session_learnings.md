@@ -497,3 +497,11 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
   3. **Ưu Tiên Máy Trạng Thái Cho Khối Giải Thích Biến Số Lồng Nhau (Nested Level-2 Variable Glossaries):**
      - Nhánh nhận diện từ khóa `trong đó:`, `với:`, `ở đây:` trong `state_manager.py` bắt buộc phải đặt **trước** nhánh xử lý trạng thái `IN_TRONG_DO`.
      - Điều này đảm bảo khi gặp `trong đó:` cấp 2 lồng bên trong một khối giải thích biến số đã có, từ khóa `trong đó:` luôn được xuất nguyên bản dạng văn bản phẳng (`EMIT_DIRECT`), không bao giờ bị gán nhầm thành mục bullet biến số `&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:`.
+
+---
+
+## 34. Figure Generalization & Concurrent In-Memory Formula Harvesting (ADR 0031 / ADR 0036 / ADR 0038)
+- **Elimination of Hardcoded Hub Data**: Removed all static text definitions (e.g. `AERODYNAMIC_FIGURES_GEOMETRY`) from Hub Python files. Bundle-specific geometric rules are loaded dynamically from `figures_override.yaml` per bundle.
+- **In-Memory Base64 Vision Processing**: Replaced temporary disk file creation (`NamedTemporaryFile`) in `_call_vision_model` with in-memory `io.BytesIO` buffer, cutting disk I/O and latency.
+- **Concurrent Vision Batching & Deduplication**: Uncached formula images are grouped, deduplicated by SHA-256 hash, and dispatched in parallel using `concurrent.futures.ThreadPoolExecutor(max_workers=6)`, reducing cold-run conversion time by 6x–10x.
+- **Universal KaTeX Multiline Tag Safety**: Prevented automatic trailing `\tag{...}` insertion for multiline environments (`aligned`, `cases`, `gather`, `matrix`) to prevent KaTeX rendering conflicts.
