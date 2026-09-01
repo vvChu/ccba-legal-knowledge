@@ -105,9 +105,21 @@ def generate_formula_audit_report(
             latex = str(val).strip()
             fid = ""
 
-        # Extract tag if present
+        # Extract or resolve formula number / tag
         tag_match = re.search(r"\\tag\{([^}]+)\}", latex)
-        tag_val = tag_match.group(1) if tag_match else ""
+        tag_val = tag_match.group(1).strip() if tag_match else ""
+
+        if not tag_val:
+            if str(key).isdigit() or re.match(r"^[A-Z]\.\d+$", str(key)):
+                tag_val = str(key)
+            elif fid and "FORMULA_" in fid:
+                candidate_tag = fid.split("FORMULA_")[-1].replace("_", ".")
+                if candidate_tag.isdigit() or re.match(r"^[A-Z]\.\d+$", candidate_tag):
+                    tag_val = candidate_tag
+            elif str(key).lower().startswith("rid") and fid and "FORMULA_" in fid:
+                candidate_tag = fid.split("FORMULA_")[-1].replace("_", ".")
+                if candidate_tag.isdigit() or re.match(r"^[A-Z]\.\d+$", candidate_tag):
+                    tag_val = candidate_tag
 
         # Find matching image
         img_bytes: bytes | None = None
@@ -153,6 +165,27 @@ def generate_formula_audit_report(
             "image_b64": img_b64,
             "context": context_str,
         })
+
+    # Sort rows logically (Formula 1, 2, 3... 259, A.1, B.1... then unnumbered rId...)
+    def _sort_key(r: dict[str, Any]) -> tuple[int, int, str]:
+        t = r.get("tag", "")
+        k = r.get("key", "")
+        if t.isdigit():
+            return (0, int(t), "")
+        if re.match(r"^[A-Z]\.\d+$", t):
+            l, n = t.split(".")
+            return (1, int(n), l)
+        if k.isdigit():
+            return (0, int(k), "")
+        if re.match(r"^[A-Z]\.\d+$", k):
+            l, n = k.split(".")
+            return (1, int(n), l)
+        if k.lower().startswith("rid"):
+            nums = re.findall(r"\d+", k)
+            return (2, int(nums[0]) if nums else 9999, k)
+        return (3, 9999, k)
+
+    audit_rows.sort(key=_sort_key)
 
     # Identify anomalies
     anomalies: list[dict[str, Any]] = []
@@ -261,7 +294,7 @@ def _build_html_report(
         .badge-warning {{ color: var(--warning); border-color: rgba(210, 153, 34, 0.4); }}
         .badge-info {{ color: var(--accent); border-color: rgba(88, 166, 255, 0.4); }}
         .controls {{
-            max-width: 1400px;
+            max-width: 98%;
             margin: 0 auto 20px;
             display: flex;
             gap: 12px;
@@ -279,8 +312,19 @@ def _build_html_report(
             outline: none;
         }}
         .search-box:focus {{ border-color: var(--accent); }}
+        .header {{
+            max-width: 98%;
+            margin: 0 auto 24px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 16px;
+        }}
         .container {{
-            max-width: 1400px;
+            max-width: 98%;
             margin: 0 auto;
         }}
         table {{
@@ -306,12 +350,12 @@ def _build_html_report(
             letter-spacing: 0.5px;
         }}
         tr:hover {{ background: rgba(88, 166, 255, 0.04); }}
-        .col-id {{ width: 180px; }}
-        .col-img {{ width: 340px; text-align: center; }}
-        .col-katex {{ width: 440px; }}
-        .col-latex {{ width: 440px; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 12px; color: #79c0ff; word-break: break-all; }}
+        .col-id {{ width: 170px; }}
+        .col-img {{ width: 320px; text-align: center; }}
+        .col-katex {{ min-width: 420px; }}
+        .col-latex {{ width: 340px; font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 12px; color: #79c0ff; word-break: break-all; }}
         .doc-img {{
-            max-width: 300px;
+            max-width: 290px;
             max-height: 85px;
             background: #ffffff;
             padding: 4px;
@@ -326,22 +370,23 @@ def _build_html_report(
         }}
         .katex-render-box {{
             background: #0d1117;
-            padding: 10px 14px;
+            padding: 12px 16px;
             border-radius: 6px;
             border: 1px solid var(--border);
             overflow-x: auto;
             color: #ffffff;
-            font-size: 15px;
+            font-size: 16px;
         }}
         .tag-pill {{
             display: inline-block;
-            background: rgba(88, 166, 255, 0.15);
-            color: var(--accent);
-            padding: 2px 8px;
+            background: rgba(88, 166, 255, 0.2);
+            color: #58a6ff;
+            border: 1px solid rgba(88, 166, 255, 0.5);
+            padding: 3px 10px;
             border-radius: 12px;
-            font-size: 12px;
-            font-weight: bold;
-            margin-bottom: 4px;
+            font-size: 13px;
+            font-weight: 700;
+            margin-bottom: 6px;
         }}
         .fid-text {{
             font-size: 11px;
@@ -358,7 +403,7 @@ def _build_html_report(
             text-overflow: ellipsis;
         }}
         .alert-box {{
-            max-width: 1400px;
+            max-width: 98%;
             margin: 0 auto 20px;
             padding: 14px 18px;
             border-radius: 6px;
@@ -384,6 +429,18 @@ def _build_html_report(
 
     <div class="controls">
         <input type="text" id="search-input" class="search-box" placeholder="🔍 Tìm kiếm theo số hiệu (135, 36...), mã rId, hoặc công thức LaTeX..." oninput="filterTable()">
+    </div>
+
+    <div class="alert-box" id="anomalies-banner" style="display: {'block' if anomalies else 'none'};">
+        <details>
+            <summary style="cursor: pointer; font-weight: 600;">
+                ⚠️ <strong>Phát Hiện {len(anomalies)} Nhóm Công Thức Có Chuỗi LaTeX Trùng Nhau (Click để xem đối chiếu):</strong>
+            </summary>
+            <ul style="margin-top: 10px; margin-left: 20px; font-size: 13px;">
+                {''.join(f"<li style='margin-bottom: 6px;'><strong>Công thức:</strong> <code>{html.escape(a['latex'])}</code> <br><span style='color: #8b949e;'>Xuất hiện tại các khóa: {', '.join(a['keys'])}</span></li>" for a in anomalies)}
+            </ul>
+            <p style="margin-top: 8px; font-size: 12px; color: #8b949e;"><em>* Ghi chú: Các công thức trùng nhau như hệ số uốn dọc &eta;, tải trọng tới hạn N_cr, hoặc tỷ số mô đun đàn hồi &alpha;_s1 là sự lặp lại toán học hợp lệ ở các điều khoản khác nhau trong tiêu chuẩn TCVN 5574:2018.</em></p>
+        </details>
     </div>
 
     <div class="container">
@@ -427,8 +484,16 @@ def _build_html_report(
 
                 // KaTeX column
                 let rawLatex = row.latex || "";
-                // remove tag from display block to avoid red error if multiline
-                let renderLatex = rawLatex.replace(/\\\\tag\\{{[^}}]+\\}}/g, "");
+                let cleanLatex = rawLatex.replace(/\\\\tag\\{{[^}}]+\\}}/g, "").trim();
+                let renderLatex = cleanLatex;
+                if (row.tag && !cleanLatex.includes("\\\\tag") && !cleanLatex.includes("\\\\qquad")) {{
+                    let isMultiline = cleanLatex.includes("aligned") || cleanLatex.includes("cases") || cleanLatex.includes("gather");
+                    if (isMultiline) {{
+                        renderLatex = cleanLatex;
+                    }} else {{
+                        renderLatex = cleanLatex + " \\\\tag{" + row.tag + "}";
+                    }}
+                }}
 
                 tr.innerHTML = `
                     <td class="col-id">
