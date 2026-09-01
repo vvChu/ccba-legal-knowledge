@@ -591,8 +591,6 @@ Hệ số khí động $c_e$ của bốn loại mái che ([Hình F.15](#hinh-f_1
 
 <a id="bang-bang-f-9"></a>
 
-<a id="bang-bang-f-9"></a>
-
 **Bảng F.9 — Hệ số $c_e$ cho mái che**
 
 | Loại sơ đồ | Góc dốc $\alpha$ (°) | $c_{e1}$ | $c_{e2}$ | $c_{e3}$ | $c_{e4}$ |

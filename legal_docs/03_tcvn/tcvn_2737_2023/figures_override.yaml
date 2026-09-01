@@ -216,6 +216,7 @@ F.12:
   - p (bước răng cưa)
 F.13:
   description: Mặt bằng của nhà có góc lõm
+  media: word/media/image71.png
   parameters:
   - l1, l2 (chiều dài các cạnh)
   - b1, b2 (chiều rộng các nhánh)
@@ -226,6 +227,7 @@ F.14:
   - cpi (hệ số khí động áp lực trong)
 F.15:
   description: Các sơ đồ phân bố hệ số ce cho mái che (mái độc lập)
+  media: word/media/image74.png
   parameters:
   - phi (hệ số cản do vật chứa dưới mái)
   - alpha (góc dốc mái che)
@@ -233,17 +235,19 @@ F.15:
   - F.9
 F.16:
   description: Khối cầu
+  media: word/media/image75.png
   parameters:
   - d (đường kính khối cầu)
   - zg (khoảng hở đáy)
 F.17:
   description: Hệ số khí động cản chính diện cx của khối cầu
+  media: word/media/image76.png
   parameters:
   - Re (số Reynolds)
   - Delta (độ nhám bề mặt)
 F.18:
-  description: Hệ số khí động của công trình và các cấu kiện kết cấu có bề mặt trụ
-    tròn
+  description: Hệ số khí động của công trình và các cấu kiện kết cấu có bề mặt trụ tròn
+  media: word/media/image79.png
   parameters:
   - d (đường kính trụ)
   - Re (số Reynolds)
@@ -251,6 +255,7 @@ F.18:
   - F.10
 F.19:
   description: Sự phân bố hệ số c_beta trên bề mặt trụ tròn
+  media: word/media/image80.png
   parameters:
   - beta (góc vị trí quanh chu vi trụ)
   related_tables:
