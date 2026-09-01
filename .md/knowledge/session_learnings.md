@@ -537,3 +537,25 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Tự động rasterize tệp vector `.wmf` sang `.png` bằng Pillow trong bộ nhớ RAM, triệt tiêu $100\%$ hiện tượng icon ảnh bị vỡ trên trình duyệt.
   4. **Báo Cáo Đối Soát Trực Quan Toàn Năng (`verify_formula_visual_matrix.py`)**:
      - Script tham số hóa toàn diện `--bundle-dir <path>`, tự động chạy và xuất báo cáo cho bất kỳ văn bản nào trong kho tri thức.
+
+---
+
+## 37. High-Fidelity Diagram Extraction, Sandwiched Annotation Governance & Hierarchical Table Resolver (ADR 0039)
+
+- **Vấn đề Phát Hiện:**
+  1. **Bảng Bố Cục Không Viền Chứa Sơ Đồ & Chú Dẫn Bên Cạnh:** Người soạn thảo Word thường dùng bảng 2 cột không viền để đặt hình ảnh ở cột trái và công thức hình học (ví dụ `$e = \min(b; 2h)$`, `$b\text{ là cạnh vuông góc hướng gió}$`) ở cột phải. Bộ trích xuất ảnh cũ chỉ lấy ảnh raster và bỏ rơi phần text bên cạnh.
+  2. **Rơi Rụng Chú Thích Kẹp Giữa (Sandwiched Notes Dropping):** Các đoạn `CHÚ THÍCH 1`, `CHÚ THÍCH 2` hoặc `CHÚ DẪN` nằm giữa ảnh và tiêu đề hình `Hình X — ...` bị cơ chế dò ngược lùi của converter cũ nuốt mất.
+  3. **Co Cụm Ô Gộp (Merged Cells / GridSpan) Trong Bảng Biểu:** Vòng lặp khử trùng lặp `val != clean_row[-1]` cũ trong `table_handler.py` và `table_extractor.py` vô tình ép các ô tiêu đề gộp ngang thành 1 cột, làm cắt xén và rơi rụng các cột dữ liệu cuối bảng (như Bảng F.8 từ 5 cột xuống 3 cột, Bảng G.3 từ 4 cột xuống 2 cột).
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Universal High-Fidelity Diagram Extractor & Vertical Stacking (ADR 0039):**
+     - Tự động nhận diện bảng bố cục không viền để trích xuất text/công thức tham số gắn liền với hình ảnh.
+     - Ưu tiên bố cục xếp dọc đa tầng (Vertical Stack) cho các hình có nhiều sơ đồ con ($a, b, c$) với lề an toàn canvas $\ge 40\text{ px}$, chống hiện tượng co cụm và cắt xén đường dóng kích thước biên.
+  2. **Sandwiched Annotation Preserver & Sub-Gate 11.2 (Zero-Dropped Notes Policy):**
+     - Quét toàn bộ vùng đệm giữa ảnh và caption trong `figure_handler.py`, bảo tồn $100\%$ các đoạn `CHÚ THÍCH 1, 2` và `CHÚ DẪN`.
+     - Tích hợp Sub-Gate 11.2 trong `validate_legal_spoke.py` tự động đối soát $100\%$ từng đoạn chú thích với DOCX gốc.
+  3. **Hierarchical Merged Header Resolver (`resolve_hierarchical_headers`):**
+     - Xóa bỏ hoàn toàn cơ chế `val != clean_row[-1]`, bảo toàn $100\%$ số cột lưới vật lý (`len(row.cells)`).
+     - Tự động kết hợp tiêu đề đa tầng thành `"Danh mục Cha — Phân nhóm Con"` (ví dụ: `Tường — Vùng K`, `Tường — Vùng L`, `Tường — Vùng M`), đảm bảo dữ liệu thẳng hàng $1:1$ với từng cột.
+  4. **Universal KaTeX Subscript Normalizer:**
+     - Tự động chuyển đổi các thẻ HTML `<sub>` trong tiêu đề (`c<sub>e</sub>`, `c<sub>x</sub>`, `c<sub>β</sub>`, `k<sub>λ</sub>`) sang KaTeX chuẩn (`$c_e$`, `$c_x$`, `$c_\beta$`, `$k_\lambda$`).
