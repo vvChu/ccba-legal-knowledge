@@ -447,7 +447,6 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 <p align="center"><em>a) Nhà có cửa trời dọc nhà</em></p>
 
-
 <a id="hinh-f_10b"></a>
 
 <p align="center">
@@ -457,6 +456,8 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 </p>
 
 <p align="center"><em>b) Nhà có chiều cao thay đổi</em></p>
+
+<p align="center"><em>CHÚ DẪN: 1 — Tường chắn gió</em></p>
 
 <p align="center"><strong>Hình F.10 — Nhà có cửa trời dọc nhà và nhà có chiều cao thay đổi</strong></p>
 
@@ -489,8 +490,6 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 ![Hình F.11](../figures/images/hinh_f_11.png)
 
 </p>
-
-<p align="center"><em>CHÚ DẪN: 1 - Tường chắn gió</em></p>
 
 <p align="center"><strong>Hình F.11 — Nhà có cửa trời trên đỉnh</strong></p>
 
@@ -593,7 +592,7 @@ Hệ số khí động $c_e$ của bốn loại mái che ([Hình F.15](#hinh-f_1
 
 </p>
 
-<p align="center"><strong>Hình F.15 — Các sơ đồ phân bố hệ số c<sub>e</sub> cho mái che</strong></p>
+<p align="center"><strong>Hình F.15 — Các sơ đồ phân bố hệ số $c_e$ cho mái che</strong></p>
 
 <a id="bang-bang-f-9"></a>
 
@@ -644,7 +643,7 @@ Khi zg < d/2, hệ số $c_x$ cần được tăng lên 1,6 lần.
 
 </p>
 
-<p align="center"><strong>Hình F.17 — Hệ số khí động cản chính diện c<sub>x</sub> của khối cầu</strong></p>
+<p align="center"><strong>Hình F.17 — Hệ số khí động cản chính diện $c_x$ của khối cầu</strong></p>
 
 <a id="muc-f-14-2"></a>
 
@@ -732,7 +731,7 @@ Sự phân bố hệ số $c_\beta$ trên bề mặt trụ tròn khi $\delta = \
 
 </p>
 
-<p align="center"><strong>Hình F.19 — Sự phân bố hệ số c<sub>β</sub> trên bề mặt trụ tròn</strong></p>
+<p align="center"><strong>Hình F.19 — Sự phân bố hệ số $c_\beta$ trên bề mặt trụ tròn</strong></p>
 
 <a id="bang-bang-f-10"></a>
 
@@ -786,7 +785,7 @@ trong đó:
 
 </p>
 
-<p align="center"><strong>Hình F.20 — Hệ số c<sub>x∞</sub></strong></p>
+<p align="center"><strong>Hình F.20 — Hệ số $c_{x\infty}$</strong></p>
 
 <a id="muc-f-15-4"></a>
 
@@ -858,7 +857,7 @@ trong đó:
 
 </p>
 
-<p align="center"><strong>Hình F.22 — Hệ số khí động cản chính diện c<sub>x</sub> của công trình hình lăng trụ</strong></p>
+<p align="center"><strong>Hình F.22 — Hệ số khí động cản chính diện $c_x$ của công trình hình lăng trụ</strong></p>
 
 <a id="bang-bang-f-12"></a>
 
@@ -1036,7 +1035,7 @@ Giá trị hệ số $k_\lambda$ phụ thuộc vào độ mảnh hiệu dụng $
 
 </p>
 
-<p align="center"><strong>Hình F.27 — Hệ số k<sub>λ</sub></strong></p>
+<p align="center"><strong>Hình F.27 — Hệ số $k_\lambda$</strong></p>
 
 <a id="bang-bang-f-15"></a>
 
