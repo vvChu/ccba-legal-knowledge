@@ -126,4 +126,3 @@ M, Q  lần lượt là mô men uốn và lực cắt trong tiết diện thẳn
 $L_{sup}$  là chiều dài thực tế của diện tích gối tựa của tải trọng dọc theo chiều dài vươn công xôn;
 
 $h_{0b}$  là chiều cao làm việc của xà.
-

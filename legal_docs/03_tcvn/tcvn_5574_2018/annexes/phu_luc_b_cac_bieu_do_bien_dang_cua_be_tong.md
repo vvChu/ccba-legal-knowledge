@@ -141,4 +141,3 @@ trong đó:
 &nbsp;&nbsp;&nbsp;&nbsp;\- $R_{0t,n}$ = 2,5 MPa.
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- Các thông số $v_{0}$, $\omega_{1}$ được tính theo các công thức (B.10) đến (B.13) nhưng thay $\gamma_d$ bằng $\hat{v}_{\text{bx}}$.
-

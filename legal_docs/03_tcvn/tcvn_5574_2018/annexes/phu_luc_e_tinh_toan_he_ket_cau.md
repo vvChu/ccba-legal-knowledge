@@ -137,4 +137,3 @@ Khi tính toán chống trượt thì lực giữ nằm ngang phải lớn hơn 
 
 <a id="muc-e-2-14"></a>
 ### E.2.14  Tính toán khả năng chịu lực của các sàn tầng bằng phương pháp cân bằng giới hạn cần được tiến hành với tiêu chí cân bằng công của ngoại lực và nội lực sinh ra các chuyển vị ở trạng thái cân bằng của bản sàn tầng với sơ đồ gây nguy hiểm nhất đặc trưng cho sự phá hoại của nó.
-

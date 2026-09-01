@@ -127,4 +127,3 @@ trong đó:
 &nbsp;&nbsp;&nbsp;&nbsp;\- $Q_{b,j,0}$  lấy bằng vế phải của các điều kiện (I.3) và (I.4);
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\gamma_{jw}$  lấy bằng 1,0, còn đối với các trường hợp đặc biệt mà yêu cầu phải có thực nghiệm thì lấy trực tiếp theo số liệu nghiên cứu thực nghiệm.
-

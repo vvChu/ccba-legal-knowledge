@@ -62,4 +62,3 @@ $$\begin{aligned} \varphi &= \frac{1}{0,23 + \alpha_{red}} \qquad (K.11) \\ \alp
 <a id="formula-k_13"></a>
 $$v_0 = \frac{R_b}{R_{b,red}} \tag{K.13}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_K_13" -->
-

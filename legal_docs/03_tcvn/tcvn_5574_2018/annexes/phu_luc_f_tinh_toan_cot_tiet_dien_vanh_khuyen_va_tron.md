@@ -134,4 +134,3 @@ Mô men uốn M được xác định có kể đến ảnh hưởng của uốn
 1 - Vùng chịu nén.
 
 <p align="center"><strong>Hình F.2 — Sơ đồ tính toán tiết diện tròn của cấu kiện chịu nén lệch tâm</strong></p>
-

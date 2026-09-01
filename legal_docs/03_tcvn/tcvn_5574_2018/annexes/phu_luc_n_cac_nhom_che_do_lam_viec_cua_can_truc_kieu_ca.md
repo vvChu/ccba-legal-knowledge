@@ -428,4 +428,3 @@ Phụ lục M (quy định)  Độ võng và chuyển vị của kết cấu
 Phụ lục N (quy định)  Các nhóm chế độ làm việc của cần trục kiểu cầu và cần trục treo
 
 Thư mục tài liệu tham khảo
-

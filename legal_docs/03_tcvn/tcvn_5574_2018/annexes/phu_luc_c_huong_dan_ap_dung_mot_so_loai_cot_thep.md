@@ -214,4 +214,3 @@
 **CHÚ THÍCH 1:** Các ký hiệu thép nêu trong bảng này chỉ gồm ký tự gốc nói lên tính chất cơ học, không ghi các ký tự đuôi nói lên các đặc điểm khác. Ký hiệu đầy đủ xem trong các tiêu chuẩn tương ứng của từng quốc gia.
 
 **CHÚ THÍCH 2:** Trong các tiêu chuẩn Việt Nam, giới hạn chảy được xác định từ lực chảy 0,1%.
-

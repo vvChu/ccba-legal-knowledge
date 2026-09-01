@@ -112,4 +112,3 @@ trong đó:
 &nbsp;&nbsp;&nbsp;&nbsp;\- Trong trường hợp sử dụng các kiểu liên kết hàn để tăng vùng làm việc của bản táp khi các thanh neo bị kéo giật ra khỏi bản và khi có luận chứng thích hợp thì có thể điều chỉnh điều kiện (D.8) với mục đích giảm chiều dày của bản táp.
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- Chiều dày bản táp cũng cần thoả mãn các yêu cầu về công nghệ hàn.
-

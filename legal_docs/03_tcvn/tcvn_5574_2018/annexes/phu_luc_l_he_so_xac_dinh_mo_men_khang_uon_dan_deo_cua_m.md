@@ -31,4 +31,3 @@
 | 7. Chữ I không đối xứng, thỏa mãn điều kiện $b'/b$≥ 8: |  | $b'_f, h'_f, b, h_f, b_f, h$ |
 | a) Khi $h_{f}$/h > 0,3 | 1,35 | $b'_f, h'_f, b, h_f, b_f, h$ |
 | b) Khi $h_{f}$/ h ≤ 0,3 | 1,30 | $b'_f, h'_f, b, h_f, b_f, h$ |
-

@@ -50,4 +50,3 @@ và lấy giảm xuống so với chiều cao đã được xác định theo c�
 Khi nối các cấu kiện sàn bằng các chốt bê tông thì chiều dài chốt bê tông đưa vào tính toán không được lớn hơn một nửa nhịp cấu kiện, khi đó đại lượng Q lấy bằng tổng lực trượt trên toàn bộ chiều dài cấu kiện.
 
 Đối với các chốt bê tông của cấu kiện lắp ghép và các chốt bê tông làm từ bê tông đổ bù, cần kiểm tra các điều kiện (G.1) đến (G.3), trong đó các cường độ tính toán của bê tông làm chốt, $R_{b}$ và $ R_{bt}$, được lấy như đối với kết cấu bê tông. Khi tính toán nhánh chịu kéo trong cột hai nhánh chịu lực nhổ từ cốc móng thì cho phép kể đến sự làm việc của 5 chốt bê tông (Hình G.1).
-

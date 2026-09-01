@@ -36,4 +36,3 @@ $$B = R_{m} (1 - 1,64v) \tag{A.3}$$
 trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- v  là hệ số biến động cường độ của bê tông, được xác định theo số liệu thống kê. Với mức chất lượng trung bình của bê tông nặng, bê tông hạt nhỏ thì v có thể lấy bằng 0,135.
-

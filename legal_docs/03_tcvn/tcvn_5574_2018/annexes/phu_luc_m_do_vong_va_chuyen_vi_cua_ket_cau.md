@@ -405,4 +405,3 @@ Khi xác định các độ võng theo phương ngang do tác động của nhi�
 
 <a id="muc-m-4-5-2"></a>
 ### M.4.5.2  Độ vồng f cần xác định do lực nén trước, trọng lượng bản thân của các cấu kiện của sàn tầng và trọng lượng các lớp lát sàn.
-
