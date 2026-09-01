@@ -42,7 +42,7 @@ trong đó:
 $$\mu_{s,xy} = \frac{n_x A_{sx} L_x + n_y A_{sy} L_y}{A_{ef} s} \tag{K.10}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_K_10" -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
+trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $n_{x}$, $ A_{sx}$, $ L_{x}$  lần lượt là số thanh thép, diện tích tiết diện ngang và chiều dài lưới thép (đo theo trục các thanh ngoài cùng) theo một phương;
 

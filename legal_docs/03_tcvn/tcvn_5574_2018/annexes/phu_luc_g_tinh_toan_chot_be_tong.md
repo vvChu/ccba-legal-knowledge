@@ -19,6 +19,9 @@ trong đó:
 &nbsp;&nbsp;&nbsp;&nbsp;\- $n_{k}$  là số lượng chốt bê tông đưa vào tính toán và lấy không lớn hơn 3.
 
 
+<!-- DIAGRAM: word/media/image281.png -->
+
+
 <a id="hinh-g_1"></a>
 
 <p align="center">

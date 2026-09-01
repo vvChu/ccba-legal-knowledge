@@ -24,6 +24,9 @@ trong đó: vế phải lấy không lớn hơn 3,5$R_{bt}bh_{0}$ và không nh�
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\mu_{w}= \frac{A_{sw}}{b s_w}$ là hàm lượng của các cốt thép đai nằm theo chiều cao công xôn, với $ s_{w}$ là khoảng cách giữa các cốt thép đai, được đo theo đường vuông góc với chúng.
 
 
+<!-- DIAGRAM: word/media/image286.png -->
+
+
 <a id="hinh-h_1"></a>
 
 <p align="center">
@@ -47,6 +50,9 @@ Khi tính toán cần kể đến các cốt thép đai nằm ngang và nằm ng
 Khi dầm chạy dọc theo chiều dài vươn công xôn và tựa khớp lên công xôn ngắn mà không có các chi tiết đặt sẵn bổ sung nhô ra để cố định diện tích gối tựa (Hình H.2) thì giá trị $L_{sup}$ trong điều kiện (H.1) lấy bằng 2/3 chiều dài diện tích thực tế của gối tựa $ L_{sup,f}$.
 
 Bố trí cốt thép ngang cho công xôn ngắn phải thỏa mãn các yêu cầu cấu tạo.
+
+
+<!-- DIAGRAM: word/media/image287.png -->
 
 
 <a id="hinh-h_2"></a>
@@ -99,7 +105,7 @@ $$N_s = \frac{M + \frac{Q L_{\text{sup}}}{2}}{h_{0b}}$$
 $$1,4k_l l_w f_{wi} + 0,3Q$$
 <!-- formula_id: "F_TCVN_5574_2018_RID385" -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
+trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $k_{f}$ và $ l_{w}$  lần lượt là chiều cao và chiều dài đường hàn góc giữa chi tiết đặt sẵn của xà và công xôn;
 

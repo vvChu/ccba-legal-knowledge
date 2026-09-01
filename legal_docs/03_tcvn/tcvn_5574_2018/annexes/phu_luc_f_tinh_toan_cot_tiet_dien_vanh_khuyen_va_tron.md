@@ -36,7 +36,7 @@ $$\xi_{or1} = \frac{N + 0,75 R_s A_{s,tot}}{R_b A + R_s A_{s,tot}} \tag{F.4}$$
 $$M \le \left(R_b A r_m + R_s A_{s,tot} r_s\right)\frac{\sin \pi \xi_{or2}}{\pi} \tag{F.5}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_F_5" -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
+trong đó:
 
 
 $$\xi_{cr2} = \frac{N}{R_b A + R_s A_{s,tot}} \tag{F.6}$$
@@ -51,6 +51,9 @@ $r_m - \frac{r_1 + r_2}{2}$;
 $r_{s}$  là bán kính đường tròn đi qua trọng tâm các thanh cốt thép dọc.
 
 Mô men uốn M được xác định có kể đến ảnh hưởng của uốn dọc cấu kiện.
+
+
+<!-- DIAGRAM: word/media/image275.png -->
 
 
 <a id="hinh-f_1"></a>
@@ -113,6 +116,9 @@ Khi không thỏa mãn điều kiện (F.8): φ = 0;
 $A_{s,tot}$  là diện tích tiết diện toàn bộ cốt thép dọc.
 
 Mô men uốn M được xác định có kể đến ảnh hưởng của uốn dọc cấu kiện.
+
+
+<!-- DIAGRAM: word/media/image279.png -->
 
 
 <a id="hinh-f_2"></a>

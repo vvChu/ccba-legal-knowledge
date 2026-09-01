@@ -22,7 +22,7 @@ trong đó:
 $$\nu_m = \hat{\nu}_m \pm \left(\nu_0 - \hat{\nu}_m\right)\sqrt{1 - \omega_1 \eta - \omega_2 \eta^2} \tag{B.3}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_3" -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
+trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\hat{v}_m$ là giá trị của hệ số biến động $ v_{m}$ tại đỉnh biểu đồ (khi $\sigma_{m}$ = $\hat{\sigma}_m$);
 
@@ -36,7 +36,7 @@ $$\nu_m = \hat{\nu}_m \pm \left(\nu_0 - \hat{\nu}_m\right)\sqrt{1 - \omega_1 \et
 $$\eta = \frac{\sigma_m - \sigma_{m,pl}}{\bar{\sigma}_m - \sigma_{m,pl}} \tag{B.4}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_B_4" -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
+trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\sigma_{m}$- $\sigma_{m,el}$≥ 0;
 
@@ -53,6 +53,9 @@ Trong các công thức (B.3) và (B.5), lấy dấu “cộng” đối với b
 
 <a id="muc-b-2"></a>
 ### B.2  Khi nén một trục và nén thuần túy đối với bê tông thì biểu đồ biến dạng ban đầu của bê tông (Hình B.1a) được mô tả bằng các quan hệ từ (B.1) đến (B.5), trong đó các đại lượng được lấy như sau:
+
+
+<!-- DIAGRAM: word/media/image248.png -->
 
 
 <a id="hinh-b_1"></a>

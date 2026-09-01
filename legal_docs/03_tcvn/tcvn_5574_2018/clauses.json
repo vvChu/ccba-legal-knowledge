@@ -1355,8 +1355,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1778,
-    "line_end": 1778
+    "line_start": 1781,
+    "line_end": 1781
   },
   {
     "clause_id": "hinh-4",
@@ -1364,8 +1364,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1795,
-    "line_end": 1795
+    "line_start": 1798,
+    "line_end": 1798
   },
   {
     "clause_id": "muc-7-2-4",
@@ -1373,8 +1373,8 @@
     "title": "7.2.4  Tính toán độ bền các cấu kiện bê tông khi có tác dụng của lực cắt được tiến hành theo điều kiện mà tổng của tỉ số giữa ứng suất kéo chính và cường độ chịu kéo dọc trục tính toán, ($\\sigma_{mt}$/$ R_{bt}$), và tỉ số giữa ứng suất nén chính và cường độ chịu nén tính toán dọc trục, ($\\sigma_{mc}$/$ R_{b}$), không được vượt quá 1,0, nghĩa là ($\\sigma_{mt}$/$ R_{bt}$) + ($\\sigma_{mc}$/$ R_{b}$) ≤ 1,0.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1806,
-    "line_end": 1806
+    "line_start": 1809,
+    "line_end": 1809
   },
   {
     "clause_id": "muc-7-2-5",
@@ -1382,8 +1382,8 @@
     "title": "7.2.5  Tính toán độ bền các cấu kiện bê tông chịu tác dụng của tải trọng cục bộ (nén cục bộ) được tiến hành theo các chỉ dẫn trong 8.1.5.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1810,
-    "line_end": 1810
+    "line_start": 1813,
+    "line_end": 1813
   },
   {
     "clause_id": "muc-7-2-6",
@@ -1391,8 +1391,8 @@
     "title": "7.2.6  Trong các cấu kiện bê tông thì phải đặt cốt thép cấu tạo trong các trường hợp nêu trong 10.3.3.2.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1814,
-    "line_end": 1814
+    "line_start": 1817,
+    "line_end": 1817
   },
   {
     "clause_id": "muc-7-3",
@@ -1400,8 +1400,8 @@
     "title": "7.3  Tính toán cấu kiện bê tông chịu nén lệch tâm theo nội lực giới hạn",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1818,
-    "line_end": 1818
+    "line_start": 1821,
+    "line_end": 1821
   },
   {
     "clause_id": "muc-7-3-1",
@@ -1409,8 +1409,8 @@
     "title": "7.3.1  Khi tính toán độ bền các cấu kiện bê tông chịu nén lệch tâm chịu tác dụng của lực nén dọc trục thì cần kể đến độ lệch tâm ngẫu nhiên $e_{a}$. Độ lệch tâm $ e_{a}$ này lấy không nhỏ hơn:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1822,
-    "line_end": 1822
+    "line_start": 1825,
+    "line_end": 1825
   },
   {
     "clause_id": "muc-10",
@@ -1418,8 +1418,8 @@
     "title": "10  MM.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1830,
-    "line_end": 1830
+    "line_start": 1833,
+    "line_end": 1833
   },
   {
     "clause_id": "muc-7-3-2",
@@ -1427,8 +1427,8 @@
     "title": "7.3.2  Khi độ mảnh của các cấu kiện $L_{0}$/i > 14 thì phải kể đến ảnh hưởng của uốn dọc đến khả năng chịu lực của chúng bằng cách nhân giá trị độ lệch tâm $ e_{0}$ với hệ số η được xác định theo 7.3.5.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1838,
-    "line_end": 1838
+    "line_start": 1841,
+    "line_end": 1841
   },
   {
     "clause_id": "muc-7-3-3",
@@ -1436,8 +1436,8 @@
     "title": "7.3.3  Tính toán cấu kiện bê tông chịu nén lệch tâm khi lực nén dọc nằm trong phạm vi tiết diện ngang của cấu kiện được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1842,
-    "line_end": 1842
+    "line_start": 1845,
+    "line_end": 1845
   },
   {
     "clause_id": "formula-21",
@@ -1445,8 +1445,8 @@
     "title": "$$N \\le R_{b}A_{b} \\tag{21}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1846,
-    "line_end": 1846
+    "line_start": 1849,
+    "line_end": 1849
   },
   {
     "clause_id": "formula-23",
@@ -1454,8 +1454,8 @@
     "title": "$$N \\le \\varphiR_{b} A \\tag{23}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1865,
-    "line_end": 1865
+    "line_start": 1868,
+    "line_end": 1868
   },
   {
     "clause_id": "bang-bang-15",
@@ -1463,8 +1463,8 @@
     "title": "Bảng 15 - Hệ số φ khi có tác dụng dài hạn của tải trọng",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1882,
-    "line_end": 1882
+    "line_start": 1885,
+    "line_end": 1885
   },
   {
     "clause_id": "muc-7-3-4",
@@ -1472,8 +1472,8 @@
     "title": "7.3.4  Tính toán các cấu kiện bê tông chịu nén lệch tâm khi lực nén dọc trục nằm ngoài phạm vi tiết diện ngang của cấu kiện được tiến hành theo các điều kiện (24) và (25).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1914,
-    "line_end": 1914
+    "line_start": 1917,
+    "line_end": 1917
   },
   {
     "clause_id": "muc-7-3-5",
@@ -1481,8 +1481,8 @@
     "title": "7.3.5  Giá trị hệ số V, kể đến ảnh hưởng của uốn dọc đến giá trị độ lệch tâm của lực dọc $e_{0}$, được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1918,
-    "line_end": 1918
+    "line_start": 1921,
+    "line_end": 1921
   },
   {
     "clause_id": "muc-7-4",
@@ -1490,8 +1490,8 @@
     "title": "7.4  Tính toán cấu kiện bê tông chịu uốn theo nội lực giới hạn",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1938,
-    "line_end": 1938
+    "line_start": 1941,
+    "line_end": 1941
   },
   {
     "clause_id": "formula-28",
@@ -1499,8 +1499,8 @@
     "title": "$$M \\le M_u \\tag{28}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1944,
-    "line_end": 1944
+    "line_start": 1947,
+    "line_end": 1947
   },
   {
     "clause_id": "formula-29",
@@ -1508,8 +1508,8 @@
     "title": "$$M_u = R_{bt} W \\tag{29}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1957,
-    "line_end": 1957
+    "line_start": 1960,
+    "line_end": 1960
   },
   {
     "clause_id": "formula-30",
@@ -1517,8 +1517,8 @@
     "title": "$$W = \\frac{bh^2}{6} \\tag{30}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1966,
-    "line_end": 1966
+    "line_start": 1969,
+    "line_end": 1969
   },
   {
     "clause_id": "muc-8",
@@ -1526,8 +1526,8 @@
     "title": "8  KẾT CẤU BÊ TÔNG CỐT THÉP KHÔNG ỨNG SUẤT TRƯỚC",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1971,
-    "line_end": 1971
+    "line_start": 1974,
+    "line_end": 1974
   },
   {
     "clause_id": "muc-8-1",
@@ -1535,8 +1535,8 @@
     "title": "8.1  Tính toán cấu kiện bê tông cốt thép theo các trạng thái giới hạn thứ nhất",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1975,
-    "line_end": 1975
+    "line_start": 1978,
+    "line_end": 1978
   },
   {
     "clause_id": "muc-8-1-1",
@@ -1544,8 +1544,8 @@
     "title": "8.1.1  Yêu cầu chung đối với tính toán độ bền",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1979,
-    "line_end": 1979
+    "line_start": 1982,
+    "line_end": 1982
   },
   {
     "clause_id": "muc-8-1-2",
@@ -1553,8 +1553,8 @@
     "title": "8.1.2  Tính toán độ bền cấu kiện bê tông cốt thép chịu tác dụng của mô men uốn và lực dọc",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1985,
-    "line_end": 1985
+    "line_start": 1988,
+    "line_end": 1988
   },
   {
     "clause_id": "muc-8-1-2-1",
@@ -1562,8 +1562,8 @@
     "title": "8.1.2.1  Yêu cầu chung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1989,
-    "line_end": 1989
+    "line_start": 1992,
+    "line_end": 1992
   },
   {
     "clause_id": "muc-8-1-2-1-1",
@@ -1571,8 +1571,8 @@
     "title": "8.1.2.1.1  Tính toán độ bền cấu kiện bê tông cốt thép khi có tác dụng của mô men uốn và lực dọc (nén lệch tâm hoặc kéo lệch tâm) cần được tiến hành đối với các tiết diện thẳng góc với trục dọc cấu kiện.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 1993,
-    "line_end": 1993
+    "line_start": 1996,
+    "line_end": 1996
   },
   {
     "clause_id": "muc-8-1-2-1-2",
@@ -1580,8 +1580,8 @@
     "title": "8.1.2.1.2  Khi tính toán các cấu kiện chịu nén lệch tâm thì cần kể đến ảnh hưởng của uốn dọc đến khả năng chịu lực của chúng bằng cách tính kết cấu theo sơ đồ biến dạng (phi tuyến hình học).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2003,
-    "line_end": 2003
+    "line_start": 2006,
+    "line_end": 2006
   },
   {
     "clause_id": "muc-8-1-2-1-3",
@@ -1589,8 +1589,8 @@
     "title": "8.1.2.1.3  Đối với các cấu kiện bê tông cốt thép, mà trong đó nội lực giới hạn về độ bền nhỏ hơn nội lực giới hạn về hình thành vết nứt (xem 8.2.2.2), thì diện tích tiết diện cốt thép dọc chịu kéo cần phải tăng thêm không ít hơn 15 % so với diện tích cốt thép yêu cầu từ tính toán độ bền, hoặc được xác định từ tính toán độ bền chịu tác dụng của nội lực giới hạn về hình thành vết nứt.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2009,
-    "line_end": 2009
+    "line_start": 2012,
+    "line_end": 2012
   },
   {
     "clause_id": "muc-8-1-2-2",
@@ -1598,8 +1598,8 @@
     "title": "8.1.2.2  Tính toán độ bền tiết diện thẳng góc theo nội lực giới hạn",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2013,
-    "line_end": 2013
+    "line_start": 2016,
+    "line_end": 2016
   },
   {
     "clause_id": "muc-8-1-2-2-1",
@@ -1607,8 +1607,8 @@
     "title": "8.1.2.2.1  Nội lực giới hạn trên tiết diện thẳng góc với trục dọc cấu kiện cần xác định từ các giả thiết sau:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2017,
-    "line_end": 2017
+    "line_start": 2020,
+    "line_end": 2020
   },
   {
     "clause_id": "muc-8-1-2-2-2",
@@ -1616,8 +1616,8 @@
     "title": "8.1.2.2.2  Tính toán độ bền tiết diện thẳng góc cần được tiến hành phụ thuộc vào sự tương quan giữa giá trị chiều cao tương đối của vùng chịu nén của bê tông ξ = x/$h_{0}$, được xác định từ các điều kiện cân bằng tương ứng, và giá trị chiều cao tương đối giới hạn của vùng chịu nén của bê tông $\\xi_{R}$, tại thời điểm khi trạng thái giới hạn của cấu kiện xảy ra đồng thời với việc ứng suất trong cốt thép chịu kéo đạt tới cường độ tính toán $ R_{s}$.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2031,
-    "line_end": 2031
+    "line_start": 2034,
+    "line_end": 2034
   },
   {
     "clause_id": "muc-8-1-2-2-3",
@@ -1625,8 +1625,8 @@
     "title": "8.1.2.2.3  Giá trị $\\xi_{R}$ được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2035,
-    "line_end": 2035
+    "line_start": 2038,
+    "line_end": 2038
   },
   {
     "clause_id": "muc-8-1-2-2-4",
@@ -1634,8 +1634,8 @@
     "title": "8.1.2.2.4  Khi tính toán các cấu kiện bê tông cốt thép chịu nén lệch tâm thì trong độ lệch tâm ban đầu của lực dọc $e_{0}$ cần kể đến độ lệch tâm ngẫu nhiên $ e_{a}$. Độ lệch tâm $ e_{a}$ này lấy không nhỏ hơn:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2057,
-    "line_end": 2057
+    "line_start": 2060,
+    "line_end": 2060
   },
   {
     "clause_id": "muc-8-1-2-3",
@@ -1643,8 +1643,8 @@
     "title": "8.1.2.3  Tính toán cấu kiện bê tông cốt thép chịu uốn theo nội lực giới hạn",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2073,
-    "line_end": 2073
+    "line_start": 2076,
+    "line_end": 2076
   },
   {
     "clause_id": "muc-8-1-2-3-1",
@@ -1652,8 +1652,8 @@
     "title": "8.1.2.3.1  Tính toán độ bền tiết diện của cấu kiện bê tông cốt thép chịu uốn được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2077,
-    "line_end": 2077
+    "line_start": 2080,
+    "line_end": 2080
   },
   {
     "clause_id": "formula-33",
@@ -1661,8 +1661,8 @@
     "title": "$$M \\le M_{u} \\tag{33}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2081,
-    "line_end": 2081
+    "line_start": 2084,
+    "line_end": 2084
   },
   {
     "clause_id": "muc-8-1-2-3-2",
@@ -1670,8 +1670,8 @@
     "title": "8.1.2.3.2  Giá trị $M_{u}$ đối với cấu kiện chịu uốn tiết diện chữ nhật (Hình 5) khi ξ = x/$ h_{0}$ ≤ $\\xi_{R}$ được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2092,
-    "line_end": 2092
+    "line_start": 2095,
+    "line_end": 2095
   },
   {
     "clause_id": "formula-34",
@@ -1679,8 +1679,8 @@
     "title": "$$M_u = R_b b x (h_0 - 0,5x) + R_{sc} A'_s (h_0 - a') \\tag{34}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2096,
-    "line_end": 2096
+    "line_start": 2099,
+    "line_end": 2099
   },
   {
     "clause_id": "formula-35",
@@ -1688,8 +1688,8 @@
     "title": "$$x = \\frac{R_s A_s - R_{sc} A'_s}{R_b b} \\tag{35}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2103,
-    "line_end": 2103
+    "line_start": 2106,
+    "line_end": 2106
   },
   {
     "clause_id": "hinh-5",
@@ -1697,8 +1697,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2108,
-    "line_end": 2108
+    "line_start": 2111,
+    "line_end": 2111
   },
   {
     "clause_id": "muc-8-1-2-3-3",
@@ -1706,8 +1706,8 @@
     "title": "8.1.2.3.3  Giá trị $M_{u}$ đối với cấu kiện chịu uốn có cánh nằm trong vùng chịu nén (tiết diện chữ T và chữ I), khi ξ = x/$ h_{0}$ ≤ $\\xi_{R}$ được xác định phụ thuộc vào vị trí biên vùng chịu nén:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2119,
-    "line_end": 2119
+    "line_start": 2122,
+    "line_end": 2122
   },
   {
     "clause_id": "formula-37",
@@ -1715,8 +1715,8 @@
     "title": "$$M_u = R_b b x (h_0 - 0,5x) + R_b (b'_f - b) h'_f (h_0 - 0,5 h'_f) + R_{sc} A'_s (h_0 - a') \\tag{37}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2133,
-    "line_end": 2133
+    "line_start": 2136,
+    "line_end": 2136
   },
   {
     "clause_id": "formula-38",
@@ -1724,8 +1724,8 @@
     "title": "$$x = \\frac{R_s A_s - R_{sc} A'_s - R_b (b'_f - b) h'_f}{R_b b} \\tag{38}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2140,
-    "line_end": 2140
+    "line_start": 2143,
+    "line_end": 2143
   },
   {
     "clause_id": "hinh-6",
@@ -1733,8 +1733,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2145,
-    "line_end": 2145
+    "line_start": 2148,
+    "line_end": 2148
   },
   {
     "clause_id": "muc-8-1-2-3-4",
@@ -1742,8 +1742,8 @@
     "title": "8.1.2.3.4  Giá trị $b_r$ đưa vào tính toán được lấy từ điều kiện sao cho chiều rộng mỗi bên cánh, tính từ mép sườn dầm, không được lớn hơn 1/6 nhịp cấu kiện và không lớn hơn:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2156,
-    "line_end": 2156
+    "line_start": 2159,
+    "line_end": 2159
   },
   {
     "clause_id": "muc-8-1-2-3-5",
@@ -1751,8 +1751,8 @@
     "title": "8.1.2.3.5  Khi tính toán độ bền cấu kiện chịu uốn nên tuân theo điều kiện x ≤ $\\xi_{R}h_{0}$.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2172,
-    "line_end": 2172
+    "line_start": 2175,
+    "line_end": 2175
   },
   {
     "clause_id": "muc-8-1-2-3-6",
@@ -1760,8 +1760,8 @@
     "title": "8.1.2.3.6  Trường hợp đặt cốt thép đối xứng, khi $R_{s}A_{s}$ = $ R_{sc}A_s'$, thì giá trị $ M_{u}$ được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2178,
-    "line_end": 2178
+    "line_start": 2181,
+    "line_end": 2181
   },
   {
     "clause_id": "formula-39",
@@ -1769,8 +1769,8 @@
     "title": "$$Mu = R_{s}A_{s} ( h_{0} -a’) \\tag{39}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2182,
-    "line_end": 2182
+    "line_start": 2185,
+    "line_end": 2185
   },
   {
     "clause_id": "muc-8-1-2-4",
@@ -1778,8 +1778,8 @@
     "title": "8.1.2.4  Tính toán cấu kiện bê tông cốt thép chịu nén lệch tâm theo nội lực giới hạn",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2189,
-    "line_end": 2189
+    "line_start": 2192,
+    "line_end": 2192
   },
   {
     "clause_id": "muc-8-1-2-4-1",
@@ -1787,8 +1787,8 @@
     "title": "8.1.2.4.1  Tính toán độ bền tiết diện chữ nhật của cấu kiện chịu nén lệch tâm được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2193,
-    "line_end": 2193
+    "line_start": 2196,
+    "line_end": 2196
   },
   {
     "clause_id": "formula-42",
@@ -1796,8 +1796,8 @@
     "title": "$$x = \\frac{N + R_s A_s - R_{sc} A'_s}{R_b b} \\tag{42}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2221,
-    "line_end": 2221
+    "line_start": 2224,
+    "line_end": 2224
   },
   {
     "clause_id": "hinh-7",
@@ -1805,8 +1805,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2230,
-    "line_end": 2230
+    "line_start": 2233,
+    "line_end": 2233
   },
   {
     "clause_id": "muc-8-1-2-4-2",
@@ -1814,8 +1814,8 @@
     "title": "8.1.2.4.2  Giá trị hệ số uốn dọc η khi tính toán kết cấu theo sơ đồ không biến dạng được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2241,
-    "line_end": 2241
+    "line_start": 2244,
+    "line_end": 2244
   },
   {
     "clause_id": "formula-46",
@@ -1823,8 +1823,8 @@
     "title": "$$D = k_{b}E_{b} I + k_{s}E_{s}I_{s} \\tag{46}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2267,
-    "line_end": 2267
+    "line_start": 2270,
+    "line_end": 2270
   },
   {
     "clause_id": "muc-8-1-2-4-3",
@@ -1832,8 +1832,8 @@
     "title": "8.1.2.4.3  Tính toán độ bền tiết diện chữ nhật của các cấu kiện chịu nén lệch tâm với cốt thép nằm ở các phía đối diện nhau trong mặt phẳng uốn của tiết diện, khi độ lệch tâm của lực dọc $e_{0}$ ≤ h/30 và độ mảnh $ L_{0}$/h ≤ 20, được phép tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2300,
-    "line_end": 2300
+    "line_start": 2303,
+    "line_end": 2303
   },
   {
     "clause_id": "formula-49",
@@ -1841,8 +1841,8 @@
     "title": "$$N \\le N_{u} \\tag{49}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2304,
-    "line_end": 2304
+    "line_start": 2307,
+    "line_end": 2307
   },
   {
     "clause_id": "formula-50",
@@ -1850,8 +1850,8 @@
     "title": "$$N_{u} = φ( R_{b} A+ R_{sc}A_{s,tot} ) \\tag{50}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2311,
-    "line_end": 2311
+    "line_start": 2314,
+    "line_end": 2314
   },
   {
     "clause_id": "bang-bang-16",
@@ -1859,8 +1859,8 @@
     "title": "Bảng 16 - Hệ số φ khi có tác dụng dài hạn của tải trọng",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2328,
-    "line_end": 2328
+    "line_start": 2331,
+    "line_end": 2331
   },
   {
     "clause_id": "muc-8-1-2-4-4",
@@ -1868,8 +1868,8 @@
     "title": "8.1.2.4.4  Chiều dài tính toán $L_{0}$ của cấu kiện chịu nén lệch tâm được xác định như đối với cấu kiện của kết cấu khung có kể đến trạng thái biến dạng của kết cấu khung khi tải trọng bố trí ở vị trí bất lợi nhất của đối với cấu kiện này, có chú ý đến biến dạng không đàn hồi của vật liệu và sự có mặt của vết nứt.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2342,
-    "line_end": 2342
+    "line_start": 2345,
+    "line_end": 2345
   },
   {
     "clause_id": "muc-8-1-2-5",
@@ -1877,8 +1877,8 @@
     "title": "8.1.2.5  Tính toán cấu kiện bê tông cốt thép chịu kéo đúng tâm theo nội lực giới hạn",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2376,
-    "line_end": 2376
+    "line_start": 2379,
+    "line_end": 2379
   },
   {
     "clause_id": "formula-51",
@@ -1886,8 +1886,8 @@
     "title": "$$N \\le N_{u} \\tag{51}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2382,
-    "line_end": 2382
+    "line_start": 2385,
+    "line_end": 2385
   },
   {
     "clause_id": "formula-52",
@@ -1895,8 +1895,8 @@
     "title": "$$N_{u} = R_{s}A_{s,tot} \\tag{52}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2395,
-    "line_end": 2395
+    "line_start": 2398,
+    "line_end": 2398
   },
   {
     "clause_id": "muc-8-1-2-6",
@@ -1904,8 +1904,8 @@
     "title": "8.1.2.6  Tính toán cấu kiện bê tông cốt thép chịu kéo lệch tâm theo nội lực giới hạn",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2402,
-    "line_end": 2402
+    "line_start": 2405,
+    "line_end": 2405
   },
   {
     "clause_id": "formula-53",
@@ -1913,8 +1913,8 @@
     "title": "$$N e \\le M_u \\tag{53}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2410,
-    "line_end": 2410
+    "line_start": 2413,
+    "line_end": 2413
   },
   {
     "clause_id": "formula-54",
@@ -1922,8 +1922,8 @@
     "title": "$$N e' \\le M'_u \\tag{54}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2415,
-    "line_end": 2415
+    "line_start": 2418,
+    "line_end": 2418
   },
   {
     "clause_id": "formula-55",
@@ -1931,8 +1931,8 @@
     "title": "$$M_u = R_s A_s (h_0 - a') \\tag{55}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2430,
-    "line_end": 2430
+    "line_start": 2433,
+    "line_end": 2433
   },
   {
     "clause_id": "formula-56",
@@ -1940,8 +1940,8 @@
     "title": "$$M'_u = R_s A'_s (h_0 - a') \\tag{56}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2435,
-    "line_end": 2435
+    "line_start": 2438,
+    "line_end": 2438
   },
   {
     "clause_id": "formula-57",
@@ -1949,8 +1949,8 @@
     "title": "$$M_u = R_b b x (h_0 - 0,5x) + R_{sc} A'_s (h_0 - a') \\tag{57}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2442,
-    "line_end": 2442
+    "line_start": 2445,
+    "line_end": 2445
   },
   {
     "clause_id": "formula-58",
@@ -1958,8 +1958,8 @@
     "title": "$$x = \\frac{R_s A_s - R_{sc} A'_s - N}{R_b b} \\tag{58}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2449,
-    "line_end": 2449
+    "line_start": 2452,
+    "line_end": 2452
   },
   {
     "clause_id": "hinh-8",
@@ -1967,8 +1967,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2456,
-    "line_end": 2456
+    "line_start": 2459,
+    "line_end": 2459
   },
   {
     "clause_id": "muc-8-1-2-7",
@@ -1976,8 +1976,8 @@
     "title": "8.1.2.7  Tính toán độ bền tiết diện thẳng góc theo mô hình biến dạng phi tuyến",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2467,
-    "line_end": 2467
+    "line_start": 2470,
+    "line_end": 2470
   },
   {
     "clause_id": "muc-8-1-2-7-1",
@@ -1985,8 +1985,8 @@
     "title": "8.1.2.7.1  Khi tính toán độ bền thì nội lực và biến dạng trong tiết diện thẳng góc với trục dọc cấu kiện được xác định dựa trên mô hình biến dạng phi tuyến có sử dụng các phương trình cân bằng ngoại lực và nội lực trong tiết diện cấu kiện, cũng như dựa trên các giả thiết sau:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2471,
-    "line_end": 2471
+    "line_start": 2474,
+    "line_end": 2474
   },
   {
     "clause_id": "muc-8-1-2-7-2",
@@ -1994,8 +1994,8 @@
     "title": "8.1.2.7.2  Để tính nội lực tổng quát từ biểu đồ ứng suất trong bê tông thì sử dụng quy trình tích phân số các ứng suất trên tiết diện thẳng góc. Để làm được điều này, tiết diện thẳng góc được quy ước chia ra thành nhiều phần nhỏ: khi nén (kéo) lệch tâm xiên và uốn xiên - theo chiều cao và chiều rộng tiết diện; khi nén (kéo) lệch tâm và uốn trong mặt phẳng chứa trục đối xứng của tiết diện ngang của cấu kiện - chỉ theo chiều cao tiết diện. Ứng suất trong phạm vi các phần nhỏ này được coi như phân bố đều (lấy trung bình).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2481,
-    "line_end": 2481
+    "line_start": 2484,
+    "line_end": 2484
   },
   {
     "clause_id": "muc-8-1-2-7-3",
@@ -2003,8 +2003,8 @@
     "title": "8.1.2.7.3  Khi tính toán cấu kiện theo mô hình biến dạng phi tuyến thì lấy:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2485,
-    "line_end": 2485
+    "line_start": 2488,
+    "line_end": 2488
   },
   {
     "clause_id": "hinh-9",
@@ -2012,8 +2012,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2495,
-    "line_end": 2495
+    "line_start": 2498,
+    "line_end": 2498
   },
   {
     "clause_id": "muc-8-1-2-7-4",
@@ -2021,8 +2021,8 @@
     "title": "8.1.2.7.4  Khi tính toán độ bền tiết diện thẳng góc trong trường hợp tổng quát (xem Hình 9) thì sử dụng:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2506,
-    "line_end": 2506
+    "line_start": 2509,
+    "line_end": 2509
   },
   {
     "clause_id": "formula-66",
@@ -2030,8 +2030,8 @@
     "title": "$$M_{x} = M_{xd} + Ne_{x} \\tag{66}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2536,
-    "line_end": 2536
+    "line_start": 2539,
+    "line_end": 2539
   },
   {
     "clause_id": "formula-67",
@@ -2039,8 +2039,8 @@
     "title": "$$M_{y} = M_{yd} + Ne_{y} \\tag{67}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2541,
-    "line_end": 2541
+    "line_start": 2544,
+    "line_end": 2544
   },
   {
     "clause_id": "muc-8-1-2-7-5",
@@ -2048,8 +2048,8 @@
     "title": "8.1.2.7.5  Tính toán độ bền tiết diện thẳng góc của các cấu kiện bê tông cốt thép được tiến hành theo các điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2578,
-    "line_end": 2578
+    "line_start": 2581,
+    "line_end": 2581
   },
   {
     "clause_id": "muc-8-1-2-7-6",
@@ -2057,8 +2057,8 @@
     "title": "8.1.2.7.6  Đối với các cấu kiện bê tông cốt thép chịu tác dụng của các mô men uốn theo hai phương và lực dọc (Hình 9) thì biến dạng tương đối của bê tông $\\epsilon_{b,max}$ và của cốt thép $\\epsilon_{s,max}$ tại tiết diện thẳng góc có hình dạng bất kỳ được xác định từ việc giải hệ các phương trình từ (72) đến (74) có sử dụng các phương trình (62) và (63).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2596,
-    "line_end": 2596
+    "line_start": 2599,
+    "line_end": 2599
   },
   {
     "clause_id": "muc-8-1-2-7-7",
@@ -2066,8 +2066,8 @@
     "title": "8.1.2.7.7  Đối với các cấu kiện bê tông cốt thép chỉ chịu tác dụng của các mô men uốn theo hai phương $M_{x}$ và $ M_{y}$, (uốn xiên) thì trong phương trình (74) lấy N = 0.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2612,
-    "line_end": 2612
+    "line_start": 2615,
+    "line_end": 2615
   },
   {
     "clause_id": "muc-8-1-2-7-8",
@@ -2075,8 +2075,8 @@
     "title": "8.1.2.7.8  Đối với các cấu kiện bê tông cốt thép chịu nén lệch tâm trong mặt phẳng đối xứng của tiết diện ngang và trục X nằm trong mặt phẳng này thì trong các phương trình từ (72) đến (74) lấy $M_{y}$ = 0 và $ D_{12}$ = $ D_{22}$ = $ D_{23}$ = 0. Trong trường hợp này, các phương trình cân bằng có dạng:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2616,
-    "line_end": 2616
+    "line_start": 2619,
+    "line_end": 2619
   },
   {
     "clause_id": "muc-8-1-2-7-9",
@@ -2084,8 +2084,8 @@
     "title": "8.1.2.7.9  Đối với các cấu kiện bê tông cốt thép chịu uốn trong mặt phẳng đối xứng của tiết diện ngang và trục X nằm trong mặt phẳng này thì trong các phương trình từ (72) đến (74) lấy N = 0, $M_{y}$ = 0 và $ D_{12}$ = $ D_{22}$ = $ D_{23}$ = 0. Trong trường hợp này, các phương trình cân bằng có dạng:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2627,
-    "line_end": 2627
+    "line_start": 2630,
+    "line_end": 2630
   },
   {
     "clause_id": "muc-8-1-2-7-10",
@@ -2093,8 +2093,8 @@
     "title": "8.1.2.7.10  Tính toán độ bền tiết diện thẳng góc của các cấu kiện bê tông chịu nén lệch tâm khi lực nén dọc trục nằm trong phạm vi tiết diện ngang của cấu kiện được tiến hành theo điều kiện (70) dựa trên các chỉ dẫn trong 8.1.2.7.5 đến 8.1.2.7.9, trong đó trong các công thức ở 8.1.2.7.6 lấy diện tích cốt thép $A_{sj}$ = 0 để xác định $ D_{ij}$.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2638,
-    "line_end": 2638
+    "line_start": 2641,
+    "line_end": 2641
   },
   {
     "clause_id": "formula-85",
@@ -2102,8 +2102,8 @@
     "title": "$$\\epsilon_{bt,max} \\le \\epsilon_{bt,u} \\tag{85}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2644,
-    "line_end": 2644
+    "line_start": 2647,
+    "line_end": 2647
   },
   {
     "clause_id": "muc-8-1-2-7-11",
@@ -2111,8 +2111,8 @@
     "title": "8.1.2.7.11  Giá trị giới hạn của các biến dạng tương đối của bê tông $\\epsilon_{b,u}$ và $\\epsilon_{bt,u}$ khi biểu đồ biến dạng đổi dấu (nén và kéo) trong tiết diện ngang của bê tông của cấu kiện (uốn, nén lệch tâm hoặc kéo lệch tâm với độ lệch tâm lớn) được lấy lần lượt bằng $\\epsilon_{b2}$ và $\\epsilon_{bt2}$.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2655,
-    "line_end": 2655
+    "line_start": 2658,
+    "line_end": 2658
   },
   {
     "clause_id": "muc-8-1-3",
@@ -2120,8 +2120,8 @@
     "title": "8.1.3  Tính toán độ bền cấu kiện bê tông cốt thép chịu tác dụng của lực cắt",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2678,
-    "line_end": 2678
+    "line_start": 2681,
+    "line_end": 2681
   },
   {
     "clause_id": "muc-8-1-3-1",
@@ -2129,8 +2129,8 @@
     "title": "8.1.3.1  Yêu cầu chung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2682,
-    "line_end": 2682
+    "line_start": 2685,
+    "line_end": 2685
   },
   {
     "clause_id": "muc-8-1-3-2",
@@ -2138,8 +2138,8 @@
     "title": "8.1.3.2  Tính toán cấu kiện bê tông cốt thép theo dải bê tông giữa các tiết diện nghiêng",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2696,
-    "line_end": 2696
+    "line_start": 2699,
+    "line_end": 2699
   },
   {
     "clause_id": "formula-88",
@@ -2147,8 +2147,8 @@
     "title": "$$Q \\le \\varphi_{b1}R_{b}bh_{0} \\tag{88}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2702,
-    "line_end": 2702
+    "line_start": 2705,
+    "line_end": 2705
   },
   {
     "clause_id": "muc-8-1-3-3",
@@ -2156,8 +2156,8 @@
     "title": "8.1.3.3  Tính toán cấu kiện bê tông cốt thép theo tiết diện nghiêng chịu lực cắt",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2713,
-    "line_end": 2713
+    "line_start": 2716,
+    "line_end": 2716
   },
   {
     "clause_id": "muc-8-1-3-3-1",
@@ -2165,8 +2165,8 @@
     "title": "8.1.3.3.1  Tính toán cấu kiện bê tông cốt thép chịu uốn theo tiết diện nghiêng (Hình 10) được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2717,
-    "line_end": 2717
+    "line_start": 2720,
+    "line_end": 2720
   },
   {
     "clause_id": "hinh-10",
@@ -2174,8 +2174,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2721,
-    "line_end": 2721
+    "line_start": 2727,
+    "line_end": 2727
   },
   {
     "clause_id": "formula-89",
@@ -2183,8 +2183,8 @@
     "title": "$$Q \\le Q_{b} + Q_{sw} \\tag{89}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2736,
-    "line_end": 2736
+    "line_start": 2742,
+    "line_end": 2742
   },
   {
     "clause_id": "formula-91",
@@ -2192,8 +2192,8 @@
     "title": "$$Q_{sw} = \\varphi_{sw}q_{sw} C \\tag{91}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2761,
-    "line_end": 2761
+    "line_start": 2767,
+    "line_end": 2767
   },
   {
     "clause_id": "formula-92",
@@ -2201,8 +2201,8 @@
     "title": "$$q_{sw} = \\frac{R_{sw} A_{sw}}{s_w} \\tag{92}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2772,
-    "line_end": 2772
+    "line_start": 2778,
+    "line_end": 2778
   },
   {
     "clause_id": "formula-93",
@@ -2210,8 +2210,8 @@
     "title": "$$Q_{1} \\le Q_{b,1} + Q_{sw,1} \\tag{93}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2781,
-    "line_end": 2781
+    "line_start": 2787,
+    "line_end": 2787
   },
   {
     "clause_id": "formula-94",
@@ -2219,8 +2219,8 @@
     "title": "$$Q_{b,1} = 0,5 R_{bt}bh_{0} \\tag{94}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2788,
-    "line_end": 2788
+    "line_start": 2794,
+    "line_end": 2794
   },
   {
     "clause_id": "formula-95",
@@ -2228,8 +2228,8 @@
     "title": "$$Q_{sw,1} = q_{sw}h_{0} \\tag{95}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2793,
-    "line_end": 2793
+    "line_start": 2799,
+    "line_end": 2799
   },
   {
     "clause_id": "formula-96",
@@ -2237,8 +2237,8 @@
     "title": "$$q_{sw} \\ge 0,25 R_{bt} b \\tag{96}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2804,
-    "line_end": 2804
+    "line_start": 2810,
+    "line_end": 2810
   },
   {
     "clause_id": "formula-97",
@@ -2246,8 +2246,8 @@
     "title": "$$Q_b = \\frac{4\\varphi_{b2} h_0^2 q_{sw}}{C} \\tag{97}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2811,
-    "line_end": 2811
+    "line_start": 2817,
+    "line_end": 2817
   },
   {
     "clause_id": "formula-98",
@@ -2255,8 +2255,8 @@
     "title": "$$\\frac{s_{w,\\max}}{h_0} = \\frac{R_{bt} b h_0}{Q} \\tag{98}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2820,
-    "line_end": 2820
+    "line_start": 2826,
+    "line_end": 2826
   },
   {
     "clause_id": "muc-8-1-3-3-2",
@@ -2264,8 +2264,8 @@
     "title": "8.1.3.3.2  Ảnh hưởng của các ứng suất nén và kéo khi tính toán dải bê tông giữa các tiết diện nghiêng và khi tính toán các tiết diện nghiêng cần được kể đến bằng hệ số $\\varphi_{n}$ mà vế phải các điều kiện (88), (90) hoặc (94) phải nhân vào.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2829,
-    "line_end": 2829
+    "line_start": 2835,
+    "line_end": 2835
   },
   {
     "clause_id": "muc-8-1-3-4",
@@ -2273,8 +2273,8 @@
     "title": "8.1.3.4  Tính toán cấu kiện bê tông cốt thép theo tiết diện nghiêng chịu mô men",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2845,
-    "line_end": 2845
+    "line_start": 2851,
+    "line_end": 2851
   },
   {
     "clause_id": "formula-99",
@@ -2282,8 +2282,8 @@
     "title": "$$M \\le M_{s} + M_{sw} \\tag{99}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2851,
-    "line_end": 2851
+    "line_start": 2857,
+    "line_end": 2857
   },
   {
     "clause_id": "hinh-11",
@@ -2291,8 +2291,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2864,
-    "line_end": 2864
+    "line_start": 2879,
+    "line_end": 2879
   },
   {
     "clause_id": "formula-100",
@@ -2300,8 +2300,8 @@
     "title": "$$M_{s} = N_{s}z_{s} \\tag{100}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2885,
-    "line_end": 2885
+    "line_start": 2894,
+    "line_end": 2894
   },
   {
     "clause_id": "formula-101",
@@ -2309,8 +2309,8 @@
     "title": "$$M_{sw} = 0,5 Q_{sw} C \\tag{101}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2898,
-    "line_end": 2898
+    "line_start": 2907,
+    "line_end": 2907
   },
   {
     "clause_id": "muc-8-1-4",
@@ -2318,8 +2318,8 @@
     "title": "8.1.4  Tính toán độ bền cấu kiện bê tông cốt thép chịu tác dụng của mô men xoắn",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2911,
-    "line_end": 2911
+    "line_start": 2920,
+    "line_end": 2920
   },
   {
     "clause_id": "muc-8-1-4-1",
@@ -2327,8 +2327,8 @@
     "title": "8.1.4.1  Yêu cầu chung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2915,
-    "line_end": 2915
+    "line_start": 2924,
+    "line_end": 2924
   },
   {
     "clause_id": "muc-8-1-4-2",
@@ -2336,8 +2336,8 @@
     "title": "8.1.4.2  Tính toán cấu kiện bê tông cốt thép chỉ chịu tác dụng của mô men xoắn",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2933,
-    "line_end": 2933
+    "line_start": 2942,
+    "line_end": 2942
   },
   {
     "clause_id": "muc-8-1-4-2-1",
@@ -2345,8 +2345,8 @@
     "title": "8.1.4.2.1  Tính toán độ bền của cấu kiện giữa các tiết diện không gian được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2937,
-    "line_end": 2937
+    "line_start": 2946,
+    "line_end": 2946
   },
   {
     "clause_id": "formula-102",
@@ -2354,8 +2354,8 @@
     "title": "$$T \\le 0,1 R_{b}b^{2} h \\tag{102}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2941,
-    "line_end": 2941
+    "line_start": 2950,
+    "line_end": 2950
   },
   {
     "clause_id": "muc-8-1-4-2-2",
@@ -2363,8 +2363,8 @@
     "title": "8.1.4.2.2  Tính toán độ bền các tiết diện không gian được tiến hành theo điều kiện (Hình 12):",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2952,
-    "line_end": 2952
+    "line_start": 2961,
+    "line_end": 2961
   },
   {
     "clause_id": "formula-103",
@@ -2372,8 +2372,8 @@
     "title": "$$T \\le T_{sw} + T_{s} \\tag{103}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2956,
-    "line_end": 2956
+    "line_start": 2965,
+    "line_end": 2965
   },
   {
     "clause_id": "hinh-12",
@@ -2381,8 +2381,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2969,
-    "line_end": 2969
+    "line_start": 2978,
+    "line_end": 2978
   },
   {
     "clause_id": "formula-104",
@@ -2390,8 +2390,8 @@
     "title": "$$T_{sw} = 0,9 N_{sw}Z_{2} \\tag{104}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2982,
-    "line_end": 2982
+    "line_start": 2991,
+    "line_end": 2991
   },
   {
     "clause_id": "formula-105",
@@ -2399,8 +2399,8 @@
     "title": "$$T_s = 0,9 N_s \\frac{z_1}{C} z_2 \\tag{105}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2989,
-    "line_end": 2989
+    "line_start": 2998,
+    "line_end": 2998
   },
   {
     "clause_id": "formula-106",
@@ -2408,8 +2408,8 @@
     "title": "$$N_{sw} = q_{sw,1}C_{sw} \\tag{106}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 2998,
-    "line_end": 2998
+    "line_start": 3007,
+    "line_end": 3007
   },
   {
     "clause_id": "formula-107",
@@ -2417,8 +2417,8 @@
     "title": "$$q_{sw,1} = \\frac{R_{sw} A_{sw,1}}{s_w} \\tag{107}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3005,
-    "line_end": 3005
+    "line_start": 3014,
+    "line_end": 3014
   },
   {
     "clause_id": "formula-108",
@@ -2426,8 +2426,8 @@
     "title": "$$C_{sw} = \\delta \\cdot C \\tag{108}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3016,
-    "line_end": 3016
+    "line_start": 3025,
+    "line_end": 3025
   },
   {
     "clause_id": "formula-110",
@@ -2435,8 +2435,8 @@
     "title": "$$N_{s} = R_{s}A_{s,1} \\tag{110}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3031,
-    "line_end": 3031
+    "line_start": 3040,
+    "line_end": 3040
   },
   {
     "clause_id": "formula-111",
@@ -2444,8 +2444,8 @@
     "title": "$$T_{1} \\le T_{sw,1} + T_{s,1} \\tag{111}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3046,
-    "line_end": 3046
+    "line_start": 3055,
+    "line_end": 3055
   },
   {
     "clause_id": "muc-8-1-4-3",
@@ -2453,8 +2453,8 @@
     "title": "8.1.4.3  Tính toán cấu kiện bê tông cốt thép chịu tác dụng đồng thời của mô men xoắn và mô men uốn",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3073,
-    "line_end": 3073
+    "line_start": 3082,
+    "line_end": 3082
   },
   {
     "clause_id": "muc-8-1-4-3-1",
@@ -2462,8 +2462,8 @@
     "title": "8.1.4.3.1  Tính toán độ bền cấu kiện giữa các tiết diện không gian được tiến hành theo 8.1.4.2.1.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3077,
-    "line_end": 3077
+    "line_start": 3086,
+    "line_end": 3086
   },
   {
     "clause_id": "muc-8-1-4-3-2",
@@ -2471,8 +2471,8 @@
     "title": "8.1.4.3.2  Tính toán độ bền các tiết diện không gian được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3081,
-    "line_end": 3081
+    "line_start": 3090,
+    "line_end": 3090
   },
   {
     "clause_id": "muc-8-1-4-4",
@@ -2480,8 +2480,8 @@
     "title": "8.1.4.4  Tính toán cấu kiện bê tông cốt thép chịu tác dụng đồng thời của mô men xoắn và lực cắt",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3113,
-    "line_end": 3113
+    "line_start": 3122,
+    "line_end": 3122
   },
   {
     "clause_id": "muc-8-1-4-4-1",
@@ -2489,8 +2489,8 @@
     "title": "8.1.4.4.1  Tính toán độ bền cấu kiện giữa các tiết diện không gian được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3117,
-    "line_end": 3117
+    "line_start": 3126,
+    "line_end": 3126
   },
   {
     "clause_id": "muc-8-1-4-4-2",
@@ -2498,8 +2498,8 @@
     "title": "8.1.4.4.2  Tính toán độ bền tiết diện không gian được tiến hành theo điều kiện (115), nhưng trong đó các đại lượng được lấy như sau:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3135,
-    "line_end": 3135
+    "line_start": 3144,
+    "line_end": 3144
   },
   {
     "clause_id": "muc-8-1-5",
@@ -2507,8 +2507,8 @@
     "title": "8.1.5  Tính toán cấu kiện bê tông cốt thép chịu nén cục bộ",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3159,
-    "line_end": 3159
+    "line_start": 3168,
+    "line_end": 3168
   },
   {
     "clause_id": "muc-8-1-5-1",
@@ -2516,8 +2516,8 @@
     "title": "8.1.5.1  Tính toán cấu kiện bê tông cốt thép chịu nén (ép) cục bộ được tiến hành khi có tác dụng của lực nén đặt trên một diện tích giới hạn, vuông góc với bề mặt cấu kiện bê tông cốt thép. Khi đó, cần kể đến cường độ chịu nén nâng cao của bê tông trong phạm vi diện chịu tải (diện tích chịu nén cục bộ) do trạng thái ứng suất ba chiều của bê tông nằm dưới diện chịu tải, phụ thuộc vào vị trí diện chịu tải trên bề mặt cấu kiện.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3163,
-    "line_end": 3163
+    "line_start": 3172,
+    "line_end": 3172
   },
   {
     "clause_id": "muc-8-1-5-2",
@@ -2525,8 +2525,8 @@
     "title": "8.1.5.2  Tính toán cấu kiện chịu nén cục bộ khi không có cốt thép hạn chế biến dạng ngang (Hình 13) được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3171,
-    "line_end": 3171
+    "line_start": 3180,
+    "line_end": 3180
   },
   {
     "clause_id": "hinh-13",
@@ -2534,8 +2534,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3205,
-    "line_end": 3205
+    "line_start": 3221,
+    "line_end": 3221
   },
   {
     "clause_id": "muc-8-1-5-3",
@@ -2543,8 +2543,8 @@
     "title": "8.1.5.3  Tính toán các cấu kiện chịu nén cục bộ khi đặt lưới thép hàn (cốt thép hạn chế biến dạng ngang) được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3232,
-    "line_end": 3232
+    "line_start": 3244,
+    "line_end": 3244
   },
   {
     "clause_id": "muc-8-1-6",
@@ -2552,8 +2552,8 @@
     "title": "8.1.6  Tính toán chọc thủng cấu kiện bê tông cốt thép",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3278,
-    "line_end": 3278
+    "line_start": 3290,
+    "line_end": 3290
   },
   {
     "clause_id": "muc-8-1-6-1",
@@ -2561,8 +2561,8 @@
     "title": "8.1.6.1  Yêu cầu chung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3282,
-    "line_end": 3282
+    "line_start": 3294,
+    "line_end": 3294
   },
   {
     "clause_id": "hinh-14",
@@ -2570,8 +2570,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3292,
-    "line_end": 3292
+    "line_start": 3307,
+    "line_end": 3307
   },
   {
     "clause_id": "hinh-15",
@@ -2579,8 +2579,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3323,
-    "line_end": 3323
+    "line_start": 3345,
+    "line_end": 3345
   },
   {
     "clause_id": "hinh-16",
@@ -2588,8 +2588,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3360,
-    "line_end": 3360
+    "line_start": 3381,
+    "line_end": 3381
   },
   {
     "clause_id": "muc-8-1-6-2",
@@ -2597,8 +2597,8 @@
     "title": "8.1.6.2  Tính toán chọc thủng cấu kiện chịu lực tập trung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3391,
-    "line_end": 3391
+    "line_start": 3412,
+    "line_end": 3412
   },
   {
     "clause_id": "muc-8-1-6-2-1",
@@ -2606,8 +2606,8 @@
     "title": "8.1.6.2.1  Tính toán chọc thủng cho cấu kiện không có cốt thép ngang chịu lực tập trung được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3395,
-    "line_end": 3395
+    "line_start": 3416,
+    "line_end": 3416
   },
   {
     "clause_id": "formula-123",
@@ -2615,8 +2615,8 @@
     "title": "$$F \\le F_{b,u} \\tag{123}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3399,
-    "line_end": 3399
+    "line_start": 3420,
+    "line_end": 3420
   },
   {
     "clause_id": "formula-124",
@@ -2624,8 +2624,8 @@
     "title": "$$F_{b,u} = R_{bt}A_{b} \\tag{124}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3412,
-    "line_end": 3412
+    "line_start": 3433,
+    "line_end": 3433
   },
   {
     "clause_id": "formula-125",
@@ -2633,8 +2633,8 @@
     "title": "$$A_{b} = uh_{0} \\tag{125}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3421,
-    "line_end": 3421
+    "line_start": 3442,
+    "line_end": 3442
   },
   {
     "clause_id": "hinh-17",
@@ -2642,8 +2642,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3432,
-    "line_end": 3432
+    "line_start": 3456,
+    "line_end": 3456
   },
   {
     "clause_id": "muc-8-1-6-2-2",
@@ -2651,8 +2651,8 @@
     "title": "8.1.6.2.2  Tính toán chọc thủng cho cấu kiện có cốt thép ngang chịu lực tập trung (Hình 18) được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3451,
-    "line_end": 3451
+    "line_start": 3475,
+    "line_end": 3475
   },
   {
     "clause_id": "formula-126",
@@ -2660,8 +2660,8 @@
     "title": "$$F \\le F_{b,u} + F_{sw,u} \\tag{126}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3455,
-    "line_end": 3455
+    "line_start": 3479,
+    "line_end": 3479
   },
   {
     "clause_id": "formula-127",
@@ -2669,8 +2669,8 @@
     "title": "$$F_{sw,u} = 0,8 q_{sw} u \\tag{127}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3468,
-    "line_end": 3468
+    "line_start": 3492,
+    "line_end": 3492
   },
   {
     "clause_id": "formula-128",
@@ -2678,8 +2678,8 @@
     "title": "$$q_{sw} = \\frac{R_{sw} A_{sw}}{s_w} \\tag{128}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3479,
-    "line_end": 3479
+    "line_start": 3503,
+    "line_end": 3503
   },
   {
     "clause_id": "hinh-18",
@@ -2687,8 +2687,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3496,
-    "line_end": 3496
+    "line_start": 3523,
+    "line_end": 3523
   },
   {
     "clause_id": "muc-8-1-6-3",
@@ -2696,8 +2696,8 @@
     "title": "8.1.6.3  Tính toán chọc thủng cấu kiện chịu lực tập trung và mô men uốn tập trung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3519,
-    "line_end": 3519
+    "line_start": 3546,
+    "line_end": 3546
   },
   {
     "clause_id": "muc-8-1-6-3-1",
@@ -2705,8 +2705,8 @@
     "title": "8.1.6.3.1  Tính toán chọc thủng cấu kiện không có cốt thép ngang khi có tác dụng đồng thời của lực tập trung và mô men uốn tập trung (Hình 17) được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3523,
-    "line_end": 3523
+    "line_start": 3550,
+    "line_end": 3550
   },
   {
     "clause_id": "formula-130",
@@ -2714,8 +2714,8 @@
     "title": "$$M_{b,u} = R_{bt}W_{b}h_{0} \\tag{130}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3545,
-    "line_end": 3545
+    "line_start": 3572,
+    "line_end": 3572
   },
   {
     "clause_id": "muc-8-1-6-3-2",
@@ -2723,8 +2723,8 @@
     "title": "8.1.6.3.2  Tính toán chọc thủng cấu kiện có cốt thép ngang khi có tác dụng đồng thời của lực tập trung và mô men uốn tập trung được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3576,
-    "line_end": 3576
+    "line_start": 3603,
+    "line_end": 3603
   },
   {
     "clause_id": "formula-133",
@@ -2732,8 +2732,8 @@
     "title": "$$M_{sw,u} = 0,8 q_{sw}W_{sw} \\tag{133}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3602,
-    "line_end": 3602
+    "line_start": 3629,
+    "line_end": 3629
   },
   {
     "clause_id": "muc-8-1-6-3-3",
@@ -2741,8 +2741,8 @@
     "title": "8.1.6.3.3  Trong trường hợp tổng quát, các giá trị mô men kháng uốn khi chọc thủng $W_{bx(y)}$ của đường bao tính toán bê tông, theo phương các trục vuông góc với nhau X và Y được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3613,
-    "line_end": 3613
+    "line_start": 3640,
+    "line_end": 3640
   },
   {
     "clause_id": "muc-8-1-6-3-4",
@@ -2750,8 +2750,8 @@
     "title": "8.1.6.3.4  Giá trị các mô men kháng uốn $W_{sw,x}$ và $ W_{sw,y}$ của cốt thép ngang khi chọc thủng trong trường hợp, khi mà cốt thép ngang phân bố đều dọc theo đường bao chọc thủng tính toán trong phạm vi của vùng có các biên nằm ở khoảng cách $ h_{0}$/2 về mỗi phía của đường bao chọc thủng bê tông (Hình 18), lần lượt lấy bằng các giá trị $ W_{bx}$ và $ W_{by}$.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3651,
-    "line_end": 3651
+    "line_start": 3678,
+    "line_end": 3678
   },
   {
     "clause_id": "muc-8-1-7",
@@ -2759,8 +2759,8 @@
     "title": "8.1.7  Tính toán cấu kiện bê tông cốt thép phẳng của bản và tường theo độ bền",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3657,
-    "line_end": 3657
+    "line_start": 3684,
+    "line_end": 3684
   },
   {
     "clause_id": "muc-8-1-7-1",
@@ -2768,8 +2768,8 @@
     "title": "8.1.7.1  Tính toán độ bền các bản phẳng của sàn tầng, sàn mái và bản móng cần được tiến hành như đối với các phần tử phẳng được tách ra chịu tác dụng đồng thời của mô men uốn theo phương các trục vuông góc với nhau và mô men xoắn tác dụng ở cạnh bên của phần tử phẳng được tách ra, cũng như chịu tác dụng của lực dọc và lực cắt tác dụng ở các cạnh bên của phần tử phẳng (Hình 19).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3661,
-    "line_end": 3661
+    "line_start": 3688,
+    "line_end": 3688
   },
   {
     "clause_id": "muc-8-1-7-2",
@@ -2777,8 +2777,8 @@
     "title": "8.1.7.2  Tính toán độ bền các bản phẳng trong trường hợp tổng quát nên được tiến hành bằng cách chia phần tử phẳng ra thành các lớp bê tông chịu nén và cốt thép chịu kéo và tính toán riêng biệt từng lớp chịu tác dụng của lực pháp tuyến và lực trượt trong lớp này. Các lực này do tác dụng của mô men uốn, mô men xoắn và lực pháp tuyến gây ra (Hình 20).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3667,
-    "line_end": 3667
+    "line_start": 3694,
+    "line_end": 3694
   },
   {
     "clause_id": "hinh-19",
@@ -2786,8 +2786,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3671,
-    "line_end": 3671
+    "line_start": 3698,
+    "line_end": 3698
   },
   {
     "clause_id": "hinh-20",
@@ -2795,8 +2795,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3682,
-    "line_end": 3682
+    "line_start": 3709,
+    "line_end": 3709
   },
   {
     "clause_id": "formula-141",
@@ -2804,8 +2804,8 @@
     "title": "$$M_{bxy,u} = 0,1 R_{b}b^{2} h \\tag{141}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3714,
-    "line_end": 3714
+    "line_start": 3741,
+    "line_end": 3741
   },
   {
     "clause_id": "formula-142",
@@ -2813,8 +2813,8 @@
     "title": "$$M_{sxy,u} = 0,5 R_{s} ( A_{sx} + A_{sy} ) h_{0} \\tag{142}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3721,
-    "line_end": 3721
+    "line_start": 3748,
+    "line_end": 3748
   },
   {
     "clause_id": "muc-8-1-7-3",
@@ -2822,8 +2822,8 @@
     "title": "8.1.7.3  Tính toán phần tử phẳng được tách ra chịu tác dụng của lực cắt được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3736,
-    "line_end": 3736
+    "line_start": 3763,
+    "line_end": 3763
   },
   {
     "clause_id": "formula-144",
@@ -2831,8 +2831,8 @@
     "title": "$$Q_{x(y),u} = Q_{b} + Q_{sw} \\tag{144}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3752,
-    "line_end": 3752
+    "line_start": 3779,
+    "line_end": 3779
   },
   {
     "clause_id": "formula-145",
@@ -2840,8 +2840,8 @@
     "title": "$$Q_{b} = 0,5 R_{bt}bh_{0} \\tag{145}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3761,
-    "line_end": 3761
+    "line_start": 3788,
+    "line_end": 3788
   },
   {
     "clause_id": "formula-146",
@@ -2849,8 +2849,8 @@
     "title": "$$Q_{sw} = q_{sw}h_{0} \\tag{146}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3766,
-    "line_end": 3766
+    "line_start": 3793,
+    "line_end": 3793
   },
   {
     "clause_id": "muc-8-1-7-4",
@@ -2858,8 +2858,8 @@
     "title": "8.1.7.4  Tính toán độ bền của tường trong trường hợp tổng quát được tiến hành như đối với các phần tử phẳng được tách ra chịu tác dụng đồng thời của lực pháp tuyến, mô men uốn, mô men xoắn, lực trượt, lực cắt tác dụng theo các cạnh của phần tử phẳng được tách ra (Hình 21).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3773,
-    "line_end": 3773
+    "line_start": 3800,
+    "line_end": 3800
   },
   {
     "clause_id": "hinh-21",
@@ -2867,8 +2867,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3777,
-    "line_end": 3777
+    "line_start": 3804,
+    "line_end": 3804
   },
   {
     "clause_id": "muc-8-1-7-5",
@@ -2876,8 +2876,8 @@
     "title": "8.1.7.5  Tính toán tường trong trường hợp tổng quát nên được tiến hành bằng cách chia phần tử phẳng thành các lớp bê tông chịu nén và cốt thép chịu kéo và tính toán từng lớp riêng biệt chịu tác dụng của lực pháp tuyến và lực trượt trong lớp này. Các lực này do tác dụng của mô men uốn và mô men xoắn, lực pháp tuyến tổng quát và lực trượt tổng quát gây ra.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3788,
-    "line_end": 3788
+    "line_start": 3815,
+    "line_end": 3815
   },
   {
     "clause_id": "formula-151",
@@ -2885,8 +2885,8 @@
     "title": "$$N_{bxy,u} = 0,3 R_{b}A_{b} \\tag{151}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3815,
-    "line_end": 3815
+    "line_start": 3842,
+    "line_end": 3842
   },
   {
     "clause_id": "formula-152",
@@ -2894,8 +2894,8 @@
     "title": "$$N_{sxy,u} = 0,5 R_{s} ( A_{sx} + A_{sy} ) \\tag{152}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3824,
-    "line_end": 3824
+    "line_start": 3851,
+    "line_end": 3851
   },
   {
     "clause_id": "muc-8-1-7-6",
@@ -2903,8 +2903,8 @@
     "title": "8.1.7.6  Tính toán độ bền các phần tử phẳng được tách ra của tường chịu tác dụng của lực cắt cần được tiến hành tương tự như tính toán bản, nhưng có kể đến ảnh hưởng của lực dọc.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3837,
-    "line_end": 3837
+    "line_start": 3864,
+    "line_end": 3864
   },
   {
     "clause_id": "muc-8-1-7-7",
@@ -2912,8 +2912,8 @@
     "title": "8.1.7.7  Tính toán khả năng chống nứt của bản (về hình thành và mở rộng vết nứt thẳng góc với trục dọc cấu kiện), cần được tiến hành với tác dụng của mô men uốn (không kể đến mô men xoắn) theo các chỉ dẫn trong 8.2.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3841,
-    "line_end": 3841
+    "line_start": 3868,
+    "line_end": 3868
   },
   {
     "clause_id": "muc-8-2",
@@ -2921,8 +2921,8 @@
     "title": "8.2  Tính toán cấu kiện của các kết cấu bê tông cốt thép theo các trạng thái giới hạn thứ hai",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3845,
-    "line_end": 3845
+    "line_start": 3872,
+    "line_end": 3872
   },
   {
     "clause_id": "muc-8-2-1",
@@ -2930,8 +2930,8 @@
     "title": "8.2.1  Yêu cầu chung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3849,
-    "line_end": 3849
+    "line_start": 3876,
+    "line_end": 3876
   },
   {
     "clause_id": "muc-8-2-1-1",
@@ -2939,8 +2939,8 @@
     "title": "8.2.1.1  Tính toán theo các trạng thái giới hạn thứ hai bao gồm:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3853,
-    "line_end": 3853
+    "line_start": 3880,
+    "line_end": 3880
   },
   {
     "clause_id": "muc-8-2-1-2",
@@ -2948,8 +2948,8 @@
     "title": "8.2.1.2  Tính toán theo sự hình thành vết nứt được tiến hành khi phải đảm bảo không có vết nứt được hình thành (xem 4.3), cũng như được coi là phép tính toán bổ sung khi tính toán mở rộng vết nứt và tính toán biến dạng.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3863,
-    "line_end": 3863
+    "line_start": 3890,
+    "line_end": 3890
   },
   {
     "clause_id": "muc-8-2-1-3",
@@ -2957,8 +2957,8 @@
     "title": "8.2.1.3  Khi tính toán theo sự hình thành vết nứt với mục đích không cho phép vết nứt xuất hiện thì lấy hệ số độ tin cậy về tải trọng $\\gamma_{f}$ > 1,0 (như khi tính toán độ bền). Khi tính toán mở rộng vết nứt và tính toán biến dạng (bao gồm tính toán bổ sung về hình thành vết nứt) thì lấy hệ số độ tin cậy về tải trọng $\\gamma_{f}$ = 1,0.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3867,
-    "line_end": 3867
+    "line_start": 3894,
+    "line_end": 3894
   },
   {
     "clause_id": "muc-8-2-2",
@@ -2966,8 +2966,8 @@
     "title": "8.2.2  Tính toán cấu kiện bê tông cốt thép theo sự hình thành và mở rộng vết nứt",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3871,
-    "line_end": 3871
+    "line_start": 3898,
+    "line_end": 3898
   },
   {
     "clause_id": "muc-8-2-2-1",
@@ -2975,8 +2975,8 @@
     "title": "8.2.2.1  Yêu cầu chung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3875,
-    "line_end": 3875
+    "line_start": 3902,
+    "line_end": 3902
   },
   {
     "clause_id": "muc-8-2-2-1-1",
@@ -2984,8 +2984,8 @@
     "title": "8.2.2.1.1  Tính toán theo sự hình thành vết nứt của cấu kiện bê tông cốt thép được tiến hành trong các trường hợp khi mà điều kiện sau được tuân thủ:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3879,
-    "line_end": 3879
+    "line_start": 3906,
+    "line_end": 3906
   },
   {
     "clause_id": "formula-153",
@@ -2993,8 +2993,8 @@
     "title": "$$M > M_{crc} \\tag{153}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3883,
-    "line_end": 3883
+    "line_start": 3910,
+    "line_end": 3910
   },
   {
     "clause_id": "formula-154",
@@ -3002,8 +3002,8 @@
     "title": "$$N > N_{crc} \\tag{154}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3896,
-    "line_end": 3896
+    "line_start": 3923,
+    "line_end": 3923
   },
   {
     "clause_id": "muc-8-2-2-1-2",
@@ -3011,8 +3011,8 @@
     "title": "8.2.2.1.2  Trong các trường hợp, khi mà các điều kiện (153) và (154) xảy ra, thì cần tính toán chiều rộng vết nứt. Cần tính toán các cấu kiện bê tông cốt thép theo các vết nứt ngắn hạn và dài hạn.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3907,
-    "line_end": 3907
+    "line_start": 3934,
+    "line_end": 3934
   },
   {
     "clause_id": "muc-8-2-2-1-3",
@@ -3020,8 +3020,8 @@
     "title": "8.2.2.1.3  Tính toán chiều rộng vết nứt được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3913,
-    "line_end": 3913
+    "line_start": 3940,
+    "line_end": 3940
   },
   {
     "clause_id": "formula-155",
@@ -3029,8 +3029,8 @@
     "title": "$$a_{crc} \\le a_{crc,u} \\tag{155}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3917,
-    "line_end": 3917
+    "line_start": 3944,
+    "line_end": 3944
   },
   {
     "clause_id": "bang-bang-17",
@@ -3038,8 +3038,8 @@
     "title": "Bảng 17 - Chiều rộng vết nứt giới hạn cho phép",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3928,
-    "line_end": 3928
+    "line_start": 3955,
+    "line_end": 3955
   },
   {
     "clause_id": "muc-8-2-2-1-4",
@@ -3047,8 +3047,8 @@
     "title": "8.2.2.1.4  Tính toán cấu kiện bê tông cốt thép cần được tiến hành theo sự mở rộng dài hạn và ngắn hạn của các vết nứt thẳng góc và xiên.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3947,
-    "line_end": 3947
+    "line_start": 3974,
+    "line_end": 3974
   },
   {
     "clause_id": "formula-156",
@@ -3056,8 +3056,8 @@
     "title": "$$a_{crc} = a_{crc,1} \\tag{156}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3953,
-    "line_end": 3953
+    "line_start": 3980,
+    "line_end": 3980
   },
   {
     "clause_id": "formula-157",
@@ -3065,8 +3065,8 @@
     "title": "$$a_{crc} = a_{crc,1} + a_{crc,2} - a_{crc,3} \\tag{157}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3960,
-    "line_end": 3960
+    "line_start": 3987,
+    "line_end": 3987
   },
   {
     "clause_id": "muc-8-2-2-2",
@@ -3074,8 +3074,8 @@
     "title": "8.2.2.2  Xác định mô men hình thành vết nứt thẳng góc với trục dọc cấu kiện",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3973,
-    "line_end": 3973
+    "line_start": 4000,
+    "line_end": 4000
   },
   {
     "clause_id": "muc-8-2-2-2-1",
@@ -3083,8 +3083,8 @@
     "title": "8.2.2.2.1  Trong trường hợp tổng quát, mô men uốn khi hình thành vết nứt $M_{cr}$ được xác định theo mô hình biến dạng phi tuyến theo 8.2.2.2.7.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3977,
-    "line_end": 3977
+    "line_start": 4004,
+    "line_end": 4004
   },
   {
     "clause_id": "muc-8-2-2-2-2",
@@ -3092,8 +3092,8 @@
     "title": "8.2.2.2.2  Cho phép mô men hình thành vết nứt được xác định không kể đến các biến dạng không đàn hồi của bê tông chịu kéo theo các chỉ dẫn 8.2.2.2.4, nhưng trong công thức (158) lấy $W_{pl}$ = $ W_{red}$. Nếu khi đó điều kiện (155) hoặc điều kiện (177) không thỏa mãn thì mô men hình thành vết nứt cần được xác định có kể đến biến dạng không đàn hồi của bê tông chịu kéo.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3983,
-    "line_end": 3983
+    "line_start": 4010,
+    "line_end": 4010
   },
   {
     "clause_id": "muc-8-2-2-2-3",
@@ -3101,8 +3101,8 @@
     "title": "8.2.2.2.3  Mô men hình thành vết nứt có kể đến biến dạng không đàn hồi của bê tông chịu kéo cần được xác định dựa trên các giả thiết sau:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 3987,
-    "line_end": 3987
+    "line_start": 4014,
+    "line_end": 4014
   },
   {
     "clause_id": "muc-8-2-2-2-4",
@@ -3110,8 +3110,8 @@
     "title": "8.2.2.2.4  Mô men hình thành vết nứt có kể đến các biến dạng không đàn hồi của vùng bê tông chịu kéo được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4001,
-    "line_end": 4001
+    "line_start": 4028,
+    "line_end": 4028
   },
   {
     "clause_id": "hinh-22",
@@ -3119,8 +3119,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4015,
-    "line_end": 4015
+    "line_start": 4045,
+    "line_end": 4045
   },
   {
     "clause_id": "formula-159",
@@ -3128,8 +3128,8 @@
     "title": "$$W_{pl} = \\gammaW_{red} \\tag{159}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4034,
-    "line_end": 4034
+    "line_start": 4064,
+    "line_end": 4064
   },
   {
     "clause_id": "muc-8-2-2-2-5",
@@ -3137,8 +3137,8 @@
     "title": "8.2.2.2.5  Mô men kháng uốn $W_{red}$ và khoảng cách $ e_{x}$ được xác định theo các công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4047,
-    "line_end": 4047
+    "line_start": 4077,
+    "line_end": 4077
   },
   {
     "clause_id": "muc-8-2-2-2-6",
@@ -3146,8 +3146,8 @@
     "title": "8.2.2.2.6  Nội lực $N_{crc}$ khi hình thành vết nứt trong các cấu kiện chịu kéo đúng tâm được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4085,
-    "line_end": 4085
+    "line_start": 4115,
+    "line_end": 4115
   },
   {
     "clause_id": "formula-165",
@@ -3155,8 +3155,8 @@
     "title": "$$N_{crc} = A_{red}R_{bt,ser} \\tag{165}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4089,
-    "line_end": 4089
+    "line_start": 4119,
+    "line_end": 4119
   },
   {
     "clause_id": "muc-8-2-2-2-7",
@@ -3164,8 +3164,8 @@
     "title": "8.2.2.2.7  Xác định mô men hình thành vết nứt theo mô hình biến dạng phi tuyến được tiến hành dựa trên các yêu cầu chung nêu trong 6.1.4.6 và 8.1.2.7, nhưng có kể đến sự làm việc của bê tông trong vùng chịu kéo của tiết diện thẳng góc, mà sự làm việc này được xác định bằng biểu đồ biến dạng của bê tông chịu kéo theo 6.1.4.4. Các đặc trưng tính toán của vật liệu được lấy đối với các trạng thái giới hạn thứ hai.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4094,
-    "line_end": 4094
+    "line_start": 4124,
+    "line_end": 4124
   },
   {
     "clause_id": "muc-8-2-2-3",
@@ -3173,8 +3173,8 @@
     "title": "8.2.2.3  Tính toán chiều rộng vết nứt thẳng góc với trục dọc cấu kiện",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4100,
-    "line_end": 4100
+    "line_start": 4130,
+    "line_end": 4130
   },
   {
     "clause_id": "muc-8-2-2-3-1",
@@ -3182,8 +3182,8 @@
     "title": "8.2.2.3.1  Chiều rộng vết nứt thẳng góc $a_{crc,i}$ (i = 1, 2, 3 - xem 8.2.2.1.4) được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4104,
-    "line_end": 4104
+    "line_start": 4134,
+    "line_end": 4134
   },
   {
     "clause_id": "muc-8-2-2-3-2",
@@ -3191,8 +3191,8 @@
     "title": "8.2.2.3.2  Giá trị ứng suất $\\sigma_{s}$ trong cốt thép chịu kéo của cấu kiện chịu uốn được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4138,
-    "line_end": 4138
+    "line_start": 4168,
+    "line_end": 4168
   },
   {
     "clause_id": "hinh-23",
@@ -3200,8 +3200,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4152,
-    "line_end": 4152
+    "line_start": 4185,
+    "line_end": 4185
   },
   {
     "clause_id": "formula-171",
@@ -3209,8 +3209,8 @@
     "title": "$$z_s = h_0 - \\frac{x}{3} \\tag{171}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4195,
-    "line_end": 4195
+    "line_start": 4228,
+    "line_end": 4228
   },
   {
     "clause_id": "muc-8-2-2-3-3",
@@ -3218,8 +3218,8 @@
     "title": "8.2.2.3.3  Khoảng cách cơ sở giữa các vết nứt thẳng góc kề nhau $L_{s}$ được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4228,
-    "line_end": 4228
+    "line_start": 4261,
+    "line_end": 4261
   },
   {
     "clause_id": "muc-8-2-2-3-4",
@@ -3227,8 +3227,8 @@
     "title": "8.2.2.3.4  Giá trị hệ số $\\psi_{s}$ được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4250,
-    "line_end": 4250
+    "line_start": 4283,
+    "line_end": 4283
   },
   {
     "clause_id": "muc-8-2-3",
@@ -3236,8 +3236,8 @@
     "title": "8.2.3  Tính toán cấu kiện bê tông cốt thép theo biến dạng",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4272,
-    "line_end": 4272
+    "line_start": 4305,
+    "line_end": 4305
   },
   {
     "clause_id": "muc-8-2-3-1",
@@ -3245,8 +3245,8 @@
     "title": "8.2.3.1  Yêu cầu chung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4276,
-    "line_end": 4276
+    "line_start": 4309,
+    "line_end": 4309
   },
   {
     "clause_id": "muc-8-2-3-1-1",
@@ -3254,8 +3254,8 @@
     "title": "8.2.3.1.1  Tính toán cấu kiện bê tông cốt thép theo biến dạng được tiến hành có kể đến các yêu cầu sử dụng đối với kết cấu.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4280,
-    "line_end": 4280
+    "line_start": 4313,
+    "line_end": 4313
   },
   {
     "clause_id": "muc-8-2-3-1-2",
@@ -3263,8 +3263,8 @@
     "title": "8.2.3.1.2  Giá trị biến dạng giới hạn cho phép của cấu kiện lấy theo Phụ lục M và các tiêu chuẩn áp dụng cho từng loại kết cấu.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4290,
-    "line_end": 4290
+    "line_start": 4323,
+    "line_end": 4323
   },
   {
     "clause_id": "muc-8-2-3-2",
@@ -3272,8 +3272,8 @@
     "title": "8.2.3.2  Tính toán độ võng cấu kiện bê tông cốt thép",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4294,
-    "line_end": 4294
+    "line_start": 4327,
+    "line_end": 4327
   },
   {
     "clause_id": "muc-8-2-3-2-1",
@@ -3281,8 +3281,8 @@
     "title": "8.2.3.2.1  Tính toán độ võng của cấu kiện bê tông cốt thép được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4298,
-    "line_end": 4298
+    "line_start": 4331,
+    "line_end": 4331
   },
   {
     "clause_id": "formula-177",
@@ -3290,8 +3290,8 @@
     "title": "$$f \\le f_{u} \\tag{177}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4302,
-    "line_end": 4302
+    "line_start": 4335,
+    "line_end": 4335
   },
   {
     "clause_id": "muc-8-2-3-2-2",
@@ -3299,8 +3299,8 @@
     "title": "8.2.3.2.2  Độ võng do biến dạng uốn gây ra được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4317,
-    "line_end": 4317
+    "line_start": 4350,
+    "line_end": 4350
   },
   {
     "clause_id": "muc-8-2-3-2-3",
@@ -3308,8 +3308,8 @@
     "title": "8.2.3.2.3  Đối với các cấu kiện chịu uốn tiết diện không đổi dọc theo chiều dài cấu kiện không có vết nứt thì độ võng được xác định theo các nguyên tắc chung của cơ học kết cấu với việc sử dụng độ cứng tiết diện ngang được xác định theo công thức (188).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4351,
-    "line_end": 4351
+    "line_start": 4384,
+    "line_end": 4384
   },
   {
     "clause_id": "muc-8-2-3-2-4",
@@ -3317,8 +3317,8 @@
     "title": "8.2.3.2.4  Đối với các cấu kiện chịu uốn tiết diện không đổi dọc theo chiều dài cấu kiện có vết nứt thì độ cong trên từng đoạn có mô men uốn không đổi dấu cho phép được xác định đối với tiết diện chịu lực lớn hơn cả và độ cong của các tiết diện còn lại trên từng đoạn đó được lấy tỷ lệ với các giá trị mô men uốn.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4355,
-    "line_end": 4355
+    "line_start": 4388,
+    "line_end": 4388
   },
   {
     "clause_id": "muc-8-2-3-2-5",
@@ -3326,8 +3326,8 @@
     "title": "8.2.3.2.5  Đối với cấu kiện chịu uốn khi L/h < 10 thì cần kể đến ảnh hưởng của lực cắt đến độ võng. Trong trường hợp này, độ võng toàn phần f bằng tổng độ võng do biến dạng uốn $f_{m}$ (xem 8.2.3.2.3 và 8.2.3.2.4) và độ võng do biến dạng trượt $ f_{q}$.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4375,
-    "line_end": 4375
+    "line_start": 4408,
+    "line_end": 4408
   },
   {
     "clause_id": "formula-184",
@@ -3335,8 +3335,8 @@
     "title": "$$Q > 0,5 R_{bt,ser}bh_{0} \\tag{184}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4427,
-    "line_end": 4427
+    "line_start": 4460,
+    "line_end": 4460
   },
   {
     "clause_id": "muc-8-2-3-3",
@@ -3344,8 +3344,8 @@
     "title": "8.2.3.3  Xác định độ cong cấu kiện bê tông cốt thép",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4432,
-    "line_end": 4432
+    "line_start": 4465,
+    "line_end": 4465
   },
   {
     "clause_id": "muc-8-2-3-3-1",
@@ -3353,8 +3353,8 @@
     "title": "8.2.3.3.1  Để làm cơ sở tính độ võng của các cấu kiện chịu uốn, chịu nén lệch tâm và chịu kéo lệch tâm thì cần xác định độ cong của chúng như sau:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4436,
-    "line_end": 4436
+    "line_start": 4469,
+    "line_end": 4469
   },
   {
     "clause_id": "muc-8-2-3-3-2",
@@ -3362,8 +3362,8 @@
     "title": "8.2.3.3.2  Độ cong toàn phần của cấu kiện chịu uốn, chịu nén lệch tâm và chịu kéo lệch tâm được xác định theo các công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4448,
-    "line_end": 4448
+    "line_start": 4481,
+    "line_end": 4481
   },
   {
     "clause_id": "muc-8-2-3-3-3",
@@ -3371,8 +3371,8 @@
     "title": "8.2.3.3.3  Độ cong của cấu kiện bê tông cốt thép (1/r) do tác dụng của các tải trọng tương ứng (xem 8.2.3.3.2) được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4480,
-    "line_end": 4480
+    "line_start": 4513,
+    "line_end": 4513
   },
   {
     "clause_id": "formula-187",
@@ -3380,8 +3380,8 @@
     "title": "$$\\left(\\frac{1}{r}\\right) = \\frac{M}{D} \\tag{187}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4484,
-    "line_end": 4484
+    "line_start": 4517,
+    "line_end": 4517
   },
   {
     "clause_id": "formula-188",
@@ -3389,8 +3389,8 @@
     "title": "$$D = E_{b1}I_{red} \\tag{188}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4495,
-    "line_end": 4495
+    "line_start": 4528,
+    "line_end": 4528
   },
   {
     "clause_id": "muc-8-2-3-3-4",
@@ -3398,8 +3398,8 @@
     "title": "8.2.3.3.4  Độ cứng của các cấu kiện bê tông cốt thép trên các đoạn không có vết nứt trong vùng chịu kéo",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4508,
-    "line_end": 4508
+    "line_start": 4541,
+    "line_end": 4541
   },
   {
     "clause_id": "formula-191",
@@ -3407,8 +3407,8 @@
     "title": "$$E_{b1} = 0,85 E_{b} \\tag{191}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4540,
-    "line_end": 4540
+    "line_start": 4573,
+    "line_end": 4573
   },
   {
     "clause_id": "muc-8-2-3-3-5",
@@ -3416,8 +3416,8 @@
     "title": "8.2.3.3.5  Độ cứng của cấu kiện bê tông cốt thép trên các đoạn có vết nứt trong vùng chịu kéo",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4553,
-    "line_end": 4553
+    "line_start": 4586,
+    "line_end": 4586
   },
   {
     "clause_id": "hinh-24",
@@ -3425,8 +3425,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4591,
-    "line_end": 4591
+    "line_start": 4627,
+    "line_end": 4627
   },
   {
     "clause_id": "muc-8-2-3-3-6",
@@ -3434,8 +3434,8 @@
     "title": "8.2.3.3.6  Đối với cấu kiện chịu uốn thì vị trí trục trung hòa (chiều cao trung bình của vùng bê tông chịu nén) được xác định từ phương trình:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4606,
-    "line_end": 4606
+    "line_start": 4642,
+    "line_end": 4642
   },
   {
     "clause_id": "muc-8-2-3-3-7",
@@ -3443,8 +3443,8 @@
     "title": "8.2.3.3.7  Cho phép xác định độ cứng của cấu kiện bê tông cốt thép chịu uốn theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4675,
-    "line_end": 4675
+    "line_start": 4711,
+    "line_end": 4711
   },
   {
     "clause_id": "formula-200",
@@ -3452,8 +3452,8 @@
     "title": "$$D = E_{s,red}A_{s} z( h_{0} - x_{m} ) \\tag{200}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4679,
-    "line_end": 4679
+    "line_start": 4715,
+    "line_end": 4715
   },
   {
     "clause_id": "formula-201",
@@ -3461,8 +3461,8 @@
     "title": "$$z = h_0 - \\frac{x_m}{3} \\tag{201}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4688,
-    "line_end": 4688
+    "line_start": 4724,
+    "line_end": 4724
   },
   {
     "clause_id": "muc-8-2-3-3-8",
@@ -3470,8 +3470,8 @@
     "title": "8.2.3.3.8  Giá trị các hệ số quy đổi cốt thép về bê tông được lấy bằng:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4695,
-    "line_end": 4695
+    "line_start": 4731,
+    "line_end": 4731
   },
   {
     "clause_id": "muc-8-2-3-3-9",
@@ -3479,8 +3479,8 @@
     "title": "8.2.3.3.9  Độ võng của cấu kiện bê tông cốt thép có thể được xác định theo các nguyên tắc chung của cơ học kết cấu với việc sử dụng trực tiếp các đặc trưng độ cứng chống uốn D thay cho độ cong 1/r bằng cách thay các đặc trưng chống uốn đàn hồi EI trong các công thức tính toán bằng các đặc trưng D đã được tính theo các công thức trong 8.2.3.3.3 và 8.2.3.3.7.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4725,
-    "line_end": 4725
+    "line_start": 4761,
+    "line_end": 4761
   },
   {
     "clause_id": "muc-8-2-3-4",
@@ -3488,8 +3488,8 @@
     "title": "8.2.3.4  Xác định độ cong cấu kiện bê tông cốt thép theo mô hình biến dạng phi tuyến",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4733,
-    "line_end": 4733
+    "line_start": 4769,
+    "line_end": 4769
   },
   {
     "clause_id": "muc-9",
@@ -3497,8 +3497,8 @@
     "title": "9  KẾT CẤU BÊ TÔNG CỐT THÉP ỨNG SUẤT TRƯỚC",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4761,
-    "line_end": 4761
+    "line_start": 4797,
+    "line_end": 4797
   },
   {
     "clause_id": "muc-9-1",
@@ -3506,8 +3506,8 @@
     "title": "9.1  Ứng suất trước của cốt thép",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4765,
-    "line_end": 4765
+    "line_start": 4801,
+    "line_end": 4801
   },
   {
     "clause_id": "muc-9-1-1",
@@ -3515,8 +3515,8 @@
     "title": "9.1.1  Ứng suất trước của cốt thép $\\sigma_{sp}$ lấy không lớn hơn 0,9$ R_{s,n}$ đối với cốt thép cán nóng và cốt thép gia công nhiệt và không lớn hơn 0,8$ R_{s,n}$ đối với cốt thép kéo (cán) nguội và cáp.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4769,
-    "line_end": 4769
+    "line_start": 4805,
+    "line_end": 4805
   },
   {
     "clause_id": "muc-9-1-2",
@@ -3524,8 +3524,8 @@
     "title": "9.1.2  Khi tính toán kết cấu ứng suất trước, cần kể đến sự suy giảm ứng suất trong cốt thép do hao tổn ứng suất trước trước khi truyền lực căng cho bê tông (các hao tổn thứ nhất) và sau khi truyền lực căng cho bê tông (các hao tổn thứ hai).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4773,
-    "line_end": 4773
+    "line_start": 4809,
+    "line_end": 4809
   },
   {
     "clause_id": "muc-9-1-3",
@@ -3533,8 +3533,8 @@
     "title": "9.1.3  Hao tổn do chùng ứng suất của cốt thép $\\Delta\\sigma_{sp1}$ được xác định theo các công thức sau:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4789,
-    "line_end": 4789
+    "line_start": 4825,
+    "line_end": 4825
   },
   {
     "clause_id": "muc-9-1-4",
@@ -3542,8 +3542,8 @@
     "title": "9.1.4  Hao tổn $\\Delta\\sigma_{sp2}$ do chênh lệch nhiệt độ được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4829,
-    "line_end": 4829
+    "line_start": 4865,
+    "line_end": 4865
   },
   {
     "clause_id": "muc-9-1-5",
@@ -3551,8 +3551,8 @@
     "title": "9.1.5  Hao tổn $\\Delta\\sigma_{sp3}$ do biến dạng khuôn thép (bệ căng) khi căng cốt thép không đồng thời trên khuôn được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4847,
-    "line_end": 4847
+    "line_start": 4883,
+    "line_end": 4883
   },
   {
     "clause_id": "muc-9-1-6",
@@ -3560,8 +3560,8 @@
     "title": "9.1.6  Hao tổn $\\Delta\\sigma_{sp4}$ do biến dạng neo của thiết bị căng được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4867,
-    "line_end": 4867
+    "line_start": 4903,
+    "line_end": 4903
   },
   {
     "clause_id": "muc-9-1-7",
@@ -3569,8 +3569,8 @@
     "title": "9.1.7  Khi căng cốt thép trên bê tông thì hao tổn $\\Delta\\sigma_{sp4}$ do biến dạng neo của thiết bị căng được xác định theo công thức (213), trong đó lấy ΔL = 2 mm, còn hao tổn $\\Delta\\sigma_{sp7}$ do ma sát với thành của rãnh (hoặc ống lồng) hoặc với bề mặt kết cấu được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4885,
-    "line_end": 4885
+    "line_start": 4921,
+    "line_end": 4921
   },
   {
     "clause_id": "bang-bang-18",
@@ -3578,8 +3578,8 @@
     "title": "Bảng 18 - Các hệ số để xác định hao tổn do ma sát cốt thép",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4905,
-    "line_end": 4905
+    "line_start": 4941,
+    "line_end": 4941
   },
   {
     "clause_id": "muc-9-1-8",
@@ -3587,8 +3587,8 @@
     "title": "9.1.8  Hao tổn $\\Delta\\sigma_{sp5}$ do co ngót của bê tông khi căng cốt thép trên bệ được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4919,
-    "line_end": 4919
+    "line_start": 4955,
+    "line_end": 4955
   },
   {
     "clause_id": "muc-9-1-9",
@@ -3596,8 +3596,8 @@
     "title": "9.1.9  Hao tổn $\\Delta\\sigma_{sp6}$ do từ biến của bê tông được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4943,
-    "line_end": 4943
+    "line_start": 4979,
+    "line_end": 4979
   },
   {
     "clause_id": "muc-9-1-10",
@@ -3605,8 +3605,8 @@
     "title": "9.1.10  Tổng các hao tổn thứ nhất của ứng suất trước trong cốt thép (theo 9.1.3 đến 9.1.6) được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 4971,
-    "line_end": 4971
+    "line_start": 5007,
+    "line_end": 5007
   },
   {
     "clause_id": "muc-9-1-11",
@@ -3614,8 +3614,8 @@
     "title": "9.1.11  Ứng suất trước trong bè tông $\\sigma_{bp}$, khi truyền lực nén trước $ P_{(1)}$, được xác định có kể đến các hao tổn thứ nhất, không được vượt quá:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5013,
-    "line_end": 5013
+    "line_start": 5049,
+    "line_end": 5049
   },
   {
     "clause_id": "muc-9-1-12",
@@ -3623,8 +3623,8 @@
     "title": "9.1.12  Chiều dài vùng truyền ứng suất trước vào bê tông được xác định như sau:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5037,
-    "line_end": 5037
+    "line_start": 5073,
+    "line_end": 5073
   },
   {
     "clause_id": "muc-9-2",
@@ -3632,8 +3632,8 @@
     "title": "9.2  Tính toán cấu kiện bê tông cốt thép ứng suất trước theo các trạng thái giới hạn thứ nhất",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5061,
-    "line_end": 5061
+    "line_start": 5097,
+    "line_end": 5097
   },
   {
     "clause_id": "muc-9-2-1",
@@ -3641,8 +3641,8 @@
     "title": "9.2.1  Yêu cầu chung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5065,
-    "line_end": 5065
+    "line_start": 5101,
+    "line_end": 5101
   },
   {
     "clause_id": "muc-9-2-1-1",
@@ -3650,8 +3650,8 @@
     "title": "9.2.1.1  Tính toán cấu kiện ứng suất trước được tiến hành đối với giai đoạn sử dụng chịu tác dụng của mô men uốn và lực cắt do ngoại lực và đối với giai đoạn nén trước chịu tác dụng của nội lực do căng trước cốt thép và nội lực do ngoại lực tác dụng trong giai đoạn nén trước.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5069,
-    "line_end": 5069
+    "line_start": 5105,
+    "line_end": 5105
   },
   {
     "clause_id": "muc-9-2-1-2",
@@ -3659,8 +3659,8 @@
     "title": "9.2.1.2  Tính toán độ bền các cấu kiện ứng suất trước khi có tác dụng của mô men uốn được tiến hành đối với các tiết diện thẳng góc với trục dọc cấu kiện.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5073,
-    "line_end": 5073
+    "line_start": 5109,
+    "line_end": 5109
   },
   {
     "clause_id": "muc-9-2-1-3",
@@ -3668,8 +3668,8 @@
     "title": "9.2.1.3  Đối với các cấu kiện bê tông cốt thép, mà trong đó nội lực giới hạn về độ bền nhỏ hơn nội lực giới hạn về hình thành vết nứt, thì diện tích cốt thép dọc chịu kéo cần phải lấy tăng thêm không ít hơn 15 % so với diện tích cốt thép yêu cầu từ tính toán độ bền hoặc lấy bằng diện tích từ tính toán độ bền chịu mô men hình thành vết nứt.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5079,
-    "line_end": 5079
+    "line_start": 5115,
+    "line_end": 5115
   },
   {
     "clause_id": "muc-9-2-1-4",
@@ -3677,8 +3677,8 @@
     "title": "9.2.1.4  Tính toán các cấu kiện ứng suất trước trong giai đoạn nén trước được tiến hành như đối với trường hợp chịu nén lệch tâm với lực nén trước ở trạng thái giới hạn theo 9.2.3.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5083,
-    "line_end": 5083
+    "line_start": 5119,
+    "line_end": 5119
   },
   {
     "clause_id": "muc-9-2-1-5",
@@ -3686,8 +3686,8 @@
     "title": "9.2.1.5  Tính toán các cấu kiện ứng suất trước theo độ bền chịu tác dụng của lực cắt (tính toán theo tiết diện nghiêng) và tải trọng cục bộ (tính toán nén cục bộ và chọc thủng) cần được tiến hành theo các chỉ dẫn trong 8.1.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5087,
-    "line_end": 5087
+    "line_start": 5123,
+    "line_end": 5123
   },
   {
     "clause_id": "muc-9-2-1-6",
@@ -3695,8 +3695,8 @@
     "title": "9.2.1.6  Khi tính toán cấu kiện ứng suất trước theo độ bền thì cần kể đến sai lệch có thể có của ứng suất trước đã được xác định theo 9.1.9 bằng cách nhân giá trị $\\sigma_{bpj}$ (hoặc lực nén trước $ P_{j}$) đối với thanh thép thứ j đang xét hoặc nhóm các thanh thép ứng suất trước với hệ số $\\gamma_{sp}$.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5091,
-    "line_end": 5091
+    "line_start": 5127,
+    "line_end": 5127
   },
   {
     "clause_id": "muc-9-2-2",
@@ -3704,8 +3704,8 @@
     "title": "9.2.2  Tính toán cấu kiện bê tông cốt thép ứng suất trước chịu mô men uốn trong giai đoạn sử dụng theo nội lực giới hạn",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5101,
-    "line_end": 5101
+    "line_start": 5137,
+    "line_end": 5137
   },
   {
     "clause_id": "muc-9-2-2-1",
@@ -3713,8 +3713,8 @@
     "title": "9.2.2.1  Tính toán độ bền các tiết diện thẳng góc cần được tiến hành theo các chỉ dẫn trong 8.1 có kể đến các chỉ dẫn bổ sung trong 9.2.2.2 đến 9.2.2.3. Khi đó, trong các công thức của 8.1, các ký hiệu $A_{s}$ và $ A_s'$ dùng cho cả cốt thép ứng suất trước và không ứng suất trước.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5105,
-    "line_end": 5105
+    "line_start": 5141,
+    "line_end": 5141
   },
   {
     "clause_id": "muc-9-2-2-2",
@@ -3722,8 +3722,8 @@
     "title": "9.2.2.2  Giá trị $\\xi_{R}$ lấy theo công thức (31), trong đó giá trị biến dạng tương đối của cốt thép vùng chịu kéo $\\epsilon_{s,el}$ được xác định theo các công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5111,
-    "line_end": 5111
+    "line_start": 5147,
+    "line_end": 5147
   },
   {
     "clause_id": "muc-9-2-3",
@@ -3731,8 +3731,8 @@
     "title": "9.2.3  Tính toán cấu kiện ứng suất trước trong giai đoạn nén trước theo nội lực giới hạn",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5141,
-    "line_end": 5141
+    "line_start": 5177,
+    "line_end": 5177
   },
   {
     "clause_id": "muc-9-2-3-1",
@@ -3740,8 +3740,8 @@
     "title": "9.2.3.1  Khi tính toán cấu kiện ứng suất trước trong giai đoạn nén trước thì nội lực trong cốt thép ứng suất trước được đưa vào tính toán như là ngoại lực dọc tác dụng và được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5145,
-    "line_end": 5145
+    "line_start": 5181,
+    "line_end": 5181
   },
   {
     "clause_id": "muc-9-2-3-2",
@@ -3749,8 +3749,8 @@
     "title": "9.2.3.2  Tính toán độ bền cấu kiện ứng suất trước tiết diện chữ nhật trong giai đoạn nén trước được tiến hành theo điều kiện:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5159,
-    "line_end": 5159
+    "line_start": 5195,
+    "line_end": 5195
   },
   {
     "clause_id": "hinh-25",
@@ -3758,8 +3758,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5197,
-    "line_end": 5197
+    "line_start": 5233,
+    "line_end": 5233
   },
   {
     "clause_id": "muc-9-2-3-3",
@@ -3767,8 +3767,8 @@
     "title": "9.2.3.3  Tính toán độ bền cấu kiện có tiết diện chữ T và chữ I trong giai đoạn nén trước được tiến hành phụ thuộc vào vị trí biên vùng chịu nén:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5208,
-    "line_end": 5208
+    "line_start": 5244,
+    "line_end": 5244
   },
   {
     "clause_id": "muc-9-2-4",
@@ -3776,8 +3776,8 @@
     "title": "9.2.4  Tính toán độ bền tiết diện thẳng góc theo mô hình biến dạng phi tuyến",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5248,
-    "line_end": 5248
+    "line_start": 5284,
+    "line_end": 5284
   },
   {
     "clause_id": "muc-9-2-4-1",
@@ -3785,8 +3785,8 @@
     "title": "9.2.4.1  Khi tính toán độ bền theo mô hình biến dạng phi tuyến thì nội lực và biến dạng trong tiết diện thẳng góc với trục dọc cấu kiện được xác định dựa trên các quy định chung nêu trong 8.1.2.7.1 đến 8.1.2.7.3.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5252,
-    "line_end": 5252
+    "line_start": 5288,
+    "line_end": 5288
   },
   {
     "clause_id": "muc-9-2-4-2",
@@ -3794,8 +3794,8 @@
     "title": "9.2.4.2  Khi tính toán độ bền tiết diện thẳng góc (Hình 26) trong trường hợp tổng quát thì sử dụng:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5256,
-    "line_end": 5256
+    "line_start": 5292,
+    "line_end": 5292
   },
   {
     "clause_id": "hinh-26",
@@ -3803,8 +3803,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5300,
-    "line_end": 5300
+    "line_start": 5336,
+    "line_end": 5336
   },
   {
     "clause_id": "muc-9-2-4-3",
@@ -3812,8 +3812,8 @@
     "title": "9.2.4.3  Tính toán độ bền tiết diện thẳng góc của các cấu kiện bê tông cốt thép được tiến hành theo các điều kiện nêu trong 8.1.2.7.5.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5331,
-    "line_end": 5331
+    "line_start": 5367,
+    "line_end": 5367
   },
   {
     "clause_id": "muc-9-3",
@@ -3821,8 +3821,8 @@
     "title": "9.3  Tính toán cấu kiện ứng suất trước của các kết cấu bê tông cốt thép theo các trạng thái giới hạn thứ hai",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5335,
-    "line_end": 5335
+    "line_start": 5371,
+    "line_end": 5371
   },
   {
     "clause_id": "muc-9-3-1",
@@ -3830,8 +3830,8 @@
     "title": "9.3.1  Yêu cầu chung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5339,
-    "line_end": 5339
+    "line_start": 5375,
+    "line_end": 5375
   },
   {
     "clause_id": "muc-9-3-1-1",
@@ -3839,8 +3839,8 @@
     "title": "9.3.1.1  Tính toán theo các trạng thái giới hạn thứ hai bao gồm:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5343,
-    "line_end": 5343
+    "line_start": 5379,
+    "line_end": 5379
   },
   {
     "clause_id": "muc-9-3-1-2",
@@ -3848,8 +3848,8 @@
     "title": "9.3.1.2  Tính toán theo sự hình thành vết nứt được tiến hành khi phải đảm bảo các vết nứt không được hình thành, cũng như được coi là phép tính bổ sung khi tính toán chiều rộng vết nứt và tính toán biến dạng.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5353,
-    "line_end": 5353
+    "line_start": 5389,
+    "line_end": 5389
   },
   {
     "clause_id": "muc-9-3-1-3",
@@ -3857,8 +3857,8 @@
     "title": "9.3.1.3  Khi tính toán theo sự hình thành vết nứt với mục đích không cho vết nứt xuất hiện thì lấy hệ số độ tin cậy về tải trọng $\\gamma_{f}$ >1,0 (như khi tính toán độ bền). Khi tính toán mở rộng vết nứt và tính toán biến dạng (bao gồm cả tính toán bổ sung về hình thành vết nứt) thì lấy hệ số độ tin cậy về tải trọng $\\gamma_{f}$ = 1,0.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5365,
-    "line_end": 5365
+    "line_start": 5401,
+    "line_end": 5401
   },
   {
     "clause_id": "muc-9-3-1-4",
@@ -3866,8 +3866,8 @@
     "title": "9.3.1.4  Tính toán cấu kiện ứng suất trước chịu uốn theo các trạng thái giới hạn thứ hai được tiến hành như đối với cấu kiện chịu nén lệch tâm dưới tác dụng đồng thời của mô men uốn do ngoại lực M và lực dọc $N_{p}$ (bằng lực nén trước P).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5369,
-    "line_end": 5369
+    "line_start": 5405,
+    "line_end": 5405
   },
   {
     "clause_id": "muc-9-3-2",
@@ -3875,8 +3875,8 @@
     "title": "9.3.2  Tính toán cấu kiện bê tông cốt thép ứng suất trước theo sự hình thành và mở rộng vết nứt",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5373,
-    "line_end": 5373
+    "line_start": 5409,
+    "line_end": 5409
   },
   {
     "clause_id": "muc-9-3-2-1",
@@ -3884,8 +3884,8 @@
     "title": "9.3.2.1  Yêu cầu chung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5377,
-    "line_end": 5377
+    "line_start": 5413,
+    "line_end": 5413
   },
   {
     "clause_id": "muc-9-3-2-2",
@@ -3893,8 +3893,8 @@
     "title": "9.3.2.2  Xác định mô men hình thành vết nứt thẳng góc với trục dọc cấu kiện",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5383,
-    "line_end": 5383
+    "line_start": 5419,
+    "line_end": 5419
   },
   {
     "clause_id": "muc-9-3-2-2-1",
@@ -3902,8 +3902,8 @@
     "title": "9.3.2.2.1  Mô men uốn hình thành vết nứt $M_{crc}$ trong trường hợp tổng quát được xác định theo mô hình biến dạng phi tuyến theo 9.3.2.2.5. Đối với các tiết diện đơn giản (chữ nhật và chữ T với cốt thép nằm ở biên trên và biên dưới tiết diện, có cánh nằm trong vùng chịu nén) thì cho phép xác định mô men hình thành vết nứt theo 9 3.2.2.2.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5387,
-    "line_end": 5387
+    "line_start": 5423,
+    "line_end": 5423
   },
   {
     "clause_id": "muc-9-3-2-2-2",
@@ -3911,8 +3911,8 @@
     "title": "9.3.2.2.2  Xác định mô men hình thành vết nứt được tiến hành có kể đến các biến dạng không đàn hồi của bê tông chịu kéo theo 9.3.2.2.3.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5391,
-    "line_end": 5391
+    "line_start": 5427,
+    "line_end": 5427
   },
   {
     "clause_id": "muc-9-3-2-2-3",
@@ -3920,8 +3920,8 @@
     "title": "9.3.2.2.3  Mô men hình thành vết nứt của các cấu kiện ứng suất trước chịu uốn có kể đến các biến dạng không đàn hồi của bê tông chịu kéo được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5397,
-    "line_end": 5397
+    "line_start": 5433,
+    "line_end": 5433
   },
   {
     "clause_id": "formula-244",
@@ -3929,8 +3929,8 @@
     "title": "$$r = \\frac{W_{red}}{A_{red}} \\tag{244}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5415,
-    "line_end": 5415
+    "line_start": 5451,
+    "line_end": 5451
   },
   {
     "clause_id": "muc-9-3-2-2-4",
@@ -3938,8 +3938,8 @@
     "title": "9.3.2.2.4  Nội lực $N_{crc}$ khi hình thành vết nứt trong các cấu kiện chịu kéo đúng tâm được xác định theo công thức (165).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5426,
-    "line_end": 5426
+    "line_start": 5462,
+    "line_end": 5462
   },
   {
     "clause_id": "muc-9-3-2-2-5",
@@ -3947,8 +3947,8 @@
     "title": "9.3.2.2.5  Xác định mô men hình thành vết nứt theo mô hình biến dạng phi tuyến được tiến hành dựa trên các quy định chung nêu trong 6.1.4.6, 9.2.4.1 đến 9.2.4.3, nhưng có kể đến sự làm việc của bê tông trong vùng chịu kéo của tiết diện thẳng góc, mà sự làm việc này được xác định bởi biểu đồ biến dạng của bê tông chịu kéo theo 6.1.4.4. Các đặc trưng tính toán của vật liệu được lấy đối với các trạng thái giới hạn thứ hai.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5430,
-    "line_end": 5430
+    "line_start": 5466,
+    "line_end": 5466
   },
   {
     "clause_id": "muc-9-3-2-3",
@@ -3956,8 +3956,8 @@
     "title": "9.3.2.3  Tính toán chiều rộng vết nứt thẳng góc với trục dọc cấu kiện",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5436,
-    "line_end": 5436
+    "line_start": 5472,
+    "line_end": 5472
   },
   {
     "clause_id": "formula-246",
@@ -3965,8 +3965,8 @@
     "title": "$$M_{p} = M \\pm N_{p}e_{0p} \\tag{246}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5454,
-    "line_end": 5454
+    "line_start": 5490,
+    "line_end": 5490
   },
   {
     "clause_id": "formula-248",
@@ -3974,8 +3974,8 @@
     "title": "$$z = h_0 - \\frac{x_N}{3} \\tag{248}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5477,
-    "line_end": 5477
+    "line_start": 5513,
+    "line_end": 5513
   },
   {
     "clause_id": "muc-9-3-3",
@@ -3983,8 +3983,8 @@
     "title": "9.3.3  Tính toán cấu kiện bê tông cốt thép ứng suất trước theo biến dạng",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5488,
-    "line_end": 5488
+    "line_start": 5524,
+    "line_end": 5524
   },
   {
     "clause_id": "muc-9-3-3-1",
@@ -3992,8 +3992,8 @@
     "title": "9.3.3.1  Tính toán cấu kiện ứng suất trước theo biến dạng được tiến hành theo các chỉ dẫn trong 8.2.3 và có kể đến các chỉ dẫn bổ sung trong 9.3.3.2 đến 9.3.3.4.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5492,
-    "line_end": 5492
+    "line_start": 5528,
+    "line_end": 5528
   },
   {
     "clause_id": "muc-9-3-3-2",
@@ -4001,8 +4001,8 @@
     "title": "9.3.3.2  Độ cong toàn phần của các cấu kiện ứng suất trước chịu uốn để tính độ võng của chúng được xác định theo các chỉ dẫn trong 8.2.3.3.2, khi đó các giá trị độ cong (1/r)$_{1}$, (1/r)$_{2}$ và (1/r)$_{3}$ trong các công thức (185), (186) được xác định theo các chỉ dẫn trong 9.3.3.3 có kể đến lực nén trước.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5496,
-    "line_end": 5496
+    "line_start": 5532,
+    "line_end": 5532
   },
   {
     "clause_id": "muc-9-3-3-3",
@@ -4010,8 +4010,8 @@
     "title": "9.3.3.3  Độ cong của cấu kiện ứng suất trước chịu uốn 1/r do tác dụng của các tải trọng tương ứng được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5502,
-    "line_end": 5502
+    "line_start": 5538,
+    "line_end": 5538
   },
   {
     "clause_id": "formula-249",
@@ -4019,8 +4019,8 @@
     "title": "$$\\frac{1}{r} = \\frac{M \\pm N_p e_{0p}}{D} \\tag{249}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5506,
-    "line_end": 5506
+    "line_start": 5542,
+    "line_end": 5542
   },
   {
     "clause_id": "hinh-27",
@@ -4028,8 +4028,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5519,
-    "line_end": 5519
+    "line_start": 5558,
+    "line_end": 5558
   },
   {
     "clause_id": "muc-9-3-3-4",
@@ -4037,8 +4037,8 @@
     "title": "9.3.3.4  Cho phép xác định độ cong của cấu kiện ứng suất trước chịu uốn theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5534,
-    "line_end": 5534
+    "line_start": 5573,
+    "line_end": 5573
   },
   {
     "clause_id": "muc-9-3-4",
@@ -4046,8 +4046,8 @@
     "title": "9.3.4  Xác định độ cong của cấu kiện ứng suất trước theo mô hình biến dạng phi tuyến",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5554,
-    "line_end": 5554
+    "line_start": 5593,
+    "line_end": 5593
   },
   {
     "clause_id": "muc-10-1",
@@ -4055,8 +4055,8 @@
     "title": "10.1  Yêu cầu chung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5592,
-    "line_end": 5592
+    "line_start": 5631,
+    "line_end": 5631
   },
   {
     "clause_id": "muc-10-2",
@@ -4064,8 +4064,8 @@
     "title": "10.2  Yêu cầu về kích thước hình học",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5606,
-    "line_end": 5606
+    "line_start": 5645,
+    "line_end": 5645
   },
   {
     "clause_id": "muc-10-2-1",
@@ -4073,8 +4073,8 @@
     "title": "10.2.1  Các kích thước hình học của kết cấu bê tông và bê tông cốt thép không được nhỏ hơn các giá trị mà đảm bảo được:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5610,
-    "line_end": 5610
+    "line_start": 5649,
+    "line_end": 5649
   },
   {
     "clause_id": "muc-10-2-2",
@@ -4082,8 +4082,8 @@
     "title": "10.2.2  Để đảm bảo độ cứng của các cấu kiện chịu nén lệch tâm thì kích thước tiết diện của chúng nên lấy sao cho độ mảnh $L_{0}$/i của các cấu kiện này theo phương bất kỳ không vượt quá:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5620,
-    "line_end": 5620
+    "line_start": 5659,
+    "line_end": 5659
   },
   {
     "clause_id": "muc-10-2-3",
@@ -4091,8 +4091,8 @@
     "title": "10.2.3  Trong các kết cấu của nhà và công trình, cần bố trí các khe co giãn - nhiệt cố định và tạm thời với khoảng cách giữa chúng được lựa chọn phụ thuộc vào điều kiện khí hậu, đặc điểm kết cấu của công trình, trình tự thi công và các điều kiện tương tự.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5630,
-    "line_end": 5630
+    "line_start": 5669,
+    "line_end": 5669
   },
   {
     "clause_id": "muc-10-3",
@@ -4100,8 +4100,8 @@
     "title": "10.3  Yêu cầu về bố trí cốt thép",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5636,
-    "line_end": 5636
+    "line_start": 5675,
+    "line_end": 5675
   },
   {
     "clause_id": "muc-10-3-1",
@@ -4109,8 +4109,8 @@
     "title": "10.3.1  Lớp bê tông bảo vệ",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5640,
-    "line_end": 5640
+    "line_start": 5679,
+    "line_end": 5679
   },
   {
     "clause_id": "muc-10-3-1-1",
@@ -4118,8 +4118,8 @@
     "title": "10.3.1.1  Lớp bê tông bảo vệ cần phải đảm bảo được:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5644,
-    "line_end": 5644
+    "line_start": 5683,
+    "line_end": 5683
   },
   {
     "clause_id": "muc-10-3-1-2",
@@ -4127,8 +4127,8 @@
     "title": "10.3.1.2  Chiều dày lớp bê tông bảo vệ được xác định dựa theo các yêu cầu trong điều này có kể đến vai trò của cốt thép trong kết cấu (là cốt thép dọc chịu lực hoặc cốt thép cấu tạo), loại kết cấu (cột, bản sàn, dầm, các cấu kiện của móng, tường và các kết cấu tương tự), đường kính và loại cốt thép, cũng như TCVN 12251:2018.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5656,
-    "line_end": 5656
+    "line_start": 5695,
+    "line_end": 5695
   },
   {
     "clause_id": "bang-bang-19",
@@ -4136,8 +4136,8 @@
     "title": "Bảng 19 - Chiều dày tối thiểu của lớp bê tông bảo vệ",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5662,
-    "line_end": 5662
+    "line_start": 5701,
+    "line_end": 5701
   },
   {
     "clause_id": "muc-10-3-1-3",
@@ -4145,8 +4145,8 @@
     "title": "10.3.1.3  Chiều dày lớp bê tông bảo vệ ở phần đầu các cấu kiện ứng suất trước trên khoảng chiều dài vùng truyền ứng suất (xem 9.1.12) cần lấy không nhỏ hơn 3d và không nhỏ hơn 40 mm đối với cốt thép thanh và không nhỏ hơn 20 mm đối với cáp.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5683,
-    "line_end": 5683
+    "line_start": 5722,
+    "line_end": 5722
   },
   {
     "clause_id": "muc-10-3-1-4",
@@ -4154,8 +4154,8 @@
     "title": "10.3.1.4  Trong các cấu kiện có cốt thép dọc ứng suất trước căng trên bê tông và nằm trong các ống lồng thì khoảng cách từ bề mặt cấu kiện đến bề mặt ống lồng cần lấy không nhỏ hơn 40 mm và không nhỏ hơn chiều rộng (đường kính) ống lồng, còn đến mặt bên - không nhỏ hơn một nửa chiều cao (đường kính) ống lồng. Khi cốt thép ứng suất trước nằm trong các rãnh hoặc nằm ngoài tiết diện cấu kiện thì chiều dày lớp bê tông bảo vệ được tạo bởi phương pháp phun sau đó hoặc phương pháp khác được lấy không nhỏ hơn 20 mm.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5689,
-    "line_end": 5689
+    "line_start": 5728,
+    "line_end": 5728
   },
   {
     "clause_id": "muc-10-3-2",
@@ -4163,8 +4163,8 @@
     "title": "10.3.2  Khoảng cách thông thủy tối thiểu giữa các thanh cốt thép",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5693,
-    "line_end": 5693
+    "line_start": 5732,
+    "line_end": 5732
   },
   {
     "clause_id": "muc-25",
@@ -4172,8 +4172,8 @@
     "title": "25  MM - ĐỐI VỚI CÁC THANH CỐT THÉP DƯỚI ĐƯỢC BỐ TRÍ THÀNH MỘT HOẶC HAI LỚP VÀ NẰM NGANG HOẶC NGHIÊNG TRONG LÚC ĐỔ BÊ TÔNG;",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5699,
-    "line_end": 5699
+    "line_start": 5738,
+    "line_end": 5738
   },
   {
     "clause_id": "muc-30",
@@ -4181,8 +4181,8 @@
     "title": "30  MM - ĐỐI VỚI CÁC THANH CỐT THÉP TRÊN ĐƯỢC BỐ TRÍ THÀNH MỘT HOẶC HAI LỚP VÀ NẰM NGANG HOẶC NGHIÊNG TRONG LÚC ĐỔ BÊ TÔNG;",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5703,
-    "line_end": 5703
+    "line_start": 5742,
+    "line_end": 5742
   },
   {
     "clause_id": "muc-10-3-3",
@@ -4190,8 +4190,8 @@
     "title": "10.3.3  Bố trí cốt thép dọc",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5721,
-    "line_end": 5721
+    "line_start": 5760,
+    "line_end": 5760
   },
   {
     "clause_id": "muc-10-3-3-1",
@@ -4199,8 +4199,8 @@
     "title": "10.3.3.1  Trong các cấu kiện bê tông cốt thép, diện tích tiết diện của cốt thép dọc chịu kéo, cũng như chịu nén nếu cần theo tính toán, tính theo phần trăm diện tích tiết diện bê tông (bằng tích của chiều rộng tiết diện chữ nhật hoặc chiều rộng sườn của tiết diện chữ T hoặc chữ I và chiều cao làm việc của tiết diện), µ$\\varepsilon_{s}$ = ($ A_{s}$/$ bh_{0}$) $^{.}$ 100%, cần lấy không nhỏ hơn:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5725,
-    "line_end": 5725
+    "line_start": 5764,
+    "line_end": 5764
   },
   {
     "clause_id": "muc-10-3-3-2",
@@ -4208,8 +4208,8 @@
     "title": "10.3.3.2  Trong các kết cấu bê tông cần bố trí cốt thép cấu tạo:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5737,
-    "line_end": 5737
+    "line_start": 5776,
+    "line_end": 5776
   },
   {
     "clause_id": "muc-10-3-3-3",
@@ -4217,8 +4217,8 @@
     "title": "10.3.3.3  Trong các kết cấu bê tông cốt thép dạng thanh và bản thì khoảng cách tối đa giữa trục các thanh cốt thép dọc để đảm bảo đưa chúng vào làm việc cùng với bê tông, đảm bảo cho ứng suất và biến dạng được phân bố đều, cũng như để hạn chế chiều rộng vết nứt giữa các thanh cốt thép, không được lớn hơn:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5747,
-    "line_end": 5747
+    "line_start": 5786,
+    "line_end": 5786
   },
   {
     "clause_id": "muc-10-3-3-4",
@@ -4226,8 +4226,8 @@
     "title": "10.3.3.4  Trong dầm và sườn có chiều rộng lớn hơn 150 mm, số lượng cốt thép dọc chịu lực kéo trong tiết diện ngang không được ít hơn 2 thanh. Khi chiều rộng tiết diện từ 150 mm trở xuống thì cho phép đặt 1 thanh cốt thép dọc chịu lực trong tiết diện ngang.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5765,
-    "line_end": 5765
+    "line_start": 5804,
+    "line_end": 5804
   },
   {
     "clause_id": "muc-10-3-3-5",
@@ -4235,8 +4235,8 @@
     "title": "10.3.3.5  Trong dầm cần kéo vào gối tựa các thanh cốt thép dọc chịu lực với diện tích tiết diện không nhỏ hơn 1/2 diện tích tiết diện các thanh trong nhịp và không ít hơn 2 thanh.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5769,
-    "line_end": 5769
+    "line_start": 5808,
+    "line_end": 5808
   },
   {
     "clause_id": "muc-10-3-4",
@@ -4244,8 +4244,8 @@
     "title": "10.3.4  Bố trí cốt thép ngang",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5775,
-    "line_end": 5775
+    "line_start": 5814,
+    "line_end": 5814
   },
   {
     "clause_id": "muc-10-3-4-1",
@@ -4253,8 +4253,8 @@
     "title": "10.3.4.1  Cốt thép ngang cần được đặt theo tính toán để chịu nội lực, cũng như để hạn chế vết nứt phát triển, để giữ các thanh thép dọc ở vị trí thiết kế và giữ chúng không bị phình theo bất kỳ phương nào.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5779,
-    "line_end": 5779
+    "line_start": 5818,
+    "line_end": 5818
   },
   {
     "clause_id": "muc-10-3-4-2",
@@ -4262,8 +4262,8 @@
     "title": "10.3.4.2  Đường kính cốt thép ngang (cốt thép đai) trong các khung cốt thép buộc của các cấu kiện chịu nén lệch tâm lấy không nhỏ hơn 0,25 lần đường kính cốt thép dọc lớn nhất và không nhỏ hơn 6 mm (8 mm khi sử dụng bê tông từ B70 đến B100).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5785,
-    "line_end": 5785
+    "line_start": 5824,
+    "line_end": 5824
   },
   {
     "clause_id": "muc-10-3-4-3",
@@ -4271,8 +4271,8 @@
     "title": "10.3.4.3  Trong các cấu kiện bê tông cốt thép mà lực cắt tính toán không thể chỉ do mỗi bê tông chịu thì cần đặt cốt thép ngang với bước không lớn hơn 0,5$h_{0}$ và không lớn hơn 300 mm (250 mm khi sử dụng bê tông từ B70 đến B100).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5793,
-    "line_end": 5793
+    "line_start": 5832,
+    "line_end": 5832
   },
   {
     "clause_id": "muc-10-3-4-4",
@@ -4280,8 +4280,8 @@
     "title": "10.3.4.4  Trong các cấu kiện chịu nén lệch tâm dạng thanh, cũng như trong các cấu kiện chịu uốn khi cần đặt cốt thép dọc chịu nén theo tính toán, thì để ngăn ngừa cốt thép dọc này bị phình cần phải đặt cốt thép ngang với bước không lớn hơn 15d và không lớn hơn 500 mm (400 mm khi sử dụng bê tông từ B70 đến B100) (d là đường kính cốt thép dọc chịu nén).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5801,
-    "line_end": 5801
+    "line_start": 5840,
+    "line_end": 5840
   },
   {
     "clause_id": "muc-10-3-4-5",
@@ -4289,8 +4289,8 @@
     "title": "10.3.4.5  Cấu tạo cốt thép đai (các thanh cốt thép ngang) trong các cấu kiện chịu nén lệch tâm dạng thanh phải sao cho các thanh cốt thép dọc (ít nhất là cách một thanh) nằm tại các vị trí uốn của cốt thép đai, còn các vị trí uốn này nằm ở khoảng cách không lớn hơn 400 mm theo chiều rộng mặt bên. Khi chiều rộng mặt bên không lớn hơn 400 mm và số lượng các thanh cốt thép dọc ở mặt bên này không lớn hơn 4 thì cho phép dùng một cốt thép đai ôm tất cả các thanh cốt thép dọc.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5807,
-    "line_end": 5807
+    "line_start": 5846,
+    "line_end": 5846
   },
   {
     "clause_id": "muc-10-3-4-6",
@@ -4298,8 +4298,8 @@
     "title": "10.3.4.6  Trong các cấu kiện có mô men xoắn tác dụng thì cốt thép ngang (cốt thép đai) phải có dạng khép kín.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5811,
-    "line_end": 5811
+    "line_start": 5850,
+    "line_end": 5850
   },
   {
     "clause_id": "muc-10-3-4-7",
@@ -4307,8 +4307,8 @@
     "title": "10.3.4.7  Trong các bản tại vùng chọc thủng theo phương vuông góc với các cạnh của đường bao tính toán, cốt thép ngang cần được đặt với bước không lớn hơn $h_{0}$/3 và không lớn hơn 300 mm (250 mm khi sử dụng bê tông từ B70 đến B100). Các thanh cốt thép nằm gần đường bao của diện chịu tải cần được bố trí cách đường bao này một khoảng không nhỏ hơn $ h_{0}$/3 và không lớn hơn $ h_{0}$/2. Khi đó, chiều rộng của vùng cần đặt cốt thép ngang (tính từ đường bao của diện chịu tải) không được nhỏ hơn 1,5 $ h_{0}$. Cho phép tăng bước cốt thép ngang đến $ h_{0}$/2. Khi đó, cần xem xét vị trí bất lợi nhất của tháp chọc thủng và trong tính toán chỉ cần kể đến các thanh cốt thép cắt qua tháp chọc thủng.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5815,
-    "line_end": 5815
+    "line_start": 5854,
+    "line_end": 5854
   },
   {
     "clause_id": "muc-10-3-4-8",
@@ -4316,8 +4316,8 @@
     "title": "10.3.4.8  Khi nén (ép) cục bộ thì cốt thép ngang tính toán dạng lưới gia cường cần được bố trí trong phạm vi diện tích tính toán $A_{b,max}$ (xem 8.1.5.2). Khi diện chịu tải nằm gần biên cấu kiện thì các lưới này được bố trí trên một diện tích với kích thước các cạnh theo mỗi phương không nhỏ hơn tổng hai cạnh vuông góc với nhau của diện chịu tải (Hình 13).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5821,
-    "line_end": 5821
+    "line_start": 5860,
+    "line_end": 5860
   },
   {
     "clause_id": "muc-10-3-4-9",
@@ -4325,8 +4325,8 @@
     "title": "10.3.4.9  Cốt thép ngang đã được tính để chịu lực cắt và mô men xoắn phải có neo chắc chắn ở các đầu của nó bằng cách hàn hoặc ôm cốt thép dọc để đảm bảo được cường độ của mối nối tương đương với cường độ của cốt thép ngang.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5831,
-    "line_end": 5831
+    "line_start": 5870,
+    "line_end": 5870
   },
   {
     "clause_id": "muc-10-3-4-10",
@@ -4334,8 +4334,8 @@
     "title": "10.3.4.10  Ở các phần đầu của các cấu kiện ứng suất trước cần phải bố trí bổ sung cốt thép ngang hoặc cốt thép hạn chế biến dạng ngang (lưới thép hàn ôm tất cả các thành cốt thép dọc, cốt thép đai và tương tự với bước 50 mm đến 100 mm) trên một đoạn dài không nhỏ hơn 0,6 lần chiều dài vùng truyền ứng suất trước $L_{p}$, còn trong các cấu kiện làm từ bê tông nhẹ cấp cường độ chịu nén B7,5 đến B12,5 - với bước 50 mm trên một đoạn dài không nhỏ hơn $ L_{p}$ và không nhỏ hơn 200 mm đối với các cấu kiện với cốt thép không có neo, còn khi có các chi tiết neo - trên một đoạn bằng hai lần chiều dài các chi tiết neo này. Việc bố trí neo ở các đầu của cốt thép là bắt buộc đối với cốt thép ứng suất trước căng trên bê tông, cũng như đối với cốt thép ứng suất trước căng trên bệ khi không đủ bám dính với bê tông (dây thép trơn, cáp nhiều sợi), khi đó, các chi tiết neo cần phải đảm bảo ngàm được chắc chắn cốt thép trong bê tông trong tất cả giai đoạn làm việc của nó.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5835,
-    "line_end": 5835
+    "line_start": 5874,
+    "line_end": 5874
   },
   {
     "clause_id": "muc-10-3-5",
@@ -4343,8 +4343,8 @@
     "title": "10.3.5  Neo cốt thép",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5841,
-    "line_end": 5841
+    "line_start": 5880,
+    "line_end": 5880
   },
   {
     "clause_id": "muc-10-3-5-1",
@@ -4352,8 +4352,8 @@
     "title": "10.3.5.1  Neo cốt thép được thực hiện bằng một hoặc tổ hợp các biện pháp sau đây:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5845,
-    "line_end": 5845
+    "line_start": 5884,
+    "line_end": 5884
   },
   {
     "clause_id": "muc-10-3-5-2",
@@ -4361,8 +4361,8 @@
     "title": "10.3.5.2  Neo thẳng và neo chữ L chỉ được phép sử dụng đối với cốt thép có gân. Đối với các thanh trơn chịu kéo thì cần uốn móc, uốn chữ U, hoặc hàn với các thanh thép ngang hoặc phải có các chi tiết neo đặc biệt.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5859,
-    "line_end": 5859
+    "line_start": 5898,
+    "line_end": 5898
   },
   {
     "clause_id": "muc-10-3-5-3",
@@ -4370,8 +4370,8 @@
     "title": "10.3.5.3  Khi tính toán chiều dài neo cốt thép, cần kể đến biện pháp neo, loại cốt thép và hình dạng của nó, đường kính cốt thép, cường độ của bê tông và trạng thái ứng suất của nó trong vùng neo, giải pháp cấu tạo vùng neo của cấu kiện (có hay không có cốt thép ngang, vị trí các thanh thép trong tiết diện cấu kiện, v.v...).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5865,
-    "line_end": 5865
+    "line_start": 5904,
+    "line_end": 5904
   },
   {
     "clause_id": "muc-10-3-5-4",
@@ -4379,8 +4379,8 @@
     "title": "10.3.5.4  Chiều dài neo cơ sở cần để truyền lực trong cốt thép với toàn bộ giá trị tính toán của cường độ $R_{s}$ vào bê tông được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5869,
-    "line_end": 5869
+    "line_start": 5908,
+    "line_end": 5908
   },
   {
     "clause_id": "formula-255",
@@ -4388,8 +4388,8 @@
     "title": "$$L_{0,an} = \\frac{R_s A_s}{R_{bond} u_s} \\tag{255}$$",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5873,
-    "line_end": 5873
+    "line_start": 5912,
+    "line_end": 5912
   },
   {
     "clause_id": "muc-10-3-5-5",
@@ -4397,8 +4397,8 @@
     "title": "10.3.5.5  Chiều dài neo tính toán yêu cầu của cốt thép, có kể đến giải pháp cấu tạo vùng neo của cấu kiện, được xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5924,
-    "line_end": 5924
+    "line_start": 5963,
+    "line_end": 5963
   },
   {
     "clause_id": "muc-10-3-5-6",
@@ -4406,8 +4406,8 @@
     "title": "10.3.5.6  Lực chịu bởi thanh cốt thép được neo $N_{s}$ xác định theo công thức:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5948,
-    "line_end": 5948
+    "line_start": 5987,
+    "line_end": 5987
   },
   {
     "clause_id": "muc-10-3-5-7",
@@ -4415,8 +4415,8 @@
     "title": "10.3.5.7  Ở các gối tự do ngoài cùng của cấu kiện, chiều dài đoạn kéo vào gối của các thanh thép chịu kéo tính từ mép trong của gối tựa tự do khi thỏa mãn điều kiện Q ≤ $Q_{b,1}$ (xem 8.1.3.1, 8.1.3.2, 8.1.3.3.1, 8.1.3.3.2, 8.1.3.4) không được nhỏ hơn 5$ d_{s}$. Nếu điều kiện này không thỏa mãn thì chiều dài đoạn kéo vào gối này được xác định theo 10.3.5.5.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5962,
-    "line_end": 5962
+    "line_start": 6001,
+    "line_end": 6001
   },
   {
     "clause_id": "muc-10-3-5-8",
@@ -4424,8 +4424,8 @@
     "title": "10.3.5.8  Khi ở đầu các thanh thép có các chi tiết neo đặc biệt dạng tấm, bản đệm, đai ốc, thép góc, đầu phình và tương tự, thì diện tích tiếp xúc của neo với bê tông phải thỏa mãn điều kiện về cường độ chịu nén cục bộ của bê tông. Ngoài ra, khi thiết kế các chi tiết neo hàn thêm thì cần kể đến các đặc trưng của kim loại về tính hàn được, cũng như biện pháp và điều kiện hàn.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5966,
-    "line_end": 5966
+    "line_start": 6005,
+    "line_end": 6005
   },
   {
     "clause_id": "muc-10-3-6",
@@ -4433,8 +4433,8 @@
     "title": "10.3.6  Nối cốt thép không ứng suất trước",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5970,
-    "line_end": 5970
+    "line_start": 6009,
+    "line_end": 6009
   },
   {
     "clause_id": "muc-10-3-6-1",
@@ -4442,8 +4442,8 @@
     "title": "10.3.6.1  Để nối cốt thép không ứng suất trước cần sử dụng một trong các loại mối nối sau:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5974,
-    "line_end": 5974
+    "line_start": 6013,
+    "line_end": 6013
   },
   {
     "clause_id": "muc-10-3-6-2",
@@ -4451,8 +4451,8 @@
     "title": "10.3.6.2  Mối nối chồng (không hàn) cốt thép thanh được sử dụng khi nối các thanh thép đường kính không lớn hơn 40 mm. Các mối nối chồng cốt thép thanh cần tuân theo các chỉ dẫn trong 10.3.5.2.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 5992,
-    "line_end": 5992
+    "line_start": 6031,
+    "line_end": 6031
   },
   {
     "clause_id": "muc-10-3-6-3",
@@ -4460,8 +4460,8 @@
     "title": "10.3.6.3  Khi nối cốt thép bằng hàn thì việc lựa chọn loại liên kết hàn và biện pháp hàn được tiến hành có kể đến điều kiện làm việc của kết cấu, tính hàn được của thép và các yêu cầu về công nghệ chế tạo.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6028,
-    "line_end": 6028
+    "line_start": 6067,
+    "line_end": 6067
   },
   {
     "clause_id": "muc-10-3-6-4",
@@ -4469,8 +4469,8 @@
     "title": "10.3.6.4  Khi sử dụng các mối nối cơ khí (mối nối ren, mối nối ép dập, v.v...) để nối cốt thép thì các tính chất cơ học của các mối nối này cần phải phù hợp với các yêu cầu của TCVN 8163:2009, TCVN 9390:2012 và các tiêu chuẩn khác liên quan.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6032,
-    "line_end": 6032
+    "line_start": 6071,
+    "line_end": 6071
   },
   {
     "clause_id": "muc-10-3-7",
@@ -4478,8 +4478,8 @@
     "title": "10.3.7  Các thanh thép uốn",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6050,
-    "line_end": 6050
+    "line_start": 6089,
+    "line_end": 6089
   },
   {
     "clause_id": "muc-10-4",
@@ -4487,8 +4487,8 @@
     "title": "10.4  Cấu tạo các kết cấu bê tông cốt thép chịu lực chính",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6072,
-    "line_end": 6072
+    "line_start": 6111,
+    "line_end": 6111
   },
   {
     "clause_id": "muc-10-4-1",
@@ -4496,8 +4496,8 @@
     "title": "10.4.1  Khi cấu tạo cho các kết cấu chịu lực chính của hệ kết cấu (cột, tường, bản sàn tầng và sàn mái, dầm, bản móng) cần tuân theo các yêu cầu chung trong 10.2 và 10.3 về cấu tạo cho kết cấu bê tông cốt thép, cũng như tuân theo các chỉ dẫn trong điều này.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6076,
-    "line_end": 6076
+    "line_start": 6115,
+    "line_end": 6115
   },
   {
     "clause_id": "muc-10-4-2",
@@ -4505,8 +4505,8 @@
     "title": "10.4.2  Cột thường được bố trí cốt thép dọc đối xứng, nằm theo chu vi tiết diện ngang, và trong các trường hợp cần thiết, nằm trong tiết diện ngang, và được bố trí cốt thép ngang theo chiều cao cột và ôm tất cả các thanh thép dọc và nằm theo chu vi hoặc bên trong tiết diện ngang.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6080,
-    "line_end": 6080
+    "line_start": 6119,
+    "line_end": 6119
   },
   {
     "clause_id": "muc-10-4-3",
@@ -4514,8 +4514,8 @@
     "title": "10.4.3  Tường nên được bố trí cốt thép, thông thường, theo phương đứng và phương ngang, nằm đối xứng ở các mặt bên của tường, và các thanh thép giằng ngang (đai móc) nối cốt thép theo phương đứng và phương ngang nằm ở các mặt bên đối diện của tường.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6086,
-    "line_end": 6086
+    "line_start": 6125,
+    "line_end": 6125
   },
   {
     "clause_id": "muc-10-4-4",
@@ -4523,8 +4523,8 @@
     "title": "10.4.4  Ở các vùng đầu tường chạy dọc theo chiều cao của nó cần bố trí cốt thép ngang dưới dạng chữ U hoặc dạng cốt thép đai khép kín để tạo được neo cần thiết các đoạn đầu của các thanh thép nằm ngang và ngăn ngừa được các thanh đứng chịu nén nằm ở vùng đầu tường khỏi bị phình (Hình 28a).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6092,
-    "line_end": 6092
+    "line_start": 6131,
+    "line_end": 6131
   },
   {
     "clause_id": "muc-10-4-5",
@@ -4532,8 +4532,8 @@
     "title": "10.4.5  Ở các vùng giao nhau của các tường khi không thể xuyên được cốt thép nằm ngang của tường qua nút giao này cần bố trí cốt thép đai dạng chữ U để đảm bảo chịu được các lực nằm ngang tập trung trong nút giao các tường, cũng như ngăn ngừa các thanh thép đứng chịu nén trong nút giao khỏi bị phình và đảm bảo neo được các đoạn đầu của các thành nằm ngang (Hình 28b, c).",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6096,
-    "line_end": 6096
+    "line_start": 6135,
+    "line_end": 6135
   },
   {
     "clause_id": "hinh-28",
@@ -4541,8 +4541,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6100,
-    "line_end": 6100
+    "line_start": 6139,
+    "line_end": 6139
   },
   {
     "clause_id": "muc-10-4-6",
@@ -4550,8 +4550,8 @@
     "title": "10.4.6  Bố trí cốt thép cho các trụ trung gian nằm giữa các tường và các cột được tiến hành như đối với cột hoặc đối với tường phụ thuộc vào tỉ số giữa chiều dài và chiều rộng của tiết diện ngang của trụ.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6111,
-    "line_end": 6111
+    "line_start": 6150,
+    "line_end": 6150
   },
   {
     "clause_id": "muc-10-4-7",
@@ -4559,8 +4559,8 @@
     "title": "10.4.7  Số lượng cốt thép thẳng đứng và nằm ngang trong tường cần được xác định theo các nội lực tác dụng trong tường. Khi đó, nên bố trí đều theo diện tích tường và có tăng cường ở các đầu tường và ở gần các lỗ mở.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6115,
-    "line_end": 6115
+    "line_start": 6154,
+    "line_end": 6154
   },
   {
     "clause_id": "muc-10-4-8",
@@ -4568,8 +4568,8 @@
     "title": "10.4.8  Cần bố trí cốt thép dọc cho các bản phẳng theo hai phương ở mặt dưới và mặt trên của bản, còn trong các trường hợp cần thiết (theo tính toán) cần bố trí cả cốt thép ngang ở gần cột, tường và trên diện tích của bản.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6119,
-    "line_end": 6119
+    "line_start": 6158,
+    "line_end": 6158
   },
   {
     "clause_id": "muc-10-4-9",
@@ -4577,8 +4577,8 @@
     "title": "10.4.9  Ở các vùng biên của các bản phẳng cần bố trí cốt thép ngang dạng chữ U ở mép bản để đảm bảo chịu được mô men xoắn ở mép bản và neo được các đầu cốt thép dọc.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6123,
-    "line_end": 6123
+    "line_start": 6162,
+    "line_end": 6162
   },
   {
     "clause_id": "muc-10-4-10",
@@ -4586,8 +4586,8 @@
     "title": "10.4.10  Số lượng cốt thép dọc phía trên và phía dưới trong bản sàn tầng (sàn mái) cần được xác định theo các nội lực tác dụng. Khi đó, đối với các hệ kết cấu không đều đặn thì để đơn giản trong việc bố trí cốt thép, cho phép bố trí:",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6127,
-    "line_end": 6127
+    "line_start": 6166,
+    "line_end": 6166
   },
   {
     "clause_id": "muc-10-4-11",
@@ -4595,8 +4595,8 @@
     "title": "10.4.11  Bố trí cốt thép cho các nút giao dầm với cột cần được tiến hành phù hợp với Hình 29. Khi đó, phải bố trí cốt thép ngang dưới dạng đai khép kín hoặc dạng chữ U trong vùng neo cốt thép chịu lực của dầm.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6143,
-    "line_end": 6143
+    "line_start": 6182,
+    "line_end": 6182
   },
   {
     "clause_id": "muc-10-4-12",
@@ -4604,8 +4604,8 @@
     "title": "10.4.12  Trong các nút giao các dầm (Hình 30) cần bố trí cốt thép ngang bổ sung để chịu phản lực do dầm phụ gây ra. Trong dầm chính, cốt thép này cần được bố trí trên khoảng dài bằng (b + 2h), trong đó b và h là chiều rộng và chiều cao của dầm phụ, trong dầm phụ - trên đoạn dài bằng h/3. Cốt thép phải có dạng đai ôm được cốt thép dọc, để kết hợp với cốt thép yêu cầu theo tính toán tiết diện nghiêng hoặc tiết diện không gian.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6147,
-    "line_end": 6147
+    "line_start": 6186,
+    "line_end": 6186
   },
   {
     "clause_id": "muc-10-4-13",
@@ -4613,8 +4613,8 @@
     "title": "10.4.13  Trong các kết cấu chịu uốn kiểu dầm khi chiều cao tiết diện lớn hơn 700 mm cần bố trí các thanh cốt thép dọc cấu tạo ở các mặt bên với khoảng cách giữa chúng theo chiều cao không lớn hơn 400 mm và diện tích tiết diện không nhỏ hơn 0,1 % diện tích tiết diện bê tông có kích thước theo chiều cao cấu kiện bằng khoảng cách giữa các thanh cốt thép này, theo chiều rộng - bằng một nửa chiều rộng sườn của cấu kiện, nhưng không lớn hơn 200 mm.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6151,
-    "line_end": 6151
+    "line_start": 6190,
+    "line_end": 6190
   },
   {
     "clause_id": "muc-10-4-14",
@@ -4622,8 +4622,8 @@
     "title": "10.4.14  Trong các bản móng phẳng và trong các bản sàn tầng khi chiều cao tiết diện của chúng bằng 700 mm và lớn hơn cần bố trí cốt thép dọc cấu tạo dưới dạng lưới làm từ các thanh cốt thép có diện tích tiết diện không nhỏ hơn 0,05 % diện tích tiết diện bê tông, lấy bằng tích của khoảng cách giữa các lưới theo chiều cao và kích thước tương ứng trong mặt bằng của bản. Bước lưới thép cấu tạo theo chiều cao lấy không lớn hơn 1000 mm và không lớn hơn 1/3 chiều dày bản.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6155,
-    "line_end": 6155
+    "line_start": 6194,
+    "line_end": 6194
   },
   {
     "clause_id": "hinh-29",
@@ -4631,8 +4631,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6159,
-    "line_end": 6159
+    "line_start": 6201,
+    "line_end": 6201
   },
   {
     "clause_id": "hinh-30",
@@ -4640,8 +4640,8 @@
     "title": "",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6174,
-    "line_end": 6174
+    "line_start": 6219,
+    "line_end": 6219
   },
   {
     "clause_id": "muc-11",
@@ -4649,8 +4649,8 @@
     "title": "11  YÊU CẦU ĐỐI VỚI KHÔI PHỤC VÀ GIA CƯỜNG KẾT CẤU BÊ TÔNG CỐT THÉP",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6197,
-    "line_end": 6197
+    "line_start": 6242,
+    "line_end": 6242
   },
   {
     "clause_id": "muc-11-1",
@@ -4658,8 +4658,8 @@
     "title": "11.1  Yêu cầu chung",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6201,
-    "line_end": 6201
+    "line_start": 6246,
+    "line_end": 6246
   },
   {
     "clause_id": "muc-11-2",
@@ -4667,8 +4667,8 @@
     "title": "11.2  Khảo sát hiện trạng kết cấu",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6207,
-    "line_end": 6207
+    "line_start": 6252,
+    "line_end": 6252
   },
   {
     "clause_id": "muc-11-3",
@@ -4676,8 +4676,8 @@
     "title": "11.3  Tính toán kiểm tra kết cấu",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6213,
-    "line_end": 6213
+    "line_start": 6258,
+    "line_end": 6258
   },
   {
     "clause_id": "muc-11-3-1",
@@ -4685,8 +4685,8 @@
     "title": "11.3.1  Tính toán kiểm tra các kết cấu hiện hữu cần được tiến hành khi có sự thay đổi của tải trọng tác dụng lên chúng, của các điều kiện sử dụng và của các giải pháp mặt bằng - hình khối, cũng như khi phát hiện các khuyết tật và hư hỏng nghiêm trọng trong kết cấu.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6217,
-    "line_end": 6217
+    "line_start": 6262,
+    "line_end": 6262
   },
   {
     "clause_id": "muc-11-3-2",
@@ -4694,8 +4694,8 @@
     "title": "11.3.2  Tính toán kiểm tra phải được tiến hành trên cơ sở các hồ sơ thiết kế, các số liệu về chế tạo và thì công kết cấu, cũng như các kết quả khảo sát hiện trạng.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6223,
-    "line_end": 6223
+    "line_start": 6268,
+    "line_end": 6268
   },
   {
     "clause_id": "muc-11-3-3",
@@ -4703,8 +4703,8 @@
     "title": "11.3.3  Tính toán kiểm tra cần được tiến hành về khả năng chịu lực, biến dạng và khả năng chống nứt. Cho phép không cần tiến hành tính toán kiểm tra về khả năng sử dụng, nếu chuyển vị và chiều rộng các vết nứt trong các kết cấu hiện hữu dưới các tải trọng thực tế lớn nhất không vượt quá các giá trị cho phép, còn nội lực trong các tiết diện của các cấu kiện do các tải trọng có thể không vượt quá các giá trị nội lực do các tải trọng thực tế tác dụng.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6229,
-    "line_end": 6229
+    "line_start": 6274,
+    "line_end": 6274
   },
   {
     "clause_id": "muc-11-3-4",
@@ -4712,8 +4712,8 @@
     "title": "11.3.4  Các giá trị tính toán của các đặc trưng của bê tông lấy theo Bảng 7 phụ thuộc vào cấp cường độ của bê tông quy định trong thiết kế, hoặc cấp cường độ quy ước của bê tông được xác định với các hệ số chuyển đổi mà đảm bảo được cường độ tương đương theo giá trị thực tế của cường độ trung bình của bê tông thu được từ thử nghiệm bê tông bằng các phương pháp không phá hủy hoặc từ các thử nghiệm mẫu lấy từ kết cấu.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6233,
-    "line_end": 6233
+    "line_start": 6278,
+    "line_end": 6278
   },
   {
     "clause_id": "muc-11-3-5",
@@ -4721,8 +4721,8 @@
     "title": "11.3.5  Các giá trị tính toán của các đặc trưng của cốt thép lấy theo các bảng 13, 14 phụ thuộc vào loại cốt thép quy định trong thiết kế, hoặc cấp cường độ quy ước của cốt thép được xác định với các hệ số chuyển đổi mà đảm bảo được cường độ tương đương theo giá trị thực tế của cường độ trung bình của cốt thép thu được từ thử nghiệm các mẫu cốt thép lấy từ kết cấu.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6237,
-    "line_end": 6237
+    "line_start": 6282,
+    "line_end": 6282
   },
   {
     "clause_id": "muc-11-3-6",
@@ -4730,8 +4730,8 @@
     "title": "11.3.6  Khi tiến hành tính toán kiểm tra phải kể đến các khuyết tật và hư hỏng của kết cấu đã được phát hiện trong quá trình khảo sát hiện trạng: sự suy giảm cường độ, các hư hỏng và phá hoại cục bộ bê tông; đứt cốt thép, ăn mòn cốt thép, hư hỏng neo và bám dính của cốt thép với bê tông, sự hình thành và mở rộng các vết nứt nguy hiểm; sai lệch kết cấu so với thiết kế trong các cấu kiện riêng lẻ của kết cấu và trong các liên kết của chúng.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6245,
-    "line_end": 6245
+    "line_start": 6290,
+    "line_end": 6290
   },
   {
     "clause_id": "muc-11-3-7",
@@ -4739,8 +4739,8 @@
     "title": "11.3.7  Các kết cấu không thỏa mãn các yêu cầu của tính toán kiểm tra về khả năng chịu lực và khả năng sử dụng cần phải được gia cường hoặc phải giảm tải trọng tác dụng lên chúng.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6249,
-    "line_end": 6249
+    "line_start": 6294,
+    "line_end": 6294
   },
   {
     "clause_id": "muc-11-4",
@@ -4748,8 +4748,8 @@
     "title": "11.4  Gia cường kết cấu bê tông cốt thép",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6255,
-    "line_end": 6255
+    "line_start": 6300,
+    "line_end": 6300
   },
   {
     "clause_id": "muc-11-4-1",
@@ -4757,8 +4757,8 @@
     "title": "11.4.1  Việc gia cường kết cấu bê tông cốt thép được thực hiện bằng các cấu kiện thép, bê tông và bê tông cốt thép, cốt thép và các vật liệu polyme.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6259,
-    "line_end": 6259
+    "line_start": 6304,
+    "line_end": 6304
   },
   {
     "clause_id": "muc-11-4-2",
@@ -4766,8 +4766,8 @@
     "title": "11.4.2  Khi gia cường kết cấu bê tông cốt thép cần kể đến khả năng chịu lực cả của các cấu kiện gia cường và của kết cấu cần gia cường. Để làm được điều này, cần phải đảm bảo được việc đưa các cấu kiện gia cường vào làm việc và sự làm việc đồng thời của chúng với kết cấu cần gia cường. Đối với các kết cấu bị hư hỏng nặng (khi tiết diện bê tông bị phá hoại từ 50 % trở lên hoặc diện tích tiết diện cốt thép chịu lực bị phá hoại) thì các cấu kiện gia cường cần được tính toán chịu toàn bộ tải trọng tác dụng, khi đó, khả năng chịu lực của kết cấu cần gia cường không kể vào tính toán.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6263,
-    "line_end": 6263
+    "line_start": 6308,
+    "line_end": 6308
   },
   {
     "clause_id": "muc-11-4-3",
@@ -4775,8 +4775,8 @@
     "title": "11.4.3  Giá trị tính toán của các đặc trưng của vật liệu gia cường lấy theo các tiêu chuẩn hiện hành.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6269,
-    "line_end": 6269
+    "line_start": 6314,
+    "line_end": 6314
   },
   {
     "clause_id": "muc-11-4-4",
@@ -4784,8 +4784,8 @@
     "title": "11.4.4  Tính toán kết cấu bê tông cốt thép cần gia cường phải được tiến hành theo các nguyên tắc chung về tính toán kết cấu bê tông cốt thép có kể đến trạng thái ứng suất - biến dạng của kết cấu đã thu được trước khi gia cường.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6275,
-    "line_end": 6275
+    "line_start": 6320,
+    "line_end": 6320
   },
   {
     "clause_id": "muc-12-1",
@@ -4793,8 +4793,8 @@
     "title": "12.1  Tính toán kết cấu bê tông cốt thép chịu mỏi được thực hiện khi có tác dụng của tải trọng lặp lại nhiều lần (đều đặn). Khi tính toán chịu mỏi cần kiểm tra cường độ đối với bê tông và cốt thép một cách riêng biệt.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6281,
-    "line_end": 6281
+    "line_start": 6326,
+    "line_end": 6326
   },
   {
     "clause_id": "muc-12-2",
@@ -4802,8 +4802,8 @@
     "title": "12.2  Tính toán chịu mỏi phải được tiến hành theo các điều kiện mà trong đó các ứng suất lớn nhất trong bê tông chịu nén và cốt thép chịu kéo do tải trọng lặp lại không được vượt quá lần lượt cường độ chịu mỏi tính toán khi nén của bê tông và cường độ chịu mỏi tính toán khi kéo của cốt thép.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6287,
-    "line_end": 6287
+    "line_start": 6332,
+    "line_end": 6332
   },
   {
     "clause_id": "muc-12-3",
@@ -4811,8 +4811,8 @@
     "title": "12.3  Cường độ chịu mỏi tính toán của bê tông khi nén và cốt thép khi kéo trong trường hợp tổng quát được xác định có kể đến sự không đối xứng của các chu kỳ chất tải, cấp cường độ chịu nén của bê tông và cấp cường độ chịu kéo (giới hạn chảy thực tế hoặc quy ước) của cốt thép ứng với số chu kỳ N = 2 x 10$^{6}$ với việc sử dụng nhánh xuống của đường cong thu được dựa trên các số liệu thực nghiệm.",
     "source_file": "tcvn_5574_2018.md",
     "jurisdiction": "CQXD",
-    "line_start": 6291,
-    "line_end": 6291
+    "line_start": 6336,
+    "line_end": 6336
   },
   {
     "clause_id": "phu-luc-a",
@@ -4901,8 +4901,8 @@
     "title": "",
     "source_file": "annexes/phu_luc_b_cac_bieu_do_bien_dang_cua_be_tong.md",
     "jurisdiction": "CQXD",
-    "line_start": 58,
-    "line_end": 58
+    "line_start": 61,
+    "line_end": 61
   },
   {
     "clause_id": "phu-luc-c",
@@ -5333,8 +5333,8 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_tinh_toan_cot_tiet_dien_vanh_khuyen_va_tron.md",
     "jurisdiction": "CQXD",
-    "line_start": 56,
-    "line_end": 56
+    "line_start": 59,
+    "line_end": 59
   },
   {
     "clause_id": "muc-f-2",
@@ -5342,8 +5342,8 @@
     "title": "F.2  Cột tiết diện tròn",
     "source_file": "annexes/phu_luc_f_tinh_toan_cot_tiet_dien_vanh_khuyen_va_tron.md",
     "jurisdiction": "CQXD",
-    "line_start": 71,
-    "line_end": 71
+    "line_start": 74,
+    "line_end": 74
   },
   {
     "clause_id": "formula-f_8",
@@ -5351,8 +5351,8 @@
     "title": "$$N \\le 0,77 R_{b} A + 0,645 R_{s}A_{s,tot} \\tag{F.8}$$",
     "source_file": "annexes/phu_luc_f_tinh_toan_cot_tiet_dien_vanh_khuyen_va_tron.md",
     "jurisdiction": "CQXD",
-    "line_start": 91,
-    "line_end": 91
+    "line_start": 94,
+    "line_end": 94
   },
   {
     "clause_id": "hinh-f_2",
@@ -5360,8 +5360,8 @@
     "title": "",
     "source_file": "annexes/phu_luc_f_tinh_toan_cot_tiet_dien_vanh_khuyen_va_tron.md",
     "jurisdiction": "CQXD",
-    "line_start": 118,
-    "line_end": 118
+    "line_start": 124,
+    "line_end": 124
   },
   {
     "clause_id": "phu-luc-g",
@@ -5387,8 +5387,8 @@
     "title": "",
     "source_file": "annexes/phu_luc_g_tinh_toan_chot_be_tong.md",
     "jurisdiction": "CQXD",
-    "line_start": 22,
-    "line_end": 22
+    "line_start": 25,
+    "line_end": 25
   },
   {
     "clause_id": "formula-g_3",
@@ -5396,8 +5396,8 @@
     "title": "$$h_k \\ge \\frac{Q - 0,7N}{2 R_{bt} L_k n_k} \\tag{G.3}$$",
     "source_file": "annexes/phu_luc_g_tinh_toan_chot_be_tong.md",
     "jurisdiction": "CQXD",
-    "line_start": 41,
-    "line_end": 41
+    "line_start": 44,
+    "line_end": 44
   },
   {
     "clause_id": "phu-luc-h",
@@ -5423,8 +5423,8 @@
     "title": "",
     "source_file": "annexes/phu_luc_h_tinh_toan_cong_xon_ngan.md",
     "jurisdiction": "CQXD",
-    "line_start": 27,
-    "line_end": 27
+    "line_start": 30,
+    "line_end": 30
   },
   {
     "clause_id": "hinh-h_2",
@@ -5432,8 +5432,8 @@
     "title": "",
     "source_file": "annexes/phu_luc_h_tinh_toan_cong_xon_ngan.md",
     "jurisdiction": "CQXD",
-    "line_start": 52,
-    "line_end": 52
+    "line_start": 58,
+    "line_end": 58
   },
   {
     "clause_id": "muc-h-2",
@@ -5441,8 +5441,8 @@
     "title": "H.2  Khi dầm tựa khớp lên công xôn của cột (vai cột) thì cốt thép dọc của công xôn được kiểm tra theo điều kiện:",
     "source_file": "annexes/phu_luc_h_tinh_toan_cong_xon_ngan.md",
     "jurisdiction": "CQXD",
-    "line_start": 67,
-    "line_end": 67
+    "line_start": 73,
+    "line_end": 73
   },
   {
     "clause_id": "formula-h_2",
@@ -5450,8 +5450,8 @@
     "title": "$$Q \\frac{L_1}{h_0} \\le R_s A_s \\tag{H.2}$$",
     "source_file": "annexes/phu_luc_h_tinh_toan_cong_xon_ngan.md",
     "jurisdiction": "CQXD",
-    "line_start": 71,
-    "line_end": 71
+    "line_start": 77,
+    "line_end": 77
   },
   {
     "clause_id": "formula-h_3",
@@ -5459,8 +5459,8 @@
     "title": "$$Q \\frac{L_1}{h_0} - N_s \\le R_s A_s \\tag{H.3}$$",
     "source_file": "annexes/phu_luc_h_tinh_toan_cong_xon_ngan.md",
     "jurisdiction": "CQXD",
-    "line_start": 82,
-    "line_end": 82
+    "line_start": 88,
+    "line_end": 88
   },
   {
     "clause_id": "phu-luc-i",

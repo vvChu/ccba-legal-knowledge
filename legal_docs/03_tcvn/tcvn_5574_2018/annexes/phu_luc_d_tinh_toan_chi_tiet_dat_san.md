@@ -47,7 +47,7 @@ $$N'_{\text{an}} = \frac{M}{z} - \frac{N}{n_{\text{an}}}$$
 $$Q_{an,j,0} = \gamma_{s,sh} A_{an,j} \sqrt{R_b R_s}$$
 <!-- formula_id: "F_TCVN_5574_2018_FORMULA_D_5" -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:
+trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\gamma_{s,sh}$  là hệ số, lấy bằng 1,65;
 

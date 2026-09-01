@@ -863,9 +863,6 @@ rId397:
 rId86:
   formula_id: F_TCVN_5574_2018_FIGURE_8_LEGEND
   latex: ''
-rId144:
-  formula_id: F_TCVN_5574_2018_FIGURE_15_LEGEND
-  latex: ''
 rId104:
   formula_id: F_TCVN_5574_2018_FORMULA_97
   latex: Q_b = \frac{4\varphi_{b2} h_0^2 q_{sw}}{C} \tag{97}
@@ -875,3 +872,6 @@ rId112:
 '108':
   formula_id: F_TCVN_5574_2018_FORMULA_108
   latex: C_{sw} = \delta \cdot C
+rId144:
+  formula_id: F_TCVN_5574_2018_RID144
+  latex: ''
