@@ -22,7 +22,7 @@ c) Trường hợp mặt đất có độ dốc lớn $i \ge 2$, mặt cao độ
 
 _CHÚ THÍCH:_ Bên trái điểm A: $z_0 = z_1$; Trên đoạn BC: $z_0 = \frac{H(2 - i)}{1{,}7}$; Bên phải điểm D: $z_0 = z_2$; Trên đoạn AB và CD: $z_0$ được xác định bằng nội suy tuyến tính.
 
-<p align="center"><strong>a) Khi mặt đất có độ dốc $0{,}3 < i < 2$</strong></p>
+<p align="center"><strong>a) Khi mặt đất có độ dốc 0,3 &lt; i &lt; 2</strong></p>
 
 
 <a id="hinh-c_1b"></a>
@@ -35,9 +35,9 @@ _CHÚ THÍCH:_ Bên trái điểm A: $z_0 = z_1$; Trên đoạn BC: $z_0 = \frac
 
 _CHÚ THÍCH:_ Bên trái điểm C: $z_0 = z_1$; Bên phải điểm D: $z_0 = z_2$; Trên đoạn CD: $z_0$ được xác định bằng nội suy tuyến tính.
 
-<p align="center"><strong>b) Khi mặt đất có độ dốc $i \ge 2$</strong></p>
+<p align="center"><strong>b) Khi mặt đất có độ dốc i &ge; 2</strong></p>
 
-<p align="center"><strong>Hình C.1 — Mặt cao độ công trình quy ước $z_0$ (mốc chuẩn)</strong></p>
+<p align="center"><strong>Hình C.1 — Mặt cao độ công trình quy ước z<sub>0</sub> (mốc chuẩn)</strong></p>
 
 > [!NOTE]
 > **Đặc tả Hình học & Phương pháp Xác định Mốc chuẩn Khí động ($z_0$):**

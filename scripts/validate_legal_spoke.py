@@ -589,6 +589,10 @@ class LegalSpokeValidator:
 
     def validate_docx_to_markdown_verbatim_parity(self) -> None:
         """Gate 11: Enforce 100% Verbatim Normative Text Parity between sources/*.docx and bundle Markdown files."""
+        hub_src = Path("D:/GitHubProjects/ccba-agent-platform/packages/ccba-legal-intel/src")
+        if hub_src.exists() and str(hub_src) not in sys.path:
+            sys.path.insert(0, str(hub_src))
+
         try:
             from ccba_legal.provenance import verify_bundle_docx_vs_markdown
         except ImportError:

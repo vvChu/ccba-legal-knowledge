@@ -28,6 +28,8 @@
 
 </p>
 
+<p align="center"><em>Khi L &gt; 4h &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Khi L &le; 4h &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Khi L &le; 2h</em></p>
+
 <p align="center"><strong>Hình F.1 — Các vùng trên tường phẳng, hàng rào và kết cấu tương tự</strong></p>
 
 <a id="bang-bang-f-1"></a>
@@ -143,6 +145,8 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 </p>
 
+<p align="center"><em>a) Sơ đồ chung &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Góc hướng gió θ = 0° và θ = 180° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) Góc hướng gió θ = 90°</em></p>
+
 <p align="center"><strong>Hình F.4 — Mái dốc một phía</strong></p>
 
 <a id="bang-bang-f-3a"></a>
@@ -246,6 +250,10 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 </p>
 
+<p align="center"><em>a) Sơ đồ chung &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Góc hướng gió θ = 0° &nbsp;&nbsp; e = min (b; 2h) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) Góc hướng gió θ = 90°</em></p>
+
+<p align="center"><em>1 - Phía đón gió; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2 - Phía hút gió.</em></p>
+
 <p align="center"><strong>Hình F.6 — Mái dốc hai phía của nhà có mặt bằng chữ nhật</strong></p>
 
 <a id="bang-bang-f-5a"></a>
@@ -348,7 +356,7 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 </p>
 
-<p align="center"><strong>Hình F.8 — Phân bố hệ số khí động $c_e$ trên bề mặt mái vòm và mái gần giống vòm</strong></p>
+<p align="center"><strong>Hình F.8 — Phân bố hệ số khí động c<sub>e</sub> trên bề mặt mái vòm và mái gần giống vòm</strong></p>
 
 ### F.7  Công trình mặt bằng tròn có mái chỏm cầu và mái nón
 
@@ -364,7 +372,7 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 </p>
 
-<p align="center"><strong>Hình F.9a — Mái chỏm cầu</strong></p>
+<p align="center"><strong>Hình F.9a — Mái chòm cầu</strong></p>
 
 <a id="muc-f-7-2"></a>
 
@@ -476,6 +484,8 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 </p>
 
+<p align="center"><em>CHÚ DẪN: 1 - Tường chắn gió</em></p>
+
 <p align="center"><strong>Hình F.11 — Nhà có cửa trời trên đỉnh</strong></p>
 
 ### F.10  Nhà có mái răng cưa
@@ -577,7 +587,7 @@ Hệ số khí động $c_e$ của bốn loại mái che ([Hình F.15](#hinh-f_1
 
 </p>
 
-<p align="center"><strong>Hình F.15 — Các sơ đồ phân bố hệ số $c_e$ cho mái che</strong></p>
+<p align="center"><strong>Hình F.15 — Các sơ đồ phân bố hệ số c<sub>e</sub> cho mái che</strong></p>
 
 <a id="bang-bang-f-9"></a>
 
@@ -630,7 +640,7 @@ Khi zg < d/2, hệ số $c_x$ cần được tăng lên 1,6 lần.
 
 </p>
 
-<p align="center"><strong>Hình F.17 — Hệ số khí động cản chính diện $c_x$ của khối cầu</strong></p>
+<p align="center"><strong>Hình F.17 — Hệ số khí động cản chính diện c<sub>x</sub> của khối cầu</strong></p>
 
 <a id="muc-f-14-2"></a>
 
@@ -676,7 +686,7 @@ với:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $V_{3\text{s}, 50}$ là vận tốc gió $3\text{ s}$ ứng với chu kỳ lặp 50 năm, lấy theo [1];
 
-&nbsp;&nbsp;&nbsp;&nbsp;\- $0{,}68$ và $\bar{\alpha}$ lấy theo Bảng 10;
+&nbsp;&nbsp;&nbsp;&nbsp;\- $0{,}68$ và ᾱ lấy theo Bảng 10;
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $z_e$ là độ cao tương đương, tính bằng mét (m).
 
@@ -718,7 +728,7 @@ Sự phân bố hệ số $c_\beta$ trên bề mặt trụ tròn khi $\delta = \
 
 </p>
 
-<p align="center"><strong>Hình F.19 — Sự phân bố hệ số $c_\beta$ trên bề mặt trụ tròn</strong></p>
+<p align="center"><strong>Hình F.19 — Sự phân bố hệ số c<sub>β</sub> trên bề mặt trụ tròn</strong></p>
 
 <a id="bang-bang-f-10"></a>
 
@@ -772,7 +782,7 @@ trong đó:
 
 </p>
 
-<p align="center"><strong>Hình F.20 — Hệ số cx∞</strong></p>
+<p align="center"><strong>Hình F.20 — Hệ số c<sub>x∞</sub></strong></p>
 
 <a id="muc-f-15-4"></a>
 
@@ -844,7 +854,7 @@ trong đó:
 
 </p>
 
-<p align="center"><strong>Hình F.22 — Hệ số khí động cản chính diện cx của công trình hình lăng trụ</strong></p>
+<p align="center"><strong>Hình F.22 — Hệ số khí động cản chính diện c<sub>x</sub> của công trình hình lăng trụ</strong></p>
 
 <a id="bang-bang-f-12"></a>
 
@@ -1008,7 +1018,7 @@ trong đó:
 
 </p>
 
-<p align="center"><strong>Hình F.26 — Các thông số để xác định hệ số đặc $\varphi$ của giàn</strong></p>
+<p align="center"><strong>Hình F.26 — Các thông số để xác định hệ số đặc φ của giàn</strong></p>
 
 ### F.18  Xét đến độ mảnh hiệu dụng của công trình
 
@@ -1022,7 +1032,7 @@ Giá trị hệ số $k_\lambda$ phụ thuộc vào độ mảnh hiệu dụng $
 
 </p>
 
-<p align="center"><strong>Hình F.27 — Hệ số kλ</strong></p>
+<p align="center"><strong>Hình F.27 — Hệ số k<sub>λ</sub></strong></p>
 
 <a id="bang-bang-f-15"></a>
 

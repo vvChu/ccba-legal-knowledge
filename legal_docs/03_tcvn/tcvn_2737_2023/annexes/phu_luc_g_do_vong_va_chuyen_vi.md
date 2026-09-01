@@ -58,7 +58,9 @@ Nếu việc tính toán được thực hiện theo yêu cầu thẩm mỹ - t�
 
 </p>
 
-<p align="center"><strong>Hình G.1 — Sơ đồ xác định các giá trị L ($L_1, L_2, L_3$) khi có tường ngăn nằm giữa các tường chịu lực</strong></p>
+<p align="center"><em>a) Có một tường ngăn &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Có hai tường ngăn</em></p>
+
+<p align="center"><strong>Hình G.1 — Sơ đồ xác định các giá trị L (L<sub>1</sub>, L<sub>2</sub>, L<sub>3</sub>) khi có tường ngăn nằm giữa các tường chịu lực</strong></p>
 
 <a id="muc-g-1-8"></a>
 
