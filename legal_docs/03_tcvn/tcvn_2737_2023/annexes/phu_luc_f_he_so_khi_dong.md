@@ -358,7 +358,7 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 </p>
 
-<p align="center"><strong>Hình F.8 — Phân bố hệ số khí động c<sub>e</sub> trên bề mặt mái vòm và mái gần giống vòm</strong></p>
+<p align="center"><strong>Hình F.8 — Phân bố hệ số khí động $c_e$ trên bề mặt mái vòm và mái gần giống vòm</strong></p>
 
 ### F.7  Công trình mặt bằng tròn có mái chỏm cầu và mái nón
 
@@ -374,7 +374,7 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 </p>
 
-<p align="center"><strong>Hình F.9a — Mái chòm cầu</strong></p>
+<p align="center"><strong>Hình F.9a — Mái chỏm cầu</strong></p>
 
 <a id="muc-f-7-2"></a>
 
@@ -389,8 +389,6 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 </p>
 
 <p align="center"><strong>Hình F.9b — Mái nón</strong></p>
-
-<a id="bang-bang-f-7"></a>
 
 <a id="bang-bang-f-7"></a>
 
