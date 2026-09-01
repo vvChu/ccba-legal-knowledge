@@ -170,6 +170,16 @@ def generate_formula_audit_report(
 
         img_b64 = ""
         if img_bytes:
+            # If WMF format, rasterize to PNG via Pillow for browser compatibility
+            if img_target_name.lower().endswith(".wmf"):
+                try:
+                    from PIL import Image
+                    im = Image.open(io.BytesIO(img_bytes))
+                    png_buf = io.BytesIO()
+                    im.save(png_buf, format="PNG")
+                    img_bytes = png_buf.getvalue()
+                except Exception:
+                    pass
             img_b64 = f"data:image/png;base64,{base64.b64encode(img_bytes).decode('utf-8')}"
 
         audit_rows.append({

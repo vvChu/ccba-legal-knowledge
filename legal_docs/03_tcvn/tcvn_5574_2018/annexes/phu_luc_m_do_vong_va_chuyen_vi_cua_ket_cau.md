@@ -291,8 +291,7 @@ trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- b  là hệ số, lấy theo Bảng M.2.
 
-Độ võng cần được xác định theo tổng các tải trọng $\psi_{AI}$ + $ p_{1}$ + q, trong đó: $\psi_{AI}$= $\beta = 0,4 + 0,6\sqrt{A_l} \tag{M.3}
-<!-- formula_id: "F_TCVN_5574_2018_FORMULA_M_3" -->$ với A là diện chịu tải, $ A_{1}$ = 9 $ m^{2}$.
+Độ võng cần được xác định theo tổng các tải trọng $\psi_{A1} + p_1 + q$, trong đó: $\psi_{A1} = 0,4 + 0,6\sqrt{A_1 / A}$ với $A$ là diện chịu tải, $A_1 = 9\text{ m}^2$.
 
 
 <a id="bang-bang-m-2"></a>

@@ -240,8 +240,8 @@ rId429:
   formula_id: F_TCVN_5574_2018_FORMULA_M_2
   latex: f_v = \frac{g(p + p_1 + q)}{30n^2(bp + p_1 + q)}
 rId430:
-  formula_id: F_TCVN_5574_2018_FORMULA_M_3
-  latex: \beta = 0,4 + 0,6\sqrt{A_l}
+  formula_id: F_TCVN_5574_2018_HE_SO_PSI_A1
+  latex: \psi_{A1} = 0,4 + 0,6\sqrt{A_1 / A}
 rId14:
   formula_id: F_TCVN_5574_2018_FORMULA_8_9_10
   latex: '\begin{aligned} &\text{Khi } 0 \le \varepsilon_b \le \varepsilon_{b1}: & \sigma_b &= E_b \varepsilon_b \qquad (8)
@@ -793,3 +793,6 @@ rId112:
 '108':
   formula_id: F_TCVN_5574_2018_FORMULA_108
   latex: C_{sw} = \delta \cdot C
+M.1:
+  formula_id: F_TCVN_5574_2018_FORMULA_M_1
+  latex: f \le f_u \tag{M.1}
