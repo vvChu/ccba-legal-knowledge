@@ -513,3 +513,27 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
 - **Cross-Platform Browser Discovery for CDP**: Extracted dynamic browser candidate discovery (`get_browser_executable_path()`) across Windows (`%LOCALAPPDATA%`, `Program Files`, `Edge`, `Brave`), Linux, and macOS, removing hardcoded Chrome executable paths.
 - **In-Memory Table Formatting (Zero Disk Churn)**: Integrated `clean_markdown_tables_and_notes` directly into RAM pipelines (`vbpl_admin.py` and `strategy.py`), completely eliminating post-processing disk re-reads and re-writes in `docx_converter.py`.
 - **Delimiters & AST Point ID Cleanliness**: Corrected OMML matching delimiter mappings for reverse intervals (`]a, b[`) and streamlined Point `node_id` formatting in `ast_parser.py` under strict KISS guidelines.
+
+---
+
+## 36. Universal Formula Classification, Clause-Location Semantic ID & Visual Parity Matrix (ADR 0038)
+
+- **Vấn đề**: Trong quá trình chuyển đổi văn bản quy phạm kỹ thuật (TCVN/QCVN) từ DOCX sang OKF v2.4, công thức toán học gồm 4 phân lớp phức tạp:
+  1. Công thức đơn có số hiệu (`(1)`, `(2)`, `(135)`, `(M.1)`).
+  2. Khối đa công thức gộp trong 1 ảnh MathType (`(5-6)`, `(8-10)`, `(B.1-B.2)`).
+  3. Biểu thức điều kiện quy phạm & định nghĩa tham số không có số hiệu trong bản gốc (hàm từng khúc $\varphi_{b1}$, điều kiện chọc thủng 8.1.5, hệ số $\psi_{A1}$).
+  4. Ảnh vector Windows Metafile (.wmf) không hiển thị được trực tiếp trên trình duyệt web.
+
+- **Giải pháp khái quát hóa toàn hệ thống (System-Wide Generalization)**:
+  1. **Bộ Phân Loại & Tự Động Định Danh Ngữ Nghĩa (Clause-Location Semantic ID Generator)**:
+     - Công thức có số hiệu: `F_<DOC_SLUG>_FORMULA_<TAG>`
+     - Dải công thức gộp: `F_<DOC_SLUG>_FORMULA_<TAG1>_<TAG2>`
+     - Biểu thức không số hiệu: `F_<DOC_SLUG>_C<CLAUSE_PATH>_<SEMANTIC_NAME>` hoặc `F_<DOC_SLUG>_ANNEX_<ANNEX_PATH>_<SEMANTIC_NAME>`. Khớp $1:1$ với `node_id` trong cây AST `clauses.json`.
+  2. **Thuật Toán Sắp Xếp Tự Nhiên (Natural Formula Sorter)**:
+     - Nhóm 1: Công thức số tự nhiên `(1)` $\rightarrow$ `(259)` (kể cả dải `5-6`).
+     - Nhóm 2: Công thức Phụ lục `(A.1)` $\rightarrow$ `(M.3)` theo thứ tự chữ cái và chỉ số.
+     - Nhóm 3: Nhóm biểu thức không số hiệu được gom gọn cuối bảng với huy hiệu điều khoản rõ ràng.
+  3. **Chuyển Đổi Vector WMF $\rightarrow$ PNG In-Memory**:
+     - Tự động rasterize tệp vector `.wmf` sang `.png` bằng Pillow trong bộ nhớ RAM, triệt tiêu $100\%$ hiện tượng icon ảnh bị vỡ trên trình duyệt.
+  4. **Báo Cáo Đối Soát Trực Quan Toàn Năng (`verify_formula_visual_matrix.py`)**:
+     - Script tham số hóa toàn diện `--bundle-dir <path>`, tự động chạy và xuất báo cáo cho bất kỳ văn bản nào trong kho tri thức.
