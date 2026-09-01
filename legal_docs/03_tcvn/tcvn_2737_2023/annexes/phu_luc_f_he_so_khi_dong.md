@@ -1040,12 +1040,9 @@ Giá trị hệ số $k_\lambda$ phụ thuộc vào độ mảnh hiệu dụng $
 
 **Bảng F.15 — Độ mảnh hiệu dụng $\lambda_e$**
 
-| Sơ đồ cấu tạo và vị trí của công trình trong không gian | Độ mảnh hiệu dụng $\lambda_e$ |
-| :---: | :---: |
-| Công trình tự do 2 đầu (hoặc hở 2 đầu dòng khí)<br><img src="../figures/images/bang_f_15_h1.png" width="90" alt="Công trình tự do 2 đầu"> | $\lambda_e = \lambda / 2$ |
-| Công trình có một đầu tự do, một đầu tựa sát mặt đất hoặc mặt phẳng ngăn<br><img src="../figures/images/bang_f_15_h2.png" width="90" alt="Một đầu tự do, một đầu tựa sát mặt đất"> | $\lambda_e = \lambda$ |
-| Công trình có hai đầu tựa sát mặt đất hoặc hai mặt phẳng ngăn<br><img src="../figures/images/bang_f_15_h3.png" width="90" alt="Hai đầu tựa sát mặt đất"> | $\lambda_e = 2\lambda$ |
-| Công trình dài vô hạn hoặc liên tục<br><img src="../figures/images/bang_f_15_h4.png" width="90" alt="Công trình dài vô hạn"> | $\lambda_e = \infty$ |
+| $\lambda_e = \lambda / 2$ | $\lambda_e = \lambda$ | $\lambda_e = 2\lambda$ | $\lambda_e = \infty$ |
+| :---: | :---: | :---: | :---: |
+| <img src="../figures/images/bang_f_15_h1.png" width="130" alt="Công trình tự do 2 đầu"><br>*(Công trình tự do 2 đầu hoặc hở 2 đầu dòng khí)* | <img src="../figures/images/bang_f_15_h2.png" width="130" alt="Một đầu tự do, một đầu tựa sát mặt đất"><br>*(Một đầu tự do, một đầu tựa sát mặt đất hoặc mặt phẳng ngăn)* | <img src="../figures/images/bang_f_15_h3.png" width="130" alt="Hai đầu tựa sát mặt đất"><br>*(Hai đầu tựa sát mặt đất hoặc hai mặt phẳng ngăn)* | <img src="../figures/images/bang_f_15_h4.png" width="130" alt="Công trình dài vô hạn"><br>*(Công trình dài vô hạn hoặc liên tục)* |
 
 **Các ký hiệu trong Bảng F.15:**  
 $L, b$ tương ứng là kích thước lớn nhất và nhỏ nhất của công trình hoặc cấu kiện của nó trong mặt phẳng vuông góc với hướng gió; $\lambda = L/b$.
