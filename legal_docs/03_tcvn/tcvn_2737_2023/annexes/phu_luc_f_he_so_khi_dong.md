@@ -57,13 +57,13 @@ Khi $z_g < d/4$ và $b/d \le 1$ thì cũng có thể lấy $c_x = 2{,}5 k_\lambd
 
 Hợp lực của các tải trọng hướng vuông góc với mặt phẳng bảng quảng cáo cần được đặt ở độ cao tâm hình học của bảng quảng cáo với độ lệch tâm theo phương ngang $e = \pm 0{,}25b$. Độ cao tương đương $z_e$ lấy bằng $z_e = z_g + \frac{d}{2}$ (xem [Hình F.2](#hinh-f_2)).
 
+<a id="hinh-f_2"></a>
+
 <p align="center">
 
-![hinh_f_2](../figures/images/hinh_f_2.png)
+![Hình F.2](../figures/images/hinh_f_2.png)
 
 </p>
-
-<a id="hinh-f_2"></a>
 
 <p align="center"><strong>Hình F.2 — Bảng quảng cáo</strong></p>
 
@@ -186,23 +186,23 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 Đối với tường nghiêng (Hình F.5b) với góc nghiêng trong khoảng $45^\circ < \omega < 90^\circ$, các hệ số khí động được xác định tương tự như đối với tường thẳng đứng.
 
+<a id="hinh-f_5a"></a>
+
 <p align="center">
 
-![hinh_f_5a](../figures/images/hinh_f_5a.png)
+![Hình F.5a](../figures/images/hinh_f_5a.png)
 
 </p>
-
-<a id="hinh-f_5a"></a>
 
 <p align="center"><strong>Hình F.5a — Tường thẳng đứng của nhà có mặt bằng chữ nhật</strong></p>
 
+<a id="hinh-f_5b"></a>
+
 <p align="center">
 
-![hinh_f_5b](../figures/images/hinh_f_5b.png)
+![Hình F.5b](../figures/images/hinh_f_5b.png)
 
 </p>
-
-<a id="hinh-f_5b"></a>
 
 <p align="center"><strong>Hình F.5b — Tường nghiêng của nhà có mặt bằng chữ nhật</strong></p>
 
@@ -370,13 +370,13 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 **F.7.2**  Đối với mái nón (xem Hình F.9b), giá trị hệ số khí động áp lực ngoài ce khi góc dốc của mái 15° < α < 30° được xác định theo Bảng F.7.
 
+<a id="hinh-f_9b"></a>
+
 <p align="center">
 
-![hinh_f_9b](../figures/images/hinh_f_9b.png)
+![Hình F.9b](../figures/images/hinh_f_9b.png)
 
 </p>
-
-<a id="hinh-f_9b"></a>
 
 <p align="center"><strong>Hình F.9b — Mái nón</strong></p>
 
@@ -423,13 +423,26 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 **F.8.5**  Khi xác định độ cao tương đương ze theo 10.2.4: h = h1.
 
-<a id="hinh-f_10"></a>
+<a id="hinh-f_10"></a><a id="hinh-f_10a"></a>
 
 <p align="center">
 
-![Hình F.10](../figures/images/hinh_f_10.png)
+![Hình F.10a](../figures/images/hinh_f_10a.png)
 
 </p>
+
+<p align="center"><em>a) Nhà có cửa trời dọc nhà</em></p>
+
+
+<a id="hinh-f_10b"></a>
+
+<p align="center">
+
+![Hình F.10b](../figures/images/hinh_f_10b.png)
+
+</p>
+
+<p align="center"><em>b) Nhà có chiều cao thay đổi</em></p>
 
 <p align="center"><strong>Hình F.10 — Nhà có cửa trời dọc nhà và nhà có chiều cao thay đổi</strong></p>
 
@@ -455,13 +468,13 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 **F.9.5**  Khi xác định độ cao tương đương ze theo 10.2.4: h = h1.
 
+<a id="hinh-f_11"></a>
+
 <p align="center">
 
-![hinh_f_11](../figures/images/hinh_f_11.png)
+![Hình F.11](../figures/images/hinh_f_11.png)
 
 </p>
-
-<a id="hinh-f_11"></a>
 
 <p align="center"><strong>Hình F.11 — Nhà có cửa trời trên đỉnh</strong></p>
 
@@ -487,13 +500,13 @@ trong đó: λ = a/hf, với hf là chiều cao các cửa trời của vùng C.
 
 **F.10.5**  Hệ số khí động ma sát cho mái răng cưa cf = 0,04.
 
+<a id="hinh-f_12"></a>
+
 <p align="center">
 
-![hinh_f_12](../figures/images/hinh_f_12.png)
+![Hình F.12](../figures/images/hinh_f_12.png)
 
 </p>
-
-<a id="hinh-f_12"></a>
 
 <p align="center"><strong>Hình F.12 — Nhà có mái răng cưa</strong></p>
 
@@ -687,23 +700,23 @@ trong đó:
 
 Sự phân bố hệ số $c_\beta$ trên bề mặt trụ tròn khi $\delta = \Delta/d < 5 \times 10^{-4}$ ($\Delta$ xem trong F.19) được thể hiện trên [Hình F.19](#hinh-f_19) ứng với các số Reynolds $Re$ khác nhau ($Re$ tính theo công thức [(F.1)](#formula-f_1)). Giá trị các góc $\beta_{min}$ và $\beta_b$ trên [Hình F.19](#hinh-f_19), cũng như giá trị các hệ số $c_{min}$ và $c_b$ tương ứng với các góc này được nêu trong Bảng F.10.
 
+<a id="hinh-f_18"></a>
+
 <p align="center">
 
-![hinh_f_18](../figures/images/hinh_f_18.png)
+![Hình F.18](../figures/images/hinh_f_18.png)
 
 </p>
-
-<a id="hinh-f_18"></a>
 
 <p align="center"><strong>Hình F.18 — Hệ số khí động của công trình và các cấu kiện kết cấu có bề mặt trụ tròn</strong></p>
 
+<a id="hinh-f_19"></a>
+
 <p align="center">
 
-![hinh_f_19](../figures/images/hinh_f_19.png)
+![Hình F.19](../figures/images/hinh_f_19.png)
 
 </p>
-
-<a id="hinh-f_19"></a>
 
 <p align="center"><strong>Hình F.19 — Sự phân bố hệ số $c_\beta$ trên bề mặt trụ tròn</strong></p>
 
@@ -751,13 +764,13 @@ trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $c_{x\infty}$ là hệ số, lấy theo biểu đồ trên [Hình F.20](#hinh-f_20) phụ thuộc vào số Reynolds $Re$ (xem F.14.4) và độ nhám tương đối $\delta = \Delta/d$ ($\Delta$ là độ nhám bề mặt, xem trong F.19); đối với công trình hình trụ tròn có sườn thì $\Delta$ là chiều cao sườn.
 
+<a id="hinh-f_20"></a>
+
 <p align="center">
 
-![hinh_f_20](../figures/images/hinh_f_20.png)
+![Hình F.20](../figures/images/hinh_f_20.png)
 
 </p>
-
-<a id="hinh-f_20"></a>
 
 <p align="center"><strong>Hình F.20 — Hệ số cx∞</strong></p>
 
@@ -781,9 +794,11 @@ trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $\beta$ là góc giữa trục cấu kiện và hướng gió dọc theo trục x.
 
+<a id="hinh-f_21"></a>
+
 <p align="center">
 
-![hinh_f_21](../figures/images/hinh_f_21.png)
+![Hình F.21](../figures/images/hinh_f_21.png)
 
 </p>
 
@@ -792,8 +807,6 @@ trong đó:
 1 - Cấu kiện;
 
 2 - Hình chiếu của cấu kiện lên mặt phẳng xy.
-
-<a id="hinh-f_21"></a>
 
 <p align="center"><strong>Hình F.21 — Cấu kiện nằm nghiêng</strong></p>
 
@@ -823,13 +836,13 @@ trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $c_{x\infty}$ được lấy theo biểu đồ trên [Hình F.22](#hinh-f_22) đối với tiết diện chữ nhật và theo Bảng F.12 đối với tiết diện n góc và các cấu kiện kết cấu (dạng định hình).
 
+<a id="hinh-f_22"></a>
+
 <p align="center">
 
-![hinh_f_22](../figures/images/hinh_f_22.png)
+![Hình F.22](../figures/images/hinh_f_22.png)
 
 </p>
-
-<a id="hinh-f_22"></a>
 
 <p align="center"><strong>Hình F.22 — Hệ số khí động cản chính diện cx của công trình hình lăng trụ</strong></p>
 
@@ -882,13 +895,13 @@ trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $A_c$ là diện tích bao của kết cấu: $A_c = L \cdot h$ (xem thêm F.17.5).
 
+<a id="hinh-f_23"></a>
+
 <p align="center">
 
-![hinh_f_23](../figures/images/hinh_f_23.png)
+![Hình F.23](../figures/images/hinh_f_23.png)
 
 </p>
-
-<a id="hinh-f_23"></a>
 
 <p align="center"><strong>Hình F.23 — Kết cấu rỗng phẳng đứng độc lập</strong></p>
 
@@ -900,13 +913,13 @@ trong đó:
 
 Đối với giàn làm bằng ống khi $Re < 4 \cdot 10^5$, hệ số $\eta$ được xác định theo Bảng F.13 phụ thuộc vào khoảng cách tương đối giữa các giàn b/h (Hình F.24) và hệ số đặc của giàn φ (xem F.17.5).
 
+<a id="hinh-f_24"></a>
+
 <p align="center">
 
-![hinh_f_24](../figures/images/hinh_f_24.png)
+![Hình F.24](../figures/images/hinh_f_24.png)
 
 </p>
-
-<a id="hinh-f_24"></a>
 
 <p align="center"><strong>Hình F.24 — Dãy kết cấu rỗng phẳng song song nhau</strong></p>
 
@@ -949,13 +962,13 @@ trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $k_1$ là hệ số, lấy theo Bảng F.14.
 
+<a id="hinh-f_25"></a>
+
 <p align="center">
 
-![hinh_f_25](../figures/images/hinh_f_25.png)
+![Hình F.25](../figures/images/hinh_f_25.png)
 
 </p>
-
-<a id="hinh-f_25"></a>
 
 <p align="center"><strong>Hình F.25 — Tháp rỗng và giàn không gian</strong></p>
 
@@ -987,13 +1000,13 @@ trong đó:
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- $A_c$ là diện tích bao của kết cấu (xem [Hình F.26](#hinh-f_26)).
 
+<a id="hinh-f_26"></a>
+
 <p align="center">
 
-![hinh_f_26](../figures/images/hinh_f_26.png)
+![Hình F.26](../figures/images/hinh_f_26.png)
 
 </p>
-
-<a id="hinh-f_26"></a>
 
 <p align="center"><strong>Hình F.26 — Các thông số để xác định hệ số đặc $\varphi$ của giàn</strong></p>
 
@@ -1001,13 +1014,13 @@ trong đó:
 
 Giá trị hệ số $k_\lambda$ phụ thuộc vào độ mảnh hiệu dụng $\lambda_e$ của cấu kiện hoặc công trình được lấy theo biểu đồ trên Hình F.27. Độ mảnh hiệu dụng λe phụ thuộc vào độ mảnh $\lambda$ = L/b và được xác định theo Bảng F.15. Hệ số đặc φ xem F.17.5.
 
+<a id="hinh-f_27"></a>
+
 <p align="center">
 
-![hinh_f_27](../figures/images/hinh_f_27.png)
+![Hình F.27](../figures/images/hinh_f_27.png)
 
 </p>
-
-<a id="hinh-f_27"></a>
 
 <p align="center"><strong>Hình F.27 — Hệ số kλ</strong></p>
 

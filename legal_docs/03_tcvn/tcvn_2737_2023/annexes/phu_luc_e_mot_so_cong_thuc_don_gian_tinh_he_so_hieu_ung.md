@@ -39,16 +39,73 @@ b) Đối với công trình có mặt bằng hình chữ Y: xem [Hình E.1c](#h
 c) Đối với công trình có mặt bằng hình chữ L và chữ Z: xem [Hình E.1e](#hinh-e_1e) và [Hình E.1f](#hinh-e_1f).
 
 
-<a id="hinh-e_1"></a><a id="hinh-e_1a"></a><a id="hinh-e_1b"></a><a id="hinh-e_1c"></a><a id="hinh-e_1d"></a><a id="hinh-e_1e"></a><a id="hinh-e_1f"></a>
+<a id="hinh-e_1"></a><a id="hinh-e_1a"></a>
 
 <p align="center">
 
-![Hình E.1](../figures/images/hinh_e_1.png)
+![Hình E.1a](../figures/images/hinh_e_1a.png)
 
 </p>
 
+<p align="center"><em>a) Mặt bằng công trình hình chữ U</em></p>
+
+
+<a id="hinh-e_1b"></a>
+
+<p align="center">
+
+![Hình E.1b](../figures/images/hinh_e_1b.png)
+
+</p>
+
+<p align="center"><em>b) Mặt bằng công trình hình chữ X</em></p>
+
+
+<a id="hinh-e_1c"></a>
+
+<p align="center">
+
+![Hình E.1c](../figures/images/hinh_e_1c.png)
+
+</p>
+
+<p align="center"><em>c) Mặt bằng công trình hình chữ Y đôi</em></p>
+
+
+<a id="hinh-e_1d"></a>
+
+<p align="center">
+
+![Hình E.1d](../figures/images/hinh_e_1d.png)
+
+</p>
+
+<p align="center"><em>d) Mặt bằng công trình hình chữ Y đơn ($d = \frac{b}{1{,}8}$)</em></p>
+
 <p align="center"><strong>Hình E.1 — Kích thước tương đương cho một số mặt bằng phức tạp của công trình</strong></p>
-<p align="center"><em>a) Mặt bằng công trình hình chữ U &nbsp;|&nbsp; b) Mặt bằng công trình hình chữ X &nbsp;|&nbsp; c) Mặt bằng công trình hình chữ Y đôi &nbsp;|&nbsp; d) Mặt bằng công trình hình chữ Y đơn &nbsp;|&nbsp; e) Mặt bằng công trình hình chữ L &nbsp;|&nbsp; f) Mặt bằng công trình hình chữ Z</em></p>
+
+
+<a id="hinh-e_1e"></a>
+
+<p align="center">
+
+![Hình E.1e](../figures/images/hinh_e_1e.png)
+
+</p>
+
+<p align="center"><em>e) Mặt bằng công trình hình chữ L ($d = \frac{d_1 + d_2}{2}$)</em></p>
+
+
+<a id="hinh-e_1f"></a>
+
+<p align="center">
+
+![Hình E.1f](../figures/images/hinh_e_1f.png)
+
+</p>
+
+<p align="center"><em>f) Mặt bằng công trình hình chữ Z ($d = \frac{d_1 + d_2}{2}$)</em></p>
+
 <p align="center"><strong>Hình E.1 (kết thúc)</strong></p>
 
 _CHÚ THÍCH:_
