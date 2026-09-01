@@ -97,6 +97,8 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 </p>
 
+<p align="center"><em>a) Có tường chắn mái &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Có cạnh bo tròn hoặc cạnh vát góc</em></p>
+
 <p align="center"><strong>Hình F.3 — Mái bằng</strong></p>
 
 <a id="bang-bang-f-2"></a>

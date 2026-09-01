@@ -93,17 +93,22 @@ F.2:
   - F.2
 F.3:
   description: Phân vùng khí động mái bằng (góc dốc alpha <= 5 độ)
+  sub_figures:
+  - a) Có tường chắn mái
+  - b) Có cạnh bo tròn hoặc cạnh vát góc
   parameters:
   - e = min(b, 2h)
-  - hp (chiều cao tường chắn mái parapet)
+  - b (cạnh vuông góc hướng gió)
+  - hp (chiều cao tường chắn mái)
+  - r (bán kính bo tròn)
+  - alpha (góc vát cạnh)
   zones:
   - Vùng F (góc mái e/4 x e/10)
   - Vùng G (dải mép đón gió e/10)
   - Vùng H (dải giữa mái)
   - Vùng I (phần diện tích còn lại)
   related_tables:
-  - F.3a
-  - F.3b
+  - F.2
 F.4:
   description: Phân vùng khí động mái một dốc
   parameters:
