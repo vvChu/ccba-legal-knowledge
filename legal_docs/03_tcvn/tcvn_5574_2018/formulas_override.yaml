@@ -240,7 +240,7 @@ rId429:
   formula_id: F_TCVN_5574_2018_FORMULA_M_2
   latex: f_v = \frac{g(p + p_1 + q)}{30n^2(bp + p_1 + q)}
 rId430:
-  formula_id: F_TCVN_5574_2018_HE_SO_PSI_A1
+  formula_id: F_TCVN_5574_2018_ANNEX_M_4_2_2_HE_SO_PSI_A1
   latex: \psi_{A1} = 0,4 + 0,6\sqrt{A_1 / A}
 rId14:
   formula_id: F_TCVN_5574_2018_FORMULA_8_9_10
@@ -409,7 +409,7 @@ rId100:
   formula_id: F_TCVN_5574_2018_FORMULA_90
   latex: Q_b = \frac{\varphi_{b2} R_{bt} b h_0^2}{C} \tag{90}
 rId113:
-  formula_id: F_TCVN_5574_2018_HE_SO_PHI_B1
+  formula_id: F_TCVN_5574_2018_C8_1_4_3_HE_SO_PHI_B1
   latex: \varphi_{b1} = \begin{cases} 1 + \frac{\sigma_m}{R_b} & \text{khi } 0 \le \sigma_m \le 0,25 R_b \\ 1,25 & \text{khi
     } 0,25 R_b < \sigma_m \le 0,75 R_b \\ 5\left(1 - \frac{\sigma_m}{R_b}\right) & \text{khi } 0,75 R_b < \sigma_m \le R_b
     \\ 1 - \frac{\sigma_t}{2R_{bt}} & \text{khi } 0 < \sigma_t \le R_{bt} \end{cases}
@@ -441,10 +441,10 @@ rId153:
   formula_id: F_TCVN_5574_2018_FORMULA_132
   latex: \frac{F}{F_{b,u} + F_{sw,u}} + \frac{M_x}{M_{bx,u} + M_{swx,u}} + \frac{M_y}{M_{by,u} + M_{swy,u}} \le 1 \tag{132}
 rId152:
-  formula_id: F_TCVN_5574_2018_CHOC_THUNG_MOMEN_DK1
+  formula_id: F_TCVN_5574_2018_C8_1_5_2_CHOC_THUNG_DK1
   latex: \frac{M_x}{M_{bx,u}} + \frac{M_y}{M_{by,u}} \le 0,5 \frac{F}{F_{b,u}}
 rId154:
-  formula_id: F_TCVN_5574_2018_CHOC_THUNG_MOMEN_DK2
+  formula_id: F_TCVN_5574_2018_C8_1_5_3_CHOC_THUNG_DK2
   latex: \frac{M_x}{M_{bx,u} + M_{swx,u}} + \frac{M_y}{M_{by,u} + M_{swy,u}} \le 0,5 \frac{F}{F_{b,u} + F_{sw,u}}
 rId150:
   formula_id: F_TCVN_5574_2018_FORMULA_129
@@ -598,7 +598,7 @@ rId246:
   formula_id: F_TCVN_5574_2018_FORMULA_213
   latex: \Delta \sigma_{sp4} = \frac{\Delta L}{L} E_s \tag{213}
 rId221:
-  formula_id: F_TCVN_5574_2018_RID221
+  formula_id: F_TCVN_5574_2018_C8_2_2_3_4_HAM_LUONG_MU_S
   latex: '\text{trong đó: } \mu_s = \frac{A_s}{bh_0}.'
 rId248:
   formula_id: F_TCVN_5574_2018_FORMULA_215
@@ -745,7 +745,7 @@ rId373:
   formula_id: F_TCVN_5574_2018_FORMULA_H_1
   latex: Q \le 0,8R_b b l_{sub} \sin^2 \theta \left(1 + 5 \alpha \mu_v\right) \tag{H.1}
 rId385:
-  formula_id: F_TCVN_5574_2018_RID385
+  formula_id: F_TCVN_5574_2018_ANNEX_K_2_2_LUC_CAT_LIEN_KET
   latex: 1,4k_l l_w f_{wi} + 0,3Q
 rId386:
   formula_id: F_TCVN_5574_2018_FORMULA_I_1

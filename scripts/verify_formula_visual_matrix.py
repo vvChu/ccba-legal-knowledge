@@ -520,10 +520,27 @@ def _build_html_report(
                 
                 // Tag & ID column
                 let tagHtml = "";
+                let tagBadge = "";
                 if (row.tag) {{
                     tagHtml = `<span class="tag-pill">Công thức (${{row.tag}})</span>`;
+                    tagBadge = `<div class="katex-tag-badge">(${{escapeHtml(row.tag)}})</div>`;
                 }} else {{
-                    tagHtml = `<span class="tag-pill tag-pill-condition">Biểu thức không số hiệu</span>`;
+                    let locLabel = "Biểu thức không số hiệu";
+                    let fid = row.formula_id || "";
+                    let mClause = fid.match(/_C(\d+(?:_\d+)+)_/);
+                    let mAnnex = fid.match(/_ANNEX_([A-Z](?:_\d+)+)_/);
+                    if (mClause) {{
+                        let cNum = mClause[1].replace(/_/g, ".");
+                        locLabel = `Mục ${{cNum}} • Không số hiệu`;
+                        tagBadge = `<div class="katex-tag-badge" style="color: #8b949e; font-size: 13px; font-weight: 500;">(Mục ${{cNum}})</div>`;
+                    }} else if (mAnnex) {{
+                        let aNum = mAnnex[1].replace(/_/g, ".");
+                        locLabel = `Phụ lục ${{aNum}} • Không số hiệu`;
+                        tagBadge = `<div class="katex-tag-badge" style="color: #8b949e; font-size: 13px; font-weight: 500;">(Phụ lục ${{aNum}})</div>`;
+                    }} else {{
+                        tagBadge = `<div class="katex-tag-badge" style="color: #6e7681; font-style: italic; font-weight: normal; font-size: 12px;">(Không số hiệu)</div>`;
+                    }}
+                    tagHtml = `<span class="tag-pill tag-pill-condition">${{locLabel}}</span>`;
                 }}
                 let keyHtml = `<span class="fid-text"><strong>Key:</strong> ${{row.key}}</span>`;
                 let fidHtml = row.formula_id ? `<span class="fid-text">${{row.formula_id}}</span>` : "";
@@ -537,9 +554,6 @@ def _build_html_report(
                 // KaTeX column
                 let rawLatex = row.latex || "";
                 let cleanLatex = rawLatex.replace(/\\\\tag\\{{[^}}]+\\}}/g, "").trim();
-                let tagBadge = row.tag 
-                    ? `<div class="katex-tag-badge">(${{escapeHtml(row.tag)}})</div>` 
-                    : `<div class="katex-tag-badge" style="color: #6e7681; font-style: italic; font-weight: normal; font-size: 12px;">(Không số hiệu)</div>`;
 
                 tr.innerHTML = `
                     <td class="col-id">
