@@ -80,7 +80,9 @@ c) Đối với công trình có mặt bằng hình chữ L và chữ Z: xem [H�
 
 </p>
 
-<p align="center"><em>d) Mặt bằng công trình hình chữ Y đơn ($d = \frac{b}{1{,}8}$)</em></p>
+_CHÚ THÍCH:_ $d = \frac{b}{1{,}8}$.
+
+<p align="center"><strong>d) Mặt bằng công trình hình chữ Y đơn</strong></p>
 
 <p align="center"><strong>Hình E.1 — Kích thước tương đương cho một số mặt bằng phức tạp của công trình</strong></p>
 
@@ -93,7 +95,9 @@ c) Đối với công trình có mặt bằng hình chữ L và chữ Z: xem [H�
 
 </p>
 
-<p align="center"><em>e) Mặt bằng công trình hình chữ L ($d = \frac{d_1 + d_2}{2}$)</em></p>
+_CHÚ THÍCH:_ $d = \frac{d_1 + d_2}{2}$.
+
+<p align="center"><strong>e) Mặt bằng công trình hình chữ L</strong></p>
 
 
 <a id="hinh-e_1f"></a>
@@ -104,14 +108,11 @@ c) Đối với công trình có mặt bằng hình chữ L và chữ Z: xem [H�
 
 </p>
 
-<p align="center"><em>f) Mặt bằng công trình hình chữ Z ($d = \frac{d_1 + d_2}{2}$)</em></p>
+_CHÚ THÍCH:_ $d = \frac{d_1 + d_2}{2}$.
+
+<p align="center"><strong>f) Mặt bằng công trình hình chữ Z</strong></p>
 
 <p align="center"><strong>Hình E.1 (kết thúc)</strong></p>
-
-_CHÚ THÍCH:_
-
-1) Mặt bằng hình chữ Y đơn (Hình E.1d): $d = \frac{b}{1{,}8}$.
-2) Mặt bằng hình chữ L (Hình E.1e) và hình chữ Z (Hình E.1f): $d = \frac{d_1 + d_2}{2}$.
 
 > [!NOTE]
 > **Đặc tả Hình học Quy đổi Mặt bằng Phức tạp (Hình E.1):**
