@@ -862,11 +862,11 @@ trong đó:
 
 <a id="bang-bang-f-12"></a>
 
-**Bảng F.12 — Hệ số cx∞ cho tiết diện n góc và các cấu kiện kết cấu (dạng định hình)**
+**Bảng F.12 — Hệ số $c_{x\infty}$ cho tiết diện $n$ góc và các cấu kiện kết cấu (dạng định hình)**
 
-| Sơ đồ tiết diện và hướng gió | θ,° | n (số cạnh) | cx∞ khi Re > 4.105 |
-| :---: | :--- | :--- | :--- |
-| Đa giác đều | Bất kỳ | 5 | 1,8 |
+| Sơ đồ tiết diện và hướng gió | $\theta$ ($^\circ$) | $n$ (số cạnh) | $c_{x\infty}$ khi $Re > 4 \cdot 10^5$ |
+| :---: | :---: | :---: | :---: |
+| Đa giác đều<br><img src="../figures/images/bang_f_12_so_do.png" width="90" alt="Sơ đồ tiết diện đa giác đều"> | Bất kỳ | 5 | 1,8 |
 | Đa giác đều | Bất kỳ | từ 6 đến 8 | 1,5 |
 | Đa giác đều | Bất kỳ | 10 | 1,2 |
 | Đa giác đều | Bất kỳ | 12 | 1,0 |
