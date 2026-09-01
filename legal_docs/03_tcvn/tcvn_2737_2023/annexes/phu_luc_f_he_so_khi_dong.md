@@ -318,6 +318,8 @@ Hợp lực của các tải trọng hướng vuông góc với mặt phẳng b�
 
 </p>
 
+<p align="center"><em>a) Góc hướng gió θ = 0° &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) Góc hướng gió θ = 90°</em></p>
+
 <p align="center"><strong>Hình F.7 — Mái dốc bốn phía</strong></p>
 
 <a id="bang-bang-f-6"></a>

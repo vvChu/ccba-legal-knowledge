@@ -159,8 +159,12 @@ F.6:
   - F.5b
 F.7:
   description: Phân vùng khí động mái bốn dốc (mái hông / hipped roof)
+  sub_figures:
+  - a) Góc hướng gió theta = 0 độ
+  - b) Góc hướng gió theta = 90 độ
   parameters:
   - e = min(b, 2h)
+  - b (cạnh vuông góc hướng gió)
   - alpha (góc nghiêng mái)
   zones:
   - Vùng F/G (tam giác đón gió)
@@ -168,8 +172,7 @@ F.7:
   - Vùng J/K (mái sau)
   - Vùng M/N (mái hông)
   related_tables:
-  - F.6a
-  - F.6b
+  - F.6
 F.8:
   description: Phân bố hệ số khí động ce trên bề mặt mái vòm và mái gần giống vòm
   parameters:
