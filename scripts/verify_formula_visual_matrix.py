@@ -110,16 +110,30 @@ def generate_formula_audit_report(
         tag_val = tag_match.group(1).strip() if tag_match else ""
 
         if not tag_val:
-            if str(key).isdigit() or re.match(r"^[A-Z]\.\d+$", str(key)):
+            # Check for multiple numbers in latex e.g. \qquad (5) ... \qquad (6)
+            mult_tags = re.findall(r"\\qquad\s*\((\d+[a-z]?|[A-Z]\.\d+)\)", latex)
+            if mult_tags:
+                if len(mult_tags) == 1:
+                    tag_val = mult_tags[0]
+                else:
+                    tag_val = f"{mult_tags[0]}-{mult_tags[-1]}"
+            elif str(key).isdigit() or re.match(r"^[A-Z]\.\d+$", str(key)):
                 tag_val = str(key)
             elif fid and "FORMULA_" in fid:
-                candidate_tag = fid.split("FORMULA_")[-1].replace("_", ".")
-                if candidate_tag.isdigit() or re.match(r"^[A-Z]\.\d+$", candidate_tag):
-                    tag_val = candidate_tag
-            elif str(key).lower().startswith("rid") and fid and "FORMULA_" in fid:
-                candidate_tag = fid.split("FORMULA_")[-1].replace("_", ".")
-                if candidate_tag.isdigit() or re.match(r"^[A-Z]\.\d+$", candidate_tag):
-                    tag_val = candidate_tag
+                raw_tag = fid.split("FORMULA_")[-1]
+                parts = raw_tag.split("_")
+                if all(p.isdigit() for p in parts):
+                    if len(parts) == 1:
+                        tag_val = parts[0]
+                    else:
+                        tag_val = f"{parts[0]}-{parts[-1]}"
+                elif len(parts) >= 2 and len(parts[0]) == 1 and parts[0].isalpha() and all(p.isdigit() for p in parts[1:]):
+                    if len(parts) == 2:
+                        tag_val = f"{parts[0]}.{parts[1]}"
+                    else:
+                        tag_val = f"{parts[0]}.{parts[1]}-{parts[0]}.{parts[-1]}"
+                else:
+                    tag_val = raw_tag.replace("_", ".")
 
         # Find matching image
         img_bytes: bytes | None = None
@@ -167,23 +181,24 @@ def generate_formula_audit_report(
         })
 
     # Sort rows logically (Formula 1, 2, 3... 259, A.1, B.1... then unnumbered rId...)
-    def _sort_key(r: dict[str, Any]) -> tuple[int, int, str]:
+    def _sort_key(r: dict[str, Any]) -> tuple[int, int, int, str]:
         t = r.get("tag", "")
         k = r.get("key", "")
-        if t.isdigit():
-            return (0, int(t), "")
-        if re.match(r"^[A-Z]\.\d+$", t):
-            l, n = t.split(".")
-            return (1, int(n), l)
+        m_num = re.search(r"^(\d+)", t)
+        if m_num:
+            return (0, int(m_num.group(1)), 0, "")
+        m_app = re.search(r"^([A-Z])\.(\d+)", t)
+        if m_app:
+            return (1, ord(m_app.group(1)), int(m_app.group(2)), "")
         if k.isdigit():
-            return (0, int(k), "")
-        if re.match(r"^[A-Z]\.\d+$", k):
-            l, n = k.split(".")
-            return (1, int(n), l)
+            return (0, int(k), 0, "")
+        m_app_k = re.search(r"^([A-Z])\.(\d+)", k)
+        if m_app_k:
+            return (1, ord(m_app_k.group(1)), int(m_app_k.group(2)), "")
         if k.lower().startswith("rid"):
             nums = re.findall(r"\d+", k)
-            return (2, int(nums[0]) if nums else 9999, k)
-        return (3, 9999, k)
+            return (2, int(nums[0]) if nums else 9999, 0, k)
+        return (3, 9999, 0, k)
 
     audit_rows.sort(key=_sort_key)
 
@@ -370,12 +385,27 @@ def _build_html_report(
         }}
         .katex-render-box {{
             background: #0d1117;
-            padding: 12px 16px;
+            padding: 12px 18px;
             border-radius: 6px;
             border: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 16px;
+        }}
+        .katex-math {{
+            flex: 1;
             overflow-x: auto;
+            text-align: center;
             color: #ffffff;
             font-size: 16px;
+        }}
+        .katex-tag-badge {{
+            color: #8b949e;
+            font-weight: 700;
+            font-size: 14px;
+            white-space: nowrap;
+            padding-left: 12px;
         }}
         .tag-pill {{
             display: inline-block;
@@ -485,15 +515,7 @@ def _build_html_report(
                 // KaTeX column
                 let rawLatex = row.latex || "";
                 let cleanLatex = rawLatex.replace(/\\\\tag\\{{[^}}]+\\}}/g, "").trim();
-                let renderLatex = cleanLatex;
-                if (row.tag && !cleanLatex.includes("\\\\tag") && !cleanLatex.includes("\\\\qquad")) {{
-                    let isMultiline = cleanLatex.includes("aligned") || cleanLatex.includes("cases") || cleanLatex.includes("gather");
-                    if (isMultiline) {{
-                        renderLatex = cleanLatex;
-                    }} else {{
-                        renderLatex = cleanLatex + " \\\\tag{" + row.tag + "}";
-                    }}
-                }}
+                let tagBadge = row.tag ? `<div class="katex-tag-badge">(${{escapeHtml(row.tag)}})</div>` : "";
 
                 tr.innerHTML = `
                     <td class="col-id">
@@ -506,7 +528,10 @@ def _build_html_report(
                         ${{imgHtml}}
                     </td>
                     <td class="col-katex">
-                        <div class="katex-render-box" id="katex-${{idx}}"></div>
+                        <div class="katex-render-box">
+                            <div class="katex-math" id="katex-${{idx}}"></div>
+                            ${{tagBadge}}
+                        </div>
                     </td>
                     <td class="col-latex">
                         <code>${{escapeHtml(rawLatex)}}</code>
@@ -517,12 +542,12 @@ def _build_html_report(
                 // Render KaTeX
                 try {{
                     const targetEl = document.getElementById(`katex-${{idx}}`);
-                    katex.render(renderLatex, targetEl, {{
+                    katex.render(cleanLatex, targetEl, {{
                         displayMode: true,
                         throwOnError: false
                     }});
                 }} catch (e) {{
-                    document.getElementById(`katex-${{idx}}`).innerText = renderLatex;
+                    document.getElementById(`katex-${{idx}}`).innerText = cleanLatex;
                 }}
             }});
         }}
