@@ -505,3 +505,11 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
 - **In-Memory Base64 Vision Processing**: Replaced temporary disk file creation (`NamedTemporaryFile`) in `_call_vision_model` with in-memory `io.BytesIO` buffer, cutting disk I/O and latency.
 - **Concurrent Vision Batching & Deduplication**: Uncached formula images are grouped, deduplicated by SHA-256 hash, and dispatched in parallel using `concurrent.futures.ThreadPoolExecutor(max_workers=6)`, reducing cold-run conversion time by 6x–10x.
 - **Universal KaTeX Multiline Tag Safety**: Prevented automatic trailing `\tag{...}` insertion for multiline environments (`aligned`, `cases`, `gather`, `matrix`) to prevent KaTeX rendering conflicts.
+
+---
+
+## 35. Comprehensive Architecture Refactor of `ccba_legal` (ADR 0030 / ADR 0035 / ADR 0038)
+- **Hybrid RAG Performance Optimization**: Pre-calculated query token inverse document frequency ($IDF$) vector outside the document loop, transforming search complexity from $O(Q \cdot D^2)$ to linear $O(Q \cdot D)$.
+- **Cross-Platform Browser Discovery for CDP**: Extracted dynamic browser candidate discovery (`get_browser_executable_path()`) across Windows (`%LOCALAPPDATA%`, `Program Files`, `Edge`, `Brave`), Linux, and macOS, removing hardcoded Chrome executable paths.
+- **In-Memory Table Formatting (Zero Disk Churn)**: Integrated `clean_markdown_tables_and_notes` directly into RAM pipelines (`vbpl_admin.py` and `strategy.py`), completely eliminating post-processing disk re-reads and re-writes in `docx_converter.py`.
+- **Delimiters & AST Point ID Cleanliness**: Corrected OMML matching delimiter mappings for reverse intervals (`]a, b[`) and streamlined Point `node_id` formatting in `ast_parser.py` under strict KISS guidelines.
