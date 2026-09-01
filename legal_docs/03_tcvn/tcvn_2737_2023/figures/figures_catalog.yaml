@@ -223,12 +223,19 @@ figures:
   anchor: hinh-f_9b
   image_relpath: figures/images/hinh_f_9b.png
   has_image: true
-- figure_id: FIG_TCVN2737_F_10
-  tag: F.10
-  title: Nhà có cửa trời dọc nhà và nhà có chiều cao thay đổi
+- figure_id: FIG_TCVN2737_F_10A
+  tag: F.10a
+  title: Nhà có cửa trời dọc nhà
   annex: F
-  anchor: hinh-f_10
-  image_relpath: figures/images/hinh_f_10.png
+  anchor: hinh-f_10a
+  image_relpath: figures/images/hinh_f_10a.png
+  has_image: true
+- figure_id: FIG_TCVN2737_F_10B
+  tag: F.10b
+  title: Nhà có chiều cao thay đổi
+  annex: F
+  anchor: hinh-f_10b
+  image_relpath: figures/images/hinh_f_10b.png
   has_image: true
 - figure_id: FIG_TCVN2737_F_11
   tag: F.11

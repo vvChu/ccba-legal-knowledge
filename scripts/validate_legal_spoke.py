@@ -474,7 +474,7 @@ class LegalSpokeValidator:
                         )
 
     def _check_figures_catalog(self, doc_dir: Path) -> None:
-        """Check figures_catalog.yaml schema and image references."""
+        """Check figures_catalog.yaml schema, image references, and enforce Zero-Orphan Figure Policy (ADR 0036)."""
         figures_dir = doc_dir / "figures"
         if not figures_dir.exists():
             return
@@ -493,6 +493,25 @@ class LegalSpokeValidator:
                         self.errors.append(f"Figure Image Error [{doc_dir.name}]: Image '{img_rel}' does not exist on disk.")
         except (yaml.YAMLError, OSError) as exc:
             self.errors.append(f"Figure Catalog Error [{doc_dir.name}]: Failed to parse figures_catalog.yaml: {exc}")
+
+        # Enforce Zero Orphaned Figures Policy
+        images_dir = figures_dir / "images"
+        if images_dir.exists():
+            hub_src = Path("D:/GitHubProjects/ccba-agent-platform/packages/ccba-legal-intel/src")
+            if hub_src.exists() and str(hub_src) not in sys.path:
+                sys.path.insert(0, str(hub_src))
+            try:
+                from ccba_legal.figure_extractor import scan_and_prune_orphan_figures
+                scan_res = scan_and_prune_orphan_figures(doc_dir, prune=False)
+                orphans = scan_res.get("orphaned", [])
+                if orphans:
+                    sample = ", ".join(orphans[:3])
+                    extra = f" (+{len(orphans)-3} more)" if len(orphans) > 3 else ""
+                    self.errors.append(
+                        f"Orphaned Figure Error [{doc_dir.name}]: Found {len(orphans)} unreferenced image(s) in figures/images/: {sample}{extra}. Run 'python -m ccba_legal clean-images --prune' to clean up."
+                    )
+            except Exception:
+                pass
 
     def validate_visual_parity(self) -> Tuple[int, int]:
         """Gate 9: Validate 100% Visual Parity & Zero Formatting Clutter (ADR 0029 & ADR 0030)."""
