@@ -559,3 +559,27 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Tự động kết hợp tiêu đề đa tầng thành `"Danh mục Cha — Phân nhóm Con"` (ví dụ: `Tường — Vùng K`, `Tường — Vùng L`, `Tường — Vùng M`), đảm bảo dữ liệu thẳng hàng $1:1$ với từng cột.
   4. **Universal KaTeX Subscript Normalizer:**
      - Tự động chuyển đổi các thẻ HTML `<sub>` trong tiêu đề (`c<sub>e</sub>`, `c<sub>x</sub>`, `c<sub>β</sub>`, `k<sub>λ</sub>`) sang KaTeX chuẩn (`$c_e$`, `$c_x$`, `$c_\beta$`, `$k_\lambda$`).
+
+---
+
+## 38. In-Cell Schematic Ingestion, Canonical Figure Ordering & Parser State Machine Recovery
+
+- **Vấn đề Phát Hiện:**
+  1. **Sơ Đồ Nhúng Trực Tiếp Trong Ô Bảng (In-Cell Schematics):** Trong các bảng kỹ thuật (như Bảng F.12, F.14, F.15 TCVN 2737), các ô bên cột trái chỉ chứa sơ đồ tiết diện tháp/giàn, điều kiện biên không gian mà không có text. Converter cũ để ô trống hoặc sinh text phẳng gây mất trực quan và vỡ ma trận bảng.
+  2. **Bố Cục Bảng Bị Kéo Dài Dọc Thay Vì Lưới Ngang:** Bảng F.15 về Độ mảnh hiệu dụng $\lambda_e$ trong Công báo là lưới 4 cột ngang, nhưng trước đó bị dựng thành 4 dòng dọc kéo dài toàn trang.
+  3. **Thoái Hóa Danh Sách Liệt Kê Sau Dấu Hai Chấm (State Machine Regression):** Các mục quy phạm phân nhánh sau câu dẫn `:` (như Mục G.2.4.2, 9.18, 9.19, F.14.2, F.15.6) bị bộ parser rơi state về Paragraph thường, làm mất dấu gạch đầu dòng `\- ` và giữ text phẳng (`hs/150`, `0,85`).
+  4. **Lộn Xộn Trật Tự Khối Hình & Trùng Lặp Chú Thích:** Tiêu đề Hình G.2, G.3 bị đặt phía trên bảng chú dẫn, và dòng sub-caption `<em>a)... b)...</em>` bị in lặp lại dù trong ảnh PNG đã có sẵn nhãn.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **In-Cell Schematic Image Extraction & Horizontal Grid Alignment:**
+     - Trích xuất toàn bộ ảnh sơ đồ trong ô bảng sang `figures/images/bang_X_hY.png` và nhúng bằng `<img src="..." width="..." alt="...">`.
+     - Dựng Bảng F.15 thành Ma trận Lưới 4 Cột Ngang (4-Column Horizontal Grid) chuẩn xác $1:1$ với bản in Công báo gốc.
+     - Bộ quét ảnh hoạt động (`figure_extractor.py`) quét cả cú pháp HTML `<img>` để bảo đảm Zero Orphaned Figures Policy.
+  2. **Canonical Figure Block Ordering & Sub-caption Deduplication:**
+     - Cưỡng chế thứ tự hiển thị chuẩn: `Thẻ Anchor -> Khối Ảnh (![...]) -> CHÚ DẪN -> CHÚ THÍCH -> Tiêu đề Hình`.
+     - Tự động khử trùng lặp các dòng text phụ nếu ảnh sơ đồ đã chứa sẵn nhãn phân nhánh.
+  3. **Parser State Machine Enumeration Recovery:**
+     - Tự động nhận diện các đoạn văn sau `:` có kết thúc bằng `;` hoặc chứa biểu thức tính toán để giữ nguyên cấu trúc danh sách gạch đầu dòng `\- `.
+     - Chuẩn hóa KaTeX toàn diện: `$h_s/150$`, `$h_s/200$`, `$h/500$`, `$f_1/h_s + f_2/L$`, `$1/500$`, `$1/700$`, `$1/300$`.
+  4. **Clean 2D Table & Footnote Compartment Separation:**
+     - Tách biệt hoàn toàn khối `footnotes` và `Ký hiệu` ra khỏi các hàng dữ liệu chính trong CSV và JSON (`tables/csv/bang_G_5.csv`, `tables/json/bang_G_5.json`).
