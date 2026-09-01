@@ -648,17 +648,15 @@ Khi zg < d/2, hệ số $c_x$ cần được tăng lên 1,6 lần.
 
 <a id="muc-f-14-2"></a>
 
-**F.14.2**  Hệ số lực nâng khối cầu cz lấy như sau:
+**F.14.2**  Hệ số lực nâng khối cầu $c_z$ lấy như sau:
 
-khi zg > d/2: cz = 0;
+\- khi $z_g > d/2$: $c_z = 0$;
 
-khi zg < d/2: cz = 0,6.
+\- khi $z_g < d/2$: $c_z = 0{,}6$.
 
 <a id="muc-f-14-3"></a>
 
-**F.14.3**  Độ cao tương đương ze (xem 10.2.4): ze = zg + d/2.
-
-<a id="muc-f-14-4"></a>
+**F.14.3**  Độ cao tương đương $z_e$ (xem [10.2.4](../tcvn_2737_2023.md#muc-10-2-4)): $z_e = z_g + d/2$.
 
 <a id="muc-f-14-4"></a>
 
@@ -826,11 +824,11 @@ trong đó:
 
 <a id="muc-f-15-6"></a>
 
-**F.15.6**  Số Reynold Re được xác định theo công thức (F.1) trong F.14.4, trong đó:
+**F.15.6**  Số Reynold $Re$ được xác định theo công thức [(F.1)](#formula-f_1) trong [F.14.4](#muc-f-14-4), trong đó:
 
-$z_e = 0{,}8h$ - đối với công trình thẳng đứng;
+\- $z_e = 0{,}8h$ — đối với công trình thẳng đứng;
 
-ze lấy bằng khoảng cách từ mặt đất đến trục của công trình - đối với công trình nằm ngang.
+\- $z_e$ lấy bằng khoảng cách từ mặt đất đến trục của công trình — đối với công trình nằm ngang.
 
 ### F.16  Công trình hình lăng trụ và các cấu kiện kết cấu
 

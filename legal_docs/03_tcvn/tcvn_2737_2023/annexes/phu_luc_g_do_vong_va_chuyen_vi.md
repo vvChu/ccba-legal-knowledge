@@ -219,9 +219,9 @@ trong đó:
 
 **G.2.4.2**  Độ võng ngang giới hạn của cột (trụ) nhà khung do tác động của nhiệt khí hậu và lún lấy bằng:
 
-hs/150 - khi tường và tường ngăn bằng gạch, bê tông thạch cao, bê tông cốt thép hay panen treo;
+\- $h_s/150$ — khi tường và tường ngăn bằng gạch, bê tông thạch cao, bê tông cốt thép hay panen treo;
 
-hs/200 - khi tường được ốp bằng đá tự nhiên, tường bằng gạch đất sét nung hoặc bằng kính (vách kính), trong đó hs là chiều cao một tầng, còn đối với nhà một tầng có cầu trục thì hs là chiều cao từ mặt móng đến mặt dưới của dầm đỡ cầu trục.
+\- $h_s/200$ — khi tường được ốp bằng đá tự nhiên, tường bằng gạch đất sét nung hoặc bằng kính (vách kính), trong đó $h_s$ là chiều cao một tầng, còn đối với nhà một tầng có cầu trục thì $h_s$ là chiều cao từ mặt móng đến mặt dưới của dầm đỡ cầu trục.
 
 Khi đó tác động của nhiệt độ cần được lấy không kể đến sự thay đổi nhiệt độ không khí bên ngoài ngày đêm và chênh lệch nhiệt độ do bức xạ mặt trời.
 
