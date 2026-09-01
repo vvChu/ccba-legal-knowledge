@@ -694,6 +694,24 @@ class LegalSpokeValidator:
                             f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {parity_rate:.1f}% (< 98.0%). Missing {len(missing_paras)}/{len(docx_paras)} paragraphs: {sample_miss}"
                         )
 
+                    # Sub-Gate 11.2: Zero-Dropped Regulatory Notes & Annotations Audit (ADR 0039)
+                    missing_notes = []
+                    for idx, p in enumerate(docx_paras, 1):
+                        if re.match(r"^(?:CHÚ\s+THÍCH|CHÚ\s+DẪN|Ghi\s+chú)", p, re.IGNORECASE):
+                            np = re.sub(r"\s+", " ", re.sub(r"[^\w\d\s]", " ", p.lower(), flags=re.UNICODE)).strip()
+                            words = np.split()
+                            kw = [w for w in words if w not in ("chú", "thích", "dẫn", "ghi")]
+                            if kw:
+                                chunk = " ".join(kw[: min(4, len(kw))])
+                                if chunk not in norm_md:
+                                    missing_notes.append((idx, p))
+
+                    if missing_notes:
+                        sample_notes = "; ".join([f"[{i}] {p[:60]}" for i, p in missing_notes[:3]])
+                        self.errors.append(
+                            f"Dropped Regulatory Notes Error [{bundle_dir.name}]: Missing {len(missing_notes)} CHÚ THÍCH/CHÚ DẪN blocks from DOCX (ADR 0039): {sample_notes}"
+                        )
+
     def _check_core_adr_references(self, known_nums: Set[int]) -> None:
         """Check for broken ADR references in core constitution files."""
         for core_f in ["AGENTS.md", "CONTEXT.md", ".md/knowledge/session_learnings.md"]:
