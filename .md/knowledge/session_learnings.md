@@ -482,3 +482,18 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Phải xuất thành comment HTML độc lập hoặc link ảnh Markdown `![...](figures/images/hinh_X.png)`.
   5. **Tự Động Khôi Phục Biến Biến Dạng Bị Mất (`$_{b}$` $\rightarrow$ `$\varepsilon_{b}$`):**
      - Tự động phát hiện các subscript mồ côi (orphaned subscripts) từ font Symbol của Word và điền lại ký tự Hy Lạp $\varepsilon$ cho các dòng điều kiện.
+---
+
+## 33. Multi-Part Figure Ingestion, Bounded Legend Popping & Nested Variable Glossaries (2026-09-01)
+
+- **Bài học Khắc phục Trôi Lệch Hình Ảnh & Danh Sách Điều Khoản Kỹ Thuật (TCVN 5574:2018):**
+  1. **Hình Mẫu Sơ Đồ Nhiều Phần / Đa Trang (Multi-Part / Multi-Page Figure Stitching):**
+     - Các hình vẽ sơ đồ kỹ thuật lớn (như Hình 15) thường trải dài qua 2 trang trong PDF và gồm 2 ảnh riêng biệt (`image98.png` cho 15a/15b ở trang 83, `image99.png` cho 15c/15d ở trang 84) kết thúc bằng dòng `Hình X (kết thúc)`.
+     - `figure_extractor.py` tự động nhận diện phạm vi đa phần và ghép nối (stitch) theo chiều dọc thành 1 tấm ảnh `hinh_15.png` duy nhất, sắc nét và đầy đủ $100\%$ các sơ đồ con.
+     - Dòng `Hình X (kết thúc)` được định dạng thành tiêu đề kết thúc nhẹ nhàng `<p align="center"><strong>Hình X (kết thúc)</strong></p>`, không sinh thẻ hình rỗng hay gây trôi lệch thứ tự ảnh các hình kế tiếp (Hình 16, 17).
+  2. **Ranh Giới Bất Biến Khi Thu Thập Chú Dẫn Hình Vẽ (Strict Legend Popping Boundary Invariant):**
+     - Trong `figure_handler.py`, vòng lặp pop ngược `parts_buf` để gom khối `CHÚ DẪN:` bắt buộc phải **dừng lại ngay lập tức** khi chạm vào dòng tiêu đề `**CHÚ DẪN:**` hoặc `**CHÚ THÍCH:**`.
+     - Tuyệt đối không tiếp tục pop lấn sang các gạch đầu dòng `\- ` của điều khoản quy phạm phía trên (ví dụ: các gạch đầu dòng của Mục 8.1.5.2 và Mục 8.1.5.4).
+  3. **Ưu Tiên Máy Trạng Thái Cho Khối Giải Thích Biến Số Lồng Nhau (Nested Level-2 Variable Glossaries):**
+     - Nhánh nhận diện từ khóa `trong đó:`, `với:`, `ở đây:` trong `state_manager.py` bắt buộc phải đặt **trước** nhánh xử lý trạng thái `IN_TRONG_DO`.
+     - Điều này đảm bảo khi gặp `trong đó:` cấp 2 lồng bên trong một khối giải thích biến số đã có, từ khóa `trong đó:` luôn được xuất nguyên bản dạng văn bản phẳng (`EMIT_DIRECT`), không bao giờ bị gán nhầm thành mục bullet biến số `&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:`.
