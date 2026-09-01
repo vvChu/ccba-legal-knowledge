@@ -32,11 +32,11 @@ trong đó:
 
 Đối với một số công trình có mặt bằng phức tạp dạng chữ U, X, Y, Z, L thì kích thước tương đương của mặt bằng công trình có thể được xác định như đối với công trình có mặt bằng hình chữ nhật trên cơ sở kích thước của hình chữ nhật tương đương:
 
-\- a) Đối với công trình có mặt bằng hình chữ U và X: xem [Hình E.1a](#hinh-e_1a) và [Hình E.1b](#hinh-e_1b);
+a) Đối với công trình có mặt bằng hình chữ U và X: xem [Hình E.1a](#hinh-e_1a) và [Hình E.1b](#hinh-e_1b);
 
-\- b) Đối với công trình có mặt bằng hình chữ Y: xem [Hình E.1c](#hinh-e_1c) và [Hình E.1d](#hinh-e_1d);
+b) Đối với công trình có mặt bằng hình chữ Y: xem [Hình E.1c](#hinh-e_1c) và [Hình E.1d](#hinh-e_1d);
 
-\- c) Đối với công trình có mặt bằng hình chữ L và chữ Z: xem [Hình E.1e](#hinh-e_1e) và [Hình E.1f](#hinh-e_1f).
+c) Đối với công trình có mặt bằng hình chữ L và chữ Z: xem [Hình E.1e](#hinh-e_1e) và [Hình E.1f](#hinh-e_1f).
 
 
 <a id="hinh-e_1"></a><a id="hinh-e_1a"></a><a id="hinh-e_1b"></a><a id="hinh-e_1c"></a><a id="hinh-e_1d"></a><a id="hinh-e_1e"></a><a id="hinh-e_1f"></a>

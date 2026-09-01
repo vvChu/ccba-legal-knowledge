@@ -1033,19 +1033,19 @@ Tùy theo sự gia công bề mặt kết cấu và vật liệu dùng để ch�
 
 <a id="bang-bang-f-16"></a>
 
-**Bảng F.16 — Độ nhám Δ của bề mặt kết cấu**
+**Bảng F.16 — Độ nhám $\Delta$ của bề mặt kết cấu**
 
-Đơn vị tính bằng mét
+*Đơn vị tính bằng mét (m)*
 
 | Loại bề mặt | Độ nhám $\Delta$ (m) |
-| :---: | :--- |
-| 1. Kính | 1,5·10-6 |
-| 2. Vật liệu được đánh bóng | 2·10-6 |
-| 3. Sơn dầu mịn | 6·10-6 |
-| 4. Sơn phun | 2·10-5 |
-| 5. Gang đúc | 2·10-4 |
-| 6. Thép mạ kẽm | 2·10-4 |
-| 7. Bê tông mài | 2·10-4 |
-| 8. Bê tông nhám | 10-3 |
-| 9. Gỉ sét | 2·10-3 |
-| 10. Khối xây (gạch, đá) | 3·10-3 |
+| :--- | :---: |
+| 1. Kính | $1{,}5 \times 10^{-6}$ |
+| 2. Vật liệu được đánh bóng | $2 \times 10^{-6}$ |
+| 3. Sơn dầu mịn | $6 \times 10^{-6}$ |
+| 4. Sơn phun | $2 \times 10^{-5}$ |
+| 5. Gang đúc | $2 \times 10^{-4}$ |
+| 6. Thép mạ kẽm | $2 \times 10^{-4}$ |
+| 7. Bê tông mài | $2 \times 10^{-4}$ |
+| 8. Bê tông nhám | $10^{-3}$ |
+| 9. Gỉ sét | $2 \times 10^{-3}$ |
+| 10. Khối xây (gạch, đá) | $3 \times 10^{-3}$ |

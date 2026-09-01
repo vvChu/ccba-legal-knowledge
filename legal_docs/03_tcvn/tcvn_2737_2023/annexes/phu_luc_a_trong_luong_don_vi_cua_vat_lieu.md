@@ -9,7 +9,7 @@
 <a id="bang-bang-a-1"></a>
 **Bảng A.1 — Trọng lượng đơn vị của một số vật liệu**
 
-*Đơn vị tính bằng kilôniutơn trên mét khối ($	ext{kN/m}^3$)*
+*Đơn vị tính bằng kilôniutơn trên mét khối $(\text{kN/m}^3)$*
 
 | STT | Vật liệu | Giá trị |
 | :---: | :--- | :---: |

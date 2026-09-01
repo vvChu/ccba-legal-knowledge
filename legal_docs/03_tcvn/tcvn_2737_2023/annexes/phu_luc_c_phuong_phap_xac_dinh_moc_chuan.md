@@ -5,11 +5,11 @@
 <a id="muc-c-1"></a>
 **C.1**  Khi xác định hệ số $k(z_e)$ theo công thức (12), nếu mặt đất xung quanh nhà và công trình không bằng phẳng thì độ cao tương đương $z_e$ được xác định thông qua độ cao $z$ (xem [10.2.4](../tcvn_2737_2023.md#muc-10-2-4)) và $z$ được xác định như sau:
 
-\- a) Trường hợp mặt đất có độ dốc nhỏ so với phương nằm ngang $i \le 0{,}3$, độ cao $z$ được tính từ mặt đất (mốc chuẩn) đặt nhà và công trình tới điểm cần xét.
+a) Trường hợp mặt đất có độ dốc nhỏ so với phương nằm ngang $i \le 0{,}3$, độ cao $z$ được tính từ mặt đất (mốc chuẩn) đặt nhà và công trình tới điểm cần xét.
 
-\- b) Trường hợp mặt đất có độ dốc $0{,}3 < i < 2$, độ cao $z$ được tính từ mặt cao độ công trình quy ước $z_0$ (mốc chuẩn) (xem [Hình C.1a](#hinh-c_1a)) thấp hơn so với mặt đất thực tới điểm cần xét.
+b) Trường hợp mặt đất có độ dốc $0{,}3 < i < 2$, độ cao $z$ được tính từ mặt cao độ công trình quy ước $z_0$ (mốc chuẩn) (xem [Hình C.1a](#hinh-c_1a)) thấp hơn so với mặt đất thực tới điểm cần xét.
 
-\- c) Trường hợp mặt đất có độ dốc lớn $i \ge 2$, mặt cao độ công trình quy ước $z_0$ (mốc chuẩn) để tính độ cao $z$ thấp hơn mặt đất thực được xác định theo [Hình C.1b](#hinh-c_1b).
+c) Trường hợp mặt đất có độ dốc lớn $i \ge 2$, mặt cao độ công trình quy ước $z_0$ (mốc chuẩn) để tính độ cao $z$ thấp hơn mặt đất thực được xác định theo [Hình C.1b](#hinh-c_1b).
 
 
 <a id="hinh-c_1"></a><a id="hinh-c_1a"></a><a id="hinh-c_1b"></a>
