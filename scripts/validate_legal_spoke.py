@@ -372,7 +372,7 @@ class LegalSpokeValidator:
             "check_hub_import_depth.py", "check_spoke_cleanliness.py", "safe_pytest.py",
             "lint_visual_parity.py", "query_hub_catalog.py", "analyze_gate_audit.py",
             "sync_adr_matrix.py", "validate_adr_parity.py", "setup_pre_commit.py",
-            "modernize_annex_engine.py",
+            "modernize_annex_engine.py", "verify_formula_visual_matrix.py",
         }
 
         py_files = list(scripts_dir.glob("*.py"))
