@@ -90,8 +90,32 @@ def generate_formula_audit_report(
                         "next_text": next_text,
                         "fnum": detected_fnum,
                     }
-                    if detected_fnum:
+                    if detected_fnum and rid not in fnum_to_rids[detected_fnum]:
                         fnum_to_rids[detected_fnum].append(rid)
+
+    # Scan tables to find rId mappings in 1x2 formula tables
+    for t_idx, t in enumerate(doc.tables):
+        for row in t.rows:
+            row_text = " ".join(c.text.strip() for c in row.cells)
+            f_num_match = re.search(r"\((\d+[a-z]?|[A-Z]\.\d+)\)", row_text)
+            detected_fnum = f_num_match.group(1) if f_num_match else ""
+
+            for c in row.cells:
+                rids = re.findall(r'r:(?:id|embed)="([^"]+)"', c._tc.xml)
+                for rid in rids:
+                    if rid in rels:
+                        target = rels[rid].target_ref
+                        if target.startswith("media/image"):
+                            rid_to_context[rid] = {
+                                "p_idx": f"table_{t_idx}",
+                                "target_media": target,
+                                "p_text": row_text,
+                                "prev_text": "",
+                                "next_text": "",
+                                "fnum": detected_fnum,
+                            }
+                            if detected_fnum and rid not in fnum_to_rids[detected_fnum]:
+                                fnum_to_rids[detected_fnum].append(rid)
 
     # Build formula audit rows
     audit_rows: list[dict[str, Any]] = []
@@ -642,13 +666,16 @@ def main() -> None:
     parser.add_argument(
         "--output",
         "-o",
-        default=".md/reports/formula_audit_tcvn_5574.html",
-        help="Path to output HTML report.",
+        default=None,
+        help="Path to output HTML report (defaults to .md/reports/formula_audit_{bundle_name}.html).",
     )
     args = parser.parse_args()
 
     bundle_dir = Path(args.bundle)
-    output_html = Path(args.output)
+    if args.output:
+        output_html = Path(args.output)
+    else:
+        output_html = Path(f".md/reports/formula_audit_{bundle_dir.name}.html")
 
     print("=================================================================")
     print("      CCBA FORMULA VISUAL MATRIX & ANOMALY AUDITOR               ")

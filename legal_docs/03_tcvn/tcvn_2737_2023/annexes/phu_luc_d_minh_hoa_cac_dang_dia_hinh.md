@@ -10,7 +10,9 @@
 
 </p>
 
-<p align="center"><strong>Hình D.1 — Hình ảnh minh họa các dạng địa hình A, B, C</strong></p>
+<p align="center"><strong>Hình D.1 — Hình ảnh minh họa địa hình dạng A</strong></p>
+<p align="center"><strong>Hình D.2 — Hình ảnh minh họa địa hình dạng B</strong></p>
+<p align="center"><strong>Hình D.3 — Hình ảnh minh họa địa hình dạng C</strong></p>
 
 _CHÚ THÍCH:_
 

@@ -48,6 +48,8 @@ trong đó:
 </p>
 
 <p align="center"><strong>Hình E.1 — Kích thước tương đương cho một số mặt bằng phức tạp của công trình</strong></p>
+<p align="center"><em>a) Mặt bằng công trình hình chữ U &nbsp;|&nbsp; b) Mặt bằng công trình hình chữ X &nbsp;|&nbsp; c) Mặt bằng công trình hình chữ Y đôi &nbsp;|&nbsp; d) Mặt bằng công trình hình chữ Y đơn &nbsp;|&nbsp; e) Mặt bằng công trình hình chữ L &nbsp;|&nbsp; f) Mặt bằng công trình hình chữ Z</em></p>
+<p align="center"><strong>Hình E.1 (kết thúc)</strong></p>
 
 _CHÚ THÍCH:_
 

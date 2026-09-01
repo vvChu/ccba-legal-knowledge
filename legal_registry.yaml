@@ -852,7 +852,7 @@ standards:
   effective_date: '2023-06-29'
   status: active
   bundle_path: legal_docs/03_tcvn/tcvn_2737_2023/
-  source_file: .md/extracted_docs/tcvn_2737_2023/tcvn_2737_2023.docx
+  source_file: legal_docs/03_tcvn/tcvn_2737_2023/sources/tcvn_2737_2023.docx
   source_file_size_kb: 5957.2
   sha256: ae8d99a6e567d1f9864487bc7b9e0158ce0d3a7ee90677b42db8f1b9fccda6b5
   pdf_path: legal_docs/03_tcvn/tcvn_2737_2023/sources/tcvn_2737_2023.pdf
