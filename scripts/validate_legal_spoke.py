@@ -11,6 +11,8 @@ Validates:
 8. Template 2D structural integrity & uncollapsing (ADR 0021, ADR 0030).
 9. 100% Visual Parity (ADR 0029, ADR 0030).
 10. ADR Living Traceability & Self-Healing Sync Gate.
+11. DOCX-to-Markdown Verbatim Normative Parity Gate (ADR 0037).
+12. Multimodal Decoupled Asset & SVG/Cards Integrity Gate (ADR 0040).
 """
 
 import json
@@ -373,6 +375,7 @@ class LegalSpokeValidator:
             "lint_visual_parity.py", "query_hub_catalog.py", "analyze_gate_audit.py",
             "sync_adr_matrix.py", "validate_adr_parity.py", "setup_pre_commit.py",
             "modernize_annex_engine.py", "verify_formula_visual_matrix.py",
+            "sync_expansion_roadmap.py",
         }
 
         py_files = list(scripts_dir.glob("*.py"))
@@ -497,9 +500,6 @@ class LegalSpokeValidator:
         # Enforce Zero Orphaned Figures Policy
         images_dir = figures_dir / "images"
         if images_dir.exists():
-            hub_src = Path("D:/GitHubProjects/ccba-agent-platform/packages/ccba-legal-intel/src")
-            if hub_src.exists() and str(hub_src) not in sys.path:
-                sys.path.insert(0, str(hub_src))
             try:
                 from ccba_legal.figure_extractor import scan_and_prune_orphan_figures
                 scan_res = scan_and_prune_orphan_figures(doc_dir, prune=False)
@@ -563,6 +563,7 @@ class LegalSpokeValidator:
                         known_nums.add(int(m.group(1)))
 
         self._sync_adr_artifacts(adr_dir, adr_list)
+        self._sync_expansion_roadmap()
         self._lint_session_learnings(self.root_dir / ".md" / "knowledge" / "session_learnings.md")
         self._check_core_adr_references(known_nums)
 
@@ -571,12 +572,27 @@ class LegalSpokeValidator:
     def _sync_adr_artifacts(self, adr_dir: Path, adr_list: List[Dict[str, Any]]) -> None:
         """Auto-compile README.md and TRACEABILITY_MATRIX.md for ADRs."""
         try:
-            from sync_adr_matrix import compile_adr_readme, compile_traceability_matrix, scan_skill_radar
+            try:
+                from sync_adr_matrix import compile_adr_readme, compile_traceability_matrix, scan_skill_radar
+            except ImportError:
+                from scripts.sync_adr_matrix import compile_adr_readme, compile_traceability_matrix, scan_skill_radar
+
             compile_adr_readme(adr_list, adr_dir / "README.md")
             matrix = scan_skill_radar(adr_list, self.root_dir)
             compile_traceability_matrix(adr_list, matrix, adr_dir / "TRACEABILITY_MATRIX.md")
         except (ImportError, OSError) as exc:
             self.errors.append(f"ADR Sync Error: Failed to compile ADR artifacts: {exc}")
+
+    def _sync_expansion_roadmap(self) -> None:
+        """Auto-sync living legal knowledge expansion roadmap."""
+        try:
+            try:
+                from sync_expansion_roadmap import sync_roadmap
+            except ImportError:
+                from scripts.sync_expansion_roadmap import sync_roadmap
+            sync_roadmap()
+        except Exception as exc:
+            self.warnings.append(f"Roadmap Sync Warning: Failed to sync expansion roadmap: {exc}")
 
     def _lint_session_learnings(self, session_file: Path) -> None:
         """Sanitize numbered headers and check KaTeX display math tags in session_learnings.md."""
@@ -608,10 +624,6 @@ class LegalSpokeValidator:
 
     def validate_docx_to_markdown_verbatim_parity(self) -> None:
         """Gate 11: Enforce 100% Verbatim Normative Text Parity between sources/*.docx and bundle Markdown files."""
-        hub_src = Path("D:/GitHubProjects/ccba-agent-platform/packages/ccba-legal-intel/src")
-        if hub_src.exists() and str(hub_src) not in sys.path:
-            sys.path.insert(0, str(hub_src))
-
         try:
             from ccba_legal.provenance import verify_bundle_docx_vs_markdown
         except ImportError:
@@ -712,6 +724,103 @@ class LegalSpokeValidator:
                             f"Dropped Regulatory Notes Error [{bundle_dir.name}]: Missing {len(missing_notes)} CHÚ THÍCH/CHÚ DẪN blocks from DOCX (ADR 0039): {sample_notes}"
                         )
 
+    def validate_multimodal_assets_and_cards_gate(self) -> None:
+        """Gate 12: Multimodal Decoupled Asset & SVG/Cards Integrity Gate (ADR 0040).
+
+        Enforces:
+        1. Zero stray unviewable vector binaries (.wmf / .emf) in figures/images.
+        2. Strict catalog-to-card 1:1 parity and disk asset existence.
+        3. Curve/Chart Ground Truth attribution & mutual cross-check integrity.
+        """
+        if not self.legal_docs_dir.exists():
+            return
+
+        for category_dir in self.legal_docs_dir.iterdir():
+            if not category_dir.is_dir():
+                continue
+            for bundle_dir in category_dir.iterdir():
+                if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
+                    continue
+
+                figures_dir = bundle_dir / "figures"
+                if not figures_dir.exists():
+                    continue
+
+                # 1. Zero stray WMF/EMF in figures/images
+                images_dir = figures_dir / "images"
+                if images_dir.exists():
+                    for f in images_dir.iterdir():
+                        if f.suffix.lower() in (".wmf", ".emf"):
+                            self.errors.append(
+                                f"Stray Vector Binary Error [{bundle_dir.name}]: Found unviewable vector binary "
+                                f"'{f.name}' in figures/images/. Must be converted to SVG or PNG (ADR 0040)."
+                            )
+
+                # 2. Catalog & Cards validation
+                catalog_f = figures_dir / "figures_catalog.yaml"
+                cards_dir = figures_dir / "cards"
+                if catalog_f.exists():
+                    try:
+                        cat_data = yaml.safe_load(catalog_f.read_text(encoding="utf-8")) or {}
+                        fig_list = cat_data.get("figures", [])
+                        registered_slugs = set()
+                        for fig in fig_list:
+                            tag = str(fig.get("tag") or fig.get("id") or "").replace("hinh_", "")
+                            raw_slug = str(fig.get("slug") or fig.get("id") or tag).lower().replace(".", "_").replace("-", "_")
+                            slug = raw_slug[5:] if raw_slug.startswith("hinh_") else raw_slug
+                            registered_slugs.add(slug)
+
+                            # Check image existence
+                            img_rel = fig.get("image_relpath") or fig.get("path")
+                            if img_rel:
+                                img_path = bundle_dir / img_rel
+                                if not img_path.exists():
+                                    self.errors.append(
+                                        f"Missing Figure Image [{bundle_dir.name}]: "
+                                        f"Figure '{tag}' references non-existent image '{img_rel}' (ADR 0040)."
+                                    )
+
+                            # Check visual card existence (supports Markdown cards and JSON cards)
+                            card_path = cards_dir / f"hinh_{slug}.md"
+                            json_card_candidates = list(cards_dir.glob(f"fig_{slug}_*.json")) if cards_dir.exists() else []
+                            if not card_path.exists() and not json_card_candidates:
+                                self.errors.append(
+                                    f"Missing Figure Card [{bundle_dir.name}]: "
+                                    f"Figure '{tag}' is missing visual card at 'figures/cards/hinh_{slug}.md' (ADR 0040)."
+                                )
+                            else:
+                                card_txt = self._safe_read_text(card_path) or ""
+                                if f"Hình {tag}" not in card_txt and tag not in card_txt:
+                                    self.warnings.append(
+                                        f"Figure Card Mismatch [{bundle_dir.name}]: "
+                                        f"Card 'hinh_{slug}.md' does not mention 'Hình {tag}'."
+                                    )
+
+                            # Check chart/curve attribution (Mutual Cross-Check)
+                            is_chart = fig.get("is_chart", False) or fig.get("type") == "chart"
+                            if is_chart:
+                                related_tables = fig.get("related_tables", [])
+                                conf_status = fig.get("confidence_status", "")
+                                if not related_tables and conf_status != "ESTIMATED_BY_VISION":
+                                    self.errors.append(
+                                        f"Chart Attribution Error [{bundle_dir.name}]: Figure '{tag}' is classified as a chart/curve "
+                                        f"but lacks ground-truth 'related_tables' or 'ESTIMATED_BY_VISION' disclaimer (ADR 0040)."
+                                    )
+
+                        # Check for orphaned cards
+                        if cards_dir.exists():
+                            for card_f in cards_dir.glob("*.md"):
+                                c_slug = card_f.stem.replace("hinh_", "")
+                                if c_slug not in registered_slugs:
+                                    self.warnings.append(
+                                        f"Unregistered Figure Card [{bundle_dir.name}]: "
+                                        f"Card '{card_f.name}' is not registered in figures_catalog.yaml."
+                                    )
+                    except Exception as exc:
+                        self.errors.append(
+                            f"Figures Catalog Error [{bundle_dir.name}]: Failed to parse figures_catalog.yaml: {exc}"
+                        )
+
     def _check_core_adr_references(self, known_nums: Set[int]) -> None:
         """Check for broken ADR references in core constitution files."""
         for core_f in ["AGENTS.md", "CONTEXT.md", ".md/knowledge/session_learnings.md"]:
@@ -742,6 +851,7 @@ class LegalSpokeValidator:
         self.validate_visual_parity()
         self.validate_adr_parity_and_sync()
         self.validate_docx_to_markdown_verbatim_parity()
+        self.validate_multimodal_assets_and_cards_gate()
 
         for i, name in enumerate([
             "Registry Check", "OKF Bundles Structure Check", "Table Attachments Check",
@@ -749,6 +859,7 @@ class LegalSpokeValidator:
             "Pure Normative Body & Scoped Noise Gate Check", "Spoke Cleanliness & Zero-Wrapper Gate",
             "Template & Table Structural Integrity Gate", "Visual Parity & Formatting Clutter Gate",
             "ADR Living Traceability & Self-Healing Sync", "DOCX-to-Markdown Verbatim Normative Parity Gate",
+            "Multimodal Decoupled Asset & SVG/Cards Integrity Gate (ADR 0040)",
         ], 1):
             print(f"-> Gate {i}: {name} completed.")
 

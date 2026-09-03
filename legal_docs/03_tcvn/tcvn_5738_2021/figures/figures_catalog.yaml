@@ -1,15 +1,12 @@
 standard: TCVN 5738:2021
-total_figures: 4
+total_figures: 3
 figures:
   - id: hinh_1
     path: figures/images/hinh_1.png
-    title: Hình 1
+    title: Hình 1 - Phương pháp xác định vị trí lắp đặt các đầu báo cháy trên nhà mái dốc
   - id: hinh_2
     path: figures/images/hinh_2.png
-    title: Hình 2
+    title: Hình 2 - Phương pháp xác định vị trí lắp đặt các đầu báo cháy trên nhà mái đỉnh chữ A
   - id: hinh_3
     path: figures/images/hinh_3.png
-    title: Hình 3
-  - id: hinh_4
-    path: figures/images/hinh_4.png
-    title: Hình 4
+    title: Hình 3 - Phương pháp xác định vị trí lắp đặt các đầu báo cháy gần tường hoặc trên tường nhà

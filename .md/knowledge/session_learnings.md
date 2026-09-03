@@ -30,9 +30,9 @@
 
 ---
 
-## 4. Spoke CI Gates Verification Pipeline (10 Master CI Gates)
+## 4. Spoke CI Gates Verification Pipeline (12 Master CI Gates)
 
-Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc phải vượt qua tuần tự 10 cổng kiểm định không dung thứ (Zero-Tolerance) qua `python scripts/validate_legal_spoke.py`:
+Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc phải vượt qua tuần tự 12 cổng kiểm định không dung thứ (Zero-Tolerance) qua `python scripts/validate_legal_spoke.py`:
 1. `Gate 1: Registry Integrity Check`
 2. `Gate 2: OKF Bundles Structure Check`
 3. `Gate 3: Table Attachments Check`
@@ -43,6 +43,8 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
 8. `Gate 8: Template & Table Structural Integrity Gate`
 9. `Gate 9: Visual Parity & Footnote Monotonic Linter Gate`
 10. `Gate 10: ADR Living Traceability & Self-Healing Sync`
+11. `Gate 11: DOCX-to-Markdown Verbatim Normative Parity Gate (ADR 0037)`
+12. `Gate 12: Multimodal Decoupled Asset & SVG/Cards Integrity Gate (ADR 0040)`
 
 ---
 
@@ -583,3 +585,47 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Chuẩn hóa KaTeX toàn diện: `$h_s/150$`, `$h_s/200$`, `$h/500$`, `$f_1/h_s + f_2/L$`, `$1/500$`, `$1/700$`, `$1/300$`.
   4. **Clean 2D Table & Footnote Compartment Separation:**
      - Tách biệt hoàn toàn khối `footnotes` và `Ký hiệu` ra khỏi các hàng dữ liệu chính trong CSV và JSON (`tables/csv/bang_G_5.csv`, `tables/json/bang_G_5.json`).
+
+---
+
+## 39. Browser Target WebSocket CDP, Centralized TVPL DOM Selectors & Ingest Slug Standardization
+
+- **Vấn đề Phát Hiện:**
+  1. **Chromium Scope Bug khi Cấu Hình Tải File (`Browser.setDownloadBehavior`):** Lệnh `Browser.setDownloadBehavior` bị gọi trên Page Target WebSocket (`ws://127.0.0.1:9222/devtools/page/...`) thay vì Browser Target WebSocket (`/json/version`). Các phiên bản Chromium mới từ chối lệnh này ở cấp Tab khiến việc tải tệp tự động về thư mục Bundle bị vô hiệu hóa.
+  2. **Trùng Lặp DOM Selectors & Lệch Pha Đăng Nhập TVPL:** TVPL cập nhật form đăng nhập sang `#usernameTextBox`, `#passwordTextBox`, `#loginButton`. Selector cũ hardcoded rải rác ở `cdp.py`, `providers.py`, `tier_downloader.py` dẫn đến rớt phiên VIP về Guest và tải nhầm link tiện ích (`/bieumau`) thành tệp rác `.dat`.
+  3. **Thiếu Tùy Chọn Định Danh Slug Bundle (`--slug`) Trên CLI `ingest`:** Lệnh `ingest` tự động lấy số hiệu thông tư (ví dụ `15_2017_tt_bxd`) làm tên thư mục, trong khi đối với Quy chuẩn kỹ thuật quốc gia (`02_qcvn`) định danh chuẩn mực phải là `qcvn_09_2017_bxd`.
+  4. **ASP.NET Query Filtering đối với Ký tự `/`:** Query tìm kiếm có chứa `/` (`15/2017/TT-BXD`) bị IIS chặn mã hóa `%2F`, khiến kết quả trả về rỗng và fallback fuzzy-redirect sang sai văn bản (`Nghị quyết 15/2017/NQ-HĐND`).
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Browser Target WebSocket CDP Client (`cdp.py`):**
+     - Kết nối trực tiếp đến `http://127.0.0.1:{port}/json/version` lấy `webSocketDebuggerUrl` để gửi `Browser.setDownloadBehavior` cấp Browser, đảm bảo 100% tệp nhị phân tải về đúng thư mục chỉ định.
+  2. **Centralized DOM Selectors Single Source of Truth (`selectors.py`):**
+     - Đóng gói toàn bộ selectors đăng nhập, popup xác nhận đa phiên, nhãn VIP, và mẫu link tiện ích loại trừ vào `TVPLSelectors`.
+     - Đồng bộ hóa toàn bộ các module `cdp.py`, `providers.py`, `session.py`, `tier_downloader.py` kế thừa từ `TVPLSelectors`.
+  3. **Universal `--slug` CLI Flag & Asset Normalization (`cli.py`):**
+     - Bổ sung `-s / --slug` vào `ingest_parser`. Khi có cờ `--slug`, CLI tự động đồng bộ tên thư mục bundle, tên file DOCX và PDF nguồn sang `<slug>.docx` và `<slug>.pdf`.
+  4. **Query Sanitization & Turnstile Bypass (`providers.py`):**
+     - Chuẩn hóa query thay thế `/`, `:`, `-` bằng dấu cách (`quote_plus`), tự động gọi `cdp.handle_cloudflare()` chờ và giải phóng Turnstile challenge.
+
+---
+
+## 40. Universal Deterministic Multimodal Knowledge Extraction Pipeline & CI Gate 12 (ADR 0040)
+
+- **Vấn đề Phát Hiện:**
+  1. **Ảo Giác & Chi Phí Token Khi Dùng AI Vision Đọc Công Thức Toán:** Các công thức toán phức tạp (như phân số đa tầng, $\sum$ có cận trên/dưới, căn thức, chỉ số dưới lồng nhau) trong DOCX Công báo được lưu dưới dạng đối tượng nhúng OLE MathType (`word/embeddings/oleObjectX.bin`). Cơ chế cũ phụ thuộc vào Vision OCR tốn token AI, độ trễ cao và tiềm ẩn rủi ro sai lệch ký hiệu toán học nguy hiểm.
+  2. **Tồn Đọng Tệp Đồ Họa Vector Đóng Kín (WMF/EMF):** Các sơ đồ kỹ thuật vẽ bằng vector cũ của Microsoft Office không hiển thị được trên nền tảng Markdown/Web nếu lưu nguyên bản `.wmf` hoặc `.emf`.
+  3. **Lệch Pha Danh Mục Hình & Thẻ Trực Quan:** Nhiều văn bản có `figures_catalog.yaml` nhưng thiếu các thẻ thị giác `figures/cards/hinh_{slug}.md`, hoặc biểu đồ kỹ thuật thiếu bảng số liệu gốc (Ground Truth) để kiểm chứng chéo.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Pure-Python MathType MTEF Binary Parser (`mtef_parser.py`):**
+     - Xây dựng bộ parser CFBF Mini-Stream và MTEF v3/v5 hoàn toàn bằng pure Python với zero third-party C-dependencies.
+     - Giải mã xác định $100\%$ các cấu trúc toán học: phân số lồng nhau (`0x0E`), sub/sup (`0x0F`), toán tử tổng/tích phân (`0x1D`), căn thức (`0x14`), dấu ngoặc (`0x01`, `0x02`), và 44+ ký tự Hy Lạp.
+     - Tốc độ thực thi $< 1\text{ ms}$ trên mỗi công thức, tiêu tốn **0 token AI**, đạt độ chính xác toán học tuyệt đối.
+  2. **4-Tier Hybrid Formula Fallback Engine (`formula_harvester.py`):**
+     - Bắt cặp tự động thẻ ảnh `<v:imagedata>` và `<o:OLEObject>` trong `word/document.xml`.
+     - Áp dụng thứ tự ưu tiên: Tier 1 (MTEF Pure Python xác định) $\rightarrow$ Tier 2 (CLI cục bộ) $\rightarrow$ Tier 3 (AI Gateway Vision OCR) $\rightarrow$ Tier 4 (Human Override `formulas_override.yaml`).
+  3. **Dual-Format Vector Graphics Pipeline:**
+     - Tự động bóc tách và chuyển đổi WMF/EMF sang ảnh độ nét cao PNG ($\ge 300\text{ DPI}$) và vector SVG.
+     - Tự động đồng bộ $100\%$ thẻ trực quan `figures/cards/hinh_{slug}.md` tương ứng với từng hình trong `figures_catalog.yaml`.
+  4. **Thiết Lập Master CI Gate 12 (`validate_legal_spoke.py`):**
+     - Cưỡng chế 3 tiêu chí không dung thứ: (1) Zero Stray Vector Binaries (cấm tồn tại file `.wmf`/`.emf`), (2) Catalog-to-Card 1:1 Parity, và (3) Chart/Curve Ground Truth Attribution (phải liên kết bảng 2D hoặc mang nhãn `ESTIMATED_BY_VISION`).

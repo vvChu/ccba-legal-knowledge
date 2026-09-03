@@ -6,7 +6,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 
 ---
 
-## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0039)
+## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0040)
 
 ### Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.4 Universal & Biểu Mẫu
 | Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
@@ -68,3 +68,4 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | :--- | :--- | :---: | :---: |
 | [ADR 0038](0038-universal-katex-mathematical-syntax-integrity.md) | Chuẩn Hóa Cú Pháp KaTeX Toàn Cầu & Bóc Tách Khối Công Thức Độc Lập (Universal KaTeX Mathematical Syntax Integrity) | ✅ ACCEPTED | 2026-08-31 |
 | [ADR 0039](0039-universal-high-fidelity-diagram-extraction-and-annotation-governance.md) | Bóc Tách Sơ Đồ Đồ Họa Độ Nét Cao & Bảo Tồn Tuyệt Đối Chú Thích Kẹp Giữa (Universal High-Fidelity Diagram Extraction & Annotation Governance) | ✅ ACCEPTED | 2026-09-01 |
+| [ADR 0040](0040-universal-deterministic-multimodal-extraction-pipeline.md) | Quy Trình Bóc Tách Đa Phương Thức Xác Định Toàn Cầu (Universal Deterministic Multimodal Extraction Pipeline) | ✅ ACCEPTED | 2026-09-03 |

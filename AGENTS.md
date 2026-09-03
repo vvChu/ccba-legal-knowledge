@@ -22,6 +22,7 @@
 9. **Bảo Tồn Nguyên Văn Quy Phạm 100% (Verbatim Normative Invariant - ADR 0037):** Nghiêm cấm mọi hành vi tóm tắt, diễn đạt lại hoặc rút gọn thân văn bản quy phạm. Thân Markdown bắt buộc phải được trích xuất xác định $1:1$ từ DOCX Công báo gốc và vượt qua Gate 11 DOCX-to-Markdown Verbatim Parity (Parity Rate $\ge 98.0\%$).
 10. **Chuẩn Hóa Cú Pháp Toán Học KaTeX Toàn Cầu (Universal KaTeX Syntax Integrity - ADR 0038):** Quét và trích xuất nguyên bản 100% công thức MathType độc lập từ DOCX sang KaTeX; Cô lập ranh giới từ Regex, bảo toàn tuyệt đối cặp ngoặc `\left[` / `\right]`; Dùng `\qquad (X)` trong các môi trường đa dòng (`aligned`, `cases`, `gather`) thay cho `\tag{...}` để đảm bảo không sinh lỗi bôi đỏ; Tách rời hoàn toàn chú thích hình ảnh `<!-- FIGURE: ... -->` ra khỏi khối `$$`.
 11. **Bóc Tách Sơ Đồ Đồ Họa Độ Nét Cao & Bảo Tồn Tuyệt Đối Chú Thích Kẹp Giữa (ADR 0039):** Quét và trích xuất text/công thức từ bảng bố cục không viền; Bảo tồn $100\%$ các đoạn `CHÚ THÍCH` và `CHÚ DẪN` kẹp giữa ảnh và tiêu đề hình; Xếp dọc đa tầng (Vertical Stack) với lề an toàn $\ge 40\text{ px}$ cho hình có nhiều sơ đồ con; Quy chuẩn toàn bộ chỉ số dưới trong tiêu đề sang KaTeX; Bắt buộc vượt qua Sub-Gate 11.2 Zero-Dropped Regulatory Notes.
+12. **Bóc Tách Tri Thức Đa Phương Thức Xác Định & Khử Tệp Đóng Kín (Universal Deterministic Multimodal Extraction & Zero-Closed-Binary Invariant - ADR 0040):** Bóc tách xác định 100% công thức MathType nhị phân (MTEF v3/v5) từ OLE stream mà không qua OCR hay tốn AI token; Áp dụng cơ chế 4-Tier Hybrid Formula Fallback Engine; Đồ họa vector WMF/EMF bắt buộc chuyển đổi sang Dual-Format (SVG và PNG $\ge 300\text{ DPI}$), nghiêm cấm lưu trữ file `.wmf`/`.emf` đóng kín; Tự động đồng bộ thẻ thị giác `figures/cards/hinh_{slug}.md` $1:1$ với `figures_catalog.yaml`; Bắt buộc vượt qua Gate 12 Multimodal Decoupled Asset & SVG/Cards Integrity Gate.
 
 ---
 
@@ -56,5 +57,5 @@ python -m ccba_legal consolidate `
 ```powershell
 python scripts/validate_legal_spoke.py
 ```
-*Tự động thực thi toàn bộ 11 Cổng kiểm định tuần tự (Registry, OKF Bundles, Table Attachments, Fake Data, PDF Metadata, Pure Body, Cleanliness, Atomic Templates, Visual Parity, Self-Healing ADR Traceability, và DOCX-to-Markdown Verbatim Parity).*
-*Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Visual Parity, 100% Verbatim Match, 100% Valid Links, 100% PDF SHA-256 Match`.
+*Tự động thực thi toàn bộ 12 Cổng kiểm định tuần tự (Registry, OKF Bundles, Table Attachments, Fake Data, PDF Metadata, Pure Body, Cleanliness, Atomic Templates, Visual Parity, Self-Healing ADR Traceability, DOCX-to-Markdown Verbatim Parity, và Multimodal Decoupled Asset & SVG/Cards Integrity).*
+*Tiêu chuẩn nghiệm thu:* `0 Errors, 0 Warnings, 100% Visual Parity, 100% Verbatim Match, 100% Valid Links, 100% PDF SHA-256 Match, 100% SVG/Cards Integrity`.
