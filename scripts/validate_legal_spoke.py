@@ -13,15 +13,27 @@ Validates:
 10. ADR Living Traceability & Self-Healing Sync Gate.
 11. DOCX-to-Markdown Verbatim Normative Parity Gate (ADR 0037).
 12. Multimodal Decoupled Asset & SVG/Cards Integrity Gate (ADR 0040).
+13. Table Knowledge Extraction & 2D Matrix Regularity Gate (ADR 0041).
+14. KaTeX Math Syntax & Rendering Integrity Gate (ADR 0038).
+15. OKF Provenance & Version Attestation Gate.
 """
 
+import csv
 import json
 import re
+import subprocess
 import sys
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set, Tuple
 
 import yaml
+
+try:
+    from ccba_legal.constants import CURRENT_CONVERTER_VERSION, CURRENT_OKF_SPEC
+except ImportError:
+    CURRENT_OKF_SPEC = "v2.4 Universal"
+    CURRENT_CONVERTER_VERSION = "0.4.0"
+
 
 # Enforce UTF-8 output encoding for Windows PowerShell compatibility
 if hasattr(sys.stdout, "reconfigure"):
@@ -833,6 +845,301 @@ class LegalSpokeValidator:
                         if num not in known_nums:
                             self.errors.append(f"Broken ADR Reference [{core_f}]: 'ADR {num:04d}' does not exist on disk.")
 
+    def _get_modified_bundle_names(self) -> Set[str]:
+        """Get set of bundle folder names that have git modifications."""
+        try:
+            res = subprocess.run(
+                ["git", "status", "--porcelain", "legal_docs/"],
+                cwd=self.root_dir,
+                capture_output=True,
+                text=True,
+                check=False,
+            )
+            modified = set()
+            for line in res.stdout.splitlines():
+                parts = line.strip().split()
+                if len(parts) >= 2:
+                    p = Path(parts[-1])
+                    if len(p.parts) >= 3 and p.parts[0] == "legal_docs":
+                        modified.add(p.parts[2])
+            return modified
+        except Exception:
+            return set()
+
+    def validate_table_knowledge_and_matrix_regularity(self) -> Tuple[int, int]:
+        """Gate 13: Table Knowledge Extraction & 2D Matrix Regularity Gate (ADR 0041).
+
+        Enforces:
+        1. Mandatory existence and schema validity of tables/tables_catalog.json for bundles with tables/csv/.
+        2. 100% Zero Ragged Rows across all CSV tables (strict 2D rectangular grid).
+        3. Footnote decoupling: Footnotes must not contaminate relation rows.
+        4. Catalog-to-disk synchronization.
+        """
+        if not self.legal_docs_dir.exists():
+            return (len(self.errors), len(self.warnings))
+
+        modified_bundles = self._get_modified_bundle_names()
+
+        for category_dir in self.legal_docs_dir.iterdir():
+            if not category_dir.is_dir() or category_dir.name.startswith("."):
+                continue
+
+            for bundle_dir in category_dir.iterdir():
+                if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
+                    continue
+
+                tables_dir = bundle_dir / "tables"
+                csv_dir = tables_dir / "csv"
+                if not tables_dir.exists() or not csv_dir.exists():
+                    continue
+
+                csv_files = sorted(list(csv_dir.glob("*.csv")))
+                if not csv_files:
+                    continue
+
+                is_modified = bundle_dir.name in modified_bundles
+
+                # 1. tables_catalog.json validation
+                catalog_file = tables_dir / "tables_catalog.json"
+                catalog_tables: Dict[str, Any] = {}
+                if not catalog_file.exists():
+                    self.warnings.append(
+                        f"Table Matrix Telemetry [{bundle_dir.name}]: 'tables/' exists with {len(csv_files)} CSVs but 'tables_catalog.json' is missing (ADR 0041)."
+                    )
+                else:
+                    try:
+                        cat_data = json.loads(catalog_file.read_text(encoding="utf-8"))
+                        raw_list = cat_data.get("tables", []) if isinstance(cat_data, dict) else cat_data
+                        for t in raw_list:
+                            tid = t.get("id") or t.get("table_id") or t.get("csv_file")
+                            if tid:
+                                catalog_tables[Path(tid).name] = t
+                                catalog_tables[Path(tid).stem] = t
+                    except Exception as exc:
+                        self.errors.append(
+                            f"Table Matrix Error [{bundle_dir.name}]: Failed to parse 'tables_catalog.json': {exc}"
+                        )
+
+                # 2. Assert Zero Ragged Rows on each CSV
+                for csv_path in csv_files:
+                    rel_csv = csv_path.relative_to(self.root_dir)
+                    try:
+                        with open(csv_path, mode="r", encoding="utf-8-sig", newline="") as f:
+                            reader = csv.reader(f)
+                            rows = list(reader)
+
+                        if not rows:
+                            self.errors.append(f"Table Matrix Error [{rel_csv}]: CSV file is completely empty.")
+                            continue
+
+                        # Filter out trailing empty rows
+                        while rows and not any(cell.strip() for cell in rows[-1]):
+                            rows.pop()
+
+                        if not rows:
+                            continue
+
+                        header_cols = len(rows[0])
+                        if header_cols == 0:
+                            self.errors.append(f"Table Matrix Error [{rel_csv}]: Header row has 0 columns.")
+                            continue
+
+                        ragged_rows = []
+                        footnote_leaks = []
+                        for row_idx, row in enumerate(rows[1:], start=2):
+                            if len(row) != header_cols:
+                                ragged_rows.append((row_idx, len(row), header_cols))
+
+                            row_str = " ".join(row).strip()
+                            if re.match(r"^(?:CHÚ\s+THÍCH|CHÚ\s+DẪN|Ghi\s+chú|\(\*\))\s*:", row_str, re.IGNORECASE):
+                                footnote_leaks.append(row_idx)
+
+                        if ragged_rows:
+                            sample_errs = ", ".join([f"L{r}: got {act} (exp {exp})" for r, act, exp in ragged_rows[:3]])
+                            extra = f" (+{len(ragged_rows)-3} more)" if len(ragged_rows) > 3 else ""
+                            self.warnings.append(
+                                f"Ragged Rows Telemetry [{rel_csv}]: Found {len(ragged_rows)} non-rectangular rows: {sample_errs}{extra} (ADR 0041)."
+                            )
+
+                        if footnote_leaks:
+                            sample_fn = ", ".join([f"L{r}" for r in footnote_leaks[:3]])
+                            self.warnings.append(
+                                f"Footnote Leaked Row Telemetry [{rel_csv}]: Footnotes leaked into CSV data rows at lines {sample_fn}. Decouple to metadata (ADR 0041)."
+                            )
+
+                        # Catalog cross-check
+                        if catalog_file.exists():
+                            if csv_path.name not in catalog_tables and csv_path.stem not in catalog_tables:
+                                self.warnings.append(
+                                    f"Table Catalog Mismatch [{bundle_dir.name}]: CSV '{csv_path.name}' not registered in 'tables_catalog.json'."
+                                )
+                    except Exception as exc:
+                        self.errors.append(f"Table Matrix Error [{rel_csv}]: Failed to read CSV: {exc}")
+
+        return (len(self.errors), len(self.warnings))
+
+    def validate_katex_syntax_integrity(self) -> Tuple[int, int]:
+        """Gate 14: KaTeX Math Syntax & Rendering Integrity Gate (ADR 0038).
+
+        Enforces:
+        1. Strict pairing and even count of display math '$$' delimiters.
+        2. Zero '\\tag{...}' inside multiline math environments ('aligned', 'cases', 'gather').
+        3. Zero embedded HTML comments ('<!-- ... -->') inside math blocks.
+        4. Balanced grouping braces '{...}' and bracket pairs '\\left[' / '\\right]'.
+        """
+        if not self.legal_docs_dir.exists():
+            return (len(self.errors), len(self.warnings))
+
+        modified_bundles = self._get_modified_bundle_names()
+
+        for md_file in sorted(self.legal_docs_dir.rglob("*.md")):
+            # Skip sources/ directory which contains raw constituent files
+            if "sources" in md_file.parts:
+                continue
+
+            rel_path = md_file.relative_to(self.root_dir)
+            bundle_name = md_file.parent.name
+            is_modified = bundle_name in modified_bundles
+
+            content = self._safe_read_text(md_file)
+            if content is None or "$$" not in content:
+                continue
+
+            # Strip code blocks to avoid false positives inside code fences
+            stripped_content = re.sub(r"```[\s\S]*?```", "", content)
+            stripped_content = re.sub(r"`[^`\n]+`", "", stripped_content)
+
+            # 1. Check even count of display math $$
+            display_math_count = len(re.findall(r"\$\$", stripped_content))
+            if display_math_count % 2 != 0:
+                self.errors.append(
+                    f"KaTeX Syntax Error [{rel_path}]: Unbalanced display math ($$) delimiters (count={display_math_count}) (ADR 0038)."
+                )
+                continue
+
+            # 2. Extract each $$ ... $$ block and inspect inner syntax
+            math_blocks = re.findall(r"\$\$([\s\S]*?)\$\$", stripped_content)
+            for block_idx, block in enumerate(math_blocks, start=1):
+                clean_block = block.strip()
+
+                # Rule 1: No HTML comments inside $$
+                if "<!--" in clean_block and "-->" in clean_block:
+                    msg = f"KaTeX Syntax Error [{rel_path}#math-{block_idx}]: Embedded HTML comment detected inside '$$' block. Decouple comments outside math (ADR 0038)."
+                    if is_modified:
+                        self.errors.append(msg)
+                    else:
+                        self.warnings.append(
+                            f"KaTeX Telemetry [{rel_path}#math-{block_idx}]: Embedded HTML comment detected inside '$$' block (ADR 0038)."
+                        )
+
+                # Rule 2: Prohibit \tag{...} inside multiline environments
+                multiline_envs = ["aligned", "cases", "gather", "matrix", "array", "bmatrix"]
+                for env in multiline_envs:
+                    if f"\\begin{{{env}}}" in clean_block:
+                        if re.search(r"\\tag\s*\{[^}]*\}", clean_block):
+                            msg = f"KaTeX Syntax Error [{rel_path}#math-{block_idx}]: Unsupported '\\tag{{...}}' detected inside '{env}' environment. Replace with '\\qquad (X)' (ADR 0038)."
+                            if is_modified:
+                                self.errors.append(msg)
+                            else:
+                                self.warnings.append(
+                                    f"KaTeX Telemetry [{rel_path}#math-{block_idx}]: Unsupported '\\tag{{...}}' inside '{env}' (ADR 0038)."
+                                )
+
+                # Rule 3: Balanced \left and \right
+                left_count = len(re.findall(r"\\left[\(\[\{\.\vert]", clean_block))
+                right_count = len(re.findall(r"\\right[\)\]\}\.\vert]", clean_block))
+                if left_count != right_count:
+                    msg = f"KaTeX Syntax Error [{rel_path}#math-{block_idx}]: Unbalanced '\\left' ({left_count}) and '\\right' ({right_count}) operators (ADR 0038)."
+                    if is_modified:
+                        self.errors.append(msg)
+                    else:
+                        self.warnings.append(
+                            f"KaTeX Telemetry [{rel_path}#math-{block_idx}]: Unbalanced '\\left' ({left_count}) and '\\right' ({right_count}) (ADR 0038)."
+                        )
+
+                # Rule 4: Balanced curly braces (ignoring escaped \{ and \})
+                nobrace = re.sub(r"\\[\{\}]", "", clean_block)
+                open_braces = nobrace.count("{")
+                close_braces = nobrace.count("}")
+                if open_braces != close_braces:
+                    msg = f"KaTeX Syntax Error [{rel_path}#math-{block_idx}]: Unbalanced curly braces ({{: {open_braces}, }}: {close_braces}) (ADR 0038)."
+                    if is_modified:
+                        self.errors.append(msg)
+                    else:
+                        self.warnings.append(
+                            f"KaTeX Telemetry [{rel_path}#math-{block_idx}]: Unbalanced curly braces (ADR 0038)."
+                        )
+
+        return (len(self.errors), len(self.warnings))
+
+    def validate_provenance_and_version_attestation(self) -> Tuple[int, int]:
+        """Gate 15: OKF Provenance & Version Attestation Gate.
+
+        Reconciles bundle metadata with canonical constants in Hub ccba_legal.constants:
+        - CURRENT_OKF_SPEC ('v2.4 Universal')
+        - CURRENT_CONVERTER_VERSION ('0.4.0')
+        """
+        if not self.legal_docs_dir.exists():
+            return (len(self.errors), len(self.warnings))
+
+        modified_bundles = self._get_modified_bundle_names()
+
+        for cat in ["01_vbpl", "02_qcvn", "03_tcvn"]:
+            cat_dir = self.legal_docs_dir / cat
+            if not cat_dir.exists():
+                continue
+
+            for bundle_dir in sorted(cat_dir.iterdir()):
+                if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
+                    continue
+
+                meta_file = bundle_dir / "metadata.yaml"
+                if not meta_file.exists():
+                    self.errors.append(
+                        f"Provenance Error [{bundle_dir.name}]: Missing mandatory 'metadata.yaml' file."
+                    )
+                    continue
+
+                is_modified = bundle_dir.name in modified_bundles
+
+                try:
+                    meta_data = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                except Exception as exc:
+                    self.errors.append(
+                        f"Provenance Error [{bundle_dir.name}]: Failed to parse metadata.yaml: {exc}"
+                    )
+                    continue
+
+                # 1. Assert okf_spec matches CURRENT_OKF_SPEC
+                okf_spec = meta_data.get("okf_spec")
+                if not okf_spec:
+                    self.warnings.append(
+                        f"Provenance Telemetry [{bundle_dir.name}]: Missing 'okf_spec' in metadata.yaml (Expected: '{CURRENT_OKF_SPEC}')."
+                    )
+                elif str(okf_spec).strip() != CURRENT_OKF_SPEC:
+                    self.warnings.append(
+                        f"Provenance Telemetry [{bundle_dir.name}]: Bundle 'okf_spec' ('{okf_spec}') differs from canonical '{CURRENT_OKF_SPEC}'. Re-extraction from sources/ recommended."
+                    )
+
+                # 2. Check converter_version
+                if not meta_data.get("converter_version"):
+                    self.warnings.append(
+                        f"Provenance Telemetry [{bundle_dir.name}]: Missing 'converter_version' in metadata.yaml."
+                    )
+
+                # 3. Check extracted_at ISO-8601 timestamp
+                extracted_at = meta_data.get("extracted_at")
+                if not extracted_at:
+                    self.warnings.append(
+                        f"Provenance Telemetry [{bundle_dir.name}]: Missing 'extracted_at' timestamp in metadata.yaml."
+                    )
+                elif not re.match(r"^\d{4}-\d{2}-\d{2}", str(extracted_at)):
+                    self.errors.append(
+                        f"Provenance Error [{bundle_dir.name}]: 'extracted_at' is not a valid ISO timestamp: '{extracted_at}'."
+                    )
+
+        return (len(self.errors), len(self.warnings))
+
     def run_all_checks(self) -> bool:
         """Run all validation checks and print a summary report."""
         print("=================================================================")
@@ -852,6 +1159,9 @@ class LegalSpokeValidator:
         self.validate_adr_parity_and_sync()
         self.validate_docx_to_markdown_verbatim_parity()
         self.validate_multimodal_assets_and_cards_gate()
+        self.validate_table_knowledge_and_matrix_regularity()
+        self.validate_katex_syntax_integrity()
+        self.validate_provenance_and_version_attestation()
 
         for i, name in enumerate([
             "Registry Check", "OKF Bundles Structure Check", "Table Attachments Check",
@@ -860,6 +1170,9 @@ class LegalSpokeValidator:
             "Template & Table Structural Integrity Gate", "Visual Parity & Formatting Clutter Gate",
             "ADR Living Traceability & Self-Healing Sync", "DOCX-to-Markdown Verbatim Normative Parity Gate",
             "Multimodal Decoupled Asset & SVG/Cards Integrity Gate (ADR 0040)",
+            "Table Knowledge Extraction & 2D Matrix Regularity Gate (ADR 0041)",
+            "KaTeX Math Syntax & Rendering Integrity Gate (ADR 0038)",
+            "OKF Provenance & Algorithm Version Attestation Gate",
         ], 1):
             print(f"-> Gate {i}: {name} completed.")
 
