@@ -541,18 +541,46 @@ class LegalSpokeValidator:
         # Enforce Zero Orphaned Figures Policy
         images_dir = figures_dir / "images"
         if images_dir.exists():
+            orphans: List[str] = []
             try:
                 from ccba_legal.figure_extractor import scan_and_prune_orphan_figures
                 scan_res = scan_and_prune_orphan_figures(doc_dir, prune=False)
                 orphans = scan_res.get("orphaned", [])
-                if orphans:
-                    sample = ", ".join(orphans[:3])
-                    extra = f" (+{len(orphans)-3} more)" if len(orphans) > 3 else ""
-                    self.errors.append(
-                        f"Orphaned Figure Error [{doc_dir.name}]: Found {len(orphans)} unreferenced image(s) in figures/images/: {sample}{extra}. Run 'python -m ccba_legal clean-images --prune' to clean up."
-                    )
             except Exception:
-                pass
+                # Standalone fallback: Scan references across Markdown, Cards, and figures_catalog.yaml
+                all_images = {p.name for p in images_dir.glob("*.*") if p.is_file()}
+                referenced: Set[str] = set()
+                # 1. In markdown files
+                for md_file in doc_dir.rglob("*.md"):
+                    if "sources" not in md_file.parts:
+                        txt = self._safe_read_text(md_file) or ""
+                        for m in re.findall(r"!\[[^\]]*\]\([^)]*images/([^)\s]+)\)", txt):
+                            referenced.add(Path(m).name)
+                        for m in re.findall(r"<img\b[^>]*src=[\"'][^\"']*images/([^\"'\s>]+)[\"']", txt, re.IGNORECASE):
+                            referenced.add(Path(m).name)
+                # 2. In cards/*.md and cards/*.json
+                cards_dir = figures_dir / "cards"
+                if cards_dir.exists():
+                    for card_f in list(cards_dir.glob("*.md")) + list(cards_dir.glob("*.json")):
+                        txt = self._safe_read_text(card_f) or ""
+                        for m in re.findall(r'"image":\s*"([^"]+)"', txt):
+                            referenced.add(Path(m).name)
+                        for m in re.findall(r"!\[[^\]]*\]\([^)]*images/([^)\s]+)\)", txt):
+                            referenced.add(Path(m).name)
+                # 3. In figures_catalog.yaml
+                cat_file = figures_dir / "figures_catalog.yaml"
+                if cat_file.exists():
+                    txt = self._safe_read_text(cat_file) or ""
+                    for m in re.findall(r"image_relpath:\s*[\"']?figures/images/([^\s\"']+)[\"']?", txt):
+                        referenced.add(Path(m).name)
+                orphans = sorted(list(all_images - referenced))
+
+            if orphans:
+                sample = ", ".join(orphans[:3])
+                extra = f" (+{len(orphans)-3} more)" if len(orphans) > 3 else ""
+                self.errors.append(
+                    f"Orphaned Figure Error [{doc_dir.name}]: Found {len(orphans)} unreferenced image(s) in figures/images/: {sample}{extra}. Run 'python -m ccba_legal clean-images --prune' to clean up."
+                )
 
     def validate_visual_parity(self) -> Tuple[int, int]:
         """Gate 9: Validate 100% Visual Parity & Zero Formatting Clutter (ADR 0029 & ADR 0030)."""
@@ -811,7 +839,7 @@ class LegalSpokeValidator:
                             slug = raw_slug[5:] if raw_slug.startswith("hinh_") else raw_slug
                             registered_slugs.add(slug)
 
-                            # Check image existence
+                            # Check image existence & non-zero byte integrity
                             img_rel = fig.get("image_relpath") or fig.get("path")
                             if img_rel:
                                 img_path = bundle_dir / img_rel
@@ -819,6 +847,11 @@ class LegalSpokeValidator:
                                     self.errors.append(
                                         f"Missing Figure Image [{bundle_dir.name}]: "
                                         f"Figure '{tag}' references non-existent image '{img_rel}' (ADR 0040)."
+                                    )
+                                elif img_path.stat().st_size == 0:
+                                    self.errors.append(
+                                        f"Zero-Byte Figure Image [{bundle_dir.name}]: "
+                                        f"Figure '{tag}' references empty/corrupted image '{img_rel}' (0 bytes) (ADR 0040)."
                                     )
 
                             # Check visual card existence (supports Markdown cards and JSON cards)
