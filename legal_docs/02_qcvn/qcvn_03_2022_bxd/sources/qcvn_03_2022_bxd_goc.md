@@ -63,7 +63,7 @@ Trong quy chuẩn này, các thuật ngữ, định nghĩa dưới đây đượ
 
 ### 2.1. Cấp hậu quả của công trình
 
-2.1.1. Cấp hậu quả của công trình được phân thành ba cấp: C1 (thấp), C2 (trung bình) và C3 (cao), được quy định tại [Phụ lục A](../annexes/phu_luc_a_cap_hau_qua_cong_trinh.md) của quy chuẩn này và được xác định trong nhiệm vụ thiết kế xây dựng công trình.
+2.1.1. Cấp hậu quả của công trình được phân thành ba cấp: C1 (thấp), C2 (trung bình) và C3 (cao), được quy định tại [Phụ lục A](../annexes/phu_luc_a_cap_hau_qua_cua_cong_trinh_xay_dung.md) của quy chuẩn này và được xác định trong nhiệm vụ thiết kế xây dựng công trình.
 
 2.1.2. Kết cấu và nền của công trình cần được thiết kế tương ứng với cấp hậu quả của công trình quy định tại quy chuẩn này theo các tiêu chuẩn thiết kế được lựa chọn áp dụng.
 
@@ -79,7 +79,7 @@ Trong quy chuẩn này, các thuật ngữ, định nghĩa dưới đây đượ
 
 | Mức | Thời hạn sử dụng theo thiết kế của công trình 1) | Công trình |
 | :--- | :--- | :--- |
-| **1** | Nhỏ hơn 25 năm | Công trình quy định tại A.2, [Phụ lục A](../annexes/phu_luc_a_cap_hau_qua_cong_trinh.md) của quy chuẩn này. |
+| **1** | Nhỏ hơn 25 năm | Công trình quy định tại A.2, [Phụ lục A](../annexes/phu_luc_a_cap_hau_qua_cua_cong_trinh_xay_dung.md) của quy chuẩn này. |
 | **2** | Không nhỏ hơn 25 năm | Công trình chịu tác động trực tiếp của môi trường xâm thực mạnh 2) (hóa chất, môi trường biển), trừ công trình tạm. |
 | **3** | Không nhỏ hơn 50 năm | Các công trình dân dụng, công nghiệp, hạ tầng kỹ thuật và các công trình dạng nhà khác không thuộc các mức 1, 2 và 4 trong bảng này. |
 | **4** | Không nhỏ hơn 100 năm | Nhà và công trình độc đáo, có giá trị kiến trúc hoặc mang ý nghĩa biểu tượng quan trọng (Bảo tàng quốc gia, nhà lưu giữ hiện vật quốc gia, sân vận động thi đấu cấp quốc gia hoặc quốc tế, nhà hát quốc gia, công trình điểm nhấn có kiến trúc độc đáo tại các địa phương và các công trình tương tự). |

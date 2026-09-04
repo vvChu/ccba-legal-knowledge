@@ -1,0 +1,45 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Thời hạn sử dụng theo thiết kế của công trình",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Mức",
+    "Thời hạn sử dụng theo thiết kế của công trình 1)",
+    "Công trình",
+    "Công trình"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mức": "1",
+      "Thời hạn sử dụng theo thiết kế của công trình 1)": "Nhỏ hơn 25 năm",
+      "Công trình": "Công trình quy định tại A.2, Phụ lục A của quy chuẩn này."
+    },
+    {
+      "_row_id": 2,
+      "Mức": "2",
+      "Thời hạn sử dụng theo thiết kế của công trình 1)": "Không nhỏ hơn 25 năm",
+      "Công trình": "Công trình chịu tác động trực tiếp của môi trường xâm thực mạnh 2) (hóa chất, môi trường biển), trừ công trình tạm."
+    },
+    {
+      "_row_id": 3,
+      "Mức": "3",
+      "Thời hạn sử dụng theo thiết kế của công trình 1)": "Không nhỏ hơn 50 năm",
+      "Công trình": "Các công trình dân dụng, công nghiệp, hạ tầng kỹ thuật và các công trình dạng nhà khác không thuộc các mức 1, 2 và 4 trong bảng này."
+    },
+    {
+      "_row_id": 4,
+      "Mức": "4",
+      "Thời hạn sử dụng theo thiết kế của công trình 1)": "Không nhỏ hơn 100 năm",
+      "Công trình": "Nhà và công trình độc đáo, có giá trị kiến trúc hoặc mang ý nghĩa biểu tượng quan trọng (Bảo tàng quốc gia, nhà lưu giữ hiện vật quốc gia, sân vận động thi đấu cấp quốc gia hoặc quốc tế, nhà hát quốc gia, công trình điểm nhấn có kiến trúc độc đáo tại các địa phương và các công trình tương tự)."
+    },
+    {
+      "_row_id": 5,
+      "Mức": "**1) Thời hạn sử dụng theo thiết kế của một số bộ phận kết cấu và bộ phận bao che riêng biệt có thể lấy khác thời hạn sử dụng theo thiết kế của công trình.\n2) Xác định theo thang phân loại môi trường xâm thực trong tiêu chuẩn có liên quan.**",
+      "Thời hạn sử dụng theo thiết kế của công trình 1)": "",
+      "Công trình": ""
+    }
+  ],
+  "footnotes": []
+}

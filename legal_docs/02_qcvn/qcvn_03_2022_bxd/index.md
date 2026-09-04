@@ -1,4 +1,4 @@
-# Mục Lục Tra Cứu QCVN 03:2022/BXD
+# Gói Tri Thức Quy Chuẩn Kỹ Thuật OKF v2.4 Universal: QCVN 03:2022/BXD
 
 ## QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ PHÂN CẤP CÔNG TRÌNH PHỤC VỤ THIẾT KẾ XÂY DỰNG
 
@@ -6,7 +6,7 @@
 
 ### 📂 Tài Liệu Chính Quy (Normative Markdown)
 \- [QCVN 03:2022/BXD (Thân quy chuẩn)](./qcvn_03_2022_bxd.md)
-\- [Phụ lục A: Cấp hậu quả của công trình xây dựng (C1, C2, C3)](./annexes/phu_luc_a_cap_hau_qua_cong_trinh.md)
+\- [Phụ lục A: Cấp hậu quả của công trình xây dựng (C1, C2, C3)](./annexes/phu_luc_a_cap_hau_qua_cua_cong_trinh_xay_dung.md)
 
 ### 📊 Ngăn Kéo Bảng Tra Cứu Số Liệu 2D (tables/)
 \- [Bảng 1: Thời hạn sử dụng theo thiết kế của công trình (CSV)](./tables/csv/bang_1_thoi_han_su_dung_thiet_ke.csv)

@@ -25,7 +25,7 @@
 
 | STT | Tiêu chí phân cấp | Thông số thiết kế của công trình | Căn cứ áp dụng (QCVN 03:2022/BXD) | Kết luận phân cấp / Mức áp dụng | Ghi chú |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | **Cấp hậu quả của công trình** | [Sức chứa / Diện tích sàn / Chiều cao / Nhịp / Chiều sâu ngầm] | Mục 2.1 & [Phụ lục A](../annexes/phu_luc_a_cap_hau_qua_cong_trinh.md) | **[Cấp C1 / C2 / C3]** | [Hậu quả nhỏ / trung bình / lớn] |
+| 1 | **Cấp hậu quả của công trình** | [Sức chứa / Diện tích sàn / Chiều cao / Nhịp / Chiều sâu ngầm] | Mục 2.1 & [Phụ lục A](../annexes/phu_luc_a_cap_hau_qua_cua_cong_trinh_xay_dung.md) | **[Cấp C1 / C2 / C3]** | [Hậu quả nhỏ / trung bình / lớn] |
 | 2 | **Thời hạn sử dụng theo thiết kế** | [Loại công trình & Điều kiện môi trường xâm thực] | Mục 2.2 & Bảng 1 | **[Mức 1 / 2 / 3 / 4] (≥ [Năm] năm)** | [Áp dụng cho kết cấu chính] |
 | 3 | **Bậc chịu lửa** | [Chiều cao PCCC / Số tầng / Nhóm F] | Mục 2.3 & QCVN 06:2022/BXD | **[Bậc I / II / III / IV / V]** | [Giới hạn chịu lửa R, E, I] |
 | 4 | **Cấp nguy hiểm cháy kết cấu** | [Tính nguy hiểm cháy của cấu kiện] | Mục 2.3 & QCVN 06:2022/BXD | **[S0 / S1 / S2 / S3]** |  |

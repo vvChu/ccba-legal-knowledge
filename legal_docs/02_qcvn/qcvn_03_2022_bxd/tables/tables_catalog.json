@@ -1,30 +1,13 @@
 {
-  "bundle": "qcvn_03_2022_bxd",
-  "total_tables": 2,
+  "total_tables": 1,
   "tables": [
     {
-      "id": "bang_1_thoi_han_su_dung_thiet_ke",
-      "title": "Bảng 1 — Thời hạn sử dụng theo thiết kế của công trình",
-      "csv_path": "tables/csv/bang_1_thoi_han_su_dung_thiet_ke.csv",
-      "json_path": "tables/json/bang_1_thoi_han_su_dung_thiet_ke.json",
-      "columns": [
-        "Mức",
-        "Thời hạn sử dụng theo thiết kế",
-        "Loại công trình áp dụng",
-        "Căn cứ"
-      ]
-    },
-    {
-      "id": "bang_a1_cap_hau_qua",
-      "title": "Bảng A.1 — Phân loại Cấp hậu quả C1, C2, C3 (Phụ lục A)",
-      "csv_path": "tables/csv/bang_a1_cap_hau_qua.csv",
-      "json_path": "tables/json/bang_a1_cap_hau_qua.json",
-      "columns": [
-        "Cấp hậu quả",
-        "Nhóm tiêu chí",
-        "Ngưỡng định lượng / Đặc điểm nhận diện",
-        "Điều khoản"
-      ]
+      "table_id": "bang_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Thời hạn sử dụng theo thiết kế của công trình",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_01.csv",
+      "json_file": "tables/json/bang_01.json"
     }
   ]
 }

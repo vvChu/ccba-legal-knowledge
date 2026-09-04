@@ -1,6 +1,7 @@
 id: QCVN-03-2022-BXD
 document_number: QCVN 03:2022/BXD
-title: QCVN 03:2022/BXD — Quy chuẩn kỹ thuật quốc gia về Phân cấp công trình phục vụ thiết kế xây dựng
+title: QCVN 03:2022/BXD — Quy chuẩn kỹ thuật quốc gia về Phân cấp công trình phục
+  vụ thiết kế xây dựng
 type: Quy chuẩn kỹ thuật quốc gia
 issued_by: Bộ Xây dựng
 signer: Lê Quang Hùng
@@ -27,3 +28,7 @@ source_assets:
     status: verified
 relations:
   replaces: QCVN-03-2012-BXD
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-04T06:48:31.733233+00:00'
