@@ -29,10 +29,21 @@ from typing import Any, Dict, List, Optional, Set, Tuple
 import yaml
 
 try:
-    from ccba_legal.constants import CURRENT_CONVERTER_VERSION, CURRENT_OKF_SPEC
+    from ccba_legal.constants import (
+        CURRENT_CONVERTER_VERSION,
+        CURRENT_OKF_SPEC,
+        DIR_SOURCES,
+        DIR_TEMPLATES,
+        GATE_11_MIN_VERBATIM_PARITY,
+        STANDARD_COMPARTMENTS,
+    )
 except ImportError:
     CURRENT_OKF_SPEC = "v2.4 Universal"
     CURRENT_CONVERTER_VERSION = "0.4.0"
+    DIR_SOURCES = "sources"
+    DIR_TEMPLATES = "templates"
+    STANDARD_COMPARTMENTS = ("sources", "tables", "figures", "annexes", "templates")
+    GATE_11_MIN_VERBATIM_PARITY = 98.0
 
 
 # Enforce UTF-8 output encoding for Windows PowerShell compatibility
@@ -154,15 +165,15 @@ class LegalSpokeValidator:
             )
 
         if cat in ["01_vbpl", "02_qcvn", "03_tcvn"]:
-            sources_dir = doc_dir / "sources"
+            sources_dir = doc_dir / DIR_SOURCES
             if not sources_dir.exists():
                 self.warnings.append(
-                    f"OKF v2.4 Invariant Warning [{doc_dir.name}]: Missing mandatory 'sources/' directory."
+                    f"OKF v2.4 Invariant Warning [{doc_dir.name}]: Missing mandatory '{DIR_SOURCES}/' directory."
                 )
-            templates_dir = doc_dir / "templates"
+            templates_dir = doc_dir / DIR_TEMPLATES
             if templates_dir.exists() and not any(templates_dir.iterdir()):
                 self.warnings.append(
-                    f"OKF v2.4 Invariant Warning [{doc_dir.name}]: Empty 'templates/' directory detected."
+                    f"OKF v2.4 Invariant Warning [{doc_dir.name}]: Empty '{DIR_TEMPLATES}/' directory detected."
                 )
 
         for md_path in main_md_files:
@@ -438,7 +449,7 @@ class LegalSpokeValidator:
             return
 
         body_only = content.split("## 📑")[0] if "## 📑" in content else content
-        templates_dir = doc_dir / "templates"
+        templates_dir = doc_dir / DIR_TEMPLATES
 
         self._check_form_templates(doc_dir, body_only, templates_dir)
         self._check_broken_pipe_tables(templates_dir)
@@ -653,7 +664,7 @@ class LegalSpokeValidator:
                 if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
                     continue
 
-                sources_dir = bundle_dir / "sources"
+                sources_dir = bundle_dir / DIR_SOURCES
                 if not sources_dir.exists() or not list(sources_dir.glob("*.docx")):
                     continue
 
@@ -664,7 +675,7 @@ class LegalSpokeValidator:
                     elif res.get("status") == "success" and not res.get("pass", True):
                         sample_miss = "; ".join([f"[{i}] {p[:60]}" for i, p in res.get("missing_paras", [])[:3]])
                         self.errors.append(
-                            f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {res.get('parity_rate', 0.0):.1f}% (< 98.0%). Missing {res.get('missing_count', 0)}/{res.get('docx_paras', 0)} paragraphs: {sample_miss}"
+                            f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {res.get('parity_rate', 0.0):.1f}% (< {GATE_11_MIN_VERBATIM_PARITY}%). Missing {res.get('missing_count', 0)}/{res.get('docx_paras', 0)} paragraphs: {sample_miss}"
                         )
                 else:
                     try:
@@ -686,7 +697,7 @@ class LegalSpokeValidator:
 
                     md_texts = []
                     for md_f in bundle_dir.rglob("*.md"):
-                        if "sources" not in md_f.parts:
+                        if DIR_SOURCES not in md_f.parts:
                             txt = self._safe_read_text(md_f)
                             if txt:
                                 md_texts.append(txt)
@@ -712,10 +723,10 @@ class LegalSpokeValidator:
                                 missing_paras.append((idx, p))
 
                     parity_rate = ((len(docx_paras) - len(missing_paras)) / len(docx_paras)) * 100.0
-                    if parity_rate < 98.0:
+                    if parity_rate < GATE_11_MIN_VERBATIM_PARITY:
                         sample_miss = "; ".join([f"[{i}] {p[:60]}" for i, p in missing_paras[:3]])
                         self.errors.append(
-                            f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {parity_rate:.1f}% (< 98.0%). Missing {len(missing_paras)}/{len(docx_paras)} paragraphs: {sample_miss}"
+                            f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {parity_rate:.1f}% (< {GATE_11_MIN_VERBATIM_PARITY}%). Missing {len(missing_paras)}/{len(docx_paras)} paragraphs: {sample_miss}"
                         )
 
                     # Sub-Gate 11.2: Zero-Dropped Regulatory Notes & Annotations Audit (ADR 0039)
@@ -994,7 +1005,7 @@ class LegalSpokeValidator:
 
         for md_file in sorted(self.legal_docs_dir.rglob("*.md")):
             # Skip sources/ directory which contains raw constituent files
-            if "sources" in md_file.parts:
+            if DIR_SOURCES in md_file.parts:
                 continue
 
             rel_path = md_file.relative_to(self.root_dir)
