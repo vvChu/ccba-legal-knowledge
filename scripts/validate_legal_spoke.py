@@ -30,12 +30,16 @@ import yaml
 
 try:
     from ccba_legal.constants import (
+        AST_CLAUSES_SCHEMA_VERSION,
         CURRENT_CONVERTER_VERSION,
         CURRENT_OKF_SPEC,
         DIR_SOURCES,
         DIR_TEMPLATES,
+        FIGURES_CATALOG_SCHEMA_VERSION,
         GATE_11_MIN_VERBATIM_PARITY,
+        QA_BENCHMARK_SCHEMA_VERSION,
         STANDARD_COMPARTMENTS,
+        TABLES_CATALOG_SCHEMA_VERSION,
     )
 except ImportError:
     CURRENT_OKF_SPEC = "v2.4 Universal"
@@ -44,6 +48,10 @@ except ImportError:
     DIR_TEMPLATES = "templates"
     STANDARD_COMPARTMENTS = ("sources", "tables", "figures", "annexes", "templates")
     GATE_11_MIN_VERBATIM_PARITY = 98.0
+    TABLES_CATALOG_SCHEMA_VERSION = "2.4"
+    FIGURES_CATALOG_SCHEMA_VERSION = "2.4"
+    AST_CLAUSES_SCHEMA_VERSION = "2.4"
+    QA_BENCHMARK_SCHEMA_VERSION = "2.4"
 
 
 # Enforce UTF-8 output encoding for Windows PowerShell compatibility
@@ -240,7 +248,12 @@ class LegalSpokeValidator:
         clauses_json = doc_dir / "clauses.json"
         if clauses_json.exists():
             try:
-                clauses_data = json.loads(clauses_json.read_text(encoding="utf-8"))
+                raw_clauses = json.loads(clauses_json.read_text(encoding="utf-8"))
+                clauses_data = (
+                    raw_clauses.get("clauses", raw_clauses.get("nodes", []))
+                    if isinstance(raw_clauses, dict)
+                    else raw_clauses
+                )
                 if len(clauses_data) < 25:
                     self.warnings.append(
                         f"Fake Data Warning [{doc_dir.name}]: Found only {len(clauses_data)} clauses in clauses.json. Expected >= 30."
@@ -290,7 +303,12 @@ class LegalSpokeValidator:
             return
 
         try:
-            clauses_data = json.loads(clauses_file.read_text(encoding="utf-8"))
+            raw_clauses = json.loads(clauses_file.read_text(encoding="utf-8"))
+            clauses_data = (
+                raw_clauses.get("clauses", raw_clauses.get("nodes", []))
+                if isinstance(raw_clauses, dict)
+                else raw_clauses
+            )
             if not clauses_data:
                 self.errors.append(f"AST Error [{qcvn_dir.name}]: clauses.json is empty")
                 return
