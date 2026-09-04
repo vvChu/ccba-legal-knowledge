@@ -1,4 +1,4 @@
-"""CCBA Modernize Annex Engine — Thin CLI Wrapper delegating to ccba_legal.modernize (OKF v2.3 / ADR 0034).
+"""CCBA Modernize Annex Engine — Thin CLI Wrapper delegating to ccba_legal.modernize (OKF v2.4 Universal / ADR 0034 & ADR 0036).
 
 Usage:
     python scripts/modernize_annex_engine.py composite-figures --images a.png b.png --output hinh_1.png --labels a) b)
@@ -13,6 +13,11 @@ import csv
 import sys
 from pathlib import Path
 
+try:
+    from ccba_legal.constants import CURRENT_OKF_SPEC
+except ImportError:
+    CURRENT_OKF_SPEC = "v2.4 Universal"
+
 from ccba_legal.modernize import (
     FigureAutoCompositor,
     MathEquationConverter,
@@ -26,7 +31,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 def main() -> int:
     """CLI Dispatcher for Modernize Annex Engine."""
-    parser = argparse.ArgumentParser(description="CCBA Modernize Annex Engine (OKF v2.3)")
+    parser = argparse.ArgumentParser(description=f"CCBA Modernize Annex Engine (OKF {CURRENT_OKF_SPEC})")
     subparsers = parser.add_subparsers(dest="command", help="Command to run")
 
     # Command 1: composite-figures

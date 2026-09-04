@@ -2,7 +2,7 @@
 
 Tuân thủ nghiêm ngặt:
 - ADR 0012: Clean Unified Whitelist & Quarantine Gate
-- ADR 0021: OKF v2.2 Pure Normative Body & Atomic Templates
+- ADR 0021 & ADR 0036: OKF v2.4 Universal Pure Normative Body & Atomic Templates
 - ADR 0023: Full Comprehensive NotebookLM Ingestion Strategy for Ultra Tier (500+ sources capacity)
 
 Tạo bởi CCBA — Trung tâm Tư vấn và Ứng dụng BIM trong Xây dựng.

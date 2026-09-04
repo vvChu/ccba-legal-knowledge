@@ -336,7 +336,7 @@ class LegalSpokeValidator:
             self.errors.append(f"AST Error [{qcvn_dir.name}]: Failed to parse clauses.json: {exc}")
 
     def validate_pure_normative_body_gate(self) -> Tuple[int, int]:
-        """Validate OKF v2.2 Pure Normative Body standard (ADR 0021)."""
+        """Validate OKF v2.4 Universal Pure Normative Body standard (ADR 0021 & ADR 0036)."""
         vbpl_dir = self.legal_docs_dir / "01_vbpl"
         if not vbpl_dir.exists():
             return (len(self.errors), len(self.warnings))

@@ -1,7 +1,7 @@
 """CCBA Comprehensive Legal Knowledge Retrieval & Real-World QC Audit Benchmark.
 
 Evaluates:
-1. Retrieval Precision & Recall across 4,900+ Ground-Truth QA benchmark entries from OKF v2.2 bundles.
+1. Retrieval Precision & Recall across 4,900+ Ground-Truth QA benchmark entries from OKF v2.4 Universal bundles.
 2. Latency & AST Citation Accuracy (ADR 0024).
 3. Real-world Multi-Disciplinary Design QC Audit Scenarios (Fire Safety, Bidding, Licensing).
 """
@@ -220,7 +220,7 @@ def main() -> None:
     print("=========================================================================================")
     bench = LegalRAGBenchmark()
 
-    print("-> Nạp toàn bộ kho tri thức OKF v2.2:")
+    print("-> Nạp toàn bộ kho tri thức OKF v2.4 Universal:")
     print(f"   • Tổng số điều khoản AST : {len(bench.clause_index):,} nodes (Đã nạp toàn văn body)")
     print(f"   • Tổng số cặp câu hỏi QA : {len(bench.qa_entries):,} entries")
     print("-" * 89)
