@@ -6,7 +6,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 
 ---
 
-## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0040)
+## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0041)
 
 ### Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.4 Universal & Biểu Mẫu
 | Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
@@ -25,6 +25,10 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | [ADR 0034](0034-okf-v2-3-dual-engine-technical-standards.md) | OKF v2.3 Dual-Engine Technical Standards Paradigm (Parametric Visual Cards, Lossless Table Matrices & Deterministic Solvers) | ✅ ACCEPTED | 2026-08-26 |
 | [ADR 0036](0036-okf-v2-4-universal-agent-centric-specification.md) | OKF v2.4 Universal Agent-Centric Specification & Compartment Invariants | ✅ ACCEPTED | 2026-08-27 |
 | [ADR 0037](0037-verbatim-normative-invariant.md) | Verbatim Normative Invariant | ✅ ACCEPTED | 2026-08-28 |
+| [ADR 0038](0038-universal-katex-mathematical-syntax-integrity.md) | Chuẩn Hóa Cú Pháp KaTeX Toàn Cầu & Bóc Tách Khối Công Thức Độc Lập (Universal KaTeX Mathematical Syntax Integrity) | ✅ ACCEPTED | 2026-08-31 |
+| [ADR 0039](0039-universal-high-fidelity-diagram-extraction-and-annotation-governance.md) | Bóc Tách Sơ Đồ Đồ Họa Độ Nét Cao & Bảo Tồn Tuyệt Đối Chú Thích Kẹp Giữa (Universal High-Fidelity Diagram Extraction & Annotation Governance) | ✅ ACCEPTED | 2026-09-01 |
+| [ADR 0040](0040-universal-deterministic-multimodal-extraction-pipeline.md) | Quy Trình Bóc Tách Đa Phương Thức Xác Định Toàn Cầu (Universal Deterministic Multimodal Extraction Pipeline) | ✅ ACCEPTED | 2026-09-03 |
+| [ADR 0041](0041-universal-deterministic-table-knowledge-extraction-architecture.md) | Kiến Trúc Bóc Tách Tri Thức Bảng Biểu Xác Định Toàn Cầu (Universal Deterministic Table Knowledge Extraction Architecture) | ✅ ACCEPTED | 2026-09-03 |
 
 ---
 
@@ -58,14 +62,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | [ADR 0020](0020-hybrid-symbolic-formula-solver-engine.md) | Hybrid Symbolic Formula Solver Engine for Normative Engineering Calculations | ✅ ACCEPTED | 2026-08-19 |
 | [ADR 0023](0023-full-comprehensive-notebooklm-ultra-ingestion.md) | Full Comprehensive NotebookLM Ingestion Strategy for Ultra Tier | ✅ ACCEPTED | 2026-08-22 |
 | [ADR 0026](0026-package-based-downstream-knowledge-distribution.md) | Package-Based Downstream Legal Knowledge Distribution via ccba-legal-intel SDK | ✅ ACCEPTED | 2026-08-22 |
-| [ADR 0032](0032-catalog-query-gate-reuse-first-enforcement.md) | — Catalog Query Gate: Cưỡng Chế Reuse-First bằng Cơ Chế Verify-Based | ✅ ACCEPTED | 2026-08-24 |
+| [ADR 0032](0032-catalog-query-gate-reuse-first-enforcement.md) | Catalog Query Gate: Cưỡng Chế Reuse-First bằng Cơ Chế Verify-Based | ✅ ACCEPTED | 2026-08-24 |
 | [ADR 0033](0033-spoke-md-directory-hygiene-and-archiving.md) | Spoke .md Directory Hygiene & Archiving Structure | ✅ ACCEPTED | 2026-08-24 |
 
 ---
-
-### 📌 Các Quyết Định Khác (Unassigned)
-| Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
-| :--- | :--- | :---: | :---: |
-| [ADR 0038](0038-universal-katex-mathematical-syntax-integrity.md) | Chuẩn Hóa Cú Pháp KaTeX Toàn Cầu & Bóc Tách Khối Công Thức Độc Lập (Universal KaTeX Mathematical Syntax Integrity) | ✅ ACCEPTED | 2026-08-31 |
-| [ADR 0039](0039-universal-high-fidelity-diagram-extraction-and-annotation-governance.md) | Bóc Tách Sơ Đồ Đồ Họa Độ Nét Cao & Bảo Tồn Tuyệt Đối Chú Thích Kẹp Giữa (Universal High-Fidelity Diagram Extraction & Annotation Governance) | ✅ ACCEPTED | 2026-09-01 |
-| [ADR 0040](0040-universal-deterministic-multimodal-extraction-pipeline.md) | Quy Trình Bóc Tách Đa Phương Thức Xác Định Toàn Cầu (Universal Deterministic Multimodal Extraction Pipeline) | ✅ ACCEPTED | 2026-09-03 |

@@ -8,13 +8,15 @@ from pathlib import Path
 from typing import Any
 
 # Ensure UTF-8 output on Windows terminal
-sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
-sys.stderr.reconfigure(line_buffering=True, encoding="utf-8")
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(line_buffering=True, encoding="utf-8")
 
 # Define Pillar Classification Mapping
 PILLAR_MAPPING: dict[str, list[int]] = {
     "Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.4 Universal & Biểu Mẫu": [
-        1, 2, 3, 4, 5, 21, 22, 27, 28, 29, 30, 34, 36, 37
+        1, 2, 3, 4, 5, 21, 22, 27, 28, 29, 30, 34, 36, 37, 38, 39, 40, 41
     ],
     "Trụ Cột 2: PDF Mỏ Neo Pháp Lý & Tri-Tier Cloud Vault (Acquisition, Anchoring & Vault)": [
         10, 16, 24, 25, 31, 35
@@ -26,14 +28,14 @@ PILLAR_MAPPING: dict[str, list[int]] = {
 
 
 def parse_adr_file(adr_path: Path) -> dict[str, Any]:
-    """Extract metadata from an ADR markdown file."""
+    """Extract metadata from an ADR markdown file with self-describing frontmatter support."""
     content = adr_path.read_text(encoding="utf-8")
 
-    # Extract ID and Title from H1
-    h1_match = re.search(r"^#\s*ADR\s*0*([0-9]+)[:\s-]+(.*)$", content, re.MULTILINE | re.IGNORECASE)
+    # Extract ID and Title from H1 (supporting En-dash \u2013 and Em-dash \u2014)
+    h1_match = re.search(r"^#\s*ADR\s*0*([0-9]+)[:\s\u2013\u2014-]+(.*)$", content, re.MULTILINE | re.IGNORECASE)
     if h1_match:
         adr_num = int(h1_match.group(1))
-        adr_title = h1_match.group(2).strip()
+        adr_title = h1_match.group(2).strip(" :—–-")
     else:
         # Fallback to filename
         fname_match = re.match(r"^0*([0-9]+)-(.*)\.md$", adr_path.name)
@@ -44,9 +46,9 @@ def parse_adr_file(adr_path: Path) -> dict[str, Any]:
             adr_num = 0
             adr_title = adr_path.stem
 
-    # Extract Status
+    # Extract Status (supporting bullet or raw bold)
     status = "ACCEPTED"
-    status_match = re.search(r"##\s*1\.\s*Trạng Thái\s*\(Status\)\s*\n\s*\*\*([A-Z_]+)", content, re.IGNORECASE)
+    status_match = re.search(r"##\s*1\.\s*Trạng Thái\s*\(Status\)\s*\n\s*(?:-\s*)?\*\*([A-Z_]+)", content, re.IGNORECASE)
     if status_match:
         status = status_match.group(1).upper()
     elif "DEPRECATED" in content[:400]:
@@ -60,6 +62,15 @@ def parse_adr_file(adr_path: Path) -> dict[str, Any]:
     if date_match:
         date_str = date_match.group(1)
 
+    # Extract Pillar if specified in YAML frontmatter or content for self-evolution
+    pillar: int | str | None = None
+    fm_match = re.search(r"^---\s*\n(.*?)\n---", content, re.DOTALL)
+    if fm_match:
+        p_match = re.search(r"^pillar:\s*([^\n\r]+)", fm_match.group(1), re.MULTILINE | re.IGNORECASE)
+        if p_match:
+            raw_p = p_match.group(1).strip().strip("\"'")
+            pillar = int(raw_p) if raw_p.isdigit() else raw_p
+
     return {
         "num": adr_num,
         "num_str": f"{adr_num:04d}",
@@ -67,15 +78,31 @@ def parse_adr_file(adr_path: Path) -> dict[str, Any]:
         "filename": adr_path.name,
         "status": status,
         "date": date_str,
+        "pillar": pillar,
         "path": adr_path,
         "content": content,
     }
 
 
 def compile_adr_readme(adr_list: list[dict[str, Any]], target_file: Path) -> str:
-    """Generate docs/adr/README.md from list of ADRs."""
+    """Generate docs/adr/README.md from list of ADRs with dynamic self-describing pillar support."""
     adr_by_num = {a["num"]: a for a in adr_list}
     all_assigned_nums: set[int] = set()
+
+    # Dynamic pillar assignment for self-evolving ADRs
+    pillar_keys = list(PILLAR_MAPPING.keys())
+    dynamic_mapping: dict[str, list[int]] = {k: list(v) for k, v in PILLAR_MAPPING.items()}
+    for adr in adr_list:
+        p_val = adr.get("pillar")
+        num = adr["num"]
+        if p_val and not any(num in nums for nums in dynamic_mapping.values()):
+            if isinstance(p_val, int) and 1 <= p_val <= len(pillar_keys):
+                dynamic_mapping[pillar_keys[p_val - 1]].append(num)
+            elif isinstance(p_val, str):
+                for p_key in pillar_keys:
+                    if p_val.lower() in p_key.lower():
+                        dynamic_mapping[p_key].append(num)
+                        break
 
     lines = [
         "# 🏛️ CCBA Legal Knowledge Spoke — Architectural Decision Records (ADRs)",
@@ -90,11 +117,12 @@ def compile_adr_readme(adr_list: list[dict[str, Any]], target_file: Path) -> str
         "",
     ]
 
-    for pillar_title, num_list in PILLAR_MAPPING.items():
+    for pillar_title, num_list in dynamic_mapping.items():
         lines.append(f"### {pillar_title}")
         lines.append("| Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |")
         lines.append("| :--- | :--- | :---: | :---: |")
-        for num in num_list:
+        sorted_nums = sorted(set(num_list))
+        for num in sorted_nums:
             if num in adr_by_num:
                 adr = adr_by_num[num]
                 all_assigned_nums.add(num)
@@ -127,7 +155,7 @@ def compile_adr_readme(adr_list: list[dict[str, Any]], target_file: Path) -> str
 
 
 def scan_skill_radar(adr_list: list[dict[str, Any]], root_dir: Path) -> dict[str, list[dict[str, str]]]:
-    """Scan all SKILL.md and AGENTS.md files across Spoke and Hub to detect ADR references."""
+    """Scan all SKILL.md, AGENTS.md, registry, and core CI scripts across Spoke and Hub to detect ADR references."""
     matrix: dict[str, list[dict[str, str]]] = {a["num_str"]: [] for a in adr_list}
 
     target_paths: list[Path] = []
@@ -136,11 +164,23 @@ def scan_skill_radar(adr_list: list[dict[str, Any]], root_dir: Path) -> dict[str
     if skills_dir.exists():
         target_paths.extend(skills_dir.glob("*/SKILL.md"))
 
-    # Core files
-    for core_f in ["AGENTS.md", "CONTEXT.md", ".md/knowledge/session_learnings.md"]:
+    # Core files and constitutional CI scripts (Whitelisted Targets to avoid noise)
+    core_candidates = [
+        "AGENTS.md",
+        ".agents/AGENTS.md",
+        "CONTEXT.md",
+        "legal_registry.yaml",
+        ".md/knowledge/session_learnings.md",
+        "scripts/validate_legal_spoke.py",
+        "scripts/lint_visual_parity.py",
+        "scripts/spoke_cli.py",
+    ]
+    for core_f in core_candidates:
         p = root_dir / core_f
-        if p.exists():
+        if p.exists() and p not in target_paths:
             target_paths.append(p)
+
+    target_paths.sort()
 
     for doc_path in target_paths:
         text = doc_path.read_text(encoding="utf-8")
@@ -163,7 +203,7 @@ def compile_traceability_matrix(
     matrix: dict[str, list[dict[str, str]]],
     target_file: Path,
 ) -> str:
-    """Generate docs/adr/TRACEABILITY_MATRIX.md."""
+    """Generate docs/adr/TRACEABILITY_MATRIX.md with deterministic sorting (idempotent output)."""
     lines = [
         "# 🗺️ Living Architecture Traceability Matrix & Skill Radar",
         "",
@@ -179,7 +219,7 @@ def compile_traceability_matrix(
 
     for adr in adr_list:
         num_str = adr["num_str"]
-        refs = matrix.get(num_str, [])
+        refs = sorted(matrix.get(num_str, []), key=lambda r: r["file"])
         status_icon = "✅ ACCEPTED" if adr["status"] == "ACCEPTED" else f"⚠️ {adr['status']}"
         if refs:
             ref_links = "<br>".join([f"`{r['file']}`" for r in refs])
