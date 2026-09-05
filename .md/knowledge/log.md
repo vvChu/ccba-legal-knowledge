@@ -75,3 +75,12 @@ Tài liệu ghi nhận nhật ký đột biến, chuẩn hóa dữ liệu và ba
 
 
 
+## [2026-09-05] [refactor] | QCVN 10:2025/BCA Complete Remediation: Decoupled Annexes, 19 Tables, and 10 Visual Parity Error Patterns
+- **Phạm vi:** `legal_docs/02_qcvn/qcvn_10_2025_bca/`, `legal_registry.yaml`, `.md/knowledge/`.
+- **Nội dung:**
+  - **Bóc tách 8 Module Phụ lục kỹ thuật quy phạm (`annexes/`):** Tách rời hoàn toàn Phụ lục A đến H ra khỏi thân văn bản chính, trả lại Pure Normative Body cho `qcvn_10_2025_bca.md`, tạo liên kết 2 chiều đồng bộ giữa `index.md` và `annexes/README.md`.
+  - **Số hóa toàn diện 19 Bảng số liệu tra cứu 2D (`tables/`):** Bổ sung đầy đủ 19 cặp CSV + JSON (thêm Bảng A.3, B.1, C.1, D.1, G.1), khử 100% rò rỉ chú thích ở Bảng H.2 và H.7, khôi phục nguyên văn chú thích (1)–(5) của Bảng A.3 và định mức xe chữa cháy Bảng D.1.
+  - **Trích xuất Đồ họa nét cao (`figures/`):** Bóc tách raster $\ge 300\text{ DPI}$ từ PDF gốc cho `hinh_h_1.png` và `hinh_h_2.png`, lập 2 Visual Cards và `figures_catalog.yaml`.
+  - **Xử lý triệt để 10 hình mẫu lỗi vi mô:** Khắc phục lỗi đảo phả hệ chú thích (Dual-Zone), rơi rụng dấu trừ do ngắt trang, phẳng hóa ô gộp ngang (`gridSpan`), mất chỉ số trên `<sup>`, vỡ thụt lề `&nbsp;&nbsp;\- `, lẫn lộn chú thích với điều khoản, và bảo toàn token trích dẫn gốc `QCVN 06:/BXD`.
+  - **Nghiệm thu Master CI 15 Gates:** Vượt qua 100% 15 Cổng Master CI Gate với 0 Errors và 0 Visual Parity Errors trên toàn bộ kho tri thức.
+
