@@ -84,3 +84,13 @@ Tài liệu ghi nhận nhật ký đột biến, chuẩn hóa dữ liệu và ba
   - **Xử lý triệt để 10 hình mẫu lỗi vi mô:** Khắc phục lỗi đảo phả hệ chú thích (Dual-Zone), rơi rụng dấu trừ do ngắt trang, phẳng hóa ô gộp ngang (`gridSpan`), mất chỉ số trên `<sup>`, vỡ thụt lề `&nbsp;&nbsp;\- `, lẫn lộn chú thích với điều khoản, và bảo toàn token trích dẫn gốc `QCVN 06:/BXD`.
   - **Nghiệm thu Master CI 15 Gates:** Vượt qua 100% 15 Cổng Master CI Gate với 0 Errors và 0 Visual Parity Errors trên toàn bộ kho tri thức.
 
+## [2026-09-06] [feat] | 4-Layer Defense-in-Depth: Enforced Annex Leakage Gate, Rating Superscripts & Dual-Zone Footnote Linter
+- **Phạm vi:** `scripts/validate_legal_spoke.py`, Hub `packages/ccba-legal-intel/src/ccba_legal/visual_parity.py`, `.md/knowledge/`.
+- **Nội dung:**
+  - **Khóa chặt Gate 6 (Pure Normative Body Gate):** Thêm kiểm tra **Annex Leakage Hard Gate** (`_check_annex_leakage`), báo lỗi Exit 1 ngay lập tức nếu phát hiện heading Phụ lục `## PHỤ LỤC [A-Z0-9]` nằm trong thân văn bản chính của quy chuẩn (`02_qcvn`, `03_tcvn`), bảo đảm tuân thủ triệt để ADR 0036.
+  - **Nâng cấp Linter Gate 9 (Visual Parity Gate):** Bổ sung 2 quy tắc bắt lỗi vi mô tự động:
+    1. `RAW_TABLE_SUPERSCRIPT`: Phát hiện ký hiệu mỏ neo trần như `+(1)`, `++(1)`, `+++(1)` trong ô bảng để cưỡng chế định dạng `<sup>(1)</sup>`.
+    2. `INVERTED_FOOTNOTE_HIERARCHY`: Bắt lỗi đảo phả hệ chú thích khi `**CHÚ THÍCH:**` đặt đè lên các chú thích ô `(1)`, `(2)` khi có kèm theo các dòng giải nghĩa dấu `Dấu “+++”` (Dual-Zone Decoupling Engine theo Session Learning 44).
+  - **Nghiệm thu Master CI 15 Gates:** Vượt qua 100% 15 Cổng Master CI Gate với 0 Errors và 0 Visual Parity Errors trên toàn bộ 402 files Markdown của Spoke.
+
+
