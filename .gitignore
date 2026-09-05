@@ -3,6 +3,7 @@
 .vscode/
 .idea/
 *.log
+*.bak
 
 # Python / Node.js build
 __pycache__/
