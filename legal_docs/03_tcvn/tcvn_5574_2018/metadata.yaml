@@ -7,7 +7,7 @@ issued_by: Bộ Khoa học và Công nghệ
 signer: Bộ Khoa học và Công nghệ
 issued_date: '2018-12-28'
 effective_date: '2018-12-28'
-status: Còn hiệu lực
+status: active
 okf_version: v2.4
 sources:
   docx:
@@ -26,3 +26,15 @@ compartments:
   qa_count: 676
 links:
   tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-5574-2018-Thiet-ke-ket-cau-be-tong-va-be-tong-cot-thep-917896.aspx
+id: TCVN-5574-2018
+document_number: TCVN 5574:2018
+pdf_path: legal_docs/03_tcvn/tcvn_5574_2018/sources/tcvn_5574_2018.pdf
+pdf_sha256: f12480db0a68005fa4f48a20ac328727a369ef2c1b60e5b3c9ac78c9da41279a
+pdf_status: verified
+cong_bao_number: TCVN
+bundle_path: legal_docs/03_tcvn/tcvn_5574_2018/
+source_assets:
+  pdf:
+    sha256: f12480db0a68005fa4f48a20ac328727a369ef2c1b60e5b3c9ac78c9da41279a
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5574_2018/tcvn_5574_2018.pdf
+    status: verified

@@ -1,6 +1,7 @@
 id: TCVN-5738-2021
 document_number: TCVN 5738:2021
-title: TCVN 5738:2021 Phòng cháy chữa cháy - Hệ thống báo cháy tự động - Yêu cầu kỹ thuật
+title: TCVN 5738:2021 Phòng cháy chữa cháy - Hệ thống báo cháy tự động - Yêu cầu kỹ
+  thuật
 type: Tiêu chuẩn quốc gia
 issued_by: Bộ Khoa học và Công nghệ
 signer: Bộ trưởng Bộ Khoa học và Công nghệ (QĐ 3456/QĐ-BKHCN)
@@ -14,7 +15,7 @@ bundle_path: legal_docs/03_tcvn/tcvn_5738_2021/
 cong_bao_number: TCVN
 legal_basis: []
 replaces:
-  - TCVN 5738:2001
+- TCVN 5738:2001
 source_assets:
   pdf:
     sha256: 3c572562ff90cfc8d49c1aaa62c60bca81aaa5fe3f89202374a7701ba3727d0a

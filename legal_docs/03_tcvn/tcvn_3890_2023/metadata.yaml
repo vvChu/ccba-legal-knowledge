@@ -1,6 +1,7 @@
 id: TCVN-3890-2023
 document_number: TCVN 3890:2023
-title: TCVN 3890:2023 Phòng cháy và chữa cháy - Phương tiện phòng cháy và chữa cháy cho nhà và công trình - Trang bị, bố trí
+title: TCVN 3890:2023 Phòng cháy và chữa cháy - Phương tiện phòng cháy và chữa cháy
+  cho nhà và công trình - Trang bị, bố trí
 type: Tiêu chuẩn quốc gia
 issued_by: Bộ Khoa học và Công nghệ
 signer: Bộ trưởng Bộ Khoa học và Công nghệ (QĐ 261/QĐ-BKHCN)
@@ -14,7 +15,7 @@ bundle_path: legal_docs/03_tcvn/tcvn_3890_2023/
 cong_bao_number: TCVN
 legal_basis: []
 replaces:
-  - TCVN 3890:2009
+- TCVN 3890:2009
 source_assets:
   pdf:
     sha256: 1c22384f4a212eeb14b60e5dd12e9ab6dcac8c778fb1cf2a1c5865a4090c5e73

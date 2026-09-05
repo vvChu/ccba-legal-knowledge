@@ -20,9 +20,21 @@ pdf_path: legal_docs/02_qcvn/qcvn_04_2021_bxd/sources/qcvn_04_2021_bxd.pdf
 bundle_path: legal_docs/02_qcvn/qcvn_04_2021_bxd/
 pdf_sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
 pdf_status: verified
-cong_bao_number: Đang cập nhật
+cong_bao_number: 373/2026 (SĐ1) / 235/2021
 source_assets:
   pdf:
     sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd.pdf
     status: verified
+type: Quy chuẩn kỹ thuật quốc gia
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-03-2021-TT-BXD-QCVN-04-2021-BXD-Quy-chuan-ky-thuat-quoc-gia-ve-Nha-chung-cu-474758.aspx
+relations:
+  amendments:
+  - id: SD1-2026-QCVN-04
+    document_number: 31/2026/TT-BXD
+    title: Sửa đổi 01:2026 QCVN 04:2021/BXD (Thông tư 31/2026/TT-BXD)
+    source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-31-2026-TT-BXD-sua-doi-01-2026-QCVN-04-2021-BXD-Nha-chung-cu-711082.aspx
+    sha256: 63719290355103aad94f95b09d7f32de356c2df58d751b1f601a8ceb37efbd92
+    pdf_sha256: 63719290355103aad94f95b09d7f32de356c2df58d751b1f601a8ceb37efbd92
+    cong_bao_number: 373/2026
+    pdf_status: pending_download

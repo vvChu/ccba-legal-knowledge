@@ -3,7 +3,7 @@
 
 <p align="center">
 
-![Hình F.2](figures/images/hinh_f_2.png)
+![Hình F.2](../images/hinh_f_2.png)
 
 </p>
 

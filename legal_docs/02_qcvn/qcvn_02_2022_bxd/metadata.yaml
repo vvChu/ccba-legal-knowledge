@@ -19,9 +19,10 @@ legal_basis:
 replaces:
 - QCVN 02:2009/BXD
 bundle_path: legal_docs/02_qcvn/qcvn_02_2022_bxd/
-cong_bao_number: Đang cập nhật
+cong_bao_number: 1045+1046/2022
 source_assets:
   pdf:
     sha256: 0375f3b798e01dfde379710648c8024edc71b5718ec5ee4f0e405764620c7a7d
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2022_bxd/qcvn_02_2022_bxd.pdf
     status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-02-2022-TT-BXD-QCVN-02-2022-BXD-So-lieu-dieu-kien-tu-nhien-dung-trong-xay-dung-530884.aspx
