@@ -655,3 +655,29 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Định dạng khối `**CHÚ THÍCH:**` chuẩn hóa với lề `&nbsp;&nbsp;\- ` ngay dưới bảng Markdown.
   5. **Bảo Vệ Ký Tự Pipe Toàn Diện (`escape_table_pipes`):**
      - Chuyển đổi an toàn `|` bên trong KaTeX inline sang `\vert ` và `\|` ngoài văn bản thường, bảo vệ tuyệt đối tính toàn vẹn cú pháp GFM.
+
+---
+
+## 42. Multi-Column Layout Table Figure Extraction, Horizontal Dynamic Stitching & Unit Normalization
+
+- **Vấn đề Phát Hiện (QCVN 10:2024/BXD Visual Audit):**
+  1. **Ảo Tưởng "Ảnh Nội Dòng" (Inline Paragraph Fallacy):** Bộ trích xuất cũ giả định mọi hình vẽ đều nằm trong đoạn văn (`doc.paragraphs`). Thực tế, các cơ quan ban hành quy chuẩn luôn đặt các sơ đồ con song song ($a, b$) vào một bảng không viền 2 cột (Borderless Layout Table). Vì chỉ duyệt paragraphs, parser bị "mù" trước các bảng này, dẫn đến việc nuốt trôi ảnh con $b)$ (Hình 1, 14, 18) và toàn bộ nhãn $a), b)$.
+  2. **Chia Cắt Pipeline Giữa Các Handlers (Decoupled Pipeline Silos):** `table_handler.py` thấy bảng không viền chứa ảnh nên lọc bỏ để không sinh rác bảng 2D, nhưng không bàn giao ngữ cảnh (Handover Signal) cho `figure_extractor.py`, đẩy các ảnh con vào vùng chân không và coi là ảnh mồ côi.
+  3. **Nuốt Chửng Nhãn Đơn Vị Đo Lường ở FSM (`heading_handler.py`):** Dòng 179-186 bắt chuỗi `Đơn vị tính: mm` lưu vào `ctx.last_table_unit` rồi gọi `return i + 1` mà không emit ra Markdown, gây mất mát $100\%$ các dòng đơn vị tính đứng trước hình vẽ trên toàn bộ văn bản.
+  4. **Điểm Mù Bộ Kiểm Định CI:** Gate 12 chỉ kiểm tra sự tồn tại của tệp `hinh_1.png` trên đĩa (không phát hiện được ảnh bị cụt một nửa sơ đồ); Gate 11 có ngưỡng dung sai $2\%$ từ khóa nên bỏ lọt các cụm từ ngắn.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Phát Hiện Bảng Layout Phức Hợp Trên Cây XML Body (`figure_extractor.py`):**
+     - Quét ngược các phần tử XML trong `doc.element.body`. Nếu một bảng không viền ($\le 3$ hàng) đứng ngay trước đoạn tiêu đề hình, tự động bóc tách toàn bộ ảnh con và nhãn chú dẫn $a), b)$ trên tất cả các cột.
+  2. **Động Cơ Ghép Ảnh Ngang Đa Sơ Đồ (Horizontal Dynamic Canvas Stitching Engine):**
+     - Tính toán độ rộng cột động `col_w = max(img.width, text_w)` dựa trên bounding box của nhãn để triệt tiêu lỗi tràn/cụt chữ.
+     - Dán các ảnh con song song trên nền canvas trắng, căn giữa nhãn $a), b)$ ngay dưới từng ảnh con, và đánh dấu đã tiêu thụ toàn bộ các tệp media thành phần để tránh sinh ảnh rác.
+  3. **Chuẩn Hóa Xuất Bản Nhãn Đơn Vị Tính (`heading_handler.py`):**
+     - Sửa triệt để FSM: Khi phát hiện nhãn đơn vị tính, lập tức emit `<p align="right"><em>{text.strip()}</em></p>\n\n` trực tiếp vào Markdown stream, bảo toàn tính pháp quy nguyên văn $100\%$.
+  4. **5 Bẫy Ngầm Hệ Thống Cần Kiểm Soát Khi Mở Rộng:**
+     - (1) *Lớp phủ rời rạc (Floating Text Boxes)*: Số đo vẽ bằng Shape/WordArt đè lên ảnh gốc.
+     - (2) *Ảnh ma & Viewport Cropping*: Tệp ảnh trong `word/media/` chứa phần thừa chưa crop theo `srcRect`.
+     - (3) *Xung đột Slug Hình giữa Thân và Phụ lục*: Cần áp dụng Namespace Scoping (`hinh_1` vs `hinh_a_1`).
+     - (4) *Lệch Tỷ Lệ Vật Lý*: Cần chuẩn hóa theo rendered EMU thay vì raw pixel dimension.
+     - (5) *Ký tự Symbol / Wingdings PUA*: Cần ánh xạ Run-level sang Unicode/KaTeX chuẩn.
+

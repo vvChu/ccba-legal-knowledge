@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Số chỗ dành cho người đi xe lăn",
+  "unit": "Chỗ",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Quy mô chỗ ngồi",
+    "Số lượng chỗ tối thiểu dành cho người đi xe lăn"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Quy mô chỗ ngồi": "1. Dưới 30",
+      "Số lượng chỗ tối thiểu dành cho người đi xe lăn": "1"
+    },
+    {
+      "_row_id": 2,
+      "Quy mô chỗ ngồi": "2. Từ 31 đến 50",
+      "Số lượng chỗ tối thiểu dành cho người đi xe lăn": "2"
+    },
+    {
+      "_row_id": 3,
+      "Quy mô chỗ ngồi": "3. Từ 51 đến 100",
+      "Số lượng chỗ tối thiểu dành cho người đi xe lăn": "3"
+    },
+    {
+      "_row_id": 4,
+      "Quy mô chỗ ngồi": "4. Từ 101 đến 300",
+      "Số lượng chỗ tối thiểu dành cho người đi xe lăn": "5"
+    },
+    {
+      "_row_id": 5,
+      "Quy mô chỗ ngồi": "5. Từ 301 đến 600",
+      "Số lượng chỗ tối thiểu dành cho người đi xe lăn": "6"
+    },
+    {
+      "_row_id": 6,
+      "Quy mô chỗ ngồi": "6. Trên 600",
+      "Số lượng chỗ tối thiểu dành cho người đi xe lăn": "6 + 1 cho mỗi một lần thêm 200 chỗ ngồi"
+    }
+  ],
+  "footnotes": []
+}

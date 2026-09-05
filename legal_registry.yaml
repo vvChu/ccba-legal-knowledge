@@ -2,7 +2,7 @@ version: 0.3.0
 updated_at: '2026-08-17T17:30:00Z'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 38
+  total_documents: 39
   categories:
     01_vbpl: 24
     02_qcvn: 6
@@ -767,7 +767,8 @@ laws:
       status: synced
 - id: QCVN-09-2017-BXD
   document_number: QCVN 09:2017/BXD
-  title: QCVN 09:2017/BXD — Quy chuẩn kỹ thuật quốc gia về Các công trình xây dựng sử dụng năng lượng hiệu quả
+  title: QCVN 09:2017/BXD — Quy chuẩn kỹ thuật quốc gia về Các công trình xây dựng
+    sử dụng năng lượng hiệu quả
   type: Quy chuẩn kỹ thuật quốc gia
   issued_by: Bộ Xây dựng
   signer: Lê Quang Hùng
@@ -849,6 +850,40 @@ laws:
   cong_bao_number: Đang cập nhật
   pdf_status: pending_download
   sha256: 9f3c45d2e039d95959c61a5de490046d19f7b78e859db6a4f8f031aacb37fc49
+- id: QCVN-10-2024-BXD
+  document_number: QCVN 10:2024/BXD
+  title: QCVN 10:2024/BXD — Quy chuẩn kỹ thuật quốc gia về Xây dựng công trình đảm
+    bảo tiếp cận sử dụng
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Xây dựng
+  signer: Bùi Xuân Dũng
+  issued_date: '2024-08-01'
+  effective_date: '2025-02-01'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_10_2024_bxd/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-06-2024-TT-BXD-Quy-chuan-Xay-dung-cong-trinh-dam-bao-tiep-can-su-dung-QCVN-10-2024-BXD-620671.aspx
+  sha256: 2ebda6fa4afb6bcfb156b09cd115f832178caa584275f85e4dce45125bf2752e
+  pdf_path: legal_docs/02_qcvn/qcvn_10_2024_bxd/sources/qcvn_10_2024_bxd.pdf
+  pdf_sha256: 217a148a6bdc600064c2f350d7b1cb6a996f7ed095bcba373d29125feaf37960
+  cong_bao_number: 06/2024/TT-BXD
+  pdf_status: verified
+  source_file: .md/extracted_docs/qcvn_10_2024_bxd/qcvn_10_2024_bxd.docx
+  source_file_size_kb: 1215.4
+  source_assets:
+    docx:
+      sha256: 2ebda6fa4afb6bcfb156b09cd115f832178caa584275f85e4dce45125bf2752e
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_10_2024_bxd/qcvn_10_2024_bxd.docx
+      status: synced
+    pdf:
+      sha256: 217a148a6bdc600064c2f350d7b1cb6a996f7ed095bcba373d29125feaf37960
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_10_2024_bxd/qcvn_10_2024_bxd.pdf
+      status: verified
+  relations:
+    replaces: QCVN-10-2014-BXD
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-09-05T07:20:00.000000+00:00'
 standards:
 - id: TCVN-7336-2021
   document_number: TCVN 7336:2021
@@ -895,7 +930,8 @@ standards:
       status: verified
 - id: TCVN-3890-2023
   document_number: TCVN 3890:2023
-  title: TCVN 3890:2023 Phòng cháy và chữa cháy - Phương tiện phòng cháy và chữa cháy cho nhà và công trình - Trang bị, bố trí
+  title: TCVN 3890:2023 Phòng cháy và chữa cháy - Phương tiện phòng cháy và chữa cháy
+    cho nhà và công trình - Trang bị, bố trí
   type: Tiêu chuẩn quốc gia
   issued_by: Bộ Khoa học và Công nghệ
   issued_date: '2023-02-28'
@@ -916,7 +952,8 @@ standards:
       status: verified
 - id: TCVN-5738-2021
   document_number: TCVN 5738:2021
-  title: TCVN 5738:2021 Phòng cháy chữa cháy - Hệ thống báo cháy tự động - Yêu cầu kỹ thuật
+  title: TCVN 5738:2021 Phòng cháy chữa cháy - Hệ thống báo cháy tự động - Yêu cầu
+    kỹ thuật
   type: Tiêu chuẩn quốc gia
   issued_by: Bộ Khoa học và Công nghệ
   issued_date: '2021-12-29'
@@ -956,6 +993,3 @@ standards:
       sha256: f12480db0a68005fa4f48a20ac328727a369ef2c1b60e5b3c9ac78c9da41279a
       vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5574_2018/tcvn_5574_2018.pdf
       status: verified
-
-
-

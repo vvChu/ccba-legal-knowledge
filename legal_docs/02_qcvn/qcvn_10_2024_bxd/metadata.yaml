@@ -1,0 +1,34 @@
+id: QCVN-10-2024-BXD
+document_number: QCVN 10:2024/BXD
+title: QCVN 10:2024/BXD — Quy chuẩn kỹ thuật quốc gia về Xây dựng công trình đảm bảo
+  tiếp cận sử dụng
+type: Quy chuẩn kỹ thuật quốc gia
+issued_by: Bộ Xây dựng
+signer: Bùi Xuân Dũng
+issued_date: '2024-08-01'
+effective_date: '2025-02-01'
+status: active
+bundle_path: legal_docs/02_qcvn/qcvn_10_2024_bxd/
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-06-2024-TT-BXD-Quy-chuan-Xay-dung-cong-trinh-dam-bao-tiep-can-su-dung-QCVN-10-2024-BXD-620671.aspx
+sha256: 2ebda6fa4afb6bcfb156b09cd115f832178caa584275f85e4dce45125bf2752e
+pdf_path: legal_docs/02_qcvn/qcvn_10_2024_bxd/sources/qcvn_10_2024_bxd.pdf
+pdf_sha256: 217a148a6bdc600064c2f350d7b1cb6a996f7ed095bcba373d29125feaf37960
+cong_bao_number: 06/2024/TT-BXD
+pdf_status: verified
+source_file: .md/extracted_docs/qcvn_10_2024_bxd/qcvn_10_2024_bxd.docx
+source_file_size_kb: 1215.4
+source_assets:
+  docx:
+    sha256: 2ebda6fa4afb6bcfb156b09cd115f832178caa584275f85e4dce45125bf2752e
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_10_2024_bxd/qcvn_10_2024_bxd.docx
+    status: synced
+  pdf:
+    sha256: 217a148a6bdc600064c2f350d7b1cb6a996f7ed095bcba373d29125feaf37960
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_10_2024_bxd/qcvn_10_2024_bxd.pdf
+    status: verified
+relations:
+  replaces: QCVN-10-2014-BXD
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-05T07:21:39.113127+00:00'

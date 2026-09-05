@@ -4,7 +4,7 @@
 > [!NOTE]
 > **Đây là Tài Liệu Sống (Living Document) tự động cập nhật.**  
 > Được đồng bộ tự động bởi `scripts/sync_expansion_roadmap.py` mỗi khi có văn bản mới được nạp vào Spoke hoặc khi chạy Master CI Gate.  
-> **Lần cập nhật cuối:** `2026-09-05 08:36:38` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
+> **Lần cập nhật cuối:** `2026-09-05 14:21:52` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
 
 ---
 
@@ -12,8 +12,8 @@
 
 | Chỉ số theo dõi | Số lượng | Tỷ lệ hoàn thành | Trạng thái hệ thống |
 |:---|:---:|:---:|:---:|
-| **Hiện có trong Spoke (Active Bundles)** | **38** | **66.7%** | 🟢 Sẵn sàng phục vụ Agent |
-| **Ứng viên Đang Chờ Nạp (Pending Target)** | **19** | **33.3%** | 🟡 Trong lộ trình ưu tiên |
+| **Hiện có trong Spoke (Active Bundles)** | **39** | **68.4%** | 🟢 Sẵn sàng phục vụ Agent |
+| **Ứng viên Đang Chờ Nạp (Pending Target)** | **18** | **31.6%** | 🟡 Trong lộ trình ưu tiên |
 | **Tổng quy mô mục tiêu giai đoạn 1** | **57** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
 
 ---
@@ -22,11 +22,10 @@
 
 ```mermaid
 graph TD
-    subgraph T1["🔴 TIER 1: QUY CHUẨN KỸ THUẬT BẮT BUỘC & PCCC (4 Văn bản)"]
+    subgraph T1["🔴 TIER 1: QUY CHUẨN KỸ THUẬT BẮT BUỘC & PCCC (3 Văn bản)"]
         T1_1["QCVN 10:2025/BCA<br/>(PCCC - Điểm: 9.7)"]
-        T1_2["QCVN 10:2024/BXD<br/>(Kiến trúc - Điểm: 9.6)"]
-        T1_3["QCVN 13:2018/BXD<br/>(PCCC / KT - Điểm: 9.3)"]
-        T1_4["QCVN 12:2014/BXD<br/>(MEP Điện - Điểm: 9.1)"]
+        T1_2["QCVN 13:2018/BXD<br/>(PCCC / KT - Điểm: 9.3)"]
+        T1_3["QCVN 12:2014/BXD<br/>(MEP Điện - Điểm: 9.1)"]
     end
 
     subgraph T2["🟠 TIER 2: TIÊU CHUẨN THIẾT KẾ CỐT LÕI ĐA BỘ MÔN (6 Văn bản)"]
@@ -67,9 +66,8 @@ graph TD
 | STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
 |:---:|:---|:---|:---:|:---:|:---:|:---|
 | 1 | **[QCVN 10:2025/BCA](https://thuvienphapluat.vn/TCVN/Xay-dung/QCVN-10-2025-BCA-Trang-bi-bo-tri-phuong-tien-phong-chay-cho-nha-va-cong-trinh-922037.aspx)** | Quy chuẩn kỹ thuật quốc gia về Trang bị, bố trí phương tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ cho nhà và công trình | PCCC | 7 | **9.7** | `python -m ccba_legal ingest "103/2025/TT-BCA" --category 02_qcvn --upload-drive` |
-| 2 | **[QCVN 10:2024/BXD](https://thuvienphapluat.vn/TCVN/Xay-dung/QCVN-10-2024-BXD-Xay-dung-cong-trinh-dam-bao-tiep-can-su-dung-921135.aspx)** | Quy chuẩn kỹ thuật quốc gia về Xây dựng công trình đảm bảo tiếp cận sử dụng | Kiến trúc | 0 | **9.6** | `python -m ccba_legal ingest "06/2024/TT-BXD" --category 02_qcvn --upload-drive` |
-| 3 | **[QCVN 13:2018/BXD](https://thuvienphapluat.vn/TCVN/Xay-dung/QCVN-13-2018-BXD-ve-Gara-o-to-917827.aspx)** | Quy chuẩn kỹ thuật quốc gia về Gara ô tô | PCCC / KT | 4 | **9.3** | `python -m ccba_legal ingest "12/2018/TT-BXD" --category 02_qcvn --upload-drive` |
-| 4 | **[QCVN 12:2014/BXD](https://thuvienphapluat.vn/TCVN/Dien-dien-tu/QCVN-12-2014-BXD-He-thong-dien-nha-o-nha-cong-cong-912596.aspx)** | Quy chuẩn kỹ thuật quốc gia về Hệ thống điện của nhà ở và nhà công cộng | MEP Điện | 3 | **9.1** | `python -m ccba_legal ingest "20/2014/TT-BXD" --category 02_qcvn --upload-drive` |
+| 2 | **[QCVN 13:2018/BXD](https://thuvienphapluat.vn/TCVN/Xay-dung/QCVN-13-2018-BXD-ve-Gara-o-to-917827.aspx)** | Quy chuẩn kỹ thuật quốc gia về Gara ô tô | PCCC / KT | 4 | **9.3** | `python -m ccba_legal ingest "12/2018/TT-BXD" --category 02_qcvn --upload-drive` |
+| 3 | **[QCVN 12:2014/BXD](https://thuvienphapluat.vn/TCVN/Dien-dien-tu/QCVN-12-2014-BXD-He-thong-dien-nha-o-nha-cong-cong-912596.aspx)** | Quy chuẩn kỹ thuật quốc gia về Hệ thống điện của nhà ở và nhà công cộng | MEP Điện | 3 | **9.1** | `python -m ccba_legal ingest "20/2014/TT-BXD" --category 02_qcvn --upload-drive` |
 
 ### 🟠 TIER 2: Tiêu Chuẩn Thiết Kế Cơ Sở Đa Bộ Môn (Kết Cấu, MEP)
 
@@ -105,6 +103,7 @@ graph TD
 
 | Ký hiệu | Tên văn bản | Bộ môn | Ngày có hiệu lực | Trạng thái |
 |:---|:---|:---:|:---:|:---:|
+| **QCVN 10:2024/BXD** | Quy chuẩn kỹ thuật quốc gia về Xây dựng công trình đảm bảo tiếp cận sử dụng | Kiến trúc | 2025-02-01 | 🟢 `INGESTED` |
 | **QCVN 09:2017/BXD** | Quy chuẩn kỹ thuật quốc gia về Các công trình xây dựng sử dụng năng lượng hiệu quả | KT / MEP | 2018-06-01 | 🟢 `INGESTED` |
 
 ---

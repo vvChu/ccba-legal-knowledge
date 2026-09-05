@@ -1,0 +1,187 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: QCVN 10 2024 BXD
+total_figures: 25
+figures:
+- figure_id: FIG_1
+  tag: '1'
+  title: Minh họa chỗ đỗ xe cho người khuyết tật
+  annex: MAIN
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  tag: '2'
+  title: Minh họa điểm dừng chờ xe
+  annex: MAIN
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_3
+  tag: '3'
+  title: Minh họa chỗ ngồi chờ cho người gặp khó khăn khi tiếp cận tại các điểm dừng
+    chờ xe
+  annex: MAIN
+  anchor: hinh-3
+  image_relpath: figures/images/hinh_3.png
+  has_image: true
+- figure_id: FIG_4
+  tag: '4'
+  title: Minh họa về kích thước tối thiểu của đường dốc đảm bảo tiếp cận
+  annex: MAIN
+  anchor: hinh-4
+  image_relpath: figures/images/hinh_4.png
+  has_image: true
+- figure_id: FIG_5
+  tag: '5'
+  title: Minh họa về đường dốc, bậc cấp, lan can, tay vịn tiếp cận lối vào công trình
+  annex: MAIN
+  anchor: hinh-5
+  image_relpath: figures/images/hinh_5.png
+  has_image: true
+- figure_id: FIG_6
+  tag: '6'
+  title: Một số kiểu lan can tay vịn có gờ an toàn, rào chắn
+  annex: MAIN
+  anchor: hinh-6
+  image_relpath: figures/images/hinh_6.png
+  has_image: true
+- figure_id: FIG_7
+  tag: '7'
+  title: Minh họa về tay vịn trợ giúp người khó khăn khi tiếp cận
+  annex: MAIN
+  anchor: hinh-7
+  image_relpath: figures/images/hinh_7.png
+  has_image: true
+- figure_id: FIG_8
+  tag: '8'
+  title: Minh họa về thang nâng trợ giúp người gặp khó khăn khi di chuyển
+  annex: MAIN
+  anchor: hinh-8
+  image_relpath: figures/images/hinh_8.png
+  has_image: true
+- figure_id: FIG_9
+  tag: '9'
+  title: Minh họa về kích thước bàn/quầy đón tiếp cho người gặp khó khăn khi tiếp
+    cận
+  annex: MAIN
+  anchor: hinh-9
+  image_relpath: figures/images/hinh_9.png
+  has_image: true
+- figure_id: FIG_10
+  tag: '10'
+  title: Minh họa về kích thước, vị trí chỗ ngồi cho người đi xe lăn
+  annex: MAIN
+  anchor: hinh-10
+  image_relpath: figures/images/hinh_10.png
+  has_image: true
+- figure_id: FIG_11
+  tag: '11'
+  title: Minh họa về kích thước không gian khu vực đặt bệ xí (bồn cầu) đảm bảo tiếp
+    cận sử dụng
+  annex: MAIN
+  anchor: hinh-11
+  image_relpath: figures/images/hinh_11.png
+  has_image: true
+- figure_id: FIG_12
+  tag: '12'
+  title: Minh họa về cửa khi mở vào trong của phòng vệ sinh đảm bảo tiếp cận sử dụng
+  annex: MAIN
+  anchor: hinh-12
+  image_relpath: figures/images/hinh_12.png
+  has_image: true
+- figure_id: FIG_13
+  tag: '13'
+  title: Minh họa về chiều cao lắp đặt thiết bị vệ sinh cho người gặp khó khăn khi
+    tiếp cận
+  annex: MAIN
+  anchor: hinh-13
+  image_relpath: figures/images/hinh_13.png
+  has_image: true
+- figure_id: FIG_14
+  tag: '14'
+  title: Minh họa về chiều cao lắp đặt tay vịn trong phòng vệ sinh đảm bảo tiếp cận
+    sử dụng
+  annex: MAIN
+  anchor: hinh-14
+  image_relpath: figures/images/hinh_14.png
+  has_image: true
+- figure_id: FIG_15
+  tag: '15'
+  title: Minh họa về lối lên xuống vỉa hè
+  annex: MAIN
+  anchor: hinh-15
+  image_relpath: figures/images/hinh_15.png
+  has_image: true
+- figure_id: FIG_16
+  tag: '16'
+  title: Minh họa về lối đi bộ qua đường
+  annex: MAIN
+  anchor: hinh-16
+  image_relpath: figures/images/hinh_16.png
+  has_image: true
+- figure_id: FIG_17
+  tag: '17'
+  title: Minh họa về kích thước lắp đặt các vật cản trên lối đi an toàn cho người
+    khuyết tật nhìn
+  annex: MAIN
+  anchor: hinh-17
+  image_relpath: figures/images/hinh_17.png
+  has_image: true
+- figure_id: FIG_18
+  tag: '18'
+  title: Minh họa về bố trí các cảnh báo an toàn cho người khuyết tật nhìn trên đường
+    đi bộ
+  annex: MAIN
+  anchor: hinh-18
+  image_relpath: figures/images/hinh_18.png
+  has_image: true
+- figure_id: FIG_19
+  tag: '19'
+  title: Minh họa về bậc lên xuống tại cầu vượt và hầm dành cho người đi bộ
+  annex: MAIN
+  anchor: hinh-19
+  image_relpath: figures/images/hinh_19.png
+  has_image: true
+- figure_id: FIG_B_1
+  tag: B.1
+  title: Tấm lát cảnh báo giao cắt
+  annex: B
+  anchor: hinh-b_1
+  image_relpath: figures/images/hinh_b_1.png
+  has_image: true
+- figure_id: FIG_B_2
+  tag: B.2
+  title: Tấm lát cảnh báo giới hạn
+  annex: B
+  anchor: hinh-b_2
+  image_relpath: figures/images/hinh_b_2.png
+  has_image: true
+- figure_id: FIG_B_3
+  tag: B.3
+  title: Tấm lát cảnh báo mép đường chờ tàu điện trên phố
+  annex: B
+  anchor: hinh-b_3
+  image_relpath: figures/images/hinh_b_3.png
+  has_image: true
+- figure_id: FIG_B_4
+  tag: B.4
+  title: Tấm lát cảnh báo mép đường chờ tàu hỏa, tàu điện ngầm
+  annex: B
+  anchor: hinh-b_4
+  image_relpath: figures/images/hinh_b_4.png
+  has_image: true
+- figure_id: FIG_B_5
+  tag: B.5
+  title: Tấm lát dẫn hướng cho người khiếm thị
+  annex: B
+  anchor: hinh-b_5
+  image_relpath: figures/images/hinh_b_5.png
+  has_image: true
+- figure_id: FIG_B_6
+  tag: B.6
+  title: Vị trí và kích thước tấm lát định vị
+  annex: B
+  anchor: hinh-b_6
+  image_relpath: figures/images/hinh_b_6.png
+  has_image: true
