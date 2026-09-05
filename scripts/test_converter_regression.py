@@ -37,7 +37,6 @@ def capture_doc_snapshot(bundle_dir: Path) -> dict[str, Any]:
     slug = bundle_dir.name
     md_file = bundle_dir / f"{slug}.md"
     clauses_file = bundle_dir / "clauses.json"
-    qa_file = bundle_dir / "qa_benchmark.json"
     tables_file = bundle_dir / "tables" / "tables_catalog.json"
     figures_file = bundle_dir / "figures" / "figures_catalog.yaml"
 

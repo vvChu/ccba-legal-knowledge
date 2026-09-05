@@ -55,9 +55,11 @@ legal_docs/**/sources/*.docx
 legal_docs/**/*.pdf
 legal_docs/**/*.docx
 
-# Caches
+# Caches and Scratch
 .md/cache/formula_vision/
 .md/cache/vision/
-
-
-
+.md/data/chrome_vip_profile/
+.md/data/legal_registry.yaml
+.md/legal_docs/
+.md/reports/*.html
+.md/*.png

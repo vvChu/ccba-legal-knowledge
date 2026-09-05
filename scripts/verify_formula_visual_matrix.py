@@ -245,7 +245,6 @@ def generate_formula_audit_report(
         if len(keys) > 1:
             # Check if these are truly separate formulas or just aliases
             rids = [k for k in keys if k.startswith("rId")]
-            nums = [k for k in keys if not k.startswith("rId")]
             if len(rids) > 1:
                 anomalies.append({
                     "type": "DUPLICATE_LATEX_ACROSS_RIDS",
@@ -279,7 +278,6 @@ def _build_html_report(
 ) -> str:
     """Build standalone HTML with KaTeX and interactive search."""
     rows_json = json.dumps(rows, ensure_ascii=False)
-    anomalies_json = json.dumps(anomalies, ensure_ascii=False)
 
     return f"""<!DOCTYPE html>
 <html lang="vi">

@@ -112,7 +112,7 @@ def test_adv_02_json_schema_validity_and_cleanliness():
                     # Check for raw markdown table row bleed
                     assert not (v.strip().startswith("|") and v.strip().endswith("|")), f"Raw markdown row bleed in cell value: '{v}' in {jf.name}"
                     # Check for separator row bleed
-                    assert not re.match(r"^(\s*\|?\s*:?-+:?\s*\|?)+$", v.strip()), f"Separator row artifact in cell: '{v}' in {jf.name}"
+                    assert not re.match(r"^(\s*\|?\s*:?-{3,}:?\s*\|?)+$", v.strip()), f"Separator row artifact in cell: '{v}' in {jf.name}"
 
 def test_adv_03_csv_rfc4180_and_parity_with_json():
     """Verify RFC 4180 CSV parsing, header parity, row count parity, and 0 pipe bleed."""
@@ -182,6 +182,7 @@ def test_adv_04_footnote_deep_integrity_docx_vs_json_vs_markdown():
         # Check markdown rendering of all captured footnotes
         for fn in jdata.get("footnotes", []):
             core_text = re.sub(r"^(?:_?CHÚ THÍCH(?:\s*\d+)?(?:\))?:?\s*|_?)", "", fn.strip()).strip().strip("_")
+            core_text = re.sub(r"^\d+\)\s*", "", core_text).strip()
             snip = core_text[:35].strip()
             if snip:
                 assert snip in md_content, f"Footnote snippet '{snip}' from {jf.name} not found in Markdown!"

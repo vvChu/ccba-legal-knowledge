@@ -10,21 +10,13 @@ Compares official PDF Gazette Scan (Ground Truth) against freshly downloaded DOC
 from __future__ import annotations
 
 import argparse
-import re
 import sys
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import List
 
 from ccba_legal.provenance import (
-    check_structure_alignment,
-    compute_text_parity,
-    extract_docx_data,
-    extract_pdf_data,
     find_bundle_assets,
-    normalize_text,
     verify_bundle_docx_vs_pdf,
-    verify_docx_against_pdf,
-    verify_nd207_docx_vs_pdf,
 )
 
 # Enforce UTF-8 output encoding
