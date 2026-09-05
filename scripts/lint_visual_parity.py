@@ -13,10 +13,162 @@ from pathlib import Path
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8")
 
+import re
+
 try:
     from ccba_legal import lint_document
 except ImportError:
-    from ccba_legal.visual_parity import lint_document
+    try:
+        from ccba_legal.visual_parity import lint_document
+    except (ImportError, ModuleNotFoundError):
+        def lint_document(md_path: Path) -> list[str]:
+            """Lint a single Markdown file for visual formatting and layout parity issues."""
+            errors: list[str] = []
+            try:
+                text = md_path.read_text(encoding="utf-8")
+            except Exception as exc:
+                return [f"Cannot read file: {exc}"]
+
+            lines = text.splitlines()
+            in_display_math = False
+
+            for idx, line in enumerate(lines, 1):
+                stripped = line.strip()
+
+                if stripped.startswith("$$") and stripped.endswith("$$") and len(stripped) > 2:
+                    pass
+                elif "$$" in stripped:
+                    in_display_math = not in_display_math
+                    continue
+
+                if in_display_math:
+                    continue
+
+                # 1. Check double bullets
+                if re.match(r"^\s*[-*]\s+[-*]\s+", line):
+                    errors.append(f"Line {idx}: DOUBLE_BULLET: '{stripped}'")
+
+                # 2. Check consecutive _CHÚ THÍCH:_ headers
+                if stripped == "_CHÚ THÍCH:_" and idx < len(lines):
+                    next_lines = [
+                        lines[j].strip() for j in range(idx, min(len(lines), idx + 3)) if lines[j].strip()
+                    ]
+                    if len(next_lines) > 0 and next_lines[0] == "_CHÚ THÍCH:_":
+                        errors.append(f"Line {idx}: DUPLICATE_NOTE_HEADER: Consecutive _CHÚ THÍCH:_")
+
+                # 3. Check trapped table footnotes in table rows
+                if line.startswith("|") and re.search(
+                    r"\|\s*(_[1-9]\)|_CHÚ THÍCH|_GHI CHÚ|_Đối với)", line
+                ):
+                    errors.append(f"Line {idx}: TRAPPED_TABLE_FOOTNOTE: '{stripped[:70]}...'")
+
+                # 4. Check concatenated inline dashes inside notes
+                if re.search(
+                    r"(?:như sau|điều kiện sau|sau đây|bao gồm):\s*-\s+.*?[;.]\s*-\s+",
+                    stripped,
+                    re.IGNORECASE,
+                ):
+                    errors.append(f"Line {idx}: CONCATENATED_INLINE_DASHES: '{stripped[:80]}...'")
+
+                # 5. Check for unformatted in-table superscripts (e.g. REI 60 1) or rating symbols +(1) )
+                if stripped.startswith("|") and stripped.endswith("|"):
+                    raw_sup = re.findall(
+                        r"\b([A-Z]{1,4}\s*\d+|\d+)\s+([1-9]\))(?!<|/sup)",
+                        stripped,
+                    )
+                    if raw_sup:
+                        errors.append(
+                            f"Line {idx}: RAW_TABLE_SUPERSCRIPT: {raw_sup} in '{stripped[:60]}...'"
+                        )
+                    raw_plus_sup = re.findall(
+                        r"(?:^|\||,)\s*(\+{1,3})\s*(\([1-9]\))(?:\s*(?:\||,|\s|$))",
+                        stripped,
+                    )
+                    if raw_plus_sup:
+                        errors.append(
+                            f"Line {idx}: RAW_TABLE_SUPERSCRIPT: {raw_plus_sup} in '{stripped[:60]}...'"
+                        )
+
+                # 6. Check for unbulleted standard classification codes
+                if re.match(r"^(LT[1-4]|BC[1-3]|SK[1-3]|ĐT[1-4]|Ch[1-4]|K[0-3])\s+\(", stripped):
+                    errors.append(f"Line {idx}: UNBULLETED_CLASSIFICATION: '{stripped[:50]}'")
+
+                # 7. Check redundant bullet before CHÚ THÍCH / GHI CHÚ header
+                if re.match(
+                    r"^[-*+]\s+(?:\*\*)?(?:CHÚ THÍCH|GHI CHÚ|Chú thích|Ghi chú)\s*\d*[:\.]?", stripped
+                ):
+                    if re.search(r"^[-*+]\s+(?:\*\*)?CHÚ THÍCH\s+\d+:", stripped):
+                        errors.append(
+                            f"Line {idx}: REDUNDANT_NOTE_BULLET: Redundant bullet before footnote header: '{stripped}'"
+                        )
+
+                # 8. Check raw HTML table tags
+                if re.search(r"<(?:table|thead|tbody|tr|th|td)\b", stripped, re.IGNORECASE):
+                    errors.append(
+                        f"Line {idx}: UNCLEAN_HTML_TABLE: Unclean raw HTML table tag found: '{stripped}'"
+                    )
+
+                # 9. Check squashed notes with <br> tag (ADR 0030)
+                if re.search(r"<br>\s*(?:\*\*)?CHÚ THÍCH", stripped, re.IGNORECASE):
+                    errors.append(
+                        f"Line {idx}: SQUASHED_NOTE_BR: Squashed footnote using <br> tag: '{stripped[:70]}'"
+                    )
+
+                # 10. Check unclosed or broken markdown table rows (ADR 0030)
+                if stripped.startswith("|") and not stripped.endswith("|"):
+                    errors.append(
+                        f"Line {idx}: BROKEN_TABLE_ROW: Table row does not end with '|': '{stripped[:70]}'"
+                    )
+                if re.match(r"^\|(?:\s*:?-+:?\s*\|)+$", stripped):
+                    prev = lines[idx - 2].strip() if idx >= 2 else ""
+                    if not (prev.startswith("|") and prev.endswith("|")):
+                        errors.append(
+                            f"Line {idx}: INVALID_TABLE_HEADER: Table separator preceded by invalid header: '{prev[:70]}'"
+                        )
+
+            # 10. Check monotonic footnote numbering sequence (ADR 0030)
+            is_amendment = "sua_doi" in md_path.stem.lower() or "sources" in md_path.parts
+            if not is_amendment:
+                chunks = re.split(r"(?=\n#{1,4}\s+|\n<a id=)", text)
+                for chunk in chunks:
+                    labels = [
+                        re.sub(r"[_*]", "", m.group(1)).strip().upper()
+                        for m in re.finditer(
+                            r"(?:^|[^a-zA-Z0-9])([_*]*(?:CHÚ THÍCH|Chú thích)(?:\s+\d+)?[_*]*):",
+                            chunk,
+                            re.IGNORECASE,
+                        )
+                    ]
+                    if labels:
+                        has_note_2 = any("CHÚ THÍCH 2" in lbl for lbl in labels)
+                        has_note_1 = any("CHÚ THÍCH 1" in lbl for lbl in labels)
+                        if has_note_2 and not has_note_1:
+                            errors.append(
+                                "MISSING_NOTE_1: Missing 'CHÚ THÍCH 1:' in section where 'CHÚ THÍCH 2:' exists."
+                            )
+
+                    # 11. Check inverted footnote hierarchy (Dual-Zone Hierarchy Inversion - ADR 0030 / Session Learning 44)
+                    has_legend = bool(re.search(r"Dấu\s+[“\"\'\+\-]", chunk, re.IGNORECASE))
+                    if has_legend:
+                        has_cell_fn = bool(
+                            re.search(r"(?:^|\n)\s*(?:&nbsp;&nbsp;\\?-|\-)?\s*\(?[1-9]\)\s+[A-ZÀ-Ỹ]", chunk)
+                        )
+                        if has_cell_fn:
+                            note_hdr = re.search(
+                                r"(?:^|\n)(?:\*\*|__)?(?:CHÚ THÍCH|GHI CHÚ|Chú thích|Ghi chú)(?:\*\*|__)?[:\.]?",
+                                chunk,
+                            )
+                            cell_fn = re.search(
+                                r"(?:^|\n)\s*(?:&nbsp;&nbsp;\\?-|\-)?\s*\(?[1-9]\)\s+[A-ZÀ-Ỹ]",
+                                chunk,
+                            )
+                            if note_hdr and cell_fn and note_hdr.start() < cell_fn.start():
+                                errors.append(
+                                    "INVERTED_FOOTNOTE_HIERARCHY: Cell footnotes (1) placed under CHÚ THÍCH header alongside general legend (Dấu “...). Cell footnotes must precede CHÚ THÍCH."
+                                )
+
+            return errors
+
 
 
 def main() -> int:

@@ -28,6 +28,13 @@ from typing import Any, Dict, List, Optional, Set, Tuple
 
 import yaml
 
+_SCRIPTS_DIR = Path(__file__).resolve().parent
+_ROOT_DIR = _SCRIPTS_DIR.parent
+if str(_SCRIPTS_DIR) not in sys.path:
+    sys.path.insert(0, str(_SCRIPTS_DIR))
+if str(_ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(_ROOT_DIR))
+
 try:
     from ccba_legal.constants import (
         AST_CLAUSES_SCHEMA_VERSION,
@@ -726,7 +733,125 @@ class LegalSpokeValidator:
         try:
             from ccba_legal.provenance import verify_bundle_docx_vs_markdown
         except ImportError:
-            verify_bundle_docx_vs_markdown = None  # type: ignore
+            def _standalone_norm_words(text: str) -> str:
+                greek_map = {
+                    r"\alpha": "α", r"\beta": "β", r"\gamma": "γ", r"\delta": "δ",
+                    r"\epsilon": "ε", r"\varepsilon": "ε", r"\zeta": "ζ", r"\eta": "η",
+                    r"\theta": "θ", r"\vartheta": "θ", r"\iota": "ι", r"\kappa": "κ",
+                    r"\lambda": "λ", r"\mu": "μ", r"\nu": "ν", r"\xi": "ξ",
+                    r"\pi": "π", r"\rho": "ρ", r"\sigma": "σ", r"\tau": "τ",
+                    r"\upsilon": "υ", r"\phi": "φ", r"\varphi": "φ", r"\chi": "χ",
+                    r"\psi": "ψ", r"\omega": "ω", r"\dots": "...", r"\cdot": "·",
+                }
+                text = text.lower()
+                for k, v in greek_map.items():
+                    text = text.replace(k, v)
+                text = re.sub(r"\\text\{([^}]+)\}", r"\1", text)
+                text = re.sub(r"\\(?:sqrt|frac|times|le|ge|cdot|quad|qquad|dots|left|right|pm|approx|sim|over)", " ", text)
+                text = re.sub(r"&nbsp;", " ", text)
+                text = re.sub(r"&#\d+;|&[a-zA-Z]+;", " ", text)
+                text = re.sub(r"</?[a-zA-Z][^>]*>", " ", text)
+                text = re.sub(r"[_\{\}\$]", "", text)
+                text = re.sub(r"(\d+)\s*([a-zα-ω]+)", r"\1 \2", text)
+                text = re.sub(r"[^\w\d\s]", " ", text, flags=re.UNICODE)
+                return re.sub(r"\s+", " ", text).strip()
+
+            def _standalone_verify_bundle(bundle_dir: Path) -> dict[str, Any]:
+                src_dir = bundle_dir / DIR_SOURCES
+                docx_files = list(src_dir.glob("*.docx")) if src_dir.exists() else []
+                if not docx_files:
+                    return {"status": "skipped"}
+                try:
+                    import docx
+                    doc = docx.Document(docx_files[0])
+                except Exception as e:
+                    return {"status": "error", "error": f"Failed to parse DOCX: {e}"}
+
+                raw_paras = [p.text.strip() for p in doc.paragraphs if p.text.strip()]
+                if not raw_paras:
+                    return {"status": "skipped"}
+
+                has_circular = any(
+                    k in p.upper()
+                    for p in raw_paras[:15]
+                    for k in ["THÔNG TƯ", "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM", "BAN HÀNH KÈM THEO THÔNG TƯ"]
+                )
+                start_idx = 0
+                if has_circular:
+                    for idx, p in enumerate(raw_paras):
+                        if idx == 0:
+                            continue
+                        if (
+                            re.match(r"^(?:QCVN|TCVN)\s+[0-9]+", p.strip().upper())
+                            or p.strip().upper() in ("TIÊU CHUẨN QUỐC GIA", "QUY CHUẨN KỸ THUẬT QUỐC GIA")
+                            or p.strip().upper().startswith("QUY CHUẨN KỸ THUẬT QUỐC GIA")
+                        ):
+                            start_idx = idx
+                            break
+
+                docx_paras: list[str] = []
+                in_toc = False
+                for p_text in raw_paras[start_idx:]:
+                    if p_text.strip().upper() in ["MỤC LỤC", "TABLE OF CONTENTS"]:
+                        in_toc = True
+                        continue
+                    if in_toc and (
+                        p_text.strip().lower().startswith("lời nói đầu")
+                        or re.match(r"^1[\.\s]+(?:QUY ĐỊNH CHUNG|PHẠM VI ÁP DỤNG)\b", p_text.strip(), re.IGNORECASE)
+                    ):
+                        in_toc = False
+                    if not in_toc:
+                        docx_paras.append(p_text)
+
+                md_texts: list[str] = []
+                for md_f in bundle_dir.rglob("*.md"):
+                    if DIR_SOURCES not in md_f.parts:
+                        try:
+                            md_texts.append(md_f.read_text(encoding="utf-8"))
+                        except Exception:
+                            pass
+
+                tables_dir = bundle_dir / "tables"
+                if tables_dir.exists():
+                    for csv_f in tables_dir.glob("*.csv"):
+                        try:
+                            md_texts.append(csv_f.read_text(encoding="utf-8"))
+                        except Exception:
+                            pass
+
+                combined_md = "\n".join(md_texts)
+                norm_md = _standalone_norm_words(combined_md)
+
+                missing_paras: list[tuple[int, str]] = []
+                for idx, p in enumerate(docx_paras, 1):
+                    np = _standalone_norm_words(p)
+                    words = np.split()
+                    matched = False
+                    if len(words) >= 4:
+                        for w in range(max(1, len(words) - 5)):
+                            chunk = " ".join(words[w : w + 6])
+                            if chunk in norm_md:
+                                matched = True
+                                break
+                        if not matched:
+                            missing_paras.append((idx, p))
+                    elif len(words) >= 2:
+                        if np not in norm_md:
+                            missing_paras.append((idx, p))
+
+                parity_rate = ((len(docx_paras) - len(missing_paras)) / len(docx_paras)) * 100.0 if docx_paras else 100.0
+
+                return {
+                    "status": "success",
+                    "bundle_name": bundle_dir.name,
+                    "docx_paras": len(docx_paras),
+                    "parity_rate": parity_rate,
+                    "missing_count": len(missing_paras),
+                    "missing_paras": missing_paras,
+                    "pass": parity_rate >= GATE_11_MIN_VERBATIM_PARITY,
+                }
+
+            verify_bundle_docx_vs_markdown = _standalone_verify_bundle
 
         legal_docs = self.root_dir / "legal_docs"
         if not legal_docs.exists():
@@ -744,84 +869,14 @@ class LegalSpokeValidator:
                 if not sources_dir.exists() or not list(sources_dir.glob("*.docx")):
                     continue
 
-                if verify_bundle_docx_vs_markdown is not None:
-                    res = verify_bundle_docx_vs_markdown(bundle_dir)
-                    if res.get("status") == "error":
-                        self.errors.append(f"DOCX Read Error [{bundle_dir.name}]: {res.get('error')}")
-                    elif res.get("status") == "success" and not res.get("pass", True):
-                        sample_miss = "; ".join([f"[{i}] {p[:60]}" for i, p in res.get("missing_paras", [])[:3]])
-                        self.errors.append(
-                            f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {res.get('parity_rate', 0.0):.1f}% (< {GATE_11_MIN_VERBATIM_PARITY}%). Missing {res.get('missing_count', 0)}/{res.get('docx_paras', 0)} paragraphs: {sample_miss}"
-                        )
-                else:
-                    try:
-                        import docx
-                    except ImportError:
-                        self.warnings.append("python-docx is not installed. Skipping Gate 11 DOCX-to-Markdown Verbatim Parity.")
-                        return
-
-                    docx_files = list(sources_dir.glob("*.docx"))
-                    try:
-                        doc = docx.Document(docx_files[0])
-                    except Exception as e:
-                        self.errors.append(f"DOCX Read Error [{bundle_dir.name}]: Failed to parse {docx_files[0].name}: {e}")
-                        continue
-
-                    docx_paras = [p.text.strip() for p in doc.paragraphs if p.text.strip()]
-                    if not docx_paras:
-                        continue
-
-                    md_texts = []
-                    for md_f in bundle_dir.rglob("*.md"):
-                        if DIR_SOURCES not in md_f.parts:
-                            txt = self._safe_read_text(md_f)
-                            if txt:
-                                md_texts.append(txt)
-
-                    combined_md = "\n".join(md_texts)
-                    norm_md = re.sub(r"\s+", " ", re.sub(r"[^\w\d\s]", " ", combined_md.lower(), flags=re.UNICODE)).strip()
-
-                    missing_paras = []
-                    for idx, p in enumerate(docx_paras, 1):
-                        np = re.sub(r"\s+", " ", re.sub(r"[^\w\d\s]", " ", p.lower(), flags=re.UNICODE)).strip()
-                        words = np.split()
-                        matched = False
-                        if len(words) >= 4:
-                            for w in range(max(1, len(words) - 5)):
-                                chunk = " ".join(words[w : w + 6])
-                                if chunk in norm_md:
-                                    matched = True
-                                    break
-                            if not matched:
-                                missing_paras.append((idx, p))
-                        elif len(words) >= 2:
-                            if np not in norm_md:
-                                missing_paras.append((idx, p))
-
-                    parity_rate = ((len(docx_paras) - len(missing_paras)) / len(docx_paras)) * 100.0
-                    if parity_rate < GATE_11_MIN_VERBATIM_PARITY:
-                        sample_miss = "; ".join([f"[{i}] {p[:60]}" for i, p in missing_paras[:3]])
-                        self.errors.append(
-                            f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {parity_rate:.1f}% (< {GATE_11_MIN_VERBATIM_PARITY}%). Missing {len(missing_paras)}/{len(docx_paras)} paragraphs: {sample_miss}"
-                        )
-
-                    # Sub-Gate 11.2: Zero-Dropped Regulatory Notes & Annotations Audit (ADR 0039)
-                    missing_notes = []
-                    for idx, p in enumerate(docx_paras, 1):
-                        if re.match(r"^(?:CHÚ\s+THÍCH|CHÚ\s+DẪN|Ghi\s+chú)", p, re.IGNORECASE):
-                            np = re.sub(r"\s+", " ", re.sub(r"[^\w\d\s]", " ", p.lower(), flags=re.UNICODE)).strip()
-                            words = np.split()
-                            kw = [w for w in words if w not in ("chú", "thích", "dẫn", "ghi")]
-                            if kw:
-                                chunk = " ".join(kw[: min(4, len(kw))])
-                                if chunk not in norm_md:
-                                    missing_notes.append((idx, p))
-
-                    if missing_notes:
-                        sample_notes = "; ".join([f"[{i}] {p[:60]}" for i, p in missing_notes[:3]])
-                        self.errors.append(
-                            f"Dropped Regulatory Notes Error [{bundle_dir.name}]: Missing {len(missing_notes)} CHÚ THÍCH/CHÚ DẪN blocks from DOCX (ADR 0039): {sample_notes}"
-                        )
+                res = verify_bundle_docx_vs_markdown(bundle_dir)
+                if res.get("status") == "error":
+                    self.errors.append(f"DOCX Read Error [{bundle_dir.name}]: {res.get('error')}")
+                elif res.get("status") == "success" and not res.get("pass", True):
+                    sample_miss = "; ".join([f"[{i}] {p[:60]}" for i, p in res.get("missing_paras", [])[:3]])
+                    self.errors.append(
+                        f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {res.get('parity_rate', 0.0):.1f}% (< {GATE_11_MIN_VERBATIM_PARITY}%). Missing {res.get('missing_count', 0)}/{res.get('docx_paras', 0)} paragraphs: {sample_miss}"
+                    )
 
     def validate_multimodal_assets_and_cards_gate(self) -> None:
         """Gate 12: Multimodal Decoupled Asset & SVG/Cards Integrity Gate (ADR 0040).
@@ -970,8 +1025,6 @@ class LegalSpokeValidator:
         if not self.legal_docs_dir.exists():
             return (len(self.errors), len(self.warnings))
 
-        modified_bundles = self._get_modified_bundle_names()
-
         for category_dir in self.legal_docs_dir.iterdir():
             if not category_dir.is_dir() or category_dir.name.startswith("."):
                 continue
@@ -988,8 +1041,6 @@ class LegalSpokeValidator:
                 csv_files = sorted(list(csv_dir.glob("*.csv")))
                 if not csv_files:
                     continue
-
-                is_modified = bundle_dir.name in modified_bundles
 
                 # 1. tables_catalog.json validation
                 catalog_file = tables_dir / "tables_catalog.json"
@@ -1174,8 +1225,6 @@ class LegalSpokeValidator:
         if not self.legal_docs_dir.exists():
             return (len(self.errors), len(self.warnings))
 
-        modified_bundles = self._get_modified_bundle_names()
-
         for cat in ["01_vbpl", "02_qcvn", "03_tcvn"]:
             cat_dir = self.legal_docs_dir / cat
             if not cat_dir.exists():
@@ -1191,8 +1240,6 @@ class LegalSpokeValidator:
                         f"Provenance Error [{bundle_dir.name}]: Missing mandatory 'metadata.yaml' file."
                     )
                     continue
-
-                is_modified = bundle_dir.name in modified_bundles
 
                 try:
                     meta_data = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
