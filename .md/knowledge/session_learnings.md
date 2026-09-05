@@ -680,4 +680,3 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - (3) *Xung đột Slug Hình giữa Thân và Phụ lục*: Cần áp dụng Namespace Scoping (`hinh_1` vs `hinh_a_1`).
      - (4) *Lệch Tỷ Lệ Vật Lý*: Cần chuẩn hóa theo rendered EMU thay vì raw pixel dimension.
      - (5) *Ký tự Symbol / Wingdings PUA*: Cần ánh xạ Run-level sang Unicode/KaTeX chuẩn.
-
