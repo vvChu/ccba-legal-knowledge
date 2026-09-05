@@ -1,0 +1,71 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Loại và nhóm đám cháy",
+  "archetype": "2d_matrix",
+  "columns": [
+    "Ký hiệu loại đám cháy",
+    "Đặc tính của loại đám cháy",
+    "Ký hiệu nhóm đám cháy",
+    "Đặc tính của nhóm đám cháy"
+  ],
+  "row_count": 9,
+  "col_count": 4,
+  "footnotes": [],
+  "rows": [
+    [
+      "A",
+      "Cháy chất rắn",
+      "A1",
+      "Cháy các chất rắn với quá trình cháy âm ỉ (ví dụ: gỗ, giấy, cỏ khô, rơm rạ, than, sản phẩm dệt...)"
+    ],
+    [
+      "A",
+      "Cháy chất rắn",
+      "A2",
+      "Cháy các chất rắn nhưng không có quá trình cháy âm ỉ (ví dụ: chất dẻo...)"
+    ],
+    [
+      "B",
+      "Cháy chất lỏng",
+      "B1",
+      "Cháy chất lỏng không tan trong nước (ví dụ: xăng ete, nhiên liệu dầu mỏ); cháy chất rắn hóa lỏng (ví dụ: paraphin...)"
+    ],
+    [
+      "B",
+      "Cháy chất lỏng",
+      "B2",
+      "Cháy các chất lỏng hòa tan trong nước (ví dụ: rượu, metanol, glycerin...)"
+    ],
+    [
+      "C",
+      "Cháy các chất khí",
+      "C",
+      "Cháy các chất khí (ví dụ: metan, hyđro, propan...)"
+    ],
+    [
+      "D",
+      "Cháy các kim loại",
+      "D1",
+      "Cháy các chất kim loại nhẹ (ví dụ: nhôm, magiê và hợp kim của chúng...), trừ các kim loại kiềm"
+    ],
+    [
+      "D",
+      "Cháy các kim loại",
+      "D2",
+      "Cháy kim loại kiềm và các kim loại đồng dạng khác (ví dụ: natri, kali...)"
+    ],
+    [
+      "D",
+      "Cháy các kim loại",
+      "D3",
+      "Cháy các hợp chất có chứa kim loại (ví dụ: các hợp chất hữu cơ kim loại, hydrua kim loại...)"
+    ],
+    [
+      "E",
+      "Cháy các thiết bị mang điện",
+      "E",
+      "Cháy vật liệu cấu thành nên thiết bị điện, có thể là chất dẻo, kim loại... trong đám cháy có thể còn dòng điện trong thiết bị"
+    ]
+  ]
+}

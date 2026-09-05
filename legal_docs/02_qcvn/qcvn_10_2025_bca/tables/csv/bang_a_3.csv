@@ -1,0 +1,68 @@
+﻿STT,Đối tượng bảo vệ,Hệ thống báo cháy tự động,Hệ thống chữa cháy tự động
+**1.**,**Gianphòng kho**,,
+1.1.,"Thuộc hạng nguy hiểm cháy và cháy nổ A,B",Không phụ thuộc vào diện tích,Diện tích từ 300 m2trở lên
+1.2.,"Lưu trữ cao su, hạt nhựa; diêm, kim loại kiềm, sản phẩm pháo hoa; len, lông thú; chất cháy khác với khối lượngriêngnhỏ(dưới 3 kg/m3)",Không phụ thuộc vào diện tích,Diện tích từ 100 m2trở lên
+1.3.,Chứa hàng hóa không cháy nhưng bảo quản trong bao bì dễ cháy (có tài trọng cháy riêng từ 1 MJ/m2đến 180 MJ/m2),Diện tích từ 300 m2trở lên,-
+1.4.,"Thuộc hạng nguy hiểm cháy C1 (không bao gồm các gian phòng nêu tại mục 1.2 và mục 1.3 Bảng này và các gian phòng kho nằm trong các nhà và cơ sở chế biến, lưu trữ nông sản dạnghạt)khi được đặt trongcác tầng",,
+1.4.1.,"Bố trí tại tầng hầm, tầng bán hầm",Không phụ thuộc vào diện tích,Diện tích từ 100 m2trở lên
+1.4.2.,Bố trí tại các tầng trên mặt đất,Diện tích từ 300 m2trở lên,Diện tích từ 300 m2trở lên
+1.5.,"Thuộc hạng nguy hiểm cháy C2, C3 (không bao gồm các gian phòng nêu tại mục 1.2 và mục 1.3 Bảng này và các gian phòng kho nằm trong các nhà và cơ sở chế biến, lưu trữ nông sản dạnghạt)",,
+1.5.1.,"Bố trí tại tầng hầm, tầng bán hầm",Diện tích từ 300 m2trở lên,Diện tích từ 300 m2trở lên
+1.5.2.,Bố trí tại tầng trên mặt đất,Diện tích từ 1 000 m2trở lên,Diện tích từ 1 000 m2trở lên
+1.6.,Kho lạnh,Diện tích từ 300 m2trở lên,-
+**2.**,**Gianphòng sản xuất**,,
+2.1.,"Thuộc hạng nguy hiểm cháy và cháy nổ A,B",Không phụ thuộc vào diện tích,Diện tích từ 300 m2trở lên
+2.2.,"Thuộc hạng nguy hiểm cháy C1 (trừ các phòng nằm trong các nhà và cơ sở chế biến, lưu trữ nôngsản dạnghạt)",,
+2.2.1.,"Bố trí tại tầng hầm, tầng bán hầm",Không phụ thuộc vào diện tích,Không phụ thuộc vào diện tích
+2.2.2.,Bố trí tại tầng trên mặt đất,Không phụ thuộc vào diện tích,Diện tích từ 300 m2trở lên
+**2.3.**,"Thuộc hạng nguy hiểm cháy C2, C3 (trừ các phòng nằm trong các nhà và cơ sở chế biến, lưu trữ nôngsản dạnghạt)",,
+2.3.1.,"Bố trí tại tầnghầm,tầngbán hầm",,
+2.3.1.1.,Không có lối ra ngoài trực tiếp,Không phụ thuộc vào diện tích,Diện tích từ 300 m2trở lên
+2.3.1.2.,Có lối ra ngoài trực tiếp,-,Diện tích từ 700 m2trở lên
+2.3.2.,Bố trí tại tầng trên mặt đất,Diện tích từ 300 m2trở lên,Diện tích từ 1 000 m2trở lên
+2.4.,"Phòng sản xuất chất lỏng dễ cháy (dung môi, sơn, keo dán, dung dịch ngâm tẩm, cao su tổng hợp); phòng sản xuất huyền phù từ bột nhôm, keo cao su; phòng sơn; phòng tổng hợp cao su nhân tạo; phòng máy nén có sử dụng tuabin khí; phòng gia nhiệt dầu mỏ và dầu diesel",Không phụ thuộc vào diện tích,Không phụ thuộc vào diện tích
+3.,**Gianphòng thông tin liên lạc**,,
+3.1.,"Phòng thiết bị phân tách, phòng phụ trợ (thông gió, máy biến áp) của công trình đài phát sóng có công suất phát 150 kW trở lên, trạm thu sóng với số lượng máy thu từ 20 máy, trạm thông tin vệ tinh cố định có công suất phát lớn hơn 1 kW, đài truyền hình chuyển tiếp có công suất phát 25-50 kW, các nút mạng, tổng đài điện thoại liên tỉnh và thành phố, trạm điện báo, điểm khuếch đại thiết bị đầu cuối và trung tâm liên lạc khu vực",Không phụ thuộc vào diện tích,-
+3.2.,"Xưởng kỹ thuật của các trạm khuếch đại đầu cuối, trạm chuyển tiếp vô tuyến trung gian, trung tâm truyền và nhận sóng mà không có giám sát hoặc người trực vào buổi tối",Không phụ thuộc vào diện tích,Không phụ thuộc vào diện tích
+3.3.,Trạm gốc của hệ thống thông tin vô tuyến di động và trạm chuyển tiếp của hệ thống thông tin vô tuyến di động khôngcógiám sát,Không phụ thuộc vào diện tích,Diện tích từ 24 m2trở lên
+3.4.,"Phòng tổng đài số, trung tâm kiểm soát điện thoại; trung tâm máy tính, điện báo của bưu điện tỉnh, thành phố trongnhà có khối tích:",,
+3.4.1.,Dưới 40 000 m3,Không phụ thuộc vào diện tích,-
+3.4.2.,40 000 m3trở lên,Không phụ thuộc vào diện tích,Diện tích từ 24 m2trở lên
+3.5.,"Phòng tổng đài điện thoại, trong đó thiết bị chuyển mạch là loại điện tử hoặc bán điện tử được lắp đặt cùng với một máy tính được sử dụng như một tổ hợp điều khiển, thiết bị đầu vào, đầu ra; phòng chứa thiết bị chuyển mạch điện tử, nút, trung tâm truyền thông tài liệu với côngsuất:(1), (2)",,
+3.5.1.,"Dưới 10 000 số, kênh hoặc điểm kết nối",Không phụ thuộc vào diện tích,-
+3.5.2.,"Từ 10 000 số, kênh hoặc điểm kết nối trở lên",Không phụ thuộc vào diện tích,Không phụ thuộc vào diện tích
+3.6.,"Phòng đặt thiết bị chia, kết nối có sử dụng máy vi tính để điều khiển các tổng đài điện thoại tự độngvới côngsuất trạm:",,
+3.6.1.,"Dưới 10 000 kênh liên tỉnh, thành phố",Không phụ thuộc vào diện tích,-
+3.6.2.,"Từ 10 000 kênh liên tỉnh, thành phố trở lên",Không phụ thuộc vào diện tích,Diện tích từ 24 m2trở lên
+3.7.,"Phòng để xử lý, phân loại, lưu trữ và chuyển phát bưu kiện, thư từ, điện tín, điện báo,báo chí",Không phụ thuộc vào diện tích,Diện tích từ 500 m2trở lên
+4.,**Gianphòng phụ trợ thuộc lĩnh vực giao thông vận tải**,,
+4.1.,"Phòng máy điện, thiết bị, sửa chữa và gia công toa tàu, bánh, động cơ... có hạng nguy hiểm cháy và cháy nổ từ hạng C3 trở lên thuộc cơ sở đóng mới, sửa chữa, bảo dưỡng tàu hỏa, tàu điện,tàu thủy",Diện tích từ 300 m2trở lên,Diện tích từ 1 000 m2trở lên
+4.2.,"Phòng sửa chữa, bảo dưỡng, lưu giữ phương tiện giao thông cơ giới đườngbộ (ngoại trừ ô tô)",Diện tích từ 1 000 m2trở lên,Diện tích từ 1 000 m2trở lên
+4.3.,"Phòng sửa chữa, bảo dưỡng ô tô",Diện tích từ 300 m2trở lên,Diện tích từ 700 m2trở lên
+4.4.,"Phòng lưu giữ ô tô trong nhà có công năng khác (trừ trong nhà ở riêng lẻ kết hợp sản xuất, kinh doanh)",Không phụ thuộc vào diện tích,Từ 3 xe ô tô trở lên
+4.5.,"Phòng tháo lắp động cơ máy bay, thiết bị bay, bánh xe máy bay, trực thăng; phòng sản xuất, sửa chữa độngcơ máybay",Không phụ thuộc vào diện tích,Không phụ thuộc vào diện tích
+4.6.,"Phòng đặt máy bơm chữa cháy, phòng thông gió, kho vật tư, hàng hóa của hầmgiao thôngđườngbộ",Không phụ thuộc vào diện tích,-
+5.,**Gianphòng công năng công cộng**,,
+5.1.,"Phònglưu trữ thư viện có số lượngtài liệu,sách:",,
+5.1.1.,Dưới 250 000 đơn vị,Diện tích từ 300 m2trở lên,-
+5.1.2.,Từ 250 000 đơn vị trở lên,Không phụ thuộc vào diện tích,Không phụ thuộc vào diện tích
+5.2.,"Phòng trưng bày, triển lãm(3)",Diện tích từ 500 m2trở lên,Diện tích từ 1 000 m2trở lên
+5.3.,"Phòng bảo quản và trưng bày tác phẩm, vật phẩm giá trị của viện bảo tàng (3)",Không phụ thuộc vào diện tích,Không phụ thuộc vào diện tích
+5.4.,"Trong các nhà phục vụ mục đích văn hóa, giải trí có sân khấu và khán phòng (nhà hát, câu lạc bộ, phònghòa nhạc,chiếuphim và hòa nhạc,nhà đa năng,nhà văn hóa,rạpxiếc,...)",,
+5.4.1.,Với sức chứa từ 400 chỗ trở lên và có diện tích sân khấu từ 100 m2trở lên(4),Không phụ thuộc vào diện tích,Không phụ thuộc vào diện tích
+5.4.2.,Với sức chứa từ 700 chỗ ngồi trở lên (4),Không phụ thuộc vào diện tích,Không phụ thuộc vào diện tích
+5.4.3.,"Nhà kho để đồ trang trí, đồ dùng và đạo cụ",Diện tích từ 100 m2trở lên,Diện tích từ 300 m2trở lên
+5.5.,Trưởng quay,Diện tích từ 300 m2trở lên,Diện tích từ 1 000 m2trở lên
+5.6.,"Phòng lưu trữ tiền (kho tiền) trong ngân hàng,kho bạc",Không phụ thuộc vào diện tích,Diện tích từ 30 m2trở lên
+5.7.,"Phòngbảoquản hành lý,kho chứa vật liệu dễ cháyở nhàga hành khách,nhàga hànghóa",,
+5.7.1.,"Bố trí tại tầng hầm, tầng bán hầm",Không phụ thuộc vào diện tích,Không phụ thuộc vào diện tích
+5.7.2.,Bố trí tại tầng trên mặt đất,Diện tích từ 300 m2trở lên,Diện tích từ 300 m2trở lên
+5.8.,Phòngbảoquản vật liệu cháy,,
+5.8.1.,Bố trí trong công trình thể thao có mái che với sức chứa từ 800 chỗ trở lên,Diện tích từ 100 m2trở lên,Diện tích từ 100 m2trở lên
+5.8.2.,Bố trí dưới khán đài công trình thể thao có mái che hoặc công trình thể thao ngoài trời có sức chứa trên 3000 chỗ,Diện tích từ 100 m2trở lên,Diện tích từ 100 m2trở lên
+5.9.,Phòngmáychủ chuyên dụng,Diện tích từ 24 m2trở lên,Diện tích từ 24 m2trở lên
+5.10.,Gianphòngthươngmại trongtoà nhà côngnăngkhác,,
+5.10.1.,"Bố trí tại tầng hầm, tầng bán hầm",Không phụ thuộc vào diện tích,Diện tích từ 200 m2trở lên
+5.10.2.,Bố trí tại tầng trên mặt đất,Diện tích từ 500 m2trở lên,Diện tích từ 500 m2trở lên
+5.11.,"Gian phòng kinh doanh chất lỏng cháy, dễ cháy (ngoại trừ hàng hóa được chứa trong các can, bình có thể tích chứa khônglớn hơn 20 lít)",Không phụ thuộc vào quy mô,Không phụ thuộc vào quy mô
+6.,"Phòng điều khiển, phòng thiết bị phân phối điện, phòng ắc quy của trạm biến ápkhôngngười trực",Không phụ thuộc vào quy mô(5),-

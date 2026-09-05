@@ -1,0 +1,88 @@
+{
+  "table_id": "bang_h_6",
+  "table_number": "H.6",
+  "table_title": "Bảng H.6 - Số tia phun chữa cháy và lưu lượng nước tối thiểu cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho",
+  "archetype": "2d_matrix",
+  "columns": [
+    "Bậc chịu lửa của nhà",
+    "Hạng nguy hiểm cháy và cháy nổ của nhà",
+    "Cấp nguy hiểm cháy của kết cấu",
+    "Khối tích ≤ 150 000 m3 (L/s)",
+    "Khối tích > 150 000 m3 (L/s)"
+  ],
+  "row_count": 10,
+  "col_count": 5,
+  "footnotes": [],
+  "rows": [
+    [
+      "I, II",
+      "A,B,C",
+      "S0,S1",
+      "2 x 2,5",
+      "3 x 2,5"
+    ],
+    [
+      "",
+      "D,E",
+      "Không quyđịnh",
+      "1 x 2,5",
+      "1 x 2,5"
+    ],
+    [
+      "III",
+      "A,B,C",
+      "S0",
+      "2 x 2,5",
+      "3 x 2,5"
+    ],
+    [
+      "",
+      "D,E",
+      "S0,S1",
+      "1 x 2,5",
+      "2 x 2,5"
+    ],
+    [
+      "IV",
+      "A,B",
+      "S0",
+      "2 x 2,5",
+      "3 x 2,5"
+    ],
+    [
+      "",
+      "C",
+      "S0,S1",
+      "2 x 2,5",
+      "2 x 5"
+    ],
+    [
+      "",
+      "C",
+      "S2,S3",
+      "3 x 2,5",
+      "4 x 2,5"
+    ],
+    [
+      "",
+      "D,E",
+      "S0,S1,S2,S3",
+      "1 x 2,5",
+      "2 x 2,5"
+    ],
+    [
+      "V",
+      "C",
+      "Không quyđịnh",
+      "2 x 2,5",
+      "2 x 5"
+    ],
+    [
+      "",
+      "D,E",
+      "Không quyđịnh",
+      "1 x 2,5",
+      "2 x 2,5"
+    ]
+  ]
+}

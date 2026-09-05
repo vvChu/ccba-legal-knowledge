@@ -1,0 +1,124 @@
+{
+  "table_id": "bang_h_5",
+  "table_number": "H.5",
+  "table_title": "Bảng H.5 - Số tia phun chữa cháy và lưu lượng nước tối thiểu đối với hệ thống họng nước chữa cháy",
+  "archetype": "2d_matrix",
+  "columns": [
+    "Nhà ở và công trình công cộng",
+    "Số tia phun chữa cháy trên 1 tầng nhà",
+    "Lưu lượng tối thiểu cho chữa cháy trong nhà (L/s), đối với một tia phun"
+  ],
+  "row_count": 21,
+  "col_count": 3,
+  "footnotes": [
+    "(1) Khi hành lang chung dài trên 10 m thì phải có tối thiểu 2 tia phun chữa cháy hoạt động đồng thời cho mỗi điểm cháy.",
+    "(2) Đối với nhà hành chính có chiều cao PCCC trên 50 m thì số tia phun chữa cháy và lưu lượng nước tối thiểu đối với hệ thống họng nước chữa cháy thực hiện theo quy định tại H.2.2."
+  ],
+  "rows": [
+    [
+      "**1. Nhà chung cư, nhà ở tập thể**",
+      "",
+      ""
+    ],
+    [
+      "≤ 16 tầng, khi hành lang chung dài ≤ 10 m",
+      "1",
+      "2,5"
+    ],
+    [
+      "≤ 16 tầng, khi hành lang chung dài > 10 m",
+      "2",
+      "2,5"
+    ],
+    [
+      "> 16 và ≤ 25 tầng, khi hành lang chung dài ≤ 10 m",
+      "2",
+      "2,5"
+    ],
+    [
+      "> 16 và ≤ 25 tầng, khi hành lang chungdài > 10 m",
+      "3",
+      "2,5"
+    ],
+    [
+      "**2. Nhà hành chính1)**",
+      "",
+      ""
+    ],
+    [
+      "≤ 10 tầngvà khối tích ≤ 25 000 m3",
+      "1",
+      "2,5"
+    ],
+    [
+      "≤ 10 tầngvà khối tích > 25 000 m3",
+      "2",
+      "2,5"
+    ],
+    [
+      "> 10 tầngvà khối tích ≤ 25 000 m3",
+      "2",
+      "2,5"
+    ],
+    [
+      "> 10 tầngvà khối tích > 25 000 m3",
+      "3",
+      "2,5"
+    ],
+    [
+      "**3. Phòng câu lạc bộ có sân khấu, nhà hát, rạp chiếu phim, phòng có trang bị thiết bị nghe nhìn (sinh hoạt, hội thảo và tương tự)**",
+      "",
+      ""
+    ],
+    [
+      "≤ 300 chỗ",
+      "2",
+      "2,5"
+    ],
+    [
+      "> 300 chỗ",
+      "2",
+      "5,0"
+    ],
+    [
+      "**4. Ký túc xá và nhà công cộng (ngoại trừ mục 2, 3) 2)**",
+      "",
+      ""
+    ],
+    [
+      "≤ 10 tầngvà khối tích ≤ 25 000 m3",
+      "1",
+      "2,5"
+    ],
+    [
+      "≤ 10 tầngvà khối tích > 25 000 m3",
+      "2",
+      "2,5"
+    ],
+    [
+      ">10 tầngvà khối tích ≤ 25 000 m3",
+      "2",
+      "2,5"
+    ],
+    [
+      ">10 tầngvà khối tích > 25 000 m3",
+      "3",
+      "2,5"
+    ],
+    [
+      "**5. Nhà hành chính -phụ trợ của công trình công nghiệp có khối tích**",
+      "",
+      ""
+    ],
+    [
+      "≤ 25 000 m3",
+      "1",
+      "2,5"
+    ],
+    [
+      "> 25 000 m3",
+      "2",
+      "2,5"
+    ]
+  ]
+}

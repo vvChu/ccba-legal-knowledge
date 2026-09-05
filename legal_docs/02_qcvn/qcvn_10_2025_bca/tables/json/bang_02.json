@@ -1,0 +1,132 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Hiệu quả chữa cháy của các chất chữa cháy",
+  "archetype": "2d_matrix",
+  "columns": [
+    "Chất chữa cháy",
+    "Dạng chất chữa cháy",
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "row_count": 12,
+  "col_count": 7,
+  "footnotes": [
+    "(1) Tuân thủ các yêu cầu an toàn điện.",
+    "(2) Khí Freon là các khí chữa cháy có thành phần chlorofluorocarbon hoặc hydrofluorocarbon như: HFC-227ea, FK-5-1-12...",
+    "CHÚ THÍCH: Dấu “+++” Chữa cháy rất hiệu quả; Dấu “++” Chữa cháy hiệu quả; Dấu “+” Chữa cháy hiệu quả thấp; Dấu “-” Chữa cháy không thích hợp."
+  ],
+  "rows": [
+    [
+      "Nước",
+      "Phun tia",
+      "++",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Nước",
+      "Phun sương",
+      "++",
+      "+",
+      "-",
+      "-",
+      "+ (1)"
+    ],
+    [
+      "Chất chữa cháy gốc nước",
+      "Phun tia",
+      "+++",
+      "+++",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Chất chữa cháy gốc nước",
+      "Phun sương",
+      "+++",
+      "+++",
+      "-",
+      "-",
+      "++ (1)"
+    ],
+    [
+      "Bọt",
+      "Bội số nở thấp",
+      "++",
+      "++",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Bọt",
+      "Bội số nở trung bình",
+      "+",
+      "++",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Bọt",
+      "Bội số nở cao",
+      "+",
+      "+",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Bọt",
+      "Bọt chứa flo",
+      "++",
+      "+++",
+      "-",
+      "-",
+      "-"
+    ],
+    [
+      "Khí",
+      "Khí CO2, Nitơ",
+      "+",
+      "+",
+      "+",
+      "-",
+      "+++"
+    ],
+    [
+      "Khí",
+      "Khí Freon (2)",
+      "+",
+      "++",
+      "+",
+      "-",
+      "++"
+    ],
+    [
+      "Aerosol (Sol-khí)",
+      "Áp dụng chung",
+      "++",
+      "++",
+      "++",
+      "-",
+      "++"
+    ],
+    [
+      "Bột",
+      "Áp dụng chung",
+      "++",
+      "+++",
+      "+++",
+      "+++",
+      "++"
+    ]
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "total_tables": 19,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Loại và nhóm đám cháy",
+      "csv_file": "tables/csv/bang_01.csv",
+      "json_file": "tables/json/bang_01.json",
+      "row_count": 9,
+      "col_count": 4,
+      "footnotes": []
+    },
+    {
+      "table_id": "bang_02",
+      "table_number": "2",
+      "title": "Bảng 2 - Hiệu quả chữa cháy của các chất chữa cháy",
+      "csv_file": "tables/csv/bang_02.csv",
+      "json_file": "tables/json/bang_02.json",
+      "row_count": 12,
+      "col_count": 7,
+      "footnotes": [
+        "(1) Tuân thủ các yêu cầu an toàn điện.",
+        "(2) Khí Freon là các khí chữa cháy có thành phần chlorofluorocarbon hoặc hydrofluorocarbon như: HFC-227ea, FK-5-1-12...",
+        "CHÚ THÍCH: Dấu “+++” Chữa cháy rất hiệu quả; Dấu “++” Chữa cháy hiệu quả; Dấu “+” Chữa cháy hiệu quả thấp; Dấu “-” Chữa cháy không thích hợp."
+      ]
+    },
+    {
+      "table_id": "bang_a_1",
+      "table_number": "A.1",
+      "title": "Bảng A.1 - Đối với nhà",
+      "csv_file": "tables/csv/bang_a_1.csv",
+      "json_file": "tables/json/bang_a_1.json",
+      "row_count": 56,
+      "col_count": 4,
+      "footnotes": [
+        "(1) Đối với nhà hỗn hợp không thuộc diện phải trang bị hệ thống chữa cháy tự động theo quy định tại Bảng A.1 nhưng phần công năng bất kỳ của nhà có quy mô thuộc diện phải trang bị hệ thống chữa cháy tự động theo Bảng A.1 thì phải trang bị hệ thống chữa cháy tự động cho phần nhà đó.\nKhi bố trí kinh doanh karaoke, vũ trường trong nhà hỗn hợp nhưng phần kinh doanh karaoke, vũ trường của nhà có quy mô thuộc diện phải trang bị hệ thống chữa cháy tự động theo Bảng A.1 hoặc kinh doanh karaoke, vũ trường được bố trí từ tầng 3 trở lên thì phải trang bị hệ thống chữa cháy tự động cho toàn bộ nhà.\nCho phép bố trí trang bị hệ thống chữa cháy tự động đóng gói (Package) thay cho hệ thống chữa cháy tự động trong các công trình quy định tại Phụ lục A TCVN 13926.",
+        "(2) Cho phép chỉ trang bị hệ thống báo cháy tự động hoặc thiết bị báo cháy độc lập tại khu vực sản xuất, kinh doanh, tuy nhiên tại mỗi tầng của nhà phải có thiết bị cảnh báo âm thanh kết nối liên động với hệ thống báo cháy tự động hoặc thiết bị báo cháy độc lập.\nĐối với nhà ở riêng lẻ kết hợp kinh doanh dịch vụ, nhà ở riêng lẻ kết hợp sản xuất, kinh doanh hàng hóa dễ cháy có phần diện tích để sản xuất, kinh doanh từ 30 % đến 70 % tổng diện tích sàn của nhà trở lên thì việc trang bị hệ thống báo cháy tự động, thiết bị báo cháy độc lập và hệ thống chữa cháy tự động như đối với nhà hỗn hợp; trường hợp phần diện tích để sản xuất, kinh doanh trên 70 % tổng diện tích sàn của nhà thì việc trang bị hệ thống báo cháy tự động, thiết bị báo cháy độc lập và hệ thống chữa cháy tự động thực hiện theo công năng sản xuất, kinh doanh.",
+        "(3) Cho phép không lắp đặt hệ thống chữa cháy tự động tại các khu vực trưng bày xoong nồi, thiết bị, hàng hóa, vật liệu không cháy; khu vực lưu trữ và chế biến để bán thịt, cá, trái cây và rau quả (trong bao bì không cháy).",
+        "(4) Cho phép không bố trí hệ thống chữa cháy tự động trong các nhà để xe ngầm một tầng hầm được xây dựng bên dưới khu đất trống khi sức chứa không quá 25 chỗ.\nTrong các nhà để xe ô tô một hoặc hai tầng dạng ngăn (ngăn cách tối thiểu bằng vách ngăn cháy loại 1 có lối ra ngoài trời trực tiếp từ từng ngăn chứa), cho phép không trang bị hệ thống báo cháy tự động và hệ thống chữa cháy tự động, với điều kiện mỗi ngăn không quá 2 xe.\nCho phép không trang bị hệ thống báo cháy tự động, hệ thống chữa cháy tự động đối với nhà lưu giữ, trưng bày xe máy cao không quá 02 tầng và tổng diện tích sàn không quá 1 000 m2.",
+        "(5) Nhà dạng hở: nhà không có tường bao che ngoài. Nhà cũng được coi là hở nếu công trình có hai cạnh đối diện dài nhất được để hở. Cạnh được coi là được để hở nếu tổng diện tích sàn phần để hở dọc theo cạnh này chiếm không ít hơn 50 % diện tích mặt ngoài của nó ở trên từng tầng.",
+        "(6) Không yêu cầu trang bị hệ thống báo cháy tự động, hệ thống chữa cháy tự động đối với nhà dạng hở để chế biến, lưu trữ nông sản dạng hạt.",
+        "CHÚ THÍCH 1: Các nhà thuộc mục 6, 10, 12, 16, 20, 21 có bậc chịu lửa IV-V phải trang bị hệ thống báo cháy tự động khi tổng diện tích sàn từ 200 m2 trở lên và phải trang bị hệ thống chữa cháy tự động khi tổng diện tích sàn từ 1 200 m2 trở lên.",
+        "CHÚ THÍCH 2: Nhà điều trị nội trú có tổng diện tích sàn từ 3 000 m2 trở lên, nhà khám, chữa bệnh của bệnh viện tâm thần có tổng diện tích sàn từ 3 000 m2 trở lên, nhà dưỡng lão khi có tổng diện tích sàn từ 3 000 m2 trở lên và các nhà dân dụng có chiều cao PCCC từ 75 m trở lên phải trang bị hệ thống báo cháy địa chỉ khi xây dựng mới."
+      ]
+    },
+    {
+      "table_id": "bang_a_2",
+      "table_number": "A.2",
+      "title": "Bảng A.2 - Đối với hạng mục/khu vực",
+      "csv_file": "tables/csv/bang_a_2.csv",
+      "json_file": "tables/json/bang_a_2.json",
+      "row_count": 14,
+      "col_count": 4,
+      "footnotes": [
+        "(1) Hạng mục cáp trong Quy chuẩn này bao gồm tuy nen, giếng, sàn nâng (sàn kép), tầng cáp, hành lang cáp dùng để đặt cáp (bao gồm cả kết hợp với các phương tiện liên lạc khác).",
+        "(2) Cho phép không trang bị hệ thống báo cháy tự động, hệ thống chữa cháy tự động trong các trường hợp sau:\n- Cáp được luồn trong ống hoặc được bọc bằng vật liệu không cháy hoặc có tính cháy Ch1;\n- Là cáp, dây dẫn điện của hệ thống chiếu sáng, hệ thống thông tin.",
+        "(3) Các khu vực áp dụng yêu cầu tại mục 7.1, 7.2 của Bảng này, gồm:\n- Hành lang thoát nạn, hội trường, tiền sảnh;\n- Gian phòng có từ 50 người trở lên;\n- Gian phòng cấp nguy hiểm cháy theo công năng nhóm F1.1 và F4.1 và kinh doanh dịch vụ karaoke, vũ trường.\nCho phép chỉ bố trí đầu báo cháy tại các vị trí các đường ống kỹ thuật và/hoặc đường máng cáp tại không gian phía trên trần treo và dưới sàn nâng."
+      ]
+    },
+    {
+      "table_id": "bang_a_3",
+      "table_number": "A.3",
+      "title": "Bảng A.3 - Đối với gian phòng",
+      "csv_file": "tables/csv/bang_a_3.csv",
+      "json_file": "tables/json/bang_a_3.json",
+      "row_count": 67,
+      "col_count": 4,
+      "footnotes": [
+        "(1) Cho phép không lắp đặt hệ thống chữa cháy tự động cho toàn bộ gian phòng khi trong gian phòng này được lắp đặt hệ thống báo cháy tự động và tất cả các thiết bị điện, điện tử (bao gồm cả thiết bị của hệ thống kiểm soát quy trình tự động) được bảo vệ bởi các thiết bị chữa cháy tự động theo tiêu chuẩn quốc gia, tiêu chuẩn quốc tế, tiêu chuẩn nước ngoài áp dụng tại Việt Nam theo quy định.",
+        "(2) Hệ thống chữa cháy tự động được lựa chọn để bảo vệ cho các gian phòng này phải không được gây hư hỏng hoặc trục trặc cho thiết bị trong trường hợp kích hoạt sai.",
+        "(3) Yêu cầu này không áp dụng cho các gian phòng tạm thời được sử dụng cho triển lãm, trưng bày.",
+        "(4) Khi diện tích sân khấu từ 100 m2 trở lên thì phải có giải pháp ngăn cháy giữa khu vực sân khấu và khu vực khán giả (bằng màn nước ngăn cháy drencher hoặc màn ngăn cháy có giới hạn chịu lửa tối thiểu EI 60).",
+        "(5) Trung tâm báo cháy của trạm biến áp không người trực phải truyền tín hiệu báo cháy đến trung tâm điều khiển từ xa.",
+        "CHÚ THÍCH: Các gian phòng sản xuất và các gian phòng kho, kể cả các phòng thí nghiệm và nhà xưởng có diện tích trên 50 m2 trong các nhà thuộc nhóm F1, F2, F3 và F4 thì áp dụng quy định của Quy chuẩn này như đối với gian phòng F5."
+      ]
+    },
+    {
+      "table_id": "bang_a_4",
+      "table_number": "A.4",
+      "title": "Bảng A.4 - Đối với thiết bị",
+      "csv_file": "tables/csv/bang_a_4.csv",
+      "json_file": "tables/json/bang_a_4.json",
+      "row_count": 10,
+      "col_count": 4,
+      "footnotes": [
+        "(1) Cho phép sử dụng thiết bị chữa cháy tự động thay thế hệ thống chữa cháy tự động.",
+        "CHÚ THÍCH: Dấu “-” trong các bảng tại Phụ lục A được hiểu là không bắt buộc phải trang bị hệ thống báo cháy tự động/chữa cháy tự động."
+      ]
+    },
+    {
+      "table_id": "bang_b_1",
+      "table_number": "B.1",
+      "title": "Bảng B.1 - Quy định về trang bị hệ thống họng nước chữa cháy trong nhà",
+      "csv_file": "tables/csv/bang_b_1.csv",
+      "json_file": "tables/json/bang_b_1.json",
+      "row_count": 23,
+      "col_count": 3,
+      "footnotes": [
+        "CHÚ THÍCH 1: Đối với nhà hỗn hợp, nhà ở riêng lẻ kết hợp kinh doanh dịch vụ, nhà ở riêng lẻ kết hợp sản xuất, kinh doanh hàng hóa dễ cháy không thuộc diện phải trang bị hệ thống họng nước chữa cháy trong nhà nhưng phần công năng bất kỳ của nhà có quy mô thuộc diện phải trang bị hệ thống họng nước chữa cháy trong nhà theo Bảng B.1 thì phải trang bị hệ thống họng nước chữa cháy trong nhà cho phần nhà đó. Đối với nhà hỗn hợp có phần công năng kinh doanh dịch vụ karaoke, vũ trường từ tầng 3 trở lên thì phải trang bị hệ thống họng nước chữa cháy trong nhà cho toàn bộ nhà.\nNhà ở riêng lẻ kết hợp kinh doanh dịch vụ, nhà ở riêng lẻ kết hợp sản xuất, kinh doanh hàng hóa dễ cháy có phần diện tích sàn để sản xuất, kinh doanh trên 70 % tổng diện tích của nhà trở lên thì việc trang bị họng nước chữa cháy trong nhà thực hiện theo công năng sản xuất, kinh doanh.",
+        "CHÚ THÍCH 2: Cho phép bố trí trang bị hệ thống họng nước chữa cháy đóng gói (Package) thay cho hệ thống họng nước chữa cháy trong các công trình quy định tại Phụ lục A TCVN 13926.",
+        "CHÚ THÍCH 3: Không trang bị hệ thống họng nước chữa cháy trong nhà đối với nhà sản xuất, nhà kho có sử dụng hay bảo quản các chất khi tiếp xúc với nước có thể sinh ra cháy, nổ, ngọn lửa lan truyền."
+      ]
+    },
+    {
+      "table_id": "bang_c_1",
+      "table_number": "C.1",
+      "title": "Bảng C.1 - Quy định về trang bị hệ thống cấp nước chữa cháy ngoài nhà",
+      "csv_file": "tables/csv/bang_c_1.csv",
+      "json_file": "tables/json/bang_c_1.json",
+      "row_count": 13,
+      "col_count": 3,
+      "footnotes": [
+        "(1) Chỉ yêu cầu đối với các trạm dừng nghỉ được quy hoạch theo các tuyến đường cao tốc.",
+        "(2) Chỉ yêu cầu đối với các kho nằm độc lập, không bao gồm kho của các cơ sở sản xuất, dân dụng.",
+        "(3) Không yêu cầu đối với các nhà, công trình nằm trong các khu công nghiệp, cụm công nghiệp."
+      ]
+    },
+    {
+      "table_id": "bang_d_1",
+      "table_number": "D.1",
+      "title": "Bảng D.1 - Quy định về trang bị phương tiện chữa cháy cơ giới",
+      "csv_file": "tables/csv/bang_d_1.csv",
+      "json_file": "tables/json/bang_d_1.json",
+      "row_count": 26,
+      "col_count": 6,
+      "footnotes": [
+        "(1) Áp dụng đối với các kho được trang bị hệ thống chữa cháy tự động, hệ thống chữa cháy và làm mát được lắp đặt cố định cho bồn chứa, trạm bơm dầu mỏ và sản phẩm dầu mỏ. Đối với các kho không được trang bị các hệ thống chữa cháy tự động, hệ thống chữa cháy và làm mát được lắp đặt cố định cho bồn chứa, trạm bơm dầu mỏ và sản phẩm dầu mỏ thì phải trang bị phương tiện chữa cháy cơ giới bằng hai lần định mức tại Bảng này.",
+        "(2) Cho phép thay thế máy bơm chữa cháy loại khiêng tay bằng xe ô tô chữa cháy.",
+        "CHÚ THÍCH 1: Các dự án công trình liền kề hoặc có bán kính phục vụ chữa cháy không quá 03 km do cùng một cơ quan, tổ chức được chỉ định quản lý vận hành thì cho phép xem xét trang bị phương tiện chữa cháy cơ giới theo một dự án công trình có yêu cầu lớn hơn. Dự án công trình còn lại yêu cầu trang bị 01 máy bơm chữa cháy khiêng tay.",
+        "CHÚ THÍCH 2: Cho phép thay thế máy bơm chữa cháy loại khiêng tay bằng xe ô tô chữa cháy.",
+        "CHÚ THÍCH 3: Các khu khi được phân kỳ đầu tư theo quy định pháp luật về xây dựng thì cho phép trang bị phương tiện chữa cháy cơ giới theo quy mô của từng phân kỳ đầu tư.",
+        "CHÚ THÍCH 4: Cho phép thay thế tàu chữa cháy bằng tàu lai dắt có chức năng chữa cháy."
+      ]
+    },
+    {
+      "table_id": "bang_e_1",
+      "table_number": "E.1",
+      "title": "Bảng E.1 - Quy định về trang bị dụng cụ phá dỡ thô sơ",
+      "csv_file": "tables/csv/bang_e_1.csv",
+      "json_file": "tables/json/bang_e_1.json",
+      "row_count": 7,
+      "col_count": 4,
+      "footnotes": []
+    },
+    {
+      "table_id": "bang_f_1",
+      "table_number": "F.1",
+      "title": "Bảng F.1 - Quy định về trang bị mặt nạ lọc độc và mặt nạ phòng độc cách ly",
+      "csv_file": "tables/csv/bang_f_1.csv",
+      "json_file": "tables/json/bang_f_1.json",
+      "row_count": 10,
+      "col_count": 4,
+      "footnotes": []
+    },
+    {
+      "table_id": "bang_g_1",
+      "table_number": "G.1",
+      "title": "Bảng G.1 - Quy định về trang bị hệ thống loa thông báo và hướng dẫn thoát nạn",
+      "csv_file": "tables/csv/bang_g_1.csv",
+      "json_file": "tables/json/bang_g_1.json",
+      "row_count": 6,
+      "col_count": 3,
+      "footnotes": []
+    },
+    {
+      "table_id": "bang_h_1",
+      "table_number": "H.1",
+      "title": "Bảng H.1 - Lưu lượng nước từ mạng đường ống cho chữa cháy ngoài nhà trong các khu dân cư",
+      "csv_file": "tables/csv/bang_h_1.csv",
+      "json_file": "tables/json/bang_h_1.json",
+      "row_count": 15,
+      "col_count": 4,
+      "footnotes": [
+        "CHÚ THÍCH 1: Lưu lượng nước cho chữa cháy ngoài nhà trong khu dân cư phải không nhỏ hơn lưu lượng nước chữa cháy cho nhà theo Bảng H.2. CHÚ THÍCH 2: Khi thực hiện cấp nước theo vùng, lưu lượng nước cho chữa cháy ngoài nhà và số đám cháy đồng thời theo từng vùng được lấy phụ thuộc vào số dân sống trong vùng. CHÚ THÍCH 3: Đối với hệ thống các cụm đường ống nhóm (chung), số đám cháy đồng thời lấy phụ thuộc vào tổng số dân trong các cụm có kết nối với hệ thống đường ống. Lưu lượng nước để hồi phục lượng nước chữa cháy theo cụm đường ống nhóm được xác định bằng tổng lượng nước cho khu dân cư (tương ứng với số đám cháy đồng thời) tối đa để chữa cháy tuân theo quy định tại H.1.3.3 và H.1.3.4. CHÚ THÍCH 4: Số đám cháy tính toán đồng thời trong khu dân cư phải bao gồm cả các đám cháy của nhà sản xuất và nhà kho trong khu dân cư đó. Khi đó lưu lượng nước tính toán bao gồm cả lưu lượngnước để chữa cháytươngứngcho các nhà đó,nhưngkhôngnhỏ hơngiá trịtrongBảngH.1."
+      ]
+    },
+    {
+      "table_id": "bang_h_2",
+      "table_number": "H.2",
+      "title": "Bảng H.2 - Lưu lượng nước cho chữa cháy ngoài nhà của nhà thuộc nhóm nguy hiểm cháy theo công năng F",
+      "csv_file": "tables/csv/bang_h_2.csv",
+      "json_file": "tables/json/bang_h_2.json",
+      "row_count": 11,
+      "col_count": 6,
+      "footnotes": [
+        "(1) Đối với nhà thuộc khu vực nông thôn lấy lưu lượng nước cho 1 đám cháy là 5 L/s.",
+        "CHÚ THÍCH 1: Nếu hiệu suất của mạng đường ống ngoài nhà không đủ để truyền lưu lượng nước tính toán cho chữa cháy hoặc khi liên kết ống vào với mạng đường ống cụt thì cần phải xem xét lắp đặt bồn, bể với thể tích phải bảo đảm lưu lượng nước cho chữa cháy ngoài nhà trong 3 h.",
+        "CHÚ THÍCH 2: Trong khu dân cư không có đường ống nước chữa cháy thì phải có bồn, bể nước bảo đảm chữa cháy trong 3 h."
+      ]
+    },
+    {
+      "table_id": "bang_h_3",
+      "table_number": "H.3",
+      "title": "Bảng H.3 - Lưu lượng nước cho chữa cháy ngoài nhà cho nhà nhóm F5 có lỗ mở trên mái không phụ thuộc bậc chịu lửa",
+      "csv_file": "tables/csv/bang_h_3.csv",
+      "json_file": "tables/json/bang_h_3.json",
+      "row_count": 10,
+      "col_count": 11,
+      "footnotes": []
+    },
+    {
+      "table_id": "bang_h_4",
+      "table_number": "H.4",
+      "title": "Bảng H.4 - Lưu lượng nước cho chữa cháy ngoài nhà cho nhà nhóm F5 không có lỗ mở trên mái có chiều rộng không quá 60 m",
+      "csv_file": "tables/csv/bang_h_4.csv",
+      "json_file": "tables/json/bang_h_4.json",
+      "row_count": 7,
+      "col_count": 12,
+      "footnotes": [
+        "CHÚ THÍCH: Lỗ mở trên mái là các lỗ mở để thông gió hoặc lấy sáng đặt trên kết cấu mái của nhà (nócgió,cửa trời;lỗ thườngxuyên mở;lỗ mở khi có cháy;ô kính;tấm lợplấysánghoặc các lỗ mở"
+      ]
+    },
+    {
+      "table_id": "bang_h_5",
+      "table_number": "H.5",
+      "title": "Bảng H.5 - Số tia phun chữa cháy và lưu lượng nước tối thiểu đối với hệ thống họng nước chữa cháy",
+      "csv_file": "tables/csv/bang_h_5.csv",
+      "json_file": "tables/json/bang_h_5.json",
+      "row_count": 21,
+      "col_count": 3,
+      "footnotes": [
+        "(1) Khi hành lang chung dài trên 10 m thì phải có tối thiểu 2 tia phun chữa cháy hoạt động đồng thời cho mỗi điểm cháy.",
+        "(2) Đối với nhà hành chính có chiều cao PCCC trên 50 m thì số tia phun chữa cháy và lưu lượng nước tối thiểu đối với hệ thống họng nước chữa cháy thực hiện theo quy định tại H.2.2."
+      ]
+    },
+    {
+      "table_id": "bang_h_6",
+      "table_number": "H.6",
+      "title": "Bảng H.6 - Số tia phun chữa cháy và lưu lượng nước tối thiểu cho chữa cháy trong nhà đối với nhà sản xuất và nhà kho",
+      "csv_file": "tables/csv/bang_h_6.csv",
+      "json_file": "tables/json/bang_h_6.json",
+      "row_count": 10,
+      "col_count": 5,
+      "footnotes": []
+    },
+    {
+      "table_id": "bang_h_7",
+      "table_number": "H.7",
+      "title": "Bảng H.7 - Lưu lượng nước chữa cháy phụ thuộc theo chiều cao tia nước đặc và đường kính đầu lăng phun chữa cháy",
+      "csv_file": "tables/csv/bang_h_7.csv",
+      "json_file": "tables/json/bang_h_7.json",
+      "row_count": 15,
+      "col_count": 14,
+      "footnotes": [
+        "(1) DN - Viết tắt của Diameter Nominal - Đường kính trong danh nghĩa, đơn vị tính bằng milimét (mm)."
+      ]
+    }
+  ]
+}

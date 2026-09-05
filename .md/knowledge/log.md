@@ -65,4 +65,13 @@ Tài liệu ghi nhận nhật ký đột biến, chuẩn hóa dữ liệu và ba
   - **Đúc kết Bài học Kinh nghiệm Mục 42 & Khảo sát 5 Bẫy ngầm:** Ghi nhận vào `session_learnings.md` và phân tích sâu các rủi ro Floating Text Box, Ghost Media, Slug Collision, EMU Scaling và Symbol PUA Font.
   - **Nghiệm thu Master CI 15 Gates:** Đạt $100\%$ tỷ lệ đạt chuẩn trên toàn bộ 39 văn bản của Spoke. Đẩy thành công 92 commits lên GitHub Remote `origin/main`.
 
+## [2026-09-05] [feat] | QCVN 10:2025/BCA 100% Verbatim Ingestion, Pure AST Tree & Zero Ragged Rows 2D Matrix Regularity
+- **Phạm vi:** `legal_docs/02_qcvn/qcvn_10_2025_bca/`, `legal_registry.yaml`, `.md/knowledge/expansion_roadmap.md`, `.md/knowledge/log.md`.
+- **Nội dung:**
+  - **Nạp QCVN 10:2025/BCA:** Đóng gói chuẩn OKF v2.4 Universal với 100% Verbatim Parity (548 đoạn DOCX đối soát khớp 1:1, 0 đoạn thiếu), ban hành kèm Thông tư 103/2025/TT-BCA của Bộ Công an, có hiệu lực 30/12/2025 (Thay thế phần bắt buộc của TCVN 3890:2023).
+  - **Cấu trúc Dữ liệu Đa tầng:** 13 bảng tra cứu số liệu 2D chuẩn chữ nhật (Zero Ragged Rows, footnotes decoupled vào metadata), 8 Phụ lục kỹ thuật quy phạm (A đến H), cây AST `clauses.json` (105 điều khoản phân quyền `CONG_AN`), bộ câu hỏi `qa_benchmark.json` (110 test cases), và các thẻ thuyết minh `figures/`, `templates/`.
+  - **Chẩn đoán & Xử lý Triệt để Lỗi Visual Parity:** Khắc phục lỗi `MISSING_NOTE_1` do chuyển đổi nhầm các dòng tham số (`24 h`, `36 h`, `72 h`, `20 L/s`, `48 h`) thành tiêu đề Markdown giả, khôi phục cấu trúc phân cấp danh sách chuẩn quy chuẩn cho Điều H.1.3.4 và CHÚ THÍCH 1 - 2.
+  - **Nghiệm thu Master CI 15 Gates:** Vượt qua 100% toàn bộ 15 Cổng kiểm định chất lượng nghiêm ngặt của Spoke (`scripts/validate_legal_spoke.py`), nâng tổng số văn bản tri thức chuẩn hóa lên **40 văn bản**.
+
+
 
