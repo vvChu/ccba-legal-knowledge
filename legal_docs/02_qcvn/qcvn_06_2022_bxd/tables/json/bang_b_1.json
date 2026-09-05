@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_b_1",
+  "title": "Bảng B.1 - Nhóm vật liệu cháy theo tính cháy",
+  "headers": [
+    "Nhóm cháy của vật liệu",
+    "Các thông số cháy - Nhiệt độ khí trong ống thoát khói, T,°C",
+    "Các thông số cháy - Mức độ hư hỏng làm giảm chiều dài mẫu, L, %",
+    "Các thông số cháy - Mức độ hư hỏng làm giảm khối lượng mẫu, m, %",
+    "Các thông số cháy - Khoảng thời gian tự cháy, s"
+  ],
+  "rows": [
+    {
+      "Nhóm cháy của vật liệu": "Ch1 - cháy yếu",
+      "Các thông số cháy - Nhiệt độ khí trong ống thoát khói, T,°C": "≤ 135",
+      "Các thông số cháy - Mức độ hư hỏng làm giảm chiều dài mẫu, L, %": "≤ 65",
+      "Các thông số cháy - Mức độ hư hỏng làm giảm khối lượng mẫu, m, %": "≤ 20",
+      "Các thông số cháy - Khoảng thời gian tự cháy, s": "0"
+    },
+    {
+      "Nhóm cháy của vật liệu": "Ch2 - cháy vừa phải",
+      "Các thông số cháy - Nhiệt độ khí trong ống thoát khói, T,°C": "≤ 235",
+      "Các thông số cháy - Mức độ hư hỏng làm giảm chiều dài mẫu, L, %": "≤ 85",
+      "Các thông số cháy - Mức độ hư hỏng làm giảm khối lượng mẫu, m, %": "≤ 50",
+      "Các thông số cháy - Khoảng thời gian tự cháy, s": "≤ 30"
+    },
+    {
+      "Nhóm cháy của vật liệu": "Ch3 - cháy mạnh vừa",
+      "Các thông số cháy - Nhiệt độ khí trong ống thoát khói, T,°C": "≤ 450",
+      "Các thông số cháy - Mức độ hư hỏng làm giảm chiều dài mẫu, L, %": "> 85",
+      "Các thông số cháy - Mức độ hư hỏng làm giảm khối lượng mẫu, m, %": "≤ 50",
+      "Các thông số cháy - Khoảng thời gian tự cháy, s": "≤ 300"
+    },
+    {
+      "Nhóm cháy của vật liệu": "Ch4 - cháy mạnh",
+      "Các thông số cháy - Nhiệt độ khí trong ống thoát khói, T,°C": "> 450",
+      "Các thông số cháy - Mức độ hư hỏng làm giảm chiều dài mẫu, L, %": "> 85",
+      "Các thông số cháy - Mức độ hư hỏng làm giảm khối lượng mẫu, m, %": "> 50",
+      "Các thông số cháy - Khoảng thời gian tự cháy, s": "> 300"
+    }
+  ],
+  "footnotes": [
+    "CHÚ THÍCH 1: Các thông số thử nghiệm được xác định theo tiêu chuẩn quốc gia hiện hành hoặc tiêu chuẩn tương đương về phương pháp thử tính cháy của vật liệu xây dựng CHÚ THÍCH 2: Nếu thử nghiệm theo TCVN 12695 (ISO 1182), các vật liệu đáp ứng các yêu cầu sau cũng được xếp vào nhóm vật liệu cháy yếu Ch1: - Mức gia tăng nhiệt độ của lò đốt không quá 50 °C; - Khối lượng mẫu bị giảm không quá 50 %; - Thời gian kéo dài của ngọn lửa không quá 20 s."
+  ]
+}

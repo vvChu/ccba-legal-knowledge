@@ -1,0 +1,47 @@
+{
+  "table_id": "bang_05",
+  "title": "Bảng 5 - Sự phù hợp giữa cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy với cấp nguy hiểm cháy của cấu kiện xây dựng",
+  "headers": [
+    "Cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy",
+    "Cấp nguy hiểm cháy của cấu kiện xây dựng - Các bộ phận chịu lực dạng thanh (cột, xà, giàn và tương tự)",
+    "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường ngoài từ phía ngoài",
+    "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường, vách ngăn, sàn giữa các tầng, và mái không có tầng áp mái",
+    "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường của buồng thang bộ; bộ phận ngăn cháy",
+    "Cấp nguy hiểm cháy của cấu kiện xây dựng - Bàn thang và chiếu thang trong buồng thang bộ"
+  ],
+  "rows": [
+    {
+      "Cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy": "S0",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Các bộ phận chịu lực dạng thanh (cột, xà, giàn và tương tự)": "K0",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường ngoài từ phía ngoài": "K0",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường, vách ngăn, sàn giữa các tầng, và mái không có tầng áp mái": "K0",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường của buồng thang bộ; bộ phận ngăn cháy": "K0",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Bàn thang và chiếu thang trong buồng thang bộ": "K0"
+    },
+    {
+      "Cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy": "S1",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Các bộ phận chịu lực dạng thanh (cột, xà, giàn và tương tự)": "K1",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường ngoài từ phía ngoài": "K2",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường, vách ngăn, sàn giữa các tầng, và mái không có tầng áp mái": "K1",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường của buồng thang bộ; bộ phận ngăn cháy": "K0",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Bàn thang và chiếu thang trong buồng thang bộ": "K0"
+    },
+    {
+      "Cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy": "S2",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Các bộ phận chịu lực dạng thanh (cột, xà, giàn và tương tự)": "K3",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường ngoài từ phía ngoài": "K3",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường, vách ngăn, sàn giữa các tầng, và mái không có tầng áp mái": "K2",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường của buồng thang bộ; bộ phận ngăn cháy": "K1",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Bàn thang và chiếu thang trong buồng thang bộ": "K1"
+    },
+    {
+      "Cấp nguy hiểm cháy kết cấu của nhà, công trình và khoang cháy": "S3",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Các bộ phận chịu lực dạng thanh (cột, xà, giàn và tương tự)": "Không quy định",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường ngoài từ phía ngoài": "Không quy định",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường, vách ngăn, sàn giữa các tầng, và mái không có tầng áp mái": "Không quy định",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Tường của buồng thang bộ; bộ phận ngăn cháy": "K1",
+      "Cấp nguy hiểm cháy của cấu kiện xây dựng - Bàn thang và chiếu thang trong buồng thang bộ": "K3"
+    }
+  ],
+  "footnotes": []
+}

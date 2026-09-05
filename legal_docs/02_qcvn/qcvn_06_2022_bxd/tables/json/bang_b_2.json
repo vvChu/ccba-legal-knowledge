@@ -1,0 +1,25 @@
+{
+  "table_id": "bang_b_2",
+  "title": "Bảng B.2 - Nhóm vật liệu cháy theo tính bắt cháy",
+  "headers": [
+    "Nhóm bắt cháy của vật liệu",
+    "Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2"
+  ],
+  "rows": [
+    {
+      "Nhóm bắt cháy của vật liệu": "BC1 - khó bắt cháy",
+      "Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2": "≥ 35"
+    },
+    {
+      "Nhóm bắt cháy của vật liệu": "BC2 - bắt cháy vừa phải",
+      "Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2": "≥ 20 và < 35"
+    },
+    {
+      "Nhóm bắt cháy của vật liệu": "BC3 - dễ bắt cháy",
+      "Cường độ thông lượng nhiệt bề mặt tới hạn, kW/m2": "< 20"
+    }
+  ],
+  "footnotes": [
+    "CHÚ THÍCH: Cường độ thông lượng nhiệt bề mặt tới hạn được xác định theo ISO 5657 hoặc tiêu chuẩn tương đương."
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "table_id": "bang_b_9",
+  "title": "Bảng B.9 - Phạm vi áp dụng của vật liệu hoàn thiện, trang trí, vật liệu ốp lát và vật liệu phủ sàn trong các gian phòng chung, trừ sân thi đấu thể thao và sàn của phòng nhảy",
+  "headers": [
+    "Nhóm nguy hiểm cháy theo công năng của nhà",
+    "Sức chứa của gian phòng, người",
+    "Cấp nguy hiểm cháy của vật liệu - sử dụng cho tường và trần (bao gồm cả tấm trần treo nếu có)",
+    "Cấp nguy hiểm cháy của vật liệu - phủ sàn"
+  ],
+  "rows": [
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà": "F1.2;  F2.3; F2.4;  F31; F3.2; F3.6;  F4.2; F4.3; F4.4;  F5.1",
+      "Sức chứa của gian phòng, người": "> 800",
+      "Cấp nguy hiểm cháy của vật liệu - sử dụng cho tường và trần (bao gồm cả tấm trần treo nếu có)": "CV0",
+      "Cấp nguy hiểm cháy của vật liệu - phủ sàn": "CV2"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà": "F1.2;  F2.3; F2.4;  F31; F3.2; F3.6;  F4.2; F4.3; F4.4;  F5.1",
+      "Sức chứa của gian phòng, người": "> 300 và ≤ 800",
+      "Cấp nguy hiểm cháy của vật liệu - sử dụng cho tường và trần (bao gồm cả tấm trần treo nếu có)": "CV1",
+      "Cấp nguy hiểm cháy của vật liệu - phủ sàn": "CV2"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà": "F1.2;  F2.3; F2.4;  F31; F3.2; F3.6;  F4.2; F4.3; F4.4;  F5.1",
+      "Sức chứa của gian phòng, người": "> 50 và ≤ 300",
+      "Cấp nguy hiểm cháy của vật liệu - sử dụng cho tường và trần (bao gồm cả tấm trần treo nếu có)": "CV2",
+      "Cấp nguy hiểm cháy của vật liệu - phủ sàn": "CV3"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà": "F1.2;  F2.3; F2.4;  F31; F3.2; F3.6;  F4.2; F4.3; F4.4;  F5.1",
+      "Sức chứa của gian phòng, người": "≤ 50",
+      "Cấp nguy hiểm cháy của vật liệu - sử dụng cho tường và trần (bao gồm cả tấm trần treo nếu có)": "CV3",
+      "Cấp nguy hiểm cháy của vật liệu - phủ sàn": "CV4"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà": "F1.1;  F2.1; F2.2;  F3.3, F3.4; F3.5;  F4.1",
+      "Sức chứa của gian phòng, người": "> 300",
+      "Cấp nguy hiểm cháy của vật liệu - sử dụng cho tường và trần (bao gồm cả tấm trần treo nếu có)": "CV0",
+      "Cấp nguy hiểm cháy của vật liệu - phủ sàn": "CV2"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà": "F1.1;  F2.1; F2.2;  F3.3, F3.4; F3.5;  F4.1",
+      "Sức chứa của gian phòng, người": "> 15 và ≤ 300",
+      "Cấp nguy hiểm cháy của vật liệu - sử dụng cho tường và trần (bao gồm cả tấm trần treo nếu có)": "CV1",
+      "Cấp nguy hiểm cháy của vật liệu - phủ sàn": "CV2"
+    },
+    {
+      "Nhóm nguy hiểm cháy theo công năng của nhà": "F1.1;  F2.1; F2.2;  F3.3, F3.4; F3.5;  F4.1",
+      "Sức chứa của gian phòng, người": "≤ 15",
+      "Cấp nguy hiểm cháy của vật liệu - sử dụng cho tường và trần (bao gồm cả tấm trần treo nếu có)": "CV3",
+      "Cấp nguy hiểm cháy của vật liệu - phủ sàn": "CV4"
+    }
+  ],
+  "footnotes": []
+}

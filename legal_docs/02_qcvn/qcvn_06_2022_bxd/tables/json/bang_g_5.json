@@ -1,0 +1,58 @@
+{
+  "table_id": "bang_g_5",
+  "title": "Bảng G.5 - Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn của các gian phòng không có ghế ngồi cho khán giả của nhà công cộng",
+  "headers": [
+    "Gian phòng",
+    "Bậc chịu lửa của nhà",
+    "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - ≤ 5",
+    "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 5 và ≤ 10",
+    "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 10"
+  ],
+  "rows": [
+    {
+      "Gian phòng": "1. Các gian phòng thương mại khi diện tích của các đường thoát nạn chính không nhỏ hơn 25 % diện tích của gian phòng; Các phòng ăn và phòng đọc khi mật độ dòng người trên mỗi lối đi chính không lớn hơn 5 người/m2.",
+      "Bậc chịu lửa của nhà": "I, II",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - ≤ 5": "165",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 5 và ≤ 10": "220",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 10": "275"
+    },
+    {
+      "Gian phòng": "1. Các gian phòng thương mại khi diện tích của các đường thoát nạn chính không nhỏ hơn 25 % diện tích của gian phòng; Các phòng ăn và phòng đọc khi mật độ dòng người trên mỗi lối đi chính không lớn hơn 5 người/m2.",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - ≤ 5": "115",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 5 và ≤ 10": "155",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 10": "Xem chú thích"
+    },
+    {
+      "Gian phòng": "1. Các gian phòng thương mại khi diện tích của các đường thoát nạn chính không nhỏ hơn 25 % diện tích của gian phòng; Các phòng ăn và phòng đọc khi mật độ dòng người trên mỗi lối đi chính không lớn hơn 5 người/m2.",
+      "Bậc chịu lửa của nhà": "V",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - ≤ 5": "80",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 5 và ≤ 10": "Xem chú thích",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 10": "Xem chú thích"
+    },
+    {
+      "Gian phòng": "2. Các gian phòng thương mại khi diện tích của các đường thoát nạn chính nhỏ hơn 25 % diện tích của gian phòng; và các gian phòng khác.",
+      "Bậc chịu lửa của nhà": "I, II",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - ≤ 5": "75",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 5 và ≤ 10": "100",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 10": "125"
+    },
+    {
+      "Gian phòng": "2. Các gian phòng thương mại khi diện tích của các đường thoát nạn chính nhỏ hơn 25 % diện tích của gian phòng; và các gian phòng khác.",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - ≤ 5": "50",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 5 và ≤ 10": "70",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 10": "Xem chú thích"
+    },
+    {
+      "Gian phòng": "2. Các gian phòng thương mại khi diện tích của các đường thoát nạn chính nhỏ hơn 25 % diện tích của gian phòng; và các gian phòng khác.",
+      "Bậc chịu lửa của nhà": "V",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - ≤ 5": "40",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 5 và ≤ 10": "Xem chú thích",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn trong các gian phòng có khối tích, 1 000 m3 - > 10": "Xem chú thích"
+    }
+  ],
+  "footnotes": [
+    "CHÚ THÍCH: Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn phải được xác định theo luận chứng kỹ thuật riêng."
+  ]
+}

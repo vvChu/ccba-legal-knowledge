@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_b_5",
+  "title": "Bảng B.5 - Nhóm vật liệu cháy theo độc tính",
+  "headers": [
+    "Nhóm độc tính của vật liệu",
+    "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 5",
+    "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 15",
+    "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 30",
+    "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 60"
+  ],
+  "rows": [
+    {
+      "Nhóm độc tính của vật liệu": "ĐT1 - độc tính thấp",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 5": "> 210",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 15": "> 150",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 30": "> 120",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 60": "> 90"
+    },
+    {
+      "Nhóm độc tính của vật liệu": "ĐT2 - độc tính vừa phải",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 5": "> 70 và ≤ 210",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 15": "> 50 và ≤ 150",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 30": "> 40 và ≤ 120",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 60": "> 30 và ≤ 90"
+    },
+    {
+      "Nhóm độc tính của vật liệu": "ĐT3 - độc tính cao",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 5": "> 25 và ≤ 70",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 15": "> 17 và ≤ 50",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 30": "> 13 và ≤ 40",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 60": "> 10 và ≤ 30"
+    },
+    {
+      "Nhóm độc tính của vật liệu": "ĐT4 - độc tính đặc biệt cao",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 5": "≤ 25",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 15": "≤ 17",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 30": "≤ 13",
+      "Chỉ số HCL50, g/m3, tương ứng với thời gian, min, để lộ - 60": "≤ 10"
+    }
+  ],
+  "footnotes": [
+    "CHÚ THÍCH: Các thông số thử nghiệm và tính toán chỉ số HCL50 theo ISO 13344 hoặc tiêu chuẩn tương đương."
+  ]
+}

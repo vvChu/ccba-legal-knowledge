@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_h_12",
+  "title": "Bảng H.12 - Nhà kho chứa gỗ thành phẩm",
+  "headers": [
+    "Hạng nhà",
+    "Bậc chịu lửa của nhà",
+    "Cấp nguy hiểm cháy kết cấu của nhà",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2"
+  ],
+  "rows": [
+    {
+      "Hạng nhà": "C",
+      "Bậc chịu lửa của nhà": "I, II, III",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "9 600"
+    },
+    {
+      "Hạng nhà": "C",
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0, S1",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "4 800"
+    },
+    {
+      "Hạng nhà": "C",
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S2, S3",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "2 400"
+    },
+    {
+      "Hạng nhà": "C",
+      "Bậc chịu lửa của nhà": "V",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "Không quy định",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2": "1 200"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,99 @@
+{
+  "table_id": "bang_f_7",
+  "title": "Bảng F.7 - Cột chống bằng thép được bọc bảo vệ (khối lượng cột trên 1 m dài không nhỏ hơn 45 kg)",
+  "headers": [
+    "Kết cấu và vật liệu bọc bảo vệ",
+    "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 240",
+    "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 180",
+    "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 120",
+    "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 90",
+    "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 60",
+    "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 30"
+  ],
+  "rows": [
+    {
+      "Kết cấu và vật liệu bọc bảo vệ": "A. Lớp bảo vệ dạng đặc 1) (không trát)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 240": "A. Lớp bảo vệ dạng đặc 1) (không trát)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 180": "A. Lớp bảo vệ dạng đặc 1) (không trát)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 120": "A. Lớp bảo vệ dạng đặc 1) (không trát)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 90": "A. Lớp bảo vệ dạng đặc 1) (không trát)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 60": "A. Lớp bảo vệ dạng đặc 1) (không trát)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 30": "A. Lớp bảo vệ dạng đặc 1) (không trát)"
+    },
+    {
+      "Kết cấu và vật liệu bọc bảo vệ": "1. Bê tông dùng cốt liệu tự nhiên, không nghèo hơn so với cấp phối 1:2:4 2):",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 240": "",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 180": "",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 120": "",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 90": "",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 60": "",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 30": ""
+    },
+    {
+      "Kết cấu và vật liệu bọc bảo vệ": "a) Bê tông không tham gia chịu lực, có cốt thép3)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 240": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 180": "-",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 120": "25",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 90": "25",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 60": "25",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 30": "25"
+    },
+    {
+      "Kết cấu và vật liệu bọc bảo vệ": "b) Bê tông có tham gia chịu lực, có cốt thép (được thiết kế theo tiêu chuẩn lựa chọn áp dụng)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 240": "75",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 180": "-",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 120": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 90": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 60": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 30": "50"
+    },
+    {
+      "Kết cấu và vật liệu bọc bảo vệ": "2. Gạch đặc đất sét nung",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 240": "100",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 180": "75",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 120": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 90": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 60": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 30": "50"
+    },
+    {
+      "Kết cấu và vật liệu bọc bảo vệ": "3. Block đặc bằng bê tông xỉ bọt hoặc bê tông pumice, có cốt thép3) tại tất cả các mạch ngang",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 240": "75",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 180": "60",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 120": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 90": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 60": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 30": "50"
+    },
+    {
+      "Kết cấu và vật liệu bọc bảo vệ": "B. Lớp bảo vệ dạng rỗng 4)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 240": "B. Lớp bảo vệ dạng rỗng 4)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 180": "B. Lớp bảo vệ dạng rỗng 4)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 120": "B. Lớp bảo vệ dạng rỗng 4)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 90": "B. Lớp bảo vệ dạng rỗng 4)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 60": "B. Lớp bảo vệ dạng rỗng 4)",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 30": "B. Lớp bảo vệ dạng rỗng 4)"
+    },
+    {
+      "Kết cấu và vật liệu bọc bảo vệ": "1. Gạch đặc đất sét nung có cốt thép tại tất cả các mạch ngang, không trát",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 240": "115",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 180": "-",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 120": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 90": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 60": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 30": "50"
+    },
+    {
+      "Kết cấu và vật liệu bọc bảo vệ": "2. Block đặc bằng bê tông xỉ bọt hoặc bê tông pumice có cốt thép 2) tại tất cả các mạch ngang, không trát",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 240": "75",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 180": "",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 120": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 90": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 60": "50",
+      "Chiều dày nhỏ nhất, mm, của lớp bảo vệ để bảo đảm giới hạn chịu lửa - R 30": "50"
+    }
+  ],
+  "footnotes": [
+    "1) Lớp bảo vệ dạng đặc có nghĩa là một vỏ bên ngoài được gắn chặt vào cột thép, không tạo ra khe hở giữa bề mặt tiếp xúc và tất cả các mạch ghép nối trong phần vỏ đó đều kín và đặc. 2) Tỉ lệ 1:2:4 là tỉ lệ xi măng : cát : cốt liệu thô theo thể tích. Bê tông nặng có cấp cường độ tối thiểu B20 theo TCVN 5574:2018 được coi là đạt yêu cầu này. 3) Cốt thép phải là các sợi thép buộc có đường kính không nhỏ hơn 2,3 mm, hoặc là một lưới thép có khối lượng đơn vị không nhỏ hơn 0,48 kg/m2. Trong lớp bê tông bảo vệ, khoảng cách cốt thép, theo bất kỳ chiều nào không được lớn hơn 150 mm. 4) Lớp bảo vệ dạng rỗng có nghĩa là có một khoảng trống giữa vật liệu bảo vệ và thép. Tất cả các lớp bảo vệ dạng rỗng cho cột phải được chèn bít một cách có hiệu quả tại mỗi cao trình sàn."
+  ]
+}

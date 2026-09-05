@@ -1,0 +1,74 @@
+{
+  "table_id": "bang_g_2a",
+  "title": "Bảng G.2a - Khoảng cách giới hạn cho phép từ cửa ra vào của gian phòng đến lối ra thoát nạn gần nhất đối với nhà công cộng",
+  "headers": [
+    "Bậc chịu lửa của nhà",
+    "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - ≤ 2",
+    "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 2 và ≤ 3",
+    "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 3 và ≤ 4",
+    "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 4 và ≤ 5",
+    "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 5"
+  ],
+  "rows": [
+    {
+      "Bậc chịu lửa của nhà": "I, II, III",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - ≤ 2": "60",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 2 và ≤ 3": "50",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 3 và ≤ 4": "40",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 4 và ≤ 5": "35",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 5": "20"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - ≤ 2": "40",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 2 và ≤ 3": "35",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 3 và ≤ 4": "30",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 4 và ≤ 5": "25",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 5": "15"
+    },
+    {
+      "Bậc chịu lửa của nhà": "V",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - ≤ 2": "30",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 2 và ≤ 3": "25",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 3 và ≤ 4": "20",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 4 và ≤ 5": "15",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 5": "10"
+    },
+    {
+      "Bậc chịu lửa của nhà": "2. Từ gian phòng có cửa ra mở vào hành lang cụt hoặc mở vào sảnh chung",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - ≤ 2": "2. Từ gian phòng có cửa ra mở vào hành lang cụt hoặc mở vào sảnh chung",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 2 và ≤ 3": "2. Từ gian phòng có cửa ra mở vào hành lang cụt hoặc mở vào sảnh chung",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 3 và ≤ 4": "2. Từ gian phòng có cửa ra mở vào hành lang cụt hoặc mở vào sảnh chung",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 4 và ≤ 5": "2. Từ gian phòng có cửa ra mở vào hành lang cụt hoặc mở vào sảnh chung",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 5": "2. Từ gian phòng có cửa ra mở vào hành lang cụt hoặc mở vào sảnh chung"
+    },
+    {
+      "Bậc chịu lửa của nhà": "I, II, III",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - ≤ 2": "30",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 2 và ≤ 3": "25",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 3 và ≤ 4": "20",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 4 và ≤ 5": "15",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 5": "10"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - ≤ 2": "20",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 2 và ≤ 3": "15",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 3 và ≤ 4": "15",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 4 và ≤ 5": "10",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 5": "7"
+    },
+    {
+      "Bậc chịu lửa của nhà": "V",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - ≤ 2": "15",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 2 và ≤ 3": "10",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 3 và ≤ 4": "10",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 4 và ≤ 5": "5",
+      "Khoảng cách, m, khi mật độ dòng người thoát nạn, người/m2 - > 5": "5"
+    }
+  ],
+  "footnotes": [
+    "1. Từ gian phòng có cửa ra bố trí ở giữa các buồng thang bộ hoặc ở giữa các lối ra bên ngoài",
+    "CHÚ THÍCH 1: Mật độ dòng người thoát nạn được xác định bằng tỉ số giữa tổng số người phải thoát nạn theo đường thoát nạn và diện tích của đường thoát nạn đó. CHÚ THÍCH 2: Phải áp dụng những giá trị khoảng cách quy định tại Bảng G.2a như sau: Đối với trường mầm non lấy theo cột (6); Đối với các trường phổ thông, trường kỹ thuật dạy nghề, các trường cao đẳng, chuyên nghiệp và đại học lấy theo cột (3); Đối với các cơ sở điều trị nội trú lấy theo cột (5); Đối với khách sạn lấy theo cột (4) Đối với các nhà công cộng khác, mật độ dòng người thoát nạn trong hành lang được lấy cụ thể cho từng dự án."
+  ]
+}

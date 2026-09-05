@@ -1,0 +1,107 @@
+{
+  "table_id": "bang_g_2b",
+  "title": "Bảng G.2b - Khoảng cách giới hạn cho phép từ một điểm bất kỳ của gian phòng công cộng không có ghế ngồi cho khán giả đến lối ra thoát nạn gần nhất",
+  "headers": [
+    "Gian phòng",
+    "Bậc chịu lửa của nhà",
+    "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5",
+    "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10",
+    "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10"
+  ],
+  "rows": [
+    {
+      "Gian phòng": "(1)",
+      "Bậc chịu lửa của nhà": "(2)",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5": "(3)",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10": "(4)",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10": "(5)"
+    },
+    {
+      "Gian phòng": "1. Các gian phòng chờ, bán vé, trưng bày triển lãm, khiêu vũ, nghỉ và tương tự.",
+      "Bậc chịu lửa của nhà": "I, II",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5": "30",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10": "45",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10": "55"
+    },
+    {
+      "Gian phòng": "1. Các gian phòng chờ, bán vé, trưng bày triển lãm, khiêu vũ, nghỉ và tương tự.",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5": "20",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10": "30",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10": "Xem chú thích"
+    },
+    {
+      "Gian phòng": "1. Các gian phòng chờ, bán vé, trưng bày triển lãm, khiêu vũ, nghỉ và tương tự.",
+      "Bậc chịu lửa của nhà": "V",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5": "15",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10": "Xem chú thích",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10": "Xem chú thích"
+    },
+    {
+      "Gian phòng": "2. Các gian phòng ăn, phòng đọc khi diện tích của mỗi lối đi chính tính theo đầu người không nhỏ hơn 0,2 m2.",
+      "Bậc chịu lửa của nhà": "I, II",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5": "65",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10": "Xem chú thích",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10": "Xem chú thích"
+    },
+    {
+      "Gian phòng": "2. Các gian phòng ăn, phòng đọc khi diện tích của mỗi lối đi chính tính theo đầu người không nhỏ hơn 0,2 m2.",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5": "45",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10": "Xem chú thích",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10": "Xem chú thích"
+    },
+    {
+      "Gian phòng": "2. Các gian phòng ăn, phòng đọc khi diện tích của mỗi lối đi chính tính theo đầu người không nhỏ hơn 0,2 m2.",
+      "Bậc chịu lửa của nhà": "V",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5": "30",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10": "Xem chú thích",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10": "Xem chú thích"
+    },
+    {
+      "Gian phòng": "3. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng không nhỏ hơn 25 %.",
+      "Bậc chịu lửa của nhà": "I, II",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5": "50",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10": "65",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10": "80"
+    },
+    {
+      "Gian phòng": "3. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng không nhỏ hơn 25 %.",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5": "35",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10": "45",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10": "Xem chú thích"
+    },
+    {
+      "Gian phòng": "3. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng không nhỏ hơn 25 %.",
+      "Bậc chịu lửa của nhà": "V",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5": "25",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10": "Xem chú thích",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10": "Xem chú thích"
+    },
+    {
+      "Gian phòng": "4. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng nhỏ hơn 25 %.",
+      "Bậc chịu lửa của nhà": "I, II",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5": "25",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10": "30",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10": "35"
+    },
+    {
+      "Gian phòng": "4. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng nhỏ hơn 25 %.",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5": "15",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10": "20",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10": "Xem chú thích"
+    },
+    {
+      "Gian phòng": "4. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng nhỏ hơn 25 %.",
+      "Bậc chịu lửa của nhà": "V",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - ≤ 5": "10",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 5 và ≤ 10": "Xem chú thích",
+      "Khoảng cách giới hạn cho phép, m, từ 1 điểm bất kỳ của gian phòng tới lối ra thoát nạn gần nhất với khối tích gian phòng, 1 000 m3 - > 10": "Xem chú thích"
+    }
+  ],
+  "footnotes": [
+    "CHÚ THÍCH: Khoảng cách giới hạn này phải được xác định theo luận chứng kỹ thuật riêng."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "table_id": "bang_h_3",
+  "title": "Bảng H.3 - Nhà của các cơ sở dịch vụ (nhóm F3.5)",
+  "headers": [
+    "Bậc chịu lửa của nhà",
+    "Cấp nguy hiểm cháy kết cấu",
+    "Chiều cao PCCC lớn nhất cho phép của nhà, m",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà 1 tầng",
+    "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà nhiều tầng (tối đa 6 tầng không kể đến tầng kỹ thuật trên cùng)"
+  ],
+  "rows": [
+    {
+      "Bậc chịu lửa của nhà": "I",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "18",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà 1 tầng": "3 000",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà nhiều tầng (tối đa 6 tầng không kể đến tầng kỹ thuật trên cùng)": "2 500"
+    },
+    {
+      "Bậc chịu lửa của nhà": "II",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "18",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà 1 tầng": "3 000",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà nhiều tầng (tối đa 6 tầng không kể đến tầng kỹ thuật trên cùng)": "2 500"
+    },
+    {
+      "Bậc chịu lửa của nhà": "II",
+      "Cấp nguy hiểm cháy kết cấu": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "6",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà 1 tầng": "2 500",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà nhiều tầng (tối đa 6 tầng không kể đến tầng kỹ thuật trên cùng)": "1 000"
+    },
+    {
+      "Bậc chịu lửa của nhà": "III",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "6",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà 1 tầng": "2 500",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà nhiều tầng (tối đa 6 tầng không kể đến tầng kỹ thuật trên cùng)": "1 000"
+    },
+    {
+      "Bậc chịu lửa của nhà": "III",
+      "Cấp nguy hiểm cháy kết cấu": "S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà 1 tầng": "1 000",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà nhiều tầng (tối đa 6 tầng không kể đến tầng kỹ thuật trên cùng)": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu": "S0, S1",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà 1 tầng": "1 000",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà nhiều tầng (tối đa 6 tầng không kể đến tầng kỹ thuật trên cùng)": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "IV",
+      "Cấp nguy hiểm cháy kết cấu": "S2, S3",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà 1 tầng": "500",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà nhiều tầng (tối đa 6 tầng không kể đến tầng kỹ thuật trên cùng)": "-"
+    },
+    {
+      "Bậc chịu lửa của nhà": "V",
+      "Cấp nguy hiểm cháy kết cấu": "S1, S2, S3",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m": "5",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà 1 tầng": "500",
+      "Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà nhiều tầng (tối đa 6 tầng không kể đến tầng kỹ thuật trên cùng)": "-"
+    }
+  ],
+  "footnotes": [
+    "CHÚ THÍCH: Dấu “-” nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng."
+  ]
+}

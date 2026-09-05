@@ -1,0 +1,11 @@
+﻿Bậc chịu lửa của nhà thứ nhất,Cấp nguy hiểm cháy kết cấu của nhà thứ nhất,"Khoảng cách phòng cháy chống cháy tối thiểu, m, đến nhà ở và nhà công cộng thứ hai với bậc chịu lửa và cấp nguy hiểm cháy kết cấu - I, II, III S0","Khoảng cách phòng cháy chống cháy tối thiểu, m, đến nhà ở và nhà công cộng thứ hai với bậc chịu lửa và cấp nguy hiểm cháy kết cấu - II, III  S1","Khoảng cách phòng cháy chống cháy tối thiểu, m, đến nhà ở và nhà công cộng thứ hai với bậc chịu lửa và cấp nguy hiểm cháy kết cấu - IV S0, S1","Khoảng cách phòng cháy chống cháy tối thiểu, m, đến nhà ở và nhà công cộng thứ hai với bậc chịu lửa và cấp nguy hiểm cháy kết cấu - IV, V  S2, S3"
+1. Nhà ở và nhà công cộng,1. Nhà ở và nhà công cộng,1. Nhà ở và nhà công cộng,1. Nhà ở và nhà công cộng,1. Nhà ở và nhà công cộng,1. Nhà ở và nhà công cộng
+"I, II, III",S0,6,8,8,10
+"II, III",S1,8,10,10,12
+IV,"S0, S1",8,10,10,12
+"IV, V","S2, S3",10,12,12,15
+2. Nhà sản xuất và nhà kho,2. Nhà sản xuất và nhà kho,2. Nhà sản xuất và nhà kho,2. Nhà sản xuất và nhà kho,2. Nhà sản xuất và nhà kho,2. Nhà sản xuất và nhà kho
+"I, II, III",S0,10,12,12,12
+"II, III",S1,12,12,12,12
+IV,"S0, S1",12,12,12,15
+"IV, V","S2, S3",15,15,15,18

@@ -1,0 +1,168 @@
+{
+  "table_id": "bang_g_7",
+  "title": "Bảng G.7 - số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng của nhà sản xuất",
+  "headers": [
+    "Khối tích của gian phòng, 1 000 m3",
+    "Hạng của gian phòng",
+    "Bậc chịu lửa của nhà",
+    "Cấp nguy hiểm cháy kết cấu của nhà",
+    "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người"
+  ],
+  "rows": [
+    {
+      "Khối tích của gian phòng, 1 000 m3": "≤ 15",
+      "Hạng của gian phòng": "A, B",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "45"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "≤ 15",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "110"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "≤ 15",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "75"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "≤ 15",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "Không quy định",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S2, S3",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "55"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "30",
+      "Hạng của gian phòng": "A, B",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "65"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "30",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "155"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "30",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "110"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "40",
+      "Hạng của gian phòng": "A, B",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "85"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "40",
+      "Hạng của gian phòng": "C1 , C2, C3",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "175"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "40",
+      "Hạng của gian phòng": "C1 , C2, C3",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "120"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "50",
+      "Hạng của gian phòng": "A, B",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "130"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "50",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "195"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "50",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "135"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "≥ 60",
+      "Hạng của gian phòng": "A, B",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "150"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "≥ 60",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "220"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "≥ 60",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "155"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "≥ 80",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "260"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "≥ 80",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "220"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "Không phụ thuộc vào khối tích",
+      "Hạng của gian phòng": "C4, D",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "260"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "Không phụ thuộc vào khối tích",
+      "Hạng của gian phòng": "C4, D",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "180"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "Không phụ thuộc vào khối tích",
+      "Hạng của gian phòng": "C4, D",
+      "Bậc chịu lửa của nhà": "Không quy định",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S2, S3",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "130"
+    },
+    {
+      "Khối tích của gian phòng, 1 000 m3": "Không phụ thuộc vào khối tích",
+      "Hạng của gian phòng": "E",
+      "Bậc chịu lửa của nhà": "Không quy định",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "Không quy định",
+      "Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn từ một gian phòng, người": "Không quy định"
+    }
+  ],
+  "footnotes": []
+}

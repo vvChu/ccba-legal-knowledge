@@ -1,0 +1,117 @@
+{
+  "table_id": "bang_g_4",
+  "title": "Bảng G.4 - Khoảng cách giới hạn cho phép từ cửa ra vào của gian phòng sản xuất có diện tích đến 1 000 m2 đến lối ra thoát nạn gần nhất",
+  "headers": [
+    "Vị trí cửa ra của gian phòng",
+    "Hạng của gian phòng",
+    "Bậc chịu lửa của nhà",
+    "Cấp nguy hiểm cháy kết cấu của nhà",
+    "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - ≤ 2",
+    "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 2 và ≤ 3",
+    "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 3 và ≤ 4",
+    "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 4 và ≤ 5"
+  ],
+  "rows": [
+    {
+      "Vị trí cửa ra của gian phòng": "1. Ở giữa hai lối ra thoát nạn",
+      "Hạng của gian phòng": "A, B",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - ≤ 2": "60",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 2 và ≤ 3": "50",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 3 và ≤ 4": "40",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 4 và ≤ 5": "35"
+    },
+    {
+      "Vị trí cửa ra của gian phòng": "1. Ở giữa hai lối ra thoát nạn",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - ≤ 2": "120",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 2 và ≤ 3": "95",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 3 và ≤ 4": "80",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 4 và ≤ 5": "65"
+    },
+    {
+      "Vị trí cửa ra của gian phòng": "1. Ở giữa hai lối ra thoát nạn",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - ≤ 2": "85",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 2 và ≤ 3": "65",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 3 và ≤ 4": "55",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 4 và ≤ 5": "45"
+    },
+    {
+      "Vị trí cửa ra của gian phòng": "1. Ở giữa hai lối ra thoát nạn",
+      "Hạng của gian phòng": "C1, C2, C3",
+      "Bậc chịu lửa của nhà": "Không quy định",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S2, S3",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - ≤ 2": "60",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 2 và ≤ 3": "50",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 3 và ≤ 4": "40",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 4 và ≤ 5": "35"
+    },
+    {
+      "Vị trí cửa ra của gian phòng": "1. Ở giữa hai lối ra thoát nạn",
+      "Hạng của gian phòng": "C4, D, E",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - ≤ 2": "180",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 2 và ≤ 3": "140",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 3 và ≤ 4": "120",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 4 và ≤ 5": "100"
+    },
+    {
+      "Vị trí cửa ra của gian phòng": "1. Ở giữa hai lối ra thoát nạn",
+      "Hạng của gian phòng": "C4, D, E",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - ≤ 2": "125",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 2 và ≤ 3": "100",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 3 và ≤ 4": "85",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 4 và ≤ 5": "70"
+    },
+    {
+      "Vị trí cửa ra của gian phòng": "1. Ở giữa hai lối ra thoát nạn",
+      "Hạng của gian phòng": "C4, D, E",
+      "Bậc chịu lửa của nhà": "Không quy định",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S2, S3",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - ≤ 2": "90",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 2 và ≤ 3": "70",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 3 và ≤ 4": "60",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 4 và ≤ 5": "50"
+    },
+    {
+      "Vị trí cửa ra của gian phòng": "2. Đi vào hành lang cụt",
+      "Hạng của gian phòng": "Không phụ thuộc vào hạng",
+      "Bậc chịu lửa của nhà": "I, II, III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S0",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - ≤ 2": "30",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 2 và ≤ 3": "25",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 3 và ≤ 4": "20",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 4 và ≤ 5": "15"
+    },
+    {
+      "Vị trí cửa ra của gian phòng": "2. Đi vào hành lang cụt",
+      "Hạng của gian phòng": "Không phụ thuộc vào hạng",
+      "Bậc chịu lửa của nhà": "III, IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S1",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - ≤ 2": "20",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 2 và ≤ 3": "15",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 3 và ≤ 4": "15",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 4 và ≤ 5": "10"
+    },
+    {
+      "Vị trí cửa ra của gian phòng": "2. Đi vào hành lang cụt",
+      "Hạng của gian phòng": "Không phụ thuộc vào hạng",
+      "Bậc chịu lửa của nhà": "Không quy định",
+      "Cấp nguy hiểm cháy kết cấu của nhà": "S2, S3",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - ≤ 2": "15",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 2 và ≤ 3": "10",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 3 và ≤ 4": "10",
+      "Khoảng cách đi theo hành lang, m, từ cửa gian phòng đến lối ra thoát nạn gần nhất, khi mật độ dòng người thoát nạn trên lối đi chung, người/m2 - > 4 và ≤ 5": "8"
+    }
+  ],
+  "footnotes": []
+}

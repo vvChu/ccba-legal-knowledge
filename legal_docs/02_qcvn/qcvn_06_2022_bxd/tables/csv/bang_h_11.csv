@@ -1,0 +1,20 @@
+﻿Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy,"Chiều cao lớn nhất cho phép của nhà 1), m",Bậc chịu lửa của nhà,Cấp nguy hiểm cháy kết cấu của nhà,"Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà 1 tầng","Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà 2 tầng","Diện tích lớn nhất cho phép của một tầng nhà trong phạm vi một khoang cháy, m2 - Nhà từ 3 tầng trở lên"
+(1),(2),(3),(4),(5),(6),(7)
+A,Không quy định,"I, II",S0,5 200,-,-
+A,Không quy định,III,S0,4 400,-,-
+A,Không quy định,IV,S0,3 600,-,-
+A,Không quy định,IV,"S2, S3",75 2),-,-
+B,18,"I, II",S0,7 800,5 200,3 500
+B,Không quy định,III,S0,6 500,-,-
+B,Không quy định,IV,S0,5 200,-,-
+B,Không quy định,IV,"S2, S3",75 2),-,-
+C,36,"I, II",S0,10 400,7 800,5 200
+C,24,III,S0,10 400,5 200,2 600
+C,Không quy định,IV,"S0, S1",7 800,-,-
+C,Không quy định,IV,"S2, S3",2 600,-,-
+C,Không quy định,V,Không quy định,1 200,-,-
+E,Không giới hạn,"I, II",S0,Không giới hạn,10 400,7 800
+E,36,III,"S0, S1",Không giới hạn,7 800,5 200
+E,12,IV,"S0, S1",Không giới hạn,2 200,-
+E,Không quy định,IV,"S2, S3",5 200,-,-
+E,9,V,Không quy định,2 200,1 200,-

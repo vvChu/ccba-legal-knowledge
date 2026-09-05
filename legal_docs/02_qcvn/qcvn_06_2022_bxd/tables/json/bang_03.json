@@ -1,0 +1,25 @@
+{
+  "table_id": "bang_03",
+  "title": "Bảng 3 - Yêu cầu đối với các bộ phận của khoang đệm ngăn cháy",
+  "headers": [
+    "Loại khoang đệm ngăn cháy",
+    "Loại bộ phận của khoang đệm ngăn cháy - Vách ngăn",
+    "Loại bộ phận của khoang đệm ngăn cháy - Sàn",
+    "Loại bộ phận của khoang đệm ngăn cháy - Bộ phận chèn bịt lỗ mở"
+  ],
+  "rows": [
+    {
+      "Loại khoang đệm ngăn cháy": "1",
+      "Loại bộ phận của khoang đệm ngăn cháy - Vách ngăn": "1",
+      "Loại bộ phận của khoang đệm ngăn cháy - Sàn": "3",
+      "Loại bộ phận của khoang đệm ngăn cháy - Bộ phận chèn bịt lỗ mở": "2"
+    },
+    {
+      "Loại khoang đệm ngăn cháy": "2",
+      "Loại bộ phận của khoang đệm ngăn cháy - Vách ngăn": "2",
+      "Loại bộ phận của khoang đệm ngăn cháy - Sàn": "4",
+      "Loại bộ phận của khoang đệm ngăn cháy - Bộ phận chèn bịt lỗ mở": "3"
+    }
+  ],
+  "footnotes": []
+}

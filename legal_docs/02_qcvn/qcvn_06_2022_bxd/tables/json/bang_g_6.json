@@ -1,0 +1,51 @@
+{
+  "table_id": "bang_g_6",
+  "title": "Bảng G.6 - Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn từ khán đài của các công trình thể thao, biểu diễn ngoài trời",
+  "headers": [
+    "Bậc chịu lửa của công trình",
+    "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn",
+    "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (2)",
+    "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (3)",
+    "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (4)"
+  ],
+  "rows": [
+    {
+      "Bậc chịu lửa của công trình": "Bậc chịu lửa của công trình",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn": "Theo các cầu thang bộ của các lối đi chính của khán đài",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (2)": "Theo các cầu thang bộ của các lối đi chính của khán đài",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (3)": "Đi qua cửa ra từ các lối đi chính của khán đài",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (4)": "Đi qua cửa ra từ các lối đi chính của khán đài"
+    },
+    {
+      "Bậc chịu lửa của công trình": "Bậc chịu lửa của công trình",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn": "Đi xuống",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (2)": "Đi lên",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (3)": "Đi xuống",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (4)": "Đi lên"
+    },
+    {
+      "Bậc chịu lửa của công trình": "I, II",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn": "600",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (2)": "825",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (3)": "620",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (4)": "1 230"
+    },
+    {
+      "Bậc chịu lửa của công trình": "III, IV",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn": "420",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (2)": "580",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (3)": "435",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (4)": "860"
+    },
+    {
+      "Bậc chịu lửa của công trình": "V",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn": "300",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (2)": "415",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (3)": "310",
+      "Số lượng người tối đa trên 1 m chiều rộng của đường thoát nạn (4)": "615"
+    }
+  ],
+  "footnotes": [
+    "CHÚ THÍCH: Tổng số lượng người thoát nạn đi qua một lối ra thoát nạn không được vượt quá 1 500 người khi khán đài cố bậc chịu lửa I, II. Khi khán đài có bậc chịu lửa là bậc III thì tổng số người đi qua phải giảm xuống 30 % và khi bậc IV và bậc V thì phải giảm xuống 50 %."
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "table_id": "bang_f_9",
+  "title": "Bảng F.9 - Sàn bê tông cốt thép (cốt liệu gốc silic hoặc đá vôi)",
+  "headers": [
+    "Kết cấu sàn",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)"
+  ],
+  "rows": [
+    {
+      "Kết cấu sàn": "Kết cấu sàn",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "REI",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "REI",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "REI",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "REI",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "REI",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "REI"
+    },
+    {
+      "Kết cấu sàn": "Kết cấu sàn",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "240",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "180",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "120",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "90",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "60",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "30"
+    },
+    {
+      "Kết cấu sàn": "(1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "(2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "(3)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "(4)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "(5)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "(6)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "(7)"
+    },
+    {
+      "Kết cấu sàn": "1. Sàn đặc:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "20",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "20",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "15",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều cao tổng thể 1) của tiết diện",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "100",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "100"
+    },
+    {
+      "Kết cấu sàn": "2. Sàn có lỗ rỗng với lỗ rỗng tiết diện tròn hoặc hộp. Phần diện tích tiết diện đặc phải chiếm không ít hơn 50 % tổng diện tích tiết diện ngang của sàn:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "20",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "20",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "15",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của phần bê tông dưới lỗ rỗng",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "50",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "30",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "20"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều cao tổng thể 1) của tiết diện",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "190",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "175",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "160",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "140",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "110",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "100"
+    },
+    {
+      "Kết cấu sàn": "3. Sàn tiết diện rỗng có một hoặc nhiều khoang rỗng hình hộp theo chiều dọc với chiều rộng lớn hơn chiều cao:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "20",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "20",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "15",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của bản cánh phía dưới",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "50",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "30",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "20"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều cao tổng thể 1) của tiết diện",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "230",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "205",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "180",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "155",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "130",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "105"
+    },
+    {
+      "Kết cấu sàn": "4. Sàn sườn có phần rỗng chèn bằng block đất sét nung, hoặc dầm chữ T ngược có phần rỗng được chèn bằng block bê tông hoặc block đất sét nung. Nếu sàn có phần diện tích tiết diện đặc nhỏ hơn 50 % tổng diện tích tiết diện ngang thì phải được trát một lớp dày 15 mm ở bề mặt phía dưới:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "20",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "20",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "15",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều rộng tiết diện sườn hoặc dầm chữ T, đo ở mặt đáy",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "100",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "90",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "80",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "70",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "50"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều cao tổng thể 1) của tiết diện",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "190",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "175",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "160",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "140",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "110",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "100"
+    },
+    {
+      "Kết cấu sàn": "5. Tiết diện chữ T:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực, đo ở mặt đáy",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "65 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "55 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "45 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "35",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của lớp bê tông bảo vệ cốt thép chịu lực, đo ở mặt bên",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "65",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "55",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "45",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "35",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "15"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều rộng tiết diện sườn hoặc của bụng dầm",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "140",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "115",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "90",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "75",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "60"
+    },
+    {
+      "Kết cấu sàn": "d) Chiều dày cánh",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "100",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "90"
+    },
+    {
+      "Kết cấu sàn": "6. Tấm sàn tiết diện chữ U ngược có bán kính cong tại giao điểm giữa bản đáy với sườn của sàn không lớn hơn chiều cao tiết diện:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực, đo ở mặt đáy",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "65 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "55 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "45 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "35",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của lớp bê tông bảo vệ cốt thép, đo ở mặt bên",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "30",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "20",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "15",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "10"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều rộng của sườn hoặc của chân chữ U",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "75",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "70",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "60",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "45",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "30"
+    },
+    {
+      "Kết cấu sàn": "d) Chiều dày tại bản phía trên",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "100",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "90"
+    },
+    {
+      "Kết cấu sàn": "7. Tấm sàn tiết diện chữ U ngược hoặc chữ U có bán kính cong tại giao điểm giữa bản đáy với sườn của sàn lớn hơn chiều cao tiết diện:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép chịu lực, đo ở mặt đáy",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "65 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "55 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "45 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "35",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của lớp bê tông bảo vệ cốt thép, đo ở mặt bên",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "30",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "20",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "15",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "10"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều rộng sườn hoặc của chân chữ U",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "70",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "60",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "50",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "35",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "25"
+    },
+    {
+      "Kết cấu sàn": "d) Chiều dày tại bản phía trên",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (2)": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (3)": "100",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (4)": "100",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (5)": "75",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa (6)": "65"
+    }
+  ],
+  "footnotes": [
+    "1) Có thể cộng thêm chiều dày của các lớp láng hoặc lớp hoàn thiện bằng vật liệu không cháy. 2) Có thể bổ sung cốt thép phụ để giữ lớp bê tông bảo vệ nếu cần.",
+    "CHÚ THÍCH 1: Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2. CHÚ THÍCH 2: Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định. Các kết cấu siêu tĩnh tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng. CHÚ THÍCH 3: Các thông số của tiết diện cấu kiện phải xét đồng thời."
+  ]
+}

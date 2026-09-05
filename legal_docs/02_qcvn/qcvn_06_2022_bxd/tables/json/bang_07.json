@@ -1,0 +1,105 @@
+{
+  "table_id": "bang_07",
+  "title": "Bảng 7 - Lưu lượng nước từ mạng đường ống cho chữa cháy ngoài nhà trong các khu dân cư",
+  "headers": [
+    "Dân số, x 1 000 người",
+    "Số đám cháy đồng thời",
+    "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa",
+    "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa"
+  ],
+  "rows": [
+    {
+      "Dân số, x 1 000 người": "≤ 1",
+      "Số đám cháy đồng thời": "1",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "5",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "10"
+    },
+    {
+      "Dân số, x 1 000 người": "> 1 và ≤ 5",
+      "Số đám cháy đồng thời": "1",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "10",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "10"
+    },
+    {
+      "Dân số, x 1 000 người": "> 5 và ≤ 10",
+      "Số đám cháy đồng thời": "1",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "10",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "15"
+    },
+    {
+      "Dân số, x 1 000 người": "> 10 và ≤ 25",
+      "Số đám cháy đồng thời": "2",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "10",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "15"
+    },
+    {
+      "Dân số, x 1 000 người": "> 25 và ≤ 50",
+      "Số đám cháy đồng thời": "2",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "20",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "25"
+    },
+    {
+      "Dân số, x 1 000 người": "> 50 và ≤ 100",
+      "Số đám cháy đồng thời": "2",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "25",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "35"
+    },
+    {
+      "Dân số, x 1 000 người": "> 100 và ≤ 200",
+      "Số đám cháy đồng thời": "3",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "40",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "40"
+    },
+    {
+      "Dân số, x 1 000 người": "> 200 và ≤ 300",
+      "Số đám cháy đồng thời": "3",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "55",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "55"
+    },
+    {
+      "Dân số, x 1 000 người": "> 300 và ≤ 400",
+      "Số đám cháy đồng thời": "3",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "70",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "70"
+    },
+    {
+      "Dân số, x 1 000 người": "> 400 và ≤ 500",
+      "Số đám cháy đồng thời": "3",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "80",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "80"
+    },
+    {
+      "Dân số, x 1 000 người": "> 500 và ≤ 600",
+      "Số đám cháy đồng thời": "3",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "85",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "85"
+    },
+    {
+      "Dân số, x 1 000 người": "> 600 và ≤ 700",
+      "Số đám cháy đồng thời": "3",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "90",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "90"
+    },
+    {
+      "Dân số, x 1 000 người": "> 700 và ≤ 800",
+      "Số đám cháy đồng thời": "3",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "95",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "95"
+    },
+    {
+      "Dân số, x 1 000 người": "> 800 và ≤ 1 000",
+      "Số đám cháy đồng thời": "3",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "100",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "100"
+    },
+    {
+      "Dân số, x 1 000 người": "> 1 000",
+      "Số đám cháy đồng thời": "5",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà không quá 2 tầng không phụ thuộc bậc chịu lửa": "110",
+      "Lưu lượng nước cho chữa cháy ngoài nhà cho 1 đám cháy, L/s - Xây dựng nhà từ 3 tầng trở lên không phụ thuộc bậc chịu lửa": "110"
+    }
+  ],
+  "footnotes": [
+    "CHÚ THÍCH 1: Lưu lượng nước cho chữa cháy ngoài nhà trong khu dân cư phải không nhỏ hơn lưu lượng nước chữa cháy cho nhà theo Bảng 8. CHÚ THÍCH 2: Khi thực hiện cấp nước theo vùng, lưu lượng nước cho chữa cháy ngoài nhà và số đám cháy đồng thời theo từng vùng được lấy phụ thuộc vào số dân sống trong vùng. CHÚ THÍCH 3: Số đám cháy đồng thời và lưu lượng nước cho 1 đám cháy cho một vùng có số dân trên 1 triệu người thì tuân theo luận chứng của các yêu cầu kỹ thuật đặc biệt. CHÚ THÍCH 4: Đối với hệ thống các cụm đường ống nhóm (chung) số đám cháy đồng thời lấy phụ thuộc vào tổng số dân trong các cụm có kết nối với hệ thống đường ống. Lưu lượng nước để hồi phục lượng nước chữa cháy theo cụm đường ống nhóm được xác định bằng tổng lượng nước cho khu dân cư (tương ứng với số đám cháy đồng thời) tối đa để chữa cháy tuân theo quy định tại 5.1.3.3 và 5.1.3.4. CHÚ THÍCH 5: Số đám cháy tính toán đồng thời trong khu dân cư phải bao gồm cả các đám cháy của nhà sản xuất và nhà kho trong khu dân cư đó. Khi đó lưu lượng nước tính toán bao gồm cả lưu lượng nước để chữa cháy tương ứng cho các nhà đó, nhưng không nhỏ hơn giá trị trong Bảng 7."
+  ]
+}

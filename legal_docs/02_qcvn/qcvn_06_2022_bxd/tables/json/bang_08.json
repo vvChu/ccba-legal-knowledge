@@ -1,0 +1,98 @@
+{
+  "table_id": "bang_08",
+  "title": "Bảng 8 - Lưu lượng nước cho chữa cháy ngoài nhà của nhà thuộc nhóm nguy hiểm cháy theo công năng F1, F2, F3, F4",
+  "headers": [
+    "Loại nhà",
+    "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - ≤ 1",
+    "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 1 và ≤ 5",
+    "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 5 và ≤ 25",
+    "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 25 và ≤ 50",
+    "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 50"
+  ],
+  "rows": [
+    {
+      "Loại nhà": "1. Nhà nhóm F1.3, F1.4 có một hoặc nhiều đơn nguyên với số tầng:",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - ≤ 1": "",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 1 và ≤ 5": "",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 5 và ≤ 25": "",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 25 và ≤ 50": "",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 50": ""
+    },
+    {
+      "Loại nhà": "≤ 3",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - ≤ 1": "10 1)",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 1 và ≤ 5": "10 1)",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 5 và ≤ 25": "15",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 25 và ≤ 50": "15",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 50": "20"
+    },
+    {
+      "Loại nhà": "> 3 và ≤ 12",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - ≤ 1": "10",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 1 và ≤ 5": "15",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 5 và ≤ 25": "15",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 25 và ≤ 50": "20",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 50": "20"
+    },
+    {
+      "Loại nhà": "> 12 và ≤ 16",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - ≤ 1": "-",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 1 và ≤ 5": "20",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 5 và ≤ 25": "20",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 25 và ≤ 50": "25",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 50": "25"
+    },
+    {
+      "Loại nhà": "> 16",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - ≤ 1": "-",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 1 và ≤ 5": "20",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 5 và ≤ 25": "25",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 25 và ≤ 50": "25",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 50": "30"
+    },
+    {
+      "Loại nhà": "2. Nhà nhóm F1.1, F1.2, F2, F3 và F4 với số tầng:",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - ≤ 1": "",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 1 và ≤ 5": "",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 5 và ≤ 25": "",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 25 và ≤ 50": "",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 50": ""
+    },
+    {
+      "Loại nhà": "≤ 3",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - ≤ 1": "10 1)",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 1 và ≤ 5": "10 1)",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 5 và ≤ 25": "15",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 25 và ≤ 50": "20",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 50": "25"
+    },
+    {
+      "Loại nhà": ">3 và ≤ 12",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - ≤ 1": "10",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 1 và ≤ 5": "15",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 5 và ≤ 25": "20",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 25 và ≤ 50": "25",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 50": "30"
+    },
+    {
+      "Loại nhà": "> 12 và ≤ 16",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - ≤ 1": "-",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 1 và ≤ 5": "20",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 5 và ≤ 25": "25",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 25 và ≤ 50": "30",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 50": "35"
+    },
+    {
+      "Loại nhà": "> 16",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - ≤ 1": "-",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 1 và ≤ 5": "25",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 5 và ≤ 25": "30",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 25 và ≤ 50": "30",
+      "Lưu lượng nước cho chữa cháy ngoài nhà không phụ thuộc bậc chịu lửa tính cho 1 đám cháy, L/s, theo khối tích nhà, 1 000 m3 - > 50": "35"
+    }
+  ],
+  "footnotes": [
+    "1) Đối với nhà thuộc khu vực làng, xã (nông thôn) lấy lưu lượng nước cho 1 đám cháy là 5 L/s.",
+    "CHÚ THÍCH 1: Nếu hiệu suất của mạng đường ống ngoài nhà không đủ để truyền lưu lượng nước tính toán cho chữa cháy hoặc khi liên kết ống vào với mạng đường ống cụt thì cần phải xem xét lắp đặt bồn, bể, với thể tích phải bảo đảm lưu lượng nước cho chữa cháy ngoài nhà trong 3 giờ. CHÚ THÍCH 2: Trong khu dân cư không có đường ống nước chữa cháy thì phải có bồn, bể nước bảo đảm chữa cháy trong 3 giờ."
+  ]
+}

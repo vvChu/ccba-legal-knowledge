@@ -1,0 +1,298 @@
+{
+  "table_id": "bang_f_10",
+  "title": "Bảng F.10 - Sàn bê tông cốt thép ứng suất trước (cốt liệu gốc silic hoặc đá vôi)",
+  "headers": [
+    "Kết cấu sàn",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30"
+  ],
+  "rows": [
+    {
+      "Kết cấu sàn": "(1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "(2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "(3)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "(4)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "(5)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "(6)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "(7)"
+    },
+    {
+      "Kết cấu sàn": "1. Sàn đặc:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "65 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "50 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "30",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều cao tổng thể 2) của tiết diện",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "100",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "100"
+    },
+    {
+      "Kết cấu sàn": "2. Sàn có lỗ rỗng với lỗ rỗng tiết diện tròn hoặc hộp. Phần diện tích tiết diện đặc phải chiếm không ít hơn 50 % tổng diện tích tiết diện ngang của sàn:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "65 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "50 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "30",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của phần bê tông dưới lỗ rỗng",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "50",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "30",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "20"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều cao tổng thể 2) của tiết diện",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "190",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "175",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "160",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "140",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "110",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "100"
+    },
+    {
+      "Kết cấu sàn": "3. Sàn tiết diện rỗng có một hoặc nhiều khoang rỗng hình hộp theo chiều dọc với chiều rộng lớn hơn chiều cao:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "65 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "50 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "30",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của bản cánh phía dưới",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "65",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "50",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "30",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "15"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều cao tổng thể 2) của tiết diện",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "230",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "205",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "180",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "155",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "130",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "105"
+    },
+    {
+      "Kết cấu sàn": "4. Sàn sườn có phần rỗng chèn bằng block đất sét nung, hoặc dầm chữ T ngược có phần rỗng được chèn bằng block bê tông hoặc block đất sét nung. Nếu sàn có phần diện tích tiết diện đặc nhỏ hơn 50 % tổng diện tích tiết diện ngang thì phải được trát một lớp dày 15 mm ở bề mặt phía dưới:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "651 )",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "50 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "30",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "15"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều rộng tiết diện sườn hoặc dầm chữ T, đo ở mặt đáy",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "100",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "90",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "80",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "70",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "50"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều cao tổng thể 2) của tiết diện",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "190",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "175",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "160",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "140",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "110",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "100"
+    },
+    {
+      "Kết cấu sàn": "5. Tiết diện chữ T:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt đáy",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "100 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "85 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "65 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "50 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "25"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt bên",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "100",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "85",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "65",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "50",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "25"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều rộng sườn hoặc hoặc của bụng dầm",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "250",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "200",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "110",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "90",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "60"
+    },
+    {
+      "Kết cấu sàn": "d) Chiều dày của cánh 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "100",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "90"
+    },
+    {
+      "Kết cấu sàn": "6. Tấm sàn tiết diện chữ U ngược có bán kính cong tại giao điểm giữa bản đáy với sườn của sàn không lớn hơn chiều cao tiết diện:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt đáy",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "100 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "85 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "65 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "50 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "25"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt bên",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "50",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "45",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "35",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "20",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "15"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều rộng của sườn hoặc của chân chữ U",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "100",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "75",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "55",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "45",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "30"
+    },
+    {
+      "Kết cấu sàn": "d) Chiều dày tại bản phía trên 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "100",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "90"
+    },
+    {
+      "Kết cấu sàn": "7. Tấm sàn tiết diện chữ U ngược hoặc chữ U có bán kính cong tại giao điểm giữa bản đáy với sườn của sàn lớn hơn chiều cao tiết diện:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": ""
+    },
+    {
+      "Kết cấu sàn": "a) Chiều dày trung bình của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt đáy",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "100 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "85 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "65 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "50 1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "25"
+    },
+    {
+      "Kết cấu sàn": "b) Chiều dày của lớp bê tông bảo vệ cốt thép ứng suất trước (thanh, cáp), đo ở mặt bên",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "50",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "45",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "35",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "25",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "20",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "15"
+    },
+    {
+      "Kết cấu sàn": "c) Chiều rộng sườn hoặc của chân chữ U",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "110",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "90",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "70",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "50",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "40",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "30"
+    },
+    {
+      "Kết cấu sàn": "d) Chiều dày tại bản phía trên 2)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 240": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 180": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 120": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  90": "125",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI  60": "100",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - REI 30": "90"
+    }
+  ],
+  "footnotes": [
+    "1) Có thể bổ sung cốt thép phụ để giữ lớp bê tông bảo vệ nếu cần. 2) Có thể cộng thêm chiều dày của các lớp láng hoặc lớp hoàn thiện bằng vật liệu không cháy.",
+    "CHÚ THÍCH 1: Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2. CHÚ THÍCH 2: Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định Các kết cấu siêu tĩnh tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng CHÚ THÍCH 3: Các thông số của tiết diện cấu kiện phải xét đồng thời."
+  ]
+}

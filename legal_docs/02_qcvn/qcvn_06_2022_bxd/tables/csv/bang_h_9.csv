@@ -1,0 +1,25 @@
+﻿Hạng nguy hiểm cháy nổ của nhà hoặc khoang cháy,"Chiều cao lớn nhất cho phép của nhà 1), m",Bậc chịu lửa của nhà,Cấp nguy hiểm cháy kết cấu của nhà,"Diện tích lớn nhất cho phép của một tảng nhà trong phạm vi một khoang cháy, m2 - Nhà 1 tầng","Diện tích lớn nhất cho phép của một tảng nhà trong phạm vi một khoang cháy, m2 - Nhà 2 tầng","Diện tích lớn nhất cho phép của một tảng nhà trong phạm vi một khoang cháy, m2 - Nhà từ 3 tầng trở lên"
+(1),(2),(3),(4),(5),(6),(7)
+A,36,"I, II",S0,Không hạn chế,5 200,3 500
+A,24,III,S0,7 800,3 500,2 600
+A,Không quy định,IV,S0,3 500,-,-
+B,36,"I, II",S0,Không hạn chế,10 400,7800
+B,24,III,S0,7 800,3 500,2 600
+B,Không quy định,IV,S0,3 500,-,-
+C,Xem 2),Xem 2),Xem 2),Xem 2),Xem 2),Xem 2)
+C,48,"I, II",S0,Không hạn chế,25 000  7 800 3),10 400  5 200 3)
+C,24,III,"S0, S1",25 000,10 400  5 200 3),5 200  3 600 3)
+C,18,IV,"S0, S1",25 000,10 400,-
+C,18,IV,"S2, S3",2 600,2 000,-
+C,12,V,Không quy định,1 200,600 4),-
+D,54,"I, II",S0,Không hạn chế,Không hạn chế,Không hạn chế
+D,36,III,S0,Không hạn chế,25 000,10 400
+D,30,III,S1,Không hạn chế,10 400,7 800
+D,24,IV,S0,Không hạn chế,10 400,5 200
+D,18,IV,S1,6 500,5 200,-
+E,54,"I, II",S0,Không hạn chế,Không hạn chế,Không hạn chế
+E,36,III,S0,Không hạn chế,50 000,15 000
+E,30,III,S1,Không hạn chế,25 000,10 400
+E,24,IV,"S0, S1",Không hạn chế,25 000,7 800
+E,18,IV,"S2, S3",10 400,7 800,-
+E,12,V,Không quy định,2 600,1 500,-

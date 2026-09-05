@@ -1,0 +1,93 @@
+{
+  "table_id": "bang_h_6",
+  "title": "Bảng H.6 - Nhà của trường học phổ thông (nhóm F4.1) và nhà ngủ của các trường nội trú (nhóm F1.1)",
+  "headers": [
+    "Số học sinh hoặc số chỗ trong nhà",
+    "Cấp nguy hiểm cháy kết cấu",
+    "Bậc chịu lửa tối thiểu",
+    "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)"
+  ],
+  "rows": [
+    {
+      "Số học sinh hoặc số chỗ trong nhà": "≤ 100",
+      "Cấp nguy hiểm cháy kết cấu": "Không quy định",
+      "Bậc chịu lửa tối thiểu": "Không quy định",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)": "3 (1)"
+    },
+    {
+      "Số học sinh hoặc số chỗ trong nhà": "≤ 270",
+      "Cấp nguy hiểm cháy kết cấu": "S1",
+      "Bậc chịu lửa tối thiểu": "III",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)": "3 (1)"
+    },
+    {
+      "Số học sinh hoặc số chỗ trong nhà": "≤ 350",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Bậc chịu lửa tối thiểu": "III",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)": "7 (2)"
+    },
+    {
+      "Số học sinh hoặc số chỗ trong nhà": "≤ 350",
+      "Cấp nguy hiểm cháy kết cấu": "S1",
+      "Bậc chịu lửa tối thiểu": "II",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)": "7 (2)"
+    },
+    {
+      "Số học sinh hoặc số chỗ trong nhà": "≤ 600",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Bậc chịu lửa tối thiểu": "II",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)": "11 (3)"
+    },
+    {
+      "Số học sinh hoặc số chỗ trong nhà": "Không hạn chế",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Bậc chịu lửa tối thiểu": "I",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)": "19 (5)"
+    },
+    {
+      "Số học sinh hoặc số chỗ trong nhà": "Nhà ngủ",
+      "Cấp nguy hiểm cháy kết cấu": "Nhà ngủ",
+      "Bậc chịu lửa tối thiểu": "Nhà ngủ",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)": "Nhà ngủ"
+    },
+    {
+      "Số học sinh hoặc số chỗ trong nhà": "≤ 40",
+      "Cấp nguy hiểm cháy kết cấu": "Không quy định",
+      "Bậc chịu lửa tối thiểu": "Không quy định",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)": "3 (1)"
+    },
+    {
+      "Số học sinh hoặc số chỗ trong nhà": "≤ 80",
+      "Cấp nguy hiểm cháy kết cấu": "S1, S2, S3",
+      "Bậc chịu lửa tối thiểu": "IV",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)": "3 (1)"
+    },
+    {
+      "Số học sinh hoặc số chỗ trong nhà": "≤ 140",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Bậc chịu lửa tối thiểu": "IV",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)": "3 (1)"
+    },
+    {
+      "Số học sinh hoặc số chỗ trong nhà": "≤ 200",
+      "Cấp nguy hiểm cháy kết cấu": "S1",
+      "Bậc chịu lửa tối thiểu": "III",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)": "3 (1)"
+    },
+    {
+      "Số học sinh hoặc số chỗ trong nhà": "≤ 280",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Bậc chịu lửa tối thiểu": "III",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)": "7 (2)"
+    },
+    {
+      "Số học sinh hoặc số chỗ trong nhà": "Không hạn chế",
+      "Cấp nguy hiểm cháy kết cấu": "S0",
+      "Bậc chịu lửa tối thiểu": "I, II",
+      "Chiều cao PCCC lớn nhất cho phép của nhà, m (số tầng)": "15 (4)"
+    }
+  ],
+  "footnotes": [
+    "CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng."
+  ]
+}

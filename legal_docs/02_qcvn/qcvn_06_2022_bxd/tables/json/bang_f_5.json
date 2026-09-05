@@ -1,0 +1,82 @@
+{
+  "table_id": "bang_f_5",
+  "title": "Bảng F.5 - Cột bê tông cốt thép (có 4 mặt đều tiếp xúc với lửa)",
+  "headers": [
+    "Đặc điểm",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 240",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 180",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 120",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 90",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 60",
+    "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 30"
+  ],
+  "rows": [
+    {
+      "Đặc điểm": "1. Bê tông dùng cốt liệu gốc silic:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 240": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 180": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 120": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 90": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 60": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 30": ""
+    },
+    {
+      "Đặc điểm": "a) Không có biện pháp bảo vệ bổ sung",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 240": "450",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 180": "400",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 120": "300",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 90": "250",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 60": "200",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 30": "150"
+    },
+    {
+      "Đặc điểm": "b) Có trát xi măng hoặc thạch cao dày 15 mm trên lưới thép mảnh",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 240": "300",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 180": "275",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 120": "225",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 90": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 60": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 30": "150"
+    },
+    {
+      "Đặc điểm": "c) Có trát vermiculite/thạch cao1)",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 240": "275",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 180": "225",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 120": "200",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 90": "150",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 60": "120",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 30": "120"
+    },
+    {
+      "Đặc điểm": "2. Bê tông dùng cốt liệu đá vôi hoặc gốc silic:",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 240": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 180": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 120": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 90": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 60": "",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 30": ""
+    },
+    {
+      "Đặc điểm": "Có thể có cốt thép phụ trong lớp bê tông bảo vệ nếu cần",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 240": "300",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 180": "275",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 120": "225",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 90": "200",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 60": "190",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 30": "150"
+    },
+    {
+      "Đặc điểm": "3. Bê tông cốt liệu nhẹ",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 240": "300",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 180": "275",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 120": "225",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 90": "200",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 60": "190",
+      "Giá trị nhỏ nhất của thông số, mm, để bảo đảm giới hạn chịu lửa - R 30": "150"
+    }
+  ],
+  "footnotes": [
+    "1) Vermiculite/thạch cao phải có tỷ lệ phối trộn theo thể tích nằm trong khoảng 1,5:1 đến 2:1",
+    "CHÚ THÍCH 1: Nguyên tắc xác định giới hạn chịu lửa của các cấu kiện xem thêm phần 2 CHÚ THÍCH 2: Giới hạn chịu lửa trong bảng chỉ dùng cho kết cấu tĩnh định. Các kết cấu siêu tĩnh được tính toán chịu lửa theo tiêu chuẩn lựa chọn áp dụng CHÚ THÍCH 3: Các thông số của tiết diện cấu kiện phải xét đồng thời."
+  ]
+}

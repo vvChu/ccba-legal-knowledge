@@ -1,0 +1,86 @@
+{
+  "table_id": "bang_01",
+  "title": "Bảng 1 - Giới hạn chịu lửa và loại cấu kiện xây dựng thực hiện chức năng bộ phận ngăn cháy, các loại bộ phận chèn bịt tương ứng với chúng và các khoang đệm ngăn cháy",
+  "headers": [
+    "Bộ phận ngăn cháy",
+    "Loại bộ phận ngăn cháy",
+    "Giới hạn chịu lửa của bộ phận ngăn cháy",
+    "Loại bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy",
+    "Loại khoang đệm ngăn cháy"
+  ],
+  "rows": [
+    {
+      "Bộ phận ngăn cháy": "1. Tường ngăn cháy",
+      "Loại bộ phận ngăn cháy": "1",
+      "Giới hạn chịu lửa của bộ phận ngăn cháy": "REI 150",
+      "Loại bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "1",
+      "Loại khoang đệm ngăn cháy": "1"
+    },
+    {
+      "Bộ phận ngăn cháy": "1. Tường ngăn cháy",
+      "Loại bộ phận ngăn cháy": "2",
+      "Giới hạn chịu lửa của bộ phận ngăn cháy": "REI 45",
+      "Loại bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "2",
+      "Loại khoang đệm ngăn cháy": "2"
+    },
+    {
+      "Bộ phận ngăn cháy": "2. Vách ngăn cháy",
+      "Loại bộ phận ngăn cháy": "1",
+      "Giới hạn chịu lửa của bộ phận ngăn cháy": "EI 45",
+      "Loại bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "2",
+      "Loại khoang đệm ngăn cháy": "1"
+    },
+    {
+      "Bộ phận ngăn cháy": "2. Vách ngăn cháy",
+      "Loại bộ phận ngăn cháy": "2",
+      "Giới hạn chịu lửa của bộ phận ngăn cháy": "El 15",
+      "Loại bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "3",
+      "Loại khoang đệm ngăn cháy": "2"
+    },
+    {
+      "Bộ phận ngăn cháy": "3 Vách ngăn cháy có diện tích kính lớn hơn 25 % diện tích vách",
+      "Loại bộ phận ngăn cháy": "1",
+      "Giới hạn chịu lửa của bộ phận ngăn cháy": "EIW 45 1)",
+      "Loại bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "2",
+      "Loại khoang đệm ngăn cháy": "1"
+    },
+    {
+      "Bộ phận ngăn cháy": "3 Vách ngăn cháy có diện tích kính lớn hơn 25 % diện tích vách",
+      "Loại bộ phận ngăn cháy": "2",
+      "Giới hạn chịu lửa của bộ phận ngăn cháy": "EIW 15 1)",
+      "Loại bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "3",
+      "Loại khoang đệm ngăn cháy": "2"
+    },
+    {
+      "Bộ phận ngăn cháy": "4 Sàn ngăn cháy",
+      "Loại bộ phận ngăn cháy": "1",
+      "Giới hạn chịu lửa của bộ phận ngăn cháy": "REI 150",
+      "Loại bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "1",
+      "Loại khoang đệm ngăn cháy": "1"
+    },
+    {
+      "Bộ phận ngăn cháy": "4 Sàn ngăn cháy",
+      "Loại bộ phận ngăn cháy": "2",
+      "Giới hạn chịu lửa của bộ phận ngăn cháy": "REI 60",
+      "Loại bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "2",
+      "Loại khoang đệm ngăn cháy": "1"
+    },
+    {
+      "Bộ phận ngăn cháy": "4 Sàn ngăn cháy",
+      "Loại bộ phận ngăn cháy": "3",
+      "Giới hạn chịu lửa của bộ phận ngăn cháy": "REI 45",
+      "Loại bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "2",
+      "Loại khoang đệm ngăn cháy": "1"
+    },
+    {
+      "Bộ phận ngăn cháy": "4 Sàn ngăn cháy",
+      "Loại bộ phận ngăn cháy": "4",
+      "Giới hạn chịu lửa của bộ phận ngăn cháy": "REl 15",
+      "Loại bộ phận chèn bịt lỗ mở của bộ phận ngăn cháy": "3",
+      "Loại khoang đệm ngăn cháy": "2"
+    }
+  ],
+  "footnotes": [
+    "Đối với phần vật liệu khác kính áp dụng chỉ tiêu EI, đối với phần kính áp dụng chỉ tiêu EW. Các vách ngăn cháy đã thử nghiệm đạt chỉ tiêu EI đối với cả phần kính được xem là đạt chỉ tiêu EW."
+  ]
+}
