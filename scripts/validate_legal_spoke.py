@@ -338,22 +338,52 @@ class LegalSpokeValidator:
     def validate_pure_normative_body_gate(self) -> Tuple[int, int]:
         """Validate OKF v2.4 Universal Pure Normative Body standard (ADR 0021 & ADR 0036)."""
         vbpl_dir = self.legal_docs_dir / "01_vbpl"
-        if not vbpl_dir.exists():
-            return (len(self.errors), len(self.warnings))
+        if vbpl_dir.exists():
+            for doc_dir in vbpl_dir.iterdir():
+                if not doc_dir.is_dir():
+                    continue
 
-        for doc_dir in vbpl_dir.iterdir():
-            if not doc_dir.is_dir():
+                primary_md = doc_dir / f"{doc_dir.name}.md"
+                if not primary_md.exists():
+                    md_files = [f for f in doc_dir.glob("*.md") if f.name not in ("index.md", "dead_ends.md", "log.md")]
+                    primary_md = md_files[0] if md_files else None
+
+                if primary_md and primary_md.exists():
+                    self._check_pure_body_document(doc_dir, primary_md)
+
+        # ADR 0036: Enforce Annex Leakage Hard Gate on technical standards (QCVN / TCVN)
+        for cat in ["02_qcvn", "03_tcvn"]:
+            cat_dir = self.legal_docs_dir / cat
+            if not cat_dir.exists():
                 continue
-
-            primary_md = doc_dir / f"{doc_dir.name}.md"
-            if not primary_md.exists():
-                md_files = [f for f in doc_dir.glob("*.md") if f.name not in ("index.md", "dead_ends.md", "log.md")]
-                primary_md = md_files[0] if md_files else None
-
-            if primary_md and primary_md.exists():
-                self._check_pure_body_document(doc_dir, primary_md)
+            for doc_dir in cat_dir.iterdir():
+                if not doc_dir.is_dir():
+                    continue
+                primary_md = doc_dir / f"{doc_dir.name}.md"
+                if not primary_md.exists():
+                    md_files = [
+                        f
+                        for f in doc_dir.glob("*.md")
+                        if f.name not in ("index.md", "dead_ends.md", "log.md", "bang_so_sanh_thay_doi.md")
+                    ]
+                    primary_md = md_files[0] if md_files else None
+                if primary_md and primary_md.exists():
+                    content = self._safe_read_text(primary_md)
+                    if content:
+                        main_body = re.split(
+                            r"(?:^|\n)##\s+📑\s+HỆ\s+THỐNG\s+PHỤ\s+LỤC", content, flags=re.IGNORECASE
+                        )[0].strip()
+                        self._check_annex_leakage(main_body, doc_dir.name, primary_md.name)
 
         return (len(self.errors), len(self.warnings))
+
+    def _check_annex_leakage(self, main_body: str, doc_name: str, md_name: str) -> None:
+        """Enforce ADR 0036: Technical normative annexes must be decoupled into annexes/ directory."""
+        if re.search(r"(?:^|\n)#{1,4}\s+(?:PHỤ\s+LỤC|Phụ\s+lục)\s+[A-Z0-9]", main_body):
+            self.errors.append(
+                f"Annex Leakage Error [{doc_name}]: Found un-decoupled annex heading in primary markdown body ({md_name}). "
+                "Annexes must be decoupled into annexes/ directory (ADR 0036)."
+            )
 
     def _check_pure_body_document(self, doc_dir: Path, primary_md: Path) -> None:
         """Check frontmatter, administrative noise, and HTML artifacts in a normative document."""
