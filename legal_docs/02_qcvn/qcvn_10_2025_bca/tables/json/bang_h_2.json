@@ -1,0 +1,111 @@
+{
+  "table_id": "bang_h_2",
+  "table_number": "H.2",
+  "table_title": "Bảng H.2 - Lưu lượng nước cho chữa cháy ngoài nhà của nhà thuộc nhóm nguy hiểm cháy theo công năng F",
+  "archetype": "2d_matrix",
+  "columns": [
+    "Loại nhà",
+    "Khối tích ≤ 1 000 m3 (L/s)",
+    "Khối tích > 1 và ≤ 5 000 m3 (L/s)",
+    "Khối tích > 5 và ≤ 25 000 m3 (L/s)",
+    "Khối tích > 25 và ≤ 50 000 m3 (L/s)",
+    "Khối tích > 50 000 m3 (L/s)"
+  ],
+  "row_count": 11,
+  "col_count": 6,
+  "footnotes": [
+    "(1) Đối với nhà thuộc khu vực nông thôn lấy lưu lượng nước cho 1 đám cháy là 5 L/s.",
+    "CHÚ THÍCH 1: Nếu hiệu suất của mạng đường ống ngoài nhà không đủ để truyền lưu lượng nước tính toán cho chữa cháy hoặc khi liên kết ống vào với mạng đường ống cụt thì cần phải xem xét lắp đặt bồn, bể với thể tích phải bảo đảm lưu lượng nước cho chữa cháy ngoài nhà trong 3 h.",
+    "CHÚ THÍCH 2: Trong khu dân cư không có đường ống nước chữa cháy thì phải có bồn, bể nước bảo đảm chữa cháy trong 3 h."
+  ],
+  "rows": [
+    [
+      "1. Nhà nhóm F1.3, F1.4 có một hoặc nhiều đơn nguyên với số tầng:",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "≤ 3",
+      "10(1)",
+      "10(1)",
+      "15",
+      "15",
+      "20"
+    ],
+    [
+      "> 3 và ≤ 12",
+      "10",
+      "15",
+      "15",
+      "20",
+      "20"
+    ],
+    [
+      "> 12 và ≤ 16",
+      "-",
+      "20",
+      "20",
+      "25",
+      "25"
+    ],
+    [
+      "> 16",
+      "-",
+      "20",
+      "25",
+      "25",
+      "30"
+    ],
+    [
+      "2. Nhà nhóm F1.1, F1.2, F2, F3 và F4 với số tầng:",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "≤ 3",
+      "10(1)",
+      "10(1)",
+      "15",
+      "20",
+      "25"
+    ],
+    [
+      "> 3 và ≤ 12",
+      "10",
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    [
+      "> 12 và ≤ 16",
+      "-",
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    [
+      "> 16",
+      "-",
+      "25",
+      "30",
+      "30",
+      "35"
+    ],
+    [
+      "(1)Đối với nhà thuộc khu vực nôngthôn lấylưu lượngnước cho 1 đám cháylà 5 L/s.",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ]
+}

@@ -65,4 +65,32 @@ Tài liệu ghi nhận nhật ký đột biến, chuẩn hóa dữ liệu và ba
   - **Đúc kết Bài học Kinh nghiệm Mục 42 & Khảo sát 5 Bẫy ngầm:** Ghi nhận vào `session_learnings.md` và phân tích sâu các rủi ro Floating Text Box, Ghost Media, Slug Collision, EMU Scaling và Symbol PUA Font.
   - **Nghiệm thu Master CI 15 Gates:** Đạt $100\%$ tỷ lệ đạt chuẩn trên toàn bộ 39 văn bản của Spoke. Đẩy thành công 92 commits lên GitHub Remote `origin/main`.
 
+## [2026-09-05] [feat] | QCVN 10:2025/BCA 100% Verbatim Ingestion, Pure AST Tree & Zero Ragged Rows 2D Matrix Regularity
+- **Phạm vi:** `legal_docs/02_qcvn/qcvn_10_2025_bca/`, `legal_registry.yaml`, `.md/knowledge/expansion_roadmap.md`, `.md/knowledge/log.md`.
+- **Nội dung:**
+  - **Nạp QCVN 10:2025/BCA:** Đóng gói chuẩn OKF v2.4 Universal với 100% Verbatim Parity (548 đoạn DOCX đối soát khớp 1:1, 0 đoạn thiếu), ban hành kèm Thông tư 103/2025/TT-BCA của Bộ Công an, có hiệu lực 30/12/2025 (Thay thế phần bắt buộc của TCVN 3890:2023).
+  - **Cấu trúc Dữ liệu Đa tầng:** 13 bảng tra cứu số liệu 2D chuẩn chữ nhật (Zero Ragged Rows, footnotes decoupled vào metadata), 8 Phụ lục kỹ thuật quy phạm (A đến H), cây AST `clauses.json` (105 điều khoản phân quyền `CONG_AN`), bộ câu hỏi `qa_benchmark.json` (110 test cases), và các thẻ thuyết minh `figures/`, `templates/`.
+  - **Chẩn đoán & Xử lý Triệt để Lỗi Visual Parity:** Khắc phục lỗi `MISSING_NOTE_1` do chuyển đổi nhầm các dòng tham số (`24 h`, `36 h`, `72 h`, `20 L/s`, `48 h`) thành tiêu đề Markdown giả, khôi phục cấu trúc phân cấp danh sách chuẩn quy chuẩn cho Điều H.1.3.4 và CHÚ THÍCH 1 - 2.
+  - **Nghiệm thu Master CI 15 Gates:** Vượt qua 100% toàn bộ 15 Cổng kiểm định chất lượng nghiêm ngặt của Spoke (`scripts/validate_legal_spoke.py`), nâng tổng số văn bản tri thức chuẩn hóa lên **40 văn bản**.
+
+
+
+## [2026-09-05] [refactor] | QCVN 10:2025/BCA Complete Remediation: Decoupled Annexes, 19 Tables, and 10 Visual Parity Error Patterns
+- **Phạm vi:** `legal_docs/02_qcvn/qcvn_10_2025_bca/`, `legal_registry.yaml`, `.md/knowledge/`.
+- **Nội dung:**
+  - **Bóc tách 8 Module Phụ lục kỹ thuật quy phạm (`annexes/`):** Tách rời hoàn toàn Phụ lục A đến H ra khỏi thân văn bản chính, trả lại Pure Normative Body cho `qcvn_10_2025_bca.md`, tạo liên kết 2 chiều đồng bộ giữa `index.md` và `annexes/README.md`.
+  - **Số hóa toàn diện 19 Bảng số liệu tra cứu 2D (`tables/`):** Bổ sung đầy đủ 19 cặp CSV + JSON (thêm Bảng A.3, B.1, C.1, D.1, G.1), khử 100% rò rỉ chú thích ở Bảng H.2 và H.7, khôi phục nguyên văn chú thích (1)–(5) của Bảng A.3 và định mức xe chữa cháy Bảng D.1.
+  - **Trích xuất Đồ họa nét cao (`figures/`):** Bóc tách raster $\ge 300\text{ DPI}$ từ PDF gốc cho `hinh_h_1.png` và `hinh_h_2.png`, lập 2 Visual Cards và `figures_catalog.yaml`.
+  - **Xử lý triệt để 10 hình mẫu lỗi vi mô:** Khắc phục lỗi đảo phả hệ chú thích (Dual-Zone), rơi rụng dấu trừ do ngắt trang, phẳng hóa ô gộp ngang (`gridSpan`), mất chỉ số trên `<sup>`, vỡ thụt lề `&nbsp;&nbsp;\- `, lẫn lộn chú thích với điều khoản, và bảo toàn token trích dẫn gốc `QCVN 06:/BXD`.
+  - **Nghiệm thu Master CI 15 Gates:** Vượt qua 100% 15 Cổng Master CI Gate với 0 Errors và 0 Visual Parity Errors trên toàn bộ kho tri thức.
+
+## [2026-09-06] [feat] | 4-Layer Defense-in-Depth: Enforced Annex Leakage Gate, Rating Superscripts & Dual-Zone Footnote Linter
+- **Phạm vi:** `scripts/validate_legal_spoke.py`, Hub `packages/ccba-legal-intel/src/ccba_legal/visual_parity.py`, `.md/knowledge/`.
+- **Nội dung:**
+  - **Khóa chặt Gate 6 (Pure Normative Body Gate):** Thêm kiểm tra **Annex Leakage Hard Gate** (`_check_annex_leakage`), báo lỗi Exit 1 ngay lập tức nếu phát hiện heading Phụ lục `## PHỤ LỤC [A-Z0-9]` nằm trong thân văn bản chính của quy chuẩn (`02_qcvn`, `03_tcvn`), bảo đảm tuân thủ triệt để ADR 0036.
+  - **Nâng cấp Linter Gate 9 (Visual Parity Gate):** Bổ sung 2 quy tắc bắt lỗi vi mô tự động:
+    1. `RAW_TABLE_SUPERSCRIPT`: Phát hiện ký hiệu mỏ neo trần như `+(1)`, `++(1)`, `+++(1)` trong ô bảng để cưỡng chế định dạng `<sup>(1)</sup>`.
+    2. `INVERTED_FOOTNOTE_HIERARCHY`: Bắt lỗi đảo phả hệ chú thích khi `**CHÚ THÍCH:**` đặt đè lên các chú thích ô `(1)`, `(2)` khi có kèm theo các dòng giải nghĩa dấu `Dấu “+++”` (Dual-Zone Decoupling Engine theo Session Learning 44).
+  - **Nghiệm thu Master CI 15 Gates:** Vượt qua 100% 15 Cổng Master CI Gate với 0 Errors và 0 Visual Parity Errors trên toàn bộ 402 files Markdown của Spoke.
+
 

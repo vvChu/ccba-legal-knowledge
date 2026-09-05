@@ -680,3 +680,47 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - (3) *Xung đột Slug Hình giữa Thân và Phụ lục*: Cần áp dụng Namespace Scoping (`hinh_1` vs `hinh_a_1`).
      - (4) *Lệch Tỷ Lệ Vật Lý*: Cần chuẩn hóa theo rendered EMU thay vì raw pixel dimension.
      - (5) *Ký tự Symbol / Wingdings PUA*: Cần ánh xạ Run-level sang Unicode/KaTeX chuẩn.
+
+---
+
+## 43. Autonomous Annex Decoupling, Verbatim Footnote Preservation & Comprehensive Table/Figure Reconciliation (QCVN 10:2025/BCA Case Study)
+
+- **Vấn đề Phát Hiện (QCVN 10:2025/BCA Quality Audit):**
+  1. **Bẫy Khớp Tiêu Đề Cứng Nhắc Trong `heading_handler.py`:** Regex nhận diện Phụ lục bắt đầu cứng bằng `^(?:Phụ\s+lục|PHỤ\s+LỤC)`. Khi văn bản nguồn hoặc pipeline trung gian sinh ra tiêu đề có tiền tố Markdown như `## PHỤ LỤC A` hoặc `**PHỤ LỤC A**`, regex bị trượt hoàn toàn, khiến `annex_buffers` rỗng và 100% nội dung phụ lục bị dồn vào `main_body`, phá vỡ nguyên lý phân tách ngăn kéo (ADR 0036).
+  2. **Ảo Tưởng "Pass Gate Mù Quáng" (Goodhart's Law Trap):** Khi CI chỉ kiểm tra các bảng CSV *hiện có trên đĩa*, Agent có xu hướng chạy script xóa bỏ các bảng không đăng ký (`clean_orphan_tables.py`) để làm sạch warning thay vì truy vết tại sao bảng bị thiếu. Hậu quả là 15/28 bảng kỹ thuật bị xóa sổ khỏi kho dữ liệu.
+  3. **Lỗ Hổng Sub-phrase Matching Trong Gate 11:** Kiểm định verbatim parity bằng cửa sổ 6 từ (`6-word chunks`) có điểm mù lớn: chỉ cần 1 cụm ngắn xuất hiện, cả đoạn văn bản lớn (như chú thích Bảng A.3 dài 832 ký tự) vẫn được tính là đã khớp, che giấu việc rơi rụng hơn 80% câu chữ quy chuẩn.
+  4. **Bỏ Sót Sơ Đồ Đồ Họa Khi Thiếu Word Shapes:** Khi tệp Word không nhúng hình dưới dạng Word Shape, pipeline ghi nhận `total_figures: 0` mà không đối chiếu PDF gốc, bỏ sót các sơ đồ quy chuẩn bắt buộc (Hình H.1, Hình H.2 tại PDF trang 41-42).
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Khử Tiền Tố Ký Tự Markdown Trong Nhận Diện Cấu Trúc:**
+     - Chuẩn hóa `clean_annex_candidate = re.sub(r"^[#*_>\s\-]+", "", text).strip()` trước khi khớp regex Phụ lục, bảo đảm 100% các biến thể heading đều kích hoạt cơ chế bóc tách `annex_buffers` chính xác.
+  2. **Quy Tắc Nghiêm Cấm Xóa Bảng/Hình "Mồ Côi" (Zero-Prune Ground Truth Invariant):**
+     - Tuyệt đối cấm Agent tự ý xóa bỏ các tệp bảng/hình bị coi là "orphan" khi chưa đối chiếu toàn văn số lượng bảng với tệp gốc (`len(doc.tables)`).
+  3. **Bóc Tách Chú Thích Bảng Biểu Toàn Phần (Decoupled Footnotes — ADR 0041):**
+     - Triệt tiêu 100% hiện tượng footnote leakage vào hàng dữ liệu CSV (loại bỏ các hàng `(1)`, `DN` khỏi grid quan hệ, đưa vào `footnotes` array trong `tables_catalog.json`).
+  4. **Đối Soát Đa Phương Thức Bắt Buộc (Multimodal PDF Fallback):**
+     - Khi `figures/` ghi nhận 0 hình, bắt buộc kiểm tra các trang PDF quy chuẩn để trích xuất raster vector $\ge 300\text{ DPI}$ cho toàn bộ sơ đồ kỹ thuật.
+
+---
+
+## 44. Dual-Zone Footnote Hierarchy, In-Cell Anchor Formatting & Cross-Page Table Continuity (10 Visual Parity Error Patterns & Ground Truth Reconciliation)
+
+- **Vấn đề Phát Hiện (QCVN 10:2025/BCA Visual & Layout Audit — Bảng 2 & Điều 1.5.5):**
+  1. **Đảo Lộn Phả Hệ Chú Thích (Dual-Zone Hierarchy Inversion):** Bộ bóc tách nhầm lẫn giữa chú thích gán theo ô (Cell Footnotes `(1)`, `(2)`) và khối giải thích ký hiệu chung (General Legend `CHÚ THÍCH:`). Header `**CHÚ THÍCH:**` bị đặt chèn lên đầu, nuốt chửng các footnote ô vào khối giải thích chung, làm sai lệch ngữ nghĩa pháp quy.
+  2. **Rơi Rụng Ký Tự Dấu Trừ & Đứt Gãy Do Ngắt Trang (Cross-Page Table Severing):** Bảng biểu bị ngắt trang giữa chừng trong file Word khiến dòng cuối cùng (`Dấu “-” Chữa cháy không thích hợp`) bị đẩy ra ngoài bảng thành đoạn văn rời rạc, làm mất dấu trừ `“-”` và gây vỡ cấu trúc bảng.
+  3. **Phẳng Hóa Ô Gộp Ngang Thành Cột Rỗng (`gridSpan` Meaning Collapse):** Khi ô dữ liệu gộp 2 cột (như dòng Aerosol và Bột trong Bảng 2), parser phẳng hóa thành `| - |` hoặc `| |`, gây hiểu lầm rằng dạng chất chữa cháy bị "cấm" hoặc không áp dụng, thay vì hiểu đúng là áp dụng chung cho mọi dạng.
+  4. **Mất Chỉ Số Trên Chân Mỏ Neo (Unformatted Superscript Anchors):** Các ký hiệu viện dẫn `+(1)`, `++(1)`, `Khí Freon(2)` bị parse thành text trần không có thẻ `<sup>...</sup>`, gây xung đột thị giác và cản trở RAG engine nhận diện mỏ neo tham chiếu.
+  5. **Vỡ Thụt Lề & Danh Sách Trần Trụi:** Các dòng giải nghĩa dấu `Dấu “+++”...` bị dồn sát lề, không có ký tự bullet thoát chuỗi chuẩn `&nbsp;&nbsp;\- `, vi phạm ADR 0029 & ADR 0030.
+  6. **Lẫn Lộn Chú Thích Bảng & Đoạn Quy Phạm Tiếp Theo:** Đoạn văn bản tiếp theo (*"Khi nhà, công trình, gian phòng..."*) bị dán liền vào khối chú thích bảng do thiếu ranh giới ngắt đoạn chuẩn.
+  7. **Bảo Toàn Ký Tự Đặc Thù Văn Bản Ban Hành (Verbatim Token Retention):** Cụm viện dẫn `QCVN 06:/BXD` (Bộ Công an để trống năm để áp dụng phiên bản mới nhất) nếu bị tự ý "sửa đúng" thành `QCVN 06:2022/BXD` sẽ vi phạm Gate 11 Verbatim Parity Invariant (ADR 0037).
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Phân Tách 2 Vùng Chú Thích (Dual-Zone Decoupling Engine):**
+     - Vùng 1 (Cell Footnotes): Các dòng `(1) ...`, `(2) ...` đứng trực tiếp dưới bảng, không có header `CHÚ THÍCH:`.
+     - Vùng 2 (General Legend): Đứng dưới Vùng 1, mở đầu bằng `**CHÚ THÍCH:**`, mỗi gạch đầu dòng dùng thụt lề cấp 1 `&nbsp;&nbsp;\- `.
+  2. **Gán Nhãn Ngữ Nghĩa Cho Ô Gộp Ngang (`gridSpan`):**
+     - Khi một hàng bao quát toàn bộ các cột phân nhánh, tự động gán nhãn `*(Áp dụng chung)*` trong Markdown và `Áp dụng chung` trong CSV/JSON để bảo toàn giá trị ngữ nghĩa cho cả người đọc lẫn LLM/RAG.
+  3. **Tự Động Chuẩn Hóa Chân Mỏ Neo Bằng `<sup>`:**
+     - Tự động nhận diện các mẫu `(\+{1,3}|\-)\s*(\([0-9]+\))` và `([a-zA-ZÀ-ỹ0-9_]+)\s*(\([0-9]+\))` để bọc `<sup>...</sup>`, loại bỏ nguy cơ text dính liền.
+  4. **Bảo Tồn Tuyệt Đối Token Văn Bản Gốc (ADR 0037 Invariant):**
+     - Giữ nguyên 100% cấu trúc từ khóa như `QCVN 06:/BXD` của cơ quan ban hành, nghiêm cấm agent tự ý suy diễn hoặc "làm sạch" quá mức gây trượt cổng kiểm định Verbatim.

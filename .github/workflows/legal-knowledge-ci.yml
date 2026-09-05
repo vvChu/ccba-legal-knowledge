@@ -25,18 +25,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install pyyaml python-docx
 
-      - name: 1. Validate Legal Spoke Registry & Schema
+      - name: 1. Validate Legal Spoke Master CI Gate
         run: |
           python scripts/validate_legal_spoke.py
 
-      - name: 2. Verify Knowledge Deterministic Parity & Zero Data Loss
+      - name: 2. Check Spoke Cleanliness & Budget (ADR 0044)
         run: |
-          python scripts/verify_knowledge_integrity.py
+          python scripts/check_spoke_cleanliness.py
 
-      - name: 3. Verify Cross-Links & Inlined Semantic Anchors
+      - name: 3. Check Hub Import Depth (ADR 0044)
         run: |
-          python scripts/verify_cross_links.py
+          python scripts/check_hub_import_depth.py
 
-      - name: 4. Deep Anomaly & Format Scan
+      - name: 4. Audit Visual Parity & Footnotes (Gate 9)
         run: |
-          python scripts/audit_entire_knowledge_bundle.py
+          python scripts/lint_visual_parity.py

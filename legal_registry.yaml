@@ -2,10 +2,10 @@ version: 0.3.0
 updated_at: '2026-08-17T17:30:00Z'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 39
+  total_documents: 40
   categories:
     01_vbpl: 24
-    02_qcvn: 6
+    02_qcvn: 8
     03_tcvn: 5
     04_appendices: 3
 documents: {}
@@ -884,6 +884,40 @@ laws:
   converter_version: 0.4.0
   schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
   extracted_at: '2026-09-05T07:20:00.000000+00:00'
+- id: QCVN-10-2025-BCA
+  document_number: QCVN 10:2025/BCA
+  title: QCVN 10:2025/BCA — Quy chuẩn kỹ thuật quốc gia về trang bị, bố trí phương
+    tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ cho nhà và công trình
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Công an
+  signer: Lương Tam Quang
+  issued_date: '2025-11-04'
+  effective_date: '2025-12-30'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_10_2025_bca/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-103-2025-TT-BCA-Quy-chuan-ky-thuat-quoc-gia-bo-tri-phuong-tien-phong-chay-cho-nha-679760.aspx
+  sha256: f6f172c8552abba6696fbe515e6dff787dc819f7cf243c5d5be9212538184ce3
+  pdf_path: legal_docs/02_qcvn/qcvn_10_2025_bca/sources/qcvn_10_2025_bca.pdf
+  pdf_sha256: 68f56e36b6ce9d5f4244154249db15e62eaae32bcaaa29013b47d5305dfddcba
+  cong_bao_number: 103/2025/TT-BCA
+  pdf_status: verified
+  source_file: legal_docs/02_qcvn/qcvn_10_2025_bca/sources/qcvn_10_2025_bca.docx
+  source_file_size_kb: 80.1
+  source_assets:
+    docx:
+      sha256: f6f172c8552abba6696fbe515e6dff787dc819f7cf243c5d5be9212538184ce3
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_10_2025_bca/qcvn_10_2025_bca.docx
+      status: synced
+    pdf:
+      sha256: 68f56e36b6ce9d5f4244154249db15e62eaae32bcaaa29013b47d5305dfddcba
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_10_2025_bca/qcvn_10_2025_bca.pdf
+      status: verified
+  relations:
+    replaces: TCVN-3890-2023
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-09-05T17:30:00.000000+00:00'
 standards:
 - id: TCVN-7336-2021
   document_number: TCVN 7336:2021

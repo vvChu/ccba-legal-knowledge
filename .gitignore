@@ -3,6 +3,7 @@
 .vscode/
 .idea/
 *.log
+*.bak
 
 # Python / Node.js build
 __pycache__/
@@ -17,6 +18,7 @@ requirements-hub.txt
 # CCBA Agent Platform - Whitelist selected configs (skills is local only and git-ignored)
 .agents/*
 !.agents/workflows/
+!.agents/workflows/*.bak
 !.agents/proposals/
 !.agents/AGENTS.md
 .agents/**/*.log

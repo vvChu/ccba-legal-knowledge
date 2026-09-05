@@ -1,0 +1,27 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: QCVN 10:2025/BCA
+total_figures: 2
+figures:
+- figure_id: FIG_QCVN10_H_1
+  tag: H.1
+  slug: hinh_h_1
+  title: Quy cách bến cho xe chữa cháy lấy nước
+  annex: H
+  anchor: hinh-h-1
+  image_relpath: figures/images/hinh_h_1.png
+  has_image: true
+  card_file: figures/cards/hinh_h_1.md
+  type: diagram
+  source_clause: H.1.5.4
+- figure_id: FIG_QCVN10_H_2
+  tag: H.2
+  slug: hinh_h_2
+  title: Quy cách đường ống dẫn và hố thu nước cho xe chữa cháy lấy nước
+  annex: H
+  anchor: hinh-h-2
+  image_relpath: figures/images/hinh_h_2.png
+  has_image: true
+  card_file: figures/cards/hinh_h_2.md
+  type: diagram
+  source_clause: H.1.5.9

@@ -1,0 +1,105 @@
+{
+  "table_id": "bang_a_2",
+  "table_number": "A.2",
+  "table_title": "Bảng A.2 - Đối với hạng mục/khu vực",
+  "archetype": "2d_matrix",
+  "columns": [
+    "STT",
+    "Hạng mục/khu vực",
+    "Hệ thống báo cháy tự động",
+    "Hệ thống chữa cháy tự động"
+  ],
+  "row_count": 14,
+  "col_count": 4,
+  "footnotes": [
+    "(1) Hạng mục cáp trong Quy chuẩn này bao gồm tuy nen, giếng, sàn nâng (sàn kép), tầng cáp, hành lang cáp dùng để đặt cáp (bao gồm cả kết hợp với các phương tiện liên lạc khác).",
+    "(2) Cho phép không trang bị hệ thống báo cháy tự động, hệ thống chữa cháy tự động trong các trường hợp sau:\n- Cáp được luồn trong ống hoặc được bọc bằng vật liệu không cháy hoặc có tính cháy Ch1;\n- Là cáp, dây dẫn điện của hệ thống chiếu sáng, hệ thống thông tin.",
+    "(3) Các khu vực áp dụng yêu cầu tại mục 7.1, 7.2 của Bảng này, gồm:\n- Hành lang thoát nạn, hội trường, tiền sảnh;\n- Gian phòng có từ 50 người trở lên;\n- Gian phòng cấp nguy hiểm cháy theo công năng nhóm F1.1 và F4.1 và kinh doanh dịch vụ karaoke, vũ trường.\nCho phép chỉ bố trí đầu báo cháy tại các vị trí các đường ống kỹ thuật và/hoặc đường máng cáp tại không gian phía trên trần treo và dưới sàn nâng."
+  ],
+  "rows": [
+    [
+      "1.",
+      "Hạng mục cáp(1)của nhà máy điện (không bao gồm phần cáp đặt ở ngoài nhà, công trình)",
+      "Không phụ thuộc vào quy mô(2)",
+      "Không phụ thuộc vào quy mô(2)"
+    ],
+    [
+      "2",
+      "Hạng mục cáp(1)của trạm biến áp có điện áp từ 500 kV trở lên (không bao gồm phần cápđặt ở ngoài nhà,côngtrình)",
+      "Không phụ thuộc vào quy mô(2)",
+      "Không phụ thuộc vào quy mô(2)"
+    ],
+    [
+      "3.",
+      "Hạng mục cáp(1)của trạm biến áp có điện áp 110-220 kV (không bao gồm phần cáp đặt ở ngoài nhà, công trình) với máy biến ápcó côngsuất:",
+      "",
+      ""
+    ],
+    [
+      "3.1.",
+      "Dưới 63 MVA",
+      "Không phụ thuộc vào quy mô(2)",
+      "-"
+    ],
+    [
+      "3.2.",
+      "Từ 63 MVA trở lên",
+      "Không phụ thuộc vào quy mô(2)",
+      "Không phụ thuộc vào quymô(2)"
+    ],
+    [
+      "4.",
+      "Hạng mục cáp(1)của trạm biến áp không người trực (không bao gồm phần cáp đặt ở ngoài nhà,côngtrình)",
+      "Không phụ thuộc vào quy mô(2)",
+      "Không phụ thuộc vào quy mô(2)"
+    ],
+    [
+      "5.",
+      "Hầm cáp (mương cáp) trong nhà sản xuất và nhà dân dụng trong đó đặt cáp hoặc dâydẫn có điện áptừ 220 V trở lên:",
+      "",
+      ""
+    ],
+    [
+      "5.1.",
+      "Có khối tích từ 10 m3đến 100 m3",
+      "Từ 5 sợi trở lên(2)",
+      "-"
+    ],
+    [
+      "5.2.",
+      "Có khối tích trên 100 m3",
+      "Từ 5 sợi trở lên(2)",
+      "Từ 12 sợi trở lên(2)"
+    ],
+    [
+      "6.",
+      "Băng tải kín vận chuyển nguyên vật liệu dễ cháy",
+      "Chiều dài từ 25 m trở lên",
+      "Chiều dài từ 25 m trở lên"
+    ],
+    [
+      "7.",
+      "Khoảng không gian phía trên trần giả hoặc dưới sàn nâng có chiều cao khoảng không gian từ 0,35 m trở lên của các khu vực(3) trong các gian phòng, nhà thuộc diện trang bị hệ thống chữa cháy tự động và/hoặc hệ thốngbáo cháytựđộngcó:",
+      "",
+      ""
+    ],
+    [
+      "7.1.",
+      "Đường ống kỹ thuật được bọc bằng vật liệu có tính cháy Ch2-Ch4, không phụ thuộc khối lượng",
+      "Không phụ thuộc vào quy mô",
+      "-"
+    ],
+    [
+      "7.2.",
+      "Máng cáp (bó cáp) có điện áp từ 220 V trở lên và tổng thể tích chất cháy thuộc nhóm Ch2 đến Ch4 từ 0,0015 m3chiều dài trở lên",
+      "Không phụ thuộc vào quy mô(2)",
+      "-"
+    ],
+    [
+      "8.",
+      "Hầm cáp (mương cáp) của hầm giao thông đườngbộcó chiều dài từ 500 m trở lên",
+      "Không phụ thuộc vào quy mô(2)",
+      "-"
+    ]
+  ]
+}

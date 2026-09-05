@@ -1,0 +1,13 @@
+Chất chữa cháy,Dạng chất chữa cháy,A,B,C,D,E
+Nước,Phun tia,++,-,-,-,-
+Nước,Phun sương,++,+,-,-,+ (1)
+Chất chữa cháy gốc nước,Phun tia,+++,+++,-,-,-
+Chất chữa cháy gốc nước,Phun sương,+++,+++,-,-,++ (1)
+Bọt,Bội số nở thấp,++,++,-,-,-
+Bọt,Bội số nở trung bình,+,++,-,-,-
+Bọt,Bội số nở cao,+,+,-,-,-
+Bọt,Bọt chứa flo,++,+++,-,-,-
+Khí,"Khí CO2, Nitơ",+,+,+,-,+++
+Khí,Khí Freon (2),+,++,+,-,++
+Aerosol (Sol-khí),Áp dụng chung,++,++,++,-,++
+Bột,Áp dụng chung,++,+++,+++,+++,++

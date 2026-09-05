@@ -1,0 +1,27 @@
+﻿TT,Đối tượng,Quy mô,"Xe ô tô chữa cháy, chiếc","Tàu chữa cháy, chiếc","Máy bơm chữa cháy loại khiêng tay, chiếc (2)"
+1,**Kho(1)**,,,,
+1.1,Kho dầu mỏ và các sản phẩm dầu mỏ,Tổng dung tích trên 500 000 m3,2,,
+1.2,Kho dầu mỏ và các sản phẩm dầu mỏ,Tổng dung tích từ 100 000 m3đến 500 000 m3,1,,
+1.3,Kho dầu mỏ và các sản phẩm dầu mỏ,Tổng dung tích nhỏ hơn 100 000 m3,,,1
+2,"**Cảng hàng không, bến cảng**",,,,
+2.1,Cảng hàng không,"Theo cấp phòng cháy, chữa cháy, cứu nạn cứu hộ của Tổ chức hàng không dân dụng quốc tế (ICAO) tại Doc 9137- AN/898 Airport Services Manual - Part 1 - Rescue and Firefighting",,,
+,,"Cấp 1,2,3,4,5",1,,
+,,"Cấp 6,7",2,,
+,,"Cấp 8,9,10",3,,
+2.2,Bến cảng,,,,
+,"Bến cảng biển có xuất, nhập chất nổ, chất khí, chất lỏng, rắn thuộc danh mục hàng nguy hiểm",Cấp đặc biệt,2,,
+,,Cấp I,1,,
+,,"Cấp II, Cấp III",,,1
+,Bến cảng chuyên dùng LNG,Tiếp nhận tàu hoặc thiết bị có dung tích chứa từ 8 000 m3 trở lên,,**1**,
+3,**Cơ sở sản xuất**,,,,
+3.1,Nhà máy nhiệt điện,Tổng công suất từ 600 MW đến dưới 1200 MW,1,,
+,,Tổng công suất từ 1200 MW trở lên,2,,
+3.2,Nhà máy thủy điện,Tổng công suất từ 1000 MW trở lên,1,,
+3.3,"Nhà máy nhiệt điện, thủy điện","Nhà máy thủy điện có tổng công suất nhỏ hơn 1000 MW, nhà máy nhiệt điện có tổng công suất nhỏ hơn 600 MW",,,1
+3.4,Nhà máy dệt,Công suất từ 25 triệu m2/năm,1,,
+3.5,"Nhà máy lọc dầu; nhà máy lọc,hóa dầu;",Không phụ thuộc vào công suất,2,,
+3.6,Cơ sở chế biến khí đốt,Công suất từ 10 triệu m3khí/ngày đêm trở lên,1,,
+4,"**Khu công nghiệp, cụm** **công nghiệp**",,,,
+4.1,Khu công nghiệp,Tổng diện tích trên 300 ha,2,,
+4.2,"Khu công nghiệp, cụm công nghiệp",Tổng diện tích từ 75 ha đến 300 ha,1,,
+4.3,"Khu công nghiệp, cụm công nghiệp",Tổng diện tích dưới 75 ha,,,1
