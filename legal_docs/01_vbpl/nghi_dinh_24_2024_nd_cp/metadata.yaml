@@ -24,3 +24,10 @@ source_assets:
     sha256: 810b9139d0074b49ab5b873667793d4c52433fc365fbfec787db408c17a1b104
     vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_24_2024_nd_cp/nghi_dinh_24_2024_nd_cp.pdf
     status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-24-2024-ND-CP-huong-dan-Luat-Dau-thau-ve-lua-chon-nha-thau-578020.aspx
+relations:
+  guided_by: Luat-Dau-thau-2023-22-2023-QH15
+  replaces: 63/2014/NĐ-CP
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-05T01:30:13.506554+00:00'

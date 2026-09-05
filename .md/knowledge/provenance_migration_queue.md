@@ -5,10 +5,10 @@
 > Tuyệt đối không chạy script đóng dấu khống (False Attestation). Mọi việc cấp tem `okf_spec: v2.4 Universal`
 > bắt buộc phải tuân theo Chiến lược Di trú Phân tầng (Tiered Migration Protocol).
 
-- **Thời điểm quét:** `2026-09-04 23:03:35 UTC`
+- **Thời điểm quét:** `2026-09-05 01:30:13 UTC`
 - **Tiêu chuẩn chuẩn hóa:** `v2.4 Universal` (Converter: `0.4.0`)
 - **Quy mô kho tài liệu:** **38 văn bản** (35 gói tri thức chính quy + 3 ma trận đối chiếu)
-- **Tiến độ cấp tem bảo chứng:** **1 / 35** (2.9%)
+- **Tiến độ cấp tem bảo chứng:** **25 / 35** (71.4%)
 
 ---
 
@@ -27,30 +27,30 @@
 
 | STT | Số Hiệu / ID | Thể Loại | Nhóm Di Trú | Trạng Thái Gate 15 | Đặc Tính (Math / Table / Fig) | Hành Động Đề Xuất |
 | :---: | :--- | :--- | :--- | :---: | :--- | :--- |
-| 1 | `22/2023/QH15` | Luật | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 2 | `55/2024/QH15` | Luật | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 3 | `135/2025/QH15` | Luật | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 4 | `105/2025/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 5 | `193/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 6 | `206/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 7 | `207/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | 3 CSV/3 JSON | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 8 | `209/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 9 | `210/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 10 | `212/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 11 | `217/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | 1 CSV/1 JSON | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 12 | `24/2024/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 13 | `101/2026/TT-BQP` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 14 | `32/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 15 | `33/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 16 | `34/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 17 | `36/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 18 | `37/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | 2 CSV/2 JSON | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 19 | `38/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | 3 CSV/3 JSON | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 20 | `39/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 21 | `40/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 22 | `41/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 23 | `73/2026/TT-BTC` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
-| 24 | `79/2026/TT-BTC` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ⏳ CHƯA CẤP DẤU | Văn bản thuần túy | Attestation hợp chuẩn sau khi đối soát Gate 1-11 |
+| 1 | `22/2023/QH15` | Luật | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 2 | `55/2024/QH15` | Luật | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 3 | `135/2025/QH15` | Luật | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 4 | `105/2025/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 5 | `193/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 6 | `206/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 7 | `207/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | 3 CSV/3 JSON | Attested & Certified (OKF v2.4 Universal) |
+| 8 | `209/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 9 | `210/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 10 | `212/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 11 | `217/2026/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | 1 CSV/1 JSON | Attested & Certified (OKF v2.4 Universal) |
+| 12 | `24/2024/NĐ-CP` | Nghị định | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 13 | `101/2026/TT-BQP` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 14 | `32/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 15 | `33/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 16 | `34/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 17 | `36/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 18 | `37/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | 2 CSV/2 JSON | Attested & Certified (OKF v2.4 Universal) |
+| 19 | `38/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | 3 CSV/3 JSON | Attested & Certified (OKF v2.4 Universal) |
+| 20 | `39/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 21 | `40/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 22 | `41/2026/TT-BXD` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 23 | `73/2026/TT-BTC` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
+| 24 | `79/2026/TT-BTC` | Thông tư | 🟢 Nhóm A (Clean Passthrough) | ✅ VERIFIED | Văn bản thuần túy | Attested & Certified (OKF v2.4 Universal) |
 | 25 | `QCVN 01:2021/BXD` | Quy chuẩn kỹ thuật quốc gia | 🔶 Nhóm B (Compartment Refresh) | ⏳ CHƯA CẤP DẤU | 32 CSV/32 JSON | Phẫu thuật cục bộ ngăn kéo tables/ và figures/ |
 | 26 | `QCVN 02:2022/BXD` | Quy chuẩn kỹ thuật quốc gia | 🔶 Nhóm B (Compartment Refresh) | ⏳ CHƯA CẤP DẤU | 49 CSV/49 JSON | Phẫu thuật cục bộ ngăn kéo tables/ và figures/ |
 | 27 | `QCVN 03:2022/BXD` | Quy chuẩn kỹ thuật quốc gia | 🔶 Nhóm B (Compartment Refresh) | ✅ VERIFIED | 3 CSV/3 JSON | Phẫu thuật cục bộ ngăn kéo tables/ và figures/ |

@@ -2,9 +2,24 @@ bundle_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15/
 pdf_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15/sources/luat_135_2025_qh15.pdf
 pdf_sha256: bacd661b1e7cb5e58f21c9357f465d1248588aea7838ba6d286f8982562edf01
 pdf_status: verified
-cong_bao_number: Đang cập nhật
+cong_bao_number: 1205+1206/2025
 source_assets:
   pdf:
     sha256: bacd661b1e7cb5e58f21c9357f465d1248588aea7838ba6d286f8982562edf01
     vault_path: CCBA_Legal_Vault/01_vbpl/luat_xay_dung_2025_135_2025_qh15/luat_135_2025_qh15.pdf
     status: verified
+id: Luat-Xay-dung-2025-135-2025-QH15
+document_number: 135/2025/QH15
+title: Luật Xây dựng 2025 (Số 135/2025/QH15)
+type: Luật
+issued_by: Quốc hội
+signer: Trần Thanh Mẫn
+issued_date: '2025-12-10'
+effective_date: '2026-07-01'
+status: active
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Xay-dung-2025-so-135-2025-QH15-675213.aspx
+relations:
+  replaces: 50/2014/QH13
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-05T01:30:13.506554+00:00'

@@ -39,3 +39,9 @@ source_assets:
     sha256: 98585a04eb1174e040409944cdafdb1ce2114d072055b866d24cb5f39ae3a5dd
     vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_73_2026_tt_btc/thong_tu_73_2026_tt_btc.pdf
     status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-73-2026-TT-BTC-mau-bieu-quyet-toan-von-dau-tu-712590.aspx
+relations:
+  guided_by: nghi_dinh_193_2026_nd_cp
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-05T01:30:13.506554+00:00'

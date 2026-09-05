@@ -23,3 +23,9 @@ source_assets:
     sha256: b60801b38a87cd6dfe0a3f680999aa1f7ca3d48306f86825c9e2765ff993d598
     vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_210_2026_nd_cp/nghi_dinh_210_2026_nd_cp.pdf
     status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-210-2026-ND-CP-hop-dong-xay-dung-696691.aspx
+relations:
+  guided_by: Luat-Xay-dung-2025-135-2025-QH15
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-05T01:30:13.506554+00:00'

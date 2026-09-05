@@ -1,0 +1,20 @@
+[
+  {
+    "table_id": "bang_dinh_muc_hao_phi_ca_may_chuong_1",
+    "file_stem": "bang_dinh_muc_hao_phi_ca_may_chuong_1",
+    "title": "Định mức hao phí ca máy - Chương I",
+    "columns_count": 9,
+    "rows_count": 664,
+    "csv_path": "tables/csv/bang_dinh_muc_hao_phi_ca_may_chuong_1.csv",
+    "json_path": "tables/json/bang_dinh_muc_hao_phi_ca_may_chuong_1.json"
+  },
+  {
+    "table_id": "bang_dinh_muc_hao_phi_ca_may_chuong_2",
+    "file_stem": "bang_dinh_muc_hao_phi_ca_may_chuong_2",
+    "title": "Định mức hao phí ca máy - Chương II",
+    "columns_count": 7,
+    "rows_count": 278,
+    "csv_path": "tables/csv/bang_dinh_muc_hao_phi_ca_may_chuong_2.csv",
+    "json_path": "tables/json/bang_dinh_muc_hao_phi_ca_may_chuong_2.json"
+  }
+]

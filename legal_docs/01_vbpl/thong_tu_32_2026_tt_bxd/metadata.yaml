@@ -29,3 +29,9 @@ source_assets:
     sha256: ea27c3c8030538e7c0c025b8fd29884f938c3b2cb95ab8182b5a58b420ab2790
     vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_32_2026_tt_bxd/thong_tu_32_2026_tt_bxd.pdf
     status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-32-2026-TT-BXD-quy-dinh-chi-tiet-Nghi-dinh-207-2026-ND-CP-711676.aspx
+relations:
+  guided_by: nghi_dinh_207_2026_nd_cp
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-05T01:30:13.506554+00:00'

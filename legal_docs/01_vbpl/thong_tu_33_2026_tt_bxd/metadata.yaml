@@ -29,3 +29,9 @@ source_assets:
     sha256: 73b9b92da82b5a2ca53f7c0b53936fdd35eec0fd40b24a44d00179fe1ff62399
     vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_33_2026_tt_bxd/thong_tu_33_2026_tt_bxd.pdf
     status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-33-2026-TT-BXD-danh-gia-an-toan-cong-trinh-712404.aspx
+relations:
+  guided_by: nghi_dinh_207_2026_nd_cp
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-05T01:30:13.506554+00:00'

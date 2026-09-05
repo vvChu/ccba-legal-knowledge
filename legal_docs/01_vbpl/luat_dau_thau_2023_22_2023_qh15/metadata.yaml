@@ -13,9 +13,15 @@ pdf_status: verified
 legal_basis: []
 replaces: 43/2013/QH13
 bundle_path: legal_docs/01_vbpl/luat_dau_thau_2023_22_2023_qh15/
-cong_bao_number: Đang cập nhật
+cong_bao_number: 789+790/2023
 source_assets:
   pdf:
     sha256: 9c6fbdb47b2bc1f51b729443d9bf328d4428a51b3ef34a3d98f65e0499221621
     vault_path: CCBA_Legal_Vault/01_vbpl/luat_dau_thau_2023_22_2023_qh15/luat_22_2023_qh15.pdf
     status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-Dau-thau-2023-22-2023-QH15-518805.aspx
+relations:
+  replaces: 43/2013/QH13
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-05T01:30:13.506554+00:00'

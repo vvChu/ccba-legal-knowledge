@@ -46,3 +46,9 @@ source_assets:
     sha256: 3a52a394b8b1909f1337127df69db87ac840243154620aaa95b41e96808a09f9
     vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_212_2026_nd_cp/nghi_dinh_212_2026_nd_cp.pdf
     status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-212-2026-ND-CP-dieu-kien-nang-luc-hoat-dong-xay-dung-697287.aspx
+relations:
+  guided_by: Luat-Xay-dung-2025-135-2025-QH15
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-05T01:30:13.506554+00:00'

@@ -1,0 +1,29 @@
+[
+  {
+    "table_id": "pl2_phan_cap_dat_da_rung_bun",
+    "file_stem": "pl2_phan_cap_dat_da_rung_bun",
+    "title": "Phụ lục II - Bảng phân cấp đất đá, rừng, bùn",
+    "columns_count": 3,
+    "rows_count": 8,
+    "csv_path": "tables/csv/pl2_phan_cap_dat_da_rung_bun.csv",
+    "json_path": "tables/json/pl2_phan_cap_dat_da_rung_bun.json"
+  },
+  {
+    "table_id": "pl7_cap_phoi_vua_be_tong",
+    "file_stem": "pl7_cap_phoi_vua_be_tong",
+    "title": "Phụ lục VII - Định mức cấp phối vữa bê tông",
+    "columns_count": 8,
+    "rows_count": 217,
+    "csv_path": "tables/csv/pl7_cap_phoi_vua_be_tong.csv",
+    "json_path": "tables/json/pl7_cap_phoi_vua_be_tong.json"
+  },
+  {
+    "table_id": "pl8_dinh_muc_chi_phi_quan_ly_du_an_va_tu_van",
+    "file_stem": "pl8_dinh_muc_chi_phi_quan_ly_du_an_va_tu_van",
+    "title": "Phụ lục VIII - Định mức chi phí quản lý dự án và tư vấn đầu tư xây dựng",
+    "columns_count": 38,
+    "rows_count": 146,
+    "csv_path": "tables/csv/pl8_dinh_muc_chi_phi_quan_ly_du_an_va_tu_van.csv",
+    "json_path": "tables/json/pl8_dinh_muc_chi_phi_quan_ly_du_an_va_tu_van.json"
+  }
+]

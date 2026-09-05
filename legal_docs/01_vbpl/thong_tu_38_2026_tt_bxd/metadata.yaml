@@ -31,3 +31,14 @@ source_assets:
     sha256: 79d952610a16a3556f9903f37383259a1a2c01f6aef13c03042b449462ae54ef
     vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_38_2026_tt_bxd/thong_tu_38_2026_tt_bxd.pdf
     status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-38-2026-TT-BXD-he-thong-dinh-muc-xay-dung-quoc-gia-712406.aspx
+relations:
+  guided_by: nghi_dinh_206_2026_nd_cp
+  replaces:
+  - 12/2021/TT-BXD
+  - 09/2024/TT-BXD
+  - 08/2025/TT-BXD
+  - 60/2025/TT-BXD
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-05T01:30:13.506554+00:00'

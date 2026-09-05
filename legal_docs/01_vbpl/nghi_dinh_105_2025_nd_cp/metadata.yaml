@@ -20,3 +20,7 @@ source_assets:
     sha256: f4f8993ffe37a93d26f335571793d3369a69737b0ed26504aba486ae38343f6a
     vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_105_2025_nd_cp/nghi_dinh_105_2025_nd_cp.pdf
     status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-105-2025-ND-CP-huong-dan-Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-657317.aspx
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-05T01:30:13.506554+00:00'

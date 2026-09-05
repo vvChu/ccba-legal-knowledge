@@ -1,11 +1,11 @@
 id: luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1
-document_number: Đang cập nhật
-title: luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1
-type: Nghị định
-issued_by: Bộ Xây dựng
-signer: Đang cập nhật
-issued_date: '2026-06-30'
-effective_date: '2026-07-01'
+document_number: 55/2024/QH15
+title: Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ 2024 (Số 55/2024/QH15)
+type: Luật
+issued_by: Quốc hội
+signer: ''
+issued_date: '2024-11-29'
+effective_date: '2025-07-01'
 status: active
 pdf_path: legal_docs/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/sources/luat_55_2024_qh15.pdf
 pdf_sha256: 706a8bfbb2328ca11e2e54bd44849b22854256a2d68240cdf8fa320909c6f90b
@@ -13,9 +13,14 @@ pdf_status: verified
 legal_basis: []
 replaces: []
 bundle_path: legal_docs/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/
-cong_bao_number: Đang cập nhật
+cong_bao_number: 1187+1188/2024
 source_assets:
   pdf:
     sha256: 706a8bfbb2328ca11e2e54bd44849b22854256a2d68240cdf8fa320909c6f90b
     vault_path: CCBA_Legal_Vault/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/luat_55_2024_qh15.pdf
     status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Nha-o/Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347.aspx
+relations: {}
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-05T01:30:13.506554+00:00'
