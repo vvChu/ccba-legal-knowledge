@@ -2,10 +2,10 @@ version: 0.3.0
 updated_at: '2026-08-17T17:30:00Z'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 37
+  total_documents: 38
   categories:
     01_vbpl: 24
-    02_qcvn: 5
+    02_qcvn: 6
     03_tcvn: 5
     04_appendices: 3
 documents: {}
@@ -765,6 +765,35 @@ laws:
       sha256: 61228c151c373924bdad12965fe3f04768c85cd74fef36c9ae80432eb6954a4a
       vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_06_2022_bxd/sd1_2023_qcvn_06_2022_bxd.pdf
       status: synced
+- id: QCVN-09-2017-BXD
+  document_number: QCVN 09:2017/BXD
+  title: QCVN 09:2017/BXD — Quy chuẩn kỹ thuật quốc gia về Các công trình xây dựng sử dụng năng lượng hiệu quả
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Xây dựng
+  signer: Lê Quang Hùng
+  issued_date: '2017-12-28'
+  effective_date: '2018-06-01'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_09_2017_bxd/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-15-2017-TT-BXD-Quy-chuan-ky-thuat-cong-trinh-xay-dung-su-dung-nang-luong-hieu-qua-373712.aspx
+  sha256: 4e4ed3e4e264d53836f14ada9f0d99fb49e3e6c7ed83aa97a02404a4feee3f64
+  pdf_path: legal_docs/02_qcvn/qcvn_09_2017_bxd/sources/qcvn_09_2017_bxd.pdf
+  pdf_sha256: bcfe880f97b9c27a7d4948334392679dc557e6e6572243925d39f5e0d9673402
+  cong_bao_number: 15/2017/TT-BXD
+  pdf_status: verified
+  source_file: .md/extracted_docs/qcvn_09_2017_bxd/qcvn_09_2017_bxd.docx
+  source_file_size_kb: 57.6
+  source_assets:
+    docx:
+      sha256: 4e4ed3e4e264d53836f14ada9f0d99fb49e3e6c7ed83aa97a02404a4feee3f64
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_09_2017_bxd/qcvn_09_2017_bxd.docx
+      status: synced
+    pdf:
+      sha256: bcfe880f97b9c27a7d4948334392679dc557e6e6572243925d39f5e0d9673402
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_09_2017_bxd/qcvn_09_2017_bxd.pdf
+      status: verified
+  relations:
+    replaces: QCVN-09-2013-BXD
 - id: bang_so_sanh_luat_xay_dung_2025_vs_2014
   document_number: APPENDIX-XD-2025-2014
   title: Bảng So sánh Nội dung Đổi mới Luật Xây dựng 2025 (135/2025/QH15) vs Luật

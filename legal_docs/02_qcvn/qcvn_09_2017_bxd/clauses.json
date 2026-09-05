@@ -1,0 +1,402 @@
+[
+  {
+    "clause_id": "muc-1-1",
+    "anchor": "muc-1-1",
+    "title": "1.1  Phạm vi điều chỉnh",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 97,
+    "line_end": 97,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-1-1",
+    "anchor": "muc-1-1-1",
+    "title": "1.1.1  Quy chuẩn kỹ thuật quốc gia về các công trình xây dựng sử dụng năng lượng hiệu quả quy định những yêu cầu kỹ thuật bắt buộc phải tuân thủ khi thiết kế, xây dựng mới hoặc cải tạo các công trình có tổng diện tích sàn từ 2500 $m^{2}$ trở lên thuộc các loại hoặc hỗn hợp các loại công trình dưới đây:",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 101,
+    "line_end": 101,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-1-2",
+    "anchor": "muc-1-1-2",
+    "title": "1.1.2  Những quy định trong quy chuẩn này được áp dụng cho các bộ phận:",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 117,
+    "line_end": 117,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-2",
+    "anchor": "muc-1-2",
+    "title": "1.2  Đối tượng áp dụng",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 131,
+    "line_end": 131,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-3",
+    "anchor": "muc-1-3",
+    "title": "1.3  Tài liệu viện dẫn",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 137,
+    "line_end": 137,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-4",
+    "anchor": "muc-1-4",
+    "title": "1.4  Giải thích từ ngữ và các ký hiệu",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 168,
+    "line_end": 168,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-4-1",
+    "anchor": "muc-1-4-1",
+    "title": "1.4.1  Giải thích từ ngữ",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 172,
+    "line_end": 172,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-4-2",
+    "anchor": "muc-1-4-2",
+    "title": "1.4.2  Các ký hiệu, đơn vị đo và từ viết tắt",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 196,
+    "line_end": 196,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1",
+    "anchor": "muc-2-1",
+    "title": "2.1  Lớp vỏ bao che công trình",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 228,
+    "line_end": 228,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-1",
+    "anchor": "muc-2-1-1",
+    "title": "2.1.1  Quy định kỹ thuật đối với lớp vỏ bao che công trình chỉ áp dụng đối với các không gian có điều hòa không khí.",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 232,
+    "line_end": 232,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-2",
+    "anchor": "muc-2-1-2",
+    "title": "2.1.2  Yêu cầu đối với tường bao che bên ngoài và mái công trình",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 236,
+    "line_end": 236,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-2-1",
+    "anchor": "bang-bang-2-1",
+    "title": "Bảng 2.1 - Hệ số SHGC của kính phụ thuộc vào tỷ số WWR",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 258,
+    "line_end": 258,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-2-2a",
+    "anchor": "bang-bang-2-2a",
+    "title": "Bảng 2.2a - Hệ số A đối với kết cấu che nắng nằm ngang cố định",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 288,
+    "line_end": 288,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-2-2b",
+    "anchor": "bang-bang-2-2b",
+    "title": "Bảng 2.2b - Hệ số A đối với kết cấu che nắng thẳng đứng cố định",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 311,
+    "line_end": 311,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3",
+    "anchor": "muc-2-1-3",
+    "title": "2.1.3  Yêu cầu về sản phẩm xây dựng và lắp đặt cho tường và mái công trình",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 344,
+    "line_end": 344,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2",
+    "anchor": "muc-2-2",
+    "title": "2.2  Thông gió và điều hòa không khí",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 354,
+    "line_end": 354,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-1",
+    "anchor": "muc-2-2-1",
+    "title": "2.2.1  Thông gió tự nhiên",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 358,
+    "line_end": 358,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-2",
+    "anchor": "muc-2-2-2",
+    "title": "2.2.2  Thông gió cơ khí",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 366,
+    "line_end": 366,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-3",
+    "anchor": "muc-2-2-3",
+    "title": "2.2.3  Hệ thống điều hòa không khí",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 376,
+    "line_end": 376,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-2-3",
+    "anchor": "bang-bang-2-3",
+    "title": "Bảng 2.3 - Chỉ số hiệu quả COP của máy điều hòa không khí làm lạnh trực tiếp hoạt động bằng điện năng",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 382,
+    "line_end": 382,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-2-4",
+    "anchor": "bang-bang-2-4",
+    "title": "Bảng 2.4 - Chỉ số hiệu quả COP của máy sản xuất nước lạnh (Chiller)",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 416,
+    "line_end": 416,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3",
+    "anchor": "muc-2-3",
+    "title": "2.3  Chiếu sáng",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 459,
+    "line_end": 459,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-1",
+    "anchor": "muc-2-3-1",
+    "title": "2.3.1  Chiếu sáng tự nhiên",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 463,
+    "line_end": 463,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-2",
+    "anchor": "muc-2-3-2",
+    "title": "2.3.2  Chiếu sáng nhân tạo",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 471,
+    "line_end": 471,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-2-5",
+    "anchor": "bang-bang-2-5",
+    "title": "Bảng 2.5 - Mật độ công suất chiếu sáng LPD",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 479,
+    "line_end": 479,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4",
+    "anchor": "muc-2-4",
+    "title": "2.4  Các thiết bị điện khác",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 529,
+    "line_end": 529,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-2-6",
+    "anchor": "bang-bang-2-6",
+    "title": "Bảng 2.6 - Hiệu suất tối thiểu của động cơ điện ở chế độ đầy tải",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 543,
+    "line_end": 543,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-2-7",
+    "anchor": "bang-bang-2-7",
+    "title": "Bảng 2.7 - Hiệu suất tối thiểu của thiết bị đun nước nóng",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 585,
+    "line_end": 585,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-2-8",
+    "anchor": "bang-bang-2-8",
+    "title": "Bảng 2.8 - Hiệu suất tối thiểu COP của bơm nhiệt cấp nước nóng",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 609,
+    "line_end": 609,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-1",
+    "anchor": "muc-3-1",
+    "title": "3.1  Hồ sơ thiết kế các công trình xây dựng mới, sửa chữa cải tạo thuộc phạm vi điều chỉnh của quy chuẩn này phải bao gồm thuyết minh về sự tuân thủ các quy định của quy chuẩn này.",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 635,
+    "line_end": 635,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-2",
+    "anchor": "muc-3-2",
+    "title": "3.2  Công tác thẩm tra, thẩm định hồ sơ thiết kế, thi công và nghiệm thu công trình xây dựng theo quy định hiện hành, trong đó có quy chuẩn QCVN 09:2017/BXD.",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 639,
+    "line_end": 639,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Vụ Khoa học Công nghệ và Môi trường (Bộ Xây dựng) chịu trách nhiệm tổ chức phổ biến, hướng dẫn áp dụng QCVN 09:2017/BXD cho các đối tượng có liên quan.",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 645,
+    "line_end": 645,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Các cơ quan quản lý nhà nước các cấp về xây dựng chịu trách nhiệm tổ chức kiểm tra sự tuân thủ Quy chuẩn kỹ thuật quốc gia QCVN 09:2017/BXD trong hoạt động đầu tư xây dựng công trình thuộc trách nhiệm quản lý của mình theo quy định hiện hành.",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 649,
+    "line_end": 649,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Trong quá trình triển khai thực hiện, nếu có vướng mắc, mọi ý kiến được gửi về Vụ Khoa học Công nghệ và Môi trường (Bộ Xây dựng) để được hướng dẫn và xử lý.",
+    "source_file": "qcvn_09_2017_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 653,
+    "line_end": 653,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-1",
+    "anchor": "phu-luc-1",
+    "title": "PHỤ LỤC 1 — Tổng nhiệt trở $R_0$ của lớp vỏ bao che",
+    "source_file": "annexes/phu_luc_1_tong_nhiet_tro_r0_cua_lop_vo_bao_che.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-2",
+    "anchor": "phu-luc-2",
+    "title": "PHỤ LỤC 2 (Tham khảo) — Hệ số dẫn nhiệt của vật liệu xây dựng",
+    "source_file": "annexes/phu_luc_2_he_so_dan_nhiet_cua_vat_lieu_xay_dung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-3",
+    "anchor": "phu-luc-3",
+    "title": "PHỤ LỤC 3 (Tham khảo) — Hệ số trao đổi nhiệt bề mặt của kết cấu vỏ bao che",
+    "source_file": "annexes/phu_luc_3_he_so_trao_doi_nhiet_be_mat_cua_ket_cau_vo_ba.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-4",
+    "anchor": "phu-luc-4",
+    "title": "PHỤ LỤC 4 (Tham khảo) — Nhiệt trở lớp không khí không được thông gió $R_a$, ($m^2$.K/W)",
+    "source_file": "annexes/phu_luc_4_nhiet_tro_lop_khong_khi_khong_duoc_thong_gio.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-5",
+    "anchor": "phu-luc-5",
+    "title": "PHỤ LỤC 5 (Tham khảo) — Hệ số hấp thu bức xạ của bề mặt vật liệu",
+    "source_file": "annexes/phu_luc_5_he_so_hap_thu_buc_xa_cua_be_mat_vat_lieu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "15/2017/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-6",
+    "anchor": "phu-luc-6",
+    "title": "PHỤ LỤC 6 (Tham khảo) — Tổng nhiệt trở $R_0$ của một số loại tường và mái thông dụng",
+    "source_file": "annexes/phu_luc_6_tong_nhiet_tro_r0_cua_mot_so_loai_tuong_va_ma.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "15/2017/TT-BXD"
+  }
+]

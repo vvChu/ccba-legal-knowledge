@@ -1,0 +1,18 @@
+4e063fcc:
+  latex: "SHGC = \\frac{\\sum_{i = 1}^{n} \\left(SHGC_{i} \\times A_{i}\\right)}{A_{1} + A_{2} + ... + A_{n}}"
+  formula_id: F_QCVN_09_2017_BXD_SHGC_TB
+rId4:
+  latex: "SHGC = \\frac{\\sum_{i = 1}^{n} \\left(SHGC_{i} \\times A_{i}\\right)}{A_{1} + A_{2} + ... + A_{n}}"
+  formula_id: F_QCVN_09_2017_BXD_SHGC_TB
+word/media/image1.wmf:
+  latex: "SHGC = \\frac{\\sum_{i = 1}^{n} \\left(SHGC_{i} \\times A_{i}\\right)}{A_{1} + A_{2} + ... + A_{n}}"
+  formula_id: F_QCVN_09_2017_BXD_SHGC_TB
+9af03b53:
+  latex: "R_0 = \\frac{1}{h_N} + \\sum_{i=1}^n \\frac{b_i}{\\lambda_i} + R_a + \\frac{1}{h_T}"
+  formula_id: F_QCVN_09_2017_BXD_R0_CALC
+rId6:
+  latex: "R_0 = \\frac{1}{h_N} + \\sum_{i=1}^n \\frac{b_i}{\\lambda_i} + R_a + \\frac{1}{h_T}"
+  formula_id: F_QCVN_09_2017_BXD_R0_CALC
+word/media/image2.wmf:
+  latex: "R_0 = \\frac{1}{h_N} + \\sum_{i=1}^n \\frac{b_i}{\\lambda_i} + R_a + \\frac{1}{h_T}"
+  formula_id: F_QCVN_09_2017_BXD_R0_CALC

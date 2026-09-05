@@ -1,0 +1,268 @@
+{
+  "table_id": "bang_2_6",
+  "table_number": "2.6",
+  "table_title": "Bảng 2.6 - Hiệu suất tối thiểu của động cơ điện ở chế độ đầy tải",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Công suất ra của động cơ, kW",
+    "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600",
+    "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800",
+    "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200",
+    "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600",
+    "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800",
+    "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Công suất ra của động cơ, kW": "0,8",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "77,0",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "85,5",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "82,5",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "77,0",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "85,5",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "82,5"
+    },
+    {
+      "_row_id": 2,
+      "Công suất ra của động cơ, kW": "1,1",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "84,0",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "86,5",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "86,5",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "84,0",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "86,5",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "87,5"
+    },
+    {
+      "_row_id": 3,
+      "Công suất ra của động cơ, kW": "1,5",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "85,5",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "86,5",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "87,5",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "85,5",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "86,5",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "88,5"
+    },
+    {
+      "_row_id": 4,
+      "Công suất ra của động cơ, kW": "2,2",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "85,5",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "89,5",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "88,5",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "96,5",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "89,5",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "89,5"
+    },
+    {
+      "_row_id": 5,
+      "Công suất ra của động cơ, kW": "3,7",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "86,5",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "89,5",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "89,5",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "88,5",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "89,5",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "89,5"
+    },
+    {
+      "_row_id": 6,
+      "Công suất ra của động cơ, kW": "5,6",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "88,5",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "91,0",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "90,2",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "89,5",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "91,7",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "91,0"
+    },
+    {
+      "_row_id": 7,
+      "Công suất ra của động cơ, kW": "7,5",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "89,5",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "91,7",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "91,7",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "90,2",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "91,7",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "91,0"
+    },
+    {
+      "_row_id": 8,
+      "Công suất ra của động cơ, kW": "11,1",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "90,2",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "93,0",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "91,7",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "91,0",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "92,4",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "91,7"
+    },
+    {
+      "_row_id": 9,
+      "Công suất ra của động cơ, kW": "14,9",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "91,0",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "93,0",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "92,4",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "91,0",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "93,0",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "91,7"
+    },
+    {
+      "_row_id": 10,
+      "Công suất ra của động cơ, kW": "18,7",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "91,7",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "93,6",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "93,0",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "91,7",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "93,6",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "93,0"
+    },
+    {
+      "_row_id": 11,
+      "Công suất ra của động cơ, kW": "22,4",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "91,7",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "94,1",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "93,6",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "91,7",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "93,6",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "93,0"
+    },
+    {
+      "_row_id": 12,
+      "Công suất ra của động cơ, kW": "29,8",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "92,4",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "94,1",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "94,1",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "92,4",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "94,1",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "94,1"
+    },
+    {
+      "_row_id": 13,
+      "Công suất ra của động cơ, kW": "37,3",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "93,0",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "94,5",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "94,1",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "93,0",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "94,5",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "94,1"
+    },
+    {
+      "_row_id": 14,
+      "Công suất ra của động cơ, kW": "44,8",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "93,6",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "95,0",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "94,5",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "93,6",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "95,0",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "94,5"
+    },
+    {
+      "_row_id": 15,
+      "Công suất ra của động cơ, kW": "56,0",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "93,6",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "95,0",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "94,5",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "93,6",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "95,4",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "94,5"
+    },
+    {
+      "_row_id": 16,
+      "Công suất ra của động cơ, kW": "74,6",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "93,6",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "95,4",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "95,0",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "94,1",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "95,4",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "95,0"
+    },
+    {
+      "_row_id": 17,
+      "Công suất ra của động cơ, kW": "93,3",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "94,1",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "95,4",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "95,0",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "95,0",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "95,4",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "95,0"
+    },
+    {
+      "_row_id": 18,
+      "Công suất ra của động cơ, kW": "111,9",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "94,1",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "95,8",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "95,4",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "95,0",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "95,8",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "95,8"
+    },
+    {
+      "_row_id": 19,
+      "Công suất ra của động cơ, kW": "149,2",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "95,0",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "95,8",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "95,4",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "95,4",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "96,2",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "95,8"
+    },
+    {
+      "_row_id": 20,
+      "Công suất ra của động cơ, kW": "186,5",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "95,0",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "95,8",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "95,4",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "95,8",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "96,2",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "95,8"
+    },
+    {
+      "_row_id": 21,
+      "Công suất ra của động cơ, kW": "223,8",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "95,4",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "95,8",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "95,4",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "95,8",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "96,2",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "95,8"
+    },
+    {
+      "_row_id": 22,
+      "Công suất ra của động cơ, kW": "261,1",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "95,4",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "95,8",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "95,4",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "95,8",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "96,2",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "95,8"
+    },
+    {
+      "_row_id": 23,
+      "Công suất ra của động cơ, kW": "298,4",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "95,8",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "95,8",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "95,8",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "95,8",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "96,2",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "95,8"
+    },
+    {
+      "_row_id": 24,
+      "Công suất ra của động cơ, kW": "357,7",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "95,8",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "96,2",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "96,2",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "95,8",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "96,2",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "95,8"
+    },
+    {
+      "_row_id": 25,
+      "Công suất ra của động cơ, kW": "373,0",
+      "Động cơ kiểu hở — 2 cực — Tốc độ (vòng / phút) — 3600": "95,8",
+      "Động cơ kiểu hở — 4 cực — Tốc độ (vòng / phút) — 1800": "96,2",
+      "Động cơ kiểu hở — 6 cực — Tốc độ (vòng / phút) — 1200": "96,2",
+      "Động cơ kiểu kín — 2 cực — Tốc độ (vòng / phút) — 3600": "95,8",
+      "Động cơ kiểu kín — 4 cực — Tốc độ (vòng / phút) — 1800": "96,2",
+      "Động cơ kiểu kín — 6 cực — Tốc độ (vòng / phút) — 1200": "95,8"
+    }
+  ],
+  "footnotes": []
+}

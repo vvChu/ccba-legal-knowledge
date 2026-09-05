@@ -1,0 +1,70 @@
+{
+  "table_id": "bang_2_5",
+  "table_number": "2.5",
+  "table_title": "Bảng 2.5 - Mật độ công suất chiếu sáng LPD",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại công trình",
+    "LPD (W/$m^{2}$)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại công trình": "Văn phòng",
+      "LPD (W/$m^{2}$)": "11"
+    },
+    {
+      "_row_id": 2,
+      "Loại công trình": "Khách sạn",
+      "LPD (W/$m^{2}$)": "11"
+    },
+    {
+      "_row_id": 3,
+      "Loại công trình": "Bệnh viện",
+      "LPD (W/$m^{2}$)": "13"
+    },
+    {
+      "_row_id": 4,
+      "Loại công trình": "Trạm y tế, chăm sóc sức khỏe*",
+      "LPD (W/$m^{2}$)": "11"
+    },
+    {
+      "_row_id": 5,
+      "Loại công trình": "Thư viện*",
+      "LPD (W/$m^{2}$)": "14"
+    },
+    {
+      "_row_id": 6,
+      "Loại công trình": "Hội thảo*",
+      "LPD (W/$m^{2}$)": "15"
+    },
+    {
+      "_row_id": 7,
+      "Loại công trình": "Trường học",
+      "LPD (W/$m^{2}$)": "12"
+    },
+    {
+      "_row_id": 8,
+      "Loại công trình": "Thương mại, dịch vụ",
+      "LPD (W/$m^{2}$)": "16"
+    },
+    {
+      "_row_id": 9,
+      "Loại công trình": "Chung cư",
+      "LPD (W/$m^{2}$)": "8"
+    },
+    {
+      "_row_id": 10,
+      "Loại công trình": "Kho*",
+      "LPD (W/$m^{2}$)": "9"
+    },
+    {
+      "_row_id": 11,
+      "Loại công trình": "Khu vực để xe trong nhà",
+      "LPD (W/$m^{2}$)": "3"
+    }
+  ],
+  "footnotes": {
+    "(*)": "**CHÚ THÍCH:**\n\n&nbsp;&nbsp;\\- (*) Các hạng mục nằm trong các loại công trình thuộc phạm vi điều chỉnh của Quy chuẩn;\n\n&nbsp;&nbsp;\\- Mật độ công suất chiếu sáng LPD được tính bằng tổng công suất chiếu sáng theo thiết kế chia cho tổng diện tích sàn sử dụng;\n\n&nbsp;&nbsp;\\- Đối với công trình bao gồm nhiều loại công năng sử dụng (công trình hỗn hợp): LPD được xác định theo công suất chiếu sáng và diện tích sàn sử dụng cho mỗi loại;\n\n&nbsp;&nbsp;\\- Đối với khu vực hoặc bộ phận có yêu cầu chiếu sáng đặc biệt trong các cơ sở giáo dục, y tế: LPD lấy theo các tiêu chuẩn thiết kế được áp dụng;\n\n&nbsp;&nbsp;\\- Đối với chung cư, thay cho việc áp dụng quy định về LPD trong bảng, phải sử dụng các thiết bị chiếu sáng được dán nhãn năng lượng theo quy định hiện hành."
+  }
+}

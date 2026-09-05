@@ -1,0 +1,22 @@
+﻿Loại thiết bị,"Năng suất lạnh, kW","$COP_{Min}$, kW/kW",Quy trình kiểm tra
+Máy điều hòa không khí 1 cụm,-,"2,80<sup>(*)</sup>",TCVN 6576:2013<br>TCVN 7830:2015<br>TCVN 10273-1:2013
+Máy điều hòa không khí 2 cụm,"< 4,5","3,10<sup>(*)</sup>",TCVN 6576:2013<br>TCVN 7830:2015<br>TCVN 10273-1:2013
+Máy điều hòa không khí 2 cụm,"≥ 4,5 và < 7,0","3,00<sup>(*)</sup>",TCVN 6576:2013<br>TCVN 7830:2015<br>TCVN 10273-1:2013
+Máy điều hòa không khí 2 cụm,"≥ 7,0 và < 12,0","2,80<sup>(*)</sup>",TCVN 6576:2013<br>TCVN 7830:2015<br>TCVN 10273-1:2013
+Máy điều hòa không khí giải nhiệt bằng không khí,≥ 14 và < 19,"3,81",TCVN 6307:1997<br>hoặc ARI 210/240
+Máy điều hòa không khí giải nhiệt bằng không khí,≥ 19 và < 40,"3,28",ARI 340/360
+Máy điều hòa không khí giải nhiệt bằng không khí,≥ 40 và < 70,"3,22",ARI 340/360
+Máy điều hòa không khí giải nhiệt bằng không khí,≥ 70 và <223,"2,93",ARI 340/360
+Máy điều hòa không khí giải nhiệt bằng không khí,≥ 223,"2,84",ARI 340/360
+Máy điều hòa không khí giải nhiệt bằng nước,< 19,"3,54",ARI 210/240
+Máy điều hòa không khí giải nhiệt bằng nước,≥ 19 và < 40,"3,54",ARI 340/360
+Máy điều hòa không khí giải nhiệt bằng nước,≥ 40 và < 70,"3,66",ARI 340/360
+Máy điều hòa không khí giải nhiệt bằng nước,≥ 70 và < 223,"3,63",ARI 340/360
+Máy điều hòa không khí giải nhiệt bằng nước,≥ 223,"3,57",ARI 340/360
+Máy điều hòa không khí giải nhiệt bằng hơi nước,< 19,"3,54",ARI 210/240
+Máy điều hòa không khí giải nhiệt bằng hơi nước,≥ 19 và < 40,"3,54",ARI 340/360
+Máy điều hòa không khí giải nhiệt bằng hơi nước,≥ 40 và < 70,"3,51",ARI 340/360
+Máy điều hòa không khí giải nhiệt bằng hơi nước,≥ 70 và < 223,"3,48",ARI 340/360
+Máy điều hòa không khí giải nhiệt bằng hơi nước,≥ 223,"3,43",ARI 340/360
+Các cụm ngưng tụ giải nhiệt bằng không khí,≥ 40,"3,07",ARI 365
+"Các cụm ngưng tụ giải nhiệt bằng nước, hoặc hơi nước",≥ 40,"3,95",ARI 365

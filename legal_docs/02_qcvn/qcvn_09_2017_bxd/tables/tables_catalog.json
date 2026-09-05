@@ -1,0 +1,77 @@
+{
+  "total_tables": 9,
+  "tables": [
+    {
+      "table_id": "bang_2_1",
+      "table_number": "2.1",
+      "title": "Bảng 2.1 - Hệ số SHGC của kính phụ thuộc vào tỷ số WWR",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_2_1.csv",
+      "json_file": "tables/json/bang_2_1.json"
+    },
+    {
+      "table_id": "bang_2_2a",
+      "table_number": "2.2a",
+      "title": "Bảng 2.2a - Hệ số A đối với kết cấu che nắng nằm ngang cố định",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_2_2a.csv",
+      "json_file": "tables/json/bang_2_2a.json"
+    },
+    {
+      "table_id": "bang_2_2b",
+      "table_number": "2.2b",
+      "title": "Bảng 2.2b - Hệ số A đối với kết cấu che nắng thẳng đứng cố định",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_2_2b.csv",
+      "json_file": "tables/json/bang_2_2b.json"
+    },
+    {
+      "table_id": "bang_2_3",
+      "table_number": "2.3",
+      "title": "Bảng 2.3 - Chỉ số hiệu quả COP của máy điều hòa không khí làm lạnh trực tiếp hoạt động bằng điện năng",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_2_3.csv",
+      "json_file": "tables/json/bang_2_3.json"
+    },
+    {
+      "table_id": "bang_2_4",
+      "table_number": "2.4",
+      "title": "Bảng 2.4 - Chỉ số hiệu quả COP của máy sản xuất nước lạnh (Chiller)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_2_4.csv",
+      "json_file": "tables/json/bang_2_4.json"
+    },
+    {
+      "table_id": "bang_2_5",
+      "table_number": "2.5",
+      "title": "Bảng 2.5 - Mật độ công suất chiếu sáng LPD",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_2_5.csv",
+      "json_file": "tables/json/bang_2_5.json"
+    },
+    {
+      "table_id": "bang_2_6",
+      "table_number": "2.6",
+      "title": "Bảng 2.6 - Hiệu suất tối thiểu của động cơ điện ở chế độ đầy tải",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_2_6.csv",
+      "json_file": "tables/json/bang_2_6.json"
+    },
+    {
+      "table_id": "bang_2_7",
+      "table_number": "2.7",
+      "title": "Bảng 2.7 - Hiệu suất tối thiểu của thiết bị đun nước nóng",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_2_7.csv",
+      "json_file": "tables/json/bang_2_7.json"
+    },
+    {
+      "table_id": "bang_2_8",
+      "table_number": "2.8",
+      "title": "Bảng 2.8 - Hiệu suất tối thiểu COP của bơm nhiệt cấp nước nóng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_2_8.csv",
+      "json_file": "tables/json/bang_2_8.json"
+    }
+  ]
+}

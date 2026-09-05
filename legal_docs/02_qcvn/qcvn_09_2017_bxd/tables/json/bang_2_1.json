@@ -1,0 +1,80 @@
+{
+  "table_id": "bang_2_1",
+  "table_number": "2.1",
+  "table_title": "Bảng 2.1 - Hệ số SHGC của kính phụ thuộc vào tỷ số WWR",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "WWR (%)",
+    "SHGC — Hướng Bắc",
+    "SHGC — Hướng Nam",
+    "SHGC — Các hướng còn lại"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "WWR (%)": "20",
+      "SHGC — Hướng Bắc": "0,90",
+      "SHGC — Hướng Nam": "0,90",
+      "SHGC — Các hướng còn lại": "0,80"
+    },
+    {
+      "_row_id": 2,
+      "WWR (%)": "30",
+      "SHGC — Hướng Bắc": "0,64",
+      "SHGC — Hướng Nam": "0,70",
+      "SHGC — Các hướng còn lại": "0,58"
+    },
+    {
+      "_row_id": 3,
+      "WWR (%)": "40",
+      "SHGC — Hướng Bắc": "0,50",
+      "SHGC — Hướng Nam": "0,56",
+      "SHGC — Các hướng còn lại": "0,46"
+    },
+    {
+      "_row_id": 4,
+      "WWR (%)": "50",
+      "SHGC — Hướng Bắc": "0,40",
+      "SHGC — Hướng Nam": "0,45",
+      "SHGC — Các hướng còn lại": "0,38"
+    },
+    {
+      "_row_id": 5,
+      "WWR (%)": "60",
+      "SHGC — Hướng Bắc": "0,33",
+      "SHGC — Hướng Nam": "0,39",
+      "SHGC — Các hướng còn lại": "0,32"
+    },
+    {
+      "_row_id": 6,
+      "WWR (%)": "70",
+      "SHGC — Hướng Bắc": "0,27",
+      "SHGC — Hướng Nam": "0,33",
+      "SHGC — Các hướng còn lại": "0,27"
+    },
+    {
+      "_row_id": 7,
+      "WWR (%)": "80",
+      "SHGC — Hướng Bắc": "0,23",
+      "SHGC — Hướng Nam": "0,28",
+      "SHGC — Các hướng còn lại": "0,23"
+    },
+    {
+      "_row_id": 8,
+      "WWR (%)": "90",
+      "SHGC — Hướng Bắc": "0,20",
+      "SHGC — Hướng Nam": "0,25",
+      "SHGC — Các hướng còn lại": "0,20"
+    },
+    {
+      "_row_id": 9,
+      "WWR (%)": "100",
+      "SHGC — Hướng Bắc": "0,17",
+      "SHGC — Hướng Nam": "0,22",
+      "SHGC — Các hướng còn lại": "0,17"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:**\n\n&nbsp;&nbsp;\\- WWR tính cho từng mặt đứng, sau đó tính trung bình cho toàn bộ công trình;\n\n&nbsp;&nbsp;\\- Khi WWR nằm giữa các trị số nêu trong bảng, cho phép nội suy tuyến tính SHGC;\n\n&nbsp;&nbsp;\\- Giá trị SHGC của từng mặt đứng hoặc của toàn bộ công trình có thể xác định bằng giá trị trung bình theo tỷ trọng diện tích (Area-Weighted Average) của các phần xuyên sáng trên mặt đứng của công trình: $SHGC = \\frac{\\sum_{i = 1}^{n} \\left(SHGC_{i} \\times A_{i}\\right)}{A_{1} + A_{2} + ... + A_{n}}$\n\n&nbsp;&nbsp;\\- trong đó: $SHGC_{i}$, $A_{i}$ là giá trị SHGC và diện tích của phần xuyên sáng thứ i (i=1, n)."
+  }
+}

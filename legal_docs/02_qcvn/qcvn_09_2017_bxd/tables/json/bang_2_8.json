@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_2_8",
+  "table_number": "2.8",
+  "table_title": "Bảng 2.8 - Hiệu suất tối thiểu COP của bơm nhiệt cấp nước nóng",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại thiết bị",
+    "COP, kW/kW"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại thiết bị": "Bơm nhiệt với nguồn nhiệt từ không khí",
+      "COP, kW/kW": "≥ 3,0"
+    },
+    {
+      "_row_id": 2,
+      "Loại thiết bị": "Bơm nhiệt với nguồn nhiệt từ nước",
+      "COP, kW/kW": "≥ 3,5"
+    },
+    {
+      "_row_id": 3,
+      "Loại thiết bị": "Máy điều hòa không khí có thu hồi nhiệt:\nKhi chạy để cung cấp nước nóng\nKhi chạy điều hòa không khí và cung cấp nước nóng",
+      "COP, kW/kW": "≥ 3,0\n≥ 5,5"
+    }
+  ],
+  "footnotes": []
+}
