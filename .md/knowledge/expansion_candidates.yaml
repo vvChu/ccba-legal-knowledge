@@ -1,0 +1,249 @@
+version: 1.1.0
+updated_at: '2026-09-02T17:05:00Z'
+candidates:
+- id: QCVN-10-2024-BXD
+  document_number: QCVN 10:2024/BXD
+  title: Quy chuẩn kỹ thuật quốc gia về Xây dựng công trình đảm bảo tiếp cận sử dụng
+  category: 02_qcvn
+  discipline: Kiến trúc
+  issued_by: Bộ Xây dựng
+  effective_date: '2025-02-01'
+  replaces: QCVN 10:2014/BXD
+  search_query: 06/2024/TT-BXD
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/QCVN-10-2024-BXD-Xay-dung-cong-trinh-dam-bao-tiep-can-su-dung-921135.aspx
+  base_impact_score: 9.6
+  tier_override: 1
+- id: QCVN-09-2017-BXD
+  document_number: QCVN 09:2017/BXD
+  title: Quy chuẩn kỹ thuật quốc gia về Các công trình xây dựng sử dụng năng lượng
+    hiệu quả
+  category: 02_qcvn
+  discipline: KT / MEP
+  issued_by: Bộ Xây dựng
+  effective_date: '2018-06-01'
+  replaces: QCVN 09:2013/BXD
+  search_query: 15/2017/TT-BXD
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/QCVN-09-2017-BXD-cong-trinh-xay-dung-su-dung-nang-luong-hieu-qua-917191.aspx
+  base_impact_score: 9.4
+  tier_override: 1
+- id: QCVN-10-2025-BCA
+  document_number: QCVN 10:2025/BCA
+  title: Quy chuẩn kỹ thuật quốc gia về Trang bị, bố trí phương tiện phòng cháy, chữa
+    cháy, cứu nạn, cứu hộ cho nhà và công trình
+  category: 02_qcvn
+  discipline: PCCC
+  issued_by: Bộ Công an
+  effective_date: '2025-12-30'
+  replaces: TCVN 3890 (phần quy chuẩn bắt buộc)
+  search_query: 103/2025/TT-BCA
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/QCVN-10-2025-BCA-Trang-bi-bo-tri-phuong-tien-phong-chay-cho-nha-va-cong-trinh-922037.aspx
+  base_impact_score: 9.3
+  tier_override: 1
+- id: QCVN-13-2018-BXD
+  document_number: QCVN 13:2018/BXD
+  title: Quy chuẩn kỹ thuật quốc gia về Gara ô tô
+  category: 02_qcvn
+  discipline: PCCC / KT
+  issued_by: Bộ Xây dựng
+  effective_date: '2019-03-15'
+  replaces: QCVN 08:2009/BXD (phần Gara)
+  search_query: 12/2018/TT-BXD
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/QCVN-13-2018-BXD-ve-Gara-o-to-917827.aspx
+  base_impact_score: 9.1
+  tier_override: 1
+- id: QCVN-12-2014-BXD
+  document_number: QCVN 12:2014/BXD
+  title: Quy chuẩn kỹ thuật quốc gia về Hệ thống điện của nhà ở và nhà công cộng
+  category: 02_qcvn
+  discipline: MEP Điện
+  issued_by: Bộ Xây dựng
+  effective_date: '2015-07-01'
+  replaces: ''
+  search_query: 20/2014/TT-BXD
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Dien-dien-tu/QCVN-12-2014-BXD-He-thong-dien-nha-o-nha-cong-cong-912596.aspx
+  base_impact_score: 8.9
+  tier_override: 1
+- id: TCVN-5687-2024
+  document_number: TCVN 5687:2024
+  title: Thông gió và điều hòa không khí — Tiêu chuẩn thiết kế
+  category: 03_tcvn
+  discipline: MEP HVAC
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2024-02-07'
+  replaces: TCVN 5687:2010
+  search_query: TCVN 5687:2024
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/Tieu-chuan-quoc-gia-5687-2024-Thong-gio-dieu-hoa-khong-khi-Yeu-cau-thiet-ke-921033.aspx
+  base_impact_score: 8.8
+  tier_override: 2
+- id: TCVN-5575-2024
+  document_number: TCVN 5575:2024
+  title: Kết cấu thép — Tiêu chuẩn thiết kế
+  category: 03_tcvn
+  discipline: Kết cấu Thép
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2024-12-24'
+  replaces: TCVN 5575:2012
+  search_query: TCVN 5575:2024
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Cong-nghiep/TCVN-5575-2024-Thiet-ke-ket-cau-thep-921459.aspx
+  base_impact_score: 8.6
+  tier_override: 2
+- id: TCVN-9386-2025
+  document_number: TCVN 9386:2025
+  title: Thiết kế công trình chịu động đất (Phần 1 & Phần 5)
+  category: 03_tcvn
+  discipline: Kháng chấn
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2025-12-31'
+  replaces: TCVN 9386:2012
+  search_query: TCVN 9386:2025
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9386-1-2025-Thiet-ke-ket-cau-chiu-dong-dat-Phan-1-Quy-dinh-chung-cho-nha-922314.aspx
+  base_impact_score: 8.5
+  tier_override: 2
+- id: TCVN-9385-2012
+  document_number: TCVN 9385:2012
+  title: Chống sét cho công trình xây dựng — Hướng dẫn thiết kế, kiểm tra và bảo trì
+  category: 03_tcvn
+  discipline: MEP Điện
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2012-12-20'
+  replaces: TCXDVN 46:2007
+  search_query: TCVN 9385:2012
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9385-2012-chong-set-cho-cong-trinh-xay-dung-Huong-dan-thiet-ke-907546.aspx
+  base_impact_score: 8.7
+  tier_override: 2
+- id: TCVN-4513-1988
+  document_number: TCVN 4513:1988
+  title: Cấp nước bên trong — Tiêu chuẩn thiết kế
+  category: 03_tcvn
+  discipline: MEP Cấp nước
+  issued_by: Ủy ban Xây dựng Cơ bản Nhà nước
+  effective_date: '1988-01-01'
+  replaces: TCXD 18-64
+  search_query: TCVN 4513:1988
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Tai-nguyen-Moi-truong/TCVN-4513-1988-cap-nuoc-ben-trong-tieu-chuan-thiet-ke-901934.aspx
+  base_impact_score: 8.3
+  tier_override: 2
+- id: TCVN-4474-1987
+  document_number: TCVN 4474:1987
+  title: Thoát nước bên trong — Tiêu chuẩn thiết kế
+  category: 03_tcvn
+  discipline: MEP Thoát nước
+  issued_by: Ủy ban Xây dựng Cơ bản Nhà nước
+  effective_date: '1987-01-01'
+  replaces: TCXD 19-64
+  search_query: TCVN 4474:1987
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-4474-1987-Thoat-nuoc-ben-trong-Tieu-chuan-thiet-ke-901988.aspx
+  base_impact_score: 8.1
+  tier_override: 2
+- id: QCVN-07-2023-BXD
+  document_number: QCVN 07:2023/BXD
+  title: Quy chuẩn kỹ thuật quốc gia về Hệ thống công trình hạ tầng kỹ thuật (Gồm
+    10 phần từ 07-1 đến 07-10)
+  category: 02_qcvn
+  discipline: Hạ tầng đô thị
+  issued_by: Bộ Xây dựng
+  effective_date: '2024-07-01'
+  replaces: QCVN 07:2016/BXD
+  search_query: 15/2023/TT-BXD
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-15-2023-TT-BXD-Quy-chuan-quoc-gia-QCVN-07-2023-BXD-He-thong-cong-trinh-ha-tang-ky-thuat-595312.aspx
+  base_impact_score: 8.0
+  tier_override: 3
+- id: TCVN-10304-2014
+  document_number: TCVN 10304:2014
+  title: Móng cọc — Tiêu chuẩn thiết kế
+  category: 03_tcvn
+  discipline: Địa kỹ thuật
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2014-12-31'
+  replaces: ''
+  search_query: TCVN 10304:2014
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-10304-2014-Mong-coc-Tieu-chuan-thiet-ke-912335.aspx
+  base_impact_score: 7.9
+  tier_override: 3
+- id: TCVN-9362-2012
+  document_number: TCVN 9362:2012
+  title: Tiêu chuẩn thiết kế nền nhà và công trình
+  category: 03_tcvn
+  discipline: Địa kỹ thuật
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2012-12-20'
+  replaces: TCXDVN 45:1978
+  search_query: TCVN 9362:2012
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9362-2012-Tieu-chuan-thiet-ke-nen-nha-va-cong-trinh-906970.aspx
+  base_impact_score: 7.8
+  tier_override: 3
+- id: QCVN-03-2023-BCA
+  document_number: QCVN 03:2023/BCA
+  title: Quy chuẩn kỹ thuật quốc gia về Phương tiện phòng cháy và chữa cháy
+  category: 02_qcvn
+  discipline: PCCC
+  issued_by: Bộ Công an
+  effective_date: '2024-04-01'
+  replaces: QCVN 03:2021/BCA
+  search_query: 56/2023/TT-BCA
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Linh-vuc-khac/QCVN-03-2023-BCA-phuong-tien-phong-chay-chua-chay-920561.aspx
+  base_impact_score: 7.7
+  tier_override: 3
+- id: TCVN-4601-2012
+  document_number: TCVN 4601:2012
+  title: Công sở cơ quan hành chính nhà nước — Yêu cầu thiết kế
+  category: 03_tcvn
+  discipline: Kiến trúc
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2012-12-20'
+  replaces: TCXDVN 276:2003
+  search_query: TCVN 4601:2012
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-4601-2012-Cong-so-co-quan-hanh-chinh-nha-nuoc-Yeu-cau-thiet-ke-907722.aspx
+  base_impact_score: 7.4
+  tier_override: 4
+- id: TCVN-4470-2012
+  document_number: TCVN 4470:2012
+  title: Bệnh viện đa khoa — Yêu cầu thiết kế
+  category: 03_tcvn
+  discipline: Kiến trúc / MEP
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2012-12-20'
+  replaces: TCXDVN 365:2007
+  search_query: TCVN 4470:2012
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-4470-2012-Benh-vien-da-khoa-Tieu-chuan-thiet-ke-908251.aspx
+  base_impact_score: 7.3
+  tier_override: 4
+- id: TCVN-3981-1985
+  document_number: TCVN 3981:1985
+  title: Trường đại học — Tiêu chuẩn thiết kế
+  category: 03_tcvn
+  discipline: Kiến trúc
+  issued_by: Ủy ban Xây dựng Cơ bản Nhà nước
+  effective_date: '1985-01-01'
+  replaces: ''
+  search_query: TCVN 3981:1985
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-3981-1985-truong-dai-hoc-tieu-chuan-thiet-ke-901893.aspx
+  base_impact_score: 7.1
+  tier_override: 4
+- id: TCVN-ISO-19650-1-2021
+  document_number: TCVN ISO 19650-1:2021
+  title: 'Tổ chức và số hóa thông tin về công trình xây dựng, bao gồm mô hình thông
+    tin công trình (BIM) — Quản lý thông tin bằng BIM: Phần 1: Khái niệm và nguyên
+    tắc'
+  category: 03_tcvn
+  discipline: Quản trị BIM
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2021-12-31'
+  replaces: ''
+  search_query: TCVN ISO 19650-1:2021
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-14177-1-2024-To-chuc-va-so-hoa-thong-tin-ve-cong-trinh-xay-dung-Phan-1-921449.aspx
+  base_impact_score: 7.0
+  tier_override: 4
+- id: TCVN-ISO-19650-2-2021
+  document_number: TCVN ISO 19650-2:2021
+  title: 'Tổ chức và số hóa thông tin về công trình xây dựng, bao gồm BIM — Quản lý
+    thông tin bằng BIM: Phần 2: Giai đoạn chuyển giao tài sản'
+  category: 03_tcvn
+  discipline: Quản trị BIM
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2021-12-31'
+  replaces: ''
+  search_query: TCVN ISO 19650-2:2021
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-14177-2-2024-To-chuc-va-so-hoa-thong-tin-ve-cong-trinh-xay-dung-Phan-2-921451.aspx
+  base_impact_score: 7.0
+  tier_override: 4

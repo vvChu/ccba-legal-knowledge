@@ -236,9 +236,9 @@
   "qcvn_03_2022_bxd": {
     "slug": "qcvn_03_2022_bxd",
     "category": "02_qcvn",
-    "md_sha256": "6c42732dcba5f8bd0e602b411ffbb10046c5ac0f263022f44558d219d1c2b734",
-    "md_lines": 141,
-    "clauses_count": 23,
+    "md_sha256": "1205eccafceaa4ed2cb1df9fba491b3105d9e968136934ab8c893b46119e4051",
+    "md_lines": 145,
+    "clauses_count": 22,
     "tables_count": 2,
     "figures_count": 0
   },
@@ -263,11 +263,11 @@
   "tcvn_2737_2023": {
     "slug": "tcvn_2737_2023",
     "category": "03_tcvn",
-    "md_sha256": "6b9d1f8a2d3a8c7e215fe7fd56bb3a22c59f10a9623d86dde4bf477594f9f8f1",
-    "md_lines": 1545,
+    "md_sha256": "6143533e54e4818afb98a9ec73cfdc9e189bbf296d6703a85ed75011db3183f5",
+    "md_lines": 1584,
     "clauses_count": 343,
     "tables_count": 37,
-    "figures_count": 43
+    "figures_count": 44
   },
   "tcvn_3890_2023": {
     "slug": "tcvn_3890_2023",

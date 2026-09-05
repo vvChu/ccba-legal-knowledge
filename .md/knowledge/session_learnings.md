@@ -629,3 +629,29 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Tự động đồng bộ $100\%$ thẻ trực quan `figures/cards/hinh_{slug}.md` tương ứng với từng hình trong `figures_catalog.yaml`.
   4. **Thiết Lập Master CI Gate 12 (`validate_legal_spoke.py`):**
      - Cưỡng chế 3 tiêu chí không dung thứ: (1) Zero Stray Vector Binaries (cấm tồn tại file `.wmf`/`.emf`), (2) Catalog-to-Card 1:1 Parity, và (3) Chart/Curve Ground Truth Attribution (phải liên kết bảng 2D hoặc mang nhãn `ESTIMATED_BY_VISION`).
+
+---
+
+## 41. Universal Deterministic Table Knowledge Extraction Architecture & 2D Grid Regularity (ADR 0041)
+
+- **Vấn đề Phát Hiện:**
+  1. **Lệch Cột & Lưới Rách (Column Skew & Ragged Arrays) trong CSV/JSON:** Khi văn bản có ô gộp ngang (`gridSpan`) hoặc ô gộp dọc (`vMerge`), trích xuất truyền thống chỉ đọc master cell, để trống các ô con hoặc nuốt cột, khiến các hàng trong CSV có số lượng cột không đồng nhất (50/260 file CSV bị rách lưới), làm gãy câu lệnh SQL và phân tích dữ liệu Pandas/DuckDB.
+  2. **Tiêu Đề Bảng Đa Tầng (Hierarchical Headers):** Các bảng kỹ thuật thường có tiêu đề 2-4 cấp (ví dụ: Bảng 2.6 QCVN 09:2017/BXD có 4 tầng tiêu đề từ Loại động cơ $\rightarrow$ Số cực $\rightarrow$ Tốc độ $\rightarrow$ Vòng/phút). Bộ parser cũ chỉ phẳng hóa 2 tầng, để sót các tầng dưới rơi vào hàng dữ liệu số.
+  3. **Ô Nhiễm Ma Trận Dữ Liệu Bởi Chú Thích (Footnote Pollution in CSV):** Cơ chế cũ nhồi khối chú thích vào cuối file CSV (thêm dòng trống và `--- GHI CHÚ / CHÚ THÍCH ---`), phá vỡ ma trận thuần nhất $M \times N$ và gây lỗi kiểu dữ liệu (type crash) khi nạp vào cơ sở dữ liệu quan hệ.
+  4. **Vỡ Cú Pháp Bảng Markdown GFM Do Ký Tự Pipe (`|`):** Khi ô bảng chứa công thức toán KaTeX có dấu giá trị tuyệt đối `$|x| \le 1$` hoặc biểu thức phân cách `|`, ký tự pipe chưa được thoát làm vỡ cấu trúc cột bảng Markdown.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Phân Loại 6 Hình Mẫu Bảng Kỹ Thuật (6 Table Archetypes):**
+     - Đóng gói logic nhận diện: `FLAT_MATRIX`, `HIERARCHICAL_GRID`, `IN_CELL_MULTIMODAL`, `FOOTNOTE_RICH`, `BORDERLESS_LAYOUT`, và `ADMIN_FORM`.
+  2. **Hierarchical Forward-Fill Có Kiểm Soát:**
+     - Trong CSV/JSON: Tự động điền giá trị cha từ master cell xuống các ô gộp dọc (`vMerge == 'continue'`), bảo đảm $100\%$ các hàng quan sát đều mang đầy đủ ngữ nghĩa thuộc tính.
+     - Trong Markdown: Giữ ô trống trực quan để không gây trùng lặp văn bản khi đọc bằng mắt.
+     - Trong JSON: Đánh dấu cờ `is_merged_continuation: true` để phân biệt dữ liệu gốc và dữ liệu điền khuyết.
+  3. **Phẳng Hóa Tiêu Đề Đa Tầng Bằng Em-Dash Ngữ Nghĩa:**
+     - Tự động quét và ghép nối $H$ dòng tiêu đề thành Composite Header chuẩn: `Tầng 1 — Tầng 2 — Tầng 3` với cơ chế khử trùng lặp liên tiếp, bảo đảm $100\%$ các file CSV đạt chuẩn Zero Ragged Rows.
+  4. **Bóc Tách Chú Thích Độc Lập (Decoupled Footnotes):**
+     - Loại bỏ $100\%$ các hàng chú thích chân bảng ra khỏi CSV.
+     - Trích xuất chú thích thành dictionary có cấu trúc trong JSON (liên kết khóa `(*)` hoặc `(1)` trực tiếp với ký hiệu tham chiếu trong ô dữ liệu).
+     - Định dạng khối `**CHÚ THÍCH:**` chuẩn hóa với lề `&nbsp;&nbsp;\- ` ngay dưới bảng Markdown.
+  5. **Bảo Vệ Ký Tự Pipe Toàn Diện (`escape_table_pipes`):**
+     - Chuyển đổi an toàn `|` bên trong KaTeX inline sang `\vert ` và `\|` ngoài văn bản thường, bảo vệ tuyệt đối tính toàn vẹn cú pháp GFM.
