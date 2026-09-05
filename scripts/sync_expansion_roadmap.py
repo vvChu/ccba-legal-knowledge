@@ -255,6 +255,20 @@ Living Document này được bảo vệ và cập nhật tự động qua các 
 """
 
     ROADMAP_OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    if ROADMAP_OUTPUT_FILE.exists():
+        existing_text = ROADMAP_OUTPUT_FILE.read_text(encoding="utf-8")
+        existing_substantive = re.sub(r">\s*\*\*Lần cập nhật cuối:\*\*.*", "", existing_text).strip()
+        new_substantive = re.sub(r">\s*\*\*Lần cập nhật cuối:\*\*.*", "", md_content).strip()
+        if existing_substantive == new_substantive:
+            print(f"ℹ️ Living Expansion Roadmap is up to date (no substantive changes).")
+            return {
+                "status": "up_to_date",
+                "current_total": current_registry_total,
+                "pending_count": pending_count,
+                "total_projected": total_projected,
+                "output_file": str(ROADMAP_OUTPUT_FILE),
+            }
+
     ROADMAP_OUTPUT_FILE.write_text(md_content, encoding="utf-8")
     print(f"✅ Successfully compiled Living Expansion Roadmap at: {ROADMAP_OUTPUT_FILE}")
     print(f"   - Current Spoke Total : {current_registry_total}")
