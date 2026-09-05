@@ -56,3 +56,13 @@ Tài liệu ghi nhận nhật ký đột biến, chuẩn hóa dữ liệu và ba
   - **Nâng cấp Multi-Attachment Crawler:** Tự động phát hiện và thu thập toàn bộ các tệp phụ lục đính kèm rời (`.doc`, `.docx`, `.xlsx`, `.pdf`) tại `tab=7` về `sources/attachments/` kèm unit test `100% PASS`.
   - **Tốt nghiệp R&D:** Chuyển hóa toàn bộ thuật toán vào Hub Deep Seam `ccba_legal.provenance` và `ccba_legal.crawler.tier_downloader`, dọn sạch 100% scratch scripts.
 
+## [2026-09-05] [feat] | QCVN 10:2024/BXD 100% Verbatim Ingestion, Horizontal Layout Table Figure Stitching & Unit Normalization
+- **Phạm vi:** `legal_docs/02_qcvn/qcvn_10_2024_bxd/`, `packages/ccba-legal-intel/`, `scripts/validate_legal_spoke.py`, `.md/knowledge/`.
+- **Nội dung:**
+  - **Nạp QCVN 10:2024/BXD:** Đóng gói chuẩn OKF v2.4 Universal với 100% Verbatim Parity (276 đoạn văn bản đối soát khớp 1:1, 0 đoạn thiếu), 2 bảng tra số liệu 2D (`tables/`), 2 Phụ lục quy phạm (`annexes/`), 25 thẻ thị giác (`figures/cards/`), AST `clauses.json` và bộ câu hỏi `qa_benchmark.json`.
+  - **Động cơ Ghép ảnh Ngang Bảng Layout (Horizontal Dynamic Canvas Stitching):** Khắc phục lỗi The "Inline Paragraph" Fallacy và Decoupled Pipeline Silos trong `figure_extractor.py`, tự động quét bảng không viền $\le 3$ hàng, bóc tách và ghép nối 2 sơ đồ con song song kèm nhãn $a), b)$ căn giữa (Hình 1 bãi xe, Hình 14 tay vịn vệ sinh, Hình 18 khoảng cách trồng cây).
+  - **Chuẩn hóa Nhãn Đơn vị Đo lường (Unit Normalization):** Sửa lỗi FSM nuốt chửng text trong `heading_handler.py`, xuất trực tiếp `<p align="right"><em>Đơn vị tính: mm</em></p>` vào Markdown stream.
+  - **Đúc kết Bài học Kinh nghiệm Mục 42 & Khảo sát 5 Bẫy ngầm:** Ghi nhận vào `session_learnings.md` và phân tích sâu các rủi ro Floating Text Box, Ghost Media, Slug Collision, EMU Scaling và Symbol PUA Font.
+  - **Nghiệm thu Master CI 15 Gates:** Đạt $100\%$ tỷ lệ đạt chuẩn trên toàn bộ 39 văn bản của Spoke. Đẩy thành công 92 commits lên GitHub Remote `origin/main`.
+
+
