@@ -24,6 +24,7 @@
 11. **Bóc Tách Sơ Đồ Đồ Họa Độ Nét Cao & Bảo Tồn Tuyệt Đối Chú Thích Kẹp Giữa (ADR 0039):** Quét và trích xuất text/công thức từ bảng bố cục không viền; Bảo tồn $100\%$ các đoạn `CHÚ THÍCH` và `CHÚ DẪN` kẹp giữa ảnh và tiêu đề hình; Xếp dọc đa tầng (Vertical Stack) với lề an toàn $\ge 40\text{ px}$ cho hình có nhiều sơ đồ con; Quy chuẩn toàn bộ chỉ số dưới trong tiêu đề sang KaTeX; Bắt buộc vượt qua Sub-Gate 11.2 Zero-Dropped Regulatory Notes.
 12. **Bóc Tách Tri Thức Đa Phương Thức Xác Định & Khử Tệp Đóng Kín (Universal Deterministic Multimodal Extraction & Zero-Closed-Binary Invariant - ADR 0040):** Bóc tách xác định 100% công thức MathType nhị phân (MTEF v3/v5) từ OLE stream mà không qua OCR hay tốn AI token; Áp dụng cơ chế 4-Tier Hybrid Formula Fallback Engine; Đồ họa vector WMF/EMF bắt buộc chuyển đổi sang Dual-Format (SVG và PNG $\ge 300\text{ DPI}$), nghiêm cấm lưu trữ file `.wmf`/`.emf` đóng kín; Tự động đồng bộ thẻ thị giác `figures/cards/hinh_{slug}.md` $1:1$ với `figures_catalog.yaml`; Bắt buộc vượt qua Gate 12 Multimodal Decoupled Asset & SVG/Cards Integrity Gate.
 13. **Bóc Tách Tri Thức Bảng Biểu Xác Định Toàn Cầu (Universal Deterministic Table Knowledge Extraction & 2D Grid Regularity Invariant - ADR 0041):** Thiết lập Lưới Tọa Độ Ảo 2D (`tblGrid`); Áp dụng Hierarchical Forward-Fill có kiểm soát cho ô gộp dọc (`vMerge`) trong CSV/JSON; Phẳng hóa tiêu đề đa tầng bằng Em-dash ngữ nghĩa (`Tầng 1 — Tầng 2 — Tầng 3`); Bóc tách 100% chú thích chân bảng (`footnotes`) ra khỏi ma trận dữ liệu quan hệ; Thoát an toàn ký tự `|` trong cell và KaTeX (`\vert `); Định tuyến biểu mẫu hành chính sang `templates/`; Bắt buộc ma trận CSV đạt chuẩn $100\%$ Zero Ragged Rows.
+14. **Chuẩn Hóa Cấu Trúc OpenXML DOM & Động Cơ Lai Ghép DOCX-PDF Hai Tầng (Universal Canonical OpenXML Sanitization & Hybrid Dual-Engine Invariant - ADR 0042):** Tiền xử lý 100% in-memory qua `DocxCanonicalSanitizer` (gọt `w:rsid*`, loại bỏ `w:proofErr`, gộp run liền kề đồng nhất, chuẩn hóa Unicode NFC, tiêm `xml:space="preserve"`, giải nén borderless layout tables, thăng cấp heading); bảo tồn tuyệt đối whitelist `<w:object>`, `<m:oMath>`, `<w:drawing>`; kết hợp DOCX làm khung xương AST phân cấp và PDF làm mỏ neo không gian kiểm chuẩn.
 
 ---
 
@@ -39,8 +40,8 @@ python -m ccba_legal ingest "<tvpl_url>" --category <01_vbpl|02_qcvn|03_tcvn> --
 * **Kịch bản 2 — Tiếp nhận thủ công / Fallback khi cào bị lỗi:** Nếu lệnh `ingest` bị kẹt do Cloudflare/Captcha, Agent giải quyết cục bộ để đưa đúng 2 tệp `.docx` và `.pdf` vào `sources/`. Ngay sau đó **bắt buộc** thực thi Bước 1 bằng lệnh `convert` — **nghiêm cấm tự viết Markdown bằng LLM**.
 * **Kịch bản 3 — Làm mới / Thay thế file kém chất lượng:** Khi cần thay thế file scan mờ bằng bản nét, chạy `python -m ccba_legal fetch "<tvpl_url>"` để tải đè file chuẩn vào `sources/` rồi chạy lại Bước 1 `convert`.
 
-### 1. Nạp & Chuyển đổi sang OKF v2.4 Bundle (ADR 0021, ADR 0034, ADR 0036, ADR 0037):
-* Thực thi lệnh chuyển đổi trích xuất nguyên văn $100\%$ bằng Deterministic Python-docx AST parser (Zero-LLM Paraphrase):
+### 1. Nạp & Chuyển đổi sang OKF v2.4 Bundle (ADR 0021, ADR 0034, ADR 0036, ADR 0037, ADR 0042):
+* Thực thi lệnh chuyển đổi trích xuất nguyên văn $100\%$ qua Động cơ Lai ghép DOCX-PDF Hai tầng kết hợp Tiền xử lý DOM In-Memory `DocxCanonicalSanitizer` (Zero-LLM Paraphrase):
 ```powershell
 python -m ccba_legal convert --docx-path "legal_docs/<category>/<doc_slug>/sources/<doc_slug>.docx" --target-bundle-dir "legal_docs/<category>/<doc_slug>"
 ```

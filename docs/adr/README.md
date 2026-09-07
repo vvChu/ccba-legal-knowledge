@@ -6,7 +6,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 
 ---
 
-## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0041)
+## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0042)
 
 ### Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.4 Universal & Biểu Mẫu
 | Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
@@ -29,6 +29,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | [ADR 0039](0039-universal-high-fidelity-diagram-extraction-and-annotation-governance.md) | Bóc Tách Sơ Đồ Đồ Họa Độ Nét Cao & Bảo Tồn Tuyệt Đối Chú Thích Kẹp Giữa (Universal High-Fidelity Diagram Extraction & Annotation Governance) | ✅ ACCEPTED | 2026-09-01 |
 | [ADR 0040](0040-universal-deterministic-multimodal-extraction-pipeline.md) | Quy Trình Bóc Tách Đa Phương Thức Xác Định Toàn Cầu (Universal Deterministic Multimodal Extraction Pipeline) | ✅ ACCEPTED | 2026-09-03 |
 | [ADR 0041](0041-universal-deterministic-table-knowledge-extraction-architecture.md) | Kiến Trúc Bóc Tách Tri Thức Bảng Biểu Xác Định Toàn Cầu (Universal Deterministic Table Knowledge Extraction Architecture) | ✅ ACCEPTED | 2026-09-03 |
+| [ADR 0042](0042-canonical-openxml-sanitization-and-hybrid-dual-engine.md) | Chuẩn Hóa Cấu Trúc OpenXML DOM & Động Cơ Lai Ghép DOCX-PDF Hai Tầng (Canonical OpenXML Sanitization & Hybrid Dual-Engine Architecture) | ✅ ACCEPTED | 2026-09-07 |
 
 ---
 
