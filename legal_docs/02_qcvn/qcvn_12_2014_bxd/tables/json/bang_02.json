@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Tiết diện nhỏ nhất cho phép của dây PE",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tiết diện của dây dẫn pha, S$mm^{2}$",
+    "Tiết diện nhỏ nhất cho phép của dây PE tương ứng$mm^{2}$ — Dây PE bằng đồng",
+    "Tiết diện nhỏ nhất cho phép của dây PE tương ứng$mm^{2}$ — Dây PE bằng thép"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tiết diện của dây dẫn pha, S$mm^{2}$": "S ≤ 16",
+      "Tiết diện nhỏ nhất cho phép của dây PE tương ứng$mm^{2}$ — Dây PE bằng đồng": "S",
+      "Tiết diện nhỏ nhất cho phép của dây PE tương ứng$mm^{2}$ — Dây PE bằng thép": "3×S"
+    },
+    {
+      "_row_id": 2,
+      "Tiết diện của dây dẫn pha, S$mm^{2}$": "16 < S ≤ 35",
+      "Tiết diện nhỏ nhất cho phép của dây PE tương ứng$mm^{2}$ — Dây PE bằng đồng": "16",
+      "Tiết diện nhỏ nhất cho phép của dây PE tương ứng$mm^{2}$ — Dây PE bằng thép": "3×16"
+    },
+    {
+      "_row_id": 3,
+      "Tiết diện của dây dẫn pha, S$mm^{2}$": "S > 35",
+      "Tiết diện nhỏ nhất cho phép của dây PE tương ứng$mm^{2}$ — Dây PE bằng đồng": "$\\frac{S}{2}$",
+      "Tiết diện nhỏ nhất cho phép của dây PE tương ứng$mm^{2}$ — Dây PE bằng thép": "3 × $\\frac{S}{2}$"
+    }
+  ],
+  "footnotes": []
+}

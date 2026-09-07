@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_05",
+  "table_number": "5",
+  "table_title": "Bảng 5 - Mã IP thấp nhất cho phép của thiết bị điện",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Vùng",
+    "Ngoài trời có phun nước khi làm vệ sinh",
+    "Ngoài trời không phun nước",
+    "Trong nhà, có phun nước khi làm vệ sinh",
+    "Trong nhà, không phun nước"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Vùng": "0",
+      "Ngoài trời có phun nước khi làm vệ sinh": "IPX5 và IPX8",
+      "Ngoài trời không phun nước": "IPX8",
+      "Trong nhà, có phun nước khi làm vệ sinh": "IPX5 và IPX8",
+      "Trong nhà, không phun nước": "IPX8"
+    },
+    {
+      "_row_id": 2,
+      "Vùng": "1",
+      "Ngoài trời có phun nước khi làm vệ sinh": "IPX5",
+      "Ngoài trời không phun nước": "IPX4",
+      "Trong nhà, có phun nước khi làm vệ sinh": "IPX5",
+      "Trong nhà, không phun nước": "IPX4"
+    },
+    {
+      "_row_id": 3,
+      "Vùng": "2",
+      "Ngoài trời có phun nước khi làm vệ sinh": "IPX5",
+      "Ngoài trời không phun nước": "IPX4",
+      "Trong nhà, có phun nước khi làm vệ sinh": "IPX5",
+      "Trong nhà, không phun nước": "IPX2"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,42 @@
+{
+  "table_id": "bang_c_1",
+  "table_number": "C.1",
+  "table_title": "Bảng C.1 - Độ rọi nhỏ nhất cho phép theo đặc điểm công việc",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Kích thước vật cần phân biệtmm",
+    "Cấp công việc",
+    "Phân cấp",
+    "Tính chất thời gian của công việc",
+    "Độ rọi nhỏ nhất cho phép khi chiếu sáng bằng đèn huỳnh quang, đèn compắcLx"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Kích thước vật cần phân biệtmm": "Từ 0,15 đến 0,30",
+      "Cấp công việc": "I",
+      "Phân cấp": "a\nb\nc",
+      "Tính chất thời gian của công việc": "Thường xuyên\nChu kì từng đợt\nKhông lâu",
+      "Độ rọi nhỏ nhất cho phép khi chiếu sáng bằng đèn huỳnh quang, đèn compắcLx": "400\n300\n150"
+    },
+    {
+      "_row_id": 2,
+      "Kích thước vật cần phân biệtmm": "Từ 0,30 đến 0,50",
+      "Cấp công việc": "II",
+      "Phân cấp": "a\nb\nc",
+      "Tính chất thời gian của công việc": "Thường xuyên\nChu kì từng đợt\nKhông lâu",
+      "Độ rọi nhỏ nhất cho phép khi chiếu sáng bằng đèn huỳnh quang, đèn compắcLx": "300\n200\n100"
+    },
+    {
+      "_row_id": 3,
+      "Kích thước vật cần phân biệtmm": "Trên 0,5",
+      "Cấp công việc": "III",
+      "Phân cấp": "a\nb\nc",
+      "Tính chất thời gian của công việc": "Thường xuyên\nChu kì từng đợt\nKhông lâu",
+      "Độ rọi nhỏ nhất cho phép khi chiếu sáng bằng đèn huỳnh quang, đèn compắcLx": "150\n100\n75"
+    }
+  ],
+  "footnotes": [
+    "Khi có yêu cầu về vệ sinh hoặc chuyên ngành (như phòng ăn, bếp, gian bán hàng của cửa hàng, phòng mổ, gian khán giả, phòng máy, v.v...), được phép tăng trị số độ rọi lên một bậc theo thang độ rọi quy định."
+  ]
+}

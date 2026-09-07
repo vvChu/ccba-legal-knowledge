@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Thời gian cắt lớn nhất áp dụng cho các mạch cuối có dòng điện danh định không quá 32 A",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Điện áp danh định, U (V) — Sơ đồ nối đất",
+    "50< U ≤ 120",
+    "120< U ≤ 230",
+    "230< U ≤ 400",
+    "U >400"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Điện áp danh định, U (V) — Sơ đồ nối đất": "TT",
+      "50< U ≤ 120": "0,3",
+      "120< U ≤ 230": "0,2",
+      "230< U ≤ 400": "0,07",
+      "U >400": "0,04"
+    },
+    {
+      "_row_id": 2,
+      "Điện áp danh định, U (V) — Sơ đồ nối đất": "TN-S",
+      "50< U ≤ 120": "0,8",
+      "120< U ≤ 230": "0,4",
+      "230< U ≤ 400": "0,2",
+      "U >400": "0,1"
+    }
+  ],
+  "footnotes": []
+}

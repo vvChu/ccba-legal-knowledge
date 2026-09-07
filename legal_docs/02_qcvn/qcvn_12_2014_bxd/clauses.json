@@ -1,0 +1,4242 @@
+[
+  {
+    "clause_id": "muc-1-1",
+    "anchor": "muc-1-1",
+    "title": "1.1  Phạm vi điều chỉnh",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 55,
+    "line_end": 55,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-2",
+    "anchor": "muc-1-2",
+    "title": "1.2  Đối tượng áp dụng",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 63,
+    "line_end": 63,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-3",
+    "anchor": "muc-1-3",
+    "title": "1.3  Tài liệu viện dẫn",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 69,
+    "line_end": 69,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-4",
+    "anchor": "muc-1-4",
+    "title": "1.4  Giải thích từ ngữ",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 81,
+    "line_end": 81,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-5",
+    "anchor": "muc-1-5",
+    "title": "1.5  Các chữ viết tắt",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 297,
+    "line_end": 297,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-5-1",
+    "anchor": "muc-1-5-1",
+    "title": "1.5.1  ELV (Extra-Low Voltage) - điện áp siêu thấp.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 301,
+    "line_end": 301,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-5-2",
+    "anchor": "muc-1-5-2",
+    "title": "1.5.2  IP (Index Protection) - chỉ số bảo vệ.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 305,
+    "line_end": 305,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-5-3",
+    "anchor": "muc-1-5-3",
+    "title": "1.5.3  IT - một loại sơ đồ nối đất (xem Phụ lục Đ).",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 309,
+    "line_end": 309,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-5-4",
+    "anchor": "muc-1-5-4",
+    "title": "1.5.4  LPS (Lightning Protection System) - hệ thống chống sét.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 313,
+    "line_end": 313,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-5-5",
+    "anchor": "muc-1-5-5",
+    "title": "1.5.5  N (Neutral) - dây trung tính.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 317,
+    "line_end": 317,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-5-6",
+    "anchor": "muc-1-5-6",
+    "title": "1.5.6  PE (Protective Earthing) - dây dẫn bảo vệ.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 321,
+    "line_end": 321,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-5-7",
+    "anchor": "muc-1-5-7",
+    "title": "1.5.7  PELV (Protective Extra-Low Voltage) - điện áp siêu thấp được bảo vệ.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 325,
+    "line_end": 325,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-5-8",
+    "anchor": "muc-1-5-8",
+    "title": "1.5.8  RCD (Residual Current Device) - thiết bị bảo vệ dòng điện dư.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 329,
+    "line_end": 329,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-5-9",
+    "anchor": "muc-1-5-9",
+    "title": "1.5.9  SELV (Separated Extra-Low Voltage) - điện áp siêu thấp tách biệt.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 333,
+    "line_end": 333,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-5-10",
+    "anchor": "muc-1-5-10",
+    "title": "1.5.10  SPD (Surge Protection Device) - thiết bị bảo vệ chống quá điện áp đột biến.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 337,
+    "line_end": 337,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-5-11",
+    "anchor": "muc-1-5-11",
+    "title": "1.5.11  TN-S - một loại sơ đồ nối đất (xem Phụ lục Đ).",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 341,
+    "line_end": 341,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-1-5-12",
+    "anchor": "muc-1-5-12",
+    "title": "1.5.12  TT - một loại sơ đồ nối đất (xem Phụ lục Đ).",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 345,
+    "line_end": 345,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1",
+    "anchor": "muc-2-1",
+    "title": "2.1  Hệ thống đường dẫn điện và thiết bị điện",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 351,
+    "line_end": 351,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-1",
+    "anchor": "muc-2-1-1",
+    "title": "2.1.1  Yêu cầu chung",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 355,
+    "line_end": 355,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-2",
+    "anchor": "muc-2-1-2",
+    "title": "2.1.2  Yêu cầu về phương pháp lắp đặt hệ thống đường dẫn điện",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 361,
+    "line_end": 361,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-2-1",
+    "anchor": "muc-2-1-2-1",
+    "title": "2.1.2.1  Phải áp dụng phương pháp lắp đặt hệ thống đường dẫn điện phù hợp để đáp ứng yêu cầu về khả năng tải dòng điện của các dây dẫn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 365,
+    "line_end": 365,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-2-2",
+    "anchor": "muc-2-1-2-2",
+    "title": "2.1.2.2  Không được sử dụng cáp một ruột có áo giáp bảo vệ bằng sợi thép hoặc băng thép cho mạch điện xoay chiều ba pha. Tất cả các dây dẫn tải điện và dây PE của cùng một mạch điện ba pha xoay chiều đặt trong ống, hộp bằng vật liệu sắt từ phải được đưa vào cùng một ống, hộp.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 369,
+    "line_end": 369,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-2-3",
+    "anchor": "muc-2-1-2-3",
+    "title": "2.1.2.3  Trường hợp nhiều mạch điện đi trong một đường ống hoặc hộp, tất cả các dây dẫn phải có cách điện tương ứng với điện áp danh định cao nhất.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 373,
+    "line_end": 373,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-2-4",
+    "anchor": "muc-2-1-2-4",
+    "title": "2.1.2.4  Trường hợp nhiều mạch điện đi trong một sợi cáp, tất cả các dây dẫn của sợi cáp phải có cách điện tương ứng với điện áp danh định cao nhất.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 377,
+    "line_end": 377,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-2-5",
+    "anchor": "muc-2-1-2-5",
+    "title": "2.1.2.5  Các dây dẫn của một mạch điện không được phân bố trên nhiều sợi cáp có nhiều ruột khác nhau và trong ống, hộp, máng, thang cáp khác nhau; trừ trường hợp cáp nhiều ruột tạo thành một mạch và được lắp đặt song song có chứa một dây dẫn của mỗi pha và dây trung tính (nếu có).",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 381,
+    "line_end": 381,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-2-6",
+    "anchor": "muc-2-1-2-6",
+    "title": "2.1.2.6  Không cho phép dùng một dây trung tính chung cho nhiều mạch điện chính, trừ khi dây pha và dây trung tính nhận biết được và có thiết bị để cách ly tất cả các dây dẫn tải điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 385,
+    "line_end": 385,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-2-7",
+    "anchor": "muc-2-1-2-7",
+    "title": "2.1.2.7  Khi nhiều mạch điện cùng đấu vào một hộp đấu dây thì các đầu dây của mỗi mạch phải có vách ngăn cách điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 389,
+    "line_end": 389,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-2-8",
+    "anchor": "muc-2-1-2-8",
+    "title": "2.1.2.8  Phải dùng dây mềm để đấu điện cho thiết bị có khả năng phải dịch chuyển tạm thời. Phải dùng ống mềm để bảo vệ dây mềm.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 393,
+    "line_end": 393,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-2-9",
+    "anchor": "muc-2-1-2-9",
+    "title": "2.1.2.9  Các dây dẫn không có vỏ bảo vệ phải luồn trong ống, hộp.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 397,
+    "line_end": 397,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3",
+    "anchor": "muc-2-1-3",
+    "title": "2.1.3  Yêu cầu đối với hệ thống đường dẫn điện theo các điều kiện bên ngoài",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 401,
+    "line_end": 401,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-1",
+    "anchor": "muc-2-1-3-1",
+    "title": "2.1.3.1  Phải thực hiện các biện pháp cần thiết để bảo vệ mọi bộ phận của đường dẫn điện chống các ảnh hưởng từ bên ngoài.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 405,
+    "line_end": 405,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-2",
+    "anchor": "muc-2-1-3-2",
+    "title": "2.1.3.2  Phải bảo đảm cho đường dẫn điện làm việc trong phạm vi dải nhiệt độ giữa nhiệt độ cao nhất và thấp nhất tại nơi lắp đặt và không bị vượt quá nhiệt độ giới hạn khi làm việc bình thường và nhiệt độ giới hạn khi có sự cố. Các bộ phận của hệ thống đường dẫn điện chỉ được lắp đặt và thao tác tại nhiệt độ nằm trong giới hạn do nhà sản xuất quy định.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 409,
+    "line_end": 409,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-3",
+    "anchor": "muc-2-1-3-3",
+    "title": "2.1.3.3  Đường dẫn điện phải được chắn bằng tấm cách nhiệt hoặc đặt cách xa nguồn nhiệt hoặc sử dụng các bộ phận chịu được sự tăng thêm nhiệt độ có thể xảy ra hoặc tăng cường tại chỗ bằng vật liệu chịu nhiệt.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 413,
+    "line_end": 413,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-4",
+    "anchor": "muc-2-1-3-4",
+    "title": "2.1.3.4  Phải đảm bảo cho hệ thống đường dẫn điện có cấp bảo vệ (quy định tại Phụ lục B) thích hợp với nơi lắp đặt; không bị hư hỏng do nước ngưng tụ hoặc nước xâm nhập; vỏ bảo vệ và vỏ cách điện của cáp lắp đặt cố định còn nguyên vẹn và phải có biện pháp đặc biệt đối với cáp đặt dưới nước hoặc bị hắt nước thường xuyên.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 417,
+    "line_end": 417,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-5",
+    "anchor": "muc-2-1-3-5",
+    "title": "2.1.3.5  Phải giảm thiểu mối nguy hiểm do có vật rắn từ bên ngoài xâm nhập; phải có biện pháp để ngăn cản bụi hoặc các chất khác tích tụ với số lượng lớn làm giảm khả năng tản nhiệt của đường dẫn điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 421,
+    "line_end": 421,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-6",
+    "anchor": "muc-2-1-3-6",
+    "title": "2.1.3.6  Phải bảo vệ chống ăn mòn hoặc sử dụng vật liệu chịu được các chất ăn mòn, ô nhiễm cho các bộ phận của đường dẫn điện. Không được để các kim loại khác nhau có thể gây ra phản ứng điện phân tiếp xúc với nhau, trừ khi đã có biện pháp đặc biệt để tránh các hậu quả của sự tiếp xúc đó.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 425,
+    "line_end": 425,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-7",
+    "anchor": "muc-2-1-3-7",
+    "title": "2.1.3.7  Phải bảo vệ chống các hư hại do tác động cơ cho đường dẫn điện cố định. Khi đấu cáp và dây dẫn vào thiết bị điện không được làm suy giảm cấp bảo vệ của thiết bị điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 429,
+    "line_end": 429,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-8",
+    "anchor": "muc-2-1-3-8",
+    "title": "2.1.3.8  Phải đảm bảo cho hệ thống đường dẫn điện được đỡ hoặc bắt cố định vào các kết cấu của thiết bị có độ rung, đặc biệt là thiết bị rung. Các thiết bị sử dụng điện kiểu treo (như quạt trần, chùm đèn) phải được đấu nối bằng dây dẫn mềm.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 433,
+    "line_end": 433,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-9",
+    "anchor": "muc-2-1-3-9",
+    "title": "2.1.3.9  Phải có biện pháp để không làm hư hỏng cáp, dây dẫn, các đầu cáp; tránh tác động cơ cho dây dẫn, mối nối trong quá trình lắp đặt, sử dụng hoặc bảo dưỡng và chống hư hỏng đường dẫn điện chôn ngầm dưới sàn nhà; chống hư hại về cơ khi cáp, thanh dẫn và dây dẫn đi qua điểm co giãn, xuyên qua tường ngăn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 437,
+    "line_end": 437,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-10",
+    "anchor": "muc-2-1-3-10",
+    "title": "2.1.3.10  Không được dùng các chất bôi trơn có chứa silicon để luồn dây, kéo dây trên máng hoặc thang. Ống luồn dây dẫn đặt ngầm trong kết cấu xây dựng phải lắp đặt hoàn chỉnh giữa các điểm tiếp cận được trước khi đưa dây dẫn hoặc cáp vào, trừ trường hợp cụm ống đi dây sẵn được chế tạo riêng cho mục đích này. Bán kính cong kéo dây dẫn và cáp không được làm hại đến dây dẫn và cáp.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 441,
+    "line_end": 441,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-11",
+    "anchor": "muc-2-1-3-11",
+    "title": "2.1.3.11  Phải thực hiện đỡ dây dẫn và cáp ở khoảng cách thích hợp để dây dẫn và cáp không bị hư hỏng do trọng lượng bản thân hoặc do lực động điện của dòng điện ngắn mạch (chỉ xét lực này đối với cáp một ruột, tiết diện lớn hơn 50 $mm^{2}$). Phải sử dụng dây dẫn hoặc cáp chịu được lực căng thường xuyên do trọng lượng bản thân khi đi theo chiều thẳng đứng.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 445,
+    "line_end": 445,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-12",
+    "anchor": "muc-2-1-3-12",
+    "title": "2.1.3.12  Đường dẫn điện chôn cố định trong tường phải đi theo phương nằm ngang, thẳng đứng hoặc song song với cạnh tường. Cáp, đường ống luồn dây dẫn chôn ngầm dưới đất phải được bảo vệ chống hư hỏng về cơ hoặc phải chôn đủ sâu và phải đánh dấu.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 449,
+    "line_end": 449,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-13",
+    "anchor": "muc-2-1-3-13",
+    "title": "2.1.3.13  Phải có biện pháp phòng chống phù hợp với những nơi đường dẫn điện có nguy cơ bị hư hại do thực vật, động vật.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 453,
+    "line_end": 453,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-14",
+    "anchor": "muc-2-1-3-14",
+    "title": "2.1.3.14  Phải có biện pháp bảo vệ đường dẫn điện chống tác động của bức xạ mặt trời và bức xạ cực tím.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 457,
+    "line_end": 457,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-15",
+    "anchor": "muc-2-1-3-15",
+    "title": "2.1.3.15  Đường dẫn điện phải được thiết kế và lắp đặt phù hợp với yêu cầu chống động đất của nhà.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 461,
+    "line_end": 461,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-3-16",
+    "anchor": "muc-2-1-3-16",
+    "title": "2.1.3.16  Phải sử dụng giá đỡ cáp và hệ thống bảo vệ có khả năng cho phép dịch chuyển tương đối để dây dẫn và cáp không phải chịu tác động cơ khi kết cấu nhà có nguy cơ dịch chuyển. Phải dùng đường dẫn điện mềm cho các kết cấu mềm hoặc các kết cấu dự kiến có dịch chuyển.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 465,
+    "line_end": 465,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-4",
+    "anchor": "muc-2-1-4",
+    "title": "2.1.4  Yêu cầu về khả năng tải dòng điện",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 469,
+    "line_end": 469,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-4-1",
+    "anchor": "muc-2-1-4-1",
+    "title": "2.1.4.1  Dòng điện lớn nhất đi trong dây dẫn của đường dẫn điện ở chế độ làm việc bình thường trong thời gian dài phải phù hợp với quy định của nhà chế tạo dây dẫn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 473,
+    "line_end": 473,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-4-2",
+    "anchor": "muc-2-1-4-2",
+    "title": "2.1.4.2  Phải căn cứ vào giới hạn nhiệt độ làm việc cho phép thấp nhất của sợi trong nhóm dây dẫn (hoặc cáp) có giới hạn nhiệt độ làm việc cho phép khác nhau, cùng với hệ số suy giảm theo nhóm thích hợp để xác định khả năng tải dòng điện của các dây dẫn (hoặc cáp) trong nhóm.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 477,
+    "line_end": 477,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-4-3",
+    "anchor": "muc-2-1-4-3",
+    "title": "2.1.4.3  Phải tính toán hệ số suy giảm của các dây dẫn trong mạch điện theo số lượng dây dẫn tải điện. Trường hợp mạch điện ba pha tải dòng điện cân bằng (khi sóng hài bậc 3 hoặc bội số lẻ của 3 có độ méo hài tổng không lớn hơn 15 % biên độ của dòng điện tần số cơ bản) thì không cần phải tính đến dây trung tính của mạch đó.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 481,
+    "line_end": 481,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-4-4",
+    "anchor": "muc-2-1-4-4",
+    "title": "2.1.4.4  Phải có biện pháp để phân bổ dòng điện tải giữa các dây dẫn phù hợp với khả năng tải của dây dẫn khi hai hoặc nhiều dây dẫn tải điện được mắc song song, trừ trường hợp các dây dẫn làm từ cùng một loại vật liệu, có cùng tiết diện và có độ dài xấp xỉ nhau và không có mạch rẽ.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 485,
+    "line_end": 485,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-4-5",
+    "anchor": "muc-2-1-4-5",
+    "title": "2.1.4.5  Trường hợp không thể phân bổ dòng điện hoặc phải mắc song song từ 4 dây dẫn trở lên thì phải xem xét đến phương án dùng thanh dẫn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 489,
+    "line_end": 489,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-4-6",
+    "anchor": "muc-2-1-4-6",
+    "title": "2.1.4.6  Phải xác định khả năng tải dòng điện theo phần của tuyến dây có điều kiện bất lợi nhất về tản nhiệt, trừ phần dây dẫn xuyên qua tường một đoạn nhỏ hơn 0,35 m.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 493,
+    "line_end": 493,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-4-7",
+    "anchor": "muc-2-1-4-7",
+    "title": "2.1.4.7  Phải nối cả hai đầu các vỏ kim loại và/hoặc áo giáp bảo vệ không từ tính của các sợi cáp một ruột trong cùng một mạch điện của tuyến dây. Trường hợp cáp có tiết diện ruột lớn hơn 50 $mm^{2}$ và vỏ bọc ngoài cùng không dẫn điện thì vỏ kim loại và/hoặc áo giáp bảo vệ không từ tính có thể nối với nhau tại một điểm trên đường đi, nhưng chiều dài của sợi cáp từ điểm nối phải được giới hạn theo điều kiện an toàn điện áp giữa vỏ hoặc áo giáp bảo vệ đến đất, các đầu không nối với nhau phải cách điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 497,
+    "line_end": 497,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-5",
+    "anchor": "muc-2-1-5",
+    "title": "2.1.5  Yêu cầu về tiết diện của các dây dẫn",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 501,
+    "line_end": 501,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-5-1",
+    "anchor": "muc-2-1-5-1",
+    "title": "2.1.5.1  Tiết diện của dây pha trong các mạch xoay chiều không được nhỏ hơn các giá trị sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 505,
+    "line_end": 505,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-5-2",
+    "anchor": "muc-2-1-5-2",
+    "title": "2.1.5.2  Tiết diện của dây trung tính",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 519,
+    "line_end": 519,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-6",
+    "anchor": "muc-2-1-6",
+    "title": "2.1.6  Yêu cầu đối với sơ đồ nối đất",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 541,
+    "line_end": 541,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-7",
+    "anchor": "muc-2-1-7",
+    "title": "2.1.7  Yêu cầu về độ sụt điện áp tại nơi tiêu thụ",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 547,
+    "line_end": 547,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-8",
+    "anchor": "muc-2-1-8",
+    "title": "2.1.8  Yêu cầu về đấu nối điện",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 553,
+    "line_end": 553,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-9",
+    "anchor": "muc-2-1-9",
+    "title": "2.1.9  Yêu cầu về giảm thiểu cháy lan đối với đường dẫn điện",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 559,
+    "line_end": 559,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-9-1",
+    "anchor": "muc-2-1-9-1",
+    "title": "2.1.9.1  Trường hợp có yêu cầu giảm thiểu cháy lan thì đường dẫn điện phải sử dụng vật liệu giảm thiểu nguy cơ cháy lan; không được làm giảm tính năng của kết cấu công trình về an toàn cháy. Các loại cáp không có tính năng chống cháy lan chỉ được sử dụng để nối từ đường dẫn điện cố định tới thiết bị sử dụng điện và không được đi từ khoang cách ly này sang khoang cách ly khác. Các bộ phận của đường dẫn điện không thuộc loại chống cháy lan khi sử dụng phải có vỏ bọc chống cháy.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 563,
+    "line_end": 563,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-9-2",
+    "anchor": "muc-2-1-9-2",
+    "title": "2.1.9.2  Phải lấp kín khe hở cả bên trong và bên ngoài ống, hộp luồn dây, nơi đường dẫn điện xuyên qua, bằng vật liệu có giới hạn chịu lửa của bộ phận xây dựng bị xuyên qua đó, trừ các ống, hộp luồn dây thuộc loại không cháy, có tiết diện bên trong không lớn hơn 710 $mm^{2}$, đáp ứng ứng yêu cầu thử nghiệm đối với IP33 và các đầu ống, hộp đi vào một trong các khoang bị xuyên qua được ngăn cách bằng kết cấu xây dựng. Vật liệu lấp kín phải chịu được ảnh hưởng từ bên ngoài như đường dẫn điện và chịu được tác động của nước, tác động của các sản phẩm do cháy như bộ phận xây dựng.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 567,
+    "line_end": 567,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-10",
+    "anchor": "muc-2-1-10",
+    "title": "2.1.10  Yêu cầu đối với đường dẫn điện đi liền kề với các dịch vụ khác",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 571,
+    "line_end": 571,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-10-1",
+    "anchor": "muc-2-1-10-1",
+    "title": "2.1.10.1  Không được bố trí các mạch điện có điện áp thấp và ELV trên cùng một đường dẫn, trừ khi:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 575,
+    "line_end": 575,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-10-2",
+    "anchor": "muc-2-1-10-2",
+    "title": "2.1.10.2  Khi đường dẫn điện chôn ngầm giao chéo hoặc đi gần đường dẫn truyền thông phải đảm bảo khoảng cách giữa các loại đường dẫn này ít nhất là 100 mm hoặc phải đáp ứng một trong các yêu cầu sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 589,
+    "line_end": 589,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-10-3",
+    "anchor": "muc-2-1-10-3",
+    "title": "2.1.10.3  Đường dẫn điện không được đặt gần các đường dẫn kỹ thuật phục vụ mục đích khác có thể gây hại cho đường dẫn điện, trừ khi được bảo vệ thích hợp.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 597,
+    "line_end": 597,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-10-4",
+    "anchor": "muc-2-1-10-4",
+    "title": "2.1.10.4  Không được đặt đường dẫn điện trong khoang thang máy, trừ khi nó là một bộ phận của thang máy.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 601,
+    "line_end": 601,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-11",
+    "anchor": "muc-2-1-11",
+    "title": "2.1.11  Yêu cầu về lắp đặt đường dẫn điện liên quan đến bảo trì và làm sạch",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 605,
+    "line_end": 605,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-11-1",
+    "anchor": "muc-2-1-11-1",
+    "title": "2.1.11.1  Việc lắp đặt đường dẫn điện phải phù hợp với yêu cầu bảo trì, làm sạch trong suốt vòng đời của nó.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 609,
+    "line_end": 609,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-11-2",
+    "anchor": "muc-2-1-11-2",
+    "title": "2.1.11.2  Khi cần tháo dỡ một biện pháp bảo vệ nào đó để bảo trì, làm sạch thì phải lắp đặt trở lại đảm bảo không làm giảm cấp bảo vệ ban đầu.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 613,
+    "line_end": 613,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-11-3",
+    "anchor": "muc-2-1-11-3",
+    "title": "2.1.11.3  Phải đảm bảo tiếp cận an toàn đến các bộ phận cần bảo trì, làm sạch của đường dẫn điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 617,
+    "line_end": 617,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-12",
+    "anchor": "muc-2-1-12",
+    "title": "2.1.12  Yêu cầu về lắp đặt tủ điện, thiết bị bảo vệ",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 621,
+    "line_end": 621,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-12-1",
+    "anchor": "muc-2-1-12-1",
+    "title": "2.1.12.1  Tại đầu vào nhà phải lắp đặt tủ phân phối điện chính, trừ trường hợp nhánh rẽ từ đường dây trên không vào nhà đã lắp đặt thiết bị bảo vệ với dòng điện tác động không lớn hơn 25 A.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 625,
+    "line_end": 625,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-12-2",
+    "anchor": "muc-2-1-12-2",
+    "title": "2.1.12.2  Sau tủ phân phối điện chính phải lắp đặt các tủ phân phối điện phụ để cấp điện cho các phần của nhà.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 629,
+    "line_end": 629,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-12-3",
+    "anchor": "muc-2-1-12-3",
+    "title": "2.1.12.3  Phải lắp đặt các thiết bị điều khiển, bảo vệ tại các tủ phân phối điện trừ trường hợp tại điểm bắt đầu rẽ nhánh đã được bảo vệ và khi tủ phân phối điện được cấp điện bằng đường dây riêng.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 633,
+    "line_end": 633,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-12-4",
+    "anchor": "muc-2-1-12-4",
+    "title": "2.1.12.4  Phải lắp đặt thiết bị điều khiển ở tủ phân phối điện chính của đường dây cấp điện cho các nhà hoặc các bộ phận của nhà công cộng.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 637,
+    "line_end": 637,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-12-5",
+    "anchor": "muc-2-1-12-5",
+    "title": "2.1.12.5  Phải lắp đặt các tủ phân phối điện ở phòng dành riêng cho tủ điện hoặc trong các hộc tường có khóa. Ở những vị trí dễ bị ngập nước, phải lắp đặt tủ phân phối điện cao hơn mức nước ngập cao nhất có khả năng xảy ra.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 641,
+    "line_end": 641,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-12-6",
+    "anchor": "muc-2-1-12-6",
+    "title": "2.1.12.6  Trường hợp không có phòng dành riêng thì phải lắp đặt tủ phân phối điện trong các phòng khác, các tầng hầm khô ráo, hoặc trong tầng kỹ thuật, nếu các vị trí này người quản lý tiếp cận được dễ dàng, hoặc trong các phòng riêng của nhà có tường không cháy với thời gian chịu lửa không nhỏ hơn 45 min.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 645,
+    "line_end": 645,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-12-7",
+    "anchor": "muc-2-1-12-7",
+    "title": "2.1.12.7  Khi lắp đặt tủ phân phối điện ngoài phòng dành riêng để lắp đặt tủ điện, phải đáp ứng các yêu cầu sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 649,
+    "line_end": 649,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-12-8",
+    "anchor": "muc-2-1-12-8",
+    "title": "2.1.12.8  Không được lắp đặt tủ điện ở dưới hoặc trong phòng vệ sinh, phòng tắm, chỗ rửa, phòng giặt, phòng có hóa chất.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 657,
+    "line_end": 657,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-12-9",
+    "anchor": "muc-2-1-12-9",
+    "title": "2.1.12.9  Không được bố trí các nắp đậy, van, mặt bích, cửa thăm dò, vòi của đường ống dẫn nước, ống thông gió, ống hơi nóng và các loại hộp kỹ thuật khác ở nơi đặt tủ điện. Không được đặt các đường ống khí đốt và đường ống dẫn chất dễ cháy đi qua phòng đặt tủ điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 661,
+    "line_end": 661,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-12-10",
+    "anchor": "muc-2-1-12-10",
+    "title": "2.1.12.10  Phòng dành riêng để lắp đặt tủ phân phối điện phải được thông gió và chiếu sáng bằng điện; phải có cánh cửa mở ra phía ngoài và có khóa.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 665,
+    "line_end": 665,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-13",
+    "anchor": "muc-2-1-13",
+    "title": "2.1.13  Yêu cầu đối với việc lắp đặt thiết bị điện trong nhà",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 669,
+    "line_end": 669,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-13-1",
+    "anchor": "muc-2-1-13-1",
+    "title": "2.1.13.1  Các thiết bị điện lắp đặt trong nhà phải phù hợp với điện áp của mạng cấp điện, điều kiện môi trường và yêu cầu sử dụng.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 673,
+    "line_end": 673,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-13-2",
+    "anchor": "muc-2-1-13-2",
+    "title": "2.1.13.2  Phải sử dụng loại ổ cắm điện có cực nối đất an toàn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 677,
+    "line_end": 677,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-13-3",
+    "anchor": "muc-2-1-13-3",
+    "title": "2.1.13.3  Ở những nơi dành cho trẻ em, ổ cắm điện và công tắc đèn phải đặt cao cách sàn hoàn thiện 1,5 m, trừ trường hợp có các biện pháp bảo vệ an toàn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 681,
+    "line_end": 681,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-13-4",
+    "anchor": "muc-2-1-13-4",
+    "title": "2.1.13.4  Trong các cửa hàng, nhà hàng và nhà công cộng khác, các công tắc đèn chiếu sáng bình thường, chiếu sáng sự cố và thoát hiểm phải lắp đặt ở các nơi chỉ có người quản lý tiếp cận được để thao tác.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 685,
+    "line_end": 685,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-13-5",
+    "anchor": "muc-2-1-13-5",
+    "title": "2.1.13.5  Phải sử dụng động cơ điện kiểu kín.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 689,
+    "line_end": 689,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-13-6",
+    "anchor": "muc-2-1-13-6",
+    "title": "2.1.13.6  Trường hợp sử dụng động cơ điện kiểu hở phải lắp đặt ở gian riêng, có tường, trần và sàn nhà bằng vật liệu không cháy và phải cách các bộ phận cháy được của nhà ít nhất là 0,5 m.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 693,
+    "line_end": 693,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-13-7",
+    "anchor": "muc-2-1-13-7",
+    "title": "2.1.13.7  Phải lắp đặt động cơ điện dùng chung và các thiết bị bảo vệ, điều khiển của chúng ở nơi chỉ có người quản lý tiếp cận được.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 697,
+    "line_end": 697,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-13-8",
+    "anchor": "muc-2-1-13-8",
+    "title": "2.1.13.8  Phải bố trí các nút bấm điều khiển thiết bị điện dùng chung tại chỗ vận hành thuận tiện và có nhãn ghi để phân biệt.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 701,
+    "line_end": 701,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-13-9",
+    "anchor": "muc-2-1-13-9",
+    "title": "2.1.13.9  Trường hợp phải lắp đặt động cơ điện ở tầng áp mái thì không được lắp đặt trực tiếp trên các phòng ở, phòng làm việc và phải đảm bảo mức ồn cho phép theo các quy định hiện hành.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 705,
+    "line_end": 705,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-14",
+    "anchor": "muc-2-1-14",
+    "title": "2.1.14  Yêu cầu đối với đường dẫn điện và thiết bị điện cho chiếu sáng nhân tạo và các mục đích sử dụng khác",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 709,
+    "line_end": 709,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-14-1",
+    "anchor": "muc-2-1-14-1",
+    "title": "2.1.14.1  Tiết diện của ruột dây dẫn và cáp không được nhỏ hơn trị số quy định tại mục 2.1.5",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 713,
+    "line_end": 713,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-14-2",
+    "anchor": "muc-2-1-14-2",
+    "title": "2.1.14.2  Đường dẫn điện phục vụ chiếu sáng biển quảng cáo gắn với nhà phải có thiết bị bảo vệ để cắt được nguồn cấp điện khi xảy ra sự cố hư hỏng cách điện, ngắn mạch hoặc phải đặt kín bên trong kết cấu xây dựng, hoặc cáp phải có vỏ bọc cách điện đạt tiêu chuẩn và phải luồn trong ống nhựa chịu lực và chịu nhiệt, hoặc phải có biện pháp bảo vệ khác.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 717,
+    "line_end": 717,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-14-3",
+    "anchor": "muc-2-1-14-3",
+    "title": "2.1.14.3  Phải cấp điện bằng các đường dẫn điện riêng từ tủ phân phối điện chính cho hệ thống chiếu sáng cầu thang, lối đi chung, hành lang và những phòng khác ngoài phạm vi căn hộ của nhà ở.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 721,
+    "line_end": 721,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-14-4",
+    "anchor": "muc-2-1-14-4",
+    "title": "2.1.14.4  Phải bảo vệ đường dẫn điện nhóm chiếu sáng trong nhà bằng cầu chảy hoặc máy cắt với dòng điện danh định không lớn hơn 25 A. Đối với đường dẫn điện cấp điện cho nhóm các thiết bị chiếu sáng ở các nhà công cộng có công suất lớn cho phép bảo vệ bằng cầu chảy hoặc máy cắt với dòng điện danh định đến 63 A.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 725,
+    "line_end": 725,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-14-5",
+    "anchor": "muc-2-1-14-5",
+    "title": "2.1.14.5  Trường hợp cấp điện bằng một đường dẫn điện nhóm chung cho các động cơ điện thì số lượng động cơ không được quá bốn, đồng thời công suất mỗi động cơ không được quá 3 kW.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 729,
+    "line_end": 729,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-14-6",
+    "anchor": "muc-2-1-14-6",
+    "title": "2.1.14.6  Thiết bị chiếu sáng của nhà phải:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 733,
+    "line_end": 733,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-14-7",
+    "anchor": "muc-2-1-14-7",
+    "title": "2.1.14.7  Phải bố trí đường dẫn điện riêng biệt cho thang máy và thang cuốn từ tủ phân phối điện chính hoặc từ tủ điện dành riêng cho thang máy và thang cuốn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 741,
+    "line_end": 741,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-14-8",
+    "anchor": "muc-2-1-14-8",
+    "title": "2.1.14.8  Phải gắn thiết bị tự động khống chế mức nước vào mạch điều khiển động cơ điện của máy bơm nước vào bể, thùng chứa.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 745,
+    "line_end": 745,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-1-14-9",
+    "anchor": "muc-2-1-14-9",
+    "title": "2.1.14.9  Các hệ thống thông gió, điều hòa không khí, đun nước nóng bằng điện trở phải được cấp điện trực tiếp bằng các đường dẫn điện riêng từ tủ phân phối điện và phải có thiết bị bảo vệ cắt điện tự động.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 749,
+    "line_end": 749,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2",
+    "anchor": "muc-2-2",
+    "title": "2.2  Hệ thống nối đất và dây dẫn bảo vệ",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 753,
+    "line_end": 753,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-1",
+    "anchor": "muc-2-2-1",
+    "title": "2.2.1  Các yêu cầu chung",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 757,
+    "line_end": 757,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-1-1",
+    "anchor": "muc-2-2-1-1",
+    "title": "2.2.1.1  Hệ thống nối đất gồm các phần tử chính là điện cực nối đất, thanh nối đất chính (là đầu nối hoặc thanh góp để nối các thiết bị điện vào hệ thống nối đất) và dây dẫn nối đất (là vật dẫn để nối thanh nối đất chính với điện cực nối đất) được liên kết với nhau và thể hiện tại Phụ lục E.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 761,
+    "line_end": 761,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-1-2",
+    "anchor": "muc-2-2-1-2",
+    "title": "2.2.1.2  Hệ thống nối đất phải:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 765,
+    "line_end": 765,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-2",
+    "anchor": "muc-2-2-2",
+    "title": "2.2.2  Yêu cầu đối với điện cực nối đất",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 775,
+    "line_end": 775,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-2-1",
+    "anchor": "muc-2-2-2-1",
+    "title": "2.2.2.1  Điện trở nối đất của điện cực trong hệ thống nối đất ở điều kiện bất lợi nhất phải đáp ứng điều kiện chống điện giật quy định tại mục 2.4.2.3.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 779,
+    "line_end": 779,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-2-2",
+    "anchor": "muc-2-2-2-2",
+    "title": "2.2.2.2  Không được sử dụng đường ống dẫn các chất có khả năng gây cháy, nổ làm một phần của điện cực nối đất.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 783,
+    "line_end": 783,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-2-3",
+    "anchor": "muc-2-2-2-3",
+    "title": "2.2.2.3  Vật liệu làm điện cực nối đất phải chống được ăn mòn do điện phân.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 787,
+    "line_end": 787,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-2-4",
+    "anchor": "muc-2-2-2-4",
+    "title": "2.2.2.4  Vật liệu và kích thước nhỏ nhất cho phép của các phần tử làm điện cực nối đất phải đáp ứng quy định tại Phụ lục G.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 791,
+    "line_end": 791,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-3",
+    "anchor": "muc-2-2-3",
+    "title": "2.2.3  Yêu cầu đối với thanh nối đất chính",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 795,
+    "line_end": 795,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-3-1",
+    "anchor": "muc-2-2-3-1",
+    "title": "2.2.3.1  Trong hệ thống nối đất sử dụng liên kết bảo vệ thì các dây dẫn sau đây phải nối với thanh nối đất chính:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 799,
+    "line_end": 799,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-3-2",
+    "anchor": "muc-2-2-3-2",
+    "title": "2.2.3.2  Thanh nối đất chính phải bố trí ở nơi dễ tiếp cận.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 811,
+    "line_end": 811,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-3-3",
+    "anchor": "muc-2-2-3-3",
+    "title": "2.2.3.3  Thanh nối đất chính phải có khả năng tách từng dây dẫn riêng rẽ khỏi mối nối. Mối nối phải chắc chắn và chỉ tách được bằng dụng cụ chuyên dùng.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 815,
+    "line_end": 815,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-4",
+    "anchor": "muc-2-2-4",
+    "title": "2.2.4  Yêu cầu đối với dây dẫn nối đất",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 819,
+    "line_end": 819,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-01",
+    "anchor": "bang-bang-01",
+    "title": "Bảng 1 - Tiết diện nhỏ nhất cho phép của dây dẫn nối đất chôn trong đất",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 825,
+    "line_end": 825,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-5",
+    "anchor": "muc-2-2-5",
+    "title": "2.2.5  Yêu cầu đối với dây PE",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 834,
+    "line_end": 834,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-5-1",
+    "anchor": "muc-2-2-5-1",
+    "title": "2.2.5.1  Dây PE phải đáp ứng các yêu cầu sau đây:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 838,
+    "line_end": 838,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-02",
+    "anchor": "bang-bang-02",
+    "title": "Bảng 2 - Tiết diện nhỏ nhất cho phép của dây PE",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 854,
+    "line_end": 854,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-5-2",
+    "anchor": "muc-2-2-5-2",
+    "title": "2.2.5.2  Các vật dẫn dùng làm dây PE gồm:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 864,
+    "line_end": 864,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-5-3",
+    "anchor": "muc-2-2-5-3",
+    "title": "2.2.5.3  Dây PE không phải là một bộ phận của cáp hoặc không nằm trong vỏ bảo vệ chung với dây pha thì tiết diện không được nhỏ hơn:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 882,
+    "line_end": 882,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-5-4",
+    "anchor": "muc-2-2-5-4",
+    "title": "2.2.5.4  Dây PE dùng chung cho nhiều mạch điện thì tiết diện nhỏ nhất cho phép phải xác định theo Bảng 3 với dòng điện sự cố và thời gian tồn tại ứng với xung lượng nhiệt (I2x t) lớn nhất.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 890,
+    "line_end": 890,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-5-5",
+    "anchor": "muc-2-2-5-5",
+    "title": "2.2.5.5  Không được dùng các bộ phận kim loại dưới đây làm dây PE:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 894,
+    "line_end": 894,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-5-6",
+    "anchor": "muc-2-2-5-6",
+    "title": "2.2.5.6  Khi dây dẫn nối đất bảo vệ kết hợp làm dây nối đất chức năng thì phải đáp ứng đồng thời các yêu cầu đối với dây PE và các yêu cầu về nối đất chức năng.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 908,
+    "line_end": 908,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-5-7",
+    "anchor": "muc-2-2-5-7",
+    "title": "2.2.5.7  Nếu dùng thiết bị bảo vệ quá dòng để bảo vệ chống điện giật thì dây PE phải nằm trong cùng đường dẫn với dây tải điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 912,
+    "line_end": 912,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-6",
+    "anchor": "muc-2-2-6",
+    "title": "2.2.6  Yêu cầu đối với dây dẫn liên kết bảo vệ",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 916,
+    "line_end": 916,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-6-1",
+    "anchor": "muc-2-2-6-1",
+    "title": "2.2.6.1  Dây dẫn liên kết bảo vệ nối với thanh nối đất chính phải có tiết diện không nhỏ hơn:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 920,
+    "line_end": 920,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-6-2",
+    "anchor": "muc-2-2-6-2",
+    "title": "2.2.6.2  Dây dẫn liên kết bảo vệ nối giữa hai vỏ kim loại của thiết bị phải có khả năng dẫn điện bằng hoặc lớn hơn khả năng dẫn điện của dây PE có khả năng dẫn điện nhỏ nhất nối với các vỏ thiết bị đó.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 928,
+    "line_end": 928,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-2-6-3",
+    "anchor": "muc-2-2-6-3",
+    "title": "2.2.6.3  Dây dẫn liên kết bảo vệ nối giữa vỏ kim loại của thiết bị với các vật dẫn bên ngoài phải có khả năng dẫn điện không nhỏ hơn 1/2 khả năng dẫn điện của dây PE tương ứng.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 932,
+    "line_end": 932,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3",
+    "anchor": "muc-2-3",
+    "title": "2.3  Cách ly, đóng cắt mạch điện và dịch vụ an toàn",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 936,
+    "line_end": 936,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-1",
+    "anchor": "muc-2-3-1",
+    "title": "2.3.1  Thiết bị cách ly và đóng cắt",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 940,
+    "line_end": 940,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-1-1",
+    "anchor": "muc-2-3-1-1",
+    "title": "2.3.1.1  Phải sử dụng các loại thiết bị sau để cách ly và đóng cắt mạch điện:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 944,
+    "line_end": 944,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-1-2",
+    "anchor": "muc-2-3-1-2",
+    "title": "2.3.1.2  Các tiếp điểm động của mọi thiết bị cách ly và đóng cắt nhiều cực cần phải khớp nối cơ khí đảm bảo đóng mở đồng thời, trừ những tiếp điểm dùng cho dây trung tính có thể đóng trước và mở sau các tiếp điểm khác.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 956,
+    "line_end": 956,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-1-3",
+    "anchor": "muc-2-3-1-3",
+    "title": "2.3.1.3  Không được lắp đặt thiết bị cách ly và đóng cắt một cực vào dây trung tính bất kể là mạch một pha hay ba pha.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 960,
+    "line_end": 960,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-2",
+    "anchor": "muc-2-3-2",
+    "title": "2.3.2  Dây PE của mạch điện",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 964,
+    "line_end": 964,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-2-1",
+    "anchor": "muc-2-3-2-1",
+    "title": "2.3.2.1  Không được lắp đặt dây PE của mạch điện xuyên qua mạch từ của RCD.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 968,
+    "line_end": 968,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-2-2",
+    "anchor": "muc-2-3-2-2",
+    "title": "2.3.2.2  Các yêu cầu khác có liên quan đến dây PE thực hiện theo quy định tại mục 2.2.5.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 972,
+    "line_end": 972,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-3",
+    "anchor": "muc-2-3-3",
+    "title": "2.3.3  Yêu cầu về sử dụng các loại RCD",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 976,
+    "line_end": 976,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-3-1",
+    "anchor": "muc-2-3-3-1",
+    "title": "2.3.3.1  RCD phải có khả năng cách ly được tất cả các dây dẫn đang có điện của mạch mà nó bảo vệ.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 980,
+    "line_end": 980,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-3-2",
+    "anchor": "muc-2-3-3-2",
+    "title": "2.3.3.2  Phải sử dụng RCD loại tác động bằng dòng điện, không được sử dụng RCD loại tác động bằng điện áp.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 984,
+    "line_end": 984,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-3-3",
+    "anchor": "muc-2-3-3-3",
+    "title": "2.3.3.3  Khi lắp đặt RCD cho mạch ba pha không có phụ tải ba pha, phải sử dụng RCD cho từng pha để giảm phạm vi mất điện khi chỉ có sự cố ở các pha riêng biệt.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 988,
+    "line_end": 988,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-3-4",
+    "anchor": "muc-2-3-3-4",
+    "title": "2.3.3.4  Phải sử dụng RCD có dòng làm việc không quá 30 mA làm bảo vệ bổ sung cho thiết bị điện ở những mạch điện có sử dụng dụng cụ cầm tay.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 992,
+    "line_end": 992,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-4",
+    "anchor": "muc-2-3-4",
+    "title": "2.3.4  Thiết bị bảo vệ theo dòng ngắn mạch",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 996,
+    "line_end": 996,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-4-1",
+    "anchor": "muc-2-3-4-1",
+    "title": "2.3.4.1  Dòng điện định mức của thiết bị bảo vệ không được nhỏ hơn dòng điện làm việc lâu dài lớn nhất của mạch điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1000,
+    "line_end": 1000,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-4-2",
+    "anchor": "muc-2-3-4-2",
+    "title": "2.3.4.2  Thiết bị bảo vệ phải có khả năng cắt được dòng ngắn mạch lớn nhất.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1004,
+    "line_end": 1004,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-5",
+    "anchor": "muc-2-3-5",
+    "title": "2.3.5  Cắt điện khẩn cấp",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1008,
+    "line_end": 1008,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-5-1",
+    "anchor": "muc-2-3-5-1",
+    "title": "2.3.5.1  Trường hợp cần cắt nguồn cấp điện để ngăn ngừa nguy hiểm phát sinh ngoài dự kiến phải lắp đặt thiết bị cắt khẩn cấp cho bộ phận có liên quan của hệ thống điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1012,
+    "line_end": 1012,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-5-2",
+    "anchor": "muc-2-3-5-2",
+    "title": "2.3.5.2  Phải trang bị các phương tiện ngừng khẩn cấp khi các chuyển động bằng điện làm tăng nguy hiểm.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1016,
+    "line_end": 1016,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-5-3",
+    "anchor": "muc-2-3-5-3",
+    "title": "2.3.5.3  Các thiết bị cắt điện khẩn cấp phải cắt được dòng điện của các phần thiết bị có liên quan, có tính đến dòng điện của động cơ bị hãm.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1020,
+    "line_end": 1020,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-5-4",
+    "anchor": "muc-2-3-5-4",
+    "title": "2.3.5.4  Thiết bị cắt điện khẩn cấp phải cắt điện được cho tất cả các dây dẫn có điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1024,
+    "line_end": 1024,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-5-5",
+    "anchor": "muc-2-3-5-5",
+    "title": "2.3.5.5  Phải sơn màu đỏ các thiết bị dùng để cắt điện khẩn cấp và bố trí để dễ dàng nhận biết, dễ dàng tiếp cận và thao tác cắt trực tiếp bằng tay các mạch cấp điện khi điều kiện cho phép.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1028,
+    "line_end": 1028,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-5-6",
+    "anchor": "muc-2-3-5-6",
+    "title": "2.3.5.6  Khi thiết bị đã cắt ra thì phải được khóa hoặc chốt lại ở vị trí cắt và bảo đảm không có khả năng tự đóng điện trở lại.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1032,
+    "line_end": 1032,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-6",
+    "anchor": "muc-2-3-6",
+    "title": "2.3.6  Hệ thống điện dùng cho dịch vụ an toàn",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1036,
+    "line_end": 1036,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-6-1",
+    "anchor": "muc-2-3-6-1",
+    "title": "2.3.6.1  Phải có hệ thống điện riêng để duy trì hoạt động các bộ phận thiết yếu cho dịch vụ an toàn làm việc ở mọi thời điểm, mọi điều kiện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1040,
+    "line_end": 1040,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-6-2",
+    "anchor": "muc-2-3-6-2",
+    "title": "2.3.6.2  Các dịch vụ an toàn bao gồm, nhưng không giới hạn bởi các hạng mục sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1044,
+    "line_end": 1044,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-6-3",
+    "anchor": "muc-2-3-6-3",
+    "title": "2.3.6.3  Trong mạch IT phải có thiết bị kiểm soát cách điện liên tục để phát tín hiệu bằng âm thanh và ánh sáng khi xuất hiện sự cố chạm đất đầu tiên.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1064,
+    "line_end": 1064,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-7",
+    "anchor": "muc-2-3-7",
+    "title": "2.3.7  Nguồn điện dùng cho dịch vụ an toàn",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1068,
+    "line_end": 1068,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-7-1",
+    "anchor": "muc-2-3-7-1",
+    "title": "2.3.7.1  Nguồn điện dùng cho dịch vụ an toàn (ắcqui, pin, tổ máy phát điện độc lập, lộ riêng độc lập với lộ cấp điện bình thường) phải có đủ công suất, độ tin cậy, thời gian hoạt động đáp ứng cần thiết, thông số đặc trưng và thời gian chuyển đổi thích hợp theo quy định.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1072,
+    "line_end": 1072,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-7-2",
+    "anchor": "muc-2-3-7-2",
+    "title": "2.3.7.2  Nguồn điện dùng cho dịch vụ an toàn phải được lắp cố định ở vị trí thích hợp, có biện pháp thông gió và thoát khí thải ra ngoài một cách an toàn. Sự cố ở nguồn cấp điện bình thường không được gây ảnh hưởng bất lợi cho nguồn điện này.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1076,
+    "line_end": 1076,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-7-3",
+    "anchor": "muc-2-3-7-3",
+    "title": "2.3.7.3  Nguồn điện dùng cho dịch vụ an toàn dùng kết hợp cho các mục đích khác thì không được gây ảnh hưởng đến nhiệm vụ chính. Phải có biện pháp để khi có sự cố ở mạch cung cấp điện cho mục đích khác không làm mất điện của dịch vụ an toàn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1080,
+    "line_end": 1080,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-7-4",
+    "anchor": "muc-2-3-7-4",
+    "title": "2.3.7.4  Nếu một nguồn dùng cho dịch vụ an toàn cấp điện đồng thời cho dịch vụ an toàn của nhiều tòa nhà thì sự cố trong các dịch vụ an toàn của một tòa nhà không được làm ảnh hưởng đến hoạt động bình thường của nguồn đó.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1084,
+    "line_end": 1084,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8",
+    "anchor": "muc-2-3-8",
+    "title": "2.3.8  Yêu cầu đối với mạch điện dùng cho dịch vụ an toàn",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1088,
+    "line_end": 1088,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-1",
+    "anchor": "muc-2-3-8-1",
+    "title": "2.3.8.1  Mạch điện của dịch vụ an toàn phải độc lập với các mạch khác.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1092,
+    "line_end": 1092,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-2",
+    "anchor": "muc-2-3-8-2",
+    "title": "2.3.8.2  Khi thiết bị được cấp điện từ hai nguồn khác nhau thì sự cố xuất hiện trong mạch của nguồn này không được gây ảnh hưởng xấu đến bảo vệ chống điện giật hoặc hoạt động đúng của nguồn kia. Thiết bị có dây PE thì dây PE này phải được nối với dây PE của cả hai mạch.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1096,
+    "line_end": 1096,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-3",
+    "anchor": "muc-2-3-8-3",
+    "title": "2.3.8.3  Trường hợp cắt quá tải làm mất nguồn cấp điện có thể gây ra mối nguy hiểm lớn hơn thì thiết bị bảo vệ chống quá tải không được tự động cắt nguồn điện mà phải có biện pháp theo dõi sự xuất hiện của quá tải để khắc phục.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1100,
+    "line_end": 1100,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-4",
+    "anchor": "muc-2-3-8-4",
+    "title": "2.3.8.4  Bảo vệ chống ngắn mạch và chống điện giật trong điều kiện bình thường và trong trường hợp sự cố phải được đảm bảo ở phương án đấu nối bất kỳ với nguồn cấp điện bình thường và nguồn dùng cho dịch vụ an toàn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1104,
+    "line_end": 1104,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-5",
+    "anchor": "muc-2-3-8-5",
+    "title": "2.3.8.5  Thiết bị bảo vệ chống quá dòng phải được chọn và lắp đặt sao cho không để quá dòng trong một mạch làm ảnh hưởng đến hoạt động đúng của mạch dùng cho dịch vụ an toàn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1108,
+    "line_end": 1108,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-6",
+    "anchor": "muc-2-3-8-6",
+    "title": "2.3.8.6  Tủ điện của dịch vụ an toàn phải được cách ly khỏi các thành phần của hệ thống điện bình thường và phải đảm bảo khả năng chịu cháy trong thời gian quy định.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1112,
+    "line_end": 1112,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-7",
+    "anchor": "muc-2-3-8-7",
+    "title": "2.3.8.7  Mạch điện của dịch vụ an toàn không được đi qua các vị trí có rủi ro cháy, trừ khi nó được làm từ vật liệu không cháy hoặc được bảo vệ thích hợp. Trong mọi trường hợp, mạch điện không được đi qua khu vực có rủi ro nổ.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1116,
+    "line_end": 1116,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-8",
+    "anchor": "muc-2-3-8-8",
+    "title": "2.3.8.8  Phương tiện đóng cắt và điều khiển phải được lắp thành nhóm, dễ dàng nhận biết được, đặt tại khu vực mà chỉ những người có trách nhiệm mới được phép tiếp cận.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1120,
+    "line_end": 1120,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-9",
+    "anchor": "muc-2-3-8-9",
+    "title": "2.3.8.9  Cáp của mạch điện dùng cho dịch vụ an toàn không phải loại chống cháy hoặc chống nhiễu phải được cách ly với các cáp của mạch khác, kể cả cáp của mạch an toàn khác bằng khoảng cách hoặc vật chắn. Phải sử dụng cáp chịu cháy phù hợp với quy định tại mục 2.1.9 để lắp đặt sao cho đảm bảo độ bền nhiệt và cơ cần thiết.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1124,
+    "line_end": 1124,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-10",
+    "anchor": "muc-2-3-8-10",
+    "title": "2.3.8.10  Không được lắp đặt các mạch điện dùng cho dịch vụ an toàn trong khoang thang máy hoặc các loại ống thông hơi, thông khói, trừ các cáp dùng cho thang máy cứu hộ khi xảy ra cháy hoặc thang máy có yêu cầu đặc biệt.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1128,
+    "line_end": 1128,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-11",
+    "anchor": "muc-2-3-8-11",
+    "title": "2.3.8.11  Đèn chiếu sáng khẩn cấp mà bình thường không hoạt động phải tự động hoạt động khi có sự cố ở mạch cấp điện bình thường trong khu vực đặt đèn. Việc chuyển đổi từ chế độ bình thường sang chế độ khẩn cấp phải được thực hiện tự động khi điện áp nguồn bình thường thấp hơn 60% điện áp danh định trong thời gian vượt quá 0,5 s và tự động trở về chế độ bình thường khi điện áp của nguồn bình thường lớn hơn 85% điện áp danh định.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1132,
+    "line_end": 1132,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-12",
+    "anchor": "muc-2-3-8-12",
+    "title": "2.3.8.12  Nguồn điện sử dụng cho chiếu sáng khẩn cấp phải được kiểm soát tại tủ phân phối. Quy định này không áp dụng cho pin, ắcqui tự nạp.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1136,
+    "line_end": 1136,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-13",
+    "anchor": "muc-2-3-8-13",
+    "title": "2.3.8.13  Trong hệ thống chiếu sáng khẩn cấp, các loại đèn phải tương thích với thời gian chuyển đổi để duy trì mức chiếu sáng quy định.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1140,
+    "line_end": 1140,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-14",
+    "anchor": "muc-2-3-8-14",
+    "title": "2.3.8.14  Tại vị trí đóng cắt trung tâm phải lắp đặt thiết bị giám sát và điều khiển nguồn cấp điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1144,
+    "line_end": 1144,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-3-8-15",
+    "anchor": "muc-2-3-8-15",
+    "title": "2.3.8.15  Giá trị độ rọi nhỏ nhất chiếu sáng khẩn cấp trên bề mặt lối đi và cầu thang phải đạt 0,5 lx, ở các gian phòng, các khu vực để mở phải đạt 0,2 lx.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1148,
+    "line_end": 1148,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4",
+    "anchor": "muc-2-4",
+    "title": "2.4  Bảo vệ chống điện giật",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1152,
+    "line_end": 1152,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4-1",
+    "anchor": "muc-2-4-1",
+    "title": "2.4.1  Yêu cầu về bảo vệ chống điện giật do tiếp xúc trực tiếp",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1156,
+    "line_end": 1156,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4-1-1",
+    "anchor": "muc-2-4-1-1",
+    "title": "2.4.1.1  Bao bọc hoàn toàn các bộ phận mang điện bằng vật liệu cách điện đạt tiêu chuẩn sao cho chỉ tháo gỡ ra được bằng cách phá hủy.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1162,
+    "line_end": 1162,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4-1-2",
+    "anchor": "muc-2-4-1-2",
+    "title": "2.4.1.2  Dùng rào chắn hoặc vỏ bọc lắp cố định chắc chắn, đảm bảo độ bền cơ, được cách ly với các phần có điện phù hợp với điều kiện làm việc bình thường, có xét đến các ảnh hưởng từ bên ngoài và phải sử dụng đến dụng cụ hoặc chìa khóa mới có thể tháo ra được và có cấp bảo vệ thấp nhất là IPXXB hoặc IP2X để ngăn ngừa mọi tiếp xúc của con người, vật nuôi với phần có điện. Trường hợp có những lỗ mở để thay thế một phần thiết bị thì phải có các biện pháp ngăn ngừa tiếp xúc vô ý với phần có điện, đồng thời phải có cảnh báo để tránh chạm phải phần có điện;",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1166,
+    "line_end": 1166,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4-1-3",
+    "anchor": "muc-2-4-1-3",
+    "title": "2.4.1.3  Sử dụng vật cản có thể tháo ra được, nhưng không thể bị di chuyển ngẫu nhiên để bảo vệ những nơi có người qua lại hoặc làm việc có thể vô ý tiếp xúc với vật mang điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1174,
+    "line_end": 1174,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4-2",
+    "anchor": "muc-2-4-2",
+    "title": "2.4.2  Yêu cầu về bảo vệ chống điện giật do tiếp xúc gián tiếp",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1178,
+    "line_end": 1178,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4-2-1",
+    "anchor": "muc-2-4-2-1",
+    "title": "2.4.2.1  Phải lắp đặt thiết bị bảo vệ quá dòng điện để tự động cắt mạch điện khi có sự cố.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1182,
+    "line_end": 1182,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4-2-2",
+    "anchor": "muc-2-4-2-2",
+    "title": "2.4.2.2  Đối với sơ đồ TT và TN-S phải lắp đặt RCD để bảo vệ chống sự cố chạm vỏ.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1186,
+    "line_end": 1186,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4-2-3",
+    "anchor": "muc-2-4-2-3",
+    "title": "2.4.2.3  Phải có biện pháp đảm bảo an toàn để tránh bị tai nạn điện giật đối với người theo điều kiện",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1190,
+    "line_end": 1190,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "formula-1",
+    "anchor": "formula-1",
+    "title": "$$R_{A} \\times I_{a} \\le 50 \\qquad (1)$$",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1194,
+    "line_end": 1194,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4-2-4",
+    "anchor": "muc-2-4-2-4",
+    "title": "2.4.2.4  Phải nối vỏ kim loại của thiết bị với dây PE theo các điều kiện quy định cho từng loại sơ đồ nối đất tại Phụ lục Đ.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1207,
+    "line_end": 1207,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4-2-5",
+    "anchor": "muc-2-4-2-5",
+    "title": "2.4.2.5  Phải nối liên kết đẳng thế bảo vệ của nhà với dây PE, dây dẫn nối đất hoặc cực nối đất, các phần tử dẫn điện bên ngoài. Dây dẫn dùng để liên kết đẳng thế bảo vệ phải phù hợp với quy định tại mục 2.2.6.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1211,
+    "line_end": 1211,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4-2-6",
+    "anchor": "muc-2-4-2-6",
+    "title": "2.4.2.6  Bảo vệ bổ sung:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1215,
+    "line_end": 1215,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "formula-2",
+    "anchor": "formula-2",
+    "title": "$$R \\le \\frac{50}{I_a} \\qquad (2)$$",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1223,
+    "line_end": 1223,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4-2-7",
+    "anchor": "muc-2-4-2-7",
+    "title": "2.4.2.7  Bảo vệ bằng tách biệt về điện phải đáp ứng các điều kiện sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1236,
+    "line_end": 1236,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-03",
+    "anchor": "bang-bang-03",
+    "title": "Bảng 3 - Thời gian cắt lớn nhất áp dụng cho các mạch cuối có dòng điện danh định không quá 32 A",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1270,
+    "line_end": 1270,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-4-2-8",
+    "anchor": "muc-2-4-2-8",
+    "title": "2.4.2.8  Điện trở nối đất phải đảm bảo để thiết bị bảo vệ quá dòng điện và RCD làm việc có hiệu quả.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1279,
+    "line_end": 1279,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5",
+    "anchor": "muc-2-5",
+    "title": "2.5  Bảo vệ chống tác động nhiệt",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1283,
+    "line_end": 1283,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-1",
+    "anchor": "muc-2-5-1",
+    "title": "2.5.1  Yêu cầu chung",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1287,
+    "line_end": 1287,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-2",
+    "anchor": "muc-2-5-2",
+    "title": "2.5.2  Yêu cầu đối với bảo vệ chống cháy do thiết bị điện và dây dẫn điện gây ra",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1293,
+    "line_end": 1293,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-2-1",
+    "anchor": "muc-2-5-2-1",
+    "title": "2.5.2.1  Thiết bị điện có khả năng tạo ra nhiệt độ bề mặt gây nguy hiểm cháy cho các vật liệu, vật dụng liền kề khi thiết kế, lắp đặt cố định phải tuân thủ một trong các yêu cầu sau đây:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1297,
+    "line_end": 1297,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-2-2",
+    "anchor": "muc-2-5-2-2",
+    "title": "2.5.2.2  Khi thiết kế, lắp đặt hệ thống điện nhà phải:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1307,
+    "line_end": 1307,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-2-3",
+    "anchor": "muc-2-5-2-3",
+    "title": "2.5.2.3  Thiết bị điện, dây dẫn điện có khả năng tạo hồ quang hoặc tia lửa điện trong vận hành bình thường, khi nối cố định phải đáp ứng một trong các yêu cầu sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1317,
+    "line_end": 1317,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-2-4",
+    "anchor": "muc-2-5-2-4",
+    "title": "2.5.2.4  Thiết bị điện có khả năng gây ra tình trạng tập trung nhiệt hoặc tích tụ nhiệt phải có khoảng cách đủ lớn đến các vật ở liền kề hoặc các phần tử của nhà để trong điều kiện vận hành bình thường không tạo ra nhiệt độ nguy hiểm cho các vật và phần tử của nhà.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1327,
+    "line_end": 1327,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-2-5",
+    "anchor": "muc-2-5-2-5",
+    "title": "2.5.2.5  Đối với các thiết bị điện có chứa từ 25 l chất lỏng dễ cháy trở lên đặt ở cùng một nơi phải thực hiện các biện pháp để ngăn chặn cháy chất lỏng đó và không cho ngọn lửa, khói, khí độc do cháy lan tỏa sang các bộ phận khác của nhà; cắt được điện nhanh nhất khi xảy ra cháy.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1331,
+    "line_end": 1331,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-2-6",
+    "anchor": "muc-2-5-2-6",
+    "title": "2.5.2.6  Các vật liệu được lắp đặt để che chắn xung quanh thiết bị điện phải là các vật liệu có độ dẫn nhiệt thấp, khó cháy, chịu được nhiệt độ cao nhất mà thiết bị điện đó có thể tạo ra.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1335,
+    "line_end": 1335,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-3",
+    "anchor": "muc-2-5-3",
+    "title": "2.5.3  Các biện pháp bảo vệ chống cháy từ bên ngoài",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1339,
+    "line_end": 1339,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-3-1",
+    "anchor": "muc-2-5-3-1",
+    "title": "2.5.3.1  Các vị trí của hệ thống điện nhà bị ảnh hưởng các điều kiện cháy từ bên ngoài phải tuân thủ các yêu cầu có liên quan quy định tại các mục 2.5.1 và 2.5.2.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1343,
+    "line_end": 1343,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-3-2",
+    "anchor": "muc-2-5-3-2",
+    "title": "2.5.3.2  Việc thiết kế, lắp đặt hệ thống điện nhà phải áp dụng các biện pháp bảo vệ phù hợp với các điều kiện thoát hiểm an toàn của từng khu vực (khu vực có mật độ người thấp, điều kiện thoát khó ký hiệu là KV1; khu vực có mật độ người cao, điều kiện thoát dễ ký hiệu là KV2; khu vực có mật độ người cao, điều kiện thoát khó ký hiệu là KV3) trong các trường hợp khẩn cấp.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1347,
+    "line_end": 1347,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-3-3",
+    "anchor": "muc-2-5-3-3",
+    "title": "2.5.3.3  Trong các khu vực KV2 và KV3, các thiết bị đóng cắt, điều khiển và bảo vệ (trừ các thiết bị điện phục vụ cho việc sơ tán, thoát hiểm) phải bố trí sao cho chỉ những người có trách nhiệm mới tiếp cận được. Trường hợp các thiết bị này lắp đặt trong phạm vi lối đi lại, thì chúng phải được đặt trong tủ hoặc hộp kín bằng các vật liệu không cháy hoặc khó cháy.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1359,
+    "line_end": 1359,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-3-4",
+    "anchor": "muc-2-5-3-4",
+    "title": "2.5.3.4  Trong các khu vực KV2, KV3 và trong các lối thoát hiểm, không được sử dụng các thiết bị điện có chứa các chất lỏng dễ cháy, trừ trường hợp các bộ phận này được bọc kín trong vỏ hoặc hộp chống cháy. Các tụ điện phụ trợ riêng lẻ lắp đặt trong thiết bị không thuộc đối tượng điều chỉnh của quy định này.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1363,
+    "line_end": 1363,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-3-5",
+    "anchor": "muc-2-5-3-5",
+    "title": "2.5.3.5  Đối với khu vực có rủi ro cao về cháy:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1367,
+    "line_end": 1367,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-4",
+    "anchor": "muc-2-5-4",
+    "title": "2.5.4  Yêu cầu về bảo vệ chống bỏng do điện",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1391,
+    "line_end": 1391,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-4-1",
+    "anchor": "muc-2-5-4-1",
+    "title": "2.5.4.1  Nhiệt độ của các bộ phận chạm tới được của thiết bị điện nằm trong tầm với của người không được đạt tới nhiệt độ có thể gây bỏng cho người và được quy định như sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1395,
+    "line_end": 1395,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-4-2",
+    "anchor": "muc-2-5-4-2",
+    "title": "2.5.4.2  Tất cả các bộ phận của hệ thống điện nhà có khả năng đạt tới nhiệt độ vượt quá các giới hạn nêu tại mục 2.5.4.1 đều phải được bảo vệ để tránh tiếp xúc ngẫu nhiên gây bỏng cho người.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1405,
+    "line_end": 1405,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-5",
+    "anchor": "muc-2-5-5",
+    "title": "2.5.5  Yêu cầu về bảo vệ chống quá nhiệt ở những nơi tạo nhiệt",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1409,
+    "line_end": 1409,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-5-1",
+    "anchor": "muc-2-5-5-1",
+    "title": "2.5.5.1  Các hệ thống sấy nóng không khí cưỡng bức phải đáp ứng các yêu cầu sau đây:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1413,
+    "line_end": 1413,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-5-2",
+    "anchor": "muc-2-5-5-2",
+    "title": "2.5.5.2  Khung, vỏ của các phần tử gia nhiệt phải làm bằng vật liệu không cháy.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1421,
+    "line_end": 1421,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-5-3",
+    "anchor": "muc-2-5-5-3",
+    "title": "2.5.5.3  Các thiết bị tạo nước nóng hoặc hơi nóng đều phải có thiết bị, phương tiện bảo vệ chống quá nhiệt trong mọi điều kiện làm việc. Trường hợp không đáp ứng yêu cầu này thì phải thực hiện bảo vệ chống quá nhiệt bằng một cơ cấu không tự trở về, hoạt động độc lập với bộ điều chỉnh nhiệt độ.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1425,
+    "line_end": 1425,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-5-5-4",
+    "anchor": "muc-2-5-5-4",
+    "title": "2.5.5.4  Thiết bị tạo nước nóng hoặc hơi nóng có hạn chế đầu ra phải có thêm cơ cấu khống chế áp suất nước ở bên trong.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1429,
+    "line_end": 1429,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6",
+    "anchor": "muc-2-6",
+    "title": "2.6  Bảo vệ chống quá dòng điện",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1433,
+    "line_end": 1433,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-1",
+    "anchor": "muc-2-6-1",
+    "title": "2.6.1  Các yêu cầu chung",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1437,
+    "line_end": 1437,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-1-1",
+    "anchor": "muc-2-6-1-1",
+    "title": "2.6.1.1  Hệ thống điện nhà phải có thiết bị bảo vệ cắt được mọi trạng thái quá dòng điện chạy trong các dây dẫn trước khi gây ra nguy hiểm do các hiệu ứng nhiệt và cơ.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1441,
+    "line_end": 1441,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-1-2",
+    "anchor": "muc-2-6-1-2",
+    "title": "2.6.1.2  Dây dẫn tải điện phải được bảo vệ bằng thiết bị có khả năng tự động cắt nguồn cấp khi dây này bị quá tải và ngắn mạch, trừ trường hợp quá dòng điện được hạn chế bằng các đặc tính của nguồn cấp.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1445,
+    "line_end": 1445,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-2",
+    "anchor": "muc-2-6-2",
+    "title": "2.6.2  Yêu cầu về bảo vệ chống quá dòng điện",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1449,
+    "line_end": 1449,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-2-1",
+    "anchor": "muc-2-6-2-1",
+    "title": "2.6.2.1  Phải căn cứ vào loại sơ đồ nối đất được áp dụng để xem xét, xác định biện pháp bảo vệ chống quá dòng điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1453,
+    "line_end": 1453,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-2-2",
+    "anchor": "muc-2-6-2-2",
+    "title": "2.6.2.2  Bảo vệ dây pha",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1457,
+    "line_end": 1457,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-2-3",
+    "anchor": "muc-2-6-2-3",
+    "title": "2.6.2.3  Bảo vệ dây trung tính",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1463,
+    "line_end": 1463,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-3",
+    "anchor": "muc-2-6-3",
+    "title": "2.6.3  Yêu cầu về bảo vệ chống quá tải",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1479,
+    "line_end": 1479,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-3-1",
+    "anchor": "muc-2-6-3-1",
+    "title": "2.6.3.1  Trong hệ thống điện nhà phải sử dụng thiết bị bảo vệ chống quá tải đáp ứng đồng thời hai điều kiện sau đây:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1483,
+    "line_end": 1483,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "formula-3",
+    "anchor": "formula-3",
+    "title": "$$I_{B} \\le I_{n} \\le I_{z} \\qquad (3)$$",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1487,
+    "line_end": 1487,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "formula-4",
+    "anchor": "formula-4",
+    "title": "$$\\text{và } I_{2} \\le 1,45 \\times I_{z} \\qquad (4)$$",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1492,
+    "line_end": 1492,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-3-2",
+    "anchor": "muc-2-6-3-2",
+    "title": "2.6.3.2  Vị trí lắp đặt thiết bị bảo vệ chống quá tải:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1507,
+    "line_end": 1507,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-4",
+    "anchor": "muc-2-6-4",
+    "title": "2.6.4  Yêu cầu về bảo vệ chống quá tải đối với các dây dẫn song song",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1519,
+    "line_end": 1519,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-4-1",
+    "anchor": "muc-2-6-4-1",
+    "title": "2.6.4.1  Nếu chỉ có một thiết bị bảo vệ cho nhiều dây dẫn song song thì không được có các mạch rẽ, thiết bị cách ly hoặc đóng cắt trên các dây dẫn song song đó.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1523,
+    "line_end": 1523,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-4-2",
+    "anchor": "muc-2-6-4-2",
+    "title": "2.6.4.2  Trường hợp chỉ có một thiết bị bảo vệ nhiều dây dẫn song song có dòng điện trong các dây dẫn được coi là phân bố đều (nếu chênh lệch giữa các dòng điện trong các dây dẫn bất kỳ với dòng điện thiết kế cho mỗi dây dẫn không lớn hơn 10 %), thì giá trị Iz nêu tại mục 2.6.3.1 là tổng khả năng tải dòng điện của các dây dẫn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1527,
+    "line_end": 1527,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-4-3",
+    "anchor": "muc-2-6-4-3",
+    "title": "2.6.4.3  Trường hợp phải sử dụng nhiều dây dẫn trong một pha và dòng điện trong các dây dẫn không đều nhau thì dòng điện thiết kế và yêu cầu bảo vệ quá tải cho mỗi dây phải được tính toán cụ thể và xem xét riêng.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1531,
+    "line_end": 1531,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-5",
+    "anchor": "muc-2-6-5",
+    "title": "2.6.5  Yêu cầu về bảo vệ chống ngắn mạch",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1535,
+    "line_end": 1535,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-5-1",
+    "anchor": "muc-2-6-5-1",
+    "title": "2.6.5.1  Dòng điện ngắn mạch dự kiến ở từng điểm liên quan của hệ thống điện nhà phải xác định qua tính toán hoặc qua đo lường.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1539,
+    "line_end": 1539,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-5-2",
+    "anchor": "muc-2-6-5-2",
+    "title": "2.6.5.2  Vị trí lắp đặt thiết bị bảo vệ chống ngắn mạch",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1543,
+    "line_end": 1543,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-5-3",
+    "anchor": "muc-2-6-5-3",
+    "title": "2.6.5.3  Bảo vệ chống ngắn mạch các dây dẫn song song",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1553,
+    "line_end": 1553,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-5-4",
+    "anchor": "muc-2-6-5-4",
+    "title": "2.6.5.4  Thiết bị bảo vệ chống ngắn mạch phải đáp ứng các đặc tính sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1571,
+    "line_end": 1571,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "formula-5",
+    "anchor": "formula-5",
+    "title": "$$t = \\left(\\frac{k \\times S}{I}\\right)^{2} \\qquad (5)$$",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1587,
+    "line_end": 1587,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-6",
+    "anchor": "muc-2-6-6",
+    "title": "2.6.6  Yêu cầu về phối hợp bảo vệ chống quá tải và chống ngắn mạch",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1604,
+    "line_end": 1604,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-6-1",
+    "anchor": "muc-2-6-6-1",
+    "title": "2.6.6.1  Bảo vệ bằng cùng một thiết bị (chống quá tải đồng thời chống ngắn mạch) phải đáp ứng đồng thời các quy định nêu tại các mục 2.6.3 và 2.6.5.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1608,
+    "line_end": 1608,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-6-2",
+    "anchor": "muc-2-6-6-2",
+    "title": "2.6.6.2  Bảo vệ bằng các thiết bị riêng biệt",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1612,
+    "line_end": 1612,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-6-7",
+    "anchor": "muc-2-6-7",
+    "title": "2.6.7  Hạn chế quá dòng bằng các đặc tính của nguồn cấp điện",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1620,
+    "line_end": 1620,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7",
+    "anchor": "muc-2-7",
+    "title": "2.7  Bảo vệ chống nhiễu điện áp và nhiễu điện từ",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1626,
+    "line_end": 1626,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-1",
+    "anchor": "muc-2-7-1",
+    "title": "2.7.1  Yêu cầu về bảo vệ chống quá điện áp tạm thời do chạm đất",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1630,
+    "line_end": 1630,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-1-1",
+    "anchor": "muc-2-7-1-1",
+    "title": "2.7.1.1  Phải thực hiện các biện pháp để giảm thiểu ảnh hưởng đến hệ thống điện nhà của điện áp sự cố tần số công nghiệp (là điện áp giữa các vỏ kim loại của thiết bị và đất, ký hiệu là Uf) và các điện áp chịu đựng (còn gọi là điện áp ứng suất - stress voltage) tần số công nghiệp (là điện áp giữa dây dẫn pha với vỏ kim loại của thiết bị tại trạm biến áp, ký hiệu là U1 và giữa dây dẫn pha với vỏ kim loại của thiết bị trong hệ thống điện nhà, ký hiệu là U2) khi có sự cố ngắn mạch phía cao áp (thể hiện tại Phụ lục I).",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1634,
+    "line_end": 1634,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-1-2",
+    "anchor": "muc-2-7-1-2",
+    "title": "2.7.1.2  Trị số và thời gian tồn tại của Uf không được lớn hơn trị số điện áp được xác định bởi đường cong Uf(t) tại Phụ lục K.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1638,
+    "line_end": 1638,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-1-3",
+    "anchor": "muc-2-7-1-3",
+    "title": "2.7.1.3  Trị số và thời gian tồn tại của U1 và U2 không được lớn hơn trị số cho trong Bảng K.1 của Phụ lục K.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1642,
+    "line_end": 1642,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-1-4",
+    "anchor": "muc-2-7-1-4",
+    "title": "2.7.1.4  Trường hợp U1 và U2 lớn hơn các trị số nêu trong Bảng K.1 của Phụ lục K thì phải thực hiện các biện pháp sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1646,
+    "line_end": 1646,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-2",
+    "anchor": "muc-2-7-2",
+    "title": "2.7.2  Yêu cầu đối với bảo vệ chống quá điện áp xung",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1656,
+    "line_end": 1656,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-2-1",
+    "anchor": "muc-2-7-2-1",
+    "title": "2.7.2.1  Điện áp chịu xung danh định của thiết bị điện không được nhỏ hơn mức điện áp chịu xung yêu cầu quy định tại Phụ lục L.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1660,
+    "line_end": 1660,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-2-2",
+    "anchor": "muc-2-7-2-2",
+    "title": "2.7.2.2  Các thiết bị điện ở điểm đầu của hệ thống điện nhà (từ tủ phân phối điện chính) phải có khả năng chịu điện áp xung cấp IV (quá điện áp cấp IV) với biên độ lớn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1664,
+    "line_end": 1664,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-2-3",
+    "anchor": "muc-2-7-2-3",
+    "title": "2.7.2.3  Các thiết bị đóng cắt, dây dẫn, thanh góp, hộp nối của hệ thống điện nhà lắp đặt cố định từ tủ phân phối điện chính đến các thiết bị về phía tải phải có khả năng chịu điện áp xung cấp III (quá điện áp cấp III).",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1668,
+    "line_end": 1668,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-2-4",
+    "anchor": "muc-2-7-2-4",
+    "title": "2.7.2.4  Thiết bị sử dụng điện lắp đặt cố định không có yêu cầu đặc biệt về độ sẵn sàng phải có khả năng chịu điện áp xung cấp II (quá điện áp cấp II).",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1672,
+    "line_end": 1672,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-2-5",
+    "anchor": "muc-2-7-2-5",
+    "title": "2.7.2.5  Các thiết bị có chứa mạch điện tử, trong đó các biện pháp bảo vệ phải được thực hiện ngoài thiết bị và không được đấu nối cố định vào lưới điện công cộng phải có khả năng chịu điện áp xung cấp I (quá điện áp cấp I).",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1676,
+    "line_end": 1676,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-2-6",
+    "anchor": "muc-2-7-2-6",
+    "title": "2.7.2.6  Phải lắp đặt thiết bị bảo vệ chống quá điện áp để ngăn chặn các hậu quả liên quan đến sinh mạng con người, dịch vụ công cộng, các hoạt động thương mại.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1680,
+    "line_end": 1680,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-2-7",
+    "anchor": "muc-2-7-2-7",
+    "title": "2.7.2.7  Trường hợp hệ thống điện nhà được cấp điện từ một hệ thống có đường dây trên không (trừ các cáp có vỏ bọc và có lớp bảo vệ kim loại nối đất) và số ngày giông sét lớn hơn 25 ngày/năm thì phải lắp đặt thiết bị chống quá điện áp khí quyển với mức bảo vệ không được cao hơn mức quá điện áp cấp II.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1684,
+    "line_end": 1684,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-3",
+    "anchor": "muc-2-7-3",
+    "title": "2.7.3  Yêu cầu về bảo vệ chống sụt điện áp",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1688,
+    "line_end": 1688,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-3-1",
+    "anchor": "muc-2-7-3-1",
+    "title": "2.7.3.1  Phải có biện pháp phòng ngừa thích hợp trong trường hợp sụt hoặc mất điện áp và sau đó phục hồi trở lại, có thể gây ra nguy hiểm cho người và thiết bị.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1692,
+    "line_end": 1692,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-3-2",
+    "anchor": "muc-2-7-3-2",
+    "title": "2.7.3.2  Khi đóng điện trở lại mà gây nguy hiểm thì không được đóng tự động.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1696,
+    "line_end": 1696,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-4",
+    "anchor": "muc-2-7-4",
+    "title": "2.7.4  Các biện pháp chống ảnh hưởng điện từ",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1700,
+    "line_end": 1700,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-4-1",
+    "anchor": "muc-2-7-4-1",
+    "title": "2.7.4.1  Các biện pháp giảm ảnh hưởng điện từ gồm:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1704,
+    "line_end": 1704,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-7-4-2",
+    "anchor": "muc-2-7-4-2",
+    "title": "2.7.4.2  Phải sử dụng nối đất và liên kết đẳng thế để chống nhiễu điện từ cho mạch điện có số lượng lớn thiết bị thông tin, ứng dụng quan trọng.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1722,
+    "line_end": 1722,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8",
+    "anchor": "muc-2-8",
+    "title": "2.8  Bảo vệ chống sét",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1726,
+    "line_end": 1726,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-1",
+    "anchor": "muc-2-8-1",
+    "title": "2.8.1  Các yêu cầu chung",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1730,
+    "line_end": 1730,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-1-1",
+    "anchor": "muc-2-8-1-1",
+    "title": "2.8.1.1  LPS (gồm LPS bên trong và LPS bên ngoài) phải đáp ứng yêu cầu bảo vệ chống sét đánh trực tiếp vào nhà.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1734,
+    "line_end": 1734,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-1-2",
+    "anchor": "muc-2-8-1-2",
+    "title": "2.8.1.2  Phải căn cứ vào vị trí có khả năng bị sét đánh và mức độ thiệt hại do sét đánh để quyết định sự cần thiết chống sét cho nhà.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1738,
+    "line_end": 1738,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-1-3",
+    "anchor": "muc-2-8-1-3",
+    "title": "2.8.1.3  Phải tận dụng các kết cấu kim loại của công trình cho LPS để giảm chi phí, nhưng không được làm ảnh hưởng đến chất lượng và mỹ quan của công trình.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1742,
+    "line_end": 1742,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-1-4",
+    "anchor": "muc-2-8-1-4",
+    "title": "2.8.1.4  Toàn bộ tòa nhà phải được bảo vệ bằng một LPS kết nối hoàn chỉnh với nhau, không có bộ phận nào của công trình được tách ra để bảo vệ riêng.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1746,
+    "line_end": 1746,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-2",
+    "anchor": "muc-2-8-2",
+    "title": "2.8.2  LPS bên ngoài",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1750,
+    "line_end": 1750,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-2-1",
+    "anchor": "muc-2-8-2-1",
+    "title": "2.8.2.1  Vùng bảo vệ được xác định theo phương pháp quả cầu lăn. Trường hợp chiều cao nhà thấp hơn 20m, thì xác định theo phương pháp góc bảo vệ.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1754,
+    "line_end": 1754,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-2-2",
+    "anchor": "muc-2-8-2-2",
+    "title": "2.8.2.2  LPS bên ngoài gồm các bộ phận: thu sét, dây dẫn xuống đất và mạng nối đất chống sét (gồm các điện cực ngang hoặc đứng được liên kết với nhau).",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1758,
+    "line_end": 1758,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-2-3",
+    "anchor": "muc-2-8-2-3",
+    "title": "2.8.2.3  Phải sử dụng LPS cách ly về nhiệt với nhà khi có khả năng xảy ra phát nhiệt và cháy nổ tại nơi thu và dẫn sét.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1762,
+    "line_end": 1762,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-2-4",
+    "anchor": "muc-2-8-2-4",
+    "title": "2.8.2.4  Phải bố trí bộ phận thu sét (là các kim thu sét hoặc lưới thu sét hoặc kết hợp cả hai) đáp ứng các yêu cầu sau đây:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1766,
+    "line_end": 1766,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-2-5",
+    "anchor": "muc-2-8-2-5",
+    "title": "2.8.2.5  Dây dẫn xuống đất phải đáp ứng các yêu cầu sau đây:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1774,
+    "line_end": 1774,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-04",
+    "anchor": "bang-bang-04",
+    "title": "Bảng 4 - Khoảng cách lớn nhất giữa các dây dẫn xuống đất theo cấp của LPS",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1782,
+    "line_end": 1782,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-2-6",
+    "anchor": "muc-2-8-2-6",
+    "title": "2.8.2.6  Mạng nối đất chống sét phải đáp ứng các yêu cầu sau đây:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1795,
+    "line_end": 1795,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-2-7",
+    "anchor": "muc-2-8-2-7",
+    "title": "2.8.2.7  Vật liệu và kích thước các phần tử của LPS bên ngoài phải phù hợp với các yêu cầu quy định tại Phụ lục M.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1805,
+    "line_end": 1805,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-3",
+    "anchor": "muc-2-8-3",
+    "title": "2.8.3  LPS bên trong",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1809,
+    "line_end": 1809,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-3-1",
+    "anchor": "muc-2-8-3-1",
+    "title": "2.8.3.1  LPS bên trong gồm các phần tử của mạng liên kết đẳng thế, SPD, các màn chắn từ.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1813,
+    "line_end": 1813,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-3-2",
+    "anchor": "muc-2-8-3-2",
+    "title": "2.8.3.2  LPS bên trong phải được thực hiện bằng một trong các giải pháp sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1817,
+    "line_end": 1817,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-3-3",
+    "anchor": "muc-2-8-3-3",
+    "title": "2.8.3.3  Các giải pháp chống sét khác",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1831,
+    "line_end": 1831,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-4",
+    "anchor": "muc-2-8-4",
+    "title": "2.8.4  Tòa nhà cao trên 60 m",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1839,
+    "line_end": 1839,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-4-1",
+    "anchor": "muc-2-8-4-1",
+    "title": "2.8.4.1  Phải lắp đặt bộ phận thu sét để bảo vệ phần chiều cao phía trên 60 m của tòa nhà và thiết bị lắp đặt trên đó (đặc biệt phần 20 % trên cùng chiều cao tòa nhà khi phần này nằm ở độ cao cách mặt đất quá 60 m).",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1843,
+    "line_end": 1843,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-4-2",
+    "anchor": "muc-2-8-4-2",
+    "title": "2.8.4.2  Vị trí lắp đặt bộ phận thu sét ở phần cao trên 60 m của tòa nhà phải đáp ứng mức bảo vệ chống sét ít nhất là cấp IV.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1847,
+    "line_end": 1847,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-4-3",
+    "anchor": "muc-2-8-4-3",
+    "title": "2.8.4.3  Trường hợp tận dụng các kết cấu kim loại có sẵn bên ngoài nhà để làm bộ phận thu sét thì kích thước của chúng phải đáp ứng các yêu cầu quy định tại Phụ lục M.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1851,
+    "line_end": 1851,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-5",
+    "anchor": "muc-2-8-5",
+    "title": "2.8.5  Nhà có chứa các vật liệu dễ cháy nổ hoặc có các khu vực nguy hiểm (hazardous areas)",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1855,
+    "line_end": 1855,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-6",
+    "anchor": "muc-2-8-6",
+    "title": "2.8.6  Nhà có ăng-ten",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1861,
+    "line_end": 1861,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-8-7",
+    "anchor": "muc-2-8-7",
+    "title": "2.8.7  Lắp dựng kết cấu",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1867,
+    "line_end": 1867,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-9",
+    "anchor": "muc-2-9",
+    "title": "2.9  Đấu nối các nguồn điện riêng",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1873,
+    "line_end": 1873,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-9-1",
+    "anchor": "muc-2-9-1",
+    "title": "2.9.1  Các yêu cầu chung",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1877,
+    "line_end": 1877,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-9-1-1",
+    "anchor": "muc-2-9-1-1",
+    "title": "2.9.1.1  Khi đấu nối nguồn điện riêng (ngoài lưới điện công cộng) vào hệ thống điện nhà phải đáp ứng các yêu cầu về an toàn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1881,
+    "line_end": 1881,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-9-1-2",
+    "anchor": "muc-2-9-1-2",
+    "title": "2.9.1.2  Việc đấu nối nguồn điện riêng được quy định cho các trường hợp sau đây:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1885,
+    "line_end": 1885,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-9-2",
+    "anchor": "muc-2-9-2",
+    "title": "2.9.2  Yêu cầu an toàn khi cấp điện từ các nguồn điện riêng",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1893,
+    "line_end": 1893,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-9-2-1",
+    "anchor": "muc-2-9-2-1",
+    "title": "2.9.2.1  Tần số, điện áp, thứ tự pha của nguồn điện riêng đấu nối vào hệ thống điện nhà phải phù hợp với tần số, điện áp và thứ tự pha (đối với nguồn điện ba pha) của hệ thống điện nhà. Khi đưa các nguồn điện vào làm việc song song thì phải đáp ứng thêm điều kiện về góc lệch pha giữa điện áp của các nguồn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1897,
+    "line_end": 1897,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-9-2-2",
+    "anchor": "muc-2-9-2-2",
+    "title": "2.9.2.2  Dòng ngắn mạch, dòng chạm đất dự kiến và thiết bị bảo vệ chống ngắn mạch trong hệ thống điện nhà phải phù hợp với từng trường hợp nêu tại mục 2.9.1.2.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1901,
+    "line_end": 1901,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-9-2-3",
+    "anchor": "muc-2-9-2-3",
+    "title": "2.9.2.3  Phải có biện pháp để cắt giảm một phần phụ tải của hệ thống điện nhà khi nguồn điện riêng bị quá tải.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1905,
+    "line_end": 1905,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-9-3",
+    "anchor": "muc-2-9-3",
+    "title": "2.9.3  Biện pháp an toàn khi chuyển sang nguồn điện dự phòng",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1909,
+    "line_end": 1909,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-9-3-1",
+    "anchor": "muc-2-9-3-1",
+    "title": "2.9.3.1  Nguồn điện dự phòng là nguồn điện để duy trì cấp điện cho toàn bộ hoặc một phần của hệ thống điện nhà khi nguồn cấp điện bình thường bị gián đoạn.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1913,
+    "line_end": 1913,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-9-3-2",
+    "anchor": "muc-2-9-3-2",
+    "title": "2.9.3.2  Phải có biện pháp phòng chống thao tác nhầm khi chuyển đổi nguồn điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1917,
+    "line_end": 1917,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-9-4",
+    "anchor": "muc-2-9-4",
+    "title": "2.9.4  Yêu cầu về tách dây trung tính",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1921,
+    "line_end": 1921,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-9-5",
+    "anchor": "muc-2-9-5",
+    "title": "2.9.5  Bảo vệ quá tải đối với máy phát điện dự phòng cho bơm chữa cháy",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1927,
+    "line_end": 1927,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10",
+    "anchor": "muc-2-10",
+    "title": "2.10  Trang bị điện trong các khu vực đặc biệt",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1933,
+    "line_end": 1933,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-1",
+    "anchor": "muc-2-10-1",
+    "title": "2.10.1  Yêu cầu chung",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1937,
+    "line_end": 1937,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-2",
+    "anchor": "muc-2-10-2",
+    "title": "2.10.2  Yêu cầu đối với khu vực có bồn tắm hoặc vòi hoa sen",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1943,
+    "line_end": 1943,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-2-1",
+    "anchor": "muc-2-10-2-1",
+    "title": "2.10.2.1  Hệ thống điện nhà tại nơi đặt bồn tắm, vòi hoa sen và không gian lân cận phải được thiết kế, lắp đặt phù hợp với yêu cầu về đảm bảo an toàn điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1947,
+    "line_end": 1947,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-2-2",
+    "anchor": "muc-2-10-2-2",
+    "title": "2.10.2.2  Việc phân loại thành ba vùng 0, 1 và 2 theo mức độ nguy hiểm về điện quy định tại các Hình N.1 và N.2 của Phụ lục N.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1951,
+    "line_end": 1951,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-2-3",
+    "anchor": "muc-2-10-2-3",
+    "title": "2.10.2.3  Khi sử dụng ELV được cấp từ nguồn SELV hoặc PELV, phải bảo vệ chống tiếp xúc trực tiếp với tất cả các thiết bị điện bằng tấm chắn hay vỏ ngoài có cấp bảo vệ thấp nhất là IPXXB hoặc IP2X; bọc cách điện chịu được điện áp thử nghiệm có giá trị hiệu dụng 500 V xoay chiều trong 1 min. Không cho phép bảo vệ chống tiếp xúc trực tiếp bằng chướng ngại vật hoặc đặt ngoài giới hạn thể tích trong tầm với.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1955,
+    "line_end": 1955,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-2-4",
+    "anchor": "muc-2-10-2-4",
+    "title": "2.10.2.4  Phải thực hiện các biện pháp bảo vệ bổ sung bằng liên kết đẳng thế phụ, sử dụng RCD với dòng tác động danh định không lớn hơn 30 mA cho tất cả các mạch điện, trừ trường hợp mạch điện được cách ly về điện chỉ cấp điện cho một thiết bị duy nhất và sử dụng nguồn SELV hoặc PELV.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1959,
+    "line_end": 1959,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-2-5",
+    "anchor": "muc-2-10-2-5",
+    "title": "2.10.2.5  Cấp bảo vệ của thiết bị điện (theo Phụ lục B) lắp đặt trong vùng 0 phải là IPX7; trong các vùng 1 và 2 là IPX4. Trường hợp trong các vùng 1 và 2 mà tia nước có thể phun vào thì phải là IPX5.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1963,
+    "line_end": 1963,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-2-6",
+    "anchor": "muc-2-10-2-6",
+    "title": "2.10.2.6  Đường dẫn điện cấp cho các thiết bị đặt trong các vùng 0, 1, 2 phải thực hiện như sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1967,
+    "line_end": 1967,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-2-7",
+    "anchor": "muc-2-10-2-7",
+    "title": "2.10.2.7  Thiết bị đóng cắt và điều khiển không được đặt trong vùng 0.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1975,
+    "line_end": 1975,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-2-8",
+    "anchor": "muc-2-10-2-8",
+    "title": "2.10.2.8  Trong vùng 1 phụ kiện, kể cả ổ cắm của mạch điện được cấp từ nguồn SELV hoặc nguồn PELV phải có điện áp danh định không lớn hơn 25 V. Nguồn cấp phải đặt ngoài các vùng 0 và 1.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1979,
+    "line_end": 1979,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-2-9",
+    "anchor": "muc-2-10-2-9",
+    "title": "2.10.2.9  Trong vùng 2 phụ kiện, kể cả ổ cắm của mạch điện phải được cấp từ nguồn SELV hoặc nguồn PELV. Nguồn cấp phải đặt ngoài các vùng 0 và 1.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1983,
+    "line_end": 1983,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-2-10",
+    "anchor": "muc-2-10-2-10",
+    "title": "2.10.2.10  Thiết bị sử dụng điện trong vùng 0 phải đáp ứng đồng thời các điều kiện sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1987,
+    "line_end": 1987,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-2-11",
+    "anchor": "muc-2-10-2-11",
+    "title": "2.10.2.11  Thiết bị sử dụng điện trong vùng 1 phải đáp ứng đồng thời các điều kiện sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1997,
+    "line_end": 1997,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3",
+    "anchor": "muc-2-10-3",
+    "title": "2.10.3  Yêu cầu đối với bể bơi và đài phun nước",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2005,
+    "line_end": 2005,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3-1",
+    "anchor": "muc-2-10-3-1",
+    "title": "2.10.3.1  Hệ thống điện nhà tại nơi có bể bơi, đài phun nước và các khu vực lân cận phải được thiết kế, lắp đặt phù hợp với các yêu cầu về an toàn điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2009,
+    "line_end": 2009,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3-2",
+    "anchor": "muc-2-10-3-2",
+    "title": "2.10.3.2  Việc phân loại thành ba vùng 0, 1 và 2 theo mức độ nguy hiểm về điện quy định tại các Hình N.3, N.4 và N.5 của Phụ lục N. Phòng đặt thiết bị của bể bơi được coi là ngoài vùng 1 và 2.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2013,
+    "line_end": 2013,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3-3",
+    "anchor": "muc-2-10-3-3",
+    "title": "2.10.3.3  Không được áp dụng biện pháp sử dụng vật cản, đặt ngoài giới hạn thể tích trong tầm với để bảo vệ chống điện giật do tiếp xúc trực tiếp. Không được dùng biện pháp bảo vệ bằng sàn, tường không dẫn điện, mạch vòng đẳng thế không nối đất, mạch điện tách biệt cấp điện cho nhiều thiết bị sử dụng điện.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2017,
+    "line_end": 2017,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3-4",
+    "anchor": "muc-2-10-3-4",
+    "title": "2.10.3.4  Phải nối tất cả các phần tử dẫn điện bên ngoài vào dây PE của các vỏ kim loại của thiết bị điện đặt trong các vùng 0, 1, 2 (vòng đẳng thế bổ sung tại chỗ). Trong các vùng 0 và 1 của các bể bơi phải sử dụng ELV không lớn hơn 12 V từ nguồn SELV đặt ngoài các vùng 0 và 1. Các trường hợp khác phải sử dụng điện áp siêu thấp, nguồn đặt ngoài các vùng 0 và 1 và chỉ cấp cho một thiết bị duy nhất, hoặc tự động cắt điện bằng RCD dòng điện tác động không lớn hơn 30 mA, hoặc bằng mạch điện tách biệt trong các vùng 0 và 1 của các đài phun nước và vùng 2 của các bể bơi.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2021,
+    "line_end": 2021,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3-5",
+    "anchor": "muc-2-10-3-5",
+    "title": "2.10.3.5  Không được dùng nguồn PELV cho bảo vệ bằng ELV. Khi sử dụng nguồn SELV, phải bảo vệ chống tiếp xúc trực tiếp với tất cả các thiết bị điện bằng tấm chắn hay vỏ ngoài có cấp bảo vệ thấp nhất là IP2X hoặc IPXXB; bọc cách điện chịu được điện áp thử nghiệm có giá trị hiệu dụng là 500 V xoay chiều trong 1 min.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2025,
+    "line_end": 2025,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3-6",
+    "anchor": "muc-2-10-3-6",
+    "title": "2.10.3.6  Phải nối dây bảo vệ mạch vòng đẳng thế của tất cả các phần tử dẫn điện bên ngoài hệ thống điện nhà có khả năng đưa điện thế từ ngoài vào các vùng 0, 1, 2 với dây PE của vỏ kim loại của thiết bị đặt trong các vùng đó.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2029,
+    "line_end": 2029,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3-7",
+    "anchor": "muc-2-10-3-7",
+    "title": "2.10.3.7  Phải sử dụng thiết bị điện có cấp bảo vệ tương ứng với mã IP (IP code) như quy định tại Bảng 5.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2033,
+    "line_end": 2033,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-05",
+    "anchor": "bang-bang-05",
+    "title": "Bảng 5 - Mã IP thấp nhất cho phép của thiết bị điện",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2037,
+    "line_end": 2037,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3-8",
+    "anchor": "muc-2-10-3-8",
+    "title": "2.10.3.8  Đường dẫn điện",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2047,
+    "line_end": 2047,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3-9",
+    "anchor": "muc-2-10-3-9",
+    "title": "2.10.3.9  Thiết bị đóng cắt, điều khiển",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2063,
+    "line_end": 2063,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3-10",
+    "anchor": "muc-2-10-3-10",
+    "title": "2.10.3.10  Các thiết bị khác của bể bơi",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2079,
+    "line_end": 2079,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3-11",
+    "anchor": "muc-2-10-3-11",
+    "title": "2.10.3.11  Các thiết bị điện ở các vùng 0 và 1 của đài phun nước phải được thiết kế và lắp đặt để không thể chạm vào được.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2115,
+    "line_end": 2115,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3-12",
+    "anchor": "muc-2-10-3-12",
+    "title": "2.10.3.12  Yêu cầu đặc biệt đối với việc lắp đặt thiết bị điện hạ áp trong vùng 1 của bể bơi",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2119,
+    "line_end": 2119,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-3-13",
+    "anchor": "muc-2-10-3-13",
+    "title": "2.10.3.13  Sưởi sàn và trần:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2133,
+    "line_end": 2133,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-4",
+    "anchor": "muc-2-10-4",
+    "title": "2.10.4  Yêu cầu đối với phòng hoặc cabin có chứa phần tử gia nhiệt sinh hơi",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2143,
+    "line_end": 2143,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-4-1",
+    "anchor": "muc-2-10-4-1",
+    "title": "2.10.4.1  Phải có biện pháp bảo đảm an toàn đối với hệ thống điện nhà cấp điện cho các cabin sinh hơi lắp đặt tại chỗ và các phòng có đặt phần tử gia nhiệt sinh hơi hoặc các máy đun nóng sinh hơi (sau đây gọi chung là phòng sinh hơi).",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2147,
+    "line_end": 2147,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-4-2",
+    "anchor": "muc-2-10-4-2",
+    "title": "2.10.4.2  Không áp dụng các yêu cầu của mục 2.10.4 cho các cabin sinh hơi chế tạo sẵn. Khu vực có lắp đặt bồn tắm hoặc vòi hoa sen nước lạnh thì thực hiện theo quy định tại mục 2.10.2.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2151,
+    "line_end": 2151,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-4-3",
+    "anchor": "muc-2-10-4-3",
+    "title": "2.10.4.3  Việc phân loại thành ba vùng 1, 2 và 3 theo mức độ nguy hiểm về điện quy định tại Hình N.6 của Phụ lục N.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2155,
+    "line_end": 2155,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-4-4",
+    "anchor": "muc-2-10-4-4",
+    "title": "2.10.4.4  Biện pháp đảm bảo an toàn",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2159,
+    "line_end": 2159,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-4-5",
+    "anchor": "muc-2-10-4-5",
+    "title": "2.10.4.5  Các thiết bị điện phải có cấp bảo vệ thấp nhất là IP24. Nếu dự kiến việc làm vệ sinh bằng tia nước phun thì các thiết bị điện phải có cấp bảo vệ thấp nhất là IPX5.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2175,
+    "line_end": 2175,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-4-6",
+    "anchor": "muc-2-10-4-6",
+    "title": "2.10.4.6  Trong vùng 1 không được đặt các thiết bị điện, trừ phần tử gia nhiệt sinh hơi hoặc máy đun nóng sinh hơi. Trong vùng 3 thiết bị lắp đặt phải chịu được nhiệt độ ít nhất là 125 °C và lớp cách điện của dây dẫn phải chịu được nhiệt độ ít nhất là 170 °C.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2179,
+    "line_end": 2179,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-4-7",
+    "anchor": "muc-2-10-4-7",
+    "title": "2.10.4.7  Trường hợp bắt buộc phải đặt trong các vùng 1 và 3 thì đường dẫn điện phải chịu được nhiệt độ quy định tại mục 2.10.4.6; các ống kim loại và vỏ kim loại của cáp phải được thiết kế và lắp đặt để không thể chạm vào khi làm việc bình thường.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2183,
+    "line_end": 2183,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-4-8",
+    "anchor": "muc-2-10-4-8",
+    "title": "2.10.4.8  Các thiết bị đóng cắt và điều khiển phải lắp đặt ngoài phòng sinh hơi hoặc cabin sinh hơi, trừ trường hợp các thiết bị đóng cắt và điều khiển này là một bộ phận của phần tử gia nhiệt sinh hơi hoặc máy đun nóng sinh hơi hoặc của các thiết bị khác lắp cố định trong vùng 2 theo hướng dẫn của nhà chế tạo.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2187,
+    "line_end": 2187,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-4-9",
+    "anchor": "muc-2-10-4-9",
+    "title": "2.10.4.9  Không được bố trí ổ cắm điện bên trong phòng sinh hơi.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2191,
+    "line_end": 2191,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-5",
+    "anchor": "muc-2-10-5",
+    "title": "2.10.5  Yêu cầu đối với khu vực y tế",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2195,
+    "line_end": 2195,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-5-1",
+    "anchor": "muc-2-10-5-1",
+    "title": "2.10.5.1  Hệ thống điện nhà tại các khu vực y tế (là nơi để tiếp nhận, thăm khám, chữa trị, xử lý thẩm mỹ, theo dõi và chăm sóc bệnh nhân) và các bệnh viện thú y phải đáp ứng các yêu cầu về an toàn điện. Quy định này không áp dụng cho các thiết bị điện y tế.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2199,
+    "line_end": 2199,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-5-2",
+    "anchor": "muc-2-10-5-2",
+    "title": "2.10.5.2  Phải thực hiện các biện pháp để bảo đảm an toàn điện cho ba nhóm của khu vực y tế gồm:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2203,
+    "line_end": 2203,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-5-3",
+    "anchor": "muc-2-10-5-3",
+    "title": "2.10.5.3  Hệ thống điện nhà tại khu vực y tế phải đáp ứng yêu cầu chuyển đổi các phụ tải ưu tiên từ nguồn điện bình thường sang nguồn điện dự phòng.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2213,
+    "line_end": 2213,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-5-4",
+    "anchor": "muc-2-10-5-4",
+    "title": "2.10.5.4  Biện pháp đảm bảo an toàn",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2217,
+    "line_end": 2217,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-5-5",
+    "anchor": "muc-2-10-5-5",
+    "title": "2.10.5.5  Các yêu cầu đối với thiết bị điện trong các khu vực y tế thực hiện theo mục 710.5 của TCVN 7447-7-710:2006.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2251,
+    "line_end": 2251,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-5-6",
+    "anchor": "muc-2-10-5-6",
+    "title": "2.10.5.6  Việc kiểm tra khi đưa vào sử dụng và kiểm tra định kỳ thực hiện theo mục 710.6 của TCVN 7447-7-710:2006.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2255,
+    "line_end": 2255,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-6",
+    "anchor": "muc-2-10-6",
+    "title": "2.10.6  Yêu cầu đối với trang bị điện cho chiếu sáng bằng ELV",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2259,
+    "line_end": 2259,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-6-1",
+    "anchor": "muc-2-10-6-1",
+    "title": "2.10.6.1  Bảo vệ chống điện giật và bảo vệ chống quá dòng:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2263,
+    "line_end": 2263,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-6-2",
+    "anchor": "muc-2-10-6-2",
+    "title": "2.10.6.2  Bảo vệ chống cháy:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2273,
+    "line_end": 2273,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-6-3",
+    "anchor": "muc-2-10-6-3",
+    "title": "2.10.6.3  Hệ thống đường dẫn điện cho chiếu sáng bằng ELV phải:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2291,
+    "line_end": 2291,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-6-4",
+    "anchor": "muc-2-10-6-4",
+    "title": "2.10.6.4  Tiết diện dây dẫn phải đáp ứng các yêu cầu sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2303,
+    "line_end": 2303,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-2-10-6-5",
+    "anchor": "muc-2-10-6-5",
+    "title": "2.10.6.5  Thiết bị cách ly, đóng cắt, bảo vệ và các thiết bị khác sử dụng trong hệ thống chiếu sáng bằng ELV phải đáp ứng các yêu cầu sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2311,
+    "line_end": 2311,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-1",
+    "anchor": "muc-3-1",
+    "title": "3.1  Các yêu cầu chung",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2337,
+    "line_end": 2337,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-1-1",
+    "anchor": "muc-3-1-1",
+    "title": "3.1.1  Hệ thống điện nhà phải được kiểm tra trước khi nghiệm thu đưa vào sử dụng và kiểm tra theo yêu cầu bảo trì.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2341,
+    "line_end": 2341,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-1-2",
+    "anchor": "muc-3-1-2",
+    "title": "3.1.2  Trong quá trình kiểm tra phải có biện pháp bảo đảm an toàn cho người và thiết bị.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2345,
+    "line_end": 2345,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-1-3",
+    "anchor": "muc-3-1-3",
+    "title": "3.1.3  Việc kiểm tra gồm có hai bước như sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2349,
+    "line_end": 2349,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-1-4",
+    "anchor": "muc-3-1-4",
+    "title": "3.1.4  Sau khi kết thúc công việc, người kiểm tra phải ký văn bản xác nhận kết quả kiểm tra.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2357,
+    "line_end": 2357,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-2",
+    "anchor": "muc-3-2",
+    "title": "3.2  Yêu cầu đối với kiểm tra trực quan",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2361,
+    "line_end": 2361,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-2-1",
+    "anchor": "muc-3-2-1",
+    "title": "3.2.1  Kiểm tra trực quan phải thực hiện trong tình trạng hệ thống điện nhà không có điện và trước khi kiểm tra bằng thử nghiệm.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2365,
+    "line_end": 2365,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-2-2",
+    "anchor": "muc-3-2-2",
+    "title": "3.2.2  Kiểm tra trực quan phải bao gồm ít nhất là các nội dung sau đây:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2369,
+    "line_end": 2369,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-3",
+    "anchor": "muc-3-3",
+    "title": "3.3  Yêu cầu đối với kiểm tra bằng thử nghiệm",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2401,
+    "line_end": 2401,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-3-1",
+    "anchor": "muc-3-3-1",
+    "title": "3.3.1  Phải tiến hành thử nghiệm (nếu có các phần tử cần kiểm tra) theo các nội dung chủ yếu sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2405,
+    "line_end": 2405,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-3-2",
+    "anchor": "muc-3-3-2",
+    "title": "3.3.2  Trường hợp có kết quả thử nghiệm không đạt yêu cầu thì phải tìm và sửa chữa sai sót, sau đó phải thử nghiệm lại, kể cả những thử nghiệm trước đó mà kết quả có thể bị ảnh hưởng.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2427,
+    "line_end": 2427,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-3-3",
+    "anchor": "muc-3-3-3",
+    "title": "3.3.3  Phải thử nghiệm tính liên tục của dây PE, bao gồm cả mạch vòng đẳng thế chính và phụ bằng nguồn điện một chiều hoặc xoay chiều.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2431,
+    "line_end": 2431,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-3-4",
+    "anchor": "muc-3-3-4",
+    "title": "3.3.4  Đo điện trở cách điện giữa các dây tải điện từng đôi một và giữa từng dây tải điện với đất của hệ thống điện nhà; Kết quả đo không được thấp hơn trị số quy định tại Bảng 6.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2435,
+    "line_end": 2435,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-06",
+    "anchor": "bang-bang-06",
+    "title": "Bảng 6 - Điện trở cách điện thấp nhất cho phép",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2439,
+    "line_end": 2439,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-3-5",
+    "anchor": "muc-3-3-5",
+    "title": "3.3.5  Phải tiến hành thử nghiệm biện pháp bảo vệ bằng ELV và mạch điện tách biệt bằng cách đo điện trở cách điện giữa mạch điện có ELV hoặc mạch điện tách biệt đã được đấu các thiết bị dùng điện với các mạch điện khác và với đất; Kết quả đo không được thấp hơn trị số quy định tại Bảng 6.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2448,
+    "line_end": 2448,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-3-6",
+    "anchor": "muc-3-3-6",
+    "title": "3.3.6  Phải sử dụng thiết bị phù hợp để đo điện trở cách điện của sàn và tường cách điện; Kết quả đo phải lớn hơn 50 kΩ.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2452,
+    "line_end": 2452,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-3-7",
+    "anchor": "muc-3-3-7",
+    "title": "3.3.7  Phải tiến hành thử tác động của RCD độ nhạy cao dùng làm phương tiện trong biện pháp bảo vệ bổ sung.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2456,
+    "line_end": 2456,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-3-8",
+    "anchor": "muc-3-3-8",
+    "title": "3.3.8  Phải thực hiện kiểm tra các điều kiện của biện pháp bảo vệ bằng cách tự động cắt nguồn cấp điện để chống tiếp xúc trực tiếp như sau:",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2460,
+    "line_end": 2460,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "formula-6",
+    "anchor": "formula-6",
+    "title": "$$Z_{s} \\times I_{a} \\le U_{o} \\qquad (6)$$",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2466,
+    "line_end": 2466,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-3-9",
+    "anchor": "muc-3-3-9",
+    "title": "3.3.9  Phải tiến hành thử nghiệm thứ tự pha cho hệ thống điện nhà.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2489,
+    "line_end": 2489,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-3-3-10",
+    "anchor": "muc-3-3-10",
+    "title": "3.3.10  Phải kiểm tra sự hoạt động đúng với chức năng của các tổ hợp thiết bị.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2493,
+    "line_end": 2493,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Bộ Xây dựng chịu trách nhiệm phổ biến, hướng dẫn áp dụng Quy chuẩn này.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2499,
+    "line_end": 2499,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Các cơ quan quản lý nhà nước về xây dựng chịu trách nhiệm tổ chức kiểm tra, thanh tra việc thực hiện Quy chuẩn này trong hoạt động thiết kế, thẩm tra thiết kế, xây dựng, nghiệm thu đưa công trình vào sử dụng và bảo trì theo quy định của pháp luật hiện hành.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2503,
+    "line_end": 2503,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Trong quá trình triển khai thực hiện Quy chuẩn này, nếu có vướng mắc, mọi ý kiến được gửi về Bộ Xây dựng để được hướng dẫn và xử lý.",
+    "source_file": "qcvn_12_2014_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2507,
+    "line_end": 2507,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (Quy định) — Giới hạn thể tích trong tầm với",
+    "source_file": "annexes/phu_luc_a_gioi_han_the_tich_trong_tam_voi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-h_1",
+    "anchor": "hinh-h_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_a_gioi_han_the_tich_trong_tam_voi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B (Quy định) — Cấp bảo vệ của thiết bị điện",
+    "source_file": "annexes/phu_luc_b_cap_bao_ve_cua_thiet_bi_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-c",
+    "anchor": "phu-luc-c",
+    "title": "PHỤ LỤC C (Quy định) — Chiếu sáng nhân tạo",
+    "source_file": "annexes/phu_luc_c_chieu_sang_nhan_tao.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-c-1",
+    "anchor": "bang-bang-c-1",
+    "title": "Bảng C.1 - Độ rọi nhỏ nhất cho phép theo đặc điểm công việc",
+    "source_file": "annexes/phu_luc_c_chieu_sang_nhan_tao.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-c-2",
+    "anchor": "bang-bang-c-2",
+    "title": "Bảng C.2 - Độ rọi nhỏ nhất cho phép trên bề mặt làm việc khi sử dụng hệ thống chiếu sáng nhân tạo chung trong nhà ở và nhà công cộng",
+    "source_file": "annexes/phu_luc_c_chieu_sang_nhan_tao.md",
+    "jurisdiction": "CQXD",
+    "line_start": 22,
+    "line_end": 22,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-c-3",
+    "anchor": "bang-bang-c-3",
+    "title": "Bảng C.3 - Độ rọi nhỏ nhất cho phép tại các diện tích dùng chung trong nhà công cộng",
+    "source_file": "annexes/phu_luc_c_chieu_sang_nhan_tao.md",
+    "jurisdiction": "CQXD",
+    "line_start": 181,
+    "line_end": 181,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-d",
+    "anchor": "phu-luc-d",
+    "title": "PHỤ LỤC D (Quy định) — Những biện pháp cần thiết để hạn chế chói lóa phản xạ",
+    "source_file": "annexes/phu_luc_d_nhung_bien_phap_can_thiet_de_han_che_choi_loa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-d-1",
+    "anchor": "bang-bang-d-1",
+    "title": "Bảng D.1 - Những biện pháp cần thiết để hạn chế chói lóa phản xạ từ bề mặt làm việc có đặc tính phản xạ gương và phản xạ hỗn hợp khi phải thực hiện những công việc cấp I, II, III",
+    "source_file": "annexes/phu_luc_d_nhung_bien_phap_can_thiet_de_han_che_choi_loa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-d_1",
+    "anchor": "hinh-d_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_d_nhung_bien_phap_can_thiet_de_han_che_choi_loa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 17,
+    "line_end": 17,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-dd",
+    "anchor": "phu-luc-dd",
+    "title": "PHỤ LỤC Đ (Quy định) — Các loại sơ đồ nối đất",
+    "source_file": "annexes/phu_luc_dd_cac_loai_so_do_noi_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-dd_1",
+    "anchor": "hinh-dd_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_dd_cac_loai_so_do_noi_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 48,
+    "line_end": 48,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-dd_2",
+    "anchor": "hinh-dd_2",
+    "title": "",
+    "source_file": "annexes/phu_luc_dd_cac_loai_so_do_noi_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 71,
+    "line_end": 71,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-dd_3",
+    "anchor": "hinh-dd_3",
+    "title": "",
+    "source_file": "annexes/phu_luc_dd_cac_loai_so_do_noi_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 92,
+    "line_end": 92,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-e",
+    "anchor": "phu-luc-e",
+    "title": "PHỤ LỤC E (Quy định) — Hệ thống nối đất và dây dẫn bảo vệ",
+    "source_file": "annexes/phu_luc_e_he_thong_noi_dat_va_day_dan_bao_ve.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-e_1",
+    "anchor": "hinh-e_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_e_he_thong_noi_dat_va_day_dan_bao_ve.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-1",
+    "anchor": "phu-luc-e-muc-1",
+    "title": "1  DÂY PE;",
+    "source_file": "annexes/phu_luc_e_he_thong_noi_dat_va_day_dan_bao_ve.md",
+    "jurisdiction": "CQXD",
+    "line_start": 45,
+    "line_end": 45,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-2",
+    "anchor": "phu-luc-e-muc-2",
+    "title": "2  DÂY DẪN LIÊN KẾT BẢO VỆ;",
+    "source_file": "annexes/phu_luc_e_he_thong_noi_dat_va_day_dan_bao_ve.md",
+    "jurisdiction": "CQXD",
+    "line_start": 49,
+    "line_end": 49,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-3",
+    "anchor": "phu-luc-e-muc-3",
+    "title": "3  DÂY DẪN LIÊN KẾT BẢO VỆ BỔ SUNG;",
+    "source_file": "annexes/phu_luc_e_he_thong_noi_dat_va_day_dan_bao_ve.md",
+    "jurisdiction": "CQXD",
+    "line_start": 53,
+    "line_end": 53,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-4",
+    "anchor": "phu-luc-e-muc-4",
+    "title": "4  DÂY DẪN XUỐNG ĐẤT CỦA LPS;",
+    "source_file": "annexes/phu_luc_e_he_thong_noi_dat_va_day_dan_bao_ve.md",
+    "jurisdiction": "CQXD",
+    "line_start": 57,
+    "line_end": 57,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-5",
+    "anchor": "phu-luc-e-muc-5",
+    "title": "5  DÂY DẪN NỐI ĐẤT.",
+    "source_file": "annexes/phu_luc_e_he_thong_noi_dat_va_day_dan_bao_ve.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 61,
+    "line_end": 61,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-g",
+    "anchor": "phu-luc-g",
+    "title": "PHỤ LỤC G (Quy định) — Vật liệu và kích thước nhỏ nhất cho phép của các phần tử làm điện cực nối đất",
+    "source_file": "annexes/phu_luc_g_vat_lieu_va_kich_thuoc_nho_nhat_cho_phep_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-g-1",
+    "anchor": "bang-bang-g-1",
+    "title": "Bảng G.1 - Kích thước nhỏ nhất cho phép của các phần tử làm điện cực nối đất làm từ vật liệu thông thường có xét đến khả năng chịu ăn mòn và độ bền cơ",
+    "source_file": "annexes/phu_luc_g_vat_lieu_va_kich_thuoc_nho_nhat_cho_phep_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-h",
+    "anchor": "phu-luc-h",
+    "title": "PHỤ LỤC H (Quy định) — Các giá trị của hệ số k đối với dây dẫn",
+    "source_file": "annexes/phu_luc_h_cac_gia_tri_cua_he_so_k_doi_voi_day_dan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-h-1",
+    "anchor": "bang-bang-h-1",
+    "title": "Bảng H.1 - Các giá trị của hệ số k đối với dây dẫn",
+    "source_file": "annexes/phu_luc_h_cac_gia_tri_cua_he_so_k_doi_voi_day_dan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-i",
+    "anchor": "phu-luc-i",
+    "title": "PHỤ LỤC I (Quy định) — Quá điện áp tạm thời phía hạ áp khi có ngắn mạch chạm đất phía cao áp của máy biến áp",
+    "source_file": "annexes/phu_luc_i_qua_dien_ap_tam_thoi_phia_ha_ap_khi_co_ngan_m.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-i_1",
+    "anchor": "hinh-i_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_i_qua_dien_ap_tam_thoi_phia_ha_ap_khi_co_ngan_m.md",
+    "jurisdiction": "CQXD",
+    "line_start": 19,
+    "line_end": 19,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-i-1",
+    "anchor": "bang-bang-i-1",
+    "title": "Bảng I.1 - Các quá điện áp tạm thời trong lưới hạ áp",
+    "source_file": "annexes/phu_luc_i_qua_dien_ap_tam_thoi_phia_ha_ap_khi_co_ngan_m.md",
+    "jurisdiction": "CQXD",
+    "line_start": 56,
+    "line_end": 56,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-k",
+    "anchor": "phu-luc-k",
+    "title": "PHỤ LỤC K (Quy định) — Yêu cầu đối với quá điện áp tạm thời",
+    "source_file": "annexes/phu_luc_k_yeu_cau_doi_voi_qua_dien_ap_tam_thoi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-k_1",
+    "anchor": "hinh-k_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_k_yeu_cau_doi_voi_qua_dien_ap_tam_thoi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 8,
+    "line_end": 8,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-k-1",
+    "anchor": "bang-bang-k-1",
+    "title": "Bảng K.1 - Điện áp chịu đựng tần số công nghiệp cho phép",
+    "source_file": "annexes/phu_luc_k_yeu_cau_doi_voi_qua_dien_ap_tam_thoi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 19,
+    "line_end": 19,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-l",
+    "anchor": "phu-luc-l",
+    "title": "PHỤ LỤC L (Quy định) — Điện áp chịu xung yêu cầu của thiết bị",
+    "source_file": "annexes/phu_luc_l_dien_ap_chiu_xung_yeu_cau_cua_thiet_bi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-l-1",
+    "anchor": "bang-bang-l-1",
+    "title": "Bảng L.1 - Điện áp chịu xung yêu cầu của thiết bị",
+    "source_file": "annexes/phu_luc_l_dien_ap_chiu_xung_yeu_cau_cua_thiet_bi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-m",
+    "anchor": "phu-luc-m",
+    "title": "PHỤ LỤC M (Quy định) — Vật liệu và kích thước nhỏ nhất cho phép của các phần tử của LPS bên ngoài",
+    "source_file": "annexes/phu_luc_m_vat_lieu_va_kich_thuoc_nho_nhat_cho_phep_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-m-1",
+    "anchor": "bang-bang-m-1",
+    "title": "Bảng M.1 - Vật liệu, cấu hình và tiết diện nhỏ nhất cho phép của dây thu sét, dây dẫn xuống đất của LPS",
+    "source_file": "annexes/phu_luc_m_vat_lieu_va_kich_thuoc_nho_nhat_cho_phep_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "bang-bang-m-2",
+    "anchor": "bang-bang-m-2",
+    "title": "Bảng M.2 - Vật liệu, cấu hình và tiết diện nhỏ nhất cho phép của cực nối đất của LPS",
+    "source_file": "annexes/phu_luc_m_vat_lieu_va_kich_thuoc_nho_nhat_cho_phep_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 36,
+    "line_end": 36,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "phu-luc-n",
+    "anchor": "phu-luc-n",
+    "title": "PHỤ LỤC N (Quy định) — Phân loại các vùng theo mức độ nguy hiểm về điện",
+    "source_file": "annexes/phu_luc_n_phan_loai_cac_vung_theo_muc_do_nguy_hiem_ve_d.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-n_1",
+    "anchor": "hinh-n_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_n_phan_loai_cac_vung_theo_muc_do_nguy_hiem_ve_d.md",
+    "jurisdiction": "CQXD",
+    "line_start": 11,
+    "line_end": 11,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-n_2",
+    "anchor": "hinh-n_2",
+    "title": "",
+    "source_file": "annexes/phu_luc_n_phan_loai_cac_vung_theo_muc_do_nguy_hiem_ve_d.md",
+    "jurisdiction": "CQXD",
+    "line_start": 26,
+    "line_end": 26,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-n_3",
+    "anchor": "hinh-n_3",
+    "title": "",
+    "source_file": "annexes/phu_luc_n_phan_loai_cac_vung_theo_muc_do_nguy_hiem_ve_d.md",
+    "jurisdiction": "CQXD",
+    "line_start": 41,
+    "line_end": 41,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-n_4",
+    "anchor": "hinh-n_4",
+    "title": "",
+    "source_file": "annexes/phu_luc_n_phan_loai_cac_vung_theo_muc_do_nguy_hiem_ve_d.md",
+    "jurisdiction": "CQXD",
+    "line_start": 52,
+    "line_end": 52,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-n_5",
+    "anchor": "hinh-n_5",
+    "title": "",
+    "source_file": "annexes/phu_luc_n_phan_loai_cac_vung_theo_muc_do_nguy_hiem_ve_d.md",
+    "jurisdiction": "CQXD",
+    "line_start": 63,
+    "line_end": 63,
+    "cong_bao_number": "20/2014/TT-BXD"
+  },
+  {
+    "clause_id": "hinh-n_6",
+    "anchor": "hinh-n_6",
+    "title": "",
+    "source_file": "annexes/phu_luc_n_phan_loai_cac_vung_theo_muc_do_nguy_hiem_ve_d.md",
+    "jurisdiction": "CQXD",
+    "line_start": 74,
+    "line_end": 74,
+    "cong_bao_number": "20/2014/TT-BXD"
+  }
+]

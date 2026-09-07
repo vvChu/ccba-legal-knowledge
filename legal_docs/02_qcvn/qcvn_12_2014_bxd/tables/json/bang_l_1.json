@@ -1,0 +1,55 @@
+{
+  "table_id": "bang_l_1",
+  "table_number": "L.1",
+  "table_title": "Bảng L.1 - Điện áp chịu xung yêu cầu của thiết bị",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Điện áp danh định của hệ thống điện nhàV — Hệ thống ba pha",
+    "Điện áp danh định của hệ thống điện nhàV — Hệ thống một pha có điểm giữa",
+    "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp IV",
+    "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp III",
+    "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp II",
+    "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp I"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Điện áp danh định của hệ thống điện nhàV — Hệ thống ba pha": "-",
+      "Điện áp danh định của hệ thống điện nhàV — Hệ thống một pha có điểm giữa": "120-240",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp IV": "4",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp III": "2,5",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp II": "1,5",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp I": "0,8"
+    },
+    {
+      "_row_id": 2,
+      "Điện áp danh định của hệ thống điện nhàV — Hệ thống ba pha": "230/400",
+      "Điện áp danh định của hệ thống điện nhàV — Hệ thống một pha có điểm giữa": "-",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp IV": "6",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp III": "4",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp II": "2,5",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp I": "1,5"
+    },
+    {
+      "_row_id": 3,
+      "Điện áp danh định của hệ thống điện nhàV — Hệ thống ba pha": "400/690",
+      "Điện áp danh định của hệ thống điện nhàV — Hệ thống một pha có điểm giữa": "-",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp IV": "8",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp III": "6",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp II": "4",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp I": "2,5"
+    },
+    {
+      "_row_id": 4,
+      "Điện áp danh định của hệ thống điện nhàV — Hệ thống ba pha": "1000",
+      "Điện áp danh định của hệ thống điện nhàV — Hệ thống một pha có điểm giữa": "-",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp IV": "12",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp III": "8",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp II": "6",
+      "Điện áp chịu xung yêu cầu (a)kV — Quá điện áp cấp I": "4"
+    }
+  ],
+  "footnotes": [
+    "(a) Điện áp chịu xung này được áp dụng giữa các dây tải điện và dây PE."
+  ]
+}

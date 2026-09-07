@@ -1,0 +1,164 @@
+{
+  "table_id": "bang_g_1",
+  "table_number": "G.1",
+  "table_title": "Bảng G.1 - Kích thước nhỏ nhất cho phép của các phần tử làm điện cực nối đất làm từ vật liệu thông thường có xét đến khả năng chịu ăn mòn và độ bền cơ",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Vật liệu",
+    "Bề mặt",
+    "Hình dạng",
+    "Kích thước nhỏ nhất cho phép — Đường kính mm",
+    "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$",
+    "Kích thước nhỏ nhất cho phép — Chiều dày mm",
+    "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm",
+    "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Vật liệu": "Thép",
+      "Bề mặt": "Không gỉ $^{(a,b)}$ hoặc mạ kẽm nhúng nóng (a)",
+      "Hình dạng": "Dẹt (c)",
+      "Kích thước nhỏ nhất cho phép — Đường kính mm": "",
+      "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$": "90",
+      "Kích thước nhỏ nhất cho phép — Chiều dày mm": "3",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm": "63",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm": "70"
+    },
+    {
+      "_row_id": 2,
+      "Vật liệu": "Thép",
+      "Bề mặt": "Không gỉ $^{(a,b)}$ hoặc mạ kẽm nhúng nóng (a)",
+      "Hình dạng": "Thép góc",
+      "Kích thước nhỏ nhất cho phép — Đường kính mm": "",
+      "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$": "90",
+      "Kích thước nhỏ nhất cho phép — Chiều dày mm": "3",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm": "63",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm": "70"
+    },
+    {
+      "_row_id": 3,
+      "Vật liệu": "Thép",
+      "Bề mặt": "Không gỉ $^{(a,b)}$ hoặc mạ kẽm nhúng nóng (a)",
+      "Hình dạng": "Thanh tròn chôn dưới đất",
+      "Kích thước nhỏ nhất cho phép — Đường kính mm": "16",
+      "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày mm": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm": "63",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm": "70"
+    },
+    {
+      "_row_id": 4,
+      "Vật liệu": "Thép",
+      "Bề mặt": "Không gỉ $^{(a,b)}$ hoặc mạ kẽm nhúng nóng (a)",
+      "Hình dạng": "Dây tròn đặt nổi (d)",
+      "Kích thước nhỏ nhất cho phép — Đường kính mm": "10",
+      "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày mm": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm": "50 $^{(đ)}$"
+    },
+    {
+      "_row_id": 5,
+      "Vật liệu": "Thép",
+      "Bề mặt": "Không gỉ $^{(a,b)}$ hoặc mạ kẽm nhúng nóng (a)",
+      "Hình dạng": "Ống",
+      "Kích thước nhỏ nhất cho phép — Đường kính mm": "25",
+      "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày mm": "2",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm": "47",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm": "55"
+    },
+    {
+      "_row_id": 6,
+      "Vật liệu": "Thép",
+      "Bề mặt": "Bọc đồng",
+      "Hình dạng": "Thanh tròn chôn dưới đất",
+      "Kích thước nhỏ nhất cho phép — Đường kính mm": "15",
+      "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày mm": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm": "2000",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm": ""
+    },
+    {
+      "_row_id": 7,
+      "Vật liệu": "Thép",
+      "Bề mặt": "Có lớp phủ đồng bằng phương pháp mạ điện",
+      "Hình dạng": "Thanh tròn chôn dưới đất",
+      "Kích thước nhỏ nhất cho phép — Đường kính mm": "14",
+      "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày mm": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm": "90",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm": "100"
+    },
+    {
+      "_row_id": 8,
+      "Vật liệu": "Đồng",
+      "Bề mặt": "Để trần (a)",
+      "Hình dạng": "Dẹt",
+      "Kích thước nhỏ nhất cho phép — Đường kính mm": "",
+      "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$": "50",
+      "Kích thước nhỏ nhất cho phép — Chiều dày mm": "2",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm": ""
+    },
+    {
+      "_row_id": 9,
+      "Vật liệu": "Đồng",
+      "Bề mặt": "Để trần (a)",
+      "Hình dạng": "Dây tròn đặt nổi (d)",
+      "Kích thước nhỏ nhất cho phép — Đường kính mm": "",
+      "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$": "25(e)",
+      "Kích thước nhỏ nhất cho phép — Chiều dày mm": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm": ""
+    },
+    {
+      "_row_id": 10,
+      "Vật liệu": "Đồng",
+      "Bề mặt": "Để trần (a)",
+      "Hình dạng": "Cáp",
+      "Kích thước nhỏ nhất cho phép — Đường kính mm": "1,8 \n(từng dây bện)",
+      "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$": "25",
+      "Kích thước nhỏ nhất cho phép — Chiều dày mm": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm": ""
+    },
+    {
+      "_row_id": 11,
+      "Vật liệu": "Đồng",
+      "Bề mặt": "Để trần (a)",
+      "Hình dạng": "Ống",
+      "Kích thước nhỏ nhất cho phép — Đường kính mm": "20",
+      "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày mm": "2",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm": ""
+    },
+    {
+      "_row_id": 12,
+      "Vật liệu": "Đồng",
+      "Bề mặt": "Phủ thiếc",
+      "Hình dạng": "Cáp",
+      "Kích thước nhỏ nhất cho phép — Đường kính mm": "1,8 \n(từng dây bện)",
+      "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$": "25",
+      "Kích thước nhỏ nhất cho phép — Chiều dày mm": "",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm": "1",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm": "5"
+    },
+    {
+      "_row_id": 13,
+      "Vật liệu": "Đồng",
+      "Bề mặt": "Phủ kẽm",
+      "Hình dạng": "Dẹt (g)",
+      "Kích thước nhỏ nhất cho phép — Đường kính mm": "",
+      "Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$": "50",
+      "Kích thước nhỏ nhất cho phép — Chiều dày mm": "2",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm": "20",
+      "Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm": "40"
+    }
+  ],
+  "footnotes": {
+    "(a)": "**CHÚ THÍCH:**\n\n&nbsp;&nbsp;\\- <sup>(a)</sup> Cũng có thể dùng được cho điện cực đặt trong bê tông;\n\n&nbsp;&nbsp;\\- <sup>(b)</sup> Không có lớp phủ;\n\n&nbsp;&nbsp;\\- <sup>(c)</sup> Lá thép dẹt dạng cuộn hoặc xẻ rãnh lượn tròn ở mép;\n\n&nbsp;&nbsp;\\- <sup>(d)</sup> Điện cực được coi như đặt trên mặt đất nếu được lắp đặt ở độ sâu không quá 0,5 m;\n\n&nbsp;&nbsp;\\- $^{(đ)}$ Trường hợp mạ nhúng liên tục, hiện tại về kỹ thuật chỉ đạt được chiều dày 50 m;\n\n&nbsp;&nbsp;\\- <sup>(e)</sup> Nếu nguy cơ ăn mòn và hỏng về mặt cơ học thấp thì có thể dùng tiết diện 16 $mm^{2}$;\n\n&nbsp;&nbsp;\\- <sup>(g)</sup> Dẹt có lượn tròn ở mép."
+  }
+}

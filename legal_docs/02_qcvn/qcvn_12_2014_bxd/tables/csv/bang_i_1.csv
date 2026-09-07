@@ -1,0 +1,11 @@
+Sơ đồ nối đất,Các phương án nối đất,$U_{1}$,$U_{2}$,$U_{f}$
+TT,Nối $R_{E}$ và $R_{B}$,$U_{0}$<sup>(a)</sup>,$U_{0}$ + $I_{E}$.$R_{E}$,0 <sup>(a)</sup>
+TT,Tách biệt $R_{E}$ và $R_{B}$,$U_{0}$ + $I_{E}$.$R_{E}$,$U_{0}$<sup>(a)</sup>,0 <sup>(a)</sup>
+TN-S,Nối $R_{E}$ và $R_{B}$,$U_{0}$<sup>(a)</sup>,$U_{0}$<sup>(a)</sup>,$I_{E}$.$R_{E}$
+TN-S,Tách biệt $R_{E}$ và $R_{B}$,$U_{0}$ + $I_{E}$.$R_{E}$,$U_{0}$<sup>(a)</sup>,0 <sup>(a)</sup>
+IT,Nối $R_{E}$ và Z<br>Tách biệt $R_{E}$ và $R_{A}$,$U_{0}$<sup>(a)</sup>,$U_{0}$ + $I_{E}$.$R_{E}$,0 <sup>(a)</sup>
+IT,Nối $R_{E}$ và Z<br>Tách biệt $R_{E}$ và $R_{A}$,$\sqrt{3} U_{0}$<sup>(b)</sup>,$\sqrt{3} U_{0}$<sup>(b)</sup> + $I_{E}$.$R_{E}$<sup>(b)</sup>,$I_{h}$.$R_{A}$<sup>(b)</sup>
+IT,Nối $R_{E}$ và Z<br>Nối liên kết $R_{E}$ và $R_{A}$,$U_{0}$<sup>(a)</sup>,$U_{0}$<sup>(a)</sup>,$I_{E}$.$R_{E}$
+IT,Nối $R_{E}$ và Z<br>Nối liên kết $R_{E}$ và $R_{A}$,$\sqrt{3} U_{0}$<sup>(b)</sup>,$\sqrt{3} U_{0}$<sup>(b)</sup>,$I_{E}$.$R_{E}$<sup>(b)</sup>
+IT,Tách biệt $R_{E}$ và Z<br>Tách biệt $R_{E}$ và $R_{A}$,$U_{0}$ + $I_{E}$.$R_{E}$,$U_{0}$<sup>(a)</sup>,0 <sup>(a)</sup>
+IT,Tách biệt $R_{E}$ và Z<br>Tách biệt $R_{E}$ và $R_{A}$,$\sqrt{3} U_{0}$ + $I_{E}$.$R_{E}$<sup>(b)</sup>,$\sqrt{3} U_{0}$<sup>(b)</sup>,$I_{d}$.$R_{A}$<sup>(b)</sup>

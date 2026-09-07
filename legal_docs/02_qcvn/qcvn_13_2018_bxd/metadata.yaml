@@ -1,0 +1,32 @@
+id: QCVN-13-2018-BXD
+document_number: QCVN 13:2018/BXD
+title: QCVN 13:2018/BXD — Quy chuẩn kỹ thuật quốc gia về Gara ô tô
+type: Quy chuẩn kỹ thuật quốc gia
+issued_by: Bộ Xây dựng
+issued_date: '2018-12-26'
+effective_date: '2019-03-15'
+status: active
+bundle_path: legal_docs/02_qcvn/qcvn_13_2018_bxd/
+source_url: https://thuvienphapluat.vn/TCVN/Xay-dung/QCVN-13-2018-BXD-ve-Gara-o-to-917827.aspx
+sha256: f9e98eecc6c9f2fc79815c622e2756a56eab36104a4ece97355d8d47befbf54e
+pdf_path: legal_docs/02_qcvn/qcvn_13_2018_bxd/sources/qcvn_13_2018_bxd.pdf
+pdf_sha256: 7ba60f4ae39d8b2bbad9858171682d1061f1e0e4f08b15dc4dd89cd30089903f
+cong_bao_number: 12/2018/TT-BXD
+pdf_status: verified
+source_file: legal_docs/02_qcvn/qcvn_13_2018_bxd/sources/qcvn_13_2018_bxd.docx
+source_file_size_kb: 36.3
+source_assets:
+  docx:
+    sha256: f9e98eecc6c9f2fc79815c622e2756a56eab36104a4ece97355d8d47befbf54e
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_13_2018_bxd/qcvn_13_2018_bxd.docx
+    status: synced
+  pdf:
+    sha256: 7ba60f4ae39d8b2bbad9858171682d1061f1e0e4f08b15dc4dd89cd30089903f
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_13_2018_bxd/qcvn_13_2018_bxd.pdf
+    status: verified
+relations:
+  replaces: QCVN-08-2009-BXD
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-06T10:15:00.000000+00:00'

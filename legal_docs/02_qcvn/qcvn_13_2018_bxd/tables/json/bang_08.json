@@ -1,0 +1,160 @@
+{
+  "table_id": "bang_08",
+  "table_number": "8",
+  "table_title": "Bảng 8 - Loại và các đặc trưng của hệ thống báo cháy",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "TT",
+    "Đặc trưng của các hệ thống báo cháy",
+    "Loại của hệ thống báo cháy — 1",
+    "Loại của hệ thống báo cháy — 2",
+    "Loại của hệ thống báo cháy — 3",
+    "Loại của hệ thống báo cháy — 4",
+    "Loại của hệ thống báo cháy — 5"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1",
+      "Đặc trưng của các hệ thống báo cháy": "Các biện pháp báo cháy:",
+      "Loại của hệ thống báo cháy — 1": "",
+      "Loại của hệ thống báo cháy — 2": "",
+      "Loại của hệ thống báo cháy — 3": "",
+      "Loại của hệ thống báo cháy — 4": "",
+      "Loại của hệ thống báo cháy — 5": ""
+    },
+    {
+      "_row_id": 2,
+      "TT": "1",
+      "Đặc trưng của các hệ thống báo cháy": "Tín hiệu âm thanh (chuông, còi hú....)",
+      "Loại của hệ thống báo cháy — 1": "&nbsp;&nbsp;&nbsp;&nbsp;\\+",
+      "Loại của hệ thống báo cháy — 2": "&nbsp;&nbsp;&nbsp;&nbsp;\\+",
+      "Loại của hệ thống báo cháy — 3": "*",
+      "Loại của hệ thống báo cháy — 4": "*",
+      "Loại của hệ thống báo cháy — 5": "*"
+    },
+    {
+      "_row_id": 3,
+      "TT": "1",
+      "Đặc trưng của các hệ thống báo cháy": "Giọng nói (băng ghi âm và truyền thanh)",
+      "Loại của hệ thống báo cháy — 1": "-",
+      "Loại của hệ thống báo cháy — 2": "-",
+      "Loại của hệ thống báo cháy — 3": "&nbsp;&nbsp;&nbsp;&nbsp;\\+",
+      "Loại của hệ thống báo cháy — 4": "&nbsp;&nbsp;&nbsp;&nbsp;\\+",
+      "Loại của hệ thống báo cháy — 5": "&nbsp;&nbsp;&nbsp;&nbsp;\\+"
+    },
+    {
+      "_row_id": 4,
+      "TT": "1",
+      "Đặc trưng của các hệ thống báo cháy": "Đèn hiệu",
+      "Loại của hệ thống báo cháy — 1": "",
+      "Loại của hệ thống báo cháy — 2": "",
+      "Loại của hệ thống báo cháy — 3": "",
+      "Loại của hệ thống báo cháy — 4": "",
+      "Loại của hệ thống báo cháy — 5": ""
+    },
+    {
+      "_row_id": 5,
+      "TT": "1",
+      "Đặc trưng của các hệ thống báo cháy": "nhấp nháy",
+      "Loại của hệ thống báo cháy — 1": "*",
+      "Loại của hệ thống báo cháy — 2": "*",
+      "Loại của hệ thống báo cháy — 3": "-",
+      "Loại của hệ thống báo cháy — 4": "-",
+      "Loại của hệ thống báo cháy — 5": "-"
+    },
+    {
+      "_row_id": 6,
+      "TT": "1",
+      "Đặc trưng của các hệ thống báo cháy": "đèn hiệu “lối ra”",
+      "Loại của hệ thống báo cháy — 1": "*",
+      "Loại của hệ thống báo cháy — 2": "&nbsp;&nbsp;&nbsp;&nbsp;\\+",
+      "Loại của hệ thống báo cháy — 3": "&nbsp;&nbsp;&nbsp;&nbsp;\\+",
+      "Loại của hệ thống báo cháy — 4": "&nbsp;&nbsp;&nbsp;&nbsp;\\+",
+      "Loại của hệ thống báo cháy — 5": "&nbsp;&nbsp;&nbsp;&nbsp;\\+"
+    },
+    {
+      "_row_id": 7,
+      "TT": "1",
+      "Đặc trưng của các hệ thống báo cháy": "Đèn hiệu dẫn hướng chuyển động",
+      "Loại của hệ thống báo cháy — 1": "-",
+      "Loại của hệ thống báo cháy — 2": "*",
+      "Loại của hệ thống báo cháy — 3": "*",
+      "Loại của hệ thống báo cháy — 4": "&nbsp;&nbsp;&nbsp;&nbsp;\\+",
+      "Loại của hệ thống báo cháy — 5": "&nbsp;&nbsp;&nbsp;&nbsp;\\+"
+    },
+    {
+      "_row_id": 8,
+      "TT": "1",
+      "Đặc trưng của các hệ thống báo cháy": "Đèn hiệu dẫn hướng chuyển động cho từng vùng",
+      "Loại của hệ thống báo cháy — 1": "-",
+      "Loại của hệ thống báo cháy — 2": "*",
+      "Loại của hệ thống báo cháy — 3": "*",
+      "Loại của hệ thống báo cháy — 4": "*",
+      "Loại của hệ thống báo cháy — 5": "&nbsp;&nbsp;&nbsp;&nbsp;\\+"
+    },
+    {
+      "_row_id": 9,
+      "TT": "2",
+      "Đặc trưng của các hệ thống báo cháy": "Liên lạc vùng báo cháy với bộ phận điều độ",
+      "Loại của hệ thống báo cháy — 1": "-",
+      "Loại của hệ thống báo cháy — 2": "-",
+      "Loại của hệ thống báo cháy — 3": "*",
+      "Loại của hệ thống báo cháy — 4": "&nbsp;&nbsp;&nbsp;&nbsp;\\+",
+      "Loại của hệ thống báo cháy — 5": "&nbsp;&nbsp;&nbsp;&nbsp;\\+"
+    },
+    {
+      "_row_id": 10,
+      "TT": "3",
+      "Đặc trưng của các hệ thống báo cháy": "Trình tự báo cháy:",
+      "Loại của hệ thống báo cháy — 1": "",
+      "Loại của hệ thống báo cháy — 2": "",
+      "Loại của hệ thống báo cháy — 3": "",
+      "Loại của hệ thống báo cháy — 4": "",
+      "Loại của hệ thống báo cháy — 5": ""
+    },
+    {
+      "_row_id": 11,
+      "TT": "3",
+      "Đặc trưng của các hệ thống báo cháy": "Tất cả đồng thời",
+      "Loại của hệ thống báo cháy — 1": "*",
+      "Loại của hệ thống báo cháy — 2": "&nbsp;&nbsp;&nbsp;&nbsp;\\+",
+      "Loại của hệ thống báo cháy — 3": "-",
+      "Loại của hệ thống báo cháy — 4": "-",
+      "Loại của hệ thống báo cháy — 5": "-"
+    },
+    {
+      "_row_id": 12,
+      "TT": "3",
+      "Đặc trưng của các hệ thống báo cháy": "Chỉ trong một gian phòng (trong một phần của nhà)",
+      "Loại của hệ thống báo cháy — 1": "*",
+      "Loại của hệ thống báo cháy — 2": "*",
+      "Loại của hệ thống báo cháy — 3": "*",
+      "Loại của hệ thống báo cháy — 4": "-",
+      "Loại của hệ thống báo cháy — 5": "-"
+    },
+    {
+      "_row_id": 13,
+      "TT": "3",
+      "Đặc trưng của các hệ thống báo cháy": "trước tiên của nhân viên phục vụ, sau đó của tất cả theo trình tự được thiết lập riêng",
+      "Loại của hệ thống báo cháy — 1": "-",
+      "Loại của hệ thống báo cháy — 2": "*",
+      "Loại của hệ thống báo cháy — 3": "&nbsp;&nbsp;&nbsp;&nbsp;\\+",
+      "Loại của hệ thống báo cháy — 4": "&nbsp;&nbsp;&nbsp;&nbsp;\\+",
+      "Loại của hệ thống báo cháy — 5": "&nbsp;&nbsp;&nbsp;&nbsp;\\+"
+    },
+    {
+      "_row_id": 14,
+      "TT": "4",
+      "Đặc trưng của các hệ thống báo cháy": "Tự động hóa hoàn toàn việc điều khiển hệ thống báo cháy và khả năng thực hiện tập hợp các phương án tổ chức thoát hiểm từ từng vùng báo cháy",
+      "Loại của hệ thống báo cháy — 1": "-",
+      "Loại của hệ thống báo cháy — 2": "-",
+      "Loại của hệ thống báo cháy — 3": "-",
+      "Loại của hệ thống báo cháy — 4": "-",
+      "Loại của hệ thống báo cháy — 5": "&nbsp;&nbsp;&nbsp;&nbsp;\\+"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** '+' - cần thiết; '*' - khuyến cáo; '-' - không yêu cầu."
+  }
+}

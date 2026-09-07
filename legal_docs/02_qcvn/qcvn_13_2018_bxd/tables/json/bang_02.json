@@ -1,0 +1,29 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Quy định về bố trí khoang đệm ngăn cháy trong gara ô-tô dạng kín",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại gara ô-tô",
+    "Giới hạn chịu lửa của các kết cấu bao che (các vách ngăn cháy), phút, không nhỏ hơn — Tường",
+    "Giới hạn chịu lửa của các kết cấu bao che (các vách ngăn cháy), phút, không nhỏ hơn — Cổng",
+    "Yêu cầu bố trí khoang đệm"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại gara ô-tô": "Ngầm",
+      "Giới hạn chịu lửa của các kết cấu bao che (các vách ngăn cháy), phút, không nhỏ hơn — Tường": "El 90",
+      "Giới hạn chịu lửa của các kết cấu bao che (các vách ngăn cháy), phút, không nhỏ hơn — Cổng": "El 60",
+      "Yêu cầu bố trí khoang đệm": "Khoang đệm có độ sâu đảm bảo mở được cổng, nhưng không nhỏ hơn 1,5 m"
+    },
+    {
+      "_row_id": 2,
+      "Loại gara ô-tô": "Trên mặt đất",
+      "Giới hạn chịu lửa của các kết cấu bao che (các vách ngăn cháy), phút, không nhỏ hơn — Tường": "El 45",
+      "Giới hạn chịu lửa của các kết cấu bao che (các vách ngăn cháy), phút, không nhỏ hơn — Cổng": "El 30",
+      "Yêu cầu bố trí khoang đệm": "Không cần thiết"
+    }
+  ],
+  "footnotes": []
+}

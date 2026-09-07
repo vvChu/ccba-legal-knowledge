@@ -1,0 +1,26 @@
+{
+  "table_id": "bang_04",
+  "table_number": "4",
+  "table_title": "Bảng 4 - Khoảng cách lớn nhất giữa các dây dẫn xuống đất theo cấp của LPS",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Cấp của LPS(a)",
+    "I",
+    "II",
+    "III",
+    "IV"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp của LPS(a)": "Khoảng cách lớn nhất giữa các dây dẫn xuống đất\nm",
+      "I": "10",
+      "II": "10",
+      "III": "15",
+      "IV": "20"
+    }
+  ],
+  "footnotes": [
+    "(a) Cấp của LPS được xác định theo mức bảo vệ quy định tại mục 8.2 của TCVN 9888-1:2013"
+  ]
+}

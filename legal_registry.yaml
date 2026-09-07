@@ -1,11 +1,11 @@
 version: 0.3.0
-updated_at: '2026-08-17T17:30:00Z'
+updated_at: '2026-09-06T10:45:00Z'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 40
+  total_documents: 42
   categories:
     01_vbpl: 24
-    02_qcvn: 8
+    02_qcvn: 10
     03_tcvn: 5
     04_appendices: 3
 documents: {}
@@ -918,6 +918,69 @@ laws:
   converter_version: 0.4.0
   schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
   extracted_at: '2026-09-05T17:30:00.000000+00:00'
+- id: QCVN-13-2018-BXD
+  document_number: QCVN 13:2018/BXD
+  title: QCVN 13:2018/BXD — Quy chuẩn kỹ thuật quốc gia về Gara ô tô
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Xây dựng
+  issued_date: '2018-12-26'
+  effective_date: '2019-03-15'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_13_2018_bxd/
+  source_url: https://thuvienphapluat.vn/TCVN/Xay-dung/QCVN-13-2018-BXD-ve-Gara-o-to-917827.aspx
+  sha256: f9e98eecc6c9f2fc79815c622e2756a56eab36104a4ece97355d8d47befbf54e
+  pdf_path: legal_docs/02_qcvn/qcvn_13_2018_bxd/sources/qcvn_13_2018_bxd.pdf
+  pdf_sha256: 7ba60f4ae39d8b2bbad9858171682d1061f1e0e4f08b15dc4dd89cd30089903f
+  cong_bao_number: 12/2018/TT-BXD
+  pdf_status: verified
+  source_file: legal_docs/02_qcvn/qcvn_13_2018_bxd/sources/qcvn_13_2018_bxd.docx
+  source_file_size_kb: 36.3
+  source_assets:
+    docx:
+      sha256: f9e98eecc6c9f2fc79815c622e2756a56eab36104a4ece97355d8d47befbf54e
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_13_2018_bxd/qcvn_13_2018_bxd.docx
+      status: synced
+    pdf:
+      sha256: 7ba60f4ae39d8b2bbad9858171682d1061f1e0e4f08b15dc4dd89cd30089903f
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_13_2018_bxd/qcvn_13_2018_bxd.pdf
+      status: verified
+  relations:
+    replaces: QCVN-08-2009-BXD
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-09-06T10:15:00.000000+00:00'
+- id: QCVN-12-2014-BXD
+  document_number: QCVN 12:2014/BXD
+  title: QCVN 12:2014/BXD — Quy chuẩn kỹ thuật quốc gia về Hệ thống điện của nhà ở và nhà công cộng
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Xây dựng
+  issued_date: '2014-12-29'
+  effective_date: '2015-07-01'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_12_2014_bxd/
+  source_url: https://thuvienphapluat.vn/TCVN/Dien-dien-tu/QCVN-12-2014-BXD-He-thong-dien-nha-o-nha-cong-cong-912596.aspx
+  sha256: c9ae8c471633f1c7592274c159918c00bf98811b25e0a517033288b3a35fad68
+  pdf_path: legal_docs/02_qcvn/qcvn_12_2014_bxd/sources/qcvn_12_2014_bxd.pdf
+  pdf_sha256: 2e5901ad41314759851c6e6e910cd5e151cb5193e0b4556311a4afccb076363e
+  cong_bao_number: 20/2014/TT-BXD
+  pdf_status: verified
+  source_file: legal_docs/02_qcvn/qcvn_12_2014_bxd/sources/qcvn_12_2014_bxd.docx
+  source_file_size_kb: 1165.2
+  source_assets:
+    docx:
+      sha256: c9ae8c471633f1c7592274c159918c00bf98811b25e0a517033288b3a35fad68
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_12_2014_bxd/qcvn_12_2014_bxd.docx
+      status: synced
+    pdf:
+      sha256: 2e5901ad41314759851c6e6e910cd5e151cb5193e0b4556311a4afccb076363e
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_12_2014_bxd/qcvn_12_2014_bxd.pdf
+      status: verified
+  relations: {}
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-09-06T10:45:00.000000+00:00'
 standards:
 - id: TCVN-7336-2021
   document_number: TCVN 7336:2021

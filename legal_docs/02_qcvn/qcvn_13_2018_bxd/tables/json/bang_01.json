@@ -1,0 +1,57 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Quy định đối với khoảng cách phòng cháy chữa cháy đối với khu đất lưu giữ ô-tô vận chuyển nhiên liệu và chất bôi trơn",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tổng dung tích các chất lỏng dễ cháy, $m^{3}$",
+    "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — I, II",
+    "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — III",
+    "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — IV, V"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tổng dung tích các chất lỏng dễ cháy, $m^{3}$": "(1)",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — I, II": "(2)",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — III": "(3)",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — IV, V": "(4)"
+    },
+    {
+      "_row_id": 2,
+      "Tổng dung tích các chất lỏng dễ cháy, $m^{3}$": "Trên 1.000 đến 2.000",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — I, II": "30",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — III": "30",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — IV, V": "36"
+    },
+    {
+      "_row_id": 3,
+      "Tổng dung tích các chất lỏng dễ cháy, $m^{3}$": "Từ 600 đến 1.000",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — I, II": "24",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — III": "24",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — IV, V": "30"
+    },
+    {
+      "_row_id": 4,
+      "Tổng dung tích các chất lỏng dễ cháy, $m^{3}$": "Nhỏ hơn 600",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — I, II": "18",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — III": "18",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — IV, V": "24"
+    },
+    {
+      "_row_id": 5,
+      "Tổng dung tích các chất lỏng dễ cháy, $m^{3}$": "Đến 300",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — I, II": "18",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — III": "18",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — IV, V": "24"
+    },
+    {
+      "_row_id": 6,
+      "Tổng dung tích các chất lỏng dễ cháy, $m^{3}$": "Nhỏ hơn 300",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — I, II": "12",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — III": "12",
+      "Khoảng cách từ gara ô-tô tới nhà và công trình và khoảng cách giữa các gara ô-tô, m — Nhà và bậc chịu lửa — IV, V": "18"
+    }
+  ],
+  "footnotes": []
+}

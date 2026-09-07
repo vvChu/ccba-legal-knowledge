@@ -1,0 +1,1308 @@
+{
+  "table_id": "bang_c_2",
+  "table_number": "C.2",
+  "table_title": "Bảng C.2 - Độ rọi nhỏ nhất cho phép trên bề mặt làm việc khi sử dụng hệ thống chiếu sáng nhân tạo chung trong nhà ở và nhà công cộng",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Tên công trình, gian, phòng",
+    "Nhóm phòng",
+    "Cấp công việc",
+    "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm",
+    "Độ rọi nhỏ nhất cho phéplx",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên công trình, gian, phòng": "1. Cơ quan hành chính sự nghiệp, viện thiết kế, viện nghiên cứu",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 2,
+      "Tên công trình, gian, phòng": "1.1 Phòng làm việc, văn phòng, phòng thiết kế, phòng thí nghiệm",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "II",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "150 - KL*\n300- TCK*\n400-TX*",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 3,
+      "Tên công trình, gian, phòng": "1.2 Phòng vẽ kĩ thuật",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "Ia",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "750",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 4,
+      "Tên công trình, gian, phòng": "1.3 Phòng máy tính",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 5,
+      "Tên công trình, gian, phòng": "1.4 Phòng nghiệp vụ của ngân hàng, bưu điện",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 6,
+      "Tên công trình, gian, phòng": "1.5 Kho lưu trữ hồ sơ",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 7,
+      "Tên công trình, gian, phòng": "a) Bàn làm việc",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": "Dùng đèn loại chốngcháy"
+    },
+    {
+      "_row_id": 8,
+      "Tên công trình, gian, phòng": "b) Giá để hồ sơ",
+      "Nhóm phòng": "",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8 (trên giá)",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": "Dùng đèn loại chốngcháy"
+    },
+    {
+      "_row_id": 9,
+      "Tên công trình, gian, phòng": "1.6 Phòng in ốp xét",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 10,
+      "Tên công trình, gian, phòng": "a) Bộ phận trình bày",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": "Dùng đèn loại chốngcháy"
+    },
+    {
+      "_row_id": 11,
+      "Tên công trình, gian, phòng": "b) Bộ phận chuẩn bị và chế tạo khuôn in",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 12,
+      "Tên công trình, gian, phòng": "c) Bộ phận in",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 13,
+      "Tên công trình, gian, phòng": "1.7 Phòng in ôzalít (in bằng ánh sáng)",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 14,
+      "Tên công trình, gian, phòng": "1.8 Phòng ảnh",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 15,
+      "Tên công trình, gian, phòng": "1.9 Xưởng mộc, mô hình, sửa chữa",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 16,
+      "Tên công trình, gian, phòng": "1.10. Phòng họp, hội nghị, hội trường",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 17,
+      "Tên công trình, gian, phòng": "1.11 Phòng giải lao (hành lang ngoài phòng họp, hội nghị, hội trường)",
+      "Nhóm phòng": "3",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 18,
+      "Tên công trình, gian, phòng": "1.12 Phòng thí nghiệm",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 19,
+      "Tên công trình, gian, phòng": "2 Trường học phổ thông, đại học, cao đẳng, trung học CN, dạy nghề",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 20,
+      "Tên công trình, gian, phòng": "2.1 Phòng học, giảng đường lớp học:",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 21,
+      "Tên công trình, gian, phòng": "a) Bảng",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng-trên bảng",
+      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 22,
+      "Tên công trình, gian, phòng": "b) Bàn học",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 23,
+      "Tên công trình, gian, phòng": "2.2 Phòng thí nghiệm, xét nghiệm",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "II",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "400-TX\n300-TCK\n150-KL",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 24,
+      "Tên công trình, gian, phòng": "2.3 Phòng họa, vẽ kĩ thuật, thiết kế đồ án môn học, đồ án tốt nghiệp:",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "I",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 25,
+      "Tên công trình, gian, phòng": "a) Bảng",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng-trên bảng",
+      "Độ rọi nhỏ nhất cho phéplx": "750",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 26,
+      "Tên công trình, gian, phòng": "b) Bàn làm việc",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang – 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 27,
+      "Tên công trình, gian, phòng": "2.4 Xưởng dạy nghề",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 28,
+      "Tên công trình, gian, phòng": "2.5 Xưởng mộc",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 29,
+      "Tên công trình, gian, phòng": "2.6 Phòng nữ công",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 30,
+      "Tên công trình, gian, phòng": "a) Học thêu may",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 31,
+      "Tên công trình, gian, phòng": "b) Học nấu ăn",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 32,
+      "Tên công trình, gian, phòng": "2.7 Gian thể dục thể thao",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn đứng - 2,0",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "Bảo đảm độ rọi ở cả hai bên bề mặt đứng qua trục dọc của phòng"
+    },
+    {
+      "_row_id": 33,
+      "Tên công trình, gian, phòng": "2.8 Văn phòng, phòng làm việc của giáo viên, hiệu trưởng",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 34,
+      "Tên công trình, gian, phòng": "2.9 Phòng chơi, giải lao",
+      "Nhóm phòng": "3",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 35,
+      "Tên công trình, gian, phòng": "2.10 Hội trường, phòng khánh tiết, giảng đường có chiếu phim",
+      "Nhóm phòng": "3",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 36,
+      "Tên công trình, gian, phòng": "2.11 Sân khấu của hội trường",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng - 1,5",
+      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 37,
+      "Tên công trình, gian, phòng": "2.12 Kho dụng cụ, đồ đạc, trang thiết bị",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 38,
+      "Tên công trình, gian, phòng": "3 Thư viện",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 39,
+      "Tên công trình, gian, phòng": "3.1 Phòng đọc",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 40,
+      "Tên công trình, gian, phòng": "3.2 Phòng danh mục sách; giá sách",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "Ic",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng-trên mặt để danh mục",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 41,
+      "Tên công trình, gian, phòng": "3.3 Phòng cấp thẻ độc giả; quầy thu ngân, nhận sách",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "Ic",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 42,
+      "Tên công trình, gian, phòng": "3.4 Phòng trưng bày, giới thiệu sách mới xuất bản",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 43,
+      "Tên công trình, gian, phòng": "3.5 Kho sách",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng-1,0 trên giá",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "Sử dụng đèn chống cháy"
+    },
+    {
+      "_row_id": 44,
+      "Tên công trình, gian, phòng": "3.6 Phòng đóng bìa, đóng sách",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 45,
+      "Tên công trình, gian, phòng": "4 Hội trường, nhà hát, rạp chiếu bóng, câu lạc bộ, nhà triển lãm",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 46,
+      "Tên công trình, gian, phòng": "4.1 Hội trường",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 47,
+      "Tên công trình, gian, phòng": "a) Hội trường trung tâm của cả nước có chức năng tổ chức các hoạt động chính trị, văn hóa",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Ghi chú": "Độ rọi tăng một cấp khi công trình có ý nghĩa chính trị quan trọng"
+    },
+    {
+      "_row_id": 48,
+      "Tên công trình, gian, phòng": "b) Hội trường trung tâm tỉnh, thành phố",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Ghi chú": "Độ rọi tăng một cấp khi công trình có ý nghĩa chính trị quan trọng"
+    },
+    {
+      "_row_id": 49,
+      "Tên công trình, gian, phòng": "4.2 Gian khán giả của nhà hát, cung văn hóa, phòng hòa nhạc, rạp xiếc",
+      "Nhóm phòng": "3",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "150-TX\n100-TCK\n75-KL",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 50,
+      "Tên công trình, gian, phòng": "4.3 Gian khán giả câu lạc bộ, nhà văn hóa, phòng giải lao của nhà hát",
+      "Nhóm phòng": "3",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
+      "Độ rọi nhỏ nhất cho phéplx": "150-TX\n100-TCK\n75-KL",
+      "Ghi chú": "Độ rọi tăng một cấp khi công trình có ý nghĩa chính trị quan trọng"
+    },
+    {
+      "_row_id": 51,
+      "Tên công trình, gian, phòng": "4.4 Gian triển lãm, trưng bày",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "II",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300-TX\n200-TCK\n100-KL",
+      "Ghi chú": "Độ rọi tăng một cấp khi công trình có ý nghĩa chính trị quan trọng"
+    },
+    {
+      "_row_id": 52,
+      "Tên công trình, gian, phòng": "4.5 Gian khán giả của rạp chiếu bóng có:",
+      "Nhóm phòng": "3",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 53,
+      "Tên công trình, gian, phòng": "&nbsp;&nbsp;\\- trên 800 chỗ ngồi",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 54,
+      "Tên công trình, gian, phòng": "&nbsp;&nbsp;\\- dưới 800 chỗ ngồi",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 55,
+      "Tên công trình, gian, phòng": "4.6 Phòng giải lao của rạp chiếu bóng, nhà văn hóa, câu lạc bộ",
+      "Nhóm phòng": "3",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
+      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Ghi chú": "Độ rọi tăng một cấp do yêu cầu thích nghi của mắt"
+    },
+    {
+      "_row_id": 56,
+      "Tên công trình, gian, phòng": "4.7 Phòng sinh hoạt chuyên đề",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 57,
+      "Tên công trình, gian, phòng": "4.8 Phòng đặt máy chiếu phim, thiết bị điều khiển âm thanh, ánh sáng",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 58,
+      "Tên công trình, gian, phòng": "4.9 Phòng của diễn viên, phòng hóa trang",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Trên mặt diễn viên ở gần gương",
+      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 59,
+      "Tên công trình, gian, phòng": "5 Nhà trẻ,trường mẫu giáo",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 60,
+      "Tên công trình, gian, phòng": "5.1 Phòng nhận trẻ",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 61,
+      "Tên công trình, gian, phòng": "5.2 Phòng nhóm trẻ, phòng chơi, thủ công, học hát, múa, tập thể dục",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 62,
+      "Tên công trình, gian, phòng": "5.3 Phòng ngủ",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 63,
+      "Tên công trình, gian, phòng": "5.4 Phòng dành cho trẻ em bị ốm, phòng cách ly",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 64,
+      "Tên công trình, gian, phòng": "6 Nhà nghỉ",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 65,
+      "Tên công trình, gian, phòng": "6.1 Phòng ngủ",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Ghi chú": "Cần đặt ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 66,
+      "Tên công trình, gian, phòng": "7 Bệnh viện, nhà điều dưỡng",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 67,
+      "Tên công trình, gian, phòng": "7.1 Phòng mổ",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "1000",
+      "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
+    },
+    {
+      "_row_id": 68,
+      "Tên công trình, gian, phòng": "7.2 Phòng: gây mê, đẻ, hậu phẫu, phòng băng bó",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 69,
+      "Tên công trình, gian, phòng": "7.3 Phòng bác sĩ, phòng khám bệnh chung, văn phòng",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
+    },
+    {
+      "_row_id": 70,
+      "Tên công trình, gian, phòng": "7.4 Phòng liệu pháp vật lí",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
+    },
+    {
+      "_row_id": 71,
+      "Tên công trình, gian, phòng": "7.5 Phòng (khoa) X quang",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
+    },
+    {
+      "_row_id": 72,
+      "Tên công trình, gian, phòng": "7.6 Phòng bệnh nhân",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "Ibc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
+    },
+    {
+      "_row_id": 73,
+      "Tên công trình, gian, phòng": "7.7 Phòng hội chẩn, giảng đường",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
+    },
+    {
+      "_row_id": 74,
+      "Tên công trình, gian, phòng": "7.8 Phòng: y tá, hộ lí, trực của y tá, hộ lí",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
+    },
+    {
+      "_row_id": 75,
+      "Tên công trình, gian, phòng": "7.9 Phòng bác sĩ trưởng khoa",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
+    },
+    {
+      "_row_id": 76,
+      "Tên công trình, gian, phòng": "7.10 Phòng xét nghiệm",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "350",
+      "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
+    },
+    {
+      "_row_id": 77,
+      "Tên công trình, gian, phòng": "7.11 Phòng dược",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 78,
+      "Tên công trình, gian, phòng": "a) Gian bán hàng",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 79,
+      "Tên công trình, gian, phòng": "b) Nơi nhận đơn thuốc và để thuốc đã pha chế",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
+    },
+    {
+      "_row_id": 80,
+      "Tên công trình, gian, phòng": "7.12 Kho thuốc dụng cụ y tế",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng - 1,0 (trên giá)",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 81,
+      "Tên công trình, gian, phòng": "7.13 Phòng để nồi hấp diệt trùng",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 82,
+      "Tên công trình, gian, phòng": "7.14 Buồng máy phóng xạ",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 83,
+      "Tên công trình, gian, phòng": "7.15 Phòng để chăn màn, nơi gửi đồ đạc của bệnh nhân",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng - 1,0 (trên giá)",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 84,
+      "Tên công trình, gian, phòng": "7.16 Phòng mổ tử thi và Nhà xác",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 85,
+      "Tên công trình, gian, phòng": "7.17 Phòng đăng kí, phòng cấp cứu",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 86,
+      "Tên công trình, gian, phòng": "8 Phòng y tế",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 87,
+      "Tên công trình, gian, phòng": "8.1 Phòng chờ khám",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 88,
+      "Tên công trình, gian, phòng": "8.2 Phòng đăng kí, phòng nhân viên trực, phòng của người phụ trách",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 89,
+      "Tên công trình, gian, phòng": "8.3 Phòng bác sĩ, phòng băng bó",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 90,
+      "Tên công trình, gian, phòng": "8.4 Phòng liệu pháp vật lý",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 91,
+      "Tên công trình, gian, phòng": "8.5 Buồng để nồi hấp tẩy trùng, kho thuốc và bông băng",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 92,
+      "Tên công trình, gian, phòng": "9 Cửa hàng",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 93,
+      "Tên công trình, gian, phòng": "9.1 Gian bán hàng của cửa hàng sách, cửa hàng vải, quần áo, bách hóa, cửa hàng mỹ nghệ vàng bạc, lưu niệm, thực phẩm",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "II",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "Gian nhỏ 300;\nGian rộng 500",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 94,
+      "Tên công trình, gian, phòng": "9.2 Gian bán hàng của cửa hàng bán đồ gỗ,vật liệu XD, đồ điện, văn phòng phẩm",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 95,
+      "Tên công trình, gian, phòng": "9.3 Nơi thu tiền, phòng thủ quỹ",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 96,
+      "Tên công trình, gian, phòng": "9.4 Kho để hàng hóa",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 97,
+      "Tên công trình, gian, phòng": "10 Cửa hàng ăn uống,dịch vụ",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 98,
+      "Tên công trình, gian, phòng": "10.1 Phòng ăn của cửa hàng ăn uống",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "II",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300-TX\n200-TCK\n100-KL",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 99,
+      "Tên công trình, gian, phòng": "10.2 Nơi giao đồ ăn uống",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 100,
+      "Tên công trình, gian, phòng": "10.3 Bếp",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 101,
+      "Tên công trình, gian, phòng": "10.4 Kho để thực phẩm",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 102,
+      "Tên công trình, gian, phòng": "10.5 Nhà tắm công cộng",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 103,
+      "Tên công trình, gian, phòng": "a) Phòng đợi",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 104,
+      "Tên công trình, gian, phòng": "b) Phòng thay quần áo",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 105,
+      "Tên công trình, gian, phòng": "c) Phòng tắm hoa sen",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 106,
+      "Tên công trình, gian, phòng": "10.6 Hiệu cắt tóc, uốn tóc",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 107,
+      "Tên công trình, gian, phòng": "10.7 Hiệu ảnh",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 108,
+      "Tên công trình, gian, phòng": "a) Nơi tiếp khách và trả hàng",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 109,
+      "Tên công trình, gian, phòng": "b) Phòng chụp",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 110,
+      "Tên công trình, gian, phòng": "c) Phòng sửa ảnh, sửa phim (rơ tút)",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 111,
+      "Tên công trình, gian, phòng": "10.8 Cửa hàng nhuộm, hấp, tẩy, giặt là:",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 112,
+      "Tên công trình, gian, phòng": "a) Nơi giao, nhận hàng",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 113,
+      "Tên công trình, gian, phòng": "a) Nơi giao, nhận hàng",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng - 1,0 (trên giá)",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 114,
+      "Tên công trình, gian, phòng": "b) Phòng nhuộm, tẩy hấp, giặt là",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 115,
+      "Tên công trình, gian, phòng": "10.9 Cửa hàng may đo",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 116,
+      "Tên công trình, gian, phòng": "a) Buồng đo, thử",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng - 1,5",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 117,
+      "Tên công trình, gian, phòng": "b) Phân xưởng máy",
+      "Nhóm phòng": "",
+      "Cấp công việc": "Ia",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 118,
+      "Tên công trình, gian, phòng": "c) Bộ phận cắt",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 119,
+      "Tên công trình, gian, phòng": "d) Bộ phận là, hấp",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 120,
+      "Tên công trình, gian, phòng": "10.10 Cửa hàng sửa chữa:",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 121,
+      "Tên công trình, gian, phòng": "a) Mũ, đồ da, vải bạt",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 122,
+      "Tên công trình, gian, phòng": "b) Giầy dép, đồ điện",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 123,
+      "Tên công trình, gian, phòng": "c) Đồng hồ, đồ kim hoàn",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "Khi sử dụng chiếu sáng hỗn hợp quy định độ rọi tiêu chuẩn là 1000 lx"
+    },
+    {
+      "_row_id": 124,
+      "Tên công trình, gian, phòng": "d) Máy ảnh, máy thu thanh, vô tuyến truyền hình, máy chiếu phim",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIa",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "Khi sử dụng chiếu sáng hỗn hợp quy định độ rọi tiêu chuẩn là 1000 lx"
+    },
+    {
+      "_row_id": 125,
+      "Tên công trình, gian, phòng": "10.11 Cửa hàng băng ghi âm, đĩa hát:",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 126,
+      "Tên công trình, gian, phòng": "a) Phòng ghi, sang băng và nghe băng",
+      "Nhóm phòng": "",
+      "Cấp công việc": "IIIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 127,
+      "Tên công trình, gian, phòng": "b) Kho chứa băng ghi âm, đĩa hát",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng - 1,0",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 128,
+      "Tên công trình, gian, phòng": "11 Khách sạn",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 129,
+      "Tên công trình, gian, phòng": "11.1 Phòng dịch vụ, nơi giao dịch với khách",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "Ic",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 130,
+      "Tên công trình, gian, phòng": "11.2 Phòng bán hàng mỹ nghệ, đồ lưu niệm",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 131,
+      "Tên công trình, gian, phòng": "11.3 Phòng ăn",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 132,
+      "Tên công trình, gian, phòng": "11.4 Phòng chiêu đãi, hội nghị và nhà bếp",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "IIb",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 133,
+      "Tên công trình, gian, phòng": "11.5 Bar, vũ trường",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 134,
+      "Tên công trình, gian, phòng": "11.6 Quầy bar",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 135,
+      "Tên công trình, gian, phòng": "11.7 Phòng khách",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 136,
+      "Tên công trình, gian, phòng": "11.8 Phòng ngủ",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 137,
+      "Tên công trình, gian, phòng": "11.9 Phòng nhân viên phục vụ (bàn, buồng, bếp, bảo vệ, v.v...)",
+      "Nhóm phòng": "2",
+      "Cấp công việc": "IIIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 138,
+      "Tên công trình, gian, phòng": "11.10 Phòng, là quần áo, đánh giầy, nhà hàng",
+      "Nhóm phòng": "1",
+      "Cấp công việc": "IIc",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
+    },
+    {
+      "_row_id": 139,
+      "Tên công trình, gian, phòng": "12 Nhà ở",
+      "Nhóm phòng": "",
+      "Cấp công việc": "",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
+      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 140,
+      "Tên công trình, gian, phòng": "12.1 Phòng khách",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang-0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 141,
+      "Tên công trình, gian, phòng": "12.2 Phòng ở, phòng ngủ",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Ghi chú": "-"
+    },
+    {
+      "_row_id": 142,
+      "Tên công trình, gian, phòng": "12.3 Bếp",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 143,
+      "Tên công trình, gian, phòng": "12.4 Hành lang, buồng tắm, buồng vệ sinh (xí), buồng làm kho",
+      "Nhóm phòng": "-",
+      "Cấp công việc": "-",
+      "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
+      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Ghi chú": "-"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:**\n&nbsp;&nbsp;\\- Ký hiệu KL là viết tắt của cụm từ “Không lâu”;\n&nbsp;&nbsp;\\- Ký hiệu TCK là viết tắt của cụm từ ”Theo chu kỳ”;\n&nbsp;&nbsp;\\- Ký hiệu TX là viết tắt của cụm từ “Thường xuyên”.",
+    "fn_2": "**CHÚ THÍCH 1:** Đối với những phòng thuộc nhóm 1 và nhóm 2 không nêu trong Bảng C.2 được phép lấy trị số độ rọi theo Bảng C.1;",
+    "fn_3": "**CHÚ THÍCH 2:** Trong các phòng tắm phải đảm bảo chiếu sáng tại chỗ để tạo ra độ rọi tại mặt phẳng đứng; trên chậu rửa mặt ít nhất là 75 lx khi dùng đèn huỳnh quang và tương đương khi sử dụng loại đèn khác."
+  }
+}
