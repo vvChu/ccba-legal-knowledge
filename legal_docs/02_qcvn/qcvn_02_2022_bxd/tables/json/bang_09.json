@@ -1,1003 +1,1327 @@
 {
   "table_id": "bang_09",
-  "rows_count": 166,
-  "columns_count": 4,
+  "rows_count": 164,
+  "columns_count": 6,
   "headers": [
     "Tỉnh, thành phố trực thuộc Trung ương",
     "Thành phố, quận, huyện (hoặc tương đương)",
     "Trạm",
-    "Vị trí"
+    "Kinh độ",
+    "Vĩ độ",
+    "Cao độ (m)"
   ],
   "records": [
-    {
-      "Tỉnh, thành phố trực thuộc Trung ương": "Tỉnh, thành phố trực thuộc Trung ương",
-      "Thành phố, quận, huyện (hoặc tương đương)": "Thành phố, quận, huyện (hoặc tương đương)",
-      "Trạm": "Trạm",
-      "Vị trí": "Kinh độ"
-    },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "(1)",
       "Thành phố, quận, huyện (hoặc tương đương)": "(2)",
       "Trạm": "(3)",
-      "Vị trí": "(4)"
+      "Kinh độ": "(4)",
+      "Vĩ độ": "(5)",
+      "Cao độ (m)": "(6)"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "Khu vực Tây Bắc",
       "Thành phố, quận, huyện (hoặc tương đương)": "",
       "Trạm": "",
-      "Vị trí": ""
+      "Kinh độ": "",
+      "Vĩ độ": "",
+      "Cao độ (m)": ""
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "1. Lai Châu",
       "Thành phố, quận, huyện (hoặc tương đương)": "Mường Tè",
-      "Trạm": "102,83",
-      "Vị trí": "22,37"
+      "Trạm": "Mường Tè",
+      "Kinh độ": "102,83",
+      "Vĩ độ": "22,37",
+      "Cao độ (m)": "310"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "1. Lai Châu",
       "Thành phố, quận, huyện (hoặc tương đương)": "Sìn Hồ",
-      "Trạm": "103,23",
-      "Vị trí": "22,37"
+      "Trạm": "Sìn Hồ",
+      "Kinh độ": "103,23",
+      "Vĩ độ": "22,37",
+      "Cao độ (m)": "1529"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "1. Lai Châu",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Lai Châu",
       "Trạm": "Tam Đường",
-      "Vị trí": "103,48"
+      "Kinh độ": "103,48",
+      "Vĩ độ": "22,42",
+      "Cao độ (m)": "900"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "1. Lai Châu",
       "Thành phố, quận, huyện (hoặc tương đương)": "Than Uyên",
-      "Trạm": "103,88",
-      "Vị trí": "21,95"
+      "Trạm": "Than Uyên",
+      "Kinh độ": "103,88",
+      "Vĩ độ": "21,95",
+      "Cao độ (m)": "556"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "1. Lai Châu",
       "Thành phố, quận, huyện (hoặc tương đương)": "Mường Lay",
       "Trạm": "Lai Châu",
-      "Vị trí": "103,15"
+      "Kinh độ": "103,15",
+      "Vĩ độ": "22,07",
+      "Cao độ (m)": "244"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "2. Điện Biên",
       "Thành phố, quận, huyện (hoặc tương đương)": "Tuần Giáo",
-      "Trạm": "103,42",
-      "Vị trí": "21,58"
+      "Trạm": "Tuần Giáo",
+      "Kinh độ": "103,42",
+      "Vĩ độ": "21,58",
+      "Cao độ (m)": "570"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "2. Điện Biên",
       "Thành phố, quận, huyện (hoặc tương đương)": "Tuần Giáo",
       "Trạm": "Pha Ěin",
-      "Vị trí": "103,52"
+      "Kinh độ": "103,52",
+      "Vĩ độ": "21,57",
+      "Cao độ (m)": "1347"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "2. Điện Biên",
       "Thành phố, quận, huyện (hoặc tương đương)": "Điện Biên Đông",
       "Trạm": "Điện Biên",
-      "Vị trí": "103,00"
+      "Kinh độ": "103,00",
+      "Vĩ độ": "21,37",
+      "Cao độ (m)": "479"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "3. Sơn La",
       "Thành phố, quận, huyện (hoặc tương đương)": "Quỳnh Nhai",
-      "Trạm": "103,57",
-      "Vị trí": "21,85"
+      "Trạm": "Quỳnh Nhai",
+      "Kinh độ": "103,57",
+      "Vĩ độ": "21,85",
+      "Cao độ (m)": "802"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "3. Sơn La",
       "Thành phố, quận, huyện (hoặc tương đương)": "Sông Mã",
-      "Trạm": "103,73",
-      "Vị trí": "21,07"
+      "Trạm": "Sông Mã",
+      "Kinh độ": "103,73",
+      "Vĩ độ": "21,07",
+      "Cao độ (m)": "302"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "3. Sơn La",
       "Thành phố, quận, huyện (hoặc tương đương)": "Mai Sơn",
       "Trạm": "Cò Nòi",
-      "Vị trí": "104,15"
+      "Kinh độ": "104,15",
+      "Vĩ độ": "21,13",
+      "Cao độ (m)": "704"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "3. Sơn La",
       "Thành phố, quận, huyện (hoặc tương đương)": "Yên Châu",
-      "Trạm": "104,30",
-      "Vị trí": "21,05"
+      "Trạm": "Yên Châu",
+      "Kinh độ": "104,30",
+      "Vĩ độ": "21,05",
+      "Cao độ (m)": "59"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "3. Sơn La",
       "Thành phố, quận, huyện (hoặc tương đương)": "Bắc Yên",
-      "Trạm": "104,42",
-      "Vị trí": "21,25"
+      "Trạm": "Bắc Yên",
+      "Kinh độ": "104,42",
+      "Vĩ độ": "21,25",
+      "Cao độ (m)": "65"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "3. Sơn La",
       "Thành phố, quận, huyện (hoặc tương đương)": "Phù Yên",
-      "Trạm": "104,63",
-      "Vị trí": "21,27"
+      "Trạm": "Phù Yên",
+      "Kinh độ": "104,63",
+      "Vĩ độ": "21,27",
+      "Cao độ (m)": "182"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "3. Sơn La",
       "Thành phố, quận, huyện (hoặc tương đương)": "Mộc Châu",
-      "Trạm": "104,68",
-      "Vị trí": "20,83"
+      "Trạm": "Mộc Châu",
+      "Kinh độ": "104,68",
+      "Vĩ độ": "20,83",
+      "Cao độ (m)": "958"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "3. Sơn La",
       "Thành phố, quận, huyện (hoặc tương đương)": "Sơn La",
-      "Trạm": "103,90",
-      "Vị trí": "21,33"
+      "Trạm": "Sơn La",
+      "Kinh độ": "103,90",
+      "Vĩ độ": "21,33",
+      "Cao độ (m)": "676"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "4. Hoà Bình",
       "Thành phố, quận, huyện (hoặc tương đương)": "Kim Bôi",
-      "Trạm": "105,53",
-      "Vị trí": "20,67"
+      "Trạm": "Kim Bôi",
+      "Kinh độ": "105,53",
+      "Vĩ độ": "20,67",
+      "Cao độ (m)": "100"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "4. Hoà Bình",
       "Thành phố, quận, huyện (hoặc tương đương)": "Mai Châu",
-      "Trạm": "105,05",
-      "Vị trí": "20,65"
+      "Trạm": "Mai Châu",
+      "Kinh độ": "105,05",
+      "Vĩ độ": "20,65",
+      "Cao độ (m)": "160"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "4. Hoà Bình",
       "Thành phố, quận, huyện (hoặc tương đương)": "Lạc Thuỷ",
       "Trạm": "Chi Nê",
-      "Vị trí": "105,78"
+      "Kinh độ": "105,78",
+      "Vĩ độ": "20,48",
+      "Cao độ (m)": "25"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "4. Hoà Bình",
       "Thành phố, quận, huyện (hoặc tương đương)": "Lạc Sơn",
-      "Trạm": "105,45",
-      "Vị trí": "20,45"
+      "Trạm": "Lạc Sơn",
+      "Kinh độ": "105,45",
+      "Vĩ độ": "20,45",
+      "Cao độ (m)": "40"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "4. Hoà Bình",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Hoà Bình",
       "Trạm": "Hoà Bình",
-      "Vị trí": "105,33"
+      "Kinh độ": "105,33",
+      "Vĩ độ": "20,82",
+      "Cao độ (m)": "23"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "Khu vực Việt Bắc",
       "Thành phố, quận, huyện (hoặc tương đương)": "",
       "Trạm": "",
-      "Vị trí": ""
+      "Kinh độ": "",
+      "Vĩ độ": "",
+      "Cao độ (m)": ""
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "5. Hà Giang",
       "Thành phố, quận, huyện (hoặc tương đương)": "Hoàng Su Phì",
-      "Trạm": "104,68",
-      "Vị trí": "22,75"
+      "Trạm": "Hoàng Su Phì",
+      "Kinh độ": "104,68",
+      "Vĩ độ": "22,75",
+      "Cao độ (m)": "553"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "5. Hà Giang",
       "Thành phố, quận, huyện (hoặc tương đương)": "Bắc Mê",
-      "Trạm": "105,37",
-      "Vị trí": "22,73"
+      "Trạm": "Bắc Mê",
+      "Kinh độ": "105,37",
+      "Vĩ độ": "22,73",
+      "Cao độ (m)": "74"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "5. Hà Giang",
       "Thành phố, quận, huyện (hoặc tương đương)": "Bắc Quang",
-      "Trạm": "104,87",
-      "Vị trí": "22,50"
+      "Trạm": "Bắc Quang",
+      "Kinh độ": "104,87",
+      "Vĩ độ": "22,50",
+      "Cao độ (m)": "73"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "5. Hà Giang",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Hà Giang",
       "Trạm": "Hà Giang",
-      "Vị trí": "104,97"
+      "Kinh độ": "104,97",
+      "Vĩ độ": "22,82",
+      "Cao độ (m)": "118"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "6. Lào Cai",
       "Thành phố, quận, huyện (hoặc tương đương)": "Bảo Yên",
       "Trạm": "Phố Ràng",
-      "Vị trí": "104,47"
+      "Kinh độ": "104,47",
+      "Vĩ độ": "22,23",
+      "Cao độ (m)": "150"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "6. Lào Cai",
       "Thành phố, quận, huyện (hoặc tương đương)": "Bắc Hà",
-      "Trạm": "104,28",
-      "Vị trí": "22,53"
+      "Trạm": "Bắc Hà",
+      "Kinh độ": "104,28",
+      "Vĩ độ": "22,53",
+      "Cao độ (m)": "957"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "6. Lào Cai",
       "Thành phố, quận, huyện (hoặc tương đương)": "Sa Pa",
-      "Trạm": "103,82",
-      "Vị trí": "22,35"
+      "Trạm": "Sa Pa",
+      "Kinh độ": "103,82",
+      "Vĩ độ": "22,35",
+      "Cao độ (m)": "1570"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "7. Yên Bái",
       "Thành phố, quận, huyện (hoặc tương đương)": "Mù Căng Chải",
-      "Trạm": "104,05",
-      "Vị trí": "21,87"
+      "Trạm": "Mù Căng Chải",
+      "Kinh độ": "104,05",
+      "Vĩ độ": "21,87",
+      "Cao độ (m)": "975"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "7. Yên Bái",
       "Thành phố, quận, huyện (hoặc tương đương)": "Văn Chấn",
-      "Trạm": "104,52",
-      "Vị trí": "21,58"
+      "Trạm": "Văn Chấn",
+      "Kinh độ": "104,52",
+      "Vĩ độ": "21,58",
+      "Cao độ (m)": "257"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "7. Yên Bái",
       "Thành phố, quận, huyện (hoặc tương đương)": "Lục Yên",
-      "Trạm": "104,72",
-      "Vị trí": "22,10"
+      "Trạm": "Lục Yên",
+      "Kinh độ": "104,72",
+      "Vĩ độ": "22,10",
+      "Cao độ (m)": "84"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "7. Yên Bái",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Yên Bái",
       "Trạm": "Yên Bái",
-      "Vị trí": "104,87"
+      "Kinh độ": "104,87",
+      "Vĩ độ": "21,70",
+      "Cao độ (m)": "56"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "8. Tuyên Quang",
       "Thành phố, quận, huyện (hoặc tương đương)": "Hàm Yên",
-      "Trạm": "105,03",
-      "Vị trí": "22,07"
+      "Trạm": "Hàm Yên",
+      "Kinh độ": "105,03",
+      "Vĩ độ": "22,07",
+      "Cao độ (m)": "47"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "8. Tuyên Quang",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Tuyên Quang",
       "Trạm": "Tuyên Quang",
-      "Vị trí": "105,22"
+      "Kinh độ": "105,22",
+      "Vĩ độ": "21,82",
+      "Cao độ (m)": "42"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "8. Tuyên Quang",
       "Thành phố, quận, huyện (hoặc tương đương)": "Chiêm Hoá",
-      "Trạm": "105,27",
-      "Vị trí": "22,15"
+      "Trạm": "Chiêm Hoá",
+      "Kinh độ": "105,27",
+      "Vĩ độ": "22,15",
+      "Cao độ (m)": "50"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "9. Bắc Cạn",
       "Thành phố, quận, huyện (hoặc tương đương)": "Chợ Rã",
-      "Trạm": "105,72",
-      "Vị trí": "22,45"
+      "Trạm": "Chợ Rã",
+      "Kinh độ": "105,72",
+      "Vĩ độ": "22,45",
+      "Cao độ (m)": "210"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "9. Bắc Cạn",
       "Thành phố, quận, huyện (hoặc tương đương)": "Ngân Sơn",
-      "Trạm": "105,98",
-      "Vị trí": "22,43"
+      "Trạm": "Ngân Sơn",
+      "Kinh độ": "105,98",
+      "Vĩ độ": "22,43",
+      "Cao độ (m)": "566"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "9. Bắc Cạn",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Bắc Cạn",
       "Trạm": "Bắc Cạn",
-      "Vị trí": "105,83"
+      "Kinh độ": "105,83",
+      "Vĩ độ": "22,15",
+      "Cao độ (m)": "174"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "10. Thái Nguyên",
       "Thành phố, quận, huyện (hoặc tương đương)": "Định Hoá",
-      "Trạm": "105,63",
-      "Vị trí": "21,92"
+      "Trạm": "Định Hoá",
+      "Kinh độ": "105,63",
+      "Vĩ độ": "21,92",
+      "Cao độ (m)": "220"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "10. Thái Nguyên",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Thái Nguyên",
       "Trạm": "Thái Nguyên",
-      "Vị trí": "105,83"
+      "Kinh độ": "105,83",
+      "Vĩ độ": "21,60",
+      "Cao độ (m)": "36"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "11. Phú Thọ",
       "Thành phố, quận, huyện (hoặc tương đương)": "Thanh Sơn",
       "Trạm": "Minh Đài",
-      "Vị trí": "105,05"
+      "Kinh độ": "105,05",
+      "Vĩ độ": "21,17",
+      "Cao độ (m)": "100"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "11. Phú Thọ",
       "Thành phố, quận, huyện (hoặc tương đương)": "Phong Châu",
       "Trạm": "Phú Hộ",
-      "Vị trí": "105,23"
+      "Kinh độ": "105,23",
+      "Vĩ độ": "21,45",
+      "Cao độ (m)": "36"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "11. Phú Thọ",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Việt Trì",
       "Trạm": "Việt Trì",
-      "Vị trí": "105,42"
+      "Kinh độ": "105,42",
+      "Vĩ độ": "21,30",
+      "Cao độ (m)": "17"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "12. Vĩnh Phúc",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Vĩnh Yên",
       "Trạm": "Tam Đảo",
-      "Vị trí": "105,65"
+      "Kinh độ": "105,65",
+      "Vĩ độ": "21,47",
+      "Cao độ (m)": "897"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "12. Vĩnh Phúc",
       "Thành phố, quận, huyện (hoặc tương đương)": "Vĩnh Yên",
-      "Trạm": "105,60",
-      "Vị trí": "21,32"
+      "Trạm": "Vĩnh Yên",
+      "Kinh độ": "105,60",
+      "Vĩ độ": "21,32",
+      "Cao độ (m)": "10"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "Khu vực Đông Bắc",
       "Thành phố, quận, huyện (hoặc tương đương)": "",
       "Trạm": "",
-      "Vị trí": ""
+      "Kinh độ": "",
+      "Vĩ độ": "",
+      "Cao độ (m)": ""
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "13. Cao Bằng",
       "Thành phố, quận, huyện (hoặc tương đương)": "Bảo Lạc",
-      "Trạm": "105,67",
-      "Vị trí": "22,95"
+      "Trạm": "Bảo Lạc",
+      "Kinh độ": "105,67",
+      "Vĩ độ": "22,95",
+      "Cao độ (m)": "258"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "13. Cao Bằng",
       "Thành phố, quận, huyện (hoặc tương đương)": "Nguyên Bình",
-      "Trạm": "105,95",
-      "Vị trí": "22,65"
+      "Trạm": "Nguyên Bình",
+      "Kinh độ": "105,95",
+      "Vĩ độ": "22,65",
+      "Cao độ (m)": "208"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "13. Cao Bằng",
       "Thành phố, quận, huyện (hoặc tương đương)": "Trùng Khánh",
-      "Trạm": "106,52",
-      "Vị trí": "22,83"
+      "Trạm": "Trùng Khánh",
+      "Kinh độ": "106,52",
+      "Vĩ độ": "22,83",
+      "Cao độ (m)": "520"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "13. Cao Bằng",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Cao Bằng",
       "Trạm": "Cao Bằng",
-      "Vị trí": "106,25"
+      "Kinh độ": "106,25",
+      "Vĩ độ": "22,67",
+      "Cao độ (m)": "258"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "14. Lạng Sơn",
       "Thành phố, quận, huyện (hoặc tương đương)": "Bắc Sơn",
-      "Trạm": "106,32",
-      "Vị trí": "21,90"
+      "Trạm": "Bắc Sơn",
+      "Kinh độ": "106,32",
+      "Vĩ độ": "21,90",
+      "Cao độ (m)": "400"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "14. Lạng Sơn",
       "Thành phố, quận, huyện (hoặc tương đương)": "Hữu Lũng",
-      "Trạm": "106,35",
-      "Vị trí": "21,50"
+      "Trạm": "Hữu Lũng",
+      "Kinh độ": "106,35",
+      "Vĩ độ": "21,50",
+      "Cao độ (m)": "40"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "14. Lạng Sơn",
       "Thành phố, quận, huyện (hoặc tương đương)": "Đình Lập",
-      "Trạm": "107,10",
-      "Vị trí": "21,53"
+      "Trạm": "Đình Lập",
+      "Kinh độ": "107,10",
+      "Vĩ độ": "21,53",
+      "Cao độ (m)": "174"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "14. Lạng Sơn",
       "Thành phố, quận, huyện (hoặc tương đương)": "Tràng Định",
       "Trạm": "Thất Khê",
-      "Vị trí": "106,47"
+      "Kinh độ": "106,47",
+      "Vĩ độ": "22,25",
+      "Cao độ (m)": "275"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "14. Lạng Sơn",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Lạng Sơn",
       "Trạm": "Lạng Sơn",
-      "Vị trí": "106,77"
+      "Kinh độ": "106,77",
+      "Vĩ độ": "21,83",
+      "Cao độ (m)": "258"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "15. Bắc Giang",
       "Thành phố, quận, huyện (hoặc tương đương)": "Lục Ngạn",
-      "Trạm": "106,55",
-      "Vị trí": "21,38"
+      "Trạm": "Lục Ngạn",
+      "Kinh độ": "106,55",
+      "Vĩ độ": "21,38",
+      "Cao độ (m)": "15"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "15. Bắc Giang",
       "Thành phố, quận, huyện (hoặc tương đương)": "Sơn Động",
-      "Trạm": "106,85",
-      "Vị trí": "21,33"
+      "Trạm": "Sơn Động",
+      "Kinh độ": "106,85",
+      "Vĩ độ": "21,33",
+      "Cao độ (m)": "59"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "15. Bắc Giang",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Bắc Giang",
       "Trạm": "Bắc Giang",
-      "Vị trí": "106,22"
+      "Kinh độ": "106,22",
+      "Vĩ độ": "21,30",
+      "Cao độ (m)": "7"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "15. Bắc Giang",
       "Thành phố, quận, huyện (hoặc tương đương)": "Hiệp Hoà",
-      "Trạm": "105,97",
-      "Vị trí": "21,35"
+      "Trạm": "Hiệp Hoà",
+      "Kinh độ": "105,97",
+      "Vĩ độ": "21,35",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "16. Quảng Ninh",
       "Thành phố, quận, huyện (hoặc tương đương)": "Uông Bí",
-      "Trạm": "106,75",
-      "Vị trí": "21,03"
+      "Trạm": "Uông Bí",
+      "Kinh độ": "106,75",
+      "Vĩ độ": "21,03",
+      "Cao độ (m)": "4"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "16. Quảng Ninh",
       "Thành phố, quận, huyện (hoặc tương đương)": "Cô Tô",
-      "Trạm": "107,77",
-      "Vị trí": "20,98"
+      "Trạm": "Cô Tô",
+      "Kinh độ": "107,77",
+      "Vĩ độ": "20,98",
+      "Cao độ (m)": "70"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "16. Quảng Ninh",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Hạ Long",
       "Trạm": "Bãi Cháy",
-      "Vị trí": "107,07"
+      "Kinh độ": "107,07",
+      "Vĩ độ": "20,97",
+      "Cao độ (m)": "87"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "16. Quảng Ninh",
       "Thành phố, quận, huyện (hoặc tương đương)": "Cẩm Phả",
       "Trạm": "Cửa Ông",
-      "Vị trí": "107,35"
+      "Kinh độ": "107,35",
+      "Vĩ độ": "21,02",
+      "Cao độ (m)": "60"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "16. Quảng Ninh",
       "Thành phố, quận, huyện (hoặc tương đương)": "Tiên Yên",
-      "Trạm": "107,40",
-      "Vị trí": "21,33"
+      "Trạm": "Tiên Yên",
+      "Kinh độ": "107,40",
+      "Vĩ độ": "21,33",
+      "Cao độ (m)": "14"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "16. Quảng Ninh",
       "Thành phố, quận, huyện (hoặc tương đương)": "Hải Ninh",
       "Trạm": "Móng Cái",
-      "Vị trí": "107,97"
+      "Kinh độ": "107,97",
+      "Vĩ độ": "21,52",
+      "Cao độ (m)": "7"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "16. Quảng Ninh",
       "Thành phố, quận, huyện (hoặc tương đương)": "Quảng Hà",
-      "Trạm": "107,75",
-      "Vị trí": "21,45"
+      "Trạm": "Quảng Hà",
+      "Kinh độ": "107,75",
+      "Vĩ độ": "21,45",
+      "Cao độ (m)": "6"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "17. Hải Phòng",
       "Thành phố, quận, huyện (hoặc tương đương)": "Kiến An",
       "Trạm": "Phù Liễn",
-      "Vị trí": "106,63"
+      "Kinh độ": "106,63",
+      "Vĩ độ": "20,80",
+      "Cao độ (m)": "113"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "17. Hải Phòng",
       "Thành phố, quận, huyện (hoặc tương đương)": "Đồ Sơn",
       "Trạm": "Hòn Dấu",
-      "Vị trí": "106,80"
+      "Kinh độ": "106,80",
+      "Vĩ độ": "20,67",
+      "Cao độ (m)": "38"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "17. Hải Phòng",
       "Thành phố, quận, huyện (hoặc tương đương)": "Bạch Long Vĩ",
-      "Trạm": "107,72",
-      "Vị trí": "20,13"
+      "Trạm": "Bạch Long Vĩ",
+      "Kinh độ": "107,72",
+      "Vĩ độ": "20,13",
+      "Cao độ (m)": "63"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "Khu vực Đồng bằng Bắc Bộ",
       "Thành phố, quận, huyện (hoặc tương đương)": "",
       "Trạm": "",
-      "Vị trí": ""
+      "Kinh độ": "",
+      "Vĩ độ": "",
+      "Cao độ (m)": ""
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "18. Hà Nội",
       "Thành phố, quận, huyện (hoặc tương đương)": "Ba Vì",
-      "Trạm": "105,42",
-      "Vị trí": "21,15"
+      "Trạm": "Ba Vì",
+      "Kinh độ": "105,42",
+      "Vĩ độ": "21,15",
+      "Cao độ (m)": "20"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "18. Hà Nội",
       "Thành phố, quận, huyện (hoặc tương đương)": "Hà Đông",
-      "Trạm": "105,75",
-      "Vị trí": "20,97"
+      "Trạm": "Hà Đông",
+      "Kinh độ": "105,75",
+      "Vĩ độ": "20,97",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "18. Hà Nội",
       "Thành phố, quận, huyện (hoặc tương đương)": "TX. Sơn Tây",
       "Trạm": "Sơn Tây",
-      "Vị trí": "105,50"
+      "Kinh độ": "105,50",
+      "Vĩ độ": "21,13",
+      "Cao độ (m)": "7"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "18. Hà Nội",
       "Thành phố, quận, huyện (hoặc tương đương)": "Đống Đa",
       "Trạm": "Láng",
-      "Vị trí": "105,80"
+      "Kinh độ": "105,80",
+      "Vĩ độ": "21,03",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "19. Hải Dương",
       "Thành phố, quận, huyện (hoặc tương đương)": "Chí Linh",
-      "Trạm": "106,38",
-      "Vị trí": "21,08"
+      "Trạm": "Chí Linh",
+      "Kinh độ": "106,38",
+      "Vĩ độ": "21,08",
+      "Cao độ (m)": "30"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "19. Hải Dương",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Hải Dương",
       "Trạm": "Hải Dương",
-      "Vị trí": "106,30"
+      "Kinh độ": "106,30",
+      "Vĩ độ": "20,93",
+      "Cao độ (m)": "2"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "20. Hưng Yên",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Hưng Yên",
       "Trạm": "Hưng Yên",
-      "Vị trí": "106,05"
+      "Kinh độ": "106,05",
+      "Vĩ độ": "20,65",
+      "Cao độ (m)": "4"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "21. Nam Định",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Nam Định",
       "Trạm": "Nam Định",
-      "Vị trí": "106,15"
+      "Kinh độ": "106,15",
+      "Vĩ độ": "20,40",
+      "Cao độ (m)": "3"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "21. Nam Định",
       "Thành phố, quận, huyện (hoặc tương đương)": "Hải Hậu",
       "Trạm": "Văn Lý",
-      "Vị trí": "106,30"
+      "Kinh độ": "106,30",
+      "Vĩ độ": "20,12",
+      "Cao độ (m)": "3"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "22. Thái Bình",
       "Thành phố, quận, huyện (hoặc tương đương)": "Kiến Xương",
       "Trạm": "Thái Bình",
-      "Vị trí": "106,35"
+      "Kinh độ": "106,35",
+      "Vĩ độ": "20,45",
+      "Cao độ (m)": "3"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "23. Hà Nam",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Phủ Lý",
       "Trạm": "Hà Nam",
-      "Vị trí": "105,92"
+      "Kinh độ": "105,92",
+      "Vĩ độ": "20,55",
+      "Cao độ (m)": "3"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "24. Ninh Bình",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Ninh Bình",
       "Trạm": "Ninh Bình",
-      "Vị trí": "105,97"
+      "Kinh độ": "105,97",
+      "Vĩ độ": "20,23",
+      "Cao độ (m)": "2"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "24. Ninh Bình",
       "Thành phố, quận, huyện (hoặc tương đương)": "Hoàng Long",
       "Trạm": "Nho Quan",
-      "Vị trí": "105,73"
+      "Kinh độ": "105,73",
+      "Vĩ độ": "20,33",
+      "Cao độ (m)": "12"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "Khu vực Bắc Trung Bộ",
       "Thành phố, quận, huyện (hoặc tương đương)": "",
       "Trạm": "",
-      "Vị trí": ""
+      "Kinh độ": "",
+      "Vĩ độ": "",
+      "Cao độ (m)": ""
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "25. Thanh Hoá",
       "Thành phố, quận, huyện (hoặc tương đương)": "Yên Định",
-      "Trạm": "105,67",
-      "Vị trí": "19,98"
+      "Trạm": "Yên Định",
+      "Kinh độ": "105,67",
+      "Vĩ độ": "19,98",
+      "Cao độ (m)": "9"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "25. Thanh Hoá",
       "Thành phố, quận, huyện (hoặc tương đương)": "Thọ Xuân",
       "Trạm": "Bái Thượng",
-      "Vị trí": "105,38"
+      "Kinh độ": "105,38",
+      "Vĩ độ": "19,90",
+      "Cao độ (m)": "21"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "25. Thanh Hoá",
       "Thành phố, quận, huyện (hoặc tương đương)": "Như Thanh",
       "Trạm": "Như Xuân",
-      "Vị trí": "105,57"
+      "Kinh độ": "105,57",
+      "Vĩ độ": "19,63",
+      "Cao độ (m)": "10"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "25. Thanh Hoá",
       "Thành phố, quận, huyện (hoặc tương đương)": "TX. Nghi Sơn",
       "Trạm": "Tĩnh Gia",
-      "Vị trí": "105,78"
+      "Kinh độ": "105,78",
+      "Vĩ độ": "19,45",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "25. Thanh Hoá",
       "Thành phố, quận, huyện (hoặc tương đương)": "Quảng Xương",
       "Trạm": "Thanh Hoá",
-      "Vị trí": "105,78"
+      "Kinh độ": "105,78",
+      "Vĩ độ": "19,75",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "25. Thanh Hoá",
       "Thành phố, quận, huyện (hoặc tương đương)": "Quan Hoá",
       "Trạm": "Hồi Xuân",
-      "Vị trí": "105,12"
+      "Kinh độ": "105,12",
+      "Vĩ độ": "20,37",
+      "Cao độ (m)": "87"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "26. Nghệ An",
       "Thành phố, quận, huyện (hoặc tương đương)": "Quỳ Châu",
-      "Trạm": "105,12",
-      "Vị trí": "19,57"
+      "Trạm": "Quỳ Châu",
+      "Kinh độ": "105,12",
+      "Vĩ độ": "19,57",
+      "Cao độ (m)": "87"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "26. Nghệ An",
       "Thành phố, quận, huyện (hoặc tương đương)": "Quỳ Hợp",
-      "Trạm": "105,15",
-      "Vị trí": "19,32"
+      "Trạm": "Quỳ Hợp",
+      "Kinh độ": "105,15",
+      "Vĩ độ": "19,32",
+      "Cao độ (m)": "88"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "26. Nghệ An",
       "Thành phố, quận, huyện (hoặc tương đương)": "Nghĩa Đàn",
       "Trạm": "Tây Hiếu",
-      "Vị trí": "105,40"
+      "Kinh độ": "105,40",
+      "Vĩ độ": "19,32",
+      "Cao độ (m)": "72"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "26. Nghệ An",
       "Thành phố, quận, huyện (hoặc tương đương)": "Quỳnh Lưu",
-      "Trạm": "105,63",
-      "Vị trí": "19,17"
+      "Trạm": "Quỳnh Lưu",
+      "Kinh độ": "105,63",
+      "Vĩ độ": "19,17",
+      "Cao độ (m)": "3"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "26. Nghệ An",
       "Thành phố, quận, huyện (hoặc tương đương)": "Con Cuông",
-      "Trạm": "104,88",
-      "Vị trí": "19,05"
+      "Trạm": "Con Cuông",
+      "Kinh độ": "104,88",
+      "Vĩ độ": "19,05",
+      "Cao độ (m)": "27"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "26. Nghệ An",
       "Thành phố, quận, huyện (hoặc tương đương)": "Đô Lương",
-      "Trạm": "105,30",
-      "Vị trí": "18,90"
+      "Trạm": "Đô Lương",
+      "Kinh độ": "105,30",
+      "Vĩ độ": "18,90",
+      "Cao độ (m)": "4"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "26. Nghệ An",
       "Thành phố, quận, huyện (hoặc tương đương)": "Tương Dương",
-      "Trạm": "104,43",
-      "Vị trí": "18,90"
+      "Trạm": "Tương Dương",
+      "Kinh độ": "104,43",
+      "Vĩ độ": "18,90",
+      "Cao độ (m)": "97"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "26. Nghệ An",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Vinh",
       "Trạm": "Vinh",
-      "Vị trí": "105,70"
+      "Kinh độ": "105,70",
+      "Vĩ độ": "18,67",
+      "Cao độ (m)": "6"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "27. Hà Tĩnh",
       "Thành phố, quận, huyện (hoặc tương đương)": "Hương Khê",
-      "Trạm": "105,72",
-      "Vị trí": "18,18"
+      "Trạm": "Hương Khê",
+      "Kinh độ": "105,72",
+      "Vĩ độ": "18,18",
+      "Cao độ (m)": "10"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "27. Hà Tĩnh",
       "Thành phố, quận, huyện (hoặc tương đương)": "Kỳ Anh",
-      "Trạm": "106,28",
-      "Vị trí": "18,08"
+      "Trạm": "Kỳ Anh",
+      "Kinh độ": "106,28",
+      "Vĩ độ": "18,08",
+      "Cao độ (m)": "3"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "27. Hà Tĩnh",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Hà Tĩnh",
       "Trạm": "Hà Tĩnh",
-      "Vị trí": "105,90"
+      "Kinh độ": "105,90",
+      "Vĩ độ": "18,35",
+      "Cao độ (m)": "3"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "28. Quảng Bình",
       "Thành phố, quận, huyện (hoặc tương đương)": "Tuyên Hoá",
-      "Trạm": "106,02",
-      "Vị trí": "17,88"
+      "Trạm": "Tuyên Hoá",
+      "Kinh độ": "106,02",
+      "Vĩ độ": "17,88",
+      "Cao độ (m)": "25"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "28. Quảng Bình",
       "Thành phố, quận, huyện (hoặc tương đương)": "Quảng Trạch",
       "Trạm": "Ba Đồn",
-      "Vị trí": "106,42"
+      "Kinh độ": "106,42",
+      "Vĩ độ": "17,75",
+      "Cao độ (m)": "8"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "28. Quảng Bình",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Đồng Hới",
       "Trạm": "Đồng Hới",
-      "Vị trí": "106,60"
+      "Kinh độ": "106,60",
+      "Vĩ độ": "17,48",
+      "Cao độ (m)": "7"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "29. Quảng Trị",
       "Thành phố, quận, huyện (hoặc tương đương)": "Vĩnh Linh",
       "Trạm": "Cồn Cỏ",
-      "Vị trí": "107,33"
+      "Kinh độ": "107,33",
+      "Vĩ độ": "17,17",
+      "Cao độ (m)": "6"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "29. Quảng Trị",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Đông Hà",
       "Trạm": "Đông Hà",
-      "Vị trí": "107,08"
+      "Kinh độ": "107,08",
+      "Vĩ độ": "16,85",
+      "Cao độ (m)": "4"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "29. Quảng Trị",
       "Thành phố, quận, huyện (hoặc tương đương)": "Hướng Hoá",
       "Trạm": "Khe Sanh",
-      "Vị trí": "106,73"
+      "Kinh độ": "106,73",
+      "Vĩ độ": "16,63",
+      "Cao độ (m)": "367"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "30. Thừa Thiên Huế",
       "Thành phố, quận, huyện (hoặc tương đương)": "A Lưới",
-      "Trạm": "107,28",
-      "Vị trí": "16,22"
+      "Trạm": "A Lưới",
+      "Kinh độ": "107,28",
+      "Vĩ độ": "16,22",
+      "Cao độ (m)": "600"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "30. Thừa Thiên Huế",
       "Thành phố, quận, huyện (hoặc tương đương)": "Nam Đông",
-      "Trạm": "107,72",
-      "Vị trí": "16,17"
+      "Trạm": "Nam Đông",
+      "Kinh độ": "107,72",
+      "Vĩ độ": "16,17",
+      "Cao độ (m)": "15"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "30. Thừa Thiên Huế",
       "Thành phố, quận, huyện (hoặc tương đương)": "Huế",
-      "Trạm": "107,58",
-      "Vị trí": "16,43"
+      "Trạm": "Huế",
+      "Kinh độ": "107,58",
+      "Vĩ độ": "16,43",
+      "Cao độ (m)": "17"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "Khu vực Nam Trung Bộ",
       "Thành phố, quận, huyện (hoặc tương đương)": "",
       "Trạm": "",
-      "Vị trí": ""
+      "Kinh độ": "",
+      "Vĩ độ": "",
+      "Cao độ (m)": ""
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "31. Đà Nẵng",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Đà Nẵng",
       "Trạm": "Đà Nẵng",
-      "Vị trí": "108,20"
+      "Kinh độ": "108,20",
+      "Vĩ độ": "16,03",
+      "Cao độ (m)": "6"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "32. Quảng Nam",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Tam Kỳ",
       "Trạm": "Tam Kỳ",
-      "Vị trí": "108,47"
+      "Kinh độ": "108,47",
+      "Vĩ độ": "15,57",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "32. Quảng Nam",
       "Thành phố, quận, huyện (hoặc tương đương)": "Trà My",
-      "Trạm": "108,25",
-      "Vị trí": "15,33"
+      "Trạm": "Trà My",
+      "Kinh độ": "108,25",
+      "Vĩ độ": "15,33",
+      "Cao độ (m)": "3"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "33. Quảng Ngãi",
       "Thành phố, quận, huyện (hoặc tương đương)": "Ba Tơ",
-      "Trạm": "108,73",
-      "Vị trí": "14,77"
+      "Trạm": "Ba Tơ",
+      "Kinh độ": "108,73",
+      "Vĩ độ": "14,77",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "33. Quảng Ngãi",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Quảng Ngãi",
       "Trạm": "Quảng Ngãi",
-      "Vị trí": "108,80"
+      "Kinh độ": "108,80",
+      "Vĩ độ": "15,12",
+      "Cao độ (m)": "8"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "33. Quảng Ngãi",
       "Thành phố, quận, huyện (hoặc tương đương)": "Lý Sơn",
-      "Trạm": "109,15",
-      "Vị trí": "15,38"
+      "Trạm": "Lý Sơn",
+      "Kinh độ": "109,15",
+      "Vĩ độ": "15,38",
+      "Cao độ (m)": "12"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "34. Bình Định",
       "Thành phố, quận, huyện (hoặc tương đương)": "Hoài Nhơn",
-      "Trạm": "109,03",
-      "Vị trí": "14,52"
+      "Trạm": "Hoài Nhơn",
+      "Kinh độ": "109,03",
+      "Vĩ độ": "14,52",
+      "Cao độ (m)": "6"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "34. Bình Định",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Quy Nhơn",
       "Trạm": "Quy Nhơn",
-      "Vị trí": "109,22"
+      "Kinh độ": "109,22",
+      "Vĩ độ": "13,77",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "35. Phú Yên",
       "Thành phố, quận, huyện (hoặc tương đương)": "Tây Sơn",
       "Trạm": "Sơn Hoà",
-      "Vị trí": "108,98"
+      "Kinh độ": "108,98",
+      "Vĩ độ": "13,05",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "35. Phú Yên",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Tuy Hoà",
       "Trạm": "Tuy Hoà",
-      "Vị trí": "109,28"
+      "Kinh độ": "109,28",
+      "Vĩ độ": "13,08",
+      "Cao độ (m)": "12"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "36. Khánh Hoà",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Nha Trang",
       "Trạm": "Nha Trang",
-      "Vị trí": "109,20"
+      "Kinh độ": "109,20",
+      "Vĩ độ": "12,22",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "36. Khánh Hoà",
       "Thành phố, quận, huyện (hoặc tương đương)": "Cam Ranh",
-      "Trạm": "109,15",
-      "Vị trí": "11,92"
+      "Trạm": "Cam Ranh",
+      "Kinh độ": "109,15",
+      "Vĩ độ": "11,92",
+      "Cao độ (m)": "7"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "36. Khánh Hoà",
       "Thành phố, quận, huyện (hoặc tương đương)": "Trường Sa",
-      "Trạm": "111,92",
-      "Vị trí": "8,65"
+      "Trạm": "Trường Sa",
+      "Kinh độ": "111,92",
+      "Vĩ độ": "8,65",
+      "Cao độ (m)": "2"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "37. Ninh Thuận",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Phan Rang",
       "Trạm": "Phan Rang",
-      "Vị trí": "108,98"
+      "Kinh độ": "108,98",
+      "Vĩ độ": "11,58",
+      "Cao độ (m)": "6"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "38. Bình Thuận",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Phan Thiết",
       "Trạm": "Phan Thiết",
-      "Vị trí": "108,10"
+      "Kinh độ": "108,10",
+      "Vĩ độ": "10,93",
+      "Cao độ (m)": "9"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "38. Bình Thuận",
       "Thành phố, quận, huyện (hoặc tương đương)": "Hàm Tân",
       "Trạm": "La Gi",
-      "Vị trí": "107,77"
+      "Kinh độ": "107,77",
+      "Vĩ độ": "10,68",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "38. Bình Thuận",
       "Thành phố, quận, huyện (hoặc tương đương)": "Phú Quý",
-      "Trạm": "108,93",
-      "Vị trí": "10,52"
+      "Trạm": "Phú Quý",
+      "Kinh độ": "108,93",
+      "Vĩ độ": "10,52",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "Khu vực Tây Nguyên",
       "Thành phố, quận, huyện (hoặc tương đương)": "",
       "Trạm": "",
-      "Vị trí": ""
+      "Kinh độ": "",
+      "Vĩ độ": "",
+      "Cao độ (m)": ""
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "39. Kon Tum",
       "Thành phố, quận, huyện (hoặc tương đương)": "Đắc Tô",
-      "Trạm": "107,83",
-      "Vị trí": "14,65"
+      "Trạm": "Đắc Tô",
+      "Kinh độ": "107,83",
+      "Vĩ độ": "14,65",
+      "Cao độ (m)": "500"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "39. Kon Tum",
       "Thành phố, quận, huyện (hoặc tương đương)": "Kon Tum",
-      "Trạm": "108,00",
-      "Vị trí": "14,33"
+      "Trạm": "Kon Tum",
+      "Kinh độ": "108,00",
+      "Vĩ độ": "14,33",
+      "Cao độ (m)": "536"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "40. Gia Lai",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. PlêiKu",
       "Trạm": "PlêiKu",
-      "Vị trí": "108,02"
+      "Kinh độ": "108,02",
+      "Vĩ độ": "13,97",
+      "Cao độ (m)": "800"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "40. Gia Lai",
       "Thành phố, quận, huyện (hoặc tương đương)": "An Khê",
-      "Trạm": "108,65",
-      "Vị trí": "13,95"
+      "Trạm": "An Khê",
+      "Kinh độ": "108,65",
+      "Vĩ độ": "13,95",
+      "Cao độ (m)": "150"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "40. Gia Lai",
       "Thành phố, quận, huyện (hoặc tương đương)": "Ayunpa",
-      "Trạm": "108,45",
-      "Vị trí": "13,38"
+      "Trạm": "Ayunpa",
+      "Kinh độ": "108,45",
+      "Vĩ độ": "13,38",
+      "Cao độ (m)": "27"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "41. Đắc Lắc",
       "Thành phố, quận, huyện (hoặc tương đương)": "M' Ěrak",
-      "Trạm": "108,77",
-      "Vị trí": "12,73"
+      "Trạm": "M' Ěrak",
+      "Kinh độ": "108,77",
+      "Vĩ độ": "12,73",
+      "Cao độ (m)": "478"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "41. Đắc Lắc",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Buôn Ma Thuột",
       "Trạm": "Buôn Ma Thuột",
-      "Vị trí": "108,05"
+      "Kinh độ": "108,05",
+      "Vĩ độ": "12,67",
+      "Cao độ (m)": "490"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "41. Đắc Lắc",
       "Thành phố, quận, huyện (hoặc tương đương)": "Krông Buk",
       "Trạm": "Buôn Hồ",
-      "Vị trí": "108,27"
+      "Kinh độ": "108,27",
+      "Vĩ độ": "12,92",
+      "Cao độ (m)": "700"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "42. Đắc Nông",
       "Thành phố, quận, huyện (hoặc tương đương)": "Đắc Nông",
-      "Trạm": "107,68",
-      "Vị trí": "12,00"
+      "Trạm": "Đắc Nông",
+      "Kinh độ": "107,68",
+      "Vĩ độ": "12,00",
+      "Cao độ (m)": "660"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "43. Lâm Đồng",
       "Thành phố, quận, huyện (hoặc tương đương)": "Đức Trọng",
       "Trạm": "Liên Khương",
-      "Vị trí": "108,38"
+      "Kinh độ": "108,38",
+      "Vĩ độ": "11,75",
+      "Cao độ (m)": "961"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "43. Lâm Đồng",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Đà Lạt",
       "Trạm": "Đà Lạt",
-      "Vị trí": "108,45"
+      "Kinh độ": "108,45",
+      "Vĩ độ": "11,95",
+      "Cao độ (m)": "1513"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "43. Lâm Đồng",
       "Thành phố, quận, huyện (hoặc tương đương)": "Bảo Lộc",
-      "Trạm": "107,82",
-      "Vị trí": "11,53"
+      "Trạm": "Bảo Lộc",
+      "Kinh độ": "107,82",
+      "Vĩ độ": "11,53",
+      "Cao độ (m)": "850"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "Khu vực Nam Bộ",
       "Thành phố, quận, huyện (hoặc tương đương)": "",
       "Trạm": "",
-      "Vị trí": ""
+      "Kinh độ": "",
+      "Vĩ độ": "",
+      "Cao độ (m)": ""
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "44. Bình Phước",
       "Thành phố, quận, huyện (hoặc tương đương)": "Đồng Phú",
       "Trạm": "Đồng Xoài",
-      "Vị trí": "106,90"
+      "Kinh độ": "106,90",
+      "Vĩ độ": "11,53",
+      "Cao độ (m)": "82"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "44. Bình Phước",
       "Thành phố, quận, huyện (hoặc tương đương)": "Phước Long",
-      "Trạm": "106,98",
-      "Vị trí": "11,83"
+      "Trạm": "Phước Long",
+      "Kinh độ": "106,98",
+      "Vĩ độ": "11,83",
+      "Cao độ (m)": "245"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "45. Tây Ninh",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Tây Ninh",
       "Trạm": "Tây Ninh",
-      "Vị trí": "106,12"
+      "Kinh độ": "106,12",
+      "Vĩ độ": "11,33",
+      "Cao độ (m)": "10"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "46. Bà Rịa Vũng Tàu",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Vũng Tàu",
       "Trạm": "Vũng Tàu",
-      "Vị trí": "107,08"
+      "Kinh độ": "107,08",
+      "Vĩ độ": "10,37",
+      "Cao độ (m)": "4"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "46. Bà Rịa Vũng Tàu",
       "Thành phố, quận, huyện (hoặc tương đương)": "Côn Đảo",
-      "Trạm": "106,60",
-      "Vị trí": "8,68"
+      "Trạm": "Côn Đảo",
+      "Kinh độ": "106,60",
+      "Vĩ độ": "8,68",
+      "Cao độ (m)": "7"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "47. TP. Hồ Chí Minh",
       "Thành phố, quận, huyện (hoặc tương đương)": "Tân Bình",
       "Trạm": "Tân Sơn Hoà",
-      "Vị trí": "106,67"
+      "Kinh độ": "106,67",
+      "Vĩ độ": "10,80",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "48.Long An",
       "Thành phố, quận, huyện (hoặc tương đương)": "Mộc Hoá",
-      "Trạm": "105,93",
-      "Vị trí": "10,78"
+      "Trạm": "Mộc Hoá",
+      "Kinh độ": "105,93",
+      "Vĩ độ": "10,78",
+      "Cao độ (m)": "3"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "49. Tiền Giang",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Mỹ Tho",
       "Trạm": "Mỹ Tho",
-      "Vị trí": "106,40"
+      "Kinh độ": "106,40",
+      "Vĩ độ": "10,35",
+      "Cao độ (m)": "2"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "50. Đồng Tháp",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Cao Lãnh",
       "Trạm": "Cao Lãnh",
-      "Vị trí": "105,63"
+      "Kinh độ": "105,63",
+      "Vĩ độ": "10,47",
+      "Cao độ (m)": "2"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "51. Bến Tre",
       "Thành phố, quận, huyện (hoặc tương đương)": "Ba Tri",
-      "Trạm": "106,60",
-      "Vị trí": "10,05"
+      "Trạm": "Ba Tri",
+      "Kinh độ": "106,60",
+      "Vĩ độ": "10,05",
+      "Cao độ (m)": "12"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "52. Trà Vinh",
       "Thành phố, quận, huyện (hoặc tương đương)": "Càng Long",
-      "Trạm": "106,20",
-      "Vị trí": "9,98"
+      "Trạm": "Càng Long",
+      "Kinh độ": "106,20",
+      "Vĩ độ": "9,98",
+      "Cao độ (m)": "2"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "53. An Giang",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Châu Đốc",
       "Trạm": "Châu Đốc",
-      "Vị trí": "105,13"
+      "Kinh độ": "105,13",
+      "Vĩ độ": "10,70",
+      "Cao độ (m)": "5"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "54. Cần Thơ",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Cần Thơ",
       "Trạm": "Cần Thơ",
-      "Vị trí": "105,77"
+      "Kinh độ": "105,77",
+      "Vĩ độ": "10,03",
+      "Cao độ (m)": "3"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "55. Sóc Trăng",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Sóc Trăng",
       "Trạm": "Sóc Trăng",
-      "Vị trí": "105,97"
+      "Kinh độ": "105,97",
+      "Vĩ độ": "9,60",
+      "Cao độ (m)": "3"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "56. Kiên Giang",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Rạch Giá",
       "Trạm": "Rạch Giá",
-      "Vị trí": "105,07"
+      "Kinh độ": "105,07",
+      "Vĩ độ": "10,00",
+      "Cao độ (m)": "2"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "56. Kiên Giang",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Phú Quốc",
       "Trạm": "Phú Quốc",
-      "Vị trí": "103,97"
+      "Kinh độ": "103,97",
+      "Vĩ độ": "10,22",
+      "Cao độ (m)": "2"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "57. Bạc Liêu",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Bạc Liêu",
       "Trạm": "Bạc Liêu",
-      "Vị trí": "105,72"
+      "Kinh độ": "105,72",
+      "Vĩ độ": "9,28",
+      "Cao độ (m)": "2"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "58. Cà Mau",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Cà Mau",
       "Trạm": "Cà Mau",
-      "Vị trí": "105,15"
+      "Kinh độ": "105,15",
+      "Vĩ độ": "9,18",
+      "Cao độ (m)": "3"
     },
     {
       "Tỉnh, thành phố trực thuộc Trung ương": "59. Vĩnh Long",
       "Thành phố, quận, huyện (hoặc tương đương)": "TP. Vĩnh Long",
       "Trạm": "Vĩnh Long",
-      "Vị trí": "105,58"
+      "Kinh độ": "105,58",
+      "Vĩ độ": "10,25",
+      "Cao độ (m)": "3"
     }
   ],
   "footnotes": []

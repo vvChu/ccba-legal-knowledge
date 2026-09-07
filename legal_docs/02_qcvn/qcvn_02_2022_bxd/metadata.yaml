@@ -26,3 +26,7 @@ source_assets:
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2022_bxd/qcvn_02_2022_bxd.pdf
     status: verified
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-02-2022-TT-BXD-QCVN-02-2022-BXD-So-lieu-dieu-kien-tu-nhien-dung-trong-xay-dung-530884.aspx
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-07T15:00:00+07:00'

@@ -1,6 +1,6 @@
 {
   "table_id": "bang_08",
-  "rows_count": 9,
+  "rows_count": 6,
   "columns_count": 3,
   "headers": [
     "Cường độ chấn động bề mặt (hay cấp động đất), I",
@@ -37,17 +37,10 @@
       "Cường độ chấn động bề mặt (hay cấp động đất), I": "X",
       "Đỉnh gia tốc nền tham chiếu, agR": "0,48g - 0,8g",
       "Mô tả các dấu hiệu": "Phá hoại hoàn toàn nhà cửa Nhiều nhà kiểu C bị hư hại bậc 4, một số ít bậc 5; nhiều nhà kiểu B bị hư hại bậc 5, đa số nhà kiểu A bị hư hại bậc 5. Đê đập hư hại nguy hiểm, cầu hư hại nặng. Đường sắt hơi bị cong, ống dẫn ngầm bị cong hay gẫy. Lớp đá phủ và lớp nhựa đường đi tạo thành một mặt lượn sóng. Nền đất bị nứt rộng vài dm và trong vài trường hợp tới 1m. Song song với lòng các dòng, nước chảy, xuất hiện những đứt gãy rộng. Lở đá bở từ sườn dốc đứng. Có thể có trượt đất lớn ở bờ sông và bờ biển dốc đứng. Sánh nước ra ngoài kênh, hồ, sông...., xuất hiện hồ nước mới."
-    },
-    {
-      "Cường độ chấn động bề mặt (hay cấp động đất), I": "1) Nguồn: Phụ lục VIII, B., Quyết định số 18/2021/QĐ-TTg của TTCP ngày 22/4/2021.",
-      "Đỉnh gia tốc nền tham chiếu, agR": "",
-      "Mô tả các dấu hiệu": ""
-    },
-    {
-      "Cường độ chấn động bề mặt (hay cấp động đất), I": "CHÚ THÍCH: Trong Bảng 6.4, trị số agR là đỉnh gia tốc nền tham chiếu xác định cho nền loại A (đá, đá cứng), chu kỳ lặp 500 năm, khi chuyển đổi thì cường độ chấn động bề mặt trong Bảng 6.4 là cấp động đất theo thang MSK -64 cũng tương ứng với nền loại A, chu kỳ lặp 500 năm; g = 9,81 m/s2 (gia tốc trọng trường).",
-      "Đỉnh gia tốc nền tham chiếu, agR": "",
-      "Mô tả các dấu hiệu": ""
     }
   ],
-  "footnotes": []
+  "footnotes": [
+    "1) Nguồn: Phụ lục VIII, B., Quyết định số 18/2021/QĐ-TTg của TTCP ngày 22/4/2021.",
+    "CHÚ THÍCH: Trong Bảng 6.4, trị số agR là đỉnh gia tốc nền tham chiếu xác định cho nền loại A (đá, đá cứng), chu kỳ lặp 500 năm, khi chuyển đổi thì cường độ chấn động bề mặt trong Bảng 6.4 là cấp động đất theo thang MSK -64 cũng tương ứng với nền loại A, chu kỳ lặp 500 năm; g = 9,81 m/s2 (gia tốc trọng trường)."
+  ]
 }
