@@ -7,7 +7,7 @@
     "Tên phòng",
     "Nhóm phòng",
     "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm",
-    "Độ rọi nhỏ nhất cho phéplx"
+    "Độ rọi nhỏ nhất cho phép lx"
   ],
   "rows": [
     {
@@ -15,105 +15,105 @@
       "Tên phòng": "1 Sảnh vào và phòng gửi áo khoác ngoài:",
       "Nhóm phòng": "3",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": ""
+      "Độ rọi nhỏ nhất cho phép lx": ""
     },
     {
       "_row_id": 2,
       "Tên phòng": "a) Các trường đại học, trường phổ thông, ký túc xá, khách sạn nhà hát, câu lạc bộ",
       "Nhóm phòng": "",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "100"
+      "Độ rọi nhỏ nhất cho phép lx": "100"
     },
     {
       "_row_id": 3,
       "Tên phòng": "b) Các công trình công cộng khác",
       "Nhóm phòng": "",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "100"
+      "Độ rọi nhỏ nhất cho phép lx": "100"
     },
     {
       "_row_id": 4,
       "Tên phòng": "2 Cầu thang",
       "Nhóm phòng": "3",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": ""
+      "Độ rọi nhỏ nhất cho phép lx": ""
     },
     {
       "_row_id": 5,
       "Tên phòng": "a) Các cầu thang chính",
       "Nhóm phòng": "",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "150"
+      "Độ rọi nhỏ nhất cho phép lx": "150"
     },
     {
       "_row_id": 6,
       "Tên phòng": "b) Các cầu thang khác",
       "Nhóm phòng": "",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "Chiếu nghỉ và các bậc thang",
-      "Độ rọi nhỏ nhất cho phéplx": "100"
+      "Độ rọi nhỏ nhất cho phép lx": "100"
     },
     {
       "_row_id": 7,
       "Tên phòng": "3 Sảnh đợi thang máy",
       "Nhóm phòng": "3",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "50"
+      "Độ rọi nhỏ nhất cho phép lx": "50"
     },
     {
       "_row_id": 8,
       "Tên phòng": "4 Phòng thường trực",
       "Nhóm phòng": "3",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "75"
+      "Độ rọi nhỏ nhất cho phép lx": "75"
     },
     {
       "_row_id": 9,
       "Tên phòng": "5 Hành lang lối đi, cầu nối:",
       "Nhóm phòng": "2",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": ""
+      "Độ rọi nhỏ nhất cho phép lx": ""
     },
     {
       "_row_id": 10,
       "Tên phòng": "a) Các hành lang và lối đi chính",
       "Nhóm phòng": "",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "100"
+      "Độ rọi nhỏ nhất cho phép lx": "100"
     },
     {
       "_row_id": 11,
       "Tên phòng": "b) Các hành lang và lối đi khác",
       "Nhóm phòng": "",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "100"
+      "Độ rọi nhỏ nhất cho phép lx": "100"
     },
     {
       "_row_id": 12,
       "Tên phòng": "6. Tầng giáp mái:",
       "Nhóm phòng": "",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "50"
+      "Độ rọi nhỏ nhất cho phép lx": "50"
     },
     {
       "_row_id": 13,
       "Tên phòng": "7 Phòng vệ sinh trong các nhà công cộng:",
       "Nhóm phòng": "3",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": ""
+      "Độ rọi nhỏ nhất cho phép lx": ""
     },
     {
       "_row_id": 14,
       "Tên phòng": "a) Buồng rửa mặt, xí, buồng vệ sinh phụ nữ",
       "Nhóm phòng": "",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "150"
+      "Độ rọi nhỏ nhất cho phép lx": "150"
     },
     {
       "_row_id": 15,
       "Tên phòng": "b) Buồng tắm hoa sen, buồng gửi quần áo",
       "Nhóm phòng": "",
       "Mặt phẳng quy định độ rọi và độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "150"
+      "Độ rọi nhỏ nhất cho phép lx": "150"
     }
   ],
   "footnotes": []

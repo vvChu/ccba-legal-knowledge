@@ -685,7 +685,7 @@ Lượng nước tiêu thụ tính toán cho việc chữa cháy bên ngoài c�
 <a id="bang-bang-07"></a>
 ### Bảng 7 - Lưu lượng nước cho chữa cháy ngoài nhà đối với gara ô-tô trên mặt đất dạng kín hoặc hở
 
-| Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Tới5 | Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn5 đến 20 | Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn20 đến 50 | Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn50 |
+| Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Tới 5 | Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 5 đến 20 | Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 20 đến 50 | Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 50 |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | I, II, III | S0, S1 | 10 | 15 | 20 | 30 |
 | IV | S0, S1 | 10 | 15 | 20 | - |

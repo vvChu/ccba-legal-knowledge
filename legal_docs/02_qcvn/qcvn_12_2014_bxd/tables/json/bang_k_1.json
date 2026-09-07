@@ -4,14 +4,14 @@
   "table_title": "Bảng K.1 - Điện áp chịu đựng tần số công nghiệp cho phép",
   "archetype": "FLAT_MATRIX",
   "headers": [
-    "Thời gian của sự cố chạm đất mạng cao áps",
-    "Điện áp chịu đựng cho phép trên thiết bị của hệ thống điện nhàV"
+    "Thời gian của sự cố chạm đất mạng cao áp s",
+    "Điện áp chịu đựng cho phép trên thiết bị của hệ thống điện nhà V"
   ],
   "rows": [
     {
       "_row_id": 1,
-      "Thời gian của sự cố chạm đất mạng cao áps": "> 5 s\n≤ 5 s",
-      "Điện áp chịu đựng cho phép trên thiết bị của hệ thống điện nhàV": "$U_{0}$ + 250 V\n$U_{0}$ + 1200 V"
+      "Thời gian của sự cố chạm đất mạng cao áp s": "> 5 s\n≤ 5 s",
+      "Điện áp chịu đựng cho phép trên thiết bị của hệ thống điện nhà V": "$U_{0}$ + 250 V\n$U_{0}$ + 1200 V"
     }
   ],
   "footnotes": [

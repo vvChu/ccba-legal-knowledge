@@ -44,7 +44,7 @@
 <a id="bang-bang-m-2"></a>
 ### Bảng M.2 - Vật liệu, cấu hình và tiết diện nhỏ nhất cho phép của cực nối đất của LPS
 
-| Vật liệu | Cấu hình | Kích thước nhỏ nhất cho phép — Đường kính điện cựcmm | Kích thước nhỏ nhất cho phép — Tiết diện dây nối đất$mm^{2}$ | Kích thước nhỏ nhất cho phép — Tấm nối đấtmm |
+| Vật liệu | Cấu hình | Kích thước nhỏ nhất cho phép — Đường kính điện cực mm | Kích thước nhỏ nhất cho phép — Tiết diện dây nối đất$mm^{2}$ | Kích thước nhỏ nhất cho phép — Tấm nối đất mm |
 | :--- | :--- | :---: | :---: | :--- |
 | Đồng, đồng mạ thiếc | Băng bện |  | 50 |  |
 | Đồng, đồng mạ thiếc | Tròn đặc | 15 | 50 |  |

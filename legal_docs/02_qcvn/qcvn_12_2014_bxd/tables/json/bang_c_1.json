@@ -8,7 +8,7 @@
     "Cấp công việc",
     "Phân cấp",
     "Tính chất thời gian của công việc",
-    "Độ rọi nhỏ nhất cho phép khi chiếu sáng bằng đèn huỳnh quang, đèn compắcLx"
+    "Độ rọi nhỏ nhất cho phép khi chiếu sáng bằng đèn huỳnh quang, đèn compắc Lx"
   ],
   "rows": [
     {
@@ -17,7 +17,7 @@
       "Cấp công việc": "I",
       "Phân cấp": "a\nb\nc",
       "Tính chất thời gian của công việc": "Thường xuyên\nChu kì từng đợt\nKhông lâu",
-      "Độ rọi nhỏ nhất cho phép khi chiếu sáng bằng đèn huỳnh quang, đèn compắcLx": "400\n300\n150"
+      "Độ rọi nhỏ nhất cho phép khi chiếu sáng bằng đèn huỳnh quang, đèn compắc Lx": "400\n300\n150"
     },
     {
       "_row_id": 2,
@@ -25,7 +25,7 @@
       "Cấp công việc": "II",
       "Phân cấp": "a\nb\nc",
       "Tính chất thời gian của công việc": "Thường xuyên\nChu kì từng đợt\nKhông lâu",
-      "Độ rọi nhỏ nhất cho phép khi chiếu sáng bằng đèn huỳnh quang, đèn compắcLx": "300\n200\n100"
+      "Độ rọi nhỏ nhất cho phép khi chiếu sáng bằng đèn huỳnh quang, đèn compắc Lx": "300\n200\n100"
     },
     {
       "_row_id": 3,
@@ -33,7 +33,7 @@
       "Cấp công việc": "III",
       "Phân cấp": "a\nb\nc",
       "Tính chất thời gian của công việc": "Thường xuyên\nChu kì từng đợt\nKhông lâu",
-      "Độ rọi nhỏ nhất cho phép khi chiếu sáng bằng đèn huỳnh quang, đèn compắcLx": "150\n100\n75"
+      "Độ rọi nhỏ nhất cho phép khi chiếu sáng bằng đèn huỳnh quang, đèn compắc Lx": "150\n100\n75"
     }
   ],
   "footnotes": [

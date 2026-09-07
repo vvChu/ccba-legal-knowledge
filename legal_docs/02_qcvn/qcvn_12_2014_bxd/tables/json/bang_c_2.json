@@ -8,7 +8,7 @@
     "Nhóm phòng",
     "Cấp công việc",
     "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm",
-    "Độ rọi nhỏ nhất cho phéplx",
+    "Độ rọi nhỏ nhất cho phép lx",
     "Ghi chú"
   ],
   "rows": [
@@ -18,7 +18,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -27,7 +27,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "II",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "150 - KL*\n300- TCK*\n400-TX*",
+      "Độ rọi nhỏ nhất cho phép lx": "150 - KL*\n300- TCK*\n400-TX*",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -36,7 +36,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "Ia",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "750",
+      "Độ rọi nhỏ nhất cho phép lx": "750",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -45,7 +45,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Độ rọi nhỏ nhất cho phép lx": "500",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -54,7 +54,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Độ rọi nhỏ nhất cho phép lx": "500",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -63,7 +63,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -72,7 +72,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": "Dùng đèn loại chốngcháy"
     },
     {
@@ -81,7 +81,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8 (trên giá)",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": "Dùng đèn loại chốngcháy"
     },
     {
@@ -90,7 +90,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -99,7 +99,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": "Dùng đèn loại chốngcháy"
     },
     {
@@ -108,7 +108,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Độ rọi nhỏ nhất cho phép lx": "150",
       "Ghi chú": "-"
     },
     {
@@ -117,7 +117,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "-"
     },
     {
@@ -126,7 +126,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "-"
     },
     {
@@ -135,7 +135,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": "-"
     },
     {
@@ -144,7 +144,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Độ rọi nhỏ nhất cho phép lx": "150",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -153,7 +153,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Độ rọi nhỏ nhất cho phép lx": "500",
       "Ghi chú": ""
     },
     {
@@ -162,7 +162,7 @@
       "Nhóm phòng": "3",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "-"
     },
     {
@@ -171,7 +171,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Độ rọi nhỏ nhất cho phép lx": "400",
       "Ghi chú": "-"
     },
     {
@@ -180,7 +180,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -189,7 +189,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -198,7 +198,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng-trên bảng",
-      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Độ rọi nhỏ nhất cho phép lx": "500",
       "Ghi chú": "-"
     },
     {
@@ -207,7 +207,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": "-"
     },
     {
@@ -216,7 +216,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "II",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "400-TX\n300-TCK\n150-KL",
+      "Độ rọi nhỏ nhất cho phép lx": "400-TX\n300-TCK\n150-KL",
       "Ghi chú": "-"
     },
     {
@@ -225,7 +225,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "I",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -234,7 +234,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng-trên bảng",
-      "Độ rọi nhỏ nhất cho phéplx": "750",
+      "Độ rọi nhỏ nhất cho phép lx": "750",
       "Ghi chú": ""
     },
     {
@@ -243,7 +243,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang – 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": ""
     },
     {
@@ -252,7 +252,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Độ rọi nhỏ nhất cho phép lx": "500",
       "Ghi chú": ""
     },
     {
@@ -261,7 +261,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Độ rọi nhỏ nhất cho phép lx": "400",
       "Ghi chú": ""
     },
     {
@@ -270,7 +270,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -279,7 +279,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Độ rọi nhỏ nhất cho phép lx": "400",
       "Ghi chú": "-"
     },
     {
@@ -288,7 +288,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": "-"
     },
     {
@@ -297,7 +297,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn đứng - 2,0",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "Bảo đảm độ rọi ở cả hai bên bề mặt đứng qua trục dọc của phòng"
     },
     {
@@ -306,7 +306,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -315,7 +315,7 @@
       "Nhóm phòng": "3",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "-"
     },
     {
@@ -324,7 +324,7 @@
       "Nhóm phòng": "3",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": "-"
     },
     {
@@ -333,7 +333,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng - 1,5",
-      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Độ rọi nhỏ nhất cho phép lx": "150",
       "Ghi chú": "-"
     },
     {
@@ -342,7 +342,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "-"
     },
     {
@@ -351,7 +351,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -360,7 +360,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Độ rọi nhỏ nhất cho phép lx": "500",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -369,7 +369,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "Ic",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng-trên mặt để danh mục",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -378,7 +378,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "Ic",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Độ rọi nhỏ nhất cho phép lx": "500",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -387,7 +387,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -396,7 +396,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng-1,0 trên giá",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "Sử dụng đèn chống cháy"
     },
     {
@@ -405,7 +405,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Độ rọi nhỏ nhất cho phép lx": "150",
       "Ghi chú": "-"
     },
     {
@@ -414,7 +414,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -423,7 +423,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -432,7 +432,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Độ rọi nhỏ nhất cho phép lx": "500",
       "Ghi chú": "Độ rọi tăng một cấp khi công trình có ý nghĩa chính trị quan trọng"
     },
     {
@@ -441,7 +441,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Độ rọi nhỏ nhất cho phép lx": "400",
       "Ghi chú": "Độ rọi tăng một cấp khi công trình có ý nghĩa chính trị quan trọng"
     },
     {
@@ -450,7 +450,7 @@
       "Nhóm phòng": "3",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "150-TX\n100-TCK\n75-KL",
+      "Độ rọi nhỏ nhất cho phép lx": "150-TX\n100-TCK\n75-KL",
       "Ghi chú": ""
     },
     {
@@ -459,7 +459,7 @@
       "Nhóm phòng": "3",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "150-TX\n100-TCK\n75-KL",
+      "Độ rọi nhỏ nhất cho phép lx": "150-TX\n100-TCK\n75-KL",
       "Ghi chú": "Độ rọi tăng một cấp khi công trình có ý nghĩa chính trị quan trọng"
     },
     {
@@ -468,7 +468,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "II",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300-TX\n200-TCK\n100-KL",
+      "Độ rọi nhỏ nhất cho phép lx": "300-TX\n200-TCK\n100-KL",
       "Ghi chú": "Độ rọi tăng một cấp khi công trình có ý nghĩa chính trị quan trọng"
     },
     {
@@ -477,7 +477,7 @@
       "Nhóm phòng": "3",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -486,7 +486,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": ""
     },
     {
@@ -495,7 +495,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": ""
     },
     {
@@ -504,7 +504,7 @@
       "Nhóm phòng": "3",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Độ rọi nhỏ nhất cho phép lx": "150",
       "Ghi chú": "Độ rọi tăng một cấp do yêu cầu thích nghi của mắt"
     },
     {
@@ -513,7 +513,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -522,7 +522,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -531,7 +531,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Trên mặt diễn viên ở gần gương",
-      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Độ rọi nhỏ nhất cho phép lx": "150",
       "Ghi chú": ""
     },
     {
@@ -540,7 +540,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -549,7 +549,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": ""
     },
     {
@@ -558,7 +558,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": ""
     },
     {
@@ -567,7 +567,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": ""
     },
     {
@@ -576,7 +576,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "-"
     },
     {
@@ -585,7 +585,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -594,7 +594,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Độ rọi nhỏ nhất cho phép lx": "150",
       "Ghi chú": "Cần đặt ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -603,7 +603,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -612,7 +612,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "1000",
+      "Độ rọi nhỏ nhất cho phép lx": "1000",
       "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
     },
     {
@@ -621,7 +621,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Độ rọi nhỏ nhất cho phép lx": "500",
       "Ghi chú": ""
     },
     {
@@ -630,7 +630,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Độ rọi nhỏ nhất cho phép lx": "500",
       "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
     },
     {
@@ -639,7 +639,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
     },
     {
@@ -648,7 +648,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
     },
     {
@@ -657,7 +657,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "Ibc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
     },
     {
@@ -666,7 +666,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Độ rọi nhỏ nhất cho phép lx": "400",
       "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
     },
     {
@@ -675,7 +675,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
     },
     {
@@ -684,7 +684,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
     },
     {
@@ -693,7 +693,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "350",
+      "Độ rọi nhỏ nhất cho phép lx": "350",
       "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
     },
     {
@@ -702,7 +702,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -711,7 +711,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "-"
     },
     {
@@ -720,7 +720,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "Trên bàn mổ phải có thêm đèn mổ đảm bảo độ rọi 3000 lx"
     },
     {
@@ -729,7 +729,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng - 1,0 (trên giá)",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": "-"
     },
     {
@@ -738,7 +738,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": "-"
     },
     {
@@ -747,7 +747,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": "-"
     },
     {
@@ -756,7 +756,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng - 1,0 (trên giá)",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": "-"
     },
     {
@@ -765,7 +765,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Độ rọi nhỏ nhất cho phép lx": "500",
       "Ghi chú": "-"
     },
     {
@@ -774,7 +774,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -783,7 +783,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -792,7 +792,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Độ rọi nhỏ nhất cho phép lx": "500",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -801,7 +801,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -810,7 +810,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Độ rọi nhỏ nhất cho phép lx": "400",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -819,7 +819,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "-"
     },
     {
@@ -828,7 +828,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": ""
     },
     {
@@ -837,7 +837,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -846,7 +846,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "II",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "Gian nhỏ 300;\nGian rộng 500",
+      "Độ rọi nhỏ nhất cho phép lx": "Gian nhỏ 300;\nGian rộng 500",
       "Ghi chú": "-"
     },
     {
@@ -855,7 +855,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "-"
     },
     {
@@ -864,7 +864,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "-"
     },
     {
@@ -873,7 +873,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": "-"
     },
     {
@@ -882,7 +882,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -891,7 +891,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "II",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300-TX\n200-TCK\n100-KL",
+      "Độ rọi nhỏ nhất cho phép lx": "300-TX\n200-TCK\n100-KL",
       "Ghi chú": "-"
     },
     {
@@ -900,7 +900,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "-"
     },
     {
@@ -909,7 +909,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Độ rọi nhỏ nhất cho phép lx": "400",
       "Ghi chú": "-"
     },
     {
@@ -918,7 +918,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "-"
     },
     {
@@ -927,7 +927,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -936,7 +936,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "-"
     },
     {
@@ -945,7 +945,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": ""
     },
     {
@@ -954,7 +954,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Sàn",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": ""
     },
     {
@@ -963,7 +963,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -972,7 +972,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -981,7 +981,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -990,7 +990,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -999,7 +999,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -1008,7 +1008,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -1017,7 +1017,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -1026,7 +1026,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng - 1,0 (trên giá)",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": ""
     },
     {
@@ -1035,7 +1035,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "-"
     },
     {
@@ -1044,7 +1044,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -1053,7 +1053,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng - 1,5",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "-"
     },
     {
@@ -1062,7 +1062,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "Ia",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "400",
+      "Độ rọi nhỏ nhất cho phép lx": "400",
       "Ghi chú": "-"
     },
     {
@@ -1071,7 +1071,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "-"
     },
     {
@@ -1080,7 +1080,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Độ rọi nhỏ nhất cho phép lx": "150",
       "Ghi chú": "-"
     },
     {
@@ -1089,7 +1089,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -1098,7 +1098,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "-"
     },
     {
@@ -1107,7 +1107,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "150",
+      "Độ rọi nhỏ nhất cho phép lx": "150",
       "Ghi chú": "-"
     },
     {
@@ -1116,7 +1116,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "Khi sử dụng chiếu sáng hỗn hợp quy định độ rọi tiêu chuẩn là 1000 lx"
     },
     {
@@ -1125,7 +1125,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIa",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "Khi sử dụng chiếu sáng hỗn hợp quy định độ rọi tiêu chuẩn là 1000 lx"
     },
     {
@@ -1134,7 +1134,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -1143,7 +1143,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "IIIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "-"
     },
     {
@@ -1152,7 +1152,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Đứng - 1,0",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": "-"
     },
     {
@@ -1161,7 +1161,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -1170,7 +1170,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "Ic",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -1179,7 +1179,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -1188,7 +1188,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "300",
+      "Độ rọi nhỏ nhất cho phép lx": "300",
       "Ghi chú": ""
     },
     {
@@ -1197,7 +1197,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "IIb",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "500",
+      "Độ rọi nhỏ nhất cho phép lx": "500",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -1206,7 +1206,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -1215,7 +1215,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -1224,7 +1224,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -1233,7 +1233,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -1242,7 +1242,7 @@
       "Nhóm phòng": "2",
       "Cấp công việc": "IIIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -1251,7 +1251,7 @@
       "Nhóm phòng": "1",
       "Cấp công việc": "IIc",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": "Cần có ổ cắm để bổ sung chiếu sáng tại chỗ"
     },
     {
@@ -1260,7 +1260,7 @@
       "Nhóm phòng": "",
       "Cấp công việc": "",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "",
-      "Độ rọi nhỏ nhất cho phéplx": "",
+      "Độ rọi nhỏ nhất cho phép lx": "",
       "Ghi chú": ""
     },
     {
@@ -1269,7 +1269,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang-0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": ""
     },
     {
@@ -1278,7 +1278,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "100",
+      "Độ rọi nhỏ nhất cho phép lx": "100",
       "Ghi chú": "-"
     },
     {
@@ -1287,7 +1287,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "200",
+      "Độ rọi nhỏ nhất cho phép lx": "200",
       "Ghi chú": ""
     },
     {
@@ -1296,7 +1296,7 @@
       "Nhóm phòng": "-",
       "Cấp công việc": "-",
       "Mặt phẳng quy định độ rọi - độ cao cách mặt sànm": "Ngang - 0,8",
-      "Độ rọi nhỏ nhất cho phéplx": "75",
+      "Độ rọi nhỏ nhất cho phép lx": "75",
       "Ghi chú": "-"
     }
   ],

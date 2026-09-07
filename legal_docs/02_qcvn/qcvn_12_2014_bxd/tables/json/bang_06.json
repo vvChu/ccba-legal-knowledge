@@ -6,20 +6,20 @@
   "headers": [
     "Điện áp danh định của mạch điệnV",
     "Điện áp thử nghiệmV",
-    "Điện trở cách điện thấp nhất cho phépMΩ"
+    "Điện trở cách điện thấp nhất cho phép MΩ"
   ],
   "rows": [
     {
       "_row_id": 1,
       "Điện áp danh định của mạch điệnV": "≤ 50",
       "Điện áp thử nghiệmV": "250",
-      "Điện trở cách điện thấp nhất cho phépMΩ": "0,5"
+      "Điện trở cách điện thấp nhất cho phép MΩ": "0,5"
     },
     {
       "_row_id": 2,
       "Điện áp danh định của mạch điệnV": "Từ trên 50 đến dưới 500",
       "Điện áp thử nghiệmV": "500",
-      "Điện trở cách điện thấp nhất cho phépMΩ": "1,0"
+      "Điện trở cách điện thấp nhất cho phép MΩ": "1,0"
     }
   ],
   "footnotes": []

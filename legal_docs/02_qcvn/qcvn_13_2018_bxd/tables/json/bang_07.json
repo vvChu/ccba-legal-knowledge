@@ -6,47 +6,47 @@
   "headers": [
     "Bậc chịu lửa của nhà",
     "Cấp nguy hiểm cháy kết cấu của nhà",
-    "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Tới5",
-    "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn5 đến 20",
-    "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn20 đến 50",
-    "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn50"
+    "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Tới 5",
+    "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 5 đến 20",
+    "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 20 đến 50",
+    "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 50"
   ],
   "rows": [
     {
       "_row_id": 1,
       "Bậc chịu lửa của nhà": "I, II, III",
       "Cấp nguy hiểm cháy kết cấu của nhà": "S0, S1",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Tới5": "10",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn5 đến 20": "15",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn20 đến 50": "20",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn50": "30"
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Tới 5": "10",
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 5 đến 20": "15",
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 20 đến 50": "20",
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 50": "30"
     },
     {
       "_row_id": 2,
       "Bậc chịu lửa của nhà": "IV",
       "Cấp nguy hiểm cháy kết cấu của nhà": "S0, S1",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Tới5": "10",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn5 đến 20": "15",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn20 đến 50": "20",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn50": "-"
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Tới 5": "10",
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 5 đến 20": "15",
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 20 đến 50": "20",
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 50": "-"
     },
     {
       "_row_id": 3,
       "Bậc chịu lửa của nhà": "",
       "Cấp nguy hiểm cháy kết cấu của nhà": "S2, S3",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Tới5": "20",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn5 đến 20": "25",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn20 đến 50": "-",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn50": "-"
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Tới 5": "20",
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 5 đến 20": "25",
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 20 đến 50": "-",
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 50": "-"
     },
     {
       "_row_id": 4,
       "Bậc chịu lửa của nhà": "V",
       "Cấp nguy hiểm cháy kết cấu của nhà": "Không quy định",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Tới5": "20",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn5 đến 20": "-",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn20 đến 50": "-",
-      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn50": "-"
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Tới 5": "20",
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 5 đến 20": "-",
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 20 đến 50": "-",
+      "Lượng nước tiêu thụ cho việc chữa cháy bên ngoài gara ô-tô cho một đám cháy, l/s, với khối tích của nhà (khoang cháy), nghìn $m^{3}$ — Cao hơn 50": "-"
     }
   ],
   "footnotes": []
