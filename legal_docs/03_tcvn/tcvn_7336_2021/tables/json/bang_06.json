@@ -1,55 +1,84 @@
 {
   "table_id": "bang_06",
-  "rows_count": 12,
-  "columns_count": 2,
+  "rows_count": 10,
+  "columns_count": 5,
   "headers": [
-    "Đường kính",
-    "Sức cản đơn vị A, s2/l6"
+    "Đường kính danh định DN",
+    "Đường kính tính toán (mm)",
+    "Sức cản đơn vị A (s2/l6) — Độ nhám lớn nhất",
+    "Sức cản đơn vị A (s2/l6) — Độ nhám vừa",
+    "Sức cản đơn vị A (s2/l6) — Độ nhám nhỏ nhất"
   ],
   "records": [
     {
-      "Đường kính": "Đường kính danh định DN",
-      "Sức cản đơn vị A, s2/l6": "Tính toán, mm"
+      "Đường kính danh định DN": "20",
+      "Đường kính tính toán (mm)": "20,25",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám lớn nhất": "1,643",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám vừa": "1,15",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám nhỏ nhất": "0,98"
     },
     {
-      "Đường kính": "20",
-      "Sức cản đơn vị A, s2/l6": "20,25"
+      "Đường kính danh định DN": "25",
+      "Đường kính tính toán (mm)": "26",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám lớn nhất": "0,4367",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám vừa": "0,306",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám nhỏ nhất": "0,261"
     },
     {
-      "Đường kính": "25",
-      "Sức cản đơn vị A, s2/l6": "26"
+      "Đường kính danh định DN": "32",
+      "Đường kính tính toán (mm)": "34,75",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám lớn nhất": "0,09386",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám vừa": "0,0656",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám nhỏ nhất": "0,059"
     },
     {
-      "Đường kính": "32",
-      "Sức cản đơn vị A, s2/l6": "34,75"
+      "Đường kính danh định DN": "40",
+      "Đường kính tính toán (mm)": "-",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám lớn nhất": "0,04453",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám vừa": "0,0312",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám nhỏ nhất": "0,0277"
     },
     {
-      "Đường kính": "40",
-      "Sức cản đơn vị A, s2/l6": "0,04453"
+      "Đường kính danh định DN": "50",
+      "Đường kính tính toán (mm)": "52",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám lớn nhất": "0,01108",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám vừa": "0,0078",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám nhỏ nhất": "0,00698"
     },
     {
-      "Đường kính": "50",
-      "Sức cản đơn vị A, s2/l6": "52"
+      "Đường kính danh định DN": "70",
+      "Đường kính tính toán (mm)": "67",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám lớn nhất": "0,002893",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám vừa": "0,00202",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám nhỏ nhất": "0,00187"
     },
     {
-      "Đường kính": "70",
-      "Sức cản đơn vị A, s2/l6": "67"
+      "Đường kính danh định DN": "80",
+      "Đường kính tính toán (mm)": "79,5",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám lớn nhất": "0,001168",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám vừa": "0,00082",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám nhỏ nhất": "0,000755"
     },
     {
-      "Đường kính": "80",
-      "Sức cản đơn vị A, s2/l6": "79,5"
+      "Đường kính danh định DN": "100",
+      "Đường kính tính toán (mm)": "105",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám lớn nhất": "0,0002674",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám vừa": "0,000187",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám nhỏ nhất": "-"
     },
     {
-      "Đường kính": "100",
-      "Sức cản đơn vị A, s2/l6": "105"
+      "Đường kính danh định DN": "125",
+      "Đường kính tính toán (mm)": "130",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám lớn nhất": "0,00008623",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám vừa": "0,0000605",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám nhỏ nhất": "-"
     },
     {
-      "Đường kính": "125",
-      "Sức cản đơn vị A, s2/l6": "130"
-    },
-    {
-      "Đường kính": "150",
-      "Sức cản đơn vị A, s2/l6": "155"
+      "Đường kính danh định DN": "150",
+      "Đường kính tính toán (mm)": "155",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám lớn nhất": "0,00003395",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám vừa": "0,0000238",
+      "Sức cản đơn vị A (s2/l6) — Độ nhám nhỏ nhất": "-"
     }
   ],
   "footnotes": []

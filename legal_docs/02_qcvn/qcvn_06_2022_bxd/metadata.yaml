@@ -45,3 +45,7 @@ relations:
     pdf_sha256: 61228c151c373924bdad12965fe3f04768c85cd74fef36c9ae80432eb6954a4a
     cong_bao_number: 235+236/2023
     pdf_status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-07T15:00:00+07:00'

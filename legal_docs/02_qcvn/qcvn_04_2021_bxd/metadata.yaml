@@ -38,3 +38,7 @@ relations:
     pdf_sha256: 63719290355103aad94f95b09d7f32de356c2df58d751b1f601a8ceb37efbd92
     cong_bao_number: 373/2026
     pdf_status: pending_download
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-07T15:00:00+07:00'

@@ -29,3 +29,7 @@ source_assets:
     status: verified
 relations:
   replaces: QCVN-01-2019-BXD
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-07T15:00:00+07:00'

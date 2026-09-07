@@ -1,72 +1,124 @@
 {
   "table_id": "bang_02",
-  "rows_count": 16,
-  "columns_count": 2,
+  "rows_count": 10,
+  "columns_count": 8,
   "headers": [
+    "Chỉ tiêu",
     "Chiều cao sắp xếp vật liệu, hàng hóa (m)",
-    "Nhóm nguy cơ phát sinh cháy"
+    "Nhóm 5 — Bằng nước",
+    "Nhóm 5 — Bằng dung dịch chất tạo bọt",
+    "Nhóm 6 — Bằng nước",
+    "Nhóm 6 — Bằng dung dịch chất tạo bọt",
+    "Nhóm 7 — Bằng nước",
+    "Nhóm 7 — Bằng dung dịch chất tạo bọt"
   ],
   "records": [
     {
-      "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Chiều cao sắp xếp vật liệu, hàng hóa (m)",
-      "Nhóm nguy cơ phát sinh cháy": "5"
-    },
-    {
-      "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Chiều cao sắp xếp vật liệu, hàng hóa (m)",
-      "Nhóm nguy cơ phát sinh cháy": "Bằng nước"
-    },
-    {
-      "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Cường độ phun tối thiểu (theo Bảng 1) (I /s. m2)",
-      "Nhóm nguy cơ phát sinh cháy": ""
-    },
-    {
+      "Chỉ tiêu": "Cường độ phun tối thiểu (l/s.m2)",
       "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Đến 1",
-      "Nhóm nguy cơ phát sinh cháy": "0,08"
+      "Nhóm 5 — Bằng nước": "0,08",
+      "Nhóm 5 — Bằng dung dịch chất tạo bọt": "0,04",
+      "Nhóm 6 — Bằng nước": "0,16",
+      "Nhóm 6 — Bằng dung dịch chất tạo bọt": "0,08",
+      "Nhóm 7 — Bằng nước": "-",
+      "Nhóm 7 — Bằng dung dịch chất tạo bọt": "0,1"
     },
     {
+      "Chỉ tiêu": "Cường độ phun tối thiểu (l/s.m2)",
       "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Trên 1 đến 2",
-      "Nhóm nguy cơ phát sinh cháy": "0,16"
+      "Nhóm 5 — Bằng nước": "0,16",
+      "Nhóm 5 — Bằng dung dịch chất tạo bọt": "0,08",
+      "Nhóm 6 — Bằng nước": "0,32",
+      "Nhóm 6 — Bằng dung dịch chất tạo bọt": "0,2",
+      "Nhóm 7 — Bằng nước": "-",
+      "Nhóm 7 — Bằng dung dịch chất tạo bọt": "0,2"
     },
     {
+      "Chỉ tiêu": "Cường độ phun tối thiểu (l/s.m2)",
       "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Trên 2 đến 3",
-      "Nhóm nguy cơ phát sinh cháy": "0,24"
+      "Nhóm 5 — Bằng nước": "0,24",
+      "Nhóm 5 — Bằng dung dịch chất tạo bọt": "0,12",
+      "Nhóm 6 — Bằng nước": "0,40",
+      "Nhóm 6 — Bằng dung dịch chất tạo bọt": "0,24",
+      "Nhóm 7 — Bằng nước": "-",
+      "Nhóm 7 — Bằng dung dịch chất tạo bọt": "0,3"
     },
     {
+      "Chỉ tiêu": "Cường độ phun tối thiểu (l/s.m2)",
       "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Trên 3 đến 4",
-      "Nhóm nguy cơ phát sinh cháy": "0,32"
+      "Nhóm 5 — Bằng nước": "0,32",
+      "Nhóm 5 — Bằng dung dịch chất tạo bọt": "0,16",
+      "Nhóm 6 — Bằng nước": "0,40",
+      "Nhóm 6 — Bằng dung dịch chất tạo bọt": "0,32",
+      "Nhóm 7 — Bằng nước": "-",
+      "Nhóm 7 — Bằng dung dịch chất tạo bọt": "0,4"
     },
     {
+      "Chỉ tiêu": "Cường độ phun tối thiểu (l/s.m2)",
       "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Trên 4 đến 5,5",
-      "Nhóm nguy cơ phát sinh cháy": "0,4"
+      "Nhóm 5 — Bằng nước": "0,4",
+      "Nhóm 5 — Bằng dung dịch chất tạo bọt": "0,32",
+      "Nhóm 6 — Bằng nước": "0,50",
+      "Nhóm 6 — Bằng dung dịch chất tạo bọt": "0,40",
+      "Nhóm 7 — Bằng nước": "-",
+      "Nhóm 7 — Bằng dung dịch chất tạo bọt": "0,4"
     },
     {
-      "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Lưu lượng tối thiểu (l/s)",
-      "Nhóm nguy cơ phát sinh cháy": ""
-    },
-    {
+      "Chỉ tiêu": "Lưu lượng tối thiểu (l/s)",
       "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Đến 1",
-      "Nhóm nguy cơ phát sinh cháy": "15"
+      "Nhóm 5 — Bằng nước": "15",
+      "Nhóm 5 — Bằng dung dịch chất tạo bọt": "7,5",
+      "Nhóm 6 — Bằng nước": "30",
+      "Nhóm 6 — Bằng dung dịch chất tạo bọt": "15",
+      "Nhóm 7 — Bằng nước": "-",
+      "Nhóm 7 — Bằng dung dịch chất tạo bọt": "18"
     },
     {
+      "Chỉ tiêu": "Lưu lượng tối thiểu (l/s)",
       "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Trên 1 đến 2",
-      "Nhóm nguy cơ phát sinh cháy": "30"
+      "Nhóm 5 — Bằng nước": "30",
+      "Nhóm 5 — Bằng dung dịch chất tạo bọt": "15",
+      "Nhóm 6 — Bằng nước": "60",
+      "Nhóm 6 — Bằng dung dịch chất tạo bọt": "36",
+      "Nhóm 7 — Bằng nước": "-",
+      "Nhóm 7 — Bằng dung dịch chất tạo bọt": "36"
     },
     {
+      "Chỉ tiêu": "Lưu lượng tối thiểu (l/s)",
       "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Trên 2 đến 3",
-      "Nhóm nguy cơ phát sinh cháy": "45"
+      "Nhóm 5 — Bằng nước": "45",
+      "Nhóm 5 — Bằng dung dịch chất tạo bọt": "22,5",
+      "Nhóm 6 — Bằng nước": "75",
+      "Nhóm 6 — Bằng dung dịch chất tạo bọt": "45",
+      "Nhóm 7 — Bằng nước": "-",
+      "Nhóm 7 — Bằng dung dịch chất tạo bọt": "54"
     },
     {
+      "Chỉ tiêu": "Lưu lượng tối thiểu (l/s)",
       "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Trên 3 đến 4",
-      "Nhóm nguy cơ phát sinh cháy": "60"
+      "Nhóm 5 — Bằng nước": "60",
+      "Nhóm 5 — Bằng dung dịch chất tạo bọt": "30",
+      "Nhóm 6 — Bằng nước": "75",
+      "Nhóm 6 — Bằng dung dịch chất tạo bọt": "60",
+      "Nhóm 7 — Bằng nước": "-",
+      "Nhóm 7 — Bằng dung dịch chất tạo bọt": "75"
     },
     {
+      "Chỉ tiêu": "Lưu lượng tối thiểu (l/s)",
       "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "Trên 4 đến 5,5",
-      "Nhóm nguy cơ phát sinh cháy": "75"
-    },
-    {
-      "Chiều cao sắp xếp vật liệu, hàng hóa (m)": "CHÚ THÍCH 1: Nhóm nguy cơ phát sinh cháy được quy định tại Phụ lục A. CHÚ THÍCH 2: Trong nhóm nguy cơ phát sinh cháy nhóm 6, khi chữa cháy cao su, vật liệu bằng cao su và nhựa cần sử dụng nước pha thêm chất phụ gia để tăng khả năng thẩm thấu hoặc bọt có bội số nở thấp. CHÚ THÍCH 3: Đối với nhà kho có chiều cao sắp xếp vật liệu, hàng hóa đến 5,5 m và chiều cao phòng hơn 10 m, lưu lượng và cường độ phun nước và dung dịch chất tạo bọt trong nhóm nguy cơ phát sinh cháy cháy nhóm 5, 6, 7 phải tăng 10% cho mỗi 2 m chiều cao tăng thêm của phòng. CHÚ THÍCH 4: Bảng thể hiện cường độ phun của dung dịch chất tạo bọt thông thường. CHÚ THÍCH 5: Cho phép thiết kế hệ thống chữa cháy tự động với chiều cao sắp xếp vật liệu, hàng hóa hơn 5,5 m sau khi tiến hành các thử nghiệm xác nhận các thông số thiết kế chính, áp dụng với các điều kiện kỹ thuật đặc biệt cho từng đối tượng cụ thể hoặc nhóm đối tượng tương tự được chấp thuận bởi cơ quan có thẩm quyền.",
-      "Nhóm nguy cơ phát sinh cháy": ""
+      "Nhóm 5 — Bằng nước": "75",
+      "Nhóm 5 — Bằng dung dịch chất tạo bọt": "37,5",
+      "Nhóm 6 — Bằng nước": "90",
+      "Nhóm 6 — Bằng dung dịch chất tạo bọt": "75",
+      "Nhóm 7 — Bằng nước": "-",
+      "Nhóm 7 — Bằng dung dịch chất tạo bọt": "75"
     }
   ],
-  "footnotes": []
+  "footnotes": [
+    "CHÚ THÍCH 1: Nhóm nguy cơ phát sinh cháy được quy định tại Phụ lục A.",
+    "CHÚ THÍCH 2: Trong nhóm nguy cơ phát sinh cháy nhóm 6, khi chữa cháy cao su, vật liệu bằng cao su và nhựa cần sử dụng nước pha thêm chất phụ gia để tăng khả năng thẩm thấu hoặc bọt có bội số nở thấp.",
+    "CHÚ THÍCH 3: Đối với nhà kho có chiều cao sắp xếp vật liệu, hàng hóa đến 5,5 m và chiều cao phòng hơn 10 m, lưu lượng và cường độ phun nước và dung dịch chất tạo bọt trong nhóm nguy cơ phát sinh cháy nhóm 5, 6, 7 phải tăng 10% cho mỗi 2 m chiều cao tăng thêm của phòng.",
+    "CHÚ THÍCH 4: Bảng thể hiện cường độ phun của dung dịch chất tạo bọt thông thường.",
+    "CHÚ THÍCH 5: Cho phép thiết kế hệ thống chữa cháy tự động với chiều cao sắp xếp vật liệu, hàng hóa hơn 5,5 m sau khi tiến hành các thử nghiệm xác nhận các thông số thiết kế chính, áp dụng với các điều kiện kỹ thuật đặc biệt cho từng đối tượng cụ thể hoặc nhóm đối tượng tương tự được chấp thuận bởi cơ quan có thẩm quyền."
+  ]
 }

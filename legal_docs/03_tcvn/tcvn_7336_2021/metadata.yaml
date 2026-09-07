@@ -19,3 +19,7 @@ source_assets:
     sha256: 77bb1cad1efdaefae6f32baddf238351aa1ef6309735532625cbf5fd608e596f
     vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7336_2021/tcvn_7336_2021.pdf
     status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-07T15:00:00+07:00'

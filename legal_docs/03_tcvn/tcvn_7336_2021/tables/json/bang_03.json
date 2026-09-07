@@ -1,96 +1,205 @@
 {
   "table_id": "bang_03",
-  "rows_count": 22,
-  "columns_count": 2,
+  "rows_count": 15,
+  "columns_count": 10,
   "headers": [
+    "Chỉ tiêu",
     "Chiều cao khu vực bảo vệ (m)",
-    "Nhóm nguy cơ cháy"
+    "Nhóm 1 — Bằng nước",
+    "Nhóm 2 — Bằng nước",
+    "Nhóm 2 — Bằng dung dịch chất tạo bọt",
+    "Nhóm 3 — Bằng nước",
+    "Nhóm 3 — Bằng dung dịch chất tạo bọt",
+    "Nhóm 4.1 — Bằng nước",
+    "Nhóm 4.1 — Bằng dung dịch chất tạo bọt",
+    "Nhóm 4.2 — Bằng dung dịch chất tạo bọt"
   ],
   "records": [
     {
-      "Chiều cao khu vực bảo vệ (m)": "Chiều cao khu vực bảo vệ (m)",
-      "Nhóm nguy cơ cháy": "Nhóm 1"
-    },
-    {
-      "Chiều cao khu vực bảo vệ (m)": "Chiều cao khu vực bảo vệ (m)",
-      "Nhóm nguy cơ cháy": "Bằng nước"
-    },
-    {
-      "Chiều cao khu vực bảo vệ (m)": "Cường độ phun tối thiểu (l/s.m2)",
-      "Nhóm nguy cơ cháy": ""
-    },
-    {
+      "Chỉ tiêu": "Cường độ phun tối thiểu (l/s.m2)",
       "Chiều cao khu vực bảo vệ (m)": "Từ 10 đến 12",
-      "Nhóm nguy cơ cháy": "0,09"
+      "Nhóm 1 — Bằng nước": "0,09",
+      "Nhóm 2 — Bằng nước": "0,13",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "0,09",
+      "Nhóm 3 — Bằng nước": "0,26",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "0,13",
+      "Nhóm 4.1 — Bằng nước": "0,33",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "0,17",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "0,20"
     },
     {
+      "Chỉ tiêu": "Cường độ phun tối thiểu (l/s.m2)",
       "Chiều cao khu vực bảo vệ (m)": "Trên 12 đến 14",
-      "Nhóm nguy cơ cháy": "0,1"
+      "Nhóm 1 — Bằng nước": "0,1",
+      "Nhóm 2 — Bằng nước": "0,14",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "0,1",
+      "Nhóm 3 — Bằng nước": "0,29",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "0,14",
+      "Nhóm 4.1 — Bằng nước": "0,36",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "0,18",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "0,22"
     },
     {
+      "Chỉ tiêu": "Cường độ phun tối thiểu (l/s.m2)",
       "Chiều cao khu vực bảo vệ (m)": "Trên 14 đến 16",
-      "Nhóm nguy cơ cháy": "0,11"
+      "Nhóm 1 — Bằng nước": "0,11",
+      "Nhóm 2 — Bằng nước": "0,16",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "0,11",
+      "Nhóm 3 — Bằng nước": "0,31",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "0,16",
+      "Nhóm 4.1 — Bằng nước": "0,39",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "0,2",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "0,25"
     },
     {
+      "Chỉ tiêu": "Cường độ phun tối thiểu (l/s.m2)",
       "Chiều cao khu vực bảo vệ (m)": "Trên 16 đến 18",
-      "Nhóm nguy cơ cháy": "0,12"
+      "Nhóm 1 — Bằng nước": "0,12",
+      "Nhóm 2 — Bằng nước": "0,17",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "0,12",
+      "Nhóm 3 — Bằng nước": "0,34",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "0,17",
+      "Nhóm 4.1 — Bằng nước": "0,42",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "0,21",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "0,27"
     },
     {
+      "Chỉ tiêu": "Cường độ phun tối thiểu (l/s.m2)",
       "Chiều cao khu vực bảo vệ (m)": "Trên 18 đến 20",
-      "Nhóm nguy cơ cháy": "0,13"
+      "Nhóm 1 — Bằng nước": "0,13",
+      "Nhóm 2 — Bằng nước": "0,18",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "0,13",
+      "Nhóm 3 — Bằng nước": "0,36",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "0,18",
+      "Nhóm 4.1 — Bằng nước": "0,45",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "0,23",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "0,30"
     },
     {
-      "Chiều cao khu vực bảo vệ (m)": "Lưu lượng tối thiểu (l/s)",
-      "Nhóm nguy cơ cháy": ""
-    },
-    {
+      "Chỉ tiêu": "Lưu lượng tối thiểu (l/s)",
       "Chiều cao khu vực bảo vệ (m)": "Từ 10 đến 12",
-      "Nhóm nguy cơ cháy": "12"
+      "Nhóm 1 — Bằng nước": "12",
+      "Nhóm 2 — Bằng nước": "35",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "25",
+      "Nhóm 3 — Bằng nước": "70",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "35",
+      "Nhóm 4.1 — Bằng nước": "130",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "65",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "95"
     },
     {
+      "Chỉ tiêu": "Lưu lượng tối thiểu (l/s)",
       "Chiều cao khu vực bảo vệ (m)": "Trên 12 đến 14",
-      "Nhóm nguy cơ cháy": "14"
+      "Nhóm 1 — Bằng nước": "14",
+      "Nhóm 2 — Bằng nước": "40",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "30",
+      "Nhóm 3 — Bằng nước": "85",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "45",
+      "Nhóm 4.1 — Bằng nước": "155",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "80",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "115"
     },
     {
+      "Chỉ tiêu": "Lưu lượng tối thiểu (l/s)",
       "Chiều cao khu vực bảo vệ (m)": "Trên 14 đến 16",
-      "Nhóm nguy cơ cháy": "17"
+      "Nhóm 1 — Bằng nước": "17",
+      "Nhóm 2 — Bằng nước": "50",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "35",
+      "Nhóm 3 — Bằng nước": "95",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "50",
+      "Nhóm 4.1 — Bằng nước": "180",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "90",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "140"
     },
     {
+      "Chỉ tiêu": "Lưu lượng tối thiểu (l/s)",
       "Chiều cao khu vực bảo vệ (m)": "Trên 16 đến 18",
-      "Nhóm nguy cơ cháy": "20"
+      "Nhóm 1 — Bằng nước": "20",
+      "Nhóm 2 — Bằng nước": "57",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "40",
+      "Nhóm 3 — Bằng nước": "115",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "60",
+      "Nhóm 4.1 — Bằng nước": "215",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "105",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "165"
     },
     {
+      "Chỉ tiêu": "Lưu lượng tối thiểu (l/s)",
       "Chiều cao khu vực bảo vệ (m)": "Trên 18 đến 20",
-      "Nhóm nguy cơ cháy": "24"
+      "Nhóm 1 — Bằng nước": "24",
+      "Nhóm 2 — Bằng nước": "65",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "50",
+      "Nhóm 3 — Bằng nước": "130",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "65",
+      "Nhóm 4.1 — Bằng nước": "240",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "120",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "195"
     },
     {
-      "Chiều cao khu vực bảo vệ (m)": "Diện tích tính toán tối thiểu (m2)",
-      "Nhóm nguy cơ cháy": ""
-    },
-    {
+      "Chỉ tiêu": "Diện tích tính toán tối thiểu (m2)",
       "Chiều cao khu vực bảo vệ (m)": "Từ 10 đến 12",
-      "Nhóm nguy cơ cháy": "66"
+      "Nhóm 1 — Bằng nước": "66",
+      "Nhóm 2 — Bằng nước": "132",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "132",
+      "Nhóm 3 — Bằng nước": "198",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "198",
+      "Nhóm 4.1 — Bằng nước": "238",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "238",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "238"
     },
     {
+      "Chỉ tiêu": "Diện tích tính toán tối thiểu (m2)",
       "Chiều cao khu vực bảo vệ (m)": "Trên 12 đến 14",
-      "Nhóm nguy cơ cháy": "72"
+      "Nhóm 1 — Bằng nước": "72",
+      "Nhóm 2 — Bằng nước": "144",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "144",
+      "Nhóm 3 — Bằng nước": "216",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "216",
+      "Nhóm 4.1 — Bằng nước": "259",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "259",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "259"
     },
     {
+      "Chỉ tiêu": "Diện tích tính toán tối thiểu (m2)",
       "Chiều cao khu vực bảo vệ (m)": "Trên 14 đến 16",
-      "Nhóm nguy cơ cháy": "78"
+      "Nhóm 1 — Bằng nước": "78",
+      "Nhóm 2 — Bằng nước": "156",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "156",
+      "Nhóm 3 — Bằng nước": "230",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "230",
+      "Nhóm 4.1 — Bằng nước": "276",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "276",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "276"
     },
     {
+      "Chỉ tiêu": "Diện tích tính toán tối thiểu (m2)",
       "Chiều cao khu vực bảo vệ (m)": "Trên 16 đến 18",
-      "Nhóm nguy cơ cháy": "84"
+      "Nhóm 1 — Bằng nước": "84",
+      "Nhóm 2 — Bằng nước": "168",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "168",
+      "Nhóm 3 — Bằng nước": "252",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "252",
+      "Nhóm 4.1 — Bằng nước": "303",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "303",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "303"
     },
     {
+      "Chỉ tiêu": "Diện tích tính toán tối thiểu (m2)",
       "Chiều cao khu vực bảo vệ (m)": "Trên 18 đến 20",
-      "Nhóm nguy cơ cháy": "90"
-    },
-    {
-      "Chiều cao khu vực bảo vệ (m)": "CHÚ THÍCH 1: Nhóm nguy cơ phát sinh cháy được nêu trong Phụ lục A. CHÚ THÍCH 2: Các thông số về lưu lượng và cường độ phun được áp dụng cho đầu phun nước và bọt có cấu tạo thông thường CHÚ THÍCH 3: Bảng thể hiện cường độ phun của dung dịch chất tạo bọt thông thường. CHÚ THÍCH 4: Trong trường hợp diện tích thực tế (Stt) của khu vực được bảo vệ bởi hệ thống chữa cháy tự động bằng nước, bọt nhỏ hơn diện tích tính toán tối thiểu (S) của hệ thống chữa cháy tự động Sprinkler, Sprinkler-Drecher được quy định trong Bảng 3, thì lưu lượng thực tế có thể giảm theo hệ số K = Stt/ S.",
-      "Nhóm nguy cơ cháy": ""
+      "Nhóm 1 — Bằng nước": "90",
+      "Nhóm 2 — Bằng nước": "180",
+      "Nhóm 2 — Bằng dung dịch chất tạo bọt": "180",
+      "Nhóm 3 — Bằng nước": "270",
+      "Nhóm 3 — Bằng dung dịch chất tạo bọt": "270",
+      "Nhóm 4.1 — Bằng nước": "325",
+      "Nhóm 4.1 — Bằng dung dịch chất tạo bọt": "325",
+      "Nhóm 4.2 — Bằng dung dịch chất tạo bọt": "325"
     }
   ],
-  "footnotes": []
+  "footnotes": [
+    "CHÚ THÍCH 1: Nhóm nguy cơ phát sinh cháy được nêu trong Phụ lục A.",
+    "CHÚ THÍCH 2: Các thông số về lưu lượng và cường độ phun được áp dụng cho đầu phun nước và bọt có cấu tạo thông thường",
+    "CHÚ THÍCH 3: Bảng thể hiện cường độ phun của dung dịch chất tạo bọt thông thường.",
+    "CHÚ THÍCH 4: Trong trường hợp diện tích thực tế (Stt) của khu vực được bảo vệ bởi hệ thống chữa cháy tự động bằng nước, bọt nhỏ hơn diện tích tính toán tối thiểu (S) của hệ thống chữa cháy tự động Sprinkler, Sprinkler-Drecher được quy định trong Bảng 3, thì lưu lượng thực tế có thể giảm theo hệ số K = Stt/ S."
+  ]
 }
