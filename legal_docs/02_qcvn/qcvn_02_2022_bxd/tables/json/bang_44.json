@@ -1,39 +1,112 @@
 {
   "table_id": "bang_44",
-  "rows_count": 8,
-  "columns_count": 2,
+  "rows_count": 6,
+  "columns_count": 13,
   "headers": [
     "Vùng bờ biển",
-    "Tháng"
+    "Tháng 1",
+    "Tháng 2",
+    "Tháng 3",
+    "Tháng 4",
+    "Tháng 5",
+    "Tháng 6",
+    "Tháng 7",
+    "Tháng 8",
+    "Tháng 9",
+    "Tháng 10",
+    "Tháng 11",
+    "Tháng 12"
   ],
   "records": [
     {
-      "Vùng bờ biển": "Vùng bờ biển",
-      "Tháng": "1"
-    },
-    {
       "Vùng bờ biển": "Quảng Ninh - Thanh Hóa",
-      "Tháng": "0,00"
+      "Tháng 1": "0,00",
+      "Tháng 2": "0,02",
+      "Tháng 3": "0,21",
+      "Tháng 4": "0,54",
+      "Tháng 5": "0,47",
+      "Tháng 6": "0,39",
+      "Tháng 7": "0,12",
+      "Tháng 8": "0,04",
+      "Tháng 9": "0,00",
+      "Tháng 10": "",
+      "Tháng 11": "",
+      "Tháng 12": ""
     },
     {
       "Vùng bờ biển": "Nghệ An - Quảng Bình",
-      "Tháng": "0,00"
+      "Tháng 1": "0,00",
+      "Tháng 2": "0,02",
+      "Tháng 3": "0,11",
+      "Tháng 4": "0,19",
+      "Tháng 5": "0,30",
+      "Tháng 6": "0,18",
+      "Tháng 7": "0,00",
+      "Tháng 8": "",
+      "Tháng 9": "",
+      "Tháng 10": "",
+      "Tháng 11": "",
+      "Tháng 12": ""
     },
     {
       "Vùng bờ biển": "Quảng Trị - Quảng Ngãi",
-      "Tháng": "0,00"
+      "Tháng 1": "0,00",
+      "Tháng 2": "0,04",
+      "Tháng 3": "0,09",
+      "Tháng 4": "0,02",
+      "Tháng 5": "0,11",
+      "Tháng 6": "0,39",
+      "Tháng 7": "0,19",
+      "Tháng 8": "0,05",
+      "Tháng 9": "0,02",
+      "Tháng 10": "",
+      "Tháng 11": "",
+      "Tháng 12": ""
     },
     {
       "Vùng bờ biển": "Bình Định - Ninh Thuận",
-      "Tháng": "0,00"
+      "Tháng 1": "0,00",
+      "Tháng 2": "0,02",
+      "Tháng 3": "0,00",
+      "Tháng 4": "0,04",
+      "Tháng 5": "0,00",
+      "Tháng 6": "0,02",
+      "Tháng 7": "0,04",
+      "Tháng 8": "0,39",
+      "Tháng 9": "0,40",
+      "Tháng 10": "0,07",
+      "Tháng 11": "",
+      "Tháng 12": ""
     },
     {
       "Vùng bờ biển": "Bình Thuận - Cà Mau",
-      "Tháng": "0,05"
+      "Tháng 1": "0,05",
+      "Tháng 2": "0,00",
+      "Tháng 3": "0,02",
+      "Tháng 4": "0,00",
+      "Tháng 5": "0,04",
+      "Tháng 6": "0,09",
+      "Tháng 7": "0,23",
+      "Tháng 8": "0,00",
+      "Tháng 9": "",
+      "Tháng 10": "",
+      "Tháng 11": "",
+      "Tháng 12": ""
     },
     {
       "Vùng bờ biển": "Bắc Biển Đông",
-      "Tháng": "0,00"
+      "Tháng 1": "0,00",
+      "Tháng 2": "0,02",
+      "Tháng 3": "0,00",
+      "Tháng 4": "0,02",
+      "Tháng 5": "0,05",
+      "Tháng 6": "0,00",
+      "Tháng 7": "",
+      "Tháng 8": "",
+      "Tháng 9": "",
+      "Tháng 10": "",
+      "Tháng 11": "",
+      "Tháng 12": ""
     }
   ],
   "footnotes": []

@@ -21,3 +21,7 @@ source_assets:
     sha256: 3c572562ff90cfc8d49c1aaa62c60bca81aaa5fe3f89202374a7701ba3727d0a
     vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5738_2021/tcvn_5738_2021.pdf
     status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-07T15:00:00+07:00'

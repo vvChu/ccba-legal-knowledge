@@ -21,3 +21,7 @@ source_assets:
     sha256: 1c22384f4a212eeb14b60e5dd12e9ab6dcac8c778fb1cf2a1c5865a4090c5e73
     vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_3890_2023/tcvn_3890_2023.pdf
     status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-07T15:00:00+07:00'

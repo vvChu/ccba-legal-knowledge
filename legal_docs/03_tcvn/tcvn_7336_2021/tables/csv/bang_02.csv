@@ -1,16 +1,11 @@
-﻿"Chiều cao sắp xếp vật liệu, hàng hóa (m)",Nhóm nguy cơ phát sinh cháy
-"Chiều cao sắp xếp vật liệu, hàng hóa (m)",5,6,7
-"Chiều cao sắp xếp vật liệu, hàng hóa (m)",Bằng nước,Bằng dung dịch chất tạo bọt,Bằng nước,Bằng dung dịch chất tạo bọt,Bằng nước,Bằng dung dịch chất tạo bọt
-Cường độ phun tối thiểu (theo Bảng 1) (I /s. m2)
-Đến 1,"0,08","0,04","0,16","0,08",-,"0,1"
-Trên 1 đến 2,"0,16","0,08","0,32","0,2",-,"0,2"
-Trên 2 đến 3,"0,24","0,12","0,40","0,24",-,"0,3"
-Trên 3 đến 4,"0,32","0,16","0,40","0,32",-,"0,4"
-"Trên 4 đến 5,5","0,4","0,32","0,50","0,40",-,"0,4"
-Lưu lượng tối thiểu (l/s)
-Đến 1,15,"7,5",30,15,-,18
-Trên 1 đến 2,30,15,60,36,-,36
-Trên 2 đến 3,45,"22,5",75,45,-,54
-Trên 3 đến 4,60,30,75,60,-,75
-"Trên 4 đến 5,5",75,"37,5",90,75,-,75
-"CHÚ THÍCH 1: Nhóm nguy cơ phát sinh cháy được quy định tại Phụ lục A. CHÚ THÍCH 2: Trong nhóm nguy cơ phát sinh cháy nhóm 6, khi chữa cháy cao su, vật liệu bằng cao su và nhựa cần sử dụng nước pha thêm chất phụ gia để tăng khả năng thẩm thấu hoặc bọt có bội số nở thấp. CHÚ THÍCH 3: Đối với nhà kho có chiều cao sắp xếp vật liệu, hàng hóa đến 5,5 m và chiều cao phòng hơn 10 m, lưu lượng và cường độ phun nước và dung dịch chất tạo bọt trong nhóm nguy cơ phát sinh cháy cháy nhóm 5, 6, 7 phải tăng 10% cho mỗi 2 m chiều cao tăng thêm của phòng. CHÚ THÍCH 4: Bảng thể hiện cường độ phun của dung dịch chất tạo bọt thông thường. CHÚ THÍCH 5: Cho phép thiết kế hệ thống chữa cháy tự động với chiều cao sắp xếp vật liệu, hàng hóa hơn 5,5 m sau khi tiến hành các thử nghiệm xác nhận các thông số thiết kế chính, áp dụng với các điều kiện kỹ thuật đặc biệt cho từng đối tượng cụ thể hoặc nhóm đối tượng tương tự được chấp thuận bởi cơ quan có thẩm quyền."
+﻿Chỉ tiêu,"Chiều cao sắp xếp vật liệu, hàng hóa (m)",Nhóm 5 — Bằng nước,Nhóm 5 — Bằng dung dịch chất tạo bọt,Nhóm 6 — Bằng nước,Nhóm 6 — Bằng dung dịch chất tạo bọt,Nhóm 7 — Bằng nước,Nhóm 7 — Bằng dung dịch chất tạo bọt
+Cường độ phun tối thiểu (l/s.m2),Đến 1,"0,08","0,04","0,16","0,08",-,"0,1"
+Cường độ phun tối thiểu (l/s.m2),Trên 1 đến 2,"0,16","0,08","0,32","0,2",-,"0,2"
+Cường độ phun tối thiểu (l/s.m2),Trên 2 đến 3,"0,24","0,12","0,40","0,24",-,"0,3"
+Cường độ phun tối thiểu (l/s.m2),Trên 3 đến 4,"0,32","0,16","0,40","0,32",-,"0,4"
+Cường độ phun tối thiểu (l/s.m2),"Trên 4 đến 5,5","0,4","0,32","0,50","0,40",-,"0,4"
+Lưu lượng tối thiểu (l/s),Đến 1,15,"7,5",30,15,-,18
+Lưu lượng tối thiểu (l/s),Trên 1 đến 2,30,15,60,36,-,36
+Lưu lượng tối thiểu (l/s),Trên 2 đến 3,45,"22,5",75,45,-,54
+Lưu lượng tối thiểu (l/s),Trên 3 đến 4,60,30,75,60,-,75
+Lưu lượng tối thiểu (l/s),"Trên 4 đến 5,5",75,"37,5",90,75,-,75

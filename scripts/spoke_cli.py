@@ -255,7 +255,7 @@ def generate_provenance_report_md(records: list[dict[str, Any]]) -> str:
         "# Hàng Đợi Di Trú & Kiểm Toán Nguồn Gốc Tri Thức (OKF v2.4 Universal Provenance Queue)",
         "",
         "> [!IMPORTANT]",
-        "> **Tài liệu kiểm toán nguồn gốc độc lập của CCBA Legal Spoke (Gate 15 ADR 0036 - ADR 0041).**",
+        "> **Tài liệu kiểm toán nguồn gốc độc lập của CCBA Legal Spoke (Gate 15 ADR 0036 - ADR 0042).**",
         "> Tuyệt đối không chạy script đóng dấu khống (False Attestation). Mọi việc cấp tem `okf_spec: v2.4 Universal`",
         "> bắt buộc phải tuân theo Chiến lược Di trú Phân tầng (Tiered Migration Protocol).",
         "",
@@ -432,7 +432,7 @@ def main() -> None:
     # Command: validate
     subparsers.add_parser(
         "validate",
-        help="Run 15-Gate Master integrity and schema validation checks (ADR 0041, ADR 0038)",
+        help="Run 15-Gate Master integrity and schema validation checks (ADR 0038 - ADR 0042)",
     )
 
     # Command: stats

@@ -1,6 +1,6 @@
 # 📚 CCBA Legal Knowledge Spoke
 
-Cơ sở dữ liệu Tri thức Pháp luật và Quy chuẩn Kỹ thuật Xây dựng chính quy của **CCBA Agent Platform**, được đóng gói theo tiêu chuẩn **OKF v2.4 Universal Agent-Centric (ADR 0034 - ADR 0037)**.
+Cơ sở dữ liệu Tri thức Pháp luật và Quy chuẩn Kỹ thuật Xây dựng chính quy của **CCBA Agent Platform**, được đóng gói theo tiêu chuẩn **OKF v2.4 Universal Agent-Centric (ADR 0034 - ADR 0042)**.
 
 ---
 
@@ -40,7 +40,7 @@ legal_docs/<category>/<doc_slug>/
   ```powershell
   python -m ccba_legal convert --docx-path "legal_docs/<cat>/<slug>/sources/<slug>.docx" --target-bundle-dir "legal_docs/<cat>/<slug>"
   ```
-* **Kiểm định toàn diện 11 Cổng Master CI Gate:**
+* **Kiểm định toàn diện 15 Cổng Master CI Gate:**
   ```powershell
   python scripts/validate_legal_spoke.py
   ```

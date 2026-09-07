@@ -15,3 +15,4 @@
 - [Cây Cú Pháp Điều Khoản (AST Clauses JSON)](./clauses.json) — 119 nodes điều khoản phục vụ AI QC & RAG.
 - [Bộ Đánh Giá Độ Chính Xác (QA Benchmark)](./qa_benchmark.json) — 119 cặp câu hỏi - câu trả lời đối soát.
 - [Bảng Tra Cứu Số Hóa (Tables Directory)](./tables/) — 49 Bảng tra cứu số học (CSV + JSON).
+- [Hệ Thống Phụ Lục Quy Chuẩn (Annexes Directory)](./annexes/) — 02 Phụ lục kỹ thuật quy phạm (Phụ lục A, Phụ lục B).

@@ -724,3 +724,28 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Tự động nhận diện các mẫu `(\+{1,3}|\-)\s*(\([0-9]+\))` và `([a-zA-ZÀ-ỹ0-9_]+)\s*(\([0-9]+\))` để bọc `<sup>...</sup>`, loại bỏ nguy cơ text dính liền.
   4. **Bảo Tồn Tuyệt Đối Token Văn Bản Gốc (ADR 0037 Invariant):**
      - Giữ nguyên 100% cấu trúc từ khóa như `QCVN 06:/BXD` của cơ quan ban hành, nghiêm cấm agent tự ý suy diễn hoặc "làm sạch" quá mức gây trượt cổng kiểm định Verbatim.
+
+---
+
+## 45. Canonical OpenXML Pre-Sanitization, In-Memory Run Consolidation, Layout Table Unwrapping & Gate 11 TOC Bypass (ADR 0042)
+
+- **Vấn đề Phát Hiện:**
+  1. **Phân Mảnh Thẻ Run (`<w:r>` Fragmentation) & Rác Biên Soạn:** Bộ gõ tiếng Việt và cơ chế soát lỗi chính tả của Word chia nhỏ câu từ thành hàng chục run `<w:r>` vụn vặt, chứa đầy các thuộc tính `w:rsid*` và thẻ rác `<w:proofErr>`, `<w:smartTag>`, `<w:lastRenderedPageBreak>`. Điều này làm gãy rụng các regex nhận diện điều khoản và tiêu đề của downstream AST parsers.
+  2. **Ô Nhiễm Bảng Bố Cục Dàn Trang (Borderless Layout Tables):** Bảng không viền 1–3 hàng, 1–2 cột được người soạn thảo dùng để căn lề tiêu ngữ, quốc hiệu, chữ ký hoặc khung công thức bị nhận diện nhầm thành bảng số liệu kỹ thuật, sinh ra các tệp CSV rác trong `tables/` và vi phạm Gate 8, Gate 13.
+  3. **Nuốt Khoảng Trắng Biên (Whitespace Collapsing):** Khi ghép nối các run hoặc trích xuất text qua DOM XML, khoảng trắng biên bị trình phân tích XML nuốt mất (biến `"Điều 1"` thành `"Điều1"`), làm dính liền câu từ và lỗi định dạng.
+  4. **Nhiễu Mục Lục Văn Bản Trong Gate 11 (TOC Bypass in Verbatim Parity):** Các khối mục lục tóm tắt đầu văn bản DOCX (Table of Contents / TOC) nếu bị kiểm định verbatim từng câu với thân văn bản Markdown đã chuẩn hóa có thể gây cảnh báo sai lệch hoặc làm loãng tỷ lệ trùng khớp thực tế.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Tiền Xử Lý Chuẩn Hóa DOM In-Memory (`DocxCanonicalSanitizer`):**
+     - Thực thi 100% trong bộ nhớ RAM qua `lxml.etree` và `io.BytesIO` trước khi bàn giao cho downstream AST parsers.
+     - Tự động gọt sạch toàn bộ thuộc tính `w:rsid*`, loại bỏ các thẻ `<w:proofErr>`, giải phóng nội dung `<w:smartTag>`, và gộp các run `<w:r>` liền kề có cùng định dạng `<w:rPr>` thành 1 run duy nhất.
+     - Chuẩn hóa toàn bộ văn bản sang dạng Unicode chuẩn NFC (`unicodedata.normalize('NFC', text)`).
+  2. **Bảo Vệ Khoảng Trắng Biên Bằng `xml:space="preserve"`:**
+     - Tự động tiêm thuộc tính `xml:space="preserve"` vào mọi thẻ `<w:t>` có khoảng trắng hoặc tab ở biên, triệt tiêu $100\%$ hiện tượng dính chữ giữa số hiệu điều khoản và tiêu đề.
+  3. **Giải Nén Bảng Bố Cục Dàn Trang (Borderless Layout Tables Unwrapping):**
+     - Nhận diện các bảng layout không viền căn lề hành chính/chữ ký và unwrap toàn bộ các đoạn văn `<w:p>` bên trong ra trực tiếp thân tài liệu chính.
+     - Loại bỏ hoàn toàn thẻ `<w:tbl>` của bảng layout, giữ thư mục `tables/` sạch 100% chỉ chứa bảng số liệu kỹ thuật thực thụ.
+  4. **Danh Sách Trắng Đối Tượng Nhúng & Cấu Trúc AST (Whitelist Protection):**
+     - Bảo tồn nguyên vẹn $100\%$ các thẻ nhúng MathType OLE `<w:object>`, `<m:oMath>`, `<w:drawing>` và cấu trúc đánh số `<w:numPr>`.
+  5. **Bỏ Qua Khối Mục Lục Khi Đối Soát Verbatim (Gate 11 TOC Bypass):**
+     - Tự động nhận diện và bỏ qua các khối mục lục dàn trang (TOC paragraphs) trong bộ kiểm định Gate 11, tập trung đo lường độ trùng khớp $1:1$ trên toàn bộ nội dung quy phạm thực tế.

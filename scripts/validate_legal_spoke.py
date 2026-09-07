@@ -261,6 +261,8 @@ class LegalSpokeValidator:
                     if isinstance(raw_clauses, dict)
                     else raw_clauses
                 )
+                if not isinstance(clauses_data, list):
+                    clauses_data = []
                 if len(clauses_data) < 25:
                     self.warnings.append(
                         f"Fake Data Warning [{doc_dir.name}]: Found only {len(clauses_data)} clauses in clauses.json. Expected >= 30."
@@ -350,8 +352,9 @@ class LegalSpokeValidator:
                 if not doc_dir.is_dir():
                     continue
 
-                primary_md = doc_dir / f"{doc_dir.name}.md"
-                if not primary_md.exists():
+                target_md = doc_dir / f"{doc_dir.name}.md"
+                primary_md = target_md if target_md.exists() else None
+                if primary_md is None:
                     md_files = [f for f in doc_dir.glob("*.md") if f.name not in ("index.md", "dead_ends.md", "log.md")]
                     primary_md = md_files[0] if md_files else None
 
@@ -366,21 +369,22 @@ class LegalSpokeValidator:
             for doc_dir in cat_dir.iterdir():
                 if not doc_dir.is_dir():
                     continue
-                primary_md = doc_dir / f"{doc_dir.name}.md"
-                if not primary_md.exists():
-                    md_files = [
+                std_target_md = doc_dir / f"{doc_dir.name}.md"
+                std_primary_md = std_target_md if std_target_md.exists() else None
+                if std_primary_md is None:
+                    std_md_files = [
                         f
                         for f in doc_dir.glob("*.md")
                         if f.name not in ("index.md", "dead_ends.md", "log.md", "bang_so_sanh_thay_doi.md")
                     ]
-                    primary_md = md_files[0] if md_files else None
-                if primary_md and primary_md.exists():
-                    content = self._safe_read_text(primary_md)
+                    std_primary_md = std_md_files[0] if std_md_files else None
+                if std_primary_md and std_primary_md.exists():
+                    content = self._safe_read_text(std_primary_md)
                     if content:
                         main_body = re.split(
                             r"(?:^|\n)##\s+📑\s+HỆ\s+THỐNG\s+PHỤ\s+LỤC", content, flags=re.IGNORECASE
                         )[0].strip()
-                        self._check_annex_leakage(main_body, doc_dir.name, primary_md.name)
+                        self._check_annex_leakage(main_body, doc_dir.name, std_primary_md.name)
 
         return (len(self.errors), len(self.warnings))
 
@@ -813,7 +817,7 @@ class LegalSpokeValidator:
 
                 tables_dir = bundle_dir / "tables"
                 if tables_dir.exists():
-                    for csv_f in tables_dir.glob("*.csv"):
+                    for csv_f in tables_dir.rglob("*.csv"):
                         try:
                             md_texts.append(csv_f.read_text(encoding="utf-8"))
                         except Exception:

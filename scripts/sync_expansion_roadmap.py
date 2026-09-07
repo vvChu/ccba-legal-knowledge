@@ -260,7 +260,7 @@ Living Document này được bảo vệ và cập nhật tự động qua các 
         existing_substantive = re.sub(r">\s*\*\*Lần cập nhật cuối:\*\*.*", "", existing_text).strip()
         new_substantive = re.sub(r">\s*\*\*Lần cập nhật cuối:\*\*.*", "", md_content).strip()
         if existing_substantive == new_substantive:
-            print(f"ℹ️ Living Expansion Roadmap is up to date (no substantive changes).")
+            print("ℹ️ Living Expansion Roadmap is up to date (no substantive changes).")
             return {
                 "status": "up_to_date",
                 "current_total": current_registry_total,

@@ -42,10 +42,136 @@ artifacts:
 # QCVN 02:2022/BXD
 ## QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ SỐ LIỆU ĐIỀU KIỆN TỰ NHIÊN DÙNG TRONG XÂY DỰNG
 
+*National Technical Regulation on Natural Physical and Climatic Data for Construction*
+
 > [!NOTE]
 > **Cơ quan ban hành:** Bộ Xây dựng (kèm theo Thông tư 02/2022/TT-BXD).  
 > **Ngày ban hành:** 2022-09-26 | **Hiệu lực:** 2023-03-26.  
 > **Mỏ neo PDF Công báo (PDF Anchor of Trust):** [`qcvn_02_2022_bxd.pdf`](./qcvn_02_2022_bxd.pdf) *(SHA-256: `0375f3b798e01dfde379710648c8024edc71b5718ec5ee4f0e405764620c7a7d`)*.
+
+---
+
+## Lời nói đầu
+
+QCVN 02:2022/BXD do Viện Khoa học công nghệ xây dựng chủ trì biên soạn (với sự hợp tác của Viện Khoa học khí tượng thủy văn và biến đổi khí hậu - Bộ Tài nguyên và Môi trường, Viện Vật lý địa cầu - Viện Hàn lâm Khoa học và Công nghệ Việt Nam và Hội Môi trường Xây dựng Việt Nam), Vụ Khoa học công nghệ và môi trường trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ Xây dựng ban hành kèm theo Thông tư số 02/2022/TT-BXD ngày 26/9/2022 của Bộ trưởng Bộ Xây dựng.
+
+QCVN 02:2022/BXD thay thế QCVN 02:2009/BXD ban hành kèm theo Thông tư số 29/2009/TT-BXD, ngày 14/8/2009 của Bộ trưởng Bộ Xây dựng.
+
+## MỤC LỤC
+
+1  QUY ĐỊNH CHUNG
+1.1  Phạm vi điều chỉnh
+1.2  Đối tượng áp dụng
+1.3  Giải thích từ ngữ
+1.4  Các số liệu trong quy chuẩn
+1.5  Nguồn gốc số liệu
+2  SỐ LIỆU KHÍ HẬU DÙNG TRONG XÂY DỰNG
+2.1  Đặc điểm khí hậu Việt Nam
+2.2  Sử dụng số liệu Chương 2
+3  SỐ LIỆU THỜI TIẾT VÀ HIỆN TƯỢNG TỰ NHIÊN BẤT LỢI
+3.1  Bão
+3.2  Lốc
+3.3  Lũ lụt
+3.4  Lũ quét
+3.5  Dông sét
+3.6  Động đất
+3.7  Thuỷ văn biển
+3.8  Độ muối khí quyển
+3.9  Sử dụng số liệu Chương 3
+4  SỐ LIỆU MẬT ĐỘ SÉT ĐÁNH
+4.1  Đặc điểm số liệu mật độ sét đánh
+4.2  Sử dụng số liệu mật độ sét đánh trong thiết kế
+5  SỐ LIỆU GIÓ DÙNG TRONG THIẾT KẾ
+5.1  Phạm vi áp dụng
+5.2  Số liệu áp lực gió (W0)
+5.3  Số liệu vận tốc gió 3 s, chu kỳ lặp 50 năm
+5.4  Số liệu vận tốc gió, áp lực gió 10 phút, chu kỳ lặp 50 năm
+5.5  Số liệu gió theo các nghiên cứu riêng
+6  SỐ LIỆU ĐỘNG ĐẤT DÙNG TRONG THIẾT KẾ
+6.1  Số liệu động đất theo đỉnh gia tốc nền tham chiếu
+6.2  Số liệu động đất theo phổ phản ứng SS và S1
+6.3  Số liệu động đất theo cường độ chấn động bề mặt, I
+6.4  Số liệu động đất theo các nghiên cứu riêng
+7  TỔ CHỨC THỰC HIỆN
+PHỤ LỤC A (quy định) Số liệu khí hậu, khí tượng
+PHỤ LỤC B (quy định) Số liệu thời tiết và hiện tượng tự nhiên bất lợi
+
+DANH MỤC BẢNG
+
+Chương 4
+Bảng 4.1 - Mật độ sét đánh theo địa danh hành chính lãnh thổ Việt Nam
+Chương 5
+Bảng 5.1 - Phân vùng áp lực gió, vận tốc gió theo địa danh hành chính
+Bảng 5.2 - Hệ số Ks,T, dùng để chuyển đổi từ vận tốc gió 3 s, 50 năm sang vận tốc gió 3 s, T ( năm)
+Bảng 5.3 - Hệ số Km,T, dùng để chuyển đổi từ vận tốc gió 10 phút, 50 năm sang vận tốc gió 10 s, T ( năm)
+Chương 6
+Bảng 6.1 - Bảng phân vùng động đất theo đỉnh gia tốc nền tham chiếu theo địa danh hành chính (chu kỳ lặp 500 năm cho nền loại A), g = 9,81 m/s2(gia tốc trọng trường)
+Bảng 6.2 - Bảng phân vùng động đất theo phổ phản ứng chu kỳ ngắn SS và chu kỳ dài S1 theo địa danh hành chính với chu kỳ lặp 2 500 năm cho nền loại B
+Bảng 6.3 - Phân loại thiệt hại công trình
+Bảng 6.4 - Phân loại tác động của động đất theo thang MSK - 64 và chuyển đổi
+giữa đỉnh gia tốc nền và cường độ chấn động bề mặt
+Phụ lục A
+Bảng A.1 - Tọa độ vị trí các trạm khí tượng
+Bảng A.2 - Nhiệt độ không khí trung bình tháng và năm (ºC)
+Bảng A.3 - Nhiệt độ không khí cao nhất trung bình tháng và năm (ºC)
+Bảng A.4 - Nhiệt độ không khí thấp nhất trung bình tháng và năm (ºC)
+Bảng A.5 - Nhiệt độ không khí cao nhất tuyệt đối tháng và năm (ºC)
+Bảng A.6 - Nhiệt độ không khí thấp nhất tuyệt đối tháng và năm (ºC)
+Bảng A.7 - Biên độ ngày của nhiệt độ không khí trung bình tháng và năm (ºC)
+Bảng A.8 - Biến trình ngày của nhiệt độ không khí (ºC)
+Bảng A.9 - Độ ẩm tuyệt đối của không khí trung bình tháng và năm (g/m3)
+Bảng A.10 - Độ ẩm tương đối của không khí trung bình tháng và năm (%)
+Bảng A.11 - Độ ẩm tương đối của không khí thấp nhất trung bình tháng và năm (%)
+Bảng A.12 - Độ ẩm tương đối của không khí thấp nhất tuyệt đối tháng và năm (%)
+Bảng A.13 - Biến trình ngày của độ ẩm tương đối của không khí (%)
+Bảng A.14 - Tần suất xuất hiện các cấp nhiệt ẩm (‰)
+Bảng A.15 - Vận tốc gió trung bình tháng và năm (m/s)
+Bảng A.16 - Tần suất Lặng gió (PL, %) tần suất (P, %) và vận tốc gió (V, m/s) trung bình theo 8 hướng
+Bảng A.17 - Độ cao (H) và góc phương vị (A) của mặt trời (độ)
+Bảng A.18 - Tổng xạ trên mặt phẳng (W/m2/ngày)
+Bảng A.19 - Tán xạ trên mặt bằng (W/m2/ngày)
+Bảng A.20 - Cường độ trực xạ trên mặt đứng 8 hướng (W/m2)
+Bảng A.21 - Cường độ tán xạ trên mặt đứng 8 hướng (W/m2)
+Bảng A.22 - Tổng số giờ nắng trung bình tháng và năm (h)
+Bảng A.23 - Biến trình ngày của số giờ nắng (h)
+Bảng A.24 - Độ rọi trên mặt phẳng ngang (klx)
+Bảng A.25 - Lượng mưa trung bình tháng và năm (mm)
+Bảng A.26 - Lượng mưa ngày lớn nhất (mm)
+Bảng A.27 - Lượng mưa lớn nhất trung bình thời đoạn (mm)
+Bảng A.28 - Số ngày mưa trung bình tháng và năm (ngày)
+Bảng A.29 - Số ngày mưa trung bình theo các cấp (ngày)
+Bảng A.30 - Lượng mưa (mm) tháng và năm theo các suất bảo đảm (%)
+Bảng A.31 - Số ngày mưa phùn trung bình tháng và năm (ngày)
+Bảng A.32 - Số ngày sương mù trung bình tháng và năm (ngày)
+Bảng A.33 - Số ngày có dông trung bình tháng và năm (ngày)
+Bảng A.34 - Lượng mây tổng quan trung bình tháng và năm (ngày).
+Bảng A.35 - Lượng mây dưới trung bình tháng và năm (ngày)
+Phụ lục B
+Bảng B.1 - Tần suất bão và áp thấp nhiệt đới đổ bộ vào các vùng bờ biển Việt Nam từ năm 1961 đến năm 2017
+Bảng B.2 - Cấp gió theo thang Bô-pho (Beaufort) và chiều cao sóng
+Bảng B.3 - Thống kê các cơn bão và áp thấp nhiệt đới đổ bộ vào các vùng bờ biển Việt Nam từ năm 1961 đến năm 2017
+Bảng B.4 - Phân bố các lần tố lốc một số năm trên toàn quốc từ năm 1971 đến năm 2017
+Bảng B.5 - Thống kê các trận lũ lịch sử từ năm 1945 đến năm 2007
+Bảng B.6 - Thống kê các trận lũ quét từ năm 1958 đến năm 2017
+
+DANH MỤC HÌNH
+
+Chương 2
+Hình 2.1 - Bản đồ phân vùng khí hậu xây dựng
+Hình 2.2 - Bản đồ phân bố mạng lưới trạm khí tượng trên quy mô cả nước
+Chương 3
+Hình 3.1 - Bản đồ thuỷ triều ở Biển Đông
+Hình 3.2 - Bản đồ phân bố độ cao nước dâng do bão với tần suất đảm bảo 5 %
+Hình 3.3 - Bản đồ chấn tâm động đất và đứt gãy sinh chấn lãnh thổ Việt Nam
+Hình 3.4 - Bản đồ phân vùng độ muối khí quyển
+Chương 4
+Hình 4.1 - Bản đồ mật độ sét đánh trung bình năm lãnh thổ Việt Nam
+Chương 5
+Hình 5.1 - Bản đồ phân vùng áp lực gió trên lãnh thổ Việt Nam
+Chương 6
+Hình 6.1 - Bản đồ phân vùng đỉnh gia tốc nền tham chiếu, agR trên lãnh thổ Việt Nam, chu kỳ lặp 500 năm cho nền loại A
+Hình 6.2 - Bản đồ phân vùng động đất theo phổ phản ứng SS
+Hình 6.3 - Bản đồ phân vùng động đất theo phổ phản ứng S1
 
 ---
 
@@ -2423,3 +2549,18 @@ b) Dự án đầu tư xây dựng được phê duyệt sau thời điểm QCVN
 <a id="muc-7-4"></a>
 ### 7.4  Các cơ quan quản lý Nhà nước về xây dựng tại các địa phương có trách nhiệm tổ chức kiểm tra sự tuân thủ quy chuẩn này trong việc thiết kế xây dựng công trình, thi công xây dựng công trình và các hoạt động xây dựng khác trên địa bàn theo quy định của pháp luật.
 
+
+---
+
+## 📑 HỆ THỐNG PHỤ LỤC QUY CHUẨN KÈM THEO
+
+| Phụ lục | Tính chất | Nội dung chuyên môn | Liên kết Module |
+| :---: | :---: | :--- | :---: |
+| **Phụ lục A** | *Quy định* | Số liệu khí hậu, khí tượng (Bảng A.1 – Bảng A.35) | [👉 Xem Phụ lục A](annexes/phu_luc_a_so_lieu_khi_hau_khi_tuong.md) |
+| **Phụ lục B** | *Quy định* | Số liệu thời tiết và hiện tượng tự nhiên bất lợi (Bảng B.1 – Bảng B.6) | [👉 Xem Phụ lục B](annexes/phu_luc_b_so_lieu_thoi_tiet_va_hien_tuong_tu_nhien_bat_loi.md) |
+
+---
+
+## 📊 DANH MỤC BẢNG TRA CỨU SỐ LIỆU KỸ THUẬT 2D
+
+Toàn bộ các bảng số liệu chi tiết dạng CSV/JSON tra cứu tại [Thư mục Bảng Số Liệu](tables/).

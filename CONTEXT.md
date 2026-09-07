@@ -117,7 +117,7 @@ Tài liệu này là Từ điển Thuật ngữ miền nghiệp vụ (Ubiquitous
 
 ---
 
-## 6. Thuật ngữ Kiến trúc Nâng cao & Quy Chuẩn Hiện Đại (ADR 0033 - ADR 0037)
+## 6. Thuật ngữ Kiến trúc Nâng cao & Quy Chuẩn Hiện Đại (ADR 0033 - ADR 0042)
 
 - **Vệ Sinh & Lưu Trữ Thư Mục .md (Directory Hygiene & Archiving - ADR 0033):** Quy chuẩn cấu trúc thư mục `.md/`: cấp gốc chỉ lưu config tối thượng; toàn bộ tài liệu nguồn chuyển vào `.md/extracted_docs/`, scripts thử nghiệm đưa vào `.md/archive/`.
 - **Mô Hình Quy Chuẩn Kỹ Thuật Động Cơ Kép (OKF v2.3 Dual-Engine - ADR 0034):** Tiêu chuẩn chuyển đổi TCVN/QCVN tự động nhận diện công thức KaTeX đa dòng và dựng bảng ma trận GFM 2D phức tạp qua `TableMatrixBuilder`.
@@ -132,6 +132,10 @@ Tài liệu này là Từ điển Thuật ngữ miền nghiệp vụ (Ubiquitous
   - *Thẻ Thị Giác Tính Toán Tham Số Hóa (Visual Computation Cards - `figures/cards/`):* Decoupling giữa đồ họa tĩnh và thông số tính toán tra cứu, đăng ký tập trung tại `figures/figures_catalog.yaml`.
   - *Mô Hình Biểu Diễn Đường Cong Đa Tầng (Tiered Engineering Curve Representation):* Bảng CSV 2D rời rạc hóa hoặc Python Solver (ADR 0020) làm Chân lý Tối cao; cho phép AI Vision ước lượng ban đầu nhưng bắt buộc gán nhãn `confidence_status: "ESTIMATED_BY_VISION"` và kiểm chứng chéo hai chiều (Mutual Cross-Check).
   - *Cổng Kiểm Định Tài Sản Đa Phương Thức (Master CI Gate 12):* Cưỡng chế $0\text{ stray WMF}$, $100\%$ thẻ thị giác đầy đủ và phân loại nguồn gốc biểu đồ rõ ràng.
+- **Kiến Trúc Bóc Tách Tri Thức Bảng Biểu Xác Định Toàn Cầu (Universal Deterministic Table Knowledge Extraction Architecture — ADR 0041):** Kiến trúc bóc tách dữ liệu bảng số liệu 2D chuẩn hóa: thiết lập lưới tọa độ ảo 2D (`tblGrid`); áp dụng Hierarchical Forward-Fill có kiểm soát cho các ô gộp dọc (`vMerge`) trong CSV/JSON; phẳng hóa tiêu đề đa tầng bằng Em-dash ngữ nghĩa (`Tầng 1 — Tầng 2 — Tầng 3`); bóc tách 100% chú thích chân bảng (`footnotes`) ra khỏi ma trận dữ liệu quan hệ; thoát an toàn ký tự pipe trong cell và KaTeX (`\vert `); định tuyến biểu mẫu hành chính sang `templates/`; và cưỡng chế ma trận CSV đạt chuẩn 100% Zero Ragged Rows (Gate 13).
+- **Chuẩn Hóa Cấu Trúc OpenXML DOM & Động Cơ Lai Ghép DOCX-PDF Hai Tầng (Canonical OpenXML Sanitization & Hybrid Dual-Engine Architecture — ADR 0042):** Kiến trúc chuyển đổi hai pha hoàn toàn in-memory: Pha 1 tiền xử lý DOM qua `DocxCanonicalSanitizer` (gọt thuộc tính revision `w:rsid*`, loại bỏ `<w:proofErr>`, gộp run phân mảnh về chuẩn Unicode NFC, tiêm `xml:space="preserve"`, giải nén borderless layout tables thành văn xuôi phẳng, thăng cấp heading có cấu trúc) bảo tồn tuyệt đối whitelist `<w:object>`, `<m:oMath>`, `<w:drawing>`; Pha 2 kết hợp DOCX làm khung xương AST ngữ nghĩa phân cấp và PDF làm mỏ neo không gian kiểm chuẩn.
+- **Quy Chuẩn Chuẩn Hóa Cấu Trúc OpenXML & Động Cơ Lai Ghép Bất Biến (Universal Canonical OpenXML Sanitization & Hybrid Dual-Engine Invariant — Invariant 14):** Nguyên tắc bất biến cưỡng chế toàn bộ tệp DOCX nạp vào hệ thống bắt buộc phải đi qua Pha 1 tiền xử lý in-memory của `DocxCanonicalSanitizer` trước khi parse AST; bảo tồn 100% khoảng trắng biên; unwrap triệt để bảng layout; không sinh CSV rác; và đạt chuẩn 15/15 Cổng Master CI Gate với 0 Errors và 0 Warnings.
+
 
 
 
