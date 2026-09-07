@@ -6,7 +6,7 @@
 <a id="bang-bang-g-1"></a>
 ### Bảng G.1 - Kích thước nhỏ nhất cho phép của các phần tử làm điện cực nối đất làm từ vật liệu thông thường có xét đến khả năng chịu ăn mòn và độ bền cơ
 
-| Vật liệu | Bề mặt | Hình dạng | Kích thước nhỏ nhất cho phép — Đường kính mm | Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$ | Kích thước nhỏ nhất cho phép — Chiều dày mm | Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm | Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm |
+| Vật liệu | Bề mặt | Hình dạng | Kích thước nhỏ nhất cho phép — Đường kính mm | Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$ | Kích thước nhỏ nhất cho phép — Chiều dày mm | Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêng (µm) | Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bình (µm) |
 | :--- | :--- | :--- | :--- | :--- | :---: | :---: | :--- |
 | Thép | Không gỉ $^{(a,b)}$ hoặc mạ kẽm nhúng nóng <sup>(a)</sup> | Dẹt <sup>(c)</sup> |  | 90 | 3 | 63 | 70 |
 | Thép | Không gỉ $^{(a,b)}$ hoặc mạ kẽm nhúng nóng <sup>(a)</sup> | Thép góc |  | 90 | 3 | 63 | 70 |

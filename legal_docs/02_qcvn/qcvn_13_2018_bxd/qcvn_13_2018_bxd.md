@@ -1,26 +1,26 @@
 ---
 okf_version: '2.4'
 type: technical_standard_qcvn
-title: QCVN 13 2018 BXD — qcvn_13_2018_bxd
-description: QCVN 13 2018 BXD — qcvn_13_2018_bxd
+title: QCVN 13:2018/BXD — Quy chuẩn kỹ thuật quốc gia về Gara ô tô
+description: QCVN 13:2018/BXD — Quy chuẩn kỹ thuật quốc gia về Gara ô tô
 tags:
 - qcvn
 - quy_chuan_ky_thuat
 timestamp: '2026-08-26T00:00:00Z'
 resource: legal_docs/02_qcvn/qcvn_13_2018_bxd/qcvn_13_2018_bxd.md
-id: qcvn_13_2018_bxd
-doc_id: qcvn_13_2018_bxd
-document_number: QCVN 13 2018 BXD
+id: QCVN-13-2018-BXD
+doc_id: QCVN-13-2018-BXD
+document_number: QCVN 13:2018/BXD
 document_type: Quy chuẩn kỹ thuật quốc gia
 issued_by: Bộ Xây dựng
 signer: ''
-issued_date: ''
-effective_date: ''
+issued_date: '2018-12-26'
+effective_date: '2019-03-15'
 status: active
 pdf_anchor:
   path: ./sources/qcvn_13_2018_bxd.pdf
-  sha256: ''
-  cong_bao_number: Đang cập nhật
+  sha256: 7ba60f4ae39d8b2bbad9858171682d1061f1e0e4f08b15dc4dd89cd30089903f
+  cong_bao_number: 12/2018/TT-BXD
 artifacts:
   tables_dir: ./tables/
   tables_catalog: ./tables/tables_catalog.json
@@ -73,7 +73,7 @@ National technical regulation on Car Parking
 
 ---
 
-1. QUY ĐỊNH CHUNG
+## 1. QUY ĐỊNH CHUNG
 
 
 <a id="muc-1-1"></a>
@@ -97,25 +97,33 @@ National technical regulation on Car Parking
 
 Các thuật ngữ sử dụng trong quy chuẩn này được hiểu như sau:
 
-1.2.1
+
+<a id="muc-1-2-1"></a>
+### 1.2.1
 
 Gara ô-tô - nhà
 
 Công trình (hoặc phần của nhà và công trình) hoặc bãi hở chuyên dùng để lưu giữ ô-tô.
 
-1.2.2
+
+<a id="muc-1-2-2"></a>
+### 1.2.2
 
 Gara ô-tô trên mặt đất dạng kín
 
 Gara ô-tô có tường bao che ngoài.
 
-1.2.3
+
+<a id="muc-1-2-3"></a>
+### 1.2.3
 
 Gara ô-tô dạng hở
 
 Gara ô-tô không có tường bao che ngoài. Gara ô-tô cũng được coi là hở nếu công trình có hai cạnh đối diện dài nhất được để hở. Cạnh được coi là được để hở nếu tổng diện tích phần để hở dọc theo cạnh này chiếm không ít hơn 50% diện tích mặt ngoài của nó ở trên từng tầng.
 
-1.2.4
+
+<a id="muc-1-2-4"></a>
+### 1.2.4
 
 Gara ô-tô có đường dốc
 
@@ -153,7 +161,7 @@ QCVN 06:2010/BXD, Quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nh
 
 QCVN 10:2014/BXD, Quy chuẩn kỹ thuật quốc gia về xây dựng công trình đảm bảo cho người khuyết tật tiếp cận sử dụng.
 
-2. QUY ĐỊNH KỸ THUẬT
+## 2. QUY ĐỊNH KỸ THUẬT
 
 
 <a id="muc-2-1"></a>
@@ -939,7 +947,7 @@ Các gara ô-tô ngầm có 2 tầng trở lên phải được trang bị các 
 <a id="muc-2-4-6"></a>
 ### 2.4.6  Khả năng làm việc của các hệ thống kỹ thuật bảo vệ chống cháy (các van và họng nước chữa cháy, các trạm bơm chữa cháy, thiết bị phát hiện cháy, các hệ thống bảo vệ chống khói, báo cháy, các thiết bị đóng lối ra thoát hiểm) phải được kiểm tra không ít hơn một lần trong một năm và lập các biên bản tương ứng có sự tham gia của đại diện cơ quan quản lý phòng cháy, chữa cháy.
 
-3. QUY ĐỊNH VỀ QUẢN LÝ
+## 3. QUY ĐỊNH VỀ QUẢN LÝ
 
 
 <a id="muc-3-1"></a>
@@ -953,7 +961,7 @@ Các gara ô-tô ngầm có 2 tầng trở lên phải được trang bị các 
 <a id="muc-3-3"></a>
 ### 3.3  Việc thẩm định dự án, hồ sơ thiết kế gara ô-tô, công tác kiểm tra, nghiệm thu và đưa công trình vào sử dụng, công tác bảo trì gara ô-tô phải căn cứ vào các quy định của quy chuẩn này và được thực hiện theo quy định hiện hành về đầu tư xây dựng.
 
-4. TỔ CHỨC THỰC HIỆN
+## 4. TỔ CHỨC THỰC HIỆN
 
 
 <a id="muc-4-1"></a>
@@ -983,4 +991,4 @@ Toàn bộ 1 Phụ lục kỹ thuật chuyên đề đã được module hóa th
 ## 📊 HỆ THỐNG TRA CỨU BẢNG & SƠ ĐỒ KỸ THUẬT
 
 - **Tra cứu 9 Bảng Số Liệu:** Tra cứu chi tiết dạng CSV/JSON tại [Thư mục Bảng Số Liệu](tables/README.md).
-- **Tra cứu Sơ Đồ Hình Vẽ:** Tra cứu ảnh nét cao và đặc tả phân vùng tại [Danh Mục Sơ Đồ Khí Động](figures/figures_catalog.yaml).
+- **Tra cứu Sơ Đồ Hình Vẽ:** Tra cứu ảnh nét cao và đặc tả phân vùng tại [Danh Mục Sơ Đồ Hình Vẽ](figures/figures_catalog.yaml).
