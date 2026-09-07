@@ -12,8 +12,8 @@
 
 - [Toàn văn Quy chuẩn (Markdown OKF v2.4)](./qcvn_13_2018_bxd.md) — Thân văn bản quy phạm thuần khiết nguyên văn 100%.
 - [Metadata Pháp lý & Đồ thị (YAML)](./metadata.yaml) — Đặc tả thuộc tính văn bản & nguồn gốc.
-- [Cây Cú Pháp Điều Khoản (AST Clauses JSON)](./clauses.json) — 129 nodes điều khoản phục vụ AI QC & RAG.
-- [Bộ Đánh Giá Độ Chính Xác (QA Benchmark)](./qa_benchmark.json) — 129 cặp câu hỏi - câu trả lời đối soát.
+- [Cây Cú Pháp Điều Khoản (AST Clauses JSON)](./clauses.json) — 133 nodes điều khoản phục vụ AI QC & RAG.
+- [Bộ Đánh Giá Độ Chính Xác (QA Benchmark)](./qa_benchmark.json) — 133 cặp câu hỏi - câu trả lời đối soát.
 - [Kho Module Phụ Lục Kỹ Thuật (Annexes Directory)](./annexes/) — Module Phụ lục A: Quy định về kích thước bố trí gara ô tô.
 - [Bảng Tra Cứu Số Hóa (Tables Directory)](./tables/) — 9 Bảng tra cứu số học 2D (CSV + JSON).
 - [Biểu Mẫu Hành Chính (Templates Directory)](./templates/) — Thư mục quy chuẩn kỹ thuật (không có biểu mẫu hành chính rời).

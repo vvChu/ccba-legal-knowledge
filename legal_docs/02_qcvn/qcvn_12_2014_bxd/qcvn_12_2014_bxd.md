@@ -40,7 +40,7 @@ National Technical Regulation on Electrical Installations of Dwelling and Public
 
 ## Lời nói đầu
 
-**QCVN 12:2014/BXD do Viện Khoa học Công nghệ Xây dựng biên soạn với sự hỗ trợ của các chuyên gia thuộc Hiệp hội Đồng Quốc tế khu vực Đông Nam Á (International Copper $Ass^{o}$ Ciation Southeast Asia), Vụ Khoa học Công nghệ và Môi trường trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ Xây dựng ban hành kèm theo Thông tư số 20/2014/TT-BXD của Bộ trưởng Bộ Xây dựng ngày 29 tháng 12 năm 2014.**
+**QCVN 12:2014/BXD do Viện Khoa học Công nghệ Xây dựng biên soạn với sự hỗ trợ của các chuyên gia thuộc Hiệp hội Đồng Quốc tế khu vực Đông Nam Á (International Copper Association Southeast Asia), Vụ Khoa học Công nghệ và Môi trường trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ Xây dựng ban hành kèm theo Thông tư số 20/2014/TT-BXD của Bộ trưởng Bộ Xây dựng ngày 29 tháng 12 năm 2014.**
 
 QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ HỆ THỐNG ĐIỆN CỦA NHÀ Ở VÀ NHÀ CÔNG CỘNG
 
@@ -49,7 +49,7 @@ National Technical Regulation on Electrical Installations of Dwelling and Public
 
 ---
 
-1. QUY ĐỊNH CHUNG
+## 1. QUY ĐỊNH CHUNG
 
 
 <a id="muc-1-1"></a>
@@ -345,7 +345,7 @@ ELV có nguồn, dây dẫn và thiết bị sử dụng điện không nối v�
 <a id="muc-1-5-12"></a>
 ### 1.5.12  TT - một loại sơ đồ nối đất (xem Phụ lục Đ).
 
-2. QUY ĐỊNH VỀ KỸ THUẬT
+## 2. QUY ĐỊNH VỀ KỸ THUẬT
 
 
 <a id="muc-2-1"></a>
@@ -1797,7 +1797,7 @@ d) \- Dây dẫn xuống đất phải đặt cách các bề mặt dễ cháy c
 <a id="muc-2-8-2-6"></a>
 ### 2.8.2.6  Mạng nối đất chống sét phải đáp ứng các yêu cầu sau đây:
 
-a) \- Điện trở nối đất không lớn hơn 10 ;
+a) \- Điện trở nối đất không lớn hơn 10 Ω;
 
 b) \- Trường hợp mạng nối đất được sử dụng chung cho LPS và các thiết bị khác, điện trở nối đất phải phù hợp với các thiết bị liên quan;
 
@@ -2333,7 +2333,7 @@ g) \- Nguồn SELV và thiết bị bảo vệ của nó phải được lắp �
 
 &nbsp;&nbsp;&nbsp;&nbsp;\- Không bị quá nhiệt do cách nhiệt.
 
-3. QUY ĐỊNH VỀ KIỂM TRA
+## 3. QUY ĐỊNH VỀ KIỂM TRA
 
 
 <a id="muc-3-1"></a>
@@ -2495,7 +2495,7 @@ c) \- Đối với sơ đồ IT:
 <a id="muc-3-3-10"></a>
 ### 3.3.10  Phải kiểm tra sự hoạt động đúng với chức năng của các tổ hợp thiết bị.
 
-4. TỔ CHỨC THỰC HIỆN
+## 4. TỔ CHỨC THỰC HIỆN
 
 
 <a id="muc-4-1"></a>
@@ -2537,4 +2537,4 @@ Toàn bộ 13 Phụ lục kỹ thuật chuyên đề đã được module hóa t
 ## 📊 HỆ THỐNG TRA CỨU BẢNG & SƠ ĐỒ KỸ THUẬT
 
 - **Tra cứu 17 Bảng Số Liệu:** Tra cứu chi tiết dạng CSV/JSON tại [Thư mục Bảng Số Liệu](tables/README.md).
-- **Tra cứu Sơ Đồ Hình Vẽ:** Tra cứu ảnh nét cao và đặc tả phân vùng tại [Danh Mục Sơ Đồ Khí Động](figures/figures_catalog.yaml).
+- **Tra cứu Sơ Đồ Hình Vẽ:** Tra cứu ảnh nét cao và đặc tả phân vùng tại [Danh Mục Sơ Đồ Kỹ Thuật Điện & Thẻ Thị Giác](figures/figures_catalog.yaml).

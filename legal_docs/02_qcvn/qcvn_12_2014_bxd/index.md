@@ -12,10 +12,10 @@
 
 - [Toàn văn Quy chuẩn (Markdown OKF v2.4)](./qcvn_12_2014_bxd.md) — Thân văn bản quy phạm thuần khiết nguyên văn 100%.
 - [Metadata Pháp lý & Đồ thị (YAML)](./metadata.yaml) — Đặc tả thuộc tính văn bản & nguồn gốc.
-- [Cây Cú Pháp Điều Khoản (AST Clauses JSON)](./clauses.json) — 415 nodes điều khoản phục vụ AI QC & RAG.
-- [Bộ Đánh Giá Độ Chính Xác (QA Benchmark)](./qa_benchmark.json) — 415 cặp câu hỏi - câu trả lời đối soát.
-- [Kho Module Phụ Lục Kỹ Thuật (Annexes Directory)](./annexes/) — 12 Module Phụ lục quy phạm kỹ thuật (Phụ lục A đến N).
+- [Cây Cú Pháp Điều Khoản (AST Clauses JSON)](./clauses.json) — 424 nodes điều khoản phục vụ AI QC & RAG.
+- [Bộ Đánh Giá Độ Chính Xác (QA Benchmark)](./qa_benchmark.json) — 424 cặp câu hỏi - câu trả lời đối soát.
+- [Kho Module Phụ Lục Kỹ Thuật (Annexes Directory)](./annexes/) — 13 Module Phụ lục quy phạm kỹ thuật (Phụ lục A đến N).
 - [Bảng Tra Cứu Số Hóa (Tables Directory)](./tables/) — 17 Bảng tra cứu số học 2D (CSV + JSON).
 - [Biểu Mẫu Hành Chính (Templates Directory)](./templates/) — Thư mục quy chuẩn kỹ thuật (không có biểu mẫu hành chính rời).
-- [Thẻ Thị Giác Tính Toán (Figures Directory)](./figures/) — 11 sơ đồ kỹ thuật & thẻ thị giác tham số hóa.
+- [Thẻ Thị Giác Tính Toán (Figures Directory)](./figures/) — 14 sơ đồ kỹ thuật & thẻ thị giác tham số hóa.
 - [Ngăn Kéo Nguồn Gốc (Sources Directory)](./sources/) — Tệp gốc DOCX và PDF Công báo số hóa.
