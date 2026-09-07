@@ -1,13 +1,29 @@
 {
-  "total_tables": 1,
+  "total_tables": 3,
   "tables": [
     {
       "table_id": "bang_01",
       "table_number": "1",
-      "title": "Bảng 1 - Thời hạn sử dụng theo thiết kế của công trình",
+      "title": "Bảng 1 - Thời hạn sử dụng theo thiết kế của công trình (Bản gốc DOCX)",
       "archetype": "FLAT_MATRIX",
       "csv_file": "tables/csv/bang_01.csv",
       "json_file": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_1_thoi_han_su_dung_thiet_ke",
+      "table_number": "1",
+      "title": "Bảng 1 - Thời hạn sử dụng theo thiết kế của công trình",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_1_thoi_han_su_dung_thiet_ke.csv",
+      "json_file": "tables/json/bang_1_thoi_han_su_dung_thiet_ke.json"
+    },
+    {
+      "table_id": "bang_a1_cap_hau_qua",
+      "table_number": "A.1",
+      "title": "Bảng A.1 - Cấp hậu quả của công trình xây dựng (C1, C2, C3)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_a1_cap_hau_qua.csv",
+      "json_file": "tables/json/bang_a1_cap_hau_qua.json"
     }
   ]
 }

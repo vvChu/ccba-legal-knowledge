@@ -1,0 +1,14 @@
+﻿Vật liệu,Bề mặt,Hình dạng,Kích thước nhỏ nhất cho phép — Đường kính mm,Kích thước nhỏ nhất cho phép — Tiết diện $mm^{2}$,Kích thước nhỏ nhất cho phép — Chiều dày mm,Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị riêngm,Kích thước nhỏ nhất cho phép — Chiều dày lớp phủ/lớp bọc — Giá trị trung bìnhm
+Thép,"Không gỉ $^{(a,b)}$ hoặc mạ kẽm nhúng nóng <sup>(a)</sup>",Dẹt <sup>(c)</sup>,,90,3,63,70
+Thép,"Không gỉ $^{(a,b)}$ hoặc mạ kẽm nhúng nóng <sup>(a)</sup>",Thép góc,,90,3,63,70
+Thép,"Không gỉ $^{(a,b)}$ hoặc mạ kẽm nhúng nóng <sup>(a)</sup>",Thanh tròn chôn dưới đất,16,,,63,70
+Thép,"Không gỉ $^{(a,b)}$ hoặc mạ kẽm nhúng nóng <sup>(a)</sup>",Dây tròn đặt nổi <sup>(d)</sup>,10,,,,50 $^{(đ)}$
+Thép,"Không gỉ $^{(a,b)}$ hoặc mạ kẽm nhúng nóng <sup>(a)</sup>",Ống,25,,2,47,55
+Thép,Bọc đồng,Thanh tròn chôn dưới đất,15,,,2000,
+Thép,Có lớp phủ đồng bằng phương pháp mạ điện,Thanh tròn chôn dưới đất,14,,,90,100
+Đồng,Để trần <sup>(a)</sup>,Dẹt,,50,2,,
+Đồng,Để trần <sup>(a)</sup>,Dây tròn đặt nổi <sup>(d)</sup>,,25<sup>(e)</sup>,,,
+Đồng,Để trần <sup>(a)</sup>,Cáp,"1,8 <br>(từng dây bện)",25,,,
+Đồng,Để trần <sup>(a)</sup>,Ống,20,,2,,
+Đồng,Phủ thiếc,Cáp,"1,8 <br>(từng dây bện)",25,,1,5
+Đồng,Phủ kẽm,Dẹt <sup>(g)</sup>,,50,2,20,40

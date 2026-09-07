@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Khoảng cách đến lối thoát hiểm",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại gara ô-tô",
+    "Khoảng cách đến lối thoát hiểm gần nhất, khi bố trí chỗ lưu giữ xe (m) — Giữa các lối thoát hiểm",
+    "Khoảng cách đến lối thoát hiểm gần nhất, khi bố trí chỗ lưu giữ xe (m) — Tại phần cụt của gian phòng"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại gara ô-tô": "Ngầm",
+      "Khoảng cách đến lối thoát hiểm gần nhất, khi bố trí chỗ lưu giữ xe (m) — Giữa các lối thoát hiểm": "40",
+      "Khoảng cách đến lối thoát hiểm gần nhất, khi bố trí chỗ lưu giữ xe (m) — Tại phần cụt của gian phòng": "20"
+    },
+    {
+      "_row_id": 2,
+      "Loại gara ô-tô": "Trên mặt đất",
+      "Khoảng cách đến lối thoát hiểm gần nhất, khi bố trí chỗ lưu giữ xe (m) — Giữa các lối thoát hiểm": "60",
+      "Khoảng cách đến lối thoát hiểm gần nhất, khi bố trí chỗ lưu giữ xe (m) — Tại phần cụt của gian phòng": "25"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Chiều dài của đường thoát hiểm được đo từ trục của các đường đi bộ và đường xe chạy có kể đến sự phân bố xe."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "table_id": "bang_i_1",
+  "table_number": "I.1",
+  "table_title": "Bảng I.1 - Các quá điện áp tạm thời trong lưới hạ áp",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Sơ đồ nối đất",
+    "Các phương án nối đất",
+    "$U_{1}$",
+    "$U_{2}$",
+    "$U_{f}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Sơ đồ nối đất": "TT",
+      "Các phương án nối đất": "Nối $R_{E}$ và $R_{B}$",
+      "$U_{1}$": "$U_{0}$(a)",
+      "$U_{2}$": "$U_{0}$ + $I_{E}$.$R_{E}$",
+      "$U_{f}$": "0 (a)"
+    },
+    {
+      "_row_id": 2,
+      "Sơ đồ nối đất": "TT",
+      "Các phương án nối đất": "Tách biệt $R_{E}$ và $R_{B}$",
+      "$U_{1}$": "$U_{0}$ + $I_{E}$.$R_{E}$",
+      "$U_{2}$": "$U_{0}$(a)",
+      "$U_{f}$": "0 (a)"
+    },
+    {
+      "_row_id": 3,
+      "Sơ đồ nối đất": "TN-S",
+      "Các phương án nối đất": "Nối $R_{E}$ và $R_{B}$",
+      "$U_{1}$": "$U_{0}$(a)",
+      "$U_{2}$": "$U_{0}$(a)",
+      "$U_{f}$": "$I_{E}$.$R_{E}$"
+    },
+    {
+      "_row_id": 4,
+      "Sơ đồ nối đất": "TN-S",
+      "Các phương án nối đất": "Tách biệt $R_{E}$ và $R_{B}$",
+      "$U_{1}$": "$U_{0}$ + $I_{E}$.$R_{E}$",
+      "$U_{2}$": "$U_{0}$(a)",
+      "$U_{f}$": "0 (a)"
+    },
+    {
+      "_row_id": 5,
+      "Sơ đồ nối đất": "IT",
+      "Các phương án nối đất": "Nối $R_{E}$ và Z\nTách biệt $R_{E}$ và $R_{A}$",
+      "$U_{1}$": "$U_{0}$(a)",
+      "$U_{2}$": "$U_{0}$ + $I_{E}$.$R_{E}$",
+      "$U_{f}$": "0 (a)"
+    },
+    {
+      "_row_id": 6,
+      "Sơ đồ nối đất": "IT",
+      "Các phương án nối đất": "Nối $R_{E}$ và Z\nTách biệt $R_{E}$ và $R_{A}$",
+      "$U_{1}$": "$\\sqrt{3} U_{0}$(b)",
+      "$U_{2}$": "$\\sqrt{3} U_{0}$(b) + $I_{E}$.$R_{E}$(b)",
+      "$U_{f}$": "$I_{h}$.$R_{A}$(b)"
+    },
+    {
+      "_row_id": 7,
+      "Sơ đồ nối đất": "IT",
+      "Các phương án nối đất": "Nối $R_{E}$ và Z\nNối liên kết $R_{E}$ và $R_{A}$",
+      "$U_{1}$": "$U_{0}$(a)",
+      "$U_{2}$": "$U_{0}$(a)",
+      "$U_{f}$": "$I_{E}$.$R_{E}$"
+    },
+    {
+      "_row_id": 8,
+      "Sơ đồ nối đất": "IT",
+      "Các phương án nối đất": "Nối $R_{E}$ và Z\nNối liên kết $R_{E}$ và $R_{A}$",
+      "$U_{1}$": "$\\sqrt{3} U_{0}$(b)",
+      "$U_{2}$": "$\\sqrt{3} U_{0}$(b)",
+      "$U_{f}$": "$I_{E}$.$R_{E}$(b)"
+    },
+    {
+      "_row_id": 9,
+      "Sơ đồ nối đất": "IT",
+      "Các phương án nối đất": "Tách biệt $R_{E}$ và Z\nTách biệt $R_{E}$ và $R_{A}$",
+      "$U_{1}$": "$U_{0}$ + $I_{E}$.$R_{E}$",
+      "$U_{2}$": "$U_{0}$(a)",
+      "$U_{f}$": "0 (a)"
+    },
+    {
+      "_row_id": 10,
+      "Sơ đồ nối đất": "IT",
+      "Các phương án nối đất": "Tách biệt $R_{E}$ và Z\nTách biệt $R_{E}$ và $R_{A}$",
+      "$U_{1}$": "$\\sqrt{3} U_{0}$ + $I_{E}$.$R_{E}$(b)",
+      "$U_{2}$": "$\\sqrt{3} U_{0}$(b)",
+      "$U_{f}$": "$I_{d}$.$R_{A}$(b)"
+    }
+  ],
+  "footnotes": [
+    "(a) Không cần xem xét.",
+    "(b) Khi tồn tại sự cố chạm đất tại thiết bị điện."
+  ]
+}

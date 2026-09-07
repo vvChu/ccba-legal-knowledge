@@ -1,0 +1,31 @@
+id: QCVN-12-2014-BXD
+document_number: QCVN 12:2014/BXD
+title: "QCVN 12:2014/BXD — Quy chuẩn kỹ thuật quốc gia về Hệ thống điện của nhà ở và nhà công cộng"
+type: Quy chuẩn kỹ thuật quốc gia
+issued_by: Bộ Xây dựng
+issued_date: '2014-12-29'
+effective_date: '2015-07-01'
+status: active
+bundle_path: legal_docs/02_qcvn/qcvn_12_2014_bxd/
+source_url: https://thuvienphapluat.vn/TCVN/Dien-dien-tu/QCVN-12-2014-BXD-He-thong-dien-nha-o-nha-cong-cong-912596.aspx
+sha256: c9ae8c471633f1c7592274c159918c00bf98811b25e0a517033288b3a35fad68
+pdf_path: legal_docs/02_qcvn/qcvn_12_2014_bxd/sources/qcvn_12_2014_bxd.pdf
+pdf_sha256: 2e5901ad41314759851c6e6e910cd5e151cb5193e0b4556311a4afccb076363e
+cong_bao_number: 20/2014/TT-BXD
+pdf_status: verified
+source_file: legal_docs/02_qcvn/qcvn_12_2014_bxd/sources/qcvn_12_2014_bxd.docx
+source_file_size_kb: 1165.2
+source_assets:
+  docx:
+    sha256: c9ae8c471633f1c7592274c159918c00bf98811b25e0a517033288b3a35fad68
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_12_2014_bxd/qcvn_12_2014_bxd.docx
+    status: synced
+  pdf:
+    sha256: 2e5901ad41314759851c6e6e910cd5e151cb5193e0b4556311a4afccb076363e
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_12_2014_bxd/qcvn_12_2014_bxd.pdf
+    status: verified
+relations: {}
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-06T13:33:58.487679+00:00'

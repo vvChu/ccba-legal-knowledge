@@ -1,0 +1,118 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: QCVN 12 2014 BXD
+total_figures: 14
+figures:
+- figure_id: FIG_H_1
+  slug: h_1
+  tag: H.1
+  title: Xác định giới hạn thể tích trong tầm với
+  annex: A
+  anchor: hinh-h_1
+  image_relpath: figures/images/hinh_h_1.png
+  has_image: true
+- figure_id: FIG_D_1
+  slug: d_1
+  tag: D.1
+  title: Sơ đồ bố trí đèn, bề mặt làm việc và mắt người làm việc
+  annex: D
+  anchor: hinh-d_1
+  image_relpath: figures/images/hinh_d_1.png
+  has_image: true
+- figure_id: FIG_DD_1
+  slug: dd_1
+  tag: Đ.1
+  title: Sơ đồ IT
+  annex: Đ
+  anchor: hinh-dd_1
+  image_relpath: figures/images/hinh_dd_1.png
+  has_image: true
+- figure_id: FIG_DD_2
+  slug: dd_2
+  tag: Đ.2
+  title: Sơ đồ TT
+  annex: Đ
+  anchor: hinh-dd_2
+  image_relpath: figures/images/hinh_dd_2.png
+  has_image: true
+- figure_id: FIG_DD_3
+  slug: dd_3
+  tag: Đ.3
+  title: Sơ đồ TN-S
+  annex: Đ
+  anchor: hinh-dd_3
+  image_relpath: figures/images/hinh_dd_3.png
+  has_image: true
+- figure_id: FIG_E_1
+  slug: e_1
+  tag: E.1
+  title: Hệ thống nối đất và dây dẫn bảo vệ
+  annex: E
+  anchor: hinh-e_1
+  image_relpath: figures/images/hinh_e_1.png
+  has_image: true
+- figure_id: FIG_I_1
+  slug: i_1
+  tag: I.1
+  title: Phân tích điện áp sự cố
+  annex: I
+  anchor: hinh-i_1
+  image_relpath: figures/images/hinh_i_1.png
+  has_image: true
+- figure_id: FIG_K_1
+  slug: k_1
+  tag: K.1
+  title: Điện áp sự cố cho phép Uf do ngắn mạch trong hệ thống điện cao áp
+  annex: K
+  anchor: hinh-k_1
+  image_relpath: figures/images/hinh_k_1.png
+  has_image: true
+- figure_id: FIG_N_1
+  slug: n_1
+  tag: N.1
+  title: Kích thước các vùng trong khu vực có bồn tắm hoặc vòi hoa sen có chậu hứng
+  annex: N
+  anchor: hinh-n_1
+  image_relpath: figures/images/hinh_n_1.png
+  has_image: true
+- figure_id: FIG_N_2
+  slug: n_2
+  tag: N.2
+  title: Kích thước của vùng 0 và vùng 1 trong khu vực có vòi tắm hoa sen không có
+    chậu hứng
+  annex: N
+  anchor: hinh-n_2
+  image_relpath: figures/images/hinh_n_2.png
+  has_image: true
+- figure_id: FIG_N_3
+  slug: n_3
+  tag: N.3
+  title: Kích thước các vùng của bể bơi chìm (hình chiếu đứng)
+  annex: N
+  anchor: hinh-n_3
+  image_relpath: figures/images/hinh_n_3.png
+  has_image: true
+- figure_id: FIG_N_4
+  slug: n_4
+  tag: N.4
+  title: Kích thước các vùng của bể bơi nổi (hình chiếu đứng)
+  annex: N
+  anchor: hinh-n_4
+  image_relpath: figures/images/hinh_n_4.png
+  has_image: true
+- figure_id: FIG_N_5
+  slug: n_5
+  tag: N.5
+  title: Kích thước các vùng của bể bơi (hình chiếu mặt bằng)
+  annex: N
+  anchor: hinh-n_5
+  image_relpath: figures/images/hinh_n_5.png
+  has_image: true
+- figure_id: FIG_N_6
+  slug: n_6
+  tag: N.6
+  title: Kích thước các vùng của khu vực lân cận phần tử gia nhiệt sinh hơi
+  annex: N
+  anchor: hinh-n_6
+  image_relpath: figures/images/hinh_n_6.png
+  has_image: true

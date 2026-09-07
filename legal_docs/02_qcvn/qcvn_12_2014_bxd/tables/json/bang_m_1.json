@@ -1,0 +1,150 @@
+{
+  "table_id": "bang_m_1",
+  "table_number": "M.1",
+  "table_title": "Bảng M.1 - Vật liệu, cấu hình và tiết diện nhỏ nhất cho phép của dây thu sét, dây dẫn xuống đất của LPS",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Vật liệu",
+    "Cấu hình",
+    "Tiết diện nhỏ nhất cho phép$mm^{2}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Vật liệu": "Đồng, đồng mạ Thiếc",
+      "Cấu hình": "Băng",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 2,
+      "Vật liệu": "Đồng, đồng mạ Thiếc",
+      "Cấu hình": "Tròn đặc (a)",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 3,
+      "Vật liệu": "Đồng, đồng mạ Thiếc",
+      "Cấu hình": "Băng bện (a)",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 4,
+      "Vật liệu": "Đồng, đồng mạ Thiếc",
+      "Cấu hình": "Tròn đặc (b)",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "176"
+    },
+    {
+      "_row_id": 5,
+      "Vật liệu": "Nhôm",
+      "Cấu hình": "Băng",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "70"
+    },
+    {
+      "_row_id": 6,
+      "Vật liệu": "Nhôm",
+      "Cấu hình": "Tròn đặc",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 7,
+      "Vật liệu": "Nhôm",
+      "Cấu hình": "Băng bện",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 8,
+      "Vật liệu": "Hợp kim nhôm",
+      "Cấu hình": "Băng",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 9,
+      "Vật liệu": "Hợp kim nhôm",
+      "Cấu hình": "Tròn đặc",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 10,
+      "Vật liệu": "Hợp kim nhôm",
+      "Cấu hình": "Băng bện",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 11,
+      "Vật liệu": "Hợp kim nhôm",
+      "Cấu hình": "Tròn đặc (b)",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "176"
+    },
+    {
+      "_row_id": 12,
+      "Vật liệu": "Hợp kim nhôm bọc đồng",
+      "Cấu hình": "Tròn đặc",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 13,
+      "Vật liệu": "Thép nhúng nóng",
+      "Cấu hình": "Băng",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 14,
+      "Vật liệu": "Thép nhúng nóng",
+      "Cấu hình": "Tròn đặc",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 15,
+      "Vật liệu": "Thép nhúng nóng",
+      "Cấu hình": "Băng bện",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 16,
+      "Vật liệu": "Thép nhúng nóng",
+      "Cấu hình": "Tròn đặc (b)",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "176"
+    },
+    {
+      "_row_id": 17,
+      "Vật liệu": "Thép bọc đồng",
+      "Cấu hình": "Tròn đặc",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 18,
+      "Vật liệu": "Thép bọc đồng",
+      "Cấu hình": "Băng",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 19,
+      "Vật liệu": "Thép không rỉ",
+      "Cấu hình": "Băng (c)",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 20,
+      "Vật liệu": "Thép không rỉ",
+      "Cấu hình": "Tròn đặc (c)",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "50"
+    },
+    {
+      "_row_id": 21,
+      "Vật liệu": "Thép không rỉ",
+      "Cấu hình": "Băng bện",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "70"
+    },
+    {
+      "_row_id": 22,
+      "Vật liệu": "Thép không rỉ",
+      "Cấu hình": "Tròn đặc (b)",
+      "Tiết diện nhỏ nhất cho phép$mm^{2}$": "176"
+    }
+  ],
+  "footnotes": [
+    "(a) 50 mm² (đường kính 8 mm) có thể giảm xuống 25 mm² đối với các ứng dụng trong đó độ bền cơ không phải là yêu cầu quan trọng. Cần phải xem xét trường hợp này để giảm khoảng cách giữa các kẹp định vị.",
+    "(b) Dùng cho kim thu sét và điện cực đất. Đối với kim thu sét trong trường hợp ứng suất cơ học như tải trọng do gió không quan trọng, đường kính 9,5 mm, chiều dài kim 1 m có thể được sử dụng.",
+    "(c) Nếu các yêu cầu về nhiệt và cơ là quan trọng thì phải tăng các trị số này lên thành 75 mm²."
+  ]
+}

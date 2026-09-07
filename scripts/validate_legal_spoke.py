@@ -920,7 +920,7 @@ class LegalSpokeValidator:
                         registered_slugs = set()
                         for fig in fig_list:
                             tag = str(fig.get("tag") or fig.get("id") or "").replace("hinh_", "")
-                            raw_slug = str(fig.get("slug") or fig.get("id") or tag).lower().replace(".", "_").replace("-", "_")
+                            raw_slug = str(fig.get("slug") or fig.get("id") or tag).lower().replace(".", "_").replace("-", "_").replace("đ", "dd")
                             slug = raw_slug[5:] if raw_slug.startswith("hinh_") else raw_slug
                             registered_slugs.add(slug)
 

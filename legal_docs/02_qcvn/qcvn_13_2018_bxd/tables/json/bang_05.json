@@ -1,0 +1,80 @@
+{
+  "table_id": "bang_05",
+  "table_number": "5",
+  "table_title": "Bảng 5 - Diện tích khoang cháy và số tầng lớn nhất cho phép của gara ô-tô dạng kín trên mặt đất chứa xe con",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Bậc chịu lửa của nhà (công trình)",
+    "Cấp nguy hiểm cháy kết cấu của nhà (công trình)",
+    "Số tầng tối đa cho phép",
+    "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà một tầng",
+    "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà nhiều tầng"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Bậc chịu lửa của nhà (công trình)": "I, II",
+      "Cấp nguy hiểm cháy kết cấu của nhà (công trình)": "S0",
+      "Số tầng tối đa cho phép": "9",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà một tầng": "10.400",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà nhiều tầng": "5.200"
+    },
+    {
+      "_row_id": 2,
+      "Bậc chịu lửa của nhà (công trình)": "",
+      "Cấp nguy hiểm cháy kết cấu của nhà (công trình)": "S1",
+      "Số tầng tối đa cho phép": "2",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà một tầng": "5.200",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà nhiều tầng": "2.000"
+    },
+    {
+      "_row_id": 3,
+      "Bậc chịu lửa của nhà (công trình)": "III",
+      "Cấp nguy hiểm cháy kết cấu của nhà (công trình)": "S0",
+      "Số tầng tối đa cho phép": "5",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà một tầng": "7.800",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà nhiều tầng": "3.600"
+    },
+    {
+      "_row_id": 4,
+      "Bậc chịu lửa của nhà (công trình)": "",
+      "Cấp nguy hiểm cháy kết cấu của nhà (công trình)": "S1",
+      "Số tầng tối đa cho phép": "2",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà một tầng": "3.600",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà nhiều tầng": "1.200"
+    },
+    {
+      "_row_id": 5,
+      "Bậc chịu lửa của nhà (công trình)": "IV",
+      "Cấp nguy hiểm cháy kết cấu của nhà (công trình)": "S0",
+      "Số tầng tối đa cho phép": "1",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà một tầng": "5.200",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà nhiều tầng": "-"
+    },
+    {
+      "_row_id": 6,
+      "Bậc chịu lửa của nhà (công trình)": "",
+      "Cấp nguy hiểm cháy kết cấu của nhà (công trình)": "S1",
+      "Số tầng tối đa cho phép": "1",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà một tầng": "3.600",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà nhiều tầng": "-"
+    },
+    {
+      "_row_id": 7,
+      "Bậc chịu lửa của nhà (công trình)": "",
+      "Cấp nguy hiểm cháy kết cấu của nhà (công trình)": "S2",
+      "Số tầng tối đa cho phép": "1",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà một tầng": "1.200",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà nhiều tầng": "-"
+    },
+    {
+      "_row_id": 8,
+      "Bậc chịu lửa của nhà (công trình)": "V",
+      "Cấp nguy hiểm cháy kết cấu của nhà (công trình)": "Không qui định",
+      "Số tầng tối đa cho phép": "1",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà một tầng": "1.200",
+      "Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy, $m^{2}$ — Nhà nhiều tầng": "-"
+    }
+  ],
+  "footnotes": []
+}

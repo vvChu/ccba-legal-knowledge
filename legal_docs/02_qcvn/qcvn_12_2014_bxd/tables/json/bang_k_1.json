@@ -1,0 +1,21 @@
+{
+  "table_id": "bang_k_1",
+  "table_number": "K.1",
+  "table_title": "Bảng K.1 - Điện áp chịu đựng tần số công nghiệp cho phép",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Thời gian của sự cố chạm đất mạng cao áp s",
+    "Điện áp chịu đựng cho phép trên thiết bị của hệ thống điện nhà V"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Thời gian của sự cố chạm đất mạng cao áp s": "> 5 s\n≤ 5 s",
+      "Điện áp chịu đựng cho phép trên thiết bị của hệ thống điện nhà V": "$U_{0}$ + 250 V\n$U_{0}$ + 1200 V"
+    }
+  ],
+  "footnotes": [
+    "$U_{0}$ - Điện áp danh định pha-pha với lưới điện không có dây trung tính.",
+    "Dòng thứ nhất của Bảng liên quan đến hệ thống có thời gian cắt dài, ví dụ hệ thống cao áp trung tính cách đất hoặc nối đất qua cuộn kháng (cuộn dập hồ quang); Dòng thứ hai của Bảng liên quan đến hệ thống có thời gian cắt ngắn, ví dụ hệ thống cao áp nối đất trực tiếp hoặc qua tổng trở nhỏ; Cả hai dòng đều liên quan đến tiêu chuẩn thiết kế cách điện của thiết bị hạ áp khi có quá áp tạm thời."
+  ]
+}

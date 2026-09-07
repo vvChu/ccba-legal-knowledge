@@ -1,0 +1,60 @@
+{
+  "table_id": "bang_h_1",
+  "table_number": "H.1",
+  "table_title": "Bảng H.1 - Các giá trị của hệ số k đối với dây dẫn",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Đặc tính/Điều kiện — Tiết diện dây$mm^{2}$",
+    "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo — ≤ 300",
+    "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo — >300",
+    "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo 90 °C — ≤ 300",
+    "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo 90 °C — >300",
+    "Loại cách điện của dây dẫn — EPR XLPENhựa nhiệt cứng",
+    "Loại cách điện của dây dẫn — Cao su 60 °C Nhựa nhiệt cứng"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đặc tính/Điều kiện — Tiết diện dây$mm^{2}$": "Nhiệt độ ban đầu\n$^{o}$C",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo — ≤ 300": "70",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo — >300": "70",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo 90 °C — ≤ 300": "90",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo 90 °C — >300": "90",
+      "Loại cách điện của dây dẫn — EPR XLPENhựa nhiệt cứng": "90",
+      "Loại cách điện của dây dẫn — Cao su 60 °C Nhựa nhiệt cứng": "60"
+    },
+    {
+      "_row_id": 2,
+      "Đặc tính/Điều kiện — Tiết diện dây$mm^{2}$": "Nhiệt độ cuối cùng\n$^{o}$C",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo — ≤ 300": "160",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo — >300": "140",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo 90 °C — ≤ 300": "160",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo 90 °C — >300": "140",
+      "Loại cách điện của dây dẫn — EPR XLPENhựa nhiệt cứng": "250",
+      "Loại cách điện của dây dẫn — Cao su 60 °C Nhựa nhiệt cứng": "200"
+    },
+    {
+      "_row_id": 3,
+      "Đặc tính/Điều kiện — Tiết diện dây$mm^{2}$": "1. Dây đồng",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo — ≤ 300": "115",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo — >300": "103",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo 90 °C — ≤ 300": "100",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo 90 °C — >300": "86",
+      "Loại cách điện của dây dẫn — EPR XLPENhựa nhiệt cứng": "143",
+      "Loại cách điện của dây dẫn — Cao su 60 °C Nhựa nhiệt cứng": "141"
+    },
+    {
+      "_row_id": 4,
+      "Đặc tính/Điều kiện — Tiết diện dây$mm^{2}$": "2. Mối hàn thiếc trên dây dẫn bằng đồng",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo — ≤ 300": "115",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo — >300": "-",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo 90 °C — ≤ 300": "-",
+      "Loại cách điện của dây dẫn — PVCNhựa nhiệt dẻo 90 °C — >300": "-",
+      "Loại cách điện của dây dẫn — EPR XLPENhựa nhiệt cứng": "-",
+      "Loại cách điện của dây dẫn — Cao su 60 °C Nhựa nhiệt cứng": "-"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:**\n\n&nbsp;&nbsp;\\- Các giá trị của hệ số k nêu trên không áp dụng cho: &nbsp;&nbsp;\\- các dây dẫn nhỏ (đặc biệt là dây có tiết diện nhỏ hơn 10 $mm^{2}$);\n\n&nbsp;&nbsp;\\- các mối hàn loại khác trong dây dẫn;\n\n&nbsp;&nbsp;\\- các dây dẫn trần."
+  }
+}

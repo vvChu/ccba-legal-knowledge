@@ -1,0 +1,79 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 9,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Quy định đối với khoảng cách phòng cháy chữa cháy đối với khu đất lưu giữ ô-tô vận chuyển nhiên liệu và chất bôi trơn",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_01.csv",
+      "json_file": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_02",
+      "table_number": "2",
+      "title": "Bảng 2 - Quy định về bố trí khoang đệm ngăn cháy trong gara ô-tô dạng kín",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_02.csv",
+      "json_file": "tables/json/bang_02.json"
+    },
+    {
+      "table_id": "bang_03",
+      "table_number": "3",
+      "title": "Bảng 3 - Khoảng cách đến lối thoát hiểm",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_03.csv",
+      "json_file": "tables/json/bang_03.json"
+    },
+    {
+      "table_id": "bang_04",
+      "table_number": "4",
+      "title": "Bảng 4 - Diện tích khoang cháy và số tầng lớn nhất cho phép của gara ô-tô ngầm chứa xe con",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_04.csv",
+      "json_file": "tables/json/bang_04.json"
+    },
+    {
+      "table_id": "bang_05",
+      "table_number": "5",
+      "title": "Bảng 5 - Diện tích khoang cháy và số tầng lớn nhất cho phép của gara ô-tô dạng kín trên mặt đất chứa xe con",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_05.csv",
+      "json_file": "tables/json/bang_05.json"
+    },
+    {
+      "table_id": "bang_06",
+      "table_number": "6",
+      "title": "Bảng 6 - Diện tích cho phép lớn nhất của một tầng trong phạm vi một khoang cháy",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_06.csv",
+      "json_file": "tables/json/bang_06.json"
+    },
+    {
+      "table_id": "bang_07",
+      "table_number": "7",
+      "title": "Bảng 7 - Lưu lượng nước cho chữa cháy ngoài nhà đối với gara ô-tô trên mặt đất dạng kín hoặc hở",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_07.csv",
+      "json_file": "tables/json/bang_07.json"
+    },
+    {
+      "table_id": "bang_08",
+      "table_number": "8",
+      "title": "Bảng 8 - Loại và các đặc trưng của hệ thống báo cháy",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_08.csv",
+      "json_file": "tables/json/bang_08.json"
+    },
+    {
+      "table_id": "bang_a_1",
+      "table_number": "A.1",
+      "title": "Bảng A.1 - Quy định về khoảng cách đến các lối xe ra vào của gara ô-tô ngầm",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_a_1.csv",
+      "json_file": "tables/json/bang_a_1.json"
+    }
+  ]
+}
