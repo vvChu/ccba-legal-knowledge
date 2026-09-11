@@ -222,7 +222,7 @@ async def execute_sync(
         return 0
 
     try:
-        from ccba_notebooklm._client import get_client
+        from ccba_notebooklm import get_client
 
         client = get_client()
     except ImportError:
