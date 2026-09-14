@@ -1,0 +1,59 @@
+{
+  "table_id": "bang_29",
+  "table_number": "29",
+  "table_title": "Bảng 29 - Chiều dài quy ước của thanh xiên $L_{dc}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Kết cấu nút giao các thanh xiên của hệ thanh bụng",
+    "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu kéo",
+    "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — không chịu lực",
+    "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu nén"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Kết cấu nút giao các thanh xiên của hệ thanh bụng": "1. Cả hai thanh liên tục",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu kéo": "$L_{d}$",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — không chịu lực": "1,3 $L_{d}$",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu nén": "0,8 $L_{d1}$"
+    },
+    {
+      "_row_id": 2,
+      "Kết cấu nút giao các thanh xiên của hệ thanh bụng": "2. Thanh giao với thanh đang xét - gián đoạn và được phủ bản mã; thanh đang xét liên tục:",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu kéo": "",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — không chịu lực": "",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu nén": ""
+    },
+    {
+      "_row_id": 3,
+      "Kết cấu nút giao các thanh xiên của hệ thanh bụng": "a) Trong kết cấu theo Hình 17a",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu kéo": "1,3$L_{d}$",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — không chịu lực": "1,6$L_{d}$",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu nén": "$L_{d1}$"
+    },
+    {
+      "_row_id": 4,
+      "Kết cấu nút giao các thanh xiên của hệ thanh bụng": "b) Trong kết cấu theo Hình 17e",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu kéo": "(1,75 - 0,15n)$L_{d}$",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — không chịu lực": "(1,9 - 0,1n)$L_{d}$",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu nén": "$L_{d1}$"
+    },
+    {
+      "_row_id": 5,
+      "Kết cấu nút giao các thanh xiên của hệ thanh bụng": "3. Nút giao các thanh xiên được liên kết chặn chuyển vị ngoài mặt phẳng chứa các thanh xiên đó (bằng vách cứng và tương tự)",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu kéo": "$L_{d}$",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — không chịu lực": "$L_{d}$",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu nén": "$L_{d}$"
+    },
+    {
+      "_row_id": 6,
+      "Kết cấu nút giao các thanh xiên của hệ thanh bụng": "**Các ký hiệu trong Bảng 29 (Hình 17):\nn = $I_{m,min}$ $L_{d}$, ($I_{d,min}$ $L_{m}$), trong đó $I_{m,min}$ và $I_{d,min}$ là các mô men quán tính nhỏ nhất của tiết diện thanh cánh và thanh xiên tương ứng.**",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu kéo": "",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — không chịu lực": "",
+      "Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu nén": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Khi n < 1 và n > 3 thì trong các công thức của bảng này lấy n = 1 và n = 3 tương ứng."
+  }
+}

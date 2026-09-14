@@ -1,0 +1,73 @@
+{
+  "table_id": "bang_50",
+  "table_number": "50",
+  "table_title": "Bảng 50 - Hệ số điều kiện làm việc $\\gamma_{c}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Các cấu kiện kết cấu",
+    "Giá trị $\\gamma_{c}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Các cấu kiện kết cấu": "1. Các thanh bụng ứng suất trước",
+      "Giá trị $\\gamma_{c}$": "0,90"
+    },
+    {
+      "_row_id": 2,
+      "Các cấu kiện kết cấu": "2. Mặt bích:",
+      "Giá trị $\\gamma_{c}$": ""
+    },
+    {
+      "_row_id": 3,
+      "Các cấu kiện kết cấu": "a) Dạng vành khuyên\nb) Các dạng còn lại",
+      "Giá trị $\\gamma_{c}$": "1,10\n0,90"
+    },
+    {
+      "_row_id": 4,
+      "Các cấu kiện kết cấu": "3. Cáp thép làm dây co của trụ hoặc các chi tiết của mảng rèm ăng ten với số lượng:",
+      "Giá trị $\\gamma_{c}$": ""
+    },
+    {
+      "_row_id": 5,
+      "Các cấu kiện kết cấu": "a) Từ 3 đến 5 dây co trong một lớp hoặc 3 đến 5 chi tiết của mảng rèm ăng ten\nb) Từ 6 đến 8 dây co trong một lớp\nc) Từ 9 dây co trở lên trong một lớp",
+      "Giá trị $\\gamma_{c}$": "0,80\n0,90\n0,95"
+    },
+    {
+      "_row_id": 6,
+      "Các cấu kiện kết cấu": "4. Ngàm đầu cáp bằng kẹp hoặc dập điểm trong ống lồng",
+      "Giá trị $\\gamma_{c}$": "0,75"
+    },
+    {
+      "_row_id": 7,
+      "Các cấu kiện kết cấu": "5. Bện cáp ở chổ nối hoặc sứ cách điện",
+      "Giá trị $\\gamma_{c}$": "0,55"
+    },
+    {
+      "_row_id": 8,
+      "Các cấu kiện kết cấu": "6. Các chi tiết kẹp dây co, mảng rèm ăng ten, dây dẫn, thanh chống xiên vào kết cấu đỡ và móng neo",
+      "Giá trị $\\gamma_{c}$": "0,90"
+    },
+    {
+      "_row_id": 9,
+      "Các cấu kiện kết cấu": "7. Các thanh neo không dùng liên kết ren khi làm việc chịu kéo uốn",
+      "Giá trị $\\gamma_{c}$": "0,65"
+    },
+    {
+      "_row_id": 10,
+      "Các cấu kiện kết cấu": "8. Các tai đỡ chịu kéo",
+      "Giá trị $\\gamma_{c}$": "0,65"
+    },
+    {
+      "_row_id": 11,
+      "Các cấu kiện kết cấu": "9. Các chi tiết kẹp và chi tiết của liên kết bó cáp thép:",
+      "Giá trị $\\gamma_{c}$": ""
+    },
+    {
+      "_row_id": 12,
+      "Các cấu kiện kết cấu": "a) Chi tiết cơ khí, trừ các trục khớp\nb) Trục khớp chịu ép mặt",
+      "Giá trị $\\gamma_{c}$": "0,80\n0,90"
+    }
+  ],
+  "footnotes": []
+}

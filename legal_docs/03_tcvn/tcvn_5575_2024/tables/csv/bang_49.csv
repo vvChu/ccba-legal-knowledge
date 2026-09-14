@@ -1,0 +1,9 @@
+﻿Kết cấu và phương lệch,Độ lệch tương đối của đỉnh cột (so với chiều cao),Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trong nhịp,Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trên công xôn,Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trong nhịp,Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trên công xôn,Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trên công xôn
+"1. Cột neo ở đầu và góc rẽ của tuyến dây có chiều cao đến 60 m, dọc dây dẫn",1/120,1/200,1/70,Không hạn chế,Không hạn chế,Không hạn chế
+"2.Cột neo của tuyến dây, có chiều cao đến 60 m, dọc dây dẫn",1/100,1/200,1/70,Không hạn chế,Không hạn chế,Không hạn chế
+"3. Cột trung gian của tuyến dây (trừ cột<br>vượt), dọc và ngang dây dẫn",Không hạn chế,1/150,1/50,Không hạn chế,Không hạn chế,Không hạn chế
+"4. Cột vượt của tuyến dây, có chiều cao trên 60 m, dọc dây dẫn",1/140,1/200,1/70,Không hạn chế,Không hạn chế,Không hạn chế
+"5. Cột đỡ thiết bị phân phối điện, dọc dây dẫn",1/100,1/200,1/70,1/200,1/200,1/70
+"6. Cột đỡ thiết bị phân phối điện, ngang dây dẫn",1/70,Không hạn chế,Không hạn chế,Không hạn chế,Không hạn chế,Không hạn chế
+7. Cột đỡ thiết bị,1/100,-,-,-,-,-
+8. Dầm đỡ thiết bị,-,1/300,1/250,-,-,-

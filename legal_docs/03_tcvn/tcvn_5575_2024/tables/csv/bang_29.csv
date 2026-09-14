@@ -1,0 +1,7 @@
+﻿Kết cấu nút giao các thanh xiên của hệ thanh bụng,Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu kéo,Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — không chịu lực,Giá trị $L_{dc}$ của thanh xiên khi thanh giao với thanh đang xét — chịu nén
+1. Cả hai thanh liên tục,$L_{d}$,"1,3 $L_{d}$","0,8 $L_{d1}$"
+2. Thanh giao với thanh đang xét - gián đoạn và được phủ bản mã; thanh đang xét liên tục:,,,
+a) Trong kết cấu theo Hình 17a,"1,3$L_{d}$","1,6$L_{d}$",$L_{d1}$
+b) Trong kết cấu theo Hình 17e,"(1,75 - 0,15n)$L_{d}$","(1,9 - 0,1n)$L_{d}$",$L_{d1}$
+3. Nút giao các thanh xiên được liên kết chặn chuyển vị ngoài mặt phẳng chứa các thanh xiên đó (bằng vách cứng và tương tự),$L_{d}$,$L_{d}$,$L_{d}$
+"**Các ký hiệu trong Bảng 29 (Hình 17):<br>n = $I_{m,min}$ $L_{d}$, ($I_{d,min}$ $L_{m}$), trong đó $I_{m,min}$ và $I_{d,min}$ là các mô men quán tính nhỏ nhất của tiết diện thanh cánh và thanh xiên tương ứng.**",,,

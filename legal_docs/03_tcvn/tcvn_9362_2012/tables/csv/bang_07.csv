@@ -1,0 +1,12 @@
+﻿Tên đất sét theo chỉ số sệt,Chỉ số sệt $I_{s}$
+Á-cát:,
+&nbsp;&nbsp;\- Cứng,$I_{s}$ <0
+&nbsp;&nbsp;\- Dẻo,0 ≤ $I_{s}$ ≤ 1
+&nbsp;&nbsp;\- Nhão,$I_{s}$ > 1
+Á-sét và sét:,
+&nbsp;&nbsp;\- Cứng,$I_{s}$ < 0
+&nbsp;&nbsp;\- Nửa cứng,"0 ≤ $I_{s}$ ≤ 0,25"
+&nbsp;&nbsp;\- Dẻo cứng,"0,25 ≤ $I_{s}$ ≤ 0,50"
+&nbsp;&nbsp;\- Dẻo mềm,"0,50 ≤ $I_{s}$ ≤ 0,75"
+&nbsp;&nbsp;\- Dẻo nhão,"0,75 ≤ $I_{s}$ ≤ 1"
+&nbsp;&nbsp;\- Nhão,$I_{s}$ > 1

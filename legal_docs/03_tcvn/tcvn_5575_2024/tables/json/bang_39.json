@@ -1,0 +1,34 @@
+{
+  "table_id": "bang_39",
+  "table_number": "39",
+  "table_title": "Bảng 39 - Độ thắt tương đối $\\psi_{zn}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Cấp chất lượng",
+    "Giá trị $\\psi_{zn}$, không nhỏ hơn — Giá trị trung bình của kết quả thử 3 mẫu thử",
+    "Giá trị $\\psi_{zn}$, không nhỏ hơn — Giá trị đơn lẻ"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp chất lượng": "Z15",
+      "Giá trị $\\psi_{zn}$, không nhỏ hơn — Giá trị trung bình của kết quả thử 3 mẫu thử": "15",
+      "Giá trị $\\psi_{zn}$, không nhỏ hơn — Giá trị đơn lẻ": "10"
+    },
+    {
+      "_row_id": 2,
+      "Cấp chất lượng": "Z25",
+      "Giá trị $\\psi_{zn}$, không nhỏ hơn — Giá trị trung bình của kết quả thử 3 mẫu thử": "25",
+      "Giá trị $\\psi_{zn}$, không nhỏ hơn — Giá trị đơn lẻ": "15"
+    },
+    {
+      "_row_id": 3,
+      "Cấp chất lượng": "Z35",
+      "Giá trị $\\psi_{zn}$, không nhỏ hơn — Giá trị trung bình của kết quả thử 3 mẫu thử": "35",
+      "Giá trị $\\psi_{zn}$, không nhỏ hơn — Giá trị đơn lẻ": "25"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Phương pháp thử xem TCVN 11372:2016 (ISO 7778:2014)."
+  }
+}

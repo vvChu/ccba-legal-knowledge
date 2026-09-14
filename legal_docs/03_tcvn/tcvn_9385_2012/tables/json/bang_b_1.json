@@ -1,0 +1,33 @@
+{
+  "table_id": "bang_b_1",
+  "table_number": "B.1",
+  "table_title": "Bảng B.1 - Quan hệ đường kính và trọng lượng của cọc nối đất",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Đường kính dmm",
+    "Trọng lượng mkg"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đường kính dmm": "13",
+      "Trọng lượng mkg": "1,4"
+    },
+    {
+      "_row_id": 2,
+      "Đường kính dmm": "16",
+      "Trọng lượng mkg": "2,3"
+    },
+    {
+      "_row_id": 3,
+      "Đường kính dmm": "19",
+      "Trọng lượng mkg": "3,2"
+    },
+    {
+      "_row_id": 4,
+      "Đường kính dmm": "25",
+      "Trọng lượng mkg": "5,4"
+    }
+  ],
+  "footnotes": []
+}

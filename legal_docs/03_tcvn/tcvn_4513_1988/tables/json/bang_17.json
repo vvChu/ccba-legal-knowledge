@@ -1,0 +1,24 @@
+{
+  "table_id": "bang_17",
+  "table_number": "17",
+  "table_title": "Bảng 17",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Hình dáng của két nước áp lực",
+    "Khoảng cách giữa thành két và tường — Phía không có phao",
+    "Khoảng cách giữa thành két và tường — Phía có phao nối",
+    "khoảng cách giữa các két nước áp lực",
+    "Khoảng cách từ đỉnh két đến sàn gác phía trên"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Hình dáng của két nước áp lực": "Hình tròn\nHình chữ nhật",
+      "Khoảng cách giữa thành két và tường — Phía không có phao": "0,3\n0,7",
+      "Khoảng cách giữa thành két và tường — Phía có phao nối": "0,8\n1,0",
+      "khoảng cách giữa các két nước áp lực": "0,7\n0,7",
+      "Khoảng cách từ đỉnh két đến sàn gác phía trên": "0,6\n0,6"
+    }
+  ],
+  "footnotes": []
+}

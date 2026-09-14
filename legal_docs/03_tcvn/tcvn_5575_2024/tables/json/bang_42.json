@@ -1,0 +1,128 @@
+{
+  "table_id": "bang_42",
+  "table_number": "42",
+  "table_title": "Bảng 42 - Các hệ số $\\beta_{f}$ và $\\beta_{s}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Phương pháp hàn, đường kính que (dây) hàn d, mm",
+    "Vị trí đường hàn 1)",
+    "Hệ số",
+    "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 3; ≤ 8",
+    "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 9; ≤ 12",
+    "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 14; ≤16",
+    "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — > 16"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Phương pháp hàn, đường kính que (dây) hàn d, mm": "1. Hàn tự động khi d= (3 ÷ 5)",
+      "Vị trí đường hàn 1)": "Góc bằng",
+      "Hệ số": "$\\beta_{f}$",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 3; ≤ 8": "1,1",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 9; ≤ 12": "1,1",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 14; ≤16": "1,1",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — > 16": "0,7"
+    },
+    {
+      "_row_id": 2,
+      "Phương pháp hàn, đường kính que (dây) hàn d, mm": "1. Hàn tự động khi d= (3 ÷ 5)",
+      "Vị trí đường hàn 1)": "Góc bằng",
+      "Hệ số": "$\\beta_{s}$",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 3; ≤ 8": "1,15",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 9; ≤ 12": "1,15",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 14; ≤16": "1,15",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — > 16": "1,0"
+    },
+    {
+      "_row_id": 3,
+      "Phương pháp hàn, đường kính que (dây) hàn d, mm": "1. Hàn tự động khi d= (3 ÷ 5)",
+      "Vị trí đường hàn 1)": "Bằng",
+      "Hệ số": "$\\beta_{f}$",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 3; ≤ 8": "1,1",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 9; ≤ 12": "0,9",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 14; ≤16": "0,9",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — > 16": "0,7"
+    },
+    {
+      "_row_id": 4,
+      "Phương pháp hàn, đường kính que (dây) hàn d, mm": "1. Hàn tự động khi d= (3 ÷ 5)",
+      "Vị trí đường hàn 1)": "Bằng",
+      "Hệ số": "$\\beta_{s}$",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 3; ≤ 8": "1,15",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 9; ≤ 12": "1,05",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 14; ≤16": "1,05",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — > 16": "1,0"
+    },
+    {
+      "_row_id": 5,
+      "Phương pháp hàn, đường kính que (dây) hàn d, mm": "2. Hàn tự động và hàn cơ giới khi d =(1,4 ÷ 2)",
+      "Vị trí đường hàn 1)": "Góc bằng",
+      "Hệ số": "$\\beta_{f}$",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 3; ≤ 8": "0,9",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 9; ≤ 12": "0,9",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 14; ≤16": "0,8",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — > 16": "0,7"
+    },
+    {
+      "_row_id": 6,
+      "Phương pháp hàn, đường kính que (dây) hàn d, mm": "2. Hàn tự động và hàn cơ giới khi d =(1,4 ÷ 2)",
+      "Vị trí đường hàn 1)": "Góc bằng",
+      "Hệ số": "$\\beta_{s}$",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 3; ≤ 8": "1,05",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 9; ≤ 12": "1,0",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 14; ≤16": "1,0",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — > 16": "1,0"
+    },
+    {
+      "_row_id": 7,
+      "Phương pháp hàn, đường kính que (dây) hàn d, mm": "2. Hàn tự động và hàn cơ giới khi d =(1,4 ÷ 2)",
+      "Vị trí đường hàn 1)": "Bằng, ngang, leo, (tụt)",
+      "Hệ số": "$\\beta_{f}$",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 3; ≤ 8": "0,9",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 9; ≤ 12": "0,8",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 14; ≤16": "0,8",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — > 16": "0,7"
+    },
+    {
+      "_row_id": 8,
+      "Phương pháp hàn, đường kính que (dây) hàn d, mm": "2. Hàn tự động và hàn cơ giới khi d =(1,4 ÷ 2)",
+      "Vị trí đường hàn 1)": "Bằng, ngang, leo, (tụt)",
+      "Hệ số": "$\\beta_{s}$",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 3; ≤ 8": "1,05",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 9; ≤ 12": "1,0",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 14; ≤16": "1,0",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — > 16": "1,0"
+    },
+    {
+      "_row_id": 9,
+      "Phương pháp hàn, đường kính que (dây) hàn d, mm": "3. Hàn tay và hàn cơ giới khi d < 1,4 hoặc dây hàn có lõi thuốc",
+      "Vị trí đường hàn 1)": "Góc bằng, ngang, leo (tụt), ngửa",
+      "Hệ số": "$\\beta_{f}$",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 3; ≤ 8": "0,7",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 9; ≤ 12": "0,7",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 14; ≤16": "0,7",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — > 16": "0,7"
+    },
+    {
+      "_row_id": 10,
+      "Phương pháp hàn, đường kính que (dây) hàn d, mm": "3. Hàn tay và hàn cơ giới khi d < 1,4 hoặc dây hàn có lõi thuốc",
+      "Vị trí đường hàn 1)": "Góc bằng, ngang, leo (tụt), ngửa",
+      "Hệ số": "$\\beta_{s}$",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 3; ≤ 8": "1,0",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 9; ≤ 12": "1,0",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 14; ≤16": "1,0",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — > 16": "1,0"
+    },
+    {
+      "_row_id": 11,
+      "Phương pháp hàn, đường kính que (dây) hàn d, mm": "**1) Tên gọi vị trí đường hàn lấy theo TCVN 6364:2010. Các tên gọi trước đây: trong máng - ứng với tên gọi góc bằng; nằm - bằng, ngang - ngang, đứng - leo (tụt), ngược - ngửa.**",
+      "Vị trí đường hàn 1)": "",
+      "Hệ số": "",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 3; ≤ 8": "",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 9; ≤ 12": "",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 14; ≤16": "",
+      "Giá trị các hệ số $\\beta_{f}$ và $\\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — > 16": ""
+    }
+  ],
+  "footnotes": []
+}

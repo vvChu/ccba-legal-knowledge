@@ -1,0 +1,143 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 17,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Cấp độ kín của đường ống gió",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_01.csv",
+      "json_file": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_a_1",
+      "table_number": "A.1",
+      "title": "Bảng A.1 - Các thông số hợp lý của không khí bên trong nhà trong phạm vi không gian hoạt động của nhà ở",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_a_1.csv",
+      "json_file": "tables/json/bang_a_1.json"
+    },
+    {
+      "table_id": "bang_a_2",
+      "table_number": "A.2",
+      "title": "Bảng A.2 - Các thông số hợp lý của không khí bên trong nhà trong phạm vi không gian hoạt động của nhà công cộng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_a_2.csv",
+      "json_file": "tables/json/bang_a_2.json"
+    },
+    {
+      "table_id": "bang_b_1",
+      "table_number": "B.1",
+      "title": "Bảng B.1 - Các thông số của không khí bên ngoài cho điều hoà không khí theo số giờ không bảo đảm m hoặc xác suất bảo đảm $P_{e}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_1.csv",
+      "json_file": "tables/json/bang_b_1.json"
+    },
+    {
+      "table_id": "bang_c_1",
+      "table_number": "C.1",
+      "title": "Bảng C.1 - Các thông số của không khí bên ngoài cho điều hoà không khí theo các tần suất tích lũy xuất hiện hàng năm $P_{c}$ khác nhau",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_c_1.csv",
+      "json_file": "tables/json/bang_c_1.json"
+    },
+    {
+      "table_id": "bang_d_1",
+      "table_number": "D.1",
+      "title": "Bảng D.1 - Giá trị giới hạn tiếp xúc tối đa cho phép các yếu tố hóa học tại nơi làm việc",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d_1.csv",
+      "json_file": "tables/json/bang_d_1.json"
+    },
+    {
+      "table_id": "bang_d_2",
+      "table_number": "D.2",
+      "title": "Bảng D.2 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi amiăng tại nơi làm việc theo [1]",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d_2.csv",
+      "json_file": "tables/json/bang_d_2.json"
+    },
+    {
+      "table_id": "bang_d_3",
+      "table_number": "D.3",
+      "title": "Bảng D.3 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi silic tại nơi làm việc theo [1]",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d_3.csv",
+      "json_file": "tables/json/bang_d_3.json"
+    },
+    {
+      "table_id": "bang_d_4",
+      "table_number": "D.4",
+      "title": "Bảng D.4 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi không chứa silic tại nơi làm việc theo [1]",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d_4.csv",
+      "json_file": "tables/json/bang_d_4.json"
+    },
+    {
+      "table_id": "bang_d_5",
+      "table_number": "D.5",
+      "title": "Bảng D.5 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi bông tại nơi làm việc theo [1]",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d_5.csv",
+      "json_file": "tables/json/bang_d_5.json"
+    },
+    {
+      "table_id": "bang_d_6",
+      "table_number": "D.6",
+      "title": "Bảng D.6 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi than tại nơi làm việc theo [1]",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d_6.csv",
+      "json_file": "tables/json/bang_d_6.json"
+    },
+    {
+      "table_id": "bang_e_1",
+      "table_number": "E.1",
+      "title": "Bảng E.1 - Tiêu chuẩn lưu lượng không khí ngoài cấp cho các phòng điều hòa không khí tiện nghi theo yêu cầu vệ sinh môi trường",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_e_1.csv",
+      "json_file": "tables/json/bang_e_1.json"
+    },
+    {
+      "table_id": "bang_f_1",
+      "table_number": "F.1",
+      "title": "Bảng F.1 - Số lần (bội số) trao đổi không khí",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_f_1.csv",
+      "json_file": "tables/json/bang_f_1.json"
+    },
+    {
+      "table_id": "bang_g_1",
+      "table_number": "G.1",
+      "title": "Bảng G.1 - Chênh lệch áp suất qua các bộ phận cản khói",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_g_1.csv",
+      "json_file": "tables/json/bang_g_1.json"
+    },
+    {
+      "table_id": "bang_h_1",
+      "table_number": "H.1",
+      "title": "Bảng H.1 - Hệ số phụ thuộc vào chiều rộng của cánh cửa đi",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_h_1.csv",
+      "json_file": "tables/json/bang_h_1.json"
+    },
+    {
+      "table_id": "bang_j_1",
+      "table_number": "J.1",
+      "title": "Bảng J.1 - Các loại nguy cơ độc cấp tính và giá trị ước tính độc tính cấp tính (ATE) khi xác định các loại tương ứng",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_j_1.csv",
+      "json_file": "tables/json/bang_j_1.json"
+    },
+    {
+      "table_id": "bang_j_2",
+      "table_number": "J.2",
+      "title": "Bảng J.2 - Các yếu tố ghi nhãn cho độc tính cấp tính",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_j_2.csv",
+      "json_file": "tables/json/bang_j_2.json"
+    }
+  ]
+}

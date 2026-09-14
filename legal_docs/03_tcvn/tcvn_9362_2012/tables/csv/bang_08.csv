@@ -1,0 +1,5 @@
+﻿Tên đất sét theo sức kháng xuyên đơn vị,Sức kháng xuyên $p_{x}$<br>MPa
+Rất bền,"$p_{x}$ ≥ 0,2"
+Bền,"0,2 > $p_{x}$ > 0,1"
+Bền vừa,"0,1 > $p_{x}$ ≥ 0,05"
+Yếu,"$p_{x}$ < 0,05"

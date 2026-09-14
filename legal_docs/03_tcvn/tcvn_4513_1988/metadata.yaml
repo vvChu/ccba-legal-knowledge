@@ -1,0 +1,30 @@
+id: tcvn_4513_1988
+document_number: TCVN 4513:1988
+title: 'TCVN 4513:1988 Cấp nước bên trong - Tiêu chuẩn thiết kế'
+type: Tiêu chuẩn quốc gia
+issued_by: Bộ Khoa học và Công nghệ
+signer: ''
+issued_date: '1988-12-28'
+effective_date: '1989-07-01'
+status: active
+pdf_path: legal_docs/03_tcvn/tcvn_4513_1988/sources/tcvn_4513_1988.pdf
+pdf_sha256: 3e14f31c27ca71cd5caa6326ec22b6f90f467c751ccc8a7108885db2811f7f4c
+pdf_status: verified
+cong_bao_number: TCVN
+legal_basis: []
+replaces:
+- TCXD 18-64
+bundle_path: legal_docs/03_tcvn/tcvn_4513_1988/
+source_assets:
+  pdf:
+    sha256: 3e14f31c27ca71cd5caa6326ec22b6f90f467c751ccc8a7108885db2811f7f4c
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_4513_1988/tcvn_4513_1988.pdf
+    status: verified
+  docx:
+    sha256: a63eaf24b0efc957d03faf532bdfa8ad18dd130f368b5aaf88394349a53c9ca5
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_4513_1988/tcvn_4513_1988.docx
+    status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-14T14:41:36.453846+00:00'

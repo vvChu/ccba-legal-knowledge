@@ -1,0 +1,42 @@
+{
+  "table_id": "bang_a_1",
+  "table_number": "A.1",
+  "table_title": "Bảng A.1 - Nhóm kết cấu thép theo công năng sử dụng, điều kiện làm việc và sự có mặt của liên kết hàn",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Nhóm kết cấu thép",
+    "Tên các kết cấu thép"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Nhóm kết cấu thép": "Nhóm 1",
+      "Tên các kết cấu thép": "1. Kết cấu hàn 1) hoặc các cấu kiện của nó, làm việc trong điều kiện đặc biệt nặng (A8 theo TCVN 8590-1:2010 (ISO 4301-1:1986)), kể cả điều kiện ngăn cản tối đa sự phát triển biến dạng dẻo, hoặc chịu tác dụng trực tiếp của tải trọng động 2), rung động hoặc di động:\n&nbsp;&nbsp;\\- Dầm đỡ cầu trục;\n&nbsp;&nbsp;\\- Dầm đỡ sàn công tác;\n&nbsp;&nbsp;\\- Dầm của đường vận chuyển treo;\n&nbsp;&nbsp;\\- Các cấu kiện kết cấu của cầu cạn đỡ bunke, cầu cạn bốc dỡ chịu trực tiếp tải trọng do toa xe;\n&nbsp;&nbsp;\\- Dầm chính và xà của khung chịu tải trọng động;\n&nbsp;&nbsp;\\- Kết cấu nhịp lớn của băng tải;\n&nbsp;&nbsp;\\- Bản mã giàn;\n&nbsp;&nbsp;\\- Thành, viền đáy, dầm vòng cứng, mái nổi (phao), mái bể chứa và tháp chứa khí;\n&nbsp;&nbsp;\\- Dầm bunke;\n&nbsp;&nbsp;\\- Vỏ bunke parabol;\n&nbsp;&nbsp;\\- Vỏ thép của ống khói đứng độc lập;\n&nbsp;&nbsp;\\- Cột hàn đặc biệt vượt nhịp lớn đỡ đường dây tải điện trên không cao hơn 60 m;\n&nbsp;&nbsp;\\- Các chi tiết của dây co của công trình trụ và các chi tiết của nút dây co."
+    },
+    {
+      "_row_id": 2,
+      "Nhóm kết cấu thép": "Nhóm 2",
+      "Tên các kết cấu thép": "1. Kết cấu hàn hoặc các cấu kiện của nó, chịu tải trọng tĩnh khi có ứng suất kéo:\n&nbsp;&nbsp;\\- Giàn;\n&nbsp;&nbsp;\\- Xà ngang của khung;\n&nbsp;&nbsp;\\- Dầm đỡ sàn tầng và đỡ sàn mái;\n&nbsp;&nbsp;\\- Cốn thang;\n&nbsp;&nbsp;\\- Vỏ si lô;\n&nbsp;&nbsp;\\- Cột đường dây tải điện trên không, trừ cột hàn vượt nhịp lớn;\n&nbsp;&nbsp;\\- Cột đường dây chính của trạm phân phối điện;\n&nbsp;&nbsp;\\- Trụ đỡ băng tải;\n&nbsp;&nbsp;\\- Cột đèn;\n&nbsp;&nbsp;\\- Các cấu kiện của hệ thống cột liên hợp của công trình ăng ten và các cấu kiện khác chịu kéo, chịu kéo uốn và chịu uốn.\n2. Kết cấu và các cấu kiện của nó thuộc nhóm 1 khi không có liên kết hàn lắp dựng."
+    },
+    {
+      "_row_id": 3,
+      "Nhóm kết cấu thép": "Nhóm 3",
+      "Tên các kết cấu thép": "1. Kết cấu hàn hoặc các cấu kiện của nó, chịu tải trọng tĩnh, chủ yếu là chịu nén:\n&nbsp;&nbsp;\\- Cột;\n&nbsp;&nbsp;\\- Bản đế;\n&nbsp;&nbsp;\\- Các bộ phận của tấm sàn tầng;\n&nbsp;&nbsp;\\- Kết cấu đỡ thiết bị công nghệ;\n&nbsp;&nbsp;\\- Hệ giằng đứng giữa các cột có ứng suất trong các tiết diện tính toán của các thanh giằng lớn hơn 0,4$f_{yd}$;\n&nbsp;&nbsp;\\- Cột đỡ thiết bị của trạm phân phối điện (trừ cột đỡ cầu dao điện);\n&nbsp;&nbsp;\\- Các cấu kiện của thân trụ và tháp ăng ten;\n&nbsp;&nbsp;\\- Trụ của cầu cạn vận chuyển bê tông;\n&nbsp;&nbsp;\\- Xà gồ mái và các cấu kiện khác chịu nén hoặc nén uốn.\n2. Kết cấu và các cấu kiện của nó thuộc nhóm 2 khi không có liên kết hàn."
+    },
+    {
+      "_row_id": 4,
+      "Nhóm kết cấu thép": "Nhóm 4",
+      "Tên các kết cấu thép": "1. Các kết cấu phụ của nhà và công trình:\n&nbsp;&nbsp;\\- Hệ giằng, trừ hệ giằng đã nêu trong nhóm 3;\n&nbsp;&nbsp;\\- Các cấu kiện của khung tường;\n&nbsp;&nbsp;\\- Cầu thang;\n&nbsp;&nbsp;\\- Đường dốc;\n&nbsp;&nbsp;\\- Sàn công tác;\n&nbsp;&nbsp;\\- Kết cấu bao che;\n&nbsp;&nbsp;\\- Kết cấu thép của kênh cáp;\n&nbsp;&nbsp;\\- Các cấu kiện phụ của công trình và tương tự.\n2. Công trình cấp C1 (theo [2]): nhà trồng rau thủy canh; nhà được dự tính không có người thường xuyên lui tới (nhà di động tháo lắp được và nhà công ten nơ, kho tạm và công trình tạm có thời hạn sử dụng hạn chế, tường cừ hố đào, trụ chống đỡ tạm và tương tự).\n3. Kết cấu và các cấu kiện của nó thuộc nhóm 3 khi không có liên kết hàn."
+    },
+    {
+      "_row_id": 5,
+      "Nhóm kết cấu thép": "**1) Kết cấu hoặc các cấu kiện nó được coi là có liên kết hàn, nếu chúng nằm tại các vị trí chịu tác dụng của ứng suất kéo tính toán đáng kể ( σ > 0, 3$f_{yd}$ ; σ > 0, 3$f_{wf}$ hoặc σ > 0,3$f_{ws}$ ) hoặc tại các vị trí mà ở đó có thể xảy ra phá hoại liên kết hàn, ví dụ do ứng suất dư đáng kể dẫn đến kết cấu tổng thể không đáp ứng yêu cầu sử dụng.\n2) Các kết cấu được xếp vào loại chịu tác dụng của tải trọng động, nếu tỉ số giữa giá trị tuyệt đối của ứng suất pháp gây ra tải trọng động và tổng ứng suất kéo do tất cả các tải trọng trong cùng một tiết diện α > 0, 2 (xem công thức (169)).**",
+      "Tên các kết cấu thép": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Khi chiều dày thép cán t > 40 mm, số thứ tự nhóm kết cấu được giảm xuống một đơn vị (đối với các nhóm từ 2 đến 4); khi chiều dày t ≤ 6 mm, tăng lên một đơn vị (đối với các nhóm từ 1 đến 3).",
+    "fn_2": "CHÚ THÍCH 2: Khi chiều dày thép cán t > 40 mm, số thứ tự nhóm kết cấu được giảm xuống một đơn vị (đối với các nhóm từ 2 đến 4); khi chiều dày t ≤ 6 mm, tăng lên một đơn vị (đối với các nhóm từ 1 đến 3).",
+    "[2]": "**CHÚ THÍCH:** Khi lựa chọn thép cho kết cấu nhà và công trình cấp C3 (theo [2]), số thứ tự nhóm kết cấu được giảm xuống một đơn vị (đối với các nhóm từ 2 đến 4)."
+  }
+}

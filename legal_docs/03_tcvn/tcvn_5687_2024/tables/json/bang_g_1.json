@@ -1,0 +1,46 @@
+{
+  "table_id": "bang_g_1",
+  "table_number": "G.1",
+  "table_title": "Bảng G.1 - Chênh lệch áp suất qua các bộ phận cản khói",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại công trình",
+    "Chiều cao trần, m",
+    "Chênh lệch áp suất 1), Pa"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại công trình": "1. Không trang bị sprinkler",
+      "Chiều cao trần, m": "Bất kỳ",
+      "Chênh lệch áp suất 1), Pa": "12,5"
+    },
+    {
+      "_row_id": 2,
+      "Loại công trình": "2. Có trang bị sprinkler",
+      "Chiều cao trần, m": "2,745",
+      "Chênh lệch áp suất 1), Pa": "25"
+    },
+    {
+      "_row_id": 3,
+      "Loại công trình": "2. Có trang bị sprinkler",
+      "Chiều cao trần, m": "4,575",
+      "Chênh lệch áp suất 1), Pa": "35"
+    },
+    {
+      "_row_id": 4,
+      "Loại công trình": "2. Có trang bị sprinkler",
+      "Chiều cao trần, m": "6,405",
+      "Chênh lệch áp suất 1), Pa": "45"
+    },
+    {
+      "_row_id": 5,
+      "Loại công trình": "**1) Đối với hệ thống kiểm soát khói theo vùng, chênh lệch áp suất được yêu cầu đo giữa vùng khói và không gian bên cạnh khi mà các khu vực bị ảnh hưởng ở trạng thái kiểm soát khói.**",
+      "Chiều cao trần, m": "",
+      "Chênh lệch áp suất 1), Pa": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:**\n\n&nbsp;&nbsp;\\- Số liệu trong bảng này là chênh lệch áp suất thiết kế tối thiểu trên cơ sở nhiệt độ khói là 927 °C sát với bộ phận cản khói.\n\n&nbsp;&nbsp;\\- Mục đích thiết kế là hệ thống kiểm soát khói phải duy trì chênh lệch áp suất tối thiểu theo điều kiện thiết kế cho hiệu ứng ống khói hoặc gió."
+  }
+}

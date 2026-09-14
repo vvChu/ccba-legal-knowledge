@@ -1,0 +1,7 @@
+﻿Tiết diện — $\text{工字钢截面形式}$,"Độ mảnh quy ước của cấu kiện, $\bar{\lambda}$ — ≤ 2,0 — > 2,0","Độ mảnh quy ước giới hạn của bản bụng, $\bar{\lambda}_{uw}$ — 1,30 + 0,15 $\bar{\lambda}^2$ — 1,20 + 0,35 $\bar{\lambda}$ ≤ 2,3","Độ mảnh quy ước giới hạn của bản bụng, $\bar{\lambda}_{uw}$ — (22) — (23)"
+$\text{Không có công thức toán học trong hình ảnh}$,"≤ 1,0","1,2",(24)
+$\text{Không có công thức toán học trong hình ảnh}$,"> 1,0","1,0 + 0,2 $\bar{\lambda}$ ≤ 1,6",(25)
+$\text{(Hình vẽ mặt cắt không chứa công thức toán học)}$,"≤ 0,8","1,0",(26)
+$\text{(Hình vẽ mặt cắt không chứa công thức toán học)}$,"> 0,8","0,85 + 0,19 $\bar{\lambda}$ ≤ 1,6",(27)
+"$Hình ảnh bạn cung cấp là hình vẽ kỹ thuật mô tả cấu tạo mối nối, không chứa công thức toán học. Do đó, không có nội dung để chuyển đổi sang mã LaTeX.$","≥ 0,8 và ≤ 4,0","$(0,40 + 0,07\bar{\lambda})\left(1 + 0,25\sqrt{2 - b_f/h_{ef}}\right$",(28)
+"**Các ký hiệu trong Bảng 9:<br>$\bar{\lambda}$ là độ mảnh quy ước của cấu kiện, dùng trong tính toán ổn định khi nén đúng tâm;<br>$b_{f}$ là chiều rộng cánh của tiết diện chữ T.**",,,

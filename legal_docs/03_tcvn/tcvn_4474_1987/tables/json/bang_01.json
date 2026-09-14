@@ -1,0 +1,22 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại dụng cụ vệ sinh",
+    "Lưu lượng nước thải (1/s)",
+    "Đường kính ống thoát nước (mm)",
+    "Độ dốc tối thiểu của đường ống"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại dụng cụ vệ sinh": "&nbsp;&nbsp;\\- Chậu trút nước thải\n&nbsp;&nbsp;\\- Chậu xí có bình xả (nối trực tiêp với ống đứng)\n&nbsp;&nbsp;\\- Chậu xí có bình xả (nối với đường ống ngang theo tầng có ống nhánh dài 1,5, trở lên)\n&nbsp;&nbsp;\\- Chậu xí có vòi xả (không có bình xả)\n&nbsp;&nbsp;\\- Chậu tiểu\n&nbsp;&nbsp;\\- Chậu tiểu xả nước tự động\n&nbsp;&nbsp;\\- Chậu rửa mặt (không nút)\n&nbsp;&nbsp;\\- Chậu rửa nhà bếp một ngăn\n&nbsp;&nbsp;\\- Chậu rửa nhà bếp hai ngăn\n&nbsp;&nbsp;\\- Bồn rửa\n&nbsp;&nbsp;\\- Bồn tắm\n&nbsp;&nbsp;\\- Vòi tắm hương sen\n&nbsp;&nbsp;\\- Chậu vệ sinh phụ nữ (biđê)\n&nbsp;&nbsp;\\- Vòi rửa",
+      "Lưu lượng nước thải (1/s)": "0,33\ntừ 1,5 đến 1,6\ntừ 0,8 đến 0,9\ntừ 1,2 đến 1,4\n0,05\n0,3\n0,07\n0,67\n1\n5\n1,1\n0,2\n0,15\n0,07",
+      "Đường kính ống thoát nước (mm)": "50\n100\n100\n100\n50\n50\ntừ 40 đến 50\n50\n50\n100\n50\n50\n50\n50",
+      "Độ dốc tối thiểu của đường ống": "0,025\n0,02\n0,02\n0,02\n0,02\n0,02\n0,025\n0,025\n0,02\n0,02\n0,025\n0,02\n0,02"
+    }
+  ],
+  "footnotes": []
+}

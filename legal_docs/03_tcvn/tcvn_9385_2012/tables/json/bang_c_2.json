@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_c_2",
+  "table_number": "C.2",
+  "table_title": "Bảng C.2 - Diện tích thu sét hữu dụng của các đường dữ liệu",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại đường dữ liệu",
+    "Diện tích thu sét hữu dụng ($m^{2}$)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đường dữ liệu": "Đường tín hiệu đi trên không",
+      "Diện tích thu sét hữu dụng ($m^{2}$)": "10 x D x L"
+    },
+    {
+      "_row_id": 2,
+      "Loại đường dữ liệu": "Đường tín hiệu đi ngầm",
+      "Diện tích thu sét hữu dụng ($m^{2}$)": "2 x D x L"
+    },
+    {
+      "_row_id": 3,
+      "Loại đường dữ liệu": "Đường cáp quang không có đường dẫn hoặc lõi kim loại",
+      "Diện tích thu sét hữu dụng ($m^{2}$)": "0"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: L là chiều dài của cáp động lực với độ dài tối đa 1 000 m. Nơi nào giá trị L không xác định thì có thể lấy giá trị 1 000 m để tính toán.",
+    "fn_2": "CHÚ THÍCH 2: L là chiều dài của cáp động lực với độ dài tối đa 1 000 m. Nơi nào giá trị L không xác định thì có thể lấy giá trị 1 000 m để tính toán.",
+    "(m)": "**CHÚ THÍCH:** D là khoảng cách lựa chọn (m) xem C.4.2.3. Việc sử dụng h thay cho D như giải thích ở C.4.2.3 không áp dụng."
+  }
+}

@@ -1,0 +1,8 @@
+﻿Dạng kết cấu công trình,Giá trị hệ số B
+Khung thép hoặc Bê tông cốt thép có mái kim loại,"0,1"
+Khung thép có mái không phải bằng kim loại (x),"0,2"
+Bê tông cốt thép có mái không phải bằng kim loại,"0,4"
+Thể xây có mái không phải bằng kim loại hoặc tranh tre nứa lá,"1,0"
+Khung gỗ có mái không phải bằng kim loại hoặc tranh tre nứa lá,"1,4"
+"Thể xây, khung gỗ có mái bằng kim loại","1,7"
+Các công trình có mái bằng tranh tre nứa lá,"2,0"

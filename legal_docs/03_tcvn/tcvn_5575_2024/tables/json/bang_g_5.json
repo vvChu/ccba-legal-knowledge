@@ -1,0 +1,43 @@
+{
+  "table_id": "bang_g_5",
+  "table_number": "G.5",
+  "table_title": "Bảng G.5 - Các hệ số $\\mu_{m1}$, $\\mu_{m2}$, $\\mu_{m3}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Liên kết đầu trên của cột",
+    "Giá trị các hệ số — $\\mu_{m1}$ — với sơ đồ tải trọng — theo Hình G.1b",
+    "Giá trị các hệ số — $\\mu_{m2}$ — với sơ đồ tải trọng — theo Hình G.1c",
+    "Giá trị các hệ số — $\\mu_{m3}$ — với sơ đồ tải trọng — theo Hình G.1d"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Liên kết đầu trên của cột": "1. Tự do",
+      "Giá trị các hệ số — $\\mu_{m1}$ — với sơ đồ tải trọng — theo Hình G.1b": "2,0",
+      "Giá trị các hệ số — $\\mu_{m2}$ — với sơ đồ tải trọng — theo Hình G.1c": "2,0",
+      "Giá trị các hệ số — $\\mu_{m3}$ — với sơ đồ tải trọng — theo Hình G.1d": "$\\mu_{1}$\n($\\mu_{1}$ theo bảng G.1 với $\\alpha_1 = \\frac{L_3}{L_1 + L_2} \\sqrt{\\frac{I_{\\text{m1}}}{I_3}}$)"
+    },
+    {
+      "_row_id": 2,
+      "Liên kết đầu trên của cột": "2. Ngàm trượt (chỉ chặn xoay, cho chuyển vị)",
+      "Giá trị các hệ số — $\\mu_{m1}$ — với sơ đồ tải trọng — theo Hình G.1b": "$\\mu_{1}$\n($\\mu_{1}$  theo Bảng G.2 với $\\alpha_{1}$ = 0 )",
+      "Giá trị các hệ số — $\\mu_{m2}$ — với sơ đồ tải trọng — theo Hình G.1c": "$\\mu_{1}$\n($\\mu_{1}$  theo Bảng G.2 với $\\alpha_{1}$ = 0 )",
+      "Giá trị các hệ số — $\\mu_{m3}$ — với sơ đồ tải trọng — theo Hình G.1d": "$\\mu_{1}$\n($\\mu_{1}$ theo bảng G.2 với $\\alpha_1 = \\frac{L_3}{L_1 + L_2} \\sqrt{\\frac{I_{\\text{m1}}}{I_3}}$)"
+    },
+    {
+      "_row_id": 3,
+      "Liên kết đầu trên của cột": "3. Khớp cố định (cho xoay, chặn chuyển vị)",
+      "Giá trị các hệ số — $\\mu_{m1}$ — với sơ đồ tải trọng — theo Hình G.1b": "$\\mu_{11}$\n($\\mu_{11}$ theo Bảng G.3)",
+      "Giá trị các hệ số — $\\mu_{m2}$ — với sơ đồ tải trọng — theo Hình G.1c": "$\\mu_{11}$\n($\\mu_{11}$ theo Bảng G.3)",
+      "Giá trị các hệ số — $\\mu_{m3}$ — với sơ đồ tải trọng — theo Hình G.1d": "$\\mu_{12}$\n($\\mu_{12}$ theo Bảng G.3)"
+    },
+    {
+      "_row_id": 4,
+      "Liên kết đầu trên của cột": "4. Ngàm (chặn xoay, chặn chuyển vị)",
+      "Giá trị các hệ số — $\\mu_{m1}$ — với sơ đồ tải trọng — theo Hình G.1b": "$\\mu_{11}$\n($\\mu_{11}$ theo Bảng G.4)",
+      "Giá trị các hệ số — $\\mu_{m2}$ — với sơ đồ tải trọng — theo Hình G.1c": "$\\mu_{11}$\n($\\mu_{11}$ theo Bảng G.4)",
+      "Giá trị các hệ số — $\\mu_{m3}$ — với sơ đồ tải trọng — theo Hình G.1d": "$\\mu_{12}$\n($\\mu_{12}$ theo Bảng G.4)"
+    }
+  ],
+  "footnotes": []
+}

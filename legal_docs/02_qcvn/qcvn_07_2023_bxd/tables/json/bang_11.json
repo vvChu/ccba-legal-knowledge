@@ -1,0 +1,29 @@
+{
+  "table_id": "bang_11",
+  "table_number": "11",
+  "table_title": "Bảng 11 - Yêu cầu chiếu sáng sân ga, bến cảng, bến xe, bãi đỗ xe ngoài trời",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Đối tượng chiếu sáng",
+    "Độ rọi mặt đường ($E_{n}$), lx — Trung bình",
+    "Độ rọi mặt đường ($E_{n}$), lx — Tối thiểu",
+    "Độ rọi bán trụ ($E_{bt}$), lx"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đối tượng chiếu sáng": "1. Trong đô thị",
+      "Độ rọi mặt đường ($E_{n}$), lx — Trung bình": "30",
+      "Độ rọi mặt đường ($E_{n}$), lx — Tối thiểu": "10",
+      "Độ rọi bán trụ ($E_{bt}$), lx": "10"
+    },
+    {
+      "_row_id": 2,
+      "Đối tượng chiếu sáng": "2. Ngoài đô thị",
+      "Độ rọi mặt đường ($E_{n}$), lx — Trung bình": "20",
+      "Độ rọi mặt đường ($E_{n}$), lx — Tối thiểu": "5",
+      "Độ rọi bán trụ ($E_{bt}$), lx": "5"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_c_8",
+  "table_number": "C.8",
+  "table_title": "Bảng C.8 - Loại vị trí (trục)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Mức độ thử",
+    "Điện áp (kV)",
+    "Dòng (A)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mức độ thử": "Thấp",
+      "Điện áp (kV)": "2",
+      "Dòng (A)": "166,7"
+    },
+    {
+      "_row_id": 2,
+      "Mức độ thử": "Trung bình",
+      "Điện áp (kV)": "4",
+      "Dòng (A)": "333,3"
+    },
+    {
+      "_row_id": 3,
+      "Mức độ thử": "Cao",
+      "Điện áp (kV)": "6",
+      "Dòng (A)": "500"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,62 @@
+{
+  "table_id": "bang_g_9",
+  "table_number": "G.9",
+  "table_title": "Bảng G.9 - Các hệ số chiều dài tính toán μ và $\\mu_{2}$ của các thanh giao nhau",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Kết cấu nút giao và chất tải các thanh",
+    "Sơ đồ tính toán của kết cấu nút giao",
+    "Các hệ số μ và $\\mu_{2}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Kết cấu nút giao và chất tải các thanh": "1. Cả hai thanh liên tục; thanh giao với thanh đang xét - chịu nén",
+      "Sơ đồ tính toán của kết cấu nút giao": "$Xin lỗi, hình ảnh bạn cung cấp là một sơ đồ kết cấu chịu lực (hình vẽ kỹ thuật) chứ không phải là một công thức toán học hay biểu thức LaTeX. Do đó, tôi không thể chuyển đổi nó thành mã LaTeX theo yêu cầu. \nNếu bạn có hình ảnh chứa công thức toán học, vui lòng cung cấp lại để tôi hỗ trợ chính xác cho bạn!$",
+      "Các hệ số μ và $\\mu_{2}$": "$\\mu = \\sqrt{\\frac{m + \\alpha_2}{m + n_2}} \\ge 0,5$"
+    },
+    {
+      "_row_id": 2,
+      "Kết cấu nút giao và chất tải các thanh": "1. Cả hai thanh liên tục; thanh giao với thanh đang xét - chịu nén",
+      "Sơ đồ tính toán của kết cấu nút giao": "$Xin lỗi, hình ảnh bạn cung cấp là một sơ đồ kết cấu chịu lực (hình vẽ kỹ thuật) chứ không phải là một công thức toán học hay biểu thức LaTeX. Do đó, tôi không thể chuyển đổi nó thành mã LaTeX theo yêu cầu. \nNếu bạn có hình ảnh chứa công thức toán học, vui lòng cung cấp lại để tôi hỗ trợ chính xác cho bạn!$",
+      "Các hệ số μ và $\\mu_{2}$": "$`. No equation number is visible in the image, so I will not add a tag.\n4.  **Final Construction:**$"
+    },
+    {
+      "_row_id": 3,
+      "Kết cấu nút giao và chất tải các thanh": "2. Cả hai thanh liên tục; thanh giao với thanh đang xét - chịu kéo",
+      "Sơ đồ tính toán của kết cấu nút giao": "",
+      "Các hệ số μ và $\\mu_{2}$": "$\\mu = \\sqrt{\\frac{m - 0,75\\alpha_2}{m + n_2}} \\ge 0,5 \\ ; \\ \\alpha_2 > 0$"
+    },
+    {
+      "_row_id": 4,
+      "Kết cấu nút giao và chất tải các thanh": "3. Thanh đang xét liên tục; thanh giao với thanh đang xét - chịu nén, gián đoạn và được phủ bằng bản mã",
+      "Sơ đồ tính toán của kết cấu nút giao": "",
+      "Các hệ số μ và $\\mu_{2}$": "$`.\n    *   Write `\\mu =`.\n    *   Write `\\sqrt{1 + 0,82 \\frac{\\alpha_2}{m}}`. Note: The comma in `0,82` and `0,5` suggests a European or specific regional notation, but standard LaTeX usually uses a dot. However, the prompt asks for \"exact 100%\" conversion. Looking closely at the image, it is clearly a comma `,`. I will use `0,82` and `0,5`. Wait, standard LaTeX math mode treats commas as punctuation. To be safe and strictly follow the visual, I will write `0,82` and `0,5`. Actually, in math mode, `0,82` renders as \"0, 82\" with a space. To make it look like a decimal comma, one might use `0{,}82` or just rely on the font. Let's look at the prompt requirements. It says \"Bảo tồn nguyên vẹn...\". The image shows a comma. I will use `0,82` and `0,5`.\n    *   Write `\\ge`.\n    *   Write `0,5`.\n    *   End with `$"
+    },
+    {
+      "_row_id": 5,
+      "Kết cấu nút giao và chất tải các thanh": "3. Thanh đang xét liên tục; thanh giao với thanh đang xét - chịu nén, gián đoạn và được phủ bằng bản mã",
+      "Sơ đồ tính toán của kết cấu nút giao": "",
+      "Các hệ số μ và $\\mu_{2}$": "$\\mu_2 = \\sqrt{\\frac{n_2}{\\alpha_2} \\left( 1 + 0.82 \\frac{\\alpha_2}{m} \\right)} > 0.5;$\n$`.\n    *   `\\mu_2 = 0,5 \\text{ khi } EI \\ge \\frac{N_2 L^3}{12 L_2} \\left( 1 + 1,21 \\frac{m}{\\alpha_2} \\right)`.\n    *   Wait, let's refine the fraction. The numerator is $N_2 L^3$. The denominator is $12 L_2$.\n    *   The term inside the parenthesis is $1 + 1,21 \\frac{m}{\\alpha_2}$.\n    *   Let's check the indices. $N_2$, $L_2$, $\\alpha_2$.\n    *   Let's check the Greek letters. $\\mu$ (mu), $\\alpha$ (alpha).\n    *   Let's check the text. \"khi\".\n3.  **Final Polish:**\n    *   The expression is: $\\mu_2 = 0,5 \\text{ khi } EI \\ge \\frac{N_2 L^3}{12 L_2} \\left( 1 + 1,21 \\frac{m}{\\alpha_2} \\right)$.\n    *   There are no equation numbers visible in the image (like (120)), so I won't add `\\tag{...}`.\n    *   The prompt asks for \"chính xác 100%\" (100% accurate).\n    *   The comma usage `0,5` and `1,21` is distinct. I will use commas.\n    Let's assemble the string:\n    `$"
+    },
+    {
+      "_row_id": 6,
+      "Kết cấu nút giao và chất tải các thanh": "4. Thanh đang xét liên tục; thanh giao với thanh đang xét - chịu kéo, gián đoạn và được phủ bằng bản mã",
+      "Sơ đồ tính toán của kết cấu nút giao": "",
+      "Các hệ số μ và $\\mu_{2}$": "$...$"
+    },
+    {
+      "_row_id": 7,
+      "Kết cấu nút giao và chất tải các thanh": "5. Thanh đang xét gián đoạn và được phủ bằng bản mã; thanh giao với thanh đang xét - chịu kéo và liên tục",
+      "Sơ đồ tính toán của kết cấu nút giao": "$`, I need to decide how to format a diagram. Usually, for diagrams, one might use `tikz` or just list the variables. But the prompt implies a direct transcription of \"formulas\".\nLet's look at the \"Rules\":\n- Keep formula numbers if present (none here).\n- Preserve Greek letters, fractions, roots, subscripts.\n- If multiple lines, use `aligned`.\n- Units in `\\text{}`.\n- Vietnamese subscripts in `\\text{}`.\nThe image doesn't have a single equation. It has labels.\nMaybe I should just transcribe the text/variables as a list or a system?\nOr perhaps the user considers the diagram itself as the \"formula\" context.\nLet's look at the labels again.\n$N$\n$N_2$\n$L/2$\n$L_2/2$\n$EI$\n$EI_2$\nThere are no equations. Just labels.\nHowever, often these requests come from a context where the image *is* the problem statement.\nLet's try to represent the geometry/forces mathematically if possible, or just list the variables.\nActually, looking at the very specific instruction \"Chỉ trả về duy nhất khối công thức bắt đầu bằng$",
+      "Các hệ số μ và $\\mu_{2}$": ""
+    },
+    {
+      "_row_id": 8,
+      "Kết cấu nút giao và chất tải các thanh": "**Các ký hiệu trong Bảng G.9:\n$...$\nN là lực tác dụng vào thanh đang xét;\n$N_{2}$ là lực tác dụng vào thanh giao với thanh đang xét.**",
+      "Sơ đồ tính toán của kết cấu nút giao": "",
+      "Các hệ số μ và $\\mu_{2}$": ""
+    }
+  ],
+  "footnotes": []
+}

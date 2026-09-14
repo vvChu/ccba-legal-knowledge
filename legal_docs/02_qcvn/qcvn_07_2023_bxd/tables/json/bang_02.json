@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Phân loại quy mô cơ sở đốt chất thải rắn sinh hoạt, chất thải rắn thông thường",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Quy mô",
+    "Công suất, tấn/ngày",
+    "Số lượng lò hoạt động thường xuyên"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Quy mô": "Cơ sở đốt rác qui mô rất lớn",
+      "Công suất, tấn/ngày": "> 1 000",
+      "Số lượng lò hoạt động thường xuyên": "≥ 3"
+    },
+    {
+      "_row_id": 2,
+      "Quy mô": "Cơ sở đốt rác qui mô lớn",
+      "Công suất, tấn/ngày": "> 500; ≤ 1 000",
+      "Số lượng lò hoạt động thường xuyên": "≥ 2"
+    },
+    {
+      "_row_id": 3,
+      "Quy mô": "Cơ sở đốt rác qui mô trung bình",
+      "Công suất, tấn/ngày": "> 100; ≤ 500",
+      "Số lượng lò hoạt động thường xuyên": "≥ 1"
+    },
+    {
+      "_row_id": 4,
+      "Quy mô": "Cơ sở đốt rác qui mô nhỏ",
+      "Công suất, tấn/ngày": "≥ 7,0; ≤ 100",
+      "Số lượng lò hoạt động thường xuyên": "≥ 1"
+    }
+  ],
+  "footnotes": []
+}

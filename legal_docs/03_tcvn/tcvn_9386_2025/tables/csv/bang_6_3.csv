@@ -1,0 +1,4 @@
+﻿Cấp độ dẻo,Giá trị tham chiếu của hệ số ứng xử q,Cấp tiết diện thép yêu cầu
+DCM,"1,5 < q ≤ 2","Cấp 1, 2 hoặc 3"
+DCM,2 < q ≤ 4,Cấp 1 hoặc 2
+DCH,q > 4,Cấp 1

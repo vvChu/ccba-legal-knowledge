@@ -1,0 +1,35 @@
+{
+  "table_id": "bang_d_1",
+  "table_number": "D.1",
+  "table_title": "Bảng D.1 - Hệ số ổn định khi nén đúng tâm φ",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Độ mảnh quy ước $` delimiters. So, the final string is `$",
+    "Giá trị φ đối với loại tiết diện — a",
+    "Giá trị φ đối với loại tiết diện — b",
+    "Giá trị φ đối với loại tiết diện — c",
+    "Độ mảnh quy ước $` delimiters. So, the final string is `$",
+    "Giá trị φ đối với loại tiết diện — a",
+    "Giá trị φ đối với loại tiết diện — b",
+    "Giá trị φ đối với loại tiết diện — c"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Độ mảnh quy ước $` delimiters. So, the final string is `$": "4,6\n4,8\n5,0\n5,2\n5,4\n5,6",
+      "Giá trị φ đối với loại tiết diện — a": "0,359\n0,330\n0,304\n0,281\n0,261\n0,242",
+      "Giá trị φ đối với loại tiết diện — b": "0,359\n0,330\n0,304\n0,281\n0,261\n0,242",
+      "Giá trị φ đối với loại tiết diện — c": "0,329\n0,308\n0,289\n0,271\n0,255\n0,241"
+    },
+    {
+      "_row_id": 2,
+      "Độ mảnh quy ước $` delimiters. So, the final string is `$": "5,8\n6,0\n6,2\n6,4\n6,6\n6,8\n7,0\n7,2\n7,4\n7,6\n7,8\n8,0\n8,5\n9,0\n9,5\n10,0",
+      "Giá trị φ đối với loại tiết diện — a": "0,226\n0,211\n0,198\n0,186\n0,174\n0,164\n0,155\n0,147\n0,139\n0,132\n0,125\n0,119\n0,105\n0,094\n0,084\n0,076",
+      "Giá trị φ đối với loại tiết diện — b": "0,226\n0,211\n0,198\n0,186\n0,174\n0,164\n0,155\n0,147\n0,139\n0,132\n0,125\n0,119\n0,105\n0,094\n0,084\n0,076",
+      "Giá trị φ đối với loại tiết diện — c": "0,226\n0,211\n0,198\n0,186\n0,174\n0,164\n0,155\n0,147\n0,139\n0,132\n0,125\n0,119\n0,105\n0,094\n0,084\n0,076"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Công thức tính φ xem trong 7.1.2.1."
+  }
+}

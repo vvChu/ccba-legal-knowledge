@@ -1,0 +1,540 @@
+{
+  "table_id": "bang_e_1",
+  "table_number": "E.1",
+  "table_title": "Bảng E.1 - Mật độ sét trên lãnh thổ Việt Nam",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT",
+    "Tỉnh, Thành phố",
+    "Địa điểm(Tên trạm khí tượng)",
+    "Mật độ sét(Số lần/$km^{2}$/năm)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1",
+      "Tỉnh, Thành phố": "An Giang",
+      "Địa điểm(Tên trạm khí tượng)": "Châu Đốc",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "4,5"
+    },
+    {
+      "_row_id": 2,
+      "TT": "2",
+      "Tỉnh, Thành phố": "Bình Định",
+      "Địa điểm(Tên trạm khí tượng)": "Quy Nhơn",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "4,7"
+    },
+    {
+      "_row_id": 3,
+      "TT": "3",
+      "Tỉnh, Thành phố": "Bình Dương",
+      "Địa điểm(Tên trạm khí tượng)": "Không có số liệu trạm",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "Xác định theo bản đồ"
+    },
+    {
+      "_row_id": 4,
+      "TT": "4",
+      "Tỉnh, Thành phố": "Bình Phước",
+      "Địa điểm(Tên trạm khí tượng)": "Đồng Phú",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "14,9"
+    },
+    {
+      "_row_id": 5,
+      "TT": "5",
+      "Tỉnh, Thành phố": "Bình Thuận",
+      "Địa điểm(Tên trạm khí tượng)": "Phan Thiết",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "7,9"
+    },
+    {
+      "_row_id": 6,
+      "TT": "6",
+      "Tỉnh, Thành phố": "Bà Rịa Vũng Tàu",
+      "Địa điểm(Tên trạm khí tượng)": "Vũng Tàu",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "7,1"
+    },
+    {
+      "_row_id": 7,
+      "TT": "7",
+      "Tỉnh, Thành phố": "Bắc Cạn",
+      "Địa điểm(Tên trạm khí tượng)": "Bắc Cạn",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "8,6"
+    },
+    {
+      "_row_id": 8,
+      "TT": "8",
+      "Tỉnh, Thành phố": "Bắc Giang",
+      "Địa điểm(Tên trạm khí tượng)": "Bắc Giang",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "7,5"
+    },
+    {
+      "_row_id": 9,
+      "TT": "9",
+      "Tỉnh, Thành phố": "Bắc Ninh",
+      "Địa điểm(Tên trạm khí tượng)": "Không có số liệu trạm",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "Xác định theo bản đồ"
+    },
+    {
+      "_row_id": 10,
+      "TT": "10",
+      "Tỉnh, Thành phố": "Bạc Liêu",
+      "Địa điểm(Tên trạm khí tượng)": "Bạc Liêu",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "11"
+    },
+    {
+      "_row_id": 11,
+      "TT": "11",
+      "Tỉnh, Thành phố": "Bến Tre",
+      "Địa điểm(Tên trạm khí tượng)": "Ba Tri",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "11,4"
+    },
+    {
+      "_row_id": 12,
+      "TT": "12",
+      "Tỉnh, Thành phố": "Cà Mau",
+      "Địa điểm(Tên trạm khí tượng)": "Cà Mau",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "11,9"
+    },
+    {
+      "_row_id": 13,
+      "TT": "13",
+      "Tỉnh, Thành phố": "Cao Bằng",
+      "Địa điểm(Tên trạm khí tượng)": "Cao Bằng",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "9,2"
+    },
+    {
+      "_row_id": 14,
+      "TT": "14",
+      "Tỉnh, Thành phố": "Cần Thơ",
+      "Địa điểm(Tên trạm khí tượng)": "Cần Thơ",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "9,2"
+    },
+    {
+      "_row_id": 15,
+      "TT": "15",
+      "Tỉnh, Thành phố": "Đà Nẵng",
+      "Địa điểm(Tên trạm khí tượng)": "Đà Nẵng",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "7,3"
+    },
+    {
+      "_row_id": 16,
+      "TT": "16",
+      "Tỉnh, Thành phố": "Đắk Lắk",
+      "Địa điểm(Tên trạm khí tượng)": "Buôn Mê Thuột",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "13"
+    },
+    {
+      "_row_id": 17,
+      "TT": "17",
+      "Tỉnh, Thành phố": "Đắc Nông",
+      "Địa điểm(Tên trạm khí tượng)": "Đắc Nông",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "12,2"
+    },
+    {
+      "_row_id": 18,
+      "TT": "18",
+      "Tỉnh, Thành phố": "Đồng Nai",
+      "Địa điểm(Tên trạm khí tượng)": "Xuân Lộc",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "10,6"
+    },
+    {
+      "_row_id": 19,
+      "TT": "19",
+      "Tỉnh, Thành phố": "Đồng Tháp",
+      "Địa điểm(Tên trạm khí tượng)": "Cao Lãnh",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "12,4"
+    },
+    {
+      "_row_id": 20,
+      "TT": "20",
+      "Tỉnh, Thành phố": "Gia Lai",
+      "Địa điểm(Tên trạm khí tượng)": "P-lây Cu",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "9,4"
+    },
+    {
+      "_row_id": 21,
+      "TT": "21",
+      "Tỉnh, Thành phố": "Hà Giang",
+      "Địa điểm(Tên trạm khí tượng)": "Bắc Quang",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "10,2"
+    },
+    {
+      "_row_id": 22,
+      "TT": "22",
+      "Tỉnh, Thành phố": "Hà Giang",
+      "Địa điểm(Tên trạm khí tượng)": "Hà Giang",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "10,5"
+    },
+    {
+      "_row_id": 23,
+      "TT": "23",
+      "Tỉnh, Thành phố": "Hà Nam",
+      "Địa điểm(Tên trạm khí tượng)": "Hà Nam",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "8,9"
+    },
+    {
+      "_row_id": 24,
+      "TT": "24",
+      "Tỉnh, Thành phố": "Hà Nội",
+      "Địa điểm(Tên trạm khí tượng)": "Hà Nội",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "8,9"
+    },
+    {
+      "_row_id": 25,
+      "TT": "25",
+      "Tỉnh, Thành phố": "Hà Tây",
+      "Địa điểm(Tên trạm khí tượng)": "Sơn Tây",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "9,1"
+    },
+    {
+      "_row_id": 26,
+      "TT": "26",
+      "Tỉnh, Thành phố": "Hà Tĩnh",
+      "Địa điểm(Tên trạm khí tượng)": "Hà Tĩnh",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "8,2"
+    },
+    {
+      "_row_id": 27,
+      "TT": "27",
+      "Tỉnh, Thành phố": "Hà Tĩnh",
+      "Địa điểm(Tên trạm khí tượng)": "Kỳ Anh",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "6,1"
+    },
+    {
+      "_row_id": 28,
+      "TT": "28",
+      "Tỉnh, Thành phố": "Hải Dương",
+      "Địa điểm(Tên trạm khí tượng)": "Hải Dương",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "8,2"
+    },
+    {
+      "_row_id": 29,
+      "TT": "29",
+      "Tỉnh, Thành phố": "Hải Phòng",
+      "Địa điểm(Tên trạm khí tượng)": "Phù Liễn",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "9,0"
+    },
+    {
+      "_row_id": 30,
+      "TT": "30",
+      "Tỉnh, Thành phố": "Hưng Yên",
+      "Địa điểm(Tên trạm khí tượng)": "Hưng Yên",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "7,6"
+    },
+    {
+      "_row_id": 31,
+      "TT": "31",
+      "Tỉnh, Thành phố": "Hòa Bình",
+      "Địa điểm(Tên trạm khí tượng)": "Hòa Bình",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "10,1"
+    },
+    {
+      "_row_id": 32,
+      "TT": "32",
+      "Tỉnh, Thành phố": "Khánh Hòa",
+      "Địa điểm(Tên trạm khí tượng)": "Cam Ranh",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "3,7"
+    },
+    {
+      "_row_id": 33,
+      "TT": "33",
+      "Tỉnh, Thành phố": "Khánh Hòa",
+      "Địa điểm(Tên trạm khí tượng)": "Nha Trang",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "3,2"
+    },
+    {
+      "_row_id": 34,
+      "TT": "34",
+      "Tỉnh, Thành phố": "Kiên Giang",
+      "Địa điểm(Tên trạm khí tượng)": "Phú Quốc",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "7,3"
+    },
+    {
+      "_row_id": 35,
+      "TT": "35",
+      "Tỉnh, Thành phố": "Kiên Giang",
+      "Địa điểm(Tên trạm khí tượng)": "Rạch Giá",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "12,2"
+    },
+    {
+      "_row_id": 36,
+      "TT": "36",
+      "Tỉnh, Thành phố": "Kon Tum",
+      "Địa điểm(Tên trạm khí tượng)": "Kon Tum",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "6,8"
+    },
+    {
+      "_row_id": 37,
+      "TT": "37",
+      "Tỉnh, Thành phố": "Lâm Đồng",
+      "Địa điểm(Tên trạm khí tượng)": "Đà Lạt",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "8,3"
+    },
+    {
+      "_row_id": 38,
+      "TT": "38",
+      "Tỉnh, Thành phố": "Lào Cai",
+      "Địa điểm(Tên trạm khí tượng)": "Sa Pa",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "7,3"
+    },
+    {
+      "_row_id": 39,
+      "TT": "39",
+      "Tỉnh, Thành phố": "Lào Cai",
+      "Địa điểm(Tên trạm khí tượng)": "Lào Cai",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "8,4"
+    },
+    {
+      "_row_id": 40,
+      "TT": "40",
+      "Tỉnh, Thành phố": "Lạng Sơn",
+      "Địa điểm(Tên trạm khí tượng)": "Lạng Sơn",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "8,4"
+    },
+    {
+      "_row_id": 41,
+      "TT": "41",
+      "Tỉnh, Thành phố": "Lai Châu",
+      "Địa điểm(Tên trạm khí tượng)": "Lai Châu",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "8,8"
+    },
+    {
+      "_row_id": 42,
+      "TT": "42",
+      "Tỉnh, Thành phố": "Lai Châu",
+      "Địa điểm(Tên trạm khí tượng)": "Tuần Giáo",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "6,5"
+    },
+    {
+      "_row_id": 43,
+      "TT": "43",
+      "Tỉnh, Thành phố": "Long An",
+      "Địa điểm(Tên trạm khí tượng)": "Mộc Hóa",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "16,2"
+    },
+    {
+      "_row_id": 44,
+      "TT": "44",
+      "Tỉnh, Thành phố": "Nam Định",
+      "Địa điểm(Tên trạm khí tượng)": "Nam Định",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "7,4"
+    },
+    {
+      "_row_id": 45,
+      "TT": "45",
+      "Tỉnh, Thành phố": "Nghệ An",
+      "Địa điểm(Tên trạm khí tượng)": "Quỳ Châu",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "12,4"
+    },
+    {
+      "_row_id": 46,
+      "TT": "46",
+      "Tỉnh, Thành phố": "Nghệ An",
+      "Địa điểm(Tên trạm khí tượng)": "Quỳ Hợp",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "10,2"
+    },
+    {
+      "_row_id": 47,
+      "TT": "47",
+      "Tỉnh, Thành phố": "Ninh Bình",
+      "Địa điểm(Tên trạm khí tượng)": "Ninh Bình",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "6,5"
+    },
+    {
+      "_row_id": 48,
+      "TT": "48",
+      "Tỉnh, Thành phố": "Ninh Thuận",
+      "Địa điểm(Tên trạm khí tượng)": "Phan Rang",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "1"
+    },
+    {
+      "_row_id": 49,
+      "TT": "49",
+      "Tỉnh, Thành phố": "Phú Thọ",
+      "Địa điểm(Tên trạm khí tượng)": "Việt Trì",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "9,1"
+    },
+    {
+      "_row_id": 50,
+      "TT": "50",
+      "Tỉnh, Thành phố": "Phú Yên",
+      "Địa điểm(Tên trạm khí tượng)": "Tuy Hòa",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "3,4"
+    },
+    {
+      "_row_id": 51,
+      "TT": "51",
+      "Tỉnh, Thành phố": "Quảng Bình",
+      "Địa điểm(Tên trạm khí tượng)": "Tuyên Hóa",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "9"
+    },
+    {
+      "_row_id": 52,
+      "TT": "52",
+      "Tỉnh, Thành phố": "Quảng Nam",
+      "Địa điểm(Tên trạm khí tượng)": "Tam Kỳ",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "7,9"
+    },
+    {
+      "_row_id": 53,
+      "TT": "53",
+      "Tỉnh, Thành phố": "Quảng Ngãi",
+      "Địa điểm(Tên trạm khí tượng)": "Quảng Ngãi",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "7,4"
+    },
+    {
+      "_row_id": 54,
+      "TT": "54",
+      "Tỉnh, Thành phố": "Quảng Ninh",
+      "Địa điểm(Tên trạm khí tượng)": "Cô Tô",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "6,4"
+    },
+    {
+      "_row_id": 55,
+      "TT": "55",
+      "Tỉnh, Thành phố": "Quảng Ninh",
+      "Địa điểm(Tên trạm khí tượng)": "Móng Cái",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "10,1"
+    },
+    {
+      "_row_id": 56,
+      "TT": "56",
+      "Tỉnh, Thành phố": "Quảng Ninh",
+      "Địa điểm(Tên trạm khí tượng)": "Uông Bí",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "9,2"
+    },
+    {
+      "_row_id": 57,
+      "TT": "57",
+      "Tỉnh, Thành phố": "Quảng Trị",
+      "Địa điểm(Tên trạm khí tượng)": "Đông Hà",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "7,2"
+    },
+    {
+      "_row_id": 58,
+      "TT": "58",
+      "Tỉnh, Thành phố": "Sơn La",
+      "Địa điểm(Tên trạm khí tượng)": "Quỳnh Nhai",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "8,4"
+    },
+    {
+      "_row_id": 59,
+      "TT": "59",
+      "Tỉnh, Thành phố": "Sơn La",
+      "Địa điểm(Tên trạm khí tượng)": "Sơn La",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "10,3"
+    },
+    {
+      "_row_id": 60,
+      "TT": "60",
+      "Tỉnh, Thành phố": "Sóc Trăng",
+      "Địa điểm(Tên trạm khí tượng)": "Sóc Trăng",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "9,3"
+    },
+    {
+      "_row_id": 61,
+      "TT": "61",
+      "Tỉnh, Thành phố": "Tây Ninh",
+      "Địa điểm(Tên trạm khí tượng)": "Tây Ninh",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "13"
+    },
+    {
+      "_row_id": 62,
+      "TT": "62",
+      "Tỉnh, Thành phố": "Thái Bình",
+      "Địa điểm(Tên trạm khí tượng)": "Thái Bình",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "5,1"
+    },
+    {
+      "_row_id": 63,
+      "TT": "63",
+      "Tỉnh, Thành phố": "Thái Nguyên",
+      "Địa điểm(Tên trạm khí tượng)": "Thái Nguyên",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "8,7"
+    },
+    {
+      "_row_id": 64,
+      "TT": "64",
+      "Tỉnh, Thành phố": "Thanh Hóa",
+      "Địa điểm(Tên trạm khí tượng)": "Thanh Hóa",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "8"
+    },
+    {
+      "_row_id": 65,
+      "TT": "65",
+      "Tỉnh, Thành phố": "Thừa Thiên Huế",
+      "Địa điểm(Tên trạm khí tượng)": "Huế",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "9,8"
+    },
+    {
+      "_row_id": 66,
+      "TT": "66",
+      "Tỉnh, Thành phố": "Thừa Thiên Huế",
+      "Địa điểm(Tên trạm khí tượng)": "Nam Đông",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "13,6"
+    },
+    {
+      "_row_id": 67,
+      "TT": "67",
+      "Tỉnh, Thành phố": "Thừa Thiên Huế",
+      "Địa điểm(Tên trạm khí tượng)": "A Lưới",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "10"
+    },
+    {
+      "_row_id": 68,
+      "TT": "68",
+      "Tỉnh, Thành phố": "Tiền Giang",
+      "Địa điểm(Tên trạm khí tượng)": "Mỹ Tho",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "11,4"
+    },
+    {
+      "_row_id": 69,
+      "TT": "69",
+      "Tỉnh, Thành phố": "Tp. Hồ Chí Minh",
+      "Địa điểm(Tên trạm khí tượng)": "Tp. Hồ Chí Minh",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "12"
+    },
+    {
+      "_row_id": 70,
+      "TT": "70",
+      "Tỉnh, Thành phố": "Trà Vinh",
+      "Địa điểm(Tên trạm khí tượng)": "Càng Long",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "13,1"
+    },
+    {
+      "_row_id": 71,
+      "TT": "71",
+      "Tỉnh, Thành phố": "Tuyên Quang",
+      "Địa điểm(Tên trạm khí tượng)": "Tuyên Quang",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "9,3"
+    },
+    {
+      "_row_id": 72,
+      "TT": "72",
+      "Tỉnh, Thành phố": "Vĩnh Long",
+      "Địa điểm(Tên trạm khí tượng)": "Không có số liệu trạm",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "Xác định theo bản đồ"
+    },
+    {
+      "_row_id": 73,
+      "TT": "73",
+      "Tỉnh, Thành phố": "Vĩnh Phúc",
+      "Địa điểm(Tên trạm khí tượng)": "Tam Đảo",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "7,9"
+    },
+    {
+      "_row_id": 74,
+      "TT": "74",
+      "Tỉnh, Thành phố": "Vĩnh Phúc",
+      "Địa điểm(Tên trạm khí tượng)": "Vĩnh Yên",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "8,3"
+    },
+    {
+      "_row_id": 75,
+      "TT": "75",
+      "Tỉnh, Thành phố": "Yên Bái",
+      "Địa điểm(Tên trạm khí tượng)": "Yên Bái",
+      "Mật độ sét(Số lần/$km^{2}$/năm)": "9,7"
+    }
+  ],
+  "footnotes": []
+}

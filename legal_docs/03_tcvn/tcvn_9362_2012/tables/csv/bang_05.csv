@@ -1,0 +1,9 @@
+﻿Loại cát,Độ chặt của cát — Chặt,Độ chặt của cát — Chặt vừa,Độ chặt của cát — Rời
+**A. Theo hệ số rỗng (e)**,,,
+Cát sỏi thô và thô vừa<br>Cát mịn<br>Cát bụi,"e < 0,55<br>e < 0,6<br>e < 0,6","0,55 ≤ e ≤ 0,7<br>0,6 ≤ e ≤ 0,75<br>0,6 ≤ e ≤ 0,8","e > 0,7<br>e > 0,75<br>e > 0,8"
+**B. Theo sức kháng xuyên côn $p_{t}$ (MPa) khi xuyên tĩnh**,,,
+Cát thô và thô vừa (không phụ thuộc độ ẩm)<br>Cát mịn (không phụ thuộc độ ẩm)<br>Cát bụi:<br>a) ít ẩm và ẩm<br>b) No nước,$p_{t}$ > 15<br>$p_{t}$ >12<br>$p_{t}$ > 10<br>$p_{t}$ > 7,15 ≥ $p_{t}$ ≥ 5<br>12 ≥ $p_{t}$ ≥ 4<br>10 ≥ $p_{t}$ ≥ 3<br>7 ≥ $p_{t}$ ≥ 2,$p_{t}$ < 5<br>$p_{t}$ < 4<br>$p_{t}$ < 3<br>$p_{t}$ < 2
+**C. Theo sức kháng xuyên côn quy ước $p_{đ}$ (MPa) khi xuyên động**,,,
+Cát thô và thô vừa (không phụ thuộc độ ẩm),$p_{đ}$ > 11,11 ≥ $p_{đ}$ ≥ 3,$p_{đ}$ < 3
+Cát mịn:<br>a) Ít ẩm và ẩm<br>b) No nước,"$p_{đ}$ > 8,5","8,5 ≥ $p_{đ}$ ≥ 2",$p_{đ}$ < 2
+Cát bụi ít ẩm và ẩm,"$p_{đ}$ > 8,5","8,5 ≥ $p_{đ}$ ≥ 2",$p_{đ}$ < 2

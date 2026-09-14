@@ -1,0 +1,36 @@
+{
+  "table_id": "bang_c_11",
+  "table_number": "C.11",
+  "table_title": "Bảng C.11 - Loại vị trí C (đường dữ liệu)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Mức độ thử",
+    "Dòng thử xung cao kA",
+    "Thử xông qua điện áp — Điện áp (kV)",
+    "Thử xông qua điện áp — Dòng (A)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mức độ thử": "Thấp",
+      "Dòng thử xung cao kA": "2,5",
+      "Thử xông qua điện áp — Điện áp (kV)": "1,5",
+      "Thử xông qua điện áp — Dòng (A)": "37,5"
+    },
+    {
+      "_row_id": 2,
+      "Mức độ thử": "Trung bình",
+      "Dòng thử xung cao kA": "5",
+      "Thử xông qua điện áp — Điện áp (kV)": "3",
+      "Thử xông qua điện áp — Dòng (A)": "75"
+    },
+    {
+      "_row_id": 3,
+      "Mức độ thử": "Cao",
+      "Dòng thử xung cao kA": "10",
+      "Thử xông qua điện áp — Điện áp (kV)": "5",
+      "Thử xông qua điện áp — Dòng (A)": "125"
+    }
+  ],
+  "footnotes": []
+}

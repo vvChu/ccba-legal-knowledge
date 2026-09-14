@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_i_1",
+  "table_number": "I.1",
+  "table_title": "Bảng I.1 - Các thông số đường hàn ở “mũi” các thanh bụng",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "α , °",
+    "β , °",
+    "s, mm"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "α , °": "≥ 35; ≤ 45",
+      "β , °": "90",
+      "s, mm": "≥ 2; ≤ 3"
+    },
+    {
+      "_row_id": 2,
+      "α , °": "≥ 46; ≤ 60",
+      "β , °": "75",
+      "s, mm": "≥ 3; ≤ 4"
+    },
+    {
+      "_row_id": 3,
+      "α , °": "≥ 61; ≤ 90",
+      "β , °": "55",
+      "s, mm": "≥ 3; ≤ 5"
+    }
+  ],
+  "footnotes": []
+}

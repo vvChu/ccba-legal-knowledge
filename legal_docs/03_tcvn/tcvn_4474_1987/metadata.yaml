@@ -1,0 +1,30 @@
+id: tcvn_4474_1987
+document_number: TCVN 4474:1987
+title: TCVN 4474:1987 Thoát nước bên trong - Tiêu chuẩn thiết kế
+type: Tiêu chuẩn quốc gia
+issued_by: Bộ Xây dựng
+signer: ''
+issued_date: '1987-12-28'
+effective_date: '1988-07-01'
+status: active
+pdf_path: legal_docs/03_tcvn/tcvn_4474_1987/sources/tcvn_4474_1987.pdf
+pdf_sha256: 784ffaa13b597ba0a9d3c2f086ed2f3b511edbdfc61e81911a952e48db60cc0c
+pdf_status: verified
+cong_bao_number: TCVN
+legal_basis: []
+replaces:
+- TCXD 19-64
+bundle_path: legal_docs/03_tcvn/tcvn_4474_1987/
+source_assets:
+  pdf:
+    sha256: 784ffaa13b597ba0a9d3c2f086ed2f3b511edbdfc61e81911a952e48db60cc0c
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_4474_1987/tcvn_4474_1987.pdf
+    status: verified
+  docx:
+    sha256: e76b6def0e2db544525a6151170b11926006ba4998f0eeb654dbc2bc63e2bc13
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_4474_1987/tcvn_4474_1987.docx
+    status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-14T14:55:13.554677+00:00'

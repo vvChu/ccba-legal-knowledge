@@ -1,0 +1,6 @@
+﻿Tính đều đặn — Mặt bằng,Tính đều đặn — Mặt đứng,Được phép đơn giản hóa — Mô hình,Được phép đơn giản hóa — Phân tích đàn hồi - tuyến tính,Hệ số ứng xử — (Phân tích tuyến tính)
+Có,Có,Phẳng,Lực $ngang^{a}$,Giá trị tham chiếu
+Có,Không,Phẳng,Dạng dao động,Giá trị suy giảm
+Không,Có,Không $gian^{b}$,Lực $ngang^{a}$,Giá trị tham chiếu
+Không,Không,Không gian,Dạng dao động,Giá trị suy giảm
+"**$^{a}$ Nếu điều kiện 4.3.3.2.1(2)a cũng được thỏa mãn.<br>$^{b}$ Theo những điều kiện nêu trong 4.3.3.1(8), có thể sử dụng mô hình phẳng riêng rẽ theo mỗi phương ngang theo 4.3.3.1(8).**",,,,

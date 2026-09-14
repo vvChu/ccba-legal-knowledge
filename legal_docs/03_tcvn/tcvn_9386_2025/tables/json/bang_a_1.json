@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_a_1",
+  "table_number": "A.1",
+  "table_title": "Bảng A.1 - Các chu kỳ khống chế bổ sung đối với phổ chuyển vị",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Dạng nền",
+    "$T_{E}$​ (s)",
+    "$T_{F}$​ (s)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Dạng nền": "A",
+      "$T_{E}$​ (s)": "4,5",
+      "$T_{F}$​ (s)": "10,0"
+    },
+    {
+      "_row_id": 2,
+      "Dạng nền": "B",
+      "$T_{E}$​ (s)": "5,0",
+      "$T_{F}$​ (s)": "10,0"
+    },
+    {
+      "_row_id": 3,
+      "Dạng nền": "C",
+      "$T_{E}$​ (s)": "6,0",
+      "$T_{F}$​ (s)": "10,0"
+    },
+    {
+      "_row_id": 4,
+      "Dạng nền": "D",
+      "$T_{E}$​ (s)": "6,0",
+      "$T_{F}$​ (s)": "10,0"
+    },
+    {
+      "_row_id": 5,
+      "Dạng nền": "E",
+      "$T_{E}$​ (s)": "6,0",
+      "$T_{F}$​ (s)": "10,0"
+    }
+  ],
+  "footnotes": []
+}

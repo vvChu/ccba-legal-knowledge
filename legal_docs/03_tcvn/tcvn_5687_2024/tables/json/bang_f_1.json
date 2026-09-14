@@ -1,0 +1,90 @@
+{
+  "table_id": "bang_f_1",
+  "table_number": "F.1",
+  "table_title": "Bảng F.1 - Số lần (bội số) trao đổi không khí",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại phòng, công trình",
+    "Số lần (bội số) trao đổi không khí,lần/h"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng, công trình": "1. Công sở",
+      "Số lần (bội số) trao đổi không khí,lần/h": "6"
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng, công trình": "2. Nhà ở, phòng ngủ",
+      "Số lần (bội số) trao đổi không khí,lần/h": "2 ÷ 3"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng, công trình": "3. Phòng ăn khách sạn, căng tin",
+      "Số lần (bội số) trao đổi không khí,lần/h": "10"
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng, công trình": "4. Cửa hàng, siêu thị",
+      "Số lần (bội số) trao đổi không khí,lần/h": "6"
+    },
+    {
+      "_row_id": 5,
+      "Loại phòng, công trình": "5. Phòng học",
+      "Số lần (bội số) trao đổi không khí,lần/h": "8"
+    },
+    {
+      "_row_id": 6,
+      "Loại phòng, công trình": "6. Phòng thí nghiệm",
+      "Số lần (bội số) trao đổi không khí,lần/h": "10 ÷ 12"
+    },
+    {
+      "_row_id": 7,
+      "Loại phòng, công trình": "7. Thư viện",
+      "Số lần (bội số) trao đổi không khí,lần/h": "5 ÷ 6"
+    },
+    {
+      "_row_id": 8,
+      "Loại phòng, công trình": "8. Bệnh viện",
+      "Số lần (bội số) trao đổi không khí,lần/h": "6 ÷ 8"
+    },
+    {
+      "_row_id": 9,
+      "Loại phòng, công trình": "9. Nhà hát, rạp chiếu bóng",
+      "Số lần (bội số) trao đổi không khí,lần/h": "8"
+    },
+    {
+      "_row_id": 10,
+      "Loại phòng, công trình": "10. Sảnh, hành lang, cầu thang, lối ra 2)",
+      "Số lần (bội số) trao đổi không khí,lần/h": "4"
+    },
+    {
+      "_row_id": 11,
+      "Loại phòng, công trình": "11. Phòng tắm, phòng vệ sinh",
+      "Số lần (bội số) trao đổi không khí,lần/h": "10"
+    },
+    {
+      "_row_id": 12,
+      "Loại phòng, công trình": "12. Phòng bếp (thương nghiệp, ký túc xá, xí nghiệp)",
+      "Số lần (bội số) trao đổi không khí,lần/h": "20"
+    },
+    {
+      "_row_id": 13,
+      "Loại phòng, công trình": "13. Ga ra ô tô",
+      "Số lần (bội số) trao đổi không khí,lần/h": "6 1)"
+    },
+    {
+      "_row_id": 14,
+      "Loại phòng, công trình": "14. Phòng máy bơm cấp thoát nước",
+      "Số lần (bội số) trao đổi không khí,lần/h": "8"
+    },
+    {
+      "_row_id": 15,
+      "Loại phòng, công trình": "**1) Áp dụng đối với chiều cao phòng 2,5 m. Khi chiều cao phòng trên 2,5 m, phải tính theo tỷ lệ tăng của chiều cao.\n2) Sảnh có diện tích dưới 10 $m^{2}$ không yêu cầu phải có thông gió cơ khí.**",
+      "Số lần (bội số) trao đổi không khí,lần/h": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Đối với phòng trong tầng hầm, số lần trao đổi không khí có thể tăng thêm từ 20 % đến 50 %."
+  }
+}

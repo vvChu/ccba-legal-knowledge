@@ -1,0 +1,22 @@
+{
+  "table_id": "bang_12",
+  "table_number": "12",
+  "table_title": "Bảng 12 - Năng lượng xung kích tính toán của một nhát búa đóng $E_{d}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Búa",
+    "Năng lượng toán của một nhát búa $E_{d}$kJ"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Búa": "1. Búa treo hay búa tác dụng đơn\n2. Búa điezen dạng ống\n3. Búa diêzen dạng cân\n4. Búa điêzen khi đóng vỗ kiểm tra cho quả búa rơi tự do không tiếp liệu.",
+      "Năng lượng toán của một nhát búa $E_{d}$kJ": "GH\n0,9 GH\n0,4 GH\nG (H - h)"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH 1:** G là trọng lượng quả búa.",
+    "fn_2": "**CHÚ THÍCH 2:** h là chiều cao bật lần thứ nhất của quả búa diêzen từ đệm khí xác định theo thước đo, m. Đối với các phép tính gần đúng có thể lấy: h = 0,6 m đối với búa dạng cân;",
+    "fn_3": "**CHÚ THÍCH 3:** h = 0,4 m đối với búa dạng ống."
+  }
+}

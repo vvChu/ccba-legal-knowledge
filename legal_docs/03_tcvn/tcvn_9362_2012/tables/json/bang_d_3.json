@@ -1,0 +1,35 @@
+{
+  "table_id": "bang_d_3",
+  "table_number": "D.3",
+  "table_title": "Bảng D.3 - Áp lực tính toán quy ước $R_{0}$ trên nền đất lún ướt",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại đất",
+    "Đất cấu trúc tự nhiên tương ứng với khối lượng thể tích hạt, $_{k}$, T/m³ — 1,35",
+    "Đất cấu trúc tự nhiên tương ứng với khối lượng thể tích hạt, $_{k}$, T/m³ — 1,55",
+    "Đất đầm chặt tương ứng với khối lượng thể tích hạt, $_{k}$, kPa — 160",
+    "Đất đầm chặt tương ứng với khối lượng thể tích hạt, $_{k}$, kPa — 170"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đất": "Á cát",
+      "Đất cấu trúc tự nhiên tương ứng với khối lượng thể tích hạt, $_{k}$, T/m³ — 1,35": "3,0\n1,5",
+      "Đất cấu trúc tự nhiên tương ứng với khối lượng thể tích hạt, $_{k}$, T/m³ — 1,55": "3,5\n1,3",
+      "Đất đầm chặt tương ứng với khối lượng thể tích hạt, $_{k}$, kPa — 160": "200",
+      "Đất đầm chặt tương ứng với khối lượng thể tích hạt, $_{k}$, kPa — 170": "250"
+    },
+    {
+      "_row_id": 2,
+      "Loại đất": "Á sét",
+      "Đất cấu trúc tự nhiên tương ứng với khối lượng thể tích hạt, $_{k}$, T/m³ — 1,35": "3,5\n1,8",
+      "Đất cấu trúc tự nhiên tương ứng với khối lượng thể tích hạt, $_{k}$, T/m³ — 1,55": "4,0\n2,0",
+      "Đất đầm chặt tương ứng với khối lượng thể tích hạt, $_{k}$, kPa — 160": "250",
+      "Đất đầm chặt tương ứng với khối lượng thể tích hạt, $_{k}$, kPa — 170": "300"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH 1:** Trong Bảng D.3, tử số là giá trị $R_{0}$ thuộc đất lún ướt cấu trúc tự nhiên có độ no nước G ≤ 0,5 và khi không có khả năng thấm ướt chúng. Mẫu số là giá trị $R_{0}$ thuộc đất như trên nhưng có độ no nước G ≥ 0,3 và đất có độ no nước bé khi có khả năng thấm ướt chúng.",
+    "fn_2": "**CHÚ THÍCH 2:** Đối với đất lún sụt có các giá trị $_{k}$ và G trung gian thì $R_{0}$ xác định bằng nội suy."
+  }
+}

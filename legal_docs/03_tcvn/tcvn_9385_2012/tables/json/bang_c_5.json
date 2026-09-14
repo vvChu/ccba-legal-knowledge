@@ -1,0 +1,35 @@
+{
+  "table_id": "bang_c_5",
+  "table_number": "C.5",
+  "table_title": "Bảng C.5 - Hệ số hiệu chỉnh H (hệ số địa hình)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại địa hình",
+    "Giá trị H"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại địa hình": "Đồng bằng",
+      "Giá trị H": "0,3"
+    },
+    {
+      "_row_id": 2,
+      "Loại địa hình": "Đồi",
+      "Giá trị H": "1,0"
+    },
+    {
+      "_row_id": 3,
+      "Loại địa hình": "Núi từ 300 m đến 900 m",
+      "Giá trị H": "1,3"
+    },
+    {
+      "_row_id": 4,
+      "Loại địa hình": "Núi trên 900 m",
+      "Giá trị H": "1,7"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Bảng C.5 có hệ số giống Bảng 8, lặp lại ở đây để tiện sử dụng"
+  }
+}

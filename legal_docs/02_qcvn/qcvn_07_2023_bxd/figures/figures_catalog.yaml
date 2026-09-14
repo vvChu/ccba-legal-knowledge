@@ -1,0 +1,21 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: QCVN 07 2023 BXD
+total_figures: 2
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Sáu vùng ánh sáng của đường hầm
+  annex: MAIN
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  slug: '2'
+  tag: '2'
+  title: Đường cong giảm độ chói mặt đường vùng cửa vào hầm và vùng chuyển tiếp
+  annex: MAIN
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true

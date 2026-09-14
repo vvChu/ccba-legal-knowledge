@@ -1,0 +1,200 @@
+{
+  "table_id": "bang_16",
+  "table_number": "16",
+  "table_title": "Bảng 16 - Trị biến dạng giới hạn của nền $S_{gh}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên và đặc điểm kết cấu của công trình",
+    "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng",
+    "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn",
+    "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng",
+    "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên và đặc điểm kết cấu của công trình": "1",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "2",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "3",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "4",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "5"
+    },
+    {
+      "_row_id": 2,
+      "Tên và đặc điểm kết cấu của công trình": "1. Nhà sản xuất và nhà dân dụng nhiều tầng bằng khung hoàn toàn",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": ""
+    },
+    {
+      "_row_id": 3,
+      "Tên và đặc điểm kết cấu của công trình": "1.1. Khung bê tông cốt thép không có tường chèn",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Độ lún lệch tương đối",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,002",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "Độ lún tuyệt đối lớn nhất $S_{gh}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "8"
+    },
+    {
+      "_row_id": 4,
+      "Tên và đặc điểm kết cấu của công trình": "1.2. Khung thép không có tường chèn",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Độ lún lệch tương đối",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,001",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "Độ lún tuyệt đối lớn nhất $S_{gh}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "12"
+    },
+    {
+      "_row_id": 5,
+      "Tên và đặc điểm kết cấu của công trình": "1.3. Khung bê tông cốt thép có tường chèn",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "-",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,001",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "-",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "8"
+    },
+    {
+      "_row_id": 6,
+      "Tên và đặc điểm kết cấu của công trình": "1.4. Khung thép có tường chèn",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "-",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,002",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "-",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "12"
+    },
+    {
+      "_row_id": 7,
+      "Tên và đặc điểm kết cấu của công trình": "2. Nhà và công trình không xuất hiện nội lực thêm do tản không đều",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "-",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,006",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "-",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "15"
+    },
+    {
+      "_row_id": 8,
+      "Tên và đặc điểm kết cấu của công trình": "3. Nhà nhiều tầng không khung, tường chịu lực bằng",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Võng hoặc võng tương đối",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,000 7",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "Độ lún trung bình $S_{ghtb}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "10"
+    },
+    {
+      "_row_id": 9,
+      "Tên và đặc điểm kết cấu của công trình": "3.1 Tấm lớn\n3.2 Khối lớn và thể xây bằng gạch không có cốt\n3.3 Khối lớn và thể xây bằng gạch có cốt hoặc có dằng bê tông cốt thép",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Võng hoặc võng tương đối\nĐộ võng hoặc võng tương đối",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,001\n0,0012",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "Độ lún trung bình\n$S_{ghtb}$\nĐộ lún trung bình\n$S_{ghtb}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "10\n15"
+    },
+    {
+      "_row_id": 10,
+      "Tên và đặc điểm kết cấu của công trình": "3.4. Không phụ thuộc vật liệu của tường",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Độ nghiêng theo hướng ngang $i_{gh}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,005",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "-",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": ""
+    },
+    {
+      "_row_id": 11,
+      "Tên và đặc điểm kết cấu của công trình": "4. Công trình cao, cứng",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": ""
+    },
+    {
+      "_row_id": 12,
+      "Tên và đặc điểm kết cấu của công trình": "4.1. Công trình máy nâng bằng kết cấu bê tông cốt thép:",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": ""
+    },
+    {
+      "_row_id": 13,
+      "Tên và đặc điểm kết cấu của công trình": "a) Nhà làm việc và thân xi lô kết cấu toàn khối đặt trên cùng một bản móng.",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Độ nghiêng ngang và dọc $i_{gh}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,003",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "Độ lún trung bình\n$S_{ghtb}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "40"
+    },
+    {
+      "_row_id": 14,
+      "Tên và đặc điểm kết cấu của công trình": "b) Như trên, kết cấu lắp ghép.",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Độ nghiêng ngang và dọc $i_{gh}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,003",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "Độ lún trung bình\n$S_{ghtb}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "30"
+    },
+    {
+      "_row_id": 15,
+      "Tên và đặc điểm kết cấu của công trình": "c) Nhà làm việc đặt riêng rẽ.",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Độ nghiêng ngang $i_{gh}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,003\n0,004",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "25"
+    },
+    {
+      "_row_id": 16,
+      "Tên và đặc điểm kết cấu của công trình": "d) Thân xi lô đặt riêng rẽ, kết cấu toàn khối.",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Độ nghiêng ngang và dọc",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,004",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "-",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "40"
+    },
+    {
+      "_row_id": 17,
+      "Tên và đặc điểm kết cấu của công trình": "e) Như trên, kết cấu lắp ghép",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Độ nghiêng ngang và dọc",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,001",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "-",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "30"
+    },
+    {
+      "_row_id": 18,
+      "Tên và đặc điểm kết cấu của công trình": "4.2. Ống khói có chiều cao H (m)",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": ""
+    },
+    {
+      "_row_id": 19,
+      "Tên và đặc điểm kết cấu của công trình": "H ≤ 100 m",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Nghiêng $i_{gh}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,005",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "Độ lún trung bình $S_{ghtb}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "40"
+    },
+    {
+      "_row_id": 20,
+      "Tên và đặc điểm kết cấu của công trình": "100 m < H ≤ 200 m",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Nghiêng $i_{gh}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "$\\frac{1}{2xH}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "Độ lún trung bình $S_{ghtb}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "30"
+    },
+    {
+      "_row_id": 21,
+      "Tên và đặc điểm kết cấu của công trình": "200 m < H ≤ 300 m",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Nghiêng $i_{gh}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "$\\frac{1}{2xH}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "Độ lún trung bình $S_{ghtb}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "20"
+    },
+    {
+      "_row_id": 22,
+      "Tên và đặc điểm kết cấu của công trình": "H > 300 m",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Nghiêng $i_{gh}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "$\\frac{1}{2xH}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "-",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "10"
+    },
+    {
+      "_row_id": 23,
+      "Tên và đặc điểm kết cấu của công trình": "4.3. Công trình khác, cao đến 100 m và cứng.",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng": "Nghiêng $i_{gh}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn": "0,004",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng": "Độ lún trung bình $S_{ghtb}$",
+      "Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn": "20"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,33 @@
+{
+  "table_id": "bang_c_6",
+  "table_number": "C.6",
+  "table_title": "Bảng C.6 - Phân loại công trình và vật chứa",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Sử dụng công trình và hậu quả của các hư hại tới các đối tượng bên trong",
+    "Chỉ số hậu quả"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Sử dụng công trình và hậu quả của các hư hại tới các đối tượng bên trong": "Nhà ở dân dụng và công trình có trang thiết bị giá thấp và có giá trị khấu hao thấp",
+      "Chỉ số hậu quả": "1"
+    },
+    {
+      "_row_id": 2,
+      "Sử dụng công trình và hậu quả của các hư hại tới các đối tượng bên trong": "Tòa nhà thương mại và công nghiệp có các hệ thống máy tính, nơi mà các hư hại hệ thống đó có thể phá hoại sản xuất",
+      "Chỉ số hậu quả": "2"
+    },
+    {
+      "_row_id": 3,
+      "Sử dụng công trình và hậu quả của các hư hại tới các đối tượng bên trong": "Các ứng dụng thương mại và công nghiệp, nơi mà khi mất dữ liệu máy tính có thể gây tổn hại tài chính lớn",
+      "Chỉ số hậu quả": "3"
+    },
+    {
+      "_row_id": 4,
+      "Sử dụng công trình và hậu quả của các hư hại tới các đối tượng bên trong": "Các công trình mà khi mất điều khiển máy tính hoặc hệ thống có thể dẫn tới hủy hoại môi trường và sức khỏe con người",
+      "Chỉ số hậu quả": "4"
+    }
+  ],
+  "footnotes": []
+}

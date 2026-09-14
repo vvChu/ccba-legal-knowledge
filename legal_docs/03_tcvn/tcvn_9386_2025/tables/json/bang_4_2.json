@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_4_2",
+  "table_number": "4.2",
+  "table_title": "Bảng 4.2 - Giá trị của φ để tính toán $\\psi_{Ei}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại tác động thay đổi1)",
+    "Tầng",
+    "φ"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại tác động thay đổi1)": "Các loại từ A đến C",
+      "Tầng": "Mái",
+      "φ": "1,0"
+    },
+    {
+      "_row_id": 2,
+      "Loại tác động thay đổi1)": "",
+      "Tầng": "Các tầng được sử dụng đồng thời",
+      "φ": "0,8"
+    },
+    {
+      "_row_id": 3,
+      "Loại tác động thay đổi1)": "",
+      "Tầng": "Các tầng được sử dụng độc lập",
+      "φ": "0,5"
+    },
+    {
+      "_row_id": 4,
+      "Loại tác động thay đổi1)": "Các loại từ D đến F và kho lưu trữ",
+      "Tầng": "",
+      "φ": "1,0"
+    },
+    {
+      "_row_id": 5,
+      "Loại tác động thay đổi1)": "**1) Các loại tác động thay đổi được xác định theo Bảng 3.5.**",
+      "Tầng": "",
+      "φ": ""
+    }
+  ],
+  "footnotes": []
+}

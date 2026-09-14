@@ -1,0 +1,6 @@
+﻿Trạng thái ứng suất,Công thức tính các cường độ tính toán
+"1. Kéo, nén, uốn:<br>a) Theo giới hạn chảy<br>b) Theo giới hạn bền kéo",$f_{yd}$ = $f_{y}$ / $\gamma_{m}$<br>$f_{ud}$ = $f_{u}$ / $\gamma_{m}$
+2. Trượt,"$f_{v}$ = 0,58 $f_{y}$/ $\gamma_{m}$"
+3. Ép mặt tì đầu (khi tì sát),$f_{c}$ = $f_{u}$ / $\gamma_{m}$
+4. Ép trong ổ trục khi tiếp xúc chặt,"$f_{cc}$ = 0,5 $f_{u}$ / $\gamma_{m}$"
+5. Ép theo đường kính con lăn (khi tiếp xúc tự do trong các kết cấu có độ di động hạn chế),"$f_{cd}$ = 0,025 $f_{u}$ / $\gamma_{m}$"

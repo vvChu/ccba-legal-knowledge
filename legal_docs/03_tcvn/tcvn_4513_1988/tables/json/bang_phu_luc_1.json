@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_phu_luc_1",
+  "table_number": "PL1",
+  "table_title": "Bảng Phụ lục 1",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Dụng cụ vệ sinh",
+    "Đơn vị",
+    "Tiêu chuẩn dùng nước (lít)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Dụng cụ vệ sinh": "1",
+      "Đơn vị": "2",
+      "Tiêu chuẩn dùng nước (lít)": "3"
+    },
+    {
+      "_row_id": 2,
+      "Dụng cụ vệ sinh": "1. Nhà ở\n&nbsp;&nbsp;\\- Bồn tắm ngồi dài 1.200 mm có vòi tắm hương sen\n&nbsp;&nbsp;\\- Bồn tắm (có hương sen tắm) dài từ 1500 đến 1550 mm\n&nbsp;&nbsp;\\- Như trên dài từ 1650 đến 1700 mm\n&nbsp;&nbsp;\\- Bồn tắm không có hương sen\n&nbsp;&nbsp;\\- Vòi tắm hương sen có khay tắm sâu\n&nbsp;&nbsp;\\- Vòi tắm hương sen có khay tắm nông\n&nbsp;&nbsp;\\- Chậu rửa mặt\n&nbsp;&nbsp;\\- Bình xả của chậu xí\n&nbsp;&nbsp;\\- Chậu rửa trong nhà bếp\n&nbsp;&nbsp;\\- Vòi tắm hương sen tắm trong căn hộ\n2. Công trình công cộng\n&nbsp;&nbsp;\\- Phòng tắm có bồn tắm\n&nbsp;&nbsp;\\- Phòng tắm có hương sen tắm\n&nbsp;&nbsp;\\- Nước rửa sàn phòng tắm, phòng tắm hơi và buồng khử trùng\n&nbsp;&nbsp;\\- Chậu rửa tay trong phòng cắt tóc\n&nbsp;&nbsp;\\- Chậu rửa trong phòng thay quần áo hay phòng vệ sinh\n&nbsp;&nbsp;\\- Chậu rửa trong phòng bác sĩ\n&nbsp;&nbsp;\\- Chậu rửa trong cửa hàng\n&nbsp;&nbsp;\\- Chậu rửa trong hiệu thuốc",
+      "Đơn vị": "1 lần\n1 lần\n1 lần\n1 lần\n1 lần\n1 lần\n1 lần\n1 lần\n1 lần\n1 lần\n1 khách\n\"\n1 $m^{2}$\n1 giờ\n\"",
+      "Tiêu chuẩn dùng nước (lít)": "250\n275\n300\n200\n230\nTừ 100 đến 120\ntừ 3 đến 5\nTừ 6 đến 8\nTừ 8 đến 10\nTừ 40 đến 60\n500\n400\n3 đến 5\n10\n100"
+    },
+    {
+      "_row_id": 3,
+      "Dụng cụ vệ sinh": "&nbsp;&nbsp;\\- Chậu rửa trong phòng vệ sinh công cộng\n&nbsp;&nbsp;\\- Chậu xí trong nhà xí công cộng ở nhà ga\n&nbsp;&nbsp;\\- Vòi lấy nước hay chậu rửa ở nhà ăn, quán cà phê, quán giải khát, quầy bánh kẹo, căng tin",
+      "Đơn vị": "\"\n\"\n1 ngày\n\"\n\"\n1 giờ",
+      "Tiêu chuẩn dùng nước (lít)": "Từ 300 đến 400\n120\n60\n600\n1000\n250"
+    },
+    {
+      "_row_id": 4,
+      "Dụng cụ vệ sinh": "3. Nhà sản xuất và phụ trợ\n&nbsp;&nbsp;\\- Vòi tắm hương sen riêng biệt trong các phòng sinh hoạt\n&nbsp;&nbsp;\\- Vòi tắm hương sen tắm trong nhóm phòng tắm",
+      "Đơn vị": "1 lần\n45 phút",
+      "Tiêu chuẩn dùng nước (lít)": "Từ 40 đến 60\n500"
+    }
+  ],
+  "footnotes": []
+}

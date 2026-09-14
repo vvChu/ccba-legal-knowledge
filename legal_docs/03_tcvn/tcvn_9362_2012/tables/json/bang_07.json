@@ -1,0 +1,68 @@
+{
+  "table_id": "bang_07",
+  "table_number": "7",
+  "table_title": "Bảng 7 - Phân loại đất sét theo chỉ số sệt",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên đất sét theo chỉ số sệt",
+    "Chỉ số sệt $I_{s}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên đất sét theo chỉ số sệt": "Á-cát:",
+      "Chỉ số sệt $I_{s}$": ""
+    },
+    {
+      "_row_id": 2,
+      "Tên đất sét theo chỉ số sệt": "&nbsp;&nbsp;\\- Cứng",
+      "Chỉ số sệt $I_{s}$": "$I_{s}$ <0"
+    },
+    {
+      "_row_id": 3,
+      "Tên đất sét theo chỉ số sệt": "&nbsp;&nbsp;\\- Dẻo",
+      "Chỉ số sệt $I_{s}$": "0 ≤ $I_{s}$ ≤ 1"
+    },
+    {
+      "_row_id": 4,
+      "Tên đất sét theo chỉ số sệt": "&nbsp;&nbsp;\\- Nhão",
+      "Chỉ số sệt $I_{s}$": "$I_{s}$ > 1"
+    },
+    {
+      "_row_id": 5,
+      "Tên đất sét theo chỉ số sệt": "Á-sét và sét:",
+      "Chỉ số sệt $I_{s}$": ""
+    },
+    {
+      "_row_id": 6,
+      "Tên đất sét theo chỉ số sệt": "&nbsp;&nbsp;\\- Cứng",
+      "Chỉ số sệt $I_{s}$": "$I_{s}$ < 0"
+    },
+    {
+      "_row_id": 7,
+      "Tên đất sét theo chỉ số sệt": "&nbsp;&nbsp;\\- Nửa cứng",
+      "Chỉ số sệt $I_{s}$": "0 ≤ $I_{s}$ ≤ 0,25"
+    },
+    {
+      "_row_id": 8,
+      "Tên đất sét theo chỉ số sệt": "&nbsp;&nbsp;\\- Dẻo cứng",
+      "Chỉ số sệt $I_{s}$": "0,25 ≤ $I_{s}$ ≤ 0,50"
+    },
+    {
+      "_row_id": 9,
+      "Tên đất sét theo chỉ số sệt": "&nbsp;&nbsp;\\- Dẻo mềm",
+      "Chỉ số sệt $I_{s}$": "0,50 ≤ $I_{s}$ ≤ 0,75"
+    },
+    {
+      "_row_id": 10,
+      "Tên đất sét theo chỉ số sệt": "&nbsp;&nbsp;\\- Dẻo nhão",
+      "Chỉ số sệt $I_{s}$": "0,75 ≤ $I_{s}$ ≤ 1"
+    },
+    {
+      "_row_id": 11,
+      "Tên đất sét theo chỉ số sệt": "&nbsp;&nbsp;\\- Nhão",
+      "Chỉ số sệt $I_{s}$": "$I_{s}$ > 1"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,58 @@
+{
+  "table_id": "bang_b_7",
+  "table_number": "B.7",
+  "table_title": "Bảng B.7 - Tính chất cơ học của thép tấm mỏng cán nóng chất lượng kết cấu có giới hạn chảy cao theo TCVN 6523:2018 (ISO 4996:2014)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Mác",
+    "Giới hạn chảy nhỏ nhất, MPa",
+    "Giới hạn bền kéo, MPa",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — < 3",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 6"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mác": "HS355",
+      "Giới hạn chảy nhỏ nhất, MPa": "355",
+      "Giới hạn bền kéo, MPa": "430",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — < 3": "18",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 6": "22"
+    },
+    {
+      "_row_id": 2,
+      "Mác": "HS390",
+      "Giới hạn chảy nhỏ nhất, MPa": "390",
+      "Giới hạn bền kéo, MPa": "460",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — < 3": "16",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 6": "20"
+    },
+    {
+      "_row_id": 3,
+      "Mác": "HS420",
+      "Giới hạn chảy nhỏ nhất, MPa": "420",
+      "Giới hạn bền kéo, MPa": "490",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — < 3": "14",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 6": "19"
+    },
+    {
+      "_row_id": 4,
+      "Mác": "HS460",
+      "Giới hạn chảy nhỏ nhất, MPa": "460",
+      "Giới hạn bền kéo, MPa": "530",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — < 3": "12",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 6": "17"
+    },
+    {
+      "_row_id": 5,
+      "Mác": "HS490",
+      "Giới hạn chảy nhỏ nhất, MPa": "490",
+      "Giới hạn bền kéo, MPa": "590",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — < 3": "10",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 6": "15"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Để có thêm thông tin đầy đủ, xem TCVN 6523:2018 (ISO 4996:2014)."
+  }
+}

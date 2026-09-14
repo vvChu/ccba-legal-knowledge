@@ -1,0 +1,47 @@
+{
+  "table_id": "bang_48",
+  "table_number": "48",
+  "table_title": "Bảng 48 - Hệ số điều kiện làm việc $\\gamma_{c}$ khi thiết kế cột điện",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Cấu kiện kết cấu",
+    "Giá trị $\\gamma_{c}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấu kiện kết cấu": "1. Các cánh chịu nén làm bằng thép góc đơn của cột đứng độc lập trong hai khoang đầu tính từ chân đế cột khi liên kết nút là:\na) Liên kết hàn",
+      "Giá trị $\\gamma_{c}$": "0,95"
+    },
+    {
+      "_row_id": 2,
+      "Cấu kiện kết cấu": "b) Liên kết bu lông",
+      "Giá trị $\\gamma_{c}$": "0,90"
+    },
+    {
+      "_row_id": 3,
+      "Cấu kiện kết cấu": "2. Thanh chịu nén của xà ngang rỗng phẳng (để treo dây) làm bằng thép góc đơn cạnh đều được liên kết theo một cánh (Hình 26):\na) Thanh cánh liên kết trực tiếp với thân cột bằng hai bu lông trở lên bố trí dọc cánh xà ngang",
+      "Giá trị $\\gamma_{c}$": "0,90"
+    },
+    {
+      "_row_id": 4,
+      "Cấu kiện kết cấu": "b) Thanh cánh liên kết với thân cột bằng một bu lông hoặc qua bản mã",
+      "Giá trị $\\gamma_{c}$": "0,75"
+    },
+    {
+      "_row_id": 5,
+      "Cấu kiện kết cấu": "c) Thanh xiên và thanh ngang",
+      "Giá trị $\\gamma_{c}$": "0,75"
+    },
+    {
+      "_row_id": 6,
+      "Cấu kiện kết cấu": "3. Dây co bằng cáp thép hoặc bó sợi thép cường độ cao:\na) Đối với cột trung gian và cột có chế độ làm việc bình thường\nb) Đối với các cột neo, cột neo ở góc và cột góc:\n&nbsp;&nbsp;\\- Ở chế độ làm việc bình thường\n&nbsp;&nbsp;\\- Ở chế độ làm việc sự cố",
+      "Giá trị $\\gamma_{c}$": "0,90\n0,80\n0,90"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Các chế độ làm việc bình thường và sự cố xem trong tiêu chuẩn hoặc tài liệu chuyên ngành điện.",
+    "fn_2": "CHÚ THÍCH 2: Các chế độ làm việc bình thường và sự cố xem trong tiêu chuẩn hoặc tài liệu chuyên ngành điện.",
+    "fn_3": "**CHÚ THÍCH:** Các hệ số điều kiện làm việc không dùng để tính liên kết của các thanh tại nút."
+  }
+}

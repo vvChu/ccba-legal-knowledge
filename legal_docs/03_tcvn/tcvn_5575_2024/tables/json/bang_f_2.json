@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_f_2",
+  "table_number": "F.2",
+  "table_title": "Bảng F.2 - Hệ số Ψ cho công xôn ngàm cứng có tiết diện chữ I với hai trục đối xứng",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại tải trọng",
+    "Cánh được chất tải",
+    "Giá trị Ψ khi cánh chịu nén không được liên kết chặn chuyển vị ngang và với α — ≥ 4; ≤ 28",
+    "Giá trị Ψ khi cánh chịu nén không được liên kết chặn chuyển vị ngang và với α — > 28; ≤ 100"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại tải trọng": "$P$",
+      "Cánh được chất tải": "Chịu kéo",
+      "Giá trị Ψ khi cánh chịu nén không được liên kết chặn chuyển vị ngang và với α — ≥ 4; ≤ 28": "1,0 + 0,16α",
+      "Giá trị Ψ khi cánh chịu nén không được liên kết chặn chuyển vị ngang và với α — > 28; ≤ 100": "4,0 + 0, 05α"
+    },
+    {
+      "_row_id": 2,
+      "Loại tải trọng": "$P$",
+      "Cánh được chất tải": "Chịu nén",
+      "Giá trị Ψ khi cánh chịu nén không được liên kết chặn chuyển vị ngang và với α — ≥ 4; ≤ 28": "6,2 + 0, 08α",
+      "Giá trị Ψ khi cánh chịu nén không được liên kết chặn chuyển vị ngang và với α — > 28; ≤ 100": "7,0 + 0, 05α"
+    },
+    {
+      "_row_id": 3,
+      "Loại tải trọng": "$Xin lỗi, hình ảnh bạn cung cấp chỉ chứa sơ đồ kết cấu (dầm công xôn chịu tải trọng phân bố đều) mà không chứa công thức toán học nào. Do đó, tôi không thể chuyển đổi thành mã LaTeX. Vui lòng cung cấp hình ảnh chứa công thức toán học để tôi có thể hỗ trợ bạn!$",
+      "Cánh được chất tải": "Chịu kéo",
+      "Giá trị Ψ khi cánh chịu nén không được liên kết chặn chuyển vị ngang và với α — ≥ 4; ≤ 28": "$...$",
+      "Giá trị Ψ khi cánh chịu nén không được liên kết chặn chuyển vị ngang và với α — > 28; ≤ 100": "$...$"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Hệ số α lấy theo các công thức (F.4) và (F.5) với các giá trị k như đối với các sơ đồ có các liên kết cánh chịu nén trong nhịp: k = 1,54 và k = 8 ứng với $h_{m}$ tương ứng."
+  }
+}

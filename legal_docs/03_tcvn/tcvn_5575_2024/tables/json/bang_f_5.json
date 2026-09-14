@@ -1,0 +1,36 @@
+{
+  "table_id": "bang_f_5",
+  "table_number": "F.5",
+  "table_title": "Bảng F.5 - Các hệ số C và D",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại tải trọng",
+    "Hệ số C khi tiết diện có dạng — chữ I (n ≤ 0,9)",
+    "Hệ số C khi tiết diện có dạng — chữ T (n = 1,0)",
+    "Hệ số D"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại tải trọng": "1. Tập trung ở giữa nhịp",
+      "Hệ số C khi tiết diện có dạng — chữ I (n ≤ 0,9)": "0,330η",
+      "Hệ số C khi tiết diện có dạng — chữ T (n = 1,0)": "0,0826α",
+      "Hệ số D": "3,265"
+    },
+    {
+      "_row_id": 2,
+      "Loại tải trọng": "2. Phân bố đều",
+      "Hệ số C khi tiết diện có dạng — chữ I (n ≤ 0,9)": "0,481η",
+      "Hệ số C khi tiết diện có dạng — chữ T (n = 1,0)": "0,1202α",
+      "Hệ số D": "2,247"
+    },
+    {
+      "_row_id": 3,
+      "Loại tải trọng": "3. Gây uốn thuần tuý",
+      "Hệ số C khi tiết diện có dạng — chữ I (n ≤ 0,9)": "0,101η",
+      "Hệ số C khi tiết diện có dạng — chữ T (n = 1,0)": "0,0253α",
+      "Hệ số D": "4,315"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,80 @@
+{
+  "table_id": "bang_b_5",
+  "table_number": "B.5",
+  "table_title": "Bảng B.5 - Tính chất cơ học của thép kết cấu thường hóa ở nhiệt độ phòng theo TCVN 9986-3:2014 (ISO 630-3:2012)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Mác",
+    "Chất lượng",
+    "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16",
+    "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40",
+    "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 40; ≤ 63",
+    "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 63; ≤ 80",
+    "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 80; ≤ 100",
+    "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — ≤ 100",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 16",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 40",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 80"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mác": "S275N",
+      "Chất lượng": "D, E",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "275",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "265",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 40; ≤ 63": "255",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 63; ≤ 80": "245",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 80; ≤ 100": "235",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — ≤ 100": "370÷510",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 16": "24",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "24",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 80": "23"
+    },
+    {
+      "_row_id": 2,
+      "Mác": "S355N",
+      "Chất lượng": "D, E",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "355",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "345",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 40; ≤ 63": "335",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 63; ≤ 80": "325",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 80; ≤ 100": "315",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — ≤ 100": "470÷630",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 16": "22",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "22",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 80": "22"
+    },
+    {
+      "_row_id": 3,
+      "Mác": "S420N",
+      "Chất lượng": "D, E",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "420",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "400",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 40; ≤ 63": "390",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 63; ≤ 80": "370",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 80; ≤ 100": "360",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — ≤ 100": "520÷680",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 16": "19",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "19",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 80": "19"
+    },
+    {
+      "_row_id": 4,
+      "Mác": "S460N",
+      "Chất lượng": "D, E",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "460",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "440",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 40; ≤ 63": "430",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 63; ≤ 80": "410",
+      "Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 80; ≤ 100": "400",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — ≤ 100": "540÷720",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 16": "17",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "17",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 80": "17"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Để có thêm thông tin đầy đủ, xem TCVN 9986-3:2014 (ISO 630-3:2012)."
+  }
+}

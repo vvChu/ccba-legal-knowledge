@@ -1,0 +1,86 @@
+{
+  "table_id": "bang_6_2",
+  "table_number": "6.2",
+  "table_title": "Bảng 6.2 - Giới hạn trên của giá trị tham chiếu của hệ số ứng xử cho hệ kết cấu đều đặn theo phương đứng",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Dạng kết cấu",
+    "Cấp độ dẻo — DCM",
+    "Cấp độ dẻo — DCH"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Dạng kết cấu": "a) Khung chịu mô men",
+      "Cấp độ dẻo — DCM": "4",
+      "Cấp độ dẻo — DCH": "5 $\\alpha_{u}$/$\\alpha_{1}$"
+    },
+    {
+      "_row_id": 2,
+      "Dạng kết cấu": "b) Khung có hệ giằng đúng tâm",
+      "Cấp độ dẻo — DCM": "",
+      "Cấp độ dẻo — DCH": ""
+    },
+    {
+      "_row_id": 3,
+      "Dạng kết cấu": "Hệ giằng chéo",
+      "Cấp độ dẻo — DCM": "4",
+      "Cấp độ dẻo — DCH": "4"
+    },
+    {
+      "_row_id": 4,
+      "Dạng kết cấu": "Hệ giằng chữ V",
+      "Cấp độ dẻo — DCM": "2",
+      "Cấp độ dẻo — DCH": "2,5"
+    },
+    {
+      "_row_id": 5,
+      "Dạng kết cấu": "c) Khung có hệ giằng lệch tâm",
+      "Cấp độ dẻo — DCM": "4",
+      "Cấp độ dẻo — DCH": "5 $\\alpha_{u}$/$\\alpha_{1}$"
+    },
+    {
+      "_row_id": 6,
+      "Dạng kết cấu": "d) Kết cấu con lắc ngược",
+      "Cấp độ dẻo — DCM": "2",
+      "Cấp độ dẻo — DCH": "2 $\\alpha_{u}$/$\\alpha_{1}$"
+    },
+    {
+      "_row_id": 7,
+      "Dạng kết cấu": "e) Kết cấu có lõi bê tông hoặc vách bê tông",
+      "Cấp độ dẻo — DCM": "xem Điều 5",
+      "Cấp độ dẻo — DCH": "xem Điều 5"
+    },
+    {
+      "_row_id": 8,
+      "Dạng kết cấu": "f) Khung chịu mô men kết hợp với hệ giằng đúng tâm",
+      "Cấp độ dẻo — DCM": "4",
+      "Cấp độ dẻo — DCH": "4 $\\alpha_{u}$/$\\alpha_{1}$"
+    },
+    {
+      "_row_id": 9,
+      "Dạng kết cấu": "g) Khung chịu mô men kết hợp với tường chèn",
+      "Cấp độ dẻo — DCM": "",
+      "Cấp độ dẻo — DCH": ""
+    },
+    {
+      "_row_id": 10,
+      "Dạng kết cấu": "Tường chèn khối xây hoặc bê tông không được liên kết mà chỉ tiếp giáp với khung",
+      "Cấp độ dẻo — DCM": "2",
+      "Cấp độ dẻo — DCH": "2"
+    },
+    {
+      "_row_id": 11,
+      "Dạng kết cấu": "Tường chèn bê tông cốt thép được liên kết vào khung",
+      "Cấp độ dẻo — DCM": "xem Điều 7",
+      "Cấp độ dẻo — DCH": "xem Điều 7"
+    },
+    {
+      "_row_id": 12,
+      "Dạng kết cấu": "Tường chèn phân cách với khung chịu mô men (xem phần khung chịu mô men)",
+      "Cấp độ dẻo — DCM": "4",
+      "Cấp độ dẻo — DCH": "5 $\\alpha_{u}$/$\\alpha_{1}$"
+    }
+  ],
+  "footnotes": []
+}

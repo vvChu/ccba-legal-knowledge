@@ -1,0 +1,30 @@
+{
+  "table_id": "bang_c_4",
+  "table_number": "C.4",
+  "table_title": "Bảng C.4 - Hệ số hiệu chỉnh G (hệ số mức độ cách ly)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại bao bọc",
+    "Giá trị G"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại bao bọc": "Công trình nằm trên một diện tích rộng có cây và nhà cửa độ cao gần như nhau, ví dụ như trong thị trấn hoặc rừng",
+      "Giá trị G": "0,4"
+    },
+    {
+      "_row_id": 2,
+      "Loại bao bọc": "Công trình nằm trên một diện tích rộng có ít cây và nhà cửa độ cao gần tương đương.",
+      "Giá trị G": "1,0"
+    },
+    {
+      "_row_id": 3,
+      "Loại bao bọc": "Công trình cao hơn hẳn các công trình và cây cối xung quanh ít nhất 2 lần.",
+      "Giá trị G": "2"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Bảng C.4 có hệ số giống Bảng 9, lặp lại ở đây để tiện sử dụng"
+  }
+}

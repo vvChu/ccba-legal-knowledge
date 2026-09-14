@@ -1,0 +1,70 @@
+{
+  "table_id": "bang_b_11",
+  "table_number": "B.11",
+  "table_title": "Bảng B.11 - Tính chất cơ học của thép ống, thép hộp làm bằng thép không hợp kim theo TCVN 11228-1:2015 (ISO 12633-1:2011)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Ký hiệu loại thép",
+    "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16",
+    "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40",
+    "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — < 3",
+    "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 40",
+    "Độ giãn dài tương đối nhỏ nhất, % — dọc — cho chiều dày danh nghĩa, mm — ≤ 40",
+    "Độ giãn dài tương đối nhỏ nhất, % — ngang — cho chiều dày danh nghĩa, mm — ≤ 40"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ký hiệu loại thép": "S235JRH",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "235",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "225",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — < 3": "360÷510",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 40": "340÷470",
+      "Độ giãn dài tương đối nhỏ nhất, % — dọc — cho chiều dày danh nghĩa, mm — ≤ 40": "26",
+      "Độ giãn dài tương đối nhỏ nhất, % — ngang — cho chiều dày danh nghĩa, mm — ≤ 40": "24"
+    },
+    {
+      "_row_id": 2,
+      "Ký hiệu loại thép": "S275J0H",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "275",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "265",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — < 3": "430÷580",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 40": "410÷560",
+      "Độ giãn dài tương đối nhỏ nhất, % — dọc — cho chiều dày danh nghĩa, mm — ≤ 40": "22",
+      "Độ giãn dài tương đối nhỏ nhất, % — ngang — cho chiều dày danh nghĩa, mm — ≤ 40": "20"
+    },
+    {
+      "_row_id": 3,
+      "Ký hiệu loại thép": "S275J2H",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "275",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "265",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — < 3": "430÷580",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 40": "410÷560",
+      "Độ giãn dài tương đối nhỏ nhất, % — dọc — cho chiều dày danh nghĩa, mm — ≤ 40": "22",
+      "Độ giãn dài tương đối nhỏ nhất, % — ngang — cho chiều dày danh nghĩa, mm — ≤ 40": "20"
+    },
+    {
+      "_row_id": 4,
+      "Ký hiệu loại thép": "S355J0H",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "355",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "345",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — < 3": "510÷680",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 40": "490÷630",
+      "Độ giãn dài tương đối nhỏ nhất, % — dọc — cho chiều dày danh nghĩa, mm — ≤ 40": "22",
+      "Độ giãn dài tương đối nhỏ nhất, % — ngang — cho chiều dày danh nghĩa, mm — ≤ 40": "20"
+    },
+    {
+      "_row_id": 5,
+      "Ký hiệu loại thép": "S355J2H",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "355",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "345",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — < 3": "510÷680",
+      "Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 40": "490÷630",
+      "Độ giãn dài tương đối nhỏ nhất, % — dọc — cho chiều dày danh nghĩa, mm — ≤ 40": "22",
+      "Độ giãn dài tương đối nhỏ nhất, % — ngang — cho chiều dày danh nghĩa, mm — ≤ 40": "20"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Để có thêm thông tin đầy đủ, xem TCVN 11228-1:2015 (ISO 12633-1:2011)."
+  }
+}

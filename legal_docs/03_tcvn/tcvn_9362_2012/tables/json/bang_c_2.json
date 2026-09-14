@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_c_2",
+  "table_number": "C.2",
+  "table_title": "Bảng C.2 - Hệ số M",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Các giới hạn của tỷ số m' = 2 X H/bm' = 2 X H/r",
+    "Hệ số M"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Các giới hạn của tỷ số m' = 2 X H/bm' = 2 X H/r": "0< m’ ≤0,5",
+      "Hệ số M": "1,0"
+    },
+    {
+      "_row_id": 2,
+      "Các giới hạn của tỷ số m' = 2 X H/bm' = 2 X H/r": "0,5< m’ ≤1",
+      "Hệ số M": "0,95"
+    },
+    {
+      "_row_id": 3,
+      "Các giới hạn của tỷ số m' = 2 X H/bm' = 2 X H/r": "1<m’ ≤2",
+      "Hệ số M": "0,90"
+    },
+    {
+      "_row_id": 4,
+      "Các giới hạn của tỷ số m' = 2 X H/bm' = 2 X H/r": "2< m’ ≤3",
+      "Hệ số M": "0,80"
+    },
+    {
+      "_row_id": 5,
+      "Các giới hạn của tỷ số m' = 2 X H/bm' = 2 X H/r": "3< m’ ≤5",
+      "Hệ số M": "0,75"
+    }
+  ],
+  "footnotes": []
+}

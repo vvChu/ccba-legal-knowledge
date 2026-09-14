@@ -1,0 +1,88 @@
+{
+  "table_id": "bang_h",
+  "table_number": "H",
+  "table_title": "Bảng H - 1 (tiếp theo)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Sơ đồ cấu kiện và vị trí của tiết diện tính toán",
+    "Đặc điểm của cấu kiện",
+    "Nhóm cấu kiện"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "10\n$\\le 1:5$",
+      "Đặc điểm của cấu kiện": "Đường hàn đối đầu không gia công; các cấu kiện được hàn có chiều rộng khác nhau hoặc chiều dày khác nhau",
+      "Nhóm cấu kiện": "5"
+    },
+    {
+      "_row_id": 2,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "11\n$\\text{a) } \\vert  a \\quad \\le 1:4 \\quad \\vert  a \\qquad \\text{b) } \\vert  a \\quad \\vert  a \\quad \\le 1:1$",
+      "Đặc điểm của cấu kiện": "Thép cơ bản tại chỗ chuyển tiếp tới vị trí đường hàn đối đầu được gia công cơ khí loại bỏ phần đường hàn dày lên:\na) Khi nối các cấu kiện có chiều dày và chiều rộng như nhau\nb) Khi nối các cấu kiện có chiều dày và chiều rộng khác nhau",
+      "Nhóm cấu kiện": "2\n3"
+    },
+    {
+      "_row_id": 3,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "12",
+      "Đặc điểm của cấu kiện": "Liên kết hàn đối đầu:\na) Cấu kiện tấm có dùng bản lót ở dưới (lực vuông góc với đường hàn)\nb) Các thép ống có dùng đoạn ống lót ở trong\nc) Các thép cán định hình",
+      "Nhóm cấu kiện": "4\n4\n4"
+    },
+    {
+      "_row_id": 4,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "13\n$\\text{Hình vẽ kỹ thuật (dầm I và sơ đồ)}$",
+      "Đặc điểm của cấu kiện": "Tiết diện tổ hợp hàn chữ I, chữ T, hoặc các loại tiết diện khác được hàn bằng các đường hàn dọc liên tục khi có tác dụng của lực dọc theo trục đường hàn",
+      "Nhóm cấu kiện": "2"
+    },
+    {
+      "_row_id": 5,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "14\n$\\text{Không có công thức toán học trong hình ảnh này.}$",
+      "Đặc điểm của cấu kiện": "Thép cơ bản với các chi tiết phụ được liên kết bằng đường hàn dọc khi góc:\nα ≤ 45°\n45° < α ≤ 90°",
+      "Nhóm cấu kiện": "4\n7"
+    },
+    {
+      "_row_id": 6,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "15\n$\\text{Hình vẽ kỹ thuật (không chứa công thức toán học)}$",
+      "Đặc điểm của cấu kiện": "Vết đứt cánh không gia công cơ khí đường hàn ngang (góc đầu)",
+      "Nhóm cấu kiện": "7"
+    },
+    {
+      "_row_id": 7,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "16\n$Hình ảnh bạn cung cấp là một hình vẽ kỹ thuật minh họa mối hàn góc (không chứa công thức toán học). Do đó không có biểu thức LaTeX nào được trích xuất từ hình ảnh này.$",
+      "Đặc điểm của cấu kiện": "Thép cơ bản có đường hàn ngang; đường hàn hai bên có chỗ chuyển tiếp thoải dần đến thép cơ bản",
+      "Nhóm cấu kiện": "4"
+    },
+    {
+      "_row_id": 8,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "17\n$a - a$",
+      "Đặc điểm của cấu kiện": "Thép cơ bản của cánh chịu kéo của dầm và của các thanh giàn gần vách cứng và sườn cứng được hàn bằng các đường hàn góc",
+      "Nhóm cấu kiện": "5"
+    },
+    {
+      "_row_id": 9,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "18\n$\\text{Hình ảnh minh họa kết cấu hàn}$",
+      "Đặc điểm của cấu kiện": "Thép cơ bản ở chỗ chuyển tiếp đến đường hàn ngang (góc đầu)",
+      "Nhóm cấu kiện": "6\n5"
+    },
+    {
+      "_row_id": 10,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "19",
+      "Đặc điểm của cấu kiện": "Thép cơ bản trong liên kết dùng đường hàn góc cạnh (tại chỗ chuyển tiếp từ cấu kiện đến đầu mút đường hàn góc cạnh):\na) với hai đường hàn góc cạnh\nb) với đường hàn góc cạnh và góc đầu\nc) khi truyền lực thông qua thép cơ bản\nd) để hàn má neo giữ cáp",
+      "Nhóm cấu kiện": "8\n7\n7\n8"
+    },
+    {
+      "_row_id": 11,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "20\n$\\text{Hình minh họa kết cấu hàn}$",
+      "Đặc điểm của cấu kiện": "Thép cơ bản của các thanh ống xiên chịu kéo khi tỷ số giữa chiều dày và đường kính ngoài của ống làm thanh cánh:\n$t_{m}$ /$d_{m}$ ≥ 1/14\n1 20 ≤ $t_{m}$/$d_{m}$ < 1/14",
+      "Nhóm cấu kiện": "7\n8"
+    },
+    {
+      "_row_id": 12,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "21\n$\\text{Hình ảnh minh họa kết cấu ống}$\nα = 45° ÷ 60°",
+      "Đặc điểm của cấu kiện": "Thép cơ bản của thanh xiên ống chịu kéo khi tỷ số giữa các đường kính của thanh xiên và thanh cánh $d_{d}$/$d_{m}$ = 0, 4 ÷ 0, 7 và tỷ số giữa chiều dày và đường kính ngoài của ống làm thanh cánh:\n$t_{m}$/$d_{m}$ ≥ 1/14\n1 20 ≤ $t_{m}$/$d_{m}$ < 1/14\n1 35 ≤ $t_{m}$/$d_{m}$ < 1/20",
+      "Nhóm cấu kiện": "6\n7\n8"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Nhóm cấu kiện xem Bảng 37."
+  }
+}

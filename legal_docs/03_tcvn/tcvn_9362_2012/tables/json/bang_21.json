@@ -1,0 +1,263 @@
+{
+  "table_id": "bang_21",
+  "table_number": "21",
+  "table_title": "Bảng 21 - Áp lực tính toán trên đất đắp lại",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại trụ điện",
+    "Độ chôn tương đổi của móng trụ h/d",
+    "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55",
+    "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70",
+    "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55",
+    "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại trụ điện": "1",
+      "Độ chôn tương đổi của móng trụ h/d": "2",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "3",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "4",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "5",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "6"
+    },
+    {
+      "_row_id": 2,
+      "Loại trụ điện": "1. Trụ thẳng, trung",
+      "Độ chôn tương đổi của móng trụ h/d": "0,8",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "32",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "36",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "32",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "40"
+    },
+    {
+      "_row_id": 3,
+      "Loại trụ điện": "gian, Ioại bình",
+      "Độ chôn tương đổi của móng trụ h/d": "0,8",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "36",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "40",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "40",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "48"
+    },
+    {
+      "_row_id": 4,
+      "Loại trụ điện": "thường",
+      "Độ chôn tương đổi của móng trụ h/d": "",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": ""
+    },
+    {
+      "_row_id": 5,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "1",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "40",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "40",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "40",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "50"
+    },
+    {
+      "_row_id": 6,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "1",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "45",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "50",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "50",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "60"
+    },
+    {
+      "_row_id": 7,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "1,5",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "50",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "60",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "50",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "60"
+    },
+    {
+      "_row_id": 8,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "1,5",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "55",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "65",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "60",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "75"
+    },
+    {
+      "_row_id": 9,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "2,0",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "60",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "85",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "70",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "85"
+    },
+    {
+      "_row_id": 10,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "2,0",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "70",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "105",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "80",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "105"
+    },
+    {
+      "_row_id": 11,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "2,5",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "100",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "100"
+    },
+    {
+      "_row_id": 12,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "2,5",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "120",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "120"
+    },
+    {
+      "_row_id": 13,
+      "Loại trụ điện": "2. Trụ neo bình",
+      "Độ chôn tương đổi của móng trụ h/d": "0,8",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "24",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "32",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "28",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "36"
+    },
+    {
+      "_row_id": 14,
+      "Loại trụ điện": "thường và neo góc",
+      "Độ chôn tương đổi của móng trụ h/d": "0,8",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "28",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "36",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "32",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "40"
+    },
+    {
+      "_row_id": 15,
+      "Loại trụ điện": "có kéo Iệch và",
+      "Độ chôn tương đổi của móng trụ h/d": "",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": ""
+    },
+    {
+      "_row_id": 16,
+      "Loại trụ điện": "không kéo Iệch, trụ",
+      "Độ chôn tương đổi của móng trụ h/d": "1",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "30",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "40",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "35",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "45"
+    },
+    {
+      "_row_id": 17,
+      "Loại trụ điện": "trung gian ở góc và",
+      "Độ chôn tương đổi của móng trụ h/d": "1",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "35",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "45",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "40",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "50"
+    },
+    {
+      "_row_id": 18,
+      "Loại trụ điện": "trụ vòng, giả thiết bị",
+      "Độ chôn tương đổi của móng trụ h/d": "1,5",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "40",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "50",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "45",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "55"
+    },
+    {
+      "_row_id": 19,
+      "Loại trụ điện": "phân phối điện",
+      "Độ chôn tương đổi của móng trụ h/d": "1,5",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "45",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "55",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "50",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "60"
+    },
+    {
+      "_row_id": 20,
+      "Loại trụ điện": "ngoài trời",
+      "Độ chôn tương đổi của móng trụ h/d": "2,0",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "50",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "65",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "55",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "65"
+    },
+    {
+      "_row_id": 21,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "2,0",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "55",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "70",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "60",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "70"
+    },
+    {
+      "_row_id": 22,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "2,5",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "70",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "75"
+    },
+    {
+      "_row_id": 23,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "2,5",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "80",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "80"
+    },
+    {
+      "_row_id": 24,
+      "Loại trụ điện": "3. Trụ đặc biệt",
+      "Độ chôn tương đổi của móng trụ h/d": "0,8",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "28",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "28"
+    },
+    {
+      "_row_id": 25,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "1,0",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "35",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "35"
+    },
+    {
+      "_row_id": 26,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "1,5",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "45",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "45"
+    },
+    {
+      "_row_id": 27,
+      "Loại trụ điện": "",
+      "Độ chôn tương đổi của móng trụ h/d": "2,0",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "55",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,55": "-",
+      "Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\\gamma _{d}^{tc}$, T/m³ — 1,70": "55"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH 1:** Tử số Ià trị R đối với móng hình nấm cũng như đối với bản neo của trụ có dây chằng chôn trong đất. Mẫu số Ià đối với bản neo có trụ tựa kiểu khớp trên móng.",
+    "fn_2": "**CHÚ THÍCH 2:** Với những trị trung gian về độ chôn sâu tương đối h/d thì R xác định bằng nội suy."
+  }
+}

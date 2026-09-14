@@ -1,0 +1,396 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 5575 2024
+total_figures: 48
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Các sơ đồ hệ kết cấu thép
+  annex: M
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  slug: '2'
+  tag: '2'
+  title: Các lỗ xếp so le và các đường phá hoại tới hạn 1 và 2
+  annex: C
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_3
+  slug: '3'
+  tag: '3'
+  title: Thép góc có lỗ ở hai cánh
+  annex: C
+  anchor: hinh-3
+  image_relpath: figures/images/hinh_3.png
+  has_image: true
+- figure_id: FIG_4
+  slug: '4'
+  tag: '4'
+  title: Các dạng tiết diện hờ chữ Π
+  annex: D
+  anchor: hinh-4
+  image_relpath: figures/images/hinh_4.png
+  has_image: true
+- figure_id: FIG_5
+  slug: '5'
+  tag: '5'
+  title: Các sơ đồ hệ thanh bụng của cấu kiện tiết diện rỗng
+  annex: D
+  anchor: hinh-5
+  image_relpath: figures/images/hinh_5.png
+  has_image: true
+- figure_id: FIG_6
+  slug: '6'
+  tag: '6'
+  title: Cấu kiện tiết diện rỗng có bản giằng
+  annex: D
+  anchor: hinh-6
+  image_relpath: figures/images/hinh_6.png
+  has_image: true
+- figure_id: FIG_7
+  slug: '7'
+  tag: '7'
+  title: Kích thước tính toán của bản bụng, phần vươn cánh và bản cánh
+  annex: D
+  anchor: hinh-7
+  image_relpath: figures/images/hinh_7.png
+  has_image: true
+- figure_id: FIG_8
+  slug: '8'
+  tag: '8'
+  title: Các sơ đồ phân bố tải trọng tập trung lên bản bụng dầm
+  annex: D
+  anchor: hinh-8
+  image_relpath: figures/images/hinh_8.png
+  has_image: true
+- figure_id: FIG_9
+  slug: '9'
+  tag: '9'
+  title: Các sơ đồ tiết diện dầm với các nội lực tác dụng
+  annex: D
+  anchor: hinh-9
+  image_relpath: figures/images/hinh_9.png
+  has_image: true
+- figure_id: FIG_10
+  slug: '10'
+  tag: '10'
+  title: Sơ đồ đoạn dầm được tăng cứng bằng các sườn cứng ngang
+  annex: E
+  anchor: hinh-10
+  image_relpath: figures/images/hinh_10.png
+  has_image: true
+- figure_id: FIG_11
+  slug: '11'
+  tag: '11'
+  title: Sơ đồ dầm được tăng cứng bằng các sườn cứng dọc và ngang
+  annex: E
+  anchor: hinh-11
+  image_relpath: figures/images/hinh_11.png
+  has_image: true
+- figure_id: FIG_12
+  slug: '12'
+  tag: '12'
+  title: Sơ đồ dầm được tăng cứng bằng các sườn cứng ngang, sườn cứng dọc và sườn
+    cứng ngang trung gian
+  annex: E
+  anchor: hinh-12
+  image_relpath: figures/images/hinh_12.png
+  has_image: true
+- figure_id: FIG_13
+  slug: '13'
+  tag: '13'
+  title: Sơ đồ bố trí sườn cứng gối tựa
+  annex: K
+  anchor: hinh-13
+  image_relpath: figures/images/hinh_13.png
+  has_image: true
+- figure_id: FIG_14
+  slug: '14'
+  tag: '14'
+  title: Sơ đồ cấu kiện tiết diện rỗng có hai nhánh đặc
+  annex: D
+  anchor: hinh-14
+  image_relpath: figures/images/hinh_14.png
+  has_image: true
+- figure_id: FIG_15
+  slug: '15'
+  tag: '15'
+  title: Sơ đồ xác định chiều dài tính toán của các thanh chịu nén trong hệ thanh
+    bụng của giàn (các ký hiệu xem trong Bảng 25)
+  annex: D
+  anchor: hinh-15
+  image_relpath: figures/images/hinh_15.png
+  has_image: true
+- figure_id: FIG_16
+  slug: '16'
+  tag: '16'
+  title: Các sơ đồ xác định chiều dài tính toán của các thanh
+  annex: D
+  anchor: hinh-16
+  image_relpath: figures/images/hinh_16.png
+  has_image: true
+- figure_id: FIG_17
+  slug: '17'
+  tag: '17'
+  title: Các sơ đồ kết cấu không gian rỗng
+  annex: G
+  anchor: hinh-17
+  image_relpath: figures/images/hinh_17.png
+  has_image: true
+- figure_id: FIG_18
+  slug: '18'
+  tag: '18'
+  title: Sơ đồ vỏ tròn xoay
+  annex: A
+  anchor: hinh-18
+  image_relpath: figures/images/hinh_18.png
+  has_image: true
+- figure_id: FIG_19
+  slug: '19'
+  tag: '19'
+  title: Sơ đồ vỏ nón tròn xoay
+  annex: A
+  anchor: hinh-19
+  image_relpath: figures/images/hinh_19.png
+  has_image: true
+- figure_id: FIG_20
+  slug: '20'
+  tag: '20'
+  title: Sơ đồ vỏ nón tròn xoay chịu lực nén dọc trục
+  annex: A
+  anchor: hinh-20
+  image_relpath: figures/images/hinh_20.png
+  has_image: true
+- figure_id: FIG_21
+  slug: '21'
+  tag: '21'
+  title: Liên kết chữ T và liên kết góc có thể xuất hiện các vết nứt tách lớp trong
+    kim loại cơ bản
+  annex: H
+  anchor: hinh-21
+  image_relpath: figures/images/hinh_21.png
+  has_image: true
+- figure_id: FIG_22
+  slug: '22'
+  tag: '22'
+  title: Sơ đồ đường hàn góc gián đoạn
+  annex: A
+  anchor: hinh-22
+  image_relpath: figures/images/hinh_22.png
+  has_image: true
+- figure_id: FIG_23
+  slug: '23'
+  tag: '23'
+  title: Sơ đồ tiết diện tính toán liên kết hàn dùng đường hàn góc
+  annex: A
+  anchor: hinh-23
+  image_relpath: figures/images/hinh_23.png
+  has_image: true
+- figure_id: FIG_24
+  slug: '24'
+  tag: '24'
+  title: Sơ đồ tính toán liên kết hàn
+  annex: A
+  anchor: hinh-24
+  image_relpath: figures/images/hinh_24.png
+  has_image: true
+- figure_id: FIG_25
+  slug: '25'
+  tag: '25'
+  title: Phân loại liên kết mặt bích theo ứng suất tác dụng tại vùng gần mặt bích
+  annex: A
+  anchor: hinh-25
+  image_relpath: figures/images/hinh_25.png
+  has_image: true
+- figure_id: FIG_26
+  slug: '26'
+  tag: '26'
+  title: Sơ đồ xà ngang có hệ thanh bụng tam giác
+  annex: C
+  anchor: hinh-26
+  image_relpath: figures/images/hinh_26.png
+  has_image: true
+- figure_id: FIG_27
+  slug: '27'
+  tag: '27'
+  title: Xác định độ lệch tâm của lực dọc
+  annex: E
+  anchor: hinh-27
+  image_relpath: figures/images/hinh_27.png
+  has_image: true
+- figure_id: FIG_28
+  slug: '28'
+  tag: '28'
+  title: Quan hệ  trong đường hàn
+  annex: E
+  anchor: hinh-28
+  image_relpath: figures/images/hinh_28.png
+  has_image: true
+- figure_id: FIG_B_1
+  slug: b_1
+  tag: B.1
+  title: Biểu đồ tính toán tổng quát sự làm việc chịu kéo và chịu nén của thép xây
+    dựng
+  annex: B
+  anchor: hinh-b_1
+  image_relpath: figures/images/hinh_b_1.png
+  has_image: true
+- figure_id: FIG_D_1
+  slug: d_1
+  tag: D.1
+  title: Sơ đồ tiết diện cấu kiện được liên kết dọc theo cánh
+  annex: D
+  anchor: hinh-d_1
+  image_relpath: figures/images/hinh_d_1.png
+  has_image: true
+- figure_id: FIG_F_1
+  slug: f_1
+  tag: F.1
+  title: Sơ đồ tiết diện chữ I có một trục đối xứng
+  annex: D
+  anchor: hinh-f_1
+  image_relpath: figures/images/hinh_f_1.png
+  has_image: true
+- figure_id: FIG_G_1
+  slug: g_1
+  tag: G.1
+  title: Sơ đồ cột hai bậc và sơ đồ chất tải quy ước
+  annex: G
+  anchor: hinh-g_1
+  image_relpath: figures/images/hinh_g_1.png
+  has_image: true
+- figure_id: FIG_I_1
+  slug: i_1
+  tag: I.1
+  title: Sơ đồ tính toán ổn định cục bộ thành bụng của các thanh làm bằng thép định
+    hình uốn hàn
+  annex: I
+  anchor: hinh-i_1
+  image_relpath: figures/images/hinh_i_1.png
+  has_image: true
+- figure_id: FIG_I_2
+  slug: i_2
+  tag: I.2
+  title: Nút giàn thép định hình uốn hàn
+  annex: I
+  anchor: hinh-i_2
+  image_relpath: figures/images/hinh_i_2.png
+  has_image: true
+- figure_id: FIG_I_3
+  slug: i_3
+  tag: I.3
+  title: Đồ thị để xác định giá trị hệ số k phụ thuộc vào độ mỏng thành tương đối
+    của thanh cánh
+  annex: I
+  anchor: hinh-i_3
+  image_relpath: figures/images/hinh_i_3.png
+  has_image: true
+- figure_id: FIG_I_4
+  slug: i_4
+  tag: I.4
+  title: Nút giằng thép định hình uốn hàn
+  annex: I
+  anchor: hinh-i_4
+  image_relpath: figures/images/hinh_i_4.png
+  has_image: true
+- figure_id: FIG_I_5
+  slug: i_5
+  tag: I.5
+  title: Các dạng nút giao thép chữ H với thép hộp chữ nhật uốn hàn
+  annex: I
+  anchor: hinh-i_5
+  image_relpath: figures/images/hinh_i_5.png
+  has_image: true
+- figure_id: FIG_I_6
+  slug: i_6
+  tag: I.6
+  title: Các dạng nút giàn thép chữ H
+  annex: I
+  anchor: hinh-i_6
+  image_relpath: figures/images/hinh_i_6.png
+  has_image: true
+- figure_id: FIG_I_7
+  slug: i_7
+  tag: I.7
+  title: Nút của giàn được gia cường/bằng các bản nghiêng
+  annex: I
+  anchor: hinh-i_7
+  image_relpath: figures/images/hinh_i_7.png
+  has_image: true
+- figure_id: FIG_I_8
+  slug: i_8
+  tag: I.8
+  title: Chi tiết hàn “mũi” thép định hình uốn hàn
+  annex: I
+  anchor: hinh-i_8
+  image_relpath: figures/images/hinh_i_8.png
+  has_image: true
+- figure_id: FIG_I_9
+  slug: i_9
+  tag: I.9
+  title: Các sơ đồ tiết diện đường hàn trong nút liên kết hai ống
+  annex: I
+  anchor: hinh-i_9
+  image_relpath: figures/images/hinh_i_9.png
+  has_image: true
+- figure_id: FIG_I_10
+  slug: i_10
+  tag: I.10
+  title: Các đồ thị để xác định tổng chiều dài đoạn đường hàn gót Lwh và tổng chiều
+    dài đoạn đường hàn mũi Lwt trong liên kết hai ống thép
+  annex: I
+  anchor: hinh-i_10
+  image_relpath: figures/images/hinh_i_10.png
+  has_image: true
+- figure_id: FIG_I_11
+  slug: i_11
+  tag: I.11
+  title: Các đồ thị để xác định các hệ số Lwfh/Lwh và Lwft/ Lwt khi cắt ống
+  annex: I
+  anchor: hinh-i_11
+  image_relpath: figures/images/hinh_i_11.png
+  has_image: true
+- figure_id: FIG_I_12
+  slug: i_12
+  tag: I.12
+  title: Nút giàn thép ống
+  annex: I
+  anchor: hinh-i_12
+  image_relpath: figures/images/hinh_i_12.png
+  has_image: true
+- figure_id: FIG_I_13
+  slug: i_13
+  tag: I.13
+  title: Nút kết cấu không gian rỗng làm bằng thép ống
+  annex: I
+  anchor: hinh-i_13
+  image_relpath: figures/images/hinh_i_13.png
+  has_image: true
+- figure_id: FIG_I_14
+  slug: i_14
+  tag: I.14
+  title: Nút giao không/bản mã có các thanh bụng giao nhau
+  annex: I
+  anchor: hinh-i_14
+  image_relpath: figures/images/hinh_i_14.png
+  has_image: true
+- figure_id: FIG_K_1
+  slug: k_1
+  tag: K.1
+  title: Sơ đồ đoạn dầm bụng lỗ
+  annex: K
+  anchor: hinh-k_1
+  image_relpath: figures/images/hinh_k_1.png
+  has_image: true
+- figure_id: FIG_K_2
+  slug: k_2
+  tag: K.2
+  title: Sơ đồ dầm bụng mảnh
+  annex: K
+  anchor: hinh-k_2
+  image_relpath: figures/images/hinh_k_2.png
+  has_image: true

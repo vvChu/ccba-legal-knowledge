@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Phân loại lưu lượng giao thông",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại lưu lượng giao thông",
+    "Số lượng xe/giờ 1) — Đường một làn",
+    "Số lượng xe/giờ 1) — Đường hai làn"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại lưu lượng giao thông": "Cao",
+      "Số lượng xe/giờ 1) — Đường một làn": "> 1 500",
+      "Số lượng xe/giờ 1) — Đường hai làn": "> 400"
+    },
+    {
+      "_row_id": 2,
+      "Loại lưu lượng giao thông": "Trung bình",
+      "Số lượng xe/giờ 1) — Đường một làn": "≥ 500; ≤ 1 500",
+      "Số lượng xe/giờ 1) — Đường hai làn": "≥ 100; ≤ 400"
+    },
+    {
+      "_row_id": 3,
+      "Loại lưu lượng giao thông": "Thấp",
+      "Số lượng xe/giờ 1) — Đường một làn": "< 500",
+      "Số lượng xe/giờ 1) — Đường hai làn": "< 100"
+    },
+    {
+      "_row_id": 4,
+      "Loại lưu lượng giao thông": "**1) Số lượng xe theo giờ trên mỗi làn trong giờ cao điểm.**",
+      "Số lượng xe/giờ 1) — Đường một làn": "",
+      "Số lượng xe/giờ 1) — Đường hai làn": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Trên các đường không phân làn, số lượng phương tiện mỗi giờ trên mỗi làn có thể được tính bằng cách chia giá trị giờ cao điểm cho tổng số làn. Nếu phân chia hướng giao thông thực tế không được biết trên các tuyến đường hai chiều, có thể giả định rằng trường hợp xấu nhất, chiều lớn chiếm hai phần ba lưu lượng giao thông. Lưu lượng xe sau đó được chia cho số làn đường của con đường này."
+  }
+}

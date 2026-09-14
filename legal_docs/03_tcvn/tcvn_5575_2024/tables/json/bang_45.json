@@ -1,0 +1,49 @@
+{
+  "table_id": "bang_45",
+  "table_number": "45",
+  "table_title": "Bảng 45 - Hệ số ma sát μ và hệ số $\\gamma_{h}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Phương pháp gia công (làm sạch) bề mặt được liên kết",
+    "Hệ số ma sát μ",
+    "Hệ số $\\gamma_{h}$ khi kiểm soát lực siết bu lông bằng mô men siết và chênh lệch giữa đường kính danh định của lỗ và bu lông δ, mm, khi có tải trọng — động và δ = (3 đến 6); tĩnh và δ = (5 đến 6)",
+    "Hệ số $\\gamma_{h}$ khi kiểm soát lực siết bu lông bằng mô men siết và chênh lệch giữa đường kính danh định của lỗ và bu lông δ, mm, khi có tải trọng — động và δ = 1; tĩnh và δ = (1 đến 4)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Phương pháp gia công (làm sạch) bề mặt được liên kết": "1. Phun cát thạch anh hoặc bột kim loại, không có lớp bảo vệ bề mặt",
+      "Hệ số ma sát μ": "0,58",
+      "Hệ số $\\gamma_{h}$ khi kiểm soát lực siết bu lông bằng mô men siết và chênh lệch giữa đường kính danh định của lỗ và bu lông δ, mm, khi có tải trọng — động và δ = (3 đến 6); tĩnh và δ = (5 đến 6)": "1,35",
+      "Hệ số $\\gamma_{h}$ khi kiểm soát lực siết bu lông bằng mô men siết và chênh lệch giữa đường kính danh định của lỗ và bu lông δ, mm, khi có tải trọng — động và δ = 1; tĩnh và δ = (1 đến 4)": "1,12"
+    },
+    {
+      "_row_id": 2,
+      "Phương pháp gia công (làm sạch) bề mặt được liên kết": "2. Bằng ngọn lửa hơi đốt, không có lớp bảo vệ bề mặt",
+      "Hệ số ma sát μ": "0,42",
+      "Hệ số $\\gamma_{h}$ khi kiểm soát lực siết bu lông bằng mô men siết và chênh lệch giữa đường kính danh định của lỗ và bu lông δ, mm, khi có tải trọng — động và δ = (3 đến 6); tĩnh và δ = (5 đến 6)": "1,35",
+      "Hệ số $\\gamma_{h}$ khi kiểm soát lực siết bu lông bằng mô men siết và chênh lệch giữa đường kính danh định của lỗ và bu lông δ, mm, khi có tải trọng — động và δ = 1; tĩnh và δ = (1 đến 4)": "1,12"
+    },
+    {
+      "_row_id": 3,
+      "Phương pháp gia công (làm sạch) bề mặt được liên kết": "3. Bằng bàn chải sắt, không có lớp bảo vệ bề mặt",
+      "Hệ số ma sát μ": "0,35",
+      "Hệ số $\\gamma_{h}$ khi kiểm soát lực siết bu lông bằng mô men siết và chênh lệch giữa đường kính danh định của lỗ và bu lông δ, mm, khi có tải trọng — động và δ = (3 đến 6); tĩnh và δ = (5 đến 6)": "1,35",
+      "Hệ số $\\gamma_{h}$ khi kiểm soát lực siết bu lông bằng mô men siết và chênh lệch giữa đường kính danh định của lỗ và bu lông δ, mm, khi có tải trọng — động và δ = 1; tĩnh và δ = (1 đến 4)": "1,17"
+    },
+    {
+      "_row_id": 4,
+      "Phương pháp gia công (làm sạch) bề mặt được liên kết": "4. Không gia công bề mặt",
+      "Hệ số ma sát μ": "0,25",
+      "Hệ số $\\gamma_{h}$ khi kiểm soát lực siết bu lông bằng mô men siết và chênh lệch giữa đường kính danh định của lỗ và bu lông δ, mm, khi có tải trọng — động và δ = (3 đến 6); tĩnh và δ = (5 đến 6)": "1,70",
+      "Hệ số $\\gamma_{h}$ khi kiểm soát lực siết bu lông bằng mô men siết và chênh lệch giữa đường kính danh định của lỗ và bu lông δ, mm, khi có tải trọng — động và δ = 1; tĩnh và δ = (1 đến 4)": "1,30"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Việc sử dụng lớp bảo vệ bề mặt - ma sát phải được chứng minh bằng thử nghiệm.",
+    "fn_2": "CHÚ THÍCH 2: Việc sử dụng lớp bảo vệ bề mặt - ma sát phải được chứng minh bằng thử nghiệm.",
+    "fn_3": "CHÚ THÍCH 2: Việc sử dụng lớp bảo vệ bề mặt - ma sát phải được chứng minh bằng thử nghiệm.",
+    "fn_4": "CHÚ THÍCH 2: Việc sử dụng lớp bảo vệ bề mặt - ma sát phải được chứng minh bằng thử nghiệm.",
+    "fn_5": "**CHÚ THÍCH:** Khi kiểm soát lực siết bu lông bằng góc quay đai ốc, giá trị $\\gamma_{h}$ cần được nhân với 0,9."
+  }
+}

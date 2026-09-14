@@ -1,0 +1,213 @@
+{
+  "table_id": "bang_32",
+  "table_number": "32",
+  "table_title": "Bảng 32 - Hệ số chiều dài tính toán µ của cột tiết diện không đổi trong mặt phẳng khung với tải trọng tác dụng như nhau vào các nút nằm trên cùng một mức cao độ",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Sơ đồ khung",
+    "Hệ số — p",
+    "Hệ số — n",
+    "Hệ số µ"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Sơ đồ khung": "**1. Khung tự do**",
+      "Hệ số — p": "",
+      "Hệ số — n": "",
+      "Hệ số µ": ""
+    },
+    {
+      "_row_id": 2,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "0",
+      "Hệ số — n": "$\\frac{I_s L_c}{I_c L}$",
+      "Hệ số µ": "$...$"
+    },
+    {
+      "_row_id": 3,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "0",
+      "Hệ số — n": "$\\frac{k(n_1 + n_2)}{k + 1}$",
+      "Hệ số µ": "$...$"
+    },
+    {
+      "_row_id": 4,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "∞",
+      "Hệ số — n": "$\\frac{I_s L_c}{I_c L}$",
+      "Hệ số µ": "$\\mu = \\sqrt{\\frac{n + 0,56}{n + 0,14}} \\tag{141}$"
+    },
+    {
+      "_row_id": 5,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "∞",
+      "Hệ số — n": "$\\begin{aligned} &\\frac{k(n_1 + n_2)}{k+1} \\\\ &k \\ge 2 \\end{aligned}$",
+      "Hệ số µ": "$\\mu = \\sqrt{\\frac{n + 0,56}{n + 0,14}} \\tag{141}$"
+    },
+    {
+      "_row_id": 6,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "Tầng trên cùng",
+      "Hệ số — n": "Tầng trên cùng",
+      "Hệ số µ": ""
+    },
+    {
+      "_row_id": 7,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "$\\frac{k(p_1 + p_2)}{k + 1}$",
+      "Hệ số — n": "$\\frac{2k(n_1 + n_2)}{k+1}$",
+      "Hệ số µ": ""
+    },
+    {
+      "_row_id": 8,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "Tầng giữa",
+      "Hệ số — n": "Tầng giữa",
+      "Hệ số µ": ""
+    },
+    {
+      "_row_id": 9,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "$\\frac{k(p_1 + p_2)}{k + 1}$",
+      "Hệ số — n": "$\\frac{k(n_1 + n_2)}{k + 1}$",
+      "Hệ số µ": ""
+    },
+    {
+      "_row_id": 10,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "Tầng dưới cùng",
+      "Hệ số — n": "Tầng dưới cùng",
+      "Hệ số µ": ""
+    },
+    {
+      "_row_id": 11,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "$\\frac{2k(p_1 + p_2)}{k + 1}$",
+      "Hệ số — n": "$\\frac{k(n_1 + n_2)}{k + 1}$",
+      "Hệ số µ": ""
+    },
+    {
+      "_row_id": 12,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "Các trường hợp riêng",
+      "Hệ số — n": "Các trường hợp riêng",
+      "Hệ số µ": ""
+    },
+    {
+      "_row_id": 13,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "0",
+      "Hệ số — n": "≥ 0,03;\n≤ 0,20",
+      "Hệ số µ": "$\\mu = 2,15 \\cdot \\sqrt{\\frac{n + 0,22}{n}}$"
+    },
+    {
+      "_row_id": 14,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "0",
+      "Hệ số — n": "> 0,20",
+      "Hệ số µ": "$\\mu = 2 \\cdot \\sqrt{\\frac{n + 0,28}{n}}$"
+    },
+    {
+      "_row_id": 15,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "≥ 0,03;\n≤ 50",
+      "Hệ số — n": "∞",
+      "Hệ số µ": "$\\mu = \\frac{p + 0,63}{\\sqrt{p(p + 0,9) + 0,1}}$"
+    },
+    {
+      "_row_id": 16,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "∞",
+      "Hệ số — n": "≥ 0,03;\n≤ 0,20",
+      "Hệ số µ": "$\\mu = 1,21 \\cdot \\sqrt{\\frac{n + 0,22}{n + 0,08}}$"
+    },
+    {
+      "_row_id": 17,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "∞",
+      "Hệ số — n": "> 0,20",
+      "Hệ số µ": "$\\mu = \\sqrt{\\frac{n + 0,28}{n}}$"
+    },
+    {
+      "_row_id": 18,
+      "Sơ đồ khung": "**2. Khung không tự do**",
+      "Hệ số — p": "",
+      "Hệ số — n": "",
+      "Hệ số µ": ""
+    },
+    {
+      "_row_id": 19,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "Tầng trên cùng",
+      "Hệ số — n": "Tầng trên cùng",
+      "Hệ số µ": "$\\mu = \\sqrt{\\frac{1 + 0,46(p + n) + 0,18pn}{1 + 0,93(p + n) + 0,71pn}} \\tag{144}$"
+    },
+    {
+      "_row_id": 20,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "0,5 ($p_{1}$ + $p_{2}$)",
+      "Hệ số — n": "$n_{1}$ + $n_{2}$",
+      "Hệ số µ": "$\\mu = \\sqrt{\\frac{1 + 0,46(p + n) + 0,18pn}{1 + 0,93(p + n) + 0,71pn}} \\tag{144}$"
+    },
+    {
+      "_row_id": 21,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "Tầng giữa",
+      "Hệ số — n": "Tầng giữa",
+      "Hệ số µ": "$\\mu = \\sqrt{\\frac{1 + 0,46(p + n) + 0,18pn}{1 + 0,93(p + n) + 0,71pn}} \\tag{144}$"
+    },
+    {
+      "_row_id": 22,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "0,5 ($p_{1}$ + $p_{2}$)",
+      "Hệ số — n": "0,5 ($n_{1}$ + $n_{2}$)",
+      "Hệ số µ": "$\\mu = \\sqrt{\\frac{1 + 0,46(p + n) + 0,18pn}{1 + 0,93(p + n) + 0,71pn}} \\tag{144}$"
+    },
+    {
+      "_row_id": 23,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "Tầng dưới cùng",
+      "Hệ số — n": "Tầng dưới cùng",
+      "Hệ số µ": "$\\mu = \\sqrt{\\frac{1 + 0,46(p + n) + 0,18pn}{1 + 0,93(p + n) + 0,71pn}} \\tag{144}$"
+    },
+    {
+      "_row_id": 24,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "$p_{1}$ + $p_{2}$",
+      "Hệ số — n": "0,5 ($n_{1}$ + $n_{2}$)",
+      "Hệ số µ": "$\\mu = \\sqrt{\\frac{1 + 0,46(p + n) + 0,18pn}{1 + 0,93(p + n) + 0,71pn}} \\tag{144}$"
+    },
+    {
+      "_row_id": 25,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "Các trường hợp riêng",
+      "Hệ số — n": "Các trường hợp riêng",
+      "Hệ số µ": ""
+    },
+    {
+      "_row_id": 26,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "0",
+      "Hệ số — n": "$\\frac{I_s L_c}{I_c L}$",
+      "Hệ số µ": "$\\mu = \\sqrt{\\frac{1 + 0,46n}{1 + 0,93n}}$"
+    },
+    {
+      "_row_id": 27,
+      "Sơ đồ khung": "",
+      "Hệ số — p": "∞",
+      "Hệ số — n": "$\\frac{I_s L_c}{I_c L}$",
+      "Hệ số µ": "$\\mu = \\sqrt{\\frac{1 + 0,39n}{2 + 1,54n}}$"
+    },
+    {
+      "_row_id": 28,
+      "Sơ đồ khung": "**Các ký hiệu trong Bảng 32:\n$I_{s1}$, $I_{s2}$ là các mô men quán tính của tiết diện các xà liên kết với đầu trên của cột được kiểm tra;\n$I_{i1}$, $I_{i2}$ là các mô men quán tính của tiết diện các xà liên kết với đầu dưới của cột được kiểm tra;\n$I_{c}$, $L_{c}$ lần lượt là mô men quán tính của tiết diện và chiều dài của cột được kiểm tra;\nL, $L_{1}$, $L_{2}$ là các nhịp khung;\nk là số nhịp;\n$n_1 = \\frac{I_{s1}L_c}{I_cL_1} ; \\quad n_2 = \\frac{I_{s2}L_c}{I_cL_2} ; \\quad p_1 = \\frac{I_{i1}L_c}{I_cL_1} ; \\quad p_2 = \\frac{I_{i2}L_c}{I_cL_2}$**",
+      "Hệ số — p": "",
+      "Hệ số — n": "",
+      "Hệ số µ": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Đối với cột biên của khung tự do nhiều nhịp thì hệ số µ được xác định với các giá trị p và n như đối với cột của khung một nhịp."
+  }
+}

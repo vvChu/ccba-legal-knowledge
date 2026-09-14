@@ -1,0 +1,42 @@
+{
+  "table_id": "bang_i_4",
+  "table_number": "I.4",
+  "table_title": "Bảng I.4 - Độ mỏng thành tương đối",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Giới hạn chảy của thép $f_{y}$, MPa",
+    "Độ mỏng thành tương đối của — thanh cánh, δ = D/t",
+    "Độ mỏng thành tương đối của — thanh tiếp giáp, $\\delta_{d}$ = d/$t_{d}$ — chịu nén",
+    "Độ mỏng thành tương đối của — thanh tiếp giáp, $\\delta_{d}$ = d/$t_{d}$ — chịu kéo"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Giới hạn chảy của thép $f_{y}$, MPa": "≤ 295",
+      "Độ mỏng thành tương đối của — thanh cánh, δ = D/t": "30",
+      "Độ mỏng thành tương đối của — thanh tiếp giáp, $\\delta_{d}$ = d/$t_{d}$ — chịu nén": "90",
+      "Độ mỏng thành tương đối của — thanh tiếp giáp, $\\delta_{d}$ = d/$t_{d}$ — chịu kéo": "90"
+    },
+    {
+      "_row_id": 2,
+      "Giới hạn chảy của thép $f_{y}$, MPa": "> 295 và ≤ 390",
+      "Độ mỏng thành tương đối của — thanh cánh, δ = D/t": "35",
+      "Độ mỏng thành tương đối của — thanh tiếp giáp, $\\delta_{d}$ = d/$t_{d}$ — chịu nén": "80",
+      "Độ mỏng thành tương đối của — thanh tiếp giáp, $\\delta_{d}$ = d/$t_{d}$ — chịu kéo": "90"
+    },
+    {
+      "_row_id": 3,
+      "Giới hạn chảy của thép $f_{y}$, MPa": "> 390",
+      "Độ mỏng thành tương đối của — thanh cánh, δ = D/t": "40",
+      "Độ mỏng thành tương đối của — thanh tiếp giáp, $\\delta_{d}$ = d/$t_{d}$ — chịu nén": "70",
+      "Độ mỏng thành tương đối của — thanh tiếp giáp, $\\delta_{d}$ = d/$t_{d}$ — chịu kéo": "90"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Đối với các thanh tiếp giáp chịu nén với các giá trị $\\delta_{d}$ nêu trong/bảng I.4 thì không cần kiểm tra ổn định cục bộ của thành của chúng.",
+    "fn_2": "CHÚ THÍCH 2: Đối với các thanh tiếp giáp chịu nén với các giá trị $\\delta_{d}$ nêu trong/bảng I.4 thì không cần kiểm tra ổn định cục bộ của thành của chúng.",
+    "fn_3": "CHÚ THÍCH 2: Đối với các thanh tiếp giáp chịu nén với các giá trị $\\delta_{d}$ nêu trong/bảng I.4 thì không cần kiểm tra ổn định cục bộ của thành của chúng.",
+    "fn_4": "CHÚ THÍCH 2: Đối với các thanh tiếp giáp chịu nén với các giá trị $\\delta_{d}$ nêu trong/bảng I.4 thì không cần kiểm tra ổn định cục bộ của thành của chúng.",
+    "fn_5": "**CHÚ THÍCH:** Các giá trị δ nêu trong/bảng I.4 đối với các thanh cánh là các giá trị định hướng và không loại trừ việc cần kiểm tra độ bền của nút;"
+  }
+}

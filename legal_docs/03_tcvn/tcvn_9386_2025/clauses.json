@@ -1,0 +1,5702 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  YÊU CẦU CHUNG",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 96,
+    "line_end": 96,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-1",
+    "anchor": "muc-1-1",
+    "title": "1.1  Phạm vi áp dụng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 100,
+    "line_end": 100,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-2",
+    "anchor": "muc-1-2",
+    "title": "1.2  Tài liệu viện dẫn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 110,
+    "line_end": 110,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-3",
+    "anchor": "muc-1-3",
+    "title": "1.3  Giả thiết",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 144,
+    "line_end": 144,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-4",
+    "anchor": "muc-1-4",
+    "title": "1.4  Thuật ngữ và định nghĩa",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 164,
+    "line_end": 164,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-5",
+    "anchor": "muc-1-5",
+    "title": "1.5  Ký hiệu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 234,
+    "line_end": 234,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-5-1",
+    "anchor": "muc-1-5-1",
+    "title": "1.5.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 238,
+    "line_end": 238,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-5-2",
+    "anchor": "muc-1-5-2",
+    "title": "1.5.2  Ký hiệu khác trong Điều 2 và Điều 3",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 246,
+    "line_end": 246,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-5-3",
+    "anchor": "muc-1-5-3",
+    "title": "1.5.3  Ký hiệu khác trong Điều 4",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 279,
+    "line_end": 279,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-5-4",
+    "anchor": "muc-1-5-4",
+    "title": "1.5.4  Ký hiệu khác trong Điều 5",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 312,
+    "line_end": 312,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-5-5",
+    "anchor": "muc-1-5-5",
+    "title": "1.5.5  Ký hiệu khác trong Điều 6",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 409,
+    "line_end": 409,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-5-6",
+    "anchor": "muc-1-5-6",
+    "title": "1.5.6  Ký hiệu khác trong Điều 7",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 448,
+    "line_end": 448,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-5-7",
+    "anchor": "muc-1-5-7",
+    "title": "1.5.7  Ký hiệu khác trong Điều 8",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 492,
+    "line_end": 492,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-5-8",
+    "anchor": "muc-1-5-8",
+    "title": "1.5.8  Ký hiệu khác trong Điều 9",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 505,
+    "line_end": 505,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-5-9",
+    "anchor": "muc-1-5-9",
+    "title": "1.5.9  Ký hiệu khác trong Điều 10",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 529,
+    "line_end": 529,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-5-10",
+    "anchor": "muc-1-5-10",
+    "title": "1.5.10  Chữ viết tắt",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 552,
+    "line_end": 552,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-6",
+    "anchor": "muc-1-6",
+    "title": "1.6  Đơn vị",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 562,
+    "line_end": 562,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  YÊU CẦU VỀ TÍNH NĂNG VÀ CÁC TIÊU CHÍ CẦN TUÂN THEO",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 577,
+    "line_end": 577,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-1",
+    "anchor": "muc-2-1",
+    "title": "2.1  Yêu cầu cơ bản",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 581,
+    "line_end": 581,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-2",
+    "anchor": "muc-2-2",
+    "title": "2.2  Tiêu chí cần tuân theo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 609,
+    "line_end": 609,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-2-1",
+    "anchor": "muc-2-2-1",
+    "title": "2.2.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 613,
+    "line_end": 613,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-2-2",
+    "anchor": "muc-2-2-2",
+    "title": "2.2.2  Trạng thái giới hạn cực hạn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 635,
+    "line_end": 635,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-2-3",
+    "anchor": "muc-2-2-3",
+    "title": "2.2.3  Trạng thái hạn chế hư hỏng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 653,
+    "line_end": 653,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-2-4",
+    "anchor": "muc-2-2-4",
+    "title": "2.2.4  Biện pháp cụ thể",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 661,
+    "line_end": 661,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-2-4-1",
+    "anchor": "muc-2-2-4-1",
+    "title": "2.2.4.1  Thiết kế",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 665,
+    "line_end": 665,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-2-4-2",
+    "anchor": "muc-2-2-4-2",
+    "title": "2.2.4.2  Hệ móng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 677,
+    "line_end": 677,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-2-4-3",
+    "anchor": "muc-2-2-4-3",
+    "title": "2.2.4.3  Kế hoạch đảm bảo chất lượng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 685,
+    "line_end": 685,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  ĐIỀU KIỆN NỀN ĐẤT VÀ TÁC ĐỘNG ĐỘNG ĐẤT",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 695,
+    "line_end": 695,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-1",
+    "anchor": "muc-3-1",
+    "title": "3.1  Điều kiện nền đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 699,
+    "line_end": 699,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-1-1",
+    "anchor": "muc-3-1-1",
+    "title": "3.1.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 703,
+    "line_end": 703,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-1-2",
+    "anchor": "muc-3-1-2",
+    "title": "3.1.2  Nhận dạng các loại nền đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 715,
+    "line_end": 715,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-3-1",
+    "anchor": "bang-bang-3-1",
+    "title": "Bảng 3.1 - Các loại nền đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 721,
+    "line_end": 721,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_1",
+    "anchor": "formula-3_1",
+    "title": "$$v_{s,30} = \\frac{30}{\\sum_{i=1}^{N} \\frac{h_i}{v_i}} \\qquad (3.1)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 739,
+    "line_end": 739,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2",
+    "anchor": "muc-3-2",
+    "title": "3.2  Tác động động đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 752,
+    "line_end": 752,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-1",
+    "anchor": "muc-3-2-1",
+    "title": "3.2.1  Vùng động đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 756,
+    "line_end": 756,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-2",
+    "anchor": "muc-3-2-2",
+    "title": "3.2.2  Biểu diễn cơ bản của tác động động đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 776,
+    "line_end": 776,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-2-1",
+    "anchor": "muc-3-2-2-1",
+    "title": "3.2.2.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 780,
+    "line_end": 780,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-2-2",
+    "anchor": "muc-3-2-2-2",
+    "title": "3.2.2.2  Phổ phản ứng đàn hồi theo phương ngang",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 804,
+    "line_end": 804,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_2",
+    "anchor": "formula-3_2",
+    "title": "$$0 \\leq T \\leq T_B : \\qquad S_e(T) = a_g \\cdot S \\cdot \\left[ 1 + \\frac{T}{T_B} (\\eta \\cdot 2,5 - 1) \\right] \\qquad (3.2)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 810,
+    "line_end": 810,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_3",
+    "anchor": "formula-3_3",
+    "title": "$$T_B \\le T \\le T_C : \\qquad S_e(T) = a_g \\cdot S \\cdot \\eta \\cdot 2,5 \\qquad (3.3)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 815,
+    "line_end": 815,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_4",
+    "anchor": "formula-3_4",
+    "title": "$$T_C \\le T \\le T_D : \\qquad S_e(T) = a_g \\cdot S \\cdot \\eta \\cdot 2,5 \\cdot \\left[ \\frac{T_C}{T} \\right] \\qquad (3.4)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 820,
+    "line_end": 820,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_5",
+    "anchor": "formula-3_5",
+    "title": "$$T_D \\le T \\le 4\\text{s} : \\qquad S_e(T) = a_g \\cdot S \\cdot \\eta \\cdot 2,5 \\cdot \\left[ \\frac{T_C T_D}{T^2} \\right] \\qquad (3.5)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 825,
+    "line_end": 825,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-3_1",
+    "anchor": "hinh-3_1",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 844,
+    "line_end": 844,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-3-2",
+    "anchor": "bang-bang-3-2",
+    "title": "Bảng 3.2 - Giá trị của các tham số mô tả phổ phản ứng đàn hồi Loại 1",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 859,
+    "line_end": 859,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-3-3",
+    "anchor": "bang-bang-3-3",
+    "title": "Bảng 3.3 - Giá trị của các tham số mô tả phổ phản ứng đàn hồi Loại 2",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 871,
+    "line_end": 871,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-3_2",
+    "anchor": "hinh-3_2",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 883,
+    "line_end": 883,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-3_3",
+    "anchor": "hinh-3_3",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 894,
+    "line_end": 894,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_6",
+    "anchor": "formula-3_6",
+    "title": "$$\\eta = \\sqrt{10/(5 + \\xi)} \\geq 0,55 \\qquad (3.6)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 909,
+    "line_end": 909,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_7",
+    "anchor": "formula-3_7",
+    "title": "$$S_{De}(T) = S_e(T) \\left[ \\frac{T}{2\\pi} \\right]^2 \\qquad (3.7)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 922,
+    "line_end": 922,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-2-3",
+    "anchor": "muc-3-2-2-3",
+    "title": "3.2.2.3  Phổ phản ứng đàn hồi theo phương đứng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 931,
+    "line_end": 931,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_8",
+    "anchor": "formula-3_8",
+    "title": "$$0 \\le T \\le T_B : \\qquad S_{ve}(T) = a_{vg} \\cdot \\left[ 1 + \\frac{T}{T_B} \\cdot (\\eta \\cdot 3,0 - 1) \\right] \\qquad (3.8)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 937,
+    "line_end": 937,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_9",
+    "anchor": "formula-3_9",
+    "title": "$$T_B \\le T \\le T_C : \\qquad S_{ve}(T) = a_{vg} \\cdot \\eta \\cdot 3,0 \\qquad (3.9)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 942,
+    "line_end": 942,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_10",
+    "anchor": "formula-3_10",
+    "title": "$$T_C \\le T \\le T_D : \\qquad S_{ve}(T) = a_{vg} \\cdot \\eta \\cdot 3,0 \\cdot \\frac{T_C}{T} \\qquad (3.10)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 947,
+    "line_end": 947,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_11",
+    "anchor": "formula-3_11",
+    "title": "$$T_D \\le T \\le 4\\text{s} : \\qquad S_{ve}(T) = a_{vg} \\cdot \\eta \\cdot 3,0 \\cdot \\frac{T_C T_D}{T^2} \\qquad (3.11)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 952,
+    "line_end": 952,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-3-4",
+    "anchor": "bang-bang-3-4",
+    "title": "Bảng 3.4 - Giá trị các tham số mô tả phổ phản ứng đàn hồi theo phương đứng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 959,
+    "line_end": 959,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-2-4",
+    "anchor": "muc-3-2-2-4",
+    "title": "3.2.2.4  Chuyển vị nền thiết kế",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 968,
+    "line_end": 968,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_12",
+    "anchor": "formula-3_12",
+    "title": "$$d_g = 0,025 \\cdot a_g \\cdot S \\cdot T_C \\cdot T_D \\qquad (3.12)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 974,
+    "line_end": 974,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-2-5",
+    "anchor": "muc-3-2-2-5",
+    "title": "3.2.2.5  Phổ thiết kế dùng cho phân tích đàn hồi",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 981,
+    "line_end": 981,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_13",
+    "anchor": "formula-3_13",
+    "title": "$$0 \\le T \\le T_B : \\qquad S_d(T) = a_g \\cdot S \\cdot \\left[ \\frac{2}{3} + \\frac{T}{T_B} \\cdot \\left( \\frac{2,5}{q} - \\frac{2}{3} \\right) \\right] \\qquad (3.13)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 993,
+    "line_end": 993,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_14",
+    "anchor": "formula-3_14",
+    "title": "$$T_B \\leq T \\leq T_C : \\qquad S_d(T) = a_g \\cdot S \\cdot \\frac{2,5}{q} \\qquad (3.14)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 998,
+    "line_end": 998,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_15",
+    "anchor": "formula-3_15",
+    "title": "$$T_C \\le T \\le T_D : \\quad S_d(T) \\begin{cases} = a_g \\cdot S \\cdot \\frac{2,5}{q} \\cdot \\frac{T_C}{T} \\\\ \\ge \\beta \\cdot a_g \\end{cases} \\qquad (3.15)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1003,
+    "line_end": 1003,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_16",
+    "anchor": "formula-3_16",
+    "title": "$$T_D \\le T: \\quad S_d(T) \\begin{cases} = a_g \\cdot S \\cdot \\frac{2,5}{q} \\cdot \\frac{T_C T_D}{T^2} \\\\ \\ge \\beta \\cdot a_g \\end{cases} \\qquad (3.16)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1008,
+    "line_end": 1008,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-3",
+    "anchor": "muc-3-2-3",
+    "title": "3.2.3  Cách biểu diễn khác của tác động động đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1029,
+    "line_end": 1029,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-3-1",
+    "anchor": "muc-3-2-3-1",
+    "title": "3.2.3.1  Biểu diễn theo lịch sử thời gian",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1033,
+    "line_end": 1033,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-3-1-1",
+    "anchor": "muc-3-2-3-1-1",
+    "title": "3.2.3.1.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1037,
+    "line_end": 1037,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-3-1-2",
+    "anchor": "muc-3-2-3-1-2",
+    "title": "3.2.3.1.2  Giản đồ gia tốc nhân tạo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1047,
+    "line_end": 1047,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-3-1-3",
+    "anchor": "muc-3-2-3-1-3",
+    "title": "3.2.3.1.3  Giản đồ gia tốc ghi được hoặc giản đồ gia tốc mô phỏng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1065,
+    "line_end": 1065,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-3-2",
+    "anchor": "muc-3-2-3-2",
+    "title": "3.2.3.2  Mô hình không gian của tác động động đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1075,
+    "line_end": 1075,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-4",
+    "anchor": "muc-3-2-4",
+    "title": "3.2.4  Tổ hợp tác động động đất với các tác động khác",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1083,
+    "line_end": 1083,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3_17",
+    "anchor": "formula-3_17",
+    "title": "$$\\sum G_{k,j} \"+\" \\sum \\psi_{E,i} \\cdot Q_{k,i} \\qquad (3.17)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1105,
+    "line_end": 1105,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-3-5",
+    "anchor": "bang-bang-3-5",
+    "title": "Bảng 3.5 - Các giá trị $\\psi_{2,i}$ đối với nhà",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1119,
+    "line_end": 1119,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  THIẾT KẾ NHÀ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1139,
+    "line_end": 1139,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1143,
+    "line_end": 1143,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-1-1",
+    "anchor": "muc-4-1-1",
+    "title": "4.1.1  Phạm vi áp dụng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1147,
+    "line_end": 1147,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Đặc trưng của nhà chịu động đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1157,
+    "line_end": 1157,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-1",
+    "anchor": "muc-4-2-1",
+    "title": "4.2.1  Nguyên tắc cơ bản của thiết kế sơ bộ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1161,
+    "line_end": 1161,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-1-1",
+    "anchor": "muc-4-2-1-1",
+    "title": "4.2.1.1  Tính đơn giản về kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1183,
+    "line_end": 1183,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-1-2",
+    "anchor": "muc-4-2-1-2",
+    "title": "4.2.1.2  Tính đều đặn, đối xứng và siêu tĩnh",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1189,
+    "line_end": 1189,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-1-3",
+    "anchor": "muc-4-2-1-3",
+    "title": "4.2.1.3  Độ cứng và độ bền theo hai phương",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1203,
+    "line_end": 1203,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-1-4",
+    "anchor": "muc-4-2-1-4",
+    "title": "4.2.1.4  Độ cứng và khả năng chống xoắn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1213,
+    "line_end": 1213,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-1-5",
+    "anchor": "muc-4-2-1-5",
+    "title": "4.2.1.5  Sàn tầng có ứng xử như tấm cứng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1219,
+    "line_end": 1219,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-1-6",
+    "anchor": "muc-4-2-1-6",
+    "title": "4.2.1.6  Có móng phù hợp",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1229,
+    "line_end": 1229,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-2",
+    "anchor": "muc-4-2-2",
+    "title": "4.2.2  Cấu kiện kháng chấn chính và cấu kiện kháng chấn phụ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1239,
+    "line_end": 1239,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-3",
+    "anchor": "muc-4-2-3",
+    "title": "4.2.3  Tiêu chí về tính đều đặn của kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1253,
+    "line_end": 1253,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-3-1",
+    "anchor": "muc-4-2-3-1",
+    "title": "4.2.3.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1257,
+    "line_end": 1257,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-4-1",
+    "anchor": "bang-bang-4-1",
+    "title": "Bảng 4.1 - Các hệ quả của tính đều đặn của kết cấu trong phân tích và thiết kế chịu động đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1275,
+    "line_end": 1275,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-3-2",
+    "anchor": "muc-4-2-3-2",
+    "title": "4.2.3.2  Tiêu chí về tính đều đặn trong mặt bằng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1295,
+    "line_end": 1295,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_1a",
+    "anchor": "formula-4_1a",
+    "title": "$$e_{0x} \\le 0,30 r_{x} \\qquad (4.1a)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1311,
+    "line_end": 1311,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_1b",
+    "anchor": "formula-4_1b",
+    "title": "$$r_{x} \\ge i_{s} \\qquad (4.1b)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1316,
+    "line_end": 1316,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-3-3",
+    "anchor": "muc-4-2-3-3",
+    "title": "4.2.3.3  Tiêu chí về tính đều đặn theo mặt đứng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1341,
+    "line_end": 1341,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-4_1",
+    "anchor": "hinh-4_1",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1353,
+    "line_end": 1353,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-4",
+    "anchor": "muc-4-2-4",
+    "title": "4.2.4  Hệ số tổ hợp của tác động thay đổi",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1372,
+    "line_end": 1372,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_2",
+    "anchor": "formula-4_2",
+    "title": "$$\\psi_{E,i} = φ ∙ \\psi_{2,i} \\qquad (4.2)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1380,
+    "line_end": 1380,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-4-2",
+    "anchor": "bang-bang-4-2",
+    "title": "Bảng 4.2 - Giá trị của φ để tính toán $\\psi_{Ei}$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1387,
+    "line_end": 1387,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-5",
+    "anchor": "muc-4-2-5",
+    "title": "4.2.5  Mức và hệ số tầm quan trọng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1399,
+    "line_end": 1399,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-4-3",
+    "anchor": "bang-bang-4-3",
+    "title": "Bảng 4.3 - Cấp hậu quả",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1411,
+    "line_end": 1411,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Phân tích kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1427,
+    "line_end": 1427,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-1",
+    "anchor": "muc-4-3-1",
+    "title": "4.3.1  Mô hình hóa",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1431,
+    "line_end": 1431,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-2",
+    "anchor": "muc-4-3-2",
+    "title": "4.3.2  Hiệu ứng xoắn ngẫu nhiên",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1459,
+    "line_end": 1459,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_3",
+    "anchor": "formula-4_3",
+    "title": "$$e_{ai} = \\pm 0,05 L_{i} \\qquad (4.3)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1465,
+    "line_end": 1465,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3",
+    "anchor": "muc-4-3-3",
+    "title": "4.3.3  Phương pháp phân tích",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1476,
+    "line_end": 1476,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-1",
+    "anchor": "muc-4-3-3-1",
+    "title": "4.3.3.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1480,
+    "line_end": 1480,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-2",
+    "anchor": "muc-4-3-3-2",
+    "title": "4.3.3.2  Phương pháp phân tích lực ngang",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1526,
+    "line_end": 1526,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-2-1",
+    "anchor": "muc-4-3-3-2-1",
+    "title": "4.3.3.2.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1530,
+    "line_end": 1530,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_4",
+    "anchor": "formula-4_4",
+    "title": "$$T_1 \\leq \\begin{cases} 4T_c \\\\ 2,0 \\text{s} \\end{cases} \\qquad (4.4)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1540,
+    "line_end": 1540,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-2-2",
+    "anchor": "muc-4-3-3-2-2",
+    "title": "4.3.3.2.2  Lực cắt đáy",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1549,
+    "line_end": 1549,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_5",
+    "anchor": "formula-4_5",
+    "title": "$$F_{b} = S_{d} ( T_{1} )∙m∙λ \\qquad (4.5)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1555,
+    "line_end": 1555,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_6",
+    "anchor": "formula-4_6",
+    "title": "$$T_{1} = C_{t} ∙ H ^{3/4} \\qquad (4.6)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1576,
+    "line_end": 1576,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_7",
+    "anchor": "formula-4_7",
+    "title": "$$C_t = \\frac{0,075}{\\sqrt{A_c}} \\qquad (4.7)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1593,
+    "line_end": 1593,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_8",
+    "anchor": "formula-4_8",
+    "title": "$$A_c = \\sum \\left[ A_i \\left( 0,2 + \\left( \\frac{L_{wi}}{H} \\right)^2 \\right) \\right] \\qquad (4.8)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1600,
+    "line_end": 1600,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_9",
+    "anchor": "formula-4_9",
+    "title": "$$T_1 = 2 \\cdot \\sqrt{d} \\qquad (4.9)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1617,
+    "line_end": 1617,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-2-3",
+    "anchor": "muc-4-3-3-2-3",
+    "title": "4.3.3.2.3  Phân bố lực động đất ngang",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1626,
+    "line_end": 1626,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_10",
+    "anchor": "formula-4_10",
+    "title": "$$F_i = F_b \\cdot \\frac{s_i \\cdot m_i}{\\sum s_j \\cdot m_j} \\qquad (4.10)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1634,
+    "line_end": 1634,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_11",
+    "anchor": "formula-4_11",
+    "title": "$$F_i = F_b \\cdot \\frac{z_i \\cdot m_i}{\\sum z_j \\cdot m_j} \\qquad (4.11)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1651,
+    "line_end": 1651,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-2-4",
+    "anchor": "muc-4-3-3-2-4",
+    "title": "4.3.3.2.4  Hệ quả do xoắn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1662,
+    "line_end": 1662,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_12",
+    "anchor": "formula-4_12",
+    "title": "$$δ = 1 + 0,6(x/ L_{e} ) \\qquad (4.12)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1668,
+    "line_end": 1668,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-3",
+    "anchor": "muc-4-3-3-3",
+    "title": "4.3.3.3  Phân tích phổ phản ứng dạng dao động",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1681,
+    "line_end": 1681,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-3-1",
+    "anchor": "muc-4-3-3-3-1",
+    "title": "4.3.3.3.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1685,
+    "line_end": 1685,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_13",
+    "anchor": "formula-4_13",
+    "title": "$$k \\geq 3\\sqrt{n} \\qquad (4.13)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1705,
+    "line_end": 1705,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_14",
+    "anchor": "formula-4_14",
+    "title": "$$T_{k} \\le 0,20 s \\qquad (4.14)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1712,
+    "line_end": 1712,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-3-2",
+    "anchor": "muc-4-3-3-3-2",
+    "title": "4.3.3.3.2  Tổ hợp các phản ứng dạng dao động",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1725,
+    "line_end": 1725,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_15",
+    "anchor": "formula-4_15",
+    "title": "$$T_{j} \\le 0,9 ∙ T_{i} \\qquad (4.15)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1731,
+    "line_end": 1731,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_16",
+    "anchor": "formula-4_16",
+    "title": "$$E_{\\Sigma} = \\sqrt{\\sum E_{\\Sigma i}^2} \\qquad (4.16)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1738,
+    "line_end": 1738,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-3-3",
+    "anchor": "muc-4-3-3-3-3",
+    "title": "4.3.3.3.3  Hệ quả do xoắn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1751,
+    "line_end": 1751,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_17",
+    "anchor": "formula-4_17",
+    "title": "$$M_{ai} = e_{ai} ∙ F_{i} \\qquad (4.17)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1757,
+    "line_end": 1757,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-4",
+    "anchor": "muc-4-3-3-4",
+    "title": "4.3.3.4  Phương pháp phi tuyến",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1772,
+    "line_end": 1772,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-4-1",
+    "anchor": "muc-4-3-3-4-1",
+    "title": "4.3.3.4.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1776,
+    "line_end": 1776,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-4-2",
+    "anchor": "muc-4-3-3-4-2",
+    "title": "4.3.3.4.2  Phân tích tĩnh phi tuyến (đẩy dần)",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1794,
+    "line_end": 1794,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-4-2-1",
+    "anchor": "muc-4-3-3-4-2-1",
+    "title": "4.3.3.4.2.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1798,
+    "line_end": 1798,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-4-2-2",
+    "anchor": "muc-4-3-3-4-2-2",
+    "title": "4.3.3.4.2.2  Tải trọng ngang",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1820,
+    "line_end": 1820,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-4-2-3",
+    "anchor": "muc-4-3-3-4-2-3",
+    "title": "4.3.3.4.2.3  Đường cong khả năng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1832,
+    "line_end": 1832,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-4-2-4",
+    "anchor": "muc-4-3-3-4-2-4",
+    "title": "4.3.3.4.2.4  Hệ số vượt cường độ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1840,
+    "line_end": 1840,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-4-2-5",
+    "anchor": "muc-4-3-3-4-2-5",
+    "title": "4.3.3.4.2.5  Cơ chế dẻo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1846,
+    "line_end": 1846,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-4-2-6",
+    "anchor": "muc-4-3-3-4-2-6",
+    "title": "4.3.3.4.2.6  Chuyển vị mục tiêu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1852,
+    "line_end": 1852,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-4-2-7",
+    "anchor": "muc-4-3-3-4-2-7",
+    "title": "4.3.3.4.2.7  Quy trình xác định hệ quả do xoắn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1860,
+    "line_end": 1860,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-4-3",
+    "anchor": "muc-4-3-3-4-3",
+    "title": "4.3.3.4.3  Phân tích phi tuyến theo lịch sử thời gian",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1872,
+    "line_end": 1872,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-5",
+    "anchor": "muc-4-3-3-5",
+    "title": "4.3.3.5  Tổ hợp các hệ quả của các thành phần tác động động đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1882,
+    "line_end": 1882,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-5-1",
+    "anchor": "muc-4-3-3-5-1",
+    "title": "4.3.3.5.1  Thành phần ngang của tác động động đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1886,
+    "line_end": 1886,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_18",
+    "anchor": "formula-4_18",
+    "title": "$$a) \\qquad (4.18)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1902,
+    "line_end": 1902,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_19",
+    "anchor": "formula-4_19",
+    "title": "$$b) \\qquad (4.19)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1907,
+    "line_end": 1907,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3-5-2",
+    "anchor": "muc-4-3-3-5-2",
+    "title": "4.3.3.5.2  Thành phần đứng của tác động động đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1930,
+    "line_end": 1930,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_20",
+    "anchor": "formula-4_20",
+    "title": "$$a) \\qquad (4.20)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1952,
+    "line_end": 1952,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_21",
+    "anchor": "formula-4_21",
+    "title": "$$b) \\qquad (4.21)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1957,
+    "line_end": 1957,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_22",
+    "anchor": "formula-4_22",
+    "title": "$$c) \\qquad (4.22)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1962,
+    "line_end": 1962,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-4",
+    "anchor": "muc-4-3-4",
+    "title": "4.3.4  Tính toán chuyển vị",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1977,
+    "line_end": 1977,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_23",
+    "anchor": "formula-4_23",
+    "title": "$$d_{s} = q_{d} ∙ d_{c} \\qquad (4.23)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1983,
+    "line_end": 1983,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-5",
+    "anchor": "muc-4-3-5",
+    "title": "4.3.5  Bộ phận phi kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2004,
+    "line_end": 2004,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-5-1",
+    "anchor": "muc-4-3-5-1",
+    "title": "4.3.5.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2008,
+    "line_end": 2008,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-5-2",
+    "anchor": "muc-4-3-5-2",
+    "title": "4.3.5.2  Kiểm tra",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2018,
+    "line_end": 2018,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_24",
+    "anchor": "formula-4_24",
+    "title": "$$F_a = \\frac{S_a \\cdot W_a \\cdot \\gamma_a}{q_a} \\qquad (4.24)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2028,
+    "line_end": 2028,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_25",
+    "anchor": "formula-4_25",
+    "title": "$$S_a = \\alpha \\cdot S \\cdot \\left[ \\frac{3 \\cdot \\left(1 + \\frac{z}{H}\\right)}{1 + \\left(1 - \\frac{T_a}{T_1}\\right)^2} - 0,5 \\right] \\qquad (4.25)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2047,
+    "line_end": 2047,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-5-3",
+    "anchor": "muc-4-3-5-3",
+    "title": "4.3.5.3  Hệ số tầm quan trọng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2068,
+    "line_end": 2068,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-5-4",
+    "anchor": "muc-4-3-5-4",
+    "title": "4.3.5.4  Hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2080,
+    "line_end": 2080,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-4-4",
+    "anchor": "bang-bang-4-4",
+    "title": "Bảng 4.4 - Giá trị $q_{a}$ đối với các bộ phận phi kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2086,
+    "line_end": 2086,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-6",
+    "anchor": "muc-4-3-6",
+    "title": "4.3.6  Biện pháp bổ sung đối với khung có khối xây chèn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2095,
+    "line_end": 2095,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-6-1",
+    "anchor": "muc-4-3-6-1",
+    "title": "4.3.6.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2099,
+    "line_end": 2099,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-6-2",
+    "anchor": "muc-4-3-6-2",
+    "title": "4.3.6.2  Yêu cầu và tiêu chí",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2121,
+    "line_end": 2121,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-6-3",
+    "anchor": "muc-4-3-6-3",
+    "title": "4.3.6.3  Tính không đều đặn do khối xây chèn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2133,
+    "line_end": 2133,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-6-3-1",
+    "anchor": "muc-4-3-6-3-1",
+    "title": "4.3.6.3.1  Tính không đều đặn trong mặt bằng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2137,
+    "line_end": 2137,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-6-3-2",
+    "anchor": "muc-4-3-6-3-2",
+    "title": "4.3.6.3.2  Tính không đều đặn theo mặt đứng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2149,
+    "line_end": 2149,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_26",
+    "anchor": "formula-4_26",
+    "title": "$$\\eta = \\left( 1 + \\frac{\\Delta V_{Rw}}{\\sum V_{Ed}} \\right) \\le \\qquad (4.26)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2157,
+    "line_end": 2157,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-6-4",
+    "anchor": "muc-4-3-6-4",
+    "title": "4.3.6.4  Hạn chế hư hỏng của khối xây chèn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2170,
+    "line_end": 2170,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4",
+    "anchor": "muc-4-4",
+    "title": "4.4  Kiểm tra an toàn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2180,
+    "line_end": 2180,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-1",
+    "anchor": "muc-4-4-1",
+    "title": "4.4.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2184,
+    "line_end": 2184,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-2",
+    "anchor": "muc-4-4-2",
+    "title": "4.4.2  Trạng thái giới hạn cực hạn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2196,
+    "line_end": 2196,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-2-1",
+    "anchor": "muc-4-4-2-1",
+    "title": "4.4.2.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2200,
+    "line_end": 2200,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-2-2",
+    "anchor": "muc-4-4-2-2",
+    "title": "4.4.2.2  Điều kiện về độ bền",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2206,
+    "line_end": 2206,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_27",
+    "anchor": "formula-4_27",
+    "title": "$$E_{d} \\le R_{d} \\qquad (4.27)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2212,
+    "line_end": 2212,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_28",
+    "anchor": "formula-4_28",
+    "title": "$$\\theta = \\frac{P_{\\text{tot}} d_r}{V_{\\text{tot}} h} \\le 0,10 \\qquad (4.28)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2225,
+    "line_end": 2225,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-2-3",
+    "anchor": "muc-4-4-2-3",
+    "title": "4.4.2.3  Điều kiện dẻo cục bộ và tổng thể",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2250,
+    "line_end": 2250,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_29",
+    "anchor": "formula-4_29",
+    "title": "$$\\Sigma M_{Rc} \\ge 1,3 ∙ \\Sigma M_{Rb} \\qquad (4.29)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2262,
+    "line_end": 2262,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-2-4",
+    "anchor": "muc-4-4-2-4",
+    "title": "4.4.2.4  Điều kiện cân bằng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2289,
+    "line_end": 2289,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-2-5",
+    "anchor": "muc-4-4-2-5",
+    "title": "4.4.2.5  Độ bền của các tấm cứng nằm ngang",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2297,
+    "line_end": 2297,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-2-6",
+    "anchor": "muc-4-4-2-6",
+    "title": "4.4.2.6  Độ bền của móng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2309,
+    "line_end": 2309,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_30",
+    "anchor": "formula-4_30",
+    "title": "$$E_{Fd} = E_{F,G} + ү _{Rd} ∙ Ω ∙ E_{F,E} \\qquad (4.30)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2321,
+    "line_end": 2321,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-2-7",
+    "anchor": "muc-4-4-2-7",
+    "title": "4.4.2.7  Điều kiện khe kháng chấn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2348,
+    "line_end": 2348,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-3",
+    "anchor": "muc-4-4-3",
+    "title": "4.4.3  Hạn chế hư hỏng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2362,
+    "line_end": 2362,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-3-1",
+    "anchor": "muc-4-4-3-1",
+    "title": "4.4.3.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2366,
+    "line_end": 2366,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-3-2",
+    "anchor": "muc-4-4-3-2",
+    "title": "4.4.3.2  Hạn chế chuyển vị ngang tương đối giữa các tầng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2374,
+    "line_end": 2374,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_31",
+    "anchor": "formula-4_31",
+    "title": "$$d_{r} v \\le 0,005 h \\qquad (4.31)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2382,
+    "line_end": 2382,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_32",
+    "anchor": "formula-4_32",
+    "title": "$$d_{r} v \\le 0,0075 h \\qquad (4.32)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2389,
+    "line_end": 2389,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4_33",
+    "anchor": "formula-4_33",
+    "title": "$$d_{r} v \\le 0,010 h \\qquad (4.33)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2396,
+    "line_end": 2396,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  YÊU CẦU RIÊNG CHO KẾT CẤU BÊ TÔNG",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2413,
+    "line_end": 2413,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2417,
+    "line_end": 2417,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-1-1",
+    "anchor": "muc-5-1-1",
+    "title": "5.1.1  Phạm vi áp dụng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2421,
+    "line_end": 2421,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-1-2",
+    "anchor": "muc-5-1-2",
+    "title": "5.1.2  Thuật ngữ và định nghĩa",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2431,
+    "line_end": 2431,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Quan niệm thiết kế",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2541,
+    "line_end": 2541,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-1",
+    "anchor": "muc-5-2-1",
+    "title": "5.2.1  Khả năng tiêu tán năng lượng và các cấp độ dẻo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2545,
+    "line_end": 2545,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-2",
+    "anchor": "muc-5-2-2",
+    "title": "5.2.2  Loại kết cấu và hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2561,
+    "line_end": 2561,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-2-1",
+    "anchor": "muc-5-2-2-1",
+    "title": "5.2.2.1  Loại kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2565,
+    "line_end": 2565,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-2-2",
+    "anchor": "muc-5-2-2-2",
+    "title": "5.2.2.2  Hệ số ứng xử đối với tác động động đất theo phương ngang",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2597,
+    "line_end": 2597,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-5_1",
+    "anchor": "formula-5_1",
+    "title": "$$q = q_{0} ∙ k_{w} \\ge 1,5 \\qquad (5.1)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2603,
+    "line_end": 2603,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-5-1",
+    "anchor": "bang-bang-5-1",
+    "title": "Bảng 5.1 - Giá trị cơ bản của hệ số ứng xử, $q_{0}$, cho hệ có sự đều đặn theo mặt đứng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2616,
+    "line_end": 2616,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-5_2",
+    "anchor": "formula-5_2",
+    "title": "$$- (1 + \\alpha_{0} )/3 \\le 1, nhưng không nhỏ hơn 0,5 cho hệ tường, hệ kết cấu hỗn hợp tương đương tường và kết cấu dễ xoắn \\qquad (5.2)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2669,
+    "line_end": 2669,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-5_3",
+    "anchor": "formula-5_3",
+    "title": "$$\\alpha_0 = \\frac{\\sum h_{wi}}{\\sum L_{wi}} \\qquad (5.3)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2678,
+    "line_end": 2678,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-3",
+    "anchor": "muc-5-2-3",
+    "title": "5.2.3  Tiêu chí thiết kế",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2691,
+    "line_end": 2691,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-3-1",
+    "anchor": "muc-5-2-3-1",
+    "title": "5.2.3.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2695,
+    "line_end": 2695,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-3-2",
+    "anchor": "muc-5-2-3-2",
+    "title": "5.2.3.2  Điều kiện chịu lực cục bộ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2703,
+    "line_end": 2703,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-3-3",
+    "anchor": "muc-5-2-3-3",
+    "title": "5.2.3.3  Yêu cầu thiết kế theo khả năng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2709,
+    "line_end": 2709,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-3-4",
+    "anchor": "muc-5-2-3-4",
+    "title": "5.2.3.4  Điều kiện dẻo cục bộ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2723,
+    "line_end": 2723,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-5_4",
+    "anchor": "formula-5_4",
+    "title": "$$\\mu_{ϕ} = 2 q_{0} -1 nếu T_{1} \\ge T_{C} \\qquad (5.4)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2745,
+    "line_end": 2745,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-5_5",
+    "anchor": "formula-5_5",
+    "title": "$$\\mu_{\\phi} = 1 + (2q_0 - 1) \\frac{T_C}{T_1} \\text{ nếu } T_1 < T \\qquad (5.5)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2750,
+    "line_end": 2750,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-3-5",
+    "anchor": "muc-5-2-3-5",
+    "title": "5.2.3.5  Tính siêu tĩnh của kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2763,
+    "line_end": 2763,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-3-6",
+    "anchor": "muc-5-2-3-6",
+    "title": "5.2.3.6  Cấu kiện kháng chấn phụ và khả năng chịu lực",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2769,
+    "line_end": 2769,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-3-7",
+    "anchor": "muc-5-2-3-7",
+    "title": "5.2.3.7  Biện pháp bổ sung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2783,
+    "line_end": 2783,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-4",
+    "anchor": "muc-5-2-4",
+    "title": "5.2.4  Kiểm tra mức độ an toàn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2809,
+    "line_end": 2809,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-3",
+    "anchor": "muc-5-3",
+    "title": "5.3  Thiết kế với độ dẻo thấp",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2823,
+    "line_end": 2823,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-3-1",
+    "anchor": "muc-5-3-1",
+    "title": "5.3.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2827,
+    "line_end": 2827,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-3-2",
+    "anchor": "muc-5-3-2",
+    "title": "5.3.2  Vật liệu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2833,
+    "line_end": 2833,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-3-3",
+    "anchor": "muc-5-3-3",
+    "title": "5.3.3  Hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2841,
+    "line_end": 2841,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4",
+    "anchor": "muc-5-4",
+    "title": "5.4  Thiết kế cho trường hợp cấp độ dẻo trung bình",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2847,
+    "line_end": 2847,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-1",
+    "anchor": "muc-5-4-1",
+    "title": "5.4.1  Vật liệu và kích thước hình học",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2851,
+    "line_end": 2851,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-1-1",
+    "anchor": "muc-5-4-1-1",
+    "title": "5.4.1.1  Yêu cầu về vật liệu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2855,
+    "line_end": 2855,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-1-2",
+    "anchor": "muc-5-4-1-2",
+    "title": "5.4.1.2  Kích thước hình học",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2869,
+    "line_end": 2869,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-1-2-1",
+    "anchor": "muc-5-4-1-2-1",
+    "title": "5.4.1.2.1  Dầm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2873,
+    "line_end": 2873,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-5_6",
+    "anchor": "formula-5_6",
+    "title": "$$b_{w} \\le min { b_{c} + h_{w} ; 2 b_{c} } \\qquad (5.6)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2883,
+    "line_end": 2883,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-1-2-2",
+    "anchor": "muc-5-4-1-2-2",
+    "title": "5.4.1.2.2  Cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2892,
+    "line_end": 2892,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-1-2-3",
+    "anchor": "muc-5-4-1-2-3",
+    "title": "5.4.1.2.3  Tường có tính dẻo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2898,
+    "line_end": 2898,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-5_7",
+    "anchor": "formula-5_7",
+    "title": "$$b_{w0} \\ge max {0,15; h_{s} /20} \\qquad (5.7)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2904,
+    "line_end": 2904,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-1-2-4",
+    "anchor": "muc-5-4-1-2-4",
+    "title": "5.4.1.2.4  Tường kích thước lớn ít cốt thép",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2915,
+    "line_end": 2915,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-1-2-5",
+    "anchor": "muc-5-4-1-2-5",
+    "title": "5.4.1.2.5  Yêu cầu cụ thể đối với dầm đỡ các kết cấu thẳng đứng không liên tục",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2921,
+    "line_end": 2921,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-2",
+    "anchor": "muc-5-4-2",
+    "title": "5.4.2  Hệ quả tác động thiết kế",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2933,
+    "line_end": 2933,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-2-1",
+    "anchor": "muc-5-4-2-1",
+    "title": "5.4.2.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2937,
+    "line_end": 2937,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-2-2",
+    "anchor": "muc-5-4-2-2",
+    "title": "5.4.2.2  Dầm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2943,
+    "line_end": 2943,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-5_8",
+    "anchor": "formula-5_8",
+    "title": "$$M_{id} = \\gamma_{Rd} \\cdot M_{Rb,j} \\cdot \\min\\left(1; \\frac{\\sum M_{Rc}}{\\sum M_{Rb}}\\right) \\qquad (5.8)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2955,
+    "line_end": 2955,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_1",
+    "anchor": "hinh-5_1",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2970,
+    "line_end": 2970,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-2-3",
+    "anchor": "muc-5-4-2-3",
+    "title": "5.4.2.3  Cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2981,
+    "line_end": 2981,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-5_9",
+    "anchor": "formula-5_9",
+    "title": "$$M_{i,d} \\approx \\gamma_{Rd} \\cdot M_{Rc,i} \\cdot \\min\\left(1, \\frac{\\sum M_{Rb}}{\\sum M_{Rc}}\\right) \\qquad (5.9)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2989,
+    "line_end": 2989,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_2",
+    "anchor": "hinh-5_2",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3004,
+    "line_end": 3004,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-2-4",
+    "anchor": "muc-5-4-2-4",
+    "title": "5.4.2.4  Yêu cầu đặc biệt đối với tường có tính dẻo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3015,
+    "line_end": 3015,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_3",
+    "anchor": "hinh-5_3",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3048,
+    "line_end": 3048,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_4",
+    "anchor": "hinh-5_4",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3070,
+    "line_end": 3070,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-2-5",
+    "anchor": "muc-5-4-2-5",
+    "title": "5.4.2.5  Yêu cầu đặc biệt đối với tường kích thước lớn có ít cốt thép",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3081,
+    "line_end": 3081,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3",
+    "anchor": "muc-5-4-3",
+    "title": "5.4.3  Kiểm tra và cấu tạo theo trạng thái giới hạn cực hạn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3099,
+    "line_end": 3099,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-1",
+    "anchor": "muc-5-4-3-1",
+    "title": "5.4.3.1  Dầm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3103,
+    "line_end": 3103,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-1-1",
+    "anchor": "muc-5-4-3-1-1",
+    "title": "5.4.3.1.1  Khả năng chịu uốn và chịu cắt",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3107,
+    "line_end": 3107,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_5",
+    "anchor": "hinh-5_5",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3121,
+    "line_end": 3121,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-1-2",
+    "anchor": "muc-5-4-3-1-2",
+    "title": "5.4.3.1.2  Cấu tạo để đảm bảo độ dẻo cục bộ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3132,
+    "line_end": 3132,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_6",
+    "anchor": "hinh-5_6",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3178,
+    "line_end": 3178,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-2",
+    "anchor": "muc-5-4-3-2",
+    "title": "5.4.3.2  Cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3189,
+    "line_end": 3189,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-2-1",
+    "anchor": "muc-5-4-3-2-1",
+    "title": "5.4.3.2.1  Khả năng chịu lực",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3193,
+    "line_end": 3193,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-2-2",
+    "anchor": "muc-5-4-3-2-2",
+    "title": "5.4.3.2.2  Cấu tạo cột kháng chấn chính để đảm bảo độ dẻo cục bộ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3203,
+    "line_end": 3203,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_7",
+    "anchor": "hinh-5_7",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3287,
+    "line_end": 3287,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-3",
+    "anchor": "muc-5-4-3-3",
+    "title": "5.4.3.3  Nút dầm - cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3320,
+    "line_end": 3320,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-4",
+    "anchor": "muc-5-4-3-4",
+    "title": "5.4.3.4  Tường mềm (dẻo)",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3330,
+    "line_end": 3330,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-4-1",
+    "anchor": "muc-5-4-3-4-1",
+    "title": "5.4.3.4.1  Khả năng chịu uốn và chịu cắt",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3334,
+    "line_end": 3334,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-4-2",
+    "anchor": "muc-5-4-3-4-2",
+    "title": "5.4.3.4.2  Cấu tạo để đảm bảo độ dẻo cục bộ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3352,
+    "line_end": 3352,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_8",
+    "anchor": "hinh-5_8",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3417,
+    "line_end": 3417,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_9",
+    "anchor": "hinh-5_9",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3434,
+    "line_end": 3434,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_10",
+    "anchor": "hinh-5_10",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3449,
+    "line_end": 3449,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-5",
+    "anchor": "muc-5-4-3-5",
+    "title": "5.4.3.5  Tường kích thước lớn ít cốt thép",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3468,
+    "line_end": 3468,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-5-1",
+    "anchor": "muc-5-4-3-5-1",
+    "title": "5.4.3.5.1  Khả năng chịu uốn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3472,
+    "line_end": 3472,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-5-2",
+    "anchor": "muc-5-4-3-5-2",
+    "title": "5.4.3.5.2  Khả năng chịu cắt",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3484,
+    "line_end": 3484,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4-3-5-3",
+    "anchor": "muc-5-4-3-5-3",
+    "title": "5.4.3.5.3  Cấu tạo để đảm bảo độ dẻo cục bộ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3498,
+    "line_end": 3498,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5",
+    "anchor": "muc-5-5",
+    "title": "5.5  Thiết kế cho trường hợp cấp độ dẻo cao",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3510,
+    "line_end": 3510,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-1",
+    "anchor": "muc-5-5-1",
+    "title": "5.5.1  Vật liệu và kích thước hình học",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3514,
+    "line_end": 3514,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-1-1",
+    "anchor": "muc-5-5-1-1",
+    "title": "5.5.1.1  Yêu cầu về vật liệu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3518,
+    "line_end": 3518,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-1-2",
+    "anchor": "muc-5-5-1-2",
+    "title": "5.5.1.2  Kích thước hình học",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3528,
+    "line_end": 3528,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-1-2-1",
+    "anchor": "muc-5-5-1-2-1",
+    "title": "5.5.1.2.1  Dầm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3532,
+    "line_end": 3532,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-1-2-2",
+    "anchor": "muc-5-5-1-2-2",
+    "title": "5.5.1.2.2  Cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3546,
+    "line_end": 3546,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-1-2-3",
+    "anchor": "muc-5-5-1-2-3",
+    "title": "5.5.1.2.3  Tường có tính dẻo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3554,
+    "line_end": 3554,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-1-2-4",
+    "anchor": "muc-5-5-1-2-4",
+    "title": "5.5.1.2.4  Yêu cầu cụ thể đối với dầm đỡ cấu kiện thẳng đứng không liên tục",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3566,
+    "line_end": 3566,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-2",
+    "anchor": "muc-5-5-2",
+    "title": "5.5.2  Hệ quả tác động thiết kế",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3574,
+    "line_end": 3574,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-2-1",
+    "anchor": "muc-5-5-2-1",
+    "title": "5.5.2.1  Dầm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3578,
+    "line_end": 3578,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-2-2",
+    "anchor": "muc-5-5-2-2",
+    "title": "5.5.2.2  Cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3588,
+    "line_end": 3588,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-2-3",
+    "anchor": "muc-5-5-2-3",
+    "title": "5.5.2.3  Nút dầm - cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3600,
+    "line_end": 3600,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-2-4",
+    "anchor": "muc-5-5-2-4",
+    "title": "5.5.2.4  Tường có tính dẻo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3634,
+    "line_end": 3634,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-2-4-1",
+    "anchor": "muc-5-5-2-4-1",
+    "title": "5.5.2.4.1  Yêu cầu đặc biệt đối với tường mảnh trong mặt phẳng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3638,
+    "line_end": 3638,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-2-4-2",
+    "anchor": "muc-5-5-2-4-2",
+    "title": "5.5.2.4.2  Yêu cầu đặc biệt đối với tường dày và thấp",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3690,
+    "line_end": 3690,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3",
+    "anchor": "muc-5-5-3",
+    "title": "5.5.3  Kiểm tra theo trạng thái cực hạn và cấu tạo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3704,
+    "line_end": 3704,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-1",
+    "anchor": "muc-5-5-3-1",
+    "title": "5.5.3.1  Dầm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3708,
+    "line_end": 3708,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-1-1",
+    "anchor": "muc-5-5-3-1-1",
+    "title": "5.5.3.1.1  Khả năng chịu uốn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3712,
+    "line_end": 3712,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-1-2",
+    "anchor": "muc-5-5-3-1-2",
+    "title": "5.5.3.1.2  Khả năng chịu cắt",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3722,
+    "line_end": 3722,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-1-3",
+    "anchor": "muc-5-5-3-1-3",
+    "title": "5.5.3.1.3  Cấu tạo đảm bảo độ dẻo cục bộ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3766,
+    "line_end": 3766,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-2",
+    "anchor": "muc-5-5-3-2",
+    "title": "5.5.3.2  Cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3792,
+    "line_end": 3792,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-2-1",
+    "anchor": "muc-5-5-3-2-1",
+    "title": "5.5.3.2.1  Khả năng chịu lực",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3796,
+    "line_end": 3796,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-2-2",
+    "anchor": "muc-5-5-3-2-2",
+    "title": "5.5.3.2.2  Cấu tạo để đảm bảo độ dẻo cục bộ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3806,
+    "line_end": 3806,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-3",
+    "anchor": "muc-5-5-3-3",
+    "title": "5.5.3.3  Nút dầm - cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3868,
+    "line_end": 3868,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-4",
+    "anchor": "muc-5-5-3-4",
+    "title": "5.5.3.4  Tường có tính dẻo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3954,
+    "line_end": 3954,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-4-1",
+    "anchor": "muc-5-5-3-4-1",
+    "title": "5.5.3.4.1  Khả năng chịu uốn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3958,
+    "line_end": 3958,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-4-2",
+    "anchor": "muc-5-5-3-4-2",
+    "title": "5.5.3.4.2  Sự phá hoại nén xiên của bụng tường do cắt",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3968,
+    "line_end": 3968,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-4-3",
+    "anchor": "muc-5-5-3-4-3",
+    "title": "5.5.3.4.3  Sự phá hoại kéo theo đường chéo của bụng tường do cắt",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 3982,
+    "line_end": 3982,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-4-4",
+    "anchor": "muc-5-5-3-4-4",
+    "title": "5.5.3.4.4  Sự phá hoại trượt do cắt",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4026,
+    "line_end": 4026,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-4-5",
+    "anchor": "muc-5-5-3-4-5",
+    "title": "5.5.3.4.5  Cấu tạo đảm bảo yêu cầu dẻo cục bộ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4117,
+    "line_end": 4117,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_11",
+    "anchor": "hinh-5_11",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 4139,
+    "line_end": 4139,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5-3-5",
+    "anchor": "muc-5-5-3-5",
+    "title": "5.5.3.5  Cấu kiện liên kết của hệ tường kép",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4172,
+    "line_end": 4172,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_12",
+    "anchor": "hinh-5_12",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 4209,
+    "line_end": 4209,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-6",
+    "anchor": "muc-5-6",
+    "title": "5.6  Yêu cầu về neo và mối nối",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4220,
+    "line_end": 4220,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-6-1",
+    "anchor": "muc-5-6-1",
+    "title": "5.6.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4224,
+    "line_end": 4224,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-6-2",
+    "anchor": "muc-5-6-2",
+    "title": "5.6.2  Neo cốt thép",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4234,
+    "line_end": 4234,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-6-2-1",
+    "anchor": "muc-5-6-2-1",
+    "title": "5.6.2.1  Cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4238,
+    "line_end": 4238,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-6-2-2",
+    "anchor": "muc-5-6-2-2",
+    "title": "5.6.2.2  Dầm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4246,
+    "line_end": 4246,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_13",
+    "anchor": "hinh-5_13",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 4294,
+    "line_end": 4294,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-6-3",
+    "anchor": "muc-5-6-3",
+    "title": "5.6.3  Nối các thanh cốt thép",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4311,
+    "line_end": 4311,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-7",
+    "anchor": "muc-5-7",
+    "title": "5.7  Thiết kế và cấu tạo các cấu kiện kháng chấn phụ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4353,
+    "line_end": 4353,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-8",
+    "anchor": "muc-5-8",
+    "title": "5.8  Các bộ phận của móng bê tông",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4363,
+    "line_end": 4363,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-8-1",
+    "anchor": "muc-5-8-1",
+    "title": "5.8.1  Phạm vi",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4367,
+    "line_end": 4367,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-8-2",
+    "anchor": "muc-5-8-2",
+    "title": "5.8.2  Dầm giằng và dầm giằng móng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4381,
+    "line_end": 4381,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-9",
+    "anchor": "muc-5-9",
+    "title": "5.9  Ảnh hưởng cục bộ do tường chèn bằng khối xây hoặc bê tông",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4421,
+    "line_end": 4421,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-10",
+    "anchor": "muc-5-10",
+    "title": "5.10  Yêu cầu đối với tấm cứng bằng bê tông",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4441,
+    "line_end": 4441,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11",
+    "anchor": "muc-5-11",
+    "title": "5.11  Kết cấu bê tông đúc sẵn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4477,
+    "line_end": 4477,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-1",
+    "anchor": "muc-5-11-1",
+    "title": "5.11.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4481,
+    "line_end": 4481,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-1-1",
+    "anchor": "muc-5-11-1-1",
+    "title": "5.11.1.1  Phạm vi áp dụng và loại kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4485,
+    "line_end": 4485,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-1-2",
+    "anchor": "muc-5-11-1-2",
+    "title": "5.11.1.2  Tính toán kết cấu đúc sẵn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4507,
+    "line_end": 4507,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_14",
+    "anchor": "hinh-5_14",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 4556,
+    "line_end": 4556,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-1-3",
+    "anchor": "muc-5-11-1-3",
+    "title": "5.11.1.3  Tiêu chí thiết kế",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4567,
+    "line_end": 4567,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-1-3-1",
+    "anchor": "muc-5-11-1-3-1",
+    "title": "5.11.1.3.1  Khả năng chịu lực cục bộ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4571,
+    "line_end": 4571,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-1-3-2",
+    "anchor": "muc-5-11-1-3-2",
+    "title": "5.11.1.3.2  Sự tiêu tán năng lượng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4577,
+    "line_end": 4577,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-1-3-3",
+    "anchor": "muc-5-11-1-3-3",
+    "title": "5.11.1.3.3  Biện pháp bổ sung cụ thể",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4595,
+    "line_end": 4595,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-1-4",
+    "anchor": "muc-5-11-1-4",
+    "title": "5.11.1.4  Hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4607,
+    "line_end": 4607,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-1-5",
+    "anchor": "muc-5-11-1-5",
+    "title": "5.11.1.5  Tính toán trong tình huống tạm thời",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4631,
+    "line_end": 4631,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-2",
+    "anchor": "muc-5-11-2",
+    "title": "5.11.2  Mối nối các cấu kiện đúc sẵn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4641,
+    "line_end": 4641,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-2-1",
+    "anchor": "muc-5-11-2-1",
+    "title": "5.11.2.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4645,
+    "line_end": 4645,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-2-1-1",
+    "anchor": "muc-5-11-2-1-1",
+    "title": "5.11.2.1.1  Mối nối ngoài vùng tới hạn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4649,
+    "line_end": 4649,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-2-1-2",
+    "anchor": "muc-5-11-2-1-2",
+    "title": "5.11.2.1.2  Mối nối có độ bền dư",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4657,
+    "line_end": 4657,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-2-1-3",
+    "anchor": "muc-5-11-2-1-3",
+    "title": "5.11.2.1.3  Mối nối tiêu tán năng lượng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4667,
+    "line_end": 4667,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-2-2",
+    "anchor": "muc-5-11-2-2",
+    "title": "5.11.2.2  Xác định khả năng chịu lực của mối nối",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4677,
+    "line_end": 4677,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-3",
+    "anchor": "muc-5-11-3",
+    "title": "5.11.3  Cấu kiện",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4693,
+    "line_end": 4693,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-3-1",
+    "anchor": "muc-5-11-3-1",
+    "title": "5.11.3.1  Dầm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4697,
+    "line_end": 4697,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-3-2",
+    "anchor": "muc-5-11-3-2",
+    "title": "5.11.3.2  Cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4707,
+    "line_end": 4707,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-3-3",
+    "anchor": "muc-5-11-3-3",
+    "title": "5.11.3.3  Nút dầm - cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4717,
+    "line_end": 4717,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-3-4",
+    "anchor": "muc-5-11-3-4",
+    "title": "5.11.3.4  Tường panen tấm lớn đúc sẵn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4725,
+    "line_end": 4725,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_15",
+    "anchor": "hinh-5_15",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 4756,
+    "line_end": 4756,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11-3-5",
+    "anchor": "muc-5-11-3-5",
+    "title": "5.11.3.5  Tấm cứng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4785,
+    "line_end": 4785,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5_16",
+    "anchor": "hinh-5_16",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 4802,
+    "line_end": 4802,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6",
+    "anchor": "muc-6",
+    "title": "6  YÊU CẦU RIÊNG CHO KẾT CẤU THÉP",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4825,
+    "line_end": 4825,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1",
+    "anchor": "muc-6-1",
+    "title": "6.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4829,
+    "line_end": 4829,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1-1",
+    "anchor": "muc-6-1-1",
+    "title": "6.1.1  Phạm vi áp dụng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4833,
+    "line_end": 4833,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1-2",
+    "anchor": "muc-6-1-2",
+    "title": "6.1.2  Quan niệm thiết kế",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4839,
+    "line_end": 4839,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-6-1",
+    "anchor": "bang-bang-6-1",
+    "title": "Bảng 6.1 - Các quan niệm thiết kế, cấp độ dẻo và giới hạn trên của giá trị tham chiếu của hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 4851,
+    "line_end": 4851,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1-3",
+    "anchor": "muc-6-1-3",
+    "title": "6.1.3  Kiểm tra độ an toàn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4869,
+    "line_end": 4869,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-2",
+    "anchor": "muc-6-2",
+    "title": "6.2  Vật liệu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4879,
+    "line_end": 4879,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-3",
+    "anchor": "muc-6-3",
+    "title": "6.3  Dạng kết cấu và hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4925,
+    "line_end": 4925,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-3-1",
+    "anchor": "muc-6-3-1",
+    "title": "6.3.1  Dạng kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 4929,
+    "line_end": 4929,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-6_1",
+    "anchor": "hinh-6_1",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 4971,
+    "line_end": 4971,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-6_2",
+    "anchor": "hinh-6_2",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 4982,
+    "line_end": 4982,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-6_3",
+    "anchor": "hinh-6_3",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 4993,
+    "line_end": 4993,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-6-2",
+    "anchor": "bang-bang-6-2",
+    "title": "Bảng 6.2 - Giới hạn trên của giá trị tham chiếu của hệ số ứng xử cho hệ kết cấu đều đặn theo phương đứng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5006,
+    "line_end": 5006,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-4",
+    "anchor": "muc-6-4",
+    "title": "6.4  Phân tích kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5025,
+    "line_end": 5025,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5",
+    "anchor": "muc-6-5",
+    "title": "6.5  Tiêu chí thiết kế và yêu cầu cấu tạo cho mọi loại kết cấu có khả năng tiêu tán năng lượng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5033,
+    "line_end": 5033,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5-1",
+    "anchor": "muc-6-5-1",
+    "title": "6.5.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5037,
+    "line_end": 5037,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5-2",
+    "anchor": "muc-6-5-2",
+    "title": "6.5.2  Tiêu chí thiết kế cho kết cấu có khả năng tiêu tán năng lượng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5045,
+    "line_end": 5045,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5-3",
+    "anchor": "muc-6-5-3",
+    "title": "6.5.3  Yêu cầu thiết kế cho cấu kiện có khả năng tiêu tán năng lượng làm việc chịu nén hoặc uốn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5061,
+    "line_end": 5061,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-6-3",
+    "anchor": "bang-bang-6-3",
+    "title": "Bảng 6.3 - Các yêu cầu về loại tiết diện thép của cấu kiện có khả năng tiêu tán năng lượng theo cấp độ dẻo và giá trị tham chiếu của hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5069,
+    "line_end": 5069,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5-4",
+    "anchor": "muc-6-5-4",
+    "title": "6.5.4  Yêu cầu thiết kế cho các bộ phận hoặc cấu kiện chịu kéo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5079,
+    "line_end": 5079,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5-5",
+    "anchor": "muc-6-5-5",
+    "title": "6.5.5  Yêu cầu thiết kế cho những liên kết trong vùng tiêu tán năng lượng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5085,
+    "line_end": 5085,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-6",
+    "anchor": "muc-6-6",
+    "title": "6.6  Yêu cầu cụ thể cho thiết kế khung chịu mô men",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5115,
+    "line_end": 5115,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-6-1",
+    "anchor": "muc-6-6-1",
+    "title": "6.6.1  Tiêu chí thiết kế",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5119,
+    "line_end": 5119,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-6-2",
+    "anchor": "muc-6-6-2",
+    "title": "6.6.2  Dầm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5129,
+    "line_end": 5129,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-6_5",
+    "anchor": "formula-6_5",
+    "title": "$$V_{Ed} = V_{Ed,G} + V_{Ed,M} \\qquad (6.5)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5143,
+    "line_end": 5143,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-6-3",
+    "anchor": "muc-6-6-3",
+    "title": "6.6.3  Cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5162,
+    "line_end": 5162,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-6_10",
+    "anchor": "hinh-6_10",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5210,
+    "line_end": 5210,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-6_9",
+    "anchor": "formula-6_9",
+    "title": "$$V_{wp,Ed} < V_{wb,Rd} \\qquad (6.9)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5223,
+    "line_end": 5223,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-6-4",
+    "anchor": "muc-6-6-4",
+    "title": "6.6.4  Liên kết dầm - cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5232,
+    "line_end": 5232,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-6_11",
+    "anchor": "hinh-6_11",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5260,
+    "line_end": 5260,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-7",
+    "anchor": "muc-6-7",
+    "title": "6.7  Thiết kế và yêu cầu cấu tạo cho khung với hệ giằng đúng tâm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5277,
+    "line_end": 5277,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-7-1",
+    "anchor": "muc-6-7-1",
+    "title": "6.7.1  Tiêu chí thiết kế",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5281,
+    "line_end": 5281,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-6_12",
+    "anchor": "hinh-6_12",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5299,
+    "line_end": 5299,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-7-2",
+    "anchor": "muc-6-7-2",
+    "title": "6.7.2  Phân tích kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5310,
+    "line_end": 5310,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-7-3",
+    "anchor": "muc-6-7-3",
+    "title": "6.7.3  Thanh giằng chéo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5330,
+    "line_end": 5330,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-7-4",
+    "anchor": "muc-6-7-4",
+    "title": "6.7.4  Dầm và cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5358,
+    "line_end": 5358,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8",
+    "anchor": "muc-6-8",
+    "title": "6.8  Thiết kế và yêu cầu cấu tạo cho khung có hệ giằng lệch tâm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5394,
+    "line_end": 5394,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8-1",
+    "anchor": "muc-6-8-1",
+    "title": "6.8.1  Tiêu chí thiết kế",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5398,
+    "line_end": 5398,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8-2",
+    "anchor": "muc-6-8-2",
+    "title": "6.8.2  Đoạn nối kháng chấn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5410,
+    "line_end": 5410,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-6_13",
+    "anchor": "hinh-6_13",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5433,
+    "line_end": 5433,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-6_15",
+    "anchor": "formula-6_15",
+    "title": "$$V_{Ed} \\le V_{p,link} \\qquad (6.15)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5446,
+    "line_end": 5446,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-6_16",
+    "anchor": "formula-6_16",
+    "title": "$$M_{Ed} \\le M_{p,link} \\qquad (6.16)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5451,
+    "line_end": 5451,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-6_21",
+    "anchor": "formula-6_21",
+    "title": "$$- đoạn nối kháng chấn ngắn: e < e_{s} = 1,6 M_{p,link} / V_{p,link} \\qquad (6.21)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5484,
+    "line_end": 5484,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-6_22",
+    "anchor": "formula-6_22",
+    "title": "$$- đoạn nối kháng chấn dài: e > e_{L} = 3,0 M_{p,link} / V_{p,link} (6.22) \\qquad (6.22)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5489,
+    "line_end": 5489,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-6_23",
+    "anchor": "formula-6_23",
+    "title": "$$- đoạn nối kháng chấn trung bình: e_{s} < e < e_{L} (6.23) \\qquad (6.23)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5494,
+    "line_end": 5494,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-6_24",
+    "anchor": "formula-6_24",
+    "title": "$$- đoạn nối kháng chấn ngắn: e < e_{s} = 0,8(1 + α) M_{p,link} / V_{p,link} (6.24) \\qquad (6.24)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5501,
+    "line_end": 5501,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-6_25",
+    "anchor": "formula-6_25",
+    "title": "$$- đoạn nối kháng chấn dài: e > e_{L} = 1,5(1 + α) M_{p,link} / V_{p,link} (6.25) \\qquad (6.25)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5506,
+    "line_end": 5506,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-6_26",
+    "anchor": "formula-6_26",
+    "title": "$$- đoạn nối kháng chấn trung bình: e_{s} < e < e_{L} \\qquad (6.26)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5511,
+    "line_end": 5511,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-6_14",
+    "anchor": "hinh-6_14",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5522,
+    "line_end": 5522,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8-3",
+    "anchor": "muc-6-8-3",
+    "title": "6.8.3  Cấu kiện không có đoạn nối kháng chấn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5561,
+    "line_end": 5561,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8-4",
+    "anchor": "muc-6-8-4",
+    "title": "6.8.4  Liên kết của các đoạn nối kháng chấn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5591,
+    "line_end": 5591,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-9",
+    "anchor": "muc-6-9",
+    "title": "6.9  Yêu cầu thiết kế cho kết cấu kiểu con lắc ngược",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5621,
+    "line_end": 5621,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10",
+    "anchor": "muc-6-10",
+    "title": "6.10  Yêu cầu thiết kế đối với kết cấu thép có lõi bê tông hoặc tường bê tông và đối với khung chịu mô men kết hợp với hệ giằng đúng tâm hoặc tường chèn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5633,
+    "line_end": 5633,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10-1",
+    "anchor": "muc-6-10-1",
+    "title": "6.10.1  Kết cấu có lõi bê tông hoặc tường bê tông",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5637,
+    "line_end": 5637,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10-2",
+    "anchor": "muc-6-10-2",
+    "title": "6.10.2  Khung chịu mô men kết hợp với hệ giằng đúng tâm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5645,
+    "line_end": 5645,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10-3",
+    "anchor": "muc-6-10-3",
+    "title": "6.10.3  Khung chịu mô men kết hợp với tường chèn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5653,
+    "line_end": 5653,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11",
+    "anchor": "muc-6-11",
+    "title": "6.11  Quản lý thiết kế và thi công",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 5669,
+    "line_end": 5669,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7",
+    "anchor": "muc-7",
+    "title": "7  YÊU CẦU RIÊNG CHO KẾT CẤU LIÊN HỢP THÉP - BÊ TÔNG",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5687,
+    "line_end": 5687,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1",
+    "anchor": "muc-7-1",
+    "title": "7.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5691,
+    "line_end": 5691,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-1",
+    "anchor": "muc-7-1-1",
+    "title": "7.1.1  Phạm vi áp dụng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5695,
+    "line_end": 5695,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-2",
+    "anchor": "muc-7-1-2",
+    "title": "7.1.2  Quan niệm thiết kế",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5703,
+    "line_end": 5703,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-7-1",
+    "anchor": "bang-bang-7-1",
+    "title": "Bảng 7.1 - Các quan niệm thiết kế, cấp độ dẻo và giới hạn trên của giá trị tham chiếu của hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5715,
+    "line_end": 5715,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-3",
+    "anchor": "muc-7-1-3",
+    "title": "7.1.3  Kiểm tra độ an toàn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5737,
+    "line_end": 5737,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2",
+    "anchor": "muc-7-2",
+    "title": "7.2  Vật liệu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5749,
+    "line_end": 5749,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-1",
+    "anchor": "muc-7-2-1",
+    "title": "7.2.1  Bê tông",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5753,
+    "line_end": 5753,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-2",
+    "anchor": "muc-7-2-2",
+    "title": "7.2.2  Cốt thép trong bê tông",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5759,
+    "line_end": 5759,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-3",
+    "anchor": "muc-7-2-3",
+    "title": "7.2.3  Kết cấu thép",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5771,
+    "line_end": 5771,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3",
+    "anchor": "muc-7-3",
+    "title": "7.3  Dạng kết cấu và hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5777,
+    "line_end": 5777,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3-1",
+    "anchor": "muc-7-3-1",
+    "title": "7.3.1  Dạng kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5781,
+    "line_end": 5781,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-7_1",
+    "anchor": "hinh-7_1",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5808,
+    "line_end": 5808,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-7_2",
+    "anchor": "hinh-7_2",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5819,
+    "line_end": 5819,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3-2",
+    "anchor": "muc-7-3-2",
+    "title": "7.3.2  Hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5834,
+    "line_end": 5834,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-7-2",
+    "anchor": "bang-bang-7-2",
+    "title": "Bảng 7.2 - Giới hạn trên của giá trị tham chiếu của hệ số ứng xử cho hệ kết cấu có tính chất đều đặn theo mặt đứng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5840,
+    "line_end": 5840,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-4",
+    "anchor": "muc-7-4",
+    "title": "7.4  Phân tích kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5862,
+    "line_end": 5862,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-4-1",
+    "anchor": "muc-7-4-1",
+    "title": "7.4.1  Phạm vi",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5866,
+    "line_end": 5866,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-4-2",
+    "anchor": "muc-7-4-2",
+    "title": "7.4.2  Độ cứng của tiết diện",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5872,
+    "line_end": 5872,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-7_1",
+    "anchor": "formula-7_1",
+    "title": "$$n = E_{a} / E_{cm} = 7 \\qquad (7.1)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5878,
+    "line_end": 5878,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5",
+    "anchor": "muc-7-5",
+    "title": "7.5  Tiêu chí thiết kế và yêu cầu cấu tạo cho mọi loại kết cấu có khả năng tiêu tán năng lượng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5891,
+    "line_end": 5891,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-1",
+    "anchor": "muc-7-5-1",
+    "title": "7.5.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5895,
+    "line_end": 5895,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-2",
+    "anchor": "muc-7-5-2",
+    "title": "7.5.2  Tiêu chí thiết kế đối với kết cấu có khả năng tiêu tán năng lượng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5903,
+    "line_end": 5903,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-3",
+    "anchor": "muc-7-5-3",
+    "title": "7.5.3  Độ bền dẻo của các vùng tiêu tán năng lượng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5919,
+    "line_end": 5919,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-4",
+    "anchor": "muc-7-5-4",
+    "title": "7.5.4  Yêu cầu cấu tạo cho liên kết liên hợp trong vùng tiêu tán năng lượng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5933,
+    "line_end": 5933,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-7_2",
+    "anchor": "formula-7_2",
+    "title": "$$0,6 < h_{b} / h_{c} < 1,4 \\qquad (7.2)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5953,
+    "line_end": 5953,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-7_3",
+    "anchor": "formula-7_3",
+    "title": "$$b) V_{wp,Ed} < 0,8 V_{wp,Rd} \\qquad (7.3)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5958,
+    "line_end": 5958,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6",
+    "anchor": "muc-7-6",
+    "title": "7.6  Yêu cầu cho cấu kiện",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5985,
+    "line_end": 5985,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-1",
+    "anchor": "muc-7-6-1",
+    "title": "7.6.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 5989,
+    "line_end": 5989,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-7_3",
+    "anchor": "hinh-7_3",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6016,
+    "line_end": 6016,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-7-3",
+    "anchor": "bang-bang-7-3",
+    "title": "Bảng 7.3 - Quan hệ giữa hệ số ứng xử và độ mảnh giới hạn của các bản thép của tiết diện tại vùng tới hạn của kết cấu liên hợp bọc",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6027,
+    "line_end": 6027,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-2",
+    "anchor": "muc-7-6-2",
+    "title": "7.6.2  Dầm thép liên hợp với bản",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6061,
+    "line_end": 6061,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-7_4",
+    "anchor": "hinh-7_4",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6077,
+    "line_end": 6077,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-7-4",
+    "anchor": "bang-bang-7-4",
+    "title": "Bảng 7.4 - Giá trị giới hạn của tỷ số x/d theo độ dẻo của dầm liên hợp với bản",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6104,
+    "line_end": 6104,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-7_5",
+    "anchor": "hinh-7_5",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6130,
+    "line_end": 6130,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-3",
+    "anchor": "muc-7-6-3",
+    "title": "7.6.3  Chiều rộng hữu hiệu của bản",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6141,
+    "line_end": 6141,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-7_6",
+    "anchor": "hinh-7_6",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6147,
+    "line_end": 6147,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-7_7",
+    "anchor": "hinh-7_7",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6181,
+    "line_end": 6181,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-7-5-i",
+    "anchor": "bang-bang-7-5-i",
+    "title": "Bảng 7.5.I - Chiều rộng hữu hiệu $b_{e}$ của bản sàn khi phân tích đàn hồi",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6192,
+    "line_end": 6192,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-7-5-ii",
+    "anchor": "bang-bang-7-5-ii",
+    "title": "Bảng 7.5.II - Chiều rộng hữu hiệu $b_{e}$ của bản sàn khi phân tích dẻo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6202,
+    "line_end": 6202,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-4",
+    "anchor": "muc-7-6-4",
+    "title": "7.6.4  Cột liên hợp được bao bọc hoàn toàn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6216,
+    "line_end": 6216,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-7_7",
+    "anchor": "formula-7_7",
+    "title": "$$s = min( b_{o} /2, 260 mm, 9 d_{bL} ) đối với DCM \\qquad (7.7)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6250,
+    "line_end": 6250,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-7_8",
+    "anchor": "formula-7_8",
+    "title": "$$s = min( b_{o} /2, 175 mm, 8 d_{bL} ) đối với DCH \\qquad (7.8)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6255,
+    "line_end": 6255,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-7_9",
+    "anchor": "formula-7_9",
+    "title": "$$s = min( b_{o} /2, 150 mm, 6 d_{bL} ) \\qquad (7.9)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6262,
+    "line_end": 6262,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-7_10",
+    "anchor": "formula-7_10",
+    "title": "$$d_{bw} = 6 mm đối với DCM \\qquad (7.10)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6275,
+    "line_end": 6275,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-7_11",
+    "anchor": "formula-7_11",
+    "title": "$$d_{bw} = max (0,35 d_{bL,max} [ f_{ydL} / f_{ydw} ] ^{0,5} , 6 mm) đối với DCH \\qquad (7.11)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6280,
+    "line_end": 6280,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-5",
+    "anchor": "muc-7-6-5",
+    "title": "7.6.5  Cấu kiện được bọc bê tông một phần",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6311,
+    "line_end": 6311,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-7_8",
+    "anchor": "hinh-7_8",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6330,
+    "line_end": 6330,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-6",
+    "anchor": "muc-7-6-6",
+    "title": "7.6.6  Cột thép nhồi bê tông",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6349,
+    "line_end": 6349,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-7",
+    "anchor": "muc-7-7",
+    "title": "7.7  Yêu cầu cụ thể cho thiết kế khung chịu mô men",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6359,
+    "line_end": 6359,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-7-1",
+    "anchor": "muc-7-7-1",
+    "title": "7.7.1  Tiêu chí riêng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6363,
+    "line_end": 6363,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-7-2",
+    "anchor": "muc-7-7-2",
+    "title": "7.7.2  Phân tích kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6375,
+    "line_end": 6375,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-7_13",
+    "anchor": "formula-7_13",
+    "title": "$$I_{eq} = 0,6 I_{1} + 0,4 I_{2} \\qquad (7.13)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6385,
+    "line_end": 6385,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-7_14",
+    "anchor": "formula-7_14",
+    "title": "$$(EI) _{c} = 0,9 ( EI_{a} + r E_{cm}I_{c} + EI_{s} ) \\qquad (7.14)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6392,
+    "line_end": 6392,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-7-3",
+    "anchor": "muc-7-7-3",
+    "title": "7.7.3  Yêu cầu cho dầm và cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6405,
+    "line_end": 6405,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-7-4",
+    "anchor": "muc-7-7-4",
+    "title": "7.7.4  Liên kết dầm - cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6431,
+    "line_end": 6431,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-7-5",
+    "anchor": "muc-7-7-5",
+    "title": "7.7.5  Điều kiện để bỏ qua đặc trưng liên hợp của dầm với bản",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6437,
+    "line_end": 6437,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-8",
+    "anchor": "muc-7-8",
+    "title": "7.8  Yêu cầu thiết kế và cấu tạo cho khung liên hợp với giằng đúng tâm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6447,
+    "line_end": 6447,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-8-1",
+    "anchor": "muc-7-8-1",
+    "title": "7.8.1  Tiêu chí cụ thể",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6451,
+    "line_end": 6451,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-8-2",
+    "anchor": "muc-7-8-2",
+    "title": "7.8.2  Phương pháp phân tích",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6463,
+    "line_end": 6463,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-8-3",
+    "anchor": "muc-7-8-3",
+    "title": "7.8.3  Cấu kiện giằng chéo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6469,
+    "line_end": 6469,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-8-4",
+    "anchor": "muc-7-8-4",
+    "title": "7.8.4  Dầm và cột",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6475,
+    "line_end": 6475,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-9",
+    "anchor": "muc-7-9",
+    "title": "7.9  Yêu cầu thiết kế và cấu tạo cho khung liên hợp với giằng lệch tâm",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6481,
+    "line_end": 6481,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-9-1",
+    "anchor": "muc-7-9-1",
+    "title": "7.9.1  Tiêu chí cụ thể",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6485,
+    "line_end": 6485,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-9-2",
+    "anchor": "muc-7-9-2",
+    "title": "7.9.2  Phân tích kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6497,
+    "line_end": 6497,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-9-3",
+    "anchor": "muc-7-9-3",
+    "title": "7.9.3  Đoạn nối",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6505,
+    "line_end": 6505,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-9-4",
+    "anchor": "muc-7-9-4",
+    "title": "7.9.4  Cấu kiện không chứa đoạn nối kháng chấn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6533,
+    "line_end": 6533,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-10",
+    "anchor": "muc-7-10",
+    "title": "7.10  Yêu cầu thiết kế và cấu tạo cho hệ kết cấu tạo bởi vách cứng bằng bê tông cốt thép liên hợp với các cấu kiện thép chịu lực",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6543,
+    "line_end": 6543,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-10-1",
+    "anchor": "muc-7-10-1",
+    "title": "7.10.1  Tiêu chí cụ thể",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6547,
+    "line_end": 6547,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-7_9a",
+    "anchor": "hinh-7_9a",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6566,
+    "line_end": 6566,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-7_9b",
+    "anchor": "hinh-7_9b",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6586,
+    "line_end": 6586,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-7_10",
+    "anchor": "hinh-7_10",
+    "title": "",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6608,
+    "line_end": 6608,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-10-2",
+    "anchor": "muc-7-10-2",
+    "title": "7.10.2  Phân tích kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6621,
+    "line_end": 6621,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-10-3",
+    "anchor": "muc-7-10-3",
+    "title": "7.10.3  Yêu cầu cấu tạo cho tường liên hợp thuộc DCM",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6633,
+    "line_end": 6633,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-10-4",
+    "anchor": "muc-7-10-4",
+    "title": "7.10.4  Yêu cầu cấu tạo cho dầm nối thuộc DCM",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6647,
+    "line_end": 6647,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-10-5",
+    "anchor": "muc-7-10-5",
+    "title": "7.10.5  Yêu cầu cấu tạo cho DCH",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6657,
+    "line_end": 6657,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-11",
+    "anchor": "muc-7-11",
+    "title": "7.11  Yêu cầu thiết kế và cấu tạo cho vách cứng liên hợp dạng bản thép bọc bê tông",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6665,
+    "line_end": 6665,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-11-1",
+    "anchor": "muc-7-11-1",
+    "title": "7.11.1  Tiêu chí cụ thể",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6669,
+    "line_end": 6669,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-11-2",
+    "anchor": "muc-7-11-2",
+    "title": "7.11.2  Phân tích kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6677,
+    "line_end": 6677,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-11-3",
+    "anchor": "muc-7-11-3",
+    "title": "7.11.3  Yêu cầu cấu tạo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6683,
+    "line_end": 6683,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-7_18",
+    "anchor": "formula-7_18",
+    "title": "$$V_{Ed} < V_{Rd} \\qquad (7.18)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6689,
+    "line_end": 6689,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-12",
+    "anchor": "muc-7-12",
+    "title": "7.12  Kiểm soát thiết kế và thi công",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6718,
+    "line_end": 6718,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8",
+    "anchor": "muc-8",
+    "title": "8  YÊU CẦU RIÊNG CHO KẾT CẤU GỖ",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6724,
+    "line_end": 6724,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-1",
+    "anchor": "muc-8-1",
+    "title": "8.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6728,
+    "line_end": 6728,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-1-1",
+    "anchor": "muc-8-1-1",
+    "title": "8.1.1  Phạm vi áp dụng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6732,
+    "line_end": 6732,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-1-2",
+    "anchor": "muc-8-1-2",
+    "title": "8.1.2  Thuật ngữ và định nghĩa",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6738,
+    "line_end": 6738,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-1-3",
+    "anchor": "muc-8-1-3",
+    "title": "8.1.3  Quan niệm thiết kế",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6774,
+    "line_end": 6774,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-2",
+    "anchor": "muc-8-2",
+    "title": "8.2  Vật liệu và các đặc trưng của vùng tiêu tán năng lượng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6794,
+    "line_end": 6794,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-3",
+    "anchor": "muc-8-3",
+    "title": "8.3  Cấp độ dẻo và hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6824,
+    "line_end": 6824,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-8-1",
+    "anchor": "bang-bang-8-1",
+    "title": "Bảng 8.1 - Quan niệm thiết kế, các dạng kết cấu và trị số giới hạn trên của hệ số ứng xử đối với ba loại cấp độ dẻo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6830,
+    "line_end": 6830,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-8-2",
+    "anchor": "bang-bang-8-2",
+    "title": "Bảng 8.2 - Các dạng kết cấu và giới hạn trên của hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6857,
+    "line_end": 6857,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-4",
+    "anchor": "muc-8-4",
+    "title": "8.4  Phân tích kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6866,
+    "line_end": 6866,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-5",
+    "anchor": "muc-8-5",
+    "title": "8.5  Yêu cầu cấu tạo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6880,
+    "line_end": 6880,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-5-1",
+    "anchor": "muc-8-5-1",
+    "title": "8.5.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6884,
+    "line_end": 6884,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-5-2",
+    "anchor": "muc-8-5-2",
+    "title": "8.5.2  Yêu cầu cấu tạo cho liên kết",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6892,
+    "line_end": 6892,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-5-3",
+    "anchor": "muc-8-5-3",
+    "title": "8.5.3  Yêu cầu cấu tạo cho tấm cứng ngang",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6904,
+    "line_end": 6904,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-6",
+    "anchor": "muc-8-6",
+    "title": "8.6  Kiểm tra độ an toàn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6926,
+    "line_end": 6926,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-7",
+    "anchor": "muc-8-7",
+    "title": "8.7  Kiểm soát thiết kế và thi công",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6944,
+    "line_end": 6944,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9",
+    "anchor": "muc-9",
+    "title": "9  YÊU CẦU RIÊNG CHO KẾT CẤU KHỐI XÂY",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6962,
+    "line_end": 6962,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-1",
+    "anchor": "muc-9-1",
+    "title": "9.1  Phạm vi áp dụng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6966,
+    "line_end": 6966,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-2",
+    "anchor": "muc-9-2",
+    "title": "9.2  Vật liệu và kiểu liên kết",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6974,
+    "line_end": 6974,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-2-1",
+    "anchor": "muc-9-2-1",
+    "title": "9.2.1  Các loại viên xây",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6978,
+    "line_end": 6978,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-2-2",
+    "anchor": "muc-9-2-2",
+    "title": "9.2.2  Cường độ nhỏ nhất của viên xây",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6986,
+    "line_end": 6986,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-2-3",
+    "anchor": "muc-9-2-3",
+    "title": "9.2.3  Vữa xây",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6996,
+    "line_end": 6996,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-2-4",
+    "anchor": "muc-9-2-4",
+    "title": "9.2.4  Kiểu mạch xây",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7004,
+    "line_end": 7004,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-3",
+    "anchor": "muc-9-3",
+    "title": "9.3  Các loại kết cấu và hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7016,
+    "line_end": 7016,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-9-1",
+    "anchor": "bang-bang-9-1",
+    "title": "Bảng 9.1 - Các loại kết cấu và giới hạn trên của hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7044,
+    "line_end": 7044,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-4",
+    "anchor": "muc-9-4",
+    "title": "9.4  Phân tích kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7061,
+    "line_end": 7061,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-5",
+    "anchor": "muc-9-5",
+    "title": "9.5  Tiêu chí thiết kế và yêu cầu thi công",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7083,
+    "line_end": 7083,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-5-1",
+    "anchor": "muc-9-5-1",
+    "title": "9.5.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7087,
+    "line_end": 7087,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-9-2",
+    "anchor": "bang-bang-9-2",
+    "title": "Bảng 9.2 - Các yêu cầu hình học khuyến nghị cho tường",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7107,
+    "line_end": 7107,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-5-2",
+    "anchor": "muc-9-5-2",
+    "title": "9.5.2  Yêu cầu bổ sung cho khối xây không có cốt thép phù hợp với tiêu chuẩn này",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7122,
+    "line_end": 7122,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-5-3",
+    "anchor": "muc-9-5-3",
+    "title": "9.5.3  Yêu cầu bổ sung cho khối xây bị hạn chế biến dạng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7132,
+    "line_end": 7132,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-5-4",
+    "anchor": "muc-9-5-4",
+    "title": "9.5.4  Yêu cầu bổ sung cho khối xây có cốt thép",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7162,
+    "line_end": 7162,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-6",
+    "anchor": "muc-9-6",
+    "title": "9.6  Kiểm tra an toàn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7192,
+    "line_end": 7192,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-7",
+    "anchor": "muc-9-7",
+    "title": "9.7  Yêu cầu cho “nhà xây đơn giản”",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7204,
+    "line_end": 7204,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-7-1",
+    "anchor": "muc-9-7-1",
+    "title": "9.7.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7208,
+    "line_end": 7208,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-7-2",
+    "anchor": "muc-9-7-2",
+    "title": "9.7.2  Yêu cầu cụ thể",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7216,
+    "line_end": 7216,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-9-3",
+    "anchor": "bang-bang-9-3",
+    "title": "Bảng 9.3 - Số tầng trên mặt đất cho phép được khuyến nghị và diện tích tối thiểu của tường chịu cắt đối với “nhà xây đơn giản”",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7240,
+    "line_end": 7240,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10",
+    "anchor": "muc-10",
+    "title": "10  CÁCH CHẤN ĐÁY",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7277,
+    "line_end": 7277,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-1",
+    "anchor": "muc-10-1",
+    "title": "10.1  Phạm vi áp dụng",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7281,
+    "line_end": 7281,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-2",
+    "anchor": "muc-10-2",
+    "title": "10.2  Thuật ngữ và định nghĩa",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7293,
+    "line_end": 7293,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-3",
+    "anchor": "muc-10-3",
+    "title": "10.3  Các yêu cầu cơ bản",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7391,
+    "line_end": 7391,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-4",
+    "anchor": "muc-10-4",
+    "title": "10.4  Tiêu chí cần tuân theo",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7401,
+    "line_end": 7401,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-5",
+    "anchor": "muc-10-5",
+    "title": "10.5  Yêu cầu thiết kế chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7421,
+    "line_end": 7421,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-5-1",
+    "anchor": "muc-10-5-1",
+    "title": "10.5.1  Yêu cầu chung liên quan đến thiết bị",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7425,
+    "line_end": 7425,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-5-2",
+    "anchor": "muc-10-5-2",
+    "title": "10.5.2  Kiểm soát các chuyển động không mong muốn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7435,
+    "line_end": 7435,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-5-3",
+    "anchor": "muc-10-5-3",
+    "title": "10.5.3  Kiểm soát các chuyển động nền khác nhau do động đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7449,
+    "line_end": 7449,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-5-4",
+    "anchor": "muc-10-5-4",
+    "title": "10.5.4  Kiểm soát chuyển vị tương đối với nền đất và các công trình xung quanh",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7461,
+    "line_end": 7461,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-5-5",
+    "anchor": "muc-10-5-5",
+    "title": "10.5.5  Thiết kế sơ bộ cho công trình được cách chấn đáy",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7467,
+    "line_end": 7467,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-6",
+    "anchor": "muc-10-6",
+    "title": "10.6  Tác động động đất",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7473,
+    "line_end": 7473,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-7",
+    "anchor": "muc-10-7",
+    "title": "10.7  Hệ số ứng xử",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7487,
+    "line_end": 7487,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-8",
+    "anchor": "muc-10-8",
+    "title": "10.8  Đặc trưng của hệ cách chấn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7493,
+    "line_end": 7493,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-9",
+    "anchor": "muc-10-9",
+    "title": "10.9  Phân tích kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7515,
+    "line_end": 7515,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-9-1",
+    "anchor": "muc-10-9-1",
+    "title": "10.9.1  Yêu cầu chung",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7519,
+    "line_end": 7519,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-9-2",
+    "anchor": "muc-10-9-2",
+    "title": "10.9.2  Phân tích tuyến tính tương đương",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7529,
+    "line_end": 7529,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-9-3",
+    "anchor": "muc-10-9-3",
+    "title": "10.9.3  Phân tích tuyến tính đơn giản",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7553,
+    "line_end": 7553,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-10_2",
+    "anchor": "formula-10_2",
+    "title": "$$3 T_{f} \\le T_{eff} \\le 3s \\qquad (10.2)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7583,
+    "line_end": 7583,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-10_6",
+    "anchor": "formula-10_6",
+    "title": "$$f_{j} = m_{j} S_{e} ( T_{eff} , \\xi_{eff} ) \\qquad (10.6)$$",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7622,
+    "line_end": 7622,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-9-4",
+    "anchor": "muc-10-9-4",
+    "title": "10.9.4  Phân tích tuyến tính đơn giản hóa theo dạng dao động",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7657,
+    "line_end": 7657,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-9-5",
+    "anchor": "muc-10-9-5",
+    "title": "10.9.5  Phân tích theo lịch sử thời gian",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7665,
+    "line_end": 7665,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-9-6",
+    "anchor": "muc-10-9-6",
+    "title": "10.9.6  Bộ phận phi kết cấu",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7671,
+    "line_end": 7671,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-10",
+    "anchor": "muc-10-10",
+    "title": "10.10  Kiểm tra độ an toàn theo trạng thái cực hạn",
+    "source_file": "tcvn_9386_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 7677,
+    "line_end": 7677,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (Tham khảo) — Phổ phản ứng chuyển vị đàn hồi",
+    "source_file": "annexes/phu_luc_a_pho_phan_ung_chuyen_vi_dan_hoi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-1",
+    "anchor": "muc-a-1",
+    "title": "A.1  Đối với những kết cấu có chu kỳ dao động lớn, tác động động đất có thể được biểu diễn dưới dạng phổ phản ứng chuyển vị, $S_{De}$(T), như Hình A.1.",
+    "source_file": "annexes/phu_luc_a_pho_phan_ung_chuyen_vi_dan_hoi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-a_1",
+    "anchor": "hinh-a_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_a_pho_phan_ung_chuyen_vi_dan_hoi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 10,
+    "line_end": 10,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-2",
+    "anchor": "muc-a-2",
+    "title": "A.2  Đối với các chu kỳ nhỏ hơn chu kỳ khống chế $T_{E}$​, các giá trị tung độ phổ xác định từ các biểu thức (3.2) đến (3.5), chuyển từ $S_{e}$(T) sang $S_{De}$(T) qua biểu thức (3.7). Đối với các chu kỳ dao động lớn hơn $T_{E}$​ thì các tung độ của phổ phản ứng chuyển vị đàn hồi được xác định từ các biểu thức (A.1) và (A2).",
+    "source_file": "annexes/phu_luc_a_pho_phan_ung_chuyen_vi_dan_hoi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 21,
+    "line_end": 21,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-a-1",
+    "anchor": "bang-bang-a-1",
+    "title": "Bảng A.1 - Các chu kỳ khống chế bổ sung đối với phổ chuyển vị",
+    "source_file": "annexes/phu_luc_a_pho_phan_ung_chuyen_vi_dan_hoi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 34,
+    "line_end": 34,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B (Tham khảo) — Xác định chuyển vị mục tiêu đối với phân tích tĩnh phi tuyến (đẩy dần)",
+    "source_file": "annexes/phu_luc_b_xac_dinh_chuyen_vi_muc_tieu_doi_voi_phan_tich.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-b-1",
+    "anchor": "muc-b-1",
+    "title": "B.1  Yêu cầu chung",
+    "source_file": "annexes/phu_luc_b_xac_dinh_chuyen_vi_muc_tieu_doi_voi_phan_tich.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-b-2",
+    "anchor": "muc-b-2",
+    "title": "B.2  Chuyển đổi sang hệ một bậc tự do tương đương",
+    "source_file": "annexes/phu_luc_b_xac_dinh_chuyen_vi_muc_tieu_doi_voi_phan_tich.md",
+    "jurisdiction": "CQXD",
+    "line_start": 27,
+    "line_end": 27,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-b-3",
+    "anchor": "muc-b-3",
+    "title": "B.3  Xác định mối quan hệ lực - chuyển vị đàn dẻo lý tưởng",
+    "source_file": "annexes/phu_luc_b_xac_dinh_chuyen_vi_muc_tieu_doi_voi_phan_tich.md",
+    "jurisdiction": "CQXD",
+    "line_start": 54,
+    "line_end": 54,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-b_1",
+    "anchor": "hinh-b_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_b_xac_dinh_chuyen_vi_muc_tieu_doi_voi_phan_tich.md",
+    "jurisdiction": "CQXD",
+    "line_start": 78,
+    "line_end": 78,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-b-4",
+    "anchor": "muc-b-4",
+    "title": "B.4  Xác định chu kỳ của hệ một bậc tự do tương đương lý tưởng",
+    "source_file": "annexes/phu_luc_b_xac_dinh_chuyen_vi_muc_tieu_doi_voi_phan_tich.md",
+    "jurisdiction": "CQXD",
+    "line_start": 89,
+    "line_end": 89,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-b-5",
+    "anchor": "muc-b-5",
+    "title": "B.5  Xác định chuyển vị mục tiêu đối với hệ một bậc tự do tương đương",
+    "source_file": "annexes/phu_luc_b_xac_dinh_chuyen_vi_muc_tieu_doi_voi_phan_tich.md",
+    "jurisdiction": "CQXD",
+    "line_start": 99,
+    "line_end": 99,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-b_2",
+    "anchor": "hinh-b_2",
+    "title": "",
+    "source_file": "annexes/phu_luc_b_xac_dinh_chuyen_vi_muc_tieu_doi_voi_phan_tich.md",
+    "jurisdiction": "CQXD",
+    "line_start": 152,
+    "line_end": 152,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-b-6",
+    "anchor": "muc-b-6",
+    "title": "B.6  Xác định chuyển vị mục tiêu đối với hệ nhiều bậc tự do",
+    "source_file": "annexes/phu_luc_b_xac_dinh_chuyen_vi_muc_tieu_doi_voi_phan_tich.md",
+    "jurisdiction": "CQXD",
+    "line_start": 179,
+    "line_end": 179,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-c",
+    "anchor": "phu-luc-c",
+    "title": "PHỤ LỤC C (Quy định) — Thiết kế bản của dầm liên hợp thép-bê tông tại liên kết dầm-cột trong khung chịu mô men",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-1",
+    "anchor": "muc-c-1",
+    "title": "C.1  Yêu cầu chung",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-2",
+    "anchor": "muc-c-2",
+    "title": "C.2  Yêu cầu nhằm ngăn ngừa phần thép bị mất ổn định sớm",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 22,
+    "line_end": 22,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3",
+    "anchor": "muc-c-3",
+    "title": "C.3  Yêu cầu nhằm ngăn ngừa bê tông bị vỡ sớm",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 28,
+    "line_end": 28,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-1",
+    "anchor": "muc-c-3-1",
+    "title": "C.3.1  Cột biên - mô men uốn của cột theo phương vuông góc với mặt tiền; mô men âm đặt lên dầm (M < 0)",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 32,
+    "line_end": 32,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-1-1",
+    "anchor": "muc-c-3-1-1",
+    "title": "C.3.1.1  Không có dầm biên và không có dải biên công xôn bê tông, xem Hình C.1(b)",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 36,
+    "line_end": 36,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-1-2",
+    "anchor": "muc-c-3-1-2",
+    "title": "C.3.1.2  Không có dầm biên và có dải biên công xôn bê tông, xem Hình C.1(c).",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 42,
+    "line_end": 42,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_1",
+    "anchor": "hinh-c_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 69,
+    "line_end": 69,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-1-3",
+    "anchor": "muc-c-3-1-3",
+    "title": "C.3.1.3  Khi có dầm biên; bản bê tông kéo dài tới mặt ngoài của cột và không có dải biên công xôn bê tông (Hình C.1(d))",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 80,
+    "line_end": 80,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-c_1",
+    "anchor": "formula-c_1",
+    "title": "$$nP_{Rd} \\ge 1,1 F_{Rds} \\qquad (C.1)$$",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 96,
+    "line_end": 96,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-1-4",
+    "anchor": "muc-c-3-1-4",
+    "title": "C.3.1.4  Khi cột biên có dầm biên và có dải biên công xôn bê tông (Hình C.1(e))",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 113,
+    "line_end": 113,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-2",
+    "anchor": "muc-c-3-2",
+    "title": "C.3.2  Cột biên - Mô men uốn của cột theo phương vuông góc với mặt phẳng khung; mô men đặt lên dầm là mô men dương (M > 0)",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 123,
+    "line_end": 123,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-2-1",
+    "anchor": "muc-c-3-2-1",
+    "title": "C.3.2.1  Không có dầm biên; bản kéo dài tới mặt trong của cột (Hình C.2(b-c))",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 127,
+    "line_end": 127,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-2-2",
+    "anchor": "muc-c-3-2-2",
+    "title": "C.3.2.2  Không có dầm biên; có bản kéo dài tới mặt ngoài của cột hoặc vươn ra như một dải biên công xôn bê tông (Hình C.2c, d, e)",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 159,
+    "line_end": 159,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-c_4",
+    "anchor": "formula-c_4",
+    "title": "$$F_{Rd1} = b_{b}d_{eff}f_{cd} \\qquad (C.4)$$",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 167,
+    "line_end": 167,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_2",
+    "anchor": "hinh-c_2",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 205,
+    "line_end": 205,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-c_7",
+    "anchor": "formula-c_7",
+    "title": "$$F_{Rd1} + F_{Rd2} = b_{eff} d_{eff} f_{cd} \\qquad (C.7)$$",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 226,
+    "line_end": 226,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-2-3",
+    "anchor": "muc-c-3-2-3",
+    "title": "C.3.2.3  Khi có dầm biên; có bản kéo dài tới mặt ngoài của cột hoặc vươn ra như một dải biên công xôn bê tông (Hình C.2c, e, f, g)",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 235,
+    "line_end": 235,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-c_9",
+    "anchor": "formula-c_9",
+    "title": "$$b_{eff} d_{eff} f_{cd} ​< F_{Rd1} ​ + F_{Rd2} ​+ F_{Rd3} ​ \\qquad (C.9)$$",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 253,
+    "line_end": 253,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-3",
+    "anchor": "muc-c-3-3",
+    "title": "C.3.3  Cột giữa",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 260,
+    "line_end": 260,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-3-1",
+    "anchor": "muc-c-3-3-1",
+    "title": "C.3.3.1  Khi không có dầm ngang (Hình C.3b, c)",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 264,
+    "line_end": 264,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-c_10",
+    "anchor": "formula-c_10",
+    "title": "$$F_{Rd1} = b_{b} d_{eff} f_{cd} \\qquad (C.10)$$",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 272,
+    "line_end": 272,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-c_11",
+    "anchor": "formula-c_11",
+    "title": "$$F_{Rd2} = 0,7 h_{c} d_{eff} f_{cd} \\qquad (C.11)$$",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 279,
+    "line_end": 279,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-c_13",
+    "anchor": "formula-c_13",
+    "title": "$$F_{Rd1} + F_{Rd2} = (0,7 h_{c} + b_{b} ) d_{eff} f_{cd} \\qquad (C.13)$$",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 294,
+    "line_end": 294,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-c_14",
+    "anchor": "formula-c_14",
+    "title": "$$F_{st} + F_{sc} = A_{s}f_{yd} + b_{eff} d_{eff} f_{cd} \\qquad (C.14)$$",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 301,
+    "line_end": 301,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-3-2",
+    "anchor": "muc-c-3-3-2",
+    "title": "C.3.3.2  Khi có dầm ngang (Hình C.3d)",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 318,
+    "line_end": 318,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_3",
+    "anchor": "hinh-c_3",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_thiet_ke_ban_cua_dam_lien_hop_thep_be_tong_ta.md",
+    "jurisdiction": "CQXD",
+    "line_start": 367,
+    "line_end": 367,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-d",
+    "anchor": "phu-luc-d",
+    "title": "PHỤ LỤC D (Quy định) — Cấp hậu quả của công trình xây dựng",
+    "source_file": "annexes/phu_luc_d_cap_hau_qua_cua_cong_trinh_xay_dung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-d-1",
+    "anchor": "bang-bang-d-1",
+    "title": "Bảng D.1 - Cấp hậu quả của công trình xây dựng",
+    "source_file": "annexes/phu_luc_d_cap_hau_qua_cua_cong_trinh_xay_dung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e",
+    "anchor": "phu-luc-e",
+    "title": "PHỤ LỤC E (Quy định) — Danh mục các địa danh hành chính cấp tỉnh áp dụng các loại phổ",
+    "source_file": "annexes/phu_luc_e_danh_muc_cac_dia_danh_hanh_chinh_cap_tinh_ap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-e-1",
+    "anchor": "bang-bang-e-1",
+    "title": "Bảng E.1 - Danh mục các địa danh hành chính cấp tỉnh áp dụng các loại Phổ",
+    "source_file": "annexes/phu_luc_e_danh_muc_cac_dia_danh_hanh_chinh_cap_tinh_ap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  }
+]

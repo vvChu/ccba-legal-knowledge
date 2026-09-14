@@ -1,0 +1,57 @@
+{
+  "table_id": "bang_9_2",
+  "table_number": "9.2",
+  "table_title": "Bảng 9.2 - Các yêu cầu hình học khuyến nghị cho tường",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại khối xây",
+    "$t_{ef.min}$mm",
+    "($h_{ef}$/$t_{ef}$)​$_{max}$",
+    "(L/h)$_{min}$​"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại khối xây": "Khối xây đá tự nhiên không có cốt thép",
+      "$t_{ef.min}$mm": "350",
+      "($h_{ef}$/$t_{ef}$)​$_{max}$": "9",
+      "(L/h)$_{min}$​": "0,5"
+    },
+    {
+      "_row_id": 2,
+      "Loại khối xây": "Khối xây bằng các vật liệu khác không có cốt thép",
+      "$t_{ef.min}$mm": "240",
+      "($h_{ef}$/$t_{ef}$)​$_{max}$": "12",
+      "(L/h)$_{min}$​": "0,4"
+    },
+    {
+      "_row_id": 3,
+      "Loại khối xây": "Khối xây bằng các vật liệu khác không có cốt thép, trong trường hợp động đất yếu",
+      "$t_{ef.min}$mm": "170",
+      "($h_{ef}$/$t_{ef}$)​$_{max}$": "15",
+      "(L/h)$_{min}$​": "0,35"
+    },
+    {
+      "_row_id": 4,
+      "Loại khối xây": "Khối xây bị hạn chế biến dạng",
+      "$t_{ef.min}$mm": "240",
+      "($h_{ef}$/$t_{ef}$)​$_{max}$": "15",
+      "(L/h)$_{min}$​": "0,3"
+    },
+    {
+      "_row_id": 5,
+      "Loại khối xây": "Khối xây có cốt thép",
+      "$t_{ef.min}$mm": "240",
+      "($h_{ef}$/$t_{ef}$)​$_{max}$": "15",
+      "(L/h)$_{min}$​": "không hạn chế"
+    },
+    {
+      "_row_id": 6,
+      "Loại khối xây": "**Các ký hiệu trong bảng:\n$t_{ef}$  là chiều dày hữu hiệu của tường (xem EN 1996-1-1: 2005);\n$h_{ef}$  là chiều cao hữu hiệu của tường (xem EN 1996-1-1: 2005);\nh  là chiều cao thông thủy lớn nhất của các lỗ mở liền kề với tường;\nL  là chiều dài tường**",
+      "$t_{ef.min}$mm": "",
+      "($h_{ef}$/$t_{ef}$)​$_{max}$": "",
+      "(L/h)$_{min}$​": ""
+    }
+  ],
+  "footnotes": []
+}

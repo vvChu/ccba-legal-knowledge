@@ -1,0 +1,7 @@
+﻿Tiết diện — Loại,Tiết diện — Sơ đồ,ω,α,β
+1,"$\begin{aligned}<br>&y_1 \\<br>&y_1<br>\end{aligned}<br>\qquad<br>\begin{aligned}<br>&0,5h \\<br>&0,5h<br>\end{aligned}<br>\qquad h \qquad y_x \qquad x-x \qquad O \qquad N$","0,25",0,0
+2,$\begin{aligned}<br>h &= h_1 + h_2 \\<br>e_x &= a_x + h_1<br>\end{aligned}$,$\frac{I_1 I_2}{I_y^2}$,$\frac{I_1 h_1 - I_2 h_2}{I_y h}$,"Theo công thức (F.12), Phụ lục F"
+3,"$e_x, a_x, h_1, h_2, h$",0,$n_1$,"Theo công thức (F.12), Phụ lục F"
+4,$a_k$,$\frac{3 + 2\eta}{(6 + \eta)^2}$,$\frac{4(3 + \eta)}{(2 + \eta)(6 + \eta)}$,0
+5,,$\frac{\eta_{1}\left(3\eta_{1}+2\right)}{\left(6\eta_{1}+\eta_{1}\right)^{2}}$,$\frac{4\eta_1(3\eta_1 + 1)}{(2\eta_1 + 1)(6\eta_1 + 1)}$,0
+"**Các ký hiệu trong Bảng D.6:<br>$I_{1}$ và $I_{2}$ là các mô men quán tính của bản cánh lớn và bản cánh nhỏ đối với trục đối xứng của tiết diện y-y;<br>η = $bt_{w}$/($ht_{f}$); $\eta_{1}$ = $b_{tf}$/($ht_{w}$), trong đó $t_{w}$ là chiều dày bản bụng; $t_{f}$ là chiều dày bản cánh.**",,,,

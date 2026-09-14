@@ -1,0 +1,28 @@
+
+<a id="phu-luc-e"></a>
+## PHỤ LỤC E (Tham khảo) — Biến dạng giới hạn của nền móng công trình
+
+(theo phụ lục D trong CP 22.13330.2011 - Nền nhà và công trình).
+
+
+<a id="bang-bang-phu-luc-e"></a>
+### Bảng Phụ lục E
+
+| Công trình | Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L | Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$ | Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm |
+| :--- | :---: | :--- | :---: |
+| 1. Nhà sản xuất, nhà dân dụng một tầng và nhà nhiều tầng kết cấu khung: |  |  |  |
+| &nbsp;&nbsp;\- Khung Bê tông cốt thép;<br>&nbsp;&nbsp;\- Khung Bê tông cốt thép có thêm giằng BTCT hoặc sàn mái toàn khối và công trình toàn khối | 0,002<br>0,003 | -<br>- | 10<br>15 |
+| &nbsp;&nbsp;\- Khung thép<br>&nbsp;&nbsp;\- Khung thép có thêm giằng BTCT hoặc sàn mái toàn khối | 0,004<br>0,005 | -<br>- | 15<br>18 |
+| 2. Nhà và công trình không xuất hiện thêm nội lực trong kết cấu khi chịu lún lệch | 0,006 | - | 20 |
+| 3. Nhà nhiều tầng không có kết cấu khung, kết cấu chịu lực là: |  |  |  |
+| &nbsp;&nbsp;\- Các panel lớn<br>&nbsp;&nbsp;\- Các khối lớn hoặc khối gạch xây không cốt thép | 0,0016<br>0,0020 | -<br>- | 12<br>12 |
+| &nbsp;&nbsp;\- Như trên, nhưng được gia cường, trong đó có giằng BTCT hoặc mái toàn khối cũng như nhà kết cấu toàn khối | 0,0024 | - | 18 |
+| 4. Công trình dạng ống kết cấu BTCT:<br>&nbsp;&nbsp;\- Nhà sản xuất và silo kết cấu toàn khối trên một tấm móng;<br>&nbsp;&nbsp;\- Như trên cho kết cấu lắp ghép<br>&nbsp;&nbsp;\- Silo kết cấu toàn khối đứng độc lập<br>&nbsp;&nbsp;\- Như trên, kết cấu lắp ghép | -<br>-<br>-<br>- | 0,003<br>0,003<br>0,004<br>0,004 | 40<br>30<br>40<br>30 |
+| 5. Ống khói chiều cao H, m:<br>H ≤ 100<br>100 < H ≤ 200<br>200 < H ≤ 300<br>H>300 | -<br>-<br>-<br>- | 0,005<br>1/(2H)<br>1/(2H)<br>1/(2H) | 40<br>30<br>20<br>10 |
+| 6. Công trình kết cấu cứng cao đến 100 m, trừ các công trình ở trong điểm 4 và 5 | - | 0,004 | 20 |
+| 7. Công trình ăng ten liên lạc:<br>&nbsp;&nbsp;\- Thân tháp được ngàm với đất<br>&nbsp;&nbsp;\- Như trên, cách điện<br>&nbsp;&nbsp;\- Trạm radio<br>&nbsp;&nbsp;\- Trạm phát thanh sóng ngắn<br>&nbsp;&nbsp;\- Trạm riêng lẻ | -<br>-<br>0,002<br>0,0025<br>0,002 | 0,002<br>0,001<br>-<br>-<br>- | 20<br>10<br>-<br>-<br>- |
+| 8. Trụ đường giây tải điện trên không:<br>&nbsp;&nbsp;\- Trụ trung gian<br>&nbsp;&nbsp;\- Trụ neo, neo góc, trụ góc trung gian, trụ ở vòng cung, trụ các thiết bị phân phối kiểu hở<br>&nbsp;&nbsp;\- Trụ trung chuyển đặc biệt | 0,003<br>0,0025<br>0,002 | -<br>-<br>- | -<br>-<br>- |
+
+> **CHÚ THÍCH 1:** Trị giới hạn độ lún $s_{gh}$ dùng cho các công trình xây dựng trên các móng riêng lẻ trên nền tự nhiên (nhân tạo) hoặc trên móng cọc có các đài cọc riêng lẻ (băng cọc hoặc móng cọc dưới cột …).
+>
+> **CHÚ THÍCH 2:** Trị giới hạn độ lún trung bình $s_{gh}$ dùng cho các công trình xây dựng trên móng toàn khối BTCTcho kết cấu liên tục (băng giao nhau hoặc móng bè trên nền tự nhiên hoặc nền nhân tạo, móng cọc có đài dạng bè liên tục, móng bè - cọc …).

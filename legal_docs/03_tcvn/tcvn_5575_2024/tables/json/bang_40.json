@@ -1,0 +1,164 @@
+{
+  "table_id": "bang_40",
+  "table_number": "40",
+  "table_title": "Bảng 40 - Độ thắt tương đối",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Yếu tố ảnh hưởng",
+    "Yếu tố ảnh hưởng",
+    "Độ thắt tương đối, %"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Yếu tố ảnh hưởng": "",
+      "Độ thắt tương đối, %": ""
+    },
+    {
+      "_row_id": 2,
+      "Yếu tố ảnh hưởng": "Đặc điểm liên kết hàn:",
+      "Độ thắt tương đối, %": ""
+    },
+    {
+      "_row_id": 3,
+      "Yếu tố ảnh hưởng": "a) Liên kết không có ứng suất theo phương Z",
+      "Độ thắt tương đối, %": "-25"
+    },
+    {
+      "_row_id": 4,
+      "Yếu tố ảnh hưởng": "$0{,}7s \\quad s$",
+      "Độ thắt tương đối, %": "-25"
+    },
+    {
+      "_row_id": 5,
+      "Yếu tố ảnh hưởng": "b) Liên kết góc dùng đường hàn đối xứng",
+      "Độ thắt tương đối, %": "-10"
+    },
+    {
+      "_row_id": 6,
+      "Yếu tố ảnh hưởng": "$0{,}5\\text{s}$",
+      "Độ thắt tương đối, %": "-10"
+    },
+    {
+      "_row_id": 7,
+      "Yếu tố ảnh hưởng": "c) Liên kết dùng lớp nóng chảy trung gian",
+      "Độ thắt tương đối, %": "-5"
+    },
+    {
+      "_row_id": 8,
+      "Yếu tố ảnh hưởng": "$Không tìm thấy công thức toán học nào trong hình ảnh này (hình ảnh chỉ chứa các sơ đồ hàn).$",
+      "Độ thắt tương đối, %": "-5"
+    },
+    {
+      "_row_id": 9,
+      "Yếu tố ảnh hưởng": "d) Liên kết chữ T thông thường dùng đường hàn góc",
+      "Độ thắt tương đối, %": "0"
+    },
+    {
+      "_row_id": 10,
+      "Yếu tố ảnh hưởng": "$và kết thúc bằng$",
+      "Độ thắt tương đối, %": "0"
+    },
+    {
+      "_row_id": 11,
+      "Yếu tố ảnh hưởng": "e) Liên kết chữ T dùng đường hàn góc thấu hoàn toàn hoặc một phần",
+      "Độ thắt tương đối, %": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 3"
+    },
+    {
+      "_row_id": 12,
+      "Yếu tố ảnh hưởng": "$và kết thúc bằng$",
+      "Độ thắt tương đối, %": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 3"
+    },
+    {
+      "_row_id": 13,
+      "Yếu tố ảnh hưởng": "f) Liên kết dùng đường hàn góc nằm gần mép tự do của tấm",
+      "Độ thắt tương đối, %": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 5"
+    },
+    {
+      "_row_id": 14,
+      "Yếu tố ảnh hưởng": "$` it's invalid.\nWait, is it possible that this is a \"null\" case?\nLet's look at the prompt again. \"Chuyển đổi hình ảnh công thức toán học kỹ thuật này...\"\nMaybe the image *is* the formula in a very abstract sense? No.\nLet's try to find a middle ground. If I can't find a formula, I should probably state that there is no formula, but the constraint says \"no other text\".\nThis is a \"catch-22\".\nLet's look at the image one more time. Is it possible that the black triangles represent something?\nIn welding symbols, a triangle represents a fillet weld.\nMaybe the user wants me to transcribe the *symbols*?\nBut there are no LaTeX commands for \"fillet weld symbol\" in standard KaTeX math mode, unless I use a specific package or unicode.\nLet's reconsider the possibility that I am blind.\nIs there a faint number? No.\nIs there a faint Greek letter? No.\nOkay, let's look at the provided solution in the \"internal reference\" (which I don't have, but I must simulate the thought process).\nUsually, if the image is not a formula, the model should say \"No formula found\". But the constraint is strict.\nLet's assume the prompt is a template and the image is just wrong.\nHowever, I must output *something*.\nIf I output `$",
+      "Độ thắt tương đối, %": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 5"
+    },
+    {
+      "_row_id": 15,
+      "Yếu tố ảnh hưởng": "g) Liên kết góc dùng đường hàn thấu hoàn toàn",
+      "Độ thắt tương đối, %": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 8"
+    },
+    {
+      "_row_id": 16,
+      "Yếu tố ảnh hưởng": "$\\text{a} \\quad \\text{b}$",
+      "Độ thắt tương đối, %": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 8"
+    },
+    {
+      "_row_id": 17,
+      "Yếu tố ảnh hưởng": "2. Chiều dày tấm s, mm, làm việc theo phương Z, $\\psi_{zb}$",
+      "Độ thắt tương đối, %": "0,2s"
+    },
+    {
+      "_row_id": 18,
+      "Yếu tố ảnh hưởng": "3. Chiều cao đường hàn góc, a, mm, $\\psi_{zc}$",
+      "Độ thắt tương đối, %": ""
+    },
+    {
+      "_row_id": 19,
+      "Yếu tố ảnh hưởng": "$\\alpha$",
+      "Độ thắt tương đối, %": "0,3a"
+    },
+    {
+      "_row_id": 20,
+      "Yếu tố ảnh hưởng": "4. Mức độ độ cứng của liên kết, $\\psi_{zd}$",
+      "Độ thắt tương đối, %": ""
+    },
+    {
+      "_row_id": 21,
+      "Yếu tố ảnh hưởng": "a) Thấp - có thể co tự do",
+      "Độ thắt tương đối, %": "0"
+    },
+    {
+      "_row_id": 22,
+      "Yếu tố ảnh hưởng": "b) Trung bình - có thể đường hàn co một phần và biến dạng kết cấu một phần",
+      "Độ thắt tương đối, %": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 3"
+    },
+    {
+      "_row_id": 23,
+      "Yếu tố ảnh hưởng": "c) Cao - liên kết cứng không co đường hàn",
+      "Độ thắt tương đối, %": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ 5"
+    },
+    {
+      "_row_id": 24,
+      "Yếu tố ảnh hưởng": "5. Công nghệ hàn, $\\psi_{ze}$",
+      "Độ thắt tương đối, %": ""
+    },
+    {
+      "_row_id": 25,
+      "Yếu tố ảnh hưởng": "Một",
+      "Độ thắt tương đối, %": "0"
+    },
+    {
+      "_row_id": 26,
+      "Yếu tố ảnh hưởng": "Nhiều",
+      "Độ thắt tương đối, %": "-2"
+    },
+    {
+      "_row_id": 27,
+      "Yếu tố ảnh hưởng": "Lần lượt hàn từ đầu này rồi lại từ đầu kia đường hàn",
+      "Độ thắt tương đối, %": "-2"
+    },
+    {
+      "_row_id": 28,
+      "Yếu tố ảnh hưởng": "Đầu tiên hàn hết đầu này, sau đó mới hàn đầu kia",
+      "Độ thắt tương đối, %": "0"
+    },
+    {
+      "_row_id": 29,
+      "Yếu tố ảnh hưởng": "Không nung nóng",
+      "Độ thắt tương đối, %": "0"
+    },
+    {
+      "_row_id": 30,
+      "Yếu tố ảnh hưởng": "Có nung nóng",
+      "Độ thắt tương đối, %": "-8"
+    }
+  ],
+  "footnotes": []
+}

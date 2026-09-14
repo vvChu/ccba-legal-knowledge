@@ -1,0 +1,8 @@
+﻿Phương uốn dọc của các thanh trong giàn phẳng và hệ giằng,"Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh cánh","Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh xiên gối tựa, thanh đứng gối tựa","Các giá trị $L_{ef}$ và $L_{ef,1}$ của — các thanh bụng khác"
+"1. Trong mặt phẳng giàn, $L_{ef}$ :<br>a) Đối với giàn, trừ giàn nêu ở điểm 1b",L,L,"0,8L"
+b) Đối với giàn làm bằng các thanh là thép góc đơn và giàn có các thanh bụng liên kết chữ T với các thanh cánh,L,L,"0,9L"
+"2. Theo phương vuông góc với mặt phẳng giàn (ngoài mặt phẳng giàn), $L_{ef,1}$:",,,
+"a) Đối với giàn, trừ giàn nêu ở điểm 2b",$L_{1}$,$L_{1}$,$L_{1}$
+b) Đối với giàn có các thanh bụng liên kết chữ T với các thanh cánh,$L_{1}$,$L_{1}$,"0,9$L_{1}$"
+"3. Theo phương bất kỳ $L_{ef}$ = $L_{ef,1}$ đối với giàn làm bằng các thanh là thép góc đơn khi khoảng cách giữa các điểm liên kết các thanh trong mặt phẳng và ngoài mặt phẳng giàn bằng nhau","0,85L",L,"0,85L"
+"**Các ký hiệu trong Bảng 25 (xem Hình 15):<br>L  là chiều dài hình học của thanh (khoảng cách giữa tâm các nút gần nhau) trong mặt phẳng giàn;<br>$L_{1}$  là khoảng cách giữa các nút có liên kết chặn chuyển vị ngoài mặt phẳng giàn (bởi các thanh cánh gián, các thanh giằng đặc biệt, các tấm mái cứng được hàn hoặc bắt bu lông chặt với cánh giàn và tương tự).**",,,

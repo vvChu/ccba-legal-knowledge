@@ -1,0 +1,24 @@
+﻿Vật liệu,Cấu tạo,Tiết diện tối $thiểu^{a}$ ($mm^{2}$),Ghi chú
+Đồng,Dây dẹt đặc,50,Chiều dày tối thiểu 2 mm
+Đồng,Dây tròn $đặc^{e}$,50,Đường kính 8 mm
+Đồng,Cáp,50,"Đường kính tối thiểu của mỗi sợi 1,7 mm"
+Đồng,"Dây tròn $đặc^{f,g}$",200,Đường kính 16 mm
+Đồng phủ $thiếc^{b}$,Dây dẹt đặc,50,Chiều dày tối thiểu 2 mm
+Đồng phủ $thiếc^{b}$,Dây tròn $đặc^{e}$,50,Đường kính 8 mm
+Đồng phủ $thiếc^{b}$,Cáp,50,"Đường kính tối thiểu của mỗi sợi 1,7 mm"
+Đồng phủ $thiếc^{b}$,"Dây tròn $đặc^{f,g}$",200,Đường kính 16 mm
+Nhôm,Dây dẹt đặc,70,Chiều dày tối thiểu 3 mm
+Nhôm,Dây tròn đặc,50,Đường kính 8 mm
+Nhôm,Cáp,50,"Đường kính tối thiểu của mỗi sợi 1,7 mm"
+Hợp kim nhôm,Dây dẹt đặc,50,"Chiều dày tối thiểu 2,5 mm"
+Hợp kim nhôm,Dây tròn đặc,50,Đường kính 8 mm
+Hợp kim nhôm,Cáp,50,"Đường kính tối thiểu của mỗi sợi 1,7 mm"
+Hợp kim nhôm,Dây tròn $đặc^{f}$,200,Đường kính 16 mm
+Thép mạ $kẽm^{c}$,Dây dẹt đặc,50,"Chiều dày tối thiểu 2,5 mm"
+Thép mạ $kẽm^{c}$,Dây tròn đặc,50,Đường kính 8 mm
+Thép mạ $kẽm^{c}$,Cáp,50,"Đường kính tối thiểu của mỗi sợi 1,7 mm"
+Thép mạ $kẽm^{c}$,"Dây tròn $đặc^{f,g}$",200,Đường kính 16 mm
+Thép không $gỉ^{d}$,Dây dẹt $đặc^{h}$,50,Chiều dày tối thiểu 2 mm
+Thép không $gỉ^{d}$,Dây tròn $đặc^{h}$,50,Đường kính 8 mm
+Thép không $gỉ^{d}$,Cáp,70,"Đường kính tối thiểu của mỗi sợi 1,7 mm"
+Thép không $gỉ^{d}$,"Dây tròn $đặc^{f,g}$",200,Đường kính 16 mm

@@ -1,0 +1,50 @@
+{
+  "table_id": "bang_26",
+  "table_number": "26",
+  "table_title": "Bảng 26 - Chiều dài tính toán ngoài mặt phẳng giàn $L_{ef,1}$ của các thanh trong hệ thanh bụng chữ thập",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Kết cấu nút giao các thanh của hệ thanh bụng chữ thập",
+    "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu kéo",
+    "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — không chịu lực",
+    "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu nén"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Kết cấu nút giao các thanh của hệ thanh bụng chữ thập": "1. Cả hai thanh - liên tục",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu kéo": "L",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — không chịu lực": "0,7$L_{1}$",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu nén": "$L_{1}$"
+    },
+    {
+      "_row_id": 2,
+      "Kết cấu nút giao các thanh của hệ thanh bụng chữ thập": "2. Thanh giao với thanh đang xét - gián đoạn và được phủ bằng bản mã:",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu kéo": "",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — không chịu lực": "",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu nén": ""
+    },
+    {
+      "_row_id": 3,
+      "Kết cấu nút giao các thanh của hệ thanh bụng chữ thập": "a) Thanh đang xét - liên tục",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu kéo": "0,7$L_{1}$",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — không chịu lực": "$L_{1}$",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu nén": "1,4 $L_{1}$"
+    },
+    {
+      "_row_id": 4,
+      "Kết cấu nút giao các thanh của hệ thanh bụng chữ thập": "b) Thanh đang xét - gián đoạn và được phủ bằng bản mã",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu kéo": "0,7$L_{1}$",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — không chịu lực": "",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu nén": ""
+    },
+    {
+      "_row_id": 5,
+      "Kết cấu nút giao các thanh của hệ thanh bụng chữ thập": "**Các ký hiệu trong Bảng 26 (xem Hình 15e):\nL  là khoảng cách từ tâm nút giàn (giằng) đến điểm giao các thanh;\n$L_{1}$ là tổng chiều dài hình học của thanh.**",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu kéo": "",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — không chịu lực": "",
+      "Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu nén": ""
+    }
+  ],
+  "footnotes": []
+}

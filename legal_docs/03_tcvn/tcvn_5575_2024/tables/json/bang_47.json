@@ -1,0 +1,53 @@
+{
+  "table_id": "bang_47",
+  "table_number": "47",
+  "table_title": "Bảng 47 - Khoảng cách lớn nhất $L_{u}$ giữa các khe nhiệt của các khung thép nhà một tầng và công trình",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Đặc điểm của — nhà và công trình — 1. Nhà có sưởi",
+    "Đặc điểm của — phương — Giữa các khe nhiệt — Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất",
+    "Đặc điểm của — phương — Giữa các khe nhiệt — Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất",
+    "Đặc điểm của — phương — Dọc khối nhiệt độ (theo chiều dài nhà) — Theo chiều rộng khối nhiệt độ — Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất",
+    "Giá trị $L_{u}$ — 230 — 150 — 90"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đặc điểm của — nhà và công trình — 1. Nhà có sưởi": "2. Nhà không sưởi và xưởng nóng",
+      "Đặc điểm của — phương — Giữa các khe nhiệt — Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất": "Dọc khối nhiệt độ (theo chiều dài nhà)",
+      "Đặc điểm của — phương — Dọc khối nhiệt độ (theo chiều dài nhà) — Theo chiều rộng khối nhiệt độ — Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất": "Dọc khối nhiệt độ (theo chiều dài nhà)",
+      "Giá trị $L_{u}$ — 230 — 150 — 90": "200"
+    },
+    {
+      "_row_id": 2,
+      "Đặc điểm của — nhà và công trình — 1. Nhà có sưởi": "2. Nhà không sưởi và xưởng nóng",
+      "Đặc điểm của — phương — Giữa các khe nhiệt — Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất": "Theo chiều rộng khối nhiệt độ",
+      "Đặc điểm của — phương — Dọc khối nhiệt độ (theo chiều dài nhà) — Theo chiều rộng khối nhiệt độ — Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất": "Theo chiều rộng khối nhiệt độ",
+      "Giá trị $L_{u}$ — 230 — 150 — 90": "120"
+    },
+    {
+      "_row_id": 3,
+      "Đặc điểm của — nhà và công trình — 1. Nhà có sưởi": "2. Nhà không sưởi và xưởng nóng",
+      "Đặc điểm của — phương — Giữa các khe nhiệt — Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất": "Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất",
+      "Đặc điểm của — phương — Dọc khối nhiệt độ (theo chiều dài nhà) — Theo chiều rộng khối nhiệt độ — Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất": "Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất",
+      "Giá trị $L_{u}$ — 230 — 150 — 90": "75"
+    },
+    {
+      "_row_id": 4,
+      "Đặc điểm của — nhà và công trình — 1. Nhà có sưởi": "3. Cầu cạn lộ thiên",
+      "Đặc điểm của — phương — Giữa các khe nhiệt — Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất": "Giữa các khe nhiệt dọc khối nhiệt độ",
+      "Đặc điểm của — phương — Dọc khối nhiệt độ (theo chiều dài nhà) — Theo chiều rộng khối nhiệt độ — Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất": "Giữa các khe nhiệt dọc khối nhiệt độ",
+      "Giá trị $L_{u}$ — 230 — 150 — 90": "130"
+    },
+    {
+      "_row_id": 5,
+      "Đặc điểm của — nhà và công trình — 1. Nhà có sưởi": "3. Cầu cạn lộ thiên",
+      "Đặc điểm của — phương — Giữa các khe nhiệt — Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất": "Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất",
+      "Đặc điểm của — phương — Dọc khối nhiệt độ (theo chiều dài nhà) — Theo chiều rộng khối nhiệt độ — Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất": "Từ khe nhiệt hoặc đầu nhà đến trục hệ giằng đứng gần nhất",
+      "Giá trị $L_{u}$ — 230 — 150 — 90": "50"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Khi giữa các khe nhiệt của nhà và công trình có hai hệ giằng đứng thì khoảng cách giữa các trục của chúng không được vượt quá: (40 ÷ 50) m đối với nhà; (25 ÷ 30) m đối với cầu cạn lộ thiên."
+  }
+}

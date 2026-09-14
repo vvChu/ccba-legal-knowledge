@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_35",
+  "table_number": "35",
+  "table_title": "Bảng 35 - Hệ số điều kiện làm việc của kết cấu $\\gamma_{c}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Cấu kiện",
+    "Giá trị $\\gamma_{c}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấu kiện": "1. Thành bể chứa hình trụ đứng khi tính toán độ bền:\na) Khoang dưới (có kể đến đầu nối)\nb) Các khoang còn lại\nc) Liên kết thành bể với đáy bể",
+      "Giá trị $\\gamma_{c}$": "0,7\n0,8\n1,2"
+    },
+    {
+      "_row_id": 2,
+      "Cấu kiện": "2. Thành bể chứa hình trụ đứng khi tính toán ổn định",
+      "Giá trị $\\gamma_{c}$": "1,0"
+    },
+    {
+      "_row_id": 3,
+      "Cấu kiện": "3. Mái cầu và mái nón khi tính toán kết cấu theo lý thuyết phi mô men",
+      "Giá trị $\\gamma_{c}$": "0,9"
+    }
+  ],
+  "footnotes": []
+}

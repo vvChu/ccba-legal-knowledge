@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_c_1",
+  "table_number": "C.1",
+  "table_title": "Bảng C.1 - Cường độ tiêu chuẩn theo giới hạn bền $f_{wun}$ và cường độ chịu kéo tính toán $f_{wf}$ của kim loại hàn trong liên kết hàn góc",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại que hàn(TCVN 3223:2000)",
+    "Cường độ tiêu chuẩn theo giới hạn bền, $f_{wun}$",
+    "Cường độ chịu kéo tính toán,$f_{wf}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại que hàn(TCVN 3223:2000)": "E43",
+      "Cường độ tiêu chuẩn theo giới hạn bền, $f_{wun}$": "430",
+      "Cường độ chịu kéo tính toán,$f_{wf}$": "180"
+    },
+    {
+      "_row_id": 2,
+      "Loại que hàn(TCVN 3223:2000)": "E51",
+      "Cường độ tiêu chuẩn theo giới hạn bền, $f_{wun}$": "510",
+      "Cường độ chịu kéo tính toán,$f_{wf}$": "225"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: $f_{wf}$ được tính theo công thức nêu trong Bảng 4 (đã được làm tròn): $f_{wf}$ = 0, 55$f_{wun}$/$\\gamma_{wun}$, với $\\gamma_{wun}$ lấy bằng 1,25 khi $f_{wun}$ ≤ 510 MPa và bằng 1,35 khi $f_{wun}$ ≥ 590 MPa.",
+    "fn_2": "CHÚ THÍCH 3: $f_{wun}$ lấy bằng giới hạn bền kéo nêu trong TCVN 3223:2000.",
+    "fn_3": "CHÚ THÍCH 4: Tham khảo ISO 2560 hoặc tiêu chuẩn tương đương để có thêm thông tin về các loại que hàn khác.",
+    "fn_4": "CHÚ THÍCH 2: $f_{wf}$ được tính theo công thức nêu trong Bảng 4 (đã được làm tròn): $f_{wf}$ = 0, 55$f_{wun}$/$\\gamma_{wun}$, với $\\gamma_{wun}$ lấy bằng 1,25 khi $f_{wun}$ ≤ 510 MPa và bằng 1,35 khi $f_{wun}$ ≥ 590 MPa.",
+    "fn_5": "CHÚ THÍCH 3: $f_{wun}$ lấy bằng giới hạn bền kéo nêu trong TCVN 3223:2000.",
+    "fn_6": "CHÚ THÍCH 4: Tham khảo ISO 2560 hoặc tiêu chuẩn tương đương để có thêm thông tin về các loại que hàn khác.",
+    "fn_7": "CHÚ THÍCH 2: $f_{wf}$ được tính theo công thức nêu trong Bảng 4 (đã được làm tròn): $f_{wf}$ = 0, 55$f_{wun}$/$\\gamma_{wun}$, với $\\gamma_{wun}$ lấy bằng 1,25 khi $f_{wun}$ ≤ 510 MPa và bằng 1,35 khi $f_{wun}$ ≥ 590 MPa.",
+    "fn_8": "CHÚ THÍCH 3: $f_{wun}$ lấy bằng giới hạn bền kéo nêu trong TCVN 3223:2000.",
+    "fn_9": "CHÚ THÍCH 4: Tham khảo ISO 2560 hoặc tiêu chuẩn tương đương để có thêm thông tin về các loại que hàn khác.",
+    "fn_10": "**CHÚ THÍCH:** Ký hiệu đầy đủ của que hàn xem trong TCVN 3223:2000."
+  }
+}

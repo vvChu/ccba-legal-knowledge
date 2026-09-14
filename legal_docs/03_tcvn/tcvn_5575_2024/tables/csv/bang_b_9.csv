@@ -1,0 +1,16 @@
+﻿Ký hiệu loại thép hình,"Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16","Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40","Giới hạn bền kéo, MPa","Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5","Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16","Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50"
+"AWS 400A, AWS 400B, AWS 400C",245,235,400÷510,23,18,22
+"USWS 400A, USWS 400B, USWS 400C",245,235,400÷510,23,18,22
+"ISWS 400A, ISWS 400B, ISWS 400C",245,235,400÷510,23,18,22
+"HSWS 400A, HSWS 400B, HSWS 400C",245,235,400÷510,23,18,22
+"AWS 490A, AWS 490B, AWS 490C",325,315,490÷610,22,17,21
+"USWS 490A, USWS 490B, USWS 490C",325,315,490÷610,22,17,21
+"ISWS 490A, ISWS 490B, ISWS 490C",325,315,490÷610,22,17,21
+"HSWS 490A, HSWS 490B, HSWS 490C",325,315,490÷610,22,17,21
+"AWS 520B, AWS 520C",365,355,520÷640,19,15,19
+"USWS 520B, USWS 520C",365,355,520÷640,19,15,19
+"ISWS 520B, ISWS 520C",365,355,520÷640,19,15,19
+"HSWS 520B, HSWS 520C",365,355,520÷640,19,15,19
+"AWS 570, USWS 570",460,450,570÷720,19 <sup>1)</sup>,26 <sup>2)</sup>,20 <sup>3)</sup>
+"ISWS 570, HSWS 570",460,450,570÷720,19 <sup>1)</sup>,26 <sup>2)</sup>,20 <sup>3)</sup>
+**<sup>1)</sup> Cho chiều dày ≤ 16 mm; <sup>2)</sup> Cho chiều dày > 16 mm và ≤ 20 mm; <sup>3)</sup> Cho chiều dày > 20 mm.**,,,,,,

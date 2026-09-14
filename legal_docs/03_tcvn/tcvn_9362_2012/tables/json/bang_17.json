@@ -1,0 +1,25 @@
+{
+  "table_id": "bang_17",
+  "table_number": "17",
+  "table_title": "Bảng 17 - Các phương án điều kiện địa chất không cần tính lún",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại nhà",
+    "Các phương án điều kiện địa chất không cần tính lún đối với nhà nêu ở cột 1"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại nhà": "1",
+      "Các phương án điều kiện địa chất không cần tính lún đối với nhà nêu ở cột 1": "2"
+    },
+    {
+      "_row_id": 2,
+      "Loại nhà": "A - Nhà sản xuất của các xí nghiệp công nghiệp\n1 - Nhà một tầng có kết cấu chịu lực ít nhạy, lún không đều (ví dụ như khung thép hoặc bê-tông trên móng đơn với gối tựa khớp của sàn và thanh giằng ... Và gồm cả cần trục có sức nâng 50 T.\n2 - Nhà nhiều tầng (đến 6 tầng) có lưới cột không quá 6 m x 9 m.\nB - Nhà ở và nhà công cộng\nNhà có dạng chữ nhật trên mặt bằng không có bước nhảy theo chiều cao, khung hoàn toàn hoặc không khung có tường chịu lực bằng gạch bằng khối lớn hoặc tấm lớn.\na) Dài gồm nhiều đơn nguyên cao đến 9 tầng.\nb) Nhà kiểu tháp không toàn khối cao đến 14 tầng.\nC - Nhà và công trình sản xuất nông nghiệp\nMột và nhiều tầng không phụ thuộc và sơ đồ kết cấu và hình dạng trên mặt bằng.",
+      "Các phương án điều kiện địa chất không cần tính lún đối với nhà nêu ở cột 1": "1 - Đất hòn lớn có hàm lượng cát ít hơn 40 % và sét ít hơn 30 %.\n2 - Cát có độ thô bất kỳ, trừ cát bụi, chặt và chặt vừa.\n3 - Cát có độ thô bất kỳ nhưng chặt.\n4 - Cát có độ thô bất kỳ nhưng chặt vừa.\n5 - Á cát, á sét và sét ở chỉ số sệt $I_{s}$ < 0,5 và hệ số rỗng e trong khoảng từ 0,4 đến 0,9.\n6 - Như điểm 5 trên, nhưng hệ số rỗng e trong khoảng từ 0,5 đến 1,0.\n7- Đất cát có e < 0,7 kết hợp với đát sét nguồn gốc mô ren có e < 0,7 và $I_{s}$ < 0,5 không phụ thuộc vào thứ tự thế nằm của đất."
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:**\n\n&nbsp;&nbsp;\\- 1 - Bảng 17 cho phép sử dụng khi: a) Đất gồm nhiều lớp nằm ngang trong nền nhà và công trình (độ nghiêng không quá 0,1) thuộc những loại đất liệt kê ở bảng này;\n\n&nbsp;&nbsp;\\- b) Nếu bề rộng các móng băng riêng biệt nằm dưới các kết cấu chịu lực hoặc diện tích của các móng trụ không chênh nhau quá 2 lần;\n\n&nbsp;&nbsp;\\- c) Đối với nhà và công trình có chức năng khác với chức năng nêu ở bảng nhưng giống nhau về kết cấu tải trọng và đất có tính nén không vượt quá tính nén của đất nêu trong bảng; 2 - Bảng 17 không áp dụng cho các nhà sản xuất có tải trọng trên sàn lớn hơn 2 MPa."
+  }
+}

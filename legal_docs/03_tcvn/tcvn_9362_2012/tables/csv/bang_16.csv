@@ -1,0 +1,24 @@
+﻿Tên và đặc điểm kết cấu của công trình,Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Dạng,Trị biến dạng giới hạn của nền $S_{gh}$ — Biến dạng tương đối — Độ lớn,"Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Dạng","Trị biến dạng giới hạn của nền $S_{gh}$ — Độ lún tuyệt đối trung bình và lớn nhất, cm — Độ lớn"
+1,2,3,4,5
+1. Nhà sản xuất và nhà dân dụng nhiều tầng bằng khung hoàn toàn,,,,
+1.1. Khung bê tông cốt thép không có tường chèn,Độ lún lệch tương đối,"0,002",Độ lún tuyệt đối lớn nhất $S_{gh}$,8
+1.2. Khung thép không có tường chèn,Độ lún lệch tương đối,"0,001",Độ lún tuyệt đối lớn nhất $S_{gh}$,12
+1.3. Khung bê tông cốt thép có tường chèn,-,"0,001",-,8
+1.4. Khung thép có tường chèn,-,"0,002",-,12
+2. Nhà và công trình không xuất hiện nội lực thêm do tản không đều,-,"0,006",-,15
+"3. Nhà nhiều tầng không khung, tường chịu lực bằng",Võng hoặc võng tương đối,"0,000 7",Độ lún trung bình $S_{ghtb}$,10
+3.1 Tấm lớn<br>3.2 Khối lớn và thể xây bằng gạch không có cốt<br>3.3 Khối lớn và thể xây bằng gạch có cốt hoặc có dằng bê tông cốt thép,Võng hoặc võng tương đối<br>Độ võng hoặc võng tương đối,"0,001<br>0,0012",Độ lún trung bình<br>$S_{ghtb}$<br>Độ lún trung bình<br>$S_{ghtb}$,10<br>15
+3.4. Không phụ thuộc vật liệu của tường,Độ nghiêng theo hướng ngang $i_{gh}$,"0,005",-,
+"4. Công trình cao, cứng",,,,
+4.1. Công trình máy nâng bằng kết cấu bê tông cốt thép:,,,,
+a) Nhà làm việc và thân xi lô kết cấu toàn khối đặt trên cùng một bản móng.,Độ nghiêng ngang và dọc $i_{gh}$,"0,003",Độ lún trung bình<br>$S_{ghtb}$,40
+"b) Như trên, kết cấu lắp ghép.",Độ nghiêng ngang và dọc $i_{gh}$,"0,003",Độ lún trung bình<br>$S_{ghtb}$,30
+c) Nhà làm việc đặt riêng rẽ.,Độ nghiêng ngang $i_{gh}$,"0,003<br>0,004",,25
+"d) Thân xi lô đặt riêng rẽ, kết cấu toàn khối.",Độ nghiêng ngang và dọc,"0,004",-,40
+"e) Như trên, kết cấu lắp ghép",Độ nghiêng ngang và dọc,"0,001",-,30
+4.2. Ống khói có chiều cao H (m),,,,
+H ≤ 100 m,Nghiêng $i_{gh}$,"0,005",Độ lún trung bình $S_{ghtb}$,40
+100 m < H ≤ 200 m,Nghiêng $i_{gh}$,$\frac{1}{2xH}$,Độ lún trung bình $S_{ghtb}$,30
+200 m < H ≤ 300 m,Nghiêng $i_{gh}$,$\frac{1}{2xH}$,Độ lún trung bình $S_{ghtb}$,20
+H > 300 m,Nghiêng $i_{gh}$,$\frac{1}{2xH}$,-,10
+"4.3. Công trình khác, cao đến 100 m và cứng.",Nghiêng $i_{gh}$,"0,004",Độ lún trung bình $S_{ghtb}$,20

@@ -1,0 +1,36 @@
+{
+  "table_id": "bang_19",
+  "table_number": "19",
+  "table_title": "Bảng 19 - Hệ số $k_{tc}$ để xác định trị tính toán các đặc trưng của đất khi tính nền theo sức chịu tải",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "LOẠI ĐẤT",
+    "Khối lượng thể tích",
+    "Góc ma sát trong",
+    "Lực dính đơn vị"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "LOẠI ĐẤT": "Đất cát",
+      "Khối lượng thể tích": "1,0",
+      "Góc ma sát trong": "1,1",
+      "Lực dính đơn vị": "4,0"
+    },
+    {
+      "_row_id": 2,
+      "LOẠI ĐẤT": "Á cát có chỉ số sệt $I_{s}$ ≤ 0,25, á sét và sét có chỉ số sệt $I_{s}$ ≤ 0,5",
+      "Khối lượng thể tích": "1,0",
+      "Góc ma sát trong": "1,1",
+      "Lực dính đơn vị": "2,4"
+    },
+    {
+      "_row_id": 3,
+      "LOẠI ĐẤT": "Á cát có chỉ số sệt $I_{s}$ > 0,25, á sét và sét có $I_{s}$ > 0,5",
+      "Khối lượng thể tích": "1,0",
+      "Góc ma sát trong": "1,1",
+      "Lực dính đơn vị": "3,3"
+    }
+  ],
+  "footnotes": []
+}

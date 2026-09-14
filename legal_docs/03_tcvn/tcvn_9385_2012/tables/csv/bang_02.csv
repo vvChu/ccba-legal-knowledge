@@ -1,0 +1,20 @@
+﻿Vật liệu,Cấu tạo,Kích thước tối $thiểu^{a}$ — Cọc nối đất,Kích thước tối $thiểu^{a}$ — Dây nối đất,Kích thước tối $thiểu^{a}$ — Tấm nối đất,Ghi chú
+Đồng,$Cáp^{b}$,,50 $mm^{2}$,,"Đường kính tối thiểu của mỗi sợi 1,7 mm"
+Đồng,Dây tròn $đặc^{b}$,,50 $mm^{2}$,,Đường kính 8 mm
+Đồng,Dây dẹt $đặc^{b}$,,50 $mm^{2}$,,Chiều dày tối thiểu 2mm
+Đồng,Dây tròn đặc,Đường kính 15 mm,,,
+Đồng,Ống,Đường kính 20 mm,,,Chiều dày thành ống tối thiểu 2 mm
+Đồng,Tấm đặc,,,500 mm x 500 mm,Chiều dày tối thiểu 2 mm
+Đồng,Tấm mắt cáo,,,600 mm x 600 mm,Tiết diện 25 mm x 2 mm
+Thép,Dây tròn đặc mạ $kẽm^{c}$,Đường kính 16 $mm^{d}$,Đường kính 10 mm,,
+Thép,Ống mạ $kẽm^{c}$,Đường kính 25 $mm^{d}$,,,Chiều dày thành ống tối thiểu 2 mm
+Thép,Dây dẹt đặc mạ $kẽm^{c}$,,90 $mm^{2}$,,Chiều dày tối thiểu 3 mm
+Thép,Tấm đặc mạ $kẽm^{c}$,,,500 mm x 500 mm,Chiều dày tối thiểu 3 mm
+Thép,Tấm mắt cáo mạ $kẽm^{c}$,,,600 mm x 600 mm,Tiết diện 30 mm x 3 mm
+Thép,"Dây tròn đặc mạ $đồng^{c,e}$",Đường kính 14 mm,,,"Mạ đồng 99,9% đồng, dày tối thiểu 250 microns"
+Thép,Dây tròn đặc không $mạ^{f}$,,Đường kính 10 mm,,
+Thép,"Dây dẹt đặc trần hoặc mạ $kẽm^{f,g}$",,75 $mm^{2}$,,Chiều dày tối thiểu 3 mm
+Thép,"Cáp mạ $kẽm^{f,g}$",,70 $mm^{2}$,,"Đường kính tối thiểu của mỗi sợi 1,7 mm"
+Thép,Thép ống mạ $kẽm^{c}$,50 mm x 50 mm x 3 mm,,,
+Thép không gỉ,Dây tròn đặc,Đường kính 16 mm,Đường kính 10 mm,,
+Thép không gỉ,Dây dẹt đặc,,100 $mm^{2}$,,Chiều dày tối thiểu 2 mm

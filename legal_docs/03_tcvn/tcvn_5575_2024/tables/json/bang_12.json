@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_12",
+  "table_number": "12",
+  "table_title": "Bảng 12 - Độ mảnh quy ước giới hạn của cánh chịu nén của dầm cán hoặc dầm hàn $\\overline{\\lambda}_{ub}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Vị trí đặt tải trọng — 1. Ở cánh trên",
+    "Giá trị $\\overline{\\lambda}_{ub}$ — $0,35 + 0,0032\\frac{b}{t} + \\left(0,76 - 0,02\\frac{b}{t}\\right)\\frac{b}{h}$",
+    "Giá trị $\\overline{\\lambda}_{ub}$ — (70)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Vị trí đặt tải trọng — 1. Ở cánh trên": "2. Ở cánh dưới",
+      "Giá trị $\\overline{\\lambda}_{ub}$ — $0,35 + 0,0032\\frac{b}{t} + \\left(0,76 - 0,02\\frac{b}{t}\\right)\\frac{b}{h}$": "$0,57 + 0,0032\\frac{b}{t} + \\left(0,92 - 0,02\\frac{b}{t}\\right)\\frac{b}{h}$",
+      "Giá trị $\\overline{\\lambda}_{ub}$ — (70)": "(71)"
+    },
+    {
+      "_row_id": 2,
+      "Vị trí đặt tải trọng — 1. Ở cánh trên": "3. Không phụ thuộc vị trí đặt tải trọng khi tính toán đoạn dầm giữa các điểm giằng hoặc khi uốn thuần túy",
+      "Giá trị $\\overline{\\lambda}_{ub}$ — $0,35 + 0,0032\\frac{b}{t} + \\left(0,76 - 0,02\\frac{b}{t}\\right)\\frac{b}{h}$": "$0,41 + 0,0032\\frac{b}{t} + \\left(0,73 - 0,016\\frac{b}{t}\\right)\\frac{b}{h}$",
+      "Giá trị $\\overline{\\lambda}_{ub}$ — (70)": "(72)"
+    },
+    {
+      "_row_id": 3,
+      "Vị trí đặt tải trọng — 1. Ở cánh trên": "**Các ký hiệu trong Bảng 12:\nb và t là chiều rộng và chiều dày của cánh chịu nén;\nh là khoảng cách (chiều cao) trục các cánh.**",
+      "Giá trị $\\overline{\\lambda}_{ub}$ — $0,35 + 0,0032\\frac{b}{t} + \\left(0,76 - 0,02\\frac{b}{t}\\right)\\frac{b}{h}$": "",
+      "Giá trị $\\overline{\\lambda}_{ub}$ — (70)": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Đối với dầm có liên kết ma sát cánh với bụng thì giá trị $\\bar{\\lambda}_{ub}$ cần được nhân thêm với 1,2.",
+    "fn_2": "CHÚ THÍCH 3: Giá trị $\\bar{\\lambda}_{ub}$ cho phép tăng lên bằng cách nhân với hệ số $\\sqrt{f_{yf}/\\sigma}$, trong đó σ = M/($W_{c}\\gamma_{c}$).",
+    "fn_3": "CHÚ THÍCH 2: Đối với dầm có liên kết ma sát cánh với bụng thì giá trị $\\bar{\\lambda}_{ub}$ cần được nhân thêm với 1,2.",
+    "fn_4": "CHÚ THÍCH 3: Giá trị $\\bar{\\lambda}_{ub}$ cho phép tăng lên bằng cách nhân với hệ số $\\sqrt{f_{yf}/\\sigma}$, trong đó σ = M/($W_{c}\\gamma_{c}$).",
+    "fn_5": "CHÚ THÍCH 2: Đối với dầm có liên kết ma sát cánh với bụng thì giá trị $\\bar{\\lambda}_{ub}$ cần được nhân thêm với 1,2.",
+    "fn_6": "CHÚ THÍCH 3: Giá trị $\\bar{\\lambda}_{ub}$ cho phép tăng lên bằng cách nhân với hệ số $\\sqrt{f_{yf}/\\sigma}$, trong đó σ = M/($W_{c}\\gamma_{c}$).",
+    "fn_7": "**CHÚ THÍCH:** Các giá trị$\\bar{\\lambda}_{ub}$ được xác định với 1 ≤ h/b ≤ 6 và 15 ≤ b/t ≤ 35; đối với dầm có tỷ số b/t < 15 thì trong các công thức trong Bảng 12 lầy b/t = 15."
+  }
+}

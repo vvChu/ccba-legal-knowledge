@@ -1,0 +1,11 @@
+﻿Loại tiết diện,Sơ đồ tiết diện,$\frac{A_f}{A_w}$,Giá trị lớn nhất của các hệ số — $c_{x}$,Giá trị lớn nhất của các hệ số — $c_{y}$,Giá trị lớn nhất của các hệ số — n khi $M_{y}$ = 0 1)
+1,"$A_f, \quad A_w$","0,25<br>0,5<br>1,0<br>2,0","1,19<br>1,12<br>1,07<br>1,04","1,47","1,5"
+2,"$\begin{aligned} A_f, A_w, 0,5A_f, x, y \end{aligned}$","0,5<br>1,0<br>2,0","1,40<br>1,28<br>1,18","1,47","2,0"
+3,"$0,5A_w$","0,25<br>1,0<br>2,0","1,19<br>1,07<br>1,04","1,07<br>1,19<br>1,26","1,5"
+4,"$0{,}25 A_f \quad \text{và} \quad 0{,}5 A_w$","0,5<br>1,0<br>2,0","1,40<br>1,28<br>1,18","1,12<br>1,20<br>1,31","2,0"
+5,$\text{a)}\qquad \text{b)}$,-,"1,47","1,47","a) 2,0<br>b) 3,0"
+6,"$A_f \quad \text{y} \quad \text{x} \quad 0{,}5A_w \quad 0{,}5A_w$","0,25<br>0,5<br>1,0<br>2,0","1,47","1,04<br>1,07<br>1,12<br>1,19","3,0"
+7,"$x - x, \quad y - y$",-,"1,26","1,26","1,5"
+8,,-,"1,60","1,47","a) 3,0<br>b) 1,0"
+9,"$\text{a)}\, A_f \quad \text{b)}\, 0{,}5 A_w$","0,5<br>1,0<br>2,0","1,60","1,07<br>1,12 1,19","a) 3,0<br>b) 1,0"
+"**<sup>1)</sup> Khi $M_{y}$ ≠ 0 thì lấy n =1,5, trừ tiết diện loại 5a (lấy n = 2) và loại 5b (lấy n = 3).**",,,,,

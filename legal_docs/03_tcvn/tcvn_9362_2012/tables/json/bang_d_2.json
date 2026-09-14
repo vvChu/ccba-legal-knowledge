@@ -1,0 +1,80 @@
+{
+  "table_id": "bang_d_2",
+  "table_number": "D.2",
+  "table_title": "Bảng D.2 - Áp lực tính toán quy ước $R_{o}$ trên đất sét không lún ướt",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại đất sét",
+    "Hệ số rỗng e",
+    "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 0",
+    "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 1"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đất sét": "Á cát",
+      "Hệ số rỗng e": "50",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 0": "300",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 1": "300"
+    },
+    {
+      "_row_id": 2,
+      "Loại đất sét": "Á cát",
+      "Hệ số rỗng e": "50",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 0": "250",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 1": "200"
+    },
+    {
+      "_row_id": 3,
+      "Loại đất sét": "",
+      "Hệ số rỗng e": "50",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 0": "300",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 1": "250"
+    },
+    {
+      "_row_id": 4,
+      "Loại đất sét": "Á sét",
+      "Hệ số rỗng e": "50",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 0": "250",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 1": "180"
+    },
+    {
+      "_row_id": 5,
+      "Loại đất sét": "",
+      "Hệ số rỗng e": "100",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 0": "200",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 1": "100"
+    },
+    {
+      "_row_id": 6,
+      "Loại đất sét": "",
+      "Hệ số rỗng e": "50",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 0": "600",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 1": "400"
+    },
+    {
+      "_row_id": 7,
+      "Loại đất sét": "Sét",
+      "Hệ số rỗng e": "60",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 0": "500",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 1": "300"
+    },
+    {
+      "_row_id": 8,
+      "Loại đất sét": "",
+      "Hệ số rỗng e": "80",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 0": "300",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 1": "200"
+    },
+    {
+      "_row_id": 9,
+      "Loại đất sét": "",
+      "Hệ số rỗng e": "110",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 0": "250",
+      "$R_{0}$ ứng với chỉ số sệt của đất, (kPa) — $I_{s}$ = 1": "100"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Đối với đất sét có các giá trị trung gian e và $I_{s}$ cho phép xác định trị số $R_{0}$ bằng cách nội suy lúc đầu theo e đối với các giá trị $I_{s}$ = 0 và $I_{s}$ = 1, sau đó theo $I_{s}$ giữa các giá trị $R_{0}$ đã tìm đối với $I_{s}$ = 0 và $I_{s}$ = 1."
+  }
+}

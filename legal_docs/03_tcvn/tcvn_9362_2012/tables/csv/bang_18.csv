@@ -1,0 +1,6 @@
+﻿Loại đất,Hệ số $m_{2}$ đối với nhà và công trình có sơ đồ kết cấu cứng khi tỷ số chiều dài của nhà (công trình) hoặc các đoạn nhà trên chiều cao L/H — L/H ≥ 4,"Hệ số $m_{2}$ đối với nhà và công trình có sơ đồ kết cấu cứng khi tỷ số chiều dài của nhà (công trình) hoặc các đoạn nhà trên chiều cao L/H — 4 > L/H > 2,5","Hệ số $m_{2}$ đối với nhà và công trình có sơ đồ kết cấu cứng khi tỷ số chiều dài của nhà (công trình) hoặc các đoạn nhà trên chiều cao L/H — 2,5 ≥ L/H > 1,5","Hệ số $m_{2}$ đối với nhà và công trình có sơ đồ kết cấu cứng khi tỷ số chiều dài của nhà (công trình) hoặc các đoạn nhà trên chiều cao L/H — L/H ≤ 1,5"
+"Đất hòn Iớn có chất nhét là cát và đất cát, trừ cát mịn và cát bụi","1,4","1,7","2,1","2,5"
+Cát mịn,"1,3","1,6","1,9","2,2"
+Cát bụi,"1,1","1,3","1,7","2,0"
+"Đất hòn Iớn có chất nhét là sét và đất sét có chỉ số sệt $l_{s}$ ≤ 0,5","1,0","1,0","1,1","1,2"
+"Như trên với chỉ số sệt $I_{s}$ > 0,5","1,0","1,0","1,0","1,0"

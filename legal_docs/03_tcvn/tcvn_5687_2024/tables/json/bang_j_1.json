@@ -1,0 +1,76 @@
+{
+  "table_id": "bang_j_1",
+  "table_number": "J.1",
+  "table_title": "Bảng J.1 - Các loại nguy cơ độc cấp tính và giá trị ước tính độc tính cấp tính (ATE) khi xác định các loại tương ứng",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Đường tiếp xúc",
+    "Loại 1",
+    "Loại 2",
+    "Loại 3",
+    "Loại 4",
+    "Loại 5"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đường tiếp xúc": "Đường miệng (mg/kg trọng lượng cơ thể)\n(xem CHÚ THÍCH 2, a) và b))",
+      "Loại 1": "5",
+      "Loại 2": "50",
+      "Loại 3": "300",
+      "Loại 4": "2 000",
+      "Loại 5": "5 000\n(xem CHÚ THÍCH 2, g))"
+    },
+    {
+      "_row_id": 2,
+      "Đường tiếp xúc": "Da (mg/kg trọng lượng cơ thể)\nXem CHÚ THÍCH 2, a) và b)",
+      "Loại 1": "50",
+      "Loại 2": "200",
+      "Loại 3": "1 000",
+      "Loại 4": "2 000",
+      "Loại 5": "5 000\n(xem CHÚ THÍCH 2, g))"
+    },
+    {
+      "_row_id": 3,
+      "Đường tiếp xúc": "Khí (ppmV)\n(xem CHÚ THÍCH 2, a), b) và c))",
+      "Loại 1": "100",
+      "Loại 2": "500",
+      "Loại 3": "2 500",
+      "Loại 4": "20 000",
+      "Loại 5": "(xem CHÚ THÍCH 2, g))"
+    },
+    {
+      "_row_id": 4,
+      "Đường tiếp xúc": "Hơi khí (mg/L)\n(xem CHÚ THÍCH 2, a), b), c), d) và e))",
+      "Loại 1": "0,5",
+      "Loại 2": "2,0",
+      "Loại 3": "10",
+      "Loại 4": "20",
+      "Loại 5": "(xem CHÚ THÍCH 2, g))"
+    },
+    {
+      "_row_id": 5,
+      "Đường tiếp xúc": "Bụi và sương mù (mg/L)\n(xem CHÚ THÍCH 2, a), b), c) và f))",
+      "Loại 1": "0,05",
+      "Loại 2": "0,5",
+      "Loại 3": "1,0",
+      "Loại 4": "5",
+      "Loại 5": "(xem CHÚ THÍCH 2, g))"
+    }
+  ],
+  "footnotes": {
+    "(ppmV)": "**CHÚ THÍCH 1:** Nồng độ khí được biểu thị bằng phần triệu trên thể tích (ppmV).",
+    "(ATE)": "**CHÚ THÍCH 3:** b) Ước tính độc tính cấp tính (ATE) đối với một chất trong hỗn hợp được tính bằng cách sử dụng LD50/LC50;",
+    "fn_3": "**CHÚ THÍCH 4:** c) Các giá trị giới hạn hít phải trong bảng dựa trên phơi nhiễm thử nghiệm trong 4 h. Việc chuyển đổi dữ liệu độc tính qua đường hô hấp hiện có đã được tạo ra sau 1 h phơi nhiễm phải được chia cho hệ số 2 đối với khí và hơi khí và 4 đối với bụi và sương mù;",
+    "fn_4": "**CHÚ THÍCH 5:** d) Người ta nhận ra rằng nồng độ hơi khí bão hòa có thể được sử dụng như một yếu tố bổ sung bởi một số hệ thống quy định nhằm cung cấp biện pháp bảo vệ an toàn và sức khỏe cụ thể (ví dụ: Khuyến cáo của Liên Hợp Quốc về Vận chuyển hàng hóa nguy hiểm);",
+    "fn_5": "**CHÚ THÍCH 6:** e) Đối với một số chất, môi trường thử nghiệm sẽ không chỉ là hơi mà sẽ bao gồm hỗn hợp thể lỏng và thể hơi. Đối với các chất khác, môi trường thử nghiệm có thể bao gồm hơi ở gần thể khí. Trong những trường hợp sau này, việc phân loại phải dựa trên ppmV như sau: loại 1 (100 ppmV), loại 2 (500 ppmV), loại 3 (2 500 ppmV), loại 4 (20 000 ppmV): Các thuật ngữ “bụi”, “sương” và “hơi” được định nghĩa như sau:",
+    "fn_6": "**CHÚ THÍCH 1:** Bụi: các hạt rắn của một chất hoặc hỗn hợp lơ lửng trong khí (thường là không khí);",
+    "fn_7": "**CHÚ THÍCH 2:** Sương mù: các giọt chất lỏng hoặc hỗn hợp lơ lửng trong chất khí (thường là không khí);",
+    "fn_8": "**CHÚ THÍCH 3:** Hơi khí: dạng khí của một chất hoặc hỗn hợp thoát ra từ trạng thái lỏng hoặc rắn.",
+    "fn_9": "**CHÚ THÍCH 10:** Bụi thường được hình thành bởi các quá trình cơ học. Sương mù thường được hình thành do sự ngưng tụ của hơi quá bão hòa hoặc do sự cắt xé vật lý của chất lỏng. Bụi và sương mù thường có kích thước từ nhỏ hơn 1 đến khoảng 100 μm;",
+    "fn_10": "**CHÚ THÍCH 11:** f) Các giá trị đối với bụi và sương mù cần được xem xét để thích ứng với bất kỳ thay đổi nào trong tương lai đối với Hướng dẫn thử nghiệm của OECD (Tổ chức Hợp tác và Phát triển kinh tế) liên quan đến giới hạn kỹ thuật trong việc tạo ra, duy trì và đo nồng độ bụi và sương mù ở dạng có thể hít thở;",
+    "fn_11": "**CHÚ THÍCH 12:** g) Các tiêu chí cho loại 5 nhằm mục đích cho phép xác định các chất có nguy cơ độc tính cấp tính tương đối thấp nhưng trong một số trường hợp nhất định có thể gây nguy hiểm cho các quần thể dễ bị tổn thương. Những chất này được dự đoán là có LD 50 qua đường miệng hoặc qua da trong khoảng 2 000-5 000 mg/kg trọng lượng cơ thể và liều lượng tương đương khi hít phải. Các tiêu chí cụ thể cho loại 5 là:",
+    "fn_12": "**CHÚ THÍCH 1:** Chất được phân loại trong loại này nếu đã có sẵn bằng chứng đáng tin cậy cho thấy LD 50 (hoặc LC50) nằm trong phạm vi giá trị của loại 5 hoặc các nghiên cứu trên động vật khác hoặc tác dụng độc ở người chỉ ra mối lo ngại đối với sức khỏe con người là cấp tính:",
+    "fn_13": "**CHÚ THÍCH 2:** Chất được phân loại trong danh mục này, thông qua phép ngoại suy, ước tính hoặc đo dữ liệu, nếu việc phân loại vào danh mục nguy hiểm hơn không được đảm bảo, và:có sẵn thông tin đáng tin cậy cho thấy các tác động độc hại đáng kể ở người; hoặc bất kỳ tỷ lệ tử vong nào được quan sát thấy khi thử nghiệm lên đến giá trị loại 4 bằng đường miệng, đường hô hấp hoặc da; hoặc khi đánh giá của chuyên gia xác nhận các dấu hiệu lâm sàng đáng kể về độc tính, khi thử nghiệm lên đến giá trị Loại 4, ngoại trừ tiêu chảy, lông dựng đứng hoặc bề ngoài không chải chuốt; hoặc khi đánh giá của chuyên gia xác nhận thông tin đáng tin cậy cho thấy khả năng xảy ra các tác động cấp tính đáng kể từ các nghiên cứu trên động vật khác."
+  }
+}

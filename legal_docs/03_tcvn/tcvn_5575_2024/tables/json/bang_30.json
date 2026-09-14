@@ -1,0 +1,55 @@
+{
+  "table_id": "bang_30",
+  "table_number": "30",
+  "table_title": "Bảng 30 - Hệ số chiều dài tính toán của thanh xiên µ$_{d}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Liên kết của thanh xiên với các thanh cánh",
+    "Giá trị n",
+    "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — ≤ 60",
+    "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — > 60; ≤ 160",
+    "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — > 160"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Liên kết của thanh xiên với các thanh cánh": "1. Bằng đường hàn hoặc bu lông (không ít hơn 2) bố trí dọc theo thanh xiên",
+      "Giá trị n": "< 2",
+      "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — ≤ 60": "1,14",
+      "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — > 60; ≤ 160": "0,54 + 36($i_{min}$/L)",
+      "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — > 160": "0,765"
+    },
+    {
+      "_row_id": 2,
+      "Liên kết của thanh xiên với các thanh cánh": "1. Bằng đường hàn hoặc bu lông (không ít hơn 2) bố trí dọc theo thanh xiên",
+      "Giá trị n": ">",
+      "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — ≤ 60": "1,04",
+      "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — > 60; ≤ 160": "0,54 + 28,8($i_{min}$/L)",
+      "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — > 160": "0,740"
+    },
+    {
+      "_row_id": 3,
+      "Liên kết của thanh xiên với các thanh cánh": "2. Bằng một bu lông không bản mã",
+      "Giá trị n": "Bất kỳ",
+      "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — ≤ 60": "1,12",
+      "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — > 60; ≤ 160": "0,64 + 28,8($i_{min}$/L)",
+      "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — > 160": "0,820"
+    },
+    {
+      "_row_id": 4,
+      "Liên kết của thanh xiên với các thanh cánh": "**Các ký hiệu trong Bảng 30:\nn lấy theo Bảng 29;\nL là chiều dài thanh, lấy bằng đối $L_{d}$ đối với các thanh xiên theo Hình 17b, c, d, f và bằng $L_{dc}$ theo Bảng 29 - đối với các thanh xiên theo Hình 17a, e.**",
+      "Giá trị n": "",
+      "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — ≤ 60": "",
+      "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — > 60; ≤ 160": "",
+      "Giá trị µ$_{d}$ khi L/$i_{min}$ bằng — > 160": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Khi liên kết trực tiếp một đầu của thanh xiên với thanh cánh bằng đường hàn hoặc bu lông, còn đầu kia qua bản mã thì hệ số chiều dài tính toán của thanh xiên lấy bằng 0,5(1 + µ$_{d}$); khi liên kết cả hai đầu thanh xiên qua bản mã thì lấy µ$_{d}$ = 1,0.",
+    "fn_2": "CHÚ THÍCH 2: Khi liên kết trực tiếp một đầu của thanh xiên với thanh cánh bằng đường hàn hoặc bu lông, còn đầu kia qua bản mã thì hệ số chiều dài tính toán của thanh xiên lấy bằng 0,5(1 + µ$_{d}$); khi liên kết cả hai đầu thanh xiên qua bản mã thì lấy µ$_{d}$ = 1,0.",
+    "fn_3": "CHÚ THÍCH 2: Khi liên kết trực tiếp một đầu của thanh xiên với thanh cánh bằng đường hàn hoặc bu lông, còn đầu kia qua bản mã thì hệ số chiều dài tính toán của thanh xiên lấy bằng 0,5(1 + µ$_{d}$); khi liên kết cả hai đầu thanh xiên qua bản mã thì lấy µ$_{d}$ = 1,0.",
+    "fn_4": "CHÚ THÍCH 2: Khi liên kết trực tiếp một đầu của thanh xiên với thanh cánh bằng đường hàn hoặc bu lông, còn đầu kia qua bản mã thì hệ số chiều dài tính toán của thanh xiên lấy bằng 0,5(1 + µ$_{d}$); khi liên kết cả hai đầu thanh xiên qua bản mã thì lấy µ$_{d}$ = 1,0.",
+    "fn_5": "CHÚ THÍCH 2: Khi liên kết trực tiếp một đầu của thanh xiên với thanh cánh bằng đường hàn hoặc bu lông, còn đầu kia qua bản mã thì hệ số chiều dài tính toán của thanh xiên lấy bằng 0,5(1 + µ$_{d}$); khi liên kết cả hai đầu thanh xiên qua bản mã thì lấy µ$_{d}$ = 1,0.",
+    "fn_6": "**CHÚ THÍCH:** Giá trị µ$_{d}$ khi 2 ≤ n ≤ 6 được xác định bằng nội suy tuyến tính."
+  }
+}

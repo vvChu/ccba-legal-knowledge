@@ -1,0 +1,69 @@
+{
+  "table_id": "bang_23",
+  "table_number": "23",
+  "table_title": "Bảng 23 - Độ mảnh quy ước giới hạn của bản bụng cấu kiện chịu nén lệch tâm (hoặc nén uốn) $\\lambda _{uw}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại tiết diện",
+    "Sơ đồ tiết diện và độ lệch tâm",
+    "Điều kiện áp dụng các công thức",
+    "Điều kiện áp dụng các công thức",
+    "Độ mảnh quy ước giới hạn của bản bụng, $\\lambda _{uw}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại tiết diện": "1",
+      "Sơ đồ tiết diện và độ lệch tâm": "$Hình ảnh bạn cung cấp là một sơ đồ hình học (hình vẽ kỹ thuật), không chứa công thức toán học hay ký hiệu cần chuyển đổi sang LaTeX. Do đó, không có nội dung để chuyển đổi theo yêu cầu của bạn.$",
+      "Điều kiện áp dụng các công thức": "$\\lambda _{x}$ < 2",
+      "Độ mảnh quy ước giới hạn của bản bụng, $\\lambda _{uw}$": "$\\overline{\\lambda}_{uw} = \\overline{\\lambda}_{uw1} = 1,3 + 0,15 \\overline{\\lambda}_x^2 \\qquad (124)$"
+    },
+    {
+      "_row_id": 2,
+      "Loại tiết diện": "1",
+      "Sơ đồ tiết diện và độ lệch tâm": "$Hình ảnh bạn cung cấp là một sơ đồ hình học (hình vẽ kỹ thuật), không chứa công thức toán học hay ký hiệu cần chuyển đổi sang LaTeX. Do đó, không có nội dung để chuyển đổi theo yêu cầu của bạn.$",
+      "Điều kiện áp dụng các công thức": "$\\lambda _{x}$≥ 2",
+      "Độ mảnh quy ước giới hạn của bản bụng, $\\lambda _{uw}$": "$\\overline{\\lambda}_{uw} = \\overline{\\lambda}_{uw1} = 1,2 + 0,35 \\overline{\\lambda}_x \\leq 3,1 \\qquad (125)$"
+    },
+    {
+      "_row_id": 3,
+      "Loại tiết diện": "2",
+      "Sơ đồ tiết diện và độ lệch tâm": "",
+      "Điều kiện áp dụng các công thức": "$c\\varphi_{y}$ > $\\varphi_{e}$;\n1 ≤ α ≤ 2",
+      "Độ mảnh quy ước giới hạn của bản bụng, $\\lambda _{uw}$": "$\\bar{\\lambda}_{uw} = \\bar{\\lambda}_{uw2} = 1,42 \\cdot \\sqrt{\\frac{c_{cr} f_{yd} \\gamma_c}{\\sigma_1 (2 - \\alpha + \\sqrt{\\alpha^2 + 4\\beta^2})}} \\le 0,7 + 2,4\\alpha \\qquad (126)$"
+    },
+    {
+      "_row_id": 4,
+      "Loại tiết diện": "3",
+      "Sơ đồ tiết diện và độ lệch tâm": "$e_x$",
+      "Điều kiện áp dụng các công thức": "1 ≤ α ≤ 2",
+      "Độ mảnh quy ước giới hạn của bản bụng, $\\lambda _{uw}$": "$\\overline{\\lambda}_{uw} = 0,75 \\overline{\\lambda}_{uw2} \\leq 0,52 + 1,8\\alpha \\qquad (127)$"
+    },
+    {
+      "_row_id": 5,
+      "Loại tiết diện": "4",
+      "Sơ đồ tiết diện và độ lệch tâm": "$e_x$",
+      "Điều kiện áp dụng các công thức": "$\\begin{aligned} 1 \\le b_f / h_{ef} \\le 2; \\\\ 0,8 \\le \\bar{\\lambda} \\le 4,0 \\end{aligned}$",
+      "Độ mảnh quy ước giới hạn của bản bụng, $\\lambda _{uw}$": "$\\bar{\\lambda}_{uw} = (0,40 + 0,07\\bar{\\lambda}_x)(1 + 0,25\\sqrt{2 - b_f / h_{ef}}) \\qquad (128)$"
+    },
+    {
+      "_row_id": 6,
+      "Loại tiết diện": "5",
+      "Sơ đồ tiết diện và độ lệch tâm": "$e_y$",
+      "Điều kiện áp dụng các công thức": "$m_{y}$ ≥ 1",
+      "Độ mảnh quy ước giới hạn của bản bụng, $\\lambda _{uw}$": "$\\bar{\\lambda}_{uw} = 2\\sqrt{\\frac{Af_{yd}\\gamma_c}{N}} \\leq 5,5 \\qquad (129)$"
+    },
+    {
+      "_row_id": 7,
+      "Loại tiết diện": "**Các ký hiệu trong Bảng 23:\n$\\lambda _{x}$ là độ mảnh quy ước của cấu kiện trong mặt phẳng tác dụng của mô men uốn;\nCcr là hệ số, được xác định theo Bảng 18 phụ thuộc vào α;\nα = ($\\sigma_{1}$- $\\sigma_{2}$)/$\\sigma_{1}$ (với $\\sigma_{1}$ là ứng suất nén lớn nhất ở biên tính toán của bản bụng được lấy với dấu \"dương” và được tính không kể đến các hệ số $\\varphi_{e}$, $c\\varphi_{y}$ và $\\varphi_{exy}$;$\\sigma_{2}$ là ứng suất tương ứng tại biên tính toán đối diện của bản bụng);\n$\\beta = 0,15 c_{\\sigma} \\frac{\\tau}{\\sigma_1} \\quad (\\text{với } \\tau = \\frac{V}{t_w h_w})$ là ứng suất tiếp trung bình tại tiết diện đang xét; đối với tiết diện hộp $\\tau = \\frac{V}{2t_w h_w}b_{f}$ là chiều rộng cánh của tiết diện chữ T.**",
+      "Sơ đồ tiết diện và độ lệch tâm": "",
+      "Điều kiện áp dụng các công thức": "",
+      "Độ mảnh quy ước giới hạn của bản bụng, $\\lambda _{uw}$": ""
+    }
+  ],
+  "footnotes": {
+    "(124)": "**CHÚ THÍCH:** Đối với tiết diện loại 1 khi 0 < $m_{x}$ < 1 hoặc 10 < $m_{x}$ ≤ 20 thì giá trị $\\lambda _{uw}$ được xác định bằng nội suy tuyến tính giữa các giá trị $\\lambda _{uw}$ tính theo 7.3.2 ($m_{x}$ = 0) hoặc 8.5.1 ($m_{x}$ = 20) và tính theo công thức (124) hoặc (125) tương ứng.",
+    "(128)": "CHÚ THÍCH 3: Đối với tiết diện loại 4 khi $\\lambda _{x}$<0,8 hoặc $\\lambda _{x}$> 4 thì trong công thức (128) lấy $\\lambda _{x}$= 0,8 hoặc $\\lambda _{x}$= 4.",
+    "(129)": "CHÚ THÍCH 4: Đối với tiết diện loại 5 khi 0 < $m_{y}$ < 1 thì giá trị $\\lambda _{uw}$ được xác định bằng nội suy tuyến tính giữa các giá trị $\\lambda _{uw}$ tính theo 7.3.2 ($m_{y}$= 0) và tính theo công thức (129)."
+  }
+}

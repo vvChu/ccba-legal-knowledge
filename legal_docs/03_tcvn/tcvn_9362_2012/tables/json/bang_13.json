@@ -1,0 +1,33 @@
+{
+  "table_id": "bang_13",
+  "table_number": "13",
+  "table_title": "Bảng 13 - Phân loại đất đắp",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tiêu chuẩn để chia đất đắp",
+    "Các loại đất đắp và các đặc trưng của đất"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tiêu chuẩn để chia đất đắp": "A. Theo phương pháp đắp",
+      "Các loại đất đắp và các đặc trưng của đất": "1. Đắp bằng phương pháp khô (dùng trong giao thông đường bộ hoặc đường sắt bằng máy ủi hoặc máy cạp).\n2. Đắp ướt (bằng cơ giới hóa thủy lực)."
+    },
+    {
+      "_row_id": 2,
+      "Tiêu chuẩn để chia đất đắp": "B. Theo sự đồng nhất về thành phần và cấu trúc",
+      "Các loại đất đắp và các đặc trưng của đất": "1. Đất đắp theo kế hoạch xây dựng (đất đắp ngược) và đất thay thế (đệm). Loại đất này đặc trưng bằng thành phần và cấu trúc đồng nhất, tính chịu nén đều.\n2. Các bãi thải đất và các phế liệu sản xuất. Loại đất này có thành phần và cấu trúc đồng nhất nhưng độ chặt và tính chịu nén không đều.\n3. Đất đánh đồng, phế liệu sản xuất và rác sinh hoạt. Loại này không đồng nhất về thành phần và cấu trúc, độ chặt và tính chịu nén không đều có chứa tạp chất hữu cơ."
+    },
+    {
+      "_row_id": 3,
+      "Tiêu chuẩn để chia đất đắp": "C. Theo nguồn gốc vật liệu chiếm phần chính của đất đắp",
+      "Các loại đất đắp và các đặc trưng của đất": "1. Đất tự nhiên: đất hòn lớn, đất cát, đất sét.\n2. Phế liệu sản xuất: xỉ, tro, đất tạo mẫu vật thải của nhà máy làm giàu nguyên liệu...\n3. Chất thải trong sinh hoạt."
+    },
+    {
+      "_row_id": 4,
+      "Tiêu chuẩn để chia đất đắp": "D. Theo độ chặt do trọng lượng bản thân gây ra",
+      "Các loại đất đắp và các đặc trưng của đất": "1. Đã ổn định quá trình nén chặt do trọng lượng bản thân gây ra đã kết thúc.\n2. Chưa ổn định quá trình nén chặt do trọng lượng bản thân gây ra còn tiếp diễn."
+    }
+  ],
+  "footnotes": []
+}

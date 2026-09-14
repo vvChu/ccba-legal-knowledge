@@ -1,0 +1,80 @@
+{
+  "table_id": "bang_08",
+  "table_number": "8",
+  "table_title": "Bảng 8 - Độ mảnh quy đổi của cấu kiện tiết diện rỗng $\\lambda_{ef}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Tiết diện — Loại",
+    "Tiết diện — Sơ đồ",
+    "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có bản giằng",
+    "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có bản giằng",
+    "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có bản giằng",
+    "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có bản giằng",
+    "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có thanh giằng",
+    "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có thanh giằng",
+    "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có thanh giằng",
+    "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có thanh giằng",
+    "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có thanh giằng"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tiết diện — Loại": "1",
+      "Tiết diện — Sơ đồ": "$text inside the image?\nLabels:\n- `1` at the top-left and bottom-left (designating axis 1-1)\n- `y` at top$",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có bản giằng": "(11)",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có thanh giằng": "(14)"
+    },
+    {
+      "_row_id": 2,
+      "Tiết diện — Loại": "1",
+      "Tiết diện — Sơ đồ": "$text inside the image?\nLabels:\n- `1` at the top-left and bottom-left (designating axis 1-1)\n- `y` at top$",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có bản giằng": "$n = \\frac{I_{b1}b}{I_s L_b}$",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có thanh giằng": "$\\alpha = 10 \\frac{d^3}{b^2 L_b}$"
+    },
+    {
+      "_row_id": 3,
+      "Tiết diện — Loại": "2",
+      "Tiết diện — Sơ đồ": "$b_1, b_2, x-x, y-y, 1-1, 2-2$",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có bản giằng": "(12)",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có thanh giằng": "(15)"
+    },
+    {
+      "_row_id": 4,
+      "Tiết diện — Loại": "2",
+      "Tiết diện — Sơ đồ": "$b_1, b_2, x-x, y-y, 1-1, 2-2$",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có bản giằng": "$n_1 = \\frac{I_{b1} b_1}{I_{s1} L_b}; n_2 = \\frac{I_{b2} b_2}{I_{s2} L_b}$",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có thanh giằng": "$\\alpha_1 = 10 \\frac{d_1^3}{b_1^2 L_b} ; \\alpha_2 = 10 \\frac{d_2^3}{b_2^2 L_b}$"
+    },
+    {
+      "_row_id": 5,
+      "Tiết diện — Loại": "2",
+      "Tiết diện — Sơ đồ": "$b_1, b_2, x-x, y-y, 1-1, 2-2$",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có bản giằng": "$n_1 = \\frac{I_{b1} b_1}{I_{s1} L_b}; n_2 = \\frac{I_{b2} b_2}{I_{s2} L_b}$",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có thanh giằng": "($d_{1}$ và $d_{2}$ ứng với các cạnh $b_{1}$ và $b_{2}$)"
+    },
+    {
+      "_row_id": 6,
+      "Tiết diện — Loại": "3",
+      "Tiết diện — Sơ đồ": "$b$",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có bản giằng": "(13)",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có thanh giằng": "(16)"
+    },
+    {
+      "_row_id": 7,
+      "Tiết diện — Loại": "3",
+      "Tiết diện — Sơ đồ": "$b$",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có bản giằng": "$n_3 = \\frac{I_{b3}b}{I_s L_b}$",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có thanh giằng": "$\\alpha = 10 \\frac{d^3}{b^2 L_b}$"
+    },
+    {
+      "_row_id": 8,
+      "Tiết diện — Loại": "**Các ký hiệu trong Bảng 8:\n$\\lambda_{y}$ là độ mảnh của toàn cấu kiện tiết diện rỗng trong mặt phẳng vuông góc với trục y-y;\n$\\lambda_{max}$ là độ mảnh lớn nhất của toàn cấu kiện tiết diện rỗng trong mặt phẳng vuông góc với trục x-x hoặc y-y;\n$\\lambda_{1}$, $\\lambda_{2}$, $\\lambda_{3}$ là độ mảnh của từng nhánh khi uốn trong các mặt phẳng vuông góc với các trục tương ứng 1-1, 2-2 và 3-3 trên các đoạn giữa các đường hàn hoặc giữa các bu lông ngoài cùng giữ các bản giằng;\nb, ($b_{1}$, $b_{2}$) là khoảng cách giữa các trục của các nhánh;\nd, $L_{b}$ là các kích thước được xác định theo các hình 5 và 6;\nA là diện tích tiết diện toàn cấu kiện;\n$A_{d1}$, $A_{d2}$ là các diện tích tiết diện của các thanh xiên trong hệ thanh bụng (với hệ thanh bụng chữ thập - là các diện tích tiết diện của hai thanh xiên) nằm tương ứng trong các mặt phẳng vuông góc với các trục 1-1 và 2-2;\n$A_{d3}$ là diện tích tiết diện thanh xiên của hệ thanh bụng (với hệ thanh bụng chữ thập - là diện tích tiết diện của hai thanh xiên) nằm trong mặt phẳng của một nhánh (đối với cấu kiện ba nhánh đều nhau);\n$I_{b1}$, $I_{b3}$ là các mô men quán tính của tiết diện các nhánh đối với các trục tương ứng 1-1 và 3-3 (đối với tiết diện loại 1 và 3);\n$I_{b1}$, $I_{b2}$ là các mô men quán tính của tiết diện hai thép góc đối với các trục tương ứng 1-1 và 2-2 (đối với tiết diện loại 2);\n$I_{s}$ là mô men quán tính của tiết diện một bản giằng đối với trục bản thân x-x (Hình 6; đối với tiết diện loại 1 và 3);\n$I_{s1}$, $I_{s2}$ là mô men quán tính của tiết diện một trong các bản giằng nằm trong các mặt phẳng vuông góc với các trục tương ứng 1-1 và 2-2 (đối với tiết diện loại 2).**",
+      "Tiết diện — Sơ đồ": "",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có bản giằng": "",
+      "Giá trị $\\lambda_{ef}$ của cấu kiện tiết diện rỗng — có thanh giằng": ""
+    }
+  ],
+  "footnotes": {
+    "(11)": "**CHÚ THÍCH:** Cũng cần xếp vào loại 1 các tiết diện sử dụng thay vì chữ C lá chữ I, ống và các định hình khác cho một hoặc hai nhánh; khi đó các trục y-y và 1-1 phải đi qua các trọng tâm tương ứng của tiết diện toàn cấu kiện và từng nhánh riêng còn các giá trị n và $\\lambda_{b1}$ trong công thức (11) phải đảm bảo cho giá trị lớn nhất của $\\lambda_{ef}$ ."
+  }
+}

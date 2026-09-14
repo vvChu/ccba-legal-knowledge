@@ -1,0 +1,34 @@
+id: QCVN-03-2023-BCA
+document_number: QCVN 03:2023/BCA
+title: QCVN 03:2023/BCA — Quy chuẩn kỹ thuật quốc gia về Phương tiện phòng cháy và
+  chữa cháy
+type: Quy chuẩn kỹ thuật quốc gia
+issued_by: Bộ Công an
+signer: Tô Lâm
+issued_date: '2023-10-24'
+effective_date: '2023-12-15'
+status: active
+bundle_path: legal_docs/02_qcvn/qcvn_03_2023_bca/
+source_url: https://thuvienphapluat.vn/TCVN/Linh-vuc-khac/QCVN-03-2023-BCA-phuong-tien-phong-chay-chua-chay-920561.aspx
+sha256: b41e51ecf92a2d2c0605eef0b740e48f11daff2550c1108a0f413e71726aa523
+pdf_path: legal_docs/02_qcvn/qcvn_03_2023_bca/sources/qcvn_03_2023_bca.pdf
+pdf_sha256: e1d0d1961ef9bd97ce4ded969ac84a91b24be0e73fdaf0c9da18027426a1387f
+cong_bao_number: 56/2023/TT-BCA
+pdf_status: verified
+source_file: legal_docs/02_qcvn/qcvn_03_2023_bca/sources/qcvn_03_2023_bca.docx
+source_file_size_kb: 75.8
+source_assets:
+  docx:
+    sha256: b41e51ecf92a2d2c0605eef0b740e48f11daff2550c1108a0f413e71726aa523
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_03_2023_bca/qcvn_03_2023_bca.docx
+    status: verified
+  pdf:
+    sha256: e1d0d1961ef9bd97ce4ded969ac84a91b24be0e73fdaf0c9da18027426a1387f
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_03_2023_bca/qcvn_03_2023_bca.pdf
+    status: verified
+relations:
+  replaces: QCVN-03-2021-BCA
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-14T15:11:44.674407+00:00'

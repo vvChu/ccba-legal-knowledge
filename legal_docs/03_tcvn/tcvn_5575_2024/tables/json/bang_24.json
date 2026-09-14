@@ -1,0 +1,56 @@
+{
+  "table_id": "bang_24",
+  "table_number": "24",
+  "table_title": "Bảng 24 - Độ mảnh quy ước giới hạn của phần vươn cánh $\\lambda _{uf}$ hoặc bản cánh $\\lambda _{uf,1}$ của cấu kiện chịu nén lệch tâm (hoặc nén uốn)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại tiết diện",
+    "Sơ đồ tiết diện và độ lệch tâm",
+    "Điều kiện áp dụng các công thức",
+    "Giá trị $\\lambda _{uf}$ hoặc $\\lambda _{uf,1}$ khi 0,8 ≤ $\\lambda _{x}$ ($\\lambda _{y}$) ≤ 4"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại tiết diện": "1",
+      "Sơ đồ tiết diện và độ lệch tâm": "$b_{ef}$",
+      "Điều kiện áp dụng các công thức": "0 ≤ $m_{x}$ ≤ 5",
+      "Giá trị $\\lambda _{uf}$ hoặc $\\lambda _{uf,1}$ khi 0,8 ≤ $\\lambda _{x}$ ($\\lambda _{y}$) ≤ 4": "$\\lambda _{uf,1}$ = $\\lambda _{ufc}$ – 0,01(1,5 + 0,7$\\lambda _{x}$)$m_{x}$ (131)"
+    },
+    {
+      "_row_id": 2,
+      "Loại tiết diện": "2",
+      "Sơ đồ tiết diện và độ lệch tâm": "",
+      "Điều kiện áp dụng các công thức": "0 ≤ $m_{x}$ ≤ 5",
+      "Giá trị $\\lambda _{uf}$ hoặc $\\lambda _{uf,1}$ khi 0,8 ≤ $\\lambda _{x}$ ($\\lambda _{y}$) ≤ 4": "`$l_{uf,1}$ = `$l_{ufc}$ – 0,01(5,3 + 1,3$\\lambda _{x}$)$m_{x}$ (132)"
+    },
+    {
+      "_row_id": 3,
+      "Loại tiết diện": "3",
+      "Sơ đồ tiết diện và độ lệch tâm": "$e_x$",
+      "Điều kiện áp dụng các công thức": "-",
+      "Giá trị $\\lambda _{uf}$ hoặc $\\lambda _{uf,1}$ khi 0,8 ≤ $\\lambda _{x}$ ($\\lambda _{y}$) ≤ 4": "$\\lambda _{uf}$ = 0,36 + 0,1$\\lambda _{x}$                                          (133)"
+    },
+    {
+      "_row_id": 4,
+      "Loại tiết diện": "4",
+      "Sơ đồ tiết diện và độ lệch tâm": "$e_y$",
+      "Điều kiện áp dụng các công thức": "-",
+      "Giá trị $\\lambda _{uf}$ hoặc $\\lambda _{uf,1}$ khi 0,8 ≤ $\\lambda _{x}$ ($\\lambda _{y}$) ≤ 4": "$\\lambda _{uf}$ = 0,36 + 0,1$\\lambda _{y}$                            (134)"
+    },
+    {
+      "_row_id": 5,
+      "Loại tiết diện": "**Các ký hiệu trong Bảng 24:\n$\\lambda _{ufc}$ là giá trị giới hạn của độ mảnh quy ước của phần vươn cánh hoặc bản cánh của cấu kiện chịu nén đúng tâm, được xác định theo các yêu cầu trong 7.3.8 và 7.3.9.**",
+      "Sơ đồ tiết diện và độ lệch tâm": "",
+      "Điều kiện áp dụng các công thức": "",
+      "Giá trị $\\lambda _{uf}$ hoặc $\\lambda _{uf,1}$ khi 0,8 ≤ $\\lambda _{x}$ ($\\lambda _{y}$) ≤ 4": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Khi Độ mảnh của cấu kiện $\\lambda _{x}$($\\lambda _{y}$) < 0,8 hoặc $\\lambda _{x}$($\\lambda _{y}$) >4 thì lấy $\\lambda _{x}$($\\lambda _{y}$) = 0,8 hoặc $\\lambda _{x}$($\\lambda _{y}$)= 4 tương ứng.",
+    "fn_2": "CHÚ THÍCH 2: Khi Độ mảnh của cấu kiện $\\lambda _{x}$($\\lambda _{y}$) < 0,8 hoặc $\\lambda _{x}$($\\lambda _{y}$) >4 thì lấy $\\lambda _{x}$($\\lambda _{y}$) = 0,8 hoặc $\\lambda _{x}$($\\lambda _{y}$)= 4 tương ứng.",
+    "fn_3": "CHÚ THÍCH 2: Khi Độ mảnh của cấu kiện $\\lambda _{x}$($\\lambda _{y}$) < 0,8 hoặc $\\lambda _{x}$($\\lambda _{y}$) >4 thì lấy $\\lambda _{x}$($\\lambda _{y}$) = 0,8 hoặc $\\lambda _{x}$($\\lambda _{y}$)= 4 tương ứng.",
+    "fn_4": "CHÚ THÍCH 2: Khi Độ mảnh của cấu kiện $\\lambda _{x}$($\\lambda _{y}$) < 0,8 hoặc $\\lambda _{x}$($\\lambda _{y}$) >4 thì lấy $\\lambda _{x}$($\\lambda _{y}$) = 0,8 hoặc $\\lambda _{x}$($\\lambda _{y}$)= 4 tương ứng.",
+    "fn_5": "**CHÚ THÍCH:** Khi 5 < $m_{x}$ ≤ 20 thì giá trị $\\lambda _{uf}$($\\lambda _{uf,1}$) được xác định bằng nội suy tuyến tính giữa giá trị $\\lambda _{uf}$($\\lambda _{uf,1}$) tính được theo các công thức trong bảng này và giá trị tính được theo 8.5.18 và 8.5.19 (khi m = 20) tương ứng."
+  }
+}

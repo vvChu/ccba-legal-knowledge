@@ -1,0 +1,3372 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 56,
+    "line_end": 56,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-1",
+    "anchor": "muc-1-1",
+    "title": "1.1  Tiêu chuẩn này quy định các yêu cầu khi thiết kế và lắp đặt các hệ thống thông gió và điều hòa không khí cho các gian phòng/không gian của công trình dân dụng khi xây dựng mới hoặc cải tạo.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 60,
+    "line_end": 60,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-2",
+    "anchor": "muc-1-2",
+    "title": "1.2  Tiêu chuẩn này có thể áp dụng cho các gian phòng/không gian của nhà công nghiệp có yêu cầu về thông gió và điều hoà không khí để đảm bảo điều kiện tiện nghi nhiệt và yêu cầu vệ sinh, nếu không có quy định khác trong nhiệm vụ thiết kế.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 64,
+    "line_end": 64,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-3",
+    "anchor": "muc-1-3",
+    "title": "1.3  Tiêu chuẩn này không áp dụng cho các loại công trình và hệ thống sau đây:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 68,
+    "line_end": 68,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 82,
+    "line_end": 82,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 96,
+    "line_end": 96,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  QUY ĐỊNH CHUNG",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 368,
+    "line_end": 368,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Hệ thống thông gió và điều hoà không khí phải được thiết kế để đảm bảo điều kiện tiện nghi nhiệt và yêu cầu vệ sinh cho người và mọi hoạt động dự kiến, đảm bảo sử dụng năng lượng tiết kiệm và hiệu quả.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 372,
+    "line_end": 372,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Khi thiết kế thông gió và điều hoà không khí cần áp dụng các giải pháp kỹ thuật, kể cả các giải pháp về công nghệ và kiến trúc, nhằm bảo đảm:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 376,
+    "line_end": 376,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Thiết bị thông gió và điều hoà không khí, các loại đường ống lắp đặt trong các phòng có môi trường ăn mòn hoặc dùng để vận chuyển môi chất có tính ăn mòn phải được chế tạo từ vật liệu chống ăn mòn hoặc được phủ bề mặt bằng lớp sơn chống gỉ.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 394,
+    "line_end": 394,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4",
+    "anchor": "muc-4-4",
+    "title": "4.4  Phải có lớp cách nhiệt trên các bề mặt nóng của thiết bị thông gió và điều hoà không khí để đề phòng khả năng gây cháy các loại khí, hơi, son khí, bụi có thể có trong phòng với yêu cầu nhiệt độ mặt ngoài của lớp cách nhiệt phải thấp hơn 20 % nhiệt độ bốc cháy của các loại khí, hơi v.v. nêu trên.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 398,
+    "line_end": 398,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-5",
+    "anchor": "muc-4-5",
+    "title": "4.5  Cấu tạo lớp cách nhiệt đường ống dẫn không khí lạnh và dẫn nước nóng/lạnh phải được thiết kế và lắp đặt phù hợp tiêu chuẩn lựa chọn áp dụng.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 404,
+    "line_end": 404,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6",
+    "anchor": "muc-4-6",
+    "title": "4.6  Các thiết bị thông gió và điều hoà không khí phi tiêu chuẩn, đường ống dẫn không khí và vật liệu cách nhiệt phải được chế tạo từ những vật liệu được phép dùng trong xây dựng.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 408,
+    "line_end": 408,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7",
+    "anchor": "muc-4-7",
+    "title": "4.7  Phân loại các hệ thống điều hoà không khí",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 412,
+    "line_end": 412,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7-1",
+    "anchor": "muc-4-7-1",
+    "title": "4.7.1  Các hệ thống điều hòa không khí được phân loại theo các đặc điểm:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 416,
+    "line_end": 416,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  CÁC THÔNG SỐ CỦA KHÔNG KHÍ TRONG PHÒNG VÀ BÊN NGOÀI",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 436,
+    "line_end": 436,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Thông số của không khí trong phòng",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 440,
+    "line_end": 440,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-1-1",
+    "anchor": "muc-5-1-1",
+    "title": "5.1.1  Khi thiết kế điều hòa không khí nhằm đảm bảo điều kiện tiện nghi nhiệt cho cơ thể con người, thông số của không khí trong phòng lấy theo Phụ lục A.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 444,
+    "line_end": 444,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-1-2",
+    "anchor": "muc-5-1-2",
+    "title": "5.1.2  Đối với thông gió tự nhiên và cơ khí, về mùa nóng nhiệt độ tính toán của không khí bên trong phòng không được vượt quá 3 °C so với nhiệt độ cao nhất trung bình ngoài trời của tháng nóng nhất trong năm [2]. Về mùa lạnh nhiệt độ tính toán của không khí bên trong phòng có thể lấy theo Phụ lục A.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 448,
+    "line_end": 448,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-1-3",
+    "anchor": "muc-5-1-3",
+    "title": "5.1.3  Trường hợp thông gió tự nhiên hoặc cơ khí nếu không đảm bảo được điều kiện tiện nghi nhiệt theo Phụ lục A thì để bù vào độ gia tăng nhiệt độ của môi trường cần tăng vận tốc chuyển động của không khí để giữ được chỉ tiêu cảm giác nhiệt trong phạm vi cho phép, ứng với mỗi 1 °C tăng nhiệt độ cần tăng thêm vận tốc gió từ 0,5 m/s đến 0,8 m/s, nhưng không nên vượt quá 1,5 m/s.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 452,
+    "line_end": 452,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Thông số của không khí bên ngoài",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 456,
+    "line_end": 456,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-1",
+    "anchor": "muc-5-2-1",
+    "title": "5.2.1  Thông số không khí bên ngoài dùng để thiết kế thông gió tự nhiên và thông gió cơ khí là nhiệt độ không khí cao nhất trung bình tháng về mùa nóng hoặc nhiệt độ không khí thấp nhất trung bình tháng lạnh nhất về mùa lạnh [2].",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 460,
+    "line_end": 460,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2-2",
+    "anchor": "muc-5-2-2",
+    "title": "5.2.2  Thông số không khí bên ngoài cho điều hoà không khí cần được chọn theo số giờ cho phép không đảm bảo chế độ nhiệt ẩm bên trong nhà m nêu trong Phụ lục B, tính bằng h/năm, hoặc theo xác suất bảo đảm $P_{e}$ phù hợp với cấp điều hoà không khí.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 464,
+    "line_end": 464,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-99",
+    "anchor": "muc-99",
+    "title": "99  % (TƯƠNG ỨNG VỚI SỐ GIỜ KHÔNG BẢO ĐẢM M = 8672 H/NĂM).",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 492,
+    "line_end": 492,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6",
+    "anchor": "muc-6",
+    "title": "6  THIẾT KẾ HỆ THỐNG THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 498,
+    "line_end": 498,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1",
+    "anchor": "muc-6-1",
+    "title": "6.1  Chỉ dẫn chung",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 502,
+    "line_end": 502,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1-1",
+    "anchor": "muc-6-1-1",
+    "title": "6.1.1  Cần tận dụng thông gió tự nhiên, thông gió xuyên phòng về mùa nóng và có biện pháp tránh gió lùa về mùa lạnh trong nhà ở và công trình công cộng.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 506,
+    "line_end": 506,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1-2",
+    "anchor": "muc-6-1-2",
+    "title": "6.1.2  Đối với công trình cao tầng (có hoặc không có hệ thống điều hoà không khí) cần ưu tiên thiết kế ống đứng thoát khí cho bếp và khu vệ sinh riêng biệt với thông gió cơ khí (quạt hút). Khi công trình có chiều cao dưới 5 tầng có thể áp dụng hệ thống hút tự nhiên bằng áp suất nhiệt hoặc áp suất gió (chụp hút tự nhiên). Trường hợp không thể bố trí ống đứng thoát khí lên trên mái cần tuân thủ quy định trong 6.5.2.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 510,
+    "line_end": 510,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1-3",
+    "anchor": "muc-6-1-3",
+    "title": "6.1.3  Thông gió cơ khí cần được áp dụng khi:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 514,
+    "line_end": 514,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1-4",
+    "anchor": "muc-6-1-4",
+    "title": "6.1.4  Quạt trần và quạt cây được áp dụng bổ sung cho hệ thống thông gió thải vào nhằm tăng vận tốc chuyển động của không khí về mùa nóng tại các vị trí cần thiết.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 524,
+    "line_end": 524,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-2",
+    "anchor": "muc-6-2",
+    "title": "6.2  Lưu lượng không khí ngoài (gió tươi) theo yêu cầu vệ sinh, lưu lượng không khí thổi vào và không khí tuần hoàn (gió hồi)",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 528,
+    "line_end": 528,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1-5",
+    "anchor": "muc-6-1-5",
+    "title": "6.1.5  Lưu lượng không khí ngoài theo yêu cầu vệ sinh cho các phòng có điều hoà không khí tiện nghi phải được tính toán để pha loãng được các chất độc hại và mùi tỏa ra từ cơ thể con người khi hoạt động và từ đồ vật, trang thiết bị trong phòng. Trong trường hợp không đủ điều kiện tính toán, lượng không khí ngoài có thể lấy theo tiêu chuẩn đầu người hoặc theo diện tích sàn nêu trong Phụ lục E.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 532,
+    "line_end": 532,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1-6",
+    "anchor": "muc-6-1-6",
+    "title": "6.1.6  Đối với các phòng có thông gió cơ khí (không sử dụng điều hoà không khí) lưu lượng không khí ngoài cần tính toán để bảo đảm nồng độ cho phép của các chất độc hại trong phòng, có kể đến yêu cầu bù vào lượng không khí hút thải ra ngoài của các hệ thống hút cục bộ nhằm mục đích tạo chênh lệch áp suất trong phòng theo hướng có lợi. Trường hợp không đủ điều kiện tính toán, lưu lượng không khí ngoài được lấy theo số lần trao đổi không khí nêu trong Phụ lục F.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 536,
+    "line_end": 536,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1-7",
+    "anchor": "muc-6-1-7",
+    "title": "6.1.7  Lưu lượng không khí thổi vào (gió ngoài hoặc hỗn hợp gió ngoài và gió tuần hoàn - gió hòa trộn) phải được xác định bằng tính toán tham khảo Phụ lục G và chọn trị số lớn nhất để bảo đảm yêu cầu vệ sinh và yêu cầu an toàn cháy nổ.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 540,
+    "line_end": 540,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1-8",
+    "anchor": "muc-6-1-8",
+    "title": "6.1.8  Không được phép lấy không khí tuần hoàn (gió hồi) trong các trường hợp sau đây:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 544,
+    "line_end": 544,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1-9",
+    "anchor": "muc-6-1-9",
+    "title": "6.1.9  Miệng lấy gió hồi phải được bố trí trong vùng làm việc hoặc vùng phục vụ.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 552,
+    "line_end": 552,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-3",
+    "anchor": "muc-6-3",
+    "title": "6.3  Tổ chức thông gió và trao đổi không khí",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 556,
+    "line_end": 556,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-3-1",
+    "anchor": "muc-6-3-1",
+    "title": "6.3.1  Phân phối không khí thổi vào và hút thải không khí ra ngoài phải được thực hiện phù hợp với công năng sử dụng trong ngày, trong năm, đồng thời có kể đến tính chất thay đổi của các nguồn tỏa nhiệt, tỏa ẩm và các chất độc hại.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 560,
+    "line_end": 560,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-3-2",
+    "anchor": "muc-6-3-2",
+    "title": "6.3.2  Thông gió thổi vào phải được thực hiện trực tiếp đối với các phòng thường xuyên có người sử dụng.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 564,
+    "line_end": 564,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-3-3",
+    "anchor": "muc-6-3-3",
+    "title": "6.3.3  Lượng không khí thổi vào cho hành lang hoặc các phòng phụ liền kề của phòng chính không được vượt quá 50 % lượng không khí thổi vào phòng chính.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 568,
+    "line_end": 568,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-3-4",
+    "anchor": "muc-6-3-4",
+    "title": "6.3.4  Không được thổi không khí vào phòng từ vùng ô nhiễm nhiều đến vùng ô nhiễm ít và làm ảnh hưởng đến chế độ làm việc của các miệng hút cục bộ.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 572,
+    "line_end": 572,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-4",
+    "anchor": "muc-6-4",
+    "title": "6.4  Vị trí đặt cửa lấy không khí ngoài (gió tươi)",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 576,
+    "line_end": 576,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-4-1",
+    "anchor": "muc-6-4-1",
+    "title": "6.4.1  Mép dưới của cửa lấy không khí ngoài cho hệ thống thông gió cơ khí hoặc hệ thống điều hoà không khí phải nằm ở độ cao không nhỏ hơn 2 m kể từ mặt đất. Đối với các vùng có gió mạnh mang theo nhiều cát-bụi, mép dưới của cửa lấy không khí ngoài phải nằm ở độ cao không nhỏ hơn 3 m kể từ mặt đất.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 580,
+    "line_end": 580,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-4-2",
+    "anchor": "muc-6-4-2",
+    "title": "6.4.2  Cửa lấy không khí ngoài phải được lắp lưới chắn rác, chắn côn trùng, động vật nhỏ cũng như tấm chắn chống mưa hắt.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 584,
+    "line_end": 584,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-4-3",
+    "anchor": "muc-6-4-3",
+    "title": "6.4.3  Cửa hoặc tháp lấy không khí ngoài có thể được đặt trên tường ngoài, trên mái nhà hoặc ngoài sân vườn và phải có khoảng cách không nhỏ hơn 5 m đối với cửa thải gió của nhà lân cận, của nhà bếp, phòng vệ sinh, gara ô tô, tháp làm mát, phòng máy, v.v.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 588,
+    "line_end": 588,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5",
+    "anchor": "muc-6-5",
+    "title": "6.5  Không khí thải (gió thải)",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 594,
+    "line_end": 594,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5-1",
+    "anchor": "muc-6-5-1",
+    "title": "6.5.1  Đối với các phòng được điều hoà không khí phải có hệ thống thải không khí ô nhiễm ra ngoài khi cần thiết để nâng cao chất lượng môi trường trong phòng.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 598,
+    "line_end": 598,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5-2",
+    "anchor": "muc-6-5-2",
+    "title": "6.5.2  Cửa hoặc miệng ống thải khí phải đặt cách xa cửa lấy không khí ngoài không nhỏ hơn 5 m.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 602,
+    "line_end": 602,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5-3",
+    "anchor": "muc-6-5-3",
+    "title": "6.5.3  Thải không khí từ phòng ra ngoài bằng hệ thống thông gió hút ra phải được thực hiện từ vùng bị ô nhiễm nhiều nhất cũng như vùng có nhiệt độ hoặc entanpy cao nhất. Còn khi trong phòng có tỏa bụi thì không khí thải ra ngoài bằng hệ thống thông gió chung cần hút từ vùng dưới thấp. Không được hướng dòng không khí ô nhiễm vào các vị trí làm việc.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 606,
+    "line_end": 606,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5-4",
+    "anchor": "muc-6-5-4",
+    "title": "6.5.4  Miệng hút đặt trên cao của hệ thống thông gió hút chung để thải khí ra ngoài cần được bố trí như sau:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 610,
+    "line_end": 610,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5-5",
+    "anchor": "muc-6-5-5",
+    "title": "6.5.5  Miệng hút đặt dưới thấp của hệ thống thông gió hút chung cần được bố trí với khoảng cách nhỏ hơn 0,3 m tính từ sàn đến mép dưới của miệng hút.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 620,
+    "line_end": 620,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-6",
+    "anchor": "muc-6-6",
+    "title": "6.6  Lọc sạch bụi trong không khí",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 626,
+    "line_end": 626,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-6-1",
+    "anchor": "muc-6-6-1",
+    "title": "6.6.1  Không khí ngoài và không khí tuần hoàn trong các phòng được điều hoà không khí phải được lọc sạch bụi.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 630,
+    "line_end": 630,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-6-2",
+    "anchor": "muc-6-6-2",
+    "title": "6.6.2  Phải lọc bụi trong không khí thổi vào của các hệ thống thông gió cơ khí và điều hoà không khí để đảm bảo nồng độ bụi sau khi lọc không vượt quá:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 634,
+    "line_end": 634,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-6-3",
+    "anchor": "muc-6-6-3",
+    "title": "6.6.3  Phin lọc không khí phải được lắp đặt sao cho không khí chưa được lọc không chảy qua đường vòng phin lọc.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 642,
+    "line_end": 642,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-6-4",
+    "anchor": "muc-6-6-4",
+    "title": "6.6.4  Phải có khả năng tiếp cận bộ phận lọc không khí vào bất cứ thời điểm nào cần thiết để kiểm tra tình trạng của bộ lọc và sức cản của nó đối với dòng không khí đi qua.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 646,
+    "line_end": 646,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-7",
+    "anchor": "muc-6-7",
+    "title": "6.7  Rèm không khí (màn gió)",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 650,
+    "line_end": 650,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-7-1",
+    "anchor": "muc-6-7-1",
+    "title": "6.7.1  Màn gió được áp dụng tại vị trí cửa ra vào của công trình công cộng có điều hoà không khí và cần lựa chọn một trong các phương án sau đây khi số người ra vào thường xuyên trên 300 lượt/h;",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 654,
+    "line_end": 654,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-7-2",
+    "anchor": "muc-6-7-2",
+    "title": "6.7.2  Nhiệt độ không khí cấp cho màn gió chống lạnh tại cửa ra vào không được vượt quá 50 °C và vận tốc không được vượt quá 8 m/s.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 664,
+    "line_end": 664,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8",
+    "anchor": "muc-6-8",
+    "title": "6.8  Thông gió sự cố",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 668,
+    "line_end": 668,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8-1",
+    "anchor": "muc-6-8-1",
+    "title": "6.8.1  Thông gió sự cố cho các phòng/không gian mà trong đó có thể phát sinh đột ngột một lượng lớn khí, hơi hoặc son khí độc hại hoặc cháy nổ phải theo yêu cầu công nghệ, có kể đến sự không tương thích giữa yêu cầu công nghệ và thiết bị thông gió tại thời điểm xảy ra sự cố.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 672,
+    "line_end": 672,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8-2",
+    "anchor": "muc-6-8-2",
+    "title": "6.8.2  Thông gió sự cố cho các gian phòng hạng A và B phải bằng hệ thống cưỡng bức cơ khí.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 678,
+    "line_end": 678,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8-3",
+    "anchor": "muc-6-8-3",
+    "title": "6.8.3  Thông gió sự cố cho các gian phòng hạng C1 đến C4, D và E cần được thực hiện bằng cưỡng bức cơ khí; cho phép sử dụng thông gió sự cố bằng tự nhiên với điều kiện phải đảm bảo lượng không khí cần thiết ứng với các thông số không khí vào mùa nóng (theo thông số của nhiệt độ không khí cao nhất trung bình tháng quy định tại số liệu điều kiện tự nhiên dùng trong xây dựng [2])",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 684,
+    "line_end": 684,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8-4",
+    "anchor": "muc-6-8-4",
+    "title": "6.8.4  Để thực hiện thông gió sự cố cho phép sử dụng:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 688,
+    "line_end": 688,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8-5",
+    "anchor": "muc-6-8-5",
+    "title": "6.8.5  Không cần phải bù không khí vào phòng bằng hệ thống thổi vào khi thực hiện thông gió sự cố cho bụi và khí độc hại nếu không có yêu cầu của công nghệ.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 698,
+    "line_end": 698,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8-6",
+    "anchor": "muc-6-8-6",
+    "title": "6.8.6  Hệ thống thông gió cho các khu vực phải bảo vệ chống nhiễm khói khi có cháy theo quy định về an toàn cháy cho nhà và công trình [6] phải đảm bảo các yêu cầu sau:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 702,
+    "line_end": 702,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-9",
+    "anchor": "muc-6-9",
+    "title": "6.9  Thiết bị thông gió và điều hoà không khí",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 714,
+    "line_end": 714,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-9-1",
+    "anchor": "muc-6-9-1",
+    "title": "6.9.1  Quạt thông gió, máy điều hòa không khí, buồng cấp gió, buồng xử lý không khí, thiết bị sấy nóng không khí, thiết bị tái sử dụng nhiệt dư, phin lọc bụi các loại, van điều chỉnh lưu lượng, bộ tiêu âm, v.v. (sau đây gọi chung là thiết bị) cần phải được tính toán lựa chọn theo nhu cầu sử dụng và tính đến tổn thất lưu lượng qua các khe hở của thiết bị (theo chỉ dẫn của nhà sản xuất), còn trong trường hợp ống dẫn không khí (ống gió) thì theo các chỉ dẫn nêu trong 6.11.9 (trừ các đoạn ống gió bố trí ngay trong các phòng mà hệ thống này phục vụ). Lượng gió rò rỉ qua khe hở của van ngăn cháy và van khói phải phù hợp với yêu cầu nêu trong 7.4.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 718,
+    "line_end": 718,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-9-2",
+    "anchor": "muc-6-9-2",
+    "title": "6.9.2  Khi quạt không đấu nối với đường ống dẫn gió thì miệng hút và miệng thổi của nó phải có lưới bảo vệ.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 722,
+    "line_end": 722,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-9-3",
+    "anchor": "muc-6-9-3",
+    "title": "6.9.3  Thiết bị hồi nhiệt và tiêu âm phải được làm bằng vật liệu không cháy; riêng bề mặt bên trong của thiết bị hồi nhiệt có thể được làm bằng vật liệu khó cháy.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 726,
+    "line_end": 726,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-9-4",
+    "anchor": "muc-6-9-4",
+    "title": "6.9.4  Các thiết bị thông gió không được bố trí trong không gian/phòng mà thiết bị có nhiệm vụ phục vụ, trừ trường hợp thiết bị có lưu lượng gió dưới 10 000 $m^{3}$/h và cấp gió cho màn gió hay màn gió sử dụng gió tuần hoàn.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 730,
+    "line_end": 730,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-9-5",
+    "anchor": "muc-6-9-5",
+    "title": "6.9.5  Thiết bị thuộc hệ thống thông gió cấp không khí và điều hoà không khí không được bố trí trong các phòng/không gian không được phép lấy không khí tuần hoàn.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 734,
+    "line_end": 734,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-9-6",
+    "anchor": "muc-6-9-6",
+    "title": "6.9.6  Thiết bị của các hệ thống thông gió cho các phòng thuộc hạng A và B cũng như thiết bị hệ thống hút thải cục bộ hỗn hợp khí nổ không được bố trí trong tầng hầm.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 738,
+    "line_end": 738,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-9-7",
+    "anchor": "muc-6-9-7",
+    "title": "6.9.7  Phin lọc bụi sơ cấp trên tuyến cấp gió phải được bố trí trước dàn lạnh khử ẩm; bộ lọc bổ sung (thứ cấp) bố trí trước điểm cấp gió vào phòng.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 742,
+    "line_end": 742,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-9-8",
+    "anchor": "muc-6-9-8",
+    "title": "6.9.8  Thiết bị thông gió làm nhiệm vụ hút thải khí có mùi khó chịu (ví dụ: các hệ hút thải từ khu vệ sinh, từ phòng hút thuốc, v.v.) không được bố trí trong cùng gian phòng máy thông gió làm chức năng cấp gió cho các không gian khác.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 746,
+    "line_end": 746,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-9-9",
+    "anchor": "muc-6-9-9",
+    "title": "6.9.9  Thiết bị thông gió hút thải khí tái sử dụng nhiệt bằng các thiết bị thông gió thu hồi nhiệt theo sơ đồ không khí - không khí, cũng như thiết bị tuần hoàn không khí phải được bố trí theo các yêu cầu nêu trong 6.9.8.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 750,
+    "line_end": 750,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10",
+    "anchor": "muc-6-10",
+    "title": "6.10  Gian phòng máy thiết bị thông gió và điều hòa không khí",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 756,
+    "line_end": 756,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10-1",
+    "anchor": "muc-6-10-1",
+    "title": "6.10.1  Các gian phòng máy thiết bị thông gió của hệ thống hút thải chung và hệ thống hút thải cục bộ được xếp vào các hạng nguy hiểm cháy và cháy nổ [20] như sau:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 760,
+    "line_end": 760,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10-2",
+    "anchor": "muc-6-10-2",
+    "title": "6.10.2  Các gian phòng máy thiết bị thông gió của hệ thống cấp gió thổi được xếp vào các hạng nguy hiểm cháy và cháy nổ [20] như sau:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 774,
+    "line_end": 774,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10-3",
+    "anchor": "muc-6-10-3",
+    "title": "6.10.3  Gian phòng máy thiết bị thông gió cần được bố trí trực tiếp trong khoang cháy mà trong đó có các gian phòng cần phục vụ và (hoặc) gian phòng cần bảo vệ (là gian phòng mà ngay ở cửa ra vào có bố trí khoang đệm ngăn cháy hoặc được tạo áp suất không khí chênh lệch so với các gian phòng thông với chúng nhằm mục đích bảo vệ chống khói) [20].",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 790,
+    "line_end": 790,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10-4",
+    "anchor": "muc-6-10-4",
+    "title": "6.10.4  Kết cấu xây dựng bao che các gian phòng máy thiết bị thông gió theo các đoạn a), b) của 6.10.3 cần được bảo đảm có giới hạn chịu lửa không nhỏ hơn giới hạn chịu lửa của bộ phận ngăn cháy mà khoang cháy được phục vụ. Trong các gian phòng này, cho phép lắp đặt thiết bị của hệ thống thông gió chung cấp hoặc thải phục vụ các gian phòng của các khoang cháy khác nhau.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 800,
+    "line_end": 800,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10-5",
+    "anchor": "muc-6-10-5",
+    "title": "6.10.5  Gian phòng máy có bộ lọc khô chuyên lọc hỗn hợp nguy hiểm nổ không được bố trí bên dưới các không gian tập trung đông người.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 804,
+    "line_end": 804,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10-6",
+    "anchor": "muc-6-10-6",
+    "title": "6.10.6  Chiều cao gian phòng máy thiết bị thông gió và điều hòa không khí cần phải cao hơn chiều cao thiết bị ít nhất 0,8 m và phải tính đến điều kiện thao tác của thiết bị nâng cẩu bên trong gian phòng máy nếu có, nhưng không được nhỏ hơn 1,8 m kể từ sàn nhà đến cốt thấp nhất của kết cấu mái hoặc sàn tầng trên.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 808,
+    "line_end": 808,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10-7",
+    "anchor": "muc-6-10-7",
+    "title": "6.10.7  Trong gian phòng máy có thiết bị hệ thống hút không khí thải, cần tổ chức thông gió hút với số lần trao đổi khí không dưới 1 lần/h.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 814,
+    "line_end": 814,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10-8",
+    "anchor": "muc-6-10-8",
+    "title": "6.10.8  Trong gian phòng máy có thiết bị của hệ thống cấp gió (trừ hệ thống cấp gió tạo áp ngăn khói) cần phải tổ chức thông gió thổi vào với số lần trao đổi không khí không nhỏ hơn 2 lần/h, có thể dùng ngay hệ thống cấp gió này hoặc bố trí hệ thống cấp gió riêng.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 818,
+    "line_end": 818,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10-9",
+    "anchor": "muc-6-10-9",
+    "title": "6.10.9  Không được bố trí tuyến ống dẫn chất lỏng hay chất khí dễ cháy, dẫn khí đốt đi xuyên qua không gian của gian phòng máy thiết bị thông gió và điều hòa không khí.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 822,
+    "line_end": 822,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10-10",
+    "anchor": "muc-6-10-10",
+    "title": "6.10.10  Cần dự kiến thiết bị nâng cẩu riêng dùng cho mục đích sửa chữa thiết bị thông gió (quạt, động cơ, v.v.) nếu trọng lượng của một đơn vị cấu kiện hay một phần cấu kiện vượt quá 50 kg khi không có điều kiện sử dụng thiết bị nâng cẩu của dây chuyền công nghệ.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 828,
+    "line_end": 828,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11",
+    "anchor": "muc-6-11",
+    "title": "6.11  Đường ống dẫn không khí (đường ống gió)",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 832,
+    "line_end": 832,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-1",
+    "anchor": "muc-6-11-1",
+    "title": "6.11.1  Trên đường ống gió của hệ thống thông gió chung, hệ thống đường ống điều hoà không khí v.v. cần lắp đặt các bộ phận sau đây với mục đích ngăn cản sản phẩm cháy (khói) lan tỏa vào phòng khi có cháy:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 836,
+    "line_end": 836,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-2",
+    "anchor": "muc-6-11-2",
+    "title": "6.11.2  Cần đặt van một chiều trên đường ống gió để phòng tránh hiện tượng tràn khí độc hại từ phòng này qua phòng khác (khi hệ thống thông gió không hoạt động) trong trường hợp các phòng bố trí trên các tầng khác nhau và nếu lưu lượng gió ngoài cấp vào các phòng được tính toán theo điều kiện hòa loãng độc hại.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 852,
+    "line_end": 852,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-3",
+    "anchor": "muc-6-11-3",
+    "title": "6.11.3  Đường ống gió nên được chế tạo và lắp đặt theo quy định trong TCVN 13580:2023 và TCVN 13581:2023.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 858,
+    "line_end": 858,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-4",
+    "anchor": "muc-6-11-4",
+    "title": "6.11.4  Đường ống gió bằng vật liệu không cháy phải được sử dụng cho:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 864,
+    "line_end": 864,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-5",
+    "anchor": "muc-6-11-5",
+    "title": "6.11.5  Đường ống gió bằng vật liệu khó cháy được phép sử dụng trong công trình một tầng thuộc hạng nguy hiểm cháy E, trừ những hệ thống nêu tại đoạn a) của 6.11.4.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 874,
+    "line_end": 874,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-6",
+    "anchor": "muc-6-11-6",
+    "title": "6.11.6  Đường ống gió bằng vật liệu cháy được phép sử dụng trong phạm vi của phòng/không gian mà hệ thống này phục vụ, trừ những trường hợp quy định trong 6.11.4. Có thể sử dụng ống mềm hoặc cút rẽ làm bằng vật liệu cháy trong các hệ thống phục vụ cho nhà hạng nguy hiểm cháy E, hoặc đi xuyên qua công trình hạng nguy hiểm cháy E, nếu chiều dài của chúng không vượt quá 10 % chiều dài ống gió làm bằng vật liệu khô cháy hoặc không quá 5 % đối với trường hợp ống gió làm bằng vật liệu không cháy. Ống mềm nối với quạt được phép làm bằng vật liệu cháy, trừ những hệ thống tại tại đoạn a) của 6.11.4.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 878,
+    "line_end": 878,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-7",
+    "anchor": "muc-6-11-7",
+    "title": "6.11.7  Khi không có yêu cầu về giới hạn chịu lửa, để chống gỉ cho ống gió cho phép sơn hay lớp màng phủ bằng vật liệu cháy có độ dày không lớn hơn 0,5 mm.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 882,
+    "line_end": 882,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-8",
+    "anchor": "muc-6-11-8",
+    "title": "6.11.8  Cấp độ kín của đường ống gió được nêu trong Bảng 1.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 886,
+    "line_end": 886,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-01",
+    "anchor": "bang-bang-01",
+    "title": "Bảng 1 - Cấp độ kín của đường ống gió",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 890,
+    "line_end": 890,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-9",
+    "anchor": "muc-6-11-9",
+    "title": "6.11.9  Đường ống gió đi xuyên qua phòng và ống góp của hệ thống thông gió được phép:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 911,
+    "line_end": 911,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-10",
+    "anchor": "muc-6-11-10",
+    "title": "6.11.10  Không quy định giới hạn chịu lửa của ống gió và ống góp đặt trong gian phòng máy đặt thiết bị thông gió hoặc đặt bên ngoài nhà.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 919,
+    "line_end": 919,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-11",
+    "anchor": "muc-6-11-11",
+    "title": "6.11.11  Ống gió đi xuyên qua các không gian đệm của các phòng thuộc các hạng nguy hiểm cháy A và B, cũng như các hệ thống hút cục bộ hút thải hỗn hợp khí gây nổ phải được cấu tạo với giới hạn chịu lửa theo quy định về an toàn cháy cho nhà và công trình [6].",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 923,
+    "line_end": 923,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-12",
+    "anchor": "muc-6-11-12",
+    "title": "6.11.12  Các đường ống của hệ thống hút khói, hệ thống cấp không khí chống khói và các van ngăn cháy trong các hệ thống này có giới hạn chịu lửa theo quy định về an toàn cháy cho nhà và công trình [6].",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 927,
+    "line_end": 927,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-13",
+    "anchor": "muc-6-11-13",
+    "title": "6.11.13  Không được đặt ống gió đi xuyên qua buồng thang (trừ trường hợp hệ thống cấp gió tăng áp ngăn khói).",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 931,
+    "line_end": 931,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-14",
+    "anchor": "muc-6-11-14",
+    "title": "6.11.14  Lỗ chừa cho ống gió xuyên qua tường, vách hay sàn công trình (kể cả vách giếng và vỏ bao che hộp ống) phải được chèn bằng vật liệu không cháy và đảm bảo đủ giới hạn chịu lửa của tường ngăn mà ống đi xuyên qua.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 935,
+    "line_end": 935,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-15",
+    "anchor": "muc-6-11-15",
+    "title": "6.11.15  Ống gió của hệ thống hút cục bộ dẫn hỗn hợp khí nguy hiểm gây nổ, phần có áp suất dương, cũng như đoạn ống gió dẫn khí độc hại và các loại khí theo phân loại độc tính cấp tính nguy hại cho sức khỏe nêu trong Phụ lục J không được đặt xuyên qua các không gian khác. Các ống gió thuộc loại này được phép gia công bằng phương pháp hàn theo cấp độ kín D và không có cơ cấu tháo nối ống.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 939,
+    "line_end": 939,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-16",
+    "anchor": "muc-6-11-16",
+    "title": "6.11.16  Không được phép lắp đặt ống dẫn khí đốt và các loại ống dẫn chất cháy, cáp điện, ống thoát nước thải, bên trong ống gió hay cách bề mặt ống 50 mm.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 943,
+    "line_end": 943,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-17",
+    "anchor": "muc-6-11-17",
+    "title": "6.11.17  Đường ống gió thuộc hệ thống hút chung, hệ thống hút cục bộ hút thải các hỗn hợp khí dễ cháy nổ nhẹ hơn không khí cần được cấu tạo có độ dốc không nhỏ hơn 0,5 % dốc lên theo chiều của dòng khí chuyển động.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 947,
+    "line_end": 947,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-18",
+    "anchor": "muc-6-11-18",
+    "title": "6.11.18  Đường ống gió, mà trong đó có thể có hiện tượng lắng đọng hay ngưng tụ hơi ẩm hoặc bất kể chất lỏng loại nào, phải được cấu tạo với độ dốc không nhỏ hơn 0,5 % dốc xuôi theo chiều chuyển động của dòng khí, đồng thời cấu tạo ống xả chất lỏng ngưng tụ.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 951,
+    "line_end": 951,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-19",
+    "anchor": "muc-6-11-19",
+    "title": "6.11.19  Chênh lệch cân bằng tổn thất áp suất trên các nhánh ống gió không được vượt quá 10 %.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 955,
+    "line_end": 955,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-20",
+    "anchor": "muc-6-11-20",
+    "title": "6.11.20  Các mối nối mềm ở cuối ống gió tới các thiết bị đầu cuối, các miệng hút và cấp không khí không được dài quá 2 m.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 959,
+    "line_end": 959,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11-21",
+    "anchor": "muc-6-11-21",
+    "title": "6.11.21  Các mối nối mềm, được sử dụng để ngăn chặn và/hoặc cho phép chuyển vị do nhiệt trong hệ thống đường ống, có chiều dài không quá 250 mm.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 963,
+    "line_end": 963,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7",
+    "anchor": "muc-7",
+    "title": "7  BẢO VỆ CHỐNG KHÓI KHI CÓ CHÁY",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 967,
+    "line_end": 967,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1",
+    "anchor": "muc-7-1",
+    "title": "7.1  Việc bảo vệ chống khói khi có cháy nhằm ngăn chặn và/hoặc hạn chế sự lan truyền khói và các sản phẩm cháy (sau đây gọi chung là khói) trong nhà, với mục đích:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 971,
+    "line_end": 971,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2",
+    "anchor": "muc-7-2",
+    "title": "7.2  Các khu vực phải bảo vệ chống khói theo quy định về an toàn cháy cho nhà và công trình [6].",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 979,
+    "line_end": 979,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3",
+    "anchor": "muc-7-3",
+    "title": "7.3  Khối lượng khói, tính bằng kg/h, được thải ra từ hành lang, sảnh hay gian phòng được xác định căn cứ trên tính chất và bố trí các chất cháy trong khu vực có đám cháy dự kiến bằng các phương pháp tính toán khác nhau hoặc có thể tham khảo Phụ lục H.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 983,
+    "line_end": 983,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-4",
+    "anchor": "muc-7-4",
+    "title": "7.4  Trên hệ thống hút thải khói cơ khí phải tính cả lượng khí rò lọt như sau:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 987,
+    "line_end": 987,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-1",
+    "anchor": "formula-1",
+    "title": "$$\\dots \\qquad (1)$$",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 997,
+    "line_end": 997,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5",
+    "anchor": "muc-7-5",
+    "title": "7.5  Cửa hút khói (miệng hút) cần phải bố trí trên giếng thải khói, dưới trần hành lang hay trần sảnh. Cho phép đấu nối cửa hút khói vào giếng thải khói qua một ống nhánh hút.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1010,
+    "line_end": 1010,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6",
+    "anchor": "muc-7-6",
+    "title": "7.6  Khi hút khói trực tiếp từ các gian phòng có diện tích lớn hơn 3 000 $m^{2}$ thì phải ngăn chia gian phòng (bằng giải pháp bao che (sử dụng các bộ phận ngăn khói) hoặc giải pháp giả định) thành các vùng khói có diện tích không lớn hơn 3 000 $m^{2}$ và phải tính đến khả năng xảy ra cháy ở một trong các vùng đó. Mỗi cửa thu khói chỉ được tính phục vụ cho một diện tích không quá 1 000 $m^{2}$.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1020,
+    "line_end": 1020,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-7",
+    "anchor": "muc-7-7",
+    "title": "7.7  Nên sử dụng giải pháp thoát khói tự nhiên để thải khói trực tiếp từ các gian phòng trong nhà một tầng qua các giếng thải khói có van khói hoặc qua các cửa trời thông gió không bị tạt gió (không đón gió).",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1024,
+    "line_end": 1024,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-8",
+    "anchor": "muc-7-8",
+    "title": "7.8  Hệ thống hút khói cần được trang bị:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1032,
+    "line_end": 1032,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-9",
+    "anchor": "muc-7-9",
+    "title": "7.9  Quạt thải khói cần được bố trí theo quy định về an toàn cháy cho nhà và công trình [6]. Quạt bố trí ngoài nhà (trừ quạt mái) phải có lưới bảo vệ ngăn cách người không phận sự.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1054,
+    "line_end": 1054,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-10",
+    "anchor": "muc-7-10",
+    "title": "7.10  Sử dụng biện pháp hút thải cơ khí từ vùng dưới của phòng để thải khói, khí, sản phẩm cháy, v.v. sau vụ cháy từ những phòng được trang bị hệ thống chữa cháy bằng khí.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1058,
+    "line_end": 1058,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-11",
+    "anchor": "muc-7-11",
+    "title": "7.11  Khi có cháy, hệ thống cấp không khí chống khói phải cấp không khí từ ngoài vào các khu vực theo quy định về an toàn cháy cho nhà và công trình [6].",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1064,
+    "line_end": 1064,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-12",
+    "anchor": "muc-7-12",
+    "title": "7.12  Lưu lượng không khí cấp vào của hệ thống cấp không khí chống khói phải được tính toán bảo đảm áp suất dư từ 20 Pa đến 50 Pa trong các khu vực theo quy định về an toàn cháy cho nhà và công trình [6].",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1068,
+    "line_end": 1068,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-13",
+    "anchor": "muc-7-13",
+    "title": "7.13  Số điểm phân phối gió không khí tạo áp suất dương để bảo vệ các buồng thang bộ và giếng thang máy nên đảm bảo trường áp suất đồng đều. Khoảng cách giữa các điểm cấp không khí tạo áp suất dương để bảo vệ các buồng thang bộ không nên vượt quá 2 tầng.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1072,
+    "line_end": 1072,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-14",
+    "anchor": "muc-7-14",
+    "title": "7.14  Khi tính toán bảo vệ chống khói cần:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1076,
+    "line_end": 1076,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-15",
+    "anchor": "muc-7-15",
+    "title": "7.15  Để bảo vệ hệ thống cấp không khí chống khói cần thực hiện các quy định sau:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1102,
+    "line_end": 1102,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8",
+    "anchor": "muc-8",
+    "title": "8  CẤP LẠNH",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1116,
+    "line_end": 1116,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-1",
+    "anchor": "muc-8-1",
+    "title": "8.1  Hệ thống cấp lạnh thường phải gồm hai hay nhiều tổ máy hoặc hệ máy lạnh; cũng có thể cấu tạo một máy lạnh hay một hệ thống làm lạnh với khả năng điều chỉnh được năng suất lạnh. Cần có một máy lạnh dự phòng đối với hệ thống điều hoà không khí cấp 1 hoạt động suốt ngày đêm.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1120,
+    "line_end": 1120,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-2",
+    "anchor": "muc-8-2",
+    "title": "8.2  Tổn thất lạnh trên thiết bị và trên đường ống của hệ thống cấp lạnh cần được xác định bằng tính toán (tính bảo ôn), nhưng không được vượt quá 10 % năng suất lạnh của hệ thống lạnh.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1124,
+    "line_end": 1124,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-3",
+    "anchor": "muc-8-3",
+    "title": "8.3  Cụm trong nhà của máy điều hòa cục bộ, đa cụm và máy điều hòa không khí lưu lượng môi chất lạnh thay đổi được phép sử dụng:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1128,
+    "line_end": 1128,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-2",
+    "anchor": "formula-2",
+    "title": "$$\\dots \\qquad (2)$$",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1142,
+    "line_end": 1142,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-4",
+    "anchor": "muc-8-4",
+    "title": "8.4  Để điều hòa công suất lạnh, nhằm nâng cao hệ số đầy tải và tận dụng điện năng giờ thấp điểm, hệ thống cấp lạnh cần được thiết kế với bể trữ lạnh.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1157,
+    "line_end": 1157,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-5",
+    "anchor": "muc-8-5",
+    "title": "8.5  Hệ thống máy lạnh kiểu máy nén có chứa lượng dầu (bôi trơn) lớn hơn 250 kg trong bất kỳ một máy nào đều không được phép bố trí bên trong nhà công cộng và nhà hành chính, nếu bên trên trần hay bên dưới sàn của phòng máy lạnh này có không gian là nơi thường xuyên hay tạm thời tập hợp đông người.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1161,
+    "line_end": 1161,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-6",
+    "anchor": "muc-8-6",
+    "title": "8.6  Gian phòng máy đặt máy lạnh Br-Li và máy lạnh ê-jec-tơ hơi nước hoặc máy lạnh có chế độ bơm nhiệt phải được xếp vào hạng nguy hiểm cháy nổ E, còn máy lạnh dùng amoniac - xếp vào hạng B. Dầu máy lạnh phải được lưu giữ trong một gian riêng.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1165,
+    "line_end": 1165,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-7",
+    "anchor": "muc-8-7",
+    "title": "8.7  Miệng xả môi chất lạnh từ van an toàn phải được đưa vượt trên cửa sổ, cửa đi và các cửa lấy gió không dưới 2 m, và không dưới 5 m cách mặt đất. Luồng xả phải được hướng thẳng lên trời. Miệng xả môi chất lạnh amoniac phải được đưa lên độ cao không dưới 3 m cao hơn mái nhà.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1169,
+    "line_end": 1169,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-8",
+    "anchor": "muc-8-8",
+    "title": "8.8  Gian phòng máy đặt máy lạnh phải được tổ chức thông gió chung để khử nhiệt thừa bằng hệ thống hút cơ khí được thiết kế đủ khả năng:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1173,
+    "line_end": 1173,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9",
+    "anchor": "muc-9",
+    "title": "9  SỬ DỤNG NGUỒN NHIỆT THẢI",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1181,
+    "line_end": 1181,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-1",
+    "anchor": "muc-9-1",
+    "title": "9.1  Các hệ thống thông gió và điều hoà không khí nên thiết kế với khả năng tận dụng nguồn năng lượng nhiệt thải:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1185,
+    "line_end": 1185,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-2",
+    "anchor": "muc-9-2",
+    "title": "9.2  Cần tính đến độ ổn định của nguồn nhiệt thải cũng như của nhu cầu sử dụng nguồn nhiệt này trong hệ thống kỹ thuật khi lựa chọn sơ đồ sử dụng nhiệt (lạnh), chọn thiết bị sử dụng nhiệt và bơm nhiệt, v.v.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1193,
+    "line_end": 1193,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-3",
+    "anchor": "muc-9-3",
+    "title": "9.3  Nồng độ các chất độc hại trong không khí khi sử dụng nhiệt thải không được vượt quá giá trị giới hạn tiếp xúc cho phép của 50 yếu tố hóa học tại các phòng/không gian trong công trình công nghiệp sử dụng làm văn phòng, chỗ nghỉ ngơi [3].",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1199,
+    "line_end": 1199,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-4",
+    "anchor": "muc-9-4",
+    "title": "9.4  Trong các thiết bị thông gió thu hồi nhiệt theo sơ đồ không khí - không khí và khí - không khí, tại những điểm đấu nối đường ống không khí cần phải đảm bảo sao cho áp suất của không khí cấp vào công trình cao hơn áp suất của khí hay không khí thải ra. Mức chênh áp suất tối đa không được vượt giá trị cho phép theo tài liệu kỹ thuật của thiết bị tái sử dụng nhiệt.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1203,
+    "line_end": 1203,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-5",
+    "anchor": "muc-9-5",
+    "title": "9.5  Thiết bị thông gió thu hồi nhiệt theo sơ đồ không khí-không khí (cũng như các thiết bị thông gió thu hồi nhiệt trên nguyên tắc ống nhiệt) không được sử dụng vào mục đích làm nóng (làm lạnh) không khí cấp vào nhà, nếu tận dụng năng lượng của:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1209,
+    "line_end": 1209,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-6",
+    "anchor": "muc-9-6",
+    "title": "9.6  Trong các thiết bị thông gió thu hồi nhiệt có thể được phép sử dụng nhiệt thải của các chất khí, dung dịch độc hại, hay nguy hiểm, để làm nóng (làm lạnh) không khí cấp vào nhà với vai trò chất mang nhiệt trung gian bên trong tuyến ống hay giàn trao đổi nhiệt kín, một khi có thỏa thuận của các cơ quan giám sát; nếu không có thỏa thuận này thì cần sử dụng sơ đồ vòng tuần hoàn nhiệt bổ sung với chất mang nhiệt không chứa chất độc hại cấp B (TCVN 6739:2015) cũng phải dùng sơ đồ này khi nồng độ chất độc hại nêu trên đây có khả năng vượt nồng độ cho phép trong trường hợp xả sự cố vào trong nhà.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1219,
+    "line_end": 1219,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-7",
+    "anchor": "muc-9-7",
+    "title": "9.7  Khi sử dụng nhiệt từ hệ thống thông gió có chứa bụi hay son khí lắng đọng, cần tổ chức lọc không khí để đạt được nồng độ bụi cho phép theo tiêu chuẩn kỹ thuật đối với thiết bị thông gió thu hồi nhiệt, đồng thời cũng phải có biện pháp làm vệ sinh thường kỳ bề mặt trao đổi nhiệt.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1223,
+    "line_end": 1223,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-8",
+    "anchor": "muc-9-8",
+    "title": "9.8  Trong các hệ thống sử dụng năng lượng thứ cấp cần tính đến những biện pháp ngăn ngừa đóng băng của chất tải nhiệt thứ cấp hoặc loại trừ hiện tượng tạo băng trên bề mặt của thiết bị tái sử dụng nhiệt.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1227,
+    "line_end": 1227,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-9",
+    "anchor": "muc-9-9",
+    "title": "9.9  Có thể sử dụng hệ thống cấp nhiệt (lạnh) dự phòng đi kèm với hệ thống thông gió thu hồi nhiệt.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1231,
+    "line_end": 1231,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10",
+    "anchor": "muc-10",
+    "title": "10  KIỂM SOÁT QUẢN LÝ NĂNG LƯỢNG",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1235,
+    "line_end": 1235,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-1",
+    "anchor": "muc-10-1",
+    "title": "10.1  Thiết kế của hệ thống điều khiển phải cho phép hoạt động sử dụng năng lượng hiệu quả mà vẫn duy trì các điều kiện trong nhà mong muốn.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1239,
+    "line_end": 1239,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-2",
+    "anchor": "muc-10-2",
+    "title": "10.2  Khi hệ thống điều hòa không khí phục vụ các khu vực có yêu cầu làm mát khác nhau thì phải phân chia đủ các vùng có các chế độ làm mát khác nhau.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1243,
+    "line_end": 1243,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-3",
+    "anchor": "muc-10-3",
+    "title": "10.3  Phải có ít nhất một bộ điều chỉnh nhiệt độ có dải hoạt động phù hợp cho mỗi hệ thống và vùng xử lý không khí riêng cho việc điều chỉnh nhiệt độ cho các khu vực. Kiểm soát nhiệt độ phòng nên đạt trong giới hạn ± 1 °C với thực tế. Nên sử dụng van kiểm soát điều tiết có khả năng điều tiết và cơ cấu điều tiết tốt. Cảm biến nhiệt độ không khí phải có độ chính xác thích hợp để kiểm soát hiệu quả nhiệt độ các khu vực.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1247,
+    "line_end": 1247,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-4",
+    "anchor": "muc-10-4",
+    "title": "10.4  Có giải pháp để hạn chế một phần hay tắt toàn bộ việc làm mát cho từng vùng bằng thủ công hay tự động.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1251,
+    "line_end": 1251,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-5",
+    "anchor": "muc-10-5",
+    "title": "10.5  Hệ thống điều hòa không khí phải được trang bị ít nhất một trong những thiết bị sau để có thể tắt tự động:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1255,
+    "line_end": 1255,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-6",
+    "anchor": "muc-10-6",
+    "title": "10.6  Các hệ thống sau không yêu cầu tắt tự động quy định trong 10.5:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1265,
+    "line_end": 1265,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-7",
+    "anchor": "muc-10-7",
+    "title": "10.7  Bộ xử lý không khí với lưu lượng từ 5 $m^{3}$/s không khí trở lên nên có điều khiển khởi động tối ưu. Thuật toán điều khiển ít nhất phải tính đến sự chênh lệch giữa nhiệt độ của không gian và điểm đặt của nó và khoảng thời gian trước khi có người ở theo lịch biểu.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1275,
+    "line_end": 1275,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-8",
+    "anchor": "muc-10-8",
+    "title": "10.8  Các không gian trong công trình dự định hoạt động hoặc có người không đồng thời nên được nhóm lại thành các khu vực riêng, với mỗi khu vực không nên quá 2 300 $m^{2}$ diện tích sàn hoặc tầng với điều kiện:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1279,
+    "line_end": 1279,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-9",
+    "anchor": "muc-10-9",
+    "title": "10.9  Những điểm sau đây không yêu cầu đối thiết bị cách ly và điều khiển quy định tai 10.8 b):",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1287,
+    "line_end": 1287,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-10",
+    "anchor": "muc-10-10",
+    "title": "10.10  Các van được sử dụng trong tất cả các hệ thống cấp không khí và thoát không khí thải phục vụ các không gian có điều hòa không khí phải tự động tắt khi các không gian không được sử dụng.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1297,
+    "line_end": 1297,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-11",
+    "anchor": "muc-10-11",
+    "title": "10.11  Các van không khí có lượng gió rò rỉ tối đa là 100 L/(s·$m^{2}$) trên toàn bộ diện tích của van ở 250 Pa.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1301,
+    "line_end": 1301,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-12",
+    "anchor": "muc-10-12",
+    "title": "10.12  Quạt (đối với động cơ lớn hơn 0,5 kW) được sử dụng trong hệ thống phải có bộ điều khiển tự động để tắt khi không sử dụng [7].",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1305,
+    "line_end": 1305,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-13",
+    "anchor": "muc-10-13",
+    "title": "10.13  Các hệ thống cấp gió ngoài (thiết kế lượng gió ngoài lớn hơn 1,4 $m^{2}$/s phục vụ các khu vực có mật độ người trung bình quá 1 người/$m^{2}$) phải có các phương tiện tự động giảm lượng gió bên ngoài xuống dưới mức thiết kế, khi không gian chỉ một phần có người.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1309,
+    "line_end": 1309,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11",
+    "anchor": "muc-11",
+    "title": "11  CẤP THOÁT NƯỚC CHO HỆ THỐNG THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1313,
+    "line_end": 1313,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-1",
+    "anchor": "muc-11-1",
+    "title": "11.1  Nước cấp cho tháp giải nhiệt, buồng phun, giàn phun ẩm, phun ẩm bổ sung cùng các thiết bị xử lý không khí khác phải là nước có chất lượng theo tiêu chuẩn nước ăn uống.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1317,
+    "line_end": 1317,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-2",
+    "anchor": "muc-11-2",
+    "title": "11.2  Nước tuần hoàn trong buồng phun, tháp giải nhiệt phải được lọc sạch, khi có yêu cầu vệ sinh cao hơn thì còn cần phải tiến hành thêm lọc vi khuẩn.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1321,
+    "line_end": 1321,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-3",
+    "anchor": "muc-11-3",
+    "title": "11.3  Cần phải cấu tạo đường ống xả nước vào hệ thống thoát nước để xả nước từ thiết bị xử lý không khí và để thoát nước ngưng.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1325,
+    "line_end": 1325,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-4",
+    "anchor": "muc-11-4",
+    "title": "11.4  Chất lượng nước (độ cứng, độ pH, hàm lượng cặn, v.v.) dùng vào mục đích làm nguội thiết bị lạnh cần được đảm bảo theo điều kiện kỹ thuật cho máy lạnh.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1329,
+    "line_end": 1329,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-5",
+    "anchor": "muc-11-5",
+    "title": "11.5  Nhiệt độ nước làm mát tháp giải nhiệt, bình ngưng của máy sản xuất nước lạnh và các máy điều hòa tổ hợp gọn không vượt quá 33 °C.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1333,
+    "line_end": 1333,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12",
+    "anchor": "muc-12",
+    "title": "12  CẤP ĐIỆN VÀ TỰ ĐỘNG HÓA CHO HỆ THỐNG THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1337,
+    "line_end": 1337,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-1",
+    "anchor": "muc-12-1",
+    "title": "12.1  Nguồn điện cấp cho các hệ thống thông gió và điều hoà không khí phải được xếp loại ngang cấp với hệ thống cấp điện cho mạng công nghệ và mạng kỹ thuật của công trình.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1341,
+    "line_end": 1341,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-2",
+    "anchor": "muc-12-2",
+    "title": "12.2  Trong các nhà và công trình có hệ thống bảo vệ chống khói, nên trang bị hệ thống tín hiệu báo cháy tự động.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1347,
+    "line_end": 1347,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-3",
+    "anchor": "muc-12-3",
+    "title": "12.3  Đối với các công trình và các nhà có trang bị hệ thống chữa cháy tự động hay hệ thống tín hiệu báo cháy tự động, thì nhất thiết phải thiết kế hệ khóa liên động (trừ nguồn cấp điện cho thiết bị đấu nối vào mạng chiếu sáng một pha) cho các hệ thống thông gió và điều hoà không khí cũng như các hệ thống bảo vệ chống khói với các hệ thống này nhằm mục đích:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1351,
+    "line_end": 1351,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-4",
+    "anchor": "muc-12-4",
+    "title": "12.4  Những phòng có hệ thống tín hiệu báo cháy tự động phải được trang bị hệ điều khiển ngắt mạch từ xa và được bố trí bên ngoài các phòng do hệ thống này phục vụ.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1363,
+    "line_end": 1363,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-5",
+    "anchor": "muc-12-5",
+    "title": "12.5  Thiết bị, đường ống bằng kim loại và ống gió của hệ thống thông gió và điều hoà không khí và các hệ thống hút cục bộ thải hỗn hợp nguy hiểm nổ, phải được nối đất theo quy định.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1367,
+    "line_end": 1367,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-6",
+    "anchor": "muc-12-6",
+    "title": "12.6  Các thông số của chất tải nhiệt (lạnh) và của không khí phải được khống chế trong các hệ thống sau:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1371,
+    "line_end": 1371,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-7",
+    "anchor": "muc-12-7",
+    "title": "12.7  Dụng cụ kiểm tra đo đạc từ xa cần được sử dụng để đo các thông số chủ yếu; các thông số còn lại nên đo đạc bằng các dụng cụ đo lường tại chỗ (dụng cụ lắp tại chỗ hay dụng cụ cầm tay).",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1387,
+    "line_end": 1387,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-8",
+    "anchor": "muc-12-8",
+    "title": "12.8  Việc đo đạc, kiểm tra và điều khiển từ xa các thông số chính trong hệ thống thông gió và điều hoà không khí phải được thực hiện theo yêu cầu công nghệ.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1393,
+    "line_end": 1393,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-9",
+    "anchor": "muc-12-9",
+    "title": "12.9  Hệ điều khiển tự động các thông số cần phải thực hiện đối với:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1397,
+    "line_end": 1397,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-10",
+    "anchor": "muc-12-10",
+    "title": "12.10  Đầu đo thông số môi trường nên đặt tại những điểm mang tính đặc trưng của phòng hay của vùng làm việc, ở nơi mà đầu đo không chịu ảnh hưởng của những bề mặt nóng hay lạnh hoặc các dòng khí lưu thông. Có thể bố trí đầu đo trong ống dẫn gió tuần hoàn hay gió thải, nếu thông số không khí trong đó không sai lệch so với thông số không khí trong phòng hoặc sai lệch với một đại lượng không đổi.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1409,
+    "line_end": 1409,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-11",
+    "anchor": "muc-12-11",
+    "title": "12.11  Hệ khóa liên động tự động cần bố trí để:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1413,
+    "line_end": 1413,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-12",
+    "anchor": "muc-12-12",
+    "title": "12.12  Hệ khóa liên động tự động của quạt gió thuộc các hệ thống thông gió hút thải cục bộ và hút thải chung, nếu không lắp quạt dự phòng, việc đấu nối với thiết bị công nghệ phải đảm bảo dừng thiết bị khi quạt bị sự cố ngừng hoạt động, còn nếu không dừng được thiết bị công nghệ thì phải phát tín hiệu báo động.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1429,
+    "line_end": 1429,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-13",
+    "anchor": "muc-12-13",
+    "title": "12.13  Đối với các hệ thống có lưu lượng hòa trộn gió ngoài và gió tuần hoàn biến đổi cần lắp khóa liên động nhằm đảm bảo luôn luôn có lưu lượng gió ngoài tối thiểu.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1433,
+    "line_end": 1433,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-14",
+    "anchor": "muc-12-14",
+    "title": "12.14  Đối với hệ thống thông gió hút có lọc bụi qua các bộ lọc ướt cần bố trí hệ liên động giữa quạt với hệ thống cấp nước cho bộ lọc ướt để đảm bảo:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1437,
+    "line_end": 1437,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-15",
+    "anchor": "muc-12-15",
+    "title": "12.15  Việc khởi động màn gió phải liên động với việc đóng mở cổng, cửa ra vào hoặc lỗ cửa của dây chuyền công nghệ, Việc ngắt màn gió cũng phải được thực hiện liên động khi đóng cổng, đóng cửa hay đóng lỗ cửa của dây chuyền công nghệ và khi chế độ nhiệt bên trong công trình được phục hồi.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1447,
+    "line_end": 1447,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-16",
+    "anchor": "muc-12-16",
+    "title": "12.16  Quản lý các hệ thống thông gió và điều hoà không khí trong nhà ở, công trình dân dụng và trong công trình công nghiệp phải được tổ chức đồng thời với hệ thống quản lý toàn nhà và công trình, trong đó có hệ thống quản lý các quá trình công nghệ hay thiết bị kỹ thuật.",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1451,
+    "line_end": 1451,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-17",
+    "anchor": "muc-12-17",
+    "title": "12.17  Độ chính xác duy trì điều kiện vi khí hậu bên trong công trình có điều hoà không khí (khi không có những yêu cầu đặc biệt) nên đảm bảo yêu cầu như sau:",
+    "source_file": "tcvn_5687_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1455,
+    "line_end": 1455,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (Tham khảo) — Các thông số không khí bên trong nhà đảm bảo điều kiện tiện nghi nhiệt",
+    "source_file": "annexes/phu_luc_a_cac_thong_so_khong_khi_ben_trong_nha_dam_bao.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-a-1",
+    "anchor": "bang-bang-a-1",
+    "title": "Bảng A.1 - Các thông số hợp lý của không khí bên trong nhà trong phạm vi không gian hoạt động của nhà ở",
+    "source_file": "annexes/phu_luc_a_cac_thong_so_khong_khi_ben_trong_nha_dam_bao.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-a-2",
+    "anchor": "bang-bang-a-2",
+    "title": "Bảng A.2 - Các thông số hợp lý của không khí bên trong nhà trong phạm vi không gian hoạt động của nhà công cộng",
+    "source_file": "annexes/phu_luc_a_cac_thong_so_khong_khi_ben_trong_nha_dam_bao.md",
+    "jurisdiction": "CQXD",
+    "line_start": 29,
+    "line_end": 29,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-1",
+    "anchor": "muc-a-1",
+    "title": "A.1  Với các giới hạn của các thông số không khí bên trong nhà nêu trong Bảng A.1 và Bảng A.2, nếu lấy nhiệt độ bề mặt bức xạ (nhiệt độ mặt trong của tường, mái, v.v.) về mùa lạnh nhỏ hơn 2,5 °C so với nhiệt độ không khí trong nhà mùa lạnh và về mùa nóng lớn hơn 2,5 °C so với nhiệt độ không khí trong nhà mùa nóng thì phải kiểm tra điều kiện tiện nghi cục bộ và đối với mặt tường hay mặt mái và tăng cường cách nhiệt ở kết cấu bao che đó.",
+    "source_file": "annexes/phu_luc_a_cac_thong_so_khong_khi_ben_trong_nha_dam_bao.md",
+    "jurisdiction": "CQXD",
+    "line_start": 59,
+    "line_end": 59,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-2",
+    "anchor": "muc-a-2",
+    "title": "A.2  Khi không có những yêu cầu đặc biệt, độ chính xác duy trì điều kiện vi khí hậu tiện nghi cần đảm bảo mức sai lệch về nhiệt độ là Δt = ± 1 °C và sai lệch về độ ẩm tương đối là Δφ  = ± 7 %;",
+    "source_file": "annexes/phu_luc_a_cac_thong_so_khong_khi_ben_trong_nha_dam_bao.md",
+    "jurisdiction": "CQXD",
+    "line_start": 63,
+    "line_end": 63,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-3",
+    "anchor": "muc-a-3",
+    "title": "A.3  Độ chính xác duy trì nhiệt độ tiện nghi khi sử dụng máy điều hoà không khí cục bộ hoặc bộ hòa trộn cục bộ có đầu cảm nhiệt tác động trực tiếp thì cho phép giữ ở mức ± 2 °C.",
+    "source_file": "annexes/phu_luc_a_cac_thong_so_khong_khi_ben_trong_nha_dam_bao.md",
+    "jurisdiction": "CQXD",
+    "line_start": 67,
+    "line_end": 67,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B (Quy định) — Các thông số của không khí bên ngoài cho điều hoà không khí theo số giờ không bảo đảm hoặc xác suất bảo đảm",
+    "source_file": "annexes/phu_luc_b_cac_thong_so_cua_khong_khi_ben_ngoai_cho_dieu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-b-1",
+    "anchor": "bang-bang-b-1",
+    "title": "Bảng B.1 - Các thông số của không khí bên ngoài cho điều hoà không khí theo số giờ không bảo đảm m hoặc xác suất bảo đảm $P_{e}$",
+    "source_file": "annexes/phu_luc_b_cac_thong_so_cua_khong_khi_ben_ngoai_cho_dieu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-c",
+    "anchor": "phu-luc-c",
+    "title": "PHỤ LỤC C (Tham khảo) — Các thông số của không khí bên ngoài cho điều hoà không khí theo tần suất tích lũy xuất hiện hàng năm của nhiệt độ khô và nhiệt độ ướt",
+    "source_file": "annexes/phu_luc_c_cac_thong_so_cua_khong_khi_ben_ngoai_cho_dieu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-1",
+    "anchor": "bang-bang-c-1",
+    "title": "Bảng C.1 - Các thông số của không khí bên ngoài cho điều hoà không khí theo các tần suất tích lũy xuất hiện hàng năm $P_{c}$ khác nhau",
+    "source_file": "annexes/phu_luc_c_cac_thong_so_cua_khong_khi_ben_ngoai_cho_dieu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-d",
+    "anchor": "phu-luc-d",
+    "title": "PHỤ LỤC D (Quy định) — Tiêu chuẩn giới hạn nồng độ cho phép của các hóa chất và bụi trong không khí vùng làm việc",
+    "source_file": "annexes/phu_luc_d_tieu_chuan_gioi_han_nong_do_cho_phep_cua_cac.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-d-1",
+    "anchor": "bang-bang-d-1",
+    "title": "Bảng D.1 - Giá trị giới hạn tiếp xúc tối đa cho phép các yếu tố hóa học tại nơi làm việc",
+    "source_file": "annexes/phu_luc_d_tieu_chuan_gioi_han_nong_do_cho_phep_cua_cac.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-d-2",
+    "anchor": "bang-bang-d-2",
+    "title": "Bảng D.2 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi amiăng tại nơi làm việc theo [1]",
+    "source_file": "annexes/phu_luc_d_tieu_chuan_gioi_han_nong_do_cho_phep_cua_cac.md",
+    "jurisdiction": "CQXD",
+    "line_start": 69,
+    "line_end": 69,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-d-3",
+    "anchor": "bang-bang-d-3",
+    "title": "Bảng D.3 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi silic tại nơi làm việc theo [1]",
+    "source_file": "annexes/phu_luc_d_tieu_chuan_gioi_han_nong_do_cho_phep_cua_cac.md",
+    "jurisdiction": "CQXD",
+    "line_start": 78,
+    "line_end": 78,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-d-4",
+    "anchor": "bang-bang-d-4",
+    "title": "Bảng D.4 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi không chứa silic tại nơi làm việc theo [1]",
+    "source_file": "annexes/phu_luc_d_tieu_chuan_gioi_han_nong_do_cho_phep_cua_cac.md",
+    "jurisdiction": "CQXD",
+    "line_start": 87,
+    "line_end": 87,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-d-5",
+    "anchor": "bang-bang-d-5",
+    "title": "Bảng D.5 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi bông tại nơi làm việc theo [1]",
+    "source_file": "annexes/phu_luc_d_tieu_chuan_gioi_han_nong_do_cho_phep_cua_cac.md",
+    "jurisdiction": "CQXD",
+    "line_start": 98,
+    "line_end": 98,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-d-6",
+    "anchor": "bang-bang-d-6",
+    "title": "Bảng D.6 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi than tại nơi làm việc theo [1]",
+    "source_file": "annexes/phu_luc_d_tieu_chuan_gioi_han_nong_do_cho_phep_cua_cac.md",
+    "jurisdiction": "CQXD",
+    "line_start": 106,
+    "line_end": 106,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e",
+    "anchor": "phu-luc-e",
+    "title": "PHỤ LỤC E (Quy định) — Tiêu chuẩn lưu lượng không khí ngoài cấp cho các phòng điều hòa không khí tiện nghi theo yêu cầu vệ sinh môi trường",
+    "source_file": "annexes/phu_luc_e_tieu_chuan_luu_luong_khong_khi_ngoai_cap_cho.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-e-1",
+    "anchor": "bang-bang-e-1",
+    "title": "Bảng E.1 - Tiêu chuẩn lưu lượng không khí ngoài cấp cho các phòng điều hòa không khí tiện nghi theo yêu cầu vệ sinh môi trường",
+    "source_file": "annexes/phu_luc_e_tieu_chuan_luu_luong_khong_khi_ngoai_cap_cho.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-f",
+    "anchor": "phu-luc-f",
+    "title": "PHỤ LỤC F (Tham khảo) — Lưu lượng không khí ngoài (gió tươi) cho các phòng được thông gió cơ khí",
+    "source_file": "annexes/phu_luc_f_luu_luong_khong_khi_ngoai_gio_tuoi_cho_cac_ph.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-f-1",
+    "anchor": "bang-bang-f-1",
+    "title": "Bảng F.1 - Số lần (bội số) trao đổi không khí",
+    "source_file": "annexes/phu_luc_f_luu_luong_khong_khi_ngoai_gio_tuoi_cho_cac_ph.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g",
+    "anchor": "phu-luc-g",
+    "title": "PHỤ LỤC G (Tham khảo) — Xác định lưu lượng và nhiệt độ không khí cấp vào phòng",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-1",
+    "anchor": "muc-g-1",
+    "title": "G.1  Lưu lượng không khí cấp vào L, tính bằng $m^{3}$/h, cho hệ thống thông gió và điều hoà không khí phải được xác định trên cơ sở tính toán và chọn giá trị lưu lượng lớn nhất để đảm bảo:",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-2",
+    "anchor": "muc-g-2",
+    "title": "G.2  Lưu lượng không khí phải được xác định riêng biệt cho điều kiện mùa nóng và mùa lạnh khi lấy đại lượng lớn nhất tính theo các công thức từ (G.1) đến (G.7) với khối lượng riêng của không khí bằng 1,2 kg/$m^{3}$:",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 14,
+    "line_end": 14,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_1",
+    "anchor": "formula-g_1",
+    "title": "$$\\dots \\qquad (G.1)$$",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 24,
+    "line_end": 24,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_2",
+    "anchor": "formula-g_2",
+    "title": "$$\\dots \\qquad (G.2)$$",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 41,
+    "line_end": 41,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_3",
+    "anchor": "formula-g_3",
+    "title": "$$\\dots \\qquad (G.3)$$",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 54,
+    "line_end": 54,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_4",
+    "anchor": "formula-g_4",
+    "title": "$$\\dots \\qquad (G.4)$$",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 67,
+    "line_end": 67,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-3",
+    "anchor": "muc-g-3",
+    "title": "G.3  Lưu lượng không khí cần để bảo đảm độ an toàn cháy nổ được xác định theo công thức (D.2) nhưng phải thay giá trị $C_{h,cb}$ và $C_{R}$ bằng giá trị 0,1 $C_{E}$ ($C_{E}$ là giới hạn nồng độ dưới gây cháy nổ của hỗn hợp hơi, khí và bụi với không khí, tính bằng mg/$m^{3}$).",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 108,
+    "line_end": 108,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-4",
+    "anchor": "muc-g-4",
+    "title": "G.4  Lưu lượng không khí $L_{ck}$ của hệ thống thông gió làm việc theo chu kỳ có công suất quạt là $L_{q}$ , $m^{3}$/h, được xác định từ số phút làm việc z liên tục trong mỗi giờ theo công thức sau:",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 112,
+    "line_end": 112,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_8",
+    "anchor": "formula-g_8",
+    "title": "$$\\dots \\qquad (G.8)$$",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 120,
+    "line_end": 120,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-5",
+    "anchor": "muc-g-5",
+    "title": "G.5  Nhiệt độ không khí cấp vào phòng từ các hệ thống thông gió cơ khí và điều hoà không khí $t_{v}$ cần được kể đến độ tăng nhiệt độ Δt, tính bằng độ Kenvin (K), khi đi qua quạt:",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 125,
+    "line_end": 125,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_9",
+    "anchor": "formula-g_9",
+    "title": "$$\\dots \\qquad (G.9)$$",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 131,
+    "line_end": 131,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-6",
+    "anchor": "muc-g-6",
+    "title": "G.6  Tính toán lưu lượng không khí cấp bù cho lượng khói hút ra, hiện tại có nhiều tài liệu đã đề cập và cách xác định lượng không khí cấp bù khác nhau do nhiều yếu tố liên quan như: các cửa đi và cửa sổ của gian phòng có cháy mở hay đóng, các khe hở của các cửa khi đóng, điều kiện nhiệt độ không khí bên ngoài, hướng, vận tốc gió, v.v. Do đó, cần căn cứ vào điều kiện cụ thể của từng công trình để lựa chọn phương xác định lượng không khí bù lại thể tích sản phẩm cháy bị đẩy ra ngoài đảm bảo quy định về an toàn cháy cho nhà và công trình [6].",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 140,
+    "line_end": 140,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-7",
+    "anchor": "muc-g-7",
+    "title": "G.7  Một số phương pháp xác định không khí bù trong khi cháy:",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 146,
+    "line_end": 146,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-7-1",
+    "anchor": "muc-g-7-1",
+    "title": "G.7.1  Theo A.4.4.4.1 trong [18]:",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 150,
+    "line_end": 150,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-7-2",
+    "anchor": "muc-g-7-2",
+    "title": "G.7.2  Theo A.4.4.4.1 trong [19]:",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 156,
+    "line_end": 156,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-g-1",
+    "anchor": "bang-bang-g-1",
+    "title": "Bảng G.1 - Chênh lệch áp suất qua các bộ phận cản khói",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 168,
+    "line_end": 168,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-7-3",
+    "anchor": "muc-g-7-3",
+    "title": "G.7.3  Theo 7.4.3 trong [12]:",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 186,
+    "line_end": 186,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-7-4",
+    "anchor": "muc-g-7-4",
+    "title": "G.7.4  Theo 4.4 trong [14]:",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 192,
+    "line_end": 192,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_10",
+    "anchor": "formula-g_10",
+    "title": "$$\\dots \\qquad (G.10)$$",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 202,
+    "line_end": 202,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_11",
+    "anchor": "formula-g_11",
+    "title": "$$\\dots \\qquad (G.11)$$",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 219,
+    "line_end": 219,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_12",
+    "anchor": "formula-g_12",
+    "title": "$$\\dots \\qquad (G.12)$$",
+    "source_file": "annexes/phu_luc_g_xac_dinh_luu_luong_va_nhiet_do_khong_khi_cap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 230,
+    "line_end": 230,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-h",
+    "anchor": "phu-luc-h",
+    "title": "PHỤ LỤC H (Tham khảo) — Tính toán lưu lượng khói cần phải thải khi có cháy",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-h-1",
+    "anchor": "muc-h-1",
+    "title": "H.1  Khối lượng khói $G_{1}$ cần phải hút thải ra khỏi hành lang hay sảnh khi có cháy cần được xác định theo các công thức sau:",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-h-1",
+    "anchor": "bang-bang-h-1",
+    "title": "Bảng H.1 - Hệ số phụ thuộc vào chiều rộng của cánh cửa đi",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 31,
+    "line_end": 31,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-h-2",
+    "anchor": "muc-h-2",
+    "title": "H.2  Khối lượng khói G, tính bằng kg/h, thải ra từ không gian phòng cần được xác định theo chu vi đám cháy giai đoạn đầu.",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 42,
+    "line_end": 42,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-h_3",
+    "anchor": "formula-h_3",
+    "title": "$$\\dots \\qquad (H.3)$$",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 50,
+    "line_end": 50,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-h-muc-4",
+    "anchor": "phu-luc-h-muc-4",
+    "title": "4  ≤ $P_{F}$ = 0,38$A^{0,5}$ ≤ 12",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 59,
+    "line_end": 59,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-h_4",
+    "anchor": "formula-h_4",
+    "title": "$$\\dots \\qquad (H.4)$$",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 63,
+    "line_end": 63,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-h-3",
+    "anchor": "muc-h-3",
+    "title": "H.3  Khối lượng khói $G_{1}$, tính bằng kg/h, cần phải thải từ không gian phòng (lấy theo điều kiện bảo vệ cửa thoát nạn) phải được xác định theo công thức (H.5) cho chu kỳ mùa lạnh (tháng có nhiệt độ không khí thấp nhất trung trong năm [2]) và kiểm lại cho chu kỳ mùa nóng (tháng có nhiệt độ không khí cao nhất trung bình [2]), nếu vận tốc gió trong mùa nóng (vận tốc trung bình tháng [2] của tháng có nhiệt độ không khí cao nhất trung bình tháng cao hơn mùa lạnh (vận tốc gió trung bình tháng [2] của tháng có nhiệt độ không khí thấp nhất trung bình):",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 76,
+    "line_end": 76,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-h_5",
+    "anchor": "formula-h_5",
+    "title": "$$\\dots \\qquad (H.5)$$",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 84,
+    "line_end": 84,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-h_6",
+    "anchor": "formula-h_6",
+    "title": "$$\\dots \\qquad (H.6)$$",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 119,
+    "line_end": 119,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-h_7",
+    "anchor": "formula-h_7",
+    "title": "$$\\dots \\qquad (H.7)$$",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 136,
+    "line_end": 136,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-h_8",
+    "anchor": "formula-h_8",
+    "title": "$$\\dots \\qquad (H.8)$$",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 145,
+    "line_end": 145,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-h_9",
+    "anchor": "formula-h_9",
+    "title": "$$c = \\frac{\\sum A'_2}{\\sum A_2} \\qquad (H.9)$$",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 152,
+    "line_end": 152,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-h_10",
+    "anchor": "formula-h_10",
+    "title": "$$C_3 = \\frac{\\sum A_3'}{\\sum A_3} \\qquad (H.10)$$",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 157,
+    "line_end": 157,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-h_11",
+    "anchor": "formula-h_11",
+    "title": "$$C_2 = \\frac{\\sum A_3^n}{\\sum A_3} \\qquad (H.11)$$",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 162,
+    "line_end": 162,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-h_12",
+    "anchor": "formula-h_12",
+    "title": "$$\\dots \\qquad (H.12)$$",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 173,
+    "line_end": 173,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-h_13",
+    "anchor": "formula-h_13",
+    "title": "$$\\dots \\qquad (H.13)$$",
+    "source_file": "annexes/phu_luc_h_tinh_toan_luu_luong_khoi_can_phai_thai_khi_co.md",
+    "jurisdiction": "CQXD",
+    "line_start": 182,
+    "line_end": 182,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-j",
+    "anchor": "phu-luc-j",
+    "title": "PHỤ LỤC J (Tham khảo) — Phân loại độc tính cấp tính nguy hại cho sức khỏe",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-1",
+    "anchor": "muc-j-1",
+    "title": "J.1  Định nghĩa",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-2",
+    "anchor": "muc-j-2",
+    "title": "J.2  Tiêu chí phân loại chất",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 12,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-2-1",
+    "anchor": "muc-j-2-1",
+    "title": "J.2.1  Các chất có thể được phân loại vào một trong năm loại nguy hiểm dựa trên độc tính cấp tính qua đường miệng, da hoặc đường hô hấp theo giới hạn như trong bảng dưới đây. Các giá trị độc tính cấp tính được biểu thị bằng giá trị (gần đúng) LD50 (đường miệng, da) hoặc LC50 (hít phải) hoặc dưới dạng ước tính độc tính cấp tính (ATE).",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 16,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-j-1",
+    "anchor": "bang-bang-j-1",
+    "title": "Bảng J.1 - Các loại nguy cơ độc cấp tính và giá trị ước tính độc tính cấp tính (ATE) khi xác định các loại tương ứng",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 20,
+    "line_end": 20,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-2-2",
+    "anchor": "muc-j-2-2",
+    "title": "J.2.2  Hệ thống phân loại hài hòa về độc tính cấp tính đã được phát triển theo cách phù hợp với nhu cầu của các hệ thống hiện có. Một nguyên tắc cơ bản do Nhóm điều phối IOMC/Hài hòa các hệ thống phân loại hóa chất (CG/HCCS) đặt ra là “sự hài hòa có nghĩa là thiết lập một cơ sở chung và nhất quán cho việc phân loại và truyền thông về nguy cơ hóa chất, từ đó đưa ra các yếu tố thích hợp liên quan đến phương tiện vận chuyển, người tiêu dùng, bảo vệ người lao động và môi trường có thể được lựa chọn”. Cuối cùng, năm loại đã được đưa vào sơ đồ độc tính cấp tính.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 62,
+    "line_end": 62,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-2-3",
+    "anchor": "muc-j-2-3",
+    "title": "J.2.3  Loài thử nghiệm ưu tiên để đánh giá độc tính cấp tính qua đường miệng và đường hô hấp là chuột cống, trong khi chuột cống hoặc thỏ được ưu tiên sử dụng để đánh giá độc tính cấp tính qua da. Dữ liệu thử nghiệm đã được tạo để phân loại hóa chất theo các hệ thống hiện có phải được chấp nhận khi phân loại lại các hóa chất này theo hệ thống hài hòa. Khi dữ liệu thực nghiệm về độc tính cấp tính có sẵn ở một số loài động vật, nên sử dụng phán đoán khoa học để chọn giá trị LD50 phù hợp nhất trong số các thử nghiệm hợp lệ, được thực hiện tốt.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 66,
+    "line_end": 66,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-2-4",
+    "anchor": "muc-j-2-4",
+    "title": "J.2.4  Loại 1, loại nguy hiểm cao nhất, có các giá trị giới hạn (xem Bảng J.1) hiện được ngành giao thông vận tải sử dụng chủ yếu để phân loại cho các nhóm đóng gói.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 70,
+    "line_end": 70,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-2-5",
+    "anchor": "muc-j-2-5",
+    "title": "J.2.5  Loại 5 dành cho các chất có độc tính cấp tính tương đối thấp nhưng trong một số trường hợp nhất định có thể gây nguy hiểm cho các quần thể dễ bị tổn thương. Các tiêu chí để xác định các chất trong loại 5 được cung cấp thêm trong bảng. Các chất này được dự đoán là có giá trị LD 50 qua đường miệng hoặc qua da trong khoảng (2000 ÷ 5000) mg/kg trọng lượng cơ thể và liều lượng tương đương khi tiếp xúc qua đường hô hấp. Khi cân nhắc về phúc lợi động vật, không khuyến khích thử nghiệm trên động vật trong phạm vi loại 5 và chỉ nên xem xét khi có khả năng cao là kết quả của thử nghiệm đó sẽ liên quan trực tiếp đến việc bảo vệ sức khỏe con người.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 74,
+    "line_end": 74,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-2-6",
+    "anchor": "muc-j-2-6",
+    "title": "J.2.6  Cân nhắc cụ thể về độc tính khí hít phải",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 78,
+    "line_end": 78,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-2-6-1",
+    "anchor": "muc-j-2-6-1",
+    "title": "J.2.6.1  Các giá trị về độc tính khi hít phải dựa trên các thử nghiệm 4 h trên động vật thí nghiệm. Khi các giá trị thử nghiệm được lấy từ các thử nghiệm sử dụng thời gian phơi nhiễm 1 h, chúng có thể được chuyển đổi thành giá trị tương đương 4 h bằng cách chia giá trị 1 h cho hệ số 2 đối với khí và hơi khí và 4 đối với bụi và sương mù.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 82,
+    "line_end": 82,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-2-6-2",
+    "anchor": "muc-j-2-6-2",
+    "title": "J.2.6.2  Đơn vị độc tính khi hít phải là hàm số của dạng vật liệu hít vào. Giá trị đối với bụi và sương mù được biểu thị bằng mg/l. Giá trị của khí được biểu thị bằng ppmV. Thừa nhận những khó khăn trong việc kiểm tra hơi, một số trong đó bao gồm hỗn hợp của thể lỏng và hơi, bảng cung cấp các giá trị theo đơn vị mg/l. Tuy nhiên, đối với những hơi ở gần thể khí, việc phân loại phải dựa trên ppmV. Khi các phương pháp kiểm tra đường hô hấp được cập nhật, OECD (Tổ chức Hợp tác và Phát triển kinh tế) và các chương trình hướng dẫn kiểm tra khác sẽ cần xác định hơi khí liên quan đến sương mù để rõ ràng hơn.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 86,
+    "line_end": 86,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-2-6-3",
+    "anchor": "muc-j-2-6-3",
+    "title": "J.2.6.3  Các giá trị hít phải hơi khí nhằm mục đích sử dụng để phân loại độc tính cấp tính cho tất cả các lĩnh vực. Người ta cũng nhận ra rằng nồng độ hơi bão hòa của một hóa chất được ngành vận tải sử dụng như một yếu tố bổ sung trong việc phân loại hóa chất cho các nhóm đóng gói.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 90,
+    "line_end": 90,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-2-6-4",
+    "anchor": "muc-j-2-6-4",
+    "title": "J.2.6.4  Đặc biệt quan trọng là việc sử dụng các giá trị được diễn đạt rõ ràng trong các loại nguy hiểm cao nhất đối với bụi và sương mù. Các hạt hít vào có kích thước từ 1 đến 4 μm có nghĩa là đường kính khí động học khối lượng (MMAD) sẽ tích tụ ở tất cả các vùng trong đường hô hấp của chuột. Phạm vi kích thước hạt này tương ứng với liều tối đa khoảng 2 mg/l. Để đạt được khả năng áp dụng các thí nghiệm trên động vật đối với sự tiếp xúc của con người, lý tưởng nhất là thử nghiệm bụi và sương mù trong phạm vi này ở chuột. Các giá trị giới hạn trong bảng đối với bụi và sương cho phép phân biệt rõ ràng đối với các vật liệu có nhiều loại độc tính được đo trong các điều kiện thử nghiệm khác nhau. Các giá trị đối với bụi và sương mù phải được xem xét trong tương lai để thích ứng với bất kỳ thay đổi nào trong tương lai của OECD hoặc các hướng dẫn thử nghiệm khác liên quan đến các hạn chế kỹ thuật trong việc tạo, duy trì và đo nồng độ bụi và sương mù ở dạng hô hấp.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 94,
+    "line_end": 94,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-2-6-5",
+    "anchor": "muc-j-2-6-5",
+    "title": "J.2.6.5  Ngoài việc phân loại độc tính qua đường hô hấp, nếu có sẵn dữ liệu chỉ ra rằng cơ chế gây độc là tính ăn mòn của chất hoặc hỗn hợp, một số cơ quan có thẩm quyền cũng có thể chọn dán nhãn là ăn mòn đường hô hấp. Ăn mòn đường hô hấp được xác định bằng sự phá hủy mô đường hô hấp sau một thời gian tiếp xúc hạn chế, tương tự như ăn mòn da; điều này bao gồm phá hủy niêm mạc. Việc đánh giá khả năng ăn mòn có thể dựa trên đánh giá của chuyên gia bằng cách sử dụng các bằng chứng như: kinh nghiệm của con người và động vật, dữ liệu hiện có (trong ống nghiệm), giá trị pH, thông tin từ các chất tương tự hoặc bất kỳ dữ liệu thích hợp nào khác.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 98,
+    "line_end": 98,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3",
+    "anchor": "muc-j-3",
+    "title": "J.3  Tiêu chí phân loại hỗn hợp",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 102,
+    "line_end": 102,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-1",
+    "anchor": "muc-j-3-1",
+    "title": "J.3.1  Tiêu chí cho các chất phân loại độc tính cấp tính bằng cách sử dụng dữ liệu liều gây chết người (thử nghiệm hoặc dẫn xuất). Đối với hỗn hợp, cần thu thập hoặc lấy thông tin cho phép áp dụng các tiêu chí cho hỗn hợp nhằm mục đích phân loại. Cách tiếp cận để phân loại độc tính cấp tính được phân cấp và phụ thuộc vào lượng thông tin có sẵn cho chính hỗn hợp đó và các thành phần của nó.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 106,
+    "line_end": 106,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-2",
+    "anchor": "muc-j-3-2",
+    "title": "J.3.2  Việc phân loại hỗn hợp cho độc tính cấp tính có thể được thực hiện cho từng lộ trình tiếp xúc, nhưng chỉ cần thiết cho một lộ trình tiếp xúc miễn là lộ trình này được tuân theo (ước tính hoặc thử nghiệm) cho tất cả các thành phần và không có bằng chứng liên quan đến gợi ý độc tính cấp tính bằng nhiều con đường. Khi có bằng chứng liên quan về độc tính do nhiều đường phơi nhiễm, việc phân loại phải được tiến hành cho tất cả các đường phơi nhiễm thích hợp. Tất cả các thông tin có sẵn nên được xem xét. Biểu tượng và từ báo hiệu được sử dụng phải phản ánh loại nguy hiểm nghiêm trọng nhất và nên sử dụng tất cả các cảnh báo nguy hiểm có liên quan.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 110,
+    "line_end": 110,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-3",
+    "anchor": "muc-j-3-3",
+    "title": "J.3.3  Để tận dụng tất cả các dữ liệu có sẵn cho mục đích phân loại các mối nguy hiểm của hỗn hợp, một số giả định nhất định đã được đưa ra và được áp dụng khi thích hợp theo cách tiếp cận theo từng cấp:",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 114,
+    "line_end": 114,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-4",
+    "anchor": "muc-j-3-4",
+    "title": "J.3.4  Phân loại hỗn hợp khi có sẵn dữ liệu thử nghiệm độc tính cấp tính cho hỗn hợp hoàn chỉnh",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 126,
+    "line_end": 126,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-5",
+    "anchor": "muc-j-3-5",
+    "title": "J.3.5  Phân loại hỗn hợp khi không có dữ liệu thử nghiệm độc tính cấp tính đối với hỗn hợp hoàn chỉnh: nguyên tắc bắc cầu",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 132,
+    "line_end": 132,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-5-1",
+    "anchor": "muc-j-3-5-1",
+    "title": "J.3.5.1  Khi bản thân hỗn hợp chưa được thử nghiệm để xác định độc tính cấp tính của nó, nhưng có đủ dữ liệu về cả các thành phần riêng lẻ và các hỗn hợp được thử nghiệm tương tự để mô tả đầy đủ các mối nguy hiểm của hỗn hợp, những dữ liệu này sẽ được sử dụng theo các nguyên tắc bắc cầu đã được thống nhất sau đây.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 136,
+    "line_end": 136,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-5-2",
+    "anchor": "muc-j-3-5-2",
+    "title": "J.3.5.2  Pha loãng",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 142,
+    "line_end": 142,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-5-3",
+    "anchor": "muc-j-3-5-3",
+    "title": "J.3.5.3  Chia mẻ",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 150,
+    "line_end": 150,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-5-4",
+    "anchor": "muc-j-3-5-4",
+    "title": "J.3.5.4  Nồng độ của hỗn hợp có độc tính cao",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 156,
+    "line_end": 156,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-5-5",
+    "anchor": "muc-j-3-5-5",
+    "title": "J.3.5.5  Nội suy trong một loại nguy hiểm",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 162,
+    "line_end": 162,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-5-6",
+    "anchor": "muc-j-3-5-6",
+    "title": "J.3.5.6  Các hỗn hợp về cơ bản tương tự",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 168,
+    "line_end": 168,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-5-7",
+    "anchor": "muc-j-3-5-7",
+    "title": "J.3.5.7  Aerosols (son khí)",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 188,
+    "line_end": 188,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-6",
+    "anchor": "muc-j-3-6",
+    "title": "J.3.6  Phân loại hỗn hợp dựa trên thành phần của hỗn hợp (công thức phụ gia).",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 194,
+    "line_end": 194,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-6-1",
+    "anchor": "muc-j-3-6-1",
+    "title": "J.3.6.1  Dữ liệu có sẵn cho tất cả các thành phần",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 198,
+    "line_end": 198,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-j_1",
+    "anchor": "formula-j_1",
+    "title": "$$\\dots \\qquad (J.1)$$",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 218,
+    "line_end": 218,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-6-2",
+    "anchor": "muc-j-3-6-2",
+    "title": "J.3.6.2  Khi không có dữ liệu cho một hoặc nhiều thành phần của hỗn hợp",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 229,
+    "line_end": 229,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-6-2-1",
+    "anchor": "muc-j-3-6-2-1",
+    "title": "J.3.6.2.1  Trong trường hợp không có sẵn ATE cho một thành phần riêng lẻ của hỗn hợp, nhưng thông tin sẵn có như được liệt kê bên dưới có thể cung cấp giá trị chuyển đổi được suy ra, công thức trong J.1.3.6.1 có thể được áp dụng.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 233,
+    "line_end": 233,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-6-2-2",
+    "anchor": "muc-j-3-6-2-2",
+    "title": "J.3.6.2.2  Trong trường hợp một thành phần không có bất kỳ thông tin hữu ích nào để phân loại được sử dụng trong hỗn hợp ở nồng độ ≥ 1%, kết luận rằng hỗn hợp đó không thể được coi là ước tính độc tính cấp tính chính xác. Trong tình huống này, hỗn hợp chỉ nên được phân loại dựa trên các thành phần đã biết, với cảnh báo bổ sung rằng x phần trăm hỗn hợp bao gồm (các) thành phần có độc tính cấp tính (đường miệng/da/hít phải) chưa biết. Cơ quan có thẩm quyền có thể quyết định chỉ định rằng (các) cảnh báo bổ sung sẽ được thông báo trên nhãn hoặc trên SDS hoặc cả hai, hoặc để nhà sản xuất/nhà cung cấp lựa chọn vị trí đặt cảnh báo.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 249,
+    "line_end": 249,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-3-6-2-3",
+    "anchor": "muc-j-3-6-2-3",
+    "title": "J.3.6.2.3  Nếu tổng nồng độ của (các) thành phần có liên quan với độc tính cấp tính chưa biết $C_{unknown}$ ≤ 10% thì nên sử dụng công thức nêu trong J.1.3.6.1. Nếu tổng nồng độ của (các) thành phần liên quan có độc tính chưa biết $C_{unknow}$ > 10%, thì công thức nêu trong J.1.3.6.1 phải được hiệu chỉnh để điều chỉnh tỷ lệ phần trăm của (các) thành phần chưa biết như sau:",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 253,
+    "line_end": 253,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-j_2",
+    "anchor": "formula-j_2",
+    "title": "$$\\dots \\qquad (J.2)$$",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 261,
+    "line_end": 261,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-4",
+    "anchor": "muc-j-4",
+    "title": "J.4  Truyền thông về nguy cơ",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 266,
+    "line_end": 266,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-4-1",
+    "anchor": "muc-j-4-1",
+    "title": "J.4.1  Các cân nhắc chung và cụ thể liên quan đến các yêu cầu ghi nhãn được cung cấp trong Truyền thông về nguy cơ [16]. Bảng J.2 trình bày các thành phần nhãn cụ thể cho các chất và hỗn hợp được phân loại thành các loại nguy hiểm độc tính cấp tính từ 1 đến 5 dựa trên các tiêu chí được đặt ra trong điều này.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 270,
+    "line_end": 270,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-j-2",
+    "anchor": "bang-bang-j-2",
+    "title": "Bảng J.2 - Các yếu tố ghi nhãn cho độc tính cấp tính",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 274,
+    "line_end": 274,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-j-4-2",
+    "anchor": "muc-j-4-2",
+    "title": "J.4.2  Các cảnh báo về mối nguy hiểm độc tính cấp tính phân biệt mối nguy hiểm dựa trên lộ trình phơi nhiễm. Truyền thông về phân loại độc tính cấp tính cũng nên phản ánh sự khác biệt này. Ví dụ: độc tính cấp tính qua đường miệng Loại 1, độc tính cấp tính qua da Loại 1 và độc tính cấp tính khi hít phải Loại 1. Nếu một chất hoặc hỗn hợp được phân loại cho nhiều đường tiếp xúc thì tất cả các phân loại liên quan phải được thông báo trên bảng dữ liệu an toàn như được chỉ định trong [16] và các yếu tố truyền thông nguy hiểm liên quan có trên nhãn theo quy định tại J.1.3.2. Nếu cảnh báo “x % hỗn hợp bao gồm (các) thành phần có độc tính cấp tính (qua đường miệng/da/hít phải)” được truyền đạt, như được mô tả trong J.1.3.6.2.2, thì nó cũng có thể được phân biệt dựa trên lộ trình phơi nhiễm. Ví dụ: “x % hỗn hợp bao gồm (các) thành phần gây độc tính cấp tính qua đường miệng chưa biết” và “x % hỗn hợp bao gồm (các) thành phần gây độc tính cấp ở da”.",
+    "source_file": "annexes/phu_luc_j_phan_loai_doc_tinh_cap_tinh_nguy_hai_cho_suc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 288,
+    "line_end": 288,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-k",
+    "anchor": "phu-luc-k",
+    "title": "PHỤ LỤC K (Tham khảo) — Vận hành hệ thống thông gió và điều hoà không khí hiện hữu trong thời gian xảy ra đại dịch",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-1",
+    "anchor": "muc-k-1",
+    "title": "K.1  Phạm vi áp dụng",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-2",
+    "anchor": "muc-k-2",
+    "title": "K.2  Phương pháp kiểm soát",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 14,
+    "line_end": 14,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-2-1",
+    "anchor": "muc-k-2-1",
+    "title": "K.2.1  Giải pháp chung",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 18,
+    "line_end": 18,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-2-2",
+    "anchor": "muc-k-2-2",
+    "title": "K.2.2  Kiểm soát hướng di chuyển của luồng không khí (phân phối không khí) và bố trí sử dụng",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 24,
+    "line_end": 24,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-3",
+    "anchor": "muc-k-3",
+    "title": "K.3  Hệ thống điều hòa không khí",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 32,
+    "line_end": 32,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-3-1",
+    "anchor": "muc-k-3-1",
+    "title": "K.3.1  Các yêu cầu về hoạt động",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 36,
+    "line_end": 36,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-4",
+    "anchor": "muc-k-4",
+    "title": "K.4  Tăng cường thông gió",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 48,
+    "line_end": 48,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-4-1",
+    "anchor": "muc-k-4-1",
+    "title": "K.4.1  Cung cấp không khí ngoài trời",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 52,
+    "line_end": 52,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-4-1-1",
+    "anchor": "muc-k-4-1-1",
+    "title": "K.4.1.1  Lưu lượng gió tươi phải đáp ứng tối thiểu mức quy định trong Bảng ở Phụ lục E. Cần thực hiện cấp thêm không khí ngoài (ví dụ cài đặt tối đa) để pha loãng tác nhân truyền bệnh trong nhà.",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 56,
+    "line_end": 56,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-4-1-2",
+    "anchor": "muc-k-4-1-2",
+    "title": "K.4.1.2  Nguồn cung cấp không khí ngoài trời phải được đặt ở chế độ tối đa để tăng cường việc pha loãng trong nhà. Van gió cho không khí ngoài nên được mở ra lớn nhất nếu có thể với quạt chạy ở chế độ tốc độ cao khi điều kiện trong nhà cho phép. Hệ thống kiểm soát yêu cầu, chẳng hạn như hệ thống có cảm biến $CO_{2}$, nên ngừng hoạt động.",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 60,
+    "line_end": 60,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-4-1-3",
+    "anchor": "muc-k-4-1-3",
+    "title": "K.4.1.3  Thời gian hoạt động của hệ thống điều hòa không khí, trước và sau khi có người ở, cần được xem xét để loại bỏ các dấu vết của tác nhân gây bệnh dài hơn.",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 64,
+    "line_end": 64,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-4-2",
+    "anchor": "muc-k-4-2",
+    "title": "K.4.2  Làm sạch không khí trong nhà",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 68,
+    "line_end": 68,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-4-2-1",
+    "anchor": "muc-k-4-2-1",
+    "title": "K.4.2.1  Phải vận hành hệ thống lọc không khí để đưa không khí ngoài trời vào không gian trong công trình và thải không khí trong nhà ra bên ngoài. Các chủ sở hữu tòa nhà và ban quản lý tòa nhà nên vận hành việc lọc không khí ít nhất một lần một ngày trước khi có người. Thời gian hoạt động phải ít nhất 2 h trước khi người đầu tiên đến.",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 72,
+    "line_end": 72,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-4-2-2",
+    "anchor": "muc-k-4-2-2",
+    "title": "K.4.2.2  Trong không gian không có hệ thống lọc, thời gian hoạt động của hệ thống thông gió và điều hoà không khí phải được kéo dài thêm hai giờ trước và sau khi có người.",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 76,
+    "line_end": 76,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-4-3",
+    "anchor": "muc-k-4-3",
+    "title": "K.4.3  Thiết bị thu hồi nhiệt",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 80,
+    "line_end": 80,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-5",
+    "anchor": "muc-k-5",
+    "title": "K.5  Tăng cường lọc không khí và khử trùng",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 86,
+    "line_end": 86,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-5-1",
+    "anchor": "muc-k-5-1",
+    "title": "K.5.1  Lọc khí",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 90,
+    "line_end": 90,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-5-1-1",
+    "anchor": "muc-k-5-1-1",
+    "title": "K.5.1.1  Các bộ lọc hiệu quả cao có xếp hạng ít nhất là MERV 14 nên được lắp đặt và vận hành trong các bộ xử lý nhiệt ẩm (AHU) để xử lý không khí tuần hoàn. Các bộ lọc phải được lắp đặt đúng cách và được niêm phong tốt theo khuyến nghị của nhà sản xuất để tránh bỏ qua bộ lọc. Các bộ lọc phải được kiểm tra thường xuyên để đảm bảo không bị rò rỉ và nó không được quá tải. Cần thực hiện đầy đủ các biện pháp phòng ngừa khi thay bộ lọc (thực hiện trong khi hệ thống tắt, đeo thiết bị bảo vệ cá nhân và găng tay) và bỏ chúng vào trong túi kín.",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 94,
+    "line_end": 94,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-5-2",
+    "anchor": "muc-k-5-2",
+    "title": "K.5.2  Khử trùng",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 98,
+    "line_end": 98,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-5-2-1",
+    "anchor": "muc-k-5-2-1",
+    "title": "K.5.2.1  Có thể sử dụng các thiết bị làm sạch không khí như chiếu xạ diệt khuẩn bằng tia cực tím (UVGI), tùy thuộc vào các hạn chế về không gian, để nâng cao hiệu quả làm sạch và bổ sung cho các bộ lọc không khí. Các thiết bị này có thể được xem xét để sử dụng trong các không gian có người hoặc AHU/ống dẫn và phải có kích thước, lắp đặt và bảo trì phù hợp để đạt được hiệu quả dự kiến của nó, Người dùng cần lưu ý và tuân theo các hướng dẫn an toàn có liên quan.",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 102,
+    "line_end": 102,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-5-2-2",
+    "anchor": "muc-k-5-2-2",
+    "title": "K.5.2.2  Có thể xem xét các công nghệ làm sạch không khí khác (ví dụ: chất ion lưỡng cực hoặc chất oxy hóa xúc tác bởi ánh sáng). Tuy nhiên, điều quan trọng là cần lưu ý là chúng có thể hoạt động trên các cơ chế khác nhau, với mỗi cơ chế sẽ có những cân nhắc khác nhau về hiệu quả và độ an toàn. Cần thận trọng và cần xem xét các điều kiện cần thiết để làm sạch không khí hiệu quả và an toàn.",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 108,
+    "line_end": 108,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-5-3",
+    "anchor": "muc-k-5-3",
+    "title": "K.5.3  Máy làm sạch không khí di động",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 112,
+    "line_end": 112,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-6",
+    "anchor": "muc-k-6",
+    "title": "K.6  Vận hành và bảo dưỡng",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 118,
+    "line_end": 118,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-6-1",
+    "anchor": "muc-k-6-1",
+    "title": "K.6.1  Thông gió tối đa trong nhà vệ sinh và các khu vực chung",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 122,
+    "line_end": 122,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-6-1-1",
+    "anchor": "muc-k-6-1-1",
+    "title": "K.6.1.1  Do quạt hút của nhà vệ sinh hoạt động hết công suất trong thời gian hoạt động lâu hơn, điều quan trọng là phải kiểm tra vòng đệm nước (siphông) cho các phụ kiện vệ sinh để đảm bảo rằng các nút bịt kín nước vẫn được duy trì. Nên đậy nắp bồn cầu để giảm thiểu các rủi ro có liên quan đến áp suất thấp (áp suất thấp hơn ngoài trời).",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 126,
+    "line_end": 126,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-k-6-1-2",
+    "anchor": "muc-k-6-1-2",
+    "title": "K.6.1.2  Tại các khu vực chung có nguy cơ tụ tập đông người, chẳng hạn như sảnh vào, phải có đủ lỗ thông gió và hút/thải không khí.",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 130,
+    "line_end": 130,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-k-muc-1",
+    "anchor": "phu-luc-k-muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 187,
+    "line_end": 187,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-k-muc-2",
+    "anchor": "phu-luc-k-muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 191,
+    "line_end": 191,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-k-muc-3",
+    "anchor": "phu-luc-k-muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 195,
+    "line_end": 195,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-k-muc-4",
+    "anchor": "phu-luc-k-muc-4",
+    "title": "4  QUY ĐỊNH CHUNG",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 199,
+    "line_end": 199,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-k-muc-5",
+    "anchor": "phu-luc-k-muc-5",
+    "title": "5  CÁC THÔNG SỐ CỦA KHÔNG KHÍ TRONG PHÒNG VÀ BÊN NGOÀI",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 203,
+    "line_end": 203,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-k-muc-6",
+    "anchor": "phu-luc-k-muc-6",
+    "title": "6  THIẾT KẾ HỆ THỐNG THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 215,
+    "line_end": 215,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-k-muc-7",
+    "anchor": "phu-luc-k-muc-7",
+    "title": "7  BẢO VỆ CHỐNG KHÓI KHI CÓ CHÁY",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 263,
+    "line_end": 263,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-k-muc-8",
+    "anchor": "phu-luc-k-muc-8",
+    "title": "8  CẤP LẠNH",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 267,
+    "line_end": 267,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-k-muc-9",
+    "anchor": "phu-luc-k-muc-9",
+    "title": "9  SỬ DỤNG NGUỒN NHIỆT THẢI",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 271,
+    "line_end": 271,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-k-muc-10",
+    "anchor": "phu-luc-k-muc-10",
+    "title": "10  KIỂM SOÁT QUẢN LÝ NĂNG LƯỢNG",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 275,
+    "line_end": 275,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-k-muc-11",
+    "anchor": "phu-luc-k-muc-11",
+    "title": "11  CẤP THOÁT NƯỚC CHO HỆ THỐNG THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 279,
+    "line_end": 279,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-k-muc-12",
+    "anchor": "phu-luc-k-muc-12",
+    "title": "12  CẤP ĐIỆN VÀ TỰ ĐỘNG HÓA CHO HỆ THỐNG THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ",
+    "source_file": "annexes/phu_luc_k_van_hanh_he_thong_thong_gio_va_dieu_hoa_khong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 283,
+    "line_end": 283,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-n",
+    "anchor": "phu-luc-n",
+    "title": "PHỤ LỤC N — ày cung cấp hướng dẫn về các biện pháp áp dụng cho hệ thống thông gió và điều hoà không khí trong các tòa nhà để hạn chế nguy cơ lây lan vi-rút cho những người cư ngụ trong tình huống có đại dịch, cung cấp hướng dẫn về các biện pháp được áp dụng khi công trình có sử dụng hệ thống thông gió và điều hoà không khí. Các biện pháp này không thay thế tầm quan trọng của các biện pháp cơ bản như vệ sinh cá nhân, thực hành khử khuẩn, vệ sinh thường xuyên các điểm dễ tiếp xúc, đeo khẩu trang, cách ly và giữ khoảng cách.",
+    "source_file": "annexes/phu_luc_n_ay_cung_cap_huong_dan_ve_cac_bien_phap_ap_dun.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-n-muc-1",
+    "anchor": "phu-luc-n-muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "annexes/phu_luc_n_ay_cung_cap_huong_dan_ve_cac_bien_phap_ap_dun.md",
+    "jurisdiction": "CQXD",
+    "line_start": 181,
+    "line_end": 181,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-n-muc-2",
+    "anchor": "phu-luc-n-muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "annexes/phu_luc_n_ay_cung_cap_huong_dan_ve_cac_bien_phap_ap_dun.md",
+    "jurisdiction": "CQXD",
+    "line_start": 185,
+    "line_end": 185,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-n-muc-3",
+    "anchor": "phu-luc-n-muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "annexes/phu_luc_n_ay_cung_cap_huong_dan_ve_cac_bien_phap_ap_dun.md",
+    "jurisdiction": "CQXD",
+    "line_start": 189,
+    "line_end": 189,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-n-muc-4",
+    "anchor": "phu-luc-n-muc-4",
+    "title": "4  QUY ĐỊNH CHUNG",
+    "source_file": "annexes/phu_luc_n_ay_cung_cap_huong_dan_ve_cac_bien_phap_ap_dun.md",
+    "jurisdiction": "CQXD",
+    "line_start": 193,
+    "line_end": 193,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-n-muc-5",
+    "anchor": "phu-luc-n-muc-5",
+    "title": "5  CÁC THÔNG SỐ CỦA KHÔNG KHÍ TRONG PHÒNG VÀ BÊN NGOÀI",
+    "source_file": "annexes/phu_luc_n_ay_cung_cap_huong_dan_ve_cac_bien_phap_ap_dun.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 197,
+    "line_end": 197,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-n-muc-6",
+    "anchor": "phu-luc-n-muc-6",
+    "title": "6  THIẾT KẾ HỆ THỐNG THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ",
+    "source_file": "annexes/phu_luc_n_ay_cung_cap_huong_dan_ve_cac_bien_phap_ap_dun.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 209,
+    "line_end": 209,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-n-muc-7",
+    "anchor": "phu-luc-n-muc-7",
+    "title": "7  BẢO VỆ CHỐNG KHÓI KHI CÓ CHÁY",
+    "source_file": "annexes/phu_luc_n_ay_cung_cap_huong_dan_ve_cac_bien_phap_ap_dun.md",
+    "jurisdiction": "CQXD",
+    "line_start": 257,
+    "line_end": 257,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-n-muc-8",
+    "anchor": "phu-luc-n-muc-8",
+    "title": "8  CẤP LẠNH",
+    "source_file": "annexes/phu_luc_n_ay_cung_cap_huong_dan_ve_cac_bien_phap_ap_dun.md",
+    "jurisdiction": "CQXD",
+    "line_start": 261,
+    "line_end": 261,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-n-muc-9",
+    "anchor": "phu-luc-n-muc-9",
+    "title": "9  SỬ DỤNG NGUỒN NHIỆT THẢI",
+    "source_file": "annexes/phu_luc_n_ay_cung_cap_huong_dan_ve_cac_bien_phap_ap_dun.md",
+    "jurisdiction": "CQXD",
+    "line_start": 265,
+    "line_end": 265,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-n-muc-10",
+    "anchor": "phu-luc-n-muc-10",
+    "title": "10  KIỂM SOÁT QUẢN LÝ NĂNG LƯỢNG",
+    "source_file": "annexes/phu_luc_n_ay_cung_cap_huong_dan_ve_cac_bien_phap_ap_dun.md",
+    "jurisdiction": "CQXD",
+    "line_start": 269,
+    "line_end": 269,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-n-muc-11",
+    "anchor": "phu-luc-n-muc-11",
+    "title": "11  CẤP THOÁT NƯỚC CHO HỆ THỐNG THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ",
+    "source_file": "annexes/phu_luc_n_ay_cung_cap_huong_dan_ve_cac_bien_phap_ap_dun.md",
+    "jurisdiction": "CQXD",
+    "line_start": 273,
+    "line_end": 273,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-n-muc-12",
+    "anchor": "phu-luc-n-muc-12",
+    "title": "12  CẤP ĐIỆN VÀ TỰ ĐỘNG HÓA CHO HỆ THỐNG THÔNG GIÓ VÀ ĐIỀU HÒA KHÔNG KHÍ",
+    "source_file": "annexes/phu_luc_n_ay_cung_cap_huong_dan_ve_cac_bien_phap_ap_dun.md",
+    "jurisdiction": "CQXD",
+    "line_start": 277,
+    "line_end": 277,
+    "cong_bao_number": "TCVN"
+  }
+]

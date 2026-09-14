@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_38",
+  "table_number": "38",
+  "table_title": "Bảng 38 - Hệ số $\\gamma_{fat}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Trạng thái ứng suất (đối với $\\sigma_{max}$)",
+    "Hệ số không đối xứng ứng suất, ρ",
+    "Công thức tính hệ số $\\gamma_{fat}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Trạng thái ứng suất (đối với $\\sigma_{max}$)": "1. Kéo",
+      "Hệ số không đối xứng ứng suất, ρ": "≥ -1 và ≤ 0",
+      "Công thức tính hệ số $\\gamma_{fat}$": "2,5/(1,5 - ρ )"
+    },
+    {
+      "_row_id": 2,
+      "Trạng thái ứng suất (đối với $\\sigma_{max}$)": "1. Kéo",
+      "Hệ số không đối xứng ứng suất, ρ": "> 0 và ≤ 0,8",
+      "Công thức tính hệ số $\\gamma_{fat}$": "2,0/(1,2 - ρ)"
+    },
+    {
+      "_row_id": 3,
+      "Trạng thái ứng suất (đối với $\\sigma_{max}$)": "1. Kéo",
+      "Hệ số không đối xứng ứng suất, ρ": "> 0,8 và <1",
+      "Công thức tính hệ số $\\gamma_{fat}$": "1,0/(1,0 - ρ)"
+    },
+    {
+      "_row_id": 4,
+      "Trạng thái ứng suất (đối với $\\sigma_{max}$)": "2. Nén",
+      "Hệ số không đối xứng ứng suất, ρ": "≥ -1 và <1",
+      "Công thức tính hệ số $\\gamma_{fat}$": "2,0/(1,0 - ρ)"
+    }
+  ],
+  "footnotes": []
+}

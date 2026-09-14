@@ -1,0 +1,64 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 9362 2012
+total_figures: 7
+figures:
+- figure_id: FIG_C_1
+  slug: c_1
+  tag: C.1
+  title: Sơ đồ để tính lún theo phương pháp cộng lớp
+  annex: C
+  anchor: hinh-c_1
+  image_relpath: figures/images/hinh_c_1.png
+  has_image: true
+- figure_id: FIG_C_2
+  slug: c_2
+  tag: C.2
+  title: Sơ đồ bố trí “móng ảo” để tính ảnh hưởng đến độ lún theo phương pháp điểm
+    góc
+  annex: C
+  anchor: hinh-c_2
+  image_relpath: figures/images/hinh_c_2.png
+  has_image: true
+- figure_id: FIG_C_3
+  slug: c_3
+  tag: C.3
+  title: Sơ đồ để tính độ lún bằng phương pháp lớp biến dạng tuyến tính có chiều dày
+    hữu hạn
+  annex: C
+  anchor: hinh-c_3
+  image_relpath: figures/images/hinh_c_3.png
+  has_image: true
+- figure_id: FIG_C_4
+  slug: c_4
+  tag: C.4
+  title: Sơ đồ để tính toán trị hữu hạn Ah thấm ướt thuộc vùng dưới của nền dọc theo
+    trục thẳng đứng của móng trong trường hợp nếu nó ở phía ngoài nguồn thấm ướt.
+  annex: C
+  anchor: hinh-c_4
+  image_relpath: figures/images/hinh_c_4.png
+  has_image: true
+- figure_id: FIG_C_5
+  slug: c_5
+  tag: C.5
+  title: Sơ đồ để tính độ nâng cao của nền khi đất trương nở
+  annex: C
+  anchor: hinh-c_5
+  image_relpath: figures/images/hinh_c_5.png
+  has_image: true
+- figure_id: FIG_E_1
+  slug: e_1
+  tag: E.1
+  title: Biểu đồ để xác định hệ số sức chịu tải
+  annex: E
+  anchor: hinh-e_1
+  image_relpath: figures/images/hinh_e_1.png
+  has_image: true
+- figure_id: FIG_E_2
+  slug: e_2
+  tag: E.2
+  title: Biểu đồ để xác định hệ số độ nghiêng tải trọng
+  annex: E
+  anchor: hinh-e_2
+  image_relpath: figures/images/hinh_e_2.png
+  has_image: true

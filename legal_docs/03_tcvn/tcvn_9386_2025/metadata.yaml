@@ -1,0 +1,31 @@
+id: tcvn_9386_2025
+document_number: TCVN 9386:2025
+title: 'TCVN 9386:2025 Thiết kế kết cấu chịu động đất - Phần 1: Quy định chung, tác
+  động động đất và quy định cho nhà'
+type: Tiêu chuẩn quốc gia
+issued_by: Bộ Khoa học và Công nghệ
+signer: Tổng cục Tiêu chuẩn Đo lường Chất lượng
+issued_date: '2025-01-20'
+effective_date: '2025-01-20'
+status: active
+pdf_path: legal_docs/03_tcvn/tcvn_9386_2025/sources/tcvn_9386_2025.pdf
+pdf_sha256: 726a43400d4ccbbffae2d163df58843eec9d06a222f835c4439bb40f36e3c689
+pdf_status: verified
+cong_bao_number: TCVN
+legal_basis: []
+replaces:
+- TCVN 9386:2012
+bundle_path: legal_docs/03_tcvn/tcvn_9386_2025/
+source_assets:
+  pdf:
+    sha256: 726a43400d4ccbbffae2d163df58843eec9d06a222f835c4439bb40f36e3c689
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9386_2025/tcvn_9386_2025.pdf
+    status: verified
+  docx:
+    sha256: 9018c5d7864c7c101b61ed087499f2ee4e85e624859af5b65620d8ec55538018
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9386_2025/tcvn_9386_2025.docx
+    status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-14T14:30:24.473954+00:00'

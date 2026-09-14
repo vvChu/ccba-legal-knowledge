@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_c_3",
+  "table_number": "C.3",
+  "table_title": "Bảng C.3 - Hệ số hiệu chỉnh F (hệ số công trình)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại công trình",
+    "Giá trị F"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại công trình": "Công trình có hệ thống chống sét và nối đẳng thế đơn giản",
+      "Giá trị F": "1"
+    },
+    {
+      "_row_id": 2,
+      "Loại công trình": "Công trình có hệ thống chống sét và nối đẳng thế phức hợp",
+      "Giá trị F": "1,2"
+    },
+    {
+      "_row_id": 3,
+      "Loại công trình": "Công trình có hệ thống nối đẳng thế khó khăn (nhà dài hơn 100 m)",
+      "Giá trị F": "2"
+    }
+  ],
+  "footnotes": []
+}

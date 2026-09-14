@@ -1,0 +1,26 @@
+{
+  "table_id": "bang_f_3",
+  "table_number": "F.3",
+  "table_title": "Bảng F.3 - Hệ số $\\varphi_{b}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Cánh chịu nén",
+    "Giá trị $\\varphi_{b}$ khi giá trị $\\varphi_{2}$ — ≤ 0,85",
+    "Giá trị $\\varphi_{b}$ khi giá trị $\\varphi_{2}$ — > 0,85"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cánh chịu nén": "1. Lớn hơn",
+      "Giá trị $\\varphi_{b}$ khi giá trị $\\varphi_{2}$ — ≤ 0,85": "$\\varphi_{1}$ ≤ 1",
+      "Giá trị $\\varphi_{b}$ khi giá trị $\\varphi_{2}$ — > 0,85": "$\\varphi_t \\left( 0,21 + 0,68 \\left( \\frac{n}{\\varphi_1} + \\frac{1-n}{\\varphi_2} \\right) \\right) \\le 1$"
+    },
+    {
+      "_row_id": 2,
+      "Cánh chịu nén": "2. Nhỏ hơn",
+      "Giá trị $\\varphi_{b}$ khi giá trị $\\varphi_{2}$ — ≤ 0,85": "$\\varphi_{2}$",
+      "Giá trị $\\varphi_{b}$ khi giá trị $\\varphi_{2}$ — > 0,85": "0,68 + 0,21$\\varphi_{2}$ ≤ 1"
+    }
+  ],
+  "footnotes": []
+}

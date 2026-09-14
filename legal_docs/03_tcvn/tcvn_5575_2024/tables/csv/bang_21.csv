@@ -1,0 +1,4 @@
+﻿Độ lệch tâm tương đối $m_{max}$,Giá trị M khi độ mảnh quy ước của cấu kiện — $\bar{\lambda}$ < 4,Giá trị M khi độ mảnh quy ước của cấu kiện — $\bar{\lambda}$> 4
+$m_{max}$ ≤ 3,"$M = M_{\text{max}} - 0,25\bar{\lambda}(M_{\text{max}} - M_1)$",M = $M_{1}$
+3 < $m_{max}$ ≤ 20,$M = M_2 + \frac{m_{\text{max}} - 3}{17} (M_{\text{max}} - M_2)$,$M = M_1 + \frac{m_{\max} - 3}{17} (M_{\max} - M_1)$
+"**Các ký hiệu trong Bảng 21:<br>$M_{max}$ là mô men uốn lớn nhất trong phạm vi chiều dài cấu kiện;<br>$M_{1}$ là mô men uốn lớn nhất trong khoảng 1/3 ở giữa chiều dài cấu kiện, nhưng lấy không nhỏ hơn 0,5$M_{max}$;<br>$M_{2}$ là mô men uốn lớn nhất lấy bằng M ứng với $m_{max}$ ≤ 3 và $\bar{\lambda}$ < 4, nhưng lấy không nhỏ hơn 0,5$M_{max}$.**",,

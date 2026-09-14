@@ -1,0 +1,24 @@
+{
+  "table_id": "bang_phu_luc_1",
+  "table_number": "PL1",
+  "table_title": "Bảng Phụ lục 1",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "STT",
+    "Trạm",
+    "q5 (1/s.ha)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "STT": "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47",
+      "Trạm": "Bắc Cạn\nBắc Giang\nBảo Lộc\nBuôn Mê Thuột\nBắc Quang\nCà Mau\nCửa Tùng\nĐô Lương\nĐà Lạt\nĐà Nẵng\nHoà Bình\nHải Dương\nHà Giang\nHồng Gai\nHà Nam\nHuế\nHưng Yên\nHà Nội\nLào Cai\nLai Châu\nMóng Cái\nNinh Bình\nNam Định\nNha Trang\nPhù Liễn\nPlâycu\nPhan Thiết\nQuy Nhơn\nQuảng Ngãi\nQuảng Trị\nThành phố Hồ Chí Minh\nSơn La\nSóc Trăng\nSơn Tây\nSapa\nThái Bình\nTam Đảo\nTây Hiếu\nTuy Hoà\nThanh Hoá\nThái Nguyên\nTuyên Quang\nVinh\nVăn Lí\nViệt Trì\nVĩnh Yên\nYên Bái",
+      "q5 (1/s.ha)": "421,9\n433,3\n506,26\n387,7\n611,14\n507,4\n384,28\n450,30\n416,2\n370,6\n384,6\n450,4\n390\n478,9\n433,3\n370,6\n450,4\n484,6\n450,4\n391,2\n524,5\n507,4\n433,3\n281,68\n461,8\n392,26\n326,14\n342,1\n416,2\n421,9\n496,0\n370,6\n450,4\n484,6\n262,3\n484,6\n547,3\n404,8\n356,92\n427,6\n564,4\n440,14\n450,40\n452,68\n509,68\n472,06\n478,9",
+      "Ghi chú": "Hà Tuyên\nLiên Khương\nLáng\nHà Nam Ninh"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Đối với các địa điểm xây dựng, không có trong danh mục trên có thể lấy trị số cường độ mưa của các địa phương lân cận để tính toán."
+  }
+}

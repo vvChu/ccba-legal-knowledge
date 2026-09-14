@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_d_2",
+  "table_number": "D.2",
+  "table_title": "Bảng D.2 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi amiăng tại nơi làm việc theo [1]",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên chất",
+    "Giới hạn tiếp xúc ca làm việc (TWA)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên chất": "1. Serpentine (chrysotile)",
+      "Giới hạn tiếp xúc ca làm việc (TWA)": "0,1"
+    },
+    {
+      "_row_id": 2,
+      "Tên chất": "2. Amphibole",
+      "Giới hạn tiếp xúc ca làm việc (TWA)": "0"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,50 @@
+{
+  "table_id": "bang_c_7",
+  "table_number": "C.7",
+  "table_title": "Bảng C.7 - Phân loại mức độ phơi trần",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Mức độ hư hao",
+    "Mức độ phơi trần — R < 0,005",
+    "Mức độ phơi trần — R = 0,005 ÷ 0,0499",
+    "Mức độ phơi trần — R = 0,05 ÷ 0,499",
+    "Mức độ phơi trần — R > 0,5"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mức độ hư hao": "1",
+      "Mức độ phơi trần — R < 0,005": "Không đáng kể",
+      "Mức độ phơi trần — R = 0,005 ÷ 0,0499": "Không đáng kể",
+      "Mức độ phơi trần — R = 0,05 ÷ 0,499": "Thấp",
+      "Mức độ phơi trần — R > 0,5": "Trung bình"
+    },
+    {
+      "_row_id": 2,
+      "Mức độ hư hao": "2",
+      "Mức độ phơi trần — R < 0,005": "Không đáng kể",
+      "Mức độ phơi trần — R = 0,005 ÷ 0,0499": "Thấp",
+      "Mức độ phơi trần — R = 0,05 ÷ 0,499": "Trung bình",
+      "Mức độ phơi trần — R > 0,5": "Cao"
+    },
+    {
+      "_row_id": 3,
+      "Mức độ hư hao": "3",
+      "Mức độ phơi trần — R < 0,005": "Thấp",
+      "Mức độ phơi trần — R = 0,005 ÷ 0,0499": "Trung bình",
+      "Mức độ phơi trần — R = 0,05 ÷ 0,499": "Cao",
+      "Mức độ phơi trần — R > 0,5": "Cao"
+    },
+    {
+      "_row_id": 4,
+      "Mức độ hư hao": "4",
+      "Mức độ phơi trần — R < 0,005": "Trung bình",
+      "Mức độ phơi trần — R = 0,005 ÷ 0,0499": "Cao",
+      "Mức độ phơi trần — R = 0,05 ÷ 0,499": "Cao",
+      "Mức độ phơi trần — R > 0,5": "Cao"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Tiêu chí mức độ phơi trần trong bảng C.7 chỉ được dựa trên đánh giá nguy cơ sét."
+  }
+}

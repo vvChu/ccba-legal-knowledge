@@ -1,0 +1,34 @@
+{
+  "table_id": "bang_19",
+  "table_number": "19",
+  "table_title": "Bảng 19 - Hệ số bổ sung điều kiện làm việc $_{c}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại móng, các đặc trưng của đất và tải trọng",
+    "Hệ số bổ sung điều kiện làm việc $_{c}$ ứng với chiều dài cọc — L ≥ 25",
+    "Hệ số bổ sung điều kiện làm việc $_{c}$ ứng với chiều dài cọc — L < 25d và tỷ số — $\\frac{H}{N}$< 0,1",
+    "Hệ số bổ sung điều kiện làm việc $_{c}$ ứng với chiều dài cọc — L < 25d và tỷ số — $\\frac{H}{N}$= 0,4",
+    "Hệ số bổ sung điều kiện làm việc $_{c}$ ứng với chiều dài cọc — L < 25d và tỷ số — $\\frac{H}{N}$= 0,6"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại móng, các đặc trưng của đất và tải trọng": "1. Móng trụ giữa thông thường khi tính\na) Các cọc đơn chịu kéo\ntrong cát và cát pha\ntrong sét và sét pha khi $I_{L}$ ≤ 0,6\nkhi $I_{L}$ > 0,6\nb) Các cọc đơn chịu nén và các cọc trong nhóm cọc chịu kéo\ntrong nền cát và cát pha\ntrong nền sét và sét pha khi $I_{L}$ ≤ 0,6\nkhi $I_{L}$ > 0,6",
+      "Hệ số bổ sung điều kiện làm việc $_{c}$ ứng với chiều dài cọc — L ≥ 25": "0,9\n1,15\n1,5\n0,9\n1,15\n1,5",
+      "Hệ số bổ sung điều kiện làm việc $_{c}$ ứng với chiều dài cọc — L < 25d và tỷ số — $\\frac{H}{N}$< 0,1": "0,9\n1,15\n1,5\n0,9\n1,15\n1,5",
+      "Hệ số bổ sung điều kiện làm việc $_{c}$ ứng với chiều dài cọc — L < 25d và tỷ số — $\\frac{H}{N}$= 0,4": "0,8\n1,05\n1,35\n0,9\n1,15\n1,5",
+      "Hệ số bổ sung điều kiện làm việc $_{c}$ ứng với chiều dài cọc — L < 25d và tỷ số — $\\frac{H}{N}$= 0,6": "0,55\n0,7\n0,9\n0,9\n1,15\n1,5"
+    },
+    {
+      "_row_id": 2,
+      "Loại móng, các đặc trưng của đất và tải trọng": "2. Móng dưới trụ neo, trụ góc chuyển tải vượt khẩu độ lớn khi tính:\na) Các cọc đơn chịu kéo\ntrong nền cát và cát pha\ntrong nền sét và sét pha\nb) Các cọc trong nhóm cọc chịu kéo\ntrong nền cát và cát pha\ntrong nền sét và sét pha\nc) Chịu nén ở mọi loại hình đất",
+      "Hệ số bổ sung điều kiện làm việc $_{c}$ ứng với chiều dài cọc — L ≥ 25": "0,8\n1,0\n0,8\n1,0\n1,0",
+      "Hệ số bổ sung điều kiện làm việc $_{c}$ ứng với chiều dài cọc — L < 25d và tỷ số — $\\frac{H}{N}$< 0,1": "0,8\n1,0\n0,8\n1,0\n1,0",
+      "Hệ số bổ sung điều kiện làm việc $_{c}$ ứng với chiều dài cọc — L < 25d và tỷ số — $\\frac{H}{N}$= 0,4": "0,7\n0,9\n0,8\n1,0\n1,0",
+      "Hệ số bổ sung điều kiện làm việc $_{c}$ ứng với chiều dài cọc — L < 25d và tỷ số — $\\frac{H}{N}$= 0,6": "0,6\n0,6\n0,8\n1,0\n1,0"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:**\n\n&nbsp;&nbsp;\\- d là đường kính cọc tròn, cạnh cọc vuông hay cạnh dài của cọc có tiết diện chữ nhật;\n\n&nbsp;&nbsp;\\- H là lực ngang tính toán; N là lực đứng tính toán.\n\n&nbsp;&nbsp;\\- Khi hạ cọc đơn nghiêng về phía tác dụng lực ngang, góc nghiêng so với phương thẳng đứng lớn hơn 10° hệ số bổ sung điều kiện làm việc phải lấy như đối với cọc đứng chịu tải trọng trong nhóm cọc (theo điểm 1b hoặc 2b)."
+  }
+}

@@ -1,0 +1,5 @@
+﻿Mác,Chất lượng,"Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16","Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40","Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 40; ≤ 63","Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 63; ≤ 80","Giới hạn chåy trên nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 80; ≤ 100","Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — ≤ 100","Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 16","Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 40","Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 80"
+S275N,"D, E",275,265,255,245,235,370÷510,24,24,23
+S355N,"D, E",355,345,335,325,315,470÷630,22,22,22
+S420N,"D, E",420,400,390,370,360,520÷680,19,19,19
+S460N,"D, E",460,440,430,410,400,540÷720,17,17,17

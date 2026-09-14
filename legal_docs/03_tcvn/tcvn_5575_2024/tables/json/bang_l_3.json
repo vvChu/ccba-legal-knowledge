@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_l_3",
+  "table_number": "L.3",
+  "table_title": "Bảng L.3 - Hệ số α",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Số chu kỳ tải trọng",
+    "Giá trị α"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Số chu kỳ tải trọng": "0,05×10$^{6}$",
+      "Giá trị α": "3,15"
+    },
+    {
+      "_row_id": 2,
+      "Số chu kỳ tải trọng": "0,2×10$^{6}$",
+      "Giá trị α": "2,25"
+    },
+    {
+      "_row_id": 3,
+      "Số chu kỳ tải trọng": "0,8×10$^{6}$",
+      "Giá trị α": "1,57"
+    },
+    {
+      "_row_id": 4,
+      "Số chu kỳ tải trọng": "2,0×10$^{6}$",
+      "Giá trị α": "1,25"
+    },
+    {
+      "_row_id": 5,
+      "Số chu kỳ tải trọng": "≥ 5,0×10$^{6}$",
+      "Giá trị α": "1,00"
+    }
+  ],
+  "footnotes": []
+}

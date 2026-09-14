@@ -2,11 +2,11 @@ version: 0.3.0
 updated_at: '2026-09-06T10:45:00Z'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 42
+  total_documents: 52
   categories:
     01_vbpl: 24
-    02_qcvn: 10
-    03_tcvn: 5
+    02_qcvn: 12
+    03_tcvn: 13
     04_appendices: 3
 documents: {}
 laws:
@@ -850,6 +850,72 @@ laws:
   cong_bao_number: Đang cập nhật
   pdf_status: pending_download
   sha256: 9f3c45d2e039d95959c61a5de490046d19f7b78e859db6a4f8f031aacb37fc49
+- id: QCVN-03-2023-BCA
+  document_number: QCVN 03:2023/BCA
+  title: QCVN 03:2023/BCA — Quy chuẩn kỹ thuật quốc gia về Phương tiện phòng cháy và chữa cháy
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Công an
+  signer: Tô Lâm
+  issued_date: '2023-10-24'
+  effective_date: '2023-12-15'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_03_2023_bca/
+  source_url: https://thuvienphapluat.vn/TCVN/Linh-vuc-khac/QCVN-03-2023-BCA-phuong-tien-phong-chay-chua-chay-920561.aspx
+  sha256: b41e51ecf92a2d2c0605eef0b740e48f11daff2550c1108a0f413e71726aa523
+  pdf_path: legal_docs/02_qcvn/qcvn_03_2023_bca/sources/qcvn_03_2023_bca.pdf
+  pdf_sha256: e1d0d1961ef9bd97ce4ded969ac84a91b24be0e73fdaf0c9da18027426a1387f
+  cong_bao_number: 56/2023/TT-BCA
+  pdf_status: verified
+  source_file: legal_docs\02_qcvn\qcvn_03_2023_bca\sources\qcvn_03_2023_bca.docx
+  source_file_size_kb: 75.8
+  source_assets:
+    docx:
+      sha256: b41e51ecf92a2d2c0605eef0b740e48f11daff2550c1108a0f413e71726aa523
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_03_2023_bca/qcvn_03_2023_bca.docx
+      status: verified
+    pdf:
+      sha256: e1d0d1961ef9bd97ce4ded969ac84a91b24be0e73fdaf0c9da18027426a1387f
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_03_2023_bca/qcvn_03_2023_bca.pdf
+      status: verified
+  relations:
+    replaces: QCVN-03-2021-BCA
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-09-14T15:12:00.000000+00:00'
+- id: QCVN-07-2023-BXD
+  document_number: QCVN 07:2023/BXD
+  title: QCVN 07:2023/BXD — Quy chuẩn kỹ thuật quốc gia về Hệ thống công trình hạ tầng kỹ thuật
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Xây dựng
+  signer: Nguyễn Tường Văn
+  issued_date: '2023-12-29'
+  effective_date: '2024-07-01'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_07_2023_bxd/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-15-2023-TT-BXD-Quy-chuan-quoc-gia-QCVN-07-2023-BXD-He-thong-cong-trinh-ha-tang-ky-thuat-595312.aspx
+  sha256: 2dd8088c87f26cc65ec1cca4fe9b9f92d52ff47bd7b6d742ce994de2a66797fb
+  pdf_path: legal_docs/02_qcvn/qcvn_07_2023_bxd/sources/qcvn_07_2023_bxd.pdf
+  pdf_sha256: bf4612e32fba3a63314191181060e1fc1a986877a909819642cf20a6450fe2e3
+  cong_bao_number: 15/2023/TT-BXD
+  pdf_status: verified
+  source_file: legal_docs/02_qcvn/qcvn_07_2023_bxd/sources/qcvn_07_2023_bxd.docx
+  source_file_size_kb: 349.6
+  source_assets:
+    docx:
+      sha256: 2dd8088c87f26cc65ec1cca4fe9b9f92d52ff47bd7b6d742ce994de2a66797fb
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_07_2023_bxd/qcvn_07_2023_bxd.docx
+      status: verified
+    pdf:
+      sha256: bf4612e32fba3a63314191181060e1fc1a986877a909819642cf20a6450fe2e3
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_07_2023_bxd/qcvn_07_2023_bxd.pdf
+      status: verified
+  relations:
+    replaces: QCVN-07-2016-BXD
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-09-14T15:00:00.000000+00:00'
 - id: QCVN-10-2024-BXD
   document_number: QCVN 10:2024/BXD
   title: QCVN 10:2024/BXD — Quy chuẩn kỹ thuật quốc gia về Xây dựng công trình đảm
@@ -952,7 +1018,8 @@ laws:
   extracted_at: '2026-09-06T10:15:00.000000+00:00'
 - id: QCVN-12-2014-BXD
   document_number: QCVN 12:2014/BXD
-  title: QCVN 12:2014/BXD — Quy chuẩn kỹ thuật quốc gia về Hệ thống điện của nhà ở và nhà công cộng
+  title: QCVN 12:2014/BXD — Quy chuẩn kỹ thuật quốc gia về Hệ thống điện của nhà ở
+    và nhà công cộng
   type: Quy chuẩn kỹ thuật quốc gia
   issued_by: Bộ Xây dựng
   issued_date: '2014-12-29'
@@ -1090,3 +1157,210 @@ standards:
       sha256: f12480db0a68005fa4f48a20ac328727a369ef2c1b60e5b3c9ac78c9da41279a
       vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5574_2018/tcvn_5574_2018.pdf
       status: verified
+- id: TCVN-5687-2024
+  document_number: TCVN 5687:2024
+  title: TCVN 5687:2024 Thông gió và điều hòa không khí - Yêu cầu thiết kế
+  type: Tiêu chuẩn quốc gia
+  issued_by: Bộ Khoa học và Công nghệ
+  issued_date: '2024-04-18'
+  effective_date: '2024-04-18'
+  status: active
+  bundle_path: legal_docs/03_tcvn/tcvn_5687_2024/
+  pdf_path: legal_docs/03_tcvn/tcvn_5687_2024/sources/tcvn_5687_2024.pdf
+  pdf_sha256: ec8a1fa7e5a02a286c9908c5a0d4163bc0f9e9d578b9499266dc2da9a5dc2723
+  pdf_status: verified
+  cong_bao_number: TCVN
+  sha256: 4c88fc26a87dd4f58d009d9960be404f0f6491d0126c8594f09d0a50bc25a9cd
+  source_file: legal_docs\03_tcvn\tcvn_5687_2024\sources\tcvn_5687_2024.docx
+  source_file_size_kb: 355.4
+  source_assets:
+    pdf:
+      sha256: ec8a1fa7e5a02a286c9908c5a0d4163bc0f9e9d578b9499266dc2da9a5dc2723
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5687_2024/tcvn_5687_2024.pdf
+      status: verified
+    docx:
+      sha256: 4c88fc26a87dd4f58d009d9960be404f0f6491d0126c8594f09d0a50bc25a9cd
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5687_2024/tcvn_5687_2024.docx
+      status: verified
+- id: TCVN-9385-2012
+  document_number: TCVN 9385:2012
+  title: TCVN 9385:2012 Chống sét cho công trình xây dựng - Hướng dẫn thiết kế, kiểm
+    tra và bảo trì hệ thống
+  type: Tiêu chuẩn quốc gia
+  issued_by: Bộ Khoa học và Công nghệ
+  issued_date: '2012-12-28'
+  effective_date: '2012-12-28'
+  status: active
+  bundle_path: legal_docs/03_tcvn/tcvn_9385_2012/
+  pdf_path: legal_docs/03_tcvn/tcvn_9385_2012/sources/tcvn_9385_2012.pdf
+  pdf_sha256: c70245de52d83f842f5dbb424810be53edf3793580ef1cbad8c6ce2027751145
+  pdf_status: verified
+  cong_bao_number: TCVN
+  sha256: 9eee614cbf5ef79b034e78ad1558ac25dc30bc47a4c3ffae190ce423479d9d9b
+  source_file: legal_docs\03_tcvn\tcvn_9385_2012\sources\tcvn_9385_2012.docx
+  source_file_size_kb: 6505.2
+  source_assets:
+    pdf:
+      sha256: c70245de52d83f842f5dbb424810be53edf3793580ef1cbad8c6ce2027751145
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9385_2012/tcvn_9385_2012.pdf
+      status: verified
+    docx:
+      sha256: 9eee614cbf5ef79b034e78ad1558ac25dc30bc47a4c3ffae190ce423479d9d9b
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9385_2012/tcvn_9385_2012.docx
+      status: verified
+- id: TCVN-5575-2024
+  document_number: TCVN 5575:2024
+  title: TCVN 5575:2024 Thiết kế kết cấu thép
+  type: Tiêu chuẩn quốc gia
+  issued_by: Bộ Khoa học và Công nghệ
+  issued_date: '2024-12-24'
+  effective_date: '2024-12-24'
+  status: active
+  bundle_path: legal_docs/03_tcvn/tcvn_5575_2024/
+  pdf_path: legal_docs/03_tcvn/tcvn_5575_2024/sources/tcvn_5575_2024.pdf
+  pdf_sha256: d3e647a3e9282c1761d6bcd407bedf2dbe7096760ef5473b4c8ab15ed72cb3ae
+  pdf_status: verified
+  cong_bao_number: TCVN
+  sha256: 283d169ee622a0d50143df62224c9cd3235511b2b4c2ef5f9b2d764c902594aa
+  source_file: legal_docs\03_tcvn\tcvn_5575_2024\sources\tcvn_5575_2024.docx
+  source_file_size_kb: 13936.1
+  source_assets:
+    pdf:
+      sha256: d3e647a3e9282c1761d6bcd407bedf2dbe7096760ef5473b4c8ab15ed72cb3ae
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5575_2024/tcvn_5575_2024.pdf
+      status: verified
+    docx:
+      sha256: 283d169ee622a0d50143df62224c9cd3235511b2b4c2ef5f9b2d764c902594aa
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5575_2024/tcvn_5575_2024.docx
+      status: verified
+- id: TCVN-9386-2025
+  document_number: TCVN 9386:2025
+  title: 'TCVN 9386:2025 Thiết kế kết cấu chịu động đất - Phần 1: Quy định chung, tác động động đất và quy định cho nhà'
+  type: Tiêu chuẩn quốc gia
+  issued_by: Bộ Khoa học và Công nghệ
+  issued_date: '2025-01-20'
+  effective_date: '2025-01-20'
+  status: active
+  bundle_path: legal_docs/03_tcvn/tcvn_9386_2025/
+  pdf_path: legal_docs/03_tcvn/tcvn_9386_2025/sources/tcvn_9386_2025.pdf
+  pdf_sha256: 726a43400d4ccbbffae2d163df58843eec9d06a222f835c4439bb40f36e3c689
+  pdf_status: verified
+  cong_bao_number: TCVN
+  sha256: 9018c5d7864c7c101b61ed087499f2ee4e85e624859af5b65620d8ec55538018
+  source_file: legal_docs\03_tcvn\tcvn_9386_2025\sources\tcvn_9386_2025.docx
+  source_file_size_kb: 8583.7
+  source_assets:
+    pdf:
+      sha256: 726a43400d4ccbbffae2d163df58843eec9d06a222f835c4439bb40f36e3c689
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9386_2025/tcvn_9386_2025.pdf
+      status: verified
+    docx:
+      sha256: 9018c5d7864c7c101b61ed087499f2ee4e85e624859af5b65620d8ec55538018
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9386_2025/tcvn_9386_2025.docx
+      status: verified
+- id: TCVN-4513-1988
+  document_number: TCVN 4513:1988
+  title: 'TCVN 4513:1988 Cấp nước bên trong - Tiêu chuẩn thiết kế'
+  type: Tiêu chuẩn quốc gia
+  issued_by: Bộ Khoa học và Công nghệ
+  issued_date: '1988-12-28'
+  effective_date: '1989-07-01'
+  status: active
+  bundle_path: legal_docs/03_tcvn/tcvn_4513_1988/
+  pdf_path: legal_docs/03_tcvn/tcvn_4513_1988/sources/tcvn_4513_1988.pdf
+  pdf_sha256: 3e14f31c27ca71cd5caa6326ec22b6f90f467c751ccc8a7108885db2811f7f4c
+  pdf_status: verified
+  cong_bao_number: TCVN
+  sha256: a63eaf24b0efc957d03faf532bdfa8ad18dd130f368b5aaf88394349a53c9ca5
+  source_file: legal_docs\03_tcvn\tcvn_4513_1988\sources\tcvn_4513_1988.docx
+  source_file_size_kb: 82.0
+  source_assets:
+    pdf:
+      sha256: 3e14f31c27ca71cd5caa6326ec22b6f90f467c751ccc8a7108885db2811f7f4c
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_4513_1988/tcvn_4513_1988.pdf
+      status: verified
+    docx:
+      sha256: a63eaf24b0efc957d03faf532bdfa8ad18dd130f368b5aaf88394349a53c9ca5
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_4513_1988/tcvn_4513_1988.docx
+      status: verified
+- id: TCVN-4474-1987
+  document_number: TCVN 4474:1987
+  title: 'TCVN 4474:1987 Thoát nước bên trong - Tiêu chuẩn thiết kế'
+  type: Tiêu chuẩn quốc gia
+  issued_by: Bộ Xây dựng
+  issued_date: '1987-12-28'
+  effective_date: '1988-07-01'
+  status: active
+  bundle_path: legal_docs/03_tcvn/tcvn_4474_1987/
+  pdf_path: legal_docs/03_tcvn/tcvn_4474_1987/sources/tcvn_4474_1987.pdf
+  pdf_sha256: 784ffaa13b597ba0a9d3c2f086ed2f3b511edbdfc61e81911a952e48db60cc0c
+  pdf_status: verified
+  cong_bao_number: TCVN
+  sha256: e76b6def0e2db544525a6151170b11926006ba4998f0eeb654dbc2bc63e2bc13
+  source_file: legal_docs\03_tcvn\tcvn_4474_1987\sources\tcvn_4474_1987.docx
+  source_file_size_kb: 61.4
+  source_assets:
+    pdf:
+      sha256: 784ffaa13b597ba0a9d3c2f086ed2f3b511edbdfc61e81911a952e48db60cc0c
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_4474_1987/tcvn_4474_1987.pdf
+      status: verified
+    docx:
+      sha256: e76b6def0e2db544525a6151170b11926006ba4998f0eeb654dbc2bc63e2bc13
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_4474_1987/tcvn_4474_1987.docx
+      status: verified
+- id: TCVN-10304-2014
+  document_number: TCVN 10304:2014
+  title: 'TCVN 10304:2014 Móng cọc - Tiêu chuẩn thiết kế'
+  type: Tiêu chuẩn quốc gia
+  issued_by: Bộ Khoa học và Công nghệ
+  issued_date: '2014-12-29'
+  effective_date: '2014-12-29'
+  status: active
+  bundle_path: legal_docs/03_tcvn/tcvn_10304_2014/
+  pdf_path: legal_docs/03_tcvn/tcvn_10304_2014/sources/tcvn_10304_2014.pdf
+  pdf_sha256: 6aa781e27949748eb06ea62962c5bd4c7f3f8e8e73d35dda02c5457e5b21c31e
+  pdf_status: verified
+  cong_bao_number: TCVN
+  sha256: e93bbb4b82732aefcc1ee5b6f7cfca56401486da440daa408b04595613820a75
+  source_file: legal_docs\03_tcvn\tcvn_10304_2014\sources\tcvn_10304_2014.docx
+  source_file_size_kb: 310.9
+  source_assets:
+    pdf:
+      sha256: 6aa781e27949748eb06ea62962c5bd4c7f3f8e8e73d35dda02c5457e5b21c31e
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_10304_2014/tcvn_10304_2014.pdf
+      status: verified
+    docx:
+      sha256: e93bbb4b82732aefcc1ee5b6f7cfca56401486da440daa408b04595613820a75
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_10304_2014/tcvn_10304_2014.docx
+      status: verified
+- id: TCVN-9362-2012
+  document_number: TCVN 9362:2012
+  title: 'TCVN 9362:2012 Tiêu chuẩn thiết kế nền nhà và công trình'
+  type: Tiêu chuẩn quốc gia
+  issued_by: Bộ Khoa học và Công nghệ
+  issued_date: '2012-12-28'
+  effective_date: '2012-12-28'
+  status: active
+  bundle_path: legal_docs/03_tcvn/tcvn_9362_2012/
+  pdf_path: legal_docs/03_tcvn/tcvn_9362_2012/sources/tcvn_9362_2012.pdf
+  pdf_sha256: bcb96afacabb51b0b17d3e9033d94219491ae9a9ef5efb8a643dfbd0491971df
+  pdf_status: verified
+  cong_bao_number: TCVN
+  sha256: 177dfb1e776428514f12d8d0d0cf454ed39d7c576b50d9dbffd0b0e52f9cf983
+  source_file: legal_docs\03_tcvn\tcvn_9362_2012\sources\tcvn_9362_2012.docx
+  source_file_size_kb: 825.9
+  source_assets:
+    pdf:
+      sha256: bcb96afacabb51b0b17d3e9033d94219491ae9a9ef5efb8a643dfbd0491971df
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9362_2012/tcvn_9362_2012.pdf
+      status: verified
+    docx:
+      sha256: 177dfb1e776428514f12d8d0d0cf454ed39d7c576b50d9dbffd0b0e52f9cf983
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_9362_2012/tcvn_9362_2012.docx
+      status: verified
+
+
+
+
+
+

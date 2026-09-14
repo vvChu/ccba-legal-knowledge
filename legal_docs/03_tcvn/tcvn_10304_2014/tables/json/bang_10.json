@@ -1,0 +1,18 @@
+{
+  "table_id": "bang_10",
+  "table_number": "10",
+  "table_title": "Bảng 10 - Hệ số h của vật liệu làm cọc",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Trường hợp tính toán",
+    "Hệ sốkN/$m^{2}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Trường hợp tính toán": "Thử bằng đóng và vỗ cọc bê tông cốt thép có đệm lót đầu cọc (kể cả trường hợp xác định độ chối)",
+      "Hệ sốkN/$m^{2}$": "1500"
+    }
+  ],
+  "footnotes": []
+}

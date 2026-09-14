@@ -1,0 +1,72 @@
+{
+  "table_id": "bang_3_1",
+  "table_number": "3.1",
+  "table_title": "Bảng 3.1 - Các loại nền đất",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại",
+    "Mô tả",
+    "Các tham số — $v_{s,30}$ (m/s)",
+    "Các tham số — $N_{SPT}$ (nhát/30 cm)",
+    "Các tham số — $C_{u}$ (kPa)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại": "A",
+      "Mô tả": "Đá hoặc các kiến tạo địa chất khác tựa đá, kể cả đất yếu hơn trên bề mặt với chiều dày lớn nhất là 5 m.",
+      "Các tham số — $v_{s,30}$ (m/s)": ">800",
+      "Các tham số — $N_{SPT}$ (nhát/30 cm)": "-",
+      "Các tham số — $C_{u}$ (kPa)": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại": "B",
+      "Mô tả": "Đất cát, cuội sỏi rất chặt hoặc đất sét rất cứng có chiều dày ít nhất hàng chục mét, tính chất cơ học tăng dần theo độ sâu.",
+      "Các tham số — $v_{s,30}$ (m/s)": "360- 800",
+      "Các tham số — $N_{SPT}$ (nhát/30 cm)": ">50",
+      "Các tham số — $C_{u}$ (kPa)": ">250"
+    },
+    {
+      "_row_id": 3,
+      "Loại": "C",
+      "Mô tả": "Đất cát, cuội sỏi chặt, chặt vừa hoặc đất sét cứng có chiều dày lớn từ hàng chục tới hàng trăm mét.",
+      "Các tham số — $v_{s,30}$ (m/s)": "180- 360",
+      "Các tham số — $N_{SPT}$ (nhát/30 cm)": "15-50",
+      "Các tham số — $C_{u}$ (kPa)": "70- 250"
+    },
+    {
+      "_row_id": 4,
+      "Loại": "D",
+      "Mô tả": "Đất rời trạng thái từ xốp đến chặt vừa (có hoặc không xen kẹp vài lớp đất dính) hoặc có đa phần đất dính trạng thái từ mềm đến cứng vừa.",
+      "Các tham số — $v_{s,30}$ (m/s)": "<180",
+      "Các tham số — $N_{SPT}$ (nhát/30 cm)": "< 15",
+      "Các tham số — $C_{u}$ (kPa)": "<70"
+    },
+    {
+      "_row_id": 5,
+      "Loại": "E",
+      "Mô tả": "Địa tầng bao gồm lớp đất trầm tích sông ở trên mặt với chiều dày trong khoảng 5 m đến 20 m có giá trị tốc độ truyền sóng như loại C, D và bên dưới là các đất cứng hơn với tốc độ truyền sóng $V_{s}$ lớn hơn 800 m/s.",
+      "Các tham số — $v_{s,30}$ (m/s)": "",
+      "Các tham số — $N_{SPT}$ (nhát/30 cm)": "",
+      "Các tham số — $C_{u}$ (kPa)": ""
+    },
+    {
+      "_row_id": 6,
+      "Loại": "S1",
+      "Mô tả": "Địa tầng bao gồm hoặc chứa một lớp đất sét mềm/bùn (bụi) tính dẻo cao (Pl lớn hơn 40) và độ ẩm cao, có chiều dày ít nhất là 10 m.",
+      "Các tham số — $v_{s,30}$ (m/s)": "< 100 (tham khảo)",
+      "Các tham số — $N_{SPT}$ (nhát/30 cm)": "-",
+      "Các tham số — $C_{u}$ (kPa)": "10-20"
+    },
+    {
+      "_row_id": 7,
+      "Loại": "S2",
+      "Mô tả": "Địa tầng bao gồm các đất dễ hóa lỏng, đất sét nhạy hoặc các đất khác với các đất trong các loại nền A-E hoặc S1.",
+      "Các tham số — $v_{s,30}$ (m/s)": "",
+      "Các tham số — $N_{SPT}$ (nhát/30 cm)": "",
+      "Các tham số — $C_{u}$ (kPa)": ""
+    }
+  ],
+  "footnotes": []
+}

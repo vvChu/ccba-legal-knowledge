@@ -1,0 +1,71 @@
+{
+  "table_id": "bang_c_6",
+  "table_number": "C.6",
+  "table_title": "Bảng C.6 - Hệ số $m_{3}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "(Z+h)/B",
+    "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 1",
+    "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 2",
+    "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 3",
+    "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 4",
+    "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 5"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "(Z+h)/B": "0,5",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 1": "0",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 2": "0",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 3": "0",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 4": "0",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 5": "0"
+    },
+    {
+      "_row_id": 2,
+      "(Z+h)/B": "1",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 1": "0,58",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 2": "0,50",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 3": "0,43",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 4": "0,36",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 5": "0,29"
+    },
+    {
+      "_row_id": 3,
+      "(Z+h)/B": "2",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 1": "0,81",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 2": "0,70",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 3": "0,61",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 4": "0,50",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 5": "0,40"
+    },
+    {
+      "_row_id": 4,
+      "(Z+h)/B": "3",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 1": "0,94",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 2": "0,82",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 3": "0,71",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 4": "0,59",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 5": "0,47"
+    },
+    {
+      "_row_id": 5,
+      "(Z+h)/B": "4",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 1": "1,02",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 2": "0,89",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 3": "0,77",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 4": "0,64",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 5": "0,53"
+    },
+    {
+      "_row_id": 6,
+      "(Z+h)/B": "5",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 1": "1,07",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 2": "0,94",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 3": "0,82",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 4": "0,69",
+      "Hệ số $m_{n}$ ứng với tỷ số chiều dài và chiều rộng của diện tích thấm ướt L/B — 5": "0,57"
+    }
+  ],
+  "footnotes": []
+}

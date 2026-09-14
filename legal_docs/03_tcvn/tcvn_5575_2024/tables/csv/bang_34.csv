@@ -1,0 +1,9 @@
+﻿Cấu kiện kết cấu,Giá trị $\lambda_{u}$ khi kết cấu chịu tải trọng — động đặt trực tiếp lên kết cấu,Giá trị $\lambda_{u}$ khi kết cấu chịu tải trọng — tĩnh,Giá trị $\lambda_{u}$ khi kết cấu chịu tải trọng — cầu trục (xem CHÚ THÍCH 4) và toa tàu
+1. Thanh cánh và thanh xiên gối tựa của giản phẳng (kể cả giàn hãm) và của kết cấu lưới thanh không gian,250,400,250
+2. Các thanh của giàn và của kết cấu lưới thanh không gian (trừ các thanh nêu ở điểm 1),350,400,300
+3. Cánh dưới của dầm (hoặc giàn) đỡ cầu trục,-,-,150
+4. Các thanh của hệ giằng đứng giữa các cột (ở dưới dầm đỡ cầu trục),300,300,200
+5. Các thanh giằng khác,400,400,300
+6. Thanh cánh và thanh xiên gối tựa của cột và xà ngang; thanh neo xà ngang của cột đường dây tải điện trên không,250,-,-
+7. Các thanh của cột đường dây tải điện và cột thiết bị phân phối điện ngoài trời (trừ các thanh ở các điểm 6 và 8),350,-,-
+"8. Các thanh tiết diện chữ T hoặc chữ thập của kết cấu không gian rỗng (còn trong các thanh neo xà ngang của cột đường dây tải điện trên không - làm bằng cả thép góc đơn) chịu tác dụng của tải trọng gió, khi kiểm tra độ mảnh trong mặt phẳng thẳng đứng",150,-,-

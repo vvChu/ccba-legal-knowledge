@@ -1,0 +1,6 @@
+﻿Loại tiết diện,Sơ đồ tiết diện và độ lệch tâm,Giá trị các hệ số — α khi — $m_{x}$ ≤ 1,Giá trị các hệ số — α khi — 1 < $m_{x}$ ≤ 5,"Giá trị các hệ số — β khi — $\overline{\lambda}_y$ ≤ 3,14","Giá trị các hệ số — β khi — $\overline{\lambda}_y$ > 3,14"
+1,$e$,"0,7","0,65 + 0,05$m_{x}$",1,$\sqrt{\varphi_c / \varphi_y}$
+2,"$Xin lỗi, hình ảnh bạn cung cấp chỉ chứa sơ đồ kỹ thuật (hình vẽ mặt cắt chữ I) chứ không chứa công thức toán học nào. Do đó, tôi không thể chuyển đổi thành mã LaTeX theo yêu cầu. Nếu bạn có hình ảnh chứa công thức, vui lòng cung cấp lại để tôi hỗ trợ chính xác 100%.$","0,7","0,65 + 0,05$m_{x}$",1,$\sqrt{\varphi_c / \varphi_y}$
+3,"$x, y, e$","0,7","0,65 + 0,05$m_{x}$",1,$\sqrt{\varphi_c / \varphi_y}$
+4,"$\text{This image is a diagram, not a mathematical formula. It cannot be converted into a LaTeX formula block.}$",$1 - 0.3 \frac{I_2}{I_1}$,"$1-\left(0,35-0,05m_x\right)\frac{I_2}{I_1}$",1,"$1-\left(1-\sqrt{\frac{\varphi_c}{\varphi_y}}\right)\left(2\frac{I_2}{I_1} - 1\right); \\<br>\beta = 1 \text{ khi } \frac{I_2}{I_1} < 0,5$"
+"**Các ký hiệu trong Bảng 22:<br>$I_{1}$ và $I_{2}$ là các mô men quán tính của cánh lớn và cánh nhỏ tương ứng đối với trục đối xứng y-y của tiết diện;<br>$\varphi_{c}$ là giá trị của $\varphi_{y}$ khi $\overline{\lambda_y}$ = 3,14 .**",,,,,

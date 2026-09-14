@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_21",
+  "table_number": "21",
+  "table_title": "Bảng 21 - Mô men uốn M",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Độ lệch tâm tương đối $m_{max}$",
+    "Giá trị M khi độ mảnh quy ước của cấu kiện — $\\bar{\\lambda}$ < 4",
+    "Giá trị M khi độ mảnh quy ước của cấu kiện — $\\bar{\\lambda}$> 4"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Độ lệch tâm tương đối $m_{max}$": "$m_{max}$ ≤ 3",
+      "Giá trị M khi độ mảnh quy ước của cấu kiện — $\\bar{\\lambda}$ < 4": "$M = M_{\\text{max}} - 0,25\\bar{\\lambda}(M_{\\text{max}} - M_1)$",
+      "Giá trị M khi độ mảnh quy ước của cấu kiện — $\\bar{\\lambda}$> 4": "M = $M_{1}$"
+    },
+    {
+      "_row_id": 2,
+      "Độ lệch tâm tương đối $m_{max}$": "3 < $m_{max}$ ≤ 20",
+      "Giá trị M khi độ mảnh quy ước của cấu kiện — $\\bar{\\lambda}$ < 4": "$M = M_2 + \\frac{m_{\\text{max}} - 3}{17} (M_{\\text{max}} - M_2)$",
+      "Giá trị M khi độ mảnh quy ước của cấu kiện — $\\bar{\\lambda}$> 4": "$M = M_1 + \\frac{m_{\\max} - 3}{17} (M_{\\max} - M_1)$"
+    },
+    {
+      "_row_id": 3,
+      "Độ lệch tâm tương đối $m_{max}$": "**Các ký hiệu trong Bảng 21:\n$M_{max}$ là mô men uốn lớn nhất trong phạm vi chiều dài cấu kiện;\n$M_{1}$ là mô men uốn lớn nhất trong khoảng 1/3 ở giữa chiều dài cấu kiện, nhưng lấy không nhỏ hơn 0,5$M_{max}$;\n$M_{2}$ là mô men uốn lớn nhất lấy bằng M ứng với $m_{max}$ ≤ 3 và $\\bar{\\lambda}$ < 4, nhưng lấy không nhỏ hơn 0,5$M_{max}$.**",
+      "Giá trị M khi độ mảnh quy ước của cấu kiện — $\\bar{\\lambda}$ < 4": "",
+      "Giá trị M khi độ mảnh quy ước của cấu kiện — $\\bar{\\lambda}$> 4": ""
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,5 @@
+﻿Liên kết đầu trên của cột,Giá trị các hệ số — $\mu_{m1}$ — với sơ đồ tải trọng — theo Hình G.1b,Giá trị các hệ số — $\mu_{m2}$ — với sơ đồ tải trọng — theo Hình G.1c,Giá trị các hệ số — $\mu_{m3}$ — với sơ đồ tải trọng — theo Hình G.1d
+1. Tự do,"2,0","2,0",$\mu_{1}$<br>($\mu_{1}$ theo bảng G.1 với $\alpha_1 = \frac{L_3}{L_1 + L_2} \sqrt{\frac{I_{\text{m1}}}{I_3}}$)
+"2. Ngàm trượt (chỉ chặn xoay, cho chuyển vị)",$\mu_{1}$<br>($\mu_{1}$  theo Bảng G.2 với $\alpha_{1}$ = 0 ),$\mu_{1}$<br>($\mu_{1}$  theo Bảng G.2 với $\alpha_{1}$ = 0 ),$\mu_{1}$<br>($\mu_{1}$ theo bảng G.2 với $\alpha_1 = \frac{L_3}{L_1 + L_2} \sqrt{\frac{I_{\text{m1}}}{I_3}}$)
+"3. Khớp cố định (cho xoay, chặn chuyển vị)",$\mu_{11}$<br>($\mu_{11}$ theo Bảng G.3),$\mu_{11}$<br>($\mu_{11}$ theo Bảng G.3),$\mu_{12}$<br>($\mu_{12}$ theo Bảng G.3)
+"4. Ngàm (chặn xoay, chặn chuyển vị)",$\mu_{11}$<br>($\mu_{11}$ theo Bảng G.4),$\mu_{11}$<br>($\mu_{11}$ theo Bảng G.4),$\mu_{12}$<br>($\mu_{12}$ theo Bảng G.4)

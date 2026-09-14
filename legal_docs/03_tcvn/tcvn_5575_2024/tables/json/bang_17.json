@@ -1,0 +1,34 @@
+{
+  "table_id": "bang_17",
+  "table_number": "17",
+  "table_title": "Bảng 17 - Hệ số $c_{cr}$ cho dầm cấp 1 có tiết diện đối xứng khi $\\sigma_{loc}$ ≠ 0",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "a/$h_{ef}$ hoặc a/(2$h_{c}$)",
+    "≤ 0,8",
+    "0,9",
+    "1,0",
+    "1,2",
+    "1,4",
+    "1,6",
+    "1,8",
+    "≥ 2,0"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "a/$h_{ef}$ hoặc a/(2$h_{c}$)": "$c_{cr}$",
+      "≤ 0,8": "Theo Bảng 13",
+      "0,9": "37,0",
+      "1,0": "39,2",
+      "1,2": "45,2",
+      "1,4": "52,8",
+      "1,6": "62,0",
+      "1,8": "72,6",
+      "≥ 2,0": "84,7"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Với các giá trị trung gian của a/$h_{ef}$ (hoặc a/(2$h_{c}$)) thì giá trị $c_{cr}$ được xác định bằng nội suy tuyến tính."
+  }
+}

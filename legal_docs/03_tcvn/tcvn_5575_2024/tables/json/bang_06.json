@@ -1,0 +1,68 @@
+{
+  "table_id": "bang_06",
+  "table_number": "6",
+  "table_title": "Bảng 6 - Các hệ số $\\alpha_{1}$, $\\alpha_{2}$ và β",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Hệ số",
+    "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 1,35d 1)",
+    "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 1,5d",
+    "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 2d",
+    "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 2",
+    "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 3",
+    "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 4"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Hệ số": "$\\alpha_{1}$",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 1,35d 1)": "1,70",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 1,5d": "1,70",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 2d": "1,70",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 2": "1,77",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 3": "1,45",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 4": "1,17"
+    },
+    {
+      "_row_id": 2,
+      "Hệ số": "$\\alpha_{2}$",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 1,35d 1)": "0,05",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 1,5d": "0,05",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 2d": "0,05",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 2": "0,19",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 3": "0,36",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 4": "0,47"
+    },
+    {
+      "_row_id": 3,
+      "Hệ số": "β",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 1,35d 1)": "0,65",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 1,5d": "0,85",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 2d": "1,00",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 2": "1,00",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 3": "1,00",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 4": "1,00"
+    },
+    {
+      "_row_id": 4,
+      "Hệ số": "**1) Chỉ áp dụng đối với các thanh bụng (thanh xiên và thanh ngang), trừ các thanh thường xuyên chịu kéo, có chiều dày cánh đến 6 mm.**",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 1,35d 1)": "",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 1,5d": "",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 2d": "",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 2": "",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 3": "",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 4": ""
+    },
+    {
+      "_row_id": 5,
+      "Hệ số": "**Các ký hiệu trong Bảng 6:\na là khoảng cách dọc theo lực tác dụng tính từ mép cấu kiện đến tâm lỗ bu lông gần nhất;\ns là khoảng cách dọc theo lực tác dụng giữa tâm các lỗ bu lông.**",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 1,35d 1)": "",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 1,5d": "",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi dùng một bu lông và khoảng cách a bằng — 2d": "",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 2": "",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 3": "",
+      "Giá trị $\\alpha_{1}$, $\\alpha_{2}$, β — khi a ≥ 1,5d và s ≥ 2d với số bu lông trong một hàng bằng — 4": ""
+    }
+  ],
+  "footnotes": []
+}

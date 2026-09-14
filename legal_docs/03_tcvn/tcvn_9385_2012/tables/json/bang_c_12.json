@@ -1,0 +1,34 @@
+{
+  "table_id": "bang_c_12",
+  "table_number": "C.12",
+  "table_title": "Bảng C.12 - Định nghĩa thông số xoay chiều 1,2/50 s",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Định nghĩa",
+    "Theo BS 923-2 — Thời gian trước s",
+    "Theo BS 923-2 — Thời gian của giá trị bán phần s",
+    "Theo BS 5698-1 — Thời gian tăng từ 10 % lên 90 % s",
+    "Theo BS 5698-1 — Khoảng thời gian 50 % đến 50 % s"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Định nghĩa": "Điện áp mạch hở",
+      "Theo BS 923-2 — Thời gian trước s": "12",
+      "Theo BS 923-2 — Thời gian của giá trị bán phần s": "50",
+      "Theo BS 5698-1 — Thời gian tăng từ 10 % lên 90 % s": "1",
+      "Theo BS 5698-1 — Khoảng thời gian 50 % đến 50 % s": "50"
+    },
+    {
+      "_row_id": 2,
+      "Định nghĩa": "Dòng ngắn mạch",
+      "Theo BS 923-2 — Thời gian trước s": "8",
+      "Theo BS 923-2 — Thời gian của giá trị bán phần s": "20",
+      "Theo BS 5698-1 — Thời gian tăng từ 10 % lên 90 % s": "6,4",
+      "Theo BS 5698-1 — Khoảng thời gian 50 % đến 50 % s": "16"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Các dạng sóng 1,2/50 s và 8/20 s được định nghĩa trong BS 923-2 và minh họa ở Hình C.19 và C.20. Nhiều khuyến cáo gần đây lại dựa trên định nghĩa về dạng sóng theo BS 5698-1 như thể hiện trên Bảng C.12. Cả hai định nghĩa trên đều áp dụng được đối với tiêu chuẩn này và đều tham chiếu đến máy phát sóng đơn."
+  }
+}

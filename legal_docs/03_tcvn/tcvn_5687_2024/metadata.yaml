@@ -1,0 +1,30 @@
+id: tcvn_5687_2024
+document_number: TCVN 5687:2024
+title: TCVN 5687:2024 Thông gió và điều hòa không khí - Yêu cầu thiết kế
+type: Tiêu chuẩn quốc gia
+issued_by: Bộ Khoa học và Công nghệ
+signer: Tổng cục Tiêu chuẩn Đo lường Chất lượng
+issued_date: '2024-04-18'
+effective_date: '2024-04-18'
+status: active
+pdf_path: legal_docs/03_tcvn/tcvn_5687_2024/sources/tcvn_5687_2024.pdf
+pdf_sha256: ec8a1fa7e5a02a286c9908c5a0d4163bc0f9e9d578b9499266dc2da9a5dc2723
+pdf_status: verified
+cong_bao_number: TCVN
+legal_basis: []
+replaces:
+- TCVN 5687:2010
+bundle_path: legal_docs/03_tcvn/tcvn_5687_2024/
+source_assets:
+  pdf:
+    sha256: ec8a1fa7e5a02a286c9908c5a0d4163bc0f9e9d578b9499266dc2da9a5dc2723
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5687_2024/tcvn_5687_2024.pdf
+    status: verified
+  docx:
+    sha256: 4c88fc26a87dd4f58d009d9960be404f0f6491d0126c8594f09d0a50bc25a9cd
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5687_2024/tcvn_5687_2024.docx
+    status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-14T12:40:35.308851+00:00'

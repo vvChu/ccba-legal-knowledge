@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_5_1",
+  "table_number": "5.1",
+  "table_title": "Bảng 5.1 - Giá trị cơ bản của hệ số ứng xử, $q_{0}$, cho hệ có sự đều đặn theo mặt đứng",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại kết cấu",
+    "Cấp độ dẻo trung bình",
+    "Cấp độ dẻo cao"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại kết cấu": "Hệ khung, hệ hỗn hợp, hệ tường kép",
+      "Cấp độ dẻo trung bình": "3,0 $\\alpha_{u}$/$\\alpha_{1}$",
+      "Cấp độ dẻo cao": "4,5 $\\alpha_{u}$/$\\alpha_{1}$"
+    },
+    {
+      "_row_id": 2,
+      "Loại kết cấu": "Hệ không thuộc hệ tường kép",
+      "Cấp độ dẻo trung bình": "3,0",
+      "Cấp độ dẻo cao": "4,0 $\\alpha_{u}$/$\\alpha_{1}$"
+    },
+    {
+      "_row_id": 3,
+      "Loại kết cấu": "Hệ dễ xoắn",
+      "Cấp độ dẻo trung bình": "2,0",
+      "Cấp độ dẻo cao": "3,0"
+    },
+    {
+      "_row_id": 4,
+      "Loại kết cấu": "Hệ con lắc ngược",
+      "Cấp độ dẻo trung bình": "1,5",
+      "Cấp độ dẻo cao": "2,0"
+    }
+  ],
+  "footnotes": []
+}

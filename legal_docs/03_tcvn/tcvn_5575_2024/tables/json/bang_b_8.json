@@ -1,0 +1,80 @@
+{
+  "table_id": "bang_b_8",
+  "table_number": "B.8",
+  "table_title": "Bảng B.8 - Tính chất cơ học của thép hình cho kết cấu công dụng chung theo TCVN 7571:2019 (các phần 1, 2, 11, 15) và TCVN 7571-16:2017",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Ký hiệu loại thép hình",
+    "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16",
+    "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40",
+    "Giới hạn bền kéo, MPa",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ký hiệu loại thép hình": "AGS 400, USGS 400",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "245",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "235",
+      "Giới hạn bền kéo, MPa": "400÷510",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "21",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "17",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "21"
+    },
+    {
+      "_row_id": 2,
+      "Ký hiệu loại thép hình": "ISGS 400, HSGS 400",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "245",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "235",
+      "Giới hạn bền kéo, MPa": "400÷510",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "21",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "17",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "21"
+    },
+    {
+      "_row_id": 3,
+      "Ký hiệu loại thép hình": "AGS 490, USGS 490",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "285",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "275",
+      "Giới hạn bền kéo, MPa": "490÷610",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "19",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "15",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "19"
+    },
+    {
+      "_row_id": 4,
+      "Ký hiệu loại thép hình": "ISGS 490, HSGS 490",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "285",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "275",
+      "Giới hạn bền kéo, MPa": "490÷610",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "19",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "15",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "19"
+    },
+    {
+      "_row_id": 5,
+      "Ký hiệu loại thép hình": "AGS 540, USGS 540",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "400",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "390",
+      "Giới hạn bền kéo, MPa": "≥ 540",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "16",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "13",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "17"
+    },
+    {
+      "_row_id": 6,
+      "Ký hiệu loại thép hình": "ISGS 540, HSGS 540",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "400",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "390",
+      "Giới hạn bền kéo, MPa": "≥ 540",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "16",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "13",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "17"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Các ký hiệu “A”, “US”, “IS’, “HS” biểu thị lần lượt là thép góc, chữ U (hoặc C), chữ I và chữ H. Ký hiệu “GS” biểu thị “kết cấu công dụng chung”."
+  }
+}

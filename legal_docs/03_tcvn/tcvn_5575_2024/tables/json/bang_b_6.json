@@ -1,0 +1,42 @@
+{
+  "table_id": "bang_b_6",
+  "table_number": "B.6",
+  "table_title": "Bảng B.6 - Tính chất cơ học của thép tấm mỏng cán nóng chất lượng kết cấu theo TCVN 6522:2018 (ISO 4995:2014)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Mác",
+    "Giới hạn chảy nhỏ nhất, MPa",
+    "Giới hạn bền kéo, MPa",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — < 3",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 6"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mác": "HR235",
+      "Giới hạn chảy nhỏ nhất, MPa": "235",
+      "Giới hạn bền kéo, MPa": "330",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — < 3": "20",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 6": "23"
+    },
+    {
+      "_row_id": 2,
+      "Mác": "HR275",
+      "Giới hạn chảy nhỏ nhất, MPa": "275",
+      "Giới hạn bền kéo, MPa": "370",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — < 3": "17",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 6": "20"
+    },
+    {
+      "_row_id": 3,
+      "Mác": "HR355",
+      "Giới hạn chảy nhỏ nhất, MPa": "355",
+      "Giới hạn bền kéo, MPa": "450",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — < 3": "15",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 6": "19"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Để có thêm thông tin đầy đủ, xem TCVN 6522:2018 (ISO 4995:2014)."
+  }
+}

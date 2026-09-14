@@ -1,0 +1,59 @@
+{
+  "table_id": "bang_04",
+  "table_number": "4",
+  "table_title": "Bảng 4 - Cường độ tính toán của liên kết hàn",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Dạng liên kết",
+    "Trạng thái ứng suất",
+    "Đặc điểm của cường độ tính toán",
+    "Cường độ tính toán của liên kết hàn"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Dạng liên kết": "1. Hàn đối đầu",
+      "Trạng thái ứng suất": "a) Nén, kéo và uốn khi hàn tự động, cơ giới hoặc hàn tay và được kiểm tra chất lượng đường hàn bằng các phương pháp thử không phá hủy",
+      "Đặc điểm của cường độ tính toán": "Theo giới hạn chảy",
+      "Cường độ tính toán của liên kết hàn": "$f_{w}$ = $f_{yd}$"
+    },
+    {
+      "_row_id": 2,
+      "Dạng liên kết": "1. Hàn đối đầu",
+      "Trạng thái ứng suất": "a) Nén, kéo và uốn khi hàn tự động, cơ giới hoặc hàn tay và được kiểm tra chất lượng đường hàn bằng các phương pháp thử không phá hủy",
+      "Đặc điểm của cường độ tính toán": "Theo giới hạn bền kéo",
+      "Cường độ tính toán của liên kết hàn": "$f_{wu}$ = $f_{ud}$"
+    },
+    {
+      "_row_id": 3,
+      "Dạng liên kết": "1. Hàn đối đầu",
+      "Trạng thái ứng suất": "b) Kéo và uốn khi hàn tự động, cơ giới hoặc hàn tay",
+      "Đặc điểm của cường độ tính toán": "Theo giới hạn chảy",
+      "Cường độ tính toán của liên kết hàn": "$f_{w}$ = 0,85 $f_{yd}$"
+    },
+    {
+      "_row_id": 4,
+      "Dạng liên kết": "1. Hàn đối đầu",
+      "Trạng thái ứng suất": "Trượt",
+      "Đặc điểm của cường độ tính toán": "Trượt",
+      "Cường độ tính toán của liên kết hàn": "$f_{vw}$ = $f_{v}$"
+    },
+    {
+      "_row_id": 5,
+      "Dạng liên kết": "2. Hàn góc",
+      "Trạng thái ứng suất": "Cắt (quy ước)",
+      "Đặc điểm của cường độ tính toán": "Theo kim loại đường hàn",
+      "Cường độ tính toán của liên kết hàn": "$f_{wf}$ = 0,55 $f_{wun}$ / $\\gamma_{wm}$"
+    },
+    {
+      "_row_id": 6,
+      "Dạng liên kết": "2. Hàn góc",
+      "Trạng thái ứng suất": "Cắt (quy ước)",
+      "Đặc điểm của cường độ tính toán": "Theo kim loại biên nóng chảy",
+      "Cường độ tính toán của liên kết hàn": "$f_{ws}$ = 0,45 $f_{u}$"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Hệ số $\\gamma_{wm}$ lấy bằng 1,25 khi $f_{wun}$  ≤ 490 MPa và bằng 1,35 khi $f_{wun}$ ≥ 590 MPa."
+  }
+}

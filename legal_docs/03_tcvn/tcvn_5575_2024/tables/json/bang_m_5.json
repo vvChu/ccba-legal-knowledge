@@ -1,0 +1,250 @@
+{
+  "table_id": "bang_m_5",
+  "table_number": "M.5",
+  "table_title": "Bảng M.5 - Tính chất cơ học của thép chữ I cánh song song theo GOST R 57837-2017",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Ký hiệu",
+    "Chiều dày tiết diện, mm — nhỏ nhất",
+    "Giới hạn chảy, MPa — nhỏ nhất",
+    "Giới hạn bền kéo, MPa — nhỏ nhất",
+    "Độ giãn dài tương đối, % — nhỏ nhất"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ký hiệu": "1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "2",
+      "Giới hạn chảy, MPa — nhỏ nhất": "3",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "4",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "5"
+    },
+    {
+      "_row_id": 2,
+      "Ký hiệu": "C255Б; \nC255Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 10",
+      "Giới hạn chảy, MPa — nhỏ nhất": "255",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "380",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "25"
+    },
+    {
+      "_row_id": 3,
+      "Ký hiệu": "C255Б; \nC255Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 10; ≤ 20",
+      "Giới hạn chảy, MPa — nhỏ nhất": "245",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "370",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "25"
+    },
+    {
+      "_row_id": 4,
+      "Ký hiệu": "C255Б; \nC255Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 20; ≤ 40",
+      "Giới hạn chảy, MPa — nhỏ nhất": "235",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "370",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "24"
+    },
+    {
+      "_row_id": 5,
+      "Ký hiệu": "C255Б; \nC255Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 40; ≤ 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "225",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "370",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "23"
+    },
+    {
+      "_row_id": 6,
+      "Ký hiệu": "C255Б; \nC255Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "205",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "360",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "22"
+    },
+    {
+      "_row_id": 7,
+      "Ký hiệu": "C345Б; \nC345Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 10",
+      "Giới hạn chảy, MPa — nhỏ nhất": "345",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "480",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "21"
+    },
+    {
+      "_row_id": 8,
+      "Ký hiệu": "C345Б; \nC345Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 10; ≤ 20",
+      "Giới hạn chảy, MPa — nhỏ nhất": "325",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "470",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "21"
+    },
+    {
+      "_row_id": 9,
+      "Ký hiệu": "C345Б; \nC345Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 20; ≤ 40",
+      "Giới hạn chảy, MPa — nhỏ nhất": "305",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "460",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "21"
+    },
+    {
+      "_row_id": 10,
+      "Ký hiệu": "C345Б; \nC345Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 40; ≤ 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "285",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "450",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "20"
+    },
+    {
+      "_row_id": 11,
+      "Ký hiệu": "C345Б; \nC345Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "275",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "440",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19"
+    },
+    {
+      "_row_id": 12,
+      "Ký hiệu": "C355Б; \nC355Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 20",
+      "Giới hạn chảy, MPa — nhỏ nhất": "355",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "480",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "22"
+    },
+    {
+      "_row_id": 13,
+      "Ký hiệu": "C355Б; \nC355Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 20; ≤ 40",
+      "Giới hạn chảy, MPa — nhỏ nhất": "345",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "470",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "22"
+    },
+    {
+      "_row_id": 14,
+      "Ký hiệu": "C355Б; \nC355Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 40; ≤ 60",
+      "Giới hạn chảy, MPa — nhỏ nhất": "335",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "470",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "21"
+    },
+    {
+      "_row_id": 15,
+      "Ký hiệu": "C355Б; \nC355Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 60; ≤ 80",
+      "Giới hạn chảy, MPa — nhỏ nhất": "325",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "460",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "20"
+    },
+    {
+      "_row_id": 16,
+      "Ký hiệu": "C355Б; \nC355Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 80; ≤ 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "315",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "460",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19"
+    },
+    {
+      "_row_id": 17,
+      "Ký hiệu": "C355Б; \nC355Б-1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "295",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "450",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "18"
+    },
+    {
+      "_row_id": 18,
+      "Ký hiệu": "C390Б",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 20",
+      "Giới hạn chảy, MPa — nhỏ nhất": "390",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "20"
+    },
+    {
+      "_row_id": 19,
+      "Ký hiệu": "C390Б",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 20,≤ 40",
+      "Giới hạn chảy, MPa — nhỏ nhất": "375",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "20"
+    },
+    {
+      "_row_id": 20,
+      "Ký hiệu": "C390Б",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 40,≤ 60",
+      "Giới hạn chảy, MPa — nhỏ nhất": "360",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "510",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19"
+    },
+    {
+      "_row_id": 21,
+      "Ký hiệu": "C390Б",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 60,≤ 80",
+      "Giới hạn chảy, MPa — nhỏ nhất": "345",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "500",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19"
+    },
+    {
+      "_row_id": 22,
+      "Ký hiệu": "C390Б",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 80; ≤ 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "330",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "490",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "18"
+    },
+    {
+      "_row_id": 23,
+      "Ký hiệu": "C390Б",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "315",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "480",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "18"
+    },
+    {
+      "_row_id": 24,
+      "Ký hiệu": "C440Б",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 20",
+      "Giới hạn chảy, MPa — nhỏ nhất": "440",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "590",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19"
+    },
+    {
+      "_row_id": 25,
+      "Ký hiệu": "C440Б",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 20; ≤ 40",
+      "Giới hạn chảy, MPa — nhỏ nhất": "425",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "580",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "18"
+    },
+    {
+      "_row_id": 26,
+      "Ký hiệu": "C440Б",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 40; ≤ 60",
+      "Giới hạn chảy, MPa — nhỏ nhất": "410",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "570",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "17"
+    },
+    {
+      "_row_id": 27,
+      "Ký hiệu": "C440Б",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 60; ≤ 80",
+      "Giới hạn chảy, MPa — nhỏ nhất": "395",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "560",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "17"
+    },
+    {
+      "_row_id": 28,
+      "Ký hiệu": "C440Б",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 80; ≤ 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "380",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "550",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "17"
+    },
+    {
+      "_row_id": 29,
+      "Ký hiệu": "C440Б",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "365",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "540",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "17"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Để có thêm thông tin đầy đủ, xem GOST R 57837-2017."
+  }
+}

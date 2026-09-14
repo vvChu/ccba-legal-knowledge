@@ -1,0 +1,20 @@
+{
+  "table_id": "bang_11",
+  "table_number": "11",
+  "table_title": "Bảng 11 - Hệ số M trong công thức (20)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Đất dưới mũi cọc",
+    "Hệ số M"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đất dưới mũi cọc": "1. Hòn vụn thô lẫn cát\n2. Cát hạt vừa và cát to chặt vừa và cát pha cứng\n3. Cát hạt nhỏ chặt vừa\n4. Cát bụi chặt vừa\n5. Cát pha dẻo, sét pha và sét cứng\n6. Sét pha và sét nửa cứng\n7. Sét pha và sét dẻo cứng",
+      "Hệ số M": "1,3\n1,2\n1,1\n1,0\n0,9\n0,8\n0,7"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Trong nền cát chặt, hệ số M ở các điểm 2, 3 và 4 trong Bảng 11 được tăng lên 60 %."
+  }
+}

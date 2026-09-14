@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_d_3",
+  "table_number": "D.3",
+  "table_title": "Bảng D.3 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi silic tại nơi làm việc theo [1]",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên chất",
+    "Giới hạn tiếp xúc ca làm việc (TWA)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên chất": "1. Nồng độ silic tự do trong bụi toàn phần",
+      "Giới hạn tiếp xúc ca làm việc (TWA)": "0,3"
+    },
+    {
+      "_row_id": 2,
+      "Tên chất": "2. Nồng độ silic tự do trong bụi hô hấp",
+      "Giới hạn tiếp xúc ca làm việc (TWA)": "0,1"
+    }
+  ],
+  "footnotes": []
+}

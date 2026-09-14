@@ -1,0 +1,61 @@
+{
+  "table_id": "bang_d_4",
+  "table_number": "D.4",
+  "table_title": "Bảng D.4 - Trị tính toán quy ước $R_{0}$ trên nền đất đắp đã ổn định",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại đất đắp",
+    "$R_{0}$, kPa — Cát thô, cát trung, cát mịn, xỉ — Ứng với độ no nước — G ≤ 0,5",
+    "$R_{0}$, kPa — Cát thô, cát trung, cát mịn, xỉ — Ứng với độ no nước — G ≥ 0,8",
+    "$R_{0}$, kPa — Cát bụi, đất sét, tro — Ứng với độ no nước — G ≤ 0,5",
+    "$R_{0}$, kPa — Cát bụi, đất sét, tro — Ứng với độ no nước — G ≥ 0,8"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đất đắp": "Đất trong lúc san nền đầm chặt theo 11.8",
+      "$R_{0}$, kPa — Cát thô, cát trung, cát mịn, xỉ — Ứng với độ no nước — G ≤ 0,5": "250",
+      "$R_{0}$, kPa — Cát thô, cát trung, cát mịn, xỉ — Ứng với độ no nước — G ≥ 0,8": "200",
+      "$R_{0}$, kPa — Cát bụi, đất sét, tro — Ứng với độ no nước — G ≤ 0,5": "180",
+      "$R_{0}$, kPa — Cát bụi, đất sét, tro — Ứng với độ no nước — G ≥ 0,8": "150"
+    },
+    {
+      "_row_id": 2,
+      "Loại đất đắp": "Các bãi thải đất và phế liệu sản xuất sau khi đầm chặt theo 11.8",
+      "$R_{0}$, kPa — Cát thô, cát trung, cát mịn, xỉ — Ứng với độ no nước — G ≤ 0,5": "250",
+      "$R_{0}$, kPa — Cát thô, cát trung, cát mịn, xỉ — Ứng với độ no nước — G ≥ 0,8": "200",
+      "$R_{0}$, kPa — Cát bụi, đất sét, tro — Ứng với độ no nước — G ≤ 0,5": "180",
+      "$R_{0}$, kPa — Cát bụi, đất sét, tro — Ứng với độ no nước — G ≥ 0,8": "150"
+    },
+    {
+      "_row_id": 3,
+      "Loại đất đắp": "Các bãi thải đất và phế liệu sản xuất không đầm chặt",
+      "$R_{0}$, kPa — Cát thô, cát trung, cát mịn, xỉ — Ứng với độ no nước — G ≤ 0,5": "180",
+      "$R_{0}$, kPa — Cát thô, cát trung, cát mịn, xỉ — Ứng với độ no nước — G ≥ 0,8": "150",
+      "$R_{0}$, kPa — Cát bụi, đất sét, tro — Ứng với độ no nước — G ≤ 0,5": "120",
+      "$R_{0}$, kPa — Cát bụi, đất sét, tro — Ứng với độ no nước — G ≥ 0,8": "100"
+    },
+    {
+      "_row_id": 4,
+      "Loại đất đắp": "Các nơi đổ đất và phế liệu sản xuất sau khi đầm chặt theo 11.8",
+      "$R_{0}$, kPa — Cát thô, cát trung, cát mịn, xỉ — Ứng với độ no nước — G ≤ 0,5": "150",
+      "$R_{0}$, kPa — Cát thô, cát trung, cát mịn, xỉ — Ứng với độ no nước — G ≥ 0,8": "120",
+      "$R_{0}$, kPa — Cát bụi, đất sét, tro — Ứng với độ no nước — G ≤ 0,5": "120",
+      "$R_{0}$, kPa — Cát bụi, đất sét, tro — Ứng với độ no nước — G ≥ 0,8": "100"
+    },
+    {
+      "_row_id": 5,
+      "Loại đất đắp": "Các nơi đổ đất và phế liệu sản xuất không đầm chặt",
+      "$R_{0}$, kPa — Cát thô, cát trung, cát mịn, xỉ — Ứng với độ no nước — G ≤ 0,5": "120",
+      "$R_{0}$, kPa — Cát thô, cát trung, cát mịn, xỉ — Ứng với độ no nước — G ≥ 0,8": "100",
+      "$R_{0}$, kPa — Cát bụi, đất sét, tro — Ứng với độ no nước — G ≤ 0,5": "110",
+      "$R_{0}$, kPa — Cát bụi, đất sét, tro — Ứng với độ no nước — G ≥ 0,8": "80"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH 1:** Trị số $R_{0}$ ở Bảng D.4 là của các móng có độ sâu đặt móng $h_{1}$ = 2 m. Khi độ sâu đặt móng h < 2 m giá trị $R_{0}$ sẽ giảm bằng cách nhân với hệ số k = (h + $h_{1}$)/(2 x $h_{1}$);",
+    "fn_2": "**CHÚ THÍCH 2:** Trị số $R_{0}$ ở 2 điểm sau cùng trong Bảng D.4 là thuộc về đất rác và phế liệu sản xuất có chứa tạp chất hữu cơ không quá 10%;",
+    "fn_3": "**CHÚ THÍCH 3:** Đối với các bãi thải và nơi đổ đất và phế liệu sản xuất chưa ổn định thì trị số $R_{0}$ lấy theo Bảng D.4 với hệ số 0,8.",
+    "fn_4": "**CHÚ THÍCH 4:** Đại lượng $R_{0}$ đối với các giá trị trung gian của G từ 0,5 đến 0,8 cho phép xác định bằng nội suy."
+  }
+}

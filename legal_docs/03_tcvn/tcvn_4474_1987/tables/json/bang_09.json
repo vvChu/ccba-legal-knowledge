@@ -1,0 +1,24 @@
+{
+  "table_id": "bang_09",
+  "table_number": "9",
+  "table_title": "Bảng 9",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Đường kính phễu thu hoặc ống đứng (mm)",
+    "80",
+    "100",
+    "150",
+    "200"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đường kính phễu thu hoặc ống đứng (mm)": "Lưu lượng tính toán cho một phễu thu nước mưa 1/s\nLưu lượng tính toán nước mưa tính cho 1 ống đứng thu nước mưa 1/s",
+      "80": "5\n10",
+      "100": "12\n20",
+      "150": "35\n50",
+      "200": "80"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_24",
+  "table_number": "24",
+  "table_title": "Bảng 24 - Hệ số",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại đất đắp",
+    "Khối lượng thể tích của đất đắp, T/m³ — 1,55",
+    "Khối lượng thể tích của đất đắp, T/m³ — 1,7"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đất đắp": "Cát, trừ cát bụi ẩm và no nước",
+      "Khối lượng thể tích của đất đắp, T/m³ — 1,55": "0,5",
+      "Khối lượng thể tích của đất đắp, T/m³ — 1,7": "0,8"
+    },
+    {
+      "_row_id": 2,
+      "Loại đất đắp": "Đất sét có chỉ số sệt $I_{s}$ < 0,5",
+      "Khối lượng thể tích của đất đắp, T/m³ — 1,55": "0,4",
+      "Khối lượng thể tích của đất đắp, T/m³ — 1,7": "0,6"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Hệ số  đối với cát bụi ẩm, sét và á sét ở chỉ số sệt 0,5 < $I_{s}$ ≤ 0,75 và á cát với 0,5 < $I_{s}$ ≤ 1 lần phải giảm đi 15 %."
+  }
+}

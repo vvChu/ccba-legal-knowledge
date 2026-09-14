@@ -1,0 +1,11 @@
+﻿Sơ đồ tính của khung,Số công thức tính μ theo Bảng G.7,Giá trị<br>$C_{m}$ và $C_{n}$
+$Không tìm thấy công thức toán học nào trong hình ảnh này (hình ảnh chỉ chứa sơ đồ kết cấu chịu lực).$,(G.11),$C_m = \frac{3EI_1}{l_1^3}$
+"$N, EI, EI_1, L, L_1$",(G.11),$C_m = \frac{4EI_1}{L_1}$
+"$N, \quad EI, \quad EI_1, \quad L, \quad L_1$",(G.10),$C_m = \frac{3EI_1}{L_1}$
+"$Hình ảnh được cung cấp chỉ chứa sơ đồ kỹ thuật (sơ đồ kết cấu cột chịu lực), không chứa công thức toán học hay văn bản nào. Do đó không thể chuyển đổi thành mã LaTeX.$",(G.6),$C_{m}$ = 0<br>$C_n = \frac{3EI_1}{L_1^3}$
+,(G.9),$C_m = \frac{3EI_1}{L_1}$
+"$Xin lỗi, hình ảnh bạn cung cấp là một sơ đồ kết cấu kỹ thuật (khung phẳng chịu lực) chứ không chứa công thức toán học. Tôi không thể chuyển đổi hình ảnh này sang mã LaTeX KaTeX được.$",(G.9),$C_m = \frac{4EI_1}{L_1}$
+$\text{Hình vẽ minh họa kết cấu}$,(G.9),$C_m = \frac{3 E I_1 (L_1 + L_2)}{L_1 L_2}$
+,(G.8),$C_m = \frac{3EI_1(L_1 + L_2)}{L_1 L_2}$
+"$Hình ảnh này là một sơ đồ kết cấu kỹ thuật (hình vẽ cơ học/kết cấu), không phải là một công thức toán học hay văn bản chứa ký hiệu LaTeX. Do đó không thể chuyển đổi thành mã KaTeX.$",(G.11),$C_m = \frac{3EI_1(4L_1 + 3L_2)}{L_1 L_2}$
+$\text{Hình vẽ kỹ thuật cơ học kết cấu}$,(G.10),$C_m = \frac{3EI_1(L_1 + L_2)}{L_1 L_2}$<br>$C_{m1} = \frac{3EI_2(L_1 + L_2)}{L_1 L_2}$

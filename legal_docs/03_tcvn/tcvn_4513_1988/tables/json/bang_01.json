@@ -1,0 +1,266 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Nơi dùng nước",
+    "Đơn vị dùng nước",
+    "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Nơi dùng nước": "1",
+      "Đơn vị dùng nước": "2",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "3"
+    },
+    {
+      "_row_id": 2,
+      "Nơi dùng nước": "Nhà ở bên trong mỗi căn hộ có một vòi nước sử dụng chung cho các nhu cầu sinh hoạt",
+      "Đơn vị dùng nước": "Một người",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 80 đến 100"
+    },
+    {
+      "_row_id": 3,
+      "Nơi dùng nước": "Nhà ở bên trong có trang thiết bị vệ sinh : vòi tắm, rửa, xí trong 1 căn hộ khép kín",
+      "Đơn vị dùng nước": "Một người",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 100 đến 150"
+    },
+    {
+      "_row_id": 4,
+      "Nơi dùng nước": "Nhà ở bên trong mỗi căn hộ có trang thiết bị vệ sinh : Hương sen tắm, rửa, xí, tắm đặc biệt",
+      "Đơn vị dùng nước": "Một người",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 150 đến 200"
+    },
+    {
+      "_row_id": 5,
+      "Nơi dùng nước": "Nhà ở bên trong mỗi căn hộ có bồn tắm và cấp nước nóng cục bộ",
+      "Đơn vị dùng nước": "Một người",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 350 đến 400"
+    },
+    {
+      "_row_id": 6,
+      "Nơi dùng nước": "Nhà ở tập thể kí túc xá có xí, tiểu vòi tắm giặt chung đặt ở các tầng",
+      "Đơn vị dùng nước": "Một người",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 75 đến 100"
+    },
+    {
+      "_row_id": 7,
+      "Nơi dùng nước": "Nhà ở tập thể có xí, tiểu, vòi tắm giặt, bếp riêng cho từng phòng",
+      "Đơn vị dùng nước": "Một người",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 100 đến 120"
+    },
+    {
+      "_row_id": 8,
+      "Nơi dùng nước": "Khách sạn – Hạng III",
+      "Đơn vị dùng nước": "Một người",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 100 đến 120"
+    },
+    {
+      "_row_id": 9,
+      "Nơi dùng nước": "&nbsp;&nbsp;\\- Hạng II",
+      "Đơn vị dùng nước": "Một người",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 150 đến 200"
+    },
+    {
+      "_row_id": 10,
+      "Nơi dùng nước": "&nbsp;&nbsp;\\- Hạng I",
+      "Đơn vị dùng nước": "Một người",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 200 đến 250"
+    },
+    {
+      "_row_id": 11,
+      "Nơi dùng nước": "&nbsp;&nbsp;\\- Hạng đặc biệt",
+      "Đơn vị dùng nước": "Một người",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 250 đến 300"
+    },
+    {
+      "_row_id": 12,
+      "Nơi dùng nước": "Bệnh viện, nhà điều dưỡng, nhà nghỉ (có bồn tắm chung và vòi tắm hương sen)",
+      "Đơn vị dùng nước": "1 giường bệnh",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 250 đến 300"
+    },
+    {
+      "_row_id": 13,
+      "Nơi dùng nước": "Nhà điều dưỡng, nhà nghỉ có bồn tắm trong tất cả các phòng",
+      "Đơn vị dùng nước": "1giường",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 300 đến 400"
+    },
+    {
+      "_row_id": 14,
+      "Nơi dùng nước": "Trạm y tế, phòng khám đa khoa",
+      "Đơn vị dùng nước": "1 bệnh nhân",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "15"
+    },
+    {
+      "_row_id": 15,
+      "Nơi dùng nước": "Nhà tắm công cộng có vòi tắm hương sen",
+      "Đơn vị dùng nước": "1 người tắm",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 125 đến 150"
+    },
+    {
+      "_row_id": 16,
+      "Nơi dùng nước": "Nhà giặt bằng tay",
+      "Đơn vị dùng nước": "1kg đồ giặt",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "40"
+    },
+    {
+      "_row_id": 17,
+      "Nơi dùng nước": "Nhà giặt bằng máy",
+      "Đơn vị dùng nước": "1 kg đồ giặt",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 60 đến 90"
+    },
+    {
+      "_row_id": 18,
+      "Nơi dùng nước": "Công ty ăn uống, cửa hàng ăn uống",
+      "Đơn vị dùng nước": "",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": ""
+    },
+    {
+      "_row_id": 19,
+      "Nơi dùng nước": "a) Chế biến thức ăn tại chỗ",
+      "Đơn vị dùng nước": "1 món ăn",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "12"
+    },
+    {
+      "_row_id": 20,
+      "Nơi dùng nước": "b) Chế biến thức ăn đem về nhà",
+      "Đơn vị dùng nước": "1 món ăn",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "10"
+    },
+    {
+      "_row_id": 21,
+      "Nơi dùng nước": "Nhà ăn tập thể",
+      "Đơn vị dùng nước": "1 người/ 1 bữa ăn",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 18 đến 25"
+    },
+    {
+      "_row_id": 22,
+      "Nơi dùng nước": "Bể bơi trong 1 ngày đêm",
+      "Đơn vị dùng nước": "",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": ""
+    },
+    {
+      "_row_id": 23,
+      "Nơi dùng nước": "a) Bổ sung nước tràn",
+      "Đơn vị dùng nước": "% dung tích bể",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "10"
+    },
+    {
+      "_row_id": 24,
+      "Nơi dùng nước": "b) Vận động viên (tính cả tắm)",
+      "Đơn vị dùng nước": "1 vận động viên",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "50"
+    },
+    {
+      "_row_id": 25,
+      "Nơi dùng nước": "c) Khán giả",
+      "Đơn vị dùng nước": "1 chỗ ngồi",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "3"
+    },
+    {
+      "_row_id": 26,
+      "Nơi dùng nước": "Nhà trẻ",
+      "Đơn vị dùng nước": "",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": ""
+    },
+    {
+      "_row_id": 27,
+      "Nơi dùng nước": "a) Gửi ban ngày",
+      "Đơn vị dùng nước": "1 trẻ",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "75"
+    },
+    {
+      "_row_id": 28,
+      "Nơi dùng nước": "b) Gửi cả đêm",
+      "Đơn vị dùng nước": "1 trẻ",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "100"
+    },
+    {
+      "_row_id": 29,
+      "Nơi dùng nước": "Trụ sở cơ quan hành chính",
+      "Đơn vị dùng nước": "1 cán bộ",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 10 đến 15"
+    },
+    {
+      "_row_id": 30,
+      "Nơi dùng nước": "Rạp chiếu bóng",
+      "Đơn vị dùng nước": "1 ghế",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 3 đến 5"
+    },
+    {
+      "_row_id": 31,
+      "Nơi dùng nước": "Câu lạc bộ",
+      "Đơn vị dùng nước": "1 chỗ ngồi hay 1 người xem",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "10"
+    },
+    {
+      "_row_id": 32,
+      "Nơi dùng nước": "Nhà hát",
+      "Đơn vị dùng nước": "",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": ""
+    },
+    {
+      "_row_id": 33,
+      "Nơi dùng nước": "a) Khán giả",
+      "Đơn vị dùng nước": "1 chỗ",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "10"
+    },
+    {
+      "_row_id": 34,
+      "Nơi dùng nước": "b)Diễn viên",
+      "Đơn vị dùng nước": "1 diễn viên",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "40"
+    },
+    {
+      "_row_id": 35,
+      "Nơi dùng nước": "Trường học, trường phổ thông",
+      "Đơn vị dùng nước": "1học sinh hay 1 giáo viên",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "Từ 15 đến 20"
+    },
+    {
+      "_row_id": 36,
+      "Nơi dùng nước": "Sân vận động, nhà thi đấu thể thao",
+      "Đơn vị dùng nước": "",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": ""
+    },
+    {
+      "_row_id": 37,
+      "Nơi dùng nước": "a) Vận động viên (kể cả tắm)",
+      "Đơn vị dùng nước": "1 vận động viên",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "50"
+    },
+    {
+      "_row_id": 38,
+      "Nơi dùng nước": "b)Khán giả",
+      "Đơn vị dùng nước": "1 chỗ",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "3"
+    },
+    {
+      "_row_id": 39,
+      "Nơi dùng nước": "Nước tưới",
+      "Đơn vị dùng nước": "",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": ""
+    },
+    {
+      "_row_id": 40,
+      "Nơi dùng nước": "a) Tưới sân thể thao, sân chơi, khán đài và các công trình thể thao ngoài trời, cây xanh đường sá bên trong khu vực sân vận động",
+      "Đơn vị dùng nước": "1$m^{2}$",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "1,5"
+    },
+    {
+      "_row_id": 41,
+      "Nơi dùng nước": "b)Tưới mặt cỏ sân bóng đá",
+      "Đơn vị dùng nước": "1$m^{2}$",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "3"
+    },
+    {
+      "_row_id": 42,
+      "Nơi dùng nước": "Người phục vụ nhà công cộng",
+      "Đơn vị dùng nước": "1 người trong 1 ca",
+      "Tiêu chuẩn dùng nước trong ngày dùng nhiều nhất 1/ngày": "25"
+    }
+  ],
+  "footnotes": []
+}

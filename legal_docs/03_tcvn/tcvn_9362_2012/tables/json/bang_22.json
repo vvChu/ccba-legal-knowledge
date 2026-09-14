@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_22",
+  "table_number": "22",
+  "table_title": "Bảng 22 - Biến dạng giới hạn của nền trụ tải điện",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại trụ điện",
+    "Độ lún của khối móng độc lập, cm",
+    "Độ nghiêng của móng đơn",
+    "Độ lún trung bình, cm"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại trụ điện": "1. Trụ thẳng trung gian, loại bình thường",
+      "Độ lún của khối móng độc lập, cm": "0,003B",
+      "Độ nghiêng của móng đơn": "0,003",
+      "Độ lún trung bình, cm": "Không quy định"
+    },
+    {
+      "_row_id": 2,
+      "Loại trụ điện": "2. Trụ neo bình thường và neo góc có kéo lệch và không lệch, trụ trung gian ở góc và trụ vòng, giả thiết bị phân phối điện ngoài trời",
+      "Độ lún của khối móng độc lập, cm": "0,002 5B",
+      "Độ nghiêng của móng đơn": "0,002 5",
+      "Độ lún trung bình, cm": "Như trên"
+    },
+    {
+      "_row_id": 3,
+      "Loại trụ điện": "3. Trụ chuyên đặc biệt",
+      "Độ lún của khối móng độc lập, cm": "0,002B",
+      "Độ nghiêng của móng đơn": "0,002",
+      "Độ lún trung bình, cm": "20"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** B là khoảng cách giữa các trục móng theo hướng tác dụng của lực ngang. Ở các trụ có dây chằng, B là khoảng cách giữa trục móng chịu nén và neo làm việc do nhổ."
+  }
+}
