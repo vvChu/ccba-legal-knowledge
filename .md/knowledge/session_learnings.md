@@ -749,3 +749,29 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Bảo tồn nguyên vẹn $100\%$ các thẻ nhúng MathType OLE `<w:object>`, `<m:oMath>`, `<w:drawing>` và cấu trúc đánh số `<w:numPr>`.
   5. **Bỏ Qua Khối Mục Lục Khi Đối Soát Verbatim (Gate 11 TOC Bypass):**
      - Tự động nhận diện và bỏ qua các khối mục lục dàn trang (TOC paragraphs) trong bộ kiểm định Gate 11, tập trung đo lường độ trùng khớp $1:1$ trên toàn bộ nội dung quy phạm thực tế.
+
+---
+
+## 46. Multi-Part Table Disambiguation, Dual-PDF Provenance Vault, KaTeX Multiline Tag Sanitization, Clause-Referenced Uncaptioned Table Fallback & Single-Annex Parsing Normalization (ADR 0043, ADR 0044)
+
+- **Vấn đề Phát Hiện (Thực Nghiệm 10 Tiêu Chuẩn & Quy Chuẩn Trọng Điểm):**
+  1. **Xung Đột Tên Bảng Trong Quy Chuẩn Đa Phần (Umbrella Standard Collisions):** Các bộ quy chuẩn liên hoàn như QCVN 07:2023/BXD gồm 10 phần kỹ thuật độc lập (07-1 đến 07-10), mỗi phần đều đánh số lại từ Bảng 1, Bảng 2. Khi trích xuất phẳng vào thư mục `tables/`, các tệp bảng của phần sau sẽ ghi đè tệp bảng của phần trước (`bang_01.csv`), làm thất thoát dữ liệu 2D tra cứu nghiêm trọng.
+  2. **Tệp Nguồn Scan Mờ & Thoái Hóa Phông Chữ TCVN3 (Scanned vs Vector PDF Ingestion Dilemma):** Các tiêu chuẩn kỹ thuật ban hành trước năm 2015 (TCVN 4474:1987, TCVN 4513:1988, TCVN 9362:2012, TCVN 10304:2014) trên TVPL thường chỉ có bản scan mờ hoặc file PDF bị lỗi mã hóa chữ TCVN3/VNI, khiến kiểm định thị giác và trích xuất vector thất bại; trong khi file DOCX chính quy lại rất sạch và có thể kết xuất thành bản in Vector PDF hoàn hảo. Tuy nhiên, nếu xóa bỏ bản scan gốc sẽ phá vỡ tính truy xuất nguồn gốc pháp lý (Legal Provenance).
+  3. **Lỗi Cú Pháp KaTeX Khi Dùng `\tag{...}` Trong Khối Đa Dòng:** Các tiêu chuẩn tính toán kết cấu (TCVN 5575:2024, TCVN 9386:2025, TCVN 10304:2014) có nhiều hệ phương trình phức tạp. Khi dùng lệnh `\tag{...}` bên trong các môi trường `aligned`, `cases`, `gather`, KaTeX sẽ văng lỗi bôi đỏ hiển thị.
+  4. **Bỏ Sót Bảng Không Tiêu Đề Được Dẫn Chiếu Trong Điều Khoản (Clause-Referenced Uncaptioned Tables):** Trong các tiêu chuẩn cũ (TCVN 4474:1987), nhiều bảng biểu không có dòng tiêu đề `Bảng X` độc lập ở phía trên mà được nhúng ngay dưới câu văn dẫn chiếu (*"...được lấy theo bảng 8."*). Parser cũ coi các bảng này là bảng dàn trang không tên nên bỏ qua, làm mất bảng số liệu kỹ thuật.
+  5. **Gãy Regex Khi Tiêu Chuẩn Chỉ Có Duy Nhất 1 Phụ Lục (Single-Annex Fallback):** Khi tiêu chuẩn chỉ có 1 phụ lục duy nhất mang tên `Phụ lục` (không kèm chữ cái A, B hoặc số La Mã), regex nhận diện `m_annex` bị trượt, khiến toàn bộ phụ lục bị nuốt vào thân chính.
+  6. **False-Positive Gate 9 Khi Thẻ Mỏ Neo Ngắt Khối Chú Thích:** Bộ linter chia đoạn theo mọi thẻ HTML `<a id="...">` khiến mỏ neo hình ảnh (`<a id="hinh-...">`) và tiêu đề bảng vô tình cắt vụn khối chú thích chân bảng, gây lỗi giả `MISSING_NOTE_1`.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Định Danh Tiền Tố Phân Phần Cho Bảng Biểu (Part-Prefixed Table Routing - ADR 0044):**
+     - Tự động nhận diện cấu trúc phân phần của quy chuẩn umbrella và gán tiền tố phân phần cho bảng (ví dụ: `bang_p01_01.csv`, `bang_07_1_01.csv`), đồng thời bổ sung trường `part_id` vào `tables_catalog.json` để bảo toàn $100\%$ các bảng biểu không bị ghi đè.
+  2. **Bảo Tồn Nguồn Gốc Kép & Vector PDF Vault (Dual-PDF Provenance Vault - ADR 0043):**
+     - Lưu trữ song song bản scan gốc `sources/<doc_slug>_raw_scan.pdf` để bảo tồn vết lịch sử và bản Vector PDF chuẩn xác `sources/<doc_slug>.pdf` xuất qua Word COM, gắn cờ `pdf_origin: docx_vector_rendered` trong `metadata.yaml`.
+  3. **Phân Tầng Cú Pháp Đánh Số Công Thức KaTeX:**
+     - Cho phép `\tag{X}` trong khối toán đơn dòng; cưỡng chế thay thế bằng `\qquad (X)` ở cuối dòng trong các môi trường đa dòng (`aligned`, `cases`, `gather`) để đảm bảo render mượt mà.
+  4. **Bộ Dò Bảng Biểu Không Tiêu Đề Qua Ngữ Cảnh Dẫn Chiếu (`table_handler.py`):**
+     - Khi gặp bảng không có tiêu đề phía trên, tự động quét ngược đoạn văn `blocks[i-1]` bằng regex `(?:theo|ở|tại)\s+(?:bảng|Bảng|BẢNG)\s+([0-9A-Za-zĐđ\.]+)` để trích xuất số hiệu bảng và thực thi xuất 2D CSV/JSON đầy đủ.
+  5. **Chuẩn Hóa Nhận Diện Phụ Lục Đơn Nhất (`heading_handler.py`):**
+     - Mở rộng regex nhận diện phụ lục với chữ cái tùy chọn: `r"^(?:Phụ\s+lục|PHỤ\s+LỤC)(?:\s+([A-ZĐ]|[IVXLCDM]+|[0-9]+))?\b..."`, tự động gán nhãn định danh `"1"` khi văn bản chỉ có 1 phụ lục duy nhất.
+  6. **Giới Hạn Ranh Giới Chia Đoạn Linter Footnote Chỉ Theo Thẻ Cấu Trúc Quy Phạm:**
+     - Bộ linter `lint_visual_parity.py` và `visual_parity.py` chỉ chia chunk theo các mỏ neo quy phạm chính thức (`dieu`, `khoan`, `muc`, `chuong`, `phan`), bảo vệ toàn vẹn khối chú thích bảng và hình ảnh.
