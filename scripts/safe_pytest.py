@@ -14,11 +14,13 @@ if str(scripts_dir) not in sys.path:
     sys.path.insert(0, str(scripts_dir))
 
 try:
-    from scripts.eval.process_safety import DetachedExecutionEngine
-except ImportError:
-    from eval.process_safety import (
-        DetachedExecutionEngine,  # type: ignore[import-not-found,no-redef]
-    )
+    from ccba_harness import DetachedExecutionEngine
+except ImportError as exc:
+    raise ImportError(
+        "ccba-harness package is required by safe_pytest.py. "
+        "Please install it in your environment: pip install -e <hub_path>/packages/ccba-harness "
+        "or run 'python scripts/spoke_bootstrap.py'"
+    ) from exc
 
 # Backward compatibility function alias
 find_modified_test_files = DetachedExecutionEngine.find_modified_test_files

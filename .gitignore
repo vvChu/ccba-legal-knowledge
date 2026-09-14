@@ -49,6 +49,7 @@ scratch/
 !.md/projects/.gitkeep
 .md/data/chrome_cdp_profile/
 .md/data/cache/
+.md/data/telemetry_summary.json
 .md/backups/
 
 # ADR 0035 Tri-Tier Cloud Binary Vault (Stored on Google Drive)
