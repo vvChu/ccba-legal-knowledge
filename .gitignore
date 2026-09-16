@@ -66,3 +66,9 @@ legal_docs/**/*.docx
 .md/legal_docs/
 .md/reports/*.html
 .md/*.png
+
+# Hub auto-generated editable links & Spoke Leakage Guard (ADR 0045)
+.md/teach/
+.md/data/*.json
+.tmp/
+.out-of-scope/

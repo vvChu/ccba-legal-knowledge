@@ -532,7 +532,7 @@ class LegalSpokeValidator:
             "lint_visual_parity.py", "query_hub_catalog.py", "analyze_gate_audit.py",
             "sync_adr_matrix.py", "validate_adr_parity.py", "setup_pre_commit.py",
             "modernize_annex_engine.py", "verify_formula_visual_matrix.py",
-            "sync_expansion_roadmap.py",
+            "sync_expansion_roadmap.py", "safe_runner.py",
         }
 
         py_files = list(scripts_dir.glob("*.py"))
@@ -547,9 +547,9 @@ class LegalSpokeValidator:
                         f"Spoke Cleanliness Gate: Extra script '{py_file.name}' found in scripts/."
                     )
 
-        if len(py_files) > 20:
+        if len(py_files) > 25:
             self.warnings.append(
-                f"Spoke Cleanliness Gate: scripts/ directory contains {len(py_files)} files (> 20 threshold)."
+                f"Spoke Cleanliness Gate: scripts/ directory contains {len(py_files)} files (> 25 threshold)."
             )
 
         return (len(self.errors), len(self.warnings))

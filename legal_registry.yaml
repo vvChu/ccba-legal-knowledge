@@ -2,9 +2,9 @@ version: 0.3.0
 updated_at: '2026-09-06T10:45:00Z'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 52
+  total_documents: 53
   categories:
-    01_vbpl: 24
+    01_vbpl: 25
     02_qcvn: 12
     03_tcvn: 13
     04_appendices: 3
@@ -1048,6 +1048,36 @@ laws:
   converter_version: 0.4.0
   schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
   extracted_at: '2026-09-06T10:45:00.000000+00:00'
+- id: vn_hn_qd_38_2026_qd_ubnd
+  document_number: 38/2026/QĐ-UBND
+  type: Quyết định
+  issued_by: Ủy ban nhân dân Thành phố Hà Nội
+  signer: Trần Sỹ Thanh
+  issued_date: '2026-03-31'
+  effective_date: '2026-04-10'
+  published_date: '2026-03-31'
+  status: active
+  jurisdiction: VN-HN
+  administrative_tier: PROVINCIAL
+  authority_type: delegation
+  relations: {}
+  title: Quyết định 38/2026/QĐ-UBND quy định một số nội dung về quản lý quy hoạch đô thị và nông thôn, kiến trúc trên địa bàn thành phố Hà Nội
+  bundle_path: legal_docs/01_vbpl/vn_hn_qd_38_2026_qd_ubnd/
+  source_url: https://thuvienphapluat.vn/
+  sha256: d826eaf192b238acd1b465854babc8a884d8e12e2d330ecc4c262ed64eb8767b
+  pdf_path: legal_docs/01_vbpl/vn_hn_qd_38_2026_qd_ubnd/sources/702686.pdf
+  pdf_sha256: d826eaf192b238acd1b465854babc8a884d8e12e2d330ecc4c262ed64eb8767b
+  cong_bao_number: Đang cập nhật
+  pdf_status: verified
+  source_assets:
+    pdf:
+      sha256: d826eaf192b238acd1b465854babc8a884d8e12e2d330ecc4c262ed64eb8767b
+      vault_path: CCBA_Legal_Vault/01_vbpl/vn_hn_qd_38_2026_qd_ubnd/702686.pdf
+      status: verified
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-09-16T15:45:00.000000+00:00'
 standards:
 - id: TCVN-7336-2021
   document_number: TCVN 7336:2021
