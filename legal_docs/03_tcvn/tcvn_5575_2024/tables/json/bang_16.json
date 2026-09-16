@@ -1,0 +1,34 @@
+{
+  "table_id": "bang_16",
+  "table_number": "16",
+  "table_title": "Bảng 16 - Hệ số $c_{2}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "δ",
+    "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — ≤ 0,50",
+    "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,60",
+    "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,67",
+    "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,80",
+    "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,00",
+    "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,20",
+    "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,40",
+    "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — ≥ 1,60"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "δ": "≤ 1\n2\n4\n6\n10\n≥ 30",
+      "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — ≤ 0,50": "1,56\n1,64\n1,66\n1,67\n1,68\n1,68",
+      "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,60": "1,56\n1,64\n1,67\n1,68\n1,69\n1,70",
+      "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,67": "1,56\n1,64\n1,69\n1,70\n1,71\n1,72",
+      "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,80": "1,56\n1,67\n1,75\n1,77\n1,78\n1,80",
+      "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,00": "1,56\n1,76\n1,88\n1,92\n1,96\n1,99",
+      "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,20": "1,56\n1,82\n2,01\n2,08\n2,14\n2,20",
+      "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,40": "1,56\n1,84\n2,09\n2,19\n2,28\n2,38",
+      "Giá trị $c_{2}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — ≥ 1,60": "1,56\n1,85\n2,12\n2,26\n2,38\n2,52"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Với các giá trị trung gian của δ và a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) thì giá trị $c_{2}$ được xác định bằng nội suy tuyến tính."
+  }
+}

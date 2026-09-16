@@ -1,0 +1,97 @@
+{
+  "table_id": "bang_l_1",
+  "table_number": "L.1",
+  "table_title": "Bảng L.1 - Các thông số tính toán",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Các thông số",
+    "Bu lông — chữ L",
+    "Bu lông — không tháo được có bản neo",
+    "Bu lông — tháo được có bản neo",
+    "Bu lông — thẳng",
+    "Bu lông — đầu côn"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Các thông số": "1. Đường kính bu lông (theo ren), $d_{b}$, mm",
+      "Bu lông — chữ L": "≥ 12; ≤ 48",
+      "Bu lông — không tháo được có bản neo": "≥ 12; ≤ 140",
+      "Bu lông — tháo được có bản neo": "≥ 56; ≤ 125",
+      "Bu lông — thẳng": "≥ 12; ≤ 48",
+      "Bu lông — đầu côn": "≥ 6; ≤ 48"
+    },
+    {
+      "_row_id": 2,
+      "Các thông số": "2. Sơ đồ",
+      "Bu lông — chữ L": "",
+      "Bu lông — không tháo được có bản neo": "",
+      "Bu lông — tháo được có bản neo": "",
+      "Bu lông — thẳng": "$H$",
+      "Bu lông — đầu côn": "$H$"
+    },
+    {
+      "_row_id": 3,
+      "Các thông số": "3. Chiều sâu ngàm tối thiểu, H",
+      "Bu lông — chữ L": "25$d_{b}$",
+      "Bu lông — không tháo được có bản neo": "15$d_{b}$",
+      "Bu lông — tháo được có bản neo": "30$d_{b}$",
+      "Bu lông — thẳng": "10$d_{b}$",
+      "Bu lông — đầu côn": "10$d_{b}$ (8$d_{b}$)1)"
+    },
+    {
+      "_row_id": 4,
+      "Các thông số": "4. Khoảng cách tối thiểu giữa các bu lông",
+      "Bu lông — chữ L": "6$d_{b}$",
+      "Bu lông — không tháo được có bản neo": "8$d_{b}$",
+      "Bu lông — tháo được có bản neo": "10$d_{b}$",
+      "Bu lông — thẳng": "5$d_{b}$",
+      "Bu lông — đầu côn": "8$d_{b}$"
+    },
+    {
+      "_row_id": 5,
+      "Các thông số": "5. Khoảng cách tối thiểu từ trục bu lông đến mép móng",
+      "Bu lông — chữ L": "4$d_{b}$",
+      "Bu lông — không tháo được có bản neo": "6$d_{b}$",
+      "Bu lông — tháo được có bản neo": "6$d_{b}$",
+      "Bu lông — thẳng": "5$d_{b}$",
+      "Bu lông — đầu côn": "8$d_{b}$"
+    },
+    {
+      "_row_id": 6,
+      "Các thông số": "6. Hệ số tải trọng χ",
+      "Bu lông — chữ L": "0,4",
+      "Bu lông — không tháo được có bản neo": "0,4",
+      "Bu lông — tháo được có bản neo": "0,25",
+      "Bu lông — thẳng": "0,6",
+      "Bu lông — đầu côn": "0,55"
+    },
+    {
+      "_row_id": 7,
+      "Các thông số": "7. Hệ số ổn định lực siết k",
+      "Bu lông — chữ L": "1,9 (1,3) 2)",
+      "Bu lông — không tháo được có bản neo": "1,9 (1,3) 2)",
+      "Bu lông — tháo được có bản neo": "1,5",
+      "Bu lông — thẳng": "2,5 (2,0) 2)",
+      "Bu lông — đầu côn": "2,3 (1,8) 2)"
+    },
+    {
+      "_row_id": 8,
+      "Các thông số": "**1) Trong ngoặc đơn là giá trị chiều sâu ngàm tối thiểu đối với bu lông có đường kính nhỏ hơn 16 mm.\n2) Trong ngoặc đơn là giá trị hệ số k cho tải trọng tĩnh.**",
+      "Bu lông — chữ L": "",
+      "Bu lông — không tháo được có bản neo": "",
+      "Bu lông — tháo được có bản neo": "",
+      "Bu lông — thẳng": "",
+      "Bu lông — đầu côn": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Trường hợp các neo được kết hợp thành nhóm neo thông qua bản neo chung thì cho phép giảm khoảng cách giữa các neo và giảm chiều sâu ngàm chúng vào bê tông dựa vào kết quả tính toán chịu nhổ của toàn bộ nhóm neo.",
+    "fn_2": "CHÚ THÍCH 2: Trường hợp các neo được kết hợp thành nhóm neo thông qua bản neo chung thì cho phép giảm khoảng cách giữa các neo và giảm chiều sâu ngàm chúng vào bê tông dựa vào kết quả tính toán chịu nhổ của toàn bộ nhóm neo.",
+    "fn_3": "CHÚ THÍCH 2: Trường hợp các neo được kết hợp thành nhóm neo thông qua bản neo chung thì cho phép giảm khoảng cách giữa các neo và giảm chiều sâu ngàm chúng vào bê tông dựa vào kết quả tính toán chịu nhổ của toàn bộ nhóm neo.",
+    "fn_4": "CHÚ THÍCH 2: Trường hợp các neo được kết hợp thành nhóm neo thông qua bản neo chung thì cho phép giảm khoảng cách giữa các neo và giảm chiều sâu ngàm chúng vào bê tông dựa vào kết quả tính toán chịu nhổ của toàn bộ nhóm neo.",
+    "fn_5": "CHÚ THÍCH 2: Trường hợp các neo được kết hợp thành nhóm neo thông qua bản neo chung thì cho phép giảm khoảng cách giữa các neo và giảm chiều sâu ngàm chúng vào bê tông dựa vào kết quả tính toán chịu nhổ của toàn bộ nhóm neo.",
+    "fn_6": "CHÚ THÍCH 2: Trường hợp các neo được kết hợp thành nhóm neo thông qua bản neo chung thì cho phép giảm khoảng cách giữa các neo và giảm chiều sâu ngàm chúng vào bê tông dựa vào kết quả tính toán chịu nhổ của toàn bộ nhóm neo.",
+    "fn_7": "**CHÚ THÍCH:** Chiều sâu ngàm tối thiểu H trong Bảng L.1 được tính với bê tông có cấp cường độ chịu nén B12,5 (theo TCVN 5574:2018) và thép mác S235C (theo TCVN 9986-2:2013 (ISO 630-2:2011) hoặc tương đương."
+  }
+}

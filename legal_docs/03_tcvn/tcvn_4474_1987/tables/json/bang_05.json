@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_05",
+  "table_number": "5",
+  "table_title": "Bảng 5",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại dụng cụ vệ sinh",
+    "Số lượng dụng cụ vệ sinh — 1",
+    "Số lượng dụng cụ vệ sinh — 3",
+    "Số lượng dụng cụ vệ sinh — 6",
+    "Số lượng dụng cụ vệ sinh — 10",
+    "Số lượng dụng cụ vệ sinh — 20",
+    "Số lượng dụng cụ vệ sinh — 40",
+    "Số lượng dụng cụ vệ sinh — 60",
+    "Số lượng dụng cụ vệ sinh — 100",
+    "Số lượng dụng cụ vệ sinh — 200"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại dụng cụ vệ sinh": "Chậu rửa các loại, hương sen tắm\nTiểu treo có bình rửa tự động\nTiểu treo có vòi xả\nChậu xí có vòi xả hay bình xả",
+      "Số lượng dụng cụ vệ sinh — 1": "100\n100\n100\n100",
+      "Số lượng dụng cụ vệ sinh — 3": "100\n100\n70\n30",
+      "Số lượng dụng cụ vệ sinh — 6": "100\n60\n50\n25",
+      "Số lượng dụng cụ vệ sinh — 10": "100\n40\n40\n20",
+      "Số lượng dụng cụ vệ sinh — 20": "100\n15\n35\n15",
+      "Số lượng dụng cụ vệ sinh — 40": "100\n10\n30\n10",
+      "Số lượng dụng cụ vệ sinh — 60": "100\n10\n30\n10",
+      "Số lượng dụng cụ vệ sinh — 100": "100\n10\n25\n10",
+      "Số lượng dụng cụ vệ sinh — 200": "100\n10\n25\n5"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH 1:** Khi xác đinh lưu lượng nước thải sinh họat trong nhà sản xuất không xét đến lượng nước thải từ các chậu vệ sinh phụ nữ (biđê)",
+    "fn_2": "**CHÚ THÍCH 2:** Số phần trăm hoạt động đồng thời của chậu rửa và các dụng cụ thu nước thải khác không có trong bảng 5 lấy theo thiết kế công nghệ."
+  }
+}

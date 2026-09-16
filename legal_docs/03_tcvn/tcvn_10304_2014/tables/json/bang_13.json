@@ -1,0 +1,55 @@
+{
+  "table_id": "bang_13",
+  "table_number": "13",
+  "table_title": "Bảng 13 - Năng lượng tính toán tương đương một nhát búa của máy rung",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Lực xung kích của máy rungkN",
+    "Năng lượng tính toán tương đương một nhát búa của máy rungkJ"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Lực xung kích của máy rungkN": "100",
+      "Năng lượng tính toán tương đương một nhát búa của máy rungkJ": "45"
+    },
+    {
+      "_row_id": 2,
+      "Lực xung kích của máy rungkN": "200",
+      "Năng lượng tính toán tương đương một nhát búa của máy rungkJ": "90"
+    },
+    {
+      "_row_id": 3,
+      "Lực xung kích của máy rungkN": "300",
+      "Năng lượng tính toán tương đương một nhát búa của máy rungkJ": "130"
+    },
+    {
+      "_row_id": 4,
+      "Lực xung kích của máy rungkN": "400",
+      "Năng lượng tính toán tương đương một nhát búa của máy rungkJ": "175"
+    },
+    {
+      "_row_id": 5,
+      "Lực xung kích của máy rungkN": "500",
+      "Năng lượng tính toán tương đương một nhát búa của máy rungkJ": "220"
+    },
+    {
+      "_row_id": 6,
+      "Lực xung kích của máy rungkN": "600",
+      "Năng lượng tính toán tương đương một nhát búa của máy rungkJ": "265"
+    },
+    {
+      "_row_id": 7,
+      "Lực xung kích của máy rungkN": "700",
+      "Năng lượng tính toán tương đương một nhát búa của máy rungkJ": "310"
+    },
+    {
+      "_row_id": 8,
+      "Lực xung kích của máy rungkN": "800",
+      "Năng lượng tính toán tương đương một nhát búa của máy rungkJ": "350"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Khi đóng cọc qua tầng đất sẽ bị đào đi để tạo hố móng hay đóng qua lớp đất có thể bị xói dưới đáy hố nước, độ chối tính toán phải được xác định theo sức chịu tải của cọc đã trừ đi các lớp đất đó, còn những nơi có thể xuất hiện lực ma sát âm - phải kể đến ma sát âm này."
+  }
+}

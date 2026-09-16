@@ -1,0 +1,170 @@
+{
+  "table_id": "bang_b_9",
+  "table_number": "B.9",
+  "table_title": "Bảng B.9 - Tính chất cơ học của thép hình cho kết cấu hàn theo TCVN 7571:2019 (các phần 1, 2, 11, 15) và TCVN 7571-16:2017",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Ký hiệu loại thép hình",
+    "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16",
+    "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40",
+    "Giới hạn bền kéo, MPa",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ký hiệu loại thép hình": "AWS 400A, AWS 400B, AWS 400C",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "245",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "235",
+      "Giới hạn bền kéo, MPa": "400÷510",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "23",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "18",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "22"
+    },
+    {
+      "_row_id": 2,
+      "Ký hiệu loại thép hình": "USWS 400A, USWS 400B, USWS 400C",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "245",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "235",
+      "Giới hạn bền kéo, MPa": "400÷510",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "23",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "18",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "22"
+    },
+    {
+      "_row_id": 3,
+      "Ký hiệu loại thép hình": "ISWS 400A, ISWS 400B, ISWS 400C",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "245",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "235",
+      "Giới hạn bền kéo, MPa": "400÷510",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "23",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "18",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "22"
+    },
+    {
+      "_row_id": 4,
+      "Ký hiệu loại thép hình": "HSWS 400A, HSWS 400B, HSWS 400C",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "245",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "235",
+      "Giới hạn bền kéo, MPa": "400÷510",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "23",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "18",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "22"
+    },
+    {
+      "_row_id": 5,
+      "Ký hiệu loại thép hình": "AWS 490A, AWS 490B, AWS 490C",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "325",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "315",
+      "Giới hạn bền kéo, MPa": "490÷610",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "22",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "17",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "21"
+    },
+    {
+      "_row_id": 6,
+      "Ký hiệu loại thép hình": "USWS 490A, USWS 490B, USWS 490C",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "325",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "315",
+      "Giới hạn bền kéo, MPa": "490÷610",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "22",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "17",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "21"
+    },
+    {
+      "_row_id": 7,
+      "Ký hiệu loại thép hình": "ISWS 490A, ISWS 490B, ISWS 490C",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "325",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "315",
+      "Giới hạn bền kéo, MPa": "490÷610",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "22",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "17",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "21"
+    },
+    {
+      "_row_id": 8,
+      "Ký hiệu loại thép hình": "HSWS 490A, HSWS 490B, HSWS 490C",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "325",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "315",
+      "Giới hạn bền kéo, MPa": "490÷610",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "22",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "17",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "21"
+    },
+    {
+      "_row_id": 9,
+      "Ký hiệu loại thép hình": "AWS 520B, AWS 520C",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "365",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "355",
+      "Giới hạn bền kéo, MPa": "520÷640",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "19",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "15",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "19"
+    },
+    {
+      "_row_id": 10,
+      "Ký hiệu loại thép hình": "USWS 520B, USWS 520C",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "365",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "355",
+      "Giới hạn bền kéo, MPa": "520÷640",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "19",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "15",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "19"
+    },
+    {
+      "_row_id": 11,
+      "Ký hiệu loại thép hình": "ISWS 520B, ISWS 520C",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "365",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "355",
+      "Giới hạn bền kéo, MPa": "520÷640",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "19",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "15",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "19"
+    },
+    {
+      "_row_id": 12,
+      "Ký hiệu loại thép hình": "HSWS 520B, HSWS 520C",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "365",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "355",
+      "Giới hạn bền kéo, MPa": "520÷640",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "19",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "15",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "19"
+    },
+    {
+      "_row_id": 13,
+      "Ký hiệu loại thép hình": "AWS 570, USWS 570",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "460",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "450",
+      "Giới hạn bền kéo, MPa": "570÷720",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "19 1)",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "26 2)",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "20 3)"
+    },
+    {
+      "_row_id": 14,
+      "Ký hiệu loại thép hình": "ISWS 570, HSWS 570",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "460",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "450",
+      "Giới hạn bền kéo, MPa": "570÷720",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "19 1)",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "26 2)",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": "20 3)"
+    },
+    {
+      "_row_id": 15,
+      "Ký hiệu loại thép hình": "**1) Cho chiều dày ≤ 16 mm; 2) Cho chiều dày > 16 mm và ≤ 20 mm; 3) Cho chiều dày > 20 mm.**",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — ≤ 16": "",
+      "Giới hạn chảy nhỏ nhất, MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40": "",
+      "Giới hạn bền kéo, MPa": "",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — ≤ 5": "",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 5; ≤ 16": "",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 16; ≤ 50": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Các ký hiệu “A”, “US”, “IS’, “HS” biểu thị lần lượt là thép góc, chữ U (hoặc C), chữ I và chữ H. Ký hiệu “WS” biểu thị “kết cấu hàn”."
+  }
+}

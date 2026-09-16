@@ -1,0 +1,45 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 10304 2014
+total_figures: 5
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Ranh giới móng khối quy ước khi tính độ lún móng cọc
+  annex: B
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_A_1
+  slug: a_1
+  tag: A.1
+  title: Sơ đồ tải trọng tác dụng lên cọc
+  annex: A
+  anchor: hinh-a_1
+  image_relpath: figures/images/hinh_a_1.png
+  has_image: true
+- figure_id: FIG_C_1
+  slug: c_1
+  tag: C.1
+  title: Các mô hình móng khối quy ước
+  annex: C
+  anchor: hinh-c_1
+  image_relpath: figures/images/hinh_c_1.png
+  has_image: true
+- figure_id: FIG_G_1
+  slug: g_1
+  tag: G.1
+  title: Biểu đồ xác định hệ số
+  annex: A
+  anchor: hinh-g_1
+  image_relpath: figures/images/hinh_g_1.png
+  has_image: true
+- figure_id: FIG_G_2
+  slug: g_2
+  tag: G.2
+  title: Biểu đồ xác định hệ số p và fL
+  annex: A
+  anchor: hinh-g_2
+  image_relpath: figures/images/hinh_g_2.png
+  has_image: true

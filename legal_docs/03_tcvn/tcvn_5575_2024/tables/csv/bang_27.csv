@@ -1,0 +1,13 @@
+﻿Các thanh của kết cấu lưới thanh không gian,Giá trị $L_{ef}$
+"1. Các thanh, trừ các thanh nêu ở các điểm 2 và 3",L
+"2. Các thanh cánh liên tục (không gián đoạn tại nút), cũng như các thanh cánh và thanh bụng được liên kết hàn đối đầu tại nút với chi tiết nút cầu hoặc trụ","0,85L"
+3. Các thanh làm bằng thép góc đơn được liên kết tại nút theo một cánh:<br>a) Bằng đường hàn hoặc bu lông (không ít hơn hai bu lông) bố trí dọc theo thanh khi:,
+L/$i_{min}$ ≤ 90,L
+90 < L/$i_{min}$ ≤ 120,"0,9L"
+120 < L/$i_{min}$ ≤ 150 (chỉ đối với các thanh bụng),"0,75L"
+150 < L/$i_{min}$ ≤ 200 (chỉ đối với các thanh bụng),"0,7L"
+b) Bằng một bu lông khi:,
+L/$i_{min}$ ≤ 90,L
+90 < L/$i_{min}$ ≤ 120,"0,95L"
+120 < L/$i_{min}$ ≤ 150 (chỉ đối với các thanh bụng),"0,85L"
+150 < L/$i_{min}$ ≤ 200 (chỉ đối với các thanh bụng),"0,8L"

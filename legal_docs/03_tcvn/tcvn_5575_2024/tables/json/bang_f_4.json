@@ -1,0 +1,43 @@
+{
+  "table_id": "bang_f_4",
+  "table_number": "F.4",
+  "table_title": "Bảng F.4 - Hệ số B",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Sơ đồ tiết diện và vị trí đặt tải trọng",
+    "Hệ số B khi tải trọng — tập trung ở giữa nhịp",
+    "Hệ số B khi tải trọng — phân bố đều",
+    "Hệ số B khi tải trọng — gây uốn thuần tuý"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Sơ đồ tiết diện và vị trí đặt tải trọng": "$\\begin{aligned}\nI &\\downarrow \\\\\nT &\\downarrow\n\\end{aligned}$",
+      "Hệ số B khi tải trọng — tập trung ở giữa nhịp": "δ",
+      "Hệ số B khi tải trọng — phân bố đều": "μ",
+      "Hệ số B khi tải trọng — gây uốn thuần tuý": "β"
+    },
+    {
+      "_row_id": 2,
+      "Sơ đồ tiết diện và vị trí đặt tải trọng": "$Hình ảnh bạn cung cấp là các ký hiệu hình học/kỹ thuật (biểu diễn tải trọng tập trung lên dầm), không chứa công thức toán học hay ký tự văn bản để chuyển đổi sang LaTeX.$",
+      "Hệ số B khi tải trọng — tập trung ở giữa nhịp": "δ - 1",
+      "Hệ số B khi tải trọng — phân bố đều": "μ - 1",
+      "Hệ số B khi tải trọng — gây uốn thuần tuý": "β"
+    },
+    {
+      "_row_id": 3,
+      "Sơ đồ tiết diện và vị trí đặt tải trọng": "$Hình ảnh bạn cung cấp là các ký hiệu hình học (ký hiệu dung sai độ vuông góc), không phải là một công thức toán học có chứa ký tự, số hiệu hay đơn vị đo lường. Do đó, không thể chuyển đổi thành mã LaTeX theo yêu cầu của bạn.$",
+      "Hệ số B khi tải trọng — tập trung ở giữa nhịp": "1 - δ",
+      "Hệ số B khi tải trọng — phân bố đều": "1 - μ",
+      "Hệ số B khi tải trọng — gây uốn thuần tuý": "-β"
+    },
+    {
+      "_row_id": 4,
+      "Sơ đồ tiết diện và vị trí đặt tải trọng": "$Hình ảnh bạn cung cấp là sơ đồ minh họa kỹ thuật (hình vẽ), không chứa công thức toán học hay ký hiệu cần chuyển đổi sang LaTeX.$",
+      "Hệ số B khi tải trọng — tập trung ở giữa nhịp": "-δ",
+      "Hệ số B khi tải trọng — phân bố đều": "-μ",
+      "Hệ số B khi tải trọng — gây uốn thuần tuý": "-β"
+    }
+  ],
+  "footnotes": []
+}

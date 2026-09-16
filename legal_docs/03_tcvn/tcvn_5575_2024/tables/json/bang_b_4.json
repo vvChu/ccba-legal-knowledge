@@ -1,0 +1,94 @@
+{
+  "table_id": "bang_b_4",
+  "table_number": "B.4",
+  "table_title": "Bảng B.4 - Độ dai va đập của thép kết cấu công dụng chung theo TCVN 9986-2:2013 (ISO 630-2:2011)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Mác",
+    "Chất lượng",
+    "Nhiệt độ, $^{o}$C",
+    "Năng lượng va đập nhỏ nhất, J, cho chiều dày danh nghĩa, mm 1) , 2) — ≤ 150"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mác": "S235",
+      "Chất lượng": "B",
+      "Nhiệt độ, $^{o}$C": "20",
+      "Năng lượng va đập nhỏ nhất, J, cho chiều dày danh nghĩa, mm 1) , 2) — ≤ 150": "27"
+    },
+    {
+      "_row_id": 2,
+      "Mác": "S235",
+      "Chất lượng": "C",
+      "Nhiệt độ, $^{o}$C": "0",
+      "Năng lượng va đập nhỏ nhất, J, cho chiều dày danh nghĩa, mm 1) , 2) — ≤ 150": "27"
+    },
+    {
+      "_row_id": 3,
+      "Mác": "S235",
+      "Chất lượng": "D",
+      "Nhiệt độ, $^{o}$C": "-20",
+      "Năng lượng va đập nhỏ nhất, J, cho chiều dày danh nghĩa, mm 1) , 2) — ≤ 150": "27"
+    },
+    {
+      "_row_id": 4,
+      "Mác": "S275",
+      "Chất lượng": "B",
+      "Nhiệt độ, $^{o}$C": "20",
+      "Năng lượng va đập nhỏ nhất, J, cho chiều dày danh nghĩa, mm 1) , 2) — ≤ 150": "27"
+    },
+    {
+      "_row_id": 5,
+      "Mác": "S275",
+      "Chất lượng": "C",
+      "Nhiệt độ, $^{o}$C": "0",
+      "Năng lượng va đập nhỏ nhất, J, cho chiều dày danh nghĩa, mm 1) , 2) — ≤ 150": "27"
+    },
+    {
+      "_row_id": 6,
+      "Mác": "S275",
+      "Chất lượng": "D",
+      "Nhiệt độ, $^{o}$C": "-20",
+      "Năng lượng va đập nhỏ nhất, J, cho chiều dày danh nghĩa, mm 1) , 2) — ≤ 150": "27"
+    },
+    {
+      "_row_id": 7,
+      "Mác": "S355",
+      "Chất lượng": "B",
+      "Nhiệt độ, $^{o}$C": "20",
+      "Năng lượng va đập nhỏ nhất, J, cho chiều dày danh nghĩa, mm 1) , 2) — ≤ 150": "27"
+    },
+    {
+      "_row_id": 8,
+      "Mác": "S355",
+      "Chất lượng": "C",
+      "Nhiệt độ, $^{o}$C": "0",
+      "Năng lượng va đập nhỏ nhất, J, cho chiều dày danh nghĩa, mm 1) , 2) — ≤ 150": "27"
+    },
+    {
+      "_row_id": 9,
+      "Mác": "S355",
+      "Chất lượng": "D",
+      "Nhiệt độ, $^{o}$C": "-20",
+      "Năng lượng va đập nhỏ nhất, J, cho chiều dày danh nghĩa, mm 1) , 2) — ≤ 150": "27"
+    },
+    {
+      "_row_id": 10,
+      "Mác": "S450 3)",
+      "Chất lượng": "C",
+      "Nhiệt độ, $^{o}$C": "0",
+      "Năng lượng va đập nhỏ nhất, J, cho chiều dày danh nghĩa, mm 1) , 2) — ≤ 150": "27"
+    },
+    {
+      "_row_id": 11,
+      "Mác": "**1) Đối với chiều dày danh nghĩa nhỏ hơn 12 mm, xem TCVN 9986-2:2013 (ISO 630-2:2011).\n2) Đối với thép hình có chiều dày danh nghĩa lớn hơn 100 mm, các giá trị này phải được thỏa thuận.\n3) Chỉ áp dụng cho sản phẩm dài.**",
+      "Chất lượng": "",
+      "Nhiệt độ, $^{o}$C": "",
+      "Năng lượng va đập nhỏ nhất, J, cho chiều dày danh nghĩa, mm 1) , 2) — ≤ 150": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Để có thông tin đầy đủ, xem TCVN 9986-2:2013 (ISO 630-2:2011)."
+  }
+}

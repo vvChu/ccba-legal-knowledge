@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_h_1",
+  "table_number": "H.1",
+  "table_title": "Bảng H.1 - Hệ số phụ thuộc vào chiều rộng của cánh cửa đi",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại công trình",
+    "Hệ số n tương ứng với chiều rộng B, m — 0,6",
+    "Hệ số n tương ứng với chiều rộng B, m — 0,9",
+    "Hệ số n tương ứng với chiều rộng B, m — 1,2",
+    "Hệ số n tương ứng với chiều rộng B, m — 1,8",
+    "Hệ số n tương ứng với chiều rộng B, m — 2,4"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại công trình": "Nhà ở",
+      "Hệ số n tương ứng với chiều rộng B, m — 0,6": "1,00",
+      "Hệ số n tương ứng với chiều rộng B, m — 0,9": "0,82",
+      "Hệ số n tương ứng với chiều rộng B, m — 1,2": "0,70",
+      "Hệ số n tương ứng với chiều rộng B, m — 1,8": "0,51",
+      "Hệ số n tương ứng với chiều rộng B, m — 2,4": "0,41"
+    },
+    {
+      "_row_id": 2,
+      "Loại công trình": "Nhà công cộng",
+      "Hệ số n tương ứng với chiều rộng B, m — 0,6": "1,05",
+      "Hệ số n tương ứng với chiều rộng B, m — 0,9": "0,91",
+      "Hệ số n tương ứng với chiều rộng B, m — 1,2": "0,80",
+      "Hệ số n tương ứng với chiều rộng B, m — 1,8": "0,62",
+      "Hệ số n tương ứng với chiều rộng B, m — 2,4": "0,50"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Với các giá trị trung gian của chiều rộng cánh cửa đi thì hệ số n được xác định bằng nội suy tuyến tính."
+  }
+}

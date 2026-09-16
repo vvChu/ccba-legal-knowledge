@@ -1,0 +1,22 @@
+{
+  "table_id": "bang_08",
+  "table_number": "8",
+  "table_title": "Bảng 8 - Hệ số điều kiện làm việc $_{c}$ của đất nền đối với cọc xoắn vít",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại đất",
+    "Hệ số điều kiện làm việc $_{c}$ khi tải trọng — nén",
+    "Hệ số điều kiện làm việc $_{c}$ khi tải trọng — kéo",
+    "Hệ số điều kiện làm việc $_{c}$ khi tải trọng — đổi dấu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đất": "1. Sét và sét pha\ncứng, nửa cứng và dẻo cứng\ndẻo mềm\ndẻo chảy\n2. Cát và cát pha\ncát ít ẩm và cát pha cứng\ncát ẩm và cát pha dẻo\ncát no nước và cát pha chảy",
+      "Hệ số điều kiện làm việc $_{c}$ khi tải trọng — nén": "0,8\n0,8\n0,7\n0,8\n0,7\n0,6",
+      "Hệ số điều kiện làm việc $_{c}$ khi tải trọng — kéo": "0,7\n0,7\n0,6\n0,7\n0,6\n0,5",
+      "Hệ số điều kiện làm việc $_{c}$ khi tải trọng — đổi dấu": "0,7\n0,6\n0,4\n0,5\n0,4\n0,3"
+    }
+  ],
+  "footnotes": []
+}

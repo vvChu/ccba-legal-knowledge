@@ -1,0 +1,41 @@
+{
+  "table_id": "bang_43",
+  "table_number": "43",
+  "table_title": "Bảng 43 - Khoảng cách bố trí bu lông",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Khoảng cách và giới hạn chảy của các cấu kiện được liên kết",
+    "Khoảng cách bố trí bu lông"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Khoảng cách và giới hạn chảy của các cấu kiện được liên kết": "1. Khoảng cách giữa tâm các lỗ bu lông theo phương bất kỳ:\na) Khoảng cách tối thiểu:\nkhi $f_{y}$< 540 MPa\nkhi $f_{y}$ ≥ 540 MPa\nb) Khoảng cách tối đa trong các hàng bu lông ngoài cùng khi không có thép góc viền mép, khi chịu kéo và chịu nén\nc) Khoảng cách tối đa trong các hàng bu lông giữa, cũng như trong các hàng bu lông ngoài cùng khi có thép góc viền mép:\nkhi chịu kéo\nkhi chịu nén",
+      "Khoảng cách bố trí bu lông": "2,5d\n3d\nmin (8d; 12t)\nmin (16d; 24t)\nmin (12d; 18t)"
+    },
+    {
+      "_row_id": 2,
+      "Khoảng cách và giới hạn chảy của các cấu kiện được liên kết": "2. Khoảng cách giữa tâm các lỗ bu lông đến mép cấu kiện:\na) Khoảng cách tối thiểu dọc theo phương lực tác dụng:\nkhi $f_{y}$ < 540 MPa\nkhi $f_{y}$ ≥ 540 MPa\nb) Khoảng cách tối thiểu theo phương vuông góc với lực tác dụng:\nkhi mép cắt\nkhi mép cán\nc) Khoảng cách tối đa\nd) Khoảng cách tối thiểu trong liên kết ma sát khi vát mép bất kỳ và theo phương bất kỳ so với phương lực tác dụng",
+      "Khoảng cách bố trí bu lông": "2d\n2,5d\n1,5d\n1,2d\nmin (4d; 8t)\n1,3d"
+    },
+    {
+      "_row_id": 3,
+      "Khoảng cách và giới hạn chảy của các cấu kiện được liên kết": "3. Khoảng cách tối thiểu giữa tâm các lỗ bu lông dọc theo phương lực tác dụng đối với bu lông được bố trí so le",
+      "Khoảng cách bố trí bu lông": "u + 1,5d"
+    },
+    {
+      "_row_id": 4,
+      "Khoảng cách và giới hạn chảy của các cấu kiện được liên kết": "**Các ký hiệu trong Bảng 43:\nd  là đường kính lỗ bu lông;\nt  là chiều dày cấu kiện bên ngoài mỏng nhất;\nu  là khoảng cách đo ngang phương lực tác dụng giữa các hàng lỗ bu lông.**",
+      "Khoảng cách bố trí bu lông": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2. Trong liên kết một bu lông của các thanh bụng (thanh xiên và thanh ngang), trừ các thanh chịu kéo, khi chiều dày thanh đến 6 mm làm bằng thép có giới hạn chảy đến 375 MPa, thì khoảng cách từ mép cấu kiện đến tâm lỗ bu lông dọc theo phương lực tác dụng lấy bằng 1,35d (không kể sai số giảm khi chế tạo cấu kiện, sai số này cần phải được ghi trong hồ sơ thiết kế).",
+    "fn_2": "CHÚ THÍCH 3: Khi bố trí bu lông so le với khoảng cách không nhỏ hơn giá trị nêu ở điểm 3, tiết diện cấu kiện $A_{n}$ cần được xác định có kể đến sự giảm yếu bởi lỗ bu lông nằm trong một tiết diện vuông góc với phương lực tác dụng (không theo đường dích dắc).",
+    "fn_3": "CHÚ THÍCH 4: Trong các cấu kiện được liên kết làm bằng thép có giới hạn chảy đến 540 MPa cho phép giảm khoảng cách dọc theo lực tác dụng tính từ tâm bu lông đến mép cấu kiện và giảm khoảng cách giữa tâm các bu lông trong trường hợp tính toán có kể đến các hệ số điều kiện làm việc tương ứng của liên kết theo các yêu cầu nêu trong 14.2.9.",
+    "fn_4": "CHÚ THÍCH 2. Trong liên kết một bu lông của các thanh bụng (thanh xiên và thanh ngang), trừ các thanh chịu kéo, khi chiều dày thanh đến 6 mm làm bằng thép có giới hạn chảy đến 375 MPa, thì khoảng cách từ mép cấu kiện đến tâm lỗ bu lông dọc theo phương lực tác dụng lấy bằng 1,35d (không kể sai số giảm khi chế tạo cấu kiện, sai số này cần phải được ghi trong hồ sơ thiết kế).",
+    "fn_5": "CHÚ THÍCH 3: Khi bố trí bu lông so le với khoảng cách không nhỏ hơn giá trị nêu ở điểm 3, tiết diện cấu kiện $A_{n}$ cần được xác định có kể đến sự giảm yếu bởi lỗ bu lông nằm trong một tiết diện vuông góc với phương lực tác dụng (không theo đường dích dắc).",
+    "fn_6": "CHÚ THÍCH 4: Trong các cấu kiện được liên kết làm bằng thép có giới hạn chảy đến 540 MPa cho phép giảm khoảng cách dọc theo lực tác dụng tính từ tâm bu lông đến mép cấu kiện và giảm khoảng cách giữa tâm các bu lông trong trường hợp tính toán có kể đến các hệ số điều kiện làm việc tương ứng của liên kết theo các yêu cầu nêu trong 14.2.9.",
+    "fn_7": "**CHÚ THÍCH:** Đường kính lỗ bu lông lấy bằng d = $d_{b}$ đối với bu lông cấp chính xác A; bằng d = $d_{b}$+ 1 mm đối với bu lông cấp chính xác B trong kết cấu cột đường dây tải điện trên không, cột thiết bị phân phối điện ngoài trời; bằng $d_{b}$ + (1; 2 hoặc 3 mm) trong các trường hợp khác, trong đó $d_{b}$ là đường kính bu lông."
+  }
+}

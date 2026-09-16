@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_15",
+  "table_number": "15",
+  "table_title": "Bảng 15 - Cường độ sức kháng $q_{b}$ và $f_{i}$, của đất đối với cọc khoan nhồi theo $q_{C}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Cường độ sức kháng của đất ở mũi xuyên $q_{C}$ kPa",
+    "Cường độ sức kháng của đất dưới mũi cọc $q_{b}$ kPa — đất cát",
+    "Cường độ sức kháng của đất dưới mũi cọc $q_{b}$ kPa — đất dính",
+    "Cường độ sức kháng trung bình của đất trên thân cọc $f_{i}$ kPa — đất cát",
+    "Cường độ sức kháng trung bình của đất trên thân cọc $f_{i}$ kPa — đất dính"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cường độ sức kháng của đất ở mũi xuyên $q_{C}$ kPa": "1 000\n2 500\n5 000\n7 500\n10 000\n12 000\n15 000\n20 000",
+      "Cường độ sức kháng của đất dưới mũi cọc $q_{b}$ kPa — đất cát": "-\n-\n900\n1100\n1300\n1400\n1500\n2000",
+      "Cường độ sức kháng của đất dưới mũi cọc $q_{b}$ kPa — đất dính": "200\n580\n900\n1200\n1400\n-\n-\n-",
+      "Cường độ sức kháng trung bình của đất trên thân cọc $f_{i}$ kPa — đất cát": "-\n-\n30\n40\n50\n60\n70\n70",
+      "Cường độ sức kháng trung bình của đất trên thân cọc $f_{i}$ kPa — đất dính": "15\n25\n35\n45\n60\n-\n-\n-"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH 1:** Giá trị $q_{b}$ và $f_{i}$ cho các giá trị trung gian $q_{c}$ xác định bằng nội suy.",
+    "fn_2": "**CHÚ THÍCH 2:** Giá trị $q_{b}$ và $f_{i}$ cho trong bảng dùng cho cọc khoan nhồi đường kính từ 600 mm đến 1200 mm, hạ vào đất tối thiểu 5 m. Khi có khả năng xuất hiện ma sát âm trên thân cọc, giá trị $f_{i}$ cho các lớp đất bị lún lấy dấu “âm“.",
+    "fn_3": "**CHÚ THÍCH 3:** Với các giá trị của $q_{b}$ và $f_{i}$ trong bảng, độ lún của cọc tương ứng với giá trị $R_{c,u}$ không vượt quá 0,03d."
+  }
+}

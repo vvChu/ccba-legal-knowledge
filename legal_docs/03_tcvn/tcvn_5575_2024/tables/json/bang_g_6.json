@@ -1,0 +1,15 @@
+{
+  "table_id": "bang_g_6",
+  "table_number": "G.6",
+  "table_title": "Bảng G.6 - Hệ số chiều dài tính toán μ của cột tiết diện không đổi chịu tải trọng không đều",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Sơ đồ tính của cột — Hệ số μ",
+    "$N_{\\max}$ — 1,12",
+    "$N_{\\max}$ — 0,725",
+    "$L, \\ N_{\\text{max}}$ — 0,60",
+    "$N_{\\max}$ — 0,56"
+  ],
+  "rows": [],
+  "footnotes": []
+}

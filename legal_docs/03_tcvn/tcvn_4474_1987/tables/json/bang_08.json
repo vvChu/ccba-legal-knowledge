@@ -1,0 +1,26 @@
+{
+  "table_id": "bang_08",
+  "table_number": "8",
+  "table_title": "Bảng 8",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Đường kính ống đứng (mm)",
+    "Lưu lượng nước thải cho phép (1/s) — 90°",
+    "Lưu lượng nước thải cho phép (1/s) — 60°",
+    "Lưu lượng nước thải cho phép (1/s) — 45°"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đường kính ống đứng (mm)": "50 (75)\n100\n125\n150",
+      "Lưu lượng nước thải cho phép (1/s) — 90°": "0,65\n3,80\n6,50\n10,10",
+      "Lưu lượng nước thải cho phép (1/s) — 60°": "0,81\n4,75\n8,15\n12,60",
+      "Lưu lượng nước thải cho phép (1/s) — 45°": "1,30\n7,50\n13,00\n21,00"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH 1:** Đường kính ống đứng cần chọn không nhỏ hơn đường kính lớn nhất của ống nhánh nối với ống",
+    "fn_2": "**CHÚ THÍCH 2:** đứng;",
+    "fn_3": "**CHÚ THÍCH 2:** Khi đặt chậu xí đơn ở tầng dưới của nhà nhiều tầng, đường kính ống đứng thông hơi cho phép lấy bằng 50mm;"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "table_id": "bang_g_8",
+  "table_number": "G.8",
+  "table_title": "Bảng G.8 - Các hệ số $C_{m}$ và $C_{n}$ của cột khung",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Sơ đồ tính của khung",
+    "Số công thức tính μ theo Bảng G.7",
+    "Giá trị$C_{m}$ và $C_{n}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Sơ đồ tính của khung": "$Không tìm thấy công thức toán học nào trong hình ảnh này (hình ảnh chỉ chứa sơ đồ kết cấu chịu lực).$",
+      "Số công thức tính μ theo Bảng G.7": "(G.11)",
+      "Giá trị$C_{m}$ và $C_{n}$": "$C_m = \\frac{3EI_1}{l_1^3}$"
+    },
+    {
+      "_row_id": 2,
+      "Sơ đồ tính của khung": "$N, EI, EI_1, L, L_1$",
+      "Số công thức tính μ theo Bảng G.7": "(G.11)",
+      "Giá trị$C_{m}$ và $C_{n}$": "$C_m = \\frac{4EI_1}{L_1}$"
+    },
+    {
+      "_row_id": 3,
+      "Sơ đồ tính của khung": "$N, \\quad EI, \\quad EI_1, \\quad L, \\quad L_1$",
+      "Số công thức tính μ theo Bảng G.7": "(G.10)",
+      "Giá trị$C_{m}$ và $C_{n}$": "$C_m = \\frac{3EI_1}{L_1}$"
+    },
+    {
+      "_row_id": 4,
+      "Sơ đồ tính của khung": "$Hình ảnh được cung cấp chỉ chứa sơ đồ kỹ thuật (sơ đồ kết cấu cột chịu lực), không chứa công thức toán học hay văn bản nào. Do đó không thể chuyển đổi thành mã LaTeX.$",
+      "Số công thức tính μ theo Bảng G.7": "(G.6)",
+      "Giá trị$C_{m}$ và $C_{n}$": "$C_{m}$ = 0\n$C_n = \\frac{3EI_1}{L_1^3}$"
+    },
+    {
+      "_row_id": 5,
+      "Sơ đồ tính của khung": "",
+      "Số công thức tính μ theo Bảng G.7": "(G.9)",
+      "Giá trị$C_{m}$ và $C_{n}$": "$C_m = \\frac{3EI_1}{L_1}$"
+    },
+    {
+      "_row_id": 6,
+      "Sơ đồ tính của khung": "$Xin lỗi, hình ảnh bạn cung cấp là một sơ đồ kết cấu kỹ thuật (khung phẳng chịu lực) chứ không chứa công thức toán học. Tôi không thể chuyển đổi hình ảnh này sang mã LaTeX KaTeX được.$",
+      "Số công thức tính μ theo Bảng G.7": "(G.9)",
+      "Giá trị$C_{m}$ và $C_{n}$": "$C_m = \\frac{4EI_1}{L_1}$"
+    },
+    {
+      "_row_id": 7,
+      "Sơ đồ tính của khung": "$\\text{Hình vẽ minh họa kết cấu}$",
+      "Số công thức tính μ theo Bảng G.7": "(G.9)",
+      "Giá trị$C_{m}$ và $C_{n}$": "$C_m = \\frac{3 E I_1 (L_1 + L_2)}{L_1 L_2}$"
+    },
+    {
+      "_row_id": 8,
+      "Sơ đồ tính của khung": "",
+      "Số công thức tính μ theo Bảng G.7": "(G.8)",
+      "Giá trị$C_{m}$ và $C_{n}$": "$C_m = \\frac{3EI_1(L_1 + L_2)}{L_1 L_2}$"
+    },
+    {
+      "_row_id": 9,
+      "Sơ đồ tính của khung": "$Hình ảnh này là một sơ đồ kết cấu kỹ thuật (hình vẽ cơ học/kết cấu), không phải là một công thức toán học hay văn bản chứa ký hiệu LaTeX. Do đó không thể chuyển đổi thành mã KaTeX.$",
+      "Số công thức tính μ theo Bảng G.7": "(G.11)",
+      "Giá trị$C_{m}$ và $C_{n}$": "$C_m = \\frac{3EI_1(4L_1 + 3L_2)}{L_1 L_2}$"
+    },
+    {
+      "_row_id": 10,
+      "Sơ đồ tính của khung": "$\\text{Hình vẽ kỹ thuật cơ học kết cấu}$",
+      "Số công thức tính μ theo Bảng G.7": "(G.10)",
+      "Giá trị$C_{m}$ và $C_{n}$": "$C_m = \\frac{3EI_1(L_1 + L_2)}{L_1 L_2}$\n$C_{m1} = \\frac{3EI_2(L_1 + L_2)}{L_1 L_2}$"
+    }
+  ],
+  "footnotes": []
+}

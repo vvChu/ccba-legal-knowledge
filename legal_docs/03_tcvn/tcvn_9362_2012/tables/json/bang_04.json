@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_04",
+  "table_number": "4",
+  "table_title": "Bảng 4 - Phân loại đất theo độ no nước",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên đất hòn lớn và đất cát theo độ no nước",
+    "Độ no nước, G"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên đất hòn lớn và đất cát theo độ no nước": "Ít ẩm",
+      "Độ no nước, G": "0 < G ≤ 0,5"
+    },
+    {
+      "_row_id": 2,
+      "Tên đất hòn lớn và đất cát theo độ no nước": "Ẩm",
+      "Độ no nước, G": "0,5 < G ≤ 0,8"
+    },
+    {
+      "_row_id": 3,
+      "Tên đất hòn lớn và đất cát theo độ no nước": "No nước",
+      "Độ no nước, G": "0,8 < G ≤ 1"
+    }
+  ],
+  "footnotes": []
+}

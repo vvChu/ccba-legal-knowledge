@@ -1,0 +1,94 @@
+{
+  "table_id": "bang_19",
+  "table_number": "19",
+  "table_title": "Bảng 19 - Hệ số α",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "$\\tau / f_v$",
+    "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,2",
+    "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,5",
+    "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,0",
+    "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,5",
+    "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,0",
+    "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,5",
+    "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,0",
+    "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,5"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "$\\tau / f_v$": "0,0",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,2": "0,240",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,5": "0,239",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,0": "0,235",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,5": "0,226",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,0": "0,213",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,5": "0,195",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,0": "0,173",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,5": "0,153"
+    },
+    {
+      "_row_id": 2,
+      "$\\tau / f_v$": "0,5",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,2": "0,203",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,5": "0,202",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,0": "0,197",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,5": "0,189",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,0": "0,176",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,5": "0,158",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,0": "0,136",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,5": "0,116"
+    },
+    {
+      "_row_id": 3,
+      "$\\tau / f_v$": "0,6",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,2": "0,186",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,5": "0,185",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,0": "0,181",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,5": "0,172",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,0": "0,159",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,5": "0,141",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,0": "0,119",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,5": "0,099"
+    },
+    {
+      "_row_id": 4,
+      "$\\tau / f_v$": "0,7",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,2": "0,167",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,5": "0,166",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,0": "0,162",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,5": "0,152",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,0": "0,140",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,5": "0,122",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,0": "0,100",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,5": "0,080"
+    },
+    {
+      "_row_id": 5,
+      "$\\tau / f_v$": "0,8",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,2": "0,144",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,5": "0,143",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,0": "0,139",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,5": "0,130",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,0": "0,117",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,5": "0,099",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,0": "0,077",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,5": "0,057"
+    },
+    {
+      "_row_id": 6,
+      "$\\tau / f_v$": "0,9",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,2": "0,119",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 2,5": "0,118",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,0": "0,114",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 3,5": "0,105",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,0": "0,092",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 4,5": "0,074",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,0": "0,052",
+      "Giá trị α khi $\\overline{\\lambda}_w$ bằng — 5,5": "0,032"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Với các giá trị trung gian của $\\tau / f_v$ và$\\bar{\\lambda}_w$ thì giá trị α được xác định bằng nội suy tuyến tính."
+  }
+}

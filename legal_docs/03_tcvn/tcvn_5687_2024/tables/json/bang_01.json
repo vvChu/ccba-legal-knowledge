@@ -1,0 +1,45 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Cấp độ kín của đường ống gió",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Cấp độ kín",
+    "Áp suất tĩnh, Pa — dương",
+    "Áp suất tĩnh, Pa — âm",
+    "Lượng không khí rò lọt cho phép,$m^{3}$ · $s^{-1}$ · $m^{-2}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp độ kín": "A (áp suất thấp)",
+      "Áp suất tĩnh, Pa — dương": "≤ 500",
+      "Áp suất tĩnh, Pa — âm": "≤ 500",
+      "Lượng không khí rò lọt cho phép,$m^{3}$ · $s^{-1}$ · $m^{-2}$": "0,027 · $p_{t}^{0,65}$ · 10$^{-3}$"
+    },
+    {
+      "_row_id": 2,
+      "Cấp độ kín": "B (áp suất trung bình)",
+      "Áp suất tĩnh, Pa — dương": "≤ 1000",
+      "Áp suất tĩnh, Pa — âm": "≤ 750",
+      "Lượng không khí rò lọt cho phép,$m^{3}$ · $s^{-1}$ · $m^{-2}$": "0,009 · $p_{t}^{0,65}$ · 10$^{-3}$"
+    },
+    {
+      "_row_id": 3,
+      "Cấp độ kín": "C (áp suất cao)",
+      "Áp suất tĩnh, Pa — dương": "≤ 2000",
+      "Áp suất tĩnh, Pa — âm": "≤ 750",
+      "Lượng không khí rò lọt cho phép,$m^{3}$ · $s^{-1}$ · $m^{-2}$": "0,003 · $p_{t}^{0,65}$ · 10$^{-3}$"
+    },
+    {
+      "_row_id": 4,
+      "Cấp độ kín": "D (áp suất cao)",
+      "Áp suất tĩnh, Pa — dương": "≤ 2000",
+      "Áp suất tĩnh, Pa — âm": "≤ 750",
+      "Lượng không khí rò lọt cho phép,$m^{3}$ · $s^{-1}$ · $m^{-2}$": "0,001 · $p_{t}^{0,65}$ · 10$^{-3}$"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:**\n\n&nbsp;&nbsp;\\- Cấp độ kín A áp dụng cho các loại thiết bị thông gió.\n\n&nbsp;&nbsp;\\- Cấp độ kín B áp dụng cho đường ống gió.\n\n&nbsp;&nbsp;\\- Cấp độ kín C áp dụng cho đường ống gió áp suất cao.\n\n&nbsp;&nbsp;\\- Cấp độ kín D áp dụng cho đường ống gió có mục đích đặc biệt, dành cho tiêu chuẩn vệ sinh và hiệu quả năng lượng cao hơn."
+  }
+}

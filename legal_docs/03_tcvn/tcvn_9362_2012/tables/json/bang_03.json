@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Phân loại đất theo mức độ phong hóa",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên đất hòn lớn theo mức độ phong hóa",
+    "Hệ số phong hóa $K_{phd}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên đất hòn lớn theo mức độ phong hóa": "Không phong hóa",
+      "Hệ số phong hóa $K_{phd}$": "0 < $K_{phd}$ ≤ 0,5"
+    },
+    {
+      "_row_id": 2,
+      "Tên đất hòn lớn theo mức độ phong hóa": "Phong hóa yếu",
+      "Hệ số phong hóa $K_{phd}$": "0,5 < $K_{phd}$ ≤ 0,75"
+    },
+    {
+      "_row_id": 3,
+      "Tên đất hòn lớn theo mức độ phong hóa": "Phong hóa mạnh",
+      "Hệ số phong hóa $K_{phd}$": "0,75 < $K_{phd}$ ≤ 1"
+    }
+  ],
+  "footnotes": []
+}

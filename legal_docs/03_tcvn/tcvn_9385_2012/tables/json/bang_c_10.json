@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_c_10",
+  "table_number": "C.10",
+  "table_title": "Bảng C.10 - Loại vị trí C (trục)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Mức độ thử",
+    "Điện áp (kV)",
+    "Dòng (A)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mức độ thử": "Thấp",
+      "Điện áp (kV)": "6",
+      "Dòng (A)": "3"
+    },
+    {
+      "_row_id": 2,
+      "Mức độ thử": "Trung bình",
+      "Điện áp (kV)": "10",
+      "Dòng (A)": "5"
+    },
+    {
+      "_row_id": 3,
+      "Mức độ thử": "Cao",
+      "Điện áp (kV)": "20",
+      "Dòng (A)": "10"
+    }
+  ],
+  "footnotes": []
+}

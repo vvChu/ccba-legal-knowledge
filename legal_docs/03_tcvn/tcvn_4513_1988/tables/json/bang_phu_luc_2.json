@@ -1,0 +1,74 @@
+{
+  "table_id": "bang_phu_luc_2",
+  "table_number": "PL2",
+  "table_title": "Bảng Phụ lục 2",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Số đương lượng",
+    "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 100 — Khi hệ số dùng nước không đều (m) — 2,2",
+    "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 125 — Khi hệ số dùng nước không đều (m) — 2,16",
+    "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 150 — Khi hệ số dùng nước không đều (m) — 2,15",
+    "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 200 — Khi hệ số dùng nước không đều (m) — 2,14",
+    "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 250 — Khi hệ số dùng nước không đều (m) — 2,05",
+    "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 300 — Khi hệ số dùng nước không đều (m) — 2",
+    "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 400 — Khi hệ số dùng nước không đều (m) — 1,85"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Số đương lượng": "1",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 100 — Khi hệ số dùng nước không đều (m) — 2,2": "2",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 125 — Khi hệ số dùng nước không đều (m) — 2,16": "3",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 150 — Khi hệ số dùng nước không đều (m) — 2,15": "4",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 200 — Khi hệ số dùng nước không đều (m) — 2,14": "5",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 250 — Khi hệ số dùng nước không đều (m) — 2,05": "6",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 300 — Khi hệ số dùng nước không đều (m) — 2": "7",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 400 — Khi hệ số dùng nước không đều (m) — 1,85": "8"
+    },
+    {
+      "_row_id": 2,
+      "Số đương lượng": "2\n3\n4\n5\n6\n7\n8\n9\n10\n12\n14\n16\n18\n20\n25\n30\n35\n40\n45",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 100 — Khi hệ số dùng nước không đều (m) — 2,2": "0,28\n0,34\n0,37\n0,41\n0,46\n0,50\n0,53\n0,56\n0,57\n0,64\n0,70\n0,74\n0,78\n0,82\n0,91\n1,00\n1,06\n1,15\n1,22",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 125 — Khi hệ số dùng nước không đều (m) — 2,16": "0,28\n0,34\n0,39\n0,43\n0,47\n0,50\n0,54\n0,57\n0,60\n0,66\n0,72\n0,75\n0,80\n0,84\n0,93\n1,02\n1,11\n1,19\n1,25",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 150 — Khi hệ số dùng nước không đều (m) — 2,15": "0,28\n0,34\n0,39\n0,43\n0,48\n0,50\n0,55\n0,58\n0,61\n0,66\n0,73\n0,76\n0,81\n0,85\n0,94\n1,02\n1,12\n1,19\n1,27",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 200 — Khi hệ số dùng nước không đều (m) — 2,14": "0,28\n0,34\n0,39\n0,43\n0,48\n0,50\n0,55\n0,58\n0,63\n0,66\n0,74\n0,76\n0,81\n0,85\n0,95\n1,04\n1,12\n1,20\n1,28",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 250 — Khi hệ số dùng nước không đều (m) — 2,05": "0,28\n0,34\n0,40\n0,43\n0,49\n0,53\n0,57\n0,60\n0,64\n0,70\n0,77\n0,81\n0,86\n0,90\n1,01\n1,11\n1,12\n1,19\n1,37",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 300 — Khi hệ số dùng nước không đều (m) — 2": "0,28\n0,35\n0,41\n0,46\n0,50\n0,54\n0,59\n0,62\n0,65\n0,71\n0,78\n0,83\n0,89\n0,93\n1,05\n1,15\n1,25\n1,43\n1,43",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 400 — Khi hệ số dùng nước không đều (m) — 1,85": "0,29\n0,37\n0,44\n0,49\n0,54\n0,59\n0,63\n0,67\n0,71\n0,78\n0,86\n0,92\n0,99\n1,04\n1,18\n1,32\n1,36\n1,38\n1,64"
+    },
+    {
+      "_row_id": 3,
+      "Số đương lượng": "50\n60\n70\n80\n90\n100\n120\n140\n160\n180\n200\n220\n240",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 100 — Khi hệ số dùng nước không đều (m) — 2,2": "1,28\n1,50\n1,50\n1,61\n1,70\n1,82\n2,0\n2,21\n2,33\n2,47\n2,63\n2,77\n2,91",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 125 — Khi hệ số dùng nước không đều (m) — 2,16": "1,32\n1,46\n1,57\n1,68\n1,79\n1,88\n2,06\n2,29\n2,43\n2,56\n2,74\n2,86\n3,02",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 150 — Khi hệ số dùng nước không đều (m) — 2,15": "1,33\n1,46\n1,58\n1,70\n1,79\n1,91\n2,09\n2,30\n2,44\n2,58\n2,76\n2,90\n3,06",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 200 — Khi hệ số dùng nước không đều (m) — 2,14": "1,34\n1,47\n1,60\n1,71\n1,81\n1,92\n2,12\n2,32\n2,48\n2,62\n2,78\n2,94\n3,06",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 250 — Khi hệ số dùng nước không đều (m) — 2,05": "1,44\n1,58\n1,73\n1,86\n1,98\n2,10\n2,30\n2,51\n2,70\n2,84\n3,04\n3,22\n3,38",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 300 — Khi hệ số dùng nước không đều (m) — 2": "1,52\n1,67\n1,81\n1,95\n2,07\n2,20\n2,43\n2,65\n2,85\n3,00\n3,23\n3,41\n3,58",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 400 — Khi hệ số dùng nước không đều (m) — 1,85": "1,75\n1,96\n2,12\n2,24\n2,43\n2,62\n2,88\n3,17\n3,42\n3,64\n3,89\n4,08\n4,34"
+    },
+    {
+      "_row_id": 4,
+      "Số đương lượng": "260\n280\n300\n320\n340\n360\n380\n400\n430\n500\n550\n600\n650\n700\n750\n800\n850\n900\n950\n1000\n1100\n1200\n1300\n1400\n1500\n1600",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 100 — Khi hệ số dùng nước không đều (m) — 2,2": "3,03\n3,15\n3,26\n3,74\n3,87\n3,99\n4,12\n4,25\n4,63\n4,93\n5,73\n6,08\n6,46\n6,76\n7,07\n7,40\n8,58\n8,93\n9,25\n9,64\n10,20\n11,02\n13,00\n13,80\n14,54\n15,32",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 125 — Khi hệ số dùng nước không đều (m) — 2,16": "3,14\n3,28\n3,40\n3,87\n3,99\n4,12\n4,28\n4,42\n4,77\n5,06\n5,92\n6,26\n6,60\n7,00\n7,33\n7,63\n8,81\n9,19\n9,55\n9,92\n10,46\n11,16\n13,32\n14,12\n14,90\n15,69",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 150 — Khi hệ số dùng nước không đều (m) — 2,15": "3,18\n3,33\n3,43\n3,90\n4,02\n4,14\n4,32\n4,44\n4,80\n5,06\n5,94\n6,30\n6,67\n7,03\n7,36\n7,71\n8,87\n9,22\n9,63\n9,96\n10,68\n11,41\n13,40\n14,00\n14,98\n15,78",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 200 — Khi hệ số dùng nước không đều (m) — 2,14": "3,20\n3,34\n3,46\n3,92\n4,06\n4,20\n4,32\n4,48\n4,88\n5,16\n6,02\n6,34\n6,70\n7,06\n7,40\n7,80\n8,96\n9,30\n9,65\n10,04\n10,78\n11,48\n13,46\n14,32\n15,08\n15,88",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 250 — Khi hệ số dùng nước không đều (m) — 2,05": "3,52\n3,70\n3,83\n4,30\n4,46\n4,58\n4,72\n4,94\n5,31\n5,51\n6,32\n6,90\n7,30\n7,70\n8,08\n8,36\n9,63\n9,99\n10,34\n10,64\n11,56\n12,34\n14,36\n15,26\n16,02\n16,91",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 300 — Khi hệ số dùng nước không đều (m) — 2": "3,75\n3,91\n4,07\n4,54\n4,71\n4,88\n5,04\n5,20\n5,59\n5,17\n6,89\n7,30\n7,70\n8,09\n8,48\n8,86\n10,08\n10,50\n10,91\n11,32\n12,14\n12,93\n15,01\n15,83\n16,74\n17,60",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 400 — Khi hệ số dùng nước không đều (m) — 1,85": "4,52\n4,47\n4,93\n5,46\n5,67\n5,88\n6,07\n6,40\n6,73\n7,14\n8,25\n8,68\n9,22\n9,69\n10,10\n10,56\n11,85\n12,28\n12,86\n13,34\n14,83\n15,15\n17,38\n18,20\n19,10\n20,24"
+    },
+    {
+      "_row_id": 5,
+      "Số đương lượng": "1700\n1800\n1900\n2000\n2200\n2400\n2600\n2800\n3000\n3200\n3400\n3600\n3800\n4000\n4200\n4400\n4600\n4800\n5000",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 100 — Khi hệ số dùng nước không đều (m) — 2,2": "16,08\n16,84\n17,58\n18,33\n19,81\n21,28\n22,73\n24,18\n25,61\n27,04\n28,46\n29,87\n31,28\n32,68\n34,07\n35,46\n36,83\n38,22\n39,60",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 125 — Khi hệ số dùng nước không đều (m) — 2,16": "16,46\n17,23\n18,00\n18,75\n20,21\n21,74\n23,22\n24,69\n26,14\n27,39\n29,03\n30,46\n31,86\n33,30\n34,72\n36,12\n37,53\n38,82\n40,32",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 150 — Khi hệ số dùng nước không đều (m) — 2,15": "16,57\n17,34\n18,10\n18,86\n20,37\n21,87\n23,35\n24,82\n26,28\n27,89\n29,18\n30,62\n32,05\n33,47\n34,09\n36,30\n37,71\n39,11\n40,51",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 200 — Khi hệ số dùng nước không đều (m) — 2,14": "16,66\n17,44\n18,21\n18,97\n20,49\n22,00\n23,48\n24,96\n26,43\n29,00\n29,34\n30,78\n32,22\n33,65\n35,06\n36,48\n37,89\n39,30\n40,70",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 250 — Khi hệ số dùng nước không đều (m) — 2,05": "17,73\n18,54\n19,35\n20,15\n21,74\n23,31\n24,86\n26,41\n27,94\n29,46\n30,96\n32,46\n33,95\n35,43\n36,90\n38,38\n39,84\n41,30\n42,75",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 300 — Khi hệ số dùng nước không đều (m) — 2": "18,45\n19,29\n20,12\n20,94\n22,58\n24,20\n25,80\n27,38\n28,95\n30,51\n32,06\n33,60\n35,13\n36,65\n38,16\n39,67\n41,16\n42,66\n44,14",
+      "Lưu lượng nước 1/s khi tiêu chuẩn dùng nước 1/ng.ng.đ — 400 — Khi hệ số dùng nước không đều (m) — 1,85": "21,34\n22,30\n23,24\n24,17\n26,01\n27,83\n29,62\n31,40\n33,15\n34,89\n36,62\n38,32\n40,02\n41,71\n43,38\n45,04\n47,70\n48,34\n49,97"
+    }
+  ],
+  "footnotes": []
+}

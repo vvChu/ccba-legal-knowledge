@@ -1,0 +1,42 @@
+{
+  "table_id": "bang_20",
+  "table_number": "20",
+  "table_title": "Bảng 20 - Mô men quán tính của sườn cứng",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "$h_{1}$/$h_{ef}$",
+    "Mô men quán tính — của sườn cứng ngang, $I_{r}$",
+    "Mô men quán tính — của sườn cứng dọc, $I_{rL}$ — yêu cầu",
+    "Mô men quán tính — của sườn cứng dọc, $I_{rL}$ — giới hạn — tối thiểu",
+    "Mô men quán tính — của sườn cứng dọc, $I_{rL}$ — giới hạn — tối đa"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "$h_{1}$/$h_{ef}$": "0,20",
+      "Mô men quán tính — của sườn cứng ngang, $I_{r}$": "$\\ge 3h_{\\text{ef}}t_{\\text{w}}^3$",
+      "Mô men quán tính — của sườn cứng dọc, $I_{rL}$ — yêu cầu": "$(2.5 - 0.5 a h_{ef}) a^2 t_w^3 / h_{ef}$",
+      "Mô men quán tính — của sườn cứng dọc, $I_{rL}$ — giới hạn — tối thiểu": "$1.5h_{er}t_w^3$",
+      "Mô men quán tính — của sườn cứng dọc, $I_{rL}$ — giới hạn — tối đa": "$7h_{\\text{ef}}t_w^3$"
+    },
+    {
+      "_row_id": 2,
+      "$h_{1}$/$h_{ef}$": "0,25",
+      "Mô men quán tính — của sườn cứng ngang, $I_{r}$": "$\\ge 3h_{\\text{ef}}t_{\\text{w}}^3$",
+      "Mô men quán tính — của sườn cứng dọc, $I_{rL}$ — yêu cầu": "$(1.5 - 0.4 a h_{ef})a^2 t_w^3 / h_{ef}$",
+      "Mô men quán tính — của sườn cứng dọc, $I_{rL}$ — giới hạn — tối thiểu": "$1,5 h_{\\text{ef}} t_w^3$",
+      "Mô men quán tính — của sườn cứng dọc, $I_{rL}$ — giới hạn — tối đa": "$8.5 h_{\\text{ef}} t_w^3$"
+    },
+    {
+      "_row_id": 3,
+      "$h_{1}$/$h_{ef}$": "0,30",
+      "Mô men quán tính — của sườn cứng ngang, $I_{r}$": "$\\ge 3h_{\\text{ef}}t_{\\text{w}}^3$",
+      "Mô men quán tính — của sườn cứng dọc, $I_{rL}$ — yêu cầu": "$1.5 h_{\\text{er}} t_w^3$",
+      "Mô men quán tính — của sườn cứng dọc, $I_{rL}$ — giới hạn — tối thiểu": "-",
+      "Mô men quán tính — của sườn cứng dọc, $I_{rL}$ — giới hạn — tối đa": "-"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Khi tinh $I_{rL}$ thì các giá trị trung gian $h_{1}$/$h_{ef}$ cần được xác định bằng nội suy tuyến tính."
+  }
+}

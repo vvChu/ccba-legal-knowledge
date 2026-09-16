@@ -1,0 +1,36 @@
+{
+  "table_id": "bang_16",
+  "table_number": "16",
+  "table_title": "Bảng 16 - Vận tốc dao động cho phép $V_{a}$ trong đất",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Kết cấu nhà và công trình",
+    "Vận tốc dao động cho phép $V_{a}$ trong đất cm/s — Cát — chặt — Đất dính với chỉ số sệt — $I_{L}$ < 0.5",
+    "Vận tốc dao động cho phép $V_{a}$ trong đất cm/s — Cát — chặt vừa — Đất dính với chỉ số sệt — 0,5 ≤ $I_{L}$ ≤ 0,75",
+    "Vận tốc dao động cho phép $V_{a}$ trong đất cm/s — Cát — rời xốp — Đất dính với chỉ số sệt — $I_{L}$ > 0,75"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Kết cấu nhà và công trình": "Bê tông cốt thép toàn khối và khung thép",
+      "Vận tốc dao động cho phép $V_{a}$ trong đất cm/s — Cát — chặt — Đất dính với chỉ số sệt — $I_{L}$ < 0.5": "4,5",
+      "Vận tốc dao động cho phép $V_{a}$ trong đất cm/s — Cát — chặt vừa — Đất dính với chỉ số sệt — 0,5 ≤ $I_{L}$ ≤ 0,75": "3,0",
+      "Vận tốc dao động cho phép $V_{a}$ trong đất cm/s — Cát — rời xốp — Đất dính với chỉ số sệt — $I_{L}$ > 0,75": "1,0"
+    },
+    {
+      "_row_id": 2,
+      "Kết cấu nhà và công trình": "Kết cấu khung bê tông cốt thép toàn khối",
+      "Vận tốc dao động cho phép $V_{a}$ trong đất cm/s — Cát — chặt — Đất dính với chỉ số sệt — $I_{L}$ < 0.5": "3,0",
+      "Vận tốc dao động cho phép $V_{a}$ trong đất cm/s — Cát — chặt vừa — Đất dính với chỉ số sệt — 0,5 ≤ $I_{L}$ ≤ 0,75": "1,5",
+      "Vận tốc dao động cho phép $V_{a}$ trong đất cm/s — Cát — rời xốp — Đất dính với chỉ số sệt — $I_{L}$ > 0,75": "0,5"
+    },
+    {
+      "_row_id": 3,
+      "Kết cấu nhà và công trình": "Nhà gạch xây và panel",
+      "Vận tốc dao động cho phép $V_{a}$ trong đất cm/s — Cát — chặt — Đất dính với chỉ số sệt — $I_{L}$ < 0.5": "2,0",
+      "Vận tốc dao động cho phép $V_{a}$ trong đất cm/s — Cát — chặt vừa — Đất dính với chỉ số sệt — 0,5 ≤ $I_{L}$ ≤ 0,75": "1,5",
+      "Vận tốc dao động cho phép $V_{a}$ trong đất cm/s — Cát — rời xốp — Đất dính với chỉ số sệt — $I_{L}$ > 0,75": "0,4"
+    }
+  ],
+  "footnotes": []
+}

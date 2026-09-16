@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_c_4",
+  "table_number": "C.4",
+  "table_title": "Bảng C.4 - Hệ số $k_{l}$ và $k_{b}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Hệ số",
+    "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 1,0",
+    "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 1,4",
+    "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 1,8",
+    "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 2,4",
+    "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 3,2",
+    "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 5,0"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Hệ số": "$k_{l}$",
+      "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 1,0": "0,55",
+      "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 1,4": "0,71",
+      "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 1,8": "0,83",
+      "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 2,4": "0,97",
+      "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 3,2": "1,1",
+      "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 5,0": "1,44"
+    },
+    {
+      "_row_id": 2,
+      "Hệ số": "$k_{b}$",
+      "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 1,0": "0,50",
+      "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 1,4": "0,39",
+      "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 1,8": "0,33",
+      "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 2,4": "0,25",
+      "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 3,2": "0,19",
+      "Hệ số $k_{l}$ và $k_{b}$ ứng với tỷ số các cạnh của móng chữ nhật n=l/b bằng — 5,0": "0,13"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Độ nghiêng của móng có đáy đa giác đều được tính toán theo công thức (C.10), trong đó lấy bán kính r = $F/ \\pi$ với F là diện tích đáy móng đa giác."
+  }
+}

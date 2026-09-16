@@ -1,0 +1,53 @@
+{
+  "table_id": "bang_33",
+  "table_number": "33",
+  "table_title": "Bảng 33 - Độ mảnh giới hạn của cấu kiện chịu nén $\\lambda_{u}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Cấu kiện kết cấu",
+    "Giá trị $\\lambda_{u}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấu kiện kết cấu": "1. Thanh cánh, thanh xiên gối tựa và thanh đứng gối tựa truyền phản lực gối tựa của: a) Giàn phẳng; kết cấu lưới thanh không gian và kết cấu không gian rỗng làm bằng thép ống hoặc tổ hợp từ hai thép góc với chiều cao đến 50 m\nb) Kết cấu không gian rỗng làm bằng thép góc đơn, cũng như kết cấu không gian rỗng làm bằng thép ống hoặc tổ hợp từ hai thép góc với chiều cao trên 50 m",
+      "Giá trị $\\lambda_{u}$": "180-60α\n120"
+    },
+    {
+      "_row_id": 2,
+      "Cấu kiện kết cấu": "2. Các thanh (trừ các thanh nêu ở các điểm 1 và 7) của:\na) Giàn phẳng; kết cấu không gian rỗng và kết cấu lưới thanh không gian được hàn từ các thép góc đơn; kết cấu không gian rỗng và kết cấu lưới thanh không gian làm bằng thép ống hoặc tổ hợp từ hai thép góc\nb) Kết cấu không gian rỗng và kết cấu lưới thanh không gian làm bằng thép góc đơn dùng liên kết bu lông",
+      "Giá trị $\\lambda_{u}$": "210-60α\n220-40α"
+    },
+    {
+      "_row_id": 3,
+      "Cấu kiện kết cấu": "3. Thanh cánh trên của giàn không được chống giữ tạm trong quá trình lắp dựng (khi đã lắp dựng xong thì độ mảnh giới hạn lấy theo điểm 1)",
+      "Giá trị $\\lambda_{u}$": "220"
+    },
+    {
+      "_row_id": 4,
+      "Cấu kiện kết cấu": "4. Các cột chính",
+      "Giá trị $\\lambda_{u}$": "180-60α"
+    },
+    {
+      "_row_id": 5,
+      "Cấu kiện kết cấu": "5. Các cột phụ (cột của khung tường, cửa trời và tương tự); các thanh giằng của cột rỗng; các thanh của hệ giằng đứng giữa các cột (ở dưới dầm đỡ cầu trục); các dầm và xà gồ, có kể đến sự làm việc chịu nén",
+      "Giá trị $\\lambda_{u}$": "210 - 60α"
+    },
+    {
+      "_row_id": 6,
+      "Cấu kiện kết cấu": "6. Các thanh giằng (trừ các thanh nêu ở điểm 5), cũng như các thanh dùng để giảm chiều dài tính toán của các thanh chịu nén, và các thanh không chịu lực khác (trừ các thanh nêu ở điểm 7)",
+      "Giá trị $\\lambda_{u}$": "200"
+    },
+    {
+      "_row_id": 7,
+      "Cấu kiện kết cấu": "7. Các thanh chịu nén và các thanh không chịu lực tiết diện chữ T và chữ thập của kết cấu không gian rỗng chịu tải trọng gió, khi kiểm tra độ mảnh trong mặt phẳng thẳng đứng",
+      "Giá trị $\\lambda_{u}$": "150"
+    },
+    {
+      "_row_id": 8,
+      "Cấu kiện kết cấu": "Các ký hiệu trong Bảng 33:\nα = N/($\\varphi Af_{yd}\\gamma_{c}$) là hệ số, lấy không nhỏ hơn 0,5 (trong các trường hợp thích hợp thì thay φ bằng $\\varphi_{e}$ ).",
+      "Giá trị $\\lambda_{u}$": ""
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,60 @@
+{
+  "table_id": "bang_b_10",
+  "table_number": "B.10",
+  "table_title": "Bảng B.10 - Tính chất cơ học của thép hình cho kết cấu xây dựng theo TCVN 7571:2019 (các phần 1, 2, 11, 15) và TCVN 7571-16:2017",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Ký hiệu loại thép hình",
+    "Giới hạn chảy nhỏ nhất, MPa — ≤ 16",
+    "Giới hạn chảy nhỏ nhất, MPa — > 16; ≤ 40",
+    "Giới hạn bền kéo, MPa",
+    "Độ giãn dài tương đối nhỏ nhất, % — < 6",
+    "Độ giãn dài tương đối nhỏ nhất, % — ≥ 6; ≤ 16",
+    "Độ giãn dài tương đối nhỏ nhất, % — > 16; ≤ 50"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ký hiệu loại thép hình": "ABS 400A, USBS 400A, ISBS 400A, HSBS 400A",
+      "Giới hạn chảy nhỏ nhất, MPa — ≤ 16": "235 1)",
+      "Giới hạn chảy nhỏ nhất, MPa — > 16; ≤ 40": "235 1)",
+      "Giới hạn bền kéo, MPa": "400÷510",
+      "Độ giãn dài tương đối nhỏ nhất, % — < 6": "-",
+      "Độ giãn dài tương đối nhỏ nhất, % — ≥ 6; ≤ 16": "17",
+      "Độ giãn dài tương đối nhỏ nhất, % — > 16; ≤ 50": "21"
+    },
+    {
+      "_row_id": 2,
+      "Ký hiệu loại thép hình": "ABS 400B, USBS 400B, ISBS 400B, HSBS 400B",
+      "Giới hạn chảy nhỏ nhất, MPa — ≤ 16": "235 2)",
+      "Giới hạn chảy nhỏ nhất, MPa — > 16; ≤ 40": "235÷355 3)",
+      "Giới hạn bền kéo, MPa": "400÷510",
+      "Độ giãn dài tương đối nhỏ nhất, % — < 6": "-",
+      "Độ giãn dài tương đối nhỏ nhất, % — ≥ 6; ≤ 16": "18",
+      "Độ giãn dài tương đối nhỏ nhất, % — > 16; ≤ 50": "22 5)"
+    },
+    {
+      "_row_id": 3,
+      "Ký hiệu loại thép hình": "ABS 400C, USBS 400C, ISBS 400C, HSBS 400C",
+      "Giới hạn chảy nhỏ nhất, MPa — ≤ 16": "-",
+      "Giới hạn chảy nhỏ nhất, MPa — > 16; ≤ 40": "235÷355 4)",
+      "Giới hạn bền kéo, MPa": "400÷510",
+      "Độ giãn dài tương đối nhỏ nhất, % — < 6": "-",
+      "Độ giãn dài tương đối nhỏ nhất, % — ≥ 6; ≤ 16": "18",
+      "Độ giãn dài tương đối nhỏ nhất, % — > 16; ≤ 50": "22 5)"
+    },
+    {
+      "_row_id": 4,
+      "Ký hiệu loại thép hình": "**1) Cho chiều dày > 6 mm và ≤ 40 mm; 2) Cho chiều dày ≥ 6 mm và 3) Cho chiều dày ≥ 12 mm và ≤ 40 mm; 4) Cho chiều dày ≥ 16 mm và ≤ 40 mm; 5) Cho chiều dày > 16 mm và ≤ 40 mm.**",
+      "Giới hạn chảy nhỏ nhất, MPa — ≤ 16": "",
+      "Giới hạn chảy nhỏ nhất, MPa — > 16; ≤ 40": "",
+      "Giới hạn bền kéo, MPa": "",
+      "Độ giãn dài tương đối nhỏ nhất, % — < 6": "",
+      "Độ giãn dài tương đối nhỏ nhất, % — ≥ 6; ≤ 16": "",
+      "Độ giãn dài tương đối nhỏ nhất, % — > 16; ≤ 50": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Các ký hiệu “A”, “US”, “IS’, “HS” biểu thị lần lượt là thép góc, chữ U (hoặc C), chữ I và chữ H. Ký hiệu “BS” biểu thị “kết cấu xây dựng”."
+  }
+}

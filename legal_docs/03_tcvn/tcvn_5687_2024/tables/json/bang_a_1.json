@@ -1,0 +1,161 @@
+{
+  "table_id": "bang_a_1",
+  "table_number": "A.1",
+  "table_title": "Bảng A.1 - Các thông số hợp lý của không khí bên trong nhà trong phạm vi không gian hoạt động của nhà ở",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Các phòng trong nhà ở",
+    "Nhiệt độ không khí, °C — Tiện nghi",
+    "Nhiệt độ không khí, °C — Giới hạn cho phép",
+    "Vận tốc chuyển động của không khí, m/s — Tiện nghi",
+    "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép",
+    "Độ ẩm tương đối, %"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Các phòng trong nhà ở": "A. MÙA LẠNH",
+      "Nhiệt độ không khí, °C — Tiện nghi": "Phòng có sưởi ấm",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "Phòng có sưởi ấm",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "Phòng có sưởi ấm",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "Phòng có sưởi ấm",
+      "Độ ẩm tương đối, %": "Phòng có sưởi ấm"
+    },
+    {
+      "_row_id": 2,
+      "Các phòng trong nhà ở": "1. Phòng ở trong nhà trọ, khách sạn",
+      "Nhiệt độ không khí, °C — Tiện nghi": "24,5",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "22 ÷ 25",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,05 ÷ 0,1",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,2",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    },
+    {
+      "_row_id": 3,
+      "Các phòng trong nhà ở": "2. Phòng ở nhà ở",
+      "Nhiệt độ không khí, °C — Tiện nghi": "24,5",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "22 ÷ 25",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,05 ÷ 0,1",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,2",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    },
+    {
+      "_row_id": 4,
+      "Các phòng trong nhà ở": "3. Phòng nghỉ và học tập trong nhà ở",
+      "Nhiệt độ không khí, °C — Tiện nghi": "24,5",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "22 ÷ 25",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,05 ÷ 0,1",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,2",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    },
+    {
+      "_row_id": 5,
+      "Các phòng trong nhà ở": "4. Phòng sinh hoạt chung, tiếp khách",
+      "Nhiệt độ không khí, °C — Tiện nghi": "24,5",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "22 ÷ 25",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,05 ÷ 0,1",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,2",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    },
+    {
+      "_row_id": 6,
+      "Các phòng trong nhà ở": "5. Phòng ăn",
+      "Nhiệt độ không khí, °C — Tiện nghi": "24,5",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "22 ÷ 25",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,05 ÷ 0,1",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,2",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    },
+    {
+      "_row_id": 7,
+      "Các phòng trong nhà ở": "6. Bếp",
+      "Nhiệt độ không khí, °C — Tiện nghi": "23,5",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "21 ÷ 24",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,05 ÷ 0,1",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,2",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    },
+    {
+      "_row_id": 8,
+      "Các phòng trong nhà ở": "7. Phòng vệ sinh",
+      "Nhiệt độ không khí, °C — Tiện nghi": "23,5",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "21 ÷ 24",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,05 ÷ 0,1",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,2",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    },
+    {
+      "_row_id": 9,
+      "Các phòng trong nhà ở": "B. MÙA NÓNG",
+      "Nhiệt độ không khí, °C — Tiện nghi": "Phòng có điều hòa không khí",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "Phòng có điều hòa không khí",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "Phòng có điều hòa không khí",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "Phòng có điều hòa không khí",
+      "Độ ẩm tương đối, %": "Phòng có điều hòa không khí"
+    },
+    {
+      "_row_id": 10,
+      "Các phòng trong nhà ở": "1. Phòng ở nhà trọ, khách sạn",
+      "Nhiệt độ không khí, °C — Tiện nghi": "26,2",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "25 ÷ 27",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,1 ÷ 0,2",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,3",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    },
+    {
+      "_row_id": 11,
+      "Các phòng trong nhà ở": "2. Phòng ở nhà ở",
+      "Nhiệt độ không khí, °C — Tiện nghi": "26,2",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "25 ÷ 27",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,1 ÷ 0,2",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,3",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    },
+    {
+      "_row_id": 12,
+      "Các phòng trong nhà ở": "3. Phòng nghỉ và học tập trong nhà ở",
+      "Nhiệt độ không khí, °C — Tiện nghi": "26,2",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "25 ÷ 27",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,1 ÷ 0,2",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,3",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    },
+    {
+      "_row_id": 13,
+      "Các phòng trong nhà ở": "4. Phòng sinh hoạt chung, tiếp khách",
+      "Nhiệt độ không khí, °C — Tiện nghi": "26,2",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "25 ÷ 27",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,1 ÷ 0,2",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,3",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    },
+    {
+      "_row_id": 14,
+      "Các phòng trong nhà ở": "5. Phòng ăn",
+      "Nhiệt độ không khí, °C — Tiện nghi": "26,2",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "25 ÷ 27",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,1 ÷ 0,2",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,3",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    },
+    {
+      "_row_id": 15,
+      "Các phòng trong nhà ở": "6. Bếp",
+      "Nhiệt độ không khí, °C — Tiện nghi": "27",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "26 ÷ 28",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,1 ÷ 0,2",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,3",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    },
+    {
+      "_row_id": 16,
+      "Các phòng trong nhà ở": "7. Phòng vệ sinh",
+      "Nhiệt độ không khí, °C — Tiện nghi": "27",
+      "Nhiệt độ không khí, °C — Giới hạn cho phép": "26 ÷ 28",
+      "Vận tốc chuyển động của không khí, m/s — Tiện nghi": "0,1 ÷ 0,2",
+      "Vận tốc chuyển động của không khí, m/s — Tối đa cho phép": "0,3",
+      "Độ ẩm tương đối, %": "60 ÷ 70"
+    }
+  ],
+  "footnotes": []
+}

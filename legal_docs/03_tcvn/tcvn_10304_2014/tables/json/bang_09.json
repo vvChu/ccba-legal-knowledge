@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_09",
+  "table_number": "9",
+  "table_title": "Bảng 9 - Các hệ số không thứ nguyên $_{1}$, $_{2}$ trong công thức (17)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Trị tính toán góc ma sát trong của đất trong vùng làm việc $_{I}$ độ",
+    "Hệ số — $_{1}$",
+    "Hệ số — $_{2}$",
+    "Trị tính toán góc ma sát trong của đất trong vùng làm việc $_{I}$ độ",
+    "Hệ số — $_{1}$",
+    "Hệ số — $_{2}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Trị tính toán góc ma sát trong của đất trong vùng làm việc $_{I}$ độ": "24\n26\n28\n30\n32\n34",
+      "Hệ số — $_{1}$": "18,0\n23,1\n29,5\n38,0\n48,4\n64,9",
+      "Hệ số — $_{2}$": "9,2\n12,3\n16,5\n22,5\n31,0\n44,4"
+    }
+  ],
+  "footnotes": []
+}

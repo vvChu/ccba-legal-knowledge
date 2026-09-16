@@ -1,0 +1,27 @@
+id: vn_hn_qd_38_2026_qd_ubnd
+document_number: 38/2026/QĐ-UBND
+title: Quyết định 38/2026/QĐ-UBND quy định một số nội dung về quản lý quy hoạch đô thị và nông thôn, kiến trúc trên địa bàn thành phố Hà Nội
+type: Quyết định
+issued_by: Ủy ban nhân dân Thành phố Hà Nội
+signer: Trần Sỹ Thanh
+issued_date: '2026-03-31'
+effective_date: '2026-04-10'
+status: active
+jurisdiction: VN-HN
+administrative_tier: PROVINCIAL
+authority_type: delegation
+replaces: []
+bundle_path: legal_docs/01_vbpl/vn_hn_qd_38_2026_qd_ubnd/
+pdf_path: legal_docs/01_vbpl/vn_hn_qd_38_2026_qd_ubnd/sources/702686.pdf
+pdf_sha256: d826eaf192b238acd1b465854babc8a884d8e12e2d330ecc4c262ed64eb8767b
+pdf_status: verified
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: d826eaf192b238acd1b465854babc8a884d8e12e2d330ecc4c262ed64eb8767b
+    vault_path: CCBA_Legal_Vault/01_vbpl/vn_hn_qd_38_2026_qd_ubnd/702686.pdf
+    status: verified
+    acquisition_method: official_gazette_pdf
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-16T15:45:00.000000+00:00'

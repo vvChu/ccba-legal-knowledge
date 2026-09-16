@@ -1,0 +1,26 @@
+{
+  "table_id": "bang_c_5",
+  "table_number": "C.5",
+  "table_title": "Bảng C.5 - Hệ số $k_{c}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "H/r",
+    "0,25",
+    "0,5",
+    "1",
+    "2",
+    ">2"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "H/r": "$k_{c}$",
+      "0,25": "0,26",
+      "0,5": "0,43",
+      "1": "0,63",
+      "2": "0,74",
+      ">2": "0,75"
+    }
+  ],
+  "footnotes": []
+}

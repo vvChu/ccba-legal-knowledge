@@ -1,0 +1,28 @@
+﻿Loại trụ điện,Độ chôn tương đổi của móng trụ h/d,"Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\gamma _{d}^{tc}$, T/m³ — 1,55","Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Đất sét có chỉ số sệt $I_{s}$ ≤ 0,5 — Khi khối Iượng thể tích của đất đắp $\gamma _{d}^{tc}$, T/m³ — 1,70","Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\gamma _{d}^{tc}$, T/m³ — 1,55","Áp lực tính toán trên đất đắp lại ở chế độ làm việc bình thường R đối với đất (kPa) — Cát trung và cát mịn ít ẩm và ẩm — Khi khối Iượng thể tích của đất đắp $\gamma _{d}^{tc}$, T/m³ — 1,70"
+1,2,3,4,5,6
+"1. Trụ thẳng, trung","0,8",32,36,32,40
+"gian, Ioại bình","0,8",36,40,40,48
+thường,,,,,
+,1,40,40,40,50
+,1,45,50,50,60
+,"1,5",50,60,50,60
+,"1,5",55,65,60,75
+,"2,0",60,85,70,85
+,"2,0",70,105,80,105
+,"2,5",-,100,-,100
+,"2,5",-,120,-,120
+2. Trụ neo bình,"0,8",24,32,28,36
+thường và neo góc,"0,8",28,36,32,40
+có kéo Iệch và,,,,,
+"không kéo Iệch, trụ",1,30,40,35,45
+trung gian ở góc và,1,35,45,40,50
+"trụ vòng, giả thiết bị","1,5",40,50,45,55
+phân phối điện,"1,5",45,55,50,60
+ngoài trời,"2,0",50,65,55,65
+,"2,0",55,70,60,70
+,"2,5",-,70,-,75
+,"2,5",-,80,-,80
+3. Trụ đặc biệt,"0,8",-,28,-,28
+,"1,0",-,35,-,35
+,"1,5",-,45,-,45
+,"2,0",-,55,-,55

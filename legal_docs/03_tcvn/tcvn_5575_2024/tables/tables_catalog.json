@@ -1,0 +1,887 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 110,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Hệ số điều kiện làm việc $\\gamma_{c}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_01.csv",
+      "json_file": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_02",
+      "table_number": "2",
+      "title": "Bảng 2 - Cường độ tính toán của thép cán, thép uốn định hình và thép ống",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_02.csv",
+      "json_file": "tables/json/bang_02.json"
+    },
+    {
+      "table_id": "bang_03",
+      "table_number": "3",
+      "title": "Bảng 3 - Hệ số độ tin cậy của thép cán, thép uốn định hình và thép ống",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_03.csv",
+      "json_file": "tables/json/bang_03.json"
+    },
+    {
+      "table_id": "bang_04",
+      "table_number": "4",
+      "title": "Bảng 4 - Cường độ tính toán của liên kết hàn",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_04.csv",
+      "json_file": "tables/json/bang_04.json"
+    },
+    {
+      "table_id": "bang_05",
+      "table_number": "5",
+      "title": "Bảng 5 - Cường độ tính toán của liên kết một bu lông",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_05.csv",
+      "json_file": "tables/json/bang_05.json"
+    },
+    {
+      "table_id": "bang_06",
+      "table_number": "6",
+      "title": "Bảng 6 - Các hệ số $\\alpha_{1}$, $\\alpha_{2}$ và β",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_06.csv",
+      "json_file": "tables/json/bang_06.json"
+    },
+    {
+      "table_id": "bang_07",
+      "table_number": "7",
+      "title": "Bảng 7 - Các hệ số α và β",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_07.csv",
+      "json_file": "tables/json/bang_07.json"
+    },
+    {
+      "table_id": "bang_08",
+      "table_number": "8",
+      "title": "Bảng 8 - Độ mảnh quy đổi của cấu kiện tiết diện rỗng $\\lambda_{ef}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_08.csv",
+      "json_file": "tables/json/bang_08.json"
+    },
+    {
+      "table_id": "bang_09",
+      "table_number": "9",
+      "title": "Bảng 9 - Độ mảnh quy ước giới hạn của bản bụng cấu kiện chịu nén đúng tâm có tiết diện đặc $\\bar{\\lambda}_{uw}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_09.csv",
+      "json_file": "tables/json/bang_09.json"
+    },
+    {
+      "table_id": "bang_10",
+      "table_number": "10",
+      "title": "Bảng 10 - Độ mảnh quy ước giới hạn của phần vươn cánh cấu kiện chịu nén đúng tâm có tiết diện đặc $\\frac{q_{sw,1} Z_1}{R_s A_{s,1}}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_10.csv",
+      "json_file": "tables/json/bang_10.json"
+    },
+    {
+      "table_id": "bang_11",
+      "table_number": "11",
+      "title": "Bảng 11 - Hệ số $c_{\\omega}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_11.csv",
+      "json_file": "tables/json/bang_11.json"
+    },
+    {
+      "table_id": "bang_12",
+      "table_number": "12",
+      "title": "Bảng 12 - Độ mảnh quy ước giới hạn của cánh chịu nén của dầm cán hoặc dầm hàn $\\overline{\\lambda}_{ub}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_12.csv",
+      "json_file": "tables/json/bang_12.json"
+    },
+    {
+      "table_id": "bang_13",
+      "table_number": "13",
+      "title": "Bảng 13 - Hệ số $c_{cr}$ cho dầm cấp 1 có tiết diện đối xứng khi $\\sigma_{loc}$ = 0",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_13.csv",
+      "json_file": "tables/json/bang_13.json"
+    },
+    {
+      "table_id": "bang_14",
+      "table_number": "14",
+      "title": "Bảng 14 - Hệ số β",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_14.csv",
+      "json_file": "tables/json/bang_14.json"
+    },
+    {
+      "table_id": "bang_15",
+      "table_number": "15",
+      "title": "Bảng 15 - Hệ số $c_{1}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_15.csv",
+      "json_file": "tables/json/bang_15.json"
+    },
+    {
+      "table_id": "bang_16",
+      "table_number": "16",
+      "title": "Bảng 16 - Hệ số $c_{2}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_16.csv",
+      "json_file": "tables/json/bang_16.json"
+    },
+    {
+      "table_id": "bang_17",
+      "table_number": "17",
+      "title": "Bảng 17 - Hệ số $c_{cr}$ cho dầm cấp 1 có tiết diện đối xứng khi $\\sigma_{loc}$ ≠ 0",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_17.csv",
+      "json_file": "tables/json/bang_17.json"
+    },
+    {
+      "table_id": "bang_18",
+      "table_number": "18",
+      "title": "Bảng 18 - Hệ số $c_{cr}$ cho dầm cấp 1 có tiết diện chữ I không đối xứng với cánh chịu nén mở rộng khi $\\sigma_{loc}$ = 0",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_18.csv",
+      "json_file": "tables/json/bang_18.json"
+    },
+    {
+      "table_id": "bang_19",
+      "table_number": "19",
+      "title": "Bảng 19 - Hệ số α",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_19.csv",
+      "json_file": "tables/json/bang_19.json"
+    },
+    {
+      "table_id": "bang_20",
+      "table_number": "20",
+      "title": "Bảng 20 - Mô men quán tính của sườn cứng",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_20.csv",
+      "json_file": "tables/json/bang_20.json"
+    },
+    {
+      "table_id": "bang_21",
+      "table_number": "21",
+      "title": "Bảng 21 - Mô men uốn M",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_21.csv",
+      "json_file": "tables/json/bang_21.json"
+    },
+    {
+      "table_id": "bang_22",
+      "table_number": "22",
+      "title": "Bảng 22 - Các hệ số α và β",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_22.csv",
+      "json_file": "tables/json/bang_22.json"
+    },
+    {
+      "table_id": "bang_23",
+      "table_number": "23",
+      "title": "Bảng 23 - Độ mảnh quy ước giới hạn của bản bụng cấu kiện chịu nén lệch tâm (hoặc nén uốn) $\\lambda _{uw}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_23.csv",
+      "json_file": "tables/json/bang_23.json"
+    },
+    {
+      "table_id": "bang_24",
+      "table_number": "24",
+      "title": "Bảng 24 - Độ mảnh quy ước giới hạn của phần vươn cánh $\\lambda _{uf}$ hoặc bản cánh $\\lambda _{uf,1}$ của cấu kiện chịu nén lệch tâm (hoặc nén uốn)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_24.csv",
+      "json_file": "tables/json/bang_24.json"
+    },
+    {
+      "table_id": "bang_25",
+      "table_number": "25",
+      "title": "Bảng 25 - Chiều dài tính toán của các thanh chịu nén trong giàn phẳng và hệ giằng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_25.csv",
+      "json_file": "tables/json/bang_25.json"
+    },
+    {
+      "table_id": "bang_26",
+      "table_number": "26",
+      "title": "Bảng 26 - Chiều dài tính toán ngoài mặt phẳng giàn $L_{ef,1}$ của các thanh trong hệ thanh bụng chữ thập",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_26.csv",
+      "json_file": "tables/json/bang_26.json"
+    },
+    {
+      "table_id": "bang_27",
+      "table_number": "27",
+      "title": "Bảng 27 - Chiều dài tính toán $L_{ef}$ của các thanh trong kết cấu lưới thanh không gian",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_27.csv",
+      "json_file": "tables/json/bang_27.json"
+    },
+    {
+      "table_id": "bang_28",
+      "table_number": "28",
+      "title": "Bảng 28 - Chiều dài tính toán $L_{ef}$ và bán kính quán tính i của các thanh trong kết cấu không gian rỗng",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_28.csv",
+      "json_file": "tables/json/bang_28.json"
+    },
+    {
+      "table_id": "bang_29",
+      "table_number": "29",
+      "title": "Bảng 29 - Chiều dài quy ước của thanh xiên $L_{dc}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_29.csv",
+      "json_file": "tables/json/bang_29.json"
+    },
+    {
+      "table_id": "bang_30",
+      "table_number": "30",
+      "title": "Bảng 30 - Hệ số chiều dài tính toán của thanh xiên µ$_{d}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_30.csv",
+      "json_file": "tables/json/bang_30.json"
+    },
+    {
+      "table_id": "bang_31",
+      "table_number": "31",
+      "title": "Bảng 31 - Hệ số chiều dài tính toán µ của cột tiết diện không đổi phụ thuộc vào điều kiện liên kết ở hai đầu cột và loại tải trọng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_31.csv",
+      "json_file": "tables/json/bang_31.json"
+    },
+    {
+      "table_id": "bang_32",
+      "table_number": "32",
+      "title": "Bảng 32 - Hệ số chiều dài tính toán µ của cột tiết diện không đổi trong mặt phẳng khung với tải trọng tác dụng như nhau vào các nút nằm trên cùng một mức cao độ",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_32.csv",
+      "json_file": "tables/json/bang_32.json"
+    },
+    {
+      "table_id": "bang_33",
+      "table_number": "33",
+      "title": "Bảng 33 - Độ mảnh giới hạn của cấu kiện chịu nén $\\lambda_{u}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_33.csv",
+      "json_file": "tables/json/bang_33.json"
+    },
+    {
+      "table_id": "bang_34",
+      "table_number": "34",
+      "title": "Bảng 34 - Độ mảnh giới hạn của cấu kiện chịu kéo $\\lambda_{u}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_34.csv",
+      "json_file": "tables/json/bang_34.json"
+    },
+    {
+      "table_id": "bang_35",
+      "table_number": "35",
+      "title": "Bảng 35 - Hệ số điều kiện làm việc của kết cấu $\\gamma_{c}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_35.csv",
+      "json_file": "tables/json/bang_35.json"
+    },
+    {
+      "table_id": "bang_36",
+      "table_number": "36",
+      "title": "Bảng 36 - Hệ số c",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_36.csv",
+      "json_file": "tables/json/bang_36.json"
+    },
+    {
+      "table_id": "bang_37",
+      "table_number": "37",
+      "title": "Bảng 37 - Cường độ chịu mỏi tính toán $f_{fat}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_37.csv",
+      "json_file": "tables/json/bang_37.json"
+    },
+    {
+      "table_id": "bang_38",
+      "table_number": "38",
+      "title": "Bảng 38 - Hệ số $\\gamma_{fat}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_38.csv",
+      "json_file": "tables/json/bang_38.json"
+    },
+    {
+      "table_id": "bang_39",
+      "table_number": "39",
+      "title": "Bảng 39 - Độ thắt tương đối $\\psi_{zn}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_39.csv",
+      "json_file": "tables/json/bang_39.json"
+    },
+    {
+      "table_id": "bang_40",
+      "table_number": "40",
+      "title": "Bảng 40 - Độ thắt tương đối",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_40.csv",
+      "json_file": "tables/json/bang_40.json"
+    },
+    {
+      "table_id": "bang_41",
+      "table_number": "41",
+      "title": "Bảng 41 - Chiều cao đường hàn góc tối thiểu $h_{f}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_41.csv",
+      "json_file": "tables/json/bang_41.json"
+    },
+    {
+      "table_id": "bang_42",
+      "table_number": "42",
+      "title": "Bảng 42 - Các hệ số $\\beta_{f}$ và $\\beta_{s}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_42.csv",
+      "json_file": "tables/json/bang_42.json"
+    },
+    {
+      "table_id": "bang_43",
+      "table_number": "43",
+      "title": "Bảng 43 - Khoảng cách bố trí bu lông",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_43.csv",
+      "json_file": "tables/json/bang_43.json"
+    },
+    {
+      "table_id": "bang_44",
+      "table_number": "44",
+      "title": "Bảng 44 - Hệ số điều kiện làm việc của liên kết bu lông",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_44.csv",
+      "json_file": "tables/json/bang_44.json"
+    },
+    {
+      "table_id": "bang_45",
+      "table_number": "45",
+      "title": "Bảng 45 - Hệ số ma sát μ và hệ số $\\gamma_{h}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_45.csv",
+      "json_file": "tables/json/bang_45.json"
+    },
+    {
+      "table_id": "bang_46",
+      "table_number": "46",
+      "title": "Bảng 46 - Các công thức tính toán liên kết cánh với bụng của dầm tổ hợp",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_46.csv",
+      "json_file": "tables/json/bang_46.json"
+    },
+    {
+      "table_id": "bang_47",
+      "table_number": "47",
+      "title": "Bảng 47 - Khoảng cách lớn nhất $L_{u}$ giữa các khe nhiệt của các khung thép nhà một tầng và công trình",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_47.csv",
+      "json_file": "tables/json/bang_47.json"
+    },
+    {
+      "table_id": "bang_48",
+      "table_number": "48",
+      "title": "Bảng 48 - Hệ số điều kiện làm việc $\\gamma_{c}$ khi thiết kế cột điện",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_48.csv",
+      "json_file": "tables/json/bang_48.json"
+    },
+    {
+      "table_id": "bang_49",
+      "table_number": "49",
+      "title": "Bảng 49 - Độ lệch đỉnh cột và độ võng của xà ngang",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_49.csv",
+      "json_file": "tables/json/bang_49.json"
+    },
+    {
+      "table_id": "bang_50",
+      "table_number": "50",
+      "title": "Bảng 50 - Hệ số điều kiện làm việc $\\gamma_{c}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_50.csv",
+      "json_file": "tables/json/bang_50.json"
+    },
+    {
+      "table_id": "bang_a_1",
+      "table_number": "A.1",
+      "title": "Bảng A.1 - Nhóm kết cấu thép theo công năng sử dụng, điều kiện làm việc và sự có mặt của liên kết hàn",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_a_1.csv",
+      "json_file": "tables/json/bang_a_1.json"
+    },
+    {
+      "table_id": "bang_b_1",
+      "table_number": "B.1",
+      "title": "Bảng B.1 - Các tính chất vật lý của vật liệu dùng cho kết cấu thép",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_1.csv",
+      "json_file": "tables/json/bang_b_1.json"
+    },
+    {
+      "table_id": "bang_b_2",
+      "table_number": "B.2",
+      "title": "Bảng B.2 - Giới hạn chảy và giới hạn bền kéo của thép kết cấu công dụng chung theo TCVN 9986-2:2013 (ISO 630-2:2011)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_2.csv",
+      "json_file": "tables/json/bang_b_2.json"
+    },
+    {
+      "table_id": "bang_b_3",
+      "table_number": "B.3",
+      "title": "Bảng B.3 - Độ giãn dài tương đối của thép kết cấu công dụng chung theo TCVN 9986-2:2013 (ISO 630-2:2011)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_3.csv",
+      "json_file": "tables/json/bang_b_3.json"
+    },
+    {
+      "table_id": "bang_b_4",
+      "table_number": "B.4",
+      "title": "Bảng B.4 - Độ dai va đập của thép kết cấu công dụng chung theo TCVN 9986-2:2013 (ISO 630-2:2011)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_4.csv",
+      "json_file": "tables/json/bang_b_4.json"
+    },
+    {
+      "table_id": "bang_b_5",
+      "table_number": "B.5",
+      "title": "Bảng B.5 - Tính chất cơ học của thép kết cấu thường hóa ở nhiệt độ phòng theo TCVN 9986-3:2014 (ISO 630-3:2012)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_5.csv",
+      "json_file": "tables/json/bang_b_5.json"
+    },
+    {
+      "table_id": "bang_b_6",
+      "table_number": "B.6",
+      "title": "Bảng B.6 - Tính chất cơ học của thép tấm mỏng cán nóng chất lượng kết cấu theo TCVN 6522:2018 (ISO 4995:2014)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_6.csv",
+      "json_file": "tables/json/bang_b_6.json"
+    },
+    {
+      "table_id": "bang_b_7",
+      "table_number": "B.7",
+      "title": "Bảng B.7 - Tính chất cơ học của thép tấm mỏng cán nóng chất lượng kết cấu có giới hạn chảy cao theo TCVN 6523:2018 (ISO 4996:2014)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_7.csv",
+      "json_file": "tables/json/bang_b_7.json"
+    },
+    {
+      "table_id": "bang_b_8",
+      "table_number": "B.8",
+      "title": "Bảng B.8 - Tính chất cơ học của thép hình cho kết cấu công dụng chung theo TCVN 7571:2019 (các phần 1, 2, 11, 15) và TCVN 7571-16:2017",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_8.csv",
+      "json_file": "tables/json/bang_b_8.json"
+    },
+    {
+      "table_id": "bang_b_9",
+      "table_number": "B.9",
+      "title": "Bảng B.9 - Tính chất cơ học của thép hình cho kết cấu hàn theo TCVN 7571:2019 (các phần 1, 2, 11, 15) và TCVN 7571-16:2017",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_9.csv",
+      "json_file": "tables/json/bang_b_9.json"
+    },
+    {
+      "table_id": "bang_b_10",
+      "table_number": "B.10",
+      "title": "Bảng B.10 - Tính chất cơ học của thép hình cho kết cấu xây dựng theo TCVN 7571:2019 (các phần 1, 2, 11, 15) và TCVN 7571-16:2017",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_10.csv",
+      "json_file": "tables/json/bang_b_10.json"
+    },
+    {
+      "table_id": "bang_b_11",
+      "table_number": "B.11",
+      "title": "Bảng B.11 - Tính chất cơ học của thép ống, thép hộp làm bằng thép không hợp kim theo TCVN 11228-1:2015 (ISO 12633-1:2011)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_11.csv",
+      "json_file": "tables/json/bang_b_11.json"
+    },
+    {
+      "table_id": "bang_b_12",
+      "table_number": "B.12",
+      "title": "Bảng B.12 - Tính chất cơ học của thép ống, thép hộp làm bằng thép hạt mịn theo TCVN 11228-1:2015 (ISO 12633-1:2011)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_12.csv",
+      "json_file": "tables/json/bang_b_12.json"
+    },
+    {
+      "table_id": "bang_b_13",
+      "table_number": "B.13",
+      "title": "Bảng B.13 - Cường độ tính toán của thép cán khi ép mặt tì đầu, ép cục bộ trong ổ trục, ép theo đường kính con lăn",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_b_13.csv",
+      "json_file": "tables/json/bang_b_13.json"
+    },
+    {
+      "table_id": "bang_c_1",
+      "table_number": "C.1",
+      "title": "Bảng C.1 - Cường độ tiêu chuẩn theo giới hạn bền $f_{wun}$ và cường độ chịu kéo tính toán $f_{wf}$ của kim loại hàn trong liên kết hàn góc",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_c_1.csv",
+      "json_file": "tables/json/bang_c_1.json"
+    },
+    {
+      "table_id": "bang_c_2",
+      "table_number": "C.2",
+      "title": "Bảng C.2 - Yêu cầu đối với bu lông trong các điều kiện áp dụng khác nhau",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_c_2.csv",
+      "json_file": "tables/json/bang_c_2.json"
+    },
+    {
+      "table_id": "bang_c_3",
+      "table_number": "C.3",
+      "title": "Bảng C.3 - Mác thép làm bu lông móng và điều kiện áp dụng",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_c_3.csv",
+      "json_file": "tables/json/bang_c_3.json"
+    },
+    {
+      "table_id": "bang_c_4",
+      "table_number": "C.4",
+      "title": "Bảng C.4 - Các cường độ tiêu chuẩn của thép làm bu lông ($f_{ub}$, $f_{yb}$), cường độ chịu cắt tính toán $f_{vb}$ và chịu kéo tính toán $f_{tb}$ của liên kết một bu lông",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_c_4.csv",
+      "json_file": "tables/json/bang_c_4.json"
+    },
+    {
+      "table_id": "bang_c_5",
+      "table_number": "C.5",
+      "title": "Bảng C.5 - Cường độ chịu ép mặt tính toán $f_{cb}$ của các cấu kiện được liên kết bằng bu lông",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_c_5.csv",
+      "json_file": "tables/json/bang_c_5.json"
+    },
+    {
+      "table_id": "bang_c_6",
+      "table_number": "C.6",
+      "title": "Bảng C.6 - Diện tích tiết diện bu lông",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_c_6.csv",
+      "json_file": "tables/json/bang_c_6.json"
+    },
+    {
+      "table_id": "bang_d_1",
+      "table_number": "D.1",
+      "title": "Bảng D.1 - Hệ số ổn định khi nén đúng tâm φ",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_d_1.csv",
+      "json_file": "tables/json/bang_d_1.json"
+    },
+    {
+      "table_id": "bang_d_2",
+      "table_number": "D.2",
+      "title": "Bảng D.2 - Hệ số ảnh hưởng của hình dạng tiết diện η",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_d_2.csv",
+      "json_file": "tables/json/bang_d_2.json"
+    },
+    {
+      "table_id": "bang_d_3",
+      "table_number": "D.3",
+      "title": "Bảng D.3 - Hệ số ổn định khi nén lệch tâm $\\varphi_{e}$ của cấu kiện tiết diện bụng đặc trong mặt phẳng tác dụng của mô men uốn trùng với mặt phẳng đối xứng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d_3.csv",
+      "json_file": "tables/json/bang_d_3.json"
+    },
+    {
+      "table_id": "bang_d",
+      "table_number": "D",
+      "title": "Bảng D - 3 (tiếp theo)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d.csv",
+      "json_file": "tables/json/bang_d.json"
+    },
+    {
+      "table_id": "bang_d",
+      "table_number": "D",
+      "title": "Bảng D - 3 (kết thúc)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_d.csv",
+      "json_file": "tables/json/bang_d.json"
+    },
+    {
+      "table_id": "bang_d_4",
+      "table_number": "D.4",
+      "title": "Bảng D.4 - Hệ số ổn định khi nén lệch tâm $\\varphi_{e}$ của cấu kiện tiết diện rỗng trong mặt phẳng tác dụng của mô men uốn trùng với mặt phẳng đối xứng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d_4.csv",
+      "json_file": "tables/json/bang_d_4.json"
+    },
+    {
+      "table_id": "bang_d",
+      "table_number": "D",
+      "title": "Bảng D - 4 (tiếp theo)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d.csv",
+      "json_file": "tables/json/bang_d.json"
+    },
+    {
+      "table_id": "bang_d",
+      "table_number": "D",
+      "title": "Bảng D - 4 (kết thúc)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_d.csv",
+      "json_file": "tables/json/bang_d.json"
+    },
+    {
+      "table_id": "bang_d_5",
+      "table_number": "D.5",
+      "title": "Bảng D.5 - Độ lệch tâm tương đối quy đổi $m_{ef}$ của cấu kiện chịu nén lệch tâm hai đầu khớp",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d_5.csv",
+      "json_file": "tables/json/bang_d_5.json"
+    },
+    {
+      "table_id": "bang_d_6",
+      "table_number": "D.6",
+      "title": "Bảng D.6 - Các hệ số ω, α, β",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d_6.csv",
+      "json_file": "tables/json/bang_d_6.json"
+    },
+    {
+      "table_id": "bang_e_1",
+      "table_number": "E.1",
+      "title": "Bảng E.1 - Các hệ số $c_{x}$ , $c_{y}$ , n",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_e_1.csv",
+      "json_file": "tables/json/bang_e_1.json"
+    },
+    {
+      "table_id": "bang_e_2",
+      "table_number": "E.2",
+      "title": "Bảng E.2 - Các hệ số $\\alpha_{1}$, $\\alpha_{2}$, $\\alpha_{3}$ để tính uốn bản chữ nhật kê bốn cạnh và ba cạnh",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_e_2.csv",
+      "json_file": "tables/json/bang_e_2.json"
+    },
+    {
+      "table_id": "bang_f_1",
+      "table_number": "F.1",
+      "title": "Bảng F.1 - Hệ số Ψ cho dầm tiết diện chữ I có hai trục đối xứng",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_f_1.csv",
+      "json_file": "tables/json/bang_f_1.json"
+    },
+    {
+      "table_id": "bang_f_2",
+      "table_number": "F.2",
+      "title": "Bảng F.2 - Hệ số Ψ cho công xôn ngàm cứng có tiết diện chữ I với hai trục đối xứng",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_f_2.csv",
+      "json_file": "tables/json/bang_f_2.json"
+    },
+    {
+      "table_id": "bang_f_3",
+      "table_number": "F.3",
+      "title": "Bảng F.3 - Hệ số $\\varphi_{b}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_f_3.csv",
+      "json_file": "tables/json/bang_f_3.json"
+    },
+    {
+      "table_id": "bang_f_4",
+      "table_number": "F.4",
+      "title": "Bảng F.4 - Hệ số B",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_f_4.csv",
+      "json_file": "tables/json/bang_f_4.json"
+    },
+    {
+      "table_id": "bang_f_5",
+      "table_number": "F.5",
+      "title": "Bảng F.5 - Các hệ số C và D",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_f_5.csv",
+      "json_file": "tables/json/bang_f_5.json"
+    },
+    {
+      "table_id": "bang_g_1",
+      "table_number": "G.1",
+      "title": "Bảng G.1 - Hệ số chiều dài tính toán $\\mu_{1}$ của cột một bậc có đầu trên tự do",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_g_1.csv",
+      "json_file": "tables/json/bang_g_1.json"
+    },
+    {
+      "table_id": "bang_g_2",
+      "table_number": "G.2",
+      "title": "Bảng G.2 - Hệ số chiều dài tính toán $\\mu_{1}$ của cột một bậc có đầu trên ngàm trượt",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_g_2.csv",
+      "json_file": "tables/json/bang_g_2.json"
+    },
+    {
+      "table_id": "bang_g_3",
+      "table_number": "G.3",
+      "title": "Bảng G.3 - Các hệ số chiều dài tính toán $\\mu_{12}$ và $\\mu_{11}$ của cột một bậc có đầu trên tựa khớp cố định",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_g_3.csv",
+      "json_file": "tables/json/bang_g_3.json"
+    },
+    {
+      "table_id": "bang_g_4",
+      "table_number": "G.4",
+      "title": "Bảng G.4 - Các hệ số chiều dài tính toán $\\mu_{12}$ và $\\mu_{11}$ của cột một bậc có đầu trên ngàm cố định",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_g_4.csv",
+      "json_file": "tables/json/bang_g_4.json"
+    },
+    {
+      "table_id": "bang_g_5",
+      "table_number": "G.5",
+      "title": "Bảng G.5 - Các hệ số $\\mu_{m1}$, $\\mu_{m2}$, $\\mu_{m3}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_g_5.csv",
+      "json_file": "tables/json/bang_g_5.json"
+    },
+    {
+      "table_id": "bang_g_6",
+      "table_number": "G.6",
+      "title": "Bảng G.6 - Hệ số chiều dài tính toán μ của cột tiết diện không đổi chịu tải trọng không đều",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_g_6.csv",
+      "json_file": "tables/json/bang_g_6.json"
+    },
+    {
+      "table_id": "bang_g_7",
+      "table_number": "G.7",
+      "title": "Bảng G.7 - Hệ số chiều dài tính toán của cột tiết diện không đổi với liên kết đàn hồi hai đầu",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_g_7.csv",
+      "json_file": "tables/json/bang_g_7.json"
+    },
+    {
+      "table_id": "bang_g_8",
+      "table_number": "G.8",
+      "title": "Bảng G.8 - Các hệ số $C_{m}$ và $C_{n}$ của cột khung",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_g_8.csv",
+      "json_file": "tables/json/bang_g_8.json"
+    },
+    {
+      "table_id": "bang_g_9",
+      "table_number": "G.9",
+      "title": "Bảng G.9 - Các hệ số chiều dài tính toán μ và $\\mu_{2}$ của các thanh giao nhau",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_g_9.csv",
+      "json_file": "tables/json/bang_g_9.json"
+    },
+    {
+      "table_id": "bang_h_1",
+      "table_number": "H.1",
+      "title": "Bảng H.1 - Nhóm cấu kiện và liên kết kết cấu khi tính toán chịu mỏi",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_h_1.csv",
+      "json_file": "tables/json/bang_h_1.json"
+    },
+    {
+      "table_id": "bang_h",
+      "table_number": "H",
+      "title": "Bảng H - 1 (tiếp theo)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_h.csv",
+      "json_file": "tables/json/bang_h.json"
+    },
+    {
+      "table_id": "bang_i_1",
+      "table_number": "I.1",
+      "title": "Bảng I.1 - Các thông số đường hàn ở “mũi” các thanh bụng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_i_1.csv",
+      "json_file": "tables/json/bang_i_1.json"
+    },
+    {
+      "table_id": "bang_i_2",
+      "table_number": "I.2",
+      "title": "Bảng I.2 - Chiều dài tính toán $L_{ef}$ của các thanh làm bằng thép ống trong kết cấu rỗng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_i_2.csv",
+      "json_file": "tables/json/bang_i_2.json"
+    },
+    {
+      "table_id": "bang_i_3",
+      "table_number": "I.3",
+      "title": "Bảng I.3 - Hệ số $\\epsilon_{ij}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_i_3.csv",
+      "json_file": "tables/json/bang_i_3.json"
+    },
+    {
+      "table_id": "bang_i_4",
+      "table_number": "I.4",
+      "title": "Bảng I.4 - Độ mỏng thành tương đối",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_i_4.csv",
+      "json_file": "tables/json/bang_i_4.json"
+    },
+    {
+      "table_id": "bang_l_1",
+      "table_number": "L.1",
+      "title": "Bảng L.1 - Các thông số tính toán",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_l_1.csv",
+      "json_file": "tables/json/bang_l_1.json"
+    },
+    {
+      "table_id": "bang_l_2",
+      "table_number": "L.2",
+      "title": "Bảng L.2 - Hệ số ζ",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_l_2.csv",
+      "json_file": "tables/json/bang_l_2.json"
+    },
+    {
+      "table_id": "bang_l_3",
+      "table_number": "L.3",
+      "title": "Bảng L.3 - Hệ số α",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_l_3.csv",
+      "json_file": "tables/json/bang_l_3.json"
+    },
+    {
+      "table_id": "bang_m_1",
+      "table_number": "M.1",
+      "title": "Bảng M.1 - Tính chất cơ học của thép các bon",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_m_1.csv",
+      "json_file": "tables/json/bang_m_1.json"
+    },
+    {
+      "table_id": "bang_m_2",
+      "table_number": "M.2",
+      "title": "Bảng M.2 - Tính chất cơ học của thép hợp kim thấp",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_m_2.csv",
+      "json_file": "tables/json/bang_m_2.json"
+    },
+    {
+      "table_id": "bang_m_3",
+      "table_number": "M.3",
+      "title": "Bảng M.3 - Tính chất cơ học của thép cán tấm, cán dải rộng đa năng và phôi làm định hình uốn theo GOST 27772-2021",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_m_3.csv",
+      "json_file": "tables/json/bang_m_3.json"
+    },
+    {
+      "table_id": "bang_m_4",
+      "table_number": "M.4",
+      "title": "Bảng M.4 - Tính chất cơ học của thép cán hình và cán thanh theo GOST 27772-2021",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_m_4.csv",
+      "json_file": "tables/json/bang_m_4.json"
+    },
+    {
+      "table_id": "bang_m_5",
+      "table_number": "M.5",
+      "title": "Bảng M.5 - Tính chất cơ học của thép chữ I cánh song song theo GOST R 57837-2017",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_m_5.csv",
+      "json_file": "tables/json/bang_m_5.json"
+    }
+  ]
+}

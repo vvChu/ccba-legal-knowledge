@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_6_3",
+  "table_number": "6.3",
+  "table_title": "Bảng 6.3 - Các yêu cầu về loại tiết diện thép của cấu kiện có khả năng tiêu tán năng lượng theo cấp độ dẻo và giá trị tham chiếu của hệ số ứng xử",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Cấp độ dẻo",
+    "Giá trị tham chiếu của hệ số ứng xử q",
+    "Cấp tiết diện thép yêu cầu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp độ dẻo": "DCM",
+      "Giá trị tham chiếu của hệ số ứng xử q": "1,5 < q ≤ 2",
+      "Cấp tiết diện thép yêu cầu": "Cấp 1, 2 hoặc 3"
+    },
+    {
+      "_row_id": 2,
+      "Cấp độ dẻo": "DCM",
+      "Giá trị tham chiếu của hệ số ứng xử q": "2 < q ≤ 4",
+      "Cấp tiết diện thép yêu cầu": "Cấp 1 hoặc 2"
+    },
+    {
+      "_row_id": 3,
+      "Cấp độ dẻo": "DCH",
+      "Giá trị tham chiếu của hệ số ứng xử q": "q > 4",
+      "Cấp tiết diện thép yêu cầu": "Cấp 1"
+    }
+  ],
+  "footnotes": []
+}

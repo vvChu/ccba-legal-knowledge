@@ -1,0 +1,99 @@
+{
+  "table_id": "bang_49",
+  "table_number": "49",
+  "table_title": "Bảng 49 - Độ lệch đỉnh cột và độ võng của xà ngang",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Kết cấu và phương lệch",
+    "Độ lệch tương đối của đỉnh cột (so với chiều cao)",
+    "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trong nhịp",
+    "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trên công xôn",
+    "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trong nhịp",
+    "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trên công xôn",
+    "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trên công xôn"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Kết cấu và phương lệch": "1. Cột neo ở đầu và góc rẽ của tuyến dây có chiều cao đến 60 m, dọc dây dẫn",
+      "Độ lệch tương đối của đỉnh cột (so với chiều cao)": "1/120",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trong nhịp": "1/200",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trên công xôn": "1/70",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trong nhịp": "Không hạn chế",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trên công xôn": "Không hạn chế"
+    },
+    {
+      "_row_id": 2,
+      "Kết cấu và phương lệch": "2.Cột neo của tuyến dây, có chiều cao đến 60 m, dọc dây dẫn",
+      "Độ lệch tương đối của đỉnh cột (so với chiều cao)": "1/100",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trong nhịp": "1/200",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trên công xôn": "1/70",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trong nhịp": "Không hạn chế",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trên công xôn": "Không hạn chế"
+    },
+    {
+      "_row_id": 3,
+      "Kết cấu và phương lệch": "3. Cột trung gian của tuyến dây (trừ cột\nvượt), dọc và ngang dây dẫn",
+      "Độ lệch tương đối của đỉnh cột (so với chiều cao)": "Không hạn chế",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trong nhịp": "1/150",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trên công xôn": "1/50",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trong nhịp": "Không hạn chế",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trên công xôn": "Không hạn chế"
+    },
+    {
+      "_row_id": 4,
+      "Kết cấu và phương lệch": "4. Cột vượt của tuyến dây, có chiều cao trên 60 m, dọc dây dẫn",
+      "Độ lệch tương đối của đỉnh cột (so với chiều cao)": "1/140",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trong nhịp": "1/200",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trên công xôn": "1/70",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trong nhịp": "Không hạn chế",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trên công xôn": "Không hạn chế"
+    },
+    {
+      "_row_id": 5,
+      "Kết cấu và phương lệch": "5. Cột đỡ thiết bị phân phối điện, dọc dây dẫn",
+      "Độ lệch tương đối của đỉnh cột (so với chiều cao)": "1/100",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trong nhịp": "1/200",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trên công xôn": "1/70",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trong nhịp": "1/200",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trên công xôn": "1/70"
+    },
+    {
+      "_row_id": 6,
+      "Kết cấu và phương lệch": "6. Cột đỡ thiết bị phân phối điện, ngang dây dẫn",
+      "Độ lệch tương đối của đỉnh cột (so với chiều cao)": "1/70",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trong nhịp": "Không hạn chế",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trên công xôn": "Không hạn chế",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trong nhịp": "Không hạn chế",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trên công xôn": "Không hạn chế"
+    },
+    {
+      "_row_id": 7,
+      "Kết cấu và phương lệch": "7. Cột đỡ thiết bị",
+      "Độ lệch tương đối của đỉnh cột (so với chiều cao)": "1/100",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trong nhịp": "-",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trên công xôn": "-",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trong nhịp": "-",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trên công xôn": "-"
+    },
+    {
+      "_row_id": 8,
+      "Kết cấu và phương lệch": "8. Dầm đỡ thiết bị",
+      "Độ lệch tương đối của đỉnh cột (so với chiều cao)": "-",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trong nhịp": "1/300",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương đứng — trên công xôn": "1/250",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trong nhịp": "-",
+      "Độ võng tương đối của xà ngang (so với nhịp hoặc chiều dài công xôn) — phương ngang — trên công xôn": "-"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Độ lệch và độ võng quy định ở các điểm 7 và 8 phải giảm xuống khi điều kiện kỹ thuật về sử dụng thiết bị quy định yêu cầu khắt khe hơn.",
+    "fn_2": "CHÚ THÍCH 2: Độ lệch và độ võng quy định ở các điểm 7 và 8 phải giảm xuống khi điều kiện kỹ thuật về sử dụng thiết bị quy định yêu cầu khắt khe hơn.",
+    "fn_3": "CHÚ THÍCH 2: Độ lệch và độ võng quy định ở các điểm 7 và 8 phải giảm xuống khi điều kiện kỹ thuật về sử dụng thiết bị quy định yêu cầu khắt khe hơn.",
+    "fn_4": "CHÚ THÍCH 2: Độ lệch và độ võng quy định ở các điểm 7 và 8 phải giảm xuống khi điều kiện kỹ thuật về sử dụng thiết bị quy định yêu cầu khắt khe hơn.",
+    "fn_5": "CHÚ THÍCH 2: Độ lệch và độ võng quy định ở các điểm 7 và 8 phải giảm xuống khi điều kiện kỹ thuật về sử dụng thiết bị quy định yêu cầu khắt khe hơn.",
+    "fn_6": "CHÚ THÍCH 2: Độ lệch và độ võng quy định ở các điểm 7 và 8 phải giảm xuống khi điều kiện kỹ thuật về sử dụng thiết bị quy định yêu cầu khắt khe hơn.",
+    "fn_7": "CHÚ THÍCH 2: Độ lệch và độ võng quy định ở các điểm 7 và 8 phải giảm xuống khi điều kiện kỹ thuật về sử dụng thiết bị quy định yêu cầu khắt khe hơn.",
+    "fn_8": "**CHÚ THÍCH:** Không quy định độ lệch của cột thiết bị phân phối điện ngoài trời và xà ngang cột đường dây tải điện trên không ở chế độ sự cố và chế độ lắp dựng. Các chế độ sự cố và lắp dựng xem trong tiêu chuẩn hoặc tài liệu chuyên ngành điện."
+  }
+}

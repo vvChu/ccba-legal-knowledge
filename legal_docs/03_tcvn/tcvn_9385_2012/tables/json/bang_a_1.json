@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_a_1",
+  "table_number": "A.1",
+  "table_title": "Bảng A.1 - Khoảng cách các trụ đỡ hệ thống dẫn sét.",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Cách bố trí",
+    "Khoảng cách (mm)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cách bố trí": "Dây dẫn nằm ngang trên các mặt phẳng ngang",
+      "Khoảng cách (mm)": "1 000"
+    },
+    {
+      "_row_id": 2,
+      "Cách bố trí": "Dây dẫn nằm ngang trên mặt phẳng đứng",
+      "Khoảng cách (mm)": "500"
+    },
+    {
+      "_row_id": 3,
+      "Cách bố trí": "Dây dẫn thẳng đứng từ đất lên độ cao 20 m",
+      "Khoảng cách (mm)": "1 000"
+    },
+    {
+      "_row_id": 4,
+      "Cách bố trí": "Dây dẫn thẳng đứng từ 20 m trở lên",
+      "Khoảng cách (mm)": "500"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Cần khảo sát các điều kiện môi trường và khoảng cách thực tế giữa các trụ đỡ có thể khác so với những kích thước nêu trên.",
+    "fn_2": "CHÚ THÍCH 2: Cần khảo sát các điều kiện môi trường và khoảng cách thực tế giữa các trụ đỡ có thể khác so với những kích thước nêu trên.",
+    "fn_3": "**CHÚ THÍCH:** Bảng này không áp dụng cho các trụ đỡ là các bộ phận của công trình, các trụ đỡ kiểu đó có thể có các yêu cầu đặc biệt."
+  }
+}

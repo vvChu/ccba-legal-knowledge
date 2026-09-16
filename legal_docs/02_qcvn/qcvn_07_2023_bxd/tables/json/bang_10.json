@@ -1,0 +1,29 @@
+{
+  "table_id": "bang_10",
+  "table_number": "10",
+  "table_title": "Bảng 10 - Yêu cầu độ rọi mặt đường vùng xung đột giao thông",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Vị trí vùng xung đột giao thông theo cấp đường",
+    "Độ rọi trung bình ($E_{n,tb}$), lx",
+    "Độ đồng đều độ rọi, $U_{o}$(E)",
+    "Độ rọi bán trụ ($E_{bt}$), lx"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Vị trí vùng xung đột giao thông theo cấp đường": "&nbsp;&nbsp;\\- Đường cấp A\n&nbsp;&nbsp;\\- Đường cấp B\n&nbsp;&nbsp;\\- Đường cấp C",
+      "Độ rọi trung bình ($E_{n,tb}$), lx": "30",
+      "Độ đồng đều độ rọi, $U_{o}$(E)": "0,4",
+      "Độ rọi bán trụ ($E_{bt}$), lx": "10"
+    },
+    {
+      "_row_id": 2,
+      "Vị trí vùng xung đột giao thông theo cấp đường": "&nbsp;&nbsp;\\- Đường cấp D\n&nbsp;&nbsp;\\- Đường cấp E",
+      "Độ rọi trung bình ($E_{n,tb}$), lx": "20",
+      "Độ đồng đều độ rọi, $U_{o}$(E)": "0,4",
+      "Độ rọi bán trụ ($E_{bt}$), lx": "5"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,85 @@
+{
+  "table_id": "bang_05",
+  "table_number": "5",
+  "table_title": "Bảng 5 - Cường độ tính toán của liên kết một bu lông",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Trạng thái làm việc",
+    "Ký hiệu",
+    "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.6",
+    "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.8",
+    "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 8.8",
+    "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 10.9",
+    "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 12.9",
+    "Cường độ tính toán — chịu ép mặt của các cấu kiện được liên kết"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Trạng thái làm việc": "1. Chịu cắt",
+      "Ký hiệu": "$f_{vb}$",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.6": "0,42 $f_{ub}$",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.8": "0,41 $f_{ub}$",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 8.8": "0,4 $f_{ub}$",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 10.9": "0,4 $f_{ub}$",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 12.9": "0,35 $f_{ub}$",
+      "Cường độ tính toán — chịu ép mặt của các cấu kiện được liên kết": "-"
+    },
+    {
+      "_row_id": 2,
+      "Trạng thái làm việc": "2. Chịu kéo",
+      "Ký hiệu": "$f_{tb}$",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.6": "0,45 $f_{ub}$",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.8": "0,41 $f_{ub}$",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 8.8": "0,54 $f_{ub}$",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 10.9": "0,7 $f_{ub}$",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 12.9": "0,7 $f_{ub}$",
+      "Cường độ tính toán — chịu ép mặt của các cấu kiện được liên kết": "-"
+    },
+    {
+      "_row_id": 3,
+      "Trạng thái làm việc": "3. Chịu ép mặt:",
+      "Ký hiệu": "",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.6": "",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.8": "",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 8.8": "",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 10.9": "",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 12.9": "",
+      "Cường độ tính toán — chịu ép mặt của các cấu kiện được liên kết": ""
+    },
+    {
+      "_row_id": 4,
+      "Trạng thái làm việc": "a) Bu lông cấp chính xác A",
+      "Ký hiệu": "$f_{cb}$ 1)",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.6": "-",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.8": "-",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 8.8": "-",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 10.9": "-",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 12.9": "-",
+      "Cường độ tính toán — chịu ép mặt của các cấu kiện được liên kết": "1,60 $f_{ud}$"
+    },
+    {
+      "_row_id": 5,
+      "Trạng thái làm việc": "b) Bu lông cấp chính xác B",
+      "Ký hiệu": "",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.6": "-",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.8": "-",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 8.8": "-",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 10.9": "-",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 12.9": "-",
+      "Cường độ tính toán — chịu ép mặt của các cấu kiện được liên kết": "1,35 $f_{ud}$"
+    },
+    {
+      "_row_id": 6,
+      "Trạng thái làm việc": "**1) $f_{cb}$ áp dụng cho các cấu kiện được liên kết làm bằng thép có giới hạn chảy đến 540 MPa.**",
+      "Ký hiệu": "",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.6": "",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.8": "",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 8.8": "",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 10.9": "",
+      "Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 12.9": "",
+      "Cường độ tính toán — chịu ép mặt của các cấu kiện được liên kết": ""
+    }
+  ],
+  "footnotes": []
+}

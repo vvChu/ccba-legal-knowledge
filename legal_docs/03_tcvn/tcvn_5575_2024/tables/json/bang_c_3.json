@@ -1,0 +1,25 @@
+{
+  "table_id": "bang_c_3",
+  "table_number": "C.3",
+  "table_title": "Bảng C.3 - Mác thép làm bu lông móng và điều kiện áp dụng",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Kết cấu",
+    "Mác thép theo TCVN 9986-2:2013 (ISO 630-2:2011) khi nhiệt độ tính toán ≥ - 45 °C"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Kết cấu": "1. Các kết cấu, trừ cột đường dây tải điện trên không và cột thiết bị phân phối điện ngoài trời",
+      "Mác thép theo TCVN 9986-2:2013 (ISO 630-2:2011) khi nhiệt độ tính toán ≥ - 45 °C": "S235B"
+    },
+    {
+      "_row_id": 2,
+      "Kết cấu": "2. Đối với bu lông chữ U, cũng như bu lông móng của cột đường dây tải điện trên không và cột thiết bị phân phối điện ngoài trời",
+      "Mác thép theo TCVN 9986-2:2013 (ISO 630-2:2011) khi nhiệt độ tính toán ≥ - 45 °C": "S235B, S235C"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Có thể sử dụng thép tương đương theo tiêu chuẩn phù hợp."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "table_id": "bang_b_1",
+  "table_number": "B.1",
+  "table_title": "Bảng B.1 - Trị tiêu chuẩn của lực dính cho đơn vị $c^{tc}$ (kPa), góc ma sát trong $^{tc}$ (°) và mô đun biến dạng E (kPa) của đất cát (không phụ thuộc vào nguồn gốc, tuổi và độ ẩm)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại đất cát",
+    "Ký hiệu các đặc trưng",
+    "Đặc trưng của đất ứng với hệ số rỗng e — 0,45",
+    "Đặc trưng của đất ứng với hệ số rỗng e — 0,55",
+    "Đặc trưng của đất ứng với hệ số rỗng e — 0,65",
+    "Đặc trưng của đất ứng với hệ số rỗng e — 0,75"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đất cát": "",
+      "Ký hiệu các đặc trưng": "$c^{tc}$",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,45": "2",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,55": "1",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,65": "-",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,75": "-"
+    },
+    {
+      "_row_id": 2,
+      "Loại đất cát": "Cát lẫn sỏi và cát thô",
+      "Ký hiệu các đặc trưng": "$^{tc}$\nE",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,45": "43\n50 000",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,55": "40\n40 000",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,65": "38\n30 000",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,75": "-\n-"
+    },
+    {
+      "_row_id": 3,
+      "Loại đất cát": "",
+      "Ký hiệu các đặc trưng": "$c^{tc}$",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,45": "3",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,55": "2",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,65": "-",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,75": "-"
+    },
+    {
+      "_row_id": 4,
+      "Loại đất cát": "Cát thô vừa",
+      "Ký hiệu các đặc trưng": "$^{tc}$\nE",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,45": "40\n50 000",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,55": "35\n40 000",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,65": "38\n30 000",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,75": "-\n-"
+    },
+    {
+      "_row_id": 5,
+      "Loại đất cát": "",
+      "Ký hiệu các đặc trưng": "$c^{tc}$",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,45": "6",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,55": "4",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,65": "2",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,75": "-"
+    },
+    {
+      "_row_id": 6,
+      "Loại đất cát": "Cát mịn",
+      "Ký hiệu các đặc trưng": "$^{tc}$\nE",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,45": "38\n40 000",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,55": "36\n38 000",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,65": "32\n28 000",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,75": "28\n18 000"
+    },
+    {
+      "_row_id": 7,
+      "Loại đất cát": "",
+      "Ký hiệu các đặc trưng": "$c^{tc}$",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,45": "8",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,55": "6",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,65": "4",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,75": "2"
+    },
+    {
+      "_row_id": 8,
+      "Loại đất cát": "Cát bụi",
+      "Ký hiệu các đặc trưng": "$^{tc}$\nE",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,45": "36\n39 000",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,55": "34\n28 000",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,65": "30\n18 000",
+      "Đặc trưng của đất ứng với hệ số rỗng e — 0,75": "26\n11 000"
+    }
+  ],
+  "footnotes": []
+}

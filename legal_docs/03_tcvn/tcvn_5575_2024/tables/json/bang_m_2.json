@@ -1,0 +1,620 @@
+{
+  "table_id": "bang_m_2",
+  "table_number": "M.2",
+  "table_title": "Bảng M.2 - Tính chất cơ học của thép hợp kim thấp",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Tiêu chuẩn",
+    "Ký hiệu",
+    "Chiều dày tiết diện, mm — nhỏ nhất",
+    "Giới hạn chảy, MPa — nhỏ nhất",
+    "Giới hạn bền kéo, MPa — nhỏ nhất",
+    "Độ giãn dài tương đối, % — nhỏ nhất",
+    "Gia công nhiệt"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tiêu chuẩn": "1",
+      "Ký hiệu": "2",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "3",
+      "Giới hạn chảy, MPa — nhỏ nhất": "4",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "5",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "6",
+      "Gia công nhiệt": "7"
+    },
+    {
+      "_row_id": 2,
+      "Tiêu chuẩn": "ASTM A242 / A242M-13",
+      "Ký hiệu": "Type 1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 20",
+      "Giới hạn chảy, MPa — nhỏ nhất": "345",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "480",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "21",
+      "Gia công nhiệt": "-"
+    },
+    {
+      "_row_id": 3,
+      "Tiêu chuẩn": "ASTM A242 / A242M-13",
+      "Ký hiệu": "Type 1",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 20; ≤ 40",
+      "Giới hạn chảy, MPa — nhỏ nhất": "315",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "460",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "21",
+      "Gia công nhiệt": "-"
+    },
+    {
+      "_row_id": 4,
+      "Tiêu chuẩn": "ASTM A572 / A572M-15",
+      "Ký hiệu": "Grade 290, Type 1, 2, 3, 5",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "-",
+      "Giới hạn chảy, MPa — nhỏ nhất": "290",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "415",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "24",
+      "Gia công nhiệt": "-"
+    },
+    {
+      "_row_id": 5,
+      "Tiêu chuẩn": "ASTM A572 / A572M-15",
+      "Ký hiệu": "Grade 345, Type 1, 2, 3, 5",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "-",
+      "Giới hạn chảy, MPa — nhỏ nhất": "345",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "450",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "21",
+      "Gia công nhiệt": "-"
+    },
+    {
+      "_row_id": 6,
+      "Tiêu chuẩn": "ASTM A572 / A572M-15",
+      "Ký hiệu": "Grade 380,Type 1, 2, 3, 5",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "-",
+      "Giới hạn chảy, MPa — nhỏ nhất": "380",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "485",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "20",
+      "Gia công nhiệt": "-"
+    },
+    {
+      "_row_id": 7,
+      "Tiêu chuẩn": "ASTM A572 / A572M-15",
+      "Ký hiệu": "Grade 415, Type 1, 2, 3, 5",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "-",
+      "Giới hạn chảy, MPa — nhỏ nhất": "415",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "18",
+      "Gia công nhiệt": "-"
+    },
+    {
+      "_row_id": 8,
+      "Tiêu chuẩn": "ASTM A572 / A572M-15",
+      "Ký hiệu": "Grade 450,Type 1, 2, 3, 5",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "-",
+      "Giới hạn chảy, MPa — nhỏ nhất": "450",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "550",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "17",
+      "Gia công nhiệt": "-"
+    },
+    {
+      "_row_id": 9,
+      "Tiêu chuẩn": "ASTM A588 / A588M-15",
+      "Ký hiệu": "Grade A",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "345",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "485",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "21",
+      "Gia công nhiệt": "-"
+    },
+    {
+      "_row_id": 10,
+      "Tiêu chuẩn": "ASTM A588 / A588M-15",
+      "Ký hiệu": "Grade B",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "345",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "485",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "21",
+      "Gia công nhiệt": "-"
+    },
+    {
+      "_row_id": 11,
+      "Tiêu chuẩn": "ASTM A588 / A588M-15",
+      "Ký hiệu": "Grade K",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "345",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "485",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "21",
+      "Gia công nhiệt": "-"
+    },
+    {
+      "_row_id": 12,
+      "Tiêu chuẩn": "ASTM A633 / A633M-13",
+      "Ký hiệu": "Grade A",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "290",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "430÷570",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "23",
+      "Gia công nhiệt": "N"
+    },
+    {
+      "_row_id": 13,
+      "Tiêu chuẩn": "ASTM A633 / A633M-13",
+      "Ký hiệu": "Grade C",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 65",
+      "Giới hạn chảy, MPa — nhỏ nhất": "345",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "485÷620",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "23",
+      "Gia công nhiệt": "N"
+    },
+    {
+      "_row_id": 14,
+      "Tiêu chuẩn": "ASTM A633 / A633M-13",
+      "Ký hiệu": "Grade D",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 65",
+      "Giới hạn chảy, MPa — nhỏ nhất": "345",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "485÷620",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "23",
+      "Gia công nhiệt": "N"
+    },
+    {
+      "_row_id": 15,
+      "Tiêu chuẩn": "ASTM A633 / A633M-13",
+      "Ký hiệu": "Grade E",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 100",
+      "Giới hạn chảy, MPa — nhỏ nhất": "415",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "550÷690",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "23",
+      "Gia công nhiệt": "N hoặc NN"
+    },
+    {
+      "_row_id": 16,
+      "Tiêu chuẩn": "ASTM A656 / A656M-13",
+      "Ký hiệu": "Grade 345, Type 3, 7, 8",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 50",
+      "Giới hạn chảy, MPa — nhỏ nhất": "345",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "415",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "23",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 17,
+      "Tiêu chuẩn": "ASTM A656 / A656M-13",
+      "Ký hiệu": "Grade 415, Type 3, 7, 8",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 40",
+      "Giới hạn chảy, MPa — nhỏ nhất": "415",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "485",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "20",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 18,
+      "Tiêu chuẩn": "ASTM A656 / A656M-13",
+      "Ký hiệu": "Grade 485, Type 3, 7, 8",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 25",
+      "Giới hạn chảy, MPa — nhỏ nhất": "485",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "550",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "17",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 19,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 310,Class 1, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "310",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "410 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "23 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 20,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 310,Class 1, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "310",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "410 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "25 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 21,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 340,Class 2, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "340",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "410 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "20 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 22,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 340,Class 2, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "340",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "410 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "22 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 23,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 340,Class 1, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "340",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "450 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "20 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 24,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 340,Class 1, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "340",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "450 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "22 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 25,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 380,Class 2, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "380",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "450 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "18 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 26,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 380, Class 1, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "380",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "480 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "18 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 27,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 380, Class 1, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "380",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "480 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "20 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 28,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 410,Class 2, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "410",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "480 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "16 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 29,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 410,Class 2, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "410",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "480 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "18 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 30,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 410,Class 1, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "410",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "16 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 31,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 410,Class 1, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "410",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "18 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 32,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 450,Class 2, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "450",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "14 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 33,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 450,Class 2, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "450",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "16 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 34,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 450, Class 1, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "450",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "550 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "14 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 35,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 450, Class 1, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "450",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "550 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "16 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 36,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 480,Class 1, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "480",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "585 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "12 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 37,
+      "Tiêu chuẩn": "ASTM A1011 / A1011M-14",
+      "Ký hiệu": "Grade 480,Class 1, HSLAS",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 2,5",
+      "Giới hạn chảy, MPa — nhỏ nhất": "480",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "585 L",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "14 L",
+      "Gia công nhiệt": "HR"
+    },
+    {
+      "_row_id": 38,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q295A, Q295B",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 16",
+      "Giới hạn chảy, MPa — nhỏ nhất": "295",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "390÷570",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "23",
+      "Gia công nhiệt": "HR, CtR, N hoặc NT"
+    },
+    {
+      "_row_id": 39,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q295A, Q295B",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 16; ≤ 35",
+      "Giới hạn chảy, MPa — nhỏ nhất": "275",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "390÷570",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "23",
+      "Gia công nhiệt": "HR, CtR, N hoặc NT"
+    },
+    {
+      "_row_id": 40,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q295A, Q295B",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 35; ≤ 50",
+      "Giới hạn chảy, MPa — nhỏ nhất": "255",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "390÷570",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "23",
+      "Gia công nhiệt": "HR, CtR, N hoặc NT"
+    },
+    {
+      "_row_id": 41,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q345A, Q345B",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 16",
+      "Giới hạn chảy, MPa — nhỏ nhất": "345",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "470÷630",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "21",
+      "Gia công nhiệt": "HR, CtR, N hoặc NT"
+    },
+    {
+      "_row_id": 42,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q345A, Q345B",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 16; ≤ 35",
+      "Giới hạn chảy, MPa — nhỏ nhất": "325",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "470÷630",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "21",
+      "Gia công nhiệt": "HR, CtR, N hoặc NT"
+    },
+    {
+      "_row_id": 43,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q345A, Q345B",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 35; ≤ 50",
+      "Giới hạn chảy, MPa — nhỏ nhất": "295",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "470÷630",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "21",
+      "Gia công nhiệt": "HR, CtR, N hoặc NT"
+    },
+    {
+      "_row_id": 44,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q345C, Q345D, Q345E",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 16",
+      "Giới hạn chảy, MPa — nhỏ nhất": "345",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "470÷630",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "22",
+      "Gia công nhiệt": "HR, CtR, N hoặc NT"
+    },
+    {
+      "_row_id": 45,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q345C, Q345D, Q345E",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 16; ≤ 35",
+      "Giới hạn chảy, MPa — nhỏ nhất": "325",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "470÷630",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "22",
+      "Gia công nhiệt": "HR, CtR, N hoặc NT"
+    },
+    {
+      "_row_id": 46,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q345C, Q345D, Q345E",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 35; ≤ 50",
+      "Giới hạn chảy, MPa — nhỏ nhất": "295",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "470÷630",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "22",
+      "Gia công nhiệt": "HR, CtR, N hoặc NT"
+    },
+    {
+      "_row_id": 47,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q420A, Q420B",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 16",
+      "Giới hạn chảy, MPa — nhỏ nhất": "420",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520÷680",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "18",
+      "Gia công nhiệt": "HR, CtR, N hoặc NT"
+    },
+    {
+      "_row_id": 48,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q420A, Q420B",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 16; ≤ 35",
+      "Giới hạn chảy, MPa — nhỏ nhất": "400",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520÷680",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "18",
+      "Gia công nhiệt": "HR, CtR, N hoặc NT"
+    },
+    {
+      "_row_id": 49,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q420A, Q420B",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 35; ≤ 50",
+      "Giới hạn chảy, MPa — nhỏ nhất": "380",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520÷680",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "18",
+      "Gia công nhiệt": "HR, CtR, N hoặc NT"
+    },
+    {
+      "_row_id": 50,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q420C",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 16",
+      "Giới hạn chảy, MPa — nhỏ nhất": "420",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520÷680",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19",
+      "Gia công nhiệt": "HR, CtR, N, NT hoặc QT"
+    },
+    {
+      "_row_id": 51,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q420C",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 16; ≤ 35",
+      "Giới hạn chảy, MPa — nhỏ nhất": "400",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520÷680",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19",
+      "Gia công nhiệt": "HR, CtR, N, NT hoặc QT"
+    },
+    {
+      "_row_id": 52,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q420C",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 35; ≤ 50",
+      "Giới hạn chảy, MPa — nhỏ nhất": "380",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520÷680",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19",
+      "Gia công nhiệt": "HR, CtR, N, NT hoặc QT"
+    },
+    {
+      "_row_id": 53,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q420D",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 16",
+      "Giới hạn chảy, MPa — nhỏ nhất": "420",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520÷680",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19",
+      "Gia công nhiệt": "HR, CtR, N, NT hoặc QT"
+    },
+    {
+      "_row_id": 54,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q420D",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 16; ≤ 35",
+      "Giới hạn chảy, MPa — nhỏ nhất": "400",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520÷680",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19",
+      "Gia công nhiệt": "HR, CtR, N, NT hoặc QT"
+    },
+    {
+      "_row_id": 55,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q420D",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 35; ≤ 50",
+      "Giới hạn chảy, MPa — nhỏ nhất": "380",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520÷680",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19",
+      "Gia công nhiệt": "HR, CtR, N, NT hoặc QT"
+    },
+    {
+      "_row_id": 56,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q420E",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 16",
+      "Giới hạn chảy, MPa — nhỏ nhất": "420",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520÷680",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19",
+      "Gia công nhiệt": "HR, CtR, N, NT hoặc QT"
+    },
+    {
+      "_row_id": 57,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q420E",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 16; ≤ 35",
+      "Giới hạn chảy, MPa — nhỏ nhất": "400",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520÷680",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19",
+      "Gia công nhiệt": "HR, CtR, N, NT hoặc QT"
+    },
+    {
+      "_row_id": 58,
+      "Tiêu chuẩn": "GB/T 1591-2008",
+      "Ký hiệu": "Q420E",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "> 35; ≤ 50",
+      "Giới hạn chảy, MPa — nhỏ nhất": "380",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520÷680",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "19",
+      "Gia công nhiệt": "HR, CtR, N, NT hoặc QT"
+    },
+    {
+      "_row_id": 59,
+      "Tiêu chuẩn": "GB/T 16270-1996",
+      "Ký hiệu": "Q420C, Q420D, Q420E",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "≤ 50",
+      "Giới hạn chảy, MPa — nhỏ nhất": "420",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "520÷670",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "18 T",
+      "Gia công nhiệt": "CtR, N, QT hoặc NT"
+    },
+    {
+      "_row_id": 60,
+      "Tiêu chuẩn": "**Các ký hiệu trong cột (7):\nCtR - control rolled; HR - hot rolled; N - normalized; NN - double normalized; NT - normalized and tempered; QT - quenched and tempered.**",
+      "Ký hiệu": "",
+      "Chiều dày tiết diện, mm — nhỏ nhất": "",
+      "Giới hạn chảy, MPa — nhỏ nhất": "",
+      "Giới hạn bền kéo, MPa — nhỏ nhất": "",
+      "Độ giãn dài tương đối, % — nhỏ nhất": "",
+      "Gia công nhiệt": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Để có thêm thông tin đầy đủ, xem trong các tiêu chuẩn sản phẩm tương ứng."
+  }
+}

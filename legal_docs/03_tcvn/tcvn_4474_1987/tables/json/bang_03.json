@@ -1,0 +1,24 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Đường kính ống (mm)",
+    "Khoảng cách giữa các ống kiểm tra, giữa các ống thông tắc phụ thuộc vào tính chất của nước thải — Nước thải của sản xuất không có chất bẩn",
+    "Khoảng cách giữa các ống kiểm tra, giữa các ống thông tắc phụ thuộc vào tính chất của nước thải — Nước thải sinh hoạt và phân, tiểu, nước thải sản xuất có chất bẩn tương tự",
+    "Khoảng cách giữa các ống kiểm tra, giữa các ống thông tắc phụ thuộc vào tính chất của nước thải — Nước thải sản xuất có nhiều chất lơ lửng",
+    "Loại thiết bị để thông tắc"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đường kính ống (mm)": "Từ 50 đến 75\nTừ 50 đến 75\nTừ 100 đến 150\nTừ 100 đến 150\n200",
+      "Khoảng cách giữa các ống kiểm tra, giữa các ống thông tắc phụ thuộc vào tính chất của nước thải — Nước thải của sản xuất không có chất bẩn": "13\n10\n20\n15\n25",
+      "Khoảng cách giữa các ống kiểm tra, giữa các ống thông tắc phụ thuộc vào tính chất của nước thải — Nước thải sinh hoạt và phân, tiểu, nước thải sản xuất có chất bẩn tương tự": "12\n8\n15\n10\n20",
+      "Khoảng cách giữa các ống kiểm tra, giữa các ống thông tắc phụ thuộc vào tính chất của nước thải — Nước thải sản xuất có nhiều chất lơ lửng": "10\n6\n12\n8\n15",
+      "Loại thiết bị để thông tắc": "ống kiểm tra ống thông tắc ống kiểm tra ống thông tắc ống kiểm tra"
+    }
+  ],
+  "footnotes": []
+}

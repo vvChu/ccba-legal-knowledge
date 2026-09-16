@@ -1,0 +1,497 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 9385 2012
+total_figures: 60
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Bản đồ mật độ sét đánh trong năm trên toàn thế giới
+  annex: D
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  slug: '2'
+  tag: '2'
+  title: Bản đồ mật độ sét đánh trong năm trên lãnh thổ Việt Nam
+  annex: D
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_3
+  slug: '3'
+  tag: '3'
+  title: Một số dạng công trình và diện tích thu sét
+  annex: B
+  anchor: hinh-3
+  image_relpath: figures/images/hinh_3.png
+  has_image: true
+- figure_id: FIG_4
+  slug: '4'
+  tag: '4'
+  title: Hệ thống chống sét cho ống khói xây gạch
+  annex: B
+  anchor: hinh-4
+  image_relpath: figures/images/hinh_4.png
+  has_image: true
+- figure_id: FIG_5
+  slug: '5'
+  tag: '5'
+  title: Xác định góc và phạm vi bảo vệ hiệu quả của kim thu sét
+  annex: B
+  anchor: hinh-5
+  image_relpath: figures/images/hinh_5.png
+  has_image: true
+- figure_id: FIG_6
+  slug: '6'
+  tag: '6'
+  title: Lan can, lớp phủ đỉnh tường bằng kim loại và cốt thép được sử dụng làm kim
+    thu sét và dây xuống
+  annex: B
+  anchor: hinh-6
+  image_relpath: figures/images/hinh_6.png
+  has_image: true
+- figure_id: FIG_7
+  slug: '7'
+  tag: '7'
+  title: Điểm đo kiểm tra
+  annex: B
+  anchor: hinh-7
+  image_relpath: figures/images/hinh_7.png
+  has_image: true
+- figure_id: FIG_8
+  slug: '8'
+  tag: '8'
+  title: Các kiểu kim thu sét điển hình
+  annex: B
+  anchor: hinh-8
+  image_relpath: figures/images/hinh_8.png
+  has_image: true
+- figure_id: FIG_9
+  slug: '9'
+  tag: '9'
+  title: Thu sét cho mái bằng
+  annex: B
+  anchor: hinh-9
+  image_relpath: figures/images/hinh_9.png
+  has_image: true
+- figure_id: FIG_10
+  slug: '10'
+  tag: '10'
+  title: Thu sét cho mái bằng có nhiều độ cao khác nhau
+  annex: B
+  anchor: hinh-10
+  image_relpath: figures/images/hinh_10.png
+  has_image: true
+- figure_id: FIG_11
+  slug: '11'
+  tag: '11'
+  title: Thu sét cho mái có diện tích lớn và nhiều đỉnh nóc
+  annex: B
+  anchor: hinh-11
+  image_relpath: figures/images/hinh_11.png
+  has_image: true
+- figure_id: FIG_12
+  slug: '12'
+  tag: '12'
+  title: Thu sét và dây xuống đặt trong mái dốc với chiều cao dưới 20 m
+  annex: B
+  anchor: hinh-12
+  image_relpath: figures/images/hinh_12.png
+  has_image: true
+- figure_id: FIG_13
+  slug: '13'
+  tag: '13'
+  title: Thu sét và dây xuống cho công trình mái bằng
+  annex: B
+  anchor: hinh-13
+  image_relpath: figures/images/hinh_13.png
+  has_image: true
+- figure_id: FIG_14
+  slug: '14'
+  tag: '14'
+  title: Thu sét cho công trình có tháp cao dẫn điện
+  annex: B
+  anchor: hinh-14
+  image_relpath: figures/images/hinh_14.png
+  has_image: true
+- figure_id: FIG_15
+  slug: '15'
+  tag: '15'
+  title: Thu sét cho công trình có chứa các chất dễ gây cháy nổ
+  annex: B
+  anchor: hinh-15
+  image_relpath: figures/images/hinh_15.png
+  has_image: true
+- figure_id: FIG_16
+  slug: '16'
+  tag: '16'
+  title: Kẹp đấu nối bộ phận thu sét cho mái bằng trong trường hợp mái kim loại được
+    sử dụng làm một bộ phận của hệ thống chống sét
+  annex: B
+  anchor: hinh-16
+  image_relpath: figures/images/hinh_16.png
+  has_image: true
+- figure_id: FIG_17
+  slug: '17'
+  tag: '17'
+  title: Bộ phận thu sét và vùng bảo vệ công trình đơn giản có chứa chất dễ cháy nổ
+  annex: B
+  anchor: hinh-17
+  image_relpath: figures/images/hinh_17.png
+  has_image: true
+- figure_id: FIG_18
+  slug: '18'
+  tag: '18'
+  title: Các cách bố trí dây xuống cho các dạng công trình cao
+  annex: B
+  anchor: hinh-18
+  image_relpath: figures/images/hinh_18.png
+  has_image: true
+- figure_id: FIG_19
+  slug: '19'
+  tag: '19'
+  title: Chênh lệch điện áp ở mặt đất gần cột đỡ, tháp, trụ có cực nối đất nhiều cực
+    đơn
+  annex: B
+  anchor: hinh-19
+  image_relpath: figures/images/hinh_19.png
+  has_image: true
+- figure_id: FIG_20
+  slug: '20'
+  tag: '20'
+  title: Dây xuống trong ống dẫn bố trí bên trong
+  annex: B
+  anchor: hinh-20
+  image_relpath: figures/images/hinh_20.png
+  has_image: true
+- figure_id: FIG_21
+  slug: '21'
+  tag: '21'
+  title: Các nhánh vòng
+  annex: B
+  anchor: hinh-21
+  image_relpath: figures/images/hinh_21.png
+  has_image: true
+- figure_id: FIG_22
+  slug: '22'
+  tag: '22'
+  title: Hệ thống chống sét cho nhà cao tầng (trên 20m), thể hiện bộ phận thu sét,
+    dây xuống liên kết với bộ phận nhô lên trên mái
+  annex: B
+  anchor: hinh-22
+  image_relpath: figures/images/hinh_22.png
+  has_image: true
+- figure_id: FIG_23
+  slug: '23'
+  tag: '23'
+  title: Ví dụ về cực nối đất có lớp bọc được sử dụng trong kết cấu bể chứa
+  annex: B
+  anchor: hinh-23
+  image_relpath: figures/images/hinh_23.png
+  has_image: true
+- figure_id: FIG_24
+  slug: '24'
+  tag: '24'
+  title: 'Mạng nối đất: bố trí các cực nối đất'
+  annex: B
+  anchor: hinh-24
+  image_relpath: figures/images/hinh_24.png
+  has_image: true
+- figure_id: FIG_25
+  slug: '25'
+  tag: '25'
+  title: Đường cong để xác định xác suất lớn nhất dòng điện trong tia sét theo tỉ
+    số p/p0
+  annex: B
+  anchor: hinh-25
+  image_relpath: figures/images/hinh_25.png
+  has_image: true
+- figure_id: FIG_26
+  slug: '26'
+  tag: '26'
+  title: Điện cảm ứng truyền trong mạch đơn giản
+  annex: B
+  anchor: hinh-26
+  image_relpath: figures/images/hinh_26.png
+  has_image: true
+- figure_id: FIG_27
+  slug: '27'
+  tag: '27'
+  title: Đường quan hệ điện áp phóng điện theo khoảng cách
+  annex: B
+  anchor: hinh-27
+  image_relpath: figures/images/hinh_27.png
+  has_image: true
+- figure_id: FIG_28
+  slug: '28'
+  tag: '28'
+  title: Sơ đồ liên kết các thiết bị (gas, nước và điện)
+  annex: B
+  anchor: hinh-28
+  image_relpath: figures/images/hinh_28.png
+  has_image: true
+- figure_id: FIG_29
+  slug: '29'
+  tag: '29'
+  title: Tháp và chóp nhà thờ
+  annex: B
+  anchor: hinh-29
+  image_relpath: figures/images/hinh_29.png
+  has_image: true
+- figure_id: FIG_30
+  slug: '30'
+  tag: '30'
+  title: Bộ phận thu sét có hai dây thu sét treo ngang và vùng bảo vệ cho kết cấu
+    có chứa chất nổ hoặc chất rất dễ cháy
+  annex: B
+  anchor: hinh-30
+  image_relpath: figures/images/hinh_30.png
+  has_image: true
+- figure_id: FIG_31
+  slug: '31'
+  tag: '31'
+  title: Các kim thu sét đứng của nhà kho chứa chất nổ
+  annex: B
+  anchor: hinh-31
+  image_relpath: figures/images/hinh_31.png
+  has_image: true
+- figure_id: FIG_32
+  slug: '32'
+  tag: '32'
+  title: Bảo vệ đặc biệt chống quá dòng do sét gây ra trong nguồn điện cấp vào nhà
+    có chứa chất nổ hoặc chất rất dễ cháy
+  annex: B
+  anchor: hinh-32
+  image_relpath: figures/images/hinh_32.png
+  has_image: true
+- figure_id: FIG_33
+  slug: '33'
+  tag: '33'
+  title: Bảo vệ sét đánh cho các thiết bị trong nhà
+  annex: B
+  anchor: hinh-33
+  image_relpath: figures/images/hinh_33.png
+  has_image: true
+- figure_id: FIG_34
+  slug: '34'
+  tag: '34'
+  title: Hệ thống chống sét cho lều trại
+  annex: B
+  anchor: hinh-34
+  image_relpath: figures/images/hinh_34.png
+  has_image: true
+- figure_id: FIG_35
+  slug: '35'
+  tag: '35'
+  title: Chống sét dùng cho nông trại biệt lập xây gạch lợp ngói
+  annex: B
+  anchor: hinh-35
+  image_relpath: figures/images/hinh_35.png
+  has_image: true
+- figure_id: FIG_36
+  slug: '36'
+  tag: '36'
+  title: Hệ thống chống sét cho sân vận động (sân bóng đá)
+  annex: B
+  anchor: hinh-36
+  image_relpath: figures/images/hinh_36.png
+  has_image: true
+- figure_id: FIG_37
+  slug: '37'
+  tag: '37'
+  title: Công trình cầu
+  annex: B
+  anchor: hinh-37
+  image_relpath: figures/images/hinh_37.png
+  has_image: true
+- figure_id: FIG_A_1
+  slug: a_1
+  tag: A.1
+  title: Thiết kế điển hình kẹp cố định dây dẫn sét
+  annex: A
+  anchor: hinh-a_1
+  image_relpath: figures/images/hinh_a_1.png
+  has_image: true
+- figure_id: FIG_B_1
+  slug: b_1
+  tag: B.1
+  title: Ví dụ sử dụng phương pháp "hình cầu lăn" để đánh giá sự cần thiết phải bố
+    trí bộ phận thu sét cho một công trình có hình dạng phức tạp.
+  annex: B
+  anchor: hinh-b_1
+  image_relpath: figures/images/hinh_b_1.png
+  has_image: true
+- figure_id: FIG_C_1
+  slug: c_1
+  tag: C.1
+  title: Các điểm sét đánh vào công trình công nghiệp có thể ảnh hưởng đến hệ thống
+    điện tử
+  annex: N
+  anchor: hinh-c_1
+  image_relpath: figures/images/hinh_c_1.png
+  has_image: true
+- figure_id: FIG_C_2
+  slug: c_2
+  tag: C.2
+  title: Các dạng chống sét có liên quan tới thiết bị điện tử
+  annex: N
+  anchor: hinh-c_2
+  image_relpath: figures/images/hinh_c_2.png
+  has_image: true
+- figure_id: FIG_C_3
+  slug: c_3
+  tag: C.3
+  title: Phân bố dòng điện do sét đánh vào công trình có 15 cột chống xuống đất
+  annex: N
+  anchor: hinh-c_3
+  image_relpath: figures/images/hinh_c_3.png
+  has_image: true
+- figure_id: FIG_C_4
+  slug: c_4
+  tag: C.4
+  title: Mặt bằng nhà có 15 cột chống xuống đất thể hiện trường phân bố điện cảm truyền
+    dẫn
+  annex: N
+  anchor: hinh-c_4
+  image_relpath: figures/images/hinh_c_4.png
+  has_image: true
+- figure_id: FIG_C_5
+  slug: c_5
+  tag: C.5
+  title: Diện tích thu sét cho công trình và các hạng mục liền kề
+  annex: N
+  anchor: hinh-c_5
+  image_relpath: figures/images/hinh_c_5.png
+  has_image: true
+- figure_id: FIG_C_6
+  slug: c_6
+  tag: C.6
+  title: Các dây cáp đi vào công trình tách biệt với ăng ten phát sóng
+  annex: N
+  anchor: hinh-c_6
+  image_relpath: figures/images/hinh_c_6.png
+  has_image: true
+- figure_id: FIG_C_7
+  slug: c_7
+  tag: C.7
+  title: Liên kết các đường ống và cáp tại điểm ra vào công trình
+  annex: N
+  anchor: hinh-c_7
+  image_relpath: figures/images/hinh_c_7.png
+  has_image: true
+- figure_id: FIG_C_8
+  slug: c_8
+  tag: C.8
+  title: Các phương pháp giảm thiểu điện áp cảm ứng
+  annex: N
+  anchor: hinh-c_8
+  image_relpath: figures/images/hinh_c_8.png
+  has_image: true
+- figure_id: FIG_C_9
+  slug: c_9
+  tag: C.9
+  title: Hệ thống nối đất phức hợp được áp dụng cho thiết bị trong nhà nhiều tầng
+  annex: N
+  anchor: hinh-c_9
+  image_relpath: figures/images/hinh_c_9.png
+  has_image: true
+- figure_id: FIG_C_10
+  slug: c_10
+  tag: C.10
+  title: Nối đất từ điểm nối không thiết bị tới điểm nối đất của thiết bị chống quá
+    dòng
+  annex: N
+  anchor: hinh-c_10
+  image_relpath: figures/images/hinh_c_10.png
+  has_image: true
+- figure_id: FIG_C_11
+  slug: c_11
+  tag: C.11
+  title: Lắp trực tiếp lên hệ thống điện trần ngoài nhà
+  annex: N
+  anchor: hinh-c_11
+  image_relpath: figures/images/hinh_c_11.png
+  has_image: true
+- figure_id: FIG_C_12
+  slug: c_12
+  tag: C.12
+  title: Bảo vệ cho hệ thống trần trực tiếp
+  annex: N
+  anchor: hinh-c_12
+  image_relpath: figures/images/hinh_c_12.png
+  has_image: true
+- figure_id: FIG_C_13
+  slug: c_13
+  tag: C.13
+  title: Bảo vệ cáp đi dọc theo các bình chứa cao và liên kết trên mái
+  annex: N
+  anchor: hinh-c_13
+  image_relpath: figures/images/hinh_c_13.png
+  has_image: true
+- figure_id: FIG_C_14
+  slug: c_14
+  tag: C.14
+  title: Vị trí các dòng sét cao, trung bình, thấp có thể truyền xuống qua các đường
+    cáp của lò phản ứng
+  annex: N
+  anchor: hinh-c_14
+  image_relpath: figures/images/hinh_c_14.png
+  has_image: true
+- figure_id: FIG_C_15
+  slug: c_15
+  tag: C.15
+  title: Đường đặc tính dòng sét âm
+  annex: N
+  anchor: hinh-c_15
+  image_relpath: figures/images/hinh_c_15.png
+  has_image: true
+- figure_id: FIG_C_16
+  slug: c_16
+  tag: C.16
+  title: Điểm sét đánh trên công trình
+  annex: N
+  anchor: hinh-c_16
+  image_relpath: figures/images/hinh_c_16.png
+  has_image: true
+- figure_id: FIG_C_17
+  slug: c_17
+  tag: C.17
+  title: Điện cảm
+  annex: N
+  anchor: hinh-c_17
+  image_relpath: figures/images/hinh_c_17.png
+  has_image: true
+- figure_id: FIG_C_18
+  slug: c_18
+  tag: C.18
+  title: Sơ đồ mạch điện đơn giản của máy phát điện trộn sóng điện từ
+  annex: N
+  anchor: hinh-c_18
+  image_relpath: figures/images/hinh_c_18.png
+  has_image: true
+- figure_id: FIG_C_19
+  slug: c_19
+  tag: C.19
+  title: Dạng sóng của điện áp mạch hở
+  annex: N
+  anchor: hinh-c_19
+  image_relpath: figures/images/hinh_c_19.png
+  has_image: true
+- figure_id: FIG_C_20
+  slug: c_20
+  tag: C.20
+  title: Dạng sóng của dòng ngắn mạch
+  annex: N
+  anchor: hinh-c_20
+  image_relpath: figures/images/hinh_c_20.png
+  has_image: true
+- figure_id: FIG_D_1
+  slug: d_1
+  tag: D.1
+  title: Mặt bằng vùng thu sét
+  annex: D
+  anchor: hinh-d_1
+  image_relpath: figures/images/hinh_d_1.png
+  has_image: true

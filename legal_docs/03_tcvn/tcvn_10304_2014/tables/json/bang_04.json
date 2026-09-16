@@ -1,0 +1,76 @@
+{
+  "table_id": "bang_04",
+  "table_number": "4",
+  "table_title": "Bảng 4 - Các hệ số điều kiện làm việc của đất $_{cq}$ và $_{cf}$ cho cọc đóng hoặc ép",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Phương pháp hạ cọc đặc và cọc ống không moi đất ra ngoài bằng phương pháp đóng hoặc ép và các loại đất.",
+    "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — dưới mũi cọc $_{cq}$",
+    "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — trên thân cọc $_{cf}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Phương pháp hạ cọc đặc và cọc ống không moi đất ra ngoài bằng phương pháp đóng hoặc ép và các loại đất.": "(1)",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — dưới mũi cọc $_{cq}$": "(2)",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — trên thân cọc $_{cf}$": "(3)"
+    },
+    {
+      "_row_id": 2,
+      "Phương pháp hạ cọc đặc và cọc ống không moi đất ra ngoài bằng phương pháp đóng hoặc ép và các loại đất.": "1. Đóng hạ cọc đặc và cọc rỗng bịt kín mũi dùng búa cơ  (dạng treo), búa hơi và búa dầu.",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — dưới mũi cọc $_{cq}$": "1,0",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — trên thân cọc $_{cf}$": "1,0"
+    },
+    {
+      "_row_id": 3,
+      "Phương pháp hạ cọc đặc và cọc ống không moi đất ra ngoài bằng phương pháp đóng hoặc ép và các loại đất.": "&nbsp;&nbsp;\\- 2. Đóng và ép cọc vào lỗ định hướng khoan sẵn đảm bảo chiều sâu mũi cọc sâu hơn đáy lỗ tối thiểu 1 m ứng với đường kính lỗ:",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — dưới mũi cọc $_{cq}$": "",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — trên thân cọc $_{cf}$": ""
+    },
+    {
+      "_row_id": 4,
+      "Phương pháp hạ cọc đặc và cọc ống không moi đất ra ngoài bằng phương pháp đóng hoặc ép và các loại đất.": "a) Bằng cạnh cọc vuông.\nb) Nhỏ hơn cạnh cọc vuông 0,05 m\nc) Nhỏ hơn cạnh cọc vuông hoặc đường kính cọc tròn 0,15 m (đối với trụ đường dây tải điện).",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — dưới mũi cọc $_{cq}$": "1,0\n1,0\n1,0",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — trên thân cọc $_{cf}$": "0,5\n0,6\n1,0"
+    },
+    {
+      "_row_id": 5,
+      "Phương pháp hạ cọc đặc và cọc ống không moi đất ra ngoài bằng phương pháp đóng hoặc ép và các loại đất.": "3. Hạ cọc vào nền cát kết hợp xói nước với điều kiện ở giai đoạn sau cùng không dùng xói, đóng vỗ để hạ cọc đạt chiều sâu từ 1 m trở lên.",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — dưới mũi cọc $_{cq}$": "1,0",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — trên thân cọc $_{cf}$": "0,9"
+    },
+    {
+      "_row_id": 6,
+      "Phương pháp hạ cọc đặc và cọc ống không moi đất ra ngoài bằng phương pháp đóng hoặc ép và các loại đất.": "4. Hạ cọc ống bằng phương pháp rung, hạ cọc (đặc) bằng phương pháp rung và rung - ép:",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — dưới mũi cọc $_{cq}$": "",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — trên thân cọc $_{cf}$": ""
+    },
+    {
+      "_row_id": 7,
+      "Phương pháp hạ cọc đặc và cọc ống không moi đất ra ngoài bằng phương pháp đóng hoặc ép và các loại đất.": "a) Cát chặt vừa:\ncát hạt to và vừa\ncát hạt nhỏ\ncát bụi\nb) Đất dính có chỉ số sệt $I_{L}$ = 0,5:\ncát pha\nsét pha\nsét\nc) Đất dính có chỉ số sệt $I_{L}$ ≤ 0\n5. Dùng búa bất kì để đóng hạ cọc bê tông cốt thép rỗng hở mũi:",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — dưới mũi cọc $_{cq}$": "1,2\n1,1\n1,0\n0,9\n0,8\n0,7\n1,0",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — trên thân cọc $_{cf}$": "1,0\n1,0\n1,0\n0,9\n0,9\n0,9\n1,0"
+    },
+    {
+      "_row_id": 8,
+      "Phương pháp hạ cọc đặc và cọc ống không moi đất ra ngoài bằng phương pháp đóng hoặc ép và các loại đất.": "a) Khi đường kính lõi cọc tối đa 0,4 m\nb) Khi đường kính lõi cọc từ 0,4 đến 0,8 m",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — dưới mũi cọc $_{cq}$": "1,0\n0,7",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — trên thân cọc $_{cf}$": "1,0\n1,0"
+    },
+    {
+      "_row_id": 9,
+      "Phương pháp hạ cọc đặc và cọc ống không moi đất ra ngoài bằng phương pháp đóng hoặc ép và các loại đất.": "6. Dùng phương pháp bất kỳ để hạ cọc tròn rỗng kín mũi xuống chiều sâu tối thiểu 10 m, lần lượt cho mở rộng mũi cọc ở nền cát chặt vừa và trong đất dính có chỉ số sệt $I_{L}$ ≤ 0,5 ứng với đường kính phần mở rộng bằng:",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — dưới mũi cọc $_{cq}$": "",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — trên thân cọc $_{cf}$": ""
+    },
+    {
+      "_row_id": 10,
+      "Phương pháp hạ cọc đặc và cọc ống không moi đất ra ngoài bằng phương pháp đóng hoặc ép và các loại đất.": "a) 1,0 m mà không phụ thuộc vào loại đất nêu trên\nb) 1,5 m trong cát và cát pha\nc) 1,5 m trong sét và sét pha\n7. Hạ cọc bằng phương pháp ép:\na) Trong cát chặt vừa hạt to, hạt vừa và nhỏ.\nb) Trong cát bụi\nc) Trong đất dính có chỉ số sệt $I_{L}$ < 0,5\nd) Trong đất dính có chỉ số sệt $I_{L}$ ≥ 0,5",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — dưới mũi cọc $_{cq}$": "0,9\n0,8\n0,7\n1,1\n1,1\n1,1\n1,0",
+      "Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — trên thân cọc $_{cf}$": "1,0\n1,0\n1,0\n1,0\n0,8\n1,0\n1,0"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Ở điểm 4 đối với đất dính khi chỉ số sệt 0 < $I_{L}$< 0,5 , hệ số $_{cq}$, $_{cf}$ được xác định bằng nội suy."
+  }
+}

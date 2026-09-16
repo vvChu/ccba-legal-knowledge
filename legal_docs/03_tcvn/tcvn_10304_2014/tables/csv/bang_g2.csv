@@ -1,0 +1,9 @@
+﻿Loại đất,Sức kháng ở mũi xuyên qC kPa,Hệ số Kc — Cọc nhồi,Hệ số Kc — Cọc đóng,Hệ số — Cọc nhồi — Thành bê tông,Hệ số — Cọc nhồi — Thành ống thép,Hệ số — Cọc đóng — Thành bê tông,Hệ số — Cọc đóng — Thành ống thép,Cường độ sức kháng lớn nhất trên thân cọc $f_{max}$ kPa — Cọc nhồi — Thành bê tông,Cường độ sức kháng lớn nhất trên thân cọc $f_{max}$ kPa — Cọc nhồi — Thành ống thép,Cường độ sức kháng lớn nhất trên thân cọc $f_{max}$ kPa — Cọc đóng — Thành bê tông,Cường độ sức kháng lớn nhất trên thân cọc $f_{max}$ kPa — Cọc đóng — Thành ống thép
+"Đất dính chảy, Bùn (*)",< 2000,"0,4","0,5",30,30,30,30,15,15,15,
+Đất dính dẻo mềm - dẻo cứng,Từ 2000 đến 5000,"0,35","0,45",40,80,40,80,(80)<br>35,(80)<br>35,(80)<br>35,35
+Đất dính nửa cứng đến cứng,> 5000,"0,45","0,55",60,120,60,120,(80)<br>35,(80)<br>35,(80)<br>35,35
+Cát chảy,Từ 0 đến 2500,"0,4","0,5",(60)<br>120,150,(60)<br>80,(120)<br>60,35,35,35,35
+Cát chặt vừa,Từ 2500 đến 10000,"0,4","0,5",(100)<br>180,(200)<br>250,100,(200)<br>250,(120)<br>80,(80)<br>35,(120)<br>80,80
+Cát chặt đến rất chặt,>10000,"0,3","0,4",150,(300)<br>200,150,(300)<br>200,(150)<br>120,(120)<br>80,(150)<br>120,120
+Đá phấn mềm,> 5000,"0,2","0,3",100,120,100,120,35,35,35,35
+"Đá phấn phong hóa, mảnh vụn",> 5000,"0,2","0,4",60,80,60,80,(150)<br>120,(120)<br>80,(150)<br>120,120

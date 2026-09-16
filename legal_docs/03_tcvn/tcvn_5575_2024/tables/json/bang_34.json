@@ -1,0 +1,93 @@
+{
+  "table_id": "bang_34",
+  "table_number": "34",
+  "table_title": "Bảng 34 - Độ mảnh giới hạn của cấu kiện chịu kéo $\\lambda_{u}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Cấu kiện kết cấu",
+    "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — động đặt trực tiếp lên kết cấu",
+    "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — tĩnh",
+    "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — cầu trục (xem CHÚ THÍCH 4) và toa tàu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấu kiện kết cấu": "1. Thanh cánh và thanh xiên gối tựa của giản phẳng (kể cả giàn hãm) và của kết cấu lưới thanh không gian",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — động đặt trực tiếp lên kết cấu": "250",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — tĩnh": "400",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — cầu trục (xem CHÚ THÍCH 4) và toa tàu": "250"
+    },
+    {
+      "_row_id": 2,
+      "Cấu kiện kết cấu": "2. Các thanh của giàn và của kết cấu lưới thanh không gian (trừ các thanh nêu ở điểm 1)",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — động đặt trực tiếp lên kết cấu": "350",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — tĩnh": "400",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — cầu trục (xem CHÚ THÍCH 4) và toa tàu": "300"
+    },
+    {
+      "_row_id": 3,
+      "Cấu kiện kết cấu": "3. Cánh dưới của dầm (hoặc giàn) đỡ cầu trục",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — động đặt trực tiếp lên kết cấu": "-",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — tĩnh": "-",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — cầu trục (xem CHÚ THÍCH 4) và toa tàu": "150"
+    },
+    {
+      "_row_id": 4,
+      "Cấu kiện kết cấu": "4. Các thanh của hệ giằng đứng giữa các cột (ở dưới dầm đỡ cầu trục)",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — động đặt trực tiếp lên kết cấu": "300",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — tĩnh": "300",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — cầu trục (xem CHÚ THÍCH 4) và toa tàu": "200"
+    },
+    {
+      "_row_id": 5,
+      "Cấu kiện kết cấu": "5. Các thanh giằng khác",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — động đặt trực tiếp lên kết cấu": "400",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — tĩnh": "400",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — cầu trục (xem CHÚ THÍCH 4) và toa tàu": "300"
+    },
+    {
+      "_row_id": 6,
+      "Cấu kiện kết cấu": "6. Thanh cánh và thanh xiên gối tựa của cột và xà ngang; thanh neo xà ngang của cột đường dây tải điện trên không",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — động đặt trực tiếp lên kết cấu": "250",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — tĩnh": "-",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — cầu trục (xem CHÚ THÍCH 4) và toa tàu": "-"
+    },
+    {
+      "_row_id": 7,
+      "Cấu kiện kết cấu": "7. Các thanh của cột đường dây tải điện và cột thiết bị phân phối điện ngoài trời (trừ các thanh ở các điểm 6 và 8)",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — động đặt trực tiếp lên kết cấu": "350",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — tĩnh": "-",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — cầu trục (xem CHÚ THÍCH 4) và toa tàu": "-"
+    },
+    {
+      "_row_id": 8,
+      "Cấu kiện kết cấu": "8. Các thanh tiết diện chữ T hoặc chữ thập của kết cấu không gian rỗng (còn trong các thanh neo xà ngang của cột đường dây tải điện trên không - làm bằng cả thép góc đơn) chịu tác dụng của tải trọng gió, khi kiểm tra độ mảnh trong mặt phẳng thẳng đứng",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — động đặt trực tiếp lên kết cấu": "150",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — tĩnh": "-",
+      "Giá trị $\\lambda_{u}$ khi kết cấu chịu tải trọng — cầu trục (xem CHÚ THÍCH 4) và toa tàu": "-"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Đối với các thanh giằng (điểm 5) mà độ võng của chúng dưới tác dụng của trọng lượng bản thân không vượt quá L/150 khi chịu tải trọng tĩnh thi lấy $\\lambda_{u}$ = 500.",
+    "fn_2": "CHÚ THÍCH 3: Không hạn chế độ mảnh của thanh chịu kéo do ứng suất trước.",
+    "fn_3": "CHÚ THÍCH 4: Giá trị Độ mảnh giới hạn được lấy đối với cầu trục có chế độ làm việc A7 (trong các xưởng sản xuất kim loại) và A8 phù hợp với TCVN 8590-1:2010 (ISO 4301-1:1986).",
+    "fn_4": "CHÚ THÍCH 5: Đối với cánh dưới của dầm và giàn đỡ cầu trục khi cầu trục có chế độ làm việc A1 đến A6 theo TCVN 8590-1:2010 (ISO 4301-1:1986) thì lấy $\\lambda_{u}$ = 200.",
+    "fn_5": "CHÚ THÍCH 6: Tải trọng động đặt trực tiếp lên kết cấu là tải trọng dùng để tính toán chịu mỏi hoặc khi tính toán có kể đến hệ số động lực theo TCVN 2737:2023.",
+    "fn_6": "CHÚ THÍCH 2: Đối với các thanh giằng (điểm 5) mà độ võng của chúng dưới tác dụng của trọng lượng bản thân không vượt quá L/150 khi chịu tải trọng tĩnh thi lấy $\\lambda_{u}$ = 500.",
+    "fn_7": "CHÚ THÍCH 3: Không hạn chế độ mảnh của thanh chịu kéo do ứng suất trước.",
+    "fn_8": "CHÚ THÍCH 4: Giá trị Độ mảnh giới hạn được lấy đối với cầu trục có chế độ làm việc A7 (trong các xưởng sản xuất kim loại) và A8 phù hợp với TCVN 8590-1:2010 (ISO 4301-1:1986).",
+    "fn_9": "CHÚ THÍCH 5: Đối với cánh dưới của dầm và giàn đỡ cầu trục khi cầu trục có chế độ làm việc A1 đến A6 theo TCVN 8590-1:2010 (ISO 4301-1:1986) thì lấy $\\lambda_{u}$ = 200.",
+    "fn_10": "CHÚ THÍCH 6: Tải trọng động đặt trực tiếp lên kết cấu là tải trọng dùng để tính toán chịu mỏi hoặc khi tính toán có kể đến hệ số động lực theo TCVN 2737:2023.",
+    "fn_11": "CHÚ THÍCH 2: Đối với các thanh giằng (điểm 5) mà độ võng của chúng dưới tác dụng của trọng lượng bản thân không vượt quá L/150 khi chịu tải trọng tĩnh thi lấy $\\lambda_{u}$ = 500.",
+    "fn_12": "CHÚ THÍCH 3: Không hạn chế độ mảnh của thanh chịu kéo do ứng suất trước.",
+    "fn_13": "CHÚ THÍCH 4: Giá trị Độ mảnh giới hạn được lấy đối với cầu trục có chế độ làm việc A7 (trong các xưởng sản xuất kim loại) và A8 phù hợp với TCVN 8590-1:2010 (ISO 4301-1:1986).",
+    "fn_14": "CHÚ THÍCH 5: Đối với cánh dưới của dầm và giàn đỡ cầu trục khi cầu trục có chế độ làm việc A1 đến A6 theo TCVN 8590-1:2010 (ISO 4301-1:1986) thì lấy $\\lambda_{u}$ = 200.",
+    "fn_15": "CHÚ THÍCH 6: Tải trọng động đặt trực tiếp lên kết cấu là tải trọng dùng để tính toán chịu mỏi hoặc khi tính toán có kể đến hệ số động lực theo TCVN 2737:2023.",
+    "fn_16": "CHÚ THÍCH 2: Đối với các thanh giằng (điểm 5) mà độ võng của chúng dưới tác dụng của trọng lượng bản thân không vượt quá L/150 khi chịu tải trọng tĩnh thi lấy $\\lambda_{u}$ = 500.",
+    "fn_17": "CHÚ THÍCH 3: Không hạn chế độ mảnh của thanh chịu kéo do ứng suất trước.",
+    "fn_18": "CHÚ THÍCH 4: Giá trị Độ mảnh giới hạn được lấy đối với cầu trục có chế độ làm việc A7 (trong các xưởng sản xuất kim loại) và A8 phù hợp với TCVN 8590-1:2010 (ISO 4301-1:1986).",
+    "fn_19": "CHÚ THÍCH 5: Đối với cánh dưới của dầm và giàn đỡ cầu trục khi cầu trục có chế độ làm việc A1 đến A6 theo TCVN 8590-1:2010 (ISO 4301-1:1986) thì lấy $\\lambda_{u}$ = 200.",
+    "fn_20": "CHÚ THÍCH 6: Tải trọng động đặt trực tiếp lên kết cấu là tải trọng dùng để tính toán chịu mỏi hoặc khi tính toán có kể đến hệ số động lực theo TCVN 2737:2023.",
+    "fn_21": "**CHÚ THÍCH:** Trong các kết cấu không chịu tải trọng động, độ mảnh của thanh chịu kéo chỉ cần kiểm tra trong mặt phẳng thẳng đứng."
+  }
+}

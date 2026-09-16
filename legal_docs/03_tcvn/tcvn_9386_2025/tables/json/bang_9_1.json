@@ -1,0 +1,33 @@
+{
+  "table_id": "bang_9_1",
+  "table_number": "9.1",
+  "table_title": "Bảng 9.1 - Các loại kết cấu và giới hạn trên của hệ số ứng xử",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại kết cấu",
+    "Hệ số ứng xử q"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại kết cấu": "Kết cấu khối xây không có cốt thép phù hợp với các yêu cầu của riêng EN 1996 (chỉ khuyến nghị trong trường hợp động đất yếu)",
+      "Hệ số ứng xử q": "1,5"
+    },
+    {
+      "_row_id": 2,
+      "Loại kết cấu": "Kết cấu khối xây không có cốt thép phù hợp với tiêu chuẩn này",
+      "Hệ số ứng xử q": "1,5"
+    },
+    {
+      "_row_id": 3,
+      "Loại kết cấu": "Kết cấu khối xây bị hạn chế biến dạng",
+      "Hệ số ứng xử q": "2,0"
+    },
+    {
+      "_row_id": 4,
+      "Loại kết cấu": "Kết cấu khối xây có cốt thép",
+      "Hệ số ứng xử q": "2,5"
+    }
+  ],
+  "footnotes": []
+}

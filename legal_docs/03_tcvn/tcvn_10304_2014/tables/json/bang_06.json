@@ -1,0 +1,62 @@
+{
+  "table_id": "bang_06",
+  "table_number": "6",
+  "table_title": "Bảng 6 - Các hệ số 1, 2 , 3 và 4 trong công thức (13) & (14)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Hệ số",
+    "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 23",
+    "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 25",
+    "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 27",
+    "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 29",
+    "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 31",
+    "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 33",
+    "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 35",
+    "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 37",
+    "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 39"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Hệ số": "$_{1}$\n$_{2}$",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 23": "9,5\n18,6",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 25": "12,6\n24,8",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 27": "17,3\n32,8",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 29": "24,4\n45,5",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 31": "34,6\n64",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 33": "48,6\n78,6",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 35": "71,3\n127,0",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 37": "108,0\n185,0",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 39": "163,0\n260,0"
+    },
+    {
+      "_row_id": 2,
+      "Hệ số": "$_{3}$ ứng với h/d\n4,0\n5,0\n7,5\n10,0\n12,5\n15,0\n17,5\n20,0\n22,5\n≥ 25,0",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 23": "0,78\n0,75\n0,68\n0,62\n0,58\n0,55\n0,51\n0,49\n0,46\n0,44",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 25": "0,79\n0,76\n0,70\n0,65\n0,61\n0,58\n0,55\n0,53\n0,51\n0,49",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 27": "0,8\n0,77\n0,71\n0,67\n0,68\n0,61\n0,58\n0,57\n0,55\n0,54",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 29": "0,82\n0,79\n0,74\n0,70\n0,67\n0,65\n0,62\n0,61\n0,6\n0,59",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 31": "0,84\n0,81\n0,76\n0,73\n0,70\n0,68\n0,66\n0,65\n0,64\n0,63",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 33": "0,85\n0,82\n0,78\n0,75\n0,73\n0,71\n0,69\n0,68\n0,67\n0,67",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 35": "0,85\n0,83\n0,8\n0,77\n0,75\n0,73\n0,72\n0,72\n0,71\n0,7",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 37": "0,85\n0,84\n0,82\n0,79\n0,78\n0,76\n0,75\n0,75\n0,74\n0,74",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 39": "0,87\n0,85\n0,84\n0,81\n0,80\n0,79\n0,78\n0,78\n0,77\n0,77"
+    },
+    {
+      "_row_id": 3,
+      "Hệ số": "$_{4}$ ứng với d ≤ 0,8 m\n4,0",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 23": "0,34\n0,25",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 25": "0,31\n0,24",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 27": "0,29\n0,23",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 29": "0,27\n0,22",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 31": "0,26\n0,21",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 33": "0,25\n0,20",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 35": "0,24\n0,19",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 37": "0,23\n0,18",
+      "Góc ma sát trong tính toán $_{I}$ của đất dưới mũi cọc độ — 39": "0,22\n0,17"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Giá trị tính toán của góc ma sát trong cần lấy  = $_{I}$; đối với các giá trị trung gian $_{I}$, h/d và d, giá trị các hệ số $_{1}$, $_{2}$ , $_{3}$ và $_{4}$ xác định bằng phương pháp nội suy."
+  }
+}

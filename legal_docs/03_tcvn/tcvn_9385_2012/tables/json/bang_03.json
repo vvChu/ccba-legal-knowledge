@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Độ dày tối thiểu của tấm kim loại sử dụng để lợp mái nhà và tạo thành một phần của hệ thống chống sét",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Vật liệu",
+    "Độ dày tối thiểu(mm)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Vật liệu": "Thép mạ",
+      "Độ dày tối thiểu(mm)": "0,5"
+    },
+    {
+      "_row_id": 2,
+      "Vật liệu": "Thép không gỉ",
+      "Độ dày tối thiểu(mm)": "0,4"
+    },
+    {
+      "_row_id": 3,
+      "Vật liệu": "Đồng",
+      "Độ dày tối thiểu(mm)": "0,3"
+    },
+    {
+      "_row_id": 4,
+      "Vật liệu": "Nhôm và kẽm",
+      "Độ dày tối thiểu(mm)": "0,7"
+    },
+    {
+      "_row_id": 5,
+      "Vật liệu": "Chì",
+      "Độ dày tối thiểu(mm)": "2,0"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Các số liệu trong bảng này là hợp lý khi mái nhà là một phần của hệ thống chống sét. Tuy nhiên vẫn có nguy cơ tấm kim loại bị đánh thủng đối với các cú sét đánh thẳng."
+  }
+}

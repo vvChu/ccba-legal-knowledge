@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_a",
+  "table_number": "A",
+  "table_title": "Bảng A - Hệ số tỷ lệ k theo công thức (A.1)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Đất bao quanh cọc và các đặc trưng của đất",
+    "Hệ số tỷ lệ kkN/$m^{4}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đất bao quanh cọc và các đặc trưng của đất": "Cát to (0,55 ≤ e ≤ 0,7 );\nSét và sét pha cứng ($I_{L}$ <0).",
+      "Hệ số tỷ lệ kkN/$m^{4}$": "Từ 18000 đến 30000"
+    },
+    {
+      "_row_id": 2,
+      "Đất bao quanh cọc và các đặc trưng của đất": "Cát hạt nhỏ (0,6 ≤ e ≤ 0,75); cát hạt vừa (0,55 ≤ e ≤ 0,7);\nCát pha cứng ($I_{L}$ <0); sét, sét pha dẻo cứng\nvà nửa cứng (0 ≤ $I_{L}$ ≤ 0,5)",
+      "Hệ số tỷ lệ kkN/$m^{4}$": "Từ 12 000 đến 18 000"
+    },
+    {
+      "_row_id": 3,
+      "Đất bao quanh cọc và các đặc trưng của đất": "Cát bụi (0,6 ≤ e ≤ 0,8); cát pha dẻo (0 ≤ $I_{L}$ ≤ 1) và\nSét và sét pha dẻo mềm (0,5 ≤ $I_{L}$ ≤ 0,75)",
+      "Hệ số tỷ lệ kkN/$m^{4}$": "Từ 7 000 đến 12 000"
+    },
+    {
+      "_row_id": 4,
+      "Đất bao quanh cọc và các đặc trưng của đất": "Sét và sét pha dẻo chảy (0,75 ≤ $I_{L}$ ≤ 1)",
+      "Hệ số tỷ lệ kkN/$m^{4}$": "Từ 4 000 đến 7 000"
+    },
+    {
+      "_row_id": 5,
+      "Đất bao quanh cọc và các đặc trưng của đất": "Cát sạn (0,55 ≤ e ≤ 0,7) ; đất hạt lớn lẫn cát",
+      "Hệ số tỷ lệ kkN/$m^{4}$": "Từ 50 000 đến 100 000"
+    }
+  ],
+  "footnotes": []
+}

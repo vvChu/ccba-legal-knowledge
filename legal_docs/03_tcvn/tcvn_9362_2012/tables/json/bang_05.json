@@ -1,0 +1,74 @@
+{
+  "table_id": "bang_05",
+  "table_number": "5",
+  "table_title": "Bảng 5 - Phân loại cát",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại cát",
+    "Độ chặt của cát — Chặt",
+    "Độ chặt của cát — Chặt vừa",
+    "Độ chặt của cát — Rời"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại cát": "**A. Theo hệ số rỗng (e)**",
+      "Độ chặt của cát — Chặt": "",
+      "Độ chặt của cát — Chặt vừa": "",
+      "Độ chặt của cát — Rời": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại cát": "Cát sỏi thô và thô vừa\nCát mịn\nCát bụi",
+      "Độ chặt của cát — Chặt": "e < 0,55\ne < 0,6\ne < 0,6",
+      "Độ chặt của cát — Chặt vừa": "0,55 ≤ e ≤ 0,7\n0,6 ≤ e ≤ 0,75\n0,6 ≤ e ≤ 0,8",
+      "Độ chặt của cát — Rời": "e > 0,7\ne > 0,75\ne > 0,8"
+    },
+    {
+      "_row_id": 3,
+      "Loại cát": "**B. Theo sức kháng xuyên côn $p_{t}$ (MPa) khi xuyên tĩnh**",
+      "Độ chặt của cát — Chặt": "",
+      "Độ chặt của cát — Chặt vừa": "",
+      "Độ chặt của cát — Rời": ""
+    },
+    {
+      "_row_id": 4,
+      "Loại cát": "Cát thô và thô vừa (không phụ thuộc độ ẩm)\nCát mịn (không phụ thuộc độ ẩm)\nCát bụi:\na) ít ẩm và ẩm\nb) No nước",
+      "Độ chặt của cát — Chặt": "$p_{t}$ > 15\n$p_{t}$ >12\n$p_{t}$ > 10\n$p_{t}$ > 7",
+      "Độ chặt của cát — Chặt vừa": "15 ≥ $p_{t}$ ≥ 5\n12 ≥ $p_{t}$ ≥ 4\n10 ≥ $p_{t}$ ≥ 3\n7 ≥ $p_{t}$ ≥ 2",
+      "Độ chặt của cát — Rời": "$p_{t}$ < 5\n$p_{t}$ < 4\n$p_{t}$ < 3\n$p_{t}$ < 2"
+    },
+    {
+      "_row_id": 5,
+      "Loại cát": "**C. Theo sức kháng xuyên côn quy ước $p_{đ}$ (MPa) khi xuyên động**",
+      "Độ chặt của cát — Chặt": "",
+      "Độ chặt của cát — Chặt vừa": "",
+      "Độ chặt của cát — Rời": ""
+    },
+    {
+      "_row_id": 6,
+      "Loại cát": "Cát thô và thô vừa (không phụ thuộc độ ẩm)",
+      "Độ chặt của cát — Chặt": "$p_{đ}$ > 11",
+      "Độ chặt của cát — Chặt vừa": "11 ≥ $p_{đ}$ ≥ 3",
+      "Độ chặt của cát — Rời": "$p_{đ}$ < 3"
+    },
+    {
+      "_row_id": 7,
+      "Loại cát": "Cát mịn:\na) Ít ẩm và ẩm\nb) No nước",
+      "Độ chặt của cát — Chặt": "$p_{đ}$ > 8,5",
+      "Độ chặt của cát — Chặt vừa": "8,5 ≥ $p_{đ}$ ≥ 2",
+      "Độ chặt của cát — Rời": "$p_{đ}$ < 2"
+    },
+    {
+      "_row_id": 8,
+      "Loại cát": "Cát bụi ít ẩm và ẩm",
+      "Độ chặt của cát — Chặt": "$p_{đ}$ > 8,5",
+      "Độ chặt của cát — Chặt vừa": "8,5 ≥ $p_{đ}$ ≥ 2",
+      "Độ chặt của cát — Rời": "$p_{đ}$ < 2"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH 1:** Không cho phép dùng xuyên động để xác định độ chặt của cát bụi no nước.",
+    "fn_2": "**CHÚ THÍCH 2:** Khi xuyên đất, dùng hình nón có góc ở đỉnh là 60° và đường kính là 36 mm để xuyên tĩnh và 74 mm để xuyên động."
+  }
+}

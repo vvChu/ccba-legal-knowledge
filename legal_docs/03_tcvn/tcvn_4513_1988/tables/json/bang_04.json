@@ -1,0 +1,27 @@
+{
+  "table_id": "bang_04",
+  "table_number": "4",
+  "table_title": "Bảng 4",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Tính chất của ngôi nhà và công trình",
+    "Chiều cao cần thiết của cột nước phun dày đặc (m)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tính chất của ngôi nhà và công trình": "Nhà ở công trình công cộng, nhà phụ có bậc chịu lửa I, II",
+      "Chiều cao cần thiết của cột nước phun dày đặc (m)": "6"
+    },
+    {
+      "_row_id": 2,
+      "Tính chất của ngôi nhà và công trình": "Nhà ở, công trình công cộng, nhà phụ và nhà sản xuất có sử dụng vật liệu dễ cháy và dễ gây ra cháy",
+      "Chiều cao cần thiết của cột nước phun dày đặc (m)": "Chiều cao cần thiết để có thể phun đến một điểm cao nhất và xa nhất của ngôi nhà nhưng không được thấp hơn 6m."
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH 1:** Khi tính toán áp lực nước ở đầu lăng phun nước, phải tính đến tổn thất áp lực trong ống vòi rồng bằng vải bạt dài 10 hay 20 m, đường kính miệng lăng phun nước là 13 ; 16 ; 19 ; 22 mm.",
+    "fn_2": "**CHÚ THÍCH 2:** Đối với lưu lượng 2,5 l/s, ống vòi rồng dẫn nước phải có đường kính 50 mm và đường kính đầu phun của lăng ít nhất 13mm. Đối với lưu lượng 5 l/s phải dùng ống vòi rồng có đường kính 65mm và đường kính đầu phun của lăng ít nhất 16mm.",
+    "fn_3": "**CHÚ THÍCH 3:** Đối với các ngôi nhà mà áp lực nước bên ngoài thường xuyên không đủ để cung cấp nước cho các họng chữa cháy trong nhà thì cần phải đặt máy bơm để tăng áp và có bộ phận điều khiển máy từ xa, bố trí ở ngay cạnh họng chữa cháy."
+  }
+}

@@ -749,3 +749,49 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Bảo tồn nguyên vẹn $100\%$ các thẻ nhúng MathType OLE `<w:object>`, `<m:oMath>`, `<w:drawing>` và cấu trúc đánh số `<w:numPr>`.
   5. **Bỏ Qua Khối Mục Lục Khi Đối Soát Verbatim (Gate 11 TOC Bypass):**
      - Tự động nhận diện và bỏ qua các khối mục lục dàn trang (TOC paragraphs) trong bộ kiểm định Gate 11, tập trung đo lường độ trùng khớp $1:1$ trên toàn bộ nội dung quy phạm thực tế.
+
+---
+
+## 46. Multi-Part Table Disambiguation, Dual-PDF Provenance Vault, KaTeX Multiline Tag Sanitization, Clause-Referenced Uncaptioned Table Fallback & Single-Annex Parsing Normalization (ADR 0043, ADR 0044)
+
+- **Vấn đề Phát Hiện (Thực Nghiệm 10 Tiêu Chuẩn & Quy Chuẩn Trọng Điểm):**
+  1. **Xung Đột Tên Bảng Trong Quy Chuẩn Đa Phần (Umbrella Standard Collisions):** Các bộ quy chuẩn liên hoàn như QCVN 07:2023/BXD gồm 10 phần kỹ thuật độc lập (07-1 đến 07-10), mỗi phần đều đánh số lại từ Bảng 1, Bảng 2. Khi trích xuất phẳng vào thư mục `tables/`, các tệp bảng của phần sau sẽ ghi đè tệp bảng của phần trước (`bang_01.csv`), làm thất thoát dữ liệu 2D tra cứu nghiêm trọng.
+  2. **Tệp Nguồn Scan Mờ & Thoái Hóa Phông Chữ TCVN3 (Scanned vs Vector PDF Ingestion Dilemma):** Các tiêu chuẩn kỹ thuật ban hành trước năm 2015 (TCVN 4474:1987, TCVN 4513:1988, TCVN 9362:2012, TCVN 10304:2014) trên TVPL thường chỉ có bản scan mờ hoặc file PDF bị lỗi mã hóa chữ TCVN3/VNI, khiến kiểm định thị giác và trích xuất vector thất bại; trong khi file DOCX chính quy lại rất sạch và có thể kết xuất thành bản in Vector PDF hoàn hảo. Tuy nhiên, nếu xóa bỏ bản scan gốc sẽ phá vỡ tính truy xuất nguồn gốc pháp lý (Legal Provenance).
+  3. **Lỗi Cú Pháp KaTeX Khi Dùng `\tag{...}` Trong Khối Đa Dòng:** Các tiêu chuẩn tính toán kết cấu (TCVN 5575:2024, TCVN 9386:2025, TCVN 10304:2014) có nhiều hệ phương trình phức tạp. Khi dùng lệnh `\tag{...}` bên trong các môi trường `aligned`, `cases`, `gather`, KaTeX sẽ văng lỗi bôi đỏ hiển thị.
+  4. **Bỏ Sót Bảng Không Tiêu Đề Được Dẫn Chiếu Trong Điều Khoản (Clause-Referenced Uncaptioned Tables):** Trong các tiêu chuẩn cũ (TCVN 4474:1987), nhiều bảng biểu không có dòng tiêu đề `Bảng X` độc lập ở phía trên mà được nhúng ngay dưới câu văn dẫn chiếu (*"...được lấy theo bảng 8."*). Parser cũ coi các bảng này là bảng dàn trang không tên nên bỏ qua, làm mất bảng số liệu kỹ thuật.
+  5. **Gãy Regex Khi Tiêu Chuẩn Chỉ Có Duy Nhất 1 Phụ Lục (Single-Annex Fallback):** Khi tiêu chuẩn chỉ có 1 phụ lục duy nhất mang tên `Phụ lục` (không kèm chữ cái A, B hoặc số La Mã), regex nhận diện `m_annex` bị trượt, khiến toàn bộ phụ lục bị nuốt vào thân chính.
+  6. **False-Positive Gate 9 Khi Thẻ Mỏ Neo Ngắt Khối Chú Thích:** Bộ linter chia đoạn theo mọi thẻ HTML `<a id="...">` khiến mỏ neo hình ảnh (`<a id="hinh-...">`) và tiêu đề bảng vô tình cắt vụn khối chú thích chân bảng, gây lỗi giả `MISSING_NOTE_1`.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Định Danh Tiền Tố Phân Phần Cho Bảng Biểu (Part-Prefixed Table Routing - ADR 0044):**
+     - Tự động nhận diện cấu trúc phân phần của quy chuẩn umbrella và gán tiền tố phân phần cho bảng (ví dụ: `bang_p01_01.csv`, `bang_07_1_01.csv`), đồng thời bổ sung trường `part_id` vào `tables_catalog.json` để bảo toàn $100\%$ các bảng biểu không bị ghi đè.
+  2. **Bảo Tồn Nguồn Gốc Kép & Vector PDF Vault (Dual-PDF Provenance Vault - ADR 0043):**
+     - Lưu trữ song song bản scan gốc `sources/<doc_slug>_raw_scan.pdf` để bảo tồn vết lịch sử và bản Vector PDF chuẩn xác `sources/<doc_slug>.pdf` xuất qua Word COM, gắn cờ `pdf_origin: docx_vector_rendered` trong `metadata.yaml`.
+  3. **Phân Tầng Cú Pháp Đánh Số Công Thức KaTeX:**
+     - Cho phép `\tag{X}` trong khối toán đơn dòng; cưỡng chế thay thế bằng `\qquad (X)` ở cuối dòng trong các môi trường đa dòng (`aligned`, `cases`, `gather`) để đảm bảo render mượt mà.
+  4. **Bộ Dò Bảng Biểu Không Tiêu Đề Qua Ngữ Cảnh Dẫn Chiếu (`table_handler.py`):**
+     - Khi gặp bảng không có tiêu đề phía trên, tự động quét ngược đoạn văn `blocks[i-1]` bằng regex `(?:theo|ở|tại)\s+(?:bảng|Bảng|BẢNG)\s+([0-9A-Za-zĐđ\.]+)` để trích xuất số hiệu bảng và thực thi xuất 2D CSV/JSON đầy đủ.
+  5. **Chuẩn Hóa Nhận Diện Phụ Lục Đơn Nhất (`heading_handler.py`):**
+     - Mở rộng regex nhận diện phụ lục với chữ cái tùy chọn: `r"^(?:Phụ\s+lục|PHỤ\s+LỤC)(?:\s+([A-ZĐ]|[IVXLCDM]+|[0-9]+))?\b..."`, tự động gán nhãn định danh `"1"` khi văn bản chỉ có 1 phụ lục duy nhất.
+  6. **Giới Hạn Ranh Giới Chia Đoạn Linter Footnote Chỉ Theo Thẻ Cấu Trúc Quy Phạm:**
+     - Bộ linter `lint_visual_parity.py` và `visual_parity.py` chỉ chia chunk theo các mỏ neo quy phạm chính thức (`dieu`, `khoan`, `muc`, `chuong`, `phan`), bảo vệ toàn vẹn khối chú thích bảng và hình ảnh.
+
+---
+
+## 47. Multi-Factor Dynamic Layout Table Scoring Engine & Zero-Loss Conservative Boundary (ADR 0042 Extension)
+
+- **Vấn đề Phát Hiện (Phản Biện Giới Hạn Của Quy Tắc Cứng `rows <= 3`):**
+  1. **Ảo Tưởng Giới Hạn Hàng Nhỏ (Small-Row Bounding Fallacy):** Quy tắc cứng `rows <= 3` và `cols <= 2` trong `_is_layout_table` và `_is_admin_layout_table` giả định rằng mọi bảng dàn trang hành chính đều chỉ có 1–3 dòng. Thực tế, khối nơi nhận và chữ ký trong các văn bản quy phạm Việt Nam (Nghị định 30/2020/NĐ-CP) thường gồm nhiều cấp ký và danh sách nơi nhận dài, tạo thành bảng không viền từ $4 \text{ - } 6$ hàng. Việc chặn cứng `rows <= 3` làm lọt lưới các bảng này (False Negative), dẫn tới việc sinh tệp CSV rác trong `tables/`.
+  2. **Rủi Ro Nuốt Chửng Bảng Tra Hệ Số Ngắn (False Positive):** Nhiều tiêu chuẩn kỹ thuật có các bảng tra hệ số siêu ngắn ($1 \text{ - } 2$ hàng dữ liệu) mà người soạn thảo quên bật viền hoặc đặt viền ẩn. Nếu bảng không chứa các từ khóa trong danh sách cứng `NORMATIVE_KEYWORDS`, bảng kỹ thuật này có nguy cơ bị unwrap nhầm thành văn bản thường, làm mất dữ liệu 2D tra cứu.
+  3. **Thiếu Khả Năng Thích Ứng Ngữ Cảnh Toàn Cục:** Một bảng dàn trang ở phần tiêu ngữ đầu văn bản hay phần chữ ký cuối văn bản có hành vi hoàn toàn khác với một bảng số liệu nằm giữa chương mục kỹ thuật.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Động Cơ Đánh Giá Điểm Đa Nhân Tố (Multi-Factor Scoring Engine):**
+     - Thay thế hoàn toàn điều kiện cứng `rows <= 3` bằng ma trận đánh giá 4 nhân tố: Mật độ dữ liệu số (`Numeric Density`), Vị trí biên tài liệu (`Document Boundary Topology`), Mỏ neo tiêu đề (`Caption Precedence Anchor`) và Khung công thức (`Formula Frame Guard`).
+  2. **Nguyên Lý Bảo Toàn Dữ Liệu Tuyệt Đối (Zero-Loss Conservative Invariant):**
+     - Quét toàn bộ các ô bảng để tính tỷ lệ ô chứa số thực, số nguyên, tỷ lệ phần trăm, công thức toán học hoặc đơn vị kỹ thuật (`%`, `m`, `kN`, `MPa`, `kg/m3`, `°C`...).
+     - Nếu mật độ dữ liệu số $\ge 30\%$, hệ thống khẳng định $100\%$ là **Bảng Dữ Liệu Kỹ Thuật**, cấm tuyệt đối hành vi unwrap (Zero-Loss).
+  3. **Phân Vùng Biên Tài Liệu (Document Boundary Topology):**
+     - Bảng không viền nằm ở $12\%$ đầu tài liệu (khu vực Tiêu ngữ / Quốc hiệu / Cơ quan ban hành) hoặc $12\%$ cuối tài liệu (khu vực Nơi nhận / Ký tên / Đóng dấu) được nới lỏng trần kiểm tra lên `rows <= 8`, unwrap triệt để khối chữ ký hành chính nhiều cấp.
+  4. **Xử Lý Vùng Ranh Giới Tranh Chấp (Ambiguous Boundary):**
+     - Đối với các bảng không viền, không có tiêu đề rõ ràng và $0\%$ số liệu: Nếu không chứa từ khóa hành chính đặc thù trong `LAYOUT_KEYWORDS`, hệ thống ưu tiên bảo tồn nguyên trạng cấu trúc bảng và phát cảnh báo Telemetry thay vì phá hủy cấu trúc thô bạo.

@@ -1,0 +1,12 @@
+{
+  "table_id": "bang_phu_luc_c",
+  "table_number": "PLC",
+  "table_title": "Bảng Phụ lục C",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Mô hình móng khối quy ước cho trường hợp nền đồng nhất",
+    "Mô hình móng khối quy ước cho trường hợp nền không đồng nhất"
+  ],
+  "rows": [],
+  "footnotes": []
+}

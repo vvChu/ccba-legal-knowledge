@@ -1,0 +1,24 @@
+{
+  "table_id": "bang_b_13",
+  "table_number": "B.13",
+  "table_title": "Bảng B.13 - Cường độ tính toán của thép cán khi ép mặt tì đầu, ép cục bộ trong ổ trục, ép theo đường kính con lăn",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Giới hạn bền kéo, fu",
+    "Cường độ tính toán — Chịu ép mặt tì đầu (có gia công phẳng mặt), $f_{c}$",
+    "Cường độ tính toán — Chịu ép cục bộ trong ổ trục (giữa các thớt cong với trục hình trụ) khi tiếp xúc chặt, $f_{cc}$",
+    "Cường độ tính toán — Chịu ép theo đường kính con lăn (trong các kết cấu có độ di động hạn chế), $f_{cd}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Giới hạn bền kéo, fu": "360\n365\n370\n380\n390\n400\n430\n440\n450\n460\n470\n480\n490\n500\n510\n520\n530\n540\n570\n590\n635",
+      "Cường độ tính toán — Chịu ép mặt tì đầu (có gia công phẳng mặt), $f_{c}$": "343/327\n348/332\n352/336\n362/346\n371/355\n381/364\n409/391\n419/400\n429/409\n438/418\n448/427\n457/436\n467/446\n476/455\n486/464\n495/473\n505/482\n514/491\n543/518\n562/536\n605/577",
+      "Cường độ tính toán — Chịu ép cục bộ trong ổ trục (giữa các thớt cong với trục hình trụ) khi tiếp xúc chặt, $f_{cc}$": "171/164\n174/166\n176/168\n181/173\n186/177\n191/182\n205/196\n210/200\n214/205\n219/209\n224/214\n229/218\n233/223\n238/227\n243/232\n248/236\n252/241\n257/246\n271/259\n281/268\n302/289",
+      "Cường độ tính toán — Chịu ép theo đường kính con lăn (trong các kết cấu có độ di động hạn chế), $f_{cd}$": "9/9\n9/9\n9/9\n9/9\n10/10\n10/10\n10/10\n11/11\n11/11\n11/11\n11/11\n12/12\n12/12\n12/12\n12/12\n12/12\n12/12\n13/13\n14/14\n14/14\n15/15"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Giá trị các cường độ tính toán trong Bảng B.13 (đã được làm tròn) được tính theo các công thức nêu trong Bảng 2 với $\\gamma_{m}$ = 1,05 (ở tử số) và với $\\gamma_{m}$ = 1,1 (ở mẫu số)."
+  }
+}

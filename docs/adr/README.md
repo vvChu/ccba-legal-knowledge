@@ -6,7 +6,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 
 ---
 
-## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0042)
+## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0044)
 
 ### Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.4 Universal & Biểu Mẫu
 | Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
@@ -67,3 +67,9 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | [ADR 0033](0033-spoke-md-directory-hygiene-and-archiving.md) | Spoke .md Directory Hygiene & Archiving Structure | ✅ ACCEPTED | 2026-08-24 |
 
 ---
+
+### 📌 Các Quyết Định Khác (Unassigned)
+| Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
+| :--- | :--- | :---: | :---: |
+| [ADR 0043](0043-dual-pdf-archive-and-provenance-invariant.md) | Lưu Trữ Song Song & Bảo Tồn Nguồn Gốc PDF (Dual-PDF Archive & Provenance Invariant) | ✅ ACCEPTED | 2026-09-14 |
+| [ADR 0044](0044-multipart-disambiguation-and-katex-syntax-hierarchy.md) | Định Danh Bảng Quy Chuẩn Đa Phần & Cú Pháp Toán Học Đa Dòng KaTeX (Multi-Part Disambiguation & KaTeX Syntax Hierarchy Invariant) | ✅ ACCEPTED | 2026-09-14 |

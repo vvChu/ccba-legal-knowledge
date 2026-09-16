@@ -1,0 +1,33 @@
+{
+  "table_id": "bang_09",
+  "table_number": "9",
+  "table_title": "Bảng 9 - Bảng tra giá trị hệ số E (theo dạng địa hình)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Dạng địa hình xây dựng",
+    "Giá trị hệ số E"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Dạng địa hình xây dựng": "Vùng đồng bằng, trung du",
+      "Giá trị hệ số E": "0,3"
+    },
+    {
+      "_row_id": 2,
+      "Dạng địa hình xây dựng": "Vùng đồi",
+      "Giá trị hệ số E": "1,0"
+    },
+    {
+      "_row_id": 3,
+      "Dạng địa hình xây dựng": "Vùng núi cao từ 300 m đến 900 m",
+      "Giá trị hệ số E": "1,3"
+    },
+    {
+      "_row_id": 4,
+      "Dạng địa hình xây dựng": "Vùng núi cao trên 900 m",
+      "Giá trị hệ số E": "1,7"
+    }
+  ],
+  "footnotes": []
+}

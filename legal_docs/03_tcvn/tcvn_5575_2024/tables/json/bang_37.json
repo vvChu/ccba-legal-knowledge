@@ -1,0 +1,89 @@
+{
+  "table_id": "bang_37",
+  "table_number": "37",
+  "table_title": "Bảng 37 - Cường độ chịu mỏi tính toán $f_{fat}$",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Nhóm cấu kiện",
+    "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — ≤ 420",
+    "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 420; ≤ 440",
+    "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 440; ≤ 520",
+    "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 520; ≤ 580",
+    "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 580; ≤ 675"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Nhóm cấu kiện": "1",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — ≤ 420": "120",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 420; ≤ 440": "128",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 440; ≤ 520": "132",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 520; ≤ 580": "136",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 580; ≤ 675": "145"
+    },
+    {
+      "_row_id": 2,
+      "Nhóm cấu kiện": "2",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — ≤ 420": "100",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 420; ≤ 440": "106",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 440; ≤ 520": "108",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 520; ≤ 580": "110",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 580; ≤ 675": "116"
+    },
+    {
+      "_row_id": 3,
+      "Nhóm cấu kiện": "3",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — ≤ 420": "Đối với mọi mác thép 90",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 420; ≤ 440": "Đối với mọi mác thép 90",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 440; ≤ 520": "Đối với mọi mác thép 90",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 520; ≤ 580": "Đối với mọi mác thép 90",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 580; ≤ 675": "Đối với mọi mác thép 90"
+    },
+    {
+      "_row_id": 4,
+      "Nhóm cấu kiện": "4",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — ≤ 420": "Đối với mọi mác thép 75",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 420; ≤ 440": "Đối với mọi mác thép 75",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 440; ≤ 520": "Đối với mọi mác thép 75",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 520; ≤ 580": "Đối với mọi mác thép 75",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 580; ≤ 675": "Đối với mọi mác thép 75"
+    },
+    {
+      "_row_id": 5,
+      "Nhóm cấu kiện": "5",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — ≤ 420": "Đối với mọi mác thép 60",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 420; ≤ 440": "Đối với mọi mác thép 60",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 440; ≤ 520": "Đối với mọi mác thép 60",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 520; ≤ 580": "Đối với mọi mác thép 60",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 580; ≤ 675": "Đối với mọi mác thép 60"
+    },
+    {
+      "_row_id": 6,
+      "Nhóm cấu kiện": "6",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — ≤ 420": "Đối với mọi mác thép 45",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 420; ≤ 440": "Đối với mọi mác thép 45",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 440; ≤ 520": "Đối với mọi mác thép 45",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 520; ≤ 580": "Đối với mọi mác thép 45",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 580; ≤ 675": "Đối với mọi mác thép 45"
+    },
+    {
+      "_row_id": 7,
+      "Nhóm cấu kiện": "7",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — ≤ 420": "Đối với mọi mác thép 36",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 420; ≤ 440": "Đối với mọi mác thép 36",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 440; ≤ 520": "Đối với mọi mác thép 36",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 520; ≤ 580": "Đối với mọi mác thép 36",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 580; ≤ 675": "Đối với mọi mác thép 36"
+    },
+    {
+      "_row_id": 8,
+      "Nhóm cấu kiện": "8",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — ≤ 420": "Đối với mọi mác thép 27",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 420; ≤ 440": "Đối với mọi mác thép 27",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 440; ≤ 520": "Đối với mọi mác thép 27",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 520; ≤ 580": "Đối với mọi mác thép 27",
+      "Giá trị $f_{fat}$ khi cường tiêu chuẩn theo giới hạn bền $f_{u}$, MPa — > 580; ≤ 675": "Đối với mọi mác thép 27"
+    }
+  ],
+  "footnotes": []
+}

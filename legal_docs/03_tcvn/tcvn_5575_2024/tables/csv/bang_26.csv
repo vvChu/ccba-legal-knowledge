@@ -1,0 +1,6 @@
+﻿Kết cấu nút giao các thanh của hệ thanh bụng chữ thập,"Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu kéo","Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — không chịu lực","Giá trị $L_{ef,1}$ khi thanh giao với thanh đang xét — chịu nén"
+1. Cả hai thanh - liên tục,L,"0,7$L_{1}$",$L_{1}$
+2. Thanh giao với thanh đang xét - gián đoạn và được phủ bằng bản mã:,,,
+a) Thanh đang xét - liên tục,"0,7$L_{1}$",$L_{1}$,"1,4 $L_{1}$"
+b) Thanh đang xét - gián đoạn và được phủ bằng bản mã,"0,7$L_{1}$",,
+**Các ký hiệu trong Bảng 26 (xem Hình 15e):<br>L  là khoảng cách từ tâm nút giàn (giằng) đến điểm giao các thanh;<br>$L_{1}$ là tổng chiều dài hình học của thanh.**,,,

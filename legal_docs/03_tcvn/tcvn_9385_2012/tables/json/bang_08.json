@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_08",
+  "table_number": "8",
+  "table_title": "Bảng 8 - Bảng tra giá trị hệ số D (theo mức độ cách ly)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Mức độ cách ly",
+    "Giá trị hệ số D"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mức độ cách ly": "Công trình xây dựng trong khu vực đã có nhiều công trình khác hoặc có nhiều cây xanh với chiều cao tương đương hoặc ít hơn",
+      "Giá trị hệ số D": "0,4"
+    },
+    {
+      "_row_id": 2,
+      "Mức độ cách ly": "Công trình xây dựng trong khu vực có ít công trình khác hoặc cây xanh có chiều cao tương đương",
+      "Giá trị hệ số D": "1,0"
+    },
+    {
+      "_row_id": 3,
+      "Mức độ cách ly": "Công trình xây dựng hoàn toàn cách ly hoặc cách xa ít nhất hai lần chiều cao của các công trình hay cây xanh hiện hữu trong khu vực",
+      "Giá trị hệ số D": "2,0"
+    }
+  ],
+  "footnotes": []
+}

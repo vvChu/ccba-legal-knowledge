@@ -1,0 +1,7 @@
+﻿Trạng thái làm việc,Ký hiệu,Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.6,Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 5.8,Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 8.8,Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 10.9,Cường độ tính toán — chịu cắt và kéo của bu lông có cấp độ bền — 12.9,Cường độ tính toán — chịu ép mặt của các cấu kiện được liên kết
+1. Chịu cắt,$f_{vb}$,"0,42 $f_{ub}$","0,41 $f_{ub}$","0,4 $f_{ub}$","0,4 $f_{ub}$","0,35 $f_{ub}$",-
+2. Chịu kéo,$f_{tb}$,"0,45 $f_{ub}$","0,41 $f_{ub}$","0,54 $f_{ub}$","0,7 $f_{ub}$","0,7 $f_{ub}$",-
+3. Chịu ép mặt:,,,,,,,
+a) Bu lông cấp chính xác A,$f_{cb}$ <sup>1)</sup>,-,-,-,-,-,"1,60 $f_{ud}$"
+b) Bu lông cấp chính xác B,,-,-,-,-,-,"1,35 $f_{ud}$"
+**<sup>1)</sup> $f_{cb}$ áp dụng cho các cấu kiện được liên kết làm bằng thép có giới hạn chảy đến 540 MPa.**,,,,,,,

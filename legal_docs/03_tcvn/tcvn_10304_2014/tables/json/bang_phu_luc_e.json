@@ -1,0 +1,102 @@
+{
+  "table_id": "bang_phu_luc_e",
+  "table_number": "PLE",
+  "table_title": "Bảng Phụ lục E",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Công trình",
+    "Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L",
+    "Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$",
+    "Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Công trình": "1. Nhà sản xuất, nhà dân dụng một tầng và nhà nhiều tầng kết cấu khung:",
+      "Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L": "",
+      "Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$": "",
+      "Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm": ""
+    },
+    {
+      "_row_id": 2,
+      "Công trình": "&nbsp;&nbsp;\\- Khung Bê tông cốt thép;\n&nbsp;&nbsp;\\- Khung Bê tông cốt thép có thêm giằng BTCT hoặc sàn mái toàn khối và công trình toàn khối",
+      "Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L": "0,002\n0,003",
+      "Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$": "-\n-",
+      "Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm": "10\n15"
+    },
+    {
+      "_row_id": 3,
+      "Công trình": "&nbsp;&nbsp;\\- Khung thép\n&nbsp;&nbsp;\\- Khung thép có thêm giằng BTCT hoặc sàn mái toàn khối",
+      "Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L": "0,004\n0,005",
+      "Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$": "-\n-",
+      "Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm": "15\n18"
+    },
+    {
+      "_row_id": 4,
+      "Công trình": "2. Nhà và công trình không xuất hiện thêm nội lực trong kết cấu khi chịu lún lệch",
+      "Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L": "0,006",
+      "Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$": "-",
+      "Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm": "20"
+    },
+    {
+      "_row_id": 5,
+      "Công trình": "3. Nhà nhiều tầng không có kết cấu khung, kết cấu chịu lực là:",
+      "Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L": "",
+      "Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$": "",
+      "Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm": ""
+    },
+    {
+      "_row_id": 6,
+      "Công trình": "&nbsp;&nbsp;\\- Các panel lớn\n&nbsp;&nbsp;\\- Các khối lớn hoặc khối gạch xây không cốt thép",
+      "Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L": "0,0016\n0,0020",
+      "Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$": "-\n-",
+      "Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm": "12\n12"
+    },
+    {
+      "_row_id": 7,
+      "Công trình": "&nbsp;&nbsp;\\- Như trên, nhưng được gia cường, trong đó có giằng BTCT hoặc mái toàn khối cũng như nhà kết cấu toàn khối",
+      "Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L": "0,0024",
+      "Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$": "-",
+      "Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm": "18"
+    },
+    {
+      "_row_id": 8,
+      "Công trình": "4. Công trình dạng ống kết cấu BTCT:\n&nbsp;&nbsp;\\- Nhà sản xuất và silo kết cấu toàn khối trên một tấm móng;\n&nbsp;&nbsp;\\- Như trên cho kết cấu lắp ghép\n&nbsp;&nbsp;\\- Silo kết cấu toàn khối đứng độc lập\n&nbsp;&nbsp;\\- Như trên, kết cấu lắp ghép",
+      "Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L": "-\n-\n-\n-",
+      "Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$": "0,003\n0,003\n0,004\n0,004",
+      "Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm": "40\n30\n40\n30"
+    },
+    {
+      "_row_id": 9,
+      "Công trình": "5. Ống khói chiều cao H, m:\nH ≤ 100\n100 300",
+      "Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L": "-\n-\n-\n-",
+      "Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$": "0,005\n1/(2H)\n1/(2H)\n1/(2H)",
+      "Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm": "40\n30\n20\n10"
+    },
+    {
+      "_row_id": 10,
+      "Công trình": "6. Công trình kết cấu cứng cao đến 100 m, trừ các công trình ở trong điểm 4 và 5",
+      "Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L": "-",
+      "Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$": "0,004",
+      "Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm": "20"
+    },
+    {
+      "_row_id": 11,
+      "Công trình": "7. Công trình ăng ten liên lạc:\n&nbsp;&nbsp;\\- Thân tháp được ngàm với đất\n&nbsp;&nbsp;\\- Như trên, cách điện\n&nbsp;&nbsp;\\- Trạm radio\n&nbsp;&nbsp;\\- Trạm phát thanh sóng ngắn\n&nbsp;&nbsp;\\- Trạm riêng lẻ",
+      "Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L": "-\n-\n0,002\n0,0025\n0,002",
+      "Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$": "0,002\n0,001\n-\n-\n-",
+      "Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm": "20\n10\n-\n-\n-"
+    },
+    {
+      "_row_id": 12,
+      "Công trình": "8. Trụ đường giây tải điện trên không:\n&nbsp;&nbsp;\\- Trụ trung gian\n&nbsp;&nbsp;\\- Trụ neo, neo góc, trụ góc trung gian, trụ ở vòng cung, trụ các thiết bị phân phối kiểu hở\n&nbsp;&nbsp;\\- Trụ trung chuyển đặc biệt",
+      "Biến dạng giới hạn của nền móng — Độ lún lệch tương đối s/L": "0,003\n0,0025\n0,002",
+      "Biến dạng giới hạn của nền móng — Độ nghiêng $i_{u}$": "-\n-\n-",
+      "Biến dạng giới hạn của nền móng — Độ lún tuyệt đối $s_{gh}$ hoặc độ lún trung bình $s_{gh}$ cm": "-\n-\n-"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH 1:** Trị giới hạn độ lún $s_{gh}$ dùng cho các công trình xây dựng trên các móng riêng lẻ trên nền tự nhiên (nhân tạo) hoặc trên móng cọc có các đài cọc riêng lẻ (băng cọc hoặc móng cọc dưới cột …).",
+    "fn_2": "**CHÚ THÍCH 2:** Trị giới hạn độ lún trung bình $s_{gh}$ dùng cho các công trình xây dựng trên móng toàn khối BTCTcho kết cấu liên tục (băng giao nhau hoặc móng bè trên nền tự nhiên hoặc nền nhân tạo, móng cọc có đài dạng bè liên tục, móng bè - cọc …)."
+  }
+}

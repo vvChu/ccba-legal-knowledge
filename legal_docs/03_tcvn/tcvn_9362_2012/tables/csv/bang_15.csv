@@ -1,0 +1,10 @@
+﻿Loại đất,Hệ số $m_{1}$,Hệ số $m_{2}$ đối với nhà và công trình có sơ đồ kết cấu cứng với tỷ số giữa chiều dài của nhà (công trình) hoặc từng đơn nguyên với chiều cao L/H trong khoảng: — 4 và lớn hơn,"Hệ số $m_{2}$ đối với nhà và công trình có sơ đồ kết cấu cứng với tỷ số giữa chiều dài của nhà (công trình) hoặc từng đơn nguyên với chiều cao L/H trong khoảng: — 7,5 và nhỏ hơn"
+Đất hòn lớn có chất nhét là cát và đất cát không kể đất phấn và bụi,"1,4","1,2","1,4"
+Cát mịn:,,,
+&nbsp;&nbsp;\- Khô và ít ẩm,"1,3","1,1","1,3"
+&nbsp;&nbsp;\- No nước,"1,2","1,1","1,3"
+Cát bụi:,,,
+&nbsp;&nbsp;\- Khô và ít ẩm,"1,2","1,0","1,2"
+&nbsp;&nbsp;\- No nước,"1,1","1,0","1,2"
+"Đất hòn lớn có chất nhét là sét và đất sét có chỉ số sệt $I_{s}$ ≤ 0,5","1,2","1,0","1,1"
+"Như trên có chỉ số sệt $I_{s}$>0,5","1,1","1,0","1,0"

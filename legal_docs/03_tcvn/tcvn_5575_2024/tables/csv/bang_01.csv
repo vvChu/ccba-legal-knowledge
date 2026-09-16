@@ -1,0 +1,20 @@
+﻿Cấu kiện kết cấu,Giá trị $\gamma_{c}$
+"1. Dầm tiết diện đặc và các thanh chịu nén của giàn đỡ sàn tầng các gian lớn trong nhà hát, câu lạc bộ, rạp chiếu phim, khán đài, cửa hàng, kho sách, kho lưu trữ và tương tự khi tải trọng tạm thời không vượt quá trọng lượng của sàn tầng","0,9"
+2. Cột:,
+"&nbsp;&nbsp;\- của nhà công cộng và nhà ở khi tải trọng thường xuyên không nhỏ hơn 0,8 lần tải trọng tính toán","0,95"
+&nbsp;&nbsp;\- của nhà nhiều tầng cao đến 150 m,"0,95"
+&nbsp;&nbsp;\- có tiết diện chữ I của nhà nhiều tầng cao hơn 150 m,"0,90"
+&nbsp;&nbsp;\- có tiết diện hộp của nhà nhiều tầng cao hơn 150 m,"0,87"
+&nbsp;&nbsp;\- của trụ tháp nước,"0,95"
+3. Cột nhà công nghiệp một tầng có cầu trục,"1,05"
+4. Các thanh bụng chính chịu nén (trừ các thanh gối tựa) tiết diện chữ T tổ hợp từ thép góc đôi trong các giàn hàn đỡ mái và đỡ sàn tầng khi tính toán ổn định của các thanh này với độ mảnh λ > 60,"0,80"
+"5. Các thanh chịu kéo (thanh căng, thanh neo, dây neo, dây treo) khi tính toán độ bền theo tiết diện không bị giảm yếu","0,90"
+"6. Các cấu kiện kết cấu làm bằng thép có giới hạn chảy đến 440 MPa chịu tải trọng tĩnh, khi tính toán độ bền theo tiết diện bị giảm yếu bởi các lỗ bu lông (trừ liên kết ma sát)","1,10"
+7. Các thanh bụng chịu nén trong kết cấu không gian rỗng làm bằng thép góc đơn liên kết theo một cánh (đối với thép góc cạnh không đều - liên kết theo cánh rộng):,
+a) Trực tiếp với các cánh bằng các đường hàn hoặc bằng hai bu lông trở lên lắp dọc theo thép góc:,
+"&nbsp;&nbsp;\- các thanh xiên theo Hình 17a và các thanh ngang theo Hình 17b, c, f","0,90"
+"&nbsp;&nbsp;\- các thanh xiên theo Hình 17c, d, e, f","0,80"
+b) Trực tiếp với các cánh bằng một bu lông hoặc thông qua bản mã không phụ thuộc vào dạng liên kết,"0,75"
+"8. Các thanh chịu nén làm bằng thép góc đơn liên kết theo một cánh (đối với thép góc cạnh không đều - theo cánh hẹp), trừ các thanh sau đây: các thanh chịu nén của giàn phẳng làm bằng thép góc đơn; các thanh đã nêu ở điểm 7 trong bảng này; các thanh xiên theo Hình 17b liên kết trực tiếp với các cánh bằng đường hàn hoặc bằng hai bu lông trở lên lắp dọc theo thép góc","0,75"
+"9. Các bản đế làm bằng thép có giới hạn chảy đến 390 MPa, chịu tải trọng tĩnh, có chiều dày, mm:",
+a) < 40<br>b) > 40 và ≤ 60<br>c) > 60 và < 80,"1,20<br>1,15<br>1,10"

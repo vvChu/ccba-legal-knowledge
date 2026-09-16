@@ -1,0 +1,47 @@
+{
+  "table_id": "bang_4_3",
+  "table_number": "4.3",
+  "table_title": "Bảng 4.3 - Cấp hậu quả",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Cấp hậu quả1)",
+    "Cấp hậu quả1)",
+    "Công trình",
+    "Hệ số tầm quan trọng ү$_{I}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp hậu quả1)": "C1",
+      "Công trình": "Công trình nhà có vai trò quan trọng thứ yếu đến an toàn công cộng.",
+      "Hệ số tầm quan trọng ү$_{I}$": "0,8"
+    },
+    {
+      "_row_id": 2,
+      "Cấp hậu quả1)": "C2",
+      "Công trình": "Công trình nhà thông thường, không thuộc các cấp hậu quả khác",
+      "Hệ số tầm quan trọng ү$_{I}$": "1,0"
+    },
+    {
+      "_row_id": 3,
+      "Cấp hậu quả1)": "C3-a",
+      "Công trình": "Công trình nhà mà khả năng chịu động đất đóng vai trò quan trọng trên quan điểm hậu quả xảy ra khi sụp đổ.",
+      "Hệ số tầm quan trọng ү$_{I}$": "1,2"
+    },
+    {
+      "_row_id": 4,
+      "Cấp hậu quả1)": "C3-b",
+      "Công trình": "Công trình nhà có vai trò quan trọng sống còn cho bảo vệ con người khi xảy ra động đất.",
+      "Hệ số tầm quan trọng ү$_{I}$": "1,4"
+    },
+    {
+      "_row_id": 5,
+      "Cấp hậu quả1)": "",
+      "Công trình": "",
+      "Hệ số tầm quan trọng ү$_{I}$": ""
+    }
+  ],
+  "footnotes": {
+    "[2]": "**CHÚ THÍCH:** Các cấp hậu quả C3-a và C3-b được phân nhỏ từ cấp C3 trong [2]. Danh mục một số công trình tương ứng với các cấp hậu quả được nêu trong Phụ lục D."
+  }
+}

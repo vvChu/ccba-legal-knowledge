@@ -1,0 +1,91 @@
+{
+  "table_id": "bang_b_3",
+  "table_number": "B.3",
+  "table_title": "Bảng B.3 - Độ giãn dài tương đối của thép kết cấu công dụng chung theo TCVN 9986-2:2013 (ISO 630-2:2011)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Mác",
+    "Chất lượng",
+    "Vị trí của mẫu thử 1)",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 3; ≤ 40",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 63",
+    "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 63; ≤ 100"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mác": "S235",
+      "Chất lượng": "B, C, D",
+      "Vị trí của mẫu thử 1)": "Dọc",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 3; ≤ 40": "26",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 63": "25",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 63; ≤ 100": "24"
+    },
+    {
+      "_row_id": 2,
+      "Mác": "S235",
+      "Chất lượng": "B, C, D",
+      "Vị trí của mẫu thử 1)": "Ngang",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 3; ≤ 40": "24",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 63": "23",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 63; ≤ 100": "22"
+    },
+    {
+      "_row_id": 3,
+      "Mác": "S275",
+      "Chất lượng": "B, C, D",
+      "Vị trí của mẫu thử 1)": "Dọc",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 3; ≤ 40": "23",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 63": "22",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 63; ≤ 100": "21"
+    },
+    {
+      "_row_id": 4,
+      "Mác": "S275",
+      "Chất lượng": "B, C, D",
+      "Vị trí của mẫu thử 1)": "Ngang",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 3; ≤ 40": "21",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 63": "20",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 63; ≤ 100": "19"
+    },
+    {
+      "_row_id": 5,
+      "Mác": "S355",
+      "Chất lượng": "B, C, D",
+      "Vị trí của mẫu thử 1)": "Dọc",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 3; ≤ 40": "22",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 63": "21",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 63; ≤ 100": "20"
+    },
+    {
+      "_row_id": 6,
+      "Mác": "S355",
+      "Chất lượng": "B, C, D",
+      "Vị trí của mẫu thử 1)": "Ngang",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 3; ≤ 40": "20",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 63": "19",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 63; ≤ 100": "18"
+    },
+    {
+      "_row_id": 7,
+      "Mác": "S450 2)",
+      "Chất lượng": "C",
+      "Vị trí của mẫu thử 1)": "Dọc",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 3; ≤ 40": "17",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 63": "17",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 63; ≤ 100": "17"
+    },
+    {
+      "_row_id": 8,
+      "Mác": "**1) Đối với tấm và tấm rộng bản có chiều rộng không nhỏ hơn 600 mm, áp dụng hướng ngang so với hướng cán. Đối với tất cả các sản phẩm khác, áp dụng các giá trị đối với hướng song song so với hướng cán.\n2) Chỉ áp dụng cho sản phẩm dài.**",
+      "Chất lượng": "",
+      "Vị trí của mẫu thử 1)": "",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 3; ≤ 40": "",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 63": "",
+      "Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 63; ≤ 100": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Để có thêm thông tin đầy đủ, xem TCVN 9986-2:2013 (ISO 630-2:2011)."
+  }
+}

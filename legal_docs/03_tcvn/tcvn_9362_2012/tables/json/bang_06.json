@@ -1,0 +1,31 @@
+{
+  "table_id": "bang_06",
+  "table_number": "6",
+  "table_title": "Bảng 6 - Phân loại đất sét theo chỉ số dẻo",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại đất sét",
+    "Chỉ số dẻo $I_{P}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đất sét": "Á-cát",
+      "Chỉ số dẻo $I_{P}$": "0,01 ≤ $I_{p}$ ≤ 0,07"
+    },
+    {
+      "_row_id": 2,
+      "Loại đất sét": "Á-sét",
+      "Chỉ số dẻo $I_{P}$": "0,07 ≤ $I_{p}$ ≤ 0,17"
+    },
+    {
+      "_row_id": 3,
+      "Loại đất sét": "Sét",
+      "Chỉ số dẻo $I_{P}$": "$I_{p}$ > 0,17"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH 1:** Khi trong đất sét có những hạt lớn hơn 2 mm thì thêm vào tên gọi ở Bảng 6 từ “có cuội” (“có dăm”) hoặc “có sỏi” (“có sạn”) nếu lượng chứa các hạt tương ứng chiếm 15 % đến 25 % theo trọng lượng và từ “cuội” (“dăm”) hoặc “sỏi” (“sạn”) nếu các hạt này chứa trong đất từ 25 % đến 50 % theo trọng lượng.",
+    "fn_2": "**CHÚ THÍCH 2:** Khi loại hạt lớn hơn 2 mm chiếm trên 50 % trọng lượng đất thì được xếp vào đất hòn lớn (xem 3.2)."
+  }
+}

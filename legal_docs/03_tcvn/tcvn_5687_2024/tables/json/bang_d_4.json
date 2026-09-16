@@ -1,0 +1,43 @@
+{
+  "table_id": "bang_d_4",
+  "table_number": "D.4",
+  "table_title": "Bảng D.4 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi không chứa silic tại nơi làm việc theo [1]",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Nhóm",
+    "Tên chất",
+    "Giới hạn tiếp xúc ca làm việc (TWA) — Bụi toàn phần",
+    "Giới hạn tiếp xúc ca làm việc (TWA) — Bụi hô hấp"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Nhóm": "1",
+      "Tên chất": "Talc, nhôm, bentonit, diatomit, pyrit, graphit, cao lanh, than hoạt tính.",
+      "Giới hạn tiếp xúc ca làm việc (TWA) — Bụi toàn phần": "2,0",
+      "Giới hạn tiếp xúc ca làm việc (TWA) — Bụi hô hấp": "1.0"
+    },
+    {
+      "_row_id": 2,
+      "Nhóm": "2",
+      "Tên chất": "Bakelit, oxit sắt, oxit kẽm, dioxit titan, silicat, apatit, baril, photphatit, đá vôi, đá trân châu, đá cẩm thạch, xi măng Portland.",
+      "Giới hạn tiếp xúc ca làm việc (TWA) — Bụi toàn phần": "4,0",
+      "Giới hạn tiếp xúc ca làm việc (TWA) — Bụi hô hấp": "2,0"
+    },
+    {
+      "_row_id": 3,
+      "Nhóm": "3",
+      "Tên chất": "Bụi nguồn gốc từ thảo mộc, động vật, chè, thuốc lá, ngũ cốc, gỗ.",
+      "Giới hạn tiếp xúc ca làm việc (TWA) — Bụi toàn phần": "6,0",
+      "Giới hạn tiếp xúc ca làm việc (TWA) — Bụi hô hấp": "3,0"
+    },
+    {
+      "_row_id": 4,
+      "Nhóm": "4",
+      "Tên chất": "Bụi hữu cơ và vô cơ không có quy định khác.",
+      "Giới hạn tiếp xúc ca làm việc (TWA) — Bụi toàn phần": "8,0",
+      "Giới hạn tiếp xúc ca làm việc (TWA) — Bụi hô hấp": "4,0"
+    }
+  ],
+  "footnotes": []
+}

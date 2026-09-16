@@ -1,0 +1,55 @@
+{
+  "table_id": "bang_12",
+  "table_number": "12",
+  "table_title": "Bảng 12 - Phân loại đất có chứa tàn tích thực vật",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Tên đất cát và đất sét có chứa tàn tích thực vật",
+    "Lượng chứa tương đối các tàn tích thực vật q (độ than bùn)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên đất cát và đất sét có chứa tàn tích thực vật": "**A. Đất có chứa tàn tích thực vật**",
+      "Lượng chứa tương đối các tàn tích thực vật q (độ than bùn)": ""
+    },
+    {
+      "_row_id": 2,
+      "Tên đất cát và đất sét có chứa tàn tích thực vật": "Đất cát có tàn tích thực vật",
+      "Lượng chứa tương đối các tàn tích thực vật q (độ than bùn)": "0,03 < q ≤ 0,1"
+    },
+    {
+      "_row_id": 3,
+      "Tên đất cát và đất sét có chứa tàn tích thực vật": "Đất sét có tàn tích thực vật",
+      "Lượng chứa tương đối các tàn tích thực vật q (độ than bùn)": "0,05 < q ≤ 0,1"
+    },
+    {
+      "_row_id": 4,
+      "Tên đất cát và đất sét có chứa tàn tích thực vật": "**B. Đất dạng than bùn**",
+      "Lượng chứa tương đối các tàn tích thực vật q (độ than bùn)": ""
+    },
+    {
+      "_row_id": 5,
+      "Tên đất cát và đất sét có chứa tàn tích thực vật": "Đất có ít than bùn",
+      "Lượng chứa tương đối các tàn tích thực vật q (độ than bùn)": "0,1 < q ≤ 0,25"
+    },
+    {
+      "_row_id": 6,
+      "Tên đất cát và đất sét có chứa tàn tích thực vật": "Đất có than bùn vừa",
+      "Lượng chứa tương đối các tàn tích thực vật q (độ than bùn)": "0,25 < q ≤ 0,4"
+    },
+    {
+      "_row_id": 7,
+      "Tên đất cát và đất sét có chứa tàn tích thực vật": "Đất có nhiều than bùn",
+      "Lượng chứa tương đối các tàn tích thực vật q (độ than bùn)": "0,4 < q ≤ 0,6"
+    },
+    {
+      "_row_id": 8,
+      "Tên đất cát và đất sét có chứa tàn tích thực vật": "Than bùn",
+      "Lượng chứa tương đối các tàn tích thực vật q (độ than bùn)": "q > 0,6"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Tên các loại đất cát và đất sét có chứa tàn tích thực vật quy định theo 3.4 và 3.8 là dựa vào phần khoáng của đất sau khi đã loại các tàn tích thực vật."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_14",
+  "table_number": "14",
+  "table_title": "Bảng 14 - Hệ số β",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Dầm",
+    "Điều kiện làm việc của cánh chịu nén",
+    "β"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Dầm": "1. Dầm đỡ cầu trục",
+      "Điều kiện làm việc của cánh chịu nén": "Ray cầu trục không hàn",
+      "β": "2,0"
+    },
+    {
+      "_row_id": 2,
+      "Dầm": "1. Dầm đỡ cầu trục",
+      "Điều kiện làm việc của cánh chịu nén": "Ray cầu trục hàn",
+      "β": "$\\infty$"
+    },
+    {
+      "_row_id": 3,
+      "Dầm": "2. Dầm khác",
+      "Điều kiện làm việc của cánh chịu nén": "Khi có bản sàn đặt liên tục trên cánh chịu nén",
+      "β": "$\\infty$"
+    },
+    {
+      "_row_id": 4,
+      "Dầm": "2. Dầm khác",
+      "Điều kiện làm việc của cánh chịu nén": "Các trường hợp khác",
+      "β": "0,8"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Đối với các ô bản của dầm đỡ cầu trục, nơi tải trọng tập trung đặt ở cánh chịu kéo, khi tính hệ số δ thì lấy β = 0,8."
+  }
+}

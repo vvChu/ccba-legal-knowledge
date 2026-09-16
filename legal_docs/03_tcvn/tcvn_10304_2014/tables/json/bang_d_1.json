@@ -1,0 +1,134 @@
+{
+  "table_id": "bang_d_1",
+  "table_number": "D.1",
+  "table_title": "Bảng D.1 - Khối lượng khảo sát cho các loại nhà và công trình (tham khảo)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại khảo sát",
+    "Mức độ phức tạp của điều kiện nền đất — Loại 1",
+    "Mức độ phức tạp của điều kiện nền đất — Loại 2",
+    "Mức độ phức tạp của điều kiện nền đất — Loại 3"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại khảo sát": "**Nhà và công trình thuộc tầm quan trọng cấp III**",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại khảo sát": "Khoan lấy mẫu và thí nghiệm xuyên tiêu chuẩn",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "Khoảng cách giữa các hố khoan không lớn hơn 70 m, nhưng không ít hơn 1 hố cho mỗi công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Khoảng cách giữa các hố khoan không lớn hơn 50 m, nhưng không ít hơn 2 hố cho mỗi công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Khoảng cách giữa các hố khoan không lớn hơn 30 m, nhưng không ít hơn 3 hố cho mỗi công trình"
+    },
+    {
+      "_row_id": 3,
+      "Loại khảo sát": "Thí nghiệm trong phòng",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình"
+    },
+    {
+      "_row_id": 4,
+      "Loại khảo sát": "Thí nghiệm xuyên tĩnh",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "Khoảng cách giữa các điểm xuyên không lớn hơn 35 m, nhưng không ít hơn 2 điểm cho mỗi công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Khoảng cách giữa các điểm xuyên không lớn hơn 25 m, nhưng không ít hơn 3 điểm cho mỗi công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Khoảng cách giữa các điểm xuyên không lớn hơn 15 m, nhưng không ít hơn 6 điểm cho mỗi công trình"
+    },
+    {
+      "_row_id": 5,
+      "Loại khảo sát": "**Nhà và công trình thuộc tầm quan trọng cấp II**",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": ""
+    },
+    {
+      "_row_id": 6,
+      "Loại khảo sát": "Khoan lấy mẫu và thí nghiệm xuyên tiêu chuẩn",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "Khoảng cách giữa các hố khoan không lớn hơn 50 m, nhưng không ít hơn 2 hố cho mỗi công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Khoảng cách giữa các hố khoan không lớn hơn 40 m, nhưng không ít hơn 3 hố cho mỗi công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Khoảng cách giữa các hố khoan không lớn hơn 30 m, nhưng không ít hơn 4 hố cho mỗi công trình"
+    },
+    {
+      "_row_id": 7,
+      "Loại khảo sát": "Thí nghiệm trong phòng",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình"
+    },
+    {
+      "_row_id": 8,
+      "Loại khảo sát": "Thí nghiệm xuyên tĩnh",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "Khoảng cách giữa các điểm xuyên không lớn hơn 25 m, nhưng không ít hơn 6 điểm cho mỗi công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Khoảng cách giữa các điểm xuyên không lớn hơn 20 m, nhưng không ít hơn 7 điểm cho mỗi công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Khoảng cách giữa các điểm xuyên không lớn hơn 15 m, nhưng không ít hơn 10 điểm cho mỗi công trình"
+    },
+    {
+      "_row_id": 9,
+      "Loại khảo sát": "Nén ngang",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "-",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình"
+    },
+    {
+      "_row_id": 10,
+      "Loại khảo sát": "TN cọc ở hiện trường",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "Số lượng cọc thử do tư vấn thiết kế quy định. Riêng thí nghiệm thử tải tĩnh khoảng 1 % tổng số cọc, nhưng không ít hơn 2 cọc cho mỗi công trình, khi có đủ cơ sở chuyên môn cho phép tiến hành thử một cọc tại vị trí có điều kiện bất lợi nhất. Nên kết hợp thí nghiệm thử tải tĩnh với thí nghiệm đo biến dạng cọc.",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Số lượng cọc thử do tư vấn thiết kế quy định. Riêng thí nghiệm thử tải tĩnh khoảng 1 % tổng số cọc, nhưng không ít hơn 2 cọc cho mỗi công trình, khi có đủ cơ sở chuyên môn cho phép tiến hành thử một cọc tại vị trí có điều kiện bất lợi nhất. Nên kết hợp thí nghiệm thử tải tĩnh với thí nghiệm đo biến dạng cọc.",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Số lượng cọc thử do tư vấn thiết kế quy định. Riêng thí nghiệm thử tải tĩnh khoảng 1 % tổng số cọc, nhưng không ít hơn 2 cọc cho mỗi công trình, khi có đủ cơ sở chuyên môn cho phép tiến hành thử một cọc tại vị trí có điều kiện bất lợi nhất. Nên kết hợp thí nghiệm thử tải tĩnh với thí nghiệm đo biến dạng cọc."
+    },
+    {
+      "_row_id": 11,
+      "Loại khảo sát": "**Nhà và công trình thuộc tầm quan trọng cấp I**",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": ""
+    },
+    {
+      "_row_id": 12,
+      "Loại khảo sát": "Khoan lấy mẫu và thí nghiệm xuyên tiêu chuẩn",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "Khoảng cách giữa các hố khoan không lớn hơn 40 m, nhưng không ít hơn 3 hố cho mỗi công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Khoảng cách giữa các hố khoan không lớn hơn 30 m, nhưng không ít hơn 4 hố cho mỗi công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Khoảng cách giữa các hố khoan không lớn hơn 20 m, nhưng không ít hơn 5 hố cho mỗi công trình"
+    },
+    {
+      "_row_id": 13,
+      "Loại khảo sát": "Thí nghiệm trong phòng",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình"
+    },
+    {
+      "_row_id": 14,
+      "Loại khảo sát": "Thí nghiệm xuyên tĩnh",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "Khoảng cách giữa các điểm xuyên không lớn hơn 25 m, nhưng không ít hơn 6 điểm cho mỗi công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Khoảng cách giữa các điểm xuyên không lớn hơn 15 m, nhưng không ít hơn 8 điểm cho mỗi công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Khoảng cách giữa các điểm xuyên không lớn hơn 10 m, nhưng không ít hơn 10 điểm cho mỗi công trình"
+    },
+    {
+      "_row_id": 15,
+      "Loại khảo sát": "Thí nghiệm nén ngang",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Không ít hơn 6 thí nghiệm cho mỗi chỉ tiêu trong phạm vi một yếu tố địa chất công trình"
+    },
+    {
+      "_row_id": 16,
+      "Loại khảo sát": "Thí nghiệm tấm nén",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "Không ít hơn 2 thí nghiệm cho mỗi yếu tố địa chất công trình khi các kết quả không chênh lệch quá 30 % so với trị trung bình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Không ít hơn 2 thí nghiệm cho mỗi yếu tố địa chất công trình khi các kết quả không chênh lệch quá 30 % so với trị trung bình",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Không ít hơn 2 thí nghiệm cho mỗi yếu tố địa chất công trình khi các kết quả không chênh lệch quá 30 % so với trị trung bình"
+    },
+    {
+      "_row_id": 17,
+      "Loại khảo sát": "TN cọc ở hiện trường",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 1": "Số lượng cọc thử do tư vấn thiết kế quy định. Riêng thí nghiệm thử tải tĩnh khoảng 1 % tổng số cọc, nhưng không ít hơn 2 cọc cho mỗi công trình. Nên kết hợp thí nghiệm thử tải tĩnh với thí nghiệm đo biến dạng cọc.",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 2": "Số lượng cọc thử do tư vấn thiết kế quy định. Riêng thí nghiệm thử tải tĩnh khoảng 1 % tổng số cọc, nhưng không ít hơn 2 cọc cho mỗi công trình. Nên kết hợp thí nghiệm thử tải tĩnh với thí nghiệm đo biến dạng cọc.",
+      "Mức độ phức tạp của điều kiện nền đất — Loại 3": "Số lượng cọc thử do tư vấn thiết kế quy định. Riêng thí nghiệm thử tải tĩnh khoảng 1 % tổng số cọc, nhưng không ít hơn 2 cọc cho mỗi công trình. Nên kết hợp thí nghiệm thử tải tĩnh với thí nghiệm đo biến dạng cọc."
+    }
+  ],
+  "footnotes": []
+}

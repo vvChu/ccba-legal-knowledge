@@ -1,0 +1,3952 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 56,
+    "line_end": 56,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 64,
+    "line_end": 64,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 108,
+    "line_end": 108,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-1",
+    "anchor": "muc-3-1",
+    "title": "3.1  Cọc (Pile):",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 114,
+    "line_end": 114,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2",
+    "anchor": "muc-3-2",
+    "title": "3.2  Cọc treo (Friction pile):",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 120,
+    "line_end": 120,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-3",
+    "anchor": "muc-3-3",
+    "title": "3.3  Cọc chống (End bearing pile):",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 126,
+    "line_end": 126,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-4",
+    "anchor": "muc-3-4",
+    "title": "3.4  Cọc đơn (Single pile):",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 132,
+    "line_end": 132,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-5",
+    "anchor": "muc-3-5",
+    "title": "3.5  Nền cọc (Pile ground base):",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 138,
+    "line_end": 138,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-6",
+    "anchor": "muc-3-6",
+    "title": "3.6  Nhóm cọc (Pile group):",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 144,
+    "line_end": 144,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-7",
+    "anchor": "muc-3-7",
+    "title": "3.7  Bãi cọc (Large pile group):",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 150,
+    "line_end": 150,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-8",
+    "anchor": "muc-3-8",
+    "title": "3.8  Móng cọc (Pile foundation):",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 156,
+    "line_end": 156,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-9",
+    "anchor": "muc-3-9",
+    "title": "3.9  Móng cọc - bè hỗn hợp (Piled raft foundation):",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 162,
+    "line_end": 162,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-10",
+    "anchor": "muc-3-10",
+    "title": "3.10  Đài cọc (Pile cap):",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 168,
+    "line_end": 168,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-11",
+    "anchor": "muc-3-11",
+    "title": "3.11  Sức chịu tải của cọc (Bearing resistance of a single pile):",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 174,
+    "line_end": 174,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-12",
+    "anchor": "muc-3-12",
+    "title": "3.12  Lực ma sát âm (Negative skin friction):",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 180,
+    "line_end": 180,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-13",
+    "anchor": "muc-3-13",
+    "title": "3.13  Tải trọng tác dụng lên cọc (Load acting on a pile):",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 186,
+    "line_end": 186,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  NGUYÊN TẮC CHUNG",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 192,
+    "line_end": 192,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Móng cọc cần được tính toán thiết kế trên cơ sở:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 196,
+    "line_end": 196,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Trong đồ án thiết kế phải xem xét, đáp ứng cho công trình an toàn, ổn định lâu dài và hiệu quả kinh tế trong cả giai đoạn thi công và sử dụng công trình.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 214,
+    "line_end": 214,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Trong đồ án thiết kế cần xét đến điều kiện xây dựng địa phương, cũng như kinh nghiệm thiết kế, xây dựng và sử dụng công trình trong những điều kiện địa chất công trình, địa chất thủy văn và điều kiện sinh thái tương tự.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 218,
+    "line_end": 218,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4",
+    "anchor": "muc-4-4",
+    "title": "4.4  Cần thiết kế móng cọc trong mối tương quan với nhiệm vụ thiết kế và các số liệu ban đầu.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 222,
+    "line_end": 222,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-5",
+    "anchor": "muc-4-5",
+    "title": "4.5  Khi thiết kế cần xét đến tầm quan trọng của công trình theo Phụ lục F trong tiêu chuẩn này.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 226,
+    "line_end": 226,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6",
+    "anchor": "muc-4-6",
+    "title": "4.6  Móng cọc cần được thiết kế trên cơ sở các kết quả khảo sát công trình thực hiện theo các yêu cầu trong tiêu chuẩn TCVN 4419:1987, TCVN 9363:2012 và trong Điều 5 của tiêu chuẩn này.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 230,
+    "line_end": 230,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7",
+    "anchor": "muc-4-7",
+    "title": "4.7  Khi thi công cọc gần các công trình có sẵn cần phải đánh giá ảnh hưởng của tác động động đến kết cấu của các công trình này và các máy móc thiết bị đặt bên trong. Trong những trường hợp cần thiết, với kinh nghiệm thi công cọc, có thể phải dự định trước việc đo các thông số dao động của nền đất, của các công trình kể cả công trình ngầm đã có.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 238,
+    "line_end": 238,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-8",
+    "anchor": "muc-4-8",
+    "title": "4.8  Trong các đồ án móng cọc cần dự tính công tác quan trắc hiện trường. Thành phần, khối lượng và phương pháp quan trắc hiện trường được quy định phụ thuộc vào tầm quan trọng của công trình và mức độ phức tạp của điều kiện địa chất công trình.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 242,
+    "line_end": 242,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-9",
+    "anchor": "muc-4-9",
+    "title": "4.9  Móng cọc làm việc trong môi trường xâm thực cần được thiết kế theo yêu cầu của TCVN 5337:1991, TCVN 5338:1991 và TCVN 9346:2012.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 248,
+    "line_end": 248,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-10",
+    "anchor": "muc-4-10",
+    "title": "4.10  Khi thiết kế và thi công móng cọc từ bê tông toàn khối và bê tông lắp ghép, hoặc bê tông cốt thép cần tuân thủ theo TCVN 5574:2012, cũng như tuân thủ các yêu cầu của quy phạm thi công nền và móng, các công tác trắc địa, kỹ thuật an toàn, an toàn chống cháy trong quá trình thi công và bảo vệ môi trường xung quanh.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 252,
+    "line_end": 252,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  YÊU CẦU VỀ KHẢO SÁT ĐỊA CHẤT CÔNG TRÌNH",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 256,
+    "line_end": 256,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Các kết quả khảo sát công trình cần bao gồm các thông tin về địa hình, địa mạo, động đất cũng như các số liệu cần thiết để chọn loại móng, xác định loại cọc và kích thước cọc, tải trọng tính toán cho phép tác dụng lên cọc và tính toán theo các trạng thái giới hạn và dự báo những biến đổi có thể (trong quá trình xây dựng và sử dụng công trình) của các điều kiện địa chất công trình, địa chất thủy văn và sinh thái của công trường xây dựng cũng như loại và khối lượng các biện pháp kỹ thuật để chế ngự chúng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 260,
+    "line_end": 260,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Công tác khảo sát cho móng cọc nói chung bao gồm các công việc tổng hợp sau:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 264,
+    "line_end": 264,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-3",
+    "anchor": "muc-5-3",
+    "title": "5.3  Khoan lấy mẫu kết hợp xuyên tiêu chuẩn, thí nghiệm trong phòng, thí nghiệm xuyên tĩnh, là những công tác khảo sát chính, không phụ thuộc vào tầm quan trọng của công trình và loại móng cọc.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 282,
+    "line_end": 282,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4",
+    "anchor": "muc-5-4",
+    "title": "5.4  Đối với các công trình thuộc tầm quan trọng cao và trung bình thì ngoài các yêu cầu trong 5.3 nên bổ sung các thí nghiệm đất như thí nghiệm nén ngang, thí nghiệm kháng chấn và thí nghiệm cọc ngoài hiện trường theo chỉ dẫn trong Phụ lục D, trong đó cần xét đến tính phức tạp theo sự phân bố và tính chất của đất.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 286,
+    "line_end": 286,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5",
+    "anchor": "muc-5-5",
+    "title": "5.5  Khi áp dụng cọc kết cấu mới, theo đề xuất chuyên môn của đơn vị thiết kế, cần tiến hành thí nghiệm hạ cọc với mục đích làm chính xác thêm kích thước thiết kế và phương pháp hạ cọc đã được ấn định, cũng như công tác thử cọc bằng tải trọng tĩnh ở hiện trường.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 292,
+    "line_end": 292,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-6",
+    "anchor": "muc-5-6",
+    "title": "5.6  Trong trường hợp cọc làm việc chịu kéo, chịu tải ngang hoặc chịu tải trọng đổi dấu, cần phải thực hiện các công tác thí nghiệm cho mỗi trường hợp cụ thể với khối lượng được quy định có xét đến tác động nào có ưu thế hơn.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 298,
+    "line_end": 298,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-7",
+    "anchor": "muc-5-7",
+    "title": "5.7  Xác định sức chịu tải của cọc theo kết quả thí nghiệm hiện trường tuân theo 7.3.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 302,
+    "line_end": 302,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-8",
+    "anchor": "muc-5-8",
+    "title": "5.8  Thí nghiệm thử cọc, tấm nén và nén ngang, theo nguyên tắc, tiến hành ở khu vực được chọn lựa trên cơ sở kết quả khoan (xuyên) khảo sát ở vị trí mà điều kiện đất đặc trưng nhất, móng chịu tải lớn nhất và cả ở nơi mà việc hạ cọc theo điều kiện đất còn chưa rõ ràng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 306,
+    "line_end": 306,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-9",
+    "anchor": "muc-5-9",
+    "title": "5.9  Khối lượng khảo sát cho móng cọc kiến nghị lấy theo Phụ lục D, phụ thuộc vào tầm quan trọng của công trình và mức độ phức tạp của nền đất.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 312,
+    "line_end": 312,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-10",
+    "anchor": "muc-5-10",
+    "title": "5.10  Các vị trí khảo sát địa chất công trình (hố khoan, hố xuyên, vị trí thí nghiệm đất) cần bố trí sao cho chúng nằm trong khuôn viên công trình thiết kế xây dựng hoặc là trong những điều kiện nền đất như nhau, không xa công trình quá 5 m, còn trong trường hợp sử dụng các cọc làm kết cấu bảo vệ hố đào thì không quá 2 m từ trục của chúng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 318,
+    "line_end": 318,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11",
+    "anchor": "muc-5-11",
+    "title": "5.11  Chiều sâu khảo sát, theo nguyên tắc, phải lớn hơn chiều sâu nén lún của nền. Thông thường chiều sâu các hố khảo sát không được nhỏ hơn 5 m kể từ mũi cọc thiết kế trong trường hợp bố trí cọc thành hàng và nhóm cọc chịu tải trọng dưới 3 MN; không được nhỏ hơn 10 m trong trường hợp bố trí cọc thành bãi kích thước đến (10 m x 10 m) và nhóm cọc chịu tải trọng lớn hơn 3 MN. Trong trường hợp bãi cọc rộng hơn (10 m x 10 m) và trường hợp dùng móng cọc - bè hỗn hợp chiều sâu các hố khảo sát cần phải lớn hơn chiều sâu cọc một khoảng không nhỏ hơn chiều dày tầng nén lún và không nhỏ hơn một nửa chiều rộng bãi cọc hay đài dạng tấm và không nhỏ hơn 15 m.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 322,
+    "line_end": 322,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-12",
+    "anchor": "muc-5-12",
+    "title": "5.12  Khi khảo sát cho móng cọc cần xác định các đặc trưng vật lý, cường độ và biến dạng cần thiết để tính toán thiết kế móng cọc theo các trạng thái giới hạn (xem Điều 7).",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 328,
+    "line_end": 328,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-13",
+    "anchor": "muc-5-13",
+    "title": "5.13  Đối với đất cát, do khó lấy mẫu nguyên dạng, do đó phương pháp chính để xác định độ chặt và các đặc trưng về cường độ nên là thí nghiệm xuyên tĩnh hoặc xuyên tiêu chuẩn cho mọi loại công trình không kể ở mức độ quan trọng nào.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 334,
+    "line_end": 334,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-14",
+    "anchor": "muc-5-14",
+    "title": "5.14  Khi khảo sát địa chất công trình để thiết kế móng cọc gia cường cho nhà và công trình cải tạo xây dựng lại, cần bổ sung công tác khảo sát nền móng và đo đạc chuyển vị của công trình. Ngoài ra, cần phải lập tương quan giữa số liệu khảo sát mới với hồ sơ lưu trữ (nếu có) để có nhận xét về sự thay đổi các điều kiện địa chất công trình và địa chất thủy văn do việc xây dựng và sử dụng công trình gây nên.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 340,
+    "line_end": 340,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-15",
+    "anchor": "muc-5-15",
+    "title": "5.15  Việc nghiên cứu khảo sát nền móng cần phải:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 350,
+    "line_end": 350,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-16",
+    "anchor": "muc-5-16",
+    "title": "5.16  Nghiên cứu khảo sát nền móng và trạng thái của các kết cấu móng thực hiện bằng cách đào hố lấy các khối đất nguyên dạng ngay dưới đáy móng và trên thành hố. Khảo sát đất sâu hơn dưới đáy hố để xác định cấu tạo địa chất công trình và điều kiện địa chất thủy văn và tính chất của đất phải bằng phương pháp khoan và xuyên, trong đó vị trí các hố khoan và điểm xuyên bố trí nằm dọc theo chu vi nhà và công trình và cách chúng một khoảng không quá 5 m.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 366,
+    "line_end": 366,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-17",
+    "anchor": "muc-5-17",
+    "title": "5.17  Khi gia cường nền công trình xây dựng cải tạo lại bằng cọc đóng, cọc ép, cọc khoan nhồi hay khoan phun dưới nước, chiều sâu các hố khoan và xuyên khảo sát lấy theo 5.11.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 370,
+    "line_end": 370,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-18",
+    "anchor": "muc-5-18",
+    "title": "5.18  Báo cáo kết quả khảo sát địa chất công trình để thiết kế móng cọc cần phải lập theo TCVN 4419:1987 và TCVN 9363:2012.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 374,
+    "line_end": 374,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-19",
+    "anchor": "muc-5-19",
+    "title": "5.19  Trong quá trình khảo sát địa chất công trình và nghiên cứu tính chất đất để thiết kế và thi công móng cọc cần xét đến những yêu cầu bổ sung, nêu trong Điều 9 đến Điều 15 của tiêu chuẩn này.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 386,
+    "line_end": 386,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6",
+    "anchor": "muc-6",
+    "title": "6  PHÂN LOẠI CỌC",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 390,
+    "line_end": 390,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1",
+    "anchor": "muc-6-1",
+    "title": "6.1  Theo phương pháp hạ cọc xuống đất phân biệt các loại cọc chính như sau:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 394,
+    "line_end": 394,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-2",
+    "anchor": "muc-6-2",
+    "title": "6.2  Tùy theo điều kiện tương tác với đất nền mà phân loại cọc thành cọc chống và cọc treo (cọc ma sát).",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 408,
+    "line_end": 408,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-3",
+    "anchor": "muc-6-3",
+    "title": "6.3  Cọc chống bao gồm tất cả các loại cọc tựa vào nền đá, riêng đối với cọc đóng, kể cả cọc đóng vào nền đất ít bị nén. Khi tính sức chịu tải của cọc chống theo đất nền, có thể không cần xét tới sức kháng của đất (trừ ma sát âm) trên thân cọc.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 412,
+    "line_end": 412,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-4",
+    "anchor": "muc-6-4",
+    "title": "6.4  Cọc đóng (ép) bê tông cốt thép có tiết diện đặc và cọc ống rỗng lòng được phân loại như sau:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 420,
+    "line_end": 420,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5",
+    "anchor": "muc-6-5",
+    "title": "6.5  Cọc đóng (ép) nhồi được phân loại theo biện pháp thi công gồm:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 436,
+    "line_end": 436,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-6",
+    "anchor": "muc-6-6",
+    "title": "6.6  Cọc khoan hoặc đào nhồi được phân loại theo biện pháp thi công gồm:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 446,
+    "line_end": 446,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-7",
+    "anchor": "muc-6-7",
+    "title": "6.7  Sử dụng cọc với ống vách để lại trong đất với các trường hợp khi không thể áp dụng giải pháp kết cấu móng nào khác (khi thi công cọc khoan nhồi trong nền với lưu tốc dòng thấm lớn hơn 200 m/ngày đêm, khi ứng dụng cọc khoan nhồi để gia cố chống trượt mái dốc và trong các trường hợp khác đã có đủ cơ sở).",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 464,
+    "line_end": 464,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8",
+    "anchor": "muc-6-8",
+    "title": "6.8  Cọc bê tông và bê tông cốt thép phải được thiết kế dùng bê tông nặng theo TCVN 5574:2012 và TCVN 3118:1993. Cọc bê tông cốt thép đúc sẵn không tiêu chuẩn, cọc đóng nhồi và cọc khoan nhồi, phải được đúc từ bê tông cấp độ bền tối thiểu là B15. Đối với cọc đóng bê tông cốt thép ứng lực trước dùng bê tông cấp độ bền tối thiểu là B30.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 468,
+    "line_end": 468,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-9",
+    "anchor": "muc-6-9",
+    "title": "6.9  Đài cọc bê tông cốt thép dùng cho mọi loại nhà và công trình phải được thiết kế từ bê tông nặng theo TCVN 5574:2012, với cấp độ bền tối thiểu B15 đối với đài toàn khối và B 20 đối với đài lắp ghép.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 472,
+    "line_end": 472,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10",
+    "anchor": "muc-6-10",
+    "title": "6.10  Bê tông đổ tại chỗ vào hốc nối cột bê tông cốt thép với đài cọc dạng cốc, cũng như để nối đầu cọc với đài cọc dạng băng lắp ghép phải tuân theo yêu cầu của TCVN 5574:2012, nhưng cấp độ bền bê tông không thấp hơn B15.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 476,
+    "line_end": 476,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7",
+    "anchor": "muc-7",
+    "title": "7  THIẾT KẾ MÓNG CỌC",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 482,
+    "line_end": 482,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1",
+    "anchor": "muc-7-1",
+    "title": "7.1  Những chỉ dẫn cơ bản về tính toán",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 486,
+    "line_end": 486,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-1",
+    "anchor": "muc-7-1-1",
+    "title": "7.1.1  Nền và móng cọc phải được tính toán theo các trạng thái giới hạn:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 490,
+    "line_end": 490,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-2",
+    "anchor": "muc-7-1-2",
+    "title": "7.1.2  Trong các phép tính nền móng cọc cần kể đến tác dụng đồng thời của các thành phần lực và các ảnh hưởng bất lợi của môi trường bên ngoài (thí dụ, ảnh hưởng của nước dưới đất và tình trạng của nó đến các chỉ tiêu cơ - lý đất …).",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 512,
+    "line_end": 512,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-3",
+    "anchor": "muc-7-1-3",
+    "title": "7.1.3  Tải trọng và tác động đưa vào tính toán, các hệ số tin cậy của tải trọng cũng như các tổ hợp tải trọng phải lấy theo yêu cầu của TCVN 2737:1995.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 538,
+    "line_end": 538,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-4",
+    "anchor": "muc-7-1-4",
+    "title": "7.1.4  Khi tính cọc, móng cọc và nền theo trạng thái giới hạn thứ nhất phải tính với các tổ hợp cơ bản và tổ hợp đặc biệt của tải trọng tính toán, khi tính theo trạng thái giới hạn thứ hai thì tính với các tổ hợp cơ bản của tải trọng tiêu chuẩn.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 542,
+    "line_end": 542,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-5",
+    "anchor": "muc-7-1-5",
+    "title": "7.1.5  Các tải trọng và tác động, các tổ hợp tải trọng và hệ số tin cậy của tải trọng khi tính móng cọc của cầu và công trình thủy được lấy theo yêu cầu của các tiêu chuẩn ngành.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 546,
+    "line_end": 546,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-6",
+    "anchor": "muc-7-1-6",
+    "title": "7.1.6  Tất cả các phép tính toán cọc, móng cọc và nền móng phải dùng các đặc trưng tính toán của vật liệu và đất nền.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 550,
+    "line_end": 550,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-7",
+    "anchor": "muc-7-1-7",
+    "title": "7.1.7  Tính toán cọc và đài cọc theo cường độ vật liệu cần tuân theo các yêu cầu của các tiêu chuẩn hiện hành về kết cấu bê tông, bê tông cốt thép và thép.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 564,
+    "line_end": 564,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-8",
+    "anchor": "muc-7-1-8",
+    "title": "7.1.8  Đối với mọi loại cọc, khi tính toán theo cường độ vật liệu, cho phép xem cọc như một thanh ngàm cứng trong đất tại tiết diện nằm cách đáy đài một khoảng $l_{1}$ xác định theo công thức:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 570,
+    "line_end": 570,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-1",
+    "anchor": "formula-1",
+    "title": "$$l_{1} = l_{o} + \\frac{2}{\\alpha _{\\epsilon}} \\qquad (1)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 574,
+    "line_end": 574,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-9",
+    "anchor": "muc-7-1-9",
+    "title": "7.1.9  Khi tính cọc đóng hoặc ép nhồi, cọc khoan nhồi và barrette (trừ cọc - trụ và cọc khoan - thả) theo cường độ vật liệu, cường độ tính toán của bê tông phải nhân với hệ số điều kiện làm việc $_{cb}$ = 0,85, kể đến việc đổ bê tông trong khoảng không gian chật hẹp của hố và ống vách và nhân với hệ số ‘cb kể đến phương pháp thi công cọc như sau:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 601,
+    "line_end": 601,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-10",
+    "anchor": "muc-7-1-10",
+    "title": "7.1.10  Kết cấu của mọi loại cọc phải được tính toán chịu tải trọng từ nhà hoặc công trình truyền vào. Riêng đối với cọc đúc sẵn còn phải tính cọc chịu lực do trọng lượng bản thân khi chế tạo, lắp đặt và vận chuyển, cũng như khi nâng cọc lên giá búa tại điểm móc cẩu cách đầu cọc 0,3l (trong đó l là chiều dài đoạn cọc). Nội lực do trọng lượng bản thân cọc (giống nội lực dầm) phải nhân với hệ số xung kích lấy bằng:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 615,
+    "line_end": 615,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-11",
+    "anchor": "muc-7-1-11",
+    "title": "7.1.11  Cọc nằm trong móng hoặc cọc đơn chịu tải trọng dọc trục đều phải tính theo sức chịu tải của đất nền với điều kiện:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 625,
+    "line_end": 625,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-2",
+    "anchor": "formula-2",
+    "title": "$$N_{c,d} \\le \\frac{\\gamma _{0}}{\\gamma _{n}}R_{cd};R_{c,d} = \\frac{R_{c,k}}{\\gamma _{k}} \\qquad (2)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 631,
+    "line_end": 631,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3",
+    "anchor": "formula-3",
+    "title": "$$N_{t,d} \\le \\frac{\\gamma _{0}}{\\gamma _{n}}R_{t,d};R_{t,d} = \\frac{R_{t,k}}{\\gamma _{k}} \\qquad (3)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 638,
+    "line_end": 638,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-12",
+    "anchor": "muc-7-1-12",
+    "title": "7.1.12  Trị riêng sức chịu tải cực hạn của cọc $R_{c,u}$ và $R_{t,u}$ có thể xác định theo các phương pháp dựa vào các chỉ tiêu cơ lý đất theo các bảng biểu trong 7.2, hoặc theo các phương pháp tính toán dùng kết quả thí nghiệm hiện trường trong 7.3 và Phụ lục G. Để đơn giản từ đây về sau gọi $R_{c,u}$ là “sức chịu tải trọng nén” và $R_{t,u}$ là “sức chịu tải trọng kéo” của cọc.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 681,
+    "line_end": 681,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-13",
+    "anchor": "muc-7-1-13",
+    "title": "7.1.13  Khi xác định giá trị tải trọng truyền lên cọc, cần xem móng cọc như kết cấu khung tiếp nhận tải trọng thẳng đứng, tải trọng ngang và mômen uốn.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 689,
+    "line_end": 689,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4",
+    "anchor": "formula-4",
+    "title": "$$N_{j} = \\frac{N}{n} + \\frac{M_{x}y_{j}}{\\sum_{i = 1}^{n} y_{i}^{2} + \\frac{M_{y}x_{j}}{\\sum_{i = 1}^{n} x_{i}^{2}}} \\qquad (4)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 695,
+    "line_end": 695,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-14",
+    "anchor": "muc-7-1-14",
+    "title": "7.1.14  Đối với cọc chịu tải trọng ngang, yêu cầu tính toán sức chịu tải của đất như đối với cọc chịu tải dọc trục trong 7.1.11. Tải trọng ngang tác dụng vào móng có đài cứng gồm các cọc thẳng đứng có cùng tiết diện ngang được phân bố đều cho toàn bộ các cọc.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 712,
+    "line_end": 712,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-15",
+    "anchor": "muc-7-1-15",
+    "title": "7.1.15  Kiểm tra ổn định móng cọc và nền phải tuân theo yêu cầu của TCVN 9362:2012 có kể đến tác dụng của phản lực phụ thêm theo phương ngang từ cọc vào khối đất trượt.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 716,
+    "line_end": 716,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1-16",
+    "anchor": "muc-7-1-16",
+    "title": "7.1.16  Tính toán cọc và móng cọc theo biến dạng từ yêu cầu thỏa mãn điều kiện:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 720,
+    "line_end": 720,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-5",
+    "anchor": "formula-5",
+    "title": "$$S \\le S_{gh} \\qquad (5)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 724,
+    "line_end": 724,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2",
+    "anchor": "muc-7-2",
+    "title": "7.2  Xác định sức chịu tải của cọc theo các chỉ tiêu cơ lý đất, đá",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 735,
+    "line_end": 735,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-1",
+    "anchor": "muc-7-2-1",
+    "title": "7.2.1  Sức chịu tải của cọc chống",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 739,
+    "line_end": 739,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-6",
+    "anchor": "formula-6",
+    "title": "$$R_{c,u} = _{c} q_{b} A_{b} \\qquad (6)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 745,
+    "line_end": 745,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-7",
+    "anchor": "formula-7",
+    "title": "$$q_{b} = R_{m} = \\frac{R_{c,m,n}}{\\gamma _{g}} \\qquad (7)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 762,
+    "line_end": 762,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-8",
+    "anchor": "formula-8",
+    "title": "$$R_{c,m,n} = R_{c,n} K_{s} \\qquad (8)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 775,
+    "line_end": 775,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-9",
+    "anchor": "formula-9",
+    "title": "$$q_{b} = R_{m}(1 + 0,4\\frac{l_{d}}{d_{f}}) \\qquad (9)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 790,
+    "line_end": 790,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-01",
+    "anchor": "bang-bang-01",
+    "title": "Bảng 1 - Hệ số giảm cường độ $K_{s}$ trong nền đá,",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 809,
+    "line_end": 809,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-2",
+    "anchor": "muc-7-2-2",
+    "title": "7.2.2  Sức chịu tải của cọc treo các loại, kể cả cọc ống có lõi đất hạ bằng phương pháp đóng hoặc ép",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 823,
+    "line_end": 823,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-2-1",
+    "anchor": "muc-7-2-2-1",
+    "title": "7.2.2.1  Sức chịu tải trọng nén $R_{c,u}$, tính bằng kN, của cọc treo, kể cả cọc ống có lõi đất, hạ bằng phương pháp đóng hoặc ép, được xác định bằng tổng sức kháng của đất dưới mũi cọc và trên thân cọc:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 827,
+    "line_end": 827,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-10",
+    "anchor": "formula-10",
+    "title": "$$R_{c,u} = _{c} ( _{cq} q_{b} A_{b} + u_{cf} f_{i} l_{i} ) \\qquad (10)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 831,
+    "line_end": 831,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-02",
+    "anchor": "bang-bang-02",
+    "title": "Bảng 2 - Cường độ sức kháng của đất dưới mũi cọc đóng hoặc ép $q_{b}$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 862,
+    "line_end": 862,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-2-2",
+    "anchor": "muc-7-2-2-2",
+    "title": "7.2.2.2  Đối với các cọc đóng hoặc ép, mũi cọc tựa vào các lớp cát rời xốp hay đất dính có chỉ số sệt $I_{L}$ > 0,6 sức chịu tải của cọc nên được xác định theo kết quả thí nghiệm xuyên tĩnh.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 895,
+    "line_end": 895,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-2-3",
+    "anchor": "muc-7-2-2-3",
+    "title": "7.2.2.3  Sức chịu tải trọng kéo $R_{t,u}$, tính bằng kN, của cọc treo, kể cả cọc ống có lõi đất, hạ bằng phương pháp đóng hoặc ép, được xác định theo công thức:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 899,
+    "line_end": 899,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-11",
+    "anchor": "formula-11",
+    "title": "$$R_{t,u} = _{c}u_{cf} f_{i} l_{i} \\qquad (11)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 903,
+    "line_end": 903,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-03",
+    "anchor": "bang-bang-03",
+    "title": "Bảng 3 - Cường độ sức kháng trên thân cọc đóng hoặc ép $f_{i}$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 914,
+    "line_end": 914,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-04",
+    "anchor": "bang-bang-04",
+    "title": "Bảng 4 - Các hệ số điều kiện làm việc của đất $_{cq}$ và $_{cf}$ cho cọc đóng hoặc ép",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 946,
+    "line_end": 946,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-3",
+    "anchor": "muc-7-2-3",
+    "title": "7.2.3  Sức chịu tải của cọc treo đóng hoặc ép nhồi, cọc khoan nhồi và cọc ống nhồi bê tông",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 965,
+    "line_end": 965,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-3-1",
+    "anchor": "muc-7-2-3-1",
+    "title": "7.2.3.1  Sức chịu tải trọng nén $R_{c,u}$, tính bằng kN, của cọc đóng hoặc ép nhồi và cọc khoan nhồi mở hoặc không mở rộng mũi và cọc ống moi đất và nhồi bê tông vào bên trong, được xác định theo công thức:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 969,
+    "line_end": 969,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-12",
+    "anchor": "formula-12",
+    "title": "$$R_{c,u} = _{c} ( _{cq} q_{b} A_{b} + u_{cf} f_{i} l_{i} ) \\qquad (12)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 973,
+    "line_end": 973,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-3-2",
+    "anchor": "muc-7-2-3-2",
+    "title": "7.2.3.2  Cường độ sức kháng của đất dưới mũi cọc qb được xác định như sau:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1016,
+    "line_end": 1016,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-13",
+    "anchor": "formula-13",
+    "title": "$$qb = 0,75 _{4} ( _{1} ’ _{I} d + _{2} _{3} _{I} h) \\qquad (13)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1022,
+    "line_end": 1022,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-3-3",
+    "anchor": "muc-7-2-3-3",
+    "title": "7.2.3.3  Đối với cọc ống khi hạ không đào moi lõi đất hoặc chừa lại lõi đất sau khi hạ với chiều cao lõi tối thiểu bằng ba lần đường kính ống và không độn bê tông (lõi đất có nguyên đặc trưng giống đất nền dưới mũi cọc ống), sức kháng tính toán của đất dưới mũi cọc ống $q_{b}$ được lấy theo Bảng 2 nhân với hệ số điều kiện làm việc xét đến phương pháp hạ cọc ghi trong Bảng 4. Trong trường hợp nêu trên trị số $q_{b}$ chỉ tính với diện tích tiết diện ngang thành cọc ống.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1049,
+    "line_end": 1049,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-05",
+    "anchor": "bang-bang-05",
+    "title": "Bảng 5 - Hệ số điều kiện làm việc của cọc trong đất $_{cf}$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1053,
+    "line_end": 1053,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-06",
+    "anchor": "bang-bang-06",
+    "title": "Bảng 6 - Các hệ số 1, 2 , 3 và 4 trong công thức (13) & (14)",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1072,
+    "line_end": 1072,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-3-4",
+    "anchor": "muc-7-2-3-4",
+    "title": "7.2.3.4  Sức chịu tải trọng kéo $R_{t,u}$, tính bằng kN, của cọc đóng hoặc ép nhồi, cọc khoan nhồi và cọc ống được xác định theo công thức:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1084,
+    "line_end": 1084,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-15",
+    "anchor": "formula-15",
+    "title": "$$R_{t,u} = _{c} u _{cf} f_{i} l_{i} \\qquad (15)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1088,
+    "line_end": 1088,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-07",
+    "anchor": "bang-bang-07",
+    "title": "Bảng 7 - Cường độ sức kháng $q_{b}$, của đất dính dưới mũi cọc nhồi",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1099,
+    "line_end": 1099,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-4",
+    "anchor": "muc-7-2-4",
+    "title": "7.2.4  Sức chịu tải của cọc xoắn vít",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1122,
+    "line_end": 1122,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-4-1",
+    "anchor": "muc-7-2-4-1",
+    "title": "7.2.4.1  Sức chịu tải trọng nén và sức chịu tải trọng kéo của cọc xoắn vít được xác định theo công thức:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1126,
+    "line_end": 1126,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-17",
+    "anchor": "formula-17",
+    "title": "$$R_{q} = ( _{1} c_{I} + _{2} _{I} h_{I} ) A \\qquad (17)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1142,
+    "line_end": 1142,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-4-2",
+    "anchor": "muc-7-2-4-2",
+    "title": "7.2.4.2  Sức kháng trên thân cọc vít, tính bằng kN, xác định theo công thức:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1165,
+    "line_end": 1165,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-18",
+    "anchor": "formula-18",
+    "title": "$$R_{f} = u\\sum_{0}^{h−d} f_{i}l_{i} \\qquad (18)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1169,
+    "line_end": 1169,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-08",
+    "anchor": "bang-bang-08",
+    "title": "Bảng 8 - Hệ số điều kiện làm việc $_{c}$ của đất nền đối với cọc xoắn vít",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1188,
+    "line_end": 1188,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-09",
+    "anchor": "bang-bang-09",
+    "title": "Bảng 9 - Các hệ số không thứ nguyên $_{1}$, $_{2}$ trong công thức (17)",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1196,
+    "line_end": 1196,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-5",
+    "anchor": "muc-7-2-5",
+    "title": "7.2.5  Xét ảnh hưởng của lực ma sát âm trên thân cọc",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1204,
+    "line_end": 1204,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-5-1",
+    "anchor": "muc-7-2-5-1",
+    "title": "7.2.5.1  Nền đất, mà cọc nằm trong đó, có thể bị biến dạng do cố kết, trương nở, do bị gia tải… Lực ma sát âm (đối lực ma sát) phát sinh trên thân cọc do lún của khối đất bao quanh cọc, hướng thẳng đứng từ trên xuống và được xét trong các trường hợp:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1208,
+    "line_end": 1208,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-5-2",
+    "anchor": "muc-7-2-5-2",
+    "title": "7.2.5.2  Lực ma sát âm được tính đến độ sâu, tại đó độ lún của đất xung quanh cọc sau khi thi công và chất tải lên móng cọc, lớn hơn một nửa trị số độ lún giới hạn của móng. Sức kháng tính toán của đất lấy theo Bảng 3 mang dấu “âm”, riêng với than bùn, bùn và bùn loãng lấy bằng âm 5 kPa.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1230,
+    "line_end": 1230,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-5-3",
+    "anchor": "muc-7-2-5-3",
+    "title": "7.2.5.3  Trong trường hợp vào lúc bắt đầu thi công kết cấu phần trên của nhà hoặc công trình kể cả đài cọc, cố kết của đất nền do đất đắp hoặc do bị chất tải cũng vừa được kết thúc, hoặc sau thời điểm kể trên, độ lún khả dĩ của đất bao quanh cọc do còn cố kết dư sẽ không lớn hơn một nửa trị số lún giới hạn của nhà và công trình cần thiết kế, khi đó sức kháng của đất trên thân cọc cho phép được lấy giá trị dương mặc dù có hay không có các vỉa than bùn. Đối với các vỉa than bùn trị số $f_{i}$ lấy bằng 5 kPa.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1244,
+    "line_end": 1244,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2-5-4",
+    "anchor": "muc-7-2-5-4",
+    "title": "7.2.5.4  Nếu đã biết hệ số cố kết và mô đun biến dạng của than bùn nằm trong phạm vi chiều sâu hạ cọc và có thể xác định độ lún của từng lớp đất dưới tác dụng của chất tải thì khi xác định sức chịu tải của cọc cho phép lấy giá trị sức kháng của đất với dấu âm (lực ma sát âm), và không tính từ đáy lớp than bùn dưới cùng mà tính từ đỉnh lớp đất có độ lún phụ thêm do bị chất tải (tính từ thời điểm truyền tải trọng vào cọc) chiếm 50 % trị số lún giới hạn của nhà hoặc công trình cần thiết kế.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1248,
+    "line_end": 1248,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3",
+    "anchor": "muc-7-3",
+    "title": "7.3  Xác định sức chịu tải của cọc theo kết quả thí nghiệm hiện trường",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1252,
+    "line_end": 1252,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3-1",
+    "anchor": "muc-7-3-1",
+    "title": "7.3.1  Sức chịu tải của cọc có thể xác định ngoài hiện trường theo các phương pháp thí nghiệm thử cọc bằng tải tĩnh, thí nghiệm thử cọc bằng tải động và thí nghiệm xuyên đất. Trong đó thí nghiệm thử tải tĩnh đánh giá chính xác nhất khả năng chịu tải của cọc và dùng để kiểm chứng giá trị sức chịu tải của cọc xác định bằng các phương pháp khác. Khối lượng các thí nghiệm hiện trường xem trong Phụ lục D.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1256,
+    "line_end": 1256,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3-2",
+    "anchor": "muc-7-3-2",
+    "title": "7.3.2  Quy trình thí nghiệm thử tải tĩnh cọc chịu nén thẳng đứng dọc trục tuân theo yêu cầu của TCVN 9393:2012 Cọc - Phương pháp thử nghiệm tại hiện trường bằng tải ép tĩnh dọc trục.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1260,
+    "line_end": 1260,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-19",
+    "anchor": "formula-19",
+    "title": "$$S = S_{gh} \\qquad (19)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1268,
+    "line_end": 1268,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-20",
+    "anchor": "formula-20",
+    "title": "$$S = S_{gh} + S_{e} , \\qquad (20)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1299,
+    "line_end": 1299,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-21",
+    "anchor": "formula-21",
+    "title": "$$S_{e} =  \\beta \\frac{NI}{EA} \\qquad (21)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1308,
+    "line_end": 1308,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3-3",
+    "anchor": "muc-7-3-3",
+    "title": "7.3.3  Thí nghiệm thử tải tĩnh cọc chịu kéo hoặc chịu tải ngang tiến hành theo từng cấp như thử tải tĩnh cọc chịu nén dọc trục. Sức chịu tải trọng kéo và chịu tải trọng ngang cực hạn được lấy thấp hơn một cấp so với cấp tải trọng mà ở đó chuyển vị của cọc không ngừng tăng lên mặc dù đã dừng chất tải.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1329,
+    "line_end": 1329,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3-4",
+    "anchor": "muc-7-3-4",
+    "title": "7.3.4  Sức chịu tải $R_{c,u}$ của cọc, tính bằng kN, theo các số liệu thử động cọc bằng búa đóng với độ chối dư thực tế (đo được) $S_{a}$ ≥ 0,002 m, được xác định theo công thức:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1335,
+    "line_end": 1335,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-22",
+    "anchor": "formula-22",
+    "title": "$$R_{c,u} = \\frac{\\eta AM}{2}\\left(1 + \\frac{4E_{d}}{\\eta AS_{a}} \\times \\frac{m_{1} +  \\epsilon ^{2\\left(m_{2} + m_{3}\\right)}}{m_{1} + m_{2} + m_{3}}−1\\right) \\qquad (22)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1339,
+    "line_end": 1339,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-23",
+    "anchor": "formula-23",
+    "title": "$$R_{c,u} = \\frac{1}{20}\\frac{2S_{a} + S_{el}}{S_{a} + S_{el}}\\left(1 + \\frac{8E_{d}\\left(S_{a} + S_{e1}\\right)}{\\left(2S_{a} + S_{e1}\\right)}^{2} \\times \\frac{m_{1}}{m_{1} + m_{2}} \\times  \\theta −1\\right) \\qquad (23)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1346,
+    "line_end": 1346,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-24",
+    "anchor": "formula-24",
+    "title": "$$\\theta  = \\frac{1}{4}\\left(\\frac{n_{P}}{A} + \\frac{n_{f}}{A_{f}}\\right)\\frac{m_{4}}{m_{4} + m_{2}}2g\\left(H−h\\right) \\qquad (24)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1377,
+    "line_end": 1377,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-10",
+    "anchor": "bang-bang-10",
+    "title": "Bảng 10 - Hệ số h của vật liệu làm cọc",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1400,
+    "line_end": 1400,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-11",
+    "anchor": "bang-bang-11",
+    "title": "Bảng 11 - Hệ số M trong công thức (20)",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1408,
+    "line_end": 1408,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-12",
+    "anchor": "bang-bang-12",
+    "title": "Bảng 12 - Năng lượng xung kích tính toán của một nhát búa đóng $E_{d}$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1418,
+    "line_end": 1418,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-13",
+    "anchor": "bang-bang-13",
+    "title": "Bảng 13 - Năng lượng tính toán tương đương một nhát búa của máy rung",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1432,
+    "line_end": 1432,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3-5",
+    "anchor": "muc-7-3-5",
+    "title": "7.3.5  Sức chịu tải $R_{c,u}$ của cọc đóng, hoặc ép, tính bằng kN, tại điểm xuyên tĩnh được xác định theo công thức:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1449,
+    "line_end": 1449,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-25",
+    "anchor": "formula-25",
+    "title": "$$R_{c,u} = q_{b}A_{b} uf_{i}l_{i} \\qquad (25)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1453,
+    "line_end": 1453,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-27",
+    "anchor": "formula-27",
+    "title": "$$f = _{2} f_{s} \\qquad (27)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1482,
+    "line_end": 1482,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-28",
+    "anchor": "formula-28",
+    "title": "$$f = \\frac{\\sum_{\\sum l_{i}} \\beta _{i}f_{si}l_{i}}{} \\qquad (28)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1489,
+    "line_end": 1489,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3-6",
+    "anchor": "muc-7-3-6",
+    "title": "7.3.6  Sức chịu tải trọng nén và tải trọng kéo của cọc vít theo kết quả thí nghiệm xuyên tĩnh được xác định theo công thức (25) với chiều sâu hạ cọc đã trừ bớt một phần bằng đường kính cạnh vít như chú thích trong 7.2.4.3. Sức kháng của đất nằm dưới (hoặc nằm trên) cạnh vít của cọc được xác định theo công thức (26), trong đó $_{I}$ - hệ số lấy theo Bảng 14 phụ thuộc vào trị trung bình sức kháng của đất dưới mũi xuyên trong vùng làm việc tính bằng đường kính cạnh vít. Trị trung bình sức kháng của đất trên thân cọc vít, theo kết quả xuyên đất tại vị trí xuyên, được xác định theo công thức (27) hoặc (28).",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1504,
+    "line_end": 1504,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3-7",
+    "anchor": "muc-7-3-7",
+    "title": "7.3.7  Đối với cọc khoan nhồi làm việc chịu nén, được thi công theo 6.5a, cho phép xác định sức chịu tải của cọc ở điểm xuyên tĩnh $R_{c,u}$, mà không sử dụng số liệu về sức kháng của đất trên ống ma sát của mũi xuyên tĩnh, theo công thức:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1508,
+    "line_end": 1508,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-29",
+    "anchor": "formula-29",
+    "title": "$$R_{c,u} = q_{b} A_{b} + u_{cf} f_{i} l_{i} \\qquad (29)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1512,
+    "line_end": 1512,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3-8",
+    "anchor": "muc-7-3-8",
+    "title": "7.3.8  Sức chịu tải của cọc xác định theo kết quả thí nghiệm xuyên tiêu chuẩn (SPT) xem trong phần Phụ lục G.3.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1539,
+    "line_end": 1539,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-14",
+    "anchor": "bang-bang-14",
+    "title": "Bảng 14 - Các hệ số chuyển đổi $_{1}$, $_{2}$ và $_{i}$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1543,
+    "line_end": 1543,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-15",
+    "anchor": "bang-bang-15",
+    "title": "Bảng 15 - Cường độ sức kháng $q_{b}$ và $f_{i}$, của đất đối với cọc khoan nhồi theo $q_{C}$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1555,
+    "line_end": 1555,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-4",
+    "anchor": "muc-7-4",
+    "title": "7.4  Tính toán cọc và móng cọc theo biến dạng",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1569,
+    "line_end": 1569,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-4-1",
+    "anchor": "muc-7-4-1",
+    "title": "7.4.1  Việc tính toán độ lún của móng cọc (theo trạng thái giới hạn thứ hai) cho phép thực hiện với các sơ đồ tính toán dựa trên mô hình nền biến dạng tuyến tính, nhưng phải thỏa mãn điều kiện (2) trong 7.1.11.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1573,
+    "line_end": 1573,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-4-2",
+    "anchor": "muc-7-4-2",
+    "title": "7.4.2  Tính toán độ lún của cọc đơn",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1585,
+    "line_end": 1585,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-30",
+    "anchor": "formula-30",
+    "title": "$$s =  \\beta \\frac{N}{G_{1}l} \\qquad (30)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1593,
+    "line_end": 1593,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-31",
+    "anchor": "formula-31",
+    "title": "$$\\beta  = \\frac{\\beta '}{\\lambda _{1}} + \\frac{1−\\left(\\frac{\\beta '}{\\alpha '}\\right)}{\\chi} \\qquad (31)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1604,
+    "line_end": 1604,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-32",
+    "anchor": "formula-32",
+    "title": "$$\\lambda _{1} = \\frac{2,12 \\chi ^{3/4}}{1 + 2,12 \\chi ^{3/4}} \\qquad (32)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1619,
+    "line_end": 1619,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-33",
+    "anchor": "formula-33",
+    "title": "$$k_{n} = 2,82 - 3,78 + 2,18 ^{2} \\qquad (33)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1626,
+    "line_end": 1626,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-34",
+    "anchor": "formula-34",
+    "title": "$$S = \\frac{0,22.N}{G_{2}d_{b}} + \\frac{NI}{EA} \\qquad (34)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1635,
+    "line_end": 1635,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-35",
+    "anchor": "formula-35",
+    "title": "$$d = 4A/ \\pi \\qquad (35)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1652,
+    "line_end": 1652,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-4-3",
+    "anchor": "muc-7-4-3",
+    "title": "7.4.3  Tính toán độ lún của nhóm cọc từ độ lún của cọc đơn",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1661,
+    "line_end": 1661,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-36",
+    "anchor": "formula-36",
+    "title": "$$s_{i,j} =  \\delta _{i,j}\\frac{N_{j}}{G_{1}l} \\qquad (36)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1667,
+    "line_end": 1667,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-37",
+    "anchor": "formula-37",
+    "title": "$$\\delta _{i,j} = 0.17ln\\frac{k_{\\nu}G_{1}l}{2G_{2}a} \\qquad (37)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1674,
+    "line_end": 1674,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-39",
+    "anchor": "formula-39",
+    "title": "$$s_{i} = s(N_{i}) + \\sum_{j = 1}^{n} \\delta _{ij}\\frac{N_{j}}{G_{1}l} \\qquad (39)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1686,
+    "line_end": 1686,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-4-4",
+    "anchor": "muc-7-4-4",
+    "title": "7.4.4  Tính toán độ lún của móng cọc theo mô hình móng khối quy ước:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1703,
+    "line_end": 1703,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-40",
+    "anchor": "formula-40",
+    "title": "$$a = h \\times tg\\frac{\\varphi _{ll,mt}}{4} \\qquad (40)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1713,
+    "line_end": 1713,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-1",
+    "anchor": "hinh-1",
+    "title": "",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1720,
+    "line_end": 1720,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-41",
+    "anchor": "formula-41",
+    "title": "$$ϕ_{ll,mt} = \\frac{\\sum_{\\sum l_{i}} ϕ_{ll,j}l_{i}}{} \\qquad (41)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1733,
+    "line_end": 1733,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-4-5",
+    "anchor": "muc-7-4-5",
+    "title": "7.4.5  Ngoài mô hình móng khối quy ước trong 7.4.4, cho phép dùng các mô hình móng khối quy ước khác đã được công nhận (xem Phụ lục C) để tính lún cho móng cọc.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1748,
+    "line_end": 1748,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-4-6",
+    "anchor": "muc-7-4-6",
+    "title": "7.4.6  Tính toán móng hỗn hợp cọc - bè. Móng hỗn hợp cọc - bè (gọi tắt là MHH) là móng phối hợp cọc và tấm (bè) cùng làm việc để giảm độ lún tổng thể và lún lệch của móng. Cho phép bố trí cọc cách đều hoặc không cách đều trong móng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1752,
+    "line_end": 1752,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-4-7",
+    "anchor": "muc-7-4-7",
+    "title": "7.4.7  Khi tính toán sơ bộ độ lún của nền $S_{MHH}$ của MHH cần lưu ý rằng giá trị của nó không được vượt quá độ lún của móng bè (tấm) và nhỏ hơn độ lún của móng cọc tính theo sơ đồ móng khối quy ước.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1772,
+    "line_end": 1772,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5",
+    "anchor": "muc-7-5",
+    "title": "7.5  Đặc điểm tính toán thiết kế nhóm cọc kích thước lớn và đài cọc dạng tấm",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1776,
+    "line_end": 1776,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-1",
+    "anchor": "muc-7-5-1",
+    "title": "7.5.1  Việc tính toán hệ kết cấu “nền cọc - tấm chịu uốn - kết cấu bên trên” nói chung cần thực hiện cho bài toán không gian có kể đến sự tương tác của kết cấu phần thân và phần ngầm, móng cọc và nền. Việc xác định nội lực trong các cọc và trong đài cọc dạng tấm cần được thực hiện bằng phương pháp số trên máy tính với các chương trình đã được thẩm định mô tả được sự tương tác này.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1780,
+    "line_end": 1780,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-2",
+    "anchor": "muc-7-5-2",
+    "title": "7.5.2  Khi tính toán móng cọc kích thước lớn (móng có nhiều cọc), cho phép dùng các đặc trưng biến dạng đàn hồi của vật liệu cọc, đài và kết cấu bên trên, hạn chế nội lực trong giới hạn biến dạng tuyến tính. Đối với ứng xử cơ học của đất, tốt nhất là dùng mô hình phi tuyến.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1784,
+    "line_end": 1784,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-3",
+    "anchor": "muc-7-5-3",
+    "title": "7.5.3  Khi xác định nội lực trong cọc của móng cọc kích thước lớn, cơ cấu làm việc của đất tốt nhất là được mô tả bằng các mô hình, trong đó các đặc trưng của đất được xác định theo các quy chuẩn. Để làm sáng tỏ đặc điểm cơ cấu làm việc của móng và kết cấu bên trên, trong những trường hợp riêng có thể sử dụng những mô hình đàn - dẻo phức tạp (đàn - dẻo nhiều thông số) kể đến sự tăng hoặc giảm độ bền của đất và các yếu tố khác. Có thể sự chọn lựa mô hình này phải được xác định bởi quy mô khảo sát địa chất công trình và mức độ quan trọng của công trình. Khi tính toán theo các mô hình đàn - dẻo nhiều thông số, cần có sự so sánh kết quả tính toán theo những mô hình khác nhau và tính tới khả năng tăng nội lực trong tất cả các cấu kiện của kết cấu công trình.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1788,
+    "line_end": 1788,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-4",
+    "anchor": "muc-7-5-4",
+    "title": "7.5.4  Khi xây dựng các mô hình tính toán của nền cần ấn định phạm vi tính toán và hình thái phần tử hữu hạn hay sai phân hữu hạn. Kích thước của phạm vi nền tiếp xúc với móng cọc, được đưa vào tính toán nền móng cọc phải đảm bảo sao cho loại trừ được ảnh hưởng của các điều kiện biên tới kết quả tính toán.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1792,
+    "line_end": 1792,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-5",
+    "anchor": "muc-7-5-5",
+    "title": "7.5.5  Khi tính toán móng cần kể đến ảnh hưởng của việc thi công mở hố đào, các kết cấu bảo vệ, trình tự thi công các khối, các phần của công trình và mức độ không đồng nhất của địa tầng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1796,
+    "line_end": 1796,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-6",
+    "anchor": "muc-7-5-6",
+    "title": "7.5.6  Mô hình tính toán của móng nhiều cọc cần được xây dựng sao cho sai số sẽ thiên về phía an toàn cho kết cấu móng và kết cấu bên trên của công trình. Nếu không thể dự báo được các sai lệch này thì phải thực hiện thêm một số tính toán và xác định những tác động bất lợi nhất cho công trình. Cũng cần phải kể đến tính không xác định có thể liên quan đến việc chọn mô hình tính toán và các đặc trưng biến dạng, đặc trưng cường độ của nền đất. Để làm điều này, khi thực hiện tính toán móng cọc kích thước lớn, MHH trên máy tính nên so sánh các kết quả tính toán của các phần tử trong sơ đồ tính toán với kết quả giải tích. Việc so sánh này cần thực hiện theo những chương trình địa kỹ thuật khác nhau.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1800,
+    "line_end": 1800,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-7",
+    "anchor": "muc-7-5-7",
+    "title": "7.5.7  Đối với mỗi lớp đất thứ i, trong tính toán chỉ dùng các trị tiêu chuẩn của các đặc trưng biến dạng ($E_{0,i}$ - mô đun biến dạng lớp i theo nhánh gia tải lần thứ nhất, $E_{0,e,I}$ - mô đun biến dạng của lớp i theo nhánh lần nén thứ hai và $u_{i}$ - hệ số poatxong của lớp i). Cho phép ấn định chiều sâu tính toán của nền như trong trường hợp tính lún theo sơ đồ móng khối quy ước trong 7.4. Khi tính toán theo mô hình nhiều thông số, chiều sâu tầng chịu nén cần được xác định trên cơ sở tính toán.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1804,
+    "line_end": 1804,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-8",
+    "anchor": "muc-7-5-8",
+    "title": "7.5.8  Theo kết quả tính toán cần làm rõ về chất và lượng của các ảnh hưởng nhóm và biên, nghĩa là đặc điểm sự làm việc của cọc ở những vị trí khác nhau trong đám cọc. Cần xét đến sự tăng độ mềm của các cọc làm việc trong nhóm cọc so với cọc làm việc độc lập cũng như sự biến đổi sức kháng của cọc và của đất phụ thuộc vào vị trí của chúng (cọc ở góc hay ở cạnh; ở chính giữa hay lưng chừng …) trong nhóm.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1808,
+    "line_end": 1808,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-9",
+    "anchor": "muc-7-5-9",
+    "title": "7.5.9  Khi tính toán kết cấu phần trên và móng công trình cho phép mô tả nền cọc với các phần tử tiếp xúc là tuyến tính hoặc phi tuyến. Các phần tử này đặc trưng cho quan hệ “tải trọng - độ lún” cho đầu cọc và đáy đài dạng tấm giữa các cọc nên được xác định bằng tính toán biến dạng của nền theo sơ đồ không gian. Bằng cách này có thể xác định được khả năng phân bố lại phản lực trên đầu cọc và đất giữa các cọc. Cho phép mô tả sự làm việc của các phần tử tiếp xúc phi tuyến bằng cách tính lặp vài lần với biến đổi độ cứng của các phần tử tiếp xúc phi tuyến.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1812,
+    "line_end": 1812,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-10",
+    "anchor": "muc-7-5-10",
+    "title": "7.5.10  Để xác định các đặc trưng độ cứng của nền cho phép thay phép tính không gian toàn bộ nền cọc bằng phép tính từng phần đặc trưng của nó. Khi thực hiện những phép tính này có thể dùng giả thiết xem đài mềm là tuyệt đối cứng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1816,
+    "line_end": 1816,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-11",
+    "anchor": "muc-7-5-11",
+    "title": "7.5.11  Cho phép mô tả biến dạng trượt và chảy dẻo của đất trên biên “cọc - đất” theo cách dùng các phần tử tiếp xúc, hoặc các phần tử - hữu hạn hoặc sai phân - hữu hạn.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1820,
+    "line_end": 1820,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-12",
+    "anchor": "muc-7-5-12",
+    "title": "7.5.12  Đối với móng cọc kích thước lớn dưới các công trình thuộc tầm quan trọng cấp I cần tính toán đài theo trạng thái phi tuyến. Đối với những công trình thuộc tầm quan trọng cấp II và III cho phép tính toán đài mềm với mô hình nền đàn hồi, đặc trưng bởi hệ số nền biến đổi. Các hệ số nền này được ấn định theo kết quả tính toán móng cọc theo biến dạng theo 7.4. Theo đó khi thiết kế kết cấu đài cọc dạng tấm cần chọn những trường hợp bất lợi nhất cho sức kháng của các cọc trong móng. Chọn chiều dày của đài cọc theo điều kiện bền chống ép thủng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1824,
+    "line_end": 1824,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-13",
+    "anchor": "muc-7-5-13",
+    "title": "7.5.13  Bố trí cốt thép trong đài thành lưới hoặc từng thanh riêng biệt theo TCVN 5574:2012. Số lượng cốt thép làm việc trong đài được xác định theo nội lực tác dụng trong các tiết diện theo yêu cầu nêu trong chương này.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1828,
+    "line_end": 1828,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-14",
+    "anchor": "muc-7-5-14",
+    "title": "7.5.14  Việc tính toán theo cường độ vật liệu thân cọc trong móng cọc - bè của các nhóm cọc có kích thước lớn cần được thực hiện có kể đến sự phân bố lại tải trọng giữa các cọc. Để làm điều này việc tính toán cọc theo vật liệu cần thực hiện cho tải trọng lớn hơn 1,5 lần so với trị tính toán của nội lực trong cọc. Khi tính toán theo chỉ dẫn này cần kể đến vị trí cọc trong móng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1832,
+    "line_end": 1832,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-15",
+    "anchor": "muc-7-5-15",
+    "title": "7.5.15  Nhóm cọc kích thước lớn cần được thiết kế có xét đến khả năng truyền tải trực tiếp lên đất qua đáy đài dạng tấm, liên quan đến điều này, trong đồ án thiết kế cần nêu biện pháp chuẩn bị cho nền.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1836,
+    "line_end": 1836,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-16",
+    "anchor": "muc-7-5-16",
+    "title": "7.5.16  Trong đồ án thiết kế móng cọc và móng cọc - bè của công trình thuộc tầm quan trọng cấp I cần dự tính đặt các đầu đo chuyên dụng để đo nội lực trong các cọc chịu tải lớn nhất. Các đầu đo phải đặt trong ít nhất 2 cọc bên trong, 2 cọc ở góc và 2 cọc ở cạnh móng và ở những vùng chịu tải lớn nhất của công trình.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1840,
+    "line_end": 1840,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5-17",
+    "anchor": "muc-7-5-17",
+    "title": "7.5.17  Khi thi công cọc khoan nhồi đường kính lớn, phải đặt các ống chuyên dụng cùng với lồng thép, để phục vụ cho việc kiểm tra mức độ đồng nhất và cường độ của bê tông thân cọc bằng phương pháp không phá hoại. Số lượng tối thiểu các cọc phải đặt các ống chuyên dụng tuân theo quy định đảm bảo chất lượng trong tiêu chuẩn thi công và nghiệm thu cọc hiện hành.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1844,
+    "line_end": 1844,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6",
+    "anchor": "muc-7-6",
+    "title": "7.6  Đặc điểm thiết kế móng cọc khi cải tạo xây dựng lại nhà và công trình",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1848,
+    "line_end": 1848,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-1",
+    "anchor": "muc-7-6-1",
+    "title": "7.6.1  Móng cọc được sử dụng để cải tạo xây dựng lại nhà và công trình phần lớn là khi tải trọng tăng lên đáng kể và trong nền có mặt các lớp đất yếu.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1852,
+    "line_end": 1852,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-2",
+    "anchor": "muc-7-6-2",
+    "title": "7.6.2  Cần thiết kế móng cọc cho nhà và công trình cải tạo xây dựng lại theo các yêu cầu của Điều 7.6 này và Điều 7.1 đến Điều 7.4. Các số liệu ban đầu dùng để thiết kế nêu trong 4.1 cần chứa các kết quả khảo sát nền, móng và kết cấu của công trình cần cải tạo; các yêu cầu từ 5.14 đến 5.17 còn dùng cho cả các nhà và công trình có sẵn nằm trong vùng ảnh hưởng của các công trình cải tạo xây dựng lại.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1858,
+    "line_end": 1858,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-3",
+    "anchor": "muc-7-6-3",
+    "title": "7.6.3  Công tác khảo sát địa chất công trình để thiết kế cải tạo cần được thực hiện theo các yêu cầu của Điều 5 và các chỉ dẫn trong Điều 9 đến Điều 13 của tiêu chuẩn này.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1862,
+    "line_end": 1862,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-4",
+    "anchor": "muc-7-6-4",
+    "title": "7.6.4  Khi thiết kế cải tạo xây dựng lại công trình cần áp dụng những cách giải quyết, theo đó tận dụng tối đa các kết cấu móng sẵn có và sức chịu tải của nền.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1866,
+    "line_end": 1866,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-5",
+    "anchor": "muc-7-6-5",
+    "title": "7.6.5  Đồ án thiết kế móng cọc đóng cho công trình cải tạo xây dựng lại nằm gần các công trình khác cần được kiểm tra theo điều kiện an toàn cho các công trình này dưới tác dụng của tải trọng động theo các yêu cầu trong 4.8 và cả an toàn theo điều kiện chuyển dịch của đất xung quanh cọc.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1870,
+    "line_end": 1870,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-6",
+    "anchor": "muc-7-6-6",
+    "title": "7.6.6  Nếu khoảng cách từ cọc đóng gần nhất tới công trình nhỏ hơn 25 m, khoảng cách an toàn cho phép cần được xác lập từ điều kiện sao cho dao động dọc của móng v, cm/s, nằm cách cọc một đoạn r không được vượt quá giới hạn cho phép của nhà và công trình. Giới hạn dao động cho phép của nhà và công trình được xác lập phụ thuộc vào đặc điểm kết cấu và hiện trạng của chúng. Vận tốc dao động cho phép $V_{a}$ để cho công trình không bị ảnh hưởng trong trường hợp đóng cọc bằng búa cho trong Bảng 16. Trong những trường hợp cần thiết, trong đó có cọc hạ bằng búa rung, khoảng cách an toàn cần được xác định chính xác theo các thông số dao động của đất và móng nhờ các thiết bị quan trắc khi hạ cọc.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1876,
+    "line_end": 1876,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-42",
+    "anchor": "formula-42",
+    "title": "$$V = 2pd \\qquad (42)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1882,
+    "line_end": 1882,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-7",
+    "anchor": "muc-7-6-7",
+    "title": "7.6.7  Trong trường hợp không thể dùng cọc đóng gần các công trình có sẵn do điều kiện tác động động, có thể dùng cọc ép, hạ cọc bằng thiết bị ép cọc chuyên dụng nhờ các kích thủy lực.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1891,
+    "line_end": 1891,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-43",
+    "anchor": "formula-43",
+    "title": "$$F = _{c}R_{c,u} \\qquad (43)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1897,
+    "line_end": 1897,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-16",
+    "anchor": "bang-bang-16",
+    "title": "Bảng 16 - Vận tốc dao động cho phép $V_{a}$ trong đất",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1910,
+    "line_end": 1910,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-8",
+    "anchor": "muc-7-6-8",
+    "title": "7.6.8  Trong trường hợp dùng cọc khoan nhồi cho công trình cải tạo xây dựng lại cần kiểm tra độ lún có thể xuất hiện trong quá trình thi công cọc, do máy móc thiết bị gây ra làm các móng gần đó lún theo.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1920,
+    "line_end": 1920,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-9",
+    "anchor": "muc-7-6-9",
+    "title": "7.6.9  Khi gia cường móng công trình cải tạo xây dựng lại bằng cách thêm các cọc vào dưới đài cọc có sẵn, lúc đó phải kiểm tra đài cọc theo cường độ trong mối liên quan đến sự thay đổi tải trọng và điểm tác dụng. Trong trường hợp đài cọc không đủ khả năng chịu lực thì phải thiết kế gia cường đài",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1924,
+    "line_end": 1924,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-10",
+    "anchor": "muc-7-6-10",
+    "title": "7.6.10  Độ lún phụ thêm của nền công trình cải tạo xây dựng lại, không được lớn hơn độ lún cho phép thêm, được quy định theo các yêu cầu của các điều kiện kỹ thuật riêng phụ thuộc vào mức độ quan trọng của công trình cải tạo và các công trình lân cận.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1928,
+    "line_end": 1928,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-11",
+    "anchor": "muc-7-6-11",
+    "title": "7.6.11  Việc chọn loại cọc, vật liệu và phương pháp thi công cần kể đến:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1932,
+    "line_end": 1932,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6-12",
+    "anchor": "muc-7-6-12",
+    "title": "7.6.12  Khi xem xét các chỉ dẫn từ 7.6.5 đến 7.6.11 cần chú ý đặc biệt đến các yếu tố:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1954,
+    "line_end": 1954,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8",
+    "anchor": "muc-8",
+    "title": "8  CÁC YÊU CẦU VỀ CẤU TẠO MÓNG CỌC",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1980,
+    "line_end": 1980,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-1",
+    "anchor": "muc-8-1",
+    "title": "8.1  Móng cọc được thiết kế, phụ thuộc vào tải trọng tác dụng dưới dạng:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1984,
+    "line_end": 1984,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-2",
+    "anchor": "muc-8-2",
+    "title": "8.2  Đài cọc dạng băng, đài cọc dạng cốc và đài cọc dạng tấm được sử dụng, phụ thuộc vào kết cấu của công trình. Đài cọc dạng băng, theo nguyên tắc, được sử dụng cho công trình có tường chịu lực, hoặc hàng cột chịu lực.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1998,
+    "line_end": 1998,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-3",
+    "anchor": "muc-8-3",
+    "title": "8.3  Chiều rộng của đài phụ thuộc vào số lượng cọc và chiều rộng tường, cột. Độ vươn của đài cọc ra phía ngoài mép cọc cần đươc chọn có kể đến độ lệch cho phép của cọc, thông thường độ vươn tối thiểu của đài cọc khoảng 25 cm.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2002,
+    "line_end": 2002,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-4",
+    "anchor": "muc-8-4",
+    "title": "8.4  Đài cọc dạng cốc cấu tạo từ phần tấm và phần kheo - phần cốc, được sử dụng ở công trình dùng khung bê tông cốt thép lắp ghép. Chiều cao đài quy định cao hơn chiều sâu đáy cốc 40 cm. Tính toán đài chịu uốn (phần tấm, phần cốc) và chống đâm thủng (do cột và cọc ở góc) theo yêu cầu của TCVN 5574:2012. Đặt cốt thép dạng lưới phẳng cho phần tấm và dạng khung không gian cho thành cốc.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2008,
+    "line_end": 2008,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-5",
+    "anchor": "muc-8-5",
+    "title": "8.5  Đối với công trình nặng, theo nguyên tắc, dùng đài dạng tấm kích thước lớn. Xác định chiều cao của đài theo khả năng chịu lực cắt (theo tính toán chống ép thủng).",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2012,
+    "line_end": 2012,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-6",
+    "anchor": "muc-8-6",
+    "title": "8.6  Khi lập đồ án thiết kế móng cọc phải xét đến những yếu tố: sơ đồ kết cấu của tòa nhà hoặc công trình thiết kế, kích thước của các kết cấu chịu lực và vật liệu dùng để thiết kế; khoảng cách của các công trình ngầm tới tim nhà hoặc công trình cần xây dựng và tới móng của chúng, kết cấu sàn và tải trọng sử dụng trên sàn, tải trọng do các kết cấu xây dựng truyền lên móng, sự phân bố của thiết bị và tải trọng truyền vào kết cấu xây dựng, đồng thời xét đến các yêu cầu về độ lún giới hạn và độ nghiêng của kết cấu xây dựng và của móng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2018,
+    "line_end": 2018,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-7",
+    "anchor": "muc-8-7",
+    "title": "8.7  Số lượng cọc trong móng phải được xác định theo điều kiện tận dụng tối đa các đặc trưng về cường độ vật liệu làm cọc ứng với tải trọng tính toán cho phép truyền vào cọc, xét cả mức vượt tải cho phép đối với cọc khi chịu tải trọng tức thời theo yêu cầu của 7.1.11.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2022,
+    "line_end": 2022,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-8",
+    "anchor": "muc-8-8",
+    "title": "8.8  Liên kết cọc với đài cọc có thể là tựa tự do họăc là liên kết cứng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2030,
+    "line_end": 2030,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-9",
+    "anchor": "muc-8-9",
+    "title": "8.9  Liên kết cứng giữa cọc bê tông cốt thép và đài bê tông cốt thép đúc toàn khối được thiết kế với chiều sâu ngàm đầu cọc vào đài tương ứng chiều dài cốt thép neo hoặc với chiều dài neo các cốt thép chờ ngàm sâu vào đài theo yêu cầu của TCVN 5574:2012. Đối với liên kết cứng trong đầu cọc ứng lực trước, phải cấu tạo cốt thép không căng trước để dùng tiếp làm cốt thép neo.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2048,
+    "line_end": 2048,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-10",
+    "anchor": "muc-8-10",
+    "title": "8.10  Liên kết cứng giữa cọc với đài lắp ghép phải được đảm bảo bằng đầu nối hình chuông. Đối với đài lắp ghép còn cho phép đúc tại chỗ mối nối cọc trong các lỗ có thiết kế đặc biệt nằm trong đài.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2062,
+    "line_end": 2062,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-11",
+    "anchor": "muc-8-11",
+    "title": "8.11  Đối với móng chịu tải lệch tâm, các cọc nằm trong nhóm cọc được phân bố sao cho tổng tải trọng tĩnh tác dụng lên móng có thể tiếp cận tới trọng tâm mặt bằng cọc.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2066,
+    "line_end": 2066,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-12",
+    "anchor": "muc-8-12",
+    "title": "8.12  Để cọc chịu tải trọng thẳng đứng, mômen và lực ngang (tùy theo giá trị và hướng của chúng) cho phép thiết kế cọc đứng, cọc xiên và cọc chéo.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2070,
+    "line_end": 2070,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-13",
+    "anchor": "muc-8-13",
+    "title": "8.13  Khoảng cách giữa tim các cọc treo đóng không mở rộng mũi tại mặt phẳng mũi cọc không được bé hơn 3d (trong đó d là đường kính cọc tròn hay cạnh cọc vuông hoặc cạnh dài của cọc có mặt cắt chữ nhật). Đối với cọc chống khoảng cách này tối thiểu là 1,5d.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2074,
+    "line_end": 2074,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-14",
+    "anchor": "muc-8-14",
+    "title": "8.14  Lựa chọn chiều dài cọc phải dựa vào điều kiện địa chất tại vị trí xây dựng, vào cao độ đáy đài có xét đến khả năng thực tế của thiết bị thi công móng cọc. Theo nguyên tắc, mũi cọc phải được xuyên qua các lớp đất yếu xuống tầng đất rắn chắc với chiều sâu hạ cọc vào tối thiểu bằng 0,5 m khi đóng vào đất hòn vụn thô, sỏi, đất cát to và cát trung, đất dính với chỉ số sệt $I_{L}$ ≤ 0,1; còn khi đóng vào tầng đất khác, trừ đá, thì lấy tối thiểu bằng 1,0 m. Không cho phép tựa mũi cọc trên cát rời xốp và các loại đất dính trạng thái chảy.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2084,
+    "line_end": 2084,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-15",
+    "anchor": "muc-8-15",
+    "title": "8.15  Chiều sâu đặt đài cọc phải được quy định dựa vào các giải pháp kết cấu phần ngầm của nhà hoặc công trình, (có tầng ngầm, hầm kỹ thuật) và thiết kế san nền (đào hoặc đắp đất) và chiều cao thiết kế của đài.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2088,
+    "line_end": 2088,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-16",
+    "anchor": "muc-8-16",
+    "title": "8.16  Khi lập đồ án móng cọc phải xét khả năng khi đóng cọc mặt đất bị nâng dần (nhô lên). Hiện tượng này thường có thể xẩy ra trong các trường hợp khi:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2094,
+    "line_end": 2094,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-44",
+    "anchor": "formula-44",
+    "title": "$$h = k\\frac{V_{P}}{A_{c}} \\qquad (44)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2106,
+    "line_end": 2106,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-17",
+    "anchor": "muc-8-17",
+    "title": "8.17  Cần bố trí cốt thép trong cọc khoan nhồi, khoan phun dưới dạng lồng để tạo nên độ cứng cho chúng. Các cốt thép dọc phải nối với nhau không những bằng các cốt đai mà còn các vòng nhẫn được lắp dựng bằng hàn trên suốt chiều dài lồng thép theo bước không lớn hơn 5 lần đường kính (nhưng không nhỏ hơn 2 m). Để bảo đảm được chiều dày của lớp bê tông bảo vệ giữa nền đất và lồng cốt thép, lồng thép phải được định vị bởi các con kê và cả neo chữ thập đặt dưới đáy lồng thép để loại trừ khả năng lồng bị đẩy lên khi rút ống vách.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2119,
+    "line_end": 2119,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-18",
+    "anchor": "muc-8-18",
+    "title": "8.18  Đối với móng một cọc dưới cột hoặc trụ cần có giằng theo hai phương, đối với móng cọc bố trí thành một hàng cần bố trí giằng theo hướng vuông góc với hàng cọc đó. Khi thiết kế công trình chịu động đất phải bố trí giằng móng theo hai phương, thiết kế chi tiết giằng tuân thủ theo yêu cầu của TCVN 4386:2012. Trường hợp nhà có tầng hầm, do yêu cầu cấu tạo hoặc yêu cầu chịu lực phải thiết kế bản sàn tầng hầm có chiều dày lớn, có thể không cần bố trí giằng móng nữa.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2123,
+    "line_end": 2123,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-19",
+    "anchor": "muc-8-19",
+    "title": "8.19  Khi thi công móng cọc cần xét đến những yêu cầu bổ sung trong Điều 7 và Điều 9 đến Điều 14.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2127,
+    "line_end": 2127,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9",
+    "anchor": "muc-9",
+    "title": "9  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC TRONG NỀN ĐẤT LÚN SỤT (LÚN ƯỚT)",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2131,
+    "line_end": 2131,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-1",
+    "anchor": "muc-9-1",
+    "title": "9.1  Khi khảo sát địa chất công trình tại vị trí xây dựng có đất lún sụt, phải xác định loại đất với các trị số riêng và trị số tối đa khả dĩ về độ lún sụt của đất do trọng lượng bản thân (nếu có đất đắp phải tính cả trọng lượng đất đắp).",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2135,
+    "line_end": 2135,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-2",
+    "anchor": "muc-9-2",
+    "title": "9.2  Khi thiết kế móng cọc trong điều kiện đất lún sụt loại II với độ lún của đất do trọng lượng bản thân lớn hơn 30 cm, theo nguyên tắc cần phải có dự kiến dùng các biện pháp chuyển đổi đất loại II thành loại I bằng cách đào hoặc lèn đất như làm ướt đất từ trước, làm ẩm đất bằng gây nổ, đầm sâu bằng cọc đất hay những biện pháp khác. Các biện pháp kể trên phải đảm bảo khử lún tầng đất do trọng lượng bản thân của nó trong phạm vi diện tích nhà hoặc công trình sẽ chiếm dụng với khoảng cách bằng một nửa chiều dày tầng đất lún bao quanh nhà hoặc công trình.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2145,
+    "line_end": 2145,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-3",
+    "anchor": "muc-9-3",
+    "title": "9.3  Cần sử dụng móng cọc trong vùng đất lún sụt khi có khả năng đất bị ướt, trong trường hợp có thể hạ cọc xuyên qua toàn bộ tầng đất lún sụt và qua những loại đất mà các đặc trưng về cường độ và biến dạng có thể bị suy giảm do bị ẩm.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2151,
+    "line_end": 2151,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-4",
+    "anchor": "muc-9-4",
+    "title": "9.4  Trong trường hợp nếu theo kết quả khảo sát công trình đã kết luận rằng khó có thể đóng cọc vào nền đất lún sụt, thì trong đồ án thiết kế phải xem xét biện pháp khoan dẫn, trong nền đất lún loại I đường kính lỗ khoan dẫn phải nhỏ hơn kích thước mặt cắt ngang cọc (đến 50 mm), còn trong nền đất lún loại II đường kính lỗ khoan dẫn bằng hoặc nhỏ hơn (tối đa 50 mm) kích thước mặt cắt cọc. Trong trường hợp sau lỗ khoan dẫn không được vượt ra ngoài phạm vi tầng đất lún sụt.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2171,
+    "line_end": 2171,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-5",
+    "anchor": "muc-9-5",
+    "title": "9.5  Các cọc dùng trong nền đất lún loại I được tính theo chỉ dẫn ở 7.2 với các trị số về sức kháng của đất dưới mũi $q_{b}$ và trên thành cọc $f_{i}$ (xem Bảng 2, Bảng 3 và Bảng 7), hệ số tỷ lệ K (xem Phụ lục A), mô đun biến dạng $E_{0}$, góc ma sát trong , và lực dính kết c phải được xác định trong điều kiện:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2175,
+    "line_end": 2175,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-45",
+    "anchor": "formula-45",
+    "title": "$$I_{L} = \\frac{\\frac{0,9e \\gamma _{\\omega}}{\\gamma _{s}}−W_{P}}{W_{I}−W_{P}} \\qquad (45)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2181,
+    "line_end": 2181,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-6",
+    "anchor": "muc-9-6",
+    "title": "9.6  Khi có đủ khối lượng số liệu thí nghiệm hiện trường của các đặc trưng cường độ và biến dạng của đất cho công tác thống kê, sức chịu tải của cọc trong các điều kiện đất lún sụt loại I và II nên được xác định theo các số liệu này.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2200,
+    "line_end": 2200,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-7",
+    "anchor": "muc-9-7",
+    "title": "9.7  Sức chịu tải của cọc trong điều kiện đất lún loại I, có làm ẩm đất cục bộ trong phạm vi toàn bộ chiều dài cọc, xác định theo phương pháp thử tĩnh theo yêu cầu của trong 7.3.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2204,
+    "line_end": 2204,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-8",
+    "anchor": "muc-9-8",
+    "title": "9.8  Ngoài cọc đã nói trong Điều 6, có thể còn đưa vào áp dụng cọc nhồi bằng bê tông và bê tông cốt thép đúc trong lỗ khoan sẵn, đáy lỗ được đầm nén một lớp đá dăm ở độ sâu tối thiểu 3d (d là đường kính lỗ khoan), hoặc đóng mũi cọc có dạng hình nón.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2214,
+    "line_end": 2214,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-9",
+    "anchor": "muc-9-9",
+    "title": "9.9  Việc tính toán theo sức chịu tải của đất nền trong điều kiện đất lún loại II cần tuân thủ theo điều kiện:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2218,
+    "line_end": 2218,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-46",
+    "anchor": "formula-46",
+    "title": "$$N_{c,d} \\le \\frac{\\gamma _{0}R_{c,d}}{\\gamma _{n}}− \\gamma _{c}P_{n} \\qquad (46)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2222,
+    "line_end": 2222,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-10",
+    "anchor": "muc-9-10",
+    "title": "9.10  Lực ma sát âm tác dụng lên thân cọc, ký hiệu $P_{n}$ trong đất bão hòa nước và P’$_{n}$ trong đất ẩm tự nhiên, được lấy bằng giá trị lớn nhất sức kháng cực hạn của cọc có chiều dài $h_{s1}$ khi thử cọc chịu kéo trong đất bão hòa nước và đất ẩm tự nhiên tương ứng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2251,
+    "line_end": 2251,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-47",
+    "anchor": "formula-47",
+    "title": "$$P_{n} = u\\sum_{0}^{h_{s}} f_{i}l_{i} \\qquad (47)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2259,
+    "line_end": 2259,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-48",
+    "anchor": "formula-48",
+    "title": "$$= _{I} + _{1} \\qquad (48)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2274,
+    "line_end": 2274,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-49",
+    "anchor": "formula-49",
+    "title": "$$ς = \\left(\\frac{n_{max}}{n_{i}}\\right)\\left(1 + \\frac{H_{1i}}{H_{0}}\\right)^{−0.5} \\qquad (49)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2283,
+    "line_end": 2283,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-11",
+    "anchor": "muc-9-11",
+    "title": "9.11  Sức chịu tải của cọc chịu nén $R_{c,u}$ trong điều kiện đất lún sụt loại II được xác định:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2302,
+    "line_end": 2302,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-12",
+    "anchor": "muc-9-12",
+    "title": "9.12  Cần phải thử tĩnh cọc trong nền đất lún sụt loại II khi thiếu các dữ liệu nói trên.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2310,
+    "line_end": 2310,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-13",
+    "anchor": "muc-9-13",
+    "title": "9.13  Đối với những công trình đặc biệt quan trọng và khi xây dựng đồng loạt tại các vùng địa chất chưa được nghiên cứu phải thí nghiệm với điều kiện nền ẩm liên tục cho tới khi hết lún sụt và tiến hành theo đề cương được lập với điều kiện cụ thể có sự tham gia của cơ quan nghiên cứu khoa học chuyên ngành.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2314,
+    "line_end": 2314,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-14",
+    "anchor": "muc-9-14",
+    "title": "9.14  Nếu trên thân cọc có thể xuất hiện lực ma sát âm thì độ lún của móng gồm các cọc treo phải được xác định như khối móng quy ước theo 7.4.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2318,
+    "line_end": 2318,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-15",
+    "anchor": "muc-9-15",
+    "title": "9.15  Xác định độ lún lệch của móng cọc trong nền đất lún sụt để tính kết cấu của nhà và công trình phải xét đến những dự báo về biến động cấu trúc địa chất thủy văn tại công trường và những khả năng gây bất lợi nhất do hình thái và sự phân bố các nguồn gây ẩm đất liên quan tới móng cần tính toán cũng như tới toàn bộ công trình.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2324,
+    "line_end": 2324,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-16",
+    "anchor": "muc-9-16",
+    "title": "9.16  Việc sử dụng móng cọc không loại trừ được sự cần thiết phải có những biện pháp giữ nước. Trong trường hợp này, trong nền đất lún sụt loại II, phải dự kiến tách những tòa nhà bằng khe lún thành những khối hình đơn giản. Ngoài ra trong những nhà xưởng sản xuất thuộc các xí nghiệp công nghiệp có trang bị cần cẩu, phải dự kiến các biện pháp cấu tạo nhằm đảm bảo khả năng nắn đường cẩu với giá trị gấp đôi độ lún tính toán của móng cọc nhưng không nhỏ hơn một nửa độ lún của đất do trọng lượng bản thân đất gây ra. Trong những trường hợp, khi móng cọc không ngăn được biến dạng của kết cấu và nghiêng của công trình vượt quá giới hạn cho phép, thì cho phép thiết kế các biện pháp nhằm giảm độ lún lệch và độ nghiêng của công trình.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2328,
+    "line_end": 2328,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-17",
+    "anchor": "muc-9-17",
+    "title": "9.17  Khi độ lún của đất do trọng lượng bản thân gây ra lớn hơn 30 cm phải xét đến khả năng chuyển vị ngang móng cọc lấn vào phạm vi mặt cong của phễu lún.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2332,
+    "line_end": 2332,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-18",
+    "anchor": "muc-9-18",
+    "title": "9.18  Trong điều kiện đất lún loại II, khi xác định tải trọng tác dụng lên móng cọc phải xét đến lực ma sát âm phát sinh trên bề mặt thành bên của phần kết cấu ngập đất cao hơn đáy đài cọc của nhà hoặc công trình.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2336,
+    "line_end": 2336,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-19",
+    "anchor": "muc-9-19",
+    "title": "9.19  Khi dùng móng cọc tại vùng có đất lún sụt, chỉ cho phép đắp đất tạo mặt bằng cao hơn 1 m khi có căn cứ riêng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2340,
+    "line_end": 2340,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-20",
+    "anchor": "muc-9-20",
+    "title": "9.20  Khi thiết kế móng cọc trong điều kiện đất loại II, hệ số độ tin cậy quy định theo 7.1.3 không đưa vào tính toán.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2344,
+    "line_end": 2344,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10",
+    "anchor": "muc-10",
+    "title": "10  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC TRONG NỀN ĐẤT TRƯƠNG NỞ",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2348,
+    "line_end": 2348,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-1",
+    "anchor": "muc-10-1",
+    "title": "10.1  Khi thiết kế móng cọc trong nền đất trương nở cho phép cọc xuyên qua toàn bộ tầng đất trương nở (chân cọc tựa vào tầng đất không bị trương nở) hoặc xuyên qua một phần (mũi cọc trực tiếp tựa trong nền đất trương nở).",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2352,
+    "line_end": 2352,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-2",
+    "anchor": "muc-10-2",
+    "title": "10.2  Khi tính sức chịu tải của cọc, sức kháng của đất trương nở dưới mũi $q_{b}$ và trên thân cọc $f_{i}$ phải dựa vào kết quả thử tĩnh cọc trong nền đất trương nở có kết hợp làm ướt tại khu vực xây dựng hoặc ở vùng lân cận có kiến trúc đất tương tự. Khi chưa có những kết quả thí nghiệm tĩnh kể trên, sức kháng tính toán $q_{b}$ và $f_{i}$ của cọc đường kính nhỏ hơn 1 m cho phép lấy theo Bảng 2, Bảng 3 và Bảng 7 như đối với các loại đất không bị trương nở, nhưng phải nhân với hệ số điều kiện làm việc của đất $_{c}$ = 0,5 không phụ thuộc vào các hệ số ghi trong Bảng 4 và Bảng 5.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2356,
+    "line_end": 2356,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-3",
+    "anchor": "muc-10-3",
+    "title": "10.3  Khi tính toán cọc trong nền đất trương nở theo trạng thái giới hạn về biến dạng theo 7.4, cần phải tính bổ sung độ trồi của cọc do nở đất tương ứng với những yêu cầu từ 10.4 đến 10.6.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2360,
+    "line_end": 2360,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-4",
+    "anchor": "muc-10-4",
+    "title": "10.4  Đối với những cọc đóng vào những lỗ dẫn hướng được khoan sẵn, cọc nhồi không mở rộng mũi và cả cọc ống không xuyên qua hết vùng đất trương nở, độ trồi của cọc $h_{sw,p}$, được xác định theo công thức:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2364,
+    "line_end": 2364,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-50",
+    "anchor": "formula-50",
+    "title": "$$\\frac{0,0001 \\omega}{u}N_{c,d} \\qquad (50)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2368,
+    "line_end": 2368,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-17",
+    "anchor": "bang-bang-17",
+    "title": "Bảng 17 - Hệ số  trong công thức (50)",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2387,
+    "line_end": 2387,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-5",
+    "anchor": "muc-10-5",
+    "title": "10.5  Khi hạ cọc xuyên qua tầng đất trương nở xuống nền không trương nở, hiện tượng trồi móng cọc thực tế sẽ được bỏ qua khi thỏa mãn điều kiện:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2404,
+    "line_end": 2404,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-51",
+    "anchor": "formula-51",
+    "title": "$$\\frac{\\gamma _{0}R_{t,d}}{\\gamma _{n}} \\qquad (51)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2408,
+    "line_end": 2408,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-6",
+    "anchor": "muc-10-6",
+    "title": "10.6  Đối với cọc có đường kính lớn hơn 1 m hạ không xuyên qua tầng đất trương nở, độ trồi cọc phải được xác định như đối với móng trên nền thiên nhiên theo yêu cầu của TCVN 9362:2012. Khi đó độ trồi của cọc có mở rộng mũi phải được xác định với tải trọng tác dụng $F_{u}$ bằng:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2423,
+    "line_end": 2423,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-52",
+    "anchor": "formula-52",
+    "title": "$$F_{u} = N_{c,d} + _{II} Vg - F_{sw} \\qquad (52)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2427,
+    "line_end": 2427,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-7",
+    "anchor": "muc-10-7",
+    "title": "10.7  Khi thiết kế móng cọc trong đất trương nở, giữa mặt đất và mặt đáy đài cọc phải bố trí khe rộng bằng hoặc lớn hơn độ trồi tối đa của đất khi nó bị trương nở.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2440,
+    "line_end": 2440,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11",
+    "anchor": "muc-11",
+    "title": "11  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC TRONG VÙNG ĐẤT KHAI THÁC MỎ",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2448,
+    "line_end": 2448,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-1",
+    "anchor": "muc-11-1",
+    "title": "11.1  Khi thiết kế móng cọc tại vùng khai thác mỏ, cùng với các số liệu khảo sát công trình dùng cho thiết kế móng còn phải sử dụng các tài liệu khảo sát địa chất mỏ và dự báo về biến dạng khả dĩ của vỏ trái đất.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2452,
+    "line_end": 2452,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-2",
+    "anchor": "muc-11-2",
+    "title": "11.2  Móng cọc của nhà và công trình được tính theo các trạng thái giới hạn với tổ hợp tải trọng đặc biệt có xét đến các tác động do biến dạng nền khi khai thác.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2458,
+    "line_end": 2458,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-3",
+    "anchor": "muc-11-3",
+    "title": "11.3  Dựa theo vào đặc trưng liên kết đầu cọc vào đài và sự tương tác giữa móng với đất nền trong quá trình phát triển các biến dạng ngang dưới nền do khai thác, có thể phân loại các sơ đồ móng cọc như sau:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2462,
+    "line_end": 2462,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-4",
+    "anchor": "muc-11-4",
+    "title": "11.4  Khi tính toán nền và móng cọc trong vùng khai tác mỏ phải xét đến các yếu tố sau:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2470,
+    "line_end": 2470,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-5",
+    "anchor": "muc-11-5",
+    "title": "11.5  Trong vùng khai phá đất, sức chịu tải trọng nén của mỗi loại cọc được xác định theo công thức:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2480,
+    "line_end": 2480,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-53",
+    "anchor": "formula-53",
+    "title": "$$R_{cr} = _{cr} R_{c,u} \\qquad (53)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2484,
+    "line_end": 2484,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-6",
+    "anchor": "muc-11-6",
+    "title": "11.6  Tải trọng phụ thêm thẳng đứng ± N truyền lên cọc hay cọc ống của nhà và công trình có sơ đồ kết cấu cứng cần được xác định dựa vào trị số tính toán chuyển vị thẳng đứng của cọc gây ra bởi sự nghiêng lệch, uốn cong và hình thái nhấp nhô của vỏ trái đất, cũng như bởi biến dạng ngang của đất nền trong các điều kiện:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2503,
+    "line_end": 2503,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-7",
+    "anchor": "muc-11-7",
+    "title": "11.7  Tại các vùng đất khai thác, việc tính toán móng cọc phải xét đến các lực phụ thêm phát sinh trong cọc do hệ quả làm việc chịu uốn của chúng dưới ảnh hưởng cuả chuyển vị ngang của đất khi khai phá.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2513,
+    "line_end": 2513,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-8",
+    "anchor": "muc-11-8",
+    "title": "11.8  Khi khai phá đất, chuyển vị ngang tính toán của đất $u_{cr}$, tính bằng mm, được xác định theo công thức:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2517,
+    "line_end": 2517,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-54",
+    "anchor": "formula-54",
+    "title": "$$u_{cr} = _{f’} . _{c’} . e_{h} .x \\qquad (54)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2521,
+    "line_end": 2521,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-9",
+    "anchor": "muc-11-9",
+    "title": "11.9  Thiết kế móng cọc của nhà và công trình xây dựng trong vùng đất khai thác mỏ phải xuất phát từ điều kiện cọc truyền lực do kết quả biến dạng của mặt đất vào đài là nhỏ nhất.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2534,
+    "line_end": 2534,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-10",
+    "anchor": "muc-11-10",
+    "title": "11.10  Theo nguyên tắc, cần dùng móng cọc tại các vùng khai thác đất thuộc nhóm I đến nhóm IV, trong đó:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2552,
+    "line_end": 2552,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-11",
+    "anchor": "muc-11-11",
+    "title": "11.11  Tại những vùng khai phá thuộc nhóm Ik-IVk có kiến tạo nhấp nhô, cũng như khu vực địa tầng bị phá hoại chỉ được phép dùng móng cọc khi đã có đủ luận cứ riêng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2568,
+    "line_end": 2568,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-12",
+    "anchor": "muc-11-12",
+    "title": "11.12  Kết cấu nối cọc với đài phải được quy định tùy theo giá trị chuyển vị ngang của cọc, không được vượt quá trị số dưới đây khi liên kết cọc với đài (xem 11.4) là:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2572,
+    "line_end": 2572,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-13",
+    "anchor": "muc-11-13",
+    "title": "11.13  Đài cọc phải được kiểm tra chịu kéo và nén lệch tâm đồng thời chịu xoắn dưới tác dụng của các phản lực ngang đầu cọc (lực cắt và mô men uốn) phát sinh do áp lực do biến dạng ngang của đất nền trong khi khai phá.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2584,
+    "line_end": 2584,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-14",
+    "anchor": "muc-11-14",
+    "title": "11.14  Khi dùng móng cọc đài cao đúc toàn khối bê tông trên cả nhóm cọc hoặc những kết cấu cứng khác nằm trên mặt đất, phải thiết kế khe hở theo toàn bộ chu vi cọc, bề rộng khe không nhỏ hơn 8 cm trên suốt chiều dày của kết cấu cứng. Phải nhồi khe bằng các vật liệu dẻo hoặc đàn hồi để không tạo thành trụ cứng đối với mỗi cọc khi chịu tác dụng chuyển vị ngang của đất nền.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2588,
+    "line_end": 2588,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12",
+    "anchor": "muc-12",
+    "title": "12  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC TRONG VÙNG ĐỘNG ĐẤT",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2592,
+    "line_end": 2592,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-1",
+    "anchor": "muc-12-1",
+    "title": "12.1  Khi thiết kế móng cọc trọng vùng động đất ngoài những yêu cầu thuộc tiêu chuẩn này còn phải tuân theo những yêu cầu của TCVN 9386-1:2012 và TCVN 9386-2:2012, trong đó cần bổ sung vào hồ sơ khảo sát thiết kế móng cọc những tài liệu vi phân vùng địa chấn của khu vực xây dựng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2596,
+    "line_end": 2596,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-2",
+    "anchor": "muc-12-2",
+    "title": "12.2  Khi xét đến tác dụng động đất, móng cọc của nhà và công trình phải được tính với tổ hợp tải trọng đặc biệt theo trạng thái giới hạn thuộc nhóm một, khi đó phải:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2600,
+    "line_end": 2600,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-3",
+    "anchor": "muc-12-3",
+    "title": "12.3  Khi tính sức chịu tải của cọc chịu động đất $R_{c,u, eq}$ hoặc sức chịu tải trọng kéo của cọc $R_{t,u, eq}$, giá trị $q_{b}$ và $f_{i}$ theo 7.2 cần nhân với những hệ số giảm yếu điều kiện làm việc của đất nền $_{eq1}$ và $_{eq2}$ ghi trong Bảng 18, hoặc xác định chúng bằng thí nghiệm thử cọc và móng cọc chịu tác động mô phỏng động đất. Ngoài ra trong phạm vi chiều sâu tính toán $h_{d}$ (xem 12.4) lấy cường độ sức kháng của đất trên thân cọc $f_{i}$ = 0.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2614,
+    "line_end": 2614,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-4",
+    "anchor": "muc-12-4",
+    "title": "12.4  Không xét đến sức kháng của đất trên thân cọc đến độ sâu $h_{d}$, được xác định theo công thức (55), nhưng không lớn hơn 3/",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2618,
+    "line_end": 2618,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-55",
+    "anchor": "formula-55",
+    "title": "$$h_{d} = \\frac{a_{1}\\left(H +  \\alpha _{\\in}a_{3}M\\right)}{b_{p}(\\frac{a_{2}}{\\alpha _{\\in}} \\gamma _{I}tg \\varphi _{I} + c_{I})} \\qquad (55)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2622,
+    "line_end": 2622,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-5",
+    "anchor": "muc-12-5",
+    "title": "12.5  Việc xác định chiều sâu tính toán $h_{d}$, dưới tác động của tải trọng động đất, cần được tiến hành với trị số góc ma sát trong tính toán $_{I}$ giảm bớt: 2° đối với động đất cấp 7; 4° đối với động đất cấp 8 và 7° đối với động đất cấp 9.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2645,
+    "line_end": 2645,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-6",
+    "anchor": "muc-12-6",
+    "title": "12.6  Khi tính toán móng cọc của cầu phải xét đến ảnh hưởng tác dụng động đất vào điều kiện ngàm cọc trong các loại đất cát bụi bão hòa nước, đất dính có chỉ số sệt $I_{L}$ > 0,5 bằng cách giảm 30 % giá trị hệ số tỷ lệ k dùng cho chúng ghi trong Phụ lục A.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2649,
+    "line_end": 2649,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-7",
+    "anchor": "muc-12-7",
+    "title": "12.7  Sức chịu tải trọng nén $R_{c,u,eq}$ và chịu kéo của cọc $R_{t,u,eq}$ theo kết quả thử cọc tại hiện trường phải được xác định có xét đến tác dụng động đất theo công thức:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2653,
+    "line_end": 2653,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-56",
+    "anchor": "formula-56",
+    "title": "$$R_{c,u, eq} = k_{eq} . R_{c,u} \\qquad (56)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2657,
+    "line_end": 2657,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-57",
+    "anchor": "formula-57",
+    "title": "$$\\text{và } R_{t,u, eq} = k_{eq} . R_{t,u} \\qquad (57)$$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2662,
+    "line_end": 2662,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-8",
+    "anchor": "muc-12-8",
+    "title": "12.8  Việc tính toán cọc trong nền đất lún sụt và đất trương nở theo tổ hợp tải trọng đặc biệt có xét đến tác động của động đất phải được thực hiện trong điều kiện đất ẩm tự nhiên, nếu không thể làm ướt đất và trong đất bão hòa hoàn toàn có chỉ số sệt xác định theo công thức (45), nếu có thể làm ướt đất; khi đó việc xác định sức chịu tải của cọc trong nền đất lún sụt loại II không cần xét đến khả năng phát triển lực ma sát âm của đất.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2673,
+    "line_end": 2673,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-9",
+    "anchor": "muc-12-9",
+    "title": "12.9  Đối với móng cọc trong vùng động đất, cho phép áp dụng mọi loại cọc, trừ cọc không cấu tạo cốt thép ngang và cọc hình găm.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2679,
+    "line_end": 2679,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-10",
+    "anchor": "muc-12-10",
+    "title": "12.10  Khi thiết kế móng cọc trong vùng động đất mũi cọc phải tựa trên nền đá, đất hòn vụn thô, nền cát chặt và chặt vừa, đất dính với chỉ số sệt $I_{L}$ ≤ 0,5. Không cho phép mũi cọc tựa trên cát xốp bão hòa nước và đất dính với chỉ số sệt $I_{L}$ > 0,5.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2687,
+    "line_end": 2687,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-11",
+    "anchor": "muc-12-11",
+    "title": "12.11  Chiều sâu hạ cọc vào nền có động đất không được nhỏ hơn 4 m, còn khi dưới mũi cọc là đất cát bão hòa nước ở trạng thái chặt vừa thì chiều sâu hạ cọc không được nhỏ hơn 8 m. Chỉ cho phép giảm bớt chiều sâu hạ cọc khi đã có luận cứ tương ứng được lập dựa vào kết quả thử cọc tại hiện trường chịu tác dụng mô phỏng động.Đối với nhà nông nghiệp một tầng không đặt các thiết bị đáng giá và trong trường hợp mũi cọc tựa trên nền đá, chiều sâu hạ cọc vào đất lấy giống như tại vùng không bị động đất.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2691,
+    "line_end": 2691,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-12",
+    "anchor": "muc-12-12",
+    "title": "12.12  Đài cọc đỡ các tường chịu lực của tòa nhà trong phạm vi từng đơn nguyên phải liền khối và nằm trên cùng một cao độ. Đầu cọc phải được ngàm vào đài với chiều sâu tính toán có xét đến tác động của lực động đất. Đối với nhà và công trình không được phép sử dụng móng cọc không có cấu tạo đài cọc.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2695,
+    "line_end": 2695,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-18",
+    "anchor": "bang-bang-18",
+    "title": "Bảng 18 - Các hệ số điều kiện làm $_{eq1}$ và $_{eq2}$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2699,
+    "line_end": 2699,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-13",
+    "anchor": "muc-12-13",
+    "title": "12.13  Khi đã có luận chứng kinh tế kỹ thuật được phép dùng móng cọc có đệm ở giữa bằng vật liệu rời (như đá dăm, sỏi cát to và cát hạt trung). Những loại móng này không được dùng trong nền đất hữu cơ, nền đất lún sụt loại II, tại các vùng khai thác mỏ, tại khu vực mất ổn định địa tầng (có thể xẩy ra trượt, có dòng bùn đá, cas tơ…) và tại các khu vực kiến trúc đất chưa ổn định. Đối với móng cọc có đệm ở giữa được dùng mọi loại cọc như dùng chúng trong vùng không bị động đất (trừ cọc hình đinh găm).",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2718,
+    "line_end": 2718,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-14",
+    "anchor": "muc-12-14",
+    "title": "12.14  Không tính toán cọc chịu tải ngang cho trường hợp có đệm trung gian nằm trong móng. Sức chịu tải trọng nén của những cọc đó có xét đến tác động của động đất được xác định theo 12.3, ở đây sức kháng của đất dọc theo toàn bộ thân cọc phải được tính toán, có nghĩa là $h_{d}$ = 0 còn hệ số điều kiện làm việc của mũi cọc chịu tác động của động đất $_{eq1}$ = 1,2.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2722,
+    "line_end": 2722,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-15",
+    "anchor": "muc-12-15",
+    "title": "12.15  Khi tính theo biến dạng các móng cọc có đệm ở giữa, độ lún của móng được tính bằng tổng độ lún của khối móng quy ước như hướng dẫn tính trong 7.4 và độ lún của phần đệm ở giữa.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2726,
+    "line_end": 2726,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13",
+    "anchor": "muc-13",
+    "title": "13  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC TRONG VÙNG CÓ CASTƠ",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2730,
+    "line_end": 2730,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-1",
+    "anchor": "muc-13-1",
+    "title": "13.1  Móng cọc của nhà và công trình xây dựng trong vùng có castơ cần phải được thiết kế có xét đến khả năng hình thành biến dạng bề mặt - lún, sụt cũng như đặc điểm phát triển của quá trình castơ.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2734,
+    "line_end": 2734,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-2",
+    "anchor": "muc-13-2",
+    "title": "13.2  Các thông số dự báo của biến dạng castơ và biểu hiện bề mặt xác định bằng tính toán trên cơ sở phân tích các điều kiện địa chất công trình và địa chất thủy văn và khả năng biến đổi của chúng suốt thời gian sử dụng công trình với sự tham gia của các tổ chức chuyên ngành.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2738,
+    "line_end": 2738,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-3",
+    "anchor": "muc-13-3",
+    "title": "13.3  Khối lượng khảo sát địa chất công trình trong vùng có castơ cần được quy định phù hợp với các yêu cầu trong TCVN 9362:2012 và TCVN 9402:2012 trên cơ sở đánh giá sơ bộ theo số liệu lưu trữ mức độ nguy hiểm của castơ. Cần dự kiến thực hiện ít nhất hai hố khoan khảo sát đất castơ đến độ sâu quy định phụ thuộc vào mức độ castơ hóa, điều kiện địa chất công trình và địa chất tủy văn, nhưng không ít hơn 5 m.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2742,
+    "line_end": 2742,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-4",
+    "anchor": "muc-13-4",
+    "title": "13.4  Khi khảo sát cần thu thập được các thông tin về biểu hiện bề mặt của quá trình castơ hóa (sụt, lún mặt đất) ở cả thời điểm khảo sát và ở số liệu trong hồ sơ lưu trữ cũng như thông tin thu thập được trong quá trình khoan các hang động, đất lấp trong các hang tại khu vực xây dựng và phân loại mức độ nguy hiểm của chúng.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2746,
+    "line_end": 2746,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-5",
+    "anchor": "muc-13-5",
+    "title": "13.5  Cần mô tả các dạng và biểu hiện của castơ trong kết quả khảo sát địa chất công trình, xác lập mức độ nguy hiểm của hoạt động castơ đến công trình xây dựng mới hoặc xây dựng cải tạo lại và dự báo sự phát triển của castơ trong thời gian xây dựng và sử dụng công trình trong tương lai.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2750,
+    "line_end": 2750,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-6",
+    "anchor": "muc-13-6",
+    "title": "13.6  Trong vùng castơ, chỉ được sử dụng cọc treo khi cần phải xuyên qua lớp đất phía trên của nền gồm đất lấp, đất chứa hữu cơ và các loại đất yếu khác. Trong trường hợp này cần dùng đài cọc dạng tấm, hoặc dầm giao nhau để liên kết các cọc lại với nhau. Phải lưu ý vị trí mối nối cọc và đài, cần dự phòng khả năng cọc bị tuột khỏi đài để loại trừ khả năng nền và kết cấu công trình phụ thuộc vào liên kết nằm trên vị trí các phễu lún bị chịu tải thêm.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2754,
+    "line_end": 2754,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-7",
+    "anchor": "muc-13-7",
+    "title": "13.7  Khi lớp đất phủ castơ không dày, có thể dùng cọc xuyên qua lớp đất này. Trong trường hợp này khi tính toán cọc và đài toàn khối cần phải kể đến nội lực bất lợi phụ thêm xuất hiện trên mặt bên của cọc do chuyển dịch của đất trên tầng castơ.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2758,
+    "line_end": 2758,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-8",
+    "anchor": "muc-13-8",
+    "title": "13.8  Thông số chính trong tính toán thiết kế móng cọc trong vùng vùng sụt lún castơ là đường kính của phễu lún. Việc xác định nó được thực hiện theo số liệu các đặc trưng cơ - lý của đất và tải trọng truyền từ công trình xuống nền.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2762,
+    "line_end": 2762,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-9",
+    "anchor": "muc-13-9",
+    "title": "13.9  Khi xác định vị trí khả dĩ của các phễu lún castơ dưới công trình, chấp thuận điều kiện ảnh hưởng bất lợi nhất đến sự làm việc của công trình. Trong đó phải có các trường hợp phễu lún nằm dưới các lột, dưới vị trí giao cắt các tường, dưới các góc nhà, giữa cạnh ngắn và cạnh dài của công trình.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2766,
+    "line_end": 2766,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-10",
+    "anchor": "muc-13-10",
+    "title": "13.10  Khi tính toán biến dạng castơ dưới dạng lún bề mặt, cho phép dùng phương pháp tính toán như công trình nằm trong vùng khai thác mỏ theo Điều 11, có kể đến sự phát triển của biến dạng castơ.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2770,
+    "line_end": 2770,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-11",
+    "anchor": "muc-13-11",
+    "title": "13.11  Việc tính toán móng cọc trong vùng có castơ cần tuân theo Điều 7. Khi tồn tại ở khu vực xây dựng các loại đất có tính chất đặc biệt (đất lún sụt, đất trương nở …) phải tuân theo Điều 9 và Điều 10, còn trong vùng có động đất thì theo Điều 12.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2774,
+    "line_end": 2774,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-12",
+    "anchor": "muc-13-12",
+    "title": "13.12  Khi thiết kế công trình trong vùng castơ cần phải dự kiến công tác quan trắc địa kỹ thuật trong quá trình xây dựng, còn trong những trường hợp cần thiết, cả trong quá trình sử dụng công trình.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2778,
+    "line_end": 2778,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14",
+    "anchor": "muc-14",
+    "title": "14  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC CHO TRỤ ĐƯỜNG TẢI ĐIỆN TRÊN KHÔNG",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2782,
+    "line_end": 2782,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-1",
+    "anchor": "muc-14-1",
+    "title": "14.1  Đối với móng cọc cho trụ đường tải điện trên không (LEP) và trạm phân phối điện (ORU) cho phép dùng các loại cọc khác nhau (Điều 6), trừ cọc hình đinh găm, cọc hình tháp và hình thoi.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2786,
+    "line_end": 2786,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-2",
+    "anchor": "muc-14-2",
+    "title": "14.2  Chiều sâu hạ cọc chịu kéo hoặc tải trọng ngang vào đất tối thiểu 4,0 m.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2790,
+    "line_end": 2790,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-3",
+    "anchor": "muc-14-3",
+    "title": "14.3  Sức chịu tải trọng nén của cọc treo đóng, đóng nhồi và cọc khoan nhồi chịu nén được xác định tương ứng theo các công thức (10) và (12) có xét đến những chỉ dẫn trong 14.5 và 14.6, trong đó hệ số điều kiện làm việc $\\gamma_c$ trong công thức (10) và (12) được lấy như sau:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2794,
+    "line_end": 2794,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-4",
+    "anchor": "muc-14-4",
+    "title": "14.4  Sức chịu tải trọng kéo của các cọc đóng và cọc đóng (ép) nhồi được xác định theo công thức (11) và công thức (15) có xét đến những chỉ dẫn từ 14.5 đến 14.7, trong đó hệ số điều kiện làm việc $_{c}$ trong những công thức (11) và (15) được lấy như sau:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2802,
+    "line_end": 2802,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-5",
+    "anchor": "muc-14-5",
+    "title": "14.5  Đối với những cọc đóng làm móng trụ đường tải điện trên không, cường độ sức kháng của đất dưới mũi $q_{p}$ và trên thân cọc $f_{i}$ được lấy theo Bảng 2 và Bảng 3, trong đó đối với móng của các trụ thông thường đặt trong đất dính với chỉ số sệt $I_{L}$ ≥ 0,3 trị số sức kháng tính toán fi được tăng lên 25 %.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2816,
+    "line_end": 2816,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-6",
+    "anchor": "muc-14-6",
+    "title": "14.6  Cường độ sức kháng của đất trên thân cọc đóng fi tính theo chỉ dẫn 14.5 được nhân với hệ số điều kiên làm việc $_{c}$ bổ sung ghi trong Bảng 19.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2820,
+    "line_end": 2820,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-19",
+    "anchor": "bang-bang-19",
+    "title": "Bảng 19 - Hệ số bổ sung điều kiện làm việc $_{c}$",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2824,
+    "line_end": 2824,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-7",
+    "anchor": "muc-14-7",
+    "title": "14.7  Khi tính toán cọc chịu kéo trong nhóm ít hơn hoặc bằng 4 cọc, sức chịu tải tính toán của cọc phải giảm bớt 20 %.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2841,
+    "line_end": 2841,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-8",
+    "anchor": "muc-14-8",
+    "title": "14.8  Đối với những cọc chịu kéo, cho phép hạ chúng trong các lỗ khoan dẫn, ở đây chênh lệch giữa kích thước tiết diện ngang của cọc và đường kính lỗ khoan dẫn không được nhỏ hơn 0,15 m.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2845,
+    "line_end": 2845,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15",
+    "anchor": "muc-15",
+    "title": "15  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC NHÀ ÍT TẦNG",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2849,
+    "line_end": 2849,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15-1",
+    "anchor": "muc-15-1",
+    "title": "15.1  Đặc điểm thiết kế móng cọc cho các loại nhà ít tầng là: nhà ở ít tầng, nhà tập thể và nhà sản xuất nông nghiệp.",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2853,
+    "line_end": 2853,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15-2",
+    "anchor": "muc-15-2",
+    "title": "15.2  Đề xuất dùng các loại cọc sau:",
+    "source_file": "tcvn_10304_2014.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2857,
+    "line_end": 2857,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (Tham khảo) — Tính toán cọc chịu tác dụng đồng thời lực thẳng đứng, lực ngang và mômen",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-1",
+    "anchor": "muc-a-1",
+    "title": "A.1  Khi tính cọc độc lập chịu tác dụng đồng thời lực đứng, lực ngang và mômen uốn theo sơ đồ trên Hình A.1 phải phân biệt hai giai đoạn về trạng thái ứng suất và biến dạng của hệ “cọc - nền”.",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-a_1",
+    "anchor": "hinh-a_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 10,
+    "line_end": 10,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-2",
+    "anchor": "muc-a-2",
+    "title": "A.2  Cho phép dùng các chương trình máy tính mô tả tác dụng cơ học tương hỗ giữa dầm và nền (dầm trên nền đàn hồi). Trong đó, đất bao quanh cọc được xem như môi trường đàn hồi biến dạng tuyến tính đặc trưng bằng hệ số nền $C_{Z}$, tính bằng kN/$m^{3}$, tăng dần theo chiều sâu.",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 21,
+    "line_end": 21,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-a_1",
+    "anchor": "formula-a_1",
+    "title": "$$C_{Z} = \\frac{k.Z}{\\gamma _{c}} \\qquad (A.1)$$",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 27,
+    "line_end": 27,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-3",
+    "anchor": "muc-a-3",
+    "title": "A.3  Việc tính toán cọc dưới tác dụng đồng thời của lực thẳng đứng, lực ngang và mô men bao gồm:",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 40,
+    "line_end": 40,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-a_2",
+    "anchor": "formula-a_2",
+    "title": "$$u_{p} \\le u_{u} \\qquad (A.2)$$",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 48,
+    "line_end": 48,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-a_3",
+    "anchor": "formula-a_3",
+    "title": "$$Ψ_{p} \\le Ψ_{u} \\qquad (A.3)$$",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 53,
+    "line_end": 53,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-4",
+    "anchor": "muc-a-4",
+    "title": "A.4  Việc tính toán cường độ của các loại cọc cần theo công thức (1) của tiêu chuẩn này với việc dùng hệ số biến dạng  , tính bằng 1/m, xác định theo công thức:",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 68,
+    "line_end": 68,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-a_4",
+    "anchor": "formula-a_4",
+    "title": "$$\\alpha _{\\epsilon} = 5\\frac{kb_{p}}{\\gamma _{c}EI} \\qquad (A.4)$$",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 72,
+    "line_end": 72,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-5",
+    "anchor": "muc-a-5",
+    "title": "A.5  Khi tính cọc trong nhóm bằng phương pháp tĩnh học, phải xét đến sự tương tác giữa các cọc. Trong trường hợp này việc tính toán được thực hiện như đối với cọc đơn nhưng hệ số tỷ lệ k phải nhân với hệ số chiết giảm $_{i}$ , xác định theo công thức:",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 91,
+    "line_end": 91,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-a_5",
+    "anchor": "formula-a_5",
+    "title": "$$\\alpha _{i} =  \\gamma _{c} \\Pi _{i \\ne j}\\left[1−\\frac{d}{r_{ij}}1,17 + 0,36\\frac{x_{i}−x_{j}}{r_{ij}}−0,15\\left(\\frac{x_{j}−x_{i}}{r_{ij}}\\right)^{2}\\{\\}\\right] \\qquad (A.5)$$",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 95,
+    "line_end": 95,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-a_6",
+    "anchor": "formula-a_6",
+    "title": "$$r_{ij} = \\left(x_{i}−x_{j}\\right)^{2 + \\left(y_{i}−y_{j}\\right)}^{2} \\qquad (A.6)$$",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 110,
+    "line_end": 110,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-6",
+    "anchor": "muc-a-6",
+    "title": "A.6  Để xác định phản lực ở đầu các cọc, được nối với nhau bằng đài chung, cần thực hiện các phép tính đặc thù, trong đó các cọc được mô hình hóa như dầm tương tác với nền đàn hồi, còn các đầu cọc được nối với nhau bằng các phần tử mô hình hóa kết cấu móng.",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 121,
+    "line_end": 121,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-7",
+    "anchor": "muc-a-7",
+    "title": "A.7  Tính toán ổn định nền đất bao quanh cọc cần được tiến hành theo điều kiện hạn chế áp lực tính toán $_{z}$ truyền qua thân cọc lên đất:",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 125,
+    "line_end": 125,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-a_7",
+    "anchor": "formula-a_7",
+    "title": "$$s_{z} \\le  \\eta _{1} \\eta _{2}\\frac{4}{cos \\varphi _{l}}\\left(\\gamma _{l}z.tg \\varphi _{l} +  \\xi c_{l}\\right) \\qquad (A.7)$$",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 129,
+    "line_end": 129,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-a_8",
+    "anchor": "formula-a_8",
+    "title": "$$\\eta _{2} = \\frac{M_{c} + M_{t}}{nM_{c} + M_{t}} \\qquad (A.8)$$",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 148,
+    "line_end": 148,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-a",
+    "anchor": "bang-bang-a",
+    "title": "Bảng A - Hệ số tỷ lệ k theo công thức (A.1)",
+    "source_file": "annexes/phu_luc_a_tinh_toan_coc_chiu_tac_dung_dong_thoi_luc_tha.md",
+    "jurisdiction": "CQXD",
+    "line_start": 165,
+    "line_end": 165,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B (Tham khảo) — Phương pháp xác định độ lún của móng cọc theo kinh nghiệm",
+    "source_file": "annexes/phu_luc_b_phuong_phap_xac_dinh_do_lun_cua_mong_coc_theo.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-b_1",
+    "anchor": "formula-b_1",
+    "title": "$$s = \\frac{D}{100} + \\frac{QL}{AE} \\qquad (B.1)$$",
+    "source_file": "annexes/phu_luc_b_phuong_phap_xac_dinh_do_lun_cua_mong_coc_theo.md",
+    "jurisdiction": "CQXD",
+    "line_start": 8,
+    "line_end": 8,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-b_2",
+    "anchor": "formula-b_2",
+    "title": "$$s_{g} = B_{g}/D \\times s \\qquad (B.2)$$",
+    "source_file": "annexes/phu_luc_b_phuong_phap_xac_dinh_do_lun_cua_mong_coc_theo.md",
+    "jurisdiction": "CQXD",
+    "line_start": 27,
+    "line_end": 27,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-c",
+    "anchor": "phu-luc-c",
+    "title": "PHỤ LỤC C (Tham khảo) — Một số mô hình móng khối quy ước",
+    "source_file": "annexes/phu_luc_c_mot_so_mo_hinh_mong_khoi_quy_uoc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-1",
+    "anchor": "muc-c-1",
+    "title": "C.1  Mô hình móng khối quy ước trong trường hợp nền đồng nhất (Hình C.1a)",
+    "source_file": "annexes/phu_luc_c_mot_so_mo_hinh_mong_khoi_quy_uoc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 8,
+    "line_end": 8,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-2",
+    "anchor": "muc-c-2",
+    "title": "C.2  Mô hình móng khối quy ước trong trường hợp nền không đồng nhất (Hình C.1b)",
+    "source_file": "annexes/phu_luc_c_mot_so_mo_hinh_mong_khoi_quy_uoc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 20,
+    "line_end": 20,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-c",
+    "anchor": "bang-bang-phu-luc-c",
+    "title": "Bảng Phụ lục C",
+    "source_file": "annexes/phu_luc_c_mot_so_mo_hinh_mong_khoi_quy_uoc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 36,
+    "line_end": 36,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_1",
+    "anchor": "hinh-c_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_mot_so_mo_hinh_mong_khoi_quy_uoc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 43,
+    "line_end": 43,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-d",
+    "anchor": "phu-luc-d",
+    "title": "PHỤ LỤC D (Tham khảo) — Xác định khối lượng khảo sát địa chất công trình để thiết kế móng cọc",
+    "source_file": "annexes/phu_luc_d_xac_dinh_khoi_luong_khao_sat_dia_chat_cong_tr.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-d-1",
+    "anchor": "muc-d-1",
+    "title": "D.1  Để xác định khối lượng khảo sát cho móng cọc người ta phân biệt ba loại mức độ phức tạp của điều kiện đất nền, phụ thuộc vào tính đồng nhất, thế nằm và tính chất của đất.",
+    "source_file": "annexes/phu_luc_d_xac_dinh_khoi_luong_khao_sat_dia_chat_cong_tr.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-d-2",
+    "anchor": "muc-d-2",
+    "title": "D.2  Việc đánh giá mức độ phức tạp của điều kiện nền đất khu vực xây dựng được thực hiện trên cơ sở tư liệu địa chất công trình.",
+    "source_file": "annexes/phu_luc_d_xac_dinh_khoi_luong_khao_sat_dia_chat_cong_tr.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 16,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-d-3",
+    "anchor": "muc-d-3",
+    "title": "D.3  Việc xác định loại và khối lượng khảo sát cho móng cọc, phụ thuộc vào tầm quan trọng của công trình và mức độ phức tạp của điều kiện nền đất. Kiến nghị chung về khối lượng khảo sát cho trong Bảng D.1. Không phải lúc nào cũng cần đủ các chủng loại khảo sát như đã cho trong bảng này, khối lượng khảo sát cụ thể do Tư vấn thiết kế đề xuất trên cơ sở đảm bảo cung cấp đầy đủ dữ liệu cần thiết để thiết kế móng cọc.",
+    "source_file": "annexes/phu_luc_d_xac_dinh_khoi_luong_khao_sat_dia_chat_cong_tr.md",
+    "jurisdiction": "CQXD",
+    "line_start": 20,
+    "line_end": 20,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-d-1",
+    "anchor": "bang-bang-d-1",
+    "title": "Bảng D.1 - Khối lượng khảo sát cho các loại nhà và công trình (tham khảo)",
+    "source_file": "annexes/phu_luc_d_xac_dinh_khoi_luong_khao_sat_dia_chat_cong_tr.md",
+    "jurisdiction": "CQXD",
+    "line_start": 24,
+    "line_end": 24,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e",
+    "anchor": "phu-luc-e",
+    "title": "PHỤ LỤC E (Tham khảo) — Biến dạng giới hạn của nền móng công trình",
+    "source_file": "annexes/phu_luc_e_bien_dang_gioi_han_cua_nen_mong_cong_trinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-e",
+    "anchor": "bang-bang-phu-luc-e",
+    "title": "Bảng Phụ lục E",
+    "source_file": "annexes/phu_luc_e_bien_dang_gioi_han_cua_nen_mong_cong_trinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 8,
+    "line_end": 8,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-f",
+    "anchor": "phu-luc-f",
+    "title": "PHỤ LỤC F (Tham khảo) — Tầm quan trọng của nhà và công trình",
+    "source_file": "annexes/phu_luc_f_tam_quan_trong_cua_nha_va_cong_trinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g",
+    "anchor": "phu-luc-g",
+    "title": "PHỤ LỤC G (Tham khảo) — Các phương pháp khác xác định sức chịu tải của cọc",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-1",
+    "anchor": "muc-g-1",
+    "title": "G.1  Công thức chung xác định sức chịu tải của cọc: các phương pháp cho trong phụ lục này dựa trên các cơ sở và phương pháp luận khác nhau, dùng để xác định sức chịu tải cực hạn của cọc theo đất $R_{c,u}$ . Khi tính toán theo trạng thái giới hạn với các hệ số riêng cần tuân theo điều 7.2 của tiêu chuẩn này. Lưu ý rằng, phương pháp tính toán sức chịu tải nào của cọc cũng đều mang tính dự báo, cần có thí nghiệm thử tải tĩnh để kiểm chứng giá trị $R_{c,u}$. Việc tính toán xử lý kết quả thí nghiệm thử tải tĩnh tuân theo chỉ dẫn 7.3.3. của Tiêu chuẩn này.",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_1",
+    "anchor": "formula-g_1",
+    "title": "$$R_{c,u} = q_{b} A_{b} + u f_{i} l_{i} \\qquad (G.1)$$",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 12,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-2",
+    "anchor": "muc-g-2",
+    "title": "G.2  Xác định sức chịu tải của cọc theo các chỉ tiêu cường độ của đất nền",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 31,
+    "line_end": 31,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-2-1",
+    "anchor": "muc-g-2-1",
+    "title": "G.2.1  Sức chịu tải cực hạn của cọc theo đất xác định theo công thức G.1. Cường độ sức kháng của đất dưới mũi cọc được xác định theo công thức:",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 35,
+    "line_end": 35,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_3",
+    "anchor": "formula-g_3",
+    "title": "$$q_{b} = c_{u} N’ _{c} \\qquad (G.3)$$",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 49,
+    "line_end": 49,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_4",
+    "anchor": "formula-g_4",
+    "title": "$$q_{b} = q’ _{,p} N’ _{q} A_{b} , \\qquad (G.4)$$",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 58,
+    "line_end": 58,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-2-2",
+    "anchor": "muc-g-2-2",
+    "title": "G.2.2  Cường độ sức kháng trung bình trên thân cọc $f_{i}$ có thể xác định như sau:",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 67,
+    "line_end": 67,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_5",
+    "anchor": "formula-g_5",
+    "title": "$$f_{i} = c_{u,i} \\qquad (G.5)$$",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 73,
+    "line_end": 73,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-g_1",
+    "anchor": "hinh-g_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 89,
+    "line_end": 89,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_6",
+    "anchor": "formula-g_6",
+    "title": "$$\\sigma _{v,z} \\qquad (G.6)$$",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 102,
+    "line_end": 102,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-g-1",
+    "anchor": "bang-bang-g-1",
+    "title": "Bảng G.1 - Giá trị các hệ số k, $Z_{L}$ và N’$_{q}$ cho cọc trong đất cát",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 121,
+    "line_end": 121,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-3",
+    "anchor": "muc-g-3",
+    "title": "G.3  Xác định sức chịu tải của cọc theo kết quả thí nghiệm xuyên tiêu chuẩn SPT",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 133,
+    "line_end": 133,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-3-1",
+    "anchor": "muc-g-3-1",
+    "title": "G.3.1  Công thức của Meyerhof:",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 137,
+    "line_end": 137,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_8",
+    "anchor": "formula-g_8",
+    "title": "$$fi = k_{2} N_{s,i} (G.8) \\qquad (G.8)$$",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 147,
+    "line_end": 147,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-3-2",
+    "anchor": "muc-g-3-2",
+    "title": "G.3.2  Công thức của Viện kiến trúc Nhật Bản (1988)",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 168,
+    "line_end": 168,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_9",
+    "anchor": "formula-g_9",
+    "title": "$$u\\sum \\left(f_{c,i}1_{c,i} + f_{s,i}1_{s,i}\\right) \\qquad (G.9)$$",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 174,
+    "line_end": 174,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_10",
+    "anchor": "formula-g_10",
+    "title": "$$f_{s,i} = \\frac{10N_{s,i}}{3} \\qquad (G.10)$$",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 189,
+    "line_end": 189,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-g",
+    "anchor": "bang-bang-phu-luc-g",
+    "title": "Bảng Phụ lục G",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 235,
+    "line_end": 235,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-g_2",
+    "anchor": "hinh-g_2",
+    "title": "",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 242,
+    "line_end": 242,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-g-4",
+    "anchor": "muc-g-4",
+    "title": "G.4  Xác định sức chịu tải của cọc theo sức kháng mũi xuyên tĩnh $q_{c}$",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 253,
+    "line_end": 253,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_12",
+    "anchor": "formula-g_12",
+    "title": "$$u\\sum f_{i}l_{i} \\qquad (G.12)$$",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 259,
+    "line_end": 259,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_13",
+    "anchor": "formula-g_13",
+    "title": "$$q_{b} = k q_{c} \\qquad (G.13)$$",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 268,
+    "line_end": 268,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-g_14",
+    "anchor": "formula-g_14",
+    "title": "$$f_{i} = \\frac{q_{c,i}}{\\alpha _{i}} \\qquad (G.14)$$",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 281,
+    "line_end": 281,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-g2",
+    "anchor": "bang-bang-g2",
+    "title": "Bảng G2 - Hệ số Kc và",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 290,
+    "line_end": 290,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-1",
+    "anchor": "phu-luc-g-muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 377,
+    "line_end": 377,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-2",
+    "anchor": "phu-luc-g-muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 381,
+    "line_end": 381,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-3",
+    "anchor": "phu-luc-g-muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 385,
+    "line_end": 385,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-4",
+    "anchor": "phu-luc-g-muc-4",
+    "title": "4  NGUYÊN TẮC CHUNG",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 389,
+    "line_end": 389,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-5",
+    "anchor": "phu-luc-g-muc-5",
+    "title": "5  YÊU CẦU VỀ KHẢO SÁT ĐỊA CHẤT CÔNG TRÌNH",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 393,
+    "line_end": 393,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-6",
+    "anchor": "phu-luc-g-muc-6",
+    "title": "6  PHÂN LOẠI CỌC",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 397,
+    "line_end": 397,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-7",
+    "anchor": "phu-luc-g-muc-7",
+    "title": "7  THIẾT KẾ MÓNG CỌC",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 401,
+    "line_end": 401,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-8",
+    "anchor": "phu-luc-g-muc-8",
+    "title": "8  YÊU CẦU VỀ CẤU TẠO MÓNG CỌC",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 429,
+    "line_end": 429,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-9",
+    "anchor": "phu-luc-g-muc-9",
+    "title": "9  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC TRONG NỀN ĐẤT LÚN SỤT",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 433,
+    "line_end": 433,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-10",
+    "anchor": "phu-luc-g-muc-10",
+    "title": "10  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC TRONG NỀN ĐẤT TRƯƠNG NỞ",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 437,
+    "line_end": 437,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-11",
+    "anchor": "phu-luc-g-muc-11",
+    "title": "11  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC TRONG VÙNG ĐẤT KHAI THÁC MỎ",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 441,
+    "line_end": 441,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-12",
+    "anchor": "phu-luc-g-muc-12",
+    "title": "12  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC TRONG VÙNG CÓ ĐỘNG ĐẤT",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 445,
+    "line_end": 445,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-13",
+    "anchor": "phu-luc-g-muc-13",
+    "title": "13  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC TRONG VÙNG CÓ HANG ĐỘNG CAS TƠ",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 449,
+    "line_end": 449,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-14",
+    "anchor": "phu-luc-g-muc-14",
+    "title": "14  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC CHO ĐƯỜNG DÂY TẢI ĐIỆN TRÊN KHÔNG",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 453,
+    "line_end": 453,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-g-muc-15",
+    "anchor": "phu-luc-g-muc-15",
+    "title": "15  ĐẶC ĐIỂM THIẾT KẾ MÓNG CỌC CỦA NHÀ ÍT TẦNG",
+    "source_file": "annexes/phu_luc_g_cac_phuong_phap_khac_xac_dinh_suc_chiu_tai_cu.md",
+    "jurisdiction": "CQXD",
+    "line_start": 457,
+    "line_end": 457,
+    "cong_bao_number": "TCVN"
+  }
+]

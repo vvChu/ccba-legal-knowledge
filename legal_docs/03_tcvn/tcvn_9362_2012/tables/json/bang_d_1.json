@@ -1,0 +1,89 @@
+{
+  "table_id": "bang_d_1",
+  "table_number": "D.1",
+  "table_title": "Bảng D.1 - Áp lực tính toán quy ước $R_{o}$ trên đất hòn lớn và đất cát",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại đất",
+    "$R_{o}$, kPa",
+    "$R_{o}$, kPa"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đất": "Đất hòn lớn",
+      "$R_{o}$, kPa": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại đất": "&nbsp;&nbsp;\\- Đất cuội (dăm) lẫn cát",
+      "$R_{o}$, kPa": "600"
+    },
+    {
+      "_row_id": 3,
+      "Loại đất": "&nbsp;&nbsp;\\- Đất sỏi (sạn) từ những mảnh vụn",
+      "$R_{o}$, kPa": ""
+    },
+    {
+      "_row_id": 4,
+      "Loại đất": "Đá kết tinh",
+      "$R_{o}$, kPa": "500"
+    },
+    {
+      "_row_id": 5,
+      "Loại đất": "Đá trầm tích",
+      "$R_{o}$, kPa": "300"
+    },
+    {
+      "_row_id": 6,
+      "Loại đất": "Đất cát",
+      "$R_{o}$, kPa": "Chặt vừa"
+    },
+    {
+      "_row_id": 7,
+      "Loại đất": "&nbsp;&nbsp;\\- Cát thô, không phụ thuộc độ ẩm",
+      "$R_{o}$, kPa": "500"
+    },
+    {
+      "_row_id": 8,
+      "Loại đất": "&nbsp;&nbsp;\\- Cát thô vừa, không phụ thuộc độ ẩm",
+      "$R_{o}$, kPa": "400"
+    },
+    {
+      "_row_id": 9,
+      "Loại đất": "&nbsp;&nbsp;\\- Cát mịn:",
+      "$R_{o}$, kPa": ""
+    },
+    {
+      "_row_id": 10,
+      "Loại đất": "■ ít ẩm",
+      "$R_{o}$, kPa": "300"
+    },
+    {
+      "_row_id": 11,
+      "Loại đất": "■ Ẩm và no nước",
+      "$R_{o}$, kPa": "200"
+    },
+    {
+      "_row_id": 12,
+      "Loại đất": "&nbsp;&nbsp;\\- Cát bụi:",
+      "$R_{o}$, kPa": ""
+    },
+    {
+      "_row_id": 13,
+      "Loại đất": "■ ít ẩm",
+      "$R_{o}$, kPa": "250"
+    },
+    {
+      "_row_id": 14,
+      "Loại đất": "■ Ẩm",
+      "$R_{o}$, kPa": "150"
+    },
+    {
+      "_row_id": 15,
+      "Loại đất": "■ No nước",
+      "$R_{o}$, kPa": "100"
+    }
+  ],
+  "footnotes": []
+}

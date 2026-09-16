@@ -1,0 +1,544 @@
+{
+  "table_id": "bang_e_1",
+  "table_number": "E.1",
+  "table_title": "Bảng E.1 - Tiêu chuẩn lưu lượng không khí ngoài cấp cho các phòng điều hòa không khí tiện nghi theo yêu cầu vệ sinh môi trường",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên phòng",
+    "Diện tích 1), $m^{2}$/người",
+    "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)",
+    "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên phòng": "**1. Khách sạn, nhà nghỉ**",
+      "Diện tích 1), $m^{2}$/người": "",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 2,
+      "Tên phòng": "Phòng ngủ",
+      "Diện tích 1), $m^{2}$/người": "10",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "35",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": "Không phụ thuộc diện tích phòng"
+    },
+    {
+      "_row_id": 3,
+      "Tên phòng": "Phòng khách",
+      "Diện tích 1), $m^{2}$/người": "5",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "35",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 4,
+      "Tên phòng": "Hành lang",
+      "Diện tích 1), $m^{2}$/người": "3",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 5,
+      "Tên phòng": "Phòng hội thảo",
+      "Diện tích 1), $m^{2}$/người": "2",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "30",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 6,
+      "Tên phòng": "Hội trường",
+      "Diện tích 1), $m^{2}$/người": "1",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 7,
+      "Tên phòng": "Phòng làm việc",
+      "Diện tích 1), $m^{2}$/người": "12 ÷ 14",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "30",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 8,
+      "Tên phòng": "Sảnh đón tiếp",
+      "Diện tích 1), $m^{2}$/người": "1,5",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 9,
+      "Tên phòng": "Phòng ngủ tập thể",
+      "Diện tích 1), $m^{2}$/người": "5",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 10,
+      "Tên phòng": "Phòng tắm",
+      "Diện tích 1), $m^{2}$/người": "-",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "-",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "40",
+      "Ghi chú": "Dùng khi cần, không thường xuyên"
+    },
+    {
+      "_row_id": 11,
+      "Tên phòng": "2. Cửa hàng giặt khô",
+      "Diện tích 1), $m^{2}$/người": "3",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "40",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 12,
+      "Tên phòng": "3. Nhà hàng ăn uống",
+      "Diện tích 1), $m^{2}$/người": "",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 13,
+      "Tên phòng": "Phòng ăn",
+      "Diện tích 1), $m^{2}$/người": "1,4",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "30",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 14,
+      "Tên phòng": "Phòng cà phê, thức ăn nhanh",
+      "Diện tích 1), $m^{2}$/người": "1",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "30",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 15,
+      "Tên phòng": "Quầy ba, cốc-tai",
+      "Diện tích 1), $m^{2}$/người": "1",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "35",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": "Cần lắp đặt thêm hệ thống hút khói."
+    },
+    {
+      "_row_id": 16,
+      "Tên phòng": "Nhà bếp (nấu nướng)",
+      "Diện tích 1), $m^{2}$/người": "5",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": "Phải có hệ thống hút mùi. Tổng lượng không khí ngoài và gió thâm nhập từ các phòng kề bên phải đủ đảm bảo lưu lượng hút thải không dưới 27 $m^{3}$/(h·$m^{2}$)"
+    },
+    {
+      "_row_id": 17,
+      "Tên phòng": "**4. Nhà hát, rạp chiếu bóng**",
+      "Diện tích 1), $m^{2}$/người": "",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 18,
+      "Tên phòng": "Phòng khán giả",
+      "Diện tích 1), $m^{2}$/người": "0,7",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": "Cần có thông gió đặc biệt để loại bỏ các ảnh hưởng của quá trình dàn dựng, ví dụ như lửa khói, sương mù, v.v."
+    },
+    {
+      "_row_id": 19,
+      "Tên phòng": "Hành lang",
+      "Diện tích 1), $m^{2}$/người": "0,7",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "20",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 20,
+      "Tên phòng": "Studio",
+      "Diện tích 1), $m^{2}$/người": "1,5",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 21,
+      "Tên phòng": "Phòng bán vé",
+      "Diện tích 1), $m^{2}$/người": "1,6",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "30",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 22,
+      "Tên phòng": "**5. Cơ sở đào tạo, trường học**",
+      "Diện tích 1), $m^{2}$/người": "",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 23,
+      "Tên phòng": "Phòng học",
+      "Diện tích 1), $m^{2}$/người": "2",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 24,
+      "Tên phòng": "Phòng thí nghiệm (PTN)",
+      "Diện tích 1), $m^{2}$/người": "3,3",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "35",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": "Xem thêm quy định tại tài liệu của phòng thử nghiệm"
+    },
+    {
+      "_row_id": 25,
+      "Tên phòng": "Phòng hội thảo, tập huấn",
+      "Diện tích 1), $m^{2}$/người": "3,3",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "30",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 26,
+      "Tên phòng": "Thư viện",
+      "Diện tích 1), $m^{2}$/người": "5",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 27,
+      "Tên phòng": "Hội trường",
+      "Diện tích 1), $m^{2}$/người": "0,7",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 28,
+      "Tên phòng": "Phòng học nhạc, học hát",
+      "Diện tích 1), $m^{2}$/người": "2",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 29,
+      "Tên phòng": "Hành lang",
+      "Diện tích 1), $m^{2}$/người": "-",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "-",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "2",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 30,
+      "Tên phòng": "Phòng kho",
+      "Diện tích 1), $m^{2}$/người": "-",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "-",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "9",
+      "Ghi chú": "Chỉ hoạt động khi cần"
+    },
+    {
+      "_row_id": 31,
+      "Tên phòng": "**6. Bệnh viện, trạm xá, nhà an dưỡng**",
+      "Diện tích 1), $m^{2}$/người": "",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 32,
+      "Tên phòng": "Phòng bệnh nhân",
+      "Diện tích 1), $m^{2}$/người": "10",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "40",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 33,
+      "Tên phòng": "Phòng khám bệnh",
+      "Diện tích 1), $m^{2}$/người": "5",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 34,
+      "Tên phòng": "Phòng phẫu thuật",
+      "Diện tích 1), $m^{2}$/người": "5",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "50",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 35,
+      "Tên phòng": "Phòng khám nghiệm tử thi",
+      "Diện tích 1), $m^{2}$/người": "-",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "-",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "9",
+      "Ghi chú": "Không được lấy không khí tuần hoàn từ đây cấp vào các phòng khác"
+    },
+    {
+      "_row_id": 36,
+      "Tên phòng": "Phòng vật lý trị liệu",
+      "Diện tích 1), $m^{2}$/người": "5",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 37,
+      "Tên phòng": "Phòng ăn",
+      "Diện tích 1), $m^{2}$/người": "1",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 38,
+      "Tên phòng": "Phòng bảo vệ",
+      "Diện tích 1), $m^{2}$/người": "2,5",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 39,
+      "Tên phòng": "**7. Nhà thi đấu thể dục thể thao và giải trí**",
+      "Diện tích 1), $m^{2}$/người": "",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 40,
+      "Tên phòng": "Khán đài thi đấu",
+      "Diện tích 1), $m^{2}$/người": "0,7",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 41,
+      "Tên phòng": "Phòng thi đấu",
+      "Diện tích 1), $m^{2}$/người": "1,4",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "35",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 42,
+      "Tên phòng": "Sân trượt băng trong nhà",
+      "Diện tích 1), $m^{2}$/người": "-",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "-",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "9",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 43,
+      "Tên phòng": "Bể bơi trong nhà có khán giả",
+      "Diện tích 1), $m^{2}$/người": "-",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "-",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "9",
+      "Ghi chú": "Có thể đòi hỏi lưu lượng không khí lớn hơn để khống chế độ ẩm"
+    },
+    {
+      "_row_id": 44,
+      "Tên phòng": "Sàn khiêu vũ",
+      "Diện tích 1), $m^{2}$/người": "1",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "40",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 45,
+      "Tên phòng": "Phòng bowling",
+      "Diện tích 1), $m^{2}$/người": "1,4",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "40",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 46,
+      "Tên phòng": "**8. Các không gian công cộng**",
+      "Diện tích 1), $m^{2}$/người": "",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 47,
+      "Tên phòng": "Hành lang và phòng chứa đồ gia dụng",
+      "Diện tích 1), $m^{2}$/người": "-",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "-",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "1",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 48,
+      "Tên phòng": "Dãy cửa hiệu buôn bán",
+      "Diện tích 1), $m^{2}$/người": "5",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "-",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "4",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 49,
+      "Tên phòng": "Cửa hàng",
+      "Diện tích 1), $m^{2}$/người": "20",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "-",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "1",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 50,
+      "Tên phòng": "Phòng nghỉ",
+      "Diện tích 1), $m^{2}$/người": "1,5",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 51,
+      "Tên phòng": "Phòng hút thuốc",
+      "Diện tích 1), $m^{2}$/người": "1,5",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "30",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": "Phải hút thải khí, không tuần hoàn khí thải"
+    },
+    {
+      "_row_id": 52,
+      "Tên phòng": "**9. Các loại cửa hàng đặc biệt**",
+      "Diện tích 1), $m^{2}$/người": "",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 53,
+      "Tên phòng": "Cửa hàng cắt tóc",
+      "Diện tích 1), $m^{2}$/người": "4",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 54,
+      "Tên phòng": "Cửa hàng chăm sóc sắc đẹp",
+      "Diện tích 1), $m^{2}$/người": "4",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "40",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 55,
+      "Tên phòng": "Cửa hàng quần áo, đồ gỗ",
+      "Diện tích 1), $m^{2}$/người": "-",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "-",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "5",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 56,
+      "Tên phòng": "Cửa hàng bán hoa",
+      "Diện tích 1), $m^{2}$/người": "12",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 57,
+      "Tên phòng": "Siêu thị",
+      "Diện tích 1), $m^{2}$/người": "12",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 58,
+      "Tên phòng": "Sân ga (trong nhà)",
+      "Diện tích 1), $m^{2}$/người": "1",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 59,
+      "Tên phòng": "**10. Nhà hành chính, công sở**",
+      "Diện tích 1), $m^{2}$/người": "",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 60,
+      "Tên phòng": "Phòng làm việc",
+      "Diện tích 1), $m^{2}$/người": "8 ÷ 10",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 61,
+      "Tên phòng": "Phòng hội thảo, phòng hội đồng, phòng họp Ban Giám đốc",
+      "Diện tích 1), $m^{2}$/người": "1",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "30",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 62,
+      "Tên phòng": "Phòng chờ",
+      "Diện tích 1), $m^{2}$/người": "2",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "25",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 63,
+      "Tên phòng": "**11. Nhà ở**",
+      "Diện tích 1), $m^{2}$/người": "",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 64,
+      "Tên phòng": "Phòng ngủ",
+      "Diện tích 1), $m^{2}$/người": "8 ÷ 10",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "35",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 65,
+      "Tên phòng": "Phòng khách",
+      "Diện tích 1), $m^{2}$/người": "8 ÷ 10",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "30",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "-",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 66,
+      "Tên phòng": "**1) Diện tích này là diện tích thực tế dành cho vị trí chiếm chỗ của người trong phòng.**",
+      "Diện tích 1), $m^{2}$/người": "",
+      "Lượng không khí ngoài yêu cầu — $m^{3}$/(h·người)": "",
+      "Lượng không khí ngoài yêu cầu — ($m^{3}$/h·$m^{2}$)": "",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}

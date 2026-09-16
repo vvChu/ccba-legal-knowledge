@@ -1,0 +1,1362 @@
+[
+  {
+    "clause_id": "formula-1",
+    "anchor": "formula-1",
+    "title": "$$\\dots \\qquad (1)$$",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 120,
+    "line_end": 120,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-2",
+    "anchor": "formula-2",
+    "title": "$$\\dots \\qquad (2)$$",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 142,
+    "line_end": 142,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-3",
+    "anchor": "formula-3",
+    "title": "$$\\dots \\qquad (3)$$",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 164,
+    "line_end": 164,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-01",
+    "anchor": "bang-bang-01",
+    "title": "Bảng 1 - Vật liệu, cấu tạo và tiết diện tối thiểu của kim thu sét, dây dẫn sét, dây xuống và thanh chôn dưới đất.",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 218,
+    "line_end": 218,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-02",
+    "anchor": "bang-bang-02",
+    "title": "Bảng 2 - Vật liệu, cấu tạo và kích thước tối thiểu của cực nối đất",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 266,
+    "line_end": 266,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-03",
+    "anchor": "bang-bang-03",
+    "title": "Bảng 3 - Độ dày tối thiểu của tấm kim loại sử dụng để lợp mái nhà và tạo thành một phần của hệ thống chống sét",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 308,
+    "line_end": 308,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-4",
+    "anchor": "formula-4",
+    "title": "$$\\dots \\qquad (4)$$",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 370,
+    "line_end": 370,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-5",
+    "anchor": "formula-5",
+    "title": "$$\\dots \\qquad (5)$$",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 379,
+    "line_end": 379,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-04",
+    "anchor": "bang-bang-04",
+    "title": "Bảng 4 - Mối quan hệ giữa số ngày có sét đánh trong 1 năm và số lần sét đánh trên 1 $km^{2}$/năm",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 384,
+    "line_end": 384,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-1",
+    "anchor": "hinh-1",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 418,
+    "line_end": 418,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-2",
+    "anchor": "hinh-2",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 429,
+    "line_end": 429,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-05",
+    "anchor": "bang-bang-05",
+    "title": "Bảng 5 - Bảng tra giá trị hệ số A (theo dạng công trình)",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 440,
+    "line_end": 440,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-06",
+    "anchor": "bang-bang-06",
+    "title": "Bảng 6 - Bảng tra giá trị hệ số B (theo dạng kết cấu công trình)",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 453,
+    "line_end": 453,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-07",
+    "anchor": "bang-bang-07",
+    "title": "Bảng 7 - Bảng tra giá trị hệ số C (theo công năng sử dụng)",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 469,
+    "line_end": 469,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-08",
+    "anchor": "bang-bang-08",
+    "title": "Bảng 8 - Bảng tra giá trị hệ số D (theo mức độ cách ly)",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 483,
+    "line_end": 483,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-09",
+    "anchor": "bang-bang-09",
+    "title": "Bảng 9 - Bảng tra giá trị hệ số E (theo dạng địa hình)",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 493,
+    "line_end": 493,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-3",
+    "anchor": "hinh-3",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 567,
+    "line_end": 567,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-4",
+    "anchor": "hinh-4",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 580,
+    "line_end": 580,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-5",
+    "anchor": "hinh-5",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 598,
+    "line_end": 598,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-6",
+    "anchor": "hinh-6",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 677,
+    "line_end": 677,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-7",
+    "anchor": "hinh-7",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 688,
+    "line_end": 688,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-8",
+    "anchor": "hinh-8",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 701,
+    "line_end": 701,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-9",
+    "anchor": "hinh-9",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 712,
+    "line_end": 712,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-10",
+    "anchor": "hinh-10",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 727,
+    "line_end": 727,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-11",
+    "anchor": "hinh-11",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 744,
+    "line_end": 744,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-12",
+    "anchor": "hinh-12",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 767,
+    "line_end": 767,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-13",
+    "anchor": "hinh-13",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 798,
+    "line_end": 798,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-14",
+    "anchor": "hinh-14",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 817,
+    "line_end": 817,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-15",
+    "anchor": "hinh-15",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 830,
+    "line_end": 830,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-16",
+    "anchor": "hinh-16",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 860,
+    "line_end": 860,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-6",
+    "anchor": "formula-6",
+    "title": "$$\\dots \\qquad (6)$$",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 941,
+    "line_end": 941,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-17",
+    "anchor": "hinh-17",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 954,
+    "line_end": 954,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-18",
+    "anchor": "hinh-18",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 975,
+    "line_end": 975,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-19",
+    "anchor": "hinh-19",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 992,
+    "line_end": 992,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-20",
+    "anchor": "hinh-20",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1029,
+    "line_end": 1029,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-21",
+    "anchor": "hinh-21",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1102,
+    "line_end": 1102,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-22",
+    "anchor": "hinh-22",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1201,
+    "line_end": 1201,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-23",
+    "anchor": "hinh-23",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1212,
+    "line_end": 1212,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-24",
+    "anchor": "hinh-24",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1226,
+    "line_end": 1226,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-25",
+    "anchor": "hinh-25",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1245,
+    "line_end": 1245,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-26",
+    "anchor": "hinh-26",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1256,
+    "line_end": 1256,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-7",
+    "anchor": "formula-7",
+    "title": "$$\\frac{S}{r} \\qquad (7)$$",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1277,
+    "line_end": 1277,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-8",
+    "anchor": "formula-8",
+    "title": "$$\\dots \\qquad (8)$$",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1288,
+    "line_end": 1288,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-9",
+    "anchor": "formula-9",
+    "title": "$$\\dots \\qquad (9)$$",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1299,
+    "line_end": 1299,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-27",
+    "anchor": "hinh-27",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1356,
+    "line_end": 1356,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-16-1",
+    "anchor": "muc-16-1",
+    "title": "16.1  Các kết cấu không dẫn điện",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1377,
+    "line_end": 1377,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-28",
+    "anchor": "hinh-28",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1387,
+    "line_end": 1387,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-29",
+    "anchor": "hinh-29",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1427,
+    "line_end": 1427,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-30",
+    "anchor": "hinh-30",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1515,
+    "line_end": 1515,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-31",
+    "anchor": "hinh-31",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1536,
+    "line_end": 1536,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-32",
+    "anchor": "hinh-32",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1561,
+    "line_end": 1561,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-33",
+    "anchor": "hinh-33",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1611,
+    "line_end": 1611,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-34",
+    "anchor": "hinh-34",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1756,
+    "line_end": 1756,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-35",
+    "anchor": "hinh-35",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1769,
+    "line_end": 1769,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-36",
+    "anchor": "hinh-36",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1830,
+    "line_end": 1830,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-37",
+    "anchor": "hinh-37",
+    "title": "",
+    "source_file": "tcvn_9385_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1841,
+    "line_end": 1841,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (Tham khảo) — Các khía cạnh kỹ thuật của hiện tượng sét",
+    "source_file": "annexes/phu_luc_a_cac_khia_canh_ky_thuat_cua_hien_tuong_set.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-a_1",
+    "anchor": "formula-a_1",
+    "title": "$$\\dots \\qquad (A.1)$$",
+    "source_file": "annexes/phu_luc_a_cac_khia_canh_ky_thuat_cua_hien_tuong_set.md",
+    "jurisdiction": "CQXD",
+    "line_start": 26,
+    "line_end": 26,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-a_2",
+    "anchor": "formula-a_2",
+    "title": "$$\\left(\\frac{di}{dt}\\right) \\qquad (A.2)$$",
+    "source_file": "annexes/phu_luc_a_cac_khia_canh_ky_thuat_cua_hien_tuong_set.md",
+    "jurisdiction": "CQXD",
+    "line_start": 31,
+    "line_end": 31,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-a-1",
+    "anchor": "bang-bang-a-1",
+    "title": "Bảng A.1 - Khoảng cách các trụ đỡ hệ thống dẫn sét.",
+    "source_file": "annexes/phu_luc_a_cac_khia_canh_ky_thuat_cua_hien_tuong_set.md",
+    "jurisdiction": "CQXD",
+    "line_start": 60,
+    "line_end": 60,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-a_1",
+    "anchor": "hinh-a_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_a_cac_khia_canh_ky_thuat_cua_hien_tuong_set.md",
+    "jurisdiction": "CQXD",
+    "line_start": 83,
+    "line_end": 83,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B (Tham khảo) — Giải thích một số điều khoản của tiêu chuẩn",
+    "source_file": "annexes/phu_luc_b_giai_thich_mot_so_dieu_khoan_cua_tieu_chuan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-b-1",
+    "anchor": "bang-bang-b-1",
+    "title": "Bảng B.1 - Quan hệ đường kính và trọng lượng của cọc nối đất",
+    "source_file": "annexes/phu_luc_b_giai_thich_mot_so_dieu_khoan_cua_tieu_chuan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 42,
+    "line_end": 42,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-b_1",
+    "anchor": "formula-b_1",
+    "title": "$$\\dots \\qquad (B.1)$$",
+    "source_file": "annexes/phu_luc_b_giai_thich_mot_so_dieu_khoan_cua_tieu_chuan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 79,
+    "line_end": 79,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-b-muc-5",
+    "anchor": "phu-luc-b-muc-5",
+    "title": "5  $M^{3}$ BÊ TÔNG CỐT THÉP TRONG ĐẤT 100 M THÌ ĐIỆN TRỞ NỐI ĐẤT XẤP XỈ 10 .",
+    "source_file": "annexes/phu_luc_b_giai_thich_mot_so_dieu_khoan_cua_tieu_chuan.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 94,
+    "line_end": 94,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-b",
+    "anchor": "bang-bang-b",
+    "title": "Bảng B - 1 chỉ ra rằng trọng lượng của cọc 1,2 m, đường kính 25 mm thì nặng hơn cọc 1,2 m đường kính 13 mm tới 4 lần.",
+    "source_file": "annexes/phu_luc_b_giai_thich_mot_so_dieu_khoan_cua_tieu_chuan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 178,
+    "line_end": 178,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-b_1",
+    "anchor": "hinh-b_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_b_giai_thich_mot_so_dieu_khoan_cua_tieu_chuan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 185,
+    "line_end": 185,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-c",
+    "anchor": "phu-luc-c",
+    "title": "PHỤ LỤC C (Tham khảo) — Hướng dẫn chung chống sét cho thiết bị điện trong và trên công trình",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_1",
+    "anchor": "hinh-c_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 44,
+    "line_end": 44,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_2",
+    "anchor": "hinh-c_2",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 77,
+    "line_end": 77,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_3",
+    "anchor": "hinh-c_3",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 88,
+    "line_end": 88,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_4",
+    "anchor": "hinh-c_4",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 102,
+    "line_end": 102,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-1",
+    "anchor": "bang-bang-c-1",
+    "title": "Bảng C.1 - Diện tích thu sét hữu dụng của các đường nguồn cấp",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 215,
+    "line_end": 215,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-2",
+    "anchor": "bang-bang-c-2",
+    "title": "Bảng C.2 - Diện tích thu sét hữu dụng của các đường dữ liệu",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 240,
+    "line_end": 240,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-c_1",
+    "anchor": "formula-c_1",
+    "title": "$$\\dots \\qquad (C.1)$$",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 264,
+    "line_end": 264,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-3",
+    "anchor": "bang-bang-c-3",
+    "title": "Bảng C.3 - Hệ số hiệu chỉnh F (hệ số công trình)",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 287,
+    "line_end": 287,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-4",
+    "anchor": "bang-bang-c-4",
+    "title": "Bảng C.4 - Hệ số hiệu chỉnh G (hệ số mức độ cách ly)",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 297,
+    "line_end": 297,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-5",
+    "anchor": "bang-bang-c-5",
+    "title": "Bảng C.5 - Hệ số hiệu chỉnh H (hệ số địa hình)",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 309,
+    "line_end": 309,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-c_2",
+    "anchor": "formula-c_2",
+    "title": "$$\\dots \\qquad (C.2)$$",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 330,
+    "line_end": 330,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-6",
+    "anchor": "bang-bang-c-6",
+    "title": "Bảng C.6 - Phân loại công trình và vật chứa",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 341,
+    "line_end": 341,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-7",
+    "anchor": "bang-bang-c-7",
+    "title": "Bảng C.7 - Phân loại mức độ phơi trần",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 354,
+    "line_end": 354,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_5",
+    "anchor": "hinh-c_5",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 631,
+    "line_end": 631,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_6",
+    "anchor": "hinh-c_6",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 656,
+    "line_end": 656,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_7",
+    "anchor": "hinh-c_7",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 673,
+    "line_end": 673,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_8",
+    "anchor": "hinh-c_8",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 718,
+    "line_end": 718,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_9",
+    "anchor": "hinh-c_9",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 731,
+    "line_end": 731,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_10",
+    "anchor": "hinh-c_10",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 752,
+    "line_end": 752,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-8",
+    "anchor": "bang-bang-c-8",
+    "title": "Bảng C.8 - Chỉ số cực đại của tốc độ tăng di/dt",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 777,
+    "line_end": 777,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_11",
+    "anchor": "hinh-c_11",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 797,
+    "line_end": 797,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_12",
+    "anchor": "hinh-c_12",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 808,
+    "line_end": 808,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_13",
+    "anchor": "hinh-c_13",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 819,
+    "line_end": 819,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_14",
+    "anchor": "hinh-c_14",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 830,
+    "line_end": 830,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_15",
+    "anchor": "hinh-c_15",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 841,
+    "line_end": 841,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_16",
+    "anchor": "hinh-c_16",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 854,
+    "line_end": 854,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_17",
+    "anchor": "hinh-c_17",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 889,
+    "line_end": 889,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-9",
+    "anchor": "bang-bang-c-9",
+    "title": "Bảng C.9 - Loại vị trí B (trục)",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1115,
+    "line_end": 1115,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-10",
+    "anchor": "bang-bang-c-10",
+    "title": "Bảng C.10 - Loại vị trí C (trục)",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1125,
+    "line_end": 1125,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-11",
+    "anchor": "bang-bang-c-11",
+    "title": "Bảng C.11 - Loại vị trí C (đường dữ liệu)",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1145,
+    "line_end": 1145,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-12",
+    "anchor": "bang-bang-c-12",
+    "title": "Bảng C.12 - Định nghĩa thông số xoay chiều 1,2/50 s",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1221,
+    "line_end": 1221,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_18",
+    "anchor": "hinh-c_18",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1254,
+    "line_end": 1254,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_19",
+    "anchor": "hinh-c_19",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1265,
+    "line_end": 1265,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_20",
+    "anchor": "hinh-c_20",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_huong_dan_chung_chong_set_cho_thiet_bi_dien_t.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1276,
+    "line_end": 1276,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-d",
+    "anchor": "phu-luc-d",
+    "title": "PHỤ LỤC D (Tham khảo) — Một số ví dụ tính toán",
+    "source_file": "annexes/phu_luc_d_mot_so_vi_du_tinh_toan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-d_1",
+    "anchor": "hinh-d_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_d_mot_so_vi_du_tinh_toan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 64,
+    "line_end": 64,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e",
+    "anchor": "phu-luc-e",
+    "title": "PHỤ LỤC E (Tham khảo) — Hướng dẫn sử dụng bản đồ mật độ sét trên lãnh thổ Việt Nam",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-e-1",
+    "anchor": "bang-bang-e-1",
+    "title": "Bảng E.1 - Mật độ sét trên lãnh thổ Việt Nam",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 23,
+    "line_end": 23,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-1",
+    "anchor": "phu-luc-e-muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 109,
+    "line_end": 109,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-2",
+    "anchor": "phu-luc-e-muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 113,
+    "line_end": 113,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-3",
+    "anchor": "phu-luc-e-muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 117,
+    "line_end": 117,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-4",
+    "anchor": "phu-luc-e-muc-4",
+    "title": "4  QUY ĐỊNH CHUNG",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 121,
+    "line_end": 121,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-5",
+    "anchor": "phu-luc-e-muc-5",
+    "title": "5  CHỨC NĂNG CỦA HỆ THỐNG CHỐNG SÉT",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 125,
+    "line_end": 125,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-6",
+    "anchor": "phu-luc-e-muc-6",
+    "title": "6  VẬT LIỆU VÀ KÍCH THƯỚC",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 129,
+    "line_end": 129,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-7",
+    "anchor": "phu-luc-e-muc-7",
+    "title": "7  SỰ CẦN THIẾT CỦA VIỆC PHÒNG CHỐNG SÉT",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 133,
+    "line_end": 133,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-8",
+    "anchor": "phu-luc-e-muc-8",
+    "title": "8  VÙNG BẢO VỆ",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 137,
+    "line_end": 137,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-9",
+    "anchor": "phu-luc-e-muc-9",
+    "title": "9  CÁC LƯU Ý KHI THIẾT KẾ HỆ THỐNG CHỐNG SÉT",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 141,
+    "line_end": 141,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-10",
+    "anchor": "phu-luc-e-muc-10",
+    "title": "10  CÁC BỘ PHẬN CƠ BẢN CỦA HỆ THỐNG CHỐNG SÉT",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 145,
+    "line_end": 145,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-11",
+    "anchor": "phu-luc-e-muc-11",
+    "title": "11  BỘ PHẬN THU SÉT",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 149,
+    "line_end": 149,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-12",
+    "anchor": "phu-luc-e-muc-12",
+    "title": "12  DÂY XUỐNG",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 153,
+    "line_end": 153,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-13",
+    "anchor": "phu-luc-e-muc-13",
+    "title": "13  MẠNG NỐI ĐẤT",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 157,
+    "line_end": 157,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-14",
+    "anchor": "phu-luc-e-muc-14",
+    "title": "14  CỰC NỐI ĐẤT",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 161,
+    "line_end": 161,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-15",
+    "anchor": "phu-luc-e-muc-15",
+    "title": "15  KIM LOẠI Ở TRONG HOẶC TRÊN CÔNG TRÌNH",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 165,
+    "line_end": 165,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-16",
+    "anchor": "phu-luc-e-muc-16",
+    "title": "16  KẾT CẤU CAO TRÊN 20 M",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 169,
+    "line_end": 169,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-17",
+    "anchor": "phu-luc-e-muc-17",
+    "title": "17  CÔNG TRÌNH CÓ MÁI CHE RẤT DỄ CHÁY",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 173,
+    "line_end": 173,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-18",
+    "anchor": "phu-luc-e-muc-18",
+    "title": "18  NHÀ CHỨA CÁC VẬT CÓ KHẢ NĂNG GÂY NỔ HOẶC RẤT DỄ CHÁY",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 177,
+    "line_end": 177,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-19",
+    "anchor": "phu-luc-e-muc-19",
+    "title": "19  NHÀ Ở",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 181,
+    "line_end": 181,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-20",
+    "anchor": "phu-luc-e-muc-20",
+    "title": "20  HÀNG RÀO",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 185,
+    "line_end": 185,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-21",
+    "anchor": "phu-luc-e-muc-21",
+    "title": "21  CÂY VÀ CÁC KẾT CẤU GẦN CÂY",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 189,
+    "line_end": 189,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-22",
+    "anchor": "phu-luc-e-muc-22",
+    "title": "22  CÁC CÔNG TRÌNH CÓ ĂNG TEN VÔ TUYẾN TRUYỀN THANH VÀ TRUYỀN HÌNH",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 193,
+    "line_end": 193,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-23",
+    "anchor": "phu-luc-e-muc-23",
+    "title": "23  CÁC CÔNG TRÌNH KHÁC",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 197,
+    "line_end": 197,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-24",
+    "anchor": "phu-luc-e-muc-24",
+    "title": "24  SỰ ĂN MÒN",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 201,
+    "line_end": 201,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-25",
+    "anchor": "phu-luc-e-muc-25",
+    "title": "25  LẮP DỰNG KẾT CẤU",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 205,
+    "line_end": 205,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-26",
+    "anchor": "phu-luc-e-muc-26",
+    "title": "26  DÂY ĐIỆN TRÊN CAO",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 209,
+    "line_end": 209,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-27",
+    "anchor": "phu-luc-e-muc-27",
+    "title": "27  KIỂM TRA",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 213,
+    "line_end": 213,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-28",
+    "anchor": "phu-luc-e-muc-28",
+    "title": "28  ĐO ĐẠC",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 217,
+    "line_end": 217,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-29",
+    "anchor": "phu-luc-e-muc-29",
+    "title": "29  LƯU TRỮ HỒ SƠ",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 221,
+    "line_end": 221,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-30",
+    "anchor": "phu-luc-e-muc-30",
+    "title": "30  BẢO TRÌ",
+    "source_file": "annexes/phu_luc_e_huong_dan_su_dung_ban_do_mat_do_set_tren_lanh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 225,
+    "line_end": 225,
+    "cong_bao_number": "TCVN"
+  }
+]

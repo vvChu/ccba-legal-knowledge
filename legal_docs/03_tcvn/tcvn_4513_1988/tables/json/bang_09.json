@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_09",
+  "table_number": "9",
+  "table_title": "Bảng 9",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tiêu chuẩn dùng nước của một người l/ngày",
+    "100",
+    "125",
+    "150",
+    "200",
+    "250",
+    "300",
+    "350",
+    "400"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tiêu chuẩn dùng nước của một người l/ngày": "Trị số a",
+      "100": "2,2",
+      "125": "2,16",
+      "150": "2,15",
+      "200": "2,14",
+      "250": "2,05",
+      "300": "2,00",
+      "350": "1,90",
+      "400": "1,85"
+    }
+  ],
+  "footnotes": []
+}

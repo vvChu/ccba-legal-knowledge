@@ -1,0 +1,20 @@
+{
+  "table_id": "bang_04",
+  "table_number": "4",
+  "table_title": "Bảng 4",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Đường kính ống (mm)",
+    "Chiều dài lớn nhất của ống xả (m)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đường kính ống (mm)": "50 và 75\n100 và lớn hơn 100",
+      "Chiều dài lớn nhất của ống xả (m)": "6\n8"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Khi chiều dài đường ống xả vượt quá quy định ở bảng 4 cần đặt thêm giếng thăm."
+  }
+}

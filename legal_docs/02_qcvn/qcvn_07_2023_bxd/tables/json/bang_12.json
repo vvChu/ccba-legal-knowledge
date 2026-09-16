@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_12",
+  "table_number": "12",
+  "table_title": "Bảng 12 - Yêu cầu độ rọi mặt ngang trung bình và tối thiểu của ga tàu điện",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Đặc điểm vỏ bao che nhà ga",
+    "Ban ngày — $E_{n,tb}$, lx",
+    "Ban ngày — $E_{n,min}$, lx",
+    "Ban đêm — $E_{n,tb}$, lx",
+    "Ban đêm — $E_{n,min}$, lx"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đặc điểm vỏ bao che nhà ga": "1. Mở lấy ánh sáng ban ngày",
+      "Ban ngày — $E_{n,tb}$, lx": "-",
+      "Ban ngày — $E_{n,min}$, lx": "-",
+      "Ban đêm — $E_{n,tb}$, lx": "50",
+      "Ban đêm — $E_{n,min}$, lx": "30"
+    },
+    {
+      "_row_id": 2,
+      "Đặc điểm vỏ bao che nhà ga": "2. Đóng kín",
+      "Ban ngày — $E_{n,tb}$, lx": "200",
+      "Ban ngày — $E_{n,min}$, lx": "100",
+      "Ban đêm — $E_{n,tb}$, lx": "100",
+      "Ban đêm — $E_{n,min}$, lx": "50"
+    }
+  ],
+  "footnotes": []
+}

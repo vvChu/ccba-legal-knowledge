@@ -1,0 +1,122 @@
+{
+  "table_id": "bang_15",
+  "table_number": "15",
+  "table_title": "Bảng 15 - Hệ số $c_{1}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "ρ",
+    "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,50",
+    "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,60",
+    "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,67",
+    "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,80",
+    "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,00",
+    "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,20",
+    "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,40",
+    "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,60",
+    "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,80",
+    "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — ≥ 2,00"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "ρ": "0,10",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,50": "56,7",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,60": "46,6",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,67": "41,8",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,80": "34,9",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,00": "28,5",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,20": "24,5",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,40": "21,7",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,60": "19,5",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,80": "17,7",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — ≥ 2,00": "16,2"
+    },
+    {
+      "_row_id": 2,
+      "ρ": "0,15",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,50": "38,9",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,60": "31,3",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,67": "27,9",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,80": "23,0",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,00": "18,6",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,20": "16,2",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,40": "14,6",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,60": "13,6",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,80": "12,7",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — ≥ 2,00": "12,0"
+    },
+    {
+      "_row_id": 3,
+      "ρ": "0,20",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,50": "33,9",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,60": "26,7",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,67": "23,5",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,80": "19,2",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,00": "15,4",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,20": "13,3",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,40": "12,1",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,60": "11,3",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,80": "10,7",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — ≥ 2,00": "10,2"
+    },
+    {
+      "_row_id": 4,
+      "ρ": "0,25",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,50": "30,6",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,60": "24,9",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,67": "20,3",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,80": "16,2",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,00": "12,9",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,20": "11,1",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,40": "10,0",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,60": "9,4",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,80": "9,0",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — ≥ 2,00": "8,7"
+    },
+    {
+      "_row_id": 5,
+      "ρ": "0,30",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,50": "28,9",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,60": "21,6",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,67": "18,5",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,80": "14,5",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,00": "11,3",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,20": "9,6",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,40": "8,7",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,60": "8,1",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,80": "7,8",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — ≥ 2,00": "7,6"
+    },
+    {
+      "_row_id": 6,
+      "ρ": "0,35",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,50": "28,0",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,60": "20,6",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,67": "17,4",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,80": "13,4",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,00": "10,2",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,20": "8,6",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,40": "7,7",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,60": "7,2",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,80": "6,9",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — ≥ 2,00": "6,7"
+    },
+    {
+      "_row_id": 7,
+      "ρ": "0,40",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,50": "27,4",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,60": "20,0",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,67": "16,8",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 0,80": "12,7",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,00": "9,5",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,20": "7,9",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,40": "7,0",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,60": "6,6",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — 1,80": "6,3",
+      "Giá trị $c_{1}$ khi a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) bằng — ≥ 2,00": "6,1"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Với các giá trị trung gian của ρ và a/$h_{ef}$ (hoặc $a_{1}$/$h_{ef}$) thì giá trị $c_{1}$ được xác định bằng nội suy tuyến tính."
+  }
+}

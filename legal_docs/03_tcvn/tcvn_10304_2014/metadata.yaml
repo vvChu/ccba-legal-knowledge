@@ -1,0 +1,30 @@
+id: tcvn_10304_2014
+document_number: TCVN 10304:2014
+title: TCVN 10304:2014 Móng cọc - Tiêu chuẩn thiết kế
+type: Tiêu chuẩn quốc gia
+issued_by: Bộ Khoa học và Công nghệ
+signer: ''
+issued_date: '2014-12-29'
+effective_date: '2014-12-29'
+status: active
+pdf_path: legal_docs/03_tcvn/tcvn_10304_2014/sources/tcvn_10304_2014.pdf
+pdf_sha256: 6aa781e27949748eb06ea62962c5bd4c7f3f8e8e73d35dda02c5457e5b21c31e
+pdf_status: verified
+cong_bao_number: TCVN
+legal_basis: []
+replaces:
+- TCXD 205:1998
+bundle_path: legal_docs/03_tcvn/tcvn_10304_2014/
+source_assets:
+  pdf:
+    sha256: 6aa781e27949748eb06ea62962c5bd4c7f3f8e8e73d35dda02c5457e5b21c31e
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_10304_2014/tcvn_10304_2014.pdf
+    status: verified
+  docx:
+    sha256: e93bbb4b82732aefcc1ee5b6f7cfca56401486da440daa408b04595613820a75
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_10304_2014/tcvn_10304_2014.docx
+    status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-14T15:04:26.851353+00:00'

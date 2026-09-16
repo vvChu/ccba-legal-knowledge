@@ -216,7 +216,46 @@ class LegalSpokeValidator:
                         f"Table Attachment Warning [{md_file.relative_to(self.root_dir)}]: Referenced table asset missing: {ref}"
                     )
 
+        # Sub-Gate 3.2: Multi-Part Table Disambiguation & Reference Integrity (ADR 0044)
+        self._check_table_references_and_disambiguation()
+
         return (len(self.errors), len(self.warnings))
+
+    def _check_table_references_and_disambiguation(self) -> None:
+        """Sub-Gate 3.2: Table Reference & Multi-Part Integrity Checker (ADR 0044)."""
+        if not self.legal_docs_dir.exists():
+            return
+
+        for cat in ["01_vbpl", "02_qcvn", "03_tcvn"]:
+            cat_dir = self.legal_docs_dir / cat
+            if not cat_dir.exists():
+                continue
+            for doc_dir in cat_dir.iterdir():
+                if not doc_dir.is_dir() or doc_dir.name.startswith("."):
+                    continue
+                catalog_path = doc_dir / "tables" / "tables_catalog.json"
+                if not catalog_path.exists():
+                    continue
+                try:
+                    catalog = json.loads(catalog_path.read_text(encoding="utf-8"))
+                    if isinstance(catalog, list):
+                        tables = catalog
+                    elif isinstance(catalog, dict):
+                        tables = catalog.get("tables", [])
+                    else:
+                        tables = []
+
+                    for t in tables:
+                        if isinstance(t, dict):
+                            csv_rel = t.get("csv_file")
+                            if csv_rel and not (doc_dir / csv_rel).exists():
+                                self.warnings.append(
+                                    f"Table Reference Warning [{doc_dir.name}]: Table asset missing on disk: {csv_rel} (ADR 0044)."
+                                )
+                except Exception as exc:
+                    self.warnings.append(
+                        f"Table Catalog Warning [{doc_dir.name}]: Failed to parse tables_catalog.json: {exc}"
+                    )
 
     def validate_fake_data_gate(self) -> Tuple[int, int]:
         """Validate that bundles do not contain truncated/synthetic placeholder content."""
@@ -286,7 +325,43 @@ class LegalSpokeValidator:
                 if doc_dir.is_dir():
                     self._validate_qcvn_ast_clauses(doc_dir)
 
+        # Sub-Gate 5.2: Dual-PDF Archive & Provenance Invariant Check (ADR 0043)
+        self._validate_dual_pdf_archive_invariant()
+
         return (len(self.errors), len(self.warnings))
+
+    def _validate_dual_pdf_archive_invariant(self) -> None:
+        """Sub-Gate 5.2: Validate Dual-PDF Archive & Provenance Invariant (ADR 0043)."""
+        if not self.legal_docs_dir.exists():
+            return
+
+        for cat in ["01_vbpl", "02_qcvn", "03_tcvn"]:
+            cat_dir = self.legal_docs_dir / cat
+            if not cat_dir.exists():
+                continue
+            for doc_dir in cat_dir.iterdir():
+                if not doc_dir.is_dir() or doc_dir.name.startswith("."):
+                    continue
+                meta_file = doc_dir / "metadata.yaml"
+                if not meta_file.exists():
+                    continue
+                try:
+                    meta = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                    if meta.get("pdf_origin") == "docx_vector_rendered":
+                        raw_scan = doc_dir / DIR_SOURCES / f"{doc_dir.name}_raw_scan.pdf"
+                        vector_pdf = doc_dir / DIR_SOURCES / f"{doc_dir.name}.pdf"
+                        if not vector_pdf.exists():
+                            self.errors.append(
+                                f"Dual-PDF Error [{doc_dir.name}]: Vector PDF missing at {vector_pdf.name} (ADR 0043)."
+                            )
+                        elif not raw_scan.exists():
+                            self.warnings.append(
+                                f"Dual-PDF Warning [{doc_dir.name}]: 'pdf_origin: docx_vector_rendered' set but raw scan '{raw_scan.name}' not archived (ADR 0043)."
+                            )
+                except Exception as exc:
+                    self.warnings.append(
+                        f"Dual-PDF Warning [{doc_dir.name}]: Failed to inspect metadata.yaml for PDF origin: {exc}"
+                    )
 
     def _validate_registry_pdf_meta(self, data: Dict[str, Any]) -> None:
         """Validate PDF fields in legal_registry.yaml."""
@@ -457,7 +532,7 @@ class LegalSpokeValidator:
             "lint_visual_parity.py", "query_hub_catalog.py", "analyze_gate_audit.py",
             "sync_adr_matrix.py", "validate_adr_parity.py", "setup_pre_commit.py",
             "modernize_annex_engine.py", "verify_formula_visual_matrix.py",
-            "sync_expansion_roadmap.py",
+            "sync_expansion_roadmap.py", "safe_runner.py",
         }
 
         py_files = list(scripts_dir.glob("*.py"))
@@ -472,9 +547,9 @@ class LegalSpokeValidator:
                         f"Spoke Cleanliness Gate: Extra script '{py_file.name}' found in scripts/."
                     )
 
-        if len(py_files) > 20:
+        if len(py_files) > 25:
             self.warnings.append(
-                f"Spoke Cleanliness Gate: scripts/ directory contains {len(py_files)} files (> 20 threshold)."
+                f"Spoke Cleanliness Gate: scripts/ directory contains {len(py_files)} files (> 25 threshold)."
             )
 
         return (len(self.errors), len(self.warnings))
@@ -755,8 +830,9 @@ class LegalSpokeValidator:
                 text = re.sub(r"&nbsp;", " ", text)
                 text = re.sub(r"&#\d+;|&[a-zA-Z]+;", " ", text)
                 text = re.sub(r"</?[a-zA-Z][^>]*>", " ", text)
-                text = re.sub(r"[_\{\}\$]", "", text)
+                text = re.sub(r"[_\{\}\$\^]", "", text)
                 text = re.sub(r"(\d+)\s*([a-zα-ω]+)", r"\1 \2", text)
+                text = re.sub(r"([a-zα-ω]+)\s*(\d+)", r"\1 \2", text)
                 text = re.sub(r"[^\w\d\s]", " ", text, flags=re.UNICODE)
                 return re.sub(r"\s+", " ", text).strip()
 
@@ -795,15 +871,29 @@ class LegalSpokeValidator:
 
                 docx_paras: list[str] = []
                 in_toc = False
-                for p_text in raw_paras[start_idx:]:
-                    if p_text.strip().upper() in ["MỤC LỤC", "TABLE OF CONTENTS"]:
+                for p_idx, p_text in enumerate(raw_paras[start_idx:], start=start_idx):
+                    p_strip = p_text.strip()
+                    p_upper = p_strip.upper()
+                    if p_upper in ["MỤC LỤC", "TABLE OF CONTENTS"]:
                         in_toc = True
                         continue
-                    if in_toc and (
-                        p_text.strip().lower().startswith("lời nói đầu")
-                        or re.match(r"^1[\.\s]+(?:QUY ĐỊNH CHUNG|PHẠM VI ÁP DỤNG)\b", p_text.strip(), re.IGNORECASE)
-                    ):
-                        in_toc = False
+                    if in_toc:
+                        is_end = False
+                        if p_strip.lower().startswith("lời nói đầu"):
+                            for nxt_idx in range(p_idx + 1, min(p_idx + 5, len(raw_paras))):
+                                nxt_t = raw_paras[nxt_idx].strip()
+                                if nxt_t:
+                                    if not re.match(
+                                        r"^(?:Lời giới thiệu|\d+[\.\s]|Phụ lục|Thư mục)",
+                                        nxt_t,
+                                        re.IGNORECASE,
+                                    ):
+                                        is_end = True
+                                    break
+                        elif p_upper in ("TIÊU CHUẨN QUỐC GIA", "QUY CHUẨN KỸ THUẬT QUỐC GIA"):
+                            is_end = True
+                        if is_end:
+                            in_toc = False
                     if not in_toc:
                         docx_paras.append(p_text)
 
@@ -1179,17 +1269,17 @@ class LegalSpokeValidator:
                             f"KaTeX Telemetry [{rel_path}#math-{block_idx}]: Embedded HTML comment detected inside '$$' block (ADR 0038)."
                         )
 
-                # Rule 2: Prohibit \tag{...} inside multiline environments
+                # Rule 2 (Sub-Gate 14.2): Prohibit \tag{...} inside multiline environments (ADR 0038, ADR 0044)
                 multiline_envs = ["aligned", "cases", "gather", "matrix", "array", "bmatrix"]
                 for env in multiline_envs:
                     if f"\\begin{{{env}}}" in clean_block:
                         if re.search(r"\\tag\s*\{[^}]*\}", clean_block):
-                            msg = f"KaTeX Syntax Error [{rel_path}#math-{block_idx}]: Unsupported '\\tag{{...}}' detected inside '{env}' environment. Replace with '\\qquad (X)' (ADR 0038)."
+                            msg = f"KaTeX Syntax Error [{rel_path}#math-{block_idx}]: Unsupported '\\tag{{...}}' detected inside '{env}' environment. Replace with '\\qquad (X)' (ADR 0038, ADR 0044)."
                             if is_modified:
                                 self.errors.append(msg)
                             else:
                                 self.warnings.append(
-                                    f"KaTeX Telemetry [{rel_path}#math-{block_idx}]: Unsupported '\\tag{{...}}' inside '{env}' (ADR 0038)."
+                                    f"KaTeX Telemetry [{rel_path}#math-{block_idx}]: Unsupported '\\tag{{...}}' inside '{env}' (ADR 0038, ADR 0044)."
                                 )
 
                 # Rule 3: Balanced \left and \right

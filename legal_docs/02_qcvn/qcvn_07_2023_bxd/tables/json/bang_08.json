@@ -1,0 +1,92 @@
+{
+  "table_id": "bang_08",
+  "table_number": "8",
+  "table_title": "Bảng 8 - Yêu cầu chiếu sáng đường đi bộ, xe đạp",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại đường",
+    "Độ rọi mặt đường, lx — Trung bình, $E_{n,tb}$",
+    "Độ rọi mặt đường, lx — Tối thiểu, $E_{n,min}$",
+    "Độ rọi bán trụ ($E_{bt}$), lx"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đường": "1. Phố buôn bán có giao thông hỗn hợp",
+      "Độ rọi mặt đường, lx — Trung bình, $E_{n,tb}$": "",
+      "Độ rọi mặt đường, lx — Tối thiểu, $E_{n,min}$": "",
+      "Độ rọi bán trụ ($E_{bt}$), lx": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại đường": "&nbsp;&nbsp;\\- Đô thị loại đặc biệt, loại I và loại II",
+      "Độ rọi mặt đường, lx — Trung bình, $E_{n,tb}$": "25",
+      "Độ rọi mặt đường, lx — Tối thiểu, $E_{n,min}$": "10",
+      "Độ rọi bán trụ ($E_{bt}$), lx": "10"
+    },
+    {
+      "_row_id": 3,
+      "Loại đường": "&nbsp;&nbsp;\\- Đô thị loại III, loại IV và loại V",
+      "Độ rọi mặt đường, lx — Trung bình, $E_{n,tb}$": "20",
+      "Độ rọi mặt đường, lx — Tối thiểu, $E_{n,min}$": "8",
+      "Độ rọi bán trụ ($E_{bt}$), lx": "8"
+    },
+    {
+      "_row_id": 4,
+      "Loại đường": "2. Phố buôn bán dành riêng đi bộ",
+      "Độ rọi mặt đường, lx — Trung bình, $E_{n,tb}$": "",
+      "Độ rọi mặt đường, lx — Tối thiểu, $E_{n,min}$": "",
+      "Độ rọi bán trụ ($E_{bt}$), lx": ""
+    },
+    {
+      "_row_id": 5,
+      "Loại đường": "&nbsp;&nbsp;\\- Đô thị loại đặc biệt, loại I và loại II",
+      "Độ rọi mặt đường, lx — Trung bình, $E_{n,tb}$": "15",
+      "Độ rọi mặt đường, lx — Tối thiểu, $E_{n,min}$": "5",
+      "Độ rọi bán trụ ($E_{bt}$), lx": "5"
+    },
+    {
+      "_row_id": 6,
+      "Loại đường": "&nbsp;&nbsp;\\- Đô thị loại III, loại IV và loại V",
+      "Độ rọi mặt đường, lx — Trung bình, $E_{n,tb}$": "10",
+      "Độ rọi mặt đường, lx — Tối thiểu, $E_{n,min}$": "3",
+      "Độ rọi bán trụ ($E_{bt}$), lx": "4"
+    },
+    {
+      "_row_id": 7,
+      "Loại đường": "3. Đường đi bộ, xe đạp ở công viên, vườn hoa và các khu vực khác với lưu lượng người:",
+      "Độ rọi mặt đường, lx — Trung bình, $E_{n,tb}$": "",
+      "Độ rọi mặt đường, lx — Tối thiểu, $E_{n,min}$": "",
+      "Độ rọi bán trụ ($E_{bt}$), lx": ""
+    },
+    {
+      "_row_id": 8,
+      "Loại đường": "&nbsp;&nbsp;\\- Cao (> 6 người/10 $m^{2}$ đường)",
+      "Độ rọi mặt đường, lx — Trung bình, $E_{n,tb}$": "15",
+      "Độ rọi mặt đường, lx — Tối thiểu, $E_{n,min}$": "5",
+      "Độ rọi bán trụ ($E_{bt}$), lx": "5"
+    },
+    {
+      "_row_id": 9,
+      "Loại đường": "&nbsp;&nbsp;\\- Trung bình (3 ÷ 6 người/10 $m^{2}$ đường)",
+      "Độ rọi mặt đường, lx — Trung bình, $E_{n,tb}$": "8",
+      "Độ rọi mặt đường, lx — Tối thiểu, $E_{n,min}$": "4",
+      "Độ rọi bán trụ ($E_{bt}$), lx": "3"
+    },
+    {
+      "_row_id": 10,
+      "Loại đường": "&nbsp;&nbsp;\\- Thấp (≤ 2 người/10 $m^{2}$ đường)",
+      "Độ rọi mặt đường, lx — Trung bình, $E_{n,tb}$": "5",
+      "Độ rọi mặt đường, lx — Tối thiểu, $E_{n,min}$": "2",
+      "Độ rọi bán trụ ($E_{bt}$), lx": "2"
+    },
+    {
+      "_row_id": 11,
+      "Loại đường": "4. Cầu thang bộ, cầu vượt",
+      "Độ rọi mặt đường, lx — Trung bình, $E_{n,tb}$": "40",
+      "Độ rọi mặt đường, lx — Tối thiểu, $E_{n,min}$": "20",
+      "Độ rọi bán trụ ($E_{bt}$), lx": "10"
+    }
+  ],
+  "footnotes": []
+}

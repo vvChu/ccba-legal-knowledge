@@ -1,0 +1,9 @@
+﻿Mác,Chất lượng,Vị trí của mẫu thử 1),"Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 3; ≤ 40","Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 40; ≤ 63","Độ giãn dài tương đối nhỏ nhất, %, cho chiều dày danh nghĩa, mm — > 63; ≤ 100"
+S235,"B, C, D",Dọc,26,25,24
+S235,"B, C, D",Ngang,24,23,22
+S275,"B, C, D",Dọc,23,22,21
+S275,"B, C, D",Ngang,21,20,19
+S355,"B, C, D",Dọc,22,21,20
+S355,"B, C, D",Ngang,20,19,18
+S450 <sup>2)</sup>,C,Dọc,17,17,17
+"**<sup>1)</sup> Đối với tấm và tấm rộng bản có chiều rộng không nhỏ hơn 600 mm, áp dụng hướng ngang so với hướng cán. Đối với tất cả các sản phẩm khác, áp dụng các giá trị đối với hướng song song so với hướng cán.<br><sup>2)</sup> Chỉ áp dụng cho sản phẩm dài.**",,,,,

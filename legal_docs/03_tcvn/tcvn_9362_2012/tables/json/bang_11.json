@@ -1,0 +1,20 @@
+{
+  "table_id": "bang_11",
+  "table_number": "11",
+  "table_title": "Bảng 11 - Phân loại đất nhiễm muối",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Tên các đất nhiễm muối",
+    "Tổng lượng chứa muối dễ hòa tan và hòa tan vừa so với trọng lượng đất hong khô,%",
+    "Chú thích"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên các đất nhiễm muối": "Đá nửa cứng nhiễm muối\nĐất hòn lớn nhiễm muối\nKhi lượng chứa cát nhỏ hơn 40 %\nhoặc lượng chứa sét nhỏ hơn 30 %\nKhi lượng chứa cát lớn hơn 40 %\nKhi lượng chứa sét lớn hơn 30 %\nĐất cát nhiễm muối\nĐất sét nhiễm muối:\nÁ cát và á sét lún ướt (đất lớt hoặc dạng lớt)\nÁ cát và á sét không lún ướt",
+      "Tổng lượng chứa muối dễ hòa tan và hòa tan vừa so với trọng lượng đất hong khô,%": "2\n2\n0,5\n0,5\n0,5\n1 (hoặc 0,3 nếu chỉ có muối dễ hòa tan)\n5",
+      "Chú thích": "Các loại muối dễ hòa tan gồm có:\nNaCl, KCl, $CaCl_{2}$, MgCh, $NaHCO_{3}$, Ca($HCO_{3}$)$_{2}$, Mg($HCO_{3}$)$_{2}$, $Na_{2}CO_{3}$, $MgSO_{4}$, $Na_{2}SO_{4}$.\nMuối hòa tan vừa là thạch cao: $CaSO_{4}$.2$H_{2}$ O."
+    }
+  ],
+  "footnotes": []
+}

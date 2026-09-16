@@ -1,0 +1,29 @@
+﻿Sơ đồ khung,Hệ số — p,Hệ số — n,Hệ số µ
+**1. Khung tự do**,,,
+,0,$\frac{I_s L_c}{I_c L}$,$...$
+,0,$\frac{k(n_1 + n_2)}{k + 1}$,$...$
+,∞,$\frac{I_s L_c}{I_c L}$,"$\mu = \sqrt{\frac{n + 0,56}{n + 0,14}} \tag{141}$"
+,∞,$\begin{aligned} &\frac{k(n_1 + n_2)}{k+1} \\ &k \ge 2 \end{aligned}$,"$\mu = \sqrt{\frac{n + 0,56}{n + 0,14}} \tag{141}$"
+,Tầng trên cùng,Tầng trên cùng,
+,$\frac{k(p_1 + p_2)}{k + 1}$,$\frac{2k(n_1 + n_2)}{k+1}$,
+,Tầng giữa,Tầng giữa,
+,$\frac{k(p_1 + p_2)}{k + 1}$,$\frac{k(n_1 + n_2)}{k + 1}$,
+,Tầng dưới cùng,Tầng dưới cùng,
+,$\frac{2k(p_1 + p_2)}{k + 1}$,$\frac{k(n_1 + n_2)}{k + 1}$,
+,Các trường hợp riêng,Các trường hợp riêng,
+,0,"≥ 0,03;<br>≤ 0,20","$\mu = 2,15 \cdot \sqrt{\frac{n + 0,22}{n}}$"
+,0,"> 0,20","$\mu = 2 \cdot \sqrt{\frac{n + 0,28}{n}}$"
+,"≥ 0,03;<br>≤ 50",∞,"$\mu = \frac{p + 0,63}{\sqrt{p(p + 0,9) + 0,1}}$"
+,∞,"≥ 0,03;<br>≤ 0,20","$\mu = 1,21 \cdot \sqrt{\frac{n + 0,22}{n + 0,08}}$"
+,∞,"> 0,20","$\mu = \sqrt{\frac{n + 0,28}{n}}$"
+**2. Khung không tự do**,,,
+,Tầng trên cùng,Tầng trên cùng,"$\mu = \sqrt{\frac{1 + 0,46(p + n) + 0,18pn}{1 + 0,93(p + n) + 0,71pn}} \tag{144}$"
+,"0,5 ($p_{1}$ + $p_{2}$)",$n_{1}$ + $n_{2}$,"$\mu = \sqrt{\frac{1 + 0,46(p + n) + 0,18pn}{1 + 0,93(p + n) + 0,71pn}} \tag{144}$"
+,Tầng giữa,Tầng giữa,"$\mu = \sqrt{\frac{1 + 0,46(p + n) + 0,18pn}{1 + 0,93(p + n) + 0,71pn}} \tag{144}$"
+,"0,5 ($p_{1}$ + $p_{2}$)","0,5 ($n_{1}$ + $n_{2}$)","$\mu = \sqrt{\frac{1 + 0,46(p + n) + 0,18pn}{1 + 0,93(p + n) + 0,71pn}} \tag{144}$"
+,Tầng dưới cùng,Tầng dưới cùng,"$\mu = \sqrt{\frac{1 + 0,46(p + n) + 0,18pn}{1 + 0,93(p + n) + 0,71pn}} \tag{144}$"
+,$p_{1}$ + $p_{2}$,"0,5 ($n_{1}$ + $n_{2}$)","$\mu = \sqrt{\frac{1 + 0,46(p + n) + 0,18pn}{1 + 0,93(p + n) + 0,71pn}} \tag{144}$"
+,Các trường hợp riêng,Các trường hợp riêng,
+,0,$\frac{I_s L_c}{I_c L}$,"$\mu = \sqrt{\frac{1 + 0,46n}{1 + 0,93n}}$"
+,∞,$\frac{I_s L_c}{I_c L}$,"$\mu = \sqrt{\frac{1 + 0,39n}{2 + 1,54n}}$"
+"**Các ký hiệu trong Bảng 32:<br>$I_{s1}$, $I_{s2}$ là các mô men quán tính của tiết diện các xà liên kết với đầu trên của cột được kiểm tra;<br>$I_{i1}$, $I_{i2}$ là các mô men quán tính của tiết diện các xà liên kết với đầu dưới của cột được kiểm tra;<br>$I_{c}$, $L_{c}$ lần lượt là mô men quán tính của tiết diện và chiều dài của cột được kiểm tra;<br>L, $L_{1}$, $L_{2}$ là các nhịp khung;<br>k là số nhịp;<br>$n_1 = \frac{I_{s1}L_c}{I_cL_1} ; \quad n_2 = \frac{I_{s2}L_c}{I_cL_2} ; \quad p_1 = \frac{I_{i1}L_c}{I_cL_1} ; \quad p_2 = \frac{I_{i2}L_c}{I_cL_2}$**",,,

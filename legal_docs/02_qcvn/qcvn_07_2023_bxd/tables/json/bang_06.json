@@ -1,0 +1,45 @@
+{
+  "table_id": "bang_06",
+  "table_number": "6",
+  "table_title": "Bảng 6 - Độ chói mặt đường vùng trong hầm ($L_{tr}$)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Cấp chiếu sáng đường hầm",
+    "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 50 ÷ 70",
+    "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 80 ÷ 100",
+    "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 110 ÷ 120"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp chiếu sáng đường hầm": "4",
+      "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 50 ÷ 70": "3",
+      "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 80 ÷ 100": "6",
+      "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 110 ÷ 120": "10"
+    },
+    {
+      "_row_id": 2,
+      "Cấp chiếu sáng đường hầm": "3",
+      "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 50 ÷ 70": "2",
+      "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 80 ÷ 100": "4",
+      "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 110 ÷ 120": "6"
+    },
+    {
+      "_row_id": 3,
+      "Cấp chiếu sáng đường hầm": "2",
+      "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 50 ÷ 70": "1,5",
+      "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 80 ÷ 100": "2",
+      "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 110 ÷ 120": "4"
+    },
+    {
+      "_row_id": 4,
+      "Cấp chiếu sáng đường hầm": "1",
+      "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 50 ÷ 70": "-",
+      "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 80 ÷ 100": "0,5",
+      "Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 110 ÷ 120": "1,5"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Trường hợp tốc độ giới hạn dưới 50 km/h lấy giá trị $L_{tr}$ như tốc độ (50 ÷ 70) km/h"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "table_id": "bang_d_6",
+  "table_number": "D.6",
+  "table_title": "Bảng D.6 - Các hệ số ω, α, β",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tiết diện — Loại",
+    "Tiết diện — Sơ đồ",
+    "ω",
+    "α",
+    "β"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tiết diện — Loại": "1",
+      "Tiết diện — Sơ đồ": "$\\begin{aligned}\n&y_1 \\\\\n&y_1\n\\end{aligned}\n\\qquad\n\\begin{aligned}\n&0,5h \\\\\n&0,5h\n\\end{aligned}\n\\qquad h \\qquad y_x \\qquad x-x \\qquad O \\qquad N$",
+      "ω": "0,25",
+      "α": "0",
+      "β": "0"
+    },
+    {
+      "_row_id": 2,
+      "Tiết diện — Loại": "2",
+      "Tiết diện — Sơ đồ": "$\\begin{aligned}\nh &= h_1 + h_2 \\\\\ne_x &= a_x + h_1\n\\end{aligned}$",
+      "ω": "$\\frac{I_1 I_2}{I_y^2}$",
+      "α": "$\\frac{I_1 h_1 - I_2 h_2}{I_y h}$",
+      "β": "Theo công thức (F.12), Phụ lục F"
+    },
+    {
+      "_row_id": 3,
+      "Tiết diện — Loại": "3",
+      "Tiết diện — Sơ đồ": "$e_x, a_x, h_1, h_2, h$",
+      "ω": "0",
+      "α": "$n_1$",
+      "β": "Theo công thức (F.12), Phụ lục F"
+    },
+    {
+      "_row_id": 4,
+      "Tiết diện — Loại": "4",
+      "Tiết diện — Sơ đồ": "$a_k$",
+      "ω": "$\\frac{3 + 2\\eta}{(6 + \\eta)^2}$",
+      "α": "$\\frac{4(3 + \\eta)}{(2 + \\eta)(6 + \\eta)}$",
+      "β": "0"
+    },
+    {
+      "_row_id": 5,
+      "Tiết diện — Loại": "5",
+      "Tiết diện — Sơ đồ": "",
+      "ω": "$\\frac{\\eta_{1}\\left(3\\eta_{1}+2\\right)}{\\left(6\\eta_{1}+\\eta_{1}\\right)^{2}}$",
+      "α": "$\\frac{4\\eta_1(3\\eta_1 + 1)}{(2\\eta_1 + 1)(6\\eta_1 + 1)}$",
+      "β": "0"
+    },
+    {
+      "_row_id": 6,
+      "Tiết diện — Loại": "**Các ký hiệu trong Bảng D.6:\n$I_{1}$ và $I_{2}$ là các mô men quán tính của bản cánh lớn và bản cánh nhỏ đối với trục đối xứng của tiết diện y-y;\nη = $bt_{w}$/($ht_{f}$); $\\eta_{1}$ = $b_{tf}$/($ht_{w}$), trong đó $t_{w}$ là chiều dày bản bụng; $t_{f}$ là chiều dày bản cánh.**",
+      "Tiết diện — Sơ đồ": "",
+      "ω": "",
+      "α": "",
+      "β": ""
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,30 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Phân loại đất",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại đất hòn lớn và đất cát",
+    "Phân bố của hạt theo độ lớn tính bằng phần trăm trọng lượng của đất hong khô"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đất hòn lớn và đất cát": "1",
+      "Phân bố của hạt theo độ lớn tính bằng phần trăm trọng lượng của đất hong khô": "2"
+    },
+    {
+      "_row_id": 2,
+      "Loại đất hòn lớn và đất cát": "A. Đất hòn lớn\nĐất tảng lăn (khi có hạt sắc cạnh gọi là địa khối)\nĐất cuội (khi có hạt sắc cạnh gọi Ià đất dăm)\nĐất sỏi (khi có hạt sắc cạnh gọi là đất sạn)",
+      "Phân bố của hạt theo độ lớn tính bằng phần trăm trọng lượng của đất hong khô": "Trọng lượng của các hạt lớn hơn 200 mm chiếm trên 50 %\nTrọng lượng các hạt lớn hơn 10 mm chiếm trên 50 %\nTrọng lượng các hạt lớn hơn 2 mm chiếm trên 50 %"
+    },
+    {
+      "_row_id": 3,
+      "Loại đất hòn lớn và đất cát": "B. Đất cát\nCát sỏi\nCát thô\nCát thô vừa\nCát mịn\nCát bụi",
+      "Phân bố của hạt theo độ lớn tính bằng phần trăm trọng lượng của đất hong khô": "Trọng lượng các hạt lớn hơn 2 mm chiếm trên 25 %\nTrọng lượng các hạt lớn hơn 0,5 mm chiếm trên 50 %\nTrọng lượng các hạt lớn hơn 0,25 mm chiếm trên 50 %\nTrọng lượng các hạt lớn hơn 0,1 mm chiếm trên 75 % hoặc hơn\nTrọng lượng hạt lớn hơn 0,1 mm chiếm dưới 75 %"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Để định tên đất theo Bảng 2 phải cộng dần phần trăm hàm lượng hạt của đất nghiên cứu: Bắt đầu từ các hạt lớn hơn 200 mm, sau đó là các hạt lớn hơn 10 mm, tiếp đến là các hạt lớn hơn 2 mm ... Tên đất lấy theo chỉ tiêu đầu tiên được thỏa mãn trong thứ tự tên gọi ở Bảng 2."
+  }
+}

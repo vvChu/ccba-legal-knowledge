@@ -1,0 +1,7 @@
+﻿Dạng liên kết,Trạng thái ứng suất,Đặc điểm của cường độ tính toán,Cường độ tính toán của liên kết hàn
+1. Hàn đối đầu,"a) Nén, kéo và uốn khi hàn tự động, cơ giới hoặc hàn tay và được kiểm tra chất lượng đường hàn bằng các phương pháp thử không phá hủy",Theo giới hạn chảy,$f_{w}$ = $f_{yd}$
+1. Hàn đối đầu,"a) Nén, kéo và uốn khi hàn tự động, cơ giới hoặc hàn tay và được kiểm tra chất lượng đường hàn bằng các phương pháp thử không phá hủy",Theo giới hạn bền kéo,$f_{wu}$ = $f_{ud}$
+1. Hàn đối đầu,"b) Kéo và uốn khi hàn tự động, cơ giới hoặc hàn tay",Theo giới hạn chảy,"$f_{w}$ = 0,85 $f_{yd}$"
+1. Hàn đối đầu,Trượt,Trượt,$f_{vw}$ = $f_{v}$
+2. Hàn góc,Cắt (quy ước),Theo kim loại đường hàn,"$f_{wf}$ = 0,55 $f_{wun}$ / $\gamma_{wm}$"
+2. Hàn góc,Cắt (quy ước),Theo kim loại biên nóng chảy,"$f_{ws}$ = 0,45 $f_{u}$"

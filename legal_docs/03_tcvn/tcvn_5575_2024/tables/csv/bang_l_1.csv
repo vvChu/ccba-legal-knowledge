@@ -1,0 +1,9 @@
+﻿Các thông số,Bu lông — chữ L,Bu lông — không tháo được có bản neo,Bu lông — tháo được có bản neo,Bu lông — thẳng,Bu lông — đầu côn
+"1. Đường kính bu lông (theo ren), $d_{b}$, mm",≥ 12; ≤ 48,≥ 12; ≤ 140,≥ 56; ≤ 125,≥ 12; ≤ 48,≥ 6; ≤ 48
+2. Sơ đồ,,,,$H$,$H$
+"3. Chiều sâu ngàm tối thiểu, H",25$d_{b}$,15$d_{b}$,30$d_{b}$,10$d_{b}$,10$d_{b}$ (8$d_{b}$)<sup>1)</sup>
+4. Khoảng cách tối thiểu giữa các bu lông,6$d_{b}$,8$d_{b}$,10$d_{b}$,5$d_{b}$,8$d_{b}$
+5. Khoảng cách tối thiểu từ trục bu lông đến mép móng,4$d_{b}$,6$d_{b}$,6$d_{b}$,5$d_{b}$,8$d_{b}$
+6. Hệ số tải trọng χ,"0,4","0,4","0,25","0,6","0,55"
+7. Hệ số ổn định lực siết k,"1,9 (1,3) <sup>2)</sup>","1,9 (1,3) <sup>2)</sup>","1,5","2,5 (2,0) <sup>2)</sup>","2,3 (1,8) <sup>2)</sup>"
+**<sup>1)</sup> Trong ngoặc đơn là giá trị chiều sâu ngàm tối thiểu đối với bu lông có đường kính nhỏ hơn 16 mm.<br><sup>2)</sup> Trong ngoặc đơn là giá trị hệ số k cho tải trọng tĩnh.**,,,,,

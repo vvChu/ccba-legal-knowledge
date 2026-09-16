@@ -1,0 +1,12 @@
+﻿"Phương pháp hàn, đường kính que (dây) hàn d, mm",Vị trí đường hàn 1),Hệ số,"Giá trị các hệ số $\beta_{f}$ và $\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 3; ≤ 8","Giá trị các hệ số $\beta_{f}$ và $\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 9; ≤ 12","Giá trị các hệ số $\beta_{f}$ và $\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — ≥ 14; ≤16","Giá trị các hệ số $\beta_{f}$ và $\beta_{s}$ khi chiều cao đường hàn góc $h_{f}$, mm — > 16"
+1. Hàn tự động khi d= (3 ÷ 5),Góc bằng,$\beta_{f}$,"1,1","1,1","1,1","0,7"
+1. Hàn tự động khi d= (3 ÷ 5),Góc bằng,$\beta_{s}$,"1,15","1,15","1,15","1,0"
+1. Hàn tự động khi d= (3 ÷ 5),Bằng,$\beta_{f}$,"1,1","0,9","0,9","0,7"
+1. Hàn tự động khi d= (3 ÷ 5),Bằng,$\beta_{s}$,"1,15","1,05","1,05","1,0"
+"2. Hàn tự động và hàn cơ giới khi d =(1,4 ÷ 2)",Góc bằng,$\beta_{f}$,"0,9","0,9","0,8","0,7"
+"2. Hàn tự động và hàn cơ giới khi d =(1,4 ÷ 2)",Góc bằng,$\beta_{s}$,"1,05","1,0","1,0","1,0"
+"2. Hàn tự động và hàn cơ giới khi d =(1,4 ÷ 2)","Bằng, ngang, leo, (tụt)",$\beta_{f}$,"0,9","0,8","0,8","0,7"
+"2. Hàn tự động và hàn cơ giới khi d =(1,4 ÷ 2)","Bằng, ngang, leo, (tụt)",$\beta_{s}$,"1,05","1,0","1,0","1,0"
+"3. Hàn tay và hàn cơ giới khi d < 1,4 hoặc dây hàn có lõi thuốc","Góc bằng, ngang, leo (tụt), ngửa",$\beta_{f}$,"0,7","0,7","0,7","0,7"
+"3. Hàn tay và hàn cơ giới khi d < 1,4 hoặc dây hàn có lõi thuốc","Góc bằng, ngang, leo (tụt), ngửa",$\beta_{s}$,"1,0","1,0","1,0","1,0"
+"**<sup>1)</sup> Tên gọi vị trí đường hàn lấy theo TCVN 6364:2010. Các tên gọi trước đây: trong máng - ứng với tên gọi góc bằng; nằm - bằng, ngang - ngang, đứng - leo (tụt), ngược - ngửa.**",,,,,,

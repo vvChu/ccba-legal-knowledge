@@ -1,0 +1,118 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Hệ số điều kiện làm việc $\\gamma_{c}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Cấu kiện kết cấu",
+    "Giá trị $\\gamma_{c}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấu kiện kết cấu": "1. Dầm tiết diện đặc và các thanh chịu nén của giàn đỡ sàn tầng các gian lớn trong nhà hát, câu lạc bộ, rạp chiếu phim, khán đài, cửa hàng, kho sách, kho lưu trữ và tương tự khi tải trọng tạm thời không vượt quá trọng lượng của sàn tầng",
+      "Giá trị $\\gamma_{c}$": "0,9"
+    },
+    {
+      "_row_id": 2,
+      "Cấu kiện kết cấu": "2. Cột:",
+      "Giá trị $\\gamma_{c}$": ""
+    },
+    {
+      "_row_id": 3,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- của nhà công cộng và nhà ở khi tải trọng thường xuyên không nhỏ hơn 0,8 lần tải trọng tính toán",
+      "Giá trị $\\gamma_{c}$": "0,95"
+    },
+    {
+      "_row_id": 4,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- của nhà nhiều tầng cao đến 150 m",
+      "Giá trị $\\gamma_{c}$": "0,95"
+    },
+    {
+      "_row_id": 5,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- có tiết diện chữ I của nhà nhiều tầng cao hơn 150 m",
+      "Giá trị $\\gamma_{c}$": "0,90"
+    },
+    {
+      "_row_id": 6,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- có tiết diện hộp của nhà nhiều tầng cao hơn 150 m",
+      "Giá trị $\\gamma_{c}$": "0,87"
+    },
+    {
+      "_row_id": 7,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- của trụ tháp nước",
+      "Giá trị $\\gamma_{c}$": "0,95"
+    },
+    {
+      "_row_id": 8,
+      "Cấu kiện kết cấu": "3. Cột nhà công nghiệp một tầng có cầu trục",
+      "Giá trị $\\gamma_{c}$": "1,05"
+    },
+    {
+      "_row_id": 9,
+      "Cấu kiện kết cấu": "4. Các thanh bụng chính chịu nén (trừ các thanh gối tựa) tiết diện chữ T tổ hợp từ thép góc đôi trong các giàn hàn đỡ mái và đỡ sàn tầng khi tính toán ổn định của các thanh này với độ mảnh λ > 60",
+      "Giá trị $\\gamma_{c}$": "0,80"
+    },
+    {
+      "_row_id": 10,
+      "Cấu kiện kết cấu": "5. Các thanh chịu kéo (thanh căng, thanh neo, dây neo, dây treo) khi tính toán độ bền theo tiết diện không bị giảm yếu",
+      "Giá trị $\\gamma_{c}$": "0,90"
+    },
+    {
+      "_row_id": 11,
+      "Cấu kiện kết cấu": "6. Các cấu kiện kết cấu làm bằng thép có giới hạn chảy đến 440 MPa chịu tải trọng tĩnh, khi tính toán độ bền theo tiết diện bị giảm yếu bởi các lỗ bu lông (trừ liên kết ma sát)",
+      "Giá trị $\\gamma_{c}$": "1,10"
+    },
+    {
+      "_row_id": 12,
+      "Cấu kiện kết cấu": "7. Các thanh bụng chịu nén trong kết cấu không gian rỗng làm bằng thép góc đơn liên kết theo một cánh (đối với thép góc cạnh không đều - liên kết theo cánh rộng):",
+      "Giá trị $\\gamma_{c}$": ""
+    },
+    {
+      "_row_id": 13,
+      "Cấu kiện kết cấu": "a) Trực tiếp với các cánh bằng các đường hàn hoặc bằng hai bu lông trở lên lắp dọc theo thép góc:",
+      "Giá trị $\\gamma_{c}$": ""
+    },
+    {
+      "_row_id": 14,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- các thanh xiên theo Hình 17a và các thanh ngang theo Hình 17b, c, f",
+      "Giá trị $\\gamma_{c}$": "0,90"
+    },
+    {
+      "_row_id": 15,
+      "Cấu kiện kết cấu": "&nbsp;&nbsp;\\- các thanh xiên theo Hình 17c, d, e, f",
+      "Giá trị $\\gamma_{c}$": "0,80"
+    },
+    {
+      "_row_id": 16,
+      "Cấu kiện kết cấu": "b) Trực tiếp với các cánh bằng một bu lông hoặc thông qua bản mã không phụ thuộc vào dạng liên kết",
+      "Giá trị $\\gamma_{c}$": "0,75"
+    },
+    {
+      "_row_id": 17,
+      "Cấu kiện kết cấu": "8. Các thanh chịu nén làm bằng thép góc đơn liên kết theo một cánh (đối với thép góc cạnh không đều - theo cánh hẹp), trừ các thanh sau đây: các thanh chịu nén của giàn phẳng làm bằng thép góc đơn; các thanh đã nêu ở điểm 7 trong bảng này; các thanh xiên theo Hình 17b liên kết trực tiếp với các cánh bằng đường hàn hoặc bằng hai bu lông trở lên lắp dọc theo thép góc",
+      "Giá trị $\\gamma_{c}$": "0,75"
+    },
+    {
+      "_row_id": 18,
+      "Cấu kiện kết cấu": "9. Các bản đế làm bằng thép có giới hạn chảy đến 390 MPa, chịu tải trọng tĩnh, có chiều dày, mm:",
+      "Giá trị $\\gamma_{c}$": ""
+    },
+    {
+      "_row_id": 19,
+      "Cấu kiện kết cấu": "a)  40 và ≤ 60\nc) > 60 và < 80",
+      "Giá trị $\\gamma_{c}$": "1,20\n1,15\n1,10"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Khi tính toán độ bền theo tiết diện bị giảm yếu bởi các lỗ bu lông thì các hệ số điều kiện làm việc nêu tại các điểm 6 và 1; 6 và 2; 6 và 3 cần được kể đến đồng thời.",
+    "fn_2": "CHÚ THÍCH 3: Khi tính toán bản đế thì các hệ số nêu tại các điểm 9 và 2, 9 và 3 cần được kể đến đồng thời.",
+    "fn_3": "CHÚ THÍCH 4: Các hệ số đối với các cấu kiện nêu tại các điểm 1 và 2 cũng cần được kể đến khi tính toán liên kết của chúng.",
+    "fn_4": "CHÚ THÍCH 5: Các trường hợp không nêu trong bảng này thì trong các công thức lấy $\\gamma_{c}$ = 1.",
+    "fn_5": "CHÚ THÍCH 2: Khi tính toán độ bền theo tiết diện bị giảm yếu bởi các lỗ bu lông thì các hệ số điều kiện làm việc nêu tại các điểm 6 và 1; 6 và 2; 6 và 3 cần được kể đến đồng thời.",
+    "fn_6": "CHÚ THÍCH 3: Khi tính toán bản đế thì các hệ số nêu tại các điểm 9 và 2, 9 và 3 cần được kể đến đồng thời.",
+    "fn_7": "CHÚ THÍCH 4: Các hệ số đối với các cấu kiện nêu tại các điểm 1 và 2 cũng cần được kể đến khi tính toán liên kết của chúng.",
+    "fn_8": "CHÚ THÍCH 5: Các trường hợp không nêu trong bảng này thì trong các công thức lấy $\\gamma_{c}$ = 1.",
+    "fn_9": "**CHÚ THÍCH:** Các hệ số điều kiện làm việc $\\gamma_{c}$ < 1 không được lấy đồng thời."
+  }
+}

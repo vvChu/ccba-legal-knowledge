@@ -1,0 +1,11 @@
+﻿Phương pháp hạ cọc đặc và cọc ống không moi đất ra ngoài bằng phương pháp đóng hoặc ép và các loại đất.,Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — dưới mũi cọc $_{cq}$,Hệ số điều kiện làm việc của đất khi tính toán sức kháng của đất — trên thân cọc $_{cf}$
+(1),(2),(3)
+"1. Đóng hạ cọc đặc và cọc rỗng bịt kín mũi dùng búa cơ  (dạng treo), búa hơi và búa dầu.","1,0","1,0"
+&nbsp;&nbsp;\- 2. Đóng và ép cọc vào lỗ định hướng khoan sẵn đảm bảo chiều sâu mũi cọc sâu hơn đáy lỗ tối thiểu 1 m ứng với đường kính lỗ:,,
+"a) Bằng cạnh cọc vuông.<br>b) Nhỏ hơn cạnh cọc vuông 0,05 m<br>c) Nhỏ hơn cạnh cọc vuông hoặc đường kính cọc tròn 0,15 m (đối với trụ đường dây tải điện).","1,0<br>1,0<br>1,0","0,5<br>0,6<br>1,0"
+"3. Hạ cọc vào nền cát kết hợp xói nước với điều kiện ở giai đoạn sau cùng không dùng xói, đóng vỗ để hạ cọc đạt chiều sâu từ 1 m trở lên.","1,0","0,9"
+"4. Hạ cọc ống bằng phương pháp rung, hạ cọc (đặc) bằng phương pháp rung và rung - ép:",,
+"a) Cát chặt vừa:<br>cát hạt to và vừa<br>cát hạt nhỏ<br>cát bụi<br>b) Đất dính có chỉ số sệt $I_{L}$ = 0,5:<br>cát pha<br>sét pha<br>sét<br>c) Đất dính có chỉ số sệt $I_{L}$ ≤ 0<br>5. Dùng búa bất kì để đóng hạ cọc bê tông cốt thép rỗng hở mũi:","1,2<br>1,1<br>1,0<br>0,9<br>0,8<br>0,7<br>1,0","1,0<br>1,0<br>1,0<br>0,9<br>0,9<br>0,9<br>1,0"
+"a) Khi đường kính lõi cọc tối đa 0,4 m<br>b) Khi đường kính lõi cọc từ 0,4 đến 0,8 m","1,0<br>0,7","1,0<br>1,0"
+"6. Dùng phương pháp bất kỳ để hạ cọc tròn rỗng kín mũi xuống chiều sâu tối thiểu 10 m, lần lượt cho mở rộng mũi cọc ở nền cát chặt vừa và trong đất dính có chỉ số sệt $I_{L}$ ≤ 0,5 ứng với đường kính phần mở rộng bằng:",,
+"a) 1,0 m mà không phụ thuộc vào loại đất nêu trên<br>b) 1,5 m trong cát và cát pha<br>c) 1,5 m trong sét và sét pha<br>7. Hạ cọc bằng phương pháp ép:<br>a) Trong cát chặt vừa hạt to, hạt vừa và nhỏ.<br>b) Trong cát bụi<br>c) Trong đất dính có chỉ số sệt $I_{L}$ < 0,5<br>d) Trong đất dính có chỉ số sệt $I_{L}$ ≥ 0,5","0,9<br>0,8<br>0,7<br>1,1<br>1,1<br>1,1<br>1,0","1,0<br>1,0<br>1,0<br>1,0<br>0,8<br>1,0<br>1,0"

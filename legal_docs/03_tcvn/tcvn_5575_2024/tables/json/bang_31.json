@@ -1,0 +1,19 @@
+{
+  "table_id": "bang_31",
+  "table_number": "31",
+  "table_title": "Bảng 31 - Hệ số chiều dài tính toán µ của cột tiết diện không đổi phụ thuộc vào điều kiện liên kết ở hai đầu cột và loại tải trọng",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Sơ đồ liên kết cột và loại tải trọng — Hệ số µ",
+    "$N$ — 1,0",
+    "$N$ — 0,7",
+    "0,5",
+    "2,0",
+    "1,0",
+    "$N$ — 2,0",
+    "$N_{\\max}$ — 0,725",
+    "$N_{\\max}$ — 1,12"
+  ],
+  "rows": [],
+  "footnotes": []
+}

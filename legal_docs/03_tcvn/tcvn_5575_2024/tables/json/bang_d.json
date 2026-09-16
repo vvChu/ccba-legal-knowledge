@@ -1,0 +1,34 @@
+{
+  "table_id": "bang_d",
+  "table_number": "D",
+  "table_title": "Bảng D - 4 (kết thúc)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "$\\bar{\\lambda}_{\\text{ef}}$",
+    "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 7,0",
+    "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 8,0",
+    "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 9,0",
+    "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 10",
+    "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 12",
+    "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 14",
+    "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 17",
+    "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 20"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "$\\bar{\\lambda}_{\\text{ef}}$": "0,5\n1,0\n1,5\n2,0\n2,5\n3,0\n3,5\n4,0\n4,5",
+      "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 7,0": "0,125\n0,121\n0,119\n0,117\n0,113\n0,110\n0,106\n0,100\n0,096",
+      "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 8,0": "0,111\n0,109\n0,108\n0,106\n0,103\n0,100\n0,096\n0,093\n0,089",
+      "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 9,0": "0,100\n0,098\n0,096\n0,095\n0,093\n0,091\n0,088\n0,084\n0,079",
+      "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 10": "0,091\n0,090\n0,088\n0,086\n0,083\n0,081\n0,078\n0,076\n0,073",
+      "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 12": "0,077\n0,077\n0,077\n0,076\n0,074\n0,071\n0,069\n0,067\n0,065",
+      "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 14": "0,067\n0,066\n0,065\n0,064\n0,062\n0,061\n0,059\n0,057\n0,055",
+      "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 17": "0,058\n0,055\n0,053\n0,052\n0,051\n0,051\n0,050\n0,049\n0,048",
+      "Giá trị $\\varphi_{e}$ khi độ lệch tâm tương đối m bằng — 20": "0,048\n0,046\n0,045\n0,045\n0,044\n0,043\n0,042\n0,041\n0,040"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Giá trị hệ số $\\varphi_{e}$ lấy không lớn hơn giá trị φ."
+  }
+}

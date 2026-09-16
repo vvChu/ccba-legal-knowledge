@@ -1,0 +1,16 @@
+﻿Loại nhà,Số cột nước chữa cháy,Lượng nước tính cho mỗi cột
+1,2,3
+Nhà hành chính cao từ 6 đến 12 tầng có khối tích đến 25.000$m^{3}$,1,"2,5"
+"Nhà ở gia đình cao từ 4 tầng trở lên, khách sạn và nhà ở tập thể, nhà công cộng cao từ 5 tầng trở lên có khối tích đến 25.000$m^{3}$",1,"2,5"
+"Bệnh viện, các cơ quan phòng bệnh, nhà trẻ, mẫu giáo, cửa hàng thương nghiệp, nhà ga, nhà phụ trợ của công trình công nghiệp có khối tích từ 5000$m^{3}$ đến 25.000$m^{3}$",1,"2,5"
+Các phòng bố trí dưới khán đài của sân vận động có khối tích từ 5000 $m^{3}$ đến 25000 $m^{3}$ và các gian thể thao có khối tích đến 25.000 $m^{3}$.,1,"2,5"
+"Nhà an dưỡng, nhà nghỉ mát, nhà bảo tàng, thư viện, cơ quan thiết kế có khối tích từ 7.500 $m^{3}$ đến 25.000 $m^{3}$, nhà triển lãm có diện tích trưng bày dưới 500$m^{2}$",1,"2,5"
+"Hội trường, các gian khán giả có trang bị máy chiếu phim cố định có sức chứa từ 300 đến 800 chỗ",1,"2,5"
+Nhà ở các loại cao từ 12 đến 16 tầng,2,"2,5"
+Nhà hành chính cao từ 6 đến 12 tầng với khối tích trên 25.000 $m^{3}$,2,"2,5"
+"Khách sạn, nhà ở tập thể, nhà an dưỡng, nhà nghỉ, bệnh viện, nhà triển lãm, các loại cửa hàng, nhà ga, trường học, có khối tích lớn hơn 25.000 $m^{3}$",2,"2,5"
+Nhà phụ trợ của công trình công nghiệp có khối tích lớn hơn 25.000$m^{3}$,2,"2,5"
+Các gian phòng bố trí dưới khán đài sân vận động và các gian thể dục thể thao có khối tích lớn hơn 25.000$m^{3}$. Hội trường có sức chứa từ 800 chỗ trở lên.,2,"2,5"
+"Nhà hát, rạp chiếu bang, câu lạc bộ, nhà văn hoá, rạp xiếc, phòng hoà nhạc có trên 800 chỗ, viện nghiên cứu khoa học",2,"2,5"
+Nhà sản xuất trừ những điều đã quy định trong điều 1.6,2,"2,5"
+Các nhà kho có khối tích từ 5000$m^{3}$ trở lên chứa vật liệu dễ cháy hoặc vật liệu phòng cháy bảo quản trong các bao bì dễ cháy,2,"2,5"

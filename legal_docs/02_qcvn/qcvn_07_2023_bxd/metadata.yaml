@@ -1,0 +1,34 @@
+id: QCVN-07-2023-BXD
+document_number: QCVN 07:2023/BXD
+title: QCVN 07:2023/BXD — Quy chuẩn kỹ thuật quốc gia về Hệ thống công trình hạ tầng
+  kỹ thuật
+type: Quy chuẩn kỹ thuật quốc gia
+issued_by: Bộ Xây dựng
+signer: Nguyễn Tường Văn
+issued_date: '2023-12-29'
+effective_date: '2024-07-01'
+status: active
+bundle_path: legal_docs/02_qcvn/qcvn_07_2023_bxd/
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-15-2023-TT-BXD-Quy-chuan-quoc-gia-QCVN-07-2023-BXD-He-thong-cong-trinh-ha-tang-ky-thuat-595312.aspx
+sha256: 2dd8088c87f26cc65ec1cca4fe9b9f92d52ff47bd7b6d742ce994de2a66797fb
+pdf_path: legal_docs/02_qcvn/qcvn_07_2023_bxd/sources/qcvn_07_2023_bxd.pdf
+pdf_sha256: bf4612e32fba3a63314191181060e1fc1a986877a909819642cf20a6450fe2e3
+cong_bao_number: 15/2023/TT-BXD
+pdf_status: verified
+source_file: legal_docs/02_qcvn/qcvn_07_2023_bxd/sources/qcvn_07_2023_bxd.docx
+source_file_size_kb: 349.6
+source_assets:
+  docx:
+    sha256: 2dd8088c87f26cc65ec1cca4fe9b9f92d52ff47bd7b6d742ce994de2a66797fb
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_07_2023_bxd/qcvn_07_2023_bxd.docx
+    status: verified
+  pdf:
+    sha256: bf4612e32fba3a63314191181060e1fc1a986877a909819642cf20a6450fe2e3
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_07_2023_bxd/qcvn_07_2023_bxd.pdf
+    status: verified
+relations:
+  replaces: QCVN-07-2016-BXD
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-14T14:58:38.496246+00:00'

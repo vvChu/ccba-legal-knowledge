@@ -1,0 +1,7 @@
+﻿Loại khối xây,$t_{ef.min}$<br>mm,($h_{ef}$/$t_{ef}$)​$_{max}$,(L/h)$_{min}$​
+Khối xây đá tự nhiên không có cốt thép,350,9,"0,5"
+Khối xây bằng các vật liệu khác không có cốt thép,240,12,"0,4"
+"Khối xây bằng các vật liệu khác không có cốt thép, trong trường hợp động đất yếu",170,15,"0,35"
+Khối xây bị hạn chế biến dạng,240,15,"0,3"
+Khối xây có cốt thép,240,15,không hạn chế
+**Các ký hiệu trong bảng:<br>$t_{ef}$  là chiều dày hữu hiệu của tường (xem EN 1996-1-1: 2005);<br>$h_{ef}$  là chiều cao hữu hiệu của tường (xem EN 1996-1-1: 2005);<br>h  là chiều cao thông thủy lớn nhất của các lỗ mở liền kề với tường;<br>L  là chiều dài tường**,,,

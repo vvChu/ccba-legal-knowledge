@@ -186,8 +186,8 @@ def scan_skill_radar(adr_list: list[dict[str, Any]], root_dir: Path) -> dict[str
         text = doc_path.read_text(encoding="utf-8")
         rel_path = str(doc_path.relative_to(root_dir)).replace("\\", "/")
 
-        # Regex to find ADR references
-        matches = re.findall(r"\bADR[-\s]*0*([0-9]+)\b", text, re.IGNORECASE)
+        # Regex to find ADR references (strictly excluding Hub Platform ADRs)
+        matches = re.findall(r"(?<!HUB-)(?<!HUB_)\bADR[-\s]*0*([0-9]+)\b", text, re.IGNORECASE)
         for m in matches:
             num = int(m)
             num_str = f"{num:04d}"

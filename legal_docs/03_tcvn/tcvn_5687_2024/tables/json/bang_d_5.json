@@ -1,0 +1,18 @@
+{
+  "table_id": "bang_d_5",
+  "table_number": "D.5",
+  "table_title": "Bảng D.5 - Giá trị giới hạn tiếp xúc tối đa cho phép bụi bông tại nơi làm việc theo [1]",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên chất",
+    "Giới hạn tiếp xúc ca làm việc (TWA)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên chất": "Bụi bông",
+      "Giới hạn tiếp xúc ca làm việc (TWA)": "1,0"
+    }
+  ],
+  "footnotes": []
+}

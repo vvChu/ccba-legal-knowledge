@@ -1,0 +1,8 @@
+﻿Dấu của mô men uốn,Vị trí,Cấu kiện ngang,$b_{e}$ cho $M_{Rd}$ (phân tích dẻo)
+Mô men âm,Tại cột giữa,Cốt thép kháng chấn,"0,1 L"
+Mô men âm,Tại cột biên,Khi tất cả các thép bố trí đều được neo với dầm biên hoặc với dải biên công xôn bê tông,"0,1 L"
+Mô men âm,Tại cột biên,Khi tất cả các cốt thép bố trí không neo với dầm biên hoặc với dải biên công xôn bê tông,"0,0"
+Mô men dương,Tại cột giữa,Cốt thép kháng chấn,"0,075 L"
+Mô men dương,Tại cột biên,Dầm thép ngang với các đinh chống cắt<br>Sàn bê tông kéo dài đến mặt ngoài của cột có tiết diện chữ H với trục chính có hướng như trong Hình 7.5 hoặc lộ ra thành dải biên bê tông.<br>Cốt thép kháng chấn.,"0,075 L"
+Mô men dương,Tại cột biên,Không có dầm thép ngang thép hoặc có nhưng không có các đinh chống cắt<br>Sàn bê tông kéo dài đến mặt ngoài của cột có tiết diện chữ H với trục chính có hướng như trong Hình 7.5 hoặc lộ ra thành dải biên bê tông.<br>Cốt thép kháng chấn.,"$b_{b}$/2 + 0,7 $h_{c}$/2"
+Mô men dương,Tại cột biên,Tất cả các bố trí khác. Cốt thép kháng chấn.,"$b_{b}$/2 ≤ $b_{e,max}$<br>$b_{e,max}$ = 0,05 L"

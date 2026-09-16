@@ -1,0 +1,64 @@
+{
+  "table_id": "bang_j_2",
+  "table_number": "J.2",
+  "table_title": "Bảng J.2 - Các yếu tố ghi nhãn cho độc tính cấp tính",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Thông tin",
+    "Loại 1",
+    "Loại 2",
+    "Loại 3",
+    "Loại 4",
+    "Loại 5"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Thông tin": "Ký hiệu",
+      "Loại 1": "Đầu lâu và xương chéo",
+      "Loại 2": "Đầu lâu và xương chéo",
+      "Loại 3": "Đầu lâu và xương chéo",
+      "Loại 4": "Đầu lâu và xương chéo",
+      "Loại 5": "Không có ký hiệu"
+    },
+    {
+      "_row_id": 2,
+      "Thông tin": "Chữ ký hiệu",
+      "Loại 1": "Nguy hiểm",
+      "Loại 2": "Nguy hiểm",
+      "Loại 3": "Nguy hiểm",
+      "Loại 4": "Cảnh báo",
+      "Loại 5": "Cảnh báo"
+    },
+    {
+      "_row_id": 3,
+      "Thông tin": "Cảnh báo nguy hiểm: - Đường miệng",
+      "Loại 1": "Gây tử vong nếu nuốt phải",
+      "Loại 2": "Gây tử vong nếu nuốt phải",
+      "Loại 3": "Độc hại nếu nuốt phải",
+      "Loại 4": "Có hại nếu nuốt phải",
+      "Loại 5": "Có thể có hại nếu nuốt phải"
+    },
+    {
+      "_row_id": 4,
+      "Thông tin": "&nbsp;&nbsp;\\- Da",
+      "Loại 1": "Gây tử vong khi tiếp xúc với da",
+      "Loại 2": "Gây tử vong khi tiếp xúc với da",
+      "Loại 3": "Độc hại tiếp xúc với da",
+      "Loại 4": "Có hại khi tiếp xúc với da",
+      "Loại 5": "Có thể có hại khi tiếp xúc với da"
+    },
+    {
+      "_row_id": 5,
+      "Thông tin": "&nbsp;&nbsp;\\- Hít phải (xem CHÚ THÍCH)",
+      "Loại 1": "Gây tử vong nếu hít phải",
+      "Loại 2": "Gây tử vong nếu hít phải",
+      "Loại 3": "Độc hại nếu hít phải",
+      "Loại 4": "Có hại nếu hít phải",
+      "Loại 5": "Có thể có hại nếu hít phải"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Nếu một chất/hỗn hợp cũng được xác định là có tính ăn mòn (dựa trên dữ liệu như dữ liệu về da hoặc mắt), nguy cơ ăn mòn cũng có thể được một số cơ quan có thẩm quyền thông báo dưới dạng biểu tượng và/hoặc cảnh báo nguy hiểm. Nghĩa là, ngoài biểu tượng độc tính cấp tính thích hợp, có thể thêm biểu tượng ăn mòn (được sử dụng cho tình trạng ăn mòn da và mắt) cùng với cảnh báo về nguy cơ ăn mòn như “ăn mòn” hoặc “ăn mòn đường hô hấp”."
+  }
+}

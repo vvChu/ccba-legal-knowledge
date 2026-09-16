@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 27,
+  "tables": [
+    {
+      "table_id": "bang_3_1",
+      "table_number": "3.1",
+      "title": "Bảng 3.1 - Các loại nền đất",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_3_1.csv",
+      "json_file": "tables/json/bang_3_1.json"
+    },
+    {
+      "table_id": "bang_3_2",
+      "table_number": "3.2",
+      "title": "Bảng 3.2 - Giá trị của các tham số mô tả phổ phản ứng đàn hồi Loại 1",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_3_2.csv",
+      "json_file": "tables/json/bang_3_2.json"
+    },
+    {
+      "table_id": "bang_3_3",
+      "table_number": "3.3",
+      "title": "Bảng 3.3 - Giá trị của các tham số mô tả phổ phản ứng đàn hồi Loại 2",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_3_3.csv",
+      "json_file": "tables/json/bang_3_3.json"
+    },
+    {
+      "table_id": "bang_3_4",
+      "table_number": "3.4",
+      "title": "Bảng 3.4 - Giá trị các tham số mô tả phổ phản ứng đàn hồi theo phương đứng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_3_4.csv",
+      "json_file": "tables/json/bang_3_4.json"
+    },
+    {
+      "table_id": "bang_3_5",
+      "table_number": "3.5",
+      "title": "Bảng 3.5 - Các giá trị $\\psi_{2,i}$ đối với nhà",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_3_5.csv",
+      "json_file": "tables/json/bang_3_5.json"
+    },
+    {
+      "table_id": "bang_4_1",
+      "table_number": "4.1",
+      "title": "Bảng 4.1 - Các hệ quả của tính đều đặn của kết cấu trong phân tích và thiết kế chịu động đất",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_4_1.csv",
+      "json_file": "tables/json/bang_4_1.json"
+    },
+    {
+      "table_id": "bang_4_2",
+      "table_number": "4.2",
+      "title": "Bảng 4.2 - Giá trị của φ để tính toán $\\psi_{Ei}$",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_4_2.csv",
+      "json_file": "tables/json/bang_4_2.json"
+    },
+    {
+      "table_id": "bang_4_3",
+      "table_number": "4.3",
+      "title": "Bảng 4.3 - Cấp hậu quả",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_4_3.csv",
+      "json_file": "tables/json/bang_4_3.json"
+    },
+    {
+      "table_id": "bang_4_4",
+      "table_number": "4.4",
+      "title": "Bảng 4.4 - Giá trị $q_{a}$ đối với các bộ phận phi kết cấu",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_4_4.csv",
+      "json_file": "tables/json/bang_4_4.json"
+    },
+    {
+      "table_id": "bang_5_1",
+      "table_number": "5.1",
+      "title": "Bảng 5.1 - Giá trị cơ bản của hệ số ứng xử, $q_{0}$, cho hệ có sự đều đặn theo mặt đứng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_5_1.csv",
+      "json_file": "tables/json/bang_5_1.json"
+    },
+    {
+      "table_id": "bang_6_1",
+      "table_number": "6.1",
+      "title": "Bảng 6.1 - Các quan niệm thiết kế, cấp độ dẻo và giới hạn trên của giá trị tham chiếu của hệ số ứng xử",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_6_1.csv",
+      "json_file": "tables/json/bang_6_1.json"
+    },
+    {
+      "table_id": "bang_6_2",
+      "table_number": "6.2",
+      "title": "Bảng 6.2 - Giới hạn trên của giá trị tham chiếu của hệ số ứng xử cho hệ kết cấu đều đặn theo phương đứng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_6_2.csv",
+      "json_file": "tables/json/bang_6_2.json"
+    },
+    {
+      "table_id": "bang_6_3",
+      "table_number": "6.3",
+      "title": "Bảng 6.3 - Các yêu cầu về loại tiết diện thép của cấu kiện có khả năng tiêu tán năng lượng theo cấp độ dẻo và giá trị tham chiếu của hệ số ứng xử",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_6_3.csv",
+      "json_file": "tables/json/bang_6_3.json"
+    },
+    {
+      "table_id": "bang_7_1",
+      "table_number": "7.1",
+      "title": "Bảng 7.1 - Các quan niệm thiết kế, cấp độ dẻo và giới hạn trên của giá trị tham chiếu của hệ số ứng xử",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_7_1.csv",
+      "json_file": "tables/json/bang_7_1.json"
+    },
+    {
+      "table_id": "bang_7_2",
+      "table_number": "7.2",
+      "title": "Bảng 7.2 - Giới hạn trên của giá trị tham chiếu của hệ số ứng xử cho hệ kết cấu có tính chất đều đặn theo mặt đứng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_7_2.csv",
+      "json_file": "tables/json/bang_7_2.json"
+    },
+    {
+      "table_id": "bang_7_3",
+      "table_number": "7.3",
+      "title": "Bảng 7.3 - Quan hệ giữa hệ số ứng xử và độ mảnh giới hạn của các bản thép của tiết diện tại vùng tới hạn của kết cấu liên hợp bọc",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_7_3.csv",
+      "json_file": "tables/json/bang_7_3.json"
+    },
+    {
+      "table_id": "bang_7_4",
+      "table_number": "7.4",
+      "title": "Bảng 7.4 - Giá trị giới hạn của tỷ số x/d theo độ dẻo của dầm liên hợp với bản",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_7_4.csv",
+      "json_file": "tables/json/bang_7_4.json"
+    },
+    {
+      "table_id": "bang_7_5_i",
+      "table_number": "7.5.I",
+      "title": "Bảng 7.5.I - Chiều rộng hữu hiệu $b_{e}$ của bản sàn khi phân tích đàn hồi",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_7_5_i.csv",
+      "json_file": "tables/json/bang_7_5_i.json"
+    },
+    {
+      "table_id": "bang_7_5_ii",
+      "table_number": "7.5.II",
+      "title": "Bảng 7.5.II - Chiều rộng hữu hiệu $b_{e}$ của bản sàn khi phân tích dẻo",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_7_5_ii.csv",
+      "json_file": "tables/json/bang_7_5_ii.json"
+    },
+    {
+      "table_id": "bang_8_1",
+      "table_number": "8.1",
+      "title": "Bảng 8.1 - Quan niệm thiết kế, các dạng kết cấu và trị số giới hạn trên của hệ số ứng xử đối với ba loại cấp độ dẻo",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_8_1.csv",
+      "json_file": "tables/json/bang_8_1.json"
+    },
+    {
+      "table_id": "bang_8_2",
+      "table_number": "8.2",
+      "title": "Bảng 8.2 - Các dạng kết cấu và giới hạn trên của hệ số ứng xử",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_8_2.csv",
+      "json_file": "tables/json/bang_8_2.json"
+    },
+    {
+      "table_id": "bang_9_1",
+      "table_number": "9.1",
+      "title": "Bảng 9.1 - Các loại kết cấu và giới hạn trên của hệ số ứng xử",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_9_1.csv",
+      "json_file": "tables/json/bang_9_1.json"
+    },
+    {
+      "table_id": "bang_9_2",
+      "table_number": "9.2",
+      "title": "Bảng 9.2 - Các yêu cầu hình học khuyến nghị cho tường",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_9_2.csv",
+      "json_file": "tables/json/bang_9_2.json"
+    },
+    {
+      "table_id": "bang_9_3",
+      "table_number": "9.3",
+      "title": "Bảng 9.3 - Số tầng trên mặt đất cho phép được khuyến nghị và diện tích tối thiểu của tường chịu cắt đối với “nhà xây đơn giản”",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_9_3.csv",
+      "json_file": "tables/json/bang_9_3.json"
+    },
+    {
+      "table_id": "bang_a_1",
+      "table_number": "A.1",
+      "title": "Bảng A.1 - Các chu kỳ khống chế bổ sung đối với phổ chuyển vị",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_a_1.csv",
+      "json_file": "tables/json/bang_a_1.json"
+    },
+    {
+      "table_id": "bang_d_1",
+      "table_number": "D.1",
+      "title": "Bảng D.1 - Cấp hậu quả của công trình xây dựng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d_1.csv",
+      "json_file": "tables/json/bang_d_1.json"
+    },
+    {
+      "table_id": "bang_e_1",
+      "table_number": "E.1",
+      "title": "Bảng E.1 - Danh mục các địa danh hành chính cấp tỉnh áp dụng các loại Phổ",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_e_1.csv",
+      "json_file": "tables/json/bang_e_1.json"
+    }
+  ]
+}

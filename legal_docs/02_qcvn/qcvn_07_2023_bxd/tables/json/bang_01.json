@@ -1,0 +1,187 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Tỷ lệ sử dụng đất trong cơ sở xử lý chất thải rắn",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại hình - hạng mục",
+    "Tỷ lệ diện tích đất, %"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại hình - hạng mục": "1. Cơ sở tái chế chất thải rắn",
+      "Tỷ lệ diện tích đất, %": "100"
+    },
+    {
+      "_row_id": 2,
+      "Loại hình - hạng mục": "1.1. Khu chứa + phân loại chất thải rắn trước khi tái chế",
+      "Tỷ lệ diện tích đất, %": "≤ 30"
+    },
+    {
+      "_row_id": 3,
+      "Loại hình - hạng mục": "1.2. Khu tái chế chất thải rắn",
+      "Tỷ lệ diện tích đất, %": "≤ 20"
+    },
+    {
+      "_row_id": 4,
+      "Loại hình - hạng mục": "1.3. Khu nhà điều hành và công trình phụ trợ khác",
+      "Tỷ lệ diện tích đất, %": "≤ 20"
+    },
+    {
+      "_row_id": 5,
+      "Loại hình - hạng mục": "1.4. Đất giao thông",
+      "Tỷ lệ diện tích đất, %": "≥ 15"
+    },
+    {
+      "_row_id": 6,
+      "Loại hình - hạng mục": "1.5. Đất cây xanh, mặt nước",
+      "Tỷ lệ diện tích đất, %": "≥ 15"
+    },
+    {
+      "_row_id": 7,
+      "Loại hình - hạng mục": "2. Cơ sở xử lý chất thải rắn theo công nghệ sinh học",
+      "Tỷ lệ diện tích đất, %": "100"
+    },
+    {
+      "_row_id": 8,
+      "Loại hình - hạng mục": "2.1. Khu xử lý + bãi ủ + kho chứa sản phẩm",
+      "Tỷ lệ diện tích đất, %": "≤ 60"
+    },
+    {
+      "_row_id": 9,
+      "Loại hình - hạng mục": "2.2. Khu nhà điều hành và công trình phụ trợ khác",
+      "Tỷ lệ diện tích đất, %": "≤ 15"
+    },
+    {
+      "_row_id": 10,
+      "Loại hình - hạng mục": "2.3. Đất giao thông",
+      "Tỷ lệ diện tích đất, %": "≥ 10"
+    },
+    {
+      "_row_id": 11,
+      "Loại hình - hạng mục": "2.4. Đất cây xanh, mặt nước",
+      "Tỷ lệ diện tích đất, %": "≥ 15"
+    },
+    {
+      "_row_id": 12,
+      "Loại hình - hạng mục": "3. Cơ sở đốt chất thải rắn",
+      "Tỷ lệ diện tích đất, %": "100"
+    },
+    {
+      "_row_id": 13,
+      "Loại hình - hạng mục": "3.1. Khu lò đốt và các công trình BVMT",
+      "Tỷ lệ diện tích đất, %": "≤ 50"
+    },
+    {
+      "_row_id": 14,
+      "Loại hình - hạng mục": "3.2. Khu chôn lấp tro, xỉ",
+      "Tỷ lệ diện tích đất, %": "≤ 10"
+    },
+    {
+      "_row_id": 15,
+      "Loại hình - hạng mục": "3.3. Khu nhà điều hành và các công trình phụ trợ khác",
+      "Tỷ lệ diện tích đất, %": "≤ 15"
+    },
+    {
+      "_row_id": 16,
+      "Loại hình - hạng mục": "3.4. Đất giao thông",
+      "Tỷ lệ diện tích đất, %": "≥ 10"
+    },
+    {
+      "_row_id": 17,
+      "Loại hình - hạng mục": "3.5. Đất cây xanh, mặt nước",
+      "Tỷ lệ diện tích đất, %": "≥ 15"
+    },
+    {
+      "_row_id": 18,
+      "Loại hình - hạng mục": "4. Bãi chôn lấp chất thải rắn hợp vệ sinh",
+      "Tỷ lệ diện tích đất, %": "100"
+    },
+    {
+      "_row_id": 19,
+      "Loại hình - hạng mục": "4.1. Các ô chôn lấp chất thải rắn",
+      "Tỷ lệ diện tích đất, %": "≤ 40"
+    },
+    {
+      "_row_id": 20,
+      "Loại hình - hạng mục": "4.2. Khu xử lý nước rỉ rác.",
+      "Tỷ lệ diện tích đất, %": "≤ 15"
+    },
+    {
+      "_row_id": 21,
+      "Loại hình - hạng mục": "4.3. Khu nhà điều hành và công trình phụ trợ khác",
+      "Tỷ lệ diện tích đất, %": "≤ 15"
+    },
+    {
+      "_row_id": 22,
+      "Loại hình - hạng mục": "4.4. Đất giao thông",
+      "Tỷ lệ diện tích đất, %": "≥ 10"
+    },
+    {
+      "_row_id": 23,
+      "Loại hình - hạng mục": "4.5. Đất cây xanh, mặt nước",
+      "Tỷ lệ diện tích đất, %": "≥ 20"
+    },
+    {
+      "_row_id": 24,
+      "Loại hình - hạng mục": "5. Bãi chôn lấp chất thải nguy hại",
+      "Tỷ lệ diện tích đất, %": "100"
+    },
+    {
+      "_row_id": 25,
+      "Loại hình - hạng mục": "5.1. Các ô chôn lấp chất thải rắn",
+      "Tỷ lệ diện tích đất, %": "≤ 40"
+    },
+    {
+      "_row_id": 26,
+      "Loại hình - hạng mục": "5.2. Khu xử lý nước rỉ rác",
+      "Tỷ lệ diện tích đất, %": "≤ 10"
+    },
+    {
+      "_row_id": 27,
+      "Loại hình - hạng mục": "5.3. Khu nhà điều hành và công trình phụ trợ khác",
+      "Tỷ lệ diện tích đất, %": "≤ 20"
+    },
+    {
+      "_row_id": 28,
+      "Loại hình - hạng mục": "5.4. Đất giao thông",
+      "Tỷ lệ diện tích đất, %": "≥ 15"
+    },
+    {
+      "_row_id": 29,
+      "Loại hình - hạng mục": "5.5. Đất cây xanh, mặt nước",
+      "Tỷ lệ diện tích đất, %": "≥ 15"
+    },
+    {
+      "_row_id": 30,
+      "Loại hình - hạng mục": "6. Khu xử lý chất thải rắn tập trung",
+      "Tỷ lệ diện tích đất, %": "100"
+    },
+    {
+      "_row_id": 31,
+      "Loại hình - hạng mục": "6.1. Nhóm các công trình chức năng:\n&nbsp;&nbsp;\\- Cơ sở tái chế chất thải rắn;\n&nbsp;&nbsp;\\- Cơ sở xử lý chất thải rắn theo công nghệ sinh học;\n&nbsp;&nbsp;\\- Cơ sở đốt chất thải rắn;\n&nbsp;&nbsp;\\- Bãi chôn lấp chất thải rắn hợp vệ sinh;\n&nbsp;&nbsp;\\- Bãi chôn lấp chất thải nguy hại;\n&nbsp;&nbsp;\\- Cơ sở xử lý khác.",
+      "Tỷ lệ diện tích đất, %": "≤ 65"
+    },
+    {
+      "_row_id": 32,
+      "Loại hình - hạng mục": "6.2. Nhà điều hành và công trình phụ trợ khác",
+      "Tỷ lệ diện tích đất, %": "≤ 10"
+    },
+    {
+      "_row_id": 33,
+      "Loại hình - hạng mục": "6.3. Đất giao thông",
+      "Tỷ lệ diện tích đất, %": "≥ 10"
+    },
+    {
+      "_row_id": 34,
+      "Loại hình - hạng mục": "6.4. Đất cây xanh, mặt nước",
+      "Tỷ lệ diện tích đất, %": "≥ 15"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Không yêu cầu bố trí dải cây xanh cách ly như quy định tại QCVN 01:2021/BXD giữa các cơ sở xử lý bãi chôn lấp trong khu xử lý chất thải rắn tập trung.",
+    "fn_2": "CHÚ THÍCH 2: Không yêu cầu bố trí dải cây xanh cách ly như quy định tại QCVN 01:2021/BXD giữa các cơ sở xử lý bãi chôn lấp trong khu xử lý chất thải rắn tập trung.",
+    "fn_3": "**CHÚ THÍCH:** Yêu cầu tại Bảng 1 được áp dụng đối với các dự án đầu tư, xây dựng mới. Đối với các dự án cải tạo, nâng cấp hoặc đầu tư xây dựng tại các cơ sở xử lý hiện hữu có thể sử dụng để tham khảo, áp dụng."
+  }
+}

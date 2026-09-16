@@ -1,0 +1,6 @@
+﻿Loại tiết diện,Sơ đồ tiết diện và độ lệch tâm,Điều kiện áp dụng các công thức,"Giá trị $\lambda _{uf}$ hoặc $\lambda _{uf,1}$ khi 0,8 ≤ $\lambda _{x}$ ($\lambda _{y}$) ≤ 4"
+1,$b_{ef}$,0 ≤ $m_{x}$ ≤ 5,"$\lambda _{uf,1}$ = $\lambda _{ufc}$ – 0,01(1,5 + 0,7$\lambda _{x}$)$m_{x}$ (131)"
+2,,0 ≤ $m_{x}$ ≤ 5,"`$l_{uf,1}$ = `$l_{ufc}$ – 0,01(5,3 + 1,3$\lambda _{x}$)$m_{x}$ (132)"
+3,$e_x$,-,"$\lambda _{uf}$ = 0,36 + 0,1$\lambda _{x}$                                          (133)"
+4,$e_y$,-,"$\lambda _{uf}$ = 0,36 + 0,1$\lambda _{y}$                            (134)"
+"**Các ký hiệu trong Bảng 24:<br>$\lambda _{ufc}$ là giá trị giới hạn của độ mảnh quy ước của phần vươn cánh hoặc bản cánh của cấu kiện chịu nén đúng tâm, được xác định theo các yêu cầu trong 7.3.8 và 7.3.9.**",,,

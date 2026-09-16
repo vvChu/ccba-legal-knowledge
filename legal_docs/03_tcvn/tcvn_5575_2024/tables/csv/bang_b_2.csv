@@ -1,0 +1,6 @@
+﻿Mác,Chất lượng,"Giới hạn chảy nhỏ nhất 1) , MPa, cho chiều dày danh nghĩa, mm — ≤ 16","Giới hạn chảy nhỏ nhất 1) , MPa, cho chiều dày danh nghĩa, mm — > 16; ≤ 40","Giới hạn chảy nhỏ nhất 1) , MPa, cho chiều dày danh nghĩa, mm — > 40; ≤ 63","Giới hạn chảy nhỏ nhất 1) , MPa, cho chiều dày danh nghĩa, mm — > 63; ≤ 80","Giới hạn chảy nhỏ nhất 1) , MPa, cho chiều dày danh nghĩa, mm — > 80; ≤100","Giới hạn bền kéo, MPa, cho chiều dày danh nghĩa, mm — ≥ 3; ≤ 100"
+S235,"B, C, D",235,225,215,215,215,360÷510
+S275,"B, C, D",275,265,255,245,235,410÷560
+S355,"B, C, D",355,345,335,325,315,470÷630
+S450 <sup>2)</sup>,C,450,430,410,390,380,550÷720
+"**<sup>1)</sup> Đối với tấm và tấm rộng bản có chiều rộng không nhỏ hơn 600 mm, áp dụng hướng ngang so với hướng cán. Đối với tất cả các sản phẩm khác, áp dụng các giá trị đối với hướng song song so với hướng cán.<br><sup>2)</sup> Chỉ áp dụng cho sản phẩm dài.**",,,,,,,

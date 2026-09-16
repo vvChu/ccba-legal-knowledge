@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_44",
+  "table_number": "44",
+  "table_title": "Bảng 44 - Hệ số điều kiện làm việc của liên kết bu lông",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Đặc điểm của liên kết",
+    "Giá trị $\\gamma_{b}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đặc điểm của liên kết": "1. Liên kết nhiều bu lông trong tính toán chịu cắt và ép mặt khi sử dụng bu lông:\na) Cấp chính xác A\nb) Cấp chính xác B",
+      "Giá trị $\\gamma_{b}$": "1,0\n0,9"
+    },
+    {
+      "_row_id": 2,
+      "Đặc điểm của liên kết": "2. Liên kết một bu lông và nhiều bu lông trong tính toán chịu ép mặt khi a = 1,5d và s = 2d trong các cấu kiện kết cấu làm bằng thép có giới hạn chảy đến 540 MPa",
+      "Giá trị $\\gamma_{b}$": "0,8"
+    },
+    {
+      "_row_id": 3,
+      "Đặc điểm của liên kết": "**Các ký hiệu trong Bảng 44:\na  là khoảng cách dọc theo lực tác dụng tính từ mép cấu kiện đến tâm lỗ bu lông gần nhất;\nd  là đường kính lỗ bu lông;\ns  là khoảng cách giữa tâm các lồ bu lông dọc theo lực tác dụng.**",
+      "Giá trị $\\gamma_{b}$": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Với giá trị của các khoảng cách a và s nằm trong khoảng trung gian giữa các giá trị nêu tại điểm 2 và trong Bàng 43, hệ số $\\gamma_{b}$ được xác định bằng nội suy tuyến tính.",
+    "fn_2": "CHÚ THÍCH 2: Với giá trị của các khoảng cách a và s nằm trong khoảng trung gian giữa các giá trị nêu tại điểm 2 và trong Bàng 43, hệ số $\\gamma_{b}$ được xác định bằng nội suy tuyến tính.",
+    "fn_3": "**CHÚ THÍCH:** Các hệ số quy định tại điểm 1 và 2 cần được lấy đồng thời."
+  }
+}

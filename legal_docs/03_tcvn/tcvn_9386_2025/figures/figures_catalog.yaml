@@ -1,0 +1,385 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 9386 2025
+total_figures: 46
+figures:
+- figure_id: FIG_3_1
+  slug: '3_1'
+  tag: '3.1'
+  title: Dạng của phổ phản ứng đàn hồi
+  annex: E
+  anchor: hinh-3_1
+  image_relpath: figures/images/hinh_3_1.png
+  has_image: true
+- figure_id: FIG_3_2
+  slug: '3_2'
+  tag: '3.2'
+  title: Phổ phản ứng đàn hồi Loại 1 cho các loại nền đất từ A đến E (độ cản 5%)
+  annex: E
+  anchor: hinh-3_2
+  image_relpath: figures/images/hinh_3_2.png
+  has_image: true
+- figure_id: FIG_3_3
+  slug: '3_3'
+  tag: '3.3'
+  title: Phổ phản ứng đàn hồi Loại 2 cho các loại nền đất từ A đến E (độ cản 5%)
+  annex: E
+  anchor: hinh-3_3
+  image_relpath: figures/images/hinh_3_3.png
+  has_image: true
+- figure_id: FIG_4_1
+  slug: '4_1'
+  tag: '4.1'
+  title: Các tiêu chí về tính đều đặn của nhà có giật cấp
+  annex: A
+  anchor: hinh-4_1
+  image_relpath: figures/images/hinh_4_1.png
+  has_image: true
+- figure_id: FIG_5_1
+  slug: '5_1'
+  tag: '5.1'
+  title: Giá trị của lực cắt trong dầm được xác định từ thiết kế theo khả năng
+  annex: PH
+  anchor: hinh-5_1
+  image_relpath: figures/images/hinh_5_1.png
+  has_image: true
+- figure_id: FIG_5_2
+  slug: '5_2'
+  tag: '5.2'
+  title: Giá trị lực cắt trong cột được xác định từ thiết kế theo khả năng
+  annex: PH
+  anchor: hinh-5_2
+  image_relpath: figures/images/hinh_5_2.png
+  has_image: true
+- figure_id: FIG_5_3
+  slug: '5_3'
+  tag: '5.3'
+  title: Đường bao thiết kế cho mô men uốn trong tường mảnh
+  annex: PH
+  anchor: hinh-5_3
+  image_relpath: figures/images/hinh_5_3.png
+  has_image: true
+- figure_id: FIG_5_4
+  slug: '5_4'
+  tag: '5.4'
+  title: Đường bao thiết kế của lực cắt trong các tường của hệ kết cấu hỗn hợp
+  annex: PH
+  anchor: hinh-5_4
+  image_relpath: figures/images/hinh_5_4.png
+  has_image: true
+- figure_id: FIG_5_5
+  slug: '5_5'
+  tag: '5.5'
+  title: Chiều rộng hữu hiệu của bản cánh dầm liên kết với cột tạo thành khung
+  annex: PH
+  anchor: hinh-5_5
+  image_relpath: figures/images/hinh_5_5.png
+  has_image: true
+- figure_id: FIG_5_6
+  slug: '5_6'
+  tag: '5.6'
+  title: Cốt đai trong vùng tới hạn của dầm
+  annex: PH
+  anchor: hinh-5_6
+  image_relpath: figures/images/hinh_5_6.png
+  has_image: true
+- figure_id: FIG_5_7
+  slug: '5_7'
+  tag: '5.7'
+  title: Sự bó lõi bê tông
+  annex: PH
+  anchor: hinh-5_7
+  image_relpath: figures/images/hinh_5_7.png
+  has_image: true
+- figure_id: FIG_5_8
+  slug: '5_8'
+  tag: '5.8'
+  title: Phần đầu tường có cốt đai hạn chế biến dạng
+  annex: PH
+  anchor: hinh-5_8
+  image_relpath: figures/images/hinh_5_8.png
+  has_image: true
+- figure_id: FIG_5_9
+  slug: '5_9'
+  tag: '5.9'
+  title: Phần đầu tường không cần bó khi đầu tường có cánh nằm ngang rộng
+  annex: PH
+  anchor: hinh-5_9
+  image_relpath: figures/images/hinh_5_9.png
+  has_image: true
+- figure_id: FIG_5_10
+  slug: '5_10'
+  tag: '5.10'
+  title: Chiều dày tối thiểu của phần đầu tường được hạn chế biến dạng
+  annex: PH
+  anchor: hinh-5_10
+  image_relpath: figures/images/hinh_5_10.png
+  has_image: true
+- figure_id: FIG_5_11
+  slug: '5_11'
+  tag: '5.11'
+  title: Chiều dày tối thiểu của phần đầu tường bị hạn chế biến dạng đối với tường
+    có cấp độ dẻo cao có cánh lớn
+  annex: PH
+  anchor: hinh-5_11
+  image_relpath: figures/images/hinh_5_11.png
+  has_image: true
+- figure_id: FIG_5_12
+  slug: '5_12'
+  tag: '5.12'
+  title: Dầm liên kết có cốt thép đặt chéo
+  annex: PH
+  anchor: hinh-5_12
+  image_relpath: figures/images/hinh_5_12.png
+  has_image: true
+- figure_id: FIG_5_13
+  slug: '5_13'
+  tag: '5.13'
+  title: Biện pháp neo bổ sung trong nút dầm-cột biên
+  annex: PH
+  anchor: hinh-5_13
+  image_relpath: figures/images/hinh_5_13.png
+  has_image: true
+- figure_id: FIG_5_14
+  slug: '5_14'
+  tag: '5.14'
+  title: Ảnh hưởng của các mối nối đến khả năng tiêu tán năng lượng của kết cấu
+  annex: PH
+  anchor: hinh-5_14
+  image_relpath: figures/images/hinh_5_14.png
+  has_image: true
+- figure_id: FIG_5_15
+  slug: '5_15'
+  tag: '5.15'
+  title: Cốt thép chịu kéo tại đầu tường
+  annex: PH
+  anchor: hinh-5_15
+  image_relpath: figures/images/hinh_5_15.png
+  has_image: true
+- figure_id: FIG_5_16
+  slug: '5_16'
+  tag: '5.16'
+  title: Tiết diện ngang của mối nối thẳng đứng giữa các panen tấm lớn đúc sẵn
+  annex: PH
+  anchor: hinh-5_16
+  image_relpath: figures/images/hinh_5_16.png
+  has_image: true
+- figure_id: FIG_6_1
+  slug: '6_1'
+  tag: '6.1'
+  title: Khung chịu mô men (vùng tiêu tán năng lượng trong dầm và chân cột). Các giá
+    trị mặc định của tỷ số αu/α1 (xem 6.3.2(3) và Bảng 6.2)
+  annex: PH
+  anchor: hinh-6_1
+  image_relpath: figures/images/hinh_6_1.png
+  has_image: true
+- figure_id: FIG_6_2
+  slug: '6_2'
+  tag: '6.2'
+  title: Khung có hệ giằng chéo đúng tâm (vùng tiêu tán năng lượng chỉ nằm trong
+    các thanh chéo chịu kéo)
+  annex: PH
+  anchor: hinh-6_2
+  image_relpath: figures/images/hinh_6_2.png
+  has_image: true
+- figure_id: FIG_6_3
+  slug: '6_3'
+  tag: '6.3'
+  title: Khung có hệ giằng chữ V đúng tâm (vùng tiêu tán năng lượng nằm trong các
+    thanh chéo chịu kéo và chịu nén)
+  annex: PH
+  anchor: hinh-6_3
+  image_relpath: figures/images/hinh_6_3.png
+  has_image: true
+- figure_id: FIG_6_10
+  slug: '6_10'
+  tag: '6.10'
+  title: Ô bản bụng giữa các bản cánh và sườn tăng cường
+  annex: PH
+  anchor: hinh-6_10
+  image_relpath: figures/images/hinh_6_10.png
+  has_image: true
+- figure_id: FIG_6_11
+  slug: '6_11'
+  tag: '6.11'
+  title: Xác định θp theo độ võng của dầm
+  annex: PH
+  anchor: hinh-6_11
+  image_relpath: figures/images/hinh_6_11.png
+  has_image: true
+- figure_id: FIG_6_12
+  slug: '6_12'
+  tag: '6.12'
+  title: Ví dụ khi áp dụng 6.7.1(3)
+  annex: PH
+  anchor: hinh-6_12
+  image_relpath: figures/images/hinh_6_12.png
+  has_image: true
+- figure_id: FIG_6_13
+  slug: '6_13'
+  tag: '6.13'
+  title: Các ký hiệu đối với tiết diện nối chữ I
+  annex: PH
+  anchor: hinh-6_13
+  image_relpath: figures/images/hinh_6_13.png
+  has_image: true
+- figure_id: FIG_6_14
+  slug: '6_14'
+  tag: '6.14'
+  title: Đoạn nối kháng chấn có momen ở hai đầu
+  annex: PH
+  anchor: hinh-6_14
+  image_relpath: figures/images/hinh_6_14.png
+  has_image: true
+- figure_id: FIG_7_1
+  slug: '7_1'
+  tag: '7.1'
+  title: Hệ kết cấu liên hợp - tường liên hợp
+  annex: PH
+  anchor: hinh-7_1
+  image_relpath: figures/images/hinh_7_1.png
+  has_image: true
+- figure_id: FIG_7_2
+  slug: '7_2'
+  tag: '7.2'
+  title: Hệ kết cấu liên hợp. Dạng 3 - Tường liên hợp hoặc tường bê tông được liên
+    kết bằng các dầm thép hoặc các dầm liên hợp
+  annex: PH
+  anchor: hinh-7_2
+  image_relpath: figures/images/hinh_7_2.png
+  has_image: true
+- figure_id: FIG_7_3
+  slug: '7_3'
+  tag: '7.3'
+  title: Liên kết dầm - cột
+  annex: C
+  anchor: hinh-7_3
+  image_relpath: figures/images/hinh_7_3.png
+  has_image: true
+- figure_id: FIG_7_4
+  slug: '7_4'
+  tag: '7.4'
+  title: Các giá trị của hệ số kr
+  annex: C
+  anchor: hinh-7_4
+  image_relpath: figures/images/hinh_7_4.png
+  has_image: true
+- figure_id: FIG_7_5
+  slug: '7_5'
+  tag: '7.5'
+  title: Cách bố trí cốt thép kháng chấn
+  annex: C
+  anchor: hinh-7_5
+  image_relpath: figures/images/hinh_7_5.png
+  has_image: true
+- figure_id: FIG_7_6
+  slug: '7_6'
+  tag: '7.6'
+  title: Chiều rộng hữu hiệu của bản sàn be và beff
+  annex: C
+  anchor: hinh-7_6
+  image_relpath: figures/images/hinh_7_6.png
+  has_image: true
+- figure_id: FIG_7_7
+  slug: '7_7'
+  tag: '7.7'
+  title: Các cấu kiện trong kết cấu khung có mô men
+  annex: C
+  anchor: hinh-7_7
+  image_relpath: figures/images/hinh_7_7.png
+  has_image: true
+- figure_id: FIG_7_8
+  slug: '7_8'
+  tag: '7.8'
+  title: Chi tiết cốt thép ngang với các thanh thép thẳng gia cường được hàn vào
+    bản cánh
+  annex: C
+  anchor: hinh-7_8
+  image_relpath: figures/images/hinh_7_8.png
+  has_image: true
+- figure_id: FIG_7_9A
+  slug: 7_9a
+  tag: 7.9a
+  title: Chi tiết cấu tạo các cấu kiện biên liên hợp được bọc bê tông không hoàn toàn
+    (chi tiết của cốt thép ngang là dành cho DCH)
+  annex: C
+  anchor: hinh-7_9a
+  image_relpath: figures/images/hinh_7_9a.png
+  has_image: true
+- figure_id: FIG_7_9B
+  slug: 7_9b
+  tag: 7.9b
+  title: Chi tiết cấu tạo các cấu kiện biên liên hợp được bọc bê tông hoàn toàn (chi
+    tiết của cốt thép ngang là dành cho DCH)
+  annex: C
+  anchor: hinh-7_9b
+  image_relpath: figures/images/hinh_7_9b.png
+  has_image: true
+- figure_id: FIG_7_10
+  slug: '7_10'
+  tag: '7.10'
+  title: Chi tiết cấu tạo của dầm nối ngàm vào tường (các chi tiết là của DCH)
+  annex: C
+  anchor: hinh-7_10
+  image_relpath: figures/images/hinh_7_10.png
+  has_image: true
+- figure_id: FIG_A_1
+  slug: a_1
+  tag: A.1
+  title: Phổ phản ứng chuyển vị
+  annex: A
+  anchor: hinh-a_1
+  image_relpath: figures/images/hinh_a_1.png
+  has_image: true
+- figure_id: FIG_B_1
+  slug: b_1
+  tag: B.1
+  title: Xác định quan hệ giữa lực - chuyển vị đàn dẻo lý tưởng
+  annex: B
+  anchor: hinh-b_1
+  image_relpath: figures/images/hinh_b_1.png
+  has_image: true
+- figure_id: FIG_B_2
+  slug: b_2
+  tag: B.2
+  title: Xác định chuyển vị mục tiêu cho hệ một bậc tự do tương đương
+  annex: B
+  anchor: hinh-b_2
+  image_relpath: figures/images/hinh_b_2.png
+  has_image: true
+- figure_id: FIG_B_2
+  slug: b_2
+  tag: B.2
+  title: Xác định chuyển vị mục tiêu cho hệ một bậc tự do tương đương (kết thúc)
+  annex: B
+  anchor: hinh-b_2
+  image_relpath: figures/images/hinh_b_2.png
+  has_image: true
+- figure_id: FIG_C_1
+  slug: c_1
+  tag: C.1
+  title: Liên kết dầm - cột liên hợp ở cột biên dưới tác dụng của mô men âm trong
+    mặt phẳng vuông góc với mặt tiền
+  annex: N
+  anchor: hinh-c_1
+  image_relpath: figures/images/hinh_c_1.png
+  has_image: true
+- figure_id: FIG_C_2
+  slug: c_2
+  tag: C.2
+  title: Các liên kết dầm - cột biên liên hợp dưới tác dụng của mô men dương trong
+    mặt phẳng khung và sự có thể truyền các lực của bản
+  annex: N
+  anchor: hinh-c_2
+  image_relpath: figures/images/hinh_c_2.png
+  has_image: true
+- figure_id: FIG_C_3
+  slug: c_3
+  tag: C.3
+  title: Sự truyền lực của bản trong nút liên kết dầm - cột liên hợp của cột giữa
+    có hoặc không có dầm dọc, dưới tác dụng của mô men dương ở một mặt và mô men âm
+    ở mặt còn lại
+  annex: N
+  anchor: hinh-c_3
+  image_relpath: figures/images/hinh_c_3.png
+  has_image: true

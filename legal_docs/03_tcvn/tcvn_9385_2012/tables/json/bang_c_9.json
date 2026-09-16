@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_c_9",
+  "table_number": "C.9",
+  "table_title": "Bảng C.9 - Loại vị trí B (trục)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Mức độ thử",
+    "Điện áp (kV)",
+    "Dòng (kA)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mức độ thử": "Thấp",
+      "Điện áp (kV)": "2",
+      "Dòng (kA)": "1"
+    },
+    {
+      "_row_id": 2,
+      "Mức độ thử": "Trung bình",
+      "Điện áp (kV)": "4",
+      "Dòng (kA)": "2"
+    },
+    {
+      "_row_id": 3,
+      "Mức độ thử": "Cao",
+      "Điện áp (kV)": "6",
+      "Dòng (kA)": "3"
+    }
+  ],
+  "footnotes": []
+}

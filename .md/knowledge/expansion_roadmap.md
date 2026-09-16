@@ -4,7 +4,7 @@
 > [!NOTE]
 > **Đây là Tài Liệu Sống (Living Document) tự động cập nhật.**  
 > Được đồng bộ tự động bởi `scripts/sync_expansion_roadmap.py` mỗi khi có văn bản mới được nạp vào Spoke hoặc khi chạy Master CI Gate.  
-> **Lần cập nhật cuối:** `2026-09-06 17:45:02` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
+> **Lần cập nhật cuối:** `2026-09-16 15:45:06` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
 
 ---
 
@@ -12,9 +12,9 @@
 
 | Chỉ số theo dõi | Số lượng | Tỷ lệ hoàn thành | Trạng thái hệ thống |
 |:---|:---:|:---:|:---:|
-| **Hiện có trong Spoke (Active Bundles)** | **42** | **73.7%** | 🟢 Sẵn sàng phục vụ Agent |
-| **Ứng viên Đang Chờ Nạp (Pending Target)** | **15** | **26.3%** | 🟡 Trong lộ trình ưu tiên |
-| **Tổng quy mô mục tiêu giai đoạn 1** | **57** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
+| **Hiện có trong Spoke (Active Bundles)** | **53** | **91.4%** | 🟢 Sẵn sàng phục vụ Agent |
+| **Ứng viên Đang Chờ Nạp (Pending Target)** | **5** | **8.6%** | 🟡 Trong lộ trình ưu tiên |
+| **Tổng quy mô mục tiêu giai đoạn 1** | **58** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
 
 ---
 
@@ -25,20 +25,10 @@ graph TD
     subgraph T1["🔴 TIER 1: QUY CHUẨN KỸ THUẬT BẮT BUỘC & PCCC (0 Văn bản)"]
     end
 
-    subgraph T2["🟠 TIER 2: TIÊU CHUẨN THIẾT KẾ CỐT LÕI ĐA BỘ MÔN (6 Văn bản)"]
-        T2_1["TCVN 5687:2024<br/>(MEP HVAC - Điểm: 8.8)"]
-        T2_2["TCVN 9385:2012<br/>(MEP Điện - Điểm: 8.7)"]
-        T2_3["TCVN 5575:2024<br/>(Kết cấu Thép - Điểm: 8.6)"]
-        T2_4["TCVN 9386:2025<br/>(Kháng chấn - Điểm: 8.5)"]
-        T2_5["TCVN 4513:1988<br/>(MEP Cấp nước - Điểm: 8.3)"]
-        T2_6["TCVN 4474:1987<br/>(MEP Thoát nước - Điểm: 8.1)"]
+    subgraph T2["🟠 TIER 2: TIÊU CHUẨN THIẾT KẾ CỐT LÕI ĐA BỘ MÔN (0 Văn bản)"]
     end
 
-    subgraph T3["🟡 TIER 3: HẠ TẦNG KỸ THUẬT & ĐỊA KỸ THUẬT (4 Văn bản)"]
-        T3_1["QCVN 07:2023/BXD<br/>(Hạ tầng đô thị - Điểm: 8.0)"]
-        T3_2["TCVN 10304:2014<br/>(Địa kỹ thuật - Điểm: 7.9)"]
-        T3_3["TCVN 9362:2012<br/>(Địa kỹ thuật - Điểm: 7.9)"]
-        T3_4["QCVN 03:2023/BCA<br/>(PCCC - Điểm: 7.7)"]
+    subgraph T3["🟡 TIER 3: HẠ TẦNG KỸ THUẬT & ĐỊA KỸ THUẬT (0 Văn bản)"]
     end
 
     subgraph T4["🔵 TIER 4: THỂ LOẠI CÔNG TRÌNH & BIM ISO (5 Văn bản)"]
@@ -64,23 +54,11 @@ graph TD
 
 ### 🟠 TIER 2: Tiêu Chuẩn Thiết Kế Cơ Sở Đa Bộ Môn (Kết Cấu, MEP)
 
-| STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
-|:---:|:---|:---|:---:|:---:|:---:|:---|
-| 1 | **[TCVN 5687:2024](https://thuvienphapluat.vn/TCVN/Xay-dung/Tieu-chuan-quoc-gia-5687-2024-Thong-gio-dieu-hoa-khong-khi-Yeu-cau-thiet-ke-921033.aspx)** | Thông gió và điều hòa không khí — Tiêu chuẩn thiết kế | MEP HVAC | 0 | **8.8** | `python -m ccba_legal ingest "TCVN 5687:2024" --category 03_tcvn --upload-drive` |
-| 2 | **[TCVN 9385:2012](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9385-2012-chong-set-cho-cong-trinh-xay-dung-Huong-dan-thiet-ke-907546.aspx)** | Chống sét cho công trình xây dựng — Hướng dẫn thiết kế, kiểm tra và bảo trì | MEP Điện | 0 | **8.7** | `python -m ccba_legal ingest "TCVN 9385:2012" --category 03_tcvn --upload-drive` |
-| 3 | **[TCVN 5575:2024](https://thuvienphapluat.vn/TCVN/Cong-nghiep/TCVN-5575-2024-Thiet-ke-ket-cau-thep-921459.aspx)** | Kết cấu thép — Tiêu chuẩn thiết kế | Kết cấu Thép | 0 | **8.6** | `python -m ccba_legal ingest "TCVN 5575:2024" --category 03_tcvn --upload-drive` |
-| 4 | **[TCVN 9386:2025](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9386-1-2025-Thiet-ke-ket-cau-chiu-dong-dat-Phan-1-Quy-dinh-chung-cho-nha-922314.aspx)** | Thiết kế công trình chịu động đất (Phần 1 & Phần 5) | Kháng chấn | 0 | **8.5** | `python -m ccba_legal ingest "TCVN 9386:2025" --category 03_tcvn --upload-drive` |
-| 5 | **[TCVN 4513:1988](https://thuvienphapluat.vn/TCVN/Tai-nguyen-Moi-truong/TCVN-4513-1988-cap-nuoc-ben-trong-tieu-chuan-thiet-ke-901934.aspx)** | Cấp nước bên trong — Tiêu chuẩn thiết kế | MEP Cấp nước | 0 | **8.3** | `python -m ccba_legal ingest "TCVN 4513:1988" --category 03_tcvn --upload-drive` |
-| 6 | **[TCVN 4474:1987](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-4474-1987-Thoat-nuoc-ben-trong-Tieu-chuan-thiet-ke-901988.aspx)** | Thoát nước bên trong — Tiêu chuẩn thiết kế | MEP Thoát nước | 0 | **8.1** | `python -m ccba_legal ingest "TCVN 4474:1987" --category 03_tcvn --upload-drive` |
+*✅ Đã hoàn thành 100% các văn bản trong tầng này!*
 
 ### 🟡 TIER 3: Hạ Tầng Kỹ Thuật Đô Thị & Địa Kỹ Thuật Nền Móng
 
-| STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
-|:---:|:---|:---|:---:|:---:|:---:|:---|
-| 1 | **[QCVN 07:2023/BXD](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-15-2023-TT-BXD-Quy-chuan-quoc-gia-QCVN-07-2023-BXD-He-thong-cong-trinh-ha-tang-ky-thuat-595312.aspx)** | Quy chuẩn kỹ thuật quốc gia về Hệ thống công trình hạ tầng kỹ thuật (Gồm 10 phần từ 07-1 đến 07-10) | Hạ tầng đô thị | 0 | **8.0** | `python -m ccba_legal ingest "15/2023/TT-BXD" --category 02_qcvn --upload-drive` |
-| 2 | **[TCVN 10304:2014](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-10304-2014-Mong-coc-Tieu-chuan-thiet-ke-912335.aspx)** | Móng cọc — Tiêu chuẩn thiết kế | Địa kỹ thuật | 0 | **7.9** | `python -m ccba_legal ingest "TCVN 10304:2014" --category 03_tcvn --upload-drive` |
-| 3 | **[TCVN 9362:2012](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9362-2012-Tieu-chuan-thiet-ke-nen-nha-va-cong-trinh-906970.aspx)** | Tiêu chuẩn thiết kế nền nhà và công trình | Địa kỹ thuật | 2 | **7.9** | `python -m ccba_legal ingest "TCVN 9362:2012" --category 03_tcvn --upload-drive` |
-| 4 | **[QCVN 03:2023/BCA](https://thuvienphapluat.vn/TCVN/Linh-vuc-khac/QCVN-03-2023-BCA-phuong-tien-phong-chay-chua-chay-920561.aspx)** | Quy chuẩn kỹ thuật quốc gia về Phương tiện phòng cháy và chữa cháy | PCCC | 0 | **7.7** | `python -m ccba_legal ingest "56/2023/TT-BCA" --category 02_qcvn --upload-drive` |
+*✅ Đã hoàn thành 100% các văn bản trong tầng này!*
 
 ### 🔵 TIER 4: Chuẩn Hóa Thể Loại Công Trình & Quản Trị BIM ISO
 
@@ -101,6 +79,16 @@ graph TD
 | **QCVN 10:2025/BCA** | Quy chuẩn kỹ thuật quốc gia về Trang bị, bố trí phương tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ cho nhà và công trình | PCCC | 2025-12-30 | 🟢 `INGESTED` |
 | **QCVN 13:2018/BXD** | Quy chuẩn kỹ thuật quốc gia về Gara ô tô | PCCC / KT | 2019-03-15 | 🟢 `INGESTED` |
 | **QCVN 12:2014/BXD** | Quy chuẩn kỹ thuật quốc gia về Hệ thống điện của nhà ở và nhà công cộng | MEP Điện | 2015-07-01 | 🟢 `INGESTED` |
+| **TCVN 5687:2024** | Thông gió và điều hòa không khí — Tiêu chuẩn thiết kế | MEP HVAC | 2024-02-07 | 🟢 `INGESTED` |
+| **TCVN 5575:2024** | Kết cấu thép — Tiêu chuẩn thiết kế | Kết cấu Thép | 2024-12-24 | 🟢 `INGESTED` |
+| **TCVN 9386:2025** | Thiết kế công trình chịu động đất (Phần 1 & Phần 5) | Kháng chấn | 2025-12-31 | 🟢 `INGESTED` |
+| **TCVN 9385:2012** | Chống sét cho công trình xây dựng — Hướng dẫn thiết kế, kiểm tra và bảo trì | MEP Điện | 2012-12-20 | 🟢 `INGESTED` |
+| **TCVN 4513:1988** | Cấp nước bên trong — Tiêu chuẩn thiết kế | MEP Cấp nước | 1988-01-01 | 🟢 `INGESTED` |
+| **TCVN 4474:1987** | Thoát nước bên trong — Tiêu chuẩn thiết kế | MEP Thoát nước | 1987-01-01 | 🟢 `INGESTED` |
+| **QCVN 07:2023/BXD** | Quy chuẩn kỹ thuật quốc gia về Hệ thống công trình hạ tầng kỹ thuật (Gồm 10 phần từ 07-1 đến 07-10) | Hạ tầng đô thị | 2024-07-01 | 🟢 `INGESTED` |
+| **TCVN 10304:2014** | Móng cọc — Tiêu chuẩn thiết kế | Địa kỹ thuật | 2014-12-31 | 🟢 `INGESTED` |
+| **TCVN 9362:2012** | Tiêu chuẩn thiết kế nền nhà và công trình | Địa kỹ thuật | 2012-12-20 | 🟢 `INGESTED` |
+| **QCVN 03:2023/BCA** | Quy chuẩn kỹ thuật quốc gia về Phương tiện phòng cháy và chữa cháy | PCCC | 2024-04-01 | 🟢 `INGESTED` |
 
 ---
 

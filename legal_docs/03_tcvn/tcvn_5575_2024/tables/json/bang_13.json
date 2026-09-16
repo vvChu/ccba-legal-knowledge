@@ -1,0 +1,43 @@
+{
+  "table_id": "bang_13",
+  "table_number": "13",
+  "table_title": "Bảng 13 - Hệ số $c_{cr}$ cho dầm cấp 1 có tiết diện đối xứng khi $\\sigma_{loc}$ = 0",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Liên kết cánh với bụng dầm",
+    "Giá trị $c_{cr}$ khi δ bằng — ≤ 0,8",
+    "Giá trị $c_{cr}$ khi δ bằng — 1,0",
+    "Giá trị $c_{cr}$ khi δ bằng — 2,0",
+    "Giá trị $c_{cr}$ khi δ bằng — 4,0",
+    "Giá trị $c_{cr}$ khi δ bằng — 6,0",
+    "Giá trị $c_{cr}$ khi δ bằng — 10,0",
+    "Giá trị $c_{cr}$ khi δ bằng — ≥ 30,0"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Liên kết cánh với bụng dầm": "1. Liên kết hàn",
+      "Giá trị $c_{cr}$ khi δ bằng — ≤ 0,8": "30,0",
+      "Giá trị $c_{cr}$ khi δ bằng — 1,0": "31,5",
+      "Giá trị $c_{cr}$ khi δ bằng — 2,0": "33,3",
+      "Giá trị $c_{cr}$ khi δ bằng — 4,0": "34,6",
+      "Giá trị $c_{cr}$ khi δ bằng — 6,0": "34,8",
+      "Giá trị $c_{cr}$ khi δ bằng — 10,0": "35,1",
+      "Giá trị $c_{cr}$ khi δ bằng — ≥ 30,0": "35,5"
+    },
+    {
+      "_row_id": 2,
+      "Liên kết cánh với bụng dầm": "2. Liên kết ma sát",
+      "Giá trị $c_{cr}$ khi δ bằng — ≤ 0,8": "35,2",
+      "Giá trị $c_{cr}$ khi δ bằng — 1,0": "35,2",
+      "Giá trị $c_{cr}$ khi δ bằng — 2,0": "35,2",
+      "Giá trị $c_{cr}$ khi δ bằng — 4,0": "35,2",
+      "Giá trị $c_{cr}$ khi δ bằng — 6,0": "35,2",
+      "Giá trị $c_{cr}$ khi δ bằng — 10,0": "35,2",
+      "Giá trị $c_{cr}$ khi δ bằng — ≥ 30,0": "35,2"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Với các giá trị trung gian của δ thì giá trị $c_{cr}$ được xác định bằng nội suy tuyến tính."
+  }
+}

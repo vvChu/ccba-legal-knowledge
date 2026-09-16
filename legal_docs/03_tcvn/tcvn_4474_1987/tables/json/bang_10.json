@@ -1,0 +1,22 @@
+{
+  "table_id": "bang_10",
+  "table_number": "10",
+  "table_title": "Bảng 10",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Chiều dày lớp đất yếu (m)",
+    "Chiều dài rãnh (m) — Khi đường kính ống (mm) — đến 100",
+    "Chiều dài rãnh (m) — Khi đường kính ống (mm) — Từ 101 đến 300",
+    "Chiều dài rãnh (m) — Khi đường kính ống (mm) — Trên 300"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Chiều dày lớp đất yếu (m)": "Từ 5 đến 12\nLớn hơn 12",
+      "Chiều dài rãnh (m) — Khi đường kính ống (mm) — đến 100": "5\n7,5",
+      "Chiều dài rãnh (m) — Khi đường kính ống (mm) — Từ 101 đến 300": "7,5\n10",
+      "Chiều dài rãnh (m) — Khi đường kính ống (mm) — Trên 300": "10\n15"
+    }
+  ],
+  "footnotes": []
+}

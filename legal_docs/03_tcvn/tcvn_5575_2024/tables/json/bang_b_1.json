@@ -1,0 +1,87 @@
+{
+  "table_id": "bang_b_1",
+  "table_number": "B.1",
+  "table_title": "Bảng B.1 - Các tính chất vật lý của vật liệu dùng cho kết cấu thép",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Các tính chất vật lý",
+    "Giá trị"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Các tính chất vật lý": "1. Khối lượng riêng ρ, kg/ $m^{3}$:",
+      "Giá trị": ""
+    },
+    {
+      "_row_id": 2,
+      "Các tính chất vật lý": "a) Thép cán và khối đúc bằng thép",
+      "Giá trị": "7 850"
+    },
+    {
+      "_row_id": 3,
+      "Các tính chất vật lý": "b) Khối đúc bằng gang",
+      "Giá trị": "7 200"
+    },
+    {
+      "_row_id": 4,
+      "Các tính chất vật lý": "2. Hệ số giãn dài do nhiệt α, $^{o}$C-1",
+      "Giá trị": "0,12x10$^{-4}$"
+    },
+    {
+      "_row_id": 5,
+      "Các tính chất vật lý": "3. Mô đun đàn hồi E, MPa:",
+      "Giá trị": ""
+    },
+    {
+      "_row_id": 6,
+      "Các tính chất vật lý": "a) Thép cán và khối đúc bằng thép",
+      "Giá trị": "2,06x10$^{5}$"
+    },
+    {
+      "_row_id": 7,
+      "Các tính chất vật lý": "b) Khối đúc bằng gang",
+      "Giá trị": "0,85x10$^{5}$"
+    },
+    {
+      "_row_id": 8,
+      "Các tính chất vật lý": "c) Cáp thép:",
+      "Giá trị": ""
+    },
+    {
+      "_row_id": 9,
+      "Các tính chất vật lý": "&nbsp;&nbsp;\\- Bó và tao cáp các sợi thép song song",
+      "Giá trị": "1,96x10$^{5}$"
+    },
+    {
+      "_row_id": 10,
+      "Các tính chất vật lý": "&nbsp;&nbsp;\\- Cáp xoắn và cáp kín chịu lực",
+      "Giá trị": "1,67x10$^{5}$"
+    },
+    {
+      "_row_id": 11,
+      "Các tính chất vật lý": "&nbsp;&nbsp;\\- Cáp bện đôi",
+      "Giá trị": "1,47x10$^{5}$"
+    },
+    {
+      "_row_id": 12,
+      "Các tính chất vật lý": "&nbsp;&nbsp;\\- Cáp bện đôi lõi thép",
+      "Giá trị": "1,27x10$^{5}$"
+    },
+    {
+      "_row_id": 13,
+      "Các tính chất vật lý": "4. Mô đun trượt của thép cán và khối đúc bằng thép G, MPa",
+      "Giá trị": "0,79x10$^{5}$"
+    },
+    {
+      "_row_id": 14,
+      "Các tính chất vật lý": "5. Hệ số nở ngang (hệ số Poát xông)",
+      "Giá trị": "0,3"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Để có thông tin đầy đủ, xem các tiêu chuẩn sản phẩm đối với cáp thép.",
+    "fn_2": "CHÚ THÍCH 2: Để có thông tin đầy đủ, xem các tiêu chuẩn sản phẩm đối với cáp thép.",
+    "fn_3": "**CHÚ THÍCH:** Các giá trị mô đun đàn hồi nêu trong bảng là dành cho cáp có lực căng trước không nhỏ hơn 60 % lực kéo đứt cáp."
+  }
+}

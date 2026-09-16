@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_c_2",
+  "table_number": "C.2",
+  "table_title": "Bảng C.2 - Yêu cầu đối với bu lông trong các điều kiện áp dụng khác nhau",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Cấp độ bền của bu lông trong các kết cấu khi bu lông làm việc — chịu kéo",
+    "Cấp độ bền của bu lông trong các kết cấu khi bu lông làm việc — chịu cắt"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp độ bền của bu lông trong các kết cấu khi bu lông làm việc — chịu kéo": "**5.6**",
+      "Cấp độ bền của bu lông trong các kết cấu khi bu lông làm việc — chịu cắt": ""
+    },
+    {
+      "_row_id": 2,
+      "Cấp độ bền của bu lông trong các kết cấu khi bu lông làm việc — chịu kéo": "**5.8**",
+      "Cấp độ bền của bu lông trong các kết cấu khi bu lông làm việc — chịu cắt": ""
+    },
+    {
+      "_row_id": 3,
+      "Cấp độ bền của bu lông trong các kết cấu khi bu lông làm việc — chịu kéo": "**8.8**",
+      "Cấp độ bền của bu lông trong các kết cấu khi bu lông làm việc — chịu cắt": ""
+    },
+    {
+      "_row_id": 4,
+      "Cấp độ bền của bu lông trong các kết cấu khi bu lông làm việc — chịu kéo": "**10.9**",
+      "Cấp độ bền của bu lông trong các kết cấu khi bu lông làm việc — chịu cắt": ""
+    },
+    {
+      "_row_id": 5,
+      "Cấp độ bền của bu lông trong các kết cấu khi bu lông làm việc — chịu kéo": "**12.9**",
+      "Cấp độ bền của bu lông trong các kết cấu khi bu lông làm việc — chịu cắt": ""
+    }
+  ],
+  "footnotes": []
+}

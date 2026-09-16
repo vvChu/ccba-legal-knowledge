@@ -1,0 +1,50 @@
+{
+  "table_id": "bang_06",
+  "table_number": "6",
+  "table_title": "Bảng 6 - Bảng tra giá trị hệ số B (theo dạng kết cấu công trình)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Dạng kết cấu công trình",
+    "Giá trị hệ số B"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Dạng kết cấu công trình": "Khung thép hoặc Bê tông cốt thép có mái kim loại",
+      "Giá trị hệ số B": "0,1"
+    },
+    {
+      "_row_id": 2,
+      "Dạng kết cấu công trình": "Khung thép có mái không phải bằng kim loại (x)",
+      "Giá trị hệ số B": "0,2"
+    },
+    {
+      "_row_id": 3,
+      "Dạng kết cấu công trình": "Bê tông cốt thép có mái không phải bằng kim loại",
+      "Giá trị hệ số B": "0,4"
+    },
+    {
+      "_row_id": 4,
+      "Dạng kết cấu công trình": "Thể xây có mái không phải bằng kim loại hoặc tranh tre nứa lá",
+      "Giá trị hệ số B": "1,0"
+    },
+    {
+      "_row_id": 5,
+      "Dạng kết cấu công trình": "Khung gỗ có mái không phải bằng kim loại hoặc tranh tre nứa lá",
+      "Giá trị hệ số B": "1,4"
+    },
+    {
+      "_row_id": 6,
+      "Dạng kết cấu công trình": "Thể xây, khung gỗ có mái bằng kim loại",
+      "Giá trị hệ số B": "1,7"
+    },
+    {
+      "_row_id": 7,
+      "Dạng kết cấu công trình": "Các công trình có mái bằng tranh tre nứa lá",
+      "Giá trị hệ số B": "2,0"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** x) Các kết cấu có bộ phận kim loại trên nóc mái và có tính dẫn điện liên tục xuống đất thì không cần theo bảng này"
+  }
+}

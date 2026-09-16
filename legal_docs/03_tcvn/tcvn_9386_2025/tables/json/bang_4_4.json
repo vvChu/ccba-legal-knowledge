@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_4_4",
+  "table_number": "4.4",
+  "table_title": "Bảng 4.4 - Giá trị $q_{a}$ đối với các bộ phận phi kết cấu",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Dạng bộ phận phi kết cấu",
+    "$q_{a}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Dạng bộ phận phi kết cấu": "Lan can, phù điều dạng công xôn\nBảng quảng cáo, bảng tín hiệu\nỐng khói, cột, bể chứa đặt lên cột làm việc như các công xôn không giằng trong đoạn có chiều dài lớn hơn 1/2 chiều cao tổng thể của chúng",
+      "$q_{a}$": "1,0"
+    },
+    {
+      "_row_id": 2,
+      "Dạng bộ phận phi kết cấu": "Tường ngoài, tường trong\nVách ngăn, mặt tiền\nỐng khói, cột, bể chứa đặt lên cột làm việc như các công xôn không giằng trong đoạn có chiều dài bé hơn 1/2 chiều cao tổng thể của chúng hoặc giằng hoặc neo với kết cấu ở ngay tại hoặc trên tâm khối lượng\nCấu kiện neo giữ cho tủ, giá sách đặt thường xuyên trên sàn nhà\nCấu kiện neo giữ cho trần giả và các thiết bị cố định nhẹ khác",
+      "$q_{a}$": "2,0"
+    }
+  ],
+  "footnotes": []
+}

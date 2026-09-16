@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Cường độ tính toán của thép cán, thép uốn định hình và thép ống",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Trạng thái ứng suất",
+    "Công thức tính các cường độ tính toán"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Trạng thái ứng suất": "1. Kéo, nén, uốn:\na) Theo giới hạn chảy\nb) Theo giới hạn bền kéo",
+      "Công thức tính các cường độ tính toán": "$f_{yd}$ = $f_{y}$ / $\\gamma_{m}$\n$f_{ud}$ = $f_{u}$ / $\\gamma_{m}$"
+    },
+    {
+      "_row_id": 2,
+      "Trạng thái ứng suất": "2. Trượt",
+      "Công thức tính các cường độ tính toán": "$f_{v}$ = 0,58 $f_{y}$/ $\\gamma_{m}$"
+    },
+    {
+      "_row_id": 3,
+      "Trạng thái ứng suất": "3. Ép mặt tì đầu (khi tì sát)",
+      "Công thức tính các cường độ tính toán": "$f_{c}$ = $f_{u}$ / $\\gamma_{m}$"
+    },
+    {
+      "_row_id": 4,
+      "Trạng thái ứng suất": "4. Ép trong ổ trục khi tiếp xúc chặt",
+      "Công thức tính các cường độ tính toán": "$f_{cc}$ = 0,5 $f_{u}$ / $\\gamma_{m}$"
+    },
+    {
+      "_row_id": 5,
+      "Trạng thái ứng suất": "5. Ép theo đường kính con lăn (khi tiếp xúc tự do trong các kết cấu có độ di động hạn chế)",
+      "Công thức tính các cường độ tính toán": "$f_{cd}$ = 0,025 $f_{u}$ / $\\gamma_{m}$"
+    }
+  ],
+  "footnotes": []
+}

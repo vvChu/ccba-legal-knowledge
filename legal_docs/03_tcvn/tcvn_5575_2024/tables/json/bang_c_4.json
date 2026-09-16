@@ -1,0 +1,63 @@
+{
+  "table_id": "bang_c_4",
+  "table_number": "C.4",
+  "table_title": "Bảng C.4 - Các cường độ tiêu chuẩn của thép làm bu lông ($f_{ub}$, $f_{yb}$), cường độ chịu cắt tính toán $f_{vb}$ và chịu kéo tính toán $f_{tb}$ của liên kết một bu lông",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Cấp độ bền của bu lông",
+    "Các cường độ tiêu chuẩn — $f_{ub}$",
+    "Các cường độ tiêu chuẩn — $f_{yb}$",
+    "Các cường độ tính toán — $f_{vb}$",
+    "Các cường độ tính toán — $f_{tb}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp độ bền của bu lông": "5.6",
+      "Các cường độ tiêu chuẩn — $f_{ub}$": "500",
+      "Các cường độ tiêu chuẩn — $f_{yb}$": "300",
+      "Các cường độ tính toán — $f_{vb}$": "210",
+      "Các cường độ tính toán — $f_{tb}$": "225"
+    },
+    {
+      "_row_id": 2,
+      "Cấp độ bền của bu lông": "5.8",
+      "Các cường độ tiêu chuẩn — $f_{ub}$": "500",
+      "Các cường độ tiêu chuẩn — $f_{yb}$": "400",
+      "Các cường độ tính toán — $f_{vb}$": "210",
+      "Các cường độ tính toán — $f_{tb}$": "210"
+    },
+    {
+      "_row_id": 3,
+      "Cấp độ bền của bu lông": "8.8",
+      "Các cường độ tiêu chuẩn — $f_{ub}$": "830",
+      "Các cường độ tiêu chuẩn — $f_{yb}$": "660",
+      "Các cường độ tính toán — $f_{vb}$": "332",
+      "Các cường độ tính toán — $f_{tb}$": "448"
+    },
+    {
+      "_row_id": 4,
+      "Cấp độ bền của bu lông": "10.9",
+      "Các cường độ tiêu chuẩn — $f_{ub}$": "1 040",
+      "Các cường độ tiêu chuẩn — $f_{yb}$": "940",
+      "Các cường độ tính toán — $f_{vb}$": "416",
+      "Các cường độ tính toán — $f_{tb}$": "728"
+    },
+    {
+      "_row_id": 5,
+      "Cấp độ bền của bu lông": "12.9",
+      "Các cường độ tiêu chuẩn — $f_{ub}$": "1 220",
+      "Các cường độ tiêu chuẩn — $f_{yb}$": "1 100",
+      "Các cường độ tính toán — $f_{vb}$": "427",
+      "Các cường độ tính toán — $f_{tb}$": "854"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Các công thức tính $f_{vb}$ và $f_{tb}$ nêu trong Bảng 5.",
+    "fn_2": "CHÚ THÍCH 2: Các công thức tính $f_{vb}$ và $f_{tb}$ nêu trong Bảng 5.",
+    "fn_3": "CHÚ THÍCH 2: Các công thức tính $f_{vb}$ và $f_{tb}$ nêu trong Bảng 5.",
+    "fn_4": "CHÚ THÍCH 2: Các công thức tính $f_{vb}$ và $f_{tb}$ nêu trong Bảng 5.",
+    "fn_5": "CHÚ THÍCH 2: Các công thức tính $f_{vb}$ và $f_{tb}$ nêu trong Bảng 5.",
+    "fn_6": "**CHÚ THÍCH:** Các giá trị $f_{ub}$ và $f_{yb}$ lấy theo TCVN 1916:1995."
+  }
+}

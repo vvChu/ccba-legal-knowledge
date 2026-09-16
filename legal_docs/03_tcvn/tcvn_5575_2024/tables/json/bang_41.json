@@ -1,0 +1,70 @@
+{
+  "table_id": "bang_41",
+  "table_number": "41",
+  "table_title": "Bảng 41 - Chiều cao đường hàn góc tối thiểu $h_{f}$",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Dạng liên kết",
+    "Phương pháp hàn",
+    "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 4; ≤ 5",
+    "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 6; ≤ 10",
+    "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 11; ≤ 16",
+    "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 17; ≤ 22",
+    "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 23; ≤ 32",
+    "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 33; ≤ 40"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Dạng liên kết": "1. Liên kết chữ T với đường hàn góc hai bên; liên kết ghép chồng và liên kết góc",
+      "Phương pháp hàn": "Hồ quang tay, tự động và cơ giới",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 4; ≤ 5": "3",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 6; ≤ 10": "4",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 11; ≤ 16": "6",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 17; ≤ 22": "10",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 23; ≤ 32": "12",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 33; ≤ 40": "16"
+    },
+    {
+      "_row_id": 2,
+      "Dạng liên kết": "2. Liên kết góc và liên kết chữ T với đường hàn góc một bên",
+      "Phương pháp hàn": "Hồ quang tay, tự động và cơ giới",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 4; ≤ 5": "3",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 6; ≤ 10": "5",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 11; ≤ 16": "8",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 17; ≤ 22": "12",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 23; ≤ 32": "16",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 33; ≤ 40": "22"
+    },
+    {
+      "_row_id": 3,
+      "Dạng liên kết": "**1) Với điều kiện t ≥ 0,6T, trong đó t là chiều dày cấu kiện được hàn mỏng nhất.**",
+      "Phương pháp hàn": "",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 4; ≤ 5": "",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 6; ≤ 10": "",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 11; ≤ 16": "",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 17; ≤ 22": "",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 23; ≤ 32": "",
+      "Giá trị $h_{f}$, mm, khi chiều dày cấu kiện được hàn dày nhất T 1) , mm — ≥ 33; ≤ 40": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Đối với tất cả các thép với chiều dày lớn hơn 40 mm, chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán.",
+    "fn_2": "CHÚ THÍCH 3: Khi chiều dày của cấu kiện được hàn mỏng nhất t < 0,6T chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán, nhưng không lớn hơn 1,2t.",
+    "fn_3": "CHÚ THÍCH 2: Đối với tất cả các thép với chiều dày lớn hơn 40 mm, chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán.",
+    "fn_4": "CHÚ THÍCH 3: Khi chiều dày của cấu kiện được hàn mỏng nhất t < 0,6T chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán, nhưng không lớn hơn 1,2t.",
+    "fn_5": "CHÚ THÍCH 2: Đối với tất cả các thép với chiều dày lớn hơn 40 mm, chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán.",
+    "fn_6": "CHÚ THÍCH 3: Khi chiều dày của cấu kiện được hàn mỏng nhất t < 0,6T chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán, nhưng không lớn hơn 1,2t.",
+    "fn_7": "CHÚ THÍCH 2: Đối với tất cả các thép với chiều dày lớn hơn 40 mm, chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán.",
+    "fn_8": "CHÚ THÍCH 3: Khi chiều dày của cấu kiện được hàn mỏng nhất t < 0,6T chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán, nhưng không lớn hơn 1,2t.",
+    "fn_9": "CHÚ THÍCH 2: Đối với tất cả các thép với chiều dày lớn hơn 40 mm, chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán.",
+    "fn_10": "CHÚ THÍCH 3: Khi chiều dày của cấu kiện được hàn mỏng nhất t < 0,6T chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán, nhưng không lớn hơn 1,2t.",
+    "fn_11": "CHÚ THÍCH 2: Đối với tất cả các thép với chiều dày lớn hơn 40 mm, chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán.",
+    "fn_12": "CHÚ THÍCH 3: Khi chiều dày của cấu kiện được hàn mỏng nhất t < 0,6T chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán, nhưng không lớn hơn 1,2t.",
+    "fn_13": "CHÚ THÍCH 2: Đối với tất cả các thép với chiều dày lớn hơn 40 mm, chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán.",
+    "fn_14": "CHÚ THÍCH 3: Khi chiều dày của cấu kiện được hàn mỏng nhất t < 0,6T chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán, nhưng không lớn hơn 1,2t.",
+    "fn_15": "CHÚ THÍCH 2: Đối với tất cả các thép với chiều dày lớn hơn 40 mm, chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán.",
+    "fn_16": "CHÚ THÍCH 3: Khi chiều dày của cấu kiện được hàn mỏng nhất t < 0,6T chiều cao tối thiểu của đường hàn $h_{f}$ lấy theo tính toán, nhưng không lớn hơn 1,2t.",
+    "fn_17": "**CHÚ THÍCH:** Trong kết cấu làm bằng thép có giới hạn chảy lớn hơn 590 MPa, chiều cao tối thiểu của đường hàn lấy theo các khuyến nghị công nghệ chế tạo."
+  }
+}

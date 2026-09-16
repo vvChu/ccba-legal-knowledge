@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_20",
+  "table_number": "20",
+  "table_title": "Bảng 20 - Trị tiêu chuẩn của khối lượng thể tích đất đắp lại",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Phương pháp đầm đất đắp lại",
+    "Khối lượng thể tích đất đắp lại $^{tc}_{d}$ (T/m³) — Ở độ ẩm tự nhiên",
+    "Khối lượng thể tích đất đắp lại $^{tc}_{d}$ (T/m³) — Có kể đến tác dụng đẩy nổi của nước"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Phương pháp đầm đất đắp lại": "Đầm cơ giới",
+      "Khối lượng thể tích đất đắp lại $^{tc}_{d}$ (T/m³) — Ở độ ẩm tự nhiên": "1,7",
+      "Khối lượng thể tích đất đắp lại $^{tc}_{d}$ (T/m³) — Có kể đến tác dụng đẩy nổi của nước": "$\\frac{1,1}{0,9}$"
+    },
+    {
+      "_row_id": 2,
+      "Phương pháp đầm đất đắp lại": "Đầm tay",
+      "Khối lượng thể tích đất đắp lại $^{tc}_{d}$ (T/m³) — Ở độ ẩm tự nhiên": "1,7",
+      "Khối lượng thể tích đất đắp lại $^{tc}_{d}$ (T/m³) — Có kể đến tác dụng đẩy nổi của nước": "$\\frac{1,0}{0,8}$"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Tử số là trị khối lượng thể tích của đất sét còn mẫu số là khối lượng thể tích của đất cát."
+  }
+}

@@ -1,0 +1,30 @@
+id: tcvn_5575_2024
+document_number: TCVN 5575:2024
+title: TCVN 5575:2024 Thiết kế kết cấu thép
+type: Tiêu chuẩn quốc gia
+issued_by: Bộ Khoa học và Công nghệ
+signer: Tổng cục Tiêu chuẩn Đo lường Chất lượng
+issued_date: '2024-12-24'
+effective_date: '2024-12-24'
+status: active
+pdf_path: legal_docs/03_tcvn/tcvn_5575_2024/sources/tcvn_5575_2024.pdf
+pdf_sha256: d3e647a3e9282c1761d6bcd407bedf2dbe7096760ef5473b4c8ab15ed72cb3ae
+pdf_status: verified
+cong_bao_number: TCVN
+legal_basis: []
+replaces:
+- TCVN 5575:2012
+bundle_path: legal_docs/03_tcvn/tcvn_5575_2024/
+source_assets:
+  pdf:
+    sha256: d3e647a3e9282c1761d6bcd407bedf2dbe7096760ef5473b4c8ab15ed72cb3ae
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5575_2024/tcvn_5575_2024.pdf
+    status: verified
+  docx:
+    sha256: 283d169ee622a0d50143df62224c9cd3235511b2b4c2ef5f9b2d764c902594aa
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5575_2024/tcvn_5575_2024.docx
+    status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-14T13:56:43.075777+00:00'

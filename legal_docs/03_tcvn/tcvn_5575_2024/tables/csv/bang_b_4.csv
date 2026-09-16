@@ -1,0 +1,12 @@
+﻿Mác,Chất lượng,"Nhiệt độ, $^{o}$C","Năng lượng va đập nhỏ nhất, J, cho chiều dày danh nghĩa, mm 1) , 2) — ≤ 150"
+S235,B,20,27
+S235,C,0,27
+S235,D,-20,27
+S275,B,20,27
+S275,C,0,27
+S275,D,-20,27
+S355,B,20,27
+S355,C,0,27
+S355,D,-20,27
+S450 <sup>3)</sup>,C,0,27
+"**<sup>1)</sup> Đối với chiều dày danh nghĩa nhỏ hơn 12 mm, xem TCVN 9986-2:2013 (ISO 630-2:2011).<br><sup>2)</sup> Đối với thép hình có chiều dày danh nghĩa lớn hơn 100 mm, các giá trị này phải được thỏa thuận.<br><sup>3)</sup> Chỉ áp dụng cho sản phẩm dài.**",,,

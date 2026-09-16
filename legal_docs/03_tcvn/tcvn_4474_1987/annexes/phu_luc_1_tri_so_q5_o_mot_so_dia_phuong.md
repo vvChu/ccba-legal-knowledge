@@ -1,0 +1,13 @@
+
+<a id="phu-luc-1"></a>
+## PHỤ LỤC — Trị số q5 ở một số địa phương
+
+
+<a id="bang-bang-phu-luc-1"></a>
+### Bảng Phụ lục 1
+
+| STT | Trạm | q5 (1/s.ha) | Ghi chú |
+| :---: | :--- | :---: | :--- |
+| 1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20<br>21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>31<br>32<br>33<br>34<br>35<br>36<br>37<br>38<br>39<br>40<br>41<br>42<br>43<br>44<br>45<br>46<br>47 | Bắc Cạn<br>Bắc Giang<br>Bảo Lộc<br>Buôn Mê Thuột<br>Bắc Quang<br>Cà Mau<br>Cửa Tùng<br>Đô Lương<br>Đà Lạt<br>Đà Nẵng<br>Hoà Bình<br>Hải Dương<br>Hà Giang<br>Hồng Gai<br>Hà Nam<br>Huế<br>Hưng Yên<br>Hà Nội<br>Lào Cai<br>Lai Châu<br>Móng Cái<br>Ninh Bình<br>Nam Định<br>Nha Trang<br>Phù Liễn<br>Plâycu<br>Phan Thiết<br>Quy Nhơn<br>Quảng Ngãi<br>Quảng Trị<br>Thành phố Hồ Chí Minh<br>Sơn La<br>Sóc Trăng<br>Sơn Tây<br>Sapa<br>Thái Bình<br>Tam Đảo<br>Tây Hiếu<br>Tuy Hoà<br>Thanh Hoá<br>Thái Nguyên<br>Tuyên Quang<br>Vinh<br>Văn Lí<br>Việt Trì<br>Vĩnh Yên<br>Yên Bái | 421,9<br>433,3<br>506,26<br>387,7<br>611,14<br>507,4<br>384,28<br>450,30<br>416,2<br>370,6<br>384,6<br>450,4<br>390<br>478,9<br>433,3<br>370,6<br>450,4<br>484,6<br>450,4<br>391,2<br>524,5<br>507,4<br>433,3<br>281,68<br>461,8<br>392,26<br>326,14<br>342,1<br>416,2<br>421,9<br>496,0<br>370,6<br>450,4<br>484,6<br>262,3<br>484,6<br>547,3<br>404,8<br>356,92<br>427,6<br>564,4<br>440,14<br>450,40<br>452,68<br>509,68<br>472,06<br>478,9 | Hà Tuyên<br>Liên Khương<br>Láng<br>Hà Nam Ninh |
+
+> **CHÚ THÍCH:** Đối với các địa điểm xây dựng, không có trong danh mục trên có thể lấy trị số cường độ mưa của các địa phương lân cận để tính toán.

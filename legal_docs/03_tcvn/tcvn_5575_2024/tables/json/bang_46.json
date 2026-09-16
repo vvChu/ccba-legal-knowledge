@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_46",
+  "table_number": "46",
+  "table_title": "Bảng 46 - Các công thức tính toán liên kết cánh với bụng của dầm tổ hợp",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Đặc điểm của tải trọng",
+    "Dạng liên kết cánh với bụng",
+    "Công thức tính"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đặc điểm của tải trọng": "1. Cố định",
+      "Dạng liên kết cánh với bụng": "Hàn",
+      "Công thức tính": "$\\begin{aligned} \\frac{T}{n \\beta_f h_f f_{wf} \\gamma_c} &\\le 1 \\qquad (193) \\\\ \\frac{T}{n \\beta_s h_f f_{ws} \\gamma_c} &\\le 1 \\qquad (194) \\end{aligned}$"
+    },
+    {
+      "_row_id": 2,
+      "Đặc điểm của tải trọng": "1. Cố định",
+      "Dạng liên kết cánh với bụng": "Ma sát",
+      "Công thức tính": "$\\frac{T \\cdot s}{V_{vb} n_f \\gamma_c} \\leq 1 \\qquad (195)$"
+    },
+    {
+      "_row_id": 3,
+      "Đặc điểm của tải trọng": "2. Di động",
+      "Dạng liên kết cánh với bụng": "Hàn (đường hàn hai bên)",
+      "Công thức tính": "$\\begin{aligned} \\frac{\\sqrt{T^2 + p^2}}{2\\beta_t h_f f_{wf} \\gamma_c} &\\leq 1 \\qquad (196) \\\\ \\frac{\\sqrt{T^2 + p^2}}{2\\beta_s h_f f_{ws} \\gamma_c} &\\leq 1 \\qquad (197) \\end{aligned}$"
+    },
+    {
+      "_row_id": 4,
+      "Đặc điểm của tải trọng": "2. Di động",
+      "Dạng liên kết cánh với bụng": "Ma sát",
+      "Công thức tính": "$\\frac{s\\sqrt{T^2 + \\alpha^2 p^2}}{V_{vb} n_f \\gamma_c} \\leq 1 \\tag{198}$"
+    },
+    {
+      "_row_id": 5,
+      "Đặc điểm của tải trọng": "**Các ký hiệu trong Bảng 46:\nT = VS/I là lực trượt của cánh trên một đơn vị chiều dài do lực cắt V gây ra, trong đó S là mô men tĩnh của tiết diện nguyên của cánh dầm đối với trục trung tâm;\nn  là số đường hàn góc: khi hàn hai bên n = 2, khi hàn một bên n = 1;\n$V_{vb}$, $n_{f}$  là các đại lượng, được xác định theo 14.3.3 và 14.3.4;\np = $\\gamma_{t}\\gamma_{f1}F_{n}$/$L_{ef}$ là áp lực do tải trọng tập trung tiêu chuẩn $F_{n}$ trên một đơn vị chiều dài, được xác định có kể đến các yêu cầu trong 8.2.2 và 8.3.3 (đối với tải trọng tập trung cố định $\\gamma_{f1}$=1), với $\\gamma_{f}$ và $\\gamma_{f1}$ là các hệ số độ tin cậy về tải trọng, lấy theo TCVN 2737:2023;\ns  là bước bu lông của bản cánh;\nα  là hệ số, lấy bằng:\n0,4 - khi tải trọng đặt ở cánh trên mà bản bụng tì sát cánh trên;\n1,0 - khi bản bụng không tì sát cánh trên hoặc khi tải trọng đặt ở cánh dưới.**",
+      "Dạng liên kết cánh với bụng": "",
+      "Công thức tính": ""
+    }
+  ],
+  "footnotes": []
+}

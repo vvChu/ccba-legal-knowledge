@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_i_2",
+  "table_number": "I.2",
+  "table_title": "Bảng I.2 - Chiều dài tính toán $L_{ef}$ của các thanh làm bằng thép ống trong kết cấu rỗng",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Phương uốn dọc",
+    "Giá trị $L_{ef}$ của — thanh cánh, thanh xiên gối tựa và thanh đứng gối tựa",
+    "Giá trị $L_{ef}$ của — các thanh bụng khác — không/bóp bẹp đầu",
+    "Giá trị $L_{ef}$ của — các thanh bụng khác — có bóp bẹp — một hoặc hai đầu trong các mặt phẳng khác nhau",
+    "Giá trị $L_{ef}$ của — các thanh bụng khác — có bóp bẹp — hai đầu trong một mặt phẳng"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Phương uốn dọc": "1. Trong mặt phẳng hệ thanh bụng",
+      "Giá trị $L_{ef}$ của — thanh cánh, thanh xiên gối tựa và thanh đứng gối tựa": "L",
+      "Giá trị $L_{ef}$ của — các thanh bụng khác — không/bóp bẹp đầu": "0, 85L",
+      "Giá trị $L_{ef}$ của — các thanh bụng khác — có bóp bẹp — một hoặc hai đầu trong các mặt phẳng khác nhau": "0,9L",
+      "Giá trị $L_{ef}$ của — các thanh bụng khác — có bóp bẹp — hai đầu trong một mặt phẳng": "0,95L"
+    },
+    {
+      "_row_id": 2,
+      "Phương uốn dọc": "2. Theo phương vuông góc với mặt phẳng hệ thanh bụng (ngoài mặt phẳng)",
+      "Giá trị $L_{ef}$ của — thanh cánh, thanh xiên gối tựa và thanh đứng gối tựa": "$L_{1}$",
+      "Giá trị $L_{ef}$ của — các thanh bụng khác — không/bóp bẹp đầu": "0,85$L_{1}$",
+      "Giá trị $L_{ef}$ của — các thanh bụng khác — có bóp bẹp — một hoặc hai đầu trong các mặt phẳng khác nhau": "0,9$L_{1}$",
+      "Giá trị $L_{ef}$ của — các thanh bụng khác — có bóp bẹp — hai đầu trong một mặt phẳng": "0,95$L_{1}$"
+    },
+    {
+      "_row_id": 3,
+      "Phương uốn dọc": "**Các ký hiệu trong/bảng I.2:\nL là chiều dài hình học của thanh (khoảng cách giữa tâm các nút);\n$L_{1}$ là khoảng cách giữa các nút có liên kết chặn chuyển vị ngoài mặt phẳng hệ thanh bụng.**",
+      "Giá trị $L_{ef}$ của — thanh cánh, thanh xiên gối tựa và thanh đứng gối tựa": "",
+      "Giá trị $L_{ef}$ của — các thanh bụng khác — không/bóp bẹp đầu": "",
+      "Giá trị $L_{ef}$ của — các thanh bụng khác — có bóp bẹp — một hoặc hai đầu trong các mặt phẳng khác nhau": "",
+      "Giá trị $L_{ef}$ của — các thanh bụng khác — có bóp bẹp — hai đầu trong một mặt phẳng": ""
+    }
+  ],
+  "footnotes": []
+}

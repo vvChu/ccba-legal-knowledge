@@ -1,0 +1,92 @@
+{
+  "table_id": "bang_h_1",
+  "table_number": "H.1",
+  "table_title": "Bảng H.1 - Nhóm cấu kiện và liên kết kết cấu khi tính toán chịu mỏi",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Sơ đồ cấu kiện và vị trí của tiết diện tính toán",
+    "Đặc điểm của cấu kiện",
+    "Nhóm cấu kiện"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "1\n$Hình ảnh bạn cung cấp là một hình vẽ minh họa kỹ thuật (mặt cắt a-a của một thanh chịu kéo), không chứa công thức toán học. Do đó, không có mã LaTeX để chuyển đổi.$",
+      "Đặc điểm của cấu kiện": "Thép cơ bản có mép cán hoặc gia công cơ khí",
+      "Nhóm cấu kiện": "1"
+    },
+    {
+      "_row_id": 2,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "1\n$Hình ảnh bạn cung cấp là một hình vẽ minh họa kỹ thuật (mặt cắt a-a của một thanh chịu kéo), không chứa công thức toán học. Do đó, không có mã LaTeX để chuyển đổi.$",
+      "Đặc điểm của cấu kiện": "Thép cơ bản có mép cắt bằng máy cắt hơi",
+      "Nhóm cấu kiện": "2"
+    },
+    {
+      "_row_id": 3,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "2\n$Hình ảnh bạn cung cấp là một sơ đồ kỹ thuật (hình vẽ minh họa chi tiết trục bậc), không chứa công thức toán học. Do đó, không có nội dung để chuyển đổi sang mã LaTeX.$",
+      "Đặc điểm của cấu kiện": "Thép cơ bản có mép gia công cơ khí, khi có chiều rộng khác nhau và bán kính cong ở chỗ chuyển tiếp r là:",
+      "Nhóm cấu kiện": ""
+    },
+    {
+      "_row_id": 4,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "2\n$Hình ảnh bạn cung cấp là một sơ đồ kỹ thuật (hình vẽ minh họa chi tiết trục bậc), không chứa công thức toán học. Do đó, không có nội dung để chuyển đổi sang mã LaTeX.$",
+      "Đặc điểm của cấu kiện": "r = 200 mm\nr = 10 mm",
+      "Nhóm cấu kiện": "1\n4"
+    },
+    {
+      "_row_id": 5,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "3",
+      "Đặc điểm của cấu kiện": "Thép cơ bản trong liên kết ma sát",
+      "Nhóm cấu kiện": "1"
+    },
+    {
+      "_row_id": 6,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "4\na) $Xin lỗi, hình ảnh bạn cung cấp là hình vẽ minh họa kỹ thuật (mối ghép bu lông/đinh tán), không chứa công thức toán học để chuyển đổi sang LaTeX. Vui lòng cung cấp hình ảnh có chứa công thức nếu bạn cần hỗ trợ.$\nb) $Hình ảnh bạn cung cấp là một hình vẽ kỹ thuật mô tả chi tiết liên kết, không chứa công thức toán học. Do đó, không có nội dung để chuyển đổi sang mã LaTeX.$",
+      "Đặc điểm của cấu kiện": "Thép cơ bản trong liên kết bu lông (dùng bu lông cấp chính xác A) tại các tiết diện đi qua lỗ bu lông:",
+      "Nhóm cấu kiện": ""
+    },
+    {
+      "_row_id": 7,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "4\na) $Xin lỗi, hình ảnh bạn cung cấp là hình vẽ minh họa kỹ thuật (mối ghép bu lông/đinh tán), không chứa công thức toán học để chuyển đổi sang LaTeX. Vui lòng cung cấp hình ảnh có chứa công thức nếu bạn cần hỗ trợ.$\nb) $Hình ảnh bạn cung cấp là một hình vẽ kỹ thuật mô tả chi tiết liên kết, không chứa công thức toán học. Do đó, không có nội dung để chuyển đổi sang mã LaTeX.$",
+      "Đặc điểm của cấu kiện": "a) Khi dùng cặp bản ghép",
+      "Nhóm cấu kiện": "4"
+    },
+    {
+      "_row_id": 8,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "4\na) $Xin lỗi, hình ảnh bạn cung cấp là hình vẽ minh họa kỹ thuật (mối ghép bu lông/đinh tán), không chứa công thức toán học để chuyển đổi sang LaTeX. Vui lòng cung cấp hình ảnh có chứa công thức nếu bạn cần hỗ trợ.$\nb) $Hình ảnh bạn cung cấp là một hình vẽ kỹ thuật mô tả chi tiết liên kết, không chứa công thức toán học. Do đó, không có nội dung để chuyển đổi sang mã LaTeX.$",
+      "Đặc điểm của cấu kiện": "b) Khi dùng bản ghép một bên",
+      "Nhóm cấu kiện": "5"
+    },
+    {
+      "_row_id": 9,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "5\n$a, b, r$",
+      "Đặc điểm của cấu kiện": "Chỗ chuyển tiếp và lượn cong (phay) khi α ≥ 72° ; r ≥ 0,5b",
+      "Nhóm cấu kiện": "2"
+    },
+    {
+      "_row_id": 10,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "6\n$\\text{Hình ảnh kỹ thuật cấu kiện thép}$",
+      "Đặc điểm của cấu kiện": "Bản mã hình chữ nhật được hàn đối đầu hoặc chữ T với cấu kiện kết cấu mà không được gia công cơ khí mép chuyển tiếp từ bản mã đến cấu kiện",
+      "Nhóm cấu kiện": "7"
+    },
+    {
+      "_row_id": 11,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "7\n$Xin lỗi, hình ảnh bạn cung cấp chỉ chứa các sơ đồ kỹ thuật (hình vẽ kết cấu thép) chứ không chứa công thức toán học nào. Do đó không thể chuyển đổi thành mã LaTeX theo yêu cầu.$",
+      "Đặc điểm của cấu kiện": "Bản mã được hàn đối đầu hoặc chữ T với bản bụng và bản cánh của dầm, cũng như với các thanh giàn khi α ≤ 45°",
+      "Nhóm cấu kiện": "4"
+    },
+    {
+      "_row_id": 12,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "8\n$\\text{l-a}$",
+      "Đặc điểm của cấu kiện": "Bản mã hình chữ nhật hoặc hình thang được hàn ghép chồng với cánh dầm bằng đường hàn không gia công cơ khí quanh chu vi ghép chồng",
+      "Nhóm cấu kiện": "7"
+    },
+    {
+      "_row_id": 13,
+      "Sơ đồ cấu kiện và vị trí của tiết diện tính toán": "9\n$Hình ảnh bạn cung cấp là một hình vẽ kỹ thuật (minh họa mối hàn đối đầu), không chứa công thức toán học nào. Do đó, không có biểu thức LaTeX tương ứng để chuyển đổi.$",
+      "Đặc điểm của cấu kiện": "Đường hàn đối đầu không gia công; lực vuông góc với đường hàn; các cấu kiện được hàn có chiều rộng và chiều dày như nhau",
+      "Nhóm cấu kiện": "4"
+    }
+  ],
+  "footnotes": []
+}

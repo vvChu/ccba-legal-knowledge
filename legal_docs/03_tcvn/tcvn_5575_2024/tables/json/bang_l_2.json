@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_l_2",
+  "table_number": "L.2",
+  "table_title": "Bảng L.2 - Hệ số ζ",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Đường kính bu lông, $d_{b}$,mm",
+    "Giá trị ζ",
+    "Đường kính bu lông, $d_{b}$,mm",
+    "Giá trị ζ"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đường kính bu lông, $d_{b}$,mm": "≥ 56; ≤ 72",
+      "Giá trị ζ": "1,8"
+    },
+    {
+      "_row_id": 2,
+      "Đường kính bu lông, $d_{b}$,mm": "≥ 80; ≤ 90",
+      "Giá trị ζ": "2,0"
+    },
+    {
+      "_row_id": 3,
+      "Đường kính bu lông, $d_{b}$,mm": "≥ 100; ≤ 125",
+      "Giá trị ζ": "2,2"
+    },
+    {
+      "_row_id": 4,
+      "Đường kính bu lông, $d_{b}$,mm": "140",
+      "Giá trị ζ": "2,5"
+    },
+    {
+      "_row_id": 5,
+      "Đường kính bu lông, $d_{b}$,mm": "",
+      "Giá trị ζ": ""
+    }
+  ],
+  "footnotes": []
+}

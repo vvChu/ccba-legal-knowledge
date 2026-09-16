@@ -1,0 +1,64 @@
+{
+  "table_id": "bang_25",
+  "table_number": "25",
+  "table_title": "Bảng 25 - Chiều dài tính toán của các thanh chịu nén trong giàn phẳng và hệ giằng",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Phương uốn dọc của các thanh trong giàn phẳng và hệ giằng",
+    "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh cánh",
+    "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh xiên gối tựa, thanh đứng gối tựa",
+    "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — các thanh bụng khác"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Phương uốn dọc của các thanh trong giàn phẳng và hệ giằng": "1. Trong mặt phẳng giàn, $L_{ef}$ :\na) Đối với giàn, trừ giàn nêu ở điểm 1b",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh cánh": "L",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh xiên gối tựa, thanh đứng gối tựa": "L",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — các thanh bụng khác": "0,8L"
+    },
+    {
+      "_row_id": 2,
+      "Phương uốn dọc của các thanh trong giàn phẳng và hệ giằng": "b) Đối với giàn làm bằng các thanh là thép góc đơn và giàn có các thanh bụng liên kết chữ T với các thanh cánh",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh cánh": "L",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh xiên gối tựa, thanh đứng gối tựa": "L",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — các thanh bụng khác": "0,9L"
+    },
+    {
+      "_row_id": 3,
+      "Phương uốn dọc của các thanh trong giàn phẳng và hệ giằng": "2. Theo phương vuông góc với mặt phẳng giàn (ngoài mặt phẳng giàn), $L_{ef,1}$:",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh cánh": "",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh xiên gối tựa, thanh đứng gối tựa": "",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — các thanh bụng khác": ""
+    },
+    {
+      "_row_id": 4,
+      "Phương uốn dọc của các thanh trong giàn phẳng và hệ giằng": "a) Đối với giàn, trừ giàn nêu ở điểm 2b",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh cánh": "$L_{1}$",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh xiên gối tựa, thanh đứng gối tựa": "$L_{1}$",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — các thanh bụng khác": "$L_{1}$"
+    },
+    {
+      "_row_id": 5,
+      "Phương uốn dọc của các thanh trong giàn phẳng và hệ giằng": "b) Đối với giàn có các thanh bụng liên kết chữ T với các thanh cánh",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh cánh": "$L_{1}$",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh xiên gối tựa, thanh đứng gối tựa": "$L_{1}$",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — các thanh bụng khác": "0,9$L_{1}$"
+    },
+    {
+      "_row_id": 6,
+      "Phương uốn dọc của các thanh trong giàn phẳng và hệ giằng": "3. Theo phương bất kỳ $L_{ef}$ = $L_{ef,1}$ đối với giàn làm bằng các thanh là thép góc đơn khi khoảng cách giữa các điểm liên kết các thanh trong mặt phẳng và ngoài mặt phẳng giàn bằng nhau",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh cánh": "0,85L",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh xiên gối tựa, thanh đứng gối tựa": "L",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — các thanh bụng khác": "0,85L"
+    },
+    {
+      "_row_id": 7,
+      "Phương uốn dọc của các thanh trong giàn phẳng và hệ giằng": "**Các ký hiệu trong Bảng 25 (xem Hình 15):\nL  là chiều dài hình học của thanh (khoảng cách giữa tâm các nút gần nhau) trong mặt phẳng giàn;\n$L_{1}$  là khoảng cách giữa các nút có liên kết chặn chuyển vị ngoài mặt phẳng giàn (bởi các thanh cánh gián, các thanh giằng đặc biệt, các tấm mái cứng được hàn hoặc bắt bu lông chặt với cánh giàn và tương tự).**",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh cánh": "",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — thanh xiên gối tựa, thanh đứng gối tựa": "",
+      "Các giá trị $L_{ef}$ và $L_{ef,1}$ của — các thanh bụng khác": ""
+    }
+  ],
+  "footnotes": []
+}

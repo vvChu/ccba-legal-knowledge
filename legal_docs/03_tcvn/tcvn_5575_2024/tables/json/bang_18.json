@@ -1,0 +1,30 @@
+{
+  "table_id": "bang_18",
+  "table_number": "18",
+  "table_title": "Bảng 18 - Hệ số $c_{cr}$ cho dầm cấp 1 có tiết diện chữ I không đối xứng với cánh chịu nén mở rộng khi $\\sigma_{loc}$ = 0",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "α",
+    "1,0",
+    "1,2",
+    "1,4",
+    "1,6",
+    "1,8",
+    "2,0"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "α": "$c_{cr}$",
+      "1,0": "10,2",
+      "1,2": "12,7",
+      "1,4": "15,5",
+      "1,6": "20,0",
+      "1,8": "25,5",
+      "2,0": "30,0"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Với các giá trị trung gian của α thì giá trị $c_{cr}$ được xác định bằng nội suy tuyến tính."
+  }
+}

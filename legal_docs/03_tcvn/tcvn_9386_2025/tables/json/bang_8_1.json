@@ -1,0 +1,50 @@
+{
+  "table_id": "bang_8_1",
+  "table_number": "8.1",
+  "table_title": "Bảng 8.1 - Quan niệm thiết kế, các dạng kết cấu và trị số giới hạn trên của hệ số ứng xử đối với ba loại cấp độ dẻo",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Quan niệm thiết kế và cấp độ dẻo",
+    "q",
+    "Ví dụ về dạng kết cấu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Quan niệm thiết kế và cấp độ dẻo": "Kết cấu tiêu tán năng lượng thấp, DCL",
+      "q": "1,5",
+      "Ví dụ về dạng kết cấu": "Công xôn, dầm, vòm 2 hoặc 3 khớp; đàn được ghép bằng các đinh chống cắt."
+    },
+    {
+      "_row_id": 2,
+      "Quan niệm thiết kế và cấp độ dẻo": "Kết cấu tiêu tán năng lượng trung bình, DCM",
+      "q": "2",
+      "Ví dụ về dạng kết cấu": "Tấm tường với các tấm cứng dán keo, được liên kết bằng đinh và bu lông; đàn được liên kết chốt hoặc bu lông. Kết cấu hỗn hợp bao gồm khung gỗ (chịu lực ngang) và tường chèn không chịu lực."
+    },
+    {
+      "_row_id": 3,
+      "Quan niệm thiết kế và cấp độ dẻo": "Kết cấu tiêu tán năng lượng trung bình, DCM",
+      "q": "2,5",
+      "Ví dụ về dạng kết cấu": "Khung cổng siêu tĩnh với các liên kết chốt hoặc bu lông (xem 8.1.3(3))."
+    },
+    {
+      "_row_id": 4,
+      "Quan niệm thiết kế và cấp độ dẻo": "Kết cấu tiêu tán năng lượng cao, DCH",
+      "q": "3",
+      "Ví dụ về dạng kết cấu": "Tấm tường ghép bằng đinh với các tấm cứng được dán keo, được liên kết bằng đinh và bu lông; đàn có các liên kết đinh."
+    },
+    {
+      "_row_id": 5,
+      "Quan niệm thiết kế và cấp độ dẻo": "Kết cấu tiêu tán năng lượng cao, DCH",
+      "q": "4",
+      "Ví dụ về dạng kết cấu": "Khung công siêu tĩnh với các liên kết bu lông hoặc chốt (xem 8.1.3(3))."
+    },
+    {
+      "_row_id": 6,
+      "Quan niệm thiết kế và cấp độ dẻo": "Kết cấu tiêu tán năng lượng cao, DCH",
+      "q": "5",
+      "Ví dụ về dạng kết cấu": "Tấm tường ghép bằng đinh với các tấm cứng ghép bằng đinh, được liên kết bằng đinh và bu lông."
+    }
+  ],
+  "footnotes": []
+}

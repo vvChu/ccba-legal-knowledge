@@ -1,0 +1,56 @@
+{
+  "table_id": "bang_4_1",
+  "table_number": "4.1",
+  "table_title": "Bảng 4.1 - Các hệ quả của tính đều đặn của kết cấu trong phân tích và thiết kế chịu động đất",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tính đều đặn — Mặt bằng",
+    "Tính đều đặn — Mặt đứng",
+    "Được phép đơn giản hóa — Mô hình",
+    "Được phép đơn giản hóa — Phân tích đàn hồi - tuyến tính",
+    "Hệ số ứng xử — (Phân tích tuyến tính)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tính đều đặn — Mặt bằng": "Có",
+      "Tính đều đặn — Mặt đứng": "Có",
+      "Được phép đơn giản hóa — Mô hình": "Phẳng",
+      "Được phép đơn giản hóa — Phân tích đàn hồi - tuyến tính": "Lực $ngang^{a}$",
+      "Hệ số ứng xử — (Phân tích tuyến tính)": "Giá trị tham chiếu"
+    },
+    {
+      "_row_id": 2,
+      "Tính đều đặn — Mặt bằng": "Có",
+      "Tính đều đặn — Mặt đứng": "Không",
+      "Được phép đơn giản hóa — Mô hình": "Phẳng",
+      "Được phép đơn giản hóa — Phân tích đàn hồi - tuyến tính": "Dạng dao động",
+      "Hệ số ứng xử — (Phân tích tuyến tính)": "Giá trị suy giảm"
+    },
+    {
+      "_row_id": 3,
+      "Tính đều đặn — Mặt bằng": "Không",
+      "Tính đều đặn — Mặt đứng": "Có",
+      "Được phép đơn giản hóa — Mô hình": "Không $gian^{b}$",
+      "Được phép đơn giản hóa — Phân tích đàn hồi - tuyến tính": "Lực $ngang^{a}$",
+      "Hệ số ứng xử — (Phân tích tuyến tính)": "Giá trị tham chiếu"
+    },
+    {
+      "_row_id": 4,
+      "Tính đều đặn — Mặt bằng": "Không",
+      "Tính đều đặn — Mặt đứng": "Không",
+      "Được phép đơn giản hóa — Mô hình": "Không gian",
+      "Được phép đơn giản hóa — Phân tích đàn hồi - tuyến tính": "Dạng dao động",
+      "Hệ số ứng xử — (Phân tích tuyến tính)": "Giá trị suy giảm"
+    },
+    {
+      "_row_id": 5,
+      "Tính đều đặn — Mặt bằng": "**$^{a}$ Nếu điều kiện 4.3.3.2.1(2)a cũng được thỏa mãn.\n$^{b}$ Theo những điều kiện nêu trong 4.3.3.1(8), có thể sử dụng mô hình phẳng riêng rẽ theo mỗi phương ngang theo 4.3.3.1(8).**",
+      "Tính đều đặn — Mặt đứng": "",
+      "Được phép đơn giản hóa — Mô hình": "",
+      "Được phép đơn giản hóa — Phân tích đàn hồi - tuyến tính": "",
+      "Hệ số ứng xử — (Phân tích tuyến tính)": ""
+    }
+  ],
+  "footnotes": []
+}

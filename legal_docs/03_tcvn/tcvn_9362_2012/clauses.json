@@ -1,0 +1,3652 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 56,
+    "line_end": 56,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-1",
+    "anchor": "muc-1-1",
+    "title": "1.1  Tiêu chuẩn này được dùng để thiết kế nền nhà và công trình.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 60,
+    "line_end": 60,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-1-2",
+    "anchor": "muc-1-2",
+    "title": "1.2  Tiêu chuẩn này không dùng để thiết kế nền của công trình thủy lợi, cầu đường, sân bay, móng cọc cũng như nền móng chịu tải trọng động.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 64,
+    "line_end": 64,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  QUY ĐỊNH CHUNG",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 68,
+    "line_end": 68,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-2",
+    "anchor": "muc-2-2",
+    "title": "2.2  Việc nghiên cứu địa chất công trình của đất nền nhà và công trình phải thực hiện theo yêu cầu của các tiêu chuẩn áp dụng về khảo sát xây dựng cũng như phải tính đến đặc điểm kết cấu và đặc điểm sử dụng nhà và công trình.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 84,
+    "line_end": 84,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-3",
+    "anchor": "muc-2-3",
+    "title": "2.3  Kết quả nghiên cứu địa chất công trình phải gồm các tài Iiệu cần thiết để giải quyết các vấn đề:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 88,
+    "line_end": 88,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-4",
+    "anchor": "muc-2-4",
+    "title": "2.4  Không cho phép thiết kế nền nhà và công trình mà không có hoặc không đầy đủ căn cứ địa chất công trình tương ứng để giải quyết các vấn đề ở 2.3.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 98,
+    "line_end": 98,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-5",
+    "anchor": "muc-2-5",
+    "title": "2.5  Trong điều kiện cho phép, khi lập phương án nền và móng cần quy định việc ủi lớp đất trồng trọt để sau này sử dụng lại cho nông nghiệp (trồng trọt lại) hoặc đối với đất ít có giá trị nông nghiệp thì dùng để trồng cây xanh cho khu xây dựng ...",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 102,
+    "line_end": 102,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-2-6",
+    "anchor": "muc-2-6",
+    "title": "2.6  Trong phương án nền và móng của nhà và công trình của những trường hợp nêu ở 4.6.29 nên tiến hành đo biến dạng của nền theo các điểm mốc đặt sẵn.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 106,
+    "line_end": 106,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  PHÂN LOẠI ĐẤT NỀN",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 110,
+    "line_end": 110,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-1",
+    "anchor": "muc-3-1",
+    "title": "3.1  Khi mô tả kết quả khảo sát trong thiết kế nền móng và các phần khác nằm dưới mặt đất của nhà và công trình phải quy định tên đất theo phần này của tiêu chuẩn.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 114,
+    "line_end": 114,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2",
+    "anchor": "muc-3-2",
+    "title": "3.2  Đất đá được chia ra đá và đất",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 120,
+    "line_end": 120,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-1",
+    "anchor": "muc-3-2-1",
+    "title": "3.2.1  Đá gồm có phún xuất, biến chất và trầm tích có Iiên kết cứng giữa các hạt (dính kết và xi măng hóa) nằm thành khối Iiên tục hoặc khối nứt nẻ.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 124,
+    "line_end": 124,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-2-2",
+    "anchor": "muc-3-2-2",
+    "title": "3.2.2  Đất gồm có:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 128,
+    "line_end": 128,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-3",
+    "anchor": "muc-3-3",
+    "title": "3.3  Đá được chia ra thành từng loại theo Bảng 1 tùy thuộc vào:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 140,
+    "line_end": 140,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-01",
+    "anchor": "bang-bang-01",
+    "title": "Bảng 1 - Phân loại đá",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 152,
+    "line_end": 152,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-4",
+    "anchor": "muc-3-4",
+    "title": "3.4  Đất hòn lớn và đất cát tùy thuộc thành phần hạt được chia theo Bảng 2. Tên đất hòn lớn và đất cát quy định ở Bảng 2 cần ghi thêm độ không đồng nhất của thành phần hạt U, xác định theo công thức:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 162,
+    "line_end": 162,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-5",
+    "anchor": "muc-3-5",
+    "title": "3.5  Đất hòn lớn bị phong hóa trong các quá trình tự nhiên và chứa trên 10 % hạt có kích thước nhỏ hơn 2 mm, theo trị của hệ số phong hóa $K_{phd}$ chia ra theo Bảng 3.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 178,
+    "line_end": 178,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-02",
+    "anchor": "bang-bang-02",
+    "title": "Bảng 2 - Phân loại đất",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 182,
+    "line_end": 182,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-03",
+    "anchor": "bang-bang-03",
+    "title": "Bảng 3 - Phân loại đất theo mức độ phong hóa",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 194,
+    "line_end": 194,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-6",
+    "anchor": "muc-3-6",
+    "title": "3.6  Đất hòn lớn và đất cát được chia theo độ no nước G (phần nước chứa trong thể tích rỗng của đất) ghi trong Bảng 4.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 215,
+    "line_end": 215,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-04",
+    "anchor": "bang-bang-04",
+    "title": "Bảng 4 - Phân loại đất theo độ no nước",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 219,
+    "line_end": 219,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-7",
+    "anchor": "muc-3-7",
+    "title": "3.7  Cát được chia theo độ chặt nêu trong Bảng 5 tùy thuộc vào hệ số rỗng e; hệ số này xác định trong phòng thí nghiệm dựa vào mẫu nguyên dạng ở thế nằm tự nhiên của đất hoặc tùy thuộc vào kết quả xuyên đất.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 261,
+    "line_end": 261,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-05",
+    "anchor": "bang-bang-05",
+    "title": "Bảng 5 - Phân loại cát",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 265,
+    "line_end": 265,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-8",
+    "anchor": "muc-3-8",
+    "title": "3.8  Đất sét được chia theo chỉ số dẻo nêu trong Bảng 6.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 284,
+    "line_end": 284,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-06",
+    "anchor": "bang-bang-06",
+    "title": "Bảng 6 - Phân loại đất sét theo chỉ số dẻo",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 288,
+    "line_end": 288,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-9",
+    "anchor": "muc-3-9",
+    "title": "3.9  Đất sét được chia theo chỉ số sệt $I_{s}$ như trong Bảng 7.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 302,
+    "line_end": 302,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-07",
+    "anchor": "bang-bang-07",
+    "title": "Bảng 7 - Phân loại đất sét theo chỉ số sệt",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 306,
+    "line_end": 306,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-10",
+    "anchor": "muc-3-10",
+    "title": "3.10  Đất sét theo sức kháng xuyên đơn vị $p_{x}$ chia theo Bảng 8.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 334,
+    "line_end": 334,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-08",
+    "anchor": "bang-bang-08",
+    "title": "Bảng 8 - Phân loại đất sét theo sức kháng xuyên",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 338,
+    "line_end": 338,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-11",
+    "anchor": "muc-3-11",
+    "title": "3.11  Trong đất sét còn phải chia ra bùn (xem 3.12) đất lún ướt (xem 3.13 và 3.14) và đất trương nở (xem 3.15 và 3.16).",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 361,
+    "line_end": 361,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-12",
+    "anchor": "muc-3-12",
+    "title": "3.12  Bùn là đất sét ở giai đoạn đầu thành hình, được tạo bơi trầm tích cấu trúc trong nước có các quá trình vi sinh vật và ở kết cấu tự nhiên có độ ẩm vượt quá độ ẩm ở giới hạn chảy và hệ số rỗng vượt quá các trị số ghi ở Bảng 9. Tên bùn được quy định theo chỉ số dẻo nêu ở 3.8.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 365,
+    "line_end": 365,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-09",
+    "anchor": "bang-bang-09",
+    "title": "Bảng 9 - Hệ số rỗng của bùn sét",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 369,
+    "line_end": 369,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-13",
+    "anchor": "muc-3-13",
+    "title": "3.13  Đất lún ướt là đất sét mà dưới tác dụng của tải trọng ngoài hoặc trọng lượng bản thân khi thấm ướt, đất sẽ bị lún thêm.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 379,
+    "line_end": 379,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-10",
+    "anchor": "bang-bang-10",
+    "title": "Bảng 10 - Giới hạn của chỉ số s cho đất lún ướt",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 385,
+    "line_end": 385,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-14",
+    "anchor": "muc-3-14",
+    "title": "3.14  Đất lún ướt được đặc trưng bằng độ lún ướt tương đối và áp lực lún ướt ban đầu.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 411,
+    "line_end": 411,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-15",
+    "anchor": "muc-3-15",
+    "title": "3.15  Đất trương nở là đất sét khi bị thấm nước hoặc các dung dịch hóa học thì bị tăng thể tích mà trong điều kiện trương nở tự do (không có tải trọng) có độ nơ tương đối $_{tn}$ ≥ 0,4",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 439,
+    "line_end": 439,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-16",
+    "anchor": "muc-3-16",
+    "title": "3.16  Đất trương nở được đặc trưng bằng trị số áp lực nở $p_{tn}$, độ ẩm trương nở $W_{tn}$ và độ co tương đối khi khô $_{c}$.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 457,
+    "line_end": 457,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-17",
+    "anchor": "muc-3-17",
+    "title": "3.17  Trong loại đá nửa cứng và đất cần chia ra các loại đất nhiễm muối.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 477,
+    "line_end": 477,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-11",
+    "anchor": "bang-bang-11",
+    "title": "Bảng 11 - Phân loại đất nhiễm muối",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 483,
+    "line_end": 483,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-18",
+    "anchor": "muc-3-18",
+    "title": "3.18  Các tài liệu nghiên cứu của đất cát và đất sét phải có số liệu, các tàn tích thực vật nếu lượng chứa tương đối của nó tính theo trọng lượng q > 0,03 đối với đất cát và q > 0,05 đối với đất sét.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 491,
+    "line_end": 491,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-12",
+    "anchor": "bang-bang-12",
+    "title": "Bảng 12 - Phân loại đất có chứa tàn tích thực vật",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 499,
+    "line_end": 499,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-19",
+    "anchor": "muc-3-19",
+    "title": "3.19  Đất (không thuộc loại đá) được chia ra đất có nguồn gốc nhân tạo hoặc đất mượn.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 516,
+    "line_end": 516,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-20",
+    "anchor": "muc-3-20",
+    "title": "3.20  Đất đắp chia ra như ở Bảng 13.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 522,
+    "line_end": 522,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-13",
+    "anchor": "bang-bang-13",
+    "title": "Bảng 13 - Phân loại đất đắp",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 526,
+    "line_end": 526,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-3-21",
+    "anchor": "muc-3-21",
+    "title": "3.21  Đất được gia cố, dựa vào phương pháp gia cố mà phân chia ra gia cố để nâng cao độ bền, giảm tính nén lún và giảm khả năng thấm nước (silicat, nhựa, xi măng, bi tum, đất sét, gia cố bằng nhiệt...)",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 537,
+    "line_end": 537,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  THIẾT KẾ NỀN",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 547,
+    "line_end": 547,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Chỉ dẫn chung",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 551,
+    "line_end": 551,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-1-1",
+    "anchor": "muc-4-1-1",
+    "title": "4.1.1  Khi thiết kế nền nhà và công trình cần tính toán sao cho biến dạng của nền không được vượt quá trị số giới hạn cho phép để sử dụng công trình bình thường, còn sức chịu tải cần phải đủ để không xảy ra mất ổn định hoặc phá hoại nền.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 555,
+    "line_end": 555,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-1-2",
+    "anchor": "muc-4-1-2",
+    "title": "4.1.2  Việc thiết kế nền (theo yêu cầu của 2.1) phải dựa vào kết quả tính toán để chọn:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 559,
+    "line_end": 559,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-1-3",
+    "anchor": "muc-4-1-3",
+    "title": "4.1.3  Nền phải tính theo:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 569,
+    "line_end": 569,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-1-4",
+    "anchor": "muc-4-1-4",
+    "title": "4.1.4  Tính toán nền theo sức chịu tải phải tiến hành trong những trường hợp:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 581,
+    "line_end": 581,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-1-5",
+    "anchor": "muc-4-1-5",
+    "title": "4.1.5  Sơ đồ tính toán của hệ công trình - nền hoặc móng - nền phải chọn có kể đến các yếu tố quan trọng nhất, quyết định trạng thái ứng suất và biến dạng của nền và của kết cấu công trình (sơ đồ tĩnh học của công trình, đặc trưng lớp và các tính chất của đất nền, đặc điểm xây dựng ...). Trong trường hợp cần thiết phải kể đến sự làm việc không gian của kết cấu, tính phi tuyến hình học và vật lý, tính không đẳng hướng, các tính chất về dẻo và lưu biến của vật liệu và đất cũng như khả năng thay đổi các tính chất này.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 597,
+    "line_end": 597,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Những tải trọng được kể đến trong tính toán nền",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 601,
+    "line_end": 601,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-1",
+    "anchor": "muc-4-2-1",
+    "title": "4.2.1  Các tải trọng và tác động lên nền truyền qua móng nhà và công trình hoặc móng từng cấu kiện riêng lẻ phải xác định bằng tính toán xuất phát từ việc xét sự làm việc đồng thời của nhà (công trình) và nền hoặc móng với nền.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 605,
+    "line_end": 605,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Tính nền theo biến dạng cần tiến hành trên cơ sở tổ hợp cơ bản của tải trọng.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 619,
+    "line_end": 619,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-3",
+    "anchor": "muc-4-2-3",
+    "title": "4.2.3  Trong việc tính nền phải kể đến tải trọng của vật liệu kho và thiết bị đặt gần móng trên các dốc chân tường và trên mặt nền xây trực tiếp lên đất. Tải trọng này lấy theo toàn bộ diện tích gia tải thực tế.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 627,
+    "line_end": 627,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-2-4",
+    "anchor": "muc-4-2-4",
+    "title": "4.2.4  Khi tính nền của các mố cầu và cống, tải trọng và tác động phải lấy theo yêu cầu của tiêu chuẩn thiết kế cầu và cống.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 633,
+    "line_end": 633,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Trị tiêu chuẩn và trị tính toán các đặc trưng của đất",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 637,
+    "line_end": 637,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-1",
+    "anchor": "muc-4-3-1",
+    "title": "4.3.1  Các thông số cơ bản về tính chất cơ học của đất dùng để xác định sức chịu tải và biến dạng của nền là các đặc trưng về độ bền và biến dạng của đất (góc ma sát trong , lực dính đơn vị C và mô đun biến dạng của đất E, cường độ cực hạn về nén một trục của đá cứng $R_{n}$ ...)",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 641,
+    "line_end": 641,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-2",
+    "anchor": "muc-4-3-2",
+    "title": "4.3.2  Trị tiêu chuẩn các đặc trưng của đất cần xác định trên cơ sở những thí nghiệm trực tiếp làm tại hiện trường hoặc trong phòng thí nghiệm đối với đất có kết cấu tự nhiên cũng như đối với đất có nguồn gốc nhân tạo và đất mượn.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 649,
+    "line_end": 649,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-3",
+    "anchor": "muc-4-3-3",
+    "title": "4.3.3  Trị tiêu chuẩn của tất cả các đặc trưng của đất (trừ lực dính đơn vị và góc ma sát trong) là trị trung bình cộng các kết quả thí nghiệm riêng rẽ. Trị tiêu chuẩn của lực dính đơn vị và góc ma sát trong là các thông số tìm được bằng phương pháp bình phương bé nhất từ quan hệ đường thẳng giữa sức chống cắt và áp lực nền.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 653,
+    "line_end": 653,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-4",
+    "anchor": "muc-4-3-4",
+    "title": "4.3.4  Trong mọi trường hợp, khi tính nền phải dùng trị tính toán các đặc trưng của đất A, xác định theo công thức:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 657,
+    "line_end": 657,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-5",
+    "anchor": "muc-4-3-5",
+    "title": "4.3.5  Khi tìm trị tính toán của các đặc trưng về độ bền (lực dính đơn vị c, góc ma sát trong  của đất và cường độ giới hạn về nén một trục $R_{n}$ của đá cứng) cũng như khối lượng thể tích  thì hệ số an toàn về đất $k_{đ}$ dùng để tính nền theo sức chịu tải và theo biến dạng quy định ở 4.3.4 tùy thuộc vào sự thay đổi của các đặc trưng ấy, số lần thí nghiệm và trị xác suất tin cậy .",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 671,
+    "line_end": 671,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-3-7",
+    "anchor": "muc-4-3-7",
+    "title": "4.3.7  Để tính toán sơ bộ nền nhà và công trình thuộc mọi cấp cũng như để tính toán cuối cùng nền nhà và công trình cấp II - IV và móng trụ đường dây tải điện và dây thông tin không phụ thuộc vào cấp của chúng, cho phép xác định trị tiêu chuẩn và trị tính toán các đặc trưng về độ bền và biến dạng theo các đặc trưng vật lý nếu như xử lý thống kê của nhiều thí nghiệm xác định được quan hệ giữa các đặc trưng cơ học (về độ bền và biến dạng) với các đặc trưng vật lý của đất.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 697,
+    "line_end": 697,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4",
+    "anchor": "muc-4-4",
+    "title": "4.4  Nước trong đất",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 707,
+    "line_end": 707,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-1",
+    "anchor": "muc-4-4-1",
+    "title": "4.4.1  Khi thiết kế nền cần chú ý đến sự dao động mực nước trong đất (nước ngầm tầng mặt) theo từng mùa và trong nhiều năm cũng như khả năng hình thành mức nước trung bình mới cao hơn hoặc thấp hơn mức cũ.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 711,
+    "line_end": 711,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-2",
+    "anchor": "muc-4-4-2",
+    "title": "4.4.2  Tùy thuộc và điều kiện địa chất và địa chất thủy văn của vùng xây dựng, đặc điểm của nhà và công trình có hay không có quá trình công nghệ ướt cũng như các biện pháp kỹ thuật cân dùng trong quá trình xây dựng và sử dụng (đào móng, quy hoạch lãnh thổ, xây dựng và sử dụng màng lưới thoát nước, dẫn nước, cấp nước, cấp nhiệt,.) mà dự báo sự thay đổi mức nước ngầm có thể xảy ra.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 715,
+    "line_end": 715,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-3",
+    "anchor": "muc-4-4-3",
+    "title": "4.4.3  Dự báo sự thay đổi mức nước ngầm phải chú ý xác suất lớn nhất khi:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 719,
+    "line_end": 719,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-4",
+    "anchor": "muc-4-4-4",
+    "title": "4.4.4  Dựa vào kết quả khảo sát địa chất công trình và các dự báo trên cơ sở các tính toán đặc biệt mà xác định vị trí tính toán của mực nước ngầm và khả năng thay đổi độ ẩm của đất trong quá trình xây dựng và sử dụng nhà và công trình.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 733,
+    "line_end": 733,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-5",
+    "anchor": "muc-4-4-5",
+    "title": "4.4.5  Khi thiết kế nền nhà và công trình có quá trình công nghệ ướt phải dự kiến các biện pháp không cho nước sản xuất thấm vào đất nền hoặc tràn lên đất, đặc biệt là khi có chất thải của sản xuất hóa học làm cho đất trương nở hoặc ăn mòn vật liệu móng. Để phát hiện kịp thời và ngăn ngừa nước sản xuất chảy rò thì trong thiết kế phải xây dựng các hố theo dõi thường xuyên.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 737,
+    "line_end": 737,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-6",
+    "anchor": "muc-4-4-6",
+    "title": "4.4.6  Nếu mực nước ngầm hiện tại hoặc mực dự báo vẫn có thể tràn vào móng hoặc các bộ phận đặt sâu dưới đất thì trong thiết kế cần dự kiến các biện pháp loại trừ hoặc giảm tác hại của nước này đến sự làm việc của nền móng, đến việc sử dụng nhà và công trình (thiết bị hạ nước ngầm thường xuyên, cách nước cho móng và nền tầng hầm, các biện pháp đặc biệt trong các kết cấu ngầm, giảm áp lực nước ngầm hoặc nước trên mặt,...)",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 741,
+    "line_end": 741,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-7",
+    "anchor": "muc-4-4-7",
+    "title": "4.4.7  Trong trường hợp nước ngầm, nước trên mặt và nước sản xuất có tính ăn mòn đối với vật liệu móng thì phải theo chỉ dẫn của các tài liệu tiêu chuẩn thích hợp; dự kiến các biện pháp chống ăn mòn không để vật liệu móng bị phá hoại.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 745,
+    "line_end": 745,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-8",
+    "anchor": "muc-4-4-8",
+    "title": "4.4.8  Nếu đất quanh móng bị tác động của nước bề mặt với tốc độ có thể xói đất, cũng như khi trong nền gồm đất cát hoặc á cát, nước ngầm di chuyển với tốc độ có thể cuốn trôi các hạt đất hoặc hòa tan các muối, thì nên tìm biện pháp chắn chắn để bảo vệ nền (thoát nước, bờ cừ,.).",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 749,
+    "line_end": 749,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-9",
+    "anchor": "muc-4-4-9",
+    "title": "4.4.9  Khi thiết kế nền cho móng hoặc bộ phận ngầm khác của nhà và công trình nằm dưới tầng  nước ngầm có áp lực, cần dự kiến các biện pháp ngăn ngừa sự bục nước làm rời rạc, xói mòn hoặc các tác hại khác đối với lớp đất trong nền bị dòng nước xuyên qua.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 753,
+    "line_end": 753,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-4-10",
+    "anchor": "muc-4-4-10",
+    "title": "4.4.10  Xuất phát từ điều kiện dưới dây để kiểm tra khả năng bục nước áp lực đối với các lớp đất nằm bên trên trong nền của công trình thiết kế có lớp sét, á sét hoặc bùn nằm bên trên lớp đất có nước áp lực:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 757,
+    "line_end": 757,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-5",
+    "anchor": "muc-4-5",
+    "title": "4.5  Chiều sâu đặt móng",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 779,
+    "line_end": 779,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-5-1",
+    "anchor": "muc-4-5-1",
+    "title": "4.5.1  Chiều sâu đặt móng được quyết định bởi:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 783,
+    "line_end": 783,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-5-2",
+    "anchor": "muc-4-5-2",
+    "title": "4.5.2  Chiều sâu đặt móng cần phải đủ để khi tính theo trạng thái giới hạn nền làm việc được chắc chắn.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 801,
+    "line_end": 801,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6",
+    "anchor": "muc-4-6",
+    "title": "4.6  Tính toán nền theo biến dạng",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 805,
+    "line_end": 805,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-1",
+    "anchor": "muc-4-6-1",
+    "title": "4.6.1  Mục đích tính nền nhà và công trình theo biến dạng là hạn chế biến dạng của nền, móng và kết cấu trên móng trong phạm vi đảm bảo không xảy ra tình hình cản trở việc sử dụng bình thường của nhà và công trình nói chung, hay của từng kết cấu hoặc giảm tính bền vững lâu dài của chúng do xuất hiện các chuyển vị không cho phép (độ lún, nghiêng, thay đổi độ cao thiết kế và vị trí kết cấu, phá hoại các liên kết của chúng,.).",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 809,
+    "line_end": 809,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-2",
+    "anchor": "muc-4-6-2",
+    "title": "4.6.2  Biến dạng thẳng đứng của nền được chia ra:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 815,
+    "line_end": 815,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-3",
+    "anchor": "muc-4-6-3",
+    "title": "4.6.3  Tùy theo nguyên nhân xuất hiện mà biến dạng của nền được chia làm hai dạng cơ bản:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 827,
+    "line_end": 827,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-4",
+    "anchor": "muc-4-6-4",
+    "title": "4.6.4  Việc tính nền theo biến dạng cần xuất phát từ điều kiện làm việc đồng thời giữa nhà (công trình) với nền (bao gồm cả việc phân bố lại tải trọng của kết cấu trên móng lên nền).",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 835,
+    "line_end": 835,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-5",
+    "anchor": "muc-4-6-5",
+    "title": "4.6.5  Việc cùng biến dạng của nền và nhà (công trình) có thể được đặc trưng bằng:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 847,
+    "line_end": 847,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-6",
+    "anchor": "muc-4-6-6",
+    "title": "4.6.6  Tính toán nền theo biến dạng phải xuất phát từ điều kiện:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 869,
+    "line_end": 869,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-14",
+    "anchor": "formula-14",
+    "title": "$$S \\le S_{gh} \\qquad (14)$$",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 873,
+    "line_end": 873,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-7",
+    "anchor": "muc-4-6-7",
+    "title": "4.6.7  Sơ đồ tính toán của nền dùng để xác định sự cùng biến dạng của nền và công trình (bán không gian đàn hồi tuyến tính hoặc bán không gian biến dạng phi tuyến; nền ở dạng lớp có chiều dày hữu hạn; nền được đặc trưng bằng hệ số nền kể cả trường hợp hệ số này thay đổi ...) cần phải chọn bao gồm được tính chất cơ học của đất, đặc trưng thành lớp trong nền và đặc điểm của công trình.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 892,
+    "line_end": 892,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-8",
+    "anchor": "muc-4-6-8",
+    "title": "4.6.8  Tính toán biến dạng của nền thường phải dùng sơ đồ tính toán của nền ở dạng:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 896,
+    "line_end": 896,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-9",
+    "anchor": "muc-4-6-9",
+    "title": "4.6.9  Khi tính toán biến dạng của nền mà dùng các sơ đồ tính toán nêu ở 4.6.8, thì áp lực trung bình tác dụng lên nền ở dưới đáy móng do các tải trọng nêu ở 4.2.2 gây ra, không được vượt quá áp lực tính toán R (kPa) tác dụng lên nền tính theo công thức:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 910,
+    "line_end": 910,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-14",
+    "anchor": "bang-bang-14",
+    "title": "Bảng 14 - Các hệ số A, B và D",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 950,
+    "line_end": 950,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-10",
+    "anchor": "muc-4-6-10",
+    "title": "4.6.10  Trị số điều kiện làm việc của đất nền $m_{1}$ và hệ số điều kiện làm việc của nhà hoặc công trình tác dụng qua lại với nền $m_{2}$ lấy theo Bảng 15.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 991,
+    "line_end": 991,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-15",
+    "anchor": "bang-bang-15",
+    "title": "Bảng 15 - Các hệ số $m_{1}$ và $m_{2}$",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 995,
+    "line_end": 995,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-11",
+    "anchor": "muc-4-6-11",
+    "title": "4.6.11  Tùy thuộc vào phương pháp xác định các đặc trưng tính toán của đất mà hệ số tin cậy có trị số khác nhau, trong đó:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1017,
+    "line_end": 1017,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-12",
+    "anchor": "muc-4-6-12",
+    "title": "4.6.12  Nếu đất ở quanh móng và nền mang tải là đất cát thì khi mực nước ngầm cao hơn đáy móng, áp lực tính toán R theo công thức (15) phải tính với trọng lượng thể tích của đất có kể đến tác dụng đẩy nổi của nước.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1025,
+    "line_end": 1025,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-13",
+    "anchor": "muc-4-6-13",
+    "title": "4.6.13  Áp lực tính toán R trên nền đất hòn lớn phải tính theo công thức (15) dựa vào kết quả xác định trực tiếp các đặc trưng bền của đất.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1029,
+    "line_end": 1029,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-14",
+    "anchor": "muc-4-6-14",
+    "title": "4.6.14  Áp lực tính toán trên nền R trong trường hợp áp dụng đầm chặt đất hoặc làm các đệm đất, phải xác định xuất phát từ trị tính toán cho trước trong thiết kế về các đặc trưng cơ lý của đất đầm chặt.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1035,
+    "line_end": 1035,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-15",
+    "anchor": "muc-4-6-15",
+    "title": "4.6.15  Áp lực tính toán trên nền R tính theo công thức (15) có thể nâng lên 1,2 lần nếu xác định bằng cách tính toán biến dạng của nền (dưới áp lực R) không vượt quá 40 % trị giới hạn cho phép về biến dạng quy định theo yêu cầu của 4.6.21, 4.6.22, 4.6.23, 4.6.24; khi đó áp lực được nâng cao không được gây cho nền biến dạng quá 50 % trị giới hạn cho phép và vượt quá trị áp lực của điều kiện tính nền theo độ bền như yêu cầu của 4.7.1 đến 4.8.1. 4.6.16 Áp lực tính toán R trên nền trong trường hợp dùng móng băng gián đoạn đúc sẵn, được xác định như đối với móng băng liên tục theo 4.6.9 đến 4.6.13, có nâng cao trị R tìm được bằng hệ số $m_{v}$ để kể đến ảnh hưởng về khả năng phân bố của đất nền và hiệu ứng vòm giữa các blốc của móng gián đoạn.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1039,
+    "line_end": 1039,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-17",
+    "anchor": "muc-4-6-17",
+    "title": "4.6.17  Khi cần tăng tải trọng trên nền của nhà hoặc công trình đã xây dựng (khi cơi tầng, sửa chữa, lắp đặt những thiết bị nặng hơn ...) áp lực tính toán trên nền cần phải lấy ứng với tài liệu thực tế về loại, trạng thái và các tính chất cơ lý của đất nền, có kể đến kiểu và tình hình móng và kết cấu trên móng của nhà và công trình, cũng như thời hạn sử dụng chúng với độ lún thêm cho phép khi tăng thêm tải trọng trên móng.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1051,
+    "line_end": 1051,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-18",
+    "anchor": "muc-4-6-18",
+    "title": "4.6.18  Các kích thước sơ bộ của móng cần quy định theo cấu tạo hoặc từ điều kiện để áp lực trung bình lên nền ngay dưới đế móng bằng trị áp lực tính toán quy ước $R_{0}$ lấy theo yêu cầu trong Phụ lục E.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1057,
+    "line_end": 1057,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-19",
+    "anchor": "muc-4-6-19",
+    "title": "4.6.19  Áp lực trên đất ở mép đế móng chịu tải trọng lệch tâm (tính theo giả thiết áp lực dưới đế móng phân bố tuyến tính dưới các tải trọng dùng để tính nền theo biến dạng (xem 4.2.2) thường phải xác định khi kể đến độ sâu đặt móng trong đất, độ cứng của liên kết giữa móng với kết cấu bên trên và độ cứng của kết cấu trên móng. Khi đó, trị số áp lực ở mép móng khi có mô men uốn tác dụng theo một trục của móng không được vượt quá 1,2xR và ở tại điểm góc thì không vượt quá 1,5xR (R là áp lực tính toán lên nền, xác định theo yêu cầu của 4.6.9, 4.6.10, 4.6.11, 4.6.12, 4.6.13)",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1063,
+    "line_end": 1063,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-20",
+    "anchor": "muc-4-6-20",
+    "title": "4.6.20  Độ nghiêng của móng riêng rẽ (hoặc của công trình nói chung) phải tính toán có kể đến:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1069,
+    "line_end": 1069,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-21",
+    "anchor": "muc-4-6-21",
+    "title": "4.6.21  Khi trong phạm vi tầng chịu nén của nền ở chiều sâu z cách đế móng, có lớp đất độ bền nhỏ hơn độ bền của các lớp bên trên thì kích thước móng phải quy định sao cho đảm bảo được điều kiện:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1089,
+    "line_end": 1089,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-17",
+    "anchor": "formula-17",
+    "title": "$$p_{oz} + p_{dz} \\le R_{z} \\qquad (17)$$",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1093,
+    "line_end": 1093,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-22",
+    "anchor": "muc-4-6-22",
+    "title": "4.6.22  Trị giới hạn cho phép của biến dạng đồng thời giữa nền và nhà hoặc công trình phải quy định xuất phát từ:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1121,
+    "line_end": 1121,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-23",
+    "anchor": "muc-4-6-23",
+    "title": "4.6.23  Trị giới hạn cho phép của biến dạng đồng thời giữa nền và nhà hoặc công trình (biến dạng đều hoặc không đều) tương ứng với giới hạn sử dụng thuận tiện của nhà hoặc công trình theo yêu cầu công nghệ hoặc kiến trúc. $S_{gh}^{cn}$ phải được quy định theo các tiêu chuẩn thiết kế nhà và công trình, phù hợp với quy tắc sử dụng kỹ thuật của các thiết bị hoặc với nhiệm vụ thiết kế.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1129,
+    "line_end": 1129,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-24",
+    "anchor": "muc-4-6-24",
+    "title": "4.6.24  Trị biến dạng giới hạn cho phép $S_{gh}^{cn}$ theo điều kiện sử dụng thiết bị (ví dụ thang máy, cần trục ...) phải quy định xuất phát từ các sai lệch cho phép trong công nghệ về độ lún và độ nghiêng của thiết bị.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1135,
+    "line_end": 1135,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-25",
+    "anchor": "muc-4-6-25",
+    "title": "4.6.25  Trị số $S_{gh}^{b}$ không cho phép quy định đối với nhà và công trình có độ cứng lớn (ví dụ như nhà kiểu tháp, lò cao, ống khói...), độ bền của loại công trình này đủ để tiếp thu các nội lực xuất hiện khi có sự tác dụng qua lại giữa nền với công trình và cũng không quy định đối với nhà và công trình có sơ đồ kết cấu mềm, trong công trình loại này nội lực không xuất hiện (ví dụ các loại hệ khớp cầu).",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1141,
+    "line_end": 1141,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-26",
+    "anchor": "muc-4-6-26",
+    "title": "4.6.26  Khi lập các thiết kế điển hình của nhà và công trình trên cơ sở trị số $S_{gh}^{cn}$ và $S_{gh}^{b}$ thường phải quy định các tiêu chuẩn sau đây về cho phép dùng các thiết kế ấy (hoặc các phương án riêng lẻ) để đơn giản việc tính nền theo biến dạng có kết hợp thiết kế điển hình với điều kiện đất của địa phương.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1145,
+    "line_end": 1145,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-27",
+    "anchor": "muc-4-6-27",
+    "title": "4.6.27  Mức độ thay đổi tính nén của nền $_{E}$ (theo 4.6.25a)), một trong những tiêu chuẩn cho phép dùng các thiết kế nêu ở 4.6.25, được xác định bằng tỉ số giữa trị tính đổi lớn nhất với trị bé nhất của mô đun biến dạng theo chiều sâu đất nền trong phạm vi mặt bằng của nhà và công trình.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1155,
+    "line_end": 1155,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-28",
+    "anchor": "muc-4-6-28",
+    "title": "4.6.28  Biến dạng giới hạn cho phép của nền nhà và công trình $S_{gh}$ lấy theo Bảng 16 nếu các kết cấu trên móng không tính theo biến dạng không đều của nền và không xác định được trị số $S_{gh}^{b}$ (theo 4.6.21 b)) hoặc $S_{gh}^{o}$(theo 4.6.25b)) và khi thiết kế nhà không quy định trị $S_{gh}^{cn}$ (theo 4.6.21, 4.6.22, 4.6.23). Trong trường hợp này khi lấy $S_{gh}$ ở Bảng 16, phải chú ý:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1169,
+    "line_end": 1169,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-16",
+    "anchor": "bang-bang-16",
+    "title": "Bảng 16 - Trị biến dạng giới hạn của nền $S_{gh}$",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1175,
+    "line_end": 1175,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-29",
+    "anchor": "muc-4-6-29",
+    "title": "4.6.29  Việc tính nền theo biến dạng xem như đảm bảo nếu áp lực trung bình thực tế lên đất ở đáy móng của nhà hoặc công trình thiết kế không vượt quá áp lực tính toán lên nền và bảo đảm được một trong các điều kiện sau đây:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1211,
+    "line_end": 1211,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-17",
+    "anchor": "bang-bang-17",
+    "title": "Bảng 17 - Các phương án điều kiện địa chất không cần tính lún",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1221,
+    "line_end": 1221,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-6-30",
+    "anchor": "muc-4-6-30",
+    "title": "4.6.30  Việc đo thực tế ở các biến dạng của nền và móng cần phải dự kiến thực hiện khi:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1238,
+    "line_end": 1238,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7",
+    "anchor": "muc-4-7",
+    "title": "4.7  Tính nền theo sức chịu tải",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1250,
+    "line_end": 1250,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7-1",
+    "anchor": "muc-4-7-1",
+    "title": "4.7.1  Mục đích tính nền theo sức chịu tải (theo nhóm trạng thái) giới hạn thứ nhất là đảm bảo độ bền của nền và tính ổn định của nền đất (không phải đá), cũng như không cho phép móng trượt theo đáy và không cho phép lật vì sẽ dẫn đến sự chuyển vị đáng kể của từng móng hoặc của toàn bộ công trình và do đó công trình không thể sử dụng được. Khi dùng trong tính toán sơ đồ phá hoại của nền (lúc đạt đến trạng thái giới hạn của nền) phải xét cả về mặt tĩnh cũng như mặt động đối với móng hoặc công trình cho trước.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1254,
+    "line_end": 1254,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7-2",
+    "anchor": "muc-4-7-2",
+    "title": "4.7.2  Tính nền theo sức chịu tải phải xuất phát từ điều kiện:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1258,
+    "line_end": 1258,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7-3",
+    "anchor": "muc-4-7-3",
+    "title": "4.7.3  Sức chịu tải (độ bền) của nền đá  được tính theo công thức sau đây không phụ thuộc vào độ sâu đặt móng:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1274,
+    "line_end": 1274,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7-4",
+    "anchor": "muc-4-7-4",
+    "title": "4.7.4  Sức chịu tải của nền đất không phải đá cần phải xác định từ điều kiện là trong đất hình thành mặt trượt phủ hết đáy móng hoặc công trình; khi đó quan hệ giữa ứng suất pháp p và ứng suất  trên toàn bộ mặt trượt ứng với trạng thái cân bằng giới hạn của nền coi như tuân theo quy luật:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1294,
+    "line_end": 1294,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7-5",
+    "anchor": "muc-4-7-5",
+    "title": "4.7.5  Sức chịu tải của đất sét no nước được nén chậm và đất than bùn của nền (ở độ no nước G ≥ 0,85 và hệ số cố kết $C_{v}$ ≤ 1x10$^{7}$ cm² trên một năm) phải xác định có kể đến sự xuất hiện trạng thái chưa ổn định vì giảm ứng suất tiếp  trên mặt trượt do áp lực nước chứa trong lỗ rỗng. Khi đó quan hệ giữa ứng suất pháp p và ứng suất tiếp  lấy theo:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1306,
+    "line_end": 1306,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7-6",
+    "anchor": "muc-4-7-6",
+    "title": "4.7.6  Sức chịu tải của nền không phải đá cứng xác định trên cơ sở lý thuyết cân bằng giới hạn của môi trường đất. Khi đó phải phân biệt các trường hợp được phép dùng:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1316,
+    "line_end": 1316,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7-7",
+    "anchor": "muc-4-7-7",
+    "title": "4.7.7  Sức chịu tải của nền  đối với thành phần tải trọng thẳng đứng cho phép xác định bằng cách dùng nghiệm giải tích nếu nền gồm đất đồng nhất ở trạng thái ổn định và móng có đáy phẳng; còn phụ tải ở các phía khác nhau của móng về trị số không khác nhau quá 25 %.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1324,
+    "line_end": 1324,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7-8",
+    "anchor": "muc-4-7-8",
+    "title": "4.7.8  Sức chịu tải của nền  xác định bằng phương pháp đồ giải - giải tích có xây dựng mặt trượt cung tròn cho phép dùng trong các trường hợp khi:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1360,
+    "line_end": 1360,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7-9",
+    "anchor": "muc-4-7-9",
+    "title": "4.7.9  Đối với nền đất no nước được nén chặt chậm gồm các loại đất nêu ở 4.7.5, nếu các lớp đất này nằm ở chiều sâu nhỏ hơn 0,75 bề rộng của móng và nếu trong chiều dày của lớp nền chịu nén không có lớp đất thoát nước hoặc thiết bị thoát nước thì sức chịu tải được xác định không kể đến góc ma sát trong ($_{I}$ = 0).",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1378,
+    "line_end": 1378,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-7-10",
+    "anchor": "muc-4-7-10",
+    "title": "4.7.10  Phải tính móng về trượt theo đáy móng trong trường hợp tác dụng lên móng những lực ngang lớn. Trường hợp này hệ số tin cậy $k_{tc}$ xác định theo công thức (32) không được nhỏ hơn 1,2:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1403,
+    "line_end": 1403,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-8",
+    "anchor": "muc-4-8",
+    "title": "4.8  Các biện pháp nhằm giảm ảnh hưởng biến dạng của nền đến việc sử dụng thuận tiện nhà và công trình",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1412,
+    "line_end": 1412,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-8-1",
+    "anchor": "muc-4-8-1",
+    "title": "4.8.1  Nếu trong quá trình thiết kế nền móng nhà và công trình thấy biến dạng xác định bằng tính toán là không cho phép hoặc sức chịu tải của nền không đủ thì cần xét khả năng và tính hợp lý để tăng kích thước và chiều sâu đặt móng hoặc chuyển sang dạng móng khác có nhiều khả năng điều hòa biến dạng không đều (ví dụ móng băng thay bằng móng trụ ...) hoặc dùng:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1416,
+    "line_end": 1416,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-8-2",
+    "anchor": "muc-4-8-2",
+    "title": "4.8.2  Các biện pháp nhằm giảm biến dạng có thể có của nền hoặc tăng sức chịu tải của nền (xem 4.8.1a)) gồm có:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1428,
+    "line_end": 1428,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-8-3",
+    "anchor": "muc-4-8-3",
+    "title": "4.8.3  Việc chuẩn bị đặc biệt cho nền được dùng để thay đổi các tính chất cơ lý đất ở thế nằm tự nhiên hoặc đổi đất có tính chất xây dựng không phù hợp bằng đất có các đặc trưng về độ bền biến dạng tốt hơn.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1440,
+    "line_end": 1440,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-8-4",
+    "anchor": "muc-4-8-4",
+    "title": "4.8.4  Việc lèn chặt đất nền phải thực hiện bằng:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1454,
+    "line_end": 1454,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-8-5",
+    "anchor": "muc-4-8-5",
+    "title": "4.8.5  Các biện pháp giữ cho đất không bị thay đổi tính chất xây dựng trong quá trình xây dựng và sử dụng nhà và công trình cũng như những sự thay đổi tải trọng khác với tải trọng dùng khi thiết kế, gồm có:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1474,
+    "line_end": 1474,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-8-6",
+    "anchor": "muc-4-8-6",
+    "title": "4.8.6  Các biện pháp kết cấu để giảm độ nhạy của nhà, công trình và các thiết bị kỹ thuật đối với biến dạng của nền (xem 4.8.1 b)) gồm có:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1484,
+    "line_end": 1484,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-4-8-7",
+    "anchor": "muc-4-8-7",
+    "title": "4.8.7  Các biện pháp xây dựng nhằm giảm ảnh hưởng biến dạng của nền đến kết cấu của nhà và công trình (xem 4.8.1 c)) gồm có:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1516,
+    "line_end": 1516,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  ĐẶC ĐIỂM THIẾT KẾ NỀN CỦA NHÀ VÀ CÔNG TRÌNH XÂY TRÊN ĐẤT LÚN ƯỚT",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1528,
+    "line_end": 1528,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Nền đất lún ướt phải thiết kế theo đặc điểm của loại đất này: ở trạng thái ứng suất của tải trọng ngoài hoặc trọng lượng bản thân của đất bị ướt, đất sẽ biến dạng thêm do lún ướt. Chỉ kể đến biến dạng lún ướt khi trị lún ướt tương đối của đất $\\varepsilon_{s}$ ≥ 0,01.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1532,
+    "line_end": 1532,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-3",
+    "anchor": "muc-5-3",
+    "title": "5.3  Điều kiện đất đai nơi xây dựng, tùy theo khả năng xuất hiện sự lún ướt do trọng lượng bản thân của đất, khi có các loại đất lún ướt, mà chia ra làm hai loại:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1546,
+    "line_end": 1546,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-4",
+    "anchor": "muc-5-4",
+    "title": "5.4  Loại điều kiện địa chất về lún ướt được quy định khi khảo sát địa chất công trình dựa vào kết quả thí nghiệm trong phòng, khi cần chính xác thì sự lún ướt do trọng lượng bản thân gây ra phải thí nghiệm ở hiện trường bằng cách làm ướt đất trong hố thí nghiệm.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1554,
+    "line_end": 1554,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-5",
+    "anchor": "muc-5-5",
+    "title": "5.5  Khi thiết kế nền có đất lún ướt cần phải chú ý khả năng bị ướt và độ ẩm của đất tăng do:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1558,
+    "line_end": 1558,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-6",
+    "anchor": "muc-5-6",
+    "title": "5.6  Nền có đất lún ướt phải tính toán theo các yêu cầu nêu ở Điều 4.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1572,
+    "line_end": 1572,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-7",
+    "anchor": "muc-5-7",
+    "title": "5.7  Áp Iực tính toán R trên nền đất có thể bị lún ướt do các nguyên nhân nêu ở 5.5a), 5.5b), 5.5c), cần xác định có kể đến các yêu cầu sau đây:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1580,
+    "line_end": 1580,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-8",
+    "anchor": "muc-5-8",
+    "title": "5.8  Áp lực tính toán R trên nền khi không thể lún ướt (chỉ bị ẩm theo các nguyên nhân nêu ở 5.5d)) phải xác định theo công thức (15). Trong trường hợp này các đặc trưng của đất phải lấy:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1590,
+    "line_end": 1590,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-9",
+    "anchor": "muc-5-9",
+    "title": "5.9  Kích thước sơ bộ của móng nhà và công trình xây trên đất lún ướt phải quy định xuất phát từ trị áp lực tính toán quy ước $R_{o}$ (Bảng D.3).",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1598,
+    "line_end": 1598,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-10",
+    "anchor": "muc-5-10",
+    "title": "5.10  Lún ướt của đất phải xác định bằng tính toán kể đến những điều kiện đất đai (xem 5.3 và 5.4) dạng thấm ướt có thể có (xem 4.5) và các yếu tố khác.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1608,
+    "line_end": 1608,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-11",
+    "anchor": "muc-5-11",
+    "title": "5.11  Độ lún ướt của nền, độ lệch lún và độ nghiêng của các móng riêng biệt phải tính toán có kể đến sự làm ướt không đều đất lún ướt do nước tràn theo các phía khác nhau từ nguồn thấm ướt ở vị trí bất lợi nhất đối với móng định tính toán.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1618,
+    "line_end": 1618,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-12",
+    "anchor": "muc-5-12",
+    "title": "5.12  Trị chuyển vị ngang của nền khi lún ướt do trọng lượng bản thân của đất gây ra (xem 5.2c)) cần phải xác định xuất phát từ sự hình thành phễu lún ướt trên mặt đất, phần cong của phễu phụ thuộc vào cấu tạo địa chất, các đặc trưng cơ Iý của đất và vào điều kiện thấm ướt.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1622,
+    "line_end": 1622,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-13",
+    "anchor": "muc-5-13",
+    "title": "5.13  Các yêu cầu tính toán nền theo biến dạng đứng (độ lún và lún ướt) được xem như thỏa mãn và các biến dạng có thể tính toán mà không cần kiểm tra đối với đất lún ướt loại I nếu như áp Iực trung bình thực tế lên nền dưới tất cả các móng của nhà không vượt quá:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1632,
+    "line_end": 1632,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-14",
+    "anchor": "muc-5-14",
+    "title": "5.14  Độ lún ướt của đất nền do ướt cục bộ và ướt nhiều từ trên xuống (xem 5.5a) và 5.5b)) nên dùng trong tính toán kết cấu của nhà và công trình có kể đến những điều kiện đất đai và các biện pháp chọn dùng trong thiết kế.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1640,
+    "line_end": 1640,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-15",
+    "anchor": "muc-5-15",
+    "title": "5.15  Nền nhà và công trình xây trên đất lún ướt trong những điều kiện mà ở đấy không thể thấm ướt cục bộ và ướt nhiều (xem 5.5a) và 5.5b)) và cũng không thể có sự dâng cao mức nước ngầm (xem 5.5c)), ví dụ trong những trường hợp khi nhà và công trình không lắp các đường ống cấp thoát nước, màng lưới đường ống bên ngoài đặt ở khoảng cách lớn hơn 1,5 lần bề dày lún ướt ... thì nên thiết kế như đối với đất không lún ướt; nhưng phải kể đến khả năng tăng dần độ ẩm của đất do những nguyên nhân trình bày ở 5.5d).",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1646,
+    "line_end": 1646,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-16",
+    "anchor": "muc-5-16",
+    "title": "5.16  Khi có thể bị lún ướt do những nguyên nhân ở 5.5a), 5.5b) và 5.5c), cần dự kiến những biện pháp để loại trừ những ảnh hưởng có hại do lún ướt có thể có đến việc sử dụng thuận lợi nhà và công trình:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1650,
+    "line_end": 1650,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-17",
+    "anchor": "muc-5-17",
+    "title": "5.17  Loại trừ tính lún ướt của đất bằng cách:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1664,
+    "line_end": 1664,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-18",
+    "anchor": "muc-5-18",
+    "title": "5.18  Chiều sâu lèn chặt đất bằng đầm nặng quyết định bởi kích thước và trọng lượng đầm, chế độ đầm nện, loại đất... Còn lèn chặt đất bằng nổ dưới nước thì quyết định bởi trọng lượng thuốc nổ, mật độ đặt thuốc nổ, loại đất, chiều cao cột nước ....",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1672,
+    "line_end": 1672,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-19",
+    "anchor": "muc-5-19",
+    "title": "5.19  Việc đầm chặt hố móng phải thực hiện bằng các đầm nặng nhờ đó tạo được hố móng có hình dáng và chiều sâu cho trước với đất được lèn chặt dưới đáy hố và ở thành nghiêng của hố.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1682,
+    "line_end": 1682,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-20",
+    "anchor": "muc-5-20",
+    "title": "5.20  Các thông số lèn chặt theo chiều sâu của đất lún ướt bằng cọc đất (số lượng, khoảng cách, kích thước cọc,...) phải được quy định từ điều kiện đạt được độ chặt yêu cầu của đất nền, trong đó đã khắc phục hết sự lún ướt của đất do trọng lượng bản thân của đất và tải trọng truyền lên móng gây ra; còn kích thước của diện tích cần nén chặt trên mặt bằng phải xuất phát từ điều kiện đảm bảo sức chịu tải của khối đất được lèn chặt và của lớp đặt nền phía dưới khi đất có cấu trúc tự nhiên ở xung quanh bị lún ướt.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1688,
+    "line_end": 1688,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-21",
+    "anchor": "muc-5-21",
+    "title": "5.21  Làm ướt trước đất nền nên xem như biện pháp làm chặt (khắc phục tính lún ướt) chỉ đối với các lớp đất bên dưới nằm trong phạm vi vùng lún ướt do trọng lượng bản thân đất gây ra. Kích thước diện cần lèn chặt và phương pháp làm ướt phải quy định bằng tính toán sao cho trong phạm vi xây dựng công trình không có sự lún ướt do trọng lượng bản thân của đất gây ra.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1692,
+    "line_end": 1692,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-22",
+    "anchor": "muc-5-22",
+    "title": "5.22  Việc xuyên hết lớp đất lún ướt của nền nên làm theo một trong các phương pháp sau đây:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1706,
+    "line_end": 1706,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-23",
+    "anchor": "muc-5-23",
+    "title": "5.23  Kết hợp các biện pháp chống nước và kết cấu cũng như lèn chặt và gia cố đất ở vùng bị biến dạng thông thường nên dùng ở những nơi đất lún ướt thuộc loại II.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1716,
+    "line_end": 1716,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-5-24",
+    "anchor": "muc-5-24",
+    "title": "5.24  Sức chịu tải của nền có đất lún ướt khi móng gồm các trụ bằng đất gia cố phải xác định có kể đến cường độ của đất theo mặt hông của móng (“dương” đối với đất lún ướt loại I; “âm” đối với đất lún ướt Ioại II).",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1722,
+    "line_end": 1722,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6",
+    "anchor": "muc-6",
+    "title": "6  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY TRÊN ĐẤT TRƯƠNG NỞ",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1726,
+    "line_end": 1726,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-1",
+    "anchor": "muc-6-1",
+    "title": "6.1  Nền có đất trương nở phải thiết kế theo đặc thù của đất này khi thấm nước bị tăng thể tích - trương nở. Khi giảm độ ẩm của đất trương nở thì xảy ra quá trình ngược lại - co ngót.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1730,
+    "line_end": 1730,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-2",
+    "anchor": "muc-6-2",
+    "title": "6.2  Trị số trương nở của đất nền phụ thuộc vào áp lực tác dụng ở đáy móng, loại và trạng thái đất, chiều dày của lớp đất trương nở, diện bị ướt, tính chất vật lý và hóa học của chất lỏng thấm vào nền.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1738,
+    "line_end": 1738,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-3",
+    "anchor": "muc-6-3",
+    "title": "6.3  Biến dạng của nền có đất trương nở có thể xảy ra do các nguyên nhân sau đây:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1742,
+    "line_end": 1742,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-4",
+    "anchor": "muc-6-4",
+    "title": "6.4  Nếu có đất trương nở phải tính theo biến dạng ứng với những yêu cầu chung trình bày ở Điều 4 và khi cần thiết thì cũng tính theo sức chịu tải.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1754,
+    "line_end": 1754,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-5",
+    "anchor": "muc-6-5",
+    "title": "6.5  Trị tiêu chuẩn của các đặc trưng $_{c}$ và $_{tn}$ xác định theo kết quả thí nghiệm đất trong phòng thí nghiệm có kể đến các chỉ dẫn ở 6.3 về những nguyên nhân thay đổi có thể có về độ ẩm của đất nền. Trị tính toán của các đặc trưng $_{tn}$ và $_{c}$ cho phép lấy bằng trị tiêu chuẩn khi trong công thức (12) lấy hệ số an toàn của đất $k_{d}$ = 1.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1760,
+    "line_end": 1760,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-6",
+    "anchor": "muc-6-6",
+    "title": "6.6  Nếu xác định bằng tính toán trị biến dạng của nền lớn hơn trị cho phép đối với nhà và công trình định thiết kế thì cần phải dự kiến:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1764,
+    "line_end": 1764,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-7",
+    "anchor": "muc-6-7",
+    "title": "6.7  Các biện pháp nhằm giảm hoặc loại trừ các biến dạng có thể có do đất bị nở gây ra, gồm:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1776,
+    "line_end": 1776,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-8",
+    "anchor": "muc-6-8",
+    "title": "6.8  Chiều dày của lớp đất nền được làm ướt trước, chiều dày của phần đất trương nở bị thay thế hoặc độ sâu của lớp đất bị móng xuyên qua phải quy định tùy theo trị biến dạng cần giảm do trương nở gây ra.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1788,
+    "line_end": 1788,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-9",
+    "anchor": "muc-6-9",
+    "title": "6.9  Khi xây móng trên nền đất trương nở có làm ướt trước cần phải xét đến việc làm các đệm bằng cát, sỏi hoặc đá dăm hay làm chặt lớp đất bên trên của nền bằng các vật liệu kết dính (ví dụ: vôi).",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1792,
+    "line_end": 1792,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-10",
+    "anchor": "muc-6-10",
+    "title": "6.10  Đệm cát thay thế phải đặt trên mặt hoặc trong phạm vi Iớp đất trương nở khi áp lực truyền Iên nền không nhỏ hơn 100 kPa. Để làm đệm, được dùng cát có bất kỳ cỡ hạt nào trừ cát bụi, đầm chặt đến khối lượng thể tích không nhỏ hơn 1,55 T/m³.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1796,
+    "line_end": 1796,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-6-11",
+    "anchor": "muc-6-11",
+    "title": "6.11  Việc thay thế đất trương nở nên lấy đất không trương nở tại chỗ, đầm đến độ chặt cho trước. Trong trường hợp này việc xây dựng nhà phải làm như đối với đất bình thường không trương nở.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1800,
+    "line_end": 1800,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7",
+    "anchor": "muc-7",
+    "title": "7  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY TRÊN ĐẤT THAN BÙN NO NƯỚC",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1804,
+    "line_end": 1804,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-1",
+    "anchor": "muc-7-1",
+    "title": "7.1  Nền đất than bùn phải thiết kế theo tính đặc thù của loại đất này: no nước, tính nén co lớn, kéo dài độ lún theo thời gian, các đặc trưng bền, biến dạng và thấm dưới tác dụng của tải trọng sẽ thay đổi nhiều và không đẳng hướng.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1808,
+    "line_end": 1808,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-2",
+    "anchor": "muc-7-2",
+    "title": "7.2  Các đặc trưng bền và biến dạng của đất than bùn cũng như các quá trình Iưu biến khi thay đổi trạng thái ứng suất phải qui định tùy thuộc và các áp lực khác nhau truyền lên mẫu đất than bùn khi nén một trục trong điều kiện không nở hông (bằng thí nghiệm nén).",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1814,
+    "line_end": 1814,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-3",
+    "anchor": "muc-7-3",
+    "title": "7.3  Các kết quả thí nghiệm đất than bùn, kể đến tính không đẳng hướng của nó, phải kèm theo chỉ dẫn về phương tự nhiên so với trục thẳng đứng của từng mẫu đất được lấy và về hướng của các quá trình thí nghiệm cơ học so với trục này.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1818,
+    "line_end": 1818,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-4",
+    "anchor": "muc-7-4",
+    "title": "7.4  Không cho phép thiết kế nền là đất nhiều than bùn và than bùn (xem Bảng 12) làm chỗ tựa trực tiếp cho móng, không tùy thuộc vào chiều dày của các lớp đất ấy và vào trị tính toán biến dạng của nền.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1824,
+    "line_end": 1824,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-5",
+    "anchor": "muc-7-5",
+    "title": "7.5  Nếu trị tính toán biến dạng của nền đất than bùn hoặc sức chịu tải của nó không chịu được nhà và công trình thiết kế thì trong thiết kế phải dự kiến:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1828,
+    "line_end": 1828,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-6",
+    "anchor": "muc-7-6",
+    "title": "7.6  Trong các biện pháp giảm biến dạng của nền đất than bùn no nước cần phải dự kiến:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1836,
+    "line_end": 1836,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-7",
+    "anchor": "muc-7-7",
+    "title": "7.7  Các phương tiện cơ bản dùng để nén trước đất than bùn là:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1846,
+    "line_end": 1846,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-8",
+    "anchor": "muc-7-8",
+    "title": "7.8  Việc lựa chọn các biện pháp hoặc kết hợp chúng phải tiến hành có kể đến chiều dày của lớp và tính chất đất than bùn cũng như tính chất và chiều dày của các lớp đất nằm ngay bên dưới hoặc phủ bên trên đất than bùn.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1854,
+    "line_end": 1854,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-9",
+    "anchor": "muc-7-9",
+    "title": "7.9  Khi thiết kế việc gia tải cần phải quy định:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1858,
+    "line_end": 1858,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-10",
+    "anchor": "muc-7-10",
+    "title": "7.10  Độ chặt của đất trong lớp gia tải bằng cát và trong đệm cát đắp trên đất than bùn phải kiểm tra theo số liệu xuyên tĩnh nêu ở Bảng 5.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1868,
+    "line_end": 1868,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-7-11",
+    "anchor": "muc-7-11",
+    "title": "7.11  Việc tính toán nền đất than bùn theo sức chịu tải và theo biến dạng phải tiến hành có kể đến:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1874,
+    "line_end": 1874,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8",
+    "anchor": "muc-8",
+    "title": "8  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY TRÊN BÙN",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1888,
+    "line_end": 1888,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-1",
+    "anchor": "muc-8-1",
+    "title": "8.1  Nền bùn phải thiết kế theo tính đặc thù của loại đất: tính nén co lớn, kéo dài độ lún theo thời gian, sự thay đổi đáng kể và tính không đẳng hướng của các đặc trưng bền, biến dạng, thấm và Iưu biến của bùn khi chịu tác dụng của tải trọng cũng như tính xúc biến khá lớn do hiện tượng hóa lỏng tạm thời của bùn khi chịu tác dụng của tải trọng động.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1892,
+    "line_end": 1892,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-2",
+    "anchor": "muc-8-2",
+    "title": "8.2  Các số liệu về bùn cần cho thiết kế nền phải thu thập trên cơ sở điều tra địa chất công trình bằng các phương pháp khác nhau trừ phương pháp động. Nên dùng các phương pháp như nén ngang trong hố khoan, xuyên tĩnh, cắt quay ...",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1896,
+    "line_end": 1896,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-3",
+    "anchor": "muc-8-3",
+    "title": "8.3  Các đại lượng đặc trưng quan hệ giữa áp Iực với tính biến dạng, độ bền và tính không đẳng hướng của bùn cũng như các đặc trưng về các quá trình lưu biến cần quy định giống như đối với đất than bùn no nước theo các yêu cầu nêu ở 7.2 và 7.3.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1900,
+    "line_end": 1900,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-4",
+    "anchor": "muc-8-4",
+    "title": "8.4  Khi dùng bùn để làm nền phải phân biệt các trường hợp khi bùn là:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1904,
+    "line_end": 1904,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-5",
+    "anchor": "muc-8-5",
+    "title": "8.5  Nếu nền bùn là đáy hồ, ao thì trên mặt nền phải đắp một lớp cát để đảm bảo nước thoát dễ dàng khi nền bùn chịu tác dụng của tải trọng nén của lớp cát và sau đó là tải trọng của nhà hoặc công trình.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1912,
+    "line_end": 1912,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-6",
+    "anchor": "muc-8-6",
+    "title": "8.6  Nếu nền bùn gồm các lớp nằm giữa đất sét hoặc đất cát thì phải kiểm tra sự ổn định (sức chịu tải) giống như nền nhiều lớp của nhà hoặc công trình định thiết kế.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1920,
+    "line_end": 1920,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-7",
+    "anchor": "muc-8-7",
+    "title": "8.7  Trong trường hợp cần giảm độ nhạy của nhà và công trình xây trên bùn đối với biến dạng không đều của nền thì phải dự kiến các biện pháp kết cấu theo yêu cầu của 4.8.6.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1928,
+    "line_end": 1928,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-8-8",
+    "anchor": "muc-8-8",
+    "title": "8.8  Tính nền theo biến dạng và theo sức chịu tải phải tiến hành theo những chỉ dẫn ở 7.11.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1932,
+    "line_end": 1932,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9",
+    "anchor": "muc-9",
+    "title": "9  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY TRÊN ĐẤT ÊLUVI",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1936,
+    "line_end": 1936,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-1",
+    "anchor": "muc-9-1",
+    "title": "9.1  Nền có đất êluvi phải thiết kế theo tính đặc thù của đất này: là sản phẩm phong hóa của đá tại chỗ và ở mức độ nào đấy giữ được cấu trúc và tổ chức của mình trong vỏ phong hóa cũng như giữ đặc tính về thế nằm của đất. Do đó khi thiết kế cần chú ý:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1940,
+    "line_end": 1940,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-2",
+    "anchor": "muc-9-2",
+    "title": "9.2  Để kể đến một cách đầy đủ và chính xác hơn đặc điểm của đất êluvi khi khảo sát địa chất công trình cần xác định dạng đất đá gốc, cấu trúc và mặt cắt vỏ phong hóa, tính chất nứt, thành phiến, thành lớp, các phần bị hạ và bị bào mòn, mặt trượt, trị số, hình dáng và số lượng thể bị bao đất hòn lớn.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1952,
+    "line_end": 1952,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-3",
+    "anchor": "muc-9-3",
+    "title": "9.3  Khi thiết kế nền đất êluvi phải chú ý quy định cách thí nghiệm trong quá trình khảo sát về khả năng và trị số giảm độ bền của nền đất êluvi trong thời gian dự tính chưa bị lấp kín hố móng. Để đánh giá sơ bộ khả năng giảm độ bền của đất cho phép dùng các phương pháp gián tiếp dựa vào sự thay đổi trong thời gian cho trước về:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1958,
+    "line_end": 1958,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-4",
+    "anchor": "muc-9-4",
+    "title": "9.4  Nếu nền gồm các loại đất có tính nén thay đổi lớn và có thể sinh ra các biến dạng không cho phép đối với nhà và công trình định xây dựng thì nên dự kiến:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1970,
+    "line_end": 1970,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-5",
+    "anchor": "muc-9-5",
+    "title": "9.5  Trong thiết kế nền và móng phải dự kiến cách bảo vệ đất êluvi khỏi bị phá hoại bởi các tác động khí quyển và nước trong thời gian đào hố móng. Muốn làm vậy không được phép dừng thi công nền sau đó mới làm móng; cần phải dùng các biện pháp bảo vệ; không được đào đất ở hố móng đến ngay độ sâu thiết kế: lớp đất bảo vệ này phải dày ít nhất 0,3 m đối với đất sét và đất cát bụi và 0,1 m đến 0,2 m đối với các loại đất cát khác; phương pháp nổ mìn để đào đá chỉ cho phép dùng cách bắn mìn nông.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1984,
+    "line_end": 1984,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-9-6",
+    "anchor": "muc-9-6",
+    "title": "9.6  Việc tính nền đất êluvi theo biến dạng và theo sức chịu tải phải kể đến đặc điểm của đất này ứng với các yêu cầu chung quy định ở Điều 4.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1988,
+    "line_end": 1988,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10",
+    "anchor": "muc-10",
+    "title": "10  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY TRÊN ĐẤT NHIỄM MUỐI",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1992,
+    "line_end": 1992,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-1",
+    "anchor": "muc-10-1",
+    "title": "10.1  Nền đất nhiễm muối phải thiết kế theo tính đặc thù của đất này",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1996,
+    "line_end": 1996,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-2",
+    "anchor": "muc-10-2",
+    "title": "10.2  Nền đất nhiễm muối phải tính toán theo yêu cầu nêu ở Điều 4. Nếu đất nhiễm muối là loại lún ướt hoặc trương nở thì phải kể đến những yêu cầu bổ sung nêu ở Điều 5 và Điều 6.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2008,
+    "line_end": 2008,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-3",
+    "anchor": "muc-10-3",
+    "title": "10.3  Độ lún do xói ngầm xác định bằng tổng độ lún của từng lớp đất trong nền dựa vào lún tương đối do xói ngầm theo tính chất của đất, số thời gian thấm ướt và áp lực tác dụng.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2012,
+    "line_end": 2012,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-4",
+    "anchor": "muc-10-4",
+    "title": "10.4  Trị tương đối của độ lún do xói ngầm $_{x}$ phải xác định bằng thí nghiệm hiện trường bằng tải trọng tĩnh khi khảo sát địa chất công trình và để nghiên cứu chi tiết từng phần khác nhau của diện và để nghiên cứu chi tiết từng phần khác nhau của diện xây dựng phải thí nghiệm bổ sung trong phòng thí nghiệm.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2018,
+    "line_end": 2018,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-5",
+    "anchor": "muc-10-5",
+    "title": "10.5  Việc kéo dài thí nghiệm đất để xác định độ lún tương đối do xói ngầm không được ngắn hơn 5 ngày đêm khi lượng muối trong đất đạt đến trị số như sau:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2022,
+    "line_end": 2022,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-6",
+    "anchor": "muc-10-6",
+    "title": "10.6  Biến dạng toàn phần của nền đất nhiễm muối phải lấy bằng tổng biến dạng do:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2040,
+    "line_end": 2040,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-10-7",
+    "anchor": "muc-10-7",
+    "title": "10.7  Khi muối phân bố không đều trong lớp đất và có khả năng phát triển các biến dạng tổng không đều, vượt quá trị cho phép đối với nhà hoặc công trình thì phải dự kiến các biện pháp ngăn chặn nền bị ướt và trong trường hợp cần thiết phải dự kiến các biện pháp kết cấu theo yêu cầu của 4.8.6 hoặc phải đặt móng trên đất không bị nhiễm muối bằng cách xuyên qua chiều dày lớp đất nhiễm muối.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2052,
+    "line_end": 2052,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11",
+    "anchor": "muc-11",
+    "title": "11  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY TRÊN ĐẤT ĐẮP",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2056,
+    "line_end": 2056,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-1",
+    "anchor": "muc-11-1",
+    "title": "11.1  Nền đất đắp phải thiết kế theo tính đặc thù của nó như:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2060,
+    "line_end": 2060,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-2",
+    "anchor": "muc-11-2",
+    "title": "11.2  Tính nén co không đều của đất đắp được xét đến trong tính toán nền phải xác định theo kết quả thí nghiệm trong phòng và hiện trường tùy thuộc thành phần và cấu trúc của đất đắp, phương pháp đắp, loại vật liệu chiếm phần chính của đất đắp. Mô đun biến dạng của đất đắp phải xác định trên cơ sở thí nghiệm bằng bàn nén.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2068,
+    "line_end": 2068,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-3",
+    "anchor": "muc-11-3",
+    "title": "11.3  Nền đất đắp phải tính theo yêu cầu ở Điều 4. Trị biến dạng toàn phần xác định bằng tính toán phải được tính như tổng độ lún của nền do tải trọng trên móng gây ra, độ lún thêm do tự lèn chặt đất đắp theo các nguyên nhân nêu ở 11.1 và độ lún hoặc lún ướt của lớp đất tựa do tác dụng của trọng lượng đất đắp và tải trọng của móng.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2072,
+    "line_end": 2072,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-4",
+    "anchor": "muc-11-4",
+    "title": "11.4  Áp Iực tính toán trên nền đất đắp phải xác định theo yêu cầu ở 4.6.9, 4.6.10, 4.6.11, 4.6.12, 4.6.13, 4.6.14, 4.6.15, 4.6.16, 4.6.17 và 4.6.18 dựa trên kết quả thăm dò địa chất công trình và kể đến tính không đồng nhất về thành phần và tổ chức của đất, phương pháp đắp, loại vật liệu chính của đất đắp, độ chặt, độ ẩm và tuổi của đất đắp.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2076,
+    "line_end": 2076,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-5",
+    "anchor": "muc-11-5",
+    "title": "11.5  Áp lực tính toán trên nền trong trường hợp dùng đệm cát, dăm (sỏi) ... phải xác định xuất phát từ các đặc trưng cơ Iý của đất đạt được độ chặt cho trước trong thiết kế.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2080,
+    "line_end": 2080,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-6",
+    "anchor": "muc-11-6",
+    "title": "11.6  Kích thước ban đầu của móng nhà và công trình xây trên đất đắp phải quy định xuất phát từ áp lực tính toán quy ước $R_{o}$ nêu ở Bảng D.4.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2084,
+    "line_end": 2084,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-7",
+    "anchor": "muc-11-7",
+    "title": "11.7  Nếu biến dạng toàn phần của nền xác định bằng tính toán thấy lớn hơn trị cho phép hoặc sức chịu tải của nền nhỏ hơn sức chịu tải cần có để đảm bảo việc sử dụng bình thường nhà và công trình thì trong thiết kế cần dự kiến các biện pháp theo các yêu cầu của 4.8.1, 4.8.2, 4.8.3, 4.8.4, 4.8.5, 4.8.6 và 4.8.7.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2090,
+    "line_end": 2090,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-8",
+    "anchor": "muc-11-8",
+    "title": "11.8  Lèn chặt nền đất đắp bằng cách:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2106,
+    "line_end": 2106,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-9",
+    "anchor": "muc-11-9",
+    "title": "11.9  Làm các đệm bằng cát, dăm (sỏi) hoặc bằng đất là nhằm đổi đất đắp có tính nén co lớn và không đều. Chiều dày của đệm, loại đất dùng, mức độ đầm chặt của đệm phải quy định theo kết quả tính nền ứng dụng với yêu cầu ở Điều 4 có kể đến các điều kiện xây dựng địa phương, có các loại đất tương ứng cũng như các thiết bị thi công đệm.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2116,
+    "line_end": 2116,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-11-10",
+    "anchor": "muc-11-10",
+    "title": "11.10  Thiết kế nền đất đắp có chứa tàn tích thực vật tính theo hàm lượng tương đối lớn hơn 0,1 (xem 3.19) phải chú ý đến các chỉ dẫn ở 7.1 đến 7.11: nên bóc đất đất này đi và thi công đệm hoặc dùng móng xuyên qua lớp đất có chứa tàn tích thực vật.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2122,
+    "line_end": 2122,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12",
+    "anchor": "muc-12",
+    "title": "12  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY Ở NHỮNG NƠI KHÁC",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2126,
+    "line_end": 2126,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-1",
+    "anchor": "muc-12-1",
+    "title": "12.1  Nền nhà và công trình xây ở những nơi khai thác phải thiết kế có kể đến sự sụt không đều của mặt đất, dẫn đến các biến dạng ngang của đất trượt do thi công mỏ và sự di chuyển của đất trong không gian bị đào xới.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2130,
+    "line_end": 2130,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-2",
+    "anchor": "muc-12-2",
+    "title": "12.2  Trị tính toán các đặc trưng bền  và c và đặc trưng biến dạng E để xác định nội lực tác dụng trong móng do biến dạng của mặt đất gây ra phải lấy bằng trị tiêu chuẩn với hệ số an toàn về đất trong công thức (12) bằng đơn vị $k_{d}$ = 1.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2136,
+    "line_end": 2136,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-3",
+    "anchor": "muc-12-3",
+    "title": "12.3  Áp lực tính toán R trên đất nền phải xác định bằng công thức (15) theo các yêu cầu ở 4.6.9, 4.6.10, 4.6.11, 4.6.12, 4.6.13 và 4.6.14. Khi đó hệ số điều kiện làm việc của nhà $m_{2}$ có tác dụng qua lại với nền kể đến ảnh hưởng độ cứng có kết cấu của nhà nên lấy theo Bảng 18 nếu nhà hoặc công trình thiết kế theo sơ đồ kết cấu cứng có giằng tường và móng băng khép kín theo chu vi; trong những trường hợp còn lại lấy hệ số $m_{2}$ = 1.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2142,
+    "line_end": 2142,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-4",
+    "anchor": "muc-12-4",
+    "title": "12.4  Áp lực biên của móng bè đối với nhà và công trình kiểu tháp (nhà nhiều tầng, tháp nước có áp, ống khói, ...) cũng như các móng đơn của nhà công nghiệp phải tính toán có kể đến các mô men thêm do biến dạng của mặt đất khi khai thác gây ra.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2146,
+    "line_end": 2146,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-5",
+    "anchor": "muc-12-5",
+    "title": "12.5  Không cần tính biến dạng của nền trong những trường hợp nêu ở Bảng 17 cũng như khi kết cấu chịu lực của nhà và công trình được thiết kế có kể đến độ sụt không đều của mặt đất. Ở nhũng nơi đất lún ướt thì kết cấu của nhà và công trình phải thiết kế có kể đến sự cộng tác dụng có thể có về biến dạng do khai thác và lún ướt của đất.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2152,
+    "line_end": 2152,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-18",
+    "anchor": "bang-bang-18",
+    "title": "Bảng 18 - Hệ số $m_{2}$",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2156,
+    "line_end": 2156,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-6",
+    "anchor": "muc-12-6",
+    "title": "12.6  Khi thiết kế nền nhà và công trình ở những nơi khai thác phải dự kiến kết cấu móng (12.7 và 12.8) cũng như các biện pháp phụ trợ (xem 12.9) để giảm những ảnh hưởng bất Iợi do biến dạng mặt đất gây ra cho kết cấu trên móng.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2168,
+    "line_end": 2168,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-7",
+    "anchor": "muc-12-7",
+    "title": "12.7  Móng nhà và công trình xây ở những nơi khai thác phải dùng các sơ đồ kết cấu cứng, đàn hồi hoặc kết hợp tùy theo trị biến dạng của mặt đất khi khai thác, độ cứng của kết cấu trên móng, tính biến dạng của đất nền, ...",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2172,
+    "line_end": 2172,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-8",
+    "anchor": "muc-12-8",
+    "title": "12.8  Đối với nền đất có trị mô đun biến dạng bé (E < 10 MPa) cũng như khi tính chất xây dựng của đất có thể xấu đi do khai thác thì nên dùng móng cọc hoặc móng bè.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2188,
+    "line_end": 2188,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-12-9",
+    "anchor": "muc-12-9",
+    "title": "12.9  Các biện pháp nhằm giảm các tác động bất lợi (xem 12.6) của biến dạng mặt đất đối với móng và kết cấu nhà và công trình, gồm có:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2194,
+    "line_end": 2194,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13",
+    "anchor": "muc-13",
+    "title": "13  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY Ở NHỮNG VÙNG ĐỘNG ĐẤT",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2212,
+    "line_end": 2212,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-1",
+    "anchor": "muc-13-1",
+    "title": "13.1  Nền nhà và công trình xây ở những vùng động đất có cấp động đất tính toán 7, 8 và 9 phải thiết kế theo các yêu cầu của tiêu chuẩn thiết kế nhà và công trình ở những vùng động đất.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2216,
+    "line_end": 2216,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-2",
+    "anchor": "muc-13-2",
+    "title": "13.2  Việc thiết kế nền có kể đến tác động động đất phải thực hiện trên cơ sở tính toán sức chịu tải bằng tổ hợp đặc biệt các tải trọng xác định theo yêu cầu của tiêu chuẩn về tải trọng và tác động cũng như tiêu chuẩn về thiết kế nhà và công trình ở những vùng động đất.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2222,
+    "line_end": 2222,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-3",
+    "anchor": "muc-13-3",
+    "title": "13.3  Tính toán nền theo sức chịu tải thường chỉ tính với thành phần đứng của tải trọng truyền qua móng xuất phát từ điều kiện:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2228,
+    "line_end": 2228,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-4",
+    "anchor": "muc-13-4",
+    "title": "13.4  Với những tác động của tải trọng tạo ra mô men theo hai hướng của đế móng thì sức chịu tải  nên xác định riêng cho tác động của lực và mô men theo mỗi hướng độc lập nhau.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2252,
+    "line_end": 2252,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-5",
+    "anchor": "muc-13-5",
+    "title": "13.5  Khi tính nền và móng với tổ hợp đặc biệt của tải trọng có kể đến tác động động đất cho phép tựa không hoàn toàn đáy móng lên đất (gián đoạn một phần) khi thỏa mãn các điều kiện sau đây:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2256,
+    "line_end": 2256,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-6",
+    "anchor": "muc-13-6",
+    "title": "13.6  Chiều sâu đặt móng trong vùng động đất (tiêu chuẩn thiết kế nhà và công trình ở vùng động đất) thuộc loại I và II cũng lấy giống như đối với móng ở vùng không bị động đất.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2274,
+    "line_end": 2274,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-13-7",
+    "anchor": "muc-13-7",
+    "title": "13.7  Móng nhà hoặc từng đoạn nhà trên đất không phải đá thường phải đặt ở cùng một độ sâu.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2284,
+    "line_end": 2284,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14",
+    "anchor": "muc-14",
+    "title": "14  ĐẶC ĐIỂM THIẾT KẾ NỀN ĐƯỜNG DÂY TẢI ĐIỆN TRÊN KHÔNG",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2312,
+    "line_end": 2312,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-1",
+    "anchor": "muc-14-1",
+    "title": "14.1  Các yêu cầu ở phần này của tiêu chuẩn phải tuân theo khi thiết kế nền đường dây tải điện trên không và nền các trạm phân phối điện có điện thế từ 1 kV trở Iên.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2316,
+    "line_end": 2316,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-2",
+    "anchor": "muc-14-2",
+    "title": "14.2  Các đặc trưng của đất dùng trong tính toán nền trụ điện hoặc trạm phân phối điện ngoài trời phải Iấy theo kết quả nghiên cứu đất.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2322,
+    "line_end": 2322,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-19",
+    "anchor": "bang-bang-19",
+    "title": "Bảng 19 - Hệ số $k_{tc}$ để xác định trị tính toán các đặc trưng của đất khi tính nền theo sức chịu tải",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2334,
+    "line_end": 2334,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-3",
+    "anchor": "muc-14-3",
+    "title": "14.3  Trị tiêu chuẩn của khối Iượng thể tích đất đắp $^{tc}_{d}$ khi tính nền trụ điện chịu tải trọng nhổ cho phép Iấy theo Bảng 20.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2344,
+    "line_end": 2344,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-20",
+    "anchor": "bang-bang-20",
+    "title": "Bảng 20 - Trị tiêu chuẩn của khối lượng thể tích đất đắp lại",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2348,
+    "line_end": 2348,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-4",
+    "anchor": "muc-14-4",
+    "title": "14.4  Việc tính nền trụ điện theo biến dạng và theo sức chịu tải cần tiến hành đối với mỗi chế độ làm việc của trụ. Khi đó tác động động lực của gió lên kết cấu trụ điện chỉ được kể đến khi tính nền trụ điện theo sức chịu tải.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2359,
+    "line_end": 2359,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-5",
+    "anchor": "muc-14-5",
+    "title": "14.5  Các yêu cầu tính nền trụ điện chịu lực nhổ theo biến dạng được xem là thỏa mãn (tức là có thể không tính theo biến dạng) nếu khi nhổ bởi các lực đối xứng tuân theo điều kiện:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2363,
+    "line_end": 2363,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-6",
+    "anchor": "muc-14-6",
+    "title": "14.6  Hệ số điều kiện làm việc m trong các công thức (37) và (38) lấy bằng m = $m_{d}xm_{0}xm_{c}$, trong đó:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2393,
+    "line_end": 2393,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-21",
+    "anchor": "bang-bang-21",
+    "title": "Bảng 21 - Áp lực tính toán trên đất đắp lại",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2401,
+    "line_end": 2401,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-7",
+    "anchor": "muc-14-7",
+    "title": "14.7  Áp lực tính toán trên đất nền dưới đáy móng chịu nén - lật không được vượt quá trị số xác định theo công thức (15) với hệ số $m_{2}$ =1.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2459,
+    "line_end": 2459,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-8",
+    "anchor": "muc-14-8",
+    "title": "14.8  Trị giới hạn về độ lún của các khối móng độc lập và độ nghiêng khi chịu tải trọng đúng tâm và lệch tâm không được vượt quá trị số nêu ở Bảng 22.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2465,
+    "line_end": 2465,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-22",
+    "anchor": "bang-bang-22",
+    "title": "Bảng 22 - Biến dạng giới hạn của nền trụ tải điện",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2469,
+    "line_end": 2469,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-9",
+    "anchor": "muc-14-9",
+    "title": "14.9  Việc tính nền trụ điện theo sức chịu phải tiến hành",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2481,
+    "line_end": 2481,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-23",
+    "anchor": "bang-bang-23",
+    "title": "Bảng 23 - Hệ số tin cậy",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2511,
+    "line_end": 2511,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-14-10",
+    "anchor": "muc-14-10",
+    "title": "14.10  Sức chịu tải $N_{b}$ của nền bản neo trong công thức (40) khi chịu tác dụng lực nhổ hướng một góc  với phương thẳng đứng, do hình thành khối đất bị trồi mà các mặt của nó nghiêng với phương ngang một góc $_{1}$ xác định bằng công thức:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2522,
+    "line_end": 2522,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-24",
+    "anchor": "bang-bang-24",
+    "title": "Bảng 24 - Hệ số",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2566,
+    "line_end": 2566,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15",
+    "anchor": "muc-15",
+    "title": "15  ĐẶC ĐIỂM THIẾT KẾ NỀN, MÓNG CẦU VÀ CỐNG",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2577,
+    "line_end": 2577,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15-1",
+    "anchor": "muc-15-1",
+    "title": "15.1  Nền móng cầu và cống của đường sắt và đường ô tô kể cả cầu vượt và nền móng cầu cạn phải thiết kế theo đặc thù kết cấu của loại công trình này và các tải trọng tác dụng lên công trình, điều kiện sử dụng (yêu cầu độ an toàn cao lúc công trình làm việc) cũng như kể đến các điều kiện địa chất, địa chất thủy văn và thủy văn đối với các cầu xây ở các lòng sông và bãi bồi có dòng nước tác dụng thường xuyên hoặc theo mùa.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2581,
+    "line_end": 2581,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15-2",
+    "anchor": "muc-15-2",
+    "title": "15.2  Chiều sâu đặt móng trụ cầu hoặc các đệm đất của cống phải quy định xuất phát từ yêu cầu chung nêu ở 4.5.1 và 4.5.2 cũng như các chỉ dẫn phụ sau đây:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2585,
+    "line_end": 2585,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15-3",
+    "anchor": "muc-15-3",
+    "title": "15.3  Xác suất tin cậy  của các trị tính toán những đặc trưng độ bền xác định theo yêu cầu ở 4.3.1, 4.3.2, 4.3.3, 4.3.4, 4.3.5, 4.3.6, 4.3.7, đối với đất nền của cầu và cống thoát phải lấy như sau:",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2597,
+    "line_end": 2597,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15-4",
+    "anchor": "muc-15-4",
+    "title": "15.4  Nền móng cầu và cống phải tính theo sức chịu tải và theo biến dạng.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2605,
+    "line_end": 2605,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15-5",
+    "anchor": "muc-15-5",
+    "title": "15.5  Việc tính toán nền cầu và cống theo sức chịu tải phải tiến hành theo những yêu cầu ở 4.7.2, còn sức chịu tải  cho phép dựa vào kinh nghiệm mà chọn theo bảng cho sẵn tùy thuộc và các đặc trưng vật lý của đất.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2609,
+    "line_end": 2609,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15-6",
+    "anchor": "muc-15-6",
+    "title": "15.6  Việc tính toán nền, cầu và cống theo biến dạng bao gồm việc tính toán độ lún và nghiêng của móng cũng như kiểm tra vị trí đặt hợp lực ở đáy móng.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2613,
+    "line_end": 2613,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15-7",
+    "anchor": "muc-15-7",
+    "title": "15.7  Độ lún và độ nghiêng của các cầu bé và cầu trung bình cho phép không cần tính toán ngoại trừ hệ tĩnh định. Việc xếp loại cần phải dựa vào tiêu chuẩn thiết kế cầu và cống.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2617,
+    "line_end": 2617,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15-8",
+    "anchor": "muc-15-8",
+    "title": "15.8  Việc tính toán theo biến dạng nền móng cầu ngoại trừ hệ siêu tĩnh, phải tiến hành có kể đến tác dụng qua lại giữa nền, móng và kết cấu phía trên.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2621,
+    "line_end": 2621,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15-9",
+    "anchor": "muc-15-9",
+    "title": "15.9  Việc tính lún của móng ngoài việc phụ thuộc vào kích thước kể cả bề rộng lớn hơn 10 m, phải theo phương pháp chia tầng lấy tổng, còn nếu trong phạm vi bên dưới lớp chịu nén, nền đất có mô đun biến dạng lớn hơn 100 MPa thì tính lún theo sơ đồ tính toán (mô hình) lớp đàn hồi với chiều dày hữu hạn.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2625,
+    "line_end": 2625,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15-10",
+    "anchor": "muc-15-10",
+    "title": "15.10  Cống dưới nền đường phải đặt trên móng hoặc trên đệm đất được đầm cẩn thận. Khi đó buộc phải làm móng cho từng đoạn cống và cho các đầu cống có tiết diện không khép kín. Đối với các đầu cống có dạng kết cấu bất kỳ cũng cần có móng.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2629,
+    "line_end": 2629,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-15-11",
+    "anchor": "muc-15-11",
+    "title": "15.11  Nền của cống (nhằm giữ trong quá trình sử dụng một độ dốc cần thiết để thoát nước dọc theo cống và đề phòng bị ngập phía hạ lưu) cần phải đặt cao lên, điều này phải xác định trên cơ sở tính toán độ lún của nền cho từng đoạn cống và đầu cống có kể đến ảnh hưởng qua lại giữa chúng và chiều cao thay đổi của nền đường phía bên trên.",
+    "source_file": "tcvn_9362_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2635,
+    "line_end": 2635,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (Quy định) — Quy tắc thiết lập trị tiêu chuẩn và trị tính toán các đặc trưng của đất",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-1",
+    "anchor": "muc-a-1",
+    "title": "A.1  Yêu cầu chung",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-1-1",
+    "anchor": "muc-a-1-1",
+    "title": "A.1.1  Quy tắc này cần phải tuân theo khi tìm trị tiêu chuẩn và trị tính toán đặc trưng của đất trị tiêu chuẩn và trị tính toán các đặc trưng của đất trong khu vực xây dựng nói chung (khu nhà ở, khu nhà máy, hệ thống chăn nuôi) hoặc từng bộ phận của khu đất hoặc khu vực của công trình sửa chữa hoặc xây dựng riêng rẽ (nhà ở, phân xưởng ....).",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 10,
+    "line_end": 10,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-1-2",
+    "anchor": "muc-a-1-2",
+    "title": "A.1.2  Trị tiêu chuẩn về trị tính toán các đặc trưng của đất xác định theo kết quả của các số liệu thí nghiệm trực tiếp, còn đối với các đặc trưng biến dạng và độ bền chẳng những theo kết quả của thí nghiệm trực tiếp mà còn theo các đặc trưng vật lý có dùng các bảng theo chỉ dẫn ở 4.3.7. Khi đó các giá trị riêng biệt của các đặc trưng dùng để thiết lập trị tiêu chuẩn và trị tính toán cần phải xác định theo cùng một phương pháp.",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 14,
+    "line_end": 14,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-1-3",
+    "anchor": "muc-a-1-3",
+    "title": "A.1.3  Trị tiêu chuẩn và trị tính toán các đặc trưng của đất cần phải thiết lập đối với mỗi đơn nguyên địa chất công trình được phân chia trên khu vực xây dựng.",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 18,
+    "line_end": 18,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-2",
+    "anchor": "muc-a-2",
+    "title": "A.2  Thiết lập trị tiêu chuẩn và trị tính toán các đặc trưng của đất theo kết quả thí nghiệm trực tiếp",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 24,
+    "line_end": 24,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-2-1",
+    "anchor": "muc-a-2-1",
+    "title": "A.2.1  Trị tiêu chuẩn $A^{tc}$ các đặc trưng của đất theo kết quả thí nghiệm trực tiếp trong phòng và hiện trường được xác định theo công thức:",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 28,
+    "line_end": 28,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-2-2",
+    "anchor": "muc-a-2-2",
+    "title": "A.2.2  Việc xử lý các kết quả thí nghiệm cắt trong phòng nhằm xác định trị tiêu chuẩn của lực dính đơn vị $c^{tc}$ và góc ma sát trong $^{tc}$ tiến hành bằng cách tính toán theo phương pháp bình phương nhỏ nhất sự phụ thuộc tuyến tính (A.2) đối với toàn bộ tổng hợp đại lượng thí nghiệm  trong đơn nguyên địa chất công trình:",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 42,
+    "line_end": 42,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-a_2",
+    "anchor": "formula-a_2",
+    "title": "$$= p.tg + c \\qquad (A.2)$$",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 46,
+    "line_end": 46,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-2-3",
+    "anchor": "muc-a-2-3",
+    "title": "A.2.3  Hệ số an toàn về đất $k_{đ}$ (xem 4.3.4 và 4.3.5) khi xác định trị tính toán của lực dính đơn vị c, góc ma sát trong , cường độ giới hạn về nén một trục $R_{n}$ và khối lượng thể tích đất  được tính toán theo công thức:",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 71,
+    "line_end": 71,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-2-4",
+    "anchor": "muc-a-2-4",
+    "title": "A.2.4  Chỉ số độ chính xác đánh giá trị trung bình các đặc trưng của đất được tính theo công thức:",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 83,
+    "line_end": 83,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "formula-a_7",
+    "anchor": "formula-a_7",
+    "title": "$$Đối với c và tg: = t \\times v \\qquad (A.7)$$",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 87,
+    "line_end": 87,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-a-1",
+    "anchor": "bang-bang-a-1",
+    "title": "Bảng A.1 - Hệ số t dùng để xác định chỉ số độ chính xác trị trung bình đặc trưng của đất",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 104,
+    "line_end": 104,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-2-5",
+    "anchor": "muc-a-2-5",
+    "title": "A.2.5  Sai số toàn phương trung bình  được tính toán theo các công thức:",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 134,
+    "line_end": 134,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-3",
+    "anchor": "muc-a-3",
+    "title": "A.3  Xác định trị tính toán và trị tiêu chuẩn các đặc trưng biển dạng và độ bền của đất theo kết quả thí nghiệm các chỉ tiêu vật lý",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 167,
+    "line_end": 167,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-3-1",
+    "anchor": "muc-a-3-1",
+    "title": "A.3.1  Trị tiêu chuẩn và trị tính toán các đặc trưng biến dạng các đặc trưng biến dạng và độ bền được phép xác định theo các chỉ tiêu vật lý có dùng các các bảng tính thiết lập trên cơ sở thống kê số lớn mẫu thí nghiệm đất (xem 4.3.7). Các chỉ tiêu vật lý cần thiết cho việc dùng các bảng (như: hệ số rỗng e, chỉ số sệt $I_{s}$ ....) được xác định trên cơ sở thí nghiệm trực tiếp.",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 171,
+    "line_end": 171,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-3-2",
+    "anchor": "muc-a-3-2",
+    "title": "A.3.2  Để thiết lập trị tiêu chuẩn và trị tính toán các đặc trưng độ bền và biến dạng của đất cần dùng trị tiêu chuẩn các đặc trưng vật lý xác định theo công thức (A.1).",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 175,
+    "line_end": 175,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-a-4",
+    "anchor": "muc-a-4",
+    "title": "A.4  Số lượng thí nghiệm n để thiết lập trị trị tiêu chuẩn và trị tính toán các đặc trưng của đất",
+    "source_file": "annexes/phu_luc_a_quy_tac_thiet_lap_tri_tieu_chuan_va_tri_tinh.md",
+    "jurisdiction": "CQXD",
+    "line_start": 179,
+    "line_end": 179,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B (Tham khảo) — Các bảng trị tiêu chuẩn các đặc trưng độ bền và biến dạng của đất",
+    "source_file": "annexes/phu_luc_b_cac_bang_tri_tieu_chuan_cac_dac_trung_do_ben.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-b-1",
+    "anchor": "muc-b-1",
+    "title": "B.1  Các đặc trưng của đất ghi trong các Bảng B.1 đến Bảng B.3 được dùng trong tính toán biến dạng nền nhà và công trình nêu ở Chú thích 1 trong 4.3.7, với hệ số an toàn $k_{đ}$ = 1 cũng như để tính toán nền của các cột tải điện cao thế và trạm phân phối điện nêu ở 14.2.",
+    "source_file": "annexes/phu_luc_b_cac_bang_tri_tieu_chuan_cac_dac_trung_do_ben.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-b-2",
+    "anchor": "muc-b-2",
+    "title": "B.2  Các đặc trưng của đất cát trong Bảng B.1 là của cát thạch anh với các hạt mài mòn khác nhau, có chứa không quá 20 % phen-spat và không quá 5 % các tạp chất khác (mica, glauconit ....) kể cả tàn tích thực vật, không phụ thuộc vào độ no nước G.",
+    "source_file": "annexes/phu_luc_b_cac_bang_tri_tieu_chuan_cac_dac_trung_do_ben.md",
+    "jurisdiction": "CQXD",
+    "line_start": 10,
+    "line_end": 10,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-b-3",
+    "anchor": "muc-b-3",
+    "title": "B.3  Các đặc trưng của đất sét trong Bảng B.2 và Bảng B.3 là của đất có chứa không quá 5 % tàn tích thực vật và có độ no nước G ≥ 0,8.",
+    "source_file": "annexes/phu_luc_b_cac_bang_tri_tieu_chuan_cac_dac_trung_do_ben.md",
+    "jurisdiction": "CQXD",
+    "line_start": 14,
+    "line_end": 14,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-b-4",
+    "anchor": "muc-b-4",
+    "title": "B.4  Đối với đất cát và đất sét có những giá trị trung gian e không ghi trong các Bảng B.1 đến Bảng B.3 được phép xác định đại lượng $c^{tc}$, $^{tc}$ và E bằng nội suy.",
+    "source_file": "annexes/phu_luc_b_cac_bang_tri_tieu_chuan_cac_dac_trung_do_ben.md",
+    "jurisdiction": "CQXD",
+    "line_start": 18,
+    "line_end": 18,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-b-5",
+    "anchor": "muc-b-5",
+    "title": "B.5  Khi giá trị e đối với đất cát và đất sét cũng như khi giá trị G và $I_{s}$ đối với đất sét vượt phạm vi của các Bảng B.1 đến Bảng B.3 thì trị tiêu chuẩn của các đặc trưng của đất $c^{tc}$, $^{tc}$ và E nên xác định theo số liệu nghiên cứu địa chất công trình.",
+    "source_file": "annexes/phu_luc_b_cac_bang_tri_tieu_chuan_cac_dac_trung_do_ben.md",
+    "jurisdiction": "CQXD",
+    "line_start": 22,
+    "line_end": 22,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-b-7",
+    "anchor": "muc-b-7",
+    "title": "B.7  Vì trị tính toán các đặc trưng của đất E, e, G và $I_{s}$ theo 4.3.5 được chọn bằng trị tiêu chuẩn cho nên để đơn giản khi viết ký hiệu của trị tiêu chuẩn các đặc trưng này chúng ta không viết chỉ số “tc” ở phía trên.",
+    "source_file": "annexes/phu_luc_b_cac_bang_tri_tieu_chuan_cac_dac_trung_do_ben.md",
+    "jurisdiction": "CQXD",
+    "line_start": 30,
+    "line_end": 30,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-b-1",
+    "anchor": "bang-bang-b-1",
+    "title": "Bảng B.1 - Trị tiêu chuẩn của lực dính cho đơn vị $c^{tc}$ (kPa), góc ma sát trong $^{tc}$ (°) và mô đun biến dạng E (kPa) của đất cát (không phụ thuộc vào nguồn gốc, tuổi và độ ẩm)",
+    "source_file": "annexes/phu_luc_b_cac_bang_tri_tieu_chuan_cac_dac_trung_do_ben.md",
+    "jurisdiction": "CQXD",
+    "line_start": 34,
+    "line_end": 34,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-b-2",
+    "anchor": "bang-bang-b-2",
+    "title": "Bảng B.2 - Trị tiêu chuẩn của lực dính cho đơn vị $c^{tc}$ (kPa) và góc ma sát trong $^{tc}$ (°) của đất sét trầm tích kỷ thứ tư",
+    "source_file": "annexes/phu_luc_b_cac_bang_tri_tieu_chuan_cac_dac_trung_do_ben.md",
+    "jurisdiction": "CQXD",
+    "line_start": 49,
+    "line_end": 49,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-b-3",
+    "anchor": "bang-bang-b-3",
+    "title": "Bảng B.3 - Trị tiêu chuẩn của mô đun biến dạng của đất sét E (MPa)",
+    "source_file": "annexes/phu_luc_b_cac_bang_tri_tieu_chuan_cac_dac_trung_do_ben.md",
+    "jurisdiction": "CQXD",
+    "line_start": 69,
+    "line_end": 69,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-c",
+    "anchor": "phu-luc-c",
+    "title": "PHỤ LỤC C (Tham khảo) — Tính toán biến dạng của nền",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-1",
+    "anchor": "muc-c-1",
+    "title": "C.1  Xác định độ lún",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-1-1",
+    "anchor": "muc-c-1-1",
+    "title": "C.1.1  Độ lún của nền móng có dùng sơ đồ tính toán dưới dạng bán không gian biến dạng đàn hồi tuyến tính (xem 4.6.8a)) xác định bằng phương pháp cộng lún các lớp trong phạm vi chiều dày chịu nén của nền. Thừa nhận rằng đối với các móng có chiều rộng hoặc đường kính nhỏ hơn 10 m, độ lún xảy ra là do áp lực thêm bằng hiệu số của áp lực trung bình do móng truyền lên và áp lực thiên nhiên do trọng lượng của đất trước khi đào móng gây ra, còn đại lượng chiều dày chịu nén của nền có thể xác định theo các chỉ dẫn ở C.1.5.",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 10,
+    "line_end": 10,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-1-2",
+    "anchor": "muc-c-1-2",
+    "title": "C.1.2  Khi tính toán độ lún của các móng riêng rẽ bằng phương pháp cộng lớp nên chú ý đến sơ đồ phân bố áp lực thẳng đứng trong đất nền vẽ trên Hình C.1, ở đây nên dùng các ký hiệu sau:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 18,
+    "line_end": 18,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_1",
+    "anchor": "hinh-c_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 42,
+    "line_end": 42,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-1",
+    "anchor": "bang-bang-c-1",
+    "title": "Bảng C.1 - Hệ số",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 69,
+    "line_end": 69,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-1-3",
+    "anchor": "muc-c-1-3",
+    "title": "C.1.3  Sự phân bố theo độ sâu áp lực pháp tuyến tại điểm C nào đó trong hoặc ngoài phạm vi của móng có áp lực thêm ở đáy móng $p_{0}$ sẽ tìm được bằng cách dùng phương pháp điểm góc.",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 107,
+    "line_end": 107,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_2",
+    "anchor": "hinh-c_2",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 128,
+    "line_end": 128,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-1-4",
+    "anchor": "muc-c-1-4",
+    "title": "C.1.4  Áp lực đứng p’$_{oz}$ tại độ sâu nào đó theo phương thẳng đứng qua trung tâm móng tính toán khi kể đến ảnh hưởng của các móng lân cận xác định theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 139,
+    "line_end": 139,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-1-5",
+    "anchor": "muc-c-1-5",
+    "title": "C.1.5  Độ sâu tầng chịu nén của nền z’ được hạn chế dựa vào tỷ số giữa các đại lượng áp lực thêm do móng p’$_{oz}$ hoặc khi kể đến ảnh hưởng của các móng lân cận p’$_{oz}$, (theo phương thẳng đứng qua trung tâm của móng) và áp lực thiên nhiên tại cùng độ sâu $p_{dz}$’. Khi có nước ngầm, áp lực thiên nhiên được xác định có kể đến tác dụng đẩy nổi của nước.",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 149,
+    "line_end": 149,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-1-6",
+    "anchor": "muc-c-1-6",
+    "title": "C.1.6  Độ lún nền móng theo phương pháp cộng lớp xác định (có hoặc không kể đến ảnh hưởng của các móng lân cận) theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 159,
+    "line_end": 159,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-1-7",
+    "anchor": "muc-c-1-7",
+    "title": "C.1.7  Việc xác định độ lún của nền khi dùng sơ đồ tính toán theo lớp biến dạng tuyến tính (đàn hồi) có chiều dày hữu hạn được dùng trong các trường hợp nói ở 4.6.8b). Cần chú ý rằng độ lún trong các trường hợp này là do áp lực toàn phần trung bình tác dụng ở đế móng (không trừ áp lực thiên nhiên) gây ra.",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 181,
+    "line_end": 181,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-1-8",
+    "anchor": "muc-c-1-8",
+    "title": "C.1.8  Độ lún của móng riêng rẽ sẽ theo sơ đồ tính toán nền dưới dạng lớp đàn hồi biến dạng tuyến tính có chiều dày hữu hạn H xác định theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 187,
+    "line_end": 187,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-1-9",
+    "anchor": "muc-c-1-9",
+    "title": "C.1.9  Chiều dày tính toán của lớp biến dạng tuyến tính $H_{u}$ (Hình C.3) được chọn đến mái của lớp đất có mô đun biến dạng E ≥ 100 000 kPa và đối với các móng kích thước lớn (bề rộng hoặc đường kính lớn hơn 10 m) thì tới mái lớp có mô đun biến dạng E ≥ 10 000 kPa xác định theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 211,
+    "line_end": 211,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-2",
+    "anchor": "bang-bang-c-2",
+    "title": "Bảng C.2 - Hệ số M",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 227,
+    "line_end": 227,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-3",
+    "anchor": "bang-bang-c-3",
+    "title": "Bảng C.3 - Hệ số $k_{1}$ và $k_{b}$",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 239,
+    "line_end": 239,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_3",
+    "anchor": "hinh-c_3",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 274,
+    "line_end": 274,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-2",
+    "anchor": "muc-c-2",
+    "title": "C.2  Xác định độ nghiêng của móng khi tác dụng tải trọng lệch tâm",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 285,
+    "line_end": 285,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-2-1",
+    "anchor": "muc-c-2-1",
+    "title": "C.2.1  Độ nghiêng của móng (khi tác dụng tải trọng lệch tâm) theo sơ đồ tính toán nền ở dạng bán không gian đàn hồi biến dạng tuyến tính (xem 4.6.8a)) xác định như sau:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 289,
+    "line_end": 289,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-2-2",
+    "anchor": "muc-c-2-2",
+    "title": "C.2.2  Độ nghiêng của móng tròn theo sơ đồ tính toán nền thuộc loại lớp biến dạng tuyến tính có chiều dày hữu hạn, xác định theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 321,
+    "line_end": 321,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-4",
+    "anchor": "bang-bang-c-4",
+    "title": "Bảng C.4 - Hệ số $k_{l}$ và $k_{b}$",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 331,
+    "line_end": 331,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-5",
+    "anchor": "bang-bang-c-5",
+    "title": "Bảng C.5 - Hệ số $k_{c}$",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 342,
+    "line_end": 342,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3",
+    "anchor": "muc-c-3",
+    "title": "C.3  Xác định độ lún ướt của nền bằng đất có tính lún ướt",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 350,
+    "line_end": 350,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-1",
+    "anchor": "muc-c-3-1",
+    "title": "C.3.1  Độ lún ướt của đất nền $S_{s}$ do tải trọng của móng gây ra khi thấm ướt trong vùng biến dạng $h_{bd}$ xác định theo 5.2, được tính theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 354,
+    "line_end": 354,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-2",
+    "anchor": "muc-c-3-2",
+    "title": "C.3.2  Độ lún ướt tương đối của đất khi không no nước (’$\\varepsilon_{s}$) xác định theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 386,
+    "line_end": 386,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-3",
+    "anchor": "muc-c-3-3",
+    "title": "C.3.3  Độ lún ướt của nền, độ lệch lún ướt và độ nghiêng của các móng riêng rẽ ở trong vùng xuất hiện lún ướt không đều của nền do sự lan truyền của nước từ nguồn thấm ướt ra xung quanh, cần phải xác định có tính đến sự thấm ướt hữu hạn vùng dưới của nền trong khoảng độ sâu h (Hình C.4), bằng:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 406,
+    "line_end": 406,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-4",
+    "anchor": "muc-c-3-4",
+    "title": "C.3.4  Giá trị cực đại của độ lún ướt $S^{max}_{sd}$ do trọng lượng bản thân của đất gây ra khi thấm ướt mạnh phía trên với diện tích có bề rộng không nhỏ hơn chiều dày lún ướt hoặc có bề rộng không nhỏ hơn chiều dày lún ướt hoặc khi dâng mực nước ngầm, xác định theo công thức (C.12), trong đó tổng (C.12) gồm có:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 436,
+    "line_end": 436,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_4",
+    "anchor": "hinh-c_4",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 450,
+    "line_end": 450,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-5",
+    "anchor": "muc-c-3-5",
+    "title": "C.3.5  Trị số lún ướt khả dĩ của đất do trọng lượng bản thân đất gây ra trên vùng đất loại II về tính lún ướt khi làm ướt cục bộ tạm thời với diện tích có bề rộng nhỏ hơn chiều dày lún ướt H, sẽ được xác định theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 461,
+    "line_end": 461,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-6",
+    "anchor": "muc-c-3-6",
+    "title": "C.3.6  Trị số lún ướt của đất $S_{s,d}^{max,B}$ do trọng lượng bản thân đất gây ra tại các điểm khác nhau của diện tích thấm ướt và của diện tích gần đó xác định theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 469,
+    "line_end": 469,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-3-7",
+    "anchor": "muc-c-3-7",
+    "title": "C.3.7  Trị số chuyển vị ngang $U_{s}$ (cm) trên mặt đất khi độ lún ướt của nó do trọng lượng bản thân gây ra bơi sự thấm ướt mạnh hoặc cục bộ (xem 5.5) tính toán theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 490,
+    "line_end": 490,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-4",
+    "anchor": "muc-c-4",
+    "title": "C.4  Xác định sự trương nở và sự co ngót của nền gồm đất có tính trương nở",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 510,
+    "line_end": 510,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-4-1",
+    "anchor": "muc-c-4-1",
+    "title": "C.4.1  Độ nâng cao nền móng $S_{tr.n}$ do sự trương nở của đất bị thấm ướt gây ra được xác định theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 514,
+    "line_end": 514,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-4-2",
+    "anchor": "muc-c-4-2",
+    "title": "C.4.2  Độ trương nở tương đối của đất $_{tr.n}$ xác định như sau:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 532,
+    "line_end": 532,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-4-3",
+    "anchor": "muc-c-4-3",
+    "title": "C.4.3  Áp lực tổng $p_{t}$ ở giữa lớp đang xét (Hình C.5) được xác định theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 564,
+    "line_end": 564,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-c_5",
+    "anchor": "hinh-c_5",
+    "title": "",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 588,
+    "line_end": 588,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-4-4",
+    "anchor": "muc-c-4-4",
+    "title": "C.4.4  Biên dưới của vùng trương nở $H_{tn}$ (Hình C.5) được chọn:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 599,
+    "line_end": 599,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-c-6",
+    "anchor": "bang-bang-c-6",
+    "title": "Bảng C.6 - Hệ số $m_{3}$",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 607,
+    "line_end": 607,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-4-5",
+    "anchor": "muc-c-4-5",
+    "title": "C.4.5  Đại lượng co ngót của nền do quá trình khô đất trương nở $S_{c}$ xác định theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 620,
+    "line_end": 620,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-5",
+    "anchor": "muc-c-5",
+    "title": "C.5  Xác định độ xói ngầm của nền đất nhiễm muối",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 640,
+    "line_end": 640,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-5-1",
+    "anchor": "muc-c-5-1",
+    "title": "C.5.1  Độ lún xói ngầm của nền đất nhiễm muối $S_{x}$ được xác định theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 644,
+    "line_end": 644,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-5-2",
+    "anchor": "muc-c-5-2",
+    "title": "C.5.2  Trị số lún xói ngầm tương đối $_{x}$ của đất nhiễm muối xác định bằng thí nghiệm nén tĩnh hiện trường hoặc các phương pháp nén thấm trong phòng theo các trường hợp quy định ở 10.4.",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 660,
+    "line_end": 660,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-5-3",
+    "anchor": "muc-c-5-3",
+    "title": "C.5.3  Trị số lún xói ngầm tương đối $_{x}$ quy định bằng thí nghiệm hiện trường được xác định theo công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 666,
+    "line_end": 666,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-c-5-4",
+    "anchor": "muc-c-5-4",
+    "title": "C.5.4  Trị số độ lún xói ngầm tương đối theo thí nghiệm nén thấm được xác định bằng công thức:",
+    "source_file": "annexes/phu_luc_c_tinh_toan_bien_dang_cua_nen.md",
+    "jurisdiction": "CQXD",
+    "line_start": 680,
+    "line_end": 680,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-d",
+    "anchor": "phu-luc-d",
+    "title": "PHỤ LỤC D (Tham khảo) — Áp lực tính toán quy ước trên nền đất",
+    "source_file": "annexes/phu_luc_d_ap_luc_tinh_toan_quy_uoc_tren_nen_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-d-1",
+    "anchor": "muc-d-1",
+    "title": "D.1  Áp lực tính toán quy ước trên đất nền $R_{0}$ ghi trong các Bảng D.1 đến Bảng D.4 dùng để xác định sơ bộ và xác định cuối cùng kích thước của móng trong các trường hợp nêu ở 4.6.18 đối với đất hòn lớn, đất cát (Bảng D.1) và đối với đất sét (không lún ướt) (Bảng D.2) ở 5.9 đối với đất lún ướt (Bảng D.3) và ở 11.6 đối với đất đắp (Bảng D.4).",
+    "source_file": "annexes/phu_luc_d_ap_luc_tinh_toan_quy_uoc_tren_nen_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-d-1",
+    "anchor": "bang-bang-d-1",
+    "title": "Bảng D.1 - Áp lực tính toán quy ước $R_{o}$ trên đất hòn lớn và đất cát",
+    "source_file": "annexes/phu_luc_d_ap_luc_tinh_toan_quy_uoc_tren_nen_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 12,
+    "line_end": 12,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "muc-d-2",
+    "anchor": "muc-d-2",
+    "title": "D.2  Khi dùng trong tính toán các trị số $R_{o}$ lấy ở các Bảng D.1 đến Bảng D.3 để chọn kích thước cuối cùng của móng nhà và công trình trong các trường hợp nêu ở 4.6.18 và 5.9, đại lượng áp lực tính toán R xác định theo các công thức (D.1) và (D.2), khi đó các giá trị $R_{o}$ (Bảng D.1 đến Bảng D.3) là thuộc về móng có chiều rộng $b_{1}$ = 1 m và độ sâu chôn móng $h_{1}$ = 2 m.",
+    "source_file": "annexes/phu_luc_d_ap_luc_tinh_toan_quy_uoc_tren_nen_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 34,
+    "line_end": 34,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-d-2",
+    "anchor": "bang-bang-d-2",
+    "title": "Bảng D.2 - Áp lực tính toán quy ước $R_{o}$ trên đất sét không lún ướt",
+    "source_file": "annexes/phu_luc_d_ap_luc_tinh_toan_quy_uoc_tren_nen_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 64,
+    "line_end": 64,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-d-3",
+    "anchor": "bang-bang-d-3",
+    "title": "Bảng D.3 - Áp lực tính toán quy ước $R_{0}$ trên nền đất lún ướt",
+    "source_file": "annexes/phu_luc_d_ap_luc_tinh_toan_quy_uoc_tren_nen_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 84,
+    "line_end": 84,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "bang-bang-d-4",
+    "anchor": "bang-bang-d-4",
+    "title": "Bảng D.4 - Trị tính toán quy ước $R_{0}$ trên nền đất đắp đã ổn định",
+    "source_file": "annexes/phu_luc_d_ap_luc_tinh_toan_quy_uoc_tren_nen_dat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 99,
+    "line_end": 99,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e",
+    "anchor": "phu-luc-e",
+    "title": "PHỤ LỤC E (Quy định) — Các hệ số dùng để tính toán sức chịu tải của nền",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-e_1",
+    "anchor": "hinh-e_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 26,
+    "line_end": 26,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "hinh-e_2",
+    "anchor": "hinh-e_2",
+    "title": "",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 37,
+    "line_end": 37,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-1",
+    "anchor": "phu-luc-e-muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 52,
+    "line_end": 52,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-2",
+    "anchor": "phu-luc-e-muc-2",
+    "title": "2  QUY ĐỊNH CHUNG",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 56,
+    "line_end": 56,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-3",
+    "anchor": "phu-luc-e-muc-3",
+    "title": "3  PHÂN LOẠI ĐẤT NỀN",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 60,
+    "line_end": 60,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-4",
+    "anchor": "phu-luc-e-muc-4",
+    "title": "4  THIẾT KẾ NỀN",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 64,
+    "line_end": 64,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-5",
+    "anchor": "phu-luc-e-muc-5",
+    "title": "5  ĐẶC ĐIỂM THIẾT KẾ NỀN CỦA NHÀ VÀ CÔNG TRÌNH XÂY TRÊN ĐẤT LÚN ƯỚT",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 68,
+    "line_end": 68,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-6",
+    "anchor": "phu-luc-e-muc-6",
+    "title": "6  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY TRÊN ĐẤT TRƯƠNG NỞ",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 72,
+    "line_end": 72,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-7",
+    "anchor": "phu-luc-e-muc-7",
+    "title": "7  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY TRÊN ĐẤT THAN BÙN NO NƯỚC",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 76,
+    "line_end": 76,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-8",
+    "anchor": "phu-luc-e-muc-8",
+    "title": "8  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY TRÊN BÙN",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 80,
+    "line_end": 80,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-9",
+    "anchor": "phu-luc-e-muc-9",
+    "title": "9  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY TRÊN ĐẤT ELUVI",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 84,
+    "line_end": 84,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-10",
+    "anchor": "phu-luc-e-muc-10",
+    "title": "10  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY TRÊN ĐẤT NHIỄM MUỐI",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 88,
+    "line_end": 88,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-11",
+    "anchor": "phu-luc-e-muc-11",
+    "title": "11  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY TRÊN ĐẤT ĐẮP",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 92,
+    "line_end": 92,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-12",
+    "anchor": "phu-luc-e-muc-12",
+    "title": "12  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY Ở NHỮNG NƠI KHÁC",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 96,
+    "line_end": 96,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-13",
+    "anchor": "phu-luc-e-muc-13",
+    "title": "13  ĐẶC ĐIỂM THIẾT KẾ NỀN, NHÀ VÀ CÔNG TRÌNH XÂY Ở NHỮNG VÙNG ĐỘNG ĐẤT",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 100,
+    "line_end": 100,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-14",
+    "anchor": "phu-luc-e-muc-14",
+    "title": "14  ĐẶC ĐIỂM THIẾT KẾ NỀN ĐƯỜNG DÂY TẢI ĐIỆN TRÊN KHÔNG",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 104,
+    "line_end": 104,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-15",
+    "anchor": "phu-luc-e-muc-15",
+    "title": "15  ĐẶC ĐIỂM THIẾT KẾ NỀN, MÓNG CẦU VÀ CỐNG",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 108,
+    "line_end": 108,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-18",
+    "anchor": "phu-luc-e-muc-18",
+    "title": "18  PHỤ LỤC C (THAM KHẢO) TÍNH TOÁN BIẾN DẠNG CỦA NỀN",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 116,
+    "line_end": 116,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-19",
+    "anchor": "phu-luc-e-muc-19",
+    "title": "19  PHỤ LỤC D (THAM KHẢO) ÁP LỰC TÍNH TOÁN QUY ƯỚC TRÊN NỀN ĐẤT",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 120,
+    "line_end": 120,
+    "cong_bao_number": "TCVN"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-20",
+    "anchor": "phu-luc-e-muc-20",
+    "title": "20  PHỤ LỤC E (QUY ĐỊNH) CÁC HỆ SỐ DÙNG ĐỂ TÍNH TOÁN SỨC CHỊU TẢI CỦA NỀN",
+    "source_file": "annexes/phu_luc_e_cac_he_so_dung_de_tinh_toan_suc_chiu_tai_cua.md",
+    "jurisdiction": "CQXD",
+    "line_start": 124,
+    "line_end": 124,
+    "cong_bao_number": "TCVN"
+  }
+]

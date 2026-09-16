@@ -1,0 +1,190 @@
+{
+  "table_id": "bang_e_1",
+  "table_number": "E.1",
+  "table_title": "Bảng E.1 - Danh mục các địa danh hành chính cấp tỉnh áp dụng các loại Phổ",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Địa danh",
+    "Loại phổ áp dụng"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Địa danh": "(1)",
+      "Loại phổ áp dụng": "(2)"
+    },
+    {
+      "_row_id": 2,
+      "Địa danh": "1. Thành phố Hà Nội",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 3,
+      "Địa danh": "2. Thành phố Hồ Chí Minh (Thành phố Hồ Chí Minh, Bà Rịa - Vũng Tàu, Bình Dương)",
+      "Loại phổ áp dụng": "2"
+    },
+    {
+      "_row_id": 4,
+      "Địa danh": "3. Thành phố Hải Phòng (Thành phố Hải Phòng, Hải Dương)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 5,
+      "Địa danh": "4. Thành phố Đà Nẵng (Thành phố Đà Nẵng, Quảng Nam)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 6,
+      "Địa danh": "5. Thành phố Cần Thơ (Thành phố Cần Thơ, Hậu Giang, Sóc Trăng)",
+      "Loại phổ áp dụng": "2"
+    },
+    {
+      "_row_id": 7,
+      "Địa danh": "6. Thành phố Huế (Thừa Thiên Huế)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 8,
+      "Địa danh": "7. An Giang (An Giang, Kiên Giang)",
+      "Loại phổ áp dụng": "2"
+    },
+    {
+      "_row_id": 9,
+      "Địa danh": "8. Bắc Ninh (Bắc Ninh, Bắc Giang)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 10,
+      "Địa danh": "9. Cà Mau (Cà Mau, Bạc Liêu)",
+      "Loại phổ áp dụng": "2"
+    },
+    {
+      "_row_id": 11,
+      "Địa danh": "10. Cao Bằng",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 12,
+      "Địa danh": "11. Đắk Lắk (Đắk Lắk, Phú Yên)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 13,
+      "Địa danh": "12. Điện Biên",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 14,
+      "Địa danh": "13. Đồng Nai (Đồng Nai, Bình Phước)",
+      "Loại phổ áp dụng": "2"
+    },
+    {
+      "_row_id": 15,
+      "Địa danh": "14. Đồng Tháp (Đồng Tháp, Tiền Giang)",
+      "Loại phổ áp dụng": "2"
+    },
+    {
+      "_row_id": 16,
+      "Địa danh": "15. Gia Lai (Gia Lai, Bình Định)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 17,
+      "Địa danh": "16. Hà Tĩnh",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 18,
+      "Địa danh": "17. Hưng Yên (Hưng Yên, Thái Bình)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 19,
+      "Địa danh": "18. Khánh Hòa (Khánh Hòa, Ninh Thuận)",
+      "Loại phổ áp dụng": "2"
+    },
+    {
+      "_row_id": 20,
+      "Địa danh": "19. Lai Châu",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 21,
+      "Địa danh": "20. Lạng Sơn",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 22,
+      "Địa danh": "21. Lào Cai (Lào Cai, Yên Bái)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 23,
+      "Địa danh": "22. Lâm Đồng (Lâm Đồng, Đắk Nông, Bình Thuận)",
+      "Loại phổ áp dụng": "2"
+    },
+    {
+      "_row_id": 24,
+      "Địa danh": "23. Nghệ An",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 25,
+      "Địa danh": "24. Ninh Bình (Ninh Bình, Hà Nam, Nam Định)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 26,
+      "Địa danh": "25. Quảng Ngãi (Quảng Ngãi, Kon Tum)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 27,
+      "Địa danh": "26. Quảng Ninh",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 28,
+      "Địa danh": "27. Quảng Trị (Quảng Trị, Quảng Bình)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 29,
+      "Địa danh": "28. Phú Thọ (Phú Thọ, Vĩnh Phúc, Hòa Bình)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 30,
+      "Địa danh": "29. Sơn La",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 31,
+      "Địa danh": "30. Tây Ninh (Tây Ninh, Long An)",
+      "Loại phổ áp dụng": "2"
+    },
+    {
+      "_row_id": 32,
+      "Địa danh": "31. Thái Nguyên (Thái Nguyên, Bắc Kạn)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 33,
+      "Địa danh": "32. Thanh Hóa",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 34,
+      "Địa danh": "33. Tuyên Quang (Tuyên Quang, Hà Giang)",
+      "Loại phổ áp dụng": "1"
+    },
+    {
+      "_row_id": 35,
+      "Địa danh": "34. Vĩnh Long (Vĩnh Long, Bến Tre, Trà Vinh)",
+      "Loại phổ áp dụng": "2"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Các địa danh trong ngoặc đơn là các địa danh cũ trước sáp nhập."
+  }
+}

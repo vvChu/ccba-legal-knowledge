@@ -1,0 +1,14 @@
+
+<a id="phu-luc-1"></a>
+## PHỤ LỤC 1 — Tiêu chuẩn dùng nước cho một lần hay của một dụng cụ vệ sinh
+
+
+<a id="bang-bang-phu-luc-1"></a>
+### Bảng Phụ lục 1
+
+| Dụng cụ vệ sinh | Đơn vị | Tiêu chuẩn dùng nước (lít) |
+| :--- | :--- | :--- |
+| 1 | 2 | 3 |
+| 1. Nhà ở<br>&nbsp;&nbsp;\- Bồn tắm ngồi dài 1.200 mm có vòi tắm hương sen<br>&nbsp;&nbsp;\- Bồn tắm (có hương sen tắm) dài từ 1500 đến 1550 mm<br>&nbsp;&nbsp;\- Như trên dài từ 1650 đến 1700 mm<br>&nbsp;&nbsp;\- Bồn tắm không có hương sen<br>&nbsp;&nbsp;\- Vòi tắm hương sen có khay tắm sâu<br>&nbsp;&nbsp;\- Vòi tắm hương sen có khay tắm nông<br>&nbsp;&nbsp;\- Chậu rửa mặt<br>&nbsp;&nbsp;\- Bình xả của chậu xí<br>&nbsp;&nbsp;\- Chậu rửa trong nhà bếp<br>&nbsp;&nbsp;\- Vòi tắm hương sen tắm trong căn hộ<br>2. Công trình công cộng<br>&nbsp;&nbsp;\- Phòng tắm có bồn tắm<br>&nbsp;&nbsp;\- Phòng tắm có hương sen tắm<br>&nbsp;&nbsp;\- Nước rửa sàn phòng tắm, phòng tắm hơi và buồng khử trùng<br>&nbsp;&nbsp;\- Chậu rửa tay trong phòng cắt tóc<br>&nbsp;&nbsp;\- Chậu rửa trong phòng thay quần áo hay phòng vệ sinh<br>&nbsp;&nbsp;\- Chậu rửa trong phòng bác sĩ<br>&nbsp;&nbsp;\- Chậu rửa trong cửa hàng<br>&nbsp;&nbsp;\- Chậu rửa trong hiệu thuốc | 1 lần<br>1 lần<br>1 lần<br>1 lần<br>1 lần<br>1 lần<br>1 lần<br>1 lần<br>1 lần<br>1 lần<br>1 khách<br>"<br>1 $m^{2}$<br>1 giờ<br>" | 250<br>275<br>300<br>200<br>230<br>Từ 100 đến 120<br>từ 3 đến 5<br>Từ 6 đến 8<br>Từ 8 đến 10<br>Từ 40 đến 60<br>500<br>400<br>3 đến 5<br>10<br>100 |
+| &nbsp;&nbsp;\- Chậu rửa trong phòng vệ sinh công cộng<br>&nbsp;&nbsp;\- Chậu xí trong nhà xí công cộng ở nhà ga<br>&nbsp;&nbsp;\- Vòi lấy nước hay chậu rửa ở nhà ăn, quán cà phê, quán giải khát, quầy bánh kẹo, căng tin | "<br>"<br>1 ngày<br>"<br>"<br>1 giờ | Từ 300 đến 400<br>120<br>60<br>600<br>1000<br>250 |
+| 3. Nhà sản xuất và phụ trợ<br>&nbsp;&nbsp;\- Vòi tắm hương sen riêng biệt trong các phòng sinh hoạt<br>&nbsp;&nbsp;\- Vòi tắm hương sen tắm trong nhóm phòng tắm | 1 lần<br>45 phút | Từ 40 đến 60<br>500 |

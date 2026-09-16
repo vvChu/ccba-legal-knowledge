@@ -1,0 +1,215 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 26,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Hệ số giảm cường độ $K_{s}$ trong nền đá,",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_01.csv",
+      "json_file": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_02",
+      "table_number": "2",
+      "title": "Bảng 2 - Cường độ sức kháng của đất dưới mũi cọc đóng hoặc ép $q_{b}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_02.csv",
+      "json_file": "tables/json/bang_02.json"
+    },
+    {
+      "table_id": "bang_03",
+      "table_number": "3",
+      "title": "Bảng 3 - Cường độ sức kháng trên thân cọc đóng hoặc ép $f_{i}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_03.csv",
+      "json_file": "tables/json/bang_03.json"
+    },
+    {
+      "table_id": "bang_04",
+      "table_number": "4",
+      "title": "Bảng 4 - Các hệ số điều kiện làm việc của đất $_{cq}$ và $_{cf}$ cho cọc đóng hoặc ép",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_04.csv",
+      "json_file": "tables/json/bang_04.json"
+    },
+    {
+      "table_id": "bang_05",
+      "table_number": "5",
+      "title": "Bảng 5 - Hệ số điều kiện làm việc của cọc trong đất $_{cf}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_05.csv",
+      "json_file": "tables/json/bang_05.json"
+    },
+    {
+      "table_id": "bang_06",
+      "table_number": "6",
+      "title": "Bảng 6 - Các hệ số 1, 2 , 3 và 4 trong công thức (13) & (14)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_06.csv",
+      "json_file": "tables/json/bang_06.json"
+    },
+    {
+      "table_id": "bang_07",
+      "table_number": "7",
+      "title": "Bảng 7 - Cường độ sức kháng $q_{b}$, của đất dính dưới mũi cọc nhồi",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_07.csv",
+      "json_file": "tables/json/bang_07.json"
+    },
+    {
+      "table_id": "bang_08",
+      "table_number": "8",
+      "title": "Bảng 8 - Hệ số điều kiện làm việc $_{c}$ của đất nền đối với cọc xoắn vít",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_08.csv",
+      "json_file": "tables/json/bang_08.json"
+    },
+    {
+      "table_id": "bang_09",
+      "table_number": "9",
+      "title": "Bảng 9 - Các hệ số không thứ nguyên $_{1}$, $_{2}$ trong công thức (17)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_09.csv",
+      "json_file": "tables/json/bang_09.json"
+    },
+    {
+      "table_id": "bang_10",
+      "table_number": "10",
+      "title": "Bảng 10 - Hệ số h của vật liệu làm cọc",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_10.csv",
+      "json_file": "tables/json/bang_10.json"
+    },
+    {
+      "table_id": "bang_11",
+      "table_number": "11",
+      "title": "Bảng 11 - Hệ số M trong công thức (20)",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_11.csv",
+      "json_file": "tables/json/bang_11.json"
+    },
+    {
+      "table_id": "bang_12",
+      "table_number": "12",
+      "title": "Bảng 12 - Năng lượng xung kích tính toán của một nhát búa đóng $E_{d}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_12.csv",
+      "json_file": "tables/json/bang_12.json"
+    },
+    {
+      "table_id": "bang_13",
+      "table_number": "13",
+      "title": "Bảng 13 - Năng lượng tính toán tương đương một nhát búa của máy rung",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_13.csv",
+      "json_file": "tables/json/bang_13.json"
+    },
+    {
+      "table_id": "bang_14",
+      "table_number": "14",
+      "title": "Bảng 14 - Các hệ số chuyển đổi $_{1}$, $_{2}$ và $_{i}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_14.csv",
+      "json_file": "tables/json/bang_14.json"
+    },
+    {
+      "table_id": "bang_15",
+      "table_number": "15",
+      "title": "Bảng 15 - Cường độ sức kháng $q_{b}$ và $f_{i}$, của đất đối với cọc khoan nhồi theo $q_{C}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_15.csv",
+      "json_file": "tables/json/bang_15.json"
+    },
+    {
+      "table_id": "bang_16",
+      "table_number": "16",
+      "title": "Bảng 16 - Vận tốc dao động cho phép $V_{a}$ trong đất",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_16.csv",
+      "json_file": "tables/json/bang_16.json"
+    },
+    {
+      "table_id": "bang_17",
+      "table_number": "17",
+      "title": "Bảng 17 - Hệ số  trong công thức (50)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_17.csv",
+      "json_file": "tables/json/bang_17.json"
+    },
+    {
+      "table_id": "bang_18",
+      "table_number": "18",
+      "title": "Bảng 18 - Các hệ số điều kiện làm $_{eq1}$ và $_{eq2}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_18.csv",
+      "json_file": "tables/json/bang_18.json"
+    },
+    {
+      "table_id": "bang_19",
+      "table_number": "19",
+      "title": "Bảng 19 - Hệ số bổ sung điều kiện làm việc $_{c}$",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_19.csv",
+      "json_file": "tables/json/bang_19.json"
+    },
+    {
+      "table_id": "bang_a",
+      "table_number": "A",
+      "title": "Bảng A - Hệ số tỷ lệ k theo công thức (A.1)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_a.csv",
+      "json_file": "tables/json/bang_a.json"
+    },
+    {
+      "table_id": "bang_phu_luc_c",
+      "table_number": "PLC",
+      "title": "Bảng Phụ lục C",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_c.csv",
+      "json_file": "tables/json/bang_phu_luc_c.json"
+    },
+    {
+      "table_id": "bang_d_1",
+      "table_number": "D.1",
+      "title": "Bảng D.1 - Khối lượng khảo sát cho các loại nhà và công trình (tham khảo)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d_1.csv",
+      "json_file": "tables/json/bang_d_1.json"
+    },
+    {
+      "table_id": "bang_phu_luc_e",
+      "table_number": "PLE",
+      "title": "Bảng Phụ lục E",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_phu_luc_e.csv",
+      "json_file": "tables/json/bang_phu_luc_e.json"
+    },
+    {
+      "table_id": "bang_g_1",
+      "table_number": "G.1",
+      "title": "Bảng G.1 - Giá trị các hệ số k, $Z_{L}$ và N’$_{q}$ cho cọc trong đất cát",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_g_1.csv",
+      "json_file": "tables/json/bang_g_1.json"
+    },
+    {
+      "table_id": "bang_phu_luc_g",
+      "table_number": "PLG",
+      "title": "Bảng Phụ lục G",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_g.csv",
+      "json_file": "tables/json/bang_phu_luc_g.json"
+    },
+    {
+      "table_id": "bang_g2",
+      "table_number": "G2",
+      "title": "Bảng G2 - Hệ số Kc và",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_g2.csv",
+      "json_file": "tables/json/bang_g2.json"
+    }
+  ]
+}

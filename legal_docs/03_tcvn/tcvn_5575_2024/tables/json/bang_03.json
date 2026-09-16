@@ -1,0 +1,33 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Hệ số độ tin cậy của thép cán, thép uốn định hình và thép ống",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Điều kiện kiểm soát",
+    "Giá trị $\\gamma_{m}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Điều kiện kiểm soát": "1. Đối với thép ống tạo hình nóng",
+      "Giá trị $\\gamma_{m}$": "1,10"
+    },
+    {
+      "_row_id": 2,
+      "Điều kiện kiểm soát": "2. Đối với thép cán và thép ống còn lại phù hợp với các yêu cầu của tiêu chuẩn này",
+      "Giá trị $\\gamma_{m}$": "1,05"
+    },
+    {
+      "_row_id": 3,
+      "Điều kiện kiểm soát": "3. Đối với thép cán và thép ống được cung cấp theo các tiêu chuẩn nước ngoài",
+      "Giá trị $\\gamma_{m}$": "1,10"
+    },
+    {
+      "_row_id": 4,
+      "Điều kiện kiểm soát": "4. Đối với thép cán và thép ống dùng trong các công trình cấp C1 (theo [2]) với thời hạn sử dụng hạn chế và có người lui tới hạn chế (tường cừ hố đào, các trụ tạm và tương tự)",
+      "Giá trị $\\gamma_{m}$": "1,00"
+    }
+  ],
+  "footnotes": []
+}
