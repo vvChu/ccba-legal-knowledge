@@ -26,10 +26,10 @@
     },
     {
       "_row_id": 3,
-      "Loại tải trọng": "$Xin lỗi, hình ảnh bạn cung cấp chỉ chứa sơ đồ kết cấu (dầm công xôn chịu tải trọng phân bố đều) mà không chứa công thức toán học nào. Do đó, tôi không thể chuyển đổi thành mã LaTeX. Vui lòng cung cấp hình ảnh chứa công thức toán học để tôi có thể hỗ trợ bạn!$",
+      "Loại tải trọng": "$q$",
       "Cánh được chất tải": "Chịu kéo",
-      "Giá trị Ψ khi cánh chịu nén không được liên kết chặn chuyển vị ngang và với α — ≥ 4; ≤ 28": "$...$",
-      "Giá trị Ψ khi cánh chịu nén không được liên kết chặn chuyển vị ngang và với α — > 28; ≤ 100": "$...$"
+      "Giá trị Ψ khi cánh chịu nén không được liên kết chặn chuyển vị ngang và với α — ≥ 4; ≤ 28": "$1,42\\sqrt{\\alpha}$",
+      "Giá trị Ψ khi cánh chịu nén không được liên kết chặn chuyển vị ngang và với α — > 28; ≤ 100": "$1,42\\sqrt{\\alpha}$"
     }
   ],
   "footnotes": {

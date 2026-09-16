@@ -1,4 +1,4 @@
-﻿Ký hiệu,Hình dạng,Giá trị,Giá trị
-a,"$Hình ảnh bạn cung cấp là hình vẽ kỹ thuật (mặt cắt ngang của ống tròn và ống chữ nhật), không chứa công thức toán học. Do đó, không có nội dung để chuyển đổi sang mã LaTeX.$",α,β
-b,,"0,04","0,09"
-c,"$Hình ảnh bạn cung cấp là các sơ đồ mặt cắt ngang của các cấu kiện thép hình, không chứa công thức toán học. Do đó, không có nội dung để chuyển đổi sang mã LaTeX.$","0,04","0,14"
+Ký hiệu,Hình dạng,Giá trị,Giá trị
+a,Tiết diện ống tròn và ống hộp cán nóng,α,β
+b,Tiết diện thép hình cán và tổ hợp hàn,"0,04","0,09"
+c,"Tiết diện chữ T; chữ U; thép góc đơn và tổ hợp hàn","0,04","0,14"

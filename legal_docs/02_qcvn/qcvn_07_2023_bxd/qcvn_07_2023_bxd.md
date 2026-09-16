@@ -4553,7 +4553,7 @@ Yêu cầu chiếu sáng đường hầm ban ngày được quy định theo 4 c
 | 85 | 120 |
 | 70 | 90 |
 | 60 | 70 |
-| **50** |  |
+| 50 | 50 |
 
 > CHÚ THÍCH 2: Trường hợp tốc độ thiết kế dưới 50 km/h, lấy SD = 50 m.
 >

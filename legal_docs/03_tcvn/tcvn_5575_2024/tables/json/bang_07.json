@@ -13,19 +13,19 @@
     {
       "_row_id": 1,
       "Ký hiệu": "a",
-      "Hình dạng": "$Hình ảnh bạn cung cấp là hình vẽ kỹ thuật (mặt cắt ngang của ống tròn và ống chữ nhật), không chứa công thức toán học. Do đó, không có nội dung để chuyển đổi sang mã LaTeX.$",
+      "Hình dạng": "Tiết diện ống tròn và ống hộp cán nóng",
       "Giá trị": "β"
     },
     {
       "_row_id": 2,
       "Ký hiệu": "b",
-      "Hình dạng": "",
+      "Hình dạng": "Tiết diện thép hình cán và tổ hợp hàn",
       "Giá trị": "0,09"
     },
     {
       "_row_id": 3,
       "Ký hiệu": "c",
-      "Hình dạng": "$Hình ảnh bạn cung cấp là các sơ đồ mặt cắt ngang của các cấu kiện thép hình, không chứa công thức toán học. Do đó, không có nội dung để chuyển đổi sang mã LaTeX.$",
+      "Hình dạng": "Tiết diện chữ T; chữ U; thép góc đơn và tổ hợp hàn",
       "Giá trị": "0,14"
     }
   ],

@@ -19,13 +19,13 @@
       "_row_id": 2,
       "Dầm": "1. Dầm đỡ cầu trục",
       "Điều kiện làm việc của cánh chịu nén": "Ray cầu trục hàn",
-      "β": "$` delimiters.\nTherefore, the LaTeX code is simply `\\infty`.$"
+      "β": "$\\infty$"
     },
     {
       "_row_id": 3,
       "Dầm": "2. Dầm khác",
       "Điều kiện làm việc của cánh chịu nén": "Khi có bản sàn đặt liên tục trên cánh chịu nén",
-      "β": "$` delimiters.\nTherefore, the LaTeX code is simply `\\infty`.$"
+      "β": "$\\infty$"
     },
     {
       "_row_id": 4,

@@ -225,8 +225,8 @@ async def execute_sync(
         from ccba_notebooklm import get_client
 
         client = get_client()
-    except ImportError:
-        print("Lỗi: Không tìm thấy package ccba_notebooklm.", file=sys.stderr)
+    except ImportError as exc:
+        print(f"Lỗi import ccba_notebooklm (hoặc thiếu get_client): {exc}", file=sys.stderr)
         return 1
 
     if client.use_mock:

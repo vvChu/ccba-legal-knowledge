@@ -187,7 +187,7 @@ Trong các trường hợp, khi tại phần công xôn của dầm cánh chịu
 | :--- | :--- | :--- | :--- |
 | $P$ | Chịu kéo | 1,0 + 0,16α | 4,0 + 0, 05α |
 | $P$ | Chịu nén | 6,2 + 0, 08α | 7,0 + 0, 05α |
-| $Xin lỗi, hình ảnh bạn cung cấp chỉ chứa sơ đồ kết cấu (dầm công xôn chịu tải trọng phân bố đều) mà không chứa công thức toán học nào. Do đó, tôi không thể chuyển đổi thành mã LaTeX. Vui lòng cung cấp hình ảnh chứa công thức toán học để tôi có thể hỗ trợ bạn!$ | Chịu kéo | $...$ | $...$ |
+| $q$ | Chịu kéo | $1,42\sqrt{\alpha}$ | $1,42\sqrt{\alpha}$ |
 
 > **CHÚ THÍCH:** Hệ số α lấy theo các công thức (F.4) và (F.5) với các giá trị k như đối với các sơ đồ có các liên kết cánh chịu nén trong nhịp: k = 1,54 và k = 8 ứng với $h_{m}$ tương ứng.
 
