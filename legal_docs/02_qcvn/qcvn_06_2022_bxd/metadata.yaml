@@ -22,18 +22,28 @@ clauses_count: 769
 pdf_path: legal_docs/02_qcvn/qcvn_06_2022_bxd/sources/qcvn_06_2022_bxd.pdf
 diff_matrix: legal_docs/02_qcvn/qcvn_06_2022_bxd/bang_so_sanh_thay_doi.md
 bundle_path: legal_docs/02_qcvn/qcvn_06_2022_bxd/
-pdf_sha256: e7b0f82433420e163e6d9d1e842f316a29ee50e473f075459bd52bc637aff7d5
+pdf_sha256: 16739a493072fd11246bb00f3a3747529ba9389ccde3742df1363984a0f2f0b8
 pdf_status: verified
 cong_bao_number: 235+236/2023 (SĐ1) / 1141+1142/2022
 source_assets:
   pdf:
-    sha256: e7b0f82433420e163e6d9d1e842f316a29ee50e473f075459bd52bc637aff7d5
+    sha256: 16739a493072fd11246bb00f3a3747529ba9389ccde3742df1363984a0f2f0b8
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_06_2022_bxd/qcvn_06_2022_bxd.pdf
     status: verified
+    origin: docx_vector_rendered
   amendment_pdf:
     sha256: 61228c151c373924bdad12965fe3f04768c85cd74fef36c9ae80432eb6954a4a
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_06_2022_bxd/sd1_2023_qcvn_06_2022_bxd.pdf
     status: synced
+  docx:
+    sha256: c7654fd9673bb11cab8b0fcbe5e4dcecb01b313279020222f33a7c3d3013c8b1
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_06_2022_bxd/qcvn_06_2022_bxd.docx
+    status: verified
+  raw_scan:
+    sha256: e7b0f82433420e163e6d9d1e842f316a29ee50e473f075459bd52bc637aff7d5
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_06_2022_bxd/qcvn_06_2022_bxd_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 type: Quy chuẩn kỹ thuật quốc gia
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-06-2022-TT-BXD-Quy-chuan-QCVN-06-2022-BXD-An-toan-chay-cho-nha-va-cong-trinh-544059.aspx
 relations:
@@ -49,3 +59,5 @@ okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-09-07T15:00:00+07:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/qcvn_06_2022_bxd_raw_scan.pdf

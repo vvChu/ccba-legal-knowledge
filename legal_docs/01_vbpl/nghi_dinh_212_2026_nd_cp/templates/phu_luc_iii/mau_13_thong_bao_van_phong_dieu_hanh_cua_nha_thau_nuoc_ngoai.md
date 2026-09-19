@@ -1,5 +1,5 @@
 ---
-title: "Mẫu số 13 - CÔNG TY........."
+title: "Mẫu số 13 - THÔNG BÁO VĂN PHÒNG ĐIỀU HÀNH CỦA NHÀ THẦU NƯỚC NGOÀI"
 document: "212/2026/NĐ-CP"
 appendix: "Phụ lục III"
 form_number: "Mẫu số 13"
@@ -7,7 +7,7 @@ type: "form_template"
 usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
 
-# Mẫu Số 13 - CÔNG TY.........
+# Mẫu Số 13 - THÔNG BÁO VĂN PHÒNG ĐIỀU HÀNH CỦA NHÀ THẦU NƯỚC NGOÀI
 *(Kèm theo Phụ lục III 212/2026/NĐ-CP)*
 
 ---

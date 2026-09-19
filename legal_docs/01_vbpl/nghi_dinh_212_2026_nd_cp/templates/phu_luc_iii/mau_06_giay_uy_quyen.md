@@ -1,5 +1,5 @@
 ---
-title: "Mẫu số 06 - TỔ CHỨC …"
+title: "Mẫu số 06 - GIẤY ỦY QUYỀN"
 document: "212/2026/NĐ-CP"
 appendix: "Phụ lục III"
 form_number: "Mẫu số 06"
@@ -7,7 +7,7 @@ type: "form_template"
 usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
 
-# Mẫu Số 06 - TỔ CHỨC …
+# Mẫu Số 06 - GIẤY ỦY QUYỀN
 *(Kèm theo Phụ lục III 212/2026/NĐ-CP)*
 
 ---

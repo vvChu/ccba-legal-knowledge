@@ -1,5 +1,5 @@
 ---
-title: "Mẫu số 04 - ĐƠN ĐỀ NGHỊ"
+title: "Mẫu số 04 - ĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP HOẠT ĐỘNG XÂY DỰNG (Đối với nhà thầu là tổ chức)"
 document: "212/2026/NĐ-CP"
 appendix: "Phụ lục III"
 form_number: "Mẫu số 04"
@@ -7,7 +7,7 @@ type: "form_template"
 usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
 
-# Mẫu Số 04 - ĐƠN ĐỀ NGHỊ
+# Mẫu Số 04 - ĐƠN ĐỀ NGHỊ CẤP GIẤY PHÉP HOẠT ĐỘNG XÂY DỰNG (Đối với nhà thầu là tổ chức)
 *(Kèm theo Phụ lục III 212/2026/NĐ-CP)*
 
 ---

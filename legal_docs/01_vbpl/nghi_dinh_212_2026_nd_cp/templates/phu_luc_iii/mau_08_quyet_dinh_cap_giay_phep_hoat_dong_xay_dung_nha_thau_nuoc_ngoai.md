@@ -1,5 +1,5 @@
 ---
-title: "Mẫu số 08 - TÊN CƠ QUAN CÓ"
+title: "Mẫu số 08 - QUYẾT ĐỊNH CẤP GIẤY PHÉP HOẠT ĐỘNG XÂY DỰNG CHO NHÀ THẦU NƯỚC NGOÀI"
 document: "212/2026/NĐ-CP"
 appendix: "Phụ lục III"
 form_number: "Mẫu số 08"
@@ -7,7 +7,7 @@ type: "form_template"
 usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
 
-# Mẫu Số 08 - TÊN CƠ QUAN CÓ
+# Mẫu Số 08 - QUYẾT ĐỊNH CẤP GIẤY PHÉP HOẠT ĐỘNG XÂY DỰNG CHO NHÀ THẦU NƯỚC NGOÀI
 *(Kèm theo Phụ lục III 212/2026/NĐ-CP)*
 
 ---

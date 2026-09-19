@@ -1,5 +1,5 @@
 ---
-title: "Mẫu số 10 - TÊN CƠ QUAN CÓ"
+title: "Mẫu số 10 - QUYẾT ĐỊNH ĐIỀU CHỈNH GIẤY PHÉP HOẠT ĐỘNG XÂY DỰNG CHO NHÀ THẦU NƯỚC NGOÀI"
 document: "212/2026/NĐ-CP"
 appendix: "Phụ lục III"
 form_number: "Mẫu số 10"
@@ -7,7 +7,7 @@ type: "form_template"
 usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
 
-# Mẫu Số 10 - TÊN CƠ QUAN CÓ
+# Mẫu Số 10 - QUYẾT ĐỊNH ĐIỀU CHỈNH GIẤY PHÉP HOẠT ĐỘNG XÂY DỰNG CHO NHÀ THẦU NƯỚC NGOÀI
 *(Kèm theo Phụ lục III 212/2026/NĐ-CP)*
 
 ---

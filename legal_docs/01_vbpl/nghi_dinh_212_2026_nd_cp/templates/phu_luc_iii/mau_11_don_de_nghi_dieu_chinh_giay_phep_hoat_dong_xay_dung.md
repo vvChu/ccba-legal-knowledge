@@ -1,5 +1,5 @@
 ---
-title: "Mẫu số 11 - ĐƠN ĐỀ NGHỊ"
+title: "Mẫu số 11 - ĐƠN ĐỀ NGHỊ ĐIỀU CHỈNH GIẤY PHÉP HOẠT ĐỘNG XÂY DỰNG"
 document: "212/2026/NĐ-CP"
 appendix: "Phụ lục III"
 form_number: "Mẫu số 11"
@@ -7,7 +7,7 @@ type: "form_template"
 usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
 
-# Mẫu Số 11 - ĐƠN ĐỀ NGHỊ
+# Mẫu Số 11 - ĐƠN ĐỀ NGHỊ ĐIỀU CHỈNH GIẤY PHÉP HOẠT ĐỘNG XÂY DỰNG
 *(Kèm theo Phụ lục III 212/2026/NĐ-CP)*
 
 ---

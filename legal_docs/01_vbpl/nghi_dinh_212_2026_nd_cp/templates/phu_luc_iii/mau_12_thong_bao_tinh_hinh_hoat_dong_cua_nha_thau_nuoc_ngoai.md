@@ -1,5 +1,5 @@
 ---
-title: "Mẫu số 12 - TỔ CHỨC/CÁ NHÂN"
+title: "Mẫu số 12 - THÔNG BÁO TÌNH HÌNH HOẠT ĐỘNG CỦA NHÀ THẦU NƯỚC NGOÀI"
 document: "212/2026/NĐ-CP"
 appendix: "Phụ lục III"
 form_number: "Mẫu số 12"
@@ -7,7 +7,7 @@ type: "form_template"
 usage: "Biểu mẫu chuẩn hóa phục vụ AI Copywriting, QC Audit & Sinh Hồ Sơ"
 ---
 
-# Mẫu Số 12 - TỔ CHỨC/CÁ NHÂN
+# Mẫu Số 12 - THÔNG BÁO TÌNH HÌNH HOẠT ĐỘNG CỦA NHÀ THẦU NƯỚC NGOÀI
 *(Kèm theo Phụ lục III 212/2026/NĐ-CP)*
 
 ---

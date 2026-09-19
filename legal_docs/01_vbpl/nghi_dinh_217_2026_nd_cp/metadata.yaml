@@ -8,7 +8,7 @@ issued_date: '2026-06-19'
 effective_date: '2026-07-01'
 status: active
 pdf_path: legal_docs/01_vbpl/nghi_dinh_217_2026_nd_cp/sources/nghi_dinh_217_2026_nd_cp.pdf
-pdf_sha256: 2a9eb4d4d5ee8b5726f1c906ac0702d00a04a3452efc65f92d87cc3c8071ab0f
+pdf_sha256: a3742e98f30a3a7c4048ad0d975d679e0bde5590f7666cb16ef7f74a5846b8ee
 pdf_status: verified
 legal_basis:
 - doc_id: luật_tổ_chức_chính_phủ_số_63_2025_qh15
@@ -22,16 +22,24 @@ bundle_path: legal_docs/01_vbpl/nghi_dinh_217_2026_nd_cp/
 cong_bao_number: Đang cập nhật
 source_assets:
   pdf:
-    sha256: 2a9eb4d4d5ee8b5726f1c906ac0702d00a04a3452efc65f92d87cc3c8071ab0f
+    sha256: a3742e98f30a3a7c4048ad0d975d679e0bde5590f7666cb16ef7f74a5846b8ee
     vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_217_2026_nd_cp/nghi_dinh_217_2026_nd_cp.pdf
     status: verified
+    origin: docx_vector_rendered
   docx:
     sha256: 0e72ea3e16f596bd9f8023293f5946a452e841be1d07a7fac600f40a5e8b650a
     vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_217_2026_nd_cp/nghi_dinh_217_2026_nd_cp.docx
-    status: synced
+    status: verified
+  raw_scan:
+    sha256: 2a9eb4d4d5ee8b5726f1c906ac0702d00a04a3452efc65f92d87cc3c8071ab0f
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_217_2026_nd_cp/nghi_dinh_217_2026_nd_cp_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-217-2026-ND-CP-quan-ly-du-an-dau-tu-xay-dung-696494.aspx
 relations:
   guided_by: Luat-Xay-dung-2025-135-2025-QH15
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/nghi_dinh_217_2026_nd_cp_raw_scan.pdf
