@@ -22,7 +22,7 @@ Mẫu số: 02/DT-QLDA
 
 
 
-## BẢNG TÍNH LƯƠNG NĂM .........
+## BẢNG TÍNH LƯƠNG NĂM
 
 
 
