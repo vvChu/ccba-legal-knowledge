@@ -93,4 +93,14 @@ Tài liệu ghi nhận nhật ký đột biến, chuẩn hóa dữ liệu và ba
     2. `INVERTED_FOOTNOTE_HIERARCHY`: Bắt lỗi đảo phả hệ chú thích khi `**CHÚ THÍCH:**` đặt đè lên các chú thích ô `(1)`, `(2)` khi có kèm theo các dòng giải nghĩa dấu `Dấu “+++”` (Dual-Zone Decoupling Engine theo Session Learning 44).
   - **Nghiệm thu Master CI 15 Gates:** Vượt qua 100% 15 Cổng Master CI Gate với 0 Errors và 0 Visual Parity Errors trên toàn bộ 402 files Markdown của Spoke.
 
+## [2026-09-19] [feat] | 100% Ground Truth Parity Campaign: Phase 1 Completion (50/55 Pass Rate, 87 Tables Extracted & Nightly Telemetry Integration)
+- **Phạm vi:** Spoke `legal_docs/`, Hub `packages/ccba-legal-intel/`, `scripts/cron/run_nightly_tuner.sh`, `.md/tools/run_nightly_telemetry.py`, `.md/knowledge/`.
+- **Nội dung:**
+  - **Triển khai Động cơ Đối soát Xác định 1-1 (Deterministic Ground Truth Parity Engine v2.0):** Phát triển thuật toán Greedy Multi-Span Coverage ($\ge 70\%$ từ vựng trên span $\ge 4$ từ) và đối soát 5 trục (Verbatim, 2D Grid, KaTeX Math, Multimodal Asset, Structural AST), loại bỏ hoàn toàn các lỗi False Pass (cửa sổ 6 từ) và False Drop (KaTeX macro, inline MathType VML/OLE).
+  - **Hoàn tất Pha 0 & Pha 1 Chiến dịch Parity:** Trích xuất 87 bảng dữ liệu quan hệ chuẩn 2D (Zero Ragged Rows, footnotes decoupled) cho 10 bundle (`TT 12/2025`, `TT 13/2025`, `TT 14/2025`, `TT 34/2025`, `TT 36/2025`, `TT 79/2026`, `TT 07/2024`, `TT 08/2024`, `QCVN 01:2021`, `QCVN 09:2025`). Nâng tỷ lệ đạt chuẩn toàn Spoke từ **34/55 (61.8%)** lên **50/55 (90.9%)**.
+  - **Lọc bỏ Căn cứ Hành chính & Layout Heuristics:** Cập nhật `compute_docx_to_markdown_parity` và Gate 11 để bỏ qua phần mở đầu hành chính không mang tính quy phạm; siết chặt nhận diện bảng chữ ký hành chính ("đơn vị tính", `nơi nhận:` + `lưu: vt`/`kt.`).
+  - **Tích hợp Tự động Ban Đêm trên Server Spark (:8090):** Nâng cấp `run_nightly_telemetry.py` và `run_nightly_tuner.sh` hỗ trợ `--cohorts all`, quét toàn bộ 55 văn bản trong ~22s, tự động ghi nhận 5 diagnostic tickets còn lại và commit báo cáo định kỳ lúc 00:00 AM với zero token cost.
+  - **Nghiệm thu Master CI 15 Gates:** Vượt qua 100% 15 Cổng Master CI Gate với `0 Errors, 0 Warnings` trên toàn bộ 58 bundles.
+
+
 

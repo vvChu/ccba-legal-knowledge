@@ -841,3 +841,29 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Cho phép nguyên bản các nét chấm lửng điền thông tin trong thân biểu mẫu. Chỉ xử phạt khi dòng frontmatter `title:` hoặc tiêu đề Markdown `# ` / `## ` bị lỗi placeholder hoặc có bảng bị vỡ phẳng.
   4. **Chuẩn Hóa Unicode NFC Bắt Buộc:**
      - Toàn bộ dữ liệu trích xuất từ TVPL phải qua `unicodedata.normalize("NFC", text)` trước khi bóc tách và đối soát.
+
+---
+
+## 51. Preamble Filtering, Signature Block Layout Heuristics, In-Table Footnote Decoupling & 55-Bundle Nightly Telemetry
+
+- **Bản Chất Vấn Đề (Empirical Failures & Adversarial Findings):**
+  1. **Sự Lệch Pha Căn Cứ Ban Hành Hành Chính (Administrative Preamble Mismatch):**
+     - Theo thiết kế OKF v2.1/v2.4 (ADR 0021), thân quy phạm thuần (`.md`) của Nghị định/Thông tư cố tình lược bỏ phần căn cứ ban hành ("Căn cứ Luật...", "Theo đề nghị của...", "Cộng hòa Xã hội Chủ nghĩa..."). Khi đối soát toàn văn với file DOCX gốc bằng `compute_docx_to_markdown_parity`, các đoạn căn cứ này bị tính là "missing paragraphs" ngoài ý muốn, làm giảm oan Parity Score của các văn bản ngắn.
+  2. **Bẫy Nhận Diện Bảng Chữ Ký Hành Chính (Signature Block False Positive):**
+     - Khối chữ ký ("Nơi nhận:", "KT. BỘ TRƯỞNG") thường nằm trong bảng 1 hàng 2 cột không viền. Từ khóa `"đơn vị"` trong "các đơn vị trực thuộc..." đã kích hoạt nhầm bộ lọc `NORMATIVE_KEYWORDS`, khiến bảng layout bị trích xuất nhầm thành bảng dữ liệu CSV.
+  3. **Vỡ Ma Trận Do Chú Thích Kẹp Giữa Ô Bảng (In-Table Footnote Disruption):**
+     - Một số bảng quy phạm (như Bảng 2 Thông tư 34) chèn các đoạn `Chú thích:`, `Ghi chú:` vào giữa các nhóm hàng. Việc đưa nguyên các dòng này vào CSV tạo ra các ô lệch cột hoặc phá vỡ cấu trúc quan hệ 2D (Ragged Rows).
+  4. **Cân Bằng Giữa Tốc Độ Lấy Mẫu & Quét Toàn Diện (Golden Cohorts vs All 55 Bundles):**
+     - Nhóm Golden Cohorts (11 văn bản) chạy trong ~6s nhưng không phát hiện được lỗi ở 44 văn bản còn lại. Khi kiểm chuẩn cần quét toàn bộ kho tri thức mà vẫn phải đảm bảo Zero-Token Invariant và thời gian thực thi dưới 30 giây.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Bộ Lọc Căn Cứ Hành Chính Hai Chiều (Preamble Filtering Invariant):**
+     - Trích xuất tiền xử lý: Bỏ qua các đoạn mở đầu hành chính không quy phạm (`Căn cứ ...`, `Theo đề nghị của ...`, `CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM`) khỏi mẫu số tính Verbatim Parity trong cả Gate 11 (`validate_legal_spoke.py`) và công cụ đối soát độc lập (`verify_ground_truth_parity.py`).
+     - Lớp `ParityResult` kế thừa `tuple` để duy trì khả năng tương thích ngược phân rã `(parity_rate, missing) = ...` đồng thời cung cấp thuộc tính `effective_paras`.
+  2. **Bộ Nhận Diện Bảng Layout Hành Chính Sắc Nét (Administrative Signature Heuristics):**
+     - Siết chặt từ khóa: Thay thế từ khóa chung chung `"đơn vị"` bằng `"đơn vị tính"`.
+     - Bổ sung quy tắc định tuyến: Nếu bảng chứa đồng thời `"nơi nhận:"` và các dấu hiệu chữ ký (`"lưu: vt"`, `"kt."`, `"bộ trưởng"`, `"thứ trưởng"`, `"chủ tịch"`), hệ thống cưỡng chế phân loại là bảng layout hành chính, tuyệt đối không xuất ra `tables/csv/`.
+  3. **Động Cơ Bóc Tách Chú Thích Kẹp Giữa Bảng (In-Table Footnote Decoupling Engine - ADR 0041):**
+     - Trong quá trình phân tích hàng bảng, nếu phát hiện dòng bắt đầu bằng `Ghi chú:`, `Chú thích:`, tự động trích xuất nội dung này vào mảng `footnotes` của metadata bảng (`tables_catalog.json`) và loại khỏi lưới tọa độ dữ liệu, đảm bảo ma trận CSV đạt 100% Zero Ragged Rows.
+  4. **Hệ Thống Đo Lường Ban Đêm Hai Tầng (Dual-Mode Nightly Telemetry Integration):**
+     - Kịch bản `run_nightly_telemetry.py` và cron script `run_nightly_tuner.sh` trên Server Spark (:8090) được nâng cấp hỗ trợ `--cohorts all`, quét toàn bộ 55 văn bản trong ~22 giây, tự động ghi nhận 5 diagnostic tickets còn lại và commit báo cáo định kỳ lúc 00:00 AM.
