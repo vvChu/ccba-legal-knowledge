@@ -228,6 +228,21 @@ e) Dự kiến phương án xử lý đối với công trình sau khi hết th�
 <a id="dieu-8-khoan-2"></a>
 **2.** Bãi bỏ các điều 2, 3, 4, 5, 6, 7, 8, 9 và 19 Thông tư số 10/2021/TT-BXD ngày 25 tháng 8 năm 2021 của Bộ trưởng Bộ Xây dựng về hướng dẫn một số điều và biện pháp thi hành Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 và Nghị định số 44/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ./.
 
-__* *__
+---
+
+# PHỤ LỤC
+
+## CÔNG TRÌNH DÂN DỤNG; CÔNG TRÌNH SẢN XUẤT VẬT LIỆU, SẢN PHẨM XÂY DỰNG, CÔNG TRÌNH CÔNG NGHIỆP NHẸ; CÔNG TRÌNH HẠ TÀNG KỸ THUẬT PHẢI QUAN TRẮC TRONG QUÁ TRÌNH KHAI THÁC, SỬ DỤNG
+*(Ban hành kèm theo Thông tư số 32/2026/TT-BXD Ngày 22 tháng 6 năm 2026 của Bộ trưởng Bộ Xây dựng)*
+
+| STT | Loại công trình | Cấp công trình (1) |
+|:---:|:---|:---|
+| 1 | Nhà, kết cấu dạng nhà; công trình nhiều tầng có sàn; công trình có kết cấu nhịp lớn dạng khung | Cấp đặc biệt |
+| 2 | Công trình có kết cấu dạng cột, trụ, tháp | Cấp I trở lên |
+| 3 | Sân vận động, sân thi đấu các môn thể thao có khán đài; nhà thi đấu (các môn thể thao) | Cấp I trở lên |
+
+**Ghi chú:**  
+(1) Cấp công trình xác định theo Thông tư quy định chi tiết về cấp công trình xây dựng phục vụ quản lý hoạt động xây dựng do Bộ trưởng Bộ Xây dựng ban hành.
+
 
 

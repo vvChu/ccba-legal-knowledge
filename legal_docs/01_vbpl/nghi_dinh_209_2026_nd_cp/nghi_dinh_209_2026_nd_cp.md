@@ -42,7 +42,9 @@ artifacts:
 
 ---
 
+## Chương I.
 
+__QUY ĐỊNH CHUNG__
 
 
 <a id="dieu-1"></a>
