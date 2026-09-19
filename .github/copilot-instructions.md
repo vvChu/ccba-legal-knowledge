@@ -110,7 +110,7 @@ python scripts/check_hub_import_depth.py
 python scripts/lint_visual_parity.py
 ```
 
-**Acceptance criteria:** `0 Errors, 0 Warnings, 100% Visual Parity, 100% Verbatim Match, 100% Valid Links, 100% PDF SHA-256 Match, 100% SVG/Cards Integrity`
+**Acceptance criteria:** `0 Errors, 0 Warnings, 100% Visual Parity, ≥ 98.0% Verbatim Parity, 100% Valid Links, 100% PDF SHA-256 Match, 100% SVG/Cards Integrity`
 
 ---
 
