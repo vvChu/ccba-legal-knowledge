@@ -158,12 +158,13 @@ def main() -> int:
     parity_passed = parity_data.get("passed_documents", 0)
     parity_total = parity_data.get("total_documents", 0)
 
+    cohort_label = "Toàn Bộ Kho Tri Thức (55 Bundles)" if args.cohorts == "all" else "5 Golden Cohorts (11 Bundles)"
     md_lines = [
         f"# Báo Cáo Định Kỳ Ban Đêm: CCBA Legal Spoke Telemetry ({datetime.now().strftime('%Y-%m-%d')})",
         "",
         f"- **Thời gian chạy:** `{datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}`",
         f"- **Tổng thời lượng:** `{dur_parity + dur_ci:.2f} giây`",
-        f"- **Tầng 1 - Đối Soát 1-1 Parity (Golden Cohorts):** `{parity_passed}/{parity_total} văn bản đạt chuẩn`",
+        f"- **Tầng 1 - Đối Soát 1-1 Parity ({cohort_label}):** `{parity_passed}/{parity_total} văn bản đạt chuẩn`",
         f"- **Tầng 2 - Master CI 15 Cổng (Toàn bộ {total_bundles} bundles):** `{ci_status}`",
         "",
         "---",
@@ -176,7 +177,7 @@ def main() -> int:
         "",
         "---",
         "",
-        "## 2. Chi Tiết Đối Soát 1-1 Ground Truth (5 Golden Cohorts)",
+        f"## 2. Chi Tiết Đối Soát 1-1 Ground Truth ({cohort_label})",
         "",
     ]
 
