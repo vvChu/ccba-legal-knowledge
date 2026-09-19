@@ -1,0 +1,278 @@
+{
+  "table_id": "bang_25",
+  "table_number": "25",
+  "table_title": "Bảng 25 - Diện tích tối thiểu các phòng trong các khoa Xét nghiệm",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên phòng",
+    "Diện tích($m^{2}$/phòng)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên phòng": "**A. Khoa Vi sinh**",
+      "Diện tích($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 2,
+      "Tên phòng": "**Khu nghiệp vụ kỹ thuật**",
+      "Diện tích($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 3,
+      "Tên phòng": "1. Xét nghiệm vi sinh",
+      "Diện tích($m^{2}$/phòng)": "70",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 4,
+      "Tên phòng": "2. Phòng vô khuẩn",
+      "Diện tích($m^{2}$/phòng)": "9",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 5,
+      "Tên phòng": "3. Chuẩn bị môi trường, mẫu",
+      "Diện tích($m^{2}$/phòng)": "32",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 6,
+      "Tên phòng": "4. Phòng rửa/tiệt trùng",
+      "Diện tích($m^{2}$/phòng)": "24",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 7,
+      "Tên phòng": "**Khu phụ trợ**",
+      "Diện tích($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 8,
+      "Tên phòng": "5. Trực + nhận/trả kết quả",
+      "Diện tích($m^{2}$/phòng)": "24",
+      "Ghi chú": "Có thể kết hợp với các khoa xét nghiệm khác"
+    },
+    {
+      "_row_id": 9,
+      "Tên phòng": "6. Phòng lấy mẫu",
+      "Diện tích($m^{2}$/phòng)": "18",
+      "Ghi chú": "Liền kề với phòng thủ tục"
+    },
+    {
+      "_row_id": 10,
+      "Tên phòng": "7. Kho chung",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": "Liền kề với phòng thủ tục"
+    },
+    {
+      "_row_id": 11,
+      "Tên phòng": "8. Phòng hành chính, giao ban đào tạo",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": "Có thể kết hợp với các khoa xét nghiệm khác"
+    },
+    {
+      "_row_id": 12,
+      "Tên phòng": "9. Phòng trưởng khoa",
+      "Diện tích($m^{2}$/phòng)": "18",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 13,
+      "Tên phòng": "10 Phòng nhân viên, trực khoa",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 14,
+      "Tên phòng": "11. Khu vệ sinh, thay quần áo nhân viên (nam/nữ)",
+      "Diện tích($m^{2}$/phòng)": "24 $m^{2}$ x 02 khu",
+      "Ghi chú": "Có thể kết hợp với các khoa xét nghiệm khác"
+    },
+    {
+      "_row_id": 15,
+      "Tên phòng": "**B. Khoa Hóa sinh**",
+      "Diện tích($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 16,
+      "Tên phòng": "Khu nghiệp vụ kỹ thuật",
+      "Diện tích($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 17,
+      "Tên phòng": "1. Xét nghiệm hóa sinh",
+      "Diện tích($m^{2}$/phòng)": "80",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 18,
+      "Tên phòng": "2. Chuẩn bị",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 19,
+      "Tên phòng": "3. Phòng rửa/ tiệt trùng",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 20,
+      "Tên phòng": "4. Kỹ thuật phụ trợ",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 21,
+      "Tên phòng": "5. Kho hóa chất",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 22,
+      "Tên phòng": "Khu phụ trợ",
+      "Diện tích($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 23,
+      "Tên phòng": "6. Trực + nhận/trả kết quả",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": "Có thể kết hợp với các khoa xét nghiệm khác"
+    },
+    {
+      "_row_id": 24,
+      "Tên phòng": "7. Phòng lấy mẫu",
+      "Diện tích($m^{2}$/phòng)": "18",
+      "Ghi chú": "Liền kề với phòng thủ tục"
+    },
+    {
+      "_row_id": 25,
+      "Tên phòng": "8. Phòng hành chính, giao ban đào tạo",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 26,
+      "Tên phòng": "9. Phòng trưởng khoa",
+      "Diện tích($m^{2}$/phòng)": "18",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 27,
+      "Tên phòng": "10. Phòng nhân viên",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 28,
+      "Tên phòng": "11. Kho chung",
+      "Diện tích($m^{2}$/phòng)": "24",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 29,
+      "Tên phòng": "12. Khu vệ sinh, thay quần áo nhân viên (nam/nữ)",
+      "Diện tích($m^{2}$/phòng)": "24 $m^{2}$ x 02 khu",
+      "Ghi chú": "Có thể kết hợp với các khoa xét nghiệm khác"
+    },
+    {
+      "_row_id": 30,
+      "Tên phòng": "**C. Khoa Huyết học**",
+      "Diện tích($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 31,
+      "Tên phòng": "Khu nghiệp vụ kỹ thuật",
+      "Diện tích($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 32,
+      "Tên phòng": "1. Xét nghiệm huyết học",
+      "Diện tích($m^{2}$/phòng)": "80",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 33,
+      "Tên phòng": "2. Phòng lưu trữ máu",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 34,
+      "Tên phòng": "3. Phòng lưu trữ mẫu máu xét nghiệm",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 35,
+      "Tên phòng": "4. Phòng rửa/ tiệt trùng",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 36,
+      "Tên phòng": "5. Kho hóa chất",
+      "Diện tích($m^{2}$/phòng)": "24",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 37,
+      "Tên phòng": "**Khu phụ trợ**",
+      "Diện tích($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 38,
+      "Tên phòng": "6. Tiếp đón, nhận/ trả kết quả",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": "Có thể kết hợp với khoa xét nghiệm khác"
+    },
+    {
+      "_row_id": 39,
+      "Tên phòng": "7. Phòng hành chính, giao ban đào tạo",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": "Có thể kết hợp với khoa xét nghiệm khác"
+    },
+    {
+      "_row_id": 40,
+      "Tên phòng": "8. Phòng trưởng khoa",
+      "Diện tích($m^{2}$/phòng)": "18",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 41,
+      "Tên phòng": "9. Phòng nhân viên, trực khoa",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 42,
+      "Tên phòng": "10. Kho chung",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 43,
+      "Tên phòng": "11. Khu vệ sinh, thay quần áo nhân viên (nam/nữ)",
+      "Diện tích($m^{2}$/phòng)": "24 $m^{2}$ x 02 khu",
+      "Ghi chú": "Có thể kết hợp với khoa xét nghiệm khác"
+    },
+    {
+      "_row_id": 44,
+      "Tên phòng": "12. Khu vệ sinh bệnh nhân (nam/nữ)",
+      "Diện tích($m^{2}$/phòng)": "18 $m^{2}$ x 02 khu",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,50 @@
+{
+  "table_id": "bang_k_1",
+  "table_number": "K.1",
+  "table_title": "Bảng K.1 - Hướng mở cửa sổ các gian phòng chủ yếu trong bệnh viện",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại phòng",
+    "Hướng cửa sổ — Có lợi",
+    "Hướng cửa sổ — Cho phép",
+    "Hướng cửa sổ — Bất lợi"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "1. Phòng mổ, nội soi, cân đo chính xác",
+      "Hướng cửa sổ — Có lợi": "Bắc",
+      "Hướng cửa sổ — Cho phép": "Lân cận Bắc trong khoảng 30°",
+      "Hướng cửa sổ — Bất lợi": "Các hướng khác"
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "2. Phòng khám, điều trị, thủ thuật, xét nghiệm",
+      "Hướng cửa sổ — Có lợi": "Nam và Đông Nam",
+      "Hướng cửa sổ — Cho phép": "Bắc",
+      "Hướng cửa sổ — Bất lợi": "Các hướng khác"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "3. Phòng bệnh nhân, giải trí",
+      "Hướng cửa sổ — Có lợi": "Nam",
+      "Hướng cửa sổ — Cho phép": "Đông Nam",
+      "Hướng cửa sổ — Bất lợi": "Các hướng khác"
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "4. Phòng phụ trợ, khu vực hành chính quản trị",
+      "Hướng cửa sổ — Có lợi": "Nam và Đông Nam",
+      "Hướng cửa sổ — Cho phép": "Tất cả các hướng trừ hướng bất lợi",
+      "Hướng cửa sổ — Bất lợi": "Tây và lân cận Tây"
+    },
+    {
+      "_row_id": 5,
+      "Loại phòng": "5. Phòng thay quần áo, cầu thang, hành lang, khu vệ sinh, nơi thu hồi đồ bẩn",
+      "Hướng cửa sổ — Có lợi": "Tất cả các hướng",
+      "Hướng cửa sổ — Cho phép": "Tất cả các hướng",
+      "Hướng cửa sổ — Bất lợi": "Tất cả các hướng"
+    }
+  ],
+  "footnotes": []
+}

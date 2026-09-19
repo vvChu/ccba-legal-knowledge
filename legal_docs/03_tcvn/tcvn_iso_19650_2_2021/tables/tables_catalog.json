@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 2,
+  "tables": [
+    {
+      "table_id": "bang_a_1",
+      "table_number": "A.1",
+      "title": "Bảng A.1 - Mẫu ma trận trách nhiệm quản lý thông tin",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_a_1.csv",
+      "json_file": "tables/json/bang_a_1.json"
+    },
+    {
+      "table_id": "bang_b_1",
+      "table_number": "B.1",
+      "title": "Bảng B.1 - Mã trạng thái cho các công-te-nơ thông tin trong môi trường dữ liệu chung",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_b_1.csv",
+      "json_file": "tables/json/bang_b_1.json"
+    }
+  ]
+}

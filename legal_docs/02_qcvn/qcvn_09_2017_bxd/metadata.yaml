@@ -1,6 +1,7 @@
 id: QCVN-09-2017-BXD
 document_number: QCVN 09:2017/BXD
-title: QCVN 09:2017/BXD — Quy chuẩn kỹ thuật quốc gia về Các công trình xây dựng sử dụng năng lượng hiệu quả
+title: QCVN 09:2017/BXD — Quy chuẩn kỹ thuật quốc gia về Các công trình xây dựng sử
+  dụng năng lượng hiệu quả
 type: Quy chuẩn kỹ thuật quốc gia
 issued_by: Bộ Xây dựng
 signer: Lê Quang Hùng
@@ -11,7 +12,7 @@ bundle_path: legal_docs/02_qcvn/qcvn_09_2017_bxd/
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-15-2017-TT-BXD-Quy-chuan-ky-thuat-cong-trinh-xay-dung-su-dung-nang-luong-hieu-qua-373712.aspx
 sha256: 4e4ed3e4e264d53836f14ada9f0d99fb49e3e6c7ed83aa97a02404a4feee3f64
 pdf_path: legal_docs/02_qcvn/qcvn_09_2017_bxd/sources/qcvn_09_2017_bxd.pdf
-pdf_sha256: bcfe880f97b9c27a7d4948334392679dc557e6e6572243925d39f5e0d9673402
+pdf_sha256: 1766dc54506c0c249ff940e560090e2ab670170737b716785fa72ae217d43951
 cong_bao_number: 15/2017/TT-BXD
 pdf_status: verified
 source_file: .md/extracted_docs/qcvn_09_2017_bxd/qcvn_09_2017_bxd.docx
@@ -20,14 +21,22 @@ source_assets:
   docx:
     sha256: 4e4ed3e4e264d53836f14ada9f0d99fb49e3e6c7ed83aa97a02404a4feee3f64
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_09_2017_bxd/qcvn_09_2017_bxd.docx
-    status: synced
+    status: verified
   pdf:
-    sha256: bcfe880f97b9c27a7d4948334392679dc557e6e6572243925d39f5e0d9673402
+    sha256: 1766dc54506c0c249ff940e560090e2ab670170737b716785fa72ae217d43951
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_09_2017_bxd/qcvn_09_2017_bxd.pdf
     status: verified
+    origin: docx_vector_rendered
+  raw_scan:
+    sha256: bcfe880f97b9c27a7d4948334392679dc557e6e6572243925d39f5e0d9673402
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_09_2017_bxd/qcvn_09_2017_bxd_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 relations:
   replaces: QCVN-09-2013-BXD
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-09-07T15:00:00+07:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/qcvn_09_2017_bxd_raw_scan.pdf

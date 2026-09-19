@@ -1,0 +1,51 @@
+{
+  "table_id": "bang_33",
+  "table_number": "33",
+  "table_title": "Bảng 33 - Tiêu chuẩn diện tích tối thiểu theo các chức danh trong khu Hành chính quản trị",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại phòng",
+    "Diện tích($m^{2}$/người)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "1. Giám đốc bệnh viện",
+      "Diện tích($m^{2}$/người)": "30"
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "2. Phó giám đốc bệnh viện",
+      "Diện tích($m^{2}$/người)": "18"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "3. Trưởng khoa, phòng và các chức danh tương đương",
+      "Diện tích($m^{2}$/người)": "18"
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "4. Phó trưởng khoa, phòng, y tá trưởng, kỹ thuật viên trưởng, nữ hộ sinh trưởng và các chức danh tương đương",
+      "Diện tích($m^{2}$/người)": "15"
+    },
+    {
+      "_row_id": 5,
+      "Loại phòng": "5. Chuyên viên và các chức danh tương đương",
+      "Diện tích($m^{2}$/người)": "từ 8 đến 10"
+    },
+    {
+      "_row_id": 6,
+      "Loại phòng": "6. Nhân viên thực hành nghiệp vụ kỹ thuật",
+      "Diện tích($m^{2}$/người)": "từ 9 đến 12"
+    },
+    {
+      "_row_id": 7,
+      "Loại phòng": "7. Nhân viên làm công tác phục vụ",
+      "Diện tích($m^{2}$/người)": "từ 9 đến 12"
+    }
+  ],
+  "footnotes": {
+    "[7]": "**CHÚ THÍCH 1:** Tiêu chuẩn, định mức sử dụng diện tích làm việc của các chức danh trong Bệnh viện đa khoa theo hạng bệnh viện phải tuân thủ các quy định hiện hành [7], [8].",
+    "fn_2": "**CHÚ THÍCH 2:** Nếu giám đốc bệnh viện và phó giám đốc bệnh viện kiêm công tác điều trị thì diện tích phòng làm việc được tăng thêm từ 4 đến 6 $m^{2}$."
+  }
+}

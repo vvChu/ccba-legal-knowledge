@@ -1,0 +1,87 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 10,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Yêu cầu về chất lượng sử dụng và chất lượng xây dựng công sở cơ quan HCNN theo cấp công trình",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_01.csv",
+      "json_file": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_02",
+      "table_number": "2",
+      "title": "Bảng 2 - Chiều rộng hành lang trong công sở",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_02.csv",
+      "json_file": "tables/json/bang_02.json"
+    },
+    {
+      "table_id": "bang_03",
+      "table_number": "3",
+      "title": "Bảng 3 - Chiều rộng thông thủy cầu thang",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_03.csv",
+      "json_file": "tables/json/bang_03.json"
+    },
+    {
+      "table_id": "bang_04",
+      "table_number": "4",
+      "title": "Bảng 4 - Khoảng cách giới hạn cho phép đi theo đường thoát nạn từ cửa ra vào của phòng xa nhất đến lối ra thoát nạn gần nhất",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_04.csv",
+      "json_file": "tables/json/bang_04.json"
+    },
+    {
+      "table_id": "bang_05",
+      "table_number": "5",
+      "title": "Bảng 5 - Hệ số độ rọi tự nhiên tối thiểu",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_05.csv",
+      "json_file": "tables/json/bang_05.json"
+    },
+    {
+      "table_id": "bang_06",
+      "table_number": "6",
+      "title": "Bảng 6 - Độ rọi tối thiểu trên bề mặt làm việc hoặc vật cần phân biệt",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_06.csv",
+      "json_file": "tables/json/bang_06.json"
+    },
+    {
+      "table_id": "bang_a_1",
+      "table_number": "A.1",
+      "title": "Bảng A.1 - Tiêu chuẩn diện tích một chỗ làm việc của cán bộ, công chức trong cơ quan nhà nước",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_a_1.csv",
+      "json_file": "tables/json/bang_a_1.json"
+    },
+    {
+      "table_id": "bang_phu_luc_b",
+      "table_number": "PLB",
+      "title": "Bảng Phụ lục B",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_b.csv",
+      "json_file": "tables/json/bang_phu_luc_b.json"
+    },
+    {
+      "table_id": "bang_c_1",
+      "table_number": "C.1",
+      "title": "Bảng C.1 - Số lượng vốn tài liệu tối thiểu ban đầu của thư viện các cơ quan nhà nước",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_c_1.csv",
+      "json_file": "tables/json/bang_c_1.json"
+    },
+    {
+      "table_id": "bang_d_1",
+      "table_number": "D.1",
+      "title": "Bảng D.1 - Các thông số về chỉ tiêu nhiệt độ, độ ẩm trong phòng và tiếng ồn cho phép",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_d_1.csv",
+      "json_file": "tables/json/bang_d_1.json"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿"Tên khoa, phòng",Diện tích tối thiểu<br>($m^{2}$/phòng)
+**A. Khu vực vô khuẩn**,
+1. Mổ tổng hợp,36 x 02 phòng
+2. Mổ hữu khuẩn,36 x 02 phòng
+3. Mổ chấn thương,36 x 01 phòng
+4. Mổ cấp cứu,36 x 01 phòng
+5. Mổ sản,36 x 01 phòng
+6. Mổ chuyên khoa khác,36 x 02 phòng
+7. Rửa tay vô khuẩn,tùy yêu cầu sử dụng và cách bố trí các phòng mổ mà tính toán cho phù hợp
+8 Hành lang vô khuẩn,tùy yêu cầu sử dụng và cách bố trí các phòng mổ mà tính toán cho phù hợp
+9. Cung cấp vật tư,18
+**B. Khu vực sạch**,
+1. Tiền mê (số phòng bằng 50 % số phòng mổ) $^{*)}$,30
+2. Hành lang sạch,36
+3. Phòng nghỉ giữa ca mổ,24
+4. Phòng ghi hồ sơ mổ,12
+5. Phòng khử khuẩn,24
+6. Phòng đồ thải,18
+7. Kho thiết bị,24
+**C. Khu phụ trợ**,
+1. Tiếp nhận bệnh nhân,36
+2. Hồi tỉnh (số giường tính bằng 50 % số phòng mổ),12 $m^{2}$/giường
+"3. Hành chính, trực",từ 18 đến 24
+"4. Hội chẩn, đào tạo",36
+"5. Thay quần áo, vệ sinh (Nam/nữ riêng biệt)",24 $m^{2}$/khu x 02 khu
+6. Phòng trưởng khoa,18
+7. Phòng bác sỹ,18 x 02 phòng
+"8. Phòng y tá, hộ lý",18 x 02 phòng

@@ -9,7 +9,7 @@ issued_date: '2024-02-27'
 effective_date: '2024-02-27'
 status: active
 pdf_path: legal_docs/01_vbpl/nghi_dinh_24_2024_nd_cp/sources/nghi_dinh_24_2024_nd_cp.pdf
-pdf_sha256: 810b9139d0074b49ab5b873667793d4c52433fc365fbfec787db408c17a1b104
+pdf_sha256: 0ddc02e55b53db8fec465ea3acdf35e0ede867d29f0a604f5ac5052ea77157c2
 pdf_status: verified
 legal_basis:
 - doc_id: luật_tổ_chức_chính_phủ_ngày_19_tháng_6_năm_2015
@@ -21,9 +21,19 @@ bundle_path: legal_docs/01_vbpl/nghi_dinh_24_2024_nd_cp/
 cong_bao_number: Đang cập nhật
 source_assets:
   pdf:
-    sha256: 810b9139d0074b49ab5b873667793d4c52433fc365fbfec787db408c17a1b104
+    sha256: 0ddc02e55b53db8fec465ea3acdf35e0ede867d29f0a604f5ac5052ea77157c2
     vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_24_2024_nd_cp/nghi_dinh_24_2024_nd_cp.pdf
     status: verified
+    origin: docx_vector_rendered
+  docx:
+    sha256: a74c52aa0a1c21f86a096971f3a972bebe46ac3c195bbe5c60b4b5da0853bd7f
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_24_2024_nd_cp/nghi_dinh_24_2024_nd_cp.docx
+    status: verified
+  raw_scan:
+    sha256: 810b9139d0074b49ab5b873667793d4c52433fc365fbfec787db408c17a1b104
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_24_2024_nd_cp/nghi_dinh_24_2024_nd_cp_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 source_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-24-2024-ND-CP-huong-dan-Luat-Dau-thau-ve-lua-chon-nha-thau-578020.aspx
 relations:
   guided_by: Luat-Dau-thau-2023-22-2023-QH15
@@ -31,3 +41,5 @@ relations:
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/nghi_dinh_24_2024_nd_cp_raw_scan.pdf

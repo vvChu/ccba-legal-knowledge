@@ -1,0 +1,18 @@
+{
+  "table_id": "bang_05",
+  "table_number": "5",
+  "table_title": "Bảng 5",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên phòng",
+    "Diện tích $m^{2}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên phòng": "1. Phòng chuẩn bị dùng cho giảng đường vật lí 500 - 400 chỗ\n2. Phòng chuẩn bị dùng cho giảng đường vật lí 300 - 200 chỗ\n3. Phòng chuẩn bị dùng cho giảng đường hoá học 300 - 200\n4. Phòng chuẩn bị dùng cho giảng đường toán học cao cấp, hình học hoạ hình, sức bền vật liệu và; các môn học khác với số chỗ:\n&nbsp;&nbsp;\\- 300 : 200 chỗ\n&nbsp;&nbsp;\\- 150 : l00 chỗ\n5. Phòng dụng cụ cho các giảng đường vật lí",
+      "Diện tích $m^{2}$": "144\n108\n72\n72\n36\n72"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_15",
+  "table_number": "15",
+  "table_title": "Bảng 15 - Diện tích tối thiểu các phòng điều trị trong khoa Răng - Hàm - Mặt",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại phòng",
+    "Diện tích($m^{2}$/phòng)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "1. Phòng khám (01 ghế), $m^{2}$/ghế khám",
+      "Diện tích($m^{2}$/phòng)": "12"
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "2. Phòng điều trị: chỗ tiêm, thay băng, làm thuốc",
+      "Diện tích($m^{2}$/phòng)": "từ 24 đến 30"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "3. Chỗ rửa hấp, sấy, chuẩn bị dụng cụ",
+      "Diện tích($m^{2}$/phòng)": "từ 12 đến 18"
+    }
+  ],
+  "footnotes": []
+}

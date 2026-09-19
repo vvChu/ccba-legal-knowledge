@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_10",
+  "table_number": "10",
+  "table_title": "Bảng 10 - Diện tích tối thiểu các phòng trong đơn nguyên điều trị phụ khoa",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại phòng",
+    "Diện tích tối thiểu",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "1. Phòng khám phụ khoa, $m^{2}$/bàn",
+      "Diện tích tối thiểu": "từ 15 đến 18",
+      "Ghi chú": "Mỗi bàn thêm tính từ 8 $m^{2}$/bàn đến 9 $m^{2}$/bàn nhưng không quá 03 bàn/phòng"
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "**2. Phòng thủ thuật**",
+      "Diện tích tối thiểu": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ làm thuốc, $m^{2}$/chỗ",
+      "Diện tích tối thiểu": "từ 18 đến 24",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ soi đốt, $m^{2}$/bàn",
+      "Diện tích tối thiểu": "từ 18 đến 24",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 5,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ rửa, hấp, chuẩn bị dụng cụ, $m^{2}$/bàn",
+      "Diện tích tối thiểu": "18",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}

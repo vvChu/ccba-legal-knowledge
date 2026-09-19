@@ -1,0 +1,89 @@
+{
+  "table_id": "bang_12",
+  "table_number": "12",
+  "table_title": "Bảng 12 - Diện tích tối thiểu các phòng dành cho trẻ sơ sinh",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại phòng",
+    "Diện tích",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "**1. Phòng trẻ sơ sinh**",
+      "Diện tích": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "&nbsp;&nbsp;\\- Phòng sơ sinh thiếu tháng, $m^{2}$/giường",
+      "Diện tích": "từ 3 đến 4",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "&nbsp;&nbsp;\\- Phòng sơ sinh cách ly, $m^{2}$/giường",
+      "Diện tích": "từ 3 đến 4",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "**2. Các phòng phụ trợ**",
+      "Diện tích": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 5,
+      "Loại phòng": "&nbsp;&nbsp;\\- Phòng tắm rửa, $m^{2}$/phòng",
+      "Diện tích": "từ 6 đến 12",
+      "Ghi chú": "cho một đơn nguyên từ 25 giường đến 30 giường"
+    },
+    {
+      "_row_id": 6,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ giặt tã lót, $m^{2}$/phòng",
+      "Diện tích": "từ 9 đến 12",
+      "Ghi chú": "cho một đơn nguyên từ 25 giường đến 30 giường"
+    },
+    {
+      "_row_id": 7,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ pha sữa, $m^{2}$/phòng",
+      "Diện tích": "từ 6 đến 9",
+      "Ghi chú": "cho một đơn nguyên từ 25 giường đến 30 giường"
+    },
+    {
+      "_row_id": 8,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ trực của hộ sinh, $m^{2}$/phòng",
+      "Diện tích": "từ 9 đến 12",
+      "Ghi chú": "cho một đơn nguyên từ 25 giường đến 30 giường"
+    },
+    {
+      "_row_id": 9,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ cho bú, $m^{2}$/phòng",
+      "Diện tích": "từ 12 đến 15",
+      "Ghi chú": "cho một đơn nguyên từ 25 giường đến 30 giường"
+    },
+    {
+      "_row_id": 10,
+      "Loại phòng": "&nbsp;&nbsp;\\- Phòng nhận trẻ ra viện, $m^{2}$/phòng",
+      "Diện tích": "từ 9 đến 12",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 11,
+      "Loại phòng": "&nbsp;&nbsp;\\- Kho sạch, $m^{2}$/phòng",
+      "Diện tích": "từ 15 đến 18",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 12,
+      "Loại phòng": "&nbsp;&nbsp;\\- Kho thu đồ bẩn, $m^{2}$/phòng",
+      "Diện tích": "từ 18 đến 21",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH 1:** Số giường trẻ sơ sinh tính bằng số giường sản phụ. Phòng sơ sinh thiếu tháng và sơ sinh cách ly phải ngăn riêng thành ô, mỗi ô không quá 06 giường.",
+    "fn_2": "**CHÚ THÍCH 2:** Phòng điều trị trẻ sơ sinh phải có cửa hoặc tường ngăn bằng kính để quan sát và theo dõi."
+  }
+}

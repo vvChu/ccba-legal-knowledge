@@ -1,0 +1,183 @@
+{
+  "table_id": "bang_30",
+  "table_number": "30",
+  "table_title": "Bảng 30 - Diện tích tối thiểu các phòng trong khoa Dược",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên khoa, phòng",
+    "Diện tích tối thiểu($m^{2}$/phòng)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên khoa, phòng": "**Khu vực sản xuất**",
+      "Diện tích tối thiểu($m^{2}$/phòng)": ""
+    },
+    {
+      "_row_id": 2,
+      "Tên khoa, phòng": "1. Phòng rửa hấp",
+      "Diện tích tối thiểu($m^{2}$/phòng)": ""
+    },
+    {
+      "_row_id": 3,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Chỗ thu chai lọ",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 15 đến 24"
+    },
+    {
+      "_row_id": 4,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Chỗ ngâm, rửa",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "tù 18 đến 24"
+    },
+    {
+      "_row_id": 5,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Chỗ sấy, hấp",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 12 đến 18"
+    },
+    {
+      "_row_id": 6,
+      "Tên khoa, phòng": "2. Các phòng pha chế tân dược",
+      "Diện tích tối thiểu($m^{2}$/phòng)": ""
+    },
+    {
+      "_row_id": 7,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Phòng cất nước",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 6 đến 12"
+    },
+    {
+      "_row_id": 8,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Phòng pha thuốc nước",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 15 đến 24"
+    },
+    {
+      "_row_id": 9,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Phòng pha chế các loại thuốc khác",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 9 đến 18"
+    },
+    {
+      "_row_id": 10,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Phòng kiểm nghiệm",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 15 đến 18"
+    },
+    {
+      "_row_id": 11,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Phòng soi dán nhãn",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 9 đến 12"
+    },
+    {
+      "_row_id": 12,
+      "Tên khoa, phòng": "3. Các phòng bào chế tân, đông dược",
+      "Diện tích tối thiểu($m^{2}$/phòng)": ""
+    },
+    {
+      "_row_id": 13,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Phòng chứa vật liệu tươi",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 24 đến 36"
+    },
+    {
+      "_row_id": 14,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Chỗ ngâm, rửa, xát",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "Tùy thuộc vào điều kiện cụ thể"
+    },
+    {
+      "_row_id": 15,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Chỗ hong phơi, sấy",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "Tùy thuộc vào điều kiện cụ thể"
+    },
+    {
+      "_row_id": 16,
+      "Tên khoa, phòng": "4. Phòng chế dược liệu khô",
+      "Diện tích tối thiểu($m^{2}$/phòng)": ""
+    },
+    {
+      "_row_id": 17,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Xay tán",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 9 đến 15"
+    },
+    {
+      "_row_id": 18,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Luyện hoàn đóng gói, bốc thuốc",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 24 đến 36"
+    },
+    {
+      "_row_id": 19,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Bếp sắc thuốc, nấu cao",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 9 đến 15"
+    },
+    {
+      "_row_id": 20,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Kho thành phẩm tạm thời",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 9 đến 15"
+    },
+    {
+      "_row_id": 21,
+      "Tên khoa, phòng": "Khu vực bảo quản, cấp phát",
+      "Diện tích tối thiểu($m^{2}$/phòng)": ""
+    },
+    {
+      "_row_id": 22,
+      "Tên khoa, phòng": "1. Quầy cấp phát",
+      "Diện tích tối thiểu($m^{2}$/phòng)": ""
+    },
+    {
+      "_row_id": 23,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Chỗ đợi",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 9 đến 12"
+    },
+    {
+      "_row_id": 24,
+      "Tên khoa, phòng": "&nbsp;&nbsp;\\- Quầy phát thuốc",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 18 đến 24"
+    },
+    {
+      "_row_id": 25,
+      "Tên khoa, phòng": "2. Kho dược",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 32 đến 45"
+    },
+    {
+      "_row_id": 26,
+      "Tên khoa, phòng": "3. Kho - phòng lạnh",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 15 đến 18"
+    },
+    {
+      "_row_id": 27,
+      "Tên khoa, phòng": "4. Kho bông băng y tế, dụng cụ y tế",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 36 đến 45"
+    },
+    {
+      "_row_id": 28,
+      "Tên khoa, phòng": "5. Kho dự trữ dụng cụ y tế",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 32 đến 36"
+    },
+    {
+      "_row_id": 29,
+      "Tên khoa, phòng": "6. Kho phế liệu",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 9 đến 12"
+    },
+    {
+      "_row_id": 30,
+      "Tên khoa, phòng": "**Các phòng hành chính, sinh hoạt**",
+      "Diện tích tối thiểu($m^{2}$/phòng)": ""
+    },
+    {
+      "_row_id": 31,
+      "Tên khoa, phòng": "1. Phòng trưởng khoa",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "18"
+    },
+    {
+      "_row_id": 32,
+      "Tên khoa, phòng": "2. Phòng thống kê, kế toán",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 18 đến 24"
+    },
+    {
+      "_row_id": 33,
+      "Tên khoa, phòng": "3. Phòng sinh hoạt",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 18 đến 32"
+    },
+    {
+      "_row_id": 34,
+      "Tên khoa, phòng": "4. Khu vệ sinh, thay quần áo nhân viên (nam/nữ)",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "24 x 02 khu"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,183 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 22,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "table_number": "1",
+      "title": "Bảng 1",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_01.csv",
+      "json_file": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_02",
+      "table_number": "2",
+      "title": "Bảng 2",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_02.csv",
+      "json_file": "tables/json/bang_02.json"
+    },
+    {
+      "table_id": "bang_03",
+      "table_number": "3",
+      "title": "Bảng 3",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_03.csv",
+      "json_file": "tables/json/bang_03.json"
+    },
+    {
+      "table_id": "bang_04",
+      "table_number": "4",
+      "title": "Bảng 4",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_04.csv",
+      "json_file": "tables/json/bang_04.json"
+    },
+    {
+      "table_id": "bang_05",
+      "table_number": "5",
+      "title": "Bảng 5",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_05.csv",
+      "json_file": "tables/json/bang_05.json"
+    },
+    {
+      "table_id": "bang_06",
+      "table_number": "6",
+      "title": "Bảng 6",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_06.csv",
+      "json_file": "tables/json/bang_06.json"
+    },
+    {
+      "table_id": "bang_07",
+      "table_number": "7",
+      "title": "Bảng 7",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_07.csv",
+      "json_file": "tables/json/bang_07.json"
+    },
+    {
+      "table_id": "bang_08",
+      "table_number": "8",
+      "title": "Bảng 8",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_08.csv",
+      "json_file": "tables/json/bang_08.json"
+    },
+    {
+      "table_id": "bang_09",
+      "table_number": "9",
+      "title": "Bảng 9",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_09.csv",
+      "json_file": "tables/json/bang_09.json"
+    },
+    {
+      "table_id": "bang_10",
+      "table_number": "10",
+      "title": "Bảng 10",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_10.csv",
+      "json_file": "tables/json/bang_10.json"
+    },
+    {
+      "table_id": "bang_11",
+      "table_number": "11",
+      "title": "Bảng 11",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_11.csv",
+      "json_file": "tables/json/bang_11.json"
+    },
+    {
+      "table_id": "bang_12",
+      "table_number": "12",
+      "title": "Bảng 12",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_12.csv",
+      "json_file": "tables/json/bang_12.json"
+    },
+    {
+      "table_id": "bang_13",
+      "table_number": "13",
+      "title": "Bảng 13",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_13.csv",
+      "json_file": "tables/json/bang_13.json"
+    },
+    {
+      "table_id": "bang_14",
+      "table_number": "14",
+      "title": "Bảng 14",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_14.csv",
+      "json_file": "tables/json/bang_14.json"
+    },
+    {
+      "table_id": "bang_15",
+      "table_number": "15",
+      "title": "Bảng 15",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_15.csv",
+      "json_file": "tables/json/bang_15.json"
+    },
+    {
+      "table_id": "bang_16",
+      "table_number": "16",
+      "title": "Bảng 16",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_16.csv",
+      "json_file": "tables/json/bang_16.json"
+    },
+    {
+      "table_id": "bang_18",
+      "table_number": "18",
+      "title": "Bảng 18",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_18.csv",
+      "json_file": "tables/json/bang_18.json"
+    },
+    {
+      "table_id": "bang_19",
+      "table_number": "19",
+      "title": "Bảng 19",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_19.csv",
+      "json_file": "tables/json/bang_19.json"
+    },
+    {
+      "table_id": "bang_20",
+      "table_number": "20",
+      "title": "Bảng 20",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_20.csv",
+      "json_file": "tables/json/bang_20.json"
+    },
+    {
+      "table_id": "bang_21",
+      "table_number": "21",
+      "title": "Bảng 21",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_21.csv",
+      "json_file": "tables/json/bang_21.json"
+    },
+    {
+      "table_id": "bang_22",
+      "table_number": "22",
+      "title": "Bảng 22",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_22.csv",
+      "json_file": "tables/json/bang_22.json"
+    },
+    {
+      "table_id": "bang_23",
+      "table_number": "23",
+      "title": "Bảng 23",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_23.csv",
+      "json_file": "tables/json/bang_23.json"
+    }
+  ]
+}

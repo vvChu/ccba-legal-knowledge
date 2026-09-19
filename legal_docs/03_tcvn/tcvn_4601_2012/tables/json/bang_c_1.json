@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_c_1",
+  "table_number": "C.1",
+  "table_title": "Bảng C.1 - Số lượng vốn tài liệu tối thiểu ban đầu của thư viện các cơ quan nhà nước",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại thư viện",
+    "Số lượng vốn tài liệu tối thiểu ban đầu — Số lượng bản sách",
+    "Số lượng vốn tài liệu tối thiểu ban đầu — Số báo, tạp chí"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại thư viện": "&nbsp;&nbsp;\\- Thư viện của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, tổ chức kinh tế, đơn vị sự nghiệp.",
+      "Số lượng vốn tài liệu tối thiểu ban đầu — Số lượng bản sách": "",
+      "Số lượng vốn tài liệu tối thiểu ban đầu — Số báo, tạp chí": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại thư viện": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ Cấp Trung ương",
+      "Số lượng vốn tài liệu tối thiểu ban đầu — Số lượng bản sách": "10 000",
+      "Số lượng vốn tài liệu tối thiểu ban đầu — Số báo, tạp chí": "20"
+    },
+    {
+      "_row_id": 3,
+      "Loại thư viện": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ Cấp cơ sở",
+      "Số lượng vốn tài liệu tối thiểu ban đầu — Số lượng bản sách": "2 000",
+      "Số lượng vốn tài liệu tối thiểu ban đầu — Số báo, tạp chí": "5"
+    }
+  ],
+  "footnotes": []
+}

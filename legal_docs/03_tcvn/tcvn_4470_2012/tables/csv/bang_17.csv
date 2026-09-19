@@ -1,0 +1,14 @@
+﻿Tên phòng,Diện tích
+"1. Sảnh, $m^{2}$",36
+2. Phòng đợi cho người nhà bệnh nhân,xem 6.2.6
+"3. Phòng sơ cứu, phân loại, $m^{2}$/phòng",36
+"4. Phòng tạm lưu cấp $cứu^{a)}$, $m^{2}$/phòng",9
+"5. Phòng tắm rửa khử độc cho bệnh nhân, $m^{2}$/phòng",18
+"6. Phòng rửa, tiệt trùng, $m^{2}$/phòng",18
+"7. Phòng trưởng khoa, $m^{2}$/phòng",18
+"8. Phòng bác sỹ (kết hợp làm phòng trực), $m^{2}$/phòng",24
+"9. Phòng y tá, hộ lý, $m^{2}$/phòng",24
+"10. Phòng giao ban, đào tạo (cho từ 25 đến 31 CBCNV hoặc 01 nhóm học viên), $m^{2}$/phòng",từ 48 đến 54
+"11. Kho sạch, $m^{2}$/phòng",từ 18 đến 24
+"12. Kho bẩn, $m^{2}$/phòng",từ 48 đến 27
+"13. Vệ sinh, thay đồ nhân viên $^{b)}$, $m^{2}$/khu",24

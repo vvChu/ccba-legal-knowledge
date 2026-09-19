@@ -1,0 +1,121 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN ISO 19650 1 2021
+total_figures: 14
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Quan điểm về các bước hoàn thiện của mô hình và số hóa trình tự quản lý thông
+    tin
+  annex: MAIN
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  slug: '2'
+  tag: '2'
+  title: Phân cấp của các yêu cầu của thông tin
+  annex: MAIN
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_3
+  slug: '3'
+  tag: '3'
+  title: Tổng quan vòng đời quản lý thông tin dự án và thông tin tài sản
+  annex: MAIN
+  anchor: hinh-3
+  image_relpath: figures/images/hinh_3.png
+  has_image: true
+- figure_id: FIG_4
+  slug: '4'
+  tag: '4'
+  title: Chỉ dẫn chung và hoạch định chuyển giao thông tin
+  annex: MAIN
+  anchor: hinh-4
+  image_relpath: figures/images/hinh_4.png
+  has_image: true
+- figure_id: FIG_5
+  slug: '5'
+  tag: '5'
+  title: Minh họa cho các quá trình phân chia quản lý thông tin
+  annex: MAIN
+  anchor: hinh-5
+  image_relpath: figures/images/hinh_5.png
+  has_image: true
+- figure_id: FIG_6
+  slug: '6'
+  tag: '6'
+  title: Mối quan hệ giữa các quyết định quan trọng và thông tin từ bên thực hiện
+    chính
+  annex: MAIN
+  anchor: hinh-6
+  image_relpath: figures/images/hinh_6.png
+  has_image: true
+- figure_id: FIG_7
+  slug: '7'
+  tag: '7'
+  title: Kiểm tra thông tin trong suốt quá trình trao đổi thông tin
+  annex: MAIN
+  anchor: hinh-7
+  image_relpath: figures/images/hinh_7.png
+  has_image: true
+- figure_id: FIG_8
+  slug: '8'
+  tag: '8'
+  title: Ví dụ về thông tin được cung cấp bởi toàn bộ các nhóm chuyển giao
+  annex: MAIN
+  anchor: hinh-8
+  image_relpath: figures/images/hinh_8.png
+  has_image: true
+- figure_id: FIG_9
+  slug: '9'
+  tag: '9'
+  title: Ví dụ về việc chuyển giao thông tin thông qua các trao đổi thông tin để hỗ
+    trợ các quyết định quan trọng của bên đặt hàng
+  annex: MAIN
+  anchor: hinh-9
+  image_relpath: figures/images/hinh_9.png
+  has_image: true
+- figure_id: FIG_10
+  slug: '10'
+  tag: '10'
+  title: Khái niệm môi trường dữ liệu chung
+  annex: A
+  anchor: hinh-10
+  image_relpath: figures/images/hinh_10.png
+  has_image: true
+- figure_id: FIG_11
+  slug: '11'
+  tag: '11'
+  title: Ví dụ về chuyển giao thông tin thông qua trao đổi thông tin để hỗ trợ các
+    quyết định quan trọng của bên đặt hàng
+  annex: A
+  anchor: hinh-11
+  image_relpath: figures/images/hinh_11.png
+  has_image: true
+- figure_id: FIG_A_1
+  slug: a_1
+  tag: A.1
+  title: Minh họa chiến lược liên hợp không gian theo nguyên tắc trong dự án xây dựng
+  annex: A
+  anchor: hinh-a_1
+  image_relpath: figures/images/hinh_a_1.png
+  has_image: true
+- figure_id: FIG_A_2
+  slug: a_2
+  tag: A.2
+  title: Minh họa phân chia cấu trúc công-te-nơ thông tin để làm việc đồng thời
+  annex: A
+  anchor: hinh-a_2
+  image_relpath: figures/images/hinh_a_2.png
+  has_image: true
+- figure_id: FIG_A_3
+  slug: a_3
+  tag: A.3
+  title: Minh họa phân chia cấu trúc công-te-nơ thông tin để bảo mật thông tin
+  annex: A
+  anchor: hinh-a_3
+  image_relpath: figures/images/hinh_a_3.png
+  has_image: true

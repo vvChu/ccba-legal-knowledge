@@ -1,0 +1,16 @@
+﻿Mã,Mô tả,Phiên bản
+**Tiến trình công việc**,,
+SO,Trạng thái khởi tạo ban đầu,Phiên bản sơ bộ và các phiên bản sửa đổi
+**Chia sẻ<br>(không trong hợp đồng)**,,
+S1,Phục vụ cho phối hợp,Phiên bản sơ bộ
+S2,Phục vụ cho phổ biến thông tin,Phiên bản sơ bộ
+S3,Phục vụ cho xem xét và góp ý,Phiên bản sơ bộ
+S4,Phục vụ cho phê duyệt giai đoạn,Phiên bản sơ bộ
+S5,Thu hồi,Không có giá trị được gắn kèm
+S6<br>(có thể không áp dụng),Phù hợp để ủy quyền PIM,Phiên bản sơ bộ
+S7<br>(có thể không áp dụng),Phù hợp để ủy quyền AIM,Phiên bản sơ bộ
+**Đã xuất bản (trong hợp đồng)**,,
+"A1, An, v.v.",Được ủy quyền và chấp thuận,Phiên bản của hợp đồng
+"B1, Bn, v.v.",Chấp thuận một phần (Với các khuyến cáo),Phiên bản sơ bộ
+Đã xuất bản<br>(chấp thuận mô hình thông tin tài sản - AIM),,
+CR,Hồ sơ hoàn công,Phiên bản của hợp đồng

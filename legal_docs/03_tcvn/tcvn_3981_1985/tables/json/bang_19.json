@@ -1,0 +1,28 @@
+{
+  "table_id": "bang_19",
+  "table_number": "19",
+  "table_title": "Bảng 19",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Thành phần và số người",
+    "Số lượng thiết kế (chỗ) — Tắm",
+    "Số lượng thiết kế (chỗ) — Rửa",
+    "Số lượng thiết kế (chỗ) — Giặt",
+    "Số lượng thiết kế (chỗ) — Xí",
+    "Số lượng thiết kế (chỗ) — Tiểu",
+    "Số lượng thiết kế (chỗ) — Vệ sinh phụ nữ"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Thành phần và số người": "1 – Nam: 16 học sinh\n2 – Nữ : 16 học sinh\n: 25 học sinh",
+      "Số lượng thiết kế (chỗ) — Tắm": "1\n1",
+      "Số lượng thiết kế (chỗ) — Rửa": "1\n1",
+      "Số lượng thiết kế (chỗ) — Giặt": "1\n1",
+      "Số lượng thiết kế (chỗ) — Xí": "1\n1",
+      "Số lượng thiết kế (chỗ) — Tiểu": "1\n1",
+      "Số lượng thiết kế (chỗ) — Vệ sinh phụ nữ": "1\n1"
+    }
+  ],
+  "footnotes": []
+}

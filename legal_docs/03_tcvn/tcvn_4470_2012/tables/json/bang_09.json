@@ -1,0 +1,122 @@
+{
+  "table_id": "bang_09",
+  "table_number": "9",
+  "table_title": "Bảng 9 - Diện tích tối thiểu các phòng trong bộ phận đỡ đẻ của khoa Phụ sản",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại phòng",
+    "Diện tích tối thiểu",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "**A. Khu vực sạch**",
+      "Diện tích tối thiểu": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "1. Phòng khám thai, $m^{2}$/bàn",
+      "Diện tích tối thiểu": "từ 15 đến 18",
+      "Ghi chú": "Mỗi bàn thêm tính từ 8 $m^{2}$/bàn đến 9 $m^{2}$/bàn nhưng không quá 03 bàn/phòng"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "2. Mỗi phòng chờ đẻ (02 giường), $m^{2}$/phòng",
+      "Diện tích tối thiểu": "12",
+      "Ghi chú": "Nếu phòng có nhiều hơn 02 giường, mỗi giường tính thêm từ 4 $m^{2}$/giường đến 6 $m^{2}$/giường nhưng không quá 04 giường/phòng"
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "3. Phòng vệ sinh trước khi đẻ, $m^{2}$/phòng",
+      "Diện tích tối thiểu": "từ 6 đến 9",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 5,
+      "Loại phòng": "4. Phòng nghỉ sau nạo thai, $m^{2}$/phòng",
+      "Diện tích tối thiểu": "12",
+      "Ghi chú": "từ 02 giường đến 03 giường"
+    },
+    {
+      "_row_id": 6,
+      "Loại phòng": "**B. Khu vực đẻ**",
+      "Diện tích tối thiểu": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 7,
+      "Loại phòng": "Khu vô khuẩn",
+      "Diện tích tối thiểu": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 8,
+      "Loại phòng": "1. Phòng rửa tay, thay áo, $m^{2}$/phòng",
+      "Diện tích tối thiểu": "9",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 9,
+      "Loại phòng": "2. Đỡ đẻ vô khuẩn (01 bàn đến 02 bàn), $m^{2}$/phòng",
+      "Diện tích tối thiểu": "từ 15 đến 24",
+      "Ghi chú": "Không quá 02 bàn/phòng cho sản phụ cách ly"
+    },
+    {
+      "_row_id": 10,
+      "Loại phòng": "3. Đỡ đẻ bệnh lý (01 bàn), $m^{2}$/phòng",
+      "Diện tích tối thiểu": "18",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 11,
+      "Loại phòng": "4. Phòng nạo thai, đặt vòng, $m^{2}$/phòng",
+      "Diện tích tối thiểu": "từ 15 đến 18",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 12,
+      "Loại phòng": "Khu hữu khuẩn",
+      "Diện tích tối thiểu": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 13,
+      "Loại phòng": "1. Phòng vệ sinh trước khi đẻ, $m^{2}$/phòng",
+      "Diện tích tối thiểu": "từ 6 đến 9",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 14,
+      "Loại phòng": "2. Đỡ đẻ hữu khuẩn (01 bàn), $m^{2}$/bàn",
+      "Diện tích tối thiểu": "từ 15 đến 18",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 15,
+      "Loại phòng": "Khu vực hậu cần",
+      "Diện tích tối thiểu": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 16,
+      "Loại phòng": "1. Kho sạch, $m^{2}$/phòng",
+      "Diện tích tối thiểu": "từ 18 đến 21",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 17,
+      "Loại phòng": "2. Rửa hấp, sấy, chuẩn bị dụng cụ, $m^{2}$/phòng",
+      "Diện tích tối thiểu": "9",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 18,
+      "Loại phòng": "3. Chỗ thu hồi đồ bẩn, $m^{2}$/chỗ",
+      "Diện tích tối thiểu": "từ 12 đến 15",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}

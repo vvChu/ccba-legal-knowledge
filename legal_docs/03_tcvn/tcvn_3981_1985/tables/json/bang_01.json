@@ -1,0 +1,18 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại trường đại học",
+    "Số lượng học sinh"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại trường đại học": "Tổng hợp\nBách khoa và kĩ thuật\nNông nghiệp\nSư phạm\nKinh tế\nY, dược\nVăn hóa, nghệ thuật\nThể dục, thể thao",
+      "Số lượng học sinh": "Từ 3000 đến 6000 học sinh\nTừ 4000 đến 6000 học sinh\nTừ 2000 đến 5000 học sinh\nTừ 3000 đến 5000 học sinh\nTừ 2000 đến 4000 học sinh\nTừ 1500 đến 4000 học sinh\nTừ 500 đến 1500 học sinh\nTừ 500 đến 1500 học sinh"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,319 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 39,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Quy mô tối thiểu và chỉ tiêu diện tích đất xây dựng bệnh viện",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_01.csv",
+      "json_file": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_02",
+      "table_number": "2",
+      "title": "Bảng 2 - Khoảng cách ly vệ sinh, an toàn giữa nhà và công trình đối với nhà bệnh nhân",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_02.csv",
+      "json_file": "tables/json/bang_02.json"
+    },
+    {
+      "table_id": "bang_03",
+      "table_number": "3",
+      "title": "Bảng 3 - Số lượng chỗ khám bệnh tối thiểu",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_03.csv",
+      "json_file": "tables/json/bang_03.json"
+    },
+    {
+      "table_id": "bang_04",
+      "table_number": "4",
+      "title": "Bảng 4 - Diện tích các phòng trong Khoa Khám bệnh đa khoa và điều trị ngoại trú",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_04.csv",
+      "json_file": "tables/json/bang_04.json"
+    },
+    {
+      "table_id": "bang_05",
+      "table_number": "5",
+      "title": "Bảng 5 - Cơ cấu tỷ lệ giường lưu tối thiểu của các chuyên khoa",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_05.csv",
+      "json_file": "tables/json/bang_05.json"
+    },
+    {
+      "table_id": "bang_06",
+      "table_number": "6",
+      "title": "Bảng 6 - Diện tích phòng bệnh nhân trong Khu Điều trị nội trú",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_06.csv",
+      "json_file": "tables/json/bang_06.json"
+    },
+    {
+      "table_id": "bang_07",
+      "table_number": "7",
+      "title": "Bảng 7 - Diện tích các phòng phục vụ sinh hoạt của bệnh nhân Khu Điều trị nội trú",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_07.csv",
+      "json_file": "tables/json/bang_07.json"
+    },
+    {
+      "table_id": "bang_08",
+      "table_number": "8",
+      "title": "Bảng 8 - Diện tích các phòng trong đơn nguyên điều trị nội trú",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_08.csv",
+      "json_file": "tables/json/bang_08.json"
+    },
+    {
+      "table_id": "bang_09",
+      "table_number": "9",
+      "title": "Bảng 9 - Diện tích tối thiểu các phòng trong bộ phận đỡ đẻ của khoa Phụ sản",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_09.csv",
+      "json_file": "tables/json/bang_09.json"
+    },
+    {
+      "table_id": "bang_10",
+      "table_number": "10",
+      "title": "Bảng 10 - Diện tích tối thiểu các phòng trong đơn nguyên điều trị phụ khoa",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_10.csv",
+      "json_file": "tables/json/bang_10.json"
+    },
+    {
+      "table_id": "bang_11",
+      "table_number": "11",
+      "title": "Bảng 11 - Diện tích tối thiểu các phòng phục vụ sinh hoạt của khoa Nhi",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_11.csv",
+      "json_file": "tables/json/bang_11.json"
+    },
+    {
+      "table_id": "bang_12",
+      "table_number": "12",
+      "title": "Bảng 12 - Diện tích tối thiểu các phòng dành cho trẻ sơ sinh",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_12.csv",
+      "json_file": "tables/json/bang_12.json"
+    },
+    {
+      "table_id": "bang_13",
+      "table_number": "13",
+      "title": "Bảng 13 - Diện tích các phòng điều trị trong khoa Mắt",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_13.csv",
+      "json_file": "tables/json/bang_13.json"
+    },
+    {
+      "table_id": "bang_14",
+      "table_number": "14",
+      "title": "Bảng 14 - Diện tích tối thiểu các phòng điều trị trong khoa Tai - Mũi - Họng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_14.csv",
+      "json_file": "tables/json/bang_14.json"
+    },
+    {
+      "table_id": "bang_15",
+      "table_number": "15",
+      "title": "Bảng 15 - Diện tích tối thiểu các phòng điều trị trong khoa Răng - Hàm - Mặt",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_15.csv",
+      "json_file": "tables/json/bang_15.json"
+    },
+    {
+      "table_id": "bang_16",
+      "table_number": "16",
+      "title": "Bảng 16 - Diện tích các phòng phục vụ sinh hoạt của khoa Truyền nhiễm",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_16.csv",
+      "json_file": "tables/json/bang_16.json"
+    },
+    {
+      "table_id": "bang_17",
+      "table_number": "17",
+      "title": "Bảng 17 - Diện tích tối thiểu các phòng trong Khoa Cấp cứu",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_17.csv",
+      "json_file": "tables/json/bang_17.json"
+    },
+    {
+      "table_id": "bang_18",
+      "table_number": "18",
+      "title": "Bảng 18 - Diện tích các phòng trong Khoa Hồi sức tích cực - chống độc",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_18.csv",
+      "json_file": "tables/json/bang_18.json"
+    },
+    {
+      "table_id": "bang_19",
+      "table_number": "19",
+      "title": "Bảng 19 - Diện tích các phòng điều trị trong khoa Y học cổ truyền",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_19.csv",
+      "json_file": "tables/json/bang_19.json"
+    },
+    {
+      "table_id": "bang_20",
+      "table_number": "20",
+      "title": "Bảng 20 - Số chỗ điều trị tối thiểu trong khoa Vật lý trị liệu - phục hồi chức năng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_20.csv",
+      "json_file": "tables/json/bang_20.json"
+    },
+    {
+      "table_id": "bang_21",
+      "table_number": "21",
+      "title": "Bảng 21 - Diện tích tối thiểu các phòng trong Khoa vật lý trị liệu - phục hồi chức năng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_21.csv",
+      "json_file": "tables/json/bang_21.json"
+    },
+    {
+      "table_id": "bang_22",
+      "table_number": "22",
+      "title": "Bảng 22 - Diện tích tối thiểu các phòng trong Khoa phẫu thuật - gây mê hồi sức",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_22.csv",
+      "json_file": "tables/json/bang_22.json"
+    },
+    {
+      "table_id": "bang_23",
+      "table_number": "23",
+      "title": "Bảng 23 - Diện tích tối thiểu các phòng trong Khu vực kỹ thuật của khoa Chẩn đoán hình ảnh",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_23.csv",
+      "json_file": "tables/json/bang_23.json"
+    },
+    {
+      "table_id": "bang_24",
+      "table_number": "24",
+      "title": "Bảng 24 - Diện tích tối thiểu của khu vực hành chính, phụ trợ khoa Chẩn đoán hình ảnh",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_24.csv",
+      "json_file": "tables/json/bang_24.json"
+    },
+    {
+      "table_id": "bang_25",
+      "table_number": "25",
+      "title": "Bảng 25 - Diện tích tối thiểu các phòng trong các khoa Xét nghiệm",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_25.csv",
+      "json_file": "tables/json/bang_25.json"
+    },
+    {
+      "table_id": "bang_26",
+      "table_number": "26",
+      "title": "Bảng 26 - Diện tích tối thiểu các phòng trong Ngân hàng máu",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_26.csv",
+      "json_file": "tables/json/bang_26.json"
+    },
+    {
+      "table_id": "bang_27",
+      "table_number": "27",
+      "title": "Bảng 27 - Diện tích tối thiểu các phòng trong khoa Giải phẫu bệnh",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_27.csv",
+      "json_file": "tables/json/bang_27.json"
+    },
+    {
+      "table_id": "bang_28",
+      "table_number": "28",
+      "title": "Bảng 28 - Diện tích tối thiểu các phòng trong khoa Nội soi",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_28.csv",
+      "json_file": "tables/json/bang_28.json"
+    },
+    {
+      "table_id": "bang_29",
+      "table_number": "29",
+      "title": "Bảng 29 - Diện tích tối thiểu các phòng trong khoa Thăm dò chức năng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_29.csv",
+      "json_file": "tables/json/bang_29.json"
+    },
+    {
+      "table_id": "bang_30",
+      "table_number": "30",
+      "title": "Bảng 30 - Diện tích tối thiểu các phòng trong khoa Dược",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_30.csv",
+      "json_file": "tables/json/bang_30.json"
+    },
+    {
+      "table_id": "bang_31",
+      "table_number": "31",
+      "title": "Bảng 31 - Diện tích tối thiểu các phòng trong Khoa dinh dưỡng",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_31.csv",
+      "json_file": "tables/json/bang_31.json"
+    },
+    {
+      "table_id": "bang_32",
+      "table_number": "32",
+      "title": "Bảng 32 - Diện tích thiết kế bộ phận giặt là",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_32.csv",
+      "json_file": "tables/json/bang_32.json"
+    },
+    {
+      "table_id": "bang_33",
+      "table_number": "33",
+      "title": "Bảng 33 - Tiêu chuẩn diện tích tối thiểu theo các chức danh trong khu Hành chính quản trị",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_33.csv",
+      "json_file": "tables/json/bang_33.json"
+    },
+    {
+      "table_id": "bang_34",
+      "table_number": "34",
+      "title": "Bảng 34 - Diện tích tối thiểu của một số phòng chức năng trong bệnh viện",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_34.csv",
+      "json_file": "tables/json/bang_34.json"
+    },
+    {
+      "table_id": "bang_35",
+      "table_number": "35",
+      "title": "Bảng 35 - Diện tích các gian kho và xưởng",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_35.csv",
+      "json_file": "tables/json/bang_35.json"
+    },
+    {
+      "table_id": "bang_36",
+      "table_number": "36",
+      "title": "Bảng 36 - Diện tích tối thiểu các bộ phận trong khu Dịch vụ tổng hợp",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_36.csv",
+      "json_file": "tables/json/bang_36.json"
+    },
+    {
+      "table_id": "bang_37",
+      "table_number": "37",
+      "title": "Bảng 37 - Độ rọi tối thiểu các khu vực trong bệnh viện",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_37.csv",
+      "json_file": "tables/json/bang_37.json"
+    },
+    {
+      "table_id": "bang_38",
+      "table_number": "38",
+      "title": "Bảng 38 - Nhiệt độ, độ ẩm quy định trong Bệnh viện",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_38.csv",
+      "json_file": "tables/json/bang_38.json"
+    },
+    {
+      "table_id": "bang_k_1",
+      "table_number": "K.1",
+      "title": "Bảng K.1 - Hướng mở cửa sổ các gian phòng chủ yếu trong bệnh viện",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_k_1.csv",
+      "json_file": "tables/json/bang_k_1.json"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Chiều rộng thông thủy cầu thang",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại cầu thang",
+    "Chiều rộng tối thiểu một vế thang"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại cầu thang": "1. Cầu thang chính",
+      "Chiều rộng tối thiểu một vế thang": "1,80"
+    },
+    {
+      "_row_id": 2,
+      "Loại cầu thang": "2. Cầu thang phụ",
+      "Chiều rộng tối thiểu một vế thang": "1,20"
+    },
+    {
+      "_row_id": 3,
+      "Loại cầu thang": "3. Cầu thang thoát nạn",
+      "Chiều rộng tối thiểu một vế thang": "1,05"
+    },
+    {
+      "_row_id": 4,
+      "Loại cầu thang": "4. Cầu thang chữa cháy ngoài nhà",
+      "Chiều rộng tối thiểu một vế thang": "0,60"
+    }
+  ],
+  "footnotes": []
+}

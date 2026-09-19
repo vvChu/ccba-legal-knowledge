@@ -1,0 +1,150 @@
+{
+  "table_id": "bang_22",
+  "table_number": "22",
+  "table_title": "Bảng 22 - Diện tích tối thiểu các phòng trong Khoa phẫu thuật - gây mê hồi sức",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Tên khoa, phòng",
+    "Diện tích tối thiểu($m^{2}$/phòng)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên khoa, phòng": "**A. Khu vực vô khuẩn**",
+      "Diện tích tối thiểu($m^{2}$/phòng)": ""
+    },
+    {
+      "_row_id": 2,
+      "Tên khoa, phòng": "1. Mổ tổng hợp",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "36 x 02 phòng"
+    },
+    {
+      "_row_id": 3,
+      "Tên khoa, phòng": "2. Mổ hữu khuẩn",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "36 x 02 phòng"
+    },
+    {
+      "_row_id": 4,
+      "Tên khoa, phòng": "3. Mổ chấn thương",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "36 x 01 phòng"
+    },
+    {
+      "_row_id": 5,
+      "Tên khoa, phòng": "4. Mổ cấp cứu",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "36 x 01 phòng"
+    },
+    {
+      "_row_id": 6,
+      "Tên khoa, phòng": "5. Mổ sản",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "36 x 01 phòng"
+    },
+    {
+      "_row_id": 7,
+      "Tên khoa, phòng": "6. Mổ chuyên khoa khác",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "36 x 02 phòng"
+    },
+    {
+      "_row_id": 8,
+      "Tên khoa, phòng": "7. Rửa tay vô khuẩn",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "tùy yêu cầu sử dụng và cách bố trí các phòng mổ mà tính toán cho phù hợp"
+    },
+    {
+      "_row_id": 9,
+      "Tên khoa, phòng": "8 Hành lang vô khuẩn",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "tùy yêu cầu sử dụng và cách bố trí các phòng mổ mà tính toán cho phù hợp"
+    },
+    {
+      "_row_id": 10,
+      "Tên khoa, phòng": "9. Cung cấp vật tư",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "18"
+    },
+    {
+      "_row_id": 11,
+      "Tên khoa, phòng": "**B. Khu vực sạch**",
+      "Diện tích tối thiểu($m^{2}$/phòng)": ""
+    },
+    {
+      "_row_id": 12,
+      "Tên khoa, phòng": "1. Tiền mê (số phòng bằng 50 % số phòng mổ) $^{*)}$",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "30"
+    },
+    {
+      "_row_id": 13,
+      "Tên khoa, phòng": "2. Hành lang sạch",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "36"
+    },
+    {
+      "_row_id": 14,
+      "Tên khoa, phòng": "3. Phòng nghỉ giữa ca mổ",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "24"
+    },
+    {
+      "_row_id": 15,
+      "Tên khoa, phòng": "4. Phòng ghi hồ sơ mổ",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "12"
+    },
+    {
+      "_row_id": 16,
+      "Tên khoa, phòng": "5. Phòng khử khuẩn",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "24"
+    },
+    {
+      "_row_id": 17,
+      "Tên khoa, phòng": "6. Phòng đồ thải",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "18"
+    },
+    {
+      "_row_id": 18,
+      "Tên khoa, phòng": "7. Kho thiết bị",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "24"
+    },
+    {
+      "_row_id": 19,
+      "Tên khoa, phòng": "**C. Khu phụ trợ**",
+      "Diện tích tối thiểu($m^{2}$/phòng)": ""
+    },
+    {
+      "_row_id": 20,
+      "Tên khoa, phòng": "1. Tiếp nhận bệnh nhân",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "36"
+    },
+    {
+      "_row_id": 21,
+      "Tên khoa, phòng": "2. Hồi tỉnh (số giường tính bằng 50 % số phòng mổ)",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "12 $m^{2}$/giường"
+    },
+    {
+      "_row_id": 22,
+      "Tên khoa, phòng": "3. Hành chính, trực",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 18 đến 24"
+    },
+    {
+      "_row_id": 23,
+      "Tên khoa, phòng": "4. Hội chẩn, đào tạo",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "36"
+    },
+    {
+      "_row_id": 24,
+      "Tên khoa, phòng": "5. Thay quần áo, vệ sinh (Nam/nữ riêng biệt)",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "24 $m^{2}$/khu x 02 khu"
+    },
+    {
+      "_row_id": 25,
+      "Tên khoa, phòng": "6. Phòng trưởng khoa",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "18"
+    },
+    {
+      "_row_id": 26,
+      "Tên khoa, phòng": "7. Phòng bác sỹ",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "18 x 02 phòng"
+    },
+    {
+      "_row_id": 27,
+      "Tên khoa, phòng": "8. Phòng y tá, hộ lý",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "18 x 02 phòng"
+    }
+  ],
+  "footnotes": {
+    "(*)": "**CHÚ THÍCH:** <sup>(*)</sup> Chỉ tiêu diện tích: không nhỏ hơn 9 $m^{2}$/giường, có thể kết hợp với hành lang sạch."
+  }
+}

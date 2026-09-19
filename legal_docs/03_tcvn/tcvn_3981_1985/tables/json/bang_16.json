@@ -1,0 +1,47 @@
+{
+  "table_id": "bang_16",
+  "table_number": "16",
+  "table_title": "Bảng 16",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Các công trình thể thao có mái",
+    "Kích thước, m — Dài",
+    "Kích thước, m — Rộng",
+    "Kích thước, m — Cao",
+    "Số lượng công trình tính theo số học sinh (1000 học sinh) — 1",
+    "Số lượng công trình tính theo số học sinh (1000 học sinh) — 2",
+    "Số lượng công trình tính theo số học sinh (1000 học sinh) — 3",
+    "Số lượng công trình tính theo số học sinh (1000 học sinh) — 4",
+    "Số lượng công trình tính theo số học sinh (1000 học sinh) — 5",
+    "Số lượng công trình tính theo số học sinh (1000 học sinh) — 6"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Các công trình thể thao có mái": "1- Phòng thể thao cho thể dục dụng cụ và các môn thể thao khác",
+      "Kích thước, m — Dài": "36",
+      "Kích thước, m — Rộng": "18",
+      "Kích thước, m — Cao": "8",
+      "Số lượng công trình tính theo số học sinh (1000 học sinh) — 1": "",
+      "Số lượng công trình tính theo số học sinh (1000 học sinh) — 2": "1",
+      "Số lượng công trình tính theo số học sinh (1000 học sinh) — 3": "1",
+      "Số lượng công trình tính theo số học sinh (1000 học sinh) — 4": "1",
+      "Số lượng công trình tính theo số học sinh (1000 học sinh) — 5": "1",
+      "Số lượng công trình tính theo số học sinh (1000 học sinh) — 6": "1"
+    },
+    {
+      "_row_id": 2,
+      "Các công trình thể thao có mái": "2- Phòng thể dục thể thao loại trung bình",
+      "Kích thước, m — Dài": "24",
+      "Kích thước, m — Rộng": "14",
+      "Kích thước, m — Cao": "7",
+      "Số lượng công trình tính theo số học sinh (1000 học sinh) — 1": "1",
+      "Số lượng công trình tính theo số học sinh (1000 học sinh) — 2": "",
+      "Số lượng công trình tính theo số học sinh (1000 học sinh) — 3": "",
+      "Số lượng công trình tính theo số học sinh (1000 học sinh) — 4": "",
+      "Số lượng công trình tính theo số học sinh (1000 học sinh) — 5": "",
+      "Số lượng công trình tính theo số học sinh (1000 học sinh) — 6": "1"
+    }
+  ],
+  "footnotes": []
+}

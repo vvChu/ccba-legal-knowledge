@@ -1,0 +1,92 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Số lượng chỗ khám bệnh tối thiểu",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Chuyên khoa",
+    "Số chỗ khám bệnh tối thiểu(chỗ)",
+    "Tỷ lệ(%)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Chuyên khoa": "1. Nội",
+      "Số chỗ khám bệnh tối thiểu(chỗ)": "12",
+      "Tỷ lệ(%)": "20",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 2,
+      "Chuyên khoa": "2. Ngoại",
+      "Số chỗ khám bệnh tối thiểu(chỗ)": "9",
+      "Tỷ lệ(%)": "15",
+      "Ghi chú": "04 chỗ khám bố trí 01 phòng thủ thuật chữa bệnh"
+    },
+    {
+      "_row_id": 3,
+      "Chuyên khoa": "3. Sản",
+      "Số chỗ khám bệnh tối thiểu(chỗ)": "6",
+      "Tỷ lệ(%)": "12",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 4,
+      "Chuyên khoa": "4. Phụ",
+      "Số chỗ khám bệnh tối thiểu(chỗ)": "3",
+      "Tỷ lệ(%)": "12",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 5,
+      "Chuyên khoa": "5. Nhi",
+      "Số chỗ khám bệnh tối thiểu(chỗ)": "9",
+      "Tỷ lệ(%)": "15",
+      "Ghi chú": "04 chỗ khám bố trí 01 phòng thủ thuật chữa bệnh"
+    },
+    {
+      "_row_id": 6,
+      "Chuyên khoa": "6. Răng Hàm Mặt",
+      "Số chỗ khám bệnh tối thiểu(chỗ)": "4",
+      "Tỷ lệ(%)": "6",
+      "Ghi chú": "Kết hợp khám và chữa"
+    },
+    {
+      "_row_id": 7,
+      "Chuyên khoa": "7. Tai Mũi Họng",
+      "Số chỗ khám bệnh tối thiểu(chỗ)": "4",
+      "Tỷ lệ(%)": "6",
+      "Ghi chú": "Kết hợp khám và chữa"
+    },
+    {
+      "_row_id": 8,
+      "Chuyên khoa": "8. Mắt",
+      "Số chỗ khám bệnh tối thiểu(chỗ)": "4",
+      "Tỷ lệ(%)": "6",
+      "Ghi chú": "03 chỗ khám bố trí 01 phòng thủ thuật chữa bệnh"
+    },
+    {
+      "_row_id": 9,
+      "Chuyên khoa": "9. Truyền nhiễm",
+      "Số chỗ khám bệnh tối thiểu(chỗ)": "5",
+      "Tỷ lệ(%)": "7",
+      "Ghi chú": "Chỗ khám, chữa cách ly"
+    },
+    {
+      "_row_id": 10,
+      "Chuyên khoa": "10. Y học cổ truyền",
+      "Số chỗ khám bệnh tối thiểu(chỗ)": "4",
+      "Tỷ lệ(%)": "6",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 11,
+      "Chuyên khoa": "11. Các chuyên khoa khác",
+      "Số chỗ khám bệnh tối thiểu(chỗ)": "5",
+      "Tỷ lệ(%)": "7",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}

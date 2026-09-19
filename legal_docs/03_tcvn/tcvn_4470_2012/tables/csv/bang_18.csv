@@ -1,0 +1,13 @@
+﻿Tên phòng,Diện tích<br>($m^{2}$/phòng),Ghi chú
+1. Phòng đợi,xem 6.2.6,
+"2. Phòng điều trị tích cực, $m^{2}$/người, không nhỏ hơn,",15,
+3. Phòng làm thủ thuật can thiệp,36,Yêu cầu như phòng mổ
+4. Phòng máy,36,
+"5. Phòng rửa, tiệt trùng",24,
+6. Kho sạch,24,
+7. Kho bẩn,12,
+8. Phòng trưởng khoa,18,
+9. Phòng bác sỹ,24,Đồng thời là phòng trực
+"10. Phòng y tá, hộ lý",24,Đồng thời là phòng trực
+"11. Phòng giao ban, đào tạo",từ 48 đến 54,
+12. Khu vệ sinh thay đồ nhân viên,24,"Không nhỏ hơn 1,0 $m^{2}$/người. Bố trí thành hai khu nam/nữ riêng biệt."

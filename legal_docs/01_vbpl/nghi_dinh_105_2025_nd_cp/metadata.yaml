@@ -10,9 +10,9 @@ status: active
 doc_type: vbpl
 relations:
   guided_by: Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347
-pdf_path: legal_docs/01_vbpl/nghi_dinh_105_2025_nd_cp/sources/nghi_dinh_105_2025_nd_cp.pdf
+pdf_path: legal_docs\01_vbpl\nghi_dinh_105_2025_nd_cp\sources\nghi_dinh_105_2025_nd_cp.pdf
 bundle_path: legal_docs/01_vbpl/nghi_dinh_105_2025_nd_cp/
-pdf_sha256: f4f8993ffe37a93d26f335571793d3369a69737b0ed26504aba486ae38343f6a
+pdf_sha256: 6808c77f7438e0a15d7fc688726be181f476d958cf5f907ebc184afc0dc87262
 pdf_status: verified
 cong_bao_number: Đang cập nhật
 source_assets:
@@ -24,3 +24,5 @@ source_url: https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-1
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/nghi_dinh_105_2025_nd_cp_raw_scan.pdf

@@ -1,0 +1,48 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Khoảng cách ly vệ sinh, an toàn giữa nhà và công trình đối với nhà bệnh nhân",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại nhà / công trình",
+    "Khoảng cách ly vệ sinh nhỏ nhất(m)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại nhà / công trình": "&nbsp;&nbsp;\\- Khu các bệnh truyền nhiễm",
+      "Khoảng cách ly vệ sinh nhỏ nhất(m)": "20",
+      "Ghi chú": "Có dải cây cách ly"
+    },
+    {
+      "_row_id": 2,
+      "Loại nhà / công trình": "&nbsp;&nbsp;\\- Trạm cung cấp hoặc biến thế điện, hệ thống cấp nước, nhà giặt, sân phơi quần áo",
+      "Khoảng cách ly vệ sinh nhỏ nhất(m)": "15",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 3,
+      "Loại nhà / công trình": "&nbsp;&nbsp;\\- Trạm khử trùng tập trung, lò hơi, trung tâm cung cấp nước nóng",
+      "Khoảng cách ly vệ sinh nhỏ nhất(m)": "15",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 4,
+      "Loại nhà / công trình": "&nbsp;&nbsp;\\- Nhà xe, kho, xưởng sửa chữa nhỏ, kho chất cháy",
+      "Khoảng cách ly vệ sinh nhỏ nhất(m)": "20",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 5,
+      "Loại nhà / công trình": "&nbsp;&nbsp;\\- Nhà lưu tử thi, khoa Giải phẫu bệnh, lò đốt chất thải rắn, bãi chứa rác, khu nuôi súc vật, thí nghiệm, trạm xử lí nước thải",
+      "Khoảng cách ly vệ sinh nhỏ nhất(m)": "20",
+      "Ghi chú": "Có dải cây cách ly"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH 1:** Chiều rộng nhỏ nhất của dải đất trồng cây bảo vệ, cách ly qui định như sau: &nbsp;&nbsp;\\- Dải cây bảo vệ quanh khu đất: 5 m;",
+    "fn_2": "**CHÚ THÍCH 2:** &nbsp;&nbsp;\\- Dải cây cách ly: 10 m.",
+    "fn_3": "**CHÚ THÍCH 2:** Ngoài việc đảm bảo khoảng cách ly vệ sinh, an toàn như quy định ở trên còn cần phải bảo đảm khoảng cách phòng cháy, chữa cháy quy định trong tiêu chuẩn TCVN 2622."
+  }
+}

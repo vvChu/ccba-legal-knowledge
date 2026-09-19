@@ -1,0 +1,22 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại trường đại học",
+    "Diện tích đất, tính bằng ha/100 học sinh với các quy mô — Dưới 2000",
+    "Diện tích đất, tính bằng ha/100 học sinh với các quy mô — Từ 2000 đến 4000",
+    "Diện tích đất, tính bằng ha/100 học sinh với các quy mô — Từ 4000 đến 6000"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại trường đại học": "Tổng hợp\nBách khoa và kĩ thuật\nNông nghiệp\nSư phạm\nKinh tế\nY dược\nVăn hoá, nghệ thuật\nThể dục thể thao",
+      "Diện tích đất, tính bằng ha/100 học sinh với các quy mô — Dưới 2000": "4\n4\n4\n3\n20",
+      "Diện tích đất, tính bằng ha/100 học sinh với các quy mô — Từ 2000 đến 4000": "5\n5.5\n5.0\n5.0\n3\n3",
+      "Diện tích đất, tính bằng ha/100 học sinh với các quy mô — Từ 4000 đến 6000": "4.5\n5\n4.5\n2.5"
+    }
+  ],
+  "footnotes": []
+}

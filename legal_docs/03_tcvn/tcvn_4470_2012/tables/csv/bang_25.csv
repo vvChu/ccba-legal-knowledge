@@ -1,0 +1,45 @@
+﻿Tên phòng,Diện tích<br>($m^{2}$/phòng),Ghi chú
+**A. Khoa Vi sinh**,,
+**Khu nghiệp vụ kỹ thuật**,,
+1. Xét nghiệm vi sinh,70,
+2. Phòng vô khuẩn,9,
+"3. Chuẩn bị môi trường, mẫu",32,
+4. Phòng rửa/tiệt trùng,24,
+**Khu phụ trợ**,,
+5. Trực + nhận/trả kết quả,24,Có thể kết hợp với các khoa xét nghiệm khác
+6. Phòng lấy mẫu,18,Liền kề với phòng thủ tục
+7. Kho chung,36,Liền kề với phòng thủ tục
+"8. Phòng hành chính, giao ban đào tạo",36,Có thể kết hợp với các khoa xét nghiệm khác
+9. Phòng trưởng khoa,18,
+"10 Phòng nhân viên, trực khoa",36,
+"11. Khu vệ sinh, thay quần áo nhân viên (nam/nữ)",24 $m^{2}$ x 02 khu,Có thể kết hợp với các khoa xét nghiệm khác
+**B. Khoa Hóa sinh**,,
+Khu nghiệp vụ kỹ thuật,,
+1. Xét nghiệm hóa sinh,80,
+2. Chuẩn bị,36,
+3. Phòng rửa/ tiệt trùng,36,
+4. Kỹ thuật phụ trợ,36,
+5. Kho hóa chất,36,
+Khu phụ trợ,,
+6. Trực + nhận/trả kết quả,36,Có thể kết hợp với các khoa xét nghiệm khác
+7. Phòng lấy mẫu,18,Liền kề với phòng thủ tục
+"8. Phòng hành chính, giao ban đào tạo",36,
+9. Phòng trưởng khoa,18,
+10. Phòng nhân viên,36,
+11. Kho chung,24,
+"12. Khu vệ sinh, thay quần áo nhân viên (nam/nữ)",24 $m^{2}$ x 02 khu,Có thể kết hợp với các khoa xét nghiệm khác
+**C. Khoa Huyết học**,,
+Khu nghiệp vụ kỹ thuật,,
+1. Xét nghiệm huyết học,80,
+2. Phòng lưu trữ máu,36,
+3. Phòng lưu trữ mẫu máu xét nghiệm,36,
+4. Phòng rửa/ tiệt trùng,36,
+5. Kho hóa chất,24,
+**Khu phụ trợ**,,
+"6. Tiếp đón, nhận/ trả kết quả",36,Có thể kết hợp với khoa xét nghiệm khác
+"7. Phòng hành chính, giao ban đào tạo",36,Có thể kết hợp với khoa xét nghiệm khác
+8. Phòng trưởng khoa,18,
+"9. Phòng nhân viên, trực khoa",36,
+10. Kho chung,36,
+"11. Khu vệ sinh, thay quần áo nhân viên (nam/nữ)",24 $m^{2}$ x 02 khu,Có thể kết hợp với khoa xét nghiệm khác
+12. Khu vệ sinh bệnh nhân (nam/nữ),18 $m^{2}$ x 02 khu,

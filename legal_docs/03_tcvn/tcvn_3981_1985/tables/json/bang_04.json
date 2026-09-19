@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_04",
+  "table_number": "4",
+  "table_title": "Bảng 4",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên giảng đường, lớp học",
+    "Diện tích cho 1 chỗ (không được lớn hơn), $m^{2}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên giảng đường, lớp học": "1",
+      "Diện tích cho 1 chỗ (không được lớn hơn), $m^{2}$": "2"
+    },
+    {
+      "_row_id": 2,
+      "Tên giảng đường, lớp học": "1. Giảng đường 500 chỗ\n2. Giảng đường 400 chỗ\n3. Giảng đường 300 - 200 chỗ\n4. Giảng đường 150 chỗ\n5. Giảng đờng 100 chỗ\n6. Lớp học 75 - 50 chỗ\n7. Lớp học 25 chỗ\n8. Phòng học 12 - 25 chỗ với các thiết bị dạy và kiểm tra\n9. Giảng đường nghệ thuật, sân khấu 200 - 300 chỗ",
+      "Diện tích cho 1 chỗ (không được lớn hơn), $m^{2}$": "0,90\n1,00\n1,10\n1,20\n1,30\n1,50\n2,20\n3,00\n1,80"
+    }
+  ],
+  "footnotes": []
+}

@@ -9,7 +9,7 @@ issued_date: '2026-06-30'
 effective_date: '2026-07-01'
 status: active
 pdf_path: legal_docs/01_vbpl/thong_tu_79_2026_tt_btc/sources/thong_tu_79_2026_tt_btc.pdf
-pdf_sha256: ccd9cd294aabe6603bada057d2511902ab883d376a090f43698165db3cb5fcc4
+pdf_sha256: 284e2f3c62a0a42babc4853f69c554fb894e7c8b89c3006d1d80e6947b709daf
 pdf_status: verified
 legal_basis:
 - doc_id: luật_ngân_sách_nhà_nước_số_89_2025_qh15
@@ -54,12 +54,24 @@ bundle_path: legal_docs/01_vbpl/thong_tu_79_2026_tt_btc/
 cong_bao_number: Đang cập nhật
 source_assets:
   pdf:
-    sha256: ccd9cd294aabe6603bada057d2511902ab883d376a090f43698165db3cb5fcc4
+    sha256: 284e2f3c62a0a42babc4853f69c554fb894e7c8b89c3006d1d80e6947b709daf
     vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_79_2026_tt_btc/thong_tu_79_2026_tt_btc.pdf
     status: verified
+    origin: docx_vector_rendered
+  docx:
+    sha256: 5476b800d1d32cba5137c97271da0f2297baabbc5106aecdd7e79e02e4bc924a
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_79_2026_tt_btc/thong_tu_79_2026_tt_btc.docx
+    status: verified
+  raw_scan:
+    sha256: ccd9cd294aabe6603bada057d2511902ab883d376a090f43698165db3cb5fcc4
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_79_2026_tt_btc/thong_tu_79_2026_tt_btc_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 source_url: https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-79-2026-TT-BTC-thu-chi-chu-dau-tu-ban-qlda-713348.aspx
 relations:
   guided_by: nghi_dinh_193_2026_nd_cp
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/thong_tu_79_2026_tt_btc_raw_scan.pdf

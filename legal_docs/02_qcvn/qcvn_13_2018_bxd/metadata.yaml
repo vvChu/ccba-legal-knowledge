@@ -10,7 +10,7 @@ bundle_path: legal_docs/02_qcvn/qcvn_13_2018_bxd/
 source_url: https://thuvienphapluat.vn/TCVN/Xay-dung/QCVN-13-2018-BXD-ve-Gara-o-to-917827.aspx
 sha256: f9e98eecc6c9f2fc79815c622e2756a56eab36104a4ece97355d8d47befbf54e
 pdf_path: legal_docs/02_qcvn/qcvn_13_2018_bxd/sources/qcvn_13_2018_bxd.pdf
-pdf_sha256: 7ba60f4ae39d8b2bbad9858171682d1061f1e0e4f08b15dc4dd89cd30089903f
+pdf_sha256: 6b5a5a7d9f05cba125ab025062c90a1bac109c83543ce25ab2d41f0eaedd21ec
 cong_bao_number: 12/2018/TT-BXD
 pdf_status: verified
 source_file: legal_docs/02_qcvn/qcvn_13_2018_bxd/sources/qcvn_13_2018_bxd.docx
@@ -19,14 +19,22 @@ source_assets:
   docx:
     sha256: f9e98eecc6c9f2fc79815c622e2756a56eab36104a4ece97355d8d47befbf54e
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_13_2018_bxd/qcvn_13_2018_bxd.docx
-    status: synced
+    status: verified
   pdf:
-    sha256: 7ba60f4ae39d8b2bbad9858171682d1061f1e0e4f08b15dc4dd89cd30089903f
+    sha256: 6b5a5a7d9f05cba125ab025062c90a1bac109c83543ce25ab2d41f0eaedd21ec
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_13_2018_bxd/qcvn_13_2018_bxd.pdf
     status: verified
+    origin: docx_vector_rendered
+  raw_scan:
+    sha256: 7ba60f4ae39d8b2bbad9858171682d1061f1e0e4f08b15dc4dd89cd30089903f
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_13_2018_bxd/qcvn_13_2018_bxd_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 relations:
   replaces: QCVN-08-2009-BXD
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-09-06T10:15:00.000000+00:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/qcvn_13_2018_bxd_raw_scan.pdf

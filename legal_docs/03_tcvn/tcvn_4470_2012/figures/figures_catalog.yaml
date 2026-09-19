@@ -1,0 +1,277 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 4470 2012
+total_figures: 34
+figures:
+- figure_id: FIG_A_1
+  slug: a_1
+  tag: A.1
+  title: Sơ đồ phân khu chức năng Bệnh viện đa khoa
+  annex: A
+  anchor: hinh-a_1
+  image_relpath: figures/images/hinh_a_1.png
+  has_image: true
+- figure_id: FIG_B_1
+  slug: b_1
+  tag: B.1
+  title: Sơ đồ dây chuyền Khoa Khám bệnh đa khoa và điều trị ngoại trú
+  annex: B
+  anchor: hinh-b_1
+  image_relpath: figures/images/hinh_b_1.png
+  has_image: true
+- figure_id: FIG_B_2
+  slug: b_2
+  tag: B.2
+  title: Sơ đồ dây chuyền Khám chữa bệnh nội khoa
+  annex: B
+  anchor: hinh-b_2
+  image_relpath: figures/images/hinh_b_2.png
+  has_image: true
+- figure_id: FIG_B_3
+  slug: b_3
+  tag: B.3
+  title: Sơ đồ dây chuyền Khám chữa bệnh ngoại khoa
+  annex: B
+  anchor: hinh-b_3
+  image_relpath: figures/images/hinh_b_3.png
+  has_image: true
+- figure_id: FIG_B_4
+  slug: b_4
+  tag: B.4
+  title: Sơ đồ dây chuyền Khoa Mắt
+  annex: B
+  anchor: hinh-b_4
+  image_relpath: figures/images/hinh_b_4.png
+  has_image: true
+- figure_id: FIG_B_5
+  slug: b_5
+  tag: B.5
+  title: Sơ đồ dây chuyền Khoa Tai Mũi Họng
+  annex: B
+  anchor: hinh-b_5
+  image_relpath: figures/images/hinh_b_5.png
+  has_image: true
+- figure_id: FIG_B_6
+  slug: b_6
+  tag: B.6
+  title: Sơ đồ dây chuyền Khoa Răng Hàm Mặt
+  annex: B
+  anchor: hinh-b_6
+  image_relpath: figures/images/hinh_b_6.png
+  has_image: true
+- figure_id: FIG_B_7
+  slug: b_7
+  tag: B.7
+  title: Sơ đồ dây chuyền hoạt động cấp cứu
+  annex: B
+  anchor: hinh-b_7
+  image_relpath: figures/images/hinh_b_7.png
+  has_image: true
+- figure_id: FIG_B_8
+  slug: b_8
+  tag: B.8
+  title: Sơ đồ dây chuyền công năng khoa Y học cổ truyền
+  annex: B
+  anchor: hinh-b_8
+  image_relpath: figures/images/hinh_b_8.png
+  has_image: true
+- figure_id: FIG_B_9
+  slug: b_9
+  tag: B.9
+  title: Sơ đồ dây chuyền Khoa Vật lý trị liệu - phục hồi chức năng
+  annex: B
+  anchor: hinh-b_9
+  image_relpath: figures/images/hinh_b_9.png
+  has_image: true
+- figure_id: FIG_C_1
+  slug: c_1
+  tag: C.1
+  title: Sơ đồ dây chuyền khu Điều trị nội trú
+  annex: C
+  anchor: hinh-c_1
+  image_relpath: figures/images/hinh_c_1.png
+  has_image: true
+- figure_id: FIG_C_2
+  slug: c_2
+  tag: C.2
+  title: Sơ đồ dây chuyền khu vực điều trị nội trú Khoa Phụ sản
+  annex: C
+  anchor: hinh-c_2
+  image_relpath: figures/images/hinh_c_2.png
+  has_image: true
+- figure_id: FIG_D_1
+  slug: d_1
+  tag: D.1
+  title: Sơ đồ dây chuyền khoa Phẫu thuật - gây mê hồi sức
+  annex: D
+  anchor: hinh-d_1
+  image_relpath: figures/images/hinh_d_1.png
+  has_image: true
+- figure_id: FIG_D_2
+  slug: d_2
+  tag: D.2
+  title: Phòng mổ
+  annex: D
+  anchor: hinh-d_2
+  image_relpath: figures/images/hinh_d_2.png
+  has_image: true
+- figure_id: FIG_D_3
+  slug: d_3
+  tag: D.3
+  title: Hệ thống khí sạch phòng mổ
+  annex: D
+  anchor: hinh-d_3
+  image_relpath: figures/images/hinh_d_3.png
+  has_image: true
+- figure_id: FIG_E_1
+  slug: e_1
+  tag: E.1
+  title: Sơ đồ dây chuyền khoa Chẩn đoán hình ảnh
+  annex: E
+  anchor: hinh-e_1
+  image_relpath: figures/images/hinh_e_1.png
+  has_image: true
+- figure_id: FIG_E_2
+  slug: e_2
+  tag: E.2
+  title: Phòng CT-SCANNER
+  annex: E
+  anchor: hinh-e_2
+  image_relpath: figures/images/hinh_e_2.png
+  has_image: true
+- figure_id: FIG_E_3
+  slug: e_3
+  tag: E.3
+  title: Phòng X- quang tổng hợp
+  annex: E
+  anchor: hinh-e_3
+  image_relpath: figures/images/hinh_e_3.png
+  has_image: true
+- figure_id: FIG_E_4
+  slug: e_4
+  tag: E.4
+  title: Phòng X- quang can thiệp
+  annex: E
+  anchor: hinh-e_4
+  image_relpath: figures/images/hinh_e_4.png
+  has_image: true
+- figure_id: FIG_E_5
+  slug: e_5
+  tag: E.5
+  title: Phòng MRI
+  annex: E
+  anchor: hinh-e_5
+  image_relpath: figures/images/hinh_e_5.png
+  has_image: true
+- figure_id: FIG_E_6
+  slug: e_6
+  tag: E.6
+  title: Phòng tối, phòng phân loại
+  annex: E
+  anchor: hinh-e_6
+  image_relpath: figures/images/hinh_e_6.png
+  has_image: true
+- figure_id: FIG_G_1
+  slug: g_1
+  tag: G.1
+  title: Sơ đồ dây chuyền công năng khoa Xét nghiệm
+  annex: G
+  anchor: hinh-g_1
+  image_relpath: figures/images/hinh_g_1.png
+  has_image: true
+- figure_id: FIG_G_2
+  slug: g_2
+  tag: G.2
+  title: Sơ đồ dây chuyền khoa Vi sinh
+  annex: G
+  anchor: hinh-g_2
+  image_relpath: figures/images/hinh_g_2.png
+  has_image: true
+- figure_id: FIG_G_3
+  slug: g_3
+  tag: G.3
+  title: Sơ đồ dây chuyền khoa Hóa Sinh
+  annex: G
+  anchor: hinh-g_3
+  image_relpath: figures/images/hinh_g_3.png
+  has_image: true
+- figure_id: FIG_G_4
+  slug: g_4
+  tag: G.4
+  title: Sơ đồ dây chuyền khoa Huyết học
+  annex: G
+  anchor: hinh-g_4
+  image_relpath: figures/images/hinh_g_4.png
+  has_image: true
+- figure_id: FIG_G_5
+  slug: g_5
+  tag: G.5
+  title: Sơ đồ dây chuyền khoa Truyền máu
+  annex: G
+  anchor: hinh-g_5
+  image_relpath: figures/images/hinh_g_5.png
+  has_image: true
+- figure_id: FIG_G_6
+  slug: g_6
+  tag: G.6
+  title: Sơ đồ dây chuyền khoa Lọc máu
+  annex: G
+  anchor: hinh-g_6
+  image_relpath: figures/images/hinh_g_6.png
+  has_image: true
+- figure_id: FIG_G_7
+  slug: g_7
+  tag: G.7
+  title: Sơ đồ dây chuyền khoa Giải phẫu bệnh
+  annex: G
+  anchor: hinh-g_7
+  image_relpath: figures/images/hinh_g_7.png
+  has_image: true
+- figure_id: FIG_H_1
+  slug: h_1
+  tag: H.1
+  title: Sơ đồ dây chuyền khoa Nội soi
+  annex: H
+  anchor: hinh-h_1
+  image_relpath: figures/images/hinh_h_1.png
+  has_image: true
+- figure_id: FIG_H_2
+  slug: h_2
+  tag: H.2
+  title: Sơ đồ dây chuyền công năng khoa Thăm dò chức năng
+  annex: H
+  anchor: hinh-h_2
+  image_relpath: figures/images/hinh_h_2.png
+  has_image: true
+- figure_id: FIG_H_3
+  slug: h_3
+  tag: H.3
+  title: Sơ đồ phân khu chức năng khoa Dược
+  annex: H
+  anchor: hinh-h_3
+  image_relpath: figures/images/hinh_h_3.png
+  has_image: true
+- figure_id: FIG_I_1
+  slug: i_1
+  tag: I.1
+  title: Sơ đồ khoa Dinh dưỡng
+  annex: I
+  anchor: hinh-i_1
+  image_relpath: figures/images/hinh_i_1.png
+  has_image: true
+- figure_id: FIG_I_2
+  slug: i_2
+  tag: I.2
+  title: Sơ đồ dây chuyền khoa Dinh dưỡng
+  annex: I
+  anchor: hinh-i_2
+  image_relpath: figures/images/hinh_i_2.png
+  has_image: true
+- figure_id: FIG_I_3
+  slug: i_3
+  tag: I.3
+  title: Sơ đồ dây chuyền bộ phận giặt là khoa Quản lý nhiễm khuẩn
+  annex: I
+  anchor: hinh-i_3
+  image_relpath: figures/images/hinh_i_3.png
+  has_image: true
