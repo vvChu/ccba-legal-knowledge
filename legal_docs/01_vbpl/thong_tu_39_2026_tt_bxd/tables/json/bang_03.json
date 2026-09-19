@@ -1,0 +1,620 @@
+{
+  "table_id": "bang_03",
+  "title": "Bảng 03",
+  "rows_count": 122,
+  "columns_count": 4,
+  "headers": [
+    "STTSTTSTT",
+    "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn",
+    "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn",
+    "Ghi chúGhi chúGhi chú"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "III",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Thẩm định nhiệm vụ quy hoạch, điều chỉnh nhiệm vụ quy hoạch đô thị và nông thôn (đối với các quy hoạch có yêu cầu phải lập nhiệm vụ)Thẩm định nhiệm vụ quy hoạch, Thẩm định nhiệm vụ quy hoạch, điềuđiều chỉnh nhiệm vụ quy hoạch đô thị và nông thôn (đối với các quy hoạch có yêu cầu phải lập nhiệm vụ) chỉnh nhiệm vụ quy hoạch đô thị và nông thôn (đối với các quy hoạch có yêu cầu phải lập nhiệm vụ)",
+      "Ghi chúGhi chúGhi chú": "- Kết quả giải quyết thủ tục do Cơ quan thẩm định nhiệm vụ quy hoạch, điều chỉnh nhiệm vụ quy hoạch thực hiện, ban hành, chuẩn hóa dữ liệu vào Hệ thống thông tin về hoạt động xây dựng.- Kết quả giải quyết thủ tục do Cơ quan thẩm định nhiệm vụ quy- Kết quả giải quyết thủ tục do Cơ quan thẩm định nhiệm vụ quy  hoạch,hoạch,  điềuđiều  chỉnhchỉnh  nhiệm vụnhiệm vụ  quyquy  hoạchhoạch  thựcthực  hiện,hiện,  ban hành,ban hành,  chuẩnchuẩn  hhóaóa  dữdữ  liệuliệu  vào Hệvào Hệ  thốngthống  thôngthông  tintin  vềvề  hoạt động xây dựng.hoạt động xây dựng.- Kết quả thủ tục do cơ quan lập quy hoạch thực hiện, cập nhật vào Hệ thống thông tin về hoạt động xây dựng để tạo lập Cơ sở dữ liệu chuyên ngành- Kết quả thủ tục do cơ- Kết quả thủ tục do cơ  quan lậpquan lập  quyquy  hoạchhoạch  thựcthực  hiện,hiện,  cập nhật vào Hệ thống thông tin về hoạt động xây dựng để tạo lập Cơ sở dữ liệu chuyên ngànhcập nhật vào Hệ thống thông tin về hoạt động xây dựng để tạo lập Cơ sở dữ liệu chuyên ngành"
+    },
+    {
+      "STTSTTSTT": "111",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Dữ liệu chungDữ liệu chungDữ liệu chung",
+      "Ghi chúGhi chúGhi chú": "Dữ liệu chungDữ liệu chungDữ liệu chung"
+    },
+    {
+      "STTSTTSTT": "1.11.11.1",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  đểđể  khởikhởi  tạotạo  mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchmã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "1.21.21.2",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn tỉnh/thành phố, xã/phường hoặc nhập thông tin địa điểm quy hoạch đối với quy hoạch liên phường, liên xã][Chọn tỉnh[Chọn tỉnh//thành phốthành phố, xã, xã//phường hoặc nhập thông tin địa phường hoặc nhập thông tin địa điểmđiểm quy hoạch đối với quy quy hoạch đối với quy  hoạch liên phường, liên xã]hoạch liên phường, liên xã]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  đểđể  khởikhởi  tạotạo  mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchmã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "1.31.31.3",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn cấp độ quy hoạch][Chọn cấp độ quy hoạch][Chọn cấp độ quy hoạch]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  đểđể  khởikhởi  tạotạo  mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchmã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "1.41.41.4",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn loại quy hoạch][Chọn loại quy hoạch][Chọn loại quy hoạch]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  đểđể  khởikhởi  tạotạo  mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchmã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "1.51.51.5",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn loại lập mới hoặc điều chỉnh cục bộ hoặc điều chỉnh tổng thể][Chọn loại lập mới hoặc [Chọn loại lập mới hoặc điềuđiều chỉnh cục bộ hoặc  chỉnh cục bộ hoặc điềuđiều chỉnh tổng thể] chỉnh tổng thể]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  đểđể  khởikhởi  tạotạo  mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchmã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "1.61.61.6",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu (theo hecta)][Nhập dữ liệu (theo hecta)[Nhập dữ liệu (theo hecta)]]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  đểđể  khởikhởi  tạotạo  mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchmã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "1.71.71.7",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  đểđể  khởikhởi  tạotạo  mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchmã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "222",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Dữ liệu chi tiếtDữ liệu chi tiếtDữ liệu chi tiết",
+      "Ghi chúGhi chúGhi chú": "Dữ liệu chi tiếtDữ liệu chi tiếtDữ liệu chi tiết"
+    },
+    {
+      "STTSTTSTT": "2.12.12.1",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)][Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)][Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  thẩmthẩm  định nhiệm vụ quy hoạchđịnh nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "2.22.22.2",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  thẩmthẩm  định nhiệm vụ quy hoạchđịnh nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "2.32.32.3",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  thẩmthẩm  định nhiệm vụ quy hoạchđịnh nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "2.42.42.4",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  thẩmthẩm  định nhiệm vụ quy hoạchđịnh nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "2.52.52.5",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  thẩmthẩm  định nhiệm vụ quy hoạchđịnh nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "2.62.62.6",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Đính kèm file được ký số hoặc Chứng thực bản sao điện tử từ bản chính][Đính kèm file được ký số hoặc Chứng thực bản sao điện tử từ bản[Đính kèm file được ký số hoặc Chứng thực bản sao điện tử từ bản  chính]chính]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  thẩmthẩm  định nhiệm vụ quy hoạchđịnh nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "2.72.72.7",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập mã định danh nhiệm vụ quy hoạch, quy hoạch có liên quan][Nhập mã định danh nhiệm vụ quy hoạch,[Nhập mã định danh nhiệm vụ quy hoạch,  quy hoạch có liên quan]quy hoạch có liên quan]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  thẩmthẩm  định nhiệm vụ quy hoạchđịnh nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "2.82.82.8",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  thẩmthẩm  định nhiệm vụ quy hoạchđịnh nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "2.92.92.9",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  thẩmthẩm  định nhiệm vụ quy hoạchđịnh nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "2.102.102.10",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  thẩmthẩm  định nhiệm vụ quy hoạchđịnh nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "2.112.112.11",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Hồ sơ thẩm định nhiệm vụ quy hoạch, điều chỉnh nhiệm vụ quy hoạchHồ sơ thẩm định nhiệm vụ quy hoạch, Hồ sơ thẩm định nhiệm vụ quy hoạch, điềuđiều chỉnh nhiệm vụ quy hoạch chỉnh nhiệm vụ quy hoạch",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "aaa",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[các tệp tin (file) bản vẽ và văn bản được in ấn thành một phần của hồ sơ bản giấy không bao gồm các văn bản, tài liệu liên quan theo quy định của pháp luật về quy hoạch đô thị và nông thôn][các tệp tin (file) bản vẽ và văn bản được in ấn thành một [các tệp tin (file) bản vẽ và văn bản được in ấn thành một phầnphần của hồ sơ bản giấy không bao gồm các văn bản, tài liệu liên quan theo quy định của pháp  của hồ sơ bản giấy không bao gồm các văn bản, tài liệu liên quan theo quy định của pháp luậtluật về quy hoạch đô thị và nông thôn] về quy hoạch đô thị và nông thôn]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  thẩmthẩm  định nhiệm vụ quy hoạchđịnh nhiệm vụ quy hoạch"
+    },
+    {
+      "STTSTTSTT": "bbb",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Các tệp tin (file) được số hóa, quét (scan) từ hồ sơ bằng bản giấy hoặc chứng thực điện tử theo quy định của pháp luật về quy hoạch đô thị và nông thôn][Các tệp tin (file) được số hóa, quét (scan) từ hồ sơ bằng bản giấy[Các tệp tin (file) được số hóa, quét (scan) từ hồ sơ bằng bản giấy  hoặc chứng thực điện tử theo quy định của pháp hoặc chứng thực điện tử theo quy định của pháp luậtluật về quy hoạch đô thị và nông thôn] về quy hoạch đô thị và nông thôn]",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "ccc",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Các tệp tin (file) được chuyển đổi thành dữ liệu địa lý từ cơ sở dữ liệu gốc theo quy định của pháp luật về quy hoạch đô thị và nông thôn][Các tệp tin (file) được chuyển đổi thành dữ liệu địa lý từ cơ sở dữ liệu gốc theo quy định của pháp [Các tệp tin (file) được chuyển đổi thành dữ liệu địa lý từ cơ sở dữ liệu gốc theo quy định của pháp luậtluật về quy hoạch đô thị và nông thôn] về quy hoạch đô thị và nông thôn]",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "333",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Dữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tục",
+      "Ghi chúGhi chúGhi chú": "Dữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tục"
+    },
+    {
+      "STTSTTSTT": "3.13.13.1",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập số:.., ngày .... tháng .... năm...., cơ quan ban hành văn bản][Nhập[Nhập  số:..,số:..,  ngàyngày  .... tháng.... tháng  ........  năm....,năm....,  cơ quan ban hành văn bản]cơ quan ban hành văn bản][Đính kèm file được ký số hoặc được chứng thực bản sao điện tử từ bản chính][Đính[Đính  kèmkèm  filefile  đượcđược  ký sốký số  hoặchoặc  đượcđược  chứng thựcchứng thực  bảnbản  sao điệnsao điện  tửtử  từ bản chính]từ bản chính]",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "3.23.23.2",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức thẩm định nhiệm vụ quy hoạch có trách nhiệm, phối hợp với cơ quan tổ chức lập nhiệm vụ quy hoạch để cập nhật hồ sơ quy hoạch đã được thẩm định vào Cơ sở dữ liệu quốc gia về hoạt động xây dựngCơCơ  quanquan  tổtổ  chứcchức  thẩmthẩm  định nhiệm vụ quy hoạch có trách nhiệm,định nhiệm vụ quy hoạch có trách nhiệm,  phốiphối  hợphợp  vớivới  cơ quan tổcơ quan tổ  chứcchức  lậplập  nhiệmnhiệm  vụvụ  quy hoạchquy hoạch  đểđể  cậpcập  nhậtnhật  hồhồ  sơsơ  quy hoạch đã được thẩm định vào Cơ sở dữ liệu quốc gia về hoạt động xây dựngquy hoạch đã được thẩm định vào Cơ sở dữ liệu quốc gia về hoạt động xây dựng"
+    },
+    {
+      "STTSTTSTT": "IIIIII",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Thẩm định quy hoạch, điều chỉnh quy hoạch đô thị và nông thônThẩm định quy hoạch, Thẩm định quy hoạch, điềuđiều chỉnh quy hoạch đô thị và nông thôn chỉnh quy hoạch đô thị và nông thôn",
+      "Ghi chúGhi chúGhi chú": "- Kết quả giải quyết thủ tục do Cơ quan thẩm định quy hoạch, điều chỉnh quy hoạch thực hiện, ban hành, chuẩn hóa dữ liệu vào Hệ thống thông tin về hoạt động xây dựng.- Kết quả giải quyết thủ tục do Cơ quan thẩm định quy hoạch, - Kết quả giải quyết thủ tục do Cơ quan thẩm định quy hoạch, điềuđiều  chỉnhchỉnh  quyquy  hoạchhoạch  thực hiện, ban hành, chuẩn hóa dữ liệu vào Hệ thống thông tin về hoạt động xây dựng.thực hiện, ban hành, chuẩn hóa dữ liệu vào Hệ thống thông tin về hoạt động xây dựng.- Kết quả thủ tục do cơ quan lập quy hoạch thực hiện, cập nhật vào Hệ thống thông tin về hoạt động xây dựng để tạo lập Cơ sở dữ liệu chuyên ngành- Kết quả thủ tục do cơ- Kết quả thủ tục do cơ  quan lậpquan lập  quyquy  hoạchhoạch  thựcthực  hiện,hiện,  cập nhật vào Hệ thống thông tin về hoạt động xây dựng để tạo lập Cơ sở dữ liệu chuyên ngànhcập nhật vào Hệ thống thông tin về hoạt động xây dựng để tạo lập Cơ sở dữ liệu chuyên ngành"
+    },
+    {
+      "STTSTTSTT": "111",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Dữ liệu chungDữ liệu chungDữ liệu chung",
+      "Ghi chúGhi chúGhi chú": "Dữ liệu chungDữ liệu chungDữ liệu chung"
+    },
+    {
+      "STTSTTSTT": "1.11.11.1",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch (đối với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thốngCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchhoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch  (đối(đối  với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)"
+    },
+    {
+      "STTSTTSTT": "1.21.21.2",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch (đối với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thốngCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchhoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch  (đối(đối  với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)"
+    },
+    {
+      "STTSTTSTT": "1.31.31.3",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn tỉnh/thành phố, xã/phường hoặc nhập thông tin địa điểm quy hoạch đối với quy hoạch liên phường, liên xã][Chọn[Chọn  tỉnhtỉnh//thànhthành  phố, xãphố, xã//phườngphường  hoặchoặc  nhập thôngnhập thông  tintin  địađịa  điểmđiểm  quy hoạch đối với quy hoạch liên phường, liên xã]quy hoạch đối với quy hoạch liên phường, liên xã]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch (đối với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thốngCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchhoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch  (đối(đối  với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)"
+    },
+    {
+      "STTSTTSTT": "1.41.41.4",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn cấp độ quy hoạch][Chọn[Chọn  cấpcấp  độđộ  quy hoạch]quy hoạch]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch (đối với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thốngCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchhoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch  (đối(đối  với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)"
+    },
+    {
+      "STTSTTSTT": "1.51.51.5",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn loại quy hoạch][Chọn loại quy hoạch][Chọn loại quy hoạch]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch (đối với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thốngCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchhoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch  (đối(đối  với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)"
+    },
+    {
+      "STTSTTSTT": "1.61.61.6",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn loại lập mới hoặc điều chỉnh cục bộ hoặc điều chỉnh tổng thể][Chọn loại lập mới hoặc [Chọn loại lập mới hoặc điềuđiều  chỉnhchỉnh  cụccục  bộbộ  hoặc hoặc điềuđiều chỉnh tổng thể] chỉnh tổng thể]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch (đối với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thốngCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchhoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch  (đối(đối  với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)"
+    },
+    {
+      "STTSTTSTT": "1.71.71.7",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu (theo hecta)][Nhập[Nhập  dữdữ  liệuliệu  (theo hecta)(theo hecta)]]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch (đối với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thốngCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchhoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch  (đối(đối  với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)"
+    },
+    {
+      "STTSTTSTT": "1.81.81.8",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch (đối với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thốngCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu để khởi tạo mã định danh trên Hệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạchhoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch  (đối(đối  với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)với các quy hoạch không yêu cầu lập nhiệm vụ quy hoạch)"
+    },
+    {
+      "STTSTTSTT": "222",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "2.12.12.1",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)][Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)][Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.22.22.2",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)][Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)][Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.32.32.3",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.42.42.4",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.52.52.5",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.62.62.6",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.72.72.7",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Số quyết định][Số quyết định][Số quyết định]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.82.82.8",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập file hồ sơ đã được chứng thực điện tử và file dữ liệu điện tử của hồ sơ theo quy định quản lý theo quy hoạch][Nhập file hồ sơ đã được chứng thực điện tử và file dữ liệu điện tử của hồ sơ theo quy định quản lý theo quy hoạch][Nhập file hồ sơ đã được chứng thực điện tử và file dữ liệu điện tử của hồ sơ theo quy định quản lý theo quy hoạch]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.92.92.9",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Đính kèm file được ký số hoặc Chứng thực bản sao điện tử từ bản chính][Đính kèm file được ký số hoặc Chứng thực bản sao điện tử từ bản chính][Đính kèm file được ký số hoặc Chứng thực bản sao điện tử từ bản chính]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.102.102.10",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập file hồ sơ đã được chứng thực điện tử và file dữ liệu điện tử của quy chế quản lý kiến trúc][Nhập file hồ sơ đã được chứng thực điện tử và file dữ liệu điện tử của quy chế quản lý kiến trúc][Nhập file hồ sơ đã được chứng thực điện tử và file dữ liệu điện tử của quy chế quản lý kiến trúc]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.112.112.11",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập mã định danh của các nhiệm vụ quy hoạch, quy hoạch có liên quan][Nhập mã định danh của các nhiệm vụ quy hoạch, quy hoạch có liên quan][Nhập mã định danh của các nhiệm vụ quy hoạch, quy hoạch có liên quan]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.122.122.12",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.132.132.13",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.142.142.14",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "2.152.152.15",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Hồ sơ thẩm định quy hoạch, điều chỉnh quy hoạchHồ sơ thẩm định quy hoạch, Hồ sơ thẩm định quy hoạch, điềuđiều chỉnh quy hoạch chỉnh quy hoạch",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "aaa",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[các tệp tin (file) bản vẽ và văn bản được in ấn thành một phần của hồ sơ bản giấy không bao gồm các văn bản, tài liệu liên quan theo quy định của pháp luật về quy hoạch đô thị và nông thôn][các tệp tin (file) bản vẽ và[các tệp tin (file) bản vẽ và  vănvăn  bảnbản  đượcđược  inin  ấn thànhấn thành  mộtmột  phầnphần  củacủa  hồ sơhồ sơ  bảnbản  giấygiấy  khôngkhông  bao gồm các văn bản, tài liệu liên quan theo quy định củabao gồm các văn bản, tài liệu liên quan theo quy định của  pháppháp  luậtluật  vềvề  quy hoạchquy hoạch  đôđô  thịthị  vàvà  nông thôn]nông thôn]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch cóCơ quan tổ chức lập quy hoạch có  tráchtrách  nhiệmnhiệm  nhậpnhập  dữdữ  liệu trênliệu trên  HệHệ  thốngthống  thôngthông  tintin  về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhvề hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "bbb",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Các tệp tin (file) được số hóa, quét (scan) từ hồ sơ bằng bản giấy hoặc chứng thực điện tử theo quy định của pháp luật về quy hoạch đô thị và nông thôn][Các[Các  tệptệp  tintin  (file)(file)  được số hóa, quét (scan) từ hồ sơđược số hóa, quét (scan) từ hồ sơ  bằngbằng  bảnbản  giấygiấy  hoặc chứng thực điện tử theo quyhoặc chứng thực điện tử theo quy  địnhđịnh  củacủa  pháppháp  luậtluật về về  quyquy  hoạchhoạch  đôđô  thịthị  và nông thôn]và nông thôn]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch cóCơ quan tổ chức lập quy hoạch có  tráchtrách  nhiệmnhiệm  nhậpnhập  dữdữ  liệu trênliệu trên  HệHệ  thốngthống  thôngthông  tintin  về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhvề hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "ccc",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Các tệp tin (file) được chuyển đổi thành dữ liệu địa lý từ cơ sở dữ liệu gốc theo quy định của pháp luật về quy hoạch đô thị và nông thôn][Các[Các  tệptệp  tintin  (file)(file)  được chuyển đổi thành dữ liệu địađược chuyển đổi thành dữ liệu địa  lýlý  từtừ  cơcơ  sởsở  dữdữ  liệu gốcliệu gốc  theotheo  quyquy  địnhđịnh  của phápcủa pháp  luậtluật  vềvề  quyquy  hoạch đô thị và nông thôn]hoạch đô thị và nông thôn]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch cóCơ quan tổ chức lập quy hoạch có  tráchtrách  nhiệmnhiệm  nhậpnhập  dữdữ  liệu trênliệu trên  HệHệ  thốngthống  thôngthông  tintin  về hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy địnhvề hoạt động xây dựng khi trình thẩm định nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "333",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Dữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tục",
+      "Ghi chúGhi chúGhi chú": "Dữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tục"
+    },
+    {
+      "STTSTTSTT": "3.13.13.1",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập số:.., ngày .... tháng .... năm...., cơ quan ban hành văn bản] [Đính kèm file được ký số hoặc được chứng thực bản sao điện tử từ bản chính][Nhậ[Nhậpp  số:..,số:..,  ngàyngày  .... tháng.... tháng  ........  năm....,năm....,  cơ quan ban hành văn bản] [Đínhcơ quan ban hành văn bản] [Đính  kèmkèm  filefile  đượcđược  kýký  sốsố  hoặchoặc  đượcđược  chứngchứng  thựcthực  bảnbản  sao điệnsao điện  tửtử  từ bản chính]từ bản chính]",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "3.23.23.2",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức thẩm định quy hoạch có trách nhiệm, phối hợp với cơ quan tổ chức lập quy hoạch để cập nhật hồ sơ quy hoạch đã được thẩm định vào Cơ sở dữ liệu quốc gia về hoạt động xây dựngCơCơ  quanquan  tổtổ  chứcchức  thẩmthẩm  định quyđịnh quy  hoạchhoạch  cócó  tráchtrách  nhiệm, phối hợp với cơ quan tổ chức lập quy hoạch để cập nhật hồ sơnhiệm, phối hợp với cơ quan tổ chức lập quy hoạch để cập nhật hồ sơ  quyquy  hoạchhoạch  đãđã  đượcđược  thẩm địnhthẩm định  vàovào  CơCơ  sởsở  dữdữ  liệuliệu  quốc gia về hoạt động xây dựngquốc gia về hoạt động xây dựng"
+    },
+    {
+      "STTSTTSTT": "IIIIIIIII",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Phê duyệt nhiệm vụ quy hoạch, điều chỉnh nhiệm vụ quy hoạch đô thị và nông thôn (đối với các quy hoạch có yêu cầu phải lập nhiệm vụ quy hoạch)PhêPhê  duyệtduyệt  nhiệmnhiệm  vụvụ  quyquy  hoạch,hoạch,  điềuđiều  chỉnh nhiệm vụ quy hoạch đô thị và nông thôn (đối với các quy hoạch có yêu cầu phải lập nhiệm vụ quy hoạch)chỉnh nhiệm vụ quy hoạch đô thị và nông thôn (đối với các quy hoạch có yêu cầu phải lập nhiệm vụ quy hoạch)",
+      "Ghi chúGhi chúGhi chú": "- Kết quả giải quyết thủ tục do Cơ quan phê duyệt nhiệm vụ quy hoạch, điều chỉnh nhiệm vụ quy hoạch thực hiện, ban hành, chuẩn hóa dữ liệu vào Hệ thống thông tin về hoạt động xây dựng.- Kết quả giải quyết thủ tục do Cơ quan phê duyệt nhiệm vụ quy- Kết quả giải quyết thủ tục do Cơ quan phê duyệt nhiệm vụ quy  hoạch,hoạch,  điềuđiều  chỉnhchỉnh  nhiệm vụnhiệm vụ  quyquy  hoạchhoạch  thựcthực  hiện,hiện,  ban hành,ban hành,  chuẩnchuẩn  hóahóa  dữdữ  liệuliệu  vào Hệvào Hệ  thốngthống  thôngthông  tintin  vềvề  hoạt động xây dựng.hoạt động xây dựng.- Kết quả thủ tục do cơ quan lập nhiệm vụ quy hoạch thực hiện, cập nhật vào Hệ thống thông tin về hoạt động xây dựng để tạo lập Cơ sở dữ liệu chuyên ngành- Kết quả thủ tục do cơ- Kết quả thủ tục do cơ  quan lập nhiệm vụ quy hoạchquan lập nhiệm vụ quy hoạch  thực hiện,thực hiện,  cậpcập  nhậtnhật  vàovào  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựng để tạo lập Cơ sở dữ liệu chuyên ngànhxây dựng để tạo lập Cơ sở dữ liệu chuyên ngành"
+    },
+    {
+      "STTSTTSTT": "111",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Dữ liệu chungDữ liệu chungDữ liệu chung",
+      "Ghi chúGhi chúGhi chú": "Dữ liệu chungDữ liệu chungDữ liệu chung"
+    },
+    {
+      "STTSTTSTT": "1.11.11.1",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "1.21.21.2",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "1.31.31.3",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn tỉnh/thành phố, xã/phường hoặc nhập thông tin địa điểm quy hoạch đối với quy hoạch liên phường, liên xã][Chọn[Chọn  tỉnhtỉnh//thànhthành  phố, xãphố, xã//phườngphường  hoặchoặc  nhập thôngnhập thông  tintin  địađịa  điểmđiểm  quy hoạch đối với quy hoạch liên phường, liên xã]quy hoạch đối với quy hoạch liên phường, liên xã]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "1.41.41.4",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn cấp độ quy hoạch][Chọn[Chọn  cấpcấp  độđộ  quy hoạchquy hoạch]]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "1.51.51.5",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn loại quy hoạch][Chọn loại quy hoạch][Chọn loại quy hoạch]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "1.61.61.6",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn loại lập mới hoặc điều chỉnh cục bộ hoặc điều chỉnh tổng thể][Chọn loại lập mới hoặc [Chọn loại lập mới hoặc điềuđiều  chỉnhchỉnh  cụccục  bộbộ  hoặc hoặc điềuđiều chỉnh tổng thể] chỉnh tổng thể]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "1.71.71.7",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu (theo hecta)][Nhập[Nhập  dữdữ  liệuliệu  (theo hecta)(theo hecta)]]",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "1.81.81.8",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "222",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Dữ liệu chi tiếtDữ liệu chi tiếtDữ liệu chi tiết",
+      "Ghi chúGhi chúGhi chú": "Dữ liệu chi tiếtDữ liệu chi tiếtDữ liệu chi tiết"
+    },
+    {
+      "STTSTTSTT": "2.12.12.1",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)][Nhập dữ[Nhập dữ  liệuliệu  hoặchoặc  Mã đăng ký kinh doanh (nếu có)]Mã đăng ký kinh doanh (nếu có)]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.22.22.2",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.32.32.3",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.42.42.4",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.52.52.5",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.62.62.6",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Đính kèm file được ký số hoặc Chứng thực bản sao điện tử từ bản chính][Đính[Đính  kèmkèm  filefile  đượcđược  ký số hoặc Chứng thực bản sao điện tử từ bản chính]ký số hoặc Chứng thực bản sao điện tử từ bản chính]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.72.72.7",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập mã định danh của nhiệm vụ quy hoạch, quy hoạch có liên quan][Nhập mã định danh của nhiệm vụ quy hoạch, quy hoạch có liên quan][Nhập mã định danh của nhiệm vụ quy hoạch, quy hoạch có liên quan]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.82.82.8",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập[Nhập  dữdữ  liệuliệu  mãmã  số chứngsố chứng  chỉchỉ  hànhhành  nghề hoạt động xây dựng]nghề hoạt động xây dựng]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.92.92.9",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập[Nhập  dữdữ  liệuliệu  mãmã  số chứngsố chứng  chỉchỉ  hànhhành  nghề hoạt động xây dựnghề hoạt động xây dựng]ng]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.102.102.10",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập số:.., ngày .... tháng .... năm...., cơ quan ban hành văn bản][Nhập[Nhập  số:..,số:..,  ngàyngày  .... tháng.... tháng  ........  năm....,năm....,  cơ quan ban hành văn bản]cơ quan ban hành văn bản][Đính kèm file được ký số hoặc được chứng thực bản sao điện tử từ bản chính][Đính[Đính  kèmkèm  filefile  đượcđược  ký sốký số  hoặchoặc  đượcđược  chứng thựcchứng thực  bảnbản  sao điệnsao điện  tửtử  từ bản chính]từ bản chính]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.112.112.11",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.122.122.12",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Hồ sơ phê duyệt nhiệm vụ quy hoạch, điều chỉnh nhiệm vụ quy hoạchHồ sơ phê duyệt nhiệm vụ quy hoạch, Hồ sơ phê duyệt nhiệm vụ quy hoạch, điềuđiều chỉnh nhiệm vụ quy hoạch chỉnh nhiệm vụ quy hoạch",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "aaa",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[các tệp tin (file) bản vẽ và văn bản được in ấn thành một phần của hồ sơ bản giấy không bao gồm các văn bản, tài liệu liên quan theo quy định của pháp luật về quy hoạch đô thị và nông thôn][các tệp tin (file) bản vẽ và[các tệp tin (file) bản vẽ và  vănvăn  bảnbản  đượcđược  inin  ấn thànhấn thành  mộtmột  phầnphần  củacủa  hồ sơhồ sơ  bảnbản  giấygiấy  khôngkhông  bao gồm các văn bản, tài liệu liên quan theo quy định củabao gồm các văn bản, tài liệu liên quan theo quy định của  pháppháp  luậtluật  vềvề  quy hoạchquy hoạch  đôđô  thịthị  vàvà  nông thôn]nông thôn]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "bbb",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Các tệp tin (file) được số hóa, quét (scan) từ hồ sơ bằng bản giấy hoặc chứng thực điện tử theo quy định của pháp luật về quy hoạch đô thị và nông thôn][[CácCác  tệptệp  tintin  (file)(file)  được số hóa, quét (scan) từ hồ sơđược số hóa, quét (scan) từ hồ sơ  bằngbằng  bảnbản  giấygiấy  hoặc chứng thực điện tử theo quyhoặc chứng thực điện tử theo quy  địnhđịnh  củacủa  pháppháp  luậtluật về về  quyquy  hoạchhoạch  đôđô  thịthị  và nông thôn]và nông thôn]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "ccc",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Các tệp tin (file) được chuyển đổi thành dữ liệu địa lý từ cơ sở dữ liệu gốc theo quy định của pháp luật về quy hoạch đô thị và nông thôn][Các[Các  tệptệp  tintin  (file)(file)  được chuyển đổi thành dữ liệu địađược chuyển đổi thành dữ liệu địa  lýlý  từtừ  cơcơ  sởsở  dữdữ  liệu gốcliệu gốc  theotheo  quyquy  địnhđịnh  của phápcủa pháp  luậtluật  vềvề  quyquy  hoạch đô thị và nông thôn]hoạch đô thị và nông thôn]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập nhiệm vụ quy hoạch có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt nhiệm vụ quy hoạch theo quy địnhCơ quan tổ chức lập nhiệm vụ quyCơ quan tổ chức lập nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm nhậpnhiệm nhập  dữdữ  liệuliệu  trêntrên  HệHệ  thống thôngthống thông  tintin  vềvề  hoạthoạt  độngđộng  xây dựngxây dựng  khikhi  trìnhtrình  phêphê  duyệt nhiệm vụ quy hoạch theo quy địnhduyệt nhiệm vụ quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "333",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Dữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tục",
+      "Ghi chúGhi chúGhi chú": "Dữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tục"
+    },
+    {
+      "STTSTTSTT": "3.13.13.1",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập số:.., ngày .... tháng .... năm...., cơ quan ban hành văn bản][Nhập[Nhập  số:..,số:..,  ngàyngày  .... tháng.... tháng  ........  năm....,năm....,  cơ quan ban hành văn bản]cơ quan ban hành văn bản][Đính kèm file được ký số hoặc được chứng thực bản sao điện tử từ bản chính][Đính[Đính  kèmkèm  filefile  đượcđược  ký sốký số  hoặchoặc  đượcđược  chứng thựcchứng thực  bảnbản  sao điệnsao điện  tửtử  từ bản chính]từ bản chính]",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "3.23.23.2",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "",
+      "Ghi chúGhi chúGhi chú": "Cơ quan thẩm định nhiệm vụ quy hoạch có trách nhiệm, phối hợp với cơ quan tổ chức lập quy hoạch để cập nhật hồ sơ nhiệm vụ quy hoạch đã được phê duyệt vào Cơ sở dữ liệu quốc gia về hoạt động xây dựngCơ quan thẩm định nhiệm vụ quyCơ quan thẩm định nhiệm vụ quy  hoạchhoạch  cócó  tráchtrách  nhiệm, phối hợp với cơ quan tổ chức lập quy hoạch để cập nhật hồ sơnhiệm, phối hợp với cơ quan tổ chức lập quy hoạch để cập nhật hồ sơ  nhiệmnhiệm  vụvụ  quyquy  hoạchhoạch  đã được phê duyệt vào Cơ sở dữ liệu quốc gia về hoạt động xây dựngđã được phê duyệt vào Cơ sở dữ liệu quốc gia về hoạt động xây dựng"
+    },
+    {
+      "STTSTTSTT": "IVIVIV",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Phê duyệt quy hoạch, điều chỉnh quy hoạch đô thị và nông thônPhê duyệt quy hoạch, Phê duyệt quy hoạch, điềuđiều chỉnh quy hoạch đô thị và nông t chỉnh quy hoạch đô thị và nông thônhôn",
+      "Ghi chúGhi chúGhi chú": "- Kết quả giải quyết thủ tục do Cơ quan phê duyệt quy hoạch, điều chỉnh quy hoạch thực hiện, ban hành, chuẩn hóa dữ liệu vào Hệ thống thông tin về hoạt động xây dựng.- Kết quả giải quyết thủ tục do Cơ quan phê duyệt quy hoạch, - Kết quả giải quyết thủ tục do Cơ quan phê duyệt quy hoạch, điềuđiều  chỉnhchỉnh  quyquy  hoạchhoạch  thực hiện, ban hành, chuẩn hóa dữ liệu vào Hệ thống thông tin về hoạt động xây dựng.thực hiện, ban hành, chuẩn hóa dữ liệu vào Hệ thống thông tin về hoạt động xây dựng.- Kết quả thủ tục do cơ quan lập quy hoạch thực hiện, cập nhật vào Hệ thống thông tin về hoạt động xây dựng để tạo lập Cơ sở dữ liệu chuyên ngành- Kết quả thủ tục do cơ- Kết quả thủ tục do cơ  quan lậpquan lập  quyquy  hoạchhoạch  thựcthực  hiện,hiện,  cập nhật vào Hệ thống thông tin về hoạt động xây dựng để tạo lập Cơ sở dữ liệu chuyên ngànhcập nhật vào Hệ thống thông tin về hoạt động xây dựng để tạo lập Cơ sở dữ liệu chuyên ngành"
+    },
+    {
+      "STTSTTSTT": "111",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Dữ liệu chungDữ liệu chungDữ liệu chung",
+      "Ghi chúGhi chúGhi chú": "Dữ liệu chungDữ liệu chungDữ liệu chung"
+    },
+    {
+      "STTSTTSTT": "1.11.11.1",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đôCơ quan tổ chức lập quy hoạch đô  thịthị  vàvà  nôngnông  thônthôn  cócó  trách nhiệmtrách nhiệm  nhậpnhập  dữdữ  liệuliệu  trêntrên  Hệ thốngHệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhhoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "1.21.21.2",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đôCơ quan tổ chức lập quy hoạch đô  thịthị  vàvà  nôngnông  thônthôn  cócó  trách nhiệmtrách nhiệm  nhậpnhập  dữdữ  liệuliệu  trêntrên  Hệ thốngHệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhhoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "1.31.31.3",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn tỉnh/thành phố, xã/phường hoặc nhập thông tin địa điểm quy hoạch đối với quy hoạch liên phường, liên xã][Chọn[Chọn  tỉnhtỉnh//thànhthành  phố, xãphố, xã//phườngphường  hoặchoặc  nhập thôngnhập thông  tintin  địađịa  điểmđiểm  quy hoạch đối với quy hoạch liên phường, liên xã]quy hoạch đối với quy hoạch liên phường, liên xã]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đôCơ quan tổ chức lập quy hoạch đô  thịthị  vàvà  nôngnông  thônthôn  cócó  trách nhiệmtrách nhiệm  nhậpnhập  dữdữ  liệuliệu  trêntrên  Hệ thốngHệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhhoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "1.41.41.4",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn cấp độ quy hoạch][Chọn[Chọn  cấpcấp  độđộ  quy hoạch]quy hoạch]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đôCơ quan tổ chức lập quy hoạch đô  thịthị  vàvà  nôngnông  thônthôn  cócó  trách nhiệmtrách nhiệm  nhậpnhập  dữdữ  liệuliệu  trêntrên  Hệ thốngHệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhhoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "1.51.51.5",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn loại quy hoạch][Chọn loại quy hoạch][Chọn loại quy hoạch]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đôCơ quan tổ chức lập quy hoạch đô  thịthị  vàvà  nôngnông  thônthôn  cócó  trách nhiệmtrách nhiệm  nhậpnhập  dữdữ  liệuliệu  trêntrên  Hệ thốngHệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhhoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "1.61.61.6",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Chọn loại lập mới hoặc điều chỉnh cục bộ hoặc điều chỉnh tổng thể][Chọn loại lập mới hoặc [Chọn loại lập mới hoặc điềuđiều  chỉchỉnhnh  cụccục  bộbộ  hoặc hoặc điềuđiều chỉnh tổng thể] chỉnh tổng thể]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đôCơ quan tổ chức lập quy hoạch đô  thịthị  vàvà  nôngnông  thônthôn  cócó  trách nhiệmtrách nhiệm  nhậpnhập  dữdữ  liệuliệu  trêntrên  Hệ thốngHệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhhoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "1.71.71.7",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu (theo hecta)][Nhập[Nhập  dữdữ  liệuliệu  (theo hecta)(theo hecta)]]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đôCơ quan tổ chức lập quy hoạch đô  thịthị  vàvà  nôngnông  thônthôn  cócó  trách nhiệmtrách nhiệm  nhậpnhập  dữdữ  liệuliệu  trêntrên  Hệ thốngHệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhhoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "1.81.81.8",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đôCơ quan tổ chức lập quy hoạch đô  thịthị  vàvà  nôngnông  thônthôn  cócó  trách nhiệmtrách nhiệm  nhậpnhập  dữdữ  liệuliệu  trêntrên  Hệ thốngHệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhhoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "222",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Dữ liệu chi tiếtDữ liệu chi tiếtDữ liệu chi tiết",
+      "Ghi chúGhi chúGhi chú": "Dữ liệu chi tiếtDữ liệu chi tiếtDữ liệu chi tiết"
+    },
+    {
+      "STTSTTSTT": "2.12.12.1",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)][Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)][Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.22.22.2",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)][Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)][Nhập dữ liệu hoặc Mã đăng ký kinh doanh (nếu có)]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.32.32.3",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.42.42.4",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.52.52.5",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.62.62.6",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.72.72.7",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Số quyết định][Số quyết định][Số quyết định]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.82.82.8",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập file hồ sơ đã được chứng thực điện tử và file dữ liệu điện tử của hồ sơ theo quy định quản lý theo quy hoạch][Nhập file hồ sơ đã được chứng thực điện tử và file dữ liệu điện tử của hồ sơ theo quy định quản lý theo quy hoạch][Nhập file hồ sơ đã được chứng thực điện tử và file dữ liệu điện tử của hồ sơ theo quy định quản lý theo quy hoạch]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.92.92.9",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Đính kèm file được ký số hoặc Chứng thực bản sao điện tử từ bản chính][Đính kèm file được ký số hoặc Chứng thực bản sao điện tử từ bản chính][Đính kèm file được ký số hoặc Chứng thực bản sao điện tử từ bản chính]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.102.102.10",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập file hồ sơ đã được chứng thực điện tử và file dữ liệu điện tử của quy chế quản lý kiến trúc][Nhập file hồ sơ đã được chứng thực điện tử và file dữ liệu điện tử của quy chế quản lý kiến trúc][Nhập file hồ sơ đã được chứng thực điện tử và file dữ liệu điện tử của quy chế quản lý kiến trúc]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.112.112.11",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập mã định danh của các nhiệm vụ quy hoạch, quy hoạch có liên quan][Nhập mã định danh của các nhiệm vụ quy hoạch, quy hoạch có liên quan][Nhập mã định danh của các nhiệm vụ quy hoạch, quy hoạch có liên quan]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.122.122.12",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.132.132.13",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng][Nhập dữ liệu mã số chứng chỉ hành nghề hoạt động xây dựng]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.142.142.14",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập số:.., ngày .... tháng .... năm...., cơ quan ban hành văn bản][Nhập số:.., ngày .... tháng .... năm...., cơ quan ban hành văn bản][Nhập số:.., ngày .... tháng .... năm...., cơ quan ban hành văn bản][Đính kèm file được ký số hoặc được chứng thực bản sao điện tử từ bản chính][Đính kèm file được ký số hoặc được chứng thực bản sao điện tử từ bản chính][Đính kèm file được ký số hoặc được chứng thực bản sao điện tử từ bản chính]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.152.152.15",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập dữ liệu][Nhập dữ liệu][Nhập dữ liệu]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "2.162.162.16",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Hồ sơ phê duyệt quy hoạch, điều chỉnh quy hoạchHồ sơ phê duyệt quy hoạch, Hồ sơ phê duyệt quy hoạch, điềuđiều chỉnh quy hoạch chỉnh quy hoạch",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "aaa",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[các tệp tin (file) bản vẽ và văn bản được in ấn thành một phần của hồ sơ bản giấy không bao gồm các văn bản, tài liệu liên quan theo quy định của pháp luật về quy hoạch đô thị và nông thôn][các tệp tin (file) bản vẽ và[các tệp tin (file) bản vẽ và  vănvăn  bảnbản  đượcđược  inin  ấn thànhấn thành  mộtmột  phầnphần  củacủa  hồ sơhồ sơ  bảnbản  giấygiấy  khôngkhông  bao gồm các văn bản, tài liệu liên quan theo quy định củabao gồm các văn bản, tài liệu liên quan theo quy định của  pháppháp  luậtluật  vềvề  quy hoạchquy hoạch  đôđô  thịthị  vàvà  nông thôn]nông thôn]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đôCơ quan tổ chức lập quy hoạch đô  thịthị  vàvà  nôngnông  thônthôn  cócó  trách nhiệmtrách nhiệm  nhậpnhập  dữdữ  liệuliệu  trêntrên  Hệ thốngHệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhhoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "bbb",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Các tệp tin (file) được số hóa, quét (scan) từ hồ sơ bằng bản giấy hoặc chứng thực điện tử theo quy định của pháp luật về quy hoạch đô thị và nông thôn][Các[Các  tệptệp  tintin  (file)(file)  được số hóa, quét (scan) từ hồ sơđược số hóa, quét (scan) từ hồ sơ  bằngbằng  bảnbản  giấygiấy  hoặc chứng thực điện tử theo quyhoặc chứng thực điện tử theo quy  địnhđịnh  củacủa  pháppháp  luậtluật về về  quyquy  hoạchhoạch  đôđô  thịthị  và nông thôn]và nông thôn]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đôCơ quan tổ chức lập quy hoạch đô  thịthị  vàvà  nôngnông  thônthôn  cócó  trách nhiệmtrách nhiệm  nhậpnhập  dữdữ  liệuliệu  trêntrên  Hệ thốngHệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhhoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "ccc",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Các tệp tin (file) được chuyển đổi thành dữ liệu địa lý từ cơ sở dữ liệu gốc theo quy định của pháp luật về quy hoạch đô thị và nông thôn][Các[Các  tệptệp  tintin  (file)(file)  được chuyển đổi thành dữ liệu địađược chuyển đổi thành dữ liệu địa  lýlý  từtừ  cơcơ  sởsở  dữdữ  liệu gốcliệu gốc  theotheo  quyquy  địnhđịnh  của phápcủa pháp  luậtluật  vềvề  quyquy  hoạch đô thị và nông thôn]hoạch đô thị và nông thôn]",
+      "Ghi chúGhi chúGhi chú": "Cơ quan tổ chức lập quy hoạch đô thị và nông thôn có trách nhiệm nhập dữ liệu trên Hệ thống thông tin về hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhCơ quan tổ chức lập quy hoạch đôCơ quan tổ chức lập quy hoạch đô  thịthị  vàvà  nôngnông  thônthôn  cócó  trách nhiệmtrách nhiệm  nhậpnhập  dữdữ  liệuliệu  trêntrên  Hệ thốngHệ thống  thôngthông  tin vềtin về  hoạt động xây dựng khi trình phê duyệt quy hoạch theo quy địnhhoạt động xây dựng khi trình phê duyệt quy hoạch theo quy định"
+    },
+    {
+      "STTSTTSTT": "333",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "Dữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tục",
+      "Ghi chúGhi chúGhi chú": "Dữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tụcDữ liệu kết quả giải quyết thủ tục"
+    },
+    {
+      "STTSTTSTT": "3.13.13.1",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "[Nhập số:.., ngày .... tháng .... năm...., cơ quan ban hành văn bản][Nhập[Nhập  số:..,số:..,  ngàyngày  .... tháng.... tháng  ........  năm....,năm....,  cơ quan ban hành văn bản]cơ quan ban hành văn bản][Đính kèm file được ký số hoặc được chứng thực bản sao điện tử từ bản chính][Đính[Đính  kèmkèm  filefile  đượcđược  ký sốký số  hoặchoặc  đượcđược  chứng thựcchứng thực  bảnbản  sao điệnsao điện  tửtử  từ bản chính]từ bản chính]",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "STTSTTSTT": "3.23.23.2",
+      "Nội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thônNội dung nhập, cập nhật dữ liệu về quy hoạch đô thị và nông thôn": "",
+      "Ghi chúGhi chúGhi chú": "Cơ quan thẩm định quy hoạch có trách nhiệm, phối hợp với cơ quan tổ chức lập quy hoạch để cập nhật hồ sơ quy hoạch đã được phê duyệt vào Cơ sở dữ liệu quốc gia về hoạt động xây dựngCơ quan thẩm định quy hoạch có tráchCơ quan thẩm định quy hoạch có trách  nhiệm, phối hợp với cơ quan tổ chức lập quy hoạch để cập nhật hồ sơ quy hoạch đã được phê duyệt vào Cơ sở dữ liệu quốc gia về hoạt động xây dựngnhiệm, phối hợp với cơ quan tổ chức lập quy hoạch để cập nhật hồ sơ quy hoạch đã được phê duyệt vào Cơ sở dữ liệu quốc gia về hoạt động xây dựng"
+    }
+  ],
+  "footnotes": []
+}

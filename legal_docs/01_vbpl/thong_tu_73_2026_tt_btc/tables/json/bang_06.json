@@ -1,0 +1,79 @@
+{
+  "table_id": "bang_06",
+  "title": "Bảng 06",
+  "rows_count": 10,
+  "columns_count": 5,
+  "headers": [
+    "Số TTSố TTSố TT",
+    "Nội dung chi phíNội dung chi phíNội dung chi phí",
+    "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối",
+    "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán",
+    "Giá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối"
+  ],
+  "records": [
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "222",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "333",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "444",
+      "Giá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "5 = 4-35 = 4-35 = 4-3"
+    },
+    {
+      "Số TTSố TTSố TT": "",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Tổng sốTổng sốTổng số",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "",
+      "Giá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": ""
+    },
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Bồi thường, hỗ trợ, tái định cưBồi thường, hỗ trợ, tái định cưBồi thường, hỗ trợ, tái định cư",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "",
+      "Giá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": ""
+    },
+    {
+      "Số TTSố TTSố TT": "222",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Xây dựngXây dựngXây dựng",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "",
+      "Giá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": ""
+    },
+    {
+      "Số TTSố TTSố TT": "333",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Thiết bịThiết bịThiết bị",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "",
+      "Giá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": ""
+    },
+    {
+      "Số TTSố TTSố TT": "444",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Quản lý dự ánQuản lý dự ánQuản lý dự án",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "",
+      "Giá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": ""
+    },
+    {
+      "Số TTSố TTSố TT": "555",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Tư vấnTư vấnTư vấn",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "",
+      "Giá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "..."
+    },
+    {
+      "Số TTSố TTSố TT": "666",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí khácChi phí khácChi phí khác",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "",
+      "Giá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": ""
+    },
+    {
+      "Số TTSố TTSố TT": "777",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Dự phòngDự phòngDự phòng",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "",
+      "Giá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiGiá trị đề nghị quyết toán tăng (+), giảm (-) so với tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": ""
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_27",
+  "title": "Bảng 27",
+  "rows_count": 7,
+  "columns_count": 3,
+  "headers": [
+    "STTSTTSTT",
+    "Loại công trìnhLoại công trìnhLoại công trình",
+    "Thu nhập chịu thuế tính trướcThu nhập chịu thuế tính trướcThu nhập chịu thuế tính trước"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "111",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Công trình dân dụngCông trình dân dụngCông trình dân dụng",
+      "Thu nhập chịu thuế tính trướcThu nhập chịu thuế tính trướcThu nhập chịu thuế tính trước": "5,55,55,5"
+    },
+    {
+      "STTSTTSTT": "222",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Công trình công nghiệpCông trình công nghiệpCông trình công nghiệp",
+      "Thu nhập chịu thuế tính trướcThu nhập chịu thuế tính trướcThu nhập chịu thuế tính trước": "6,06,06,0"
+    },
+    {
+      "STTSTTSTT": "333",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Công trình giao thôngCông trình giao thôngCông trình giao thông",
+      "Thu nhập chịu thuế tính trướcThu nhập chịu thuế tính trướcThu nhập chịu thuế tính trước": "6,06,06,0"
+    },
+    {
+      "STTSTTSTT": "444",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Công trình nông nghiệp và môi trườngCông trình nông nghiệp và môi trườngCông trình nông nghiệp và môi trường",
+      "Thu nhập chịu thuế tính trướcThu nhập chịu thuế tính trướcThu nhập chịu thuế tính trước": "5,55,55,5"
+    },
+    {
+      "STTSTTSTT": "555",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Công trình hạ tầng kỹ thuậtCông trình hạ tầng kỹ thuậtCông trình hạ tầng kỹ thuật",
+      "Thu nhập chịu thuế tính trướcThu nhập chịu thuế tính trướcThu nhập chịu thuế tính trước": "5,55,55,5"
+    },
+    {
+      "STTSTTSTT": "666",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Dự toán lắp đặt thiết bị công nghệ trong các công trình xây dựng; xây lắp đường dây tải điện và trạm biến áp; thí nghiệm hiệu chỉnh điện đường dây và trạm biến áp.Dự toán lắp đặt thiết bị công nghệ trong các công trình xây dựng; xây lắp đường dây tải điện và trạm biến áp; thí nghiệm hiệu chỉnh điện đường dây và trạm biến áp.Dự toán lắp đặt thiết bị công nghệ trong các công trình xây dựng; xây lắp đường dây tải điện và trạm biến áp; thí nghiệm hiệu chỉnh điện đường dây và trạm biến áp.",
+      "Thu nhập chịu thuế tính trướcThu nhập chịu thuế tính trướcThu nhập chịu thuế tính trước": "6,06,06,0"
+    }
+  ],
+  "footnotes": []
+}

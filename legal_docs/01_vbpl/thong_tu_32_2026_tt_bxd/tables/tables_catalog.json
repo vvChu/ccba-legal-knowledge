@@ -1,0 +1,14 @@
+[
+  {
+    "table_id": "bang_03",
+    "file_stem": "bang_03",
+    "title": "Bảng 03",
+    "columns_count": 3,
+    "rows_count": 4,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_03.json",
+    "csv_path": "tables/csv/bang_03.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  }
+]

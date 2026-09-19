@@ -1,0 +1,72 @@
+{
+  "table_id": "bang_42",
+  "title": "Bảng 42",
+  "rows_count": 9,
+  "columns_count": 5,
+  "headers": [
+    "STTSTTSTT",
+    "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ",
+    "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH",
+    "GIÁ TRỊGIÁGIÁ  TRỊTRỊ",
+    "KÝ HIỆUKÝKÝ  HIỆUHIỆU"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "[2][2][2]",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "[3][3][3]",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "[4][4][4]",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "[5][5][5]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Chi phí chuyên giaChi phí chuyên giaChi phí chuyên gia",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "CcgCCcgcg"
+    },
+    {
+      "STTSTTSTT": "222",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Chi phí quản lýChi phí quản lýChi phí quản lý",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "Ccg x Tỷ lệCCcg cg x Tỷ lệx Tỷ lệ",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "CqlCCqlql"
+    },
+    {
+      "STTSTTSTT": "333",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Chi phí khácChi phí khácChi phí khác",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "CkCCkk"
+    },
+    {
+      "STTSTTSTT": "444",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Thu nhập chịu thuế tính trướcThu nhập chịu thuếThu nhập chịu thuế  tính trướctính trước",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(Ccg + Cql ) x 6%(C(Ccgcg  + C+ Cqlql  ) x 6%) x 6%",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "TLTLTL"
+    },
+    {
+      "STTSTTSTT": "555",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "ThuếThuếThuế",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "TTT"
+    },
+    {
+      "STTSTTSTT": "666",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Chi phí dự phòngChi phí dự phòngChi phí dự phòng",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(Ccg + Cql + Ck + TL + T) x Tỷ lệ(C(Ccgcg  + C+ Cqlql  + C+ Ckk  + TL + T) x Tỷ lệ+ TL + T) x Tỷ lệ",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "CdpCCdpdp"
+    },
+    {
+      "STTSTTSTT": "",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "TỔNG CỘNGTỔNG CỘNGTỔNG CỘNG",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "Ccg + Cql + Ck + TL + T + CdpCCcgcg  + C+ Cqlql  + C+ Ckk  + TL + T + C+ TL + T + Cdpdp",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "CTVCCTVTV"
+    }
+  ],
+  "footnotes": []
+}

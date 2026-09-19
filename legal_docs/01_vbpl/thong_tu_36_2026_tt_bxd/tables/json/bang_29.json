@@ -1,0 +1,100 @@
+{
+  "table_id": "bang_29",
+  "title": "Bảng 29",
+  "rows_count": 13,
+  "columns_count": 5,
+  "headers": [
+    "STT STT STT",
+    "NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ",
+    "CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH",
+    "GIÁ TRỊGIÁ TRỊGIÁ TRỊ",
+    "KÝ HIỆUKÝ HIỆUKÝ HIỆU"
+  ],
+  "records": [
+    {
+      "STT STT STT": "III",
+      "NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ": "Chi phí trực tiếpChi phí trực tiếpChi phí trực tiếp",
+      "CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH": "VL + NC + MVL + NC + MVL + NC + M",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "TTT"
+    },
+    {
+      "STT STT STT": "1  1  1",
+      "NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ": "Chi phí vật liệu  Chi phí vật liệu  Chi phí vật liệu",
+      "CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH": "",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "VL  VL  VL"
+    },
+    {
+      "STT STT STT": "2  2  2",
+      "NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ": "Chi phí nhân công  Chi phí nhân công  Chi phí nhân công",
+      "CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH": "",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "NC  NC  NC"
+    },
+    {
+      "STT STT STT": "3  3  3",
+      "NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ": "Chi phí máy và thiết bị thi công Chi phí máy và thiết bị thi công Chi phí máy và thiết bị thi công",
+      "CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH": "",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "M  M  M"
+    },
+    {
+      "STT STT STT": "IIIIII",
+      "NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ": "Chi phí gián tiếpChi phí gián tiếpChi phí gián tiếp",
+      "CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH": "C + TTC + TTC + TT",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "GTGTGT"
+    },
+    {
+      "STT STT STT": "1 1 1",
+      "NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ": "Chi phí chung Chi phí chung Chi phí chung",
+      "CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH": "T x Tỷ lệ  T x Tỷ lệ  T x Tỷ lệ  (NC x Tỷ lệ)(NC x Tỷ lệ)(NC x Tỷ lệ)",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "C C C"
+    },
+    {
+      "STT STT STT": "2  2  2",
+      "NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ": "Chi phí một số công việc không xác định được khối lượng từ thiết kếChi phí một số công việc không xác định được khối lượng từ thiết kếChi phí một số công việc không xác định được khối lượng từ thiết kế",
+      "CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH": "T x Tỷ lệ  T x Tỷ lệ  T x Tỷ lệ",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "TT  TT  TT"
+    },
+    {
+      "STT STT STT": "III III III",
+      "NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ": "Thu nhập chịu thuế tính trướcThu nhập chịu thuế tính trướcThu nhập chịu thuế tính trước",
+      "CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH": "(T + GT) x Tỷ lệ (T + GT) x Tỷ lệ (T + GT) x Tỷ lệ",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "TL TL TL"
+    },
+    {
+      "STT STT STT": "",
+      "NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ": "Chi phí xây dựng trước thuếChi phí xây dựng trước thuếChi phí xây dựng trước thuế",
+      "CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH": "(T + GT + TL)(T + GT + TL)(T + GT + TL)",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "GXDTTGGXDTTXDTT"
+    },
+    {
+      "STT STT STT": "IVIVIV",
+      "NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ": "Thuế giá trị gia tăngThuế giá trị gia tăngThuế giá trị gia tăng",
+      "CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH": "GXDTT x TGTGTGGXDTTXDTT x T x TGTGTGTGT",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "GTGTGTGTGTGT"
+    },
+    {
+      "STT STT STT": "",
+      "NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ": "CHI PHÍ XÂY DỰNG SAU THUẾCHI PHÍ XÂY DỰNG SAU THUẾCHI PHÍ XÂY DỰNG SAU THUẾ",
+      "CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH": "GXDTT + GTGT G GXDTTXDTT + GTGT + GTGT",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": ""
+    },
+    {
+      "STT STT STT": "V V V",
+      "NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ": "Chi phí nhà tạm để ở và điều hành thi côngChi phí nhà tạm để ở và Chi phí nhà tạm để ở và điềuđiều hành thi công hành thi công",
+      "CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH": "GXDTT x Tỷ lệ x TGTGT G GXDTTXDTT x Tỷ lệ x T x Tỷ lệ x TGTGTGTGT",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "LT LT LT"
+    }
+  ],
+  "footnotes": []
+}

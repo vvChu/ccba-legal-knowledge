@@ -1,0 +1,21 @@
+{
+  "table_id": "bang_5_1",
+  "title": "Bảng 5.1: ĐỊNH MỨC TỶ LỆ CHI PHÍ CHUNG TRONG DỰ TOÁN CHI PHÍ KHẢO SÁT XÂY DỰNG",
+  "rows_count": 2,
+  "columns_count": 4,
+  "headers": [
+    "Chi phí nhân công trong chi phí trực tiếp (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp (tỷ đồng)",
+    "≤ 1≤ 1≤ 1",
+    "1 ÷ ≤ 21 ÷ ≤ 21 ÷ ≤ 2",
+    "> 2> 2> 2"
+  ],
+  "records": [
+    {
+      "Chi phí nhân công trong chi phí trực tiếp (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp (tỷ đồng)": "Định mức tỷ lệ chi phí chung (%)Định mức tỷ lệ chi phí chung (%)Định mức tỷ lệ chi phí chung (%)",
+      "≤ 1≤ 1≤ 1": "707070",
+      "1 ÷ ≤ 21 ÷ ≤ 21 ÷ ≤ 2": "656565",
+      "> 2> 2> 2": "606060"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,89 @@
+{
+  "table_id": "bang_17",
+  "title": "Bảng 17",
+  "rows_count": 10,
+  "columns_count": 6,
+  "headers": [
+    "STTSTTSTT",
+    "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ",
+    "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ",
+    "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT",
+    "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ",
+    "KÝ HIỆUKÝKÝ  HIỆUHIỆU"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "[2][2][2]",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "[3][3][3]",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "[4][4][4]",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "[5][5][5]",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "[6][6][6]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí công việc thi công xây dựngChi phí công việc thi công xây dựngChi phí công việc thi công xây dựng",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GTCXDGGTCXDTCXD"
+    },
+    {
+      "STTSTTSTT": "222",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí công việc cung cấp vật tư, thiết bịChi phí công việc cung cấp vật tư, thiết bịChi phí công việc cung cấp vật tư, thiết bị",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GCCVT,TBGGCCVT,TBCCVT,TB"
+    },
+    {
+      "STTSTTSTT": "333",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí công việc lắp đặt thiết bịChi phí công việc lắp đặt thiết bịChi phí công việc lắp đặt thiết bị",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GLĐTBGGLĐTBLĐTB"
+    },
+    {
+      "STTSTTSTT": "444",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí công việc tư vấn xây dựngChi phí công việc tư vấn xây dựngChi phí công việc tư vấn xây dựng",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GTVGGTVTV"
+    },
+    {
+      "STTSTTSTT": "555",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí dự phòng (GDP1 + GDP2)Chi phí dự phòng (GChi phí dự phòng (GDP1DP1  + G+ GDP2DP2))",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GDPGGDPDP"
+    },
+    {
+      "STTSTTSTT": "5.15.15.1",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí dự phòng cho khối lượng, công việc phát sinhChi phí dự phòng cho khối lượng,Chi phí dự phòng cho khối lượng,  công việc phát sinhcông việc phát sinh",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GDP1GGDP1DP1"
+    },
+    {
+      "STTSTTSTT": "5.25.25.2",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí dự phòng cho yếu tố trượt giáChi phí dự phòng cho yếu tố trượt giáChi phí dự phòng cho yếu tố trượt giá",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GDP2GGDP2DP2"
+    },
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "TỔNG CỘNG ( 1+2+3+4+5)TỔNG CỘNG ( 1+2+3+4+5)TỔNG CỘNG ( 1+2+3+4+5)",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GGTGGGTGT"
+    }
+  ],
+  "footnotes": []
+}

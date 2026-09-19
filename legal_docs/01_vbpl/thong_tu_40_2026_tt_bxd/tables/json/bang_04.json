@@ -1,0 +1,105 @@
+{
+  "table_id": "bang_04",
+  "title": "Bảng 04",
+  "rows_count": 12,
+  "columns_count": 6,
+  "headers": [
+    "TTTTTT",
+    "Nội dung chi phíNội dung chi phíNội dung chi phí",
+    "Giá trị trước thuếGiá trị trước thuếGiá trị trước thuế",
+    "Thuế GTGTThuếThuế  GTGTGTGT",
+    "Giá trị sau thuếGiá trị sau thuếGiá trị sau thuế",
+    "Ký hiệuKýKý  hiệuhiệu"
+  ],
+  "records": [
+    {
+      "TTTTTT": "[1][1][1]",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "[2][2][2]",
+      "Giá trị trước thuếGiá trị trước thuếGiá trị trước thuế": "[3][3][3]",
+      "Thuế GTGTThuếThuế  GTGTGTGT": "[4][4][4]",
+      "Giá trị sau thuếGiá trị sau thuếGiá trị sau thuế": "[5][5][5]",
+      "Ký hiệuKýKý  hiệuhiệu": "[6][6][6]"
+    },
+    {
+      "TTTTTT": "111",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí thực hiện bảo dưỡng (bao gồm chi phí nhà tạm)Chi phí thực hiện bảo dưỡngChi phí thực hiện bảo dưỡng  (bao gồm chi phí nhà tạm)(bao gồm chi phí nhà tạm)",
+      "Giá trị trước thuếGiá trị trước thuếGiá trị trước thuế": "",
+      "Thuế GTGTThuếThuế  GTGTGTGT": "",
+      "Giá trị sau thuếGiá trị sau thuếGiá trị sau thuế": "",
+      "Ký hiệuKýKý  hiệuhiệu": "GTHBDGGTHBDTHBD"
+    },
+    {
+      "TTTTTT": "222",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí khác (nếu có)Chi phí khác (nếu có)Chi phí khác (nếu có)",
+      "Giá trị trước thuếGiá trị trước thuếGiá trị trước thuế": "",
+      "Thuế GTGTThuếThuế  GTGTGTGT": "",
+      "Giá trị sau thuếGiá trị sau thuếGiá trị sau thuế": "",
+      "Ký hiệuKýKý  hiệuhiệu": "GKBDGGKBDKBD"
+    },
+    {
+      "TTTTTT": "2.12.12.1",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí lập dự toánChi phí lập dự toánChi phí lập dự toán",
+      "Giá trị trước thuếGiá trị trước thuếGiá trị trước thuế": "",
+      "Thuế GTGTThuếThuế  GTGTGTGT": "",
+      "Giá trị sau thuếGiá trị sau thuếGiá trị sau thuế": "",
+      "Ký hiệuKýKý  hiệuhiệu": ""
+    },
+    {
+      "TTTTTT": "2.22.22.2",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí thẩm tra dự toánChi phí thẩm tra dự toánChi phí thẩm tra dự toán",
+      "Giá trị trước thuếGiá trị trước thuếGiá trị trước thuế": "",
+      "Thuế GTGTThuếThuế  GTGTGTGT": "",
+      "Giá trị sau thuếGiá trị sau thuếGiá trị sau thuế": "",
+      "Ký hiệuKýKý  hiệuhiệu": ""
+    },
+    {
+      "TTTTTT": "2.32.32.3",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí tư vấn giám sátChi phí tư vấn giám sátChi phí tư vấn giám sát",
+      "Giá trị trước thuếGiá trị trước thuếGiá trị trước thuế": "",
+      "Thuế GTGTThuếThuế  GTGTGTGT": "",
+      "Giá trị sau thuếGiá trị sau thuếGiá trị sau thuế": "",
+      "Ký hiệuKýKý  hiệuhiệu": ""
+    },
+    {
+      "TTTTTT": "2.42.42.4",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Lập hồ sơ mời thầu, hồ sơ yêu cầuLập hồ sơ mời thầu, hồ sơLập hồ sơ mời thầu, hồ sơ  yêu cầuyêu cầu",
+      "Giá trị trước thuếGiá trị trước thuếGiá trị trước thuế": "",
+      "Thuế GTGTThuếThuế  GTGTGTGT": "",
+      "Giá trị sau thuếGiá trị sau thuếGiá trị sau thuế": "",
+      "Ký hiệuKýKý  hiệuhiệu": ""
+    },
+    {
+      "TTTTTT": "2.52.52.5",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí thẩm định kết quả lựa chọn nhà thầuChi phí thẩm định kết quả lựa chọn nhà thầuChi phí thẩm định kết quả lựa chọn nhà thầu",
+      "Giá trị trước thuếGiá trị trước thuếGiá trị trước thuế": "",
+      "Thuế GTGTThuếThuế  GTGTGTGT": "",
+      "Giá trị sau thuếGiá trị sau thuếGiá trị sau thuế": "",
+      "Ký hiệuKýKý  hiệuhiệu": ""
+    },
+    {
+      "TTTTTT": "………",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "………",
+      "Giá trị trước thuếGiá trị trước thuếGiá trị trước thuế": "",
+      "Thuế GTGTThuếThuế  GTGTGTGT": "",
+      "Giá trị sau thuếGiá trị sau thuếGiá trị sau thuế": "",
+      "Ký hiệuKýKý  hiệuhiệu": ""
+    },
+    {
+      "TTTTTT": "333",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí dự phòng (nếu có)Chi phí dự phòng (nếu có)Chi phí dự phòng (nếu có)",
+      "Giá trị trước thuếGiá trị trước thuếGiá trị trước thuế": "",
+      "Thuế GTGTThuếThuế  GTGTGTGT": "",
+      "Giá trị sau thuếGiá trị sau thuếGiá trị sau thuế": "",
+      "Ký hiệuKýKý  hiệuhiệu": ""
+    },
+    {
+      "TTTTTT": "",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "TỔNG CỘNG (1+2+3)TỔNG CỘNG (1+2+3)TỔNG CỘNG (1+2+3)",
+      "Giá trị trước thuếGiá trị trước thuếGiá trị trước thuế": "",
+      "Thuế GTGTThuếThuế  GTGTGTGT": "",
+      "Giá trị sau thuếGiá trị sau thuếGiá trị sau thuế": "",
+      "Ký hiệuKýKý  hiệuhiệu": "GBDGGBDBD"
+    }
+  ],
+  "footnotes": []
+}

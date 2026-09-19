@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_12",
+  "title": "Bảng 12",
+  "rows_count": 2,
+  "columns_count": 5,
+  "headers": [
+    "TTTTTT",
+    "Khoản mục chi phíKhoảnKhoản  mụcmục chi phí chi phí",
+    "Chi phí mua sắm thiết bị chưa có thuế giá trị gia tăng (tỷ đồng)Chi phí mua sắm thiết bị chưa cóChi phí mua sắm thiết bị chưa có  thuế giá trị gia tăng (tỷ đồng)thuế giá trị gia tăng (tỷ đồng) — < 10.000< 10.000< 10.000",
+    "Chi phí mua sắm thiết bị chưa có thuế giá trị gia tăng (tỷ đồng)Chi phí mua sắm thiết bị chưa cóChi phí mua sắm thiết bị chưa có  thuế giá trị gia tăng (tỷ đồng)thuế giá trị gia tăng (tỷ đồng) — 10.000 ÷ ≤ 20.00010.000 ÷ ≤10.000 ÷ ≤  20.00020.000",
+    "Chi phí mua sắm thiết bị chưa có thuế giá trị gia tăng (tỷ đồng)Chi phí mua sắm thiết bị chưa cóChi phí mua sắm thiết bị chưa có  thuế giá trị gia tăng (tỷ đồng)thuế giá trị gia tăng (tỷ đồng) — >20.000>20.000>20.000"
+  ],
+  "records": [
+    {
+      "TTTTTT": "",
+      "Khoản mục chi phíKhoảnKhoản  mụcmục chi phí chi phí": "Chi phí quản lý mua sắm thiết bịChi phí quản lý mua sắm thiết bịChi phí quản lý mua sắm thiết bị",
+      "Chi phí mua sắm thiết bị chưa có thuế giá trị gia tăng (tỷ đồng)Chi phí mua sắm thiết bị chưa cóChi phí mua sắm thiết bị chưa có  thuế giá trị gia tăng (tỷ đồng)thuế giá trị gia tăng (tỷ đồng) — < 10.000< 10.000< 10.000": "1,11,11,1",
+      "Chi phí mua sắm thiết bị chưa có thuế giá trị gia tăng (tỷ đồng)Chi phí mua sắm thiết bị chưa cóChi phí mua sắm thiết bị chưa có  thuế giá trị gia tăng (tỷ đồng)thuế giá trị gia tăng (tỷ đồng) — 10.000 ÷ ≤ 20.00010.000 ÷ ≤10.000 ÷ ≤  20.00020.000": "111",
+      "Chi phí mua sắm thiết bị chưa có thuế giá trị gia tăng (tỷ đồng)Chi phí mua sắm thiết bị chưa cóChi phí mua sắm thiết bị chưa có  thuế giá trị gia tăng (tỷ đồng)thuế giá trị gia tăng (tỷ đồng) — >20.000>20.000>20.000": "0,90,90,9"
+    }
+  ],
+  "footnotes": []
+}

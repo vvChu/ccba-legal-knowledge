@@ -1,0 +1,45 @@
+{
+  "table_id": "bang_2_4_",
+  "title": "Bảng 2.4. ĐỊNH MỨC CHI PHÍ NHÀ TẠM",
+  "rows_count": 4,
+  "columns_count": 7,
+  "headers": [
+    "STTSTTSTT",
+    "Loại công trìnhLoại công trìnhLoại công trình",
+    "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤ 15≤ 15≤ 15",
+    "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤100≤100≤100",
+    "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤500≤500≤500",
+    "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤1000≤1000≤1000",
+    "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — >1000>1000>1000"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "Loại công trìnhLoại công trìnhLoại công trình": "[2][2][2]",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤ 15≤ 15≤ 15": "[3][3][3]",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤100≤100≤100": "[4][4][4]",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤500≤500≤500": "[5][5][5]",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤1000≤1000≤1000": "[6][6][6]",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — >1000>1000>1000": "[7][7][7]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Công trình xây dựng theo tuyếnCông trình xây dựng theo tuyếnCông trình xây dựng theo tuyến",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤ 15≤ 15≤ 15": "2,22,22,2",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤100≤100≤100": "2,02,02,0",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤500≤500≤500": "1,91,91,9",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤1000≤1000≤1000": "1,81,81,8",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — >1000>1000>1000": "1,71,71,7"
+    },
+    {
+      "STTSTTSTT": "222",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Công trình xây dựng còn lạiCông trình xây dựng còn lạiCông trình xây dựng còn lại",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤ 15≤ 15≤ 15": "1,11,11,1",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤100≤100≤100": "1,01,01,0",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤500≤500≤500": "0,950,950,95",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — ≤1000≤1000≤1000": "0,90,90,9",
+      "Tổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)Tổng chi phí thực hiện bảo dưỡng trước thuế của công trìnhTổng chi phí thực hiện bảo dưỡng trước thuế của công trình (tỷ đồng)(tỷ đồng) — >1000>1000>1000": "0,850,850,85"
+    }
+  ],
+  "footnotes": []
+}

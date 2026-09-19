@@ -1,0 +1,163 @@
+{
+  "table_id": "bang_39",
+  "title": "Bảng 39",
+  "rows_count": 22,
+  "columns_count": 5,
+  "headers": [
+    "STTSTTSTT",
+    "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ",
+    "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH",
+    "GIÁ TRỊGIÁGIÁ  TRỊTRỊ",
+    "KÝ HIỆUKÝKÝ  HIỆUHIỆU"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "[2][2][2]",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "[3][3][3]",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "[4][4][4]",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "[5][5][5]"
+    },
+    {
+      "STTSTTSTT": "III",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "CHI PHÍ TRỰC TIẾPCHI PHÍ TRỰC TIẾPCHI PHÍ TRỰC TIẾP",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "111",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí vật liệu, nhiên liệuChi phí vật liệu, nhiên liệuChi phí vật liệu, nhiên liệu",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "VLVLVL"
+    },
+    {
+      "STTSTTSTT": "222",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí nhân côngChi phí nhân côngChi phí nhân công",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "NCNCNC"
+    },
+    {
+      "STTSTTSTT": "333",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí máy và thiết bị khảo sátChi phí máy và thiết bị khảo sátChi phí máy và thiết bị khảo sát",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "MMM"
+    },
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí trực tiếpChi phí trực tiếpChi phí trực tiếp",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "VL + NC + MVL + NC + MVL + NC + M",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "TTT"
+    },
+    {
+      "STTSTTSTT": "IIIIII",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "CHI PHÍ GIÁN TIẾPCHI PHÍ GIÁN TIẾPCHI PHÍ GIÁN TIẾP",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "111",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí chungChi phí chungChi phí chung",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "NC x Tỷ lệNC x Tỷ lệNC x Tỷ lệ",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "CCC"
+    },
+    {
+      "STTSTTSTT": "222",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí nhà tạm để ở và điều hành thi côngChi phí nhà tạm để ở và Chi phí nhà tạm để ở và điềuđiều  hành thi cônghành thi công",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "T x Tỷ lệT x Tỷ lệT x Tỷ lệ",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "LTLTLT"
+    },
+    {
+      "STTSTTSTT": "333",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí một số công việc không xác định được khối lượng từ thiết kếChi phí một số công việc không xác định được khối lượng từ thiết kếChi phí một số công việc không xác định được khối lượng từ thiết kế",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "T x Tỷ lệT x Tỷ lệT x Tỷ lệ",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "TTTTTT"
+    },
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí gián tiếpChi phí gián tiếpChi phí gián tiếp",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "C + LT + TTC + LT + TTC + LT + TT",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GTGTGT"
+    },
+    {
+      "STTSTTSTT": "IIIIIIIII",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "THU NHẬP CHỊU THUẾ TÍNH TRƯỚCTHU NHẬP CHỊU THUẾTHU NHẬP CHỊU THUẾ  TÍNH TRƯỚCTÍNH TRƯỚC",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(T + GT) x 6%(T + GT) x 6%(T + GT) x 6%",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "TLTLTL"
+    },
+    {
+      "STTSTTSTT": "IVIVIV",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "CHI PHÍ PHỤC VỤ CÔNG TÁC KHẢO SÁT XÂY DỰNGCHI PHÍ PHỤC VỤ CÔNG TÁC KHẢO SÁT XÂY DỰNGCHI PHÍ PHỤC VỤ CÔNG TÁC KHẢO SÁT XÂY DỰNG",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "CpvksCCpvkspvks"
+    },
+    {
+      "STTSTTSTT": "111",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí lập phương án kỹ thuật khảo sát xây dựngChi phí lập phương án kỹ thuật khảo sát xây dựngChi phí lập phương án kỹ thuật khảo sát xây dựng",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(T+GT+TL) x Tỷ lệ(T+GT+TL) x Tỷ lệ(T+GT+TL) x Tỷ lệ",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "222",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí lập báo cáo kết quả khảo sát xây dựngChi phí lập báo cáo kết quả khảo sát xây dựngChi phí lập báo cáo kết quả khảo sát xây dựng",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(T+GT+TL) x Tỷ lệ(T+GT+TL) x Tỷ lệ(T+GT+TL) x Tỷ lệ",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "333",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí khác phục vụ khảo sátChi phí khác phục vụ khảo sátChi phí khác phục vụ khảo sát",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí khảo sát xây dựng trước thuếChi phí khảo sát xây dựng trước thuếChi phí khảo sát xây dựng trước thuế",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(T+GT+TL) + Cpvks(T+GT+TL) + C(T+GT+TL) + Cpvkspvks",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GGG"
+    },
+    {
+      "STTSTTSTT": "VVV",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "THUẾ GIÁ TRỊ GIA TĂNGTHUẾ GIÁ TRỊ GIA TĂNGTHUẾ GIÁ TRỊ GIA TĂNG",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "G x TGTGTG x TG x TGTGTGTGT",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GTGTGTGTGTGT"
+    },
+    {
+      "STTSTTSTT": "VIVIVI",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "CHI PHÍ NHÀ TẠM ĐỂ Ở VÀ ĐIỀU HÀNH THI CÔNGCHI PHÍ NHÀ TẠM ĐỂ Ở VÀCHI PHÍ NHÀ TẠM ĐỂ Ở VÀ  ĐIỀUĐIỀU HÀNH THI CÔNG HÀNH THI CÔNG",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(G+GTGT) x Tỷ lệ(G+GTGT) x Tỷ lệ(G+GTGT) x Tỷ lệ",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "LTLTLT"
+    },
+    {
+      "STTSTTSTT": "VIIVIIVII",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "CHI PHÍ DỰ PHÒNGCHI PHÍ DỰ PHÒNGCHI PHÍ DỰ PHÒNG",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(G + GTGT) x Tỷ lệ(G + GTGT) x Tỷ lệ(G + GTGT) x Tỷ lệ",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "CdpCCdpdp"
+    },
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí khảo sát xây dựngChi phí khảo sát xây dựngChi phí khảo sát xây dựng",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "G + GTGT +LT+ CdpG + GTGT +LT+ CG + GTGT +LT+ Cdpdp",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GksGGksks"
+    }
+  ],
+  "footnotes": []
+}

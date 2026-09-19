@@ -1,0 +1,89 @@
+{
+  "table_id": "bang_57",
+  "title": "Bảng 57",
+  "rows_count": 10,
+  "columns_count": 6,
+  "headers": [
+    "STTSTTSTT",
+    "Nội dung chi phíNội dung chi phíNội dung chi phí",
+    "Giá trị sơ bộ TMĐTGiá trị sơ bộ TMĐTGiá trị sơ bộ TMĐT",
+    "Giá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm tra",
+    "Giá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm định",
+    "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "[2][2][2]",
+      "Giá trị sơ bộ TMĐTGiá trị sơ bộ TMĐTGiá trị sơ bộ TMĐT": "[3][3][3]",
+      "Giá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm tra": "[4][4][4]",
+      "Giá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm định": "[5][5][5]",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": "[6][6][6]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí bồi thường, hỗ trợ và tái định cư (nếu có)Chi phí bồi thường, hỗ trợChi phí bồi thường, hỗ trợ  và tái định cư (nếu có)và tái định cư (nếu có)",
+      "Giá trị sơ bộ TMĐTGiá trị sơ bộ TMĐTGiá trị sơ bộ TMĐT": "",
+      "Giá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm tra": "",
+      "Giá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm định": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    },
+    {
+      "STTSTTSTT": "222",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí xây dựngChi phí xây dựngChi phí xây dựng",
+      "Giá trị sơ bộ TMĐTGiá trị sơ bộ TMĐTGiá trị sơ bộ TMĐT": "",
+      "Giá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm tra": "",
+      "Giá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm định": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    },
+    {
+      "STTSTTSTT": "333",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí thiết bị (nếu có)Chi phí thiết bị (nếu có)Chi phí thiết bị (nếu có)",
+      "Giá trị sơ bộ TMĐTGiá trị sơ bộ TMĐTGiá trị sơ bộ TMĐT": "",
+      "Giá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm tra": "",
+      "Giá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm định": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    },
+    {
+      "STTSTTSTT": "444",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí quản lý dự ánChi phí quản lý dự ánChi phí quản lý dự án",
+      "Giá trị sơ bộ TMĐTGiá trị sơ bộ TMĐTGiá trị sơ bộ TMĐT": "",
+      "Giá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm tra": "",
+      "Giá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm định": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    },
+    {
+      "STTSTTSTT": "555",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí tư vấn xây dựngChi phí tư vấn xây dựngChi phí tư vấn xây dựng",
+      "Giá trị sơ bộ TMĐTGiá trị sơ bộ TMĐTGiá trị sơ bộ TMĐT": "",
+      "Giá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm tra": "",
+      "Giá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm định": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    },
+    {
+      "STTSTTSTT": "666",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí khácChi phí khácChi phí khác",
+      "Giá trị sơ bộ TMĐTGiá trị sơ bộ TMĐTGiá trị sơ bộ TMĐT": "",
+      "Giá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm tra": "",
+      "Giá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm định": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    },
+    {
+      "STTSTTSTT": "777",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí dự phòngChi phí dự phòngChi phí dự phòng",
+      "Giá trị sơ bộ TMĐTGiá trị sơ bộ TMĐTGiá trị sơ bộ TMĐT": "",
+      "Giá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm tra": "",
+      "Giá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm định": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    },
+    {
+      "STTSTTSTT": "",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Tổng cộngTổng cộngTổng cộng",
+      "Giá trị sơ bộ TMĐTGiá trị sơ bộ TMĐTGiá trị sơ bộ TMĐT": "",
+      "Giá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm traGiá trị TMĐT sau thẩm tra": "",
+      "Giá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm địnhGiá trị TMĐT sau thẩm định": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    }
+  ],
+  "footnotes": []
+}

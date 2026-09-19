@@ -1,0 +1,89 @@
+{
+  "table_id": "bang_04",
+  "title": "Bảng 04",
+  "rows_count": 10,
+  "columns_count": 6,
+  "headers": [
+    "STTSTTSTT",
+    "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ",
+    "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ",
+    "THUẾTHUẾTHUẾGTGTGTGTGTGT",
+    "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ",
+    "KÝ HIỆUKÝKÝ  HIỆUHIỆU"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "[2][2][2]",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "[3][3][3]",
+      "THUẾTHUẾTHUẾGTGTGTGTGTGT": "[4][4][4]",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "[5][5][5]",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "[6][6][6]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí bồi thường, hỗ trợ và tái định cưChi phí bồi thường, hỗ trợ và tái định cưChi phí bồi thường, hỗ trợ và tái định cư",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾTHUẾTHUẾGTGTGTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "222",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí xây dựngChi phí xây dựngChi phí xây dựng",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾTHUẾTHUẾGTGTGTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "333",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí thiết bịChi phí thiết bịChi phí thiết bị",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾTHUẾTHUẾGTGTGTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "444",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí quản lý dự ánChi phí quản lý dự ánChi phí quản lý dự án",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾTHUẾTHUẾGTGTGTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "555",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí tư vấn xây dựngChi phí tư vấn xây dựngChi phí tư vấn xây dựng",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾTHUẾTHUẾGTGTGTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "666",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí khácChi phí khácChi phí khác",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾTHUẾTHUẾGTGTGTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "777",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí dự phòngChi phí dự phòngChi phí dự phòng",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾTHUẾTHUẾGTGTGTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "TỔNG CỘNGTỔNG CỘNGTỔNG CỘNG(1+2+3+4+5+6+7)(1+2+3+4+5+6+7)(1+2+3+4+5+6+7)",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾTHUẾTHUẾGTGTGTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "VSBVVSBSB"
+    }
+  ],
+  "footnotes": []
+}

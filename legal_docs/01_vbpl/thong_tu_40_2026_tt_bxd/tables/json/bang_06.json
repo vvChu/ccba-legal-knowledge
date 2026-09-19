@@ -1,0 +1,25 @@
+{
+  "table_id": "bang_06",
+  "title": "Bảng 06",
+  "rows_count": 2,
+  "columns_count": 6,
+  "headers": [
+    "STTSTTSTT",
+    "Nội dungNội dungNội dung",
+    "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng) — ≤15≤15≤15",
+    "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng) — ≤50≤50≤50",
+    "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng) — ≤100≤100≤100",
+    "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng) — >100>100>100"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "111",
+      "Nội dungNội dungNội dung": "Định mức tỷ lệ (%) chi phí gián tiếpĐịnh mức tỷ lệ (%) chi phí gián tiếpĐịnh mức tỷ lệ (%) chi phí gián tiếp",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng) — ≤15≤15≤15": "666666",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng) — ≤50≤50≤50": "636363",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng) — ≤100≤100≤100": "606060",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán thực hiện bảo dưỡng của công trình (tỷ đồng) — >100>100>100": "565656"
+    }
+  ],
+  "footnotes": []
+}

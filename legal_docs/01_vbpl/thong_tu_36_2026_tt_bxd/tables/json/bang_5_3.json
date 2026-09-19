@@ -1,0 +1,24 @@
+{
+  "table_id": "bang_5_3",
+  "title": "Bảng 5.3: ĐỊNH MỨC CHI PHÍ LẬP PHƯƠNG ÁN KỸ THUẬT KHẢO SÁT, LẬP BÁO CÁO KẾT QUẢ KHẢO SÁT XÂY DỰNG",
+  "rows_count": 3,
+  "columns_count": 3,
+  "headers": [
+    "Tổng chi phí trực tiếp (T), chi phí gián tiếp (GT), thu nhập chịu thuế tính trước (TL) (tỷ đồng)Tổng chi phí trực tiếp (T), chi phí gián tiếp (GT), thu nhập chịu thuế tính trước (TL) (tỷ đồng)Tổng chi phí trực tiếp (T), chi phí gián tiếp (GT), thu nhập chịu thuế tính trước (TL) (tỷ đồng)",
+    "≤ 2≤ 2≤ 2",
+    "> 2> 2> 2"
+  ],
+  "records": [
+    {
+      "Tổng chi phí trực tiếp (T), chi phí gián tiếp (GT), thu nhập chịu thuế tính trước (TL) (tỷ đồng)Tổng chi phí trực tiếp (T), chi phí gián tiếp (GT), thu nhập chịu thuế tính trước (TL) (tỷ đồng)Tổng chi phí trực tiếp (T), chi phí gián tiếp (GT), thu nhập chịu thuế tính trước (TL) (tỷ đồng)": "Lập phương án kỹ thuật khảo sát xây dựng (%)Lập phương án kỹ thuật khảo sát xây dựng (%)Lập phương án kỹ thuật khảo sát xây dựng (%)",
+      "≤ 2≤ 2≤ 2": "222",
+      "> 2> 2> 2": "1,51,51,5"
+    },
+    {
+      "Tổng chi phí trực tiếp (T), chi phí gián tiếp (GT), thu nhập chịu thuế tính trước (TL) (tỷ đồng)Tổng chi phí trực tiếp (T), chi phí gián tiếp (GT), thu nhập chịu thuế tính trước (TL) (tỷ đồng)Tổng chi phí trực tiếp (T), chi phí gián tiếp (GT), thu nhập chịu thuế tính trước (TL) (tỷ đồng)": "Lập báo cáo kết quả khảo sát xây dựng (%)Lập báo cáo kết quả khảo sát xây dựng (%)Lập báo cáo kết quả khảo sát xây dựng (%)",
+      "≤ 2≤ 2≤ 2": "333",
+      "> 2> 2> 2": "2,52,52,5"
+    }
+  ],
+  "footnotes": []
+}

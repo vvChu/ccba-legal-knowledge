@@ -1,0 +1,73 @@
+{
+  "table_id": "bang_15",
+  "title": "Bảng 15",
+  "rows_count": 8,
+  "columns_count": 6,
+  "headers": [
+    "STTSTTSTT",
+    "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ",
+    "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ",
+    "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT",
+    "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ",
+    "KÝ HIỆUKÝKÝ  HIỆUHIỆU"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "[2][2][2]",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "[3][3][3]",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "[4][4][4]",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "[5][5][5]",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "[6][6][6]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí bảo hiểm công trìnhChi phí bảo hiểm công trìnhChi phí bảo hiểm công trình",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "222",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Phí thẩm định thiết kếPhí thẩm định thiết kếPhí thẩm định thiết kế",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "333",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí kiểm tra công tác nghiệm thuChi phí kiểm tra công tác nghiệmChi phí kiểm tra công tác nghiệm  thuthu",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": ".........",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": ".........",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": ".........",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Các loại chi phí khác có liên quanCác loạiCác loại chi phí khác có liên quan chi phí khác có liên quan",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "TỔNG CỘNGTỔNG CỘNGTỔNG CỘNG",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GKGGKK"
+    }
+  ],
+  "footnotes": []
+}

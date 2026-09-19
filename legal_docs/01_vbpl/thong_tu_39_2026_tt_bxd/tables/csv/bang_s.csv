@@ -1,0 +1,12 @@
+﻿STTSTTSTT,Tên trường dữ liệuTên trường dữ liệuTên trường dữ liệu,Mô tả dữ liệuMô tả dữ liệuMô tả dữ liệu,Ghi chúGhi chúGhi chú
+111,Dữ liệu chungDữ liệu chungDữ liệu chung,,"Cơ quan có thẩm quyền nhập, cập nhật nội dungCơ quan có thẩm quyền nhập, cập nhật nội dungCơ quan có thẩm quyền nhập, cập nhật nội dung"
+1.11.11.1,Lĩnh vực hành nghềLĩnh vực hành nghềLĩnh vực hành nghề,Chọn lĩnh vực hành nghề hoạt động xây dựngChọn lĩnh vực hành nghề hoạt động xây dựngChọn lĩnh vực hành nghề hoạt động xây dựng,
+1.21.21.2,Hạng chứng chỉ hành nghềHạng chứng chỉ hành nghềHạng chứng chỉ hành nghề,Chọn hạng chứng chỉ hành nghề: Hạng I/Hạng II/Hạng IIIChọn hạng chứng chỉ hành nghề: Hạng IChọn hạng chứng chỉ hành nghề: Hạng I//Hạng IIHạng II//Hạng IIIHạng III,
+1.31.31.3,Thời hạn chứng chỉThời hạn chứng chỉThời hạn chứng chỉ,"Ngày cấp, ngày hết hạn hoặc thời hạn hiệu lực của chứng chỉNgày cấp, ngày hết hạn hoặc thời hạn hiệu lực của chứng chỉNgày cấp, ngày hết hạn hoặc thời hạn hiệu lực của chứng chỉ",
+222,Dữ liệu chi tiếtDữ liệu chi tiếtDữ liệu chi tiết,,
+2.12.12.1,Cơ sở đào tạoCơ sở đào tạoCơ sở đào tạo,"Nhập tên Cơ sở đào tạo hoặc liên thông cơ sở dữ liệu của ngành, lĩnh vực có liên quanNhập tên Cơ sở đào tạo hoặc liên thông cơ sở dữ liệu của ngành, lĩnh vực có liên quanNhập tên Cơ sở đào tạo hoặc liên thông cơ sở dữ liệu của ngành, lĩnh vực có liên quan",
+2.22.22.2,Trình độ chuyên mônTrình độ chuyên mônTrình độ chuyên môn,"Nhập Trình độ chuyên môn hoặc liên thông cơ sở dữ liệu của ngành, lĩnh vực có liên quanNhập Trình độ chuyên môn hoặc liên thông cơNhập Trình độ chuyên môn hoặc liên thông cơ  sở dữ liệu của ngành, lĩnhsở dữ liệu của ngành, lĩnh  vực có liên quanvực có liên quan",
+2.32.32.3,Số chứng chỉ hành nghề hoạt động xây dựngSố chứng chỉ hành nghề hoạt động xây dựngSố chứng chỉ hành nghề hoạt động xây dựng,Nhập hoặc Liên kết với hệ thống có liên quanNhập hoặc Liên kết với hệ thống có liên quanNhập hoặc Liên kết với hệ thống có liên quan,
+2.42.42.4,Quyết định cấp mới chứng chỉQuyết định cấp mới chứng chỉQuyết định cấp mới chứng chỉ,"[Nhập số:.., ngày .... tháng .... năm....][Nhập số:.., ngày .... tháng .... năm....][Nhập số:.., ngày .... tháng .... năm....]",
+2.52.52.5,Quyết định cấp lại chứng chỉ (nếu có)Quyết định cấp lại chứng chỉQuyết định cấp lại chứng chỉ  (nếu có)(nếu có),"[Nhập số:.., ngày .... tháng .... năm....][Nhập số:.., ngày .... tháng .... năm....][Nhập số:.., ngày .... tháng .... năm....]",
+2.62.62.6,Cơ quan cấp chứng chỉCơ quan cấp chứng chỉCơ quan cấp chứng chỉ,[Nhập tên cơ quan][Nhập tên cơ quan][Nhập tên cơ quan],

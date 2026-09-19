@@ -1,0 +1,29 @@
+{
+  "table_id": "bang_03",
+  "title": "Bảng 03",
+  "rows_count": 4,
+  "columns_count": 3,
+  "headers": [
+    "STTSTTSTT",
+    "Loại công trìnhLoại công trìnhLoại công trình",
+    "Cấp công trình (1)Cấp công trình Cấp công trình (1)(1)"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "111",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Nhà, kết cấu dạng nhà; công trình nhiều tầng có sàn; công trình có kết cấu nhịp lớn dạng khungNhà, kết cấu dạng nhà; công trình nhiều tầng có sàn; công trình có kết cấu nhịp lớn dạng khungNhà, kết cấu dạng nhà; công trình nhiều tầng có sàn; công trình có kết cấu nhịp lớn dạng khung",
+      "Cấp công trình (1)Cấp công trình Cấp công trình (1)(1)": "Cấp đặc biệtCấp đặc biệtCấp đặc biệt"
+    },
+    {
+      "STTSTTSTT": "222",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Công trình có kết cấu dạng cột, trụ, thápCông trình có kết cấu dạng cột, trụ, thápCông trình có kết cấu dạng cột, trụ, tháp",
+      "Cấp công trình (1)Cấp công trình Cấp công trình (1)(1)": "Cấp I trở lênCấp I trở lênCấp I trở lên"
+    },
+    {
+      "STTSTTSTT": "333",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Sân vận động, sân thi đấu các môn thể thao có khán đài; nhà thi đấu (các môn thể thao)Sân vận động, sân thi đấu các môn thể thao có khán đài; nhà thi đấu (các môn thể thao)Sân vận động, sân thi đấu các môn thể thao có khán đài; nhà thi đấu (các môn thể thao)",
+      "Cấp công trình (1)Cấp công trình Cấp công trình (1)(1)": "Cấp I trở lênCấp I trở lênCấp I trở lên"
+    }
+  ],
+  "footnotes": []
+}

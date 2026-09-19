@@ -1,0 +1,14 @@
+﻿STTSTTSTT,KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ,CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH,GIÁ TRỊGIÁGIÁ  TRỊTRỊ,KÝ HIỆUKÝKÝ  HIỆUHIỆU
+[1][1][1],[2][2][2],[3][3][3],[4][4][4],[5][5][5]
+111,Chi phí trực tiếpChi phí trực tiếpChi phí trực tiếp,,,CttCCtttt
+1.11.11.1,Chi phí nhân sựChi phí nhân sựChi phí nhân sự,,,
+1.21.21.2,Chi phí vật liệu (nếu có)Chi phí vật liệu (nếuChi phí vật liệu (nếu  có)có),,,
+1.31.31.3,"Chi phí máy, thiết bị (nếu có)Chi phí máy, thiết bịChi phí máy, thiết bị  (nếu có)(nếu có)",,,
+222,Chi phí khácChi phí Chi phí kháckhác,,,CkCCkk
+2.12.12.1,Chi phí trích nộp cho người lao độngChi phí trích nộp choChi phí trích nộp cho  người lao độngngười lao động,,,
+2.22.22.2,"Chi phí đi lại, lưu trúChi phí đi lại, lưu trúChi phí đi lại, lưu trú",,,
+………,….….….,,,
+333,Thu nhập chịu thuế tính trước (nếu có)Thu nhập chịu thuếThu nhập chịu thuế  tính trước (nếu có)tính trước (nếu có),(Ctt + Ck) x 6%(C(Ctttt  + C+ Ckk) x 6%) x 6%,,TLTLTL
+444,Thuế GTGT (nếu có)Thuế GTGT (nếuThuế GTGT (nếu  có)có),,,TTT
+555,Chi phí dự phòngChi phí dự phòngChi phí dự phòng,(Ctt + Ck + TL + T) x Tỷ lệ(C(Ctttt  + C+ Ckk  + TL + T) x Tỷ lệ+ TL + T) x Tỷ lệ,,CdpCCdpdp
+,TỔNG CỘNGTỔNG CỘNGTỔNG CỘNG,Ctt + Ck + TL + T + CdpCCtttt  + C+ Ckk  + TL + T + C+ TL + T + Cdpdp,,CCVXDCCCVXDCVXD

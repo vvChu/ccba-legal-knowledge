@@ -1,0 +1,97 @@
+{
+  "table_id": "bang_08",
+  "title": "Bảng 08",
+  "rows_count": 11,
+  "columns_count": 6,
+  "headers": [
+    "STTSTTSTT",
+    "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ",
+    "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ",
+    "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT",
+    "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ",
+    "KÝ HIỆUKÝKÝ  HIỆUHIỆU"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "[2][2][2]",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "[3][3][3]",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "[4][4][4]",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "[5][5][5]",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "[6][6][6]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí xây dựngChi phí xây dựngChi phí xây dựng",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GXDGGXDXD"
+    },
+    {
+      "STTSTTSTT": "222",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí thiết bịChi phí thiết bịChi phí thiết bị",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GTBGGTBTB"
+    },
+    {
+      "STTSTTSTT": "333",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí quản lý dự ánChi phí quản lý dự ánChi phí quản lý dự án",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GQLDAGGQLDAQLDA"
+    },
+    {
+      "STTSTTSTT": "444",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí tư vấn xây dựngChi phí tư vấn xây dựngChi phí tư vấn xây dựng",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GTVGGTVTV"
+    },
+    {
+      "STTSTTSTT": "555",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí khácChi phí khácChi phí khác",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GKGGKK"
+    },
+    {
+      "STTSTTSTT": "666",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí dự phòng (GDP1 + GDP2)Chi phí dự phòng (GChi phí dự phòng (GDP1 DP1 + G+ GDP2DP2))",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GDPGGDPDP"
+    },
+    {
+      "STTSTTSTT": "6.16.16.1",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí dự phòng cho khối lượng, công việc phát sinhChi phí dự phòng cho khối lượng,Chi phí dự phòng cho khối lượng,  công việc phát sinhcông việc phát sinh",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "6.26.26.2",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí dự phòng cho yếu tố trượt giáChi phí dự phòng cho yếu tố trượtChi phí dự phòng cho yếu tố trượt  giágiá",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "TỔNG CỘNG ( 1+2+3+4+5+6)TỔNG CỘNG ( 1+2+3+4+5+6)TỔNG CỘNG ( 1+2+3+4+5+6)",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GXDCTGGXDCTXDCT"
+    }
+  ],
+  "footnotes": []
+}

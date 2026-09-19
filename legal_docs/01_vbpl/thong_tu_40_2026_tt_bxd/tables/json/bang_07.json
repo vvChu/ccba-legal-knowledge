@@ -1,0 +1,39 @@
+{
+  "table_id": "bang_07",
+  "title": "Bảng 07",
+  "rows_count": 6,
+  "columns_count": 3,
+  "headers": [
+    "STTSTTSTT",
+    "Loại công trình[1]Loại công trìnhLoại công trình[1][1]",
+    "Thu nhập chịu thuế tính trướcThu nhập chịu thuếThu nhập chịu thuế  tính trướctính trước"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "111",
+      "Loại công trình[1]Loại công trìnhLoại công trình[1][1]": "Công trình dân dụngCông trình dân dụngCông trình dân dụng",
+      "Thu nhập chịu thuế tính trướcThu nhập chịu thuếThu nhập chịu thuế  tính trướctính trước": "5,55,55,5"
+    },
+    {
+      "STTSTTSTT": "222",
+      "Loại công trình[1]Loại công trìnhLoại công trình[1][1]": "Công trình công nghiệpCông trình công nghiệpCông trình công nghiệp",
+      "Thu nhập chịu thuế tính trướcThu nhập chịu thuếThu nhập chịu thuế  tính trướctính trước": "6,06,06,0"
+    },
+    {
+      "STTSTTSTT": "333",
+      "Loại công trình[1]Loại công trìnhLoại công trình[1][1]": "Công trình giao thôngCông trình giao thôngCông trình giao thông",
+      "Thu nhập chịu thuế tính trướcThu nhập chịu thuếThu nhập chịu thuế  tính trướctính trước": "6,06,06,0"
+    },
+    {
+      "STTSTTSTT": "444",
+      "Loại công trình[1]Loại công trìnhLoại công trình[1][1]": "Công trình nông nghiệp và môi trườngCông trình nông nghiệp và môiCông trình nông nghiệp và môi  trườngtrường",
+      "Thu nhập chịu thuế tính trướcThu nhập chịu thuếThu nhập chịu thuế  tính trướctính trước": "5,55,55,5"
+    },
+    {
+      "STTSTTSTT": "555",
+      "Loại công trình[1]Loại công trìnhLoại công trình[1][1]": "Công trình hạ tầng kỹ thuậtCông trình hạ tầng kỹ thuậtCông trình hạ tầng kỹ thuật",
+      "Thu nhập chịu thuế tính trướcThu nhập chịu thuếThu nhập chịu thuế  tính trướctính trước": "5,55,55,5"
+    }
+  ],
+  "footnotes": []
+}

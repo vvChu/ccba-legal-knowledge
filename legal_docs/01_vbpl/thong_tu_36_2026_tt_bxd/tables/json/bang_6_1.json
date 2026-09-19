@@ -1,0 +1,21 @@
+{
+  "table_id": "bang_6_1",
+  "title": "Bảng 6.1: TỶ LỆ CHI PHÍ QUẢN LÝ",
+  "rows_count": 2,
+  "columns_count": 4,
+  "headers": [
+    "Chi phí chuyên gia (tỷ đồng)Chi phí chuyên gia (tỷ đồng)Chi phí chuyên gia (tỷ đồng)",
+    "< 1< 1< 1",
+    "1 ÷ < 51 ÷ < 51 ÷ < 5",
+    "≥ 5≥ 5≥ 5"
+  ],
+  "records": [
+    {
+      "Chi phí chuyên gia (tỷ đồng)Chi phí chuyên gia (tỷ đồng)Chi phí chuyên gia (tỷ đồng)": "Chi phí quản lý (tỷ lệ %)Chi phí quản lý (tỷ lệ %)Chi phí quản lý (tỷ lệ %)",
+      "< 1< 1< 1": "555555",
+      "1 ÷ < 51 ÷ < 51 ÷ < 5": "505050",
+      "≥ 5≥ 5≥ 5": "454545"
+    }
+  ],
+  "footnotes": []
+}

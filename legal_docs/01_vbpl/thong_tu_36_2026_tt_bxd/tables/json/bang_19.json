@@ -1,0 +1,107 @@
+{
+  "table_id": "bang_19",
+  "title": "Bảng 19",
+  "rows_count": 14,
+  "columns_count": 5,
+  "headers": [
+    "STTSTTSTT",
+    "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ",
+    "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH",
+    "GIÁ TRỊGIÁGIÁ  TRỊTRỊ",
+    "KÝ HIỆUKÝKÝ  HIỆUHIỆU"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "[2][2][2]",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "[3][3][3]",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "[4][4][4]",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "[5][5][5]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Chi phí trực tiếpChi phí trực tiếpChi phí trực tiếp",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "CttCCtttt"
+    },
+    {
+      "STTSTTSTT": "1.11.11.1",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Chi phí nhân sựChi phí nhân sựChi phí nhân sự",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "1.21.21.2",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Chi phí vật liệu (nếu có)Chi phí vật liệu (nếuChi phí vật liệu (nếu  có)có)",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "1.31.31.3",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Chi phí máy, thiết bị (nếu có)Chi phí máy, thiết bịChi phí máy, thiết bị  (nếu có)(nếu có)",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "222",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Chi phí khácChi phí Chi phí kháckhác",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "CkCCkk"
+    },
+    {
+      "STTSTTSTT": "2.12.12.1",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Chi phí trích nộp cho người lao độngChi phí trích nộp choChi phí trích nộp cho  người lao độngngười lao động",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "2.22.22.2",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Chi phí đi lại, lưu trúChi phí đi lại, lưu trúChi phí đi lại, lưu trú",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "………",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "….….….",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "333",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Thu nhập chịu thuế tính trước (nếu có)Thu nhập chịu thuếThu nhập chịu thuế  tính trước (nếu có)tính trước (nếu có)",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(Ctt + Ck) x 6%(C(Ctttt  + C+ Ckk) x 6%) x 6%",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "TLTLTL"
+    },
+    {
+      "STTSTTSTT": "444",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Thuế GTGT (nếu có)Thuế GTGT (nếuThuế GTGT (nếu  có)có)",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "TTT"
+    },
+    {
+      "STTSTTSTT": "555",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "Chi phí dự phòngChi phí dự phòngChi phí dự phòng",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(Ctt + Ck + TL + T) x Tỷ lệ(C(Ctttt  + C+ Ckk  + TL + T) x Tỷ lệ+ TL + T) x Tỷ lệ",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "CdpCCdpdp"
+    },
+    {
+      "STTSTTSTT": "",
+      "KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ": "TỔNG CỘNGTỔNG CỘNGTỔNG CỘNG",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "Ctt + Ck + TL + T + CdpCCtttt  + C+ Ckk  + TL + T + C+ TL + T + Cdpdp",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "CCVXDCCCVXDCVXD"
+    }
+  ],
+  "footnotes": []
+}

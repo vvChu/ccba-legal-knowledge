@@ -1,0 +1,79 @@
+{
+  "table_id": "bang_31",
+  "title": "Bảng 31",
+  "rows_count": 10,
+  "columns_count": 5,
+  "headers": [
+    "STTSTTSTT",
+    "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ",
+    "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH",
+    "GIÁ TRỊGIÁGIÁ  TRỊTRỊ",
+    "KÝ HIỆUKÝKÝ  HIỆUHIỆU"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "III",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí trực tiếpChi phí trực tiếpChi phí trực tiếp",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "TTT"
+    },
+    {
+      "STTSTTSTT": "IIIIII",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí gián tiếpChi phí gián tiếpChi phí gián tiếp",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "C + TTC + TTC + TT",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GTGTGT"
+    },
+    {
+      "STTSTTSTT": "111",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí chungChi phí chungChi phí chung",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "T × Tỷ lệ × 50%T × Tỷ lệ × 50%T × Tỷ lệ × 50%",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "CCC"
+    },
+    {
+      "STTSTTSTT": "222",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí một số công việc không xác định được khối lượng từ thiết kếChi phí một số công việc không xác định được khối lượng từ thiết kếChi phí một số công việc không xác định được khối lượng từ thiết kế",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "T × Tỷ lệ × 50%T × Tỷ lệ × 50%T × Tỷ lệ × 50%",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "TTTTTT"
+    },
+    {
+      "STTSTTSTT": "IIIIIIIII",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Thu nhập chịu thuế tính trướcThu nhập chịu thuế tính trướcThu nhập chịu thuế tính trước",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(T + GT) × Tỷ lệ × 50%(T + GT) × Tỷ lệ × 50%(T + GT) × Tỷ lệ × 50%",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "TLTLTL"
+    },
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí xây dựng trước thuếChi phí xây dựng trước thuếChi phí xây dựng trước thuế",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(T + GT + TL)(T + GT + TL)(T + GT + TL)",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GXDTTGGXDTTXDTT"
+    },
+    {
+      "STTSTTSTT": "IVIVIV",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Thuế giá trị gia tăngThuế giá trị gia tăngThuế giá trị gia tăng",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "GXDTT x TGTGTGGXDTTXDTT  x Tx TGTGTGTGT",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GTGTGTGTGTGT"
+    },
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "CHI PHÍ XÂY DỰNG SAU THUẾCHI PHÍ XÂY DỰNG SAUCHI PHÍ XÂY DỰNG SAU  THUẾTHUẾ",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "GXDTT + GTGTGGXDTTXDTT  + G+ GTGTTGT",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": "VVV",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí nhà tạm để ở và điều hành thi côngChi phí nhà tạm để ở và Chi phí nhà tạm để ở và điềuđiều  hành thi cônghành thi công",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "GXDTT x Tỷ lệ x TGTGTGGXDTTXDTT  x Tỷ lệ x Tx Tỷ lệ x TGTGTGTGT",
+      "GIÁ TRỊGIÁGIÁ  TRỊTRỊ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "LTLTLT"
+    }
+  ],
+  "footnotes": []
+}

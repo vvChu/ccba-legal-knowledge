@@ -1,0 +1,69 @@
+{
+  "table_id": "bang_07",
+  "title": "Bảng 07",
+  "rows_count": 12,
+  "columns_count": 3,
+  "headers": [
+    "Số TTSố TTSố TT",
+    "Nội dungNội dungNội dung",
+    "Ký hiệuKý hiệuKý hiệu"
+  ],
+  "records": [
+    {
+      "Số TTSố TTSố TT": "III",
+      "Nội dungNội dungNội dung": "Chi phí quản lý dự án:Chi phí quản lý dự án:Chi phí quản lý dự án:",
+      "Ký hiệuKý hiệuKý hiệu": "GQLDAGGQLDAQLDA"
+    },
+    {
+      "Số TTSố TTSố TT": "IIIIII",
+      "Nội dungNội dungNội dung": "Các khoản chi phí tư vấn do chủ đầu tư, BQLDA tự thực hiện:Các khoản chi phí tư vấn do chủ đầu tư, BQLDA tự thực hiện:Các khoản chi phí tư vấn do chủ đầu tư, BQLDA tự thực hiện:",
+      "Ký hiệuKý hiệuKý hiệu": "GTVGGTVTV"
+    },
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dungNội dungNội dung": "..................",
+      "Ký hiệuKý hiệuKý hiệu": ""
+    },
+    {
+      "Số TTSố TTSố TT": ".........",
+      "Nội dungNội dungNội dung": "..................",
+      "Ký hiệuKý hiệuKý hiệu": ""
+    },
+    {
+      "Số TTSố TTSố TT": "IIIIIIIII",
+      "Nội dungNội dungNội dung": "Chi khác do chủ đầu tư, BQLDA được phép thực hiện theo quy định của pháp luật (nếu có):Chi khác do chủ đầu tư, BQLDA được phép thực hiện theo quy định của pháp luật (nếu có):Chi khác do chủ đầu tư, BQLDA được phép thực hiện theo quy định của pháp luật (nếu có):",
+      "Ký hiệuKý hiệuKý hiệu": "GKGGKK"
+    },
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dungNội dungNội dung": "..................",
+      "Ký hiệuKý hiệuKý hiệu": ""
+    },
+    {
+      "Số TTSố TTSố TT": ".........",
+      "Nội dungNội dungNội dung": "..................",
+      "Ký hiệuKý hiệuKý hiệu": ""
+    },
+    {
+      "Số TTSố TTSố TT": "IVIVIV",
+      "Nội dungNội dungNội dung": "Dự kiến những công việc thuộc chi phí QLDA cần phải thuê tư vấn (nếu có):Dự kiến những công việc thuộc chi phí QLDA cần phải thuê tư vấn (nếu có):Dự kiến những công việc thuộc chi phí QLDA cần phải thuê tư vấn (nếu có):",
+      "Ký hiệuKý hiệuKý hiệu": "GTGGTT"
+    },
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dungNội dungNội dung": "..................",
+      "Ký hiệuKý hiệuKý hiệu": ""
+    },
+    {
+      "Số TTSố TTSố TT": ".........",
+      "Nội dungNội dungNội dung": "..................",
+      "Ký hiệuKý hiệuKý hiệu": ""
+    },
+    {
+      "Số TTSố TTSố TT": "VVV",
+      "Nội dungNội dungNội dung": "Tổng mức kinh phí do chủ đầu tư, BQLDA được sử dụngTổng mức kinh phí do chủ đầu tư, BQLDA được sử dụngTổng mức kinh phí do chủ đầu tư, BQLDA được sử dụng(V = I + II + III - IV)(V = I + II + III - IV)(V = I + II + III - IV)GQLDA (CĐT) = GQLDA + GTV + GK - GTGGQLDA (CĐT)QLDA (CĐT)  = = GGQLDAQLDA +  + GGTVTV +  + GGKK  -- G GTTTrong đó: - Chủ đầu tư sử dụng:Trong đó: - Chủ đầu tư sử dụng:Trong đó: - Chủ đầu tư sử dụng:                - BQLDA sử dụng:                - BQLDA sử dụng:                - BQLDA sử dụng:",
+      "Ký hiệuKý hiệuKý hiệu": "GQLDA (CĐT)GGQLDA (CĐT)QLDA (CĐT)"
+    }
+  ],
+  "footnotes": []
+}

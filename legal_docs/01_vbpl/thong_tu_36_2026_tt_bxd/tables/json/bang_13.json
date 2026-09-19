@@ -1,0 +1,65 @@
+{
+  "table_id": "bang_13",
+  "title": "Bảng 13",
+  "rows_count": 7,
+  "columns_count": 6,
+  "headers": [
+    "STTSTTSTT",
+    "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ",
+    "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ",
+    "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT",
+    "GIÁ TRỊ SAU THUẾGIÁ TRỊGIÁ TRỊ  SAU THUẾSAU THUẾ",
+    "KÝ HIỆUKÝKÝ  HIỆUHIỆU"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "[2][2][2]",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "[3][3][3]",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "[4][4][4]",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊGIÁ TRỊ  SAU THUẾSAU THUẾ": "[5][5][5]",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "[6][6][6]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí thiết kế xây dựng công trìnhChiChi  phíphí  thiếtthiết  kếkế  xâyxây  dựngdựng  công trìnhcông trình",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊGIÁ TRỊ  SAU THUẾSAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GTKGGTKTK"
+    },
+    {
+      "STTSTTSTT": "222",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí giám sát thi công xây dựngChi phí giám sát thi công xâyChi phí giám sát thi công xây  dựngdựng",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊGIÁ TRỊ  SAU THUẾSAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GGSGGGSGS"
+    },
+    {
+      "STTSTTSTT": ".........",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": ".........",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊGIÁ TRỊ  SAU THUẾSAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": ""
+    },
+    {
+      "STTSTTSTT": ".........",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí tư vấn khác có liên quan đến công trình (nếu có)Chi phí tư vấn khác có liên quan đến công trình (nếu có)Chi phí tư vấn khác có liên quan đến công trình (nếu có)",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊGIÁ TRỊ  SAU THUẾSAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GTVKGGTVKTVK"
+    },
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "TỔNG CỘNGTỔNG CỘNGTỔNG CỘNG",
+      "GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ": "",
+      "THUẾ GTGTTHUẾTHUẾ  GTGTGTGT": "",
+      "GIÁ TRỊ SAU THUẾGIÁ TRỊGIÁ TRỊ  SAU THUẾSAU THUẾ": "",
+      "KÝ HIỆUKÝKÝ  HIỆUHIỆU": "GTVGGTVTV"
+    }
+  ],
+  "footnotes": []
+}

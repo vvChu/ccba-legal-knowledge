@@ -1,0 +1,101 @@
+{
+  "table_id": "bang_35",
+  "title": "Bảng 35",
+  "rows_count": 7,
+  "columns_count": 12,
+  "headers": [
+    "TÊN NHÓM CÔNG TÁC XÂY DỰNGTÊN NHÓTÊN NHÓM CÔNG TÁC XÂY DỰNGM CÔNG TÁC XÂY DỰNG",
+    "MÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGMÃ HIỆU GIÁ CÔNMÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGG TÁC XÂY DỰNG",
+    "TÊN CÔNG TÁCTÊN CÔNTÊN CÔNG TÁCG TÁC",
+    "TÊN CÔNG TÁCTÊN CÔNTÊN CÔNG TÁCG TÁC",
+    "ĐƠN VỊ TÍNHĐƠN VỊ TÍNĐƠN VỊ TÍNHH",
+    "KHỐI LƯỢNGKHỐI LƯỢNKHỐI LƯỢNGG",
+    "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — VẬT LIỆUVẬT LIỆVẬT LIỆUU",
+    "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — NHÂN CÔNGNHÂN CÔNNHÂN CÔNGG",
+    "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG",
+    "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — VẬT LIỆUVẬT LIỆVẬT LIỆUU",
+    "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — NHÂ N CÔNGNHÂ N CÔNGNHÂ N CÔNG",
+    "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG"
+  ],
+  "records": [
+    {
+      "TÊN NHÓM CÔNG TÁC XÂY DỰNGTÊN NHÓTÊN NHÓM CÔNG TÁC XÂY DỰNGM CÔNG TÁC XÂY DỰNG": "[1][1][1]",
+      "MÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGMÃ HIỆU GIÁ CÔNMÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGG TÁC XÂY DỰNG": "[2][2][2]",
+      "TÊN CÔNG TÁCTÊN CÔNTÊN CÔNG TÁCG TÁC": "[3][3][3]",
+      "ĐƠN VỊ TÍNHĐƠN VỊ TÍNĐƠN VỊ TÍNHH": "[4][4][4]",
+      "KHỐI LƯỢNGKHỐI LƯỢNKHỐI LƯỢNGG": "[5][5][5]",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — VẬT LIỆUVẬT LIỆVẬT LIỆUU": "[6][6][6]",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — NHÂN CÔNGNHÂN CÔNNHÂN CÔNGG": "[7][7][7]",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG": "[8][8][8]",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — VẬT LIỆUVẬT LIỆVẬT LIỆUU": "[9][9][9]",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — NHÂ N CÔNGNHÂ N CÔNGNHÂ N CÔNG": "[10][10][10]",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG": "[11][11][11]"
+    },
+    {
+      "TÊN NHÓM CÔNG TÁC XÂY DỰNGTÊN NHÓTÊN NHÓM CÔNG TÁC XÂY DỰNGM CÔNG TÁC XÂY DỰNG": "Giá nhóm công tác xây dựng 1Giá nhóm côngGiá nhóm công  táctác  xâyxây  dựng 1dựng 1",
+      "MÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGMÃ HIỆU GIÁ CÔNMÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGG TÁC XÂY DỰNG": "DG.1DG.1DG.1",
+      "TÊN CÔNG TÁCTÊN CÔNTÊN CÔNG TÁCG TÁC": "",
+      "ĐƠN VỊ TÍNHĐƠN VỊ TÍNĐƠN VỊ TÍNHH": "",
+      "KHỐI LƯỢNGKHỐI LƯỢNKHỐI LƯỢNGG": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — VẬT LIỆUVẬT LIỆVẬT LIỆUU": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — NHÂN CÔNGNHÂN CÔNNHÂN CÔNGG": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG": "",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — VẬT LIỆUVẬT LIỆVẬT LIỆUU": "",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — NHÂ N CÔNGNHÂ N CÔNGNHÂ N CÔNG": "",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG": ""
+    },
+    {
+      "TÊN NHÓM CÔNG TÁC XÂY DỰNGTÊN NHÓTÊN NHÓM CÔNG TÁC XÂY DỰNGM CÔNG TÁC XÂY DỰNG": "Giá nhóm công tác xây dựng 1Giá nhóm côngGiá nhóm công  táctác  xâyxây  dựng 1dựng 1",
+      "MÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGMÃ HIỆU GIÁ CÔNMÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGG TÁC XÂY DỰNG": "DG.2DG.2DG.2",
+      "TÊN CÔNG TÁCTÊN CÔNTÊN CÔNG TÁCG TÁC": "",
+      "ĐƠN VỊ TÍNHĐƠN VỊ TÍNĐƠN VỊ TÍNHH": "",
+      "KHỐI LƯỢNGKHỐI LƯỢNKHỐI LƯỢNGG": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — VẬT LIỆUVẬT LIỆVẬT LIỆUU": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — NHÂN CÔNGNHÂN CÔNNHÂN CÔNGG": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG": "",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — VẬT LIỆUVẬT LIỆVẬT LIỆUU": "",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — NHÂ N CÔNGNHÂ N CÔNGNHÂ N CÔNG": "",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG": ""
+    },
+    {
+      "TÊN NHÓM CÔNG TÁC XÂY DỰNGTÊN NHÓTÊN NHÓM CÔNG TÁC XÂY DỰNGM CÔNG TÁC XÂY DỰNG": "Giá nhóm công tác xây dựng 1Giá nhóm côngGiá nhóm công  táctác  xâyxây  dựng 1dựng 1",
+      "MÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGMÃ HIỆU GIÁ CÔNMÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGG TÁC XÂY DỰNG": ".........",
+      "TÊN CÔNG TÁCTÊN CÔNTÊN CÔNG TÁCG TÁC": "",
+      "ĐƠN VỊ TÍNHĐƠN VỊ TÍNĐƠN VỊ TÍNHH": "",
+      "KHỐI LƯỢNGKHỐI LƯỢNKHỐI LƯỢNGG": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — VẬT LIỆUVẬT LIỆVẬT LIỆUU": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — NHÂN CÔNGNHÂN CÔNNHÂN CÔNGG": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG": "",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — VẬT LIỆUVẬT LIỆVẬT LIỆUU": "",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — NHÂ N CÔNGNHÂ N CÔNGNHÂ N CÔNG": "",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG": ""
+    },
+    {
+      "TÊN NHÓM CÔNG TÁC XÂY DỰNGTÊN NHÓTÊN NHÓM CÔNG TÁC XÂY DỰNGM CÔNG TÁC XÂY DỰNG": "Giá nhóm công tác xây dựng 1Giá nhóm côngGiá nhóm công  táctác  xâyxây  dựng 1dựng 1",
+      "MÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGMÃ HIỆU GIÁ CÔNMÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGG TÁC XÂY DỰNG": "TỔNG CỘNGTỔNG CỘNGTỔNG CỘNG",
+      "TÊN CÔNG TÁCTÊN CÔNTÊN CÔNG TÁCG TÁC": "TỔNG CỘNGTỔNG CỘNGTỔNG CỘNG",
+      "ĐƠN VỊ TÍNHĐƠN VỊ TÍNĐƠN VỊ TÍNHH": "",
+      "KHỐI LƯỢNGKHỐI LƯỢNKHỐI LƯỢNGG": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — VẬT LIỆUVẬT LIỆVẬT LIỆUU": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — NHÂN CÔNGNHÂN CÔNNHÂN CÔNGG": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG": "",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — VẬT LIỆUVẬT LIỆVẬT LIỆUU": "VLVLVL",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — NHÂ N CÔNGNHÂ N CÔNGNHÂ N CÔNG": "NCNCNC",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG": "MMM"
+    },
+    {
+      "TÊN NHÓM CÔNG TÁC XÂY DỰNGTÊN NHÓTÊN NHÓM CÔNG TÁC XÂY DỰNGM CÔNG TÁC XÂY DỰNG": "Giá nhóm công tác xây dựng 2Giá nhóm côngGiá nhóm công  táctác  xâyxây  dựng 2dựng 2",
+      "MÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGMÃ HIỆU GIÁ CÔNMÃ HIỆU GIÁ CÔNG TÁC XÂY DỰNGG TÁC XÂY DỰNG": "………",
+      "TÊN CÔNG TÁCTÊN CÔNTÊN CÔNG TÁCG TÁC": "",
+      "ĐƠN VỊ TÍNHĐƠN VỊ TÍNĐƠN VỊ TÍNHH": "",
+      "KHỐI LƯỢNGKHỐI LƯỢNKHỐI LƯỢNGG": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — VẬT LIỆUVẬT LIỆVẬT LIỆUU": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — NHÂN CÔNGNHÂN CÔNNHÂN CÔNGG": "",
+      "GIÁ YẾU TỐ CHI PHÍGIÁ YẾU TỐGIÁ YẾU TỐ  CHI PHÍCHI PHÍ — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG": "",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — VẬT LIỆUVẬT LIỆVẬT LIỆUU": "",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — NHÂ N CÔNGNHÂ N CÔNGNHÂ N CÔNG": "",
+      "THÀNH TIỀNTHÀNH TIỀNTHÀNH TIỀN — MÁY THI CÔNGMÁY THI CÔNMÁY THI CÔNGG": ""
+    }
+  ],
+  "footnotes": []
+}

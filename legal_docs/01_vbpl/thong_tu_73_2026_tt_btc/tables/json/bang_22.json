@@ -1,0 +1,29 @@
+{
+  "table_id": "bang_22",
+  "title": "Bảng 22",
+  "rows_count": 2,
+  "columns_count": 8,
+  "headers": [
+    "Số TTSố TTSố TT",
+    "Tên và ký hiệu tài sản; quy mô, công suất (riêng đối với thiết bị ghi rõ thêm chủng loại, xuất xứ, năm sản xuất)Tên và ký hiệu tài sản; quy mô, công suất (riêng đối với thiết bị ghi rõ thêm chủng loại, xuất xứ, năm sản xuất)Tên và ký hiệu tài sản; quy mô, công suất (riêng đối với thiết bị ghi rõ thêm chủng loại, xuất xứ, năm sản xuất)",
+    "Đơn vị tínhĐơn vị tínhĐơn vị tính",
+    "Số lượngSố lượngSố lượng",
+    "Giá đơn vị (đồng)Giá đơn vị Giá đơn vị (đồng)(đồng)",
+    "Tổng nguyên giá (đồng)Tổng nguyên giá Tổng nguyên giá (đồng)(đồng)",
+    "Ngày đưa tài sản vào sử dụngNgày đưa tài sản vào sử dụngNgày đưa tài sản vào sử dụng",
+    "Đơn vị tiếp nhận sử dụng (nếu có)Đơn vị tiếp nhận sử dụng (nếu có)Đơn vị tiếp nhận sử dụng (nếu có)"
+  ],
+  "records": [
+    {
+      "Số TTSố TTSố TT": "111222………",
+      "Tên và ký hiệu tài sản; quy mô, công suất (riêng đối với thiết bị ghi rõ thêm chủng loại, xuất xứ, năm sản xuất)Tên và ký hiệu tài sản; quy mô, công suất (riêng đối với thiết bị ghi rõ thêm chủng loại, xuất xứ, năm sản xuất)Tên và ký hiệu tài sản; quy mô, công suất (riêng đối với thiết bị ghi rõ thêm chủng loại, xuất xứ, năm sản xuất)": ".........………………",
+      "Đơn vị tínhĐơn vị tínhĐơn vị tính": "",
+      "Số lượngSố lượngSố lượng": "",
+      "Giá đơn vị (đồng)Giá đơn vị Giá đơn vị (đồng)(đồng)": "",
+      "Tổng nguyên giá (đồng)Tổng nguyên giá Tổng nguyên giá (đồng)(đồng)": "",
+      "Ngày đưa tài sản vào sử dụngNgày đưa tài sản vào sử dụngNgày đưa tài sản vào sử dụng": "",
+      "Đơn vị tiếp nhận sử dụng (nếu có)Đơn vị tiếp nhận sử dụng (nếu có)Đơn vị tiếp nhận sử dụng (nếu có)": ""
+    }
+  ],
+  "footnotes": []
+}

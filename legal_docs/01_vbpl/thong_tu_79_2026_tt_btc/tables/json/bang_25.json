@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_25",
+  "title": "Bảng 25",
+  "rows_count": 5,
+  "columns_count": 5,
+  "headers": [
+    "Số TTSố TTSố TT",
+    "Tên dự án được giao quản lýTên dự án được giao quản lýTên dự án được giao quản lý",
+    "Tỷ lệ phân bổ (%)Tỷ lệ phân bổTỷ lệ phân bổ (%)(%)",
+    "Giá trị phân bổ (đồng)Giá trị phân bổGiá trị phân bổ (đồng)(đồng)",
+    "Ghi chúGhi chúGhi chú"
+  ],
+  "records": [
+    {
+      "Số TTSố TTSố TT": "",
+      "Tên dự án được giao quản lýTên dự án được giao quản lýTên dự án được giao quản lý": "Tổng cộngTổng cộngTổng cộng",
+      "Tỷ lệ phân bổ (%)Tỷ lệ phân bổTỷ lệ phân bổ (%)(%)": "100100100",
+      "Giá trị phân bổ (đồng)Giá trị phân bổGiá trị phân bổ (đồng)(đồng)": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "111",
+      "Tên dự án được giao quản lýTên dự án được giao quản lýTên dự án được giao quản lý": "Dự án ADự án ADự án A",
+      "Tỷ lệ phân bổ (%)Tỷ lệ phân bổTỷ lệ phân bổ (%)(%)": "",
+      "Giá trị phân bổ (đồng)Giá trị phân bổGiá trị phân bổ (đồng)(đồng)": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "222",
+      "Tên dự án được giao quản lýTên dự án được giao quản lýTên dự án được giao quản lý": "Dự án BDự án BDự án B",
+      "Tỷ lệ phân bổ (%)Tỷ lệ phân bổTỷ lệ phân bổ (%)(%)": "",
+      "Giá trị phân bổ (đồng)Giá trị phân bổGiá trị phân bổ (đồng)(đồng)": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "333",
+      "Tên dự án được giao quản lýTên dự án được giao quản lýTên dự án được giao quản lý": ".........",
+      "Tỷ lệ phân bổ (%)Tỷ lệ phân bổTỷ lệ phân bổ (%)(%)": "",
+      "Giá trị phân bổ (đồng)Giá trị phân bổGiá trị phân bổ (đồng)(đồng)": "",
+      "Ghi chúGhi chúGhi chú": ""
+    }
+  ],
+  "footnotes": []
+}

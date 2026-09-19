@@ -1,0 +1,39 @@
+{
+  "table_id": "bang_45",
+  "title": "Bảng 45",
+  "rows_count": 4,
+  "columns_count": 7,
+  "headers": [
+    "SttSttStt",
+    "Nhóm nhân công *Nhóm nhân công *Nhóm nhân công *",
+    "Tên nhân công* (Loại công tác)Tên nhân công*Tên nhân công*  (Loại công tác)(Loại công tác)",
+    "Đơn vị tính *Đơn vị tính *Đơn vị tính *",
+    "Giá nhân công xây dựng (đồng) *Giá nhân công xây dựngGiá nhân công xây dựng  (đồng) *(đồng) *",
+    "Giá nhân công xây dựng (đồng) *Giá nhân công xây dựngGiá nhân công xây dựng  (đồng) *(đồng) *",
+    "Giá nhân công xây dựng (đồng) *Giá nhân công xây dựngGiá nhân công xây dựng  (đồng) *(đồng) *"
+  ],
+  "records": [
+    {
+      "SttSttStt": "SttSttStt",
+      "Nhóm nhân công *Nhóm nhân công *Nhóm nhân công *": "Nhóm nhân công *Nhóm nhân công *Nhóm nhân công *",
+      "Tên nhân công* (Loại công tác)Tên nhân công*Tên nhân công*  (Loại công tác)(Loại công tác)": "Tên nhân công* (Loại công tác)Tên nhân công*Tên nhân công*  (Loại công tác)(Loại công tác)",
+      "Đơn vị tính *Đơn vị tính *Đơn vị tính *": "Đơn vị tính *Đơn vị tính *Đơn vị tính *",
+      "Giá nhân công xây dựng (đồng) *Giá nhân công xây dựngGiá nhân công xây dựng  (đồng) *(đồng) *": "Khu vực...KhuKhu  vực...vực..."
+    },
+    {
+      "SttSttStt": "SttSttStt",
+      "Nhóm nhân công *Nhóm nhân công *Nhóm nhân công *": "Nhóm nhân công *Nhóm nhân công *Nhóm nhân công *",
+      "Tên nhân công* (Loại công tác)Tên nhân công*Tên nhân công*  (Loại công tác)(Loại công tác)": "Tên nhân công* (Loại công tác)Tên nhân công*Tên nhân công*  (Loại công tác)(Loại công tác)",
+      "Đơn vị tính *Đơn vị tính *Đơn vị tính *": "Đơn vị tính *Đơn vị tính *Đơn vị tính *",
+      "Giá nhân công xây dựng (đồng) *Giá nhân công xây dựngGiá nhân công xây dựng  (đồng) *(đồng) *": "Vùng...Vùng...Vùng..."
+    },
+    {
+      "SttSttStt": "[1][1][1]",
+      "Nhóm nhân công *Nhóm nhân công *Nhóm nhân công *": "[2][2][2]",
+      "Tên nhân công* (Loại công tác)Tên nhân công*Tên nhân công*  (Loại công tác)(Loại công tác)": "[3][3][3]",
+      "Đơn vị tính *Đơn vị tính *Đơn vị tính *": "[4][4][4]",
+      "Giá nhân công xây dựng (đồng) *Giá nhân công xây dựngGiá nhân công xây dựng  (đồng) *(đồng) *": "[7][7][7]"
+    }
+  ],
+  "footnotes": []
+}

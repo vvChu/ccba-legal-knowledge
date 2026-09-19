@@ -1,0 +1,49 @@
+{
+  "table_id": "bang_25",
+  "title": "Bảng 25",
+  "rows_count": 5,
+  "columns_count": 6,
+  "headers": [
+    "STTSTTSTT",
+    "Nội dungNội dungNội dung",
+    "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤ 15≤ 15≤ 15",
+    "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤50≤50≤50",
+    "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤100≤100≤100",
+    "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — >100>100>100"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "Nội dungNội dungNội dung": "[2][2][2]",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤ 15≤ 15≤ 15": "[3][3][3]",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤50≤50≤50": "[4][4][4]",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤100≤100≤100": "[5][5][5]",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — >100>100>100": "[6][6][6]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "Nội dungNội dungNội dung": "Bảo dưỡng đường bộ, đường sắt, hệ thống báo hiệu hàng hảiBảo dưỡng đường bộ, đường sắt, hệ thống báo hiệuBảo dưỡng đường bộ, đường sắt, hệ thống báo hiệu  hàng hảihàng hải",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤ 15≤ 15≤ 15": "666666",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤50≤50≤50": "636363",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤100≤100≤100": "606060",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — >100>100>100": "565656"
+    },
+    {
+      "STTSTTSTT": "222",
+      "Nội dungNội dungNội dung": "Công trình nông nghiệp và môi trường thực hiện hoàn toàn bằng thủ côngCông trình nông nghiệp và môi trường thực hiện hoàn toàn bằng thủ côngCông trình nông nghiệp và môi trường thực hiện hoàn toàn bằng thủ công",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤ 15≤ 15≤ 15": "515151",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤50≤50≤50": "484848",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤100≤100≤100": "454545",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — >100>100>100": "424242"
+    },
+    {
+      "STTSTTSTT": "333",
+      "Nội dungNội dungNội dung": "Lắp đặt thiết bị công nghệ trong các công trình xây dựng; xây lắp đường dây tải điện và trạm biến áp; thí nghiệm hiệu chỉnh điện đường dây và trạm biến áp.Lắp đặt thiết bị công nghệ trong các công trình xây dựng; xây lắp đường dây tải điện và trạm biến áp; thí nghiệm hiệu chỉnh điện đường dây và trạm biến áp.Lắp đặt thiết bị công nghệ trong các công trình xây dựng; xây lắp đường dây tải điện và trạm biến áp; thí nghiệm hiệu chỉnh điện đường dây và trạm biến áp.",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤ 15≤ 15≤ 15": "656565",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤50≤50≤50": "626262",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — ≤100≤100≤100": "595959",
+      "Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng)Chi phí nhân công trong chi phí trực tiếp của dự toán xây dựng, lắp đặt của công trình (tỷ đồng) — >100>100>100": "555555"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,59 @@
+{
+  "table_id": "bang_04",
+  "title": "Bảng 04",
+  "rows_count": 10,
+  "columns_count": 3,
+  "headers": [
+    "Số TTSố TTSố TT",
+    "Số phụ lụcSố phụ lụcSố phụ lục",
+    "Tên mẫu biểuTên mẫu biểuTên mẫu biểu"
+  ],
+  "records": [
+    {
+      "Số TTSố TTSố TT": "111",
+      "Số phụ lụcSố phụ lụcSố phụ lục": "Mẫu số: 01(i)/DT-QLDAMẫu số: 01(i)/DT-QLDAMẫu số: 01(i)/DT-QLDA",
+      "Tên mẫu biểuTên mẫu biểuTên mẫu biểu": "Bảng tính chi phí tư vấn, quản lý dự án (lập riêng cho từng dự án).Bảng tính chi phí tư vấn, quản lý dự án (lập riêng cho từng dự án).Bảng tính chi phí tư vấn, quản lý dự án (lập riêng cho từng dự án)."
+    },
+    {
+      "Số TTSố TTSố TT": "222",
+      "Số phụ lụcSố phụ lụcSố phụ lục": "Mẫu số: 02/DT-QLDAMẫu số: 02/DT-QLDAMẫu số: 02/DT-QLDA",
+      "Tên mẫu biểuTên mẫu biểuTên mẫu biểu": "Bảng tính lương năm.Bảng tính lương năm.Bảng tính lương năm."
+    },
+    {
+      "Số TTSố TTSố TT": "333",
+      "Số phụ lụcSố phụ lụcSố phụ lục": "Mẫu số: 03/DT-QLDAMẫu số: 03/DT-QLDAMẫu số: 03/DT-QLDA",
+      "Tên mẫu biểuTên mẫu biểuTên mẫu biểu": "Dự toán thu, chi quản lý dự án năm.Dự toán thu, chi quản lý dự án năm.Dự toán thu, chi quản lý dự án năm."
+    },
+    {
+      "Số TTSố TTSố TT": "444",
+      "Số phụ lụcSố phụ lụcSố phụ lục": "Mẫu số: 01/QĐ-QLDAMẫu số: 01/QĐ-QLDAMẫu số: 01/QĐ-QLDA",
+      "Tên mẫu biểuTên mẫu biểuTên mẫu biểu": "Quyết định phê duyệt dự toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm I.Quyết định phê duyệt dự toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm I.Quyết định phê duyệt dự toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm I."
+    },
+    {
+      "Số TTSố TTSố TT": "555",
+      "Số phụ lụcSố phụ lụcSố phụ lục": "Mẫu số: 02/QĐ-QLDAMẫu số: 02/QĐ-QLDAMẫu số: 02/QĐ-QLDA",
+      "Tên mẫu biểuTên mẫu biểuTên mẫu biểu": "Quyết định phê duyệt dự toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II.Quyết định phê duyệt dự toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II.Quyết định phê duyệt dự toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II."
+    },
+    {
+      "Số TTSố TTSố TT": "666",
+      "Số phụ lụcSố phụ lụcSố phụ lục": "Mẫu số: 01/QT-QLDAMẫu số: 01/QT-QLDAMẫu số: 01/QT-QLDA",
+      "Tên mẫu biểuTên mẫu biểuTên mẫu biểu": "Báo cáo quyết toán thu, chi quản lý dự án năm của Chủ đầu tư, Ban quản lý dự án nhóm I.Báo cáo quyết toán thu, chi quản lý dự án năm của Chủ đầu tư, Ban quản lý dự án nhóm I.Báo cáo quyết toán thu, chi quản lý dự án năm của Chủ đầu tư, Ban quản lý dự án nhóm I."
+    },
+    {
+      "Số TTSố TTSố TT": "777",
+      "Số phụ lụcSố phụ lụcSố phụ lục": "Mẫu số: 01.QĐ/QT-QLDAMẫu số: 01.QĐ/QT-QLDAMẫu số: 01.QĐ/QT-QLDA",
+      "Tên mẫu biểuTên mẫu biểuTên mẫu biểu": "Quyết định phê duyệt quyết toán thu, chi quản lý dự án năm của Chủ đầu tư, Ban quản lý dự án nhóm I.Quyết định phê duyệt quyết toán thu, chi quản lý dự án năm của Chủ đầu tư, Ban quản lý dự án nhóm I.Quyết định phê duyệt quyết toán thu, chi quản lý dự án năm của Chủ đầu tư, Ban quản lý dự án nhóm I."
+    },
+    {
+      "Số TTSố TTSố TT": "888",
+      "Số phụ lụcSố phụ lụcSố phụ lục": "Mẫu số: 02/QT-QLDAMẫu số: 02/QT-QLDAMẫu số: 02/QT-QLDA",
+      "Tên mẫu biểuTên mẫu biểuTên mẫu biểu": "Báo cáo quyết toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II.Báo cáo quyết toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II.Báo cáo quyết toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II."
+    },
+    {
+      "Số TTSố TTSố TT": "999",
+      "Số phụ lụcSố phụ lụcSố phụ lục": "Mẫu số: 02.QĐ/QT-QLDAMẫu số: 02.QĐ/QT-QLDAMẫu số: 02.QĐ/QT-QLDA",
+      "Tên mẫu biểuTên mẫu biểuTên mẫu biểu": "Quyết định phê duyệt quyết toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II.Quyết định phê duyệt quyết toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II.Quyết định phê duyệt quyết toán thu, chi quản lý dự án năm của Ban quản lý dự án nhóm II."
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,25 @@
+{
+  "table_id": "bang_1_",
+  "title": "Bảng 1. Kết quả kiểm tra chất lượng các lô hàng hóa vật liệu xây dựng có mức độ rủi ro cao nhập khẩu đạt yêu cầu",
+  "rows_count": 2,
+  "columns_count": 6,
+  "headers": [
+    "TTTTTT",
+    "Tên hàng hóaTên hàng hóaTên hàng hóa",
+    "Tổng số (lô)Tổng số (lô)Tổng số (lô)",
+    "Đơn vị tínhĐơn vị tínhĐơn vị tính",
+    "Khối lượngKhối lượngKhối lượng",
+    "Nguồn gốc, xuất xứNguồn gốc, xuất xứNguồn gốc, xuất xứ"
+  ],
+  "records": [
+    {
+      "TTTTTT": "............",
+      "Tên hàng hóaTên hàng hóaTên hàng hóa": "",
+      "Tổng số (lô)Tổng số (lô)Tổng số (lô)": "",
+      "Đơn vị tínhĐơn vị tínhĐơn vị tính": "",
+      "Khối lượngKhối lượngKhối lượng": "",
+      "Nguồn gốc, xuất xứNguồn gốc, xuất xứNguồn gốc, xuất xứ": ""
+    }
+  ],
+  "footnotes": []
+}

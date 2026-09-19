@@ -1,0 +1,13 @@
+﻿STT STT STT,NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ NỘI DUNG CHI PHÍ,CÁCH TÍNH CÁCH TÍNH CÁCH TÍNH,GIÁ TRỊGIÁ TRỊGIÁ TRỊ,KÝ HIỆUKÝ HIỆUKÝ HIỆU
+III,Chi phí trực tiếpChi phí trực tiếpChi phí trực tiếp,VL + NC + MVL + NC + MVL + NC + M,,TTT
+1  1  1,Chi phí vật liệu  Chi phí vật liệu  Chi phí vật liệu,,,VL  VL  VL
+2  2  2,Chi phí nhân công  Chi phí nhân công  Chi phí nhân công,,,NC  NC  NC
+3  3  3,Chi phí máy và thiết bị thi công Chi phí máy và thiết bị thi công Chi phí máy và thiết bị thi công,,,M  M  M
+IIIIII,Chi phí gián tiếpChi phí gián tiếpChi phí gián tiếp,C + TTC + TTC + TT,,GTGTGT
+1 1 1,Chi phí chung Chi phí chung Chi phí chung,T x Tỷ lệ  T x Tỷ lệ  T x Tỷ lệ  (NC x Tỷ lệ)(NC x Tỷ lệ)(NC x Tỷ lệ),,C C C
+2  2  2,Chi phí một số công việc không xác định được khối lượng từ thiết kếChi phí một số công việc không xác định được khối lượng từ thiết kếChi phí một số công việc không xác định được khối lượng từ thiết kế,T x Tỷ lệ  T x Tỷ lệ  T x Tỷ lệ,,TT  TT  TT
+III III III,Thu nhập chịu thuế tính trướcThu nhập chịu thuế tính trướcThu nhập chịu thuế tính trước,(T + GT) x Tỷ lệ (T + GT) x Tỷ lệ (T + GT) x Tỷ lệ,,TL TL TL
+,Chi phí xây dựng trước thuếChi phí xây dựng trước thuếChi phí xây dựng trước thuế,(T + GT + TL)(T + GT + TL)(T + GT + TL),,GXDTTGGXDTTXDTT
+IVIVIV,Thuế giá trị gia tăngThuế giá trị gia tăngThuế giá trị gia tăng,GXDTT x TGTGTGGXDTTXDTT x T x TGTGTGTGT,,GTGTGTGTGTGT
+,CHI PHÍ XÂY DỰNG SAU THUẾCHI PHÍ XÂY DỰNG SAU THUẾCHI PHÍ XÂY DỰNG SAU THUẾ,GXDTT + GTGT G GXDTTXDTT + GTGT + GTGT,,
+V V V,Chi phí nhà tạm để ở và điều hành thi côngChi phí nhà tạm để ở và Chi phí nhà tạm để ở và điềuđiều hành thi công hành thi công,GXDTT x Tỷ lệ x TGTGT G GXDTTXDTT x Tỷ lệ x T x Tỷ lệ x TGTGTGTGT,,LT LT LT

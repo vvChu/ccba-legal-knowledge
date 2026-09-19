@@ -1,0 +1,98 @@
+[
+  {
+    "table_id": "bang_03",
+    "file_stem": "bang_03",
+    "title": "Bảng 03",
+    "columns_count": 4,
+    "rows_count": 122,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_03.json",
+    "csv_path": "tables/csv/bang_03.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_04",
+    "file_stem": "bang_04",
+    "title": "Bảng 04",
+    "columns_count": 2,
+    "rows_count": 2,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_04.json",
+    "csv_path": "tables/csv/bang_04.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_05",
+    "file_stem": "bang_05",
+    "title": "Bảng 05",
+    "columns_count": 4,
+    "rows_count": 146,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_05.json",
+    "csv_path": "tables/csv/bang_05.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_s",
+    "file_stem": "bang_s",
+    "title": "Bảng số 02. Dữ liệu về năng lực hoạt động xây dựng được thu thập, cập nhật qua thủ tục cấp chứng chỉ hành nghề hoạt động xây dựng để tạo lập cơ sở dữ liệu quốc gia về hoạt động xây dựng",
+    "columns_count": 4,
+    "rows_count": 12,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_s.json",
+    "csv_path": "tables/csv/bang_s.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_07",
+    "file_stem": "bang_07",
+    "title": "Bảng 07",
+    "columns_count": 3,
+    "rows_count": 19,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_07.json",
+    "csv_path": "tables/csv/bang_07.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_08",
+    "file_stem": "bang_08",
+    "title": "Bảng 08",
+    "columns_count": 2,
+    "rows_count": 3,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_08.json",
+    "csv_path": "tables/csv/bang_08.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_15",
+    "file_stem": "bang_15",
+    "title": "Bảng 15",
+    "columns_count": 2,
+    "rows_count": 2,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_15.json",
+    "csv_path": "tables/csv/bang_15.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_18",
+    "file_stem": "bang_18",
+    "title": "Bảng 18",
+    "columns_count": 2,
+    "rows_count": 1,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_18.json",
+    "csv_path": "tables/csv/bang_18.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  }
+]

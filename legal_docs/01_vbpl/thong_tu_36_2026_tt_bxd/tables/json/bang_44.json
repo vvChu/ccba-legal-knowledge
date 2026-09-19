@@ -1,0 +1,53 @@
+{
+  "table_id": "bang_44",
+  "title": "Bảng 44",
+  "rows_count": 3,
+  "columns_count": 14,
+  "headers": [
+    "SttSttStt",
+    "Nhóm vật liệu*Nhóm vật liệu*Nhóm vật liệu*",
+    "Tên vật liệu, loại vật liệu*Tên vật liệu,Tên vật liệu,  loại vật liệu*loại vật liệu*",
+    "Đơn vị tính*Đơn vị tính*Đơn vị tính*",
+    "Tiêu chuẩn kỹ thuật*Tiêu chuẩn kỹ thuật*Tiêu chuẩn kỹ thuật*",
+    "Quy cáchQuy cáchQuy cách",
+    "Nhà sản xuấtNhà sản xuấtNhà sản xuất",
+    "Xuất xứXuất xứXuất xứ",
+    "Điều kiện thương mạiĐiềuĐiều kiện thương mại kiện thương mại",
+    "Vận chuyển*Vận chuyển*Vận chuyển*",
+    "Ghi chúGhi chúGhi chú",
+    "Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*",
+    "Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*",
+    "Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*"
+  ],
+  "records": [
+    {
+      "SttSttStt": "SttSttStt",
+      "Nhóm vật liệu*Nhóm vật liệu*Nhóm vật liệu*": "Nhóm vật liệu*Nhóm vật liệu*Nhóm vật liệu*",
+      "Tên vật liệu, loại vật liệu*Tên vật liệu,Tên vật liệu,  loại vật liệu*loại vật liệu*": "Tên vật liệu, loại vật liệu*Tên vật liệu,Tên vật liệu,  loại vật liệu*loại vật liệu*",
+      "Đơn vị tính*Đơn vị tính*Đơn vị tính*": "Đơn vị tính*Đơn vị tính*Đơn vị tính*",
+      "Tiêu chuẩn kỹ thuật*Tiêu chuẩn kỹ thuật*Tiêu chuẩn kỹ thuật*": "Tiêu chuẩn kỹ thuật*Tiêu chuẩn kỹ thuật*Tiêu chuẩn kỹ thuật*",
+      "Quy cáchQuy cáchQuy cách": "Quy cáchQuy cáchQuy cách",
+      "Nhà sản xuấtNhà sản xuấtNhà sản xuất": "Nhà sản xuấtNhà sản xuấtNhà sản xuất",
+      "Xuất xứXuất xứXuất xứ": "Xuất xứXuất xứXuất xứ",
+      "Điều kiện thương mạiĐiềuĐiều kiện thương mại kiện thương mại": "Điều kiện thương mạiĐiềuĐiều kiện thương mại kiện thương mại",
+      "Vận chuyển*Vận chuyển*Vận chuyển*": "Vận chuyển*Vận chuyển*Vận chuyển*",
+      "Ghi chúGhi chúGhi chú": "Ghi chúGhi chúGhi chú",
+      "Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*": "Khu vực …KhuKhu  vựcvực  ……"
+    },
+    {
+      "SttSttStt": "[1][1][1]",
+      "Nhóm vật liệu*Nhóm vật liệu*Nhóm vật liệu*": "[2][2][2]",
+      "Tên vật liệu, loại vật liệu*Tên vật liệu,Tên vật liệu,  loại vật liệu*loại vật liệu*": "[3][3][3]",
+      "Đơn vị tính*Đơn vị tính*Đơn vị tính*": "[4][4][4]",
+      "Tiêu chuẩn kỹ thuật*Tiêu chuẩn kỹ thuật*Tiêu chuẩn kỹ thuật*": "[5][5][5]",
+      "Quy cáchQuy cáchQuy cách": "[6][6][6]",
+      "Nhà sản xuấtNhà sản xuấtNhà sản xuất": "[7][7][7]",
+      "Xuất xứXuất xứXuất xứ": "[8][8][8]",
+      "Điều kiện thương mạiĐiềuĐiều kiện thương mại kiện thương mại": "[9][9][9]",
+      "Vận chuyển*Vận chuyển*Vận chuyển*": "[10][10][10]",
+      "Ghi chúGhi chúGhi chú": "[11][11][11]",
+      "Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*Giá bán (chưa bao gồm thuế giá trị gia tăng) (đồng)*": "[14][14][14]"
+    }
+  ],
+  "footnotes": []
+}

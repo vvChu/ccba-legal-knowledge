@@ -1,0 +1,22 @@
+﻿STTSTTSTT,NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ,CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH,GIÁ TRỊGIÁGIÁ  TRỊTRỊ,KÝ HIỆUKÝKÝ  HIỆUHIỆU
+[1][1][1],[2][2][2],[3][3][3],[4][4][4],[5][5][5]
+III,CHI PHÍ TRỰC TIẾPCHI PHÍ TRỰC TIẾPCHI PHÍ TRỰC TIẾP,,,
+111,"Chi phí vật liệu, nhiên liệuChi phí vật liệu, nhiên liệuChi phí vật liệu, nhiên liệu",,,VLVLVL
+222,Chi phí nhân côngChi phí nhân côngChi phí nhân công,,,NCNCNC
+333,Chi phí máy và thiết bị khảo sátChi phí máy và thiết bị khảo sátChi phí máy và thiết bị khảo sát,,,MMM
+,Chi phí trực tiếpChi phí trực tiếpChi phí trực tiếp,VL + NC + MVL + NC + MVL + NC + M,,TTT
+IIIIII,CHI PHÍ GIÁN TIẾPCHI PHÍ GIÁN TIẾPCHI PHÍ GIÁN TIẾP,,,
+111,Chi phí chungChi phí chungChi phí chung,NC x Tỷ lệNC x Tỷ lệNC x Tỷ lệ,,CCC
+222,Chi phí nhà tạm để ở và điều hành thi côngChi phí nhà tạm để ở và Chi phí nhà tạm để ở và điềuđiều  hành thi cônghành thi công,T x Tỷ lệT x Tỷ lệT x Tỷ lệ,,LTLTLT
+333,Chi phí một số công việc không xác định được khối lượng từ thiết kếChi phí một số công việc không xác định được khối lượng từ thiết kếChi phí một số công việc không xác định được khối lượng từ thiết kế,T x Tỷ lệT x Tỷ lệT x Tỷ lệ,,TTTTTT
+,Chi phí gián tiếpChi phí gián tiếpChi phí gián tiếp,C + LT + TTC + LT + TTC + LT + TT,,GTGTGT
+IIIIIIIII,THU NHẬP CHỊU THUẾ TÍNH TRƯỚCTHU NHẬP CHỊU THUẾTHU NHẬP CHỊU THUẾ  TÍNH TRƯỚCTÍNH TRƯỚC,(T + GT) x 6%(T + GT) x 6%(T + GT) x 6%,,TLTLTL
+IVIVIV,CHI PHÍ PHỤC VỤ CÔNG TÁC KHẢO SÁT XÂY DỰNGCHI PHÍ PHỤC VỤ CÔNG TÁC KHẢO SÁT XÂY DỰNGCHI PHÍ PHỤC VỤ CÔNG TÁC KHẢO SÁT XÂY DỰNG,,,CpvksCCpvkspvks
+111,Chi phí lập phương án kỹ thuật khảo sát xây dựngChi phí lập phương án kỹ thuật khảo sát xây dựngChi phí lập phương án kỹ thuật khảo sát xây dựng,(T+GT+TL) x Tỷ lệ(T+GT+TL) x Tỷ lệ(T+GT+TL) x Tỷ lệ,,
+222,Chi phí lập báo cáo kết quả khảo sát xây dựngChi phí lập báo cáo kết quả khảo sát xây dựngChi phí lập báo cáo kết quả khảo sát xây dựng,(T+GT+TL) x Tỷ lệ(T+GT+TL) x Tỷ lệ(T+GT+TL) x Tỷ lệ,,
+333,Chi phí khác phục vụ khảo sátChi phí khác phục vụ khảo sátChi phí khác phục vụ khảo sát,,,
+,Chi phí khảo sát xây dựng trước thuếChi phí khảo sát xây dựng trước thuếChi phí khảo sát xây dựng trước thuế,(T+GT+TL) + Cpvks(T+GT+TL) + C(T+GT+TL) + Cpvkspvks,,GGG
+VVV,THUẾ GIÁ TRỊ GIA TĂNGTHUẾ GIÁ TRỊ GIA TĂNGTHUẾ GIÁ TRỊ GIA TĂNG,G x TGTGTG x TG x TGTGTGTGT,,GTGTGTGTGTGT
+VIVIVI,CHI PHÍ NHÀ TẠM ĐỂ Ở VÀ ĐIỀU HÀNH THI CÔNGCHI PHÍ NHÀ TẠM ĐỂ Ở VÀCHI PHÍ NHÀ TẠM ĐỂ Ở VÀ  ĐIỀUĐIỀU HÀNH THI CÔNG HÀNH THI CÔNG,(G+GTGT) x Tỷ lệ(G+GTGT) x Tỷ lệ(G+GTGT) x Tỷ lệ,,LTLTLT
+VIIVIIVII,CHI PHÍ DỰ PHÒNGCHI PHÍ DỰ PHÒNGCHI PHÍ DỰ PHÒNG,(G + GTGT) x Tỷ lệ(G + GTGT) x Tỷ lệ(G + GTGT) x Tỷ lệ,,CdpCCdpdp
+,Chi phí khảo sát xây dựngChi phí khảo sát xây dựngChi phí khảo sát xây dựng,G + GTGT +LT+ CdpG + GTGT +LT+ CG + GTGT +LT+ Cdpdp,,GksGGksks

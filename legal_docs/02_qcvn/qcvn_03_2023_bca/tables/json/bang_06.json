@@ -1,0 +1,738 @@
+{
+  "table_id": "bang_06",
+  "title": "Bảng 06",
+  "rows_count": 81,
+  "columns_count": 7,
+  "headers": [
+    "STTSTTSTT",
+    "Tên sản phẩmTên sản phẩmTên sản phẩm",
+    "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật",
+    "Mức yêu cầuMức yêu cầuMức yêu cầu",
+    "Phương pháp thửPhương pháp thửPhương pháp thử",
+    "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu",
+    "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "1. Kiểm tra sơ bộ1. Kiểm tra sơ bộ1. Kiểm tra sơ bộ",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "5 TCVN 6305-1:20075 TCVN 6305-1:20075 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.2 TCVN 6305-1:20077.2 TCVN 6305-1:20077.2 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "2. Đo kích thước2. Đo kích thước2. Đo kích thước",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.1 TCVN 6305-1:20076.1 TCVN 6305-1:20076.1 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.3 TCVN 6305-1:20077.3 TCVN 6305-1:20077.3 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "3. Thử tải trọng làm việc và độ bền của thân3. Thử tải trọng làm việc và độ bền của thân3. Thử tải trọng làm việc và độ bền của thân",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.6.1 TCVN 6305-1:20076.6.1 TCVN 6305-1:20076.6.1 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.4 TCVN 6305-1:20077.4 TCVN 6305-1:20077.4 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "4. Khả năng chống rò rỉ và độ bền thủy tĩnh4. Khả năng chống rò rỉ và độ bền thủy tĩnh4. Khả năng chống rò rỉ và độ bền thủy tĩnh",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "5, 6.8 TCVN 6305-1:20075, 6.8 TCVN 6305-1:20075, 6.8 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.5 TCVN 6305-1:20077.5 TCVN 6305-1:20077.5 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "5. Chức năng5. Chức năng5. Chức năng",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.5.1 TCVN 6305-1:20076.5.1 TCVN 6305-1:20076.5.1 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.6 TCVN 6305-1:20077.6 TCVN 6305-1:20077.6 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "6. Nhiệt độ làm việc6. Nhiệt độ làm việc6. Nhiệt độ làm việc",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.3 TCVN 6305-1:20076.3 TCVN 6305-1:20076.3 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.7 TCVN 6305-1:20077.7 TCVN 6305-1:20077.7 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "7. Sự tăng nhiệt động lực học và hệ số dẫn (*)7. Sự tăng nhiệt động lực học và hệ số dẫn (*)7. Sự tăng nhiệt động lực học và hệ số dẫn (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.14 TCVN 6305-1:20076.14 TCVN 6305-1:20076.14 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.7.2 TCVN 6305-1:20077.7.2 TCVN 6305-1:20077.7.2 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "8. Khả năng chịu nhiệt8. Khả năng chịu nhiệt8. Khả năng chịu nhiệt",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.9 TCVN 6305-1:20076.9 TCVN 6305-1:20076.9 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.8.1 TCVN 6305-1:20077.8.1 TCVN 6305-1:20077.8.1 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "9. Thay đổi nhiệt độ đột ngột (sốc nhiệt)9. Thay đổi nhiệt độ đột ngột (sốc nhiệt)9. Thay đổi nhiệt độ đột ngột (sốc nhiệt)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.10 TCVN 6305-1:20076.10 TCVN 6305-1:20076.10 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.9 TCVN 6305-1:20077.9 TCVN 6305-1:20077.9 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "10. Lưu lượng nước10. Lưu lượng nước10. Lưu lượng nước",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.4.1 TCVN 6305-1:20076.4.1 TCVN 6305-1:20076.4.1 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.11 TCVN 6305-1:20077.11 TCVN 6305-1:20077.11 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "11. Phân bố nước11. Phân bố nước11. Phân bố nước",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.4.2 TCVN 6305-1:20076.4.2 TCVN 6305-1:20076.4.2 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.12 TCVN 6305-1:20077.12 TCVN 6305-1:20077.12 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "12. Ăn mòn do sương muối (*)12. Ăn mòn do sương muối (*)12. Ăn mòn do sương muối (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.11.3 TCVN 6305-1:20076.11.3 TCVN 6305-1:20076.11.3 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.13.3 TCVN 6305-1:20077.13.3 TCVN 6305-1:20077.13.3 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "13. Thử ăn mòn do sunfua đioxit (*)13. Thử ăn mòn do sunfua đioxit (*)13. Thử ăn mòn do sunfua đioxit (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.11.2 TCVN 6305-1:20076.11.2 TCVN 6305-1:20076.11.2 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.13.2 TCVN 6305-1:20077.13.2 TCVN 6305-1:20077.13.2 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "14. Độ bền chịu nhiệt (đối với Sprinkler mở nhanh) (*)14. Độ bền chịu nhiệt (đối với Sprinkler mở nhanh) (*)14. Độ bền chịu nhiệt (đối với Sprinkler mở nhanh) (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.15 TCVN 6305-1:20076.15 TCVN 6305-1:20076.15 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.15 TCVN 6305-1:20077.15 TCVN 6305-1:20077.15 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "15. Va đập thủy lực15. Va đập thủy lực15. Va đập thủy lực",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.13 TCVN 6305-1:20076.13 TCVN 6305-1:20076.13 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.16 TCVN 6305-1:20077.16 TCVN 6305-1:20077.16 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "16. Thử rung16. Thử rung16. Thử rung",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.16 TCVN 6305-1:20076.16 TCVN 6305-1:20076.16 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.17 TCVN 6305-1:20077.17 TCVN 6305-1:20077.17 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "17. Va đập17. Va đập17. Va đập",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.17 TCVN 6305-1:20076.17 TCVN 6305-1:20076.17 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.18 TCVN 6305-1:20077.18 TCVN 6305-1:20077.18 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.1.2.6.1.2.6.1.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)Đầu phun kín (Sprinkler)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "18. Thử phản ứng nhiệt độ đối với sprinkler lắp chìm có nắp đậy, sprinkler trần và sprinkler lắp chìm (*)18. Thử phản ứng nhiệt độ đối với sprinkler lắp chìm có nắp đậy, sprinkler trần và sprinkler lắp chìm (*)18. Thử phản ứng nhiệt độ đối với sprinkler lắp chìm có nắp đậy, sprinkler trần và sprinkler lắp chìm (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.24 TCVN 6305-1:20076.24 TCVN 6305-1:20076.24 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.25 TCVN 6305-1:20077.25 TCVN 6305-1:20077.25 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:1. Lô phương tiện thử nghiệm lần đầu:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:- Đối với các sprinkler không phải loại sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần:+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu 194 ≤ n < 10.000 thì lấy 194 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;+ Nếu n > 10.000 thì lấy 388 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;- Đối với các sprinkler lắp chìm, sprinkler lắp chìm có nắp đậy và sprinkler trần, số lượng lấy mẫu tăng thêm 10 mẫu;2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:2. Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu 124 ≤ n < 10.000 thì lấy 124 mẫu;+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.+ Nếu n > 10000 thì lấy 248 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.2.2.6.2.2.6.2.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun hở (Drencher)Đầu phun hở (Drencher)Đầu phun hở (Drencher)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "1. Kiểm tra sơ bộ1. Kiểm tra sơ bộ1. Kiểm tra sơ bộ",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.5 TCVN 6305-1:20074.5 TCVN 6305-1:20074.5 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.2 TCVN 6305-1:20077.2 TCVN 6305-1:20077.2 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.2.2.6.2.2.6.2.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun hở (Drencher)Đầu phun hở (Drencher)Đầu phun hở (Drencher)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "2. Đo kích thước2. Đo kích thước2. Đo kích thước",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "7.3 TCVN 6305-1:20077.3 TCVN 6305-1:20077.3 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.3 TCVN 6305-1:20077.3 TCVN 6305-1:20077.3 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.2.2.6.2.2.6.2.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun hở (Drencher)Đầu phun hở (Drencher)Đầu phun hở (Drencher)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "3. Lưu lượng nước3. Lưu lượng nước3. Lưu lượng nước",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.4.1 TCVN 6305-1:20076.4.1 TCVN 6305-1:20076.4.1 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.11 TCVN 6305-1:20077.11 TCVN 6305-1:20077.11 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.2.2.6.2.2.6.2.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun hở (Drencher)Đầu phun hở (Drencher)Đầu phun hở (Drencher)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "4. Phân bố nước4. Phân bố nước4. Phân bố nước",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.4.2 TCVN 6305-1:20076.4.2 TCVN 6305-1:20076.4.2 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.12 TCVN 6305-1:20077.12 TCVN 6305-1:20077.12 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.2.2.6.2.2.6.2.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun hở (Drencher)Đầu phun hở (Drencher)Đầu phun hở (Drencher)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "5. Ăn mòn do sương muối (*)5. Ăn mòn do sương muối (*)5. Ăn mòn do sương muối (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.11.3 TCVN 6305-1:20076.11.3 TCVN 6305-1:20076.11.3 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.13.3 TCVN 6305-1:20077.13.3 TCVN 6305-1:20077.13.3 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.2.2.6.2.2.6.2.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun hở (Drencher)Đầu phun hở (Drencher)Đầu phun hở (Drencher)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "6. Thử ăn mòn do sunfua đioxit (*)6. Thử ăn mòn do sunfua đioxit (*)6. Thử ăn mòn do sunfua đioxit (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.11.2 TCVN 6305-1:20076.11.2 TCVN 6305-1:20076.11.2 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.13.2 TCVN 6305-1:20077.13.2 TCVN 6305-1:20077.13.2 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.2.2.6.2.2.6.2.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun hở (Drencher)Đầu phun hở (Drencher)Đầu phun hở (Drencher)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "7. Độ bền chịu nhiệt7. Độ bền chịu nhiệt7. Độ bền chịu nhiệt",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.15 TCVN 6305-1:20076.15 TCVN 6305-1:20076.15 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.15 TCVN 6305-1:20077.15 TCVN 6305-1:20077.15 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.2.2.6.2.2.6.2.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun hở (Drencher)Đầu phun hở (Drencher)Đầu phun hở (Drencher)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "8. Thử rung8. Thử rung8. Thử rung",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.16 TCVN 6305-1:20076.16 TCVN 6305-1:20076.16 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.17 TCVN 6305-1:20077.17 TCVN 6305-1:20077.17 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.2.2.6.2.2.6.2.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Đầu phun hở (Drencher)Đầu phun hở (Drencher)Đầu phun hở (Drencher)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "9. Thử va đập9. Thử va đập9. Thử va đập",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "6.17 TCVN 6305-1:20076.17 TCVN 6305-1:20076.17 TCVN 6305-1:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.18 TCVN 6305-1:20077.18 TCVN 6305-1:20077.18 TCVN 6305-1:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu 39 ≤ n ≤ 10.000 thì lấy 39 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;+ Nếu n > 10.000 thì lấy 78 mẫu;- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu 19 ≤ n ≤ 10.000 thì lấy 19 mẫu;+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.+ Nếu n > 10000 thì lấy 38 mẫu.",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8424.90.308424.90.308424.90.30"
+    },
+    {
+      "STTSTTSTT": "2.6.3.2.6.3.2.6.3.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van báo động (Alarm Valve)Van báo động (Alarm Valve)Van báo động (Alarm Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "1. Ngoại quan1. Ngoại quan1. Ngoại quan",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "Không tồn tại các điểm rạn, vỡ, nứt, gãyKhông tồn tại các điểm rạn, vỡ, nứt, gãyKhông tồn tại các điểm rạn, vỡ, nứt, gãy",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "Kiểm tra bằng trực quanKiểm tra bằng trực quanKiểm tra bằng trực quan",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.3.2.6.3.2.6.3.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van báo động (Alarm Valve)Van báo động (Alarm Valve)Van báo động (Alarm Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "2. Lò xo và màng (*)2. Lò xo và màng (*)2. Lò xo và màng (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.7.6 TCVN 6305-2:20074.7.6 TCVN 6305-2:20074.7.6 TCVN 6305-2:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.2 TCVN 6305-2:20076.2 TCVN 6305-2:20076.2 TCVN 6305-2:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.3.2.6.3.2.6.3.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van báo động (Alarm Valve)Van báo động (Alarm Valve)Van báo động (Alarm Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "3. Sức chịu đựng3. Sức chịu đựng3. Sức chịu đựng",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.13 TCVN 6305-2:20074.13 TCVN 6305-2:20074.13 TCVN 6305-2:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "Sử dụng thiết bị thử mô tả trong 6.11.2.2 theo TCVN 6305-2:2007, điều chỉnh lưu lượng tới giá trị thích hợp cho trong Bảng 1 TCVN 6305-2:2007, với dung sai (+5%) cho dòng nước với lưu lượng được hiệu chỉnh chảy qua van trong thời gian 30 (+5) phútSử dụng thiết bị thử mô tả trong 6.11.2.2 theo TCVN 6305-2:2007, điều chỉnh lưu lượng tới giá trị thích hợp cho trong Bảng 1 TCVN 6305-2:2007, với dung sai (+5%) cho dòng nước với lưu lượng được hiệu chỉnh chảy qua van trong thời gian 30 (+5) phútSử dụng thiết bị thử mô tả trong 6.11.2.2 theo TCVN 6305-2:2007, điều chỉnh lưu lượng tới giá trị thích hợp cho trong Bảng 1 TCVN 6305-2:2007, với dung sai (+5%) cho dòng nước với lưu lượng được hiệu chỉnh chảy qua van trong thời gian 30 (+5) phút",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.3.2.6.3.2.6.3.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van báo động (Alarm Valve)Van báo động (Alarm Valve)Van báo động (Alarm Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "4. Tổn thất thủy lực do ma sát (*)4. Tổn thất thủy lực do ma sát (*)4. Tổn thất thủy lực do ma sát (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.12 TCVN 6305-2:20074.12 TCVN 6305-2:20074.12 TCVN 6305-2:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.7 TCVN 6305-2:20076.7 TCVN 6305-2:20076.7 TCVN 6305-2:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.3.2.6.3.2.6.3.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van báo động (Alarm Valve)Van báo động (Alarm Valve)Van báo động (Alarm Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "5. Rò rỉ và biến dạng của van (*)5. Rò rỉ và biến dạng của van (*)5. Rò rỉ và biến dạng của van (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.8 TCVN 6305-2:20074.8 TCVN 6305-2:20074.8 TCVN 6305-2:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.8 TCVN 6305-2:20076.8 TCVN 6305-2:20076.8 TCVN 6305-2:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.3.2.6.3.2.6.3.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van báo động (Alarm Valve)Van báo động (Alarm Valve)Van báo động (Alarm Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "6. Độ bền của thân (*)6. Độ bền của thân (*)6. Độ bền của thân (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.5 TCVN 6305-2:20074.5 TCVN 6305-2:20074.5 TCVN 6305-2:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.9 TCVN 6305-2:20076.9 TCVN 6305-2:20076.9 TCVN 6305-2:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.3.2.6.3.2.6.3.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van báo động (Alarm Valve)Van báo động (Alarm Valve)Van báo động (Alarm Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "7. Khả năng chịu tác động của ngọn lửa (*)7. Khả năng chịu tác động của ngọn lửa (*)7. Khả năng chịu tác động của ngọn lửa (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.4.3 TCVN 6305-2:20074.4.3 TCVN 6305-2:20074.4.3 TCVN 6305-2:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.10 TCVN 6305-2:20076.10 TCVN 6305-2:20076.10 TCVN 6305-2:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.3.2.6.3.2.6.3.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van báo động (Alarm Valve)Van báo động (Alarm Valve)Van báo động (Alarm Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "8. Yêu cầu về vận hành8. Yêu cầu về vận hành8. Yêu cầu về vận hành",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.7.7; 4.14.6; 4.16 TCVN 6305-2:2007; Các chi tiết bịt kín của van báo động kiểu ướt không bị rò rỉ, hư hỏng sau khi hoàn thành các phép thử.4.7.7; 4.14.6; 4.16 TCVN 6305-2:2007; Các chi tiết bịt kín của van báo động kiểu ướt không bị rò rỉ, hư hỏng sau khi hoàn thành các phép thử.4.7.7; 4.14.6; 4.16 TCVN 6305-2:2007; Các chi tiết bịt kín của van báo động kiểu ướt không bị rò rỉ, hư hỏng sau khi hoàn thành các phép thử.Đối với phép thử tỷ lệ, ngoài yêu cầu 4.16.1 TCVN 6305-2:2007, van phải tuân theo các yêu cầu trong 4.14.7 TCVN 6305-2:2007Đối với phép thử tỷ lệ, ngoài yêu cầu 4.16.1 TCVN 6305-2:2007, van phải tuân theo các yêu cầu trong 4.14.7 TCVN 6305-2:2007Đối với phép thử tỷ lệ, ngoài yêu cầu 4.16.1 TCVN 6305-2:2007, van phải tuân theo các yêu cầu trong 4.14.7 TCVN 6305-2:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.116.116.11TCVN 6305-2:2007TCVN 6305-2:2007TCVN 6305-2:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.3.2.6.3.2.6.3.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van báo động (Alarm Valve)Van báo động (Alarm Valve)Van báo động (Alarm Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "9. Cấu tạo và độ nghe rõ của chuông nước (nếu có)9. Cấu tạo và độ nghe rõ của chuông nước (nếu có)9. Cấu tạo và độ nghe rõ của chuông nước (nếu có)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.18 TCVN 6305-2:20074.18 TCVN 6305-2:20074.18 TCVN 6305-2:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "Kiểm tra cấu tạo bằng trực quan;Kiểm tra cấu tạo bằng trực quan;Kiểm tra cấu tạo bằng trực quan;Kiểm tra độ nghe rõ 6.12.2 TCVN 6305-2:2007Kiểm tra độ nghe rõ 6.12.2 TCVN 6305-2:2007Kiểm tra độ nghe rõ 6.12.2 TCVN 6305-2:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.3.2.6.3.2.6.3.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van báo động (Alarm Valve)Van báo động (Alarm Valve)Van báo động (Alarm Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "10. Bình làm trễ (độ bền và thoát nước) (*)10. Bình làm trễ (độ bền và thoát nước) (*)10. Bình làm trễ (độ bền và thoát nước) (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.17.2; 4.17.6 TCVN 6305-2:20074.17.2; 4.17.6 TCVN 6305-2:20074.17.2; 4.17.6 TCVN 6305-2:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.13 TCVN 6305-2:20076.13 TCVN 6305-2:20076.13 TCVN 6305-2:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.3.2.6.3.2.6.3.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van báo động (Alarm Valve)Van báo động (Alarm Valve)Van báo động (Alarm Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "11. Chống ăn mòn (*)11. Chống ăn mòn (*)11. Chống ăn mòn (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.11.7 TCVN 6305- 2:20074.11.7 TCVN 6305- 2:20074.11.7 TCVN 6305- 2:2007",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.14 TCVN 6305-2:20076.14 TCVN 6305-2:20076.14 TCVN 6305-2:2007",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.4.2.6.4.2.6.4.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "1. Ngoại quan1. Ngoại quan1. Ngoại quan",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "Không tồn tại các điểm rạn, vỡ, nứt, gãyKhông tồn tại các điểm rạn, vỡ, nứt, gãyKhông tồn tại các điểm rạn, vỡ, nứt, gãy",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "Kiểm tra bằng trực quanKiểm tra bằng trực quanKiểm tra bằng trực quan",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.4.2.6.4.2.6.4.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "2. Lò xo và màng chắn (*)2. Lò xo và màng chắn (*)2. Lò xo và màng chắn (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.7.6 TCVN 6305-5:20094.7.6 TCVN 6305-5:20094.7.6 TCVN 6305-5:2009",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.2 TCVN 6305-5:20096.2 TCVN 6305-5:20096.2 TCVN 6305-5:2009",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.4.2.6.4.2.6.4.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "3. Tổn thất thủy lực do ma sát (*)3. Tổn thất thủy lực do ma sát (*)3. Tổn thất thủy lực do ma sát (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.12 TCVN 6305-5:20094.12 TCVN 6305-5:20094.12 TCVN 6305-5:2009",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.6 TCVN 6305-5:20096.6 TCVN 6305-5:20096.6 TCVN 6305-5:2009",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.4.2.6.4.2.6.4.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "4. Rò rỉ và biến dạng (*)4. Rò rỉ và biến dạng (*)4. Rò rỉ và biến dạng (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.8 TCVN 6305-5:20094.8 TCVN 6305-5:20094.8 TCVN 6305-5:2009",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.7 TCVN 6305-5:20096.7 TCVN 6305-5:20096.7 TCVN 6305-5:2009",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.4.2.6.4.2.6.4.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "5. Độ bền của thân van (*)5. Độ bền của thân van (*)5. Độ bền của thân van (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.5.1 TCVN 6305-5:20094.5.1 TCVN 6305-5:20094.5.1 TCVN 6305-5:2009",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.8 TCVN 6305-5:20096.8 TCVN 6305-5:20096.8 TCVN 6305-5:2009",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.4.2.6.4.2.6.4.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "6. Khả năng chịu tác động của ngọn lửa (*)6. Khả năng chịu tác động của ngọn lửa (*)6. Khả năng chịu tác động của ngọn lửa (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.4.3 TCVN 6305-5:20094.4.3 TCVN 6305-5:20094.4.3 TCVN 6305-5:2009",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.9 TCVN 6305-5:20096.9 TCVN 6305-5:20096.9 TCVN 6305-5:2009",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.4.2.6.4.2.6.4.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "7. Yêu cầu về vận hành7. Yêu cầu về vận hành7. Yêu cầu về vận hành",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.7.7; 4.10.4; 4.14; 4.16 TCVN 6305-5:20094.7.7; 4.10.4; 4.14; 4.16 TCVN 6305-5:20094.7.7; 4.10.4; 4.14; 4.16 TCVN 6305-5:2009",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.10 TCVN 6305-5:20096.10 TCVN 6305-5:20096.10 TCVN 6305-5:2009",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.4.2.6.4.2.6.4.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "8. Độ bền8. Độ bền8. Độ bền",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.13 TCVN 6305-5:20094.13 TCVN 6305-5:20094.13 TCVN 6305-5:2009",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.11 TCVN 6305-5:20096.11 TCVN 6305-5:20096.11 TCVN 6305-5:2009",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.4.2.6.4.2.6.4.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "9. Khả năng chống đóng lại (*)9. Khả năng chống đóng lại (*)9. Khả năng chống đóng lại (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.7.7 TCVN 6305-5:20094.7.7 TCVN 6305-5:20094.7.7 TCVN 6305-5:2009",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.12 TCVN 6305-5:20096.12 TCVN 6305-5:20096.12 TCVN 6305-5:2009",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.4.2.6.4.2.6.4.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)Van tràn ngập (Deluge Valve)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "10. Chống ăn mòn (*)10. Chống ăn mòn (*)10. Chống ăn mòn (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4.11.7 TCVN 6305-5:20094.11.7 TCVN 6305-5:20094.11.7 TCVN 6305-5:2009",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.13 TCVN 6305-5:20096.13 TCVN 6305-5:20096.13 TCVN 6305-5:2009",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:- Lô phương tiện thử nghiệm lần đầu:+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n ≤ 100 thì lấy 02 mẫu;+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu+ Nếu n > 100, thì lấy 05 mẫu- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:- Lô phương tiện thử nghiệm các lần kế tiếp:+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n ≤ 100 thì lấy 01 mẫu;+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu+ Nếu n > 100, thì lấy 02 mẫu",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8481.40.908481.40.908481.40.90"
+    },
+    {
+      "STTSTTSTT": "2.6.5.2.6.5.2.6.5.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nước",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "1. Cấu trúc, hình thức, kích thước1. Cấu trúc, hình thức, kích thước1. Cấu trúc, hình thức, kích thước",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "4 TCVN 13455:20224 TCVN 13455:20224 TCVN 13455:2022",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "- Kiểm tra bằng trực quan;- Kiểm tra bằng trực quan;- Kiểm tra bằng trực quan;- Thước đo phù hợp 4, 6.1 TCVN 13455:2022;- Thước đo phù hợp 4, 6.1 TCVN 13455:2022;- Thước đo phù hợp 4, 6.1 TCVN 13455:2022;",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8307.10.008307.10.008307.10.00"
+    },
+    {
+      "STTSTTSTT": "2.6.5.2.6.5.2.6.5.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nước",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "2. Áp suất làm việc2. Áp suất làm việc2. Áp suất làm việc",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "5.1 TCVN 13455:20225.1 TCVN 13455:20225.1 TCVN 13455:2022",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "Tài liệu kỹ thuậtTài liệu kỹ thuậtTài liệu kỹ thuật",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8307.10.008307.10.008307.10.00"
+    },
+    {
+      "STTSTTSTT": "2.6.5.2.6.5.2.6.5.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nước",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "3. Vật liệu chế tạo (*)3. Vật liệu chế tạo (*)3. Vật liệu chế tạo (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "5.2 TCVN 13455:20225.2 TCVN 13455:20225.2 TCVN 13455:2022",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.2 TCVN 13455:20226.2 TCVN 13455:20226.2 TCVN 13455:2022",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8307.10.008307.10.008307.10.00"
+    },
+    {
+      "STTSTTSTT": "2.6.5.2.6.5.2.6.5.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nước",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "4. Khả năng chịu áp suất thủy lực4. Khả năng chịu áp suất thủy lực4. Khả năng chịu áp suất thủy lực",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "5.3 TCVN 13455:20225.3 TCVN 13455:20225.3 TCVN 13455:2022",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.1, 6.3, 6.4 TCVN 13455:20226.1, 6.3, 6.4 TCVN 13455:20226.1, 6.3, 6.4 TCVN 13455:2022",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8307.10.008307.10.008307.10.00"
+    },
+    {
+      "STTSTTSTT": "2.6.5.2.6.5.2.6.5.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nước",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "5. Biến dạng theo chiều dài5. Biến dạng theo chiều dài5. Biến dạng theo chiều dài",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "5.4 TCVN 13455:20225.4 TCVN 13455:20225.4 TCVN 13455:2022",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.1, 6.56.1, 6.56.1, 6.5TCVN 13455:2022TCVN 13455:2022TCVN 13455:2022",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8307.10.008307.10.008307.10.00"
+    },
+    {
+      "STTSTTSTT": "2.6.5.2.6.5.2.6.5.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nước",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "6. Khả năng chịu rung6. Khả năng chịu rung6. Khả năng chịu rung",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "5.5 TCVN 13455:20225.5 TCVN 13455:20225.5 TCVN 13455:2022",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.1, 6.66.1, 6.66.1, 6.6TCVN 13455:2022TCVN 13455:2022TCVN 13455:2022",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8307.10.008307.10.008307.10.00"
+    },
+    {
+      "STTSTTSTT": "2.6.5.2.6.5.2.6.5.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nước",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "7. Độ linh hoạt7. Độ linh hoạt7. Độ linh hoạt",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "5.6 TCVN 13455:20225.6 TCVN 13455:20225.6 TCVN 13455:2022",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.1, 6.76.1, 6.76.1, 6.7TCVN 13455:2022TCVN 13455:2022TCVN 13455:2022",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8307.10.008307.10.008307.10.00"
+    },
+    {
+      "STTSTTSTT": "2.6.5.2.6.5.2.6.5.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nước",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "8. Khả năng chịu va đập thủy lực8. Khả năng chịu va đập thủy lực8. Khả năng chịu va đập thủy lực",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "5.7 TCVN 13455:20225.7 TCVN 13455:20225.7 TCVN 13455:2022",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.1, 6.86.1, 6.86.1, 6.8TCVN 13455:2022TCVN 13455:2022TCVN 13455:2022",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8307.10.008307.10.008307.10.00"
+    },
+    {
+      "STTSTTSTT": "2.6.5.2.6.5.2.6.5.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nước",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "9. Khả năng chịu nén bẹp9. Khả năng chịu nén bẹp9. Khả năng chịu nén bẹp",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "5.8 TCVN 13455:20225.8 TCVN 13455:20225.8 TCVN 13455:2022",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.1, 6.96.1, 6.96.1, 6.9TCVN 13455:2022TCVN 13455:2022TCVN 13455:2022",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8307.10.008307.10.008307.10.00"
+    },
+    {
+      "STTSTTSTT": "2.6.5.2.6.5.2.6.5.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nướcỐng mềm bằng kim loại kết nối đầu phun trong hệ thống chữa cháy bằng nước",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "10. Tổn thất áp suất10. Tổn thất áp suất10. Tổn thất áp suất",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "5.9 TCVN 13455:20225.9 TCVN 13455:20225.9 TCVN 13455:2022",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "6.1, 6.106.1, 6.106.1, 6.10TCVN 13455:2022TCVN 13455:2022TCVN 13455:2022",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:Mẫu được lấy ngẫu nhiên tại lô phương tiện, số lượng mẫu được lấy phụ thuộc vào số lượng phương tiện trong lô (n), cụ thể như sau:- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu n ≤ 3.000 thì lấy 8 mẫu;- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu 3000 < n ≤ 10.000 thì lấy 16 mẫu- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;- Nếu n > 10.000 thì lấy 32 mẫu;",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "8307.10.008307.10.008307.10.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "1. Kích thước, ngoại quan1. Kích thước, ngoại quan1. Kích thước, ngoại quan",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "5.2, 6.1, 6.25.2, 6.1, 6.25.2, 6.1, 6.2TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "5.1.3 TCVN 12653-2:20195.1.3 TCVN 12653-2:20195.1.3 TCVN 12653-2:20196.2, 6.3, 6.46.2, 6.3, 6.46.2, 6.3, 6.4TCVN 12653-1:219TCVN 12653-1:219TCVN 12653-1:219",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "2. Áp suất và nhiệt độ làm việc2. Áp suất và nhiệt độ làm việc2. Áp suất và nhiệt độ làm việc",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "7.17.17.1TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "Tài liệu kỹ thuậtTài liệu kỹ thuậtTài liệu kỹ thuật",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "3. Độ co chiều dài do nhiệt (*)3. Độ co chiều dài do nhiệt (*)3. Độ co chiều dài do nhiệt (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "7.27.27.2TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "7.27.27.2TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "4. Nhiệt độ mềm hóa Vicat4. Nhiệt độ mềm hóa Vicat4. Nhiệt độ mềm hóa Vicat",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "7.37.37.3TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "5.1.55.1.55.1.5TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "5. Khối lượng riêng5. Khối lượng riêng5. Khối lượng riêng",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "7.47.47.4TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "5.1.65.1.65.1.6TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "6. Tính cháy6. Tính cháy6. Tính cháy",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "7.57.57.5TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "666TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "7. Tính chịu lửa7. Tính chịu lửa7. Tính chịu lửa",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "7.67.67.6TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "777TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "8. Khả năng chịu nhiệt theo chu kỳ (*)8. Khả năng chịu nhiệt theo chu kỳ (*)8. Khả năng chịu nhiệt theo chu kỳ (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "7.77.77.7TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "212121TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "9. Hệ số ma sát ống (*)9. Hệ số ma sát ống (*)9. Hệ số ma sát ống (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "7.87.87.8TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "999TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "10. Chiều dài ống tương đương của phụ tùng (tổn thất áp suất của phụ kiện) (*)10. Chiều dài ống tương đương của phụ tùng (tổn thất áp suất của phụ kiện) (*)10. Chiều dài ống tương đương của phụ tùng (tổn thất áp suất của phụ kiện) (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "7.97.97.9TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "101010TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "11. Khả năng chịu ăn mòn đối với phần thép không gỉ (*)11. Khả năng chịu ăn mòn đối với phần thép không gỉ (*)11. Khả năng chịu ăn mòn đối với phần thép không gỉ (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "7.10.17.10.17.10.1TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "121212TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "12. Độ bền của nhãn (*)12. Độ bền của nhãn (*)12. Độ bền của nhãn (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "7.117.117.11TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "242424TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "13. Khả năng chống rò rỉ và chịu áp suất thủy tĩnh ngắn hạn13. Khả năng chống rò rỉ và chịu áp suất thủy tĩnh ngắn hạn13. Khả năng chống rò rỉ và chịu áp suất thủy tĩnh ngắn hạn",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "8.1.18.1.18.1.1TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "5.1.8, 85.1.8, 85.1.8, 8TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "14. Khả năng chống rò rỉ và chịu áp suất thủy tĩnh theo điều kiện sau khi lắp đặt (*)14. Khả năng chống rò rỉ và chịu áp suất thủy tĩnh theo điều kiện sau khi lắp đặt (*)14. Khả năng chống rò rỉ và chịu áp suất thủy tĩnh theo điều kiện sau khi lắp đặt (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "8.1.28.1.28.1.2TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "191919TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "15. Độ bền chịu uốn (*)15. Độ bền chịu uốn (*)15. Độ bền chịu uốn (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "8.38.38.3TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "131313TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "16. Độ bền chịu va đập16. Độ bền chịu va đập16. Độ bền chịu va đập",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "8.48.48.4TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "5.1.7, 145.1.7, 145.1.7, 14TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "17. Độ bền chịu nén bẹp (*)17. Độ bền chịu nén bẹp (*)17. Độ bền chịu nén bẹp (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "8.58.58.5TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "151515TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "18. Cường độ chịu kéo (*)18. Cường độ chịu kéo (*)18. Cường độ chịu kéo (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "8.68.68.6TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "8.68.68.6TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "19. Khả năng chịu rung (*)19. Khả năng chịu rung (*)19. Khả năng chịu rung (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "8.88.88.8TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "161616TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "20. Khả năng đảm bảo hoạt động của Sprinkler áp suất cao (*)20. Khả năng đảm bảo hoạt động của Sprinkler áp suất cao (*)20. Khả năng đảm bảo hoạt động của Sprinkler áp suất cao (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "8.98.98.9TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "171717TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "21. Khả năng chống gãy gập21. Khả năng chống gãy gập21. Khả năng chống gãy gập",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "8.108.108.10TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "5.1.4; 185.1.4; 185.1.4; 18TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    },
+    {
+      "STTSTTSTT": "2.6.6.2.6.6.2.6.6.",
+      "Tên sản phẩmTên sản phẩmTên sản phẩm": "Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)Ống phi kim loại sử dụng cho hệ thống cấp nước chữa cháy (Ống và phụ tùng ống CPVC dùng trong hệ thống sprinkler tự động)",
+      "Chỉ tiêu kỹ thuậtChỉ tiêu kỹ thuậtChỉ tiêu kỹ thuật": "22. Khả năng chịu áp suất theo chu kỳ (*)22. Khả năng chịu áp suất theo chu kỳ (*)22. Khả năng chịu áp suất theo chu kỳ (*)",
+      "Mức yêu cầuMức yêu cầuMức yêu cầu": "8.118.118.11TCVN 12653-1:2019TCVN 12653-1:2019TCVN 12653-1:2019",
+      "Phương pháp thửPhương pháp thửPhương pháp thử": "202020TCVN 12653-2:2019TCVN 12653-2:2019TCVN 12653-2:2019",
+      "Phương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫuPhương pháp lấy mẫu, quy cách mẫu": "5.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:20195.1.3. đến 5.1.9 TCVN 12653-2:2019",
+      "Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)Mã hàng hóa xuất khẩu, nhập khẩu (HS)": "3917.23.003917.23.003917.23.00"
+    }
+  ],
+  "footnotes": []
+}

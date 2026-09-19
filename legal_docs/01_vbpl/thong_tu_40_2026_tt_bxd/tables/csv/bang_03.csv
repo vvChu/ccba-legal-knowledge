@@ -1,0 +1,20 @@
+﻿TTTTTT,Khoản mục chi phíKhoảnKhoản  mụcmục  chi phíchi phí,Giá trị trước thuếGiá trị trước thuếGiá trị trước thuế,Thuế GTGTThuếThuế  GTGTGTGT,Giá trị sau thuếGiá trịGiá trị  sau thuếsau thuế,Ký hiệuKýKý  hiệuhiệu
+[1][1][1],[2][2][2],[3][3][3],[4][4][4],[5][5][5],[6][6][6]
+111,Chi phí bảo dưỡng công trìnhChi phí bảo dưỡng công trìnhChi phí bảo dưỡng công trình,,,,GBDGGBDBD
+1.11.11.1,Chi phí thực hiện bảo dưỡngChi phí thực hiện bảo dưỡngChi phí thực hiện bảo dưỡng,,,,
+1.21.21.2,Chi phí khácChi phí khácChi phí khác,,,,
+1.31.31.3,Chi phí dự phòng (nếu có)Chi phí dự phòng (nếu có)Chi phí dự phòng (nếu có),,,,
+222,Chi phí sửa chữa công trìnhChi phí sửa chữa công trìnhChi phí sửa chữa công trình,,,,GSCGGSSCC
+2.12.12.1,Chi phí thực hiện sửa chữaChi phí thực hiện sửa chữaChi phí thực hiện sửa chữa,,,,
+2.22.22.2,Chi phí khácChi phí khácChi phí khác,,,,
+2.32.32.3,Chi phí dự phòng (nếu có)Chi phí dự phòng (nếu có)Chi phí dự phòng (nếu có),,,,
+333,Chi phí các công việc khác trong kế hoạch bảo trì công trìnhChi phí các công việc khác trong kế hoạch bảo trì công trìnhChi phí các công việc khác trong kế hoạch bảo trì công trình,,,,GKGGKK
+3.13.13.1,"Chi phí quản lý của chủ sở hữu, chủ sử dụng công trìnhChi phí quản lý của chủ sở hữu, chủ sử dụng công trìnhChi phí quản lý của chủ sở hữu, chủ sử dụng công trình",,,,GQLGGQLQL
+3.23.23.2,Chi phí kiểm traChi phí kiểm traChi phí kiểm tra,,,,
+3.33.33.3,Chi phí quan trắc (nếu có)Chi phí quan trắc (nếu có)Chi phí quan trắc (nếu có),,,,
+3.43.43.4,Chi phí kiểm định chất lượng (nếu có)Chi phí kiểm định chất lượngChi phí kiểm định chất lượng  (nếu có)(nếu có),,,,
+3.53.53.5,Chi phí đánh giá an toàn công trình (nếu có)Chi phí đánh giá an toàn công trình (nếu có)Chi phí đánh giá an toàn công trình (nếu có),,,,
+3.63.63.6,Lập kế hoạch bảo trì hàng nămLập kế hoạch bảo trì hàng nămLập kế hoạch bảo trì hàng năm,,,,
+3.73.73.7,"Lập, thẩm tra hoặc điều chỉnh quy trình bảo trì công trình xây dựng (nếu có)Lập, thẩm tra hoặc Lập, thẩm tra hoặc điềuđiều chỉnh quy trình bảo trì công trình xây dựng (nếu  chỉnh quy trình bảo trì công trình xây dựng (nếu có)có)",,,,
+3.83.83.8,Các chi phí thực hiện các công việc khác có liên quan theo quy định của pháp luật chuyên ngành (nếu có)Các chi phí thực hiện các công việc khác có liên quan theo quy định của pháp Các chi phí thực hiện các công việc khác có liên quan theo quy định của pháp luậtluật chuyên ngành (nếu có) chuyên ngành (nếu có),,,,
+,TỔNG CỘNG (1+2+3)TỔNG CỘNG (1+2+3)TỔNG CỘNG (1+2+3),,,,GBTGGBTBT

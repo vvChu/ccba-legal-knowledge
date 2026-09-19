@@ -1,0 +1,99 @@
+{
+  "table_id": "bang_45",
+  "title": "Bảng 45",
+  "rows_count": 15,
+  "columns_count": 4,
+  "headers": [
+    "Số TTSố TTSố TT",
+    "Nội dungNội dungNội dung",
+    "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối",
+    "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt"
+  ],
+  "records": [
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dungNội dungNội dung": "222",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "333",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": "444"
+    },
+    {
+      "Số TTSố TTSố TT": "",
+      "Nội dungNội dungNội dung": "Tổng số (1+2+3+4)Tổng số (1+2+3+4)Tổng số (1+2+3+4)",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": ""
+    },
+    {
+      "Số TTSố TTSố TT": "III",
+      "Nội dungNội dungNội dung": "Vốn đầu tư côngVốn đầu tư côngVốn đầu tư công",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": ""
+    },
+    {
+      "Số TTSố TTSố TT": "1.11.11.1",
+      "Nội dungNội dungNội dung": "Vốn ngân sách nhà nướcVốn ngân sách nhà nướcVốn ngân sách nhà nước",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": ""
+    },
+    {
+      "Số TTSố TTSố TT": "",
+      "Nội dungNội dungNội dung": "- Vốn ngân sách trung ương (ghi chi tiết vốn)- Vốn ngân sách trung ương (ghi chi tiết vốn)- Vốn ngân sách trung ương (ghi chi tiết vốn)+ Vốn ...+ Vốn ...+ Vốn ...+ Vốn ...+ Vốn ...+ Vốn ...- Vốn ngân sách địa phương (ghi chi tiết vốn)- Vốn ngân sách địa phương (ghi chi tiết vốn)- Vốn ngân sách địa phương (ghi chi tiết vốn)+ Vốn ...+ Vốn ...+ Vốn ...+ Vốn ...+ Vốn ...+ Vốn ...",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": ""
+    },
+    {
+      "Số TTSố TTSố TT": "1.21.21.2",
+      "Nội dungNội dungNội dung": "Vốn từ nguồn thu hợp pháp khácVốn từ nguồn thu hợp pháp khácVốn từ nguồn thu hợp pháp khác",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": ""
+    },
+    {
+      "Số TTSố TTSố TT": "222",
+      "Nội dungNội dungNội dung": "Vốn chi thường xuyênVốn chi thường xuyênVốn chi thường xuyên",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": ""
+    },
+    {
+      "Số TTSố TTSố TT": "",
+      "Nội dungNội dungNội dung": "- Vốn ngân sách trung ương (ghi chi tiết vốn)- Vốn ngân sách trung ương (ghi chi tiết vốn)- Vốn ngân sách trung ương (ghi chi tiết vốn)+ Vốn ...+ Vốn ...+ Vốn ...+ Vốn ...+ Vốn ...+ Vốn ...- Vốn ngân sách địa phương (ghi chi tiết vốn) - Vốn ngân sách địa phương (ghi chi tiết vốn) - Vốn ngân sách địa phương (ghi chi tiết vốn) + Vốn ...+ Vốn ...+ Vốn ...+ Vốn ...+ Vốn ...+ Vốn ...",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": ""
+    },
+    {
+      "Số TTSố TTSố TT": "333",
+      "Nội dungNội dungNội dung": "Vốn ngân sách nhà nước khác không thuộc phạm vi điều chỉnh của pháp luật về đầu tư côngVốn ngân sách nhà nước khác không thuộc phạm vi điều chỉnh của pháp luật về đầu tư côngVốn ngân sách nhà nước khác không thuộc phạm vi điều chỉnh của pháp luật về đầu tư công",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": ""
+    },
+    {
+      "Số TTSố TTSố TT": "",
+      "Nội dungNội dungNội dung": "- Vốn...- Vốn...- Vốn...",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": ""
+    },
+    {
+      "Số TTSố TTSố TT": "",
+      "Nội dungNội dungNội dung": "- Vốn...- Vốn...- Vốn...",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": ""
+    },
+    {
+      "Số TTSố TTSố TT": "444",
+      "Nội dungNội dungNội dung": "Vốn khác (nếu có)Vốn khác (nếu có)Vốn khác (nếu có)",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": ""
+    },
+    {
+      "Số TTSố TTSố TT": "",
+      "Nội dungNội dungNội dung": "- Vốn...- Vốn...- Vốn...",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": ""
+    },
+    {
+      "Số TTSố TTSố TT": "",
+      "Nội dungNội dungNội dung": "- Vốn...- Vốn...- Vốn...",
+      "Tổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuốiTổng mức đầu tư (của dự án, dự án thành phần, tiểu dự án độc lập) hoặc dự toán (công trình, hạng mục công trình độc lập) được phê duyệt hoặc điều chỉnh lần cuối": "",
+      "Giá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệtGiá trị quyết toán được phê duyệt": ""
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,93 @@
+{
+  "table_id": "bang_12",
+  "title": "Bảng 12",
+  "rows_count": 12,
+  "columns_count": 5,
+  "headers": [
+    "STTSTTSTT",
+    "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ",
+    "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH",
+    "GIÁ TRỊGIÁ TRỊGIÁ TRỊ",
+    "KÝ HIỆUKÝ HIỆUKÝ HIỆU"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "[2][2][2]",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "[3][3][3]",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "[4][4][4]",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "[5][5][5]"
+    },
+    {
+      "STTSTTSTT": "III",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "CHI PHÍ TRỰC TIẾPCHI PHÍ TRỰC TIẾPCHI PHÍ TRỰC TIẾP",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "VL + NC + MVL + NC + MVL + NC + M",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "TTT"
+    },
+    {
+      "STTSTTSTT": "111",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí vật liệuChi phí vật liệuChi phí vật liệu",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "VLVLVL"
+    },
+    {
+      "STTSTTSTT": "222",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí nhân côngChi phí nhân côngChi phí nhân công",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "NCNCNC"
+    },
+    {
+      "STTSTTSTT": "333",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí máy và thiết bị thi côngChi phí máy và thiết bị thi côngChi phí máy và thiết bị thi công",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "MMM"
+    },
+    {
+      "STTSTTSTT": "IIIIII",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "CHI PHÍ GIÁN TIẾPCHI PHÍ GIÁN TIẾPCHI PHÍ GIÁN TIẾP",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "NC x Tỷ lệNC x Tỷ lệNC x Tỷ lệ",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "GTGTGT"
+    },
+    {
+      "STTSTTSTT": "IIIIIIIII",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "THU NHẬP CHỊU THUẾ TÍNH TRƯỚCTHU NHẬP CHỊU THUẾTHU NHẬP CHỊU THUẾ  TÍNH TRƯỚCTÍNH TRƯỚC",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(T + GT) x Tỷ lệ(T + GT) x Tỷ lệ(T + GT) x Tỷ lệ",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "TLTLTL"
+    },
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí thực hiện sửa chữa trước thuếChi phí thực hiện sửa chữa trước thuếChi phí thực hiện sửa chữa trước thuế",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "(T + GT + TL)(T + GT + TL)(T + GT + TL)",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "GTHSCTTGGTHSCTTTHSCTT"
+    },
+    {
+      "STTSTTSTT": "IVIVIV",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "THUẾ GIÁ TRỊ GIA TĂNGTHUẾ GIÁ TRỊ GIA TĂNGTHUẾ GIÁ TRỊ GIA TĂNG",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "GTHSCTT x TGTGTGGTHSCTTTHSCTT  x Tx TGTGTGTGT",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "GTGTGTGTGTGT"
+    },
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí thực hiện sửa chữa sau thuếChi phí thực hiện sửa chữa sau thuếChi phí thực hiện sửa chữa sau thuế",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "GTHSCTT + GTGTGGTHSCTTTHSCTT  + GTGT+ GTGT",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "GTHSCGGTHSCTHSC"
+    },
+    {
+      "STTSTTSTT": "VVV",
+      "NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ": "Chi phí nhà tạmChi phí nhà tạmChi phí nhà tạm",
+      "CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH": "GTHSC x Tỷ lệGGTHSC THSC x Tỷ lệx Tỷ lệ",
+      "GIÁ TRỊGIÁ TRỊGIÁ TRỊ": "",
+      "KÝ HIỆUKÝ HIỆUKÝ HIỆU": "LTLTLT"
+    }
+  ],
+  "footnotes": []
+}

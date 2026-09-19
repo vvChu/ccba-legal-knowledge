@@ -1,0 +1,69 @@
+{
+  "table_id": "bang_30",
+  "title": "Bảng 30",
+  "rows_count": 6,
+  "columns_count": 8,
+  "headers": [
+    "Số TTSố TTSố TT",
+    "Tên cá nhân, đơn vị thực hiệnTên cá nhân, đơn vị thực hiệnTên cá nhân, đơn vị thực hiện",
+    "Nội dung công việc, hợp đồng thực hiệnNội dung công việc, hợp đồng thực hiệnNội dung công việc, hợp đồng thực hiện",
+    "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán",
+    "Số vốn đã giải ngânSố vốn đã giải ngânSố vốn đã giải ngân",
+    "Công nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toán — Phải thuPhải thuPhải thu",
+    "Công nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toán — Phải trảPhải trảPhải trả",
+    "Ghi chúGhi chúGhi chú"
+  ],
+  "records": [
+    {
+      "Số TTSố TTSố TT": "111",
+      "Tên cá nhân, đơn vị thực hiệnTên cá nhân, đơn vị thực hiệnTên cá nhân, đơn vị thực hiện": "222",
+      "Nội dung công việc, hợp đồng thực hiệnNội dung công việc, hợp đồng thực hiệnNội dung công việc, hợp đồng thực hiện": "333",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "444",
+      "Số vốn đã giải ngânSố vốn đã giải ngânSố vốn đã giải ngân": "555",
+      "Công nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toán — Phải thuPhải thuPhải thu": "6 = 5-46 = 5-46 = 5-4",
+      "Công nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toán — Phải trảPhải trảPhải trả": "7 = 4-57 = 4-57 = 4-5",
+      "Ghi chúGhi chúGhi chú": "888"
+    },
+    {
+      "Số TTSố TTSố TT": "111",
+      "Tên cá nhân, đơn vị thực hiệnTên cá nhân, đơn vị thực hiệnTên cá nhân, đơn vị thực hiện": "Nguyễn Văn ANguyễn Văn ANguyễn Văn A",
+      "Nội dung công việc, hợp đồng thực hiệnNội dung công việc, hợp đồng thực hiệnNội dung công việc, hợp đồng thực hiện": "",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "",
+      "Số vốn đã giải ngânSố vốn đã giải ngânSố vốn đã giải ngân": "",
+      "Công nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toán — Phải thuPhải thuPhải thu": "",
+      "Công nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toán — Phải trảPhải trảPhải trả": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "222",
+      "Tên cá nhân, đơn vị thực hiệnTên cá nhân, đơn vị thực hiệnTên cá nhân, đơn vị thực hiện": "Công ty BCông ty BCông ty B",
+      "Nội dung công việc, hợp đồng thực hiệnNội dung công việc, hợp đồng thực hiệnNội dung công việc, hợp đồng thực hiện": "",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "",
+      "Số vốn đã giải ngânSố vốn đã giải ngânSố vốn đã giải ngân": "",
+      "Công nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toán — Phải thuPhải thuPhải thu": "",
+      "Công nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toán — Phải trảPhải trảPhải trả": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "333",
+      "Tên cá nhân, đơn vị thực hiệnTên cá nhân, đơn vị thực hiệnTên cá nhân, đơn vị thực hiện": "………",
+      "Nội dung công việc, hợp đồng thực hiệnNội dung công việc, hợp đồng thực hiệnNội dung công việc, hợp đồng thực hiện": "",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "",
+      "Số vốn đã giải ngânSố vốn đã giải ngânSố vốn đã giải ngân": "",
+      "Công nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toán — Phải thuPhải thuPhải thu": "",
+      "Công nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toán — Phải trảPhải trảPhải trả": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "Tổng cộngTổng cộngTổng cộng",
+      "Tên cá nhân, đơn vị thực hiệnTên cá nhân, đơn vị thực hiệnTên cá nhân, đơn vị thực hiện": "Tổng cộngTổng cộngTổng cộng",
+      "Nội dung công việc, hợp đồng thực hiệnNội dung công việc, hợp đồng thực hiệnNội dung công việc, hợp đồng thực hiện": "Tổng cộngTổng cộngTổng cộng",
+      "Giá trị đề nghị quyết toánGiá trị đề nghị quyết toánGiá trị đề nghị quyết toán": "",
+      "Số vốn đã giải ngânSố vốn đã giải ngânSố vốn đã giải ngân": "",
+      "Công nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toán — Phải thuPhải thuPhải thu": "",
+      "Công nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toánCông nợ đến ngày khoá sổ lập báo cáo quyết toán — Phải trảPhải trảPhải trả": "",
+      "Ghi chúGhi chúGhi chú": ""
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,21 @@
+{
+  "table_id": "bang_08",
+  "title": "Bảng 08",
+  "rows_count": 3,
+  "columns_count": 2,
+  "headers": [
+    "Mẫu số 01MẫuMẫu số 01 số 01",
+    "Phiếu đề nghị đăng tải thông tinPhiếu đề nghị đăng tải thông tinPhiếu đề nghị đăng tải thông tin"
+  ],
+  "records": [
+    {
+      "Mẫu số 01MẫuMẫu số 01 số 01": "Mẫu số 02MẫuMẫu số 02 số 02",
+      "Phiếu đề nghị đăng tải thông tinPhiếu đề nghị đăng tải thông tinPhiếu đề nghị đăng tải thông tin": "Phiếu đăng ký tài khoảnPhiếu đăng ký tài Phiếu đăng ký tài khoảnkhoản"
+    },
+    {
+      "Mẫu số 01MẫuMẫu số 01 số 01": "Mẫu số 03MẫuMẫu số 03 số 03",
+      "Phiếu đề nghị đăng tải thông tinPhiếu đề nghị đăng tải thông tinPhiếu đề nghị đăng tải thông tin": "Phiếu thay đổi thông tin tài khoảnPhiếu thay đổi thông tin tài Phiếu thay đổi thông tin tài khoảnkhoản"
+    }
+  ],
+  "footnotes": []
+}

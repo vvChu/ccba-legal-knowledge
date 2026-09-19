@@ -1,0 +1,9 @@
+﻿STTSTTSTT,KHOẢN MỤC CHI PHÍKHOẢNKHOẢN  MỤCMỤC CHI PHÍ CHI PHÍ,CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH,GIÁ TRỊGIÁGIÁ  TRỊTRỊ,KÝ HIỆUKÝKÝ  HIỆUHIỆU
+[1][1][1],[2][2][2],[3][3][3],[4][4][4],[5][5][5]
+111,Chi phí chuyên giaChi phí chuyên giaChi phí chuyên gia,,,CcgCCcgcg
+222,Chi phí quản lýChi phí quản lýChi phí quản lý,Ccg x Tỷ lệCCcg cg x Tỷ lệx Tỷ lệ,,CqlCCqlql
+333,Chi phí khácChi phí khácChi phí khác,,,CkCCkk
+444,Thu nhập chịu thuế tính trướcThu nhập chịu thuếThu nhập chịu thuế  tính trướctính trước,(Ccg + Cql ) x 6%(C(Ccgcg  + C+ Cqlql  ) x 6%) x 6%,,TLTLTL
+555,ThuếThuếThuế,,,TTT
+666,Chi phí dự phòngChi phí dự phòngChi phí dự phòng,(Ccg + Cql + Ck + TL + T) x Tỷ lệ(C(Ccgcg  + C+ Cqlql  + C+ Ckk  + TL + T) x Tỷ lệ+ TL + T) x Tỷ lệ,,CdpCCdpdp
+,TỔNG CỘNGTỔNG CỘNGTỔNG CỘNG,Ccg + Cql + Ck + TL + T + CdpCCcgcg  + C+ Cqlql  + C+ Ckk  + TL + T + C+ TL + T + Cdpdp,,CTVCCTVTV

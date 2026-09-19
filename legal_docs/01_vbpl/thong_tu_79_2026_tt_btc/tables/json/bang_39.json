@@ -1,0 +1,139 @@
+{
+  "table_id": "bang_39",
+  "title": "Bảng 39",
+  "rows_count": 13,
+  "columns_count": 8,
+  "headers": [
+    "Số TTSố TTSố TT",
+    "Nội dungNội dungNội dung",
+    "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Tổng sốTổng sốTổng số",
+    "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý",
+    "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị",
+    "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Tổng sốTổng sốTổng số",
+    "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý",
+    "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị"
+  ],
+  "records": [
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dungNội dungNội dung": "222",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Tổng sốTổng sốTổng số": "3=4+53=4+53=4+5",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "444",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": "555",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Tổng sốTổng sốTổng số": "6=7+86=7+86=7+8",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "777",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": "888"
+    },
+    {
+      "Số TTSố TTSố TT": "III",
+      "Nội dungNội dungNội dung": "Tổng cộng (I= 1+2+3+4+5)Tổng cộngTổng cộng (I= 1+2+3+4+5)(I= 1+2+3+4+5)",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Tổng sốTổng sốTổng số": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Tổng sốTổng sốTổng số": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": ""
+    },
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dungNội dungNội dung": "Nguồn thu năm trước chuyển sangNguồn thu năm trước chuyển sangNguồn thu năm trước chuyển sang",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Tổng sốTổng sốTổng số": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Tổng sốTổng sốTổng số": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": ""
+    },
+    {
+      "Số TTSố TTSố TT": "222",
+      "Nội dungNội dungNội dung": "Nguồn thu từ chi phí của dự án được giao quản lýNguồn thu từ chi phí của dự án được giao quản lýNguồn thu từ chi phí của dự án được giao quản lý",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Tổng sốTổng sốTổng số": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Tổng sốTổng sốTổng số": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": ""
+    },
+    {
+      "Số TTSố TTSố TT": "333",
+      "Nội dungNội dungNội dung": "Nguồn thu hợp pháp khác của đơn vị (nếu có)Nguồn thu hợp pháp khác của đơn vị (nếu có)Nguồn thu hợp pháp khác của đơn vị (nếu có)",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Tổng sốTổng sốTổng số": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Tổng sốTổng sốTổng số": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": ""
+    },
+    {
+      "Số TTSố TTSố TT": "444",
+      "Nội dungNội dungNội dung": "Dự án điều chỉnh, bổ sung trong năm (nếu có)Dự án điều chỉnh, bổ sung trong năm (nếu có)Dự án điều chỉnh, bổ sung trong năm (nếu có)",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Tổng sốTổng sốTổng số": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Tổng sốTổng sốTổng số": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": ""
+    },
+    {
+      "Số TTSố TTSố TT": "555",
+      "Nội dungNội dungNội dung": "Nguồn NSNN cấp (nếu có)Nguồn NSNN cấp (nếu có)Nguồn NSNN cấp (nếu có)",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Tổng sốTổng sốTổng số": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Tổng sốTổng sốTổng số": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": ""
+    },
+    {
+      "Số TTSố TTSố TT": "IIIIII",
+      "Nội dungNội dungNội dung": "Nguồn thu chuyển sang năm sau tiếp tục sử dụngNguồn thu chuyển sang năm sau tiếp tục sử dụngNguồn thu chuyển sang năm sau tiếp tục sử dụng",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Tổng sốTổng sốTổng số": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Tổng sốTổng sốTổng số": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": ""
+    },
+    {
+      "Số TTSố TTSố TT": "IIIIIIIII",
+      "Nội dungNội dungNội dung": "Nguồn thu được sử dụng trong năm (III=I-II)Nguồn thu được sử dụng trong năm (III=I-II)Nguồn thu được sử dụng trong năm (III=I-II)",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Tổng sốTổng sốTổng số": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Tổng sốTổng sốTổng số": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": ""
+    },
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dungNội dungNội dung": "Nguồn kinh phí NSNN cấp chi thường xuyên không giao tự chủ (nếu có)Nguồn kinh phí NSNN cấp chi thường xuyên không giao tự chủ (nếu có)Nguồn kinh phí NSNN cấp chi thường xuyên không giao tự chủ (nếu có)",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Tổng sốTổng sốTổng số": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Tổng sốTổng sốTổng số": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": ""
+    },
+    {
+      "Số TTSố TTSố TT": "222",
+      "Nội dungNội dungNội dung": "Nguồn thu được sử dụng trong năm dành cho chi thường xuyên giao tự chủNguồn thu được sử dụng trong năm dành cho chi thường xuyên giao tự chủNguồn thu được sử dụng trong năm dành cho chi thường xuyên giao tự chủ",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Tổng sốTổng sốTổng số": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Tổng sốTổng sốTổng số": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": ""
+    },
+    {
+      "Số TTSố TTSố TT": "333",
+      "Nội dungNội dungNội dung": "Nguồn kinh phí NSNN hỗ trợ chi không thường xuyên (nếu có)Nguồn kinh phí NSNN hỗ trợ chi không thường xuyên (nếu có)Nguồn kinh phí NSNN hỗ trợ chi không thường xuyên (nếu có)",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Tổng sốTổng sốTổng số": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Dự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuốiDự toán điều chỉnh lần cuối — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Tổng sốTổng sốTổng số": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Quyết toán được duyệtQuyết toán được duyệtQuyết toán được duyệt — Nguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vịNguồn thu hợp pháp khác của đơn vị": ""
+    }
+  ],
+  "footnotes": []
+}

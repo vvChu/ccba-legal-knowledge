@@ -1,0 +1,12 @@
+﻿STTSTTSTT,NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ,CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH,GIÁ TRỊGIÁ TRỊGIÁ TRỊ,KÝ HIỆUKÝ HIỆUKÝ HIỆU
+[1][1][1],[2][2][2],[3][3][3],[4][4][4],[5][5][5]
+III,CHI PHÍ TRỰC TIẾPCHI PHÍ TRỰC TIẾPCHI PHÍ TRỰC TIẾP,VL + NC + MVL + NC + MVL + NC + M,,TTT
+111,Chi phí vật liệuChi phí vật liệuChi phí vật liệu,,,VLVLVL
+222,Chi phí nhân côngChi phí nhân côngChi phí nhân công,,,NCNCNC
+333,Chi phí máy và thiết bị thi côngChi phí máy và thiết bị thi côngChi phí máy và thiết bị thi công,,,MMM
+IIIIII,CHI PHÍ GIÁN TIẾPCHI PHÍ GIÁN TIẾPCHI PHÍ GIÁN TIẾP,NC x Tỷ lệNC x Tỷ lệNC x Tỷ lệ,,GTGTGT
+IIIIIIIII,THU NHẬP CHỊU THUẾ TÍNH TRƯỚCTHU NHẬP CHỊU THUẾTHU NHẬP CHỊU THUẾ  TÍNH TRƯỚCTÍNH TRƯỚC,(T + GT) x Tỷ lệ(T + GT) x Tỷ lệ(T + GT) x Tỷ lệ,,TLTLTL
+,Chi phí thực hiện bảo dưỡng công trình trước thuếChi phí thực hiện bảo dưỡng công trình trước thuếChi phí thực hiện bảo dưỡng công trình trước thuế,(T + GT + TL)(T + GT + TL)(T + GT + TL),,GTHBDTTGGTHBDTTTHBDTT
+IVIVIV,THUẾ GIÁ TRỊ GIA TĂNGTHUẾ GIÁ TRỊ GIA TĂNGTHUẾ GIÁ TRỊ GIA TĂNG,GTHBDTT x TGTGTGGTHBDTTTHBDTT  x Tx TGTGTGTGT,,GTGTGTGTGTGT
+,Chi phí thực hiện bảo dưỡng công trình sau thuếChi phí thực hiện bảo dưỡng công trình sau thuếChi phí thực hiện bảo dưỡng công trình sau thuế,GTHBDTT + GTGTGGTHBDTTTHBDTT  + GTGT+ GTGT,,GTHBDGGTHBDTHBD
+VVV,Chi phí nhà tạmChi phí nhà tạmChi phí nhà tạm,GTHBD x Tỷ lệGGTHBDTHBD  x Tỷ lệx Tỷ lệ,,LTLTLT

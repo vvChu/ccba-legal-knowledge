@@ -1,0 +1,62 @@
+[
+  {
+    "table_id": "bang_02",
+    "file_stem": "bang_02",
+    "title": "Bảng 02",
+    "columns_count": 8,
+    "rows_count": 2,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_02.json",
+    "csv_path": "tables/csv/bang_02.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_03",
+    "file_stem": "bang_03",
+    "title": "Bảng 03",
+    "columns_count": 8,
+    "rows_count": 2,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_03.json",
+    "csv_path": "tables/csv/bang_03.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_04",
+    "file_stem": "bang_04",
+    "title": "Bảng 04",
+    "columns_count": 5,
+    "rows_count": 4,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_04.json",
+    "csv_path": "tables/csv/bang_04.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_06",
+    "file_stem": "bang_06",
+    "title": "Bảng 06",
+    "columns_count": 2,
+    "rows_count": 3,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_06.json",
+    "csv_path": "tables/csv/bang_06.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_07",
+    "file_stem": "bang_07",
+    "title": "Bảng 07",
+    "columns_count": 8,
+    "rows_count": 14,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_07.json",
+    "csv_path": "tables/csv/bang_07.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  }
+]

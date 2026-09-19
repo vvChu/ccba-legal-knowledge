@@ -1,0 +1,39 @@
+{
+  "table_id": "bang_41",
+  "title": "Bảng 41",
+  "rows_count": 6,
+  "columns_count": 3,
+  "headers": [
+    "STTSTTSTT",
+    "QuỹQuỹQuỹ",
+    "Quyết toánQuyết toánQuyết toán"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "111",
+      "QuỹQuỹQuỹ": "Tổng số (1=2+3+4)Tổng số (1=2+3+4)Tổng số (1=2+3+4)",
+      "Quyết toánQuyết toánQuyết toán": ""
+    },
+    {
+      "STTSTTSTT": "222",
+      "QuỹQuỹQuỹ": "Quỹ phát triển hoạt động sự nghiệpQuỹ phát triển hoạt động sự nghiệpQuỹ phát triển hoạt động sự nghiệp",
+      "Quyết toánQuyết toánQuyết toán": ""
+    },
+    {
+      "STTSTTSTT": "333",
+      "QuỹQuỹQuỹ": "Quỹ bổ sung thu nhậpQuỹ bổ sung thu nhậpQuỹ bổ sung thu nhập",
+      "Quyết toánQuyết toánQuyết toán": ""
+    },
+    {
+      "STTSTTSTT": "333",
+      "QuỹQuỹQuỹ": "Trong đó: Chi thu nhập tăng thêmTrong đó: Chi thu nhập tăng thêmTrong đó: Chi thu nhập tăng thêm",
+      "Quyết toánQuyết toánQuyết toán": ""
+    },
+    {
+      "STTSTTSTT": "444",
+      "QuỹQuỹQuỹ": "Quỹ khen thưởng, Quỹ phúc lợiQuỹ khen thưởng, Quỹ phúc lợiQuỹ khen thưởng, Quỹ phúc lợi",
+      "Quyết toánQuyết toánQuyết toán": ""
+    }
+  ],
+  "footnotes": []
+}

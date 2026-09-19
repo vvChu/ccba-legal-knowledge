@@ -1,0 +1,10 @@
+﻿STTSTTSTT,NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ,GIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾGIÁ TRỊ TRƯỚC THUẾ,THUẾ GTGTTHUẾTHUẾ  GTGTGTGT,GIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾGIÁ TRỊ SAU THUẾ,KÝ HIỆUKÝKÝ  HIỆUHIỆU
+[1][1][1],[2][2][2],[3][3][3],[4][4][4],[5][5][5],[6][6][6]
+111,Chi phí công việc thi công xây dựngChi phí công việc thi công xây dựngChi phí công việc thi công xây dựng,,,,GTCXDGGTCXDTCXD
+222,"Chi phí công việc cung cấp vật tư, thiết bịChi phí công việc cung cấp vật tư, thiết bịChi phí công việc cung cấp vật tư, thiết bị",,,,"GCCVT,TBGGCCVT,TBCCVT,TB"
+333,Chi phí công việc lắp đặt thiết bịChi phí công việc lắp đặt thiết bịChi phí công việc lắp đặt thiết bị,,,,GLĐTBGGLĐTBLĐTB
+444,Chi phí công việc tư vấn xây dựngChi phí công việc tư vấn xây dựngChi phí công việc tư vấn xây dựng,,,,GTVGGTVTV
+555,Chi phí dự phòng (GDP1 + GDP2)Chi phí dự phòng (GChi phí dự phòng (GDP1DP1  + G+ GDP2DP2)),,,,GDPGGDPDP
+5.15.15.1,"Chi phí dự phòng cho khối lượng, công việc phát sinhChi phí dự phòng cho khối lượng,Chi phí dự phòng cho khối lượng,  công việc phát sinhcông việc phát sinh",,,,GDP1GGDP1DP1
+5.25.25.2,Chi phí dự phòng cho yếu tố trượt giáChi phí dự phòng cho yếu tố trượt giáChi phí dự phòng cho yếu tố trượt giá,,,,GDP2GGDP2DP2
+,TỔNG CỘNG ( 1+2+3+4+5)TỔNG CỘNG ( 1+2+3+4+5)TỔNG CỘNG ( 1+2+3+4+5),,,,GGTGGGTGT

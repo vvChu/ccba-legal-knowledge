@@ -1,0 +1,81 @@
+{
+  "table_id": "bang_60",
+  "title": "Bảng 60",
+  "rows_count": 9,
+  "columns_count": 6,
+  "headers": [
+    "STTSTTSTT",
+    "Nội dung chi phíNội dung chi phíNội dung chi phí",
+    "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt",
+    "Giá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm tra",
+    "Giá trị dự toán thẩm traGiá trị dự toán thẩm traGiá trị dự toán thẩm tra",
+    "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "[2][2][2]",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "[3][3][3]",
+      "Giá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm tra": "[4][4][4]",
+      "Giá trị dự toán thẩm traGiá trị dự toán thẩm traGiá trị dự toán thẩm tra": "[5][5][5]",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": "[6][6][6]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí xây dựngChi phí xây dựngChi phí xây dựng",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm tra": "",
+      "Giá trị dự toán thẩm traGiá trị dự toán thẩm traGiá trị dự toán thẩm tra": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    },
+    {
+      "STTSTTSTT": "222",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí thiết bị (nếu có)Chi phí thiết bị (nếu có)Chi phí thiết bị (nếu có)",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm tra": "",
+      "Giá trị dự toán thẩm traGiá trị dự toán thẩm traGiá trị dự toán thẩm tra": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    },
+    {
+      "STTSTTSTT": "333",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí quản lý dự ánChi phí quản lý dự ánChi phí quản lý dự án",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm tra": "",
+      "Giá trị dự toán thẩm traGiá trị dự toán thẩm traGiá trị dự toán thẩm tra": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    },
+    {
+      "STTSTTSTT": "444",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí tư vấn xây dựngChi phí tư vấn xây dựngChi phí tư vấn xây dựng",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm tra": "",
+      "Giá trị dự toán thẩm traGiá trị dự toán thẩm traGiá trị dự toán thẩm tra": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    },
+    {
+      "STTSTTSTT": "555",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí khácChi phí khácChi phí khác",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm tra": "",
+      "Giá trị dự toán thẩm traGiá trị dự toán thẩm traGiá trị dự toán thẩm tra": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    },
+    {
+      "STTSTTSTT": "666",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí dự phòngChi phí dự phòngChi phí dự phòng",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm tra": "",
+      "Giá trị dự toán thẩm traGiá trị dự toán thẩm traGiá trị dự toán thẩm tra": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    },
+    {
+      "STTSTTSTT": "",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Tổng cộngTổng cộngTổng cộng",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm traGiá trị trong dự toán đề nghị thẩm tra": "",
+      "Giá trị dự toán thẩm traGiá trị dự toán thẩm traGiá trị dự toán thẩm tra": "",
+      "Tăng, giảm (+/-)Tăng, giảm (+Tăng, giảm (+//-)-)": ""
+    }
+  ],
+  "footnotes": []
+}

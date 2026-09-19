@@ -1,0 +1,334 @@
+{
+  "table_id": "bang_21",
+  "title": "Bảng 21",
+  "rows_count": 36,
+  "columns_count": 8,
+  "headers": [
+    "Số TTSố TTSố TT",
+    "Nội dungNội dungNội dung",
+    "Tổng sốTổng sốTổng số",
+    "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý",
+    "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị",
+    "Trong đóTrong đóTrong đó",
+    "Ghi chúGhi chúGhi chú",
+    "Ghi chúGhi chúGhi chú"
+  ],
+  "records": [
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dungNội dungNội dung": "222",
+      "Tổng sốTổng sốTổng số": "3=4+53=4+53=4+5",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "444",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "555",
+      "Trong đóTrong đóTrong đó": "666",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "AAA",
+      "Nội dungNội dungNội dung": "DỰ TOÁN THUDỰ TOÁN THUDỰ TOÁN THU",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "III",
+      "Nội dungNội dungNội dung": "Tổng thu (I = 1+2+3+4+5)Tổng thuTổng thu (I = 1+2+3+4+5)(I = 1+2+3+4+5)",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dungNội dungNội dung": "Nguồn thu năm trước chuyển sangNguồn thu năm trước chuyển sangNguồn thu năm trước chuyển sang",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "222",
+      "Nội dungNội dungNội dung": "Nguồn thu từ chi phí của dự án được giao quản lýNguồn thu từ chi phí của dự án được giao quản lýNguồn thu từ chi phí của dự án được giao quản lý",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "333",
+      "Nội dungNội dungNội dung": "Dự án điều chỉnh, bổ sung trong năm (nếu có)Dự án điều chỉnh, bổ sung trong năm (nếu có)Dự án điều chỉnh, bổ sung trong năm (nếu có)",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "444",
+      "Nội dungNội dungNội dung": "Nguồn hợp pháp khác của đơn vị (nếu có)Nguồn hợp pháp khác của đơn vị (nếu có)Nguồn hợp pháp khác của đơn vị (nếu có)",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "555",
+      "Nội dungNội dungNội dung": "Nguồn ngân sách nhà nước cấp (nếu có)Nguồn ngân sách nhà nước cấp (nếu có)Nguồn ngân sách nhà nước cấp (nếu có)",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "IIIIII",
+      "Nội dungNội dungNội dung": "Nguồn thu chuyển sang năm sau tiếp tục sử dụngNguồn thu chuyển sang năm sau tiếp tục sử dụngNguồn thu chuyển sang năm sau tiếp tục sử dụng",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "IIIIIIIII",
+      "Nội dungNội dungNội dung": "Nguồn thu được sử dụng trong năm (III = I - II)Nguồn thu được sử dụng trong nămNguồn thu được sử dụng trong năm (III = I - II)(III = I - II)",
+      "Tổng sốTổng sốTổng số": "(e) = (a)+(b)+(c)(e) = (a)+(b)+(c)(e) = (a)+(b)+(c)",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dungNội dungNội dung": "Nguồn thu được sử dụng trong năm dành cho chi thường xuyênNguồn thu được sử dụng trong năm dành cho chi thường xuyênNguồn thu được sử dụng trong năm dành cho chi thường xuyên",
+      "Tổng sốTổng sốTổng số": "(a)(a)(a)",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "222",
+      "Nội dungNội dungNội dung": "Nguồn NSNN cấp cho chi thường xuyên (nếu có)Nguồn NSNN cấp cho chi thường xuyên (nếu có)Nguồn NSNN cấp cho chi thường xuyên (nếu có)",
+      "Tổng sốTổng sốTổng số": "(b)(b)(b)",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "333",
+      "Nội dungNội dungNội dung": "Nguồn NSNN cấp cho chi không thường xuyên (nếu có)Nguồn NSNN cấp cho chi không thường xuyên (nếu có)Nguồn NSNN cấp cho chi không thường xuyên (nếu có)",
+      "Tổng sốTổng sốTổng số": "(c)(c)(c)",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "BBB",
+      "Nội dungNội dungNội dung": "DỰ TOÁN CHIDỰ TOÁN CHIDỰ TOÁN CHI",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "III",
+      "Nội dungNội dungNội dung": "Chi thường xuyên giao tự chủ (I=1+2+3+...+18)Chi thường xuyên giao tự chủChi thường xuyên giao tự chủ (I=1+2+3+...+18)(I=1+2+3+...+18)",
+      "Tổng sốTổng sốTổng số": "≤ (a)≤ (a)≤ (a)",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dungNội dungNội dung": "Tiền lươngTiền lươngTiền lương",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "222",
+      "Nội dungNội dungNội dung": "Các khoản phụ cấp lươngCác khoản phụ cấp lươngCác khoản phụ cấp lương",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "333",
+      "Nội dungNội dungNội dung": "Các khoản trích nộp theo lươngCác khoản trích nộp theo lươngCác khoản trích nộp theo lương",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "444",
+      "Nội dungNội dungNội dung": "Làm thêm giờLàm thêm giờLàm thêm giờ",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "555",
+      "Nội dungNội dungNội dung": "Khen thưởngKhen thưởngKhen thưởng",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "666",
+      "Nội dungNội dungNội dung": "Chi phúc lợi tập thểChi phúc lợi tập thểChi phúc lợi tập thể",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "777",
+      "Nội dungNội dungNội dung": "Thanh toán dịch vụ công cộngThanh toán dịch vụ công cộngThanh toán dịch vụ công cộng",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "888",
+      "Nội dungNội dungNội dung": "Mua vật tư văn phòngMua vật tư văn phòngMua vật tư văn phòng",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "999",
+      "Nội dungNội dungNội dung": "Thanh toán thông tin, tuyên truyền, liên lạcThanh toán thông tin, tuyên truyền, liên lạcThanh toán thông tin, tuyên truyền, liên lạc",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "101010",
+      "Nội dungNội dungNội dung": "Hội nghị, Hội thảoHội nghị, Hội thảoHội nghị, Hội thảo",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "111111",
+      "Nội dungNội dungNội dung": "Thanh toán công tác phíThanh toán công tác phíThanh toán công tác phí",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "121212",
+      "Nội dungNội dungNội dung": "Thuê mướnThuê mướnThuê mướn",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "131313",
+      "Nội dungNội dungNội dung": "Đoàn đi công tác nước ngoàiĐoàn đi công tác nước ngoàiĐoàn đi công tác nước ngoài",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "141414",
+      "Nội dungNội dungNội dung": "Đoàn vàoĐoàn vàoĐoàn vào",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "151515",
+      "Nội dungNội dungNội dung": "Sửa chữa thường xuyên tài sảnSửa chữa thường xuyên tài sảnSửa chữa thường xuyên tài sản",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "161616",
+      "Nội dungNội dungNội dung": "Mua sắm tài sản phục vụ quản lýMua sắm tài sản phục vụ quản lýMua sắm tài sản phục vụ quản lý",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "171717",
+      "Nội dungNội dungNội dung": "Chi khácChi khácChi khác",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "181818",
+      "Nội dungNội dungNội dung": "Chi dự phòngChi dự phòngChi dự phòng",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "IIIIII",
+      "Nội dungNội dungNội dung": "NSNN cấp cho chi thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụNSNN cấp cho chi thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụNSNN cấp cho chi thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    },
+    {
+      "Số TTSố TTSố TT": "IIIIIIIII",
+      "Nội dungNội dungNội dung": "NSNN cấp cho chi không thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụNSNN cấp cho chi không thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụNSNN cấp cho chi không thường xuyên (nếu có) chi tiết theo nội dung nhiệm vụ",
+      "Tổng sốTổng sốTổng số": "",
+      "Trong đóTrong đóTrong đó — Dự án được giao quản lýDự án được giao quản lýDự án được giao quản lý": "",
+      "Trong đóTrong đóTrong đó — Nguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vịNguồn hợp pháp khác của đơn vị": "",
+      "Trong đóTrong đóTrong đó": "",
+      "Ghi chúGhi chúGhi chú": ""
+    }
+  ],
+  "footnotes": []
+}

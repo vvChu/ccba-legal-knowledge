@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_04",
+  "title": "Bảng 04",
+  "rows_count": 4,
+  "columns_count": 5,
+  "headers": [
+    "Dự ánDDự ự ánán",
+    "Quan trọng quốc giaQuan trQuan trọng quốc giaọng quốc gia",
+    "Nhóm ANhóm ANhóm A",
+    "Nhóm BNhóm BNhóm B",
+    "Nhóm CNhóm CNhóm C"
+  ],
+  "records": [
+    {
+      "Dự ánDDự ự ánán": "Thời gian chủ đầu tư lập hồ sơ quyết toán trình phê duyệtThThời gian chủ đầu tư lập hồ sơ quyết toời gian chủ đầu tư lập hồ sơ quyết toán trình phê duyán trình phê duyệtệt",
+      "Quan trọng quốc giaQuan trQuan trọng quốc giaọng quốc gia": "09 tháng09 thán09 thángg",
+      "Nhóm ANhóm ANhóm A": "09 tháng09 tháng09 tháng",
+      "Nhóm BNhóm BNhóm B": "06 tháng06 tháng06 tháng",
+      "Nhóm CNhóm CNhóm C": "04 tháng04 tháng04 tháng"
+    },
+    {
+      "Dự ánDDự ự ánán": "Thời gian thẩm tra quyết toánThThời gian thẩm tra quyết toời gian thẩm tra quyết toánán",
+      "Quan trọng quốc giaQuan trQuan trọng quốc giaọng quốc gia": "04 tháng04 tháng04 tháng",
+      "Nhóm ANhóm ANhóm A": "04 tháng04 tháng04 tháng",
+      "Nhóm BNhóm BNhóm B": "2,5 tháng2,5 tháng2,5 tháng",
+      "Nhóm CNhóm CNhóm C": "02 tháng02 tháng02 tháng"
+    },
+    {
+      "Dự ánDDự ự ánán": "Thời gian phê duyệt quyết toánThThời gian phời gian phê duyê duyệt quyết toệt quyết toánán",
+      "Quan trọng quốc giaQuan trQuan trọng quốc giaọng quốc gia": "15 ngày15 ngày15 ngày",
+      "Nhóm ANhóm ANhóm A": "15 ngày15 ngày15 ngày",
+      "Nhóm BNhóm BNhóm B": "10 ngày10 ngày10 ngày",
+      "Nhóm CNhóm CNhóm C": "07 ngày07 ngày07 ngày"
+    }
+  ],
+  "footnotes": []
+}

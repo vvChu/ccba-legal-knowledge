@@ -1,0 +1,65 @@
+{
+  "table_id": "bang_35",
+  "title": "Bảng 35",
+  "rows_count": 7,
+  "columns_count": 6,
+  "headers": [
+    "Số TTSố TTSố TT",
+    "Nội dungNội dungNội dung",
+    "Số dư năm trước chuyểnSố dư năm trước chuyểnSố dư năm trước chuyển",
+    "Số trích năm báo cáoSố trích năm báo cáoSố trích năm báo cáo",
+    "Số sử dụng năm báo cáoSố sử dụng năm báo cáoSố sử dụng năm báo cáo",
+    "Số dư chuyển sang năm sauSố dư chuyển sang năm sauSố dư chuyển sang năm sau"
+  ],
+  "records": [
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dungNội dungNội dung": "222",
+      "Số dư năm trước chuyểnSố dư năm trước chuyểnSố dư năm trước chuyển": "333",
+      "Số trích năm báo cáoSố trích năm báo cáoSố trích năm báo cáo": "444",
+      "Số sử dụng năm báo cáoSố sử dụng năm báo cáoSố sử dụng năm báo cáo": "555",
+      "Số dư chuyển sang năm sauSố dư chuyển sang năm sauSố dư chuyển sang năm sau": "6=3+4-56=3+4-56=3+4-5"
+    },
+    {
+      "Số TTSố TTSố TT": "",
+      "Nội dungNội dungNội dung": "Tổng sốTổng sốTổng số",
+      "Số dư năm trước chuyểnSố dư năm trước chuyểnSố dư năm trước chuyển": "",
+      "Số trích năm báo cáoSố trích năm báo cáoSố trích năm báo cáo": "",
+      "Số sử dụng năm báo cáoSố sử dụng năm báo cáoSố sử dụng năm báo cáo": "",
+      "Số dư chuyển sang năm sauSố dư chuyển sang năm sauSố dư chuyển sang năm sau": ""
+    },
+    {
+      "Số TTSố TTSố TT": "111",
+      "Nội dungNội dungNội dung": "Quỹ phát triển hoạt động sự nghiệpQuỹ phát triển hoạt động sự nghiệpQuỹ phát triển hoạt động sự nghiệp",
+      "Số dư năm trước chuyểnSố dư năm trước chuyểnSố dư năm trước chuyển": "",
+      "Số trích năm báo cáoSố trích năm báo cáoSố trích năm báo cáo": "",
+      "Số sử dụng năm báo cáoSố sử dụng năm báo cáoSố sử dụng năm báo cáo": "",
+      "Số dư chuyển sang năm sauSố dư chuyển sang năm sauSố dư chuyển sang năm sau": ""
+    },
+    {
+      "Số TTSố TTSố TT": "222",
+      "Nội dungNội dungNội dung": "Quỹ bổ sung thu nhậpQuỹ bổ sung thu nhậpQuỹ bổ sung thu nhập",
+      "Số dư năm trước chuyểnSố dư năm trước chuyểnSố dư năm trước chuyển": "",
+      "Số trích năm báo cáoSố trích năm báo cáoSố trích năm báo cáo": "",
+      "Số sử dụng năm báo cáoSố sử dụng năm báo cáoSố sử dụng năm báo cáo": "",
+      "Số dư chuyển sang năm sauSố dư chuyển sang năm sauSố dư chuyển sang năm sau": ""
+    },
+    {
+      "Số TTSố TTSố TT": "222",
+      "Nội dungNội dungNội dung": "Trong đó: Chi thu nhập tăng thêmTrong đó: Chi thu nhập tăng thêmTrong đó: Chi thu nhập tăng thêm",
+      "Số dư năm trước chuyểnSố dư năm trước chuyểnSố dư năm trước chuyển": "",
+      "Số trích năm báo cáoSố trích năm báo cáoSố trích năm báo cáo": "",
+      "Số sử dụng năm báo cáoSố sử dụng năm báo cáoSố sử dụng năm báo cáo": "",
+      "Số dư chuyển sang năm sauSố dư chuyển sang năm sauSố dư chuyển sang năm sau": ""
+    },
+    {
+      "Số TTSố TTSố TT": "333",
+      "Nội dungNội dungNội dung": "Quỹ khen thưởng, Quỹ phúc lợiQuỹ khen thưởng, Quỹ phúc lợiQuỹ khen thưởng, Quỹ phúc lợi",
+      "Số dư năm trước chuyểnSố dư năm trước chuyểnSố dư năm trước chuyển": "",
+      "Số trích năm báo cáoSố trích năm báo cáoSố trích năm báo cáo": "",
+      "Số sử dụng năm báo cáoSố sử dụng năm báo cáoSố sử dụng năm báo cáo": "",
+      "Số dư chuyển sang năm sauSố dư chuyển sang năm sauSố dư chuyển sang năm sau": ""
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,64 @@
+{
+  "table_id": "bang_33",
+  "title": "Bảng 33",
+  "rows_count": 5,
+  "columns_count": 9,
+  "headers": [
+    "STTSTTSTT",
+    "Loại vật liệuLoại vật liệuLoại vật liệu",
+    "Đơn vị tínhĐơn vị tínhĐơn vị tính",
+    "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Giá tại nguồn cung cấpGiá tại nguồn cung cấpGiá tại nguồn cung cấp",
+    "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Chi phí vận chuyển đến công trình (nếu có)Chi phí vận chuyển đến công trìnhChi phí vận chuyển đến công trình  (nếu có)(nếu có)",
+    "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Chi phí bốc xếp (nếu có)Chi phíChi phí  bốc xếpbốc xếp  (nếu có)(nếu có)",
+    "Chi phí vận chuyển nội bộ công trình (nếu có)Chi phí vận chuyển nội bộ công trình (nếu có)Chi phí vận chuyển nội bộ công trình (nếu có)",
+    "Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)",
+    "Giá vật liệu đến hiện trường công trìnhGiá vật liệu đến hiện trường công trìnhGiá vật liệu đến hiện trường công trình"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "Loại vật liệuLoại vật liệuLoại vật liệu": "[2][2][2]",
+      "Đơn vị tínhĐơn vị tínhĐơn vị tính": "[3][3][3]",
+      "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Giá tại nguồn cung cấpGiá tại nguồn cung cấpGiá tại nguồn cung cấp": "[4][4][4]",
+      "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Chi phí vận chuyển đến công trình (nếu có)Chi phí vận chuyển đến công trìnhChi phí vận chuyển đến công trình  (nếu có)(nếu có)": "[5][5][5]",
+      "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Chi phí bốc xếp (nếu có)Chi phíChi phí  bốc xếpbốc xếp  (nếu có)(nếu có)": "[6][6][6]",
+      "Chi phí vận chuyển nội bộ công trình (nếu có)Chi phí vận chuyển nội bộ công trình (nếu có)Chi phí vận chuyển nội bộ công trình (nếu có)": "[7][7][7]",
+      "Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)": "[8][8][8]",
+      "Giá vật liệu đến hiện trường công trìnhGiá vật liệu đến hiện trường công trìnhGiá vật liệu đến hiện trường công trình": "[9] = [4]+[5]+[6] + [7]+[8][9] = [4]+[5]+[6] + [7]+[8][9] = [4]+[5]+[6] + [7]+[8]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "Loại vật liệuLoại vật liệuLoại vật liệu": "",
+      "Đơn vị tínhĐơn vị tínhĐơn vị tính": "",
+      "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Giá tại nguồn cung cấpGiá tại nguồn cung cấpGiá tại nguồn cung cấp": "",
+      "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Chi phí vận chuyển đến công trình (nếu có)Chi phí vận chuyển đến công trìnhChi phí vận chuyển đến công trình  (nếu có)(nếu có)": "",
+      "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Chi phí bốc xếp (nếu có)Chi phíChi phí  bốc xếpbốc xếp  (nếu có)(nếu có)": "",
+      "Chi phí vận chuyển nội bộ công trình (nếu có)Chi phí vận chuyển nội bộ công trình (nếu có)Chi phí vận chuyển nội bộ công trình (nếu có)": "",
+      "Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)": "",
+      "Giá vật liệu đến hiện trường công trìnhGiá vật liệu đến hiện trường công trìnhGiá vật liệu đến hiện trường công trình": ""
+    },
+    {
+      "STTSTTSTT": "222",
+      "Loại vật liệuLoại vật liệuLoại vật liệu": "",
+      "Đơn vị tínhĐơn vị tínhĐơn vị tính": "",
+      "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Giá tại nguồn cung cấpGiá tại nguồn cung cấpGiá tại nguồn cung cấp": "",
+      "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Chi phí vận chuyển đến công trình (nếu có)Chi phí vận chuyển đến công trìnhChi phí vận chuyển đến công trình  (nếu có)(nếu có)": "",
+      "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Chi phí bốc xếp (nếu có)Chi phíChi phí  bốc xếpbốc xếp  (nếu có)(nếu có)": "",
+      "Chi phí vận chuyển nội bộ công trình (nếu có)Chi phí vận chuyển nội bộ công trình (nếu có)Chi phí vận chuyển nội bộ công trình (nếu có)": "",
+      "Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)": "",
+      "Giá vật liệu đến hiện trường công trìnhGiá vật liệu đến hiện trường công trìnhGiá vật liệu đến hiện trường công trình": ""
+    },
+    {
+      "STTSTTSTT": ".........",
+      "Loại vật liệuLoại vật liệuLoại vật liệu": "",
+      "Đơn vị tínhĐơn vị tínhĐơn vị tính": "",
+      "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Giá tại nguồn cung cấpGiá tại nguồn cung cấpGiá tại nguồn cung cấp": "",
+      "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Chi phí vận chuyển đến công trình (nếu có)Chi phí vận chuyển đến công trìnhChi phí vận chuyển đến công trình  (nếu có)(nếu có)": "",
+      "Giá vật liệu đến công trìnhGiá vật liệu đến công trìnhGiá vật liệu đến công trình — Chi phí bốc xếp (nếu có)Chi phíChi phí  bốc xếpbốc xếp  (nếu có)(nếu có)": "",
+      "Chi phí vận chuyển nội bộ công trình (nếu có)Chi phí vận chuyển nội bộ công trình (nếu có)Chi phí vận chuyển nội bộ công trình (nếu có)": "",
+      "Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)Chi phí hao hụt bảo quản tại hiện trường công trình (nếu có)": "",
+      "Giá vật liệu đến hiện trường công trìnhGiá vật liệu đến hiện trường công trìnhGiá vật liệu đến hiện trường công trình": ""
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,10 @@
+﻿STTSTTSTT,NỘI DUNG CHI PHÍNỘI DUNG CHI PHÍNỘI DUNG CHI PHÍ,CÁCH TÍNHCÁCH TÍNHCÁCH TÍNH,GIÁ TRỊGIÁGIÁ  TRỊTRỊ,KÝ HIỆUKÝKÝ  HIỆUHIỆU
+III,Chi phí trực tiếpChi phí trực tiếpChi phí trực tiếp,,,TTT
+IIIIII,Chi phí gián tiếpChi phí gián tiếpChi phí gián tiếp,C + TTC + TTC + TT,,GTGTGT
+111,Chi phí chungChi phí chungChi phí chung,T × Tỷ lệ × 50%T × Tỷ lệ × 50%T × Tỷ lệ × 50%,,CCC
+222,Chi phí một số công việc không xác định được khối lượng từ thiết kếChi phí một số công việc không xác định được khối lượng từ thiết kếChi phí một số công việc không xác định được khối lượng từ thiết kế,T × Tỷ lệ × 50%T × Tỷ lệ × 50%T × Tỷ lệ × 50%,,TTTTTT
+IIIIIIIII,Thu nhập chịu thuế tính trướcThu nhập chịu thuế tính trướcThu nhập chịu thuế tính trước,(T + GT) × Tỷ lệ × 50%(T + GT) × Tỷ lệ × 50%(T + GT) × Tỷ lệ × 50%,,TLTLTL
+,Chi phí xây dựng trước thuếChi phí xây dựng trước thuếChi phí xây dựng trước thuế,(T + GT + TL)(T + GT + TL)(T + GT + TL),,GXDTTGGXDTTXDTT
+IVIVIV,Thuế giá trị gia tăngThuế giá trị gia tăngThuế giá trị gia tăng,GXDTT x TGTGTGGXDTTXDTT  x Tx TGTGTGTGT,,GTGTGTGTGTGT
+,CHI PHÍ XÂY DỰNG SAU THUẾCHI PHÍ XÂY DỰNG SAUCHI PHÍ XÂY DỰNG SAU  THUẾTHUẾ,GXDTT + GTGTGGXDTTXDTT  + G+ GTGTTGT,,
+VVV,Chi phí nhà tạm để ở và điều hành thi côngChi phí nhà tạm để ở và Chi phí nhà tạm để ở và điềuđiều  hành thi cônghành thi công,GXDTT x Tỷ lệ x TGTGTGGXDTTXDTT  x Tỷ lệ x Tx Tỷ lệ x TGTGTGTGT,,LTLTLT

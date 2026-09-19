@@ -1,0 +1,251 @@
+{
+  "table_id": "bang_1_1",
+  "title": "Bảng 1.1 Phân cấp công trình sử dụng cho mục đích dân dụng (công trình dân dụng)",
+  "rows_count": 22,
+  "columns_count": 9,
+  "headers": [
+    "STTSTTSTT",
+    "Loại công trìnhLoại côngLoại công  trìnhtrình",
+    "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp",
+    "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt",
+    "Cấp công trìnhCấp côngCấp công  trìnhtrình — III",
+    "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII",
+    "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII",
+    "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV",
+    "Cấp công trìnhCấp côngCấp công  trìnhtrình"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "1.1.11.1.11.1.1",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "Công trình giáo dục, đào tạoCôngCông  trìnhtrình  giáogiáo  dục, đào tạodục, đào tạo",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Công trình giáo dục, đào tạoCôngCông  trìnhtrình  giáogiáo  dục, đào tạodục, đào tạo",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "Công trình giáo dục, đào tạoCôngCông  trìnhtrình  giáogiáo  dục, đào tạodục, đào tạo",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "Công trình giáo dục, đào tạoCôngCông  trìnhtrình  giáogiáo  dục, đào tạodục, đào tạo",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "Công trình giáo dục, đào tạoCôngCông  trìnhtrình  giáogiáo  dục, đào tạodục, đào tạo",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "Công trình giáo dục, đào tạoCôngCông  trìnhtrình  giáogiáo  dục, đào tạodục, đào tạo",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "Công trình giáo dục, đào tạoCôngCông  trìnhtrình  giáogiáo  dục, đào tạodục, đào tạo",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": "Công trình giáo dục, đào tạoCôngCông  trìnhtrình  giáogiáo  dục, đào tạodục, đào tạo"
+    },
+    {
+      "STTSTTSTT": "1.1.11.1.11.1.1",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "1.1.1.1 Nhà trẻ, trường mẫu giáo, trường mầm non1.1.1.1 Nhà trẻ, trường mẫu giáo, trường mầm non1.1.1.1 Nhà trẻ, trường mẫu giáo, trường mầm non",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Mức độ quan trọngMức độ quan trọngMức độ quan trọng",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "Cấp III với mọi quy môCấp III với mọi quy môCấp III với mọi quy mô",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "Cấp III với mọi quy môCấp III với mọi quy môCấp III với mọi quy mô",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "Cấp III với mọi quy môCấp III với mọi quy môCấp III với mọi quy mô",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "Cấp III với mọi quy môCấp III với mọi quy môCấp III với mọi quy mô",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "Cấp III với mọi quy môCấp III với mọi quy môCấp III với mọi quy mô",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": "Cấp III với mọi quy môCấp III với mọi quy môCấp III với mọi quy mô"
+    },
+    {
+      "STTSTTSTT": "1.1.11.1.11.1.1",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "1.1.1.2 Trường tiểu học1.1.1.2 Trường tiểu học1.1.1.2 Trường tiểu học",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Tổng số học sinh toàn trườngTổng số học sinh toàn trườngTổng số học sinh toàn trường",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "≥700≥700≥700",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "<700<700<700",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.11.1.11.1.1",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "1.1.1.3 Trường trung học cơ sở, trường trung học phổ thông, trường phổ thông có nhiều cấp học1.1.1.3 Trường trung học cơ sở, trường trung học phổ thông, trường phổ thông có nhiều cấp học1.1.1.3 Trường trung học cơ sở, trường trung học phổ thông, trường phổ thông có nhiều cấp học",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Tổng số học sinh toàn trườngTổng số học sinh toàn trườngTổng số học sinh toàn trường",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "≥1.350≥1.350≥1.350",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "<1.350<1.350<1.350",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.11.1.11.1.1",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "1.1.1.4 Cơ sở giáo dục đại học; trường cao đẳng, trường trung cấp, trường trung học nghề; trung tâm giáo dục nghề nghiệp, trung tâm giáo dục thường xuyên1.1.1.4 Cơ sở giáo dục đại học; trường cao đẳng, trường trung cấp, trường trung học nghề; trung tâm giáo dục nghề nghiệp, trung tâm giáo dục thường xuyên1.1.1.4 Cơ sở giáo dục đại học; trường cao đẳng, trường trung cấp, trường trung học nghề; trung tâm giáo dục nghề nghiệp, trung tâm giáo dục thường xuyên",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Tổng số sinh viên toàn trườngTổng số sinh viên toàn trườngTổng số sinh viên toàn trường",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": ">8.000>8.000>8.000",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "5.000 ÷ 8.0005.000 ÷ 8.0005.000 ÷ 8.000",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "<5.000<5.000<5.000",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.21.1.21.1.2",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "Công trình y tếCôngCông  trìnhtrình  yy  tếtế",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Công trình y tếCôngCông  trìnhtrình  yy  tếtế",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "Công trình y tếCôngCông  trìnhtrình  yy  tếtế",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "Công trình y tếCôngCông  trìnhtrình  yy  tếtế",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "Công trình y tếCôngCông  trìnhtrình  yy  tếtế",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "Công trình y tếCôngCông  trìnhtrình  yy  tếtế",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "Công trình y tếCôngCông  trìnhtrình  yy  tếtế",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": "Công trình y tếCôngCông  trìnhtrình  yy  tếtế"
+    },
+    {
+      "STTSTTSTT": "1.1.21.1.21.1.2",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "1.1.2.1 Bệnh viện đa khoa, bệnh viện chuyên khoa từ trung ương đến địa phương (Bệnh viện trung ương không thấp hơn cấp I)1.1.2.1 Bệnh viện đa khoa, bệnh viện chuyên khoa từ trung ương đến địa phương 1.1.2.1 Bệnh viện đa khoa, bệnh viện chuyên khoa từ trung ương đến địa phương (Bệnh viện trung(Bệnh viện trung  ương khôngương không  thấp hơn cấp I)thấp hơn cấp I)",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Tổng số giường bệnh lưu trúTổng số giường bệnh lưu trúTổng số giường bệnh lưu trú",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": ">1.000>1.000>1.000",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "500 ÷ 1.000500 ÷ 1.000500 ÷ 1.000",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "250 ÷ <500250 ÷ <500250 ÷ <500",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "<250<250<250",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.21.1.21.1.2",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "1.1.2.2 Trung tâm thí nghiệm an toàn sinh học (Cấp độ an toàn sinh học xác định theo quy định của ngành y tế)1.1.2.2 Trung tâm thí nghiệm an toàn sinh học (1.1.2.2 Trung tâm thí nghiệm an toàn sinh học (CấpCấp  độ an toànđộ an toàn  sinhsinh  họchọc  xácxác  địnhđịnh  theotheo  quyquy  địnhđịnh  củacủa  ngànhngành  yy  tế)tế)",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Cấp độ an toàn sinh học (ATSH)Cấp độ an toàn sinh học (ATSH)Cấp độ an toàn sinh học (ATSH)",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "ATSH cấp độ 4ATSH cấp độ 4ATSH cấp độ 4",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "ATSH cấp độ 3ATSH cấp độ 3ATSH cấp độ 3",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "ATSH cấp độ 1 và cấp độ 2ATSH cấp độ 1 và cấp độ 2ATSH cấp độ 1 và cấp độ 2",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.31.1.31.1.3",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "Công trình thể thaoCôngCông  trìnhtrình  thể thaothể thao",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Công trình thể thaoCôngCông  trìnhtrình  thể thaothể thao",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "Công trình thể thaoCôngCông  trìnhtrình  thể thaothể thao",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "Công trình thể thaoCôngCông  trìnhtrình  thể thaothể thao",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "Công trình thể thaoCôngCông  trìnhtrình  thể thaothể thao",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "Công trình thể thaoCôngCông  trìnhtrình  thể thaothể thao",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "Công trình thể thaoCôngCông  trìnhtrình  thể thaothể thao",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": "Công trình thể thaoCôngCông  trìnhtrình  thể thaothể thao"
+    },
+    {
+      "STTSTTSTT": "1.1.31.1.31.1.3",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "1.1.3.1 Sân vận động, sân thi đấu các môn thể thao ngoài trời có khán đài (Sân vận động quốc gia, sân thi đấu quốc gia không thấp hơn cấp I)1.1.3.1 Sân vận động, sân thi đấu các môn thể thao ngoài trời có khán đài 1.1.3.1 Sân vận động, sân thi đấu các môn thể thao ngoài trời có khán đài (Sân(Sân  vậnvận  độngđộng  quốcquốc  gia,gia,  sânsân  thithi  đấuđấu  quốcquốc  giagia  khôngkhông  thấpthấp  hơnhơn  cấpcấp  I)I)",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Sức chứa của khán đài (nghìn chỗ)Sức chứa của khán đài (nghìn chỗ)Sức chứa của khán đài (nghìn chỗ)",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": ">40>40>40",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": ">20 ÷ 40>20 ÷ 40>20 ÷ 40",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "5 ÷ 205 ÷ 205 ÷ 20",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "<5<5<5",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.31.1.31.1.3",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "1.1.3.2 Nhà thi đấu, tập luyện các môn thể thao có khán đài (Nhà thi đấu thể thao quốc gia không thấp hơn cấp I)1.1.3.2 Nhà thi đấu, tập luyện các môn thể thao có khán đài 1.1.3.2 Nhà thi đấu, tập luyện các môn thể thao có khán đài (Nhà(Nhà  thithi  đấu thể thaođấu thể thao  quốcquốc  giagia  khôngkhông  thấp hơn cấp I)thấp hơn cấp I)",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Sức chứa của khán đài (nghìn chỗ)Sức chứa của khán đài (nghìn chỗ)Sức chứa của khán đài (nghìn chỗ)",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": ">7,5>7,5>7,5",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "5 ÷ 7,55 ÷ 7,55 ÷ 7,5",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "2 ÷ <52 ÷ <52 ÷ <5",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "<2<2<2",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.31.1.31.1.3",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "1.1.3.3 Sân gôn1.1.3.3 Sân gôn1.1.3.3 Sân gôn",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Số lỗSố lỗSố lỗ",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "≥18≥18≥18",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "<18<18<18",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.31.1.31.1.3",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "1.1.3.4 Bể bơi, sân thể thao ngoài trời1.1.3.4 Bể bơi, sân thể thao ngoài trời1.1.3.4 Bể bơi, sân thể thao ngoài trời",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Mức độ quan trọngMức độ quan trọngMức độ quan trọng",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "Đạt chuẩn thi đấu thể thao cấp quốc giaĐạt chuẩn thi đấu thể thao cấp quốc giaĐạt chuẩn thi đấu thể thao cấp quốc gia",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "Hoạt động thể thao phong tràoHoạt động thể thao phong tràoHoạt động thể thao phong trào",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.41.1.41.1.4",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "Công trình văn hóaCôngCông  trìnhtrình  văn hóavăn hóa",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Công trình văn hóaCôngCông  trìnhtrình  văn hóavăn hóa",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "Công trình văn hóaCôngCông  trìnhtrình  văn hóavăn hóa",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "Công trình văn hóaCôngCông  trìnhtrình  văn hóavăn hóa",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "Công trình văn hóaCôngCông  trìnhtrình  văn hóavăn hóa",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "Công trình văn hóaCôngCông  trìnhtrình  văn hóavăn hóa",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "Công trình văn hóaCôngCông  trìnhtrình  văn hóavăn hóa",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": "Công trình văn hóaCôngCông  trìnhtrình  văn hóavăn hóa"
+    },
+    {
+      "STTSTTSTT": "1.1.41.1.41.1.4",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "1.1.4.1 Trung tâm hội nghị, nhà văn hóa, câu lạc bộ, vũ trường và các công trình văn hóa tập trung đông người khác (Trung tâm hội nghị quốc gia không thấp hơn cấp I)1.1.4.1 Trung tâm hội nghị, nhà văn hóa, câu lạc bộ, vũ trường và các công trình văn hóa tập trung đông người khác 1.1.4.1 Trung tâm hội nghị, nhà văn hóa, câu lạc bộ, vũ trường và các công trình văn hóa tập trung đông người khác (Trung(Trung  tâmtâm  hộihội  nghị quốcnghị quốc  giagia  khôngkhông  thấpthấp  hơnhơn  cấpcấp  I)I)",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Tổng sức chứa (nghìn người)Tổng sức chứa (nghìn người)Tổng sức chứa (nghìn người)",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": ">3>3>3",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": ">1,2 ÷ 3>1,2 ÷ 3>1,2 ÷ 3",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": ">0,3 ÷ 1,2>0,3 ÷ 1,2>0,3 ÷ 1,2",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "≤0,3≤0,3≤0,3",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.41.1.41.1.4",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "1.1.4.2 Nhà hát, rạp chiếu phim, rạp xiếc1.1.4.2 Nhà hát, rạp chiếu phim, rạp xiếc1.1.4.2 Nhà hát, rạp chiếu phim, rạp xiếc",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Tổng sức chứa khán giả (nghìn người)Tổng sức chứa khán giả (nghìn người)Tổng sức chứa khán giả (nghìn người)",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": ">3>3>3",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": ">1,2 ÷ 3>1,2 ÷ 3>1,2 ÷ 3",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": ">0,3 ÷ 1,2>0,3 ÷ 1,2>0,3 ÷ 1,2",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "≤0,3≤0,3≤0,3",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.41.1.41.1.4",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "1.1.4.3 Bảo tàng, thư viện, triển lãm, nhà trưng bày1.1.4.3 Bảo tàng, thư viện, triển lãm, nhà trưng bày1.1.4.3 Bảo tàng, thư viện, triển lãm, nhà trưng bày",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Mức độ quan trọngMức độ quan trọngMức độ quan trọng",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "Quốc giaQuốc giaQuốc gia",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "Tỉnh, NgànhTỉnh, NgànhTỉnh, Ngành",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "Các trường hợp còn lạiCác trường hợp còn lạiCác trường hợp còn lại",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.51.1.51.1.5",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "ChợChợChợ",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Số điểm kinh doanhSố điểm kinh doanhSố điểm kinh doanh",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": ">400>400>400",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "≤400≤400≤400",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.61.1.61.1.6",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "Công trình tôn giáoCôngCông  trìnhtrình  tôntôn  giáogiáo",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Mức độ quan trọngMức độ quan trọngMức độ quan trọng",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "Cấp III với mọi quy môCấp III với mọi quy môCấp III với mọi quy mô",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "Cấp III với mọi quy môCấp III với mọi quy môCấp III với mọi quy mô",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "Cấp III với mọi quy môCấp III với mọi quy môCấp III với mọi quy mô",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "Cấp III với mọi quy môCấp III với mọi quy môCấp III với mọi quy mô",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "Cấp III với mọi quy môCấp III với mọi quy môCấp III với mọi quy mô",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": "Cấp III với mọi quy môCấp III với mọi quy môCấp III với mọi quy mô"
+    },
+    {
+      "STTSTTSTT": "1.1.71.1.71.1.7",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "Trụ sở cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hộiTrụ sở cơ quanTrụ sở cơ quan  nhànhà  nước, tổ chức chínhnước, tổ chức chính  trị, tổ chức chínhtrị, tổ chức chính  trị -trị -  xãxã  hộihội",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Mức độ quan trọngMức độ quan trọngMức độ quan trọng",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "Nhà Quốc hội, Phủ Chủ tịch, Trụ sở Chính phủ, Trụ sở Trung ương Đảng; các công trình đặc biệt quan trọng khácNhà Quốc hội, Phủ Chủ tịch, Trụ sở Chính phủ, Trụ sở Trung ương Đảng; các công trình đặc biệt quan trọng khácNhà Quốc hội, Phủ Chủ tịch, Trụ sở Chính phủ, Trụ sở Trung ương Đảng; các công trình đặc biệt quan trọng khác",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "Trụ sở làm việc của: Tỉnh ủy; HĐND, UBND cấp tỉnh; Bộ; Tòa án nhân dân, Viện kiểm sát nhân dân tối caoTrụ sở làm việc của: Tỉnh ủy; HĐND, UBND cấp tỉnh; Bộ; Tòa án nhân dân, Viện kiểm sát nhân dân tối caoTrụ sở làm việc của: Tỉnh ủy; HĐND, UBND cấp tỉnh; Bộ; Tòa án nhân dân, Viện kiểm sát nhân dân tối cao",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "Trụ sở làm việc: cấp Cục, cấp Sở và cấp tương đương; Tòa án nhân dân, Viện kiểm sát nhân dân cấp tỉnh, khu vựcTrụ sở làm việc: cấp Cục, cấp Sở và cấp tương đương; Tòa án nhân dân, Viện kiểm sát nhân dân cấp tỉnh, khu vựcTrụ sở làm việc: cấp Cục, cấp Sở và cấp tương đương; Tòa án nhân dân, Viện kiểm sát nhân dân cấp tỉnh, khu vực",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "Trụ sở làm việc của: Đảng ủy, HĐND, UBND cấp xã và cấp tương đươngTrụ sở làm việc của: Đảng ủy, HĐND, UBND cấp xã và cấp tương đươngTrụ sở làm việc của: Đảng ủy, HĐND, UBND cấp xã và cấp tương đương",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    },
+    {
+      "STTSTTSTT": "1.1.81.1.81.1.8",
+      "Loại công trìnhLoại côngLoại công  trìnhtrình": "Cơ sở vận hành lò phản ứng hạt nhân nghiên cứuCơ sở vận hànhCơ sở vận hành  lòlò  phản ứng hạt nhânphản ứng hạt nhân  nghiênnghiên  cứucứu",
+      "Tiêu chí phân cấpTiêuTiêu  chíchí  phânphân  cấpcấp": "Công suất nhiệt thiết kế (MWt)Công suất nhiệt thiết kế (MWt)Công suất nhiệt thiết kế (MWt)",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — Đặc biệtĐặc biệtĐặc biệt": "≥20≥20≥20",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — III": "2 ÷ <202 ÷ <202 ÷ <20",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIII": "<2<2<2",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IIIIIIIII": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình — IVIVIV": "",
+      "Cấp công trìnhCấp côngCấp công  trìnhtrình": ""
+    }
+  ],
+  "footnotes": []
+}

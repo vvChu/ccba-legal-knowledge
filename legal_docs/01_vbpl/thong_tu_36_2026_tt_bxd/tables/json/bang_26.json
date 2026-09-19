@@ -1,0 +1,59 @@
+{
+  "table_id": "bang_26",
+  "title": "Bảng 26",
+  "rows_count": 10,
+  "columns_count": 3,
+  "headers": [
+    "STTSTTSTT",
+    "Loại công trìnhLoại công trìnhLoại công trình",
+    "Tỷ lệ (%)Tỷ lệ (%)Tỷ lệ (%)"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "Loại công trìnhLoại công trìnhLoại công trình": "[2][2][2]",
+      "Tỷ lệ (%)Tỷ lệ (%)Tỷ lệ (%)": "[3][3][3]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Công trình dân dụngCông trình dân dụngCông trình dân dụng",
+      "Tỷ lệ (%)Tỷ lệ (%)Tỷ lệ (%)": "2,52,52,5"
+    },
+    {
+      "STTSTTSTT": "222",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Công trình công nghiệpCông trình công nghiệpCông trình công nghiệp",
+      "Tỷ lệ (%)Tỷ lệ (%)Tỷ lệ (%)": "2,02,02,0"
+    },
+    {
+      "STTSTTSTT": "",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Riêng công tác xây dựng trong đường hầm thủy điện, hầm lòRiêng công tác xây dựng trong đường hầm thủy điện, hầm lòRiêng công tác xây dựng trong đường hầm thủy điện, hầm lò",
+      "Tỷ lệ (%)Tỷ lệ (%)Tỷ lệ (%)": "6,56,56,5"
+    },
+    {
+      "STTSTTSTT": "333",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Công trình giao thôngCông trình giao thôngCông trình giao thông",
+      "Tỷ lệ (%)Tỷ lệ (%)Tỷ lệ (%)": "2,02,02,0"
+    },
+    {
+      "STTSTTSTT": "",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Riêng công tác xây dựng trong đường hầm giao thôngRiêng công tác xây dựng trong đường hầm giao thôngRiêng công tác xây dựng trong đường hầm giao thông",
+      "Tỷ lệ (%)Tỷ lệ (%)Tỷ lệ (%)": "6,56,56,5"
+    },
+    {
+      "STTSTTSTT": "444",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Công trình nông nghiệp và môi trườngCông trình nông nghiệp và môi trườngCông trình nông nghiệp và môi trường",
+      "Tỷ lệ (%)Tỷ lệ (%)Tỷ lệ (%)": "2,02,02,0"
+    },
+    {
+      "STTSTTSTT": "",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Riêng công tác xây dựng trong đường hầmRiêng công tác xây dựng trong đường hầmRiêng công tác xây dựng trong đường hầm",
+      "Tỷ lệ (%)Tỷ lệ (%)Tỷ lệ (%)": "6,56,56,5"
+    },
+    {
+      "STTSTTSTT": "555",
+      "Loại công trìnhLoại công trìnhLoại công trình": "Công trình hạ tầng kỹ thuậtCông trình hạ tầng kỹ thuậtCông trình hạ tầng kỹ thuật",
+      "Tỷ lệ (%)Tỷ lệ (%)Tỷ lệ (%)": "2,02,02,0"
+    }
+  ],
+  "footnotes": []
+}

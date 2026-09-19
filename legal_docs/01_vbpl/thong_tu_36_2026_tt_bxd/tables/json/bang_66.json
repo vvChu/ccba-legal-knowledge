@@ -1,0 +1,81 @@
+{
+  "table_id": "bang_66",
+  "title": "Bảng 66",
+  "rows_count": 9,
+  "columns_count": 6,
+  "headers": [
+    "STTSTTSTT",
+    "Nội dung chi phíNội dung chi phíNội dung chi phí",
+    "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt",
+    "Giá trị dự toán trình thẩm định/thẩm traGiá trị dự toán trình thẩm địnhGiá trị dự toán trình thẩm định//thẩm trathẩm tra",
+    "Giá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm định",
+    "Đánh giáĐánhĐánh  giágiá"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "[1][1][1]",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "[2][2][2]",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "[3][3][3]",
+      "Giá trị dự toán trình thẩm định/thẩm traGiá trị dự toán trình thẩm địnhGiá trị dự toán trình thẩm định//thẩm trathẩm tra": "[4][4][4]",
+      "Giá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm định": "[5][5][5]",
+      "Đánh giáĐánhĐánh  giágiá": "[6][6][6]"
+    },
+    {
+      "STTSTTSTT": "111",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí xây dựngChi phí xây dựngChi phí xây dựng",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị dự toán trình thẩm định/thẩm traGiá trị dự toán trình thẩm địnhGiá trị dự toán trình thẩm định//thẩm trathẩm tra": "",
+      "Giá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm định": "",
+      "Đánh giáĐánhĐánh  giágiá": ""
+    },
+    {
+      "STTSTTSTT": "222",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí thiết bịChi phí thiết bịChi phí thiết bị",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị dự toán trình thẩm định/thẩm traGiá trị dự toán trình thẩm địnhGiá trị dự toán trình thẩm định//thẩm trathẩm tra": "",
+      "Giá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm định": "",
+      "Đánh giáĐánhĐánh  giágiá": ""
+    },
+    {
+      "STTSTTSTT": "333",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí quản lý dự ánChi phí quản lý dự ánChi phí quản lý dự án",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị dự toán trình thẩm định/thẩm traGiá trị dự toán trình thẩm địnhGiá trị dự toán trình thẩm định//thẩm trathẩm tra": "",
+      "Giá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm định": "",
+      "Đánh giáĐánhĐánh  giágiá": ""
+    },
+    {
+      "STTSTTSTT": "444",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí tư vấn xây dựngChi phí tư vấn xâyChi phí tư vấn xây  dựngdựng",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị dự toán trình thẩm định/thẩm traGiá trị dự toán trình thẩm địnhGiá trị dự toán trình thẩm định//thẩm trathẩm tra": "",
+      "Giá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm định": "",
+      "Đánh giáĐánhĐánh  giágiá": ""
+    },
+    {
+      "STTSTTSTT": "555",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí khácChi phí khácChi phí khác",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị dự toán trình thẩm định/thẩm traGiá trị dự toán trình thẩm địnhGiá trị dự toán trình thẩm định//thẩm trathẩm tra": "",
+      "Giá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm định": "",
+      "Đánh giáĐánhĐánh  giágiá": ""
+    },
+    {
+      "STTSTTSTT": "666",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Chi phí dự phòngChi phí dự phòngChi phí dự phòng",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị dự toán trình thẩm định/thẩm traGiá trị dự toán trình thẩm địnhGiá trị dự toán trình thẩm định//thẩm trathẩm tra": "",
+      "Giá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm định": "",
+      "Đánh giáĐánhĐánh  giágiá": ""
+    },
+    {
+      "STTSTTSTT": "",
+      "Nội dung chi phíNội dung chi phíNội dung chi phí": "Tổng cộngTổng cộngTổng cộng",
+      "Giá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệtGiá trị trong TMĐT được duyệt": "",
+      "Giá trị dự toán trình thẩm định/thẩm traGiá trị dự toán trình thẩm địnhGiá trị dự toán trình thẩm định//thẩm trathẩm tra": "",
+      "Giá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm địnhGiá trị dự toán sau thẩm định": "",
+      "Đánh giáĐánhĐánh  giágiá": ""
+    }
+  ],
+  "footnotes": []
+}

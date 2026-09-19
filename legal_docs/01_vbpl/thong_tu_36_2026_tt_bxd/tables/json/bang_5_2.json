@@ -1,0 +1,21 @@
+{
+  "table_id": "bang_5_2",
+  "title": "Bảng 5.2: ĐỊNH MỨC TỶ LỆ CHI PHÍ KHÔNG XÁC ĐỊNH ĐƯỢC KHỐI LƯỢNG TỪ THIẾT KẾ TRONG DỰ TOÁN CHI PHÍ KHẢO SÁT XÂY DỰNG",
+  "rows_count": 2,
+  "columns_count": 4,
+  "headers": [
+    "Chi phí trực tiếp (tỷ đồng)Chi phí trực tiếp (tỷ đồng)Chi phí trực tiếp (tỷ đồng)",
+    "≤ 2≤ 2≤ 2",
+    "2 ÷ ≤ 32 ÷ ≤ 32 ÷ ≤ 3",
+    "> 3> 3> 3"
+  ],
+  "records": [
+    {
+      "Chi phí trực tiếp (tỷ đồng)Chi phí trực tiếp (tỷ đồng)Chi phí trực tiếp (tỷ đồng)": "Định mức tỷ lệ chi phí không xác định được khối lượng từ thiết kế (%)Định mức tỷ lệ chi phí không xác định được khối lượng từ thiết kế (%)Định mức tỷ lệ chi phí không xác định được khối lượng từ thiết kế (%)",
+      "≤ 2≤ 2≤ 2": "666",
+      "2 ÷ ≤ 32 ÷ ≤ 32 ÷ ≤ 3": "4,54,54,5",
+      "> 3> 3> 3": "333"
+    }
+  ],
+  "footnotes": []
+}
