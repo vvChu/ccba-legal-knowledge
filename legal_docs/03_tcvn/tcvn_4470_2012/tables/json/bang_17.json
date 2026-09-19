@@ -1,0 +1,80 @@
+{
+  "table_id": "bang_17",
+  "table_number": "17",
+  "table_title": "Bảng 17 - Diện tích tối thiểu các phòng trong Khoa Cấp cứu",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Tên phòng",
+    "Diện tích"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên phòng": "1. Sảnh, $m^{2}$",
+      "Diện tích": "36"
+    },
+    {
+      "_row_id": 2,
+      "Tên phòng": "2. Phòng đợi cho người nhà bệnh nhân",
+      "Diện tích": "xem 6.2.6"
+    },
+    {
+      "_row_id": 3,
+      "Tên phòng": "3. Phòng sơ cứu, phân loại, $m^{2}$/phòng",
+      "Diện tích": "36"
+    },
+    {
+      "_row_id": 4,
+      "Tên phòng": "4. Phòng tạm lưu cấp $cứu^{a)}$, $m^{2}$/phòng",
+      "Diện tích": "9"
+    },
+    {
+      "_row_id": 5,
+      "Tên phòng": "5. Phòng tắm rửa khử độc cho bệnh nhân, $m^{2}$/phòng",
+      "Diện tích": "18"
+    },
+    {
+      "_row_id": 6,
+      "Tên phòng": "6. Phòng rửa, tiệt trùng, $m^{2}$/phòng",
+      "Diện tích": "18"
+    },
+    {
+      "_row_id": 7,
+      "Tên phòng": "7. Phòng trưởng khoa, $m^{2}$/phòng",
+      "Diện tích": "18"
+    },
+    {
+      "_row_id": 8,
+      "Tên phòng": "8. Phòng bác sỹ (kết hợp làm phòng trực), $m^{2}$/phòng",
+      "Diện tích": "24"
+    },
+    {
+      "_row_id": 9,
+      "Tên phòng": "9. Phòng y tá, hộ lý, $m^{2}$/phòng",
+      "Diện tích": "24"
+    },
+    {
+      "_row_id": 10,
+      "Tên phòng": "10. Phòng giao ban, đào tạo (cho từ 25 đến 31 CBCNV hoặc 01 nhóm học viên), $m^{2}$/phòng",
+      "Diện tích": "từ 48 đến 54"
+    },
+    {
+      "_row_id": 11,
+      "Tên phòng": "11. Kho sạch, $m^{2}$/phòng",
+      "Diện tích": "từ 18 đến 24"
+    },
+    {
+      "_row_id": 12,
+      "Tên phòng": "12. Kho bẩn, $m^{2}$/phòng",
+      "Diện tích": "từ 48 đến 27"
+    },
+    {
+      "_row_id": 13,
+      "Tên phòng": "13. Vệ sinh, thay đồ nhân viên $^{b)}$, $m^{2}$/khu",
+      "Diện tích": "24"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:**\n\n&nbsp;&nbsp;\\- $^{a)}$ Phòng tạm lưu cấp cứu không ít hơn 20 giường\n\n&nbsp;&nbsp;\\- $^{b)}$ Chỉ tiêu diện tích: không nhỏ hơn 1,0 $m^{2}$/nhân viên. Bố trí khu vệ sinh nam, nữ riêng biệt"
+  }
+}

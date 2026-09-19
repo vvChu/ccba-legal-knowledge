@@ -110,8 +110,8 @@
     "line_end": 109
   },
   {
-    "clause_id": "muc-1-1-1-0",
-    "anchor": "muc-1-1-1-0",
+    "clause_id": "muc-1-1-10",
+    "anchor": "muc-1-1-10",
     "title": "1.1.1.0  Trong một số trường hợp riêng biệt, có thể xem xét thay thế một số yêu cầu của quy chuẩn này đối với công trình cụ thể khi có luận chứng kỹ thuật gửi Bộ Xây dựng nêu rõ các giải pháp bổ sung, thay thế và cơ sở của những giải pháp này để bảo đảm an toàn cháy cho công trình Luận chứng này phải được Bộ Xây dựng cho ý kiến thống nhất và hồ sơ thiết kế xây dựng phải được cơ quan Cảnh sát PCCC và CNCH có thẩm quyền thẩm duyệt theo quy định pháp luật về phòng cháy chữa cháy.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -1120,8 +1120,8 @@
     "line_end": 658
   },
   {
-    "clause_id": "muc-2-2-1-3",
-    "anchor": "muc-2-2-1-3",
+    "clause_id": "muc-2-2-13",
+    "anchor": "muc-2-2-13",
     "title": "2.2.1.3  Cấu kiện xây dựng được phân loại Theo tính nguy hiểm cháy để xác định mức độ tham gia của chúng vào sự phát triển đám cháy và khả năng hình thành các yếu tố nguy hiểm của đám cháy.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -1840,8 +1840,8 @@
     "line_end": 1168
   },
   {
-    "clause_id": "muc-3-1-1-0",
-    "anchor": "muc-3-1-1-0",
+    "clause_id": "muc-3-1-10",
+    "anchor": "muc-3-1-10",
     "title": "3.1.1.0  Các thiết bị điện của hệ thống bảo vệ chống cháy của nhà phải được cấp điện ưu tiên từ hai nguồn độc lập (một nguồn điện lưới về một nguồn máy phát điện dự phòng).",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -1850,8 +1850,8 @@
     "line_end": 1173
   },
   {
-    "clause_id": "muc-3-1-1-1",
-    "anchor": "muc-3-1-1-1",
+    "clause_id": "muc-3-1-11",
+    "anchor": "muc-3-1-11",
     "title": "3.1.1.1  Hiệu quả của các giải pháp bảo đảm an toàn cho người khi cháy có thể được đánh giá bằng tính toán.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -1980,8 +1980,8 @@
     "line_end": 1351
   },
   {
-    "clause_id": "muc-3-2-1-0",
-    "anchor": "muc-3-2-1-0",
+    "clause_id": "muc-3-2-10",
+    "anchor": "muc-3-2-10",
     "title": "3.2.1.0  Các cửa của lối ra thoát nạn và các cửa khác trên đường thoát nạn phải được mở theo chiều lối thoát từ trong nhà ra ngoài.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -1990,8 +1990,8 @@
     "line_end": 1366
   },
   {
-    "clause_id": "muc-3-2-1-1",
-    "anchor": "muc-3-2-1-1",
+    "clause_id": "muc-3-2-11",
+    "anchor": "muc-3-2-11",
     "title": "3.2.1.1  Các cửa của các lối ra thoát nạn từ các hành lang tầng, không gian chung, phòng chờ, sảnh và buồng thang bộ phải mở được cửa tự do từ bên trong mà không cần chìa. Trong các nhà có chiều cao PCCC lớn hơn 15 m, các cánh cửa nói trên, ngoại trừ các cửa của căn hộ, phải là cửa đặc hoặc cửa với kính cường lực.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2000,8 +2000,8 @@
     "line_end": 1381
   },
   {
-    "clause_id": "muc-3-2-1-2",
-    "anchor": "muc-3-2-1-2",
+    "clause_id": "muc-3-2-12",
+    "anchor": "muc-3-2-12",
     "title": "3.2.1.2  Các lối ra không thoả mãn các yêu cầu đối với lối ra thoát nạn có thể được xem là lối ra khẩn cấp để tăng thêm mức độ an toàn cho người khi có cháy. Mọi lối ra khẩn cấp, bao gồm cả các lối ra khẩn cấp tại 3.2.1.3, không được đưa vào tính toán thoát nạn khi cháy.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2020,8 +2020,8 @@
     "line_end": 1411
   },
   {
-    "clause_id": "muc-3-2-1-4",
-    "anchor": "muc-3-2-1-4",
+    "clause_id": "muc-3-2-14",
+    "anchor": "muc-3-2-14",
     "title": "3.2.1.4  Trong các tầng kỹ thuật cho phép bố trí các lối ra thoát nạn với chiều cao không nhỏ hơn 1,8 m.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2210,8 +2210,8 @@
     "line_end": 1602
   },
   {
-    "clause_id": "muc-3-4-1-0",
-    "anchor": "muc-3-4-1-0",
+    "clause_id": "muc-3-4-10",
+    "anchor": "muc-3-4-10",
     "title": "3.4.1.0  Tính không nhiễm khói của khoảng đệm không nhiễm khói dẫn tới các buồng thang bộ không nhiễm khói loại N1 phải được bảo đảm bằng thông gió tự nhiên với các giải pháp kết cấu và bố trí mặt bằng - không gian phù hợp. Một số trường hợp được cho là phù hợp như sau:",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2230,8 +2230,8 @@
     "line_end": 1638
   },
   {
-    "clause_id": "muc-3-4-1-2",
-    "anchor": "muc-3-4-1-2",
+    "clause_id": "muc-3-4-12",
+    "anchor": "muc-3-4-12",
     "title": "3.4.1.2  Các buồng thang bộ loại L2 được phép bố trí trong các nhà có bậc chịu lửa I, II, III thuộc cấp nguy hiểm cháy kết cấu S0, S1 và nhóm nguy hiểm cháy theo công năng F1, F2, F3 và F4, với chiều cao PCCC không quá 9 m. Cho phép tăng chiều cao này đến 12 m (trừ các nhà cơ sở y tế nội trú) với điều kiện lỗ mở lấy sáng trên cao được mở tự động khi có cháy, số lượng các buồng thang như vậy (trừ các nhà nhóm F1.3 và F1.4) cho phép tối đa 50%, các buồng thang bộ còn lại phải có lỗ lấy sáng trên tường ngoài tại mỗi tầng.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2250,8 +2250,8 @@
     "line_end": 1646
   },
   {
-    "clause_id": "muc-3-4-1-4",
-    "anchor": "muc-3-4-1-4",
+    "clause_id": "muc-3-4-14",
+    "anchor": "muc-3-4-14",
     "title": "3.4.1.4  Trong các nhà có các buồng thang bộ không nhiễm khói phải bố trí bảo vệ chống khói cho các hành lang chung, các sảnh, các không gian chung và các phòng chờ.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2260,8 +2260,8 @@
     "line_end": 1667
   },
   {
-    "clause_id": "muc-3-4-1-5",
-    "anchor": "muc-3-4-1-5",
+    "clause_id": "muc-3-4-15",
+    "anchor": "muc-3-4-15",
     "title": "3.4.1.5  Trong các nhà có bậc chịu lửa I và II; và cấp nguy hiểm cháy kết cấu S0, cho phép bố trí các cầu thang bộ loại 2 đi từ tiền sảnh lên tầng hai có tính đến các yêu cầu tại 4.2.6.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2270,8 +2270,8 @@
     "line_end": 1670
   },
   {
-    "clause_id": "muc-3-4-1-6",
-    "anchor": "muc-3-4-1-6",
+    "clause_id": "muc-3-4-16",
+    "anchor": "muc-3-4-16",
     "title": "3.4.1.6  Trong các nhà có chiều cao PCCC không quá 28 m thuộc các nhóm nguy hiểm cháy theo công năng F1.2, F2, F3, F4, với bậc chịu lửa I, II và cấp nguy hiểm cháy kết cấu S0, thì cho phép sử dụng các cầu thang bộ loại 2 nối hai tầng trở lên, khi các buồng thang bộ thoát nạn đáp ứng yêu cầu của các tài liệu chuẩn và quy định tại 4.2.7. Các cầu thang bộ loại 2 nối thông từ 3 tầng (sàn) trở lên không được tính toán, sử dụng làm đường thoát nạn khi có cháy, trừ các trường hợp quy định tại 3.2.1, 3.2.2, 3.2.6.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2280,8 +2280,8 @@
     "line_end": 1675
   },
   {
-    "clause_id": "muc-3-4-1-7",
-    "anchor": "muc-3-4-1-7",
+    "clause_id": "muc-3-4-17",
+    "anchor": "muc-3-4-17",
     "title": "3.4.1.7  Các thang cuốn phải được bố trí phù hợp các yêu cầu quy định cho cầu thang bộ loại 2.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2390,8 +2390,8 @@
     "line_end": 1708
   },
   {
-    "clause_id": "muc-3-5-1-0",
-    "anchor": "muc-3-5-1-0",
+    "clause_id": "muc-3-5-10",
+    "anchor": "muc-3-5-10",
     "title": "3.5.1.0  Cho phép áp dụng các yêu cầu về an toàn cháy đối với vật liệu hoàn thiện - trang trí, vật liệu ốp lát, vật liệu phủ sàn và các tiêu chí thử nghiệm tương ứng theo các tài liệu chuẩn được phép áp dụng để thay thế cho các yêu cầu từ 3.5.1 đến 3.5.9 và Phụ lục B, trừ các yêu cầu quy định tại A.4.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2510,8 +2510,8 @@
     "line_end": 1770
   },
   {
-    "clause_id": "muc-4-1-1",
-    "anchor": "muc-4-1-1",
+    "clause_id": "muc-4-11",
+    "anchor": "muc-4-11",
     "title": "4.1.1  Kết cấu tạo dốc sàn trong các phòng khán giả phải đáp ứng các yêu cầu về giới hạn chịu lửa và cấp nguy hiểm cháy theo Bảng 4 và Bảng 5 như đối với các sàn giữa các tầng.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2520,8 +2520,8 @@
     "line_end": 1773
   },
   {
-    "clause_id": "muc-4-1-2",
-    "anchor": "muc-4-1-2",
+    "clause_id": "muc-4-12",
+    "anchor": "muc-4-12",
     "title": "4.1.2  Khi bố trí các đường ống kỹ thuật, đường cáp đi xuyên qua các kết cấu tường, sàn, vách, thì chỗ tiếp giáp giữa các đường ống, đường cáp với các kết cấu này phải được chèn bịt hoặc xử lý thích hợp để không làm giảm các chỉ tiêu kỹ thuật về cháy theo yêu cầu của kết cấu.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2530,8 +2530,8 @@
     "line_end": 1776
   },
   {
-    "clause_id": "muc-4-1-3",
-    "anchor": "muc-4-1-3",
+    "clause_id": "muc-4-13",
+    "anchor": "muc-4-13",
     "title": "4.1.3  Các lớp phủ và lớp ngâm tẩm chống cháy mà được xử lý trên bề mặt hở của các cấu kiện phải đáp ứng các yêu cầu đặt ra cho việc hoàn thiện các cấu kiện đó.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2540,8 +2540,8 @@
     "line_end": 1779
   },
   {
-    "clause_id": "muc-4-1-4",
-    "anchor": "muc-4-1-4",
+    "clause_id": "muc-4-14",
+    "anchor": "muc-4-14",
     "title": "4.1.4  Hiệu quả của các chất (vật liệu) xử lý chống cháy dùng để làm giảm tính nguy hiểm cháy của vật liệu phải được đánh giá bằng các thử nghiệm để xác định nhóm nguy hiểm cháy của vật liệu xây dựng nêu trong Phần 2.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2550,8 +2550,8 @@
     "line_end": 1786
   },
   {
-    "clause_id": "muc-4-1-5",
-    "anchor": "muc-4-1-5",
+    "clause_id": "muc-4-15",
+    "anchor": "muc-4-15",
     "title": "4.1.5  Các vách ngăn cháy trong các gian phòng có trần treo phải ngăn chia cả không gian phía trên trần treo, và trong không gian này không cho phép bố trí các kênh và đường ống dẫn để vận chuyển các chất cháy dạng khí, hỗn hợp bụi - khí, chất lỏng và vật liệu cháy.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2560,8 +2560,8 @@
     "line_end": 1791
   },
   {
-    "clause_id": "muc-4-1-6",
-    "anchor": "muc-4-1-6",
+    "clause_id": "muc-4-16",
+    "anchor": "muc-4-16",
     "title": "4.1.6  Tại các vị trí giao nhau giữa các bộ phận ngăn cháy với các kết cấu bao che của nhà, kể cả tại các vị trí thay đổi hình dạng nhà, phải có các giải pháp bảo đảm không để cháy lan truyền qua các bộ phận ngăn cháy này.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2570,8 +2570,8 @@
     "line_end": 1798
   },
   {
-    "clause_id": "muc-4-1-7",
-    "anchor": "muc-4-1-7",
+    "clause_id": "muc-4-17",
+    "anchor": "muc-4-17",
     "title": "4.1.7  Các tường ngăn cháy mà phân chia nhà thành các khoang cháy phải được xây dựng trên toàn bộ chiều cao nhà hoặc tới sàn ngăn cháy loại 1 và phải bảo đảm không để cháy lan truyền từ phía nguồn cháy vào khoang cháy liền kề khi các kết cấu nhà ở phía có cháy bị sụp đổ.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2580,8 +2580,8 @@
     "line_end": 1801
   },
   {
-    "clause_id": "muc-4-1-8",
-    "anchor": "muc-4-1-8",
+    "clause_id": "muc-4-18",
+    "anchor": "muc-4-18",
     "title": "4.1.8  Các lỗ mở trong các bộ phận ngăn cháy phải được đóng kín khi có cháy.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2590,8 +2590,8 @@
     "line_end": 1804
   },
   {
-    "clause_id": "muc-4-1-9",
-    "anchor": "muc-4-1-9",
+    "clause_id": "muc-4-19",
+    "anchor": "muc-4-19",
     "title": "4.1.9  Tổng diện tích các lỗ cửa trong các bộ phận ngăn cháy, trừ kết cấu bao che của các giếng thang máy, không được vượt quá 25% diện tích của bộ phận ngăn cháy đó. Không giới hạn diện tích lỗ mở trong các bộ phận ngăn cháy nếu giới hạn chịu lửa danh định của bộ phận chèn bịt lỗ mở không nhỏ hơn giới hạn chịu lửa tương ứng của bộ phận ngăn cháy (trừ tường ngăn cháy loại 1). Các bộ phận chèn bịt lỗ mở trong các bộ phận ngăn cháy phải đáp ứng các yêu cầu tại 2.3.3 và các yêu cầu của Phần 4.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2610,8 +2610,8 @@
     "line_end": 1814
   },
   {
-    "clause_id": "muc-4-2-1",
-    "anchor": "muc-4-2-1",
+    "clause_id": "muc-4-21",
+    "anchor": "muc-4-21",
     "title": "4.2.1  Cửa và van ngăn cháy trong các bộ phận ngăn cháy phải được làm từ các vật liệu không cháy.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2620,8 +2620,8 @@
     "line_end": 1819
   },
   {
-    "clause_id": "muc-4-2-2",
-    "anchor": "muc-4-2-2",
+    "clause_id": "muc-4-22",
+    "anchor": "muc-4-22",
     "title": "4.2.2  Không cho phép bố trí các kênh, giếng và đường ống vận chuyển khí cháy, hỗn hợp bụi - khi cháy, chất lỏng cháy, chất và vật liệu cháy xuyên qua các tường và sàn ngăn cháy loại 1.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2630,8 +2630,8 @@
     "line_end": 1826
   },
   {
-    "clause_id": "muc-4-2-3",
-    "anchor": "muc-4-2-3",
+    "clause_id": "muc-4-23",
+    "anchor": "muc-4-23",
     "title": "4.2.3  Các kết cấu bao che của các giếng thang máy (trừ các giếng đã nêu tại 3.4.6) và các phòng máy của thang máy (trừ các phòng trên mái), cũng như của các kênh, giếng và hộp kỹ thuật phải đáp ứng các yêu cầu đặt ra như đối với các vách ngăn cháy loại 1 và các sàn ngăn cháy loại 3. Không quy định giới hạn chịu lửa của các kết cấu bao che giữa giếng thang máy và phòng máy của thang máy.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2640,8 +2640,8 @@
     "line_end": 1836
   },
   {
-    "clause_id": "muc-4-2-4",
-    "anchor": "muc-4-2-4",
+    "clause_id": "muc-4-24",
+    "anchor": "muc-4-24",
     "title": "4.2.4  Buồng chứa rác, ống đổ rác và cửa thu rác phải được thiết kế, lắp đặt phù hợp với tiêu chuẩn, yêu cầu kỹ thuật quy định riêng cho bộ phận này và các yêu cầu cụ thể như sau:",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2650,8 +2650,8 @@
     "line_end": 1843
   },
   {
-    "clause_id": "muc-4-2-5",
-    "anchor": "muc-4-2-5",
+    "clause_id": "muc-4-25",
+    "anchor": "muc-4-25",
     "title": "4.2.5  Theo các điều kiện của công nghệ, cho phép bố trí các thang bộ riêng biệt để lưu thông giữa các tầng hầm hoặc tầng nửa hầm với tầng một.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2660,8 +2660,8 @@
     "line_end": 1856
   },
   {
-    "clause_id": "muc-4-2-6",
-    "anchor": "muc-4-2-6",
+    "clause_id": "muc-4-26",
+    "anchor": "muc-4-26",
     "title": "4.2.6  Khi bố trí các cầu thang bộ loại 2 đi từ sảnh tầng 1 lên tầng 2, thì sảnh này phải được ngăn cách khỏi các hành lang và các gian phòng liền kề bằng các vách ngăn cháy loại 1.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2670,8 +2670,8 @@
     "line_end": 1865
   },
   {
-    "clause_id": "muc-4-2-7",
-    "anchor": "muc-4-2-7",
+    "clause_id": "muc-4-27",
+    "anchor": "muc-4-27",
     "title": "4.2.7  Gian phòng, trong đó có bố trí cầu thang bộ loại 2 theo quy định tại 3.4.1.6, phải được ngăn cách với các hành lang thông với nó và các gian phòng khác bằng các vách ngăn cháy loại 1. Cho phép không ngăn cách gian phóng có cầu thang bộ loại 2 bằng các vách ngăn cháy khi:",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2680,8 +2680,8 @@
     "line_end": 1868
   },
   {
-    "clause_id": "muc-4-2-8",
-    "anchor": "muc-4-2-8",
+    "clause_id": "muc-4-28",
+    "anchor": "muc-4-28",
     "title": "4.2.8  Trong các tầng hầm hoặc tầng nửa hầm, trước lối vào các thang máy phải bố trí các khoang đệm ngăn cháy loại 1 có áp suất không khí dương khi cháy.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -2690,8 +2690,8 @@
     "line_end": 1875
   },
   {
-    "clause_id": "muc-4-2-9",
-    "anchor": "muc-4-2-9",
+    "clause_id": "muc-4-29",
+    "anchor": "muc-4-29",
     "title": "4.2.9  Việc lựa chọn kích thước của nhà và của các khoang cháy, cũng như khoảng cách giữa các nhà phải dựa vào bậc chịu lửa, cấp nguy hiểm cháy kết cấu, nhóm nguy hiểm cháy theo công năng và giá trị tải trọng cháy, có tính đến hiệu quả của các phương tiện bảo vệ chống cháy được sử dụng, sự có mặt, vị trí và mức độ trang bị của các đơn vị chữa cháy, những hậu quả có thể về kinh tế và môi trường sinh thái do cháy.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CQXD",
@@ -3250,8 +3250,8 @@
     "line_end": 2280
   },
   {
-    "clause_id": "muc-5-1-5-1-0",
-    "anchor": "muc-5-1-5-1-0",
+    "clause_id": "muc-5-1-5-10",
+    "anchor": "muc-5-1-5-10",
     "title": "5.1.5.1.0  Khi không thể hút nước chữa cháy trực tiếp từ bồn, bể hoặc hồ bằng xe máy bơm hoặc máy bơm di động, thì phải cung cấp các hố thu với thể tích từ 3 m3 đến 5 m3. Đường kính ống kết nối bồn, bể hoặc hồ với các hố thu lấy theo các điều kiện tính toán lưu lượng nước cho chữa cháy ngoài nhà, nhưng không nhỏ hơn 200 mm. Trên đoạn ống kết nối phải có hộp van để khóa sự lưu thông nước, việc đóng mở van phải thực hiện được từ bên ngoài hộp. Đầu đoạn ống kết nối ở phía hồ nhân tạo phải có lưới chắn.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CONG_AN",
@@ -3260,8 +3260,8 @@
     "line_end": 2291
   },
   {
-    "clause_id": "muc-5-1-5-1-1",
-    "anchor": "muc-5-1-5-1-1",
+    "clause_id": "muc-5-1-5-11",
+    "anchor": "muc-5-1-5-11",
     "title": "5.1.5.1.1  Bồn, bể áp lực để chữa cháy phải được trang bị thước đo mức nước, thiết bị báo tín hiệu mức nước cho trạm bơm hoặc trạm phân phối nước.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CONG_AN",
@@ -3270,8 +3270,8 @@
     "line_end": 2294
   },
   {
-    "clause_id": "muc-5-1-5-1-2",
-    "anchor": "muc-5-1-5-1-2",
+    "clause_id": "muc-5-1-5-12",
+    "anchor": "muc-5-1-5-12",
     "title": "5.1.5.1.2  Bồn, bể áp lực sử dụng khi ép áp lực, thì ngoài máy ép vận hành phải có máy ép dự bị.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CONG_AN",
@@ -3410,8 +3410,8 @@
     "line_end": 2445
   },
   {
-    "clause_id": "muc-5-2-1-0",
-    "anchor": "muc-5-2-1-0",
+    "clause_id": "muc-5-2-10",
+    "anchor": "muc-5-2-10",
     "title": "5.2.1.0  Các nhà từ 6 tầng trở lên khi liên kết hệ thống nước sinh hoạt và chữa cháy thì các ống đứng phải được nối vòng ở trên. Khi đó để bảo đảm việc thay nước trong nhà phải nối vòng ống đứng với một hoặc một vài ống xả đứng có van khóa.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CONG_AN",
@@ -3430,8 +3430,8 @@
     "line_end": 2455
   },
   {
-    "clause_id": "muc-5-2-1-2",
-    "anchor": "muc-5-2-1-2",
+    "clause_id": "muc-5-2-12",
+    "anchor": "muc-5-2-12",
     "title": "5.2.1.2  Các họng nước chữa cháy được lắp đặt sao cho miệng họng nằm ở độ cao 1,20 m ± 0,15 m so với mặt sàn và đặt trong các tủ chữa cháy có lỗ thông gió, được dán niêm phong. Đối với họng nước chữa cháy kép, cho phép lắp đặt 1 họng nằm trên 1 họng nằm dưới, khi đó họng nằm dưới phải lắp có chiều cao không nhỏ hơn 1,0 m tính từ mặt sàn.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CONG_AN",
@@ -3440,8 +3440,8 @@
     "line_end": 2469
   },
   {
-    "clause_id": "muc-5-2-1-3",
-    "anchor": "muc-5-2-1-3",
+    "clause_id": "muc-5-2-13",
+    "anchor": "muc-5-2-13",
     "title": "5.2.1.3  Hệ thống họng nước chữa cháy trong nhà và công trình phải có họng chờ lắp đặt ở ngoài nhà, có đầu nối với kích cỡ phù hợp để kết nối với phương tiện chữa cháy di động. Đối với nhà cao từ 17 tầng trở lên, họng chờ cấp nước cho hệ thống họng nước chữa cháy trong nhà phải chia thành các vùng theo chiều cao mỗi vùng không quá 50 m. Các họng này phải được lắp đặt van một chiều và niêm phong mở.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CONG_AN",
@@ -3450,8 +3450,8 @@
     "line_end": 2472
   },
   {
-    "clause_id": "muc-5-2-1-4",
-    "anchor": "muc-5-2-1-4",
+    "clause_id": "muc-5-2-14",
+    "anchor": "muc-5-2-14",
     "title": "5.2.1.4  Họng nước chữa cháy bên trong nhà phải được lắp đặt tại các lối vào phía trong hành lang (ở nơi không có nguy cơ nước bị đóng băng) của các buồng thang (trừ các buồng thang không nhiễm khói), tại các sảnh, hành lang, lối đi và những chỗ dễ tiếp cận khác, khi đó việc bố trí phải bảo đảm không gây cản trở các hoạt động thoát nạn.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CONG_AN",
@@ -3460,8 +3460,8 @@
     "line_end": 2475
   },
   {
-    "clause_id": "muc-5-2-1-5",
-    "anchor": "muc-5-2-1-5",
+    "clause_id": "muc-5-2-15",
+    "anchor": "muc-5-2-15",
     "title": "5.2.1.5  Tại các khu vực được bảo vệ bằng hệ thống chữa cháy tự động, cho phép lắp đặt họng nước chữa cháy trong nhà trên các đường ống DN 65 hoặc lớn hơn, sau cụm van điều khiển của hệ thống sprinkler bằng nước.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CONG_AN",
@@ -3470,8 +3470,8 @@
     "line_end": 2478
   },
   {
-    "clause_id": "muc-5-2-1-6",
-    "anchor": "muc-5-2-1-6",
+    "clause_id": "muc-5-2-16",
+    "anchor": "muc-5-2-16",
     "title": "5.2.1.6  Tại các khu vực kín có khả năng bị đóng bằng, các đường ống của hệ thống họng nước chữa cháy trong nhà ở sau trạm bơm cho phép là đường ống khô.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CONG_AN",
@@ -3480,8 +3480,8 @@
     "line_end": 2481
   },
   {
-    "clause_id": "muc-5-2-1-7",
-    "anchor": "muc-5-2-1-7",
+    "clause_id": "muc-5-2-17",
+    "anchor": "muc-5-2-17",
     "title": "5.2.1.7  Những van để khóa nước từ các đường ống nhánh cụt cũng như những van khóa lớn từ đường ống thép khép kín phải được bố trí để bảo đảm mỗi đoạn ống chỉ khóa nhiều nhất là 5 họng nước chữa cháy trên cùng một tầng.",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CONG_AN",
@@ -3490,8 +3490,8 @@
     "line_end": 2484
   },
   {
-    "clause_id": "muc-5-2-1-8",
-    "anchor": "muc-5-2-1-8",
+    "clause_id": "muc-5-2-18",
+    "anchor": "muc-5-2-18",
     "title": "5.2.1.8  Căn cứ vào công năng của đối tượng bảo vệ có thể lựa chọn các phương án trang bị hệ thống họng nước chữa cháy sau:",
     "source_file": "qcvn_06_2022_bxd.md",
     "jurisdiction": "CONG_AN",

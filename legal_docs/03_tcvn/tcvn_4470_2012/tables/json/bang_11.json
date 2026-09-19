@@ -1,0 +1,70 @@
+{
+  "table_id": "bang_11",
+  "table_number": "11",
+  "table_title": "Bảng 11 - Diện tích tối thiểu các phòng phục vụ sinh hoạt của khoa Nhi",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại phòng",
+    "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ sơ sinh",
+    "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ nhỏ"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "1. Pha sữa",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ sơ sinh": "từ 6 đến 9",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ nhỏ": "-"
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "2. Cho bú",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ sơ sinh": "từ 12 đến 15",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ nhỏ": "-"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "3. Chuẩn bị cơm và ăn",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ sơ sinh": "-",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ nhỏ": "từ 15 đến 18"
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "4. Chỗ chơi",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ sơ sinh": "",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ nhỏ": "từ 15 đến 18"
+    },
+    {
+      "_row_id": 5,
+      "Loại phòng": "5. Tắm, rửa",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ sơ sinh": "từ 6 đến 12",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ nhỏ": "từ 9 đến 12"
+    },
+    {
+      "_row_id": 6,
+      "Loại phòng": "6. Xí tiểu",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ sơ sinh": "",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ nhỏ": "từ 9 đến 12"
+    },
+    {
+      "_row_id": 7,
+      "Loại phòng": "7. Giặt",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ sơ sinh": "từ 9 đến 12",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ nhỏ": "từ 9 đến 12"
+    },
+    {
+      "_row_id": 8,
+      "Loại phòng": "8. Kho sạch",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ sơ sinh": "từ 15 đến 18",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ nhỏ": "từ 15 đến 18"
+    },
+    {
+      "_row_id": 9,
+      "Loại phòng": "9. Kho thu hồi đồ bẩn",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ sơ sinh": "từ 18 đến 21",
+      "Chỉ tiêu diện tích ($m^{2}$/phòng) — Cho trẻ nhỏ": "từ 18 đến 21"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Nên bố trí chỗ phơi tã lót cho đơn nguyên nhi với diện tích không nhỏ hơn 30$m^{2}$."
+  }
+}

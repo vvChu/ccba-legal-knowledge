@@ -4,7 +4,7 @@
 > [!NOTE]
 > **Đây là Tài Liệu Sống (Living Document) tự động cập nhật.**  
 > Được đồng bộ tự động bởi `scripts/sync_expansion_roadmap.py` mỗi khi có văn bản mới được nạp vào Spoke hoặc khi chạy Master CI Gate.  
-> **Lần cập nhật cuối:** `2026-09-16 15:45:06` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
+> **Lần cập nhật cuối:** `2026-09-19 12:16:31` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
 
 ---
 
@@ -12,8 +12,8 @@
 
 | Chỉ số theo dõi | Số lượng | Tỷ lệ hoàn thành | Trạng thái hệ thống |
 |:---|:---:|:---:|:---:|
-| **Hiện có trong Spoke (Active Bundles)** | **53** | **91.4%** | 🟢 Sẵn sàng phục vụ Agent |
-| **Ứng viên Đang Chờ Nạp (Pending Target)** | **5** | **8.6%** | 🟡 Trong lộ trình ưu tiên |
+| **Hiện có trong Spoke (Active Bundles)** | **58** | **100.0%** | 🟢 Sẵn sàng phục vụ Agent |
+| **Ứng viên Đang Chờ Nạp (Pending Target)** | **0** | **0.0%** | 🟡 Trong lộ trình ưu tiên |
 | **Tổng quy mô mục tiêu giai đoạn 1** | **58** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
 
 ---
@@ -31,12 +31,7 @@ graph TD
     subgraph T3["🟡 TIER 3: HẠ TẦNG KỸ THUẬT & ĐỊA KỸ THUẬT (0 Văn bản)"]
     end
 
-    subgraph T4["🔵 TIER 4: THỂ LOẠI CÔNG TRÌNH & BIM ISO (5 Văn bản)"]
-        T4_1["TCVN 4601:2012<br/>(Kiến trúc - Điểm: 7.4)"]
-        T4_2["TCVN 4470:2012<br/>(Kiến trúc / MEP - Điểm: 7.3)"]
-        T4_3["TCVN 3981:1985<br/>(Kiến trúc - Điểm: 7.1)"]
-        T4_4["TCVN ISO 19650-1:2021<br/>(Quản trị BIM - Điểm: 7.0)"]
-        T4_5["TCVN ISO 19650-2:2021<br/>(Quản trị BIM - Điểm: 7.0)"]
+    subgraph T4["🔵 TIER 4: THỂ LOẠI CÔNG TRÌNH & BIM ISO (0 Văn bản)"]
     end
 
     T1 --> T2
@@ -62,13 +57,7 @@ graph TD
 
 ### 🔵 TIER 4: Chuẩn Hóa Thể Loại Công Trình & Quản Trị BIM ISO
 
-| STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
-|:---:|:---|:---|:---:|:---:|:---:|:---|
-| 1 | **[TCVN 4601:2012](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-4601-2012-Cong-so-co-quan-hanh-chinh-nha-nuoc-Yeu-cau-thiet-ke-907722.aspx)** | Công sở cơ quan hành chính nhà nước — Yêu cầu thiết kế | Kiến trúc | 0 | **7.4** | `python -m ccba_legal ingest "TCVN 4601:2012" --category 03_tcvn --upload-drive` |
-| 2 | **[TCVN 4470:2012](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-4470-2012-Benh-vien-da-khoa-Tieu-chuan-thiet-ke-908251.aspx)** | Bệnh viện đa khoa — Yêu cầu thiết kế | Kiến trúc / MEP | 0 | **7.3** | `python -m ccba_legal ingest "TCVN 4470:2012" --category 03_tcvn --upload-drive` |
-| 3 | **[TCVN 3981:1985](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-3981-1985-truong-dai-hoc-tieu-chuan-thiet-ke-901893.aspx)** | Trường đại học — Tiêu chuẩn thiết kế | Kiến trúc | 0 | **7.1** | `python -m ccba_legal ingest "TCVN 3981:1985" --category 03_tcvn --upload-drive` |
-| 4 | **[TCVN ISO 19650-1:2021](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-14177-1-2024-To-chuc-va-so-hoa-thong-tin-ve-cong-trinh-xay-dung-Phan-1-921449.aspx)** | Tổ chức và số hóa thông tin về công trình xây dựng, bao gồm mô hình thông tin công trình (BIM) — Quản lý thông tin bằng BIM: Phần 1: Khái niệm và nguyên tắc | Quản trị BIM | 0 | **7.0** | `python -m ccba_legal ingest "TCVN ISO 19650-1:2021" --category 03_tcvn --upload-drive` |
-| 5 | **[TCVN ISO 19650-2:2021](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-14177-2-2024-To-chuc-va-so-hoa-thong-tin-ve-cong-trinh-xay-dung-Phan-2-921451.aspx)** | Tổ chức và số hóa thông tin về công trình xây dựng, bao gồm BIM — Quản lý thông tin bằng BIM: Phần 2: Giai đoạn chuyển giao tài sản | Quản trị BIM | 0 | **7.0** | `python -m ccba_legal ingest "TCVN ISO 19650-2:2021" --category 03_tcvn --upload-drive` |
+*✅ Đã hoàn thành 100% các văn bản trong tầng này!*
 
 ## ✅ IV. Danh Mục Ứng Viên Đã Được Nạp Hoàn Tất
 
@@ -89,6 +78,11 @@ graph TD
 | **TCVN 10304:2014** | Móng cọc — Tiêu chuẩn thiết kế | Địa kỹ thuật | 2014-12-31 | 🟢 `INGESTED` |
 | **TCVN 9362:2012** | Tiêu chuẩn thiết kế nền nhà và công trình | Địa kỹ thuật | 2012-12-20 | 🟢 `INGESTED` |
 | **QCVN 03:2023/BCA** | Quy chuẩn kỹ thuật quốc gia về Phương tiện phòng cháy và chữa cháy | PCCC | 2024-04-01 | 🟢 `INGESTED` |
+| **TCVN 4601:2012** | Công sở cơ quan hành chính nhà nước — Yêu cầu thiết kế | Kiến trúc | 2012-12-20 | 🟢 `INGESTED` |
+| **TCVN 4470:2012** | Bệnh viện đa khoa — Yêu cầu thiết kế | Kiến trúc / MEP | 2012-12-20 | 🟢 `INGESTED` |
+| **TCVN 3981:1985** | Trường đại học — Tiêu chuẩn thiết kế | Kiến trúc | 1985-01-01 | 🟢 `INGESTED` |
+| **TCVN ISO 19650-1:2021** | Tổ chức và số hóa thông tin về công trình xây dựng, bao gồm mô hình thông tin công trình (BIM) — Quản lý thông tin bằng BIM: Phần 1: Khái niệm và nguyên tắc | Quản trị BIM | 2021-12-31 | 🟢 `INGESTED` |
+| **TCVN ISO 19650-2:2021** | Tổ chức và số hóa thông tin về công trình xây dựng, bao gồm BIM — Quản lý thông tin bằng BIM: Phần 2: Giai đoạn chuyển giao tài sản | Quản trị BIM | 2021-12-31 | 🟢 `INGESTED` |
 
 ---
 

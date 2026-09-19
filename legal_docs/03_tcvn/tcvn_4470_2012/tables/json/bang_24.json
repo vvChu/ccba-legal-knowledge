@@ -1,0 +1,68 @@
+{
+  "table_id": "bang_24",
+  "table_number": "24",
+  "table_title": "Bảng 24 - Diện tích tối thiểu của khu vực hành chính, phụ trợ khoa Chẩn đoán hình ảnh",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Đơn vị chẩn đoán hình ảnh",
+    "Diện tích($m^{2}$/phòng)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đơn vị chẩn đoán hình ảnh": "1. Phòng đăng ký lấy số, trả kết quả",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 2,
+      "Đơn vị chẩn đoán hình ảnh": "2. Khu vệ sinh bệnh nhân (nam, nữ)",
+      "Diện tích($m^{2}$/phòng)": "24 $m^{2}$ x 02 Khu",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 3,
+      "Đơn vị chẩn đoán hình ảnh": "3. Đợi chụp, $m^{2}$/chỗ/đơn vị chẩn đoán",
+      "Diện tích($m^{2}$/phòng)": "1,2",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 4,
+      "Đơn vị chẩn đoán hình ảnh": "4. Phòng trưởng khoa",
+      "Diện tích($m^{2}$/phòng)": "18",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 5,
+      "Đơn vị chẩn đoán hình ảnh": "5. Phòng hành chính, giao ban",
+      "Diện tích($m^{2}$/phòng)": "từ 48 đến 54",
+      "Ghi chú": "0,8 $m^{2}$/chỗ đến 1,0 $m^{2}$/chỗ giảng dạy, hội họp"
+    },
+    {
+      "_row_id": 6,
+      "Đơn vị chẩn đoán hình ảnh": "6. Phờng trực nhân viên",
+      "Diện tích($m^{2}$/phòng)": "18",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 7,
+      "Đơn vị chẩn đoán hình ảnh": "7. Kho thiết bị, dụng cụ",
+      "Diện tích($m^{2}$/phòng)": "24",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 8,
+      "Đơn vị chẩn đoán hình ảnh": "8. Kho phim, hóa chất",
+      "Diện tích($m^{2}$/phòng)": "24",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 9,
+      "Đơn vị chẩn đoán hình ảnh": "9. Khu vệ sinh, thay quần áo nhân viên (nam/nữ riêng biệt)",
+      "Diện tích($m^{2}$/phòng)": "24 $m^{2}$ x 02 khu",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}

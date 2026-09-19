@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Quan điểm quản lý thông tin",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Quan điểm",
+    "Mục đích",
+    "Ví dụ về các sản phẩm chuyển giao"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Quan điểm": "Quan điểm của chủ sở hữu tài sản",
+      "Mục đích": "Để thiết lập và duy trì mục đích của tài sản hoặc dự án. Để đưa ra các quyết định kinh doanh chiến lược",
+      "Ví dụ về các sản phẩm chuyển giao": "Kế hoạch kinh doanh\nĐánh giá danh mục tài sản chiến lược\nPhân tích chi phí vòng đời"
+    },
+    {
+      "_row_id": 2,
+      "Quan điểm": "Quan điểm của người sử dụng tài sản",
+      "Mục đích": "Để xác định các yêu cầu thực sự của người dùng và đảm bảo tài sản đúng chất lượng và năng lực.",
+      "Ví dụ về các sản phẩm chuyển giao": "Tóm tắt dự án\nAIM\nPIM\nTài liệu về sản phẩm"
+    },
+    {
+      "_row_id": 3,
+      "Quan điểm": "Quan điểm quản lý chuyển giao dự án hoặc tài sản",
+      "Mục đích": "Lập kế hoạch và tổ chức công việc, huy động các nguồn lực phù hợp, phối hợp và kiểm soát thực hiện.",
+      "Ví dụ về các sản phẩm chuyển giao": "Kế hoạch, ví dụ Kế hoạch thực hiện BIM\nSơ đồ tổ chức\nĐịnh nghĩa chức năng"
+    },
+    {
+      "_row_id": 4,
+      "Quan điểm": "Quan điểm của xã hội",
+      "Mục đích": "Để đảm bảo lợi ích của cộng đồng được quan tâm trong suốt vòng đời của tài sản (lập kế hoạch, bàn giao và khai thác sử dụng).",
+      "Ví dụ về các sản phẩm chuyển giao": "Quyết định chính trị\nQuy hoạch\nGiấy phép xây dựng, chuyển nhượng"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Ví dụ về các sản phẩm chuyển giao có liên quan đến góc độ của từng quan điểm và không thể hiện quyền sở hữu đối với chuyển giao hoặc ai thực hiện tạo ra các chuyển giao."
+  }
+}

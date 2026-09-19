@@ -1,0 +1,164 @@
+{
+  "table_id": "bang_21",
+  "table_number": "21",
+  "table_title": "Bảng 21 - Diện tích tối thiểu các phòng trong Khoa vật lý trị liệu - phục hồi chức năng",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại phòng",
+    "Diện tích tối thiểu($m^{2}$/phòng)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "**1. Hành chính - tiếp nhận**",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "&nbsp;&nbsp;\\- Bác sỹ trưởng khoa",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "Diện tích tối thiểu được lấy tương tự như đối với Khu Điều trị nội trú, xem 6.3.1.7",
+      "Ghi chú": "Diện tích tối thiểu được lấy tương tự như đối với Khu Điều trị nội trú, xem 6.3.1.7"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "&nbsp;&nbsp;\\- Hành chính",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "Diện tích tối thiểu được lấy tương tự như đối với Khu Điều trị nội trú, xem 6.3.1.7",
+      "Ghi chú": "Diện tích tối thiểu được lấy tương tự như đối với Khu Điều trị nội trú, xem 6.3.1.7"
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "&nbsp;&nbsp;\\- Nhân viên và chỗ bảo quản đồ vải",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "Diện tích tối thiểu được lấy tương tự như đối với Khu Điều trị nội trú, xem 6.3.1.7",
+      "Ghi chú": "Diện tích tối thiểu được lấy tương tự như đối với Khu Điều trị nội trú, xem 6.3.1.7"
+    },
+    {
+      "_row_id": 5,
+      "Loại phòng": "&nbsp;&nbsp;\\- Khu vệ sinh, thay quần áo nhân viên",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "Diện tích tối thiểu được lấy tương tự như đối với Khu Điều trị nội trú, xem 6.3.1.7",
+      "Ghi chú": "Diện tích tối thiểu được lấy tương tự như đối với Khu Điều trị nội trú, xem 6.3.1.7"
+    },
+    {
+      "_row_id": 6,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ đợi",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "1,0 $m^{2}$/chỗ đến 1,2 $m^{2}$/chỗ, tính cho 60 % đến 80 % số chỗ điều trị",
+      "Ghi chú": "1,0 $m^{2}$/chỗ đến 1,2 $m^{2}$/chỗ, tính cho 60 % đến 80 % số chỗ điều trị"
+    },
+    {
+      "_row_id": 7,
+      "Loại phòng": "**2. Phòng điều trị quang điện**",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 8,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ làm việc của y tá",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 9 đến 12",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 9,
+      "Loại phòng": "&nbsp;&nbsp;\\- Phòng điều trị",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 15 đến 18",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 10,
+      "Loại phòng": "**3. Phòng điều trị bằng nhiệt**",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 11,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ làm việc của y tá",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 9 đến 12",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 12,
+      "Loại phòng": "&nbsp;&nbsp;\\- Phòng bó paraphin",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 15 đến 18",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 13,
+      "Loại phòng": "&nbsp;&nbsp;\\- Phòng xông",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 9 đến 12",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 14,
+      "Loại phòng": "4. Phòng điều trị bằng vận động và thể dục",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "4. Phòng điều trị bằng vận động và thể dục",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 15,
+      "Loại phòng": "&nbsp;&nbsp;\\- Phòng luyện tập",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "70",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 16,
+      "Loại phòng": "&nbsp;&nbsp;\\- Phòng xoa bóp",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 15 đến 18",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 17,
+      "Loại phòng": "&nbsp;&nbsp;\\- Phòng thay quần áo và kho đồ dùng",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "từ 9 đến 12",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 18,
+      "Loại phòng": "&nbsp;&nbsp;\\- Sân tập thể dục",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "60",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 19,
+      "Loại phòng": "**5. Bộ phận thủy trị liệu**",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 20,
+      "Loại phòng": "&nbsp;&nbsp;\\- Tắm, ngâm nước",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "48",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 21,
+      "Loại phòng": "&nbsp;&nbsp;\\- Tắm bùn",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 22,
+      "Loại phòng": "**6. Chỗ điều trị**",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 23,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ điều trị nằm, $m^{2}$/chỗ",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "4",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 24,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ điều trị ở tư thế ngồi, $m^{2}$/chỗ",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "2",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 25,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ nghỉ sau điều trị hoặc tập thể dục, $m^{2}$/chỗ",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "2",
+      "Ghi chú": "Tính cho 30 % đến 50 % số chỗ điều trị"
+    }
+  ],
+  "footnotes": []
+}

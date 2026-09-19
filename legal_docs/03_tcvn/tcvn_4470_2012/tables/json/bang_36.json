@@ -1,0 +1,45 @@
+{
+  "table_id": "bang_36",
+  "table_number": "36",
+  "table_title": "Bảng 36 - Diện tích tối thiểu các bộ phận trong khu Dịch vụ tổng hợp",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại phòng",
+    "Diện tích($m^{2}$)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "1. Quầy bán thuốc",
+      "Diện tích($m^{2}$)": "18"
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "2. Quầy tạp hóa",
+      "Diện tích($m^{2}$)": "24"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "3. Quầy giải khát",
+      "Diện tích($m^{2}$)": "36"
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "4. Quầy sách báo, tem thư, điện thoại",
+      "Diện tích($m^{2}$)": "18"
+    },
+    {
+      "_row_id": 5,
+      "Loại phòng": "5. Cửa hàng ăn uống (nếu có)",
+      "Diện tích($m^{2}$)": "Kết hợp với khoa Dinh dưỡng của bệnh viện"
+    },
+    {
+      "_row_id": 6,
+      "Loại phòng": "6. Nhà trọ cho người nhà trông nom bệnh nhân",
+      "Diện tích($m^{2}$)": "Tính theo tỷ lệ bệnh nhân cấp cứu và bệnh nhân nặng. Tiêu chuẩn diện tích 6 $m^{2}$/giường trọ"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Diện tích các quầy giải khát đã bao gồm chỗ bán hàng, kho chứa và chỗ chế biến."
+  }
+}

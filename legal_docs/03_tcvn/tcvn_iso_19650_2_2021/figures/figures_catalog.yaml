@@ -1,0 +1,101 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN ISO 19650 2 2021
+total_figures: 12
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Phạm vi của tiêu chuẩn này
+  annex: MAIN
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  slug: '2'
+  tag: '2'
+  title: Mối liên hệ giữa các bên và các nhóm cho mục đích quản lý thông tin
+  annex: MAIN
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_3
+  slug: '3'
+  tag: '3'
+  title: Quá trình quản lý thông tin trong giai đoạn chuyển giao tài sản
+  annex: MAIN
+  anchor: hinh-3
+  image_relpath: figures/images/hinh_3.png
+  has_image: true
+- figure_id: FIG_4
+  slug: '4'
+  tag: '4'
+  title: Quá trình quản lý thông tin - Các hoạt động đánh giá và xác định nhu cầu
+  annex: A
+  anchor: hinh-4
+  image_relpath: figures/images/hinh_4.png
+  has_image: true
+- figure_id: FIG_5
+  slug: '5'
+  tag: '5'
+  title: Quá trình quản lý thông tin - Hồ sơ yêu cầu
+  annex: A
+  anchor: hinh-5
+  image_relpath: figures/images/hinh_5.png
+  has_image: true
+- figure_id: FIG_6
+  slug: '6'
+  tag: '6'
+  title: Quá trình quản lý thông tin - Hồ sơ đề xuất
+  annex: A
+  anchor: hinh-6
+  image_relpath: figures/images/hinh_6.png
+  has_image: true
+- figure_id: FIG_7
+  slug: '7'
+  tag: '7'
+  title: Quá trình quản lý thông tin - Thỏa thuận
+  annex: A
+  anchor: hinh-7
+  image_relpath: figures/images/hinh_7.png
+  has_image: true
+- figure_id: FIG_8
+  slug: '8'
+  tag: '8'
+  title: Quá trình quản lý thông tin - Huy động
+  annex: A
+  anchor: hinh-8
+  image_relpath: figures/images/hinh_8.png
+  has_image: true
+- figure_id: FIG_9
+  slug: '9'
+  tag: '9'
+  title: Quá trình quản lý thông tin - Các hoạt động hợp tác tạo lập thông tin
+  annex: A
+  anchor: hinh-9
+  image_relpath: figures/images/hinh_9.png
+  has_image: true
+- figure_id: FIG_10
+  slug: '10'
+  tag: '10'
+  title: Quá trình quản lý thông tin - Chuyển giao mô hình thông tin
+  annex: A
+  anchor: hinh-10
+  image_relpath: figures/images/hinh_10.png
+  has_image: true
+- figure_id: FIG_11
+  slug: '11'
+  tag: '11'
+  title: Quá trình quản lý thông tin - Kết thúc chuyển giao dự án
+  annex: A
+  anchor: hinh-11
+  image_relpath: figures/images/hinh_11.png
+  has_image: true
+- figure_id: FIG_B_1
+  slug: b_1
+  tag: B.1
+  title: Định danh các công-te-nơ thông tin trong môi trường dữ liệu chung
+  annex: S
+  anchor: hinh-b_1
+  image_relpath: figures/images/hinh_b_1.png
+  has_image: true

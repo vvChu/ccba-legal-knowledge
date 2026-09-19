@@ -1,0 +1,20 @@
+{
+  "table_id": "bang_09",
+  "table_number": "9",
+  "table_title": "Bảng 9",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên phòng",
+    "Đơn vị tính",
+    "Diện tích ($m^{2}$)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên phòng": "1- Các phòng học chuyên ngành đặc biệt với các phương tiện kĩ thuật giảng dạy theo chương trình\n&nbsp;&nbsp;\\- Lớp có các máy giảng dạy và kiểm tra\n&nbsp;&nbsp;\\- Lớp có các máy giảng dạy và kiểm tra với hệ thống thông tin kiểm tra\n&nbsp;&nbsp;\\- Phòng máy tính để bàn\n&nbsp;&nbsp;\\- Phòng máy tính điện từ (phụ thuộc vào loại máy tính)\n&nbsp;&nbsp;\\- Phòng chuẩn bị các điều kiện cho trước\n&nbsp;&nbsp;\\- Phòng lập chương trình\n&nbsp;&nbsp;\\- Phòng phụ đạo về kĩ thuật máy tính\n&nbsp;&nbsp;\\- Phòng phục vụ các phòng kĩ thuật máy tính\n2- Các phòng học ngoại ngữ:\n&nbsp;&nbsp;\\- Phòng ghi âm\n&nbsp;&nbsp;\\- Phòng chuẩn bị cho phòng ghi âm và ngữ âm\n&nbsp;&nbsp;\\- Xưởng và phòng máy ghi âm\n&nbsp;&nbsp;\\- Phòng ngữ âm",
+      "Đơn vị tính": "cho 1 chỗ\n-\n-\n-\n&nbsp;&nbsp;\\- phòng\ncho 1 chỗ\nphòng\n-\ncho 1 chỗ\n-\n-\n-\n-",
+      "Diện tích ($m^{2}$)": "2.2\n3\n3\n6-7,5\n54\n2,2\n36\n18\n3\n1,8\n18\n36\n1,8"
+    }
+  ],
+  "footnotes": []
+}

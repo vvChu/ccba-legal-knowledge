@@ -9,7 +9,7 @@ issued_date: '2023-02-28'
 effective_date: '2023-02-28'
 status: active
 pdf_path: legal_docs/03_tcvn/tcvn_3890_2023/sources/tcvn_3890_2023.pdf
-pdf_sha256: 1c22384f4a212eeb14b60e5dd12e9ab6dcac8c778fb1cf2a1c5865a4090c5e73
+pdf_sha256: a66ec8bd1d7a41b9d9452f23762eff0bf6b13432d130be38d827bca7b5430eb0
 pdf_status: verified
 bundle_path: legal_docs/03_tcvn/tcvn_3890_2023/
 cong_bao_number: TCVN
@@ -18,10 +18,22 @@ replaces:
 - TCVN 3890:2009
 source_assets:
   pdf:
-    sha256: 1c22384f4a212eeb14b60e5dd12e9ab6dcac8c778fb1cf2a1c5865a4090c5e73
+    sha256: a66ec8bd1d7a41b9d9452f23762eff0bf6b13432d130be38d827bca7b5430eb0
     vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_3890_2023/tcvn_3890_2023.pdf
     status: verified
+    origin: docx_vector_rendered
+  docx:
+    sha256: 0cea22adf1c8241c9a41c0b8843eebd111b8afba7704498d7be87048106b0fbe
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_3890_2023/tcvn_3890_2023.docx
+    status: verified
+  raw_scan:
+    sha256: 1c22384f4a212eeb14b60e5dd12e9ab6dcac8c778fb1cf2a1c5865a4090c5e73
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_3890_2023/tcvn_3890_2023_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-09-07T15:00:00+07:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/tcvn_3890_2023_raw_scan.pdf

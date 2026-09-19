@@ -12,7 +12,7 @@ bundle_path: legal_docs/02_qcvn/qcvn_03_2022_bxd/
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-05-2022-TT-BXD-Quy-chuan-QCVN-03-2022-BXD-phan-cap-cong-trinh-thiet-ke-xay-dung-543956.aspx
 sha256: cfaf62f9de163aefc4bfd18f20965b9fea139a65e60cb3ae4554c6c2c881cfad
 pdf_path: legal_docs/02_qcvn/qcvn_03_2022_bxd/sources/qcvn_03_2022_bxd.pdf
-pdf_sha256: f0f1a871b1a73ac209911f508ab8f64999ec39237a6538d2b71a08a5b277e380
+pdf_sha256: d009707dae04dd80deb77b72b529cbf5d7be65b7af2b43dc3874863037075b51
 cong_bao_number: 05/2022/TT-BXD
 pdf_status: verified
 source_file: .md/extracted_docs/qcvn_03_2022_bxd/qcvn_03_2022_bxd.docx
@@ -21,14 +21,22 @@ source_assets:
   docx:
     sha256: cfaf62f9de163aefc4bfd18f20965b9fea139a65e60cb3ae4554c6c2c881cfad
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_03_2022_bxd/qcvn_03_2022_bxd.docx
-    status: synced
+    status: verified
   pdf:
-    sha256: f0f1a871b1a73ac209911f508ab8f64999ec39237a6538d2b71a08a5b277e380
+    sha256: d009707dae04dd80deb77b72b529cbf5d7be65b7af2b43dc3874863037075b51
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_03_2022_bxd/qcvn_03_2022_bxd.pdf
     status: verified
+    origin: docx_vector_rendered
+  raw_scan:
+    sha256: f0f1a871b1a73ac209911f508ab8f64999ec39237a6538d2b71a08a5b277e380
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_03_2022_bxd/qcvn_03_2022_bxd_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 relations:
   replaces: QCVN-03-2012-BXD
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-09-04T06:48:31.733233+00:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/qcvn_03_2022_bxd_raw_scan.pdf

@@ -1,0 +1,483 @@
+{
+  "timestamp": "2026-09-19T08:25:14.190086+00:00",
+  "total_duration_seconds": 93.62,
+  "stage_1_parity": {
+    "exit_code": 0,
+    "duration_seconds": 32.37,
+    "summary": [
+      {
+        "slug": "luat_xay_dung_2025_135_2025_qh15",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.78,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 895,
+            "matched_paragraphs": 893,
+            "parity_rate": 99.78,
+            "sample_missing": [
+              "Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam đã được sửa đổi, bổ sung một số điều theo Nghị quyết số 203/2025/QH15;",
+              "Quốc hội ban hành Luật Xây dựng."
+            ]
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_217_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.85,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 1940,
+            "matched_paragraphs": 1937,
+            "parity_rate": 99.85,
+            "sample_missing": [
+              "Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;",
+              "Căn cứ Luật Tổ chức chính quyền địa phương số 72/2025/QH15;",
+              "Theo đề nghị của Bộ trưởng Bộ Xây dựng;"
+            ]
+          },
+          "table": {
+            "total_tables": 1,
+            "valid_tables": 1,
+            "has_catalog": true,
+            "docx_data_tables": 3
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_212_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 98.44,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 771,
+            "matched_paragraphs": 759,
+            "parity_rate": 98.44,
+            "sample_missing": [
+              "Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15;",
+              "Căn cứ Luật Ban hành văn bản quy phạm pháp luật số 64/2025/QH15 được sửa đổi, bổ sung bởi Luật số 87/2025/QH15;",
+              "Căn cứ Luật Tiếp cận thông tin số 104/2016/QH13;",
+              "Căn cứ Luật Giao dịch điện tử số 20/2023/QH15;",
+              "Căn cứ Luật Dữ liệu số 60/2024/QH15;"
+            ]
+          },
+          "table": {
+            "total_tables": 3,
+            "valid_tables": 3,
+            "has_catalog": true,
+            "docx_data_tables": 7
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_06_2022_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.89,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 1876,
+            "matched_paragraphs": 1874,
+            "parity_rate": 99.89,
+            "sample_missing": [
+              "A.2.27  Cấp nước chữa cháy",
+              "A.2.28  Hệ thống điện"
+            ]
+          },
+          "table": {
+            "total_tables": 64,
+            "valid_tables": 64,
+            "has_catalog": true,
+            "docx_data_tables": 64
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_07_2023_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 1696,
+            "matched_paragraphs": 1696,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 12,
+            "valid_tables": 12,
+            "has_catalog": true,
+            "docx_data_tables": 26
+          },
+          "math": {
+            "total_blocks": 1,
+            "valid_blocks": 1
+          },
+          "multimodal": {
+            "total_figures": 2,
+            "valid_figures": 2
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_5575_2024",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.28,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 2224,
+            "matched_paragraphs": 2208,
+            "parity_rate": 99.28,
+            "sample_missing": [
+              "trong đó: khi  > 3,5 thì lấy  = 3,5;",
+              "trong đó: khi  > 2,3 thì lấy  =2,3;",
+              "Khi  < 2,2 hoặc > 5,5 thì lấy =2,2 hoặc  = 5,5.",
+              "Lef  = µL                                                                       (139)",
+              "Ncr = 6,28tσcr,1 rmcos2 β                                                   (163)"
+            ]
+          },
+          "table": {
+            "total_tables": 107,
+            "valid_tables": 107,
+            "has_catalog": true,
+            "docx_data_tables": 137
+          },
+          "math": {
+            "total_blocks": 480,
+            "valid_blocks": 480
+          },
+          "multimodal": {
+            "total_figures": 48,
+            "valid_figures": 48
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_9386_2025",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.43,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 2616,
+            "matched_paragraphs": 2601,
+            "parity_rate": 99.43,
+            "sample_missing": [
+              "Vwp,Ed < Vwb,Rd             (6.9)",
+              "VEd ≤ Vp,link            (6.15)",
+              "MEd ≤ Mp,link           (6.16)",
+              "n = Ea / Ecm = 7             (7.1)",
+              "s = min(bo/2, 260 mm, 9dbL) đối với DCM               (7.7)"
+            ]
+          },
+          "table": {
+            "total_tables": 27,
+            "valid_tables": 27,
+            "has_catalog": true,
+            "docx_data_tables": 43
+          },
+          "math": {
+            "total_blocks": 185,
+            "valid_blocks": 185
+          },
+          "multimodal": {
+            "total_figures": 46,
+            "valid_figures": 46
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_10_2024_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 241,
+            "matched_paragraphs": 241,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 2,
+            "valid_tables": 2,
+            "has_catalog": true,
+            "docx_data_tables": 2
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 25,
+            "valid_figures": 25
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_iso_19650_1_2021",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 400,
+            "matched_paragraphs": 400,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 1,
+            "valid_tables": 1,
+            "has_catalog": true,
+            "docx_data_tables": 2
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 14,
+            "valid_figures": 14
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_3981_1985",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 250,
+            "matched_paragraphs": 250,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 22,
+            "valid_tables": 22,
+            "has_catalog": true,
+            "docx_data_tables": 14
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_4474_1987",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.67,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 303,
+            "matched_paragraphs": 302,
+            "parity_rate": 99.67,
+            "sample_missing": [
+              "q = qc + qdc\t(1)"
+            ]
+          },
+          "table": {
+            "total_tables": 11,
+            "valid_tables": 11,
+            "has_catalog": true,
+            "docx_data_tables": 8
+          },
+          "math": {
+            "total_blocks": 9,
+            "valid_blocks": 9
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      }
+    ],
+    "total_documents": 11,
+    "passed_documents": 11
+  },
+  "stage_2_master_ci": {
+    "exit_code": 0,
+    "duration_seconds": 61.25,
+    "passed": true,
+    "summary": "PASSED"
+  }
+}

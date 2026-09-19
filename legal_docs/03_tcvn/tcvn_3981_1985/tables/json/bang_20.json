@@ -1,0 +1,35 @@
+{
+  "table_id": "bang_20",
+  "table_number": "20",
+  "table_title": "Bảng 20",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên quầy phục vụ",
+    "Diện tích phòng theo số lượng học sinh(m2) — 1000",
+    "Diện tích phòng theo số lượng học sinh(m2) — 2000",
+    "Diện tích phòng theo số lượng học sinh(m2) — 3000",
+    "Diện tích phòng theo số lượng học sinh(m2) — 4000",
+    "Diện tích phòng theo số lượng học sinh(m2) — 5000"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên quầy phục vụ": "1",
+      "Diện tích phòng theo số lượng học sinh(m2) — 1000": "2",
+      "Diện tích phòng theo số lượng học sinh(m2) — 2000": "3",
+      "Diện tích phòng theo số lượng học sinh(m2) — 3000": "4",
+      "Diện tích phòng theo số lượng học sinh(m2) — 4000": "5",
+      "Diện tích phòng theo số lượng học sinh(m2) — 5000": "6"
+    },
+    {
+      "_row_id": 2,
+      "Tên quầy phục vụ": "1- Quầy bách hóa\n2 - Quầy giải khát\n3 - Cắt tóc\n4 - May vá quần áo\n5 – Sách báo tem thư",
+      "Diện tích phòng theo số lượng học sinh(m2) — 1000": "18\n16\n12\n6\n12",
+      "Diện tích phòng theo số lượng học sinh(m2) — 2000": "24\n24\n12\n12\n12",
+      "Diện tích phòng theo số lượng học sinh(m2) — 3000": "24\n24\n18\n12\n18",
+      "Diện tích phòng theo số lượng học sinh(m2) — 4000": "36\n36\n18\n18\n18",
+      "Diện tích phòng theo số lượng học sinh(m2) — 5000": "48\n48\n24\n24\n24"
+    }
+  ],
+  "footnotes": []
+}

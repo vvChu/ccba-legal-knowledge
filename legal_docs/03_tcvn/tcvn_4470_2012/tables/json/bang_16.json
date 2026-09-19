@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_16",
+  "table_number": "16",
+  "table_title": "Bảng 16 - Diện tích các phòng phục vụ sinh hoạt của khoa Truyền nhiễm",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại phòng",
+    "Diện tích($m^{2}$/phòng)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "1. Chỗ soạn ăn, khử trùng dụng cụ ăn",
+      "Diện tích($m^{2}$/phòng)": "từ 9 đến 12",
+      "Ghi chú": "khử trùng sơ bộ"
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "2. Kho sạch",
+      "Diện tích($m^{2}$/phòng)": "≥ 8",
+      "Ghi chú": "đồ vải, dụng cụ"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "3. Thu hồi đồ bẩn và khử trùng sơ bộ",
+      "Diện tích($m^{2}$/phòng)": "từ 6 đến 9",
+      "Ghi chú": "vệ sinh sạch"
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "4. Khu vệ sinh",
+      "Diện tích($m^{2}$/phòng)": "Bố trí theo buồng bệnh gồm: 01 rửa, 01 xí tiểu, 01 chỗ tắm giặt.",
+      "Ghi chú": "Bố trí theo buồng bệnh gồm: 01 rửa, 01 xí tiểu, 01 chỗ tắm giặt."
+    }
+  ],
+  "footnotes": []
+}

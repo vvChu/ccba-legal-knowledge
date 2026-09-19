@@ -1,0 +1,62 @@
+{
+  "table_id": "bang_05",
+  "table_number": "5",
+  "table_title": "Bảng 5 - Hệ số độ rọi tự nhiên tối thiểu",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Phân cấp hoạt động thị giác — Mức độ chính xác",
+    "Phân cấp hoạt động thị giác — Kích thước vật phân biệt mm",
+    "Chiếu sáng bên — Độ rọi ánh sáng tự nhiên trong nhà lux",
+    "Chiếu sáng bên — Hệ số độ rơi tự nhiên tối thiểu %",
+    "Chiếu sáng trên — Độ rọi ánh sáng tự nhiên trong nhà lux",
+    "Chiếu sáng trên — Hệ số độ rọi tự nhiên trung bình %"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Phân cấp hoạt động thị giác — Mức độ chính xác": "1. Đặc biệt chính xác",
+      "Phân cấp hoạt động thị giác — Kích thước vật phân biệt mm": "d ≤ 0,15",
+      "Chiếu sáng bên — Độ rọi ánh sáng tự nhiên trong nhà lux": "250",
+      "Chiếu sáng bên — Hệ số độ rơi tự nhiên tối thiểu %": "5",
+      "Chiếu sáng trên — Độ rọi ánh sáng tự nhiên trong nhà lux": "350",
+      "Chiếu sáng trên — Hệ số độ rọi tự nhiên trung bình %": "7"
+    },
+    {
+      "_row_id": 2,
+      "Phân cấp hoạt động thị giác — Mức độ chính xác": "1. Rất chính xác",
+      "Phân cấp hoạt động thị giác — Kích thước vật phân biệt mm": "0,15 < d ≤ 0,3",
+      "Chiếu sáng bên — Độ rọi ánh sáng tự nhiên trong nhà lux": "150",
+      "Chiếu sáng bên — Hệ số độ rơi tự nhiên tối thiểu %": "3",
+      "Chiếu sáng trên — Độ rọi ánh sáng tự nhiên trong nhà lux": "250",
+      "Chiếu sáng trên — Hệ số độ rọi tự nhiên trung bình %": "5"
+    },
+    {
+      "_row_id": 3,
+      "Phân cấp hoạt động thị giác — Mức độ chính xác": "2. Chính xác",
+      "Phân cấp hoạt động thị giác — Kích thước vật phân biệt mm": "0,3 < d ≤ 1,0",
+      "Chiếu sáng bên — Độ rọi ánh sáng tự nhiên trong nhà lux": "100",
+      "Chiếu sáng bên — Hệ số độ rơi tự nhiên tối thiểu %": "2",
+      "Chiếu sáng trên — Độ rọi ánh sáng tự nhiên trong nhà lux": "150",
+      "Chiếu sáng trên — Hệ số độ rọi tự nhiên trung bình %": "3"
+    },
+    {
+      "_row_id": 4,
+      "Phân cấp hoạt động thị giác — Mức độ chính xác": "3. Trung bình",
+      "Phân cấp hoạt động thị giác — Kích thước vật phân biệt mm": "1,0 < d ≤ 5,0",
+      "Chiếu sáng bên — Độ rọi ánh sáng tự nhiên trong nhà lux": "50",
+      "Chiếu sáng bên — Hệ số độ rơi tự nhiên tối thiểu %": "1",
+      "Chiếu sáng trên — Độ rọi ánh sáng tự nhiên trong nhà lux": "100",
+      "Chiếu sáng trên — Hệ số độ rọi tự nhiên trung bình %": "2"
+    },
+    {
+      "_row_id": 5,
+      "Phân cấp hoạt động thị giác — Mức độ chính xác": "4. Thô",
+      "Phân cấp hoạt động thị giác — Kích thước vật phân biệt mm": "d > 5,0",
+      "Chiếu sáng bên — Độ rọi ánh sáng tự nhiên trong nhà lux": "25",
+      "Chiếu sáng bên — Hệ số độ rơi tự nhiên tối thiểu %": "0,5",
+      "Chiếu sáng trên — Độ rọi ánh sáng tự nhiên trong nhà lux": "50",
+      "Chiếu sáng trên — Hệ số độ rọi tự nhiên trung bình %": "1"
+    }
+  ],
+  "footnotes": []
+}

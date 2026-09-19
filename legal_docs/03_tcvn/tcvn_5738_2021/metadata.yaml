@@ -9,7 +9,7 @@ issued_date: '2021-12-29'
 effective_date: '2021-12-29'
 status: active
 pdf_path: legal_docs/03_tcvn/tcvn_5738_2021/sources/tcvn_5738_2021.pdf
-pdf_sha256: 3c572562ff90cfc8d49c1aaa62c60bca81aaa5fe3f89202374a7701ba3727d0a
+pdf_sha256: 09f232314e39626aa1d48b8b120fa306981555a72f3e75f3968bb8fc92318b75
 pdf_status: verified
 bundle_path: legal_docs/03_tcvn/tcvn_5738_2021/
 cong_bao_number: TCVN
@@ -18,10 +18,22 @@ replaces:
 - TCVN 5738:2001
 source_assets:
   pdf:
-    sha256: 3c572562ff90cfc8d49c1aaa62c60bca81aaa5fe3f89202374a7701ba3727d0a
+    sha256: 09f232314e39626aa1d48b8b120fa306981555a72f3e75f3968bb8fc92318b75
     vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5738_2021/tcvn_5738_2021.pdf
     status: verified
+    origin: docx_vector_rendered
+  docx:
+    sha256: ae3c6382be521a2e598d613283ede57989beece24f9eb81d48a29322c99aeee0
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5738_2021/tcvn_5738_2021.docx
+    status: verified
+  raw_scan:
+    sha256: 3c572562ff90cfc8d49c1aaa62c60bca81aaa5fe3f89202374a7701ba3727d0a
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5738_2021/tcvn_5738_2021_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-09-07T15:00:00+07:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/tcvn_5738_2021_raw_scan.pdf

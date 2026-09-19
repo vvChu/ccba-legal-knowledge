@@ -1,0 +1,22 @@
+﻿"Tên khoa, phòng",Diện tích<br>($m^{2}$/phòng)
+**Khu nghiệp vụ kỹ thuật (Labo giải phẫu bệnh)**,
+"1. Phòng khám, chẩn đoán tế bào học",60
+2. Phòng nhận và xử lý bệnh phẩm,24
+"3. Phòng cắt, nhuộm bệnh phẩm",36
+"4. Phòng chuẩn bị, pha chế hóa chất",36
+"5. Phòng ảnh, đọc tiêu bản",24
+"6. Phòng lưu trữ hồ sơ, tiêu bản",24
+"7. Phòng rửa, tiệt trùng",24
+8. Kho,18
+**Khu phụ trợ**,
+"9. Phòng nhân viên, trực khoa",36
+10. Phòng trưởng khoa,18
+"11. Khu vệ sinh, thay đồ nhân viên (nam/nữ)",18 $m^{2}$ x 02 khu
+12. Phòng tang lễ,60
+13. Phòng dịch vụ tang lễ,24
+14. Phòng lưu tử thi,24
+15. Phòng khám nghiệm tử thi,36
+16. Phòng lưu trữ bệnh phẩm,24
+17 Kho,24
+"18. Phòng rửa, tiệt trùng",18
+19. Phòng hành chính,24

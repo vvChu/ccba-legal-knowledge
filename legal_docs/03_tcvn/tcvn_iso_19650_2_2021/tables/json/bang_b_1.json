@@ -1,0 +1,104 @@
+{
+  "table_id": "bang_b_1",
+  "table_number": "B.1",
+  "table_title": "Bảng B.1 - Mã trạng thái cho các công-te-nơ thông tin trong môi trường dữ liệu chung",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Mã",
+    "Mô tả",
+    "Phiên bản"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mã": "**Tiến trình công việc**",
+      "Mô tả": "",
+      "Phiên bản": ""
+    },
+    {
+      "_row_id": 2,
+      "Mã": "SO",
+      "Mô tả": "Trạng thái khởi tạo ban đầu",
+      "Phiên bản": "Phiên bản sơ bộ và các phiên bản sửa đổi"
+    },
+    {
+      "_row_id": 3,
+      "Mã": "**Chia sẻ\n(không trong hợp đồng)**",
+      "Mô tả": "",
+      "Phiên bản": ""
+    },
+    {
+      "_row_id": 4,
+      "Mã": "S1",
+      "Mô tả": "Phục vụ cho phối hợp",
+      "Phiên bản": "Phiên bản sơ bộ"
+    },
+    {
+      "_row_id": 5,
+      "Mã": "S2",
+      "Mô tả": "Phục vụ cho phổ biến thông tin",
+      "Phiên bản": "Phiên bản sơ bộ"
+    },
+    {
+      "_row_id": 6,
+      "Mã": "S3",
+      "Mô tả": "Phục vụ cho xem xét và góp ý",
+      "Phiên bản": "Phiên bản sơ bộ"
+    },
+    {
+      "_row_id": 7,
+      "Mã": "S4",
+      "Mô tả": "Phục vụ cho phê duyệt giai đoạn",
+      "Phiên bản": "Phiên bản sơ bộ"
+    },
+    {
+      "_row_id": 8,
+      "Mã": "S5",
+      "Mô tả": "Thu hồi",
+      "Phiên bản": "Không có giá trị được gắn kèm"
+    },
+    {
+      "_row_id": 9,
+      "Mã": "S6\n(có thể không áp dụng)",
+      "Mô tả": "Phù hợp để ủy quyền PIM",
+      "Phiên bản": "Phiên bản sơ bộ"
+    },
+    {
+      "_row_id": 10,
+      "Mã": "S7\n(có thể không áp dụng)",
+      "Mô tả": "Phù hợp để ủy quyền AIM",
+      "Phiên bản": "Phiên bản sơ bộ"
+    },
+    {
+      "_row_id": 11,
+      "Mã": "**Đã xuất bản (trong hợp đồng)**",
+      "Mô tả": "",
+      "Phiên bản": ""
+    },
+    {
+      "_row_id": 12,
+      "Mã": "A1, An, v.v.",
+      "Mô tả": "Được ủy quyền và chấp thuận",
+      "Phiên bản": "Phiên bản của hợp đồng"
+    },
+    {
+      "_row_id": 13,
+      "Mã": "B1, Bn, v.v.",
+      "Mô tả": "Chấp thuận một phần (Với các khuyến cáo)",
+      "Phiên bản": "Phiên bản sơ bộ"
+    },
+    {
+      "_row_id": 14,
+      "Mã": "Đã xuất bản\n(chấp thuận mô hình thông tin tài sản - AIM)",
+      "Mô tả": "",
+      "Phiên bản": ""
+    },
+    {
+      "_row_id": 15,
+      "Mã": "CR",
+      "Mô tả": "Hồ sơ hoàn công",
+      "Phiên bản": "Phiên bản của hợp đồng"
+    }
+  ],
+  "footnotes": []
+}

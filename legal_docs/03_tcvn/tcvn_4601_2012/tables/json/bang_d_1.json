@@ -1,0 +1,71 @@
+{
+  "table_id": "bang_d_1",
+  "table_number": "D.1",
+  "table_title": "Bảng D.1 - Các thông số về chỉ tiêu nhiệt độ, độ ẩm trong phòng và tiếng ồn cho phép",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên phòng",
+    "Mùa hè — Nhiệt độ $^{o}$C",
+    "Mùa hè — Độ ẩm tương đối %",
+    "Mùa đông — Nhiệt độ $^{o}$C",
+    "Mùa đông — Độ ẩm tương đối %",
+    "Tiêu chuẩn tiếng ồn cấp âm (A) dB"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên phòng": "1. Phòng làm việc thông thường",
+      "Mùa hè — Nhiệt độ $^{o}$C": "Từ 26 đến 28",
+      "Mùa hè — Độ ẩm tương đối %": "< 60",
+      "Mùa đông — Nhiệt độ $^{o}$C": "Từ 18 đến 20",
+      "Mùa đông — Độ ẩm tương đối %": "Không quy định",
+      "Tiêu chuẩn tiếng ồn cấp âm (A) dB": "Từ 40 đến 55"
+    },
+    {
+      "_row_id": 2,
+      "Tên phòng": "2. Phòng làm việc cao cấp",
+      "Mùa hè — Nhiệt độ $^{o}$C": "Từ 24 đến 27",
+      "Mùa hè — Độ ẩm tương đối %": "< 60",
+      "Mùa đông — Nhiệt độ $^{o}$C": "Từ 20 đến 22",
+      "Mùa đông — Độ ẩm tương đối %": "≤ 35",
+      "Tiêu chuẩn tiếng ồn cấp âm (A) dB": "Từ 30 đến 40"
+    },
+    {
+      "_row_id": 3,
+      "Tên phòng": "3. Phòng khách, phòng họp",
+      "Mùa hè — Nhiệt độ $^{o}$C": "Từ 25 đến 27",
+      "Mùa hè — Độ ẩm tương đối %": "< 65",
+      "Mùa đông — Nhiệt độ $^{o}$C": "Từ 16 đến 18",
+      "Mùa đông — Độ ẩm tương đối %": "Không quy định",
+      "Tiêu chuẩn tiếng ồn cấp âm (A) dB": "Từ 40 đến 50"
+    },
+    {
+      "_row_id": 4,
+      "Tên phòng": "4. Phòng tổng đài điện thoại",
+      "Mùa hè — Nhiệt độ $^{o}$C": "Từ 25 đến 27",
+      "Mùa hè — Độ ẩm tương đối %": "< 65",
+      "Mùa đông — Nhiệt độ $^{o}$C": "Từ 16 đến 18",
+      "Mùa đông — Độ ẩm tương đối %": "Không quy định",
+      "Tiêu chuẩn tiếng ồn cấp âm (A) dB": "Từ 55 đến 60"
+    },
+    {
+      "_row_id": 5,
+      "Tên phòng": "5. Phòng máy tính",
+      "Mùa hè — Nhiệt độ $^{o}$C": "Từ 24 đến 28",
+      "Mùa hè — Độ ẩm tương đối %": "≤ 60",
+      "Mùa đông — Nhiệt độ $^{o}$C": "Từ 18 đến 20",
+      "Mùa đông — Độ ẩm tương đối %": "Không quy định",
+      "Tiêu chuẩn tiếng ồn cấp âm (A) dB": "Từ 55 đến 65"
+    },
+    {
+      "_row_id": 6,
+      "Tên phòng": "6. Phòng in ấn",
+      "Mùa hè — Nhiệt độ $^{o}$C": "Từ 24 đến 28",
+      "Mùa hè — Độ ẩm tương đối %": "≤ 55",
+      "Mùa đông — Nhiệt độ $^{o}$C": "Từ 18 đến 20",
+      "Mùa đông — Độ ẩm tương đối %": "Không quy định",
+      "Tiêu chuẩn tiếng ồn cấp âm (A) dB": "Từ 55 đến 60"
+    }
+  ],
+  "footnotes": []
+}

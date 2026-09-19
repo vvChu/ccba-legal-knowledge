@@ -1,0 +1,39 @@
+id: tcvn_iso_19650_2_2021
+document_number: TCVN ISO 19650-2:2021
+title: 'TCVN 14177-2:2024 (TCVN ISO 19650-2:2021) Tổ chức và số hóa thông tin về công
+  trình xây dựng, bao gồm BIM — Quản lý thông tin bằng BIM: Phần 2: Giai đoạn chuyển
+  giao tài sản'
+type: Tiêu chuẩn quốc gia
+issued_by: Bộ Khoa học và Công nghệ
+signer: ''
+issued_date: '2024-05-15'
+effective_date: '2024-05-15'
+status: active
+pdf_path: legal_docs/03_tcvn/tcvn_iso_19650_2_2021/sources/tcvn_iso_19650_2_2021.pdf
+pdf_sha256: 2c5f16fc80ca058998fc4cb86173418cfe8bd4246beca24e0b3d11cd10048522
+pdf_status: verified
+cong_bao_number: TCVN
+legal_basis: []
+replaces: []
+bundle_path: legal_docs/03_tcvn/tcvn_iso_19650_2_2021/
+source_assets:
+  pdf:
+    sha256: 2c5f16fc80ca058998fc4cb86173418cfe8bd4246beca24e0b3d11cd10048522
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_iso_19650_2_2021/tcvn_iso_19650_2_2021.pdf
+    status: verified
+    origin: docx_vector_rendered
+  docx:
+    sha256: 6d8e19e330cb20a6ce457efe17a5ad557d088037a59dd462579cd558e9fa9d52
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_iso_19650_2_2021/tcvn_iso_19650_2_2021.docx
+    status: verified
+  raw_scan:
+    sha256: 511edbbefde687d5c15dc70b1691465d0af3d2e415a56e6d91aa1f95d216ba62
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_iso_19650_2_2021/tcvn_iso_19650_2_2021_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-19T12:15:30.000000+00:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/tcvn_iso_19650_2_2021_raw_scan.pdf

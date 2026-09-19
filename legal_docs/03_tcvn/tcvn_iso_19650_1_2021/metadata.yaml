@@ -1,0 +1,39 @@
+id: tcvn_iso_19650_1_2021
+document_number: TCVN ISO 19650-1:2021
+title: 'TCVN 14177-1:2024 (TCVN ISO 19650-1:2021) Tổ chức và số hóa thông tin về công
+  trình xây dựng, bao gồm mô hình thông tin công trình (BIM) — Quản lý thông tin bằng
+  BIM: Phần 1: Khái niệm và nguyên tắc'
+type: Tiêu chuẩn quốc gia
+issued_by: Bộ Khoa học và Công nghệ
+signer: ''
+issued_date: '2024-05-15'
+effective_date: '2024-05-15'
+status: active
+pdf_path: legal_docs/03_tcvn/tcvn_iso_19650_1_2021/sources/tcvn_iso_19650_1_2021.pdf
+pdf_sha256: abb3189b57d3556fb0b7f5f303902fe09bf664316a7e047faf648c154ee19689
+pdf_status: verified
+cong_bao_number: TCVN
+legal_basis: []
+replaces: []
+bundle_path: legal_docs/03_tcvn/tcvn_iso_19650_1_2021/
+source_assets:
+  pdf:
+    sha256: abb3189b57d3556fb0b7f5f303902fe09bf664316a7e047faf648c154ee19689
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_iso_19650_1_2021/tcvn_iso_19650_1_2021.pdf
+    status: verified
+    origin: docx_vector_rendered
+  docx:
+    sha256: 05086347524e89210b20a39aac7d75bac8f8f86a88e269eb25e7efa1d220a9f8
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_iso_19650_1_2021/tcvn_iso_19650_1_2021.docx
+    status: verified
+  raw_scan:
+    sha256: c646dae42afa4ccfa5982f3c749b82fd5cb52d610d495ece6a0a6869f9ebd3ae
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_iso_19650_1_2021/tcvn_iso_19650_1_2021_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-19T12:13:00.000000+00:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/tcvn_iso_19650_1_2021_raw_scan.pdf

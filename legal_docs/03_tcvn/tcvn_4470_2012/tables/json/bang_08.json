@@ -1,0 +1,162 @@
+{
+  "table_id": "bang_08",
+  "table_number": "8",
+  "table_title": "Bảng 8 - Diện tích các phòng trong đơn nguyên điều trị nội trú",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại phòng",
+    "Diện tích($m^{2}$/phòng)",
+    "Ghi chú",
+    ""
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "1. Thủ thuật vô khuẩn",
+      "Diện tích($m^{2}$/phòng)": "từ 18 đến 24",
+      "Ghi chú": "",
+      "col_4": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "2. Thủ thuật hữu khuẩn",
+      "Diện tích($m^{2}$/phòng)": "từ 9 đến 12",
+      "Ghi chú": "",
+      "col_4": ""
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "3. Rửa hấp, sấy, chuẩn bị dụng cụ",
+      "Diện tích($m^{2}$/phòng)": "từ 9 đến 12",
+      "Ghi chú": "nên đặt ở giữa hai phòng thủ thuật vô khuẩn và hữu khuẩn",
+      "col_4": ""
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "4. Phòng cấp cứu",
+      "Diện tích($m^{2}$/phòng)": "từ 15 đến 18",
+      "Ghi chú": "cho từ 01 giường đến 02 giường",
+      "col_4": ""
+    },
+    {
+      "_row_id": 5,
+      "Loại phòng": "",
+      "Diện tích($m^{2}$/phòng)": "từ 24 đến 32",
+      "Ghi chú": "cho từ 03 giường đến 04 giường",
+      "col_4": ""
+    },
+    {
+      "_row_id": 6,
+      "Loại phòng": "5. Phòng Xét nghiệm thông thường",
+      "Diện tích($m^{2}$/phòng)": "từ 15 đến 18",
+      "Ghi chú": "hoặc 5 $m^{2}$/nhân viên đến 6 $m^{2}$/nhân viên",
+      "col_4": ""
+    },
+    {
+      "_row_id": 7,
+      "Loại phòng": "6. Phòng Xquang (nếu có)",
+      "Diện tích($m^{2}$/phòng)": "24",
+      "Ghi chú": "",
+      "col_4": ""
+    },
+    {
+      "_row_id": 8,
+      "Loại phòng": "7. Phòng trưởng khoa",
+      "Diện tích($m^{2}$/phòng)": "18",
+      "Ghi chú": "",
+      "col_4": ""
+    },
+    {
+      "_row_id": 9,
+      "Loại phòng": "8. Phòng bác sĩ",
+      "Diện tích($m^{2}$/phòng)": "từ 24 đến 36",
+      "Ghi chú": "có thể bố trí chung cho từ 02 đến 03 đơn nguyên cùng khoa",
+      "col_4": ""
+    },
+    {
+      "_row_id": 10,
+      "Loại phòng": "9. Phòng bác sĩ điều trị(*)",
+      "Diện tích($m^{2}$/phòng)": "từ 15 đến 18",
+      "Ghi chú": "hoặc tính bằng 6 $m^{2}$/chỗ, nếu có lưu trữ hồ sơ bệnh án thì tính thêm 2 $m^{2}$ đến 3 $m^{2}$",
+      "col_4": ""
+    },
+    {
+      "_row_id": 11,
+      "Loại phòng": "10. Phòng y tá hành chính(*)",
+      "Diện tích($m^{2}$/phòng)": "từ 15 đến 18",
+      "Ghi chú": "hoặc tính bằng 6 $m^{2}$/chỗ, nếu có lưu trữ hồ sơ bệnh án thì tính thêm 2 $m^{2}$ đến 3 $m^{2}$",
+      "col_4": ""
+    },
+    {
+      "_row_id": 12,
+      "Loại phòng": "11. Chỗ trực và làm việc của y tá(*)",
+      "Diện tích($m^{2}$/phòng)": "từ 18 đến 24",
+      "Ghi chú": "ở vị trí bao quát được các phòng bệnh",
+      "col_4": ""
+    },
+    {
+      "_row_id": 13,
+      "Loại phòng": "12. Phòng y tá trưởng (điều dưỡng trưởng)",
+      "Diện tích($m^{2}$/phòng)": "từ 18 đến 21",
+      "Ghi chú": "",
+      "col_4": ""
+    },
+    {
+      "_row_id": 14,
+      "Loại phòng": "13. Phòng trực bác sỹ nam",
+      "Diện tích($m^{2}$/phòng)": "từ 15 đến 18",
+      "Ghi chú": "",
+      "col_4": ""
+    },
+    {
+      "_row_id": 15,
+      "Loại phòng": "14. Phòng trực bác sỹ nữ",
+      "Diện tích($m^{2}$/phòng)": "từ 15 đến 18",
+      "Ghi chú": "",
+      "col_4": ""
+    },
+    {
+      "_row_id": 16,
+      "Loại phòng": "15. Phòng nhân viên",
+      "Diện tích($m^{2}$/phòng)": "từ 18 đến 24",
+      "Ghi chú": "cho 50 giường hoặc cho 02 đơn nguyên hoặc tính bằng 0,8 $m^{2}$/người đến 1,0 $m^{2}$/người nhưng không quá 36 $m^{2}$/phòng",
+      "col_4": ""
+    },
+    {
+      "_row_id": 17,
+      "Loại phòng": "16. Phòng giao ban, sinh hoạt của đơn nguyên, hướng dẫn sinh viên, thực tập sinh...",
+      "Diện tích($m^{2}$/phòng)": "từ 24 đến 36",
+      "Ghi chú": "cho 50 giường hoặc cho 02 đơn nguyên hoặc tính bằng 0,8 $m^{2}$/người đến 1,0 $m^{2}$/người nhưng không quá 36 $m^{2}$/phòng",
+      "col_4": ""
+    },
+    {
+      "_row_id": 18,
+      "Loại phòng": "17. Phòng thay quần áo nam",
+      "Diện tích($m^{2}$/phòng)": "18",
+      "Ghi chú": "từ 0,2 $m^{2}$/chỗ đến 0,3 $m^{2}$/chỗ mắc áo hoặc từ 0,35 $m^{2}$/chỗ đến 0,45 $m^{2}$/chỗ treo áo cá nhân",
+      "col_4": ""
+    },
+    {
+      "_row_id": 19,
+      "Loại phòng": "18. Phòng thay quần áo nữ",
+      "Diện tích($m^{2}$/phòng)": "18",
+      "Ghi chú": "từ 0,2 $m^{2}$/chỗ đến 0,3 $m^{2}$/chỗ mắc áo hoặc từ 0,35 $m^{2}$/chỗ đến 0,45 $m^{2}$/chỗ treo áo cá nhân",
+      "col_4": ""
+    },
+    {
+      "_row_id": 20,
+      "Loại phòng": "19. Khu vệ sinh",
+      "Diện tích($m^{2}$/phòng)": "từ 18 đến 24",
+      "Ghi chú": "Nam/nữ riêng biệt",
+      "col_4": ""
+    },
+    {
+      "_row_id": 21,
+      "Loại phòng": "**GHI CHÚ:(*) Có thể bố trí chung**",
+      "Diện tích($m^{2}$/phòng)": "",
+      "Ghi chú": "",
+      "col_4": ""
+    }
+  ],
+  "footnotes": []
+}

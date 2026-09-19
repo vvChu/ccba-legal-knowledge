@@ -1,0 +1,29 @@
+id: tcvn_3981_1985
+document_number: TCVN 3981:1985
+title: TCVN 3981:1985 Trường đại học - Tiêu chuẩn thiết kế
+type: Tiêu chuẩn quốc gia
+issued_by: Ủy ban Xây dựng Cơ bản Nhà nước
+signer: ''
+issued_date: '1985-05-18'
+effective_date: '1985-07-01'
+status: active
+pdf_path: legal_docs/03_tcvn/tcvn_3981_1985/sources/tcvn_3981_1985.pdf
+pdf_sha256: d5179fb71ed83cb53e43874b7eda18ad56db22dd0d8360d99e982a783379d5ee
+pdf_status: verified
+cong_bao_number: TCVN
+legal_basis: []
+replaces: []
+bundle_path: legal_docs/03_tcvn/tcvn_3981_1985/
+source_assets:
+  pdf:
+    sha256: d5179fb71ed83cb53e43874b7eda18ad56db22dd0d8360d99e982a783379d5ee
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_3981_1985/tcvn_3981_1985.pdf
+    status: verified
+  docx:
+    sha256: 46575b1c876bb2bce47808182de845a266fe6c1a25b63fee000c136cf4e57bef
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_3981_1985/tcvn_3981_1985.docx
+    status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-19T12:08:30.000000+00:00'

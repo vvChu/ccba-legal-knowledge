@@ -1,0 +1,19 @@
+﻿Loại phòng,Diện tích tối thiểu,Ghi chú
+**A. Khu vực sạch**,,
+"1. Phòng khám thai, $m^{2}$/bàn",từ 15 đến 18,Mỗi bàn thêm tính từ 8 $m^{2}$/bàn đến 9 $m^{2}$/bàn nhưng không quá 03 bàn/phòng
+"2. Mỗi phòng chờ đẻ (02 giường), $m^{2}$/phòng",12,"Nếu phòng có nhiều hơn 02 giường, mỗi giường tính thêm từ 4 $m^{2}$/giường đến 6 $m^{2}$/giường nhưng không quá 04 giường/phòng"
+"3. Phòng vệ sinh trước khi đẻ, $m^{2}$/phòng",từ 6 đến 9,
+"4. Phòng nghỉ sau nạo thai, $m^{2}$/phòng",12,từ 02 giường đến 03 giường
+**B. Khu vực đẻ**,,
+Khu vô khuẩn,,
+"1. Phòng rửa tay, thay áo, $m^{2}$/phòng",9,
+"2. Đỡ đẻ vô khuẩn (01 bàn đến 02 bàn), $m^{2}$/phòng",từ 15 đến 24,Không quá 02 bàn/phòng cho sản phụ cách ly
+"3. Đỡ đẻ bệnh lý (01 bàn), $m^{2}$/phòng",18,
+"4. Phòng nạo thai, đặt vòng, $m^{2}$/phòng",từ 15 đến 18,
+Khu hữu khuẩn,,
+"1. Phòng vệ sinh trước khi đẻ, $m^{2}$/phòng",từ 6 đến 9,
+"2. Đỡ đẻ hữu khuẩn (01 bàn), $m^{2}$/bàn",từ 15 đến 18,
+Khu vực hậu cần,,
+"1. Kho sạch, $m^{2}$/phòng",từ 18 đến 21,
+"2. Rửa hấp, sấy, chuẩn bị dụng cụ, $m^{2}$/phòng",9,
+"3. Chỗ thu hồi đồ bẩn, $m^{2}$/chỗ",từ 12 đến 15,

@@ -1,0 +1,29 @@
+{
+  "table_id": "bang_11",
+  "table_number": "11",
+  "table_title": "Bảng 11",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên phòng",
+    "Chỉ số tính toán",
+    "Đơn vị",
+    "Diện tích $m^{2}$"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên phòng": "1- Diện tích chỗ cho mượn sách về nhà\n&nbsp;&nbsp;\\- Cho người đọc\n&nbsp;&nbsp;\\- Cho nhân viên công tác ở thư viện\n2 - Diện tích chỗ cho mượn sách ở phòng đọc\n&nbsp;&nbsp;\\- Cho người đọc\n&nbsp;&nbsp;\\- Cho nhân viên công tác ở thư viện\n3 - Phòng trưng bày sách\n4 - Mục lục sách độc giả\n&nbsp;&nbsp;\\- Diện tích để mục lục\n&nbsp;&nbsp;\\- Diện tích cho nhân viên\n5 - Bộ phận tra cứu thông tin cho người đọc\n6- Các phòng đọc dành cho các nhóm học sinh",
+      "Chỉ số tính toán": "cho 1 người đọc\ncho 1 nhân viên\ncho 1 người đọc\ncho 1 nhân viên\ncho 1 người đọc\ncho 1 tủ mục lục\n(2 vạn phiếu)\ncho 1 nhân viên cho 1 người đọc\ncho 1 người",
+      "Đơn vị": "20%\nchỗ của phòng đọc\n15% số chỗ của phòng đọc\n40% số chỗ của phòng đọc\n80% số chỗ của phòng đọc",
+      "Diện tích $m^{2}$": "1,8\n5,0\n1,5\n5,0\n0,5\n3,5\n4,0\n0,1\n2,4\n3,0"
+    },
+    {
+      "_row_id": 2,
+      "Tên phòng": "7 –Các phòng đọc dành cho nghiên cứu khoa học.\nTrong đó phòng đọc riêng, phòng đọc tài liệu khổ lớn và sách kín\n8- Kho sách\n&nbsp;&nbsp;\\- Báo quản chính\n&nbsp;&nbsp;\\- Bảo quản kín\n&nbsp;&nbsp;\\- Bảo quản hở dễ lấy\n&nbsp;&nbsp;\\- Diện tích cho nhân viên phục vụ\n9 - Chỗ cho mượn sách chung của các thư viện\n10- Các bộ phận bổ sung, chỉnh lí và mục lục sách\n11- Các phòng thu, chụp micro, phim in lại, bảo quản, đóng sách và phục chế.\n12- Các phòng phục vụ sản xuất\n13 - Phòng bơi cặp, túi sách\n14 - Phòng chủ nhiệm thư viện",
+      "Chỉ số tính toán": "8% số chỗ phòng đọc cho bộ phận nghiên cứu KH\ncho 1000 đơn vị sách\n-\n-\ncho 1 nhân viên cho 1 nhân viên cho 1 tủ mục lục\n4 vạn phiếu\ncho 1 vạn cuốn\ncho 1 vạn phiếu\ncho 1 người đọc\ncho 1 chủ nhiệm",
+      "Đơn vị": "70% tổng số sách\n20%\n10%",
+      "Diện tích $m^{2}$": "5,0\n2,5\n1,25\n5,0\n4,0\n6,0\n2,0\n2,0\n3,0\n0,04\n0,18"
+    }
+  ],
+  "footnotes": []
+}

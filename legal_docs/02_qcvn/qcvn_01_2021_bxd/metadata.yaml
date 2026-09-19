@@ -11,7 +11,7 @@ bundle_path: legal_docs/02_qcvn/qcvn_01_2021_bxd/
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-01-2021-TT-BXD-QCVN-01-2021-BXD-Quy-chuan-ky-thuat-quoc-gia-ve-Quy-hoach-xay-dung-474747.aspx
 sha256: b74016776ef230147524cf7f1b30f57ca51425818502238ed8203d7623c10abf
 pdf_path: legal_docs/02_qcvn/qcvn_01_2021_bxd/sources/qcvn_01_2021_bxd.pdf
-pdf_sha256: d99bc333dade2c16b607e135bd6c94728aef926ac556b1e459c020d1bf47026e
+pdf_sha256: 307cbfe4c251983d9a45d76218655ad28118b766c096b88afff3f4574a68f30b
 cong_bao_number: Đang cập nhật
 pdf_status: verified
 source_file: .md/extracted_docs/01_2021_tt_bxd/01_2021_TT-BXD_474747.docx
@@ -19,17 +19,23 @@ source_file_size_kb: 70.1
 source_assets:
   docx:
     sha256: b74016776ef230147524cf7f1b30f57ca51425818502238ed8203d7623c10abf
-    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_01_2021_bxd/01_2021_TT-BXD_474747.docx
-    gdrive_file_id: 1ZU5NXVaRnneCFB3v2mBdZXEYba6HW3jG3ipqhEc3RUk
-    gdrive_view_url: https://docs.google.com/document/d/1ZU5NXVaRnneCFB3v2mBdZXEYba6HW3jG3ipqhEc3RUk/edit?usp=drivesdk
-    status: synced
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_01_2021_bxd/qcvn_01_2021_bxd.docx
+    status: verified
   pdf:
-    sha256: d99bc333dade2c16b607e135bd6c94728aef926ac556b1e459c020d1bf47026e
+    sha256: 307cbfe4c251983d9a45d76218655ad28118b766c096b88afff3f4574a68f30b
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_01_2021_bxd/qcvn_01_2021_bxd.pdf
     status: verified
+    origin: docx_vector_rendered
+  raw_scan:
+    sha256: d99bc333dade2c16b607e135bd6c94728aef926ac556b1e459c020d1bf47026e
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_01_2021_bxd/qcvn_01_2021_bxd_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 relations:
   replaces: QCVN-01-2019-BXD
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-09-07T15:00:00+07:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/qcvn_01_2021_bxd_raw_scan.pdf

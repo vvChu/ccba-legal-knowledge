@@ -18,14 +18,24 @@ amendments:
 table_structure: clause_based_standards
 pdf_path: legal_docs/02_qcvn/qcvn_04_2021_bxd/sources/qcvn_04_2021_bxd.pdf
 bundle_path: legal_docs/02_qcvn/qcvn_04_2021_bxd/
-pdf_sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
+pdf_sha256: c34d11842766492d9acd48ef27c738ab9b4a0431cf12228e93fe7b2537752524
 pdf_status: verified
 cong_bao_number: 373/2026 (SĐ1) / 235/2021
 source_assets:
   pdf:
-    sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
+    sha256: c34d11842766492d9acd48ef27c738ab9b4a0431cf12228e93fe7b2537752524
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd.pdf
     status: verified
+    origin: docx_vector_rendered
+  docx:
+    sha256: 7a59f3596250ee821784af3aee0a3e23bdaf0585e214e1d6fc7e29d998513390
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd.docx
+    status: verified
+  raw_scan:
+    sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 type: Quy chuẩn kỹ thuật quốc gia
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-03-2021-TT-BXD-QCVN-04-2021-BXD-Quy-chuan-ky-thuat-quoc-gia-ve-Nha-chung-cu-474758.aspx
 relations:
@@ -42,3 +52,5 @@ okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-09-07T15:00:00+07:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/qcvn_04_2021_bxd_raw_scan.pdf

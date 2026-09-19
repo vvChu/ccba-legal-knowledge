@@ -1,0 +1,57 @@
+﻿Khu vực,Độ rọi tối thiểu<br>(lux),Ghi chú
+"Phòng đợi, tiếp nhận, phân loại",200,
+"Nơi đăng ký, lấy số và nhận trả kết quả",200,
+"Nơi chuẩn bị, phòng vệ sinh, tháo thụt, thay quần áo",150,
+"Hành lang, lối đi",200,
+"Phòng hành chính, văn phòng",150,
+Phòng hội chẩn,500,
+"Kho (dụng cụ, thiết bị, vật phẩm y tế và dược phẩm, đồ bẩn)",150,
+**Khám chữa răng**,,
+Chiếu sáng chung,500,
+So màu răng,5.000,
+**Khám Tai Mũi Họng**,,
+Chiếu sáng chung,500,
+Chiếu sáng cục bộ,1.000,Đèn cục bộ
+**Khám Mắt**,,
+Kiểm tra thị lực,500,Đèn chuyên dụng
+Khám mắt,1.000,Đèn chuyên dụng
+Đo khúc xạ,50,Đèn chuyên dụng
+Soi đáy mắt,50,Đèn chuyên dụng
+Đo thị trường,5,Đèn chuyên dụng
+Đo thích nghi,5,Đèn chuyên dụng
+**Phòng bệnh nhân**,,
+Chiếu sáng chung,100,
+Chiếu sáng đọc sách,300,Đèn cục bộ
+Khám thông thường,300,
+Khám và điều trị tại giường,1.000,Đèn cục bộ
+"**Phòng trực của bác sỹ, y tá**",,
+Chiếu sáng chung,300,
+Chiếu sáng làm việc,500,
+**Phòng khám bệnh**,,
+Chiếu sáng chung,500,
+Khám khu trú,1.000,
+Phòng đẻ,500,
+Phòng trẻ sơ sinh,,
+Trẻ bình thường,300,
+Chăm sóc đặc biệt,500,
+Nơi tắm cho trẻ,300,
+"**Khoa Cấp cứu, khoa Điều trị tích cực và chống độc**",,
+"Phòng tạm lưu cấp cứu, phòng điều trị tích cực - chống độc",530/300,Điều khiển được hai mức sáng
+"Phòng làm thủ thuật can thiệp, xét nghiệm, Xquang siêu âm",750/300,Điều khiển được hai mức sáng
+"Phòng rửa, khử trùng",300,
+**Khoa Phẫu thuật - gây mê hồi sức**,,
+"Phòng khử khuẩn, cung cấp vô khuẩn kỹ thuật, hành lang vô khuẩn",300,
+Phòng mổ,750,Chiếu sáng chung
+Các phòng phụ trợ,500,
+"Phòng tiền mê, hồi tỉnh",500/300,Điều khiển được hai mức sáng
+Phòng nghỉ thư giãn,150,
+**Khoa Chẩn đoán hình ảnh**,,
+"Phòng chụp X quang, siêu âm, CT, MRI",150/150,Điều khiển ở hai mức sáng
+"Phòng điều khiển, xử lý hình ảnh",300,
+Phòng xử lý phim,75,
+**Các khoa Xét nghiệm**,,
+"Các labo, khu chuẩn bị môi trường, chuẩn bị mẫu",700/300,Điều khiển được hai mức sáng
+**Phòng chạy thận nhân tạo**,,
+Chiếu sáng chung,100,
+Khu vực điều trị,500,
+Khám Nội soi,300,

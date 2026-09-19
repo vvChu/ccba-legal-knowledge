@@ -1,0 +1,350 @@
+{
+  "table_id": "bang_37",
+  "table_number": "37",
+  "table_title": "Bảng 37 - Độ rọi tối thiểu các khu vực trong bệnh viện",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Khu vực",
+    "Độ rọi tối thiểu(lux)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Khu vực": "Phòng đợi, tiếp nhận, phân loại",
+      "Độ rọi tối thiểu(lux)": "200",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 2,
+      "Khu vực": "Nơi đăng ký, lấy số và nhận trả kết quả",
+      "Độ rọi tối thiểu(lux)": "200",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 3,
+      "Khu vực": "Nơi chuẩn bị, phòng vệ sinh, tháo thụt, thay quần áo",
+      "Độ rọi tối thiểu(lux)": "150",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 4,
+      "Khu vực": "Hành lang, lối đi",
+      "Độ rọi tối thiểu(lux)": "200",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 5,
+      "Khu vực": "Phòng hành chính, văn phòng",
+      "Độ rọi tối thiểu(lux)": "150",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 6,
+      "Khu vực": "Phòng hội chẩn",
+      "Độ rọi tối thiểu(lux)": "500",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 7,
+      "Khu vực": "Kho (dụng cụ, thiết bị, vật phẩm y tế và dược phẩm, đồ bẩn)",
+      "Độ rọi tối thiểu(lux)": "150",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 8,
+      "Khu vực": "**Khám chữa răng**",
+      "Độ rọi tối thiểu(lux)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 9,
+      "Khu vực": "Chiếu sáng chung",
+      "Độ rọi tối thiểu(lux)": "500",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 10,
+      "Khu vực": "So màu răng",
+      "Độ rọi tối thiểu(lux)": "5.000",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 11,
+      "Khu vực": "**Khám Tai Mũi Họng**",
+      "Độ rọi tối thiểu(lux)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 12,
+      "Khu vực": "Chiếu sáng chung",
+      "Độ rọi tối thiểu(lux)": "500",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 13,
+      "Khu vực": "Chiếu sáng cục bộ",
+      "Độ rọi tối thiểu(lux)": "1.000",
+      "Ghi chú": "Đèn cục bộ"
+    },
+    {
+      "_row_id": 14,
+      "Khu vực": "**Khám Mắt**",
+      "Độ rọi tối thiểu(lux)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 15,
+      "Khu vực": "Kiểm tra thị lực",
+      "Độ rọi tối thiểu(lux)": "500",
+      "Ghi chú": "Đèn chuyên dụng"
+    },
+    {
+      "_row_id": 16,
+      "Khu vực": "Khám mắt",
+      "Độ rọi tối thiểu(lux)": "1.000",
+      "Ghi chú": "Đèn chuyên dụng"
+    },
+    {
+      "_row_id": 17,
+      "Khu vực": "Đo khúc xạ",
+      "Độ rọi tối thiểu(lux)": "50",
+      "Ghi chú": "Đèn chuyên dụng"
+    },
+    {
+      "_row_id": 18,
+      "Khu vực": "Soi đáy mắt",
+      "Độ rọi tối thiểu(lux)": "50",
+      "Ghi chú": "Đèn chuyên dụng"
+    },
+    {
+      "_row_id": 19,
+      "Khu vực": "Đo thị trường",
+      "Độ rọi tối thiểu(lux)": "5",
+      "Ghi chú": "Đèn chuyên dụng"
+    },
+    {
+      "_row_id": 20,
+      "Khu vực": "Đo thích nghi",
+      "Độ rọi tối thiểu(lux)": "5",
+      "Ghi chú": "Đèn chuyên dụng"
+    },
+    {
+      "_row_id": 21,
+      "Khu vực": "**Phòng bệnh nhân**",
+      "Độ rọi tối thiểu(lux)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 22,
+      "Khu vực": "Chiếu sáng chung",
+      "Độ rọi tối thiểu(lux)": "100",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 23,
+      "Khu vực": "Chiếu sáng đọc sách",
+      "Độ rọi tối thiểu(lux)": "300",
+      "Ghi chú": "Đèn cục bộ"
+    },
+    {
+      "_row_id": 24,
+      "Khu vực": "Khám thông thường",
+      "Độ rọi tối thiểu(lux)": "300",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 25,
+      "Khu vực": "Khám và điều trị tại giường",
+      "Độ rọi tối thiểu(lux)": "1.000",
+      "Ghi chú": "Đèn cục bộ"
+    },
+    {
+      "_row_id": 26,
+      "Khu vực": "**Phòng trực của bác sỹ, y tá**",
+      "Độ rọi tối thiểu(lux)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 27,
+      "Khu vực": "Chiếu sáng chung",
+      "Độ rọi tối thiểu(lux)": "300",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 28,
+      "Khu vực": "Chiếu sáng làm việc",
+      "Độ rọi tối thiểu(lux)": "500",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 29,
+      "Khu vực": "**Phòng khám bệnh**",
+      "Độ rọi tối thiểu(lux)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 30,
+      "Khu vực": "Chiếu sáng chung",
+      "Độ rọi tối thiểu(lux)": "500",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 31,
+      "Khu vực": "Khám khu trú",
+      "Độ rọi tối thiểu(lux)": "1.000",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 32,
+      "Khu vực": "Phòng đẻ",
+      "Độ rọi tối thiểu(lux)": "500",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 33,
+      "Khu vực": "Phòng trẻ sơ sinh",
+      "Độ rọi tối thiểu(lux)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 34,
+      "Khu vực": "Trẻ bình thường",
+      "Độ rọi tối thiểu(lux)": "300",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 35,
+      "Khu vực": "Chăm sóc đặc biệt",
+      "Độ rọi tối thiểu(lux)": "500",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 36,
+      "Khu vực": "Nơi tắm cho trẻ",
+      "Độ rọi tối thiểu(lux)": "300",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 37,
+      "Khu vực": "**Khoa Cấp cứu, khoa Điều trị tích cực và chống độc**",
+      "Độ rọi tối thiểu(lux)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 38,
+      "Khu vực": "Phòng tạm lưu cấp cứu, phòng điều trị tích cực - chống độc",
+      "Độ rọi tối thiểu(lux)": "530/300",
+      "Ghi chú": "Điều khiển được hai mức sáng"
+    },
+    {
+      "_row_id": 39,
+      "Khu vực": "Phòng làm thủ thuật can thiệp, xét nghiệm, Xquang siêu âm",
+      "Độ rọi tối thiểu(lux)": "750/300",
+      "Ghi chú": "Điều khiển được hai mức sáng"
+    },
+    {
+      "_row_id": 40,
+      "Khu vực": "Phòng rửa, khử trùng",
+      "Độ rọi tối thiểu(lux)": "300",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 41,
+      "Khu vực": "**Khoa Phẫu thuật - gây mê hồi sức**",
+      "Độ rọi tối thiểu(lux)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 42,
+      "Khu vực": "Phòng khử khuẩn, cung cấp vô khuẩn kỹ thuật, hành lang vô khuẩn",
+      "Độ rọi tối thiểu(lux)": "300",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 43,
+      "Khu vực": "Phòng mổ",
+      "Độ rọi tối thiểu(lux)": "750",
+      "Ghi chú": "Chiếu sáng chung"
+    },
+    {
+      "_row_id": 44,
+      "Khu vực": "Các phòng phụ trợ",
+      "Độ rọi tối thiểu(lux)": "500",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 45,
+      "Khu vực": "Phòng tiền mê, hồi tỉnh",
+      "Độ rọi tối thiểu(lux)": "500/300",
+      "Ghi chú": "Điều khiển được hai mức sáng"
+    },
+    {
+      "_row_id": 46,
+      "Khu vực": "Phòng nghỉ thư giãn",
+      "Độ rọi tối thiểu(lux)": "150",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 47,
+      "Khu vực": "**Khoa Chẩn đoán hình ảnh**",
+      "Độ rọi tối thiểu(lux)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 48,
+      "Khu vực": "Phòng chụp X quang, siêu âm, CT, MRI",
+      "Độ rọi tối thiểu(lux)": "150/150",
+      "Ghi chú": "Điều khiển ở hai mức sáng"
+    },
+    {
+      "_row_id": 49,
+      "Khu vực": "Phòng điều khiển, xử lý hình ảnh",
+      "Độ rọi tối thiểu(lux)": "300",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 50,
+      "Khu vực": "Phòng xử lý phim",
+      "Độ rọi tối thiểu(lux)": "75",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 51,
+      "Khu vực": "**Các khoa Xét nghiệm**",
+      "Độ rọi tối thiểu(lux)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 52,
+      "Khu vực": "Các labo, khu chuẩn bị môi trường, chuẩn bị mẫu",
+      "Độ rọi tối thiểu(lux)": "700/300",
+      "Ghi chú": "Điều khiển được hai mức sáng"
+    },
+    {
+      "_row_id": 53,
+      "Khu vực": "**Phòng chạy thận nhân tạo**",
+      "Độ rọi tối thiểu(lux)": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 54,
+      "Khu vực": "Chiếu sáng chung",
+      "Độ rọi tối thiểu(lux)": "100",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 55,
+      "Khu vực": "Khu vực điều trị",
+      "Độ rọi tối thiểu(lux)": "500",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 56,
+      "Khu vực": "Khám Nội soi",
+      "Độ rọi tối thiểu(lux)": "300",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}

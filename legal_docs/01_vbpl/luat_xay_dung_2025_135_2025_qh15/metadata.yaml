@@ -1,13 +1,23 @@
 bundle_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15/
-pdf_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15/sources/luat_135_2025_qh15.pdf
-pdf_sha256: bacd661b1e7cb5e58f21c9357f465d1248588aea7838ba6d286f8982562edf01
+pdf_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15/sources/luat_xay_dung_2025_135_2025_qh15.pdf
+pdf_sha256: 05acbb409d643d4705af537edf881b1147f5262646c5c5ad2ddf853827e272e9
 pdf_status: verified
 cong_bao_number: 1205+1206/2025
 source_assets:
   pdf:
-    sha256: bacd661b1e7cb5e58f21c9357f465d1248588aea7838ba6d286f8982562edf01
-    vault_path: CCBA_Legal_Vault/01_vbpl/luat_xay_dung_2025_135_2025_qh15/luat_135_2025_qh15.pdf
+    sha256: 05acbb409d643d4705af537edf881b1147f5262646c5c5ad2ddf853827e272e9
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_xay_dung_2025_135_2025_qh15/luat_xay_dung_2025_135_2025_qh15.pdf
     status: verified
+    origin: docx_vector_rendered
+  docx:
+    sha256: d480938ffa90ec9b2ba5a37eb5c5112b4418f741a6ebd7c9a9d035361deb689c
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_xay_dung_2025_135_2025_qh15/luat_135_2025_qh15.docx
+    status: verified
+  raw_scan:
+    sha256: bacd661b1e7cb5e58f21c9357f465d1248588aea7838ba6d286f8982562edf01
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_xay_dung_2025_135_2025_qh15/luat_xay_dung_2025_135_2025_qh15_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 id: Luat-Xay-dung-2025-135-2025-QH15
 document_number: 135/2025/QH15
 title: Luật Xây dựng 2025 (Số 135/2025/QH15)
@@ -23,3 +33,5 @@ relations:
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/luat_xay_dung_2025_135_2025_qh15_raw_scan.pdf

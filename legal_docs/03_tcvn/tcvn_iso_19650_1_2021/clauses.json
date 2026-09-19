@@ -1,0 +1,785 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 79,
+    "line_end": 79
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 91,
+    "line_end": 91
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  THUẬT NGỮ, ĐỊNH NGHĨA VÀ KÝ HIỆU",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 99,
+    "line_end": 99
+  },
+  {
+    "clause_id": "muc-3-1",
+    "anchor": "muc-3-1",
+    "title": "3.1  Thuật ngữ chung",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 105,
+    "line_end": 105
+  },
+  {
+    "clause_id": "muc-3-2",
+    "anchor": "muc-3-2",
+    "title": "3.2  Các thuật ngữ liên quan đến tài sản và dự án",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 123,
+    "line_end": 123
+  },
+  {
+    "clause_id": "muc-3-3",
+    "anchor": "muc-3-3",
+    "title": "3.3  Các thuật ngữ liên quan đến quản lý thông tin",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 239,
+    "line_end": 239
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  THÔNG TIN TÀI SẢN VÀ THÔNG TIN DỰ ÁN, CÁC QUAN ĐIỂM VÀ PHỐI HỢP LÀM VIỆC",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 373,
+    "line_end": 373
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Nguyên tắc",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 377,
+    "line_end": 377
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Quản lý thông tin theo bộ TCVN 14177",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 391,
+    "line_end": 391
+  },
+  {
+    "clause_id": "hinh-1",
+    "anchor": "hinh-1",
+    "title": "",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 401,
+    "line_end": 401
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Các quan điểm về quản lý thông tin",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 412,
+    "line_end": 412
+  },
+  {
+    "clause_id": "bang-bang-01",
+    "anchor": "bang-bang-01",
+    "title": "Bảng 1 - Quan điểm quản lý thông tin",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 426,
+    "line_end": 426
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  XÁC ĐỊNH YÊU CẦU THÔNG TIN VÀ KẾT QUẢ CỦA CÁC MÔ HÌNH THÔNG TIN",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 439,
+    "line_end": 439
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Nguyên tắc",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 443,
+    "line_end": 443
+  },
+  {
+    "clause_id": "hinh-2",
+    "anchor": "hinh-2",
+    "title": "",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 483,
+    "line_end": 483
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Yêu cầu thông tin tổ chức (OIR)",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 496,
+    "line_end": 496
+  },
+  {
+    "clause_id": "muc-5-3",
+    "anchor": "muc-5-3",
+    "title": "5.3  Yêu cầu thông tin tài sản (AIR)",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 514,
+    "line_end": 514
+  },
+  {
+    "clause_id": "muc-5-4",
+    "anchor": "muc-5-4",
+    "title": "5.4  Yêu cầu thông tin dự án (PIR)",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 528,
+    "line_end": 528
+  },
+  {
+    "clause_id": "muc-5-5",
+    "anchor": "muc-5-5",
+    "title": "5.5  Yêu cầu thông tin trao đổi (EIR)",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 538,
+    "line_end": 538
+  },
+  {
+    "clause_id": "muc-5-6",
+    "anchor": "muc-5-6",
+    "title": "5.6  Mô hình thông tin tài sản (AIM)",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 550,
+    "line_end": 550
+  },
+  {
+    "clause_id": "muc-5-7",
+    "anchor": "muc-5-7",
+    "title": "5.7  Mô hình thông tin dự án (PIM)",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 556,
+    "line_end": 556
+  },
+  {
+    "clause_id": "muc-6",
+    "anchor": "muc-6",
+    "title": "6  CHU KỲ CHUYỂN GIAO THÔNG TIN",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 562,
+    "line_end": 562
+  },
+  {
+    "clause_id": "muc-6-1",
+    "anchor": "muc-6-1",
+    "title": "6.1  Nguyên tắc",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 566,
+    "line_end": 566
+  },
+  {
+    "clause_id": "muc-6-2",
+    "anchor": "muc-6-2",
+    "title": "6.2  Sự liên kết với vòng đời tài sản",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 582,
+    "line_end": 582
+  },
+  {
+    "clause_id": "hinh-3",
+    "anchor": "hinh-3",
+    "title": "",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 604,
+    "line_end": 604
+  },
+  {
+    "clause_id": "muc-6-3",
+    "anchor": "muc-6-3",
+    "title": "6.3  Thiết lập các yêu cầu thông tin và kế hoạch chuyển giao thông tin",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 633,
+    "line_end": 633
+  },
+  {
+    "clause_id": "muc-6-3-1",
+    "anchor": "muc-6-3-1",
+    "title": "6.3.1  Nguyên tắc chung",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 637,
+    "line_end": 637
+  },
+  {
+    "clause_id": "hinh-4",
+    "anchor": "hinh-4",
+    "title": "",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 647,
+    "line_end": 647
+  },
+  {
+    "clause_id": "hinh-5",
+    "anchor": "hinh-5",
+    "title": "",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 660,
+    "line_end": 660
+  },
+  {
+    "clause_id": "muc-6-3-2",
+    "anchor": "muc-6-3-2",
+    "title": "6.3.2  Nhóm chuyển giao cung cấp thông tin cho các quyết định của chủ sở hữu/đơn vị khai thác sử dụng tài sản hoặc khách hàng",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 675,
+    "line_end": 675
+  },
+  {
+    "clause_id": "hinh-6",
+    "anchor": "hinh-6",
+    "title": "",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 683,
+    "line_end": 683
+  },
+  {
+    "clause_id": "muc-6-3-3",
+    "anchor": "muc-6-3-3",
+    "title": "6.3.3  Xác minh và xác nhận thông tin khi bắt đầu và kết thúc các bước của dự án",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 694,
+    "line_end": 694
+  },
+  {
+    "clause_id": "hinh-7",
+    "anchor": "hinh-7",
+    "title": "",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 708,
+    "line_end": 708
+  },
+  {
+    "clause_id": "muc-6-3-4",
+    "anchor": "muc-6-3-4",
+    "title": "6.3.4  Thông tin được thiết lập từ toàn bộ các nhóm chuyển giao",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 719,
+    "line_end": 719
+  },
+  {
+    "clause_id": "hinh-8",
+    "anchor": "hinh-8",
+    "title": "",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 727,
+    "line_end": 727
+  },
+  {
+    "clause_id": "muc-6-3-5",
+    "anchor": "muc-6-3-5",
+    "title": "6.3.5  Tóm tắt việc chuyển giao thông tin từ các nhóm chuyển giao dự án và tài sản",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 738,
+    "line_end": 738
+  },
+  {
+    "clause_id": "hinh-9",
+    "anchor": "hinh-9",
+    "title": "",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 744,
+    "line_end": 744
+  },
+  {
+    "clause_id": "muc-7",
+    "anchor": "muc-7",
+    "title": "7  CÁC CHỨC NĂNG QUẢN LÝ THÔNG TIN DỰ ÁN VÀ THÔNG TIN TÀI SẢN",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 755,
+    "line_end": 755
+  },
+  {
+    "clause_id": "muc-7-1",
+    "anchor": "muc-7-1",
+    "title": "7.1  Nguyên tắc",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 759,
+    "line_end": 759
+  },
+  {
+    "clause_id": "muc-7-2",
+    "anchor": "muc-7-2",
+    "title": "7.2  Các chức năng quản lý thông tin tài sản",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 773,
+    "line_end": 773
+  },
+  {
+    "clause_id": "muc-7-3",
+    "anchor": "muc-7-3",
+    "title": "7.3  Các chức năng quản lý thông tin dự án",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 783,
+    "line_end": 783
+  },
+  {
+    "clause_id": "muc-7-4",
+    "anchor": "muc-7-4",
+    "title": "7.4  Các chức năng quản lý thông tin nhiệm vụ",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 793,
+    "line_end": 793
+  },
+  {
+    "clause_id": "muc-8",
+    "anchor": "muc-8",
+    "title": "8  NĂNG LỰC VÀ KHẢ NĂNG CỦA NHÓM CHUYỂN GIAO",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 799,
+    "line_end": 799
+  },
+  {
+    "clause_id": "muc-8-1",
+    "anchor": "muc-8-1",
+    "title": "8.1  Nguyên tắc",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 803,
+    "line_end": 803
+  },
+  {
+    "clause_id": "muc-8-2",
+    "anchor": "muc-8-2",
+    "title": "8.2  Đánh giá năng lực và khả năng",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 813,
+    "line_end": 813
+  },
+  {
+    "clause_id": "muc-9",
+    "anchor": "muc-9",
+    "title": "9  PHỐI HỢP LÀM VIỆC TRONG CÔNG-TE-NƠ THÔNG TIN",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 827,
+    "line_end": 827
+  },
+  {
+    "clause_id": "muc-10",
+    "anchor": "muc-10",
+    "title": "10  KẾ HOẠCH CHUYỂN GIAO THÔNG TIN",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 845,
+    "line_end": 845
+  },
+  {
+    "clause_id": "muc-10-1",
+    "anchor": "muc-10-1",
+    "title": "10.1  Nguyên tắc",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 849,
+    "line_end": 849
+  },
+  {
+    "clause_id": "muc-10-2",
+    "anchor": "muc-10-2",
+    "title": "10.2  Thời điểm chuyển giao thông tin",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 889,
+    "line_end": 889
+  },
+  {
+    "clause_id": "muc-10-3",
+    "anchor": "muc-10-3",
+    "title": "10.3  Ma trận trách nhiệm",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 897,
+    "line_end": 897
+  },
+  {
+    "clause_id": "muc-10-4",
+    "anchor": "muc-10-4",
+    "title": "10.4  Xác định chiến lược liên hợp và cấu trúc phân chia cho các công-te-nơ thông tin",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 909,
+    "line_end": 909
+  },
+  {
+    "clause_id": "muc-11",
+    "anchor": "muc-11",
+    "title": "11  QUẢN LÝ VIỆC HỢP TÁC TẠO LẬP THÔNG TIN",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 927,
+    "line_end": 927
+  },
+  {
+    "clause_id": "muc-11-1",
+    "anchor": "muc-11-1",
+    "title": "11.1  Nguyên tắc",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 931,
+    "line_end": 931
+  },
+  {
+    "clause_id": "muc-11-2",
+    "anchor": "muc-11-2",
+    "title": "11.2  Mức độ nhu cầu thông tin",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 941,
+    "line_end": 941
+  },
+  {
+    "clause_id": "muc-11-3",
+    "anchor": "muc-11-3",
+    "title": "11.3  Chất lượng thông tin",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 951,
+    "line_end": 951
+  },
+  {
+    "clause_id": "muc-12",
+    "anchor": "muc-12",
+    "title": "12  GIẢI PHÁP VÀ QUY TRÌNH MÔI TRƯỜNG DỮ LIỆU CHUNG (CDE)",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 971,
+    "line_end": 971
+  },
+  {
+    "clause_id": "muc-12-1",
+    "anchor": "muc-12-1",
+    "title": "12.1  Nguyên tắc",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 975,
+    "line_end": 975
+  },
+  {
+    "clause_id": "hinh-10",
+    "anchor": "hinh-10",
+    "title": "",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1017,
+    "line_end": 1017
+  },
+  {
+    "clause_id": "muc-12-2",
+    "anchor": "muc-12-2",
+    "title": "12.2  Trạng thái công việc đang tiến hành",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1028,
+    "line_end": 1028
+  },
+  {
+    "clause_id": "muc-12-3",
+    "anchor": "muc-12-3",
+    "title": "12.3  Quá trình chuyển đổi kiểm tra/xem xét/phê duyệt",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1034,
+    "line_end": 1034
+  },
+  {
+    "clause_id": "muc-12-4",
+    "anchor": "muc-12-4",
+    "title": "12.4  Trạng thái chia sẻ",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1040,
+    "line_end": 1040
+  },
+  {
+    "clause_id": "muc-12-5",
+    "anchor": "muc-12-5",
+    "title": "12.5  Chuyển đổi tình trạng xem xét/phê duyệt",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1046,
+    "line_end": 1046
+  },
+  {
+    "clause_id": "muc-12-6",
+    "anchor": "muc-12-6",
+    "title": "12.6  Trạng thái đã xuất bản",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1054,
+    "line_end": 1054
+  },
+  {
+    "clause_id": "muc-12-7",
+    "anchor": "muc-12-7",
+    "title": "12.7  Trạng thái lưu trữ",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1060,
+    "line_end": 1060
+  },
+  {
+    "clause_id": "muc-13",
+    "anchor": "muc-13",
+    "title": "13  TÓM TẮT \"MÔ HÌNH HÓA THÔNG TIN CÔNG TRÌNH (BIM) THEO BỘ TCVN 14177\"",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1066,
+    "line_end": 1066
+  },
+  {
+    "clause_id": "hinh-11",
+    "anchor": "hinh-11",
+    "title": "",
+    "source_file": "tcvn_iso_19650_1_2021.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1086,
+    "line_end": 1086
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (Tham khảo) — Minh họa về các chiến lược liên hợp và phân chia cấu trúc công-te-nơ thông tin",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 2
+  },
+  {
+    "clause_id": "muc-a-1",
+    "anchor": "muc-a-1",
+    "title": "A.1  Thông tin chung",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 6
+  },
+  {
+    "clause_id": "muc-a-2",
+    "anchor": "muc-a-2",
+    "title": "A.2  Làm việc đồng thời",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 22,
+    "line_end": 22
+  },
+  {
+    "clause_id": "muc-a-3",
+    "anchor": "muc-a-3",
+    "title": "A.3  Bảo mật thông tin",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 30,
+    "line_end": 30
+  },
+  {
+    "clause_id": "muc-a-4",
+    "anchor": "muc-a-4",
+    "title": "A.4  Truyền tải thông tin",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 36,
+    "line_end": 36
+  },
+  {
+    "clause_id": "hinh-a_1",
+    "anchor": "hinh-a_1",
+    "title": "",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 42,
+    "line_end": 42
+  },
+  {
+    "clause_id": "hinh-a_2",
+    "anchor": "hinh-a_2",
+    "title": "",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 53,
+    "line_end": 53
+  },
+  {
+    "clause_id": "hinh-a_3",
+    "anchor": "hinh-a_3",
+    "title": "",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 64,
+    "line_end": 64
+  },
+  {
+    "clause_id": "phu-luc-a-muc-1",
+    "anchor": "phu-luc-a-muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 81,
+    "line_end": 81
+  },
+  {
+    "clause_id": "phu-luc-a-muc-2",
+    "anchor": "phu-luc-a-muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 85,
+    "line_end": 85
+  },
+  {
+    "clause_id": "phu-luc-a-muc-3",
+    "anchor": "phu-luc-a-muc-3",
+    "title": "3  THUẬT NGỮ, ĐỊNH NGHĨA VÀ KÝ HIỆU",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 89,
+    "line_end": 89
+  },
+  {
+    "clause_id": "phu-luc-a-muc-4",
+    "anchor": "phu-luc-a-muc-4",
+    "title": "4  THÔNG TIN TÀI SẢN VÀ THÔNG TIN DỰ ÁN, CÁC QUAN ĐIỂM VÀ PHỐI HỢP LÀM VIỆC",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 105,
+    "line_end": 105
+  },
+  {
+    "clause_id": "phu-luc-a-muc-5",
+    "anchor": "phu-luc-a-muc-5",
+    "title": "5  XÁC ĐỊNH YÊU CẦU THÔNG TIN VÀ KẾT QUẢ CỦA CÁC MÔ HÌNH THÔNG TIN",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 121,
+    "line_end": 121
+  },
+  {
+    "clause_id": "phu-luc-a-muc-6",
+    "anchor": "phu-luc-a-muc-6",
+    "title": "6  CHU KỲ CHUYỂN GIAO THÔNG TIN",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 153,
+    "line_end": 153
+  },
+  {
+    "clause_id": "phu-luc-a-muc-7",
+    "anchor": "phu-luc-a-muc-7",
+    "title": "7  CÁC CHỨC NĂNG QUẢN LÝ THÔNG TIN DỰ ÁN VÀ THÔNG TIN TÀI SẢN",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 169,
+    "line_end": 169
+  },
+  {
+    "clause_id": "phu-luc-a-muc-8",
+    "anchor": "phu-luc-a-muc-8",
+    "title": "8  NĂNG LỰC VÀ KHẢ NĂNG CỦA NHÓM CHUYỂN GIAO",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 189,
+    "line_end": 189
+  },
+  {
+    "clause_id": "phu-luc-a-muc-9",
+    "anchor": "phu-luc-a-muc-9",
+    "title": "9  PHỐI HỢP LÀM VIỆC TRONG CÔNG-TE-NƠ THÔNG TIN",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 201,
+    "line_end": 201
+  },
+  {
+    "clause_id": "phu-luc-a-muc-10",
+    "anchor": "phu-luc-a-muc-10",
+    "title": "10  KẾ HOẠCH CHUYỂN GIAO THÔNG TIN",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 205,
+    "line_end": 205
+  },
+  {
+    "clause_id": "phu-luc-a-muc-11",
+    "anchor": "phu-luc-a-muc-11",
+    "title": "11  QUẢN LÝ VIỆC HỢP TÁC TẠO LẬP THÔNG TIN",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 225,
+    "line_end": 225
+  },
+  {
+    "clause_id": "phu-luc-a-muc-12",
+    "anchor": "phu-luc-a-muc-12",
+    "title": "12  GIẢI PHÁP VÀ QUY TRÌNH MÔI TRƯỜNG DỮ LIỆU CHUNG (CDE)",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 241,
+    "line_end": 241
+  },
+  {
+    "clause_id": "phu-luc-a-muc-13",
+    "anchor": "phu-luc-a-muc-13",
+    "title": "13  TÓM TẮT \"MÔ HÌNH HÓA THÔNG TIN CÔNG TRÌNH (BIM) THEO BỘ TCVN 14177\"",
+    "source_file": "annexes/phu_luc_a_minh_hoa_ve_cac_chien_luoc_lien_hop_va_phan_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 273,
+    "line_end": 273
+  }
+]

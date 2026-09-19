@@ -1,0 +1,26 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại phòng",
+    "Độ ồn, tính theo phòng — Tính toán",
+    "Độ ồn, tính theo phòng — Cho phép"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "1",
+      "Độ ồn, tính theo phòng — Tính toán": "2",
+      "Độ ồn, tính theo phòng — Cho phép": "3"
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "1. Giảng đường, lớp học, phòng thí nghiệm\n2. Phòng đọc sách, phòng cho mượn sách\n3. Phòng thể thao\n4. Phòng hành chính\n5. Phòng đánh máy\n6. Phòng vô tuyến",
+      "Độ ồn, tính theo phòng — Tính toán": "85\n70\n90\n80\n80\n85",
+      "Độ ồn, tính theo phòng — Cho phép": "40\n35\n40\n40\n50\n30"
+    }
+  ],
+  "footnotes": []
+}

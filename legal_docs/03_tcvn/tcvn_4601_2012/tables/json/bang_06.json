@@ -1,0 +1,35 @@
+{
+  "table_id": "bang_06",
+  "table_number": "6",
+  "table_title": "Bảng 6 - Độ rọi tối thiểu trên bề mặt làm việc hoặc vật cần phân biệt",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại phòng",
+    "Dải độ rọi làm việc"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "1. Phòng làm việc",
+      "Dải độ rọi làm việc": "300 đến 500 đến 750"
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "2. Phòng họp",
+      "Dải độ rọi làm việc": "300 đến 500 đến 1000"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "3. Hành lang",
+      "Dải độ rọi làm việc": "50 đến 100 đến 150"
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "4. Cầu thang, thang máy",
+      "Dải độ rọi làm việc": "100 đến 150 đến 200"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Trị số độ rọi nêu trong Bảng được quy định cho toàn bộ khu vực làm việc hoặc vùng của một khu vực làm việc được tính trên mặt phẳng nằm ngang ở độ cao 0,85 m so với sàn."
+  }
+}

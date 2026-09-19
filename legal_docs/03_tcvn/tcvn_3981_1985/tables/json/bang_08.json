@@ -1,0 +1,20 @@
+{
+  "table_id": "bang_08",
+  "table_number": "8",
+  "table_title": "Bảng 8",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên phòng",
+    "Đơn vị tính",
+    "Diện tích ($m^{2}$)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên phòng": "1- Phòng học đặt các thiết bị phụ thuộc vào việc bố trí và chức năng thiết bị song không được nhỏ hơn\n2- Các phòng vẽ kĩ thuật, phòng thiết kế bài tập môn học và thiết kế tốt nghiệp\n3- Các phòng như trên (số 20) của các trường đại học kiến trúc và nghệ thuật cũng như các phòng mĩ thuật, hội hoạ, điêu khắc, các lớp sân khấu, âm nhạc và diễn tập.\n4- Phòng lưu trữ thuộc các phòng thiết kế bài tập môn học và thiết kế tốt nghiệp (phục vụ 2 phòng)\n&nbsp;&nbsp;\\- Trong các trường đại học kiến trúc nghệ thuật\n&nbsp;&nbsp;\\- Trong các trường đại học khác\n5- Phòng mô hình thuộc các phòng vẽ kĩ thuật\n&nbsp;&nbsp;\\- Trong các trường đại học kĩ thuật\n&nbsp;&nbsp;\\- Trong các trờng đại học kiến trúc xây dựng và mỹ thuật",
+      "Đơn vị tính": "cho một chỗ\n-\n-\nphòng\n-\n-\n-\n-",
+      "Diện tích ($m^{2}$)": "2,2\n3,6\n6,0\n36\n18\n36\n72"
+    }
+  ],
+  "footnotes": []
+}

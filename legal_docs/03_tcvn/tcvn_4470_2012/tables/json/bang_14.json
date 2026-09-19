@@ -1,0 +1,33 @@
+{
+  "table_id": "bang_14",
+  "table_number": "14",
+  "table_title": "Bảng 14 - Diện tích tối thiểu các phòng điều trị trong khoa Tai - Mũi - Họng",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại phòng",
+    "Diện tích($m^{2}$)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "1. Phòng khám (01 ghế), $m^{2}$/ghế khám",
+      "Diện tích($m^{2}$)": "12"
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "2. Phòng soi (soi cứng, soi mềm)",
+      "Diện tích($m^{2}$)": "từ 18 đến 24"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "3. Phòng thủ thuật",
+      "Diện tích($m^{2}$)": "từ 24 đến 36"
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "4. Chỗ rửa hấp, sấy, chuẩn bị dụng cụ",
+      "Diện tích($m^{2}$)": "từ 12 đến 18"
+    }
+  ],
+  "footnotes": []
+}

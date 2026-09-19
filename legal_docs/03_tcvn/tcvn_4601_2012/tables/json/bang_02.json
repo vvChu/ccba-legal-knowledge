@@ -1,0 +1,33 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Chiều rộng hành lang trong công sở",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại hành lang",
+    "Chiều rộngm"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại hành lang": "1. Hành lang bên",
+      "Chiều rộngm": "Từ 1,60 đến 1,80"
+    },
+    {
+      "_row_id": 2,
+      "Loại hành lang": "2. Hành lang giữa",
+      "Chiều rộngm": "Từ 1,80 đến 2,10"
+    },
+    {
+      "_row_id": 3,
+      "Loại hành lang": "3. Giao thông của khách ở mật độ trung bình có vận chuyển thiết bị phương tiện;",
+      "Chiều rộngm": "Từ 2,10 đến 2,40"
+    },
+    {
+      "_row_id": 4,
+      "Loại hành lang": "4. Giao thông ở mật độ cao của khách và cán bộ nhân viên (hành lang nghỉ, hành lang công cộng)",
+      "Chiều rộngm": "Từ 2,40 đến 2,70"
+    }
+  ],
+  "footnotes": []
+}

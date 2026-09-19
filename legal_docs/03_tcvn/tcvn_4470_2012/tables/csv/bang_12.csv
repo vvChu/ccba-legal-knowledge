@@ -1,0 +1,13 @@
+﻿Loại phòng,Diện tích,Ghi chú
+**1. Phòng trẻ sơ sinh**,,
+"&nbsp;&nbsp;\- Phòng sơ sinh thiếu tháng, $m^{2}$/giường",từ 3 đến 4,
+"&nbsp;&nbsp;\- Phòng sơ sinh cách ly, $m^{2}$/giường",từ 3 đến 4,
+**2. Các phòng phụ trợ**,,
+"&nbsp;&nbsp;\- Phòng tắm rửa, $m^{2}$/phòng",từ 6 đến 12,cho một đơn nguyên từ 25 giường đến 30 giường
+"&nbsp;&nbsp;\- Chỗ giặt tã lót, $m^{2}$/phòng",từ 9 đến 12,cho một đơn nguyên từ 25 giường đến 30 giường
+"&nbsp;&nbsp;\- Chỗ pha sữa, $m^{2}$/phòng",từ 6 đến 9,cho một đơn nguyên từ 25 giường đến 30 giường
+"&nbsp;&nbsp;\- Chỗ trực của hộ sinh, $m^{2}$/phòng",từ 9 đến 12,cho một đơn nguyên từ 25 giường đến 30 giường
+"&nbsp;&nbsp;\- Chỗ cho bú, $m^{2}$/phòng",từ 12 đến 15,cho một đơn nguyên từ 25 giường đến 30 giường
+"&nbsp;&nbsp;\- Phòng nhận trẻ ra viện, $m^{2}$/phòng",từ 9 đến 12,
+"&nbsp;&nbsp;\- Kho sạch, $m^{2}$/phòng",từ 15 đến 18,
+"&nbsp;&nbsp;\- Kho thu đồ bẩn, $m^{2}$/phòng",từ 18 đến 21,

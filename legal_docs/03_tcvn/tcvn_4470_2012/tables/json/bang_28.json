@@ -1,0 +1,48 @@
+{
+  "table_id": "bang_28",
+  "table_number": "28",
+  "table_title": "Bảng 28 - Diện tích tối thiểu các phòng trong khoa Nội soi",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên khoa, phòng",
+    "Diện tích tối thiểu($m^{2}$/phòng)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên khoa, phòng": "1, Phòng nội soi dạ dày tá tràng",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "24 x 03 phòng"
+    },
+    {
+      "_row_id": 2,
+      "Tên khoa, phòng": "2. Phòng nội soi đại trực tràng",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "24 x 02 phòng"
+    },
+    {
+      "_row_id": 3,
+      "Tên khoa, phòng": "3. Phòng nội soi tiết niệu",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "24 x 01 phòng"
+    },
+    {
+      "_row_id": 4,
+      "Tên khoa, phòng": "4. Phòng nội soi đường mật",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "24 x 01 phòng"
+    },
+    {
+      "_row_id": 5,
+      "Tên khoa, phòng": "5. Phòng nội soi mũi, thanh quản, phế quản",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "24 x 02 phòng"
+    },
+    {
+      "_row_id": 6,
+      "Tên khoa, phòng": "6. Phòng nội soi - Xquang can thiệp",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "24 x 01 phòng"
+    },
+    {
+      "_row_id": 7,
+      "Tên khoa, phòng": "7. Phòng nội soi sản phụ khoa",
+      "Diện tích tối thiểu($m^{2}$/phòng)": "24 x 04 phòng"
+    }
+  ],
+  "footnotes": []
+}

@@ -7,8 +7,8 @@ signer: Đang cập nhật
 issued_date: '2026-06-25'
 effective_date: '2026-07-01'
 status: active
-pdf_path: legal_docs/01_vbpl/nghi_dinh_193_2026_nd_cp/sources/nghi_dinh_193_2026_nd_cp.pdf
-pdf_sha256: a0a064fc9401ed4cc860100b171adad3258219086b3563abd37b3a8806630a4e
+pdf_path: legal_docs\01_vbpl\nghi_dinh_193_2026_nd_cp\sources\nghi_dinh_193_2026_nd_cp.pdf
+pdf_sha256: 66c91e4659f294ca57654e398b6cb158fb7c55d2cd140b7019a341d8e02c9c65
 pdf_status: verified
 legal_basis:
 - doc_id: luật_tổ_chức_chính_phủ_số_63_2025_qh15
@@ -52,3 +52,5 @@ relations:
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/nghi_dinh_193_2026_nd_cp_raw_scan.pdf

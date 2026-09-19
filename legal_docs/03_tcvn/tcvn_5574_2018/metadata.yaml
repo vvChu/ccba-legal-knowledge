@@ -29,16 +29,28 @@ links:
 id: TCVN-5574-2018
 document_number: TCVN 5574:2018
 pdf_path: legal_docs/03_tcvn/tcvn_5574_2018/sources/tcvn_5574_2018.pdf
-pdf_sha256: f12480db0a68005fa4f48a20ac328727a369ef2c1b60e5b3c9ac78c9da41279a
+pdf_sha256: 43ab2c26c98157d9e147628d2c03f7a4c7f6ebe8d6f7ff9e9a3e96c891d6f3fe
 pdf_status: verified
 cong_bao_number: TCVN
 bundle_path: legal_docs/03_tcvn/tcvn_5574_2018/
 source_assets:
   pdf:
-    sha256: f12480db0a68005fa4f48a20ac328727a369ef2c1b60e5b3c9ac78c9da41279a
+    sha256: 43ab2c26c98157d9e147628d2c03f7a4c7f6ebe8d6f7ff9e9a3e96c891d6f3fe
     vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5574_2018/tcvn_5574_2018.pdf
     status: verified
+    origin: docx_vector_rendered
+  docx:
+    sha256: 2a26b68bdb7e1b3d18c3ef7dc549e32115ee2ccc5580fd32c126ee1ecddd53fc
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5574_2018/tcvn_5574_2018.docx
+    status: verified
+  raw_scan:
+    sha256: f12480db0a68005fa4f48a20ac328727a369ef2c1b60e5b3c9ac78c9da41279a
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_5574_2018/tcvn_5574_2018_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-09-07T15:00:00+07:00'
+pdf_origin: docx_vector_rendered
+raw_scan_pdf: sources/tcvn_5574_2018_raw_scan.pdf

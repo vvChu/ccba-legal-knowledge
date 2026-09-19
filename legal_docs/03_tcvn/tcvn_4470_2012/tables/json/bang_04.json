@@ -1,0 +1,343 @@
+{
+  "table_id": "bang_04",
+  "table_number": "4",
+  "table_title": "Bảng 4 - Diện tích các phòng trong Khoa Khám bệnh đa khoa và điều trị ngoại trú",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tẻn khoa, phòng",
+    "Diện tích"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tẻn khoa, phòng": "**A. Khối tiếp đón**",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 2,
+      "Tẻn khoa, phòng": "1. Phát số, không nhỏ hơn",
+      "Diện tích": "48 $m^{2}$"
+    },
+    {
+      "_row_id": 3,
+      "Tẻn khoa, phòng": "2. Thủ tục - thanh toán, Không nhỏ hơn",
+      "Diện tích": "36 $m^{2}$"
+    },
+    {
+      "_row_id": 4,
+      "Tẻn khoa, phòng": "3. Khu vệ sinh (nam/nữ riêng biệt)",
+      "Diện tích": "24 $m^{2}$ x 02 khu"
+    },
+    {
+      "_row_id": 5,
+      "Tẻn khoa, phòng": "4. Chỗ đợi, chờ khám",
+      "Diện tích": "Xem 6.2.6"
+    },
+    {
+      "_row_id": 6,
+      "Tẻn khoa, phòng": "**B. Khối Khám - điều trị ngoại trú**",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 7,
+      "Tẻn khoa, phòng": "1. Khám nội",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 8,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng khám",
+      "Diện tích": "từ 9 $m^{2}$/chỗ đến 12 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 9,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng sơ cứu (từ 01 giường đến 02 giường)",
+      "Diện tích": "từ 15 $m^{2}$/phòng đến 18 $m^{2}$ /phòng"
+    },
+    {
+      "_row_id": 10,
+      "Tẻn khoa, phòng": "2. Thần kinh",
+      "Diện tích": "từ 12 $m^{2}$/chỗ đến 15 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 11,
+      "Tẻn khoa, phòng": "3. Da liễu",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 12,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng khám",
+      "Diện tích": "từ 12 $m^{2}$/chỗ đến 15 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 13,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng điều trị",
+      "Diện tích": "từ 9 $m^{2}$/ chỗ đến 12 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 14,
+      "Tẻn khoa, phòng": "4. Đông y",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 15,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng khám",
+      "Diện tích": "12 $m^{2}$/ chỗ"
+    },
+    {
+      "_row_id": 16,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng châm cứu",
+      "Diện tích": "12 $m^{2}$/ chỗ"
+    },
+    {
+      "_row_id": 17,
+      "Tẻn khoa, phòng": "5. Khám ngoại",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 18,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng khám",
+      "Diện tích": "từ 9 $m^{2}$/chỗ đến 12 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 19,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Thủ thuật ngoại",
+      "Diện tích": "từ 24 $m^{2}$/chỗ đến 30 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 20,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Chuẩn bị dụng cụ",
+      "Diện tích": "từ 9 $m^{2}$/chỗ đến 12 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 21,
+      "Tẻn khoa, phòng": "6. Khám nhi",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 22,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng khám nhi thường",
+      "Diện tích": "từ 9 $m^{2}$/chỗ đến 12 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 23,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng khám bệnh nhi truyền nhiễm",
+      "Diện tích": "Dùng chung phòng khám của khoa Truyền nhiễm"
+    },
+    {
+      "_row_id": 24,
+      "Tẻn khoa, phòng": "7. Bệnh truyền nhiễm",
+      "Diện tích": "từ 12 $m^{2}$/chỗ đến 15 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 25,
+      "Tẻn khoa, phòng": "8. Phụ, Sản",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 26,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng khám sản khoa",
+      "Diện tích": "từ 15 $m^{2}$/chỗ đến 18 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 27,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng khám phụ khoa",
+      "Diện tích": "từ 15 $m^{2}$/chỗ đến 18 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 28,
+      "Tẻn khoa, phòng": "9. Răng - Hàm - Mặt",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 29,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng khám (01 ghế)",
+      "Diện tích": "từ 12 $m^{2}$/chỗ đến 15 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 30,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng tiểu phẫu",
+      "Diện tích": "từ 12 $m^{2}$/chỗ đến 15 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 31,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng chỉnh hình",
+      "Diện tích": "từ 9 $m^{2}$/chỗ đến 12 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 32,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Xưởng răng giả",
+      "Diện tích": "từ 24 $m^{2}$/chỗ đến 30 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 33,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Rửa hấp sấy dụng cụ",
+      "Diện tích": "từ 4 $m^{2}$/chỗ đến 6 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 34,
+      "Tẻn khoa, phòng": "10. Tai - Mũi - Họng",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 35,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng khám",
+      "Diện tích": "từ 12 $m^{2}$/chỗ đến 15 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 36,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng điều trị",
+      "Diện tích": "từ 15 $m^{2}$/chỗ đến 18 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 37,
+      "Tẻn khoa, phòng": "11. Mắt",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 38,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng khám (phần sáng)",
+      "Diện tích": "từ 15 $m^{2}$/chỗ đến 18 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 39,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng khám (phần tối)",
+      "Diện tích": "từ 12 $m^{2}$/chỗ đến 18 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 40,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng điều trị",
+      "Diện tích": "từ 18 $m^{2}$/chỗ đến 24 $m^{2}$/chỗ"
+    },
+    {
+      "_row_id": 41,
+      "Tẻn khoa, phòng": "**C. Bộ phận nghiệp vụ**",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 42,
+      "Tẻn khoa, phòng": "1. Phòng phát thuốc, kho thuốc",
+      "Diện tích": "từ 15 $m^{2}$/phòng đến 18 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 43,
+      "Tẻn khoa, phòng": "2. Chỗ bán thuốc",
+      "Diện tích": "từ 15 $m^{2}$/phòng đến 18 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 44,
+      "Tẻn khoa, phòng": "3. Phòng chẩn đoán, xét nghiệm nhanh",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 45,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Chỗ đợi",
+      "Diện tích": "Xem 6.2.6"
+    },
+    {
+      "_row_id": 46,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Chỗ lấy bệnh phẩm",
+      "Diện tích": "từ 12 $m^{2}$/khu đến $m^{2}$/khu"
+    },
+    {
+      "_row_id": 47,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng xét nghiệm",
+      "Diện tích": "từ 24 $m^{2}$/phòng đến 36 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 48,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng X quang",
+      "Diện tích": "từ 24 $m^{2}$/phòng đến 36 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 49,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng siêu âm",
+      "Diện tích": "từ 24 $m^{2}$/phòng đến 36 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 50,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Phòng bác sỹ Xquang và lưu hồ sơ",
+      "Diện tích": "từ 12 $m^{2}$/phòng đến 15 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 51,
+      "Tẻn khoa, phòng": "4. Phòng lưu hồ sơ của phòng khám",
+      "Diện tích": "từ 18 $m^{2}$/phòng đến 24 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 52,
+      "Tẻn khoa, phòng": "5. Kho sạch",
+      "Diện tích": "từ 18 $m^{2}$/phòng đến 21 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 53,
+      "Tẻn khoa, phòng": "6. Phòng quản lý trang thiết bị",
+      "Diện tích": "từ 15 $m^{2}$/phòng đến 18 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 54,
+      "Tẻn khoa, phòng": "7. Kho chứa hóa chất",
+      "Diện tích": "từ 12 $m^{2}$/phòng đến 15 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 55,
+      "Tẻn khoa, phòng": "8. Kho bẩn",
+      "Diện tích": "từ 12 $m^{2}$/phòng đến 15 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 56,
+      "Tẻn khoa, phòng": "**D. Bộ phận tiếp nhận**",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 57,
+      "Tẻn khoa, phòng": "1. Phòng thay gửi quần áo",
+      "Diện tích": "từ 6 $m^{2}$/phòng đến 9 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 58,
+      "Tẻn khoa, phòng": "2. Phòng tiếp nhận",
+      "Diện tích": "từ 9 $m^{2}$/phòng đến 12 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 59,
+      "Tẻn khoa, phòng": "3. Kho quần áo, đồ dùng:",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 60,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Đồ sạch của bệnh nhân",
+      "Diện tích": "từ 12 $m^{2}$/phòng đến 15 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 61,
+      "Tẻn khoa, phòng": "&nbsp;&nbsp;\\- Đồ gửi của bệnh nhân",
+      "Diện tích": "từ 12 $m^{2}$/phòng đến 15 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 62,
+      "Tẻn khoa, phòng": "**E. Bộ phận hành chính**",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 63,
+      "Tẻn khoa, phòng": "1. Phòng trưởng khoa",
+      "Diện tích": "18 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 64,
+      "Tẻn khoa, phòng": "2. Phòng sinh hoạt",
+      "Diện tích": "từ 18 $m^{2}$/phòng đến 24 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 65,
+      "Tẻn khoa, phòng": "3. Thay quần áo nhân viên",
+      "Diện tích": "từ 9 $m^{2}$/phòng đến 12 $m^{2}$/phòng"
+    },
+    {
+      "_row_id": 66,
+      "Tẻn khoa, phòng": "4. Vệ sinh (nam/nữ riêng biệt)",
+      "Diện tích": "từ 18 $m^{2}$/khu đến 24 $m^{2}$/khu x 02 khu"
+    }
+  ],
+  "footnotes": []
+}

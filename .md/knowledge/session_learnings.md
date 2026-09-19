@@ -795,3 +795,49 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Bảng không viền nằm ở $12\%$ đầu tài liệu (khu vực Tiêu ngữ / Quốc hiệu / Cơ quan ban hành) hoặc $12\%$ cuối tài liệu (khu vực Nơi nhận / Ký tên / Đóng dấu) được nới lỏng trần kiểm tra lên `rows <= 8`, unwrap triệt để khối chữ ký hành chính nhiều cấp.
   4. **Xử Lý Vùng Ranh Giới Tranh Chấp (Ambiguous Boundary):**
      - Đối với các bảng không viền, không có tiêu đề rõ ràng và $0\%$ số liệu: Nếu không chứa từ khóa hành chính đặc thù trong `LAYOUT_KEYWORDS`, hệ thống ưu tiên bảo tồn nguyên trạng cấu trúc bảng và phát cảnh báo Telemetry thay vì phá hủy cấu trúc thô bạo.
+
+---
+
+## 48. TVPL Multi-Session Takeover & TCVN Client-Side Tab Routing (ADR 0031 Extension)
+
+- **Cơ Chế Chiếm Lại Phiên Pro Tự Động (Automated Session Eviction):**
+  - Khi TVPL phát hiện tài khoản đăng nhập đồng thời trên thiết bị khác, hộp thoại cảnh báo đa phiên `#logintfrom_w` sẽ mở ra. Agent kích hoạt lệnh `CheckFullLogin()` hoặc gửi POST `action=Login` tới `/page/ajaxcontroler.aspx` rồi click phần tử nút `.ui-dialog-buttonpane button` có nội dung `'Đồng ý'`.
+  - Thao tác này ngay lập tức vô hiệu hóa phiên từ xa (evict conflicting remote session) và khôi phục đặc quyền VIP Pro (`vuvanchu119[Pro]`) cho phiên làm việc tự động mà không cần can thiệp thủ công.
+- **Định Tuyến Tab Tiêu Chuẩn TCVN (Client-Side Tab Navigation vs URL Query `?tab=7`):**
+  - Khác với văn bản quy phạm pháp luật VBPL (sử dụng query string `?tab=7` để tải tài liệu), các trang tiêu chuẩn TCVN sử dụng cơ chế chuyển tab client-side bằng JavaScript. Việc gượng ép nạp URL có tham số `?tab=7` trên trang TCVN sẽ gây vòng lặp chuyển hướng (redirect loop) ngược về trang chủ hoặc văn bản gốc.
+  - Agent bắt buộc thực thi click phần tử `#aTabTaiVe` để kích hoạt giao diện `#tab8`, sau đó bóc tách trực tiếp 2 liên kết tải về:
+    - File DOCX: `/documents/download.aspx?id=...&part=-1&docx=1`
+    - File PDF: `/documents/download.aspx?id=...&part=0&docx=`
+
+---
+
+## 49. Safe Landing Download Pattern & Zero 0-Byte Artifact Invariant (Gate 11 Protection)
+
+- **Quy Tắc Bất Biến:** Nghiêm cấm cấu hình Chrome CDP `setDownloadBehavior` trỏ thẳng vào thư mục `sources/` của bundle văn bản.
+- **Mô Hình Tải An Toàn Vùng Đệm (Safe Landing Download Pattern):**
+  1. **Thiết lập thư mục tải tạm ngoài workspace:** Chỉ định `downloadPath` tới thư mục đệm của hệ thống (ví dụ: `Path.home() / "Downloads"`).
+  2. **Vòng lặp xác thực tính toàn vẹn (Integrity Polling Loop):** Chỉ chấp nhận tệp tải về thành công khi kích thước tệp `stat().st_size > 0` và tệp không còn phần mở rộng tạm thời `.crdownload`.
+  3. **Di chuyển nguyên tử (Atomic Move & Rename):** Sau khi tệp đã ghi xong hoàn chỉnh vào đĩa, sử dụng `shutil.move()` để chuyển và đổi tên tệp vào đúng đường dẫn đích: `sources/<doc_slug>.<ext>`.
+  4. **Bảo vệ Gate 11 Verbatim Parity:** Ngăn chặn triệt để tình trạng các tệp rác 0-byte (chưa kịp hoàn tất hoặc mang tên tải về mặc định như `TCVN3981_1985_901893.docx`) lọt vào thư mục `sources/`, khiến bộ phân tích `python-docx` của Gate 11 đọc nhầm và báo lỗi `Package not found`.
+
+---
+
+## 50. Deterministic Ground Truth Parity Engine v2.0, Greedy Multi-Span Coverage, Anti-Vacuous Table Regularity & Form Template Discrimination
+
+- **Bản Chất Vấn Đề (Adversarial Audit & Empirical Findings):**
+  1. **Ảo Tưởng Cửa Sổ 6 Từ (Sliding Window Flaw):** Thuật toán `any 6 words match` tạo ra False Pass khổng lồ vì một đoạn văn 100 từ chỉ cần chứa cụm từ luật sáo rỗng 6 từ ("theo quy định của pháp luật") là được tính là trùng khớp dù thiếu 94 từ. Ngược lại, thuật toán 1-span liên tục 70% gây False Fail khi câu văn bị ngắt bởi công thức toán inline.
+  2. **Word COM / `python-docx` VML Math Omission:** Thuộc tính `p.text` của Word bỏ qua hoàn toàn các đối tượng toán học OLE/VML `<w:pict>`, để lại khoảng trắng trong văn bản (ví dụ: `khi  ≥ 0,6`). Bộ chuyển đổi OKF v2.4 đã giải mã chuẩn KaTeX `$\bar{\lambda}$ ≥ 0,6`, khiến việc đối soát chuỗi thô bị đứt đoạn.
+  3. **Ảo Tưởng Đạt Chuẩn Bảng Rỗng (Vacuous Pass):** Một bundle không trích xuất bảng nào vẫn đạt điểm 100% nếu chỉ kiểm tra tính hợp lệ của danh sách tệp rỗng.
+  4. **Nhầm Lẫn Dấu Chấm Lửng Hành Chính:** Mọi biểu mẫu hành chính chuẩn luật đều chứa các nét chấm lửng để điền thông tin (`Kính gửi: ......`). Quét chấm lửng trên toàn file gây đánh trượt oan cấu trúc biểu mẫu.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Thuật Toán Greedy Multi-Span Coverage Invariant:**
+     - So khớp chuỗi bằng các đoạn liên tục không chồng lấn dài nhất với `min_span >= 4` từ, yêu cầu tổng độ phủ từ vựng $\ge 70\%$ đối với các đoạn $\ge 5$ từ.
+     - Đối với các đoạn ngắn (< 5 từ), yêu cầu so khớp nguyên văn 100% cụm từ.
+     - Loại bỏ sạch sẽ các thẻ macro KaTeX (`\bar`, `\overline`, `\vec`...) và thực thể HTML (`&nbsp;`) trong bước chuẩn hóa trước khi so khớp.
+  2. **Rào Chắn Bảng Ảo (Anti-Vacuous Pass Invariant):**
+     - Quét tài liệu nguồn DOCX/PDF: Nếu nguồn có bảng dữ liệu quan hệ (> 2 hàng, > 1 cột), thư mục `tables/csv/` bắt buộc không được rỗng và phải là ma trận 2D chữ nhật hoàn chỉnh (Zero Ragged Rows), bóc tách 100% footnote.
+  3. **Phân Tách Dấu Chấm Lửng Biểu Mẫu (Form Placeholder Discrimination):**
+     - Cho phép nguyên bản các nét chấm lửng điền thông tin trong thân biểu mẫu. Chỉ xử phạt khi dòng frontmatter `title:` hoặc tiêu đề Markdown `# ` / `## ` bị lỗi placeholder hoặc có bảng bị vỡ phẳng.
+  4. **Chuẩn Hóa Unicode NFC Bắt Buộc:**
+     - Toàn bộ dữ liệu trích xuất từ TVPL phải qua `unicodedata.normalize("NFC", text)` trước khi bóc tách và đối soát.

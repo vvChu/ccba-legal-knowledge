@@ -1,0 +1,43 @@
+{
+  "table_id": "bang_19",
+  "table_number": "19",
+  "table_title": "Bảng 19 - Diện tích các phòng điều trị trong khoa Y học cổ truyền",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại phòng",
+    "Diện tích($m^{2}$/phòng)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "1. Phòng khám, bắt mạch",
+      "Diện tích($m^{2}$/phòng)": "từ 15 đến 18"
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "2. Phòng xoa bóp, day bấm huyệt",
+      "Diện tích($m^{2}$/phòng)": "từ 18 đến 36"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "3. Phòng châm cứu",
+      "Diện tích($m^{2}$/phòng)": "từ 18 đến 36"
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "4. Chỗ rửa hấp, sấy, chuẩn bị dụng cụ",
+      "Diện tích($m^{2}$/phòng)": "từ 12 đến 18"
+    },
+    {
+      "_row_id": 5,
+      "Loại phòng": "5. Phòng phát thuốc, kho thuốc",
+      "Diện tích($m^{2}$/phòng)": "từ 36 đến 48"
+    },
+    {
+      "_row_id": 6,
+      "Loại phòng": "6. Kho dụng cụ",
+      "Diện tích($m^{2}$/phòng)": "từ 9 đến 12"
+    }
+  ],
+  "footnotes": []
+}

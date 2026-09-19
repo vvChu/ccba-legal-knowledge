@@ -1,0 +1,45 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Yêu cầu về chất lượng sử dụng và chất lượng xây dựng công sở cơ quan HCNN theo cấp công trình",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Cấp công trình",
+    "Chất lượng sử dụng",
+    "Chất lượng xây dựng công trình — Niên hạn sử dụng",
+    "Chất lượng xây dựng công trình — Bậc chịu lửa"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp công trình": "Cấp I",
+      "Chất lượng sử dụng": "Cao",
+      "Chất lượng xây dựng công trình — Niên hạn sử dụng": "100 năm",
+      "Chất lượng xây dựng công trình — Bậc chịu lửa": "Bậc I"
+    },
+    {
+      "_row_id": 2,
+      "Cấp công trình": "Cấp II",
+      "Chất lượng sử dụng": "Tương đối cao",
+      "Chất lượng xây dựng công trình — Niên hạn sử dụng": "trên 50 năm đến dưới 100 năm",
+      "Chất lượng xây dựng công trình — Bậc chịu lửa": "Bậc I hoặc bậc II"
+    },
+    {
+      "_row_id": 3,
+      "Cấp công trình": "Cấp III",
+      "Chất lượng sử dụng": "Khá",
+      "Chất lượng xây dựng công trình — Niên hạn sử dụng": "20 năm đến 50 năm",
+      "Chất lượng xây dựng công trình — Bậc chịu lửa": "Bậc II hoặc bậc III"
+    },
+    {
+      "_row_id": 4,
+      "Cấp công trình": "Cấp IV",
+      "Chất lượng sử dụng": "Trung bình (đạt yêu cầu sử dụng)",
+      "Chất lượng xây dựng công trình — Niên hạn sử dụng": "dưới 20 năm",
+      "Chất lượng xây dựng công trình — Bậc chịu lửa": "Bậc III hoặc bậc IV"
+    }
+  ],
+  "footnotes": {
+    "[2]": "**CHÚ THÍCH:** Yêu cầu bậc chịu lửa cần tham khảo quy định về an toàn cháy cho nhà và công trình [2] và TCVN 2622."
+  }
+}

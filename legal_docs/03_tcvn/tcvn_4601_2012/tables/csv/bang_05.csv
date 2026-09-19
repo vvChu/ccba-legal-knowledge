@@ -1,0 +1,6 @@
+﻿Phân cấp hoạt động thị giác — Mức độ chính xác,Phân cấp hoạt động thị giác — Kích thước vật phân biệt mm,Chiếu sáng bên — Độ rọi ánh sáng tự nhiên trong nhà lux,Chiếu sáng bên — Hệ số độ rơi tự nhiên tối thiểu %,Chiếu sáng trên — Độ rọi ánh sáng tự nhiên trong nhà lux,Chiếu sáng trên — Hệ số độ rọi tự nhiên trung bình %
+1. Đặc biệt chính xác,"d ≤ 0,15",250,5,350,7
+1. Rất chính xác,"0,15 < d ≤ 0,3",150,3,250,5
+2. Chính xác,"0,3 < d ≤ 1,0",100,2,150,3
+3. Trung bình,"1,0 < d ≤ 5,0",50,1,100,2
+4. Thô,"d > 5,0",25,"0,5",50,1

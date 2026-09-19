@@ -1,0 +1,88 @@
+{
+  "table_id": "bang_18",
+  "table_number": "18",
+  "table_title": "Bảng 18 - Diện tích các phòng trong Khoa Hồi sức tích cực - chống độc",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Tên phòng",
+    "Diện tích($m^{2}$/phòng)",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên phòng": "1. Phòng đợi",
+      "Diện tích($m^{2}$/phòng)": "xem 6.2.6",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 2,
+      "Tên phòng": "2. Phòng điều trị tích cực, $m^{2}$/người, không nhỏ hơn,",
+      "Diện tích($m^{2}$/phòng)": "15",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 3,
+      "Tên phòng": "3. Phòng làm thủ thuật can thiệp",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": "Yêu cầu như phòng mổ"
+    },
+    {
+      "_row_id": 4,
+      "Tên phòng": "4. Phòng máy",
+      "Diện tích($m^{2}$/phòng)": "36",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 5,
+      "Tên phòng": "5. Phòng rửa, tiệt trùng",
+      "Diện tích($m^{2}$/phòng)": "24",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 6,
+      "Tên phòng": "6. Kho sạch",
+      "Diện tích($m^{2}$/phòng)": "24",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 7,
+      "Tên phòng": "7. Kho bẩn",
+      "Diện tích($m^{2}$/phòng)": "12",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 8,
+      "Tên phòng": "8. Phòng trưởng khoa",
+      "Diện tích($m^{2}$/phòng)": "18",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 9,
+      "Tên phòng": "9. Phòng bác sỹ",
+      "Diện tích($m^{2}$/phòng)": "24",
+      "Ghi chú": "Đồng thời là phòng trực"
+    },
+    {
+      "_row_id": 10,
+      "Tên phòng": "10. Phòng y tá, hộ lý",
+      "Diện tích($m^{2}$/phòng)": "24",
+      "Ghi chú": "Đồng thời là phòng trực"
+    },
+    {
+      "_row_id": 11,
+      "Tên phòng": "11. Phòng giao ban, đào tạo",
+      "Diện tích($m^{2}$/phòng)": "từ 48 đến 54",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 12,
+      "Tên phòng": "12. Khu vệ sinh thay đồ nhân viên",
+      "Diện tích($m^{2}$/phòng)": "24",
+      "Ghi chú": "Không nhỏ hơn 1,0 $m^{2}$/người. Bố trí thành hai khu nam/nữ riêng biệt."
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Các phòng điều trị tích cực được ngăn bằng vách kính để theo dõi bệnh nhân."
+  }
+}

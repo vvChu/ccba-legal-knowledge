@@ -1,0 +1,43 @@
+{
+  "table_id": "bang_13",
+  "table_number": "13",
+  "table_title": "Bảng 13 - Diện tích các phòng điều trị trong khoa Mắt",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại phòng",
+    "Diện tích"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại phòng": "1. Phòng khám mắt:",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại phòng": "&nbsp;&nbsp;\\- Phần sáng, $m^{2}$/chỗ",
+      "Diện tích": "từ 15 đến 18"
+    },
+    {
+      "_row_id": 3,
+      "Loại phòng": "&nbsp;&nbsp;\\- Phần tối, $m^{2}$/chỗ",
+      "Diện tích": "từ 12 đến 18"
+    },
+    {
+      "_row_id": 4,
+      "Loại phòng": "2. Phòng điều trị:",
+      "Diện tích": ""
+    },
+    {
+      "_row_id": 5,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ thay băng, nhỏ thuốc, tiểu phẫu, $m^{2}$/phòng",
+      "Diện tích": "từ 24 đến 30"
+    },
+    {
+      "_row_id": 6,
+      "Loại phòng": "&nbsp;&nbsp;\\- Chỗ rửa, hấp, sấy, chuẩn bị dụng cụ, $m^{2}$/phòng",
+      "Diện tích": "từ 12 đến 18"
+    }
+  ],
+  "footnotes": []
+}

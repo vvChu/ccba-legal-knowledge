@@ -1,0 +1,22 @@
+{
+  "table_id": "bang_06",
+  "table_number": "6",
+  "table_title": "Bảng 6",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Số chỗ cho hàng ghế có lối thoát — Một phía",
+    "Số chỗ cho hàng ghế có lối thoát — Hai phía",
+    "Khoảng cách nhỏ nhất giữa các lưng tựa của ghế (cm) — Mặt ghế lập",
+    "Khoảng cách nhỏ nhất giữa các lưng tựa của ghế (cm) — Mặt ghế cố định"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Số chỗ cho hàng ghế có lối thoát — Một phía": "6\n12",
+      "Số chỗ cho hàng ghế có lối thoát — Hai phía": "12\n24",
+      "Khoảng cách nhỏ nhất giữa các lưng tựa của ghế (cm) — Mặt ghế lập": "89\n90",
+      "Khoảng cách nhỏ nhất giữa các lưng tựa của ghế (cm) — Mặt ghế cố định": "90\n95"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,20 @@
+{
+  "table_id": "bang_21",
+  "table_number": "21",
+  "table_title": "Bảng 21",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Tên phòng",
+    "Đơn vị tính",
+    "Diện tích ($m^{2}$)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên phòng": "l - Phòng trạm trưởng và y bác sĩ trực\n2 - Phòng khám\n3 - Phòng tiêm và thủ thuật\n4 - Phòng y tá hồ sơ kiêm phát thuốc\n5 - Kho thuốc và dụng cụ\n6 -Phòng bệnh nhân\n7 - Phòng bệnh nhân nặng và cách li\n8 - Phòng ăn cho bệnh nhân",
+      "Đơn vị tính": "1 phòng\n1 phòng\n1 phòng\n1 phòng\n1 phòng\n1 giường cho 100 học sinh\nTheo chú thích chỗ ngồi",
+      "Diện tích ($m^{2}$)": "18\n18\n18\n12\n12\n6/1 giường\n9/1 giường\n1,2"
+    }
+  ],
+  "footnotes": []
+}
