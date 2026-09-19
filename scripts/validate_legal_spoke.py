@@ -921,6 +921,7 @@ class LegalSpokeValidator:
                 norm_md = _standalone_norm_words(combined_md)
 
                 missing_paras: list[tuple[int, str]] = []
+                effective_paras_count = 0
                 for idx, p in enumerate(docx_paras, 1):
                     np = _standalone_norm_words(p)
                     words = np.split()
@@ -931,18 +932,37 @@ class LegalSpokeValidator:
                             if chunk in norm_md:
                                 matched = True
                                 break
-                        if not matched:
-                            missing_paras.append((idx, p))
                     elif len(words) >= 2:
-                        if np not in norm_md:
-                            missing_paras.append((idx, p))
+                        if np in norm_md:
+                            matched = True
+                    else:
+                        continue
 
-                parity_rate = ((len(docx_paras) - len(missing_paras)) / len(docx_paras)) * 100.0 if docx_paras else 100.0
+                    if matched:
+                        effective_paras_count += 1
+                    else:
+                        # Check if paragraph is administrative enacting preamble (conforming to ADR 0021 Pure Body)
+                        p_low = p.strip().lower()
+                        if (
+                            p_low.startswith("căn cứ ")
+                            or p_low.startswith("theo đề nghị ")
+                            or p_low.startswith("xét đề nghị ")
+                            or p_low.startswith("cộng hòa xã hội chủ nghĩa việt nam")
+                            or p_low.startswith("độc lập - tự do - hạnh phúc")
+                            or (p_low.startswith("bộ trưởng ") and "ban hành thông tư" in p_low)
+                            or p_low.startswith("chính phủ ban hành nghị định")
+                            or "nơi nhận:" in p_low
+                        ):
+                            continue
+                        missing_paras.append((idx, p))
+                        effective_paras_count += 1
+
+                parity_rate = ((effective_paras_count - len(missing_paras)) / effective_paras_count) * 100.0 if effective_paras_count else 100.0
 
                 return {
                     "status": "success",
                     "bundle_name": bundle_dir.name,
-                    "docx_paras": len(docx_paras),
+                    "docx_paras": effective_paras_count,
                     "parity_rate": parity_rate,
                     "missing_count": len(missing_paras),
                     "missing_paras": missing_paras,

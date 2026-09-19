@@ -408,20 +408,34 @@ class GroundTruthParityVerifier:
                 if not in_toc and len(p_strip.split()) >= 3:
                     target_paras.append(p_strip)
 
+            effective_paras_count = 0
             matched_count = 0
             missing_paras = []
             for p in target_paras:
                 nw = normalize_for_matching(p).split()
                 if not nw:
-                    matched_count += 1
                     continue
                 if check_multi_span_coverage(nw, norm_md, min_span=4, min_ratio=0.70):
                     matched_count += 1
+                    effective_paras_count += 1
                 else:
+                    # Check if paragraph is administrative enacting preamble (conforming to ADR 0021 Pure Body)
+                    p_low = p.strip().lower()
+                    if (
+                        p_low.startswith("căn cứ ")
+                        or p_low.startswith("theo đề nghị ")
+                        or p_low.startswith("xét đề nghị ")
+                        or p_low.startswith("cộng hòa xã hội chủ nghĩa việt nam")
+                        or p_low.startswith("độc lập - tự do - hạnh phúc")
+                        or (p_low.startswith("bộ trưởng ") and "ban hành thông tư" in p_low)
+                        or p_low.startswith("chính phủ ban hành nghị định")
+                    ):
+                        continue
+                    effective_paras_count += 1
                     if len(missing_paras) < 5:
                         missing_paras.append(p)
 
-            total_paras = len(target_paras)
+            total_paras = effective_paras_count
             rate = (matched_count / total_paras) * 100.0 if total_paras > 0 else 100.0
             res.p_verbatim = round(rate, 2)
             res.details["verbatim"] = {
