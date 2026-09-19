@@ -1,10 +1,13 @@
 # Bản Đồ Định Hướng Tri Thức Pháp Lý CCBA (Wayfinder Map)
 
 - **Mã Bản Đồ:** `WAYFINDER-LEGAL-KNOWLEDGE-V2`
-- **Phiên bản:** 2.0.0
-- **Ngày khởi tạo:** 2026-08-19
+- **Phiên bản:** 2.0.0 (Xem Bản đồ Nâng cấp v3.0 tại [.md/wayfinder/ground-truth-parity/map.md](../wayfinder/ground-truth-parity/map.md))
+- **Ngày khởi tạo:** 2026-08-19 (Cập nhật chiến dịch v3.0: 2026-09-19)
 - **Người lập:** CCBA Legal Intelligence Architecture Team
 - **Trạng thái:** Active (Đang vận hành)
+
+> [!TIP]
+> **Chiến Dịch Nâng Hạng Đối Soát 1-1 Xác Định 55 Gói Tri Thức (v3.0):** Bản đồ chi tiết giải quyết 26 vé lỗi tiềm ẩn từ đợt kiểm định toàn kho được quản lý tại [**`WAYFINDER-GROUND-TRUTH-PARITY-100`**](../wayfinder/ground-truth-parity/map.md).
 
 ---
 

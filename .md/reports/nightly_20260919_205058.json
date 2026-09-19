@@ -1,0 +1,2457 @@
+{
+  "timestamp": "2026-09-19T13:54:15.852619+00:00",
+  "total_duration_seconds": 196.97,
+  "stage_1_parity": {
+    "exit_code": 1,
+    "duration_seconds": 141.82,
+    "summary": [
+      {
+        "slug": "luat_dau_thau_2023_22_2023_qh15",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.74,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 1137,
+            "matched_paragraphs": 1134,
+            "parity_rate": 99.74,
+            "sample_missing": [
+              "Quốc hội ban hành Luật Đấu thầu.",
+              "QUY ĐỊNH CHUNG",
+              "Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XV, kỳ họp thứ 5 thông qua ngày 23 tháng 6 năm 2023."
+            ]
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.62,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 521,
+            "matched_paragraphs": 519,
+            "parity_rate": 99.62,
+            "sample_missing": [
+              "Quốc hội ban hành Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ.",
+              "QUY ĐỊNH CHUNG"
+            ]
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "luat_xay_dung_2025_135_2025_qh15",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.89,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 894,
+            "matched_paragraphs": 893,
+            "parity_rate": 99.89,
+            "sample_missing": [
+              "Quốc hội ban hành Luật Xây dựng."
+            ]
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_105_2025_nd_cp",
+        "category": "01_vbpl",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 2.79,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "PDF_VECTOR",
+            "total_chunks": 11580,
+            "matched_chunks": 323,
+            "parity_rate": 2.79
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "nghi_dinh_105_2025_nd_cp",
+            "error_category": "VERBATIM_TEXT",
+            "error_code": "ERR_VERBATIM_DROP",
+            "file_path": "legal_docs\\01_vbpl\\nghi_dinh_105_2025_nd_cp",
+            "location": "Normative Body Markdown",
+            "detail": "Verbatim match rate is 2.8% (< 98.0%).",
+            "assigned_skill": "ccba-markdown-document-processing",
+            "action_required": "Audit missing paragraphs and ensure 1:1 verbatim reproduction."
+          }
+        ]
+      },
+      {
+        "slug": "nghi_dinh_193_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 0.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 301,
+            "matched_paragraphs": 301,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 0,
+            "docx_tables_found": 3,
+            "status": "vacuous_pass_detected"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "nghi_dinh_193_2026_nd_cp",
+            "error_category": "2D_GRID_REGULARITY",
+            "error_code": "ERR_MISSING_TABLE_CSVS",
+            "file_path": "legal_docs\\01_vbpl\\nghi_dinh_193_2026_nd_cp",
+            "location": "tables/csv/",
+            "detail": "Source DOCX has 3 data tables but tables/csv/ is empty.",
+            "assigned_skill": "table-reconstructor",
+            "action_required": "Extract relational data tables into tables/csv/ with valid 2D rectangular grid."
+          }
+        ]
+      },
+      {
+        "slug": "nghi_dinh_206_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.7,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 328,
+            "matched_paragraphs": 327,
+            "parity_rate": 99.7,
+            "sample_missing": [
+              "QUY ĐỊNH CHUNG"
+            ]
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_207_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.91,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 1119,
+            "matched_paragraphs": 1118,
+            "parity_rate": 99.91,
+            "sample_missing": [
+              "NHỮNG QUY ĐỊNH CHUNG"
+            ]
+          },
+          "table": {
+            "total_tables": 3,
+            "valid_tables": 3,
+            "has_catalog": true,
+            "docx_data_tables": 3
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_209_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 108,
+            "matched_paragraphs": 108,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_210_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 83.42,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "PDF_VECTOR",
+            "total_chunks": 3831,
+            "matched_chunks": 3196,
+            "parity_rate": 83.42
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "nghi_dinh_210_2026_nd_cp",
+            "error_category": "VERBATIM_TEXT",
+            "error_code": "ERR_VERBATIM_DROP",
+            "file_path": "legal_docs\\01_vbpl\\nghi_dinh_210_2026_nd_cp",
+            "location": "Normative Body Markdown",
+            "detail": "Verbatim match rate is 83.4% (< 98.0%).",
+            "assigned_skill": "ccba-markdown-document-processing",
+            "action_required": "Audit missing paragraphs and ensure 1:1 verbatim reproduction."
+          }
+        ]
+      },
+      {
+        "slug": "nghi_dinh_212_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.87,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 760,
+            "matched_paragraphs": 759,
+            "parity_rate": 99.87,
+            "sample_missing": [
+              "NHỮNG QUY ĐỊNH CHUNG"
+            ]
+          },
+          "table": {
+            "total_tables": 3,
+            "valid_tables": 3,
+            "has_catalog": true,
+            "docx_data_tables": 7
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_217_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 1937,
+            "matched_paragraphs": 1937,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 1,
+            "valid_tables": 1,
+            "has_catalog": true,
+            "docx_data_tables": 3
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_24_2024_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.95,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 1927,
+            "matched_paragraphs": 1926,
+            "parity_rate": 99.95,
+            "sample_missing": [
+              "NHỮNG QUY ĐỊNH CHUNG"
+            ]
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_101_2026_tt_bqp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.36,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 157,
+            "matched_paragraphs": 156,
+            "parity_rate": 99.36,
+            "sample_missing": [
+              "QUY ĐỊNH CHUNG"
+            ]
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_32_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 0.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 77,
+            "matched_paragraphs": 77,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 0,
+            "docx_tables_found": 1,
+            "status": "vacuous_pass_detected"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "thong_tu_32_2026_tt_bxd",
+            "error_category": "2D_GRID_REGULARITY",
+            "error_code": "ERR_MISSING_TABLE_CSVS",
+            "file_path": "legal_docs\\01_vbpl\\thong_tu_32_2026_tt_bxd",
+            "location": "tables/csv/",
+            "detail": "Source DOCX has 1 data tables but tables/csv/ is empty.",
+            "assigned_skill": "table-reconstructor",
+            "action_required": "Extract relational data tables into tables/csv/ with valid 2D rectangular grid."
+          }
+        ]
+      },
+      {
+        "slug": "thong_tu_33_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 88,
+            "matched_paragraphs": 88,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_34_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 0.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 506,
+            "matched_paragraphs": 506,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 0,
+            "docx_tables_found": 6,
+            "status": "vacuous_pass_detected"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "thong_tu_34_2026_tt_bxd",
+            "error_category": "2D_GRID_REGULARITY",
+            "error_code": "ERR_MISSING_TABLE_CSVS",
+            "file_path": "legal_docs\\01_vbpl\\thong_tu_34_2026_tt_bxd",
+            "location": "tables/csv/",
+            "detail": "Source DOCX has 6 data tables but tables/csv/ is empty.",
+            "assigned_skill": "table-reconstructor",
+            "action_required": "Extract relational data tables into tables/csv/ with valid 2D rectangular grid."
+          }
+        ]
+      },
+      {
+        "slug": "thong_tu_36_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 99.62,
+          "p_table": 0.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 1063,
+            "matched_paragraphs": 1059,
+            "parity_rate": 99.62,
+            "sample_missing": [
+              "DANH MỤC PHỤ LỤC",
+              "- Sử dụng các mẫu 01, 02, 03 hoặc 04 trong trường hợp có yêu cầu thẩm tra/thẩm định tổng mức đầu tư độc lập. Trường hợp thẩm định tổng mức đầu tư cùng với thẩm định Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật, nội dung kết quả thẩm định tổng mức đầu tư được tổng hợp trong thông báo kết quả thẩm định Báo cáo nghiên cứu khả thi, Báo cáo kinh tế - kỹ thuật.",
+              "- Sử dụng các mẫu 05, 06, 07 trong trường hợp có yêu cầu thẩm tra/thẩm định dự toán xây dựng công trình độc lập. Trường hợp thẩm định dự toán xây dựng cùng với thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt, nội dung kết quả thẩm định dự toán xây dựng được tổng hợp trong thông báo kết quả thẩm định thiết kế xây dựng triển khai sau khi dự án được phê duyệt.",
+              "- Trường hợp cơ quan/đơn vị được người quyết định đầu tư giao thẩm định đồng thời là cơ quan chuyên môn về xây dựng thì thông báo kết quả thẩm định sử dụng Mẫu số 03, nội dung thẩm định tổng mức đầu tư bao gồm cả nội dung thẩm định của cơ quan chuyên môn về xây dựng tại mục 5 Mẫu số 02 Phụ lục này."
+            ]
+          },
+          "table": {
+            "total_tables": 0,
+            "docx_tables_found": 33,
+            "status": "vacuous_pass_detected"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "thong_tu_36_2026_tt_bxd",
+            "error_category": "2D_GRID_REGULARITY",
+            "error_code": "ERR_MISSING_TABLE_CSVS",
+            "file_path": "legal_docs\\01_vbpl\\thong_tu_36_2026_tt_bxd",
+            "location": "tables/csv/",
+            "detail": "Source DOCX has 33 data tables but tables/csv/ is empty.",
+            "assigned_skill": "table-reconstructor",
+            "action_required": "Extract relational data tables into tables/csv/ with valid 2D rectangular grid."
+          }
+        ]
+      },
+      {
+        "slug": "thong_tu_37_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 98.63,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 877,
+            "matched_paragraphs": 865,
+            "parity_rate": 98.63,
+            "sample_missing": [
+              "1. Khảo sát xác định định mức dự toán công trình",
+              "1.1. Việc tổ chức khảo sát thu thập dữ liệu trực tiếp tại công trình trong quá trình thi công thực hiện trên cơ sở đề cương khảo sát với một số nội dung chính như sau: Tên công tác/định mức cần khảo sát; yêu cầu kỹ thuật, biện pháp tổ chức thi công, điều kiện thi công tại công trình; thành phần công việc (công đoạn/bước công việc) được xác định định mức; dự kiến các phương án khảo sát (phạm vi, cách thức thu thập dữ liệu…) tương ứng với từng nội dung thành phần hao phí; thành phần tham gia thực hiện khảo sát…",
+              "Việc theo dõi, thu thập số liệu từ thực tế thi công của công trình được thực hiện thông qua phương pháp khảo sát truyền thống (theo dõi, kiểm đếm, bấm giờ và ghi chép trực tiếp vào biểu mẫu) hoặc áp dụng các công nghệ số và công nghệ hiện trường, bao gồm mô hình thông tin công trình, bản sao số, cảm biến nhận dạng tự động, định vị, xử lý dữ liệu và mô phỏng; dữ liệu hình ảnh từ camera giám sát công trường, video ghi hình quá trình thi công và số liệu trích xuất từ hệ thống quản lý hoạt động của máy móc, thiết bị thi công tham gia vào dây chuyền công nghệ.",
+              "1.2. Số lần khảo sát và mức độ chênh lệch giữa các lần khảo sát trực tiếp tại công trình",
+              "a) Thực hiện khảo sát ít nhất 5 lần/định mức tương ứng với phạm vi khảo sát (vị trí, thời điểm thi công…) khác nhau nhưng đảm bảo tương đồng về yêu cầu kỹ thuật, biện pháp tổ chức thi công, điều kiện thi công. Mức độ chênh lệch số liệu thu thập được của các lần khảo sát đối với vật liệu chính; năng suất nhân công; năng suất các máy và thiết bị thi công chính, đảm bảo không quá 20% (giữa số liệu nhỏ nhất và lớn nhất của các lần khảo sát). Trường hợp số liệu khảo sát không đảm bảo yêu cầu thì tiếp tục khảo sát."
+            ]
+          },
+          "table": {
+            "total_tables": 2,
+            "valid_tables": 2,
+            "has_catalog": true,
+            "docx_data_tables": 23
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_38_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 2.38,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "PDF_VECTOR",
+            "total_chunks": 79193,
+            "matched_chunks": 1885,
+            "parity_rate": 2.38
+          },
+          "table": {
+            "total_tables": 3,
+            "valid_tables": 3,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 3,
+            "valid_blocks": 3
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "thong_tu_38_2026_tt_bxd",
+            "error_category": "VERBATIM_TEXT",
+            "error_code": "ERR_VERBATIM_DROP",
+            "file_path": "legal_docs\\01_vbpl\\thong_tu_38_2026_tt_bxd",
+            "location": "Normative Body Markdown",
+            "detail": "Verbatim match rate is 2.4% (< 98.0%).",
+            "assigned_skill": "ccba-markdown-document-processing",
+            "action_required": "Audit missing paragraphs and ensure 1:1 verbatim reproduction."
+          }
+        ]
+      },
+      {
+        "slug": "thong_tu_39_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 97.83,
+          "p_table": 0.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 276,
+            "matched_paragraphs": 270,
+            "parity_rate": 97.83,
+            "sample_missing": [
+              "QUY ĐỊNH CHUNG",
+              "Tùy theo yêu cầu quản lý đối với từng loại dự án đầu tư xây dựng, công trình xây dựng, dữ liệu về dự án đầu tư xây dựng, công trình xây dựng được thu thập, cập nhật theo kết quả của một hoặc một số thủ tục như bảng dưới đây:",
+              "+ Đối với trường hợp đã thực hiện các thủ tục trước đó, tổ chức đề nghị thực hiện thủ tục nhập mã số dự án đầu tư xây dựng đã có trên hệ thống (nếu có); các trường dữ liệu được hệ thống tự động cập nhật vào bảng dữ liệu điều chỉnh; tổ chức đề nghị thực hiện thủ tục rà soát, cập nhật các nội dung điều chỉnh.",
+              "+ Trường hợp chưa đủ cơ sở để phê duyệt dữ liệu lên Hệ thống thông tin về hoạt động xây dựng, cơ quan giải quyết thủ tục, phê duyệt dữ liệu lên Hệ thống phải có Văn bản gửi cơ quan, tổ chức đề nghị thực hiện thủ tục để thông báo rõ lý do về việc chưa phê duyệt dữ liệu lên Hệ thống và hướng dẫn nội dung phải chỉnh sửa, hoàn thiện bảo đảm việc nhập, cập nhật dữ liệu lên Hệ thống theo quy định.",
+              "(*): Thông tin về quy hoạch đô thị và nông thôn, hoạt động xây dựng được cung cấp theo lộ trình nhập, cập nhật dữ liệu và công bố các dịch vụ chia sẻ dữ liệu thuộc phạm vi của Hệ thống thông tin về hoạt động xây dựng theo quy định."
+            ]
+          },
+          "table": {
+            "total_tables": 0,
+            "docx_tables_found": 5,
+            "status": "vacuous_pass_detected"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "thong_tu_39_2026_tt_bxd",
+            "error_category": "VERBATIM_TEXT",
+            "error_code": "ERR_VERBATIM_DROP",
+            "file_path": "legal_docs\\01_vbpl\\thong_tu_39_2026_tt_bxd",
+            "location": "Normative Body Markdown",
+            "detail": "Verbatim match rate is 97.8% (< 98.0%).",
+            "assigned_skill": "ccba-markdown-document-processing",
+            "action_required": "Audit missing paragraphs and ensure 1:1 verbatim reproduction."
+          },
+          {
+            "bundle_slug": "thong_tu_39_2026_tt_bxd",
+            "error_category": "2D_GRID_REGULARITY",
+            "error_code": "ERR_MISSING_TABLE_CSVS",
+            "file_path": "legal_docs\\01_vbpl\\thong_tu_39_2026_tt_bxd",
+            "location": "tables/csv/",
+            "detail": "Source DOCX has 5 data tables but tables/csv/ is empty.",
+            "assigned_skill": "table-reconstructor",
+            "action_required": "Extract relational data tables into tables/csv/ with valid 2D rectangular grid."
+          }
+        ]
+      },
+      {
+        "slug": "thong_tu_40_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 0.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 126,
+            "matched_paragraphs": 126,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 0,
+            "docx_tables_found": 9,
+            "status": "vacuous_pass_detected"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "thong_tu_40_2026_tt_bxd",
+            "error_category": "2D_GRID_REGULARITY",
+            "error_code": "ERR_MISSING_TABLE_CSVS",
+            "file_path": "legal_docs\\01_vbpl\\thong_tu_40_2026_tt_bxd",
+            "location": "tables/csv/",
+            "detail": "Source DOCX has 9 data tables but tables/csv/ is empty.",
+            "assigned_skill": "table-reconstructor",
+            "action_required": "Extract relational data tables into tables/csv/ with valid 2D rectangular grid."
+          }
+        ]
+      },
+      {
+        "slug": "thong_tu_41_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 99.36,
+          "p_table": 0.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 156,
+            "matched_paragraphs": 155,
+            "parity_rate": 99.36,
+            "sample_missing": [
+              "QUY ĐỊNH CHUNG"
+            ]
+          },
+          "table": {
+            "total_tables": 0,
+            "docx_tables_found": 3,
+            "status": "vacuous_pass_detected"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "thong_tu_41_2026_tt_bxd",
+            "error_category": "2D_GRID_REGULARITY",
+            "error_code": "ERR_MISSING_TABLE_CSVS",
+            "file_path": "legal_docs\\01_vbpl\\thong_tu_41_2026_tt_bxd",
+            "location": "tables/csv/",
+            "detail": "Source DOCX has 3 data tables but tables/csv/ is empty.",
+            "assigned_skill": "table-reconstructor",
+            "action_required": "Extract relational data tables into tables/csv/ with valid 2D rectangular grid."
+          }
+        ]
+      },
+      {
+        "slug": "thong_tu_73_2026_tt_btc",
+        "category": "01_vbpl",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 0.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 186,
+            "matched_paragraphs": 186,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 0,
+            "docx_tables_found": 16,
+            "status": "vacuous_pass_detected"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "thong_tu_73_2026_tt_btc",
+            "error_category": "2D_GRID_REGULARITY",
+            "error_code": "ERR_MISSING_TABLE_CSVS",
+            "file_path": "legal_docs\\01_vbpl\\thong_tu_73_2026_tt_btc",
+            "location": "tables/csv/",
+            "detail": "Source DOCX has 16 data tables but tables/csv/ is empty.",
+            "assigned_skill": "table-reconstructor",
+            "action_required": "Extract relational data tables into tables/csv/ with valid 2D rectangular grid."
+          }
+        ]
+      },
+      {
+        "slug": "thong_tu_79_2026_tt_btc",
+        "category": "01_vbpl",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 99.33,
+          "p_table": 0.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 50.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 297,
+            "matched_paragraphs": 295,
+            "parity_rate": 99.33,
+            "sample_missing": [
+              "QUY ĐỊNH CHUNG",
+              "DANH MỤC MẪU BIỂU"
+            ]
+          },
+          "table": {
+            "total_tables": 0,
+            "docx_tables_found": 21,
+            "status": "vacuous_pass_detected"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": false
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "thong_tu_79_2026_tt_btc",
+            "error_category": "2D_GRID_REGULARITY",
+            "error_code": "ERR_MISSING_TABLE_CSVS",
+            "file_path": "legal_docs\\01_vbpl\\thong_tu_79_2026_tt_btc",
+            "location": "tables/csv/",
+            "detail": "Source DOCX has 21 data tables but tables/csv/ is empty.",
+            "assigned_skill": "table-reconstructor",
+            "action_required": "Extract relational data tables into tables/csv/ with valid 2D rectangular grid."
+          },
+          {
+            "bundle_slug": "thong_tu_79_2026_tt_btc",
+            "error_category": "STRUCTURAL_AST",
+            "error_code": "ERR_TEMPLATE_PLACEHOLDER",
+            "file_path": "legal_docs\\01_vbpl\\thong_tu_79_2026_tt_btc\\templates\\mau_02_dt_qlda_bang_tinh_luong_nam.md",
+            "location": "templates/",
+            "detail": "Corrupted placeholder in title: '## BẢNG TÍNH LƯƠNG NĂM .........'",
+            "assigned_skill": "form-template-cleaner",
+            "action_required": "Clean placeholders and restore formal headings via form-template-cleaner."
+          }
+        ]
+      },
+      {
+        "slug": "vn_hn_qd_38_2026_qd_ubnd",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 95,
+            "matched_paragraphs": 95,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_01_2021_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 634,
+            "matched_paragraphs": 634,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 32,
+            "valid_tables": 32,
+            "has_catalog": true,
+            "docx_data_tables": 31
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_02_2022_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 5,
+            "matched_paragraphs": 5,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 49,
+            "valid_tables": 49,
+            "has_catalog": true,
+            "docx_data_tables": 46
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_03_2022_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 107,
+            "matched_paragraphs": 107,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 3,
+            "valid_tables": 3,
+            "has_catalog": true,
+            "docx_data_tables": 1
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_03_2023_bca",
+        "category": "02_qcvn",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 0.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 190,
+            "matched_paragraphs": 190,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 0,
+            "docx_tables_found": 7,
+            "status": "vacuous_pass_detected"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "qcvn_03_2023_bca",
+            "error_category": "2D_GRID_REGULARITY",
+            "error_code": "ERR_MISSING_TABLE_CSVS",
+            "file_path": "legal_docs\\02_qcvn\\qcvn_03_2023_bca",
+            "location": "tables/csv/",
+            "detail": "Source DOCX has 7 data tables but tables/csv/ is empty.",
+            "assigned_skill": "table-reconstructor",
+            "action_required": "Extract relational data tables into tables/csv/ with valid 2D rectangular grid."
+          }
+        ]
+      },
+      {
+        "slug": "qcvn_04_2021_bxd",
+        "category": "02_qcvn",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 55.51,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "PDF_VECTOR",
+            "total_chunks": 1544,
+            "matched_chunks": 857,
+            "parity_rate": 55.51
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "qcvn_04_2021_bxd",
+            "error_category": "VERBATIM_TEXT",
+            "error_code": "ERR_VERBATIM_DROP",
+            "file_path": "legal_docs\\02_qcvn\\qcvn_04_2021_bxd",
+            "location": "Normative Body Markdown",
+            "detail": "Verbatim match rate is 55.5% (< 98.0%).",
+            "assigned_skill": "ccba-markdown-document-processing",
+            "action_required": "Audit missing paragraphs and ensure 1:1 verbatim reproduction."
+          }
+        ]
+      },
+      {
+        "slug": "qcvn_06_2022_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.89,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 1876,
+            "matched_paragraphs": 1874,
+            "parity_rate": 99.89,
+            "sample_missing": [
+              "A.2.27  Cấp nước chữa cháy",
+              "A.2.28  Hệ thống điện"
+            ]
+          },
+          "table": {
+            "total_tables": 64,
+            "valid_tables": 64,
+            "has_catalog": true,
+            "docx_data_tables": 64
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_07_2023_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 1696,
+            "matched_paragraphs": 1696,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 12,
+            "valid_tables": 12,
+            "has_catalog": true,
+            "docx_data_tables": 26
+          },
+          "math": {
+            "total_blocks": 1,
+            "valid_blocks": 1
+          },
+          "multimodal": {
+            "total_figures": 2,
+            "valid_figures": 2
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_09_2017_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 147,
+            "matched_paragraphs": 147,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 9,
+            "valid_tables": 9,
+            "has_catalog": true,
+            "docx_data_tables": 18
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_10_2024_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 241,
+            "matched_paragraphs": 241,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 2,
+            "valid_tables": 2,
+            "has_catalog": true,
+            "docx_data_tables": 2
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 25,
+            "valid_figures": 25
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_10_2025_bca",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 442,
+            "matched_paragraphs": 442,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 19,
+            "valid_tables": 19,
+            "has_catalog": true,
+            "docx_data_tables": 28
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 2,
+            "valid_figures": 2
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_12_2014_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.58,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 948,
+            "matched_paragraphs": 944,
+            "parity_rate": 99.58,
+            "sample_missing": [
+              "RA x Ia ≤ 50 \t(1)",
+              "IB ≤ In ≤ Iz \t(3)",
+              "và I2 ≤ 1,45 x Iz \t(4)",
+              "Zs x Ia ≤ Uo \t(6)"
+            ]
+          },
+          "table": {
+            "total_tables": 17,
+            "valid_tables": 17,
+            "has_catalog": true,
+            "docx_data_tables": 21
+          },
+          "math": {
+            "total_blocks": 6,
+            "valid_blocks": 6
+          },
+          "multimodal": {
+            "total_figures": 14,
+            "valid_figures": 14
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_13_2018_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 297,
+            "matched_paragraphs": 297,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 9,
+            "valid_tables": 9,
+            "has_catalog": true,
+            "docx_data_tables": 9
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_10304_2014",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 98.05,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 1078,
+            "matched_paragraphs": 1057,
+            "parity_rate": 98.05,
+            "sample_missing": [
+              "S ≤ Sgh \t\t\t\t\t\t (5)",
+              "Giá trị của lấy không quá 3.",
+              "qb = 0,754 (1 ’I d + 2 3 I h) \t\t\t\t (13)",
+              "S =  Sgh  \t\t\t\t\t\t(19)",
+              "S = Sgh + Se,  \t\t\t\t\t\t(20)"
+            ]
+          },
+          "table": {
+            "total_tables": 26,
+            "valid_tables": 26,
+            "has_catalog": true,
+            "docx_data_tables": 23
+          },
+          "math": {
+            "total_blocks": 77,
+            "valid_blocks": 77
+          },
+          "multimodal": {
+            "total_figures": 5,
+            "valid_figures": 5
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_2737_2023",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 98.6,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 786,
+            "matched_paragraphs": 775,
+            "parity_rate": 98.6,
+            "sample_missing": [
+              "C lấy bằng 3 kN.kg-0,5;",
+              "a) Đối với công trình có mặt bằng hình chữ U và X: xem các hình E.1a và E.1b;",
+              "b) Đối với công trình có mặt bằng hình chữ Y: xem các hình E.1c và E.1d;",
+              "c) Đối với công trình có mặt bằng hình chữ L và chữ Z: xem các hình E.1e và E.1f.",
+              "a) Có một tường ngăn"
+            ]
+          },
+          "table": {
+            "total_tables": 37,
+            "valid_tables": 37,
+            "has_catalog": true,
+            "docx_data_tables": 40
+          },
+          "math": {
+            "total_blocks": 44,
+            "valid_blocks": 44
+          },
+          "multimodal": {
+            "total_figures": 44,
+            "valid_figures": 44
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_3890_2023",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 98.57,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 280,
+            "matched_paragraphs": 276,
+            "parity_rate": 98.57,
+            "sample_missing": [
+              "Fire protection - Fire protection equipments for building and construction - Equipment, Installation",
+              "TCVN 3890:2023 thay thế cho TCVN 3890:2009",
+              "TCVN 3890:2023 do Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ biên soạn, Bộ Công an đề nghị, Tổng cục Tiêu chuẩn Đo lường Chất lượng thẩm định, Bộ Khoa học và Công nghệ công bố.",
+              "Fire protection - Fire protection equipments for building and construction - Equipment, Installation"
+            ]
+          },
+          "table": {
+            "total_tables": 11,
+            "valid_tables": 11,
+            "has_catalog": true,
+            "docx_data_tables": 12
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_3981_1985",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 250,
+            "matched_paragraphs": 250,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 22,
+            "valid_tables": 22,
+            "has_catalog": true,
+            "docx_data_tables": 14
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_4470_2012",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 734,
+            "matched_paragraphs": 734,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 39,
+            "valid_tables": 39,
+            "has_catalog": true,
+            "docx_data_tables": 40
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 34,
+            "valid_figures": 34
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_4474_1987",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.67,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 303,
+            "matched_paragraphs": 302,
+            "parity_rate": 99.67,
+            "sample_missing": [
+              "q = qc + qdc\t(1)"
+            ]
+          },
+          "table": {
+            "total_tables": 11,
+            "valid_tables": 11,
+            "has_catalog": true,
+            "docx_data_tables": 8
+          },
+          "math": {
+            "total_blocks": 9,
+            "valid_blocks": 9
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_4513_1988",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.18,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 365,
+            "matched_paragraphs": 362,
+            "parity_rate": 99.18,
+            "sample_missing": [
+              "h = S.q2\t(1)",
+              "VBC = WBC + W1\t(12)",
+              "Phụ lục 3 - (kết thúc)"
+            ]
+          },
+          "table": {
+            "total_tables": 21,
+            "valid_tables": 21,
+            "has_catalog": true,
+            "docx_data_tables": 15
+          },
+          "math": {
+            "total_blocks": 9,
+            "valid_blocks": 9
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_4601_2012",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.76,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 417,
+            "matched_paragraphs": 416,
+            "parity_rate": 99.76,
+            "sample_missing": [
+              "Diện tích sàn kho =       (C.1)"
+            ]
+          },
+          "table": {
+            "total_tables": 10,
+            "valid_tables": 10,
+            "has_catalog": true,
+            "docx_data_tables": 12
+          },
+          "math": {
+            "total_blocks": 1,
+            "valid_blocks": 1
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_5574_2018",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.45,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 2165,
+            "matched_paragraphs": 2153,
+            "parity_rate": 99.45,
+            "sample_missing": [
+              "- Khi 0 ≤ b ≤ b1 (với b1 = Rb/Eb,red)",
+              "- Khi  ≥ 0,1h: 6;",
+              "- Khi 0,05h ≤  < 0,1h: 3;",
+              "b) Khi ξ = x/h0 > ξR : theo công thức",
+              "a) Lực dọc N đặt giữa các hợp lực của các nội lực trong các cốt thép S, S'"
+            ]
+          },
+          "table": {
+            "total_tables": 32,
+            "valid_tables": 32,
+            "has_catalog": true,
+            "docx_data_tables": 31
+          },
+          "math": {
+            "total_blocks": 285,
+            "valid_blocks": 285
+          },
+          "multimodal": {
+            "total_figures": 40,
+            "valid_figures": 40
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_5575_2024",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.28,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 2224,
+            "matched_paragraphs": 2208,
+            "parity_rate": 99.28,
+            "sample_missing": [
+              "trong đó: khi  > 3,5 thì lấy  = 3,5;",
+              "trong đó: khi  > 2,3 thì lấy  =2,3;",
+              "Khi  < 2,2 hoặc > 5,5 thì lấy =2,2 hoặc  = 5,5.",
+              "Lef  = µL                                                                       (139)",
+              "Ncr = 6,28tσcr,1 rmcos2 β                                                   (163)"
+            ]
+          },
+          "table": {
+            "total_tables": 107,
+            "valid_tables": 107,
+            "has_catalog": true,
+            "docx_data_tables": 137
+          },
+          "math": {
+            "total_blocks": 480,
+            "valid_blocks": 480
+          },
+          "multimodal": {
+            "total_figures": 48,
+            "valid_figures": 48
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_5687_2024",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.17,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 723,
+            "matched_paragraphs": 717,
+            "parity_rate": 99.17,
+            "sample_missing": [
+              "Đơn vị tính: mg/m3",
+              "Đơn vị tính: sợi/mL",
+              "Đơn vị tính: mg/m3",
+              "Đơn vị tính: mg/m3",
+              "Đơn vị tính: mg/m3"
+            ]
+          },
+          "table": {
+            "total_tables": 17,
+            "valid_tables": 17,
+            "has_catalog": true,
+            "docx_data_tables": 21
+          },
+          "math": {
+            "total_blocks": 41,
+            "valid_blocks": 41
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_5738_2021",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 251,
+            "matched_paragraphs": 251,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 5,
+            "valid_tables": 5,
+            "has_catalog": true,
+            "docx_data_tables": 5
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 3,
+            "valid_figures": 3
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_7336_2021",
+        "category": "03_tcvn",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 72.38,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "PDF_VECTOR",
+            "total_chunks": 3070,
+            "matched_chunks": 2222,
+            "parity_rate": 72.38
+          },
+          "table": {
+            "total_tables": 10,
+            "valid_tables": 10,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 13,
+            "valid_blocks": 13
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "tcvn_7336_2021",
+            "error_category": "VERBATIM_TEXT",
+            "error_code": "ERR_VERBATIM_DROP",
+            "file_path": "legal_docs\\03_tcvn\\tcvn_7336_2021",
+            "location": "Normative Body Markdown",
+            "detail": "Verbatim match rate is 72.4% (< 98.0%).",
+            "assigned_skill": "ccba-markdown-document-processing",
+            "action_required": "Audit missing paragraphs and ensure 1:1 verbatim reproduction."
+          }
+        ]
+      },
+      {
+        "slug": "tcvn_9362_2012",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.61,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 1021,
+            "matched_paragraphs": 1017,
+            "parity_rate": 99.61,
+            "sample_missing": [
+              "S ≤ Sgh \t\t(14)",
+              "poz + pdz ≤ Rz \t\t(17)",
+              "= p.tg + c \t\t(A.2)",
+              "Đối với c và tg:  = t x v \t\t(A.7)"
+            ]
+          },
+          "table": {
+            "total_tables": 38,
+            "valid_tables": 38,
+            "has_catalog": true,
+            "docx_data_tables": 35
+          },
+          "math": {
+            "total_blocks": 81,
+            "valid_blocks": 81
+          },
+          "multimodal": {
+            "total_figures": 7,
+            "valid_figures": 7
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_9385_2012",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.91,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 1149,
+            "matched_paragraphs": 1148,
+            "parity_rate": 99.91,
+            "sample_missing": [
+              "Pha chuyển: trong dải từ 0o đến 360o"
+            ]
+          },
+          "table": {
+            "total_tables": 25,
+            "valid_tables": 25,
+            "has_catalog": true,
+            "docx_data_tables": 37
+          },
+          "math": {
+            "total_blocks": 22,
+            "valid_blocks": 22
+          },
+          "multimodal": {
+            "total_figures": 60,
+            "valid_figures": 60
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_9386_2025",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 99.43,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 2616,
+            "matched_paragraphs": 2601,
+            "parity_rate": 99.43,
+            "sample_missing": [
+              "Vwp,Ed < Vwb,Rd             (6.9)",
+              "VEd ≤ Vp,link            (6.15)",
+              "MEd ≤ Mp,link           (6.16)",
+              "n = Ea / Ecm = 7             (7.1)",
+              "s = min(bo/2, 260 mm, 9dbL) đối với DCM               (7.7)"
+            ]
+          },
+          "table": {
+            "total_tables": 27,
+            "valid_tables": 27,
+            "has_catalog": true,
+            "docx_data_tables": 43
+          },
+          "math": {
+            "total_blocks": 185,
+            "valid_blocks": 185
+          },
+          "multimodal": {
+            "total_figures": 46,
+            "valid_figures": 46
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_iso_19650_1_2021",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 400,
+            "matched_paragraphs": 400,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 1,
+            "valid_tables": 1,
+            "has_catalog": true,
+            "docx_data_tables": 2
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 14,
+            "valid_figures": 14
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_iso_19650_2_2021",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "DOCX",
+            "total_paragraphs": 706,
+            "matched_paragraphs": 706,
+            "parity_rate": 100.0,
+            "sample_missing": []
+          },
+          "table": {
+            "total_tables": 2,
+            "valid_tables": 2,
+            "has_catalog": true,
+            "docx_data_tables": 6
+          },
+          "math": {
+            "total_blocks": 1,
+            "valid_blocks": 1
+          },
+          "multimodal": {
+            "total_figures": 12,
+            "valid_figures": 12
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      }
+    ],
+    "total_documents": 55,
+    "passed_documents": 40
+  },
+  "stage_2_master_ci": {
+    "exit_code": 0,
+    "duration_seconds": 55.15,
+    "passed": true,
+    "summary": "PASSED"
+  }
+}
