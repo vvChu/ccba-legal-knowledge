@@ -867,3 +867,26 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
      - Trong quá trình phân tích hàng bảng, nếu phát hiện dòng bắt đầu bằng `Ghi chú:`, `Chú thích:`, tự động trích xuất nội dung này vào mảng `footnotes` của metadata bảng (`tables_catalog.json`) và loại khỏi lưới tọa độ dữ liệu, đảm bảo ma trận CSV đạt 100% Zero Ragged Rows.
   4. **Hệ Thống Đo Lường Ban Đêm Hai Tầng (Dual-Mode Nightly Telemetry Integration):**
      - Kịch bản `run_nightly_telemetry.py` và cron script `run_nightly_tuner.sh` trên Server Spark (:8090) được nâng cấp hỗ trợ `--cohorts all`, quét toàn bộ 55 văn bản trong ~22 giây, tự động ghi nhận 5 diagnostic tickets còn lại và commit báo cáo định kỳ lúc 00:00 AM.
+
+---
+
+## 52. Multi-Device Spoke Governance & Remote Mutating Guardrail (Session 2026-09-20)
+
+- **Bản Chất Vấn Đề (Empirical Failures & Adversarial Findings):**
+  1. **Ngộ Nhận Định Danh Spoke Khi Làm Việc Trên Nhiều Thiết Bị:**
+     - Khi một kỹ sư clone Spoke về máy mới (ví dụ: máy trạm Linux song song với PC Windows), xuất hiện thắc mắc về việc "đăng ký lại với Hub" hoặc lo ngại xung đột cấu hình.
+     - Nếu chạy các lệnh như `/ccba-init-spoke` hay `/ccba-spoke-adopter` trên repo đã clone, hệ thống sẽ tái tạo lại template và ghi đè file cấu hình SSoT, gây xung đột Git nghiêm trọng.
+  2. **Rò Rỉ Trạng Thái Máy Cục Bộ (Machine-State Leakage):**
+     - SSoT `workspace_context.yaml` hardcode đường dẫn tuyệt đối Windows `hub_path: D:\...`. Khi sang Linux POSIX, `Path("D:\\...").is_absolute()` trả về `False`, khiến các script phân giải package của Hub thất bại âm thầm nếu sửa trực tiếp vào YAML.
+  3. **Lỗi Trùng Lặp Tài Nguyên Remote Khi Huỷ Async Task (Remote Mutating Race Condition):**
+     - Khi chạy lệnh tạo tài nguyên remote (`gh issue create`), do shell đưa vào background task và phản hồi chậm, Agent đã huỷ task và chạy lại lệnh đơn, dẫn đến việc cả 2 lệnh đều gửi thành công lên GitHub và sinh ra Issue #299 và #300 trùng nhau.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Quy Tắc Quản Trị Đa Thiết Bị (Single-User Multi-Machine Invariant):**
+     - **Bản chất danh tính Spoke:** Định danh Spoke gắn với Git Repository (`vvChu/ccba-legal-knowledge`), không gắn với máy client. Clone repo về máy mới không cần và cấm chạy lệnh đăng ký/khởi tạo lại.
+     - **Tách biệt cấu hình máy (Machine-State Decoupling):** Tuyệt đối không commit đường dẫn ổ đĩa tuyệt đối hay username máy vào Git. Cấu hình máy phải nằm trong `.env` (được `.gitignore`) hoặc biến môi trường `export CCBA_HUB_PATH=/path/to/hub` trong `~/.bashrc`.
+     - **Vệ sinh Git:** Luôn `git pull --rebase origin main` trước khi làm việc, tách feature branch riêng cho từng văn bản.
+  2. **Rào Chắn Chống Trùng Lặp Khi Thao Tác Remote (Remote Mutation Idempotency & State Inspection Gate):**
+     - Đối với mọi lệnh có side-effect trên remote (`gh issue create`, `gh pr create`, `git push`, Cloud Sync): nếu tiến trình bị gián đoạn, timeout hoặc huỷ giữa chừng, Agent **BẮT BUỘC phải kiểm tra trạng thái remote trước (`gh issue list`, `git status`)** trước khi quyết định chạy lại.
+     - Tích hợp đề xuất nâng cấp kiến trúc tổng thể lên Hub qua Epic Issue [#299](https://github.com/vvChu/ccba-agent-platform/issues/299) và lưu vết tại `.agents/proposals/2026-09-20_cross-platform-and-multi-client-governance.md`.
+
