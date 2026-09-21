@@ -1,0 +1,2043 @@
+{
+  "timestamp": "2026-09-21T17:00:20.188314+00:00",
+  "total_duration_seconds": 5.02,
+  "stage_1_parity": {
+    "exit_code": 1,
+    "duration_seconds": 1.41,
+    "summary": [
+      {
+        "slug": "luat_dau_thau_2023_22_2023_qh15",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "luat_xay_dung_2025_135_2025_qh15",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_105_2025_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_193_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 5,
+            "valid_tables": 5,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_206_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_207_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 3,
+            "valid_tables": 3,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_209_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_210_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_212_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 3,
+            "valid_tables": 3,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_217_2026_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 1,
+            "valid_tables": 1,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "nghi_dinh_24_2024_nd_cp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_101_2026_tt_bqp",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_32_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 1,
+            "valid_tables": 1,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_33_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_34_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 6,
+            "valid_tables": 6,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_36_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 51,
+            "valid_tables": 51,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_37_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 2,
+            "valid_tables": 2,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_38_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 3,
+            "valid_tables": 3,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 3,
+            "valid_blocks": 3
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_39_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 8,
+            "valid_tables": 8,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_40_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 11,
+            "valid_tables": 11,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_41_2026_tt_bxd",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 6,
+            "valid_tables": 6,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_73_2026_tt_btc",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 20,
+            "valid_tables": 20,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "thong_tu_79_2026_tt_btc",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 23,
+            "valid_tables": 23,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "vn_hn_qd_38_2026_qd_ubnd",
+        "category": "01_vbpl",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_01_2021_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 32,
+            "valid_tables": 32,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_02_2022_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 49,
+            "valid_tables": 49,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_03_2022_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 3,
+            "valid_tables": 3,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_03_2023_bca",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 7,
+            "valid_tables": 7,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_04_2021_bxd",
+        "category": "02_qcvn",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 55.51,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "PDF_VECTOR",
+            "total_chunks": 1544,
+            "matched_chunks": 857,
+            "parity_rate": 55.51
+          },
+          "table": {
+            "total_tables": 0,
+            "status": "none"
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "qcvn_04_2021_bxd",
+            "error_category": "VERBATIM_TEXT",
+            "error_code": "ERR_VERBATIM_DROP",
+            "file_path": "legal_docs/02_qcvn/qcvn_04_2021_bxd",
+            "location": "Normative Body Markdown",
+            "detail": "Verbatim match rate is 55.5% (< 98.0%).",
+            "assigned_skill": "ccba-markdown-document-processing",
+            "action_required": "Audit missing paragraphs and ensure 1:1 verbatim reproduction."
+          }
+        ]
+      },
+      {
+        "slug": "qcvn_06_2022_bxd",
+        "category": "02_qcvn",
+        "passed": false,
+        "vps": {
+          "p_verbatim": 88.98,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "source": "PDF_VECTOR",
+            "total_chunks": 14124,
+            "matched_chunks": 12567,
+            "parity_rate": 88.98
+          },
+          "table": {
+            "total_tables": 64,
+            "valid_tables": 64,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": [
+          {
+            "bundle_slug": "qcvn_06_2022_bxd",
+            "error_category": "VERBATIM_TEXT",
+            "error_code": "ERR_VERBATIM_DROP",
+            "file_path": "legal_docs/02_qcvn/qcvn_06_2022_bxd",
+            "location": "Normative Body Markdown",
+            "detail": "Verbatim match rate is 89.0% (< 98.0%).",
+            "assigned_skill": "ccba-markdown-document-processing",
+            "action_required": "Audit missing paragraphs and ensure 1:1 verbatim reproduction."
+          }
+        ]
+      },
+      {
+        "slug": "qcvn_07_2023_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 12,
+            "valid_tables": 12,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 1,
+            "valid_blocks": 1
+          },
+          "multimodal": {
+            "total_figures": 2,
+            "valid_figures": 2
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_09_2017_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 9,
+            "valid_tables": 9,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_10_2024_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 2,
+            "valid_tables": 2,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 25,
+            "valid_figures": 25
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_10_2025_bca",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 19,
+            "valid_tables": 19,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 2,
+            "valid_figures": 2
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_12_2014_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 17,
+            "valid_tables": 17,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 6,
+            "valid_blocks": 6
+          },
+          "multimodal": {
+            "total_figures": 14,
+            "valid_figures": 14
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "qcvn_13_2018_bxd",
+        "category": "02_qcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 9,
+            "valid_tables": 9,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_10304_2014",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 26,
+            "valid_tables": 26,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 77,
+            "valid_blocks": 77
+          },
+          "multimodal": {
+            "total_figures": 5,
+            "valid_figures": 5
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_2737_2023",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 37,
+            "valid_tables": 37,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 44,
+            "valid_blocks": 44
+          },
+          "multimodal": {
+            "total_figures": 44,
+            "valid_figures": 44
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_3890_2023",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 11,
+            "valid_tables": 11,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_3981_1985",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 22,
+            "valid_tables": 22,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_4470_2012",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 39,
+            "valid_tables": 39,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 34,
+            "valid_figures": 34
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_4474_1987",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 11,
+            "valid_tables": 11,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 9,
+            "valid_blocks": 9
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_4513_1988",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 21,
+            "valid_tables": 21,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 9,
+            "valid_blocks": 9
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_4601_2012",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 10,
+            "valid_tables": 10,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 1,
+            "valid_blocks": 1
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_5574_2018",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 32,
+            "valid_tables": 32,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 285,
+            "valid_blocks": 285
+          },
+          "multimodal": {
+            "total_figures": 40,
+            "valid_figures": 40
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_5575_2024",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 107,
+            "valid_tables": 107,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 480,
+            "valid_blocks": 480
+          },
+          "multimodal": {
+            "total_figures": 48,
+            "valid_figures": 48
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_5687_2024",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 17,
+            "valid_tables": 17,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 41,
+            "valid_blocks": 41
+          },
+          "multimodal": {
+            "total_figures": 0
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_5738_2021",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 5,
+            "valid_tables": 5,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 3,
+            "valid_figures": 3
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_7336_2021",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 10,
+            "valid_tables": 10,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 13,
+            "valid_blocks": 13
+          },
+          "multimodal": {
+            "total_figures": 0,
+            "status": "none"
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_9362_2012",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 38,
+            "valid_tables": 38,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 81,
+            "valid_blocks": 81
+          },
+          "multimodal": {
+            "total_figures": 7,
+            "valid_figures": 7
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_9385_2012",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 25,
+            "valid_tables": 25,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 22,
+            "valid_blocks": 22
+          },
+          "multimodal": {
+            "total_figures": 60,
+            "valid_figures": 60
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_9386_2025",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 27,
+            "valid_tables": 27,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 185,
+            "valid_blocks": 185
+          },
+          "multimodal": {
+            "total_figures": 46,
+            "valid_figures": 46
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_iso_19650_1_2021",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 1,
+            "valid_tables": 1,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 0,
+            "valid_blocks": 0
+          },
+          "multimodal": {
+            "total_figures": 14,
+            "valid_figures": 14
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      },
+      {
+        "slug": "tcvn_iso_19650_2_2021",
+        "category": "03_tcvn",
+        "passed": true,
+        "vps": {
+          "p_verbatim": 100.0,
+          "p_table": 100.0,
+          "p_math": 100.0,
+          "p_multimodal": 100.0,
+          "p_structure": 100.0
+        },
+        "details": {
+          "verbatim": {
+            "status": "skipped",
+            "reason": "no_source_assets"
+          },
+          "table": {
+            "total_tables": 2,
+            "valid_tables": 2,
+            "has_catalog": true,
+            "docx_data_tables": 0
+          },
+          "math": {
+            "total_blocks": 1,
+            "valid_blocks": 1
+          },
+          "multimodal": {
+            "total_figures": 12,
+            "valid_figures": 12
+          },
+          "structure": {
+            "clauses_valid": true,
+            "templates_valid": true
+          }
+        },
+        "tickets": []
+      }
+    ],
+    "total_documents": 55,
+    "passed_documents": 53
+  },
+  "stage_2_master_ci": {
+    "exit_code": 0,
+    "duration_seconds": 3.61,
+    "passed": true,
+    "summary": "PASSED"
+  }
+}
