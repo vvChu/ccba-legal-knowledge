@@ -889,4 +889,3 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
   2. **Rào Chắn Chống Trùng Lặp Khi Thao Tác Remote (Remote Mutation Idempotency & State Inspection Gate):**
      - Đối với mọi lệnh có side-effect trên remote (`gh issue create`, `gh pr create`, `git push`, Cloud Sync): nếu tiến trình bị gián đoạn, timeout hoặc huỷ giữa chừng, Agent **BẮT BUỘC phải kiểm tra trạng thái remote trước (`gh issue list`, `git status`)** trước khi quyết định chạy lại.
      - Tích hợp đề xuất nâng cấp kiến trúc tổng thể lên Hub qua Epic Issue [#299](https://github.com/vvChu/ccba-agent-platform/issues/299) và lưu vết tại `.agents/proposals/2026-09-20_cross-platform-and-multi-client-governance.md`.
-

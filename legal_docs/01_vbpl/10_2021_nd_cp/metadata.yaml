@@ -1,0 +1,28 @@
+id: 10_2021_nd_cp
+document_number: 10/2021/NĐ-CP
+type: ''
+title: Nghị định 10/2021/NĐ-CP quản lý chi phí đầu tư xây dựng
+status: ''
+effective_date: ''
+signer: ''
+pdf_path: legal_docs/01_vbpl/10_2021_nd_cp/sources/10_2021_nd_cp.pdf
+pdf_sha256: 4bfc31972c1bf9222365fa5b6e30769cf4e8bab77b2ed9c664b1306fbb7b9ff9
+pdf_status: verified
+legal_basis:
+- doc_id: luật_tổ_chức_chính_phủ_ngày_19_tháng_6_năm_2015
+  title: Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015
+- doc_id: luật_xây_dựng_ngày_18_tháng_6_năm_2014
+  title: Luật Xây dựng ngày 18 tháng 6 năm 2014
+- doc_id: luật_đầu_tư_ngày_17_tháng_6_năm_2020
+  title: Luật Đầu tư ngày 17 tháng 6 năm 2020
+- doc_id: luật_đầu_tư_công_ngày_13_tháng_6_năm_2019
+  title: Luật Đầu tư công ngày 13 tháng 6 năm 2019
+- doc_id: luật_đầu_tư_theo_phương_thức_đối_tác_công_tư_ngày_
+  title: Luật Đầu tư theo phương thức đối tác công tư ngày 18 tháng 6 năm 2020
+- doc_id: luật_đấu_thầu_ngày_26_tháng_11_năm_2013
+  title: Luật Đấu thầu ngày 26 tháng 11 năm 2013
+replaces: []
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-09-22T00:29:31.488183+00:00'

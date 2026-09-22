@@ -18,6 +18,7 @@ Validates:
 15. OKF Provenance & Version Attestation Gate.
 """
 
+import argparse
 import csv
 import json
 import os
@@ -70,11 +71,12 @@ if hasattr(sys.stdout, "reconfigure"):
 class LegalSpokeValidator:
     """Validator engine for CCBA Legal Knowledge Spoke."""
 
-    def __init__(self, root_dir: Path) -> None:
+    def __init__(self, root_dir: Path, target_bundle: Optional[str] = None) -> None:
         """Initialize validator with project root directory."""
         self.root_dir = root_dir
         self.legal_docs_dir = root_dir / "legal_docs"
         self.registry_file = root_dir / "legal_registry.yaml"
+        self.target_bundle = target_bundle
         self.errors: List[str] = []
         self.warnings: List[str] = []
 
@@ -142,6 +144,12 @@ class LegalSpokeValidator:
 
         for doc in all_docs:
             if isinstance(doc, dict):
+                if self.target_bundle:
+                    doc_id = doc.get("id", "")
+                    bundle_p = doc.get("bundle_path", "")
+                    doc_num = doc.get("document_number", "")
+                    if doc_id != self.target_bundle and self.target_bundle not in bundle_p and doc_num != self.target_bundle:
+                        continue
                 bundle_path_str = doc.get("bundle_path")
                 if bundle_path_str and not (self.root_dir / bundle_path_str).exists():
                     self.warnings.append(
@@ -162,7 +170,9 @@ class LegalSpokeValidator:
                 continue
 
             for doc_dir in cat_dir.iterdir():
-                if doc_dir.is_dir():
+                if doc_dir.is_dir() and not doc_dir.name.startswith("."):
+                    if self.target_bundle and doc_dir.name != self.target_bundle:
+                        continue
                     self._check_single_bundle_structure(doc_dir, cat)
 
         return (len(self.errors), len(self.warnings))
@@ -201,6 +211,8 @@ class LegalSpokeValidator:
             return (len(self.errors), len(self.warnings))
 
         for md_file in self.legal_docs_dir.rglob("*.md"):
+            if self.target_bundle and self.target_bundle not in md_file.parts:
+                continue
             content = self._safe_read_text(md_file)
             if content is None:
                 continue
@@ -234,6 +246,8 @@ class LegalSpokeValidator:
             for doc_dir in cat_dir.iterdir():
                 if not doc_dir.is_dir() or doc_dir.name.startswith("."):
                     continue
+                if self.target_bundle and doc_dir.name != self.target_bundle:
+                    continue
                 catalog_path = doc_dir / "tables" / "tables_catalog.json"
                 if not catalog_path.exists():
                     continue
@@ -265,7 +279,11 @@ class LegalSpokeValidator:
             return (len(self.errors), len(self.warnings))
 
         for doc_dir in vbpl_dir.iterdir():
-            if doc_dir.is_dir() and doc_dir.name.startswith("nghi_dinh_"):
+            if not doc_dir.is_dir() or doc_dir.name.startswith("."):
+                continue
+            if self.target_bundle and doc_dir.name != self.target_bundle:
+                continue
+            if doc_dir.name.startswith("nghi_dinh_"):
                 self._check_decree_fake_data(doc_dir)
 
         return (len(self.errors), len(self.warnings))
@@ -323,7 +341,9 @@ class LegalSpokeValidator:
         qcvn_dir = self.legal_docs_dir / "02_qcvn"
         if qcvn_dir.exists():
             for doc_dir in qcvn_dir.iterdir():
-                if doc_dir.is_dir():
+                if doc_dir.is_dir() and not doc_dir.name.startswith("."):
+                    if self.target_bundle and doc_dir.name != self.target_bundle:
+                        continue
                     self._validate_qcvn_ast_clauses(doc_dir)
 
         # Sub-Gate 5.2: Dual-PDF Archive & Provenance Invariant Check (ADR 0043)
@@ -342,6 +362,8 @@ class LegalSpokeValidator:
                 continue
             for doc_dir in cat_dir.iterdir():
                 if not doc_dir.is_dir() or doc_dir.name.startswith("."):
+                    continue
+                if self.target_bundle and doc_dir.name != self.target_bundle:
                     continue
                 meta_file = doc_dir / "metadata.yaml"
                 if not meta_file.exists():
@@ -379,6 +401,10 @@ class LegalSpokeValidator:
         for item in all_items:
             if isinstance(item, dict):
                 doc_id = item.get("id", "UNKNOWN")
+                bundle_p = item.get("bundle_path", "")
+                doc_num = item.get("document_number", "")
+                if self.target_bundle and doc_id != self.target_bundle and self.target_bundle not in bundle_p and doc_num != self.target_bundle:
+                    continue
                 if "pdf_status" not in item:
                     self.errors.append(f"PDF Metadata Error [{doc_id}]: Missing 'pdf_status' in legal_registry.yaml")
                 if "cong_bao_number" not in item:
@@ -428,7 +454,9 @@ class LegalSpokeValidator:
         vbpl_dir = self.legal_docs_dir / "01_vbpl"
         if vbpl_dir.exists():
             for doc_dir in vbpl_dir.iterdir():
-                if not doc_dir.is_dir():
+                if not doc_dir.is_dir() or doc_dir.name.startswith("."):
+                    continue
+                if self.target_bundle and doc_dir.name != self.target_bundle:
                     continue
 
                 target_md = doc_dir / f"{doc_dir.name}.md"
@@ -446,7 +474,9 @@ class LegalSpokeValidator:
             if not cat_dir.exists():
                 continue
             for doc_dir in cat_dir.iterdir():
-                if not doc_dir.is_dir():
+                if not doc_dir.is_dir() or doc_dir.name.startswith("."):
+                    continue
+                if self.target_bundle and doc_dir.name != self.target_bundle:
                     continue
                 std_target_md = doc_dir / f"{doc_dir.name}.md"
                 std_primary_md = std_target_md if std_target_md.exists() else None
@@ -564,14 +594,18 @@ class LegalSpokeValidator:
             if not cat_dir.exists():
                 continue
             for doc_dir in cat_dir.iterdir():
-                if doc_dir.is_dir():
+                if doc_dir.is_dir() and not doc_dir.name.startswith("."):
+                    if self.target_bundle and doc_dir.name != self.target_bundle:
+                        continue
                     self._check_bundle_templates_and_tables(doc_dir)
 
         for cat_dir in [self.legal_docs_dir / "02_qcvn", self.legal_docs_dir / "03_tcvn"]:
             if not cat_dir.exists():
                 continue
             for doc_dir in cat_dir.iterdir():
-                if doc_dir.is_dir():
+                if doc_dir.is_dir() and not doc_dir.name.startswith("."):
+                    if self.target_bundle and doc_dir.name != self.target_bundle:
+                        continue
                     self._check_figures_catalog(doc_dir)
 
         return (len(self.errors), len(self.warnings))
@@ -710,6 +744,8 @@ class LegalSpokeValidator:
             from scripts.lint_visual_parity import lint_document
 
         for md_file in sorted(self.legal_docs_dir.rglob("*.md")):
+            if self.target_bundle and self.target_bundle not in md_file.parts:
+                continue
             rel = md_file.relative_to(self.root_dir)
             content = self._safe_read_text(md_file)
             if content is None:
@@ -982,6 +1018,8 @@ class LegalSpokeValidator:
             for bundle_dir in cat_dir.iterdir():
                 if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
                     continue
+                if self.target_bundle and bundle_dir.name != self.target_bundle:
+                    continue
 
                 sources_dir = bundle_dir / DIR_SOURCES
                 if not sources_dir.exists() or not list(sources_dir.glob("*.docx")):
@@ -1012,6 +1050,8 @@ class LegalSpokeValidator:
                 continue
             for bundle_dir in category_dir.iterdir():
                 if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
+                    continue
+                if self.target_bundle and bundle_dir.name != self.target_bundle:
                     continue
 
                 figures_dir = bundle_dir / "figures"
@@ -1150,6 +1190,8 @@ class LegalSpokeValidator:
             for bundle_dir in category_dir.iterdir():
                 if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
                     continue
+                if self.target_bundle and bundle_dir.name != self.target_bundle:
+                    continue
 
                 tables_dir = bundle_dir / "tables"
                 csv_dir = tables_dir / "csv"
@@ -1257,6 +1299,8 @@ class LegalSpokeValidator:
             # Skip sources/ directory which contains raw constituent files
             if DIR_SOURCES in md_file.parts:
                 continue
+            if self.target_bundle and self.target_bundle not in md_file.parts:
+                continue
 
             rel_path = md_file.relative_to(self.root_dir)
             bundle_name = md_file.parent.name
@@ -1351,6 +1395,8 @@ class LegalSpokeValidator:
             for bundle_dir in sorted(cat_dir.iterdir()):
                 if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
                     continue
+                if self.target_bundle and bundle_dir.name != self.target_bundle:
+                    continue
 
                 meta_file = bundle_dir / "metadata.yaml"
                 if not meta_file.exists():
@@ -1403,6 +1449,8 @@ class LegalSpokeValidator:
         print("       CCBA LEGAL SPOKE MASTER INTEGRITY & SCHEMA VALIDATOR      ")
         print("=================================================================")
         print(f"Target Workspace: {self.root_dir}\n")
+        if self.target_bundle:
+            print(f"🎯 Scoped Target Bundle: {self.target_bundle}\n")
 
         self.validate_registry()
         self.validate_okf_bundles()
@@ -1456,8 +1504,11 @@ class LegalSpokeValidator:
 
 def main() -> None:
     """CLI entry point for running validator."""
+    parser = argparse.ArgumentParser(description="CCBA Legal Spoke Automated Integrity & Schema Validator")
+    parser.add_argument("--bundle", default=None, help="Validate a specific document bundle (scoped validation)")
+    args = parser.parse_args()
     root_dir = Path(__file__).resolve().parent.parent
-    validator = LegalSpokeValidator(root_dir)
+    validator = LegalSpokeValidator(root_dir, target_bundle=args.bundle)
     success = validator.run_all_checks()
     sys.exit(0 if success else 1)
 

@@ -430,9 +430,15 @@ def main() -> None:
     subparsers = parser.add_subparsers(dest="command", help="Command action")
 
     # Command: validate
-    subparsers.add_parser(
+    validate_parser = subparsers.add_parser(
         "validate",
         help="Run 15-Gate Master integrity and schema validation checks (ADR 0038 - ADR 0042)",
+    )
+    validate_parser.add_argument(
+        "--bundle",
+        type=str,
+        default=None,
+        help="Validate a specific document bundle (scoped validation)",
     )
 
     # Command: stats
@@ -449,6 +455,8 @@ def main() -> None:
         "-c", "--category", type=str, choices=["01_vbpl", "02_qcvn", "03_tcvn"], default="01_vbpl", help="Document category"
     )
     ingest_parser.add_argument("-t", "--doc-type", type=str, default="vbpl", help="Document profile type (default: vbpl)")
+    ingest_parser.add_argument("--pdf-path", type=Path, default=None, help="Path to input .pdf file")
+    ingest_parser.add_argument("--metadata", type=Path, default=None, help="Path to metadata JSON handoff file")
 
     # Command: sync-notebooklm
     sync_parser = subparsers.add_parser(
@@ -501,7 +509,7 @@ def main() -> None:
     root_dir = Path(__file__).resolve().parent.parent
 
     if args.command == "validate":
-        validator = LegalSpokeValidator(root_dir)
+        validator = LegalSpokeValidator(root_dir, target_bundle=args.bundle)
         success = validator.run_all_checks()
         sys.exit(0 if success else 1)
 
@@ -536,11 +544,174 @@ def main() -> None:
         else:
             input_docx = args.docx_path
 
+        # Preserve PDF in sources/ if provided
+        target_pdf: Path | None = None
+        if args.pdf_path and args.pdf_path.exists():
+            target_pdf = sources_dir / f"{args.slug}.pdf"
+            if args.pdf_path.resolve() != target_pdf.resolve():
+                shutil.copy2(args.pdf_path, target_pdf)
+
+        # Load metadata JSON if provided
+        raw_meta: dict[str, Any] = {}
+        if args.metadata and args.metadata.exists():
+            try:
+                raw_meta = json.loads(args.metadata.read_text(encoding="utf-8"))
+            except Exception as exc:
+                print(f"Warning: Failed to parse metadata handoff JSON: {exc}")
+
+        # Compute file hashes
+        import hashlib
+
+        def _calc_sha256(file_p: Path) -> str:
+            h = hashlib.sha256()
+            with open(file_p, "rb") as f:
+                while chunk := f.read(65536):
+                    h.update(chunk)
+            return h.hexdigest()
+
+        docx_sha = _calc_sha256(input_docx)
+        pdf_sha = (
+            _calc_sha256(target_pdf)
+            if target_pdf and target_pdf.exists()
+            else raw_meta.get("pdf_sha256", "UNVERIFIED")
+        )
+
+        # Update legal_registry.yaml preserving laws / standards structure
+        registry_file = root_dir / "legal_registry.yaml"
+        doc_meta: dict[str, Any] = {}
+        if registry_file.exists():
+            try:
+                reg_data = yaml.safe_load(registry_file.read_text(encoding="utf-8")) or {}
+            except Exception as exc:
+                print(f"Warning: Failed to load registry: {exc}")
+                reg_data = {}
+        else:
+            reg_data = {}
+
+        is_vbpl = args.category == "01_vbpl"
+        section_key = "laws" if is_vbpl else "standards"
+        if section_key not in reg_data or not isinstance(reg_data[section_key], list):
+            reg_data[section_key] = []
+
+        # Find existing entry or create new
+        existing_idx = -1
+        slug_norm = args.slug.lower().replace("-", "_")
+        for idx, item in enumerate(reg_data[section_key]):
+            if isinstance(item, dict):
+                item_id = str(item.get("id", "")).lower().replace("-", "_")
+                item_bundle = str(item.get("bundle_path", "")).strip("/").split("/")[-1].lower().replace("-", "_")
+                item_doc_num = str(item.get("document_number", "")).strip()
+                raw_id = str(raw_meta.get("id", "")).lower().replace("-", "_")
+                raw_doc_num = str(raw_meta.get("document_number", "")).strip()
+
+                if (
+                    (item_id and item_id in (slug_norm, raw_id))
+                    or (item_bundle and item_bundle in (slug_norm, raw_id))
+                    or (raw_doc_num and item_doc_num and item_doc_num.upper() == raw_doc_num.upper())
+                ):
+                    existing_idx = idx
+                    break
+
+        doc_num = raw_meta.get("document_number", args.slug.replace("_", " ").upper())
+        if is_vbpl:
+            default_type = "Nghị định"
+            default_issued = "Chính phủ"
+            default_title = f"Văn bản quy phạm pháp luật {doc_num}"
+        elif args.category == "02_qcvn":
+            default_type = "Quy chuẩn kỹ thuật"
+            default_issued = "Bộ Xây dựng"
+            default_title = f"Quy chuẩn kỹ thuật quốc gia {doc_num}"
+        else:
+            default_type = "Tiêu chuẩn quốc gia"
+            default_issued = "Bộ Khoa học và Công nghệ"
+            default_title = f"Tiêu chuẩn quốc gia {doc_num}"
+
+        doc_title = raw_meta.get("title", default_title)
+        pdf_status = "verified" if (target_pdf and target_pdf.exists()) else raw_meta.get("pdf_status", "pending_download")
+
+        new_entry: dict[str, Any] = {
+            "id": raw_meta.get("id", args.slug),
+            "document_number": doc_num,
+            "type": raw_meta.get("type", default_type),
+            "issued_by": raw_meta.get("issued_by", default_issued),
+            "signer": raw_meta.get("signer", "Thủ tướng Chính phủ" if is_vbpl else ""),
+            "issued_date": raw_meta.get("issued_date", datetime.now(timezone.utc).strftime("%Y-%m-%d")),
+            "effective_date": raw_meta.get("effective_date", datetime.now(timezone.utc).strftime("%Y-%m-%d")),
+            "published_date": raw_meta.get("published_date", datetime.now(timezone.utc).strftime("%Y-%m-%d")),
+            "status": raw_meta.get("status", "active"),
+            "relations": raw_meta.get("relations", {}),
+            "title": doc_title,
+            "bundle_path": f"legal_docs/{args.category}/{args.slug}/",
+            "source_url": raw_meta.get("source_url", raw_meta.get("url", "")),
+            "sha256": docx_sha,
+            "pdf_path": f"legal_docs/{args.category}/{args.slug}/sources/{args.slug}.pdf" if target_pdf else raw_meta.get("pdf_path", f"legal_docs/{args.category}/{args.slug}/sources/{args.slug}.pdf"),
+            "pdf_sha256": pdf_sha,
+            "cong_bao_number": raw_meta.get("cong_bao_number", "Đang cập nhật"),
+            "pdf_status": pdf_status,
+            "source_file": f"legal_docs/{args.category}/{args.slug}/sources/{args.slug}.docx",
+            "source_file_size_kb": round(input_docx.stat().st_size / 1024, 1),
+            "source_assets": {
+                "pdf": {
+                    "sha256": pdf_sha,
+                    "vault_path": f"CCBA_Legal_Vault/{args.category}/{args.slug}/{args.slug}.pdf",
+                    "status": pdf_status,
+                },
+                "docx": {
+                    "sha256": docx_sha,
+                    "vault_path": f"CCBA_Legal_Vault/{args.category}/{args.slug}/{args.slug}.docx",
+                    "status": "verified",
+                },
+            },
+        }
+        for k, v in raw_meta.items():
+            if k not in new_entry or not new_entry[k]:
+                new_entry[k] = v
+
+        if existing_idx >= 0:
+            existing_entry = reg_data[section_key][existing_idx]
+            # Preserve existing rich metadata if new entry only has fallback/mock defaults
+            if "title" in existing_entry and (doc_title.startswith("Mock Document") or doc_title.startswith("Document ")):
+                new_entry["title"] = existing_entry["title"]
+            if "signer" in existing_entry and not raw_meta.get("signer"):
+                new_entry["signer"] = existing_entry["signer"]
+            if "issued_by" in existing_entry and not raw_meta.get("issued_by"):
+                new_entry["issued_by"] = existing_entry["issued_by"]
+            if "relations" in existing_entry and not raw_meta.get("relations"):
+                new_entry["relations"] = existing_entry["relations"]
+            if "issued_date" in existing_entry and not raw_meta.get("issued_date"):
+                new_entry["issued_date"] = existing_entry["issued_date"]
+            if "effective_date" in existing_entry and not raw_meta.get("effective_date"):
+                new_entry["effective_date"] = existing_entry["effective_date"]
+
+            if "source_assets" in existing_entry and isinstance(existing_entry["source_assets"], dict):
+                for asset_k, asset_v in existing_entry["source_assets"].items():
+                    if asset_k not in new_entry["source_assets"]:
+                        new_entry["source_assets"][asset_k] = asset_v
+            existing_entry.update(new_entry)
+            doc_meta = existing_entry
+        else:
+            reg_data[section_key].append(new_entry)
+            doc_meta = new_entry
+
+        summary = reg_data.setdefault("registry_summary", {})
+        cat_map = summary.setdefault("categories", {})
+        cat_map[args.category] = sum(
+            1 for item in (reg_data.get("laws", []) + reg_data.get("standards", []))
+            if isinstance(item, dict) and f"/{args.category}/" in item.get("bundle_path", "")
+        )
+        summary["total_documents"] = len(reg_data.get("laws", [])) + len(reg_data.get("standards", []))
+        reg_data["updated_at"] = datetime.now(timezone.utc).isoformat()
+
+        with open(registry_file, "w", encoding="utf-8") as f:
+            yaml.dump(reg_data, f, allow_unicode=True, sort_keys=False, indent=2)
+
         res = convert_docx_to_okf_bundle(
             docx_path=input_docx,
             target_bundle_dir=target_bundle_dir,
             output_filename=f"{args.slug}.md",
             doc_type=args.doc_type,
+            registry_file=registry_file,
+            doc_meta=doc_meta,
         )
         print(f"\n[INGEST SUCCESSFUL]: {res}")
 

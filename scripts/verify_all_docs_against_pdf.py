@@ -15,7 +15,10 @@ import sys
 from pathlib import Path
 from typing import Any
 
-import fitz  # PyMuPDF
+try:
+    import pymupdf as fitz  # PyMuPDF
+except ImportError:
+    import fitz  # PyMuPDF
 import yaml
 
 # Suppress PyMuPDF internal warnings/errors
