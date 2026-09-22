@@ -46,7 +46,7 @@ Xây dựng và tích hợp trọn vẹn cơ chế **Điều Phối Động 5 B�
 ---
 
 ## 🌫️ Sương Mù Chiến Trận / Chưa Xác Định Rõ (Not yet specified)
-- **[Fog-01] Đóng gói CLI `init-spoke` tất định:** Hiện tại `/ccba-init-spoke` hoàn toàn dựa vào AI Agent tự tạo file Markdown. Chuyển thành Issue RFC tiếp theo trên Hub: `rfc(cli): deterministic init-spoke command to eliminate LLM non-determinism`.
+- **[Fog-01] Đóng gói CLI `init-spoke` tất định:** Hiện tại `/ccba-init-spoke` hoàn toàn dựa vào AI Agent tự tạo file Markdown. Đã chuyển giao và mở Issue RFC chính thức trên Hub: [#329 (vvChu/ccba-agent-platform)](https://github.com/vvChu/ccba-agent-platform/issues/329).
 - ~~**[Fog-02] Kiểm thử Cross-Drive trên Windows Native:**~~ **[ĐÃ GIẢI TỎA]** Đã hoàn thiện qua unit test mô phỏng `test_additive_merge_handles_cross_drive_value_error` tại `tests/test_spoke_adopter.py`, xác nhận tự động gán `rel_hub_str = None` an toàn khi ném `ValueError`.
 
 ---
