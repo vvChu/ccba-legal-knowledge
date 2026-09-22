@@ -336,6 +336,10 @@ class LegalSpokeValidator:
                     )
             except json.JSONDecodeError as exc:
                 self.errors.append(f"JSON Error [{doc_dir.name}]: Failed to parse clauses.json: {exc}")
+        else:
+            self.errors.append(
+                f"Missing AST Error [{doc_dir.name}]: clauses.json is missing on disk. AST generation is required for VBPL bundle."
+            )
 
     def validate_pdf_metadata_and_ast_enrichment(self) -> Tuple[int, int]:
         """Validate that legal_registry.yaml and clauses.json have rich PDF and Jurisdiction AST attributes."""

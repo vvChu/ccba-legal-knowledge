@@ -113,3 +113,14 @@ def test_gate_4_detects_empty_ast_clauses(tmp_path: Path) -> None:
     validator = LegalSpokeValidator(tmp_path)
     validator._check_vbpl_fake_data(bundle_dir)
     assert any("Empty AST Error" in err for err in validator.errors)
+
+
+def test_gate_4_detects_missing_ast_clauses(tmp_path: Path) -> None:
+    """Gate 4 must flag Missing AST Error when clauses.json is missing on disk."""
+    bundle_dir = tmp_path / "legal_docs" / "01_vbpl" / "custom_vbpl_no_ast"
+    bundle_dir.mkdir(parents=True)
+    (bundle_dir / "custom_vbpl_no_ast.md").write_text("### Điều 1. Điều khoản đầu tiên\nNội dung", encoding="utf-8")
+
+    validator = LegalSpokeValidator(tmp_path)
+    validator._check_vbpl_fake_data(bundle_dir)
+    assert any("Missing AST Error" in err for err in validator.errors)
