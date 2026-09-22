@@ -22,10 +22,10 @@ if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
 
 try:
-    from ccba_legal.gold_standard.ast_qa_generator import generate_bundle_ast_and_qa
+    from ccba_legal import generate_bundle_ast_and_qa
 except ImportError as exc:
     print(f"[Error] Failed to import ccba_legal: {exc}")
-    print("Please run with Hub virtualenv: /home/vvc/ccba/ccba-agent-platform/.venv/bin/python")
+    print("Please run within the activated virtualenv (.venv) linked to Hub packages.")
     sys.exit(1)
 
 
