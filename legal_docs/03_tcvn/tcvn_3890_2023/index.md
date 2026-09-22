@@ -1,9 +1,10 @@
 # Gói Tri Thức Quy Chuẩn / Tiêu Chuẩn OKF v2.4: TCVN 3890:2023
 
-> [!NOTE]
+> [!WARNING]
 > **Tài liệu:** TCVN 3890:2023 — Phòng cháy và chữa cháy - Phương tiện phòng cháy và chữa cháy cho nhà và công trình - Trang bị, bố trí
 > **Cơ quan ban hành:** Bộ Khoa học và Công nghệ (Quyết định số 261/QĐ-BKHCN).
-> **Hiệu lực:** 2023-02-28.
+> **Tình trạng:** 🔴 **HẾT HIỆU LỰC (EXPIRED)**.
+> **Văn bản thay thế hiện hành:** QCVN 10:2025/BCA (Quy chuẩn kỹ thuật quốc gia về Phương tiện phòng cháy và chữa cháy cho nhà và công trình).
 > **Mỏ neo PDF Công báo:** [tcvn_3890_2023.pdf](./sources/tcvn_3890_2023.pdf) *(SHA-256: `1c22384f4a212eeb14b60e5dd12e9ab6dcac8c778fb1cf2a1c5865a4090c5e73`)*.
 
 ---

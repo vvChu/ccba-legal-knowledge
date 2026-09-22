@@ -18,7 +18,9 @@ Validates:
 15. OKF Provenance & Version Attestation Gate.
 """
 
+import argparse
 import csv
+from datetime import datetime, timezone
 import json
 import os
 import re
@@ -70,11 +72,12 @@ if hasattr(sys.stdout, "reconfigure"):
 class LegalSpokeValidator:
     """Validator engine for CCBA Legal Knowledge Spoke."""
 
-    def __init__(self, root_dir: Path) -> None:
+    def __init__(self, root_dir: Path, target_bundle: Optional[str] = None) -> None:
         """Initialize validator with project root directory."""
         self.root_dir = root_dir
         self.legal_docs_dir = root_dir / "legal_docs"
         self.registry_file = root_dir / "legal_registry.yaml"
+        self.target_bundle = target_bundle
         self.errors: List[str] = []
         self.warnings: List[str] = []
 
@@ -142,6 +145,12 @@ class LegalSpokeValidator:
 
         for doc in all_docs:
             if isinstance(doc, dict):
+                if self.target_bundle:
+                    doc_id = doc.get("id", "")
+                    bundle_p = doc.get("bundle_path", "")
+                    doc_num = doc.get("document_number", "")
+                    if doc_id != self.target_bundle and self.target_bundle not in bundle_p and doc_num != self.target_bundle:
+                        continue
                 bundle_path_str = doc.get("bundle_path")
                 if bundle_path_str and not (self.root_dir / bundle_path_str).exists():
                     self.warnings.append(
@@ -162,7 +171,9 @@ class LegalSpokeValidator:
                 continue
 
             for doc_dir in cat_dir.iterdir():
-                if doc_dir.is_dir():
+                if doc_dir.is_dir() and not doc_dir.name.startswith("."):
+                    if self.target_bundle and doc_dir.name != self.target_bundle:
+                        continue
                     self._check_single_bundle_structure(doc_dir, cat)
 
         return (len(self.errors), len(self.warnings))
@@ -201,6 +212,8 @@ class LegalSpokeValidator:
             return (len(self.errors), len(self.warnings))
 
         for md_file in self.legal_docs_dir.rglob("*.md"):
+            if self.target_bundle and self.target_bundle not in md_file.parts:
+                continue
             content = self._safe_read_text(md_file)
             if content is None:
                 continue
@@ -234,6 +247,8 @@ class LegalSpokeValidator:
             for doc_dir in cat_dir.iterdir():
                 if not doc_dir.is_dir() or doc_dir.name.startswith("."):
                     continue
+                if self.target_bundle and doc_dir.name != self.target_bundle:
+                    continue
                 catalog_path = doc_dir / "tables" / "tables_catalog.json"
                 if not catalog_path.exists():
                     continue
@@ -265,26 +280,34 @@ class LegalSpokeValidator:
             return (len(self.errors), len(self.warnings))
 
         for doc_dir in vbpl_dir.iterdir():
-            if doc_dir.is_dir() and doc_dir.name.startswith("nghi_dinh_"):
-                self._check_decree_fake_data(doc_dir)
+            if not doc_dir.is_dir() or doc_dir.name.startswith("."):
+                continue
+            if self.target_bundle and doc_dir.name != self.target_bundle:
+                continue
+            self._check_vbpl_fake_data(doc_dir)
 
         return (len(self.errors), len(self.warnings))
 
-    def _check_decree_fake_data(self, doc_dir: Path) -> None:
-        """Check decree bundle for truncated content or missing articles."""
+    def _check_vbpl_fake_data(self, doc_dir: Path) -> None:
+        """Check VBPL bundle for truncated content, empty AST, or missing articles."""
         primary_md = doc_dir / f"{doc_dir.name}.md"
         if not primary_md.exists():
             return
 
         size_kb = primary_md.stat().st_size / 1024
-        if size_kb < 20:
+        if size_kb < 20 and (doc_dir.name.startswith("nghi_dinh_") or doc_dir.name.startswith("luat_")):
             self.warnings.append(
-                f"Fake Data Warning [{doc_dir.name}]: Decrees usually exceed 20KB, but found {size_kb:.1f} KB. Verify full text presence."
+                f"Fake Data Warning [{doc_dir.name}]: Decrees/Laws usually exceed 20KB, but found {size_kb:.1f} KB. Verify full text presence."
             )
 
         content = self._safe_read_text(primary_md)
         if content:
-            dieu_nums = sorted(int(m) for m in re.findall(r"### Điều (\d+)\.", content))
+            dieu_nums = sorted(
+                int(m)
+                for m in re.findall(
+                    r"(?:###|##)\s*(?:__|\*\*)?\s*Điều\s+(\d+)\.", content, flags=re.IGNORECASE
+                )
+            )
             for i in range(len(dieu_nums) - 1):
                 gap = dieu_nums[i + 1] - dieu_nums[i]
                 if gap > 3:
@@ -303,12 +326,20 @@ class LegalSpokeValidator:
                 )
                 if not isinstance(clauses_data, list):
                     clauses_data = []
-                if len(clauses_data) < 25:
+                if len(clauses_data) == 0:
+                    self.errors.append(
+                        f"Empty AST Error [{doc_dir.name}]: Found 0 clauses in clauses.json. AST generation failed or is empty."
+                    )
+                elif len(clauses_data) < 25:
                     self.warnings.append(
                         f"Fake Data Warning [{doc_dir.name}]: Found only {len(clauses_data)} clauses in clauses.json. Expected >= 30."
                     )
             except json.JSONDecodeError as exc:
                 self.errors.append(f"JSON Error [{doc_dir.name}]: Failed to parse clauses.json: {exc}")
+        else:
+            self.errors.append(
+                f"Missing AST Error [{doc_dir.name}]: clauses.json is missing on disk. AST generation is required for VBPL bundle."
+            )
 
     def validate_pdf_metadata_and_ast_enrichment(self) -> Tuple[int, int]:
         """Validate that legal_registry.yaml and clauses.json have rich PDF and Jurisdiction AST attributes."""
@@ -323,11 +354,16 @@ class LegalSpokeValidator:
         qcvn_dir = self.legal_docs_dir / "02_qcvn"
         if qcvn_dir.exists():
             for doc_dir in qcvn_dir.iterdir():
-                if doc_dir.is_dir():
+                if doc_dir.is_dir() and not doc_dir.name.startswith("."):
+                    if self.target_bundle and doc_dir.name != self.target_bundle:
+                        continue
                     self._validate_qcvn_ast_clauses(doc_dir)
 
         # Sub-Gate 5.2: Dual-PDF Archive & Provenance Invariant Check (ADR 0043)
         self._validate_dual_pdf_archive_invariant()
+
+        # Sub-Gate 5.3: Legal Validity & In-Force Verification Gate (RULE-3.1 & ADR 0059)
+        self._validate_legal_validity_and_in_force()
 
         return (len(self.errors), len(self.warnings))
 
@@ -342,6 +378,8 @@ class LegalSpokeValidator:
                 continue
             for doc_dir in cat_dir.iterdir():
                 if not doc_dir.is_dir() or doc_dir.name.startswith("."):
+                    continue
+                if self.target_bundle and doc_dir.name != self.target_bundle:
                     continue
                 meta_file = doc_dir / "metadata.yaml"
                 if not meta_file.exists():
@@ -367,6 +405,230 @@ class LegalSpokeValidator:
                         f"Dual-PDF Warning [{doc_dir.name}]: Failed to inspect metadata.yaml for PDF origin: {exc}"
                     )
 
+    @staticmethod
+    def _canonical_keys(val: Any) -> Set[str]:
+        """Generate canonical lookup tokens preserving document types and numbers."""
+        if not val:
+            return set()
+        s = str(val).strip().lower()
+        s = s.replace("đ", "d")
+        # Replace separators including colon, slash, hyphen, period with underscore
+        s = re.sub(r"[\s\/\-\.:]+", "_", s)
+        s = re.sub(r"_+", "_", s).strip("_")
+        keys = {s}
+        for prefix in ("nghi_dinh_", "thong_tu_", "quyet_dinh_", "nghi_quyet_", "luat_"):
+            if s.startswith(prefix):
+                keys.add(s[len(prefix):])
+        m = re.search(r"(\d+_\d{4}_[a-z0-9_]+)$", s)
+        if m:
+            keys.add(m.group(1))
+        return keys
+
+    def _validate_legal_validity_and_in_force(self) -> None:
+        """Sub-Gate 5.3: Legal Validity & In-Force Verification Gate (RULE-3.1 & ADR 0059).
+
+        Guarantees that:
+        1. Two-Tier Transitive Engine:
+           - Tier 1: Replacement DAG BFS from active documents. Any document in the reachable
+             replaced set CANNOT be 'active' (detects superseded docs automatically).
+           - Tier 2: Statutory Baseline Safety Floor (STATUTORY_BASELINE_REPEALED) as fallback.
+        2. Any document with 'status: expired' declared has:
+           - valid 'relations.replaced_by' reference or 'replaces' reference
+           - clear warning disclaimer in bundle's index.md
+        3. No document past its expiration_date retains 'status: active'.
+        """
+        STATUTORY_BASELINE_REPEALED: Dict[str, str] = {
+            "10/2021/NĐ-CP": "206/2026/NĐ-CP",
+            "15/2021/NĐ-CP": "217/2026/NĐ-CP",
+            "175/2024/NĐ-CP": "217/2026/NĐ-CP",
+            "06/2021/NĐ-CP": "207/2026/NĐ-CP",
+            "136/2020/NĐ-CP": "105/2025/NĐ-CP",
+            "16/2022/NĐ-CP": "339/2026/NĐ-CP",
+            "QCVN 06:2020/BXD": "QCVN 06:2022/BXD",
+        }
+
+        try:
+            with open(self.registry_file, "r", encoding="utf-8") as f:
+                data = yaml.safe_load(f) or {}
+        except Exception as exc:
+            self.errors.append(f"Sub-Gate 5.3 Error: Failed to load registry: {exc}")
+            return
+
+        all_items: List[Dict[str, Any]] = []
+        for sec in ["laws", "standards"]:
+            items = data.get(sec, [])
+            if isinstance(items, list):
+                all_items.extend(items)
+
+        today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+        # Multi-key canonical index: maps canonical token -> item
+        doc_by_canonical_key: Dict[str, Dict[str, Any]] = {}
+        for item in all_items:
+            if not isinstance(item, dict):
+                continue
+            doc_id = str(item.get("id", ""))
+            doc_num = str(item.get("document_number", ""))
+            item_keys = self._canonical_keys(doc_id) | self._canonical_keys(doc_num)
+            for k in item_keys:
+                doc_by_canonical_key[k] = item
+
+        def _get_replaces(it: Dict[str, Any]) -> List[str]:
+            rels = it.get("relations") if isinstance(it.get("relations"), dict) else {}
+            rep = rels.get("replaces") or it.get("replaces")
+            if not rep:
+                return []
+            if isinstance(rep, list):
+                return [str(x).strip() for x in rep if x]
+            return [str(rep).strip()]
+
+        # Tier 1: Replacement DAG BFS from active documents
+        superseded_by_map: Dict[str, str] = {}
+        active_items = [
+            it
+            for it in all_items
+            if isinstance(it, dict)
+            and str(it.get("status", "")).strip().lower() in {"active", "current", "còn hiệu lực"}
+        ]
+
+        from collections import deque
+
+        queue: deque[Tuple[Dict[str, Any], Dict[str, Any]]] = deque()
+        visited_keys: Set[str] = set()
+
+        for active_it in active_items:
+            queue.append((active_it, active_it))
+
+        while queue:
+            curr_it, source_active = queue.popleft()
+            source_label = str(
+                source_active.get("document_number") or source_active.get("id", "Active Doc")
+            ).strip()
+            source_keys = self._canonical_keys(source_active.get("id", "")) | self._canonical_keys(
+                source_active.get("document_number", "")
+            )
+
+            # 1. Forward edges: curr_it declares 'replaces'
+            for target_str in _get_replaces(curr_it):
+                target_keys = self._canonical_keys(target_str)
+                for tk in target_keys:
+                    if tk not in source_keys:
+                        superseded_by_map[tk] = source_label
+                    if tk not in visited_keys:
+                        visited_keys.add(tk)
+                        if tk in doc_by_canonical_key:
+                            queue.append((doc_by_canonical_key[tk], source_active))
+
+            # 2. Backward edges: any document whose 'replaced_by' points to curr_it
+            curr_keys = self._canonical_keys(curr_it.get("id", "")) | self._canonical_keys(
+                curr_it.get("document_number", "")
+            )
+            for candidate in all_items:
+                if not isinstance(candidate, dict):
+                    continue
+                cand_rels = (
+                    candidate.get("relations")
+                    if isinstance(candidate.get("relations"), dict)
+                    else {}
+                )
+                rep_by = cand_rels.get("replaced_by") or candidate.get("replaced_by")
+                if rep_by:
+                    rep_by_keys = self._canonical_keys(str(rep_by).strip())
+                    if rep_by_keys & curr_keys:
+                        cand_id = str(candidate.get("id", ""))
+                        cand_num = str(candidate.get("document_number", ""))
+                        for ck in self._canonical_keys(cand_id) | self._canonical_keys(cand_num):
+                            if ck not in source_keys:
+                                superseded_by_map[ck] = source_label
+                            if ck not in visited_keys:
+                                visited_keys.add(ck)
+                                queue.append((candidate, source_active))
+
+        for item in all_items:
+            if not isinstance(item, dict):
+                continue
+            doc_id = str(item.get("id", "UNKNOWN"))
+            bundle_p = str(item.get("bundle_path", ""))
+            doc_num = str(item.get("document_number", "")).strip()
+            status = str(item.get("status", "")).strip().lower()
+            relations = item.get("relations") if isinstance(item.get("relations"), dict) else {}
+
+            if self.target_bundle:
+                if (
+                    doc_id != self.target_bundle
+                    and self.target_bundle not in bundle_p
+                    and doc_num != self.target_bundle
+                ):
+                    continue
+
+            # 1. Banned Expired Check (Tier 1 DAG BFS + Tier 2 Statutory Baseline Floor)
+            if status in {"active", "current", "còn hiệu lực"}:
+                item_keys = self._canonical_keys(doc_id) | self._canonical_keys(doc_num)
+                matching_superseded = item_keys & superseded_by_map.keys()
+                if matching_superseded:
+                    replacing = superseded_by_map[next(iter(matching_superseded))]
+                    self.errors.append(
+                        f"Legal Validity Hard Floor Violation [{doc_id}]: {doc_num} is repealed and strictly banned "
+                        f"from status: active (RULE-3.1). Must use {replacing} instead."
+                    )
+                else:
+                    for banned_num, replacement in STATUTORY_BASELINE_REPEALED.items():
+                        banned_keys = self._canonical_keys(banned_num)
+                        if item_keys & banned_keys:
+                            self.errors.append(
+                                f"Legal Validity Hard Floor Violation [{doc_id}]: {doc_num} is repealed and strictly banned "
+                                f"from status: active (RULE-3.1). Must use {replacement} instead."
+                            )
+                            break
+
+            # 2. Expiration Date Check vs Status
+            exp_date = str(item.get("expiration_date", "")).strip()
+            if exp_date and exp_date <= today_str:
+                if status in {"active", "current", "còn hiệu lực"}:
+                    self.errors.append(
+                        f"Legal Validity Inconsistency [{doc_id}]: Document {doc_num} has expiration_date {exp_date} "
+                        f"<= {today_str} but status is still '{status}'. Must be 'expired' (RULE-3.1)."
+                    )
+
+            # 3. Expired Document Integrity Check
+            if status in {"expired", "hết hiệu lực"}:
+                if not relations.get("replaced_by") and not item.get("replaces"):
+                    self.warnings.append(
+                        f"Legal Validity Warning [{doc_id}]: Expired document {doc_num} lacks 'relations.replaced_by' "
+                        f"in legal_registry.yaml."
+                    )
+
+                # Check index.md disclaimer in bundle
+                if bundle_p:
+                    bundle_dir = self.root_dir / bundle_p.strip("/")
+                    index_file = bundle_dir / "index.md"
+                    if index_file.exists():
+                        idx_text = index_file.read_text(encoding="utf-8").upper()
+                        if "HẾT HIỆU LỰC" not in idx_text and "EXPIRED" not in idx_text:
+                            self.warnings.append(
+                                f"Legal Validity Warning [{doc_id}]: index.md lacks clear 'HẾT HIỆU LỰC / EXPIRED' warning disclaimer."
+                            )
+
+            # 4. Split-Brain Status Check between legal_registry.yaml and bundle metadata.yaml
+            if bundle_p:
+                bundle_dir = self.root_dir / bundle_p.strip("/")
+                meta_file = bundle_dir / "metadata.yaml"
+                if meta_file.exists():
+                    try:
+                        b_meta = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                        b_status = str(b_meta.get("status", "")).strip().lower()
+                        norm_reg_status = "expired" if status in {"expired", "hết hiệu lực"} else "active"
+                        norm_b_status = "expired" if b_status in {"expired", "hết hiệu lực"} else "active"
+                        if norm_reg_status != norm_b_status:
+                            self.errors.append(
+                                f"Split-Brain Status Error [{doc_id}]: Status in legal_registry.yaml ('{status}') "
+                                f"does not match bundle metadata.yaml ('{b_status}')."
+                            )
+                    except Exception as exc:
+                        self.warnings.append(
+                            f"Metadata Parse Warning [{doc_id}]: Failed to read bundle metadata.yaml: {exc}"
+                        )
+
     def _validate_registry_pdf_meta(self, data: Dict[str, Any]) -> None:
         """Validate PDF fields in legal_registry.yaml."""
         laws = data.get("laws", [])
@@ -379,6 +641,10 @@ class LegalSpokeValidator:
         for item in all_items:
             if isinstance(item, dict):
                 doc_id = item.get("id", "UNKNOWN")
+                bundle_p = item.get("bundle_path", "")
+                doc_num = item.get("document_number", "")
+                if self.target_bundle and doc_id != self.target_bundle and self.target_bundle not in bundle_p and doc_num != self.target_bundle:
+                    continue
                 if "pdf_status" not in item:
                     self.errors.append(f"PDF Metadata Error [{doc_id}]: Missing 'pdf_status' in legal_registry.yaml")
                 if "cong_bao_number" not in item:
@@ -428,7 +694,9 @@ class LegalSpokeValidator:
         vbpl_dir = self.legal_docs_dir / "01_vbpl"
         if vbpl_dir.exists():
             for doc_dir in vbpl_dir.iterdir():
-                if not doc_dir.is_dir():
+                if not doc_dir.is_dir() or doc_dir.name.startswith("."):
+                    continue
+                if self.target_bundle and doc_dir.name != self.target_bundle:
                     continue
 
                 target_md = doc_dir / f"{doc_dir.name}.md"
@@ -446,7 +714,9 @@ class LegalSpokeValidator:
             if not cat_dir.exists():
                 continue
             for doc_dir in cat_dir.iterdir():
-                if not doc_dir.is_dir():
+                if not doc_dir.is_dir() or doc_dir.name.startswith("."):
+                    continue
+                if self.target_bundle and doc_dir.name != self.target_bundle:
                     continue
                 std_target_md = doc_dir / f"{doc_dir.name}.md"
                 std_primary_md = std_target_md if std_target_md.exists() else None
@@ -564,14 +834,18 @@ class LegalSpokeValidator:
             if not cat_dir.exists():
                 continue
             for doc_dir in cat_dir.iterdir():
-                if doc_dir.is_dir():
+                if doc_dir.is_dir() and not doc_dir.name.startswith("."):
+                    if self.target_bundle and doc_dir.name != self.target_bundle:
+                        continue
                     self._check_bundle_templates_and_tables(doc_dir)
 
         for cat_dir in [self.legal_docs_dir / "02_qcvn", self.legal_docs_dir / "03_tcvn"]:
             if not cat_dir.exists():
                 continue
             for doc_dir in cat_dir.iterdir():
-                if doc_dir.is_dir():
+                if doc_dir.is_dir() and not doc_dir.name.startswith("."):
+                    if self.target_bundle and doc_dir.name != self.target_bundle:
+                        continue
                     self._check_figures_catalog(doc_dir)
 
         return (len(self.errors), len(self.warnings))
@@ -710,6 +984,8 @@ class LegalSpokeValidator:
             from scripts.lint_visual_parity import lint_document
 
         for md_file in sorted(self.legal_docs_dir.rglob("*.md")):
+            if self.target_bundle and self.target_bundle not in md_file.parts:
+                continue
             rel = md_file.relative_to(self.root_dir)
             content = self._safe_read_text(md_file)
             if content is None:
@@ -743,8 +1019,11 @@ class LegalSpokeValidator:
         adr_files = sorted(f for f in adr_dir.glob("*.md") if f.name not in ("README.md", "TRACEABILITY_MATRIX.md"))
         adr_list = sorted([parse_adr_file(f) for f in adr_files], key=lambda x: x["num"])
         known_nums = {a["num"] for a in adr_list}
-        # Include Hub Platform ADR numbers if Hub is accessible
-        for hub_candidate in [Path("D:/GitHubProjects/ccba-agent-platform/docs/adr"), self.root_dir.parent / "ccba-agent-platform" / "docs" / "adr"]:
+        hub_env = os.environ.get("CCBA_HUB_PATH")
+        hub_candidates = [self.root_dir.parent / "ccba-agent-platform" / "docs" / "adr"]
+        if hub_env:
+            hub_candidates.insert(0, Path(hub_env) / "docs" / "adr")
+        for hub_candidate in hub_candidates:
             if hub_candidate.exists():
                 for f in hub_candidate.glob("*.md"):
                     m = re.match(r"^(\d+)-", f.name)
@@ -982,6 +1261,8 @@ class LegalSpokeValidator:
             for bundle_dir in cat_dir.iterdir():
                 if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
                     continue
+                if self.target_bundle and bundle_dir.name != self.target_bundle:
+                    continue
 
                 sources_dir = bundle_dir / DIR_SOURCES
                 if not sources_dir.exists() or not list(sources_dir.glob("*.docx")):
@@ -1012,6 +1293,8 @@ class LegalSpokeValidator:
                 continue
             for bundle_dir in category_dir.iterdir():
                 if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
+                    continue
+                if self.target_bundle and bundle_dir.name != self.target_bundle:
                     continue
 
                 figures_dir = bundle_dir / "figures"
@@ -1150,6 +1433,8 @@ class LegalSpokeValidator:
             for bundle_dir in category_dir.iterdir():
                 if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
                     continue
+                if self.target_bundle and bundle_dir.name != self.target_bundle:
+                    continue
 
                 tables_dir = bundle_dir / "tables"
                 csv_dir = tables_dir / "csv"
@@ -1257,6 +1542,8 @@ class LegalSpokeValidator:
             # Skip sources/ directory which contains raw constituent files
             if DIR_SOURCES in md_file.parts:
                 continue
+            if self.target_bundle and self.target_bundle not in md_file.parts:
+                continue
 
             rel_path = md_file.relative_to(self.root_dir)
             bundle_name = md_file.parent.name
@@ -1351,6 +1638,8 @@ class LegalSpokeValidator:
             for bundle_dir in sorted(cat_dir.iterdir()):
                 if not bundle_dir.is_dir() or bundle_dir.name.startswith("."):
                     continue
+                if self.target_bundle and bundle_dir.name != self.target_bundle:
+                    continue
 
                 meta_file = bundle_dir / "metadata.yaml"
                 if not meta_file.exists():
@@ -1403,6 +1692,8 @@ class LegalSpokeValidator:
         print("       CCBA LEGAL SPOKE MASTER INTEGRITY & SCHEMA VALIDATOR      ")
         print("=================================================================")
         print(f"Target Workspace: {self.root_dir}\n")
+        if self.target_bundle:
+            print(f"🎯 Scoped Target Bundle: {self.target_bundle}\n")
 
         self.validate_registry()
         self.validate_okf_bundles()
@@ -1456,8 +1747,11 @@ class LegalSpokeValidator:
 
 def main() -> None:
     """CLI entry point for running validator."""
+    parser = argparse.ArgumentParser(description="CCBA Legal Spoke Automated Integrity & Schema Validator")
+    parser.add_argument("--bundle", default=None, help="Validate a specific document bundle (scoped validation)")
+    args = parser.parse_args()
     root_dir = Path(__file__).resolve().parent.parent
-    validator = LegalSpokeValidator(root_dir)
+    validator = LegalSpokeValidator(root_dir, target_bundle=args.bundle)
     success = validator.run_all_checks()
     sys.exit(0 if success else 1)
 

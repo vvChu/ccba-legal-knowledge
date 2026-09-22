@@ -20,7 +20,7 @@ do_not_touch:
 - .env
 hub_packages:
 - ccba-legal-intel
-hub_path: D:\GitHubProjects\ccba-agent-platform
+hub_path: ../ccba-agent-platform
 issue_tracker: local_json
 knowledge_base:
   primary_notebook_id: 6dca7e4e-c407-4d1f-882a-e0d9459d1120
@@ -39,7 +39,7 @@ project:
     quy của CCBA Agent Platform.
 
     '
-  hub_path: D:/GitHubProjects/ccba-agent-platform
+  hub_path: ../ccba-agent-platform
   is_hub: false
   mode: knowledge-base
   name: ccba-legal-knowledge
