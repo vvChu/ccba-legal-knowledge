@@ -889,3 +889,19 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
   2. **Rào Chắn Chống Trùng Lặp Khi Thao Tác Remote (Remote Mutation Idempotency & State Inspection Gate):**
      - Đối với mọi lệnh có side-effect trên remote (`gh issue create`, `gh pr create`, `git push`, Cloud Sync): nếu tiến trình bị gián đoạn, timeout hoặc huỷ giữa chừng, Agent **BẮT BUỘC phải kiểm tra trạng thái remote trước (`gh issue list`, `git status`)** trước khi quyết định chạy lại.
      - Tích hợp đề xuất nâng cấp kiến trúc tổng thể lên Hub qua Epic Issue [#299](https://github.com/vvChu/ccba-agent-platform/issues/299) và lưu vết tại `.agents/proposals/2026-09-20_cross-platform-and-multi-client-governance.md`.
+
+---
+
+## 53. Rào Chắn Hiệu Lực Pháp Lý Tuyệt Đối & Thay Thế NĐ 10/2021 (Legal Validity Invariant)
+
+- **Nguyên Tắc Cốt Lõi (RULE-3.1):**
+  - MỌI văn bản pháp luật viện dẫn trong Spoke và các tác vụ tư vấn / thẩm tra của Agent BẮT BUỘC ĐANG CÓ HIỆU LỰC (CURRENT / IN-FORCE).
+  - VĂN BẢN HIỆN HÀNH:
+    - **Luật Xây dựng 2025** (Luật số `135/2025/QH15`, có hiệu lực từ 01/07/2026).
+    - **Nghị định 217/2026/NĐ-CP** (Quản lý Hoạt động Xây dựng — thay thế NĐ 175/2024 & NĐ 15/2021).
+    - **Nghị định 207/2026/NĐ-CP** (Quản lý Chất lượng & Bảo trì — thay thế NĐ 06/2021).
+    - **Nghị định 206/2026/NĐ-CP** (Quản lý Chi phí Đầu tư Xây dựng — thay thế NĐ 10/2021/NĐ-CP từ 01/07/2026).
+- **Văn Bản Đã Hết Hiệu Lực (Hard Floor Invariant):**
+  - TUYỆT ĐỐI CẤM dùng NĐ 175/2024/NĐ-CP, NĐ 15/2021/NĐ-CP, NĐ 06/2021/NĐ-CP, và **NĐ 10/2021/NĐ-CP** làm căn cứ pháp lý hiện tại.
+  - Trong `legal_registry.yaml` và `metadata.yaml`, các văn bản này bắt buộc gắn `status: expired` và khai báo `relations.replaced_by` trỏ chính xác về văn bản thay thế.
+  - Mọi tác vụ tra cứu tri thức (RAG, AST query) tự động bỏ qua văn bản `expired` trừ khi người dùng chủ đích truy vấn lịch sử hoặc điều khoản chuyển tiếp.

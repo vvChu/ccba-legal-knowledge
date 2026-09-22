@@ -663,7 +663,10 @@ def main() -> None:
                 },
             },
         }
+        EXCLUDED_REGISTRY_KEYS = {"content", "html", "raw_html", "text", "body", "slug"}
         for k, v in raw_meta.items():
+            if k in EXCLUDED_REGISTRY_KEYS:
+                continue
             if k not in new_entry or not new_entry[k]:
                 new_entry[k] = v
 
