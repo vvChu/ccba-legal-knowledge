@@ -284,26 +284,30 @@ class LegalSpokeValidator:
                 continue
             if self.target_bundle and doc_dir.name != self.target_bundle:
                 continue
-            if doc_dir.name.startswith("nghi_dinh_"):
-                self._check_decree_fake_data(doc_dir)
+            self._check_vbpl_fake_data(doc_dir)
 
         return (len(self.errors), len(self.warnings))
 
-    def _check_decree_fake_data(self, doc_dir: Path) -> None:
-        """Check decree bundle for truncated content or missing articles."""
+    def _check_vbpl_fake_data(self, doc_dir: Path) -> None:
+        """Check VBPL bundle for truncated content, empty AST, or missing articles."""
         primary_md = doc_dir / f"{doc_dir.name}.md"
         if not primary_md.exists():
             return
 
         size_kb = primary_md.stat().st_size / 1024
-        if size_kb < 20:
+        if size_kb < 20 and (doc_dir.name.startswith("nghi_dinh_") or doc_dir.name.startswith("luat_")):
             self.warnings.append(
-                f"Fake Data Warning [{doc_dir.name}]: Decrees usually exceed 20KB, but found {size_kb:.1f} KB. Verify full text presence."
+                f"Fake Data Warning [{doc_dir.name}]: Decrees/Laws usually exceed 20KB, but found {size_kb:.1f} KB. Verify full text presence."
             )
 
         content = self._safe_read_text(primary_md)
         if content:
-            dieu_nums = sorted(int(m) for m in re.findall(r"### Điều (\d+)\.", content))
+            dieu_nums = sorted(
+                int(m)
+                for m in re.findall(
+                    r"(?:###|##)\s*(?:__|\*\*)?\s*Điều\s+(\d+)\.", content, flags=re.IGNORECASE
+                )
+            )
             for i in range(len(dieu_nums) - 1):
                 gap = dieu_nums[i + 1] - dieu_nums[i]
                 if gap > 3:
@@ -322,7 +326,11 @@ class LegalSpokeValidator:
                 )
                 if not isinstance(clauses_data, list):
                     clauses_data = []
-                if len(clauses_data) < 25:
+                if len(clauses_data) == 0:
+                    self.errors.append(
+                        f"Empty AST Error [{doc_dir.name}]: Found 0 clauses in clauses.json. AST generation failed or is empty."
+                    )
+                elif len(clauses_data) < 25:
                     self.warnings.append(
                         f"Fake Data Warning [{doc_dir.name}]: Found only {len(clauses_data)} clauses in clauses.json. Expected >= 30."
                     )
@@ -477,6 +485,26 @@ class LegalSpokeValidator:
                             self.warnings.append(
                                 f"Legal Validity Warning [{doc_id}]: index.md lacks clear 'HẾT HIỆU LỰC / EXPIRED' warning disclaimer."
                             )
+
+            # 4. Split-Brain Status Check between legal_registry.yaml and bundle metadata.yaml
+            if bundle_p:
+                bundle_dir = self.root_dir / bundle_p.strip("/")
+                meta_file = bundle_dir / "metadata.yaml"
+                if meta_file.exists():
+                    try:
+                        b_meta = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                        b_status = str(b_meta.get("status", "")).strip().lower()
+                        norm_reg_status = "expired" if status in {"expired", "hết hiệu lực"} else "active"
+                        norm_b_status = "expired" if b_status in {"expired", "hết hiệu lực"} else "active"
+                        if norm_reg_status != norm_b_status:
+                            self.errors.append(
+                                f"Split-Brain Status Error [{doc_id}]: Status in legal_registry.yaml ('{status}') "
+                                f"does not match bundle metadata.yaml ('{b_status}')."
+                            )
+                    except Exception as exc:
+                        self.warnings.append(
+                            f"Metadata Parse Warning [{doc_id}]: Failed to read bundle metadata.yaml: {exc}"
+                        )
 
     def _validate_registry_pdf_meta(self, data: Dict[str, Any]) -> None:
         """Validate PDF fields in legal_registry.yaml."""

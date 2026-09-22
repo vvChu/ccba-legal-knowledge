@@ -27,6 +27,8 @@ legal_basis:
 replaces: []
 relations:
   replaced_by: nghi_dinh_206_2026_nd_cp
+clauses_count: 249
+qa_count: 249
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
