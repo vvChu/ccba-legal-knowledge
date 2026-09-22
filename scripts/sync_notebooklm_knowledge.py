@@ -242,16 +242,34 @@ async def execute_sync(
     print(f"Bắt đầu kết nối Google NotebookLM (ID: {notebook_id})...")
     try:
         async with client as real_client:
+            existing_sources = await real_client.list_sources(notebook_id)
+            existing_names = {getattr(s, "title", "") for s in existing_sources}
+            print(f"Phát hiện {len(existing_sources)} nguồn đã tồn tại trên NotebookLM Cloud.")
+
+            uploaded_count = 0
+            skipped_count = 0
             for idx, item in enumerate(sources, 1):
-                file_path_str = str(item["file_path"].resolve())
-                print(f"[{idx:03d}/{len(sources)}] Đang tải lên: {item['rel_path'].name}...", end=" ")
+                fname = item["rel_path"].name
+                if fname in existing_names or item.get("title") in existing_names:
+                    print(f"[{idx:03d}/{len(sources)}] ⏭️ Đã tồn tại: {fname}")
+                    skipped_count += 1
+                    continue
+                print(f"[{idx:03d}/{len(sources)}] Đang tải lên: {fname}...", end=" ", flush=True)
                 try:
-                    await real_client.add_file_source(notebook_id, file_path_str)
+                    if hasattr(real_client, "raw_client") and hasattr(real_client.raw_client, "sources") and hasattr(real_client.raw_client.sources, "add_text"):
+                        content = item["file_path"].read_text(encoding="utf-8", errors="replace")
+                        await real_client.raw_client.sources.add_text(notebook_id, title=fname, content=content)
+                    else:
+                        file_path_str = str(item["file_path"].resolve())
+                        await real_client.add_file_source(notebook_id, file_path_str)
+                    uploaded_count += 1
                     print("✅ Xong.")
                 except Exception as e:
                     print(f"❌ Lỗi: {e}")
 
-        print("\n🎉 HOÀN THÀNH: Đã đồng bộ toàn bộ kho tri thức toàn diện lên Google NotebookLM!")
+        print(
+            f"\n🎉 HOÀN THÀNH: Đã đồng bộ kho tri thức lên Google NotebookLM (Mới: {uploaded_count}, Bỏ qua: {skipped_count})!"
+        )
         return 0
 
     except Exception as e:

@@ -72,12 +72,18 @@ if hasattr(sys.stdout, "reconfigure"):
 class LegalSpokeValidator:
     """Validator engine for CCBA Legal Knowledge Spoke."""
 
-    def __init__(self, root_dir: Path, target_bundle: Optional[str] = None) -> None:
+    def __init__(
+        self,
+        root_dir: Path,
+        target_bundle: Optional[str] = None,
+        skip_pdf_vault: bool = False,
+    ) -> None:
         """Initialize validator with project root directory."""
         self.root_dir = root_dir
         self.legal_docs_dir = root_dir / "legal_docs"
         self.registry_file = root_dir / "legal_registry.yaml"
         self.target_bundle = target_bundle
+        self.skip_pdf_vault = skip_pdf_vault or bool(os.getenv("CCBA_SKIP_PDF_VAULT"))
         self.errors: List[str] = []
         self.warnings: List[str] = []
 
@@ -301,6 +307,7 @@ class LegalSpokeValidator:
             )
 
         content = self._safe_read_text(primary_md)
+        dieu_nums: List[int] = []
         if content:
             dieu_nums = sorted(
                 int(m)
@@ -331,9 +338,11 @@ class LegalSpokeValidator:
                         f"Empty AST Error [{doc_dir.name}]: Found 0 clauses in clauses.json. AST generation failed or is empty."
                     )
                 elif len(clauses_data) < 25:
-                    self.warnings.append(
-                        f"Fake Data Warning [{doc_dir.name}]: Found only {len(clauses_data)} clauses in clauses.json. Expected >= 30."
-                    )
+                    max_dieu = max(dieu_nums, default=0)
+                    if max_dieu >= 10 or not dieu_nums:
+                        self.warnings.append(
+                            f"Fake Data Warning [{doc_dir.name}]: Found only {len(clauses_data)} clauses in clauses.json. Expected >= 30."
+                        )
             except json.JSONDecodeError as exc:
                 self.errors.append(f"JSON Error [{doc_dir.name}]: Failed to parse clauses.json: {exc}")
         else:
@@ -389,7 +398,7 @@ class LegalSpokeValidator:
                     if meta.get("pdf_origin") == "docx_vector_rendered":
                         raw_scan = doc_dir / DIR_SOURCES / f"{doc_dir.name}_raw_scan.pdf"
                         vector_pdf = doc_dir / DIR_SOURCES / f"{doc_dir.name}.pdf"
-                        is_ci = bool(os.getenv("CI") or os.getenv("GITHUB_ACTIONS"))
+                        is_ci = bool(os.getenv("CI") or os.getenv("GITHUB_ACTIONS")) or self.skip_pdf_vault
                         if not vector_pdf.exists():
                             if not is_ci:
                                 self.errors.append(
@@ -1749,9 +1758,18 @@ def main() -> None:
     """CLI entry point for running validator."""
     parser = argparse.ArgumentParser(description="CCBA Legal Spoke Automated Integrity & Schema Validator")
     parser.add_argument("--bundle", default=None, help="Validate a specific document bundle (scoped validation)")
+    parser.add_argument(
+        "--skip-pdf-vault",
+        action="store_true",
+        help="Skip missing local vector PDF checks (e.g. when Google Drive Vault is unmounted locally)",
+    )
     args = parser.parse_args()
     root_dir = Path(__file__).resolve().parent.parent
-    validator = LegalSpokeValidator(root_dir, target_bundle=args.bundle)
+    validator = LegalSpokeValidator(
+        root_dir,
+        target_bundle=args.bundle,
+        skip_pdf_vault=args.skip_pdf_vault,
+    )
     success = validator.run_all_checks()
     sys.exit(0 if success else 1)
 
