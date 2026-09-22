@@ -7,7 +7,9 @@ issued_by: Bộ Khoa học và Công nghệ
 signer: Bộ trưởng Bộ Khoa học và Công nghệ (QĐ 261/QĐ-BKHCN)
 issued_date: '2023-02-28'
 effective_date: '2023-02-28'
-status: active
+status: expired
+relations:
+  replaced_by: QCVN-10-2025-BCA
 pdf_path: legal_docs/03_tcvn/tcvn_3890_2023/sources/tcvn_3890_2023.pdf
 pdf_sha256: a66ec8bd1d7a41b9d9452f23762eff0bf6b13432d130be38d827bca7b5430eb0
 pdf_status: verified

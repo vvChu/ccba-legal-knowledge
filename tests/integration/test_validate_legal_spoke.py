@@ -124,3 +124,28 @@ def test_gate_4_detects_missing_ast_clauses(tmp_path: Path) -> None:
     validator = LegalSpokeValidator(tmp_path)
     validator._check_vbpl_fake_data(bundle_dir)
     assert any("Missing AST Error" in err for err in validator.errors)
+
+
+def test_subgate_5_3_transitive_dag_detects_superseded_active_document(tmp_path: Path) -> None:
+    """Sub-Gate 5.3 DAG BFS must automatically detect when active doc replaces another active doc."""
+    registry_path = tmp_path / "legal_registry.yaml"
+    registry_content = """version: 0.2.0
+standards:
+  - id: QCVN-10-2025-BCA
+    title: QCVN 10:2025/BCA
+    document_number: QCVN 10:2025/BCA
+    bundle_path: legal_docs/02_qcvn/qcvn_10_2025_bca
+    status: active
+    relations:
+      replaces: TCVN-3890-2023
+  - id: TCVN-3890-2023
+    title: TCVN 3890:2023
+    document_number: TCVN 3890:2023
+    bundle_path: legal_docs/03_tcvn/tcvn_3890_2023
+    status: active
+"""
+    registry_path.write_text(registry_content, encoding="utf-8")
+    validator = LegalSpokeValidator(tmp_path)
+    validator._validate_legal_validity_and_in_force()
+    assert any("TCVN-3890-2023" in err and "strictly banned from status: active" in err for err in validator.errors)
+

@@ -405,23 +405,45 @@ class LegalSpokeValidator:
                         f"Dual-PDF Warning [{doc_dir.name}]: Failed to inspect metadata.yaml for PDF origin: {exc}"
                     )
 
+    @staticmethod
+    def _canonical_keys(val: Any) -> Set[str]:
+        """Generate canonical lookup tokens preserving document types and numbers."""
+        if not val:
+            return set()
+        s = str(val).strip().lower()
+        s = s.replace("đ", "d")
+        # Replace separators including colon, slash, hyphen, period with underscore
+        s = re.sub(r"[\s\/\-\.:]+", "_", s)
+        s = re.sub(r"_+", "_", s).strip("_")
+        keys = {s}
+        for prefix in ("nghi_dinh_", "thong_tu_", "quyet_dinh_", "nghi_quyet_", "luat_"):
+            if s.startswith(prefix):
+                keys.add(s[len(prefix):])
+        m = re.search(r"(\d+_\d{4}_[a-z0-9_]+)$", s)
+        if m:
+            keys.add(m.group(1))
+        return keys
+
     def _validate_legal_validity_and_in_force(self) -> None:
         """Sub-Gate 5.3: Legal Validity & In-Force Verification Gate (RULE-3.1 & ADR 0059).
 
         Guarantees that:
-        1. Banned expired statutes (10/2021/NĐ-CP, 15/2021/NĐ-CP, 175/2024/NĐ-CP, 06/2021/NĐ-CP)
-           are strictly prohibited from 'status: active' (RULE-3.1).
+        1. Two-Tier Transitive Engine:
+           - Tier 1: Replacement DAG BFS from active documents. Any document in the reachable
+             replaced set CANNOT be 'active' (detects superseded docs automatically).
+           - Tier 2: Statutory Baseline Safety Floor (STATUTORY_BASELINE_REPEALED) as fallback.
         2. Any document with 'status: expired' declared has:
            - valid 'relations.replaced_by' reference or 'replaces' reference
            - clear warning disclaimer in bundle's index.md
         3. No document past its expiration_date retains 'status: active'.
         """
-        banned_expired_numbers: Dict[str, str] = {
+        STATUTORY_BASELINE_REPEALED: Dict[str, str] = {
             "10/2021/NĐ-CP": "206/2026/NĐ-CP",
             "15/2021/NĐ-CP": "217/2026/NĐ-CP",
             "175/2024/NĐ-CP": "217/2026/NĐ-CP",
             "06/2021/NĐ-CP": "207/2026/NĐ-CP",
             "136/2020/NĐ-CP": "105/2025/NĐ-CP",
+            "16/2022/NĐ-CP": "339/2026/NĐ-CP",
             "QCVN 06:2020/BXD": "QCVN 06:2022/BXD",
         }
 
@@ -440,6 +462,88 @@ class LegalSpokeValidator:
 
         today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
+        # Multi-key canonical index: maps canonical token -> item
+        doc_by_canonical_key: Dict[str, Dict[str, Any]] = {}
+        for item in all_items:
+            if not isinstance(item, dict):
+                continue
+            doc_id = str(item.get("id", ""))
+            doc_num = str(item.get("document_number", ""))
+            item_keys = self._canonical_keys(doc_id) | self._canonical_keys(doc_num)
+            for k in item_keys:
+                doc_by_canonical_key[k] = item
+
+        def _get_replaces(it: Dict[str, Any]) -> List[str]:
+            rels = it.get("relations") if isinstance(it.get("relations"), dict) else {}
+            rep = rels.get("replaces") or it.get("replaces")
+            if not rep:
+                return []
+            if isinstance(rep, list):
+                return [str(x).strip() for x in rep if x]
+            return [str(rep).strip()]
+
+        # Tier 1: Replacement DAG BFS from active documents
+        superseded_by_map: Dict[str, str] = {}
+        active_items = [
+            it
+            for it in all_items
+            if isinstance(it, dict)
+            and str(it.get("status", "")).strip().lower() in {"active", "current", "còn hiệu lực"}
+        ]
+
+        from collections import deque
+
+        queue: deque[Tuple[Dict[str, Any], Dict[str, Any]]] = deque()
+        visited_keys: Set[str] = set()
+
+        for active_it in active_items:
+            queue.append((active_it, active_it))
+
+        while queue:
+            curr_it, source_active = queue.popleft()
+            source_label = str(
+                source_active.get("document_number") or source_active.get("id", "Active Doc")
+            ).strip()
+            source_keys = self._canonical_keys(source_active.get("id", "")) | self._canonical_keys(
+                source_active.get("document_number", "")
+            )
+
+            # 1. Forward edges: curr_it declares 'replaces'
+            for target_str in _get_replaces(curr_it):
+                target_keys = self._canonical_keys(target_str)
+                for tk in target_keys:
+                    if tk not in source_keys:
+                        superseded_by_map[tk] = source_label
+                    if tk not in visited_keys:
+                        visited_keys.add(tk)
+                        if tk in doc_by_canonical_key:
+                            queue.append((doc_by_canonical_key[tk], source_active))
+
+            # 2. Backward edges: any document whose 'replaced_by' points to curr_it
+            curr_keys = self._canonical_keys(curr_it.get("id", "")) | self._canonical_keys(
+                curr_it.get("document_number", "")
+            )
+            for candidate in all_items:
+                if not isinstance(candidate, dict):
+                    continue
+                cand_rels = (
+                    candidate.get("relations")
+                    if isinstance(candidate.get("relations"), dict)
+                    else {}
+                )
+                rep_by = cand_rels.get("replaced_by") or candidate.get("replaced_by")
+                if rep_by:
+                    rep_by_keys = self._canonical_keys(str(rep_by).strip())
+                    if rep_by_keys & curr_keys:
+                        cand_id = str(candidate.get("id", ""))
+                        cand_num = str(candidate.get("document_number", ""))
+                        for ck in self._canonical_keys(cand_id) | self._canonical_keys(cand_num):
+                            if ck not in source_keys:
+                                superseded_by_map[ck] = source_label
+                            if ck not in visited_keys:
+                                visited_keys.add(ck)
+                                queue.append((candidate, source_active))
+
         for item in all_items:
             if not isinstance(item, dict):
                 continue
@@ -450,17 +554,32 @@ class LegalSpokeValidator:
             relations = item.get("relations") if isinstance(item.get("relations"), dict) else {}
 
             if self.target_bundle:
-                if doc_id != self.target_bundle and self.target_bundle not in bundle_p and doc_num != self.target_bundle:
+                if (
+                    doc_id != self.target_bundle
+                    and self.target_bundle not in bundle_p
+                    and doc_num != self.target_bundle
+                ):
                     continue
 
-            # 1. Banned Expired Check
-            for banned_num, replacement in banned_expired_numbers.items():
-                if banned_num.upper() == doc_num.upper():
-                    if status in {"active", "current", "còn hiệu lực"}:
-                        self.errors.append(
-                            f"Legal Validity Hard Floor Violation [{doc_id}]: {doc_num} is repealed and strictly banned "
-                            f"from status: active (RULE-3.1). Must use {replacement} instead."
-                        )
+            # 1. Banned Expired Check (Tier 1 DAG BFS + Tier 2 Statutory Baseline Floor)
+            if status in {"active", "current", "còn hiệu lực"}:
+                item_keys = self._canonical_keys(doc_id) | self._canonical_keys(doc_num)
+                matching_superseded = item_keys & superseded_by_map.keys()
+                if matching_superseded:
+                    replacing = superseded_by_map[next(iter(matching_superseded))]
+                    self.errors.append(
+                        f"Legal Validity Hard Floor Violation [{doc_id}]: {doc_num} is repealed and strictly banned "
+                        f"from status: active (RULE-3.1). Must use {replacing} instead."
+                    )
+                else:
+                    for banned_num, replacement in STATUTORY_BASELINE_REPEALED.items():
+                        banned_keys = self._canonical_keys(banned_num)
+                        if item_keys & banned_keys:
+                            self.errors.append(
+                                f"Legal Validity Hard Floor Violation [{doc_id}]: {doc_num} is repealed and strictly banned "
+                                f"from status: active (RULE-3.1). Must use {replacement} instead."
+                            )
+                            break
 
             # 2. Expiration Date Check vs Status
             exp_date = str(item.get("expiration_date", "")).strip()

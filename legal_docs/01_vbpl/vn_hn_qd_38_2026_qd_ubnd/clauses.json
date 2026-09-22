@@ -1,122 +1,892 @@
 [
   {
     "clause_id": "dieu-1",
+    "anchor": "dieu-1",
     "title": "Điều 1. Phạm vi điều chỉnh, đối tượng áp dụng",
-    "line_start": 29,
-    "line_end": 34
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 45,
+    "line_end": 46,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-1-khoan-1",
+    "anchor": "dieu-1-khoan-1",
+    "title": "1. Phạm vi điều chỉnh:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 47,
+    "line_end": 49,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-1-khoan-2",
+    "anchor": "dieu-1-khoan-2",
+    "title": "2. Đối tượng áp dụng:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 50,
+    "line_end": 52,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-2",
+    "anchor": "dieu-2",
     "title": "Điều 2. Lập, ban hành kế hoạch, danh mục quy hoạch đô thị và nông thôn, phê duyệt dự toán, bố trí kinh phí lập quy hoạch",
-    "line_start": 35,
-    "line_end": 53
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 55,
+    "line_end": 56,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-2-khoan-1",
+    "anchor": "dieu-2-khoan-1",
+    "title": "1. Sở Quy hoạch - Kiến trúc tổ chức lập, trình Ủy ban nhân dân Thành phố ban hành kế hoạch thực hiện Quy hoạch chung Thủ đô theo quy định tại Điều 51 Luật số 47/2024/QH15 hoặc Quy hoạch tổng thể Thủ đô theo quy định tại Điều 8 Nghị quyết số 84/2025/NQ-HĐND ngày 13/12/2025 của Hội đồng nhân dân thành phố Hà Nội Quy định nội dung, định mức chi phí, đơn giá, thành phần hồ sơ, trình tự, thủ tục lập, thẩm định, phê duyệt, điều chỉnh Quy hoạch tổng thể Thủ đô.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 57,
+    "line_end": 58,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-2-khoan-2",
+    "anchor": "dieu-2-khoan-2",
+    "title": "2. Đối với quy hoạch đô thị và nông thôn thuộc thẩm quyền phê duyệt của Ủy ban nhân dân Thành phố:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 59,
+    "line_end": 64,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-2-khoan-3",
+    "anchor": "dieu-2-khoan-3",
+    "title": "3. Đối với quy hoạch đô thị và nông thôn thuộc thẩm quyền phê duyệt của Ủy ban nhân dân cấp xã: Căn cứ các quy định hiện hành, Ủy ban nhân dân cấp xã xây dựng danh mục quy hoạch, kế hoạch thực hiện trong 5 năm và hàng năm bằng kinh phí ngân sách cấp xã; lấy ý kiến của Sở Quy hoạch - Kiến trúc để tránh trùng lặp, chồng lấn phạm vi, ranh giới lập quy hoạch trước khi ban hành quyết định phê duyệt danh mục quy hoạch và giao đơn vị tổ chức thực hiện.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 65,
+    "line_end": 66,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-2-khoan-4",
+    "anchor": "dieu-2-khoan-4",
+    "title": "4. Ủy ban nhân dân các cấp có thẩm quyền phê duyệt quy hoạch có trách nhiệm bố trí kinh phí lập quy hoạch. Ủy ban nhân dân cấp xã được bố trí kinh phí từ ngân sách cấp xã khi được Ủy ban nhân dân Thành phố giao tổ chức lập quy hoạch thuộc trách nhiệm bố trí vốn của Ủy ban nhân dân Thành phố.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 67,
+    "line_end": 68,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-2-khoan-5",
+    "anchor": "dieu-2-khoan-5",
+    "title": "5. Phê duyệt dự toán chi phí lập nhiệm vụ quy hoạch, quy hoạch đô thị và nông thôn:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 69,
+    "line_end": 78,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-3",
+    "anchor": "dieu-3",
     "title": "Điều 3. Phân cấp tổ chức lập, phê duyệt nhiệm vụ quy hoạch, quy hoạch đô thị và nông thôn thuộc trách nhiệm, thẩm quyền của Ủy ban nhân dân Thành phố",
-    "line_start": 54,
-    "line_end": 63
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 81,
+    "line_end": 82,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-3-khoan-1",
+    "anchor": "dieu-3-khoan-1",
+    "title": "1. Trách nhiệm tổ chức lập nhiệm vụ quy hoạch, quy hoạch đô thị và nông thôn của Ủy ban nhân dân Thành phố quy định tại khoản 4 Điều 17 Luật số 47/2024/QH15 được sửa đổi, bổ sung bởi các điểm c, d và đ khoản 9 Điều 1 Luật số 144/2025/QH15 do Ban Quản lý đồ án quy hoạch kiến trúc thực hiện trừ trường hợp quy định tại khoản 2, khoản 3 và khoản 4 Điều này.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 83,
+    "line_end": 84,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-3-khoan-2",
+    "anchor": "dieu-3-khoan-2",
+    "title": "2. Trách nhiệm tổ chức lập quy hoạch không gian ngầm, quy hoạch chuyên ngành hạ tầng kỹ thuật cho các chuyên ngành giao thông, cấp nước, cao độ nền và thoát nước của Ủy ban nhân dân Thành phố quy định tại điểm c khoản 4 Điều 17 Luật số 47/2024/QH15 do Sở Xây dựng thực hiện trừ trường hợp Ủy ban nhân dân Thành phố giao cơ quan, đơn vị khác tổ chức lập theo quy định tại khoản 4 Điều này.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 85,
+    "line_end": 86,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-3-khoan-3",
+    "anchor": "dieu-3-khoan-3",
+    "title": "3. Trách nhiệm tổ chức lập quy hoạch chuyên ngành hạ tầng kỹ thuật cho chuyên ngành quản lý chất thải rắn và nghĩa trang của Ủy ban nhân dân Thành phố quy định tại điểm c khoản 4 Điều 17 Luật số 47/2024/QH15 do Sở Nông nghiệp và Môi trường thực hiện trừ trường hợp Ủy ban nhân dân Thành phố giao cơ quan, đơn vị khác tổ chức lập theo quy định tại khoản 4 Điều này.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 87,
+    "line_end": 88,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-3-khoan-4",
+    "anchor": "dieu-3-khoan-4",
+    "title": "4. Trường hợp nhiệm vụ quy hoạch, quy hoạch đô thị và nông thôn thuộc trách nhiệm tổ chức lập của Ủy ban nhân dân Thành phố có nội dung, tính chất hoặc yêu cầu riêng, Sở Quy hoạch - Kiến trúc chủ trì, tham mưu Ủy ban nhân dân Thành phố xem xét, quyết định giao cơ quan, đơn vị tổ chức lập nhiệm vụ quy hoạch, quy hoạch đô thị và nông thôn.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 89,
+    "line_end": 90,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-3-khoan-5",
+    "anchor": "dieu-3-khoan-5",
+    "title": "5. Đối với việc lập, thẩm định, phê duyệt điều chỉnh cục bộ quy hoạch đô thị và nông thôn khu vực có quy mô và vai trò, ý nghĩa quan trọng của Thành phố tại khoản 1 Điều 4 quyết định này, tùy quy mô và vai trò, ý nghĩa quan trọng công việc, trên cơ sở quy định tại điểm b khoản 29 Điều 1 Luật số 144/2025/QH15, trường hợp cần yêu cầu cao về năng lực chuyên môn mà tổ chức bộ máy, nhân sự, năng lực chuyên môn của chính quyền cấp xã không đáp ứng được, Sở Quy hoạch - Kiến trúc chủ trì, tham mưu Ủy ban nhân dân Thành phố xem xét, quyết định việc lập, thẩm định, phê duyệt điều chỉnh cục bộ quy hoạch đô thị và nông thôn.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 91,
+    "line_end": 93,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-3-khoan-6",
+    "anchor": "dieu-3-khoan-6",
+    "title": "6. Đối với các công trình xây dựng theo tuyến, tiếp tục thực hiện theo trình tự, thủ tục của hồ sơ quy hoạch đô thị và nông thôn (quy hoạch chi tiết tuyến), trừ trường hợp có quy định pháp luật điều chỉnh. Đối với các khu vực, dự án đầu tư đã có phương án tuyến, vị trí công trình xây dựng theo tuyến, chỉ giới đường đỏ, bình đồ (mặt bằng) tuyến hoặc hồ sơ cắm mốc giới được cấp có thẩm quyền phê duyệt thì không phải trình duyệt lại.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 94,
+    "line_end": 95,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-3-khoan-7",
+    "anchor": "dieu-3-khoan-7",
+    "title": "7. Trình tự, thủ tục tổ chức lập và phê duyệt nhiệm vụ quy hoạch, quy hoạch đô thị và nông thôn thực hiện theo quy định tại pháp luật về quy hoạch đô thị và nông thôn.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 96,
+    "line_end": 97,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-4",
+    "anchor": "dieu-4",
     "title": "Điều 4. Phân cấp phê duyệt nhiệm vụ quy hoạch, quy hoạch đô thị và nông thôn khu vực có quy mô và vai trò, ý nghĩa quan trọng của Thành phố",
-    "line_start": 64,
-    "line_end": 78
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 100,
+    "line_end": 101,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-4-khoan-1",
+    "anchor": "dieu-4-khoan-1",
+    "title": "1. Các khu vực có quy mô và vai trò, ý nghĩa quan trọng của Thành phố về chính trị, văn hóa, lịch sử, an ninh, quốc phòng, thúc đẩy phát triển kinh tế bao gồm:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 102,
+    "line_end": 110,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-4-khoan-2",
+    "anchor": "dieu-4-khoan-2",
+    "title": "2. Ủy ban nhân dân Thành phố phê duyệt nhiệm vụ quy hoạch và quy hoạch phân khu, nhiệm vụ quy hoạch và quy hoạch chi tiết đô thị và nông thôn, thiết kế đô thị riêng các khu vực quy định tại khoản 1 Điều này trừ các trường hợp quy định tại điểm c khoản 1 Điều 41 Luật số 47/2024/QH15; khoản 3 Điều này và quy hoạch chi tiết của dự án quốc phòng, an ninh cần bảo đảm bí mật nhà nước quy định tại điểm b khoản 29 Điều 1 Luật số 144/2025/QH15.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 111,
+    "line_end": 112,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-4-khoan-3",
+    "anchor": "dieu-4-khoan-3",
+    "title": "3. Việc phê duyệt nhiệm vụ quy hoạch và quy hoạch phân khu khu chức năng, nhiệm vụ quy hoạch và quy hoạch chi tiết khu chức năng thuộc khu vực có quy mô và vai trò, ý nghĩa quan trọng quy định tại khoản 1 Điều này thực hiện như sau:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 113,
+    "line_end": 116,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-4-khoan-4",
+    "anchor": "dieu-4-khoan-4",
+    "title": "4. Trình tự, thủ tục phê duyệt nhiệm vụ quy hoạch và quy hoạch phân khu, nhiệm vụ quy hoạch và quy hoạch chi tiết khu chức năng thuộc khu vực có quy mô và vai trò, ý nghĩa quan trọng của Thành phố thực hiện theo quy định tại pháp luật về quy hoạch đô thị và nông thôn. Đối với quy định tại khoản 2 Điều 1 Nghị quyết số 258/2025/QH15, Sở Quy hoạch - Kiến trúc chủ trì, tham mưu Ủy ban nhân dân Thành phố xem xét về trình tự, thủ tục phê duyệt nhiệm vụ và quy hoạch đối với từng công việc cụ thể.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 117,
+    "line_end": 118,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-5",
+    "anchor": "dieu-5",
     "title": "Điều 5. Phân công tổ chức lập, phê duyệt nhiệm vụ quy hoạch, quy hoạch chi tiết các khu vực trong khu chức năng",
-    "line_start": 79,
-    "line_end": 88
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 121,
+    "line_end": 122,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-5-khoan-1",
+    "anchor": "dieu-5-khoan-1",
+    "title": "1. Trách nhiệm tổ chức lập quy hoạch các khu vực trong khu chức năng được phân công như sau:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 123,
+    "line_end": 127,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-5-khoan-2",
+    "anchor": "dieu-5-khoan-2",
+    "title": "2. Việc phê duyệt nhiệm vụ quy hoạch, quy hoạch chi tiết các khu vực trong khu chức năng thực hiện như sau:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 128,
+    "line_end": 131,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-5-khoan-3",
+    "anchor": "dieu-5-khoan-3",
+    "title": "3. Trình tự, thủ tục tổ chức lập và phê duyệt nhiệm vụ quy hoạch, quy hoạch chi tiết các khu vực trong khu chức năng thực hiện theo quy định tại pháp luật về quy hoạch đô thị và nông thôn.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 132,
+    "line_end": 133,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-6",
+    "anchor": "dieu-6",
     "title": "Điều 6. Phân cấp chấp thuận, chấp thuận điều chỉnh quy hoạch tổng mặt bằng thuộc thẩm quyền của Ủy ban nhân dân Thành phố",
-    "line_start": 89,
-    "line_end": 92
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 136,
+    "line_end": 137,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-6-khoan-1",
+    "anchor": "dieu-6-khoan-1",
+    "title": "1. Sở Quy hoạch - Kiến trúc chấp thuận, chấp thuận điều chỉnh quy hoạch tổng mặt bằng thuộc thẩm quyền chấp thuận của Ủy ban nhân dân Thành phố sau khi có ý kiến thống nhất bằng văn bản của Ủy ban nhân dân Thành phố.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 138,
+    "line_end": 139,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-6-khoan-2",
+    "anchor": "dieu-6-khoan-2",
+    "title": "2. Việc chấp thuận, chấp thuận điều chỉnh quy hoạch tổng mặt bằng thực hiện theo quy định tại pháp luật về quy hoạch đô thị và nông thôn.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 140,
+    "line_end": 141,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-7",
+    "anchor": "dieu-7",
     "title": "Điều 7. Phân cấp rà soát quy hoạch đô thị và nông thôn thuộc trách nhiệm của Ủy ban nhân dân Thành phố",
-    "line_start": 93,
-    "line_end": 102
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 144,
+    "line_end": 145,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-7-khoan-1",
+    "anchor": "dieu-7-khoan-1",
+    "title": "1. Trách nhiệm rà soát, tổng hợp kết quả rà soát Quy hoạch chung Thủ đô, Quy hoạch tổng thể Thủ đô do Sở Quy hoạch - Kiến trúc chủ trì tổ chức thực hiện.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 146,
+    "line_end": 147,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-7-khoan-2",
+    "anchor": "dieu-7-khoan-2",
+    "title": "2. Trách nhiệm rà soát, tổng hợp kết quả rà soát quy hoạch không gian ngầm, quy hoạch chuyên ngành hạ tầng kỹ thuật chuyên ngành giao thông, cấp nước, cao độ nền và thoát nước của Thành phố do Sở Xây dựng chủ trì tổ chức thực hiện.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 148,
+    "line_end": 149,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-7-khoan-3",
+    "anchor": "dieu-7-khoan-3",
+    "title": "3. Trách nhiệm rà soát, tổng hợp kết quả rà soát quy hoạch chuyên ngành hạ tầng kỹ thuật chuyên ngành quản lý chất thải rắn và nghĩa trang của Thành phố do Sở Nông nghiệp và Môi trường chủ trì tổ chức thực hiện.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 150,
+    "line_end": 151,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-7-khoan-4",
+    "anchor": "dieu-7-khoan-4",
+    "title": "4. Trách nhiệm rà soát, tổng hợp kết quả rà soát quy hoạch đô thị và nông thôn thuộc thẩm quyền phê duyệt của Ủy ban nhân dân Thành phố và có phạm vi quy hoạch thuộc địa giới đơn vị hành chính của 01 đơn vị hành chính cấp xã do Ủy ban nhân dân cấp xã chủ trì tổ chức thực hiện.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 152,
+    "line_end": 153,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-7-khoan-5",
+    "anchor": "dieu-7-khoan-5",
+    "title": "5. Trừ các trường hợp quy định tại khoản 1, 2, 3 Điều này và phạm vi quy hoạch đô thị và nông thôn liên quan đến địa giới đơn vị hành chính của 02 đơn vị hành chính cấp xã trở lên thì Ủy ban nhân dân cấp xã có diện tích thuộc phạm vi quy hoạch lớn nhất chủ trì tổ chức rà soát; trường hợp không xác định rõ hoặc diện tích tương đương thì Sở Quy hoạch - Kiến trúc chủ trì, tham mưu Ủy ban nhân dân Thành phố quyết định đơn vị chủ trì.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 154,
+    "line_end": 157,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-7-khoan-6",
+    "anchor": "dieu-7-khoan-6",
+    "title": "6. Trình tự, thủ tục rà soát quy hoạch đô thị và nông thôn thực hiện theo quy định tại pháp luật về quy hoạch đô thị và nông thôn.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 158,
+    "line_end": 159,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-8",
+    "anchor": "dieu-8",
     "title": "Điều 8. Phân cấp lập hồ sơ cắm mốc, tổ chức thực hiện cắm mốc thuộc trách nhiệm của Ủy ban nhân dân Thành phố",
-    "line_start": 103,
-    "line_end": 106
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 162,
+    "line_end": 163,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-8-khoan-1",
+    "anchor": "dieu-8-khoan-1",
+    "title": "1. Trách nhiệm lập hồ sơ cắm mốc và tổ chức thực hiện cắm mốc đối với các quy hoạch đô thị và nông thôn thuộc trách nhiệm của Ủy ban nhân dân Thành phố do cơ quan, đơn vị được Ủy ban nhân dân Thành phố phân cấp hoặc giao tổ chức lập quy hoạch đô thị và nông thôn chủ trì thực hiện.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 164,
+    "line_end": 165,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-8-khoan-2",
+    "anchor": "dieu-8-khoan-2",
+    "title": "2. Trình tự, thủ tục lập hồ sơ cắm mốc và tổ chức thực hiện cắm mốc thực hiện theo quy định tại pháp luật về quy hoạch đô thị và nông thôn.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 166,
+    "line_end": 167,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-9",
+    "anchor": "dieu-9",
     "title": "Điều 9. Phân cấp lập, điều chỉnh danh mục công trình kiến trúc có giá trị",
-    "line_start": 107,
-    "line_end": 112
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 170,
+    "line_end": 171,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-9-khoan-1",
+    "anchor": "dieu-9-khoan-1",
+    "title": "1. Ủy ban nhân dân cấp xã tổ chức lập, điều chỉnh danh mục công trình kiến trúc có giá trị nằm trong phạm vi địa giới đơn vị hành chính do mình quản lý.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 172,
+    "line_end": 173,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-9-khoan-2",
+    "anchor": "dieu-9-khoan-2",
+    "title": "2. Đối với các công trình kiến trúc có giá trị thuộc địa giới đơn vị hành chính của 02 đơn vị hành chính cấp xã trở lên thì Ủy ban nhân dân cấp xã có liên quan tổng hợp vào danh mục công trình kiến trúc có giá trị do mình lập, trình cơ quan có thẩm quyền thẩm định, phê duyệt.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 174,
+    "line_end": 175,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-9-khoan-3",
+    "anchor": "dieu-9-khoan-3",
+    "title": "3. Sở Quy hoạch - Kiến trúc theo dõi, tổng hợp, thống nhất danh mục công trình kiến trúc có giá trị trên địa bàn Thành phố, công bố trên phương tiện thông tin đại chúng.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 176,
+    "line_end": 177,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-9-khoan-4",
+    "anchor": "dieu-9-khoan-4",
+    "title": "4. Trình tự, thủ tục lập, điều chỉnh danh mục công trình kiến trúc có giá trị thực hiện theo quy định tại pháp luật về kiến trúc.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 178,
+    "line_end": 179,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-10",
+    "anchor": "dieu-10",
     "title": "Điều 10. Phân cấp lập, phê duyệt, ban hành quy chế quản lý kiến trúc",
-    "line_start": 113,
-    "line_end": 124
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 182,
+    "line_end": 183,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-10-khoan-1",
+    "anchor": "dieu-10-khoan-1",
+    "title": "1. Sở Quy hoạch - Kiến trúc lập Quy chế quản lý kiến trúc thành phố Hà Nội.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 184,
+    "line_end": 185,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-10-khoan-2",
+    "anchor": "dieu-10-khoan-2",
+    "title": "2. Ủy ban nhân dân cấp xã tổ chức lập quy chế quản lý kiến trúc điểm dân cư nông thôn trong phạm vi địa giới đơn vị hành chính do mình quản lý.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 186,
+    "line_end": 189,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-10-khoan-3",
+    "anchor": "dieu-10-khoan-3",
+    "title": "3. Ủy ban nhân dân cấp xã phê duyệt, ban hành quy chế quản lý kiến trúc điểm dân cư nông thôn trong phạm vi địa giới đơn vị hành chính do mình quản lý.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 190,
+    "line_end": 191,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-10-khoan-4",
+    "anchor": "dieu-10-khoan-4",
+    "title": "4. Trình tự, thủ tục tổ chức lập, phê duyệt, ban hành quy chế quản lý kiến trúc thực hiện theo quy định tại pháp luật về kiến trúc.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 192,
+    "line_end": 197,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-11",
+    "anchor": "dieu-11",
     "title": "Điều 11. Nguyên tắc điều chỉnh cục bộ đối với quy hoạch đô thị và nông thôn đã được Ủy ban nhân dân Thành phố phê duyệt",
-    "line_start": 125,
-    "line_end": 132
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 200,
+    "line_end": 201,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-11-khoan-1",
+    "anchor": "dieu-11-khoan-1",
+    "title": "1. Khi tiến hành điều chỉnh cục bộ quy hoạch đô thị và nông thôn đã được Ủy ban nhân dân Thành phố phê duyệt (sau đây gọi là Điều chỉnh cục bộ quy hoạch đô thị và nông thôn) phải đảm bảo tuân thủ các quy định về loại điều chỉnh, căn cứ, nguyên tắc, điều kiện điều chỉnh cục bộ, nội dung điều chỉnh cục bộ tại pháp luật về quy hoạch đô thị và nông thôn.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 202,
+    "line_end": 203,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-11-khoan-2",
+    "anchor": "dieu-11-khoan-2",
+    "title": "2. Nhà đầu tư theo quy định của pháp luật về đầu tư và pháp luật có liên quan đã được lựa chọn để thực hiện dự án đầu tư tổ chức lập Điều chỉnh cục bộ quy hoạch chi tiết đô thị và nông thôn tại khu vực đã được xác định để thực hiện dự án đầu tư; trách nhiệm thẩm định, phê duyệt, công bố Điều chỉnh cục bộ quy hoạch đô thị và nông thôn thực hiện theo nguyên tắc quy định tại khoản 3 và khoản 4 Điều này.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 204,
+    "line_end": 205,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-11-khoan-3",
+    "anchor": "dieu-11-khoan-3",
+    "title": "3. Trừ trường hợp quy định tại khoản 2 Điều này, nếu phạm vi Điều chỉnh cục bộ quy hoạch đô thị và nông thôn thuộc địa giới đơn vị hành chính của 01 đơn vị hành chính cấp xã thì Ủy ban nhân dân cấp xã nơi có điều chỉnh cục bộ quy hoạch tổ chức lập, thẩm định, phê duyệt, công bố điều chỉnh cục bộ quy hoạch theo trình tự, thủ tục quy định tại Quyết định này.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 206,
+    "line_end": 207,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-11-khoan-4",
+    "anchor": "dieu-11-khoan-4",
+    "title": "4. Trừ trường hợp quy định tại khoản 2 Điều này, nếu phạm vi Điều chỉnh cục bộ quy hoạch đô thị và nông thôn liên quan đến địa giới đơn vị hành chính của 02 đơn vị hành chính cấp xã trở lên thì Ủy ban nhân dân cấp xã có diện tích thuộc phạm vi điều chỉnh lớn nhất tổ chức lập, thẩm định, phê duyệt, công bố điều chỉnh cục bộ quy hoạch theo trình tự, thủ tục quy định tại Quyết định này. Trường hợp không xác định rõ hoặc diện tích tương đương thì Ủy ban nhân dân Thành phố quyết định đơn vị tổ chức lập, thẩm định, phê duyệt và công bố Điều chỉnh cục bộ quy hoạch đô thị và nông thôn.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 208,
+    "line_end": 210,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-11-khoan-5",
+    "anchor": "dieu-11-khoan-5",
+    "title": "5. Trường hợp thực hiện theo yêu cầu, chỉ đạo của Ủy ban nhân dân Thành phố về rút ngắn thời gian xử lý hồ sơ nhằm phục vụ mục tiêu phát triển kinh tế - xã hội, tăng trưởng của Thành phố... thì thời gian thẩm định, tham gia ý kiến và phê duyệt Điều chỉnh cục bộ quy hoạch đô thị và nông thôn quy định tại Chương này thực hiện theo thời hạn được yêu cầu.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 211,
+    "line_end": 212,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-12",
+    "anchor": "dieu-12",
     "title": "Điều 12. Trình tự Điều chỉnh cục bộ quy hoạch đô thị và nông thôn",
-    "line_start": 133,
-    "line_end": 135
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 215,
+    "line_end": 217,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-13",
+    "anchor": "dieu-13",
     "title": "Điều 13. Lập hồ sơ Điều chỉnh cục bộ quy hoạch đô thị và nông thôn",
-    "line_start": 136,
-    "line_end": 139
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 220,
+    "line_end": 221,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-13-khoan-1",
+    "anchor": "dieu-13-khoan-1",
+    "title": "1. Cơ quan, đơn vị tổ chức lập Điều chỉnh cục bộ quy hoạch đô thị và nông thôn được giao cơ quan, đơn vị trực thuộc tổ chức lập hoặc lựa chọn tổ chức tư vấn có đủ năng lực chuyên môn, phù hợp với yêu cầu của nội dung công việc theo quy định tại pháp luật về quy hoạch đô thị và nông thôn để thực hiện lập hồ sơ Điều chỉnh cục bộ quy hoạch và nông thôn.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 222,
+    "line_end": 223,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-13-khoan-2",
+    "anchor": "dieu-13-khoan-2",
+    "title": "2. Thành phần, nội dung hồ sơ Điều chỉnh cục bộ quy hoạch đô thị và nông thôn thực hiện theo quy định tại khoản 2 Điều 28 Thông tư số 16/2025/TT-BXD quy định chi tiết một số điều của Luật Quy hoạch đô thị và nông thôn.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 224,
+    "line_end": 225,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-14",
+    "anchor": "dieu-14",
     "title": "Điều 14. Lấy ý kiến về nội dung Điều chỉnh cục bộ quy hoạch đô thị và nông thôn",
-    "line_start": 140,
-    "line_end": 144
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 228,
+    "line_end": 229,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-14-khoan-1",
+    "anchor": "dieu-14-khoan-1",
+    "title": "1. Đối tượng lấy ý kiến thực hiện theo quy định tại điểm a khoản 2 Điều 47 Luật số 47/2024/QH15.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 230,
+    "line_end": 231,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-14-khoan-2",
+    "anchor": "dieu-14-khoan-2",
+    "title": "2. Nội dung, hình thức, thời gian lấy ý kiến về nội dung Điều chỉnh cục bộ quy hoạch đô thị và nông thôn thực hiện theo quy định tại khoản 6, khoản 7 Điều 37 Luật số 47/2024/QH15.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 232,
+    "line_end": 234,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-15",
+    "anchor": "dieu-15",
     "title": "Điều 15. Thẩm định Điều chỉnh cục bộ quy hoạch đô thị và nông thôn",
-    "line_start": 145,
-    "line_end": 161
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 237,
+    "line_end": 238,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-15-khoan-1",
+    "anchor": "dieu-15-khoan-1",
+    "title": "1. Cơ quan chuyên môn về quy hoạch đô thị và nông thôn thuộc Ủy ban nhân dân cấp xã là cơ quan thẩm định Điều chỉnh cục bộ quy hoạch đô thị và nông thôn (viết tắt là Cơ quan thẩm định). Các trường hợp quy định tại khoản 5 Điều 3 và khoản 1 Điều 4 quyết định này, Sở Quy hoạch - Kiến trúc chủ trì, tham mưu Ủy ban nhân dân Thành phố xem xét, chỉ đạo thực hiện.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 239,
+    "line_end": 241,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-15-khoan-2",
+    "anchor": "dieu-15-khoan-2",
+    "title": "2. Cơ quan thẩm định thực hiện thẩm định hồ sơ Điều chỉnh cục bộ quy hoạch đô thị và nông thôn theo các nội dung quy định tại khoản 3 Điều này; tổng hợp, ban hành thông báo kết quả thẩm định gửi cơ quan, đơn vị tổ chức lập Điều chỉnh cục bộ quy hoạch đô thị và nông thôn để nghiên cứu, tiếp thu, giải trình, hoàn thiện hồ sơ.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 242,
+    "line_end": 243,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-15-khoan-3",
+    "anchor": "dieu-15-khoan-3",
+    "title": "3. Nội dung thẩm định bao gồm:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 244,
+    "line_end": 250,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-15-khoan-4",
+    "anchor": "dieu-15-khoan-4",
+    "title": "4. Hồ sơ trình thẩm định bao gồm:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 251,
+    "line_end": 256,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-15-khoan-5",
+    "anchor": "dieu-15-khoan-5",
+    "title": "5. Thời gian thẩm định không quá 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 257,
+    "line_end": 258,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-16",
+    "anchor": "dieu-16",
     "title": "Điều 16. Phê duyệt Điều chỉnh cục bộ quy hoạch đô thị và nông thôn",
-    "line_start": 162,
-    "line_end": 177
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 261,
+    "line_end": 262,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Sau khi tiếp thu, giải trình đầy đủ các ý kiến tại thông báo kết quả thẩm định, hoàn thiện hồ sơ Điều chỉnh cục bộ quy hoạch đô thị và nông thôn, cơ quan, đơn vị tổ chức lập Điều chỉnh cục bộ quy hoạch đô thị và nông thôn gửi hồ sơ tới Cơ quan thẩm định để kiểm tra, báo cáo Ủy ban nhân dân cấp xã lấy ý kiến bằng văn bản của Sở Quy hoạch - Kiến trúc trước khi phê duyệt điều chỉnh cục bộ quy hoạch đô thị và nông thôn.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 263,
+    "line_end": 267,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Hồ sơ trình phê duyệt Điều chỉnh cục bộ quy hoạch đô thị và nông thôn gồm:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 268,
+    "line_end": 275,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. Quyết định phê duyệt Điều chỉnh cục bộ quy hoạch đô thị và nông thôn phải có đầy đủ các nội dung, kế hoạch thực hiện và xác định cụ thể các nội dung, chỉ tiêu được điều chỉnh hoặc thay thế trong Quyết định đã được Ủy ban nhân dân Thành phố ban hành và quy định quản lý theo quy hoạch đô thị và nông thôn đã được cấp có thẩm quyền phê duyệt.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 276,
+    "line_end": 277,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-16-khoan-4",
+    "anchor": "dieu-16-khoan-4",
+    "title": "4. Thời gian phê duyệt Điều chỉnh cục bộ quy hoạch đô thị và nông thôn không quá 10 ngày kể từ ngày có ý kiến của Sở Quy hoạch - Kiến trúc.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 278,
+    "line_end": 279,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-16-khoan-5",
+    "anchor": "dieu-16-khoan-5",
+    "title": "5. Bản vẽ, các hồ sơ liên quan đến Điều chỉnh cục bộ quy hoạch đô thị và nông thôn đã được phê duyệt phải được Cơ quan thẩm định đóng dấu xác nhận, làm căn cứ, cơ sở quản lý, triển khai thực hiện. Gửi 01 bộ hồ sơ đầy đủ về Sở Quy hoạch - Kiến trúc để lưu, theo dõi.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 280,
+    "line_end": 281,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-17",
+    "anchor": "dieu-17",
     "title": "Điều 17. Cập nhật, công bố nội dung Điều chỉnh cục bộ quy hoạch đô thị và nông thôn",
-    "line_start": 178,
-    "line_end": 187
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 284,
+    "line_end": 285,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-17-khoan-1",
+    "anchor": "dieu-17-khoan-1",
+    "title": "1. Công bố công khai toàn bộ nội dung Điều chỉnh cục bộ quy hoạch đô thị và nông thôn trừ những nội dung liên quan đến quốc phòng, an ninh, bí mật nhà nước.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 286,
+    "line_end": 287,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-17-khoan-2",
+    "anchor": "dieu-17-khoan-2",
+    "title": "2. Chậm nhất là 15 ngày, kể từ ngày được cơ quan có thẩm quyền phê duyệt, Điều chỉnh cục bộ quy hoạch đô thị và nông thôn phải được đăng tải trên Cổng thông tin quy hoạch xây dựng và quy hoạch đô thị Việt Nam (http://quyhoach.xaydung.gov.vn) và công bố công khai bằng các hình thức theo quy định tại Luật số 47/2024/QH15.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 288,
+    "line_end": 289,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-17-khoan-3",
+    "anchor": "dieu-17-khoan-3",
+    "title": "3. Báo cáo kết quả thực hiện Điều chỉnh cục bộ quy hoạch đô thị và nông thôn theo hình thức gửi Quyết định phê duyệt đến Ủy ban nhân dân Thành phố, Sở Quy hoạch - Kiến trúc, Hội đồng nhân dân cùng cấp.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 290,
+    "line_end": 291,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-17-khoan-4",
+    "anchor": "dieu-17-khoan-4",
+    "title": "4. Cập nhật điều chỉnh cục bộ theo hình thức gửi hồ sơ điều chỉnh cục bộ quy hoạch đô thị và nông thôn được phê duyệt đến các cơ quan, tổ chức thực hiện hoạt động quy hoạch đô thị và nông thôn đang lưu giữ hồ sơ do Ủy ban nhân dân Thành phố phê duyệt.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 292,
+    "line_end": 297,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-18",
+    "anchor": "dieu-18",
     "title": "Điều 18. Tổ chức thực hiện",
-    "line_start": 188,
-    "line_end": 206
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 300,
+    "line_end": 301,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-18-khoan-1",
+    "anchor": "dieu-18-khoan-1",
+    "title": "1. Sở Quy hoạch - Kiến trúc:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 302,
+    "line_end": 307,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-18-khoan-2",
+    "anchor": "dieu-18-khoan-2",
+    "title": "2. Sở Nội vụ:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 308,
+    "line_end": 311,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-18-khoan-3",
+    "anchor": "dieu-18-khoan-3",
+    "title": "3. Bộ Tư lệnh Thủ đô Hà Nội chủ trì, phối hợp với các cơ quan, đơn vị liên quan tổ chức rà soát, tổng hợp, tiếp nhận nội dung về khu vực có ảnh hưởng đến quốc phòng thuộc lĩnh vực quản lý theo quy định của pháp luật về quốc phòng và theo văn bản của Bộ Quốc phòng hoặc cấp có thẩm quyền; cung cấp thông tin để phục vụ công tác quản lý quy hoạch trên địa bàn Thành phố.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 312,
+    "line_end": 313,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-18-khoan-4",
+    "anchor": "dieu-18-khoan-4",
+    "title": "4. Công an Thành phố chủ trì, phối hợp với các cơ quan, đơn vị liên quan tổ chức rà soát, tổng hợp, tiếp nhận nội dung về khu vực có ảnh hưởng đến an ninh thuộc lĩnh vực quản lý theo quy định của pháp luật về an ninh và theo văn bản của Bộ Công an hoặc cấp có thẩm quyền; cung cấp thông tin để phục vụ công tác quản lý quy hoạch trên địa bàn Thành phố.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 314,
+    "line_end": 315,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-18-khoan-5",
+    "anchor": "dieu-18-khoan-5",
+    "title": "5. Sở Tài chính hướng dẫn, giải đáp, tham mưu Ủy ban nhân dân Thành phố các giải pháp nhằm tháo gỡ khó khăn, vướng mắc của các cơ quan, đơn vị có liên quan trong việc quản lý, sử dụng kinh phí ngân sách nhà nước để thực hiện trách nhiệm, thẩm quyền được phân công, phân cấp tại Quyết định này.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 316,
+    "line_end": 317,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-18-khoan-6",
+    "anchor": "dieu-18-khoan-6",
+    "title": "6. Các cơ quan, đơn vị được phân công, phân cấp:",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 318,
+    "line_end": 323,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "dieu-18-khoan-7",
+    "anchor": "dieu-18-khoan-7",
+    "title": "7. Trường hợp điều kiện về tổ chức bộ máy, nhân sự, năng lực chuyên môn và điều kiện kỹ thuật của chính quyền cấp xã không đáp ứng yêu cầu thực hiện các nội dung được phân cấp tại Quyết định này thì Ủy ban nhân dân Thành phố thực hiện.",
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 324,
+    "line_end": 325,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-19",
+    "anchor": "dieu-19",
     "title": "Điều 19. Điều khoản thi hành",
-    "line_start": 207,
-    "line_end": 210
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 328,
+    "line_end": 331,
+    "cong_bao_number": "Đang cập nhật"
   },
   {
     "clause_id": "dieu-20",
+    "anchor": "dieu-20",
     "title": "Điều 20. Quy định chuyển tiếp",
-    "line_start": 211,
-    "line_end": 233
+    "source_file": "vn_hn_qd_38_2026_qd_ubnd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 334,
+    "line_end": 336,
+    "cong_bao_number": "Đang cập nhật"
   }
 ]

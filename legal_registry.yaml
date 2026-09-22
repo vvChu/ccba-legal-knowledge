@@ -1,10 +1,10 @@
 version: 0.3.0
-updated_at: '2026-09-22T00:29:31.007566+00:00'
+updated_at: '2026-09-22T08:07:26.716436+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 59
+  total_documents: 60
   categories:
-    01_vbpl: 26
+    01_vbpl: 27
     02_qcvn: 12
     03_tcvn: 18
     04_appendices: 3
@@ -120,6 +120,9 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-217-2026-ND-CP-quan-ly-du-an-dau-tu-xay-dung-696494.aspx
   relations:
     guided_by: Luat-Xay-dung-2025-135-2025-QH15
+    replaces:
+    - 15/2021/NĐ-CP
+    - 175/2024/NĐ-CP
   sha256: 2424f4952be46b0e430a1248dd0541e3367179d44d306fb4610ecb5d418a3aab
   pdf_path: legal_docs/01_vbpl/nghi_dinh_217_2026_nd_cp/sources/nghi_dinh_217_2026_nd_cp.pdf
   pdf_sha256: a3742e98f30a3a7c4048ad0d975d679e0bde5590f7666cb16ef7f74a5846b8ee
@@ -155,6 +158,7 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-207-2026-ND-CP-quan-ly-chat-luong-thi-cong-bao-tri-cong-trinh-701883.aspx
   relations:
     guided_by: Luat-Xay-dung-2025-135-2025-QH15
+    replaces: 06/2021/NĐ-CP
   sha256: d1f5fed375e85f5af80e1688b352c27d36e0b975e646373101fdef454426d844
   pdf_path: legal_docs/01_vbpl/nghi_dinh_207_2026_nd_cp/sources/nghi_dinh_207_2026_nd_cp.pdf
   pdf_sha256: 06d622660e8bb486109e8f1e17ca881cad3b40826952edc12b15ddc775bd8fbb
@@ -338,6 +342,7 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-105-2025-ND-CP-huong-dan-Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-657317.aspx
   relations:
     guided_by: Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347
+    replaces: 136/2020/NĐ-CP
   pdf_path: legal_docs\01_vbpl\nghi_dinh_105_2025_nd_cp\sources\nghi_dinh_105_2025_nd_cp.pdf
   pdf_sha256: 6808c77f7438e0a15d7fc688726be181f476d958cf5f907ebc184afc0dc87262
   cong_bao_number: Đang cập nhật
@@ -859,6 +864,7 @@ laws:
   bundle_path: legal_docs/02_qcvn/qcvn_06_2022_bxd/
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-06-2022-TT-BXD-Quy-chuan-QCVN-06-2022-BXD-An-toan-chay-cho-nha-va-cong-trinh-544059.aspx
   relations:
+    replaces: QCVN 06:2020/BXD
     amendments:
     - id: SD1-2023-QCVN-06
       title: Sửa đổi 1:2023 QCVN 06:2022/BXD (Thông tư 09/2023/TT-BXD)
@@ -1275,6 +1281,40 @@ laws:
       sha256: fe681f6743cbfa149780f84bdb9afe8f2c5a2ea1f54d7cbc061715fc63cc88ad
       vault_path: CCBA_Legal_Vault/01_vbpl/10_2021_nd_cp/10_2021_nd_cp.docx
       status: verified
+- id: nghi_dinh_339_2026_nd_cp
+  document_number: 339/2026/NĐ-CP
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Phạm Gia Túc
+  issued_date: '2026-08-26'
+  effective_date: '2026-08-26'
+  published_date: '2026-08-26'
+  status: active
+  relations:
+    replaces: 16/2022/NĐ-CP
+  title: Nghị định 339/2026/NĐ-CP về xử phạt vi phạm hành chính trong lĩnh vực xây
+    dựng
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_339_2026_nd_cp/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung/Nghi-dinh-339-2026-ND-CP-xu-phat-vi-pham-hanh-chinh-trong-linh-vuc-xay-dung-658189.aspx
+  sha256: bd8568ccd6f9037977a65bc836b924b0486525a2229777aaf5a12b8925f6d75e
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_339_2026_nd_cp/sources/nghi_dinh_339_2026_nd_cp.pdf
+  pdf_sha256: 24842822059419ff9dc97b08bb35a0a118e89cd72201f4719e07a526011feb0b
+  cong_bao_number: Đang cập nhật
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_339_2026_nd_cp/sources/nghi_dinh_339_2026_nd_cp.docx
+  source_file_size_kb: 41.0
+  source_assets:
+    pdf:
+      sha256: 24842822059419ff9dc97b08bb35a0a118e89cd72201f4719e07a526011feb0b
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_339_2026_nd_cp/nghi_dinh_339_2026_nd_cp.pdf
+      status: verified
+    docx:
+      sha256: bd8568ccd6f9037977a65bc836b924b0486525a2229777aaf5a12b8925f6d75e
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_339_2026_nd_cp/nghi_dinh_339_2026_nd_cp.docx
+      status: verified
+  doc_id: nghi_dinh_339_2026_nd_cp
+  category: 01_vbpl
+  doc_type: vbpl
 standards:
 - id: TCVN-7336-2021
   document_number: TCVN 7336:2021
@@ -1337,7 +1377,9 @@ standards:
   issued_by: Bộ Khoa học và Công nghệ
   issued_date: '2023-02-28'
   effective_date: '2023-02-28'
-  status: active
+  status: expired
+  relations:
+    replaced_by: QCVN-10-2025-BCA
   bundle_path: legal_docs/03_tcvn/tcvn_3890_2023/
   source_file: legal_docs/03_tcvn/tcvn_3890_2023/sources/tcvn_3890_2023.docx
   source_file_size_kb: 107.0

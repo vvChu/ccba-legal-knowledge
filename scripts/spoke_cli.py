@@ -323,7 +323,7 @@ def generate_provenance_report_md(records: list[dict[str, Any]]) -> str:
         "  1. Không ghi đè toàn bộ bundle.",
         "  2. Tái tạo `tables/` bằng `TableKnowledgeExtractor` (ADR 0041).",
         "  3. Đồng bộ `figures/cards/` bằng `FigureExtractor` (ADR 0040).",
-        "  4. Xác nhận Gate 12, Gate 13, Gate 14 đạt $100\%$ trước khi cấp dấu.",
+        r"  4. Xác nhận Gate 12, Gate 13, Gate 14 đạt $100\%$ trước khi cấp dấu.",
         "- **Xử lý Nhóm C (Văn bản Hợp nhất VBHN):**",
         "  1. Sao lưu dự phòng `bang_so_sanh_thay_doi.md` và `patch_manifest.yaml`.",
         "  2. Thực thi VBHN Engine tái hợp nhất từ `sources/*_goc.md` và `sources/sua_doi_*.md`.",
