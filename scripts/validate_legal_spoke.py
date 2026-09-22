@@ -20,6 +20,7 @@ Validates:
 
 import argparse
 import csv
+from datetime import datetime, timezone
 import json
 import os
 import re
@@ -349,6 +350,9 @@ class LegalSpokeValidator:
         # Sub-Gate 5.2: Dual-PDF Archive & Provenance Invariant Check (ADR 0043)
         self._validate_dual_pdf_archive_invariant()
 
+        # Sub-Gate 5.3: Legal Validity & In-Force Verification Gate (RULE-3.1 & ADR 0059)
+        self._validate_legal_validity_and_in_force()
+
         return (len(self.errors), len(self.warnings))
 
     def _validate_dual_pdf_archive_invariant(self) -> None:
@@ -388,6 +392,91 @@ class LegalSpokeValidator:
                     self.warnings.append(
                         f"Dual-PDF Warning [{doc_dir.name}]: Failed to inspect metadata.yaml for PDF origin: {exc}"
                     )
+
+    def _validate_legal_validity_and_in_force(self) -> None:
+        """Sub-Gate 5.3: Legal Validity & In-Force Verification Gate (RULE-3.1 & ADR 0059).
+
+        Guarantees that:
+        1. Banned expired statutes (10/2021/NĐ-CP, 15/2021/NĐ-CP, 175/2024/NĐ-CP, 06/2021/NĐ-CP)
+           are strictly prohibited from 'status: active' (RULE-3.1).
+        2. Any document with 'status: expired' declared has:
+           - valid 'relations.replaced_by' reference or 'replaces' reference
+           - clear warning disclaimer in bundle's index.md
+        3. No document past its expiration_date retains 'status: active'.
+        """
+        banned_expired_numbers: Dict[str, str] = {
+            "10/2021/NĐ-CP": "206/2026/NĐ-CP",
+            "15/2021/NĐ-CP": "217/2026/NĐ-CP",
+            "175/2024/NĐ-CP": "217/2026/NĐ-CP",
+            "06/2021/NĐ-CP": "207/2026/NĐ-CP",
+            "136/2020/NĐ-CP": "105/2025/NĐ-CP",
+            "QCVN 06:2020/BXD": "QCVN 06:2022/BXD",
+        }
+
+        try:
+            with open(self.registry_file, "r", encoding="utf-8") as f:
+                data = yaml.safe_load(f) or {}
+        except Exception as exc:
+            self.errors.append(f"Sub-Gate 5.3 Error: Failed to load registry: {exc}")
+            return
+
+        all_items: List[Dict[str, Any]] = []
+        for sec in ["laws", "standards"]:
+            items = data.get(sec, [])
+            if isinstance(items, list):
+                all_items.extend(items)
+
+        today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+        for item in all_items:
+            if not isinstance(item, dict):
+                continue
+            doc_id = str(item.get("id", "UNKNOWN"))
+            bundle_p = str(item.get("bundle_path", ""))
+            doc_num = str(item.get("document_number", "")).strip()
+            status = str(item.get("status", "")).strip().lower()
+            relations = item.get("relations") if isinstance(item.get("relations"), dict) else {}
+
+            if self.target_bundle:
+                if doc_id != self.target_bundle and self.target_bundle not in bundle_p and doc_num != self.target_bundle:
+                    continue
+
+            # 1. Banned Expired Check
+            for banned_num, replacement in banned_expired_numbers.items():
+                if banned_num.upper() == doc_num.upper():
+                    if status in {"active", "current", "còn hiệu lực"}:
+                        self.errors.append(
+                            f"Legal Validity Hard Floor Violation [{doc_id}]: {doc_num} is repealed and strictly banned "
+                            f"from status: active (RULE-3.1). Must use {replacement} instead."
+                        )
+
+            # 2. Expiration Date Check vs Status
+            exp_date = str(item.get("expiration_date", "")).strip()
+            if exp_date and exp_date <= today_str:
+                if status in {"active", "current", "còn hiệu lực"}:
+                    self.errors.append(
+                        f"Legal Validity Inconsistency [{doc_id}]: Document {doc_num} has expiration_date {exp_date} "
+                        f"<= {today_str} but status is still '{status}'. Must be 'expired' (RULE-3.1)."
+                    )
+
+            # 3. Expired Document Integrity Check
+            if status in {"expired", "hết hiệu lực"}:
+                if not relations.get("replaced_by") and not item.get("replaces"):
+                    self.warnings.append(
+                        f"Legal Validity Warning [{doc_id}]: Expired document {doc_num} lacks 'relations.replaced_by' "
+                        f"in legal_registry.yaml."
+                    )
+
+                # Check index.md disclaimer in bundle
+                if bundle_p:
+                    bundle_dir = self.root_dir / bundle_p.strip("/")
+                    index_file = bundle_dir / "index.md"
+                    if index_file.exists():
+                        idx_text = index_file.read_text(encoding="utf-8").upper()
+                        if "HẾT HIỆU LỰC" not in idx_text and "EXPIRED" not in idx_text:
+                            self.warnings.append(
+                                f"Legal Validity Warning [{doc_id}]: index.md lacks clear 'HẾT HIỆU LỰC / EXPIRED' warning disclaimer."
+                            )
 
     def _validate_registry_pdf_meta(self, data: Dict[str, Any]) -> None:
         """Validate PDF fields in legal_registry.yaml."""
