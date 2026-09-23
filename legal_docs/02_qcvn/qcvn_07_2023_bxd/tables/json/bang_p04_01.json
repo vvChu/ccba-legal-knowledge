@@ -1,0 +1,226 @@
+{
+  "table_id": "bang_p04_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Các trị số giới hạn thiết kế bình đồ và mặt cắt dọc đường",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Các yếu tố",
+    "Tốc độ thiết kế, km/h — 100",
+    "Tốc độ thiết kế, km/h — 80",
+    "Tốc độ thiết kế, km/h — 60",
+    "Tốc độ thiết kế, km/h — 50",
+    "Tốc độ thiết kế, km/h — 40",
+    "Tốc độ thiết kế, km/h — 30",
+    "Tốc độ thiết kế, km/h — 20"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Các yếu tố": "1. Bán kính đường cong nằm 1), m",
+      "Tốc độ thiết kế, km/h — 100": "",
+      "Tốc độ thiết kế, km/h — 80": "",
+      "Tốc độ thiết kế, km/h — 60": "",
+      "Tốc độ thiết kế, km/h — 50": "",
+      "Tốc độ thiết kế, km/h — 40": "",
+      "Tốc độ thiết kế, km/h — 30": "",
+      "Tốc độ thiết kế, km/h — 20": ""
+    },
+    {
+      "_row_id": 2,
+      "Các yếu tố": "a) Tối thiểu giới hạn",
+      "Tốc độ thiết kế, km/h — 100": "400",
+      "Tốc độ thiết kế, km/h — 80": "250",
+      "Tốc độ thiết kế, km/h — 60": "125",
+      "Tốc độ thiết kế, km/h — 50": "80",
+      "Tốc độ thiết kế, km/h — 40": "60",
+      "Tốc độ thiết kế, km/h — 30": "30",
+      "Tốc độ thiết kế, km/h — 20": "15"
+    },
+    {
+      "_row_id": 3,
+      "Các yếu tố": "b) Tối thiểu thông thường",
+      "Tốc độ thiết kế, km/h — 100": "600",
+      "Tốc độ thiết kế, km/h — 80": "400",
+      "Tốc độ thiết kế, km/h — 60": "200",
+      "Tốc độ thiết kế, km/h — 50": "100",
+      "Tốc độ thiết kế, km/h — 40": "75",
+      "Tốc độ thiết kế, km/h — 30": "50",
+      "Tốc độ thiết kế, km/h — 20": "50"
+    },
+    {
+      "_row_id": 4,
+      "Các yếu tố": "c) Tối thiểu không siêu cao",
+      "Tốc độ thiết kế, km/h — 100": "4 000",
+      "Tốc độ thiết kế, km/h — 80": "2 500",
+      "Tốc độ thiết kế, km/h — 60": "1 500",
+      "Tốc độ thiết kế, km/h — 50": "1 000",
+      "Tốc độ thiết kế, km/h — 40": "600",
+      "Tốc độ thiết kế, km/h — 30": "350",
+      "Tốc độ thiết kế, km/h — 20": "250"
+    },
+    {
+      "_row_id": 5,
+      "Các yếu tố": "2. Tầm nhìn dừng xe2), m",
+      "Tốc độ thiết kế, km/h — 100": "150",
+      "Tốc độ thiết kế, km/h — 80": "100",
+      "Tốc độ thiết kế, km/h — 60": "75",
+      "Tốc độ thiết kế, km/h — 50": "55",
+      "Tốc độ thiết kế, km/h — 40": "40",
+      "Tốc độ thiết kế, km/h — 30": "30",
+      "Tốc độ thiết kế, km/h — 20": "20"
+    },
+    {
+      "_row_id": 6,
+      "Các yếu tố": "3. Tầm nhìn vượt xe 3), m",
+      "Tốc độ thiết kế, km/h — 100": "-",
+      "Tốc độ thiết kế, km/h — 80": "550",
+      "Tốc độ thiết kế, km/h — 60": "350",
+      "Tốc độ thiết kế, km/h — 50": "275",
+      "Tốc độ thiết kế, km/h — 40": "200",
+      "Tốc độ thiết kế, km/h — 30": "150",
+      "Tốc độ thiết kế, km/h — 20": "100"
+    },
+    {
+      "_row_id": 7,
+      "Các yếu tố": "4. Độ dốc dọc lớn nhất 4), %",
+      "Tốc độ thiết kế, km/h — 100": "4",
+      "Tốc độ thiết kế, km/h — 80": "5",
+      "Tốc độ thiết kế, km/h — 60": "6",
+      "Tốc độ thiết kế, km/h — 50": "6",
+      "Tốc độ thiết kế, km/h — 40": "7",
+      "Tốc độ thiết kế, km/h — 30": "8",
+      "Tốc độ thiết kế, km/h — 20": "9"
+    },
+    {
+      "_row_id": 8,
+      "Các yếu tố": "5. Độ dốc siêu cao lớn nhất 5), %",
+      "Tốc độ thiết kế, km/h — 100": "8",
+      "Tốc độ thiết kế, km/h — 80": "8",
+      "Tốc độ thiết kế, km/h — 60": "7",
+      "Tốc độ thiết kế, km/h — 50": "6",
+      "Tốc độ thiết kế, km/h — 40": "6",
+      "Tốc độ thiết kế, km/h — 30": "6",
+      "Tốc độ thiết kế, km/h — 20": "6"
+    },
+    {
+      "_row_id": 9,
+      "Các yếu tố": "6. Chiều dài tối thiểu đổi dốc 6), m",
+      "Tốc độ thiết kế, km/h — 100": "200",
+      "Tốc độ thiết kế, km/h — 80": "150",
+      "Tốc độ thiết kế, km/h — 60": "100",
+      "Tốc độ thiết kế, km/h — 50": "80",
+      "Tốc độ thiết kế, km/h — 40": "70",
+      "Tốc độ thiết kế, km/h — 30": "50",
+      "Tốc độ thiết kế, km/h — 20": "30"
+    },
+    {
+      "_row_id": 10,
+      "Các yếu tố": "",
+      "Tốc độ thiết kế, km/h — 100": "(150)",
+      "Tốc độ thiết kế, km/h — 80": "(120)",
+      "Tốc độ thiết kế, km/h — 60": "(60)",
+      "Tốc độ thiết kế, km/h — 50": "(50)",
+      "Tốc độ thiết kế, km/h — 40": "(40)",
+      "Tốc độ thiết kế, km/h — 30": "(30)",
+      "Tốc độ thiết kế, km/h — 20": "(20)"
+    },
+    {
+      "_row_id": 11,
+      "Các yếu tố": "7. Bán kính đường cong đứng tối thiểu 7), m",
+      "Tốc độ thiết kế, km/h — 100": "",
+      "Tốc độ thiết kế, km/h — 80": "",
+      "Tốc độ thiết kế, km/h — 60": "",
+      "Tốc độ thiết kế, km/h — 50": "",
+      "Tốc độ thiết kế, km/h — 40": "",
+      "Tốc độ thiết kế, km/h — 30": "",
+      "Tốc độ thiết kế, km/h — 20": ""
+    },
+    {
+      "_row_id": 12,
+      "Các yếu tố": "a) Lồi:",
+      "Tốc độ thiết kế, km/h — 100": "",
+      "Tốc độ thiết kế, km/h — 80": "",
+      "Tốc độ thiết kế, km/h — 60": "",
+      "Tốc độ thiết kế, km/h — 50": "",
+      "Tốc độ thiết kế, km/h — 40": "",
+      "Tốc độ thiết kế, km/h — 30": "",
+      "Tốc độ thiết kế, km/h — 20": ""
+    },
+    {
+      "_row_id": 13,
+      "Các yếu tố": "&nbsp;&nbsp;\\- Thông thường",
+      "Tốc độ thiết kế, km/h — 100": "10 000",
+      "Tốc độ thiết kế, km/h — 80": "4 500",
+      "Tốc độ thiết kế, km/h — 60": "2 000",
+      "Tốc độ thiết kế, km/h — 50": "1 200",
+      "Tốc độ thiết kế, km/h — 40": "700",
+      "Tốc độ thiết kế, km/h — 30": "400",
+      "Tốc độ thiết kế, km/h — 20": "200"
+    },
+    {
+      "_row_id": 14,
+      "Các yếu tố": "&nbsp;&nbsp;\\- Giới hạn",
+      "Tốc độ thiết kế, km/h — 100": "6 500",
+      "Tốc độ thiết kế, km/h — 80": "3 000",
+      "Tốc độ thiết kế, km/h — 60": "1 400",
+      "Tốc độ thiết kế, km/h — 50": "800",
+      "Tốc độ thiết kế, km/h — 40": "450",
+      "Tốc độ thiết kế, km/h — 30": "250",
+      "Tốc độ thiết kế, km/h — 20": "100"
+    },
+    {
+      "_row_id": 15,
+      "Các yếu tố": "b) Lõm:",
+      "Tốc độ thiết kế, km/h — 100": "",
+      "Tốc độ thiết kế, km/h — 80": "",
+      "Tốc độ thiết kế, km/h — 60": "",
+      "Tốc độ thiết kế, km/h — 50": "",
+      "Tốc độ thiết kế, km/h — 40": "",
+      "Tốc độ thiết kế, km/h — 30": "",
+      "Tốc độ thiết kế, km/h — 20": ""
+    },
+    {
+      "_row_id": 16,
+      "Các yếu tố": "&nbsp;&nbsp;\\- Thông thường",
+      "Tốc độ thiết kế, km/h — 100": "4 500",
+      "Tốc độ thiết kế, km/h — 80": "3 000",
+      "Tốc độ thiết kế, km/h — 60": "1 500",
+      "Tốc độ thiết kế, km/h — 50": "1 000",
+      "Tốc độ thiết kế, km/h — 40": "700",
+      "Tốc độ thiết kế, km/h — 30": "400",
+      "Tốc độ thiết kế, km/h — 20": "200"
+    },
+    {
+      "_row_id": 17,
+      "Các yếu tố": "&nbsp;&nbsp;\\- Giới hạn",
+      "Tốc độ thiết kế, km/h — 100": "3 000",
+      "Tốc độ thiết kế, km/h — 80": "2 000",
+      "Tốc độ thiết kế, km/h — 60": "1 000",
+      "Tốc độ thiết kế, km/h — 50": "700",
+      "Tốc độ thiết kế, km/h — 40": "450",
+      "Tốc độ thiết kế, km/h — 30": "250",
+      "Tốc độ thiết kế, km/h — 20": "100"
+    },
+    {
+      "_row_id": 18,
+      "Các yếu tố": "8. Chiều dài đường cong đứng tối thiểu, m",
+      "Tốc độ thiết kế, km/h — 100": "85",
+      "Tốc độ thiết kế, km/h — 80": "70",
+      "Tốc độ thiết kế, km/h — 60": "50",
+      "Tốc độ thiết kế, km/h — 50": "40",
+      "Tốc độ thiết kế, km/h — 40": "35",
+      "Tốc độ thiết kế, km/h — 30": "25",
+      "Tốc độ thiết kế, km/h — 20": "20"
+    }
+  ],
+  "footnotes": {
+    "1)": "**CHÚ THÍCH 1:** Bán kính đường cong nằm ghi trong Bảng 1 chỉ áp dụng đối với các đoạn đường vòng, không áp dụng ở các nút giao nhau.",
+    "2)": "**CHÚ THÍCH 2:** Tầm nhìn hai chiều lấy bằng 2 lần tầm nhìn dừng xe.",
+    "3)": "**CHÚ THÍCH 3:** Tầm nhìn vượt xe không yêu cầu đối với đường cao tốc, đường có dải phân cách giữa, đường một chiều.",
+    "4)": "**CHÚ THÍCH 4:** Độ dốc dọc lớn nhất ở các địa hình khó khăn (vùng núi) cho phép tăng lên 2 % so với quy định ghi trong bảng đối với đường cấp khu vực, cấp nội bộ và 1 % đối với đường cấp đô thị.",
+    "5)": "**CHÚ THÍCH 5:** Đối với các nút giao đơn giản cho phép không bố trí siêu cao hoặc độ dốc siêu cao bằng độ dốc ngang mặt đường.",
+    "6)": "**CHÚ THÍCH 6:** Đối với các đường cải tạo nâng cấp dùng trị số trong ngoặc đơn ().",
+    "7)": "**CHÚ THÍCH 7:** Bán kính đường cong nằm và đường cong đứng quy định hai giá trị: bán kính giới hạn là bán kính nhỏ nhất và được dùng ở những địa hình khó khăn đặc biệt; bán kính thông thường là bán kính tối thiểu, khuyến cáo sử dụng trong trường hợp địa hình không quá phức tạp. Trong mọi trường hợp sử dụng bán kính càng lớn càng tốt."
+  },
+  "part_id": "p04"
+}

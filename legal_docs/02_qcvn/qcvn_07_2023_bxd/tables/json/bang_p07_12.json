@@ -1,5 +1,5 @@
 {
-  "table_id": "bang_12",
+  "table_id": "bang_p07_12",
   "table_number": "12",
   "table_title": "Bảng 12 - Yêu cầu độ rọi mặt ngang trung bình và tối thiểu của ga tàu điện",
   "archetype": "FLAT_MATRIX",
@@ -28,5 +28,6 @@
       "Ban đêm — $E_{n,min}$, lx": "50"
     }
   ],
-  "footnotes": []
+  "footnotes": [],
+  "part_id": "p07"
 }

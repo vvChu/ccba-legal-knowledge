@@ -1,4 +1,13 @@
 {
+  "10_2021_nd_cp": {
+    "slug": "10_2021_nd_cp",
+    "category": "01_vbpl",
+    "md_sha256": "948973e3fca141ce5769f0531065e9ff84d0ccf8d2fb20c9eccc6a607e75a5d9",
+    "md_lines": 1059,
+    "clauses_count": 249,
+    "tables_count": 0,
+    "figures_count": 0
+  },
   "luat_dau_thau_2023_22_2023_qh15": {
     "slug": "luat_dau_thau_2023_22_2023_qh15",
     "category": "01_vbpl",
@@ -65,8 +74,8 @@
   "nghi_dinh_209_2026_nd_cp": {
     "slug": "nghi_dinh_209_2026_nd_cp",
     "category": "01_vbpl",
-    "md_sha256": "82c8c7caac2d2a37d0f939a6106173647e1a0ba87a83919cb70c905fcfd06412",
-    "md_lines": 362,
+    "md_sha256": "5c0cfc0a0e68dfd8e6b5f4adf397b58d20cab4c6f913b11f940677757e46beb1",
+    "md_lines": 364,
     "clauses_count": 82,
     "tables_count": 0,
     "figures_count": 0
@@ -83,7 +92,7 @@
   "nghi_dinh_212_2026_nd_cp": {
     "slug": "nghi_dinh_212_2026_nd_cp",
     "category": "01_vbpl",
-    "md_sha256": "5cbf2188f7f90b9b581f964fa66f103e10e74b2860ad8d382462c99bdbdc2738",
+    "md_sha256": "066efa3dcfaf4b30e1f04b46827fcce3111810e94d943d44c48cf12f6172d2ba",
     "md_lines": 1522,
     "clauses_count": 292,
     "tables_count": 0,
@@ -107,6 +116,15 @@
     "tables_count": 0,
     "figures_count": 0
   },
+  "nghi_dinh_339_2026_nd_cp": {
+    "slug": "nghi_dinh_339_2026_nd_cp",
+    "category": "01_vbpl",
+    "md_sha256": "6cf0c757fd8d9463592a384d98fe4e8a9deff55952ecdd484b9a0e2d5e040f33",
+    "md_lines": 417,
+    "clauses_count": 135,
+    "tables_count": 0,
+    "figures_count": 0
+  },
   "thong_tu_101_2026_tt_bqp": {
     "slug": "thong_tu_101_2026_tt_bqp",
     "category": "01_vbpl",
@@ -119,8 +137,8 @@
   "thong_tu_32_2026_tt_bxd": {
     "slug": "thong_tu_32_2026_tt_bxd",
     "category": "01_vbpl",
-    "md_sha256": "504d5c647261aadace32132652f07d4dcf2ffd953324a45878d277e093e21854",
-    "md_lines": 233,
+    "md_sha256": "c9a6074d3d90d2adab2811c00b64f4115dc8c53d07f1549e70a89d7ef7ad5453",
+    "md_lines": 248,
     "clauses_count": 31,
     "tables_count": 0,
     "figures_count": 0
@@ -215,6 +233,15 @@
     "tables_count": 0,
     "figures_count": 0
   },
+  "vn_hn_qd_38_2026_qd_ubnd": {
+    "slug": "vn_hn_qd_38_2026_qd_ubnd",
+    "category": "01_vbpl",
+    "md_sha256": "ef16e9ae570d96ec9531ffdf0b5d94aa63ccfeca51ff75ba75b1d6fbe1dc58c5",
+    "md_lines": 336,
+    "clauses_count": 89,
+    "tables_count": 0,
+    "figures_count": 0
+  },
   "qcvn_01_2021_bxd": {
     "slug": "qcvn_01_2021_bxd",
     "category": "02_qcvn",
@@ -227,8 +254,8 @@
   "qcvn_02_2022_bxd": {
     "slug": "qcvn_02_2022_bxd",
     "category": "02_qcvn",
-    "md_sha256": "f90e6caa6de2f4aa3f24f6716f4c088740b8285f26972471fbab0fbcaf048f04",
-    "md_lines": 2425,
+    "md_sha256": "3d2336d92397c66a2a2466eddadea91ef8feb98469f0a17f2e7d5e3a9e2e4ac1",
+    "md_lines": 2566,
     "clauses_count": 119,
     "tables_count": 0,
     "figures_count": 0
@@ -236,10 +263,19 @@
   "qcvn_03_2022_bxd": {
     "slug": "qcvn_03_2022_bxd",
     "category": "02_qcvn",
-    "md_sha256": "1205eccafceaa4ed2cb1df9fba491b3105d9e968136934ab8c893b46119e4051",
-    "md_lines": 145,
-    "clauses_count": 22,
-    "tables_count": 2,
+    "md_sha256": "1de86f42e9297aef615767af6935ced4d11564a7d3d62d9c16b4449f01739682",
+    "md_lines": 302,
+    "clauses_count": 62,
+    "tables_count": 3,
+    "figures_count": 0
+  },
+  "qcvn_03_2023_bca": {
+    "slug": "qcvn_03_2023_bca",
+    "category": "02_qcvn",
+    "md_sha256": "8a292bd2a4092ead545c2e9992971215327167146b90a14c8a304339aff2b1a7",
+    "md_lines": 1016,
+    "clauses_count": 32,
+    "tables_count": 0,
     "figures_count": 0
   },
   "qcvn_04_2021_bxd": {
@@ -254,11 +290,74 @@
   "qcvn_06_2022_bxd": {
     "slug": "qcvn_06_2022_bxd",
     "category": "02_qcvn",
-    "md_sha256": "eaf60f5169cff82caa8818fa117c25c52131e45708fb0a37abb40e47a4976af8",
-    "md_lines": 2991,
+    "md_sha256": "da78f980c278691ca24114d23cd42e2b5fcef7e9a9d42169b6e727d41dc3a5c2",
+    "md_lines": 2997,
     "clauses_count": 768,
     "tables_count": 0,
     "figures_count": 0
+  },
+  "qcvn_07_2023_bxd": {
+    "slug": "qcvn_07_2023_bxd",
+    "category": "02_qcvn",
+    "md_sha256": "0ef85e6eaac5ee0cb53297a3e2d5565a9ee3e6942e391138539b1ed10835d892",
+    "md_lines": 6164,
+    "clauses_count": 545,
+    "tables_count": 25,
+    "figures_count": 2
+  },
+  "qcvn_09_2017_bxd": {
+    "slug": "qcvn_09_2017_bxd",
+    "category": "02_qcvn",
+    "md_sha256": "56d7d0a1a084bb5e5088d395267834bd2235e2fb76302a7bd293541ca59642e1",
+    "md_lines": 677,
+    "clauses_count": 40,
+    "tables_count": 9,
+    "figures_count": 0
+  },
+  "qcvn_10_2024_bxd": {
+    "slug": "qcvn_10_2024_bxd",
+    "category": "02_qcvn",
+    "md_sha256": "c557344e0f1c9e347bf9f0fb601d392005a54da526e378455e95215cffd24f68",
+    "md_lines": 954,
+    "clauses_count": 129,
+    "tables_count": 2,
+    "figures_count": 25
+  },
+  "qcvn_10_2025_bca": {
+    "slug": "qcvn_10_2025_bca",
+    "category": "02_qcvn",
+    "md_sha256": "dc6df499fd4528296d8b665ffda05e090023aac84f9ed423316e7c79c2fea96d",
+    "md_lines": 681,
+    "clauses_count": 125,
+    "tables_count": 19,
+    "figures_count": 2
+  },
+  "qcvn_12_2014_bxd": {
+    "slug": "qcvn_12_2014_bxd",
+    "category": "02_qcvn",
+    "md_sha256": "bef99e20ed9655c1242c751054f3fb1a9ad0dfa81e159fedc207db54e7d9c781",
+    "md_lines": 2540,
+    "clauses_count": 424,
+    "tables_count": 17,
+    "figures_count": 14
+  },
+  "qcvn_13_2018_bxd": {
+    "slug": "qcvn_13_2018_bxd",
+    "category": "02_qcvn",
+    "md_sha256": "429b2088e8f24558d55e71193b99b8740f421bb70d8283fc2ba145ecd434f82e",
+    "md_lines": 994,
+    "clauses_count": 133,
+    "tables_count": 9,
+    "figures_count": 0
+  },
+  "tcvn_10304_2014": {
+    "slug": "tcvn_10304_2014",
+    "category": "03_tcvn",
+    "md_sha256": "b0530b354e0d46a609fae447aab5288dd0770575957d5a799d13e95fb3f3bebb",
+    "md_lines": 2910,
+    "clauses_count": 395,
+    "tables_count": 26,
+    "figures_count": 5
   },
   "tcvn_2737_2023": {
     "slug": "tcvn_2737_2023",
@@ -278,6 +377,51 @@
     "tables_count": 11,
     "figures_count": 0
   },
+  "tcvn_3981_1985": {
+    "slug": "tcvn_3981_1985",
+    "category": "03_tcvn",
+    "md_sha256": "ddfc5a28a26a466720a6225cdcffe5fbdfcd10e454d03d4bd7ff37f1030acc31",
+    "md_lines": 1028,
+    "clauses_count": 151,
+    "tables_count": 22,
+    "figures_count": 0
+  },
+  "tcvn_4470_2012": {
+    "slug": "tcvn_4470_2012",
+    "category": "03_tcvn",
+    "md_sha256": "0002b9147c2019d23422189839c19781b0ce8e06d0d637dd43e04f70e89f1660",
+    "md_lines": 2902,
+    "clauses_count": 407,
+    "tables_count": 39,
+    "figures_count": 34
+  },
+  "tcvn_4474_1987": {
+    "slug": "tcvn_4474_1987",
+    "category": "03_tcvn",
+    "md_sha256": "59d5660f66e85486bf69c5a037460ab04c83bb4e2bb05d50bd7d1db6c6653da4",
+    "md_lines": 1107,
+    "clauses_count": 156,
+    "tables_count": 11,
+    "figures_count": 0
+  },
+  "tcvn_4513_1988": {
+    "slug": "tcvn_4513_1988",
+    "category": "03_tcvn",
+    "md_sha256": "639b077b2b04a2d50fef6a233adf4913be1dc509a9f3b8ea62b4c9aadcfae57b",
+    "md_lines": 1337,
+    "clauses_count": 158,
+    "tables_count": 21,
+    "figures_count": 0
+  },
+  "tcvn_4601_2012": {
+    "slug": "tcvn_4601_2012",
+    "category": "03_tcvn",
+    "md_sha256": "4a95fa7c83c1643f3ec9cebb429dd2b1cf6421caa995938f6fd3a73e12d7207e",
+    "md_lines": 1331,
+    "clauses_count": 269,
+    "tables_count": 10,
+    "figures_count": 0
+  },
   "tcvn_5574_2018": {
     "slug": "tcvn_5574_2018",
     "category": "03_tcvn",
@@ -287,6 +431,24 @@
     "tables_count": 32,
     "figures_count": 40
   },
+  "tcvn_5575_2024": {
+    "slug": "tcvn_5575_2024",
+    "category": "03_tcvn",
+    "md_sha256": "f2cae022de01c278a7a07f4f0e000e7911cba5dd2886b3d19750fa383c101c38",
+    "md_lines": 6890,
+    "clauses_count": 937,
+    "tables_count": 110,
+    "figures_count": 48
+  },
+  "tcvn_5687_2024": {
+    "slug": "tcvn_5687_2024",
+    "category": "03_tcvn",
+    "md_sha256": "47eccd29eb7bed65d81296673956fb37d542f9159ea5dce549439c998d5cad53",
+    "md_lines": 1489,
+    "clauses_count": 337,
+    "tables_count": 17,
+    "figures_count": 0
+  },
   "tcvn_5738_2021": {
     "slug": "tcvn_5738_2021",
     "category": "03_tcvn",
@@ -294,7 +456,7 @@
     "md_lines": 774,
     "clauses_count": 87,
     "tables_count": 5,
-    "figures_count": 4
+    "figures_count": 3
   },
   "tcvn_7336_2021": {
     "slug": "tcvn_7336_2021",
@@ -304,6 +466,51 @@
     "clauses_count": 263,
     "tables_count": 0,
     "figures_count": 0
+  },
+  "tcvn_9362_2012": {
+    "slug": "tcvn_9362_2012",
+    "category": "03_tcvn",
+    "md_sha256": "271869a231f8267ae74d4af06bf6ba2078659f5a854ea7e701fea1d727c39d92",
+    "md_lines": 2658,
+    "clauses_count": 365,
+    "tables_count": 38,
+    "figures_count": 7
+  },
+  "tcvn_9385_2012": {
+    "slug": "tcvn_9385_2012",
+    "category": "03_tcvn",
+    "md_sha256": "9b7652fd33baca547bd79156cc8f6c3f49791a231bb5fb84deddb083c7d8add7",
+    "md_lines": 1969,
+    "clauses_count": 136,
+    "tables_count": 26,
+    "figures_count": 60
+  },
+  "tcvn_9386_2025": {
+    "slug": "tcvn_9386_2025",
+    "category": "03_tcvn",
+    "md_sha256": "bf96cf8704e53d9c67ce503b5280728766592d87ff2f49c2031da4416c9623c8",
+    "md_lines": 7718,
+    "clauses_count": 570,
+    "tables_count": 27,
+    "figures_count": 46
+  },
+  "tcvn_iso_19650_1_2021": {
+    "slug": "tcvn_iso_19650_1_2021",
+    "category": "03_tcvn",
+    "md_sha256": "771592d8774adcc00a42f9698cf4645d9add3ab0eaf2f6cffbe6aa73c4dda78a",
+    "md_lines": 1114,
+    "clauses_count": 87,
+    "tables_count": 1,
+    "figures_count": 14
+  },
+  "tcvn_iso_19650_2_2021": {
+    "slug": "tcvn_iso_19650_2_2021",
+    "category": "03_tcvn",
+    "md_sha256": "65dbcc3cc085ad4ce1cbcb5ae7783ee18fe910239d913f6bda6795b7b506d339",
+    "md_lines": 1550,
+    "clauses_count": 144,
+    "tables_count": 2,
+    "figures_count": 12
   },
   "bang_so_sanh_luat_xay_dung_2025_vs_2014": {
     "slug": "bang_so_sanh_luat_xay_dung_2025_vs_2014",

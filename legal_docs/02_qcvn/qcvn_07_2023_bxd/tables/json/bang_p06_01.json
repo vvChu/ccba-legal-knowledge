@@ -1,0 +1,121 @@
+{
+  "table_id": "bang_p06_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Khoảng cách an toàn từ bồn chứa LNG đến các đối tượng được bảo vệ và khoảng cách giữa các bồn chứa",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Dung tích bồn chứa (V), $m^{3}$",
+    "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim",
+    "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi",
+    "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm",
+    "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Dung tích bồn chứa (V), $m^{3}$": "V ≤ 0,5",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim": "4,6",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi": "0",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi": "0"
+    },
+    {
+      "_row_id": 2,
+      "Dung tích bồn chứa (V), $m^{3}$": "0,5 < V ≤ 1",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim": "4,6",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi": "3,0",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi": "1.0"
+    },
+    {
+      "_row_id": 3,
+      "Dung tích bồn chứa (V), $m^{3}$": "1 < V ≤ 1,9",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim": "4,6",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi": "1,0"
+    },
+    {
+      "_row_id": 4,
+      "Dung tích bồn chứa (V), $m^{3}$": "1,9 < V < 3,8",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim": "4,6",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi": "1,5"
+    },
+    {
+      "_row_id": 5,
+      "Dung tích bồn chứa (V), $m^{3}$": "3,8 ≤ V < 7,6",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim": "4,6",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi": "1.5"
+    },
+    {
+      "_row_id": 6,
+      "Dung tích bồn chứa (V), $m^{3}$": "7,6 ≤ V < 68,1",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim": "4,6",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi": "7,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi": "1,5"
+    },
+    {
+      "_row_id": 7,
+      "Dung tích bồn chứa (V), $m^{3}$": "68,1 ≤ V < 114",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim": "7,6",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi": "15,0",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi": "1,5"
+    },
+    {
+      "_row_id": 8,
+      "Dung tích bồn chứa (V), $m^{3}$": "114 ≤ V < 265",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim": "12,2",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi": "23,0",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi": "1/4 tổng đường kính hai bồn lân cận nhưng không nhỏ hơn 1,5 m"
+    },
+    {
+      "_row_id": 9,
+      "Dung tích bồn chứa (V), $m^{3}$": "265 ≤ V < 379",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim": "12,2",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi": "30,5",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi": "1/4 tổng đường kính hai bồn lân cận nhưng không nhỏ hơn 1,5 m"
+    },
+    {
+      "_row_id": 10,
+      "Dung tích bồn chứa (V), $m^{3}$": "379 ≤ V < 454",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim": "20,0",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi": "38,0",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi": "1/4 tổng đường kính hai bồn lân cận nhưng không nhỏ hơn 1,5 m"
+    },
+    {
+      "_row_id": 11,
+      "Dung tích bồn chứa (V), $m^{3}$": "454 ≤ V < 757",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim": "30,5",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi": "61,0",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi": ""
+    },
+    {
+      "_row_id": 12,
+      "Dung tích bồn chứa (V), $m^{3}$": "757 ≤ V ≤ 4 000",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim": "45,7",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi": "91,4",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi": ""
+    },
+    {
+      "_row_id": 13,
+      "Dung tích bồn chứa (V), $m^{3}$": "V > 4 000",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim": "0,7 đường kính bồn nhưng không nhỏ hơn 30 m",
+      "Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi": "0,7 đường kính bồn nhưng không nhỏ hơn 30 m",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm": "4,6",
+      "Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi": ""
+    }
+  ],
+  "footnotes": [],
+  "part_id": "p06"
+}

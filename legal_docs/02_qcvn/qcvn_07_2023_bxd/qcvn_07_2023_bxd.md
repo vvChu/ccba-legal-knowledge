@@ -21,7 +21,7 @@ effective_date: '2024-07-01'
 status: active
 pdf_anchor:
   path: ./sources/qcvn_07_2023_bxd.pdf
-  sha256: bf4612e32fba3a63314191181060e1fc1a986877a909819642cf20a6450fe2e3
+  sha256: 0c191f4c008671255aeffd08d334edc2da0c4b1410a2c7f006bfe813e5676435
   cong_bao_number: 15/2023/TT-BXD
 relations:
   replaces: QCVN-07-2016-BXD
@@ -1300,7 +1300,7 @@ Phải đảm bảo có giải pháp thoát khí cho mạng lưới thoát nư�
 ### 2.2.14  Trạm bơm, bể chứa nước thải
 
 
-<a id="bang-bang-01"></a>
+<a id="bang-bang-p02-01"></a>
 ### Bảng 1 - Độ tin cậy của trạm bơm
 
 | Phân loại theo độ tin cậy | Đặc tính làm việc của trạm bơm |
@@ -2204,7 +2204,7 @@ Gồm đường đô thị, cầu đường bộ, hầm đường bộ trong đ�
 &nbsp;&nbsp;\- Với đường đô thị cải tạo và đường mới trên địa hình đặc biệt khó khăn, nếu có căn cứ kinh tế - kỹ thuật, cho phép giảm trị số tầm nhìn cho trong Bảng 1, khi đó phải có biển báo hạn chế tốc độ và kết hợp với các biện pháp kiểm soát tốc độ khác.
 
 
-<a id="bang-bang-01"></a>
+<a id="bang-bang-p04-01"></a>
 ### Bảng 1 - Các trị số giới hạn thiết kế bình đồ và mặt cắt dọc đường
 
 | Các yếu tố | Tốc độ thiết kế, km/h — 100 | Tốc độ thiết kế, km/h — 80 | Tốc độ thiết kế, km/h — 60 | Tốc độ thiết kế, km/h — 50 | Tốc độ thiết kế, km/h — 40 | Tốc độ thiết kế, km/h — 30 | Tốc độ thiết kế, km/h — 20 |
@@ -2227,7 +2227,20 @@ Gồm đường đô thị, cầu đường bộ, hầm đường bộ trong đ�
 | &nbsp;&nbsp;\- Thông thường | 4 500 | 3 000 | 1 500 | 1 000 | 700 | 400 | 200 |
 | &nbsp;&nbsp;\- Giới hạn | 3 000 | 2 000 | 1 000 | 700 | 450 | 250 | 100 |
 | 8. Chiều dài đường cong đứng tối thiểu, m | 85 | 70 | 50 | 40 | 35 | 25 | 20 |
-| **<sup>1)</sup> Bán kính đường cong nằm ghi trong Bảng 1 chỉ áp dụng đối với các đoạn đường vòng, không áp dụng ở các nút giao nhau.<br><sup>2)</sup> Tầm nhìn hai chiều lấy bằng 2 lần tầm nhìn dừng xe.<br><sup>3)</sup> Tầm nhìn vượt xe không yêu cầu đối với đường cao tốc, đường có dải phân cách giữa, đường một chiều.<br><sup>4)</sup> Độ dốc dọc lớn nhất ở các địa hình khó khăn (vùng núi) cho phép tăng lên 2 % so với quy định ghi trong bảng đối với đường cấp khu vực, cấp nội bộ và 1 % đối với đường cấp đô thị.<br><sup>5)</sup> Đối với các nút giao đơn giản cho phép không bố trí siêu cao hoặc độ dốc siêu cao bằng độ dốc ngang mặt đường.<br><sup>6)</sup> Đối với các đường cải tạo nâng cấp dùng trị số trong ngoặc đơn ().<br><sup>7)</sup> Bán kính đường cong nằm và đường cong đứng quy định hai giá trị: bán kính giới hạn là bán kính nhỏ nhất và được dùng ở những địa hình khó khăn đặc biệt; bán kính thông thường là bán kính tối thiểu, khuyến cáo sử dụng trong trường hợp địa hình không quá phức tạp. Trong mọi trường hợp sử dụng bán kính càng lớn càng tốt.** |  |  |  |  |  |  |  |
+
+> **CHÚ THÍCH 1:** Bán kính đường cong nằm ghi trong Bảng 1 chỉ áp dụng đối với các đoạn đường vòng, không áp dụng ở các nút giao nhau.
+>
+> **CHÚ THÍCH 2:** Tầm nhìn hai chiều lấy bằng 2 lần tầm nhìn dừng xe.
+>
+> **CHÚ THÍCH 3:** Tầm nhìn vượt xe không yêu cầu đối với đường cao tốc, đường có dải phân cách giữa, đường một chiều.
+>
+> **CHÚ THÍCH 4:** Độ dốc dọc lớn nhất ở các địa hình khó khăn (vùng núi) cho phép tăng lên 2 % so với quy định ghi trong bảng đối với đường cấp khu vực, cấp nội bộ và 1 % đối với đường cấp đô thị.
+>
+> **CHÚ THÍCH 5:** Đối với các nút giao đơn giản cho phép không bố trí siêu cao hoặc độ dốc siêu cao bằng độ dốc ngang mặt đường.
+>
+> **CHÚ THÍCH 6:** Đối với các đường cải tạo nâng cấp dùng trị số trong ngoặc đơn ().
+>
+> **CHÚ THÍCH 7:** Bán kính đường cong nằm và đường cong đứng quy định hai giá trị: bán kính giới hạn là bán kính nhỏ nhất và được dùng ở những địa hình khó khăn đặc biệt; bán kính thông thường là bán kính tối thiểu, khuyến cáo sử dụng trong trường hợp địa hình không quá phức tạp. Trong mọi trường hợp sử dụng bán kính càng lớn càng tốt.
 
 
 <a id="muc-2-2-1-2"></a>
@@ -2288,7 +2301,7 @@ Các trị số bán kính đường cong tối thiểu giới hạn, tối thi�
 ### 2.2.2.4  Ở các đoạn đường cong bán kính từ 15 m đến 45 m thì độ dốc lớn nhất cho trong Bảng 1 phải giảm bớt độ dốc dọc theo trị số cho trong Bảng 2.
 
 
-<a id="bang-bang-02"></a>
+<a id="bang-bang-p04-02"></a>
 ### Bảng 2 - Giảm độ dốc trên đường cong
 
 | Bán kính đường cong, m | > 30 ÷ ≤ 45 | > 25 ÷ ≤ 30 | > 20 ÷ ≤ 25 | > 15 ÷ ≤ 20 | ≤ 15 |
@@ -2330,7 +2343,7 @@ Các trị số bán kính đường cong tối thiểu giới hạn, tối thi�
 Các yếu tố của phần xe chạy đường cao tốc (số làn xe, chiều rộng làn xe, chiều rộng an toàn, chiều rộng đường) được quy định tại Bảng 3.
 
 
-<a id="bang-bang-03"></a>
+<a id="bang-bang-p04-03"></a>
 ### Bảng 3 - Kích thước tối thiểu mặt cắt ngang đường đô thị
 
 | Cấp đường | Loại đường | Tốc độ thiết kế, km/h <sup>1)</sup> | Số làn xe 2 chiều | Chiều rộng 1 làn xe, m | Chiều rộng dài an toàn, m<sup>2)</sup> | Chiều rộng đường tối thiểu, m |
@@ -2354,7 +2367,10 @@ Các yếu tố của phần xe chạy đường cao tốc (số làn xe, chiề
 | Cấp nội bộ | 8. Đường nhóm nhà ở, đường cụt | 20, 30 | 2 | 3,00 | - | 10,00 |
 | Cấp nội bộ | 9. Đường xe đạp | - | 2 | 1,50 | - | 3,00 |
 | Cấp nội bộ | 10. Đường đi bộ | - | 2 | 0,75 | - | 1,50 |
-| **<sup>1)</sup> Tốc độ thiết kế 60 km/h đối với cấp đường là cấp đô thị được sử dụng đối với địa hình vùng núi.<br><sup>2)</sup> Chiều rộng tối thiểu dài an toàn cho đường cao tốc đô thị trong Bảng 3 là chiều rộng áp dụng cho dải an toàn của dải giữa. Chiều rộng tối thiểu của dài dừng xe khẩn cấp (lề gia cố) đối với đường cao tốc đô thị có tốc độ thiết kế nhỏ hơn hoặc bằng 80 km/h là 2,5 m, tốc độ thiết kế bằng 100 km/h là 3 m; chiều rộng phần lề trồng cỏ là 0,75 m.** |  |  |  |  |  |  |
+
+> **CHÚ THÍCH 1:** Tốc độ thiết kế 60 km/h đối với cấp đường là cấp đô thị được sử dụng đối với địa hình vùng núi.
+>
+> **CHÚ THÍCH 2:** Chiều rộng tối thiểu dài an toàn cho đường cao tốc đô thị trong Bảng 3 là chiều rộng áp dụng cho dải an toàn của dải giữa. Chiều rộng tối thiểu của dài dừng xe khẩn cấp (lề gia cố) đối với đường cao tốc đô thị có tốc độ thiết kế nhỏ hơn hoặc bằng 80 km/h là 2,5 m, tốc độ thiết kế bằng 100 km/h là 3 m; chiều rộng phần lề trồng cỏ là 0,75 m.
 
 
 <a id="muc-2-2-3-2-2"></a>
@@ -2405,7 +2421,7 @@ Số làn xe:  n = $N_{h}$/Z x $P_{tt}$ (làn xe);
 &nbsp;&nbsp;\- Trên các đoạn đường cong bán kính nhỏ hơn 250 m, phần xe chạy phải được bố trí phần mở rộng.
 
 
-<a id="bang-bang-04"></a>
+<a id="bang-bang-p04-04"></a>
 ### Bảng 4 - Hệ số sử dụng khả năng thông hành thiết kế của đường đô thị
 
 | Cấp đường | Tốc độ thiết kế, km/h | Z |
@@ -2421,7 +2437,7 @@ Số làn xe:  n = $N_{h}$/Z x $P_{tt}$ (làn xe);
 | Đường cấp nội bộ | 20 | 0,9 |
 
 
-<a id="bang-bang-05"></a>
+<a id="bang-bang-p04-05"></a>
 ### Bảng 5 - Độ dốc ngang phần xe chạy
 
 | Loại mặt đường | Độ dốc ngang phần xe chạy, % — Đường đô thị — Nhỏ nhất | Độ dốc ngang phần xe chạy, % — Đường đô thị — Lớn nhất | Độ dốc ngang phần xe chạy, % — Quảng trường, bến xe — Nhỏ nhất | Độ dốc ngang phần xe chạy, % — Quảng trường, bến xe — Lớn nhất |
@@ -2461,7 +2477,7 @@ Số làn xe:  n = $N_{h}$/Z x $P_{tt}$ (làn xe);
 ### 2.2.3.3.6  Đối với các đoạn hè phố bị xén một phần để mở rộng mặt đường ở các điểm dừng xe buýt, bề rộng hè phố còn lại không được nhỏ hơn 2 m và phải tính toán đủ chiều rộng để đáp ứng nhu cầu bộ hành.
 
 
-<a id="bang-bang-06"></a>
+<a id="bang-bang-p04-06"></a>
 ### Bảng 6 - Chiều rộng tối thiểu của hè phố dọc theo loại đường đô thị
 
 | Loại đường đô thị | Chiều rộng hè phố mỗi bên đường, m |
@@ -2477,7 +2493,7 @@ Số làn xe:  n = $N_{h}$/Z x $P_{tt}$ (làn xe);
 ### 2.2.3.3.7  Khả năng thông hành của 1 làn đi bộ cho ở Bảng 7.
 
 
-<a id="bang-bang-07"></a>
+<a id="bang-bang-p04-07"></a>
 ### Bảng 7 - Khả năng thông hành của 1 làn đi bộ
 
 | Điều kiện đi bộ | Khả năng thông hành, người/h |
@@ -2611,7 +2627,7 @@ Số làn xe:  n = $N_{h}$/Z x $P_{tt}$ (làn xe);
 ### 2.3.1.3.4  Phải có các biện pháp đảm bảo an toàn giao thông tại chỗ giao nhau giữa đường đô thị và đường sắt. Trong trường hợp không đảm bảo thì phải làm nút giao khác mức.
 
 
-<a id="bang-bang-08"></a>
+<a id="bang-bang-p04-08"></a>
 ### Bảng 8 - Loại hình giao nhau tại các đô thị đặc biệt và loại I
 
 | Các loại đường đô thị | Đường cao tốc đô thị | Đường trục chính, đường chính đô thị, đường liên khu vực | Đường cấp khu vực | Đường cấp nội bộ |
@@ -2621,14 +2637,6 @@ Số làn xe:  n = $N_{h}$/Z x $P_{tt}$ (làn xe);
 | Đường cấp khu vực | Khác mức | Cùng mức có đèn tín hiệu hoặc khác mức | Cùng mức có đèn tín hiệu hoặc khác mức. | Cùng mức |
 | Đường cấp nội | Khác mức không liên thông | Khác mức | Cùng mức | Cùng mức |
 
-> CHÚ THÍCH 2: Với các đô thị loại II trở xuống và khu đô thị cải tạo, tùy theo điều kiện giao thông và điều kiện xây dựng để chọn loại hình giao nhau phù hợp.
->
-> CHÚ THÍCH 2: Với các đô thị loại II trở xuống và khu đô thị cải tạo, tùy theo điều kiện giao thông và điều kiện xây dựng để chọn loại hình giao nhau phù hợp.
->
-> CHÚ THÍCH 2: Với các đô thị loại II trở xuống và khu đô thị cải tạo, tùy theo điều kiện giao thông và điều kiện xây dựng để chọn loại hình giao nhau phù hợp.
->
-> CHÚ THÍCH 2: Với các đô thị loại II trở xuống và khu đô thị cải tạo, tùy theo điều kiện giao thông và điều kiện xây dựng để chọn loại hình giao nhau phù hợp.
->
 > CHÚ THÍCH 2: Với các đô thị loại II trở xuống và khu đô thị cải tạo, tùy theo điều kiện giao thông và điều kiện xây dựng để chọn loại hình giao nhau phù hợp.
 >
 > _CHÚ THÍCH:_
@@ -3208,7 +3216,7 @@ Hầm giao thông phải đảm bảo an toàn cháy theo quy định pháp lu�
 ### 2.10.6.1  Việc thông gió phải đảm bảo hạ tỷ lệ khí độc thấp hơn nồng độ cho phép theo Bảng 9.
 
 
-<a id="bang-bang-09"></a>
+<a id="bang-bang-p04-09"></a>
 ### Bảng 9 - Nồng độ khí độc tối đa cho phép
 
 | Tên chất khí | Nồng độ |
@@ -3971,7 +3979,7 @@ Hệ thống cấp khí đốt đô thị phải đảm bảo cung cấp liên t
 ### 2.3.7.2  Vị trí trạm cấp LNG phải được bố trí đủ khoảng cách an toàn tới các đối tượng được bảo vệ, tuân thủ theo quy định tại Bảng 1.
 
 
-<a id="bang-bang-01"></a>
+<a id="bang-bang-p06-01"></a>
 ### Bảng 1 - Khoảng cách an toàn từ bồn chứa LNG đến các đối tượng được bảo vệ và khoảng cách giữa các bồn chứa
 
 | Dung tích bồn chứa (V), $m^{3}$ | Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim | Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi | Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm | Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi |
@@ -4444,7 +4452,7 @@ Nơi các luồng xe cơ giới giao nhau (nút giao thông) hoặc nơi có xe 
 ### 2.2.2.1  Yêu cầu chiếu sáng các loại đường cho xe cơ giới quy định trong Bảng 1.
 
 
-<a id="bang-bang-01"></a>
+<a id="bang-bang-p07-01"></a>
 ### Bảng 1 - Yêu cầu chiếu sáng các loại đường cho xe cơ giới
 
 | Cấp đường | Đặc điểm | Độ chói trung bình ($L_{tb}$), cd/$m^{2}$ | Độ đồng đều độ chói chung, ($U_{o}$) | Độ đồng đều độ chói dọc ($U_{d}$) | Độ tăng ngưỡng tối đa (TI), % | Tỷ số độ rọi hè đường (SR) |
@@ -4494,7 +4502,7 @@ Nơi các luồng xe cơ giới giao nhau (nút giao thông) hoặc nơi có xe 
 Yêu cầu chiếu sáng đường hầm ban ngày được quy định theo 4 cấp chiếu sáng, phụ thuộc đặc điểm giao thông (chỉ có xe cơ giới hay hỗn hợp) và lưu lượng giao thông trong Bảng 2. Lưu lượng giao thông được tính theo số lượng xe mỗi giờ trên mỗi làn trong giờ cao điểm và được phân loại là cao, trung bình hoặc thấp trong Bảng 3.
 
 
-<a id="bang-bang-02"></a>
+<a id="bang-bang-p07-02"></a>
 ### Bảng 2 - Phân loại cấp chiếu sáng đường hầm
 
 | Cấp chiếu sáng | Lưu lượng giao thông — Cao — Giao thông hỗn hợp | Lưu lượng giao thông — Cao — Giao thông riêng cơ giới | Lưu lượng giao thông — Trung bình — Giao thông hỗn hợp | Lưu lượng giao thông — Trung bình — Giao thông riêng cơ giới | Lưu lượng giao thông — Thấp — Giao thông hỗn hợp | Lưu lượng giao thông — Thấp — Giao thông riêng cơ giới |
@@ -4507,7 +4515,7 @@ Yêu cầu chiếu sáng đường hầm ban ngày được quy định theo 4 c
 > **CHÚ THÍCH:** Dấu (x) thể hiện cấp chiếu sáng tương ứng với đặc điểm và lưu lượng giao thông.
 
 
-<a id="bang-bang-03"></a>
+<a id="bang-bang-p07-03"></a>
 ### Bảng 3 - Phân loại lưu lượng giao thông
 
 | Loại lưu lượng giao thông | Số lượng xe/giờ 1) — Đường một làn | Số lượng xe/giờ 1) — Đường hai làn |
@@ -4515,8 +4523,9 @@ Yêu cầu chiếu sáng đường hầm ban ngày được quy định theo 4 c
 | Cao | > 1 500 | > 400 |
 | Trung bình | ≥ 500; ≤ 1 500 | ≥ 100; ≤ 400 |
 | Thấp | < 500 | < 100 |
-| **<sup>1)</sup> Số lượng xe theo giờ trên mỗi làn trong giờ cao điểm.** |  |  |
 
+> **CHÚ THÍCH 1:** Số lượng xe theo giờ trên mỗi làn trong giờ cao điểm.
+>
 > **CHÚ THÍCH:** Trên các đường không phân làn, số lượng phương tiện mỗi giờ trên mỗi làn có thể được tính bằng cách chia giá trị giờ cao điểm cho tổng số làn. Nếu phân chia hướng giao thông thực tế không được biết trên các tuyến đường hai chiều, có thể giả định rằng trường hợp xấu nhất, chiều lớn chiếm hai phần ba lưu lượng giao thông. Lưu lượng xe sau đó được chia cho số làn đường của con đường này.
 
 
@@ -4543,11 +4552,11 @@ Yêu cầu chiếu sáng đường hầm ban ngày được quy định theo 4 c
 ### 2.3.3.2  Vùng tiếp cận hầm nằm phía trước hầm, có chiều dài bằng khoảng cách dừng phụ thuộc tốc độ thiết kế của dòng xe trong Bảng 4.
 
 
-<a id="bang-bang-04"></a>
+<a id="bang-bang-p07-04"></a>
 ### Bảng 4 - Khoảng cách dừng (SD) theo các tốc độ thiết kế khác nhau
 
 | Tốc độ thiết kế, km/h | Khoảng cách dừng, m |
-| :--- | :---: |
+| :---: | :---: |
 | 120 | 215 |
 | 100 | 160 |
 | 85 | 120 |
@@ -4555,8 +4564,6 @@ Yêu cầu chiếu sáng đường hầm ban ngày được quy định theo 4 c
 | 60 | 70 |
 | 50 | 50 |
 
-> CHÚ THÍCH 2: Trường hợp tốc độ thiết kế dưới 50 km/h, lấy SD = 50 m.
->
 > CHÚ THÍCH 2: Trường hợp tốc độ thiết kế dưới 50 km/h, lấy SD = 50 m.
 >
 > _CHÚ THÍCH:_
@@ -4601,7 +4608,7 @@ trong đó: k lấy theo 2.3.4.2.2.
 ### 2.3.4.2.2  Giá trị k lấy theo Bảng 5 theo cấp chiếu sáng đường hầm và tốc độ giới hạn của dòng xe trong hầm.
 
 
-<a id="bang-bang-05"></a>
+<a id="bang-bang-p07-05"></a>
 ### Bảng 5 - Giá trị k theo cấp chiếu sáng đường hầm và tốc độ giới hạn của dòng xe
 
 | Cấp chiếu sáng đường hầm | Giá trị k cho tốc độ giới hạn, km/h — 50 ÷ 70 | Giá trị k cho tốc độ giới hạn, km/h — 80 ÷ 100 | Giá trị k cho tốc độ giới hạn, km/h — 110 ÷ 120 |
@@ -4656,7 +4663,7 @@ Từ đầu vùng chuyển tiếp ánh sáng sẽ giảm dần tới vùng trong
 ### 2.3.4.4.1  Giá trị trung bình của độ chói mặt đường vùng trong hầm không được nhỏ hơn giá trị cho trong Bảng 6 tương ứng với cấp chiếu sáng đường hầm và tốc độ giới hạn của dòng xe.
 
 
-<a id="bang-bang-06"></a>
+<a id="bang-bang-p07-06"></a>
 ### Bảng 6 - Độ chói mặt đường vùng trong hầm ($L_{tr}$)
 
 | Cấp chiếu sáng đường hầm | Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 50 ÷ 70 | Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 80 ÷ 100 | Độ chói trung bình, cd/$m^{2}$ theo tốc độ giới hạn, km/h — 110 ÷ 120 |
@@ -4673,7 +4680,7 @@ Từ đầu vùng chuyển tiếp ánh sáng sẽ giảm dần tới vùng trong
 ### 2.3.4.4.2  Độ đồng đều độ chói vùng trong hầm ($U_{o}$ và $U_{d}$) không được nhỏ hơn các giá trị cho trong Bảng 7 tương ứng với các cấp chiếu sáng đường hầm.
 
 
-<a id="bang-bang-07"></a>
+<a id="bang-bang-p07-07"></a>
 ### Bảng 7 - Độ đồng đều độ chói mặt đường vùng trong hầm
 
 | Cấp chiếu sáng hầm | Độ đồng đều chung, $U_{o}$ | Độ đồng đều dọc, $U_{d}$ |
@@ -4732,7 +4739,7 @@ Ban đêm môi trường ánh sáng trong và ngoài hầm như nhau, chiếu s�
 ### 2.4.2  Yêu cầu chiếu sáng quy định theo độ rọi mặt đường trung bình và tối thiểu ($E_{n,tb}$ và $E_{n,min}$) và độ rọi bán trụ ($E_{bt}$) theo Bảng 8.
 
 
-<a id="bang-bang-08"></a>
+<a id="bang-bang-p07-08"></a>
 ### Bảng 8 - Yêu cầu chiếu sáng đường đi bộ, xe đạp
 
 | Loại đường | Độ rọi mặt đường, lx — Trung bình, $E_{n,tb}$ | Độ rọi mặt đường, lx — Tối thiểu, $E_{n,min}$ | Độ rọi bán trụ ($E_{bt}$), lx |
@@ -4762,7 +4769,7 @@ Ban đêm môi trường ánh sáng trong và ngoài hầm như nhau, chiếu s�
 ### 2.5.2  Yêu cầu chiếu sáng quy định theo độ rọi mặt đường trung bình và tối thiểu ($E_{n,tb}$ và $E_{n,min}$) và độ rọi bán trụ ($E_{bt}$) theo Bảng 9.
 
 
-<a id="bang-bang-09"></a>
+<a id="bang-bang-p07-09"></a>
 ### Bảng 9 - Yêu cầu độ rọi đường hầm dành cho người đi bộ và xe đạp
 
 | Ban ngày — $E_{n,tb}$, lx | Ban ngày — $E_{n,min}$, lx | Ban ngày — $E_{bt}$, lx | Ban đêm — $E_{n,tb}$, lx | Ban đêm — $E_{n,min}$, lx | Ban đêm — $E_{bt}$, lx |
@@ -4794,7 +4801,7 @@ Ban đêm môi trường ánh sáng trong và ngoài hầm như nhau, chiếu s�
 ### 2.6.5  Không quy định yêu cầu chiếu sáng cho toàn bộ diện tích quảng trường và khu vực vui chơi công cộng, đặc biệt trong những ngày lễ, hội, ngày tụ tập đông người.
 
 
-<a id="bang-bang-10"></a>
+<a id="bang-bang-p07-10"></a>
 ### Bảng 10 - Yêu cầu độ rọi mặt đường vùng xung đột giao thông
 
 | Vị trí vùng xung đột giao thông theo cấp đường | Độ rọi trung bình ($E_{n,tb}$), lx | Độ đồng đều độ rọi, $U_{o}$(E) | Độ rọi bán trụ ($E_{bt}$), lx |
@@ -4845,7 +4852,7 @@ Ban đêm môi trường ánh sáng trong và ngoài hầm như nhau, chiếu s�
 Chiếu sáng các sân ga, bến cảng, bến xe phải đạt được trị số độ rọi trung bình và tối thiểu trên mặt đường ($E_{n}$) và độ rọi bán trụ ($E_{bt}$) để bảo đảm an toàn và an ninh cho hành khách theo Bảng 11.
 
 
-<a id="bang-bang-11"></a>
+<a id="bang-bang-p07-11"></a>
 ### Bảng 11 - Yêu cầu chiếu sáng sân ga, bến cảng, bến xe, bãi đỗ xe ngoài trời
 
 | Đối tượng chiếu sáng | Độ rọi mặt đường ($E_{n}$), lx — Trung bình | Độ rọi mặt đường ($E_{n}$), lx — Tối thiểu | Độ rọi bán trụ ($E_{bt}$), lx |
@@ -4860,7 +4867,7 @@ Chiếu sáng các sân ga, bến cảng, bến xe phải đạt được trị 
 Yêu cầu chiếu sáng nơi hành khách chờ và lên tàu quy định theo độ rọi mặt ngang trung bình và tối thiểu cho hai trường hợp ban ngày và ban đêm khi vỏ nhà đóng kín hoặc mở lấy ánh sáng ban ngày theo Bảng 12.
 
 
-<a id="bang-bang-12"></a>
+<a id="bang-bang-p07-12"></a>
 ### Bảng 12 - Yêu cầu độ rọi mặt ngang trung bình và tối thiểu của ga tàu điện
 
 | Đặc điểm vỏ bao che nhà ga | Ban ngày — $E_{n,tb}$, lx | Ban ngày — $E_{n,min}$, lx | Ban đêm — $E_{n,tb}$, lx | Ban đêm — $E_{n,min}$, lx |
@@ -5345,7 +5352,7 @@ Công trình cố định hoặc di động, tối thiểu gồm có phòng vệ
 ### 2.3.1  Tỷ lệ sử dụng đất trong cơ sở xử lý chất thải rắn được xác định theo Bảng 1.
 
 
-<a id="bang-bang-01"></a>
+<a id="bang-bang-p09-01"></a>
 ### Bảng 1 - Tỷ lệ sử dụng đất trong cơ sở xử lý chất thải rắn
 
 | Loại hình - hạng mục | Tỷ lệ diện tích đất, % |
@@ -5385,8 +5392,6 @@ Công trình cố định hoặc di động, tối thiểu gồm có phòng vệ
 | 6.3. Đất giao thông | ≥ 10 |
 | 6.4. Đất cây xanh, mặt nước | ≥ 15 |
 
-> CHÚ THÍCH 2: Không yêu cầu bố trí dải cây xanh cách ly như quy định tại QCVN 01:2021/BXD giữa các cơ sở xử lý bãi chôn lấp trong khu xử lý chất thải rắn tập trung.
->
 > CHÚ THÍCH 2: Không yêu cầu bố trí dải cây xanh cách ly như quy định tại QCVN 01:2021/BXD giữa các cơ sở xử lý bãi chôn lấp trong khu xử lý chất thải rắn tập trung.
 >
 > _CHÚ THÍCH:_
@@ -5456,7 +5461,7 @@ Công trình cố định hoặc di động, tối thiểu gồm có phòng vệ
 ### 2.3.5.4  Số lượng lò đốt được tính toán theo quy mô, loại hình lò, trình độ kỹ thuật vận hành và được quy định tại Bảng 2.
 
 
-<a id="bang-bang-02"></a>
+<a id="bang-bang-p09-02"></a>
 ### Bảng 2 - Phân loại quy mô cơ sở đốt chất thải rắn sinh hoạt, chất thải rắn thông thường
 
 | Quy mô | Công suất, tấn/ngày | Số lượng lò hoạt động thường xuyên |

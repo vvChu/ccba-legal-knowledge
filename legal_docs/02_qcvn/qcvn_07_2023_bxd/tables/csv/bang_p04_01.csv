@@ -1,0 +1,19 @@
+﻿Các yếu tố,"Tốc độ thiết kế, km/h — 100","Tốc độ thiết kế, km/h — 80","Tốc độ thiết kế, km/h — 60","Tốc độ thiết kế, km/h — 50","Tốc độ thiết kế, km/h — 40","Tốc độ thiết kế, km/h — 30","Tốc độ thiết kế, km/h — 20"
+"1. Bán kính đường cong nằm <sup>1)</sup>, m",,,,,,,
+a) Tối thiểu giới hạn,400,250,125,80,60,30,15
+b) Tối thiểu thông thường,600,400,200,100,75,50,50
+c) Tối thiểu không siêu cao,4 000,2 500,1 500,1 000,600,350,250
+"2. Tầm nhìn dừng xe<sup>2)</sup>, m",150,100,75,55,40,30,20
+"3. Tầm nhìn vượt xe <sup>3)</sup>, m",-,550,350,275,200,150,100
+"4. Độ dốc dọc lớn nhất <sup>4)</sup>, %",4,5,6,6,7,8,9
+"5. Độ dốc siêu cao lớn nhất <sup>5)</sup>, %",8,8,7,6,6,6,6
+"6. Chiều dài tối thiểu đổi dốc <sup>6)</sup>, m",200,150,100,80,70,50,30
+,(150),(120),(60),(50),(40),(30),(20)
+"7. Bán kính đường cong đứng tối thiểu <sup>7)</sup>, m",,,,,,,
+a) Lồi:,,,,,,,
+&nbsp;&nbsp;\- Thông thường,10 000,4 500,2 000,1 200,700,400,200
+&nbsp;&nbsp;\- Giới hạn,6 500,3 000,1 400,800,450,250,100
+b) Lõm:,,,,,,,
+&nbsp;&nbsp;\- Thông thường,4 500,3 000,1 500,1 000,700,400,200
+&nbsp;&nbsp;\- Giới hạn,3 000,2 000,1 000,700,450,250,100
+"8. Chiều dài đường cong đứng tối thiểu, m",85,70,50,40,35,25,20

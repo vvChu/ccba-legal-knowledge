@@ -1,0 +1,31 @@
+{
+  "table_id": "bang_p04_06",
+  "table_number": "6",
+  "table_title": "Bảng 6 - Chiều rộng tối thiểu của hè phố dọc theo loại đường đô thị",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Loại đường đô thị",
+    "Chiều rộng hè phố mỗi bên đường, m"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đường đô thị": "1. Đường cấp đô thị, đường đô thị tiếp xúc với lối vào trung tâm thương mại, chợ, trung tâm văn hóa...",
+      "Chiều rộng hè phố mỗi bên đường, m": "6,0 (4,0)"
+    },
+    {
+      "_row_id": 2,
+      "Loại đường đô thị": "2. Đường cấp khu vực",
+      "Chiều rộng hè phố mỗi bên đường, m": "4,5 (3,0)"
+    },
+    {
+      "_row_id": 3,
+      "Loại đường đô thị": "3. Đường đô thị cấp nội bộ",
+      "Chiều rộng hè phố mỗi bên đường, m": "3,0 (2,0)"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:** Trị số ghi trong dấu ngoặc () áp dụng đối với trường hợp đặc biệt khó khăn về điều kiện xây dựng."
+  },
+  "part_id": "p04"
+}

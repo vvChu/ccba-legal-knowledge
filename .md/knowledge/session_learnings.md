@@ -905,3 +905,35 @@ Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc ph�
   - TUYỆT ĐỐI CẤM dùng NĐ 175/2024/NĐ-CP, NĐ 15/2021/NĐ-CP, NĐ 06/2021/NĐ-CP, và **NĐ 10/2021/NĐ-CP** làm căn cứ pháp lý hiện tại.
   - Trong `legal_registry.yaml` và `metadata.yaml`, các văn bản này bắt buộc gắn `status: expired` và khai báo `relations.replaced_by` trỏ chính xác về văn bản thay thế.
   - Mọi tác vụ tra cứu tri thức (RAG, AST query) tự động bỏ qua văn bản `expired` trừ khi người dùng chủ đích truy vấn lịch sử hoặc điều khoản chuyển tiếp.
+
+---
+
+## 54. Modular Dual-Dispatch Converter Architecture, Multipart Table Disambiguation & Numeric Collision Guardrails (Session 2026-09-23)
+
+- **Bản Chất Vấn Đề (Empirical Failures & Adversarial Findings):**
+  1. **God-Class Bloat & Scope Conflation trong Converter (`strategy.py`):**
+     - Ban đầu `strategy.py` dài 622 dòng (>26KB) kiêm nhiệm quá nhiều trách nhiệm: trích xuất OLE formula drawings, header detection, normative boundary parsing, paragraph dispatch, table dispatch, và xuất bản annexes/MOC/AST.
+     - Khi lập kế hoạch, dễ mắc bẫy Scope Conflation: đánh đồng việc tái cấu trúc module (Refactoring) với việc thay đổi định dạng dữ liệu đầu ra (Feature upgrade), làm gãy cam kết Zero-Regression.
+  2. **Bẫy Ghi Đè Bảng Đa Phần (Multipart Table Overwrite Defect - ADR 0044):**
+     - Các quy chuẩn kỹ thuật gồm nhiều phần độc lập (như QCVN 07:2023/BXD với 10 phần kỹ thuật) có các bảng trùng số hiệu (ví dụ Bảng 1 xuất hiện ở 5 phần khác nhau). Trước đây bộ chuyển đổi sinh file `bang_01.csv`, dẫn đến việc bảng của phần sau ghi đè và hủy diệt vĩnh viễn bảng của phần trước trên đĩa!
+  3. **Lỗi Mất Mát Dữ Liệu Số Liệu Khi 2 Cột Cùng Giá Trị (Numeric Collision Data Loss Bug):**
+     - Thuật toán gộp subheader toàn hàng kiểm tra `len(set(non_empty)) == 1`. Khi hàng dữ liệu số có 2 cột cùng giá trị (`['50', '50']` trong Bảng 4 Phần 7: Tốc độ 50 km/h | Khoảng cách dừng 50 m), thuật toán tưởng là tiêu đề phân nhóm và gộp thành `['**50**', '']`, làm mất số liệu của cột 2!
+  4. **Bẫy Nhân Đôi Footnote Do Gộp Ô Ngang (Merged Cell Duplicate Footnote Bug):**
+     - Khi một ô bảng gộp ngang qua nhiều cột (`gridSpan`), python-docx trả về cùng chuỗi text cho từng cell trong hàng. Vòng lặp quét `<br>CHÚ THÍCH` duyệt qua từng cell khiến footnote bị append lặp lại (`fn_1` và `fn_2` giống hệt nhau).
+  5. **Bẫy Kiểm Thử Tĩnh (Static Verification Fallacy):**
+     - Các bộ kiểm định đọc file tĩnh trên đĩa (`test_converter_regression.py` và `validate_legal_spoke.py`) không kích hoạt mã nguồn converter, tạo ra cảm giác an toàn giả tạo (phantom safety net) nếu không có bài test động gọi trực tiếp hàm chuyển đổi.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Kiến Trúc Dual-Dispatch Orchestrator Tinh Gọn (RULE-1.1 - KISS Pattern):**
+     - Rút gọn `strategy.py` xuống <200 dòng (thực tế 184 dòng). Phân rã rạch ròi 2 nhánh DOM: `w:tbl` đi thẳng sang `_process_table_block`; `w:p` đi qua chuỗi handler chuyên trách.
+     - Tách `preprocessor.py` và `exporter.py` dạng Functional Helpers, tuân thủ nguyên lý KISS (User Rule 5: tránh tạo class thừa thãi).
+     - Hợp nhất bóc tách công thức OLE `r:id` an toàn vào `formula_handler.py`, dọn sạch dead code.
+  2. **Định Danh Bảng Phân Phần Bất Biến (RULE-3.2 - ADR 0044 Enforced):**
+     - Bổ sung `current_part` trong `StandardConversionContext`. Tự động nhận diện tiêu đề `PHẦN X` / La Mã (`PHẦN I`..`XX` $\to$ `p01`..`p20`) để gắn tiền tố bảng (`bang_p04_01.csv`) và tiêm trường `part_id` vào `tables_catalog.json`. Triệt tiêu 100% tình trạng ghi đè bảng (QCVN 07 phục hồi đủ 25 bảng phân phần).
+  3. **Rào Chắn Số Liệu Thuần Túy (RULE-3.3 - Numeric Subheader Guardrail - ADR 0041):**
+     - Bắt buộc kiểm tra `not is_numeric` (`not re.match(r"^[0-9\.,\-\+±%\s]+$", non_empty[0])`) trước khi gộp dòng subheader, bảo toàn 100% dữ liệu số.
+  4. **Khử Trùng Chú Thích Bảng (RULE-3.4 - Footnote Set Deduplication):**
+     - Kiểm tra `if nl not in footnotes` trước khi nạp vào danh sách chú thích, xử lý triệt để ô merge `gridSpan`.
+  5. **Động Cơ Kiểm Thử Hồi Quy Hai Lớp (RULE-2.1 - Dynamic & Static Verification):**
+     - Bổ sung unit tests độc lập tại Hub (`test_technical_standard_strategy.py`) kiểm tra trực tiếp hàm chuyển đổi với dummy DOCX.
+     - Duy trì Golden Snapshot cho 60/60 bundles tại Spoke đảm bảo Zero-Regression.

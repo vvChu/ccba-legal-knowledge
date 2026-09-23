@@ -1,0 +1,14 @@
+﻿"Dung tích bồn chứa (V), $m^{3}$","Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt chim","Khoảng cách an toàn tính từ mép ngoài khu vực ngăn tràn của bồn chứa đến đối tượng được bảo vệ, m — Bồn chứa đặt nổi","Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt chìm","Khoảng cách giữa các bồn chứa, m — Bồn chứa đặt nổi"
+"V ≤ 0,5","4,6",0,"4,6",0
+"0,5 < V ≤ 1","4,6","3,0","4,6",1.0
+"1 < V ≤ 1,9","4,6","4,6","4,6","1,0"
+"1,9 < V < 3,8","4,6","4,6","4,6","1,5"
+"3,8 ≤ V < 7,6","4,6","4,6","4,6",1.5
+"7,6 ≤ V < 68,1","4,6","7,6","4,6","1,5"
+"68,1 ≤ V < 114","7,6","15,0","4,6","1,5"
+114 ≤ V < 265,"12,2","23,0","4,6","1/4 tổng đường kính hai bồn lân cận nhưng không nhỏ hơn 1,5 m"
+265 ≤ V < 379,"12,2","30,5","4,6","1/4 tổng đường kính hai bồn lân cận nhưng không nhỏ hơn 1,5 m"
+379 ≤ V < 454,"20,0","38,0","4,6","1/4 tổng đường kính hai bồn lân cận nhưng không nhỏ hơn 1,5 m"
+454 ≤ V < 757,"30,5","61,0","4,6",
+757 ≤ V ≤ 4 000,"45,7","91,4","4,6",
+V > 4 000,"0,7 đường kính bồn nhưng không nhỏ hơn 30 m","0,7 đường kính bồn nhưng không nhỏ hơn 30 m","4,6",

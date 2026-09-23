@@ -102,5 +102,14 @@ Tài liệu ghi nhận nhật ký đột biến, chuẩn hóa dữ liệu và ba
   - **Tích hợp Tự động Ban Đêm trên Server Spark (:8090):** Nâng cấp `run_nightly_telemetry.py` và `run_nightly_tuner.sh` hỗ trợ `--cohorts all`, quét toàn bộ 55 văn bản trong ~22s, tự động ghi nhận 5 diagnostic tickets còn lại và commit báo cáo định kỳ lúc 00:00 AM với zero token cost.
   - **Nghiệm thu Master CI 15 Gates:** Vượt qua 100% 15 Cổng Master CI Gate với `0 Errors, 0 Warnings` trên toàn bộ 58 bundles.
 
+## [2026-09-23] [refactor] | Tái Cấu Trúc Pipeline Chuyển Đổi DOCX sang OKF v2.4 & Khắc Phục Lỗi Bảng Đa Phần QCVN 07 (ADR 0041, ADR 0044)
+- **Phạm vi:** Hub `packages/ccba-legal-intel/src/ccba_legal/converters/standard/`, `tests/test_technical_standard_strategy.py`, Spoke `legal_docs/02_qcvn/qcvn_07_2023_bxd/tables/`, `.md/cache/golden_snapshots.json`.
+- **Nội dung:**
+  - **Tái Cấu Trúc Dual-Dispatch Orchestrator Tinh Gọn:** Rút gọn `strategy.py` từ 622 dòng (>26KB) xuống **184 dòng** (<8KB). Tách `preprocessor.py` và `exporter.py` dạng Functional Helpers theo chuẩn KISS (User Rule 5). Hợp nhất bóc tách công thức OLE `r:id` an toàn vào `formula_handler.py`, xóa bỏ dead code.
+  - **Khắc Phục Triệt Để Lỗi Đè Bảng QCVN 07:2023/BXD (ADR 0044):** Bổ sung nhận diện phân phần La Mã (`PHẦN I`..`XX`) và Ả Rập, sinh 25 bảng phân phần độc lập (`bang_p02_01.csv` $\dots$ `bang_p09_02.csv`), loại bỏ 100% tình trạng ghi đè 5 bảng `bang_01`.
+  - **Vá Lỗi Dữ Liệu Số & Khử Trùng Footnote (ADR 0041):** Sửa lỗi gộp nhầm dòng số liệu thành subheader trong `table_handler.py` (bảo toàn số liệu `50,50` tại Bảng 4 Phần 7); khử trùng footnote khi quét qua ô merge ngang (`gridSpan`).
+  - **Nghiệm Thu Toàn Trình:** Vượt qua 4/4 Hub unit tests, 60/60 Golden Snapshot matches (`100% REGRESSION-FREE`), và 15/15 Master CI Gates với `0 Errors`.
+
+
 
 

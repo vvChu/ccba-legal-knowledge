@@ -1,0 +1,69 @@
+{
+  "table_id": "bang_p04_04",
+  "table_number": "4",
+  "table_title": "Bảng 4 - Hệ số sử dụng khả năng thông hành thiết kế của đường đô thị",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Cấp đường",
+    "Tốc độ thiết kế, km/h",
+    "Z"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp đường": "Đường cấp đô thị",
+      "Tốc độ thiết kế, km/h": "100",
+      "Z": "0,6 ÷ 0,7"
+    },
+    {
+      "_row_id": 2,
+      "Cấp đường": "Đường cấp đô thị",
+      "Tốc độ thiết kế, km/h": "80",
+      "Z": "0,7 ÷ 0,8"
+    },
+    {
+      "_row_id": 3,
+      "Cấp đường": "Đường cấp đô thị",
+      "Tốc độ thiết kế, km/h": "60",
+      "Z": "0,8"
+    },
+    {
+      "_row_id": 4,
+      "Cấp đường": "Đường cấp khu vực",
+      "Tốc độ thiết kế, km/h": "60",
+      "Z": "0,8"
+    },
+    {
+      "_row_id": 5,
+      "Cấp đường": "Đường cấp khu vực",
+      "Tốc độ thiết kế, km/h": "50",
+      "Z": "0,8 ÷ 0,9"
+    },
+    {
+      "_row_id": 6,
+      "Cấp đường": "Đường cấp khu vực",
+      "Tốc độ thiết kế, km/h": "40",
+      "Z": "0,8 ÷ 0,9"
+    },
+    {
+      "_row_id": 7,
+      "Cấp đường": "Đường cấp nội bộ",
+      "Tốc độ thiết kế, km/h": "40",
+      "Z": "0,8 ÷ 0,9"
+    },
+    {
+      "_row_id": 8,
+      "Cấp đường": "Đường cấp nội bộ",
+      "Tốc độ thiết kế, km/h": "30",
+      "Z": "0,9"
+    },
+    {
+      "_row_id": 9,
+      "Cấp đường": "Đường cấp nội bộ",
+      "Tốc độ thiết kế, km/h": "20",
+      "Z": "0,9"
+    }
+  ],
+  "footnotes": [],
+  "part_id": "p04"
+}

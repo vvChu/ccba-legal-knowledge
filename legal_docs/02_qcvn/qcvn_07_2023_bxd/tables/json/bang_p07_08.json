@@ -1,5 +1,5 @@
 {
-  "table_id": "bang_08",
+  "table_id": "bang_p07_08",
   "table_number": "8",
   "table_title": "Bảng 8 - Yêu cầu chiếu sáng đường đi bộ, xe đạp",
   "archetype": "FLAT_MATRIX",
@@ -88,5 +88,6 @@
       "Độ rọi bán trụ ($E_{bt}$), lx": "10"
     }
   ],
-  "footnotes": []
+  "footnotes": [],
+  "part_id": "p07"
 }

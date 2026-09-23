@@ -1,0 +1,52 @@
+{
+  "table_id": "bang_p04_08",
+  "table_number": "8",
+  "table_title": "Bảng 8 - Loại hình giao nhau tại các đô thị đặc biệt và loại I",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Các loại đường đô thị",
+    "Đường cao tốc đô thị",
+    "Đường trục chính, đường chính đô thị, đường liên khu vực",
+    "Đường cấp khu vực",
+    "Đường cấp nội bộ"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Các loại đường đô thị": "Đường cao tốc đô thị",
+      "Đường cao tốc đô thị": "Khác mức",
+      "Đường trục chính, đường chính đô thị, đường liên khu vực": "Khác mức",
+      "Đường cấp khu vực": "Khác mức",
+      "Đường cấp nội bộ": "Khác mức không liên thông"
+    },
+    {
+      "_row_id": 2,
+      "Các loại đường đô thị": "Đường trục chính, đường chính đô thị, đường liên khu vực",
+      "Đường cao tốc đô thị": "Khác mức",
+      "Đường trục chính, đường chính đô thị, đường liên khu vực": "Khác mức hoặc cùng mức có đèn tín hiệu",
+      "Đường cấp khu vực": "Cùng mức có đèn tín hiệu hoặc khác mức",
+      "Đường cấp nội bộ": "Khác mức"
+    },
+    {
+      "_row_id": 3,
+      "Các loại đường đô thị": "Đường cấp khu vực",
+      "Đường cao tốc đô thị": "Khác mức",
+      "Đường trục chính, đường chính đô thị, đường liên khu vực": "Cùng mức có đèn tín hiệu hoặc khác mức",
+      "Đường cấp khu vực": "Cùng mức có đèn tín hiệu hoặc khác mức.",
+      "Đường cấp nội bộ": "Cùng mức"
+    },
+    {
+      "_row_id": 4,
+      "Các loại đường đô thị": "Đường cấp nội",
+      "Đường cao tốc đô thị": "Khác mức không liên thông",
+      "Đường trục chính, đường chính đô thị, đường liên khu vực": "Khác mức",
+      "Đường cấp khu vực": "Cùng mức",
+      "Đường cấp nội bộ": "Cùng mức"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "CHÚ THÍCH 2: Với các đô thị loại II trở xuống và khu đô thị cải tạo, tùy theo điều kiện giao thông và điều kiện xây dựng để chọn loại hình giao nhau phù hợp.",
+    "fn_2": "**CHÚ THÍCH:** Giao nhau khác mức có thể có hoặc không có các nhánh nối liên thông tùy theo cách tổ chức giao thông."
+  },
+  "part_id": "p04"
+}
