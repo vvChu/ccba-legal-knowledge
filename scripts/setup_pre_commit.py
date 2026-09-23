@@ -27,7 +27,21 @@ def install_hook() -> bool:
     hook_script = """#!/bin/sh
 # CCBA Legal Knowledge Automated Pre-Commit Gate
 echo "================================================================="
-echo "   [PRE-COMMIT HOOK] RUNNING CCBA 10-GATE MASTER VALIDATOR       "
+echo "   [PRE-COMMIT HOOK] RUNNING CCBA SPOKE CLEANLINESS CHECK        "
+echo "================================================================="
+
+python scripts/check_spoke_cleanliness.py
+RESULT_CLEAN=$?
+
+if [ $RESULT_CLEAN -ne 0 ]; then
+    echo ""
+    echo "❌ COMMIT REJECTED: Cleanliness check or staged binary guard failed."
+    echo "Please fix the issues above before committing."
+    exit 1
+fi
+
+echo "================================================================="
+echo "   [PRE-COMMIT HOOK] RUNNING CCBA 15-GATE MASTER VALIDATOR       "
 echo "================================================================="
 
 python scripts/validate_legal_spoke.py

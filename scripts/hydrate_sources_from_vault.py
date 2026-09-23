@@ -26,7 +26,7 @@ import shutil
 import subprocess
 import sys
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional, Set, Tuple
 
 import yaml
 
@@ -46,8 +46,25 @@ SOURCE_EXTENSIONS = {".pdf", ".docx", ".doc"}
 DEFAULT_REMOTE = "gdrive:"
 DEFAULT_VAULT_ROOT = "CCBA_Legal_Vault"
 
-# Standard local mounted Google Drive path if available
-LOCAL_GDRIVE_MOUNT = Path("H:/My Drive")
+# Operating system artifacts to exclude
+SYSTEM_IGNORE_FILES = {"desktop.ini", "thumbs.db", ".ds_store", ".gitkeep"}
+
+
+def detect_gdrive_mount() -> Optional[Path]:
+    """Detects local Google Drive mount point dynamically to avoid machine coupling."""
+    env_path = os.getenv("CCBA_VAULT_MOUNT_PATH")
+    if env_path:
+        p = Path(env_path)
+        if p.exists():
+            return p
+
+    # Standard Windows Google Drive mounted letters
+    candidates = [Path(f"{drive}:/My Drive") for drive in ("H", "G", "I")]
+    for c in candidates:
+        if c.exists():
+            return c
+
+    return None
 
 
 def compute_sha256(filepath: Path) -> str:
@@ -61,7 +78,6 @@ def compute_sha256(filepath: Path) -> str:
 
 def find_rclone_cmd() -> Optional[str]:
     """Finds rclone executable in PATH or standard user directories."""
-    # Check PATH first
     rclone_path = shutil.which("rclone")
     if rclone_path:
         return rclone_path
@@ -74,10 +90,14 @@ def find_rclone_cmd() -> Optional[str]:
                 return str(rpath)
 
     # Check AppData or Program Files
-    candidates = [
-        Path(os.environ.get("ProgramFiles", "C:/Program Files")) / "rclone" / "rclone.exe",
-        Path(os.environ.get("USERPROFILE", "")) / "bin" / "rclone.exe",
-    ]
+    prog_files = os.environ.get("ProgramFiles")
+    user_prof = os.environ.get("USERPROFILE")
+    candidates = []
+    if prog_files:
+        candidates.append(Path(prog_files) / "rclone" / "rclone.exe")
+    if user_prof:
+        candidates.append(Path(user_prof) / "bin" / "rclone.exe")
+
     for c in candidates:
         if c.is_file():
             return str(c)
@@ -108,19 +128,17 @@ class VaultHydrationEngine:
         self.verbose = verbose
         self.rclone_bin = find_rclone_cmd()
 
-        # Check local Google Drive mount point
+        # Dynamic Google Drive mount detection
+        self.local_gdrive_mount = detect_gdrive_mount()
         self.local_vault_root: Optional[Path] = None
-        if LOCAL_GDRIVE_MOUNT.exists():
-            candidate = LOCAL_GDRIVE_MOUNT / self.vault_root
-            if candidate.exists() or LOCAL_GDRIVE_MOUNT.is_dir():
-                self.local_vault_root = candidate
+        if self.local_gdrive_mount:
+            self.local_vault_root = self.local_gdrive_mount / self.vault_root
+
+        # Remote vault cache
+        self._vault_files_cache: Optional[Set[str]] = None
 
     def get_bundle_dirs(self) -> List[Tuple[str, str, Path]]:
-        """Discovers all bundle directories matching filters.
-
-        Returns:
-            List of (category, doc_slug, bundle_dir_path)
-        """
+        """Discovers all bundle directories matching filters."""
         results: List[Tuple[str, str, Path]] = []
         for cat in CATEGORIES:
             if self.category_filter and cat != self.category_filter:
@@ -140,24 +158,64 @@ class VaultHydrationEngine:
         """Determines the exact vault path according to ADR 0035 / metadata.yaml."""
         source_assets = metadata.get("source_assets", {})
         if isinstance(source_assets, dict):
-            # Check direct key match (e.g. 'pdf', 'docx', 'raw_scan')
             for key, asset_info in source_assets.items():
                 if isinstance(asset_info, dict) and "vault_path" in asset_info:
-                    vp = asset_info["vault_path"]
+                    vp = str(asset_info["vault_path"]).replace("\\", "/")
                     if vp.endswith(filename) or Path(vp).name == filename:
                         return f"{self.remote}{vp}"
 
-        # Standard default vault path
         return f"{self.remote}{self.vault_root}/{category}/{doc_slug}/{filename}"
 
-    def get_local_vault_file_path(self, category: str, doc_slug: str, filename: str) -> Optional[Path]:
+    def get_local_vault_file_path(self, category: str, doc_slug: str, filename: str, metadata: Dict[str, Any]) -> Optional[Path]:
         """Returns the local filesystem path on mounted Google Drive if available."""
-        if self.local_vault_root:
-            return self.local_vault_root / category / doc_slug / filename
-        return None
+        if not self.local_vault_root:
+            return None
+
+        source_assets = metadata.get("source_assets", {})
+        if isinstance(source_assets, dict):
+            for key, asset_info in source_assets.items():
+                if isinstance(asset_info, dict) and "vault_path" in asset_info:
+                    vp = str(asset_info["vault_path"]).replace("\\", "/")
+                    if vp.endswith(filename) or Path(vp).name == filename:
+                        rel = vp
+                        if rel.startswith(self.vault_root + "/"):
+                            rel = rel[len(self.vault_root) + 1:]
+                        return self.local_vault_root / rel
+
+        return self.local_vault_root / category / doc_slug / filename
+
+    def get_remote_vault_files(self) -> Set[str]:
+        """Loads list of all files in Vault via fast in-memory bulk scan."""
+        if self._vault_files_cache is not None:
+            return self._vault_files_cache
+
+        files: Set[str] = set()
+        if self.local_vault_root and self.local_vault_root.exists():
+            for f in self.local_vault_root.rglob("*"):
+                if f.is_file() and f.name.lower() not in SYSTEM_IGNORE_FILES:
+                    rel = f.relative_to(self.local_vault_root).as_posix()
+                    files.add(f"{self.vault_root}/{rel}".lower())
+            self._vault_files_cache = files
+            return files
+
+        if self.rclone_bin:
+            cmd = [self.rclone_bin, "lsf", "-R", "--files-only", f"{self.remote}{self.vault_root}"]
+            try:
+                res = subprocess.run(cmd, capture_output=True, text=True, check=False)
+                if res.returncode == 0:
+                    for line in res.stdout.splitlines():
+                        line = line.strip().replace("\\", "/")
+                        if line and Path(line).name.lower() not in SYSTEM_IGNORE_FILES:
+                            files.add(f"{self.vault_root}/{line}".lower())
+            except Exception as e:
+                if self.verbose:
+                    print(f"      [rclone scan error]: {e}")
+
+        self._vault_files_cache = files
+        return files
 
     def execute_rclone_copy(self, src: str, dst: str) -> bool:
-        """Copies a file using rclone copyto with fallback to direct copy."""
+        """Copies a file using rclone copyto."""
         if self.rclone_bin:
             cmd = [self.rclone_bin, "copyto", src, dst]
             try:
@@ -169,8 +227,6 @@ class VaultHydrationEngine:
             except Exception as e:
                 if self.verbose:
                     print(f"      [rclone error]: {e}")
-
-        # Direct local mount fallback
         return False
 
     def push_sources(self) -> bool:
@@ -181,7 +237,7 @@ class VaultHydrationEngine:
         print("=================================================================")
         print(f"Target Spoke : {self.root_dir}")
         print(f"Remote Vault : {self.remote}{self.vault_root}")
-        print(f"Local Drive  : {self.local_vault_root or 'Not mounted locally'}")
+        print(f"Local Drive  : {self.local_vault_root or 'Not mounted locally (rclone mode)'}")
         print(f"Mode         : {'DRY-RUN (Simulation Only)' if self.dry_run else 'OFFICIAL PUSH (Live Upload)'}")
         print(f"Bundles Found: {len(bundle_dirs)}\n")
 
@@ -189,6 +245,8 @@ class VaultHydrationEngine:
         up_to_date_count = 0
         uploaded_count = 0
         failed_count = 0
+
+        remote_vault_files = self.get_remote_vault_files()
 
         for cat, slug, b_dir in bundle_dirs:
             sources_dir = b_dir / "sources"
@@ -205,7 +263,10 @@ class VaultHydrationEngine:
 
             source_files = [
                 f for f in sorted(sources_dir.iterdir())
-                if f.is_file() and f.suffix.lower() in SOURCE_EXTENSIONS and not f.name.startswith(".")
+                if f.is_file()
+                and f.suffix.lower() in SOURCE_EXTENSIONS
+                and not f.name.startswith(".")
+                and f.name.lower() not in SYSTEM_IGNORE_FILES
             ]
 
             for s_file in source_files:
@@ -213,12 +274,16 @@ class VaultHydrationEngine:
                 file_sha = compute_sha256(s_file)
                 file_size_kb = round(s_file.stat().st_size / 1024, 1)
                 remote_target = self.get_remote_target(cat, slug, s_file.name, metadata)
-                local_vault_file = self.get_local_vault_file_path(cat, slug, s_file.name)
+                local_vault_file = self.get_local_vault_file_path(cat, slug, s_file.name, metadata)
 
-                # Check if already present and identical
+                # Check if identical in local mount or remote cache
                 is_identical = False
                 if local_vault_file and local_vault_file.exists():
                     if local_vault_file.stat().st_size == s_file.stat().st_size:
+                        is_identical = True
+                else:
+                    target_rel = remote_target.replace(self.remote, "").lower()
+                    if target_rel in remote_vault_files:
                         is_identical = True
 
                 rel_src = s_file.relative_to(self.root_dir)
@@ -228,7 +293,6 @@ class VaultHydrationEngine:
                         print(f"  ✅ Up-to-Date: {rel_src} ({file_size_kb} KB) -> {remote_target}")
                     continue
 
-                # Needs upload
                 if self.dry_run:
                     uploaded_count += 1
                     print(f"  📤 [DRY-RUN] Uploaded dự kiến: {rel_src} ({file_size_kb} KB) -> {remote_target}")
@@ -240,14 +304,14 @@ class VaultHydrationEngine:
                     if self.rclone_bin:
                         success = self.execute_rclone_copy(str(s_file), remote_target)
 
-                    # Fallback to direct local copy if rclone fails or not in PATH
+                    # Fallback to local mount copy
                     if not success and local_vault_file:
                         try:
                             local_vault_file.parent.mkdir(parents=True, exist_ok=True)
                             shutil.copy2(str(s_file), str(local_vault_file))
                             success = True
                             if self.verbose:
-                                print(f"    [Local Mount Copy]: Successfully synced to {local_vault_file}")
+                                print(f"    [Local Mount Copy]: Synced to {local_vault_file}")
                         except Exception as e:
                             print(f"    ❌ Error copying to local mount: {e}")
 
@@ -287,6 +351,7 @@ class VaultHydrationEngine:
         print("=================================================================")
         print(f"Target Spoke : {self.root_dir}")
         print(f"Remote Vault : {self.remote}{self.vault_root}")
+        print(f"Local Drive  : {self.local_vault_root or 'Not mounted locally (rclone mode)'}")
         print(f"Bundles Found: {len(bundle_dirs)}\n")
 
         total_assets = 0
@@ -294,6 +359,8 @@ class VaultHydrationEngine:
         missing_local_count = 0
         missing_vault_count = 0
         mismatch_count = 0
+
+        remote_vault_files = self.get_remote_vault_files()
 
         for cat, slug, b_dir in bundle_dirs:
             meta_file = b_dir / "metadata.yaml"
@@ -308,19 +375,20 @@ class VaultHydrationEngine:
             sources_dir = b_dir / "sources"
             source_assets = metadata.get("source_assets", {})
 
-            # Inspect declared source_assets
             if isinstance(source_assets, dict) and source_assets:
                 for asset_type, info in source_assets.items():
                     if not isinstance(info, dict):
                         continue
                     total_assets += 1
+                    status = str(info.get("status", "verified")).lower()
                     expected_sha = info.get("sha256", "").strip().lower()
-                    vault_path = info.get("vault_path", "")
+                    vault_path = str(info.get("vault_path", "")).replace("\\", "/")
                     filename = Path(vault_path).name if vault_path else f"{slug}.{asset_type}"
 
                     local_file = sources_dir / filename
-                    local_vault_file = self.get_local_vault_file_path(cat, slug, filename)
+                    local_vault_file = self.get_local_vault_file_path(cat, slug, filename, metadata)
 
+                    # 1. Local Verification
                     local_ok = False
                     if local_file.exists():
                         actual_sha = compute_sha256(local_file)
@@ -329,34 +397,50 @@ class VaultHydrationEngine:
                             print(f"  ❌ Mismatch [{slug}/{filename}]: Expected {expected_sha[:8]} != Actual {actual_sha[:8]}")
                         else:
                             local_ok = True
+                    elif status in {"pending_acquisition", "missing_upstream"}:
+                        local_ok = True
                     else:
                         missing_local_count += 1
 
+                    # 2. Vault Verification
                     vault_ok = False
-                    if local_vault_file and local_vault_file.exists():
+                    if status in {"pending_acquisition", "missing_upstream"}:
+                        vault_ok = True  # Explicitly documented exception
+                    elif local_vault_file and local_vault_file.exists():
                         vault_ok = True
+                    else:
+                        target_key = vault_path.lower()
+                        if target_key in remote_vault_files:
+                            vault_ok = True
 
-                    if local_ok and (vault_ok or not self.local_vault_root):
+                    if not vault_ok:
+                        missing_vault_count += 1
+                        print(f"  ❌ Missing in Vault [{slug}/{filename}]: {vault_path}")
+
+                    if local_ok and vault_ok:
                         verified_count += 1
 
         print("\n-----------------------------------------------------------------")
         print("VERIFICATION SUMMARY:")
         print(f"  Total source assets declared : {total_assets}")
-        print(f"  Verified assets              : {verified_count}")
+        print(f"  Verified assets (local+vault): {verified_count}")
         print(f"  Missing locally (gitignored) : {missing_local_count}")
         print(f"  Missing in Vault             : {missing_vault_count}")
         print(f"  SHA-256 Mismatches           : {mismatch_count}")
         print("-----------------------------------------------------------------")
 
-        if mismatch_count == 0:
+        if missing_local_count > 0:
+            print(f"  ℹ️ Notice: {missing_local_count} source assets not hydrated locally. Run 'python scripts/hydrate_sources_from_vault.py --all' to download.")
+
+        if mismatch_count == 0 and missing_vault_count == 0:
             print("✅ All source assets verified without corruption or mismatch!")
             return True
 
-        print("❌ Integrity issues detected.")
+        print(f"❌ Integrity issues detected: {missing_vault_count} missing in Vault, {mismatch_count} SHA mismatches.")
         return False
 
     def hydrate_all(self) -> bool:
-        """Pulls / hydrates missing source files from Google Drive Vault."""
+        """Pulls / hydrates missing source files from Google Drive Vault with Self-Healing."""
         bundle_dirs = self.get_bundle_dirs()
         print("=================================================================")
         print("       CCBA LEGAL SPOKE — CLOUD VAULT HYDRATION PIPELINE         ")
@@ -385,16 +469,29 @@ class VaultHydrationEngine:
                 for asset_type, info in source_assets.items():
                     if not isinstance(info, dict):
                         continue
-                    vault_path = info.get("vault_path")
+                    status = str(info.get("status", "verified")).lower()
+                    if status in {"pending_acquisition", "missing_upstream"}:
+                        continue
+
+                    expected_sha = info.get("sha256", "").strip().lower()
+                    vault_path = str(info.get("vault_path", "")).replace("\\", "/")
                     if not vault_path:
                         continue
                     filename = Path(vault_path).name
                     local_file = sources_dir / filename
-                    if local_file.exists() and local_file.stat().st_size > 0:
-                        continue  # Already present
+
+                    # Self-Healing Check: Already present and valid?
+                    if local_file.exists():
+                        actual_sha = compute_sha256(local_file)
+                        if expected_sha and actual_sha == expected_sha:
+                            continue  # Clean & verified
+                        elif not expected_sha and local_file.stat().st_size > 0:
+                            continue
+                        else:
+                            print(f"  ⚠️ Corrupt local file detected for [{slug}]: {filename}. Re-downloading...")
 
                     remote_src = f"{self.remote}{vault_path}"
-                    local_vault_file = self.get_local_vault_file_path(cat, slug, filename)
+                    local_vault_file = self.get_local_vault_file_path(cat, slug, filename, metadata)
 
                     print(f"  📥 Hydrating [{slug}]: {remote_src} -> {local_file.name}")
                     success = False
@@ -411,9 +508,17 @@ class VaultHydrationEngine:
                     if not success and self.rclone_bin:
                         success = self.execute_rclone_copy(remote_src, str(local_file))
 
+                    # Post-Download Cryptographic Verification (ADR 0059)
+                    if success and local_file.exists():
+                        actual_sha = compute_sha256(local_file)
+                        if expected_sha and actual_sha != expected_sha:
+                            print(f"    ❌ Downloaded file SHA mismatch! Removing corrupt file {filename}")
+                            local_file.unlink(missing_ok=True)
+                            success = False
+
                     if success:
                         downloaded_count += 1
-                        print(f"    ✅ Hydrated: {filename}")
+                        print(f"    ✅ Hydrated & Verified: {filename}")
                     else:
                         failed_count += 1
                         print(f"    ❌ Failed to hydrate: {filename}")
@@ -454,7 +559,6 @@ def main() -> None:
     elif args.all:
         success = engine.hydrate_all()
     else:
-        # Default behavior if no mode specified is verify
         success = engine.verify_sources()
 
     sys.exit(0 if success else 1)
