@@ -19,6 +19,10 @@ source_assets:
     sha256: 706a8bfbb2328ca11e2e54bd44849b22854256a2d68240cdf8fa320909c6f90b
     vault_path: CCBA_Legal_Vault/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/luat_55_2024_qh15.pdf
     status: verified
+  docx:
+    sha256: 6c306d82325a341fdd4b736809a9b7e4b2cbb4af8df918c57b82478475e6685f
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1.docx
+    status: verified
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Nha-o/Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347.aspx
 relations: {}
 okf_spec: v2.4 Universal

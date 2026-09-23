@@ -27,6 +27,10 @@ source_assets:
     sha256: 6ef24aa5112ab267fbad9c66f5b17fbc7c8b7c9015ae370f71864d327febd20c
     vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_36_2026_tt_bxd/thong_tu_36_2026_tt_bxd.pdf
     status: verified
+  docx:
+    sha256: 89df583067507576e3a192adcad16b2262374a1de9ce0f5eb99fbd3331419e7d
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_36_2026_tt_bxd/thong_tu_36_2026_tt_bxd.docx
+    status: verified
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-36-2026-TT-BXD-quan-ly-chi-phi-dau-tu-xay-dung-712408.aspx
 relations:
   guided_by: nghi_dinh_206_2026_nd_cp

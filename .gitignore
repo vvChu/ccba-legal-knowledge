@@ -55,8 +55,10 @@ scratch/
 # ADR 0035 Tri-Tier Cloud Binary Vault (Stored on Google Drive)
 legal_docs/**/sources/*.pdf
 legal_docs/**/sources/*.docx
+legal_docs/**/sources/*.doc
 legal_docs/**/*.pdf
 legal_docs/**/*.docx
+legal_docs/**/*.doc
 
 # Caches and Scratch
 .md/cache/formula_vision/

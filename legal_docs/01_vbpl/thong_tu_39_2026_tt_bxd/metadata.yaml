@@ -41,6 +41,10 @@ source_assets:
     sha256: fcbd63740d9d284018c986e44ffea60ec9836120e0cad0d595e54b78dd660396
     vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_39_2026_tt_bxd/thong_tu_39_2026_tt_bxd.pdf
     status: verified
+  docx:
+    sha256: 975834ef42aa0c7f72720d3b1b178e8628079e0b6da89c293e9c04b375f6893e
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_39_2026_tt_bxd/thong_tu_39_2026_tt_bxd.docx
+    status: verified
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-39-2026-TT-BXD-co-so-du-lieu-quoc-gia-hoat-dong-xay-dung-712407.aspx
 relations:
   guided_by: nghi_dinh_212_2026_nd_cp

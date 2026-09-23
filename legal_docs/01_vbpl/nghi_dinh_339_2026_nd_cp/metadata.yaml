@@ -14,3 +14,8 @@ okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-09-22T08:07:26.990732+00:00'
+source_assets:
+  pdf:
+    sha256: 24842822059419ff9dc97b08bb35a0a118e89cd72201f4719e07a526011feb0b
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_339_2026_nd_cp/nghi_dinh_339_2026_nd_cp.pdf
+    status: pending_acquisition

@@ -43,8 +43,18 @@ bundle_path: legal_docs/01_vbpl/nghi_dinh_193_2026_nd_cp/
 cong_bao_number: Đang cập nhật
 source_assets:
   pdf:
-    sha256: a0a064fc9401ed4cc860100b171adad3258219086b3563abd37b3a8806630a4e
+    sha256: 66c91e4659f294ca57654e398b6cb158fb7c55d2cd140b7019a341d8e02c9c65
     vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_193_2026_nd_cp/nghi_dinh_193_2026_nd_cp.pdf
+    status: verified
+    origin: docx_vector_rendered
+  raw_scan:
+    sha256: a0a064fc9401ed4cc860100b171adad3258219086b3563abd37b3a8806630a4e
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_193_2026_nd_cp/nghi_dinh_193_2026_nd_cp_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
+  docx:
+    sha256: cee7740353d88125e2072827758fa9dfe45f831c8370dc94d3eb6ca45458c0f2
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_193_2026_nd_cp/nghi_dinh_193_2026_nd_cp.docx
     status: verified
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-193-2026-ND-CP-quyet-toan-von-dau-tu-du-an-709388.aspx
 relations:

@@ -33,3 +33,8 @@ okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-09-22T00:29:31.488183+00:00'
+source_assets:
+  pdf:
+    sha256: 4bfc31972c1bf9222365fa5b6e30769cf4e8bab77b2ed9c664b1306fbb7b9ff9
+    vault_path: CCBA_Legal_Vault/01_vbpl/10_2021_nd_cp/10_2021_nd_cp.pdf
+    status: pending_acquisition

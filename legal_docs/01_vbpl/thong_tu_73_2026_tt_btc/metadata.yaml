@@ -42,7 +42,7 @@ source_assets:
     origin: docx_vector_rendered
   docx:
     sha256: 5f39e1b1c5da80c374b896d42d5035d269dfd344c66f521878061274cb8bf435
-    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_73_2026_tt_btc/73_2026_TT-BTC_712590.docx
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_73_2026_tt_btc/thong_tu_73_2026_tt_btc.docx
     status: verified
   raw_scan:
     sha256: 98585a04eb1174e040409944cdafdb1ce2114d072055b866d24cb5f39ae3a5dd

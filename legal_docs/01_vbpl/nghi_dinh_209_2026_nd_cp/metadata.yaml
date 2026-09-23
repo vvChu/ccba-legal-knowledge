@@ -20,8 +20,18 @@ bundle_path: legal_docs/01_vbpl/nghi_dinh_209_2026_nd_cp/
 cong_bao_number: Đang cập nhật
 source_assets:
   pdf:
-    sha256: df417e2903348560a7641b9f4308be938ae0a173c57a7630ce7687687cf71769
+    sha256: d2d6bbc450291b8b55c825cbd6affbd349b5ebbd5047d13ae3ebfcf7f0e01150
     vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_209_2026_nd_cp/nghi_dinh_209_2026_nd_cp.pdf
+    status: verified
+    origin: docx_vector_rendered
+  raw_scan:
+    sha256: df417e2903348560a7641b9f4308be938ae0a173c57a7630ce7687687cf71769
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_209_2026_nd_cp/nghi_dinh_209_2026_nd_cp_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
+  docx:
+    sha256: cf2185c2bb12a463cb89bab82ed89316c6bb4d05f97a61e214e973f0a16f7ba2
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_209_2026_nd_cp/nghi_dinh_209_2026_nd_cp.docx
     status: verified
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-209-2026-ND-CP-quan-ly-vat-lieu-xay-dung-288496.aspx
 relations:

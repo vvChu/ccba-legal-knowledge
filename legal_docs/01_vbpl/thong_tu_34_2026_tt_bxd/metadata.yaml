@@ -36,6 +36,10 @@ source_assets:
     sha256: b65419b559da67420d9b6b0681ddfa695c29ad8b3ae270ed70b2a545f6a17aae
     vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_34_2026_tt_bxd/thong_tu_34_2026_tt_bxd.pdf
     status: verified
+  docx:
+    sha256: e32ebf134ce9485fe3b03be826549edf5690365e55c8f020eaf3974bb661b9e4
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_34_2026_tt_bxd/thong_tu_34_2026_tt_bxd.docx
+    status: verified
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-34-2026-TT-BXD-quy-dinh-chi-tiet-cap-cong-trinh-712306.aspx
 relations:
   guided_by: nghi_dinh_207_2026_nd_cp
