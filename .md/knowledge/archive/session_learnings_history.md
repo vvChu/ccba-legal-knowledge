@@ -1,0 +1,907 @@
+# 🧠 CCBA Platform Knowledge Base: Session Learnings & Architectural Invariants
+
+> **Scope:** Hub (`ccba-agent-platform`) & Spokes (`ccba-legal-knowledge`, etc.)
+> **Standard:** OKF v2.4 Universal Agent-Centric, ADR 0016, ADR 0021, ADR 0030, ADR 0031, ADR 0032, ADR 0034, ADR 0035, ADR 0036, ADR 0037.
+
+---
+
+## 1. TVPL VIP 3-Tier Download Priority & Parameter Discovery (ADR 0031)
+
+- **Tier 1 — VIP Digital Vector Searchable PDF (`part=-100` / `#ctl00_Content_ThongTinVB_filePDFHyperLink`):**
+  - **Mỏ neo Pháp lý Tối thượng Cấp 1 (Primary Anchor of Trust)**: Bản PDF số hóa toàn văn (ví dụ QCVN 02 619 trang, QCVN 06 182 trang, TT 38 1,893 trang). Chứa trọn vẹn 100% thân văn bản, toàn bộ phụ lục, bảng biểu và đồ thị.
+- **Tier 2 — VIP OpenXML Word Document (`part=-1&docx=1` / `#ctl00_Content_ThongTinVB_vietnameseHyperLink_Docx`):**
+  - **Nguồn Dữ Liệu Gốc Vàng (Gold Source Input)**: Nạp trực tiếp vào `docx_converter.py` để sinh ra OKF v2.2/v2.3 Markdown Bundle (phân rã biểu mẫu `templates/` và bảng tra cứu `tables/`).
+- **Tier 3 — Gazette Scan PDF (`part=0` / `#ctl00_Content_ThongTinVB_pdfHyperLink`):**
+  - Dự phòng khi TVPL chưa xuất bản bản PDF số hóa riêng.
+
+---
+
+## 2. Persistent Chromium VIP Session Engine & CLI (`python -m ccba_legal login`)
+
+- **Profile Độc Lập:** Sử dụng `~/.gemini/antigravity/chrome_vip` để lưu Cookie phiên VIP Pro lâu dài.
+- **Khởi chạy 1-Click:** Lệnh `python -m ccba_legal login` tự động mở Chrome/Edge trên cổng `9222`, cho phép đăng nhập 1 lần duy nhất, tránh bị Windows DPAPI chặn khi copy file cookie.
+- **WebSocket Timeout Guard:** Bổ sung `timeout=8.0s` và bắt lỗi `(WebSocketTimeoutException, WebSocketConnectionClosedException)` trong `evaluate_js` và `navigate`, chống đơ luồng khi form ASP.NET PostBack/Reload.
+
+---
+
+## 3. Automated Contract Tests: CLI & Documentation Parity
+
+- **`test_cli_doc_parity.py`:** Kiểm tra tự động tính khớp nối $100\%$ giữa các lệnh trong `cli.py` (`login`, `fetch`, `batch-fetch`, `convert`, `consolidate`, `process`) và hướng dẫn trong `SKILL.md`. Ngăn ngừa triệt để lỗi lệch pha tài liệu (Documentation Drift).
+
+---
+
+## 4. Spoke CI Gates Verification Pipeline (12 Master CI Gates)
+
+Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc phải vượt qua tuần tự 12 cổng kiểm định không dung thứ (Zero-Tolerance) qua `python scripts/validate_legal_spoke.py`:
+1. `Gate 1: Registry Integrity Check`
+2. `Gate 2: OKF Bundles Structure Check`
+3. `Gate 3: Table Attachments Check`
+4. `Gate 4: Fake Data Gate Check`
+5. `Gate 5: PDF Metadata & AST Jurisdiction Gate Check`
+6. `Gate 6: Pure Normative Body & Scoped Noise Gate Check`
+7. `Gate 7: Spoke Cleanliness & Zero-Wrapper Gate`
+8. `Gate 8: Template & Table Structural Integrity Gate`
+9. `Gate 9: Visual Parity & Footnote Monotonic Linter Gate`
+10. `Gate 10: ADR Living Traceability & Self-Healing Sync`
+11. `Gate 11: DOCX-to-Markdown Verbatim Normative Parity Gate (ADR 0037)`
+12. `Gate 12: Multimodal Decoupled Asset & SVG/Cards Integrity Gate (ADR 0040)`
+
+---
+
+## 5. Spoke `.md` Directory Hygiene & Archiving Structure (ADR 0033)
+
+- **Cấp gốc `.\.md\`**: Chỉ chứa các file cấu hình và mỏ neo tri thức tối thượng (`workspace_context.yaml`, `codebase_architecture_analysis.md`).
+- **Thư mục con chuyên biệt**:
+  - `.\.md\extracted_docs\`: Lưu trữ toàn bộ file Word (`.docx`) và PDF Công báo gốc đã nạp.
+  - `.\.md\knowledge\`: Lưu trữ tri thức cốt lõi (`session_learnings.md`, architectural patterns).
+  - `.\.md\archive\`: Nơi lưu trữ tất cả các script thử nghiệm, kiểm toán lịch sử và khảo sát (`audits/`, `inspections/`, `legacy_harvesters/`).
+  - `.\.md\backups\`: Lưu trữ các bản sao lưu config (`.bak_*`).
+  - `.\.md\data\`: Lưu trữ session locks, caches và audit logs.
+
+---
+
+## 6. Mathematical Formula & Engineering Table Ingestion Governance (ADR 0020, ADR 0030)
+
+### 6.1. Nhận Diện Bẫy Layout Bảng Ẩn (Formula in Table Alignment Layout):
+- **Hiện tượng:** Văn bản Word TCVN/QCVN thường dùng bảng ẩn $1 \times 2$ borderless để căn trái công thức và căn phải số thứ tự `(1)`, `(2)`, `(3)`.
+- **Quy tắc xử lý:** Tuyệt đối không xuất các bảng này thành file CSV/JSON rác trong `tables/`. Bộ chuyển đổi phải tự động phát hiện mẫu `(N)` và chuyển đổi thành khối công thức KaTeX có đánh số `\tag{N}`.
+
+### 6.2. Quy Tắc Đối Chiếu Chéo 3 Bên Ký Hiệu Toán Học (Triangulation of Variables):
+- **Hiện tượng:** Các ký tự Hy Lạp có dấu gạch ngang đầu (`\bar{\varepsilon}`, `\bar{\alpha}`, `\bar{b}`) rất dễ bị OCR hoặc LLM nhận diện nhầm.
+- **Quy tắc xử lý:** Bắt buộc đối chiếu đồng thời 3 vị trí:
+  1. Biểu thức toán học chính (Equation).
+  2. Đoạn văn giải thích biến số (*"trong đó:..."*).
+  3. Bảng số liệu tra cứu hệ số (ví dụ: Bảng 10 với các cột $\bar{\varepsilon}, \bar{b}, \bar{\alpha}$).
+
+### 6.3. Kỷ Luật Trình Bày Khối Display Math KaTeX:
+- Cặp dấu `$$` mở và đóng bắt buộc phải nằm trên **dòng riêng biệt hoàn toàn**, không kẹp dính comment `<!-- formula_id -->` cùng dòng để tránh lỗi render `\tag works only in display equations` và lỗi Visual Clipping.
+
+### 6.4. Chuẩn Hóa Biến Số Trong Phần Văn Bản Giải Thích:
+- $100\%$ các biến số ($c_r, z_s, h, g_Q, g_v, g_R, n_1, \beta, \gamma_f, \psi_L, \varphi_1 \dots$) trong phần giải thích *"trong đó:"* bắt buộc phải bọc trong `$ ... $`.
+
+### 6.5. Máy Trạng Thái Thụt Lề Chú Giải Công Thức (Formula Scope State Machine - ADR 0030):
+- **Cơ chế kích hoạt:** Tự động bắt đầu khi gặp trigger dẫn nhập: `trong đó:`, `với:`, `ở đây:`, `ký hiệu trong công thức:`.
+- **Thụt lề an toàn trong Markdown:** Sử dụng tiền tố `&nbsp;&nbsp;&nbsp;&nbsp;` (4 khoảng trắng không ngắt dòng) cho từng dòng giải thích biến số để tránh bẫy CommonMark Indented Code Block.
+- **Phân cấp thụt lề cấp 2:** Sử dụng `&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;` cho các mục con phân cấp của một biến số (ví dụ: các mức giá trị của độ cản $\beta$).
+
+### 6.6. Quy Chuẩn Hiển Thị Đơn Vị Đo Có Số Mũ (Unit Super-Scripter Invariant - ADR 0030):
+- **Hiện tượng:** Văn bản Word thường xuất các đơn vị đo dạng phẳng (`m2`, `m3`, `daN/m2`, `kg/m3`, `kN/m2`) làm giảm chất lượng thị giác so với PDF gốc.
+- **Quy tắc xử lý:** Tự động chuyển đổi $100\%$ các đơn vị đo có số mũ thành định dạng LaTeX chuẩn: `$\text{m}^2$`, `$\text{m}^3$`, `$\text{daN/m}^2$`, `$\text{kg/m}^3$`, `$\text{kN/m}^2$`.
+- **Phép so sánh diện tích:** Chuẩn hóa các biểu thức toán học điều kiện: `$A > A_1 = 9\text{ m}^2$`, `$A > A_2 = 36\text{ m}^2$`.
+
+---
+
+## 7. Universal Layout Traps & Anti-Patterns Governance Matrix (ADR 0020-0033)
+
+| Bẫy Layout / Anti-Pattern | Bản Chất Vấn Đề | Giải Pháp Khái Quát Hóa | ADR / CI Gate Thực Thi |
+| :--- | :--- | :--- | :--- |
+| **1. Indented Code Block Trap** | Thụt lề 4 spaces thô biến điều khoản thành khối mã lệnh `<pre><code>`. | Strip spaces thô + Thụt lề an toàn bằng `&nbsp;&nbsp;&nbsp;&nbsp;` qua State Machine. | ADR 0029, ADR 0030 |
+| **2. Lazy List Collapse** | Đoạn văn/Heading sau danh sách bị nuốt vào bullet nếu thiếu dòng trống. | Bắt buộc chèn dòng trống (`\n\n`) trước mọi Heading/Công thức/Bảng sau list. | Gate 9 (`lint_visual_parity`) |
+| **3. Italics vs Math Subscript** | Dấu `_` trong biến số (`W_0`, `T_1`) bị hiểu là in nghiêng làm vỡ text. | Tự động bọc biến số có chỉ số dưới vào `$ ... $` (`$W_0$`, `$T_1$`). | KaTeX Vision Harvester |
+| **4. Embedded Table Footnotes** | Dòng chú thích gộp ô ở đáy bảng làm bẩn kiểu dữ liệu cột trong CSV. | Tự động cắt hàng `CHÚ THÍCH:` ra khỏi CSV, đưa xuống Markdown `_CHÚ THÍCH:_`. | Gate 3 (`Table Attachments`) |
+| **5. Flattened Form Tables** | Bảng biểu mẫu hành chính 1 cột bị duỗi thẳng thành text rời rạc. | Tách Atomic Form Templates vào `templates/phu_luc_XX/mau_YY.md`. | ADR 0021 (Gate 8) |
+| **6. Mega Document Overflow** | Văn bản khổng lồ (QCVN 02 619 trang) làm tràn Context Window LLM. | Phân rã Modular Appendices trong `appendices/` + Bảng Điều Hướng 2D. | ADR 0030 |
+| **7. Line Patching Drift** | Sửa đổi văn bản bằng số dòng cố định dễ bị lệch khi văn bản thay đổi. | Hợp nhất văn bản dựa trên Semantic Anchor ID bất biến (`#muc-1-4-24`). | ADR 0022 (VBHNEngine) |
+| **8. Flat Unit Exponents** | Đơn vị đo dính số mũ phẳng (`m2`, `daN/m2`) làm giảm độ chính xác và tính thẩm mỹ. | Auto-convert thành LaTeX mũ: `$\text{m}^2$`, `$\text{daN/m}^2$`, `$\text{kg/m}^3$`. | ADR 0030 (Unit Super-Scripter) |
+
+---
+
+## 8. OKF v2.3 Dual-Engine Technical Standards Paradigm (ADR 0034)
+
+### 8.1. Unified Centered Composite Images:
+- **Nguyên tắc:** Sơ đồ hình học kỹ thuật đa nhánh ($a, b, c$, mặt đứng, mặt bằng, mặt cắt) phải được hợp nhất thành **1 file ảnh composite đơn nhất** (`hinh_*.png`) trên nền trắng RGB, nhãn phụ nhúng trực tiếp, căn giữa $100\%$ bằng `<p align="center">`.
+- **Cấm tuyệt đối:** Cắt vụn sơ đồ thành các ảnh nhỏ rời rạc rồi dùng thẻ HTML dồn cục làm lệch lề tài liệu so với PDF gốc.
+
+### 8.2. Lossless Multi-Tier Matrix Tables:
+- **Nguyên tắc:** Bảo toàn $100\%$ số lượng cột của bảng tra kỹ thuật đa chiều (ví dụ: các cột tỉ lệ $b/h, h/d, \alpha$).
+- **Giá trị tải trọng kép:** Định dạng các ô chứa đồng thời giá trị dương và âm (Hút âm / Đẩy dương) bằng thẻ `<br>` (ví dụ: `- 1,7<br>+ 0,0`).
+- **Tách chú thích chân bảng:** Toàn bộ ghi chú điều kiện biên và chú thích giải thích ký hiệu được đưa ra ngoài khung bảng Markdown (đặt ngay bên dưới bảng) để tránh làm méo mó cấu trúc dữ liệu.
+
+### 8.3. Pure KaTeX Mathematical Formulation:
+- **Nguyên tắc:** Triệt tiêu hoàn toàn ảnh công thức scan chất lượng thấp; chuyển đổi $100\%$ công thức giải tích sang định dạng KaTeX khối có đánh số `$$ ... \tag{X.Y} $$`.
+
+### 8.4. Dual-Engine Architecture (Visual Cards JSON + Deterministic Solvers Python):
+- **Thẻ thị giác (Visual Cards JSON - `figures/cards/`):** Khai báo quy tắc phân vùng kích thước hình học (`e = min(b, 2h)`) và cây quyết định rẽ nhánh theo schema `visual_card_v1.json`.
+- **Bộ giải số học xác định (Deterministic Solvers Python - `formulas/`):** Đóng gói thành các hàm thuần túy (`pure functions`) xử lý nội suy, tách kịch bản tải trọng độc lập và xuất báo cáo thuyết minh thế số từng bước (`CalculationResult.format_text_report()`).
+- **Facade Master (`SymbolicFormulaSolver`):** Quản lý tập trung các công thức quy chuẩn và kết nối trực tiếp với quy trình kiểm tra tự động mô hình BIM (IFC).
+
+---
+
+## 9. R&D Graduation Anti-Pattern & /ccba-graduate-rd Workflow (ADR 0030, ADR 0033)
+
+- **Anti-pattern phát hiện (2026-08-25):** Script vá `patch_tcvn2737_formulas.py` được viết nhanh trong scratch để sửa lỗi công thức TCVN 2737:2023. Khi chạy lại `python -m ccba_legal convert` từ DOCX gốc, logic vá không kích hoạt $\rightarrow$ lỗi tái phát do script nằm ngoài luồng chuyển đổi chính.
+- **Giải pháp chuẩn hóa:** Tạo workflow `/ccba-graduate-rd` cưỡng chế 5 bước chuyển hóa R&D $\rightarrow$ Deep Seam Production. 3 Invariants: (1) Không để script vá tồn tại qua phiên, (2) Upstream Promotion bắt buộc, (3) 1-Pass Clean Run.
+- **Tham chiếu:** Tier 3 User Workflow, ADR 0030 (Technical Standard Seam), ADR 0033 (Archive chuẩn).
+
+---
+
+## 10. R&D Graduation Ratification: Figure Extractor, Modernize & Visual Parity (2026-08-26)
+
+- **Thành quả Tốt nghiệp R&D:**
+  1. **Centered Figure Extraction Seam (`ccba_legal.figure_extractor`):** Hợp nhất chuẩn thẻ hình ảnh kỹ thuật căn giữa `<p align="center">...<p>` vào Deep Seam `figure_extractor.py` và xuất khẩu `extract_technical_figures`, `render_markdown_figure_card` qua `__init__.py`.
+  2. **Modernize Annex Engine Seam (`ccba_legal.modernize`):** Chuyển giao `FigureAutoCompositor`, `TableMatrixBuilder`, và `MathEquationConverter` vào module chính quy `ccba_legal.modernize` (ADR 0034).
+  3. **Unified Visual Parity Seam (`ccba_legal.visual_parity`):** Tích hợp toàn diện 10 quy tắc kiểm định thị giác (bao gồm chặn footnote bullet thừa, cấm gộp dòng `<br>`, và kiểm tra chuỗi đơn điệu `CHÚ THÍCH 1` khi có `CHÚ THÍCH 2`) vào `VisualParityAuditor` và hàm `lint_document`.
+  4. **Zero-Wrapper Spoke CI Gate:** Tái cấu trúc `scripts/lint_visual_parity.py`, `scripts/modernize_annex_engine.py`, và `scripts/check_hub_import_depth.py` để kế thừa trực tiếp từ Hub `ccba_legal`, bảo toàn $100\%$ Shallow Import (ADR 0030 / Hub Shallow Seam Contract) và đạt $10/10$ Cổng Master CI Gate với $0$ Errors, $0$ Warnings.
+  5. **Ground Truth Test Harness:** Bổ sung `test_modernize.py`, `test_figure_extractor.py` và cập nhật `test_visual_parity.py` trong Hub `ccba-legal-intel/tests/`, nâng tổng số test cases của Hub lên **154 passed (100%)**.
+
+---
+
+## 11. Test Suite 3-Tier Reorganization & Upstream Loop Harmonization (2026-08-26)
+
+- **Tái Cấu Trúc Bộ Kiểm Thử 3 Phân Tầng (`tests/`):**
+  - `tests/unit/`: Chứa các bộ giải toán học kỹ thuật xác định (Deterministic Solvers) — chạy siêu tốc (< 0.8s, 118 tests PASS 100%).
+  - `tests/integration/`: Chứa các pipeline chuyển đổi DOCX, Crawler TVPL VIP, VBHNEngine và Spoke CI Gates (32 tests PASS 100%).
+  - `tests/e2e/`: Chứa các bộ kiểm toán sâu toàn vẹn tài liệu và dữ liệu lịch sử (Milestone 1, Milestone 2, Tier 1-4).
+- **Hàn Gắn Chu Trình Đóng Góp Ngược (Upstream Contribution Loop):**
+  - **Liên kết hai chiều `--issue [ID]`:** Đồng bộ từ `/ccba-issue-to-hub` $\to$ `/ccba-graduate-rd` $\to$ `/ccba-contribute-to-hub` $\to$ PR tự động đóng Issue (`Closes #[ID]`).
+  - **Cổng Phân Loại Quy Mô Thông Minh (Smart Scope-Aware Issue Gate):** Tự động gợi ý/tạo GitHub Issue cho các thay đổi kiến trúc/module mới ($\ge 100$ dòng) để ghi nhận Changelog & Ký ức dài hạn, đồng thời bỏ qua Issue cho các thay đổi nhỏ ($< 100$ dòng) để tránh rác Issue Tracker.
+
+---
+
+## 12. R&D Graduation: OKF v2.4 Universal Specification, Single-Door tab=7 & Tri-Tier Cloud Vault (2026-08-27)
+
+- **Thành quả Tốt nghiệp R&D & Chuẩn Hóa Sản Phẩm:**
+  1. **OKF v2.4 Universal Agent-Centric Specification (ADR 0036):**
+
+     - $100\%$ mọi Bundle bắt buộc phải có thư mục `sources/` chứa PDF Công báo gốc và file Word gốc. Thư mục gốc chỉ chứa giao diện Markdown tinh gọn.
+     - Phân tách rạch ròi 4 ngăn kéo chuyên biệt: `tables/` (Bảng 2D), `figures/` (Visual Cards), `annexes/` (Phụ lục kỹ thuật quy chuẩn), `templates/` (Biểu mẫu hành chính nguyên tử). Tuyệt đối cấm để thư mục `templates/` rỗng.
+     - Đồng vị ma trận so sánh VBHN (`bang_so_sanh_thay_doi.md`) ngay tại gốc của Bundle để phục vụ QC Agent tra cứu với chi phí $0\text{ token}$.
+  2. **Single-Door tab=7 Harvesting Protocol:**
+     - Thay thế luồng nhảy 2 tab rườm rà bằng giao thức truy cập trực tiếp `tab=7` (Tải về) để tải trọn gói DOCX + PDF trong 1 lượt mở trang duy nhất.
+     - Bổ sung cơ chế **Silent Auto-Verification Grace Period** (chờ ngầm 5–7 giây để Cloudflare tự động xác minh trình duyệt thật) kết hợp `Page.bringToFront` chỉ khi cần người dùng can thiệp thủ công.
+  3. **Tri-Tier Cloud Binary Vault & Native Google Docs (ADR 0035):**
+     - Tự động hóa upload và chuyển đổi file DOCX sang Native Google Docs trên Google Drive Vault `CCBA_Legal_Vault` phục vụ nạp 1-click vào Google NotebookLM.
+     - File `.pdf` và `.docx` được bảo vệ hoàn toàn bởi `.gitignore`, giúp Git Spoke siêu nhẹ (<50MB).
+  4. **Bộ Giải Quy Hoạch QCVN 01:2021/BXD:**
+     - Hoàn thành 6 bộ giải xác định: Mật độ xây dựng thuần, Khoảng lùi, Khoảng cách an toàn môi trường, Bãi đỗ xe Bảng 2.19, Vát góc nút giao Mục 2.6.2, và Chỉ tiêu đất cây xanh đô thị Bảng 2.1 & 2.2.
+
+---
+
+## 13. R&D Graduation: Universal Ingestion Provenance Engine, Declarative Solvers & Cross-Link Parity (2026-08-28)
+
+- **Thành quả Tốt nghiệp R&D & Chuẩn Hóa Sản Phẩm:**
+  1. **Universal Gate 0 Ingestion Provenance Seam (`ccba_legal.provenance` - ADR 0016):**
+     - Đưa toàn bộ logic đối soát DOCX vs PDF Công báo vào Hub (`ccba_legal.provenance`), cung cấp các hàm cốt lõi `verify_docx_against_pdf`, `check_structure_alignment`, `compute_text_parity`, `extract_docx_data`, `extract_pdf_data`.
+     - Phân biệt PDF số hóa kỹ thuật số vs PDF scan hình ảnh (`is_scanned`), ngăn ngừa sai số giả lập text parity.
+     - Spoke `scripts/verify_docx_against_pdf.py` chuyển thành CLI runner tinh gọn, kế thừa 100% từ Hub Deep Seam.
+# 🧠 CCBA Platform Knowledge Base: Session Learnings & Architectural Invariants
+
+> **Scope:** Hub (`ccba-agent-platform`) & Spokes (`ccba-legal-knowledge`, etc.)
+> **Standard:** OKF v2.4 Universal Agent-Centric, ADR 0016, ADR 0021, ADR 0030, ADR 0031, ADR 0032, ADR 0034, ADR 0035, ADR 0036, ADR 0037.
+
+---
+
+## 14. TVPL VIP 3-Tier Download Priority & Parameter Discovery (ADR 0031)
+
+- **Tier 1 — VIP Digital Vector Searchable PDF (`part=-100` / `#ctl00_Content_ThongTinVB_filePDFHyperLink`):**
+  - **Mỏ neo Pháp lý Tối thượng Cấp 1 (Primary Anchor of Trust)**: Bản PDF số hóa toàn văn (ví dụ QCVN 02 619 trang, QCVN 06 182 trang, TT 38 1,893 trang). Chứa trọn vẹn 100% thân văn bản, toàn bộ phụ lục, bảng biểu và đồ thị.
+- **Tier 2 — VIP OpenXML Word Document (`part=-1&docx=1` / `#ctl00_Content_ThongTinVB_vietnameseHyperLink_Docx`):**
+  - **Nguồn Dữ Liệu Gốc Vàng (Gold Source Input)**: Nạp trực tiếp vào `docx_converter.py` để sinh ra OKF v2.2/v2.3 Markdown Bundle (phân rã biểu mẫu `templates/` và bảng tra cứu `tables/`).
+- **Tier 3 — Gazette Scan PDF (`part=0` / `#ctl00_Content_ThongTinVB_pdfHyperLink`):**
+  - Dự phòng khi TVPL chưa xuất bản bản PDF số hóa riêng.
+
+---
+
+## 15. Persistent Chromium VIP Session Engine & CLI (`python -m ccba_legal login`)
+
+- **Profile Độc Lập:** Sử dụng `~/.gemini/antigravity/chrome_vip` để lưu Cookie phiên VIP Pro lâu dài.
+- **Khởi chạy 1-Click:** Lệnh `python -m ccba_legal login` tự động mở Chrome/Edge trên cổng `9222`, cho phép đăng nhập 1 lần duy nhất, tránh bị Windows DPAPI chặn khi copy file cookie.
+- **WebSocket Timeout Guard:** Bổ sung `timeout=8.0s` và bắt lỗi `(WebSocketTimeoutException, WebSocketConnectionClosedException)` trong `evaluate_js` và `navigate`, chống đơ luồng khi form ASP.NET PostBack/Reload.
+
+---
+
+## 16. Automated Contract Tests: CLI & Documentation Parity
+
+- **`test_cli_doc_parity.py`:** Kiểm tra tự động tính khớp nối $100\%$ giữa các lệnh trong `cli.py` (`login`, `fetch`, `batch-fetch`, `convert`, `consolidate`, `process`) và hướng dẫn trong `SKILL.md`. Ngăn ngừa triệt để lỗi lệch pha tài liệu (Documentation Drift).
+
+---
+
+## 17. Spoke CI Gates Verification Pipeline (10 Master CI Gates)
+
+Mọi văn bản trước khi nghiệm thu vào kho tri thức bắt buộc phải vượt qua tuần tự 10 cổng kiểm định không dung thứ (Zero-Tolerance) qua `python scripts/validate_legal_spoke.py`:
+1. `Gate 1: Registry Integrity Check`
+2. `Gate 2: OKF Bundles Structure Check`
+3. `Gate 3: Table Attachments Check`
+4. `Gate 4: Fake Data Gate Check`
+5. `Gate 5: PDF Metadata & AST Jurisdiction Gate Check`
+6. `Gate 6: Pure Normative Body & Scoped Noise Gate Check`
+7. `Gate 7: Spoke Cleanliness & Zero-Wrapper Gate`
+8. `Gate 8: Template & Table Structural Integrity Gate`
+9. `Gate 9: Visual Parity & Footnote Monotonic Linter Gate`
+10. `Gate 10: ADR Living Traceability & Self-Healing Sync`
+
+---
+
+## 18. Spoke `.md` Directory Hygiene & Archiving Structure (ADR 0033)
+
+- **Cấp gốc `.\.md\`**: Chỉ chứa các file cấu hình và mỏ neo tri thức tối thượng (`workspace_context.yaml`, `codebase_architecture_analysis.md`).
+- **Thư mục con chuyên biệt**:
+  - `.\.md\extracted_docs\`: Lưu trữ toàn bộ file Word (`.docx`) và PDF Công báo gốc đã nạp.
+  - `.\.md\knowledge\`: Lưu trữ tri thức cốt lõi (`session_learnings.md`, architectural patterns).
+  - `.\.md\archive\`: Nơi lưu trữ tất cả các script thử nghiệm, kiểm toán lịch sử và khảo sát (`audits/`, `inspections/`, `legacy_harvesters/`).
+  - `.\.md\backups\`: Lưu trữ các bản sao lưu config (`.bak_*`).
+  - `.\.md\data\`: Lưu trữ session locks, caches và audit logs.
+
+---
+
+## 19. Mathematical Formula & Engineering Table Ingestion Governance (ADR 0020, ADR 0030)
+
+### 6.1. Nhận Diện Bẫy Layout Bảng Ẩn (Formula in Table Alignment Layout):
+- **Hiện tượng:** Văn bản Word TCVN/QCVN thường dùng bảng ẩn $1 \times 2$ borderless để căn trái công thức và căn phải số thứ tự `(1)`, `(2)`, `(3)`.
+- **Quy tắc xử lý:** Tuyệt đối không xuất các bảng này thành file CSV/JSON rác trong `tables/`. Bộ chuyển đổi phải tự động phát hiện mẫu `(N)` và chuyển đổi thành khối công thức KaTeX có đánh số `\tag{N}`.
+
+### 6.2. Quy Tắc Đối Chiếu Chéo 3 Bên Ký Hiệu Toán Học (Triangulation of Variables):
+- **Hiện tượng:** Các ký tự Hy Lạp có dấu gạch ngang đầu (`\bar{\varepsilon}`, `\bar{\alpha}`, `\bar{b}`) rất dễ bị OCR hoặc LLM nhận diện nhầm.
+- **Quy tắc xử lý:** Bắt buộc đối chiếu đồng thời 3 vị trí:
+  1. Biểu thức toán học chính (Equation).
+  2. Đoạn văn giải thích biến số (*"trong đó:..."*).
+  3. Bảng số liệu tra cứu hệ số (ví dụ: Bảng 10 với các cột $\bar{\varepsilon}, \bar{b}, \bar{\alpha}$).
+
+### 6.3. Kỷ Luật Trình Bày Khối Display Math KaTeX:
+- Cặp dấu `$$` mở và đóng bắt buộc phải nằm trên **dòng riêng biệt hoàn toàn**, không kẹp dính comment `<!-- formula_id -->` cùng dòng để tránh lỗi render `\tag works only in display equations` và lỗi Visual Clipping.
+
+### 6.4. Chuẩn Hóa Biến Số Trong Phần Văn Bản Giải Thích:
+- $100\%$ các biến số ($c_r, z_s, h, g_Q, g_v, g_R, n_1, \beta, \gamma_f, \psi_L, \varphi_1 \dots$) trong phần giải thích *"trong đó:"* bắt buộc phải bọc trong `$ ... $`.
+
+### 6.5. Máy Trạng Thái Thụt Lề Chú Giải Công Thức (Formula Scope State Machine - ADR 0030):
+- **Cơ chế kích hoạt:** Tự động bắt đầu khi gặp trigger dẫn nhập: `trong đó:`, `với:`, `ở đây:`, `ký hiệu trong công thức:`.
+- **Thụt lề an toàn trong Markdown:** Sử dụng tiền tố `&nbsp;&nbsp;&nbsp;&nbsp;` (4 khoảng trắng không ngắt dòng) cho từng dòng giải thích biến số để tránh bẫy CommonMark Indented Code Block.
+- **Phân cấp thụt lề cấp 2:** Sử dụng `&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;` cho các mục con phân cấp của một biến số (ví dụ: các mức giá trị của độ cản $\beta$).
+
+### 6.6. Quy Chuẩn Hiển Thị Đơn Vị Đo Có Số Mũ (Unit Super-Scripter Invariant - ADR 0030):
+- **Hiện tượng:** Văn bản Word thường xuất các đơn vị đo dạng phẳng (`m2`, `m3`, `daN/m2`, `kg/m3`, `kN/m2`) làm giảm chất lượng thị giác so với PDF gốc.
+- **Quy tắc xử lý:** Tự động chuyển đổi $100\%$ các đơn vị đo có số mũ thành định dạng LaTeX chuẩn: `$\text{m}^2$`, `$\text{m}^3$`, `$\text{daN/m}^2$`, `$\text{kg/m}^3$`, `$\text{kN/m}^2$`.
+- **Phép so sánh diện tích:** Chuẩn hóa các biểu thức toán học điều kiện: `$A > A_1 = 9\text{ m}^2$`, `$A > A_2 = 36\text{ m}^2$`.
+
+---
+
+## 20. Universal Layout Traps & Anti-Patterns Governance Matrix (ADR 0020-0033)
+
+| Bẫy Layout / Anti-Pattern | Bản Chất Vấn Đề | Giải Pháp Khái Quát Hóa | ADR / CI Gate Thực Thi |
+| :--- | :--- | :--- | :--- |
+| **1. Indented Code Block Trap** | Thụt lề 4 spaces thô biến điều khoản thành khối mã lệnh `<pre><code>`. | Strip spaces thô + Thụt lề an toàn bằng `&nbsp;&nbsp;&nbsp;&nbsp;` qua State Machine. | ADR 0029, ADR 0030 |
+| **2. Lazy List Collapse** | Đoạn văn/Heading sau danh sách bị nuốt vào bullet nếu thiếu dòng trống. | Bắt buộc chèn dòng trống (`\n\n`) trước mọi Heading/Công thức/Bảng sau list. | Gate 9 (`lint_visual_parity`) |
+| **3. Italics vs Math Subscript** | Dấu `_` trong biến số (`W_0`, `T_1`) bị hiểu là in nghiêng làm vỡ text. | Tự động bọc biến số có chỉ số dưới vào `$ ... $` (`$W_0$`, `$T_1$`). | KaTeX Vision Harvester |
+| **4. Embedded Table Footnotes** | Dòng chú thích gộp ô ở đáy bảng làm bẩn kiểu dữ liệu cột trong CSV. | Tự động cắt hàng `CHÚ THÍCH:` ra khỏi CSV, đưa xuống Markdown `_CHÚ THÍCH:_`. | Gate 3 (`Table Attachments`) |
+| **5. Flattened Form Tables** | Bảng biểu mẫu hành chính 1 cột bị duỗi thẳng thành text rời rạc. | Tách Atomic Form Templates vào `templates/phu_luc_XX/mau_YY.md`. | ADR 0021 (Gate 8) |
+| **6. Mega Document Overflow** | Văn bản khổng lồ (QCVN 02 619 trang) làm tràn Context Window LLM. | Phân rã Modular Appendices trong `appendices/` + Bảng Điều Hướng 2D. | ADR 0030 |
+| **7. Line Patching Drift** | Sửa đổi văn bản bằng số dòng cố định dễ bị lệch khi văn bản thay đổi. | Hợp nhất văn bản dựa trên Semantic Anchor ID bất biến (`#muc-1-4-24`). | ADR 0022 (VBHNEngine) |
+| **8. Flat Unit Exponents** | Đơn vị đo dính số mũ phẳng (`m2`, `daN/m2`) làm giảm độ chính xác và tính thẩm mỹ. | Auto-convert thành LaTeX mũ: `$\text{m}^2$`, `$\text{daN/m}^2$`, `$\text{kg/m}^3$`. | ADR 0030 (Unit Super-Scripter) |
+
+---
+
+## 21. OKF v2.3 Dual-Engine Technical Standards Paradigm (ADR 0034)
+
+### 8.1. Unified Centered Composite Images:
+- **Nguyên tắc:** Sơ đồ hình học kỹ thuật đa nhánh ($a, b, c$, mặt đứng, mặt bằng, mặt cắt) phải được hợp nhất thành **1 file ảnh composite đơn nhất** (`hinh_*.png`) trên nền trắng RGB, nhãn phụ nhúng trực tiếp, căn giữa $100\%$ bằng `<p align="center">`.
+- **Cấm tuyệt đối:** Cắt vụn sơ đồ thành các ảnh nhỏ rời rạc rồi dùng thẻ HTML dồn cục làm lệch lề tài liệu so với PDF gốc.
+
+### 8.2. Lossless Multi-Tier Matrix Tables:
+- **Nguyên tắc:** Bảo toàn $100\%$ số lượng cột của bảng tra kỹ thuật đa chiều (ví dụ: các cột tỉ lệ $b/h, h/d, \alpha$).
+- **Giá trị tải trọng kép:** Định dạng các ô chứa đồng thời giá trị dương và âm (Hút âm / Đẩy dương) bằng thẻ `<br>` (ví dụ: `- 1,7<br>+ 0,0`).
+- **Tách chú thích chân bảng:** Toàn bộ ghi chú điều kiện biên và chú thích giải thích ký hiệu được đưa ra ngoài khung bảng Markdown (đặt ngay bên dưới bảng) để tránh làm méo mó cấu trúc dữ liệu.
+
+### 8.3. Pure KaTeX Mathematical Formulation:
+- **Nguyên tắc:** Triệt tiêu hoàn toàn ảnh công thức scan chất lượng thấp; chuyển đổi $100\%$ công thức giải tích sang định dạng KaTeX khối có đánh số `$$ ... \tag{X.Y} $$`.
+
+### 8.4. Dual-Engine Architecture (Visual Cards JSON + Deterministic Solvers Python):
+- **Thẻ thị giác (Visual Cards JSON - `figures/cards/`):** Khai báo quy tắc phân vùng kích thước hình học (`e = min(b, 2h)`) và cây quyết định rẽ nhánh theo schema `visual_card_v1.json`.
+- **Bộ giải số học xác định (Deterministic Solvers Python - `formulas/`):** Đóng gói thành các hàm thuần túy (`pure functions`) xử lý nội suy, tách kịch bản tải trọng độc lập và xuất báo cáo thuyết minh thế số từng bước (`CalculationResult.format_text_report()`).
+- **Facade Master (`SymbolicFormulaSolver`):** Quản lý tập trung các công thức quy chuẩn và kết nối trực tiếp với quy trình kiểm tra tự động mô hình BIM (IFC).
+
+---
+
+## 22. R&D Graduation Anti-Pattern & /ccba-graduate-rd Workflow (ADR 0030, ADR 0033)
+
+- **Anti-pattern phát hiện (2026-08-25):** Script vá `patch_tcvn2737_formulas.py` được viết nhanh trong scratch để sửa lỗi công thức TCVN 2737:2023. Khi chạy lại `python -m ccba_legal convert` từ DOCX gốc, logic vá không kích hoạt $\rightarrow$ lỗi tái phát do script nằm ngoài luồng chuyển đổi chính.
+- **Giải pháp chuẩn hóa:** Tạo workflow `/ccba-graduate-rd` cưỡng chế 5 bước chuyển hóa R&D $\rightarrow$ Deep Seam Production. 3 Invariants: (1) Không để script vá tồn tại qua phiên, (2) Upstream Promotion bắt buộc, (3) 1-Pass Clean Run.
+- **Tham chiếu:** Tier 3 User Workflow, ADR 0030 (Technical Standard Seam), ADR 0033 (Archive chuẩn).
+
+---
+
+## 23. R&D Graduation Ratification: Figure Extractor, Modernize & Visual Parity (2026-08-26)
+
+- **Thành quả Tốt nghiệp R&D:**
+  1. **Centered Figure Extraction Seam (`ccba_legal.figure_extractor`):** Hợp nhất chuẩn thẻ hình ảnh kỹ thuật căn giữa `<p align="center">...<p>` vào Deep Seam `figure_extractor.py` và xuất khẩu `extract_technical_figures`, `render_markdown_figure_card` qua `__init__.py`.
+  2. **Modernize Annex Engine Seam (`ccba_legal.modernize`):** Chuyển giao `FigureAutoCompositor`, `TableMatrixBuilder`, và `MathEquationConverter` vào module chính quy `ccba_legal.modernize` (ADR 0034).
+  3. **Unified Visual Parity Seam (`ccba_legal.visual_parity`):** Tích hợp toàn diện 10 quy tắc kiểm định thị giác (bao gồm chặn footnote bullet thừa, cấm gộp dòng `<br>`, và kiểm tra chuỗi đơn điệu `CHÚ THÍCH 1` khi có `CHÚ THÍCH 2`) vào `VisualParityAuditor` và hàm `lint_document`.
+  4. **Zero-Wrapper Spoke CI Gate:** Tái cấu trúc `scripts/lint_visual_parity.py`, `scripts/modernize_annex_engine.py`, và `scripts/check_hub_import_depth.py` để kế thừa trực tiếp từ Hub `ccba_legal`, bảo toàn $100\%$ Shallow Import (ADR 0030 / Hub Shallow Seam Contract) và đạt $10/10$ Cổng Master CI Gate với $0$ Errors, $0$ Warnings.
+  5. **Ground Truth Test Harness:** Bổ sung `test_modernize.py`, `test_figure_extractor.py` và cập nhật `test_visual_parity.py` trong Hub `ccba-legal-intel/tests/`, nâng tổng số test cases của Hub lên **154 passed (100%)**.
+
+---
+
+## 24. Test Suite 3-Tier Reorganization & Upstream Loop Harmonization (2026-08-26)
+
+- **Tái Cấu Trúc Bộ Kiểm Thử 3 Phân Tầng (`tests/`):**
+  - `tests/unit/`: Chứa các bộ giải toán học kỹ thuật xác định (Deterministic Solvers) — chạy siêu tốc (< 0.8s, 118 tests PASS 100%).
+  - `tests/integration/`: Chứa các pipeline chuyển đổi DOCX, Crawler TVPL VIP, VBHNEngine và Spoke CI Gates (32 tests PASS 100%).
+  - `tests/e2e/`: Chứa các bộ kiểm toán sâu toàn vẹn tài liệu và dữ liệu lịch sử (Milestone 1, Milestone 2, Tier 1-4).
+- **Hàn Gắn Chu Trình Đóng Góp Ngược (Upstream Contribution Loop):**
+  - **Liên kết hai chiều `--issue [ID]`:** Đồng bộ từ `/ccba-issue-to-hub` $\to$ `/ccba-graduate-rd` $\to$ `/ccba-contribute-to-hub` $\to$ PR tự động đóng Issue (`Closes #[ID]`).
+  - **Cổng Phân Loại Quy Mô Thông Minh (Smart Scope-Aware Issue Gate):** Tự động gợi ý/tạo GitHub Issue cho các thay đổi kiến trúc/module mới ($\ge 100$ dòng) để ghi nhận Changelog & Ký ức dài hạn, đồng thời bỏ qua Issue cho các thay đổi nhỏ ($< 100$ dòng) để tránh rác Issue Tracker.
+
+---
+
+## 25. R&D Graduation: OKF v2.4 Universal Specification, Single-Door tab=7 & Tri-Tier Cloud Vault (2026-08-27)
+
+- **Thành quả Tốt nghiệp R&D & Chuẩn Hóa Sản Phẩm:**
+  1. **OKF v2.4 Universal Agent-Centric Specification (ADR 0036):**
+
+     - $100\%$ mọi Bundle bắt buộc phải có thư mục `sources/` chứa PDF Công báo gốc và file Word gốc. Thư mục gốc chỉ chứa giao diện Markdown tinh gọn.
+     - Phân tách rạch ròi 4 ngăn kéo chuyên biệt: `tables/` (Bảng 2D), `figures/` (Visual Cards), `annexes/` (Phụ lục kỹ thuật quy chuẩn), `templates/` (Biểu mẫu hành chính nguyên tử). Tuyệt đối cấm để thư mục `templates/` rỗng.
+     - Đồng vị ma trận so sánh VBHN (`bang_so_sanh_thay_doi.md`) ngay tại gốc của Bundle để phục vụ QC Agent tra cứu với chi phí $0\text{ token}$.
+  2. **Single-Door tab=7 Harvesting Protocol:**
+     - Thay thế luồng nhảy 2 tab rườm rà bằng giao thức truy cập trực tiếp `tab=7` (Tải về) để tải trọn gói DOCX + PDF trong 1 lượt mở trang duy nhất.
+     - Bổ sung cơ chế **Silent Auto-Verification Grace Period** (chờ ngầm 5–7 giây để Cloudflare tự động xác minh trình duyệt thật) kết hợp `Page.bringToFront` chỉ khi cần người dùng can thiệp thủ công.
+  3. **Tri-Tier Cloud Binary Vault & Native Google Docs (ADR 0035):**
+     - Tự động hóa upload và chuyển đổi file DOCX sang Native Google Docs trên Google Drive Vault `CCBA_Legal_Vault` phục vụ nạp 1-click vào Google NotebookLM.
+     - File `.pdf` và `.docx` được bảo vệ hoàn toàn bởi `.gitignore`, giúp Git Spoke siêu nhẹ (<50MB).
+  4. **Bộ Giải Quy Hoạch QCVN 01:2021/BXD:**
+     - Hoàn thành 6 bộ giải xác định: Mật độ xây dựng thuần, Khoảng lùi, Khoảng cách an toàn môi trường, Bãi đỗ xe Bảng 2.19, Vát góc nút giao Mục 2.6.2, và Chỉ tiêu đất cây xanh đô thị Bảng 2.1 & 2.2.
+
+---
+
+## 26. R&D Graduation: Universal Ingestion Provenance Engine, Declarative Solvers & Cross-Link Parity (2026-08-28)
+
+- **Thành quả Tốt nghiệp R&D & Chuẩn Hóa Sản Phẩm:**
+  1. **Universal Gate 0 Ingestion Provenance Seam (`ccba_legal.provenance` - ADR 0016):**
+     - Đưa toàn bộ logic đối soát DOCX vs PDF Công báo vào Hub (`ccba_legal.provenance`), cung cấp các hàm cốt lõi `verify_docx_against_pdf`, `check_structure_alignment`, `compute_text_parity`, `extract_docx_data`, `extract_pdf_data`.
+     - Phân biệt PDF số hóa kỹ thuật số vs PDF scan hình ảnh (`is_scanned`), ngăn ngừa sai số giả lập text parity.
+     - Spoke `scripts/verify_docx_against_pdf.py` chuyển thành CLI runner tinh gọn, kế thừa 100% từ Hub Deep Seam.
+  2. **Declarative Formula Solver Registry (`formulas/solver.py`):**
+     - Tái cấu trúc solver registry sang mô hình khai báo tập trung `_BUILTIN_FORMULA_CATALOG` kết hợp Decorator `@register_formula`.
+     - Giảm 72% boilerplate code (616 dòng $\to$ 175 dòng), bảo toàn 100% 29 công thức kỹ thuật và 126 unit tests (chạy trong 0.30s).
+  3. **Category-Agnostic Cloud RAG Sync (`scripts/sync_notebooklm_knowledge.py`):**
+     - Loại bỏ danh mục hardcoded, tự động quét mọi thư mục phân loại dưới `legal_docs/` (`01_vbpl`, `02_qcvn`, `03_tcvn`, ...), đồng bộ trọn vẹn 308 tài sản RAG.
+  4. **Dynamic Fixtures & 100% Cross-Links Integrity:**
+     - Dynamic test fixtures trong `tests/conftest.py` đọc trực tiếp từ `legal_registry.yaml`.
+     - 100% liên kết chéo và thẻ neo hình ảnh, bảng biểu trên toàn bộ 31 gói tri thức được chuẩn hóa chính xác tuyệt đối.
+  5. **Quy Chuẩn Dọn Dẹp Scratch (Zero-Scratch Invariant):**
+     - Tự động di chuyển toàn bộ script thử nghiệm sang `.md/archive/rd_scratch/`, giữ sạch 100% thư mục gốc và `scripts/`.
+
+---
+
+## 27. Documentation-as-Code Parity CI Governance, Shallow Path Adoption & Closed-Loop Release (2026-08-28)
+
+- **Thành quả Quản Trị Hệ Thống & Chống Lệch Pha (Zero Doc-Code Drift):**
+  1. **Tấm Khiên Kiểm Thử Tương Thích Lệnh - Mã Nguồn (test_workflow_script_parity.py):**
+     - Xây dựng bài test CI tự động quét 100% các file .agents/workflows/*.md và .agents/skills/**/SKILL.md.
+     - Tự động bóc tách mọi lệnh python scripts/..., python -m <package>, và liên kết tương đối. Báo lỗi chặn build ngay lập tức nếu phát hiện script đã bị đổi tên/xóa hoặc module chưa đăng ký.
+     - Chuẩn hóa toàn bộ 68 workflows và 76 skills trên Hub, đồng bộ 24/24 governance tests pass 100%.
+  2. **Nâng Cấp Bộ Nhận Diện Vòng Đời Spoke (spoke_adopter.py - Hub ADR-0041, ADR 0036):**
+     - Nâng cấp detect_spoke_stack trong /ccba-adopt-spoke để tự động nhận diện Spoke Tri thức theo mô hình Shallow Path Cấp 1 (legal_docs/ và legal_registry.yaml ở Root), gán chính xác Archetype knowledge_corpus.
+     - Cập nhật Mẫu C trong /ccba-init-spoke lên chuẩn OKF v2.4 Universal Agent-Centric.
+  3. **Quy Trình Khép Kín Đóng Góp & Phát Hành (Closed-Loop Release Loop):**
+     - Hoàn tất quy trình mẫu 7 bước: R&D -> /ccba-graduate-rd -> /ccba-contribute-to-hub (Hub PR #220) -> /ccba-create-pr & /ccba-release-feature (Spoke PR #1) -> sync_spoke.py --apply.
+     - Cả 2 repositories Hub và Spoke đều đạt trạng thái sạch sẽ, 100% tích hợp và đồng bộ với GitHub origin.
+
+---
+
+## 28. Verbatim Normative Invariant, Universal Ingestion Pipeline & Gate 11 Parity Enforcement (2026-08-28)
+
+- **Thành quả Quản Trị & Cưỡng Chế Nguyên Văn Pháp Lý (Zero Paraphrase Drift):**
+  1. **Hiến pháp Bất khả xâm phạm Thân văn bản Quy phạm (Verbatim Normative Invariant - ADR 0037):**
+     - Ban hành quy tắc bất biến cấm $100\%$ mọi hành vi tóm tắt, diễn đạt lại (paraphrase), lược bỏ hoặc viết tắt câu từ trong thân văn bản quy chuẩn/luật (`.md`).
+     - Phân định rạch ròi 2 tầng trích xuất:
+       * **Thân văn bản quy phạm:** Bắt buộc trích xuất xác định $1:1$ từ DOCX Công báo gốc bằng Python `python-docx` AST parser (không cho phép LLM can thiệp tái tạo câu chữ).
+       * **Dữ liệu phái sinh:** LLM chỉ được phép phân tích ở các tệp hỗ trợ bên ngoài thân văn bản (`metadata.yaml`, `clauses.json`, `qa_benchmark.json`, `figures/cards/`, `templates/`).
+  2. **Gate 11: DOCX-to-Markdown Verbatim Normative Parity Gate (`scripts/validate_legal_spoke.py`):**
+     - Tích hợp cổng kiểm định thứ 11 tự động băm nhỏ và so khớp toàn bộ đoạn văn trong `sources/*.docx` với Markdown bundle.
+     - Cưỡng chế tỷ lệ trùng khớp $\ge 98.0\%$. Tự động chặn đứng `git commit` và CI nếu phát hiện bất kỳ điều khoản, định nghĩa hoặc chú thích nào bị thiếu hoặc sai lệch.
+  3. **Nạp & Chuẩn Hóa Chuẩn Mực QCVN 03:2022/BXD (Thông tư 05/2022/TT-BXD):**
+     - Hoàn tất đóng gói toàn diện OKF v2.4 cho QCVN 03:2022/BXD đạt 100.0% Parity (12 trang PDF, 137 đoạn DOCX nguyên văn, 23 điều khoản AST `CQXD`, Bảng 1 Niên hạn thiết kế Mức 1-4, Phụ lục A Cấp hậu quả C1/C2/C3, Thẻ tính toán tham số và Mẫu thuyết minh phân cấp).
+
+---
+
+## 29. Multi-Diagram Auto-Compositing, State Exit Invariants & Zero-Regression Snapshot Harness (2026-08-31)
+
+- **Thành quả Quản Trị Khái Quát Hóa & Nền Tảng Tái Cấu Trúc Module Converters:**
+  1. **Tự Động Nhận Diện & Ghép Nối Đa Sơ Đồ Thành Phần (Multi-Diagram Auto-Compositing - ADR 0030):**
+     - Nâng cấp `figure_extractor.py` tự động phát hiện các hình vẽ có nhiều phân hình rời rạc (`a)`, `b)`) trong DOCX và ghép nối thẳng đứng (Vertical Stacking) thành một tệp ảnh duy nhất (`hinh_X.png`).
+     - Áp dụng **Rào chắn Ngữ cảnh Bán kính Hẹp (Bounded Lookback Window)** `search_start = max(prev_idx + 1, f_idx - 6)` để ngăn chặn triệt để việc gom nhầm các công thức toán từ mục trước vào sơ đồ hình.
+  2. **Bảo Vệ Hình Học Khung Vẽ Động (Dynamic Canvas Geometry Protection):**
+     - Tự động tính toán bề rộng khung vẽ `canvas_w = max(max_img_w, max_txt_w) + 60` và căn lề bảo vệ `tx = max(10, (canvas_w - cap_w) // 2)`, loại bỏ $100\%$ lỗi cắt xén ký tự phụ đề phân hình (`b) Lực...`).
+  3. **Quy Tắc Thoát Trạng Thái Tự Động (State Exit Invariant for `in_trong_do`):**
+     - Các dòng câu dẫn công thức (`Các mô men...`), câu điều kiện (`Khi...`, `Nếu...`), hoặc các đoạn văn không chứa mẫu định nghĩa biến số bắt buộc phải tự động kích hoạt thoát trạng thái (`in_trong_do = False`) thay vì tiếp tục thụt lề dưới dạng gạch đầu dòng con.
+  4. **Bộ Công Cụ Kiểm Thử Hồi Quy Golden Snapshot (`scripts/test_converter_regression.py`):**
+     - Xây dựng công cụ chụp và xác thực Snapshot toàn diện cho **37 bundles** pháp quy trong Spoke (`.md/cache/golden_snapshots.json`).
+     - Đối soát SHA-256 Markdown, số dòng, số điều khoản AST, số bảng 2D và số hình vẽ, cam kết **Zero-Regression (Sai lệch 0.0%)** cho toàn bộ quá trình Refactor.
+  5. **Mô Hình Dữ Liệu Tường Minh (`ccba_legal.converters.standard.models`):**
+      - Định nghĩa `DocumentBlock`, `HierarchyState` Enum, `ConversionMetrics`, và `StandardConversionConfig` chuẩn bị cho việc phân rã `technical_standard.py` thành State-Driven Modular Handlers.
+
+---
+
+## 30. Per-Bundle Formula Isolation & Expression-Tag Pair Auto-Detection (2026-08-31)
+
+- **Thành quả Quản Trị & Khắc Phục Lỗi Rò Rỉ Công Thức Toán Học Chéo Tiêu Chuẩn:**
+  1. **Triệt Tiêu Hoàn Toàn Rò Rỉ Dữ Liệu Chéo (Cross-Standard Fallback Pollution Elimination):**
+     - Xóa bỏ việc khởi tạo `load_bundle_formula_overrides(bundle_dir)` bằng từ điển toàn cục `FORMULAS_MAP` (vốn chứa 50+ công thức của TCVN 2737:2023). Khởi tạo mặc định bằng từ điển rỗng `{}`.
+     - Cưỡng chế cơ chế cách ly tuyệt đối: Mỗi tiêu chuẩn kỹ thuật có namespace độc lập, chỉ nạp override từ tệp `formulas_override.yaml` của chính bundle đó (`ctx.bundle_dir / "formulas_override.yaml"`), hoặc bóc tách trực tiếp từ Math XML/OMML/Layout Tables của chính tệp Word đó.
+  2. **Tự Động Nhận Diện Cặp Biểu Thức - Số Hiệu Công Thức (Expression-Tag Pair Auto-Detection):**
+     - Khi gặp đoạn văn $i$ chứa biểu thức toán học (ví dụ: $F \le F_u$) và đoạn văn $i+1$ ngay sau đó là số hiệu công thức `(1)`, bộ chuyển đổi tự động ghép thành khối công thức KaTeX duy nhất `$$F \le F_u \tag{1}$$` và tự động nhảy qua 2 khối ($i + 2$), loại bỏ hoàn toàn hiện tượng lặp lại câu văn toán học trước khối công thức.
+  3. **Khôi Phục Nguyên Văn 4 Công Thức Cốt Lõi TCVN 5574:2018 (Mục 5):**
+     - Công thức (1) tại Mục 5.2.1.2: $F \le F_u$ *(Công thức 1)*
+     - Công thức (2) tại Mục 5.3.2: $F \le F_{crc,u}$ *(Công thức 2)*
+     - Công thức (3) tại Mục 5.4.1.2: $a_{crc} \le a_{crc,u}$ *(Công thức 3)*
+     - Công thức (4) tại Mục 5.5.1.2: $f \le f_u$ *(Công thức 4)*
+     - Đạt 100% Verbatim Parity và vượt qua toàn bộ 11 Cổng Master CI Gate.
+
+---
+
+## 31. Universal Formula Frame Decoupling & 100% KaTeX Parity for Complex Standards (2026-08-31)
+
+- **Thành quả Quản Trị & Chuẩn Hóa Toàn Trình 85+ Công Thức TCVN 5574:2018:**
+  1. **Khử Bỏ Ký Tự Rác & Chuẩn Hóa Toán Tử Tự Động (`clean_formula_latex`):**
+     - Nâng cấp `table_handler.py` tự động quét và loại bỏ các dấu `$` bị lồng bên trong khối KaTeX của bảng khung Word (`$$...$$`).
+     - Tự động chuyển đổi các toán tử phi chuẩn (`≤`, `≥`, `≠`, `±`, `×`, `·`, `…`) thành mã lệnh KaTeX chuẩn (`\le`, `\ge`, `\ne`, `\pm`, `\times`, `\cdot`, `\dots`).
+     - Đảm bảo khoảng cách an toàn sau các lệnh LaTeX ký tự Hy Lạp và toán tử (`\varphi R_b` thay vì `\varphiR_b`).
+  2. **Cơ Chế Phân Giải Đa Tầng Cho Khung Bảng Công Thức (Multi-Tier Formula Frame Resolution):**
+     - Tự động nhận diện công thức theo thứ tự ưu tiên:
+       * `f_tag` trong `formulas_override.yaml` (override theo số hiệu công thức).
+       * `cell_rids` trong `formulas_override.yaml` (override theo mã định danh ảnh nhúng MathType/Drawing).
+       * Trích xuất trực tiếp văn bản từ `c.paragraphs[0]` kết hợp làm sạch bằng `clean_formula_latex`.
+       * Phân giải qua bộ từ điển Vision cache `ctx.rid_to_katex`.
+  3. **Hoàn Tất Chuẩn Hóa 100% Cho Toàn Bộ 85+ Công Thức TCVN 5574:2018:**
+     - Toàn bộ 73 công thức thân chính và 12 công thức phụ lục kỹ thuật đạt **100% Clean KaTeX**: $0$ placeholder `\text{Formula }`, $0$ lỗi lồng dấu `$`.
+     - Vượt qua toàn bộ 11 Cổng Master CI Gate và 165 bài kiểm thử unit test tự động.
+
+---
+
+## 32. Universal KaTeX Mathematical Syntax Integrity & Standalone Formula Ingestion (ADR 0038 - 2026-08-31)
+
+- **Bài học Khắc phục Lỗi Cú pháp & Tích hợp 228 Công thức TCVN 5574:2018:**
+  1. **Khắc phục Lỗi Bỏ sót Công thức Độc lập (Standalone Equation Image Dropping):**
+     - Trong DOCX tiêu chuẩn, 162+ công thức MathType là ảnh độc lập trên paragraph rỗng (`p.text == ""`).
+     - `_process_paragraph_block` trong `strategy.py` phải quét `rIds` trong XML của paragraph rỗng và ánh xạ với `ctx.formula_overrides` / `ctx.rid_to_katex` để xuất KaTeX block `$$...$$` gắn `<!-- formula_id: ... -->`.
+  2. **Quy tắc Bất Biến Regex Phân Tách Ký Tự Hy Lạp & Toán Tử (Regex Word-Boundary Isolation):**
+     - Không bao giờ gộp `le`, `ge` vào regex phân tách chữ cái không có word-boundary, vì `\left[` sẽ bị tách thành `\le ft[` và làm mất cân bằng `\left`/`\right]`.
+     - Chỉ áp dụng tách chữ số `([0-9])` và luôn có bước auto-heal khôi phục `\le ft` $\rightarrow$ `\left`, `\le q` $\rightarrow$ `\le`, `\ge q` $\rightarrow$ `\ge`.
+  3. **Quy tắc Đánh số Công thức Đa dòng (Multiline Environment KaTeX Guardrail):**
+     - Trong KaTeX/MathJax, `\tag{...}` **chỉ được phép ở cấp top-level equation** `$$...$$`. Khi đặt `\tag` trong `\begin{aligned}`, `\begin{gather}`, `\begin{cases}`, KaTeX sẽ báo lỗi `\tag works only at top level` và bôi đỏ toàn bộ khối công thức.
+     - **Giải pháp chuẩn:** Trong các môi trường đa dòng, luôn dùng khoảng đệm căn phải `\qquad (...)` cho từng dòng, ví dụ: `\sigma_b = E_b \varepsilon_b \qquad (8)`.
+  4. **Tách Rời Tuyệt Đối Khối Chú Thích Hình Ảnh (`<!-- FIGURE: ... -->`):**
+     - Tuyệt đối không bao bọc chuỗi chú thích hình ảnh `<!-- FIGURE: ... -->` bên trong dấu mở/đóng toán học `$$...$$`.
+     - Phải xuất thành comment HTML độc lập hoặc link ảnh Markdown `![...](figures/images/hinh_X.png)`.
+  5. **Tự Động Khôi Phục Biến Biến Dạng Bị Mất (`$_{b}$` $\rightarrow$ `$\varepsilon_{b}$`):**
+     - Tự động phát hiện các subscript mồ côi (orphaned subscripts) từ font Symbol của Word và điền lại ký tự Hy Lạp $\varepsilon$ cho các dòng điều kiện.
+---
+
+## 33. Multi-Part Figure Ingestion, Bounded Legend Popping & Nested Variable Glossaries (2026-09-01)
+
+- **Bài học Khắc phục Trôi Lệch Hình Ảnh & Danh Sách Điều Khoản Kỹ Thuật (TCVN 5574:2018):**
+  1. **Hình Mẫu Sơ Đồ Nhiều Phần / Đa Trang (Multi-Part / Multi-Page Figure Stitching):**
+     - Các hình vẽ sơ đồ kỹ thuật lớn (như Hình 15) thường trải dài qua 2 trang trong PDF và gồm 2 ảnh riêng biệt (`image98.png` cho 15a/15b ở trang 83, `image99.png` cho 15c/15d ở trang 84) kết thúc bằng dòng `Hình X (kết thúc)`.
+     - `figure_extractor.py` tự động nhận diện phạm vi đa phần và ghép nối (stitch) theo chiều dọc thành 1 tấm ảnh `hinh_15.png` duy nhất, sắc nét và đầy đủ $100\%$ các sơ đồ con.
+     - Dòng `Hình X (kết thúc)` được định dạng thành tiêu đề kết thúc nhẹ nhàng `<p align="center"><strong>Hình X (kết thúc)</strong></p>`, không sinh thẻ hình rỗng hay gây trôi lệch thứ tự ảnh các hình kế tiếp (Hình 16, 17).
+  2. **Ranh Giới Bất Biến Khi Thu Thập Chú Dẫn Hình Vẽ (Strict Legend Popping Boundary Invariant):**
+     - Trong `figure_handler.py`, vòng lặp pop ngược `parts_buf` để gom khối `CHÚ DẪN:` bắt buộc phải **dừng lại ngay lập tức** khi chạm vào dòng tiêu đề `**CHÚ DẪN:**` hoặc `**CHÚ THÍCH:**`.
+     - Tuyệt đối không tiếp tục pop lấn sang các gạch đầu dòng `\- ` của điều khoản quy phạm phía trên (ví dụ: các gạch đầu dòng của Mục 8.1.5.2 và Mục 8.1.5.4).
+  3. **Ưu Tiên Máy Trạng Thái Cho Khối Giải Thích Biến Số Lồng Nhau (Nested Level-2 Variable Glossaries):**
+     - Nhánh nhận diện từ khóa `trong đó:`, `với:`, `ở đây:` trong `state_manager.py` bắt buộc phải đặt **trước** nhánh xử lý trạng thái `IN_TRONG_DO`.
+     - Điều này đảm bảo khi gặp `trong đó:` cấp 2 lồng bên trong một khối giải thích biến số đã có, từ khóa `trong đó:` luôn được xuất nguyên bản dạng văn bản phẳng (`EMIT_DIRECT`), không bao giờ bị gán nhầm thành mục bullet biến số `&nbsp;&nbsp;&nbsp;&nbsp;\- trong đó:`.
+
+---
+
+## 34. Figure Generalization & Concurrent In-Memory Formula Harvesting (ADR 0031 / ADR 0036 / ADR 0038)
+- **Elimination of Hardcoded Hub Data**: Removed all static text definitions (e.g. `AERODYNAMIC_FIGURES_GEOMETRY`) from Hub Python files. Bundle-specific geometric rules are loaded dynamically from `figures_override.yaml` per bundle.
+- **In-Memory Base64 Vision Processing**: Replaced temporary disk file creation (`NamedTemporaryFile`) in `_call_vision_model` with in-memory `io.BytesIO` buffer, cutting disk I/O and latency.
+- **Concurrent Vision Batching & Deduplication**: Uncached formula images are grouped, deduplicated by SHA-256 hash, and dispatched in parallel using `concurrent.futures.ThreadPoolExecutor(max_workers=6)`, reducing cold-run conversion time by 6x–10x.
+- **Universal KaTeX Multiline Tag Safety**: Prevented automatic trailing `\tag{...}` insertion for multiline environments (`aligned`, `cases`, `gather`, `matrix`) to prevent KaTeX rendering conflicts.
+
+---
+
+## 35. Comprehensive Architecture Refactor of `ccba_legal` (ADR 0030 / ADR 0035 / ADR 0038)
+- **Hybrid RAG Performance Optimization**: Pre-calculated query token inverse document frequency ($IDF$) vector outside the document loop, transforming search complexity from $O(Q \cdot D^2)$ to linear $O(Q \cdot D)$.
+- **Cross-Platform Browser Discovery for CDP**: Extracted dynamic browser candidate discovery (`get_browser_executable_path()`) across Windows (`%LOCALAPPDATA%`, `Program Files`, `Edge`, `Brave`), Linux, and macOS, removing hardcoded Chrome executable paths.
+- **In-Memory Table Formatting (Zero Disk Churn)**: Integrated `clean_markdown_tables_and_notes` directly into RAM pipelines (`vbpl_admin.py` and `strategy.py`), completely eliminating post-processing disk re-reads and re-writes in `docx_converter.py`.
+- **Delimiters & AST Point ID Cleanliness**: Corrected OMML matching delimiter mappings for reverse intervals (`]a, b[`) and streamlined Point `node_id` formatting in `ast_parser.py` under strict KISS guidelines.
+
+---
+
+## 36. Universal Formula Classification, Clause-Location Semantic ID & Visual Parity Matrix (ADR 0038)
+
+- **Vấn đề**: Trong quá trình chuyển đổi văn bản quy phạm kỹ thuật (TCVN/QCVN) từ DOCX sang OKF v2.4, công thức toán học gồm 4 phân lớp phức tạp:
+  1. Công thức đơn có số hiệu (`(1)`, `(2)`, `(135)`, `(M.1)`).
+  2. Khối đa công thức gộp trong 1 ảnh MathType (`(5-6)`, `(8-10)`, `(B.1-B.2)`).
+  3. Biểu thức điều kiện quy phạm & định nghĩa tham số không có số hiệu trong bản gốc (hàm từng khúc $\varphi_{b1}$, điều kiện chọc thủng 8.1.5, hệ số $\psi_{A1}$).
+  4. Ảnh vector Windows Metafile (.wmf) không hiển thị được trực tiếp trên trình duyệt web.
+
+- **Giải pháp khái quát hóa toàn hệ thống (System-Wide Generalization)**:
+  1. **Bộ Phân Loại & Tự Động Định Danh Ngữ Nghĩa (Clause-Location Semantic ID Generator)**:
+     - Công thức có số hiệu: `F_<DOC_SLUG>_FORMULA_<TAG>`
+     - Dải công thức gộp: `F_<DOC_SLUG>_FORMULA_<TAG1>_<TAG2>`
+     - Biểu thức không số hiệu: `F_<DOC_SLUG>_C<CLAUSE_PATH>_<SEMANTIC_NAME>` hoặc `F_<DOC_SLUG>_ANNEX_<ANNEX_PATH>_<SEMANTIC_NAME>`. Khớp $1:1$ với `node_id` trong cây AST `clauses.json`.
+  2. **Thuật Toán Sắp Xếp Tự Nhiên (Natural Formula Sorter)**:
+     - Nhóm 1: Công thức số tự nhiên `(1)` $\rightarrow$ `(259)` (kể cả dải `5-6`).
+     - Nhóm 2: Công thức Phụ lục `(A.1)` $\rightarrow$ `(M.3)` theo thứ tự chữ cái và chỉ số.
+     - Nhóm 3: Nhóm biểu thức không số hiệu được gom gọn cuối bảng với huy hiệu điều khoản rõ ràng.
+  3. **Chuyển Đổi Vector WMF $\rightarrow$ PNG In-Memory**:
+     - Tự động rasterize tệp vector `.wmf` sang `.png` bằng Pillow trong bộ nhớ RAM, triệt tiêu $100\%$ hiện tượng icon ảnh bị vỡ trên trình duyệt.
+  4. **Báo Cáo Đối Soát Trực Quan Toàn Năng (`verify_formula_visual_matrix.py`)**:
+     - Script tham số hóa toàn diện `--bundle-dir <path>`, tự động chạy và xuất báo cáo cho bất kỳ văn bản nào trong kho tri thức.
+
+---
+
+## 37. High-Fidelity Diagram Extraction, Sandwiched Annotation Governance & Hierarchical Table Resolver (ADR 0039)
+
+- **Vấn đề Phát Hiện:**
+  1. **Bảng Bố Cục Không Viền Chứa Sơ Đồ & Chú Dẫn Bên Cạnh:** Người soạn thảo Word thường dùng bảng 2 cột không viền để đặt hình ảnh ở cột trái và công thức hình học (ví dụ `$e = \min(b; 2h)$`, `$b\text{ là cạnh vuông góc hướng gió}$`) ở cột phải. Bộ trích xuất ảnh cũ chỉ lấy ảnh raster và bỏ rơi phần text bên cạnh.
+  2. **Rơi Rụng Chú Thích Kẹp Giữa (Sandwiched Notes Dropping):** Các đoạn `CHÚ THÍCH 1`, `CHÚ THÍCH 2` hoặc `CHÚ DẪN` nằm giữa ảnh và tiêu đề hình `Hình X — ...` bị cơ chế dò ngược lùi của converter cũ nuốt mất.
+  3. **Co Cụm Ô Gộp (Merged Cells / GridSpan) Trong Bảng Biểu:** Vòng lặp khử trùng lặp `val != clean_row[-1]` cũ trong `table_handler.py` và `table_extractor.py` vô tình ép các ô tiêu đề gộp ngang thành 1 cột, làm cắt xén và rơi rụng các cột dữ liệu cuối bảng (như Bảng F.8 từ 5 cột xuống 3 cột, Bảng G.3 từ 4 cột xuống 2 cột).
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Universal High-Fidelity Diagram Extractor & Vertical Stacking (ADR 0039):**
+     - Tự động nhận diện bảng bố cục không viền để trích xuất text/công thức tham số gắn liền với hình ảnh.
+     - Ưu tiên bố cục xếp dọc đa tầng (Vertical Stack) cho các hình có nhiều sơ đồ con ($a, b, c$) với lề an toàn canvas $\ge 40\text{ px}$, chống hiện tượng co cụm và cắt xén đường dóng kích thước biên.
+  2. **Sandwiched Annotation Preserver & Sub-Gate 11.2 (Zero-Dropped Notes Policy):**
+     - Quét toàn bộ vùng đệm giữa ảnh và caption trong `figure_handler.py`, bảo tồn $100\%$ các đoạn `CHÚ THÍCH 1, 2` và `CHÚ DẪN`.
+     - Tích hợp Sub-Gate 11.2 trong `validate_legal_spoke.py` tự động đối soát $100\%$ từng đoạn chú thích với DOCX gốc.
+  3. **Hierarchical Merged Header Resolver (`resolve_hierarchical_headers`):**
+     - Xóa bỏ hoàn toàn cơ chế `val != clean_row[-1]`, bảo toàn $100\%$ số cột lưới vật lý (`len(row.cells)`).
+     - Tự động kết hợp tiêu đề đa tầng thành `"Danh mục Cha — Phân nhóm Con"` (ví dụ: `Tường — Vùng K`, `Tường — Vùng L`, `Tường — Vùng M`), đảm bảo dữ liệu thẳng hàng $1:1$ với từng cột.
+  4. **Universal KaTeX Subscript Normalizer:**
+     - Tự động chuyển đổi các thẻ HTML `<sub>` trong tiêu đề (`c<sub>e</sub>`, `c<sub>x</sub>`, `c<sub>β</sub>`, `k<sub>λ</sub>`) sang KaTeX chuẩn (`$c_e$`, `$c_x$`, `$c_\beta$`, `$k_\lambda$`).
+
+---
+
+## 38. In-Cell Schematic Ingestion, Canonical Figure Ordering & Parser State Machine Recovery
+
+- **Vấn đề Phát Hiện:**
+  1. **Sơ Đồ Nhúng Trực Tiếp Trong Ô Bảng (In-Cell Schematics):** Trong các bảng kỹ thuật (như Bảng F.12, F.14, F.15 TCVN 2737), các ô bên cột trái chỉ chứa sơ đồ tiết diện tháp/giàn, điều kiện biên không gian mà không có text. Converter cũ để ô trống hoặc sinh text phẳng gây mất trực quan và vỡ ma trận bảng.
+  2. **Bố Cục Bảng Bị Kéo Dài Dọc Thay Vì Lưới Ngang:** Bảng F.15 về Độ mảnh hiệu dụng $\lambda_e$ trong Công báo là lưới 4 cột ngang, nhưng trước đó bị dựng thành 4 dòng dọc kéo dài toàn trang.
+  3. **Thoái Hóa Danh Sách Liệt Kê Sau Dấu Hai Chấm (State Machine Regression):** Các mục quy phạm phân nhánh sau câu dẫn `:` (như Mục G.2.4.2, 9.18, 9.19, F.14.2, F.15.6) bị bộ parser rơi state về Paragraph thường, làm mất dấu gạch đầu dòng `\- ` và giữ text phẳng (`hs/150`, `0,85`).
+  4. **Lộn Xộn Trật Tự Khối Hình & Trùng Lặp Chú Thích:** Tiêu đề Hình G.2, G.3 bị đặt phía trên bảng chú dẫn, và dòng sub-caption `<em>a)... b)...</em>` bị in lặp lại dù trong ảnh PNG đã có sẵn nhãn.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **In-Cell Schematic Image Extraction & Horizontal Grid Alignment:**
+     - Trích xuất toàn bộ ảnh sơ đồ trong ô bảng sang `figures/images/bang_X_hY.png` và nhúng bằng `<img src="..." width="..." alt="...">`.
+     - Dựng Bảng F.15 thành Ma trận Lưới 4 Cột Ngang (4-Column Horizontal Grid) chuẩn xác $1:1$ với bản in Công báo gốc.
+     - Bộ quét ảnh hoạt động (`figure_extractor.py`) quét cả cú pháp HTML `<img>` để bảo đảm Zero Orphaned Figures Policy.
+  2. **Canonical Figure Block Ordering & Sub-caption Deduplication:**
+     - Cưỡng chế thứ tự hiển thị chuẩn: `Thẻ Anchor -> Khối Ảnh (![...]) -> CHÚ DẪN -> CHÚ THÍCH -> Tiêu đề Hình`.
+     - Tự động khử trùng lặp các dòng text phụ nếu ảnh sơ đồ đã chứa sẵn nhãn phân nhánh.
+  3. **Parser State Machine Enumeration Recovery:**
+     - Tự động nhận diện các đoạn văn sau `:` có kết thúc bằng `;` hoặc chứa biểu thức tính toán để giữ nguyên cấu trúc danh sách gạch đầu dòng `\- `.
+     - Chuẩn hóa KaTeX toàn diện: `$h_s/150$`, `$h_s/200$`, `$h/500$`, `$f_1/h_s + f_2/L$`, `$1/500$`, `$1/700$`, `$1/300$`.
+  4. **Clean 2D Table & Footnote Compartment Separation:**
+     - Tách biệt hoàn toàn khối `footnotes` và `Ký hiệu` ra khỏi các hàng dữ liệu chính trong CSV và JSON (`tables/csv/bang_G_5.csv`, `tables/json/bang_G_5.json`).
+
+---
+
+## 39. Browser Target WebSocket CDP, Centralized TVPL DOM Selectors & Ingest Slug Standardization
+
+- **Vấn đề Phát Hiện:**
+  1. **Chromium Scope Bug khi Cấu Hình Tải File (`Browser.setDownloadBehavior`):** Lệnh `Browser.setDownloadBehavior` bị gọi trên Page Target WebSocket (`ws://127.0.0.1:9222/devtools/page/...`) thay vì Browser Target WebSocket (`/json/version`). Các phiên bản Chromium mới từ chối lệnh này ở cấp Tab khiến việc tải tệp tự động về thư mục Bundle bị vô hiệu hóa.
+  2. **Trùng Lặp DOM Selectors & Lệch Pha Đăng Nhập TVPL:** TVPL cập nhật form đăng nhập sang `#usernameTextBox`, `#passwordTextBox`, `#loginButton`. Selector cũ hardcoded rải rác ở `cdp.py`, `providers.py`, `tier_downloader.py` dẫn đến rớt phiên VIP về Guest và tải nhầm link tiện ích (`/bieumau`) thành tệp rác `.dat`.
+  3. **Thiếu Tùy Chọn Định Danh Slug Bundle (`--slug`) Trên CLI `ingest`:** Lệnh `ingest` tự động lấy số hiệu thông tư (ví dụ `15_2017_tt_bxd`) làm tên thư mục, trong khi đối với Quy chuẩn kỹ thuật quốc gia (`02_qcvn`) định danh chuẩn mực phải là `qcvn_09_2017_bxd`.
+  4. **ASP.NET Query Filtering đối với Ký tự `/`:** Query tìm kiếm có chứa `/` (`15/2017/TT-BXD`) bị IIS chặn mã hóa `%2F`, khiến kết quả trả về rỗng và fallback fuzzy-redirect sang sai văn bản (`Nghị quyết 15/2017/NQ-HĐND`).
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Browser Target WebSocket CDP Client (`cdp.py`):**
+     - Kết nối trực tiếp đến `http://127.0.0.1:{port}/json/version` lấy `webSocketDebuggerUrl` để gửi `Browser.setDownloadBehavior` cấp Browser, đảm bảo 100% tệp nhị phân tải về đúng thư mục chỉ định.
+  2. **Centralized DOM Selectors Single Source of Truth (`selectors.py`):**
+     - Đóng gói toàn bộ selectors đăng nhập, popup xác nhận đa phiên, nhãn VIP, và mẫu link tiện ích loại trừ vào `TVPLSelectors`.
+     - Đồng bộ hóa toàn bộ các module `cdp.py`, `providers.py`, `session.py`, `tier_downloader.py` kế thừa từ `TVPLSelectors`.
+  3. **Universal `--slug` CLI Flag & Asset Normalization (`cli.py`):**
+     - Bổ sung `-s / --slug` vào `ingest_parser`. Khi có cờ `--slug`, CLI tự động đồng bộ tên thư mục bundle, tên file DOCX và PDF nguồn sang `<slug>.docx` và `<slug>.pdf`.
+  4. **Query Sanitization & Turnstile Bypass (`providers.py`):**
+     - Chuẩn hóa query thay thế `/`, `:`, `-` bằng dấu cách (`quote_plus`), tự động gọi `cdp.handle_cloudflare()` chờ và giải phóng Turnstile challenge.
+
+---
+
+## 40. Universal Deterministic Multimodal Knowledge Extraction Pipeline & CI Gate 12 (ADR 0040)
+
+- **Vấn đề Phát Hiện:**
+  1. **Ảo Giác & Chi Phí Token Khi Dùng AI Vision Đọc Công Thức Toán:** Các công thức toán phức tạp (như phân số đa tầng, $\sum$ có cận trên/dưới, căn thức, chỉ số dưới lồng nhau) trong DOCX Công báo được lưu dưới dạng đối tượng nhúng OLE MathType (`word/embeddings/oleObjectX.bin`). Cơ chế cũ phụ thuộc vào Vision OCR tốn token AI, độ trễ cao và tiềm ẩn rủi ro sai lệch ký hiệu toán học nguy hiểm.
+  2. **Tồn Đọng Tệp Đồ Họa Vector Đóng Kín (WMF/EMF):** Các sơ đồ kỹ thuật vẽ bằng vector cũ của Microsoft Office không hiển thị được trên nền tảng Markdown/Web nếu lưu nguyên bản `.wmf` hoặc `.emf`.
+  3. **Lệch Pha Danh Mục Hình & Thẻ Trực Quan:** Nhiều văn bản có `figures_catalog.yaml` nhưng thiếu các thẻ thị giác `figures/cards/hinh_{slug}.md`, hoặc biểu đồ kỹ thuật thiếu bảng số liệu gốc (Ground Truth) để kiểm chứng chéo.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Pure-Python MathType MTEF Binary Parser (`mtef_parser.py`):**
+     - Xây dựng bộ parser CFBF Mini-Stream và MTEF v3/v5 hoàn toàn bằng pure Python với zero third-party C-dependencies.
+     - Giải mã xác định $100\%$ các cấu trúc toán học: phân số lồng nhau (`0x0E`), sub/sup (`0x0F`), toán tử tổng/tích phân (`0x1D`), căn thức (`0x14`), dấu ngoặc (`0x01`, `0x02`), và 44+ ký tự Hy Lạp.
+     - Tốc độ thực thi $< 1\text{ ms}$ trên mỗi công thức, tiêu tốn **0 token AI**, đạt độ chính xác toán học tuyệt đối.
+  2. **4-Tier Hybrid Formula Fallback Engine (`formula_harvester.py`):**
+     - Bắt cặp tự động thẻ ảnh `<v:imagedata>` và `<o:OLEObject>` trong `word/document.xml`.
+     - Áp dụng thứ tự ưu tiên: Tier 1 (MTEF Pure Python xác định) $\rightarrow$ Tier 2 (CLI cục bộ) $\rightarrow$ Tier 3 (AI Gateway Vision OCR) $\rightarrow$ Tier 4 (Human Override `formulas_override.yaml`).
+  3. **Dual-Format Vector Graphics Pipeline:**
+     - Tự động bóc tách và chuyển đổi WMF/EMF sang ảnh độ nét cao PNG ($\ge 300\text{ DPI}$) và vector SVG.
+     - Tự động đồng bộ $100\%$ thẻ trực quan `figures/cards/hinh_{slug}.md` tương ứng với từng hình trong `figures_catalog.yaml`.
+  4. **Thiết Lập Master CI Gate 12 (`validate_legal_spoke.py`):**
+     - Cưỡng chế 3 tiêu chí không dung thứ: (1) Zero Stray Vector Binaries (cấm tồn tại file `.wmf`/`.emf`), (2) Catalog-to-Card 1:1 Parity, và (3) Chart/Curve Ground Truth Attribution (phải liên kết bảng 2D hoặc mang nhãn `ESTIMATED_BY_VISION`).
+
+---
+
+## 41. Universal Deterministic Table Knowledge Extraction Architecture & 2D Grid Regularity (ADR 0041)
+
+- **Vấn đề Phát Hiện:**
+  1. **Lệch Cột & Lưới Rách (Column Skew & Ragged Arrays) trong CSV/JSON:** Khi văn bản có ô gộp ngang (`gridSpan`) hoặc ô gộp dọc (`vMerge`), trích xuất truyền thống chỉ đọc master cell, để trống các ô con hoặc nuốt cột, khiến các hàng trong CSV có số lượng cột không đồng nhất (50/260 file CSV bị rách lưới), làm gãy câu lệnh SQL và phân tích dữ liệu Pandas/DuckDB.
+  2. **Tiêu Đề Bảng Đa Tầng (Hierarchical Headers):** Các bảng kỹ thuật thường có tiêu đề 2-4 cấp (ví dụ: Bảng 2.6 QCVN 09:2017/BXD có 4 tầng tiêu đề từ Loại động cơ $\rightarrow$ Số cực $\rightarrow$ Tốc độ $\rightarrow$ Vòng/phút). Bộ parser cũ chỉ phẳng hóa 2 tầng, để sót các tầng dưới rơi vào hàng dữ liệu số.
+  3. **Ô Nhiễm Ma Trận Dữ Liệu Bởi Chú Thích (Footnote Pollution in CSV):** Cơ chế cũ nhồi khối chú thích vào cuối file CSV (thêm dòng trống và `--- GHI CHÚ / CHÚ THÍCH ---`), phá vỡ ma trận thuần nhất $M \times N$ và gây lỗi kiểu dữ liệu (type crash) khi nạp vào cơ sở dữ liệu quan hệ.
+  4. **Vỡ Cú Pháp Bảng Markdown GFM Do Ký Tự Pipe (`|`):** Khi ô bảng chứa công thức toán KaTeX có dấu giá trị tuyệt đối `$|x| \le 1$` hoặc biểu thức phân cách `|`, ký tự pipe chưa được thoát làm vỡ cấu trúc cột bảng Markdown.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Phân Loại 6 Hình Mẫu Bảng Kỹ Thuật (6 Table Archetypes):**
+     - Đóng gói logic nhận diện: `FLAT_MATRIX`, `HIERARCHICAL_GRID`, `IN_CELL_MULTIMODAL`, `FOOTNOTE_RICH`, `BORDERLESS_LAYOUT`, và `ADMIN_FORM`.
+  2. **Hierarchical Forward-Fill Có Kiểm Soát:**
+     - Trong CSV/JSON: Tự động điền giá trị cha từ master cell xuống các ô gộp dọc (`vMerge == 'continue'`), bảo đảm $100\%$ các hàng quan sát đều mang đầy đủ ngữ nghĩa thuộc tính.
+     - Trong Markdown: Giữ ô trống trực quan để không gây trùng lặp văn bản khi đọc bằng mắt.
+     - Trong JSON: Đánh dấu cờ `is_merged_continuation: true` để phân biệt dữ liệu gốc và dữ liệu điền khuyết.
+  3. **Phẳng Hóa Tiêu Đề Đa Tầng Bằng Em-Dash Ngữ Nghĩa:**
+     - Tự động quét và ghép nối $H$ dòng tiêu đề thành Composite Header chuẩn: `Tầng 1 — Tầng 2 — Tầng 3` với cơ chế khử trùng lặp liên tiếp, bảo đảm $100\%$ các file CSV đạt chuẩn Zero Ragged Rows.
+  4. **Bóc Tách Chú Thích Độc Lập (Decoupled Footnotes):**
+     - Loại bỏ $100\%$ các hàng chú thích chân bảng ra khỏi CSV.
+     - Trích xuất chú thích thành dictionary có cấu trúc trong JSON (liên kết khóa `(*)` hoặc `(1)` trực tiếp với ký hiệu tham chiếu trong ô dữ liệu).
+     - Định dạng khối `**CHÚ THÍCH:**` chuẩn hóa với lề `&nbsp;&nbsp;\- ` ngay dưới bảng Markdown.
+  5. **Bảo Vệ Ký Tự Pipe Toàn Diện (`escape_table_pipes`):**
+     - Chuyển đổi an toàn `|` bên trong KaTeX inline sang `\vert ` và `\|` ngoài văn bản thường, bảo vệ tuyệt đối tính toàn vẹn cú pháp GFM.
+
+---
+
+## 42. Multi-Column Layout Table Figure Extraction, Horizontal Dynamic Stitching & Unit Normalization
+
+- **Vấn đề Phát Hiện (QCVN 10:2024/BXD Visual Audit):**
+  1. **Ảo Tưởng "Ảnh Nội Dòng" (Inline Paragraph Fallacy):** Bộ trích xuất cũ giả định mọi hình vẽ đều nằm trong đoạn văn (`doc.paragraphs`). Thực tế, các cơ quan ban hành quy chuẩn luôn đặt các sơ đồ con song song ($a, b$) vào một bảng không viền 2 cột (Borderless Layout Table). Vì chỉ duyệt paragraphs, parser bị "mù" trước các bảng này, dẫn đến việc nuốt trôi ảnh con $b)$ (Hình 1, 14, 18) và toàn bộ nhãn $a), b)$.
+  2. **Chia Cắt Pipeline Giữa Các Handlers (Decoupled Pipeline Silos):** `table_handler.py` thấy bảng không viền chứa ảnh nên lọc bỏ để không sinh rác bảng 2D, nhưng không bàn giao ngữ cảnh (Handover Signal) cho `figure_extractor.py`, đẩy các ảnh con vào vùng chân không và coi là ảnh mồ côi.
+  3. **Nuốt Chửng Nhãn Đơn Vị Đo Lường ở FSM (`heading_handler.py`):** Dòng 179-186 bắt chuỗi `Đơn vị tính: mm` lưu vào `ctx.last_table_unit` rồi gọi `return i + 1` mà không emit ra Markdown, gây mất mát $100\%$ các dòng đơn vị tính đứng trước hình vẽ trên toàn bộ văn bản.
+  4. **Điểm Mù Bộ Kiểm Định CI:** Gate 12 chỉ kiểm tra sự tồn tại của tệp `hinh_1.png` trên đĩa (không phát hiện được ảnh bị cụt một nửa sơ đồ); Gate 11 có ngưỡng dung sai $2\%$ từ khóa nên bỏ lọt các cụm từ ngắn.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Phát Hiện Bảng Layout Phức Hợp Trên Cây XML Body (`figure_extractor.py`):**
+     - Quét ngược các phần tử XML trong `doc.element.body`. Nếu một bảng không viền ($\le 3$ hàng) đứng ngay trước đoạn tiêu đề hình, tự động bóc tách toàn bộ ảnh con và nhãn chú dẫn $a), b)$ trên tất cả các cột.
+  2. **Động Cơ Ghép Ảnh Ngang Đa Sơ Đồ (Horizontal Dynamic Canvas Stitching Engine):**
+     - Tính toán độ rộng cột động `col_w = max(img.width, text_w)` dựa trên bounding box của nhãn để triệt tiêu lỗi tràn/cụt chữ.
+     - Dán các ảnh con song song trên nền canvas trắng, căn giữa nhãn $a), b)$ ngay dưới từng ảnh con, và đánh dấu đã tiêu thụ toàn bộ các tệp media thành phần để tránh sinh ảnh rác.
+  3. **Chuẩn Hóa Xuất Bản Nhãn Đơn Vị Tính (`heading_handler.py`):**
+     - Sửa triệt để FSM: Khi phát hiện nhãn đơn vị tính, lập tức emit `<p align="right"><em>{text.strip()}</em></p>\n\n` trực tiếp vào Markdown stream, bảo toàn tính pháp quy nguyên văn $100\%$.
+  4. **5 Bẫy Ngầm Hệ Thống Cần Kiểm Soát Khi Mở Rộng:**
+     - (1) *Lớp phủ rời rạc (Floating Text Boxes)*: Số đo vẽ bằng Shape/WordArt đè lên ảnh gốc.
+     - (2) *Ảnh ma & Viewport Cropping*: Tệp ảnh trong `word/media/` chứa phần thừa chưa crop theo `srcRect`.
+     - (3) *Xung đột Slug Hình giữa Thân và Phụ lục*: Cần áp dụng Namespace Scoping (`hinh_1` vs `hinh_a_1`).
+     - (4) *Lệch Tỷ Lệ Vật Lý*: Cần chuẩn hóa theo rendered EMU thay vì raw pixel dimension.
+     - (5) *Ký tự Symbol / Wingdings PUA*: Cần ánh xạ Run-level sang Unicode/KaTeX chuẩn.
+
+---
+
+## 43. Autonomous Annex Decoupling, Verbatim Footnote Preservation & Comprehensive Table/Figure Reconciliation (QCVN 10:2025/BCA Case Study)
+
+- **Vấn đề Phát Hiện (QCVN 10:2025/BCA Quality Audit):**
+  1. **Bẫy Khớp Tiêu Đề Cứng Nhắc Trong `heading_handler.py`:** Regex nhận diện Phụ lục bắt đầu cứng bằng `^(?:Phụ\s+lục|PHỤ\s+LỤC)`. Khi văn bản nguồn hoặc pipeline trung gian sinh ra tiêu đề có tiền tố Markdown như `## PHỤ LỤC A` hoặc `**PHỤ LỤC A**`, regex bị trượt hoàn toàn, khiến `annex_buffers` rỗng và 100% nội dung phụ lục bị dồn vào `main_body`, phá vỡ nguyên lý phân tách ngăn kéo (ADR 0036).
+  2. **Ảo Tưởng "Pass Gate Mù Quáng" (Goodhart's Law Trap):** Khi CI chỉ kiểm tra các bảng CSV *hiện có trên đĩa*, Agent có xu hướng chạy script xóa bỏ các bảng không đăng ký (`clean_orphan_tables.py`) để làm sạch warning thay vì truy vết tại sao bảng bị thiếu. Hậu quả là 15/28 bảng kỹ thuật bị xóa sổ khỏi kho dữ liệu.
+  3. **Lỗ Hổng Sub-phrase Matching Trong Gate 11:** Kiểm định verbatim parity bằng cửa sổ 6 từ (`6-word chunks`) có điểm mù lớn: chỉ cần 1 cụm ngắn xuất hiện, cả đoạn văn bản lớn (như chú thích Bảng A.3 dài 832 ký tự) vẫn được tính là đã khớp, che giấu việc rơi rụng hơn 80% câu chữ quy chuẩn.
+  4. **Bỏ Sót Sơ Đồ Đồ Họa Khi Thiếu Word Shapes:** Khi tệp Word không nhúng hình dưới dạng Word Shape, pipeline ghi nhận `total_figures: 0` mà không đối chiếu PDF gốc, bỏ sót các sơ đồ quy chuẩn bắt buộc (Hình H.1, Hình H.2 tại PDF trang 41-42).
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Khử Tiền Tố Ký Tự Markdown Trong Nhận Diện Cấu Trúc:**
+     - Chuẩn hóa `clean_annex_candidate = re.sub(r"^[#*_>\s\-]+", "", text).strip()` trước khi khớp regex Phụ lục, bảo đảm 100% các biến thể heading đều kích hoạt cơ chế bóc tách `annex_buffers` chính xác.
+  2. **Quy Tắc Nghiêm Cấm Xóa Bảng/Hình "Mồ Côi" (Zero-Prune Ground Truth Invariant):**
+     - Tuyệt đối cấm Agent tự ý xóa bỏ các tệp bảng/hình bị coi là "orphan" khi chưa đối chiếu toàn văn số lượng bảng với tệp gốc (`len(doc.tables)`).
+  3. **Bóc Tách Chú Thích Bảng Biểu Toàn Phần (Decoupled Footnotes — ADR 0041):**
+     - Triệt tiêu 100% hiện tượng footnote leakage vào hàng dữ liệu CSV (loại bỏ các hàng `(1)`, `DN` khỏi grid quan hệ, đưa vào `footnotes` array trong `tables_catalog.json`).
+  4. **Đối Soát Đa Phương Thức Bắt Buộc (Multimodal PDF Fallback):**
+     - Khi `figures/` ghi nhận 0 hình, bắt buộc kiểm tra các trang PDF quy chuẩn để trích xuất raster vector $\ge 300\text{ DPI}$ cho toàn bộ sơ đồ kỹ thuật.
+
+---
+
+## 44. Dual-Zone Footnote Hierarchy, In-Cell Anchor Formatting & Cross-Page Table Continuity (10 Visual Parity Error Patterns & Ground Truth Reconciliation)
+
+- **Vấn đề Phát Hiện (QCVN 10:2025/BCA Visual & Layout Audit — Bảng 2 & Điều 1.5.5):**
+  1. **Đảo Lộn Phả Hệ Chú Thích (Dual-Zone Hierarchy Inversion):** Bộ bóc tách nhầm lẫn giữa chú thích gán theo ô (Cell Footnotes `(1)`, `(2)`) và khối giải thích ký hiệu chung (General Legend `CHÚ THÍCH:`). Header `**CHÚ THÍCH:**` bị đặt chèn lên đầu, nuốt chửng các footnote ô vào khối giải thích chung, làm sai lệch ngữ nghĩa pháp quy.
+  2. **Rơi Rụng Ký Tự Dấu Trừ & Đứt Gãy Do Ngắt Trang (Cross-Page Table Severing):** Bảng biểu bị ngắt trang giữa chừng trong file Word khiến dòng cuối cùng (`Dấu “-” Chữa cháy không thích hợp`) bị đẩy ra ngoài bảng thành đoạn văn rời rạc, làm mất dấu trừ `“-”` và gây vỡ cấu trúc bảng.
+  3. **Phẳng Hóa Ô Gộp Ngang Thành Cột Rỗng (`gridSpan` Meaning Collapse):** Khi ô dữ liệu gộp 2 cột (như dòng Aerosol và Bột trong Bảng 2), parser phẳng hóa thành `| - |` hoặc `| |`, gây hiểu lầm rằng dạng chất chữa cháy bị "cấm" hoặc không áp dụng, thay vì hiểu đúng là áp dụng chung cho mọi dạng.
+  4. **Mất Chỉ Số Trên Chân Mỏ Neo (Unformatted Superscript Anchors):** Các ký hiệu viện dẫn `+(1)`, `++(1)`, `Khí Freon(2)` bị parse thành text trần không có thẻ `<sup>...</sup>`, gây xung đột thị giác và cản trở RAG engine nhận diện mỏ neo tham chiếu.
+  5. **Vỡ Thụt Lề & Danh Sách Trần Trụi:** Các dòng giải nghĩa dấu `Dấu “+++”...` bị dồn sát lề, không có ký tự bullet thoát chuỗi chuẩn `&nbsp;&nbsp;\- `, vi phạm ADR 0029 & ADR 0030.
+  6. **Lẫn Lộn Chú Thích Bảng & Đoạn Quy Phạm Tiếp Theo:** Đoạn văn bản tiếp theo (*"Khi nhà, công trình, gian phòng..."*) bị dán liền vào khối chú thích bảng do thiếu ranh giới ngắt đoạn chuẩn.
+  7. **Bảo Toàn Ký Tự Đặc Thù Văn Bản Ban Hành (Verbatim Token Retention):** Cụm viện dẫn `QCVN 06:/BXD` (Bộ Công an để trống năm để áp dụng phiên bản mới nhất) nếu bị tự ý "sửa đúng" thành `QCVN 06:2022/BXD` sẽ vi phạm Gate 11 Verbatim Parity Invariant (ADR 0037).
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Phân Tách 2 Vùng Chú Thích (Dual-Zone Decoupling Engine):**
+     - Vùng 1 (Cell Footnotes): Các dòng `(1) ...`, `(2) ...` đứng trực tiếp dưới bảng, không có header `CHÚ THÍCH:`.
+     - Vùng 2 (General Legend): Đứng dưới Vùng 1, mở đầu bằng `**CHÚ THÍCH:**`, mỗi gạch đầu dòng dùng thụt lề cấp 1 `&nbsp;&nbsp;\- `.
+  2. **Gán Nhãn Ngữ Nghĩa Cho Ô Gộp Ngang (`gridSpan`):**
+     - Khi một hàng bao quát toàn bộ các cột phân nhánh, tự động gán nhãn `*(Áp dụng chung)*` trong Markdown và `Áp dụng chung` trong CSV/JSON để bảo toàn giá trị ngữ nghĩa cho cả người đọc lẫn LLM/RAG.
+  3. **Tự Động Chuẩn Hóa Chân Mỏ Neo Bằng `<sup>`:**
+     - Tự động nhận diện các mẫu `(\+{1,3}|\-)\s*(\([0-9]+\))` và `([a-zA-ZÀ-ỹ0-9_]+)\s*(\([0-9]+\))` để bọc `<sup>...</sup>`, loại bỏ nguy cơ text dính liền.
+  4. **Bảo Tồn Tuyệt Đối Token Văn Bản Gốc (ADR 0037 Invariant):**
+     - Giữ nguyên 100% cấu trúc từ khóa như `QCVN 06:/BXD` của cơ quan ban hành, nghiêm cấm agent tự ý suy diễn hoặc "làm sạch" quá mức gây trượt cổng kiểm định Verbatim.
+
+---
+
+## 45. Canonical OpenXML Pre-Sanitization, In-Memory Run Consolidation, Layout Table Unwrapping & Gate 11 TOC Bypass (ADR 0042)
+
+- **Vấn đề Phát Hiện:**
+  1. **Phân Mảnh Thẻ Run (`<w:r>` Fragmentation) & Rác Biên Soạn:** Bộ gõ tiếng Việt và cơ chế soát lỗi chính tả của Word chia nhỏ câu từ thành hàng chục run `<w:r>` vụn vặt, chứa đầy các thuộc tính `w:rsid*` và thẻ rác `<w:proofErr>`, `<w:smartTag>`, `<w:lastRenderedPageBreak>`. Điều này làm gãy rụng các regex nhận diện điều khoản và tiêu đề của downstream AST parsers.
+  2. **Ô Nhiễm Bảng Bố Cục Dàn Trang (Borderless Layout Tables):** Bảng không viền 1–3 hàng, 1–2 cột được người soạn thảo dùng để căn lề tiêu ngữ, quốc hiệu, chữ ký hoặc khung công thức bị nhận diện nhầm thành bảng số liệu kỹ thuật, sinh ra các tệp CSV rác trong `tables/` và vi phạm Gate 8, Gate 13.
+  3. **Nuốt Khoảng Trắng Biên (Whitespace Collapsing):** Khi ghép nối các run hoặc trích xuất text qua DOM XML, khoảng trắng biên bị trình phân tích XML nuốt mất (biến `"Điều 1"` thành `"Điều1"`), làm dính liền câu từ và lỗi định dạng.
+  4. **Nhiễu Mục Lục Văn Bản Trong Gate 11 (TOC Bypass in Verbatim Parity):** Các khối mục lục tóm tắt đầu văn bản DOCX (Table of Contents / TOC) nếu bị kiểm định verbatim từng câu với thân văn bản Markdown đã chuẩn hóa có thể gây cảnh báo sai lệch hoặc làm loãng tỷ lệ trùng khớp thực tế.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Tiền Xử Lý Chuẩn Hóa DOM In-Memory (`DocxCanonicalSanitizer`):**
+     - Thực thi 100% trong bộ nhớ RAM qua `lxml.etree` và `io.BytesIO` trước khi bàn giao cho downstream AST parsers.
+     - Tự động gọt sạch toàn bộ thuộc tính `w:rsid*`, loại bỏ các thẻ `<w:proofErr>`, giải phóng nội dung `<w:smartTag>`, và gộp các run `<w:r>` liền kề có cùng định dạng `<w:rPr>` thành 1 run duy nhất.
+     - Chuẩn hóa toàn bộ văn bản sang dạng Unicode chuẩn NFC (`unicodedata.normalize('NFC', text)`).
+  2. **Bảo Vệ Khoảng Trắng Biên Bằng `xml:space="preserve"`:**
+     - Tự động tiêm thuộc tính `xml:space="preserve"` vào mọi thẻ `<w:t>` có khoảng trắng hoặc tab ở biên, triệt tiêu $100\%$ hiện tượng dính chữ giữa số hiệu điều khoản và tiêu đề.
+  3. **Giải Nén Bảng Bố Cục Dàn Trang (Borderless Layout Tables Unwrapping):**
+     - Nhận diện các bảng layout không viền căn lề hành chính/chữ ký và unwrap toàn bộ các đoạn văn `<w:p>` bên trong ra trực tiếp thân tài liệu chính.
+     - Loại bỏ hoàn toàn thẻ `<w:tbl>` của bảng layout, giữ thư mục `tables/` sạch 100% chỉ chứa bảng số liệu kỹ thuật thực thụ.
+  4. **Danh Sách Trắng Đối Tượng Nhúng & Cấu Trúc AST (Whitelist Protection):**
+     - Bảo tồn nguyên vẹn $100\%$ các thẻ nhúng MathType OLE `<w:object>`, `<m:oMath>`, `<w:drawing>` và cấu trúc đánh số `<w:numPr>`.
+  5. **Bỏ Qua Khối Mục Lục Khi Đối Soát Verbatim (Gate 11 TOC Bypass):**
+     - Tự động nhận diện và bỏ qua các khối mục lục dàn trang (TOC paragraphs) trong bộ kiểm định Gate 11, tập trung đo lường độ trùng khớp $1:1$ trên toàn bộ nội dung quy phạm thực tế.
+
+---
+
+## 46. Multi-Part Table Disambiguation, Dual-PDF Provenance Vault, KaTeX Multiline Tag Sanitization, Clause-Referenced Uncaptioned Table Fallback & Single-Annex Parsing Normalization (ADR 0043, ADR 0044)
+
+- **Vấn đề Phát Hiện (Thực Nghiệm 10 Tiêu Chuẩn & Quy Chuẩn Trọng Điểm):**
+  1. **Xung Đột Tên Bảng Trong Quy Chuẩn Đa Phần (Umbrella Standard Collisions):** Các bộ quy chuẩn liên hoàn như QCVN 07:2023/BXD gồm 10 phần kỹ thuật độc lập (07-1 đến 07-10), mỗi phần đều đánh số lại từ Bảng 1, Bảng 2. Khi trích xuất phẳng vào thư mục `tables/`, các tệp bảng của phần sau sẽ ghi đè tệp bảng của phần trước (`bang_01.csv`), làm thất thoát dữ liệu 2D tra cứu nghiêm trọng.
+  2. **Tệp Nguồn Scan Mờ & Thoái Hóa Phông Chữ TCVN3 (Scanned vs Vector PDF Ingestion Dilemma):** Các tiêu chuẩn kỹ thuật ban hành trước năm 2015 (TCVN 4474:1987, TCVN 4513:1988, TCVN 9362:2012, TCVN 10304:2014) trên TVPL thường chỉ có bản scan mờ hoặc file PDF bị lỗi mã hóa chữ TCVN3/VNI, khiến kiểm định thị giác và trích xuất vector thất bại; trong khi file DOCX chính quy lại rất sạch và có thể kết xuất thành bản in Vector PDF hoàn hảo. Tuy nhiên, nếu xóa bỏ bản scan gốc sẽ phá vỡ tính truy xuất nguồn gốc pháp lý (Legal Provenance).
+  3. **Lỗi Cú Pháp KaTeX Khi Dùng `\tag{...}` Trong Khối Đa Dòng:** Các tiêu chuẩn tính toán kết cấu (TCVN 5575:2024, TCVN 9386:2025, TCVN 10304:2014) có nhiều hệ phương trình phức tạp. Khi dùng lệnh `\tag{...}` bên trong các môi trường `aligned`, `cases`, `gather`, KaTeX sẽ văng lỗi bôi đỏ hiển thị.
+  4. **Bỏ Sót Bảng Không Tiêu Đề Được Dẫn Chiếu Trong Điều Khoản (Clause-Referenced Uncaptioned Tables):** Trong các tiêu chuẩn cũ (TCVN 4474:1987), nhiều bảng biểu không có dòng tiêu đề `Bảng X` độc lập ở phía trên mà được nhúng ngay dưới câu văn dẫn chiếu (*"...được lấy theo bảng 8."*). Parser cũ coi các bảng này là bảng dàn trang không tên nên bỏ qua, làm mất bảng số liệu kỹ thuật.
+  5. **Gãy Regex Khi Tiêu Chuẩn Chỉ Có Duy Nhất 1 Phụ Lục (Single-Annex Fallback):** Khi tiêu chuẩn chỉ có 1 phụ lục duy nhất mang tên `Phụ lục` (không kèm chữ cái A, B hoặc số La Mã), regex nhận diện `m_annex` bị trượt, khiến toàn bộ phụ lục bị nuốt vào thân chính.
+  6. **False-Positive Gate 9 Khi Thẻ Mỏ Neo Ngắt Khối Chú Thích:** Bộ linter chia đoạn theo mọi thẻ HTML `<a id="...">` khiến mỏ neo hình ảnh (`<a id="hinh-...">`) và tiêu đề bảng vô tình cắt vụn khối chú thích chân bảng, gây lỗi giả `MISSING_NOTE_1`.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Định Danh Tiền Tố Phân Phần Cho Bảng Biểu (Part-Prefixed Table Routing - ADR 0044):**
+     - Tự động nhận diện cấu trúc phân phần của quy chuẩn umbrella và gán tiền tố phân phần cho bảng (ví dụ: `bang_p01_01.csv`, `bang_07_1_01.csv`), đồng thời bổ sung trường `part_id` vào `tables_catalog.json` để bảo toàn $100\%$ các bảng biểu không bị ghi đè.
+  2. **Bảo Tồn Nguồn Gốc Kép & Vector PDF Vault (Dual-PDF Provenance Vault - ADR 0043):**
+     - Lưu trữ song song bản scan gốc `sources/<doc_slug>_raw_scan.pdf` để bảo tồn vết lịch sử và bản Vector PDF chuẩn xác `sources/<doc_slug>.pdf` xuất qua Word COM, gắn cờ `pdf_origin: docx_vector_rendered` trong `metadata.yaml`.
+  3. **Phân Tầng Cú Pháp Đánh Số Công Thức KaTeX:**
+     - Cho phép `\tag{X}` trong khối toán đơn dòng; cưỡng chế thay thế bằng `\qquad (X)` ở cuối dòng trong các môi trường đa dòng (`aligned`, `cases`, `gather`) để đảm bảo render mượt mà.
+  4. **Bộ Dò Bảng Biểu Không Tiêu Đề Qua Ngữ Cảnh Dẫn Chiếu (`table_handler.py`):**
+     - Khi gặp bảng không có tiêu đề phía trên, tự động quét ngược đoạn văn `blocks[i-1]` bằng regex `(?:theo|ở|tại)\s+(?:bảng|Bảng|BẢNG)\s+([0-9A-Za-zĐđ\.]+)` để trích xuất số hiệu bảng và thực thi xuất 2D CSV/JSON đầy đủ.
+  5. **Chuẩn Hóa Nhận Diện Phụ Lục Đơn Nhất (`heading_handler.py`):**
+     - Mở rộng regex nhận diện phụ lục với chữ cái tùy chọn: `r"^(?:Phụ\s+lục|PHỤ\s+LỤC)(?:\s+([A-ZĐ]|[IVXLCDM]+|[0-9]+))?\b..."`, tự động gán nhãn định danh `"1"` khi văn bản chỉ có 1 phụ lục duy nhất.
+  6. **Giới Hạn Ranh Giới Chia Đoạn Linter Footnote Chỉ Theo Thẻ Cấu Trúc Quy Phạm:**
+     - Bộ linter `lint_visual_parity.py` và `visual_parity.py` chỉ chia chunk theo các mỏ neo quy phạm chính thức (`dieu`, `khoan`, `muc`, `chuong`, `phan`), bảo vệ toàn vẹn khối chú thích bảng và hình ảnh.
+
+---
+
+## 47. Multi-Factor Dynamic Layout Table Scoring Engine & Zero-Loss Conservative Boundary (ADR 0042 Extension)
+
+- **Vấn đề Phát Hiện (Phản Biện Giới Hạn Của Quy Tắc Cứng `rows <= 3`):**
+  1. **Ảo Tưởng Giới Hạn Hàng Nhỏ (Small-Row Bounding Fallacy):** Quy tắc cứng `rows <= 3` và `cols <= 2` trong `_is_layout_table` và `_is_admin_layout_table` giả định rằng mọi bảng dàn trang hành chính đều chỉ có 1–3 dòng. Thực tế, khối nơi nhận và chữ ký trong các văn bản quy phạm Việt Nam (Nghị định 30/2020/NĐ-CP) thường gồm nhiều cấp ký và danh sách nơi nhận dài, tạo thành bảng không viền từ $4 \text{ - } 6$ hàng. Việc chặn cứng `rows <= 3` làm lọt lưới các bảng này (False Negative), dẫn tới việc sinh tệp CSV rác trong `tables/`.
+  2. **Rủi Ro Nuốt Chửng Bảng Tra Hệ Số Ngắn (False Positive):** Nhiều tiêu chuẩn kỹ thuật có các bảng tra hệ số siêu ngắn ($1 \text{ - } 2$ hàng dữ liệu) mà người soạn thảo quên bật viền hoặc đặt viền ẩn. Nếu bảng không chứa các từ khóa trong danh sách cứng `NORMATIVE_KEYWORDS`, bảng kỹ thuật này có nguy cơ bị unwrap nhầm thành văn bản thường, làm mất dữ liệu 2D tra cứu.
+  3. **Thiếu Khả Năng Thích Ứng Ngữ Cảnh Toàn Cục:** Một bảng dàn trang ở phần tiêu ngữ đầu văn bản hay phần chữ ký cuối văn bản có hành vi hoàn toàn khác với một bảng số liệu nằm giữa chương mục kỹ thuật.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Động Cơ Đánh Giá Điểm Đa Nhân Tố (Multi-Factor Scoring Engine):**
+     - Thay thế hoàn toàn điều kiện cứng `rows <= 3` bằng ma trận đánh giá 4 nhân tố: Mật độ dữ liệu số (`Numeric Density`), Vị trí biên tài liệu (`Document Boundary Topology`), Mỏ neo tiêu đề (`Caption Precedence Anchor`) và Khung công thức (`Formula Frame Guard`).
+  2. **Nguyên Lý Bảo Toàn Dữ Liệu Tuyệt Đối (Zero-Loss Conservative Invariant):**
+     - Quét toàn bộ các ô bảng để tính tỷ lệ ô chứa số thực, số nguyên, tỷ lệ phần trăm, công thức toán học hoặc đơn vị kỹ thuật (`%`, `m`, `kN`, `MPa`, `kg/m3`, `°C`...).
+     - Nếu mật độ dữ liệu số $\ge 30\%$, hệ thống khẳng định $100\%$ là **Bảng Dữ Liệu Kỹ Thuật**, cấm tuyệt đối hành vi unwrap (Zero-Loss).
+  3. **Phân Vùng Biên Tài Liệu (Document Boundary Topology):**
+     - Bảng không viền nằm ở $12\%$ đầu tài liệu (khu vực Tiêu ngữ / Quốc hiệu / Cơ quan ban hành) hoặc $12\%$ cuối tài liệu (khu vực Nơi nhận / Ký tên / Đóng dấu) được nới lỏng trần kiểm tra lên `rows <= 8`, unwrap triệt để khối chữ ký hành chính nhiều cấp.
+  4. **Xử Lý Vùng Ranh Giới Tranh Chấp (Ambiguous Boundary):**
+     - Đối với các bảng không viền, không có tiêu đề rõ ràng và $0\%$ số liệu: Nếu không chứa từ khóa hành chính đặc thù trong `LAYOUT_KEYWORDS`, hệ thống ưu tiên bảo tồn nguyên trạng cấu trúc bảng và phát cảnh báo Telemetry thay vì phá hủy cấu trúc thô bạo.
+
+---
+
+## 48. TVPL Multi-Session Takeover & TCVN Client-Side Tab Routing (ADR 0031 Extension)
+
+- **Cơ Chế Chiếm Lại Phiên Pro Tự Động (Automated Session Eviction):**
+  - Khi TVPL phát hiện tài khoản đăng nhập đồng thời trên thiết bị khác, hộp thoại cảnh báo đa phiên `#logintfrom_w` sẽ mở ra. Agent kích hoạt lệnh `CheckFullLogin()` hoặc gửi POST `action=Login` tới `/page/ajaxcontroler.aspx` rồi click phần tử nút `.ui-dialog-buttonpane button` có nội dung `'Đồng ý'`.
+  - Thao tác này ngay lập tức vô hiệu hóa phiên từ xa (evict conflicting remote session) và khôi phục đặc quyền VIP Pro (`vuvanchu119[Pro]`) cho phiên làm việc tự động mà không cần can thiệp thủ công.
+- **Định Tuyến Tab Tiêu Chuẩn TCVN (Client-Side Tab Navigation vs URL Query `?tab=7`):**
+  - Khác với văn bản quy phạm pháp luật VBPL (sử dụng query string `?tab=7` để tải tài liệu), các trang tiêu chuẩn TCVN sử dụng cơ chế chuyển tab client-side bằng JavaScript. Việc gượng ép nạp URL có tham số `?tab=7` trên trang TCVN sẽ gây vòng lặp chuyển hướng (redirect loop) ngược về trang chủ hoặc văn bản gốc.
+  - Agent bắt buộc thực thi click phần tử `#aTabTaiVe` để kích hoạt giao diện `#tab8`, sau đó bóc tách trực tiếp 2 liên kết tải về:
+    - File DOCX: `/documents/download.aspx?id=...&part=-1&docx=1`
+    - File PDF: `/documents/download.aspx?id=...&part=0&docx=`
+
+---
+
+## 49. Safe Landing Download Pattern & Zero 0-Byte Artifact Invariant (Gate 11 Protection)
+
+- **Quy Tắc Bất Biến:** Nghiêm cấm cấu hình Chrome CDP `setDownloadBehavior` trỏ thẳng vào thư mục `sources/` của bundle văn bản.
+- **Mô Hình Tải An Toàn Vùng Đệm (Safe Landing Download Pattern):**
+  1. **Thiết lập thư mục tải tạm ngoài workspace:** Chỉ định `downloadPath` tới thư mục đệm của hệ thống (ví dụ: `Path.home() / "Downloads"`).
+  2. **Vòng lặp xác thực tính toàn vẹn (Integrity Polling Loop):** Chỉ chấp nhận tệp tải về thành công khi kích thước tệp `stat().st_size > 0` và tệp không còn phần mở rộng tạm thời `.crdownload`.
+  3. **Di chuyển nguyên tử (Atomic Move & Rename):** Sau khi tệp đã ghi xong hoàn chỉnh vào đĩa, sử dụng `shutil.move()` để chuyển và đổi tên tệp vào đúng đường dẫn đích: `sources/<doc_slug>.<ext>`.
+  4. **Bảo vệ Gate 11 Verbatim Parity:** Ngăn chặn triệt để tình trạng các tệp rác 0-byte (chưa kịp hoàn tất hoặc mang tên tải về mặc định như `TCVN3981_1985_901893.docx`) lọt vào thư mục `sources/`, khiến bộ phân tích `python-docx` của Gate 11 đọc nhầm và báo lỗi `Package not found`.
+
+---
+
+## 50. Deterministic Ground Truth Parity Engine v2.0, Greedy Multi-Span Coverage, Anti-Vacuous Table Regularity & Form Template Discrimination
+
+- **Bản Chất Vấn Đề (Adversarial Audit & Empirical Findings):**
+  1. **Ảo Tưởng Cửa Sổ 6 Từ (Sliding Window Flaw):** Thuật toán `any 6 words match` tạo ra False Pass khổng lồ vì một đoạn văn 100 từ chỉ cần chứa cụm từ luật sáo rỗng 6 từ ("theo quy định của pháp luật") là được tính là trùng khớp dù thiếu 94 từ. Ngược lại, thuật toán 1-span liên tục 70% gây False Fail khi câu văn bị ngắt bởi công thức toán inline.
+  2. **Word COM / `python-docx` VML Math Omission:** Thuộc tính `p.text` của Word bỏ qua hoàn toàn các đối tượng toán học OLE/VML `<w:pict>`, để lại khoảng trắng trong văn bản (ví dụ: `khi  ≥ 0,6`). Bộ chuyển đổi OKF v2.4 đã giải mã chuẩn KaTeX `$\bar{\lambda}$ ≥ 0,6`, khiến việc đối soát chuỗi thô bị đứt đoạn.
+  3. **Ảo Tưởng Đạt Chuẩn Bảng Rỗng (Vacuous Pass):** Một bundle không trích xuất bảng nào vẫn đạt điểm 100% nếu chỉ kiểm tra tính hợp lệ của danh sách tệp rỗng.
+  4. **Nhầm Lẫn Dấu Chấm Lửng Hành Chính:** Mọi biểu mẫu hành chính chuẩn luật đều chứa các nét chấm lửng để điền thông tin (`Kính gửi: ......`). Quét chấm lửng trên toàn file gây đánh trượt oan cấu trúc biểu mẫu.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Thuật Toán Greedy Multi-Span Coverage Invariant:**
+     - So khớp chuỗi bằng các đoạn liên tục không chồng lấn dài nhất với `min_span >= 4` từ, yêu cầu tổng độ phủ từ vựng $\ge 70\%$ đối với các đoạn $\ge 5$ từ.
+     - Đối với các đoạn ngắn (< 5 từ), yêu cầu so khớp nguyên văn 100% cụm từ.
+     - Loại bỏ sạch sẽ các thẻ macro KaTeX (`\bar`, `\overline`, `\vec`...) và thực thể HTML (`&nbsp;`) trong bước chuẩn hóa trước khi so khớp.
+  2. **Rào Chắn Bảng Ảo (Anti-Vacuous Pass Invariant):**
+     - Quét tài liệu nguồn DOCX/PDF: Nếu nguồn có bảng dữ liệu quan hệ (> 2 hàng, > 1 cột), thư mục `tables/csv/` bắt buộc không được rỗng và phải là ma trận 2D chữ nhật hoàn chỉnh (Zero Ragged Rows), bóc tách 100% footnote.
+  3. **Phân Tách Dấu Chấm Lửng Biểu Mẫu (Form Placeholder Discrimination):**
+     - Cho phép nguyên bản các nét chấm lửng điền thông tin trong thân biểu mẫu. Chỉ xử phạt khi dòng frontmatter `title:` hoặc tiêu đề Markdown `# ` / `## ` bị lỗi placeholder hoặc có bảng bị vỡ phẳng.
+  4. **Chuẩn Hóa Unicode NFC Bắt Buộc:**
+     - Toàn bộ dữ liệu trích xuất từ TVPL phải qua `unicodedata.normalize("NFC", text)` trước khi bóc tách và đối soát.
+
+---
+
+## 51. Preamble Filtering, Signature Block Layout Heuristics, In-Table Footnote Decoupling & 55-Bundle Nightly Telemetry
+
+- **Bản Chất Vấn Đề (Empirical Failures & Adversarial Findings):**
+  1. **Sự Lệch Pha Căn Cứ Ban Hành Hành Chính (Administrative Preamble Mismatch):**
+     - Theo thiết kế OKF v2.1/v2.4 (ADR 0021), thân quy phạm thuần (`.md`) của Nghị định/Thông tư cố tình lược bỏ phần căn cứ ban hành ("Căn cứ Luật...", "Theo đề nghị của...", "Cộng hòa Xã hội Chủ nghĩa..."). Khi đối soát toàn văn với file DOCX gốc bằng `compute_docx_to_markdown_parity`, các đoạn căn cứ này bị tính là "missing paragraphs" ngoài ý muốn, làm giảm oan Parity Score của các văn bản ngắn.
+  2. **Bẫy Nhận Diện Bảng Chữ Ký Hành Chính (Signature Block False Positive):**
+     - Khối chữ ký ("Nơi nhận:", "KT. BỘ TRƯỞNG") thường nằm trong bảng 1 hàng 2 cột không viền. Từ khóa `"đơn vị"` trong "các đơn vị trực thuộc..." đã kích hoạt nhầm bộ lọc `NORMATIVE_KEYWORDS`, khiến bảng layout bị trích xuất nhầm thành bảng dữ liệu CSV.
+  3. **Vỡ Ma Trận Do Chú Thích Kẹp Giữa Ô Bảng (In-Table Footnote Disruption):**
+     - Một số bảng quy phạm (như Bảng 2 Thông tư 34) chèn các đoạn `Chú thích:`, `Ghi chú:` vào giữa các nhóm hàng. Việc đưa nguyên các dòng này vào CSV tạo ra các ô lệch cột hoặc phá vỡ cấu trúc quan hệ 2D (Ragged Rows).
+  4. **Cân Bằng Giữa Tốc Độ Lấy Mẫu & Quét Toàn Diện (Golden Cohorts vs All 55 Bundles):**
+     - Nhóm Golden Cohorts (11 văn bản) chạy trong ~6s nhưng không phát hiện được lỗi ở 44 văn bản còn lại. Khi kiểm chuẩn cần quét toàn bộ kho tri thức mà vẫn phải đảm bảo Zero-Token Invariant và thời gian thực thi dưới 30 giây.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Bộ Lọc Căn Cứ Hành Chính Hai Chiều (Preamble Filtering Invariant):**
+     - Trích xuất tiền xử lý: Bỏ qua các đoạn mở đầu hành chính không quy phạm (`Căn cứ ...`, `Theo đề nghị của ...`, `CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM`) khỏi mẫu số tính Verbatim Parity trong cả Gate 11 (`validate_legal_spoke.py`) và công cụ đối soát độc lập (`verify_ground_truth_parity.py`).
+     - Lớp `ParityResult` kế thừa `tuple` để duy trì khả năng tương thích ngược phân rã `(parity_rate, missing) = ...` đồng thời cung cấp thuộc tính `effective_paras`.
+  2. **Bộ Nhận Diện Bảng Layout Hành Chính Sắc Nét (Administrative Signature Heuristics):**
+     - Siết chặt từ khóa: Thay thế từ khóa chung chung `"đơn vị"` bằng `"đơn vị tính"`.
+     - Bổ sung quy tắc định tuyến: Nếu bảng chứa đồng thời `"nơi nhận:"` và các dấu hiệu chữ ký (`"lưu: vt"`, `"kt."`, `"bộ trưởng"`, `"thứ trưởng"`, `"chủ tịch"`), hệ thống cưỡng chế phân loại là bảng layout hành chính, tuyệt đối không xuất ra `tables/csv/`.
+  3. **Động Cơ Bóc Tách Chú Thích Kẹp Giữa Bảng (In-Table Footnote Decoupling Engine - ADR 0041):**
+     - Trong quá trình phân tích hàng bảng, nếu phát hiện dòng bắt đầu bằng `Ghi chú:`, `Chú thích:`, tự động trích xuất nội dung này vào mảng `footnotes` của metadata bảng (`tables_catalog.json`) và loại khỏi lưới tọa độ dữ liệu, đảm bảo ma trận CSV đạt 100% Zero Ragged Rows.
+  4. **Hệ Thống Đo Lường Ban Đêm Hai Tầng (Dual-Mode Nightly Telemetry Integration):**
+     - Kịch bản `run_nightly_telemetry.py` và cron script `run_nightly_tuner.sh` trên Server Spark (:8090) được nâng cấp hỗ trợ `--cohorts all`, quét toàn bộ 55 văn bản trong ~22 giây, tự động ghi nhận 5 diagnostic tickets còn lại và commit báo cáo định kỳ lúc 00:00 AM.
+
+---
+
+## 52. Multi-Device Spoke Governance & Remote Mutating Guardrail (Session 2026-09-20)
+
+- **Bản Chất Vấn Đề (Empirical Failures & Adversarial Findings):**
+  1. **Ngộ Nhận Định Danh Spoke Khi Làm Việc Trên Nhiều Thiết Bị:**
+     - Khi một kỹ sư clone Spoke về máy mới (ví dụ: máy trạm Linux song song với PC Windows), xuất hiện thắc mắc về việc "đăng ký lại với Hub" hoặc lo ngại xung đột cấu hình.
+     - Nếu chạy các lệnh như `/ccba-init-spoke` hay `/ccba-spoke-adopter` trên repo đã clone, hệ thống sẽ tái tạo lại template và ghi đè file cấu hình SSoT, gây xung đột Git nghiêm trọng.
+  2. **Rò Rỉ Trạng Thái Máy Cục Bộ (Machine-State Leakage):**
+     - SSoT `workspace_context.yaml` hardcode đường dẫn tuyệt đối Windows `hub_path: D:\...`. Khi sang Linux POSIX, `Path("D:\\...").is_absolute()` trả về `False`, khiến các script phân giải package của Hub thất bại âm thầm nếu sửa trực tiếp vào YAML.
+  3. **Lỗi Trùng Lặp Tài Nguyên Remote Khi Huỷ Async Task (Remote Mutating Race Condition):**
+     - Khi chạy lệnh tạo tài nguyên remote (`gh issue create`), do shell đưa vào background task và phản hồi chậm, Agent đã huỷ task và chạy lại lệnh đơn, dẫn đến việc cả 2 lệnh đều gửi thành công lên GitHub và sinh ra Issue #299 và #300 trùng nhau.
+
+- **Giải Pháp Khái Quát Hóa Toàn Hệ Thống (System-Wide Generalization):**
+  1. **Quy Tắc Quản Trị Đa Thiết Bị (Single-User Multi-Machine Invariant):**
+     - **Bản chất danh tính Spoke:** Định danh Spoke gắn với Git Repository (`vvChu/ccba-legal-knowledge`), không gắn với máy client. Clone repo về máy mới không cần và cấm chạy lệnh đăng ký/khởi tạo lại.
+     - **Tách biệt cấu hình máy (Machine-State Decoupling):** Tuyệt đối không commit đường dẫn ổ đĩa tuyệt đối hay username máy vào Git. Cấu hình máy phải nằm trong `.env` (được `.gitignore`) hoặc biến môi trường `export CCBA_HUB_PATH=/path/to/hub` trong `~/.bashrc`.
+     - **Vệ sinh Git:** Luôn `git pull --rebase origin main` trước khi làm việc, tách feature branch riêng cho từng văn bản.
+  2. **Rào Chắn Chống Trùng Lặp Khi Thao Tác Remote (Remote Mutation Idempotency & State Inspection Gate):**
+     - Đối với mọi lệnh có side-effect trên remote (`gh issue create`, `gh pr create`, `git push`, Cloud Sync): nếu tiến trình bị gián đoạn, timeout hoặc huỷ giữa chừng, Agent **BẮT BUỘC phải kiểm tra trạng thái remote trước (`gh issue list`, `git status`)** trước khi quyết định chạy lại.
+     - Tích hợp đề xuất nâng cấp kiến trúc tổng thể lên Hub qua Epic Issue [#299](https://github.com/vvChu/ccba-agent-platform/issues/299) và lưu vết tại `.agents/proposals/2026-09-20_cross-platform-and-multi-client-governance.md`.
+
+---
+
+## 53. Rào Chắn Hiệu Lực Pháp Lý Tuyệt Đối & Thay Thế NĐ 10/2021 (Legal Validity Invariant)
+
+- **Nguyên Tắc Cốt Lõi (RULE-3.1):**
+  - MỌI văn bản pháp luật viện dẫn trong Spoke và các tác vụ tư vấn / thẩm tra của Agent BẮT BUỘC ĐANG CÓ HIỆU LỰC (CURRENT / IN-FORCE).
+  - VĂN BẢN HIỆN HÀNH:
+    - **Luật Xây dựng 2025** (Luật số `135/2025/QH15`, có hiệu lực từ 01/07/2026).
+    - **Nghị định 217/2026/NĐ-CP** (Quản lý Hoạt động Xây dựng — thay thế NĐ 175/2024 & NĐ 15/2021).
+    - **Nghị định 207/2026/NĐ-CP** (Quản lý Chất lượng & Bảo trì — thay thế NĐ 06/2021).
+    - **Nghị định 206/2026/NĐ-CP** (Quản lý Chi phí Đầu tư Xây dựng — thay thế NĐ 10/2021/NĐ-CP từ 01/07/2026).
+- **Văn Bản Đã Hết Hiệu Lực (Hard Floor Invariant):**
+  - TUYỆT ĐỐI CẤM dùng NĐ 175/2024/NĐ-CP, NĐ 15/2021/NĐ-CP, NĐ 06/2021/NĐ-CP, và **NĐ 10/2021/NĐ-CP** làm căn cứ pháp lý hiện tại.
+  - Trong `legal_registry.yaml` và `metadata.yaml`, các văn bản này bắt buộc gắn `status: expired` và khai báo `relations.replaced_by` trỏ chính xác về văn bản thay thế.
+  - Mọi tác vụ tra cứu tri thức (RAG, AST query) tự động bỏ qua văn bản `expired` trừ khi người dùng chủ đích truy vấn lịch sử hoặc điều khoản chuyển tiếp.
