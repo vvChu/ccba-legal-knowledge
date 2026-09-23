@@ -1,33 +1,37 @@
-# Walkthrough: Phát Hành Tính Năng PR #12 (Modular Dual-Dispatch Converter, Multipart Tables & QCVN 07 Parity)
+# Walkthrough: Phát Hành Tính Năng PR #13 (Tri-Tier Cloud Vault Hydration, Parity Hardening & Catalog Sync — ADR 0035, ADR 0059)
 
-> **Mục tiêu:** Tái cấu trúc pipeline chuyển đổi DOCX sang OKF v2.4 Universal Agent-Centric, phân rã `strategy.py` thành Dual-Dispatch Orchestrator tinh gọn (<200 dòng), trích xuất `preprocessor.py` và `exporter.py`, giải quyết triệt để lỗi ghi đè bảng đa phần theo ADR 0044 tại `qcvn_07_2023_bxd` (bóc tách đầy đủ 25 bảng phân phần), phân tách footnote bảng biểu theo ADR 0041, và bảo toàn 100% Zero-Regression trên toàn bộ 60 bundles.
+> **Mục tiêu:** Hoàn thiện kiến trúc Tri-Tier Cloud Binary Vault theo ADR 0035 / ADR 0059: Đẩy toàn bộ 142 tệp vật lý nhị phân (PDF/DOCX) lên Google Drive Cloud Vault (`CCBA_Legal_Vault`), trục xuất 100% tệp nhị phân khỏi Git tracking và thiết lập Pre-commit Binary Guardrail, tăng cường động cơ Hydration tự động hóa với cơ chế Tự Lành (Self-Healing) qua mã băm SHA-256, đồng bộ hóa 13 văn bản quy phạm với tài sản nguồn `source_assets.docx` trên cả metadata và registry, bảo lưu DOCX Thông tư 38/2026/TT-BXD chờ bóc tách 2,838 bảng định mức để bảo toàn Gate 11, thanh lọc sạch sẽ 61 tệp `desktop.ini` và các bản nháp duplicate trên Vault.
 > **Trạng thái:** ✅ **MERGED VÀO MAIN**
-> - **PR #12:** [vvChu/ccba-legal-knowledge#12](https://github.com/vvChu/ccba-legal-knowledge/pull/12) (Squash Commit: `f5532f3`)
-> **CI Gate:** 100% Green (Deterministic Parity & Schema Audit PASSED in 22s, 0 Errors, 0 Blocker Comments)
+> - **PR #13:** [vvChu/ccba-legal-knowledge#13](https://github.com/vvChu/ccba-legal-knowledge/pull/13) (Squash Commit: `4f15baa`)
+> **CI Gate:** 100% Green (Deterministic Parity & Schema Audit PASSED in 19s, 0 Errors, 0 Blocker Comments)
 
 ---
 
-## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (PR #12)
+## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (PR #13)
 
-### A. Tái cấu trúc Kiến trúc Hub Converter (`packages/ccba-legal-intel`)
-- **`strategy.py`**: Rút gọn từ 622 dòng (>26KB) xuống **184 dòng** (<8KB), đóng vai trò **Dual-Dispatch Orchestrator** thuần túy điều phối giữa các handlers và functional helpers.
-- **`preprocessor.py` [NEW]**: Bóc tách toàn bộ logic duyệt DOM blocks order-preserving, bộ phát hiện ranh giới mở đầu/quy phạm (`find_standard_header_start_index`, `find_normative_start_index`), và bộ chuyển đổi số La Mã sang mã phần (`parse_part_number`).
-- **`exporter.py` [NEW]**: Xây dựng module Functional Helpers thuần túy (`export_standard_bundle`, `build_frontmatter_yaml`), bảo đảm nguyên tắc KISS (User Rule 5) và không phát sinh class thừa thãi.
-- **`formula_handler.py`**: Dọn sạch 38 dòng dead code, tiếp nhận an toàn logic trích xuất công thức OLE `r:id` từ paragraph rỗng qua `handle_empty_paragraph_formula`.
-- **`heading_handler.py`**: Bổ sung bộ nhận diện tiêu đề `PHẦN X` / La Mã (`PHẦN I`..`XX`) và tiêm `current_part` (`p01`..`p20`) vào context xử lý.
+### A. Tri-Tier Cloud Binary Vault & Tự Động Hóa Hydration (ADR 0035 / ADR 0059)
+- **Đẩy kho nhị phân lên Cloud Vault**: Toàn bộ 142 tệp nguồn vật lý từ local `sources/` đã được đồng bộ an toàn lên Google Drive `CCBA_Legal_Vault` (`macvnboy@gmail.com`).
+- **Động cơ Hydration Đa Nền Tảng (`scripts/hydrate_sources_from_vault.py`)**:
+  - Hỗ trợ đầy đủ các cờ CLI: `--push`, `--dry-run`, `--verify-only`, `--all`.
+  - Dò tìm động mount letter qua `CCBA_VAULT_MOUNT_PATH` và danh sách ổ đĩa (`G:`, `H:`, `I:`), khử hoàn toàn hardcode đường dẫn máy trạm.
+  - Quét bulk in-memory danh mục Cloud Vault qua `rclone lsf -R --files-only` để tra cứu $O(1)$ thay vì gọi rclone riêng lẻ.
+  - Tích hợp cơ chế **Tự Lành (Self-Healing)**: Tự động đối soát SHA-256 sau khi tải về, loại bỏ file biến dạng và hỗ trợ tải đè để khôi phục trạng thái chuẩn.
 
-### B. Khử Trùng Lặp Bảng Đa Phần (ADR 0044) & Bóc Tách Footnote (ADR 0041)
-- **`table_handler.py`**:
-  - Hỗ trợ tiền tố phân phần cho mã bảng: sinh tên tệp chuẩn tắc `bang_pXX_YY.csv/json` khi tài liệu có chia phần.
-  - Tiêm trường `part_id` vào `tables_catalog.json` theo đúng quy chuẩn ADR 0044.
-  - Bóc tách dòng chú thích `CHÚ THÍCH` và `<sup>X)</sup>` ra khỏi lưới dữ liệu CSV `raw_grid`, lưu trữ có cấu trúc vào mảng `footnotes` của file JSON metadata.
-  - **Sửa lỗi va chạm dữ liệu số (Numeric Collision)**: Bổ sung guardrail `not is_numeric` ngăn thuật toán gộp subheader nuốt chửng hàng số liệu có giá trị trùng nhau (`['50', '50']`).
-  - **Khử lặp footnote trên ô merge ngang (`gridSpan`)**: Khắc phục hiện tượng python-docx nhân bản chuỗi cell text trong các cột merge.
+### B. Git Index Hygiene & Rào Chắn Pre-Commit Binary Shield
+- **Trục xuất 4 tệp nhị phân khỏi Git index**: Sử dụng `git rm --cached` cho `qcvn_04_2021_bxd.pdf`, `qcvn_06_2022_bxd.pdf`, `sd1_2023_qcvn_06_2022_bxd.pdf`, `tcvn_5574_2018.doc`. Kết quả `git ls-files` đạt 0 bytes nhị phân được theo dõi trong Git index.
+- **Bảo vệ quy tắc `.gitignore`**: Bổ sung `legal_docs/**/sources/*.doc` và `legal_docs/**/*.doc`.
+- **Pre-commit Binary Guard**: Bổ sung `check_staged_binary_files()` (`git diff --cached --name-only --diff-filter=ACMR`) vào `scripts/check_spoke_cleanliness.py`, cập nhật hook `.git/hooks/pre-commit` chặn lập tức mọi file `.pdf`, `.docx`, `.doc` bị stage nhầm.
 
-### C. Nâng Cấp Kho Tri Thức Spoke (`ccba-legal-knowledge`)
-- **Re-convert QCVN 07:2023/BXD**: Thay thế 12 bảng cũ (trong đó 5 bảng bị đè mất nội dung) bằng **25 bảng phân phần độc lập** (`bang_p02_01.csv` $\dots$ `bang_p09_02.csv`), `Duplicate table_ids: {}`. Khôi phục đầy đủ số liệu 50/50 tại Bảng 4 Phần 7.
-- **Traceability Matrix**: Tự động đồng bộ [docs/adr/TRACEABILITY_MATRIX.md](file:///d:/GitHubProjects/ccba-legal-knowledge/docs/adr/TRACEABILITY_MATRIX.md) với 44 ADRs và các kỹ năng vừa tiến hóa.
-- **Golden Snapshot**: Cập nhật [`.md/cache/golden_snapshots.json`](file:///d:/GitHubProjects/ccba-legal-knowledge/.md/cache/golden_snapshots.json), xác thực 60/60 bundles khớp 100%.
+### C. Đồng Bộ Metadata & Catalog Registry (13 Văn Bản Quy Phạm)
+- Khai báo trường `source_assets.docx` kèm mã băm SHA-256 xác thực từ tệp vật lý cho 13 văn bản (TT 32, 33, 34, 36, 37, 39, 40, 41, TT 101/BQP, NĐ 193, NĐ 209, QCVN 02:2022, Luật PCCC & CNCH 2024) trên cả `metadata.yaml` và `legal_registry.yaml`.
+- **Bảo lưu Thông tư 38/2026/TT-BXD**: Giữ tệp DOCX (4.37 MB) tại `.md/extracted_docs/38_2026_TT-BXD_712406.docx` chờ Ticket A3_Batch bóc tách 2,838 bảng định mức, tránh làm rớt Gate 11 Verbatim Parity (2.4% vs 98.0%).
+- **Chuẩn hóa Thông tư 73/2026/TT-BTC**: Đổi tên `vault_path` thành `thong_tu_73_2026_tt_btc.docx` đồng bộ cả metadata và registry.
+- **Gỡ bỏ khai báo ảo QCVN 04:2021/BXD**: Loại bỏ mục `docx:` không có thực.
+- **Cấu hình NĐ 10 và NĐ 339**: Thiết lập `status: pending_acquisition` bảo toàn schema.
+
+### D. Thanh Lọc Cloud Vault & Dọn Dẹp Cục Bộ
+- **Trên Cloud Vault**: Xóa sạch 61 tệp `desktop.ini`, 5 tệp duplicate/nháp (`702686.pdf`, `702686.docx`, `luat_22_2023_qh15.pdf`, `luat_135_2025_qh15.pdf`, `test_vector.pdf`), purge thư mục mồ côi `02_qcvn/01_2021_tt_bxd/` và bảo tồn nguyên vẹn thư mục hợp lệ `01_vbpl/10_2021_nd_cp/`.
+- **Trên đĩa cục bộ**: Dọn sạch các tệp trùng trong `sources/` và xóa 2 thư mục crawler rỗng trong `qcvn_09_2017_bxd/sources/`.
 
 ---
 
@@ -35,24 +39,36 @@
 
 | Cổng Kiểm Định | Môi Trường | Lệnh Kiểm Tra | Kết Quả | Trạng Thái |
 | :--- | :--- | :--- | :---: | :---: |
-| **Hub Unit Tests** | Hub Package | `pytest packages/ccba-legal-intel/tests/test_technical_standard_strategy.py` | 4/4 passed (13.2s) | ✅ **PASSED** |
-| **Hub Code Quality** | Hub Package | `ruff check` + `mypy --strict` (15 files) | 0 errors | ✅ **PASSED** |
-| **Golden Snapshot** | Spoke | `python scripts/test_converter_regression.py --verify` | **60/60 Match (100%)** | ✅ **PASSED** |
-| **Master CI Gates** | Spoke | `python scripts/validate_legal_spoke.py --skip-pdf-vault` | **15/15 Gates Passed** | ✅ **PASSED** |
-| **Hermetic Teardown** | Spoke | `check_release_cleanliness.py --phase post` | Working tree clean | ✅ **PASSED** |
-| **GitHub Actions CI** | Remote PR #12 | `Deterministic Parity & Schema Audit` | Passed (22s) | ✅ **PASSED** |
-| **Copilot Review Audit**| Remote PR #12 | `python scripts/validation/audit_pr_comments.py --pr 12` | 0 blockers, clean | ✅ **PASSED** |
+| **Git Binary Tracking** | Local Spoke | `git ls-files "legal_docs/**/*.pdf" "legal_docs/**/*.docx" "legal_docs/**/*.doc"` | **0 files (0 bytes)** | ✅ **PASSED** |
+| **Cleanliness & Guardrail**| Local Spoke | `python scripts/check_spoke_cleanliness.py` | **0 errors, 0 warnings** | ✅ **PASSED** |
+| **Vault Integrity Check** | Local + Cloud | `python scripts/hydrate_sources_from_vault.py --verify-only` | **138/138 verified (0 missing, 0 mismatches)** | ✅ **PASSED** |
+| **Self-Healing Hydration** | Local Spoke | `python scripts/hydrate_sources_from_vault.py --all` | **3/3 hydrated & verified** | ✅ **PASSED** |
+| **Master CI Gates** | Local Spoke | `python scripts/validate_legal_spoke.py` | **15/15 Gates Passed (0 Errors, 0 Warnings)** | ✅ **PASSED** |
+| **GitHub Actions CI** | Remote PR #13 | `Deterministic Parity & Schema Audit` | **Passed (19s)** | ✅ **PASSED** |
+| **Copilot Review Audit**| Remote PR #13 | `gh pr view 13 --json reviewRequests,reviews` | **0 blocker comments, clean** | ✅ **PASSED** |
 
 ---
 
 ## 3. Lịch Sử Phát Hành Tiền Nhiệm
 
 <details>
+<summary>Nhấn để xem chi tiết PR #12 (Phát hành ngày 2026-09-23)</summary>
+
+### PR #12: Modular Dual-Dispatch Converter, Multipart Tables & QCVN 07 Parity
+- **`strategy.py`**: Rút gọn từ 622 dòng xuống **184 dòng**, đóng vai trò **Dual-Dispatch Orchestrator** thuần túy.
+- **`preprocessor.py` & `exporter.py`**: Bóc tách duyệt DOM blocks, ranh giới tiêu đề/quy phạm và xuất bundle markdown.
+- **Khử trùng lặp bảng đa phần (ADR 0044) & Bóc tách footnote (ADR 0041)**: Tiền tố phân phần `bang_pXX_YY.csv/json`, trường `part_id` và bóc tách footnote khỏi ma trận CSV.
+- **Re-convert QCVN 07:2023/BXD**: 25 bảng phân phần độc lập, khôi phục đầy đủ số liệu 50/50.
+- **Golden Snapshot**: 60/60 bundles khớp 100%.
+
+</details>
+
+<details>
 <summary>Nhấn để xem chi tiết PR #10 & PR #11 (Phát hành ngày 2026-09-22)</summary>
 
 ### PR #10: Ingestion NĐ 339, NĐ 10, Sub-Gate 5.3 DAG & 24 VBPL Multi-line Spans
-- **Nghị định 339/2026/NĐ-CP**: Nạp toàn diện vào `legal_docs/01_vbpl/nghi_dinh_339_2026_nd_cp/` với 135 điều khoản AST multi-line (`line_start < line_end`), bộ câu hỏi chuẩn hóa QA benchmark, mỏ neo nguồn (.docx, .pdf) và thiết lập quan hệ `relations: { replaces: '16/2022/NĐ-CP' }`.
-- **Nghị định 10/2021/NĐ-CP**: Đóng gói bundle lịch sử và đánh dấu trạng thái `expired`, thiết lập quan hệ `relations: { replaced_by: '206/2026/NĐ-CP' }`.
+- **Nghị định 339/2026/NĐ-CP**: Nạp toàn diện vào `legal_docs/01_vbpl/nghi_dinh_339_2026_nd_cp/` với 135 điều khoản AST multi-line.
+- **Nghị định 10/2021/NĐ-CP**: Đóng gói bundle lịch sử và đánh dấu trạng thái `expired`.
 - **Sub-Gate 5.3 Transitive DAG BFS Engine**: Nâng cấp `scripts/validate_legal_spoke.py` với bộ giải đồ thị có hướng hai tầng.
 - **Batch Span Migration 24 VBPL Bundles**: Chuyển dịch toàn bộ 24 bundles VBPL di sản từ single-line span sang multi-line AST spans chuẩn xác.
 
