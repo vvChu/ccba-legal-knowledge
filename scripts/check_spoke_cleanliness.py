@@ -32,6 +32,7 @@ ALLOWLIST_SCRIPTS = {
     "spoke_bootstrap.ps1",
     "setup_pre_commit.py",
     "sync.py",
+    "hydrate_sources_from_vault.py",
 }
 
 # Prefix patterns indicating one-off or temporary scripts

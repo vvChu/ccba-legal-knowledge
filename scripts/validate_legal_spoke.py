@@ -816,6 +816,7 @@ class LegalSpokeValidator:
             "sync_adr_matrix.py", "validate_adr_parity.py", "setup_pre_commit.py",
             "modernize_annex_engine.py", "verify_formula_visual_matrix.py",
             "sync_expansion_roadmap.py", "safe_runner.py",
+            "hydrate_sources_from_vault.py",
         }
 
         py_files = list(scripts_dir.glob("*.py"))
