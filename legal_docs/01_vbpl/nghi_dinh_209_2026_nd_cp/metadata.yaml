@@ -29,6 +29,10 @@ source_assets:
     vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_209_2026_nd_cp/nghi_dinh_209_2026_nd_cp_raw_scan.pdf
     status: verified
     acquisition_method: official_gazette_scan
+  docx:
+    sha256: cf2185c2bb12a463cb89bab82ed89316c6bb4d05f97a61e214e973f0a16f7ba2
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_209_2026_nd_cp/nghi_dinh_209_2026_nd_cp.docx
+    status: verified
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-209-2026-ND-CP-quan-ly-vat-lieu-xay-dung-288496.aspx
 relations:
   guided_by: Luat-Xay-dung-2025-135-2025-QH15

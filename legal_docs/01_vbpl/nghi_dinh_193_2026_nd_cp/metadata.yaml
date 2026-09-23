@@ -52,6 +52,10 @@ source_assets:
     vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_193_2026_nd_cp/nghi_dinh_193_2026_nd_cp_raw_scan.pdf
     status: verified
     acquisition_method: official_gazette_scan
+  docx:
+    sha256: cee7740353d88125e2072827758fa9dfe45f831c8370dc94d3eb6ca45458c0f2
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_193_2026_nd_cp/nghi_dinh_193_2026_nd_cp.docx
+    status: verified
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-193-2026-ND-CP-quyet-toan-von-dau-tu-du-an-709388.aspx
 relations:
   guided_by: Luat-Xay-dung-2025-135-2025-QH15

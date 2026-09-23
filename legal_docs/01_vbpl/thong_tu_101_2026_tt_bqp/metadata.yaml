@@ -37,6 +37,10 @@ source_assets:
     sha256: 8512ccb3393c2d1f833a7de251ac46a9847a0d0da154a33004210651def327d7
     vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_101_2026_tt_bqp/thong_tu_101_2026_tt_bqp.pdf
     status: verified
+  docx:
+    sha256: f174b547c868d88a1d4d41abb14f3d29123f2ed8a92caefa8e11c15e6931e884
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_101_2026_tt_bqp/thong_tu_101_2026_tt_bqp.docx
+    status: verified
 source_url: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Thong-tu-101-2026-TT-BQP-quy-dinh-chi-tiet-linh-vuc-quoc-phong-713990.aspx
 relations:
   guided_by: Luat-Xay-dung-2025-135-2025-QH15

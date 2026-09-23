@@ -28,6 +28,10 @@ source_assets:
     sha256: beb581cec6b66d74a774c69b8d4d744710f641a9d59a25a82cfce1487e04bd3f
     vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_37_2026_tt_bxd/thong_tu_37_2026_tt_bxd.pdf
     status: verified
+  docx:
+    sha256: e89f23bf792854d1cc0535d3c7f1b3328c60eafc57c0834b09928473a1cc5e36
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_37_2026_tt_bxd/thong_tu_37_2026_tt_bxd.docx
+    status: verified
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-37-2026-TT-BXD-phuong-phap-xac-dinh-dinh-muc-du-toan-712395.aspx
 relations:
   guided_by: nghi_dinh_206_2026_nd_cp

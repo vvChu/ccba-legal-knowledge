@@ -25,6 +25,10 @@ source_assets:
     sha256: 0375f3b798e01dfde379710648c8024edc71b5718ec5ee4f0e405764620c7a7d
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2022_bxd/qcvn_02_2022_bxd.pdf
     status: verified
+  docx:
+    sha256: f4aba3c7ee8f9f04f5515fdd27e2930d9ef7ca71dd88f75fa2538ba883fd927f
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2022_bxd/qcvn_02_2022_bxd.docx
+    status: verified
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-02-2022-TT-BXD-QCVN-02-2022-BXD-So-lieu-dieu-kien-tu-nhien-dung-trong-xay-dung-530884.aspx
 okf_spec: v2.4 Universal
 converter_version: 0.4.0

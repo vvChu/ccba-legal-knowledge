@@ -35,6 +35,10 @@ laws:
       sha256: 706a8bfbb2328ca11e2e54bd44849b22854256a2d68240cdf8fa320909c6f90b
       vault_path: CCBA_Legal_Vault/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/luat_55_2024_qh15.pdf
       status: verified
+    docx:
+      sha256: 6c306d82325a341fdd4b736809a9b7e4b2cbb4af8df918c57b82478475e6685f
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1/luat_phong_chay_chua_chay_va_cuu_nan_cuu_ho_2024_55_2024_qh1.docx
+      status: verified
 - id: Luat-Xay-dung-2025-135-2025-QH15
   document_number: 135/2025/QH15
   type: Luật
@@ -301,6 +305,10 @@ laws:
       sha256: df417e2903348560a7641b9f4308be938ae0a173c57a7630ce7687687cf71769
       vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_209_2026_nd_cp/nghi_dinh_209_2026_nd_cp.pdf
       status: verified
+    docx:
+      sha256: cf2185c2bb12a463cb89bab82ed89316c6bb4d05f97a61e214e973f0a16f7ba2
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_209_2026_nd_cp/nghi_dinh_209_2026_nd_cp.docx
+      status: verified
   pdf_origin: docx_vector_rendered
   raw_scan_pdf: legal_docs\01_vbpl\nghi_dinh_209_2026_nd_cp\sources\nghi_dinh_209_2026_nd_cp_raw_scan.pdf
 - id: nghi_dinh_193_2026_nd_cp
@@ -326,6 +334,10 @@ laws:
     pdf:
       sha256: a0a064fc9401ed4cc860100b171adad3258219086b3563abd37b3a8806630a4e
       vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_193_2026_nd_cp/nghi_dinh_193_2026_nd_cp.pdf
+      status: verified
+    docx:
+      sha256: cee7740353d88125e2072827758fa9dfe45f831c8370dc94d3eb6ca45458c0f2
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_193_2026_nd_cp/nghi_dinh_193_2026_nd_cp.docx
       status: verified
   pdf_origin: docx_vector_rendered
   raw_scan_pdf: legal_docs\01_vbpl\nghi_dinh_193_2026_nd_cp\sources\nghi_dinh_193_2026_nd_cp_raw_scan.pdf
@@ -416,6 +428,10 @@ laws:
       sha256: 8512ccb3393c2d1f833a7de251ac46a9847a0d0da154a33004210651def327d7
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_101_2026_tt_bqp/thong_tu_101_2026_tt_bqp.pdf
       status: verified
+    docx:
+      sha256: f174b547c868d88a1d4d41abb14f3d29123f2ed8a92caefa8e11c15e6931e884
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_101_2026_tt_bqp/thong_tu_101_2026_tt_bqp.docx
+      status: verified
 - id: thong_tu_32_2026_tt_bxd
   document_number: 32/2026/TT-BXD
   title: Thông tư 32/2026/TT-BXD quy định chi tiết một số điều của Nghị định 207/2026/NĐ-CP
@@ -440,6 +456,10 @@ laws:
     pdf:
       sha256: ea27c3c8030538e7c0c025b8fd29884f938c3b2cb95ab8182b5a58b420ab2790
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_32_2026_tt_bxd/thong_tu_32_2026_tt_bxd.pdf
+      status: verified
+    docx:
+      sha256: abde74431a6960442c414673a19ea8e6b451c99c883dd68b5601590ab2c4ea32
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_32_2026_tt_bxd/thong_tu_32_2026_tt_bxd.docx
       status: verified
 - id: thong_tu_33_2026_tt_bxd
   document_number: 33/2026/TT-BXD
@@ -466,6 +486,10 @@ laws:
       sha256: 73b9b92da82b5a2ca53f7c0b53936fdd35eec0fd40b24a44d00179fe1ff62399
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_33_2026_tt_bxd/thong_tu_33_2026_tt_bxd.pdf
       status: verified
+    docx:
+      sha256: 9367ee8a8ae0df89b1e2c91f0ff84e7fb312dfe18d154a342046c039b22de185
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_33_2026_tt_bxd/thong_tu_33_2026_tt_bxd.docx
+      status: verified
 - id: thong_tu_34_2026_tt_bxd
   document_number: 34/2026/TT-BXD
   title: Thông tư 34/2026/TT-BXD quy định chi tiết về cấp công trình xây dựng phục
@@ -490,6 +514,10 @@ laws:
     pdf:
       sha256: b65419b559da67420d9b6b0681ddfa695c29ad8b3ae270ed70b2a545f6a17aae
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_34_2026_tt_bxd/thong_tu_34_2026_tt_bxd.pdf
+      status: verified
+    docx:
+      sha256: e32ebf134ce9485fe3b03be826549edf5690365e55c8f020eaf3974bb661b9e4
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_34_2026_tt_bxd/thong_tu_34_2026_tt_bxd.docx
       status: verified
 - id: thong_tu_36_2026_tt_bxd
   document_number: 36/2026/TT-BXD
@@ -516,6 +544,10 @@ laws:
       sha256: 6ef24aa5112ab267fbad9c66f5b17fbc7c8b7c9015ae370f71864d327febd20c
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_36_2026_tt_bxd/thong_tu_36_2026_tt_bxd.pdf
       status: verified
+    docx:
+      sha256: 89df583067507576e3a192adcad16b2262374a1de9ce0f5eb99fbd3331419e7d
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_36_2026_tt_bxd/thong_tu_36_2026_tt_bxd.docx
+      status: verified
 - id: thong_tu_37_2026_tt_bxd
   document_number: 37/2026/TT-BXD
   title: Thông tư 37/2026/TT-BXD hướng dẫn phương pháp xác định định mức dự toán và
@@ -540,6 +572,10 @@ laws:
     pdf:
       sha256: beb581cec6b66d74a774c69b8d4d744710f641a9d59a25a82cfce1487e04bd3f
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_37_2026_tt_bxd/thong_tu_37_2026_tt_bxd.pdf
+      status: verified
+    docx:
+      sha256: e89f23bf792854d1cc0535d3c7f1b3328c60eafc57c0834b09928473a1cc5e36
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_37_2026_tt_bxd/thong_tu_37_2026_tt_bxd.docx
       status: verified
 - id: thong_tu_38_2026_tt_bxd
   document_number: 38/2026/TT-BXD
@@ -595,6 +631,10 @@ laws:
       sha256: fcbd63740d9d284018c986e44ffea60ec9836120e0cad0d595e54b78dd660396
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_39_2026_tt_bxd/thong_tu_39_2026_tt_bxd.pdf
       status: verified
+    docx:
+      sha256: 975834ef42aa0c7f72720d3b1b178e8628079e0b6da89c293e9c04b375f6893e
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_39_2026_tt_bxd/thong_tu_39_2026_tt_bxd.docx
+      status: verified
 - id: thong_tu_40_2026_tt_bxd
   document_number: 40/2026/TT-BXD
   title: Thông tư 40/2026/TT-BXD hướng dẫn xác định chi phí bảo trì công trình xây
@@ -620,6 +660,10 @@ laws:
       sha256: 5f0cceab8d62dae9d46bb333eeb3ea227129e029d1bbf971304714ee62702fcf
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_40_2026_tt_bxd/thong_tu_40_2026_tt_bxd.pdf
       status: verified
+    docx:
+      sha256: 1cd42693c2c0f805b14e3b0cda9be6b9fcf78a2f8c66e854b863d0265613dee4
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_40_2026_tt_bxd/thong_tu_40_2026_tt_bxd.docx
+      status: verified
 - id: thong_tu_41_2026_tt_bxd
   document_number: 41/2026/TT-BXD
   title: Thông tư 41/2026/TT-BXD về quản lý chất lượng sản phẩm, hàng hóa vật liệu
@@ -644,6 +688,10 @@ laws:
     pdf:
       sha256: 5fd3c24a5062d11526ba966c6a7e8933f389bb5df7cb26a26cbac34a6a85ff30
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_41_2026_tt_bxd/thong_tu_41_2026_tt_bxd.pdf
+      status: verified
+    docx:
+      sha256: dc6bc2ebcaf83d15e153e3b567a6d24bc0f7e5f0359cf2f388dd1b120a79788f
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_41_2026_tt_bxd/thong_tu_41_2026_tt_bxd.docx
       status: verified
 - id: thong_tu_73_2026_tt_btc
   document_number: 73/2026/TT-BTC
@@ -672,7 +720,7 @@ laws:
       status: verified
     docx:
       sha256: 5f39e1b1c5da80c374b896d42d5035d269dfd344c66f521878061274cb8bf435
-      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_73_2026_tt_btc/73_2026_TT-BTC_712590.docx
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_73_2026_tt_btc/thong_tu_73_2026_tt_btc.docx
       status: verified
     raw_scan:
       sha256: 98585a04eb1174e040409944cdafdb1ce2114d072055b866d24cb5f39ae3a5dd
@@ -773,6 +821,10 @@ laws:
       sha256: 0375f3b798e01dfde379710648c8024edc71b5718ec5ee4f0e405764620c7a7d
       vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2022_bxd/qcvn_02_2022_bxd.pdf
       status: verified
+    docx:
+      sha256: f4aba3c7ee8f9f04f5515fdd27e2930d9ef7ca71dd88f75fa2538ba883fd927f
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2022_bxd/qcvn_02_2022_bxd.docx
+      status: verified
 - id: QCVN-03-2022-BXD
   document_number: QCVN 03:2022/BXD
   title: QCVN 03:2022/BXD — Quy chuẩn kỹ thuật quốc gia về Phân cấp công trình phục
@@ -841,10 +893,6 @@ laws:
     pdf:
       sha256: c34d11842766492d9acd48ef27c738ab9b4a0431cf12228e93fe7b2537752524
       vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd.pdf
-      status: verified
-    docx:
-      sha256: 7a59f3596250ee821784af3aee0a3e23bdaf0585e214e1d6fc7e29d998513390
-      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd.docx
       status: verified
     raw_scan:
       sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
@@ -1276,11 +1324,7 @@ laws:
     pdf:
       sha256: 4bfc31972c1bf9222365fa5b6e30769cf4e8bab77b2ed9c664b1306fbb7b9ff9
       vault_path: CCBA_Legal_Vault/01_vbpl/10_2021_nd_cp/10_2021_nd_cp.pdf
-      status: verified
-    docx:
-      sha256: fe681f6743cbfa149780f84bdb9afe8f2c5a2ea1f54d7cbc061715fc63cc88ad
-      vault_path: CCBA_Legal_Vault/01_vbpl/10_2021_nd_cp/10_2021_nd_cp.docx
-      status: verified
+      status: pending_acquisition
 - id: nghi_dinh_339_2026_nd_cp
   document_number: 339/2026/NĐ-CP
   type: Nghị định
@@ -1307,11 +1351,7 @@ laws:
     pdf:
       sha256: 24842822059419ff9dc97b08bb35a0a118e89cd72201f4719e07a526011feb0b
       vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_339_2026_nd_cp/nghi_dinh_339_2026_nd_cp.pdf
-      status: verified
-    docx:
-      sha256: bd8568ccd6f9037977a65bc836b924b0486525a2229777aaf5a12b8925f6d75e
-      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_339_2026_nd_cp/nghi_dinh_339_2026_nd_cp.docx
-      status: verified
+      status: pending_acquisition
   doc_id: nghi_dinh_339_2026_nd_cp
   category: 01_vbpl
   doc_type: vbpl

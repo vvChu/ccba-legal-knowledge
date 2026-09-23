@@ -46,6 +46,10 @@ source_assets:
     sha256: 5fd3c24a5062d11526ba966c6a7e8933f389bb5df7cb26a26cbac34a6a85ff30
     vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_41_2026_tt_bxd/thong_tu_41_2026_tt_bxd.pdf
     status: verified
+  docx:
+    sha256: dc6bc2ebcaf83d15e153e3b567a6d24bc0f7e5f0359cf2f388dd1b120a79788f
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_41_2026_tt_bxd/thong_tu_41_2026_tt_bxd.docx
+    status: verified
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-41-2026-TT-BXD-quan-ly-chat-luong-san-pham-hang-hoa-697288.aspx
 relations:
   guided_by: nghi_dinh_209_2026_nd_cp

@@ -27,10 +27,6 @@ source_assets:
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd.pdf
     status: verified
     origin: docx_vector_rendered
-  docx:
-    sha256: 7a59f3596250ee821784af3aee0a3e23bdaf0585e214e1d6fc7e29d998513390
-    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd.docx
-    status: verified
   raw_scan:
     sha256: 4827e5ff550a4e12c5e43e062ea723b3764b084f7e1d38f58fa38ff2bdab0311
     vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_04_2021_bxd/qcvn_04_2021_bxd_raw_scan.pdf
