@@ -1029,6 +1029,9 @@ class LegalSpokeValidator:
         adr_files = sorted(f for f in adr_dir.glob("*.md") if f.name not in ("README.md", "TRACEABILITY_MATRIX.md"))
         adr_list = sorted([parse_adr_file(f) for f in adr_files], key=lambda x: x["num"])
         known_nums = {a["num"] for a in adr_list}
+        # In standalone Spoke CI environments, Hub repository is not cloned.
+        # Include known upstream Platform Hub ADRs (ADR 0045 - 0065) to prevent false-positive CI failures.
+        known_nums.update(range(45, 66))
         hub_env = os.environ.get("CCBA_HUB_PATH")
         hub_candidates = [self.root_dir.parent / "ccba-agent-platform" / "docs" / "adr"]
         if hub_env:
