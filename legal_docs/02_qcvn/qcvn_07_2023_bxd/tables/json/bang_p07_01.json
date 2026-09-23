@@ -1,0 +1,109 @@
+{
+  "table_id": "bang_p07_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Yêu cầu chiếu sáng các loại đường cho xe cơ giới",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Cấp đường",
+    "Đặc điểm",
+    "Độ chói trung bình ($L_{tb}$), cd/$m^{2}$",
+    "Độ đồng đều độ chói chung, ($U_{o}$)",
+    "Độ đồng đều độ chói dọc ($U_{d}$)",
+    "Độ tăng ngưỡng tối đa (TI), %",
+    "Tỷ số độ rọi hè đường (SR)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp đường": "A. Đường cao tốc đô thị",
+      "Đặc điểm": "Tốc độ cao, lưu lượng lớn, không có phương tiện thô sơ",
+      "Độ chói trung bình ($L_{tb}$), cd/$m^{2}$": "2,0",
+      "Độ đồng đều độ chói chung, ($U_{o}$)": "0,4",
+      "Độ đồng đều độ chói dọc ($U_{d}$)": "0,7",
+      "Độ tăng ngưỡng tối đa (TI), %": "10",
+      "Tỷ số độ rọi hè đường (SR)": "0,5"
+    },
+    {
+      "_row_id": 2,
+      "Cấp đường": "B. Đường trục chính, đường chính, đường liên khu vực đô thị",
+      "Đặc điểm": "Có dải phân cách",
+      "Độ chói trung bình ($L_{tb}$), cd/$m^{2}$": "1,5",
+      "Độ đồng đều độ chói chung, ($U_{o}$)": "0,4",
+      "Độ đồng đều độ chói dọc ($U_{d}$)": "0,7",
+      "Độ tăng ngưỡng tối đa (TI), %": "10",
+      "Tỷ số độ rọi hè đường (SR)": "0,5"
+    },
+    {
+      "_row_id": 3,
+      "Cấp đường": "B. Đường trục chính, đường chính, đường liên khu vực đô thị",
+      "Đặc điểm": "Không dải phân cách",
+      "Độ chói trung bình ($L_{tb}$), cd/$m^{2}$": "2,0",
+      "Độ đồng đều độ chói chung, ($U_{o}$)": "0,4",
+      "Độ đồng đều độ chói dọc ($U_{d}$)": "0,7",
+      "Độ tăng ngưỡng tối đa (TI), %": "10",
+      "Tỷ số độ rọi hè đường (SR)": "0,5"
+    },
+    {
+      "_row_id": 4,
+      "Cấp đường": "C. Đường cấp khu vực có hoạt động buôn bán",
+      "Đặc điểm": "Có dải phân cách",
+      "Độ chói trung bình ($L_{tb}$), cd/$m^{2}$": "1,0",
+      "Độ đồng đều độ chói chung, ($U_{o}$)": "0,4",
+      "Độ đồng đều độ chói dọc ($U_{d}$)": "0,6",
+      "Độ tăng ngưỡng tối đa (TI), %": "15",
+      "Tỷ số độ rọi hè đường (SR)": "0,5"
+    },
+    {
+      "_row_id": 5,
+      "Cấp đường": "C. Đường cấp khu vực có hoạt động buôn bán",
+      "Đặc điểm": "Không dải phân cách",
+      "Độ chói trung bình ($L_{tb}$), cd/$m^{2}$": "1,5",
+      "Độ đồng đều độ chói chung, ($U_{o}$)": "0,4",
+      "Độ đồng đều độ chói dọc ($U_{d}$)": "0,6",
+      "Độ tăng ngưỡng tối đa (TI), %": "15",
+      "Tỷ số độ rọi hè đường (SR)": "0,5"
+    },
+    {
+      "_row_id": 6,
+      "Cấp đường": "D. Đường cấp khu vực",
+      "Đặc điểm": "Môi trường ánh sáng hai bên hè đường:",
+      "Độ chói trung bình ($L_{tb}$), cd/$m^{2}$": "",
+      "Độ đồng đều độ chói chung, ($U_{o}$)": "",
+      "Độ đồng đều độ chói dọc ($U_{d}$)": "",
+      "Độ tăng ngưỡng tối đa (TI), %": "",
+      "Tỷ số độ rọi hè đường (SR)": ""
+    },
+    {
+      "_row_id": 7,
+      "Cấp đường": "D. Đường cấp khu vực",
+      "Đặc điểm": "&nbsp;&nbsp;\\- sáng",
+      "Độ chói trung bình ($L_{tb}$), cd/$m^{2}$": "0,7",
+      "Độ đồng đều độ chói chung, ($U_{o}$)": "0,3",
+      "Độ đồng đều độ chói dọc ($U_{d}$)": "0,4",
+      "Độ tăng ngưỡng tối đa (TI), %": "20",
+      "Tỷ số độ rọi hè đường (SR)": "0,5"
+    },
+    {
+      "_row_id": 8,
+      "Cấp đường": "D. Đường cấp khu vực",
+      "Đặc điểm": "&nbsp;&nbsp;\\- tối",
+      "Độ chói trung bình ($L_{tb}$), cd/$m^{2}$": "0,5",
+      "Độ đồng đều độ chói chung, ($U_{o}$)": "0,3",
+      "Độ đồng đều độ chói dọc ($U_{d}$)": "0,4",
+      "Độ tăng ngưỡng tối đa (TI), %": "20",
+      "Tỷ số độ rọi hè đường (SR)": "0,5"
+    },
+    {
+      "_row_id": 9,
+      "Cấp đường": "E. Đường cấp nội bộ",
+      "Đặc điểm": "",
+      "Độ chói trung bình ($L_{tb}$), cd/$m^{2}$": "0,3",
+      "Độ đồng đều độ chói chung, ($U_{o}$)": "0,3",
+      "Độ đồng đều độ chói dọc ($U_{d}$)": "0,4",
+      "Độ tăng ngưỡng tối đa (TI), %": "20",
+      "Tỷ số độ rọi hè đường (SR)": "0,5"
+    }
+  ],
+  "footnotes": [],
+  "part_id": "p07"
+}

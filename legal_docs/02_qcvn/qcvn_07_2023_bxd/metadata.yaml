@@ -37,6 +37,6 @@ relations:
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
-extracted_at: '2026-09-14T14:58:38.496246+00:00'
+extracted_at: '2026-09-23T12:40:52.440025+00:00'
 pdf_origin: docx_vector_rendered
 raw_scan_pdf: sources/qcvn_07_2023_bxd_raw_scan.pdf

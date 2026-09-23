@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_p04_09",
+  "table_number": "9",
+  "table_title": "Bảng 9 - Nồng độ khí độc tối đa cho phép",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên chất khí",
+    "Nồng độ"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên chất khí": "1. Oxýt Các bon (CO)",
+      "Nồng độ": "0,020"
+    },
+    {
+      "_row_id": 2,
+      "Tên chất khí": "2. Oxýt Ni tơ ($N_{2}O_{5}$)",
+      "Nồng độ": "0,005"
+    },
+    {
+      "_row_id": 3,
+      "Tên chất khí": "3. Oxýt Lưu huỳnh ($SO_{2}$)",
+      "Nồng độ": "0,020"
+    },
+    {
+      "_row_id": 4,
+      "Tên chất khí": "4. Sunfua Hydro ($H_{2}$ S)",
+      "Nồng độ": "0,010"
+    },
+    {
+      "_row_id": 5,
+      "Tên chất khí": "5. Mê tan ($CH_{4}$)",
+      "Nồng độ": "0,002"
+    },
+    {
+      "_row_id": 6,
+      "Tên chất khí": "6. Cacbonic ($CO_{2}$)",
+      "Nồng độ": "5,000"
+    }
+  ],
+  "footnotes": [],
+  "part_id": "p04"
+}

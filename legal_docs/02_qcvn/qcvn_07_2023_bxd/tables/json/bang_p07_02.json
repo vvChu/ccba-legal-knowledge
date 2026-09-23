@@ -1,0 +1,61 @@
+{
+  "table_id": "bang_p07_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Phân loại cấp chiếu sáng đường hầm",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Cấp chiếu sáng",
+    "Lưu lượng giao thông — Cao — Giao thông hỗn hợp",
+    "Lưu lượng giao thông — Cao — Giao thông riêng cơ giới",
+    "Lưu lượng giao thông — Trung bình — Giao thông hỗn hợp",
+    "Lưu lượng giao thông — Trung bình — Giao thông riêng cơ giới",
+    "Lưu lượng giao thông — Thấp — Giao thông hỗn hợp",
+    "Lưu lượng giao thông — Thấp — Giao thông riêng cơ giới"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp chiếu sáng": "1",
+      "Lưu lượng giao thông — Cao — Giao thông hỗn hợp": "",
+      "Lưu lượng giao thông — Cao — Giao thông riêng cơ giới": "",
+      "Lưu lượng giao thông — Trung bình — Giao thông hỗn hợp": "",
+      "Lưu lượng giao thông — Trung bình — Giao thông riêng cơ giới": "",
+      "Lưu lượng giao thông — Thấp — Giao thông hỗn hợp": "",
+      "Lưu lượng giao thông — Thấp — Giao thông riêng cơ giới": "x"
+    },
+    {
+      "_row_id": 2,
+      "Cấp chiếu sáng": "2",
+      "Lưu lượng giao thông — Cao — Giao thông hỗn hợp": "",
+      "Lưu lượng giao thông — Cao — Giao thông riêng cơ giới": "",
+      "Lưu lượng giao thông — Trung bình — Giao thông hỗn hợp": "",
+      "Lưu lượng giao thông — Trung bình — Giao thông riêng cơ giới": "x",
+      "Lưu lượng giao thông — Thấp — Giao thông hỗn hợp": "x",
+      "Lưu lượng giao thông — Thấp — Giao thông riêng cơ giới": ""
+    },
+    {
+      "_row_id": 3,
+      "Cấp chiếu sáng": "3",
+      "Lưu lượng giao thông — Cao — Giao thông hỗn hợp": "",
+      "Lưu lượng giao thông — Cao — Giao thông riêng cơ giới": "x",
+      "Lưu lượng giao thông — Trung bình — Giao thông hỗn hợp": "x",
+      "Lưu lượng giao thông — Trung bình — Giao thông riêng cơ giới": "",
+      "Lưu lượng giao thông — Thấp — Giao thông hỗn hợp": "",
+      "Lưu lượng giao thông — Thấp — Giao thông riêng cơ giới": ""
+    },
+    {
+      "_row_id": 4,
+      "Cấp chiếu sáng": "4",
+      "Lưu lượng giao thông — Cao — Giao thông hỗn hợp": "x",
+      "Lưu lượng giao thông — Cao — Giao thông riêng cơ giới": "",
+      "Lưu lượng giao thông — Trung bình — Giao thông hỗn hợp": "",
+      "Lưu lượng giao thông — Trung bình — Giao thông riêng cơ giới": "",
+      "Lưu lượng giao thông — Thấp — Giao thông hỗn hợp": "",
+      "Lưu lượng giao thông — Thấp — Giao thông riêng cơ giới": ""
+    }
+  ],
+  "footnotes": {
+    "(x)": "**CHÚ THÍCH:** Dấu (x) thể hiện cấp chiếu sáng tương ứng với đặc điểm và lưu lượng giao thông."
+  },
+  "part_id": "p07"
+}

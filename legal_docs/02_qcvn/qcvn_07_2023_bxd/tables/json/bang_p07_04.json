@@ -1,5 +1,5 @@
 {
-  "table_id": "bang_04",
+  "table_id": "bang_p07_04",
   "table_number": "4",
   "table_title": "Bảng 4 - Khoảng cách dừng (SD) theo các tốc độ thiết kế khác nhau",
   "archetype": "FOOTNOTE_RICH",
@@ -41,7 +41,7 @@
   ],
   "footnotes": {
     "fn_1": "CHÚ THÍCH 2: Trường hợp tốc độ thiết kế dưới 50 km/h, lấy SD = 50 m.",
-    "fn_2": "CHÚ THÍCH 2: Trường hợp tốc độ thiết kế dưới 50 km/h, lấy SD = 50 m.",
-    "fn_3": "**CHÚ THÍCH:** Tốc độ thiết kế là tốc độ khi đường hầm sử dụng bình thường. Trong trường hợp bất thường, ví dụ khi ùn tắc giao thông, tốc độ thiết kế không áp dụng."
-  }
+    "fn_2": "**CHÚ THÍCH:** Tốc độ thiết kế là tốc độ khi đường hầm sử dụng bình thường. Trong trường hợp bất thường, ví dụ khi ùn tắc giao thông, tốc độ thiết kế không áp dụng."
+  },
+  "part_id": "p07"
 }

@@ -1,5 +1,5 @@
 {
-  "table_id": "bang_09",
+  "table_id": "bang_p07_09",
   "table_number": "9",
   "table_title": "Bảng 9 - Yêu cầu độ rọi đường hầm dành cho người đi bộ và xe đạp",
   "archetype": "FLAT_MATRIX",
@@ -22,5 +22,6 @@
       "Ban đêm — $E_{bt}$, lx": "10"
     }
   ],
-  "footnotes": []
+  "footnotes": [],
+  "part_id": "p07"
 }

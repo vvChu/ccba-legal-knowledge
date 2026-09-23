@@ -1,5 +1,5 @@
 {
-  "table_id": "bang_05",
+  "table_id": "bang_p07_05",
   "table_number": "5",
   "table_title": "Bảng 5 - Giá trị k theo cấp chiếu sáng đường hầm và tốc độ giới hạn của dòng xe",
   "archetype": "FOOTNOTE_RICH",
@@ -41,5 +41,6 @@
   ],
   "footnotes": {
     "fn_1": "**CHÚ THÍCH:** Trường hợp tốc độ giới hạn dưới 50 km/h lấy giá trị k như tốc độ (50 ÷ 70) km/h"
-  }
+  },
+  "part_id": "p07"
 }

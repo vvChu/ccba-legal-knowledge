@@ -1,5 +1,5 @@
 {
-  "table_id": "bang_02",
+  "table_id": "bang_p09_02",
   "table_number": "2",
   "table_title": "Bảng 2 - Phân loại quy mô cơ sở đốt chất thải rắn sinh hoạt, chất thải rắn thông thường",
   "archetype": "FLAT_MATRIX",
@@ -34,5 +34,6 @@
       "Số lượng lò hoạt động thường xuyên": "≥ 1"
     }
   ],
-  "footnotes": []
+  "footnotes": [],
+  "part_id": "p09"
 }
