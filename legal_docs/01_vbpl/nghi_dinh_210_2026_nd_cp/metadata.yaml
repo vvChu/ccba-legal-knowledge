@@ -20,9 +20,15 @@ bundle_path: legal_docs/01_vbpl/nghi_dinh_210_2026_nd_cp/
 cong_bao_number: Đang cập nhật
 source_assets:
   pdf:
-    sha256: b60801b38a87cd6dfe0a3f680999aa1f7ca3d48306f86825c9e2765ff993d598
+    sha256: 5668eef549d08dcb1955c209581bfda0092029d4657bef95e51b85959485b3d9
     vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_210_2026_nd_cp/nghi_dinh_210_2026_nd_cp.pdf
     status: verified
+    origin: docx_vector_rendered
+  raw_scan:
+    sha256: b60801b38a87cd6dfe0a3f680999aa1f7ca3d48306f86825c9e2765ff993d598
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_210_2026_nd_cp/nghi_dinh_210_2026_nd_cp_raw_scan.pdf
+    status: verified
+    acquisition_method: official_gazette_scan
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-210-2026-ND-CP-hop-dong-xay-dung-696691.aspx
 relations:
   guided_by: Luat-Xay-dung-2025-135-2025-QH15
