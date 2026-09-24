@@ -74,3 +74,6 @@ legal_docs/**/*.doc
 .md/data/*.json
 .tmp/
 .out-of-scope/
+
+# Ephemeral Git Worktrees
+.worktrees/
