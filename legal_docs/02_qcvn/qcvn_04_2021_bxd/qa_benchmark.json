@@ -1,1003 +1,1009 @@
 [
   {
-    "question": "Quy định tại | 1 | `muc-1-1-3` | `INSERT_AFTER` | Bổ sung bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD) | 🔴 Critical Defect | #### 1.1.3  Các quy định liên quan đến ch... | của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại | 1 | `muc-1-1-3` | `INSERT_AFTER` | Bổ sung bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD) | 🔴 Critical Defect | #### 1.1.3  Các quy định liên quan đến ch... | (bang_so_sanh_thay_doi.md#muc-1-1-3).",
-    "anchor": "muc-1-1-3",
-    "source_file": "bang_so_sanh_thay_doi.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 1 (1 QUY ĐỊNH CHUNG) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1",
+    "ground_truth_id": "muc-1",
+    "expected_keywords": [
+      "ĐỊNH",
+      "CHUNG"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.1 (1.1 Phạm vi điều chỉnh) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.1",
+    "ground_truth_id": "muc-1-1",
+    "expected_keywords": [
+      "Phạm",
+      "điều",
+      "chỉnh"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.1.1 (1.1.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.1.1",
+    "ground_truth_id": "muc-1-1-1",
+    "expected_keywords": []
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.1.2 (1.1.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.1.2",
+    "ground_truth_id": "muc-1-1-2",
+    "expected_keywords": []
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.1.3 (1.1.3) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.1.3",
+    "ground_truth_id": "muc-1-1-3",
+    "expected_keywords": []
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.2 (1.2 Đối tượng áp dụng) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.2",
+    "ground_truth_id": "muc-1-2",
+    "expected_keywords": [
+      "tượng",
+      "dụng"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.3 (1.3 Tài liệu viện dẫn) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.3",
+    "ground_truth_id": "muc-1-3",
+    "expected_keywords": [
+      "liệu",
+      "viện"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4 (1.4 Giải thích từ ngữ) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4",
+    "ground_truth_id": "muc-1-4",
+    "expected_keywords": [
+      "Giải",
+      "thích"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.1 (1.4.1 Nhà chung cư) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.1",
+    "ground_truth_id": "muc-1-4-1",
+    "expected_keywords": [
+      "chung"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.2 (1.4.2 Cụm nhà chung cư) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.2",
+    "ground_truth_id": "muc-1-4-2",
+    "expected_keywords": [
+      "chung"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.3 (1.4.3 Nhà chung cư hỗn hợp) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.3",
+    "ground_truth_id": "muc-1-4-3",
+    "expected_keywords": [
+      "chung"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.4 (1.4.4 Phần căn hộ trong nhà chung cư hỗn hợp) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.4",
+    "ground_truth_id": "muc-1-4-4",
+    "expected_keywords": [
+      "Phần",
+      "trong",
+      "chung"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.5 (1.4.5 Căn hộ) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.5",
+    "ground_truth_id": "muc-1-4-5",
+    "expected_keywords": []
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.6 (1.4.6 Căn hộ chung cư) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.6",
+    "ground_truth_id": "muc-1-4-6",
+    "expected_keywords": [
+      "chung"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.7 (1.4.7 Phần chức năng khác) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.7",
+    "ground_truth_id": "muc-1-4-7",
+    "expected_keywords": [
+      "Phần",
+      "chức",
+      "năng",
+      "khác"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.8 (1.4.8 Căn hộ lưu trú) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.8",
+    "ground_truth_id": "muc-1-4-8",
+    "expected_keywords": []
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.9 (1.4.9 Văn phòng kết hợp lưu trú) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.9",
+    "ground_truth_id": "muc-1-4-9",
+    "expected_keywords": [
+      "phòng"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.10 (1.4.10 Chiều cao nhà) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.10",
+    "ground_truth_id": "muc-1-4-10",
+    "expected_keywords": [
+      "Chiều"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.11 (1.4.11 Chiều cao thông thủy) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.11",
+    "ground_truth_id": "muc-1-4-11",
+    "expected_keywords": [
+      "Chiều",
+      "thông",
+      "thủy"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.12 (1.4.12 Chiều cao phòng cháy chữa cháy (Chiều cao PCCC)) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.12",
+    "ground_truth_id": "muc-1-4-12",
+    "expected_keywords": [
+      "Chiều",
+      "phòng",
+      "cháy",
+      "chữa"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.13 (1.4.13 Diện tích sử dụng căn hộ) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.13",
+    "ground_truth_id": "muc-1-4-13",
+    "expected_keywords": [
+      "Diện",
+      "tích",
+      "dụng"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.14 (1.4.14 Số tầng nhà) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.14",
+    "ground_truth_id": "muc-1-4-14",
+    "expected_keywords": [
+      "tầng"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.15 (1.4.15 Tầng áp mái) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.15",
+    "ground_truth_id": "muc-1-4-15",
+    "expected_keywords": [
+      "Tầng"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.16 (1.4.16 Tầng trên mặt đất) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.16",
+    "ground_truth_id": "muc-1-4-16",
+    "expected_keywords": [
+      "Tầng",
+      "trên"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.17 (1.4.17 Tầng hầm) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.17",
+    "ground_truth_id": "muc-1-4-17",
+    "expected_keywords": [
+      "Tầng"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.18 (1.4.18 Tầng nửa hầm) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.18",
+    "ground_truth_id": "muc-1-4-18",
+    "expected_keywords": [
+      "Tầng"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.19 (1.4.19 Tầng kỹ thuật) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.19",
+    "ground_truth_id": "muc-1-4-19",
+    "expected_keywords": [
+      "Tầng",
+      "thuật"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.20 (1.4.20 Gian kỹ thuật) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.20",
+    "ground_truth_id": "muc-1-4-20",
+    "expected_keywords": [
+      "Gian",
+      "thuật"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.21 (1.4.21 Phòng ở) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.21",
+    "ground_truth_id": "muc-1-4-21",
+    "expected_keywords": [
+      "Phòng"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.22 (1.4.22 Ban công) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.22",
+    "ground_truth_id": "muc-1-4-22",
+    "expected_keywords": [
+      "công"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.23 (1.4.23 Lô gia) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.23",
+    "ground_truth_id": "muc-1-4-23",
+    "expected_keywords": []
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.24 (1.4.24 Không gian sinh hoạt cộng đồng) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.24",
+    "ground_truth_id": "muc-1-4-24",
+    "expected_keywords": [
+      "Không",
+      "gian",
+      "sinh",
+      "hoạt"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.25 (1.4.25 Sảnh thang máy) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.25",
+    "ground_truth_id": "muc-1-4-25",
+    "expected_keywords": [
+      "Sảnh",
+      "thang"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.26 (1.4.26 Khoang đệm) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.26",
+    "ground_truth_id": "muc-1-4-26",
+    "expected_keywords": [
+      "Khoang"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.27 (1.4.27 Khoang cháy) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.27",
+    "ground_truth_id": "muc-1-4-27",
+    "expected_keywords": [
+      "Khoang",
+      "cháy"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.28 (1.4.28 Tuổi thọ thiết kế) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.28",
+    "ground_truth_id": "muc-1-4-28",
+    "expected_keywords": [
+      "Tuổi",
+      "thiết"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.29 (1.4.29 Tiêu chuẩn lựa chọn áp dụng) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.29",
+    "ground_truth_id": "muc-1-4-29",
+    "expected_keywords": [
+      "Tiêu",
+      "chuẩn",
+      "chọn",
+      "dụng"
+    ]
   },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.30 (1.4.30 Tài liệu chuẩn) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.30",
+    "ground_truth_id": "muc-1-4-30",
+    "expected_keywords": [
+      "liệu",
+      "chuẩn"
+    ]
+  },
   {
-    "question": "Quy định tại | 3 | `muc-1-4-30` | `INSERT_RANGE_AFTER` | Bổ sung bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD) | 🔵 Informative | #### 1.4.31  Nhà chung cư hiện hữu  Nhà... | của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại | 3 | `muc-1-4-30` | `INSERT_RANGE_AFTER` | Bổ sung bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD) | 🔵 Informative | #### 1.4.31  Nhà chung cư hiện hữu  Nhà... | (bang_so_sanh_thay_doi.md#muc-1-4-31).",
-    "anchor": "muc-1-4-31",
-    "source_file": "bang_so_sanh_thay_doi.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 1.4.31 (1.4.31 Nhà chung cư hiện hữu) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.31",
+    "ground_truth_id": "muc-1-4-31",
+    "expected_keywords": [
+      "chung",
+      "hiện"
+    ]
+  },
+  {
+    "question": "Quy định kỹ thuật tại mục 1.4.32 (1.4.32 Khu vực sạc xe điện) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.32",
+    "ground_truth_id": "muc-1-4-32",
+    "expected_keywords": [
+      "điện"
+    ]
   },
   {
-    "question": "Quy định tại | 5 | `muc-2-10` | `INSERT_AFTER` | Bổ sung Mục 2.10 và 2.11 bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD) | 🔴 Critical Defect | ### 2.10  Yêu cầu về chỗ để xe điện  Khu vự... | của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại | 5 | `muc-2-10` | `INSERT_AFTER` | Bổ sung Mục 2.10 và 2.11 bởi Sửa đổi 01:2026 (TT 31/2026/TT-BXD) | 🔴 Critical Defect | ### 2.10  Yêu cầu về chỗ để xe điện  Khu vự... | (bang_so_sanh_thay_doi.md#muc-2-10).",
-    "anchor": "muc-2-10",
-    "source_file": "bang_so_sanh_thay_doi.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 1.4.33 (1.4.33 Chỗ sạc) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.33",
+    "ground_truth_id": "muc-1-4-33",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1 QUY ĐỊNH CHUNG của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1 QUY ĐỊNH CHUNG (qcvn_04_2021_bxd.md#muc-1).",
-    "anchor": "muc-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 1.4.34 (1.4.34 Khu vực đổi pin) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "1.4.34",
+    "ground_truth_id": "muc-1-4-34",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.1 Phạm vi điều chỉnh của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.1 Phạm vi điều chỉnh (qcvn_04_2021_bxd.md#muc-1-1).",
-    "anchor": "muc-1-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2 (2 QUY ĐỊNH KỸ THUẬT) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2",
+    "ground_truth_id": "muc-2",
+    "expected_keywords": [
+      "ĐỊNH",
+      "THUẬT"
+    ]
   },
   {
-    "question": "Quy định tại 1.1.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.1.1 (qcvn_04_2021_bxd.md#muc-1-1-1).",
-    "anchor": "muc-1-1-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.1 (2.1 Yêu cầu chung) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.1",
+    "ground_truth_id": "muc-2-1",
+    "expected_keywords": [
+      "chung"
+    ]
   },
   {
-    "question": "Quy định tại 1.1.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.1.2 (qcvn_04_2021_bxd.md#muc-1-1-2).",
-    "anchor": "muc-1-1-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.1.1 (2.1.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.1.1",
+    "ground_truth_id": "muc-2-1-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.2 Đối tượng áp dụng của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.2 Đối tượng áp dụng (qcvn_04_2021_bxd.md#muc-1-2).",
-    "anchor": "muc-1-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.1.2 (2.1.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.1.2",
+    "ground_truth_id": "muc-2-1-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.3 Tài liệu viện dẫn của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.3 Tài liệu viện dẫn (qcvn_04_2021_bxd.md#muc-1-3).",
-    "anchor": "muc-1-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.1.3 (2.1.3) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.1.3",
+    "ground_truth_id": "muc-2-1-3",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4 Giải thích từ ngữ của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4 Giải thích từ ngữ (qcvn_04_2021_bxd.md#muc-1-4).",
-    "anchor": "muc-1-4",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.1.4 (2.1.4) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.1.4",
+    "ground_truth_id": "muc-2-1-4",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.1 Nhà chung cư của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.1 Nhà chung cư (qcvn_04_2021_bxd.md#muc-1-4-1).",
-    "anchor": "muc-1-4-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.1.5 (2.1.5) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.1.5",
+    "ground_truth_id": "muc-2-1-5",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.2 Cụm nhà chung cư của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.2 Cụm nhà chung cư (qcvn_04_2021_bxd.md#muc-1-4-2).",
-    "anchor": "muc-1-4-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.1.6 (2.1.6) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.1.6",
+    "ground_truth_id": "muc-2-1-6",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.3 Nhà chung cư hỗn hợp của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.3 Nhà chung cư hỗn hợp (qcvn_04_2021_bxd.md#muc-1-4-3).",
-    "anchor": "muc-1-4-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.1.7 (2.1.7) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.1.7",
+    "ground_truth_id": "muc-2-1-7",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.4 Phần căn hộ trong nhà chung cư hỗn hợp của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.4 Phần căn hộ trong nhà chung cư hỗn hợp (qcvn_04_2021_bxd.md#muc-1-4-4).",
-    "anchor": "muc-1-4-4",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.1.8 (2.1.8) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.1.8",
+    "ground_truth_id": "muc-2-1-8",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.5 Căn hộ của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.5 Căn hộ (qcvn_04_2021_bxd.md#muc-1-4-5).",
-    "anchor": "muc-1-4-5",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.1.9 (2.1.9) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.1.9",
+    "ground_truth_id": "muc-2-1-9",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.6 Căn hộ chung cư của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.6 Căn hộ chung cư (qcvn_04_2021_bxd.md#muc-1-4-6).",
-    "anchor": "muc-1-4-6",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2 (2.2 Yêu cầu về quy hoạch - kiến trúc) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2",
+    "ground_truth_id": "muc-2-2",
+    "expected_keywords": [
+      "hoạch",
+      "kiến",
+      "trúc"
+    ]
   },
   {
-    "question": "Quy định tại 1.4.7 Phần chức năng khác của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.7 Phần chức năng khác (qcvn_04_2021_bxd.md#muc-1-4-7).",
-    "anchor": "muc-1-4-7",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.1 (2.2.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.1",
+    "ground_truth_id": "muc-2-2-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.8 Căn hộ lưu trú của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.8 Căn hộ lưu trú (qcvn_04_2021_bxd.md#muc-1-4-8).",
-    "anchor": "muc-1-4-8",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.2 (2.2.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.2",
+    "ground_truth_id": "muc-2-2-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.9 Văn phòng kết hợp lưu trú của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.9 Văn phòng kết hợp lưu trú (qcvn_04_2021_bxd.md#muc-1-4-9).",
-    "anchor": "muc-1-4-9",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.3 (2.2.3) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.3",
+    "ground_truth_id": "muc-2-2-3",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.10 Chiều cao nhà của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.10 Chiều cao nhà (qcvn_04_2021_bxd.md#muc-1-4-10).",
-    "anchor": "muc-1-4-10",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.4 (2.2.4) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.4",
+    "ground_truth_id": "muc-2-2-4",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.11 Chiều cao thông thủy của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.11 Chiều cao thông thủy (qcvn_04_2021_bxd.md#muc-1-4-11).",
-    "anchor": "muc-1-4-11",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.4.1 (2.2.4.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.4.1",
+    "ground_truth_id": "muc-2-2-4-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.12 Chiều cao phòng cháy chữa cháy (Chiều cao PCCC) của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.12 Chiều cao phòng cháy chữa cháy (Chiều cao PCCC) (qcvn_04_2021_bxd.md#muc-1-4-12).",
-    "anchor": "muc-1-4-12",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.4.2 (2.2.4.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.4.2",
+    "ground_truth_id": "muc-2-2-4-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.13 Diện tích sử dụng căn hộ của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.13 Diện tích sử dụng căn hộ (qcvn_04_2021_bxd.md#muc-1-4-13).",
-    "anchor": "muc-1-4-13",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.4.3 (2.2.4.3) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.4.3",
+    "ground_truth_id": "muc-2-2-4-3",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.14 Số tầng nhà của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.14 Số tầng nhà (qcvn_04_2021_bxd.md#muc-1-4-14).",
-    "anchor": "muc-1-4-14",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.4.4 (2.2.4.4) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.4.4",
+    "ground_truth_id": "muc-2-2-4-4",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.15 Tầng áp mái của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.15 Tầng áp mái (qcvn_04_2021_bxd.md#muc-1-4-15).",
-    "anchor": "muc-1-4-15",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.5 (2.2.5) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.5",
+    "ground_truth_id": "muc-2-2-5",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.16 Tầng trên mặt đất của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.16 Tầng trên mặt đất (qcvn_04_2021_bxd.md#muc-1-4-16).",
-    "anchor": "muc-1-4-16",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.5.1 (2.2.5.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.5.1",
+    "ground_truth_id": "muc-2-2-5-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.17 Tầng hầm của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.17 Tầng hầm (qcvn_04_2021_bxd.md#muc-1-4-17).",
-    "anchor": "muc-1-4-17",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.5.2 (2.2.5.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.5.2",
+    "ground_truth_id": "muc-2-2-5-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.18 Tầng nửa hầm của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.18 Tầng nửa hầm (qcvn_04_2021_bxd.md#muc-1-4-18).",
-    "anchor": "muc-1-4-18",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.6 (2.2.6) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.6",
+    "ground_truth_id": "muc-2-2-6",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.19 Tầng kỹ thuật của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.19 Tầng kỹ thuật (qcvn_04_2021_bxd.md#muc-1-4-19).",
-    "anchor": "muc-1-4-19",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.6.1 (2.2.6.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.6.1",
+    "ground_truth_id": "muc-2-2-6-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.20 Gian kỹ thuật của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.20 Gian kỹ thuật (qcvn_04_2021_bxd.md#muc-1-4-20).",
-    "anchor": "muc-1-4-20",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.6.2 (2.2.6.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.6.2",
+    "ground_truth_id": "muc-2-2-6-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.21 Phòng ở của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.21 Phòng ở (qcvn_04_2021_bxd.md#muc-1-4-21).",
-    "anchor": "muc-1-4-21",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.7 (2.2.7) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.7",
+    "ground_truth_id": "muc-2-2-7",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.22 Ban công của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.22 Ban công (qcvn_04_2021_bxd.md#muc-1-4-22).",
-    "anchor": "muc-1-4-22",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.8 (2.2.8) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.8",
+    "ground_truth_id": "muc-2-2-8",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.23 Lô gia của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.23 Lô gia (qcvn_04_2021_bxd.md#muc-1-4-23).",
-    "anchor": "muc-1-4-23",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.9 (2.2.9) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.9",
+    "ground_truth_id": "muc-2-2-9",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.24 Không gian sinh hoạt cộng đồng của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.24 Không gian sinh hoạt cộng đồng (qcvn_04_2021_bxd.md#muc-1-4-24).",
-    "anchor": "muc-1-4-24",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.10 (2.2.10) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.10",
+    "ground_truth_id": "muc-2-2-10",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.25 Sảnh thang máy của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.25 Sảnh thang máy (qcvn_04_2021_bxd.md#muc-1-4-25).",
-    "anchor": "muc-1-4-25",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.11 (2.2.11) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.11",
+    "ground_truth_id": "muc-2-2-11",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.26 Khoang đệm của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.26 Khoang đệm (qcvn_04_2021_bxd.md#muc-1-4-26).",
-    "anchor": "muc-1-4-26",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.12 (2.2.12) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.12",
+    "ground_truth_id": "muc-2-2-12",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.27 Khoang cháy của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.27 Khoang cháy (qcvn_04_2021_bxd.md#muc-1-4-27).",
-    "anchor": "muc-1-4-27",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.13 (2.2.13) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.13",
+    "ground_truth_id": "muc-2-2-13",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.28 Tuổi thọ thiết kế của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.28 Tuổi thọ thiết kế (qcvn_04_2021_bxd.md#muc-1-4-28).",
-    "anchor": "muc-1-4-28",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.14 (2.2.14) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.14",
+    "ground_truth_id": "muc-2-2-14",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.29 Tiêu chuẩn lựa chọn áp dụng của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.29 Tiêu chuẩn lựa chọn áp dụng (qcvn_04_2021_bxd.md#muc-1-4-29).",
-    "anchor": "muc-1-4-29",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.15 (2.2.15) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.15",
+    "ground_truth_id": "muc-2-2-15",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.30 Tài liệu chuẩn của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.30 Tài liệu chuẩn (qcvn_04_2021_bxd.md#muc-1-4-30).",
-    "anchor": "muc-1-4-30",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.16 (2.2.16) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.16",
+    "ground_truth_id": "muc-2-2-16",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.32  Khu vực sạc xe điện của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.32  Khu vực sạc xe điện (qcvn_04_2021_bxd.md#muc-1-4-32).",
-    "anchor": "muc-1-4-32",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.17 (2.2.17) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.17",
+    "ground_truth_id": "muc-2-2-17",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.33  Chỗ sạc của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.33  Chỗ sạc (qcvn_04_2021_bxd.md#muc-1-4-33).",
-    "anchor": "muc-1-4-33",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.17.1 (2.2.17.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.17.1",
+    "ground_truth_id": "muc-2-2-17-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 1.4.34  Khu vực đổi pin của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 1.4.34  Khu vực đổi pin (qcvn_04_2021_bxd.md#muc-1-4-34).",
-    "anchor": "muc-1-4-34",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.17.2 (2.2.17.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.17.2",
+    "ground_truth_id": "muc-2-2-17-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2 QUY ĐỊNH KỸ THUẬT của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2 QUY ĐỊNH KỸ THUẬT (qcvn_04_2021_bxd.md#muc-2).",
-    "anchor": "muc-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.17.3 (2.2.17.3) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.17.3",
+    "ground_truth_id": "muc-2-2-17-3",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.1 Yêu cầu chung của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.1 Yêu cầu chung (qcvn_04_2021_bxd.md#muc-2-1).",
-    "anchor": "muc-2-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.2.18 (2.2.18) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.2.18",
+    "ground_truth_id": "muc-2-2-18",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.1.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.1.1 (qcvn_04_2021_bxd.md#muc-2-1-1).",
-    "anchor": "muc-2-1-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.3 (2.3 Yêu cầu về kết cấu) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.3",
+    "ground_truth_id": "muc-2-3",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.1.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.1.2 (qcvn_04_2021_bxd.md#muc-2-1-2).",
-    "anchor": "muc-2-1-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.3.1 (2.3.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.3.1",
+    "ground_truth_id": "muc-2-3-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.1.3 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.1.3 (qcvn_04_2021_bxd.md#muc-2-1-3).",
-    "anchor": "muc-2-1-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.3.2 (2.3.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.3.2",
+    "ground_truth_id": "muc-2-3-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.1.4 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.1.4 (qcvn_04_2021_bxd.md#muc-2-1-4).",
-    "anchor": "muc-2-1-4",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.3.3 (2.3.3) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.3.3",
+    "ground_truth_id": "muc-2-3-3",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.1.5 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.1.5 (qcvn_04_2021_bxd.md#muc-2-1-5).",
-    "anchor": "muc-2-1-5",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.3.4 (2.3.4) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.3.4",
+    "ground_truth_id": "muc-2-3-4",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.1.6 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.1.6 (qcvn_04_2021_bxd.md#muc-2-1-6).",
-    "anchor": "muc-2-1-6",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.3.5 (2.3.5) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.3.5",
+    "ground_truth_id": "muc-2-3-5",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.1.7 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.1.7 (qcvn_04_2021_bxd.md#muc-2-1-7).",
-    "anchor": "muc-2-1-7",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.4 (2.4 Yêu cầu về thang máy) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.4",
+    "ground_truth_id": "muc-2-4",
+    "expected_keywords": [
+      "thang"
+    ]
   },
   {
-    "question": "Quy định tại 2.1.8 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.1.8 (qcvn_04_2021_bxd.md#muc-2-1-8).",
-    "anchor": "muc-2-1-8",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.4.1 (2.4.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.4.1",
+    "ground_truth_id": "muc-2-4-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.1.9 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.1.9 (qcvn_04_2021_bxd.md#muc-2-1-9).",
-    "anchor": "muc-2-1-9",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.4.2 (2.4.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.4.2",
+    "ground_truth_id": "muc-2-4-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2 Yêu cầu về quy hoạch - kiến trúc của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2 Yêu cầu về quy hoạch - kiến trúc (qcvn_04_2021_bxd.md#muc-2-2).",
-    "anchor": "muc-2-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.4.3 (2.4.3) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.4.3",
+    "ground_truth_id": "muc-2-4-3",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.1 (qcvn_04_2021_bxd.md#muc-2-2-1).",
-    "anchor": "muc-2-2-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.4.4 (2.4.4) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.4.4",
+    "ground_truth_id": "muc-2-4-4",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.2 (qcvn_04_2021_bxd.md#muc-2-2-2).",
-    "anchor": "muc-2-2-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.4.5 (2.4.5) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.4.5",
+    "ground_truth_id": "muc-2-4-5",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.3 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.3 (qcvn_04_2021_bxd.md#muc-2-2-3).",
-    "anchor": "muc-2-2-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.4.6 (2.4.6) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.4.6",
+    "ground_truth_id": "muc-2-4-6",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.4 Căn hộ chung cư của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.4 Căn hộ chung cư (qcvn_04_2021_bxd.md#muc-2-2-4).",
-    "anchor": "muc-2-2-4",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.4.7 (2.4.7) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.4.7",
+    "ground_truth_id": "muc-2-4-7",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.4.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.4.1 (qcvn_04_2021_bxd.md#muc-2-2-4-1).",
-    "anchor": "muc-2-2-4-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.4.8 (2.4.8) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.4.8",
+    "ground_truth_id": "muc-2-4-8",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.4.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.4.2 (qcvn_04_2021_bxd.md#muc-2-2-4-2).",
-    "anchor": "muc-2-2-4-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.4.9 (2.4.9) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.4.9",
+    "ground_truth_id": "muc-2-4-9",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.4.3 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.4.3 (qcvn_04_2021_bxd.md#muc-2-2-4-3).",
-    "anchor": "muc-2-2-4-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.4.10 (2.4.10) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.4.10",
+    "ground_truth_id": "muc-2-4-10",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.4.4 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.4.4 (qcvn_04_2021_bxd.md#muc-2-2-4-4).",
-    "anchor": "muc-2-2-4-4",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.5 (2.5 Yêu cầu về hệ thống cấp nước và thoát nước) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.5",
+    "ground_truth_id": "muc-2-5",
+    "expected_keywords": [
+      "thống",
+      "nước",
+      "thoát",
+      "nước"
+    ]
   },
   {
-    "question": "Quy định tại 2.2.5 Căn hộ lưu trú của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.5 Căn hộ lưu trú (qcvn_04_2021_bxd.md#muc-2-2-5).",
-    "anchor": "muc-2-2-5",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.5.1 (2.5.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.5.1",
+    "ground_truth_id": "muc-2-5-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.5.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.5.1 (qcvn_04_2021_bxd.md#muc-2-2-5-1).",
-    "anchor": "muc-2-2-5-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.5.2 (2.5.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.5.2",
+    "ground_truth_id": "muc-2-5-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.5.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.5.2 (qcvn_04_2021_bxd.md#muc-2-2-5-2).",
-    "anchor": "muc-2-2-5-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.5.3 (2.5.3) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.5.3",
+    "ground_truth_id": "muc-2-5-3",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.6 Văn phòng kết hợp lưu trú của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.6 Văn phòng kết hợp lưu trú (qcvn_04_2021_bxd.md#muc-2-2-6).",
-    "anchor": "muc-2-2-6",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.5.4 (2.5.4) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.5.4",
+    "ground_truth_id": "muc-2-5-4",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.6.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.6.1 (qcvn_04_2021_bxd.md#muc-2-2-6-1).",
-    "anchor": "muc-2-2-6-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.5.5 (2.5.5) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.5.5",
+    "ground_truth_id": "muc-2-5-5",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.6.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.6.2 (qcvn_04_2021_bxd.md#muc-2-2-6-2).",
-    "anchor": "muc-2-2-6-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.5.6 (2.5.6) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.5.6",
+    "ground_truth_id": "muc-2-5-6",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.7 Không gian sinh hoạt cộng đồng của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.7 Không gian sinh hoạt cộng đồng (qcvn_04_2021_bxd.md#muc-2-2-7).",
-    "anchor": "muc-2-2-7",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.5.7 (2.5.7) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.5.7",
+    "ground_truth_id": "muc-2-5-7",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.8 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.8 (qcvn_04_2021_bxd.md#muc-2-2-8).",
-    "anchor": "muc-2-2-8",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.6 (2.6 Yêu cầu về hệ thống thông gió và điều hòa không khí) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.6",
+    "ground_truth_id": "muc-2-6",
+    "expected_keywords": [
+      "thống",
+      "thông",
+      "điều",
+      "không"
+    ]
   },
   {
-    "question": "Quy định tại 2.2.9 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.9 (qcvn_04_2021_bxd.md#muc-2-2-9).",
-    "anchor": "muc-2-2-9",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.6.1 (2.6.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.6.1",
+    "ground_truth_id": "muc-2-6-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.10 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.10 (qcvn_04_2021_bxd.md#muc-2-2-10).",
-    "anchor": "muc-2-2-10",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.6.2 (2.6.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.6.2",
+    "ground_truth_id": "muc-2-6-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.11 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.11 (qcvn_04_2021_bxd.md#muc-2-2-11).",
-    "anchor": "muc-2-2-11",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.6.3 (2.6.3) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.6.3",
+    "ground_truth_id": "muc-2-6-3",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.12 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.12 (qcvn_04_2021_bxd.md#muc-2-2-12).",
-    "anchor": "muc-2-2-12",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.6.4 (2.6.4) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.6.4",
+    "ground_truth_id": "muc-2-6-4",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.13 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.13 (qcvn_04_2021_bxd.md#muc-2-2-13).",
-    "anchor": "muc-2-2-13",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.6.5 (2.6.5) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.6.5",
+    "ground_truth_id": "muc-2-6-5",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.14 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.14 (qcvn_04_2021_bxd.md#muc-2-2-14).",
-    "anchor": "muc-2-2-14",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.6.6 (2.6.6) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.6.6",
+    "ground_truth_id": "muc-2-6-6",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.15 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.15 (qcvn_04_2021_bxd.md#muc-2-2-15).",
-    "anchor": "muc-2-2-15",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.6.7 (2.6.7) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.6.7",
+    "ground_truth_id": "muc-2-6-7",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.16 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.16 (qcvn_04_2021_bxd.md#muc-2-2-16).",
-    "anchor": "muc-2-2-16",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.6.8 (2.6.8) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.6.8",
+    "ground_truth_id": "muc-2-6-8",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.17 Chỗ để xe (bao gồm xe ô tô, xe máy (kể cả xe máy điện), xe đạp) của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.17 Chỗ để xe (bao gồm xe ô tô, xe máy (kể cả xe máy điện), xe đạp) (qcvn_04_2021_bxd.md#muc-2-2-17).",
-    "anchor": "muc-2-2-17",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.7 (2.7 Yêu cầu về hệ thống thu gom rác) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.7",
+    "ground_truth_id": "muc-2-7",
+    "expected_keywords": [
+      "thống"
+    ]
   },
   {
-    "question": "Quy định tại 2.2.17.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.17.1 (qcvn_04_2021_bxd.md#muc-2-2-17-1).",
-    "anchor": "muc-2-2-17-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.7.1 (2.7.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.7.1",
+    "ground_truth_id": "muc-2-7-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.17.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.17.2 (qcvn_04_2021_bxd.md#muc-2-2-17-2).",
-    "anchor": "muc-2-2-17-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.7.2 (2.7.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.7.2",
+    "ground_truth_id": "muc-2-7-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.17.3 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.17.3 (qcvn_04_2021_bxd.md#muc-2-2-17-3).",
-    "anchor": "muc-2-2-17-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.7.3 (2.7.3) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.7.3",
+    "ground_truth_id": "muc-2-7-3",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.2.18 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.2.18 (qcvn_04_2021_bxd.md#muc-2-2-18).",
-    "anchor": "muc-2-2-18",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.7.4 (2.7.4) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.7.4",
+    "ground_truth_id": "muc-2-7-4",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.3 Yêu cầu về kết cấu của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.3 Yêu cầu về kết cấu (qcvn_04_2021_bxd.md#muc-2-3).",
-    "anchor": "muc-2-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.8 (2.8 Yêu cầu về hệ thống điện, chống sét, chiếu sáng, chống ồn và hệ thống thông tin truyền) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.8",
+    "ground_truth_id": "muc-2-8",
+    "expected_keywords": [
+      "thống",
+      "điện",
+      "chống",
+      "chiếu"
+    ]
   },
   {
-    "question": "Quy định tại 2.3.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.3.1 (qcvn_04_2021_bxd.md#muc-2-3-1).",
-    "anchor": "muc-2-3-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.8.1 (2.8.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.8.1",
+    "ground_truth_id": "muc-2-8-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.3.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.3.2 (qcvn_04_2021_bxd.md#muc-2-3-2).",
-    "anchor": "muc-2-3-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.8.2 (2.8.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.8.2",
+    "ground_truth_id": "muc-2-8-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.3.3 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.3.3 (qcvn_04_2021_bxd.md#muc-2-3-3).",
-    "anchor": "muc-2-3-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.8.3 (2.8.3) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.8.3",
+    "ground_truth_id": "muc-2-8-3",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.3.4 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.3.4 (qcvn_04_2021_bxd.md#muc-2-3-4).",
-    "anchor": "muc-2-3-4",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.8.4 (2.8.4) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.8.4",
+    "ground_truth_id": "muc-2-8-4",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.3.5 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.3.5 (qcvn_04_2021_bxd.md#muc-2-3-5).",
-    "anchor": "muc-2-3-5",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.8.5 (2.8.5) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.8.5",
+    "ground_truth_id": "muc-2-8-5",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.4 Yêu cầu về thang máy của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.4 Yêu cầu về thang máy (qcvn_04_2021_bxd.md#muc-2-4).",
-    "anchor": "muc-2-4",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.8.6 (2.8.6) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.8.6",
+    "ground_truth_id": "muc-2-8-6",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.4.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.4.1 (qcvn_04_2021_bxd.md#muc-2-4-1).",
-    "anchor": "muc-2-4-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.9 (2.9 Yêu cầu về an toàn cháy) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.9",
+    "ground_truth_id": "muc-2-9",
+    "expected_keywords": [
+      "toàn",
+      "cháy"
+    ]
   },
   {
-    "question": "Quy định tại 2.4.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.4.2 (qcvn_04_2021_bxd.md#muc-2-4-2).",
-    "anchor": "muc-2-4-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.10 (2.10 Yêu cầu về chỗ để xe điện) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.10",
+    "ground_truth_id": "muc-2-10",
+    "expected_keywords": [
+      "điện"
+    ]
   },
   {
-    "question": "Quy định tại 2.4.3 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.4.3 (qcvn_04_2021_bxd.md#muc-2-4-3).",
-    "anchor": "muc-2-4-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 2.11 (2.11 Yêu cầu về khu vực đổi pin) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "2.11",
+    "ground_truth_id": "muc-2-11",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.4.4 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.4.4 (qcvn_04_2021_bxd.md#muc-2-4-4).",
-    "anchor": "muc-2-4-4",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 3 (3 QUY ĐỊNH VỀ QUẢN LÝ) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "3",
+    "ground_truth_id": "muc-3",
+    "expected_keywords": [
+      "ĐỊNH",
+      "QUẢN"
+    ]
   },
   {
-    "question": "Quy định tại 2.4.5 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.4.5 (qcvn_04_2021_bxd.md#muc-2-4-5).",
-    "anchor": "muc-2-4-5",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 3.1 (3.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "3.1",
+    "ground_truth_id": "muc-3-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.4.6 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.4.6 (qcvn_04_2021_bxd.md#muc-2-4-6).",
-    "anchor": "muc-2-4-6",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 3.2 (3.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "3.2",
+    "ground_truth_id": "muc-3-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.4.7 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.4.7 (qcvn_04_2021_bxd.md#muc-2-4-7).",
-    "anchor": "muc-2-4-7",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 3.3 (3.3 Quy định chuyển tiếp) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "3.3",
+    "ground_truth_id": "muc-3-3",
+    "expected_keywords": [
+      "định",
+      "chuyển",
+      "tiếp"
+    ]
   },
   {
-    "question": "Quy định tại 2.4.8 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.4.8 (qcvn_04_2021_bxd.md#muc-2-4-8).",
-    "anchor": "muc-2-4-8",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 4 (4 TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "4",
+    "ground_truth_id": "muc-4",
+    "expected_keywords": [
+      "TRÁCH",
+      "NHIỆM",
+      "CHỨC",
+      "NHÂN"
+    ]
   },
   {
-    "question": "Quy định tại 2.4.9 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.4.9 (qcvn_04_2021_bxd.md#muc-2-4-9).",
-    "anchor": "muc-2-4-9",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 4.1 (4.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "4.1",
+    "ground_truth_id": "muc-4-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.4.10 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.4.10 (qcvn_04_2021_bxd.md#muc-2-4-10).",
-    "anchor": "muc-2-4-10",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 4.2 (4.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "4.2",
+    "ground_truth_id": "muc-4-2",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.5 Yêu cầu về hệ thống cấp nước và thoát nước của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.5 Yêu cầu về hệ thống cấp nước và thoát nước (qcvn_04_2021_bxd.md#muc-2-5).",
-    "anchor": "muc-2-5",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 4.3 (4.3) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "4.3",
+    "ground_truth_id": "muc-4-3",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.5.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.5.1 (qcvn_04_2021_bxd.md#muc-2-5-1).",
-    "anchor": "muc-2-5-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 5 (5 TỔ CHỨC THỰC HIỆN) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "5",
+    "ground_truth_id": "muc-5",
+    "expected_keywords": [
+      "CHỨC",
+      "THỰC",
+      "HIỆN"
+    ]
   },
   {
-    "question": "Quy định tại 2.5.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.5.2 (qcvn_04_2021_bxd.md#muc-2-5-2).",
-    "anchor": "muc-2-5-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
+    "question": "Quy định kỹ thuật tại mục 5.1 (5.1) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "5.1",
+    "ground_truth_id": "muc-5-1",
+    "expected_keywords": []
   },
   {
-    "question": "Quy định tại 2.5.3 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.5.3 (qcvn_04_2021_bxd.md#muc-2-5-3).",
-    "anchor": "muc-2-5-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.5.4 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.5.4 (qcvn_04_2021_bxd.md#muc-2-5-4).",
-    "anchor": "muc-2-5-4",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.5.5 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.5.5 (qcvn_04_2021_bxd.md#muc-2-5-5).",
-    "anchor": "muc-2-5-5",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.5.6 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.5.6 (qcvn_04_2021_bxd.md#muc-2-5-6).",
-    "anchor": "muc-2-5-6",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.5.7 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.5.7 (qcvn_04_2021_bxd.md#muc-2-5-7).",
-    "anchor": "muc-2-5-7",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.6 Yêu cầu về hệ thống thông gió và điều hòa không khí của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.6 Yêu cầu về hệ thống thông gió và điều hòa không khí (qcvn_04_2021_bxd.md#muc-2-6).",
-    "anchor": "muc-2-6",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.6.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.6.1 (qcvn_04_2021_bxd.md#muc-2-6-1).",
-    "anchor": "muc-2-6-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.6.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.6.2 (qcvn_04_2021_bxd.md#muc-2-6-2).",
-    "anchor": "muc-2-6-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.6.3 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.6.3 (qcvn_04_2021_bxd.md#muc-2-6-3).",
-    "anchor": "muc-2-6-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.6.4 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.6.4 (qcvn_04_2021_bxd.md#muc-2-6-4).",
-    "anchor": "muc-2-6-4",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.6.5 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.6.5 (qcvn_04_2021_bxd.md#muc-2-6-5).",
-    "anchor": "muc-2-6-5",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.6.6 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.6.6 (qcvn_04_2021_bxd.md#muc-2-6-6).",
-    "anchor": "muc-2-6-6",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.6.7 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.6.7 (qcvn_04_2021_bxd.md#muc-2-6-7).",
-    "anchor": "muc-2-6-7",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.6.8 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.6.8 (qcvn_04_2021_bxd.md#muc-2-6-8).",
-    "anchor": "muc-2-6-8",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.7 Yêu cầu về hệ thống thu gom rác của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.7 Yêu cầu về hệ thống thu gom rác (qcvn_04_2021_bxd.md#muc-2-7).",
-    "anchor": "muc-2-7",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.7.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.7.1 (qcvn_04_2021_bxd.md#muc-2-7-1).",
-    "anchor": "muc-2-7-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.7.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.7.2 (qcvn_04_2021_bxd.md#muc-2-7-2).",
-    "anchor": "muc-2-7-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.7.3 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.7.3 (qcvn_04_2021_bxd.md#muc-2-7-3).",
-    "anchor": "muc-2-7-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.7.4 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.7.4 (qcvn_04_2021_bxd.md#muc-2-7-4).",
-    "anchor": "muc-2-7-4",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.8 Yêu cầu về hệ thống điện, chống sét, chiếu sáng, chống ồn và hệ thống thông tin truyền thông của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.8 Yêu cầu về hệ thống điện, chống sét, chiếu sáng, chống ồn và hệ thống thông tin truyền thông (qcvn_04_2021_bxd.md#muc-2-8).",
-    "anchor": "muc-2-8",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.8.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.8.1 (qcvn_04_2021_bxd.md#muc-2-8-1).",
-    "anchor": "muc-2-8-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.8.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.8.2 (qcvn_04_2021_bxd.md#muc-2-8-2).",
-    "anchor": "muc-2-8-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.8.3 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.8.3 (qcvn_04_2021_bxd.md#muc-2-8-3).",
-    "anchor": "muc-2-8-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.8.4 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.8.4 (qcvn_04_2021_bxd.md#muc-2-8-4).",
-    "anchor": "muc-2-8-4",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.8.5 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.8.5 (qcvn_04_2021_bxd.md#muc-2-8-5).",
-    "anchor": "muc-2-8-5",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.8.6 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.8.6 (qcvn_04_2021_bxd.md#muc-2-8-6).",
-    "anchor": "muc-2-8-6",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.9 Yêu cầu về an toàn cháy của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.9 Yêu cầu về an toàn cháy (qcvn_04_2021_bxd.md#muc-2-9).",
-    "anchor": "muc-2-9",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 2.11  Yêu cầu về khu vực đổi pin của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 2.11  Yêu cầu về khu vực đổi pin (qcvn_04_2021_bxd.md#muc-2-11).",
-    "anchor": "muc-2-11",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 3 QUY ĐỊNH VỀ QUẢN LÝ của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 3 QUY ĐỊNH VỀ QUẢN LÝ (qcvn_04_2021_bxd.md#muc-3).",
-    "anchor": "muc-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 3.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 3.1 (qcvn_04_2021_bxd.md#muc-3-1).",
-    "anchor": "muc-3-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 3.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 3.2 (qcvn_04_2021_bxd.md#muc-3-2).",
-    "anchor": "muc-3-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 3.3 Quy định chuyển tiếp của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 3.3 Quy định chuyển tiếp (qcvn_04_2021_bxd.md#muc-3-3).",
-    "anchor": "muc-3-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 4 TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 4 TRÁCH NHIỆM CỦA TỔ CHỨC, CÁ NHÂN (qcvn_04_2021_bxd.md#muc-4).",
-    "anchor": "muc-4",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 4.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 4.1 (qcvn_04_2021_bxd.md#muc-4-1).",
-    "anchor": "muc-4-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 4.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 4.2 (qcvn_04_2021_bxd.md#muc-4-2).",
-    "anchor": "muc-4-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 4.3 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 4.3 (qcvn_04_2021_bxd.md#muc-4-3).",
-    "anchor": "muc-4-3",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CQXD"
-  },
-  {
-    "question": "Quy định tại 5 TỔ CHỨC THỰC HIỆN của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 5 TỔ CHỨC THỰC HIỆN (qcvn_04_2021_bxd.md#muc-5).",
-    "anchor": "muc-5",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CONG_AN"
-  },
-  {
-    "question": "Quy định tại 5.1 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 5.1 (qcvn_04_2021_bxd.md#muc-5-1).",
-    "anchor": "muc-5-1",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CONG_AN"
-  },
-  {
-    "question": "Quy định tại 5.2 của QCVN 04:2021/BXD là gì?",
-    "answer": "Xem chi tiết nội dung quy chuẩn tại 5.2 (qcvn_04_2021_bxd.md#muc-5-2).",
-    "anchor": "muc-5-2",
-    "source_file": "qcvn_04_2021_bxd.md",
-    "jurisdiction": "CONG_AN"
+    "question": "Quy định kỹ thuật tại mục 5.2 (5.2) của QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD) quy định như thế nào?",
+    "ground_truth_clause": "5.2",
+    "ground_truth_id": "muc-5-2",
+    "expected_keywords": []
   }
 ]

@@ -158,7 +158,7 @@ def main() -> int:
     parity_passed = parity_data.get("passed_documents", 0)
     parity_total = parity_data.get("total_documents", 0)
 
-    cohort_label = "Toàn Bộ Kho Tri Thức (55 Bundles)" if args.cohorts == "all" else "5 Golden Cohorts (11 Bundles)"
+    cohort_label = f"Toàn Bộ Kho Tri Thức ({parity_total} Bundles)" if args.cohorts == "all" else "5 Golden Cohorts (11 Bundles)"
     md_lines = [
         f"# Báo Cáo Định Kỳ Ban Đêm: CCBA Legal Spoke Telemetry ({datetime.now().strftime('%Y-%m-%d')})",
         "",
