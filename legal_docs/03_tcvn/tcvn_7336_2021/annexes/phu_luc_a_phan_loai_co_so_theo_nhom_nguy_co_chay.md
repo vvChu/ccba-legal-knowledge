@@ -6,13 +6,14 @@ type: "normative_annex"
 usage: "Phân loại cơ sở theo nhóm nguy cơ phát sinh cháy phụ thuộc vào công năng và tải trọng cháy"
 ---
 
+<a id="phu-luc-a"></a>
 # Phụ lục A
 ### (Quy định)
 ## Phân loại cơ sở theo nhóm nguy cơ phát sinh cháy phụ thuộc vào công năng và tải trọng cháy
 
 > [!NOTE]
 > **Tiêu chuẩn viện dẫn:** Tiêu chuẩn Quốc gia TCVN 7336:2021 (Phòng cháy và chữa cháy - Hệ thống chữa cháy tự động bằng nước, bọt - Yêu cầu thiết kế và lắp đặt).  
-> **Mỏ neo PDF (PDF Anchor):** [`tcvn_7336_2021.pdf`](../tcvn_7336_2021.pdf).
+> **Mỏ neo PDF (PDF Anchor):** [`tcvn_7336_2021.pdf`](../sources/tcvn_7336_2021.pdf).
 
 ---
 
@@ -31,7 +32,6 @@ usage: "Phân loại cơ sở theo nhóm nguy cơ phát sinh cháy phụ thuộc
 
 ### CHÚ THÍCH
 
-
 **CHÚ THÍCH 1:** Nhóm các cơ sở được xác định theo công năng của chúng. Trong trường hợp không thể chọn cơ sở tương tự thì xác định nhóm theo công năng của các gian phòng.
 
 **CHÚ THÍCH 2:** Nhóm của các cơ sở được xác định theo tải trọng cháy.
@@ -39,6 +39,5 @@ usage: "Phân loại cơ sở theo nhóm nguy cơ phát sinh cháy phụ thuộc
 **CHÚ THÍCH 3:** Các thông số của hệ thống chữa cháy bằng nước và bọt cho các phòng kho trong các tòa nhà, cơ sở thuộc nhóm nguy cơ phát sinh cháy nhóm 1 được lấy theo các phòng thuộc nhóm nguy cơ phát sinh cháy nhóm 2.
 
 **CHÚ THÍCH 4:** Đối với nhóm nguy cơ phát sinh cháy nhóm 2, lưu lượng và cường độ phun nước hoặc dung dịch chất tạo bọt phải được tăng lên so với các giá trị tiêu chuẩn được đưa ra trong Bảng 1 cho nhóm nguy cơ phát sinh cháy nhóm 2, không nhỏ hơn:
-  - $1,5$ lần khi tải trọng cháy trên $1400\text{ MJ/m}^2$;
-  - $2,5$ lần khi tải trọng cháy cụ thể trên $2200\text{ MJ/m}^2$.
-
+\- $1,5$ lần khi tải trọng cháy trên $1400\text{ MJ/m}^2$;
+\- $2,5$ lần khi tải trọng cháy cụ thể trên $2200\text{ MJ/m}^2$.

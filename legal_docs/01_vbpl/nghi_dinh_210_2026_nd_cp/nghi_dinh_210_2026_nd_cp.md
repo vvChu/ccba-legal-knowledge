@@ -28,7 +28,7 @@ relations:
 - target_id: Luat-Xay-dung-2025-135-2025-QH15
   relation_type: guided_by
 artifacts:
-  templates_dir: ./templates/
+  annexes_dir: ./annexes/
   tables_dir: ./tables/
   benchmark_file: ./qa_benchmark.json
 ---
@@ -1004,4 +1004,9 @@ d) Đối với các hợp đồng xây dựng đã giao kết và đang thực 
 <a id="dieu-34-khoan-4"></a>
 **4.** Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương, các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Nghị định này.
 
+---
+
+## 📑 PHỤ LỤC QUY PHẠM KÈM THEO
+
+- 📘 [**Phụ lục: Phương pháp điều chỉnh đơn giá và giá hợp đồng xây dựng**](./annexes/phu_luc_phuong_phap_dieu_chinh_gia_hop_dong.md)
 

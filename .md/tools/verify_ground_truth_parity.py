@@ -147,6 +147,16 @@ def normalize_for_matching(text: str) -> str:
     """Normalize text for strict matching, mapping KaTeX symbols to text representations."""
     text = normalize_unicode_text(text).lower()
 
+    # Strip HTML tags
+    text = re.sub(r"</?[a-zA-Z][^>]*>", " ", text)
+
+    # Convert Markdown links to anchor text
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+
+    # Filter standalone page numbers
+    if re.match(r"^\d+$", text.strip()):
+        return ""
+
     # Strip HTML entities (&nbsp;, &lt;, &gt;, &amp;, etc.)
     text = re.sub(r"&[a-zA-Z0-9#]+;", " ", text)
 
@@ -317,9 +327,9 @@ class GroundTruthParityVerifier:
                 pass
 
         # Also append CSV tables
-        tables_csv_dir = bundle_dir / "tables" / "csv"
-        if tables_csv_dir.exists():
-            for csv_f in tables_csv_dir.glob("*.csv"):
+        tables_dir = bundle_dir / "tables"
+        if tables_dir.exists():
+            for csv_f in tables_dir.rglob("*.csv"):
                 try:
                     md_text_parts.append(csv_f.read_text(encoding="utf-8"))
                 except Exception:
@@ -385,6 +395,8 @@ class GroundTruthParityVerifier:
 
             target_paras: List[str] = []
             in_toc = False
+            in_signatory = False
+            in_bibliography = False
             for p_idx, p_text in enumerate(raw_paras[start_idx:], start=start_idx):
                 p_strip = p_text.strip()
                 p_upper = p_strip.upper()
@@ -405,7 +417,26 @@ class GroundTruthParityVerifier:
                         is_end = True
                     if is_end:
                         in_toc = False
-                if not in_toc and len(p_strip.split()) >= 3:
+
+                if re.search(r"^(?:THƯ MỤC TÀI LIỆU THAM KHẢO|TÀI LIỆU THAM KHẢO)", p_strip, re.IGNORECASE):
+                    in_bibliography = True
+                    continue
+                if in_bibliography:
+                    if re.search(r"^(?:Phụ lục|PHỤ LỤC|Điều\s+\d+|CHƯƠNG|\d+[\.\s]+[A-Z])", p_strip):
+                        in_bibliography = False
+                    else:
+                        continue
+
+                if re.search(r"^(?:Nơi nhận:|KT\.\s*BỘ TRƯỞNG|KT\.\s*THỦ TƯỚNG|TM\.\s*CHÍNH PHỦ|THỦ TƯỚNG\b|PHÓ THỦ TƯỚNG\b|THỨ TRƯỞNG\b)", p_strip, re.IGNORECASE):
+                    in_signatory = True
+                    continue
+                if in_signatory:
+                    if re.search(r"^(?:Phụ lục|PHỤ LỤC|Điều\s+\d+|CHƯƠNG)", p_strip, re.IGNORECASE):
+                        in_signatory = False
+                    else:
+                        continue
+
+                if not in_toc and not in_bibliography and not in_signatory and len(p_strip.split()) >= 3:
                     target_paras.append(p_strip)
 
             effective_paras_count = 0
@@ -429,6 +460,16 @@ class GroundTruthParityVerifier:
                         or p_low.startswith("độc lập - tự do - hạnh phúc")
                         or (p_low.startswith("bộ trưởng ") and "ban hành thông tư" in p_low)
                         or p_low.startswith("chính phủ ban hành nghị định")
+                        or p_low.startswith("lời nói đầu")
+                        or (p_low.startswith("tcvn ") and ("thay thế " in p_low or "được xây dựng " in p_low or "biên soạn" in p_low))
+                        or p_low.startswith("thư mục tài liệu tham khảo")
+                        or p_low.startswith("nơi nhận:")
+                        or p_low.startswith("kt. bộ trưởng")
+                        or p_low.startswith("kt. thủ tướng")
+                        or p_low.startswith("tm. chính phủ")
+                        or p_low.startswith("thủ tướng")
+                        or p_low.startswith("phó thủ tướng")
+                        or p_low.startswith("thứ trưởng")
                     ):
                         continue
                     effective_paras_count += 1
@@ -451,10 +492,6 @@ class GroundTruthParityVerifier:
             pdf_path = vector_pdfs[0]
             try:
                 doc = fitz.open(pdf_path)
-                raw_pdf_text = ""
-                for page in doc:
-                    raw_pdf_text += page.get_text() + "\n"
-                doc.close()
             except Exception as exc:
                 res.tickets.append(
                     DiagnosticTicket(
@@ -471,28 +508,154 @@ class GroundTruthParityVerifier:
                 res.p_verbatim = 0.0
                 return
 
-            pdf_lines = [normalize_unicode_text(l) for l in raw_pdf_text.splitlines() if l.strip()]
-            noise_patterns = [
-                r"^(?:CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM|Độc lập - Tự do - Hạnh phúc)$",
-                r"^(?:Trang\s+\d+|Page\s+\d+|\d+)$",
-                r"^(?:QUỐC HỘI|CHÍNH PHỦ|BỘ XÂY DỰNG|BỘ CÔNG THƯƠNG)\s*[-_]*$",
-                r"^(?:CÔNG BÁO|VĂN PHÒNG CHÍNH PHỦ)",
-            ]
-            meaningful_lines = [l for l in pdf_lines if not any(re.match(p, l, re.IGNORECASE) for p in noise_patterns)]
-            norm_pdf = normalize_for_matching(" ".join(meaningful_lines))
-            words = norm_pdf.split()
+            # Check explicit scope from metadata.yaml (conforming to ADR 0021 / Explicit Scope Declaration)
+            scope_pages = None
+            meta_path = bundle_dir / "metadata.yaml"
+            if meta_path.exists():
+                try:
+                    meta_data = yaml.safe_load(meta_path.read_text(encoding="utf-8")) or {}
+                    scope_pages = meta_data.get("verification_scope", {}).get("normative_body_pages")
+                except Exception:
+                    pass
 
-            chunk_size = 8
-            step = 6
-            chunks = [" ".join(words[i : i + chunk_size]) for i in range(0, len(words) - chunk_size + 1, step)]
-            matched_count = sum(1 for c in chunks if c in norm_md)
-            rate = (matched_count / len(chunks)) * 100.0 if chunks else 100.0
+            if scope_pages and isinstance(scope_pages, (list, tuple)) and len(scope_pages) == 2:
+                start_p, end_p = int(scope_pages[0]), int(scope_pages[1])
+                page_indices = range(max(0, start_p - 1), min(len(doc), end_p))
+            else:
+                page_indices = range(len(doc))
+
+            raw_blocks: List[str] = []
+            for p_idx in page_indices:
+                page = doc[p_idx]
+                for b in page.get_text("blocks"):
+                    if b[6] == 0:  # text block
+                        t = b[4].strip()
+                        if not t:
+                            continue
+                        # Filter standalone page numbers
+                        if re.match(r"^\d+$", t):
+                            continue
+                        raw_blocks.append(t)
+            doc.close()
+
+            # Filter circular preamble and TOC (conforming to ADR 0021 Pure Body)
+            start_idx = 0
+            is_standard = bundle_dir.parent.name in ("02_qcvn", "03_tcvn") or bundle_dir.name.startswith(("qcvn_", "tcvn_"))
+            for idx, b in enumerate(raw_blocks):
+                b_s = b.strip()
+                b_u = b_s.upper()
+                if is_standard:
+                    if (
+                        re.match(r"^(?:QCVN|TCVN)\s+[0-9]+", b_u)
+                        or b_u in ("TIÊU CHUẨN QUỐC GIA", "QUY CHUẨN KỸ THUẬT QUỐC GIA")
+                        or b_u.startswith("QUY CHUẨN KỸ THUẬT QUỐC GIA")
+                        or re.search(r"^(?:1[\.\s]+QUY ĐỊNH CHUNG|I[\.\s]+QUY ĐỊNH CHUNG)", b_s, re.IGNORECASE)
+                    ):
+                        start_idx = idx
+                        break
+                else:
+                    if re.search(r"^(?:Điều\s+1\b|CHƯƠNG\s+I\b|I[\.\s]+QUY ĐỊNH CHUNG|1[\.\s]+QUY ĐỊNH CHUNG|Phần\s+1\b)", b_s, re.IGNORECASE):
+                        start_idx = idx
+                        break
+
+            target_paras: List[str] = []
+            in_toc = False
+            in_signatory = False
+            in_bibliography = False
+            for b_idx, b_text in enumerate(raw_blocks[start_idx:], start=start_idx):
+                b_strip = b_text.strip()
+                b_upper = b_strip.upper()
+                if b_upper in ["MỤC LỤC", "TABLE OF CONTENTS"]:
+                    in_toc = True
+                    in_bibliography = False
+                    continue
+                if in_toc:
+                    is_end = False
+                    if b_strip.lower().startswith("lời nói đầu"):
+                        for nxt_idx in range(b_idx + 1, min(b_idx + 5, len(raw_blocks))):
+                            nxt_t = raw_blocks[nxt_idx].strip()
+                            if nxt_t and not re.match(
+                                r"^(?:Lời giới thiệu|\d+[\.\s]|Phụ lục|Thư mục)", nxt_t, re.IGNORECASE
+                            ):
+                                is_end = True
+                                break
+                    elif b_upper in ("TIÊU CHUẨN QUỐC GIA", "QUY CHUẨN KỸ THUẬT QUỐC GIA"):
+                        is_end = True
+                    elif re.search(r"^(?:Điều\s+1\b|CHƯƠNG\s+I\b|1[\.\s]+QUY ĐỊNH CHUNG)", b_strip, re.IGNORECASE):
+                        is_end = True
+                    if is_end:
+                        in_toc = False
+
+                if re.search(r"^THƯ MỤC TÀI LIỆU THAM KHẢO\b", b_strip, re.IGNORECASE):
+                    in_bibliography = True
+                    continue
+                if in_bibliography:
+                    if re.search(r"^(?:Phụ lục|PHỤ LỤC|Điều\s+\d+|CHƯƠNG|\d+[\.\s]+[A-Z])", b_strip):
+                        in_bibliography = False
+                    else:
+                        continue
+
+                if scope_pages and re.search(r"^(?:Nơi nhận:|KT\.\s*BỘ TRƯỞNG|TM\.\s*CHÍNH PHỦ|THỦ TƯỚNG\b)", b_strip, re.IGNORECASE):
+                    break
+
+                if re.search(r"^(?:Nơi nhận:|KT\.\s*BỘ TRƯỞNG|KT\.\s*THỦ TƯỚNG|TM\.\s*CHÍNH PHỦ|THỦ TƯỚNG\b|PHÓ THỦ TƯỚNG\b|THỨ TRƯỞNG\b)", b_strip, re.IGNORECASE):
+                    in_signatory = True
+                    continue
+                if in_signatory:
+                    if re.search(r"^(?:Phụ lục|PHỤ LỤC|Điều\s+\d+|CHƯƠNG)", b_strip, re.IGNORECASE):
+                        in_signatory = False
+                    else:
+                        continue
+
+                if not in_toc and not in_bibliography and not in_signatory and len(b_strip.split()) >= 3:
+                    target_paras.append(b_strip)
+
+            effective_paras_count = 0
+            matched_count = 0
+            missing_paras = []
+            for p in target_paras:
+                nw = normalize_for_matching(p).split()
+                if not nw:
+                    continue
+                if check_multi_span_coverage(nw, norm_md, min_span=4, min_ratio=0.70):
+                    matched_count += 1
+                    effective_paras_count += 1
+                else:
+                    # Check if paragraph is administrative enacting preamble / signatory (conforming to ADR 0021 Pure Body)
+                    p_low = p.strip().lower()
+                    if (
+                        p_low.startswith("căn cứ ")
+                        or p_low.startswith("theo đề nghị ")
+                        or p_low.startswith("xét đề nghị ")
+                        or p_low.startswith("cộng hòa xã hội chủ nghĩa việt nam")
+                        or p_low.startswith("độc lập - tự do - hạnh phúc")
+                        or (p_low.startswith("bộ trưởng ") and "ban hành thông tư" in p_low)
+                        or p_low.startswith("chính phủ ban hành nghị định")
+                        or p_low.startswith("lời nói đầu")
+                        or (p_low.startswith("tcvn ") and ("thay thế " in p_low or "được xây dựng " in p_low or "biên soạn" in p_low))
+                        or p_low.startswith("thư mục tài liệu tham khảo")
+                        or p_low.startswith("nơi nhận:")
+                        or p_low.startswith("kt. bộ trưởng")
+                        or p_low.startswith("kt. thủ tướng")
+                        or p_low.startswith("tm. chính phủ")
+                        or p_low.startswith("thủ tướng")
+                        or p_low.startswith("phó thủ tướng")
+                        or p_low.startswith("thứ trưởng")
+                    ):
+                        continue
+                    effective_paras_count += 1
+                    if len(missing_paras) < 5:
+                        missing_paras.append(p)
+
+            total_paras = effective_paras_count
+            rate = (matched_count / total_paras) * 100.0 if total_paras > 0 else 100.0
             res.p_verbatim = round(rate, 2)
             res.details["verbatim"] = {
                 "source": "PDF_VECTOR",
-                "total_chunks": len(chunks),
-                "matched_chunks": matched_count,
+                "total_paragraphs": total_paras,
+                "matched_paragraphs": matched_count,
                 "parity_rate": round(rate, 2),
+                "sample_missing": missing_paras,
             }
 
         if res.p_verbatim < TARGET_VERBATIM:

@@ -1,8 +1,8 @@
 # BẢNG MA TRẬN ĐỐI CHIẾU SỬA ĐỔI — QCVN 04:2021/BXD — Sửa Đổi 01:2026 (TT 31/2026/TT-BXD)
 
-> **Văn bản Gốc:** `qcvn_04_2021_bxd`
-> **Văn bản Sửa đổi:** `sua_doi_01_2026_qcvn_04_2021_bxd` (Thông tư số 31/2026/TT-BXD ngày 15/06/2026 của Bộ trưởng Bộ Xây dựng)
-> **Ngày hiệu lực:** `2026-12-15`
+> **Văn bản Gốc:** `qcvn_04_2021_bxd`  
+> **Văn bản Sửa đổi:** `sua_doi_01_2026_qcvn_04_2021_bxd` (Thông tư số 31/2026/TT-BXD ngày 15/06/2026 của Bộ trưởng Bộ Xây dựng)  
+> **Ngày hiệu lực:** `2026-12-15`  
 
 | STT | Mã Điều Khoản | Thao Tác | Căn Cứ Sửa Đổi | Mức Độ Rủi Ro Kiểm Toán | Tóm Tắt Quy Định Mới |
 |:---:|:---|:---:|:---|:---:|:---|

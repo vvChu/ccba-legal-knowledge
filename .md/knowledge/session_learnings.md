@@ -54,6 +54,10 @@
   - NGHIÊM CẤM mọi hành vi tóm tắt, diễn đạt lại hoặc rút gọn thân văn bản quy phạm. Thân Markdown bắt buộc trích xuất xác định 1:1 từ DOCX và đạt Gate 11 Verbatim Parity $\ge 98.0\%$.
 - **RULE-4.3 [Bảo Tồn Ký Tự Gốc & Thoát Ký Tự Gạch Đầu Dòng — ADR 0029 & ADR 0030]**:
   - Bảo tồn 100% dấu gạch đầu dòng `-` và `+` bằng cơ chế thoát ký tự `\- ` và `&nbsp;&nbsp;\+ `. Không dồn cục dòng; vượt qua `lint_visual_parity.py`.
+- **RULE-4.4 [Ground Truth Engine Bilateral Symmetry & Scope Partitioning — ADR 0060]**:
+  - Đồng bộ đối xứng 100% giữa nhánh DOCX và PDF trong Parity Engine: áp dụng giải thuật Block Multi-span Coverage (`check_multi_span_coverage`) kết hợp bóc thẻ HTML và flat Markdown link.
+  - Áp dụng state-machine lọc ranh giới ký duyệt (`in_signatory`: `Nơi nhận:`, `KT. BỘ TRƯỞNG`, `TM. CHÍNH PHỦ`, `THỦ TƯỚNG`, `PHÓ THỦ TƯỚNG`, `THỨ TRƯỞNG`) và tài liệu tham khảo (`in_bibliography`).
+  - Hỗ trợ phân tách phạm vi trang thân quy phạm `verification_scope.normative_body_pages` trong `metadata.yaml` cho các thông tư có hàng nghìn trang biểu mức định mức dự toán được bóc tách riêng sang `templates/` và `tables/`.
 
 ---
 
