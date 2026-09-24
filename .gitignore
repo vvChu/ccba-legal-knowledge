@@ -67,6 +67,8 @@ legal_docs/**/*.doc
 .md/data/legal_registry.yaml
 .md/legal_docs/
 .md/reports/*.html
+.md/reports/parity_report_*
+.md/reports/parity_temp_*
 .md/*.png
 
 # Hub auto-generated editable links & Spoke Leakage Guard (ADR 0045)
