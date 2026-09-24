@@ -16,13 +16,13 @@ if hasattr(sys.stderr, "reconfigure"):
 # Define Pillar Classification Mapping
 PILLAR_MAPPING: dict[str, list[int]] = {
     "Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.4 Universal & Biểu Mẫu": [
-        1, 2, 3, 4, 5, 21, 22, 27, 28, 29, 30, 34, 36, 37, 38, 39, 40, 41, 42
+        1, 2, 3, 4, 5, 21, 22, 27, 28, 29, 30, 34, 36, 37, 38, 39, 40, 41, 42, 44
     ],
     "Trụ Cột 2: PDF Mỏ Neo Pháp Lý & Tri-Tier Cloud Vault (Acquisition, Anchoring & Vault)": [
-        10, 16, 24, 25, 31, 35
+        10, 16, 24, 25, 31, 35, 43
     ],
     "Trụ Cột 3: Bộ Cổng Kiểm Định CI & Vận Hành Spoke (CI Gates & Operations)": [
-        6, 7, 8, 9, 11, 12, 13, 14, 15, 17, 18, 19, 20, 23, 26, 32, 33
+        6, 7, 8, 9, 11, 12, 13, 14, 15, 17, 18, 19, 20, 23, 26, 32, 33, 45
     ],
 }
 

@@ -6,7 +6,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 
 ---
 
-## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0044)
+## 📑 Danh Mục Quyết Định Kiến Trúc (0001 — 0045)
 
 ### Trụ Cột 1: Tiêu Chuẩn Định Dạng Tri Thức OKF v2.4 Universal & Biểu Mẫu
 | Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
@@ -30,6 +30,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | [ADR 0040](0040-universal-deterministic-multimodal-extraction-pipeline.md) | Quy Trình Bóc Tách Đa Phương Thức Xác Định Toàn Cầu (Universal Deterministic Multimodal Extraction Pipeline) | ✅ ACCEPTED | 2026-09-03 |
 | [ADR 0041](0041-universal-deterministic-table-knowledge-extraction-architecture.md) | Kiến Trúc Bóc Tách Tri Thức Bảng Biểu Xác Định Toàn Cầu (Universal Deterministic Table Knowledge Extraction Architecture) | ✅ ACCEPTED | 2026-09-03 |
 | [ADR 0042](0042-canonical-openxml-sanitization-and-hybrid-dual-engine.md) | Chuẩn Hóa Cấu Trúc OpenXML DOM & Động Cơ Lai Ghép DOCX-PDF Hai Tầng (Canonical OpenXML Sanitization & Hybrid Dual-Engine Architecture) | ✅ ACCEPTED | 2026-09-07 |
+| [ADR 0044](0044-multipart-disambiguation-and-katex-syntax-hierarchy.md) | Định Danh Bảng Quy Chuẩn Đa Phần & Cú Pháp Toán Học Đa Dòng KaTeX (Multi-Part Disambiguation & KaTeX Syntax Hierarchy Invariant) | ✅ ACCEPTED | 2026-09-14 |
 
 ---
 
@@ -42,6 +43,7 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | [ADR 0025](0025-strict-provenance-enactment-gate.md) | Strict Zero-Tolerance Provenance Enactment Gate for Legal Ingestion | ✅ ACCEPTED | 2026-08-22 |
 | [ADR 0031](0031-tvpl-vip-digital-pdf-priority-and-session-engine.md) | TVPL VIP Digital Vector PDF Priority & Persistent Session Engine | ✅ ACCEPTED | 2026-08-24 |
 | [ADR 0035](0035-tri-tier-google-drive-vault-and-ingestion-2-0.md) | Tri-Tier Cloud Binary Vault Architecture & Universal Ingestion Pipeline 2.0 | ✅ ACCEPTED | 2026-08-27 |
+| [ADR 0043](0043-dual-pdf-archive-and-provenance-invariant.md) | Lưu Trữ Song Song & Bảo Tồn Nguồn Gốc PDF (Dual-PDF Archive & Provenance Invariant) | ✅ ACCEPTED | 2026-09-14 |
 
 ---
 
@@ -65,11 +67,6 @@ Tài liệu này lưu trữ toàn bộ các Quyết định Kiến trúc (ADRs) 
 | [ADR 0026](0026-package-based-downstream-knowledge-distribution.md) | Package-Based Downstream Legal Knowledge Distribution via ccba-legal-intel SDK | ✅ ACCEPTED | 2026-08-22 |
 | [ADR 0032](0032-catalog-query-gate-reuse-first-enforcement.md) | Catalog Query Gate: Cưỡng Chế Reuse-First bằng Cơ Chế Verify-Based | ✅ ACCEPTED | 2026-08-24 |
 | [ADR 0033](0033-spoke-md-directory-hygiene-and-archiving.md) | Spoke .md Directory Hygiene & Archiving Structure | ✅ ACCEPTED | 2026-08-24 |
+| [ADR 0045](0045-bilateral-parity-symmetry-and-scope-partitioning.md) | Kiểm Định Ground Truth Parity Song Mã & Phân Định Phạm Vi Thân Quy Phạm (Bilateral Parity Symmetry & Scope Partitioning Invariant) | ✅ ACCEPTED | 2026-09-24 |
 
 ---
-
-### 📌 Các Quyết Định Khác (Unassigned)
-| Mã ADR | Tiêu đề | Trạng thái | Ngày ban hành |
-| :--- | :--- | :---: | :---: |
-| [ADR 0043](0043-dual-pdf-archive-and-provenance-invariant.md) | Lưu Trữ Song Song & Bảo Tồn Nguồn Gốc PDF (Dual-PDF Archive & Provenance Invariant) | ✅ ACCEPTED | 2026-09-14 |
-| [ADR 0044](0044-multipart-disambiguation-and-katex-syntax-hierarchy.md) | Định Danh Bảng Quy Chuẩn Đa Phần & Cú Pháp Toán Học Đa Dòng KaTeX (Multi-Part Disambiguation & KaTeX Syntax Hierarchy Invariant) | ✅ ACCEPTED | 2026-09-14 |
