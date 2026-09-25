@@ -7,7 +7,7 @@ signer: Đang cập nhật
 issued_date: '2026-06-25'
 effective_date: '2026-07-01'
 status: active
-pdf_path: legal_docs\01_vbpl\nghi_dinh_193_2026_nd_cp\sources\nghi_dinh_193_2026_nd_cp.pdf
+pdf_path: legal_docs/01_vbpl/nghi_dinh_193_2026_nd_cp/sources/nghi_dinh_193_2026_nd_cp.pdf
 pdf_sha256: 66c91e4659f294ca57654e398b6cb158fb7c55d2cd140b7019a341d8e02c9c65
 pdf_status: verified
 legal_basis:
