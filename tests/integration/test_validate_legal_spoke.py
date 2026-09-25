@@ -149,3 +149,96 @@ standards:
     validator._validate_legal_validity_and_in_force()
     assert any("TCVN-3890-2023" in err and "strictly banned from status: active" in err for err in validator.errors)
 
+
+def test_gate_1_detects_windows_backslashes_in_registry_paths(tmp_path: Path) -> None:
+    """Gate 1 must raise Registry Format Error if any path field contains Windows backslash."""
+    registry_path = tmp_path / "legal_registry.yaml"
+    registry_content = r"""version: 0.2.0
+laws:
+  - id: test_backslash_doc
+    title: Test Backslash Doc
+    bundle_path: legal_docs\01_vbpl\test_backslash_doc
+    pdf_path: legal_docs\01_vbpl\test_backslash_doc\sources\test.pdf
+    raw_scan_pdf: legal_docs\01_vbpl\test_backslash_doc\sources\test_raw_scan.pdf
+    source_file: legal_docs\01_vbpl\test_backslash_doc\sources\test.docx
+    source_assets:
+      docx:
+        vault_path: CCBA_Legal_Vault\01_vbpl\test_backslash_doc\test.docx
+"""
+    registry_path.write_text(registry_content, encoding="utf-8")
+    validator = LegalSpokeValidator(tmp_path)
+    errors, warnings = validator.validate_registry()
+    assert errors >= 5
+    format_errors = [e for e in validator.errors if "Registry Format Error" in e]
+    assert any("bundle_path" in e for e in format_errors)
+    assert any("pdf_path" in e for e in format_errors)
+    assert any("raw_scan_pdf" in e for e in format_errors)
+    assert any("source_file" in e for e in format_errors)
+    assert any("vault_path" in e for e in format_errors)
+
+
+def test_gate_1_warns_on_missing_files_on_disk(tmp_path: Path) -> None:
+    """Gate 1 must issue Registry Warning when declared files do not exist on disk."""
+    registry_path = tmp_path / "legal_registry.yaml"
+    registry_content = """version: 0.2.0
+spoke_name: ccba-legal-knowledge
+registry_summary:
+  total_documents: 1
+laws:
+  - id: test_missing_files
+    title: Test Missing Files
+    bundle_path: legal_docs/01_vbpl/test_missing_files
+    pdf_path: legal_docs/01_vbpl/test_missing_files/sources/test.pdf
+    raw_scan_pdf: legal_docs/01_vbpl/test_missing_files/sources/test_raw_scan.pdf
+    source_file: legal_docs/01_vbpl/test_missing_files/sources/test.docx
+    pdf_status: verified
+"""
+    registry_path.write_text(registry_content, encoding="utf-8")
+    validator = LegalSpokeValidator(tmp_path)
+    errors, warnings = validator.validate_registry()
+    assert errors == 0
+    assert warnings >= 3
+    warn_texts = [w for w in validator.warnings if "Registry Warning [test_missing_files]" in w]
+    assert any("pdf_path" in w for w in warn_texts)
+    assert any("raw_scan_pdf" in w for w in warn_texts)
+    assert any("source_file" in w for w in warn_texts)
+
+
+def test_gate_1_suppresses_missing_pdf_warning_when_pending_download(tmp_path: Path) -> None:
+    """Gate 1 must suppress missing pdf warning when pdf_status is pending_download."""
+    registry_path = tmp_path / "legal_registry.yaml"
+    registry_content = """version: 0.2.0
+spoke_name: ccba-legal-knowledge
+registry_summary:
+  total_documents: 1
+laws:
+  - id: test_pending_doc
+    title: Test Pending Doc
+    bundle_path: legal_docs/04_appendices/test_pending_doc
+    pdf_path: legal_docs/04_appendices/test_pending_doc/test.pdf
+    pdf_status: pending_download
+"""
+    registry_path.write_text(registry_content, encoding="utf-8")
+    bundle_dir = tmp_path / "legal_docs" / "04_appendices" / "test_pending_doc"
+    bundle_dir.mkdir(parents=True)
+    validator = LegalSpokeValidator(tmp_path)
+    errors, warnings = validator.validate_registry()
+    assert errors == 0
+    assert not any("pdf_path" in w for w in validator.warnings)
+
+
+def test_gate_2_detects_windows_backslashes_in_bundle_metadata(tmp_path: Path) -> None:
+    """Gate 2 must flag OKF Metadata Format Error if bundle metadata.yaml has backslashes."""
+    bundle_dir = tmp_path / "legal_docs" / "01_vbpl" / "test_bundle"
+    bundle_dir.mkdir(parents=True)
+    (bundle_dir / "index.md").write_text("# Test", encoding="utf-8")
+    (bundle_dir / "sources").mkdir()
+    metadata_content = r"pdf_path: legal_docs\01_vbpl\test_bundle\sources\test.pdf"
+    (bundle_dir / "metadata.yaml").write_text(metadata_content, encoding="utf-8")
+
+    validator = LegalSpokeValidator(tmp_path)
+    errors, warnings = validator.validate_okf_bundles()
+    assert errors >= 1
+    assert any("OKF Metadata Format Error" in e and "pdf_path" in e for e in validator.errors)
+
+

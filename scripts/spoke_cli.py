@@ -31,7 +31,10 @@ ROOT_DIR = Path(__file__).resolve().parent.parent
 if str(ROOT_DIR) not in sys.path:
     sys.path.insert(0, str(ROOT_DIR))
 
-from ccba_legal import convert_docx_to_okf_bundle  # noqa: E402
+try:
+    from ccba_legal import convert_docx_to_okf_bundle  # noqa: E402
+except ImportError:
+    convert_docx_to_okf_bundle = None
 from scripts.validate_legal_spoke import LegalSpokeValidator  # noqa: E402
 
 
@@ -72,8 +75,11 @@ def get_spoke_stats(root_dir: Path) -> Dict[str, Any]:
                 pass
 
     total_tables = len(list(legal_docs_dir.glob("**/tables/csv/*.csv"))) if legal_docs_dir.exists() else 0
-    total_figures = len(list(legal_docs_dir.glob("**/figures/cards/*.md"))) if legal_docs_dir.exists() else 0
-    total_templates = len(list(legal_docs_dir.glob("**/templates/*.md"))) if legal_docs_dir.exists() else 0
+    total_figures = (
+        len(list(legal_docs_dir.glob("**/figures/cards/*.md")))
+        + len(list(legal_docs_dir.glob("**/figures/cards/*.json")))
+    ) if legal_docs_dir.exists() else 0
+    total_templates = len(list(legal_docs_dir.glob("**/templates/**/*.md"))) if legal_docs_dir.exists() else 0
 
     doc_count = 0
     categories_count: Dict[str, int] = {}
@@ -81,13 +87,24 @@ def get_spoke_stats(root_dir: Path) -> Dict[str, Any]:
         try:
             reg_data = yaml.safe_load(registry_file.read_text(encoding="utf-8"))
             if isinstance(reg_data, dict):
+                all_docs = []
                 laws = reg_data.get("laws", [])
                 if isinstance(laws, list):
-                    doc_count = len(laws)
-                    for doc in laws:
-                        if isinstance(doc, dict):
-                            doc_type = doc.get("type", "Khác")
-                            categories_count[doc_type] = categories_count.get(doc_type, 0) + 1
+                    all_docs.extend(laws)
+                standards = reg_data.get("standards", [])
+                if isinstance(standards, list):
+                    all_docs.extend(standards)
+                documents = reg_data.get("documents", {})
+                if isinstance(documents, dict):
+                    all_docs.extend(documents.values())
+                elif isinstance(documents, list):
+                    all_docs.extend(documents)
+
+                doc_count = len(all_docs)
+                for doc in all_docs:
+                    if isinstance(doc, dict):
+                        doc_type = doc.get("type", "Khác")
+                        categories_count[doc_type] = categories_count.get(doc_type, 0) + 1
         except (yaml.YAMLError, OSError):
             pass
 
@@ -670,6 +687,14 @@ def main() -> None:
             if k not in new_entry or not new_entry[k]:
                 new_entry[k] = v
 
+        for path_field in ["bundle_path", "pdf_path", "raw_scan_pdf", "source_file"]:
+            if path_field in new_entry and isinstance(new_entry[path_field], str):
+                new_entry[path_field] = new_entry[path_field].replace("\\", "/")
+
+        for asset_k, asset_v in new_entry.get("source_assets", {}).items():
+            if isinstance(asset_v, dict) and "vault_path" in asset_v and isinstance(asset_v["vault_path"], str):
+                asset_v["vault_path"] = asset_v["vault_path"].replace("\\", "/")
+
         if existing_idx >= 0:
             existing_entry = reg_data[section_key][existing_idx]
             # Preserve existing rich metadata if new entry only has fallback/mock defaults
@@ -691,6 +716,9 @@ def main() -> None:
                     if asset_k not in new_entry["source_assets"]:
                         new_entry["source_assets"][asset_k] = asset_v
             existing_entry.update(new_entry)
+            for path_field in ["bundle_path", "pdf_path", "raw_scan_pdf", "source_file"]:
+                if path_field in existing_entry and isinstance(existing_entry[path_field], str):
+                    existing_entry[path_field] = existing_entry[path_field].replace("\\", "/")
             doc_meta = existing_entry
         else:
             reg_data[section_key].append(new_entry)
@@ -698,15 +726,21 @@ def main() -> None:
 
         summary = reg_data.setdefault("registry_summary", {})
         cat_map = summary.setdefault("categories", {})
+        laws_list = reg_data.get("laws") or []
+        standards_list = reg_data.get("standards") or []
         cat_map[args.category] = sum(
-            1 for item in (reg_data.get("laws", []) + reg_data.get("standards", []))
+            1 for item in (laws_list + standards_list)
             if isinstance(item, dict) and f"/{args.category}/" in item.get("bundle_path", "")
         )
-        summary["total_documents"] = len(reg_data.get("laws", [])) + len(reg_data.get("standards", []))
+        summary["total_documents"] = len(laws_list) + len(standards_list)
         reg_data["updated_at"] = datetime.now(timezone.utc).isoformat()
 
         with open(registry_file, "w", encoding="utf-8") as f:
             yaml.dump(reg_data, f, allow_unicode=True, sort_keys=False, indent=2)
+
+        if convert_docx_to_okf_bundle is None:
+            print("[ERROR] ccba_legal is required for ingest. Please ensure ccba-legal-intel is installed.", file=sys.stderr)
+            sys.exit(1)
 
         res = convert_docx_to_okf_bundle(
             docx_path=input_docx,
@@ -732,5 +766,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
-

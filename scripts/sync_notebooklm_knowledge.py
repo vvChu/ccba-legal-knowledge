@@ -35,12 +35,17 @@ def get_canonical_manifest(
     if not REGISTRY_PATH.exists():
         raise FileNotFoundError(f"Không tìm thấy registry tại {REGISTRY_PATH}")
 
-    reg = yaml.safe_load(REGISTRY_PATH.read_text(encoding="utf-8"))
+    reg = yaml.safe_load(REGISTRY_PATH.read_text(encoding="utf-8")) or {}
     all_docs: list[dict[str, Any]] = []
-    if "laws" in reg:
+    if "laws" in reg and isinstance(reg["laws"], list):
         all_docs.extend(reg["laws"])
+    if "standards" in reg and isinstance(reg["standards"], list):
+        all_docs.extend(reg["standards"])
     if "documents" in reg:
-        all_docs.extend(reg["documents"].values())
+        if isinstance(reg["documents"], dict):
+            all_docs.extend(reg["documents"].values())
+        elif isinstance(reg["documents"], list):
+            all_docs.extend(reg["documents"])
 
     sources: list[dict[str, Any]] = []
     seen_paths: set[str] = set()
@@ -145,6 +150,26 @@ def get_canonical_manifest(
                         }
                     )
 
+            # 5. Bảng so sánh thay đổi VBHN đồng vị (In-Bundle Comparative Matrix - ADR 0036)
+            cmp_matrix = bundle_dir / "bang_so_sanh_thay_doi.md"
+            if cmp_matrix.exists() and str(cmp_matrix) not in seen_paths:
+                content = cmp_matrix.read_text(encoding="utf-8")
+                sha = hashlib.sha256(content.encode("utf-8")).hexdigest()
+                seen_paths.add(str(cmp_matrix))
+                sources.append(
+                    {
+                        "id": f"{slug}_bang_so_sanh_thay_doi",
+                        "title": f"Bảng So Sánh Thay Đổi ({slug})",
+                        "type": "Matrix Comparison",
+                        "category": bp.strip("/").split("/")[1] if len(bp.strip("/").split("/")) > 1 else "02_qcvn",
+                        "file_path": cmp_matrix,
+                        "rel_path": cmp_matrix.relative_to(root_dir),
+                        "size_bytes": cmp_matrix.stat().st_size,
+                        "word_count": len(content.split()),
+                        "sha256": sha,
+                    }
+                )
+
     # 4. Các Bảng so sánh đối chiếu quy chuẩn độc lập (Internal Matrix)
     legal_docs = root_dir / "legal_docs"
     if legal_docs.exists():
@@ -184,6 +209,7 @@ def print_manifest(sources: list[dict[str, Any]], ultra_full: bool = True) -> No
     normative_count = sum(1 for s in sources if s["type"] == "Normative Body")
     template_count = sum(1 for s in sources if s["type"] == "Atomic Form Template")
     table_count = sum(1 for s in sources if s["type"] == "Technical Table 2D")
+    annex_count = sum(1 for s in sources if s["type"] == "Technical Normative Annex")
     matrix_count = sum(1 for s in sources if s["type"] == "Matrix Comparison")
 
     print("=========================================================================================")
@@ -196,6 +222,7 @@ def print_manifest(sources: list[dict[str, Any]], ultra_full: bool = True) -> No
     print(f"    - Thân văn bản thuần khiết    : {normative_count} tệp")
     print(f"    - Biểu mẫu nguyên tử         : {template_count} tệp")
     print(f"    - Bảng tra cứu kỹ thuật 2D   : {table_count} tệp")
+    print(f"    - Phụ lục kỹ thuật quy phạm  : {annex_count} tệp")
     print(f"    - Bảng đối chiếu ma trận     : {matrix_count} tệp")
     print(f"  • Tổng dung lượng dữ liệu      : {total_bytes / (1024 * 1024):.2f} MB ({total_bytes:,} bytes)")
     print(f"  • Tổng khối lượng từ (Words)   : {total_words:,} words")

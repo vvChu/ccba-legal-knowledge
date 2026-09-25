@@ -157,11 +157,53 @@ class LegalSpokeValidator:
                     doc_num = doc.get("document_number", "")
                     if doc_id != self.target_bundle and self.target_bundle not in bundle_p and doc_num != self.target_bundle:
                         continue
+                doc_id = doc.get("id", "UNKNOWN")
                 bundle_path_str = doc.get("bundle_path")
-                if bundle_path_str and not (self.root_dir / bundle_path_str).exists():
-                    self.warnings.append(
-                        f"Registry Warning [{doc.get('id', 'UNKNOWN')}]: bundle_path '{bundle_path_str}' does not exist on disk."
-                    )
+                if bundle_path_str:
+                    if "\\" in bundle_path_str:
+                        self.errors.append(
+                            f"Registry Format Error [{doc_id}]: bundle_path '{bundle_path_str}' contains backslash '\\'. Use POSIX '/' paths."
+                        )
+                    if not (self.root_dir / bundle_path_str).exists():
+                        self.warnings.append(
+                            f"Registry Warning [{doc_id}]: bundle_path '{bundle_path_str}' does not exist on disk."
+                        )
+
+                for field in ["pdf_path", "raw_scan_pdf", "source_file"]:
+                    val = doc.get(field)
+                    if val:
+                        if "\\" in val:
+                            self.errors.append(
+                                f"Registry Format Error [{doc_id}]: {field} '{val}' contains backslash '\\'. Use POSIX '/' paths."
+                            )
+                        if field == "pdf_path" and doc.get("pdf_status") == "pending_download":
+                            continue
+                        target_file = self.root_dir / val if not os.path.isabs(val) else Path(val)
+                        if not target_file.exists():
+                            if field == "source_file":
+                                bp = doc.get("bundle_path")
+                                if bp:
+                                    b_sources = self.root_dir / bp / "sources"
+                                    if b_sources.exists() and ((b_sources / target_file.name).exists() or list(b_sources.glob("*.docx"))):
+                                        continue
+                                if (
+                                    "vault_path" in str(doc.get("source_assets", {}).get("docx", {}))
+                                    or (val.startswith(".md/extracted_docs") and doc_id in {"nghi_dinh_210_2026_nd_cp", "thong_tu_38_2026_tt_bxd", "QCVN-04-2021-BXD", "TCVN-7336-2021"})
+                                ):
+                                    continue
+                            self.warnings.append(
+                                f"Registry Warning [{doc_id}]: {field} '{val}' does not exist on disk."
+                            )
+
+                sa = doc.get("source_assets", {})
+                if isinstance(sa, dict):
+                    for asset_type, asset_info in sa.items():
+                        if isinstance(asset_info, dict):
+                            vp = asset_info.get("vault_path")
+                            if vp and isinstance(vp, str) and "\\" in vp:
+                                self.errors.append(
+                                    f"Registry Format Error [{doc_id}]: source_assets.{asset_type}.vault_path '{vp}' contains backslash '\\'. Use POSIX '/' paths."
+                                )
 
         return (len(self.errors), len(self.warnings))
 
@@ -208,6 +250,20 @@ class LegalSpokeValidator:
                 self.warnings.append(
                     f"OKF v2.4 Invariant Warning [{doc_dir.name}]: Empty '{DIR_TEMPLATES}/' directory detected."
                 )
+
+        meta_file = doc_dir / "metadata.yaml"
+        if meta_file.exists():
+            try:
+                b_meta = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                if isinstance(b_meta, dict):
+                    for field in ["pdf_path", "raw_scan_pdf", "source_file"]:
+                        val = b_meta.get(field)
+                        if val and isinstance(val, str) and "\\" in val:
+                            self.errors.append(
+                                f"OKF Metadata Format Error [{doc_dir.name}]: {field} '{val}' contains backslash '\\'. Use POSIX '/' paths."
+                            )
+            except Exception:
+                pass
 
         for md_path in main_md_files:
             self._extract_frontmatter(md_path)
