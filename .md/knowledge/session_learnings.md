@@ -16,6 +16,10 @@
   - Sử dụng Chromium CDP trên cổng `9222` độc lập với profile `~/.gemini/antigravity/chrome_vip`. Toàn bộ thao tác tải file DOCX/PDF bắt buộc đi qua giao thức `tab=7` và API tham số hóa TVPL.
 - **RULE-1.3 [Lưu Trữ Song Song Dual-PDF & Vault Drive — ADR 0043]**:
   - Bản scan mờ lưu thành `sources/<slug>_raw_scan.pdf`. Bản Vector PDF kết xuất từ Word COM lưu thành `sources/<slug>.pdf` kèm cờ `pdf_origin: docx_vector_rendered` trong `metadata.yaml`. Đồng bộ cả 2 lên Google Drive Vault `CCBA_Legal_Vault`.
+- **RULE-1.4 [Chuẩn Hóa Đường Dẫn POSIX Toàn Cầu — ADR 0035 & ADR 0036]**:
+  - 100% đường dẫn trong `legal_registry.yaml` và bundle `metadata.yaml` (`bundle_path`, `pdf_path`, `raw_scan_pdf`, `source_file`, `vault_path`) BẮT BUỘC dùng dấu gạch chéo thuận POSIX `/`, nghiêm cấm tuyệt đối dấu gạch chéo ngược Windows `\`.
+  - Mọi pipeline nạp văn bản (`spoke_cli.py ingest`) bắt buộc tự động chuẩn hóa qua `.replace("\\", "/")`.
+  - Gate 1 và Gate 2 trong `validate_legal_spoke.py` tự động kích hoạt lỗi định dạng `Registry Format Error` / `OKF Metadata Format Error` nếu phát hiện ký tự `\`.
 
 ---
 
@@ -42,6 +46,9 @@
   - Tách các biểu mẫu hành chính nguyên tử sang thư mục `templates/`, cấm để thư mục `templates/` rỗng.
 - **RULE-3.3 [Định Danh Bảng Quy Chuẩn Đa Phần — ADR 0044]**:
   - Văn bản có nhiều phần (QCVN 07) bắt buộc bảng phải mang tiền tố mã định danh (ví dụ `bang_p01_01.csv`) và khai báo `part_id` trong `tables_catalog.json`.
+- **RULE-3.4 [Thu Thập & Đếm Biểu Mẫu Hành Chính Đệ Quy — ADR 0021, ADR 0028 & ADR 0036]**:
+  - Biểu mẫu hành chính nguyên tử được phép tổ chức theo thư mục con phụ lục (ví dụ `templates/phu_luc_iv/*.md`) theo đặc tả ADR 0028.
+  - Mọi công cụ đếm hoặc lập manifest (`spoke_cli.py`, `sync_notebooklm_knowledge.py`, `validate_legal_spoke.py`) BẮT BUỘC sử dụng quét đệ quy (`glob("**/templates/**/*.md")` hoặc `rglob("*.md")`) để bảo toàn 100% biểu mẫu (mốc kiểm chuẩn 128 templates tại PR #16).
 
 ---
 
@@ -61,13 +68,13 @@
 
 ---
 
-## Miền 5. 🛡️ Hệ Thống Kiểm Định CI 12 Cổng & Hiệu Lực Pháp Lý Tuyệt Đối (CI Gates & Legal Governance)
+## Miền 5. 🛡️ Hệ Thống Kiểm Định CI 15 Cổng & Hiệu Lực Pháp Lý Tuyệt Đối (CI Gates & Legal Governance)
 
 - **RULE-5.1 [Rào Chắn Hiệu Lực Pháp Lý Tuyệt Đối — Từ 01/07/2026]**:
   - Mọi văn bản pháp luật viện dẫn BẮT BUỘC ĐANG CÓ HIỆU LỰC.
   - VĂN BẢN HIỆN HÀNH: **Luật Xây dựng 2025** (Luật số `135/2025/QH15`), **Nghị định 217/2026/NĐ-CP** (Quản lý Hoạt động Xây dựng — thay thế NĐ 175/2024 & NĐ 15/2021), **Nghị định 207/2026/NĐ-CP** (Quản lý Chất lượng & Bảo trì — thay thế NĐ 06/2021).
-- **RULE-5.2 [12 Cổng Kiểm Định Nghiệm Thu Master CI Gate — ADR 0058]**:
+- **RULE-5.2 [15 Cổng Kiểm Định Nghiệm Thu Master CI Gate — ADR 0058]**:
   - Thực thi tự động: `python scripts/validate_legal_spoke.py`.
-  - Tiêu chuẩn nghiệm thu 100%: 0 Errors, 0 Warnings, 100% Visual Parity, 100% Verbatim Match, 100% Valid Links, 100% PDF SHA-256 Match, 100% SVG/Cards Integrity.
+  - Tiêu chuẩn nghiệm thu 100%: 0 Errors, 0 Warnings, 100% Visual Parity, 100% Verbatim Match, 100% Valid Links, 100% PDF SHA-256 Match, 100% SVG/Cards Integrity, 100% 2D Regularity, 100% KaTeX Math Integrity, 100% OKF Provenance Attestation.
 - **RULE-5.3 [Single-User Multi-Device & Machine-State Decoupling]**:
   - Khi clone Spoke về nhiều máy (Windows, Linux, WSL), CẤM commit đường dẫn ổ đĩa tuyệt đối vào `workspace_context.yaml`. Đường dẫn Hub cô lập qua biến môi trường `CCBA_HUB_PATH`.
