@@ -1,0 +1,3926 @@
+[
+  {
+    "clause_id": "dieu-1",
+    "anchor": "dieu-1",
+    "title": "Điều 1. Phạm vi điều chỉnh",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 31,
+    "line_end": 34
+  },
+  {
+    "clause_id": "dieu-1-khoan-1",
+    "anchor": "dieu-1-khoan-1",
+    "title": "1. Quy định chi tiết một số điều của Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 36,
+    "line_end": 59
+  },
+  {
+    "clause_id": "dieu-1-khoan-2",
+    "anchor": "dieu-1-khoan-2",
+    "title": "2. Quy định chi tiết điểm b khoản 1 và khoản 9 Điều 126 của Luật Đất đai về lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 61,
+    "line_end": 62
+  },
+  {
+    "clause_id": "dieu-1-khoan-3",
+    "anchor": "dieu-1-khoan-3",
+    "title": "3. Các biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất, gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 64,
+    "line_end": 69
+  },
+  {
+    "clause_id": "dieu-1-khoan-4",
+    "anchor": "dieu-1-khoan-4",
+    "title": "4. Điều kiện về năng lực, kinh nghiệm của thành viên tổ chuyên gia, tổ thẩm định; kết nối, chia sẻ thông tin giữa Hệ thống mạng đấu thầu quốc gia với các hệ thống thông tin khác; xử lý vi phạm trong hoạt động đấu thầu thực hiện theo quy định tương ứng tại các Điều 19, 96 và 125 Nghị định số 24/2024/NĐ-CP ngày 27 tháng 02 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 71,
+    "line_end": 72
+  },
+  {
+    "clause_id": "dieu-2",
+    "anchor": "dieu-2",
+    "title": "Điều 2. Đối tượng áp dụng",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 75,
+    "line_end": 76
+  },
+  {
+    "clause_id": "dieu-2-khoan-1",
+    "anchor": "dieu-2-khoan-1",
+    "title": "1. Tổ chức, cá nhân tham gia hoặc có liên quan đến hoạt động lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất quy định tại Điều 4 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 78,
+    "line_end": 79
+  },
+  {
+    "clause_id": "dieu-2-khoan-2",
+    "anchor": "dieu-2-khoan-2",
+    "title": "2. Tổ chức, cá nhân có hoạt động đấu thầu không thuộc các trường hợp quy định tại Điều 4 của Nghị định này được chọn áp dụng Luật Đấu thầu theo quy định tại khoản 4 Điều 2 của Luật Đấu thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 81,
+    "line_end": 82
+  },
+  {
+    "clause_id": "dieu-3",
+    "anchor": "dieu-3",
+    "title": "Điều 3. Giải thích từ ngữ",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 85,
+    "line_end": 88
+  },
+  {
+    "clause_id": "dieu-3-khoan-1",
+    "anchor": "dieu-3-khoan-1",
+    "title": "1. Bảng theo dõi tiến độ thực hiện các hoạt động lựa chọn nhà đầu tư là bảng trình bày thông tin về thời gian thực hiện các công việc trong quá trình lựa chọn nhà đầu tư, làm cơ sở để tiến hành lựa chọn nhà đầu tư theo quy định tại khoản 3 Điều 49 của Luật Đấu thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 90,
+    "line_end": 91
+  },
+  {
+    "clause_id": "dieu-3-khoan-2",
+    "anchor": "dieu-3-khoan-2",
+    "title": "2. Bên mời quan tâm là cơ quan, đơn vị thuộc bộ, cơ quan ngang bộ; cơ quan chuyên môn, cơ quan, đơn vị trực thuộc Ủy ban nhân dân cấp tỉnh; cơ quan, đơn vị trực thuộc Ban Quản lý khu kinh tế (đối với dự án thực hiện tại khu kinh tế) hoặc cơ quan khác theo quy định của pháp luật quản lý ngành, lĩnh vực; Ủy ban nhân dân cấp huyện được giao thực hiện thủ tục mời quan tâm.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 93,
+    "line_end": 94
+  },
+  {
+    "clause_id": "dieu-3-khoan-3",
+    "anchor": "dieu-3-khoan-3",
+    "title": "3. Cơ quan có thẩm quyền là cơ quan chấp thuận chủ trương đầu tư theo quy định của pháp luật về đầu tư hoặc cơ quan quyết định tổ chức đấu thầu lựa chọn nhà đầu tư. Đối với dự án thuộc thẩm quyền chấp thuận chủ trương đầu tư của Quốc hội, Thủ tướng Chính phủ, cơ quan có thẩm quyền là cơ quan quyết định tổ chức đấu thầu lựa chọn nhà đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 96,
+    "line_end": 97
+  },
+  {
+    "clause_id": "dieu-3-khoan-4",
+    "anchor": "dieu-3-khoan-4",
+    "title": "4. Cơ quan quyết định tổ chức đấu thầu lựa chọn nhà đầu tư gồm bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh, Ban quản lý khu kinh tế, cơ quan khác theo quy định của pháp luật quản lý ngành, lĩnh vực.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 99,
+    "line_end": 100
+  },
+  {
+    "clause_id": "dieu-3-khoan-5",
+    "anchor": "dieu-3-khoan-5",
+    "title": "5. Tổng vốn đầu tư gồm sơ bộ tổng chi phí thực hiện dự án, chi phí bồi thường, hỗ trợ, tái định cư (nếu có) và chi phí khác theo quy định của pháp luật quản lý ngành, lĩnh vực (nếu có).",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 102,
+    "line_end": 103
+  },
+  {
+    "clause_id": "dieu-4",
+    "anchor": "dieu-4",
+    "title": "Điều 4. Dự án đầu tư có sử dụng đất thuộc trường hợp phải tổ chức đấu thầu lựa chọn nhà đầu tư theo quy định của pháp luật về đất đai",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 106,
+    "line_end": 107
+  },
+  {
+    "clause_id": "dieu-4-khoan-1",
+    "anchor": "dieu-4-khoan-1",
+    "title": "1. Dự án đầu tư có sử dụng đất quy định tại điểm a khoản 1 Điều 126 của Luật Đất đai.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 109,
+    "line_end": 110
+  },
+  {
+    "clause_id": "dieu-4-khoan-2",
+    "anchor": "dieu-4-khoan-2",
+    "title": "2. Dự án đầu tư có sử dụng đất quy định tại điểm b khoản 1 Điều 126 của Luật Đất đai gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 112,
+    "line_end": 133
+  },
+  {
+    "clause_id": "dieu-4-khoan-3",
+    "anchor": "dieu-4-khoan-3",
+    "title": "3. Quỹ đất dự kiến thực hiện dự án quy định tại khoản 1 và khoản 2 Điều này phải đáp ứng đầy đủ các điều kiện sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 135,
+    "line_end": 140
+  },
+  {
+    "clause_id": "dieu-5",
+    "anchor": "dieu-5",
+    "title": "Điều 5. Bảo đảm cạnh tranh",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 143,
+    "line_end": 144
+  },
+  {
+    "clause_id": "dieu-5-khoan-1",
+    "anchor": "dieu-5-khoan-1",
+    "title": "1. Kể từ ngày phát hành hồ sơ mời quan tâm, nhà đầu tư nộp hồ sơ đăng ký thực hiện dự án đầu tư có sử dụng đất phải độc lập về pháp lý và độc lập về tài chính với các bên sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 146,
+    "line_end": 155
+  },
+  {
+    "clause_id": "dieu-5-khoan-2",
+    "anchor": "dieu-5-khoan-2",
+    "title": "2. Kể từ ngày phát hành hồ sơ mời thầu, nhà đầu tư tham dự thầu không có cổ phần hoặc phần vốn góp với nhà thầu tư vấn sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 157,
+    "line_end": 164
+  },
+  {
+    "clause_id": "dieu-5-khoan-3",
+    "anchor": "dieu-5-khoan-3",
+    "title": "3. Kể từ ngày phát hành hồ sơ mời quan tâm, hồ sơ mời thầu, nhà đầu tư nộp hồ sơ đăng ký thực hiện dự án, nhà đầu tư tham dự thầu được đánh giá là độc lập về pháp lý và độc lập về tài chính với cơ quan có thẩm quyền, bên mời thầu, bên mời quan tâm khi không có tỷ lệ sở hữu vốn trên 50% cổ phần, tổng số cổ phần có quyền biểu quyết, phần vốn góp của nhau. Trường hợp nhà đầu tư nộp hồ sơ đăng ký thực hiện dự án, tham dự thầu với tư cách liên danh, tỷ lệ sở hữu vốn được xác định theo công thức sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 166,
+    "line_end": 175
+  },
+  {
+    "clause_id": "dieu-5-khoan-4",
+    "anchor": "dieu-5-khoan-4",
+    "title": "4. Kể từ ngày phát hành hồ sơ mời quan tâm, hồ sơ mời thầu, nhà đầu tư nộp hồ sơ đăng ký thực hiện dự án, nhà đầu tư tham dự thầu và nhà thầu tư vấn quy định tại khoản 1, khoản 2 Điều này không cùng có tỷ lệ sở hữu vốn trên 30% cổ phần, tổng số cổ phần có quyền biểu quyết, phần vốn góp của một tổ chức, cá nhân khác đối với từng bên. Trường hợp nhà đầu tư liên danh, nhà thầu tư vấn liên danh, tỷ lệ sở hữu vốn được xác định như sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 177,
+    "line_end": 198
+  },
+  {
+    "clause_id": "dieu-5-khoan-5",
+    "anchor": "dieu-5-khoan-5",
+    "title": "5. Đối với nhà đầu tư được tổ chức theo mô hình công ty mẹ, công ty con theo quy định của pháp luật về doanh nghiệp nộp hồ sơ đăng ký thực hiện dự án, tham dự thầu dự án đầu tư có sử dụng đất:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 200,
+    "line_end": 205
+  },
+  {
+    "clause_id": "dieu-5-khoan-6",
+    "anchor": "dieu-5-khoan-6",
+    "title": "6. Việc xác định tỷ lệ sở hữu vốn giữa các bên căn cứ theo tỷ lệ ghi trong Giấy chứng nhận đăng ký doanh nghiệp, quyết định thành lập, các giấy tờ khác có giá trị tương đương.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 207,
+    "line_end": 208
+  },
+  {
+    "clause_id": "dieu-6",
+    "anchor": "dieu-6",
+    "title": "Điều 6. Ưu đãi trong lựa chọn nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 211,
+    "line_end": 212
+  },
+  {
+    "clause_id": "dieu-6-khoan-1",
+    "anchor": "dieu-6-khoan-1",
+    "title": "1. Đối tượng được hưởng ưu đãi và mức ưu đãi:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 214,
+    "line_end": 219
+  },
+  {
+    "clause_id": "dieu-6-khoan-2",
+    "anchor": "dieu-6-khoan-2",
+    "title": "2. Khi tham dự thầu, nhà đầu tư phải nộp các tài liệu chứng minh giải pháp ứng dụng công nghệ tiên tiến, công nghệ cao, công nghệ thân thiện với môi trường, kỹ thuật hiện có tốt nhất, quyền sử dụng hợp pháp công nghệ theo quy định của pháp luật về công nghệ cao, chuyển giao công nghệ, bảo vệ môi trường, pháp luật khác có liên quan để được hưởng ưu đãi quy định tại khoản 1 Điều này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 221,
+    "line_end": 222
+  },
+  {
+    "clause_id": "dieu-6-khoan-3",
+    "anchor": "dieu-6-khoan-3",
+    "title": "3. Cách tính ưu đãi:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 224,
+    "line_end": 237
+  },
+  {
+    "clause_id": "dieu-6-khoan-4",
+    "anchor": "dieu-6-khoan-4",
+    "title": "4. Nhà đầu tư thuộc đối tượng ưu đãi quy định tại khoản 1 Điều này được lựa chọn ký kết hợp đồng phải thực hiện theo đúng cam kết trong hồ sơ dự thầu, hợp đồng dự án đầu tư có sử dụng đất.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 239,
+    "line_end": 240
+  },
+  {
+    "clause_id": "dieu-7",
+    "anchor": "dieu-7",
+    "title": "Điều 7. Quản lý chi phí, nguồn thu trong lựa chọn nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 243,
+    "line_end": 244
+  },
+  {
+    "clause_id": "dieu-7-khoan-1",
+    "anchor": "dieu-7-khoan-1",
+    "title": "1. Định mức chi phí lựa chọn nhà đầu tư áp dụng đối với trường hợp cơ quan có thẩm quyền, bên mời quan tâm, bên mời thầu, tổ thẩm định trực tiếp thực hiện:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 246,
+    "line_end": 255
+  },
+  {
+    "clause_id": "dieu-7-khoan-2",
+    "anchor": "dieu-7-khoan-2",
+    "title": "2. Cơ quan có thẩm quyền, bên mời quan tâm, bên mời thầu, tổ thẩm định được thuê tư vấn để thực hiện các công việc quy định tại khoản 1 Điều này trong trường hợp nhân sự của mình không đủ năng lực để thực hiện. Trong trường hợp này, chi phí lựa chọn nhà đầu tư được áp dụng như sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 257,
+    "line_end": 262
+  },
+  {
+    "clause_id": "dieu-7-khoan-3",
+    "anchor": "dieu-7-khoan-3",
+    "title": "3. Nội dung chi áp dụng đối với trường hợp cơ quan có thẩm quyền, bên mời quan tâm, bên mời thầu, tổ thẩm định trực tiếp thực hiện:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 264,
+    "line_end": 275
+  },
+  {
+    "clause_id": "dieu-7-khoan-4",
+    "anchor": "dieu-7-khoan-4",
+    "title": "4. Chi phí trong lựa chọn nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia được áp dụng theo quy định tương ứng tại điểm a khoản 11 Điều 12 của Nghị định số 24/2024/NĐ-CP ngày 27 tháng 02 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu. Chi phí nộp hồ sơ dự thầu, chi phí đối với nhà đầu tư trúng thầu và chi phí kết nối chức năng bảo lãnh dự thầu trên Hệ thống mạng đấu thầu quốc gia thực hiện theo lộ trình áp dụng lựa chọn nhà đầu tư qua mạng quy định tại Điều 62 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 277,
+    "line_end": 278
+  },
+  {
+    "clause_id": "dieu-7-khoan-5",
+    "anchor": "dieu-7-khoan-5",
+    "title": "5. Nguồn kinh phí thanh toán cho các khoản chi tại các khoản 1, 2 và 3 Điều này được sử dụng từ nguồn chi thường xuyên của cơ quan có thẩm quyền, bên mời quan tâm, bên mời thầu, tổ thẩm định.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 280,
+    "line_end": 281
+  },
+  {
+    "clause_id": "dieu-7-khoan-6",
+    "anchor": "dieu-7-khoan-6",
+    "title": "6. Căn cứ lập dự toán các khoản chi gồm: Quyết định chấp thuận chủ trương đầu tư hoặc văn bản phê duyệt thông tin dự án đầu tư có sử dụng đất; chính sách, chế độ theo quy định của pháp luật hiện hành tương ứng.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 283,
+    "line_end": 284
+  },
+  {
+    "clause_id": "dieu-7-khoan-7",
+    "anchor": "dieu-7-khoan-7",
+    "title": "7. Việc lập, phê duyệt, chấp hành dự toán các khoản chi lựa chọn nhà đầu tư quy định tại các khoản 1, 2 và 3 Điều này thực hiện theo quy định của pháp luật về lập, phê duyệt, chấp hành dự toán chi thường xuyên nguồn ngân sách nhà nước, gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 286,
+    "line_end": 293
+  },
+  {
+    "clause_id": "dieu-7-khoan-8",
+    "anchor": "dieu-7-khoan-8",
+    "title": "8. Quản lý chi lựa chọn nhà đầu tư:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 295,
+    "line_end": 300
+  },
+  {
+    "clause_id": "dieu-7-khoan-9",
+    "anchor": "dieu-7-khoan-9",
+    "title": "9. Quản lý nguồn thu lựa chọn nhà đầu tư:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 302,
+    "line_end": 307
+  },
+  {
+    "clause_id": "dieu-8",
+    "anchor": "dieu-8",
+    "title": "Điều 8. Chi phí giải quyết kiến nghị của nhà đầu tư về kết quả lựa chọn nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 310,
+    "line_end": 311
+  },
+  {
+    "clause_id": "dieu-8-khoan-1",
+    "anchor": "dieu-8-khoan-1",
+    "title": "1. Trường hợp có kiến nghị về kết quả lựa chọn nhà đầu tư do người có thẩm quyền giải quyết, nhà đầu tư có trách nhiệm nộp kinh phí giải quyết kiến nghị cho bộ phận thường trực giúp việc của Hội đồng tư vấn giải quyết kiến nghị (sau đây gọi là Hội đồng tư vấn) theo quy định tại điểm đ khoản 2 Điều 90 Luật Đấu thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 313,
+    "line_end": 314
+  },
+  {
+    "clause_id": "dieu-8-khoan-2",
+    "anchor": "dieu-8-khoan-2",
+    "title": "2. Mức chi phí nhà đầu tư nộp cho Hội đồng tư vấn quy định tại khoản 1 Điều này được tính bằng 0,02% tổng vốn đầu tư dự án của nhà đầu tư có kiến nghị nhưng không quá 200.000.000 (hai trăm triệu) đồng. Trong quá trình kiến nghị, nhà đầu tư rút đơn kiến nghị thì chỉ được nhận lại 50% chi phí đã nộp trong trường hợp chưa thành lập Hội đồng tư vấn hoặc đã thành lập Hội đồng tư vấn nhưng chưa tổ chức họp hội đồng; trường hợp Hội đồng tư vấn đã tổ chức họp hội đồng thì nhà đầu tư không được hoàn trả lại chi phí giải quyết kiến nghị.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 316,
+    "line_end": 319
+  },
+  {
+    "clause_id": "dieu-8-khoan-3",
+    "anchor": "dieu-8-khoan-3",
+    "title": "3. Bộ phận thường trực giúp việc của Hội đồng tư vấn lập và trình Chủ tịch Hội đồng tư vấn phê duyệt dự toán chi giải quyết kiến nghị của nhà đầu tư theo từng vụ việc.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 321,
+    "line_end": 322
+  },
+  {
+    "clause_id": "dieu-8-khoan-4",
+    "anchor": "dieu-8-khoan-4",
+    "title": "4. Dự toán chi do Chủ tịch Hội đồng tư vấn phê duyệt quy định tại khoản 3 Điều này không vượt mức kinh phí do nhà đầu tư có kiến nghị nộp theo quy định tại khoản 2 Điều này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 324,
+    "line_end": 325
+  },
+  {
+    "clause_id": "dieu-8-khoan-5",
+    "anchor": "dieu-8-khoan-5",
+    "title": "5. Chủ tịch Hội đồng tư vấn quyết định mức khoán chi theo dự toán đã được phê duyệt cho các thành viên Hội đồng tư vấn, bộ phận thường trực giúp việc của Hội đồng tư vấn và các khoản chi khác để giải quyết kiến nghị. Chi thù lao cho thành viên Hội đồng tư vấn giải quyết kiến nghị là công chức, viên chức thực hiện theo quy định của pháp luật.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 327,
+    "line_end": 328
+  },
+  {
+    "clause_id": "dieu-8-khoan-6",
+    "anchor": "dieu-8-khoan-6",
+    "title": "6. Bộ phận thường trực giúp việc của Hội đồng tư vấn có trách nhiệm chi giải quyết kiến nghị theo dự toán được Chủ tịch Hội đồng tư vấn phê duyệt.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 330,
+    "line_end": 331
+  },
+  {
+    "clause_id": "dieu-8-khoan-7",
+    "anchor": "dieu-8-khoan-7",
+    "title": "7. Kết thúc giải quyết kiến nghị, Chủ tịch Hội đồng tư vấn có trách nhiệm xác nhận phần kinh phí đã thực chi. Trường hợp kinh phí đã thực chi ít hơn kinh phí nhà đầu tư nộp cho Hội đồng tư vấn, bộ phận thường trực giúp việc của Hội đồng tư vấn có trách nhiệm hoàn trả cho nhà đầu tư có kiến nghị trong thời hạn 07 ngày kể từ ngày Chủ tịch Hội đồng tư vấn xác nhận phần kinh phí đã thực chi.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 333,
+    "line_end": 334
+  },
+  {
+    "clause_id": "dieu-8-khoan-8",
+    "anchor": "dieu-8-khoan-8",
+    "title": "8. Trường hợp kiến nghị của nhà đầu tư được kết luận là đúng, văn bản giải quyết kiến nghị về kết quả lựa chọn nhà đầu tư phải nêu rõ nhà đầu tư có kiến nghị được nhận lại chi phí giải quyết kiến nghị đã nộp. Bộ phận thường trực giúp việc Hội đồng tư vấn có văn bản yêu cầu bên mời thầu hoàn trả cho nhà đầu tư mức kinh phí bằng số tiền mà nhà đầu tư có kiến nghị đã nộp trừ đi số tiền bộ phận thường trực giúp việc của Hội đồng tư vấn đã hoàn trả theo quy định tại khoản 7 Điều này (nếu có).",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 336,
+    "line_end": 337
+  },
+  {
+    "clause_id": "dieu-8-khoan-9",
+    "anchor": "dieu-8-khoan-9",
+    "title": "9. Nguồn kinh phí để hoàn trả cho nhà đầu tư theo văn bản giải quyết kiến nghị về kết quả lựa chọn nhà đầu tư được quy định như sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 339,
+    "line_end": 344
+  },
+  {
+    "clause_id": "dieu-8-khoan-10",
+    "anchor": "dieu-8-khoan-10",
+    "title": "10. Tổ chức, cá nhân vi phạm theo quyết định giải quyết kiến nghị về kết quả lựa chọn nhà đầu tư của cấp có thẩm quyền có trách nhiệm bồi thường cho bên mời thầu theo quy định của pháp luật.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 346,
+    "line_end": 347
+  },
+  {
+    "clause_id": "dieu-9",
+    "anchor": "dieu-9",
+    "title": "Điều 9. Quy trình, thủ tục lựa chọn nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 350,
+    "line_end": 351
+  },
+  {
+    "clause_id": "dieu-9-khoan-1",
+    "anchor": "dieu-9-khoan-1",
+    "title": "1. Đối với dự án áp dụng hình thức đấu thầu rộng rãi, đấu thầu hạn chế theo phương thức một giai đoạn một túi hồ sơ quy định tại khoản 1 Điều 35 của Luật Đấu thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 353,
+    "line_end": 366
+  },
+  {
+    "clause_id": "dieu-9-khoan-2",
+    "anchor": "dieu-9-khoan-2",
+    "title": "2. Đối với dự án yêu cầu công trình kiến trúc có giá trị theo quy định của pháp luật về kiến trúc, áp dụng hình thức đấu thầu rộng rãi theo phương thức một giai đoạn hai túi hồ sơ quy định tại khoản 2 Điều 35 của Luật Đấu thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 368,
+    "line_end": 383
+  },
+  {
+    "clause_id": "dieu-9-khoan-3",
+    "anchor": "dieu-9-khoan-3",
+    "title": "3. Đối với dự án có yêu cầu đặc thù phát triển kinh tế, xã hội của ngành, vùng, địa phương nhưng chưa xác định được cụ thể tiêu chuẩn về kỹ thuật, xã hội, môi trường, áp dụng hình thức đấu thầu rộng rãi theo phương thức hai giai đoạn một túi hồ sơ quy định tại khoản 3 Điều 35 của Luật Đấu thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 385,
+    "line_end": 400
+  },
+  {
+    "clause_id": "dieu-9-khoan-4",
+    "anchor": "dieu-9-khoan-4",
+    "title": "4. Đối với dự án phải xác định số lượng nhà đầu tư quan tâm quy định tại khoản 2 Điều 46 của Luật Đấu thầu và các điểm e, g, h, i và k khoản 2 Điều 4 của Nghị định này:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 402,
+    "line_end": 409
+  },
+  {
+    "clause_id": "dieu-9-khoan-5",
+    "anchor": "dieu-9-khoan-5",
+    "title": "5. Quy trình lựa chọn nhà đầu tư được hướng dẫn chi tiết tại Phụ lục I ban hành kèm theo Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 411,
+    "line_end": 412
+  },
+  {
+    "clause_id": "dieu-10",
+    "anchor": "dieu-10",
+    "title": "Điều 10. Công bố dự án đầu tư có sử dụng đất đối với dự án thuộc diện chấp thuận chủ trương đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 425,
+    "line_end": 426
+  },
+  {
+    "clause_id": "dieu-10-khoan-1",
+    "anchor": "dieu-10-khoan-1",
+    "title": "1. Căn cứ danh mục các khu đất thực hiện đấu thầu dự án đầu tư có sử dụng đất được Hội đồng nhân dân cấp tỉnh quyết định, cơ quan nhà nước có thẩm quyền theo quy định của pháp luật về đầu tư hoặc nhà đầu tư lập hồ sơ đề nghị chấp thuận chủ trương đầu tư làm cơ sở thực hiện thủ tục chấp thuận chủ trương đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 428,
+    "line_end": 429
+  },
+  {
+    "clause_id": "dieu-10-khoan-2",
+    "anchor": "dieu-10-khoan-2",
+    "title": "2. Cơ quan có thẩm quyền tạo lập, phân quyền tài khoản nghiệp vụ cho cơ quan, đơn vị trực thuộc, cơ quan chuyên môn để đăng tải quyết định chấp thuận chủ trương đầu tư trên Hệ thống mạng đấu thầu quốc gia theo quy định tại điểm a khoản 2 Điều 47 của Luật Đấu thầu trong thời hạn chậm nhất là 05 ngày làm việc kể từ ngày quyết định chấp thuận chủ trương đầu tư dự án.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 431,
+    "line_end": 432
+  },
+  {
+    "clause_id": "dieu-11",
+    "anchor": "dieu-11",
+    "title": "Điều 11. Công bố dự án đầu tư có sử dụng đất đối với dự án không thuộc diện chấp thuận chủ trương đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 435,
+    "line_end": 436
+  },
+  {
+    "clause_id": "dieu-11-khoan-1",
+    "anchor": "dieu-11-khoan-1",
+    "title": "1. Đối với dự án do cơ quan có thẩm quyền tổ chức thực hiện:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 438,
+    "line_end": 445
+  },
+  {
+    "clause_id": "dieu-11-khoan-2",
+    "anchor": "dieu-11-khoan-2",
+    "title": "2. Nhà đầu tư được đề xuất thực hiện dự án đầu tư có sử dụng đất ngoài dự án đã được phê duyệt và công bố theo quy định tại khoản 1 Điều này, trừ trường hợp pháp luật quản lý ngành, lĩnh vực quy định nhà đầu tư không được đề xuất thực hiện dự án. Nội dung hồ sơ đề xuất dự án, trình tự, thủ tục lập hồ sơ đề xuất dự án, phê duyệt thông tin dự án thực hiện như sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 447,
+    "line_end": 460
+  },
+  {
+    "clause_id": "dieu-12",
+    "anchor": "dieu-12",
+    "title": "Điều 12. Lập, phê duyệt bảng theo dõi tiến độ thực hiện các hoạt động lựa chọn nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 467,
+    "line_end": 468
+  },
+  {
+    "clause_id": "dieu-12-khoan-1",
+    "anchor": "dieu-12-khoan-1",
+    "title": "1. Người có thẩm quyền giao cơ quan, đơn vị trực thuộc, cơ quan chuyên môn lập bảng theo dõi tiến độ thực hiện các hoạt động lựa chọn nhà đầu tư theo Phụ lục II ban hành kèm theo Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 470,
+    "line_end": 471
+  },
+  {
+    "clause_id": "dieu-12-khoan-2",
+    "anchor": "dieu-12-khoan-2",
+    "title": "2. Người có thẩm quyền phê duyệt bảng theo dõi tiến độ các hoạt động lựa chọn nhà đầu tư, trong đó quyết định bên mời thầu, hình thức, phương thức đấu thầu lựa chọn nhà đầu tư, thời gian bắt đầu tổ chức lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 473,
+    "line_end": 474
+  },
+  {
+    "clause_id": "dieu-12-khoan-3",
+    "anchor": "dieu-12-khoan-3",
+    "title": "3. Đối với dự án đầu tư có sử dụng đất thuộc diện chấp thuận chủ trương đầu tư theo quy định của pháp luật về đầu tư, bảng theo dõi tiến độ thực hiện các hoạt động lựa chọn nhà đầu tư được phê duyệt độc lập hoặc đồng thời với quyết định chấp thuận chủ trương đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 476,
+    "line_end": 477
+  },
+  {
+    "clause_id": "dieu-12-khoan-4",
+    "anchor": "dieu-12-khoan-4",
+    "title": "4. Đối với dự án đầu tư có sử dụng đất không thuộc diện chấp thuận chủ trương đầu tư, bảng theo dõi tiến độ thực hiện các hoạt động lựa chọn nhà đầu tư được phê duyệt đồng thời với thông tin dự án đầu tư có sử dụng đất.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 479,
+    "line_end": 480
+  },
+  {
+    "clause_id": "dieu-12-khoan-5",
+    "anchor": "dieu-12-khoan-5",
+    "title": "5. Cơ quan có thẩm quyền tạo lập, phân quyền tài khoản nghiệp vụ cho cơ quan, đơn vị trực thuộc, cơ quan chuyên môn để đăng tải bảng theo dõi tiến độ thực hiện các hoạt động lựa chọn nhà đầu tư được phê duyệt trên Hệ thống mạng đấu thầu quốc gia trong thời hạn chậm nhất là 05 ngày làm việc kể từ ngày văn bản phê duyệt được ban hành.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 482,
+    "line_end": 483
+  },
+  {
+    "clause_id": "dieu-13",
+    "anchor": "dieu-13",
+    "title": "Điều 13. Căn cứ phê duyệt hồ sơ mời thầu",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 486,
+    "line_end": 487
+  },
+  {
+    "clause_id": "dieu-13-khoan-1",
+    "anchor": "dieu-13-khoan-1",
+    "title": "1. Các quy hoạch, kế hoạch, chương trình gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 489,
+    "line_end": 494
+  },
+  {
+    "clause_id": "dieu-13-khoan-2",
+    "anchor": "dieu-13-khoan-2",
+    "title": "2. Danh mục các khu đất thực hiện đấu thầu dự án đầu tư có sử dụng đất được Hội đồng nhân dấp tỉnh quyết định; danh mục công trình, dự án phải thu hồi đất được cấp có thẩm quyền phê duyệt; kế hoạch sử dụng đất hằng năm cấp huyện (đối với dự án không thuộc diện chấp thuận chủ trương đầu tư) theo quy định của pháp luật về đất đai.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 496,
+    "line_end": 497
+  },
+  {
+    "clause_id": "dieu-13-khoan-3",
+    "anchor": "dieu-13-khoan-3",
+    "title": "3. Quyết định chấp thuận chủ trương đầu tư đối với dự án thuộc diện chấp thuận chủ trương đầu tư theo quy định của pháp luật về đầu tư hoặc văn bản phê duyệt thông tin dự án đầu tư có sử dụng đất đối với dự án không thuộc diện chấp thuận chủ trương đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 499,
+    "line_end": 500
+  },
+  {
+    "clause_id": "dieu-13-khoan-4",
+    "anchor": "dieu-13-khoan-4",
+    "title": "4. Bảng theo dõi tiến độ thực hiện các hoạt động lựa chọn nhà đầu tư được phê duyệt theo quy định tại khoản 2 Điều 12 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 502,
+    "line_end": 503
+  },
+  {
+    "clause_id": "dieu-13-khoan-5",
+    "anchor": "dieu-13-khoan-5",
+    "title": "5. Các văn bản khác theo quy định của pháp luật quản lý ngành, lĩnh vực và quy định của pháp luật có liên quan (nếu có).",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 505,
+    "line_end": 506
+  },
+  {
+    "clause_id": "dieu-14",
+    "anchor": "dieu-14",
+    "title": "Điều 14. Lập, thẩm định và phê duyệt hồ sơ mời thầu",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 509,
+    "line_end": 510
+  },
+  {
+    "clause_id": "dieu-14-khoan-1",
+    "anchor": "dieu-14-khoan-1",
+    "title": "1. Bên mời thầu giao tổ chuyên gia lập hồ sơ mời thầu gồm những nội dung quy định tại Điều 48 của Luật Đấu thầu để nhà đầu tư lập hồ sơ dự thầu. Đối với dự án đầu tư xây dựng công trình năng lượng, hồ sơ mời thầu bao gồm cả dự thảo hợp đồng mua bán điện được thống nhất với bên mua điện theo quy định của pháp luật về điện lực.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 512,
+    "line_end": 515
+  },
+  {
+    "clause_id": "dieu-14-khoan-2",
+    "anchor": "dieu-14-khoan-2",
+    "title": "2. Phương pháp, tiêu chuẩn đánh giá hồ sơ dự thầu thực hiện theo quy định tại các Điều 45, 46, 47, 48 và 49 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 517,
+    "line_end": 518
+  },
+  {
+    "clause_id": "dieu-14-khoan-3",
+    "anchor": "dieu-14-khoan-3",
+    "title": "3. Thẩm định, phê duyệt hồ sơ mời thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 520,
+    "line_end": 527
+  },
+  {
+    "clause_id": "dieu-15",
+    "anchor": "dieu-15",
+    "title": "Điều 15. Lựa chọn danh sách ngắn đối với đấu thầu hạn chế",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 530,
+    "line_end": 531
+  },
+  {
+    "clause_id": "dieu-15-khoan-1",
+    "anchor": "dieu-15-khoan-1",
+    "title": "1. Bên mời thầu xác định danh sách ngắn gồm tối thiểu 03 nhà đầu tư đáp ứng yêu cầu của dự án đầu tư có sử dụng đất và có nhu cầu tham dự thầu, trình người có thẩm quyền phê duyệt.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 533,
+    "line_end": 534
+  },
+  {
+    "clause_id": "dieu-15-khoan-2",
+    "anchor": "dieu-15-khoan-2",
+    "title": "2. Sau khi phê duyệt, bên mời thầu đăng tải công khai danh sách ngắn trên Hệ thống mạng đấu thầu quốc gia.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 536,
+    "line_end": 537
+  },
+  {
+    "clause_id": "dieu-15-khoan-3",
+    "anchor": "dieu-15-khoan-3",
+    "title": "3. Các nhà đầu tư có tên trong danh sách ngắn không được liên danh với nhau để tham dự thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 539,
+    "line_end": 544
+  },
+  {
+    "clause_id": "dieu-16",
+    "anchor": "dieu-16",
+    "title": "Điều 16. Điều kiện phát hành hồ sơ mời thầu",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 547,
+    "line_end": 550
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Dự án được quyết định chấp thuận chủ trương đầu tư (đối với dự án thuộc diện chấp thuận chủ trương đầu tư) hoặc thông tin dự án đầu tư có sử dụng đất được phê duyệt (đối với dự án không thuộc diện chấp thuận chủ trương đầu tư);",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 552,
+    "line_end": 553
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Dự án đầu tư có sử dụng đất được công bố theo quy định tại Điều 10 hoặc Điều 11 của Nghị định này;",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 555,
+    "line_end": 556
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. Hồ sơ mời thầu được phê duyệt;",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 558,
+    "line_end": 559
+  },
+  {
+    "clause_id": "dieu-16-khoan-4",
+    "anchor": "dieu-16-khoan-4",
+    "title": "4. Điều kiện khác theo quy định của pháp luật quản lý ngành, lĩnh vực (nếu có).",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 561,
+    "line_end": 562
+  },
+  {
+    "clause_id": "dieu-17",
+    "anchor": "dieu-17",
+    "title": "Điều 17. Mời thầu, phát hành, sửa đổi, làm rõ hồ sơ mời thầu; gia hạn thời gian nộp hồ sơ dự thầu",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 565,
+    "line_end": 566
+  },
+  {
+    "clause_id": "dieu-17-khoan-1",
+    "anchor": "dieu-17-khoan-1",
+    "title": "1. Mời thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 568,
+    "line_end": 573
+  },
+  {
+    "clause_id": "dieu-17-khoan-2",
+    "anchor": "dieu-17-khoan-2",
+    "title": "2. Phát hành hồ sơ mời thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 575,
+    "line_end": 582
+  },
+  {
+    "clause_id": "dieu-17-khoan-3",
+    "anchor": "dieu-17-khoan-3",
+    "title": "3. Sửa đổi hồ sơ mời thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 584,
+    "line_end": 587
+  },
+  {
+    "clause_id": "dieu-17-khoan-4",
+    "anchor": "dieu-17-khoan-4",
+    "title": "4. Làm rõ hồ sơ mời thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 589,
+    "line_end": 600
+  },
+  {
+    "clause_id": "dieu-17-khoan-5",
+    "anchor": "dieu-17-khoan-5",
+    "title": "5. Quyết định sửa đổi, văn bản làm rõ hồ sơ mời thầu là một phần của hồ sơ mời thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 602,
+    "line_end": 603
+  },
+  {
+    "clause_id": "dieu-17-khoan-6",
+    "anchor": "dieu-17-khoan-6",
+    "title": "6. Trường hợp cần gia hạn thời gian nộp hồ sơ dự thầu, bên mời thầu đăng tải thông báo gia hạn kèm theo quyết định phê duyệt gia hạn trên Hệ thống mạng đấu thầu quốc gia. Thông báo gia hạn phải nêu rõ lý do gia hạn, thời điểm đóng thầu mới.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 605,
+    "line_end": 606
+  },
+  {
+    "clause_id": "dieu-18",
+    "anchor": "dieu-18",
+    "title": "Điều 18. Chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, thay thế, rút hồ sơ dự thầu",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 609,
+    "line_end": 610
+  },
+  {
+    "clause_id": "dieu-18-khoan-1",
+    "anchor": "dieu-18-khoan-1",
+    "title": "1. Nhà đầu tư chuẩn bị và nộp hồ sơ dự thầu theo yêu cầu của hồ sơ mời thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 612,
+    "line_end": 613
+  },
+  {
+    "clause_id": "dieu-18-khoan-2",
+    "anchor": "dieu-18-khoan-2",
+    "title": "2. Bên mời thầu tiếp nhận hồ sơ dự thầu của tất cả các nhà đầu tư nộp trước thời điểm đóng thầu và quản lý các hồ sơ dự thầu đã nộp theo chế độ mật cho đến khi công khai kết quả lựa chọn nhà đầu tư; không được tiết lộ thông tin trong hồ sơ dự thầu của nhà đầu tư tham dự thầu, trừ các thông tin được công khai khi mở thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 615,
+    "line_end": 616
+  },
+  {
+    "clause_id": "dieu-18-khoan-3",
+    "anchor": "dieu-18-khoan-3",
+    "title": "3. Khi có yêu cầu sửa đổi, thay thế hoặc rút hồ sơ dự thầu đã nộp, nhà đầu tư phải có văn bản đề nghị gửi bên mời thầu. Bên mời thầu chỉ chấp thuận việc sửa đổi, thay thế hoặc rút hồ sơ dự thầu của nhà đầu tư khi nhận được văn bản đề nghị trước thời điểm đóng thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 618,
+    "line_end": 619
+  },
+  {
+    "clause_id": "dieu-18-khoan-4",
+    "anchor": "dieu-18-khoan-4",
+    "title": "4. Hồ sơ dự thầu hoặc các tài liệu được nhà đầu tư gửi bên mời thầu sau thời điểm đóng thầu là không hợp lệ, không được mở và bị loại, trừ tài liệu làm rõ hồ sơ dự thầu theo yêu cầu của bên mời thầu hoặc tài liệu tự làm rõ, bổ sung nhằm chứng minh tư cách hợp lệ, năng lực, kinh nghiệm của nhà đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 621,
+    "line_end": 622
+  },
+  {
+    "clause_id": "dieu-19",
+    "anchor": "dieu-19",
+    "title": "Điều 19. Mở thầu",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 631,
+    "line_end": 632
+  },
+  {
+    "clause_id": "dieu-19-khoan-1",
+    "anchor": "dieu-19-khoan-1",
+    "title": "1. Việc mở thầu phải được tiến hành công khai trong thời hạn 02 giờ kể từ thời điểm đóng thầu. Bên mời thầu chỉ mở các hồ sơ dự thầu đã nhận được trước thời điểm đóng thầu theo yêu cầu của hồ sơ mời thầu trước sự chứng kiến của đại diện các nhà đầu tư tham dự lễ mở thầu, không phụ thuộc vào sự có mặt hay vắng mặt của các nhà đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 634,
+    "line_end": 635
+  },
+  {
+    "clause_id": "dieu-19-khoan-2",
+    "anchor": "dieu-19-khoan-2",
+    "title": "2. Bên mời thầu kiểm tra niêm phong, mở từng hồ sơ dự thầu theo thứ tự chữ cái tên nhà đầu tư và đọc các thông tin sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 637,
+    "line_end": 654
+  },
+  {
+    "clause_id": "dieu-19-khoan-3",
+    "anchor": "dieu-19-khoan-3",
+    "title": "3. Biên bản mở thầu gồm các thông tin quy định tại khoản 2 Điều này phải được ký xác nhận bởi đại diện của bên mời thầu, các nhà đầu tư tham dự lễ mở thầu và được gửi cho các nhà đầu tư tham dự thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 656,
+    "line_end": 657
+  },
+  {
+    "clause_id": "dieu-19-khoan-4",
+    "anchor": "dieu-19-khoan-4",
+    "title": "4. Đại diện của bên mời thầu ký xác nhận vào bản gốc đơn dự thầu, giấy ủy quyền của người đại diện theo pháp luật của nhà đầu tư (nếu có); thỏa thuận liên danh (nếu có); bảo đảm dự thầu; nội dung thuộc phương án đầu tư kinh doanh; đề xuất về hiệu quả sử dụng đất, hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương của từng hồ sơ dự thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 659,
+    "line_end": 660
+  },
+  {
+    "clause_id": "dieu-20",
+    "anchor": "dieu-20",
+    "title": "Điều 20. Nguyên tắc đánh giá hồ sơ dự thầu",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 663,
+    "line_end": 664
+  },
+  {
+    "clause_id": "dieu-20-khoan-1",
+    "anchor": "dieu-20-khoan-1",
+    "title": "1. Việc đánh giá hồ sơ dự thầu căn cứ vào phương pháp, tiêu chuẩn đánh giá hồ sơ dự thầu và các yêu cầu khác trong hồ sơ mời thầu, hồ sơ dự thầu đã nộp, các tài liệu giải thích, làm rõ hồ sơ dự thầu của nhà đầu tư để bảo đảm lựa chọn được nhà đầu tư có đủ năng lực và kinh nghiệm, có phương án kỹ thuật, tài chính khả thi để thực hiện dự án.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 666,
+    "line_end": 667
+  },
+  {
+    "clause_id": "dieu-20-khoan-2",
+    "anchor": "dieu-20-khoan-2",
+    "title": "2. Việc đánh giá hồ sơ dự thầu được thực hiện trên bản chụp, nhà đầu tư chịu trách nhiệm về tính thống nhất giữa bản gốc và bản chụp. Trường hợp có sự sai khác giữa bản gốc và bản chụp nhưng không làm thay đổi thứ tự xếp hạng nhà đầu tư thì căn cứ vào bản gốc để đánh giá. Trường hợp có sự sai khác giữa bản gốc và bản chụp dẫn đến kết quả đánh giá trên bản gốc khác kết quả đánh giá trên bản chụp, làm thay đổi thứ tự xếp hạng nhà đầu tư thì hồ sơ dự thầu của nhà đầu tư đó bị loại.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 669,
+    "line_end": 670
+  },
+  {
+    "clause_id": "dieu-20-khoan-3",
+    "anchor": "dieu-20-khoan-3",
+    "title": "3. Khi đánh giá hồ sơ dự thầu, bên mời thầu phải kiểm tra các nội dung về kỹ thuật, tài chính của hồ sơ dự thầu để xác định hồ sơ dự thầu không có những sai khác, đặt điều kiện hay bỏ sót các nội dung cơ bản, trong đó:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 672,
+    "line_end": 679
+  },
+  {
+    "clause_id": "dieu-21",
+    "anchor": "dieu-21",
+    "title": "Điều 21. Làm rõ hồ sơ dự thầu",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 682,
+    "line_end": 683
+  },
+  {
+    "clause_id": "dieu-21-khoan-1",
+    "anchor": "dieu-21-khoan-1",
+    "title": "1. Sau khi mở thầu, trường hợp hồ sơ dự thầu của nhà đầu tư thiếu tài liệu về tư cách hợp lệ, báo cáo tài chính, tài liệu chứng minh kinh nghiệm thực hiện dự án tương tự thì bên mời thầu yêu cầu nhà đầu tư làm rõ, bổ sung tài liệu để chứng minh tư cách hợp lệ, năng lực và kinh nghiệm. Nhà đầu tư có trách nhiệm làm rõ hồ sơ dự thầu khi bên mời thầu có yêu cầu. Việc làm rõ các nội dung về tư cách hợp lệ, năng lực, kinh nghiệm phải bảo đảm không làm thay đổi bản chất về tư cách hợp lệ, năng lực, kinh nghiệm của nhà đầu tư tham dự thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 685,
+    "line_end": 686
+  },
+  {
+    "clause_id": "dieu-21-khoan-2",
+    "anchor": "dieu-21-khoan-2",
+    "title": "2. Sau khi đóng thầu, trường hợp nhà đầu tư phát hiện hồ sơ dự thầu thiếu thông tin, tài liệu về tư cách hợp lệ, năng lực, kinh nghiệm đã có của mình nhưng chưa được nộp cùng hồ sơ dự thầu thì được gửi thông tin, tài liệu để bổ sung, làm rõ. Bên mời thầu có trách nhiệm tiếp nhận những tài liệu làm rõ, bổ sung tài liệu chứng minh tư cách hợp lệ, năng lực, kinh nghiệm của nhà đầu tư để xem xét, đánh giá. Các tài liệu này được coi là một phần của hồ sơ dự thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 688,
+    "line_end": 689
+  },
+  {
+    "clause_id": "dieu-21-khoan-3",
+    "anchor": "dieu-21-khoan-3",
+    "title": "3. Việc làm rõ các nội dung đề xuất về phương án đầu tư kinh doanh, đề xuất về hiệu quả sử dụng đất, hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương phải bảo đảm không làm thay đổi các đề xuất tương ứng trong hồ sơ dự thầu đã nộp.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 691,
+    "line_end": 692
+  },
+  {
+    "clause_id": "dieu-21-khoan-4",
+    "anchor": "dieu-21-khoan-4",
+    "title": "4. Việc làm rõ hồ sơ dự thầu chỉ được thực hiện giữa bên mời thầu và nhà đầu tư có hồ sơ dự thầu cần phải làm rõ. Nội dung làm rõ hồ sơ dự thầu phải được thể hiện bằng văn bản và được bên mời thầu bảo quản như một phần của hồ sơ dự thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 694,
+    "line_end": 695
+  },
+  {
+    "clause_id": "dieu-22",
+    "anchor": "dieu-22",
+    "title": "Điều 22. Đánh giá hồ sơ dự thầu",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 698,
+    "line_end": 699
+  },
+  {
+    "clause_id": "dieu-22-khoan-1",
+    "anchor": "dieu-22-khoan-1",
+    "title": "1. Kiểm tra tính hợp lệ của hồ sơ dự thầu, gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 701,
+    "line_end": 708
+  },
+  {
+    "clause_id": "dieu-22-khoan-2",
+    "anchor": "dieu-22-khoan-2",
+    "title": "2. Đánh giá tính hợp lệ của hồ sơ dự thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 710,
+    "line_end": 735
+  },
+  {
+    "clause_id": "dieu-22-khoan-3",
+    "anchor": "dieu-22-khoan-3",
+    "title": "3. Đánh giá hồ sơ dự thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 737,
+    "line_end": 742
+  },
+  {
+    "clause_id": "dieu-22-khoan-4",
+    "anchor": "dieu-22-khoan-4",
+    "title": "4. Sau khi đánh giá hồ sơ dự thầu, tổ chuyên gia lập báo cáo gửi bên mời thầu xem xét. Báo cáo phải nêu rõ các nội dung sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 744,
+    "line_end": 751
+  },
+  {
+    "clause_id": "dieu-22-khoan-5",
+    "anchor": "dieu-22-khoan-5",
+    "title": "5. Xét duyệt trúng thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 753,
+    "line_end": 762
+  },
+  {
+    "clause_id": "dieu-23",
+    "anchor": "dieu-23",
+    "title": "Điều 23. Mở hồ sơ đề xuất về kỹ thuật",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 765,
+    "line_end": 766
+  },
+  {
+    "clause_id": "dieu-23-khoan-1",
+    "anchor": "dieu-23-khoan-1",
+    "title": "1. Việc mở hồ sơ đề xuất về kỹ thuật phải được tiến hành công khai trong thời hạn 02 giờ kể từ thời điểm đóng thầu. Trình tự mở hồ sơ đề xuất về kỹ thuật thực hiện theo Điều 19 của Nghị định này. Bên mời thầu chỉ đọc các thông tin và lập biên bản mở thầu gồm các nội dung quy định tại các điểm a, b, e, g và h khoản 2 Điều 19 của Nghị định này khi mở hồ sơ đề xuất về kỹ thuật.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 768,
+    "line_end": 769
+  },
+  {
+    "clause_id": "dieu-23-khoan-2",
+    "anchor": "dieu-23-khoan-2",
+    "title": "2. Hồ sơ đề xuất về tài chính của tất cả nhà đầu tư phải được bên mời thầu niêm phong trong một túi riêng biệt và được đại diện của bên mời thầu, nhà đầu tư tham dự lễ mở hồ sơ đề xuất về kỹ thuật ký niêm phong.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 771,
+    "line_end": 772
+  },
+  {
+    "clause_id": "dieu-24",
+    "anchor": "dieu-24",
+    "title": "Điều 24. Đánh giá hồ sơ đề xuất về kỹ thuật",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 775,
+    "line_end": 776
+  },
+  {
+    "clause_id": "dieu-24-khoan-1",
+    "anchor": "dieu-24-khoan-1",
+    "title": "1. Kiểm tra tính hợp lệ của hồ sơ đề xuất về kỹ thuật, bao gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 778,
+    "line_end": 785
+  },
+  {
+    "clause_id": "dieu-24-khoan-2",
+    "anchor": "dieu-24-khoan-2",
+    "title": "2. Đánh giá tính hợp lệ của hồ sơ đề xuất về kỹ thuật:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 787,
+    "line_end": 808
+  },
+  {
+    "clause_id": "dieu-24-khoan-3",
+    "anchor": "dieu-24-khoan-3",
+    "title": "3. Trình tự, thủ tục làm rõ hồ sơ đề xuất về kỹ thuật thực hiện theo quy định tại Điều 21 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 810,
+    "line_end": 811
+  },
+  {
+    "clause_id": "dieu-24-khoan-4",
+    "anchor": "dieu-24-khoan-4",
+    "title": "4. Đánh giá hồ sơ đề xuất về kỹ thuật:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 813,
+    "line_end": 818
+  },
+  {
+    "clause_id": "dieu-25",
+    "anchor": "dieu-25",
+    "title": "Điều 25. Phê duyệt danh sách nhà đầu tư đáp ứng yêu cầu về kỹ thuật",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 821,
+    "line_end": 822
+  },
+  {
+    "clause_id": "dieu-25-khoan-1",
+    "anchor": "dieu-25-khoan-1",
+    "title": "1. Danh sách nhà đầu tư đáp ứng yêu cầu về kỹ thuật được bên mời thầu phê duyệt bằng văn bản căn cứ vào tờ trình phê duyệt danh sách nhà đầu tư đáp ứng yêu cầu về kỹ thuật của tổ chuyên gia.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 824,
+    "line_end": 825
+  },
+  {
+    "clause_id": "dieu-25-khoan-2",
+    "anchor": "dieu-25-khoan-2",
+    "title": "2. Bên mời thầu thông báo danh sách các nhà đầu tư đáp ứng yêu cầu về kỹ thuật đến tất cả các nhà đầu tư tham dự thầu và mời các nhà đầu tư tham dự thầu mở hồ sơ đề xuất về tài chính, trong đó nêu rõ thời gian, địa điểm mở hồ sơ đề xuất tài chính.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 827,
+    "line_end": 828
+  },
+  {
+    "clause_id": "dieu-26",
+    "anchor": "dieu-26",
+    "title": "Điều 26. Mở hồ sơ đề xuất về tài chính",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 831,
+    "line_end": 832
+  },
+  {
+    "clause_id": "dieu-26-khoan-1",
+    "anchor": "dieu-26-khoan-1",
+    "title": "1. Hồ sơ đề xuất về tài chính của nhà đầu tư có tên trong danh sách nhà đầu tư đáp ứng yêu cầu về kỹ thuật được mở công khai theo thời gian, địa điểm ghi trong thông báo danh sách các nhà đầu tư đáp ứng yêu cầu về kỹ thuật. Biên bản mở thầu gồm thông tin quy định tại các điểm a, b, c, d, đ, e và h khoản 2 Điều 19 của Nghị định này và phải được gửi cho các nhà đầu tư tham dự thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 834,
+    "line_end": 835
+  },
+  {
+    "clause_id": "dieu-26-khoan-2",
+    "anchor": "dieu-26-khoan-2",
+    "title": "2. Đại diện của bên mời thầu phải ký xác nhận vào bản gốc đơn dự thầu, giấy ủy quyền của người đại diện theo pháp luật của nhà đầu tư (nếu có); thỏa thuận liên danh (nếu có); đề xuất về hiệu quả sử dụng đất, hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương của từng hồ sơ về đề xuất tài chính.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 837,
+    "line_end": 838
+  },
+  {
+    "clause_id": "dieu-27",
+    "anchor": "dieu-27",
+    "title": "Điều 27. Đánh giá hồ sơ đề xuất về tài chính",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 841,
+    "line_end": 842
+  },
+  {
+    "clause_id": "dieu-27-khoan-1",
+    "anchor": "dieu-27-khoan-1",
+    "title": "1. Kiểm tra tính hợp lệ của hồ sơ đề xuất về tài chính, bao gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 844,
+    "line_end": 851
+  },
+  {
+    "clause_id": "dieu-27-khoan-2",
+    "anchor": "dieu-27-khoan-2",
+    "title": "2. Đánh giá tính hợp lệ của hồ sơ đề xuất về tài chính:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 853,
+    "line_end": 866
+  },
+  {
+    "clause_id": "dieu-27-khoan-3",
+    "anchor": "dieu-27-khoan-3",
+    "title": "3. Trình tự, thủ tục làm rõ hồ sơ đề xuất về tài chính thực hiện theo quy định tại Điều 21 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 868,
+    "line_end": 869
+  },
+  {
+    "clause_id": "dieu-27-khoan-4",
+    "anchor": "dieu-27-khoan-4",
+    "title": "4. Đánh giá hồ sơ đề xuất về tài chính:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 871,
+    "line_end": 876
+  },
+  {
+    "clause_id": "dieu-27-khoan-5",
+    "anchor": "dieu-27-khoan-5",
+    "title": "5. Sau khi đánh giá hồ sơ dự thầu, tổ chuyên gia lập báo cáo gửi bên mời thầu xem xét. Báo cáo phải nêu rõ các nội dung sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 878,
+    "line_end": 885
+  },
+  {
+    "clause_id": "dieu-27-khoan-6",
+    "anchor": "dieu-27-khoan-6",
+    "title": "6. Việc xét duyệt trúng thầu thực hiện theo quy định tại Điều 50 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 887,
+    "line_end": 894
+  },
+  {
+    "clause_id": "dieu-28",
+    "anchor": "dieu-28",
+    "title": "Điều 28. Trình, thẩm định, phê duyệt kết quả lựa chọn nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 897,
+    "line_end": 898
+  },
+  {
+    "clause_id": "dieu-28-khoan-1",
+    "anchor": "dieu-28-khoan-1",
+    "title": "1. Việc trình, thẩm định và phê duyệt kết quả lựa chọn nhà đầu tư được thực hiện như sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 900,
+    "line_end": 907
+  },
+  {
+    "clause_id": "dieu-28-khoan-2",
+    "anchor": "dieu-28-khoan-2",
+    "title": "2. Trường hợp lựa chọn được nhà đầu tư trúng thầu, quyết định phê duyệt kết quả lựa chọn nhà đầu tư bao gồm các nội dung sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 909,
+    "line_end": 918
+  },
+  {
+    "clause_id": "dieu-28-khoan-3",
+    "anchor": "dieu-28-khoan-3",
+    "title": "3. Trường hợp nhà đầu tư trúng thầu thành lập tổ chức kinh tế sau khi kết quả lựa chọn nhà đầu tư được phê duyệt, nhà đầu tư gửi thông tin về tên tổ chức kinh tế đó cho cơ quan có thẩm quyền để sửa đổi, bổ sung tên tổ chức kinh tế tại quyết định phê duyệt kết quả lựa chọn nhà đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 920,
+    "line_end": 921
+  },
+  {
+    "clause_id": "dieu-28-khoan-4",
+    "anchor": "dieu-28-khoan-4",
+    "title": "4. Trường hợp hủy thầu theo quy định tại điểm a khoản 2 Điều 17 của Luật Đấu thầu, quyết định phê duyệt kết quả lựa chọn nhà đầu tư hoặc văn bản quyết định hủy thầu phải nêu rõ lý do hủy thầu và trách nhiệm của các bên liên quan khi hủy thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 923,
+    "line_end": 924
+  },
+  {
+    "clause_id": "dieu-28-khoan-5",
+    "anchor": "dieu-28-khoan-5",
+    "title": "5. Trường hợp thay đổi tên nhà đầu tư trúng thầu, tên tổ chức kinh tế do nhà đầu tư trúng thầu thành lập do chuyển nhượng dự án đầu tư, chuyển nhượng cổ phần, phần vốn góp trong tổ chức kinh tế do nhà đầu tư trúng thầu thành lập theo quy định khoản 2 Điều 76 của Luật Đấu thầu, khoản 3 và khoản 4 Điều 52 của Nghị định này, người có thẩm quyền chấp thuận việc chuyển nhượng và điều chỉnh quyết định phê duyệt kết quả lựa chọn nhà đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 926,
+    "line_end": 927
+  },
+  {
+    "clause_id": "dieu-29",
+    "anchor": "dieu-29",
+    "title": "Điều 29. Công khai kết quả lựa chọn nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 930,
+    "line_end": 931
+  },
+  {
+    "clause_id": "dieu-29-khoan-1",
+    "anchor": "dieu-29-khoan-1",
+    "title": "1. Trong thời hạn 05 ngày làm việc kể từ ngày người có thẩm quyền quyết định phê duyệt kết quả lựa chọn nhà đầu tư, bên mời thầu đăng tải thông tin về kết quả lựa chọn nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia theo quy định tại điểm d khoản 2 Điều 7 và khoản 4 Điều 8 của Luật Đấu thầu, đồng thời gửi văn bản thông báo kết quả lựa chọn nhà đầu tư đến các nhà đầu tư tham dự thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 933,
+    "line_end": 934
+  },
+  {
+    "clause_id": "dieu-29-khoan-2",
+    "anchor": "dieu-29-khoan-2",
+    "title": "2. Nội dung thông báo kết quả lựa chọn nhà đầu tư bao gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 936,
+    "line_end": 943
+  },
+  {
+    "clause_id": "dieu-30",
+    "anchor": "dieu-30",
+    "title": "Điều 30. Đàm phán, hoàn thiện hợp đồng",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 950,
+    "line_end": 951
+  },
+  {
+    "clause_id": "dieu-30-khoan-1",
+    "anchor": "dieu-30-khoan-1",
+    "title": "1. Căn cứ kết quả lựa chọn nhà đầu tư, nhà đầu tư xếp thứ nhất được mời đàm phán, hoàn thiện hợp đồng. Trường hợp nhà đầu tư được mời đàm phán, hoàn thiện hợp đồng nhưng không tham dự hoặc từ chối đàm phán, hoàn thiện hợp đồng thì sẽ không được nhận lại bảo đảm dự thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 953,
+    "line_end": 954
+  },
+  {
+    "clause_id": "dieu-30-khoan-2",
+    "anchor": "dieu-30-khoan-2",
+    "title": "2. Việc đàm phán, hoàn thiện hợp đồng được thực hiện trên cơ sở:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 956,
+    "line_end": 963
+  },
+  {
+    "clause_id": "dieu-30-khoan-3",
+    "anchor": "dieu-30-khoan-3",
+    "title": "3. Nguyên tắc đàm phán, hoàn thiện hợp đồng:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 965,
+    "line_end": 970
+  },
+  {
+    "clause_id": "dieu-30-khoan-4",
+    "anchor": "dieu-30-khoan-4",
+    "title": "4. Nội dung đàm phán, hoàn thiện hợp đồng:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 972,
+    "line_end": 981
+  },
+  {
+    "clause_id": "dieu-30-khoan-5",
+    "anchor": "dieu-30-khoan-5",
+    "title": "5. Nhà đầu tư không được thay đổi, rút hoặc từ chối thực hiện các nội dung cơ bản đề xuất trong hồ sơ dự thầu đã được bên mời thầu đánh giá đáp ứng yêu cầu của hồ sơ mời thầu, trừ trường hợp các thay đổi do nhà đầu tư đề xuất mang lại hiệu quả cao hơn cho dự án.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 983,
+    "line_end": 984
+  },
+  {
+    "clause_id": "dieu-30-khoan-6",
+    "anchor": "dieu-30-khoan-6",
+    "title": "6. Trường hợp đàm phán, hoàn thiện hợp đồng không thành công, bên mời thầu báo cáo người có thẩm quyền xem xét, quyết định hủy kết quả lựa chọn nhà đầu tư và mời nhà đầu tư xếp hạng tiếp theo đàm phán, hoàn thiện hợp đồng. Trường hợp đàm phán, hoàn thiện hợp đồng với các nhà đầu tư tiếp theo thành công, bên mời thầu trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà đầu tư theo quy định tại Điều 28 và Điều 29 của Nghị định này. Trường hợp đàm phán, hoàn thiện hợp đồng với các nhà đầu tư tiếp theo không thành công, bên mời thầu báo cáo người có thẩm quyền xem xét, quyết định hủy thầu theo quy định tại điểm a khoản 2 Điều 17 của Luật Đấu thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 986,
+    "line_end": 987
+  },
+  {
+    "clause_id": "dieu-31",
+    "anchor": "dieu-31",
+    "title": "Điều 31. Ký kết hợp đồng và đăng tải thông tin chủ yếu của hợp đồng dự án đầu tư có sử dụng đất",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 990,
+    "line_end": 991
+  },
+  {
+    "clause_id": "dieu-31-khoan-1",
+    "anchor": "dieu-31-khoan-1",
+    "title": "1. Việc ký kết hợp đồng dự án đầu tư có sử dụng đất thực hiện theo quy định tại các Điều 71, 72, 74 và 75 của Luật Đấu thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 993,
+    "line_end": 994
+  },
+  {
+    "clause_id": "dieu-31-khoan-2",
+    "anchor": "dieu-31-khoan-2",
+    "title": "2. Hợp đồng dự án đầu tư có sử dụng đất (sau đây gọi là hợp đồng dự án) bao gồm các nội dung cơ bản theo quy định tại Điều 73 của Luật Đấu thầu, Phụ lục III ban hành kèm theo Nghị định này và quy định của pháp luật về đất đai, bất động sản, xây dựng, pháp luật quản lý ngành, lĩnh vực (nếu có).",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 996,
+    "line_end": 997
+  },
+  {
+    "clause_id": "dieu-31-khoan-3",
+    "anchor": "dieu-31-khoan-3",
+    "title": "3. Trong thời hạn 05 ngày làm việc kể từ ngày hợp đồng dự án có hiệu lực, bên mời thầu đăng tải thông tin chủ yếu của hợp đồng trên Hệ thống mạng đấu thầu quốc gia. Nội dung đăng tải thông tin gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 999,
+    "line_end": 1020
+  },
+  {
+    "clause_id": "dieu-32",
+    "anchor": "dieu-32",
+    "title": "Điều 32. Chuẩn bị đấu thầu giai đoạn một",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1025,
+    "line_end": 1026
+  },
+  {
+    "clause_id": "dieu-32-khoan-1",
+    "anchor": "dieu-32-khoan-1",
+    "title": "1. Phương thức hai giai đoạn một túi hồ sơ được áp dụng trong trường hợp đấu thầu rộng rãi lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất có yêu cầu đặc thù phát triển kinh tế, xã hội của ngành, vùng, địa phương nhưng chưa xác định được cụ thể tiêu chuẩn về kỹ thuật, kinh tế, xã hội, môi trường theo quy định tại khoản 3 Điều 35 của Luật Đấu thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1028,
+    "line_end": 1029
+  },
+  {
+    "clause_id": "dieu-32-khoan-2",
+    "anchor": "dieu-32-khoan-2",
+    "title": "2. Quy trình chuẩn bị đấu thầu giai đoạn một gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1031,
+    "line_end": 1040
+  },
+  {
+    "clause_id": "dieu-32-khoan-3",
+    "anchor": "dieu-32-khoan-3",
+    "title": "3. Hồ sơ mời thầu giai đoạn một được lập phù hợp với các căn cứ quy định tại Điều 13 của Nghị định này, gồm các nội dung cơ bản sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1042,
+    "line_end": 1061
+  },
+  {
+    "clause_id": "dieu-33",
+    "anchor": "dieu-33",
+    "title": "Điều 33. Tổ chức đấu thầu giai đoạn một",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1064,
+    "line_end": 1065
+  },
+  {
+    "clause_id": "dieu-33-khoan-1",
+    "anchor": "dieu-33-khoan-1",
+    "title": "1. Việc mời thầu giai đoạn một thực hiện theo quy định tại khoản 1 Điều 17 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1067,
+    "line_end": 1068
+  },
+  {
+    "clause_id": "dieu-33-khoan-2",
+    "anchor": "dieu-33-khoan-2",
+    "title": "2. Việc phát hành, sửa đổi, làm rõ hồ sơ mời thầu thực hiện theo quy định tại các khoản 2, 3 và 4 Điều 17 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1070,
+    "line_end": 1071
+  },
+  {
+    "clause_id": "dieu-33-khoan-3",
+    "anchor": "dieu-33-khoan-3",
+    "title": "3. Việc chuẩn bị, nộp, tiếp nhận, quản lý, sửa đổi, thay thế, rút hồ sơ dự thầu thực hiện theo quy định tại Điều 18 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1073,
+    "line_end": 1074
+  },
+  {
+    "clause_id": "dieu-33-khoan-4",
+    "anchor": "dieu-33-khoan-4",
+    "title": "4. Mở thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1076,
+    "line_end": 1081
+  },
+  {
+    "clause_id": "dieu-33-khoan-5",
+    "anchor": "dieu-33-khoan-5",
+    "title": "5. Trao đổi về hồ sơ dự thầu giai đoạn một:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1083,
+    "line_end": 1090
+  },
+  {
+    "clause_id": "dieu-34",
+    "anchor": "dieu-34",
+    "title": "Điều 34. Chuẩn bị, tổ chức đấu thầu giai đoạn hai",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1093,
+    "line_end": 1094
+  },
+  {
+    "clause_id": "dieu-34-khoan-1",
+    "anchor": "dieu-34-khoan-1",
+    "title": "1. Hồ sơ mời thầu giai đoạn hai được lập phù hợp với các căn cứ quy định tại Điều 13 của Nghị định này và kết quả trao đổi về hồ sơ dự thầu giai đoạn một.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1096,
+    "line_end": 1097
+  },
+  {
+    "clause_id": "dieu-34-khoan-2",
+    "anchor": "dieu-34-khoan-2",
+    "title": "2. Nội dung hồ sơ mời thầu giai đoạn hai được lập theo quy định tại khoản 1 và khoản 2 Điều 14 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1099,
+    "line_end": 1100
+  },
+  {
+    "clause_id": "dieu-34-khoan-3",
+    "anchor": "dieu-34-khoan-3",
+    "title": "3. Việc thẩm định, phê duyệt hồ sơ mời thầu giai đoạn hai thực hiện theo quy định tại khoản 3 Điều 14 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1102,
+    "line_end": 1103
+  },
+  {
+    "clause_id": "dieu-34-khoan-4",
+    "anchor": "dieu-34-khoan-4",
+    "title": "4. Tổ chức đấu thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1105,
+    "line_end": 1112
+  },
+  {
+    "clause_id": "dieu-35",
+    "anchor": "dieu-35",
+    "title": "Điều 35. Đánh giá hồ sơ dự thầu giai đoạn hai",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1115,
+    "line_end": 1116
+  },
+  {
+    "clause_id": "dieu-35-khoan-1",
+    "anchor": "dieu-35-khoan-1",
+    "title": "1. Nguyên tắc đánh giá hồ sơ dự thầu thực hiện theo quy định tại Điều 20 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1118,
+    "line_end": 1119
+  },
+  {
+    "clause_id": "dieu-35-khoan-2",
+    "anchor": "dieu-35-khoan-2",
+    "title": "2. Việc làm rõ hồ sơ dự thầu thực hiện theo quy định tại Điều 21 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1121,
+    "line_end": 1122
+  },
+  {
+    "clause_id": "dieu-35-khoan-3",
+    "anchor": "dieu-35-khoan-3",
+    "title": "3. Việc đánh giá hồ sơ dự thầu giai đoạn hai thực hiện theo quy định tại Điều 22 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1124,
+    "line_end": 1125
+  },
+  {
+    "clause_id": "dieu-36",
+    "anchor": "dieu-36",
+    "title": "Điều 36. Trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà đầu tư; đàm phán, hoàn thiện và ký kết hợp đồng, công khai thông tin hợp đồng dự án",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1128,
+    "line_end": 1129
+  },
+  {
+    "clause_id": "dieu-36-khoan-1",
+    "anchor": "dieu-36-khoan-1",
+    "title": "1. Việc trình, thẩm định, phê duyệt, công khai kết quả lựa chọn nhà đầu tư thực hiện theo quy định tại Điều 28 và Điều 29 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1131,
+    "line_end": 1132
+  },
+  {
+    "clause_id": "dieu-36-khoan-2",
+    "anchor": "dieu-36-khoan-2",
+    "title": "2. Việc đàm phán, hoàn thiện và ký kết hợp đồng; công khai thông tin hợp đồng dự án thực hiện theo quy định tại Điều 30 và Điều 31 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1134,
+    "line_end": 1139
+  },
+  {
+    "clause_id": "dieu-37",
+    "anchor": "dieu-37",
+    "title": "Điều 37. Áp dụng thủ tục mời quan tâm",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1142,
+    "line_end": 1143
+  },
+  {
+    "clause_id": "dieu-37-khoan-1",
+    "anchor": "dieu-37-khoan-1",
+    "title": "1. Thủ tục mời quan tâm được áp dụng đối với dự án cần xác định số lượng nhà đầu tư quan tâm theo quy định của pháp luật quản lý ngành, lĩnh vực quy định tại các điểm e, g, h, i và k khoản 2 Điều 4 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1145,
+    "line_end": 1146
+  },
+  {
+    "clause_id": "dieu-37-khoan-2",
+    "anchor": "dieu-37-khoan-2",
+    "title": "2. Mời quan tâm quốc tế được áp dụng đối với dự án đầu tư có sử dụng đất quy định tại khoản 1 Điều này, trừ trường hợp quy định tại các điểm a, b, c và d khoản 2 Điều 11 của Luật Đấu thầu và các trường hợp khác theo quy định của pháp luật về quản lý ngành, lĩnh vực.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1148,
+    "line_end": 1149
+  },
+  {
+    "clause_id": "dieu-37-khoan-3",
+    "anchor": "dieu-37-khoan-3",
+    "title": "3. Người có thẩm quyền giao cơ quan, đơn vị thuộc bộ, cơ quan ngang bộ; cơ quan chuyên môn, cơ quan trực thuộc Ủy ban nhân dân cấp tỉnh, Ban Quản lý khu kinh tế; Ủy ban nhân dân cấp huyện làm bên mời quan tâm.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1151,
+    "line_end": 1152
+  },
+  {
+    "clause_id": "dieu-37-khoan-4",
+    "anchor": "dieu-37-khoan-4",
+    "title": "4. Bên mời quan tâm thực hiện trình tự, thủ tục quy định tại các Điều 38, 39, 40, 41, 42 và 43 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1154,
+    "line_end": 1155
+  },
+  {
+    "clause_id": "dieu-37-khoan-5",
+    "anchor": "dieu-37-khoan-5",
+    "title": "5. Cơ quan có thẩm quyền tạo lập, phân quyền tài khoản nghiệp vụ cho bên mời quan tâm để đăng tải thông tin và mời quan tâm trên Hệ thống mạng đấu thầu quốc gia.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1157,
+    "line_end": 1158
+  },
+  {
+    "clause_id": "dieu-38",
+    "anchor": "dieu-38",
+    "title": "Điều 38. Chuẩn bị mời quan tâm",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1161,
+    "line_end": 1164
+  },
+  {
+    "clause_id": "dieu-38-khoan-1",
+    "anchor": "dieu-38-khoan-1",
+    "title": "1. Đối với dự án thuộc diện chấp thuận chủ trương đầu tư, cơ quan có thẩm quyền đăng tải quyết định chấp thuận chủ trương đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1166,
+    "line_end": 1167
+  },
+  {
+    "clause_id": "dieu-38-khoan-2",
+    "anchor": "dieu-38-khoan-2",
+    "title": "2. Đối với dự án không thuộc diện chấp thuận chủ trương đầu tư, căn cứ hồ sơ đề xuất dự án được lập và phê duyệt theo quy định tại Điều 11 của Nghị định này, cơ quan có thẩm quyền đăng tải thông tin quy định tại các điểm b, c, d và e khoản 2 Điều 47 của Luật Đấu thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1169,
+    "line_end": 1170
+  },
+  {
+    "clause_id": "dieu-39",
+    "anchor": "dieu-39",
+    "title": "Điều 39. Lập, phê duyệt hồ sơ mời quan tâm",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1173,
+    "line_end": 1174
+  },
+  {
+    "clause_id": "dieu-39-khoan-1",
+    "anchor": "dieu-39-khoan-1",
+    "title": "1. Bên mời quan tâm giao tổ chuyên gia lập hồ sơ mời quan tâm theo các nội dung quy định tại khoản 2 Điều này để nhà đầu tư lập hồ sơ đăng ký thực hiện dự án. Hồ sơ mời quan tâm được lập căn cứ quy định tại các khoản 1, 2, 3 và 5 Điều 13 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1176,
+    "line_end": 1179
+  },
+  {
+    "clause_id": "dieu-39-khoan-2",
+    "anchor": "dieu-39-khoan-2",
+    "title": "2. Nội dung hồ sơ mời quan tâm bao gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1181,
+    "line_end": 1198
+  },
+  {
+    "clause_id": "dieu-39-khoan-3",
+    "anchor": "dieu-39-khoan-3",
+    "title": "3. Phương pháp đạt, không đạt được áp dụng để đánh giá sơ bộ về năng lực và kinh nghiệm của nhà đầu tư. Nhà đầu tư được đánh giá là đáp ứng yêu cầu sơ bộ về năng lực, kinh nghiệm khi tất cả các tiêu chuẩn được đánh giá là đạt.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1200,
+    "line_end": 1201
+  },
+  {
+    "clause_id": "dieu-39-khoan-4",
+    "anchor": "dieu-39-khoan-4",
+    "title": "4. Tiêu chuẩn đánh giá sơ bộ về năng lực, kinh nghiệm của nhà đầu tư, gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1203,
+    "line_end": 1210
+  },
+  {
+    "clause_id": "dieu-39-khoan-5",
+    "anchor": "dieu-39-khoan-5",
+    "title": "5. Trường hợp dự án áp dụng mời quan tâm trong nước nhưng cần thúc đẩy sử dụng công nghệ, kỹ thuật tiên tiến, kinh nghiệm quản lý quốc tế, hồ sơ mời quan tâm có thể áp dụng quy định tại khoản 5 Điều 46 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1212,
+    "line_end": 1213
+  },
+  {
+    "clause_id": "dieu-39-khoan-6",
+    "anchor": "dieu-39-khoan-6",
+    "title": "6. Hồ sơ mời quan tâm chỉ được nêu các yêu cầu nhằm mục đích là lựa chọn được nhà đầu tư đáp ứng tư cách hợp lệ, năng lực và kinh nghiệm thực hiện dự án; không được nêu bất cứ điều kiện nào nhằm hạn chế sự tham gia của nhà đầu tư hoặc nhằm tạo lợi thế cho một hoặc một số nhà đầu tư gây ra sự cạnh tranh không bình đẳng.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1215,
+    "line_end": 1216
+  },
+  {
+    "clause_id": "dieu-39-khoan-7",
+    "anchor": "dieu-39-khoan-7",
+    "title": "7. Hồ sơ mời quan tâm được lập, phê duyệt đồng thời trong quá trình quyết định chấp thuận chủ trương đầu tư (đối với dự án thuộc diện chấp thuận chủ trương đầu tư theo quy định của pháp luật về đầu tư) hoặc trong quá trình lập, phê duyệt thông tin dự án đầu tư có sử dụng đất (đối với dự án không thuộc diện chấp thuận chủ trương đầu tư) hoặc sau khi các quyết định này được cấp có thẩm quyền phê duyệt.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1218,
+    "line_end": 1219
+  },
+  {
+    "clause_id": "dieu-40",
+    "anchor": "dieu-40",
+    "title": "Điều 40. Thông báo mời quan tâm, phát hành, sửa đổi, làm rõ hồ sơ mời quan tâm; gia hạn thời gian nộp hồ sơ đăng ký thực hiện dự án",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1222,
+    "line_end": 1223
+  },
+  {
+    "clause_id": "dieu-40-khoan-1",
+    "anchor": "dieu-40-khoan-1",
+    "title": "1. Thông báo mời quan tâm được đăng tải trên Hệ thống mạng đấu thầu quốc gia theo quy định tại khoản 2 Điều 8 của Luật Đấu thầu. Đối với dự án thuộc trường hợp mời quan tâm quốc tế theo quy định tại khoản 2 Điều 37 của Nghị định này, thông báo mời quan tâm phải được đăng tải bằng tiếng Anh và tiếng Việt trên Hệ thống mạng đấu thầu quốc gia và trên trang thông tin điện tử của Bộ quản lý ngành, lĩnh vực, Ủy ban nhân dân cấp tỉnh (nếu có) hoặc tờ báo bằng tiếng Anh được phát hành tại Việt Nam.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1225,
+    "line_end": 1226
+  },
+  {
+    "clause_id": "dieu-40-khoan-2",
+    "anchor": "dieu-40-khoan-2",
+    "title": "2. Hồ sơ mời quan tâm được phát hành trên Hệ thống mạng đấu thầu quốc gia. Bên mời quan tâm đăng tải miễn phí và đầy đủ tệp tin (file) hồ sơ mời quan tâm trên Hệ thống mạng đấu thầu quốc gia.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1228,
+    "line_end": 1229
+  },
+  {
+    "clause_id": "dieu-40-khoan-3",
+    "anchor": "dieu-40-khoan-3",
+    "title": "3. Trường hợp sửa đổi hồ sơ mời quan tâm sau khi phát hành, bên mời quan tâm phải đăng tải trên Hệ thống mạng đấu thầu quốc gia quyết định sửa đổi kèm theo những nội dung sửa đổi hồ sơ mời quan tâm, hồ sơ mời quan tâm đã được sửa đổi. Việc đăng tải quyết định sửa đổi trên Hệ thống mạng đấu thầu quốc gia được thực hiện trong thời hạn tối thiểu là 10 ngày trước ngày hết hạn nộp hồ sơ đăng ký thực hiện dự án.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1231,
+    "line_end": 1232
+  },
+  {
+    "clause_id": "dieu-40-khoan-4",
+    "anchor": "dieu-40-khoan-4",
+    "title": "4. Làm rõ hồ sơ mời quan tâm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1234,
+    "line_end": 1243
+  },
+  {
+    "clause_id": "dieu-40-khoan-5",
+    "anchor": "dieu-40-khoan-5",
+    "title": "5. Trường hợp cần gia hạn thời gian nộp hồ sơ đăng ký thực hiện dự án, bên mời quan tâm đăng tải thông báo gia hạn kèm theo quyết định phê duyệt gia hạn trên Hệ thống mạng đấu thầu quốc gia. Thông báo gia hạn phải nêu rõ lý do gia hạn, thời điểm đóng thầu mới.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1245,
+    "line_end": 1246
+  },
+  {
+    "clause_id": "dieu-41",
+    "anchor": "dieu-41",
+    "title": "Điều 41. Chuẩn bị, nộp, tiếp nhận, sửa đổi, rút, làm rõ hồ sơ đăng ký thực hiện dự án",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1249,
+    "line_end": 1250
+  },
+  {
+    "clause_id": "dieu-41-khoan-1",
+    "anchor": "dieu-41-khoan-1",
+    "title": "1. Nhà đầu tư chuẩn bị và nộp hồ sơ đăng ký thực hiện dự án trên Hệ thống mạng đấu thầu quốc gia theo yêu cầu của hồ sơ mời quan tâm. Thời gian chuẩn bị hồ sơ đăng ký thực hiện dự án tối thiểu là 30 ngày kể từ ngày đầu tiên phát hành hồ sơ mời quan tâm đến ngày có thời điểm đóng thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1252,
+    "line_end": 1253
+  },
+  {
+    "clause_id": "dieu-41-khoan-2",
+    "anchor": "dieu-41-khoan-2",
+    "title": "2. Hồ sơ đăng ký thực hiện dự án của nhà đầu tư bao gồm: văn bản đăng ký thực hiện dự án; hồ sơ về tư cách hợp lệ, năng lực, kinh nghiệm của nhà đầu tư; các tài liệu khác có liên quan (nếu có).",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1255,
+    "line_end": 1256
+  },
+  {
+    "clause_id": "dieu-41-khoan-3",
+    "anchor": "dieu-41-khoan-3",
+    "title": "3. Việc sửa đổi, rút hồ sơ đăng ký thực hiện dự án chỉ được thực hiện trước thời điểm hết hạn nộp hồ sơ đăng ký thực hiện dự án.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1258,
+    "line_end": 1259
+  },
+  {
+    "clause_id": "dieu-41-khoan-4",
+    "anchor": "dieu-41-khoan-4",
+    "title": "4. Nhà đầu tư có trách nhiệm làm rõ hồ sơ đăng ký thực hiện dự án theo yêu cầu của bên mời quan tâm hoặc tự làm rõ, bổ sung tài liệu chứng minh tư cách hợp lệ, năng lực, kinh nghiệm khi nhà đầu tư phát hiện hồ sơ đăng ký thực hiện dự án thiếu thông tin về tư cách hợp lệ, năng lực, kinh nghiệm đã có của mình nhưng chưa nộp cùng hồ sơ. Việc làm rõ hồ sơ được thực hiện trên Hệ thống mạng đấu thầu quốc gia.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1261,
+    "line_end": 1262
+  },
+  {
+    "clause_id": "dieu-42",
+    "anchor": "dieu-42",
+    "title": "Điều 42. Mở thầu và đánh giá hồ sơ đăng ký thực hiện dự án đầu tư có sử dụng đất",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1265,
+    "line_end": 1266
+  },
+  {
+    "clause_id": "dieu-42-khoan-1",
+    "anchor": "dieu-42-khoan-1",
+    "title": "1. Việc mở thầu được thực hiện trên Hệ thống mạng đấu thầu quốc gia và bắt đầu ngay trong thời hạn 02 giờ kể từ thời điểm hết hạn nộp hồ sơ đăng ký thực hiện dự án đầu tư có sử dụng đất.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1268,
+    "line_end": 1269
+  },
+  {
+    "clause_id": "dieu-42-khoan-2",
+    "anchor": "dieu-42-khoan-2",
+    "title": "2. Bên mời quan tâm tổ chức đánh giá hồ sơ đăng ký thực hiện dự án đầu tư có sử dụng đất của các nhà đầu tư đã nộp hồ sơ. Việc đánh giá hồ sơ đăng ký thực hiện dự án căn cứ vào phương pháp, tiêu chuẩn đánh giá và các yêu cầu khác trong hồ sơ mời quan tâm, căn cứ vào hồ sơ đăng ký thực hiện dự án đã nộp, các tài liệu làm rõ hồ sơ đăng ký thực hiện dự án.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1271,
+    "line_end": 1272
+  },
+  {
+    "clause_id": "dieu-43",
+    "anchor": "dieu-43",
+    "title": "Điều 43. Trình, phê duyệt và công khai kết quả mời quan tâm",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1275,
+    "line_end": 1276
+  },
+  {
+    "clause_id": "dieu-43-khoan-1",
+    "anchor": "dieu-43-khoan-1",
+    "title": "1. Căn cứ kết quả đánh giá hồ sơ đăng ký thực hiện dự án đầu tư có sử dụng đất, bên mời quan tâm trình người có thẩm quyền xem xét, phê duyệt kết quả mời quan tâm và tổ chức lựa chọn nhà đầu tư theo quy định:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1278,
+    "line_end": 1285
+  },
+  {
+    "clause_id": "dieu-43-khoan-2",
+    "anchor": "dieu-43-khoan-2",
+    "title": "2. Đối với dự án quy định tại điểm a khoản 1 Điều này, người có thẩm quyền phê duyệt bảng theo dõi tiến độ các hoạt động lựa chọn nhà đầu tư theo quy định tại Điều 12 của Nghị định này, trong đó quyết định bên mời thầu, hình thức, phương thức đấu thầu lựa chọn nhà đầu tư, thời gian bắt đầu tổ chức lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất. Hình thức đấu thầu lựa chọn nhà đầu tư được xác định theo quy định sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1287,
+    "line_end": 1292
+  },
+  {
+    "clause_id": "dieu-43-khoan-3",
+    "anchor": "dieu-43-khoan-3",
+    "title": "3. Đối với trường hợp quy định tại điểm c khoản 1 Điều này, người có thẩm quyền thông báo bằng văn bản về việc kết thúc thủ tục mời quan tâm và xem xét quyết định thực hiện một trong hai thủ tục sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1294,
+    "line_end": 1299
+  },
+  {
+    "clause_id": "dieu-43-khoan-4",
+    "anchor": "dieu-43-khoan-4",
+    "title": "4. Căn cứ quyết định của người có thẩm quyền quy định tại khoản 1 Điều này, bên mời quan tâm có trách nhiệm đăng tải kết quả mời quan tâm, bảng theo dõi tiến độ thực hiện các hoạt động lựa chọn nhà đầu tư hoặc văn bản thông báo về việc kết thúc thủ tục mời quan tâm trên Hệ thống mạng đấu thầu quốc gia.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1301,
+    "line_end": 1302
+  },
+  {
+    "clause_id": "dieu-44",
+    "anchor": "dieu-44",
+    "title": "Điều 44. Quy trình, thủ tục đấu thầu lựa chọn nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1305,
+    "line_end": 1320
+  },
+  {
+    "clause_id": "dieu-44c",
+    "anchor": "dieu-44c",
+    "title": "Điều 44c. Các trường hợp chỉ định nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1325,
+    "line_end": 1326
+  },
+  {
+    "clause_id": "dieu-44c-khoan-1",
+    "anchor": "dieu-44c-khoan-1",
+    "title": "1. Dự án đầu tư có sử dụng đất cần thực hiện ngay nhằm bảo đảm yêu cầu cấp bách do thiên tai, dịch bệnh, hỏa hoạn, sự cố công trình theo quyết định của cấp có thẩm quyền.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1328,
+    "line_end": 1329
+  },
+  {
+    "clause_id": "dieu-44c-khoan-2",
+    "anchor": "dieu-44c-khoan-2",
+    "title": "2. Dự án quan trọng quốc gia được Quốc hội quyết định áp dụng hình thức chỉ định nhà đầu tư khi quyết định chủ trương đầu tư dự án.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1331,
+    "line_end": 1332
+  },
+  {
+    "clause_id": "dieu-44d",
+    "anchor": "dieu-44d",
+    "title": "Điều 44d. Quy trình chỉ định nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1334,
+    "line_end": 1335
+  },
+  {
+    "clause_id": "dieu-44d-khoan-1",
+    "anchor": "dieu-44d-khoan-1",
+    "title": "1. Lập, thẩm định, phê duyệt hồ sơ yêu cầu: Hồ sơ yêu cầu bao gồm thông tin tóm tắt về dự án; tiêu chuẩn đánh giá năng lực, kinh nghiệm của nhà đầu tư; tiêu chuẩn đánh giá phương án đầu tư kinh doanh; dự thảo hợp đồng dự án.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1337,
+    "line_end": 1338
+  },
+  {
+    "clause_id": "dieu-44d-khoan-2",
+    "anchor": "dieu-44d-khoan-2",
+    "title": "2. Phát hành hồ sơ yêu cầu và tiếp nhận hồ sơ đề xuất của nhà đầu tư được dự kiến chỉ định thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1340,
+    "line_end": 1341
+  },
+  {
+    "clause_id": "dieu-44d-khoan-3",
+    "anchor": "dieu-44d-khoan-3",
+    "title": "3. Đánh giá hồ sơ đề xuất, làm rõ và đàm phán hợp đồng với nhà đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1343,
+    "line_end": 1344
+  },
+  {
+    "clause_id": "dieu-44d-khoan-4",
+    "anchor": "dieu-44d-khoan-4",
+    "title": "4. Thẩm định, phê duyệt và công khai kết quả lựa chọn nhà đầu tư theo quy định.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1346,
+    "line_end": 1347
+  },
+  {
+    "clause_id": "dieu-44d-khoan-5",
+    "anchor": "dieu-44d-khoan-5",
+    "title": "5. Ký kết và quản lý thực hiện hợp đồng dự án đầu tư có sử dụng đất.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1349,
+    "line_end": 1350
+  },
+  {
+    "clause_id": "dieu-45",
+    "anchor": "dieu-45",
+    "title": "Điều 45. Phương pháp đánh giá",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1353,
+    "line_end": 1354
+  },
+  {
+    "clause_id": "dieu-45-khoan-1",
+    "anchor": "dieu-45-khoan-1",
+    "title": "1. Việc đánh giá hồ sơ dự thầu của nhà đầu tư được thực hiện trên cơ sở phương pháp, tiêu chuẩn quy định tại Điều 62 của Luật Đấu thầu và tiêu chuẩn chi tiết, tiêu chí quy định tại các Điều 46, 47, 48 và 49 của Nghị định này. Hồ sơ dự thầu được đánh giá theo thang điểm 100 hoặc 1.000.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1356,
+    "line_end": 1357
+  },
+  {
+    "clause_id": "dieu-45-khoan-2",
+    "anchor": "dieu-45-khoan-2",
+    "title": "2. Đối với dự án quy định tại khoản 1 Điều 4 của Nghị định này, điểm tổng hợp được xây dựng trên cơ sở kết hợp giữa điểm năng lực, kinh nghiệm, điểm phương án đầu tư kinh doanh và điểm hiệu quả sử dụng đất, bảo đảm tổng tỷ trọng là 100%, trong đó:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1359,
+    "line_end": 1366
+  },
+  {
+    "clause_id": "dieu-45-khoan-3",
+    "anchor": "dieu-45-khoan-3",
+    "title": "3. Đối với dự án quy định tại khoản 2 Điều 4 của Nghị định này (trừ dự án quy định tại khoản 4 và khoản 7 Điều này), điểm tổng hợp được xây dựng trên cơ sở kết hợp giữa điểm năng lực, kinh nghiệm, điểm phương án đầu tư kinh doanh và điểm hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương, bảo đảm tổng tỷ trọng là 100%, trong đó:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1368,
+    "line_end": 1375
+  },
+  {
+    "clause_id": "dieu-45-khoan-4",
+    "anchor": "dieu-45-khoan-4",
+    "title": "4. Đối với dự án đầu tư xây dựng công trình năng lượng quy định tại điểm i khoản 2 Điều 4 của Nghị định này, điểm tổng hợp được xây dựng trên cơ sở kết hợp giữa điểm năng lực, kinh nghiệm, điểm phương án đầu tư kinh doanh và điểm hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương, bảo đảm tổng tỷ trọng là 100%, trong đó:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1377,
+    "line_end": 1384
+  },
+  {
+    "clause_id": "dieu-45-khoan-5",
+    "anchor": "dieu-45-khoan-5",
+    "title": "5. Nhà đầu tư phải đáp ứng điểm tối thiểu sau đây để được đánh giá, xếp hạng:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1386,
+    "line_end": 1395
+  },
+  {
+    "clause_id": "dieu-45-khoan-6",
+    "anchor": "dieu-45-khoan-6",
+    "title": "6. Đối với dự án đầu tư có sử dụng đất có yêu cầu đặc thù về điều kiện đầu tư kinh doanh, quản lý, phát triển ngành, lĩnh vực theo quy định của pháp luật về đầu tư, pháp luật quản lý ngành, lĩnh vực, hồ sơ mời thầu quy định cố định một hoặc các tiêu chí đánh giá về phương án đầu tư kinh doanh của nhà đầu tư hoặc về hiệu quả sử dụng đất, hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương mà không phải xây dựng thang điểm đối với tiêu chí cố định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1397,
+    "line_end": 1398
+  },
+  {
+    "clause_id": "dieu-45-khoan-7",
+    "anchor": "dieu-45-khoan-7",
+    "title": "7. Đối với dự án xây dựng nhà ở xã hội, nhà ở cho lực lượng vũ trang nhân dân, thang điểm, điểm và tiêu chí đánh giá thực hiện theo quy định của pháp luật về nhà ở.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1400,
+    "line_end": 1401
+  },
+  {
+    "clause_id": "dieu-46",
+    "anchor": "dieu-46",
+    "title": "Điều 46. Tiêu chuẩn đánh giá về năng lực, kinh nghiệm",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1404,
+    "line_end": 1405
+  },
+  {
+    "clause_id": "dieu-46-khoan-1",
+    "anchor": "dieu-46-khoan-1",
+    "title": "1. Tiêu chuẩn đánh giá về năng lực tài chính, khả năng thu xếp vốn gồm các tiêu chí sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1407,
+    "line_end": 1418
+  },
+  {
+    "clause_id": "dieu-46-khoan-2",
+    "anchor": "dieu-46-khoan-2",
+    "title": "2. Tiêu chuẩn đánh giá về kinh nghiệm thực hiện các dự án tương tự căn cứ lĩnh vực; quy mô đầu tư; thời gian và mức độ hoàn thành công trình, dự án, gồm các tiêu chí sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1420,
+    "line_end": 1431
+  },
+  {
+    "clause_id": "dieu-46-khoan-3",
+    "anchor": "dieu-46-khoan-3",
+    "title": "3. Trường hợp liên danh, kinh nghiệm thực hiện các dự án tương tự quy định tại khoản 2 Điều này của nhà đầu tư liên danh bằng tổng số dự án của các thành viên liên danh đã thực hiện.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1433,
+    "line_end": 1434
+  },
+  {
+    "clause_id": "dieu-46-khoan-4",
+    "anchor": "dieu-46-khoan-4",
+    "title": "4. Nhà đầu tư được sử dụng kinh nghiệm của đối tác để chứng minh kinh nghiệm thực hiện các dự án tương tự quy định tại khoản 2 Điều này. Đối tác là tổ chức ký kết hợp đồng với nhà đầu tư hoặc là công ty con của nhà đầu tư, được nhà đầu tư đề xuất trong hồ sơ dự thầu để cùng tham gia thực hiện dự án đầu tư có sử dụng đất. Trong trường hợp này, kinh nghiệm của đối tác và khả năng đáp ứng công việc đối tác tham gia cùng thực hiện phải được đánh giá trên cơ sở yêu cầu quy định tại hồ sơ mời thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1436,
+    "line_end": 1437
+  },
+  {
+    "clause_id": "dieu-46-khoan-5",
+    "anchor": "dieu-46-khoan-5",
+    "title": "5. Trường hợp dự án áp dụng hình thức đấu thầu trong nước nhưng cần thúc đẩy sử dụng công nghệ, kỹ thuật tiên tiến, kinh nghiệm quản lý quốc tế, hồ sơ mời thầu có thể quy định nhà đầu tư trong nước được sử dụng đối tác là nhà thầu nước ngoài.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1439,
+    "line_end": 1440
+  },
+  {
+    "clause_id": "dieu-46-khoan-6",
+    "anchor": "dieu-46-khoan-6",
+    "title": "6. Đối với dự án đầu tư có sử dụng đất đã thực hiện thủ tục mời quan tâm và có từ hai nhà đầu tư trở lên đáp ứng yêu cầu của hồ sơ mời quan tâm theo quy định tại điểm a khoản 1 Điều 43 của Nghị định này, tiêu chuẩn đánh giá về năng lực, kinh nghiệm trong hồ sơ mời thầu phải được cập nhật, bổ sung căn cứ hồ sơ mời quan tâm được phê duyệt, các khoản 1, 2, 3, 4 và 5 Điều này và các văn bản quy định tại Điều 13 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1442,
+    "line_end": 1443
+  },
+  {
+    "clause_id": "dieu-47",
+    "anchor": "dieu-47",
+    "title": "Điều 47. Tiêu chuẩn đánh giá về phương án đầu tư kinh doanh của nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1446,
+    "line_end": 1447
+  },
+  {
+    "clause_id": "dieu-47-khoan-1",
+    "anchor": "dieu-47-khoan-1",
+    "title": "1. Tiêu chuẩn đánh giá về kỹ thuật:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1449,
+    "line_end": 1474
+  },
+  {
+    "clause_id": "dieu-47-khoan-2",
+    "anchor": "dieu-47-khoan-2",
+    "title": "2. Tiêu chuẩn đánh giá về xã hội:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1476,
+    "line_end": 1489
+  },
+  {
+    "clause_id": "dieu-47-khoan-3",
+    "anchor": "dieu-47-khoan-3",
+    "title": "3. Tiêu chuẩn đánh giá về môi trường:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1491,
+    "line_end": 1502
+  },
+  {
+    "clause_id": "dieu-48",
+    "anchor": "dieu-48",
+    "title": "Điều 48. Tiêu chuẩn đánh giá về hiệu quả sử dụng đất",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1505,
+    "line_end": 1506
+  },
+  {
+    "clause_id": "dieu-48-khoan-1",
+    "anchor": "dieu-48-khoan-1",
+    "title": "1. Tiêu chuẩn đánh giá về hiệu quả sử dụng đất được áp dụng đối với dự án quy định tại khoản 1 Điều 4 của Nghị định này và được xác định trong hồ sơ mời thầu trên cơ sở tỷ lệ tối thiểu nộp ngân sách nhà nước (m) quy định tại khoản 3 Điều này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1508,
+    "line_end": 1509
+  },
+  {
+    "clause_id": "dieu-48-khoan-2",
+    "anchor": "dieu-48-khoan-2",
+    "title": "2. Nhà đầu tư đề xuất tỷ lệ nộp ngân sách nhà nước trong hồ sơ dự thầu (M) căn cứ tỷ lệ tối thiểu nộp ngân sách nhà nước (m) quy định tại hồ sơ mời thầu, trong đó M ≥ m.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1511,
+    "line_end": 1512
+  },
+  {
+    "clause_id": "dieu-48-khoan-3",
+    "anchor": "dieu-48-khoan-3",
+    "title": "3. Tỷ lệ tối thiểu nộp ngân sách nhà nước là tỷ lệ tăng bình quân sau đấu giá quyền sử dụng đất tính trên một đơn vị diện tích của tất cả các khu đất, quỹ đất, thửa đất tham chiếu theo quy định tại khoản 4 Điều này và được xác định theo công thức sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1514,
+    "line_end": 1523
+  },
+  {
+    "clause_id": "dieu-48-khoan-4",
+    "anchor": "dieu-48-khoan-4",
+    "title": "4. Khu đất, quỹ đất, thửa đất được sử dụng để tham chiếu phải đáp ứng các điều kiện sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1525,
+    "line_end": 1532
+  },
+  {
+    "clause_id": "dieu-48-khoan-5",
+    "anchor": "dieu-48-khoan-5",
+    "title": "5. Khu đất, quỹ đất, thửa đất tương đồng về địa điểm được xác định như sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1534,
+    "line_end": 1543
+  },
+  {
+    "clause_id": "dieu-48-khoan-6",
+    "anchor": "dieu-48-khoan-6",
+    "title": "6. Trường hợp không có khu đất, quỹ đất, thửa đất đã đấu giá để tham chiếu theo quy định tại khoản 4 và khoản 5 Điều này thì sử dụng tỷ lệ tăng bình quân của giá trị nộp ngân sách nhà nước của tất cả các dự án đầu tư có sử dụng đất đã có kết quả đấu thầu trên địa bàn hành chính cấp tỉnh trong thời gian 05 năm liền kề gần nhất trước ngày có quyết định chấp thuận chủ trương đầu tư hoặc có văn bản phê duyệt thông tin dự án của dự án đang tổ chức đấu thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1545,
+    "line_end": 1546
+  },
+  {
+    "clause_id": "dieu-48-khoan-7",
+    "anchor": "dieu-48-khoan-7",
+    "title": "7. Trường hợp không xác định được khu đất, quỹ đất, thửa đất tham chiếu theo quy định tại các khoản 4, 5 và 6 Điều này để tính tỷ lệ tối thiểu nộp ngân sách nhà nước (m), hồ sơ mời thầu không quy định tỷ lệ này. Nhà đầu tư tự đề xuất tỷ lệ nộp ngân sách nhà nước trong hồ sơ dự thầu (M) làm cơ sở đánh giá hồ sơ dự thầu của nhà đầu tư và nộp ngân sách nhà nước theo quy định tại khoản 8 Điều này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1548,
+    "line_end": 1549
+  },
+  {
+    "clause_id": "dieu-48-khoan-8",
+    "anchor": "dieu-48-khoan-8",
+    "title": "8. Việc nộp giá trị M vào ngân sách nhà nước được thực hiện như sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1551,
+    "line_end": 1560
+  },
+  {
+    "clause_id": "dieu-48-khoan-9",
+    "anchor": "dieu-48-khoan-9",
+    "title": "9. Căn cứ chức năng, nhiệm vụ, quyền hạn của cơ quan chuyên môn thuộc cơ quan có thẩm quyền theo quy định của pháp luật và điều kiện cụ thể của từng địa phương, Chủ tịch Ủy ban nhân dân cấp tỉnh giao cơ quan, đơn vị chuyên môn về đất đai chủ trì, phối hợp với bên mời thầu thống kê khu đất, quỹ đất, thửa đất tham chiếu quy định tại khoản 4 và khoản 5 Điều này làm cơ sở xác định giá trị m trong hồ sơ mời thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1562,
+    "line_end": 1565
+  },
+  {
+    "clause_id": "dieu-49",
+    "anchor": "dieu-49",
+    "title": "Điều 49. Tiêu chuẩn đánh giá về hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1568,
+    "line_end": 1569
+  },
+  {
+    "clause_id": "dieu-49-khoan-1",
+    "anchor": "dieu-49-khoan-1",
+    "title": "1. Tiêu chuẩn đánh giá về hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương được áp dụng đối với dự án quy định tại khoản 2 Điều 4 của Nghị định này. Căn cứ yêu cầu phát triển ngành, lĩnh vực, địa phương, trừ dự án quy định tại các khoản 2, 3 và 4 Điều này, tiêu chuẩn đánh giá về hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương được xây dựng trên cơ sở một trong các tiêu chuẩn sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1571,
+    "line_end": 1586
+  },
+  {
+    "clause_id": "dieu-49-khoan-2",
+    "anchor": "dieu-49-khoan-2",
+    "title": "2. Đối với dự án đầu tư xây dựng công trình năng lượng, tiêu chuẩn đánh giá về hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương là mức trần giá điện dưới trần khung giá do Bộ Công Thương ban hành và nguyên tắc giá được thống nhất với bên mua điện theo quy định của pháp luật về điện lực trong hồ sơ mời thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1588,
+    "line_end": 1589
+  },
+  {
+    "clause_id": "dieu-49-khoan-3",
+    "anchor": "dieu-49-khoan-3",
+    "title": "3. Đối với dự án đầu tư xây dựng công trình dịch vụ hàng không tại cảng hàng không, sân bay, tiêu chuẩn đánh giá về hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương là mức tối thiểu nộp ngân sách nhà nước được quy định trong hồ sơ mời thầu và được xác định như sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1591,
+    "line_end": 1604
+  },
+  {
+    "clause_id": "dieu-49-khoan-4",
+    "anchor": "dieu-49-khoan-4",
+    "title": "4. Đối với dự án cải tạo, xây dựng lại nhà chung cư, tiêu chuẩn đánh giá về hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương là thời gian tối đa để nhà đầu tư bàn giao nhà ở phục vụ tái định cư theo quy định của pháp luật về nhà ở được quy định trong hồ sơ mời thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1606,
+    "line_end": 1607
+  },
+  {
+    "clause_id": "dieu-49-khoan-5",
+    "anchor": "dieu-49-khoan-5",
+    "title": "5. Giá trị, tỷ lệ quy định tại điểm a, điểm b khoản 1 và điểm a, điểm b khoản 3 Điều này độc lập với nghĩa vụ của nhà đầu tư đối với ngân sách nhà nước theo quy định của pháp luật.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1609,
+    "line_end": 1610
+  },
+  {
+    "clause_id": "dieu-49-khoan-6",
+    "anchor": "dieu-49-khoan-6",
+    "title": "6. Việc nộp vào ngân sách nhà nước các giá trị quy định tại điểm a, điểm b khoản 1 và điểm a, điểm b khoản 3 Điều này được thực hiện như sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1612,
+    "line_end": 1617
+  },
+  {
+    "clause_id": "dieu-49-khoan-7",
+    "anchor": "dieu-49-khoan-7",
+    "title": "7. Đối với dự án quy định tại khoản 1 Điều 4 của Nghị định này, ngoài tiêu chuẩn quy định tại Điều 48 Nghị định này, hồ sơ mời thầu có thể bổ sung tiêu chuẩn quy định tại điểm d hoặc điểm đ khoản 1 Điều này. Trong trường hợp này, hồ sơ mời thầu phải xác định tỷ trọng tương ứng của tiêu chuẩn quy định tại điểm d hoặc điểm đ khoản 1 Điều này nhưng không quá 10% số điểm quy định tại điểm c khoản 2 Điều 45 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1619,
+    "line_end": 1620
+  },
+  {
+    "clause_id": "dieu-49-khoan-8",
+    "anchor": "dieu-49-khoan-8",
+    "title": "8. Nhà đầu tư đề xuất giá trị về hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương trong hồ sơ dự thầu không thấp hơn mức tối thiểu, không cao hơn mức tối đa hoặc mức trần căn cứ tiêu chuẩn đánh giá quy định tại hồ sơ mời thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1622,
+    "line_end": 1623
+  },
+  {
+    "clause_id": "dieu-50",
+    "anchor": "dieu-50",
+    "title": "Điều 50. Nguyên tắc xét duyệt trúng thầu",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1626,
+    "line_end": 1627
+  },
+  {
+    "clause_id": "dieu-50-khoan-1",
+    "anchor": "dieu-50-khoan-1",
+    "title": "1. Nhà đầu tư được xem xét, đề nghị trúng thầu khi đáp ứng đủ các điều kiện sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1629,
+    "line_end": 1642
+  },
+  {
+    "clause_id": "dieu-50-khoan-2",
+    "anchor": "dieu-50-khoan-2",
+    "title": "2. Đối với nhà đầu tư không được lựa chọn, thông báo kết quả lựa chọn nhà đầu tư phải nêu lý do nhà đầu tư không trúng thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1644,
+    "line_end": 1645
+  },
+  {
+    "clause_id": "dieu-51",
+    "anchor": "dieu-51",
+    "title": "Điều 51. Thành lập tổ chức kinh tế để thực hiện dự án đầu tư có sử dụng đất của nhà đầu tư trúng thầu",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1652,
+    "line_end": 1653
+  },
+  {
+    "clause_id": "dieu-51-khoan-1",
+    "anchor": "dieu-51-khoan-1",
+    "title": "1. Nhà đầu tư trúng thầu trực tiếp thực hiện dự án hoặc thành lập tổ chức kinh tế để thực hiện dự án đầu tư có sử dụng đất. Nhà đầu tư nước ngoài trúng thầu phải thành lập tổ chức kinh tế để được giao đất, cho thuê đất thực hiện dự án theo quy định của pháp luật về đất đai.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1655,
+    "line_end": 1658
+  },
+  {
+    "clause_id": "dieu-51-khoan-2",
+    "anchor": "dieu-51-khoan-2",
+    "title": "2. Trường hợp thành lập tổ chức kinh tế để thực hiện dự án đầu tư có sử dụng đất theo quy định tại khoản 1 Điều này, nhà đầu tư phải đề xuất trong hồ sơ dự thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1660,
+    "line_end": 1661
+  },
+  {
+    "clause_id": "dieu-51-khoan-3",
+    "anchor": "dieu-51-khoan-3",
+    "title": "3. Tổ chức kinh tế do nhà đầu tư trúng thầu thành lập theo quy định tại khoản 1 và khoản 2 Điều này phải do nhà đầu tư trúng thầu nắm giữ 100% vốn điều lệ, đáp ứng điều kiện để được giao đất, cho thuê đất theo quy định của pháp luật về đất đai và các điều kiện thành lập, tổ chức quản lý, hoạt động, giải thể theo quy định của pháp luật tương ứng với từng loại hình tổ chức kinh tế, pháp luật về đầu tư, doanh nghiệp, đất đai, kinh doanh bất động sản và pháp luật quản lý ngành, lĩnh vực.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1663,
+    "line_end": 1664
+  },
+  {
+    "clause_id": "dieu-51-khoan-4",
+    "anchor": "dieu-51-khoan-4",
+    "title": "4. Tổ chức kinh tế do nhà đầu tư trúng thầu thành lập có quyền và nghĩa vụ sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1666,
+    "line_end": 1673
+  },
+  {
+    "clause_id": "dieu-52",
+    "anchor": "dieu-52",
+    "title": "Điều 52. Triển khai thực hiện dự án đầu tư có sử dụng đất của nhà đầu tư trúng thầu, tổ chức kinh tế do nhà đầu tư trúng thầu thành lập",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1676,
+    "line_end": 1677
+  },
+  {
+    "clause_id": "dieu-52-khoan-1",
+    "anchor": "dieu-52-khoan-1",
+    "title": "1. Nhà đầu tư trúng thầu, tổ chức kinh tế do nhà đầu tư trúng thầu thành lập tổ chức triển khai thực hiện dự án đầu tư có sử dụng đất theo quy định tại hợp đồng, pháp luật về doanh nghiệp, đầu tư, xây dựng, đất đai, kinh doanh bất động sản và pháp luật khác có liên quan.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1679,
+    "line_end": 1680
+  },
+  {
+    "clause_id": "dieu-52-khoan-2",
+    "anchor": "dieu-52-khoan-2",
+    "title": "2. Nhà đầu tư trúng thầu hoặc tổ chức kinh tế do nhà đầu tư trúng thầu thành lập ứng vốn để thực hiện bồi thường, hỗ trợ, tái định cư theo quy định của pháp luật về đất đai. Trường hợp quá thời hạn kể từ ngày nhận được yêu cầu của cơ quan nhà nước có thẩm quyền mà không ứng đủ vốn, nhà đầu tư không được hoàn trả bảo đảm thực hiện hợp đồng theo quy định tại điểm b khoản 4 Điều 75 của Luật Đấu thầu. Trong trường hợp này, việc hoàn trả kinh phí cho công tác bồi thường, hỗ trợ, tái định cư mà nhà đầu tư trúng thầu đã ứng trước được thực hiện theo quy định của pháp luật về đất đai.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1682,
+    "line_end": 1683
+  },
+  {
+    "clause_id": "dieu-52-khoan-3",
+    "anchor": "dieu-52-khoan-3",
+    "title": "3. Trong quá trình thực hiện dự án đầu tư có sử dụng đất, nhà đầu tư trúng thầu, tổ chức kinh tế do nhà đầu tư trúng thầu thành lập được chuyển nhượng một phần hoặc toàn bộ dự án khi đáp ứng các điều kiện sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1685,
+    "line_end": 1690
+  },
+  {
+    "clause_id": "dieu-52-khoan-4",
+    "anchor": "dieu-52-khoan-4",
+    "title": "4. Việc chuyển nhượng cổ phần, phần vốn góp của các thành viên, cổ đông trong tổ chức kinh tế do nhà đầu tư trúng thầu thành lập trước khi dự án được khai thác, vận hành thì phải đáp ứng các điều kiện sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1692,
+    "line_end": 1701
+  },
+  {
+    "clause_id": "dieu-52-khoan-5",
+    "anchor": "dieu-52-khoan-5",
+    "title": "5. Việc chuyển nhượng dự án đầu tư có sử dụng đất, chuyển nhượng cổ phần, phần vốn góp trong tổ chức kinh tế theo quy định tại khoản 3 và khoản 4 Điều này phải được quy định tại hợp đồng.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1703,
+    "line_end": 1708
+  },
+  {
+    "clause_id": "dieu-52-khoan-6",
+    "anchor": "dieu-52-khoan-6",
+    "title": "6. Trường hợp việc chuyển nhượng dự án, chuyển nhượng cổ phần, phần vốn góp quy định tại khoản 3 và khoản 4 Điều này dẫn đến điều chỉnh dự án đầu tư thì sau khi được người có thẩm quyền chấp thuận theo quy định tại khoản 5 Điều này, nhà đầu tư chuyển nhượng hoặc tổ chức kinh tế thực hiện thủ tục điều chỉnh dự án đầu tư theo quy định của pháp luật về đầu tư và pháp luật có liên quan trước khi sửa đổi, bổ sung hợp đồng dự án.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1710,
+    "line_end": 1711
+  },
+  {
+    "clause_id": "dieu-52-khoan-7",
+    "anchor": "dieu-52-khoan-7",
+    "title": "7. Trường hợp việc chuyển nhượng dự án, chuyển nhượng cổ phần, phần vốn góp quy định tại khoản 3 và khoản 4 Điều này làm phát sinh nghĩa vụ tài chính đối với Nhà nước theo quy định của pháp luật thì nhà đầu tư trúng thầu, tổ chức kinh tế do nhà đầu tư trúng thầu thành lập phải thực hiện đầy đủ nghĩa vụ tài chính đối với Nhà nước.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1713,
+    "line_end": 1714
+  },
+  {
+    "clause_id": "dieu-52-khoan-8",
+    "anchor": "dieu-52-khoan-8",
+    "title": "8. Nhà đầu tư trúng thầu, tổ chức kinh tế do nhà đầu tư trúng thầu thành lập có quyền góp vốn, tăng vốn điều lệ để thực hiện dự án đầu tư kinh doanh khác (nếu có) nhưng không được làm ảnh hưởng đến các quyền và nghĩa vụ đã cam kết tại hồ sơ dự thầu và hợp đồng dự án.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1716,
+    "line_end": 1717
+  },
+  {
+    "clause_id": "dieu-52-khoan-9",
+    "anchor": "dieu-52-khoan-9",
+    "title": "9. Trong quá trình thực hiện dự án đầu tư có sử dụng đất, trường hợp có yêu cầu phải điều chỉnh dự án đầu tư đối với dự án thuộc diện chấp thuận chủ trương đầu tư theo quy định tại điểm a khoản 1 Điều 76 của Luật Đấu thầu (trừ trường hợp quy định tại khoản 3 và khoản 4 Điều này) hoặc điều chỉnh dự án đầu tư đối với dự án không thuộc diện chấp thuận chủ trương đầu tư dẫn đến thay đổi nội dung hợp đồng dự án, người có thẩm quyền giao bên mời thầu xem xét, đánh giá năng lực kỹ thuật, tài chính của nhà đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1719,
+    "line_end": 1722
+  },
+  {
+    "clause_id": "dieu-53",
+    "anchor": "dieu-53",
+    "title": "Điều 53. Triển khai thực hiện dự án đầu tư có sử dụng đất của nhà đầu tư được chấp thuận theo quy định của pháp luật về đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1725,
+    "line_end": 1726
+  },
+  {
+    "clause_id": "dieu-53-khoan-1",
+    "anchor": "dieu-53-khoan-1",
+    "title": "1. Nhà đầu tư được chấp thuận thực hiện dự án đầu tư có sử dụng đất theo quyết định chấp thuận nhà đầu tư, pháp luật về doanh nghiệp, đầu tư, xây dựng, đất đai, kinh doanh bất động sản, pháp luật quản lý ngành, lĩnh vực và pháp luật khác có liên quan.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1728,
+    "line_end": 1729
+  },
+  {
+    "clause_id": "dieu-53-khoan-2",
+    "anchor": "dieu-53-khoan-2",
+    "title": "2. Nhà đầu tư được chấp thuận trực tiếp thực hiện dự án hoặc thành lập tổ chức kinh tế để thực hiện dự án đầu tư có sử dụng đất. Việc thành lập, tổ chức quản lý, hoạt động, giải thể tổ chức kinh tế do nhà đầu tư được chấp thuận thành lập để thực hiện dự án đầu tư có sử dụng đất thực hiện theo quy định của pháp luật tương ứng với từng loại hình tổ chức kinh tế, pháp luật về đầu tư, doanh nghiệp, đất đai, kinh doanh bất động sản và pháp luật quản lý ngành, lĩnh vực.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1731,
+    "line_end": 1732
+  },
+  {
+    "clause_id": "dieu-53-khoan-3",
+    "anchor": "dieu-53-khoan-3",
+    "title": "3. Nhà đầu tư được chấp thuận được giao đất, cho thuê đất, thực hiện nghĩa vụ tài chính về nộp tiền sử dụng đất, tiền thuê đất theo quy định của pháp luật về đất đai.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1734,
+    "line_end": 1735
+  },
+  {
+    "clause_id": "dieu-54",
+    "anchor": "dieu-54",
+    "title": "Điều 54. Thẩm định hồ sơ mời thầu",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1742,
+    "line_end": 1743
+  },
+  {
+    "clause_id": "dieu-54-khoan-1",
+    "anchor": "dieu-54-khoan-1",
+    "title": "1. Hồ sơ trình thẩm định, phê duyệt gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1745,
+    "line_end": 1754
+  },
+  {
+    "clause_id": "dieu-54-khoan-2",
+    "anchor": "dieu-54-khoan-2",
+    "title": "2. Nội dung thẩm định gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1756,
+    "line_end": 1765
+  },
+  {
+    "clause_id": "dieu-54-khoan-3",
+    "anchor": "dieu-54-khoan-3",
+    "title": "3. Nội dung báo cáo thẩm định bao gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1767,
+    "line_end": 1778
+  },
+  {
+    "clause_id": "dieu-54-khoan-4",
+    "anchor": "dieu-54-khoan-4",
+    "title": "4. Trước khi ký báo cáo thẩm định, tổ thẩm định tổ chức họp giữa các bên để trao đổi, giải quyết các nội dung còn có ý kiến khác nhau của hồ sơ mời thầu (nếu cần).",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1780,
+    "line_end": 1781
+  },
+  {
+    "clause_id": "dieu-55",
+    "anchor": "dieu-55",
+    "title": "Điều 55. Thẩm định kết quả lựa chọn nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1784,
+    "line_end": 1785
+  },
+  {
+    "clause_id": "dieu-55-khoan-1",
+    "anchor": "dieu-55-khoan-1",
+    "title": "1. Hồ sơ trình thẩm định, phê duyệt gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1787,
+    "line_end": 1794
+  },
+  {
+    "clause_id": "dieu-55-khoan-2",
+    "anchor": "dieu-55-khoan-2",
+    "title": "2. Nội dung thẩm định gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1796,
+    "line_end": 1807
+  },
+  {
+    "clause_id": "dieu-55-khoan-3",
+    "anchor": "dieu-55-khoan-3",
+    "title": "3. Nội dung báo cáo thẩm định bao gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1809,
+    "line_end": 1822
+  },
+  {
+    "clause_id": "dieu-56",
+    "anchor": "dieu-56",
+    "title": "Điều 56. Trách nhiệm của Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Chủ tịch Ủy ban nhân dân cấp tỉnh, Trưởng Ban quản lý khu kinh tế",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1825,
+    "line_end": 1826
+  },
+  {
+    "clause_id": "dieu-56-khoan-1",
+    "anchor": "dieu-56-khoan-1",
+    "title": "1. Phê duyệt kết quả mời quan tâm, kết quả lựa chọn nhà đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1828,
+    "line_end": 1829
+  },
+  {
+    "clause_id": "dieu-56-khoan-2",
+    "anchor": "dieu-56-khoan-2",
+    "title": "2. Phê duyệt hồ sơ mời quan tâm.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1831,
+    "line_end": 1832
+  },
+  {
+    "clause_id": "dieu-56-khoan-3",
+    "anchor": "dieu-56-khoan-3",
+    "title": "3. Phê duyệt hồ sơ mời thầu hoặc ủy quyền cho người đứng đầu cơ quan thuộc bộ, cơ quan ngang bộ; cơ quan chuyên môn, cơ quan trực thuộc Ủy ban nhân dân cấp tỉnh, Ban quản lý khu kinh tế; Ủy ban nhân dân cấp huyện phê duyệt hồ sơ mời thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1834,
+    "line_end": 1835
+  },
+  {
+    "clause_id": "dieu-56-khoan-4",
+    "anchor": "dieu-56-khoan-4",
+    "title": "4. Thực hiện công việc khác thuộc trách nhiệm của người có thẩm quyền quy định tại Điều 77 của Luật Đấu thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1837,
+    "line_end": 1838
+  },
+  {
+    "clause_id": "dieu-57",
+    "anchor": "dieu-57",
+    "title": "Điều 57. Trách nhiệm của người đứng đầu cơ quan thuộc bộ, cơ quan ngang bộ; cơ quan chuyên môn, cơ quan trực thuộc Ủy ban nhân dân cấp tỉnh, Ban quản lý khu kinh tế; Ủy ban nhân dân cấp huyện",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1841,
+    "line_end": 1842
+  },
+  {
+    "clause_id": "dieu-57-khoan-1",
+    "anchor": "dieu-57-khoan-1",
+    "title": "1. Thực hiện công việc thuộc trách nhiệm của bên mời thầu theo quy định tại Điều 79 của Luật Đấu thầu; phê duyệt danh sách nhà đầu tư đáp ứng yêu cầu về kỹ thuật.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1844,
+    "line_end": 1845
+  },
+  {
+    "clause_id": "dieu-57-khoan-2",
+    "anchor": "dieu-57-khoan-2",
+    "title": "2. Thực hiện công việc thuộc trách nhiệm của bên mời quan tâm theo quy định tại khoản 4 Điều 37 của Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1847,
+    "line_end": 1848
+  },
+  {
+    "clause_id": "dieu-57-khoan-3",
+    "anchor": "dieu-57-khoan-3",
+    "title": "3. Thực hiện các công việc khác về lựa chọn nhà đầu tư theo ủy quyền của cấp có thẩm quyền.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1850,
+    "line_end": 1851
+  },
+  {
+    "clause_id": "dieu-58",
+    "anchor": "dieu-58",
+    "title": "Điều 58. Trách nhiệm của tổ thẩm định",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1854,
+    "line_end": 1855
+  },
+  {
+    "clause_id": "dieu-58-khoan-1",
+    "anchor": "dieu-58-khoan-1",
+    "title": "1. Sở Kế hoạch và Đầu tư tổ chức thẩm định các nội dung sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1857,
+    "line_end": 1862
+  },
+  {
+    "clause_id": "dieu-58-khoan-2",
+    "anchor": "dieu-58-khoan-2",
+    "title": "2. Cơ quan, đơn vị được Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Trưởng Ban quản lý khu kinh tế giao nhiệm vụ thẩm định tổ chức thẩm định các nội dung sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1864,
+    "line_end": 1869
+  },
+  {
+    "clause_id": "dieu-58-khoan-3",
+    "anchor": "dieu-58-khoan-3",
+    "title": "3. Trường hợp bên mời thầu được ủy quyền phê duyệt hồ sơ mời thầu theo quy định tại điểm d khoản 2 Điều 79 của Luật Đấu thầu và khoản 3 Điều 56 của Nghị định này, bên mời thầu thành lập tổ thẩm định hoặc giao nhiệm vụ cho một đơn vị trực thuộc để tổ chức thẩm định nội dung hồ sơ mời thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1871,
+    "line_end": 1872
+  },
+  {
+    "clause_id": "dieu-58-khoan-4",
+    "anchor": "dieu-58-khoan-4",
+    "title": "4. Trường hợp tổ chức, cá nhân được giao thẩm định không đủ năng lực thì lựa chọn một tổ chức tư vấn có đủ năng lực và kinh nghiệm để thẩm định.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1874,
+    "line_end": 1875
+  },
+  {
+    "clause_id": "dieu-59",
+    "anchor": "dieu-59",
+    "title": "Điều 59. Xử lý tình huống trong lựa chọn nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1884,
+    "line_end": 1885
+  },
+  {
+    "clause_id": "dieu-59-khoan-1",
+    "anchor": "dieu-59-khoan-1",
+    "title": "1. Trường hợp tại thời điểm đóng thầu không có nhà đầu tư nào nộp hồ sơ đăng ký thực hiện dự án, hồ sơ dự thầu, bên mời quan tâm, bên mời thầu báo cáo người có thẩm quyền xem xét, giải quyết theo một trong hai cách sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1887,
+    "line_end": 1892
+  },
+  {
+    "clause_id": "dieu-59-khoan-2",
+    "anchor": "dieu-59-khoan-2",
+    "title": "2. Trường hợp tại thời điểm đóng thầu có ít hơn 03 nhà đầu tư nộp hồ sơ đăng ký thực hiện dự án, hồ sơ dự thầu thì bên mời quan tâm, bên mời thầu báo cáo người có thẩm quyền xem xét, giải quyết trong thời hạn không quá 24 giờ kể từ thời điểm đóng thầu theo một trong hai cách sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1894,
+    "line_end": 1899
+  },
+  {
+    "clause_id": "dieu-59-khoan-3",
+    "anchor": "dieu-59-khoan-3",
+    "title": "3. Trường hợp phát hiện hồ sơ mời thầu có nội dung dẫn đến cách hiểu không rõ hoặc khác nhau trong quá trình đánh giá hồ sơ dự thầu hoặc có thể làm sai lệch kết quả lựa chọn nhà đầu tư, bên mời thầu báo cáo người có thẩm quyền xem xét, xử lý theo các bước sau đây:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1901,
+    "line_end": 1908
+  },
+  {
+    "clause_id": "dieu-59-khoan-4",
+    "anchor": "dieu-59-khoan-4",
+    "title": "4. Trường hợp sau khi lựa chọn danh sách ngắn đối với dự án đầu tư có sử dụng đất áp dụng hình thức đấu thầu hạn chế nhưng có ít hơn 03 nhà đầu tư đáp ứng yêu cầu của dự án, bên mời thầu báo cáo người có thẩm quyền xem xét, phê duyệt danh sách ngắn có ít hơn 03 nhà đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1910,
+    "line_end": 1911
+  },
+  {
+    "clause_id": "dieu-59-khoan-5",
+    "anchor": "dieu-59-khoan-5",
+    "title": "5. Trường hợp sau khi đánh giá hồ sơ dự thầu mà có từ hai nhà đầu tư trở lên có điểm tổng hợp cao nhất và ngang nhau thì nhà đầu tư có điểm cao hơn về hiệu quả sử dụng đất đối với dự án quy định tại khoản 1 Điều 4 của Nghị định này hoặc nhà đầu tư có điểm cao hơn về năng lực, kinh nghiệm đối với dự án quy định tại các điểm a, b, c, d, đ, e, g, h và k khoản 2 Điều 4 của Nghị định này hoặc nhà đầu tư có điểm cao hơn về hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương đối với dự án quy định tại điểm i khoản 2 Điều 4 của Nghị định này được xem xét, đề nghị trúng thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1913,
+    "line_end": 1914
+  },
+  {
+    "clause_id": "dieu-59-khoan-6",
+    "anchor": "dieu-59-khoan-6",
+    "title": "6. Trường hợp tại thời điểm ký kết hợp đồng, nhà đầu tư trúng thầu không còn đáp ứng điều kiện về năng lực kỹ thuật, tài chính để thực hiện dự án đầu tư có sử dụng đất theo yêu cầu của hồ sơ mời thầu thì mời nhà đầu tư xếp hạng tiếp theo đàm phán, hoàn thiện hợp đồng. Trong trường hợp này, nhà đầu tư được mời đàm phán, hoàn thiện hợp đồng phải khôi phục lại hiệu lực của hồ sơ dự thầu và bảo đảm dự thầu trong trường hợp hồ sơ dự thầu hết hiệu lực và bảo đảm dự thầu của nhà đầu tư đã được hoàn trả hoặc giải tỏa.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1916,
+    "line_end": 1917
+  },
+  {
+    "clause_id": "dieu-59-khoan-7",
+    "anchor": "dieu-59-khoan-7",
+    "title": "7. Trường hợp nhà đầu tư liên danh trúng thầu nhưng chưa ký kết hợp đồng dự án hoặc hợp đồng dự án đã được ký kết nhưng chưa có hiệu lực, khi có sự điều chỉnh tỷ lệ góp vốn chủ sở hữu trong liên danh, bên mời thầu phải đánh giá, cập nhật thông tin năng lực của nhà đầu tư theo quy định tại Điều 46 của Nghị định này, bảo đảm nhà đầu tư đủ năng lực, tỷ lệ vốn chủ sở hữu tối thiểu của từng thành viên theo quy định tại Điều 46 của Nghị định này. Sau khi cập nhật thông tin năng lực, bên mời thầu báo cáo người có thẩm quyền xem xét, quyết định để thực hiện các thủ tục tiếp theo quy định tại Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1919,
+    "line_end": 1920
+  },
+  {
+    "clause_id": "dieu-59-khoan-8",
+    "anchor": "dieu-59-khoan-8",
+    "title": "8. Trường hợp gặp sự cố dẫn đến Hệ thống mạng đấu thầu quốc gia không thể vận hành và việc khắc phục sự cố dự kiến diễn ra trong thời gian dài, Bộ Kế hoạch và Đầu tư thông báo trên Hệ thống cách thức tổ chức lựa chọn nhà đầu tư trong thời gian Hệ thống gặp sự cố và xử lý sự cố, trong đó có việc tổ chức lựa chọn nhà đầu tư không qua mạng.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1922,
+    "line_end": 1923
+  },
+  {
+    "clause_id": "dieu-59-khoan-9",
+    "anchor": "dieu-59-khoan-9",
+    "title": "9. Trường hợp bên mời quan tâm, bên mời thầu đăng tải thông tin trên Hệ thống mạng đấu thầu quốc gia khác với các thông tin đã được phê duyệt trước thời điểm đóng thầu thì bên mời quan tâm, bên mời thầu báo cáo người có thẩm quyền hủy thông tin đã đăng tải để tiến hành đăng tải lại.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1925,
+    "line_end": 1926
+  },
+  {
+    "clause_id": "dieu-59-khoan-10",
+    "anchor": "dieu-59-khoan-10",
+    "title": "10. Trường hợp chi nhánh, xí nghiệp, văn phòng đại diện được tách ra khỏi pháp nhân theo quy định của pháp luật về dân sự thì nhà đầu tư tiếp nhận hoặc nhà đầu tư hình thành từ chi nhánh, xí nghiệp, văn phòng đại diện được kế thừa năng lực, kinh nghiệm trong đấu thầu mà chi nhánh, xí nghiệp, văn phòng đại diện đã thực hiện.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1928,
+    "line_end": 1929
+  },
+  {
+    "clause_id": "dieu-59-khoan-11",
+    "anchor": "dieu-59-khoan-11",
+    "title": "11. Trường hợp vì lý do bất khả kháng mà đối tác do nhà đầu tư đã đề xuất tại hồ sơ dự thầu không thể tham gia trong quá trình thực hiện hợp đồng, nhà đầu tư được thay đổi đối tác khác có năng lực, kinh nghiệm tương đương hoặc cao hơn đối tác do nhà đầu tư đề xuất tại hồ sơ dự thầu nhưng phải bảo đảm không làm ảnh hưởng các đề xuất khác trong hồ sơ dự thầu. Trong trường hợp này, bên mời thầu xem xét, đánh giá năng lực, kinh nghiệm của đối tác trên cơ sở yêu cầu của hồ sơ mời thầu, báo cáo người có thẩm quyền xem xét, quyết định.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1931,
+    "line_end": 1932
+  },
+  {
+    "clause_id": "dieu-59-khoan-12",
+    "anchor": "dieu-59-khoan-12",
+    "title": "12. Đối với các dự án chưa có dự án tương tự về tổng vốn đầu tư, căn cứ dữ liệu trên Hệ thống mạng đấu thầu quốc gia về các dự án đã lựa chọn được nhà đầu tư, bên mời quan tâm, bên mời thầu báo cáo người có thẩm quyền xem xét, quy định tại hồ sơ mời quan tâm, hồ sơ mời thầu yêu cầu về kinh nghiệm thực hiện dự án tương tự bằng hoặc không thấp hơn 90% mức yêu cầu trong hồ sơ mời quan tâm, hồ sơ mời thầu của dự án cùng ngành, lĩnh vực có tổng vốn đầu tư gần nhất với dự án đang xét. Trong trường hợp này, người có thẩm quyền được quy định giá trị bảo đảm thực hiện hợp đồng là 3% tổng vốn đầu tư của dự án.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1934,
+    "line_end": 1935
+  },
+  {
+    "clause_id": "dieu-59-khoan-13",
+    "anchor": "dieu-59-khoan-13",
+    "title": "13. Đối với các dự án có yêu cầu ứng dụng công nghệ tiên tiến, công nghệ cao, công nghệ thân thiện với môi trường, kỹ thuật hiện có tốt nhất nhằm giảm thiểu ô nhiễm môi trường, nhà đầu tư được sử dụng dự án, công trình do mình góp vốn chủ sở hữu và trực tiếp thực hiện mà công nghệ đã được đưa vào vận hành thử nghiệm thành công để chứng minh kinh nghiệm công trình, dự án tương tự. Dự án tương tự phải có tài liệu chứng minh công nghệ, kỹ thuật được công nhận theo quy định của pháp luật quản lý ngành, lĩnh vực và pháp luật khác có liên quan. Trong trường hợp này, người có thẩm quyền quy định giá trị bảo đảm thực hiện hợp đồng là 3% tổng vốn đầu tư của dự án.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1937,
+    "line_end": 1938
+  },
+  {
+    "clause_id": "dieu-59-khoan-14",
+    "anchor": "dieu-59-khoan-14",
+    "title": "14. Trường hợp quyết định chấp thuận chủ trương đầu tư dự án có phân kỳ tiến độ thì bên mời thầu báo cáo người có thẩm quyền quy định trong hồ sơ mời thầu nội dung bảo đảm thực hiện hợp đồng được hoàn trả theo từng phân kỳ căn cứ thỏa thuận tại hợp đồng dự án, trừ trường hợp không được hoàn trả.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1940,
+    "line_end": 1941
+  },
+  {
+    "clause_id": "dieu-59-khoan-15",
+    "anchor": "dieu-59-khoan-15",
+    "title": "15. Ngoài các tình huống quy định từ khoản 1 đến khoản 14 Điều này, khi phát sinh tình huống trong lựa chọn nhà đầu tư, bên mời quan tâm, bên mời thầu báo cáo người có thẩm quyền xem xét, quyết định trên cơ sở bảo đảm các mục tiêu của đấu thầu là cạnh tranh, công bằng, minh bạch, hiệu quả kinh tế và trách nhiệm giải trình.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1943,
+    "line_end": 1944
+  },
+  {
+    "clause_id": "dieu-60",
+    "anchor": "dieu-60",
+    "title": "Điều 60. Kiểm tra hoạt động đấu thầu lựa chọn nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1947,
+    "line_end": 1948
+  },
+  {
+    "clause_id": "dieu-60-khoan-1",
+    "anchor": "dieu-60-khoan-1",
+    "title": "1. Thẩm quyền kiểm tra hoạt động đấu thầu lựa chọn nhà đầu tư:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1950,
+    "line_end": 1957
+  },
+  {
+    "clause_id": "dieu-60-khoan-2",
+    "anchor": "dieu-60-khoan-2",
+    "title": "2. Nội dung kiểm tra hoạt động đấu thầu lựa chọn nhà đầu tư:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1959,
+    "line_end": 1972
+  },
+  {
+    "clause_id": "dieu-60-khoan-3",
+    "anchor": "dieu-60-khoan-3",
+    "title": "3. Trách nhiệm của đoàn kiểm tra, thành viên đoàn kiểm tra, tổ chức, cá nhân, đơn vị được kiểm tra, nguyên tắc tổ chức, hình thức, phương thức, thời gian, kinh phí, quy trình, thủ tục kiểm tra thực hiện theo quy định tương ứng tại các Điều 115, 116, 117, 118, 119, 120, 121 và 122 Nghị định số 24/2024/NĐ-CP ngày 27 tháng 02 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1974,
+    "line_end": 1975
+  },
+  {
+    "clause_id": "dieu-61",
+    "anchor": "dieu-61",
+    "title": "Điều 61. Giám sát hoạt động đấu thầu lựa chọn nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1978,
+    "line_end": 1979
+  },
+  {
+    "clause_id": "dieu-61-khoan-1",
+    "anchor": "dieu-61-khoan-1",
+    "title": "1. Việc giám sát hoạt động lựa chọn nhà đầu tư theo quy định tại điểm a khoản 3 Điều 86 của Luật Đấu thầu được thực hiện lồng ghép với hoạt động giám sát dự án đầu tư hoặc giám sát tổng thể đầu tư của cơ quan quản lý nhà nước về đầu tư, cơ quan đăng ký về đầu tư theo quy định của pháp luật về đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1981,
+    "line_end": 1982
+  },
+  {
+    "clause_id": "dieu-61-khoan-2",
+    "anchor": "dieu-61-khoan-2",
+    "title": "2. Thẩm quyền giám sát hoạt động đấu thầu lựa chọn nhà đầu tư:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1984,
+    "line_end": 1989
+  },
+  {
+    "clause_id": "dieu-61-khoan-3",
+    "anchor": "dieu-61-khoan-3",
+    "title": "3. Nội dung giám sát lựa chọn nhà đầu tư:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1991,
+    "line_end": 2002
+  },
+  {
+    "clause_id": "dieu-61-khoan-4",
+    "anchor": "dieu-61-khoan-4",
+    "title": "4. Hết thời hạn hợp đồng, cơ quan có thẩm quyền thực hiện chức năng quản lý nhà nước về đầu tư giám sát dự án đầu tư hoặc giám sát tổng thể đầu tư theo quy định của pháp luật về đầu tư, bảo đảm nhà đầu tư thực hiện đầy đủ các cam kết trong quá trình triển khai thực hiện dự án đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2004,
+    "line_end": 2005
+  },
+  {
+    "clause_id": "dieu-62",
+    "anchor": "dieu-62",
+    "title": "Điều 62. Lộ trình áp dụng lựa chọn nhà đầu tư qua mạng",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2012,
+    "line_end": 2013
+  },
+  {
+    "clause_id": "dieu-62-khoan-1",
+    "anchor": "dieu-62-khoan-1",
+    "title": "1. Từ ngày 01 tháng 9 năm 2025: Thực hiện thủ tục mời quan tâm qua mạng trong nước theo quy định tại Điều 63 của Nghị định này trên Hệ thống mạng đấu thầu quốc gia (sau đây gọi tắt là Hệ thống).",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2015,
+    "line_end": 2016
+  },
+  {
+    "clause_id": "dieu-62-khoan-2",
+    "anchor": "dieu-62-khoan-2",
+    "title": "2. Từ ngày 01 tháng 01 năm 2026: Thực hiện lựa chọn nhà đầu tư qua mạng đối với dự án đầu tư có sử dụng đất áp dụng hình thức đấu thầu rộng rãi, đấu thầu hạn chế trong nước theo phương thức một giai đoạn một túi hồ sơ, một giai đoạn hai túi hồ sơ theo quy định tại Điều 64 của Nghị định này trên Hệ thống.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2018,
+    "line_end": 2019
+  },
+  {
+    "clause_id": "dieu-62-khoan-3",
+    "anchor": "dieu-62-khoan-3",
+    "title": "3. Đối với dự án đầu tư có sử dụng đất thuộc trường hợp đấu thầu quốc tế thì không áp dụng lựa chọn nhà đầu tư qua mạng, nhưng phải thực hiện công khai thông tin về lựa chọn nhà đầu tư trên Hệ thống theo quy định tại khoản 2 Điều 7 của Luật Đấu thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2021,
+    "line_end": 2022
+  },
+  {
+    "clause_id": "dieu-63",
+    "anchor": "dieu-63",
+    "title": "Điều 63. Quy trình mời quan tâm qua mạng",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2025,
+    "line_end": 2026
+  },
+  {
+    "clause_id": "dieu-63-khoan-1",
+    "anchor": "dieu-63-khoan-1",
+    "title": "1. Thông báo mời quan tâm, phát hành hồ sơ mời quan tâm qua mạng:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2028,
+    "line_end": 2035
+  },
+  {
+    "clause_id": "dieu-63-khoan-2",
+    "anchor": "dieu-63-khoan-2",
+    "title": "2. Sửa đổi, làm rõ E-HSMQT; gia hạn thời gian nộp E-HSĐKTHDA:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2037,
+    "line_end": 2050
+  },
+  {
+    "clause_id": "dieu-63-khoan-3",
+    "anchor": "dieu-63-khoan-3",
+    "title": "3. Nộp, sửa đổi, thay thế, rút E-HSĐKTHDA:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2052,
+    "line_end": 2067
+  },
+  {
+    "clause_id": "dieu-63-khoan-4",
+    "anchor": "dieu-63-khoan-4",
+    "title": "4. Mở thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2069,
+    "line_end": 2072
+  },
+  {
+    "clause_id": "dieu-63-khoan-5",
+    "anchor": "dieu-63-khoan-5",
+    "title": "5. Đánh giá E-HSĐKTHDA:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2074,
+    "line_end": 2077
+  },
+  {
+    "clause_id": "dieu-63-khoan-6",
+    "anchor": "dieu-63-khoan-6",
+    "title": "6. Sau khi có kết quả đánh giá E-HSĐKTHDA, kết quả mời quan tâm được phê duyệt gồm danh sách nhà đầu tư đáp ứng yêu cầu E-HSMQT được đăng tải trên Hệ thống.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2079,
+    "line_end": 2080
+  },
+  {
+    "clause_id": "dieu-63-khoan-7",
+    "anchor": "dieu-63-khoan-7",
+    "title": "7. Đối với lựa chọn nhà đầu tư qua mạng, trường hợp nhà đầu tư kiến nghị về lựa chọn nhà đầu tư, nhà đầu tư gửi đơn kiến nghị trên Hệ thống mạng đấu thầu quốc gia theo lộ trình quy định tại Điều 62 của Nghị định này. Trong thời gian chưa áp dụng lựa chọn nhà đầu tư qua mạng, nhà đầu tư gửi đơn kiến nghị đến bộ phận hành chính của người có trách nhiệm giải quyết kiến nghị.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2082,
+    "line_end": 2083
+  },
+  {
+    "clause_id": "dieu-64",
+    "anchor": "dieu-64",
+    "title": "Điều 64. Quy trình lựa chọn nhà đầu tư qua mạng",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2086,
+    "line_end": 2087
+  },
+  {
+    "clause_id": "dieu-64-khoan-1",
+    "anchor": "dieu-64-khoan-1",
+    "title": "1. Mời thầu, phát hành Hồ sơ mời thầu qua mạng:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2089,
+    "line_end": 2096
+  },
+  {
+    "clause_id": "dieu-64-khoan-2",
+    "anchor": "dieu-64-khoan-2",
+    "title": "2. Sửa đổi, làm rõ E-HSMT:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2098,
+    "line_end": 2111
+  },
+  {
+    "clause_id": "dieu-64-khoan-3",
+    "anchor": "dieu-64-khoan-3",
+    "title": "3. Nộp, sửa đổi, thay thế, rút E-HSDT:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2113,
+    "line_end": 2130
+  },
+  {
+    "clause_id": "dieu-64-khoan-4",
+    "anchor": "dieu-64-khoan-4",
+    "title": "4. Mở thầu:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2132,
+    "line_end": 2135
+  },
+  {
+    "clause_id": "dieu-64-khoan-5",
+    "anchor": "dieu-64-khoan-5",
+    "title": "5. Đánh giá E-HSDT:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2137,
+    "line_end": 2140
+  },
+  {
+    "clause_id": "dieu-64-khoan-6",
+    "anchor": "dieu-64-khoan-6",
+    "title": "6. Sau khi đánh giá E-HSDT, kết quả lựa chọn nhà đầu tư được phê duyệt và đăng tải công khai trên Hệ thống trong thời hạn quy định tại khoản 4 Điều 8 của Luật Đấu thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2142,
+    "line_end": 2143
+  },
+  {
+    "clause_id": "dieu-65",
+    "anchor": "dieu-65",
+    "title": "Điều 65. Cơ sở dữ liệu quốc gia về nhà đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2146,
+    "line_end": 2147
+  },
+  {
+    "clause_id": "dieu-65-khoan-1",
+    "anchor": "dieu-65-khoan-1",
+    "title": "1. Cơ sở dữ liệu quốc gia về nhà đầu tư trên Hệ thống bao gồm:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2149,
+    "line_end": 2158
+  },
+  {
+    "clause_id": "dieu-65-khoan-2",
+    "anchor": "dieu-65-khoan-2",
+    "title": "2. Nhà đầu tư có trách nhiệm đăng ký trên Hệ thống theo quy định tại điểm d khoản 1 Điều 5 của Luật Đấu thầu trước khi kết quả lựa chọn nhà đầu tư được phê duyệt và thường xuyên cập nhật, chịu trách nhiệm về tính chính xác của thông tin quy định tại điểm a và điểm b khoản 1 Điều này. Trình tự đăng ký, cập nhập thông tin của nhà đầu tư trên Hệ thống thực hiện theo quy định tương ứng tại Nghị định số 24/2024/NĐ-CP ngày 27 tháng 02 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2160,
+    "line_end": 2161
+  },
+  {
+    "clause_id": "dieu-65-khoan-3",
+    "anchor": "dieu-65-khoan-3",
+    "title": "3. Thông tin quy định tại điểm c khoản 1 Điều này được cơ quan có thẩm quyền đăng tải trên Hệ thống theo quy định tại điểm a khoản 2 và khoản 4 Điều 8 của Luật Đấu thầu.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2163,
+    "line_end": 2164
+  },
+  {
+    "clause_id": "dieu-66",
+    "anchor": "dieu-66",
+    "title": "Điều 66. Sửa đổi, bổ sung và bãi bỏ một số điều của Nghị định số 23/2024/NĐ-CP ngày 27 tháng 02 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc trường hợp phải tổ chức đấu thầu theo quy định của pháp luật quản lý ngành, lĩnh vực",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2171,
+    "line_end": 2172
+  },
+  {
+    "clause_id": "dieu-66-khoan-1",
+    "anchor": "dieu-66-khoan-1",
+    "title": "1. Sửa đổi khoản 4 và khoản 5 Điều 1:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2174,
+    "line_end": 2189
+  },
+  {
+    "clause_id": "dieu-66-khoan-2",
+    "anchor": "dieu-66-khoan-2",
+    "title": "2. Sửa đổi khoản 5 Điều 3:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2191,
+    "line_end": 2194
+  },
+  {
+    "clause_id": "dieu-66-khoan-3",
+    "anchor": "dieu-66-khoan-3",
+    "title": "3. Sửa đổi điểm b khoản 1 và khoản 2 Điều 5:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2196,
+    "line_end": 2205
+  },
+  {
+    "clause_id": "dieu-66-khoan-4",
+    "anchor": "dieu-66-khoan-4",
+    "title": "4. Sửa đổi điểm d, điểm đ khoản 3, khoản 4 và khoản 5 Điều 6 như sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2207,
+    "line_end": 2224
+  },
+  {
+    "clause_id": "dieu-66-khoan-5",
+    "anchor": "dieu-66-khoan-5",
+    "title": "5. Sửa đổi đoạn đầu của khoản 3 Điều 8:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2226,
+    "line_end": 2229
+  },
+  {
+    "clause_id": "dieu-66-khoan-6",
+    "anchor": "dieu-66-khoan-6",
+    "title": "6. Sửa đổi Điều 9:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2231,
+    "line_end": 2232
+  },
+  {
+    "clause_id": "dieu-9-khoan-7",
+    "anchor": "dieu-9-khoan-7",
+    "title": "7. Sửa đổi Điều 10:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2240,
+    "line_end": 2241
+  },
+  {
+    "clause_id": "dieu-10-khoan-8",
+    "anchor": "dieu-10-khoan-8",
+    "title": "8. Sửa đổi khoản 5 Điều 11:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2271,
+    "line_end": 2274
+  },
+  {
+    "clause_id": "dieu-10-khoan-9",
+    "anchor": "dieu-10-khoan-9",
+    "title": "9. Sửa đổi khoản 1 Điều 13:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2276,
+    "line_end": 2281
+  },
+  {
+    "clause_id": "dieu-10-khoan-10",
+    "anchor": "dieu-10-khoan-10",
+    "title": "10. Sửa đổi khoản 1 và khoản 2 Điều 12:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2283,
+    "line_end": 2298
+  },
+  {
+    "clause_id": "dieu-10-khoan-11",
+    "anchor": "dieu-10-khoan-11",
+    "title": "11. Sửa đổi khoản 2 và khoản 4 Điều 16:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2300,
+    "line_end": 2325
+  },
+  {
+    "clause_id": "dieu-10-khoan-12",
+    "anchor": "dieu-10-khoan-12",
+    "title": "12. Sửa đổi điểm c khoản 2 Điều 18:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2327,
+    "line_end": 2330
+  },
+  {
+    "clause_id": "dieu-10-khoan-13",
+    "anchor": "dieu-10-khoan-13",
+    "title": "13. Sửa đổi điểm b, điểm c khoản 2 và bổ sung khoản 2a, khoản 2b Điều 27:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2332,
+    "line_end": 2349
+  },
+  {
+    "clause_id": "dieu-10-khoan-14",
+    "anchor": "dieu-10-khoan-14",
+    "title": "14. Sửa đổi điểm e và điểm h khoản 3 Điều 30:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2351,
+    "line_end": 2360
+  },
+  {
+    "clause_id": "dieu-10-khoan-15",
+    "anchor": "dieu-10-khoan-15",
+    "title": "15. Sửa đổi điểm a khoản 3 Điều 31:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2362,
+    "line_end": 2365
+  },
+  {
+    "clause_id": "dieu-10-khoan-16",
+    "anchor": "dieu-10-khoan-16",
+    "title": "16. Sửa đổi điểm a khoản 4 Điều 33:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2367,
+    "line_end": 2370
+  },
+  {
+    "clause_id": "dieu-10-khoan-17",
+    "anchor": "dieu-10-khoan-17",
+    "title": "17. Sửa đổi khoản 1 Điều 36:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2372,
+    "line_end": 2375
+  },
+  {
+    "clause_id": "dieu-10-khoan-18",
+    "anchor": "dieu-10-khoan-18",
+    "title": "18. Sửa đổi khoản 1 Điều 38:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2377,
+    "line_end": 2382
+  },
+  {
+    "clause_id": "dieu-10-khoan-19",
+    "anchor": "dieu-10-khoan-19",
+    "title": "19. Sửa đổi, bổ sung khoản 2 Điều 44:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2384,
+    "line_end": 2393
+  },
+  {
+    "clause_id": "dieu-10-khoan-20",
+    "anchor": "dieu-10-khoan-20",
+    "title": "20. Sửa đổi, bổ sung Điều 45:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2395,
+    "line_end": 2396
+  },
+  {
+    "clause_id": "dieu-45-khoan-21",
+    "anchor": "dieu-45-khoan-21",
+    "title": "21. Sửa đổi Điều 46:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2440,
+    "line_end": 2441
+  },
+  {
+    "clause_id": "dieu-46-khoan-22",
+    "anchor": "dieu-46-khoan-22",
+    "title": "22. Sửa đổi Điều 47:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2484,
+    "line_end": 2485
+  },
+  {
+    "clause_id": "dieu-47-khoan-4",
+    "anchor": "dieu-47-khoan-4",
+    "title": "4. Việc nộp vào ngân sách nhà nước các giá trị quy định tại các điểm a, điểm b khoản 1 và khoản 2 Điều này được thực hiện như sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2516,
+    "line_end": 2521
+  },
+  {
+    "clause_id": "dieu-47-khoan-5",
+    "anchor": "dieu-47-khoan-5",
+    "title": "5. Nhà đầu tư đề xuất giá trị về hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương trong hồ sơ dự thầu không thấp hơn mức tối thiểu, không cao hơn mức tối đa căn cứ tiêu chuẩn đánh giá quy định tại hồ sơ mời thầu.”.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2523,
+    "line_end": 2524
+  },
+  {
+    "clause_id": "dieu-47-khoan-23",
+    "anchor": "dieu-47-khoan-23",
+    "title": "23. Sửa đổi khoản 1, khoản 2, khoản 3; bổ sung khoản 3a Điều 49:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2526,
+    "line_end": 2545
+  },
+  {
+    "clause_id": "dieu-47-khoan-24",
+    "anchor": "dieu-47-khoan-24",
+    "title": "24. Sửa đổi khoản 2, bổ sung các khoản 3, 4, 5, 6, 7, 8 và 9 Điều 50:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2547,
+    "line_end": 2598
+  },
+  {
+    "clause_id": "dieu-47-khoan-25",
+    "anchor": "dieu-47-khoan-25",
+    "title": "25. Sửa đổi Điều 51:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2600,
+    "line_end": 2601
+  },
+  {
+    "clause_id": "dieu-51-khoan-26",
+    "anchor": "dieu-51-khoan-26",
+    "title": "26. Sửa đổi khoản 2, bổ sung các khoản 9a, 9b, 9c, 9d, 9đ và sửa đổi khoản 10 Điều 57:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2613,
+    "line_end": 2646
+  },
+  {
+    "clause_id": "dieu-51-khoan-27",
+    "anchor": "dieu-51-khoan-27",
+    "title": "27. Sửa đổi Điều 60:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2648,
+    "line_end": 2649
+  },
+  {
+    "clause_id": "dieu-60-khoan-28",
+    "anchor": "dieu-60-khoan-28",
+    "title": "28. Sửa đổi khoản 3, khoản 4 và bổ sung khoản 7 Điều 61:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2664,
+    "line_end": 2681
+  },
+  {
+    "clause_id": "dieu-60-khoan-29",
+    "anchor": "dieu-60-khoan-29",
+    "title": "29. Sửa đổi điểm a khoản 3 Điều 62:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2683,
+    "line_end": 2692
+  },
+  {
+    "clause_id": "dieu-60-khoan-30",
+    "anchor": "dieu-60-khoan-30",
+    "title": "30. Sửa đổi khoản 3 Điều 66:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2694,
+    "line_end": 2703
+  },
+  {
+    "clause_id": "dieu-60-khoan-31",
+    "anchor": "dieu-60-khoan-31",
+    "title": "31. Sửa đổi điểm b khoản 2 Điều 67:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2705,
+    "line_end": 2708
+  },
+  {
+    "clause_id": "dieu-60-khoan-32",
+    "anchor": "dieu-60-khoan-32",
+    "title": "32. Bổ sung khoản 2a Điều 67:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2710,
+    "line_end": 2713
+  },
+  {
+    "clause_id": "dieu-60-khoan-33",
+    "anchor": "dieu-60-khoan-33",
+    "title": "33. Sửa đổi Phụ lục II ban hành kèm theo Nghị định:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2715,
+    "line_end": 2776
+  },
+  {
+    "clause_id": "dieu-60-khoan-34",
+    "anchor": "dieu-60-khoan-34",
+    "title": "34. Bãi bỏ các điều khoản sau: khoản 6 Điều 1, khoản 4, khoản 5 Điều 49, khoản 1 Điều 50.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2778,
+    "line_end": 2779
+  },
+  {
+    "clause_id": "dieu-67",
+    "anchor": "dieu-67",
+    "title": "Điều 67. Sửa đổi, bổ sung một số điều của Nghị định số 24/2024/NĐ-CP ngày 27 tháng 02 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2782,
+    "line_end": 2783
+  },
+  {
+    "clause_id": "dieu-67-khoan-1",
+    "anchor": "dieu-67-khoan-1",
+    "title": "1. Bổ sung điểm đ vào khoản 2 Điều 91:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2785,
+    "line_end": 2788
+  },
+  {
+    "clause_id": "dieu-67-khoan-2",
+    "anchor": "dieu-67-khoan-2",
+    "title": "2. Bổ sung điểm c vào khoản 4 Điều 131:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2790,
+    "line_end": 2793
+  },
+  {
+    "clause_id": "dieu-68",
+    "anchor": "dieu-68",
+    "title": "Điều 68. Sửa đổi, bổ sung và bãi bỏ một số điều của Nghị định số 31/2021/NĐ-CP ngày 26 tháng 3 năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đầu tư",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2796,
+    "line_end": 2797
+  },
+  {
+    "clause_id": "dieu-68-khoan-1",
+    "anchor": "dieu-68-khoan-1",
+    "title": "1. Sửa đổi điểm b khoản 2 Điều 29:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2799,
+    "line_end": 2802
+  },
+  {
+    "clause_id": "dieu-68-khoan-2",
+    "anchor": "dieu-68-khoan-2",
+    "title": "2. Sửa đổi, bổ sung điểm a, điểm b khoản 3 và khoản 7 Điều 29:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2804,
+    "line_end": 2829
+  },
+  {
+    "clause_id": "dieu-68-khoan-3",
+    "anchor": "dieu-68-khoan-3",
+    "title": "3. Sửa đổi khoản 1, điểm b khoản 2 và khoản 3 Điều 30:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2831,
+    "line_end": 2848
+  },
+  {
+    "clause_id": "dieu-68-khoan-4",
+    "anchor": "dieu-68-khoan-4",
+    "title": "4. Sửa đổi, bổ sung nội dung tại các điểm a, b và đ khoản 2 Điều 31:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2850,
+    "line_end": 2861
+  },
+  {
+    "clause_id": "dieu-68-khoan-5",
+    "anchor": "dieu-68-khoan-5",
+    "title": "5. Sửa đổi điểm c khoản 7 Điều 31:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2863,
+    "line_end": 2866
+  },
+  {
+    "clause_id": "dieu-68-khoan-6",
+    "anchor": "dieu-68-khoan-6",
+    "title": "6. Sửa đổi, bổ sung điểm b khoản 3 Điều 32:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2868,
+    "line_end": 2871
+  },
+  {
+    "clause_id": "dieu-68-khoan-7",
+    "anchor": "dieu-68-khoan-7",
+    "title": "7. Sửa đổi khoản 8 Điều 32:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2873,
+    "line_end": 2876
+  },
+  {
+    "clause_id": "dieu-68-khoan-8",
+    "anchor": "dieu-68-khoan-8",
+    "title": "8. Sửa đổi khoản 6 Điều 33:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2878,
+    "line_end": 2881
+  },
+  {
+    "clause_id": "dieu-68-khoan-9",
+    "anchor": "dieu-68-khoan-9",
+    "title": "9. Bãi bỏ Điều 108.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2883,
+    "line_end": 2884
+  },
+  {
+    "clause_id": "dieu-69",
+    "anchor": "dieu-69",
+    "title": "Điều 69. Bổ sung Nghị định số 60/2024/NĐ-CP ngày 05 tháng 6 năm 2024 của Chính phủ về phát triển và quản lý chợ",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2887,
+    "line_end": 2898
+  },
+  {
+    "clause_id": "dieu-70",
+    "anchor": "dieu-70",
+    "title": "Điều 70. Sửa đổi, bổ sung Nghị định số 137/2013/NĐ-CP ngày 21 tháng 10 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Điện lực và Luật sửa đổi, bổ sung một số điều của Luật Điện lực",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2901,
+    "line_end": 2902
+  },
+  {
+    "clause_id": "dieu-70-khoan-1",
+    "anchor": "dieu-70-khoan-1",
+    "title": "1. Bổ sung khoản 6 Điều 3:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2904,
+    "line_end": 2917
+  },
+  {
+    "clause_id": "dieu-70-khoan-2",
+    "anchor": "dieu-70-khoan-2",
+    "title": "2. Bổ sung khoản 7 Điều 3:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2919,
+    "line_end": 2924
+  },
+  {
+    "clause_id": "dieu-70-khoan-3",
+    "anchor": "dieu-70-khoan-3",
+    "title": "3. Bổ sung khoản 8 Điều 3:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2926,
+    "line_end": 2935
+  },
+  {
+    "clause_id": "dieu-70-khoan-4",
+    "anchor": "dieu-70-khoan-4",
+    "title": "4. Bổ sung khoản 9 Điều 3:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2937,
+    "line_end": 2952
+  },
+  {
+    "clause_id": "dieu-71",
+    "anchor": "dieu-71",
+    "title": "Điều 71. Sửa đổi Nghị định số 05/2021/NĐ-CP ngày 25 tháng 01 năm 2021 của Chính phủ về quản lý, khai thác cảng hàng không, sân bay",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2955,
+    "line_end": 2974
+  },
+  {
+    "clause_id": "dieu-72",
+    "anchor": "dieu-72",
+    "title": "Điều 72. Hiệu lực thi hành",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2977,
+    "line_end": 2978
+  },
+  {
+    "clause_id": "dieu-72-khoan-1",
+    "anchor": "dieu-72-khoan-1",
+    "title": "1. Nghị định này có hiệu lực thi hành kể từ ngày ký ban hành.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2980,
+    "line_end": 2981
+  },
+  {
+    "clause_id": "dieu-72-khoan-2",
+    "anchor": "dieu-72-khoan-2",
+    "title": "2. Kể từ ngày Nghị định này có hiệu lực thi hành, các Nghị định sau đây hết hiệu lực thi hành:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2983,
+    "line_end": 2988
+  },
+  {
+    "clause_id": "dieu-72-khoan-3",
+    "anchor": "dieu-72-khoan-3",
+    "title": "3. Trường hợp văn bản quy phạm pháp luật có hiệu lực sau ngày Nghị định này có hiệu lực thi hành bổ sung, bãi bỏ quy định về dự án phải tổ chức đấu thầu lựa chọn nhà đầu tư và yêu cầu quản lý ngành, lĩnh vực tương ứng với tiêu chí quy định tại các Điều 45, 46, 47, 48 và 49 của Nghị định này thì thực hiện như sau:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2990,
+    "line_end": 2997
+  },
+  {
+    "clause_id": "dieu-73",
+    "anchor": "dieu-73",
+    "title": "Điều 73. Quy định chuyển tiếp",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3000,
+    "line_end": 3001
+  },
+  {
+    "clause_id": "dieu-73-khoan-1",
+    "anchor": "dieu-73-khoan-1",
+    "title": "1. Quy định chuyển tiếp đối với dự án đầu tư có sử dụng đất thuộc phạm vi điều chỉnh của Nghị định số 30/2015/NĐ-CP ngày 17 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đấu thầu về lựa chọn nhà đầu tư (sau đây gọi là Nghị định số 30/2015/NĐ-CP):",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3003,
+    "line_end": 3016
+  },
+  {
+    "clause_id": "dieu-73-khoan-2",
+    "anchor": "dieu-73-khoan-2",
+    "title": "2. Quy định chuyển tiếp đối với dự án đầu tư có sử dụng đất thuộc phạm vi điều chỉnh của Nghị định số 25/2020/NĐ-CP ngày 28 tháng 02 năm 2020 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đấu thầu về lựa chọn nhà đầu tư (sau đây gọi là Nghị định số 25/2020/NĐ-CP) và đến thời điểm Nghị định này có hiệu lực thi hành được xác định thuộc trường hợp quy định tại Điều 4 của Nghị định này:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3018,
+    "line_end": 3043
+  },
+  {
+    "clause_id": "dieu-73-khoan-3",
+    "anchor": "dieu-73-khoan-3",
+    "title": "3. Đối với dự án đầu tư có sử dụng đất thuộc phạm vi điều chỉnh của Nghị định số 25/2020/NĐ-CP nhưng đến thời điểm Nghị định này có hiệu lực thi hành được xác định không thuộc trường hợp quy định tại Điều 4 của Nghị định này mà chưa phát hành hồ sơ mời thầu thì dừng việc lựa chọn nhà đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3045,
+    "line_end": 3048
+  },
+  {
+    "clause_id": "dieu-73-khoan-4",
+    "anchor": "dieu-73-khoan-4",
+    "title": "4. Quy định chuyển tiếp đối với dự án thuộc phạm vi điều chỉnh của Nghị định số 23/2024/NĐ-CP ngày 27 tháng 02 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành của Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc trường hợp phải tổ chức đấu thầu theo quy định của pháp luật quản lý ngành, lĩnh vực (sau đây gọi là Nghị định số 23/2024/NĐ-CP) và đến thời điểm Nghị định này có hiệu lực thi hành được xác định thuộc trường hợp quy định tại khoản 2 Điều 4 của Nghị định này:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3050,
+    "line_end": 3071
+  },
+  {
+    "clause_id": "dieu-73-khoan-5",
+    "anchor": "dieu-73-khoan-5",
+    "title": "5. Đối với dự án thuộc trường hợp dừng việc lựa chọn nhà đầu tư theo quy định tại các khoản 1, 2, 3 và 4 Điều này, căn cứ tình hình thực tế triển khai dự án, cơ quan có thẩm quyền xem xét, áp dụng quy trình, thủ tục thực hiện các bước tiếp theo phù hợp với quy định của pháp luật về đầu tư, đất đai, đấu thầu, pháp luật khác có liên quan.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3073,
+    "line_end": 3074
+  },
+  {
+    "clause_id": "dieu-73-khoan-6",
+    "anchor": "dieu-73-khoan-6",
+    "title": "6. Các dự án chuyển tiếp quy định tại các khoản 1, 2, 3 và 4 Điều này đã được cấp có thẩm quyền quyết định chấp thuận chủ trương đầu tư hoặc phê duyệt danh mục dự án, thông tin dự án theo quy định của pháp luật tại thời điểm phê duyệt các văn bản này và không thuộc trường hợp quy định tại khoản 5 Điều này, khi tổ chức lựa chọn nhà đầu tư theo quy định của Luật Đấu thầu số 22/2023/QH15 và Nghị định này thì không phải căn cứ danh mục các khu đất thực hiện đấu thầu thực hiện dự án đầu tư có sử dụng đất.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3076,
+    "line_end": 3077
+  },
+  {
+    "clause_id": "dieu-73-khoan-7",
+    "anchor": "dieu-73-khoan-7",
+    "title": "7. Đối với dự án không thuộc phạm vi điều chỉnh của pháp luật về đấu thầu nhưng chọn áp dụng pháp luật về đấu thầu để lựa chọn nhà đầu tư thì thực hiện chuyển tiếp theo quy định tương ứng tại các khoản 1, 2, 3 và 4 Điều này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3079,
+    "line_end": 3082
+  },
+  {
+    "clause_id": "dieu-73-khoan-8",
+    "anchor": "dieu-73-khoan-8",
+    "title": "8. Hợp đồng được ký kết trước ngày Nghị định này có hiệu lực thi hành được tiếp tục thực hiện theo quy định của hợp đồng. Trường hợp pháp luật tại thời điểm ký kết hợp đồng không có quy định thì thực hiện theo quy định của Luật Đấu thầu số 22/2023/QH15 và Nghị định này.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3084,
+    "line_end": 3085
+  },
+  {
+    "clause_id": "dieu-73-khoan-9",
+    "anchor": "dieu-73-khoan-9",
+    "title": "9. Trong thời gian từ ngày 01 tháng 8 năm 2024 đến ngày Nghị định này có hiệu lực thi hành, việc lựa chọn nhà đầu tư thực hiện theo quy định của Luật Đấu thầu số 22/2023/QH15, Luật Đất đai số 31/2024/QH15, Luật số 43/2024/QH15 sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15, Luật Các tổ chức tín dụng số 32/2024/QH15 và các nội dung của Nghị định số 30/2015/NĐ-CP, Nghị định số 25/2020/NĐ-CP, Nghị định số 23/2024/NĐ-CP, các văn bản hướng dẫn có liên quan còn phù hợp với quy định của Luật Đấu thầu số 22/2023/QH15, Luật Đất đai số 31/2024/QH15, Luật số 43/2024/QH15.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3087,
+    "line_end": 3088
+  },
+  {
+    "clause_id": "dieu-74",
+    "anchor": "dieu-74",
+    "title": "Điều 74. Trách nhiệm thi hành",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3091,
+    "line_end": 3092
+  },
+  {
+    "clause_id": "dieu-74-khoan-1",
+    "anchor": "dieu-74-khoan-1",
+    "title": "1. Bộ trưởng Bộ Kế hoạch và Đầu tư có trách nhiệm ban hành các mẫu hồ sơ, tài liệu trong quá trình lựa chọn nhà đầu tư.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3094,
+    "line_end": 3095
+  },
+  {
+    "clause_id": "dieu-74-khoan-2",
+    "anchor": "dieu-74-khoan-2",
+    "title": "2. Bộ trưởng các bộ quản lý ngành:",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3097,
+    "line_end": 3104
+  },
+  {
+    "clause_id": "dieu-74-khoan-3",
+    "anchor": "dieu-74-khoan-3",
+    "title": "3. Định kỳ hằng năm, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, cơ quan khác ở trung ương, Ủy ban nhân dân cấp tỉnh và các cơ quan, tổ chức khác thuộc đối tượng áp dụng theo quy định tại khoản 3 Điều 2 của Luật Đấu thầu số 22/2023/QH15 báo cáo tình hình thực hiện công tác đấu thầu lựa chọn nhà đầu tư, gửi về Bộ Kế hoạch và Đầu tư để tổng hợp, báo cáo Thủ tướng Chính phủ.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3106,
+    "line_end": 3107
+  },
+  {
+    "clause_id": "dieu-74-khoan-4",
+    "anchor": "dieu-74-khoan-4",
+    "title": "4. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương trong phạm vi chức năng, quyền hạn của mình có trách nhiệm thi hành Nghị định này./.",
+    "source_file": "nghi_dinh_115_2024_nd_cp.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3109,
+    "line_end": 3112
+  }
+]

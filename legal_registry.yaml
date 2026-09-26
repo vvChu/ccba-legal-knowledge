@@ -2,9 +2,9 @@ version: 0.3.0
 updated_at: '2026-09-22T08:07:26.716436+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 62
+  total_documents: 63
   categories:
-    01_vbpl: 29
+    01_vbpl: 30
     02_qcvn: 12
     03_tcvn: 18
     04_appendices: 3
@@ -1952,4 +1952,35 @@ decrees:
     docx:
       sha256: 6001565125a01385a5d5eb14a83143a6da08db1e2375c4e5dd04d0784f20d0a0
       vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_214_2025_nd_cp/nghi_dinh_214_2025_nd_cp.docx
+      status: verified
+- id: nghi_dinh_115_2024_nd_cp
+  document_number: 115/2024/NĐ-CP
+  title: Nghị định số 115/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi
+    hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Phó Thủ tướng Trần Hồng Hà
+  issued_date: '2024-09-16'
+  effective_date: '2024-09-16'
+  status: active
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_115_2024_nd_cp/
+  source_url: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-115-2024-nd-cp-42763.htm
+  relations:
+    guided_by: luat_dau_thau_2023_22_2023_qh15
+    amended_by: 225/2025/NĐ-CP
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_115_2024_nd_cp/sources/nghi_dinh_115_2024_nd_cp.pdf
+  pdf_sha256: ed1fc87cb35b04c515ce65b79b69c4736b7a9cac959c6666a733d18dd4f4de6d
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 1067-1070/2024
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_115_2024_nd_cp/sources/nghi_dinh_115_2024_nd_cp.docx
+  source_assets:
+    pdf:
+      sha256: ed1fc87cb35b04c515ce65b79b69c4736b7a9cac959c6666a733d18dd4f4de6d
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_115_2024_nd_cp/nghi_dinh_115_2024_nd_cp.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: 4ce6f5c5882731eed08c45b46a27dde33e27bb3fb9a0258591b998778e1f5927
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_115_2024_nd_cp/nghi_dinh_115_2024_nd_cp.docx
       status: verified

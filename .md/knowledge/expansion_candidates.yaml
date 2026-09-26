@@ -284,6 +284,7 @@ candidates:
   tvpl_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-115-2024-ND-CP-thi-hanh-Luat-Dau-thau-ve-lua-chon-nha-dau-tu-thuc-hien-du-an-dat-619472.aspx
   base_impact_score: 9.7
   tier_override: 1
+  status: ingested
 - id: QCVN-16-2023-BXD
   document_number: QCVN 16:2023/BXD
   title: Quy chuẩn kỹ thuật quốc gia về Sản phẩm, hàng hóa vật liệu xây dựng

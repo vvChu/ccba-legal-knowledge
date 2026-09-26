@@ -1,0 +1,38 @@
+id: nghi_dinh_115_2024_nd_cp
+document_number: 115/2024/NĐ-CP
+title: Nghị định số 115/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất
+type: Nghị định
+issued_by: Chính phủ
+signer: Phó Thủ tướng Trần Hồng Hà
+issued_date: '2024-09-16'
+effective_date: '2024-09-16'
+status: active
+pdf_path: legal_docs/01_vbpl/nghi_dinh_115_2024_nd_cp/sources/nghi_dinh_115_2024_nd_cp.pdf
+pdf_sha256: ed1fc87cb35b04c515ce65b79b69c4736b7a9cac959c6666a733d18dd4f4de6d
+pdf_status: verified
+bundle_path: legal_docs/01_vbpl/nghi_dinh_115_2024_nd_cp/
+cong_bao_number: 1067-1070/2024
+source_assets:
+  pdf:
+    sha256: ed1fc87cb35b04c515ce65b79b69c4736b7a9cac959c6666a733d18dd4f4de6d
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_115_2024_nd_cp/nghi_dinh_115_2024_nd_cp.pdf
+    status: verified
+    origin: official_gazette_vector
+  docx:
+    sha256: 4ce6f5c5882731eed08c45b46a27dde33e27bb3fb9a0258591b998778e1f5927
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_115_2024_nd_cp/nghi_dinh_115_2024_nd_cp.docx
+    status: verified
+legal_basis:
+- doc_id: luat_dau_thau_2023_22_2023_qh15
+  title: Luật Đấu thầu ngày 23 tháng 6 năm 2023
+- doc_id: luật_đất_đai_ngày_18_tháng_01_năm_2024
+  title: Luật Đất đai ngày 18 tháng 01 năm 2024
+- doc_id: luật_đầu_tư_ngày_17_tháng_6_năm_2020
+  title: Luật Đầu tư ngày 17 tháng 6 năm 2020
+relations:
+  guided_by: luat_dau_thau_2023_22_2023_qh15
+  amended_by: 225/2025/NĐ-CP
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-26T14:26:09.000000+00:00'
+pdf_origin: official_gazette_vector
