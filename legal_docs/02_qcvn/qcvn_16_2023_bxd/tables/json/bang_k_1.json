@@ -1,0 +1,113 @@
+{
+  "table_id": "bang_k_1",
+  "table_number": "K.1",
+  "table_title": "Bảng K.1 - Chiều dày danh nghĩa, sai số kích thước cho phép và độ xuyên quang",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại kính",
+    "Chiều dày danh nghĩa, mm",
+    "Sai số chiều dày, mm",
+    "Độ xuyên quang, % không nhỏ hơn"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại kính": "2",
+      "Chiều dày danh nghĩa, mm": "2,0",
+      "Sai số chiều dày, mm": "± 0,20",
+      "Độ xuyên quang, % không nhỏ hơn": "88"
+    },
+    {
+      "_row_id": 2,
+      "Loại kính": "2,5",
+      "Chiều dày danh nghĩa, mm": "2,5",
+      "Sai số chiều dày, mm": "± 0,20",
+      "Độ xuyên quang, % không nhỏ hơn": "88"
+    },
+    {
+      "_row_id": 3,
+      "Loại kính": "3",
+      "Chiều dày danh nghĩa, mm": "3,0",
+      "Sai số chiều dày, mm": "± 0,20",
+      "Độ xuyên quang, % không nhỏ hơn": "87"
+    },
+    {
+      "_row_id": 4,
+      "Loại kính": "4",
+      "Chiều dày danh nghĩa, mm": "4,0",
+      "Sai số chiều dày, mm": "± 0,20",
+      "Độ xuyên quang, % không nhỏ hơn": "85"
+    },
+    {
+      "_row_id": 5,
+      "Loại kính": "5",
+      "Chiều dày danh nghĩa, mm": "5,0",
+      "Sai số chiều dày, mm": "± 0,20",
+      "Độ xuyên quang, % không nhỏ hơn": "84"
+    },
+    {
+      "_row_id": 6,
+      "Loại kính": "6",
+      "Chiều dày danh nghĩa, mm": "6,0",
+      "Sai số chiều dày, mm": "± 0,20",
+      "Độ xuyên quang, % không nhỏ hơn": "83"
+    },
+    {
+      "_row_id": 7,
+      "Loại kính": "6,5",
+      "Chiều dày danh nghĩa, mm": "6,5",
+      "Sai số chiều dày, mm": "± 0,20",
+      "Độ xuyên quang, % không nhỏ hơn": "83"
+    },
+    {
+      "_row_id": 8,
+      "Loại kính": "8",
+      "Chiều dày danh nghĩa, mm": "8,0",
+      "Sai số chiều dày, mm": "± 0,30",
+      "Độ xuyên quang, % không nhỏ hơn": "82"
+    },
+    {
+      "_row_id": 9,
+      "Loại kính": "10",
+      "Chiều dày danh nghĩa, mm": "10,0",
+      "Sai số chiều dày, mm": "± 0,30",
+      "Độ xuyên quang, % không nhỏ hơn": "80"
+    },
+    {
+      "_row_id": 10,
+      "Loại kính": "12",
+      "Chiều dày danh nghĩa, mm": "12,0",
+      "Sai số chiều dày, mm": "± 0,30",
+      "Độ xuyên quang, % không nhỏ hơn": "78"
+    },
+    {
+      "_row_id": 11,
+      "Loại kính": "15",
+      "Chiều dày danh nghĩa, mm": "15,0",
+      "Sai số chiều dày, mm": "± 0,50",
+      "Độ xuyên quang, % không nhỏ hơn": "75"
+    },
+    {
+      "_row_id": 12,
+      "Loại kính": "19",
+      "Chiều dày danh nghĩa, mm": "19,0",
+      "Sai số chiều dày, mm": "± 1,00",
+      "Độ xuyên quang, % không nhỏ hơn": "70"
+    },
+    {
+      "_row_id": 13,
+      "Loại kính": "22",
+      "Chiều dày danh nghĩa, mm": "22,0",
+      "Sai số chiều dày, mm": "± 1,00",
+      "Độ xuyên quang, % không nhỏ hơn": "68"
+    },
+    {
+      "_row_id": 14,
+      "Loại kính": "25",
+      "Chiều dày danh nghĩa, mm": "25,0",
+      "Sai số chiều dày, mm": "± 1,00",
+      "Độ xuyên quang, % không nhỏ hơn": "67"
+    }
+  ],
+  "footnotes": []
+}

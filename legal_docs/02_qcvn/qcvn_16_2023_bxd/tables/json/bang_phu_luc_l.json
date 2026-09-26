@@ -1,0 +1,80 @@
+{
+  "table_id": "bang_phu_luc_l",
+  "table_number": "PLL",
+  "table_title": "Bảng Phụ lục L",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT",
+    "Chỉ tiêu kỹ thuật",
+    "Mức yêu cầu",
+    "Phương           pháp thử",
+    "Quy cách mẫu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1",
+      "Chỉ tiêu kỹ thuật": "Sai lệch chiều dày",
+      "Mức yêu cầu": "Bảng L",
+      "Phương           pháp thử": "TCVN 7219:2018",
+      "Quy cách mẫu": "3 mẫu thử, kích thước ≥ (610x610) mm"
+    },
+    {
+      "_row_id": 2,
+      "TT": "2",
+      "Chỉ tiêu kỹ thuật": "Khuyết tật ngoại quan",
+      "Mức yêu cầu": "Không cho phép có các vết nứt, lỗ thủng hay vết xước nhìn thấy trên bề mặt của tấm kính",
+      "Phương           pháp thử": "TCVN 7219:2018",
+      "Quy cách mẫu": "3 mẫu thử, kích thước ≥ (610x610) mm"
+    },
+    {
+      "_row_id": 3,
+      "TT": "3",
+      "Chỉ tiêu kỹ thuật": "Ứng suất bề mặt của kính, MPa",
+      "Mức yêu cầu": "",
+      "Phương           pháp thử": "TCVN 8261:2009",
+      "Quy cách mẫu": "3 mẫu thử, kích thước ≥ (610x610) mm"
+    },
+    {
+      "_row_id": 4,
+      "TT": "3",
+      "Chỉ tiêu kỹ thuật": "&nbsp;&nbsp;\\- Kính tôi nhiệt an toàn",
+      "Mức yêu cầu": "không nhỏ hơn 69",
+      "Phương           pháp thử": "TCVN 8261:2009",
+      "Quy cách mẫu": "3 mẫu thử, kích thước ≥ (610x610) mm"
+    },
+    {
+      "_row_id": 5,
+      "TT": "3",
+      "Chỉ tiêu kỹ thuật": "&nbsp;&nbsp;\\- Kính bán tôi",
+      "Mức yêu cầu": "từ 24 đến nhỏ hơn 69",
+      "Phương           pháp thử": "TCVN 8261:2009",
+      "Quy cách mẫu": "3 mẫu thử, kích thước ≥ (610x610) mm"
+    },
+    {
+      "_row_id": 6,
+      "TT": "4",
+      "Chỉ tiêu kỹ thuật": "Độ bền phá vỡ mẫu\n(Không áp dụng đối với kính bán tôi)",
+      "Mức yêu cầu": "",
+      "Phương           pháp thử": "TCVN 7455:2013",
+      "Quy cách mẫu": "3 mẫu thử, kích thước ≥ (610x610) mm"
+    },
+    {
+      "_row_id": 7,
+      "TT": "4",
+      "Chỉ tiêu kỹ thuật": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ Kính dày < 5 mm, khối lượng mảnh vỡ lớn nhất, g, không lớn hơn (đối với cả 03 mẫu thử)",
+      "Mức yêu cầu": "15",
+      "Phương           pháp thử": "TCVN 7455:2013",
+      "Quy cách mẫu": "3 mẫu thử, kích thước ≥ (610x610) mm"
+    },
+    {
+      "_row_id": 8,
+      "TT": "4",
+      "Chỉ tiêu kỹ thuật": "&nbsp;&nbsp;&nbsp;&nbsp;\\+ Kính dày ≥ 5 mm, số mảnh vỡ, không nhỏ hơn",
+      "Mức yêu cầu": "40",
+      "Phương           pháp thử": "TCVN 7455:2013",
+      "Quy cách mẫu": "3 mẫu thử, kích thước ≥ (610x610) mm"
+    }
+  ],
+  "footnotes": []
+}

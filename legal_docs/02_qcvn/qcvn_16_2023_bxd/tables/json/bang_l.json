@@ -1,0 +1,89 @@
+{
+  "table_id": "bang_l",
+  "table_number": "L",
+  "table_title": "Bảng L - Chiều dày danh nghĩa và sai lệch cho phép",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại kính",
+    "Chiều dày danh nghĩa",
+    "Sai lệch cho phép",
+    "Loại kính",
+    "Chiều dày danh nghĩa",
+    "Sai lệch cho phép"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại kính": "",
+      "Chiều dày danh nghĩa": "",
+      "Sai lệch cho phép": ""
+    },
+    {
+      "_row_id": 2,
+      "Loại kính": "",
+      "Chiều dày danh nghĩa": "",
+      "Sai lệch cho phép": ""
+    },
+    {
+      "_row_id": 3,
+      "Loại kính": "",
+      "Chiều dày danh nghĩa": "",
+      "Sai lệch cho phép": ""
+    },
+    {
+      "_row_id": 4,
+      "Loại kính": "",
+      "Chiều dày danh nghĩa": "",
+      "Sai lệch cho phép": ""
+    },
+    {
+      "_row_id": 5,
+      "Loại kính": "",
+      "Chiều dày danh nghĩa": "",
+      "Sai lệch cho phép": ""
+    },
+    {
+      "_row_id": 6,
+      "Loại kính": "",
+      "Chiều dày danh nghĩa": "",
+      "Sai lệch cho phép": ""
+    },
+    {
+      "_row_id": 7,
+      "Loại kính": "Kính phản quang tôi nhiệt",
+      "Chiều dày danh nghĩa": "3\n4\n5\n6",
+      "Sai lệch cho phép": "± 0,2"
+    },
+    {
+      "_row_id": 8,
+      "Loại kính": "Kính phản quang tôi nhiệt",
+      "Chiều dày danh nghĩa": "8\n10",
+      "Sai lệch cho phép": "± 0,3"
+    },
+    {
+      "_row_id": 9,
+      "Loại kính": "Kính phản quang tôi nhiệt",
+      "Chiều dày danh nghĩa": "12\n15",
+      "Sai lệch cho phép": "± 0,5"
+    },
+    {
+      "_row_id": 10,
+      "Loại kính": "Kính phản quang tôi nhiệt",
+      "Chiều dày danh nghĩa": "19",
+      "Sai lệch cho phép": "± 1,0"
+    },
+    {
+      "_row_id": 11,
+      "Loại kính": "Kính phản quang tôi nhiệt",
+      "Chiều dày danh nghĩa": "19",
+      "Sai lệch cho phép": "± 1,0"
+    },
+    {
+      "_row_id": 12,
+      "Loại kính": "",
+      "Chiều dày danh nghĩa": "",
+      "Sai lệch cho phép": ""
+    }
+  ],
+  "footnotes": []
+}

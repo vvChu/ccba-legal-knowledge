@@ -1,0 +1,64 @@
+{
+  "table_id": "bang_phu_luc_b_2",
+  "table_number": "PLB_2",
+  "table_title": "Bảng Phụ lục B (Phần 2)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT",
+    "Chỉ tiêu kỹ thuật",
+    "Mức yêu cầu — dùng cho bê tông và vữa xây — Loại tro bay",
+    "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — a",
+    "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — b",
+    "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — c",
+    "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — d",
+    "Mức yêu cầu — dùng cho xi măng — Tro axit F",
+    "Mức yêu cầu — dùng cho xi măng — Tro bazơ C",
+    "Phương pháp thử",
+    "Quy cách mẫu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "",
+      "Chỉ tiêu kỹ thuật": "&nbsp;&nbsp;\\- Đối với công trình công nghiệp, đường đô thị và khu dân cư, không lớn hơn",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Loại tro bay": "740",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — a": "740",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — b": "740",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — c": "740",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — d": "740",
+      "Mức yêu cầu — dùng cho xi măng — Tro axit F": "",
+      "Mức yêu cầu — dùng cho xi măng — Tro bazơ C": "",
+      "Phương pháp thử": "",
+      "Quy cách mẫu": ""
+    },
+    {
+      "_row_id": 2,
+      "TT": "7",
+      "Chỉ tiêu kỹ thuật": "Chỉ số hoạt tính cường độ đối với xi măng sau 28 ngày so với mẫu đối chứng, %, không nhỏ hơn",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Loại tro bay": "",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — a": "",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — b": "",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — c": "",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — d": "",
+      "Mức yêu cầu — dùng cho xi măng — Tro axit F": "75",
+      "Mức yêu cầu — dùng cho xi măng — Tro bazơ C": "75",
+      "Phương pháp thử": "TCVN 6882:2016",
+      "Quy cách mẫu": ""
+    },
+    {
+      "_row_id": 3,
+      "TT": "7",
+      "Chỉ tiêu kỹ thuật": "* Khi đốt than Antraxit, có thể sử dụng tro bay với hàm lượng mất khi nung tương ứng: - lĩnh vực c tới 12 %; lĩnh vực d tới 10 %, theo thỏa thuận hoặc theo kết quả thử nghiệm được chấp nhận.\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ F - Tro axit C - Tro Bazơ; + Tro bay dùng cho bê tông và vữa xây, bao gồm 4 nhóm lĩnh vực sử dụng, ký hiệu:\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông cốt thép từ bê tông nặng và bê tông nhẹ, ký hiệu: a;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông không cốt thép từ bê tông nặng, bê tông nhẹ và vữa xây, ký hiệu: b;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông tổ ong, ký hiệu: c;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông, bê tông cốt thép làm việc trong điều kiện đặc biệt, ký hiệu: d.",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Loại tro bay": "* Khi đốt than Antraxit, có thể sử dụng tro bay với hàm lượng mất khi nung tương ứng: - lĩnh vực c tới 12 %; lĩnh vực d tới 10 %, theo thỏa thuận hoặc theo kết quả thử nghiệm được chấp nhận.\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ F - Tro axit C - Tro Bazơ; + Tro bay dùng cho bê tông và vữa xây, bao gồm 4 nhóm lĩnh vực sử dụng, ký hiệu:\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông cốt thép từ bê tông nặng và bê tông nhẹ, ký hiệu: a;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông không cốt thép từ bê tông nặng, bê tông nhẹ và vữa xây, ký hiệu: b;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông tổ ong, ký hiệu: c;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông, bê tông cốt thép làm việc trong điều kiện đặc biệt, ký hiệu: d.",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — a": "* Khi đốt than Antraxit, có thể sử dụng tro bay với hàm lượng mất khi nung tương ứng: - lĩnh vực c tới 12 %; lĩnh vực d tới 10 %, theo thỏa thuận hoặc theo kết quả thử nghiệm được chấp nhận.\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ F - Tro axit C - Tro Bazơ; + Tro bay dùng cho bê tông và vữa xây, bao gồm 4 nhóm lĩnh vực sử dụng, ký hiệu:\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông cốt thép từ bê tông nặng và bê tông nhẹ, ký hiệu: a;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông không cốt thép từ bê tông nặng, bê tông nhẹ và vữa xây, ký hiệu: b;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông tổ ong, ký hiệu: c;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông, bê tông cốt thép làm việc trong điều kiện đặc biệt, ký hiệu: d.",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — b": "* Khi đốt than Antraxit, có thể sử dụng tro bay với hàm lượng mất khi nung tương ứng: - lĩnh vực c tới 12 %; lĩnh vực d tới 10 %, theo thỏa thuận hoặc theo kết quả thử nghiệm được chấp nhận.\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ F - Tro axit C - Tro Bazơ; + Tro bay dùng cho bê tông và vữa xây, bao gồm 4 nhóm lĩnh vực sử dụng, ký hiệu:\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông cốt thép từ bê tông nặng và bê tông nhẹ, ký hiệu: a;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông không cốt thép từ bê tông nặng, bê tông nhẹ và vữa xây, ký hiệu: b;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông tổ ong, ký hiệu: c;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông, bê tông cốt thép làm việc trong điều kiện đặc biệt, ký hiệu: d.",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — c": "* Khi đốt than Antraxit, có thể sử dụng tro bay với hàm lượng mất khi nung tương ứng: - lĩnh vực c tới 12 %; lĩnh vực d tới 10 %, theo thỏa thuận hoặc theo kết quả thử nghiệm được chấp nhận.\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ F - Tro axit C - Tro Bazơ; + Tro bay dùng cho bê tông và vữa xây, bao gồm 4 nhóm lĩnh vực sử dụng, ký hiệu:\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông cốt thép từ bê tông nặng và bê tông nhẹ, ký hiệu: a;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông không cốt thép từ bê tông nặng, bê tông nhẹ và vữa xây, ký hiệu: b;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông tổ ong, ký hiệu: c;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông, bê tông cốt thép làm việc trong điều kiện đặc biệt, ký hiệu: d.",
+      "Mức yêu cầu — dùng cho bê tông và vữa xây — Lĩnh vực sử dụng — d": "* Khi đốt than Antraxit, có thể sử dụng tro bay với hàm lượng mất khi nung tương ứng: - lĩnh vực c tới 12 %; lĩnh vực d tới 10 %, theo thỏa thuận hoặc theo kết quả thử nghiệm được chấp nhận.\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ F - Tro axit C - Tro Bazơ; + Tro bay dùng cho bê tông và vữa xây, bao gồm 4 nhóm lĩnh vực sử dụng, ký hiệu:\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông cốt thép từ bê tông nặng và bê tông nhẹ, ký hiệu: a;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông không cốt thép từ bê tông nặng, bê tông nhẹ và vữa xây, ký hiệu: b;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông tổ ong, ký hiệu: c;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông, bê tông cốt thép làm việc trong điều kiện đặc biệt, ký hiệu: d.",
+      "Mức yêu cầu — dùng cho xi măng — Tro axit F": "* Khi đốt than Antraxit, có thể sử dụng tro bay với hàm lượng mất khi nung tương ứng: - lĩnh vực c tới 12 %; lĩnh vực d tới 10 %, theo thỏa thuận hoặc theo kết quả thử nghiệm được chấp nhận.\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ F - Tro axit C - Tro Bazơ; + Tro bay dùng cho bê tông và vữa xây, bao gồm 4 nhóm lĩnh vực sử dụng, ký hiệu:\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông cốt thép từ bê tông nặng và bê tông nhẹ, ký hiệu: a;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông không cốt thép từ bê tông nặng, bê tông nhẹ và vữa xây, ký hiệu: b;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông tổ ong, ký hiệu: c;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông, bê tông cốt thép làm việc trong điều kiện đặc biệt, ký hiệu: d.",
+      "Mức yêu cầu — dùng cho xi măng — Tro bazơ C": "* Khi đốt than Antraxit, có thể sử dụng tro bay với hàm lượng mất khi nung tương ứng: - lĩnh vực c tới 12 %; lĩnh vực d tới 10 %, theo thỏa thuận hoặc theo kết quả thử nghiệm được chấp nhận.\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ F - Tro axit C - Tro Bazơ; + Tro bay dùng cho bê tông và vữa xây, bao gồm 4 nhóm lĩnh vực sử dụng, ký hiệu:\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông cốt thép từ bê tông nặng và bê tông nhẹ, ký hiệu: a;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông không cốt thép từ bê tông nặng, bê tông nhẹ và vữa xây, ký hiệu: b;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông tổ ong, ký hiệu: c;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông, bê tông cốt thép làm việc trong điều kiện đặc biệt, ký hiệu: d.",
+      "Phương pháp thử": "* Khi đốt than Antraxit, có thể sử dụng tro bay với hàm lượng mất khi nung tương ứng: - lĩnh vực c tới 12 %; lĩnh vực d tới 10 %, theo thỏa thuận hoặc theo kết quả thử nghiệm được chấp nhận.\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ F - Tro axit C - Tro Bazơ; + Tro bay dùng cho bê tông và vữa xây, bao gồm 4 nhóm lĩnh vực sử dụng, ký hiệu:\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông cốt thép từ bê tông nặng và bê tông nhẹ, ký hiệu: a;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông không cốt thép từ bê tông nặng, bê tông nhẹ và vữa xây, ký hiệu: b;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông tổ ong, ký hiệu: c;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông, bê tông cốt thép làm việc trong điều kiện đặc biệt, ký hiệu: d.",
+      "Quy cách mẫu": "* Khi đốt than Antraxit, có thể sử dụng tro bay với hàm lượng mất khi nung tương ứng: - lĩnh vực c tới 12 %; lĩnh vực d tới 10 %, theo thỏa thuận hoặc theo kết quả thử nghiệm được chấp nhận.\n&nbsp;&nbsp;&nbsp;&nbsp;\\+ F - Tro axit C - Tro Bazơ; + Tro bay dùng cho bê tông và vữa xây, bao gồm 4 nhóm lĩnh vực sử dụng, ký hiệu:\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông cốt thép từ bê tông nặng và bê tông nhẹ, ký hiệu: a;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông không cốt thép từ bê tông nặng, bê tông nhẹ và vữa xây, ký hiệu: b;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông tổ ong, ký hiệu: c;\n&nbsp;&nbsp;\\- Dùng cho chế tạo sản phẩm và cấu kiện bê tông, bê tông cốt thép làm việc trong điều kiện đặc biệt, ký hiệu: d."
+    }
+  ],
+  "footnotes": []
+}

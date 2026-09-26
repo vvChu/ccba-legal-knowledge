@@ -1,0 +1,32 @@
+{
+  "table_id": "bang_phu_luc_i",
+  "table_number": "PLI",
+  "table_title": "Bảng Phụ lục I",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT",
+    "Chỉ tiêu kỹ thuật",
+    "Mức yêu cầu",
+    "Phương pháp thử",
+    "Quy cách mẫu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1",
+      "Chỉ tiêu kỹ thuật": "Độ bền cơ học",
+      "Mức yêu cầu": "Bảng I",
+      "Phương pháp thử": "TCVN 4313",
+      "Quy cách mẫu": "Lấy 10 viên bất kỳ từ mỗi lô"
+    },
+    {
+      "_row_id": 2,
+      "TT": "2",
+      "Chỉ tiêu kỹ thuật": "Độ thấm nước",
+      "Mức yêu cầu": "Không thấm",
+      "Phương pháp thử": "TCVN 4313",
+      "Quy cách mẫu": "Lấy 10 viên bất kỳ từ mỗi lô"
+    }
+  ],
+  "footnotes": []
+}

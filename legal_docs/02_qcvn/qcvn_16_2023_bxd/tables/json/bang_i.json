@@ -1,0 +1,30 @@
+{
+  "table_id": "bang_i",
+  "table_number": "I",
+  "table_title": "Bảng I - Lực uốn gãy tối thiểu $F_{min}$ của ngói",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Đặc tính — Chiều cao sóng — Chiều rộng làm việc của viên ngói $c_{w}$ (mm)",
+    "Ngói có rãnh liên kết — Dạng sóng — d > 20 mm — ≥ 300",
+    "Ngói có rãnh liên kết — Dạng sóng — d > 20 mm — ≤ 200",
+    "Ngói có rãnh liên kết — Dạng sóng — 20 mm ≥ d ≥ 5 mm — ≥ 300",
+    "Ngói có rãnh liên kết — Dạng sóng — 20 mm ≥ d ≥ 5 mm — ≤ 200",
+    "Ngói có rãnh liên kết — Dạng phẳng — d < 5 mm — ≥ 300",
+    "Ngói có rãnh liên kết — Dạng phẳng — d < 5 mm — ≤ 200",
+    "Ngói không có rãnh liên kết"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Đặc tính — Chiều cao sóng — Chiều rộng làm việc của viên ngói $c_{w}$ (mm)": "$F_{min}$ (N)",
+      "Ngói có rãnh liên kết — Dạng sóng — d > 20 mm — ≥ 300": "2000",
+      "Ngói có rãnh liên kết — Dạng sóng — d > 20 mm — ≤ 200": "1400",
+      "Ngói có rãnh liên kết — Dạng sóng — 20 mm ≥ d ≥ 5 mm — ≥ 300": "1400",
+      "Ngói có rãnh liên kết — Dạng sóng — 20 mm ≥ d ≥ 5 mm — ≤ 200": "1000",
+      "Ngói có rãnh liên kết — Dạng phẳng — d < 5 mm — ≥ 300": "1200",
+      "Ngói có rãnh liên kết — Dạng phẳng — d < 5 mm — ≤ 200": "800",
+      "Ngói không có rãnh liên kết": "550"
+    }
+  ],
+  "footnotes": []
+}

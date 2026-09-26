@@ -1,0 +1,106 @@
+{
+  "table_id": "bang_h",
+  "table_number": "H",
+  "table_title": "Bảng H - Cường độ nén và khối lượng thể tích khô",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Cấp cường độ nén B",
+    "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn",
+    "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa",
+    "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Cấp cường độ nén B": "B2",
+      "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn": "2,5",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa": "400",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình": "từ 351 đến 450"
+    },
+    {
+      "_row_id": 2,
+      "Cấp cường độ nén B": "B2",
+      "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn": "2,5",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa": "500",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình": "từ 451 đến 550"
+    },
+    {
+      "_row_id": 3,
+      "Cấp cường độ nén B": "B3",
+      "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn": "3,5",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa": "500",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình": "từ 451 đến 550"
+    },
+    {
+      "_row_id": 4,
+      "Cấp cường độ nén B": "B3",
+      "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn": "3,5",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa": "600",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình": "từ 551 đến 650"
+    },
+    {
+      "_row_id": 5,
+      "Cấp cường độ nén B": "B4",
+      "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn": "5,0",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa": "600",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình": "từ 551 đến 650"
+    },
+    {
+      "_row_id": 6,
+      "Cấp cường độ nén B": "B4",
+      "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn": "5,0",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa": "700",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình": "từ 651 đến 750"
+    },
+    {
+      "_row_id": 7,
+      "Cấp cường độ nén B": "B4",
+      "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn": "5,0",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa": "800",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình": "từ 751 đến 850"
+    },
+    {
+      "_row_id": 8,
+      "Cấp cường độ nén B": "B6",
+      "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn": "7,5",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa": "700",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình": "từ 651 đến 750"
+    },
+    {
+      "_row_id": 9,
+      "Cấp cường độ nén B": "B6",
+      "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn": "7,5",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa": "800",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình": "từ 751 đến 850"
+    },
+    {
+      "_row_id": 10,
+      "Cấp cường độ nén B": "B6",
+      "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn": "7,5",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa": "900",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình": "từ 851 đến 950"
+    },
+    {
+      "_row_id": 11,
+      "Cấp cường độ nén B": "B8",
+      "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn": "10,0",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa": "800",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình": "từ 751 đến 850"
+    },
+    {
+      "_row_id": 12,
+      "Cấp cường độ nén B": "B8",
+      "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn": "10,0",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa": "900",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình": "từ 851 đến 950"
+    },
+    {
+      "_row_id": 13,
+      "Cấp cường độ nén B": "B8",
+      "Giá trị trung bình cường độ chịu nén, MPa, không nhỏ hơn": "10,0",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Danh nghĩa": "1000",
+      "Khối lượng thể tích khô, kg/$m^{3}$ — Trung bình": "từ 951 đến 1050"
+    }
+  ],
+  "footnotes": []
+}

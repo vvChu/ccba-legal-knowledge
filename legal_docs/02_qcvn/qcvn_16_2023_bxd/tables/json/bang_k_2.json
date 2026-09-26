@@ -1,0 +1,92 @@
+{
+  "table_id": "bang_k_2",
+  "table_number": "K.2",
+  "table_title": "Bảng K.2 - Chỉ tiêu chất lượng các khuyết tật ngoại quan",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "TT",
+    "Dạng khuyết tật",
+    "Dạng khuyết tật",
+    "Mức cho phép",
+    "Mức cho phép",
+    "Mức cho phép",
+    "Mức cho phép"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1.",
+      "Dạng khuyết tật": "Kích thước bọt, mm",
+      "Mức cho phép": "D ≥ 3,0"
+    },
+    {
+      "_row_id": 2,
+      "TT": "1.",
+      "Dạng khuyết tật": "Số bọt cho phép(4)",
+      "Mức cho phép": "0"
+    },
+    {
+      "_row_id": 3,
+      "TT": "2.",
+      "Dạng khuyết tật": "Kích thước dị vật, mm",
+      "Mức cho phép": "D ≥ 3,0"
+    },
+    {
+      "_row_id": 4,
+      "TT": "2.",
+      "Dạng khuyết tật": "Số dị vật cho phép(4)",
+      "Mức cho phép": "0"
+    },
+    {
+      "_row_id": 5,
+      "TT": "3.",
+      "Dạng khuyết tật": "Độ tập trung của khuyết tật bọt và dị vật(4)",
+      "Mức cho phép": "Đối với bọt và dị vật có kích thước ≥ 1 mm thì khoảng cách giữa hai bọt, hai dị vật hoặc giữa bọt và dị vật phải lớn hơn hoặc bằng 15 cm."
+    },
+    {
+      "_row_id": 6,
+      "TT": "4.",
+      "Dạng khuyết tật": "Khuyết tật dạng vùng, dạng đường hoặc vết dài(5)",
+      "Mức cho phép": "Không cho phép nhìn thấy được"
+    },
+    {
+      "_row_id": 7,
+      "TT": "5.",
+      "Dạng khuyết tật": "Khuyết tật trên cạnh cắt",
+      "Mức cho phép": "Các lỗi trên cạnh cắt như: sứt cạnh, lõm vào, lồi ra, rạn hình ốc, sứt góc hoặc lồi góc, lệch khỏi đường cắt khi nhìn theo hướng vuông góc với bề mặt tấm kính, phải không lớn hơn chiều dày danh nghĩa của tấm kính và không lớn hơn 10 mm."
+    },
+    {
+      "_row_id": 8,
+      "TT": "6.",
+      "Dạng khuyết tật": "Độ cong vênh, %, không lớn hơn",
+      "Mức cho phép": "0,30"
+    },
+    {
+      "_row_id": 9,
+      "TT": "7.",
+      "Dạng khuyết tật": "Độ biến dạng quang học (góc biến dạng), độ, không nhỏ hơn",
+      "Mức cho phép": ""
+    },
+    {
+      "_row_id": 10,
+      "TT": "7.",
+      "Dạng khuyết tật": "Loại chiều dày 2 mm; 2,5 mm",
+      "Mức cho phép": "40"
+    },
+    {
+      "_row_id": 11,
+      "TT": "7.",
+      "Dạng khuyết tật": "Loại chiều dày 3 mm",
+      "Mức cho phép": "45"
+    },
+    {
+      "_row_id": 12,
+      "TT": "7.",
+      "Dạng khuyết tật": "Loại chiều dày ≥ 4 mm",
+      "Mức cho phép": "50"
+    }
+  ],
+  "footnotes": {
+    "(1)": "**CHÚ THÍCH:**\n\n&nbsp;&nbsp;\\- <sup>(1)</sup> Bọt là các khuyết tật dạng túi chứa khí bên trong. Dị vật là các khuyết tật dạng hạt không chứa khí;\n\n&nbsp;&nbsp;\\- <sup>(2)</sup> D là đường kính bọt hoặc dị vật. Kích thước bọt và dị vật lấy theo giá trị kích thước ngoài lớn nhất;\n\n&nbsp;&nbsp;\\- <sup>(3)</sup> S là diện tích tấm kính có đơn vị đo là 1 mét vuông ($m^{2}$), được làm tròn đến hàng thập phân thứ hai;\n\n&nbsp;&nbsp;\\- <sup>(4)</sup> Giới hạn số bọt và dị vật cho phép là một số nguyên (sau khi bỏ đi phần thập phân) của phép nhân giữa S và hệ số;\n\n&nbsp;&nbsp;\\- <sup>(5)</sup> Khuyết tật dạng vùng, dạng đường, vết dài là khuyết tật xuất hiện liên tiếp dưới bề mặt hoặc trên bề mặt tấm kính như: vết sẹo, vết rạn nứt, vết xước, vùng không đồng nhất."
+  }
+}

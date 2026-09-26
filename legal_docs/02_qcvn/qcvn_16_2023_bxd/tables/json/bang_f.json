@@ -1,0 +1,99 @@
+{
+  "table_id": "bang_f",
+  "table_number": "F",
+  "table_title": "Bảng F - Cường độ nén và uốn của gạch đất sét nung",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Gạch rỗng — Mác gạch",
+    "Gạch rỗng — Cường độ nén — Trung bình cho 5 mẫu thử",
+    "Gạch rỗng — Cường độ nén — Nhỏ nhất cho 1 mẫu thử",
+    "Gạch rỗng — Cường độ uốn — Trung bình cho 5 mẫu thử",
+    "Gạch rỗng — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử",
+    "Gạch đặc — Mác gạch",
+    "Gạch đặc — Cường độ nén — Trung bình cho 5 mẫu thử",
+    "Gạch đặc — Cường độ nén — Nhỏ nhất cho 1 mẫu thử",
+    "Gạch đặc — Cường độ uốn — Trung bình cho 5 mẫu thử",
+    "Gạch đặc — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Gạch rỗng — Mác gạch": "M 125",
+      "Gạch rỗng — Cường độ nén — Trung bình cho 5 mẫu thử": "12,5",
+      "Gạch rỗng — Cường độ nén — Nhỏ nhất cho 1 mẫu thử": "10,0",
+      "Gạch rỗng — Cường độ uốn — Trung bình cho 5 mẫu thử": "1,8",
+      "Gạch rỗng — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử": "0,9",
+      "Gạch đặc — Mác gạch": "M 200",
+      "Gạch đặc — Cường độ nén — Trung bình cho 5 mẫu thử": "20",
+      "Gạch đặc — Cường độ nén — Nhỏ nhất cho 1 mẫu thử": "15",
+      "Gạch đặc — Cường độ uốn — Trung bình cho 5 mẫu thử": "3,4",
+      "Gạch đặc — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử": "1,7"
+    },
+    {
+      "_row_id": 2,
+      "Gạch rỗng — Mác gạch": "M 100",
+      "Gạch rỗng — Cường độ nén — Trung bình cho 5 mẫu thử": "10,0",
+      "Gạch rỗng — Cường độ nén — Nhỏ nhất cho 1 mẫu thử": "7,5",
+      "Gạch rỗng — Cường độ uốn — Trung bình cho 5 mẫu thử": "1,6",
+      "Gạch rỗng — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử": "0,8",
+      "Gạch đặc — Mác gạch": "M 150",
+      "Gạch đặc — Cường độ nén — Trung bình cho 5 mẫu thử": "15",
+      "Gạch đặc — Cường độ nén — Nhỏ nhất cho 1 mẫu thử": "12,5",
+      "Gạch đặc — Cường độ uốn — Trung bình cho 5 mẫu thử": "2,8",
+      "Gạch đặc — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử": "1,4"
+    },
+    {
+      "_row_id": 3,
+      "Gạch rỗng — Mác gạch": "M 75",
+      "Gạch rỗng — Cường độ nén — Trung bình cho 5 mẫu thử": "7,5",
+      "Gạch rỗng — Cường độ nén — Nhỏ nhất cho 1 mẫu thử": "5,0",
+      "Gạch rỗng — Cường độ uốn — Trung bình cho 5 mẫu thử": "1,4",
+      "Gạch rỗng — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử": "0,7",
+      "Gạch đặc — Mác gạch": "M 125",
+      "Gạch đặc — Cường độ nén — Trung bình cho 5 mẫu thử": "12,5",
+      "Gạch đặc — Cường độ nén — Nhỏ nhất cho 1 mẫu thử": "10",
+      "Gạch đặc — Cường độ uốn — Trung bình cho 5 mẫu thử": "2,5",
+      "Gạch đặc — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử": "1,2"
+    },
+    {
+      "_row_id": 4,
+      "Gạch rỗng — Mác gạch": "M 50",
+      "Gạch rỗng — Cường độ nén — Trung bình cho 5 mẫu thử": "5,0",
+      "Gạch rỗng — Cường độ nén — Nhỏ nhất cho 1 mẫu thử": "3,5",
+      "Gạch rỗng — Cường độ uốn — Trung bình cho 5 mẫu thử": "1,4",
+      "Gạch rỗng — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử": "0,7",
+      "Gạch đặc — Mác gạch": "M 100",
+      "Gạch đặc — Cường độ nén — Trung bình cho 5 mẫu thử": "10",
+      "Gạch đặc — Cường độ nén — Nhỏ nhất cho 1 mẫu thử": "7,5",
+      "Gạch đặc — Cường độ uốn — Trung bình cho 5 mẫu thử": "2,2",
+      "Gạch đặc — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử": "1,1"
+    },
+    {
+      "_row_id": 5,
+      "Gạch rỗng — Mác gạch": "M 35",
+      "Gạch rỗng — Cường độ nén — Trung bình cho 5 mẫu thử": "3,5",
+      "Gạch rỗng — Cường độ nén — Nhỏ nhất cho 1 mẫu thử": "2,5",
+      "Gạch rỗng — Cường độ uốn — Trung bình cho 5 mẫu thử": "-",
+      "Gạch rỗng — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử": "-",
+      "Gạch đặc — Mác gạch": "M 75",
+      "Gạch đặc — Cường độ nén — Trung bình cho 5 mẫu thử": "7,5",
+      "Gạch đặc — Cường độ nén — Nhỏ nhất cho 1 mẫu thử": "5",
+      "Gạch đặc — Cường độ uốn — Trung bình cho 5 mẫu thử": "1,8",
+      "Gạch đặc — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử": "0,9"
+    },
+    {
+      "_row_id": 6,
+      "Gạch rỗng — Mác gạch": "",
+      "Gạch rỗng — Cường độ nén — Trung bình cho 5 mẫu thử": "",
+      "Gạch rỗng — Cường độ nén — Nhỏ nhất cho 1 mẫu thử": "",
+      "Gạch rỗng — Cường độ uốn — Trung bình cho 5 mẫu thử": "",
+      "Gạch rỗng — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử": "",
+      "Gạch đặc — Mác gạch": "M 50",
+      "Gạch đặc — Cường độ nén — Trung bình cho 5 mẫu thử": "5",
+      "Gạch đặc — Cường độ nén — Nhỏ nhất cho 1 mẫu thử": "3,5",
+      "Gạch đặc — Cường độ uốn — Trung bình cho 5 mẫu thử": "1,6",
+      "Gạch đặc — Cường độ uốn — Nhỏ nhất cho 1 mẫu thử": "0,8"
+    }
+  ],
+  "footnotes": []
+}

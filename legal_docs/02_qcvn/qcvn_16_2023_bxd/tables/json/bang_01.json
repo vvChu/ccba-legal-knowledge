@@ -1,0 +1,119 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Danh mục sản phẩm, hàng hóa vật liệu xây dựng",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT",
+    "Tên sản phẩm",
+    "Chỉ tiêu kỹ thuật",
+    "Mức yêu cầu",
+    "Mức yêu cầu",
+    "Phương pháp thử",
+    "Quy cách mẫu",
+    "Mã HS"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "I",
+      "Tên sản phẩm": "Xi măng, phụ gia cho xi măng và bê tông",
+      "Chỉ tiêu kỹ thuật": "Xi măng, phụ gia cho xi măng và bê tông",
+      "Mức yêu cầu": "Xi măng, phụ gia cho xi măng và bê tông",
+      "Phương pháp thử": "Xi măng, phụ gia cho xi măng và bê tông",
+      "Quy cách mẫu": "Xi măng, phụ gia cho xi măng và bê tông",
+      "Mã HS": "Xi măng, phụ gia cho xi măng và bê tông"
+    },
+    {
+      "_row_id": 2,
+      "TT": "1",
+      "Tên sản phẩm": "Xi măng poóc lăng",
+      "Chỉ tiêu kỹ thuật": "1. Cường độ nén, MPa, không nhỏ hơn:",
+      "Mức yêu cầu": "PC 50",
+      "Phương pháp thử": "TCVN 6016:2011",
+      "Quy cách mẫu": "Lấy mẫu ở 10 vị trí khác nhau trong cùng lô sản phẩm, mỗi vị trí lấy khoảng 4 kg. Lấy mẫu trung bình khoảng 20 kg",
+      "Mã HS": "2523.29.90"
+    },
+    {
+      "_row_id": 3,
+      "TT": "1",
+      "Tên sản phẩm": "Xi măng poóc lăng",
+      "Chỉ tiêu kỹ thuật": "&nbsp;&nbsp;\\- 3 ngày ± 45 min",
+      "Mức yêu cầu": "25",
+      "Phương pháp thử": "TCVN 6016:2011",
+      "Quy cách mẫu": "Lấy mẫu ở 10 vị trí khác nhau trong cùng lô sản phẩm, mỗi vị trí lấy khoảng 4 kg. Lấy mẫu trung bình khoảng 20 kg",
+      "Mã HS": "2523.29.90"
+    },
+    {
+      "_row_id": 4,
+      "TT": "1",
+      "Tên sản phẩm": "Xi măng poóc lăng",
+      "Chỉ tiêu kỹ thuật": "&nbsp;&nbsp;\\- 28 ngày ± 8 h",
+      "Mức yêu cầu": "50",
+      "Phương pháp thử": "TCVN 6016:2011",
+      "Quy cách mẫu": "Lấy mẫu ở 10 vị trí khác nhau trong cùng lô sản phẩm, mỗi vị trí lấy khoảng 4 kg. Lấy mẫu trung bình khoảng 20 kg",
+      "Mã HS": "2523.29.90"
+    },
+    {
+      "_row_id": 5,
+      "TT": "1",
+      "Tên sản phẩm": "Xi măng poóc lăng",
+      "Chỉ tiêu kỹ thuật": "2. Độ ổn định thể tích, xác định theo Le chatelier, mm, không lớn hơn",
+      "Mức yêu cầu": "10,0",
+      "Phương pháp thử": "TCVN 6017:2015",
+      "Quy cách mẫu": "Lấy mẫu ở 10 vị trí khác nhau trong cùng lô sản phẩm, mỗi vị trí lấy khoảng 4 kg. Lấy mẫu trung bình khoảng 20 kg",
+      "Mã HS": "2523.29.90"
+    },
+    {
+      "_row_id": 6,
+      "TT": "1",
+      "Tên sản phẩm": "Xi măng poóc lăng",
+      "Chỉ tiêu kỹ thuật": "3. Hàm lượng anhydric sunphuric ($SO_{3}$), %, không lớn hơn",
+      "Mức yêu cầu": "3,5",
+      "Phương pháp thử": "TCVN 141:2023",
+      "Quy cách mẫu": "Lấy mẫu ở 10 vị trí khác nhau trong cùng lô sản phẩm, mỗi vị trí lấy khoảng 4 kg. Lấy mẫu trung bình khoảng 20 kg",
+      "Mã HS": "2523.29.90"
+    },
+    {
+      "_row_id": 7,
+      "TT": "1",
+      "Tên sản phẩm": "Xi măng poóc lăng",
+      "Chỉ tiêu kỹ thuật": "4. Hàm lượng magiê oxit (MgO), %, không lớn hơn",
+      "Mức yêu cầu": "5,0*",
+      "Phương pháp thử": "TCVN 141:2023",
+      "Quy cách mẫu": "Lấy mẫu ở 10 vị trí khác nhau trong cùng lô sản phẩm, mỗi vị trí lấy khoảng 4 kg. Lấy mẫu trung bình khoảng 20 kg",
+      "Mã HS": "2523.29.90"
+    },
+    {
+      "_row_id": 8,
+      "TT": "1",
+      "Tên sản phẩm": "Xi măng poóc lăng",
+      "Chỉ tiêu kỹ thuật": "5. Hàm lượng mất khi nung (MKN), %, không lớn hơn\n&nbsp;&nbsp;\\- Khi không sử dụng phụ gia đá vôi\n&nbsp;&nbsp;\\- Khi sử dụng phụ gia đá vôi",
+      "Mức yêu cầu": "3,0\n3,5",
+      "Phương pháp thử": "TCVN 141:2023",
+      "Quy cách mẫu": "Lấy mẫu ở 10 vị trí khác nhau trong cùng lô sản phẩm, mỗi vị trí lấy khoảng 4 kg. Lấy mẫu trung bình khoảng 20 kg",
+      "Mã HS": "2523.29.90"
+    },
+    {
+      "_row_id": 9,
+      "TT": "1",
+      "Tên sản phẩm": "Xi măng poóc lăng",
+      "Chỉ tiêu kỹ thuật": "6. Hàm lượng cặn không tan (CKT), %, không lớn hơn",
+      "Mức yêu cầu": "1,5",
+      "Phương pháp thử": "TCVN 141:2023",
+      "Quy cách mẫu": "Lấy mẫu ở 10 vị trí khác nhau trong cùng lô sản phẩm, mỗi vị trí lấy khoảng 4 kg. Lấy mẫu trung bình khoảng 20 kg",
+      "Mã HS": "2523.29.90"
+    },
+    {
+      "_row_id": 10,
+      "TT": "1",
+      "Tên sản phẩm": "Xi măng poóc lăng",
+      "Chỉ tiêu kỹ thuật": "(*) Cho phép hàm lượng MgO tới 6% nếu độ nở autoclave (xác định theo TCVN 8877:2011) của xi măng không lớn hơn 0,8%.",
+      "Mức yêu cầu": "(*) Cho phép hàm lượng MgO tới 6% nếu độ nở autoclave (xác định theo TCVN 8877:2011) của xi măng không lớn hơn 0,8%.",
+      "Phương pháp thử": "(*) Cho phép hàm lượng MgO tới 6% nếu độ nở autoclave (xác định theo TCVN 8877:2011) của xi măng không lớn hơn 0,8%.",
+      "Quy cách mẫu": "Lấy mẫu ở 10 vị trí khác nhau trong cùng lô sản phẩm, mỗi vị trí lấy khoảng 4 kg. Lấy mẫu trung bình khoảng 20 kg",
+      "Mã HS": "2523.29.90"
+    }
+  ],
+  "footnotes": []
+}

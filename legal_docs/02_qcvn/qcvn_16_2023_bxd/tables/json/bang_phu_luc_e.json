@@ -1,0 +1,63 @@
+{
+  "table_id": "bang_phu_luc_e",
+  "table_number": "PLE",
+  "table_title": "Bảng Phụ lục E",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT",
+    "Chỉ tiêu kỹ thuật",
+    "Mức yêu cầu — $W_{1}$ > 2,0",
+    "Mức yêu cầu — 2,0 ≥ $W_{2}$ > 0,5",
+    "Mức yêu cầu — 0,5 ≥ $W_{3}$ > 0,05",
+    "Mức yêu cầu — $W_{4}$ ≤ 0,05",
+    "Phương pháp thử",
+    "Quy cách mẫu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1",
+      "Chỉ tiêu kỹ thuật": "Độ hút nước, % khối lượng",
+      "Mức yêu cầu — $W_{1}$ > 2,0": "$W_{1}$ > 2,0",
+      "Mức yêu cầu — 2,0 ≥ $W_{2}$ > 0,5": "2,0 ≥ $W_{2}$ > 0,5",
+      "Mức yêu cầu — 0,5 ≥ $W_{3}$ > 0,05": "0,5 ≥ $W_{3}$ > 0,05",
+      "Mức yêu cầu — $W_{4}$ ≤ 0,05": "$W_{4}$ ≤ 0,05",
+      "Phương pháp thử": "BSEN 14617-1:2013",
+      "Quy cách mẫu": "06 mẫu thử, kích thước (100x100) mm và độ dày (10 ± 2) mm"
+    },
+    {
+      "_row_id": 2,
+      "TT": "2",
+      "Chỉ tiêu kỹ thuật": "Độ bền uốn, MPa",
+      "Mức yêu cầu — $W_{1}$ > 2,0": "$F_{1}$ < 12,0",
+      "Mức yêu cầu — 2,0 ≥ $W_{2}$ > 0,5": "12,0 ≤ $F_{2}$ < 25,0",
+      "Mức yêu cầu — 0,5 ≥ $W_{3}$ > 0,05": "25,0 ≤ $F_{3}$ < 40,0",
+      "Mức yêu cầu — $W_{4}$ ≤ 0,05": "$F_{4}$ ≥ 40,0",
+      "Phương pháp thử": "BSEN 14617-2:2016",
+      "Quy cách mẫu": "10 mẫu thử, kích thước tối thiểu như sau:\nChiều dài ít nhất là (200 ± 0,3) mm;\nChiều rộng ít nhất là (50 ± 0,3) mm và không lớn hơn chiều dài."
+    },
+    {
+      "_row_id": 3,
+      "TT": "3",
+      "Chỉ tiêu kỹ thuật": "Độ bền mài mòn (mm)",
+      "Mức yêu cầu — $W_{1}$ > 2,0": "$A_{1}$ > 36,5",
+      "Mức yêu cầu — 2,0 ≥ $W_{2}$ > 0,5": "36,5 ≥ $A_{2}$ > 33,0",
+      "Mức yêu cầu — 0,5 ≥ $W_{3}$ > 0,05": "33,0 ≥ $A_{3}$ > 29,0",
+      "Mức yêu cầu — $W_{4}$ ≤ 0,05": "$A_{4}$ ≤ 29,0",
+      "Phương pháp thử": "BSEN 14617-4:2012",
+      "Quy cách mẫu": "06 mẫu thử, kích thước tối thiểu (100x70) mm"
+    },
+    {
+      "_row_id": 4,
+      "TT": "4",
+      "Chỉ tiêu kỹ thuật": "Độ bền hóa học",
+      "Mức yêu cầu — $W_{1}$ > 2,0": "$C_{1}$",
+      "Mức yêu cầu — 2,0 ≥ $W_{2}$ > 0,5": "$C_{2}$",
+      "Mức yêu cầu — 0,5 ≥ $W_{3}$ > 0,05": "$C_{3}$",
+      "Mức yêu cầu — $W_{4}$ ≤ 0,05": "$C_{4}$",
+      "Phương pháp thử": "BSEN 14617-10:2012",
+      "Quy cách mẫu": "04 mẫu thử, kích thước tối thiểu (300x300) mm"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,35 @@
+{
+  "table_id": "bang_phu_luc_f",
+  "table_number": "PLF",
+  "table_title": "Bảng Phụ lục F",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT",
+    "Chỉ tiêu kỹ thuật",
+    "Mức yêu cầu — Gạch đặc",
+    "Mức yêu cầu — Gạch rỗng",
+    "Phương pháp thử",
+    "Quy cách mẫu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1",
+      "Chỉ tiêu kỹ thuật": "Cường độ nén và uốn",
+      "Mức yêu cầu — Gạch đặc": "Bảng F",
+      "Mức yêu cầu — Gạch rỗng": "Bảng F",
+      "Phương pháp thử": "TCVN 6355-2:2009\nTCVN 6355-3:2009",
+      "Quy cách mẫu": "Lấy 15 viên bất kỳ từ mỗi lô"
+    },
+    {
+      "_row_id": 2,
+      "TT": "2",
+      "Chỉ tiêu kỹ thuật": "Độ hút nước, %, không lớn hơn",
+      "Mức yêu cầu — Gạch đặc": "16",
+      "Mức yêu cầu — Gạch rỗng": "16",
+      "Phương pháp thử": "TCVN 6355-4:2009",
+      "Quy cách mẫu": "Lấy 15 viên bất kỳ từ mỗi lô"
+    }
+  ],
+  "footnotes": []
+}

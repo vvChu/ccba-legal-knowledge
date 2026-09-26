@@ -298,6 +298,7 @@ candidates:
   tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-04-2023-TT-BXD-QCVN-16-2023-BXD-san-pham-hang-hoa-vat-lieu-xay-dung-571737.aspx
   base_impact_score: 9.7
   tier_override: 1
+  status: ingested
 - id: ND-85-2020-ND-CP
   document_number: 85/2020/NĐ-CP
   title: Nghị định quy định chi tiết một số điều của Luật Kiến trúc
