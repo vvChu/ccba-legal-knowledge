@@ -259,6 +259,7 @@ candidates:
   tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Kien-truc-2019-387063.aspx
   base_impact_score: 9.8
   tier_override: 1
+  status: ingested
 - id: QCVN-18-2021-BXD
   document_number: QCVN 18:2021/BXD
   title: Quy chuẩn kỹ thuật quốc gia về An toàn trong thi công xây dựng
@@ -308,6 +309,7 @@ candidates:
   search_query: 85/2020/NĐ-CP
   tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-85-2020-ND-CP-huong-dan-Luat-Kien-truc-447545.aspx
   base_impact_score: 9.6
+  status: ingested
 - id: ND-214-2025-ND-CP
   document_number: 214/2025/NĐ-CP
   title: Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu

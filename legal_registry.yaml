@@ -1984,3 +1984,66 @@ decrees:
       sha256: 4ce6f5c5882731eed08c45b46a27dde33e27bb3fb9a0258591b998778e1f5927
       vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_115_2024_nd_cp/nghi_dinh_115_2024_nd_cp.docx
       status: verified
+- id: luat_kien_truc_2019_40_2019_qh14
+  document_number: 40/2019/QH14
+  title: Luật Kiến trúc số 40/2019/QH14
+  type: Luật
+  issued_by: Quốc hội
+  signer: Nguyễn Thị Kim Ngân
+  issued_date: '2019-06-13'
+  effective_date: '2020-07-01'
+  status: active
+  bundle_path: legal_docs/01_vbpl/luat_kien_truc_2019_40_2019_qh14/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Kien-truc-2019-so-40-2019-QH14-388277.aspx
+  relations:
+    guided_by:
+      - id: nghi_dinh_85_2020_nd_cp
+        document_number: 85/2020/NĐ-CP
+        title: Nghị định quy định chi tiết một số điều của Luật Kiến trúc
+  pdf_path: legal_docs/01_vbpl/luat_kien_truc_2019_40_2019_qh14/sources/luat_kien_truc_2019_40_2019_qh14.pdf
+  pdf_sha256: 10bb5db9417584cf889d15dafd3efda19150af96159b20ba98d74b6f6387f2e1
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 673+674/2019
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/luat_kien_truc_2019_40_2019_qh14/sources/luat_kien_truc_2019_40_2019_qh14.docx
+  source_assets:
+    pdf:
+      sha256: 10bb5db9417584cf889d15dafd3efda19150af96159b20ba98d74b6f6387f2e1
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_kien_truc_2019_40_2019_qh14/luat_kien_truc_2019_40_2019_qh14.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: d0f245071868fa34f63b7e461dc94f536d4a25bef5db03ce1d37ca303e7219f1
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_kien_truc_2019_40_2019_qh14/luat_kien_truc_2019_40_2019_qh14.docx
+      status: verified
+- id: nghi_dinh_85_2020_nd_cp
+  document_number: 85/2020/NĐ-CP
+  title: Nghị định số 85/2020/NĐ-CP quy định chi tiết một số điều của Luật Kiến trúc
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Nguyễn Xuân Phúc
+  issued_date: '2020-07-17'
+  effective_date: '2020-09-07'
+  status: active
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_85_2020_nd_cp/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-85-2020-ND-CP-huong-dan-Luat-Kien-truc-448090.aspx
+  relations:
+    guides: luat_kien_truc_2019_40_2019_qh14
+    replaces: 38/2010/NĐ-CP
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_85_2020_nd_cp/sources/nghi_dinh_85_2020_nd_cp.pdf
+  pdf_sha256: cc3b9a839f502827f9e20b44c459ede5eeb42c62efe7cb5e9827f401686b12ed
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 733+734/2020
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_85_2020_nd_cp/sources/nghi_dinh_85_2020_nd_cp.docx
+  source_assets:
+    pdf:
+      sha256: cc3b9a839f502827f9e20b44c459ede5eeb42c62efe7cb5e9827f401686b12ed
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_85_2020_nd_cp/nghi_dinh_85_2020_nd_cp.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: 87e3dbb7985a3aaa806a1b97b6e36c8edecf48e6e4503cc0c6a13a8f1e366f34
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_85_2020_nd_cp/nghi_dinh_85_2020_nd_cp.docx
+      status: verified
+

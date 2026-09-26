@@ -1,0 +1,42 @@
+id: nghi_dinh_85_2020_nd_cp
+document_number: 85/2020/NĐ-CP
+title: Nghị định số 85/2020/NĐ-CP quy định chi tiết một số điều của Luật Kiến trúc
+type: Nghị định
+issued_by: Chính phủ
+signer: Nguyễn Xuân Phúc
+issued_date: '2020-07-17'
+effective_date: '2020-09-07'
+status: active
+bundle_path: legal_docs/01_vbpl/nghi_dinh_85_2020_nd_cp/
+pdf_path: legal_docs/01_vbpl/nghi_dinh_85_2020_nd_cp/sources/nghi_dinh_85_2020_nd_cp.pdf
+pdf_sha256: cc3b9a839f502827f9e20b44c459ede5eeb42c62efe7cb5e9827f401686b12ed
+pdf_status: verified
+cong_bao_number: 733+734/2020
+source_assets:
+  pdf:
+    sha256: cc3b9a839f502827f9e20b44c459ede5eeb42c62efe7cb5e9827f401686b12ed
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_85_2020_nd_cp/nghi_dinh_85_2020_nd_cp.pdf
+    status: verified
+    origin: official_gazette_vector
+  docx:
+    sha256: 87e3dbb7985a3aaa806a1b97b6e36c8edecf48e6e4503cc0c6a13a8f1e366f34
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_85_2020_nd_cp/nghi_dinh_85_2020_nd_cp.docx
+    status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-85-2020-ND-CP-huong-dan-Luat-Kien-truc-448090.aspx
+legal_basis:
+  - doc_id: luat_kien_truc_2019_40_2019_qh14
+    title: Luật Kiến trúc ngày 13 tháng 6 năm 2019
+  - doc_id: luật_tổ_chức_chính_phủ_ngày_19_tháng_6_năm_2015
+    title: Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015
+relations:
+  guides: luat_kien_truc_2019_40_2019_qh14
+  replaces: 38/2010/NĐ-CP
+replaces: 38/2010/NĐ-CP
+verification_scope:
+  normative_body_pages:
+    - 1
+    - 24
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-26T21:40:00+07:00'
+pdf_origin: official_gazette_vector
