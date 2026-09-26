@@ -373,6 +373,7 @@ candidates:
   tvpl_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-23-2024-ND-CP-thi-hanh-Luat-Dau-thau-ve-lua-chon-nha-dau-tu-du-an-nganh-linh-vuc-598980.aspx
   base_impact_score: 9.4
   tier_override: 1
+  status: ingested
 - id: LUAT-47-2024-QH15
   document_number: 47/2024/QH15
   title: Luật Quy hoạch đô thị và nông thôn 2024

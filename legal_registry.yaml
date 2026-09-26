@@ -2046,4 +2046,36 @@ decrees:
       sha256: 87e3dbb7985a3aaa806a1b97b6e36c8edecf48e6e4503cc0c6a13a8f1e366f34
       vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_85_2020_nd_cp/nghi_dinh_85_2020_nd_cp.docx
       status: verified
+- id: nghi_dinh_23_2024_nd_cp
+  document_number: 23/2024/NĐ-CP
+  title: Nghị định số 23/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi
+    hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc ngành, lĩnh vực quản lý
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Phó Thủ tướng Trần Hồng Hà
+  issued_date: '2024-02-27'
+  effective_date: '2024-02-27'
+  status: active
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_23_2024_nd_cp/
+  source_url: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-23-2024-nd-cp-41429/49206.htm
+  relations:
+    guided_by: luat_dau_thau_2023_22_2023_qh15
+    replaces: 25/2020/NĐ-CP
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_23_2024_nd_cp/sources/nghi_dinh_23_2024_nd_cp.pdf
+  pdf_sha256: d22742cd3391b4b37a135989453aa7ca176fce439297362253a86c54e86ecd86
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 411+412/2024
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_23_2024_nd_cp/sources/nghi_dinh_23_2024_nd_cp.docx
+  source_assets:
+    pdf:
+      sha256: d22742cd3391b4b37a135989453aa7ca176fce439297362253a86c54e86ecd86
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_23_2024_nd_cp/nghi_dinh_23_2024_nd_cp.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: b1a1ba2e778c1a453b1684d2b668eedc4045f34174c8bd1f819974a8d86b2e93
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_23_2024_nd_cp/nghi_dinh_23_2024_nd_cp.docx
+      status: verified
+
 
