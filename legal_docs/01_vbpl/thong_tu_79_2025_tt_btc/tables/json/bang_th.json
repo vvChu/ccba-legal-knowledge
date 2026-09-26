@@ -1,0 +1,99 @@
+{
+  "table_id": "bang_th",
+  "title": "Bảng thống kê kết quả thực hiện công tác đấu thầu",
+  "rows_count": 10,
+  "columns_count": 7,
+  "headers": [
+    "Nội dung thống kêNội dung thống kêNội dung thống kê",
+    "Tổng sốTổng sốTổng số",
+    "Hàng hóaHàng hóaHàng hóa",
+    "Xây lắpXây lắpXây lắp",
+    "Phi tư vấnPhi Phi ttư vấnư vấn",
+    "Tư vấnTư vấnTư vấn",
+    "Hỗn hợpHỗn hợpHỗn hợp"
+  ],
+  "records": [
+    {
+      "Nội dung thống kêNội dung thống kêNội dung thống kê": "Tổng số gói thầuTổng số gói thầuTổng số gói thầu",
+      "Tổng sốTổng sốTổng số": "",
+      "Hàng hóaHàng hóaHàng hóa": "",
+      "Xây lắpXây lắpXây lắp": "",
+      "Phi tư vấnPhi Phi ttư vấnư vấn": "",
+      "Tư vấnTư vấnTư vấn": "",
+      "Hỗn hợpHỗn hợpHỗn hợp": ""
+    },
+    {
+      "Nội dung thống kêNội dung thống kêNội dung thống kê": "Tổng số gói thầu đã có kết quả lựa chọn nhà thầuTổng số gói thầu đã có kết quả lựa chọn nhà thầuTổng số gói thầu đã có kết quả lựa chọn nhà thầu",
+      "Tổng sốTổng sốTổng số": "",
+      "Hàng hóaHàng hóaHàng hóa": "",
+      "Xây lắpXây lắpXây lắp": "",
+      "Phi tư vấnPhi Phi ttư vấnư vấn": "",
+      "Tư vấnTư vấnTư vấn": "",
+      "Hỗn hợpHỗn hợpHỗn hợp": ""
+    },
+    {
+      "Nội dung thống kêNội dung thống kêNội dung thống kê": "Tỷ lệ tiết kiệm trung bìnhTỷ lệ tiết kiệm trung bìnhTỷ lệ tiết kiệm trung bình",
+      "Tổng sốTổng sốTổng số": "",
+      "Hàng hóaHàng hóaHàng hóa": "",
+      "Xây lắpXây lắpXây lắp": "",
+      "Phi tư vấnPhi Phi ttư vấnư vấn": "",
+      "Tư vấnTư vấnTư vấn": "",
+      "Hỗn hợpHỗn hợpHỗn hợp": ""
+    },
+    {
+      "Nội dung thống kêNội dung thống kêNội dung thống kê": "Số lượng nhà thầu trung bình tham gia đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, chào giá trực tuyến theo quy trình thông thườngSố lượng nhà thầu trung bình tham gia đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, Số lượng nhà thầu trung bình tham gia đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, chào giá trực tuyến theo chào giá trực tuyến theo quy trình thông thườngquy trình thông thường",
+      "Tổng sốTổng sốTổng số": "",
+      "Hàng hóaHàng hóaHàng hóa": "",
+      "Xây lắpXây lắpXây lắp": "",
+      "Phi tư vấnPhi Phi ttư vấnư vấn": "",
+      "Tư vấnTư vấnTư vấn": "",
+      "Hỗn hợpHỗn hợpHỗn hợp": ""
+    },
+    {
+      "Nội dung thống kêNội dung thống kêNội dung thống kê": "Tỷ lệ gói thầu đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, chào giá trực tuyến theo quy trình thông thường chỉ có 01 nhà thầu tham dự trên tổng số gói thầuTỷ lệ gói thầu đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, Tỷ lệ gói thầu đấu thầu rộng rãi, đấu thầu hạn chế, chào hàng cạnh tranh, chào giá trực tuyến theo chào giá trực tuyến theo quy trình thông thườngquy trình thông thường chỉ có 01 nhà thầu tham dự trên tổng số gói thầu chỉ có 01 nhà thầu tham dự trên tổng số gói thầu",
+      "Tổng sốTổng sốTổng số": "",
+      "Hàng hóaHàng hóaHàng hóa": "",
+      "Xây lắpXây lắpXây lắp": "",
+      "Phi tư vấnPhi Phi ttư vấnư vấn": "",
+      "Tư vấnTư vấnTư vấn": "",
+      "Hỗn hợpHỗn hợpHỗn hợp": ""
+    },
+    {
+      "Nội dung thống kêNội dung thống kêNội dung thống kê": "Tỷ lệ gói thầu có kiến nghị về hồ sơ mời thầuTỷ lệ gói thầu có kiến nghị về hồ sơ mời thầuTỷ lệ gói thầu có kiến nghị về hồ sơ mời thầu",
+      "Tổng sốTổng sốTổng số": "",
+      "Hàng hóaHàng hóaHàng hóa": "",
+      "Xây lắpXây lắpXây lắp": "",
+      "Phi tư vấnPhi Phi ttư vấnư vấn": "",
+      "Tư vấnTư vấnTư vấn": "",
+      "Hỗn hợpHỗn hợpHỗn hợp": ""
+    },
+    {
+      "Nội dung thống kêNội dung thống kêNội dung thống kê": "Tỷ lệ gói thầu có kiến nghị về các nội dung khác trong quá trình tổ chức lựa chọn nhà thầu, kết quả lựa chọn nhà thầuTỷ lệ gói thầu có kiến nghị về các nội dung khác trong quá trình tổ chức lựa chọn nhà thầu, kết quả lựa chọn nhà thầuTỷ lệ gói thầu có kiến nghị về các nội dung khác trong quá trình tổ chức lựa chọn nhà thầu, kết quả lựa chọn nhà thầu",
+      "Tổng sốTổng sốTổng số": "",
+      "Hàng hóaHàng hóaHàng hóa": "",
+      "Xây lắpXây lắpXây lắp": "",
+      "Phi tư vấnPhi Phi ttư vấnư vấn": "",
+      "Tư vấnTư vấnTư vấn": "",
+      "Hỗn hợpHỗn hợpHỗn hợp": ""
+    },
+    {
+      "Nội dung thống kêNội dung thống kêNội dung thống kê": "Số lần không trả lời yêu cầu làm rõ hồ sơ mời thầuSố lần không trả lời yêu cầu làm rõ hồ sơ mời thầuSố lần không trả lời yêu cầu làm rõ hồ sơ mời thầu",
+      "Tổng sốTổng sốTổng số": "",
+      "Hàng hóaHàng hóaHàng hóa": "",
+      "Xây lắpXây lắpXây lắp": "",
+      "Phi tư vấnPhi Phi ttư vấnư vấn": "",
+      "Tư vấnTư vấnTư vấn": "",
+      "Hỗn hợpHỗn hợpHỗn hợp": ""
+    },
+    {
+      "Nội dung thống kêNội dung thống kêNội dung thống kê": "Số lần không trả lời kiến nghị về hồ sơ mời thầu, các nội dung khác trong quá trình tổ chức lựa chọn nhà thầu và kết quả lựa chọn nhà thầuSố lần không trả lời kiến nghị về hồ sơ mời thầu, các nội dung khác trong quá trình tổ chức lựa chọn nhà thầu và kết quả lựa chọn nhà thầuSố lần không trả lời kiến nghị về hồ sơ mời thầu, các nội dung khác trong quá trình tổ chức lựa chọn nhà thầu và kết quả lựa chọn nhà thầu",
+      "Tổng sốTổng sốTổng số": "",
+      "Hàng hóaHàng hóaHàng hóa": "",
+      "Xây lắpXây lắpXây lắp": "",
+      "Phi tư vấnPhi Phi ttư vấnư vấn": "",
+      "Tư vấnTư vấnTư vấn": "",
+      "Hỗn hợpHỗn hợpHỗn hợp": ""
+    }
+  ],
+  "footnotes": []
+}

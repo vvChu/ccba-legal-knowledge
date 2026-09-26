@@ -1,0 +1,69 @@
+{
+  "table_id": "bang_12",
+  "title": "Bảng 12",
+  "rows_count": 4,
+  "columns_count": 13,
+  "headers": [
+    "SttSttStt",
+    "Tên chủ đầuTên chủ đầuTên chủ đầutưtưtư",
+    "Tên gói thầuTên gói thầuTên gói thầu",
+    "Tên gói thầuTên gói thầuTên gói thầu — Tóm tắt công việc chính của gói thầuTóm tắt công việc chính của gói thầuTóm tắt công việc chính của gói thầu",
+    "Giá gói thầuGiá gói thầuGiá gói thầu",
+    "Nguồn vốnNguồn vốnNguồn vốn",
+    "Hình  thức lựa chọn nhà thầuHình  thức lựa chọn nhà thầuHình  thức lựa chọn nhà thầu",
+    "Phương thức lựa chọn nhà thầuPhương thức lựa chọn nhà thầuPhương thức lựa chọn nhà thầu",
+    "Thời gian tổ chức lựa chọn nhà thầuThời gian tổ chức lựa chọn nhà thầuThời gian tổ chức lựa chọn nhà thầu",
+    "Thời gian bắt đầu   tổ chức lựa chọn nhà thầuThời gian bắt đầu   tổ chức lựa chọn nhà thầuThời gian bắt đầu   tổ chức lựa chọn nhà thầu",
+    "Loại hợp đồngLoại hợp đồngLoại hợp đồng",
+    "Thời gian thực hiện gói thầuThời gian thực hiện gói thầuThời gian thực hiện gói thầu",
+    "Tùy chọn mua thêmTùy chọn mua thêmTùy chọn mua thêm"
+  ],
+  "records": [
+    {
+      "SttSttStt": "111",
+      "Tên chủ đầuTên chủ đầuTên chủ đầutưtưtư": "",
+      "Tên gói thầuTên gói thầuTên gói thầu": "",
+      "Tên gói thầuTên gói thầuTên gói thầu — Tóm tắt công việc chính của gói thầuTóm tắt công việc chính của gói thầuTóm tắt công việc chính của gói thầu": "",
+      "Giá gói thầuGiá gói thầuGiá gói thầu": "",
+      "Nguồn vốnNguồn vốnNguồn vốn": "",
+      "Hình  thức lựa chọn nhà thầuHình  thức lựa chọn nhà thầuHình  thức lựa chọn nhà thầu": "",
+      "Phương thức lựa chọn nhà thầuPhương thức lựa chọn nhà thầuPhương thức lựa chọn nhà thầu": "",
+      "Thời gian tổ chức lựa chọn nhà thầuThời gian tổ chức lựa chọn nhà thầuThời gian tổ chức lựa chọn nhà thầu": "",
+      "Thời gian bắt đầu   tổ chức lựa chọn nhà thầuThời gian bắt đầu   tổ chức lựa chọn nhà thầuThời gian bắt đầu   tổ chức lựa chọn nhà thầu": "",
+      "Loại hợp đồngLoại hợp đồngLoại hợp đồng": "",
+      "Thời gian thực hiện gói thầuThời gian thực hiện gói thầuThời gian thực hiện gói thầu": "",
+      "Tùy chọn mua thêmTùy chọn mua thêmTùy chọn mua thêm": ""
+    },
+    {
+      "SttSttStt": "222",
+      "Tên chủ đầuTên chủ đầuTên chủ đầutưtưtư": "",
+      "Tên gói thầuTên gói thầuTên gói thầu": "",
+      "Tên gói thầuTên gói thầuTên gói thầu — Tóm tắt công việc chính của gói thầuTóm tắt công việc chính của gói thầuTóm tắt công việc chính của gói thầu": "",
+      "Giá gói thầuGiá gói thầuGiá gói thầu": "",
+      "Nguồn vốnNguồn vốnNguồn vốn": "",
+      "Hình  thức lựa chọn nhà thầuHình  thức lựa chọn nhà thầuHình  thức lựa chọn nhà thầu": "",
+      "Phương thức lựa chọn nhà thầuPhương thức lựa chọn nhà thầuPhương thức lựa chọn nhà thầu": "",
+      "Thời gian tổ chức lựa chọn nhà thầuThời gian tổ chức lựa chọn nhà thầuThời gian tổ chức lựa chọn nhà thầu": "",
+      "Thời gian bắt đầu   tổ chức lựa chọn nhà thầuThời gian bắt đầu   tổ chức lựa chọn nhà thầuThời gian bắt đầu   tổ chức lựa chọn nhà thầu": "",
+      "Loại hợp đồngLoại hợp đồngLoại hợp đồng": "",
+      "Thời gian thực hiện gói thầuThời gian thực hiện gói thầuThời gian thực hiện gói thầu": "",
+      "Tùy chọn mua thêmTùy chọn mua thêmTùy chọn mua thêm": ""
+    },
+    {
+      "SttSttStt": "Tổng giá gói thầuTổng giá gói thầuTổng giá gói thầu",
+      "Tên chủ đầuTên chủ đầuTên chủ đầutưtưtư": "Tổng giá gói thầuTổng giá gói thầuTổng giá gói thầu",
+      "Tên gói thầuTên gói thầuTên gói thầu": "Tổng giá gói thầuTổng giá gói thầuTổng giá gói thầu",
+      "Tên gói thầuTên gói thầuTên gói thầu — Tóm tắt công việc chính của gói thầuTóm tắt công việc chính của gói thầuTóm tắt công việc chính của gói thầu": "Tổng giá gói thầuTổng giá gói thầuTổng giá gói thầu",
+      "Giá gói thầuGiá gói thầuGiá gói thầu": "",
+      "Nguồn vốnNguồn vốnNguồn vốn": "",
+      "Hình  thức lựa chọn nhà thầuHình  thức lựa chọn nhà thầuHình  thức lựa chọn nhà thầu": "",
+      "Phương thức lựa chọn nhà thầuPhương thức lựa chọn nhà thầuPhương thức lựa chọn nhà thầu": "",
+      "Thời gian tổ chức lựa chọn nhà thầuThời gian tổ chức lựa chọn nhà thầuThời gian tổ chức lựa chọn nhà thầu": "",
+      "Thời gian bắt đầu   tổ chức lựa chọn nhà thầuThời gian bắt đầu   tổ chức lựa chọn nhà thầuThời gian bắt đầu   tổ chức lựa chọn nhà thầu": "",
+      "Loại hợp đồngLoại hợp đồngLoại hợp đồng": "",
+      "Thời gian thực hiện gói thầuThời gian thực hiện gói thầuThời gian thực hiện gói thầu": "",
+      "Tùy chọn mua thêmTùy chọn mua thêmTùy chọn mua thêm": ""
+    }
+  ],
+  "footnotes": []
+}

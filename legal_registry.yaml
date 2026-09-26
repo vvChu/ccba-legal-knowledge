@@ -2,14 +2,44 @@ version: 0.3.0
 updated_at: '2026-09-22T08:07:26.716436+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 60
+  total_documents: 61
   categories:
-    01_vbpl: 27
+    01_vbpl: 28
     02_qcvn: 12
     03_tcvn: 18
     04_appendices: 3
 documents: {}
 laws:
+- id: TT-79-2025-TT-BTC
+  document_number: 79/2025/TT-BTC
+  type: Thông tư
+  issued_by: Bộ Tài chính
+  signer: Nguyễn Đức Tâm
+  issued_date: '2025-08-04'
+  effective_date: '2025-08-04'
+  published_date: '2025-08-04'
+  status: active
+  relations:
+    replaces: 22/2024/TT-BKHĐT
+  title: Thông tư 79/2025/TT-BTC hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu và các mẫu hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia
+  bundle_path: legal_docs/01_vbpl/thong_tu_79_2025_tt_btc/
+  source_url: https://congbao.chinhphu.vn/van-ban/thong-tu-so-79-2025-tt-btc-45913.htm
+  sha256: b54d46c92d116d88deff8ea2ff6105d52a1c4c5e88886036d2f28910d64d3fa9
+  pdf_path: legal_docs/01_vbpl/thong_tu_79_2025_tt_btc/sources/thong_tu_79_2025_tt_btc.pdf
+  pdf_sha256: 0c13a7f6c2029a5a5ce2ede3851616aa3b290d3a0618fe15a6c96d0f2690c35a
+  cong_bao_number: 1127+1128/2025
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/thong_tu_79_2025_tt_btc/sources/thong_tu_79_2025_tt_btc.docx
+  source_assets:
+    pdf:
+      sha256: 0c13a7f6c2029a5a5ce2ede3851616aa3b290d3a0618fe15a6c96d0f2690c35a
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_79_2025_tt_btc/thong_tu_79_2025_tt_btc.pdf
+      status: verified
+      origin: official_gazette_pdf
+    docx:
+      sha256: b54d46c92d116d88deff8ea2ff6105d52a1c4c5e88886036d2f28910d64d3fa9
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_79_2025_tt_btc/thong_tu_79_2025_tt_btc.docx
+      status: verified
 - id: Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347
   document_number: 55/2024/QH15
   type: Luật

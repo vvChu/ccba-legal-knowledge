@@ -1,0 +1,127 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 12,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "title": "Bảng 01",
+      "rows": 3,
+      "cols": 3,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_01.csv",
+      "json": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_th",
+      "title": "Bảng thống kê kết quả thực hiện công tác đấu thầu",
+      "rows": 10,
+      "cols": 7,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_th.csv",
+      "json": "tables/json/bang_th.json"
+    },
+    {
+      "table_id": "bang_03",
+      "title": "Bảng 03",
+      "rows": 6,
+      "cols": 3,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_03.csv",
+      "json": "tables/json/bang_03.json"
+    },
+    {
+      "table_id": "bang_s",
+      "title": "Bảng số 1",
+      "rows": 5,
+      "cols": 5,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_s.csv",
+      "json": "tables/json/bang_s.json"
+    },
+    {
+      "table_id": "bang_s",
+      "title": "Bảng số 2",
+      "rows": 5,
+      "cols": 4,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_s.csv",
+      "json": "tables/json/bang_s.json"
+    },
+    {
+      "table_id": "bang_s",
+      "title": "Bảng số 3",
+      "rows": 4,
+      "cols": 13,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_s.csv",
+      "json": "tables/json/bang_s.json"
+    },
+    {
+      "table_id": "bang_s",
+      "title": "Bảng số 4",
+      "rows": 6,
+      "cols": 3,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_s.csv",
+      "json": "tables/json/bang_s.json"
+    },
+    {
+      "table_id": "bang_s",
+      "title": "Bảng số 5",
+      "rows": 7,
+      "cols": 3,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_s.csv",
+      "json": "tables/json/bang_s.json"
+    },
+    {
+      "table_id": "bang_11",
+      "title": "Bảng 11",
+      "rows": 11,
+      "cols": 3,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_11.csv",
+      "json": "tables/json/bang_11.json"
+    },
+    {
+      "table_id": "bang_12",
+      "title": "Bảng 12",
+      "rows": 4,
+      "cols": 13,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_12.csv",
+      "json": "tables/json/bang_12.json"
+    },
+    {
+      "table_id": "bang_13",
+      "title": "Bảng 13",
+      "rows": 5,
+      "cols": 2,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_13.csv",
+      "json": "tables/json/bang_13.json"
+    },
+    {
+      "table_id": "bang_14",
+      "title": "Bảng 14",
+      "rows": 30,
+      "cols": 2,
+      "footnotes_count": 0,
+      "footnotes": [],
+      "csv": "tables/csv/bang_14.csv",
+      "json": "tables/json/bang_14.json"
+    }
+  ]
+}

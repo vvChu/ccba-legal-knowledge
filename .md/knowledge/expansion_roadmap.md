@@ -4,7 +4,7 @@
 > [!NOTE]
 > **Đây là Tài Liệu Sống (Living Document) tự động cập nhật.**  
 > Được đồng bộ tự động bởi `scripts/sync_expansion_roadmap.py` mỗi khi có văn bản mới được nạp vào Spoke hoặc khi chạy Master CI Gate.  
-> **Lần cập nhật cuối:** `2026-09-26 15:54:18` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
+> **Lần cập nhật cuối:** `2026-09-26 20:31:06` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
 
 ---
 
@@ -12,8 +12,8 @@
 
 | Chỉ số theo dõi | Số lượng | Tỷ lệ hoàn thành | Trạng thái hệ thống |
 |:---|:---:|:---:|:---:|
-| **Hiện có trong Spoke (Active Bundles)** | **60** | **66.7%** | 🟢 Sẵn sàng phục vụ Agent |
-| **Ứng viên Đang Chờ Nạp (Pending Target)** | **30** | **33.3%** | 🟡 Trong lộ trình ưu tiên |
+| **Hiện có trong Spoke (Active Bundles)** | **61** | **67.8%** | 🟢 Sẵn sàng phục vụ Agent |
+| **Ứng viên Đang Chờ Nạp (Pending Target)** | **29** | **32.2%** | 🟡 Trong lộ trình ưu tiên |
 | **Tổng quy mô mục tiêu giai đoạn 1** | **90** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
 
 ---
@@ -22,17 +22,16 @@
 
 ```mermaid
 graph TD
-    subgraph T1["🔴 TIER 1: THỂ CHẾ CỐT LÕI, ĐẤU THẦU & AN TOÀN (10 Văn bản)"]
+    subgraph T1["🔴 TIER 1: THỂ CHẾ CỐT LÕI, ĐẤU THẦU & AN TOÀN (9 Văn bản)"]
         T1_1["40/2019/QH14<br/>(Kiến trúc - Điểm: 10.1)"]
         T1_2["QCVN 16:2023/BXD<br/>(Vật liệu XD - Điểm: 9.9)"]
         T1_3["QCVN 18:2021/BXD<br/>(An toàn thi công - Điểm: 9.8)"]
         T1_4["47/2024/QH15<br/>(Quy hoạch đô thị - Điểm: 9.8)"]
         T1_5["115/2024/NĐ-CP<br/>(Đấu thầu - Điểm: 9.7)"]
         T1_6["85/2020/NĐ-CP<br/>(Kiến trúc - Điểm: 9.7)"]
-        T1_7["79/2025/TT-BTC<br/>(Đấu thầu - Điểm: 9.6)"]
-        T1_8["27/2023/QH15<br/>(Pháp chế Nhà ở - Điểm: 9.6)"]
-        T1_9["31/2024/QH15<br/>(Pháp lý Đất đai - Điểm: 9.5)"]
-        T1_10["23/2024/NĐ-CP<br/>(Đấu thầu - Điểm: 9.4)"]
+        T1_7["27/2023/QH15<br/>(Pháp chế Nhà ở - Điểm: 9.6)"]
+        T1_8["31/2024/QH15<br/>(Pháp lý Đất đai - Điểm: 9.5)"]
+        T1_9["23/2024/NĐ-CP<br/>(Đấu thầu - Điểm: 9.4)"]
     end
 
     subgraph T2["🟠 TIER 2: THIẾT KẾ CÔNG TRÌNH & MẪU ĐẤU THẦU (8 Văn bản)"]
@@ -83,10 +82,9 @@ graph TD
 | 4 | **[47/2024/QH15](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Quy-hoach-do-thi-va-nong-thon-2024-so-47-2024-QH15-618956.aspx)** | Luật Quy hoạch đô thị và nông thôn 2024 | Quy hoạch đô thị | 16 | **9.8** | `python -m ccba_legal ingest "47/2024/QH15" --category 01_vbpl --upload-drive` |
 | 5 | **[115/2024/NĐ-CP](https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-115-2024-ND-CP-thi-hanh-Luat-Dau-thau-ve-lua-chon-nha-dau-tu-thuc-hien-du-an-dat-619472.aspx)** | Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất | Đấu thầu | 0 | **9.7** | `python -m ccba_legal ingest "115/2024/NĐ-CP" --category 01_vbpl --upload-drive` |
 | 6 | **[85/2020/NĐ-CP](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-85-2020-ND-CP-huong-dan-Luat-Kien-truc-447545.aspx)** | Nghị định quy định chi tiết một số điều của Luật Kiến trúc | Kiến trúc | 1 | **9.7** | `python -m ccba_legal ingest "85/2020/NĐ-CP" --category 01_vbpl --upload-drive` |
-| 7 | **[79/2025/TT-BTC](https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-79-2025-TT-BTC-dang-tai-thong-tin-dau-thau-mau-ho-so-dau-thau-tren-mang-648501.aspx)** | Thông tư hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu và các mẫu hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia | Đấu thầu | 0 | **9.6** | `python -m ccba_legal ingest "79/2025/TT-BTC" --category 01_vbpl --upload-drive` |
-| 8 | **[27/2023/QH15](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-2023-so-27-2023-QH15-560645.aspx)** | Luật Nhà ở 2023 | Pháp chế Nhà ở | 0 | **9.6** | `python -m ccba_legal ingest "27/2023/QH15" --category 01_vbpl --upload-drive` |
-| 9 | **[31/2024/QH15](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Dat-dai-2024-so-31-2024-QH15-538058.aspx)** | Luật Đất đai 2024 | Pháp lý Đất đai | 0 | **9.5** | `python -m ccba_legal ingest "31/2024/QH15" --category 01_vbpl --upload-drive` |
-| 10 | **[23/2024/NĐ-CP](https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-23-2024-ND-CP-thi-hanh-Luat-Dau-thau-ve-lua-chon-nha-dau-tu-du-an-nganh-linh-vuc-598980.aspx)** | Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc ngành, lĩnh vực quản lý | Đấu thầu | 0 | **9.4** | `python -m ccba_legal ingest "23/2024/NĐ-CP" --category 01_vbpl --upload-drive` |
+| 7 | **[27/2023/QH15](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-2023-so-27-2023-QH15-560645.aspx)** | Luật Nhà ở 2023 | Pháp chế Nhà ở | 0 | **9.6** | `python -m ccba_legal ingest "27/2023/QH15" --category 01_vbpl --upload-drive` |
+| 8 | **[31/2024/QH15](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Dat-dai-2024-so-31-2024-QH15-538058.aspx)** | Luật Đất đai 2024 | Pháp lý Đất đai | 0 | **9.5** | `python -m ccba_legal ingest "31/2024/QH15" --category 01_vbpl --upload-drive` |
+| 9 | **[23/2024/NĐ-CP](https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-23-2024-ND-CP-thi-hanh-Luat-Dau-thau-ve-lua-chon-nha-dau-tu-du-an-nganh-linh-vuc-598980.aspx)** | Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc ngành, lĩnh vực quản lý | Đấu thầu | 0 | **9.4** | `python -m ccba_legal ingest "23/2024/NĐ-CP" --category 01_vbpl --upload-drive` |
 
 ### 🟠 TIER 2: Thiết Kế Công Trình & Mẫu Hồ Sơ Đấu Thầu
 
@@ -147,6 +145,7 @@ graph TD
 | **TCVN 3981:1985** | Trường đại học — Tiêu chuẩn thiết kế | Kiến trúc | 1985-01-01 | 🟢 `INGESTED` |
 | **TCVN ISO 19650-1:2021** | Tổ chức và số hóa thông tin về công trình xây dựng, bao gồm mô hình thông tin công trình (BIM) — Quản lý thông tin bằng BIM: Phần 1: Khái niệm và nguyên tắc | Quản trị BIM | 2021-12-31 | 🟢 `INGESTED` |
 | **TCVN ISO 19650-2:2021** | Tổ chức và số hóa thông tin về công trình xây dựng, bao gồm BIM — Quản lý thông tin bằng BIM: Phần 2: Giai đoạn chuyển giao tài sản | Quản trị BIM | 2021-12-31 | 🟢 `INGESTED` |
+| **79/2025/TT-BTC** | Thông tư hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu và các mẫu hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia | Đấu thầu | 2025-08-04 | 🟢 `INGESTED` |
 
 ---
 
