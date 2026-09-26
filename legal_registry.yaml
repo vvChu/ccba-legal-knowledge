@@ -2,9 +2,9 @@ version: 0.3.0
 updated_at: '2026-09-22T08:07:26.716436+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 61
+  total_documents: 62
   categories:
-    01_vbpl: 28
+    01_vbpl: 29
     02_qcvn: 12
     03_tcvn: 18
     04_appendices: 3
@@ -21,7 +21,8 @@ laws:
   status: active
   relations:
     replaces: 22/2024/TT-BKHĐT
-  title: Thông tư 79/2025/TT-BTC hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu và các mẫu hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia
+  title: Thông tư 79/2025/TT-BTC hướng dẫn việc cung cấp, đăng tải thông tin về đấu
+    thầu và các mẫu hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia
   bundle_path: legal_docs/01_vbpl/thong_tu_79_2025_tt_btc/
   source_url: https://congbao.chinhphu.vn/van-ban/thong-tu-so-79-2025-tt-btc-45913.htm
   sha256: b54d46c92d116d88deff8ea2ff6105d52a1c4c5e88886036d2f28910d64d3fa9
@@ -405,12 +406,13 @@ laws:
   issued_by: Chính phủ
   issued_date: '2024-02-27'
   effective_date: '2024-02-27'
-  status: active
+  status: expired
   bundle_path: legal_docs/01_vbpl/nghi_dinh_24_2024_nd_cp/
   source_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-24-2024-ND-CP-huong-dan-Luat-Dau-thau-ve-lua-chon-nha-thau-578020.aspx
   relations:
     guided_by: Luat-Dau-thau-2023-22-2023-QH15
     replaces: 63/2014/NĐ-CP
+    replaced_by: 214/2025/NĐ-CP
   pdf_path: legal_docs/01_vbpl/nghi_dinh_24_2024_nd_cp/sources/nghi_dinh_24_2024_nd_cp.pdf
   pdf_sha256: 0ddc02e55b53db8fec465ea3acdf35e0ede867d29f0a604f5ac5052ea77157c2
   cong_bao_number: Đang cập nhật
@@ -1918,3 +1920,36 @@ standards:
   extracted_at: '2026-09-19T12:15:30.000000+00:00'
   pdf_origin: docx_vector_rendered
   raw_scan_pdf: legal_docs/03_tcvn/tcvn_iso_19650_2_2021/sources/tcvn_iso_19650_2_2021_raw_scan.pdf
+decrees:
+- id: nghi_dinh_214_2025_nd_cp
+  document_number: 214/2025/NĐ-CP
+  title: Nghị định số 214/2025/NĐ-CP quy định chi tiết một số điều và biện pháp thi
+    hành Luật Đấu thầu về lựa chọn nhà thầu
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Phó Thủ tướng Trần Hồng Hà
+  issued_date: '2025-08-04'
+  effective_date: '2025-08-04'
+  status: active
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_214_2025_nd_cp/
+  source_url: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-214-2025-nd-cp-45774.htm
+  relations:
+    guided_by: luat_dau_thau_2023_22_2023_qh15
+    replaces: 24/2024/NĐ-CP
+    amended_by: 349/2026/NĐ-CP
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_214_2025_nd_cp/sources/nghi_dinh_214_2025_nd_cp.pdf
+  pdf_sha256: dd30ec23ec4fc4a53a08b78a7f1f7268b4e73e0d469ad1eb62c74f3a24a9dc56
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 1063-1068/2025
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_214_2025_nd_cp/sources/nghi_dinh_214_2025_nd_cp.docx
+  source_assets:
+    pdf:
+      sha256: dd30ec23ec4fc4a53a08b78a7f1f7268b4e73e0d469ad1eb62c74f3a24a9dc56
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_214_2025_nd_cp/nghi_dinh_214_2025_nd_cp.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: 6001565125a01385a5d5eb14a83143a6da08db1e2375c4e5dd04d0784f20d0a0
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_214_2025_nd_cp/nghi_dinh_214_2025_nd_cp.docx
+      status: verified

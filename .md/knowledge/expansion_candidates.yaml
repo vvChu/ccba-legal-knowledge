@@ -319,6 +319,7 @@ candidates:
   tvpl_url: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-214-2025-nd-cp-45812.htm
   base_impact_score: 9.8
   tier_override: 1
+  status: ingested
 - id: TT-79-2025-TT-BTC
   document_number: 79/2025/TT-BTC
   title: Thông tư hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu và các mẫu

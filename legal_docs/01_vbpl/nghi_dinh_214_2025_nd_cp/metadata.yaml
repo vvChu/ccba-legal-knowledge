@@ -1,0 +1,40 @@
+id: nghi_dinh_214_2025_nd_cp
+document_number: 214/2025/NĐ-CP
+title: Nghị định số 214/2025/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu
+type: Nghị định
+issued_by: Chính phủ
+signer: Phó Thủ tướng Trần Hồng Hà
+issued_date: '2025-08-04'
+effective_date: '2025-08-04'
+status: active
+pdf_path: legal_docs/01_vbpl/nghi_dinh_214_2025_nd_cp/sources/nghi_dinh_214_2025_nd_cp.pdf
+pdf_sha256: dd30ec23ec4fc4a53a08b78a7f1f7268b4e73e0d469ad1eb62c74f3a24a9dc56
+pdf_status: verified
+bundle_path: legal_docs/01_vbpl/nghi_dinh_214_2025_nd_cp/
+cong_bao_number: 1063-1068/2025
+source_assets:
+  pdf:
+    sha256: dd30ec23ec4fc4a53a08b78a7f1f7268b4e73e0d469ad1eb62c74f3a24a9dc56
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_214_2025_nd_cp/nghi_dinh_214_2025_nd_cp.pdf
+    status: verified
+    origin: official_gazette_vector
+  docx:
+    sha256: 6001565125a01385a5d5eb14a83143a6da08db1e2375c4e5dd04d0784f20d0a0
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_214_2025_nd_cp/nghi_dinh_214_2025_nd_cp.docx
+    status: verified
+legal_basis:
+- doc_id: luật_tổ_chức_chính_phủ_số_63_2025_qh15
+  title: Luật Tổ chức Chính phủ số 63/2025/QH15
+- doc_id: luật_tổ_chức_chính_quyền_địa_phương_số_72_2025_qh15
+  title: Luật Tổ chức chính quyền địa phương số 72/2025/QH15
+- doc_id: luat_dau_thau_2023_22_2023_qh15
+  title: Luật Đấu thầu số 22/2023/QH15 được sửa đổi, bổ sung bởi Luật số 57/2024/QH15, Luật số 90/2025/QH15
+replaces: 24/2024/NĐ-CP
+relations:
+  guided_by: luat_dau_thau_2023_22_2023_qh15
+  replaces: 24/2024/NĐ-CP
+  amended_by: 349/2026/NĐ-CP
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-26T14:12:11.800992+00:00'
+pdf_origin: official_gazette_vector
