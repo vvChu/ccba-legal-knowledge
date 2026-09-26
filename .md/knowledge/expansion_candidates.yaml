@@ -399,6 +399,7 @@ candidates:
   tvpl_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-98-2025-TT-BTC-mau-ho-so-dau-thau-lua-chon-nha-dau-tu-ppp-du-an-dat-658210.aspx
   base_impact_score: 9.2
   tier_override: 2
+  status: ingested
 - id: TCVN-13967-2024
   document_number: TCVN 13967:2024
   title: Nhà ở riêng lẻ — Yêu cầu chung về thiết kế
