@@ -388,6 +388,7 @@ candidates:
   tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Quy-hoach-do-thi-va-nong-thon-2024-so-47-2024-QH15-618956.aspx
   base_impact_score: 9.3
   tier_override: 1
+  status: ingested
 - id: TT-98-2025-TT-BTC
   document_number: 98/2025/TT-BTC
   title: Thông tư hướng dẫn mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư thực hiện dự án

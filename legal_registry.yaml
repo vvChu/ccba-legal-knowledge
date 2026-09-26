@@ -2171,6 +2171,36 @@ decrees:
       sha256: 78a73866ed86296817a81fd6e7dbd3615453386f351a70fd932f18d995c2666f
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_98_2025_tt_btc/thong_tu_98_2025_tt_btc.docx
       status: verified
+- id: luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15
+  document_number: 47/2024/QH15
+  title: Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15
+  type: Luật
+  issued_by: Quốc hội
+  signer: Trần Thanh Mẫn
+  issued_date: '2024-11-26'
+  effective_date: '2025-07-01'
+  status: active
+  bundle_path: legal_docs/01_vbpl/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Quy-hoach-do-thi-va-nong-thon-2024-so-47-2024-QH15-618956.aspx
+  relations:
+    replaces: 30/2009/QH12
+  replaces: Luật Quy hoạch đô thị 30/2009/QH12
+  pdf_path: legal_docs/01_vbpl/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15/sources/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15.pdf
+  pdf_sha256: 15706e80c1dcb2429338f0bffdc248bb0abebd28e9df7c980efc8f55eaab91a1
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 1529+1530/2024
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15/sources/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15.docx
+  source_assets:
+    pdf:
+      sha256: 15706e80c1dcb2429338f0bffdc248bb0abebd28e9df7c980efc8f55eaab91a1
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: a58cc2bdd323cb287bce5967ae3c0a452679a8fb29a9347cf2dd7bd4ef052bd6
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15.docx
+      status: verified
 
 
 

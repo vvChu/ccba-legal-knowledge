@@ -4,7 +4,7 @@
 > [!NOTE]
 > **Đây là Tài Liệu Sống (Living Document) tự động cập nhật.**  
 > Được đồng bộ tự động bởi `scripts/sync_expansion_roadmap.py` mỗi khi có văn bản mới được nạp vào Spoke hoặc khi chạy Master CI Gate.  
-> **Lần cập nhật cuối:** `2026-09-26 22:03:20` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
+> **Lần cập nhật cuối:** `2026-09-26 22:10:48` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
 
 ---
 
@@ -12,9 +12,9 @@
 
 | Chỉ số theo dõi | Số lượng | Tỷ lệ hoàn thành | Trạng thái hệ thống |
 |:---|:---:|:---:|:---:|
-| **Hiện có trong Spoke (Active Bundles)** | **63** | **74.1%** | 🟢 Sẵn sàng phục vụ Agent |
-| **Ứng viên Đang Chờ Nạp (Pending Target)** | **22** | **25.9%** | 🟡 Trong lộ trình ưu tiên |
-| **Tổng quy mô mục tiêu giai đoạn 1** | **85** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
+| **Hiện có trong Spoke (Active Bundles)** | **63** | **75.0%** | 🟢 Sẵn sàng phục vụ Agent |
+| **Ứng viên Đang Chờ Nạp (Pending Target)** | **21** | **25.0%** | 🟡 Trong lộ trình ưu tiên |
+| **Tổng quy mô mục tiêu giai đoạn 1** | **84** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
 
 ---
 
@@ -22,10 +22,9 @@
 
 ```mermaid
 graph TD
-    subgraph T1["🔴 TIER 1: THỂ CHẾ CỐT LÕI, ĐẤU THẦU & AN TOÀN (3 Văn bản)"]
+    subgraph T1["🔴 TIER 1: THỂ CHẾ CỐT LÕI, ĐẤU THẦU & AN TOÀN (2 Văn bản)"]
         T1_1["27/2023/QH15<br/>(Pháp chế Nhà ở - Điểm: 9.8)"]
-        T1_2["47/2024/QH15<br/>(Quy hoạch đô thị - Điểm: 9.8)"]
-        T1_3["31/2024/QH15<br/>(Pháp lý Đất đai - Điểm: 9.7)"]
+        T1_2["31/2024/QH15<br/>(Pháp lý Đất đai - Điểm: 9.8)"]
     end
 
     subgraph T2["🟠 TIER 2: THIẾT KẾ CÔNG TRÌNH & MẪU ĐẤU THẦU (7 Văn bản)"]
@@ -69,9 +68,8 @@ graph TD
 
 | STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
 |:---:|:---|:---|:---:|:---:|:---:|:---|
-| 1 | **[27/2023/QH15](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-2023-so-27-2023-QH15-560645.aspx)** | Luật Nhà ở 2023 | Pháp chế Nhà ở | 4 | **9.8** | `python -m ccba_legal ingest "27/2023/QH15" --category 01_vbpl --upload-drive` |
-| 2 | **[47/2024/QH15](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Quy-hoach-do-thi-va-nong-thon-2024-so-47-2024-QH15-618956.aspx)** | Luật Quy hoạch đô thị và nông thôn 2024 | Quy hoạch đô thị | 16 | **9.8** | `python -m ccba_legal ingest "47/2024/QH15" --category 01_vbpl --upload-drive` |
-| 3 | **[31/2024/QH15](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Dat-dai-2024-so-31-2024-QH15-538058.aspx)** | Luật Đất đai 2024 | Pháp lý Đất đai | 4 | **9.7** | `python -m ccba_legal ingest "31/2024/QH15" --category 01_vbpl --upload-drive` |
+| 1 | **[27/2023/QH15](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-2023-so-27-2023-QH15-560645.aspx)** | Luật Nhà ở 2023 | Pháp chế Nhà ở | 5 | **9.8** | `python -m ccba_legal ingest "27/2023/QH15" --category 01_vbpl --upload-drive` |
+| 2 | **[31/2024/QH15](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Dat-dai-2024-so-31-2024-QH15-538058.aspx)** | Luật Đất đai 2024 | Pháp lý Đất đai | 6 | **9.8** | `python -m ccba_legal ingest "31/2024/QH15" --category 01_vbpl --upload-drive` |
 
 ### 🟠 TIER 2: Thiết Kế Công Trình & Mẫu Hồ Sơ Đấu Thầu
 
@@ -139,6 +137,7 @@ graph TD
 | **214/2025/NĐ-CP** | Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu | Đấu thầu | 2025-08-04 | 🟢 `INGESTED` |
 | **79/2025/TT-BTC** | Thông tư hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu và các mẫu hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia | Đấu thầu | 2025-08-04 | 🟢 `INGESTED` |
 | **23/2024/NĐ-CP** | Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc ngành, lĩnh vực quản lý | Đấu thầu | 2024-02-27 | 🟢 `INGESTED` |
+| **47/2024/QH15** | Luật Quy hoạch đô thị và nông thôn 2024 | Quy hoạch đô thị | 2025-07-01 | 🟢 `INGESTED` |
 | **98/2025/TT-BTC** | Thông tư hướng dẫn mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư thực hiện dự án đầu tư theo phương thức đối tác công tư, dự án đầu tư kinh doanh có sử dụng đất | Đấu thầu | 2025-10-27 | 🟢 `INGESTED` |
 
 ---
