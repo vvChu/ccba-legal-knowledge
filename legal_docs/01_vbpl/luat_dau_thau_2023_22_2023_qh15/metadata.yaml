@@ -1,12 +1,19 @@
 id: luat_dau_thau_2023_22_2023_qh15
 document_number: 22/2023/QH15
-title: Luật Đấu thầu số 22/2023/QH15
+title: Luật Đấu thầu số 22/2023/QH15 (Hợp nhất theo 74/VBHN-VPQH năm 2026)
 type: Luật
 issued_by: Quốc hội
 signer: Vương Đình Huệ
 issued_date: '2023-06-23'
 effective_date: '2024-01-01'
 status: active
+has_amendments: true
+consolidated_as: 74/VBHN-VPQH
+consolidated_from:
+  - 22/2023/QH15
+  - 57/2024/QH15
+  - 90/2025/QH15
+diff_matrix: legal_docs/01_vbpl/luat_dau_thau_2023_22_2023_qh15/bang_so_sanh_thay_doi.md
 pdf_path: legal_docs/01_vbpl/luat_dau_thau_2023_22_2023_qh15/sources/luat_dau_thau_2023_22_2023_qh15.pdf
 pdf_sha256: f51f78ef955652fadc67325700ebc345af6cfd3ba4c365e676b69b1e18dbac2a
 pdf_status: verified
@@ -32,6 +39,15 @@ source_assets:
 source_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-Dau-thau-2023-22-2023-QH15-518805.aspx
 relations:
   replaces: 43/2013/QH13
+  amendments:
+    - id: luat_57_2024_qh15
+      document_number: 57/2024/QH15
+      title: Luật sửa đổi, bổ sung một số điều của Luật Quy hoạch, Luật Đầu tư, Luật Đầu tư theo phương thức đối tác công tư và Luật Đấu thầu
+      effective_date: '2025-01-15'
+    - id: luat_90_2025_qh15
+      document_number: 90/2025/QH15
+      title: Luật sửa đổi, bổ sung một số điều của Luật Đấu thầu, Luật Đầu tư công, Luật Quản lý, sử dụng tài sản công
+      effective_date: '2025-07-01'
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'
