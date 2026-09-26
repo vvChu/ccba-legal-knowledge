@@ -183,23 +183,23 @@ def sync_roadmap() -> dict[str, Any]:
 
 ```mermaid
 graph TD
-    subgraph T1["🔴 TIER 1: QUY CHUẨN KỸ THUẬT BẮT BUỘC & PCCC ({len(tier_groups[1])} Văn bản)"]
+    subgraph T1["🔴 TIER 1: THỂ CHẾ CỐT LÕI, ĐẤU THẦU & AN TOÀN (""" + f"{len(tier_groups[1])}" + """ Văn bản)"]
 """
     for idx, c in enumerate(tier_groups[1], 1):
         md_content += f'        T1_{idx}["{c["document_number"]}<br/>({c["discipline"]} - Điểm: {c["final_score"]})"]\n'
     md_content += """    end
 
-    subgraph T2["🟠 TIER 2: TIÊU CHUẨN THIẾT KẾ CỐT LÕI ĐA BỘ MÔN (""" + f"{len(tier_groups[2])}" + """ Văn bản)"]\n"""
+    subgraph T2["🟠 TIER 2: THIẾT KẾ CÔNG TRÌNH & MẪU ĐẤU THẦU (""" + f"{len(tier_groups[2])}" + """ Văn bản)"]\n"""
     for idx, c in enumerate(tier_groups[2], 1):
         md_content += f'        T2_{idx}["{c["document_number"]}<br/>({c["discipline"]} - Điểm: {c["final_score"]})"]\n'
     md_content += """    end
 
-    subgraph T3["🟡 TIER 3: HẠ TẦNG KỸ THUẬT & ĐỊA KỸ THUẬT (""" + f"{len(tier_groups[3])}" + """ Văn bản)"]\n"""
+    subgraph T3["🟡 TIER 3: MEP, PCCC, MÔI TRƯỜNG & CHUYÊN NGÀNH (""" + f"{len(tier_groups[3])}" + """ Văn bản)"]\n"""
     for idx, c in enumerate(tier_groups[3], 1):
         md_content += f'        T3_{idx}["{c["document_number"]}<br/>({c["discipline"]} - Điểm: {c["final_score"]})"]\n'
     md_content += """    end
 
-    subgraph T4["🔵 TIER 4: THỂ LOẠI CÔNG TRÌNH & BIM ISO (""" + f"{len(tier_groups[4])}" + """ Văn bản)"]\n"""
+    subgraph T4["🔵 TIER 4: ĐỊA KỸ THUẬT, KIỂM ĐỊNH & BIM VẬN HÀNH (""" + f"{len(tier_groups[4])}" + """ Văn bản)"]\n"""
     for idx, c in enumerate(tier_groups[4], 1):
         md_content += f'        T4_{idx}["{c["document_number"]}<br/>({c["discipline"]} - Điểm: {c["final_score"]})"]\n'
     md_content += """    end
@@ -215,10 +215,10 @@ graph TD
 
 """
     tier_titles = {
-        1: "🔴 TIER 1: Quy Chuẩn Kỹ Thuật Quốc Gia Bắt Buộc & An Toàn PCCC",
-        2: "🟠 TIER 2: Tiêu Chuẩn Thiết Kế Cơ Sở Đa Bộ Môn (Kết Cấu, MEP)",
-        3: "🟡 TIER 3: Hạ Tầng Kỹ Thuật Đô Thị & Địa Kỹ Thuật Nền Móng",
-        4: "🔵 TIER 4: Chuẩn Hóa Thể Loại Công Trình & Quản Trị BIM ISO",
+        1: "🔴 TIER 1: Thể Chế Cốt Lõi, Đấu Thầu & Quy Chuẩn Kỹ Thuật An Toàn",
+        2: "🟠 TIER 2: Thiết Kế Công Trình & Mẫu Hồ Sơ Đấu Thầu",
+        3: "🟡 TIER 3: MEP, PCCC, Môi Trường & Chuyên Ngành Kỹ Thuật",
+        4: "🔵 TIER 4: Địa Kỹ Thuật, Kiểm Định Thi Công & Quản Trị BIM ISO",
     }
     
     for t_idx in [1, 2, 3, 4]:

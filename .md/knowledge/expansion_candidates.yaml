@@ -1,5 +1,5 @@
-version: 1.1.0
-updated_at: '2026-09-02T17:05:00Z'
+version: 2.0.0
+updated_at: '2026-09-26T15:50:00Z'
 candidates:
 - id: QCVN-10-2024-BXD
   document_number: QCVN 10:2024/BXD
@@ -246,4 +246,382 @@ candidates:
   search_query: TCVN ISO 19650-2:2021
   tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-14177-2-2024-To-chuc-va-so-hoa-thong-tin-ve-cong-trinh-xay-dung-Phan-2-921451.aspx
   base_impact_score: 7.0
+  tier_override: 4
+- id: LUAT-40-2019-QH14
+  document_number: 40/2019/QH14
+  title: Luật Kiến trúc 2019
+  category: 01_vbpl
+  discipline: Kiến trúc
+  issued_by: Quốc hội
+  effective_date: '2020-07-01'
+  replaces: ''
+  search_query: 40/2019/QH14
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Kien-truc-2019-387063.aspx
+  base_impact_score: 9.8
+  tier_override: 1
+- id: QCVN-18-2021-BXD
+  document_number: QCVN 18:2021/BXD
+  title: Quy chuẩn kỹ thuật quốc gia về An toàn trong thi công xây dựng
+  category: 02_qcvn
+  discipline: An toàn thi công
+  issued_by: Bộ Xây dựng
+  effective_date: '2022-06-20'
+  replaces: QCVN 18:2014/BXD
+  search_query: 16/2021/TT-BXD
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-16-2021-TT-BXD-Quy-chuan-quoc-gia-an-toan-trong-thi-cong-xay-dung-499968.aspx
+  base_impact_score: 9.8
+  tier_override: 1
+- id: ND-115-2024-ND-CP
+  document_number: 115/2024/NĐ-CP
+  title: Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu
+    về lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất
+  category: 01_vbpl
+  discipline: Đấu thầu
+  issued_by: Chính phủ
+  effective_date: '2024-09-16'
+  replaces: Nghị định 25/2020/NĐ-CP
+  search_query: 115/2024/NĐ-CP
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-115-2024-ND-CP-thi-hanh-Luat-Dau-thau-ve-lua-chon-nha-dau-tu-thuc-hien-du-an-dat-619472.aspx
+  base_impact_score: 9.7
+  tier_override: 1
+- id: QCVN-16-2023-BXD
+  document_number: QCVN 16:2023/BXD
+  title: Quy chuẩn kỹ thuật quốc gia về Sản phẩm, hàng hóa vật liệu xây dựng
+  category: 02_qcvn
+  discipline: Vật liệu XD
+  issued_by: Bộ Xây dựng
+  effective_date: '2024-01-01'
+  replaces: QCVN 16:2019/BXD
+  search_query: 04/2023/TT-BXD
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-04-2023-TT-BXD-QCVN-16-2023-BXD-san-pham-hang-hoa-vat-lieu-xay-dung-571737.aspx
+  base_impact_score: 9.7
+  tier_override: 1
+- id: ND-85-2020-ND-CP
+  document_number: 85/2020/NĐ-CP
+  title: Nghị định quy định chi tiết một số điều của Luật Kiến trúc
+  category: 01_vbpl
+  discipline: Kiến trúc
+  issued_by: Chính phủ
+  effective_date: '2020-09-07'
+  replaces: ''
+  search_query: 85/2020/NĐ-CP
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-85-2020-ND-CP-huong-dan-Luat-Kien-truc-447545.aspx
+  base_impact_score: 9.6
+  tier_override: 1
+- id: TT-79-2025-TT-BTC
+  document_number: 79/2025/TT-BTC
+  title: Thông tư hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu và các mẫu
+    hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia
+  category: 01_vbpl
+  discipline: Đấu thầu
+  issued_by: Bộ Tài chính
+  effective_date: '2025-08-04'
+  replaces: Thông tư 06/2024/TT-BKHĐT, Thông tư 22/2024/TT-BKHĐT
+  search_query: 79/2025/TT-BTC
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-79-2025-TT-BTC-dang-tai-thong-tin-dau-thau-mau-ho-so-dau-thau-tren-mang-648501.aspx
+  base_impact_score: 9.6
+  tier_override: 1
+- id: LUAT-27-2023-QH15
+  document_number: 27/2023/QH15
+  title: Luật Nhà ở 2023
+  category: 01_vbpl
+  discipline: Pháp chế Nhà ở
+  issued_by: Quốc hội
+  effective_date: '2024-08-01'
+  replaces: Luật Nhà ở 65/2014/QH13
+  search_query: 27/2023/QH15
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-2023-so-27-2023-QH15-560645.aspx
+  base_impact_score: 9.6
+  tier_override: 1
+- id: LUAT-31-2024-QH15
+  document_number: 31/2024/QH15
+  title: Luật Đất đai 2024
+  category: 01_vbpl
+  discipline: Pháp lý Đất đai
+  issued_by: Quốc hội
+  effective_date: '2024-08-01'
+  replaces: Luật Đất đai 45/2013/QH13
+  search_query: 31/2024/QH15
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Dat-dai-2024-so-31-2024-QH15-538058.aspx
+  base_impact_score: 9.5
+  tier_override: 1
+- id: ND-23-2024-ND-CP
+  document_number: 23/2024/NĐ-CP
+  title: Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu
+    về lựa chọn nhà đầu tư thực hiện dự án thuộc ngành, lĩnh vực quản lý
+  category: 01_vbpl
+  discipline: Đấu thầu
+  issued_by: Chính phủ
+  effective_date: '2024-02-27'
+  replaces: Nghị định 25/2020/NĐ-CP
+  search_query: 23/2024/NĐ-CP
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-23-2024-ND-CP-thi-hanh-Luat-Dau-thau-ve-lua-chon-nha-dau-tu-du-an-nganh-linh-vuc-598980.aspx
+  base_impact_score: 9.4
+  tier_override: 1
+- id: LUAT-47-2024-QH15
+  document_number: 47/2024/QH15
+  title: Luật Quy hoạch đô thị và nông thôn 2024
+  category: 01_vbpl
+  discipline: Quy hoạch đô thị
+  issued_by: Quốc hội
+  effective_date: '2025-07-01'
+  replaces: Luật Quy hoạch đô thị 30/2009/QH12
+  search_query: 47/2024/QH15
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Quy-hoach-do-thi-va-nong-thon-2024-so-47-2024-QH15-618956.aspx
+  base_impact_score: 9.3
+  tier_override: 1
+- id: TT-98-2025-TT-BTC
+  document_number: 98/2025/TT-BTC
+  title: Thông tư hướng dẫn mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư thực hiện dự án
+    đầu tư theo phương thức đối tác công tư, dự án đầu tư kinh doanh có sử dụng đất
+  category: 01_vbpl
+  discipline: Đấu thầu
+  issued_by: Bộ Tài chính
+  effective_date: '2025-10-27'
+  replaces: Thông tư 15/2024/TT-BKHĐT
+  search_query: 98/2025/TT-BTC
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-98-2025-TT-BTC-mau-ho-so-dau-thau-lua-chon-nha-dau-tu-ppp-du-an-dat-658210.aspx
+  base_impact_score: 9.2
+  tier_override: 2
+- id: TCVN-13967-2024
+  document_number: TCVN 13967:2024
+  title: Nhà ở riêng lẻ — Yêu cầu chung về thiết kế
+  category: 03_tcvn
+  discipline: Kiến trúc
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2024-08-26'
+  replaces: ''
+  search_query: TCVN 13967:2024
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-13967-2024-Nha-o-rieng-le-Yeu-cau-chung-ve-thiet-ke-921867.aspx
+  base_impact_score: 9.1
+  tier_override: 2
+- id: VBHN-83-VBHN-TT-BXD
+  document_number: 83/VBHN-TT-BXD
+  title: Văn bản hợp nhất Thông tư quy định chi tiết một số nội dung về hồ sơ thiết
+    kế kiến trúc và mẫu chứng chỉ hành nghề kiến trúc
+  category: 01_vbpl
+  discipline: Kiến trúc
+  issued_by: Bộ Xây dựng
+  effective_date: '2026-01-01'
+  replaces: Thông tư 03/2020/TT-BXD
+  search_query: 83/VBHN-TT-BXD
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Van-ban-hop-nhat-83-VBHN-TT-BXD-2026-ho-so-thiet-ke-kien-truc-chung-chi-hanh-nghe-661204.aspx
+  base_impact_score: 9.1
+  tier_override: 2
+- id: TT-07-2024-TT-BKHĐT
+  document_number: 07/2024/TT-BKHĐT
+  title: Thông tư quy định chi tiết mẫu hồ sơ yêu cầu, báo cáo đánh giá, báo cáo thẩm
+    định, kiểm tra, báo cáo tình hình thực hiện hoạt động đấu thầu
+  category: 01_vbpl
+  discipline: Đấu thầu
+  issued_by: Bộ Kế hoạch và Đầu tư
+  effective_date: '2024-04-26'
+  replaces: ''
+  search_query: 07/2024/TT-BKHĐT
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-07-2024-TT-BKH-DT-mau-ho-so-yeu-cau-bao-cao-danh-gia-kiem-tra-dau-thau-608412.aspx
+  base_impact_score: 9.0
+  tier_override: 2
+- id: TT-13-2020-TT-BGDDT
+  document_number: 13/2020/TT-BGDĐT
+  title: Thông tư ban hành Quy định tiêu chuẩn cơ sở vật chất các trường mầm non,
+    tiểu học, trung học cơ sở, trung học phổ thông và trường phổ thông có nhiều cấp
+    học
+  category: 01_vbpl
+  discipline: Kiến trúc / CSVC
+  issued_by: Bộ Giáo dục và Đào tạo
+  effective_date: '2020-07-11'
+  replaces: ''
+  search_query: 13/2020/TT-BGDĐT
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-13-2020-TT-BGDDT-tieu-chuan-co-so-vat-chat-truong-mam-non-tieu-hoc-trung-hoc-443912.aspx
+  base_impact_score: 8.9
+  tier_override: 2
+- id: TCVN-5065-2024
+  document_number: TCVN 5065:2024
+  title: Khách sạn — Tiêu chuẩn thiết kế
+  category: 03_tcvn
+  discipline: Kiến trúc
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2024-12-30'
+  replaces: TCVN 5065:1990
+  search_query: TCVN 5065:2024
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-5065-2024-Khach-san-Tieu-chuan-thiet-ke-922115.aspx
+  base_impact_score: 8.8
+  tier_override: 2
+- id: TCVN-8793-2021
+  document_number: TCVN 8793:2021
+  title: Trường tiểu học — Yêu cầu thiết kế
+  category: 03_tcvn
+  discipline: Kiến trúc
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2021-12-30'
+  replaces: TCVN 8793:2011
+  search_query: TCVN 8793:2021
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Giao-duc/TCVN-8793-2021-Truong-tieu-hoc-Yeu-cau-thiet-ke-920412.aspx
+  base_impact_score: 8.8
+  tier_override: 2
+- id: TCVN-9411-2012
+  document_number: TCVN 9411:2012
+  title: Nhà ở liên kế — Tiêu chuẩn thiết kế
+  category: 03_tcvn
+  discipline: Kiến trúc
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2012-12-20'
+  replaces: TCXDVN 353:2005
+  search_query: TCVN 9411:2012
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9411-2012-Nha-o-lien-ke-Tieu-chuan-thiet-ke-906967.aspx
+  base_impact_score: 8.7
+  tier_override: 2
+- id: TCVN-6379-2024
+  document_number: TCVN 6379:2024
+  title: Thiết bị chữa cháy — Trụ nước chữa cháy — Yêu cầu kỹ thuật và phương pháp
+    thử
+  category: 03_tcvn
+  discipline: PCCC
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2024-12-16'
+  replaces: TCVN 6379:1998
+  search_query: TCVN 6379:2024
+  tvpl_url: https://thuvienphapluat.vn/TCVN/PCCC/TCVN-6379-2024-Tru-nuoc-chua-chay-922150.aspx
+  base_impact_score: 8.7
+  tier_override: 3
+- id: TCVN-13456-2022
+  document_number: TCVN 13456:2022
+  title: Phòng cháy chữa cháy — Phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn
+    — Yêu cầu thiết kế, lắp đặt
+  category: 03_tcvn
+  discipline: MEP / PCCC
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2022-03-01'
+  replaces: ''
+  search_query: TCVN 13456:2022
+  tvpl_url: https://thuvienphapluat.vn/TCVN/PCCC/TCVN-13456-2022-Phuong-tien-chieu-sang-su-co-va-chi-dan-thoat-nan-920512.aspx
+  base_impact_score: 8.6
+  tier_override: 3
+- id: TT-08-2021-TT-BXD
+  document_number: 08/2021/TT-BXD
+  title: Thông tư hướng dẫn phương pháp xác định chi phí lập và tổ chức thực hiện
+    quy chế quản lý kiến trúc
+  category: 01_vbpl
+  discipline: Kiến trúc / Dự toán
+  issued_by: Bộ Xây dựng
+  effective_date: '2021-10-15'
+  replaces: ''
+  search_query: 08/2021/TT-BXD
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-08-2021-TT-BXD-huong-dan-chi-phi-lap-quy-che-quan-ly-kien-truc-487612.aspx
+  base_impact_score: 8.6
+  tier_override: 3
+- id: TT-02-2024-TT-BKHĐT
+  document_number: 02/2024/TT-BKHĐT
+  title: Thông tư quy định về đào tạo, bồi dưỡng kiến thức và thi, cấp, thu hồi chứng
+    chỉ nghiệp vụ chuyên môn về đấu thầu
+  category: 01_vbpl
+  discipline: Đấu thầu
+  issued_by: Bộ Kế hoạch và Đầu tư
+  effective_date: '2024-05-01'
+  replaces: Thông tư 04/2019/TT-BKHĐT
+  search_query: 02/2024/TT-BKHĐT
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-02-2024-TT-BKH-DT-dao-tao-thi-cap-chung-chi-nghiep-vu-chuyen-mon-dau-thau-600312.aspx
+  base_impact_score: 8.5
+  tier_override: 3
+- id: TCVN-7114-1-2008
+  document_number: TCVN 7114-1:2008
+  title: 'Ecgônômi — Chiếu sáng nơi làm việc — Phần 1: Trong nhà'
+  category: 03_tcvn
+  discipline: MEP Điện
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2008-12-31'
+  replaces: ''
+  search_query: TCVN 7114-1:2008
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-7114-1-2008-Ecgonomi-Chieu-sang-noi-lam-viec-Phan-1-Trong-nha-901412.aspx
+  base_impact_score: 8.5
+  tier_override: 3
+- id: TCVN-7161-1-2009
+  document_number: TCVN 7161-1:2009
+  title: 'Hệ thống chữa cháy bằng khí — Tính chất vật lý và thiết kế hệ thống — Phần
+    1: Yêu cầu chung'
+  category: 03_tcvn
+  discipline: PCCC Khí
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2009-12-31'
+  replaces: ''
+  search_query: TCVN 7161-1:2009
+  tvpl_url: https://thuvienphapluat.vn/TCVN/PCCC/TCVN-7161-1-2009-He-thong-chua-chay-bang-khi-901512.aspx
+  base_impact_score: 8.4
+  tier_override: 3
+- id: QCVN-26-27-2025-BNNMT
+  document_number: QCVN 26:2025/BNNMT
+  title: Quy chuẩn kỹ thuật quốc gia về Tiếng ồn và Độ rung (Ban hành kèm Thông tư
+    01/2025/TT-BNNMT)
+  category: 02_qcvn
+  discipline: Môi trường
+  issued_by: Bộ Nông nghiệp và Nông thôn
+  effective_date: '2025-11-14'
+  replaces: QCVN 26:2010/BTNMT, QCVN 27:2010/BTNMT
+  search_query: 01/2025/TT-BNNMT
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Thong-tu-01-2025-TT-BNNMT-QCVN-26-2025-QCVN-27-2025-tieng-on-do-rung-652312.aspx
+  base_impact_score: 8.2
+  tier_override: 3
+- id: QCVN-01-2020-BCT
+  document_number: QCVN 01:2020/BCT
+  title: Quy chuẩn kỹ thuật quốc gia về Yêu cầu thiết kế cửa hàng xăng dầu (Ban hành
+    kèm Thông tư 15/2020/TT-BCT)
+  category: 02_qcvn
+  discipline: Chuyên ngành
+  issued_by: Bộ Công Thương
+  effective_date: '2021-01-01'
+  replaces: ''
+  search_query: 15/2020/TT-BCT
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-15-2020-TT-BCT-Quy-chuan-ky-thuat-quoc-gia-yeu-cau-thiet-ke-cua-hang-xang-dau-447065.aspx
+  base_impact_score: 7.9
+  tier_override: 3
+- id: TCVN-9361-2012
+  document_number: TCVN 9361:2012
+  title: Công tác nền móng — Thi công và nghiệm thu
+  category: 03_tcvn
+  discipline: Địa kỹ thuật
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2012-12-20'
+  replaces: TCVN 4516:1988
+  search_query: TCVN 9361:2012
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9361-2012-Cong-tac-nen-mong-Thi-cong-va-nghiem-thu-907123.aspx
+  base_impact_score: 7.7
+  tier_override: 4
+- id: TCVN-9381-2012
+  document_number: TCVN 9381:2012
+  title: Hướng dẫn đánh giá mức độ nguy hiểm của kết cấu nhà
+  category: 03_tcvn
+  discipline: Kiểm định
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2012-12-20'
+  replaces: TCXDVN 270:2002
+  search_query: TCVN 9381:2012
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9381-2012-Huong-dan-danh-gia-muc-do-nguy-hiem-cua-ket-cau-nha-907412.aspx
+  base_impact_score: 7.6
+  tier_override: 4
+- id: TCVN-9377-1-2012
+  document_number: TCVN 9377-1:2012
+  title: 'Công tác hoàn thiện trong xây dựng — Thi công và nghiệm thu — Phần 1: Công
+    tác lát và láng trong xây dựng'
+  category: 03_tcvn
+  discipline: Thi công hoàn thiện
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2012-12-20'
+  replaces: TCXDVN 303:2006
+  search_query: TCVN 9377-1:2012
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9377-1-2012-Cong-tac-hoan-thien-trong-xay-dung-Thi-cong-va-nghiem-thu-Phan-1-907651.aspx
+  base_impact_score: 7.5
+  tier_override: 4
+- id: TCVN-ISO-19650-3-2024
+  document_number: TCVN ISO 19650-3:2024
+  title: 'Tổ chức và số hóa thông tin về công trình xây dựng (BIM) — Quản lý thông
+    tin bằng BIM: Phần 3 (Giai đoạn vận hành tài sản) và Phần 5 (Phương pháp tiếp
+    cận an ninh)'
+  category: 03_tcvn
+  discipline: Quản trị BIM
+  issued_by: Bộ Khoa học và Công nghệ
+  effective_date: '2024-12-31'
+  replaces: ''
+  search_query: TCVN ISO 19650-3:2024
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-14177-3-2024-To-chuc-va-so-hoa-thong-tin-ve-cong-trinh-xay-dung-Phan-3-921453.aspx
+  base_impact_score: 7.4
   tier_override: 4
