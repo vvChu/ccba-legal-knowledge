@@ -272,6 +272,7 @@ candidates:
   tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-16-2021-TT-BXD-Quy-chuan-quoc-gia-an-toan-trong-thi-cong-xay-dung-499968.aspx
   base_impact_score: 9.8
   tier_override: 1
+  status: ingested
 - id: ND-115-2024-ND-CP
   document_number: 115/2024/NĐ-CP
   title: Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu

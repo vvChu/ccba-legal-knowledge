@@ -1318,6 +1318,37 @@ laws:
       sha256: 1287b8dcd338f8af8b9312c8fdca1a0c7b6abbccc367cf4e212fd956c6e4e17e
       vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_16_2023_bxd/qcvn_16_2023_bxd.docx
       status: verified
+- id: QCVN-18-2021-BXD
+  document_number: QCVN 18:2021/BXD
+  title: Quy chuẩn kỹ thuật quốc gia về An toàn trong thi công xây dựng
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Xây dựng
+  signer: Thứ trưởng Lê Quang Hùng
+  issued_date: '2021-12-20'
+  effective_date: '2022-06-20'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_18_2021_bxd/
+  source_url: https://congbao.chinhphu.vn/van-ban/thong-tu-so-16-2021-tt-bxd-36401.htm
+  relations:
+    replaces: QCVN 18:2014/BXD
+    promulgated_by: 16/2021/TT-BXD
+  replaces: QCVN 18:2014/BXD
+  pdf_path: legal_docs/02_qcvn/qcvn_18_2021_bxd/sources/qcvn_18_2021_bxd.pdf
+  pdf_sha256: af4410e65b5e6b227b7d5ff70f87cf3834dc0c0a8868d0b38b850b9e62cd9fd6
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 33+34/2022
+  pdf_status: verified
+  source_file: legal_docs/02_qcvn/qcvn_18_2021_bxd/sources/qcvn_18_2021_bxd.docx
+  source_assets:
+    pdf:
+      sha256: af4410e65b5e6b227b7d5ff70f87cf3834dc0c0a8868d0b38b850b9e62cd9fd6
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_18_2021_bxd/qcvn_18_2021_bxd.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: f8bd1971b63782152ba0d60991e1bdf4478b9baa2840caf36bc1f58c7f0fab12
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_18_2021_bxd/qcvn_18_2021_bxd.docx
+      status: verified
 - id: vn_hn_qd_38_2026_qd_ubnd
   document_number: 38/2026/QĐ-UBND
   type: Quyết định

@@ -1,0 +1,56 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Giới hạn vùng nguy hiểm khi thử nghiệm đường ống có áp suất",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Loại đường ống và áp suất thử nghiệm",
+    "Đường kính ống (mm)",
+    "Bán kính vùng nguy hiểm nhỏ nhất tính từ mép ngoài ống (m)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Loại đường ống và áp suất thử nghiệm": "1. Ống thép với áp suất thử 1000 kPa",
+      "Đường kính ống (mm)": "< 300",
+      "Bán kính vùng nguy hiểm nhỏ nhất tính từ mép ngoài ống (m)": "7"
+    },
+    {
+      "_row_id": 2,
+      "Loại đường ống và áp suất thử nghiệm": "1. Ống thép với áp suất thử 1000 kPa",
+      "Đường kính ống (mm)": "300 ÷ 1000",
+      "Bán kính vùng nguy hiểm nhỏ nhất tính từ mép ngoài ống (m)": "10"
+    },
+    {
+      "_row_id": 3,
+      "Loại đường ống và áp suất thử nghiệm": "1. Ống thép với áp suất thử 1000 kPa",
+      "Đường kính ống (mm)": "> 1000",
+      "Bán kính vùng nguy hiểm nhỏ nhất tính từ mép ngoài ống (m)": "20"
+    },
+    {
+      "_row_id": 4,
+      "Loại đường ống và áp suất thử nghiệm": "2. Ống gang với áp suất thử 150 kPa",
+      "Đường kính ống (mm)": "≤ 500",
+      "Bán kính vùng nguy hiểm nhỏ nhất tính từ mép ngoài ống (m)": "10"
+    },
+    {
+      "_row_id": 5,
+      "Loại đường ống và áp suất thử nghiệm": "2. Ống gang với áp suất thử 150 kPa",
+      "Đường kính ống (mm)": "> 500",
+      "Bán kính vùng nguy hiểm nhỏ nhất tính từ mép ngoài ống (m)": "20"
+    },
+    {
+      "_row_id": 6,
+      "Loại đường ống và áp suất thử nghiệm": "3. Ống gang với áp suất thử 600 kPa",
+      "Đường kính ống (mm)": "≤ 500",
+      "Bán kính vùng nguy hiểm nhỏ nhất tính từ mép ngoài ống (m)": "15"
+    },
+    {
+      "_row_id": 7,
+      "Loại đường ống và áp suất thử nghiệm": "3. Ống gang với áp suất thử 600 kPa",
+      "Đường kính ống (mm)": "> 500",
+      "Bán kính vùng nguy hiểm nhỏ nhất tính từ mép ngoài ống (m)": "25"
+    }
+  ],
+  "footnotes": []
+}

@@ -4,7 +4,7 @@
 > [!NOTE]
 > **Đây là Tài Liệu Sống (Living Document) tự động cập nhật.**  
 > Được đồng bộ tự động bởi `scripts/sync_expansion_roadmap.py` mỗi khi có văn bản mới được nạp vào Spoke hoặc khi chạy Master CI Gate.  
-> **Lần cập nhật cuối:** `2026-09-26 21:41:59` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
+> **Lần cập nhật cuối:** `2026-09-26 22:03:20` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
 
 ---
 
@@ -12,9 +12,9 @@
 
 | Chỉ số theo dõi | Số lượng | Tỷ lệ hoàn thành | Trạng thái hệ thống |
 |:---|:---:|:---:|:---:|
-| **Hiện có trong Spoke (Active Bundles)** | **63** | **70.8%** | 🟢 Sẵn sàng phục vụ Agent |
-| **Ứng viên Đang Chờ Nạp (Pending Target)** | **26** | **29.2%** | 🟡 Trong lộ trình ưu tiên |
-| **Tổng quy mô mục tiêu giai đoạn 1** | **89** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
+| **Hiện có trong Spoke (Active Bundles)** | **63** | **74.1%** | 🟢 Sẵn sàng phục vụ Agent |
+| **Ứng viên Đang Chờ Nạp (Pending Target)** | **22** | **25.9%** | 🟡 Trong lộ trình ưu tiên |
+| **Tổng quy mô mục tiêu giai đoạn 1** | **85** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
 
 ---
 
@@ -22,31 +22,27 @@
 
 ```mermaid
 graph TD
-    subgraph T1["🔴 TIER 1: THỂ CHẾ CỐT LÕI, ĐẤU THẦU & AN TOÀN (6 Văn bản)"]
-        T1_1["QCVN 16:2023/BXD<br/>(Vật liệu XD - Điểm: 9.9)"]
-        T1_2["QCVN 18:2021/BXD<br/>(An toàn thi công - Điểm: 9.8)"]
-        T1_3["27/2023/QH15<br/>(Pháp chế Nhà ở - Điểm: 9.8)"]
-        T1_4["23/2024/NĐ-CP<br/>(Đấu thầu - Điểm: 9.8)"]
-        T1_5["47/2024/QH15<br/>(Quy hoạch đô thị - Điểm: 9.8)"]
-        T1_6["31/2024/QH15<br/>(Pháp lý Đất đai - Điểm: 9.7)"]
+    subgraph T1["🔴 TIER 1: THỂ CHẾ CỐT LÕI, ĐẤU THẦU & AN TOÀN (3 Văn bản)"]
+        T1_1["27/2023/QH15<br/>(Pháp chế Nhà ở - Điểm: 9.8)"]
+        T1_2["47/2024/QH15<br/>(Quy hoạch đô thị - Điểm: 9.8)"]
+        T1_3["31/2024/QH15<br/>(Pháp lý Đất đai - Điểm: 9.7)"]
     end
 
-    subgraph T2["🟠 TIER 2: THIẾT KẾ CÔNG TRÌNH & MẪU ĐẤU THẦU (8 Văn bản)"]
-        T2_1["98/2025/TT-BTC<br/>(Đấu thầu - Điểm: 9.2)"]
-        T2_2["TCVN 13967:2024<br/>(Kiến trúc - Điểm: 9.1)"]
-        T2_3["83/VBHN-TT-BXD<br/>(Kiến trúc - Điểm: 9.1)"]
-        T2_4["07/2024/TT-BKHĐT<br/>(Đấu thầu - Điểm: 9.0)"]
-        T2_5["13/2020/TT-BGDĐT<br/>(Kiến trúc / CSVC - Điểm: 8.9)"]
-        T2_6["TCVN 5065:2024<br/>(Kiến trúc - Điểm: 8.8)"]
-        T2_7["TCVN 8793:2021<br/>(Kiến trúc - Điểm: 8.8)"]
-        T2_8["TCVN 9411:2012<br/>(Kiến trúc - Điểm: 8.7)"]
+    subgraph T2["🟠 TIER 2: THIẾT KẾ CÔNG TRÌNH & MẪU ĐẤU THẦU (7 Văn bản)"]
+        T2_1["TCVN 13967:2024<br/>(Kiến trúc - Điểm: 9.1)"]
+        T2_2["83/VBHN-TT-BXD<br/>(Kiến trúc - Điểm: 9.1)"]
+        T2_3["07/2024/TT-BKHĐT<br/>(Đấu thầu - Điểm: 9.0)"]
+        T2_4["13/2020/TT-BGDĐT<br/>(Kiến trúc / CSVC - Điểm: 8.9)"]
+        T2_5["TCVN 5065:2024<br/>(Kiến trúc - Điểm: 8.8)"]
+        T2_6["TCVN 8793:2021<br/>(Kiến trúc - Điểm: 8.8)"]
+        T2_7["TCVN 9411:2012<br/>(Kiến trúc - Điểm: 8.7)"]
     end
 
     subgraph T3["🟡 TIER 3: MEP, PCCC, MÔI TRƯỜNG & CHUYÊN NGÀNH (8 Văn bản)"]
         T3_1["TCVN 6379:2024<br/>(PCCC - Điểm: 8.7)"]
-        T3_2["TCVN 13456:2022<br/>(MEP / PCCC - Điểm: 8.6)"]
-        T3_3["08/2021/TT-BXD<br/>(Kiến trúc / Dự toán - Điểm: 8.6)"]
-        T3_4["02/2024/TT-BKHĐT<br/>(Đấu thầu - Điểm: 8.5)"]
+        T3_2["02/2024/TT-BKHĐT<br/>(Đấu thầu - Điểm: 8.7)"]
+        T3_3["TCVN 13456:2022<br/>(MEP / PCCC - Điểm: 8.6)"]
+        T3_4["08/2021/TT-BXD<br/>(Kiến trúc / Dự toán - Điểm: 8.6)"]
         T3_5["TCVN 7114-1:2008<br/>(MEP Điện - Điểm: 8.5)"]
         T3_6["TCVN 7161-1:2009<br/>(PCCC Khí - Điểm: 8.4)"]
         T3_7["QCVN 01:2020/BCT<br/>(Chuyên ngành - Điểm: 8.4)"]
@@ -73,37 +69,33 @@ graph TD
 
 | STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
 |:---:|:---|:---|:---:|:---:|:---:|:---|
-| 1 | **[QCVN 16:2023/BXD](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-04-2023-TT-BXD-QCVN-16-2023-BXD-san-pham-hang-hoa-vat-lieu-xay-dung-571737.aspx)** | Quy chuẩn kỹ thuật quốc gia về Sản phẩm, hàng hóa vật liệu xây dựng | Vật liệu XD | 5 | **9.9** | `python -m ccba_legal ingest "04/2023/TT-BXD" --category 02_qcvn --upload-drive` |
-| 2 | **[QCVN 18:2021/BXD](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-16-2021-TT-BXD-Quy-chuan-quoc-gia-an-toan-trong-thi-cong-xay-dung-499968.aspx)** | Quy chuẩn kỹ thuật quốc gia về An toàn trong thi công xây dựng | An toàn thi công | 0 | **9.8** | `python -m ccba_legal ingest "16/2021/TT-BXD" --category 02_qcvn --upload-drive` |
-| 3 | **[27/2023/QH15](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-2023-so-27-2023-QH15-560645.aspx)** | Luật Nhà ở 2023 | Pháp chế Nhà ở | 4 | **9.8** | `python -m ccba_legal ingest "27/2023/QH15" --category 01_vbpl --upload-drive` |
-| 4 | **[23/2024/NĐ-CP](https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-23-2024-ND-CP-thi-hanh-Luat-Dau-thau-ve-lua-chon-nha-dau-tu-du-an-nganh-linh-vuc-598980.aspx)** | Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc ngành, lĩnh vực quản lý | Đấu thầu | 7 | **9.8** | `python -m ccba_legal ingest "23/2024/NĐ-CP" --category 01_vbpl --upload-drive` |
-| 5 | **[47/2024/QH15](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Quy-hoach-do-thi-va-nong-thon-2024-so-47-2024-QH15-618956.aspx)** | Luật Quy hoạch đô thị và nông thôn 2024 | Quy hoạch đô thị | 16 | **9.8** | `python -m ccba_legal ingest "47/2024/QH15" --category 01_vbpl --upload-drive` |
-| 6 | **[31/2024/QH15](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Dat-dai-2024-so-31-2024-QH15-538058.aspx)** | Luật Đất đai 2024 | Pháp lý Đất đai | 4 | **9.7** | `python -m ccba_legal ingest "31/2024/QH15" --category 01_vbpl --upload-drive` |
+| 1 | **[27/2023/QH15](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-2023-so-27-2023-QH15-560645.aspx)** | Luật Nhà ở 2023 | Pháp chế Nhà ở | 4 | **9.8** | `python -m ccba_legal ingest "27/2023/QH15" --category 01_vbpl --upload-drive` |
+| 2 | **[47/2024/QH15](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Quy-hoach-do-thi-va-nong-thon-2024-so-47-2024-QH15-618956.aspx)** | Luật Quy hoạch đô thị và nông thôn 2024 | Quy hoạch đô thị | 16 | **9.8** | `python -m ccba_legal ingest "47/2024/QH15" --category 01_vbpl --upload-drive` |
+| 3 | **[31/2024/QH15](https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Dat-dai-2024-so-31-2024-QH15-538058.aspx)** | Luật Đất đai 2024 | Pháp lý Đất đai | 4 | **9.7** | `python -m ccba_legal ingest "31/2024/QH15" --category 01_vbpl --upload-drive` |
 
 ### 🟠 TIER 2: Thiết Kế Công Trình & Mẫu Hồ Sơ Đấu Thầu
 
 | STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
 |:---:|:---|:---|:---:|:---:|:---:|:---|
-| 1 | **[98/2025/TT-BTC](https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-98-2025-TT-BTC-mau-ho-so-dau-thau-lua-chon-nha-dau-tu-ppp-du-an-dat-658210.aspx)** | Thông tư hướng dẫn mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư thực hiện dự án đầu tư theo phương thức đối tác công tư, dự án đầu tư kinh doanh có sử dụng đất | Đấu thầu | 0 | **9.2** | `python -m ccba_legal ingest "98/2025/TT-BTC" --category 01_vbpl --upload-drive` |
-| 2 | **[TCVN 13967:2024](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-13967-2024-Nha-o-rieng-le-Yeu-cau-chung-ve-thiet-ke-921867.aspx)** | Nhà ở riêng lẻ — Yêu cầu chung về thiết kế | Kiến trúc | 0 | **9.1** | `python -m ccba_legal ingest "TCVN 13967:2024" --category 03_tcvn --upload-drive` |
-| 3 | **[83/VBHN-TT-BXD](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Van-ban-hop-nhat-83-VBHN-TT-BXD-2026-ho-so-thiet-ke-kien-truc-chung-chi-hanh-nghe-661204.aspx)** | Văn bản hợp nhất Thông tư quy định chi tiết một số nội dung về hồ sơ thiết kế kiến trúc và mẫu chứng chỉ hành nghề kiến trúc | Kiến trúc | 0 | **9.1** | `python -m ccba_legal ingest "83/VBHN-TT-BXD" --category 01_vbpl --upload-drive` |
-| 4 | **[07/2024/TT-BKHĐT](https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-07-2024-TT-BKH-DT-mau-ho-so-yeu-cau-bao-cao-danh-gia-kiem-tra-dau-thau-608412.aspx)** | Thông tư quy định chi tiết mẫu hồ sơ yêu cầu, báo cáo đánh giá, báo cáo thẩm định, kiểm tra, báo cáo tình hình thực hiện hoạt động đấu thầu | Đấu thầu | 0 | **9.0** | `python -m ccba_legal ingest "07/2024/TT-BKHĐT" --category 01_vbpl --upload-drive` |
-| 5 | **[13/2020/TT-BGDĐT](https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-13-2020-TT-BGDDT-tieu-chuan-co-so-vat-chat-truong-mam-non-tieu-hoc-trung-hoc-443912.aspx)** | Thông tư ban hành Quy định tiêu chuẩn cơ sở vật chất các trường mầm non, tiểu học, trung học cơ sở, trung học phổ thông và trường phổ thông có nhiều cấp học | Kiến trúc / CSVC | 0 | **8.9** | `python -m ccba_legal ingest "13/2020/TT-BGDĐT" --category 01_vbpl --upload-drive` |
-| 6 | **[TCVN 5065:2024](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-5065-2024-Khach-san-Tieu-chuan-thiet-ke-922115.aspx)** | Khách sạn — Tiêu chuẩn thiết kế | Kiến trúc | 0 | **8.8** | `python -m ccba_legal ingest "TCVN 5065:2024" --category 03_tcvn --upload-drive` |
-| 7 | **[TCVN 8793:2021](https://thuvienphapluat.vn/TCVN/Giao-duc/TCVN-8793-2021-Truong-tieu-hoc-Yeu-cau-thiet-ke-920412.aspx)** | Trường tiểu học — Yêu cầu thiết kế | Kiến trúc | 0 | **8.8** | `python -m ccba_legal ingest "TCVN 8793:2021" --category 03_tcvn --upload-drive` |
-| 8 | **[TCVN 9411:2012](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9411-2012-Nha-o-lien-ke-Tieu-chuan-thiet-ke-906967.aspx)** | Nhà ở liên kế — Tiêu chuẩn thiết kế | Kiến trúc | 0 | **8.7** | `python -m ccba_legal ingest "TCVN 9411:2012" --category 03_tcvn --upload-drive` |
+| 1 | **[TCVN 13967:2024](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-13967-2024-Nha-o-rieng-le-Yeu-cau-chung-ve-thiet-ke-921867.aspx)** | Nhà ở riêng lẻ — Yêu cầu chung về thiết kế | Kiến trúc | 0 | **9.1** | `python -m ccba_legal ingest "TCVN 13967:2024" --category 03_tcvn --upload-drive` |
+| 2 | **[83/VBHN-TT-BXD](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Van-ban-hop-nhat-83-VBHN-TT-BXD-2026-ho-so-thiet-ke-kien-truc-chung-chi-hanh-nghe-661204.aspx)** | Văn bản hợp nhất Thông tư quy định chi tiết một số nội dung về hồ sơ thiết kế kiến trúc và mẫu chứng chỉ hành nghề kiến trúc | Kiến trúc | 0 | **9.1** | `python -m ccba_legal ingest "83/VBHN-TT-BXD" --category 01_vbpl --upload-drive` |
+| 3 | **[07/2024/TT-BKHĐT](https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-07-2024-TT-BKH-DT-mau-ho-so-yeu-cau-bao-cao-danh-gia-kiem-tra-dau-thau-608412.aspx)** | Thông tư quy định chi tiết mẫu hồ sơ yêu cầu, báo cáo đánh giá, báo cáo thẩm định, kiểm tra, báo cáo tình hình thực hiện hoạt động đấu thầu | Đấu thầu | 0 | **9.0** | `python -m ccba_legal ingest "07/2024/TT-BKHĐT" --category 01_vbpl --upload-drive` |
+| 4 | **[13/2020/TT-BGDĐT](https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-13-2020-TT-BGDDT-tieu-chuan-co-so-vat-chat-truong-mam-non-tieu-hoc-trung-hoc-443912.aspx)** | Thông tư ban hành Quy định tiêu chuẩn cơ sở vật chất các trường mầm non, tiểu học, trung học cơ sở, trung học phổ thông và trường phổ thông có nhiều cấp học | Kiến trúc / CSVC | 0 | **8.9** | `python -m ccba_legal ingest "13/2020/TT-BGDĐT" --category 01_vbpl --upload-drive` |
+| 5 | **[TCVN 5065:2024](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-5065-2024-Khach-san-Tieu-chuan-thiet-ke-922115.aspx)** | Khách sạn — Tiêu chuẩn thiết kế | Kiến trúc | 0 | **8.8** | `python -m ccba_legal ingest "TCVN 5065:2024" --category 03_tcvn --upload-drive` |
+| 6 | **[TCVN 8793:2021](https://thuvienphapluat.vn/TCVN/Giao-duc/TCVN-8793-2021-Truong-tieu-hoc-Yeu-cau-thiet-ke-920412.aspx)** | Trường tiểu học — Yêu cầu thiết kế | Kiến trúc | 0 | **8.8** | `python -m ccba_legal ingest "TCVN 8793:2021" --category 03_tcvn --upload-drive` |
+| 7 | **[TCVN 9411:2012](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9411-2012-Nha-o-lien-ke-Tieu-chuan-thiet-ke-906967.aspx)** | Nhà ở liên kế — Tiêu chuẩn thiết kế | Kiến trúc | 0 | **8.7** | `python -m ccba_legal ingest "TCVN 9411:2012" --category 03_tcvn --upload-drive` |
 
 ### 🟡 TIER 3: MEP, PCCC, Môi Trường & Chuyên Ngành Kỹ Thuật
 
 | STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
 |:---:|:---|:---|:---:|:---:|:---:|:---|
 | 1 | **[TCVN 6379:2024](https://thuvienphapluat.vn/TCVN/PCCC/TCVN-6379-2024-Tru-nuoc-chua-chay-922150.aspx)** | Thiết bị chữa cháy — Trụ nước chữa cháy — Yêu cầu kỹ thuật và phương pháp thử | PCCC | 0 | **8.7** | `python -m ccba_legal ingest "TCVN 6379:2024" --category 03_tcvn --upload-drive` |
-| 2 | **[TCVN 13456:2022](https://thuvienphapluat.vn/TCVN/PCCC/TCVN-13456-2022-Phuong-tien-chieu-sang-su-co-va-chi-dan-thoat-nan-920512.aspx)** | Phòng cháy chữa cháy — Phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn — Yêu cầu thiết kế, lắp đặt | MEP / PCCC | 0 | **8.6** | `python -m ccba_legal ingest "TCVN 13456:2022" --category 03_tcvn --upload-drive` |
-| 3 | **[08/2021/TT-BXD](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-08-2021-TT-BXD-huong-dan-chi-phi-lap-quy-che-quan-ly-kien-truc-487612.aspx)** | Thông tư hướng dẫn phương pháp xác định chi phí lập và tổ chức thực hiện quy chế quản lý kiến trúc | Kiến trúc / Dự toán | 0 | **8.6** | `python -m ccba_legal ingest "08/2021/TT-BXD" --category 01_vbpl --upload-drive` |
-| 4 | **[02/2024/TT-BKHĐT](https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-02-2024-TT-BKH-DT-dao-tao-thi-cap-chung-chi-nghiep-vu-chuyen-mon-dau-thau-600312.aspx)** | Thông tư quy định về đào tạo, bồi dưỡng kiến thức và thi, cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu | Đấu thầu | 0 | **8.5** | `python -m ccba_legal ingest "02/2024/TT-BKHĐT" --category 01_vbpl --upload-drive` |
+| 2 | **[02/2024/TT-BKHĐT](https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-02-2024-TT-BKH-DT-dao-tao-thi-cap-chung-chi-nghiep-vu-chuyen-mon-dau-thau-600312.aspx)** | Thông tư quy định về đào tạo, bồi dưỡng kiến thức và thi, cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu | Đấu thầu | 3 | **8.7** | `python -m ccba_legal ingest "02/2024/TT-BKHĐT" --category 01_vbpl --upload-drive` |
+| 3 | **[TCVN 13456:2022](https://thuvienphapluat.vn/TCVN/PCCC/TCVN-13456-2022-Phuong-tien-chieu-sang-su-co-va-chi-dan-thoat-nan-920512.aspx)** | Phòng cháy chữa cháy — Phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn — Yêu cầu thiết kế, lắp đặt | MEP / PCCC | 0 | **8.6** | `python -m ccba_legal ingest "TCVN 13456:2022" --category 03_tcvn --upload-drive` |
+| 4 | **[08/2021/TT-BXD](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-08-2021-TT-BXD-huong-dan-chi-phi-lap-quy-che-quan-ly-kien-truc-487612.aspx)** | Thông tư hướng dẫn phương pháp xác định chi phí lập và tổ chức thực hiện quy chế quản lý kiến trúc | Kiến trúc / Dự toán | 0 | **8.6** | `python -m ccba_legal ingest "08/2021/TT-BXD" --category 01_vbpl --upload-drive` |
 | 5 | **[TCVN 7114-1:2008](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-7114-1-2008-Ecgonomi-Chieu-sang-noi-lam-viec-Phan-1-Trong-nha-901412.aspx)** | Ecgônômi — Chiếu sáng nơi làm việc — Phần 1: Trong nhà | MEP Điện | 0 | **8.5** | `python -m ccba_legal ingest "TCVN 7114-1:2008" --category 03_tcvn --upload-drive` |
 | 6 | **[TCVN 7161-1:2009](https://thuvienphapluat.vn/TCVN/PCCC/TCVN-7161-1-2009-He-thong-chua-chay-bang-khi-901512.aspx)** | Hệ thống chữa cháy bằng khí — Tính chất vật lý và thiết kế hệ thống — Phần 1: Yêu cầu chung | PCCC Khí | 0 | **8.4** | `python -m ccba_legal ingest "TCVN 7161-1:2009" --category 03_tcvn --upload-drive` |
-| 7 | **[QCVN 01:2020/BCT](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-15-2020-TT-BCT-Quy-chuan-ky-thuat-quoc-gia-yeu-cau-thiet-ke-cua-hang-xang-dau-447065.aspx)** | Quy chuẩn kỹ thuật quốc gia về Yêu cầu thiết kế cửa hàng xăng dầu (Ban hành kèm Thông tư 15/2020/TT-BCT) | Chuyên ngành | 23 | **8.4** | `python -m ccba_legal ingest "15/2020/TT-BCT" --category 02_qcvn --upload-drive` |
+| 7 | **[QCVN 01:2020/BCT](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-15-2020-TT-BCT-Quy-chuan-ky-thuat-quoc-gia-yeu-cau-thiet-ke-cua-hang-xang-dau-447065.aspx)** | Quy chuẩn kỹ thuật quốc gia về Yêu cầu thiết kế cửa hàng xăng dầu (Ban hành kèm Thông tư 15/2020/TT-BCT) | Chuyên ngành | 30 | **8.4** | `python -m ccba_legal ingest "15/2020/TT-BCT" --category 02_qcvn --upload-drive` |
 | 8 | **[QCVN 26:2025/BNNMT](https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Thong-tu-01-2025-TT-BNNMT-QCVN-26-2025-QCVN-27-2025-tieng-on-do-rung-652312.aspx)** | Quy chuẩn kỹ thuật quốc gia về Tiếng ồn và Độ rung (Ban hành kèm Thông tư 01/2025/TT-BNNMT) | Môi trường | 0 | **8.2** | `python -m ccba_legal ingest "01/2025/TT-BNNMT" --category 02_qcvn --upload-drive` |
 
 ### 🔵 TIER 4: Địa Kỹ Thuật, Kiểm Định Thi Công & Quản Trị BIM ISO
@@ -140,10 +132,14 @@ graph TD
 | **TCVN ISO 19650-1:2021** | Tổ chức và số hóa thông tin về công trình xây dựng, bao gồm mô hình thông tin công trình (BIM) — Quản lý thông tin bằng BIM: Phần 1: Khái niệm và nguyên tắc | Quản trị BIM | 2021-12-31 | 🟢 `INGESTED` |
 | **TCVN ISO 19650-2:2021** | Tổ chức và số hóa thông tin về công trình xây dựng, bao gồm BIM — Quản lý thông tin bằng BIM: Phần 2: Giai đoạn chuyển giao tài sản | Quản trị BIM | 2021-12-31 | 🟢 `INGESTED` |
 | **40/2019/QH14** | Luật Kiến trúc 2019 | Kiến trúc | 2020-07-01 | 🟢 `INGESTED` |
+| **QCVN 18:2021/BXD** | Quy chuẩn kỹ thuật quốc gia về An toàn trong thi công xây dựng | An toàn thi công | 2022-06-20 | 🟢 `INGESTED` |
 | **115/2024/NĐ-CP** | Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất | Đấu thầu | 2024-09-16 | 🟢 `INGESTED` |
+| **QCVN 16:2023/BXD** | Quy chuẩn kỹ thuật quốc gia về Sản phẩm, hàng hóa vật liệu xây dựng | Vật liệu XD | 2024-01-01 | 🟢 `INGESTED` |
 | **85/2020/NĐ-CP** | Nghị định quy định chi tiết một số điều của Luật Kiến trúc | Kiến trúc | 2020-09-07 | 🟢 `INGESTED` |
 | **214/2025/NĐ-CP** | Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu | Đấu thầu | 2025-08-04 | 🟢 `INGESTED` |
 | **79/2025/TT-BTC** | Thông tư hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu và các mẫu hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia | Đấu thầu | 2025-08-04 | 🟢 `INGESTED` |
+| **23/2024/NĐ-CP** | Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc ngành, lĩnh vực quản lý | Đấu thầu | 2024-02-27 | 🟢 `INGESTED` |
+| **98/2025/TT-BTC** | Thông tư hướng dẫn mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư thực hiện dự án đầu tư theo phương thức đối tác công tư, dự án đầu tư kinh doanh có sử dụng đất | Đấu thầu | 2025-10-27 | 🟢 `INGESTED` |
 
 ---
 

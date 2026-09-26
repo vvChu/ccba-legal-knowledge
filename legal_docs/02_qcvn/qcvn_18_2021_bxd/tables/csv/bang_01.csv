@@ -1,0 +1,7 @@
+﻿Độ cao có thể rơi các vật (m),Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Đối với công trình đang xây dựng hoặc công trình hiện hữu (tính từ đường chu vi ngoài hoặc các hệ thống bao che),"Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Khu vực di chuyển, nâng, hạ tải (tính từ đường chu vi ngoài của hình chiếu bằng theo kích thước lớn nhất của vật nâng)"
+< 20,5,7
+20 ÷ < 70,7,10
+70 ÷ < 120,10,15
+120 ÷ < 200,15,20
+200 ÷ < 300,20,25
+300 ÷ < 450,25,30

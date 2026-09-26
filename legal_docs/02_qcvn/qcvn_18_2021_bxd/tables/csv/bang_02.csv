@@ -1,0 +1,8 @@
+﻿Loại đường ống và áp suất thử nghiệm,Đường kính ống (mm),Bán kính vùng nguy hiểm nhỏ nhất tính từ mép ngoài ống (m)
+1. Ống thép với áp suất thử 1000 kPa,< 300,7
+1. Ống thép với áp suất thử 1000 kPa,300 ÷ 1000,10
+1. Ống thép với áp suất thử 1000 kPa,> 1000,20
+2. Ống gang với áp suất thử 150 kPa,≤ 500,10
+2. Ống gang với áp suất thử 150 kPa,> 500,20
+3. Ống gang với áp suất thử 600 kPa,≤ 500,15
+3. Ống gang với áp suất thử 600 kPa,> 500,25
