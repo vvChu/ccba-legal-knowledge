@@ -69,6 +69,14 @@ QCVN 06:2022/BXD do Viện Khoa học công nghệ xây dựng (Bộ Xây dựng
 
 QCVN 06:2022/BXD thay thế QCVN 06:2021/BXD ban hành kèm theo Thông tư số 02/2021/TT-BXD ngày 19 tháng 5 năm 2021 của Bộ trưởng Bộ Xây dựng.
 
+Sửa đổi 1:2023 QCVN 06:2022/BXD do Viện Khoa học công nghệ xây dựng (Bộ Xây dựng) chủ trì biên soạn, Bộ Xây dựng ban hành kèm theo Thông tư số 09/2023/TT-BXD ngày 10 tháng 10 năm 2023 của Bộ trưởng Bộ Xây dựng (có hiệu lực từ ngày 01 tháng 12 năm 2023). Văn bản này là ấn bản hợp nhất thực chất, tích hợp toàn bộ các sửa đổi, bổ sung và bãi bỏ của Sửa đổi 1:2023.
+
+Sửa đổi 1:2023 QCVN 06:2022/BXD do Viện Khoa học công nghệ xây dựng (Bộ Xây dựng) chủ trì biên soạn, Bộ Xây dựng ban hành kèm theo Thông tư số 09/2023/TT-BXD ngày 10 tháng 10 năm 2023 của Bộ trưởng Bộ Xây dựng (có hiệu lực từ ngày 01 tháng 12 năm 2023). Văn bản này là ấn bản hợp nhất thực chất, tích hợp toàn bộ các sửa đổi, bổ sung và bãi bỏ của Sửa đổi 1:2023.
+
+Sửa đổi 1:2023 QCVN 06:2022/BXD do Viện Khoa học công nghệ xây dựng (Bộ Xây dựng) chủ trì biên soạn, Bộ Xây dựng ban hành kèm theo Thông tư số 09/2023/TT-BXD ngày 10 tháng 10 năm 2023 của Bộ trưởng Bộ Xây dựng (có hiệu lực từ ngày 01 tháng 12 năm 2023). Văn bản này là ấn bản hợp nhất thực chất, tích hợp toàn bộ các sửa đổi, bổ sung và bãi bỏ của Sửa đổi 1:2023.
+
+Sửa đổi 1:2023 QCVN 06:2022/BXD do Viện Khoa học công nghệ xây dựng (Bộ Xây dựng) chủ trì biên soạn, Bộ Xây dựng ban hành kèm theo Thông tư số 09/2023/TT-BXD ngày 10 tháng 10 năm 2023 của Bộ trưởng Bộ Xây dựng (có hiệu lực từ ngày 01 tháng 12 năm 2023). Văn bản này là ấn bản hợp nhất thực chất, tích hợp toàn bộ các sửa đổi, bổ sung và bãi bỏ của Sửa đổi 1:2023.
+
 <a id="muc-1"></a>
 ### 1  QUY ĐỊNH CHUNG
 
@@ -86,16 +94,24 @@ b) Phân loại kỹ thuật về cháy cho vật liệu xây dựng, cấu ki�
 <a id="muc-1-1-2"></a>
 ### 1.1.2  Quy chuẩn này áp dụng đối với các nhà và công trình sau:
 
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+1.1.2 Quy chuẩn này áp dụng đối với các nhà sau:
+
 a) Nhà ở:
+
+_GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Chung cư và nhà ở tập thể có chiều cao PCCC không quá 150 m và không quá 3 tầng hầm;
+
+_GHI CHÚ CHỈ SỐ PHỤ:_
 - **2)** Nhà ở riêng lẻ, nhà ở riêng lẻ có kết hợp mục đích sử dụng khác và nhà ở riêng lẻ được chuyển đổi sang mục đích sử dụng khác có quy mô như sau:
-  - Cao từ 7 tầng trở lên (hoặc có chiều cao PCCC từ 25 m trở lên);
-  - Hoặc có khối tích từ 5 000 m3 trở lên;
-  - Hoặc có nhiều hơn 1 tầng hầm đến 3 tầng hầm.
+  - cao từ 7 tầng trở lên (hoặc có chiều cao PCCC từ 25 m trở lên);
+  - hoặc có khối tích từ 5 000 m3 trở lên;
+  - hoặc có nhiều hơn 1 tầng hầm đến 3 tầng hầm.
 
-_CHÚ THÍCH: Đối với nhà ở riêng lẻ, nhà ở riêng lẻ có kết hợp các mục đích sử dụng khác, nhà ở riêng lẻ được chuyển đổi sang mục đích sử dụng khác có quy mô khác với quy mô đã nêu tại đoạn 2) điểm 1.1.2 thì có thể áp dụng các yêu cầu an toàn cháy nêu trong tiêu chuẩn về nhà ở riêng lẻ, các tài liệu chuẩn khác để thiết kế an toàn cháy và tuân thủ các quy định pháp luật có liên quan._
+CHÚ THÍCH: Đối với nhà ở riêng lẻ, nhà ở riêng lẻ có kết hợp các mục đích sử dụng khác, nhà ở riêng lẻ được chuyển đổi sang mục đích sử dụng khác có quy mô khác với quy mô đã nêu tại đoạn 2) điểm 1.1.2 thì có thể áp dụng các yêu cầu an toàn cháy nêu trong tiêu chuẩn về nhà ở riêng lẻ, các tài liệu chuẩn khác để thiết kế an toàn cháy và tuân thủ các quy định pháp luật có liên quan.
 
-b) Các nhà công cộng có chiều cao PCCC đến 150 m và không quá 3 tầng hầm (trừ các công trình trực tiếp sử dụng làm nơi thờ cúng, tín ngưỡng; các công trình di tích); các loại sân thể thao ngoài trời có khán đài (sân vận động, sân tập luyện, thi đấu thể thao và tương tự);
+b) Các nhà công cộng có chiều cao PCCC đến 150 m và không quá 3 tầng hầm (trừ các công trình trực tiếp sử dụng làm nơi thờ cúng, tín ngưỡng; các công trình di tích); các loại sân thể thao ngoài trời có khán đài;
 
 c) Các nhà sản xuất, nhà kho có chiều cao PCCC đến 50 m và không quá 1 tầng hầm;
 
@@ -107,10 +123,7 @@ f) Các nhà phục vụ nông nghiệp và phát triển nông thôn (trừ nh�
 
 Quy chuẩn này cũng có thể được xem xét áp dụng đối với các nhà không thuộc phạm vi điều chỉnh của quy chuẩn này nếu các yêu cầu trong quy chuẩn này phù hợp với nhà đó.
 
-Nhà có chiều cao PCCC lớn hơn 150 m hoặc có từ 4 tầng hầm trở lên, các nhà có đặc điểm kiến trúc - công năng đặc thù (sau đây gọi là nhà thuộc nhóm đặc thù) phải xây dựng các yêu cầu an toàn cháy bổ sung phù hợp với đặc điểm của nhà đó trên cơ sở các tài liệu chuẩn được áp dụng theo quy định pháp luật.
-
-
-*(Sửa đổi, bổ sung bởi Thông tư 09/2023/TT-BXD, có hiệu lực từ ngày 01/12/2023)*
+Đối với các nhà đứng độc lập (trừ các nhà thuộc nhóm F5 và các nhà đã nêu tại CHÚ THÍCH của đoạn 2) điểm 1.1.2) có chiều cao dưới 7 tầng, chiều cao PCCC dưới 25 m và khối tích dưới 5 000 m3), nếu không thể tuân thủ các quy định của quy chuẩn này thì căn cứ trên công năng cụ thể của nhà cũng có thể áp dụng các tài liệu chuẩn để thiết kế an toàn cháy và tuân thủ các quy định pháp luật có liên quan.
 
 <a id="muc-1-1-3"></a>
 ### 1.1.3  Đối với các nhà thuộc nhóm nguy hiểm cháy theo công năng F1.2. F1.3, F4.2, F4.3 và nhà hỗn hợp có chiều cao PCCC lớn hơn 150 m hoặc có từ 4 tầng hầm trở lên các nhà có các đặc điểm riêng về phòng chống cháy khác với các nhóm nhà trong Bảng 6, thì ngoài việc tuân thủ quy chuẩn này còn phải bổ sung các yêu cầu kỹ thuật và các giải pháp về tổ chức, về kỹ thuật công trình phù hợp với các đặc điểm riêng về phòng chống cháy của các nhà đó, trên cơ sở các tài liệu chuẩn được áp dụng.
@@ -120,24 +133,26 @@ _CHÚ THÍCH: Đối với các nhà có tầng hầm 4, 5 bố trí để xe th
 <a id="muc-1-1-4"></a>
 ### 1.1.4  Quy chuẩn này áp dụng khi xây dựng mới các nhà thuộc phạm vi điều chỉnh nêu tại 1.1.2.
 
-Đối với nhà hiện hữu, khi có cải tạo, sửa chữa thì áp dụng quy chuẩn này đối với phần cải tạo, sửa chữa theo các nguyên tắc sau:
-- Chỉ áp dụng đối với khu vực, bộ phận công trình trực tiếp thực hiện việc cải tạo, sửa chữa.
-- Trường hợp cải tạo, sửa chữa làm tăng quy mô (tăng số tầng, diện tích, chiều cao) hoặc thay đổi công năng chính của khoang cháy, gian phòng thì phải áp dụng quy chuẩn này cho toàn bộ khoang cháy hoặc gian phòng đó.
-- Không yêu cầu cải tạo hồi tố đối với các khu vực, hạng mục nguyên trạng không can thiệp kết cấu hoặc hệ thống PCCC.
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
 
+1.1.4 Quy chuẩn này áp dụng khi xây dựng mới các nhà thuộc phạm vi điều chỉnh của quy chuẩn này; hoặc chỉ áp dụng đối với các bộ phận, khu vực trực tiếp được cải tạo sửa chữa, trong các trường hợp sau:
 
-*(Sửa đổi, bổ sung bởi Thông tư 09/2023/TT-BXD, có hiệu lực từ ngày 01/12/2023)*
+a) Cải tạo, sửa chữa thay đổi công năng của tầng nhà, khoang cháy hoặc nhà dẫn đến nâng cao các yêu cầu an toàn cháy đối với tầng nhà, khoang cháy và nhà;
+
+b) Cải tạo, sửa chữa làm thay đổi các giải pháp thoát nạn của tầng nhà, khoang cháy hoặc nhà theo hướng làm giảm số lượng lối thoát nạn hoặc cầu thang thoát nạn;
+
+c) Cải tạo, sửa chữa làm tăng hạng nguy hiểm cháy và cháy nổ của tầng nhà, khoang cháy hoặc nhà;
+
+d) Cải tạo, sửa chữa tăng quy mô dẫn đến nâng cao các yêu cầu an toàn cháy đối với tầng nhà, khoang cháy và nhà.
+
+Trường hợp nhà, khoang cháy hoặc tầng nhà được cải tạo, sửa chữa không thể đáp ứng các yêu cầu của quy chuẩn này thì áp dụng 1.1.10.
 
 <a id="muc-1-1-5"></a>
 ### 1.1.5  Quy chuẩn này không áp dụng đối với các công trình sau:
 
-- Nhà ở riêng lẻ cao dưới 7 tầng (chiều cao PCCC dưới 25 m), có khối tích dưới 5 000 m3 và không quá 1 tầng hầm;
-- Công trình hầm giao thông; tháp đèn biển;
-- Các công trình quốc phòng, an ninh có yêu cầu đặc biệt về bảo mật và tác chiến;
-- Các công trình dầu khí ngoài khơi, mỏ khoáng sản ngầm.
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
 
-
-*(Sửa đổi, bổ sung bởi Thông tư 09/2023/TT-BXD, có hiệu lực từ ngày 01/12/2023)*
+1.1.5 Quy chuẩn này không áp dụng cho các nhà có công năng đặc biệt như: nhà sản xuất và kho chứa chất nổ, vật liệu nổ; cơ sở sản xuất và chế biến các chất lỏng và chất khí dễ cháy; các công trình hạt nhân; các công trình ngầm; các công trình trên biển; các nhà cao tầng có chiều cao PCCC trên 150 m; các công trình quân sự, an ninh; các trạm kiểm soát không lưu; công trình hầm giao thông; tháp đèn biển; các công trình dầu khí ngoài khơi, mỏ khoáng sản ngầm.
 
 <a id="muc-1-1-6"></a>
 ### 1.1.6  Phần 5 cũng không áp dụng cho các đối tượng sau:
@@ -151,9 +166,9 @@ c) Các hệ thống chữa cháy cho các đám cháy do kim loại, các chấ
 <a id="muc-1-1-7"></a>
 ### 1.1.7  Các yêu cầu về phòng cháy, chống cháy của các tài liệu chuẩn trong xây dựng phải dựa trên yêu cầu của quy chuẩn này.
 
-Cùng với việc áp dụng quy chuẩn này, còn phải tuân theo các yêu cầu phòng cháy chữa cháy quy định cụ thể hơn trong các tài liệu chuẩn khác được quy định áp dụng cho từng đối tượng nhà và công trình. Khi chưa có các tài liệu chuẩn quy định cụ thể theo các yêu cầu của quy chuẩn này thì vẫn cho phép sử dụng các quy định cụ thể trong các tiêu chuẩn hiện hành cho đến Khi các tiêu chuẩn đó được soát xét lại, cũng như cho phép sử dụng các tiêu chuẩn hiện hành của nước ngoài trên nguyên tắc bảo đảm yêu cầu của quy chuẩn này và các quy định pháp luật của Việt Nam về phòng cháy, chữa cháy cùng các quy định về áp dụng tiêu chuẩn của nước ngoài trong hoạt động xây dựng ở Việt Nam.
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
 
-Trong các tài liệu chuẩn hiện hành có liên quan về phòng cháy, chống cháy cho nhà và công trình mà có các quy định, yêu cầu kỹ thuật cụ thể kém an toàn hơn quy định của quy chuẩn này thì áp dụng quy chuẩn này.
+1.1.7 Cho phép sử dụng các tài liệu chuẩn của nước ngoài trên cơ sở bảo đảm nguyên tắc quy định tại 1.5 của quy chuẩn này và các quy định pháp luật của Việt Nam về phòng cháy, chữa cháy cùng các quy định về áp dụng tiêu chuẩn của nước ngoài trong hoạt động xây dựng ở Việt Nam.
 
 <a id="muc-1-1-8"></a>
 ### 1.1.8  Các tài liệu thiết kế về an toàn cháy và tài liệu kỹ thuật về an toàn cháy của nhà, kết cấu cấu kiện và vật liệu xây dựng phải nêu rõ các đặc tính kỹ thuật về cháy của chúng theo quy định của quy chuẩn này.
@@ -164,14 +179,16 @@ Trong các tài liệu chuẩn hiện hành có liên quan về phòng cháy, ch
 <a id="muc-1-1-10"></a>
 ### 1.1.10  Trong một số trường hợp riêng biệt, có thể xem xét thay thế một số yêu cầu của quy chuẩn này đối với công trình cụ thể khi có luận chứng kỹ thuật gửi Bộ Xây dựng nêu rõ các giải pháp bổ sung, thay thế và cơ sở của những giải pháp này để bảo đảm an toàn cháy cho công trình Luận chứng này phải được Bộ Xây dựng cho ý kiến thống nhất và hồ sơ thiết kế xây dựng phải được cơ quan Cảnh sát PCCC và CNCH có thẩm quyền thẩm duyệt theo quy định pháp luật về phòng cháy chữa cháy.
 
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+1.1.10 Trong một số trường hợp riêng biệt, có thể xem xét bổ sung, thay thế một số yêu cầu của quy chuẩn này đối với công trình cụ thể bằng các yêu cầu an toàn cháy phù hợp khác theo tài liệu chuẩn hoặc có luận chứng kỹ thuật phù hợp.
 
 <a id="muc-1-1-11"></a>
 ### 1.1.11  Quy chuẩn kỹ thuật địa phương
 
-Trường hợp địa phương ban hành quy chuẩn kỹ thuật địa phương về an toàn cháy cho nhà và công trình thì áp dụng quy chuẩn kỹ thuật địa phương đó, bảo đảm không thấp hơn các yêu cầu quy định tại quy chuẩn này.
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
 
-
-*(Sửa đổi, bổ sung bởi Thông tư 09/2023/TT-BXD, có hiệu lực từ ngày 01/12/2023)*
+1.1.11 Các địa phương được ban hành quy chuẩn kỹ thuật địa phương để thay thế, sửa đổi hoặc bổ sung một số quy định tại các phần 3, 4, 5, 6 và các phụ lục của quy chuẩn này cho phù hợp với điều kiện đặc thù của địa phương, trên cơ sở tuân thủ quy định pháp luật về tiêu chuẩn, quy chuẩn kỹ thuật và pháp luật về phòng cháy chữa cháy.
 
 <a id="muc-1-2"></a>
 ### 1.2  Đối tượng áp dụng
@@ -181,8 +198,9 @@ Quy chuẩn này áp dụng đối với các tổ chức, cá nhân có liên q
 <a id="muc-1-3"></a>
 ### 1.3  Tài liệu viện dẫn
 
-> [!CAUTION]
-> **[BÃI BỎ]**: Điểm 1.3 về Tài liệu viện dẫn đã được bãi bỏ theo quy định tại Sửa đổi 1:2023 QCVN 06:2022/BXD (ban hành kèm theo Thông tư số 09/2023/TT-BXD ngày 10 tháng 10 năm 2023 của Bộ trưởng Bộ Xây dựng, có hiệu lực từ ngày 01/12/2023). Việc áp dụng các tiêu chuẩn, quy chuẩn viện dẫn thực hiện theo nguyên tắc phiên bản mới nhất và quy định pháp luật hiện hành.
+> *[Bãi bỏ bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023)]*
+
+*(Nội dung điểm 1.3 đã được bãi bỏ theo quy định tại Thông tư số 09/2023/TT-BXD ngày 10/10/2023)*
 
 <a id="muc-1-4"></a>
 ### 1.4  Giải thích từ ngữ
@@ -295,10 +313,9 @@ Không gian bên trong nhà có công năng nhất định và được giới h
 <a id="muc-1-4-21a"></a>
 #### 1.4.21a  Gian phòng chung
 
-Gian phòng phục vụ cho các sinh hoạt chung của người sử dụng trong nhà (như sảnh, phòng giải lao, phòng chờ, phòng ăn chung, phòng sinh hoạt cộng đồng).
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
 
-
-*(Sửa đổi, bổ sung bởi Thông tư 09/2023/TT-BXD, có hiệu lực từ ngày 01/12/2023)*
+Gian phòng có diện tích không quá 300 m2 trong các nhà nhóm F1.1, F1.2, F2, F3, F4, được bố trí tại các tầng nổi, có từ 2 lối ra vào hành lang bên hoặc lối ra ngoài trời và được ngăn cách với các khu vực khác của tầng nhà bằng các vách ngăn cháy loại 1 và cửa ngăn cháy loại 2 có cơ cấu tự đóng.
 
 <a id="muc-1-4-22" name="muc-1-4-22"></a>1.4.22  Gian phòng có người làm việc thường xuyên
 
@@ -1709,13 +1726,13 @@ Khi bố trí các buồng thang bộ loại L2, còn phải bảo đảm yêu c
 <a id="muc-3-4-1-3"></a>
 ### 3.4.1.3  Trong các nhà có chiều cao PCCC lớn hơn 28 m (trừ các nhà nhóm F5 hạng C, E không có người làm việc thường xuyên), cũng như trong các nhà nhóm F5 hạng A hoặc B phải bố trí buồng thang bộ không nhiễm khói, trong đó phải bố trí buồng thang loại N1.
 
-Trong các nhà có nhiều công năng, các buồng thang bộ nối giữa các phần nhà có nhóm nguy hiểm cháy theo công năng khác nhau phải là buồng thang bộ không nhiễm khói phù hợp với các yêu cầu của điều này, trừ các trường hợp được quy định riêng.
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
 
-_CHÚ THÍCH: Buồng thang bộ N1 có thể được thay thế như đã nêu tại 2.5.1c) của với điều kiện hệ thống cung cấp không khí bên ngoài vào khoang đệm và vào buồng thang phải được cấp điện ưu tiên từ hai nguồn độc lập (1 nguồn điện lưới và 1 nguồn máy phát điện dự phòng) bảo đảm nguyên tắc duy trì liên tục nguồn điện cấp cho hệ thống hoạt động ổn định khi có cháy xảy ra._
+3.4.13 Trong các nhà có chiều cao PCCC lớn hơn 28 m (trừ các nhà nhóm F5 hạng C, E không có người làm việc thường xuyên), cũng như trong các nhà nhóm F5 hạng A hoặc B phải bố trí buồng thang bộ không nhiễm khói, trong đó phải bố trí buồng thang loại N1.
+
+_CHÚ THÍCH: Buồng thang bộ N1 có thể được thay thế như đã nêu tại 2.4.3.3 với điều kiện hệ thống cung cấp không khí bên ngoài vào khoang đệm và vào buồng thang phải được cấp điện ưu tiên từ hai nguồn độc lập (1 nguồn điện lưới và 1 nguồn máy phát điện dự phòng) bảo đảm nguyên tắc duy trì liên tục nguồn điện cấp cho hệ thống hoạt động ổn định khi có cháy xảy ra._
 
 Cho phép:
-
-a) Trong các nhà nhóm F1, F2, F3, F4 bố trí không quá 50 % buồng thang bộ loại N3 hoặc loại N2 có lối vào buồng thang đi qua khoang đệm với giải pháp bao che giống như khoang đệm ngăn cháy loại 1 (nghĩa là không yêu cầu có áp suất không khí dương trong khoang đệm này, nhưng các bộ phận bao che phải có giới hạn chịu lửa tương tự như khoang đệm ngăn cháy loại 1);
 
 b) Khi nhà có từ hai tầng hầm trở lên, việc thoát nạn từ các tầng hầm này có thể theo các buồng thang bộ loại N3, hoặc loại N2 có lối vào buồng thang đi qua khoang đệm với giải pháp bao che giống như khoang đệm ngăn cháy loại 1;
 
@@ -1960,7 +1977,11 @@ Cho phép không chia cắt các tường ngoài nếu tường ngoài có cấp
 Tường ngăn cháy loại 2 và vách ngăn cháy loại 1, nếu có giao với tường ngoài thì phải tiếp giáp với dài ngăn cháy theo phương đứng, có bề rộng không nhỏ hơn 1 m, có giới hạn chịu lửa quy định cho tường ngoài theo Bảng 4 hoặc Bảng A.1 tùy chiều cao nhà. Vách ngăn cháy loại 2 phải tiếp xúc với dải tường ngoài đặc theo phương đứng, có bề rộng không nhỏ hơn 1 m, có giới hạn chịu lửa quy định cho tường ngoài theo Bảng 4 hoặc Bảng A.1 tùy chiều cao nhà.
 
 <a id="muc-4-3-2-2"></a>
-### 4.3.2.2  Cho phép không áp dụng các quy định tại 4.3.2.1 nếu thỏa mãn các điều kiện nêu tại CHÚ THÍCH 6 (Bảng 4) hoặc CHÚ THÍCH 2 (Bảng A.1) tùy vào chiều cao nhà.
+### 4.3.2.2  Miễn áp dụng quy định khoảng cách khi có chữa cháy tự động
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+4.3.2.2 Cho phép không áp dụng các quy định tại 4.3.2.1 nếu nhà được trang bị chữa cháy tự động.
 
 <a id="muc-4-3-3"></a>
 ### 4.3.3  Ngăn chặn cháy lan theo phương đứng của mặt ngoài nhà
@@ -1985,10 +2006,18 @@ _CHÚ THÍCH:_
 ### 4.3.3.2  Giới hạn chịu lửa của các cấu kiện của tường ngoài có lắp kính lấy sáng cũng phải bảo đảm yêu cầu như đối với các tường ngoài không chịu lực và quy định tại 4.3.2, 4.3.3.
 
 <a id="muc-4-3-3-3"></a>
-### 4.3.3.3  Khi một phần tường ngoài của nhà nối tiếp với một phần khác của tường, tạo thành một góc nhỏ hơn 135° và khoảng cách theo phương nằm ngang giữa các mép gần nhất của các lỗ mở ở tường ngoài theo các hướng khác nhau của định góc, nhỏ hơn 4 m, thì trên phần tương ứng của tường, các lỗ mở phải có các cửa ngăn cháy có giới hạn chịu lửa không nhỏ hơn E 30 hoặc có hệ thống phun nước.
+### 4.3.3.3  Lỗ mở tường ngoài góc hẹp
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+4.3.3.3 Khi một phần tường ngoài của nhà nối tiếp với một phần khác của tường, tạo thành một góc nhỏ hơn 135° và khoảng cách theo phương nằm ngang giữa các mép gần nhất của các lỗ mở ở tường ngoài theo các hướng khác nhau của định góc, nhỏ hơn 4 m, thì trên phần tương ứng của tường, các lỗ mở phải có các cửa ngăn cháy có giới hạn chịu lửa không nhỏ hơn E 30 hoặc có hệ thống phun nước như quy định tại đoạn c) điểm 4.3.3.1.
 
 <a id="muc-4-3-3-4"></a>
-### 4.3.3.4  Cho phép không áp dụng các quy định tại 4.3.3.1 đến 4.3.3.3 đối với nhà từ ba tầng trở xuống hoặc chiều cao PCCC dưới 15 m, ga ra để xe nổi dạng hở, hoặc nhà thỏa mãn đồng thời các điều kiện nêu tại CHÚ THÍCH 6 (Bảng 4) hoặc CHÚ THÍCH 2 (Bảng A.1) tùy chiều cao nhà.
+### 4.3.3.4  Miễn áp dụng quy định đối với tường ngoài
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+4.3.3.4 Cho phép không áp dụng các quy định tại 4.3.3 đối với nhà từ ba tầng trở xuống hoặc có chiều cao PCCC dưới 15 m, ga ra để xe nổi dạng hở, hoặc nhà được trang bị chữa cháy tự động.
 
 <a id="muc-4-3-4"></a>
 ### 4.3.4  Ngăn chặn cháy lan giữa các nhà
@@ -2162,21 +2191,19 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 
 ### <a id="bang-10" name="bang-10"></a>Bảng 10 - Lưu lượng nước cho chữa cháy ngoài nhà cho nhà nhóm F5 không có lỗ mở trên mái có chiều rộng trên 60 m
 
-> [!NOTE]
-> **Sửa đổi, bổ sung Bảng 10 như sau: (Thông tư số 09/2023/TT-BXD):**
-> Bảng 10 - Lưu lượng nước cho chữa cháy ngoài nhà cho nhà nhóm F5 không có lỗ mở trên mái có chiều rộng trên 60 m
->
-> | Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | ≤ 50 | > 50 và ≤ 100 | > 100 và ≤ 200 | > 200 và ≤ 300 | > 300 và ≤ 400 | > 400 và ≤ 500 | > 500 và ≤ 600 | > 600 và ≤ 700 | > 700 |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | I và II | S0, S1 | A, B, C | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 |
-> | I và II | S0 | D, E | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 |
-> | III | S0, S1 | A, B, C | 40 | 50 | 60 | 60 | 70 | 80 | 90 | 100 | 110 |
-> | III | S0, S1 | D, E | 20 | 35 | 40 | 40 | 45 | 45 | 50 | 50 | 60 |
-> | IV | S0, S1 | A, B, C | 50 | 60 | 65 | 70 | 80 | 90 | - | - | - |
-> | IV | S0, S1 | D, E | 35 | 45 | 55 | 60 | 65 | 70 | 75 | 80 | 90 |
-> | IV | S2, S3 | E | 40 | 50 | 60 | - | - | - | - | - | - |
->
-> _CHÚ THÍCH: Lỗ mở trên mái là các lỗ mở để thông gió hoặc lấy sáng đặt trên kết cấu mái của nhà (nóc gió (cửa trời); lỗ thường xuyên mở; lỗ mở khi có chảy; ô kính; tấm lợp lấy sáng, hoặc các lỗ mở tương tự) có diện tích không nhỏ hơn 2,5 % diện tích xây dựng của nhà đó._
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+| Bậc chịu lửa của nhà | Cấp nguy hiểm cháy kết cấu của nhà | Hạng nguy hiểm cháy và cháy nổ của nhà | ≤ 50 | > 50 và ≤ 100 | > 100 và ≤ 200 | > 200 và ≤ 300 | > 300 và ≤ 400 | > 400 và ≤ 500 | > 500 và ≤ 600 | > 600 và ≤ 700 | > 700 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| I và II | S0, S1 | A, B, C | 20 | 30 | 40 | 50 | 60 | 70 | 80 | 90 | 100 |
+| I và II | S0 | D, E | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 |
+| III | S0, S1 | A, B, C | 40 | 50 | 60 | 60 | 70 | 80 | 90 | 100 | 110 |
+| III | S0, S1 | D, E | 20 | 35 | 40 | 40 | 45 | 45 | 50 | 50 | 60 |
+| IV | S0, S1 | A, B, C | 50 | 60 | 65 | 70 | 80 | 90 | - | - | - |
+| IV | S0, S1 | D, E | 35 | 45 | 55 | 60 | 65 | 70 | 75 | 80 | 90 |
+| IV | S2, S3 | E | 40 | 50 | 60 | - | - | - | - | - | - |
+
+_CHÚ THÍCH: Lỗ mở trên mái là các lỗ mở để thông gió hoặc lấy sáng đặt trên kết cấu mái của nhà (nóc gió (cửa trời); lỗ thường xuyên mở; lỗ mở khi có cháy; ô kính; tấm lợp lấy sáng, hoặc các lỗ mở tương tự) có diện tích không nhỏ hơn 2,5 % diện tích xây dựng của nhà đó._
 
 ### 5.1.2.4  Lưu lượng nước cho chữa cháy ngoài nhà cho nhà được ngăn chia bằng tường ngăn cháy thì lấy theo phần của nhà, nơi yêu cầu lưu lượng lớn nhất.
 
@@ -2852,7 +2879,11 @@ Tại khu vực chênh lệch độ cao của mái hơn 10 m, nếu mỗi một 
 Các thang chữa cháy phải được làm bằng vật liệu không cháy, đặt ở nơi dễ thấy và cách xa cửa sổ không dưới 1,0 m. Chiều rộng thang 0,7 m. Đối với thang loại P1, từ độ cao 10 m trở lên phải có cung tròn bảo hiểm bán kính 0,35 m, tâm của cung tròn cách thang 0,45 m. Các cung tròn phải được đặt cách nhau 0,7 m, ở nơi ra mái phải đặt chiếu tới có lan can cao ít nhất 0,6 m. Đối với thang P2 phải có tay vịn và có chiếu nghỉ đặt cách nhau không quá 8 m.
 
 <a id="muc-6-1-2"></a>
-### 6.1.2  Giữa các bản thang và giữa các lan can tay vịn của bản thang phải có khe hở với chiều rộng thông thủy chiếu trên mặt bằng không nhỏ hơn 100 mm.
+### 6.12  Khe hở giữa các bản thang và lan can
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+6.12 Giữa các bản thang và giữa các lan can tay vịn của bản thang phải có khe hở với chiều rộng thông thủy chiếu trên mặt bằng không nhỏ hơn 75 mm. Trường hợp không thể bảo đảm yêu cầu này thì tại mỗi tầng cần bố trí ít nhất một họng khô để cấp nước chữa cháy cho tầng đó. Không yêu cầu khe hở vế thang đối với cầu thang loại 3.
 
 <a id="muc-6-13"></a>
 ### 6.13  Mỗi khoang cháy của các nhà có chiều cao PCCC lớn hơn 28 m (lớn hơn 50 m đối với nhà nhóm F1.3), hoặc nhà có chiều sâu của sàn tầng hầm dưới cùng (tính đến cao độ của lối ra thoát nạn ra ngoài) lớn hơn 9 m phải có tối thiểu một thang máy chữa cháy.
@@ -2967,7 +2998,11 @@ Sảnh thang máy chữa cháy là một khoang đệm bảo đảm tất cả c
 ### 7.3  Các cơ quan quản lý Nhà nước về phòng cháy chữa cháy và về xây dựng ở Trung ương và địa phương có trách nhiệm tổ chức kiểm tra sự tuân thủ quy chuẩn này trong lập, thẩm định, phê duyệt và quản lý xây dựng nhà và công trình trên địa bàn theo quy định của pháp luật.
 
 <a id="muc-7-4"></a>
-### 7.4  Các cơ quan quản lý Nhà nước có thẩm quyền về phòng cháy chữa cháy và về xây dựng tại các địa phương có trách nhiệm phối hợp ban hành quy định liên quan đến các thông số kỹ thuật để thiết kế, cấu tạo đường cho xe chữa cháy và bãi đỗ xe chữa cháy phù hợp với các đặc điểm của phương tiện chữa cháy tại địa phương.
+### 7.4  Phối hợp ban hành thông số kỹ thuật địa phương
+
+> *[Bãi bỏ bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023)]*
+
+*(Nội dung điểm 7.4 đã được bãi bỏ theo quy định tại Thông tư số 09/2023/TT-BXD ngày 10/10/2023)*
 
 <a id="muc-7-5"></a>
 ### 7.5  Trong quá trình triển khai thực hiện quy chuẩn này, nếu có vướng mắc, mọi ý kiến gửi về Vụ Khoa học công nghệ và môi trường - Bộ Xây dựng để được hướng dẫn, xử lý.
