@@ -86,9 +86,14 @@ b) Phân loại kỹ thuật về cháy cho vật liệu xây dựng, cấu ki�
 <a id="muc-1-1-2"></a>
 ### 1.1.2  Quy chuẩn này áp dụng đối với các nhà và công trình sau:
 
-a) Nhà ở: chung cư và nhà ở tập thể có chiều cao PCCC đến 150 m và không quá 3 tầng hầm; nhà ở riêng lẻ có chiều cao từ 7 tầng trở lên hoặc có nhiều hơn 1 tầng hầm đến 3 tầng hầm, nhà ở riêng lẻ kết hợp sản xuất, kinh doanh với diện tích sàn dành cho mục đích sản xuất, kinh doanh chiếm trên 30% tổng diện tích sàn;
+a) Nhà ở:
+- **1)** Chung cư và nhà ở tập thể có chiều cao PCCC không quá 150 m và không quá 3 tầng hầm;
+- **2)** Nhà ở riêng lẻ, nhà ở riêng lẻ có kết hợp mục đích sử dụng khác và nhà ở riêng lẻ được chuyển đổi sang mục đích sử dụng khác có quy mô như sau:
+  - Cao từ 7 tầng trở lên (hoặc có chiều cao PCCC từ 25 m trở lên);
+  - Hoặc có khối tích từ 5 000 m3 trở lên;
+  - Hoặc có nhiều hơn 1 tầng hầm đến 3 tầng hầm.
 
-_CHÚ THÍCH: Trường hợp chuyển đổi nhà ở riêng lẻ sang mục đích khác thì phải tuân thủ theo quy định của quy chuẩn này và các quy định pháp luật hiện hành có liên quan_
+_CHÚ THÍCH: Đối với nhà ở riêng lẻ, nhà ở riêng lẻ có kết hợp các mục đích sử dụng khác, nhà ở riêng lẻ được chuyển đổi sang mục đích sử dụng khác có quy mô khác với quy mô đã nêu tại đoạn 2) điểm 1.1.2 thì có thể áp dụng các yêu cầu an toàn cháy nêu trong tiêu chuẩn về nhà ở riêng lẻ, các tài liệu chuẩn khác để thiết kế an toàn cháy và tuân thủ các quy định pháp luật có liên quan._
 
 b) Các nhà công cộng có chiều cao PCCC đến 150 m và không quá 3 tầng hầm (trừ các công trình trực tiếp sử dụng làm nơi thờ cúng, tín ngưỡng; các công trình di tích); các loại sân thể thao ngoài trời có khán đài (sân vận động, sân tập luyện, thi đấu thể thao và tương tự);
 
@@ -100,7 +105,12 @@ e) Các nhà phục vụ giao thông vận tải có chiều cao PCCC đến 50 
 
 f) Các nhà phục vụ nông nghiệp và phát triển nông thôn (trừ nhà ươm, nhà kính trồng cây và tương tự).
 
-_CHÚ THÍCH: Phân loại công trình theo quy định pháp luật liên quan. Các công trình cụ thể nêu tại 1.1.2 xem Bảng 6._
+Quy chuẩn này cũng có thể được xem xét áp dụng đối với các nhà không thuộc phạm vi điều chỉnh của quy chuẩn này nếu các yêu cầu trong quy chuẩn này phù hợp với nhà đó.
+
+Nhà có chiều cao PCCC lớn hơn 150 m hoặc có từ 4 tầng hầm trở lên, các nhà có đặc điểm kiến trúc - công năng đặc thù (sau đây gọi là nhà thuộc nhóm đặc thù) phải xây dựng các yêu cầu an toàn cháy bổ sung phù hợp với đặc điểm của nhà đó trên cơ sở các tài liệu chuẩn được áp dụng theo quy định pháp luật.
+
+
+*(Sửa đổi, bổ sung bởi Thông tư 09/2023/TT-BXD, có hiệu lực từ ngày 01/12/2023)*
 
 <a id="muc-1-1-3"></a>
 ### 1.1.3  Đối với các nhà thuộc nhóm nguy hiểm cháy theo công năng F1.2. F1.3, F4.2, F4.3 và nhà hỗn hợp có chiều cao PCCC lớn hơn 150 m hoặc có từ 4 tầng hầm trở lên các nhà có các đặc điểm riêng về phòng chống cháy khác với các nhóm nhà trong Bảng 6, thì ngoài việc tuân thủ quy chuẩn này còn phải bổ sung các yêu cầu kỹ thuật và các giải pháp về tổ chức, về kỹ thuật công trình phù hợp với các đặc điểm riêng về phòng chống cháy của các nhà đó, trên cơ sở các tài liệu chuẩn được áp dụng.
@@ -108,24 +118,26 @@ _CHÚ THÍCH: Phân loại công trình theo quy định pháp luật liên quan
 _CHÚ THÍCH: Đối với các nhà có tầng hầm 4, 5 bố trí để xe thì ngoài việc áp dụng quy chuẩn này phải áp dụng bổ sung quy chuẩn liên quan đến gara ngầm._
 
 <a id="muc-1-1-4"></a>
-### 1.1.4  Quy chuẩn này áp dụng khi xây dựng mới các nhà và công trình nêu tại 1.1.2, hoặc trong phạm vi những thay đổi sau:
+### 1.1.4  Quy chuẩn này áp dụng khi xây dựng mới các nhà thuộc phạm vi điều chỉnh nêu tại 1.1.2.
 
-a) Cải tạo, sửa chữa làm thay đổi công năng của gian phòng, khoang cháy hoặc nhà;
+Đối với nhà hiện hữu, khi có cải tạo, sửa chữa thì áp dụng quy chuẩn này đối với phần cải tạo, sửa chữa theo các nguyên tắc sau:
+- Chỉ áp dụng đối với khu vực, bộ phận công trình trực tiếp thực hiện việc cải tạo, sửa chữa.
+- Trường hợp cải tạo, sửa chữa làm tăng quy mô (tăng số tầng, diện tích, chiều cao) hoặc thay đổi công năng chính của khoang cháy, gian phòng thì phải áp dụng quy chuẩn này cho toàn bộ khoang cháy hoặc gian phòng đó.
+- Không yêu cầu cải tạo hồi tố đối với các khu vực, hạng mục nguyên trạng không can thiệp kết cấu hoặc hệ thống PCCC.
 
-b) Cải tạo, sửa chữa làm thay đổi các giải pháp thoát nạn của gian phòng, khoang cháy hoặc nhà;
 
-c) Cải tạo, sửa chữa làm tăng tính nguy hiểm cháy của vật liệu xây dựng, hoặc làm giảm giới hạn chịu lửa của kết cấu, cấu kiện;
-
-d) Cải tạo, sửa chữa làm thay đổi hạng nguy hiểm cháy và cháy nổ của gian phòng, khoang cháy và nhà theo hướng tăng tính nguy hiểm cháy;
-
-e) Cải tạo, sửa chữa làm nâng cao các yêu cầu an toàn cháy đối với gian phòng, khoang cháy và nhà;
-
-f) Cải tạo, sửa chữa hệ thống bảo vệ chống cháy của gian phòng khoang cháy và nhà;
-
-g) Các trường hợp cải tạo, sửa chữa khác theo hướng dẫn của cơ quan Cảnh sát Phòng cháy chữa cháy và Cứu nạn cứu hộ (Cảnh sát PCCC và CNCH) có thẩm quyền.
+*(Sửa đổi, bổ sung bởi Thông tư 09/2023/TT-BXD, có hiệu lực từ ngày 01/12/2023)*
 
 <a id="muc-1-1-5"></a>
-### 1.1.5  Các phần 2, 3, 4, 5 và 6 không áp dụng cho các nhà có công năng đặc biệt (các nhà và công trình thuộc dây chuyền công nghệ của các cơ sở năng lượng: nhà máy thủy điện, nhiệt điện, điện nguyên tử; điện gió, điện mặt trời, điện địa nhiệt, điện thủy triều, điện rác, điện sinh khối; điện khí blogas; điện đồng phát, tháp kiểm soát không lưu, nhà sản xuất hoặc bảo quản các chất và vật liệu nổ; các kho chứa dầu mỏ và sản phẩm dầu mỏ, khí đốt tự nhiên, các loại khí dễ cháy, cũng như các chất tự cháy; cửa hàng kinh doanh xăng dầu, chất lỏng dễ cháy, khí đốt; nhà sản xuất hoặc kho hóa chất độc hại; công trình quốc phòng, an ninh; phần ngầm của công trình tàu điện ngầm; công trình hầm mỏ, và các nhà có đặc điểm tương tự).
+### 1.1.5  Quy chuẩn này không áp dụng đối với các công trình sau:
+
+- Nhà ở riêng lẻ cao dưới 7 tầng (chiều cao PCCC dưới 25 m), có khối tích dưới 5 000 m3 và không quá 1 tầng hầm;
+- Công trình hầm giao thông; tháp đèn biển;
+- Các công trình quốc phòng, an ninh có yêu cầu đặc biệt về bảo mật và tác chiến;
+- Các công trình dầu khí ngoài khơi, mỏ khoáng sản ngầm.
+
+
+*(Sửa đổi, bổ sung bởi Thông tư 09/2023/TT-BXD, có hiệu lực từ ngày 01/12/2023)*
 
 <a id="muc-1-1-6"></a>
 ### 1.1.6  Phần 5 cũng không áp dụng cho các đối tượng sau:
@@ -152,6 +164,15 @@ Trong các tài liệu chuẩn hiện hành có liên quan về phòng cháy, ch
 <a id="muc-1-1-10"></a>
 ### 1.1.10  Trong một số trường hợp riêng biệt, có thể xem xét thay thế một số yêu cầu của quy chuẩn này đối với công trình cụ thể khi có luận chứng kỹ thuật gửi Bộ Xây dựng nêu rõ các giải pháp bổ sung, thay thế và cơ sở của những giải pháp này để bảo đảm an toàn cháy cho công trình Luận chứng này phải được Bộ Xây dựng cho ý kiến thống nhất và hồ sơ thiết kế xây dựng phải được cơ quan Cảnh sát PCCC và CNCH có thẩm quyền thẩm duyệt theo quy định pháp luật về phòng cháy chữa cháy.
 
+
+<a id="muc-1-1-11"></a>
+### 1.1.11  Quy chuẩn kỹ thuật địa phương
+
+Trường hợp địa phương ban hành quy chuẩn kỹ thuật địa phương về an toàn cháy cho nhà và công trình thì áp dụng quy chuẩn kỹ thuật địa phương đó, bảo đảm không thấp hơn các yêu cầu quy định tại quy chuẩn này.
+
+
+*(Sửa đổi, bổ sung bởi Thông tư 09/2023/TT-BXD, có hiệu lực từ ngày 01/12/2023)*
+
 <a id="muc-1-2"></a>
 ### 1.2  Đối tượng áp dụng
 
@@ -160,39 +181,8 @@ Quy chuẩn này áp dụng đối với các tổ chức, cá nhân có liên q
 <a id="muc-1-3"></a>
 ### 1.3  Tài liệu viện dẫn
 
-Các tài liệu viện dẫn sau là cần thiết cho việc áp dụng quy chuẩn này. Trường hợp các tài liệu viện dẫn được sửa đổi, bổ sung hoặc thay thế thì áp dụng phiên bản mới nhất.
-
-QCVN 17:2018/BXD, Quy chuẩn kỹ thuật quốc gia về Xây dựng và lắp đặt phương tiện quảng cáo ngoài trời.
-
-TCVN 3890, Phương tiện phòng cháy và chữa cháy cho nhà và công trình - Trang bị, bố trí, kiểm tra, bảo dưỡng.
-
-TCVN 5738, Phòng cháy chữa cháy - Hệ thống báo cháy - Yêu cầu kỹ thuật.
-
-TCVN 7336, Phòng cháy chữa cháy - Hệ thống chữa cháy tự động bằng nước, bọt - Yêu cầu thiết kế và lắp đặt.
-
-TCVN 9310-4, Phòng cháy chữa cháy - Từ vựng- Phần 4: Phương tiện chữa cháy.
-
-TCVN 9310-8, Phòng cháy chữa cháy - Từ vựng - Phần 8: Thuật ngữ chuyên dùng cho chữa cháy, cứu nạn và xử lý vật liệu nguy hiểm.
-
-TCVN 9311-1, Thử nghiệm chịu lửa - Các bộ phận kết cấu của tòa nhà - Phần 1: Yêu cầu chung.
-
-TCVN 9311-3, Thử nghiệm chịu lửa các bộ phận kết cấu toà nhà - Phần 3: Chỉ dẫn về phương pháp thử và áp dụng số liệu thử nghiệm.
-
-TCVN 9311-4, Thử nghiệm chịu lửa các bộ phận kết cấu toà nhà - Phần 4: Các yêu cầu riêng đối với bộ phận ngăn cách đứng chịu tải.
-
-TCVN 9311-5, Thử nghiệm chịu lửa các bộ phận kết cấu toà nhà - Phần 5: Các yêu cầu riêng đối với bộ phận ngăn cách nằm ngang chịu tải.
-
-TCVN 9311-6, Thử nghiệm chịu lửa các bộ phận kết cấu toà nhà - Phần 6: Các yêu cầu riêng đối với dầm.
-
-TCVN 9311-7, Thử nghiệm chịu lửa các bộ phận kết cấu toà nhà - Phần 7: Các yêu cầu riêng đối với cột.
-
-TCVN 9311-8, Thử nghiệm chịu lửa các bộ phận kết cấu toà nhà - Phần 8: Các yêu cầu riêng đối với bộ phận ngăn cách đứng không chịu tải.
-
-TCVN 9383, Thử nghiệm khả năng chịu lửa - Cửa đi và cửa chắn ngăn cháy.
-
-TCVN 12695, Thử nghiệm phản ứng với lửa cho các sản phẩm xây dựng - Phương pháp thử tính không cháy.
-
-TCVN 13456, Phòng cháy chữa cháy - Phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn - Yêu cầu thiết kế, lắp đặt
+> [!CAUTION]
+> **[BÃI BỎ]**: Điểm 1.3 về Tài liệu viện dẫn đã được bãi bỏ theo quy định tại Sửa đổi 1:2023 QCVN 06:2022/BXD (ban hành kèm theo Thông tư số 09/2023/TT-BXD ngày 10 tháng 10 năm 2023 của Bộ trưởng Bộ Xây dựng, có hiệu lực từ ngày 01/12/2023). Việc áp dụng các tiêu chuẩn, quy chuẩn viện dẫn thực hiện theo nguyên tắc phiên bản mới nhất và quy định pháp luật hiện hành.
 
 <a id="muc-1-4"></a>
 ### 1.4  Giải thích từ ngữ
@@ -301,7 +291,16 @@ Gian phòng bố trí các thiết bị kỹ thuật của tòa nhà hoặc tầ
 
 Không gian bên trong nhà có công năng nhất định và được giới hạn bởi các kết cấu xây dựng.
 
-#### <a id="muc-1-4-22" name="muc-1-4-22"></a>1.4.22  Gian phòng có người làm việc thường xuyên
+#### 
+<a id="muc-1-4-21a"></a>
+#### 1.4.21a  Gian phòng chung
+
+Gian phòng phục vụ cho các sinh hoạt chung của người sử dụng trong nhà (như sảnh, phòng giải lao, phòng chờ, phòng ăn chung, phòng sinh hoạt cộng đồng).
+
+
+*(Sửa đổi, bổ sung bởi Thông tư 09/2023/TT-BXD, có hiệu lực từ ngày 01/12/2023)*
+
+<a id="muc-1-4-22" name="muc-1-4-22"></a>1.4.22  Gian phòng có người làm việc thường xuyên
 
 Gian phòng mà con người có mặt ở đó không ít hơn 2 giờ liên tục hoặc có mặt tổng cộng 6 giờ trong một ngày đêm.
 
