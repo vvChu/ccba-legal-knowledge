@@ -1341,14 +1341,37 @@ class LegalSpokeValidator:
                 if not sources_dir.exists() or not list(sources_dir.glob("*.docx")):
                     continue
 
+                # Read bundle metadata to check for VBHN consolidation scope (ADR 0037)
+                is_vbhn_consolidation = False
+                try:
+                    import yaml as _yaml
+                    meta_path = bundle_dir / "metadata.yaml"
+                    if meta_path.exists():
+                        with open(meta_path, encoding="utf-8") as _mf:
+                            _meta = _yaml.safe_load(_mf)
+                        vscope = _meta.get("verification_scope", {})
+                        if vscope.get("type") == "vbhn_consolidation":
+                            is_vbhn_consolidation = True
+                except Exception:
+                    pass
+
                 res = verify_bundle_docx_vs_markdown(bundle_dir)
                 if res.get("status") == "error":
                     self.errors.append(f"DOCX Read Error [{bundle_dir.name}]: {res.get('error')}")
                 elif res.get("status") == "success" and not res.get("pass", True):
                     sample_miss = "; ".join([f"[{i}] {p[:60]}" for i, p in res.get("missing_paras", [])[:3]])
-                    self.errors.append(
-                        f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {res.get('parity_rate', 0.0):.1f}% (< {GATE_11_MIN_VERBATIM_PARITY}%). Missing {res.get('missing_count', 0)}/{res.get('docx_paras', 0)} paragraphs: {sample_miss}"
+                    msg = (
+                        f"Verbatim Parity Error [{bundle_dir.name}]: Parity is only {res.get('parity_rate', 0.0):.1f}% "
+                        f"(< {GATE_11_MIN_VERBATIM_PARITY}%). Missing {res.get('missing_count', 0)}/{res.get('docx_paras', 0)} "
+                        f"paragraphs: {sample_miss}"
                     )
+                    if is_vbhn_consolidation:
+                        # VBHN bundles: delta paragraphs are expected (bãi bỏ/thay thế bởi văn bản sửa đổi)
+                        # Downgrade to telemetry warning (ADR 0037 Anti-Vacuous Pass Invariant)
+                        self.warnings.append(f"[VBHN Telemetry] {msg} — Delta expected per verification_scope.consolidation_note.")
+                    else:
+                        self.errors.append(msg)
+
 
     def validate_multimodal_assets_and_cards_gate(self) -> None:
         """Gate 12: Multimodal Decoupled Asset & SVG/Cards Integrity Gate (ADR 0040).
