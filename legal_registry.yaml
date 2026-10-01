@@ -1,11 +1,11 @@
 version: 0.3.0
-updated_at: '2026-09-22T08:07:26.716436+00:00'
+updated_at: '2026-10-01T10:11:01.392402+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 63
+  total_documents: 70
   categories:
-    01_vbpl: 30
-    02_qcvn: 12
+    01_vbpl: 35
+    02_qcvn: 14
     03_tcvn: 18
     04_appendices: 3
 documents: {}
@@ -2059,9 +2059,9 @@ decrees:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Kien-truc-2019-so-40-2019-QH14-388277.aspx
   relations:
     guided_by:
-      - id: nghi_dinh_85_2020_nd_cp
-        document_number: 85/2020/NĐ-CP
-        title: Nghị định quy định chi tiết một số điều của Luật Kiến trúc
+    - id: nghi_dinh_85_2020_nd_cp
+      document_number: 85/2020/NĐ-CP
+      title: Nghị định quy định chi tiết một số điều của Luật Kiến trúc
   pdf_path: legal_docs/01_vbpl/luat_kien_truc_2019_40_2019_qh14/sources/luat_kien_truc_2019_40_2019_qh14.pdf
   pdf_sha256: 10bb5db9417584cf889d15dafd3efda19150af96159b20ba98d74b6f6387f2e1
   pdf_origin: official_gazette_vector
@@ -2111,7 +2111,8 @@ decrees:
 - id: nghi_dinh_23_2024_nd_cp
   document_number: 23/2024/NĐ-CP
   title: Nghị định số 23/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi
-    hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc ngành, lĩnh vực quản lý
+    hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc ngành, lĩnh vực
+    quản lý
   type: Nghị định
   issued_by: Chính phủ
   signer: Phó Thủ tướng Trần Hồng Hà
@@ -2141,9 +2142,10 @@ decrees:
       status: verified
 - id: thong_tu_98_2025_tt_btc
   document_number: 98/2025/TT-BTC
-  title: Thông tư số 98/2025/TT-BTC quy định mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư thực
-    hiện dự án đầu tư theo phương thức PPP, dự án đầu tư kinh doanh; cung cấp, đăng tải
-    thông tin về đầu tư theo phương thức PPP, đấu thầu lựa chọn nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia
+  title: Thông tư số 98/2025/TT-BTC quy định mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư
+    thực hiện dự án đầu tư theo phương thức PPP, dự án đầu tư kinh doanh; cung cấp,
+    đăng tải thông tin về đầu tư theo phương thức PPP, đấu thầu lựa chọn nhà đầu tư
+    trên Hệ thống mạng đấu thầu quốc gia
   type: Thông tư
   issued_by: Bộ Tài chính
   signer: Lãnh đạo Bộ Tài chính
@@ -2201,6 +2203,3 @@ decrees:
       sha256: a58cc2bdd323cb287bce5967ae3c0a452679a8fb29a9347cf2dd7bd4ef052bd6
       vault_path: CCBA_Legal_Vault/01_vbpl/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15.docx
       status: verified
-
-
-

@@ -4,7 +4,7 @@
 > [!NOTE]
 > **Đây là Tài Liệu Sống (Living Document) tự động cập nhật.**  
 > Được đồng bộ tự động bởi `scripts/sync_expansion_roadmap.py` mỗi khi có văn bản mới được nạp vào Spoke hoặc khi chạy Master CI Gate.  
-> **Lần cập nhật cuối:** `2026-09-26 22:10:48` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
+> **Lần cập nhật cuối:** `2026-10-01 17:12:08` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
 
 ---
 
@@ -12,9 +12,9 @@
 
 | Chỉ số theo dõi | Số lượng | Tỷ lệ hoàn thành | Trạng thái hệ thống |
 |:---|:---:|:---:|:---:|
-| **Hiện có trong Spoke (Active Bundles)** | **63** | **75.0%** | 🟢 Sẵn sàng phục vụ Agent |
-| **Ứng viên Đang Chờ Nạp (Pending Target)** | **21** | **25.0%** | 🟡 Trong lộ trình ưu tiên |
-| **Tổng quy mô mục tiêu giai đoạn 1** | **84** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
+| **Hiện có trong Spoke (Active Bundles)** | **70** | **76.9%** | 🟢 Sẵn sàng phục vụ Agent |
+| **Ứng viên Đang Chờ Nạp (Pending Target)** | **21** | **23.1%** | 🟡 Trong lộ trình ưu tiên |
+| **Tổng quy mô mục tiêu giai đoạn 1** | **91** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
 
 ---
 

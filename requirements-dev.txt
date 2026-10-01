@@ -1,0 +1,22 @@
+# CCBA Legal Knowledge Spoke — Dev Dependencies
+# Cài đặt: pip install -r requirements-dev.txt
+
+# --- Core document parsing ---
+python-docx>=1.1.0        # DOCX parsing (Gate 11 Verbatim Parity)
+pdfminer.six>=20221105    # PDF text extraction
+lxml>=4.9.0               # XML/HTML parsing (DOCX internals)
+
+# --- Data & config ---
+pyyaml>=6.0               # YAML parsing (legal_registry.yaml, metadata.yaml)
+python-dotenv>=1.0.0      # .env loading
+
+# --- Image & graphics ---
+Pillow>=10.0.0            # PNG/image processing (figures pipeline)
+cairosvg>=2.7.0           # SVG → PNG conversion (ADR 0040)
+
+# --- Validation & testing ---
+pytest>=8.0.0             # Test runner
+pytest-cov>=4.0.0         # Coverage reporting
+
+# --- AI Gateway (optional — requires CCBA_HUB_PATH) ---
+# ccba-ai: pip install -e "${CCBA_HUB_PATH}/packages/ccba-ai"
