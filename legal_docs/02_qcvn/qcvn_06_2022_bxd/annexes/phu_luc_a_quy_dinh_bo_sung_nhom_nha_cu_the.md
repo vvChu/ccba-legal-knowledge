@@ -43,13 +43,13 @@ c) Các nhà sản xuất có từ 2 tầng hầm trở lên.
 ### A.1.2  Quy định chung
 
 <a id="muc-A-1-2-1"></a>
-### A.1.2.1  Tổng diện tích nhà lấy bằng tổng diện tích của tất cả các tầng (tầng trên mặt đất, kể cả tầng kỹ thuật, tầng nửa hầm và tầng hầm), với kích thước mặt bằng được đo trong phạm vi giới hạn bởi bề mặt bên trong của các tường bao (hoặc bởi trục các cột biên ở khu vực không có tường bao); đường hầm; sàn giá đỡ trong nhà; sàn lửng; tất cả các sàn của giá đỡ nhiều tầng trong nhà; thềm (cầu) xếp dỡ; hành lang (trong mặt bằng) và hành lang liên thông sang các nhà khác. Tổng diện tích của nhà không bao gồm: diện tích các tầng hầm kỹ thuật có chiều cao, tính từ sàn đến mặt dưới của kết cấu nhỏ ra ở phía trên, nhỏ hơn 1,8 m (ở đó không yêu cầu có lối đi để bảo dưỡng các đường ống kỹ thuật); diện tích phía trên trần treo; cũng như diện tích sàn của giá đỡ nhiều tầng dùng để bảo dưỡng đường ray phía dưới cầu trục, bảo dưỡng cần trục, bằng tải, đường ray đơn và thiết bị chiếu sáng.
+### A.1.2.1  Xác định số tầng và diện tích khoang cháy
 
-Diện tích các gian phòng có chiều cao thông từ 2 tầng trở lên, trong phạm vi một nhà nhiều tầng (gian phòng thông 2 tầng hoặc nhiều tầng), được tính vào diện tích tổng cộng của nhà trong phạm vi một tầng.
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
 
-Khi xác định số lượng tầng của nhà thì mỗi sàn giá đỡ và sàn lửng nằm ở cao độ bất kì có diện tích lớn hơn 40 % diện tích 1 tầng của nhà đó, phải được tính như một tầng.
+A.1.2.1 Khi xác định số lượng tầng của nhà thì mỗi sàn công tác, sàn đỡ thiết bị và sàn lửng nằm ở cao độ bất kỳ có diện tích lớn hơn 40 % diện tích một tầng của nhà đó, phải được tính như một tầng.
 
-Diện tích 1 tầng của nhà trong phạm vi một khoang cháy được xác định theo chu vi bên trong của tường bao của tầng, không tính diện tích buồng thang bộ. Nếu trong diện tích đó có sàn giá đỡ, sàn của giả đỡ nhiều tầng và sàn lửng thì đối với nhà 1 tầng phải tính diện tích của tất cả các sàn giá đỡ, sàn của giá đỡ nhiều tầng và sàn lửng; còn đối với nhà nhiều tầng chỉ tính diện tích các sàn giá đỡ, sàn của giá đỡ nhiều tầng và sàn lửng nằm trong phạm vi khoảng cách theo chiều cao giữa các cốt của sàn giá đỡ, sàn của giá đỡ nhiều tầng và sàn lửng có diện tích ở mỗi cao độ không hơn 40 % diện tích sàn của tầng. Diện tích của thềm (cầu) xếp dỡ phía ngoài dùng cho phương tiện vận tải đường bộ và đường sắt không được tính vào diện tích của tầng nhà trong phạm vi khoang cháy.
+Diện tích một tầng của nhà trong phạm vi một khoang cháy được xác định theo chu vi bên trong của tường bao của tầng, không tính diện tích buồng thang bộ. Nếu trong diện tích đó có các sàn công tác, sàn đỡ thiết bị và sàn lửng thì đối với nhà 1 tầng phải cộng thêm diện tích của tất cả các sàn này; còn đối với nhà nhiều tầng (hoặc phần nhà nhiều tầng) thì diện tích khoang cháy của mỗi tầng phải cộng thêm diện tích các sàn công tác, sàn đỡ thiết bị và sàn lửng nằm trong tầng đó. Diện tích của thềm (cầu) xếp dỡ phía ngoài dùng cho phương tiện vận tải đường bộ và đường sắt không được tính vào diện tích của tầng nhà trong phạm vi khoang cháy. Diện tích các gian phòng có chiều cao thông từ 2 tầng trở lên, trong phạm vi một nhà nhiều tầng (gian phòng thông 2 tầng hoặc nhiều tầng) mà lỗ thông tầng không được bảo vệ ngăn cháy thì được tính vào diện tích tổng cộng của nhà trong phạm vi một tầng.
 
 Diện tích xây dựng được xác định theo chu vi ngoài của nhà ở cao độ chân tường, bao gồm cả các phần nhô ra, đường đi qua dưới nhà, các phần nhà không có kết cấu ngăn che bên ngoài.
 
@@ -124,7 +124,11 @@ Khi có các sàn giá đỡ, sàn của giá đỡ nhiều tầng và sàn lử
 Các hành lang phải có chiều rộng không nhỏ hơn 2 m dẫn trực tiếp ra ngoài hoặc qua một buồng thang bộ không nhiễm khói.
 
 <a id="muc-A-1-3-6"></a>
-### A.1.3.6  Các bộ phận công trình của thềm (cầu) xếp dỡ và bộ phận bao che thềm (cầu) xếp dỡ liền kề với các nhà có bậc chịu lửa I, II, III và IV, hạng nguy hiểm cháy là S0 và S1 phải được làm bằng vật liệu không cháy.
+### A.1.3.6  Bố trí gian phòng chứa chất nguy hiểm cháy nổ
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+A.1.3.6  Không cho phép bố trí các gian phòng chứa các chất và vật liệu nguy hiểm cháy nổ (hạng A, B) trong các tầng hầm và bán hầm.
 
 <a id="muc-A-1-3-7"></a>
 ### A.1.3.7  Thềm (cầu) xếp dỡ hàng hóa và sân ga xếp dỡ phải có ít nhất là 2 thang leo hoặc đường dốc được bố trí cách xa nhau (phân tán).
@@ -153,18 +157,24 @@ Các gian phòng kho có hạng nguy hiểm cháy và cháy nổ C1, C2 và C3 t
 
 _CHÚ THÍCH: Giá đỡ cao tầng là giá đỡ có chiều cao để hàng trên 5,5 m_
 
-<a id="muc-A-1-3-1-0"></a>
-### A.1.3.1.0  Kho cất giữ hàng có hạng nguy hiểm cháy và cháy nổ C trên giá đỡ cao tầng phải được bố trí trong nhà 1 tầng có bậc chịu lửa I đến IV và cấp nguy hiểm cháy kết cấu của nhà S0.
+<a id="muc-A-1-3-1-0"></a><a id="muc-A-1-3-10"></a>
+### A.1.3.10  Kho cất giữ hàng có hạng nguy hiểm cháy và cháy nổ C
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+A.1.3.10 Kho cất giữ hàng có hạng nguy hiểm cháy và cháy nổ C trên giá đỡ cao tầng phải được bố trí trong nhà 1 tầng có bậc chịu lửa I đến IV và cấp nguy hiểm cháy kết cấu của nhà S0. Trường hợp bố trí trong nhà nhiều tầng thì các giá đỡ cao tầng phải được bảo vệ bởi hệ thống chữa cháy tự động theo tài liệu chuẩn áp dụng.
 
 Các giá đỡ hàng phải có sàn đỡ nằm ngang, đặc và làm từ vật liệu không cháy đặt cách nhau không quá 4 m theo chiều cao.
 
 <a id="muc-A-1-3-1-1"></a>
 ### A.1.3.1.1  Khi chia một gian kho chứa hàng hóa có cùng mức độ nguy hiểm cháy như nhau bằng các vách ngăn theo điều kiện công nghệ hoặc vệ sinh, thì phải nêu rõ các yêu cầu đối với những vách ngăn đó trong phần thuyết minh công nghệ của dự án.
 
-<a id="muc-A-1-3-1-2"></a>
-### A.1.3.1.2  Các lỗ cửa sổ của nhà kho phải được đặt thêm tấm cửa mở lật lên trên với tổng diện tích xác định theo tính toán bảo đảm thoát khói khi có cháy.
+<a id="muc-A-1-3-1-2"></a><a id="muc-A-1-3-12"></a>
+### A.1.3.12  Lỗ cửa sổ của nhà kho
 
-Trong gian phòng lưu trữ cho phép không cần lắp đặt ó cửa sổ nếu đã có hệ thống thoát khói được tính toán phù hợp với yêu cầu tại Phụ lục D.
+> *[Bãi bỏ bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023)]*
+
+*(Nội dung điểm A.1.3.12 đã được bãi bỏ theo quy định tại Thông tư 09/2023/TT-BXD)*
 
 <a id="muc-A-2"></a>
 ### A.2  Nhà (có chiều cao PCCC từ trên 50 m đến 150 m) thuộc nhóm F1.2, F4.2, F4.3 và nhà hỗn hợp
@@ -190,6 +200,8 @@ Mỗi đơn nguyên hoặc một khoang cháy (khi không phân thành đơn ngu
 - Tường và vách ngăn giữa các đơn nguyên phải có giới hạn chịu lửa tương ứng không thấp hơn quy định tại A.2.2.4.
 
 ### <a id="muc-a-2-4" name="muc-a-2-4"></a>A.2.4  Các gian phòng tập trung đông người có số chỗ ngồi cố định từ trên 300 đến 600 - không được đặt ở chiều cao PCCC trên 15 m; số chỗ ngồi cố định từ trên 150 đến 300 - không được đặt ở chiều cao PCCC trên 40 m, và với số chỗ ngồi cố định từ 100 đến 150 - không được đặt ở chiều cao PCCC trên 50 m. Các gian phòng công cộng đặt ở chiều cao PCCC trên 50 m thì số chỗ ngồi cố định không được vượt quá 100.
+
+Cho phép bố trí các gian phòng tập trung đông người ở chiều cao PCCC cao hơn quy định trên khi có tính toán thoát nạn cho người theo tài liệu chuẩn (ví dụ [5]) bảo đảm nguyên tắc người thoát nạn an toàn ra ngoài nhà trước khi bị các yếu tố nguy hiểm cháy tác động.
 
 <a id="muc-A-2-5"></a>
 ### A.2.5  Nhà có bố trí các quán ăn, quán giải khát và các gian phòng công cộng nhóm F3.2 và F3.6, nằm ở chiều cao PCCC trên 50 m mà số người có mặt cùng một lúc trong mỗi gian phòng đó, tính theo Bảng G.9 (Phụ lục G), vượt quá 50 người thì khoảng cách từ lối ra thoát nạn của các gian phòng đến buồng thang bộ không nhiễm khói gần nhất không được vượt quá 20 m.
@@ -233,27 +245,37 @@ Cho phép sử dụng các máy phát điện diezen làm nguồn cấp điện 
 
 Cho phép sử dụng máy phát điện chạy bằng nhiên liệu khí, khi đặt những máy này trong một nhà đứng riêng biệt, với các yêu cầu an toàn cháy đã được quy định trong các tài liệu chuẩn liên quan.
 
-<a id="muc-A-2-1-1"></a>
-### A.2.1.1  Các sảnh thang máy phải được ngăn cách với các hành lang và các phòng bên cạnh bằng các vách ngăn cháy có giới hạn chịu lửa theo quy định tại A.2.2.4.
+<a id="muc-A-2-1-1"></a><a id="muc-A-2-11"></a>
+### A.2.11  Các sảnh thang máy
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+A.2.11 Các sảnh thang máy phải được ngăn cách với các hành lang và các phòng bên cạnh bằng các vách ngăn cháy hoặc giải pháp ngăn cháy khác có giới hạn chịu lửa theo quy định tại A.2.24, nếu các thang máy này có phục vụ tầng hầm, hoặc cửa giếng thang máy không phải là cửa ngăn cháy.
 
 Vật liệu của các bộ phận cabin thang máy phải được cấu tạo như thang máy chữa cháy.
 
-<a id="muc-A-2-1-2"></a>
-### A.2.1.2  Phải bố trí thang máy chữa cháy trong các giếng thang riêng biệt, có sảnh thang máy độc lập. Lối ra từ thang máy này đi ra ngoài nhà không được bố trí đi qua sảnh chung.
+<a id="muc-A-2-1-2"></a><a id="muc-A-2-12"></a>
+### A.2.12  Thang máy chữa cháy trong các giếng thang riêng biệt
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+A.2.12 Phải bố trí thang máy chữa cháy trong các giếng thang riêng biệt, có sảnh thang máy độc lập. Trường hợp bố trí chung giếng thang và sảnh thang thì việc bảo vệ các giếng thang, sảnh thang chung này phải tuân thủ các yêu cầu tại A.2.24 như đối với thang máy chữa cháy. Lối ra từ thang máy này đi ra ngoài nhà không được bố trí đi qua sảnh chung (trừ khi sảnh chung này được ngăn cách với các khu vực xung quanh bằng các bộ phận ngăn cháy loại 1).
 
 Số lượng thang máy chữa cháy cho mỗi khoang cháy phải được tính toán đủ để khoảng cách từ vị trí các thang máy đó đến một điểm bất kỳ trên mặt bằng tầng mà nó phục vụ không vượt quá 45 m.
-
-Các cấu kiện bao che cabin thang máy chữa cháy (tường, sàn, trần, cửa) phải được làm từ vật liệu không cháy hoặc từ nhóm vật liệu Ch1.
 
 Vật liệu ốp lát hoàn thiện bề mặt các cấu kiện bao che cabin áp dụng như cho các gian phòng theo quy định tại A.2.2.5.
 
 <a id="muc-A-2-1-3"></a>
 ### A.2.1.3  Giới hạn chịu lửa của kết cấu giếng thang máy và buồng máy của thang máy lấy theo quy định tại A.2.2.4.
 
-<a id="muc-A-2-1-4"></a>
-### A.2.1.4  Các hành lang phải được phân chia thành các khoang ngăn cách nhau bằng vách ngăn cháy loại 1. Cửa ngăn cháy lắp đặt trên các vách ngăn cháy này phải có cơ cấu tự đóng và các khe cửa phải được che kín (trừ phần chân). Chiều dài mỗi khoang hành lang phải bảo đảm như sau:
+<a id="muc-A-2-1-4"></a><a id="muc-A-2-14"></a>
+### A.2.14  Phân chia hành lang thành các khoang
 
-- Đối với khối căn hộ: không quá 30 m.
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+A.2.14 Các hành lang phải được phân chia thành các khoang ngăn cách nhau bằng vách ngăn cháy loại 1 và cửa ngăn cháy loại 2 có cơ cấu tự đóng, hoặc bằng các vách ngăn khói, màn ngăn khói từ vật liệu không cháy có mép dưới cách sàn hành lang tối đa 2,5 m. Chiều dài mỗi khoang hành lang phải bảo đảm như sau:
+
+- Đối với khối căn hộ: không quá 30 m;
 
 - Đối với khối nhà không phải là căn hộ: không quá 60 m.
 
@@ -273,7 +295,11 @@ Vật liệu ốp lát hoàn thiện bề mặt các cấu kiện bao che cabin 
 ### A.2.1.9  Khi cửa ra vào của các căn hộ hoặc gian phòng bố trí trên hành lang cụt thì khoảng cách từ cửa đó đến lối ra thoát nạn gần nhất không được vượt quá 15 m. Khi cửa được bố trí ở giữa các buồng thang bộ không nhiễm khói thì khoảng cách này không được vượt quá 20m.
 
 <a id="muc-A-2-20"></a>
-### A.2.20  Nhà có chiều cao PCCC trên 100 m phải bố trí tầng lánh nạn, gian lánh nạn bảo đảm các yêu cầu theo A.3.2.
+### A.2.20  Khu vực lánh nạn tạm thời cho nhà cao trên 100 m
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+A.2.20 Nhà có chiều cao PCCC trên 100 m (trên 120 m nếu được trang bị báo cháy tự động và chữa cháy tự động) phải bố trí các khu vực lánh nạn tạm thời theo A.3.2.
 
 <a id="muc-A-2-2-1"></a>
 ### A.2.2.1  Bố trí đường cho xe chữa cháy và bãi đỗ xe chữa cháy theo quy định trong 6.2.
@@ -360,6 +386,14 @@ _GHI CHÚ CHỈ SỐ PHỤ:_
 ### A.2.2.5.4  Trong các gian phòng lớn, có chỗ ngồi cho khán giả với số lượng lớn hơn 50 chỗ, các bộ phận của ghế tựa mềm, mành rèm, màn che không được làm từ các vật liệu dễ bắt cháy (nhóm BC3). Trong các gian phòng này, không phụ thuộc vào số chỗ ngồi, các ghế ngồi không được làm từ vật liệu có độc tính cao hơn ĐT2.
 
 Các sản phẩm vải, sợi dùng cho trang trí nội thất không được làm từ vật liệu thuộc nhóm dễ bắt cháy (BC3).
+
+<a id="muc-A-2-25-5"></a><a id="muc-A-2-2-5-5"></a>
+### A.2.25.5  Lối vào từ trên cao
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+Cho phép không bố trí các lối vào từ trên cao đối với các nhà thuộc nhóm F1.3 nếu các căn hộ đều có các phòng lánh nạn hoặc ban công, lô gia đáp ứng yêu cầu của quy chuẩn.
+
 
 <a id="muc-A-2-2-6"></a>
 ### A.2.2.6  Trang thiết bị báo cháy, chữa cháy, cứu nạn
@@ -565,7 +599,11 @@ El 30 - đối với các ống dẫn khí của hệ thống cấp khí vào b�
 ### A.3.1.7  Việc ngăn chia và chiều dài cho phép của các đoạn được ngăn chia của hành lang trong nhà phải tuân thủ A.2.1.4. Khoảng cách giới hạn cho phép từ cửa ra vào của căn hộ đến lối ra thoát nạn gần nhất (buồng thang bộ hoặc lối ra bên ngoài) phải tuân thủ A.2.1.9.
 
 <a id="muc-A-3-1-8"></a>
-### A.3.1.8  Chiều rộng thông thủy bản thang và chiếu thang của các buồng thang bộ loại N1, N3 tại phân ở của nhà phải không nhỏ hơn 1,20 m; buồng thang bộ loại N2 không nhỏ hơn 1,05 m với khoảng cách hở thông thủy giữa các bản thang không nhỏ hơn 100 mm.
+### A.3.1.8  Chiều rộng thông thủy bản thang và chiếu thang buồng thang bộ
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+A.3.1.8  Chiều rộng thông thủy bản thang và chiếu thang của các buồng thang bộ loại N1, N3 tại phần ở của nhà phải không nhỏ hơn 1,05 m; buồng thang bộ loại N2 không nhỏ hơn 1,05 m với khoảng cách hở thông thủy giữa các bản thang không nhỏ hơn 75 mm.
 
 <a id="muc-A-3-1-9"></a>
 ### A.3.1.9  Từ tất cả các buồng thang bộ không nhiễm khói phải có các bản thang dẫn lên mái qua các cửa ngăn cháy loại 2.
@@ -585,8 +623,12 @@ b) Cửa ngăn cháy là loại 2 trong trường hợp: cửa từ khoang đệ
 
 c) Cửa giếng thang máy đi vào sảnh thang máy phải là các cửa kín khói.
 
-<a id="muc-A-3-1-1-3"></a>
-### A.3.1.1.3  Vật liệu hoàn thiện trần, tường, sàn trên các đường thoát nạn, trong sảnh thang máy, sảnh chung, tầng kỹ thuật phải là vật liệu không cháy.
+<a id="muc-A-3-1-1-3"></a><a id="muc-A-3-1-13"></a>
+### A.3.1.13  Lối ra từ thang máy trong các tầng hầm
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+A.3.1.13  Trong các tầng hầm, các lối ra từ thang máy phải đi qua các khoang đệm ngăn cháy loại 1 có áp suất không khí dương khi cháy. Cửa đi của khoang đệm này phải là cửa ngăn cháy có cơ cấu tự đóng.
 
 <a id="muc-A-3-1-1-4"></a>
 ### A.3.1.1.4  Lớp cách âm của các phòng, cũng như cách nhiệt cho thiết bị và đường ống kỹ thuật phải làm từ vật liệu không cháy.
@@ -594,8 +636,12 @@ c) Cửa giếng thang máy đi vào sảnh thang máy phải là các cửa kí
 <a id="muc-A-3-1-1-5"></a>
 ### A.3.1.1.5  Các đường ống chính theo trục đứng của hệ thống kỹ thuật (thoát nước, dẫn nước mưa, cấp nước nóng và lạnh) được làm bằng vật liệu không cháy hoặc được đặt trong các kênh, hộp kỹ thuật làm bằng vật liệu không cháy. Yêu cầu đối với hệ thống thu gom rác thực hiện theo A.2.30.
 
-<a id="muc-A-3-1-1-6"></a>
-### A.3.1.1.6  Việc bảo vệ chống khói cho nhà, hệ thống báo cháy và chữa cháy tự động thực hiện theo các quy định bổ sung sau đây:
+<a id="muc-A-3-1-1-6"></a><a id="muc-A-3-1-16"></a>
+### A.3.1.16  Việc bảo vệ chống khói cho nhà, hệ thống báo cháy và chữa cháy tự động
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+A.3.1.16  Việc bảo vệ chống khói cho nhà, hệ thống báo cháy và chữa cháy tự động thực hiện theo các quy định bổ sung sau đây:
 
 a) Tất cả các phòng không phải căn hộ (gara, phòng phụ trợ, phòng kỹ thuật, không gian công cộng, khoang chứa rác và các phòng có công năng tương tự) và ống đổ rác phải có đầu phun sprinkler (trừ các gian phòng kỹ thuật điện, điện tử có yêu cầu bố trí hệ thống hoặc thiết bị dập lửa thể khí);
 
@@ -605,7 +651,7 @@ c) Hệ thống báo cháy tự động phải báo rõ địa chỉ của từn
 
 d) Cần trang bị hệ thống báo cháy, thiết bị, phương tiện chữa cháy tự động trong các kênh, giếng kỹ thuật điện, thông tin liên lạc và giếng kỹ thuật khác có nguy hiểm cháy;
 
-e) Nguồn điện cấp cho hệ thống bảo vệ chống cháy gồm: thang máy phục vụ chuyên chở lực lượng, phương tiện chữa cháy; hệ thống bảo vệ chống khói; hệ thống báo cháy, chữa cháy tự động; phải được lấy từ các tủ điện độc lập hoặc các bằng điện riêng với mẫu sơn khác nhau đi theo hai tuyến riêng biệt tới thiết bị phân phối của từng khoang cháy.
+*(Đoạn e đã được bãi bỏ theo Thông tư 09/2023/TT-BXD)*
 
 <a id="muc-A-3-1-1-7"></a>
 ### A.3.1.1.7  Yêu cầu bảo vệ chịu lửa đối với các dây, cáp điện của nguồn điện cấp cho hệ thống phòng cháy chữa cháy thực hiện theo A.2.2.8.
@@ -613,38 +659,29 @@ e) Nguồn điện cấp cho hệ thống bảo vệ chống cháy gồm: thang 
 <a id="muc-A-3-2"></a>
 ### A.3.2  Nhà có chiều cao PCCC từ trên 100 m đến 150 m
 
-### <a id="muc-a-3-2-1" name="muc-a-3-2-1"></a>A.3.2.1  Đối với nhà có chiều cao PCCC từ trên 100 m đến 150 m, ngoài việc tuân thủ các quy định tại A.3.1, cần phải bố trí tầng lánh nạn, gian lánh nạn đáp ứng những yêu cầu sau đây:
+<a id="muc-A-3-2-1"></a>
+### A.3.2.1  Bảo vệ các gian lánh nạn tạm thời
 
-a) Tầng lánh nạn cách nhau không quá 20 tầng, tầng lánh nạn đầu tiên được bố trí không cao quá tầng thứ 21. Khu vực bố trí gian lánh nạn, phải được ngăn cách với các khu vực khác bằng bộ phận ngăn cháy có giới hạn chịu lửa không nhỏ hơn REI 150. Các khu vực khác ngoài khu vực bố trí gian lánh nạn có thể sử dụng cho các công năng công cộng. Không bố trí căn hộ hoặc một phần căn hộ trên tầng lánh nạn;
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
 
-_CHÚ THÍCH: Có thể sử dụng tầng kỹ thuật hoặc một phần tầng kỹ thuật làm khu vực lánh nạn khi đáp ứng các quy định tại các đoạn b), c), d), e), f)._
+A.3.2.1  Các gian lánh nạn tạm thời phải được bảo vệ bằng các bộ phận ngăn cháy có giới hạn chịu lửa không thấp hơn quy định tại Bảng 4 tương ứng với bậc chịu lửa của nhà, và các cửa ngăn cháy loại 1 có cơ cấu tự đóng:
 
-b) Gian lánh nạn phải có diện tích với định mức 0,3 m2/người, bảo đảm đủ chứa tổng số người thoát nạn lớn nhất của tất cả các tầng phía trên tính từ tầng có gian lánh nạn đến hết tầng có gian lánh nạn tiếp theo, hoặc các tầng phía trên còn lại đối với tầng lánh nạn trên cùng. Không cho phép sử dụng diện tích gian lánh nạn vào các hoạt động thương mại, nhưng có thể sử dụng làm sân/khu vực chơi cho trẻ em hoặc tập thể dục;
+a) Gian lánh nạn phải được bố trí ở các tầng lánh nạn, với khoảng cách không quá 20 tầng giữa các tầng lánh nạn liền kề;
 
-_CHÚ THÍCH: Số lượng người thoát nạn lớn nhất từ các không gian khác nhau của nhà hoặc phần nhà được xác định theo G 3, Phụ lục G. Riêng đối với nhà hoặc phần nhà có nhóm nguy hiểm cháy theo công năng khác F1.3 thì áp dụng thêm quy định tại A.2.1.6._
+<a id="muc-A-3-2-2"></a>
+### A.3.2.2  Khu vực lánh nạn trên mái
 
-c) Gian lánh nạn phải được thông gió tự nhiên qua các ô thông tường cố định bố trí trên hai tường ngoài (ô thông gió) bảo đảm các yêu cầu:
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
 
-- Tổng diện tích các ô thông gió ít nhất phải bằng 25 % diện tích gian lánh nạn;
+Cho phép bố trí khu vực lánh nạn tạm thời trên mái nhà nếu bảo đảm các yêu cầu sau: mái phải là mái bằng, kết cấu chịu lực của sàn mái phải có giới hạn chịu lửa tối thiểu REI 120, và khu vực lánh nạn trên mái phải được bao che bằng lan can an toàn cao tối thiểu 1,4 m.
 
-- Chiều cao nhỏ nhất của các ô thông gió (tính từ cạnh dưới đến cạnh trên) không được nhỏ hơn 1,2 m;
-
-- Các ô thông gió cho gian lánh nạn phải được bố trí cách ít nhất 1,5 m theo phương ngang và 3,0 m theo phương đứng tính từ các ô thông tường không được bảo vệ khác nằm ngang bằng hoặc phía dưới nó. Nếu các ô thông gió cho gian lánh nạn có tổng diện tích không nhỏ hơn 50 % diện tích gian lánh nạn thì khoảng cách theo phương đứng được phép giảm xuống đến 1,5 m;
-
-d) Tất cả các trang bị, dụng cụ đặt trong gian lánh nạn phải được làm bằng vật liệu không cháy;
-
-e) Gian lánh nạn phải có lối ra thoát nạn trực tiếp đi vào buồng thang bộ không nhiễm khói và lối ra thoát nạn đi vào khoang đệm của thang máy chữa cháy. Các đường thoát nạn dẫn vào gian lánh nạn phải đi qua một sảnh ngăn khói/sảnh thang máy chữa cháy hoặc một hành lang bên;
-
-f) Gian lánh nạn phải có trang thiết bị chống cháy gồm: họng nước chữa cháy trong nhà, hệ thống chữa cháy tự động sprinkler, chiếu sáng sự cố, điện thoại liên lạc với bên ngoài, hệ thống truyền thanh chỉ dẫn thoát nạn và tương tự;
-
-g) Phía trong buồng thang bộ thoát nạn và trên mặt ngoài của tường buồng thang bộ thoát nạn ở vị trí tầng lánh nạn phải có biển thông báo với nội dung “GIAN LÁNH NẠN/FIRE EMERGENCY HOLDING AREA” đặt ở chiều cao 1 500 mm tính từ mặt nền hoàn thiện của chiếu tới hoặc sàn tầng lánh nạn. Chiều cao chữ trên biển thông báo không được nhỏ hơn 50 mm;
-
-_CHÚ THÍCH: Bên cạnh việc trình bày bằng tiếng Việt và tiếng Anh, nội dung biển thông báo có thể được trình bày thêm bằng các ngôn ngữ khác tùy thuộc đặc điểm người sử dụng phổ biến trong nhà._
-
-h) Cho phép phần diện tích gian lánh nạn không được tính vào chỉ tiêu hệ số sử dụng đất và diện tích sàn xây dựng của công trình.
 
 <a id="muc-A-4"></a>
 ### A.4  Nhà kinh doanh dịch vụ karaoke, vũ trường (thuộc nhóm F2.1)
+
+> *[Bãi bỏ bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023)]*
+
+*(Toàn bộ nội dung mục A.4 về Nhà kinh doanh dịch vụ karaoke, vũ trường đã được bãi bỏ theo quy định tại Sửa đổi 1:2023 QCVN 06:2022/BXD ban hành kèm theo Thông tư 09/2023/TT-BXD ngày 10/10/2023)*
 
 <a id="muc-A-4-1"></a>
 ### A.4.1  Bậc chịu lửa của nhà kinh doanh dịch vụ karaoke, vũ trường phải phù hợp với các quy định tại quy chuẩn này và tối thiểu là bậc IV.

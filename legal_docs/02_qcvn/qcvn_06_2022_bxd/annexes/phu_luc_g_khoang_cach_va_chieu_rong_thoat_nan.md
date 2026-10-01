@@ -18,7 +18,7 @@ KHOẢNG CÁCH ĐẾN CÁC LỐI RA THOÁT NẠN VÀ CHIỀU RỘNG LỐI RA THO
 <a id="muc-G-1-1"></a>
 ### G.1.1  Nhà ở
 
-Khoảng cách giới hạn cho phép từ cửa ra vào của căn hộ (nhà nhóm F1.3) hoặc của phòng ở (nhà nhóm F1.2) đến lối ra thoát nạn gần nhất (buồng thang bộ hoặc lối ra bên ngoài) được quy định tại Bảng G.1.
+Khoảng cách giới hạn cho phép từ cửa ra vào của căn hộ (nhà nhóm F1.3) hoặc của phòng ở (nhà nhóm F1.2) đến lối ra thoát nạn gần nhất (thang bộ hoặc lối ra bên ngoài) được quy định tại Bảng G.1.
 
 ### <a id="bang-g-1" name="bang-g-1"></a>Bảng G.1 - Khoảng cách giới hạn cho phép từ cửa ra vào của căn hộ hay của phòng ở đến lối ra thoát nạn gần nhất
 
@@ -39,7 +39,7 @@ Khoảng cách giới hạn cho phép từ cửa ra vào của căn hộ (nhà n
 <a id="muc-G-1-2-1"></a>
 ### G.1.2.1  Khoảng cách giới hạn cho phép theo đường thoát nạn từ cửa ra vào của gian phòng xa nhất của nhà công cộng (trừ các gian phòng vệ sinh, phòng tắm giặt, phục vụ khác) đến lối ra thoát nạn gần nhất (lối ra bên ngoài hoặc vào buồng thang bộ, hoặc đến cầu thang bộ loại 2 mà quy chuẩn này cho phép thoát nạn) được quy định tại Bảng G.2a.
 
-_CHÚ THÍCH: Đối với các tầng nhà có hành lang không được bao che bằng các bộ phận ngăn cháy theo quy định tại 3.3 5 hoặc không tuân thủ yêu cầu tại 3.3 4 thì khoảng cách giới hạn cho phép của đường thoát nạn phải tính từ điểm xa nhất của gian phòng trên tầng nhà đó_.
+*(CHÚ THÍCH đã được bãi bỏ theo Thông tư 09/2023/TT-BXD)*.
 - Chú thích này không áp dụng đối với các tầng nhà có gian phòng karaoke, vũ trường.
 
 <a id="muc-G-1-2-2"></a>
@@ -60,7 +60,7 @@ Bảng G.2a - Khoảng cách giới hạn cho phép từ cửa ra vào của gia
 | IV | 20 | 15 | 15 | 10 | 7 |
 | V | 15 | 10 | 10 | 5 | 5 | |
 
-_CHÚ THÍCH:_
+*(CHÚ THÍCH đã được bãi bỏ theo Thông tư 09/2023/TT-BXD)*
 
 **CHÚ THÍCH 1:** Mật độ dòng người thoát nạn được xác định bằng tỉ số giữa tổng số người phải thoát nạn theo đường thoát nạn và diện tích của đường thoát nạn đó.
 
@@ -89,7 +89,7 @@ Bảng G.2b - Khoảng cách giới hạn cho phép từ một điểm bất k�
 | 4. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng nhỏ hơn 25 %. | III, IV | 15 | 20 | Xem chú thích |
 | 4. Các gian phòng thương mại khi diện tích của các lối đi chính tính theo phần trăm diện tích của gian phòng nhỏ hơn 25 %. | V | 10 | Xem chú thích | Xem chú thích | |
 
-_CHÚ THÍCH: Khoảng cách giới hạn này phải được xác định theo luận chứng kỹ thuật riêng._
+*(CHÚ THÍCH đã được bãi bỏ theo Thông tư 09/2023/TT-BXD)*
 
 <a id="muc-G-1-3"></a>
 ### G.1.3  Nhà sản xuất và nhà kho
@@ -135,7 +135,7 @@ _CHÚ THÍCH: Khoảng cách giới hạn này phải được xác định theo
 | Không phụ thuộc vào khối tích | E | I, II, III, IV | S0, S1 | Không hạn chế | Không hạn chế | Không hạn chế |
 | Không phụ thuộc vào khối tích | E | IV, V | S2, S3 | 160 | 95 | 65 | |
 
-_CHÚ THÍCH: Mật độ dòng người thoát nạn được xác định bằng tỉ số giữa tổng số người phải thoát nạn theo đường thoát nạn và diện tích của đường thoát nạn đó_
+*(CHÚ THÍCH đã được bãi bỏ theo Thông tư 09/2023/TT-BXD)*
 
 ### <a id="bang-g-4" name="bang-g-4"></a>Bảng G.4 - Khoảng cách giới hạn cho phép từ cửa ra vào của gian phòng sản xuất có diện tích đến 1 000 m2 đến lối ra thoát nạn gần nhất
 
@@ -169,7 +169,7 @@ _CHÚ THÍCH: Mật độ dòng người thoát nạn được xác định bằ
 - Nhà có bậc chịu lửa V: 80 người/m.
 
 <a id="muc-G-2-1-2"></a>
-### G.2.1.2  Để tính toán chiều rộng lối thoát nạn của các nhà thuộc trường học phổ thông, trường học nội trú và các khu nội trú của trưởng, cần xác định số lượng người lớn nhất đồng thời có mặt trên một tầng từ số lượng người lớn nhất của các phòng học, của các phòng dạy nghề và của các phòng ngủ cũng như các gian thể thao, hội nghị, giảng đường nằm trên tầng đó (xem G.3, Bảng G.9).
+### G.2.1.2  Để tính toán chiều rộng lối thoát nạn của các nhà thuộc trường học phổ thông, trường học nội trú và các khu nội trú của trưởng, cần xác định số lượng người lớn nhất đồng thời có mặt trên một tầng từ số lượng người lớn nhất của các phòng học, của các phòng dạy nghề và của các phòng ngủ cũng như các gian thể thao, hội nghị, giảng đường nằm trên tầng đó (xem G.3, Bảng G.9, hoặc xác định theo tài liệu chuẩn khác (ví dụ [5])).
 
 <a id="muc-G-2-1-3"></a>
 ### G.2.1.3  Chiều rộng của các cửa ra từ các phòng học với số lượng học sinh lớn hơn 15 người, không được nhỏ hơn 0,9 m.
@@ -189,7 +189,7 @@ _CHÚ THÍCH: Mật độ dòng người thoát nạn được xác định bằ
 | 2. Các gian phòng thương mại khi diện tích của các đường thoát nạn chính nhỏ hơn 25 % diện tích của gian phòng; và các gian phòng khác. | III, IV | 50 | 70 | Xem chú thích |
 | 2. Các gian phòng thương mại khi diện tích của các đường thoát nạn chính nhỏ hơn 25 % diện tích của gian phòng; và các gian phòng khác. | V | 40 | Xem chú thích | Xem chú thích | |
 
-_CHÚ THÍCH: Số lượng người tối đa trên 1 m chiều rộng của lối ra thoát nạn phải được xác định theo luận chứng kỹ thuật riêng._
+*(CHÚ THÍCH đã được bãi bỏ theo Thông tư 09/2023/TT-BXD)*
 
 <a id="muc-G-2-1-5"></a>
 ### G.2.1.5  Chiều rộng của các lối đi thoát nạn chính trong một gian phòng thương mại phải lấy không nhỏ hơn:
@@ -215,7 +215,7 @@ _CHÚ THÍCH: Số lượng người tối đa trên 1 m chiều rộng của l�
 | III, IV | 420 | 580 | 435 | 860 |
 | V | 300 | 415 | 310 | 615 | |
 
-_CHÚ THÍCH: Tổng số lượng người thoát nạn đi qua một lối ra thoát nạn không được vượt quá 1 500 người khi khán đài cố bậc chịu lửa I, II. Khi khán đài có bậc chịu lửa là bậc III thì tổng số người đi qua phải giảm xuống 30 % và khi bậc IV và bậc V thì phải giảm xuống 50 %._
+*(CHÚ THÍCH đã được bãi bỏ theo Thông tư 09/2023/TT-BXD)*
 
 <a id="muc-G-2-2"></a>
 ### G.2.2  Nhà sản xuất và nhà kho
@@ -278,11 +278,11 @@ Khi chiều cao PCCC của nhà là các trị số trung gian thì số lượn
 <a id="muc-G-3"></a>
 ### G.3  Xác định số lượng người lớn nhất trong nhà hoặc trong một phần của nhà
 
-Số lượng người lớn nhất trong một gian phòng, một tầng hoặc nhà là số lượng người lớn nhất theo thiết kế được duyệt. Khi thiết kế không ghi rõ giá trị này, số lượng người lớn nhất được tính bằng tỉ số giữa diện tích sàn của phòng, của tầng hoặc của nhà chia cho hệ số không gian sàn (m2/người) quy định tại Bảng G.9.
+Số lượng người lớn nhất trong một gian phòng, một tầng hoặc nhà là số lượng người lớn nhất theo thiết kế được duyệt. Khi thiết kế không ghi rõ giá trị này, số lượng người lớn nhất được tính bằng tỉ số giữa diện tích sàn của phòng, của tầng hoặc của nhà chia cho hệ số không gian sàn (m2/người) quy định tại Bảng G.9, hoặc xác định theo tài liệu chuẩn khác (ví dụ [5]).
 
-_CHÚ THÍCH: “Diện tích sàn" ở đây không kể diện tích của cầu thang bộ, thang máy, khu vệ sinh và các phần phụ trợ khác._
+*(CHÚ THÍCH đã được bãi bỏ theo Thông tư 09/2023/TT-BXD)*
 
-### <a id="bang-g-9" name="bang-g-9"></a>Bảng G.9 - Hệ số không gian sàn 1)
+### <a id="bang-g-9" name="bang-g-9"></a>Bảng G.9, hoặc xác định theo tài liệu chuẩn khác (ví dụ [5]) - Hệ số không gian sàn 1)
 
 | Không gian sử dụng<sup>2)</sup>, 3) | Hệ số không gian sàn, m2/người |
 | --- | --- |

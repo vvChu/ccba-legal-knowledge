@@ -39,14 +39,14 @@ _CHÚ THÍCH:_
 
 **CHÚ THÍCH 1:** Quy định về số tầng (chiều cao PCCC cho phép), diện tích khoang cháy của các nhà thuộc nhóm nguy hiểm cháy theo công năng F1.3 có chiều cao PCCC từ trên 75 m đến 150 m được quy định tại Phụ lục A.
 
-**CHÚ THÍCH 2:** Các bộ phận chịu lực của nhà hai tầng có bậc chịu lửa IV phải có giới hạn chịu lửa không thấp hơn R 30.
+**CHÚ THÍCH 2:** Các bộ phận chịu lực của nhà hai tầng có bậc chịu lửa IV phải có giới hạn chịu lửa không thấp hơn R 30. Trường hợp nhà được trang bị hệ thống báo cháy tự động hoặc hệ thống chữa cháy tự động, hoặc nếu nhà có tối thiểu hai cầu thang thoát nạn thỏa mãn yêu cầu của quy chuẩn này thì chiều cao bố trí các gian phòng trên tuân thủ Bảng H.8.
 
 <a id="muc-H-2"></a>
 ### H.2  Nhà công cộng
 
 ### <a id="muc-h-2-1" name="muc-h-2-1"></a>H.2.1  Quy định chung
 
-Bậc chịu lửa, cấp nguy hiểm cháy kết cấu, chiều cao PCCC lớn nhất cho phép của nhà và diện tích một tầng trong phạm vi một khoang cháy đối với nhà công cộng, bao gồm cả khách sạn và nhà căn hộ cho thuê (apartment) (trừ ký túc xá và khách sạn kiểu căn hộ như nhà ở) được quy định tại Bảng H.2.
+Bậc chịu lửa, cấp nguy hiểm cháy kết cấu, chiều cao PCCC lớn nhất cho phép của nhà và diện tích một tầng trong phạm vi một khoang cháy đối với nhà công cộng, bao gồm cả khách sạn và nhà căn hộ cho thuê (apartment) (trừ ký túc xá dạng căn hộ) được quy định tại Bảng H.2.
 
 Cần tuân thủ thêm các quy định bổ sung tại H.2.2 đến H.2.12 đối với các nhà công cộng theo nhóm nguy hiểm cháy theo công năng tương ứng.
 
@@ -73,7 +73,7 @@ _CHÚ THÍCH:_
 
 **CHÚ THÍCH 3:** Trong nhà có bậc chịu lửa IV với chiều cao 2 tầng thì kết cấu chịu lực của nhà phải có giới hạn chịu lửa không thấp hơn R 45.
 
-**CHÚ THÍCH 4:** Quy định về số tầng (chiều cao PCCC cho phép), diện tích khoang cháy của các nhà công cộng có chiều cao PCCC từ trên 50 m đến 150 m được quy định tại Phụ lục A.
+**CHÚ THÍCH 4:** Quy định về số tầng (chiều cao PCCC cho phép), diện tích khoang cháy của các nhà công cộng có chiều cao PCCC từ trên 50 m đến 150 m được quy định tại Phụ lục A. Trường hợp nhà được trang bị hệ thống báo cháy tự động hoặc hệ thống chữa cháy tự động, hoặc nếu nhà có tối thiểu hai cầu thang thoát nạn thỏa mãn yêu cầu của quy chuẩn này thì chiều cao bố trí các gian phòng trên tuân thủ Bảng H.8.
 
 <a id="muc-H-2-2"></a>
 ### H.2.2  Các cơ sở dịch vụ (nhóm F3.5)
@@ -119,7 +119,7 @@ _CHÚ THÍCH:_
 
 **CHÚ THÍCH 3:** Đối với nhà cửa hàng có bậc chịu lửa I và II, cho phép tăng chiều cao của nhà thêm 1 tầng nếu chỉ bố trí kho hàng, các gian phòng phục vụ, dịch vụ và phòng kỹ thuật ở tầng trên cùng.
 
-**CHÚ THÍCH 4:** Số tầng được tính bằng số các tầng trên mặt đất không kể tầng kỹ thuật trên cùng.
+**CHÚ THÍCH 4:** Số tầng được tính bằng số các tầng trên mặt đất không kể tầng kỹ thuật trên cùng. Trường hợp nhà được trang bị hệ thống báo cháy tự động hoặc hệ thống chữa cháy tự động, hoặc nếu nhà có tối thiểu hai cầu thang thoát nạn thỏa mãn yêu cầu của quy chuẩn này thì chiều cao bố trí các gian phòng trên tuân thủ Bảng H.8.
 
 <a id="muc-H-2-4"></a>
 ### H.2.4  Nhà trẻ, mẫu giáo, mầm non
@@ -150,10 +150,13 @@ _CHÚ THÍCH:_
 - Trong các nhà trẻ 3 tầng thì các phòng cho lớp bé cần bố trí ở tầng 1.
 
 <a id="muc-H-2-4-4"></a>
-### H.2.4.4  Trên tầng 3 của nhà trẻ cho phép bố trí các phòng dành cho lớp lớn, phòng học nhạc và thể chất, phòng chơi, phòng phục vụ. Khi đó các phòng có diện tích lớn hơn 50 m2 thì phải có một trong các lối ra thoát nạn dẫn trực tiếp vào buồng thang bộ.
+### H.2.4.4  Bố trí các phòng trên tầng 3 nhà trẻ, mẫu giáo, mầm non
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+H.2.4.4 Trên tầng 3 của nhà trẻ, mẫu giáo, mầm non cho phép bố trí các phòng dành cho lớp lớn, phòng học nhạc và thể chất, phòng chơi, phòng phục vụ. Khi đó các phòng có diện tích lớn hơn 50 m2 thì phải có một trong các lối ra thoát nạn dẫn trực tiếp vào thang bộ thoát nạn hoặc đi qua hành lang thoát nạn vào thang bộ thoát nạn.
 
 Trong nhà trẻ, mẫu giáo, mầm non, các hành lang nối các buồng thang bộ cần được ngăn cách với các phòng bằng vách ngăn cháy không thấp hơn loại 2. Các cửa vào các phòng phải được chèn kín.
-
 <a id="muc-H-2-4-5"></a>
 ### H.2.4.5  Phần phụ của nhà xây liền kề mà được sử dụng làm phòng chơi cho các cháu trong nhà trẻ, mẫu giáo, mầm non cần được thiết kế có cùng bậc chịu lửa và cấp nguy hiểm cháy kết cấu như nhà chính.
 
@@ -185,7 +188,7 @@ Trong nhà trẻ, mẫu giáo, mầm non, các hành lang nối các buồng tha
 | ≤ 280 | S0 | III | 7 (2) |
 | Không hạn chế | S0 | I, II | 15 (4) | |
 
-_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng._
+_CHÚ THÍCH: Số tầng nhà được xác định bằng số các tầng trên mặt đất, không tính tầng kỹ thuật trên cùng. Đối với trường trung học cơ sở và trung học phổ thông hoặc tương đương, chiều cao PCCC lớn nhất cho phép của nhà được lấy đến 25 m (7 tầng) nếu nhà có tối thiểu hai thang thoát nạn bảo đảm yêu cầu của quy chuẩn này._
 
 <a id="muc-H-2-5-2"></a>
 ### H.2.5.2  Chiều cao PCCC của các nhà khối học và nhà nội trú dành cho trẻ em khiếm khuyết về thể chất và (hoặc) trí tuệ không được cao quá 9 m.
@@ -229,7 +232,7 @@ _CHÚ THÍCH:_
 
 **CHÚ THÍCH 2:** Trong các nhà nhóm F 2.2, không được bố trí các sàn nhảy có sức chứa lớn hơn 400 người cũng như các gian phòng có công năng khác với sức chứa lớn hơn 600 người ở chiều cao PCCC của tầng tương ứng lớn hơn 9 m Trong nhà có bậc chịu lửa I và cấp nguy hiểm cháy kết cấu S0, cho phép bố trí các gian sức chứa đến 300 chỗ ở chiều cao lớn hơn 28 m, nhưng phải tuân thủ yêu cầu tại A.2.4.
 
-**CHÚ THÍCH 3:** Khi kết hợp rạp chiếu phim hoạt động quanh năm với rạp chiếu phim hoạt động mùa vụ với bậc chịu lửa khác nhau thì các rạp này phải được ngăn cách với nhau bằng tường ngăn cháy loại 2.
+**CHÚ THÍCH 3:** Khi kết hợp rạp chiếu phim hoạt động quanh năm với rạp chiếu phim hoạt động mùa vụ với bậc chịu lửa khác nhau thì các rạp này phải được ngăn cách với nhau bằng tường ngăn cháy loại 2. Trường hợp nhà được trang bị hệ thống báo cháy tự động hoặc hệ thống chữa cháy tự động, hoặc nếu nhà có tối thiểu hai cầu thang thoát nạn thỏa mãn yêu cầu của quy chuẩn này thì chiều cao bố trí các gian phòng trên tuân thủ Bảng H.8.
 
 <a id="muc-H-2-7"></a>
 ### H.2.7  Nhà và công trình thể thao
@@ -271,7 +274,17 @@ _CHÚ THÍCH:_
 ### H.2.9  Bệnh viện
 
 <a id="muc-H-2-9-1"></a>
-### H.2.9.1  Nhà bệnh viện (nhóm F1.1) cần được bố trí trong các nhà đứng độc lập hoặc trong khoang cháy riêng với chiều cao PCCC không quá 28 m. Nhà bệnh viện cao từ 2 tầng trở lên phải có bậc chịu lửa I hoặc II và cấp nguy hiểm cháy kết cấu S0.
+### H.2.9.1  Bố trí nhà bệnh viện (nhóm F1.1)
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+H.2.9.1 Nhà bệnh viện (nhóm F1.1) cần được bố trí trong các nhà đứng độc lập hoặc trong khoang cháy riêng với chiều cao PCCC không quá 28 m (hoặc 9 tầng).
+
+Trường hợp bố trí các công năng chính của bệnh viện (nhóm F1.1) vượt quá chiều cao PCCC 28 m (hoặc quá 9 tầng, nhưng tối đa 50 m), phải tuân thủ đồng thời các yêu cầu sau:
+- Bậc chịu lửa của nhà phải là bậc I;
+- Toàn bộ nhà được trang bị hệ thống chữa cháy tự động;
+- Các buồng thang bộ thoát nạn phải là buồng thang không nhiễm khói loại N1 hoặc N2;
+- Mỗi tầng nhà phải có ít nhất một thang máy chữa cháy phục vụ.
 
 <a id="muc-H-2-9-2"></a>
 ### H.2.9.2  Các nhà bệnh viện 1 tầng cho phép có bậc chịu lửa III và cấp nguy hiểm cháy kết cấu không thấp hơn S1, khi đó diện tích lớn nhất cho phép của một tầng trong phạm vi một khoang cháy không vượt quá 2 000 m2 đối với nhà có cấp nguy hiểm cháy kết cấu S0 và không quá 1 200 m2 đối với nhà cấp S1. Khi đó các tường, vách ngăn và sàn, bao gồm cả có sử dụng kết cấu gỗ, phải có cấp nguy hiểm cháy K0.
@@ -289,19 +302,33 @@ _CHÚ THÍCH:_
 ### H.2.10  Nhà khám chữa bệnh đa khoa (nhóm F3.4)
 
 <a id="muc-H-2-10-1"></a>
-### H.2.10.1  Chiều cao PCCC của nhà khám bệnh đa khoa ngoại trú (nhóm F3.4) tối đa 28 m. Bậc chịu lửa của nhà từ 2 tầng trở lên không được thấp hơn bậc II, cấp nguy hiểm cháy kết cấu không thấp hơn S0.
+### H.2.10.1  Chiều cao PCCC của nhà khám bệnh đa khoa ngoại trú
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+H.2.10.1 Chiều cao PCCC của nhà khám bệnh đa khoa ngoại trú (nhóm F3.4) tối đa 28 m (hoặc 9 tầng). Bậc chịu lửa của nhà từ 2 tầng trở lên không được thấp hơn bậc II, cấp nguy hiểm cháy kết cấu không thấp hơn S0.
+
+Trường hợp bố trí các công năng đa khoa ngoại trú (nhóm F3.4) vượt quá chiều cao PCCC 28 m (hoặc quá 9 tầng, nhưng tối đa 50 m), phải tuân thủ đồng thời các yêu cầu bổ sung như quy định tại H.2.9.1.
 
 <a id="muc-H-2-10-2"></a>
 ### H.2.10.2  Các cơ sở y tế không có nội trú cho phép đặt trong các nhà một tầng có bậc chịu lửa III và cấp nguy hiểm cháy kết cấu không thấp hơn S1, khi đó diện tích lớn nhất cho phép của một tầng trong phạm vi một khoang cháy không lớn hơn 3 000 m2 đối với nhà có cấp S0 và không lớn hơn 2 000 m2 đối với nhà có cấp S1. Khi đó các tường và cách ngăn chia hành lang và tiền sảnh với các phòng lân cận, bao gồm cả việc sử dụng kết cấu gỗ, phải có cấp nguy hiểm cháy K0.
 
 <a id="muc-H-2-10-3"></a>
-### H.2.10.3  Các gian phòng khám đa khoa ngoại trú (nhóm F3.4) cho phép đặt trong các phần phụ của nhà có bậc chịu lửa II và cấp nguy hiểm cháy kết cấu không thấp hơn S0. Các phòng này không được đặt ở độ cao quá 28 m.
+### H.2.10.3  Gian phòng khám đa khoa ngoại trú
+
+> *[Bãi bỏ bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023)]*
+
+*(Nội dung điểm H.2.10.3 đã được bãi bỏ theo quy định tại Thông tư 09/2023/TT-BXD)*
 
 <a id="muc-H-2-1-1"></a>
 ### H.2.11  Nhà ngủ của cơ sở điều dưỡng
 
-<a id="muc-H-2-1-1-1"></a>
-### H.2.11.1  Các nhà ngủ của cơ sở điều dưỡng không được cao quá 28 m.
+<a id="muc-H-2-1-1-1"></a><a id="muc-H-2-11-1"></a>
+### H.2.11.1  Chiều cao PCCC của nhà ngủ cơ sở điều dưỡng
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+H.2.11.1  Các nhà ngủ của cơ sở điều dưỡng không được cao quá 28 m (hoặc 9 tầng). Trường hợp cao quá 28 m (hoặc quá 9 tầng) phải tuân thủ các yêu cầu bổ sung như quy định tại H.2.9.1. Bậc chịu lửa của nhà từ 2 tầng trở lên không được thấp hơn bậc II, cấp nguy hiểm cháy kết cấu không thấp hơn S0.
 
 <a id="muc-H-2-1-1-2"></a>
 ### H.2.11.2  Đối với nhà ngủ của cơ sở điều dưỡng cao hơn 2 tầng, bậc chịu lửa phải không thấp hơn bậc II, cấp nguy hiểm cháy kết cấu S0.
@@ -354,6 +381,15 @@ _CHÚ THÍCH:_
 <a id="muc-H-2-1-2-9"></a>
 ### H.2.12.9  Chiều cao PCCC lớn nhất cho phép bố trí các gian giảng đường, khán phòng, phòng hội nghị, hội thảo, gian tập thể thao không có khán giả và các gian phòng khác có công năng tương tự trong nhà có công năng bất kỳ được quy định tại Bảng H.8 có kể đến bậc chịu lửa, cấp nguy hiểm cháy kết cấu của nhà và sức chứa của gian.
 
+
+<a id="muc-H-2-12-10"></a><a id="muc-H-2-1-2-1-0"></a>
+### H.2.12.10  Xác định chiều cao PCCC theo số tầng trên mặt đất
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+Chiều cao PCCC lớn nhất cho phép của nhà tại các bảng H.5, H.6 và H.7 có thể xác định không theo giá trị mét, mà theo số tầng trên mặt đất không kể tầng kỹ thuật trên cùng (giá trị trong ngoặc đơn tại cột 4 của các bảng, nếu có) khi nhà được trang bị hệ thống báo cháy tự động hoặc hệ thống chữa cháy tự động.
+
+
 ### <a id="bang-h-8" name="bang-h-8"></a>Bảng H.8 - Chiều cao PCCC lớn nhất cho phép bố trí một số gian phòng
 
 > [!NOTE]
@@ -377,7 +413,7 @@ _CHÚ THÍCH:_
 - 1), không cho phép bố trí các gian phòng nói trên cao quá tầng 2, còn đối với các trường học (nhóm F4.
 - 1) - không cho phép cao quá tầng 3.
 
-**CHÚ THÍCH 3:** Tổng sức chứa của các gian phòng đặt trên cùng một tầng không được vượt quá giá trị cho phép trong bảng này (trừ trường hợp các gian phòng đặt ở các khoang cháy khác nhau).
+**CHÚ THÍCH 3:** Tổng sức chứa của các gian phòng đặt trên cùng một tầng không được vượt quá giá trị cho phép trong bảng này (trừ trường hợp các gian phòng đặt ở các khoang cháy khác nhau). Trường hợp nhà được trang bị hệ thống báo cháy tự động hoặc hệ thống chữa cháy tự động, hoặc nếu nhà có tối thiểu hai cầu thang thoát nạn thỏa mãn yêu cầu của quy chuẩn này thì chiều cao bố trí các gian phòng trên tuân thủ Bảng H.8.
 
 <a id="muc-H-3"></a>
 ### H.3  Nhà hành chính - phụ trợ của cơ sở sản xuất và kho
@@ -392,7 +428,7 @@ Bậc chịu lửa, cấp nguy hiểm cháy kết cấu, chiều cao tối đa c
 
 Bậc chịu lửa, cấp nguy hiểm cháy kết cấu, chiều cao lớn nhất cho phép của nhà và diện tích một tầng trong phạm vi một khoang cháy đối với nhà sản xuất phụ thuộc vào hạng nguy hiểm cháy và cháy nổ được quy định tại Bảng H.9.
 
-Số tầng nhà, diện tích một tầng trong phạm vi một khoang cháy của nhà sản xuất xác định theo A.2.1, Phụ lục A và H.6, Phụ lục H. Khi có các lỗ mở công nghệ trên các sàn giữa các tầng thì tổng diện tích các tầng này không được vượt quá diện tích tầng quy định tại Bảng H.9.
+Số tầng nhà, diện tích một tầng trong phạm vi một khoang cháy của nhà sản xuất xác định theo A.1.2, Phụ lục A và H.6, Phụ lục H. Khi có các lỗ mở công nghệ trên các sàn giữa các tầng thì tổng diện tích các tầng này không được vượt quá diện tích tầng quy định tại Bảng H.9.
 
 Khi trang bị chữa cháy tự động toàn nhà cho nhà sản xuất, cho phép tăng gấp 2 lần các diện tích sàn trong phạm vi một khoang cháy quy định tại Bảng H.9, trừ nhà có bậc chịu lửa IV và V.
 
@@ -499,7 +535,7 @@ _CHÚ THÍCH:_
 **CHÚ THÍCH 2:** Dấu "-" nghĩa là nhà có bậc chịu lửa theo hàng ngang tương ứng thì không thể có số tầng theo cột dọc tương ứng.
 
 _GHI CHÚ CHỈ SỐ PHỤ:_
-- **1)** Chiều cao nhà trong bảng này được tính từ sàn tầng 1 đến trần tầng trên cùng, bao gồm cả tầng kỹ thuật; với trần nhà có cao độ thay đổi thì lấy giá trị cao đỏ trung bình. Khi xác định số tầng nhà thì chỉ tính các tầng trên mặt đất. Không quy định chiều cao nhà một tầng có cáp nguy hiểm cháy S0 và S1.
+- **1)** Chiều cao nhà trong bảng này được tính từ sàn tầng 1 đến trần tầng trên cùng, bao gồm cả tầng kỹ thuật; với trần nhà có cao độ thay đổi thì lấy giá trị cao đỏ trung bình. Khi xác định số tầng nhà thì chỉ tính các tầng trên mặt đất. Không quy định chiều cao nhà một tầng có cáp nguy hiểm cháy S0 và S1. Trường hợp nhà được trang bị hệ thống báo cháy tự động hoặc hệ thống chữa cháy tự động, hoặc nếu nhà có tối thiểu hai cầu thang thoát nạn thỏa mãn yêu cầu của quy chuẩn này thì chiều cao bố trí các gian phòng trên tuân thủ Bảng H.8.
 
 <a id="muc-H-5"></a>
 ### H.5  Nhà kho
@@ -562,10 +598,14 @@ _CHÚ THÍCH:_
 
 _GHI CHÚ CHỈ SỐ PHỤ:_
 - **1)** Chiều cao nhà trong bảng này được tính từ sàn tầng 1 đến trần tầng trên cùng, bao gồm cả tầng kỹ thuật, với trần nhà có cao độ thay đổi thì lấy giá trị cao độ trung bình. Khi xác định số tầng nhà thì chỉ tính các tầng trên mặt đất. Không quy định chiều cao nhà một tầng có bậc chịu lửa I, II, III và cấp nguy hiểm cháy S0. Chiều cao nhà một tầng có bậc chịu lửa IV và cấp nguy hiểm cháy S0, S1 không được lớn hơn 25 m, đối với cấp S2, S3 - không lớn hơn 18 m (tính từ mặt sàn đến mép dưới của kết cấu chịu lực mái tại vị trí gối đỡ)
-- **2)** Nhà di động
+- **2)** Nhà di động Trường hợp nhà được trang bị hệ thống báo cháy tự động hoặc hệ thống chữa cháy tự động, hoặc nếu nhà có tối thiểu hai cầu thang thoát nạn thỏa mãn yêu cầu của quy chuẩn này thì chiều cao bố trí các gian phòng trên tuân thủ Bảng H.8.
 
 <a id="muc-H-5-2"></a>
-### H.5.2  Đối với các nhà kho có sàn công tác, khung giá đỡ, tầng lửng thì số tầng và diện tích tầng trong phạm vi một khoang cháy xác định tương tự như nhà sản xuất đã được quy định tại H.4.1. Khi có các lỗ mở trên sàn giữa các tầng thì tổng diện tích các tầng này không được vượt quá giá trị quy định tại Bảng H.10.
+### H.5.2  Nhà kho có sàn công tác, sàn đỡ thiết bị và sàn lửng
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+H.5.2  Đối với các nhà kho có sàn công tác, sàn đỡ thiết bị và sàn lửng thì số tầng và diện tích tầng trong phạm vi một khoang cháy xác định tương tự như nhà sản xuất đã được quy định tại H.4.1. Khi có các lỗ mở trên sàn giữa các tầng thì tổng diện tích các tầng này không được vượt quá giá trị quy định tại Bảng H.11.
 
 <a id="muc-H-5-3"></a>
 ### H.5.3  Khi trang bị chữa cháy tự động toàn nhà cho các nhà kho, có thể tăng tối đa 2 lần diện tích sàn trong phạm vi một khoang cháy so với giá trị quy định tại Bảng H.11, trừ các nhà có bậc chịu lửa IV và V.
@@ -619,3 +659,13 @@ Diện tích một tầng trong phạm vi một khoang cháy là diện tích t�
 Trong trường hợp kết hợp nhiều yêu cầu nêu trên, thì diện tích tầng và chiều cao nhà được lấy theo yêu cầu bất lợi nhất đối với nhà có cấp nguy hiểm cháy kết cấu tương ứng.
 
 Trong trường hợp không xác định được bậc chịu lửa và cấp nguy hiểm cháy kết cấu của nhà, cho phép lấy bậc chịu lửa V và cấp nguy hiểm cháy kết cấu S3 để xác định các yêu cầu an toàn cháy khác (xác định khoảng cách phòng cháy chống cháy và các yêu cầu khác).
+
+<a id="muc-H-7"></a>
+### H.7  Các yêu cầu an toàn cháy bổ sung trong một số trường hợp khác
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+H.7.1 Trong trường hợp phần nhà có công năng xác định (và các công năng phụ trợ cho công năng chính) được ngăn cách thành một khoang cháy riêng thì các yêu cầu của Phụ lục H được áp dụng cho phần nhà (khoang cháy) đó. Các công năng độc lập khác được phép áp dụng các yêu cầu an toàn cháy theo công năng riêng của chúng.
+
+H.7.2 Đối với các nhà hỗn hợp có từ hai nhóm nguy hiểm cháy theo công năng trở lên, nếu các khu vực công năng khác nhau không được ngăn cách thành các khoang cháy riêng thì bậc chịu lửa, cấp nguy hiểm cháy kết cấu, chiều cao PCCC và diện tích sàn lớn nhất cho phép của một tầng trong phạm vi khoang cháy phải lấy theo yêu cầu khắt khe nhất của các công năng có trong nhà.
+
