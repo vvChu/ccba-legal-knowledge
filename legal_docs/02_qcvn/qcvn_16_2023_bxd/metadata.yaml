@@ -1,0 +1,33 @@
+id: QCVN-16-2023-BXD
+document_number: QCVN 16:2023/BXD
+title: Quy chuẩn kỹ thuật quốc gia về Sản phẩm, hàng hóa vật liệu xây dựng
+type: Quy chuẩn kỹ thuật quốc gia
+issued_by: Bộ Xây dựng
+signer: Thứ trưởng Nguyễn Văn Sinh
+issued_date: '2023-06-30'
+effective_date: '2024-01-01'
+status: active
+bundle_path: legal_docs/02_qcvn/qcvn_16_2023_bxd/
+pdf_path: legal_docs/02_qcvn/qcvn_16_2023_bxd/sources/qcvn_16_2023_bxd.pdf
+pdf_sha256: 5ea5429a6fd59de8c9b0d897b8f7ebe1ea78830ba51259aa3979074720983be5
+pdf_status: verified
+cong_bao_number: 857+858/2023
+source_assets:
+  pdf:
+    sha256: 5ea5429a6fd59de8c9b0d897b8f7ebe1ea78830ba51259aa3979074720983be5
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_16_2023_bxd/qcvn_16_2023_bxd.pdf
+    status: verified
+    origin: official_gazette_vector
+  docx:
+    sha256: 1287b8dcd338f8af8b9312c8fdca1a0c7b6abbccc367cf4e212fd956c6e4e17e
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_16_2023_bxd/qcvn_16_2023_bxd.docx
+    status: verified
+source_url: https://congbao.chinhphu.vn/van-ban/thong-tu-so-04-2023-tt-bxd-39819.htm
+relations:
+  replaces: QCVN 16:2019/BXD
+  promulgated_by: 04/2023/TT-BXD
+replaces: QCVN 16:2019/BXD
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-26T21:57:00+07:00'
+pdf_origin: official_gazette_vector

@@ -1,0 +1,4 @@
+﻿TT,Chỉ tiêu kỹ thuật,"Mức yêu cầu — $BI_{a}$ $E_{v}$ ≤ 0,5%","Mức yêu cầu — $BI_{b}$ 0,5% ≤ 3%","Mức yêu cầu — $BI_{b}$ 0,5% ≤ 3%",Mức yêu cầu — $BII_{a}$ 3% ≤ 6%,Mức yêu cầu — $BII_{b}$ 6% ≤ 10%,Mức yêu cầu — BIII $E_{v}$ > 10%,Phương pháp thử,Quy cách mẫu
+3.2.,"Độ chịu mài mòn đối với gạch phủ men, tính theo giai đoạn mài mòn bắt đầu xuất hiện khuyết tật, cấp","I, II, III, IV","I, II, III, IV","I, II, III, IV","I, II, III, IV","I, II, III, IV","I, II, III, IV",TCVN 6415-7:2016<br>(ISO 10545-7:1996),
+4.,"Hệ số giãn nở nhiệt dài, từ nhiệt độ phòng thí nghiệm đến 100 °C, 10$^{-6}$/$^{0}$C, không lớn hơn",9,9,9,9,9,9,TCVN 6415-8:2016<br>(ISO 10545-8:2014),
+5.,"Hệ số giãn nở ẩm, mm/m, không lớn hơn",-,-,-,-,"0,6","0,6",TCVN 6415-10:2016<br>(ISO 10545-10:1995),

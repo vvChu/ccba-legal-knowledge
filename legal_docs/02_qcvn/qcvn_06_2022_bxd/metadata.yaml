@@ -7,6 +7,7 @@ issued_date: '2022-11-30'
 effective_date: '2023-01-16'
 status: current
 doc_type: qcvn
+promulgated_by: 06/2022/TT-BXD
 has_amendments: true
 amendments:
 - id: SD1-2023-QCVN-06
@@ -61,3 +62,16 @@ schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-09-07T15:00:00+07:00'
 pdf_origin: docx_vector_rendered
 raw_scan_pdf: sources/qcvn_06_2022_bxd_raw_scan.pdf
+verification_scope:
+  type: vbhn_consolidation
+  base_docx: sources/qcvn_06_2022_bxd.docx
+  consolidated_with:
+    - id: SD1-2023-QCVN-06
+      title: Sửa đổi 1:2023 QCVN 06:2022/BXD (Thông tư 09/2023/TT-BXD)
+      cong_bao_number: 235+236/2023
+  consolidation_note: >
+    Markdown bundle là bản VBHN hợp nhất (Sửa đổi 1:2023). Một số điều khoản
+    trong DOCX gốc 2022 đã bị bãi bỏ hoặc thay thế bởi SĐ1:2023 (54/1989 đoạn,
+    bao gồm mục 1.3 Tài liệu viện dẫn, và các quy định tại 3.4.5, 5.1.3.4 cũ).
+    Parity 97.3% phản ánh đúng delta hợp nhất — không phải lỗi bỏ sót.
+    ADR 0037 Anti-Vacuous Pass: delta_paragraphs=54, delta_pct=2.7%.

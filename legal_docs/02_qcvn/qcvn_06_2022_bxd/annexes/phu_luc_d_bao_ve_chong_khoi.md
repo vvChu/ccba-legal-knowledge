@@ -15,11 +15,18 @@ BẢO VỆ CHỐNG KHÓI
 <a id="muc-D-1"></a>
 ### D.1  Yêu cầu chung
 
-### <a id="muc-d-1-1" name="muc-d-1-1"></a>D.1.1  Việc bảo vệ chống khói cho nhà và công trình nhằm ngăn chặn và (hoặc) hạn chế sự lan truyền khói và các sản phẩm cháy (sau đây gọi chung là khói) trong nhà, với mục đích:
+<a id="muc-d-1-1"></a>
+### D.1.1  Mục đích bảo vệ chống khói
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+D.1.1  Việc bảo vệ chống khói cho nhà và công trình nhằm ngăn chặn và (hoặc) hạn chế sự lan truyền khói và các sản phẩm cháy (sau đây gọi chung là khói) trong nhà, với mục đích:
 
 - Tạo điều kiện an toàn cho người thoát nạn và bảo vệ tài sản khi xảy ra cháy;
 
 - Tạo các điều kiện cần thiết cho lực lượng chữa cháy cứu người, phát hiện và khoanh vùng đám cháy trong nhà.
+
+Nếu không có các quy định cụ thể về thời gian tiếp cận công trình của lực lượng chữa cháy và thời gian mà lực lượng chữa cháy sẽ hoạt động trong công trình để chữa cháy, và không có yêu cầu về bảo vệ tài sản khi xảy ra cháy, thì việc thiết kế bảo vệ chống khói của nhà cần bảo đảm mục tiêu tối thiểu là an toàn cho người thoát nạn ra ngoài.
 
 <a id="muc-D-1-2"></a>
 ### D.1.2  Các giải pháp bảo vệ chống khói cho nhà và công trình bao gồm:
@@ -32,16 +39,21 @@ BẢO VỆ CHỐNG KHÓI
 
 - Tạo áp suất dương cho các khu vực cần chống nhiễm khói.
 
-- Có thể áp dụng một hoặc đồng thời nhiều giải pháp nêu trên, và phải bảo đảm điều kiện biên dưới của lớp khói không thấp hơn 2 m so với mặt sàn cao nhất có thể đi bộ trong gian phòng hoặc trong hành lang được bảo vệ chống khói.
+- Có thể áp dụng một hoặc đồng thời nhiều giải pháp nêu trên, và phải bảo đảm điều kiện biên dưới của lớp khói không thấp hơn 2 m (hoặc lấy theo giá trị quy định trong tài liệu chuẩn áp dụng) so với mặt sàn cao nhất có thể đi bộ trong gian phòng hoặc trong hành lang được bảo vệ chống khói.
 
-### <a id="muc-d-1-3" name="muc-d-1-3"></a>D.1.3  Các thiết bị của hệ thống hút xả khói và cấp không khí chống khói, không phụ thuộc vào cơ chế hoạt động (tự nhiên hoặc cưỡng bức), phải được dẫn động (kích hoạt) tự động (từ tín hiệu báo cháy tự động hoặc từ thiết bị chữa cháy tự động) và dẫn động (kích hoạt) từ xa (từ phòng trực điều độ của nhà, hoặc phòng trực chống cháy hoặc từ các nút bấm được đặt trên lối thoát nạn hoặc trong các tủ báo cháy. Các nút bấm này phải được bố trí sao cho con người có thể dễ dàng kích hoạt).
+<a id="muc-d-1-3"></a>
+### D.1.3  Yêu cầu đối với thiết bị hệ thống bảo vệ chống khói
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+D.1.3 Các thiết bị của hệ thống hút xả khói và cấp không khí chống khói, không phụ thuộc vào cơ chế hoạt động (tự nhiên hoặc cưỡng bức), phải luôn bảo đảm hoạt động đúng thiết kế khi có cháy.
 
 Các thiết bị của hệ thống bảo vệ chống khói (bao gồm cả các đường ống) phải được lắp đặt đúng quy định của nhà sản xuất, được kiểm tra định kỳ và bảo trì, bảo dưỡng thích hợp. Các trang bị phụ trợ để lắp đặt, treo các thiết bị phải bảo đảm duy trì khả năng hoạt động của thiết bị theo quy định của nhà sản xuất trong suốt thời gian khai thác sử dụng.
 
 <a id="muc-D-1-4"></a>
 ### D.1.4  Khi bật hệ thống hút xả khói của nhà khi có cháy, phải tắt các hệ thống thông gió, điều hòa không khí chung và các hệ thống thông gió, điều hòa không khí phục vụ yêu cầu công nghệ (nếu có) của nhà (trừ các hệ thống phục vụ an toàn công nghệ), và đóng các van ngăn cháy thường mở. Việc tắt các hệ thống thông gió, điều hòa không khí có thể là toàn phần hoặc một phần, tùy thuộc vào thiết kế cụ thể, nhưng phải thỏa mãn điều kiện không để lan truyền khói và lửa qua hệ thống thông gió, điều hòa không khí chung.
 
-### <a id="muc-d-1-5" name="muc-d-1-5"></a>D.1.5  Hệ thống thông gió thoát khói phải độc lập cho từng khoang cháy, ngoại trừ:
+### <a id="muc-d-1-5" name="muc-d-1-5"></a>D.1.5  Hệ thống thông gió thoát khói phải hoạt động độc lập cho từng khoang cháy, ngoại trừ:
 
 - Các hệ thống cấp không khí tạo áp suất dương để bảo vệ các buồng thang bộ và giếng thang máy liên thông giữa các khoang cháy khác nhau;
 
@@ -53,66 +65,40 @@ Các thiết bị của hệ thống bảo vệ chống khói (bao gồm cả c�
 Không cho phép sử dụng chung hệ thống bảo vệ chống khói đối với các gian phòng có nhóm nguy hiểm cháy theo công năng khác nhau.
 
 <a id="muc-D-1-7"></a>
-### D.1.7  Cho phép thay đổi các yêu cầu trong Phụ lục D này trên cơ sở có luận chứng kỹ thuật về các giải pháp bảo vệ chống khói phù hợp với tiêu chuẩn được phép áp dụng.
+### D.1.7  Thay đổi yêu cầu trong Phụ lục D
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+D.1.7 Cho phép thay đổi các yêu cầu trong Phụ lục D này trên cơ sở có thiết kế bảo vệ chống khói phù hợp với tiêu chuẩn được phép áp dụng và thỏa mãn yêu cầu tại D.1.1.
 
 ### <a id="muc-d-1-8" name="muc-d-1-8"></a>D.1.8  Đối với một số gian phòng có công năng đặc biệt hoặc có yêu cầu công nghệ đặc biệt (như phòng sạch, kho lạnh), bảo vệ chống khói có thể thực hiện theo tài liệu chuẩn được phép áp dụng. Trong mọi trường hợp, phải đảm bảo an toàn cho người trong nhà thoát nạn và lực lượng cứu hộ tiếp cận.
 
-_CHÚ THÍCH: Khái niệm và phân loại phòng sạch xác định theo ISO 14644 hoặc tiêu chuẩn tương đương._
+_CHÚ THÍCH: Khái niệm và phân loại phòng sạch xác định theo TCVN 8664 (ISO 14644) hoặc tiêu chuẩn tương đương._
 
 <a id="muc-D-2"></a>
-### D.2  Việc hút xả khói khi có cháy phải được thực hiện từ các khu vực sau:
+### D.2  Khu vực phải thực hiện thoát khói khi có cháy
 
-a) Từ hành lang (trừ hành lang bên) và sảnh của nhà ở, nhà công cộng, nhà hành chính - phụ trợ (trong các cơ sở công nghiệp) và nhà hỗn hợp có chiều cao PCCC lớn hơn 28 m;
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
 
-b) Từ các hành lang và đường hầm đi bộ của tầng hầm, tầng nửa hầm của các nhà ở, nhà công cộng, nhà hành chính - phụ trợ (trong các cơ sở công nghiệp), nhà sản xuất và nhà hỗn hợp, khi các hành lang và đường hầm đi bộ này liên thông với các phòng có người làm việc thường xuyên;
+D.2  Việc thoát khói khi có cháy phải được thực hiện từ các khu vực sau:
 
-c) Từ các hành lang có chiều dài lớn hơn 15 m mà không có thông gió tự nhiên khi có cháy của các nhà từ 2 tầng trở lên sau:
+a) Từ các hành lang và sảnh của nhà ở, công cộng, hành chính - dịch vụ và nhà phụ trợ có chiều cao PCCC lớn hơn 28 m;
 
-- Nhà sản xuất, nhà kho hạng A, B và C;
+b) Từ các hành lang (thông với các buồng thang bộ thoát nạn) của các tầng hầm và tầng nửa hầm không có thông gió tự nhiên khi có cháy của nhà ở, công cộng, hành chính - dịch vụ, sản xuất và phụ trợ;
 
-- Nhà công cộng, bao gồm cả nhà hành chính - phụ trợ trong các cơ sở công nghiệp;
+c) Từ các hành lang có chiều dài lớn hơn 15 m không có thông gió tự nhiên khi có cháy của nhà sản xuất, nhà kho và nhà công cộng từ 2 tầng trở lên thuộc bậc chịu lửa I đến IV;
 
-- Nhà hỗn hợp;
+CHÚ THÍCH: Không yêu cầu thiết kế thoát khói cho các hành lang có chiều dài lớn hơn 15 m mà không có thông gió tự nhiên khi có cháy trong các tầng của nhà thuộc nhóm F4 cao từ 6 tầng trở xuống, khi các tầng này được trang bị báo cháy tự động với đầu báo cháy khói, hoặc chữa cháy tự động.
 
-d) Từ hành lang chung (trừ hành lang bên) và sảnh chung của các nhà có buồng thang bộ không nhiễm khói;
+d) Từ các sảnh chung và hành lang thông tầng không có thông gió tự nhiên khi có cháy;
 
-e) Từ các sảnh thông tầng và các hành lang thương mại bao quanh sảnh thông tầng (sau đây gọi chung là sảnh thông tầng);
+e) Từ các gian phòng sản xuất hoặc kho có người làm việc thường xuyên thuộc hạng nguy hiểm cháy A, B, C;
 
-f) Từ các gian phòng có người làm việc thường xuyên, phục vụ sản xuất hoặc kho, bao gồm cả nơi bảo quản lưu trữ sách, tài liệu, hiện vật, xưởng phục chế của bảo tàng (đối với gian phòng lưu trữ dạng kệ thì không phụ thuộc vào việc có người làm việc thường xuyên), nếu các gian phòng này thuộc hạng A, B, C1 đến C3 trong nhà bậc chịu lửa I đến IV, hoặc hạng C4, D, E trong nhà bậc chịu lửa IV;
+f) Từ các gian phòng có người làm việc thường xuyên thuộc nhóm F1, F2, F3, F4 không có thông gió tự nhiên khi có cháy;
 
-g) Từ mỗi gian phòng liên thông với buồng thang bộ không nhiễm khói, hoặc từ mỗi gian phòng không có thông gió tự nhiên khi có cháy sau:
+g) Từ các gian phòng lưu trữ hàng hóa với diện tích lớn hơn 50 m2 có người làm việc thường xuyên.
 
-- Diện tích từ 50 m2 trở lên, thường xuyên hoặc nhất thời tập trung đông người (số lượng hơn 1 người trên 1 m2 sàn, không tính diện tích chiếm chỗ của các thiết bị, vật dụng);
-
-- Các gian thương mại, trưng bày sản phẩm hàng hóa;
-
-- Các phòng đọc và lưu trữ sách của thư viện, các gian triển lãm, bảo tàng có diện tích từ 50 m2 trở lên, có người làm việc thường xuyên, dùng để lưu trữ hoặc sử dụng các chất và vật liệu cháy;
-
-- Phòng thay đồ, gửi đồ diện tích từ 200 m2 trở lên;
-
-h) Các gara giữ xe kín, ngầm hoặc nổi, được xây dựng riêng hoặc là một phần của các nhà có công năng khác và cả các đường dốc được ngăn cách của các gara này.
-
-Cho phép hút xả khói qua hành lang liền kề từ các gian phòng có diện tích đến 200 m2 và hạng nguy hiểm cháy C1, C2, C3, hoặc lưu trữ hoặc sử dụng chất và vật liệu cháy.
-
-Đối với các gian phòng thương mại và văn phòng diện tích không lớn hơn 800 m2, khi khoảng cách từ điểm xa nhất của gian phòng đến lối ra thoát nạn gần nhất không lớn hơn 25 m thì cho phép hút xả khói qua các khu vực liền kề là hành lang, sảnh, sảnh và hành lang thông tầng.
-
-Không cho phép ngăn chia phần hành lang cụt của nhà bằng các vách ngăn có cửa đi thành các đoạn có chiều dài nhỏ hơn 15 m.
-
-_CHÚ THÍCH:_
-
-**CHÚ THÍCH 1:** Khu vực không có thông gió tự nhiên khi có cháy là khu vực không có ô cửa mở trên kết cấu xây dựng ngoài (tường ngoài) hoặc khu vực có ô cửa mở nhưng diện tích không đủ để thoát sản phẩm cháy
-
-
-**CHÚ THÍCH 2:** Để thông gió tự nhiên khi có cháy cho các hành lang phải bố trí các ô cửa sổ mở hoặc lỗ cửa trên tường ngoài với các yêu cầu sau:
-
-- Mép trên ô cửa không thấp hơn 2,5 m và mép dưới ô cửa không cao quá 1,5 m tính từ mặt sàn,
-
-- Tổng chiều rộng phần mở được của các ở cửa không nhỏ hơn 1,6 m cho mỗi đoạn 30 m chiều dài hành lang,
-
-- Ô cửa phải mở được bằng tay một cách dễ dàng khi người đứng trên sàn.
-
-
-**CHÚ THÍCH 3:** Để thông gió tự nhiên khi cháy cho gian phòng phải có các 6 cửa sổ mở hoặc lỗ cửa trên tường ngoài tương tự như CHÚ THÍCH 2, với chiều rộng tối thiểu 0,24 m cho mỗi m chiều dài tường ngoài Nếu tường ngoài chỉ nằm ở 1 phía của gian phòng thì khoảng cách từ tường ngoài này đến tường ngăn bên trong không được lớn hơn 20 m. Nếu các ô cửa mở nằm ở hai kết cấu xây dựng ngoài đối diện nhau thì khoảng cách giữa hai kết cấu đó không lớn hơn 40 m, trong trường hợp này thì chiều dài tường ngoài không được nhỏ hơn 1/3 tổng chiều dài của các tường ngăn phòng bên trong.
+CHÚ THÍCH 4: Để thông gió tự nhiên khi có cháy cho các gian phòng hoặc hành lang, cũng có thể bố trí (phân bố tương đối đều) các ô cửa mở trên kết cấu bao che ngoài của gian phòng, hành lang ở độ cao không nhỏ hơn 2,2 m từ mặt sàn đến mép dưới của ô cửa và với tổng diện tích hữu hiệu không nhỏ hơn 2,5 % diện tích sàn của gian phòng, hành lang.
 
 <a id="muc-D-3"></a>
 ### D.3  Các yêu cầu tại D.2 không cần áp dụng đối với:
@@ -159,23 +145,12 @@ Nếu sử dụng các bộ phận ngăn khói (màn ngăn khói) để phân ch
 
 _CHÚ THÍCH: Màn ngăn khói là màn cuốn được điều khiển tự động từ xa, hoặc là bộ phận kết cấu cố định làm từ vật liệu không cho khói xuyên qua với tính cháy không nguy hiểm hơn Ch1 trên nền không cháy (dạng lưới, vải và các dạng khác), được gắn vào trần gian phòng được bảo vệ hoặc gắn vào lỗ mở trên tường và hạ xuống một đoạn không nhỏ hơn chiều dày lớp khói tạo thành, có tác dụng ngăn khói lan cũng như phân chia gian phòng thành các vùng khói._
 
-### <a id="muc-d-8" name="muc-d-8"></a>D.8  Để thoát khói trực tiếp cho các gian phòng và hành lang của nhà một tầng có thể áp dụng hệ thống hút xả khói theo cơ chế cưỡng bức, hoặc theo cơ chế tự nhiên thông qua các giếng (ống) thu khói với van khói, thông qua các cửa nắp hút khói, hoặc thông qua các cửa trời mở và không đón gió vào.
+<a id="muc-D-8"></a>
+### D.8  Cơ chế hút xả khói và thoát khói tự nhiên
 
-_CHÚ THÍCH:_
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
 
-**CHÚ THÍCH 1:** Hệ thống hút xả khói theo cơ chế cưỡng bức là hệ thống hút xả khói, trong đó lực hút khói ra ngoài được tạo ra và duy trì bởi quạt hút.
-
-
-**CHÚ THÍCH 2:** Hệ thống hút xả khói theo cơ chế tự nhiên là hệ thống hút xả khói, trong đó khói tự thoát ra ngoài nhà qua các lỗ mở trên kết cấu bao che của nhà theo các định luật vật lý tự nhiên.
-
-- Trong các nhà nhiều tầng cần sử dụng hệ thống hút xả khói theo cơ chế cưỡng bức. Cho phép sử dụng hệ thống hút xả khói theo cơ chế tự nhiên đối với tầng trên cùng của nhà nhiều tầng, thông qua van khói, cửa nắp hút khói, hoặc các cửa trời mở, cửa chớp mở và không đón gió vào.
-
-Đối với nhà một tầng và tầng trên cùng của nhà nhiều tầng, cho phép sử dụng thông gió tự nhiên khi có cháy thay cho hệ thống hút xả khói khi bảo đảm các điều kiện sau:
-Đối với nhà một tầng và tầng trên cùng của nhà nhiều tầng, cho phép sử dụng thông gió tự nhiên khi có cháy thay cho hệ thống hút xả khói khi bảo đảm các điều kiện sau:
-
-- Có tính toán thoát khói phù hợp với tiêu chuẩn áp dụng, với các điều kiện bất lợi nhất đối với thoát khói (về nhiệt độ không khí bên ngoài, vận tốc gió bên ngoài, vị trí đám cháy, vị trí và tình trạng mở của các ô cửa và các yếu tố khác). Trong tính toán, biên dưới của lớp khói phải không thấp hơn 2 m tính tới mặt sàn cao nhất có thể đi bộ được trong hành lang hay gian phòng đang xét.
-
-- Các ô cửa, cửa trời được kể đến trong tính toán thoát khói phải luôn mở, hoặc tự động mở khi có cháy và phải đảm bảo có thể điều khiển mở từ xa bởi con người. Diện tích mở của các ô cửa, cửa trời khi có cháy phải phù hợp với tính toán.
+D.8 Để thoát khói trực tiếp cho các gian phòng và hành lang của nhà một tầng có thể áp dụng hệ thống hút xả khói theo cơ chế tự nhiên (giải pháp thoát khói tự nhiên), hoặc theo cơ chế cưỡng bức. Trong các nhà nhiều tầng cần sử dụng hệ thống hút xả khói theo cơ chế cưỡng bức, hoặc có thể sử dụng giải pháp thoát khói tự nhiên nếu tính toán thoát khói cho phép, nhưng phải thỏa mãn yêu cầu tại D.1.1. Cho phép sử dụng giải pháp thoát khói tự nhiên đối với tầng trên cùng của nhà nhiều tầng, thông qua van khói, cửa nắp hút khói, hoặc các cửa trời mở, cửa chớp mở và không đón gió vào.
 
 ### <a id="muc-d-9" name="muc-d-9"></a>D.9  Hệ thống hút xả khói phải đáp ứng các yêu cầu sau:
 
@@ -223,6 +198,15 @@ _CHÚ THÍCH:_
 Các quạt hút khói phải được đặt trong các gian phòng riêng biệt với kết cấu bao che có giới hạn chịu lửa không thấp hơn giới hạn chịu lửa yêu cầu của các ống dẫn khói đi xuyên qua các kết cấu bao che này, hoặc đặt ngay trong các gian phòng mà chúng bảo vệ.
 
 Các quạt hút khói có thể đặt trên mái hoặc bên ngoài nhà với kết cấu bao che bảo đảm không cho người lạ tiếp cận. Cho phép đặt quạt hút trên tường ngoài nhà khi đáp ứng các yêu cầu nêu tại đoạn d) của D.9.
+
+
+CHÚ THÍCH 3: Không yêu cầu chỉ tiêu I đối với các đường ống và kênh dẫn khói và ống cấp không khí vào trong phạm vi một khoang cháy nếu thỏa mãn đồng thời các điều kiện sau: 1) việc dẫn khói và không khí trong các ống này không gây cháy các hệ thống kỹ thuật khác hoặc gây cháy tại các khu vực mà đường ống và kênh dẫn đi qua; 2) không làm tăng nhiệt độ không khí ở khu vực trên đường thoát nạn quá 65 °C.
+
+Chú thích này được áp dụng cho tất cả các quy định khác của quy chuẩn này liên quan đến yêu cầu về giới hạn chịu lửa của đường ống, kênh dẫn khác (nếu có).
+
+CHÚ THÍCH 4: Không yêu cầu giới hạn chịu lửa của đường ống, kênh dẫn khói và ống cấp không khí vào nếu thỏa mãn đồng thời các điều kiện sau: 1) ống được làm bằng thép mạ kẽm có chiều dày tối thiểu 1,2 mm; 2) toàn bộ chiều dài ống được bảo vệ bằng hệ thống sprinkler được thiết kế theo tài liệu chuẩn được áp dụng và các đầu phun được bố trí bên trên và bên dưới ống (không phụ thuộc vào kích thước ống); 3) ống và kết cấu treo, đỡ được thiết kế và thi công phù hợp với quy cách của đường ống quy định trong tiêu chuẩn áp dụng.
+
+Chú thích này được áp dụng cho tất cả các quy định khác của quy chuẩn này liên quan đến yêu cầu về giới hạn chịu lửa của đường ống, kênh dẫn khác (nếu có).
 
 <a id="muc-D-10"></a>
 ### D.10  Khi có cháy, hệ thống cấp không khí chống khói phải cấp không khí từ ngoài vào các khu vực sau:
@@ -366,8 +350,12 @@ Cửa vào các gian phòng trên phải là cửa ngăn cháy loại 2 (trừ c
 ### D.14.4  Lối ra từ thang máy vào ga ra ngầm phải có khoang đệm ngăn cháy được bảo vệ bởi hệ thống cấp không khí chống khói.
 
 <a id="muc-D-14-5"></a>
-### D.14.5  Để bù lại khối tích khói đã bị hút ra khỏi gian phòng bởi hệ thống hút xả khói, phải thiết kế hệ thống cấp không khí vào theo cơ chế tự nhiên hoặc cưỡng bức:
+### D.14.5  Cấp không khí bù
 
-a) Không khí theo cơ chế tự nhiên có thể cấp vào qua các lỗ mở trên tường bao che ngoài hoặc qua các giếng cấp không khí với van được dẫn động tự động và dẫn động từ xa. Các lỗ mở phải được bố trí ở phần dưới của gian phòng được bảo vệ. Để bù không khí cho các sảnh thông tầng và hành lang bao quanh sảnh thông tầng có thể sử dụng các lỗ cửa đi của lối thoát nạn trực tiếp ra ngoài trời, khi đó các cửa này phải được điều khiển tự động từ xa. Tổng diện tích thông khí của các lỗ cửa mở phải được xác định phù hợp với D.4 và đáp ứng yêu cầu vận tốc dòng khí đi qua các lỗ cửa không vượt quá 6 m/s;
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
 
-b) Hệ thống cấp không khí chống khói theo cơ chế cưỡng bức có thể được thiết kế độc lập hoặc sử dụng chính các hệ thống cấp không khí vào khoang đệm ngăn cháy hoặc các giếng thang máy (trừ các giếng thang máy chữa cháy và buồng thang bộ N2).
+D.14.5 Để bù lại khối tích khói đã bị hút ra khỏi khu vực được bảo vệ bởi hệ thống hút xả khói, phải thiết kế cấp không khí vào theo cơ chế tự nhiên hoặc cưỡng bức:
+
+a) Cấp không khí theo cơ chế tự nhiên: sử dụng các ô cửa, cửa sổ, hoặc khe hở khác có thể thông với không khí bên ngoài (mở khi có cháy). Các ô cửa, cửa sổ, khe hở phải được bố trí ở phần dưới của khu vực được bảo vệ. Tổng diện tích thông khí của các lỗ mở (phần ô cửa, cửa sổ, khe hở nằm dưới biên dưới của tầng khói) phải được xác định phù hợp với D.4 và đáp ứng yêu cầu vận tốc dòng không khí đi qua các lỗ cửa không vượt quá 6 m/s (không yêu cầu vận tốc này đối với các lỗ mở để bù không khí mà con người không thoát nạn qua đó);
+
+b) Cấp không khí vào theo cơ chế cưỡng bức: sử dụng hệ thống cấp không khí vào với lưu lượng và áp suất bảo đảm bù lại lượng khói đã bị hút ra ngoài.

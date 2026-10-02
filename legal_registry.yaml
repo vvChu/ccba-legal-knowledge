@@ -1,15 +1,46 @@
 version: 0.3.0
-updated_at: '2026-09-22T08:07:26.716436+00:00'
+updated_at: '2026-10-01T10:11:01.392402+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 60
+  total_documents: 70
   categories:
-    01_vbpl: 27
-    02_qcvn: 12
+    01_vbpl: 35
+    02_qcvn: 14
     03_tcvn: 18
     04_appendices: 3
 documents: {}
 laws:
+- id: TT-79-2025-TT-BTC
+  document_number: 79/2025/TT-BTC
+  type: Thông tư
+  issued_by: Bộ Tài chính
+  signer: Nguyễn Đức Tâm
+  issued_date: '2025-08-04'
+  effective_date: '2025-08-04'
+  published_date: '2025-08-04'
+  status: active
+  relations:
+    replaces: 22/2024/TT-BKHĐT
+  title: Thông tư 79/2025/TT-BTC hướng dẫn việc cung cấp, đăng tải thông tin về đấu
+    thầu và các mẫu hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia
+  bundle_path: legal_docs/01_vbpl/thong_tu_79_2025_tt_btc/
+  source_url: https://congbao.chinhphu.vn/van-ban/thong-tu-so-79-2025-tt-btc-45913.htm
+  sha256: b54d46c92d116d88deff8ea2ff6105d52a1c4c5e88886036d2f28910d64d3fa9
+  pdf_path: legal_docs/01_vbpl/thong_tu_79_2025_tt_btc/sources/thong_tu_79_2025_tt_btc.pdf
+  pdf_sha256: 0c13a7f6c2029a5a5ce2ede3851616aa3b290d3a0618fe15a6c96d0f2690c35a
+  cong_bao_number: 1127+1128/2025
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/thong_tu_79_2025_tt_btc/sources/thong_tu_79_2025_tt_btc.docx
+  source_assets:
+    pdf:
+      sha256: 0c13a7f6c2029a5a5ce2ede3851616aa3b290d3a0618fe15a6c96d0f2690c35a
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_79_2025_tt_btc/thong_tu_79_2025_tt_btc.pdf
+      status: verified
+      origin: official_gazette_pdf
+    docx:
+      sha256: b54d46c92d116d88deff8ea2ff6105d52a1c4c5e88886036d2f28910d64d3fa9
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_79_2025_tt_btc/thong_tu_79_2025_tt_btc.docx
+      status: verified
 - id: Luat-Phong-chay-chua-chay-va-cuu-nan-cuu-ho-2024-55-2024-QH15-621347
   document_number: 55/2024/QH15
   type: Luật
@@ -375,12 +406,13 @@ laws:
   issued_by: Chính phủ
   issued_date: '2024-02-27'
   effective_date: '2024-02-27'
-  status: active
+  status: expired
   bundle_path: legal_docs/01_vbpl/nghi_dinh_24_2024_nd_cp/
   source_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-24-2024-ND-CP-huong-dan-Luat-Dau-thau-ve-lua-chon-nha-thau-578020.aspx
   relations:
     guided_by: Luat-Dau-thau-2023-22-2023-QH15
     replaces: 63/2014/NĐ-CP
+    replaced_by: 214/2025/NĐ-CP
   pdf_path: legal_docs/01_vbpl/nghi_dinh_24_2024_nd_cp/sources/nghi_dinh_24_2024_nd_cp.pdf
   pdf_sha256: 0ddc02e55b53db8fec465ea3acdf35e0ede867d29f0a604f5ac5052ea77157c2
   cong_bao_number: Đang cập nhật
@@ -1255,6 +1287,68 @@ laws:
   converter_version: 0.4.0
   schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
   extracted_at: '2026-09-06T10:45:00.000000+00:00'
+- id: QCVN-16-2023-BXD
+  document_number: QCVN 16:2023/BXD
+  title: Quy chuẩn kỹ thuật quốc gia về Sản phẩm, hàng hóa vật liệu xây dựng
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Xây dựng
+  signer: Nguyễn Văn Sinh
+  issued_date: '2023-06-30'
+  effective_date: '2024-01-01'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_16_2023_bxd/
+  source_url: https://congbao.chinhphu.vn/van-ban/thong-tu-so-04-2023-tt-bxd-39819.htm
+  relations:
+    replaces: QCVN 16:2019/BXD
+    promulgated_by: 04/2023/TT-BXD
+  replaces: QCVN 16:2019/BXD
+  pdf_path: legal_docs/02_qcvn/qcvn_16_2023_bxd/sources/qcvn_16_2023_bxd.pdf
+  pdf_sha256: 5ea5429a6fd59de8c9b0d897b8f7ebe1ea78830ba51259aa3979074720983be5
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 857+858/2023
+  pdf_status: verified
+  source_file: legal_docs/02_qcvn/qcvn_16_2023_bxd/sources/qcvn_16_2023_bxd.docx
+  source_assets:
+    pdf:
+      sha256: 5ea5429a6fd59de8c9b0d897b8f7ebe1ea78830ba51259aa3979074720983be5
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_16_2023_bxd/qcvn_16_2023_bxd.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: 1287b8dcd338f8af8b9312c8fdca1a0c7b6abbccc367cf4e212fd956c6e4e17e
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_16_2023_bxd/qcvn_16_2023_bxd.docx
+      status: verified
+- id: QCVN-18-2021-BXD
+  document_number: QCVN 18:2021/BXD
+  title: Quy chuẩn kỹ thuật quốc gia về An toàn trong thi công xây dựng
+  type: Quy chuẩn kỹ thuật quốc gia
+  issued_by: Bộ Xây dựng
+  signer: Thứ trưởng Lê Quang Hùng
+  issued_date: '2021-12-20'
+  effective_date: '2022-06-20'
+  status: active
+  bundle_path: legal_docs/02_qcvn/qcvn_18_2021_bxd/
+  source_url: https://congbao.chinhphu.vn/van-ban/thong-tu-so-16-2021-tt-bxd-36401.htm
+  relations:
+    replaces: QCVN 18:2014/BXD
+    promulgated_by: 16/2021/TT-BXD
+  replaces: QCVN 18:2014/BXD
+  pdf_path: legal_docs/02_qcvn/qcvn_18_2021_bxd/sources/qcvn_18_2021_bxd.pdf
+  pdf_sha256: af4410e65b5e6b227b7d5ff70f87cf3834dc0c0a8868d0b38b850b9e62cd9fd6
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 33+34/2022
+  pdf_status: verified
+  source_file: legal_docs/02_qcvn/qcvn_18_2021_bxd/sources/qcvn_18_2021_bxd.docx
+  source_assets:
+    pdf:
+      sha256: af4410e65b5e6b227b7d5ff70f87cf3834dc0c0a8868d0b38b850b9e62cd9fd6
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_18_2021_bxd/qcvn_18_2021_bxd.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: f8bd1971b63782152ba0d60991e1bdf4478b9baa2840caf36bc1f58c7f0fab12
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_18_2021_bxd/qcvn_18_2021_bxd.docx
+      status: verified
 - id: vn_hn_qd_38_2026_qd_ubnd
   document_number: 38/2026/QĐ-UBND
   type: Quyết định
@@ -1888,3 +1982,224 @@ standards:
   extracted_at: '2026-09-19T12:15:30.000000+00:00'
   pdf_origin: docx_vector_rendered
   raw_scan_pdf: legal_docs/03_tcvn/tcvn_iso_19650_2_2021/sources/tcvn_iso_19650_2_2021_raw_scan.pdf
+decrees:
+- id: nghi_dinh_214_2025_nd_cp
+  document_number: 214/2025/NĐ-CP
+  title: Nghị định số 214/2025/NĐ-CP quy định chi tiết một số điều và biện pháp thi
+    hành Luật Đấu thầu về lựa chọn nhà thầu
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Phó Thủ tướng Trần Hồng Hà
+  issued_date: '2025-08-04'
+  effective_date: '2025-08-04'
+  status: active
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_214_2025_nd_cp/
+  source_url: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-214-2025-nd-cp-45774.htm
+  relations:
+    guided_by: luat_dau_thau_2023_22_2023_qh15
+    replaces: 24/2024/NĐ-CP
+    amended_by: 349/2026/NĐ-CP
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_214_2025_nd_cp/sources/nghi_dinh_214_2025_nd_cp.pdf
+  pdf_sha256: dd30ec23ec4fc4a53a08b78a7f1f7268b4e73e0d469ad1eb62c74f3a24a9dc56
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 1063-1068/2025
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_214_2025_nd_cp/sources/nghi_dinh_214_2025_nd_cp.docx
+  source_assets:
+    pdf:
+      sha256: dd30ec23ec4fc4a53a08b78a7f1f7268b4e73e0d469ad1eb62c74f3a24a9dc56
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_214_2025_nd_cp/nghi_dinh_214_2025_nd_cp.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: 6001565125a01385a5d5eb14a83143a6da08db1e2375c4e5dd04d0784f20d0a0
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_214_2025_nd_cp/nghi_dinh_214_2025_nd_cp.docx
+      status: verified
+- id: nghi_dinh_115_2024_nd_cp
+  document_number: 115/2024/NĐ-CP
+  title: Nghị định số 115/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi
+    hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Phó Thủ tướng Trần Hồng Hà
+  issued_date: '2024-09-16'
+  effective_date: '2024-09-16'
+  status: active
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_115_2024_nd_cp/
+  source_url: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-115-2024-nd-cp-42763.htm
+  relations:
+    guided_by: luat_dau_thau_2023_22_2023_qh15
+    amended_by: 225/2025/NĐ-CP
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_115_2024_nd_cp/sources/nghi_dinh_115_2024_nd_cp.pdf
+  pdf_sha256: ed1fc87cb35b04c515ce65b79b69c4736b7a9cac959c6666a733d18dd4f4de6d
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 1067-1070/2024
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_115_2024_nd_cp/sources/nghi_dinh_115_2024_nd_cp.docx
+  source_assets:
+    pdf:
+      sha256: ed1fc87cb35b04c515ce65b79b69c4736b7a9cac959c6666a733d18dd4f4de6d
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_115_2024_nd_cp/nghi_dinh_115_2024_nd_cp.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: 4ce6f5c5882731eed08c45b46a27dde33e27bb3fb9a0258591b998778e1f5927
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_115_2024_nd_cp/nghi_dinh_115_2024_nd_cp.docx
+      status: verified
+- id: luat_kien_truc_2019_40_2019_qh14
+  document_number: 40/2019/QH14
+  title: Luật Kiến trúc số 40/2019/QH14
+  type: Luật
+  issued_by: Quốc hội
+  signer: Nguyễn Thị Kim Ngân
+  issued_date: '2019-06-13'
+  effective_date: '2020-07-01'
+  status: active
+  bundle_path: legal_docs/01_vbpl/luat_kien_truc_2019_40_2019_qh14/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Kien-truc-2019-so-40-2019-QH14-388277.aspx
+  relations:
+    guided_by:
+    - id: nghi_dinh_85_2020_nd_cp
+      document_number: 85/2020/NĐ-CP
+      title: Nghị định quy định chi tiết một số điều của Luật Kiến trúc
+  pdf_path: legal_docs/01_vbpl/luat_kien_truc_2019_40_2019_qh14/sources/luat_kien_truc_2019_40_2019_qh14.pdf
+  pdf_sha256: 10bb5db9417584cf889d15dafd3efda19150af96159b20ba98d74b6f6387f2e1
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 673+674/2019
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/luat_kien_truc_2019_40_2019_qh14/sources/luat_kien_truc_2019_40_2019_qh14.docx
+  source_assets:
+    pdf:
+      sha256: 10bb5db9417584cf889d15dafd3efda19150af96159b20ba98d74b6f6387f2e1
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_kien_truc_2019_40_2019_qh14/luat_kien_truc_2019_40_2019_qh14.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: d0f245071868fa34f63b7e461dc94f536d4a25bef5db03ce1d37ca303e7219f1
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_kien_truc_2019_40_2019_qh14/luat_kien_truc_2019_40_2019_qh14.docx
+      status: verified
+- id: nghi_dinh_85_2020_nd_cp
+  document_number: 85/2020/NĐ-CP
+  title: Nghị định số 85/2020/NĐ-CP quy định chi tiết một số điều của Luật Kiến trúc
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Nguyễn Xuân Phúc
+  issued_date: '2020-07-17'
+  effective_date: '2020-09-07'
+  status: active
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_85_2020_nd_cp/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-85-2020-ND-CP-huong-dan-Luat-Kien-truc-448090.aspx
+  relations:
+    guides: luat_kien_truc_2019_40_2019_qh14
+    replaces: 38/2010/NĐ-CP
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_85_2020_nd_cp/sources/nghi_dinh_85_2020_nd_cp.pdf
+  pdf_sha256: cc3b9a839f502827f9e20b44c459ede5eeb42c62efe7cb5e9827f401686b12ed
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 733+734/2020
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_85_2020_nd_cp/sources/nghi_dinh_85_2020_nd_cp.docx
+  source_assets:
+    pdf:
+      sha256: cc3b9a839f502827f9e20b44c459ede5eeb42c62efe7cb5e9827f401686b12ed
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_85_2020_nd_cp/nghi_dinh_85_2020_nd_cp.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: 87e3dbb7985a3aaa806a1b97b6e36c8edecf48e6e4503cc0c6a13a8f1e366f34
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_85_2020_nd_cp/nghi_dinh_85_2020_nd_cp.docx
+      status: verified
+- id: nghi_dinh_23_2024_nd_cp
+  document_number: 23/2024/NĐ-CP
+  title: Nghị định số 23/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi
+    hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc ngành, lĩnh vực
+    quản lý
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Phó Thủ tướng Trần Hồng Hà
+  issued_date: '2024-02-27'
+  effective_date: '2024-02-27'
+  status: active
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_23_2024_nd_cp/
+  source_url: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-23-2024-nd-cp-41429/49206.htm
+  relations:
+    guided_by: luat_dau_thau_2023_22_2023_qh15
+    replaces: 25/2020/NĐ-CP
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_23_2024_nd_cp/sources/nghi_dinh_23_2024_nd_cp.pdf
+  pdf_sha256: d22742cd3391b4b37a135989453aa7ca176fce439297362253a86c54e86ecd86
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 411+412/2024
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/nghi_dinh_23_2024_nd_cp/sources/nghi_dinh_23_2024_nd_cp.docx
+  source_assets:
+    pdf:
+      sha256: d22742cd3391b4b37a135989453aa7ca176fce439297362253a86c54e86ecd86
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_23_2024_nd_cp/nghi_dinh_23_2024_nd_cp.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: b1a1ba2e778c1a453b1684d2b668eedc4045f34174c8bd1f819974a8d86b2e93
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_23_2024_nd_cp/nghi_dinh_23_2024_nd_cp.docx
+      status: verified
+- id: thong_tu_98_2025_tt_btc
+  document_number: 98/2025/TT-BTC
+  title: Thông tư số 98/2025/TT-BTC quy định mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư
+    thực hiện dự án đầu tư theo phương thức PPP, dự án đầu tư kinh doanh; cung cấp,
+    đăng tải thông tin về đầu tư theo phương thức PPP, đấu thầu lựa chọn nhà đầu tư
+    trên Hệ thống mạng đấu thầu quốc gia
+  type: Thông tư
+  issued_by: Bộ Tài chính
+  signer: Lãnh đạo Bộ Tài chính
+  issued_date: '2025-10-27'
+  effective_date: '2025-10-27'
+  status: active
+  bundle_path: legal_docs/01_vbpl/thong_tu_98_2025_tt_btc/
+  source_url: https://congbao.chinhphu.vn/van-ban/thong-tu-so-98-2025-tt-btc-46589.htm
+  relations:
+    guided_by: nghi_dinh_115_2024_nd_cp
+    replaces: 15/2024/TT-BKHĐT
+  pdf_path: legal_docs/01_vbpl/thong_tu_98_2025_tt_btc/sources/thong_tu_98_2025_tt_btc.pdf
+  pdf_sha256: f937fe2bd6f212abaeaa788c86f0ddd9814f91fa9f609e835df50c88279b2aa3
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 1603+1604/2025
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/thong_tu_98_2025_tt_btc/sources/thong_tu_98_2025_tt_btc.docx
+  source_assets:
+    pdf:
+      sha256: f937fe2bd6f212abaeaa788c86f0ddd9814f91fa9f609e835df50c88279b2aa3
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_98_2025_tt_btc/thong_tu_98_2025_tt_btc.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: 78a73866ed86296817a81fd6e7dbd3615453386f351a70fd932f18d995c2666f
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_98_2025_tt_btc/thong_tu_98_2025_tt_btc.docx
+      status: verified
+- id: luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15
+  document_number: 47/2024/QH15
+  title: Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15
+  type: Luật
+  issued_by: Quốc hội
+  signer: Trần Thanh Mẫn
+  issued_date: '2024-11-26'
+  effective_date: '2025-07-01'
+  status: active
+  bundle_path: legal_docs/01_vbpl/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15/
+  source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Quy-hoach-do-thi-va-nong-thon-2024-so-47-2024-QH15-618956.aspx
+  relations:
+    replaces: 30/2009/QH12
+  replaces: Luật Quy hoạch đô thị 30/2009/QH12
+  pdf_path: legal_docs/01_vbpl/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15/sources/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15.pdf
+  pdf_sha256: 15706e80c1dcb2429338f0bffdc248bb0abebd28e9df7c980efc8f55eaab91a1
+  pdf_origin: official_gazette_vector
+  cong_bao_number: 1529+1530/2024
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15/sources/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15.docx
+  source_assets:
+    pdf:
+      sha256: 15706e80c1dcb2429338f0bffdc248bb0abebd28e9df7c980efc8f55eaab91a1
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15.pdf
+      status: verified
+      origin: official_gazette_vector
+    docx:
+      sha256: a58cc2bdd323cb287bce5967ae3c0a452679a8fb29a9347cf2dd7bd4ef052bd6
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15.docx
+      status: verified

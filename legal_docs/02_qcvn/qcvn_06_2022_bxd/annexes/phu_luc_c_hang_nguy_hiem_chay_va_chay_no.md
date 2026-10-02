@@ -22,7 +22,7 @@ HẠNG NGUY HIỂM CHÁY VÀ CHÁY NỔ CỦA NHÀ, CÔNG TRÌNH VÀ CÁC GIAN P
 | A<br>Nguy hiểm cháy nổ cao | - Các chất khi cháy, chất lỏng dễ bắt cháy có nhiệt độ bùng cháy không lớn hơn 28 °C, với khối lượng có thể tạo thành hỗn hợp khí - hơi nguy hiểm nổ, khi bốc cháy tạo ra áp suất nổ dư tính toán trong gian phòng vượt quá 5 kPa.<br>- Các chất và vật liệu có khả năng nổ và cháy khi tác dụng với nước, với ôxy trong không khí hoặc tác dụng với nhau, với khối lượng để áp suất nổ dư tính toán trong gian phòng vượt quá 5 kPa. |
 | B<br>Nguy hiểm cháy nổ | Các chất bụi hoặc sợi cháy, chất lỏng dễ bắt cháy, có nhiệt độ bùng cháy lớn hơn 28 °C, các chất lỏng cháy, và khối lượng có thể tạo thành hỗn hợp khí - bụi hoặc khí - hơi nguy hiểm nổ, khi bốc cháy tạo ra áp suất nổ dư tính toán trong gian phòng vượt quá 5 kPa. |
 | C1 đến C4<br>Nguy hiểm cháy | - Các chất lỏng cháy hoặc khó cháy, các chất và vật liệu cháy và khó cháy ở thể rắn (kể cả bụi và sợi), các chất và vật liệu khi tác dụng với nước, với ôxy trong không khí hoặc tác dụng với nhau có khả năng cháy, ở điều kiện gian phòng có các chất và vật liệu này không thuộc các hạng A hoặc B.<br>- Việc chia gian phòng thành các hạng C1 đến C4 theo trị số tải trọng cháy riêng của các chất chứa trong nó như sau:<br>C1 - Có tải trọng cháy riêng lớn hơn 2 200 MJ/m2;<br>C2 - Có tải trọng cháy riêng từ 1 401 MJ/m2 đến 2 200 MJ/m2;<br>C3 - Có tải trọng cháy riêng từ 181 MJ/m2 đến 1 400 MJ/m2;<br>C4 - Có tải trọng cháy riêng từ 1 MJ/m2 đến 180 MJ/m2. |
-| D<br>Nguy hiểm cháy vừa phải | Các chất và vật liệu không cháy ở trạng thái nóng, nóng đỏ hoặc nóng chảy, mà quá trình gia công có kèm theo sự phát sinh bức xạ nhiệt, tia lửa và ngọn lửa; các chất rắn, lỏng, khi cháy được sử dụng để làm nhiên liệu. |
+| D<br>Nguy hiểm cháy vừa phải | Các chất và vật liệu không cháy ở trạng thái nóng, nóng đỏ hoặc nóng chảy, mà quá trình gia công có kèm theo sự phát sinh bức xạ nhiệt, tia lửa và ngọn lửa; các chất rắn có tạo ra các bụi cháy được và có khả năng tạo thành các hỗn hợp nguy hiểm nổ (theo Bảng C.1) khi có sự cố, lỏng, khi cháy được sử dụng để làm nhiên liệu. |
 | E<br>Nguy hiểm cháy thấp | Các chất và vật liệu không cháy ở trạng thái nguội. |
 
 <a id="muc-C-2"></a>
@@ -85,7 +85,13 @@ Nhà, công trình được xếp vào hạng E nếu nó không thuộc các h�
 ### C.3  Phương pháp xác định các dấu hiệu để xếp hạng
 
 <a id="muc-C-3-1"></a>
-### C.3.1  Phương pháp xác định các dấu hiệu để xếp nhà, công trình và gian phòng có công năng sản xuất và kho vào các hạng theo tính nguy hiểm cháy và cháy nổ được quy định trong các tiêu chuẩn.
+### C.3.1  Phương pháp xác định các dấu hiệu để xếp hạng
+
+> *[Sửa đổi bởi Thông tư 09/2023/TT-BXD (Sửa đổi 1:2023), hiệu lực 01/12/2023]*
+
+C.3.1 Phương pháp xác định các dấu hiệu để xếp nhà, công trình và gian phòng có công năng sản xuất và kho vào các hạng theo tính nguy hiểm cháy và cháy nổ được quy định trong các tiêu chuẩn, có thể áp dụng [8] và các tài liệu hướng dẫn liên quan để thực hiện.
+
+Các thông số của chất cháy trong nhà và gian phòng có thể tham khảo các tài liệu chuẩn [3, 4, 5, 6, 8, 9] hoặc các tài liệu chuẩn khác.
 
 ### <a id="muc-c-3-2" name="muc-c-3-2"></a>C.3.2  Một số nhà và gian phòng thuộc các phân xưởng, nhà kho, bộ phận sản xuất được phép phân hạng nguy hiểm cháy và cháy nổ như sau:
 
@@ -112,7 +118,7 @@ Nhà, công trình được xếp vào hạng E nếu nó không thuộc các h�
 
 - Phân xưởng sản xuất và vận chuyển than cám, mùn cưa, những trạm tẩy rửa các thùng dầu madút và các chất lỏng khác có nhiệt độ bùng cháy ở thể hơi từ 28 °C đến 61 °C;
 
-- Gian nghiền và xay cán chất rắn, phân xưởng chế biến cao su nhân tạo, phân xưởng sản xuất đường, những kho chứa dầu madút của nhà máy điện, những trạm bơm chất lỏng có nhiệt độ bùng cháy ở thể hơi từ 28 °C đến 61 °C.
+- Gian nghiền và xay cán chất rắn có tạo ra các bụi cháy được và có khả năng tạo thành các hỗn hợp nguy hiểm nổ (theo Bảng C.1) khi có sự cố, phân xưởng chế biến cao su nhân tạo, phân xưởng sản xuất đường, những kho chứa dầu madút của nhà máy điện, những trạm bơm chất lỏng có nhiệt độ bùng cháy ở thể hơi từ 28 °C đến 61 °C.
 
 <a id="muc-C-3-2-3"></a>
 ### C.3.2.3  Hạng C

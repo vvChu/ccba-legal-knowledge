@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_phu_luc_k",
+  "table_number": "PLK",
+  "table_title": "Bảng Phụ lục K",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT",
+    "Chỉ tiêu kỹ thuật",
+    "Mức yêu cầu",
+    "Phương pháp thử",
+    "Quy cách mẫu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1",
+      "Chỉ tiêu kỹ thuật": "Sai lệch chiều dày",
+      "Mức yêu cầu": "Bảng K.1",
+      "Phương pháp thử": "TCVN 7219:2018",
+      "Quy cách mẫu": "3 mẫu thử, kích thước ≥                       (610 x 610) mm"
+    },
+    {
+      "_row_id": 2,
+      "TT": "2",
+      "Chỉ tiêu kỹ thuật": "Khuyết tật ngoại quan",
+      "Mức yêu cầu": "Bảng K.2",
+      "Phương pháp thử": "TCVN 7219:2018",
+      "Quy cách mẫu": "3 mẫu thử, kích thước ≥                       (610 x 610) mm"
+    },
+    {
+      "_row_id": 3,
+      "TT": "3",
+      "Chỉ tiêu kỹ thuật": "Độ xuyên quang",
+      "Mức yêu cầu": "Bảng K.1",
+      "Phương pháp thử": "TCVN 7737:2007",
+      "Quy cách mẫu": "3 mẫu thử, kích thước ≥                       (610 x 610) mm"
+    }
+  ],
+  "footnotes": []
+}

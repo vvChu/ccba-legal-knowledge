@@ -1,5 +1,8 @@
 # Gói Tri Thức Pháp Lý OKF v2.2: 24/2024/NĐ-CP
 
+> [!WARNING]
+> **VĂN BẢN ĐÃ HẾT HIỆU LỰC (EXPIRED):** Văn bản này đã hết hiệu lực thi hành và được thay thế toàn diện bởi [Nghị định số 214/2025/NĐ-CP](../nghi_dinh_214_2025_nd_cp/index.md) kể từ ngày 04/08/2025.
+>
 > [!NOTE]
 > **Văn bản:** Nghị định 24/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu  
 > **Cơ quan ban hành:** Chính phủ (Người ký: Đang cập nhật).  

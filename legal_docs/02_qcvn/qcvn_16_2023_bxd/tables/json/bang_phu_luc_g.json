@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_phu_luc_g",
+  "table_number": "PLG",
+  "table_title": "Bảng Phụ lục G",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT",
+    "Chỉ tiêu kỹ thuật",
+    "Mức yêu cầu",
+    "Phương pháp thử",
+    "Quy cách mẫu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1.",
+      "Chỉ tiêu kỹ thuật": "Cường độ chịu nén",
+      "Mức yêu cầu": "Bảng G",
+      "Phương pháp thử": "TCVN 6477:2016",
+      "Quy cách mẫu": "Lấy 10 viên bất kỳ từ mỗi lô"
+    },
+    {
+      "_row_id": 2,
+      "TT": "2.",
+      "Chỉ tiêu kỹ thuật": "Độ thấm nước",
+      "Mức yêu cầu": "Bảng G",
+      "Phương pháp thử": "TCVN 6477:2016",
+      "Quy cách mẫu": "Lấy 10 viên bất kỳ từ mỗi lô"
+    },
+    {
+      "_row_id": 3,
+      "TT": "3.",
+      "Chỉ tiêu kỹ thuật": "Độ hút nước",
+      "Mức yêu cầu": "Bảng G",
+      "Phương pháp thử": "TCVN 6355-4:2009",
+      "Quy cách mẫu": "Lấy 10 viên bất kỳ từ mỗi lô"
+    }
+  ],
+  "footnotes": []
+}

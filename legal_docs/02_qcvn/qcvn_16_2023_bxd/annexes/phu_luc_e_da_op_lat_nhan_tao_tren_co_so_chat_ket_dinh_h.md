@@ -1,0 +1,16 @@
+
+<a id="phu-luc-e"></a>
+## PHỤ LỤC E — Đá ốp lát nhân tạo trên cơ sở chất kết dính hữu cơ
+
+
+<a id="bang-bang-phu-luc-e"></a>
+### Bảng Phụ lục E
+
+| TT | Chỉ tiêu kỹ thuật | Mức yêu cầu — $W_{1}$ > 2,0 | Mức yêu cầu — 2,0 ≥ $W_{2}$ > 0,5 | Mức yêu cầu — 0,5 ≥ $W_{3}$ > 0,05 | Mức yêu cầu — $W_{4}$ ≤ 0,05 | Phương pháp thử | Quy cách mẫu |
+| :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Độ hút nước, % khối lượng | $W_{1}$ > 2,0 | 2,0 ≥ $W_{2}$ > 0,5 | 0,5 ≥ $W_{3}$ > 0,05 | $W_{4}$ ≤ 0,05 | BSEN 14617-1:2013 | 06 mẫu thử, kích thước (100x100) mm và độ dày (10 ± 2) mm |
+| 2 | Độ bền uốn, MPa | $F_{1}$ < 12,0 | 12,0 ≤ $F_{2}$ < 25,0 | 25,0 ≤ $F_{3}$ < 40,0 | $F_{4}$ ≥ 40,0 | BSEN 14617-2:2016 | 10 mẫu thử, kích thước tối thiểu như sau:<br>Chiều dài ít nhất là (200 ± 0,3) mm;<br>Chiều rộng ít nhất là (50 ± 0,3) mm và không lớn hơn chiều dài. |
+| 3 | Độ bền mài mòn (mm) | $A_{1}$ > 36,5 | 36,5 ≥ $A_{2}$ > 33,0 | 33,0 ≥ $A_{3}$ > 29,0 | $A_{4}$ ≤ 29,0 | BSEN 14617-4:2012 | 06 mẫu thử, kích thước tối thiểu (100x70) mm |
+| 4 | Độ bền hóa học | $C_{1}$ | $C_{2}$ | $C_{3}$ | $C_{4}$ | BSEN 14617-10:2012 | 04 mẫu thử, kích thước tối thiểu (300x300) mm |
+
+QCVN 16:2023/BXD

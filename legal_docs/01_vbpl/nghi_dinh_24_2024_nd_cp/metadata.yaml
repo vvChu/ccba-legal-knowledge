@@ -7,7 +7,7 @@ issued_by: Chính phủ
 signer: Đang cập nhật
 issued_date: '2024-02-27'
 effective_date: '2024-02-27'
-status: active
+status: expired
 pdf_path: legal_docs/01_vbpl/nghi_dinh_24_2024_nd_cp/sources/nghi_dinh_24_2024_nd_cp.pdf
 pdf_sha256: 0ddc02e55b53db8fec465ea3acdf35e0ede867d29f0a604f5ac5052ea77157c2
 pdf_status: verified
@@ -38,6 +38,7 @@ source_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-24-2024-ND-CP-hu
 relations:
   guided_by: Luat-Dau-thau-2023-22-2023-QH15
   replaces: 63/2014/NĐ-CP
+  replaced_by: 214/2025/NĐ-CP
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'

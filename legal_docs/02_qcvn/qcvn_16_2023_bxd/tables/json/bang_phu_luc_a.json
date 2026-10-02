@@ -1,0 +1,112 @@
+{
+  "table_id": "bang_phu_luc_a",
+  "table_number": "PLA",
+  "table_title": "Bảng Phụ lục A",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT",
+    "Chỉ tiêu kỹ thuật",
+    "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30",
+    "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40",
+    "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50",
+    "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30",
+    "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40",
+    "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50",
+    "Phương pháp thử",
+    "Quy cách mẫu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1",
+      "Chỉ tiêu kỹ thuật": "Hàm lượng mất khi nung (MKN), %, không lớn hơn",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30": "3,0",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40": "3,0",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50": "3,0",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30": "3,0",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40": "3,0",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50": "3,0",
+      "Phương pháp thử": "TCVN 141:2023",
+      "Quy cách mẫu": "Mẫu cục bộ được lấy tối thiểu ở 10 vị trí khác nhau trong lô. Mẫu gộp tối thiểu 10kg được trộn đều từ các mẫu  cục bộ"
+    },
+    {
+      "_row_id": 2,
+      "TT": "2",
+      "Chỉ tiêu kỹ thuật": "Hàm lượng magiê ôxyt (MgO), %, không lớn hơn",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30": "5,0",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40": "5,0",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50": "5,0",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30": "5,0",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40": "5,0",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50": "5,0",
+      "Phương pháp thử": "TCVN 141:2023",
+      "Quy cách mẫu": "Mẫu cục bộ được lấy tối thiểu ở 10 vị trí khác nhau trong lô. Mẫu gộp tối thiểu 10kg được trộn đều từ các mẫu  cục bộ"
+    },
+    {
+      "_row_id": 3,
+      "TT": "3",
+      "Chỉ tiêu kỹ thuật": "Hàm lượng sắt ôxyt ($Fe_{2}O_{3}$), %, không lớn hơn",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30": "6,0",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40": "6,0",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50": "6,0",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30": "-",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40": "-",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50": "-",
+      "Phương pháp thử": "TCVN 141:2023",
+      "Quy cách mẫu": "Mẫu cục bộ được lấy tối thiểu ở 10 vị trí khác nhau trong lô. Mẫu gộp tối thiểu 10kg được trộn đều từ các mẫu  cục bộ"
+    },
+    {
+      "_row_id": 4,
+      "TT": "4",
+      "Chỉ tiêu kỹ thuật": "Hàm lượng nhôm ôxyt ($Al_{2}O_{3}$), %, không lớn hơn",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30": "6,0",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40": "6,0",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50": "6,0",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30": "-",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40": "-",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50": "-",
+      "Phương pháp thử": "TCVN 141:2023",
+      "Quy cách mẫu": "Mẫu cục bộ được lấy tối thiểu ở 10 vị trí khác nhau trong lô. Mẫu gộp tối thiểu 10kg được trộn đều từ các mẫu  cục bộ"
+    },
+    {
+      "_row_id": 5,
+      "TT": "5",
+      "Chỉ tiêu kỹ thuật": "Hàm lượng anhydrit sunfuric ($SO_{3}$), %, không lớn hơn",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30": "3,0(1)",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40": "3,0(1)",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50": "3,0(1)",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30": "2,3(1)",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40": "2,3(1)",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50": "2,3(1)",
+      "Phương pháp thử": "TCVN 141:2023",
+      "Quy cách mẫu": "Mẫu cục bộ được lấy tối thiểu ở 10 vị trí khác nhau trong lô. Mẫu gộp tối thiểu 10kg được trộn đều từ các mẫu  cục bộ"
+    },
+    {
+      "_row_id": 6,
+      "TT": "6",
+      "Chỉ tiêu kỹ thuật": "Hàm lượng ($C_{3}$ A), %, không lớn hơn",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30": "8(2)",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40": "8(2)",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50": "8(2)",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30": "5(2)",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40": "5(2)",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50": "5(2)",
+      "Phương pháp thử": "TCVN 6067:2018",
+      "Quy cách mẫu": "Mẫu cục bộ được lấy tối thiểu ở 10 vị trí khác nhau trong lô. Mẫu gộp tối thiểu 10kg được trộn đều từ các mẫu  cục bộ"
+    },
+    {
+      "_row_id": 7,
+      "TT": "7",
+      "Chỉ tiêu kỹ thuật": "Tổng hàm lượng ($C_{4}$ AF + 2$C_{3}$ A), %, không lớn hơn",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30": "-",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40": "-",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50": "-",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30": "25(2)",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40": "25(2)",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50": "25(2)",
+      "Phương pháp thử": "TCVN 6067:2018",
+      "Quy cách mẫu": "Mẫu cục bộ được lấy tối thiểu ở 10 vị trí khác nhau trong lô. Mẫu gộp tối thiểu 10kg được trộn đều từ các mẫu  cục bộ"
+    }
+  ],
+  "footnotes": []
+}

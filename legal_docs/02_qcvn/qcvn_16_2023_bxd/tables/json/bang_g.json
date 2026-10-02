@@ -1,0 +1,80 @@
+{
+  "table_id": "bang_g",
+  "table_number": "G",
+  "table_title": "Bảng G - Cường độ chịu nén, độ hút nước và độ thấm nước của gạch bê tông",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Mác gạch",
+    "Cường độ chịu nén, MPa — Trung bình cho ba mẫu thử, không nhỏ hơn",
+    "Cường độ chịu nén, MPa — Nhỏ nhất cho một mẫu thử",
+    "Độ hút nước, % khối lượng, không lớn hơn",
+    "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây không trát",
+    "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây có trát"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Mác gạch": "M 3,5",
+      "Cường độ chịu nén, MPa — Trung bình cho ba mẫu thử, không nhỏ hơn": "3,5",
+      "Cường độ chịu nén, MPa — Nhỏ nhất cho một mẫu thử": "3,1",
+      "Độ hút nước, % khối lượng, không lớn hơn": "14",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây không trát": "0,35",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây có trát": "16"
+    },
+    {
+      "_row_id": 2,
+      "Mác gạch": "M 5,0",
+      "Cường độ chịu nén, MPa — Trung bình cho ba mẫu thử, không nhỏ hơn": "5,0",
+      "Cường độ chịu nén, MPa — Nhỏ nhất cho một mẫu thử": "4,5",
+      "Độ hút nước, % khối lượng, không lớn hơn": "14",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây không trát": "0,35",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây có trát": "16"
+    },
+    {
+      "_row_id": 3,
+      "Mác gạch": "M 7,5",
+      "Cường độ chịu nén, MPa — Trung bình cho ba mẫu thử, không nhỏ hơn": "7,5",
+      "Cường độ chịu nén, MPa — Nhỏ nhất cho một mẫu thử": "6,7",
+      "Độ hút nước, % khối lượng, không lớn hơn": "12",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây không trát": "0,35",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây có trát": "16"
+    },
+    {
+      "_row_id": 4,
+      "Mác gạch": "M 10,0",
+      "Cường độ chịu nén, MPa — Trung bình cho ba mẫu thử, không nhỏ hơn": "10,0",
+      "Cường độ chịu nén, MPa — Nhỏ nhất cho một mẫu thử": "9,0",
+      "Độ hút nước, % khối lượng, không lớn hơn": "12",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây không trát": "0,35",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây có trát": "16"
+    },
+    {
+      "_row_id": 5,
+      "Mác gạch": "M 12,5",
+      "Cường độ chịu nén, MPa — Trung bình cho ba mẫu thử, không nhỏ hơn": "12,5",
+      "Cường độ chịu nén, MPa — Nhỏ nhất cho một mẫu thử": "11,2",
+      "Độ hút nước, % khối lượng, không lớn hơn": "12",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây không trát": "0,35",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây có trát": "16"
+    },
+    {
+      "_row_id": 6,
+      "Mác gạch": "M 15,0",
+      "Cường độ chịu nén, MPa — Trung bình cho ba mẫu thử, không nhỏ hơn": "15,0",
+      "Cường độ chịu nén, MPa — Nhỏ nhất cho một mẫu thử": "13,5",
+      "Độ hút nước, % khối lượng, không lớn hơn": "12",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây không trát": "0,35",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây có trát": "16"
+    },
+    {
+      "_row_id": 7,
+      "Mác gạch": "M 20,0",
+      "Cường độ chịu nén, MPa — Trung bình cho ba mẫu thử, không nhỏ hơn": "20,0",
+      "Cường độ chịu nén, MPa — Nhỏ nhất cho một mẫu thử": "18,0",
+      "Độ hút nước, % khối lượng, không lớn hơn": "12",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây không trát": "0,35",
+      "Độ thấm nước, L/$m^{2}$.h, không lớn hơn — Gạch xây có trát": "16"
+    }
+  ],
+  "footnotes": []
+}

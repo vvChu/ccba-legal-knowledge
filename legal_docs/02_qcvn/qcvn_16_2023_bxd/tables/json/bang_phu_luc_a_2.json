@@ -1,0 +1,88 @@
+{
+  "table_id": "bang_phu_luc_a_2",
+  "table_number": "PLA_2",
+  "table_title": "Bảng Phụ lục A (Phần 2)",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "TT",
+    "Chỉ tiêu kỹ thuật",
+    "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30",
+    "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40",
+    "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50",
+    "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30",
+    "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40",
+    "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50",
+    "Phương pháp thử",
+    "Quy cách mẫu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "8",
+      "Chỉ tiêu kỹ thuật": "Hàm lượng cặn không tan (CKT), %, không lớn hơn",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30": "0,75",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40": "0,75",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50": "0,75",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30": "0,75",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40": "0,75",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50": "0,75",
+      "Phương pháp thử": "TCVN 141:2023",
+      "Quy cách mẫu": ""
+    },
+    {
+      "_row_id": 2,
+      "TT": "9",
+      "Chỉ tiêu kỹ thuật": "Độ ổn định thể tích, theo phương pháp Le Chatelier, mm, không lớn hơn",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30": "10",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40": "10",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50": "10",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30": "10",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40": "10",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50": "10",
+      "Phương pháp thử": "TCVN 6017:2015",
+      "Quy cách mẫu": ""
+    },
+    {
+      "_row_id": 3,
+      "TT": "10",
+      "Chỉ tiêu kỹ thuật": "Cường độ nén, MPa, không nhỏ hơn",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30": "",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40": "",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50": "",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30": "",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40": "",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50": "",
+      "Phương pháp thử": "TCVN 6016:2011",
+      "Quy cách mẫu": ""
+    },
+    {
+      "_row_id": 4,
+      "TT": "10",
+      "Chỉ tiêu kỹ thuật": "&nbsp;&nbsp;\\- 3 ngày",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30": "16",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40": "21",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50": "25",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30": "12",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40": "16",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50": "20",
+      "Phương pháp thử": "TCVN 6016:2011",
+      "Quy cách mẫu": ""
+    },
+    {
+      "_row_id": 5,
+      "TT": "10",
+      "Chỉ tiêu kỹ thuật": "&nbsp;&nbsp;\\- 28 ngày",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30": "30",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40": "40",
+      "Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50": "50",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30": "30",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40": "40",
+      "Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50": "50",
+      "Phương pháp thử": "TCVN 6016:2011",
+      "Quy cách mẫu": ""
+    }
+  ],
+  "footnotes": {
+    "(1)": "**CHÚ THÍCH:**\n\n&nbsp;&nbsp;\\- <sup>(1)</sup> Hàm lượng $SO_{3}$ trong xi măng được phép vượt quá giá trị theo mức yêu cầu trên, khi xi măng được kiểm tra giá trị độ nở thanh vữa theo TCVN 12003:2018 không vượt quá 0,02% ở tuổi 14 ngày, giá trị độ nở phải được cung cấp;\n\n&nbsp;&nbsp;\\- <sup>(2)</sup> Thành phần khoáng xi măng poóc lăng bền sun phát được tính theo công thức: Tri canxi aluminat ($C_{3}$ A) = (2,650 x %$Al_{2}O_{3}$) - (1,692 x %$Fe_{2}O_{3}$).\n\n&nbsp;&nbsp;\\- Tetra canxi fero aluminat ($C_{4}$ AF) = (3,043 x %$Fe_{2}O_{3}$)."
+  }
+}

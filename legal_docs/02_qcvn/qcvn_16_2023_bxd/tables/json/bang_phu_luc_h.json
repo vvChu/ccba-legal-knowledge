@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_phu_luc_h",
+  "table_number": "PLH",
+  "table_title": "Bảng Phụ lục H",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT",
+    "Chỉ tiêu kỹ thuật",
+    "Mức yêu cầu",
+    "Phương pháp thử",
+    "Quy cách mẫu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "1.",
+      "Chỉ tiêu kỹ thuật": "Cường độ nén",
+      "Mức yêu cầu": "Bảng H",
+      "Phương pháp thử": "TCVN 9030:2017",
+      "Quy cách mẫu": "Lấy 15 viên bất kỳ từ mỗi lô"
+    },
+    {
+      "_row_id": 2,
+      "TT": "2.",
+      "Chỉ tiêu kỹ thuật": "Khối lượng thể tích khô",
+      "Mức yêu cầu": "Bảng H",
+      "Phương pháp thử": "TCVN 9030:2017",
+      "Quy cách mẫu": "Lấy 15 viên bất kỳ từ mỗi lô"
+    },
+    {
+      "_row_id": 3,
+      "TT": "3.",
+      "Chỉ tiêu kỹ thuật": "Độ co khô, mm/m, không lớn hơn",
+      "Mức yêu cầu": "0,2",
+      "Phương pháp thử": "TCVN 9030:2017",
+      "Quy cách mẫu": "Lấy 15 viên bất kỳ từ mỗi lô"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_s",
+  "title": "Bảng số 5",
+  "rows_count": 7,
+  "columns_count": 3,
+  "headers": [
+    "STTSTTSTT",
+    "Nội dungNội dungNội dung",
+    "Giá trịGiá trịGiá trị"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "111",
+      "Nội dungNội dungNội dung": "Tổng giá trị phần công việc đã thực hiệnTổng giá trị phần công việc đã thực hiệnTổng giá trị phần công việc đã thực hiện",
+      "Giá trịGiá trịGiá trị": ""
+    },
+    {
+      "STTSTTSTT": "222",
+      "Nội dungNội dungNội dung": "Tổng giá trị phần công việc không áp dụng được một trong các hình thức lựa chọn nhà thầuTổng giá trị phần công việc không áp dụng được một trong các hình thức lựa chọn nhà thầuTổng giá trị phần công việc không áp dụng được một trong các hình thức lựa chọn nhà thầu",
+      "Giá trịGiá trịGiá trị": ""
+    },
+    {
+      "STTSTTSTT": "333",
+      "Nội dungNội dungNội dung": "Tổng giá trị phần công việc thuộc kế hoạch lựa chọn nhà thầuTổng giá trị phần công việc thuộc kế hoạch lựa chọn nhà thầuTổng giá trị phần công việc thuộc kế hoạch lựa chọn nhà thầu",
+      "Giá trịGiá trịGiá trị": ""
+    },
+    {
+      "STTSTTSTT": "444",
+      "Nội dungNội dungNội dung": "Tổng giá trị phần công việc chưa đủ điều kiện lập kế hoạch lựa chọn nhà thầu (nếu có)Tổng giá trị phần công việc chưa đủ điều kiện lập kế hoạch lựa chọn nhà thầu (nếu có)Tổng giá trị phần công việc chưa đủ điều kiện lập kế hoạch lựa chọn nhà thầu (nếu có)",
+      "Giá trịGiá trịGiá trị": ""
+    },
+    {
+      "STTSTTSTT": "Tổng giá trị các phần công việcTổng giá trị các phần công việcTổng giá trị các phần công việc",
+      "Nội dungNội dungNội dung": "Tổng giá trị các phần công việcTổng giá trị các phần công việcTổng giá trị các phần công việc",
+      "Giá trịGiá trịGiá trị": ""
+    },
+    {
+      "STTSTTSTT": "Tổng mức đầu tư của dự án, dự toán mua sắm hoặc dự toán nhiệm vụ chuẩn bị đầu tưTổng mức đầu tư của dự án, Tổng mức đầu tư của dự án, dự toán mua sắm hoặc dự toán nhiệm vụ chuẩn bị đầu tưdự toán mua sắm hoặc dự toán nhiệm vụ chuẩn bị đầu tư",
+      "Nội dungNội dungNội dung": "Tổng mức đầu tư của dự án, dự toán mua sắm hoặc dự toán nhiệm vụ chuẩn bị đầu tưTổng mức đầu tư của dự án, Tổng mức đầu tư của dự án, dự toán mua sắm hoặc dự toán nhiệm vụ chuẩn bị đầu tưdự toán mua sắm hoặc dự toán nhiệm vụ chuẩn bị đầu tư",
+      "Giá trịGiá trịGiá trị": "[ghi giá trị][ghi giá trị][ghi giá trị]"
+    }
+  ],
+  "footnotes": []
+}

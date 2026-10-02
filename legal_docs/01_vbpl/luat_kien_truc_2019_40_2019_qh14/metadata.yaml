@@ -1,0 +1,34 @@
+id: luat_kien_truc_2019_40_2019_qh14
+document_number: 40/2019/QH14
+title: Luật Kiến trúc số 40/2019/QH14
+type: Luật
+issued_by: Quốc hội
+signer: Nguyễn Thị Kim Ngân
+issued_date: '2019-06-13'
+effective_date: '2020-07-01'
+status: active
+bundle_path: legal_docs/01_vbpl/luat_kien_truc_2019_40_2019_qh14/
+pdf_path: legal_docs/01_vbpl/luat_kien_truc_2019_40_2019_qh14/sources/luat_kien_truc_2019_40_2019_qh14.pdf
+pdf_sha256: 10bb5db9417584cf889d15dafd3efda19150af96159b20ba98d74b6f6387f2e1
+pdf_status: verified
+cong_bao_number: 673+674/2019
+source_assets:
+  pdf:
+    sha256: 10bb5db9417584cf889d15dafd3efda19150af96159b20ba98d74b6f6387f2e1
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_kien_truc_2019_40_2019_qh14/luat_kien_truc_2019_40_2019_qh14.pdf
+    status: verified
+    origin: official_gazette_vector
+  docx:
+    sha256: d0f245071868fa34f63b7e461dc94f536d4a25bef5db03ce1d37ca303e7219f1
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_kien_truc_2019_40_2019_qh14/luat_kien_truc_2019_40_2019_qh14.docx
+    status: verified
+source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Kien-truc-2019-so-40-2019-QH14-388277.aspx
+relations:
+  guided_by:
+    - id: nghi_dinh_85_2020_nd_cp
+      document_number: 85/2020/NĐ-CP
+      title: Nghị định quy định chi tiết một số điều của Luật Kiến trúc
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+extracted_at: '2026-09-26T21:34:00+07:00'
+pdf_origin: official_gazette_vector

@@ -1,0 +1,57 @@
+{
+  "table_id": "bang_phu_luc_c",
+  "table_number": "PLC",
+  "table_title": "Bảng Phụ lục C",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "TT",
+    "Chỉ tiêu kỹ thuật",
+    "Mức yêu cầu — $BI_{a}$ $E_{v}$ ≤ 0,5%",
+    "Mức yêu cầu — $BI_{b}$ 0,5% ≤ 3%",
+    "Mức yêu cầu — $BI_{b}$ 0,5% ≤ 3%",
+    "Mức yêu cầu — $BII_{a}$ 3% ≤ 6%",
+    "Mức yêu cầu — $BII_{b}$ 6% ≤ 10%",
+    "Mức yêu cầu — BIII $E_{v}$ > 10%",
+    "Phương pháp thử",
+    "Quy cách mẫu"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "TT": "3.2.",
+      "Chỉ tiêu kỹ thuật": "Độ chịu mài mòn đối với gạch phủ men, tính theo giai đoạn mài mòn bắt đầu xuất hiện khuyết tật, cấp",
+      "Mức yêu cầu — $BI_{a}$ $E_{v}$ ≤ 0,5%": "I, II, III, IV",
+      "Mức yêu cầu — $BI_{b}$ 0,5% ≤ 3%": "I, II, III, IV",
+      "Mức yêu cầu — $BII_{a}$ 3% ≤ 6%": "I, II, III, IV",
+      "Mức yêu cầu — $BII_{b}$ 6% ≤ 10%": "I, II, III, IV",
+      "Mức yêu cầu — BIII $E_{v}$ > 10%": "I, II, III, IV",
+      "Phương pháp thử": "TCVN 6415-7:2016\n(ISO 10545-7:1996)",
+      "Quy cách mẫu": ""
+    },
+    {
+      "_row_id": 2,
+      "TT": "4.",
+      "Chỉ tiêu kỹ thuật": "Hệ số giãn nở nhiệt dài, từ nhiệt độ phòng thí nghiệm đến 100 °C, 10$^{-6}$/$^{0}$C, không lớn hơn",
+      "Mức yêu cầu — $BI_{a}$ $E_{v}$ ≤ 0,5%": "9",
+      "Mức yêu cầu — $BI_{b}$ 0,5% ≤ 3%": "9",
+      "Mức yêu cầu — $BII_{a}$ 3% ≤ 6%": "9",
+      "Mức yêu cầu — $BII_{b}$ 6% ≤ 10%": "9",
+      "Mức yêu cầu — BIII $E_{v}$ > 10%": "9",
+      "Phương pháp thử": "TCVN 6415-8:2016\n(ISO 10545-8:2014)",
+      "Quy cách mẫu": ""
+    },
+    {
+      "_row_id": 3,
+      "TT": "5.",
+      "Chỉ tiêu kỹ thuật": "Hệ số giãn nở ẩm, mm/m, không lớn hơn",
+      "Mức yêu cầu — $BI_{a}$ $E_{v}$ ≤ 0,5%": "-",
+      "Mức yêu cầu — $BI_{b}$ 0,5% ≤ 3%": "-",
+      "Mức yêu cầu — $BII_{a}$ 3% ≤ 6%": "-",
+      "Mức yêu cầu — $BII_{b}$ 6% ≤ 10%": "0,6",
+      "Mức yêu cầu — BIII $E_{v}$ > 10%": "0,6",
+      "Phương pháp thử": "TCVN 6415-10:2016\n(ISO 10545-10:1995)",
+      "Quy cách mẫu": ""
+    }
+  ],
+  "footnotes": []
+}

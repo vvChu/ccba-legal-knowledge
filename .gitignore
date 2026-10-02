@@ -79,3 +79,7 @@ legal_docs/**/*.doc
 
 # Ephemeral Git Worktrees
 .worktrees/
+
+# Pre-computed Embedding Cache (ADR 0060)
+*.npy
+*.npy.sha256

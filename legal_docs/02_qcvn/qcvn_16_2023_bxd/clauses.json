@@ -1,0 +1,922 @@
+[
+  {
+    "clause_id": "muc-1-1",
+    "anchor": "muc-1-1",
+    "title": "1.1  Phạm vi điều chỉnh",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 56,
+    "line_end": 57,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-1-1",
+    "anchor": "muc-1-1-1",
+    "title": "1.1.1  Quy chuẩn này quy định về mức giới hạn của đặc tính kỹ thuật và yêu cầu quản lý các sản phẩm, hàng hóa vật liệu xây dựng nêu trong Bảng 1, Phần 2, thuộc nhóm 2 theo quy định tại Luật Chất lượng sản phẩm, hàng hóa (sau đây gọi là sản phẩm, hàng hóa vật liệu xây dựng) được sản xuất trong nước, nhập khẩu, kinh doanh, lưu thông trên thị trường và sử dụng vào các công trình xây dựng trên lãnh thổ Việt Nam.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 60,
+    "line_end": 61,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-1-2",
+    "anchor": "muc-1-1-2",
+    "title": "1.1.2  Quy chuẩn này không áp dụng cho sản phẩm, hàng hóa vật liệu xây dựng nhập khẩu dưới dạng mẫu hàng để quảng cáo không có giá trị sử dụng; hàng mẫu để nghiên cứu; mẫu hàng để thử nghiệm; hàng hóa tạm nhập khẩu để trưng bày, giới thiệu tại hội chợ triển lãm; hàng hóa tạm nhập - tái xuất, không tiêu thụ và sử dụng tại Việt Nam; hàng hóa trao đổi của cư dân biên giới, quà biếu, tặng trong định mức thuế; hàng hóa quá cảnh, chuyển khẩu, trung chuyển; Hàng hóa phục vụ yêu cầu khẩn cấp theo chỉ đạo của Chính phủ và hàng chuyên dụng phục vụ mục đích quốc phòng, an ninh.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 64,
+    "line_end": 65,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-2",
+    "anchor": "muc-1-2",
+    "title": "1.2  Đối tượng áp dụng",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 68,
+    "line_end": 69,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-2-1",
+    "anchor": "muc-1-2-1",
+    "title": "1.2.1  Các tổ chức, cá nhân sản xuất, nhập khẩu, kinh doanh, sử dụng sản phẩm, hàng hóa vật liệu xây dựng.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 72,
+    "line_end": 73,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-2-2",
+    "anchor": "muc-1-2-2",
+    "title": "1.2.2  Các tổ chức thử nghiệm, tổ chức chứng nhận hợp quy thực hiện việc đánh giá, chứng nhận hợp quy sản phẩm, hàng hóa vật liệu xây dựng.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 76,
+    "line_end": 77,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-2-3",
+    "anchor": "muc-1-2-3",
+    "title": "1.2.3  Các cơ quan quản lý nhà nước có liên quan về chất lượng sản phẩm, hàng hóa vật liệu xây dựng.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 80,
+    "line_end": 81,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-3",
+    "anchor": "muc-1-3",
+    "title": "1.3  Giải thích từ ngữ",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 84,
+    "line_end": 87,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-3-1",
+    "anchor": "muc-1-3-1",
+    "title": "1.3.1  Cơ quan kiểm tra nhà nước về chất lượng sản phẩm, hàng hóa vật liệu xây dựng là cơ quan được phân công, phân cấp thực hiện nhiệm vụ kiểm tra nhà nước về chất lượng sản phẩm, hàng hóa vật liệu xây dựng thuộc trách nhiệm quản lý của Bộ Xây dựng (sau đây viết tắt là cơ quan kiểm tra). Cơ quan kiểm tra tại địa phương là Sở Xây dựng.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 90,
+    "line_end": 91,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-3-2",
+    "anchor": "muc-1-3-2",
+    "title": "1.3.2  Sản phẩm, hàng hóa vật liệu xây dựng nhóm 2 là sản phẩm, hàng hóa trong điều kiện vận chuyển, lưu giữ, bảo quản, sử dụng hợp lý và đúng mục đích vẫn tiềm ẩn khả năng gây hại cho người, động vật, thực vật, tài sản, môi trường.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 94,
+    "line_end": 95,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-3-3",
+    "anchor": "muc-1-3-3",
+    "title": "1.3.3  Mã HS là mã số phân loại hàng hóa xuất nhập khẩu ghi trong Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam do Bộ Tài chính ban hành.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 98,
+    "line_end": 99,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-3-4",
+    "anchor": "muc-1-3-4",
+    "title": "1.3.4  Lô sản phẩm là tập hợp một loại sản phẩm, hàng hóa vật liệu xây dựng có cùng thông số kỹ thuật và được sản xuất cùng một đợt trên cùng một dây chuyền công nghệ.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 102,
+    "line_end": 103,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-3-5",
+    "anchor": "muc-1-3-5",
+    "title": "1.3.5  Lô hàng hóa là tập hợp một loại sản phẩm, hàng hóa vật liệu xây dựng được xác định về số lượng, có cùng nội dung ghi nhãn do một tổ chức, cá nhân sản xuất, nhập khẩu tại cùng một địa điểm được phân phối, tiêu thụ trên thị trường.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 106,
+    "line_end": 107,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-3-6",
+    "anchor": "muc-1-3-6",
+    "title": "1.3.6  Mẫu điển hình của sản phẩm, hàng hóa vật liệu xây dựng là mẫu đại diện cho một kiểu, loại cụ thể của sản phẩm, hàng hóa được sản xuất theo cùng một dạng thiết kế, trong cùng một điều kiện về dây chuyền, công nghệ sản xuất và sử dụng cùng loại nguyên vật liệu.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 110,
+    "line_end": 111,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-3-7",
+    "anchor": "muc-1-3-7",
+    "title": "1.3.7  Mẫu đại diện của lô sản phẩm, hàng hóa vật liệu xây dựng là mẫu được lấy theo tỷ lệ và ngẫu nhiên từ cùng một lô hàng hóa và đảm bảo tính đại diện cho toàn bộ lô hàng hóa, được dùng để đánh giá, chứng nhận hợp quy.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 114,
+    "line_end": 115,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-3-8",
+    "anchor": "muc-1-3-8",
+    "title": "1.3.8  Lưu thông hàng hóa là hoạt động trưng bày, khuyến mại, vận chuyển và lưu giữ hàng hóa trong quá trình mua bán hàng hóa, trừ trường hợp vận chuyển hàng hóa của tổ chức, cá nhân nhập khẩu hàng hóa từ cửa khẩu về kho lưu giữ.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 118,
+    "line_end": 119,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-4",
+    "anchor": "muc-1-4",
+    "title": "1.4  Quy định chung",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 122,
+    "line_end": 123,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-4-1",
+    "anchor": "muc-1-4-1",
+    "title": "1.4.1  Các sản phẩm, hàng hóa vật liệu xây dựng phải đảm bảo không gây mất an toàn trong quá trình vận chuyển, lưu giữ, bảo quản và sử dụng. Khi lưu thông trên thị trường, đối với sản phẩm, hàng hóa sản xuất trong nước phải có giấy chứng nhận hợp quy và thông báo tiếp nhận hồ sơ công bố hợp quy của cơ quan kiểm tra tại địa phương; đối với hàng hóa nhập khẩu phải có Giấy chứng nhận hợp quy.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 126,
+    "line_end": 127,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-4-2",
+    "anchor": "muc-1-4-2",
+    "title": "1.4.2  Các tổ chức, cá nhân sản xuất, nhập khẩu, kinh doanh, sử dụng sản phẩm phải kê khai đúng chủng loại sản phẩm, hàng hóa vật liệu xây dựng phù hợp với danh mục sản phẩm quy định tại Bảng 1, Phần 2 của Quy chuẩn này. Trường hợp không rõ chủng loại sản phẩm, hàng hóa các tổ chức, cá nhân có liên quan phải phối hợp với Tổ chức chứng nhận hợp quy, Tổ chức thử nghiệm để thực hiện việc định danh loại sản phẩm.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 130,
+    "line_end": 131,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-4-3",
+    "anchor": "muc-1-4-3",
+    "title": "1.4.3  Các sản phẩm, hàng hóa vật liệu xây dựng sản xuất trong nước, nhập khẩu quy định tại Bảng 1, Phần 2 của Quy chuẩn này áp dụng biện pháp quản lý dựa trên kết quả chứng nhận của Tổ chức chứng nhận đã đăng ký hoặc được thừa nhận theo quy định của pháp luật.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 134,
+    "line_end": 135,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-4-4",
+    "anchor": "muc-1-4-4",
+    "title": "1.4.4  Dấu hợp quy được sử dụng trực tiếp trên sản phẩm, hàng hóa hoặc trên bao gói hoặc trên nhãn gắn trên sản phẩm, hàng hóa hoặc trong chứng chỉ chất lượng, tài liệu kỹ thuật của sản phẩm theo quy định về dấu hợp quy và sử dụng dấu hợp quy của Thông tư số 28/2012/TT-BKHCN và Phụ lục IX ban hành kèm theo Thông tư số 26/2019/TT-BKHCN.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 138,
+    "line_end": 139,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-1-5",
+    "anchor": "muc-1-5",
+    "title": "1.5  Tài liệu viện dẫn",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 142,
+    "line_end": 407,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-2-1",
+    "anchor": "muc-2-1",
+    "title": "2.1  Không sử dụng nguyên liệu amiăng amfibôn (tên viết khác amfibole) cho chế tạo các sản phẩm vật liệu xây dựng. Nhóm amiăng amfibôn bị cấm sử dụng gồm 05 loại sau:",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 410,
+    "line_end": 431,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-2-2",
+    "anchor": "muc-2-2",
+    "title": "2.2  Các sản phẩm, hàng hóa vật liệu xây dựng phải được kiểm tra các chỉ tiêu kỹ thuật theo các phương pháp thử tương ứng và phải thỏa mãn mức yêu cầu quy định trong Bảng 1.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 434,
+    "line_end": 435,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-01",
+    "anchor": "bang-bang-01",
+    "title": "Bảng 1 - Danh mục sản phẩm, hàng hóa vật liệu xây dựng",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 438,
+    "line_end": 777,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-1",
+    "anchor": "muc-3-1",
+    "title": "3.1  Quy định về chứng nhận hợp quy",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 780,
+    "line_end": 781,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-1-1",
+    "anchor": "muc-3-1-1",
+    "title": "3.1.1  Việc chứng nhận hợp quy cho các sản phẩm, hàng hóa vật liệu xây dựng ở Bảng 1 Phần 2 của Quy chuẩn này được thực hiện theo các phương thức đánh giá nêu tại khoản 3.1.2.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 784,
+    "line_end": 785,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-1-2",
+    "anchor": "muc-3-1-2",
+    "title": "3.1.2  Các phương thức đánh giá chứng nhận hợp quy được quy định tại Thông tư số 28/2012/TT-BKHCN ngày 12/12/2012 của Bộ trưởng Bộ Khoa học và Công nghệ Quy định về Công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn (sau đây gọi tắt là Thông tư 28/2012/TT-BKHCN) và Thông tư số 02/2017/TT-BKHCN ngày 31/3/2017 của Bộ trưởng Bộ Khoa học và Công nghệ về sửa đổi bổ sung một số điều của Thông tư số 28/2012/TT-BKHCN (sau đây gọi tắt là Thông tư 02/2017/TT-BKHCN), cụ thể như sau:",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 788,
+    "line_end": 809,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-2",
+    "anchor": "muc-3-2",
+    "title": "3.2  Quy định về công bố hợp quy",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 812,
+    "line_end": 813,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-2-1",
+    "anchor": "muc-3-2-1",
+    "title": "3.2.1  Các sản phẩm, hàng hóa vật liệu xây dựng sản xuất trong nước phải được công bố hợp quy tại Cơ quan kiểm tra tại địa phương nơi đăng ký kinh doanh dựa trên Kết quả chứng nhận của Tổ chức chứng nhận đã đăng ký hoặc thừa nhận theo quy định của pháp luật;",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 816,
+    "line_end": 817,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-2-2",
+    "anchor": "muc-3-2-2",
+    "title": "3.2.2  Hồ sơ, trình tự, thủ tục công bố hợp quy thực hiện theo quy định tại Điều 14, Điều 15 Thông tư số 28/2012/TT-BKHCN, được sửa đổi, bổ sung tại Thông tư số 02/2017/TT-BKHCN và Thông tư số 06/2020/TT-BKHCN (Áp dụng phiên bản mới nhất khi được thay thế, sửa đổi)",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 820,
+    "line_end": 821,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-3",
+    "anchor": "muc-3-3",
+    "title": "3.3  Quy định đối với hàng hóa vật liệu xây dựng nhập khẩu",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 824,
+    "line_end": 825,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-3-1",
+    "anchor": "muc-3-3-1",
+    "title": "3.3.1  Đối với hàng hóa vật liệu xây dựng nhập khẩu quy định tại Phần 2 của Quy chuẩn, người nhập khẩu phải thực hiện:",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 828,
+    "line_end": 843,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-3-2",
+    "anchor": "muc-3-3-2",
+    "title": "3.3.2  Áp dụng biện pháp miễn giảm kiểm tra chất lượng hàng hóa vật liệu xây dựng nhập khẩu theo quy định tại khoản 3 Điều 1 Nghị định 74/2018/NĐ-CP và khoản 3 Điều 4 Nghị định 154/2018/NĐ-CP ngày 09/11/2018 của Chính phủ sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 846,
+    "line_end": 851,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-4",
+    "anchor": "muc-3-4",
+    "title": "3.4  Quy định về xử lý hồ sơ nhập khẩu và chất lượng hàng hóa vật liệu xây dựng nhập khẩu không phù hợp quy chuẩn kỹ thuật: thực hiện theo khoản 3 Điều 6, Điều 9 Thông tư số 06/2020/TT-BKHCN ngày 10/12/2020.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 854,
+    "line_end": 855,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-5",
+    "anchor": "muc-3-5",
+    "title": "3.5  Phương pháp lấy mẫu, quy cách và số lượng mẫu để thử nghiệm đánh giá",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 858,
+    "line_end": 859,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-5-1",
+    "anchor": "muc-3-5-1",
+    "title": "3.5.1  Phương pháp lấy mẫu điển hình, mẫu đại diện tuân theo các quy định nêu trong tiêu chuẩn quốc gia hiện hành về phương pháp lấy mẫu và chuẩn bị mẫu thử đối với sản phẩm tương ứng.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 862,
+    "line_end": 863,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-5-2",
+    "anchor": "muc-3-5-2",
+    "title": "3.5.2  Quy cách và số lượng mẫu điển hình, mẫu đại diện cho mỗi lô sản phẩm, hàng hóa tuân theo quy định trong Bảng 1, Phần 2 tương ứng với từng loại sản phẩm.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 866,
+    "line_end": 867,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-5-3",
+    "anchor": "muc-3-5-3",
+    "title": "3.5.3  Đối với hàng hóa vật liệu xây dựng nhập khẩu với số lượng ít không đủ để lấy mẫu thử nghiệm theo quy định hoặc chi phí thử nghiệm được xác định thông qua 03 báo giá của tổ chức thử nghiệm cho thấy lớn hơn so với giá trị của lô hàng nhập khẩu; Đồng thời người nhập khẩu cần chứng minh hàng hóa không sử dụng, lưu thông và đưa vào công trình xây dựng thì áp dụng theo điều 1.1.2 của Quy chuẩn này.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 870,
+    "line_end": 873,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-3-6",
+    "anchor": "muc-3-6",
+    "title": "3.6  Quy định về bao gói, ghi nhãn, vận chuyển và bảo quản",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 876,
+    "line_end": 885,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Các tổ chức chứng nhận, tổ chức thử nghiệm có năng lực đáp ứng yêu cầu về thử nghiệm, chứng nhận đối với sản phẩm, hàng hóa vật liệu xây dựng phù hợp với quy định tại QCVN 16:2023/BXD, lập hồ sơ đăng ký theo quy định tại Nghị định số 107/2016/NĐ-CP, Nghị định số 154/2018/NĐ-CP nộp về Bộ Xây dựng để xem xét cấp Giấy chứng nhận đăng ký hoạt động chứng nhận; Giấy chứng nhận đăng ký hoạt động thử nghiệm.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 888,
+    "line_end": 889,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Bộ Xây dựng xem xét, thừa nhận các Tổ chức chứng nhận, Tổ chức thử nghiệm tại nước ngoài thực hiện công tác chứng nhận, thử nghiệm các sản phẩm, hàng hóa vật liệu xây dựng tại Bảng 1 theo quy định của Pháp luật khi Thỏa thuận thừa nhận lẫn nhau được ký kết.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CQXD",
+    "line_start": 892,
+    "line_end": 899,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Cơ quan chuyên môn của Bộ Xây dựng có trách nhiệm:",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 902,
+    "line_end": 903,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-1-1",
+    "anchor": "muc-5-1-1",
+    "title": "5.1.1  Hướng dẫn hoạt động chứng nhận hợp quy.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 906,
+    "line_end": 907,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-1-2",
+    "anchor": "muc-5-1-2",
+    "title": "5.1.2  Tổ chức xây dựng, soát xét, sửa đổi, bổ sung Quy chuẩn kỹ thuật quốc gia về sản phẩm, hàng hóa vật liệu xây dựng.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 910,
+    "line_end": 911,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-1-3",
+    "anchor": "muc-5-1-3",
+    "title": "5.1.3  Kiểm tra, theo dõi, tổng hợp tình hình hoạt động của các Tổ chức chứng nhận, Tổ chức thử nghiệm đã đăng ký hoạt động và thừa nhận; đề xuất cấp, đình chỉ và thu hồi Giấy chứng nhận đăng ký hoạt động đối với các Tổ chức chứng nhận, Tổ chức thử nghiệm đăng ký theo Nghị định số 107/2016/NĐ-CP và công bố trên trang thông tin của Bộ Xây dựng;",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 914,
+    "line_end": 915,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-1-4",
+    "anchor": "muc-5-1-4",
+    "title": "5.1.4  Theo dõi, tổng hợp, kiểm tra (định kỳ hoặc đột xuất) tình hình hoạt động công bố hợp quy, việc xác nhận miễn giảm kiểm tra chất lượng sản phẩm, hàng hóa vật liệu xây dựng của các Cơ quan kiểm tra tại địa phương.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 918,
+    "line_end": 919,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Cơ quan kiểm tra tại địa phương có trách nhiệm:",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 922,
+    "line_end": 923,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-2-1",
+    "anchor": "muc-5-2-1",
+    "title": "5.2.1  Tiếp nhận hồ sơ công bố hợp quy của tổ chức, cá nhân đối với sản phẩm, hàng hóa vật liệu xây dựng sản xuất; Tiếp nhận, xử lý hồ sơ đăng ký kiểm tra nhà nước đối với hàng hóa nhập khẩu.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 926,
+    "line_end": 927,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-2-2",
+    "anchor": "muc-5-2-2",
+    "title": "5.2.2  Tiếp nhận Hồ sơ miễn giảm kiểm tra chất lượng hàng hóa nhập khẩu của các tổ chức, cá nhân và có văn bản xác nhận hoặc từ chối miễn giảm kiểm tra hoặc có văn bản thông báo dừng áp dụng chế độ miễn giảm kiểm tra theo quy định tại khoản 3 điều 4 Nghị định số 154/2018/NĐ-CP.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 930,
+    "line_end": 931,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-2-3",
+    "anchor": "muc-5-2-3",
+    "title": "5.2.3  Quản lý, kiểm tra các hoạt động chứng nhận hợp quy, công bố hợp quy đối với sản phẩm, hàng hóa vật liệu xây dựng trên địa bàn. Phối hợp với các cơ quan kiểm tra địa phương tại các cửa khẩu để kiểm tra việc thực hiện công tác đăng ký kiểm tra nhà nước và sự phù hợp chất lượng đối với hàng hóa nhập khẩu.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 934,
+    "line_end": 935,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-2-4",
+    "anchor": "muc-5-2-4",
+    "title": "5.2.4  Tổng hợp tình hình hoạt động chứng nhận hợp quy, công bố hợp quy, kết quả kiểm tra nhà nước đối với hàng hóa nhập khẩu, tình hình miễn giảm kiểm tra hàng hóa và gửi báo cáo về Bộ Xây dựng trước ngày 25 tháng 12 hàng năm hoặc đột xuất theo yêu cầu của Bộ Xây dựng.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 938,
+    "line_end": 939,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-3",
+    "anchor": "muc-5-3",
+    "title": "5.3  Tổ chức chứng nhận hợp quy và Tổ chức thử nghiệm có trách nhiệm:",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 942,
+    "line_end": 943,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-3-1",
+    "anchor": "muc-5-3-1",
+    "title": "5.3.1  Định kỳ trước ngày 20 tháng 12 hàng năm hoặc đột xuất theo yêu cầu, gửi báo cáo bằng văn bản về kết quả hoạt động chứng nhận hợp quy, hoạt động thử nghiệm về Cơ quan kiểm tra tại địa phương và Bộ Xây dựng.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 946,
+    "line_end": 947,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-3-2",
+    "anchor": "muc-5-3-2",
+    "title": "5.3.2  Khi có thay đổi năng lực hoạt động chứng nhận hợp quy, hoạt động thử nghiệm so với hồ sơ đã đăng ký, trong thời hạn 15 ngày kể từ ngày có sự thay đổi phải thông báo cho Bộ Xây dựng.",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 950,
+    "line_end": 951,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-3-3",
+    "anchor": "muc-5-3-3",
+    "title": "5.3.3  Thực hiện các quyền và nghĩa vụ khác theo quy định của pháp luật",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 954,
+    "line_end": 955,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "muc-5-4",
+    "anchor": "muc-5-4",
+    "title": "5.4  Các tổ chức, cá nhân sản xuất và nhập khẩu sản phẩm, hàng hóa vật liệu xây dựng có trách nhiệm:",
+    "source_file": "qcvn_16_2023_bxd.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 958,
+    "line_end": 966,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "phu-luc-1",
+    "anchor": "phu-luc-1",
+    "title": "PHỤ LỤC",
+    "source_file": "annexes/phu_luc_1.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A — Xi măng poóc lăng bền sun phát",
+    "source_file": "annexes/phu_luc_a_xi_mang_pooc_lang_ben_sun_phat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a",
+    "anchor": "bang-bang-phu-luc-a",
+    "title": "Bảng Phụ lục A",
+    "source_file": "annexes/phu_luc_a_xi_mang_pooc_lang_ben_sun_phat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 19,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-2",
+    "anchor": "bang-bang-phu-luc-a-2",
+    "title": "Bảng Phụ lục A (Phần 2)",
+    "source_file": "annexes/phu_luc_a_xi_mang_pooc_lang_ben_sun_phat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 22,
+    "line_end": 41,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B — Tro bay dùng cho bê tông, vữa xây và xi măng",
+    "source_file": "annexes/phu_luc_b_tro_bay_dung_cho_be_tong_vua_xay_va_xi_mang.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-b",
+    "anchor": "bang-bang-phu-luc-b",
+    "title": "Bảng Phụ lục B",
+    "source_file": "annexes/phu_luc_b_tro_bay_dung_cho_be_tong_vua_xay_va_xi_mang.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 19,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-b-2",
+    "anchor": "bang-bang-phu-luc-b-2",
+    "title": "Bảng Phụ lục B (Phần 2)",
+    "source_file": "annexes/phu_luc_b_tro_bay_dung_cho_be_tong_vua_xay_va_xi_mang.md",
+    "jurisdiction": "CQXD",
+    "line_start": 22,
+    "line_end": 31,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "phu-luc-c",
+    "anchor": "phu-luc-c",
+    "title": "PHỤ LỤC C — Gạch gốm ốp lát",
+    "source_file": "annexes/phu_luc_c_gach_gom_op_lat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-c",
+    "anchor": "bang-bang-c",
+    "title": "Bảng C - 1. Gạch gốm ốp lát ép bán khô (Nhóm B)",
+    "source_file": "annexes/phu_luc_c_gach_gom_op_lat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 20,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-c",
+    "anchor": "bang-bang-phu-luc-c",
+    "title": "Bảng Phụ lục C",
+    "source_file": "annexes/phu_luc_c_gach_gom_op_lat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 23,
+    "line_end": 30,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-c-2",
+    "anchor": "bang-bang-phu-luc-c-2",
+    "title": "Bảng Phụ lục C (Phần 2)",
+    "source_file": "annexes/phu_luc_c_gach_gom_op_lat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 43,
+    "line_end": 57,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-c-3",
+    "anchor": "bang-bang-phu-luc-c-3",
+    "title": "Bảng Phụ lục C (Phần 3)",
+    "source_file": "annexes/phu_luc_c_gach_gom_op_lat.md",
+    "jurisdiction": "CQXD",
+    "line_start": 60,
+    "line_end": 82,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "phu-luc-d",
+    "anchor": "phu-luc-d",
+    "title": "PHỤ LỤC D — Đá ốp lát tự nhiên",
+    "source_file": "annexes/phu_luc_d_da_op_lat_tu_nhien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-d",
+    "anchor": "bang-bang-phu-luc-d",
+    "title": "Bảng Phụ lục D",
+    "source_file": "annexes/phu_luc_d_da_op_lat_tu_nhien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 21,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "phu-luc-e",
+    "anchor": "phu-luc-e",
+    "title": "PHỤ LỤC E — Đá ốp lát nhân tạo trên cơ sở chất kết dính hữu cơ",
+    "source_file": "annexes/phu_luc_e_da_op_lat_nhan_tao_tren_co_so_chat_ket_dinh_h.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-e",
+    "anchor": "bang-bang-phu-luc-e",
+    "title": "Bảng Phụ lục E",
+    "source_file": "annexes/phu_luc_e_da_op_lat_nhan_tao_tren_co_so_chat_ket_dinh_h.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 16,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "phu-luc-f",
+    "anchor": "phu-luc-f",
+    "title": "PHỤ LỤC F — Gạch đất sét nung",
+    "source_file": "annexes/phu_luc_f_gach_dat_set_nung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-f",
+    "anchor": "bang-bang-phu-luc-f",
+    "title": "Bảng Phụ lục F",
+    "source_file": "annexes/phu_luc_f_gach_dat_set_nung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 12,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-f",
+    "anchor": "bang-bang-f",
+    "title": "Bảng F - Cường độ nén và uốn của gạch đất sét nung",
+    "source_file": "annexes/phu_luc_f_gach_dat_set_nung.md",
+    "jurisdiction": "CQXD",
+    "line_start": 15,
+    "line_end": 27,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "phu-luc-g",
+    "anchor": "phu-luc-g",
+    "title": "PHỤ LỤC G — Gạch bê tông",
+    "source_file": "annexes/phu_luc_g_gach_be_tong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-g",
+    "anchor": "bang-bang-phu-luc-g",
+    "title": "Bảng Phụ lục G",
+    "source_file": "annexes/phu_luc_g_gach_be_tong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 13,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-g",
+    "anchor": "bang-bang-g",
+    "title": "Bảng G - Cường độ chịu nén, độ hút nước và độ thấm nước của gạch bê tông",
+    "source_file": "annexes/phu_luc_g_gach_be_tong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 29,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "phu-luc-h",
+    "anchor": "phu-luc-h",
+    "title": "PHỤ LỤC H — Sản phẩm bê tông khí chưng áp",
+    "source_file": "annexes/phu_luc_h_san_pham_be_tong_khi_chung_ap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-h",
+    "anchor": "bang-bang-phu-luc-h",
+    "title": "Bảng Phụ lục H",
+    "source_file": "annexes/phu_luc_h_san_pham_be_tong_khi_chung_ap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 13,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-h",
+    "anchor": "bang-bang-h",
+    "title": "Bảng H - Cường độ nén và khối lượng thể tích khô",
+    "source_file": "annexes/phu_luc_h_san_pham_be_tong_khi_chung_ap.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 35,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "phu-luc-i",
+    "anchor": "phu-luc-i",
+    "title": "PHỤ LỤC I — Ngói bê tông",
+    "source_file": "annexes/phu_luc_i_ngoi_be_tong.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-i",
+    "anchor": "bang-bang-phu-luc-i",
+    "title": "Bảng Phụ lục I",
+    "source_file": "annexes/phu_luc_i_ngoi_be_tong.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 6,
+    "line_end": 12,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-i",
+    "anchor": "bang-bang-i",
+    "title": "Bảng I - Lực uốn gãy tối thiểu $F_{min}$ của ngói",
+    "source_file": "annexes/phu_luc_i_ngoi_be_tong.md",
+    "jurisdiction": "CQXD",
+    "line_start": 15,
+    "line_end": 22,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "phu-luc-k",
+    "anchor": "phu-luc-k",
+    "title": "PHỤ LỤC K — Kính nổi",
+    "source_file": "annexes/phu_luc_k_kinh_noi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-k",
+    "anchor": "bang-bang-phu-luc-k",
+    "title": "Bảng Phụ lục K",
+    "source_file": "annexes/phu_luc_k_kinh_noi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 13,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-k-1",
+    "anchor": "bang-bang-k-1",
+    "title": "Bảng K.1 - Chiều dày danh nghĩa, sai số kích thước cho phép và độ xuyên quang",
+    "source_file": "annexes/phu_luc_k_kinh_noi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 16,
+    "line_end": 36,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-k-2",
+    "anchor": "bang-bang-k-2",
+    "title": "Bảng K.2 - Chỉ tiêu chất lượng các khuyết tật ngoại quan",
+    "source_file": "annexes/phu_luc_k_kinh_noi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 39,
+    "line_end": 69,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "phu-luc-l",
+    "anchor": "phu-luc-l",
+    "title": "PHỤ LỤC L — Kính phẳng tôi nhiệt",
+    "source_file": "annexes/phu_luc_l_kinh_phang_toi_nhiet.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-l",
+    "anchor": "bang-bang-phu-luc-l",
+    "title": "Bảng Phụ lục L",
+    "source_file": "annexes/phu_luc_l_kinh_phang_toi_nhiet.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 20,
+    "cong_bao_number": "857+858/2023"
+  },
+  {
+    "clause_id": "bang-bang-l",
+    "anchor": "bang-bang-l",
+    "title": "Bảng L - Chiều dày danh nghĩa và sai lệch cho phép",
+    "source_file": "annexes/phu_luc_l_kinh_phang_toi_nhiet.md",
+    "jurisdiction": "CQXD",
+    "line_start": 23,
+    "line_end": 39,
+    "cong_bao_number": "857+858/2023"
+  }
+]

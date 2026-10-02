@@ -1,0 +1,50 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Giới hạn vùng nguy hiểm từ nguy cơ các vật rơi",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Độ cao có thể rơi các vật (m)",
+    "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Đối với công trình đang xây dựng hoặc công trình hiện hữu (tính từ đường chu vi ngoài hoặc các hệ thống bao che)",
+    "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Khu vực di chuyển, nâng, hạ tải (tính từ đường chu vi ngoài của hình chiếu bằng theo kích thước lớn nhất của vật nâng)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Độ cao có thể rơi các vật (m)": "< 20",
+      "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Đối với công trình đang xây dựng hoặc công trình hiện hữu (tính từ đường chu vi ngoài hoặc các hệ thống bao che)": "5",
+      "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Khu vực di chuyển, nâng, hạ tải (tính từ đường chu vi ngoài của hình chiếu bằng theo kích thước lớn nhất của vật nâng)": "7"
+    },
+    {
+      "_row_id": 2,
+      "Độ cao có thể rơi các vật (m)": "20 ÷ < 70",
+      "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Đối với công trình đang xây dựng hoặc công trình hiện hữu (tính từ đường chu vi ngoài hoặc các hệ thống bao che)": "7",
+      "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Khu vực di chuyển, nâng, hạ tải (tính từ đường chu vi ngoài của hình chiếu bằng theo kích thước lớn nhất của vật nâng)": "10"
+    },
+    {
+      "_row_id": 3,
+      "Độ cao có thể rơi các vật (m)": "70 ÷ < 120",
+      "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Đối với công trình đang xây dựng hoặc công trình hiện hữu (tính từ đường chu vi ngoài hoặc các hệ thống bao che)": "10",
+      "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Khu vực di chuyển, nâng, hạ tải (tính từ đường chu vi ngoài của hình chiếu bằng theo kích thước lớn nhất của vật nâng)": "15"
+    },
+    {
+      "_row_id": 4,
+      "Độ cao có thể rơi các vật (m)": "120 ÷ < 200",
+      "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Đối với công trình đang xây dựng hoặc công trình hiện hữu (tính từ đường chu vi ngoài hoặc các hệ thống bao che)": "15",
+      "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Khu vực di chuyển, nâng, hạ tải (tính từ đường chu vi ngoài của hình chiếu bằng theo kích thước lớn nhất của vật nâng)": "20"
+    },
+    {
+      "_row_id": 5,
+      "Độ cao có thể rơi các vật (m)": "200 ÷ < 300",
+      "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Đối với công trình đang xây dựng hoặc công trình hiện hữu (tính từ đường chu vi ngoài hoặc các hệ thống bao che)": "20",
+      "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Khu vực di chuyển, nâng, hạ tải (tính từ đường chu vi ngoài của hình chiếu bằng theo kích thước lớn nhất của vật nâng)": "25"
+    },
+    {
+      "_row_id": 6,
+      "Độ cao có thể rơi các vật (m)": "300 ÷ < 450",
+      "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Đối với công trình đang xây dựng hoặc công trình hiện hữu (tính từ đường chu vi ngoài hoặc các hệ thống bao che)": "25",
+      "Giới hạn vùng nguy hiểm - Kích thước tối thiểu (m) — Khu vực di chuyển, nâng, hạ tải (tính từ đường chu vi ngoài của hình chiếu bằng theo kích thước lớn nhất của vật nâng)": "30"
+    }
+  ],
+  "footnotes": []
+}

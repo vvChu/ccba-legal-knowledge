@@ -1,0 +1,614 @@
+[
+  {
+    "clause_id": "dieu-1",
+    "anchor": "dieu-1",
+    "title": "Điều 1. Phạm vi điều chỉnh",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 31,
+    "line_end": 34
+  },
+  {
+    "clause_id": "dieu-1-khoan-1",
+    "anchor": "dieu-1-khoan-1",
+    "title": "1. Mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư thực hiện dự án đầu tư theo phương thức đối tác công tư (PPP), dự án đầu tư kinh doanh.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 36,
+    "line_end": 37
+  },
+  {
+    "clause_id": "dieu-1-khoan-2",
+    "anchor": "dieu-1-khoan-2",
+    "title": "2. Cung cấp, đăng tải thông tin về đầu tư theo phương thức đối tác công tư, đấu thầu lựa chọn nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 39,
+    "line_end": 40
+  },
+  {
+    "clause_id": "dieu-2",
+    "anchor": "dieu-2",
+    "title": "Điều 2. Đối tượng áp dụng",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 43,
+    "line_end": 44
+  },
+  {
+    "clause_id": "dieu-2-khoan-1",
+    "anchor": "dieu-2-khoan-1",
+    "title": "1. Tổ chức, cá nhân liên quan đến việc lựa chọn nhà đầu tư thuộc phạm vi điều chỉnh quy định tại Điều 1 của Thông tư này.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 46,
+    "line_end": 47
+  },
+  {
+    "clause_id": "dieu-2-khoan-2",
+    "anchor": "dieu-2-khoan-2",
+    "title": "2. Tổ chức, cá nhân có hoạt động lựa chọn nhà đầu tư không thuộc phạm vi điều chỉnh của Luật Đấu thầu được chọn áp dụng quy định của Thông tư này. Trường hợp chọn áp dụng, trình tự cung cấp, đăng tải thông tin thực hiện theo Hướng dẫn sử dụng trên Hệ thống mạng đấu thầu quốc gia.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 49,
+    "line_end": 50
+  },
+  {
+    "clause_id": "dieu-3",
+    "anchor": "dieu-3",
+    "title": "Điều 3. Giải thích từ ngữ",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 53,
+    "line_end": 54
+  },
+  {
+    "clause_id": "dieu-3-khoan-1",
+    "anchor": "dieu-3-khoan-1",
+    "title": "1. Hệ thống mạng đấu thầu quốc gia (sau đây gọi là Hệ thống), Hệ thống thông tin quốc gia về đăng ký doanh nghiệp, Chứng thư số sử dụng trên Hệ thống, Hướng dẫn sử dụng, Tài khoản nghiệp vụ được giải thích theo quy định tại các khoản 1, 2, 6, 7 và 10 Điều 3 Thông tư số 79/2025/TT-BTC ngày 04 tháng 8 năm 2025 của Bộ trưởng Bộ Tài chính hướng dẫn việc cung cấp, đăng tải thông tin về đấu thầu và mẫu hồ sơ đấu thầu trên Hệ thống mạng đấu thầu quốc gia (sau đây gọi là Thông tư số 79/2025/TT-BTC).",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 56,
+    "line_end": 57
+  },
+  {
+    "clause_id": "dieu-3-khoan-2",
+    "anchor": "dieu-3-khoan-2",
+    "title": "2. Văn bản điện tử là văn bản, thông tin được gửi, nhận và lưu trữ thành công trên Hệ thống, gồm:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 59,
+    "line_end": 80
+  },
+  {
+    "clause_id": "dieu-3-khoan-3",
+    "anchor": "dieu-3-khoan-3",
+    "title": "3. Thông tin không hợp lệ là thông tin do đối tượng quy định tại Điều 2 của Thông tư này tự đăng tải trên Hệ thống không tuân thủ quy định của pháp luật về đầu tư theo phương thức PPP, pháp luật về đấu thầu, pháp luật quản lý ngành, lĩnh vực và pháp luật khác có liên quan.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 82,
+    "line_end": 83
+  },
+  {
+    "clause_id": "dieu-3-khoan-4",
+    "anchor": "dieu-3-khoan-4",
+    "title": "4. Tổ chức tham gia Hệ thống là các cơ quan, tổ chức đăng ký tham gia Hệ thống với một hoặc một số vai trò như sau:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 85,
+    "line_end": 94
+  },
+  {
+    "clause_id": "dieu-3-khoan-5",
+    "anchor": "dieu-3-khoan-5",
+    "title": "5. Tài khoản tham gia Hệ thống là tài khoản do Trung tâm Đấu thầu qua mạng quốc gia cấp cho Tổ chức tham gia Hệ thống để thực hiện một hoặc một số vai trò quy định tại khoản 4 Điều này.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 96,
+    "line_end": 97
+  },
+  {
+    "clause_id": "dieu-4",
+    "anchor": "dieu-4",
+    "title": "Điều 4. Lập khảo sát quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu dự án PPP",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 100,
+    "line_end": 101
+  },
+  {
+    "clause_id": "dieu-4-khoan-1",
+    "anchor": "dieu-4-khoan-1",
+    "title": "1. Bên mời thầu, tổ chuyên gia tổ chức lập khảo sát quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu dự án PPP theo quy định của Luật Đầu tư theo phương thức đối tác công tư (sau đây gọi là Luật PPP), Nghị định số 243/2025/NĐ-CP ngày 11 tháng 9 năm 2025 của Chính phủ quy định chi tiết một số điều của Luật Đầu tư theo phương thức đối tác công tư (sau đây gọi là Nghị định số 243/2025/NĐ-CP), Nghị định số 257/2025/NĐ-CP ngày 08 tháng 10 năm 2025 quy định chi tiết về việc thực hiện dự án áp dụng loại hợp đồng Xây dựng - Chuyển giao (sau đây gọi là Nghị định số 257/2025/NĐ-CP), hướng dẫn nội dung trong hoạt động đầu tư theo phương thức PPP của các bộ, cơ quan ngang bộ (nếu có) và quy định của pháp luật có liên quan như sau:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 103,
+    "line_end": 112
+  },
+  {
+    "clause_id": "dieu-4-khoan-2",
+    "anchor": "dieu-4-khoan-2",
+    "title": "2. Đối với dự án áp dụng quy trình chỉ định nhà đầu tư rút gọn:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 114,
+    "line_end": 127
+  },
+  {
+    "clause_id": "dieu-4-khoan-3",
+    "anchor": "dieu-4-khoan-3",
+    "title": "3. Đối với dự án áp dụng hình thức lựa chọn nhà đầu tư trong trường hợp đặc biệt, yêu cầu về năng lực tài chính, điều kiện thực hiện dự án của nhà đầu tư được xây dựng trên cơ sở quy định của mẫu hồ sơ yêu cầu tại Phụ lục IV kèm theo Thông tư này.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 129,
+    "line_end": 130
+  },
+  {
+    "clause_id": "dieu-4-khoan-4",
+    "anchor": "dieu-4-khoan-4",
+    "title": "4. Trong các Phụ lục I, II, III và IV kèm theo Thông tư này, nội dung in nghiêng có mục đích hướng dẫn, minh họa và được cụ thể hóa tại hồ sơ mời thầu, hồ sơ yêu cầu trên cơ sở quy mô, tính chất, lĩnh vực và điều kiện riêng (nếu có) của từng dự án.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 132,
+    "line_end": 133
+  },
+  {
+    "clause_id": "dieu-5",
+    "anchor": "dieu-5",
+    "title": "Điều 5. Lập thông báo mời quan tâm, hồ sơ mời quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu dự án đầu tư kinh doanh",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 136,
+    "line_end": 137
+  },
+  {
+    "clause_id": "dieu-5-khoan-1",
+    "anchor": "dieu-5-khoan-1",
+    "title": "1. Bên mời quan tâm, bên mời thầu, tổ chuyên gia tổ chức lập thông báo mời quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu theo quy định của Luật Đấu thầu, Nghị định số 23/2024/NĐ-CP ngày 27 tháng 02 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc trường hợp phải tổ chức đấu thầu theo quy định của pháp luật quản lý ngành, lĩnh vực (sau đây gọi là Nghị định số 23/2024/NĐ-CP), Nghị định số 115/2024/NĐ-CP ngày 16 tháng 9 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án đầu tư có sử dụng đất (sau đây gọi là Nghị định số 115/2024/NĐ-CP), hướng dẫn của các Bộ quản lý ngành, lĩnh vực (nếu có) và quy định của pháp luật có liên quan như sau:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 139,
+    "line_end": 150
+  },
+  {
+    "clause_id": "dieu-5-khoan-2",
+    "anchor": "dieu-5-khoan-2",
+    "title": "2. Đối với dự án áp dụng quy trình chỉ định nhà đầu tư rút gọn theo quy định tại điểm b khoản 1 Điều 44d Nghị định số 115/2024/NĐ-CP, yêu cầu về năng lực và hiệu quả sử dụng đất, hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương được xây dựng trên cơ sở quy định của mẫu hồ sơ yêu cầu tại Phụ lục VIII kèm theo Thông tư này.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 152,
+    "line_end": 153
+  },
+  {
+    "clause_id": "dieu-5-khoan-3",
+    "anchor": "dieu-5-khoan-3",
+    "title": "3. Đối với dự án áp dụng hình thức lựa chọn nhà đầu tư trong trường hợp đặc biệt, yêu cầu về năng lực tài chính, điều kiện thực hiện dự án của nhà đầu tư được xây dựng trên cơ sở quy định của mẫu hồ sơ yêu cầu tại Phụ lục VIII kèm theo Thông tư này.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 155,
+    "line_end": 156
+  },
+  {
+    "clause_id": "dieu-5-khoan-4",
+    "anchor": "dieu-5-khoan-4",
+    "title": "4. Đối với dự án áp dụng phương thức hai giai đoạn một túi hồ sơ, hồ sơ mời thầu được xây dựng trên cơ sở quy định của mẫu hồ sơ mời thầu tại Phụ lục VI kèm theo Thông tư này.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 158,
+    "line_end": 159
+  },
+  {
+    "clause_id": "dieu-5-khoan-5",
+    "anchor": "dieu-5-khoan-5",
+    "title": "5. Trong các Phụ lục V, VI, VII và VIII kèm theo Thông tư này, nội dung in nghiêng có mục đích hướng dẫn, minh họa và được cụ thể hóa tại hồ sơ mời quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu trên cơ sở quy mô, tính chất, lĩnh vực và điều kiện riêng (nếu có) của từng dự án.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 161,
+    "line_end": 162
+  },
+  {
+    "clause_id": "dieu-6",
+    "anchor": "dieu-6",
+    "title": "Điều 6. Nguyên tắc cung cấp, đăng tải thông tin trên Hệ thống",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 169,
+    "line_end": 170
+  },
+  {
+    "clause_id": "dieu-6-khoan-1",
+    "anchor": "dieu-6-khoan-1",
+    "title": "1. Quy định về định dạng tệp tin (file) đính kèm; xử lý kỹ thuật trong trường hợp Hệ thống gặp sự cố ngoài khả năng kiểm soát; quản lý tài khoản và sử dụng chứng thư số; gửi, nhận văn bản điện tử trên Hệ thống; điều kiện hạ tầng công nghệ thông tin thực hiện theo quy định tương ứng tại các Điều 5, 6, 7, 8 và 9 của Thông tư số 79/2025/TT-BTC.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 172,
+    "line_end": 173
+  },
+  {
+    "clause_id": "dieu-6-khoan-2",
+    "anchor": "dieu-6-khoan-2",
+    "title": "2. Tổ chức vận hành Hệ thống thực hiện trách nhiệm theo quy định tại Điều 52 của Luật Đấu thầu, Điều 25 của Thông tư số 79/2025/TT-BTC và trách nhiệm tương ứng về cung cấp, đăng tải thông tin trên Hệ thống theo quy định tại Thông tư này.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 175,
+    "line_end": 176
+  },
+  {
+    "clause_id": "dieu-7",
+    "anchor": "dieu-7",
+    "title": "Điều 7. Thông tin dự án và khảo sát sự quan tâm của nhà đầu tư",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 179,
+    "line_end": 180
+  },
+  {
+    "clause_id": "dieu-7-khoan-1",
+    "anchor": "dieu-7-khoan-1",
+    "title": "1. Đối với dự án PPP:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 182,
+    "line_end": 187
+  },
+  {
+    "clause_id": "dieu-7-khoan-2",
+    "anchor": "dieu-7-khoan-2",
+    "title": "2. Đối với dự án đầu tư kinh doanh:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 189,
+    "line_end": 198
+  },
+  {
+    "clause_id": "dieu-8",
+    "anchor": "dieu-8",
+    "title": "Điều 8. Bảng theo dõi tiến độ thực hiện các hoạt động lựa chọn nhà đầu tư đối với dự án đầu tư kinh doanh",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 201,
+    "line_end": 204
+  },
+  {
+    "clause_id": "dieu-9",
+    "anchor": "dieu-9",
+    "title": "Điều 9. Phát hành, sửa đổi, làm rõ hồ sơ mời quan tâm; gia hạn thời gian nộp hồ sơ đăng ký thực hiện dự án đối với dự án đầu tư kinh doanh",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 207,
+    "line_end": 208
+  },
+  {
+    "clause_id": "dieu-9-khoan-1",
+    "anchor": "dieu-9-khoan-1",
+    "title": "1. Phát hành:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 210,
+    "line_end": 215
+  },
+  {
+    "clause_id": "dieu-9-khoan-2",
+    "anchor": "dieu-9-khoan-2",
+    "title": "2. Sửa đổi:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 217,
+    "line_end": 222
+  },
+  {
+    "clause_id": "dieu-9-khoan-3",
+    "anchor": "dieu-9-khoan-3",
+    "title": "3. Làm rõ:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 224,
+    "line_end": 231
+  },
+  {
+    "clause_id": "dieu-9-khoan-4",
+    "anchor": "dieu-9-khoan-4",
+    "title": "4. Gia hạn thời gian nộp hồ sơ đăng ký thực hiện dự án:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 233,
+    "line_end": 236
+  },
+  {
+    "clause_id": "dieu-10",
+    "anchor": "dieu-10",
+    "title": "Điều 10. Danh sách ngắn đối với dự án đầu tư kinh doanh áp dụng hình thức đấu thầu hạn chế",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 239,
+    "line_end": 242
+  },
+  {
+    "clause_id": "dieu-11",
+    "anchor": "dieu-11",
+    "title": "Điều 11. Mời thầu, phát hành, sửa đổi, làm rõ hồ sơ mời thầu; gia hạn thời điểm đóng thầu đối với dự án PPP",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 245,
+    "line_end": 246
+  },
+  {
+    "clause_id": "dieu-11-khoan-1",
+    "anchor": "dieu-11-khoan-1",
+    "title": "1. Mời thầu:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 248,
+    "line_end": 255
+  },
+  {
+    "clause_id": "dieu-11-khoan-2",
+    "anchor": "dieu-11-khoan-2",
+    "title": "2. Phát hành hồ sơ mời thầu:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 257,
+    "line_end": 270
+  },
+  {
+    "clause_id": "dieu-11-khoan-3",
+    "anchor": "dieu-11-khoan-3",
+    "title": "3. Sửa đổi hồ sơ mời thầu:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 272,
+    "line_end": 277
+  },
+  {
+    "clause_id": "dieu-11-khoan-4",
+    "anchor": "dieu-11-khoan-4",
+    "title": "4. Làm rõ hồ sơ mời thầu:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 279,
+    "line_end": 288
+  },
+  {
+    "clause_id": "dieu-11-khoan-5",
+    "anchor": "dieu-11-khoan-5",
+    "title": "5. Gia hạn thời gian nộp hồ sơ dự thầu:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 290,
+    "line_end": 295
+  },
+  {
+    "clause_id": "dieu-12",
+    "anchor": "dieu-12",
+    "title": "Điều 12. Mời thầu, phát hành, sửa đổi, làm rõ hồ sơ mời thầu; gia hạn thời điểm đóng thầu đối với dự án đầu tư kinh doanh",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 298,
+    "line_end": 299
+  },
+  {
+    "clause_id": "dieu-12-khoan-1",
+    "anchor": "dieu-12-khoan-1",
+    "title": "1. Mời thầu:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 301,
+    "line_end": 308
+  },
+  {
+    "clause_id": "dieu-12-khoan-2",
+    "anchor": "dieu-12-khoan-2",
+    "title": "2. Phát hành hồ sơ mời thầu:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 310,
+    "line_end": 323
+  },
+  {
+    "clause_id": "dieu-12-khoan-3",
+    "anchor": "dieu-12-khoan-3",
+    "title": "3. Sửa đổi hồ sơ mời thầu:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 325,
+    "line_end": 330
+  },
+  {
+    "clause_id": "dieu-12-khoan-4",
+    "anchor": "dieu-12-khoan-4",
+    "title": "4. Làm rõ hồ sơ mời thầu:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 332,
+    "line_end": 343
+  },
+  {
+    "clause_id": "dieu-12-khoan-5",
+    "anchor": "dieu-12-khoan-5",
+    "title": "5. Gia hạn thời gian nộp hồ sơ dự thầu:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 345,
+    "line_end": 350
+  },
+  {
+    "clause_id": "dieu-13",
+    "anchor": "dieu-13",
+    "title": "Điều 13. Hủy, gia hạn, sửa đổi thông tin đã đăng tải",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 353,
+    "line_end": 356
+  },
+  {
+    "clause_id": "dieu-14",
+    "anchor": "dieu-14",
+    "title": "Điều 14. Đăng tải kết quả lựa chọn nhà đầu tư",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 359,
+    "line_end": 360
+  },
+  {
+    "clause_id": "dieu-14-khoan-1",
+    "anchor": "dieu-14-khoan-1",
+    "title": "1. Đối với dự án PPP, bên mời thầu đăng tải kết quả lựa chọn nhà đầu tư và đính kèm quyết định phê duyệt trên Hệ thống trong thời hạn 10 ngày kể từ ngày phê duyệt kết quả lựa chọn nhà đầu tư.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 362,
+    "line_end": 363
+  },
+  {
+    "clause_id": "dieu-14-khoan-2",
+    "anchor": "dieu-14-khoan-2",
+    "title": "2. Đối với dự án đầu tư kinh doanh, bên mời thầu đăng tải kết quả lựa chọn nhà đầu tư và đính kèm quyết định phê duyệt trên Hệ thống trong thời hạn 05 ngày làm việc kể từ ngày phê duyệt kết quả lựa chọn nhà đầu tư.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 365,
+    "line_end": 366
+  },
+  {
+    "clause_id": "dieu-15",
+    "anchor": "dieu-15",
+    "title": "Điều 15. Các thông tin khác đăng tải trên Hệ thống và quy trình đăng tải trên Hệ thống",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 369,
+    "line_end": 370
+  },
+  {
+    "clause_id": "dieu-15-khoan-1",
+    "anchor": "dieu-15-khoan-1",
+    "title": "1. Ngoài các thông tin được đăng tải trên Hệ thống theo quy định tại các Điều 7, 8, 9, 10, 11, 12, 13 và 14 của Thông tư này, các thông tin khác được đăng tải trên Hệ thống như sau:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 372,
+    "line_end": 381
+  },
+  {
+    "clause_id": "dieu-15-khoan-2",
+    "anchor": "dieu-15-khoan-2",
+    "title": "2. Quy trình đăng tải thông tin tại các Điều 7, 8, 9, 10, 11, 12, 13, 14 và khoản 1 Điều này được thực hiện theo Hướng dẫn sử dụng.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 383,
+    "line_end": 384
+  },
+  {
+    "clause_id": "dieu-16",
+    "anchor": "dieu-16",
+    "title": "Điều 16. Trách nhiệm của các bên khi tham gia Hệ thống",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 387,
+    "line_end": 388
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Trách nhiệm của cơ quan, tổ chức, đơn vị quy định tại điểm a và điểm d khoản 4 Điều 3 của Thông tư này:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 390,
+    "line_end": 403
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Trách nhiệm của cơ quan, tổ chức, đơn vị quy định tại điểm b khoản 4 Điều 3 của Thông tư này:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 405,
+    "line_end": 416
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. Trách nhiệm của nhà đầu tư trong quá trình quan tâm, tham dự thầu:",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 418,
+    "line_end": 427
+  },
+  {
+    "clause_id": "dieu-17",
+    "anchor": "dieu-17",
+    "title": "Điều 17. Điều khoản chuyển tiếp",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 434,
+    "line_end": 435
+  },
+  {
+    "clause_id": "dieu-17-khoan-1",
+    "anchor": "dieu-17-khoan-1",
+    "title": "1. Kể từ ngày các Nghị định số 180/2025/NĐ-CP, Nghị định số 225/2025/NĐ-CP, Nghị định số 243/2025/NĐ-CP, Nghị định số 257/2025/NĐ-CP có hiệu lực thi hành đến trước ngày Thông tư này có hiệu lực thi hành, dự án PPP hoặc dự án đầu tư kinh doanh đã phát hành hồ sơ mời quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu tuân thủ quy định tại Luật PPP hoặc Luật Đấu thầu (được sửa đổi, bổ sung tại Luật số 57/2024/QH15, Luật số 90/2025/QH15) và các Nghị định quy định chi tiết thì việc lựa chọn nhà đầu tư thực hiện theo hồ sơ mời quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu đã được phát hành.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 437,
+    "line_end": 438
+  },
+  {
+    "clause_id": "dieu-17-khoan-2",
+    "anchor": "dieu-17-khoan-2",
+    "title": "2. Đối với dự án PPP, dự án đầu tư kinh doanh đã phê duyệt hồ sơ mời quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu nhưng đến thời điểm Thông tư này có hiệu lực thi hành chưa phát hành hồ sơ mời quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu thì bên mời quan tâm, bên mời thầu rà soát, cập nhật hồ sơ, báo cáo người có thẩm quyền, cơ quan có thẩm quyền phê duyệt sửa đổi theo quy định tại Luật PPP hoặc Luật Đấu thầu (được sửa đổi, bổ sung tại Luật số 57/2024/QH15, Luật số 90/2025/QH15), các Nghị định quy định chi tiết và Thông tư này.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 440,
+    "line_end": 441
+  },
+  {
+    "clause_id": "dieu-17-khoan-3",
+    "anchor": "dieu-17-khoan-3",
+    "title": "3. Đối với dự án PPP, dự án đầu tư kinh doanh chưa phê duyệt hồ sơ mời quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu, việc lập hồ sơ mời quan tâm, hồ sơ mời thầu, hồ sơ yêu cầu thực hiện theo quy định tại Luật PPP hoặc Luật Đấu thầu (được sửa đổi, bổ sung tại Luật số 57/2024/QH15, Luật số 90/2025/QH15), các Nghị định quy định chi tiết và Thông tư này.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 443,
+    "line_end": 444
+  },
+  {
+    "clause_id": "dieu-18",
+    "anchor": "dieu-18",
+    "title": "Điều 18. Hiệu lực thi hành",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 447,
+    "line_end": 448
+  },
+  {
+    "clause_id": "dieu-18-khoan-1",
+    "anchor": "dieu-18-khoan-1",
+    "title": "1. Thông tư này có hiệu lực thi hành kể từ ngày ký ban hành.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 450,
+    "line_end": 451
+  },
+  {
+    "clause_id": "dieu-18-khoan-2",
+    "anchor": "dieu-18-khoan-2",
+    "title": "2. Kể từ ngày Thông tư này có hiệu lực thi hành, Thông tư số 15/2024/TT-BKHĐT ngày 30 tháng 9 năm 2024 của Bộ trưởng Bộ Kế hoạch và Đầu tư quy định mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư thực hiện dự án đầu tư theo phương thức đối tác công tư, dự án đầu tư kinh doanh; cung cấp, đăng tải thông tin về đầu tư theo phương thức đối tác công tư, đấu thầu lựa chọn nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia hết hiệu lực thi hành.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 453,
+    "line_end": 454
+  },
+  {
+    "clause_id": "dieu-18-khoan-3",
+    "anchor": "dieu-18-khoan-3",
+    "title": "3. Trong thời gian Bộ quản lý ngành chưa ban hành hướng dẫn việc áp dụng các tiêu chuẩn đánh giá hiệu quả đầu tư phát triển ngành, lĩnh vực, địa phương và phương pháp xác định tiêu chuẩn, nội dung hồ sơ đấu thầu được lập trên cơ sở vận dụng mẫu hồ sơ quy định tại các Phụ lục V, VI, VII, VIII kèm theo Thông tư này nhưng phải tuân thủ quy định của pháp luật về đấu thầu, pháp luật quản lý ngành, lĩnh vực, bảo đảm mục tiêu cạnh tranh, công bằng, minh bạch, hiệu quả kinh tế và trách nhiệm giải trình.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 456,
+    "line_end": 457
+  },
+  {
+    "clause_id": "dieu-18-khoan-4",
+    "anchor": "dieu-18-khoan-4",
+    "title": "4. Trong quá trình thực hiện, nếu có vướng mắc liên quan đến nội dung về quy định tại Thông tư này, các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các cấp và các cơ quan, tổ chức có liên quan gửi ý kiến về Bộ Tài chính để kịp thời xem xét, hướng dẫn./.",
+    "source_file": "thong_tu_98_2025_tt_btc.md",
+    "jurisdiction": "CQXD",
+    "line_start": 459,
+    "line_end": 460
+  }
+]

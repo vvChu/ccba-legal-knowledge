@@ -1,0 +1,6 @@
+﻿TT,Chỉ tiêu kỹ thuật,Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$30,Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$40,Mức yêu cầu — Bền sulfat thường — $PC_{MSR}$50,Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$30,Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$40,Mức yêu cầu — Bền sulfat cao — $PC_{HSR}$50,Phương pháp thử,Quy cách mẫu
+8,"Hàm lượng cặn không tan (CKT), %, không lớn hơn","0,75","0,75","0,75","0,75","0,75","0,75",TCVN 141:2023,
+9,"Độ ổn định thể tích, theo phương pháp Le Chatelier, mm, không lớn hơn",10,10,10,10,10,10,TCVN 6017:2015,
+10,"Cường độ nén, MPa, không nhỏ hơn",,,,,,,TCVN 6016:2011,
+10,&nbsp;&nbsp;\- 3 ngày,16,21,25,12,16,20,TCVN 6016:2011,
+10,&nbsp;&nbsp;\- 28 ngày,30,40,50,30,40,50,TCVN 6016:2011,
