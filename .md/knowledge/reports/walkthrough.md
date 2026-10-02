@@ -1,37 +1,28 @@
-# Walkthrough: Phát Hành Tính Năng PR #13 (Tri-Tier Cloud Vault Hydration, Parity Hardening & Catalog Sync — ADR 0035, ADR 0059)
+# Walkthrough: Phát Hành Tính Năng PR #17 (Kiến Trúc & Hoàn Thiện Dữ Liệu Tri Thức Pháp Lý OKF v2.4 Universal)
 
-> **Mục tiêu:** Hoàn thiện kiến trúc Tri-Tier Cloud Binary Vault theo ADR 0035 / ADR 0059: Đẩy toàn bộ 142 tệp vật lý nhị phân (PDF/DOCX) lên Google Drive Cloud Vault (`CCBA_Legal_Vault`), trục xuất 100% tệp nhị phân khỏi Git tracking và thiết lập Pre-commit Binary Guardrail, tăng cường động cơ Hydration tự động hóa với cơ chế Tự Lành (Self-Healing) qua mã băm SHA-256, đồng bộ hóa 13 văn bản quy phạm với tài sản nguồn `source_assets.docx` trên cả metadata và registry, bảo lưu DOCX Thông tư 38/2026/TT-BXD chờ bóc tách 2,838 bảng định mức để bảo toàn Gate 11, thanh lọc sạch sẽ 61 tệp `desktop.ini` và các bản nháp duplicate trên Vault.
+> **Mục tiêu:** Nghiên cứu và hoàn thiện toàn diện kiến trúc kho tri thức Spoke pháp lý, giải quyết dứt điểm các lỗi kiểm định CI tại môi trường Linux, chuẩn hóa cấu trúc OKF v2.4 Universal cho 70/70 bundles, xác thực và đồng bộ dữ liệu VBHN và tối ưu ngân sách tệp kịch bản theo chuẩn Cleanliness.
 > **Trạng thái:** ✅ **MERGED VÀO MAIN**
-> - **PR #13:** [vvChu/ccba-legal-knowledge#13](https://github.com/vvChu/ccba-legal-knowledge/pull/13) (Squash Commit: `4f15baa`)
-> **CI Gate:** 100% Green (Deterministic Parity & Schema Audit PASSED in 19s, 0 Errors, 0 Blocker Comments)
+> - **PR #17:** [vvChu/ccba-legal-knowledge#17](https://github.com/vvChu/ccba-legal-knowledge/pull/17)
+> **CI Gate:** 100% Green (Deterministic Parity & Schema Audit PASSED in 18s, 0 Errors, 0 Blocker Comments)
 
 ---
 
-## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (PR #13)
+## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (PR #17)
 
-### A. Tri-Tier Cloud Binary Vault & Tự Động Hóa Hydration (ADR 0035 / ADR 0059)
-- **Đẩy kho nhị phân lên Cloud Vault**: Toàn bộ 142 tệp nguồn vật lý từ local `sources/` đã được đồng bộ an toàn lên Google Drive `CCBA_Legal_Vault` (`macvnboy@gmail.com`).
-- **Động cơ Hydration Đa Nền Tảng (`scripts/hydrate_sources_from_vault.py`)**:
-  - Hỗ trợ đầy đủ các cờ CLI: `--push`, `--dry-run`, `--verify-only`, `--all`.
-  - Dò tìm động mount letter qua `CCBA_VAULT_MOUNT_PATH` và danh sách ổ đĩa (`G:`, `H:`, `I:`), khử hoàn toàn hardcode đường dẫn máy trạm.
-  - Quét bulk in-memory danh mục Cloud Vault qua `rclone lsf -R --files-only` để tra cứu $O(1)$ thay vì gọi rclone riêng lẻ.
-  - Tích hợp cơ chế **Tự Lành (Self-Healing)**: Tự động đối soát SHA-256 sau khi tải về, loại bỏ file biến dạng và hỗ trợ tải đè để khôi phục trạng thái chuẩn.
+### A. Khắc Phục Môi Trường CI & Rào Chắn Verbatim Parity (Gate 11)
+- **Cài đặt `python-docx` trên Linux**: Khắc phục nguyên nhân gốc rễ gây 61 lỗi CI liên quan đến Gate 11. Bổ sung `requirements-dev.txt` khai báo đầy đủ các gói phụ thuộc môi trường Linux.
+- **Nâng cấp Gate 11 Nhận Diện Phạm Vi VBHN (ADR 0037)**: Nâng cấp `scripts/validate_legal_spoke.py` tự động đọc `verification_scope` từ `metadata.yaml`. Đối với văn bản hợp nhất (`vbhn_consolidation`), chuyển đổi delta 54 đoạn bãi bỏ/thay thế của Sửa đổi 1:2023 sang telemetry warning thay vì fail CI.
+- **Chuẩn hóa Metadata `qcvn_06_2022_bxd`**: Khai báo khối `verification_scope` xác định rõ phạm vi hợp nhất với Thông tư 09/2023/TT-BXD (SĐ1:2023).
 
-### B. Git Index Hygiene & Rào Chắn Pre-Commit Binary Shield
-- **Trục xuất 4 tệp nhị phân khỏi Git index**: Sử dụng `git rm --cached` cho `qcvn_04_2021_bxd.pdf`, `qcvn_06_2022_bxd.pdf`, `sd1_2023_qcvn_06_2022_bxd.pdf`, `tcvn_5574_2018.doc`. Kết quả `git ls-files` đạt 0 bytes nhị phân được theo dõi trong Git index.
-- **Bảo vệ quy tắc `.gitignore`**: Bổ sung `legal_docs/**/sources/*.doc` và `legal_docs/**/*.doc`.
-- **Pre-commit Binary Guard**: Bổ sung `check_staged_binary_files()` (`git diff --cached --name-only --diff-filter=ACMR`) vào `scripts/check_spoke_cleanliness.py`, cập nhật hook `.git/hooks/pre-commit` chặn lập tức mọi file `.pdf`, `.docx`, `.doc` bị stage nhầm.
+### B. Audit Toàn Diện & Chuẩn Hóa Cấu Trúc OKF v2.4 (ADR 0036)
+- **Audit Đối Chiếu Registry vs File System**: Xác nhận độ phủ tuyệt đối 70/70 bundles (35 VBPL, 14 QCVN, 18 TCVN, 3 Phụ lục so sánh).
+- **Cập Nhật `registry_summary`**: Hiệu chỉnh số liệu tổng tài liệu từ 63 lên 70 và chuẩn hóa phân bổ danh mục theo đúng thực tế lưu trữ.
+- **Bổ sung `index.md` cho `qcvn_10_2024_bxd`**: Hoàn thiện mục lục điều hướng AST cho Quy chuẩn kỹ thuật quốc gia về tiếp cận sử dụng (Gate 2).
+- **Khảo sát Compartments QCVN**: Xác nhận 9 QCVN thiếu `templates/` hoặc `annexes/` hoàn toàn tuân thủ ADR 0036 do không phát sinh biểu mẫu hành chính nguyên tử hay phụ lục kỹ thuật độc lập.
 
-### C. Đồng Bộ Metadata & Catalog Registry (13 Văn Bản Quy Phạm)
-- Khai báo trường `source_assets.docx` kèm mã băm SHA-256 xác thực từ tệp vật lý cho 13 văn bản (TT 32, 33, 34, 36, 37, 39, 40, 41, TT 101/BQP, NĐ 193, NĐ 209, QCVN 02:2022, Luật PCCC & CNCH 2024) trên cả `metadata.yaml` và `legal_registry.yaml`.
-- **Bảo lưu Thông tư 38/2026/TT-BXD**: Giữ tệp DOCX (4.37 MB) tại `.md/extracted_docs/38_2026_TT-BXD_712406.docx` chờ Ticket A3_Batch bóc tách 2,838 bảng định mức, tránh làm rớt Gate 11 Verbatim Parity (2.4% vs 98.0%).
-- **Chuẩn hóa Thông tư 73/2026/TT-BTC**: Đổi tên `vault_path` thành `thong_tu_73_2026_tt_btc.docx` đồng bộ cả metadata và registry.
-- **Gỡ bỏ khai báo ảo QCVN 04:2021/BXD**: Loại bỏ mục `docx:` không có thực.
-- **Cấu hình NĐ 10 và NĐ 339**: Thiết lập `status: pending_acquisition` bảo toàn schema.
-
-### D. Thanh Lọc Cloud Vault & Dọn Dẹp Cục Bộ
-- **Trên Cloud Vault**: Xóa sạch 61 tệp `desktop.ini`, 5 tệp duplicate/nháp (`702686.pdf`, `702686.docx`, `luat_22_2023_qh15.pdf`, `luat_135_2025_qh15.pdf`, `test_vector.pdf`), purge thư mục mồ côi `02_qcvn/01_2021_tt_bxd/` và bảo tồn nguyên vẹn thư mục hợp lệ `01_vbpl/10_2021_nd_cp/`.
-- **Trên đĩa cục bộ**: Dọn sạch các tệp trùng trong `sources/` và xóa 2 thư mục crawler rỗng trong `qcvn_09_2017_bxd/sources/`.
+### C. Vệ Sinh Spoke & Tối Ưu Ngân Sách Script (ADR 0044)
+- **Thu hồi script một lần**: Lưu trữ `scripts/analyze_gate_audit.py` vào `.md/archive/legacy_scripts/` để đưa số lượng tệp trong `scripts/` về đúng ngưỡng chuẩn 15/15 files.
+- **Cleanliness Gate**: Đạt 100% PASS, 0 rò rỉ đường dẫn máy tuyệt đối.
 
 ---
 
@@ -39,17 +30,28 @@
 
 | Cổng Kiểm Định | Môi Trường | Lệnh Kiểm Tra | Kết Quả | Trạng Thái |
 | :--- | :--- | :--- | :---: | :---: |
-| **Git Binary Tracking** | Local Spoke | `git ls-files "legal_docs/**/*.pdf" "legal_docs/**/*.docx" "legal_docs/**/*.doc"` | **0 files (0 bytes)** | ✅ **PASSED** |
-| **Cleanliness & Guardrail**| Local Spoke | `python scripts/check_spoke_cleanliness.py` | **0 errors, 0 warnings** | ✅ **PASSED** |
-| **Vault Integrity Check** | Local + Cloud | `python scripts/hydrate_sources_from_vault.py --verify-only` | **138/138 verified (0 missing, 0 mismatches)** | ✅ **PASSED** |
-| **Self-Healing Hydration** | Local Spoke | `python scripts/hydrate_sources_from_vault.py --all` | **3/3 hydrated & verified** | ✅ **PASSED** |
-| **Master CI Gates** | Local Spoke | `python scripts/validate_legal_spoke.py` | **15/15 Gates Passed (0 Errors, 0 Warnings)** | ✅ **PASSED** |
-| **GitHub Actions CI** | Remote PR #13 | `Deterministic Parity & Schema Audit` | **Passed (19s)** | ✅ **PASSED** |
-| **Copilot Review Audit**| Remote PR #13 | `gh pr view 13 --json reviewRequests,reviews` | **0 blocker comments, clean** | ✅ **PASSED** |
+| **Shift-Left Local Gate** | Local Spoke | `python scripts/validate_legal_spoke.py` | **15/15 Gates Passed (0 Errors, 1 Telemetry Warning)** | ✅ **PASSED** |
+| **Spoke Cleanliness** | Local Spoke | `python scripts/check_spoke_cleanliness.py` | **15/15 Scripts Budget, 0 Machine Leaks** | ✅ **PASSED** |
+| **Visual Parity** | Local Spoke | `python scripts/lint_visual_parity.py` | **845 files scanned, 0 errors** | ✅ **PASSED** |
+| **Hub Import Depth** | Local Spoke | `python scripts/check_hub_import_depth.py` | **44 files scanned, 0 violations (ADR 0044)** | ✅ **PASSED** |
+| **GitHub Actions CI** | Remote PR #17 | `Deterministic Parity & Schema Audit` | **Passed (18s)** | ✅ **PASSED** |
+| **Copilot Review Audit** | Remote PR #17 | `gh pr view 17 --json reviews,reviewRequests` | **0 blocker comments, clean** | ✅ **PASSED** |
 
 ---
 
 ## 3. Lịch Sử Phát Hành Tiền Nhiệm
+
+<details>
+<summary>Nhấn để xem chi tiết PR #13 (Phát hành ngày 2026-09-23)</summary>
+
+### PR #13: Tri-Tier Cloud Vault Hydration, Parity Hardening & Catalog Sync (ADR 0035, ADR 0059)
+- **Đẩy kho nhị phân lên Cloud Vault**: Toàn bộ 142 tệp nguồn vật lý từ local `sources/` đã được đồng bộ an toàn lên Google Drive `CCBA_Legal_Vault` (`macvnboy@gmail.com`).
+- **Động cơ Hydration Đa Nền Tảng (`scripts/hydrate_sources_from_vault.py`)**: Hỗ trợ đầy đủ cờ CLI, mount letter động, Self-Healing SHA-256.
+- **Git Index Hygiene & Rào Chắn Pre-Commit Binary Shield**: Trục xuất 4 tệp nhị phân khỏi Git index, bảo vệ quy tắc `.gitignore`, bổ sung pre-commit hook.
+- **Đồng Bộ Metadata & Catalog Registry (13 Văn Bản Quy Phạm)**: Khai báo `source_assets.docx` kèm mã băm SHA-256, bảo lưu TT 38/2026/TT-BXD chờ bóc tách 2,838 bảng định mức.
+- **Thanh Lọc Cloud Vault & Dọn Dẹp Cục Bộ**: Xóa sạch 61 tệp `desktop.ini`, 5 tệp nháp duplicate trên Vault.
+
+</details>
 
 <details>
 <summary>Nhấn để xem chi tiết PR #12 (Phát hành ngày 2026-09-23)</summary>
