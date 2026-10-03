@@ -38,7 +38,6 @@ pdf_anchor:
 
 a) Sửa đổi, bổ sung khoản 1 như sau:
 
-<a id="dieu-1-khoan-1"></a>
 **1.** Chứng chỉ nghiệp vụ chuyên môn về đấu thầu được cấp cho cá nhân bao gồm:
 
 “a) Cá nhân tham gia tổ chuyên gia, tổ thẩm định lựa chọn nhà thầu theo quy định tại Điều 19 Luật Đấu thầu và quy định tại Điều 21 Nghị định số 214/2025/NĐ-CP ngày 04 tháng 8 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu;
@@ -78,7 +77,6 @@ d) Chứng chỉ nghiệp vụ chuyên môn về đấu thầu hết hiệu lự
 
 “1. Cá nhân là thành viên tổ chuyên gia, tổ thẩm định bị thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu có hành vi vi phạm quy định tại Điều 16 của Luật Đấu thầu bị xử lý theo quy định tại khoản 9 Điều 133 Nghị định 214/2025/NĐ-CP ngày 04 tháng 8 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu được chủ đầu tư đăng tải trên hệ thống mạng đấu thầu quốc gia và trích xuất hoặc liên thông cơ sở dữ liệu đến hệ thống.
 
-<a id="dieu-1-khoan-2"></a>
 **2.** Thông tin của cá nhân bị thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu trong cơ sở dữ liệu trên Hệ thống thể hiện trạng thái *“chứng chỉ bị thu hồi”.”*
 
 <a id="dieu-1-khoan-6"></a>
@@ -103,7 +101,6 @@ c) Sửa đổi, bổ sung điểm b khoản 3 như sau:
 
 “1. Kế hoạch tổ chức thi hàng năm (bao gồm thông tin ngày thi, ca thi) được mở trên Hệ thống để đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu thực hiện chọn và tạo kỳ thi theo nhu cầu của đơn vị (bao gồm các thông tin chính: kỳ thi, ca thi, địa điểm (tỉnh, thành phố) tổ chức thi, số lượng thí sinh tối đa tại mỗi địa điểm thi, chi phí dự thi, thời hạn đăng ký dự thi, thời hạn nộp chi phí dự thi).
 
-<a id="dieu-1-khoan-2"></a>
 **2.** Thời hạn bắt đầu mở đăng ký dự thi trên Hệ thống phải bảo đảm trước ngày tổ chức thi tối thiểu 20 ngày. Trường hợp tổ chức kỳ thi riêng cho các cơ quan, doanh nghiệp quy định tại điểm a khoản 2 Điều 17 của Thông tư này, đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu có thể điều chỉnh thời hạn bắt đầu mở đăng ký dự thi trên Hệ thống bảo đảm trước ngày tổ chức thi tối thiểu 10 ngày.”
 
 <a id="dieu-1-khoan-8"></a>
@@ -111,10 +108,8 @@ c) Sửa đổi, bổ sung điểm b khoản 3 như sau:
 
 “1. Thời gian dự kiến tổ chức thi, chi phí dự thi được thông báo trên Hệ thống trước ngày thi dự kiến tối thiểu 20 ngày. Đối với trường hợp tổ chức thi riêng cho cơ quan, doanh nghiệp theo quy định tại điểm a khoản 2 Điều 17 của Thông tư này, thời gian dự kiến tổ chức thi, chi phí dự thi được thông báo trên Hệ thống trước ngày thi dự kiến tối thiểu 10 ngày.
 
-<a id="dieu-1-khoan-2"></a>
 **2.** Trước ngày thi tối thiểu 07 ngày, danh sách thí sinh đủ điều kiện dự thi, thông báo triệu tập thi được đăng tải trên Hệ thống, đồng thời Hệ thống tự động gửi email thông báo triệu tập thi tới các thí sinh đủ điều kiện dự thi. Đối với trường hợp tổ chức thi riêng cho cơ quan, doanh nghiệp theo quy định tại điểm a khoản 2 Điều 17 của Thông tư này, trước ngày thi tối thiểu 04 ngày, danh sách thí sinh đủ điều kiện dự thi, thông báo triệu tập thi được đăng tải trên Hệ thống, đồng thời Hệ thống tự động gửi email thông báo triệu tập thi tới các thí sinh đủ điều kiện dự thi.
 
-<a id="dieu-1-khoan-3"></a>
 **3.** Trước ngày thi tối thiểu 03 ngày, danh sách chia phòng thi (họ và tên thí sinh dự thi, số báo danh, địa điểm thi, số phòng thi) được đăng tải trên Hệ thống. Đối với trường hợp tổ chức thi riêng cho cơ quan, doanh nghiệp theo quy định tại điểm a khoản 2 Điều 17 của Thông tư này, trước ngày thi tối thiểu 02 ngày, danh sách chia phòng thi (họ và tên thí sinh dự thi, số báo danh, địa điểm thi, số phòng thi) được đăng tải trên Hệ thống.”
 
 <a id="dieu-1-khoan-9"></a>
@@ -128,7 +123,6 @@ b) Cá nhân được đưa vào danh sách thí sinh đủ điều kiện dự 
 
 c) Cá nhân thực hiện nộp hồ sơ đăng ký thi, cấp chứng chỉ đối với trường hợp quy định tại điểm b khoản 2 Điều 7 của Thông tư này và hồ sơ đề nghị cấp chứng chỉ đối với các trường hợp quy định tại các điểm c, d và đ khoản 2 Điều 7 của Thông tư này trên Cổng Dịch vụ công quốc gia và hồ sơ được số hóa dưới dạng webform trên Hệ thống. Thí sinh chịu trách nhiệm về tính chính xác của các thông tin kê khai trên webform. Thí sinh có thể tự chỉnh sửa và cập nhật thông tin hồ sơ trên Hệ thống trước khi hết hạn đăng ký. Sau thời điểm hết hạn đăng ký, thí sinh có thể đính chính thông tin theo *Hướng dẫn sử dụng.* Trường hợp thông tin đính chính của thí sinh làm thay đổi cơ bản các thông tin của người đăng ký ban đầu thì nội dung đính chính là không hợp lệ và bị từ chối.
 
-<a id="dieu-1-khoan-2"></a>
 **2.** Đối với cơ quan, doanh nghiệp đăng ký dự thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu:
 
 a) Trường hợp các bộ, cơ quan ngang bộ, cơ quan trực thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp, tập đoàn kinh tế nhà nước, tổng công ty nhà nước và doanh nghiệp có nhu cầu tổ chức thi tập trung cho công chức, viên chức, người lao động thuộc đơn vị với số lượng tối thiểu 300 thí sinh/ca thi thì gửi văn bản đề nghị kèm theo danh sách đến đơn vị tổ chức thi thuộc danh sách công khai trên Hệ thống theo quy định tại Điều 9 của Thông tư này theo *Hướng dẫn sử dụng*;
@@ -151,7 +145,6 @@ Trong thời hạn 07 ngày làm việc kể từ ngày ban hành quyết địn
 
 Chứng chỉ điện tử được gửi về tài khoản cá nhân đăng ký trên Hệ thống trong thời hạn tối đa 15 ngày làm việc kể từ ngày ban hành quyết định cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu.
 
-<a id="dieu-1-khoan-2"></a>
 **2.** Cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu đối với trường hợp quy định tại các điểm c, d và đ khoản 2 Điều 7 của Thông tư này:
 
 Cá nhân sẽ nhận được chứng chỉ điện tử gửi về tài khoản tham gia Hệ thống trong thời hạn tối đa 07 ngày làm việc kể từ ngày ban hành quyết định cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu.”
@@ -161,13 +154,10 @@ Cá nhân sẽ nhận được chứng chỉ điện tử gửi về tài khoả
 
 “1. Mức thu chi phí thi nghiệp vụ chuyên môn về đấu thầu đối với trường hợp quy định tại điểm b khoản 2 Điều 7 của Thông tư này tối đa là 800.000 đồng/thí sinh/kỳ thi.
 
-<a id="dieu-1-khoan-2"></a>
 **2.** Mức thu chi phí cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu đối với trường hợp quy định tại các điểm c, d và đ khoản 2 Điều 7 của Thông tư này là 100.000 đồng/lần.
 
-<a id="dieu-1-khoan-3"></a>
 **3.** Không thu chi phí cấp chứng chỉ do thay đổi thông tin đối với trường hợp thông tin trên chứng chỉ nghiệp vụ chuyên môn về đấu thầu bị sai hoặc không thống nhất với thông tin thí sinh đã đăng ký trên Hệ thống. Trường hợp cá nhân cần điều chỉnh thông tin so với thông tin đã đăng ký và được cấp chứng chỉ thì cá nhân thực hiện đăng ký cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu theo quy định tại điểm c khoản 1 Điều 17 của Thông tư này.
 
-<a id="dieu-1-khoan-4"></a>
 **4.** Mức thu quy định tại khoản 1 và khoản 2 Điều này chưa bao gồm thuế giá trị gia tăng phải nộp theo quy định của Luật Thuế giá trị gia tăng và các văn bản hướng dẫn thực hiện Luật này. Trường hợp cần điều chỉnh mức thu chi phí quy định tại khoản 1, khoản 2 Điều này để phù hợp với điều kiện kinh tế - xã hội và yêu cầu thực tiễn công tác tổ chức thi, Cục Quản lý đấu thầu trình Bộ trưởng Bộ Tài chính xem xét, quyết định.”
 
 <a id="dieu-1-khoan-13"></a>

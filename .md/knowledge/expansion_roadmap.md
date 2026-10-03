@@ -4,7 +4,7 @@
 > [!NOTE]
 > **Đây là Tài Liệu Sống (Living Document) tự động cập nhật.**  
 > Được đồng bộ tự động bởi `scripts/sync_expansion_roadmap.py` mỗi khi có văn bản mới được nạp vào Spoke hoặc khi chạy Master CI Gate.  
-> **Lần cập nhật cuối:** `2026-10-03 12:22:23` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
+> **Lần cập nhật cuối:** `2026-10-03 13:13:23` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
 
 ---
 
@@ -68,7 +68,7 @@ graph TD
 
 | STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
 |:---:|:---|:---|:---:|:---:|:---:|:---|
-| 1 | **[13/2020/TT-BGDĐT](https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-13-2020-TT-BGDDT-tieu-chuan-co-so-vat-chat-truong-mam-non-tieu-hoc-trung-hoc-443912.aspx)** | Thông tư ban hành Quy định tiêu chuẩn cơ sở vật chất các trường mầm non, tiểu học, trung học cơ sở, trung học phổ thông và trường phổ thông có nhiều cấp học | Kiến trúc / CSVC | 69 | **9.4** | `python -m ccba_legal ingest "13/2020/TT-BGDĐT" --category 01_vbpl --upload-drive` |
+| 1 | **[13/2020/TT-BGDĐT](https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-13-2020-TT-BGDDT-tieu-chuan-co-so-vat-chat-truong-mam-non-tieu-hoc-trung-hoc-443912.aspx)** | Thông tư ban hành Quy định tiêu chuẩn cơ sở vật chất các trường mầm non, tiểu học, trung học cơ sở, trung học phổ thông và trường phổ thông có nhiều cấp học | Kiến trúc / CSVC | 76 | **9.4** | `python -m ccba_legal ingest "13/2020/TT-BGDĐT" --category 01_vbpl --upload-drive` |
 | 2 | **[83/VBHN-TT-BXD](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Van-ban-hop-nhat-83-VBHN-TT-BXD-2026-ho-so-thiet-ke-kien-truc-chung-chi-hanh-nghe-661204.aspx)** | Văn bản hợp nhất Thông tư quy định chi tiết một số nội dung về hồ sơ thiết kế kiến trúc và mẫu chứng chỉ hành nghề kiến trúc | Kiến trúc | 0 | **9.1** | `python -m ccba_legal ingest "83/VBHN-TT-BXD" --category 01_vbpl --upload-drive` |
 | 3 | **[TCVN 5065:2024](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-5065-2024-Khach-san-Tieu-chuan-thiet-ke-922115.aspx)** | Khách sạn — Tiêu chuẩn thiết kế | Kiến trúc | 0 | **8.8** | `python -m ccba_legal ingest "TCVN 5065:2024" --category 03_tcvn --upload-drive` |
 | 4 | **[TCVN 8793:2021](https://thuvienphapluat.vn/TCVN/Giao-duc/TCVN-8793-2021-Truong-tieu-hoc-Yeu-cau-thiet-ke-920412.aspx)** | Trường tiểu học — Yêu cầu thiết kế | Kiến trúc | 0 | **8.8** | `python -m ccba_legal ingest "TCVN 8793:2021" --category 03_tcvn --upload-drive` |
@@ -77,7 +77,7 @@ graph TD
 
 | STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
 |:---:|:---|:---|:---:|:---:|:---:|:---|
-| 1 | **[02/2024/TT-BKHĐT](https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-02-2024-TT-BKH-DT-dao-tao-thi-cap-chung-chi-nghiep-vu-chuyen-mon-dau-thau-600312.aspx)** | Thông tư quy định về đào tạo, bồi dưỡng kiến thức và thi, cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu | Đấu thầu | 8 | **8.9** | `python -m ccba_legal ingest "02/2024/TT-BKHĐT" --category 01_vbpl --upload-drive` |
+| 1 | **[02/2024/TT-BKHĐT](https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-02-2024-TT-BKH-DT-dao-tao-thi-cap-chung-chi-nghiep-vu-chuyen-mon-dau-thau-600312.aspx)** | Thông tư quy định về đào tạo, bồi dưỡng kiến thức và thi, cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu | Đấu thầu | 9 | **8.9** | `python -m ccba_legal ingest "02/2024/TT-BKHĐT" --category 01_vbpl --upload-drive` |
 | 2 | **[TCVN 6379:2024](https://thuvienphapluat.vn/TCVN/PCCC/TCVN-6379-2024-Tru-nuoc-chua-chay-922150.aspx)** | Thiết bị chữa cháy — Trụ nước chữa cháy — Yêu cầu kỹ thuật và phương pháp thử | PCCC | 0 | **8.7** | `python -m ccba_legal ingest "TCVN 6379:2024" --category 03_tcvn --upload-drive` |
 | 3 | **[TCVN 13456:2022](https://thuvienphapluat.vn/TCVN/PCCC/TCVN-13456-2022-Phuong-tien-chieu-sang-su-co-va-chi-dan-thoat-nan-920512.aspx)** | Phòng cháy chữa cháy — Phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn — Yêu cầu thiết kế, lắp đặt | MEP / PCCC | 0 | **8.6** | `python -m ccba_legal ingest "TCVN 13456:2022" --category 03_tcvn --upload-drive` |
 | 4 | **[08/2021/TT-BXD](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-08-2021-TT-BXD-huong-dan-chi-phi-lap-quy-che-quan-ly-kien-truc-487612.aspx)** | Thông tư hướng dẫn phương pháp xác định chi phí lập và tổ chức thực hiện quy chế quản lý kiến trúc | Kiến trúc / Dự toán | 0 | **8.6** | `python -m ccba_legal ingest "08/2021/TT-BXD" --category 01_vbpl --upload-drive` |
