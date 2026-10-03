@@ -39,6 +39,8 @@ def get_canonical_manifest(
     all_docs: list[dict[str, Any]] = []
     if "laws" in reg and isinstance(reg["laws"], list):
         all_docs.extend(reg["laws"])
+    if "decrees" in reg and isinstance(reg["decrees"], list):
+        all_docs.extend(reg["decrees"])
     if "standards" in reg and isinstance(reg["standards"], list):
         all_docs.extend(reg["standards"])
     if "documents" in reg:

@@ -1,0 +1,33 @@
+id: nghi_dinh_349_2026_nd_cp
+document_number: 349/2026/NĐ-CP
+type: Nghị định
+title: Nghị định số 349/2026/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu
+status: active
+issued_by: Chính phủ
+signer: Phó Thủ tướng Trần Hồng Hà
+issued_date: '2026-09-09'
+effective_date: '2026-09-09'
+published_date: '2026-09-09'
+cong_bao_number: Đang cập nhật
+bundle_path: legal_docs/01_vbpl/nghi_dinh_349_2026_nd_cp/
+relations:
+  guided_by: luat_dau_thau_2023_22_2023_qh15
+  amends: 214/2025/NĐ-CP
+pdf_path: legal_docs/01_vbpl/nghi_dinh_349_2026_nd_cp/sources/nghi_dinh_349_2026_nd_cp.pdf
+pdf_sha256: d5f6e3793e80919e5e193b2a327a39d387e7b1edb64c6a00bda6545d3123988c
+pdf_status: verified
+source_file: legal_docs/01_vbpl/nghi_dinh_349_2026_nd_cp/sources/nghi_dinh_349_2026_nd_cp.docx
+source_file_size_kb: 27.2
+source_assets:
+  pdf:
+    sha256: d5f6e3793e80919e5e193b2a327a39d387e7b1edb64c6a00bda6545d3123988c
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_349_2026_nd_cp/nghi_dinh_349_2026_nd_cp.pdf
+    status: verified
+  docx:
+    sha256: a57b2383c1e28e385ab65bdcc5f56a3583b93a0e12c94653869f63d63e97a39e
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_349_2026_nd_cp/nghi_dinh_349_2026_nd_cp.docx
+    status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T10:46:57.000000+00:00'
