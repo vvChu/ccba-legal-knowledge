@@ -4,7 +4,7 @@
 > [!NOTE]
 > **Đây là Tài Liệu Sống (Living Document) tự động cập nhật.**  
 > Được đồng bộ tự động bởi `scripts/sync_expansion_roadmap.py` mỗi khi có văn bản mới được nạp vào Spoke hoặc khi chạy Master CI Gate.  
-> **Lần cập nhật cuối:** `2026-10-03 09:13:49` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
+> **Lần cập nhật cuối:** `2026-10-03 10:53:51` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
 
 ---
 
@@ -12,8 +12,8 @@
 
 | Chỉ số theo dõi | Số lượng | Tỷ lệ hoàn thành | Trạng thái hệ thống |
 |:---|:---:|:---:|:---:|
-| **Hiện có trong Spoke (Active Bundles)** | **72** | **74.2%** | 🟢 Sẵn sàng phục vụ Agent |
-| **Ứng viên Đang Chờ Nạp (Pending Target)** | **25** | **25.8%** | 🟡 Trong lộ trình ưu tiên |
+| **Hiện có trong Spoke (Active Bundles)** | **74** | **76.3%** | 🟢 Sẵn sàng phục vụ Agent |
+| **Ứng viên Đang Chờ Nạp (Pending Target)** | **23** | **23.7%** | 🟡 Trong lộ trình ưu tiên |
 | **Tổng quy mô mục tiêu giai đoạn 1** | **97** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
 
 ---
@@ -22,9 +22,7 @@
 
 ```mermaid
 graph TD
-    subgraph T1["🔴 TIER 1: THỂ CHẾ CỐT LÕI, ĐẤU THẦU & AN TOÀN (2 Văn bản)"]
-        T1_1["349/2026/NĐ-CP<br/>(Đấu thầu - Điểm: 10.3)"]
-        T1_2["57/2024/QH15<br/>(Đấu thầu / Thể chế - Điểm: 10.1)"]
+    subgraph T1["🔴 TIER 1: THỂ CHẾ CỐT LÕI, ĐẤU THẦU & AN TOÀN (0 Văn bản)"]
     end
 
     subgraph T2["🟠 TIER 2: THIẾT KẾ CÔNG TRÌNH & MẪU ĐẤU THẦU (8 Văn bản)"]
@@ -70,10 +68,7 @@ graph TD
 
 ### 🔴 TIER 1: Thể Chế Cốt Lõi, Đấu Thầu & Quy Chuẩn Kỹ Thuật An Toàn
 
-| STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
-|:---:|:---|:---|:---:|:---:|:---:|:---|
-| 1 | **[349/2026/NĐ-CP](https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-349-2026-ND-CP-sua-doi-Nghi-dinh-quy-dinh-Luat-Dau-thau-ve-lua-chon-nha-thau-685210.aspx)** | Nghị định sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu | Đấu thầu | 17 | **10.3** | `python -m ccba_legal ingest "349/2026/NĐ-CP" --category 01_vbpl --upload-drive` |
-| 2 | **[57/2024/QH15](https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-sua-doi-Luat-Quy-hoach-Luat-Dau-tu-Luat-Dau-tu-theo-phuong-thuc-doi-tac-cong-tu-va-Luat-Dau-thau-2024-628412.aspx)** | Luật sửa đổi, bổ sung một số điều của Luật Quy hoạch, Luật Đầu tư, Luật Đầu tư theo phương thức đối tác công tư và Luật Đấu thầu | Đấu thầu / Thể chế | 26 | **10.1** | `python -m ccba_legal ingest "57/2024/QH15" --category 01_vbpl --upload-drive` |
+*✅ Đã hoàn thành 100% các văn bản trong tầng này!*
 
 ### 🟠 TIER 2: Thiết Kế Công Trình & Mẫu Hồ Sơ Đấu Thầu
 
@@ -149,6 +144,8 @@ graph TD
 | **23/2024/NĐ-CP** | Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc ngành, lĩnh vực quản lý | Đấu thầu | 2024-02-27 | 🟢 `INGESTED` |
 | **47/2024/QH15** | Luật Quy hoạch đô thị và nông thôn 2024 | Quy hoạch đô thị | 2025-07-01 | 🟢 `INGESTED` |
 | **98/2025/TT-BTC** | Thông tư hướng dẫn mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư thực hiện dự án đầu tư theo phương thức đối tác công tư, dự án đầu tư kinh doanh có sử dụng đất | Đấu thầu | 2025-10-27 | 🟢 `INGESTED` |
+| **349/2026/NĐ-CP** | Nghị định sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu | Đấu thầu | 2026-09-09 | 🟢 `INGESTED` |
+| **57/2024/QH15** | Luật sửa đổi, bổ sung một số điều của Luật Quy hoạch, Luật Đầu tư, Luật Đầu tư theo phương thức đối tác công tư và Luật Đấu thầu | Đấu thầu / Thể chế | 2025-01-15 | 🟢 `INGESTED` |
 
 ---
 

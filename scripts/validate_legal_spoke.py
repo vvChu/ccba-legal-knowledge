@@ -138,10 +138,13 @@ class LegalSpokeValidator:
 
         laws = data.get("laws", [])
         standards = data.get("standards", [])
+        decrees = data.get("decrees", [])
         documents = data.get("documents", {})
         all_docs = []
         if isinstance(laws, list):
             all_docs.extend(laws)
+        if isinstance(decrees, list):
+            all_docs.extend(decrees)
         if isinstance(standards, list):
             all_docs.extend(standards)
         if isinstance(documents, dict):
@@ -365,18 +368,31 @@ class LegalSpokeValidator:
         content = self._safe_read_text(primary_md)
         dieu_nums: List[int] = []
         if content:
+            meta_file = doc_dir / "metadata.yaml"
+            is_amending = False
+            if meta_file.exists():
+                try:
+                    m_data = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                    rel = m_data.get("relations", {})
+                    title = str(m_data.get("title", "")).lower()
+                    if rel.get("amends") or "sửa đổi" in title:
+                        is_amending = True
+                except Exception:
+                    pass
+
             dieu_nums = sorted(
                 int(m)
                 for m in re.findall(
                     r"(?:###|##)\s*(?:__|\*\*)?\s*Điều\s+(\d+)\.", content, flags=re.IGNORECASE
                 )
             )
-            for i in range(len(dieu_nums) - 1):
-                gap = dieu_nums[i + 1] - dieu_nums[i]
-                if gap > 3:
-                    self.warnings.append(
-                        f"Fake Data Warning [{doc_dir.name}]: Gap of {gap} detected between Điều {dieu_nums[i]} and Điều {dieu_nums[i+1]}."
-                    )
+            if not is_amending:
+                for i in range(len(dieu_nums) - 1):
+                    gap = dieu_nums[i + 1] - dieu_nums[i]
+                    if gap > 3:
+                        self.warnings.append(
+                            f"Fake Data Warning [{doc_dir.name}]: Gap of {gap} detected between Điều {dieu_nums[i]} and Điều {dieu_nums[i+1]}."
+                        )
 
         clauses_json = doc_dir / "clauses.json"
         if clauses_json.exists():
@@ -698,9 +714,12 @@ class LegalSpokeValidator:
         """Validate PDF fields in legal_registry.yaml."""
         laws = data.get("laws", [])
         standards = data.get("standards", [])
+        decrees = data.get("decrees", [])
         all_items = []
         if isinstance(laws, list):
             all_items.extend(laws)
+        if isinstance(decrees, list):
+            all_items.extend(decrees)
         if isinstance(standards, list):
             all_items.extend(standards)
         for item in all_items:

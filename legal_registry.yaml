@@ -2,9 +2,9 @@ version: 0.3.0
 updated_at: '2026-10-03T07:34:00.000000+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 72
+  total_documents: 74
   categories:
-    01_vbpl: 37
+    01_vbpl: 39
     02_qcvn: 14
     03_tcvn: 18
     04_appendices: 3
@@ -169,6 +169,7 @@ laws:
   status: active
   relations:
     replaces: 43/2013/QH13
+    amended_by: 57/2024/QH15
   title: Luật Đấu thầu số 22/2023/QH15
   bundle_path: legal_docs/01_vbpl/luat_dau_thau_2023_22_2023_qh15/
   source_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-Dau-thau-2023-22-2023-QH15-518805.aspx
@@ -194,6 +195,34 @@ laws:
       status: verified
   pdf_origin: docx_vector_rendered
   raw_scan_pdf: legal_docs/01_vbpl/luat_dau_thau_2023_22_2023_qh15/sources/luat_dau_thau_2023_22_2023_qh15_raw_scan.pdf
+- id: luat_57_2024_qh15
+  document_number: 57/2024/QH15
+  type: Luật
+  issued_by: Quốc hội
+  signer: Trần Thanh Mẫn
+  issued_date: '2024-11-29'
+  effective_date: '2025-01-15'
+  published_date: '2024-12-15'
+  status: active
+  relations:
+    amends: luat_dau_thau_2023_22_2023_qh15
+  title: Luật sửa đổi, bổ sung một số điều của Luật Quy hoạch, Luật Đầu tư, Luật Đầu tư theo phương thức đối tác công tư và Luật Đấu thầu (Số 57/2024/QH15)
+  cong_bao_number: Đang cập nhật
+  bundle_path: legal_docs/01_vbpl/luat_57_2024_qh15/
+  pdf_path: legal_docs/01_vbpl/luat_57_2024_qh15/sources/luat_57_2024_qh15.pdf
+  pdf_sha256: 364ebb2459cf4f3638d31690682a362c7fb47e3fc30161f56574eabf43226bf3
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/luat_57_2024_qh15/sources/luat_57_2024_qh15.docx
+  source_file_size_kb: 40.8
+  source_assets:
+    pdf:
+      sha256: 364ebb2459cf4f3638d31690682a362c7fb47e3fc30161f56574eabf43226bf3
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_57_2024_qh15/luat_57_2024_qh15.pdf
+      status: verified
+    docx:
+      sha256: b289728758ddf81fa4e99edfb6e76c49376f92052edb4b0ee36705d179a7eef4
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_57_2024_qh15/luat_57_2024_qh15.docx
+      status: verified
 - id: nghi_dinh_217_2026_nd_cp
   document_number: 217/2026/NĐ-CP
   title: Nghị định 217/2026/NĐ-CP về Quản lý dự án đầu tư xây dựng
@@ -2066,6 +2095,36 @@ decrees:
     docx:
       sha256: 6001565125a01385a5d5eb14a83143a6da08db1e2375c4e5dd04d0784f20d0a0
       vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_214_2025_nd_cp/nghi_dinh_214_2025_nd_cp.docx
+      status: verified
+- id: nghi_dinh_349_2026_nd_cp
+  document_number: 349/2026/NĐ-CP
+  title: Nghị định số 349/2026/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Phó Thủ tướng Trần Hồng Hà
+  issued_date: '2026-09-09'
+  effective_date: '2026-09-09'
+  published_date: '2026-09-09'
+  status: active
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_349_2026_nd_cp/
+  source_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-349-2026-ND-CP-sua-doi-Nghi-dinh-huong-dan-Luat-Dau-thau-ve-lua-chon-nha-thau-699742.aspx
+  relations:
+    guided_by: luat_dau_thau_2023_22_2023_qh15
+    amends: 214/2025/NĐ-CP
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_349_2026_nd_cp/sources/nghi_dinh_349_2026_nd_cp.pdf
+  pdf_sha256: d5f6e3793e80919e5e193b2a327a39d387e7b1edb64c6a00bda6545d3123988c
+  pdf_status: verified
+  cong_bao_number: Đang cập nhật
+  source_file: legal_docs/01_vbpl/nghi_dinh_349_2026_nd_cp/sources/nghi_dinh_349_2026_nd_cp.docx
+  source_file_size_kb: 27.2
+  source_assets:
+    pdf:
+      sha256: d5f6e3793e80919e5e193b2a327a39d387e7b1edb64c6a00bda6545d3123988c
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_349_2026_nd_cp/nghi_dinh_349_2026_nd_cp.pdf
+      status: verified
+    docx:
+      sha256: a57b2383c1e28e385ab65bdcc5f56a3583b93a0e12c94653869f63d63e97a39e
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_349_2026_nd_cp/nghi_dinh_349_2026_nd_cp.docx
       status: verified
 - id: nghi_dinh_115_2024_nd_cp
   document_number: 115/2024/NĐ-CP

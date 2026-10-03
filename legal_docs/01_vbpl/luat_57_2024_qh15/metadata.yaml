@@ -1,0 +1,32 @@
+id: luat_57_2024_qh15
+document_number: 57/2024/QH15
+type: Luật
+title: Luật sửa đổi, bổ sung một số điều của Luật Quy hoạch, Luật Đầu tư, Luật Đầu tư theo phương thức đối tác công tư và Luật Đấu thầu (Số 57/2024/QH15)
+status: active
+issued_by: Quốc hội
+signer: Trần Thanh Mẫn
+issued_date: '2024-11-29'
+effective_date: '2025-01-15'
+published_date: '2024-12-15'
+cong_bao_number: Đang cập nhật
+bundle_path: legal_docs/01_vbpl/luat_57_2024_qh15/
+relations:
+  amends: luat_dau_thau_2023_22_2023_qh15
+pdf_path: legal_docs/01_vbpl/luat_57_2024_qh15/sources/luat_57_2024_qh15.pdf
+pdf_sha256: 364ebb2459cf4f3638d31690682a362c7fb47e3fc30161f56574eabf43226bf3
+pdf_status: verified
+source_file: legal_docs/01_vbpl/luat_57_2024_qh15/sources/luat_57_2024_qh15.docx
+source_file_size_kb: 40.8
+source_assets:
+  pdf:
+    sha256: 364ebb2459cf4f3638d31690682a362c7fb47e3fc30161f56574eabf43226bf3
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_57_2024_qh15/luat_57_2024_qh15.pdf
+    status: verified
+  docx:
+    sha256: b289728758ddf81fa4e99edfb6e76c49376f92052edb4b0ee36705d179a7eef4
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_57_2024_qh15/luat_57_2024_qh15.docx
+    status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T10:47:05.000000+00:00'
