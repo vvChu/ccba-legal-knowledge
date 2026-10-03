@@ -1,0 +1,37 @@
+{
+  "table_id": "bang_14",
+  "title": "Bảng 14",
+  "rows_count": 7,
+  "columns_count": 2,
+  "headers": [
+    "BDL",
+    "Bảng dữ liệu"
+  ],
+  "records": [
+    {
+      "BDL": "CDNĐT",
+      "Bảng dữ liệu": "Chỉ dẫn nhà đầu tư"
+    },
+    {
+      "BDL": "Hệ thống",
+      "Bảng dữ liệu": "Hệ thống mạng đấu thầu quốc gia"
+    },
+    {
+      "BDL": "HSDT",
+      "Bảng dữ liệu": "Hồ sơ dự thầu"
+    },
+    {
+      "BDL": "HSMT",
+      "Bảng dữ liệu": "Hồ sơ mời thầu"
+    },
+    {
+      "BDL": "Luật Đấu thầu",
+      "Bảng dữ liệu": "Luật Đấu thầu số 22/2023/QH15 ngày 23 tháng 6 năm 2023"
+    },
+    {
+      "BDL": "Nghị định số 23/2024/NĐ-CP",
+      "Bảng dữ liệu": "Nghị định số 23/2024/NĐ-CP ngày 27 tháng 02 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc trường hợp phải tổ chức đấu thầu theo quy định của pháp luật quản lý ngành, lĩnh vực."
+    }
+  ],
+  "footnotes": []
+}

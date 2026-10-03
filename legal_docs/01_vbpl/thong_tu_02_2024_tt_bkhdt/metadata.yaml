@@ -1,0 +1,23 @@
+id: thong_tu_02_2024_tt_bkhdt
+document_number: 02/2024/TT-BKHĐT
+type: Thông tư
+title: Thông tư số 02/2024/TT-BKHĐT quy định về hoạt động đào tạo, bồi dưỡng kiến thức và thi, cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu
+status: active
+issued_by: Bộ Kế hoạch và Đầu tư
+effective_date: '2024-03-06'
+signer: Nguyễn Chí Dũng
+pdf_path: ./sources/thong_tu_02_2024_tt_bkhdt.pdf
+pdf_sha256: 3c1b65a8e204cf88c1d39aae3625085d196916aaf05e9c1f5f1e9acb294496f6
+pdf_status: verified
+legal_basis:
+- doc_id: luat_dau_thau_2023
+  title: Luật Đấu thầu ngày 23 tháng 6 năm 2023
+- doc_id: nghi_dinh_24_2024_nd_cp
+  title: Nghị định số 24/2024/NĐ-CP ngày 27 tháng 02 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu
+- doc_id: nghi_dinh_23_2024_nd_cp
+  title: Nghị định số 23/2024/NĐ-CP ngày 27 tháng 02 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư
+replaces: []
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T10:00:14.227063+00:00'

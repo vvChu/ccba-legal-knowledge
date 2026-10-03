@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_41",
+  "title": "Bảng 41",
+  "rows_count": 5,
+  "columns_count": 5,
+  "headers": [
+    "STT",
+    "Vị trí công việc",
+    "Số lượng",
+    "Kinh nghiệm trong các công việc tương tự",
+    "Chứng chỉ, trình độ chuyên môn(2)"
+  ],
+  "records": [
+    {
+      "STT": "1",
+      "Vị trí công việc": "",
+      "Số lượng": "",
+      "Kinh nghiệm trong các công việc tương tự": "tối thiểu___ năm hoặc tối thiểu___ hợp đồng",
+      "Chứng chỉ, trình độ chuyên môn(2)": ""
+    },
+    {
+      "STT": "2",
+      "Vị trí công việc": "",
+      "Số lượng": "",
+      "Kinh nghiệm trong các công việc tương tự": "tối thiểu___ năm hoặc tối thiểu___ hợp đồng",
+      "Chứng chỉ, trình độ chuyên môn(2)": ""
+    },
+    {
+      "STT": "…",
+      "Vị trí công việc": "",
+      "Số lượng": "",
+      "Kinh nghiệm trong các công việc tương tự": "",
+      "Chứng chỉ, trình độ chuyên môn(2)": ""
+    },
+    {
+      "STT": "n",
+      "Vị trí công việc": "",
+      "Số lượng": "",
+      "Kinh nghiệm trong các công việc tương tự": "",
+      "Chứng chỉ, trình độ chuyên môn(2)": ""
+    }
+  ],
+  "footnotes": []
+}

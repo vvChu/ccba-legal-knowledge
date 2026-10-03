@@ -1,0 +1,21 @@
+{
+  "table_id": "bang_26",
+  "title": "Bảng 26",
+  "rows_count": 3,
+  "columns_count": 4,
+  "headers": [
+    "Các vụ tranh chấp, khiếu kiện đối với các dự án đã và đang thực hiện",
+    "Các vụ tranh chấp, khiếu kiện đối với các dự án đã và đang thực hiện",
+    "Các vụ tranh chấp, khiếu kiện đối với các dự án đã và đang thực hiện",
+    "Các vụ tranh chấp, khiếu kiện đối với các dự án đã và đang thực hiện"
+  ],
+  "records": [
+    {
+      "Các vụ tranh chấp, khiếu kiện đối với các dự án đã và đang thực hiện": "Chọn một trong các thông tin mô tả dưới đây: Không có tranh chấp, khiếu kiện đối với các dự án đã và đang thực hiện. Dưới đây là mô tả về các vụ tranh chấp, khiếu kiện đối với các dự án đã và đang thực hiện mà nhà đầu tư là một bên đương sự (hoặc mỗi thành viên của liên danh nếu là nhà đầu tư liên danh)."
+    },
+    {
+      "Các vụ tranh chấp, khiếu kiện đối với các dự án đã và đang thực hiện": "Tỷ lệ tương ứng với vốn chủ sở hữu"
+    }
+  ],
+  "footnotes": []
+}

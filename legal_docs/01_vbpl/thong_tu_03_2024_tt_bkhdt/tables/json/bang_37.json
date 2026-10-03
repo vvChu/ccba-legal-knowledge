@@ -1,0 +1,54 @@
+{
+  "table_id": "bang_37",
+  "title": "Bảng 37",
+  "rows_count": 5,
+  "columns_count": 7,
+  "headers": [
+    "TT",
+    "Tên đối tác(2)",
+    "Quốc gia nơi đăng ký hoạt động",
+    "Vai trò tham gia(3)",
+    "Giá trị và khối lượng công việc tham gia(4)",
+    "Người đại diện theo pháp luật",
+    "Hợp đồng hoặc văn bản thỏa thuận với đối tác(5)"
+  ],
+  "records": [
+    {
+      "TT": "1",
+      "Tên đối tác(2)": "Công ty 1",
+      "Quốc gia nơi đăng ký hoạt động": "",
+      "Vai trò tham gia(3)": "[Tổ chức cung cấp tài chính]",
+      "Giá trị và khối lượng công việc tham gia(4)": "",
+      "Người đại diện theo pháp luật": "",
+      "Hợp đồng hoặc văn bản thỏa thuận với đối tác(5)": ""
+    },
+    {
+      "TT": "2",
+      "Tên đối tác(2)": "Công ty 2",
+      "Quốc gia nơi đăng ký hoạt động": "",
+      "Vai trò tham gia(3)": "[Nhà thầu xây lắp]",
+      "Giá trị và khối lượng công việc tham gia(4)": "",
+      "Người đại diện theo pháp luật": "",
+      "Hợp đồng hoặc văn bản thỏa thuận với đối tác(5)": ""
+    },
+    {
+      "TT": "3",
+      "Tên đối tác(2)": "Công ty 3",
+      "Quốc gia nơi đăng ký hoạt động": "",
+      "Vai trò tham gia(3)": "[Nhà thầu vận hành/ Quản lý]",
+      "Giá trị và khối lượng công việc tham gia(4)": "",
+      "Người đại diện theo pháp luật": "",
+      "Hợp đồng hoặc văn bản thỏa thuận với đối tác(5)": ""
+    },
+    {
+      "TT": "",
+      "Tên đối tác(2)": "…..",
+      "Quốc gia nơi đăng ký hoạt động": "",
+      "Vai trò tham gia(3)": "",
+      "Giá trị và khối lượng công việc tham gia(4)": "",
+      "Người đại diện theo pháp luật": "",
+      "Hợp đồng hoặc văn bản thỏa thuận với đối tác(5)": ""
+    }
+  ],
+  "footnotes": []
+}

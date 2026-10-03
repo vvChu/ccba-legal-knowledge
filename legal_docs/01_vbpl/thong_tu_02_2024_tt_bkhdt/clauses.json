@@ -1,0 +1,1433 @@
+[
+  {
+    "clause_id": "dieu-1",
+    "anchor": "dieu-1",
+    "title": "Điều 1. Phạm vi điều chỉnh",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 31,
+    "line_end": 34
+  },
+  {
+    "clause_id": "dieu-2",
+    "anchor": "dieu-2",
+    "title": "Điều 2. Đối tượng áp dụng",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 37,
+    "line_end": 40
+  },
+  {
+    "clause_id": "dieu-3",
+    "anchor": "dieu-3",
+    "title": "Điều 3. Giải thích từ ngữ",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 43,
+    "line_end": 44
+  },
+  {
+    "clause_id": "dieu-3-khoan-1",
+    "anchor": "dieu-3-khoan-1",
+    "title": "1. *Chứng chỉ nghiệp vụ chuyên môn về đấu thầu *là chứng chỉ do cơ quan quy định tại khoản 1 Điều 9 của Thông tư này cấp cho cá nhân tham dự thi và đạt kết quả quy định tại khoản 3 Điều 20 của Thông tư này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 46,
+    "line_end": 47
+  },
+  {
+    "clause_id": "dieu-3-khoan-2",
+    "anchor": "dieu-3-khoan-2",
+    "title": "2. *Chi phí thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu *là chi phí dự thi và cấp lần đầu, cấp lại, cấp gia hạn chứng chỉ nghiệp vụ chuyên môn về đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 49,
+    "line_end": 50
+  },
+  {
+    "clause_id": "dieu-3-khoan-3",
+    "anchor": "dieu-3-khoan-3",
+    "title": "3. *Hệ thống quản lý cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu* *(sau đây gọi là Hệ thống)* là hệ thống công nghệ thông tin có địa chỉ tại [https://chungchidauthau.mpi.gov.vn](https://chungchidauthau.mpi.gov.vn/) thực hiện các chức năng:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 52,
+    "line_end": 65
+  },
+  {
+    "clause_id": "dieu-3-khoan-4",
+    "anchor": "dieu-3-khoan-4",
+    "title": "4. *Hướng dẫn sử dụng* là tài liệu điện tử được đăng tải trên Hệ thống để hướng dẫn người dùng thực hiện các giao dịch trên Hệ thống.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 67,
+    "line_end": 68
+  },
+  {
+    "clause_id": "dieu-3-khoan-5",
+    "anchor": "dieu-3-khoan-5",
+    "title": "5. *Tổ chức tham gia Hệ thống *là các cơ quan, đơn vị tham gia Hệ thống để thực hiện một hoặc nhiều hoạt động như sau:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 70,
+    "line_end": 77
+  },
+  {
+    "clause_id": "dieu-3-khoan-6",
+    "anchor": "dieu-3-khoan-6",
+    "title": "6. *Tài khoản tham gia Hệ thống* là tài khoản được cấp cho Tổ chức tham gia Hệ thống để thực hiện một hoặc một số hoạt động quy định tại khoản 5 Điều này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 79,
+    "line_end": 80
+  },
+  {
+    "clause_id": "dieu-3-khoan-7",
+    "anchor": "dieu-3-khoan-7",
+    "title": "7. *Tài khoản chức năng* là tài khoản được tạo bởi Tài khoản tham gia Hệ thống để thực hiện các nhiệm vụ được giao trên Hệ thống.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 82,
+    "line_end": 83
+  },
+  {
+    "clause_id": "dieu-3-khoan-8",
+    "anchor": "dieu-3-khoan-8",
+    "title": "8. *Thi trực tuyến* là hình thức thí sinh làm bài thi trên máy tính thông qua phần mềm thi thuộc Hệ thống.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 85,
+    "line_end": 86
+  },
+  {
+    "clause_id": "dieu-3-khoan-9",
+    "anchor": "dieu-3-khoan-9",
+    "title": "9. *Trung tâm Hỗ trợ đấu thầu (sau đây gọi là Trung tâm)* là đơn vị sự nghiệp công lập thuộc Cục Quản lý đấu thầu, Bộ Kế hoạch và Đầu tư có nhiệm vụ xây dựng, quản lý, vận hành, duy trì và nâng cấp Hệ thống.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 88,
+    "line_end": 89
+  },
+  {
+    "clause_id": "dieu-4",
+    "anchor": "dieu-4",
+    "title": "Điều 4. Đăng ký tham gia Hệ thống và xử lý hồ sơ đăng ký",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 92,
+    "line_end": 93
+  },
+  {
+    "clause_id": "dieu-4-khoan-1",
+    "anchor": "dieu-4-khoan-1",
+    "title": "1. Tổ chức tham gia Hệ thống thực hiện đăng ký trên Hệ thống. Đơn đăng ký quy định tại Mẫu số 01, Mẫu số 02 Phụ lục 03 của Thông tư này. Quy trình đăng ký thực hiện theo *Hướng dẫn sử dụng*.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 95,
+    "line_end": 96
+  },
+  {
+    "clause_id": "dieu-4-khoan-2",
+    "anchor": "dieu-4-khoan-2",
+    "title": "2. Bổ sung, sửa đổi thông tin đã đăng ký trên Hệ thống:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 98,
+    "line_end": 101
+  },
+  {
+    "clause_id": "dieu-4-khoan-3",
+    "anchor": "dieu-4-khoan-3",
+    "title": "3. Chấm dứt hoặc tạm ngừng tham gia Hệ thống:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 103,
+    "line_end": 112
+  },
+  {
+    "clause_id": "dieu-4-khoan-4",
+    "anchor": "dieu-4-khoan-4",
+    "title": "4. Khôi phục Tài khoản tham gia Hệ thống:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 114,
+    "line_end": 117
+  },
+  {
+    "clause_id": "dieu-4-khoan-5",
+    "anchor": "dieu-4-khoan-5",
+    "title": "5. Quy trình và thời hạn xử lý hồ sơ:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 119,
+    "line_end": 122
+  },
+  {
+    "clause_id": "dieu-5",
+    "anchor": "dieu-5",
+    "title": "Điều 5. Đối tượng đào tạo, bồi dưỡng, cập nhật kiến thức, nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 131,
+    "line_end": 134
+  },
+  {
+    "clause_id": "dieu-6",
+    "anchor": "dieu-6",
+    "title": "Điều 6. Nội dung chương trình, hình thức đào tạo, bồi dưỡng nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 137,
+    "line_end": 138
+  },
+  {
+    "clause_id": "dieu-6-khoan-1",
+    "anchor": "dieu-6-khoan-1",
+    "title": "1. Nội dung chương trình đào tạo, bồi dưỡng:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 140,
+    "line_end": 145
+  },
+  {
+    "clause_id": "dieu-6-khoan-2",
+    "anchor": "dieu-6-khoan-2",
+    "title": "2. Hoạt động đào tạo, bồi dưỡng được thực hiện theo hình thức tập trung, bán tập trung, từ xa.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 147,
+    "line_end": 148
+  },
+  {
+    "clause_id": "dieu-7",
+    "anchor": "dieu-7",
+    "title": "Điều 7. Cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 163,
+    "line_end": 164
+  },
+  {
+    "clause_id": "dieu-7-khoan-1",
+    "anchor": "dieu-7-khoan-1",
+    "title": "1. Chứng chỉ nghiệp vụ chuyên môn về đấu thầu được cấp cho cá nhân bao gồm:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 166,
+    "line_end": 173
+  },
+  {
+    "clause_id": "dieu-7-khoan-2",
+    "anchor": "dieu-7-khoan-2",
+    "title": "2. Chứng chỉ nghiệp vụ chuyên môn về đấu thầu được cấp trong một hoặc các trường hợp sau đây:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 175,
+    "line_end": 182
+  },
+  {
+    "clause_id": "dieu-8",
+    "anchor": "dieu-8",
+    "title": "Điều 8. Hiệu lực, quy cách của chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 185,
+    "line_end": 186
+  },
+  {
+    "clause_id": "dieu-8-khoan-1",
+    "anchor": "dieu-8-khoan-1",
+    "title": "1. Chứng chỉ nghiệp vụ chuyên môn về đấu thầu có hiệu lực trong thời hạn 05 năm kể từ ngày được cấp lần đầu hoặc được gia hạn. Trường hợp cấp lại chứng chỉ thì ghi thời hạn theo chứng chỉ nghiệp vụ chuyên môn về đấu thầu được cấp trước đó.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 188,
+    "line_end": 189
+  },
+  {
+    "clause_id": "dieu-8-khoan-2",
+    "anchor": "dieu-8-khoan-2",
+    "title": "2. Chứng chỉ nghiệp vụ chuyên môn về đấu thầu có quy cách và nội dung theo Phụ lục 2 ban hành kèm theo Thông tư này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 191,
+    "line_end": 192
+  },
+  {
+    "clause_id": "dieu-9",
+    "anchor": "dieu-9",
+    "title": "Điều 9. Cơ quan, đơn vị tổ chức thi, cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 195,
+    "line_end": 196
+  },
+  {
+    "clause_id": "dieu-10",
+    "anchor": "dieu-10",
+    "title": "Điều 10. Thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 207,
+    "line_end": 208
+  },
+  {
+    "clause_id": "dieu-10-khoan-1",
+    "anchor": "dieu-10-khoan-1",
+    "title": "1. Cá nhân là thành viên tổ chuyên gia, tổ thẩm định bị thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu trong trường hợp có hành vi vi phạm bị xử lý theo quy định tại khoản 9 Điều 125 của Nghị định số 24/2024/NĐ-CP ngày 27 tháng 02 năm 2024 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 210,
+    "line_end": 211
+  },
+  {
+    "clause_id": "dieu-10-khoan-2",
+    "anchor": "dieu-10-khoan-2",
+    "title": "2. Quy trình thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 213,
+    "line_end": 220
+  },
+  {
+    "clause_id": "dieu-10-khoan-3",
+    "anchor": "dieu-10-khoan-3",
+    "title": "3. Cá nhân bị thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu được thi cấp chứng chỉ mới sau 02 năm kể từ ngày bị thu hồi chứng chỉ.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 222,
+    "line_end": 223
+  },
+  {
+    "clause_id": "dieu-11",
+    "anchor": "dieu-11",
+    "title": "Điều 11. Hội đồng xây dựng ngân hàng câu hỏi, đề thi nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 232,
+    "line_end": 233
+  },
+  {
+    "clause_id": "dieu-11-khoan-1",
+    "anchor": "dieu-11-khoan-1",
+    "title": "1. Hội đồng xây dựng ngân hàng câu hỏi, đề thi do Cục Quản lý đấu thầu, Bộ Kế hoạch và Đầu tư thành lập.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 235,
+    "line_end": 236
+  },
+  {
+    "clause_id": "dieu-11-khoan-2",
+    "anchor": "dieu-11-khoan-2",
+    "title": "2. Thành phần Hội đồng xây dựng ngân hàng câu hỏi, đề thi gồm Chủ tịch Hội đồng là lãnh đạo Cục Quản lý đấu thầu; các Phó chủ tịch hội đồng và các thành viên.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 238,
+    "line_end": 239
+  },
+  {
+    "clause_id": "dieu-11-khoan-3",
+    "anchor": "dieu-11-khoan-3",
+    "title": "3. Nhiệm vụ, quyền hạn của Hội đồng xây dựng ngân hàng câu hỏi, đề thi:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 241,
+    "line_end": 250
+  },
+  {
+    "clause_id": "dieu-11-khoan-4",
+    "anchor": "dieu-11-khoan-4",
+    "title": "4. Ngân hàng câu hỏi, đề thi:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 252,
+    "line_end": 257
+  },
+  {
+    "clause_id": "dieu-12",
+    "anchor": "dieu-12",
+    "title": "Điều 12. Hội đồng thi nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 260,
+    "line_end": 261
+  },
+  {
+    "clause_id": "dieu-12-khoan-1",
+    "anchor": "dieu-12-khoan-1",
+    "title": "1. Hội đồng thi nghiệp vụ chuyên môn về đấu thầu do người đứng đầu đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu quyết định thành lập. Chủ tịch Hội đồng thi sử dụng con dấu của đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu khi giao dịch với các tổ chức, cá nhân liên quan trong quá trình tổ chức thi và các hoạt động liên quan khác.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 263,
+    "line_end": 264
+  },
+  {
+    "clause_id": "dieu-12-khoan-2",
+    "anchor": "dieu-12-khoan-2",
+    "title": "2. Thành phần Hội đồng thi nghiệp vụ chuyên môn về đấu thầu bao gồm:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 266,
+    "line_end": 271
+  },
+  {
+    "clause_id": "dieu-12-khoan-3",
+    "anchor": "dieu-12-khoan-3",
+    "title": "3. Hội đồng thi có nhiệm vụ thực hiện các công việc sau đây:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 273,
+    "line_end": 288
+  },
+  {
+    "clause_id": "dieu-12-khoan-4",
+    "anchor": "dieu-12-khoan-4",
+    "title": "4. Chế độ làm việc của Hội đồng thi:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 290,
+    "line_end": 295
+  },
+  {
+    "clause_id": "dieu-13",
+    "anchor": "dieu-13",
+    "title": "Điều 13. Nhiệm vụ, quyền hạn của các Ban giúp việc Hội đồng thi",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 298,
+    "line_end": 299
+  },
+  {
+    "clause_id": "dieu-13-khoan-1",
+    "anchor": "dieu-13-khoan-1",
+    "title": "1. Nhiệm vụ, quyền hạn của Ban Thư ký - Giám sát:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 301,
+    "line_end": 308
+  },
+  {
+    "clause_id": "dieu-13-khoan-2",
+    "anchor": "dieu-13-khoan-2",
+    "title": "2. Nhiệm vụ, quyền hạn của Ban Coi thi - Hậu cần:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 310,
+    "line_end": 317
+  },
+  {
+    "clause_id": "dieu-13-khoan-3",
+    "anchor": "dieu-13-khoan-3",
+    "title": "3. Các Ban giúp việc cho Hội đồng thi tự giải thể sau khi hoàn thành các nghĩa vụ đối với từng kỳ thi hoặc tiếp tục thực hiện các nhiệm vụ của mình đối với các kỳ thi tiếp theo nếu không có thay đổi, điều chỉnh, bổ sung nhân sự.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 319,
+    "line_end": 320
+  },
+  {
+    "clause_id": "dieu-14",
+    "anchor": "dieu-14",
+    "title": "Điều 14. Yêu cầu tổ chức thi",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 327,
+    "line_end": 328
+  },
+  {
+    "clause_id": "dieu-14-khoan-1",
+    "anchor": "dieu-14-khoan-1",
+    "title": "1. Điều kiện đối với đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 330,
+    "line_end": 337
+  },
+  {
+    "clause_id": "dieu-14-khoan-2",
+    "anchor": "dieu-14-khoan-2",
+    "title": "2. Trình tự, thủ tục đăng ký tổ chức thi nghiệp vụ chuyên môn về đấu thầu:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 339,
+    "line_end": 344
+  },
+  {
+    "clause_id": "dieu-14-khoan-3",
+    "anchor": "dieu-14-khoan-3",
+    "title": "3. Đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu có trách nhiệm bố trí địa điểm tổ chức thi đáp ứng điều kiện cơ sở vật chất gồm:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 346,
+    "line_end": 355
+  },
+  {
+    "clause_id": "dieu-15",
+    "anchor": "dieu-15",
+    "title": "Điều 15. Kế hoạch tổ chức thi và mở kỳ thi trên Hệ thống",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 358,
+    "line_end": 359
+  },
+  {
+    "clause_id": "dieu-15-khoan-1",
+    "anchor": "dieu-15-khoan-1",
+    "title": "1. Kế hoạch tổ chức thi được đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu xây dựng trên Hệ thống bảo đảm tổ chức không quá 01 kỳ thi mỗi tháng, trừ trường hợp đột xuất. Mỗi kỳ thi phải bảo đảm có tối thiểu 50 thí sinh đăng ký dự thi.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 361,
+    "line_end": 362
+  },
+  {
+    "clause_id": "dieu-15-khoan-2",
+    "anchor": "dieu-15-khoan-2",
+    "title": "2. Đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu gửi kế hoạch tổ chức thi theo từng quý hoặc theo năm trên Hệ thống. Cục Quản lý đấu thầu, Bộ Kế hoạch và Đầu tư phê duyệt kế hoạch tổ chức thi trong thời hạn không quá 07 ngày làm việc kể từ ngày tiếp nhận yêu cầu gửi trên Hệ thống.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 364,
+    "line_end": 365
+  },
+  {
+    "clause_id": "dieu-15-khoan-3",
+    "anchor": "dieu-15-khoan-3",
+    "title": "3. Kế hoạch tổ chức thi phải được đăng tải trên Hệ thống trước thời điểm tổ chức kỳ thi đầu tiên tối thiểu 30 ngày.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 367,
+    "line_end": 368
+  },
+  {
+    "clause_id": "dieu-15-khoan-4",
+    "anchor": "dieu-15-khoan-4",
+    "title": "4. Đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu có trách nhiệm:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 370,
+    "line_end": 377
+  },
+  {
+    "clause_id": "dieu-16",
+    "anchor": "dieu-16",
+    "title": "Điều 16. Công tác chuẩn bị tổ chức thi",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 380,
+    "line_end": 381
+  },
+  {
+    "clause_id": "dieu-16-khoan-1",
+    "anchor": "dieu-16-khoan-1",
+    "title": "1. Thời gian dự kiến tổ chức thi, chi phí dự thi được thông báo trên Hệ thống trước ngày thi dự kiến tối thiểu 30 ngày.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 383,
+    "line_end": 384
+  },
+  {
+    "clause_id": "dieu-16-khoan-2",
+    "anchor": "dieu-16-khoan-2",
+    "title": "2. Trước ngày thi tối thiểu 10 ngày, danh sách thí sinh đủ điều kiện dự thi, thông báo triệu tập thi được đăng tải trên Hệ thống, đồng thời Hệ thống tự động gửi email thông báo triệu tập thi tới các thí sinh đủ điều kiện dự thi.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 386,
+    "line_end": 387
+  },
+  {
+    "clause_id": "dieu-16-khoan-3",
+    "anchor": "dieu-16-khoan-3",
+    "title": "3. Trước ngày thi tối thiểu 03 ngày, danh sách chia phòng thi (họ và tên thí sinh dự thi, số báo danh, địa điểm thi, số phòng thi) được đăng tải trên Hệ thống.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 389,
+    "line_end": 390
+  },
+  {
+    "clause_id": "dieu-16-khoan-4",
+    "anchor": "dieu-16-khoan-4",
+    "title": "4. Trước ngày thi tối thiểu 01 ngày, Hội đồng thi niêm yết danh sách thí sinh theo số báo danh và theo phòng thi tại địa điểm tổ chức thi.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 392,
+    "line_end": 393
+  },
+  {
+    "clause_id": "dieu-16-khoan-5",
+    "anchor": "dieu-16-khoan-5",
+    "title": "5. Trước ngày thi tối thiểu 01 ngày, Ban Coi thi - Hậu cần phải hoàn thành các công tác chuẩn bị cho kỳ thi như sau:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 395,
+    "line_end": 402
+  },
+  {
+    "clause_id": "dieu-17",
+    "anchor": "dieu-17",
+    "title": "Điều 17. Đăng ký thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 405,
+    "line_end": 406
+  },
+  {
+    "clause_id": "dieu-17-khoan-1",
+    "anchor": "dieu-17-khoan-1",
+    "title": "1. Cá nhân có nhu cầu cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu gửi hồ sơ đăng ký thi trên Hệ thống đến đơn vị tổ chức thi thuộc danh sách công khai trên Hệ thống theo quy định tại điểm b khoản 2 Điều 14 của Thông tư này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 408,
+    "line_end": 409
+  },
+  {
+    "clause_id": "dieu-17-khoan-2",
+    "anchor": "dieu-17-khoan-2",
+    "title": "2. Cá nhân được đưa vào danh sách thí sinh đủ điều kiện dự thi khi đã đăng ký thi thành công và nộp đầy đủ chi phí dự thi theo quy định tại khoản 1 Điều 28 của Thông tư này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 411,
+    "line_end": 412
+  },
+  {
+    "clause_id": "dieu-17-khoan-3",
+    "anchor": "dieu-17-khoan-3",
+    "title": "3. Hồ sơ đăng ký thi, cấp chứng chỉ bao gồm:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 414,
+    "line_end": 419
+  },
+  {
+    "clause_id": "dieu-17-khoan-4",
+    "anchor": "dieu-17-khoan-4",
+    "title": "4. Hồ sơ đề nghị cấp lại chứng chỉ bao gồm:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 421,
+    "line_end": 428
+  },
+  {
+    "clause_id": "dieu-17-khoan-5",
+    "anchor": "dieu-17-khoan-5",
+    "title": "5. Hồ sơ đề nghị cấp gia hạn hiệu lực chứng chỉ bao gồm:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 430,
+    "line_end": 435
+  },
+  {
+    "clause_id": "dieu-18",
+    "anchor": "dieu-18",
+    "title": "Điều 18. Hình thức, nội dung thi trực tuyến",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 438,
+    "line_end": 439
+  },
+  {
+    "clause_id": "dieu-18-khoan-1",
+    "anchor": "dieu-18-khoan-1",
+    "title": "1. Hình thức thi: thi trắc nghiệm trong thời gian tối đa 90 phút.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 441,
+    "line_end": 442
+  },
+  {
+    "clause_id": "dieu-18-khoan-2",
+    "anchor": "dieu-18-khoan-2",
+    "title": "2. Nội dung đề thi bao gồm:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 444,
+    "line_end": 453
+  },
+  {
+    "clause_id": "dieu-19",
+    "anchor": "dieu-19",
+    "title": "Điều 19. Kết thúc bài thi và bàn giao danh sách điểm bài thi",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 456,
+    "line_end": 457
+  },
+  {
+    "clause_id": "dieu-19-khoan-1",
+    "anchor": "dieu-19-khoan-1",
+    "title": "1. Kết thúc thời gian làm bài thi, giám thị phòng thi bàn giao danh sách điểm, danh sách nộp bài thi có chữ ký của thí sinh và toàn bộ biên bản, tài liệu liên quan cho đại diện Ban Coi thi - Hậu cần.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 459,
+    "line_end": 460
+  },
+  {
+    "clause_id": "dieu-19-khoan-2",
+    "anchor": "dieu-19-khoan-2",
+    "title": "2. Trưởng ban Ban Coi thi - Hậu cần tổng hợp và bàn giao danh sách, các tài liệu liên quan cho Trưởng ban Ban Thư ký - Giám sát chậm nhất trong thời hạn 02 ngày làm việc kể từ ngày kết thúc kỳ thi.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 462,
+    "line_end": 463
+  },
+  {
+    "clause_id": "dieu-20",
+    "anchor": "dieu-20",
+    "title": "Điều 20. Chấm thi và công bố kết quả thi",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 466,
+    "line_end": 467
+  },
+  {
+    "clause_id": "dieu-20-khoan-1",
+    "anchor": "dieu-20-khoan-1",
+    "title": "1. Chức năng thi trực tuyến trên Hệ thống tự động chấm điểm bài thi của thí sinh theo đề thi và đáp án tương ứng.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 469,
+    "line_end": 470
+  },
+  {
+    "clause_id": "dieu-20-khoan-2",
+    "anchor": "dieu-20-khoan-2",
+    "title": "2. Điểm của bài thi phải được ghi rõ bằng số vào phần chấm điểm trên Hệ thống.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 472,
+    "line_end": 473
+  },
+  {
+    "clause_id": "dieu-20-khoan-3",
+    "anchor": "dieu-20-khoan-3",
+    "title": "3. Kết quả xếp loại chứng chỉ nghiệp vụ chuyên môn về đấu thầu:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 475,
+    "line_end": 486
+  },
+  {
+    "clause_id": "dieu-20-khoan-4",
+    "anchor": "dieu-20-khoan-4",
+    "title": "4. Ban Thư ký - Giám sát tổng hợp kết quả thi và báo cáo Chủ tịch Hội đồng thi.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 488,
+    "line_end": 489
+  },
+  {
+    "clause_id": "dieu-20-khoan-5",
+    "anchor": "dieu-20-khoan-5",
+    "title": "5. Căn cứ kết quả thi do Hội đồng thi tổng hợp, đơn vị tổ chức thi trình, cơ quan cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu ban hành quyết định công nhận kết quả thi. Cơ quan cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu công khai quyết định công nhận kết quả thi trên Hệ thống trong thời hạn 05 ngày làm việc kể từ ngày ban hành.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 491,
+    "line_end": 492
+  },
+  {
+    "clause_id": "dieu-21",
+    "anchor": "dieu-21",
+    "title": "Điều 21. Giải quyết đơn kiến nghị, phản ánh trong quá trình dự thi",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 495,
+    "line_end": 496
+  },
+  {
+    "clause_id": "dieu-21-khoan-1",
+    "anchor": "dieu-21-khoan-1",
+    "title": "1. Trong quá trình tham dự thi, trường hợp cá nhân tham dự thi thấy quyền và lợi ích hợp pháp của mình bị ảnh hưởng thì gửi đơn kiến nghị, phản ánh đến Hội đồng thi.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 498,
+    "line_end": 499
+  },
+  {
+    "clause_id": "dieu-21-khoan-2",
+    "anchor": "dieu-21-khoan-2",
+    "title": "2. Hội đồng thi xem xét, giải quyết trong thời hạn tối đa 15 ngày kể từ ngày nhận được đơn kiến nghị, phản ánh. Trường hợp đơn kiến nghị, phản ánh không có chữ ký, đóng dấu (nếu có) của người gửi đơn hoặc nội dung kiến nghị, phản ánh sai sự thật, Hội đồng thi không xem xét, giải quyết.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 501,
+    "line_end": 502
+  },
+  {
+    "clause_id": "dieu-22",
+    "anchor": "dieu-22",
+    "title": "Điều 22. Thời hạn cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 505,
+    "line_end": 506
+  },
+  {
+    "clause_id": "dieu-22-khoan-1",
+    "anchor": "dieu-22-khoan-1",
+    "title": "1. Trong thời hạn 03 ngày làm việc kể từ ngày ban hành quyết định công nhận kết quả thi, đơn vị tổ chức thi trình cơ quan cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu ban hành quyết định cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 508,
+    "line_end": 513
+  },
+  {
+    "clause_id": "dieu-22-khoan-2",
+    "anchor": "dieu-22-khoan-2",
+    "title": "2. Cá nhân được cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu lần đầu trong thời hạn tối đa 15 ngày làm việc kể từ ngày ban hành quyết định cấp chứng chỉ.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 515,
+    "line_end": 516
+  },
+  {
+    "clause_id": "dieu-22-khoan-3",
+    "anchor": "dieu-22-khoan-3",
+    "title": "3. Cá nhân được cấp lại chứng chỉ nghiệp vụ chuyên môn về đấu thầu trong thời hạn tối đa 07 ngày làm việc kể từ ngày ban hành quyết định cấp lại chứng chỉ.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 518,
+    "line_end": 519
+  },
+  {
+    "clause_id": "dieu-22-khoan-4",
+    "anchor": "dieu-22-khoan-4",
+    "title": "4. Cá nhân được cấp gia hạn hiệu lực chứng chỉ nghiệp vụ chuyên môn về đấu thầu trong thời hạn tối đa 07 ngày làm việc kể từ ngày ban hành quyết định cấp gia hạn chứng chỉ.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 521,
+    "line_end": 522
+  },
+  {
+    "clause_id": "dieu-23",
+    "anchor": "dieu-23",
+    "title": "Điều 23. Lưu trữ hồ sơ cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 525,
+    "line_end": 526
+  },
+  {
+    "clause_id": "dieu-23-khoan-1",
+    "anchor": "dieu-23-khoan-1",
+    "title": "1. Hồ sơ đăng ký thi lần đầu, đề nghị cấp lại, cấp gia hạn chứng chỉ nghiệp vụ chuyên môn về đấu thầu được lưu trữ trên Hệ thống.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 528,
+    "line_end": 529
+  },
+  {
+    "clause_id": "dieu-23-khoan-2",
+    "anchor": "dieu-23-khoan-2",
+    "title": "2. Đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu có trách nhiệm lưu trữ các quyết định liên quan đến việc tổ chức thi trong thời hạn tối thiểu là 05 năm kể từ khi ban hành quyết định, bao gồm:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 531,
+    "line_end": 538
+  },
+  {
+    "clause_id": "dieu-23-khoan-3",
+    "anchor": "dieu-23-khoan-3",
+    "title": "3. Cơ quan cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu có trách nhiệm lưu trữ các quyết định liên quan đến việc cấp, thu hồi chứng chỉ trong thời hạn tối thiểu là 05 năm kể từ khi ban hành quyết định, bao gồm:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 540,
+    "line_end": 545
+  },
+  {
+    "clause_id": "dieu-23-khoan-4",
+    "anchor": "dieu-23-khoan-4",
+    "title": "4. Bộ đề thi kèm theo đáp án, bài thi của từng kỳ thi được lưu trữ trên Hệ thống.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 547,
+    "line_end": 548
+  },
+  {
+    "clause_id": "dieu-24",
+    "anchor": "dieu-24",
+    "title": "Điều 24. Yêu cầu đối với thành viên tổ chức thi, thí sinh",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 555,
+    "line_end": 556
+  },
+  {
+    "clause_id": "dieu-24-khoan-1",
+    "anchor": "dieu-24-khoan-1",
+    "title": "1. Căn cứ chức năng, nhiệm vụ được giao, thành viên Hội đồng xây dựng ngân hàng câu hỏi, đề thi, Hội đồng thi và thành viên các Ban giúp việc Hội đồng thi không được thực hiện các hành vi sau đây:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 558,
+    "line_end": 573
+  },
+  {
+    "clause_id": "dieu-24-khoan-2",
+    "anchor": "dieu-24-khoan-2",
+    "title": "2. Thí sinh tham dự thi không được thực hiện các hành vi sau đây:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 575,
+    "line_end": 594
+  },
+  {
+    "clause_id": "dieu-25",
+    "anchor": "dieu-25",
+    "title": "Điều 25. Các hình thức xử lý vi phạm trong kỳ thi",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 597,
+    "line_end": 598
+  },
+  {
+    "clause_id": "dieu-25-khoan-1",
+    "anchor": "dieu-25-khoan-1",
+    "title": "1. Thí sinh vi phạm quy định của kỳ thi bị lập biên bản và tùy mức vi phạm bị xử lý kỷ luật theo các hình thức sau:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 600,
+    "line_end": 611
+  },
+  {
+    "clause_id": "dieu-25-khoan-2",
+    "anchor": "dieu-25-khoan-2",
+    "title": "2. Việc xử lý kỷ luật thí sinh phải được lập thành biên bản, có chữ ký của giám thị coi thi phòng thi đó và được thông báo cho thí sinh. Trường hợp thí sinh không ký tên vào biên bản thì các giám thị coi thi ghi rõ nội dung này trong biên bản. Trường hợp giữa các giám thị coi thi không nhất trí về cách xử lý thì ghi rõ ý kiến vào biên bản để báo cáo Trưởng ban Ban Coi thi - Hậu cần xem xét, báo cáo Chủ tịch Hội đồng thi quyết định.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 613,
+    "line_end": 614
+  },
+  {
+    "clause_id": "dieu-25-khoan-3",
+    "anchor": "dieu-25-khoan-3",
+    "title": "3. Việc xử lý kỷ luật theo hình thức quy định tại các điểm a, b, c khoản 1 Điều này do giám thị phòng thi quyết định. Trường hợp thí sinh không đồng ý chấp hành hình thức kỷ luật theo quyết định này, giám thị phòng thi báo cáo Trưởng ban Ban Coi thi - Hậu cần quyết định.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 616,
+    "line_end": 617
+  },
+  {
+    "clause_id": "dieu-25-khoan-4",
+    "anchor": "dieu-25-khoan-4",
+    "title": "4. Việc đình chỉ thi do Chủ tịch Hội đồng thi quyết định; việc cấm thi do người đứng đầu đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu quyết định theo đề nghị của Chủ tịch Hội đồng thi.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 619,
+    "line_end": 620
+  },
+  {
+    "clause_id": "dieu-26",
+    "anchor": "dieu-26",
+    "title": "Điều 26. Nguyên tắc thu, chi và quản lý, sử dụng khoản thu chi phí thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 631,
+    "line_end": 632
+  },
+  {
+    "clause_id": "dieu-26-khoan-1",
+    "anchor": "dieu-26-khoan-1",
+    "title": "1. Hoạt động thi nghiệp vụ chuyên môn về đấu thầu là hoạt động dịch vụ sự nghiệp công không sử dụng ngân sách nhà nước của đơn vị tổ chức thi.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 634,
+    "line_end": 635
+  },
+  {
+    "clause_id": "dieu-26-khoan-2",
+    "anchor": "dieu-26-khoan-2",
+    "title": "2. Cá nhân có nhu cầu đăng ký dự thi và cấp chứng chỉ lần đầu, cấp lại chứng chỉ, cấp gia hạn chứng chỉ phải nộp chi phí thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 637,
+    "line_end": 638
+  },
+  {
+    "clause_id": "dieu-26-khoan-3",
+    "anchor": "dieu-26-khoan-3",
+    "title": "3. Đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu thực hiện thu, quản lý, sử dụng chi phí thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu. Mức thu chi phí thi, cấp chứng chỉ và phương thức nộp chi phí thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu thực hiện theo thông báo của đơn vị tổ chức thi. Chi phí thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu không được hoàn trả, trừ trường hợp đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu thông báo hủy tổ chức thi.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 640,
+    "line_end": 641
+  },
+  {
+    "clause_id": "dieu-26-khoan-4",
+    "anchor": "dieu-26-khoan-4",
+    "title": "4. Chi phí thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu là khoản thu hợp pháp của đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu theo quy định tại khoản 3 Điều này và được sử dụng để chi trả cho các hoạt động phục vụ công tác tổ chức thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu. Trường hợp thu lớn hơn chi thì đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu được bổ sung số tiền còn dư vào nguồn kinh phí hoạt động của đơn vị để sử dụng theo cơ chế tài chính của đơn vị.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 643,
+    "line_end": 644
+  },
+  {
+    "clause_id": "dieu-27",
+    "anchor": "dieu-27",
+    "title": "Điều 27. Nội dung chi phục vụ hoạt động thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 647,
+    "line_end": 648
+  },
+  {
+    "clause_id": "dieu-27-khoan-1",
+    "anchor": "dieu-27-khoan-1",
+    "title": "1. Nội dung chi phục vụ hoạt động thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu gồm:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 650,
+    "line_end": 665
+  },
+  {
+    "clause_id": "dieu-27-khoan-2",
+    "anchor": "dieu-27-khoan-2",
+    "title": "2. Mức chi của các nội dung quy định tại khoản 1 Điều này thực hiện theo chế độ chi tiêu tài chính của pháp luật hiện hành và cơ chế tài chính của đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 667,
+    "line_end": 668
+  },
+  {
+    "clause_id": "dieu-28",
+    "anchor": "dieu-28",
+    "title": "Điều 28. Mức thu chi phí thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 671,
+    "line_end": 672
+  },
+  {
+    "clause_id": "dieu-28-khoan-1",
+    "anchor": "dieu-28-khoan-1",
+    "title": "1. Mức thu chi phí thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu lần đầu tối đa là 800.000 đồng/thí sinh/kỳ thi.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 674,
+    "line_end": 675
+  },
+  {
+    "clause_id": "dieu-28-khoan-2",
+    "anchor": "dieu-28-khoan-2",
+    "title": "2. Mức thu chi phí cấp lại hoặc cấp gia hạn chứng chỉ nghiệp vụ chuyên môn về đấu thầu là 100.000 đồng/lần.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 677,
+    "line_end": 678
+  },
+  {
+    "clause_id": "dieu-28-khoan-3",
+    "anchor": "dieu-28-khoan-3",
+    "title": "3. Không thu chi phí cấp lại chứng chỉ đối với trường hợp cơ quan cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu ghi sai thông tin trên chứng chỉ nghiệp vụ chuyên môn về đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 680,
+    "line_end": 681
+  },
+  {
+    "clause_id": "dieu-28-khoan-4",
+    "anchor": "dieu-28-khoan-4",
+    "title": "4. Mức thu quy định tại khoản 1 và khoản 2 Điều này chưa bao gồm thuế giá trị gia tăng phải nộp theo quy định của Luật Thuế giá trị gia tăng và các văn bản hướng dẫn thực hiện Luật này. Trường hợp cần điều chỉnh mức thu chi phí quy định tại khoản 1, khoản 2 Điều này để phù hợp với điều kiện kinh tế - xã hội và yêu cầu thực tiễn công tác tổ chức thi, Cục Quản lý đấu thầu trình Bộ trưởng Bộ Kế hoạch và Đầu tư xem xét, quyết định.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 683,
+    "line_end": 684
+  },
+  {
+    "clause_id": "dieu-29",
+    "anchor": "dieu-29",
+    "title": "Điều 29. Quản lý, sử dụng chi phí thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 687,
+    "line_end": 688
+  },
+  {
+    "clause_id": "dieu-29-khoan-1",
+    "anchor": "dieu-29-khoan-1",
+    "title": "1. Đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu có trách nhiệm xây dựng và ban hành quy chế thu, chi để quản lý, sử dụng chi phí thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu tiết kiệm, bảo đảm hiệu quả hoạt động của công tác thi, cấp chứng chỉ và phù hợp với cơ chế tài chính của đơn vị theo quy định của pháp luật; quyết toán thu, chi theo quy định của pháp luật hiện hành.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 690,
+    "line_end": 691
+  },
+  {
+    "clause_id": "dieu-29-khoan-2",
+    "anchor": "dieu-29-khoan-2",
+    "title": "2. Trong thời hạn không quá 10 ngày kể từ ngày tổ chức thi, đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu có trách nhiệm chi trả cho Trung tâm 200.000 đồng/thí sinh/kỳ thi (chưa bao gồm thuế giá trị gia tăng phải nộp theo quy định của Luật Thuế giá trị gia tăng và các văn bản hướng dẫn Luật này) để Trung tâm quản lý, sử dụng theo quy định tại Điều 30 của Thông tư này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 693,
+    "line_end": 694
+  },
+  {
+    "clause_id": "dieu-30",
+    "anchor": "dieu-30",
+    "title": "Điều 30. Quản lý, sử dụng kinh phí xây dựng ngân hàng câu hỏi và bù đắp chi phí xây dựng, quản lý, vận hành, duy trì, nâng cấp Hệ thống",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 697,
+    "line_end": 698
+  },
+  {
+    "clause_id": "dieu-30-khoan-1",
+    "anchor": "dieu-30-khoan-1",
+    "title": "1. Trung tâm sử dụng kinh phí thu tại khoản 2 Điều 29 của Thông tư này để chi cho các nội dung sau:",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 700,
+    "line_end": 713
+  },
+  {
+    "clause_id": "dieu-30-khoan-2",
+    "anchor": "dieu-30-khoan-2",
+    "title": "2. Mức chi đối với các nội dung tại khoản 1 Điều này thực hiện theo quy định của pháp luật về chế độ chi tiêu tài chính áp dụng đối với đơn vị sự nghiệp công lập, cơ chế tài chính của Trung tâm và được quy định trong Quy chế chi tiêu nội bộ của Trung tâm. Trường hợp thu lớn hơn chi thì được bổ sung số tiền còn dư vào nguồn kinh phí hoạt động để sử dụng theo cơ chế tài chính của đơn vị.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 715,
+    "line_end": 716
+  },
+  {
+    "clause_id": "dieu-30-khoan-3",
+    "anchor": "dieu-30-khoan-3",
+    "title": "3. Chênh lệch thu, chi sau khi nộp ngân sách nhà nước theo quy định của pháp luật về thuế thu nhập doanh nghiệp (nếu có) được trích lập vào các quỹ và sử dụng theo quy định về cơ chế tự chủ tài chính đối với đơn vị sự nghiệp công lập theo quy định của pháp luật hiện hành.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 718,
+    "line_end": 719
+  },
+  {
+    "clause_id": "dieu-30-khoan-4",
+    "anchor": "dieu-30-khoan-4",
+    "title": "4. Việc hạch toán kế toán, quyết toán thu, chi thực hiện theo quy định của pháp luật hiện hành đối với đơn vị sự nghiệp công lập.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 721,
+    "line_end": 722
+  },
+  {
+    "clause_id": "dieu-31",
+    "anchor": "dieu-31",
+    "title": "Điều 31. Trách nhiệm của Cục Quản lý đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 735,
+    "line_end": 736
+  },
+  {
+    "clause_id": "dieu-31-khoan-1",
+    "anchor": "dieu-31-khoan-1",
+    "title": "1. Phê duyệt kế hoạch tổ chức thi nghiệp vụ chuyên môn về đấu thầu bảo đảm kịp thời đáp ứng nhu cầu của các cá nhân tham gia hoạt động đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 738,
+    "line_end": 739
+  },
+  {
+    "clause_id": "dieu-31-khoan-2",
+    "anchor": "dieu-31-khoan-2",
+    "title": "2. Thành lập Hội đồng xây dựng ngân hàng câu hỏi, đề thi nghiệp vụ chuyên môn về đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 741,
+    "line_end": 742
+  },
+  {
+    "clause_id": "dieu-31-khoan-3",
+    "anchor": "dieu-31-khoan-3",
+    "title": "3. Quản lý hoạt động tổ chức thi, cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 744,
+    "line_end": 745
+  },
+  {
+    "clause_id": "dieu-31-khoan-4",
+    "anchor": "dieu-31-khoan-4",
+    "title": "4. Thực hiện trách nhiệm của cơ quan cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu theo quy định tại Điều 34 của Thông tư này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 747,
+    "line_end": 748
+  },
+  {
+    "clause_id": "dieu-32",
+    "anchor": "dieu-32",
+    "title": "Điều 32. Trách nhiệm của Trung tâm Hỗ trợ đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 751,
+    "line_end": 752
+  },
+  {
+    "clause_id": "dieu-32-khoan-1",
+    "anchor": "dieu-32-khoan-1",
+    "title": "1. Tổ chức xây dựng, quản lý, vận hành, duy trì, nâng cấp Hệ thống để bảo đảm các chức năng của Hệ thống quy định tại khoản 3 Điều 3 của Thông tư này hoạt động ổn định, an toàn.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 754,
+    "line_end": 755
+  },
+  {
+    "clause_id": "dieu-32-khoan-2",
+    "anchor": "dieu-32-khoan-2",
+    "title": "2. Tổ chức thu, quản lý, sử dụng chi phí để bù đắp xây dựng, quản lý, vận hành, duy trì, nâng cấp Hệ thống và chi phí cho công tác xây dựng ngân hàng câu hỏi, đề thi theo quy định tại khoản 2 Điều 29 và Điều 30 của Thông tư này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 757,
+    "line_end": 758
+  },
+  {
+    "clause_id": "dieu-32-khoan-3",
+    "anchor": "dieu-32-khoan-3",
+    "title": "3. Thực hiện các nhiệm vụ khác do Bộ Kế hoạch và Đầu tư, Cục Quản lý đấu thầu giao.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 760,
+    "line_end": 761
+  },
+  {
+    "clause_id": "dieu-33",
+    "anchor": "dieu-33",
+    "title": "Điều 33. Trách nhiệm của cơ quan, đơn vị tổ chức đào tạo, bồi dưỡng về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 764,
+    "line_end": 765
+  },
+  {
+    "clause_id": "dieu-33-khoan-1",
+    "anchor": "dieu-33-khoan-1",
+    "title": "1. Xây dựng tài liệu giảng dạy phù hợp với đối tượng được đào tạo, bồi dưỡng, cập nhật kiến thức, nghiệp vụ chuyên môn về đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 767,
+    "line_end": 768
+  },
+  {
+    "clause_id": "dieu-33-khoan-2",
+    "anchor": "dieu-33-khoan-2",
+    "title": "2. Lựa chọn giảng viên có uy tín, năng lực và kinh nghiệm phù hợp với nội dung đào tạo, bồi dưỡng, cập nhật kiến thức, nghiệp vụ chuyên môn về đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 770,
+    "line_end": 771
+  },
+  {
+    "clause_id": "dieu-33-khoan-3",
+    "anchor": "dieu-33-khoan-3",
+    "title": "3. Chịu hoàn toàn trách nhiệm về việc tổ chức đào tạo, bồi dưỡng tuân thủ quy định tại Thông tư này và quy định của pháp luật khác có liên quan.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 773,
+    "line_end": 774
+  },
+  {
+    "clause_id": "dieu-34",
+    "anchor": "dieu-34",
+    "title": "Điều 34. Trách nhiệm của cơ quan cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 777,
+    "line_end": 778
+  },
+  {
+    "clause_id": "dieu-34-khoan-1",
+    "anchor": "dieu-34-khoan-1",
+    "title": "1. Đăng tải quyết định cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu kèm theo danh sách cá nhân được cấp chứng chỉ trên Hệ thống trong thời hạn 05 ngày làm việc kể từ ngày ban hành quyết định cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 780,
+    "line_end": 781
+  },
+  {
+    "clause_id": "dieu-34-khoan-2",
+    "anchor": "dieu-34-khoan-2",
+    "title": "2. Trước ngày 31 tháng 12 hằng năm, gửi báo cáo hoạt động tổ chức thi, cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu đến Bộ Kế hoạch và Đầu tư thông qua Hệ thống. Nội dung báo cáo thực hiện theo Mẫu số 06 Phụ lục 03 ban hành kèm theo Thông tư này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 783,
+    "line_end": 784
+  },
+  {
+    "clause_id": "dieu-35",
+    "anchor": "dieu-35",
+    "title": "Điều 35. Trách nhiệm của đơn vị tổ chức thi nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 787,
+    "line_end": 788
+  },
+  {
+    "clause_id": "dieu-35-khoan-1",
+    "anchor": "dieu-35-khoan-1",
+    "title": "1. Xây dựng và ban hành quy chế tổ chức thi nghiệp vụ chuyên môn về đấu thầu tuân thủ quy định tại Thông tư này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 790,
+    "line_end": 791
+  },
+  {
+    "clause_id": "dieu-35-khoan-2",
+    "anchor": "dieu-35-khoan-2",
+    "title": "2. Xây dựng và ban hành quy chế thu, chi để quản lý, sử dụng chi phí thi, cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 793,
+    "line_end": 794
+  },
+  {
+    "clause_id": "dieu-35-khoan-3",
+    "anchor": "dieu-35-khoan-3",
+    "title": "3. Tổ chức thi nghiệp vụ chuyên môn về đấu thầu theo quy định tại Thông tư này và các hướng dẫn liên quan.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 796,
+    "line_end": 797
+  },
+  {
+    "clause_id": "dieu-35-khoan-4",
+    "anchor": "dieu-35-khoan-4",
+    "title": "4. Thực hiện các nhiệm vụ khác do cơ quan cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu giao.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 799,
+    "line_end": 800
+  },
+  {
+    "clause_id": "dieu-36",
+    "anchor": "dieu-36",
+    "title": "Điều 36. Trách nhiệm của cá nhân được cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 803,
+    "line_end": 804
+  },
+  {
+    "clause_id": "dieu-36-khoan-1",
+    "anchor": "dieu-36-khoan-1",
+    "title": "1. Tự cập nhật kiến thức, cơ chế, chính sách pháp luật hoặc tham gia cập nhật kiến thức, nghiệp vụ chuyên môn về đấu thầu do Bộ, ngành, địa phương, doanh nghiệp hoặc cơ sở đào tạo đấu thầu tổ chức để hoàn thành trách nhiệm được giao theo quy định của Luật Đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 806,
+    "line_end": 807
+  },
+  {
+    "clause_id": "dieu-36-khoan-2",
+    "anchor": "dieu-36-khoan-2",
+    "title": "2. Tuân thủ quy định của pháp luật về đấu thầu và quy định khác của pháp luật có liên quan trong quá trình hoạt động đấu thầu.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 809,
+    "line_end": 810
+  },
+  {
+    "clause_id": "dieu-36-khoan-3",
+    "anchor": "dieu-36-khoan-3",
+    "title": "3. Báo cáo về quá trình hoạt động đấu thầu khi có yêu cầu của cơ quan quản lý nhà nước và cơ quan khác có thẩm quyền.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 812,
+    "line_end": 813
+  },
+  {
+    "clause_id": "dieu-37",
+    "anchor": "dieu-37",
+    "title": "Điều 37. Quy định chuyển tiếp",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 820,
+    "line_end": 821
+  },
+  {
+    "clause_id": "dieu-37-khoan-1",
+    "anchor": "dieu-37-khoan-1",
+    "title": "1. Chứng chỉ tham gia khóa học về đấu thầu, chứng chỉ đào tạo về đấu thầu được cấp theo quy định của Luật Đấu thầu số 61/2005/QH11, Luật Đấu thầu số 43/2013/QH13 đến trước ngày 01 tháng 01 năm 2024 có giá trị như chứng chỉ nghiệp vụ chuyên môn về đấu thầu quy định tại Thông tư này và tiếp tục có hiệu lực đến hết ngày 31 tháng 12 năm 2025. Từ ngày 01 tháng 01 năm 2026, cá nhân có nhu cầu cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu phải tham dự thi để được cấp chứng chỉ theo quy định tại Thông tư này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 823,
+    "line_end": 824
+  },
+  {
+    "clause_id": "dieu-37-khoan-2",
+    "anchor": "dieu-37-khoan-2",
+    "title": "2. Chứng chỉ hành nghề hoạt động đấu thầu đã được cấp, cấp lại theo quy định của Luật Đấu thầu số 43/2013/QH13 và còn hiệu lực ghi trên chứng chỉ có giá trị như chứng chỉ nghiệp vụ chuyên môn về đấu thầu quy định tại Thông tư này và tiếp tục có hiệu lực theo thời hạn ghi tại chứng chỉ, trừ trường hợp quy định tại khoản 3 Điều này. Sau thời hạn ghi tại chứng chỉ, cá nhân có nhu cầu gia hạn thì thực hiện thủ tục gia hạn theo quy định tại điểm c khoản 2 Điều 7 và khoản 5 Điều 17 của Thông tư này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 826,
+    "line_end": 827
+  },
+  {
+    "clause_id": "dieu-37-khoan-3",
+    "anchor": "dieu-37-khoan-3",
+    "title": "3. Chứng chỉ hành nghề hoạt động đấu thầu đã được cấp nhưng hết hiệu lực trong năm 2024 có giá trị như chứng chỉ nghiệp vụ chuyên môn về đấu thầu quy định tại Thông tư này và tiếp tục có hiệu lực đến hết ngày 31 tháng 12 năm 2024. Từ ngày 01 tháng 01 năm 2025, cá nhân có nhu cầu gia hạn hiệu lực chứng chỉ thực hiện thủ tục gia hạn theo quy định tại điểm c khoản 2 Điều 7 và khoản 5 Điều 17 của Thông tư này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 829,
+    "line_end": 830
+  },
+  {
+    "clause_id": "dieu-37-khoan-4",
+    "anchor": "dieu-37-khoan-4",
+    "title": "4. Cá nhân đã được cấp chứng chỉ tham gia khóa học về đấu thầu, chứng chỉ đào tạo đấu thầu theo quy định của Luật Đấu thầu số 61/2005/QH11, Luật Đấu thầu số 43/2013/QH13, cá nhân được cấp, cấp lại chứng chỉ hành nghề hoạt động đấu thầu theo quy định của Luật Đấu thầu số 43/2013/QH13 còn hiệu lực thì được sử dụng các chứng chỉ này để tham gia tổ chuyên gia, tổ thẩm định trong lựa chọn nhà đầu tư cho đến thời điểm quy định tại các khoản 1, 2 và 3 Điều này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 832,
+    "line_end": 833
+  },
+  {
+    "clause_id": "dieu-38",
+    "anchor": "dieu-38",
+    "title": "Điều 38. Hiệu lực thi hành",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 836,
+    "line_end": 837
+  },
+  {
+    "clause_id": "dieu-38-khoan-1",
+    "anchor": "dieu-38-khoan-1",
+    "title": "1. Thông tư này có hiệu lực thi hành kể từ ngày ký ban hành, trừ quy định tại khoản 2 Điều này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 839,
+    "line_end": 840
+  },
+  {
+    "clause_id": "dieu-38-khoan-2",
+    "anchor": "dieu-38-khoan-2",
+    "title": "2. Các nội dung quy định tại Điều 37 Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2024.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 842,
+    "line_end": 843
+  },
+  {
+    "clause_id": "dieu-38-khoan-3",
+    "anchor": "dieu-38-khoan-3",
+    "title": "3. Kể từ ngày 01 tháng 01 năm 2024, Thông tư số 04/2019/TT-BKHĐT ngày 25 tháng 01 năm 2019 của Bộ trưởng Bộ Kế hoạch và Đầu tư quy định chi tiết đối với hoạt động đào tạo, bồi dưỡng và thi sát hạch cấp chứng chỉ hành nghề hoạt động đấu thầu hết hiệu lực thi hành.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 845,
+    "line_end": 846
+  },
+  {
+    "clause_id": "dieu-39",
+    "anchor": "dieu-39",
+    "title": "Điều 39. Trách nhiệm thi hành",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 849,
+    "line_end": 850
+  },
+  {
+    "clause_id": "dieu-39-khoan-1",
+    "anchor": "dieu-39-khoan-1",
+    "title": "1. Các Bộ, cơ quan ngang Bộ, cơ quan trực thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp và tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 852,
+    "line_end": 853
+  },
+  {
+    "clause_id": "dieu-39-khoan-2",
+    "anchor": "dieu-39-khoan-2",
+    "title": "2. Trong quá trình thực hiện, nếu có vướng mắc, các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, cơ quan khác ở Trung ương, Ủy ban nhân dân các cấp và tổ chức, cá nhân có liên quan gửi ý kiến về Bộ Kế hoạch và Đầu tư để kịp thời hướng dẫn./.",
+    "source_file": "thong_tu_02_2024_tt_bkhdt.md",
+    "jurisdiction": "CQXD",
+    "line_start": 855,
+    "line_end": 862
+  }
+]

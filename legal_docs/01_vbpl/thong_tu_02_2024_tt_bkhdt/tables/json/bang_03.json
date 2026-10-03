@@ -1,0 +1,43 @@
+{
+  "table_id": "bang_03",
+  "title": "Bảng 03",
+  "rows_count": 4,
+  "columns_count": 8,
+  "headers": [
+    "Stt",
+    "Tên kỳ cấp gia hạn",
+    "Số lượng thí sinh đã được cấp chứng chỉ lần đầu",
+    "Số lượng thí sinh được cấp gia hạn chứng chỉ",
+    "Tỷ lệ % thí sinh cấp gia hạn chứng chỉ",
+    "Tỷ lệ % thí sinh cấp gia hạn chứng chỉ",
+    "Ghi chú",
+    "Ghi chú"
+  ],
+  "records": [
+    {
+      "Stt": "1",
+      "Tên kỳ cấp gia hạn": "",
+      "Số lượng thí sinh đã được cấp chứng chỉ lần đầu": "",
+      "Số lượng thí sinh được cấp gia hạn chứng chỉ": "",
+      "Tỷ lệ % thí sinh cấp gia hạn chứng chỉ": "",
+      "Ghi chú": ""
+    },
+    {
+      "Stt": "2",
+      "Tên kỳ cấp gia hạn": "",
+      "Số lượng thí sinh đã được cấp chứng chỉ lần đầu": "",
+      "Số lượng thí sinh được cấp gia hạn chứng chỉ": "",
+      "Tỷ lệ % thí sinh cấp gia hạn chứng chỉ": "",
+      "Ghi chú": ""
+    },
+    {
+      "Stt": "Tổng cộng",
+      "Tên kỳ cấp gia hạn": "Tổng cộng",
+      "Số lượng thí sinh đã được cấp chứng chỉ lần đầu": "Tổng cộng",
+      "Số lượng thí sinh được cấp gia hạn chứng chỉ": "Tổng cộng",
+      "Tỷ lệ % thí sinh cấp gia hạn chứng chỉ": "",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}

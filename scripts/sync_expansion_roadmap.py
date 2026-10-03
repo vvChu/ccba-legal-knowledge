@@ -91,6 +91,9 @@ def get_ingested_document_numbers() -> set[str]:
                 doc_id = doc.get("id")
                 if doc_id:
                     ingested.add(doc_id.strip().upper())
+                # ADR 0036: Include consolidated constituent documents
+                for c in doc.get("relations", {}).get("consolidates", []):
+                    ingested.add(c.strip().upper())
                     
     # Also scan bundle directories in legal_docs/
     for b_dir in LEGAL_DOCS_DIR.glob("*/*"):

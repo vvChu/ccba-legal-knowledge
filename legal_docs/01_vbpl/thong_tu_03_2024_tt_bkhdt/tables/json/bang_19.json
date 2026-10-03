@@ -1,0 +1,49 @@
+{
+  "table_id": "bang_19",
+  "title": "Bảng 19",
+  "rows_count": 5,
+  "columns_count": 6,
+  "headers": [
+    "TT",
+    "Tên thành viên",
+    "Vai trò tham gia [Ghi phần công việc mà thành viên đảm nhận (thu xếp tài chính, xây dựng, quản lý, vận hành,...]",
+    "Vốn chủ sở hữu — Giá trị",
+    "Vốn chủ sở hữu — Tỉ lệ %",
+    "Vốn vay nhà đầu tư phải huy động"
+  ],
+  "records": [
+    {
+      "TT": "1",
+      "Tên thành viên": "Thành viên 1 [Đứng đầu liên danh]",
+      "Vai trò tham gia [Ghi phần công việc mà thành viên đảm nhận (thu xếp tài chính, xây dựng, quản lý, vận hành,...]": "",
+      "Vốn chủ sở hữu — Giá trị": "",
+      "Vốn chủ sở hữu — Tỉ lệ %": "[tối thiểu 30%]",
+      "Vốn vay nhà đầu tư phải huy động": ""
+    },
+    {
+      "TT": "2",
+      "Tên thành viên": "Thành viên 2",
+      "Vai trò tham gia [Ghi phần công việc mà thành viên đảm nhận (thu xếp tài chính, xây dựng, quản lý, vận hành,...]": "",
+      "Vốn chủ sở hữu — Giá trị": "",
+      "Vốn chủ sở hữu — Tỉ lệ %": "[tối thiểu 15%]",
+      "Vốn vay nhà đầu tư phải huy động": ""
+    },
+    {
+      "TT": "...",
+      "Tên thành viên": "",
+      "Vai trò tham gia [Ghi phần công việc mà thành viên đảm nhận (thu xếp tài chính, xây dựng, quản lý, vận hành,...]": "",
+      "Vốn chủ sở hữu — Giá trị": "",
+      "Vốn chủ sở hữu — Tỉ lệ %": "",
+      "Vốn vay nhà đầu tư phải huy động": ""
+    },
+    {
+      "TT": "Tổng",
+      "Tên thành viên": "Tổng",
+      "Vai trò tham gia [Ghi phần công việc mà thành viên đảm nhận (thu xếp tài chính, xây dựng, quản lý, vận hành,...]": "Tổng",
+      "Vốn chủ sở hữu — Giá trị": "....",
+      "Vốn chủ sở hữu — Tỉ lệ %": "100%",
+      "Vốn vay nhà đầu tư phải huy động": ""
+    }
+  ],
+  "footnotes": []
+}

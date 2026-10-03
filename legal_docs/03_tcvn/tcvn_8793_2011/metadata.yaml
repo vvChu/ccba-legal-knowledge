@@ -14,4 +14,11 @@ converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 legal_basis: []
 replaces: []
+related_drafts:
+- id: duthao_tcvn_8793_2021
+  title: Dự thảo TCVN 8793:2021 (Xuất bản lần 2) Trường tiểu học - Yêu cầu thiết kế
+  source_pdf: ./sources/duthao_tcvn_8793_2021.pdf
+  pdf_sha256: 8b7c6cfd45b69d7cf8b0c38cf0c3a1ec6b33e730f19efec532abedf6dc9952f0
+  status: draft_under_review
+  issued_by: Bộ Xây dựng lấy ý kiến
 extracted_at: '2026-10-03T05:20:00.000000+00:00'

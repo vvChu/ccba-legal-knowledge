@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_38",
+  "title": "Bảng 38",
+  "rows_count": 7,
+  "columns_count": 3,
+  "headers": [
+    "STT",
+    "Nội dung",
+    "Giá trị"
+  ],
+  "records": [
+    {
+      "STT": "I",
+      "Nội dung": "Vốn chủ sở hữu cam kết sử dụng cho dự án",
+      "Giá trị": ""
+    },
+    {
+      "STT": "II",
+      "Nội dung": "Các số liệu về vốn chủ sở hữu của nhà đầu tư",
+      "Giá trị": ""
+    },
+    {
+      "STT": "1",
+      "Nội dung": "Tổng vốn chủ sở hữu",
+      "Giá trị": ""
+    },
+    {
+      "STT": "2",
+      "Nội dung": "Chi phí liên quan đến tranh chấp, khiếu kiện (nếu có)",
+      "Giá trị": ""
+    },
+    {
+      "STT": "3",
+      "Nội dung": "Vốn chủ sở hữu cam kết cho các dự án đang thực hiện(4) (không gồm vốn đã được giải ngân cho các dự án đang thực hiện và các khoản đầu tư tài chính dài hạn khác (nếu có))",
+      "Giá trị": ""
+    },
+    {
+      "STT": "4",
+      "Nội dung": "Vốn chủ sở hữu phải giữ lại theo quy định",
+      "Giá trị": ""
+    }
+  ],
+  "footnotes": []
+}

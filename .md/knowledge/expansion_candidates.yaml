@@ -455,28 +455,28 @@ candidates:
   tvpl_url: https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-13-2020-TT-BGDDT-tieu-chuan-co-so-vat-chat-truong-mam-non-tieu-hoc-trung-hoc-443912.aspx
   base_impact_score: 8.9
   tier_override: 2
-- id: TCVN-5065-2024
-  document_number: TCVN 5065:2024
-  title: Khách sạn — Tiêu chuẩn thiết kế
+- id: TCVN-5065-1990
+  document_number: TCVN 5065:1990
+  title: Tiêu chuẩn Việt Nam TCVN 5065:1990 về Khách sạn — Tiêu chuẩn thiết kế
   category: 03_tcvn
   discipline: Kiến trúc
-  issued_by: Bộ Khoa học và Công nghệ
-  effective_date: '2024-12-30'
-  replaces: TCVN 5065:1990
-  search_query: TCVN 5065:2024
-  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-5065-2024-Khach-san-Tieu-chuan-thiet-ke-922115.aspx
+  issued_by: Bộ Xây dựng
+  effective_date: '1990-05-30'
+  replaces: ''
+  search_query: TCVN 5065:1990
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Quyet-dinh-117-BXD-KHKT-mot-tieu-chuan-Nha-nuoc-TCVN-5065-90-37939.aspx
   base_impact_score: 8.8
   tier_override: 2
-- id: TCVN-8793-2021
-  document_number: TCVN 8793:2021
-  title: Trường tiểu học — Yêu cầu thiết kế
+- id: TCVN-8793-2011
+  document_number: TCVN 8793:2011
+  title: Tiêu chuẩn quốc gia TCVN 8793:2011 về Trường tiểu học — Yêu cầu thiết kế
   category: 03_tcvn
   discipline: Kiến trúc
   issued_by: Bộ Khoa học và Công nghệ
-  effective_date: '2021-12-30'
-  replaces: TCVN 8793:2011
-  search_query: TCVN 8793:2021
-  tvpl_url: https://thuvienphapluat.vn/TCVN/Giao-duc/TCVN-8793-2021-Truong-tieu-hoc-Yeu-cau-thiet-ke-920412.aspx
+  effective_date: '2011-12-30'
+  replaces: ''
+  search_query: TCVN 8793:2011
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Giao-duc/Quyet-dinh-2585-QD-BKHCN-2011-cong-bo-Tieu-chuan-quoc-gia-Bo-Khoa-hoc-va-Cong-nghe-223690.aspx
   base_impact_score: 8.8
   tier_override: 2
 - id: TCVN-9411-2012

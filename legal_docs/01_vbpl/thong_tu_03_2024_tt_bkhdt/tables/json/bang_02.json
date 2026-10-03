@@ -1,0 +1,33 @@
+{
+  "table_id": "bang_02",
+  "title": "Bảng 02",
+  "rows_count": 6,
+  "columns_count": 2,
+  "headers": [
+    "Tên dự án:",
+    "______________________________"
+  ],
+  "records": [
+    {
+      "Tên dự án:": "[ghi tên dự án theo quyết định chấp thuận chủ trương đầu tư đối với dự án thuộc diện chấp thuận chủ trương đầu tư hoặc văn bản phê duyệt dự án đầu tư đối với dự án không thuộc diện chấp thuận chủ trương đầu tư]",
+      "______________________________": "[ghi tên dự án theo quyết định chấp thuận chủ trương đầu tư đối với dự án thuộc diện chấp thuận chủ trương đầu tư hoặc văn bản phê duyệt dự án đầu tư đối với dự án không thuộc diện chấp thuận chủ trương đầu tư]"
+    },
+    {
+      "Tên dự án:": "Phát hành ngày:",
+      "______________________________": "______________________________"
+    },
+    {
+      "Tên dự án:": "[ghi ngày bắt đầu phát hành hồ sơ mời quan tâm cho nhà đầu tư]",
+      "______________________________": "[ghi ngày bắt đầu phát hành hồ sơ mời quan tâm cho nhà đầu tư]"
+    },
+    {
+      "Tên dự án:": "Ban hành kèm theo Quyết định:",
+      "______________________________": "______________________________"
+    },
+    {
+      "Tên dự án:": "[ghi số và ngày quyết định phê duyệt hồ sơ mời quan tâm]",
+      "______________________________": "[ghi số và ngày quyết định phê duyệt hồ sơ mời quan tâm]"
+    }
+  ],
+  "footnotes": []
+}
