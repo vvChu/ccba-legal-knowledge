@@ -1,0 +1,104 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên các bộ phận",
+    "Khách sạn có quy mô — Dưới 150 giường",
+    "Khách sạn có quy mô — Dưới 300 giường",
+    "Khách sạn có quy mô — Dưới 500 giường",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên các bộ phận": "1",
+      "Khách sạn có quy mô — Dưới 150 giường": "2",
+      "Khách sạn có quy mô — Dưới 300 giường": "3",
+      "Khách sạn có quy mô — Dưới 500 giường": "4",
+      "Ghi chú": "5"
+    },
+    {
+      "_row_id": 2,
+      "Tên các bộ phận": "Nhóm hành chính quản trị",
+      "Khách sạn có quy mô — Dưới 150 giường": "",
+      "Khách sạn có quy mô — Dưới 300 giường": "",
+      "Khách sạn có quy mô — Dưới 500 giường": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 3,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Phòng làm việc của chủ nhiệm khách sạn",
+      "Khách sạn có quy mô — Dưới 150 giường": "18",
+      "Khách sạn có quy mô — Dưới 300 giường": "24",
+      "Khách sạn có quy mô — Dưới 500 giường": "24",
+      "Ghi chú": "Theo luận chứng KTKT"
+    },
+    {
+      "_row_id": 4,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Phòng làm việc của phó chủ nhiệm khách sạn",
+      "Khách sạn có quy mô — Dưới 150 giường": "16",
+      "Khách sạn có quy mô — Dưới 300 giường": "16",
+      "Khách sạn có quy mô — Dưới 500 giường": "20",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 5,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Phòng tiếp khách\n&nbsp;&nbsp;\\- Phòng ăn của nhân viên khách sạn",
+      "Khách sạn có quy mô — Dưới 150 giường": "24\n24",
+      "Khách sạn có quy mô — Dưới 300 giường": "24\n36",
+      "Khách sạn có quy mô — Dưới 500 giường": "36\n54",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 6,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Phòng nghỉ\n&nbsp;&nbsp;\\- Phòng nghỉ trực ban của chủ nhiệm khách sạn",
+      "Khách sạn có quy mô — Dưới 150 giường": "4 $m^{2}$/chỗ\n12",
+      "Khách sạn có quy mô — Dưới 300 giường": "4 $m^{2}$/chỗ\n12",
+      "Khách sạn có quy mô — Dưới 500 giường": "4 $m^{2}$/chỗ\n12",
+      "Ghi chú": "Theo luận chứng KTKT"
+    },
+    {
+      "_row_id": 7,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Phòng tài chính kế toán\n&nbsp;&nbsp;\\- Phòng nghiệp vụ kĩ thuật\n&nbsp;&nbsp;\\- Phòng hành chính quản trị\n&nbsp;&nbsp;\\- Phòng tổ chức cán bộ\n&nbsp;&nbsp;\\- Phòng các đoàn thể\n&nbsp;&nbsp;\\- Phòng trực, bảo vệ",
+      "Khách sạn có quy mô — Dưới 150 giường": "4 $m^{2}$ /chỗ\n4 $m^{2}$ /chỗ\n4 $m^{2}$ /chỗ\n4 $m^{2}$ /chỗ\n12\n8",
+      "Khách sạn có quy mô — Dưới 300 giường": "4 $m^{2}$ /chỗ\n4 $m^{2}$ /chỗ\n4 $m^{2}$ /chỗ\n4 $m^{2}$ /chỗ\n16\n12",
+      "Khách sạn có quy mô — Dưới 500 giường": "4 $m^{2}$/chỗ\n4 $m^{2}$/chỗ\n4 $m^{2}$/chỗ\n4 $m^{2}$/chỗ\n20\n16",
+      "Ghi chú": "nt\nnt\nnt\nTheo luận chứng KTKT"
+    },
+    {
+      "_row_id": 8,
+      "Tên các bộ phận": "Nhóm kho\n&nbsp;&nbsp;\\- Kho đồ vải, chăn màn\n&nbsp;&nbsp;\\- Kho đồ gỗ\n&nbsp;&nbsp;\\- Kho đồ sứ thuỷ tinh\n&nbsp;&nbsp;\\- Kho vật tư thiết bị",
+      "Khách sạn có quy mô — Dưới 150 giường": "0,4\n0,4\n0,3\n0,3",
+      "Khách sạn có quy mô — Dưới 300 giường": "0,3\n0,25\n0,25\n0,2",
+      "Khách sạn có quy mô — Dưới 500 giường": "0,25\n0,20\n0,20\n0,1",
+      "Ghi chú": "Theo số giường\nnt\nnt\nnt"
+    },
+    {
+      "_row_id": 9,
+      "Tên các bộ phận": "Nhóm phục vụ\n&nbsp;&nbsp;\\- Xưởng sửa chữa\n&nbsp;&nbsp;\\- Nhà để xe ô tô của khách\n&nbsp;&nbsp;\\- Kho xăng dầu\n&nbsp;&nbsp;\\- Nhà để xe đạp, xe máy\n&nbsp;&nbsp;\\- Chỗ nghỉ cho công nhân viên phục vụ, lái xe",
+      "Khách sạn có quy mô — Dưới 150 giường": "24\n25 $m^{2}$/chỗ\n16\n0,9 $m^{2}$/xe\n4 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — Dưới 300 giường": "54\n25 $m^{2}$/chỗ\n20\n0,9 $m^{2}$/xe\n4 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — Dưới 500 giường": "60\n25 $m^{2}$/chỗ\n24\n0,9 $m^{2}$/xe\n4 $m^{2}$/chỗ",
+      "Ghi chú": "Theo luận chứng\nKTKT\nnt\nnt\nnt"
+    },
+    {
+      "_row_id": 10,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Trạm sửa chữa giày dép\n&nbsp;&nbsp;\\- Phòng giặt và phơi sấy\n&nbsp;&nbsp;\\- Phòng may vá\n&nbsp;&nbsp;\\- Phòng cho thuê xe, thuê dụng cụ thể thao",
+      "Khách sạn có quy mô — Dưới 150 giường": "6 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — Dưới 300 giường": "6 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — Dưới 500 giường": "6 $m^{2}$/chỗ",
+      "Ghi chú": "nt\nnt\nnt"
+    },
+    {
+      "_row_id": 11,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Trạm bơm áp lực\n&nbsp;&nbsp;\\- Trạm cung cấp nước\n&nbsp;&nbsp;\\- Điều hoà trung tâm và nơi đặt các thiết bị điều hoà\n&nbsp;&nbsp;\\- Phòng điện\nCác phòng phục vụ khác",
+      "Khách sạn có quy mô — Dưới 150 giường": "",
+      "Khách sạn có quy mô — Dưới 300 giường": "",
+      "Khách sạn có quy mô — Dưới 500 giường": "",
+      "Ghi chú": "nt\nnt\nnt"
+    }
+  ],
+  "footnotes": []
+}

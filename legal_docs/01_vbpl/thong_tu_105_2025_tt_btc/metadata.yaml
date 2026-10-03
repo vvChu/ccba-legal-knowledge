@@ -1,0 +1,21 @@
+id: thong_tu_105_2025_tt_btc
+document_number: 105/2025/TT-BTC
+type: Thông tư
+title: Thông tư số 105/2025/TT-BTC sửa đổi, bổ sung một số điều của Thông tư số 02/2024/TT-BKHĐT
+  quy định hoạt động đào tạo, bồi dưỡng kiến thức và thi, cấp, thu hồi chứng chỉ nghiệp
+  vụ chuyên môn về đấu thầu
+status: effective
+issued_by: Bộ Tài chính
+effective_date: '2025-10-31'
+signer: Bộ trưởng Bộ Tài chính
+pdf_path: ./sources/thong_tu_105_2025_tt_btc.pdf
+pdf_sha256: 4ac6f1b0553b79834df8ea40f7c499592e2995f194692453ea92c5bf16efe6f8
+pdf_status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+legal_basis:
+- doc_id: luat_dau_thau_2023_22_2023_qh15
+  title: Luật Đấu thầu số 22/2023/QH15
+replaces: []
+extracted_at: '2026-10-03T05:20:00.000000+00:00'

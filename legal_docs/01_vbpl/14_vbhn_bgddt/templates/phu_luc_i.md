@@ -1,0 +1,302 @@
+# Phụ lục I: ĐỊNH MỨC DIỆN TÍCH SÀN XÂY DỰNG CÁC HẠNG MỤC CÔNG TRÌNH TRƯỜNG MẦM NON
+
+> [!NOTE]
+> **Văn bản ban hành:** 14_vbhn_bgddt
+> **Phụ lục:** Phụ lục số I
+
+---
+
+__PHỤ LỤC I__
+
+ĐỊNH MỨC DIỆN TÍCH SÀN XÂY DỰNG CÁC HẠNG MỤC CÔNG TRÌNH TRƯỜNG MẦM NON  
+*(Ban hành kèm theo Thông tư ban hành Quy định tiêu chuẩn cơ sở vật chất các trường mầm non, tiểu học, trung học cơ sở, trung học phổ thông và trường phổ thông có nhiều cấp học)*
+
+__STT__
+
+__Các hạng mục công trình__
+
+__Tiêu chuẩn tối thiểu__
+
+__Tiêu chuẩn mức độ 1__
+
+__Tiêu chuẩn mức độ 2__
+
+__Chú thích__
+
+__1__
+
+__Khối phòng nuôi dưỡng, chăm sóc và giáo dục trẻ em__
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.1[\[55\]](#_ftn55)
+
+Khối phòng nuôi dưỡng, chăm sóc và giáo dục trẻ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Khu sinh hoạt chung
+
+1,50m2/trẻ em
+
+1,0m2/trẻ em
+
+1,50m2/trẻ em
+
+Tổng diện tích không nhỏ hơn 24m2 với nhóm trẻ, 36m2 với lớp mẫu giáo
+
+ 
+
+Khu ngủ
+
+1,20m2/trẻ em
+
+1,20m2/trẻ em
+
+1,20m2/trẻ em
+
+Tổng diện tích không nhỏ hơn 18m2 với nhóm trẻ, 30m2 với lớp mẫu giáo
+
+ 
+
+Khu vệ sinh
+
+0,40m2/trẻ em
+
+0,40m2/trẻ em
+
+0,40m2/trẻ em
+
+Tổng diện tích không nhỏ hơn 12m2
+
+ 
+
+Hiên chơi, đón trẻ
+
+0,50m2/trẻ
+
+0,50m2/trẻ
+
+0,50m2/trẻ
+
+Chiều rộng thông thủy không nhỏ hơn 2,1m
+
+ 
+
+Kho nhóm, lớp
+
+-
+
+-
+
+6m2/kho
+
+ 
+
+1.2[\[56\]](#_ftn56)
+
+Phòng giáo dục thể chất, phòng giáo dục nghệ thuật
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Phòng giáo dục thể chất
+
+2m2/trẻ em
+
+2m2/trẻ em
+
+2m2/trẻ em
+
+Tổng diện tích không nhỏ hơn 60m2/phòng
+
+ 
+
+Phòng giáo dục nghệ thuật
+
+2m2/trẻ em
+
+2m2/trẻ em
+
+2m2/trẻ em
+
+Tổng diện tích không nhỏ hơn 60m2/phòng
+
+1.3[\[57\]](#_ftn57)
+
+Sân chơi
+
+1m2/trẻ em
+
+1m2/trẻ em nhà trẻ; 2m2/trẻ em mẫu giáo
+
+1m2/trẻ em nhà trẻ; 2m2/trẻ em mẫu giáo
+
+ 
+
+1.4[\[58\]](#_ftn58)
+
+Phòng làm quen tin học, ngoại ngữ
+
+-
+
+-
+
+40m2/phòng
+
+ 
+
+1.5[\[59\]](#_ftn59)
+
+Thư viện
+
+0,60m2/trẻ em
+
+- 0,60m2/trẻ em; 
+
+- phòng đọc trẻ em 1,50m2/chỗ;
+
+- phòng đọc giáo viên 2,40m2/chỗ; 
+
+- kho sách kín 2,5m2/ 1000 đơn vị tài nguyên thông tin; kho sách mở 4,5m2/1000  đơn vị tài nguyên thông tin; 
+
+- khu mượn trả và quản lý 6m2/người làm công tác thư viện
+
+- 0,60m2/trẻ em; 
+
+- phòng đọc trẻ em 1,50m2/chỗ; 
+
+- phòng đọc giáo viên 2,40m2/chỗ; 
+
+- kho sách kín 2,5m2/1000 đơn vị tài nguyên thông tin; kho sách mở 4,5m2/ 1000 đơn vị tài nguyên thông tin; 
+
+- khu mượn trả và quản lý 6m2/người làm công tác thư viện
+
+Tổng diện tích không nhỏ hơn 48m2/thư viện. Quy mô được tính từ 30% đến 50% tổng số trẻ em toàn trường
+
+__2__
+
+__Khối phòng tổ chức ăn__
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.1
+
+Nhà bếp
+
+0,30m2/trẻ em
+
+0,30m2/trẻ em
+
+0,30m2/trẻ em
+
+ 
+
+2.2
+
+Kho bếp
+
+10m2/kho thực phẩm; 12m2/kho lương thực
+
+10m2/kho thực phẩm; 12m2/kho lương thực
+
+10m2/kho thực phẩm; 12m2/kho lương thực
+
+ 
+
+__3__
+
+__Khối phụ trợ__
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.1
+
+Phòng họp
+
+1,20m2/người
+
+1,20m2/người
+
+1,20m2/người
+
+ 
+
+3.2
+
+Phòng Y tế
+
+10m2/phòng
+
+10m2/phòng
+
+10m2/phòng
+
+ 
+
+3.3
+
+Nhà kho
+
+40m2/kho
+
+40m2/kho
+
+40m2/kho
+
+ 
+
+3.4
+
+Sân vườn
+
+3m2/trẻ em
+
+3m2/trẻ em
+
+3m2/trẻ em
+
+ 
+
+ 
+
+*Trong đó: sân vườn dành riêng cho trẻ khám phá, trải nghiệm*
+
+*-*
+
+*0,30m2/trẻ em*
+
+*0,30m2/trẻ em*

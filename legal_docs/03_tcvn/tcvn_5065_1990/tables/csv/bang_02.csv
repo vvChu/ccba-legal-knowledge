@@ -1,0 +1,35 @@
+﻿Tên các bộ phận,Khách sạn có quy mô — 150 giường,Khách sạn có quy mô — 300 giường,Khách sạn có quy mô — 500 giường,Ghi chú
+1,2,3,4,5
+Nhóm sảnh,,,,
+&nbsp;&nbsp;\- Sảnh tiếp đón,"1,00","0,08","0,60",
+&nbsp;&nbsp;\- Sảnh tầng,"0,40","0,35","0,30",
+&nbsp;&nbsp;\- Các phòng tiếp khách và sinh hoạt chung,"0,30","0,25","0,20",
+&nbsp;&nbsp;\- Nơi tiếp đón,"0,20","0,16","0,12",
+"&nbsp;&nbsp;\- Nơi gửi tiền, đồ vật","0,12","0,10","0,08",Tính theo luận chứng KTKT
+&nbsp;&nbsp;\- Nơi đổi tiền,5 $m^{2}$/chỗ,5 $m^{2}$/chỗ,5 $m^{2}$/chỗ,
+&nbsp;&nbsp;\- Cửa hàng bách hoá mĩ nghệ,"0,40","0,40","0,30",Tính theo số giường
+&nbsp;&nbsp;\- Cắt tóc nam,6 $m^{2}$/chỗ,6 $m^{2}$/chỗ,6 $m^{2}$/chỗ,Tính theo luận chứng KTKT
+&nbsp;&nbsp;\- Uốn tóc nữ,8 $m^{2}$/chỗ,8 $m^{2}$/chỗ,8 $m^{2}$/chỗ,nt
+&nbsp;&nbsp;\- Phòng y tế,12 $m^{2}$,24 $m^{2}$,24 $m^{2}$,nt
+&nbsp;&nbsp;\- Quầy bưu điện,5 $m^{2}$/chỗ,5 $m^{2}$/chỗ,5 $m^{2}$/chỗ,Tính theo luận chứng KTKT
+&nbsp;&nbsp;\- Tổng đài điện thoại,12 $m^{2}$,12 $m^{2}$,18 $m^{2}$,nt
+&nbsp;&nbsp;\- Buồng điện thoại,1 $m^{2}$,1 $m^{2}$,1 $m^{2}$,nt
+&nbsp;&nbsp;\- Quầy sách báo,16 $m^{2}$,16 $m^{2}$,24 $m^{2}$,Theo luận chứng KTKT
+&nbsp;&nbsp;\- Phòng hội nghị,"1,8 $m^{2}$/chỗ","1,8 $m^{2}$/chỗ","1,8 $m^{2}$/chỗ",nt
+Nhóm ăn uống,,,,
+&nbsp;&nbsp;\- Phòng ăn,"1,5 $m^{2}$/chỗ","1,5 $m^{2}$/chỗ","1,5 $m^{2}$/chỗ",Tính 70-100 số giường
+&nbsp;&nbsp;\- Phòng trực,"1,5 $m^{2}$/chỗ","1,5 $m^{2}$/chỗ","1,5 $m^{2}$/chỗ",Tính 10 - 20% số giường
+&nbsp;&nbsp;\- Phòng ăn đặc sản,2 $m^{2}$/chỗ,2 $m^{2}$/chỗ,2 $m^{2}$/chỗ,Theo luận chứng KTKT
+&nbsp;&nbsp;\- Bar giải khát,"0,8 $m^{2}$/chỗ","0,8 $m^{2}$/chỗ","0,8 $m^{2}$/chỗ",Tính 20% số giường
+&nbsp;&nbsp;\- Tiệm cà phê,"0,8 $m^{2}$/chỗ","0,8 $m^{2}$/chỗ","0,8 $m^{2}$/chỗ",Theo luận chứng KTKT
+"&nbsp;&nbsp;\- Sàn nhảy, có bar đêm",1 $m^{2}$/chỗ,1 $m^{2}$/chỗ,1 $m^{2}$/chỗ,nt
+Nhóm bếp,,,,
+"&nbsp;&nbsp;\- Kho các loại lương thực thực phẩm, lạnh, dụng cụ nhà bếp, phục vụ rau quả rượu bia, nước ngọt, nhiên liệu, phế liệu...",1 $m^{2}$/chỗ,"0,8 $m^{2}$/chỗ","0,6 $m^{2}$/chỗ","Tính theo số chỗ trong phòng ăn, giải khát"
+"&nbsp;&nbsp;\- Bộ phận gia công (gia công thô, kĩ, nấu hấp cơm, bánh, nấu thức ăn, pha chế,rửa đĩa, xoong nồi...)","1,2 $m^{2}$/chỗ",1 $m^{2}$/chỗ,"0,8 $m^{2}$/chỗ",nt
+&nbsp;&nbsp;\- Nơi soạn và phục vụ nhà bàn,"0,5 $m^{2}$/chỗ","0,3 $m^{2}$/chỗ","0,2 $m^{2}$/chỗ",nt
+"&nbsp;&nbsp;\- Các phòng quản lí sinh hoạt. (Nơi làm việc của bếp trưởng, kiểm nghiệm thức ăn, kế toán, thay quần áo nghỉ của nhân viên...)","0,4 $m^{2}$/chỗ","0,3 $m^{2}$/chỗ","0,2 $m^{2}$/chỗ",nt
+Nhóm giải trí thể thao,,,,
+&nbsp;&nbsp;\- Phòng chiếu phim Video,"0,8 $m^{2}$/chỗ","0,8 $m^{2}$/chỗ","0,8 $m^{2}$/chỗ",Theo luận chứng KTKT
+&nbsp;&nbsp;\- Phòng đọc sách báo,"1,2 $m^{2}$/chỗ","1,2 $m^{2}$/chỗ","1,2 $m^{2}$/chỗ",Theo luận chứng KTKT
+&nbsp;&nbsp;\- Bóng bàn,45 $m^{2}$/chỗ,45 $m^{2}$/chỗ,45 $m^{2}$/chỗ,Theo luận chứng KTKT
+"&nbsp;&nbsp;\- Cờ, bi-a<br>&nbsp;&nbsp;\- Bể bơi<br>&nbsp;&nbsp;\- Sân bóng các loại",20 $m^{2}$/chỗ,20 $m^{2}$/chỗ,20 $m^{2}$/chỗ,Theo luận chứng KTKT

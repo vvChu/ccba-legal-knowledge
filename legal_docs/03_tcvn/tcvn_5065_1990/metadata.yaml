@@ -1,0 +1,17 @@
+id: tcvn_5065_1990
+document_number: TCVN 5065:1990
+type: Tiêu chuẩn quốc gia
+title: Tiêu chuẩn Việt Nam TCVN 5065:1990 về Khách sạn - Tiêu chuẩn thiết kế
+status: active
+issued_by: Bộ Xây dựng
+effective_date: '1990-05-30'
+signer: Bộ Xây dựng
+pdf_path: ./sources/tcvn_5065_1990.pdf
+pdf_sha256: 1a9772549507c803f865be36bf350aef8960f50b270810f9f658a5d6a9bfdfcf
+pdf_status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+legal_basis: []
+replaces: []
+extracted_at: '2026-10-03T05:20:00.000000+00:00'
