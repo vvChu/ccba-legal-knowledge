@@ -1,0 +1,177 @@
+{
+  "table_id": "bang_01",
+  "title": "Bảng 01",
+  "rows_count": 33,
+  "columns_count": 6,
+  "headers": [
+    "STTSTTSTT",
+    "Nơi cấpNơi cấpNơi cấp",
+    "Ký hiệuKý hiệuKý hiệu",
+    "STTSTTSTT",
+    "Nơi cấpNơi cấpNơi cấp",
+    "Ký hiệuKý hiệuKý hiệu"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "333333",
+      "Nơi cấpNơi cấpNơi cấp": "Kon TumKon TumKon Tum",
+      "Ký hiệuKý hiệuKý hiệu": "KOTKOTKOT"
+    },
+    {
+      "STTSTTSTT": "343434",
+      "Nơi cấpNơi cấpNơi cấp": "Lai ChâuLai ChâuLai Châu",
+      "Ký hiệuKý hiệuKý hiệu": "LACLACLAC"
+    },
+    {
+      "STTSTTSTT": "353535",
+      "Nơi cấpNơi cấpNơi cấp": "Lâm ĐồngLâm ĐồngLâm Đồng",
+      "Ký hiệuKý hiệuKý hiệu": "LADLADLAD"
+    },
+    {
+      "STTSTTSTT": "363636",
+      "Nơi cấpNơi cấpNơi cấp": "Lạng SơnLạng SơnLạng Sơn",
+      "Ký hiệuKý hiệuKý hiệu": "LASLASLAS"
+    },
+    {
+      "STTSTTSTT": "373737",
+      "Nơi cấpNơi cấpNơi cấp": "Lào CaiLào CaiLào Cai",
+      "Ký hiệuKý hiệuKý hiệu": "LCALCALCA"
+    },
+    {
+      "STTSTTSTT": "383838",
+      "Nơi cấpNơi cấpNơi cấp": "Long AnLong AnLong An",
+      "Ký hiệuKý hiệuKý hiệu": "LOALOALOA"
+    },
+    {
+      "STTSTTSTT": "393939",
+      "Nơi cấpNơi cấpNơi cấp": "Nam ĐịnhNam ĐịnhNam Định",
+      "Ký hiệuKý hiệuKý hiệu": "NADNADNAD"
+    },
+    {
+      "STTSTTSTT": "404040",
+      "Nơi cấpNơi cấpNơi cấp": "Nghệ AnNghệ AnNghệ An",
+      "Ký hiệuKý hiệuKý hiệu": "NGANGANGA"
+    },
+    {
+      "STTSTTSTT": "414141",
+      "Nơi cấpNơi cấpNơi cấp": "Ninh BìnhNinh BìnhNinh Bình",
+      "Ký hiệuKý hiệuKý hiệu": "NIBNIBNIB"
+    },
+    {
+      "STTSTTSTT": "424242",
+      "Nơi cấpNơi cấpNơi cấp": "Ninh ThuậnNinh ThuậnNinh Thuận",
+      "Ký hiệuKý hiệuKý hiệu": "NITNITNIT"
+    },
+    {
+      "STTSTTSTT": "434343",
+      "Nơi cấpNơi cấpNơi cấp": "Phú ThọPhú ThọPhú Thọ",
+      "Ký hiệuKý hiệuKý hiệu": "PHTPHTPHT"
+    },
+    {
+      "STTSTTSTT": "444444",
+      "Nơi cấpNơi cấpNơi cấp": "Phú YênPhú YênPhú Yên",
+      "Ký hiệuKý hiệuKý hiệu": "PHYPHYPHY"
+    },
+    {
+      "STTSTTSTT": "454545",
+      "Nơi cấpNơi cấpNơi cấp": "Quảng BìnhQuảng BìnhQuảng Bình",
+      "Ký hiệuKý hiệuKý hiệu": "QUBQUBQUB"
+    },
+    {
+      "STTSTTSTT": "464646",
+      "Nơi cấpNơi cấpNơi cấp": "Quảng NamQuảng NamQuảng Nam",
+      "Ký hiệuKý hiệuKý hiệu": "QUNQUNQUN"
+    },
+    {
+      "STTSTTSTT": "474747",
+      "Nơi cấpNơi cấpNơi cấp": "Quảng NgãiQuảng NgãiQuảng Ngãi",
+      "Ký hiệuKý hiệuKý hiệu": "QNGQNGQNG"
+    },
+    {
+      "STTSTTSTT": "484848",
+      "Nơi cấpNơi cấpNơi cấp": "Quảng NinhQuảng NinhQuảng Ninh",
+      "Ký hiệuKý hiệuKý hiệu": "QNIQNIQNI"
+    },
+    {
+      "STTSTTSTT": "494949",
+      "Nơi cấpNơi cấpNơi cấp": "Quảng TrịQuảng TrịQuảng Trị",
+      "Ký hiệuKý hiệuKý hiệu": "QTRQTRQTR"
+    },
+    {
+      "STTSTTSTT": "505050",
+      "Nơi cấpNơi cấpNơi cấp": "Sóc TrăngSóc TrăngSóc Trăng",
+      "Ký hiệuKý hiệuKý hiệu": "SOTSOTSOT"
+    },
+    {
+      "STTSTTSTT": "515151",
+      "Nơi cấpNơi cấpNơi cấp": "Sơn LaSơn LaSơn La",
+      "Ký hiệuKý hiệuKý hiệu": "SOLSOLSOL"
+    },
+    {
+      "STTSTTSTT": "525252",
+      "Nơi cấpNơi cấpNơi cấp": "Tây NinhTây NinhTây Ninh",
+      "Ký hiệuKý hiệuKý hiệu": "TANTANTAN"
+    },
+    {
+      "STTSTTSTT": "535353",
+      "Nơi cấpNơi cấpNơi cấp": "Thái BìnhThái BìnhThái Bình",
+      "Ký hiệuKý hiệuKý hiệu": "THBTHBTHB"
+    },
+    {
+      "STTSTTSTT": "545454",
+      "Nơi cấpNơi cấpNơi cấp": "Thái NguyênThái NguyênThái Nguyên",
+      "Ký hiệuKý hiệuKý hiệu": "THNTHNTHN"
+    },
+    {
+      "STTSTTSTT": "555555",
+      "Nơi cấpNơi cấpNơi cấp": "Thanh HóaThanh HóaThanh Hóa",
+      "Ký hiệuKý hiệuKý hiệu": "THHTHHTHH"
+    },
+    {
+      "STTSTTSTT": "565656",
+      "Nơi cấpNơi cấpNơi cấp": "Thừa Thiên HuếThừa Thiên HuếThừa Thiên Huế",
+      "Ký hiệuKý hiệuKý hiệu": "TTHTTHTTH"
+    },
+    {
+      "STTSTTSTT": "575757",
+      "Nơi cấpNơi cấpNơi cấp": "Tiền GiangTiền GiangTiền Giang",
+      "Ký hiệuKý hiệuKý hiệu": "TIGTIGTIG"
+    },
+    {
+      "STTSTTSTT": "585858",
+      "Nơi cấpNơi cấpNơi cấp": "TP. Hồ Chí MinhTP. Hồ Chí MinhTP. Hồ Chí Minh",
+      "Ký hiệuKý hiệuKý hiệu": "HCMHCMHCM"
+    },
+    {
+      "STTSTTSTT": "595959",
+      "Nơi cấpNơi cấpNơi cấp": "Trà VinhTrà VinhTrà Vinh",
+      "Ký hiệuKý hiệuKý hiệu": "TRVTRVTRV"
+    },
+    {
+      "STTSTTSTT": "606060",
+      "Nơi cấpNơi cấpNơi cấp": "Tuyên QuangTuyên QuangTuyên Quang",
+      "Ký hiệuKý hiệuKý hiệu": "TUQTUQTUQ"
+    },
+    {
+      "STTSTTSTT": "616161",
+      "Nơi cấpNơi cấpNơi cấp": "Vĩnh LongVĩnh LongVĩnh Long",
+      "Ký hiệuKý hiệuKý hiệu": "VILVILVIL"
+    },
+    {
+      "STTSTTSTT": "626262",
+      "Nơi cấpNơi cấpNơi cấp": "Vĩnh PhúcVĩnh PhúcVĩnh Phúc",
+      "Ký hiệuKý hiệuKý hiệu": "VIPVIPVIP"
+    },
+    {
+      "STTSTTSTT": "636363",
+      "Nơi cấpNơi cấpNơi cấp": "Yên BáiYên BáiYên Bái",
+      "Ký hiệuKý hiệuKý hiệu": "YEBYEBYEB"
+    },
+    {
+      "STTSTTSTT": "",
+      "Nơi cấpNơi cấpNơi cấp": "",
+      "Ký hiệuKý hiệuKý hiệu": ""
+    }
+  ],
+  "footnotes": []
+}

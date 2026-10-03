@@ -1,0 +1,38 @@
+{
+  "table_id": "bang_03",
+  "table_number": "3",
+  "table_title": "Bảng 3 - Giới hạn tiện nghi vi khí hậu bên trong nhà ở",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Các thời kỳ trong năm",
+    "Nhiệt độ không khí $^{0}$C — Tiện nghi",
+    "Nhiệt độ không khí $^{0}$C — Giới hạn cho phép",
+    "Độ ẩm tương đối % — Tiện nghi",
+    "Độ ẩm tương đối % — Giới hạn cho phép",
+    "Tốc độ chuyển động của không khí m/s — Tiện nghi",
+    "Tốc độ chuyển động của không khí m/s — Giới hạn cho phép"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Các thời kỳ trong năm": "Lạnh",
+      "Nhiệt độ không khí $^{0}$C — Tiện nghi": "từ 22 đến 24",
+      "Nhiệt độ không khí $^{0}$C — Giới hạn cho phép": "từ 20 đến 22",
+      "Độ ẩm tương đối % — Tiện nghi": "từ 70 đến 75",
+      "Độ ẩm tương đối % — Giới hạn cho phép": "từ 75 đến 80",
+      "Tốc độ chuyển động của không khí m/s — Tiện nghi": "từ 0,2 đến 0,3",
+      "Tốc độ chuyển động của không khí m/s — Giới hạn cho phép": "0,5"
+    },
+    {
+      "_row_id": 2,
+      "Các thời kỳ trong năm": "Nóng",
+      "Nhiệt độ không khí $^{0}$C — Tiện nghi": "từ 25 đến 28",
+      "Nhiệt độ không khí $^{0}$C — Giới hạn cho phép": "29",
+      "Độ ẩm tương đối % — Tiện nghi": "75",
+      "Độ ẩm tương đối % — Giới hạn cho phép": "80",
+      "Tốc độ chuyển động của không khí m/s — Tiện nghi": "từ 0,5 đến 1,0",
+      "Tốc độ chuyển động của không khí m/s — Giới hạn cho phép": "1,5"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,40 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Độ vươn tối đa của ban công",
+  "archetype": "FOOTNOTE_RICH",
+  "headers": [
+    "Chiều rộng lộ giới",
+    "Độ vươn ra tối đa"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Chiều rộng lộ giới": "Dưới 5",
+      "Độ vươn ra tối đa": "0"
+    },
+    {
+      "_row_id": 2,
+      "Chiều rộng lộ giới": "Từ 5 đến 7",
+      "Độ vươn ra tối đa": "0,5"
+    },
+    {
+      "_row_id": 3,
+      "Chiều rộng lộ giới": "Từ 7 đến 12",
+      "Độ vươn ra tối đa": "0,9"
+    },
+    {
+      "_row_id": 4,
+      "Chiều rộng lộ giới": "Từ 12 đến 15",
+      "Độ vươn ra tối đa": "1,2"
+    },
+    {
+      "_row_id": 5,
+      "Chiều rộng lộ giới": "Trên 15",
+      "Độ vươn ra tối đa": "1,4"
+    }
+  ],
+  "footnotes": {
+    "fn_1": "**CHÚ THÍCH:**\n\n&nbsp;&nbsp;\\- Trên phần nhô ra chỉ được làm ban công, không được che chắn tạo thành lô-gia hay buồng.\n\n&nbsp;&nbsp;\\- Trường hợp lộ giới có chiều rộng trên 15 m nhưng chiều rộng vỉa hè nhỏ hơn 3 m, thì độ vươn ban công tối đa là 1,2 m."
+  }
+}

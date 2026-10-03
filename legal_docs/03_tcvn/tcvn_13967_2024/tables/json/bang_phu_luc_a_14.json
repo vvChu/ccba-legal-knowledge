@@ -1,0 +1,33 @@
+{
+  "table_id": "bang_phu_luc_a_14",
+  "table_number": "PLA_14",
+  "table_title": "Bảng Phụ lục A (Phần 14)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "1",
+    "Cầu thang bộ loại 1 (cầu thang kín, trong nhà): cầu thang bên trong nhà, được bao che kín bởi kết cấu buồng thang và cửa ra vào có khả năng chịu lửa (ngăn cháy). Tường phía ngoài có thể có lỗ mở"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "1": "2",
+      "Cầu thang bộ loại 1 (cầu thang kín, trong nhà): cầu thang bên trong nhà, được bao che kín bởi kết cấu buồng thang và cửa ra vào có khả năng chịu lửa (ngăn cháy). Tường phía ngoài có thể có lỗ mở": "Cầu thang bộ loại 2 (cầu thang bộ hở, trong nhà): cầu thang bên trong nhà, không được bao kín bởi kết cấu buồng thang, không gian cầu thang thông với các không gian khác của nhà"
+    },
+    {
+      "_row_id": 2,
+      "1": "3",
+      "Cầu thang bộ loại 1 (cầu thang kín, trong nhà): cầu thang bên trong nhà, được bao che kín bởi kết cấu buồng thang và cửa ra vào có khả năng chịu lửa (ngăn cháy). Tường phía ngoài có thể có lỗ mở": "Cầu thang bộ loại 3 (cầu thang bộ hở, ngoài nhà); cầu thang nằm phía ngoài nhà và không có buồng thang"
+    },
+    {
+      "_row_id": 3,
+      "1": "4",
+      "Cầu thang bộ loại 1 (cầu thang kín, trong nhà): cầu thang bên trong nhà, được bao che kín bởi kết cấu buồng thang và cửa ra vào có khả năng chịu lửa (ngăn cháy). Tường phía ngoài có thể có lỗ mở": "Buồng thang bộ loại L1: kết cấu bao che cầu thang bộ trong nhà, có khả năng chịu lửa (ngăn cháy), có lỗ mở lấy ánh sáng ở tường ngoài trên mỗi tầng"
+    },
+    {
+      "_row_id": 4,
+      "1": "5",
+      "Cầu thang bộ loại 1 (cầu thang kín, trong nhà): cầu thang bên trong nhà, được bao che kín bởi kết cấu buồng thang và cửa ra vào có khả năng chịu lửa (ngăn cháy). Tường phía ngoài có thể có lỗ mở": "Buồng thang bộ loại L2: kết cấu bao che cầu thang bộ trong nhà, có khả năng chịu lửa (ngăn cháy), có lỗ mở lấy ánh sáng từ trên mái của buồng thang"
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,32 @@
+id: thong_tu_07_2024_tt_bkhdt
+document_number: 07/2024/TT-BKHĐT
+type: Thông tư
+title: Thông tư số 07/2024/TT-BKHĐT quy định chi tiết mẫu hồ sơ yêu cầu, báo cáo đánh giá, báo cáo thẩm định, kiểm tra, báo cáo tình hình thực hiện hoạt động đấu thầu
+status: active
+issued_by: Bộ Kế hoạch và Đầu tư
+signer: Nguyễn Chí Dũng
+issued_date: '2024-04-26'
+effective_date: '2024-06-15'
+published_date: '2024-04-26'
+bundle_path: legal_docs/01_vbpl/thong_tu_07_2024_tt_bkhdt/
+pdf_path: legal_docs/01_vbpl/thong_tu_07_2024_tt_bkhdt/sources/thong_tu_07_2024_tt_bkhdt.pdf
+pdf_sha256: 6fb8d9a2108f2a6fe245c594bbd15925e4172801f1d7667a22d13f8158286c84
+pdf_status: verified
+cong_bao_number: Đang cập nhật
+source_file: legal_docs/01_vbpl/thong_tu_07_2024_tt_bkhdt/sources/thong_tu_07_2024_tt_bkhdt.docx
+source_file_size_kb: 1428.5
+source_assets:
+  pdf:
+    sha256: 6fb8d9a2108f2a6fe245c594bbd15925e4172801f1d7667a22d13f8158286c84
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_07_2024_tt_bkhdt/thong_tu_07_2024_tt_bkhdt.pdf
+    status: verified
+  docx:
+    sha256: ea619382dde5eff0ad9356a17876020cb69211515d5f86ec0c4f0e99062b71df
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_07_2024_tt_bkhdt/thong_tu_07_2024_tt_bkhdt.docx
+    status: verified
+relations:
+  guided_by: luat_dau_thau_2023_22_2023_qh15
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T04:43:31.818926+00:00'

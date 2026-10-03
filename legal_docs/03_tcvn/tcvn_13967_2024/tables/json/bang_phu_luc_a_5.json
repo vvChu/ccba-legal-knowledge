@@ -1,0 +1,18 @@
+{
+  "table_id": "bang_phu_luc_a_5",
+  "table_number": "PLA_5",
+  "table_title": "Bảng Phụ lục A (Phần 5)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "A",
+    "Mặt đường cho xe chữa cháy"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "A": "H",
+      "Mặt đường cho xe chữa cháy": "Chiều cao PCCC"
+    }
+  ],
+  "footnotes": []
+}

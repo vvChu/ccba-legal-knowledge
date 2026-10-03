@@ -4,7 +4,7 @@
 > [!NOTE]
 > **Đây là Tài Liệu Sống (Living Document) tự động cập nhật.**  
 > Được đồng bộ tự động bởi `scripts/sync_expansion_roadmap.py` mỗi khi có văn bản mới được nạp vào Spoke hoặc khi chạy Master CI Gate.  
-> **Lần cập nhật cuối:** `2026-10-03 11:12:20` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
+> **Lần cập nhật cuối:** `2026-10-03 12:02:43` | **Tiêu chuẩn:** OKF v2.4 Universal (ADRs 0021–0041)
 
 ---
 
@@ -12,9 +12,9 @@
 
 | Chỉ số theo dõi | Số lượng | Tỷ lệ hoàn thành | Trạng thái hệ thống |
 |:---|:---:|:---:|:---:|
-| **Hiện có trong Spoke (Active Bundles)** | **78** | **78.8%** | 🟢 Sẵn sàng phục vụ Agent |
-| **Ứng viên Đang Chờ Nạp (Pending Target)** | **21** | **21.2%** | 🟡 Trong lộ trình ưu tiên |
-| **Tổng quy mô mục tiêu giai đoạn 1** | **99** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
+| **Hiện có trong Spoke (Active Bundles)** | **82** | **82.0%** | 🟢 Sẵn sàng phục vụ Agent |
+| **Ứng viên Đang Chờ Nạp (Pending Target)** | **18** | **18.0%** | 🟡 Trong lộ trình ưu tiên |
+| **Tổng quy mô mục tiêu giai đoạn 1** | **100** | **100.0%** | 🚀 Bao phủ toàn diện 4 bộ môn |
 
 ---
 
@@ -25,14 +25,11 @@ graph TD
     subgraph T1["🔴 TIER 1: THỂ CHẾ CỐT LÕI, ĐẤU THẦU & AN TOÀN (0 Văn bản)"]
     end
 
-    subgraph T2["🟠 TIER 2: THIẾT KẾ CÔNG TRÌNH & MẪU ĐẤU THẦU (7 Văn bản)"]
-        T2_1["TCVN 13967:2024<br/>(Kiến trúc - Điểm: 9.1)"]
-        T2_2["83/VBHN-TT-BXD<br/>(Kiến trúc - Điểm: 9.1)"]
-        T2_3["07/2024/TT-BKHĐT<br/>(Đấu thầu - Điểm: 9.0)"]
-        T2_4["13/2020/TT-BGDĐT<br/>(Kiến trúc / CSVC - Điểm: 8.9)"]
-        T2_5["TCVN 5065:2024<br/>(Kiến trúc - Điểm: 8.8)"]
-        T2_6["TCVN 8793:2021<br/>(Kiến trúc - Điểm: 8.8)"]
-        T2_7["TCVN 9411:2012<br/>(Kiến trúc - Điểm: 8.7)"]
+    subgraph T2["🟠 TIER 2: THIẾT KẾ CÔNG TRÌNH & MẪU ĐẤU THẦU (4 Văn bản)"]
+        T2_1["83/VBHN-TT-BXD<br/>(Kiến trúc - Điểm: 9.1)"]
+        T2_2["13/2020/TT-BGDĐT<br/>(Kiến trúc / CSVC - Điểm: 8.9)"]
+        T2_3["TCVN 5065:2024<br/>(Kiến trúc - Điểm: 8.8)"]
+        T2_4["TCVN 8793:2021<br/>(Kiến trúc - Điểm: 8.8)"]
     end
 
     subgraph T3["🟡 TIER 3: MEP, PCCC, MÔI TRƯỜNG & CHUYÊN NGÀNH (10 Văn bản)"]
@@ -72,13 +69,10 @@ graph TD
 
 | STT | Ký hiệu văn bản | Tên quy chuẩn / tiêu chuẩn | Bộ môn | Viện dẫn | Điểm | Lệnh nạp 1-Command (Universal Ingest) |
 |:---:|:---|:---|:---:|:---:|:---:|:---|
-| 1 | **[TCVN 13967:2024](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-13967-2024-Nha-o-rieng-le-Yeu-cau-chung-ve-thiet-ke-921867.aspx)** | Nhà ở riêng lẻ — Yêu cầu chung về thiết kế | Kiến trúc | 0 | **9.1** | `python -m ccba_legal ingest "TCVN 13967:2024" --category 03_tcvn --upload-drive` |
-| 2 | **[83/VBHN-TT-BXD](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Van-ban-hop-nhat-83-VBHN-TT-BXD-2026-ho-so-thiet-ke-kien-truc-chung-chi-hanh-nghe-661204.aspx)** | Văn bản hợp nhất Thông tư quy định chi tiết một số nội dung về hồ sơ thiết kế kiến trúc và mẫu chứng chỉ hành nghề kiến trúc | Kiến trúc | 0 | **9.1** | `python -m ccba_legal ingest "83/VBHN-TT-BXD" --category 01_vbpl --upload-drive` |
-| 3 | **[07/2024/TT-BKHĐT](https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-07-2024-TT-BKH-DT-mau-ho-so-yeu-cau-bao-cao-danh-gia-kiem-tra-dau-thau-608412.aspx)** | Thông tư quy định chi tiết mẫu hồ sơ yêu cầu, báo cáo đánh giá, báo cáo thẩm định, kiểm tra, báo cáo tình hình thực hiện hoạt động đấu thầu | Đấu thầu | 0 | **9.0** | `python -m ccba_legal ingest "07/2024/TT-BKHĐT" --category 01_vbpl --upload-drive` |
-| 4 | **[13/2020/TT-BGDĐT](https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-13-2020-TT-BGDDT-tieu-chuan-co-so-vat-chat-truong-mam-non-tieu-hoc-trung-hoc-443912.aspx)** | Thông tư ban hành Quy định tiêu chuẩn cơ sở vật chất các trường mầm non, tiểu học, trung học cơ sở, trung học phổ thông và trường phổ thông có nhiều cấp học | Kiến trúc / CSVC | 0 | **8.9** | `python -m ccba_legal ingest "13/2020/TT-BGDĐT" --category 01_vbpl --upload-drive` |
-| 5 | **[TCVN 5065:2024](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-5065-2024-Khach-san-Tieu-chuan-thiet-ke-922115.aspx)** | Khách sạn — Tiêu chuẩn thiết kế | Kiến trúc | 0 | **8.8** | `python -m ccba_legal ingest "TCVN 5065:2024" --category 03_tcvn --upload-drive` |
-| 6 | **[TCVN 8793:2021](https://thuvienphapluat.vn/TCVN/Giao-duc/TCVN-8793-2021-Truong-tieu-hoc-Yeu-cau-thiet-ke-920412.aspx)** | Trường tiểu học — Yêu cầu thiết kế | Kiến trúc | 0 | **8.8** | `python -m ccba_legal ingest "TCVN 8793:2021" --category 03_tcvn --upload-drive` |
-| 7 | **[TCVN 9411:2012](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9411-2012-Nha-o-lien-ke-Tieu-chuan-thiet-ke-906967.aspx)** | Nhà ở liên kế — Tiêu chuẩn thiết kế | Kiến trúc | 0 | **8.7** | `python -m ccba_legal ingest "TCVN 9411:2012" --category 03_tcvn --upload-drive` |
+| 1 | **[83/VBHN-TT-BXD](https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Van-ban-hop-nhat-83-VBHN-TT-BXD-2026-ho-so-thiet-ke-kien-truc-chung-chi-hanh-nghe-661204.aspx)** | Văn bản hợp nhất Thông tư quy định chi tiết một số nội dung về hồ sơ thiết kế kiến trúc và mẫu chứng chỉ hành nghề kiến trúc | Kiến trúc | 0 | **9.1** | `python -m ccba_legal ingest "83/VBHN-TT-BXD" --category 01_vbpl --upload-drive` |
+| 2 | **[13/2020/TT-BGDĐT](https://thuvienphapluat.vn/van-ban/Giao-duc/Thong-tu-13-2020-TT-BGDDT-tieu-chuan-co-so-vat-chat-truong-mam-non-tieu-hoc-trung-hoc-443912.aspx)** | Thông tư ban hành Quy định tiêu chuẩn cơ sở vật chất các trường mầm non, tiểu học, trung học cơ sở, trung học phổ thông và trường phổ thông có nhiều cấp học | Kiến trúc / CSVC | 0 | **8.9** | `python -m ccba_legal ingest "13/2020/TT-BGDĐT" --category 01_vbpl --upload-drive` |
+| 3 | **[TCVN 5065:2024](https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-5065-2024-Khach-san-Tieu-chuan-thiet-ke-922115.aspx)** | Khách sạn — Tiêu chuẩn thiết kế | Kiến trúc | 0 | **8.8** | `python -m ccba_legal ingest "TCVN 5065:2024" --category 03_tcvn --upload-drive` |
+| 4 | **[TCVN 8793:2021](https://thuvienphapluat.vn/TCVN/Giao-duc/TCVN-8793-2021-Truong-tieu-hoc-Yeu-cau-thiet-ke-920412.aspx)** | Trường tiểu học — Yêu cầu thiết kế | Kiến trúc | 0 | **8.8** | `python -m ccba_legal ingest "TCVN 8793:2021" --category 03_tcvn --upload-drive` |
 
 ### 🟡 TIER 3: MEP, PCCC, Môi Trường & Chuyên Ngành Kỹ Thuật
 
@@ -140,6 +134,9 @@ graph TD
 | **23/2024/NĐ-CP** | Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc ngành, lĩnh vực quản lý | Đấu thầu | 2024-02-27 | 🟢 `INGESTED` |
 | **47/2024/QH15** | Luật Quy hoạch đô thị và nông thôn 2024 | Quy hoạch đô thị | 2025-07-01 | 🟢 `INGESTED` |
 | **98/2025/TT-BTC** | Thông tư hướng dẫn mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư thực hiện dự án đầu tư theo phương thức đối tác công tư, dự án đầu tư kinh doanh có sử dụng đất | Đấu thầu | 2025-10-27 | 🟢 `INGESTED` |
+| **TCVN 13967:2024** | Nhà ở riêng lẻ — Yêu cầu chung về thiết kế | Kiến trúc | 2024-08-26 | 🟢 `INGESTED` |
+| **07/2024/TT-BKHĐT** | Thông tư quy định chi tiết mẫu hồ sơ yêu cầu, báo cáo đánh giá, báo cáo thẩm định, kiểm tra, báo cáo tình hình thực hiện hoạt động đấu thầu | Đấu thầu | 2024-04-26 | 🟢 `INGESTED` |
+| **TCVN 9411:2012** | Nhà ở liên kế — Tiêu chuẩn thiết kế | Kiến trúc | 2012-12-20 | 🟢 `INGESTED` |
 | **349/2026/NĐ-CP** | Nghị định sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu | Đấu thầu | 2026-09-09 | 🟢 `INGESTED` |
 | **57/2024/QH15** | Luật sửa đổi, bổ sung một số điều của Luật Quy hoạch, Luật Đầu tư, Luật Đầu tư theo phương thức đối tác công tư và Luật Đấu thầu | Đấu thầu / Thể chế | 2025-01-15 | 🟢 `INGESTED` |
 | **225/2025/NĐ-CP** | Nghị định sửa đổi, bổ sung một số điều của Nghị định số 23/2024/NĐ-CP và Nghị định số 115/2024/NĐ-CP quy định chi tiết thi hành Luật Đấu thầu về lựa chọn nhà đầu tư | Đấu thầu | 2025-08-15 | 🟢 `INGESTED` |

@@ -1,0 +1,29 @@
+{
+  "table_id": "bang_phu_luc_a_16",
+  "table_number": "PLA_16",
+  "table_title": "Bảng Phụ lục A (Phần 16)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "A",
+    "Tay vịn lan can",
+    "D",
+    "Bản thang"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "A": "B",
+      "Tay vịn lan can": "Thanh lan can",
+      "D": "E",
+      "Bản thang": "Chiều rộng tính toán thoát nạn của vế thang"
+    },
+    {
+      "_row_id": 2,
+      "A": "C",
+      "Tay vịn lan can": "Vế thang",
+      "D": "",
+      "Bản thang": ""
+    }
+  ],
+  "footnotes": []
+}

@@ -1,0 +1,2099 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 57,
+    "line_end": 58
+  },
+  {
+    "clause_id": "muc-1-1",
+    "anchor": "muc-1-1",
+    "title": "1.1  Tiêu chuẩn này đưa ra các yêu cầu kỹ thuật chung về thiết kế nhà ở riêng lẻ khi xây dựng mới.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 61,
+    "line_end": 66
+  },
+  {
+    "clause_id": "muc-1-2",
+    "anchor": "muc-1-2",
+    "title": "1.2  Ngoài các yêu cầu nêu trong tiêu chuẩn này, đối với nhà ở liền kề/nhà ở liên kế có thể tham khảo thêm các yêu cầu trong TCVN 9411.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 69,
+    "line_end": 70
+  },
+  {
+    "clause_id": "muc-1-3",
+    "anchor": "muc-1-3",
+    "title": "1.3  Điều 9 áp dụng cho: nhà ở riêng lẻ sử dụng cho mục đích để ở; nhà ở riêng lẻ nằm trong khu vực hiện hữu có kết hợp các mục đích sử dụng khác phù hợp với quy định pháp luật thỏa mãn đồng thời các điều kiện sau:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 73,
+    "line_end": 86
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 89,
+    "line_end": 138
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 141,
+    "line_end": 422
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  YÊU CẦU CHUNG",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 425,
+    "line_end": 426
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Nhà ở riêng lẻ phải phù hợp với quy hoạch xây dựng, quy hoạch đô thị được cấp có thẩm quyền phê duyệt. Các giải pháp kiến trúc, kỹ thuật bảo đảm mỹ quan, tuân thủ thiết kế đô thị, quy chế quản lý kiến trúc được duyệt hoặc quy chuẩn địa phương về quy hoạch, kiến trúc (nếu có).",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 429,
+    "line_end": 430
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Trường hợp nhà ở riêng lẻ có kết hợp các mục đích sử dụng khác cần tuân thủ các quy định pháp luật liên quan các mục đích sử dụng đó và cần được thiết kế phù hợp với các tiêu chuẩn hoặc các tài liệu kỹ thuật được lựa chọn áp dụng.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 433,
+    "line_end": 434
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Không xây dựng nhà ở riêng lẻ trên các vùng có nguy cơ sạt lở, trượt đất, vùng có lũ quét, thường xuyên ngập lụt khi không có giải pháp kỹ thuật bảo đảm an toàn trong quá trình thi công xây dựng, sử dụng và an toàn cho công trình lân cận.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 437,
+    "line_end": 438
+  },
+  {
+    "clause_id": "muc-4-4",
+    "anchor": "muc-4-4",
+    "title": "4.4  Nhà ở riêng lẻ cần đáp ứng các yêu cầu sau:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 441,
+    "line_end": 450
+  },
+  {
+    "clause_id": "muc-4-5",
+    "anchor": "muc-4-5",
+    "title": "4.5  Trường hợp nhà ở riêng lẻ có người cao tuổi, người khuyết tật khuyến khích tham khảo các quy định về xây dựng công trình đảm bảo tiếp cận sử dụng nêu trong [8].",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 453,
+    "line_end": 454
+  },
+  {
+    "clause_id": "muc-4-6",
+    "anchor": "muc-4-6",
+    "title": "4.6  Giải pháp kiến trúc cần phù hợp với điều kiện tự nhiên của khu vực, tận dụng tối đa thông gió, chiếu sáng tự nhiên, bền vững và thân thiện với môi trường. Khuyến khích áp dụng các giải pháp kiến trúc, kỹ thuật nhằm sử dụng năng lượng, nước tiết kiệm, hiệu quả.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 457,
+    "line_end": 458
+  },
+  {
+    "clause_id": "muc-4-7",
+    "anchor": "muc-4-7",
+    "title": "4.7  Phương tiện quảng cáo ngoài trời (nếu có) phải được lắp đặt phù hợp với [11].",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 461,
+    "line_end": 462
+  },
+  {
+    "clause_id": "muc-4-8",
+    "anchor": "muc-4-8",
+    "title": "4.8  Hồ sơ thiết kế kiến trúc nhà ở riêng lẻ phù hợp với các yêu cầu nêu trong TCVN 5671.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 465,
+    "line_end": 466
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  YÊU CẦU VỀ QUY HOẠCH VÀ THIẾT KẾ KIẾN TRÚC",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 469,
+    "line_end": 470
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Nhà ở riêng lẻ phải tuân thủ chỉ giới xây dựng, chỉ giới đường đỏ, mật độ xây dựng, hệ số sử dụng đất, số tầng cao và các yêu cầu khác tại quy hoạch chi tiết, thiết kế đô thị, quy chế quản lý kiến trúc được phê duyệt, quy chuẩn kỹ thuật địa phương (nếu có) và phù hợp với yêu cầu nêu tại 5.5.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 473,
+    "line_end": 474
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Diện tích thửa đất xây dựng nhà ở riêng lẻ trong khu vực phát triển mới (nằm trong dự án đầu tư xây dựng nhà ở, dự án đầu tư xây dựng khu đô thị) không nhỏ hơn 50 $m^{2}$ và chiều rộng mặt tiền của nhà không nhỏ hơn:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 477,
+    "line_end": 482
+  },
+  {
+    "clause_id": "muc-5-3",
+    "anchor": "muc-5-3",
+    "title": "5.3  Khoảng lùi tối thiểu của nhà ở riêng lẻ:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 485,
+    "line_end": 486
+  },
+  {
+    "clause_id": "muc-5-3-1",
+    "anchor": "muc-5-3-1",
+    "title": "5.3.1  Trong khu vực phát triển mới: khoảng lùi của các công trình tiếp giáp với đường giao thông được quy định tại đồ án quy hoạch chi tiết và thiết kế đô thị, đồng thời cần tuân thủ yêu cầu về khoảng lùi của công trình nêu trong [1].",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 489,
+    "line_end": 490
+  },
+  {
+    "clause_id": "muc-5-3-2",
+    "anchor": "muc-5-3-2",
+    "title": "5.3.2  Trong khu vực hiện hữu: khoảng lùi được xác định trong quy hoạch chi tiết, đồ án cải tạo chỉnh trang (nếu có), thiết kế đô thị, quy chế quản lý kiến trúc được duyệt, phù hợp với các quy định về quản lý xây dựng của khu vực nhưng cần bảo đảm sự thống nhất trong tổ chức không gian trên tuyến phố hoặc một đoạn phố.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 493,
+    "line_end": 494
+  },
+  {
+    "clause_id": "muc-5-4",
+    "anchor": "muc-5-4",
+    "title": "5.4  Khoảng cách giữa các dãy nhà ở riêng lẻ liền kề được xác định trong đồ án quy hoạch chi tiết hoặc thiết kế đô thị, phù hợp yêu cầu về khoảng cách giữa các công trình nêu trong [1].",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 497,
+    "line_end": 498
+  },
+  {
+    "clause_id": "muc-5-5",
+    "anchor": "muc-5-5",
+    "title": "5.5  Mật độ xây dựng thuần tối đa của thửa đất/lô đất xây dựng nhà ở riêng lẻ được quy định tại đồ án quy hoạch chi tiết và thiết kế đô thị. Trong khu vực hiện hữu, các thửa đất/lô đất xây dựng nhà ở riêng lẻ có diện tích không lớn hơn 100 $m^{2}$ có thể được xây dựng đến mật độ tối đa là 100 % nhưng cần bảo đảm chiều cao nhà không lớn hơn 25 m đồng thời phù hợp yêu cầu nêu tại 5.3.2.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 501,
+    "line_end": 502
+  },
+  {
+    "clause_id": "muc-5-6",
+    "anchor": "muc-5-6",
+    "title": "5.6  Các phòng/không gian chức năng cơ bản trong nhà ở riêng lẻ gồm:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 505,
+    "line_end": 512
+  },
+  {
+    "clause_id": "muc-5-7",
+    "anchor": "muc-5-7",
+    "title": "5.7  Yêu cầu thiết kế các phòng/không gian chức năng trong nhà ở riêng lẻ:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 515,
+    "line_end": 520
+  },
+  {
+    "clause_id": "muc-5-8",
+    "anchor": "muc-5-8",
+    "title": "5.8  Các giải pháp thiết kế cần bảo đảm thông gió, chiếu sáng tự nhiên tối đa cho các phòng ở, phòng bếp, ăn; khuyến khích thông gió, chiếu sáng tự nhiên cho các phòng/không gian khác.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 523,
+    "line_end": 524
+  },
+  {
+    "clause_id": "muc-5-9",
+    "anchor": "muc-5-9",
+    "title": "5.9  Chiều cao thông thủy các phòng/không gian chức năng không nhỏ hơn:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 527,
+    "line_end": 534
+  },
+  {
+    "clause_id": "muc-5-10",
+    "anchor": "muc-5-10",
+    "title": "5.10  Diện tích sử dụng tối thiểu một số phòng/không gian chức năng cơ bản được nêu trong Bảng 1.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 537,
+    "line_end": 538
+  },
+  {
+    "clause_id": "bang-bang-01",
+    "anchor": "bang-bang-01",
+    "title": "Bảng 1 - Diện tích sử dụng tối thiểu một số phòng/không gian chức năng cơ bản",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 541,
+    "line_end": 554
+  },
+  {
+    "clause_id": "muc-5-11",
+    "anchor": "muc-5-11",
+    "title": "5.11  Cầu thang bộ trong nhà ở riêng lẻ cần bảo đảm các yêu cầu sau:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 557,
+    "line_end": 572
+  },
+  {
+    "clause_id": "muc-5-12",
+    "anchor": "muc-5-12",
+    "title": "5.12  Các bộ phận, chi tiết kiến trúc của các nhà tiếp giáp với tuyến đường (ban công, ô văng, mái đua, v.v.) cần tuân thủ quy hoạch chi tiết, thiết kế đô thị, quy chế quản lý kiến trúc được duyệt và các quy định về quản lý xây dựng của khu vực.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 575,
+    "line_end": 576
+  },
+  {
+    "clause_id": "muc-5-13",
+    "anchor": "muc-5-13",
+    "title": "5.13  Sàn, nền nhà:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 579,
+    "line_end": 590
+  },
+  {
+    "clause_id": "muc-5-14",
+    "anchor": "muc-5-14",
+    "title": "5.14  Cửa đi, cửa sổ, cửa thông gió, cửa lấy sáng trên tường bao, vách kính trong và ngoài nhà:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 593,
+    "line_end": 606
+  },
+  {
+    "clause_id": "muc-5-15",
+    "anchor": "muc-5-15",
+    "title": "5.15  Hàng rào, cổng, trụ cổng:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 609,
+    "line_end": 618
+  },
+  {
+    "clause_id": "muc-5-16",
+    "anchor": "muc-5-16",
+    "title": "5.16  Giới hạn ngoài cùng của các kết cấu ngầm không được vượt quá ranh giới thửa đất, chỉ giới đường đỏ.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 621,
+    "line_end": 622
+  },
+  {
+    "clause_id": "muc-5-17",
+    "anchor": "muc-5-17",
+    "title": "5.17  Tầng hầm, tầng nửa/bán hầm:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 625,
+    "line_end": 630
+  },
+  {
+    "clause_id": "muc-6",
+    "anchor": "muc-6",
+    "title": "6  YÊU CẦU VỀ KẾT CẤU VÀ VẬT LIỆU",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 633,
+    "line_end": 634
+  },
+  {
+    "clause_id": "muc-6-1",
+    "anchor": "muc-6-1",
+    "title": "6.1  Kết cấu nhà cần được tính toán chịu các tải trọng và tổ hợp tải trọng bất lợi nhất tác động lên nó theo các chỉ dẫn nêu trong TCVN 2737:2023 với các số liệu điều kiện tự nhiên dùng trong xây dựng theo [3].",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 637,
+    "line_end": 638
+  },
+  {
+    "clause_id": "muc-6-2",
+    "anchor": "muc-6-2",
+    "title": "6.2  Kết cấu nhà cần được thiết kế phù hợp với các yêu cầu nêu trong các tiêu chuẩn về thiết kế kết cấu xây dựng, nền và móng tùy theo loại vật liệu sử dụng, như TCVN 5573, TCVN 5574, TCVN 5575, TCVN 9362, TCVN 10304 và các tiêu chuẩn khác có liên quan.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 641,
+    "line_end": 642
+  },
+  {
+    "clause_id": "muc-6-3",
+    "anchor": "muc-6-3",
+    "title": "6.3  Ưu tiên sử dụng vật liệu bảo đảm cách âm, cách nhiệt và độ bền lâu dưới tác động của khí hậu, xâm thực của môi trường xung quanh, các tác nhân sinh học và các tác động có hại khác.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 645,
+    "line_end": 646
+  },
+  {
+    "clause_id": "muc-6-4",
+    "anchor": "muc-6-4",
+    "title": "6.4  Vật liệu xây dựng cần phù hợp với điều kiện tự nhiên, khí hậu của khu vực. Khuyến khích sử dụng vật liệu tái chế, tái sử dụng và thân thiện với môi trường cũng như các vật liệu địa phương nhằm giảm giá thành xây dựng.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 649,
+    "line_end": 650
+  },
+  {
+    "clause_id": "muc-6-5",
+    "anchor": "muc-6-5",
+    "title": "6.5  Vật liệu xây dựng cho mặt ngoài nhà phải phù hợp với phong cách kiến trúc và hài hòa với kiến trúc và cảnh quan của khu vực. Ưu tiên sử dụng các loại vật liệu có độ bền cao, ít bám bụi. Hạn chế sử dụng các loại vật liệu phản quang cho các mặt ngoài nhà tiếp giáp với đường giao thông.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 653,
+    "line_end": 654
+  },
+  {
+    "clause_id": "muc-7",
+    "anchor": "muc-7",
+    "title": "7  YÊU CẦU VỀ HỆ THỐNG KỸ THUẬT BÊN TRONG CÔNG TRÌNH",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 657,
+    "line_end": 658
+  },
+  {
+    "clause_id": "muc-7-1",
+    "anchor": "muc-7-1",
+    "title": "7.1  Cấp nước",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 661,
+    "line_end": 662
+  },
+  {
+    "clause_id": "muc-7-1-1",
+    "anchor": "muc-7-1-1",
+    "title": "7.1.1  Hệ thống cấp nước cần được thiết kế đáp ứng nhu cầu sử dụng phù hợp với các yêu cầu nêu trong TCVN 4513, bảo đảm chất lượng nước sạch sử dụng cho mục đích sinh hoạt [2].",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 665,
+    "line_end": 666
+  },
+  {
+    "clause_id": "muc-7-1-2",
+    "anchor": "muc-7-1-2",
+    "title": "7.1.2  Mạng lưới đường ống cấp nước chính bên trong nhà nên được đặt trong hộp kỹ thuật, hạn chế bố trí chung với các đường ống thông gió, thông hơi và cấp điện.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 669,
+    "line_end": 670
+  },
+  {
+    "clause_id": "muc-7-1-3",
+    "anchor": "muc-7-1-3",
+    "title": "7.1.3  Đối với các nhà có hệ thống cấp nước chữa cháy thì phải tính toán lưu lượng, cột áp bảo đảm cho hệ thống hoạt động phù hợp yêu cầu về an toàn cháy [6].",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 673,
+    "line_end": 674
+  },
+  {
+    "clause_id": "muc-7-2",
+    "anchor": "muc-7-2",
+    "title": "7.2  Thoát nước",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 677,
+    "line_end": 678
+  },
+  {
+    "clause_id": "muc-7-2-1",
+    "anchor": "muc-7-2-1",
+    "title": "7.2.1  Hệ thống thoát nước bên trong nhà cần được thiết kế phù hợp với các yêu cầu nêu trong TCVN 4474.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 681,
+    "line_end": 682
+  },
+  {
+    "clause_id": "muc-7-2-2",
+    "anchor": "muc-7-2-2",
+    "title": "7.2.2  Không xả nước thải trực tiếp lên mặt hè, đường phố mà phải theo xả vào hệ thống thoát nước nước thải chung.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 685,
+    "line_end": 686
+  },
+  {
+    "clause_id": "muc-7-2-3",
+    "anchor": "muc-7-2-3",
+    "title": "7.2.3  Không xả nước mưa và nước thải sang nhà liền kề.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 689,
+    "line_end": 690
+  },
+  {
+    "clause_id": "muc-7-2-4",
+    "anchor": "muc-7-2-4",
+    "title": "7.2.4  Hệ thống thoát nước của nhà cần được nối đúng công năng với hệ thống thoát nước chung của khu dân cư hoặc mạng lưới thoát nước của khu vực.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 693,
+    "line_end": 694
+  },
+  {
+    "clause_id": "muc-7-2-5",
+    "anchor": "muc-7-2-5",
+    "title": "7.2.5  Cần bố trí bể tự hoại để xử lý nước thải của khu vệ sinh trước khi thải vào vào hệ thống thoát nước chung của đô thị, khu dân cư. Bể tự hoại cần bảo đảm độ kín để không rò rỉ nước thải ra môi trường xung quanh.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 697,
+    "line_end": 698
+  },
+  {
+    "clause_id": "muc-7-2-6",
+    "anchor": "muc-7-2-6",
+    "title": "7.2.6  Khuyến khích bố trí hệ thống thu gom, tái sử dụng nước mưa cho các mục đích như tưới cây, rửa xe, rửa sân, rửa đường.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 701,
+    "line_end": 702
+  },
+  {
+    "clause_id": "muc-7-3",
+    "anchor": "muc-7-3",
+    "title": "7.3  Cấp điện",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 705,
+    "line_end": 706
+  },
+  {
+    "clause_id": "muc-7-3-1",
+    "anchor": "muc-7-3-1",
+    "title": "7.3.1  Hệ thống đường dây dẫn điện cần được thiết kế độc lập với các hệ thống kỹ thuật khác, dễ dàng thay thế, sửa chữa khi cần thiết, phù hợp với các yêu cầu nêu trong TCVN 7447-5-52 (IEC 60364-5-52) và các yêu cầu về hệ thống điện [9].",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 709,
+    "line_end": 710
+  },
+  {
+    "clause_id": "muc-7-3-2",
+    "anchor": "muc-7-3-2",
+    "title": "7.3.2  Hệ thống điện cần được bảo vệ bằng các thiết bị bảo vệ mạch điện.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 713,
+    "line_end": 714
+  },
+  {
+    "clause_id": "muc-7-3-3",
+    "anchor": "muc-7-3-3",
+    "title": "7.3.3  Tủ phân phối điện cần được:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 717,
+    "line_end": 722
+  },
+  {
+    "clause_id": "muc-7-3-4",
+    "anchor": "muc-7-3-4",
+    "title": "7.3.4  Dây (cáp) điện trong nhà nên đi ngầm trong tường, sàn. Trường hợp dây điện đi nổi trên bề mặt tường, trần nhà nên được đặt trong ống gen, máng cáp. Hạn chế bố trí dây (cáp) điện tiếp giáp với thiết bị, vật dụng dễ cháy, nổ. Trường hợp bố trí tiếp giáp phải ngăn cách bằng vật liệu không cháy.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 725,
+    "line_end": 726
+  },
+  {
+    "clause_id": "muc-7-3-5",
+    "anchor": "muc-7-3-5",
+    "title": "7.3.5  Các dây (cáp) cấp điện cho các thiết bị điện sử dụng cho mục đích khác cần được:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 729,
+    "line_end": 736
+  },
+  {
+    "clause_id": "muc-7-4",
+    "anchor": "muc-7-4",
+    "title": "7.4  Chiếu sáng",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 739,
+    "line_end": 740
+  },
+  {
+    "clause_id": "muc-7-4-1",
+    "anchor": "muc-7-4-1",
+    "title": "7.4.1  Cần tận dụng tối đa chiếu sáng tự nhiên, khuyến khích sử dụng thiết bị và áp dụng các biện pháp nhằm tiết kiệm năng lượng.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 743,
+    "line_end": 744
+  },
+  {
+    "clause_id": "muc-7-4-2",
+    "anchor": "muc-7-4-2",
+    "title": "7.4.2  Khi thiếu hoặc không có chiếu sáng tự nhiên thì chiếu sáng nhân tạo cần bảo đảm mọi hoạt động bình thường của người sử dụng.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 747,
+    "line_end": 748
+  },
+  {
+    "clause_id": "muc-7-4-3",
+    "anchor": "muc-7-4-3",
+    "title": "7.4.3  Khuyến khích bố trí chiếu sáng khẩn cấp trên đường thoát nạn [5].",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 751,
+    "line_end": 752
+  },
+  {
+    "clause_id": "muc-7-4-4",
+    "anchor": "muc-7-4-4",
+    "title": "7.4.4  Độ rọi nhỏ nhất tại các khu vực cần phù hợp với quy định nêu trong [9].",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 755,
+    "line_end": 756
+  },
+  {
+    "clause_id": "muc-7-4-5",
+    "anchor": "muc-7-4-5",
+    "title": "7.4.5  Khuyến khích sử dụng hệ thống chiếu sáng thông minh.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 759,
+    "line_end": 760
+  },
+  {
+    "clause_id": "muc-7-5",
+    "anchor": "muc-7-5",
+    "title": "7.5  Chống sét",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 763,
+    "line_end": 766
+  },
+  {
+    "clause_id": "muc-7-6",
+    "anchor": "muc-7-6",
+    "title": "7.6  Chống ồn",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 769,
+    "line_end": 772
+  },
+  {
+    "clause_id": "muc-7-7",
+    "anchor": "muc-7-7",
+    "title": "7.7  Thông gió và điều hoà không khí",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 775,
+    "line_end": 776
+  },
+  {
+    "clause_id": "muc-7-7-1",
+    "anchor": "muc-7-7-1",
+    "title": "7.7.1  Hệ thống thông gió và điều hoà không khí cần phù hợp với các yêu cầu nêu trong TCVN 5687.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 779,
+    "line_end": 780
+  },
+  {
+    "clause_id": "muc-7-7-2",
+    "anchor": "muc-7-7-2",
+    "title": "7.7.2  Cần bố trí thông gió hút thải cục bộ cho các phòng/không gian phát sinh chất ô nhiễm như bếp, phòng tắm, phòng vệ sinh, giặt là.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 783,
+    "line_end": 784
+  },
+  {
+    "clause_id": "muc-7-7-3",
+    "anchor": "muc-7-7-3",
+    "title": "7.7.3  Sử dụng các giải pháp về công nghệ, kiến trúc, kết cấu hợp lý nhằm bảo đảm yêu cầu vệ sinh môi trường và sử dụng năng lượng tiết kiệm, hiệu quả.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 787,
+    "line_end": 788
+  },
+  {
+    "clause_id": "muc-7-7-4",
+    "anchor": "muc-7-7-4",
+    "title": "7.7.4  Cần bố trí sẵn các vị trí lắp đặt hệ thống điều hoà, các ống thoát khí và thoát nước ngưng để không ảnh hưởng đến kiến trúc của công trình và thừa đất liền kề, bảo đảm an toàn, mỹ quan và vệ sinh môi trường.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 791,
+    "line_end": 792
+  },
+  {
+    "clause_id": "muc-7-8",
+    "anchor": "muc-7-8",
+    "title": "7.8  Thông tin liên lạc, viễn thông",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 795,
+    "line_end": 796
+  },
+  {
+    "clause_id": "muc-7-8-1",
+    "anchor": "muc-7-8-1",
+    "title": "7.8.1  Hệ thống thông tin liên lạc, viễn thông cần được thiết kế đồng bộ trong và ngoài nhà, bảo đảm an toàn, thuận tiện cho việc sử dụng, đấu nối với hệ thống của nhà cung cấp, đồng thời dễ dàng thay thế, sửa chữa, đáp ứng nhu cầu sử dụng.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 799,
+    "line_end": 800
+  },
+  {
+    "clause_id": "muc-7-8-2",
+    "anchor": "muc-7-8-2",
+    "title": "7.8.2  Nên bố trí sẵn ống cáp dẫn đặt bên trong tường và bảo đảm yêu cầu kỹ thuật, không ảnh hưởng tới các hệ thống kỹ thuật khác.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 803,
+    "line_end": 804
+  },
+  {
+    "clause_id": "muc-7-8-3",
+    "anchor": "muc-7-8-3",
+    "title": "7.8.3  Trường hợp sử dụng chảo thu, phát sóng cần lắp đặt tại vị trí theo quy định về quản lý đô thị của khu vực, bảo đảm an toàn và mỹ quan.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 807,
+    "line_end": 808
+  },
+  {
+    "clause_id": "muc-7-8-4",
+    "anchor": "muc-7-8-4",
+    "title": "7.8.4  Có thể lắp đặt hệ thống camera an ninh phù hợp với nhu cầu và đặc điểm của nhà.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 811,
+    "line_end": 812
+  },
+  {
+    "clause_id": "muc-7-9",
+    "anchor": "muc-7-9",
+    "title": "7.9  Thang máy",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 815,
+    "line_end": 816
+  },
+  {
+    "clause_id": "muc-7-9-1",
+    "anchor": "muc-7-9-1",
+    "title": "7.9.1  Tùy thuộc nhu cầu sử dụng, việc thiết kế, lắp đặt và lựa chọn công suất, tải trọng, vận tốc của thang máy cần phù hợp với các yêu cầu nêu trong TCVN 6396-20 (EN 81-20), TCVN 7628-1 (ISO 4190-1) và các yêu cầu kỹ thuật khác có liên quan.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 819,
+    "line_end": 820
+  },
+  {
+    "clause_id": "muc-7-9-2",
+    "anchor": "muc-7-9-2",
+    "title": "7.9.2  Thang máy cần bảo đảm tải trọng định mức không nhỏ hơn 200 kg/$m^{2}$ của sàn cabin và chịu được tối thiểu là 115 kg. Vận tốc định mức của cabin thang máy không vượt quá 0,3 m/s.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 823,
+    "line_end": 824
+  },
+  {
+    "clause_id": "muc-7-9-3",
+    "anchor": "muc-7-9-3",
+    "title": "7.9.3  Không được bố trí bể nước trực tiếp trên giếng thang máy và không cho các đường ống cấp nước, cấp nhiệt, cấp khí đốt đi qua giếng thang máy.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 827,
+    "line_end": 828
+  },
+  {
+    "clause_id": "muc-7-9-4",
+    "anchor": "muc-7-9-4",
+    "title": "7.9.4  Thang máy phải có thiết bị bảo vệ chống kẹt cửa, bộ cứu hộ tự động và hệ thống điện thoại nội bộ từ cabin ra ngoài. Thang máy phải bảo đảm chỉ được vận hành khi tất cả các cửa đều đóng và cần cài đặt chế độ tự chuyển động về tầng một/trệt hoặc tầng phía trên, phía dưới một tầng và phải tự mở cửa cho người bên trong thoát ra ngoài khi mất điện hoặc sự cố kỹ thuật.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 831,
+    "line_end": 832
+  },
+  {
+    "clause_id": "muc-7-9-5",
+    "anchor": "muc-7-9-5",
+    "title": "7.9.5  Thang máy cần bảo đảm an toàn theo các yêu cầu về thang máy và hướng dẫn của nhà sản xuất.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 835,
+    "line_end": 836
+  },
+  {
+    "clause_id": "muc-8",
+    "anchor": "muc-8",
+    "title": "8  YÊU CẦU VỀ CÔNG TÁC HOÀN THIỆN",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 839,
+    "line_end": 840
+  },
+  {
+    "clause_id": "muc-8-1",
+    "anchor": "muc-8-1",
+    "title": "8.1  Công tác hoàn thiện cần phù hợp với các yêu cầu nêu trong TCVN 9377.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 843,
+    "line_end": 844
+  },
+  {
+    "clause_id": "muc-8-2",
+    "anchor": "muc-8-2",
+    "title": "8.2  Thiết kế mặt ngoài nhà cần hài hòa giữa các yếu tố như vật liệu, màu sắc, chi tiết trang trí, hòa nhập với cảnh quan khu vực, phù hợp với công năng sử dụng.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 847,
+    "line_end": 848
+  },
+  {
+    "clause_id": "muc-8-3",
+    "anchor": "muc-8-3",
+    "title": "8.3  Công tác hoàn thiện ngoại thất, sử dụng vật liệu, màu sắc cần phải tuân thủ quy hoạch chi tiết, thiết kế đô thị, quy chế quản lý kiến trúc tại khu vực đó.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 851,
+    "line_end": 852
+  },
+  {
+    "clause_id": "muc-8-4",
+    "anchor": "muc-8-4",
+    "title": "8.4  Khi lắp đặt, sử dụng bồn nước đặt trên mái cần có giải pháp kết cấu bảo đảm an toàn và che chắn bảo đảm mỹ quan.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 855,
+    "line_end": 858
+  },
+  {
+    "clause_id": "muc-8-5",
+    "anchor": "muc-8-5",
+    "title": "8.5  Các chi tiết kiến trúc của mặt đứng như: cửa sổ, cửa đi, lan can, ban công, lô gia, gờ phào, chi tiết mái v.v. cần bảo đảm an toàn cho người sử dụng, không ảnh hưởng đến hoạt động của thiết bị và phương tiện bảo trì ngoài nhà.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 861,
+    "line_end": 862
+  },
+  {
+    "clause_id": "muc-9",
+    "anchor": "muc-9",
+    "title": "9  YÊU CẦU VỀ AN TOÀN CHÁY",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 865,
+    "line_end": 866
+  },
+  {
+    "clause_id": "muc-9-1",
+    "anchor": "muc-9-1",
+    "title": "9.1  Yêu cầu chung",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 869,
+    "line_end": 870
+  },
+  {
+    "clause_id": "muc-9-1-1",
+    "anchor": "muc-9-1-1",
+    "title": "9.1.1  Các thuật ngữ, khái niệm, phân loại chung về an toàn cháy được định nghĩa theo [6], ngoại trừ các trường hợp được nêu riêng trong Điều 9 này.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 873,
+    "line_end": 874
+  },
+  {
+    "clause_id": "muc-9-1-2",
+    "anchor": "muc-9-1-2",
+    "title": "9.1.2  Khi xem xét áp dụng các yêu cầu về an toàn cháy, số tầng (chiều cao PCCC) của nhà được tính đến tầng cao nhất có người sử dụng với điều kiện: các tầng phía trên đó không có người sử dụng và không tập kết hoặc lưu giữ chất, vật liệu cháy được; đồng thời có giải pháp ngăn cháy với khu vực có người sử dụng và vẫn bảo đảm lối đi theo thang bộ lên mái qua các tầng này.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 877,
+    "line_end": 878
+  },
+  {
+    "clause_id": "muc-9-1-3",
+    "anchor": "muc-9-1-3",
+    "title": "9.1.3  Các chỉ tiêu diện tích và không gian của nhà được xác định theo nguyên tắc nêu trong TCVN 9255. Các sai số (nếu có) cần bảo đảm phù hợp với TCVN 5593 và [6].",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 881,
+    "line_end": 882
+  },
+  {
+    "clause_id": "muc-9-1-4",
+    "anchor": "muc-9-1-4",
+    "title": "9.1.4  Khi xem xét các yêu cầu về an toàn cháy có liên quan đến hành lang bên, nêu tại Điều 9, mặt tiếp xúc với không gian bên ngoài cần bảo đảm điều kiện thông gió sau:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 885,
+    "line_end": 890
+  },
+  {
+    "clause_id": "muc-9-1-5",
+    "anchor": "muc-9-1-5",
+    "title": "9.1.5  Các yêu cầu nêu từ 9.1.6 đến 9.1.10 cần áp dụng khi được tham chiếu trong các yêu cầu cụ thể. Để đạt được mục đích an toàn cháy cho nhà, tùy theo quy mô và mục đích sử dụng, cần áp dụng các yêu cầu cụ thể nêu tại 9.2 và 9.3 hoặc áp dụng các yêu cầu phù hợp với tài liệu chuẩn được lựa chọn áp dụng hoặc áp dụng các giải pháp thay thế khác đáp ứng được các mục đích an toàn cháy nêu tại 9.2.1 và 9.3.1.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 893,
+    "line_end": 902
+  },
+  {
+    "clause_id": "muc-9-1-6",
+    "anchor": "muc-9-1-6",
+    "title": "9.1.6  Việc ngăn chặn cháy lan sang nhà liền kề (hoặc ngược lại) cần được thực hiện theo một trong hai yêu cầu cơ bản sau:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 905,
+    "line_end": 910
+  },
+  {
+    "clause_id": "muc-9-1-7",
+    "anchor": "muc-9-1-7",
+    "title": "9.1.7  Cần có giải pháp ngăn chặn, không để lan truyền lửa và các sản phẩm cháy giữa các khu vực khác nhau trong nhà (ví dụ: để bảo vệ đường thoát nạn, hoặc để ngăn cách khu vực có nguy cơ phát sinh cháy cao, hoặc để ngăn cách khu vực ở với các khu vực có công năng khác, v.v.). Nếu sử dụng giải pháp ngăn chặn là bộ phận ngăn cháy (tường, vách) thì có thể tham khảo các giải pháp cấu tạo sau, hoặc sử dụng kết hợp:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 913,
+    "line_end": 942
+  },
+  {
+    "clause_id": "muc-9-1-8",
+    "anchor": "muc-9-1-8",
+    "title": "9.1.8  Để lực lượng chữa cháy có thể tiếp cận và triển khai công tác chữa cháy và cứu nạn một cách hiệu quả, cần lưu ý các yêu cầu cơ bản sau:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 945,
+    "line_end": 950
+  },
+  {
+    "clause_id": "muc-9-1-9",
+    "anchor": "muc-9-1-9",
+    "title": "9.1.9  Bố trí và duy trì các lối ra khẩn cấp bằng một hoặc kết hợp của các lối ra dưới đây (xem Hình A.13 đến Hình A.15, Phụ lục A):",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 953,
+    "line_end": 964
+  },
+  {
+    "clause_id": "muc-9-1-10",
+    "anchor": "muc-9-1-10",
+    "title": "9.1.10  Khi bố trí lối ra khẩn cấp theo 9.1.9 cần có thêm các phương tiện, thiết bị hỗ trợ thoát nạn (ví dụ: thang P1, P2, thang ngoài nhà, thang leo tự hạ qua cửa nắp tại ban công, lô gia, cầu thang tích hợp lan can tự hạ (xem các hình A.17, A.18 và A.31 trong Phụ lục A), thang dây, ống tụt và các thiết bị hỗ trợ thoát nạn khác) để từ đó thoát xuống dưới và di chuyển ra xa nhà. Các thang ngoài nhà có chiều cao từ 10 m trở lên (đo từ bậc trên cùng xuống mặt đất tại vị trí đặt thang) phải có biện pháp bảo vệ an toàn cho người sử dụng (ví dụ: lan can, song sắt, lồng bảo vệ, v.v.).",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 967,
+    "line_end": 970
+  },
+  {
+    "clause_id": "muc-9-2",
+    "anchor": "muc-9-2",
+    "title": "9.2  Nhà ở riêng lẻ chỉ sử dụng cho mục đích ở",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 973,
+    "line_end": 974
+  },
+  {
+    "clause_id": "muc-9-2-1",
+    "anchor": "muc-9-2-1",
+    "title": "9.2.1  Yêu cầu chung",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 977,
+    "line_end": 978
+  },
+  {
+    "clause_id": "muc-9-2-1-1",
+    "anchor": "muc-9-2-1-1",
+    "title": "9.2.1.1  Các giải pháp an toàn cháy cần được xem xét áp dụng phù hợp với các giải pháp an ninh của nhà (nếu có) để đạt được mục đích về an toàn sinh mạng khi xảy ra cháy, cụ thể như sau:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 981,
+    "line_end": 986
+  },
+  {
+    "clause_id": "muc-9-2-1-2",
+    "anchor": "muc-9-2-1-2",
+    "title": "9.2.1.2  Để bảo đảm an toàn cháy cho người trong nhà, cần thực hiện theo nguyên tắc cơ bản: bố trí và duy trì lối ra thoát nạn (các vị trí cửa ra) và đường thoát nạn (bao gồm các hành lang, cầu thang bộ, buồng thang bộ) để toàn bộ người trong nhà thoát được ra bên ngoài một cách an toàn hoặc di chuyển sang nhà liền kề. Cửa đi được lắp đặt trên lối ra thoát nạn tại tầng một/trệt cần mở được từ bên trong dễ dàng, nhanh chóng. Các cửa vận hành bằng điện ở điều kiện nhà hoạt động bình thường (khi không có cháy) cần mở được nhanh chóng ngay cả khi mất điện.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 989,
+    "line_end": 990
+  },
+  {
+    "clause_id": "muc-9-2-1-3",
+    "anchor": "muc-9-2-1-3",
+    "title": "9.2.1.3  Nên trang bị các dụng cụ phá dỡ tại gần các vị trí lối ra thoát nạn hoặc lối ra khẩn cấp của nhà để nhanh chóng mở được các cửa trên lối ra khi cần thiết.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 993,
+    "line_end": 994
+  },
+  {
+    "clause_id": "muc-9-2-2",
+    "anchor": "muc-9-2-2",
+    "title": "9.2.2  Bảo đảm an toàn cháy cho người",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 997,
+    "line_end": 998
+  },
+  {
+    "clause_id": "muc-9-2-2-1",
+    "anchor": "muc-9-2-2-1",
+    "title": "9.2.2.1  Việc tổ chức thoát nạn có thể thực hiện qua cầu thang bộ bên trong nhà, để hở (cầu thang bộ loại 2, xem Hình A.19, Phụ lục A).",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1001,
+    "line_end": 1004
+  },
+  {
+    "clause_id": "muc-9-2-2-2",
+    "anchor": "muc-9-2-2-2",
+    "title": "9.2.2.2  Khi trong nhà có bố trí khu vực có nguy cơ phát sinh cháy cao (ví dụ: khu vực để ô tô, mô tô, xe gắn máy, xe điện, hay hàng hóa, đồ đạc bằng chất hoặc vật liệu dễ bắt cháy, v.v.) ở tầng một/trệt, nơi có lối ra thoát nạn của nhà (cửa ra vào chính của nhà) hoặc ở những nơi có ảnh hưởng đến đường thoát nạn, thì nên lựa chọn áp dụng thêm giải pháp phù hợp với điều kiện cụ thể của nhà để ngăn ngừa khỏi và các sản phẩm cháy lan truyền giữa các khu vực khác nhau trong nhà.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1007,
+    "line_end": 1008
+  },
+  {
+    "clause_id": "muc-9-2-3",
+    "anchor": "muc-9-2-3",
+    "title": "9.2.3  Ngăn chặn cháy lan sang nhà liền kề",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1011,
+    "line_end": 1014
+  },
+  {
+    "clause_id": "muc-9-3",
+    "anchor": "muc-9-3",
+    "title": "9.3  Nhà ở riêng lẻ có kết hợp các mục đích sử dụng khác",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1017,
+    "line_end": 1018
+  },
+  {
+    "clause_id": "muc-9-3-1",
+    "anchor": "muc-9-3-1",
+    "title": "9.3.1  Yêu cầu chung",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1021,
+    "line_end": 1022
+  },
+  {
+    "clause_id": "muc-9-3-1-1",
+    "anchor": "muc-9-3-1-1",
+    "title": "9.3.1.1  Các giải pháp an toàn cháy cần được xem xét áp dụng phù hợp với các giải pháp an ninh của nhà (nếu có) để bảo đảm an toàn sinh mạng khi xảy ra cháy, ngoài các yêu cầu nêu tại 9.2.1.1 cần bổ sung các yêu cầu sau:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1025,
+    "line_end": 1032
+  },
+  {
+    "clause_id": "muc-9-3-1-2",
+    "anchor": "muc-9-3-1-2",
+    "title": "9.3.1.2  Để bảo đảm an toàn cháy cho người trong nhà, ngoài các yêu cầu nêu tại 9.2.1.2, cần lưu ý thêm các yêu cầu sau:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1035,
+    "line_end": 1050
+  },
+  {
+    "clause_id": "muc-9-3-1-3",
+    "anchor": "muc-9-3-1-3",
+    "title": "9.3.1.3  Cần trang bị hệ thống báo cháy hoặc /và thiết bị báo cháy cục bộ trong nhà và bố trí vị trí đặt các phương tiện phòng cháy và chữa cháy.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1053,
+    "line_end": 1054
+  },
+  {
+    "clause_id": "muc-9-3-1-4",
+    "anchor": "muc-9-3-1-4",
+    "title": "9.3.1.4  Khi nhà có một phần diện tích sàn xây dựng được sử dụng để làm:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1057,
+    "line_end": 1070
+  },
+  {
+    "clause_id": "muc-9-3-2",
+    "anchor": "muc-9-3-2",
+    "title": "9.3.2  Các trường hợp kết hợp",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1073,
+    "line_end": 1087
+  },
+  {
+    "clause_id": "formula-1",
+    "anchor": "formula-1",
+    "title": "$$\\dots \\qquad (1)$$",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1090,
+    "line_end": 1112
+  },
+  {
+    "clause_id": "muc-9-3-3",
+    "anchor": "muc-9-3-3",
+    "title": "9.3.3  Trường hợp 1",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1115,
+    "line_end": 1116
+  },
+  {
+    "clause_id": "muc-9-3-3-1",
+    "anchor": "muc-9-3-3-1",
+    "title": "9.3.3.1  Xác định các yêu cầu an toàn cháy cụ thể dựa trên quy mô sau:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1119,
+    "line_end": 1124
+  },
+  {
+    "clause_id": "muc-9-3-3-2",
+    "anchor": "muc-9-3-3-2",
+    "title": "9.3.3.2  Đối với các nhà nêu tại đoạn a) của 9.3.3.1 cho phép thực hiện theo các yêu cầu nêu tại 9.2.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1127,
+    "line_end": 1130
+  },
+  {
+    "clause_id": "muc-9-3-3-3",
+    "anchor": "muc-9-3-3-3",
+    "title": "9.3.3.3  Bảo đảm an toàn cho người",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1133,
+    "line_end": 1134
+  },
+  {
+    "clause_id": "muc-9-3-3-3-1",
+    "anchor": "muc-9-3-3-3-1",
+    "title": "9.3.3.3.1  Lối ra thoát nạn và đường thoát nạn cần phù hợp với các yêu cầu nêu tại các đoạn a), b) và c) của 9.3.3.3.1 này cùng các yêu cầu nêu từ 9.3.3.3.2 đến 9.3.3.3.4:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1137,
+    "line_end": 1146
+  },
+  {
+    "clause_id": "muc-9-3-3-3-2",
+    "anchor": "muc-9-3-3-3-2",
+    "title": "9.3.3.3.2  Đối với nhà cao không quá 3 tầng và chiều cao PCCC không quá 15 m có thể tổ chức thoát nạn qua cầu thang bộ loại 2.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1149,
+    "line_end": 1150
+  },
+  {
+    "clause_id": "muc-9-3-3-3-3",
+    "anchor": "muc-9-3-3-3-3",
+    "title": "9.3.3.3.3  Đối với nhà có từ 4 tầng trở lên hoặc chiều cao PCCC lớn hơn 15 m, việc tổ chức thoát nạn cần thực hiện qua buồng thang bộ (buồng thang bộ này phải có lối ra ngoài trực tiếp); hoặc cầu thang bộ loại 3; hoặc cầu thang bộ loại 2 đối với nhà có hành lang bên.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1153,
+    "line_end": 1164
+  },
+  {
+    "clause_id": "muc-9-3-3-3-4",
+    "anchor": "muc-9-3-3-3-4",
+    "title": "9.3.3.3.4  Tầng hầm hoặc nửa/bán hầm có diện tích lớn hơn 300 $m^{2}$ hoặc có số người sử dụng trên 15 người cần bố trí 2 lối ra thoát nạn. Cho phép sử dụng đường dốc làm lối ra thoát nạn của tầng hầm hoặc nửa/bán hầm.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1167,
+    "line_end": 1168
+  },
+  {
+    "clause_id": "muc-9-3-3-4",
+    "anchor": "muc-9-3-3-4",
+    "title": "9.3.3.4  Ngăn chặn cháy lan sang nhà liền kề",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1171,
+    "line_end": 1174
+  },
+  {
+    "clause_id": "muc-9-3-3-5",
+    "anchor": "muc-9-3-3-5",
+    "title": "9.3.3.5  Ngăn chặn cháy lan trong nhà",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1177,
+    "line_end": 1178
+  },
+  {
+    "clause_id": "muc-9-3-3-5-1",
+    "anchor": "muc-9-3-3-5-1",
+    "title": "9.3.3.5.1  Khi trong nhà có khu vực với nguy cơ phát sinh cháy cao (ví dụ: khu vực để ô tô, mô tô, xe gắn máy, xe điện, hay hàng hóa, đồ đạc bằng chất hoặc vật liệu dễ bắt cháy, v.v.) ở tầng một/trệt, nơi có lối ra thoát nạn (cửa ra vào chính của nhà) hoặc ở những nơi có ảnh hưởng đến đường thoát nạn, thì cần ngăn cách khu vực này với lối ra thoát nạn, đường thoát nạn bằng các giải pháp nêu tại 9.1.7.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1181,
+    "line_end": 1182
+  },
+  {
+    "clause_id": "muc-9-3-3-5-2",
+    "anchor": "muc-9-3-3-5-2",
+    "title": "9.3.3.5.2  Cho phép không áp dụng các giải pháp nêu tại 9.1.7 khi bảo đảm một trong các điều kiện sau:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1185,
+    "line_end": 1198
+  },
+  {
+    "clause_id": "muc-9-3-3-5-3",
+    "anchor": "muc-9-3-3-5-3",
+    "title": "9.3.3.5.3  Đối với các phần giếng thang máy nằm trong tầng hầm hoặc tầng nửa/bán hầm có sàn cách cao độ mặt đất đặt nhà lớn hơn 0,5 m, cần bảo đảm ít nhất một trong hai yêu cầu sau:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1201,
+    "line_end": 1208
+  },
+  {
+    "clause_id": "muc-9-3-3-5-4",
+    "anchor": "muc-9-3-3-5-4",
+    "title": "9.3.3.5.4  Khu vực để ô tô, mô tô, xe gắn máy (tầng hầm, tầng nửa/bán hầm có sàn cách cao độ mặt đất đặt nhà lớn hơn 0,5 m) phải được ngăn với khu vực khác, cầu thang bộ, thang máy và các lỗ thông tầng khác của nhà bằng vách hoặc màn ngăn cháy có giới hạn chịu lửa không thấp hơn El 45 và có lối thoát nạn riêng qua đường dốc (xem Hình A.28, Phụ lục A).",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1211,
+    "line_end": 1214
+  },
+  {
+    "clause_id": "muc-9-3-3-6",
+    "anchor": "muc-9-3-3-6",
+    "title": "9.3.3.6  Chữa cháy và cứu nạn",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1217,
+    "line_end": 1220
+  },
+  {
+    "clause_id": "muc-9-3-4",
+    "anchor": "muc-9-3-4",
+    "title": "9.3.4  Trường hợp 2",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1223,
+    "line_end": 1224
+  },
+  {
+    "clause_id": "muc-9-3-4-1",
+    "anchor": "muc-9-3-4-1",
+    "title": "9.3.4.1  Đối với các nhà nêu tại đoạn a) của 9.3.3.1 thì cho phép thực hiện theo 9.2.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1227,
+    "line_end": 1228
+  },
+  {
+    "clause_id": "muc-9-3-4-2",
+    "anchor": "muc-9-3-4-2",
+    "title": "9.3.4.2  Đối với các nhà khác với các nhà nêu tại đoạn a) của 9.3.3.1 - thực hiện các yêu cầu nêu từ 9.3.4.3 đến 9.3.4.6.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1231,
+    "line_end": 1232
+  },
+  {
+    "clause_id": "muc-9-3-4-3",
+    "anchor": "muc-9-3-4-3",
+    "title": "9.3.4.3  Bảo đảm an toàn cháy cho người",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1235,
+    "line_end": 1236
+  },
+  {
+    "clause_id": "muc-9-3-4-3-1",
+    "anchor": "muc-9-3-4-3-1",
+    "title": "9.3.4.3.1  Lối ra thoát nạn và đường thoát nạn cần phù hợp với các yêu cầu nêu tại các đoạn a), b) và c) của 9.3.3.3.1 cùng các yêu cầu nêu từ 9.3.4.3.2 đến 9.3.4.3.6.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1239,
+    "line_end": 1240
+  },
+  {
+    "clause_id": "muc-9-3-4-3-2",
+    "anchor": "muc-9-3-4-3-2",
+    "title": "9.3.4.3.2  Đối với nhà có số lượng người trên mỗi tầng không quá 50 người thì khoảng cách giới hạn cho phép từ cửa gian phòng (không kể gian phòng nằm bên trong) đến lối ra thoát nạn gần nhất không quá 40 m trong trường hợp cửa gian phòng nằm giữa hai cầu thang bộ hoặc 25 m trong trường hợp cửa gian phòng nằm trên hành lang cụt. Đối với nhà có số lượng người trên mỗi tầng lớn hơn 50 người thì khoảng cách giới hạn cho phép từ cửa gian phòng (không kể gian phòng nằm bên trong) đến lối ra thoát nạn gần nhất cần phù hợp với quy định [6].",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1243,
+    "line_end": 1244
+  },
+  {
+    "clause_id": "muc-9-3-4-3-3",
+    "anchor": "muc-9-3-4-3-3",
+    "title": "9.3.4.3.3  Số lối ra thoát nạn của gian phòng, của tầng và của nhà cần phù hợp với quy định [6]. Trong một số trường hợp cụ thể, có thể bố trí lối ra thoát nạn theo các yêu cầu nêu từ 9.3.4.3.4 đến 9.3.4.3.6.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1247,
+    "line_end": 1248
+  },
+  {
+    "clause_id": "muc-9-3-4-3-4",
+    "anchor": "muc-9-3-4-3-4",
+    "title": "9.3.4.3.4  Đối với nhà có 2 tầng mà có bố trí lối ra khẩn cấp nêu tại 9.1.9 và số người tại tầng 2 không quá 50 người, thì có thể bố trí một lối ra thoát nạn từ tầng 2 qua cầu thang bộ loại 2.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1251,
+    "line_end": 1252
+  },
+  {
+    "clause_id": "muc-9-3-4-3-5",
+    "anchor": "muc-9-3-4-3-5",
+    "title": "9.3.4.3.5  Đối với nhà có từ 3 tầng trở lên, số lối ra thoát nạn từ các tầng cần được thực hiện theo 3.2.6 của [6]. Để thoát nạn cần sử dụng buồng thang bộ có lối ra ngoài trực tiếp; hoặc cầu thang bộ loại 3; hoặc cầu thang bộ loại 2 đối với nhà có hành lang bên (hoặc không gian liên thông với cầu thang bộ đó được ngăn cách với các gian phòng liền kề bằng giải pháp nêu tại 9.1.7). Tầng một/trệt (hoặc tầng có cửa ra ngoài nhà) có thể bố trí một lối thoát nạn ra ngoài nhà, khi đó mỗi tầng trên cần bố trí thêm ít nhất một lối ra khẩn cấp.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1255,
+    "line_end": 1256
+  },
+  {
+    "clause_id": "muc-9-3-4-3-6",
+    "anchor": "muc-9-3-4-3-6",
+    "title": "9.3.4.3.6  Khi phần diện tích không dùng cho mục đích ở của nhà chỉ bố trí đồ nội thất, hàng hóa bằng vật liệu không cháy hoặc cháy yếu, đồng thời nhà có bố trí lối ra khẩn cấp nêu tại 9.1.9, cho phép tổ chức thoát nạn của nhà được thực hiện theo đoạn a) hoặc b) của điều này:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1259,
+    "line_end": 1272
+  },
+  {
+    "clause_id": "muc-9-3-4-4",
+    "anchor": "muc-9-3-4-4",
+    "title": "9.3.4.4  Ngăn chặn cháy lan sang nhà liền kề",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1275,
+    "line_end": 1276
+  },
+  {
+    "clause_id": "muc-9-3-4-4-1",
+    "anchor": "muc-9-3-4-4-1",
+    "title": "9.3.4.4.1  Để ngăn ngừa cháy lan giữa các nhà liền kề, cần lựa chọn áp dụng giải pháp phù hợp với điều kiện cụ thể của nhà đáp ứng các nguyên tắc nêu tại 9.1.6.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1279,
+    "line_end": 1280
+  },
+  {
+    "clause_id": "muc-9-3-4-4-2",
+    "anchor": "muc-9-3-4-4-2",
+    "title": "9.3.4.4.2  Để bảo đảm giới hạn chịu lửa cần thiết của nhà, bộ phận chịu lực chính của nhà (cột, dầm đỡ sàn, sàn ngăn giữa các tầng hoặc tường chịu lực) cần được cấu tạo phù hợp để bảo đảm giới hạn chịu lửa tương ứng với quy mô chiều cao và diện tích, với nhóm nguy hiểm cháy theo công năng, và với tính nguy hiểm cháy theo công năng của nhà hoặc các khu vực trong nhà [6]; hoặc có thể thực hiện theo nguyên tắc sau:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1283,
+    "line_end": 1288
+  },
+  {
+    "clause_id": "muc-9-3-4-5",
+    "anchor": "muc-9-3-4-5",
+    "title": "9.3.4.5  Ngăn chặn cháy lan trong nhà",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1291,
+    "line_end": 1292
+  },
+  {
+    "clause_id": "muc-9-3-4-5-1",
+    "anchor": "muc-9-3-4-5-1",
+    "title": "9.3.4.5.1  Thực hiện các yêu cầu nêu tại 9.3.3.5.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1295,
+    "line_end": 1296
+  },
+  {
+    "clause_id": "muc-9-3-4-5-2",
+    "anchor": "muc-9-3-4-5-2",
+    "title": "9.3.4.5.2  Để ngăn cách giữa phần diện tích ở và phần diện tích sử dụng cho mục đích khác có thể lựa chọn sử dụng giải pháp phù hợp với điều kiện của nhà nêu tại 9.1.7 hoặc các bộ phận ngăn cách có cấu tạo tương đương.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1299,
+    "line_end": 1300
+  },
+  {
+    "clause_id": "muc-9-3-4-5-3",
+    "anchor": "muc-9-3-4-5-3",
+    "title": "9.3.4.5.3  Trong các tầng hầm và tầng nửa/bán hầm, không bố trí các gian phòng có sử dụng hoặc lưu giữ các chất khí và chất lỏng cháy cũng như các vật liệu dễ bắt cháy.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1303,
+    "line_end": 1304
+  },
+  {
+    "clause_id": "muc-9-3-4-5-4",
+    "anchor": "muc-9-3-4-5-4",
+    "title": "9.3.4.5.4  Cần có giải pháp phù hợp để ngăn cháy, ngăn khói lan giữa các tầng qua cầu thang bộ, giếng thang máy, trục kỹ thuật và các lỗ thông tầng khác của nhà.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1307,
+    "line_end": 1308
+  },
+  {
+    "clause_id": "muc-9-3-4-6",
+    "anchor": "muc-9-3-4-6",
+    "title": "9.3.4.6  Chữa cháy và cứu nạn",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1311,
+    "line_end": 1312
+  },
+  {
+    "clause_id": "muc-9-3-4-6-1",
+    "anchor": "muc-9-3-4-6-1",
+    "title": "9.3.4.6.1  Các yêu cầu về giao thông phục vụ tiếp cận cho lực lượng chữa cháy, cấp nước chữa cháy và cứu nạn cần phù hợp với quy hoạch được các cấp có thẩm quyền phê duyệt cũng như phù hợp với điều kiện thực tế của khu vực xây dựng nhà, trên nguyên tắc bảo đảm khả năng tiếp cận của người cảnh sát PCCC và có đủ lượng nước để chữa cháy (lượng nước chữa cháy có thể xác định theo [6] hoặc hướng dẫn của cơ quan quản lý có thẩm quyền tại địa phương).",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1315,
+    "line_end": 1316
+  },
+  {
+    "clause_id": "muc-9-3-4-6-2",
+    "anchor": "muc-9-3-4-6-2",
+    "title": "9.3.4.6.2  Đối với nhà có chiều cao PCCC không lớn hơn 15 m, khi khoảng cách từ vị trí gần nhất để đỗ xe chữa cháy (hoặc phương tiện chuyên dụng) của lực lượng cảnh sát PCCC đến điểm bất kỳ trên hình chiếu bằng của nhà lớn hơn 400 m thì cần bảo đảm công tác chữa cháy và cứu nạn theo hướng dẫn của cơ quan quản lý có thẩm quyền tại địa phương;",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1319,
+    "line_end": 1320
+  },
+  {
+    "clause_id": "muc-9-3-4-6-3",
+    "anchor": "muc-9-3-4-6-3",
+    "title": "9.3.4.6.3  Đối với nhà có chiều cao PCCC lớn hơn 15 m đến 25 m:",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1323,
+    "line_end": 1334
+  },
+  {
+    "clause_id": "muc-9-3-5",
+    "anchor": "muc-9-3-5",
+    "title": "9.3.5  Trường hợp 3",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1337,
+    "line_end": 1338
+  },
+  {
+    "clause_id": "muc-9-3-5-1",
+    "anchor": "muc-9-3-5-1",
+    "title": "9.3.5.1  Đối với các nhà nêu tại đoạn a) của 9.3.3.1 thì cho phép thực hiện theo 9.2.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1341,
+    "line_end": 1342
+  },
+  {
+    "clause_id": "muc-9-3-5-2",
+    "anchor": "muc-9-3-5-2",
+    "title": "9.3.5.2  Đối với các nhà khác với các nhà nêu tại đoạn a) của 9.3.3.1 - thực hiện các yêu cầu nêu từ 9.3.5.3 đến 9.3.5.7.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1345,
+    "line_end": 1346
+  },
+  {
+    "clause_id": "muc-9-3-5-3",
+    "anchor": "muc-9-3-5-3",
+    "title": "9.3.5.3  Bảo đảm an toàn cháy cho người",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1349,
+    "line_end": 1350
+  },
+  {
+    "clause_id": "muc-9-3-5-3-1",
+    "anchor": "muc-9-3-5-3-1",
+    "title": "9.3.5.3.1  Lối ra thoát nạn và đường thoát nạn cần bảo đảm quy định [6]. Trong một số trường hợp cụ thể, cho phép bố trí lối ra thoát nạn nêu từ 9.3.5.3.2 đến 9.3.5.3.4.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1353,
+    "line_end": 1354
+  },
+  {
+    "clause_id": "muc-9-3-5-3-2",
+    "anchor": "muc-9-3-5-3-2",
+    "title": "9.3.5.3.2  Đối với nhà có 2 tầng mà có lối ra khẩn cấp nêu tại 9.1.9 và số người trên tầng 2 không quá 20 người, thì cho phép bố trí một lối ra thoát nạn từ tầng 2 qua cầu thang bộ loại 2;",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1357,
+    "line_end": 1358
+  },
+  {
+    "clause_id": "muc-9-3-5-3-3",
+    "anchor": "muc-9-3-5-3-3",
+    "title": "9.3.5.3.3  Đối với nhà có từ 3 tầng trở lên, số lối ra thoát nạn từ các tầng cần thực hiện theo 3.2.6, 3.2.7 và 3.2.8 của [6]. Để thoát nạn cần sử dụng buồng thang bộ có lối ra ngoài trực tiếp; hoặc cầu thang bộ loại 3; hoặc cầu thang bộ loại 2 đối với nhà có hành lang bên (hoặc không gian liên thông với cầu thang bộ đó được ngăn cách với các gian phòng liền kề bằng giải pháp nêu tại 9.1.7).",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1361,
+    "line_end": 1362
+  },
+  {
+    "clause_id": "muc-9-3-5-3-4",
+    "anchor": "muc-9-3-5-3-4",
+    "title": "9.3.5.3.4  Cho phép nhà có 1 lối ra thoát nạn khi bảo đảm các yêu cầu nêu tại 9.3.4.3.6.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1365,
+    "line_end": 1366
+  },
+  {
+    "clause_id": "muc-9-3-5-4",
+    "anchor": "muc-9-3-5-4",
+    "title": "9.3.5.4  Ngăn chặn cháy lan sang nhà liền kề",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1369,
+    "line_end": 1370
+  },
+  {
+    "clause_id": "muc-9-3-5-4-1",
+    "anchor": "muc-9-3-5-4-1",
+    "title": "9.3.5.4.1  Để ngăn ngừa cháy lan giữa các nhà liền kề cần lựa chọn áp dụng giải pháp phù hợp với điều kiện cụ thể của nhà theo các nguyên tắc nêu tại 9.1.6.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1373,
+    "line_end": 1374
+  },
+  {
+    "clause_id": "muc-9-3-5-4-2",
+    "anchor": "muc-9-3-5-4-2",
+    "title": "9.3.5.4.2  Để bảo đảm giới hạn chịu lửa cần thiết của nhà, kết cấu chịu lực cần được lựa chọn phù hợp yêu cầu nêu tại 9.3.4.4.2.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1377,
+    "line_end": 1378
+  },
+  {
+    "clause_id": "muc-9-3-5-5",
+    "anchor": "muc-9-3-5-5",
+    "title": "9.3.5.5  Ngăn chặn cháy lan trong nhà",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1381,
+    "line_end": 1382
+  },
+  {
+    "clause_id": "muc-9-3-5-5-1",
+    "anchor": "muc-9-3-5-5-1",
+    "title": "9.3.5.5.1  Để ngăn chặn cháy lan trong nhà cần bảo đảm quy định [6]. Trong một số trường hợp cụ thể cho phép thực hiện các yêu cầu nêu tại 9.3.5.5.2 và 9.3.5.5.3.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1385,
+    "line_end": 1386
+  },
+  {
+    "clause_id": "muc-9-3-5-5-2",
+    "anchor": "muc-9-3-5-5-2",
+    "title": "9.3.5.5.2  Đối với các phần giếng thang máy nằm trong tầng hầm hoặc tầng nửa hầm - thực hiện các giải pháp ngăn cháy theo yêu cầu nêu tai 9.3.3.5.3.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1389,
+    "line_end": 1390
+  },
+  {
+    "clause_id": "muc-9-3-5-5-3",
+    "anchor": "muc-9-3-5-5-3",
+    "title": "9.3.5.5.3  Không yêu cầu ngăn cách khu vực có bố trí cầu thang bộ loại 2 nối thông nhiều hơn 2 tầng với các hành lang thông với nó hoặc với các gian phòng khác khi nhà được trang bị bổ sung một trong các hệ thống nêu tại các đoạn a), b) hoặc c) của 9.3.3.3.3.",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1393,
+    "line_end": 1394
+  },
+  {
+    "clause_id": "muc-9-3-5-6",
+    "anchor": "muc-9-3-5-6",
+    "title": "9.3.5.6  Bảo vệ chống khói",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1397,
+    "line_end": 1416
+  },
+  {
+    "clause_id": "muc-9-3-5-7",
+    "anchor": "muc-9-3-5-7",
+    "title": "9.3.5.7  Chữa cháy và cứu nạn",
+    "source_file": "tcvn_13967_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1419,
+    "line_end": 1425
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (Tham khảo) — Các hình minh họa",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 10
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a",
+    "anchor": "bang-bang-phu-luc-a",
+    "title": "Bảng Phụ lục A",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 13,
+    "line_end": 19
+  },
+  {
+    "clause_id": "hinh-a_1",
+    "anchor": "hinh-a_1",
+    "title": "![Hình A.1](../figures/images/hinh_a_1.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 22,
+    "line_end": 37
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-2",
+    "anchor": "bang-bang-phu-luc-a-2",
+    "title": "Bảng Phụ lục A (Phần 2)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 40,
+    "line_end": 46
+  },
+  {
+    "clause_id": "hinh-a_2",
+    "anchor": "hinh-a_2",
+    "title": "![Hình A.2](../figures/images/hinh_a_2.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 49,
+    "line_end": 64
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-3",
+    "anchor": "bang-bang-phu-luc-a-3",
+    "title": "Bảng Phụ lục A (Phần 3)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 67,
+    "line_end": 73
+  },
+  {
+    "clause_id": "hinh-a_3",
+    "anchor": "hinh-a_3",
+    "title": "![Hình A.3](../figures/images/hinh_a_3.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 76,
+    "line_end": 91
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-4",
+    "anchor": "bang-bang-phu-luc-a-4",
+    "title": "Bảng Phụ lục A (Phần 4)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 94,
+    "line_end": 100
+  },
+  {
+    "clause_id": "hinh-a_4",
+    "anchor": "hinh-a_4",
+    "title": "![Hình A.4](../figures/images/hinh_a_4.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 103,
+    "line_end": 116
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-5",
+    "anchor": "bang-bang-phu-luc-a-5",
+    "title": "Bảng Phụ lục A (Phần 5)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 119,
+    "line_end": 124
+  },
+  {
+    "clause_id": "hinh-a_5",
+    "anchor": "hinh-a_5",
+    "title": "![Hình A.5](../figures/images/hinh_a_5.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 127,
+    "line_end": 140
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-6",
+    "anchor": "bang-bang-phu-luc-a-6",
+    "title": "Bảng Phụ lục A (Phần 6)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 143,
+    "line_end": 149
+  },
+  {
+    "clause_id": "hinh-a_6",
+    "anchor": "hinh-a_6",
+    "title": "![Hình A.6](../figures/images/hinh_a_6.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 152,
+    "line_end": 167
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-7",
+    "anchor": "bang-bang-phu-luc-a-7",
+    "title": "Bảng Phụ lục A (Phần 7)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 170,
+    "line_end": 175
+  },
+  {
+    "clause_id": "hinh-a_7",
+    "anchor": "hinh-a_7",
+    "title": "![Hình A.7](../figures/images/hinh_a_7.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 178,
+    "line_end": 193
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-8",
+    "anchor": "bang-bang-phu-luc-a-8",
+    "title": "Bảng Phụ lục A (Phần 8)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 196,
+    "line_end": 201
+  },
+  {
+    "clause_id": "hinh-a_8",
+    "anchor": "hinh-a_8",
+    "title": "![Hình A.8](../figures/images/hinh_a_8.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 204,
+    "line_end": 217
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-9",
+    "anchor": "bang-bang-phu-luc-a-9",
+    "title": "Bảng Phụ lục A (Phần 9)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 220,
+    "line_end": 226
+  },
+  {
+    "clause_id": "hinh-a_9",
+    "anchor": "hinh-a_9",
+    "title": "![Hình A.9](../figures/images/hinh_a_9.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 229,
+    "line_end": 237
+  },
+  {
+    "clause_id": "hinh-a_10",
+    "anchor": "hinh-a_10",
+    "title": "![Hình A.10](../figures/images/hinh_a_10.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 240,
+    "line_end": 264
+  },
+  {
+    "clause_id": "hinh-a_11",
+    "anchor": "hinh-a_11",
+    "title": "![Hình A.11](../figures/images/hinh_a_11.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 267,
+    "line_end": 284
+  },
+  {
+    "clause_id": "hinh-a_12",
+    "anchor": "hinh-a_12",
+    "title": "![Hình A.12](../figures/images/hinh_a_12.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 287,
+    "line_end": 300
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-10",
+    "anchor": "bang-bang-phu-luc-a-10",
+    "title": "Bảng Phụ lục A (Phần 10)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 303,
+    "line_end": 309
+  },
+  {
+    "clause_id": "hinh-a_13",
+    "anchor": "hinh-a_13",
+    "title": "![Hình A.13](../figures/images/hinh_a_13.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 312,
+    "line_end": 320
+  },
+  {
+    "clause_id": "hinh-a_14",
+    "anchor": "hinh-a_14",
+    "title": "![Hình A.14](../figures/images/hinh_a_14.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 323,
+    "line_end": 334
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-11",
+    "anchor": "bang-bang-phu-luc-a-11",
+    "title": "Bảng Phụ lục A (Phần 11)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 337,
+    "line_end": 348
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-12",
+    "anchor": "bang-bang-phu-luc-a-12",
+    "title": "Bảng Phụ lục A (Phần 12)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 351,
+    "line_end": 357
+  },
+  {
+    "clause_id": "hinh-a_15",
+    "anchor": "hinh-a_15",
+    "title": "![Hình A.15](../figures/images/hinh_a_15.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 360,
+    "line_end": 373
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-13",
+    "anchor": "bang-bang-phu-luc-a-13",
+    "title": "Bảng Phụ lục A (Phần 13)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 376,
+    "line_end": 381
+  },
+  {
+    "clause_id": "hinh-a_16",
+    "anchor": "hinh-a_16",
+    "title": "![Hình A.16](../figures/images/hinh_a_16.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 384,
+    "line_end": 392
+  },
+  {
+    "clause_id": "hinh-a_17",
+    "anchor": "hinh-a_17",
+    "title": "![Hình A.17](../figures/images/hinh_a_17.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 395,
+    "line_end": 403
+  },
+  {
+    "clause_id": "hinh-a_18",
+    "anchor": "hinh-a_18",
+    "title": "![Hình A.18](../figures/images/hinh_a_18.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 406,
+    "line_end": 419
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-14",
+    "anchor": "bang-bang-phu-luc-a-14",
+    "title": "Bảng Phụ lục A (Phần 14)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 422,
+    "line_end": 430
+  },
+  {
+    "clause_id": "hinh-a_19",
+    "anchor": "hinh-a_19",
+    "title": "![Hình A.19](../figures/images/hinh_a_19.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 433,
+    "line_end": 450
+  },
+  {
+    "clause_id": "hinh-a_20",
+    "anchor": "hinh-a_20",
+    "title": "![Hình A.20](../figures/images/hinh_a_20.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 453,
+    "line_end": 470
+  },
+  {
+    "clause_id": "hinh-a_21",
+    "anchor": "hinh-a_21",
+    "title": "![Hình A.21](../figures/images/hinh_a_21.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 473,
+    "line_end": 486
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-15",
+    "anchor": "bang-bang-phu-luc-a-15",
+    "title": "Bảng Phụ lục A (Phần 15)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 489,
+    "line_end": 494
+  },
+  {
+    "clause_id": "hinh-a_22",
+    "anchor": "hinh-a_22",
+    "title": "![Hình A.22](../figures/images/hinh_a_22.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 497,
+    "line_end": 514
+  },
+  {
+    "clause_id": "hinh-a_23",
+    "anchor": "hinh-a_23",
+    "title": "![Hình A.23](../figures/images/hinh_a_23.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 517,
+    "line_end": 527
+  },
+  {
+    "clause_id": "hinh-a_24",
+    "anchor": "hinh-a_24",
+    "title": "![Hình A.24](../figures/images/hinh_a_24.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 530,
+    "line_end": 545
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-16",
+    "anchor": "bang-bang-phu-luc-a-16",
+    "title": "Bảng Phụ lục A (Phần 16)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 548,
+    "line_end": 554
+  },
+  {
+    "clause_id": "hinh-a_25",
+    "anchor": "hinh-a_25",
+    "title": "![Hình A.25](../figures/images/hinh_a_25.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 557,
+    "line_end": 572
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-17",
+    "anchor": "bang-bang-phu-luc-a-17",
+    "title": "Bảng Phụ lục A (Phần 17)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 575,
+    "line_end": 582
+  },
+  {
+    "clause_id": "hinh-a_26",
+    "anchor": "hinh-a_26",
+    "title": "![Hình A.26](../figures/images/hinh_a_26.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 585,
+    "line_end": 598
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-18",
+    "anchor": "bang-bang-phu-luc-a-18",
+    "title": "Bảng Phụ lục A (Phần 18)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 601,
+    "line_end": 608
+  },
+  {
+    "clause_id": "hinh-a_27",
+    "anchor": "hinh-a_27",
+    "title": "![Hình A.27](../figures/images/hinh_a_27.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 611,
+    "line_end": 624
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a-19",
+    "anchor": "bang-bang-phu-luc-a-19",
+    "title": "Bảng Phụ lục A (Phần 19)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 627,
+    "line_end": 635
+  },
+  {
+    "clause_id": "hinh-a_28",
+    "anchor": "hinh-a_28",
+    "title": "![Hình A.28](../figures/images/hinh_a_28.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 638,
+    "line_end": 651
+  },
+  {
+    "clause_id": "phu-luc-a-muc-1",
+    "anchor": "phu-luc-a-muc-1",
+    "title": "1  BAN CÔNG",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 654,
+    "line_end": 655
+  },
+  {
+    "clause_id": "phu-luc-a-muc-2",
+    "anchor": "phu-luc-a-muc-2",
+    "title": "2  LÔ GIA",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 658,
+    "line_end": 659
+  },
+  {
+    "clause_id": "hinh-a_29",
+    "anchor": "hinh-a_29",
+    "title": "![Hình A.29](../figures/images/hinh_a_29.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 662,
+    "line_end": 670
+  },
+  {
+    "clause_id": "hinh-a_30",
+    "anchor": "hinh-a_30",
+    "title": "![Hình A.30](../figures/images/hinh_a_30.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 673,
+    "line_end": 691
+  },
+  {
+    "clause_id": "hinh-a_31",
+    "anchor": "hinh-a_31",
+    "title": "![Hình A.31](../figures/images/hinh_a_31.png)",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 694,
+    "line_end": 743
+  },
+  {
+    "clause_id": "phu-luc-a-muc-3",
+    "anchor": "phu-luc-a-muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 754,
+    "line_end": 755
+  },
+  {
+    "clause_id": "phu-luc-a-muc-4",
+    "anchor": "phu-luc-a-muc-4",
+    "title": "4  YÊU CẦU CHUNG",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 758,
+    "line_end": 759
+  },
+  {
+    "clause_id": "phu-luc-a-muc-5",
+    "anchor": "phu-luc-a-muc-5",
+    "title": "5  YÊU CẦU VỀ QUY HOẠCH VÀ THIẾT KẾ KIẾN TRÚC",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 762,
+    "line_end": 763
+  },
+  {
+    "clause_id": "phu-luc-a-muc-6",
+    "anchor": "phu-luc-a-muc-6",
+    "title": "6  YÊU CẦU VỀ KẾT CẤU VÀ VẬT LIỆU",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 766,
+    "line_end": 767
+  },
+  {
+    "clause_id": "phu-luc-a-muc-7",
+    "anchor": "phu-luc-a-muc-7",
+    "title": "7  YÊU CẦU VỀ HỆ THỐNG KỸ THUẬT BÊN TRONG CÔNG TRÌNH",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 770,
+    "line_end": 771
+  },
+  {
+    "clause_id": "phu-luc-a-muc-8",
+    "anchor": "phu-luc-a-muc-8",
+    "title": "8  YÊU CẦU VỀ CÔNG TÁC HOÀN THIỆN",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 774,
+    "line_end": 775
+  },
+  {
+    "clause_id": "phu-luc-a-muc-9",
+    "anchor": "phu-luc-a-muc-9",
+    "title": "9  YÊU CẦU VỀ AN TOÀN CHÁY",
+    "source_file": "annexes/phu_luc_a_cac_hinh_minh_hoa.md",
+    "jurisdiction": "CQXD",
+    "line_start": 778,
+    "line_end": 779
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 55,
+    "line_end": 58
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 61,
+    "line_end": 90
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 93,
+    "line_end": 120
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  QUY ĐỊNH CHUNG",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 123,
+    "line_end": 166
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  YÊU CẦU VỀ QUY HOẠCH",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 169,
+    "line_end": 200
+  },
+  {
+    "clause_id": "hinh-1",
+    "anchor": "hinh-1",
+    "title": "![Hình 1](figures/images/hinh_1.png)",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 203,
+    "line_end": 217
+  },
+  {
+    "clause_id": "bang-bang-01",
+    "anchor": "bang-bang-01",
+    "title": "Bảng 1 - Kích thước vạt góc tính từ điểm giao nhau với các lộ giới",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 220,
+    "line_end": 246
+  },
+  {
+    "clause_id": "hinh-2",
+    "anchor": "hinh-2",
+    "title": "![Hình 2](figures/images/hinh_2.png)",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 249,
+    "line_end": 349
+  },
+  {
+    "clause_id": "muc-6",
+    "anchor": "muc-6",
+    "title": "6  YÊU CẦU VỀ KIẾN TRÚC",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 352,
+    "line_end": 437
+  },
+  {
+    "clause_id": "hinh-3",
+    "anchor": "hinh-3",
+    "title": "![Hình 3](figures/images/hinh_3.png)",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 440,
+    "line_end": 466
+  },
+  {
+    "clause_id": "hinh-4",
+    "anchor": "hinh-4",
+    "title": "![Hình 4](figures/images/hinh_4.png)",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 469,
+    "line_end": 495
+  },
+  {
+    "clause_id": "hinh-5",
+    "anchor": "hinh-5",
+    "title": "![Hình 5](figures/images/hinh_5.png)",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 498,
+    "line_end": 524
+  },
+  {
+    "clause_id": "bang-bang-02",
+    "anchor": "bang-bang-02",
+    "title": "Bảng 2 - Độ vươn tối đa của ban công",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 527,
+    "line_end": 556
+  },
+  {
+    "clause_id": "hinh-6",
+    "anchor": "hinh-6",
+    "title": "![Hình 6](figures/images/hinh_6.png)",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 559,
+    "line_end": 587
+  },
+  {
+    "clause_id": "hinh-7",
+    "anchor": "hinh-7",
+    "title": "![Hình 7](figures/images/hinh_7.png)",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 590,
+    "line_end": 628
+  },
+  {
+    "clause_id": "muc-7",
+    "anchor": "muc-7",
+    "title": "7  YÊU CẦU VỀ HỆ THỐNG KỸ THUẬT VÀ VỆ SINH MÔI TRƯỜNG",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 631,
+    "line_end": 714
+  },
+  {
+    "clause_id": "bang-bang-03",
+    "anchor": "bang-bang-03",
+    "title": "Bảng 3 - Giới hạn tiện nghi vi khí hậu bên trong nhà ở",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 717,
+    "line_end": 737
+  },
+  {
+    "clause_id": "muc-8",
+    "anchor": "muc-8",
+    "title": "8  YÊU CẦU VỀ PHÒNG CHÁY",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 740,
+    "line_end": 751
+  },
+  {
+    "clause_id": "muc-9",
+    "anchor": "muc-9",
+    "title": "9  YÊU CẦU VỀ CÔNG TÁC HOÀN THIỆN VÀ CẢNH QUAN ĐÔ THỊ",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 754,
+    "line_end": 793
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Yêu cầu về lô đất xây dựng",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 816,
+    "line_end": 817
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Yêu cầu về khoảng lùi",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 820,
+    "line_end": 821
+  },
+  {
+    "clause_id": "muc-5-3",
+    "anchor": "muc-5-3",
+    "title": "5.3  Yêu cầu về tầm nhìn",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 824,
+    "line_end": 825
+  },
+  {
+    "clause_id": "muc-5-4",
+    "anchor": "muc-5-4",
+    "title": "5.4  Yêu cầu về khoảng cách và quan hệ với công trình bên cạnh",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 828,
+    "line_end": 829
+  },
+  {
+    "clause_id": "muc-5-5",
+    "anchor": "muc-5-5",
+    "title": "5.5  Yêu cầu về chiều cao",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 832,
+    "line_end": 833
+  },
+  {
+    "clause_id": "muc-7-1",
+    "anchor": "muc-7-1",
+    "title": "7.1  Yêu cầu thiết kế hệ thống cấp nước",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 844,
+    "line_end": 845
+  },
+  {
+    "clause_id": "muc-7-2",
+    "anchor": "muc-7-2",
+    "title": "7.2  Yêu cầu thiết kế hệ thống thoát nước",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 848,
+    "line_end": 849
+  },
+  {
+    "clause_id": "muc-7-3",
+    "anchor": "muc-7-3",
+    "title": "7.3  Yêu cầu về thiết kế điện chiếu sáng",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 852,
+    "line_end": 853
+  },
+  {
+    "clause_id": "muc-7-4",
+    "anchor": "muc-7-4",
+    "title": "7.4  Yêu cầu thiết kế hệ thống thông tin liên lạc, viễn thông và hệ thống kỹ thuật khác",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 856,
+    "line_end": 857
+  },
+  {
+    "clause_id": "muc-7-5",
+    "anchor": "muc-7-5",
+    "title": "7.5  Yêu cầu thông gió và điều hoà không khí",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 860,
+    "line_end": 861
+  },
+  {
+    "clause_id": "muc-7-6",
+    "anchor": "muc-7-6",
+    "title": "7.6  Thoát khói, khí",
+    "source_file": "tcvn_9411_2012.md",
+    "jurisdiction": "CQXD",
+    "line_start": 864,
+    "line_end": 865
+  }
+]
