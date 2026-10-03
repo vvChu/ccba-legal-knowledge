@@ -1,0 +1,45 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 6379 2024
+total_figures: 5
+figures:
+- figure_id: FIG_A_1
+  slug: a_1
+  tag: A.1
+  title: Trụ nước chữa cháy nổi
+  annex: A
+  anchor: hinh-a_1
+  image_relpath: figures/images/hinh_a_1.png
+  has_image: true
+- figure_id: FIG_A_2
+  slug: a_2
+  tag: A.2
+  title: Trụ nước chữa cháy ngầm
+  annex: A
+  anchor: hinh-a_2
+  image_relpath: figures/images/hinh_a_2.png
+  has_image: true
+- figure_id: FIG_B_1
+  slug: b_1
+  tag: B.1
+  title: Lắp đặt trụ nước chữa cháy nổi
+  annex: B
+  anchor: hinh-b_1
+  image_relpath: figures/images/hinh_b_1.png
+  has_image: true
+- figure_id: FIG_C_1
+  slug: c_1
+  tag: C.1
+  title: Cột lấy nước chữa cháy
+  annex: C
+  anchor: hinh-c_1
+  image_relpath: figures/images/hinh_c_1.png
+  has_image: true
+- figure_id: FIG_D_1
+  slug: d_1
+  tag: D.1
+  title: Hố trụ nước chữa cháy ngầm
+  annex: D
+  anchor: hinh-d_1
+  image_relpath: figures/images/hinh_d_1.png
+  has_image: true

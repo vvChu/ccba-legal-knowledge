@@ -1,0 +1,38 @@
+id: tccs_39_2022_tcdbvn
+document_number: TCCS 39:2022/TCĐBVN
+type: Tiêu chuẩn cơ sở
+title: Tiêu chuẩn thiết kế mặt đường bê tông xi măng thông thường có khe nối trong
+  xây dựng công trình giao thông
+status: active
+issued_by: Cục Đường bộ Việt Nam
+signer: Tổng cục Đường bộ Việt Nam
+issued_date: '2022-10-01'
+effective_date: '2022-10-01'
+pdf_path: legal_docs/03_tcvn/tccs_39_2022_tcdbvn/sources/tccs_39_2022_tcdbvn.pdf
+pdf_sha256: 63aa6bbd0dc83685aa34b49c70169f25e8555138adf72e7bd02b3f7171fad8e0
+pdf_status: verified
+legal_basis: []
+replaces: []
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T11:06:33.317949+00:00'
+published_date: '2022-10-01'
+raw_scan_pdf: legal_docs/03_tcvn/tccs_39_2022_tcdbvn/sources/tccs_39_2022_tcdbvn_raw_scan.pdf
+raw_scan_pdf_sha256: ea81fb023412de5cd7276ba0d82db979f7c671a8e30829f564840e91089df772
+pdf_origin: docx_vector_rendered
+relations:
+  applied_with: TCCS 40:2022/TCĐBVN
+bundle_path: legal_docs/03_tcvn/tccs_39_2022_tcdbvn/
+source_file: legal_docs/03_tcvn/tccs_39_2022_tcdbvn/sources/tccs_39_2022_tcdbvn.docx
+sha256: cb8a2eb536d4c076d91c86536e21c01f35983aa1fe6646135882fb36c4a9901e
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: 63aa6bbd0dc83685aa34b49c70169f25e8555138adf72e7bd02b3f7171fad8e0
+    vault_path: CCBA_Legal_Vault/03_tcvn/tccs_39_2022_tcdbvn/tccs_39_2022_tcdbvn.pdf
+    status: verified
+  docx:
+    sha256: cb8a2eb536d4c076d91c86536e21c01f35983aa1fe6646135882fb36c4a9901e
+    vault_path: CCBA_Legal_Vault/03_tcvn/tccs_39_2022_tcdbvn/tccs_39_2022_tcdbvn.docx
+    status: verified

@@ -1,0 +1,128 @@
+[
+  {
+    "clause_id": "muc-a-8",
+    "anchor": "muc-a-8",
+    "title": "A.8  _ Số lần trục xe quy đổi về trục tiêu chuẩn tích lũy trong thời hạn phục vụ thiết kế tác dụng lên",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2291,
+    "line_end": 2334
+  },
+  {
+    "clause_id": "muc-b-1",
+    "anchor": "muc-b-1",
+    "title": "B.1  Ví dụ tính toán mặt đường BTXM thông thường trường hợp kết cấu có lớp",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2337,
+    "line_end": 2340
+  },
+  {
+    "clause_id": "muc-b-1-1",
+    "anchor": "muc-b-1-1",
+    "title": "B.1.1  Số liệu xuất phát:",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2343,
+    "line_end": 2344
+  },
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  ĐƯỜNG CẤP IV LÀM MỚI HAI LÀN XE; LỀ DAT; THUỘC TỈNH HƯNG YÊN CÓ TẠ = 86°C/M",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2347,
+    "line_end": 2348
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TẢI TRỌNG TRỤC TIÊU CHUẨN PS = 100 KN (DÉ TINH MỎI)",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2351,
+    "line_end": 2352
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  QUA ĐIỀU TRA, DỰ BÁO TRÊN ĐƯỜNG CÓ TRỤC XE NẶNG NHẤT PMAX = 150 KN THÔNG QUA",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2355,
+    "line_end": 2376
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  NỀN ĐẤT CÓ MÔ ĐUN ĐÀN HỒI BẰNG 40 MPA",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2379,
+    "line_end": 2412
+  },
+  {
+    "clause_id": "muc-6",
+    "anchor": "muc-6",
+    "title": "6  TINH ỨNG SUẤT DO TẢI TRỌNG XE:",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2415,
+    "line_end": 2434
+  },
+  {
+    "clause_id": "muc-7",
+    "anchor": "muc-7",
+    "title": "7  TINH ỨNG SUẤT NHIỆT THEO ĐIỀU 8.3.6:",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2437,
+    "line_end": 2474
+  },
+  {
+    "clause_id": "muc-8",
+    "anchor": "muc-8",
+    "title": "8  KIỂM TOÁN CÁC ĐIỀU KIỆN GIỚI HẠN:",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2477,
+    "line_end": 2498
+  },
+  {
+    "clause_id": "muc-b-2",
+    "anchor": "muc-b-2",
+    "title": "B.2  Ví dụ tính toán chiều dày mặt đường BTXM thông thường trường hợp kết cấu",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2501,
+    "line_end": 2504
+  },
+  {
+    "clause_id": "muc-b-2-1",
+    "anchor": "muc-b-2-1",
+    "title": "B.2.1  Số liệu xuất phát:",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2507,
+    "line_end": 2512
+  },
+  {
+    "clause_id": "muc-b-2-2",
+    "anchor": "muc-b-2-2",
+    "title": "B.2.2  Dự kiến kết cấu mặt đường:",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2525,
+    "line_end": 2542
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  KIÉM TOAN CAC DIÉU KIÉN GIDI HAN:",
+    "source_file": "tccs_39_2022_tcdbvn.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2683,
+    "line_end": 2722
+  }
+]

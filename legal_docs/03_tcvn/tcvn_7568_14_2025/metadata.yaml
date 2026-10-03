@@ -1,0 +1,38 @@
+id: tcvn_7568_14_2025
+document_number: TCVN 7568-14:2025
+type: Tiêu chuẩn quốc gia
+title: 'Hệ thống báo cháy — Phần 14: Thiết kế, lắp đặt các hệ thống báo cháy cho nhà
+  và công trình'
+status: active
+issued_by: Bộ Khoa học và Công nghệ
+signer: Bộ Khoa học và Công nghệ
+issued_date: '2025-06-01'
+effective_date: '2025-06-01'
+pdf_path: legal_docs/03_tcvn/tcvn_7568_14_2025/sources/tcvn_7568_14_2025.pdf
+pdf_sha256: e7a5a7e04db5077db4450c16d1a10baea938afa1db4d64f1eef1f0361158b1d9
+pdf_status: verified
+legal_basis: []
+replaces: TCVN 7568-14:2015, TCVN 5738:2021
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T10:57:17.288134+00:00'
+published_date: '2025-06-01'
+raw_scan_pdf: legal_docs/03_tcvn/tcvn_7568_14_2025/sources/tcvn_7568_14_2025_raw_scan.pdf
+raw_scan_pdf_sha256: f7f9461f1bf60771955eb19e73e96277141979bbfe249c8f31fc04c2078a22d3
+pdf_origin: docx_vector_rendered
+relations:
+  referenced_in: QCVN 06:2022/BXD
+bundle_path: legal_docs/03_tcvn/tcvn_7568_14_2025/
+source_file: legal_docs/03_tcvn/tcvn_7568_14_2025/sources/tcvn_7568_14_2025.docx
+sha256: 894ec5bc1eb2e888655a268560eb59cc4fdd490f811cdf4d2def19cee62ebc0b
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: e7a5a7e04db5077db4450c16d1a10baea938afa1db4d64f1eef1f0361158b1d9
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7568_14_2025/tcvn_7568_14_2025.pdf
+    status: verified
+  docx:
+    sha256: 894ec5bc1eb2e888655a268560eb59cc4fdd490f811cdf4d2def19cee62ebc0b
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7568_14_2025/tcvn_7568_14_2025.docx
+    status: verified

@@ -1,0 +1,49 @@
+
+<a id="phu-luc-b"></a>
+## PHỤ LỤC B (Tham khảo) — Vị trí lắp đặt nút ấn báo cháy tùy thuộc vào mục đích của các tòa nhà và các vị trí
+
+STT
+
+Các vị trí
+
+Nơi lắp đặt
+
+Công trình công nghiệp, cơ sở vật
+
+chất và cơ sở (nhà xưởng, kho, v.v.)
+
+Dọc các tuyến đường thoát nạn,
+
+trong các hành lang, tại lối ra từ nhà
+
+xưởng, nhà kho
+
+1.1
+
+Một tầng
+
+1.2
+
+Nhiều tầng
+
+Giống như trên và cầu thang của
+
+mỗi tầng
+
+Các công trình cáp (đường hầm, sàn,
+
+vv)
+
+Ở lối vào đường hầm, xuống sàn, tại
+
+lối thoát hiểm khẩn cấp từ đường
+
+hầm, tại ngã ba của đường hầm
+
+Tòa nhà hành chính và công cộng
+
+Trong các hành lang, sảnh, tại khu
+
+vực cầu thang, ở lối thoát hiểm của
+
+tòa nhà

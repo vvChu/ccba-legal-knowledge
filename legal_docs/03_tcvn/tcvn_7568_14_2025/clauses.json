@@ -1,0 +1,1613 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 169,
+    "line_end": 178
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 181,
+    "line_end": 190
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  THUẬT NGỮ, ĐỊNH NGHĨA",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 193,
+    "line_end": 386
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  QUY ĐỊNH CHUNG",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 389,
+    "line_end": 390
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Yêu cầu về thiết kế, lựa chọn hệ thống báo cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 393,
+    "line_end": 394
+  },
+  {
+    "clause_id": "muc-4-1-1",
+    "anchor": "muc-4-1-1",
+    "title": "4.1.1  Việc thiết kế, lắp đặt hệ thống báo cháy phải tuân thủ các yêu cầu, quy định của các",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 397,
+    "line_end": 400
+  },
+  {
+    "clause_id": "muc-4-1-2",
+    "anchor": "muc-4-1-2",
+    "title": "4.1.2  Hệ thống báo cháy phải đáp ứng những yêu cầu sau:",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 403,
+    "line_end": 418
+  },
+  {
+    "clause_id": "muc-4-1-3",
+    "anchor": "muc-4-1-3",
+    "title": "4.1.3  Hệ thống báo cháy phải bảo đảm độ tin cậy và thực hiện đầy đủ các chức năng đã",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 421,
+    "line_end": 424
+  },
+  {
+    "clause_id": "muc-4-1-4",
+    "anchor": "muc-4-1-4",
+    "title": "4.1.4  Những tác động bên ngoài gây ra sự cố cho một bộ phận của hệ thống không được",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 427,
+    "line_end": 430
+  },
+  {
+    "clause_id": "muc-4-1-5",
+    "anchor": "muc-4-1-5",
+    "title": "4.1.5  Khi lựa chọn loại đầu báo cháy cần lưu ý các vấn đề sau:",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 433,
+    "line_end": 434
+  },
+  {
+    "clause_id": "muc-4-1-5-1",
+    "anchor": "muc-4-1-5-1",
+    "title": "4.1.5.1  Chọn loại đầu báo cháy khói có độ nhạy phù hợp đối với các loại khói khác nhau.",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 437,
+    "line_end": 438
+  },
+  {
+    "clause_id": "muc-4-1-5-2",
+    "anchor": "muc-4-1-5-2",
+    "title": "4.1.5.2  Sử dụng đầu báo lửa tại những nơi:",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 441,
+    "line_end": 454
+  },
+  {
+    "clause_id": "muc-4-1-5-3",
+    "anchor": "muc-4-1-5-3",
+    "title": "4.1.5.3  Độ nhạy của đầu báo cháy lửa phải tương ứng với phổ phát xạ của ngọn lửa tạo bởi",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 457,
+    "line_end": 460
+  },
+  {
+    "clause_id": "muc-4-1-5-4",
+    "anchor": "muc-4-1-5-4",
+    "title": "4.1.5.4  Sử dụng đầu báo nhiệt ở những nơi khi xảy ra cháy ở giai đoạn ban đầu của đám",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 463,
+    "line_end": 468
+  },
+  {
+    "clause_id": "muc-4-1-5-5",
+    "anchor": "muc-4-1-5-5",
+    "title": "4.1.5.5  Không sử dụng đầu báo cháy nhiệt gia tăng hoặc đầu báo cháy nhiệt kép (nhiệt gia",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 471,
+    "line_end": 482
+  },
+  {
+    "clause_id": "muc-4-1-5-6",
+    "anchor": "muc-4-1-5-6",
+    "title": "4.1.5.6  Khi chọn đầu báo cháy nhiệt, cần lưu ý rằng ngưỡng nhiệt độ kích hoạt của đầu báo",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 485,
+    "line_end": 490
+  },
+  {
+    "clause_id": "muc-4-1-5-7",
+    "anchor": "muc-4-1-5-7",
+    "title": "4.1.5.7  Khi không xác định được hiện tượng đặc trưng của sự cháy trong khu vực bảo vệ,",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 493,
+    "line_end": 502
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Thiết bị bổ sung",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 505,
+    "line_end": 506
+  },
+  {
+    "clause_id": "muc-4-2-1",
+    "anchor": "muc-4-2-1",
+    "title": "4.2.1  Thiết bị bổ sung (ví dụ, các thiết bị đầu cuối điều khiển từ xa hoặc các màn hình hiển",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 509,
+    "line_end": 514
+  },
+  {
+    "clause_id": "muc-4-2-2",
+    "anchor": "muc-4-2-2",
+    "title": "4.2.2  Các thiết bị bổ sung khi lắp đặt không làm ảnh hưởng đến hoạt động của hệ thống",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 517,
+    "line_end": 520
+  },
+  {
+    "clause_id": "muc-4-2-3",
+    "anchor": "muc-4-2-3",
+    "title": "4.2.3  Trường hợp các thiết bị bổ sung hư hỏng không ảnh hưởng đến hoạt động vận hành",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 523,
+    "line_end": 526
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  THIẾT KẾ HỆ THỐNG BÁO CHÁY",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 529,
+    "line_end": 530
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Hệ thống báo cháy phải được thiết kế phù hợp với các yêu cầu của tiêu chuẩn này, các",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 533,
+    "line_end": 554
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Thiết kế có thể loại trừ các vùng không có vật liệu cháy.",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 557,
+    "line_end": 560
+  },
+  {
+    "clause_id": "muc-5-3",
+    "anchor": "muc-5-3",
+    "title": "5.3  Khi không có yêu cầu thiết kế phát hiện đám cháy cho toàn bộ nhà và công trình (trừ các",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 563,
+    "line_end": 576
+  },
+  {
+    "clause_id": "muc-5-4",
+    "anchor": "muc-5-4",
+    "title": "5.4  Khi không có yêu cầu tự động phát hiện đám cháy và các quy định khác cho phép có thể",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 579,
+    "line_end": 582
+  },
+  {
+    "clause_id": "muc-5-5",
+    "anchor": "muc-5-5",
+    "title": "5.5  Khi thiết kế hệ thống báo cháy bao gồm cả sử dụng các chức năng tùy chọn được quy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 585,
+    "line_end": 594
+  },
+  {
+    "clause_id": "muc-5-6",
+    "anchor": "muc-5-6",
+    "title": "5.6  Khi thiết kế phải quan tâm đến tất cả giới hạn khác bao gồm:",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 597,
+    "line_end": 622
+  },
+  {
+    "clause_id": "muc-5-7",
+    "anchor": "muc-5-7",
+    "title": "5.7  Vùng phát hiện cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 625,
+    "line_end": 626
+  },
+  {
+    "clause_id": "muc-5-7-1",
+    "anchor": "muc-5-7-1",
+    "title": "5.7.1  Quy định chung",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 629,
+    "line_end": 636
+  },
+  {
+    "clause_id": "muc-5-7-2",
+    "anchor": "muc-5-7-2",
+    "title": "5.7.2  Các giới hạn của vùng phát hiện cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 639,
+    "line_end": 640
+  },
+  {
+    "clause_id": "muc-5-7-2-1",
+    "anchor": "muc-5-7-2-1",
+    "title": "5.7.2.1  Một vùng phát hiện cháy trong nhà, công trình được giới hạn không lớn hơn 2000 m2",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 643,
+    "line_end": 668
+  },
+  {
+    "clause_id": "hinh-1",
+    "anchor": "hinh-1",
+    "title": "![Hình 1](figures/images/hinh_1.png)",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 671,
+    "line_end": 687
+  },
+  {
+    "clause_id": "muc-5-7-2-2",
+    "anchor": "muc-5-7-2-2",
+    "title": "5.7.2.2  Cho phép dùng chung vùng phát hiện cháy đối với khu vực có tầng lửng, khi tầng",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 701,
+    "line_end": 704
+  },
+  {
+    "clause_id": "muc-5-7-2-3",
+    "anchor": "muc-5-7-2-3",
+    "title": "5.7.2.3  Các đầu báo cháy bảo vệ trong các không gian bị che kín có tổng diện tích không",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 707,
+    "line_end": 712
+  },
+  {
+    "clause_id": "muc-5-7-2-4",
+    "anchor": "muc-5-7-2-4",
+    "title": "5.7.2.4  Các vùng phát hiện cháy có thể được chia nhỏ ra sao cho các tín hiệu từ các đầu",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 715,
+    "line_end": 720
+  },
+  {
+    "clause_id": "muc-5-7-2-5",
+    "anchor": "muc-5-7-2-5",
+    "title": "5.7.2.5  Một vùng phát hiện cháy chỉ cho phép thuộc một vùng báo động cháy.",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 723,
+    "line_end": 728
+  },
+  {
+    "clause_id": "muc-5-8",
+    "anchor": "muc-5-8",
+    "title": "5.8  Vị trí của đầu báo cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 731,
+    "line_end": 732
+  },
+  {
+    "clause_id": "muc-5-8-1",
+    "anchor": "muc-5-8-1",
+    "title": "5.8.1  Quy định chung",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 735,
+    "line_end": 750
+  },
+  {
+    "clause_id": "muc-5-8-2",
+    "anchor": "muc-5-8-2",
+    "title": "5.8.2  Yêu cầu vị trí lắp đặt đầu báo cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 753,
+    "line_end": 754
+  },
+  {
+    "clause_id": "muc-5-8-2-1",
+    "anchor": "muc-5-8-2-1",
+    "title": "5.8.2.1  Quy định chung",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 757,
+    "line_end": 758
+  },
+  {
+    "clause_id": "muc-5-8-2-1-1",
+    "anchor": "muc-5-8-2-1-1",
+    "title": "5.8.2.1.1  Khi xác định vị trí lắp đặt của các đầu báo cháy tham khảo Phụ lục A và phải bảo",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 761,
+    "line_end": 792
+  },
+  {
+    "clause_id": "muc-5-8-2-1-2",
+    "anchor": "muc-5-8-2-1-2",
+    "title": "5.8.2.1.2  Khi lắp đặt các đầu báo cháy có trang bị nhiều hơn một cảm biến và đầu báo cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 795,
+    "line_end": 800
+  },
+  {
+    "clause_id": "muc-5-8-2-2",
+    "anchor": "muc-5-8-2-2",
+    "title": "5.8.2.2  Các đường dẫn kín",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 803,
+    "line_end": 808
+  },
+  {
+    "clause_id": "muc-5-8-2-3",
+    "anchor": "muc-5-8-2-3",
+    "title": "5.8.2.3  Hệ thống xử lý không khí",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 811,
+    "line_end": 812
+  },
+  {
+    "clause_id": "muc-5-8-2-3-1",
+    "anchor": "muc-5-8-2-3-1",
+    "title": "5.8.2.3.1  Phải sử dụng đầu báo cháy khói [xem TCVN 7568-22 (ISO 7240-22)] để giám sát",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 815,
+    "line_end": 818
+  },
+  {
+    "clause_id": "muc-5-8-2-3-2",
+    "anchor": "muc-5-8-2-3-2",
+    "title": "5.8.2.3.2  Trong các hệ thống xử lý không khí, các đầu báo cháy phải được lắp đặt ở các vị",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 821,
+    "line_end": 854
+  },
+  {
+    "clause_id": "muc-5-8-2-3-3",
+    "anchor": "muc-5-8-2-3-3",
+    "title": "5.8.2.3.3  Các đèn chỉ thị của các đầu báo cháy khói lắp đặt trong hệ thống xử lý không khí",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 857,
+    "line_end": 862
+  },
+  {
+    "clause_id": "muc-5-8-2-4",
+    "anchor": "muc-5-8-2-4",
+    "title": "5.8.2.4  Không gian bị che kín",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 865,
+    "line_end": 866
+  },
+  {
+    "clause_id": "muc-5-8-2-4-1",
+    "anchor": "muc-5-8-2-4-1",
+    "title": "5.8.2.4.1  Quy định chung",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 869,
+    "line_end": 876
+  },
+  {
+    "clause_id": "muc-5-8-2-4-2",
+    "anchor": "muc-5-8-2-4-2",
+    "title": "5.8.2.4.2  Thiết bị điện",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 879,
+    "line_end": 908
+  },
+  {
+    "clause_id": "muc-5-8-2-4-3",
+    "anchor": "muc-5-8-2-4-3",
+    "title": "5.8.2.4.3  Thiết bị chỉ thị cho đầu báo cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 911,
+    "line_end": 944
+  },
+  {
+    "clause_id": "muc-5-8-2-5",
+    "anchor": "muc-5-8-2-5",
+    "title": "5.8.2.5  Tủ",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 947,
+    "line_end": 948
+  },
+  {
+    "clause_id": "muc-5-8-2-5-1",
+    "anchor": "muc-5-8-2-5-1",
+    "title": "5.8.2.5.1  Tủ có thể tích lớn hơn 3 m3 phải được lắp đặt các đầu báo cháy. Các tủ được chia",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 951,
+    "line_end": 956
+  },
+  {
+    "clause_id": "muc-5-8-2-5-2",
+    "anchor": "muc-5-8-2-5-2",
+    "title": "5.8.2.5.2  Tủ với thể tích trên 1 m3 chứa thiết bị điện hoặc điện tử có điện áp lớn hơn điện áp",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 959,
+    "line_end": 962
+  },
+  {
+    "clause_id": "muc-5-8-2-6",
+    "anchor": "muc-5-8-2-6",
+    "title": "5.8.2.6  Bề mặt trung gian nằm ngang",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 965,
+    "line_end": 966
+  },
+  {
+    "clause_id": "muc-5-8-2-6-1",
+    "anchor": "muc-5-8-2-6-1",
+    "title": "5.8.2.6.1  Phải lắp đặt đầu báo cháy ở dưới của các bề mặt trung gian nằm ngang như các",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 969,
+    "line_end": 974
+  },
+  {
+    "clause_id": "muc-5-8-2-6-2",
+    "anchor": "muc-5-8-2-6-2",
+    "title": "5.8.2.6.2  Khi khoảng cách từ mặt bên dưới của các bề mặt trung gian đến trần nhỏ hơn 0,8 m",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 977,
+    "line_end": 982
+  },
+  {
+    "clause_id": "muc-5-8-2-6-3",
+    "anchor": "muc-5-8-2-6-3",
+    "title": "5.8.2.6.3  Nếu ống gió hay kết cấu cách tường hoặc ống gió hoặc kết cấu lớn hơn 0,8 m thì",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 985,
+    "line_end": 988
+  },
+  {
+    "clause_id": "muc-5-8-2-7",
+    "anchor": "muc-5-8-2-7",
+    "title": "5.8.2.7  Trần dạng lưới hở",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 991,
+    "line_end": 992
+  },
+  {
+    "clause_id": "muc-5-8-2-7-1",
+    "anchor": "muc-5-8-2-7-1",
+    "title": "5.8.2.7.1  Khi sử dụng đầu báo cháy lửa thì chúng phải được lắp đặt phía trên và phía dưới",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 995,
+    "line_end": 1002
+  },
+  {
+    "clause_id": "muc-5-8-2-7-2",
+    "anchor": "muc-5-8-2-7-2",
+    "title": "5.8.2.7.2  Khi một phần bất kỳ của trần không có lỗ hở nhô xuống và có kích thước tối thiểu",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1005,
+    "line_end": 1008
+  },
+  {
+    "clause_id": "muc-5-8-2-7-3",
+    "anchor": "muc-5-8-2-7-3",
+    "title": "5.8.2.7.3  Phải lắp đặt đầu báo cháy bảo vệ cho phần không gian phía trên trần hở nếu có",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1011,
+    "line_end": 1014
+  },
+  {
+    "clause_id": "muc-5-8-2-8",
+    "anchor": "muc-5-8-2-8",
+    "title": "5.8.2.8  Khu vực khó tiếp cận khi có cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1017,
+    "line_end": 1028
+  },
+  {
+    "clause_id": "muc-5-8-2-9",
+    "anchor": "muc-5-8-2-9",
+    "title": "5.8.2.9  Phần nhà sở hữu riêng",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1031,
+    "line_end": 1032
+  },
+  {
+    "clause_id": "muc-5-8-2-9-1",
+    "anchor": "muc-5-8-2-9-1",
+    "title": "5.8.2.9.1  Tín hiệu chỉ thị báo động cho phần nhà được sở hữu riêng (căn hộ, shophouse...)",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1035,
+    "line_end": 1044
+  },
+  {
+    "clause_id": "muc-5-8-2-9-2",
+    "anchor": "muc-5-8-2-9-2",
+    "title": "5.8.2.9.2  Khi phần nhà sở hữu riêng được sử dụng để ngủ bao gồm khu vực phòng chính và",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1047,
+    "line_end": 1054
+  },
+  {
+    "clause_id": "muc-5-8-2-10",
+    "anchor": "muc-5-8-2-10",
+    "title": "5.8.2.10  Gian phòng di động sử dụng làm kho hoặc văn phòng làm việc",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1057,
+    "line_end": 1064
+  },
+  {
+    "clause_id": "muc-5-8-2-11",
+    "anchor": "muc-5-8-2-11",
+    "title": "5.8.2.11  Yêu cầu bổ sung cho đầu báo cháy lửa",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1067,
+    "line_end": 1068
+  },
+  {
+    "clause_id": "muc-5-8-2-11-1",
+    "anchor": "muc-5-8-2-11-1",
+    "title": "5.8.2.11.1  Đầu báo cháy lửa phải được lắp đặt sao cho tầm nhìn của đầu báo cháy không bị",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1071,
+    "line_end": 1074
+  },
+  {
+    "clause_id": "muc-5-8-2-11-2",
+    "anchor": "muc-5-8-2-11-2",
+    "title": "5.8.2.11.2  Khi đầu báo cháy lửa được đặt trong các môi trường có thể dẫn đến sự lắng đọng",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1077,
+    "line_end": 1084
+  },
+  {
+    "clause_id": "muc-5-9",
+    "anchor": "muc-5-9",
+    "title": "5.9  Yêu cầu khoảng cách giữa các đầu báo cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1087,
+    "line_end": 1088
+  },
+  {
+    "clause_id": "muc-5-9-1",
+    "anchor": "muc-5-9-1",
+    "title": "5.9.1  Đầu báo cháy khói và đầu báo cháy cacbon monoxit (CO)",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1091,
+    "line_end": 1092
+  },
+  {
+    "clause_id": "muc-5-9-1-1",
+    "anchor": "muc-5-9-1-1",
+    "title": "5.9.1.1  Đầu báo cháy kiểu điểm",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1095,
+    "line_end": 1096
+  },
+  {
+    "clause_id": "muc-5-9-1-1-1",
+    "anchor": "muc-5-9-1-1-1",
+    "title": "5.9.1.1.1  Quy định chung",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1099,
+    "line_end": 1108
+  },
+  {
+    "clause_id": "muc-5-9-1-1-2",
+    "anchor": "muc-5-9-1-1-2",
+    "title": "5.9.1.1.2  Khoảng cách giữa các đầu báo cháy trên trần phẳng",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1111,
+    "line_end": 1120
+  },
+  {
+    "clause_id": "hinh-2",
+    "anchor": "hinh-2",
+    "title": "![Hình 2](figures/images/hinh_2.png)",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1123,
+    "line_end": 1133
+  },
+  {
+    "clause_id": "muc-5-9-1-1-3",
+    "anchor": "muc-5-9-1-1-3",
+    "title": "5.9.1.1.3  Khoảng cách giữa các đầu báo cháy lắp đặt trên bề mặt dốc",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1136,
+    "line_end": 1151
+  },
+  {
+    "clause_id": "hinh-3",
+    "anchor": "hinh-3",
+    "title": "![Hình 3](figures/images/hinh_3.png)",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1154,
+    "line_end": 1168
+  },
+  {
+    "clause_id": "muc-5-9-1-1-4",
+    "anchor": "muc-5-9-1-1-4",
+    "title": "5.9.1.1.4  Khoảng cách đến tường, vách ngăn lỗ mở cấp không khí",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1171,
+    "line_end": 1184
+  },
+  {
+    "clause_id": "muc-5-9-1-1-5",
+    "anchor": "muc-5-9-1-1-5",
+    "title": "5.9.1.1.5  Khu vực có dòng không khí thay đổi ở mức cao",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1187,
+    "line_end": 1194
+  },
+  {
+    "clause_id": "bang-bang-p14-01",
+    "anchor": "bang-bang-p14-01",
+    "title": "Bảng 1 - Khoảng cách giữa các đầu báo cháy khói dựa trên mức thay đổi không khí",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1197,
+    "line_end": 1205
+  },
+  {
+    "clause_id": "muc-5-9-1-1-6",
+    "anchor": "muc-5-9-1-1-6",
+    "title": "5.9.1.1.6  Vị trí của các đầu báo cháy khói trên các bề mặt phẳng có các dầm",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1208,
+    "line_end": 1243
+  },
+  {
+    "clause_id": "hinh-4",
+    "anchor": "hinh-4",
+    "title": "![Hình 4](figures/images/hinh_4.png)",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1246,
+    "line_end": 1258
+  },
+  {
+    "clause_id": "muc-5-9-1-1-7",
+    "anchor": "muc-5-9-1-1-7",
+    "title": "5.9.1.1.7  Khoảng cách yêu cầu giữa các đầu báo cháy trong không gian bị che kín",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1261,
+    "line_end": 1288
+  },
+  {
+    "clause_id": "muc-5-9-1-2",
+    "anchor": "muc-5-9-1-2",
+    "title": "5.9.1.2  Đầu báo cháy khói kiểu hút",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1291,
+    "line_end": 1292
+  },
+  {
+    "clause_id": "muc-5-9-1-2-1",
+    "anchor": "muc-5-9-1-2-1",
+    "title": "5.9.1.2.1  Diện tích bảo vệ của một đầu báo cháy khói kiểu hút không lớn hơn một vùng phát",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1295,
+    "line_end": 1318
+  },
+  {
+    "clause_id": "muc-5-9-1-2-2",
+    "anchor": "muc-5-9-1-2-2",
+    "title": "5.9.1.2.2  Vị trí của các lỗ lấy mẫu phải phù hợp với các yêu cầu về khoảng cách cho các đầu",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1321,
+    "line_end": 1324
+  },
+  {
+    "clause_id": "bang-bang-p14-02",
+    "anchor": "bang-bang-p14-02",
+    "title": "Bảng 2 - Quy định lắp đặt đầu báo cháy khói kiểu hút",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1327,
+    "line_end": 1344
+  },
+  {
+    "clause_id": "muc-5-9-1-3",
+    "anchor": "muc-5-9-1-3",
+    "title": "5.9.1.3  Đầu báo cháy khói kiểu tia chiếu",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1347,
+    "line_end": 1348
+  },
+  {
+    "clause_id": "muc-5-9-1-3-1",
+    "anchor": "muc-5-9-1-3-1",
+    "title": "5.9.1.3.1  Đầu báo cháy khói tia chiếu được lắp đặt cho khu vực có chiều cao trần đến 40 m.",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1351,
+    "line_end": 1354
+  },
+  {
+    "clause_id": "muc-5-9-1-3-2",
+    "anchor": "muc-5-9-1-3-2",
+    "title": "5.9.1.3.2  Khoảng cách giữa các tia chiếu không được vượt quá 14,4 m (xem Hình 5).",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1357,
+    "line_end": 1360
+  },
+  {
+    "clause_id": "muc-5-9-1-3-3",
+    "anchor": "muc-5-9-1-3-3",
+    "title": "5.9.1.3.3  Do đặc điểm kiến trúc kết cấu mà không thể lắp đặt đầu báo cháy đảm bảo theo",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1363,
+    "line_end": 1370
+  },
+  {
+    "clause_id": "muc-5-9-1-3-4",
+    "anchor": "muc-5-9-1-3-4",
+    "title": "5.9.1.3.4  Trường hợp khói không đối lưu lên tới trần hoặc mái, yêu cầu lắp đặt bổ sung đầu",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1373,
+    "line_end": 1384
+  },
+  {
+    "clause_id": "hinh-5",
+    "anchor": "hinh-5",
+    "title": "![Hình 5](figures/images/hinh_5.png)",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1387,
+    "line_end": 1395
+  },
+  {
+    "clause_id": "muc-5-9-1-4",
+    "anchor": "muc-5-9-1-4",
+    "title": "5.9.1.4  Vị trí của các đầu báo cháy gần trần hoặc các đỉnh bề mặt mái",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1398,
+    "line_end": 1405
+  },
+  {
+    "clause_id": "hinh-6",
+    "anchor": "hinh-6",
+    "title": "![Hình 6](figures/images/hinh_6.png)",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1408,
+    "line_end": 1424
+  },
+  {
+    "clause_id": "muc-5-9-2",
+    "anchor": "muc-5-9-2",
+    "title": "5.9.2  Đầu báo cháy nhiệt",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1440,
+    "line_end": 1441
+  },
+  {
+    "clause_id": "muc-5-9-2-1",
+    "anchor": "muc-5-9-2-1",
+    "title": "5.9.2.1  Đầu báo cháy nhiệt kiểu điểm",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1444,
+    "line_end": 1445
+  },
+  {
+    "clause_id": "muc-5-9-2-1-1",
+    "anchor": "muc-5-9-2-1-1",
+    "title": "5.9.2.1.1  Quy định chung",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1448,
+    "line_end": 1459
+  },
+  {
+    "clause_id": "muc-5-9-2-1-2",
+    "anchor": "muc-5-9-2-1-2",
+    "title": "5.9.2.1.2  Khoảng cách giữa các đầu báo cháy nhiệt trên bề mặt trần phẳng",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1462,
+    "line_end": 1471
+  },
+  {
+    "clause_id": "hinh-7",
+    "anchor": "hinh-7",
+    "title": "![Hình 7](figures/images/hinh_7.png)",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1474,
+    "line_end": 1482
+  },
+  {
+    "clause_id": "muc-5-9-2-1-3",
+    "anchor": "muc-5-9-2-1-3",
+    "title": "5.9.2.1.3  Khoảng cách giữa các đầu báo cháy nhiệt trên bề mặt dốc",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1485,
+    "line_end": 1504
+  },
+  {
+    "clause_id": "hinh-8",
+    "anchor": "hinh-8",
+    "title": "![Hình 8](figures/images/hinh_8.png)",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1507,
+    "line_end": 1521
+  },
+  {
+    "clause_id": "muc-5-9-2-1-4",
+    "anchor": "muc-5-9-2-1-4",
+    "title": "5.9.2.1.4  Khoảng cách đến tường, vách ngăn hoặc lỗ mở cấp không khí",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1524,
+    "line_end": 1531
+  },
+  {
+    "clause_id": "muc-5-9-2-1-5",
+    "anchor": "muc-5-9-2-1-5",
+    "title": "5.9.2.1.5  Giảm khoảng cách giữa các đầu báo cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1534,
+    "line_end": 1539
+  },
+  {
+    "clause_id": "muc-5-9-2-1-6",
+    "anchor": "muc-5-9-2-1-6",
+    "title": "5.9.2.1.6  Khoảng cách các đầu báo cháy nhiệt trong không gian được che kín",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1542,
+    "line_end": 1549
+  },
+  {
+    "clause_id": "muc-5-9-2-2",
+    "anchor": "muc-5-9-2-2",
+    "title": "5.9.2.2  Đầu báo cháy nhiệt kiểu dây",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1572,
+    "line_end": 1575
+  },
+  {
+    "clause_id": "muc-5-9-2-3",
+    "anchor": "muc-5-9-2-3",
+    "title": "5.9.2.3  Vị trí của các đầu báo cháy nhiệt gần mái hoặc đỉnh mái",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1604,
+    "line_end": 1611
+  },
+  {
+    "clause_id": "hinh-9",
+    "anchor": "hinh-9",
+    "title": "![Hình 9](figures/images/hinh_9.png)",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1614,
+    "line_end": 1630
+  },
+  {
+    "clause_id": "muc-5-9-3",
+    "anchor": "muc-5-9-3",
+    "title": "5.9.3  Đầu báo cháy lửa",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1644,
+    "line_end": 1665
+  },
+  {
+    "clause_id": "muc-5-9-4",
+    "anchor": "muc-5-9-4",
+    "title": "5.9.4  Đầu báo cháy hỗn hợp (đa cảm biến)",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1668,
+    "line_end": 1669
+  },
+  {
+    "clause_id": "muc-5-9-4-1",
+    "anchor": "muc-5-9-4-1",
+    "title": "5.9.4.1  Khi lắp đặt các đầu báo cháy hỗn hợp [ví dụ, TCVN 7568-8 (ISO 7240-8) TCVN",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1672,
+    "line_end": 1677
+  },
+  {
+    "clause_id": "muc-5-9-4-2",
+    "anchor": "muc-5-9-4-2",
+    "title": "5.9.4.2  Đối với các đầu báo cháy thay đổi được thông số kỹ thuật (ngưỡng tác động, thời",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1680,
+    "line_end": 1683
+  },
+  {
+    "clause_id": "muc-5-10",
+    "anchor": "muc-5-10",
+    "title": "5.10  Hộp nút ấn báo cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1686,
+    "line_end": 1687
+  },
+  {
+    "clause_id": "muc-5-10-1",
+    "anchor": "muc-5-10-1",
+    "title": "5.10.1  Phải lắp đặt hộp nút ấn báo cháy ở vị trí có thể nhìn thấy rõ và tiếp cận được dễ dàng",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1690,
+    "line_end": 1693
+  },
+  {
+    "clause_id": "muc-5-10-2",
+    "anchor": "muc-5-10-2",
+    "title": "5.10.2  Cho phép lắp đặt nút ấn báo cháy chung với vùng phát hiện cháy khi các nút ấn này",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1696,
+    "line_end": 1699
+  },
+  {
+    "clause_id": "muc-5-10-3",
+    "anchor": "muc-5-10-3",
+    "title": "5.10.3  Khoảng cách giữa các hộp nút ấn báo cháy không được vượt quá 45 m.",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1702,
+    "line_end": 1707
+  },
+  {
+    "clause_id": "muc-5-10-4",
+    "anchor": "muc-5-10-4",
+    "title": "5.10.4  Hộp nút ấn báo cháy phải được lắp đặt ở chiều cao (1,4 ± 0,2) m tính từ mặt đường",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1710,
+    "line_end": 1715
+  },
+  {
+    "clause_id": "muc-5-11",
+    "anchor": "muc-5-11",
+    "title": "5.11  Thiết bị báo cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1718,
+    "line_end": 1719
+  },
+  {
+    "clause_id": "muc-5-11-1",
+    "anchor": "muc-5-11-1",
+    "title": "5.11.1  Quy định chung",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1722,
+    "line_end": 1725
+  },
+  {
+    "clause_id": "muc-5-11-2",
+    "anchor": "muc-5-11-2",
+    "title": "5.11.2  Thiết bị báo cháy bằng âm thanh",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1728,
+    "line_end": 1729
+  },
+  {
+    "clause_id": "muc-5-11-2-1",
+    "anchor": "muc-5-11-2-1",
+    "title": "5.11.2.1  Các thiết bị báo cháy bằng âm thanh phải bảo đảm các yêu cầu sau:",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1732,
+    "line_end": 1751
+  },
+  {
+    "clause_id": "muc-5-11-2-2",
+    "anchor": "muc-5-11-2-2",
+    "title": "5.11.2.2  Đối với các khu vực như bệnh viện nơi bệnh nhân không chịu được sự căng thẳng",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1754,
+    "line_end": 1761
+  },
+  {
+    "clause_id": "muc-5-11-3",
+    "anchor": "muc-5-11-3",
+    "title": "5.11.3  Thiết bị báo cháy bằng ánh sáng",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1764,
+    "line_end": 1765
+  },
+  {
+    "clause_id": "muc-5-11-3-1",
+    "anchor": "muc-5-11-3-1",
+    "title": "5.11.3.1  Thiết bị chỉ thị trong nhà:",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1768,
+    "line_end": 1769
+  },
+  {
+    "clause_id": "muc-5-11-3-1-1",
+    "anchor": "muc-5-11-3-1-1",
+    "title": "5.11.3.1.1  Vị trí lắp đặt thiết bị báo cháy bằng ánh sáng:",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1772,
+    "line_end": 1781
+  },
+  {
+    "clause_id": "muc-5-11-3-1-2",
+    "anchor": "muc-5-11-3-1-2",
+    "title": "5.11.3.1.2  Thiết bị báo cháy bằng ánh sáng được lắp đặt cho nhà và công trình bảo đảm các",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1784,
+    "line_end": 1803
+  },
+  {
+    "clause_id": "muc-5-11-3-2",
+    "anchor": "muc-5-11-3-2",
+    "title": "5.11.3.2  Thiết bị chỉ thị bên ngoài nhà và công trình.",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1806,
+    "line_end": 1807
+  },
+  {
+    "clause_id": "muc-5-11-3-2-1",
+    "anchor": "muc-5-11-3-2-1",
+    "title": "5.11.3.2.1  Thiết bị chỉ thị được đặt bên ngoài gian phòng được nhìn thấy rõ ràng từ các lối đi",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1810,
+    "line_end": 1815
+  },
+  {
+    "clause_id": "muc-5-11-3-2-2",
+    "anchor": "muc-5-11-3-2-2",
+    "title": "5.11.3.2.2  Từ “FIRE” phải được tích hợp hoặc đặt cạnh đèn chỉ thị đảm bảo chiều cao bằng",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1818,
+    "line_end": 1823
+  },
+  {
+    "clause_id": "muc-5-11-3-2-3",
+    "anchor": "muc-5-11-3-2-3",
+    "title": "5.11.3.2.3  Thiết bị chỉ thị phải được kết nối với tín hiệu ra giám sát của tủ trung tâm báo cháy.",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1826,
+    "line_end": 1827
+  },
+  {
+    "clause_id": "muc-5-12",
+    "anchor": "muc-5-12",
+    "title": "5.12  Trung tâm báo cháy và thiết bị chỉ thị",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1830,
+    "line_end": 1831
+  },
+  {
+    "clause_id": "muc-5-12-1",
+    "anchor": "muc-5-12-1",
+    "title": "5.12.1  Trung tâm báo cháy phải có chức năng tự động kiểm tra tín hiệu từ các đầu báo cháy,",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1834,
+    "line_end": 1841
+  },
+  {
+    "clause_id": "muc-5-12-2",
+    "anchor": "muc-5-12-2",
+    "title": "5.12.2  Trung tâm báo cháy phải đặt ở những nơi thường xuyên có người trực suốt ngày",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1844,
+    "line_end": 1861
+  },
+  {
+    "clause_id": "muc-5-12-3",
+    "anchor": "muc-5-12-3",
+    "title": "5.12.3  Trung tâm báo cháy phải được lắp đặt trên tường, vách ngăn, trên bàn tại những nơi",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1864,
+    "line_end": 1871
+  },
+  {
+    "clause_id": "hinh-10",
+    "anchor": "hinh-10",
+    "title": "![Hình 10](figures/images/hinh_10.png)",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1874,
+    "line_end": 1882
+  },
+  {
+    "clause_id": "muc-5-12-4",
+    "anchor": "muc-5-12-4",
+    "title": "5.12.4  Nếu trung tâm báo cháy được lắp trên các cấu kiện xây dựng bằng vật liệu cháy thì",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1885,
+    "line_end": 1894
+  },
+  {
+    "clause_id": "muc-5-12-5",
+    "anchor": "muc-5-12-5",
+    "title": "5.12.5  Khoảng cách giữa các trung tâm báo cháy và trần nhà bằng vật liệu cháy được không",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1897,
+    "line_end": 1900
+  },
+  {
+    "clause_id": "muc-5-12-6",
+    "anchor": "muc-5-12-6",
+    "title": "5.12.6  Trong trường hợp lắp cạnh nhau, khoảng cách giữa các trung tâm báo cháy không",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1903,
+    "line_end": 1906
+  },
+  {
+    "clause_id": "muc-5-12-7",
+    "anchor": "muc-5-12-7",
+    "title": "5.12.7  Nếu trung tâm báo cháy lắp trên tường, cột nhà hoặc giá máy thì khoảng cách từ",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1909,
+    "line_end": 1914
+  },
+  {
+    "clause_id": "muc-5-12-8",
+    "anchor": "muc-5-12-8",
+    "title": "5.12.8  Nhiệt độ và độ ẩm tại nơi đặt trung tâm báo cháy phải phù hợp với tài liệu kỹ thuật và",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1917,
+    "line_end": 1920
+  },
+  {
+    "clause_id": "muc-5-12-9",
+    "anchor": "muc-5-12-9",
+    "title": "5.12.9  Tín hiệu âm thanh, ánh sáng khi báo cháy và báo sự cố phải khác nhau.",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1923,
+    "line_end": 1924
+  },
+  {
+    "clause_id": "muc-5-12-10",
+    "anchor": "muc-5-12-10",
+    "title": "5.12.10  Khi lắp các đầu báo cháy với trung tâm báo cháy phải chú ý đến sự phù hợp của hệ",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1927,
+    "line_end": 1932
+  },
+  {
+    "clause_id": "muc-5-12-11",
+    "anchor": "muc-5-12-11",
+    "title": "5.12.11  Tủ hiện thị phụ",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1935,
+    "line_end": 1938
+  },
+  {
+    "clause_id": "muc-5-12-12",
+    "anchor": "muc-5-12-12",
+    "title": "5.12.12  Nối mạng trung tâm báo cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1941,
+    "line_end": 1948
+  },
+  {
+    "clause_id": "muc-5-13",
+    "anchor": "muc-5-13",
+    "title": "5.13  Cấp nguồn",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1951,
+    "line_end": 1970
+  },
+  {
+    "clause_id": "muc-5-13-1",
+    "anchor": "muc-5-13-1",
+    "title": "5.13.1  Các trung tâm báo cháy phải được tiếp đất bảo vệ. Việc tiếp đất bảo vệ phải thỏa",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1973,
+    "line_end": 1976
+  },
+  {
+    "clause_id": "muc-5-13-2",
+    "anchor": "muc-5-13-2",
+    "title": "5.13.2  Điều khiển hệ thống chữa cháy",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1979,
+    "line_end": 1986
+  },
+  {
+    "clause_id": "muc-5-14",
+    "anchor": "muc-5-14",
+    "title": "5.14  Đường truyền",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1989,
+    "line_end": 1990
+  },
+  {
+    "clause_id": "muc-5-14-1",
+    "anchor": "muc-5-14-1",
+    "title": "5.14.1  Đường truyền độc lập với hệ thống khác",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1993,
+    "line_end": 2004
+  },
+  {
+    "clause_id": "muc-5-14-2",
+    "anchor": "muc-5-14-2",
+    "title": "5.14.2  Phải có biện pháp bảo vệ cáp và dây tín hiệu của hệ thống báo cháy để chống chập",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2007,
+    "line_end": 2016
+  },
+  {
+    "clause_id": "muc-5-14-3",
+    "anchor": "muc-5-14-3",
+    "title": "5.14.3  Các mạch tín hiệu của hệ thống báo cháy phải được kiểm tra tự động về tình trạng kỹ",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2019,
+    "line_end": 2022
+  },
+  {
+    "clause_id": "muc-5-14-4",
+    "anchor": "muc-5-14-4",
+    "title": "5.14.4  Các mạch tín hiệu của hệ thống báo cháy phải sử dụng dây dẫn riêng và cáp có lõi",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2025,
+    "line_end": 2030
+  },
+  {
+    "clause_id": "muc-5-14-5",
+    "anchor": "muc-5-14-5",
+    "title": "5.14.5  Tiết diện lõi đồng của cáp và dây tín hiệu phải được xác định dựa trên độ sụt áp cho",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2033,
+    "line_end": 2050
+  },
+  {
+    "clause_id": "muc-5-14-6",
+    "anchor": "muc-5-14-6",
+    "title": "5.14.6  Cáp tín hiệu điều khiển thiết bị ngoại vi và dây tín hiệu nối từ các đầu báo cháy trong",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2053,
+    "line_end": 2062
+  },
+  {
+    "clause_id": "muc-5-14-7",
+    "anchor": "muc-5-14-7",
+    "title": "5.14.7  Không cho phép lắp đặt chung dây tín hiệu của hệ thống báo cháy và dây tín hiệu",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2065,
+    "line_end": 2076
+  },
+  {
+    "clause_id": "muc-5-14-8",
+    "anchor": "muc-5-14-8",
+    "title": "5.14.8  Trong trường hợp mắc hở song song thì khoảng cách giữa dây dẫn của đường điện",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2079,
+    "line_end": 2084
+  },
+  {
+    "clause_id": "muc-5-14-9",
+    "anchor": "muc-5-14-9",
+    "title": "5.14.9  Trường hợp trong công trình có nguồn phát nhiễu hoặc đối với hệ thống báo cháy địa",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2087,
+    "line_end": 2096
+  },
+  {
+    "clause_id": "muc-5-14-10",
+    "anchor": "muc-5-14-10",
+    "title": "5.14.10  Các mối nối và các đầu kẹp dây",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2099,
+    "line_end": 2100
+  },
+  {
+    "clause_id": "muc-5-14-10-1",
+    "anchor": "muc-5-14-10-1",
+    "title": "5.14.10.1  Các mối nối và các đầu kẹp dây phải được chế tạo thích hợp với hộp đầu dây kín",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2103,
+    "line_end": 2108
+  },
+  {
+    "clause_id": "muc-5-14-10-2",
+    "anchor": "muc-5-14-10-2",
+    "title": "5.14.10.2  Các mối nối và các đầu kẹp dây cho các dây dẫn lắp trong ống tường thẳng đứng",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2111,
+    "line_end": 2120
+  },
+  {
+    "clause_id": "muc-5-14-11",
+    "anchor": "muc-5-14-11",
+    "title": "5.14.11  Liên kết vô tuyến",
+    "source_file": "tcvn_7568_14_2025.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 2123,
+    "line_end": 2131
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (Tham khảo) — Chọn đầu báo cháy tự động theo tính chất các cơ sở được trang bị",
+    "source_file": "annexes/phu_luc_a_chon_dau_bao_chay_tu_dong_theo_tinh_chat_cac.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 159
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B (Tham khảo) — Vị trí lắp đặt nút ấn báo cháy tùy thuộc vào mục đích của các tòa nhà và các vị trí",
+    "source_file": "annexes/phu_luc_b_vi_tri_lap_dat_nut_an_bao_chay_tuy_thuoc_vao.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 49
+  },
+  {
+    "clause_id": "phu-luc-c",
+    "anchor": "phu-luc-c",
+    "title": "PHỤ LỤC C (Tham khảo) — Tính toán nguồn diện",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3
+  },
+  {
+    "clause_id": "muc-c-1",
+    "anchor": "muc-c-1",
+    "title": "C.1  Dung lượng của ắc quy",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 7
+  },
+  {
+    "clause_id": "muc-c-1-1",
+    "anchor": "muc-c-1-1",
+    "title": "C.1.1  Yêu cầu về dung lượng của ắc quy nên được xác định như sau.",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 10,
+    "line_end": 27
+  },
+  {
+    "clause_id": "formula-c_1",
+    "anchor": "formula-c_1",
+    "title": "$$C20 = 1,25[(IQ \\times TQ) + Fc(IA \\times TA)] \\qquad (C.1)$$",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 30,
+    "line_end": 58
+  },
+  {
+    "clause_id": "muc-c-1-2",
+    "anchor": "muc-c-1-2",
+    "title": "C.1.2  Khi nhiệt độ trung bình của ắc quy vượt ra ngoài phạm vi 15 °C đến 30 °C, phải sử",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 61,
+    "line_end": 66
+  },
+  {
+    "clause_id": "muc-c-2",
+    "anchor": "muc-c-2",
+    "title": "C.2  Dòng điện nạp",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 69,
+    "line_end": 70
+  },
+  {
+    "clause_id": "muc-c-2-1",
+    "anchor": "muc-c-2-1",
+    "title": "C.2.1  Dòng điện nạp của ắc quy nên nạp lại cho ắc quy đã phóng điện trong 24 h để có đủ",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 73,
+    "line_end": 78
+  },
+  {
+    "clause_id": "muc-c-2-2",
+    "anchor": "muc-c-2-2",
+    "title": "C.2.2  Một ắc quy đã phóng điện là ắc quy đã đạt tới điện áp vận hành nhỏ nhất của hệ thống",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 81,
+    "line_end": 86
+  },
+  {
+    "clause_id": "muc-c-2-3",
+    "anchor": "muc-c-2-3",
+    "title": "C.2.3  Dòng điện nạp nhỏ nhất lC được tính toán theo công thức C.2.",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 89,
+    "line_end": 124
+  },
+  {
+    "clause_id": "formula-c_2",
+    "anchor": "formula-c_2",
+    "title": "$$\\dots \\qquad (C.2)$$",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 127,
+    "line_end": 147
+  },
+  {
+    "clause_id": "muc-c-3",
+    "anchor": "muc-c-3",
+    "title": "C.3  Tính toán nguồn điện",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 150,
+    "line_end": 159
+  },
+  {
+    "clause_id": "formula-c_3",
+    "anchor": "formula-c_3",
+    "title": "$$IPSE = IQ+ IC \\qquad (C.3)$$",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 162,
+    "line_end": 164
+  },
+  {
+    "clause_id": "formula-c_4",
+    "anchor": "formula-c_4",
+    "title": "$$IQ = IQWS + IQANC \\qquad (C.4)$$",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 167,
+    "line_end": 217
+  },
+  {
+    "clause_id": "phu-luc-c-muc-8",
+    "anchor": "phu-luc-c-muc-8",
+    "title": "8  HOANG QUOC VIET STR, CAU GIAY DIST, HANOI, VIETNAM",
+    "source_file": "annexes/phu_luc_c_tinh_toan_nguon_dien.md",
+    "jurisdiction": "CQXD",
+    "line_start": 220,
+    "line_end": 225
+  }
+]

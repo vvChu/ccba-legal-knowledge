@@ -1,0 +1,113 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 7568 14 2025
+total_figures: 13
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Ví dụ về sự phân bố vùng phát hiện cháy cho các khu vực tiếp giáp và không
+  annex: MAIN
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Ví dụ về sự phân bố vùng phát hiện cháy cho các khu vực tiếp giáp và không
+  annex: MAIN
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  slug: '2'
+  tag: '2'
+  title: Khoảng cách lớn nhất giữa các đầu báo cháy lắp đặt trên bề mặt bằng
+  annex: A
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_3
+  slug: '3'
+  tag: '3'
+  title: Ví dụ về các vị trí của đầu báo cháy khói kiểu điểm trên các bề mặt dốc
+  annex: A
+  anchor: hinh-3
+  image_relpath: figures/images/hinh_3.png
+  has_image: true
+- figure_id: FIG_4
+  slug: '4'
+  tag: '4'
+  title: Yêu cầu thiết kế cho các đầu báo cháy khói kiểu điểm và các hệ thống đầu
+  annex: A
+  anchor: hinh-4
+  image_relpath: figures/images/hinh_4.png
+  has_image: true
+- figure_id: FIG_5
+  slug: '5'
+  tag: '5'
+  title: Ví dụ về các vị trí của đầu báo cháy khói tia chiếu
+  annex: A
+  anchor: hinh-5
+  image_relpath: figures/images/hinh_5.png
+  has_image: true
+- figure_id: FIG_6
+  slug: '6'
+  tag: '6'
+  title: Ví dụ về các vị trí của đầu báo cháy khói kiểu điểm, tia chiếu và đầu báo
+    cháy
+  annex: A
+  anchor: hinh-6
+  image_relpath: figures/images/hinh_6.png
+  has_image: true
+- figure_id: FIG_6
+  slug: '6'
+  tag: '6'
+  title: Ví dụ về các vị trí của đầu báo cháy khói kiểu điểm, tia chiếu và đầu báo
+    cháy
+  annex: A
+  anchor: hinh-6
+  image_relpath: figures/images/hinh_6.png
+  has_image: true
+- figure_id: FIG_7
+  slug: '7'
+  tag: '7'
+  title: Khoảng cách lớn nhất giữa các đầu báo cháy nhiệt trên bề mặt bằng phẳng
+  annex: A
+  anchor: hinh-7
+  image_relpath: figures/images/hinh_7.png
+  has_image: true
+- figure_id: FIG_8
+  slug: '8'
+  tag: '8'
+  title: Ví dụ về các vị trí của đầu báo cháy nhiệt trên bề mặt dốc
+  annex: A
+  anchor: hinh-8
+  image_relpath: figures/images/hinh_8.png
+  has_image: true
+- figure_id: FIG_9
+  slug: '9'
+  tag: '9'
+  title: Ví dụ về các vị trí của đầu báo cháy nhiệt kiểu dây tại trần, mái hoặc các
+    đỉnh
+  annex: A
+  anchor: hinh-9
+  image_relpath: figures/images/hinh_9.png
+  has_image: true
+- figure_id: FIG_9
+  slug: '9'
+  tag: '9'
+  title: Ví dụ về các vị trí của đầu báo cháy nhiệt kiểu dây tại trần, mái hoặc các
+    đỉnh
+  annex: A
+  anchor: hinh-9
+  image_relpath: figures/images/hinh_9.png
+  has_image: true
+- figure_id: FIG_10
+  slug: '10'
+  tag: '10'
+  title: Khoảng hở nhỏ nhất đến kết cấu bao che khu vực bảo vệ
+  annex: B
+  anchor: hinh-10
+  image_relpath: figures/images/hinh_10.png
+  has_image: true

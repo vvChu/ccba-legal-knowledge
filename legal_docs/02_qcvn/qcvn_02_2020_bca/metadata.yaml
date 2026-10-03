@@ -1,0 +1,23 @@
+id: qcvn_02_2020_bca
+document_number: QCVN 02:2020/BCA
+type: Quy chuẩn kỹ thuật quốc gia
+title: Quy chuẩn kỹ thuật quốc gia về Trạm bơm nước chữa cháy
+status: active
+issued_by: Bộ Công an
+signer: Tô Lâm
+issued_date: '2020-05-26'
+effective_date: '2020-10-04'
+pdf_path: legal_docs/02_qcvn/qcvn_02_2020_bca/sources/qcvn_02_2020_bca.pdf
+pdf_sha256: 4a3da1f3731afa58741b02600a2f747e0629f6320c8458052249c436d9c8fd6f
+pdf_status: verified
+legal_basis:
+- doc_id: thong_tu_52_2020_tt_bca
+  title: Thông tư số 52/2020/TT-BCA ngày 26 tháng 5 năm 2020 của Bộ trưởng Bộ Công
+    an
+relations:
+  issued_with: 52/2020/TT-BCA
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T10:37:24+00:00'
+pdf_origin: official_vector_pdf

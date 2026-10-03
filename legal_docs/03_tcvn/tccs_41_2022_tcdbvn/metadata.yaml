@@ -1,0 +1,37 @@
+id: tccs_41_2022_tcdbvn
+document_number: TCCS 41:2022/TCĐBVN
+type: Tiêu chuẩn cơ sở
+title: Tiêu chuẩn khảo sát, thiết kế nền đường ô tô trên nền đất yếu
+status: active
+issued_by: Cục Đường bộ Việt Nam
+signer: Tổng cục Đường bộ Việt Nam
+issued_date: '2022-10-01'
+effective_date: '2022-10-01'
+pdf_path: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/sources/tccs_41_2022_tcdbvn.pdf
+pdf_sha256: b1fdbf758a92c3dd5ae043ece83d9385d58b7aa29204d3a908dc1a80fb0a991e
+pdf_status: verified
+replaces: 22TCN 262:2000
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T11:05:02.069008+00:00'
+published_date: '2022-10-01'
+raw_scan_pdf: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/sources/tccs_41_2022_tcdbvn_raw_scan.pdf
+raw_scan_pdf_sha256: acc37880a36927f7f13f9253d97281af24e0027261bed9d520102b240fc52d6c
+pdf_origin: docx_vector_rendered
+amended_by: 1365/QĐ-CĐBVN ngày 30/11/2022
+relations:
+  amended_by: 1365/QĐ-CĐBVN
+bundle_path: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/
+source_file: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/sources/tccs_41_2022_tcdbvn.docx
+sha256: 2d797eada1985a6f8f325094907e3efa868148af27957673e75b9e24c45ad156
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: b1fdbf758a92c3dd5ae043ece83d9385d58b7aa29204d3a908dc1a80fb0a991e
+    vault_path: CCBA_Legal_Vault/03_tcvn/tccs_41_2022_tcdbvn/tccs_41_2022_tcdbvn.pdf
+    status: verified
+  docx:
+    sha256: 2d797eada1985a6f8f325094907e3efa868148af27957673e75b9e24c45ad156
+    vault_path: CCBA_Legal_Vault/03_tcvn/tccs_41_2022_tcdbvn/tccs_41_2022_tcdbvn.docx
+    status: verified
