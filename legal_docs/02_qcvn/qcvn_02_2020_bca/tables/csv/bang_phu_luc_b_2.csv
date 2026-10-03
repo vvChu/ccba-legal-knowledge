@@ -1,0 +1,20 @@
+﻿STT,Công việc/thiết bị cần bảo<br>dưỡng,Kiểm<br>tra<br>trực<br>quan,Kiểm tra<br>bằng<br>thiết bị<br>đo<br>lường,Thay<br>mới,Làm<br>vệ<br>sinh,Kiểm<br>tra<br>hoạt<br>động,Tần<br>suất<br>bảo<br>dưỡng
+6,Bôi trơn các chi tiết chuyển động<br>cơ học (ngoại trừ bộ khởi động và<br>rơ le)/ Lubricate mechanical<br>moving parts (excluding starters<br>and relays),,X,,,,12 tháng
+7,Hiệu chỉnh cấu hình công tắc áp<br>lực/ Calibrate pressure switch<br>settings,,X,,,,12 tháng
+8,Bôi trơn ổ trục đọn̂ g cơ/ Grease<br>motor bearings,,,X,,,12 tháng
+D,Hệ thống động cơ diesel/ Diesel<br>Engine System,,,,,,
+1,Nhiên liệu,,,,,,
+-,Mức nhiên liệu trong bình/ Tank<br>level,X,X,,,,01 tuần
+-,Công tắc phao/ Tank float switch,X,,,,X,01 tuần
+-,Hoạt động của van solenoid/<br>Solenoids valve operation,X,,,,X,01 tuần
+-,"Bộ lọc, màng lọc, hoặc bộ kết hợp<br>các thành phần này/ Strainer,<br>filter, or dirt leg, or combination<br>thereof",,,,X,,03 tháng
+-,Nước và dị vật trong bình/ Water<br>and foreign material in tank),,,,X,,12 tháng
+-,Nước trong hệ thống/ Water in<br>system,,X,,X,,01 tuần
+-,Khớp nối và ống linh hoạt/<br>Flexible hoses and connectors,X,,,,,01 tuần
+-,Ống thông gió và ống quá dòng<br>không bị cản/ Tank vents and<br>overflow piping unobstructed,,X,,,X,01 năm
+-,Ống dẫn/ Piping,X,,,,,12 tháng
+2,Hệ thống bôi trơn/ Lubrication<br>System,,,,,,
+-,Mức dầu/ Oil level,X,X,,,,01 tuần
+-,Thay dầu/ Oil change,,,X,,,50 giờ<br>làm việc<br>hoặc 12<br>tháng
+-,Màng lọc dầu/ Oil filter,,,X,,,50 giờ<br>làm việc<br>hoặc 12<br>tháng
+-,Bộ làm âḿ dầu bôi trơn/ Lube oil<br>heater,,X,,,,01 tuần

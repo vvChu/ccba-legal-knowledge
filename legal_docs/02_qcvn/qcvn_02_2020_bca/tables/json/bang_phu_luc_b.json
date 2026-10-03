@@ -1,0 +1,184 @@
+{
+  "table_id": "bang_phu_luc_b",
+  "table_number": "PLB",
+  "table_title": "Bảng Phụ lục B",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "STT",
+    "Công việc/thiết bị cần bảodưỡng",
+    "Kiểmtratrựcquan",
+    "Kiểm trabằngthiết bịđolường",
+    "Thaymới",
+    "Làmvệsinh",
+    "Kiểmtrahoạtđộng",
+    "Tầnsuấtbảodưỡng"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "STT": "A",
+      "Công việc/thiết bị cần bảodưỡng": "Hệ thống bơm /Pump System",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": ""
+    },
+    {
+      "_row_id": 2,
+      "STT": "1",
+      "Công việc/thiết bị cần bảodưỡng": "Bôi trơn ổ trục bơm /Lubricate\npump bearings",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "X",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 3,
+      "STT": "2",
+      "Công việc/thiết bị cần bảodưỡng": "Kiểm tra khe hở trục bơm/Check\npump shaft end play",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 4,
+      "STT": "3",
+      "Công việc/thiết bị cần bảodưỡng": "Kiểm tra độ chính xác của bộ cảm\nứng và đồng hồ đo áp lực/Check\naccuracy of pressure gauges and\nsensors",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "X",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng\n(thay đổi\nhoặc\nđiều\nchỉnh khi\nlệch 5%)"
+    },
+    {
+      "_row_id": 5,
+      "STT": "4",
+      "Công việc/thiết bị cần bảodưỡng": "Kiểm tra liên kết khớp nối của\nbơm/Check pump coupling\nalignment",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 6,
+      "STT": "5",
+      "Công việc/thiết bị cần bảodưỡng": "Màn lọc đầu hút hố nước/Wet pit\nsuction screens",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "X",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "Sau mỗi\nchạy\nbơm"
+    },
+    {
+      "_row_id": 7,
+      "STT": "B",
+      "Công việc/thiết bị cần bảodưỡng": "Bộ phận truyền động cơ\nhọc/Mechanical Transmission",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": ""
+    },
+    {
+      "_row_id": 8,
+      "STT": "1",
+      "Công việc/thiết bị cần bảodưỡng": "Bôi trơn các khớp nối/Lubricate\ncoupling",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "X",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 9,
+      "STT": "2",
+      "Công việc/thiết bị cần bảodưỡng": "Bôi trơn bọ ̂ dẫn động bánh răng\nvuông góc/ Lubricate right-angle\ngear drive",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "X",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 10,
+      "STT": "C",
+      "Công việc/thiết bị cần bảodưỡng": "Hệ thống điện/ Electrical System",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": ""
+    },
+    {
+      "_row_id": 11,
+      "STT": "1",
+      "Công việc/thiết bị cần bảodưỡng": "Thử nghiệm công tắc cô lập và\ncầu dao/ Exercise isolating switch\nand circuit breaker",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "X",
+      "Tầnsuấtbảodưỡng": "01 tháng"
+    },
+    {
+      "_row_id": 12,
+      "STT": "2",
+      "Công việc/thiết bị cần bảodưỡng": "Cho cầu dao nhảy/ Trip circuit\nbreaker",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "X",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 13,
+      "STT": "3",
+      "Công việc/thiết bị cần bảodưỡng": "Vận hành phương tiện khởi động\nthủ công (điện)/ Operate manual\nstarting means (electrical)",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "X",
+      "Tầnsuấtbảodưỡng": "06\ntháng"
+    },
+    {
+      "_row_id": 14,
+      "STT": "4",
+      "Công việc/thiết bị cần bảodưỡng": "Kiểm tra và vận hành phương tiện\nkhởi động thủ công (không có\nnguồn)/ Inspect and operate\nemergency manual starting\nmeans (without power)",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "X",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 15,
+      "STT": "5",
+      "Công việc/thiết bị cần bảodưỡng": "Gắn chặt các kết nối điện nếu cần\nthiết/ Tighten electrical\nconnections as necessary",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    }
+  ],
+  "footnotes": []
+}

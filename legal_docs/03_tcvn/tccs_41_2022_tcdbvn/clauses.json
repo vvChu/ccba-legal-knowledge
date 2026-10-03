@@ -1,0 +1,812 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  I I | | ES 1 1 EE",
+    "source_file": "tccs_41_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3135,
+    "line_end": 3146,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "hinh-d_3",
+    "anchor": "hinh-d_3",
+    "title": "![Hình D.3](figures/images/hinh_d_3.png)",
+    "source_file": "tccs_41_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3149,
+    "line_end": 3169,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-d-5",
+    "anchor": "muc-d-5",
+    "title": "D.5  Một số lưu ý",
+    "source_file": "tccs_41_2022_tcdbvn.md",
+    "jurisdiction": "CQXD",
+    "line_start": 3172,
+    "line_end": 3184,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "phu-luc-e",
+    "anchor": "phu-luc-e",
+    "title": "PHỤ LỤC E (Quy định) — Các giải pháp kỹ thuật công nghệ đối với đoạn đường chuyển tiếp giữa",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 5,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-1",
+    "anchor": "muc-e-1",
+    "title": "E.1  Phạm vi áp dụng",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 8,
+    "line_end": 17,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-2",
+    "anchor": "muc-e-2",
+    "title": "E.2  Thuật ngữ và định nghĩa",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 20,
+    "line_end": 21,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-2-1",
+    "anchor": "muc-e-2-1",
+    "title": "E.2.1  Cầu",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 24,
+    "line_end": 27,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-2-2",
+    "anchor": "muc-e-2-2",
+    "title": "E.2.2  Cống",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 30,
+    "line_end": 33,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-2-3",
+    "anchor": "muc-e-2-3",
+    "title": "E.2.3  Độ lún dư, As;-",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 36,
+    "line_end": 41,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-2-4",
+    "anchor": "muc-e-2-4",
+    "title": "E.2.4  Đoạn chuyển tiếp giữa đường va cầu (cống), Let",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 44,
+    "line_end": 49,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-2-5",
+    "anchor": "muc-e-2-5",
+    "title": "E.2.5  Độ bằng phẳng theo phương dọc tim đường, i",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 52,
+    "line_end": 57,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-2-6",
+    "anchor": "muc-e-2-6",
+    "title": "E.2.6  Hệ số đồng đều, Cu",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 60,
+    "line_end": 83,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "hinh-e_1",
+    "anchor": "hinh-e_1",
+    "title": "![Hình E.1](../figures/images/hinh_e_1.png)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 86,
+    "line_end": 96,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3",
+    "anchor": "muc-e-3",
+    "title": "E.3  Yêu cầu thiết kế chung",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 99,
+    "line_end": 100,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-1",
+    "anchor": "muc-e-3-1",
+    "title": "E.3.1  Tính toán và kiểm soát lún nền đường và công trình",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 103,
+    "line_end": 104,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-1-1",
+    "anchor": "muc-e-3-1-1",
+    "title": "E.3.1.1  Phải thực hiện tính toán lún của nền đường bao gồm cả phạm vi đoạn chuyển tiếp giữa đường",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 107,
+    "line_end": 110,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-1-2",
+    "anchor": "muc-e-3-1-2",
+    "title": "E.3.1.2  Nền đường bao gồm cả phạm vi đoạn chuyền tiếp giữa đường và cầu (cống) phải được thiết kế",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 113,
+    "line_end": 116,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-1-3",
+    "anchor": "muc-e-3-1-3",
+    "title": "E.3.1.3  Công trình cầu, cống phải được thiết kế và xử lý đảm bảo độ lún cho phép theo các quy định",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 119,
+    "line_end": 122,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-2",
+    "anchor": "muc-e-3-2",
+    "title": "E.3.2  Yêu cầu kỹ thuật đối với đoạn chuyển tiếp giữa đường và cầu (cống)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 125,
+    "line_end": 126,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-2-1",
+    "anchor": "muc-e-3-2-1",
+    "title": "E.3.2.1  Phạm vi điều chỉnh",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 129,
+    "line_end": 130,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-2-1-1",
+    "anchor": "muc-e-3-2-1-1",
+    "title": "E.3.2.1.1  Đối với công trình cầu và cống trên đường cấp V và VI, các công trình cống trên đường bộ từ",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 133,
+    "line_end": 140,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-2-1-2",
+    "anchor": "muc-e-3-2-1-2",
+    "title": "E.3.2.1.2  Các công trình cầu và cống trên đường cao tốc, các công trình cầu trên đường bộ từ cấp | đến",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 143,
+    "line_end": 148,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-2-2",
+    "anchor": "muc-e-3-2-2",
+    "title": "E.3.2.2  Các yêu cầu kỹ thuật",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 151,
+    "line_end": 152,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-2-2-1",
+    "anchor": "muc-e-3-2-2-1",
+    "title": "E.3.2.2.1  Yêu cầu về độ bằng phẳng theo phương dọc tim đường",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 155,
+    "line_end": 184,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-2-2-2",
+    "anchor": "muc-e-3-2-2-2",
+    "title": "E.3.2.2.2  Xác định chiều dài đoạn chuyển tiếp giữa đường và cầu (cống)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 187,
+    "line_end": 274,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "hinh-e_2",
+    "anchor": "hinh-e_2",
+    "title": "![Hình E.2](../figures/images/hinh_e_2.png)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 277,
+    "line_end": 285,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-3",
+    "anchor": "muc-e-3-3",
+    "title": "E.3.3  Yêu cầu thiết kế bản quá độ",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 288,
+    "line_end": 289,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-3-1",
+    "anchor": "muc-e-3-3-1",
+    "title": "E.3.3.1  Các yêu cầu chung",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 292,
+    "line_end": 293,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-3-1-1",
+    "anchor": "muc-e-3-3-1-1",
+    "title": "E.3.3.1.1  Nhằm đảm bảo chuyển tiếp dần độ cứng từ đường vào cầu, cống hộp và xe chạy êm thuận",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 296,
+    "line_end": 301,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-3-1-2",
+    "anchor": "muc-e-3-3-1-2",
+    "title": "E.3.3.1.2  Tải trọng thiết kế, phân bồ tải trọng bánh xe, hệ số tải trọng và tổ hợp tải trọng theo quy định",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 304,
+    "line_end": 307,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-3-1-3",
+    "anchor": "muc-e-3-3-1-3",
+    "title": "E.3.3.1.3  Bản quá độ thiết kế phải thỏa mãn các quy định sử dụng trong trạng thái giới hạn sử dụng và",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 310,
+    "line_end": 313,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-3-1-4",
+    "anchor": "muc-e-3-3-1-4",
+    "title": "E.3.3.1.4  Căn cứ điều kiện thực tế công trình cầu, chiều dài bản quá độ, độ lún dư mé cầu và dat đắp",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 316,
+    "line_end": 321,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-3-1-5",
+    "anchor": "muc-e-3-3-1-5",
+    "title": "E.3.3.1.5  Có thể sử dụng giải pháp nối liên tiếp nhiều bản quá độ để chuyền tiếp độ lún của đoạn đường",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 324,
+    "line_end": 327,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-3-2",
+    "anchor": "muc-e-3-3-2",
+    "title": "E.3.3.2  Kích thước và cấu tạo bản quá độ",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 330,
+    "line_end": 331,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-3-2-1",
+    "anchor": "muc-e-3-3-2-1",
+    "title": "E.3.3.2.1  Chiều dài bản quá độ có thể được lựa chọn nhằm đáp ứng việc chuyền tiếp được êm thuận",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 334,
+    "line_end": 343,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-3-2-2",
+    "anchor": "muc-e-3-3-2-2",
+    "title": "E.3.3.2.2  Chiều day ban qua độ (t) xác định theo điều kiện chịu lực của ban nhưng không nhỏ hon L/20",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 346,
+    "line_end": 359,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "hinh-e_3",
+    "anchor": "hinh-e_3",
+    "title": "![Hình E.3](../figures/images/hinh_e_3.png)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 362,
+    "line_end": 370,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-3-2-3",
+    "anchor": "muc-e-3-3-2-3",
+    "title": "E.3.3.2.3  Bản quá độ phải được gối chắc chắn một đầu trên tường đỉnh mó, đầu phía đối diện phải được",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 373,
+    "line_end": 380,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-3-3-2-4",
+    "anchor": "muc-e-3-3-2-4",
+    "title": "E.3.3.2.4  Khi chiều dài bản quá độ quá lớn có thể phân chia thành nhiều đoạn, mỗi đoạn có chiều dài từ",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 383,
+    "line_end": 388,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-4",
+    "anchor": "muc-e-4",
+    "title": "E.4  Các giải pháp kỹ thuật công nghệ dé đoạn đường chuyển tiếp giữa đường và cầu",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 391,
+    "line_end": 394,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-4-1",
+    "anchor": "muc-e-4-1",
+    "title": "E.4.1  Tăng chiều dài cầu hoặc khẩu độ cống dé hạ thấp chiều cao dat đắp sau mé cầu, cạnh cống.",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 397,
+    "line_end": 402,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-4-2",
+    "anchor": "muc-e-4-2",
+    "title": "E.4.2  Xử lý nền đất yếu dưới nền đắp trong phạm vi đoạn chuyền tiếp",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 405,
+    "line_end": 410,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-4-2-1",
+    "anchor": "muc-e-4-2-1",
+    "title": "E.4.2.1  Nguyên lý chung",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 413,
+    "line_end": 422,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-4-2-2",
+    "anchor": "muc-e-4-2-2",
+    "title": "E.4.2.2  Các giải pháp xử lý đất yếu",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 425,
+    "line_end": 470,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "hinh-e_4",
+    "anchor": "hinh-e_4",
+    "title": "![Hình E.4](../figures/images/hinh_e_4.png)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 473,
+    "line_end": 493,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "hinh-e_5",
+    "anchor": "hinh-e_5",
+    "title": "![Hình E.5](../figures/images/hinh_e_5.png)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 496,
+    "line_end": 554,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "hinh-e_6",
+    "anchor": "hinh-e_6",
+    "title": "![Hình E.6](../figures/images/hinh_e_6.png)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 557,
+    "line_end": 585,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-7",
+    "anchor": "phu-luc-e-muc-7",
+    "title": "7  MÔ ĐUN 4",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 588,
+    "line_end": 589,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "phu-luc-e-muc-2",
+    "anchor": "phu-luc-e-muc-2",
+    "title": "2  MÔ ĐUN 2",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 596,
+    "line_end": 599,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "hinh-e_7",
+    "anchor": "hinh-e_7",
+    "title": "![Hình E.7](../figures/images/hinh_e_7.png)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 602,
+    "line_end": 612,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-4-3",
+    "anchor": "muc-e-4-3",
+    "title": "E.4.3  Sử dụng các giải pháp kỹ thuật khác",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 615,
+    "line_end": 626,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5",
+    "anchor": "muc-e-5",
+    "title": "E.5  Các yêu cầu kỹ thuật về vật liệu và thi công đất đắp đối với đoạn đường chuyễn tiếp",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 629,
+    "line_end": 632,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-1",
+    "anchor": "muc-e-5-1",
+    "title": "E.5.1  Yêu cầu kỹ thuật đối với vật liệu dat đắp",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 635,
+    "line_end": 636,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-1-1",
+    "anchor": "muc-e-5-1-1",
+    "title": "E.5.1.1  Đối với đoạn gần mồ hoặc cạnh cống (đoạn L:)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 639,
+    "line_end": 666,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-1-2",
+    "anchor": "muc-e-5-1-2",
+    "title": "E.5.1.2  Đối với đoạn từ cuối đoạn gần mố hoặc cạnh cống đến đoạn đường thông thường (đoạn Lz):",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 669,
+    "line_end": 672,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-2",
+    "anchor": "muc-e-5-2",
+    "title": "E.5.2  Yêu cầu về thi công",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 675,
+    "line_end": 676,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-2-1",
+    "anchor": "muc-e-5-2-1",
+    "title": "E.5.2.1  Đối với việc xử lý đoạn đường chuyển tiếp giữa đường và cầu (cống)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 679,
+    "line_end": 688,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-2-2",
+    "anchor": "muc-e-5-2-2",
+    "title": "E.5.2.2  Đối với đắp đoạn gần mé hoặc cạnh cống (đoạn L1)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 691,
+    "line_end": 746,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-2-3",
+    "anchor": "muc-e-5-2-3",
+    "title": "E.5.2.3  Trong phạm vi mé cau, vật liệu đắp được đầm chặt tối thiểu đạt 98 %.",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 749,
+    "line_end": 750,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-2-4",
+    "anchor": "muc-e-5-2-4",
+    "title": "E.5.2.4  Đối với đắp đoạn từ cuối đoạn gần mồ hoặc cạnh cống đến đoạn đường thông thường (đoạn",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 753,
+    "line_end": 756,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-2-5",
+    "anchor": "muc-e-5-2-5",
+    "title": "E.5.2.5  Vị trí tiếp giáp đoạn L1 và L2 yêu cầu bố trí chuyển tiếp như Hình E.2.",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 759,
+    "line_end": 760,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-3",
+    "anchor": "muc-e-5-3",
+    "title": "E.5.3  Yêu cầu kỹ thuật về thoát nước sau mố",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 763,
+    "line_end": 764,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-3-1",
+    "anchor": "muc-e-5-3-1",
+    "title": "E.5.3.1  Thoát nước mặt cầu",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 767,
+    "line_end": 768,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-3-1-1",
+    "anchor": "muc-e-5-3-1-1",
+    "title": "E.5.3.1.1  Thiết kế thoát nước mặt cầu đảm bảo thoát nước nhanh, nếu có bố trí ống thoát nước xuống",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 771,
+    "line_end": 774,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-3-1-2",
+    "anchor": "muc-e-5-3-1-2",
+    "title": "E.5.3.1.2  Khe hở giữa bản quá độ và tường cánh mồ phải được chèn bang vật liệu ngăn nước, không",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 777,
+    "line_end": 780,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-3-2",
+    "anchor": "muc-e-5-3-2",
+    "title": "E.5.3.2  Thoát nước trong phạm vi lòng mố",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 783,
+    "line_end": 784,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-3-2-1",
+    "anchor": "muc-e-5-3-2-1",
+    "title": "E.5.3.2.1  Vật liệu dap sau mố đảm bảo thoát nước theo yêu cầu tại E.5.1.1.",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 787,
+    "line_end": 788,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-3-2-2",
+    "anchor": "muc-e-5-3-2-2",
+    "title": "E.5.3.2.2  Mái dốc nền đường được bảo vệ và gia cố không gây mat hạt dat đắp.",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 791,
+    "line_end": 792,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-3-2-3",
+    "anchor": "muc-e-5-3-2-3",
+    "title": "E.5.3.2.3  Đối với mố cầu không nằm trong vùng ngập nước thường xuyên và có chiều cao tường thân",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 795,
+    "line_end": 806,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-5-3-2-4",
+    "anchor": "muc-e-5-3-2-4",
+    "title": "E.5.3.2.4  Đối với mé cầu nằm trong vùng ngập nước thường xuyên hoặc có chiều cao tường thân mồ >",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 809,
+    "line_end": 832,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-6",
+    "anchor": "muc-e-6",
+    "title": "E.6  Các giải pháp khắc phục hiện tượng lún đầu cầu, cống đang khai thác",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 835,
+    "line_end": 836,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-6-1",
+    "anchor": "muc-e-6-1",
+    "title": "E.6.1  Giải pháp bù lún",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 839,
+    "line_end": 856,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-6-2",
+    "anchor": "muc-e-6-2",
+    "title": "E.6.2  Giải pháp bơm vữa",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 859,
+    "line_end": 870,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "hinh-e_8",
+    "anchor": "hinh-e_8",
+    "title": "![Hình E.8](../figures/images/hinh_e_8.png)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 873,
+    "line_end": 897,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-6-3",
+    "anchor": "muc-e-6-3",
+    "title": "E.6.3  Các giải pháp thay thế",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 900,
+    "line_end": 913,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-7",
+    "anchor": "muc-e-7",
+    "title": "E.7  Sơ đồ tính toán bản quá độ",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 916,
+    "line_end": 917,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-7-1",
+    "anchor": "muc-e-7-1",
+    "title": "E.7.1  Tổng quan",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 920,
+    "line_end": 921,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-7-1-1",
+    "anchor": "muc-e-7-1-1",
+    "title": "E.7.1.1  Tải trọng thiết kế, phân bé tải trọng bánh xe, hệ số tải trọng và tổ hợp tải trọng theo TCVN 11823.",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 924,
+    "line_end": 925,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-7-1-2",
+    "anchor": "muc-e-7-1-2",
+    "title": "E.7.1.2  Bản quá độ thiết kế phải thỏa mãn các quy định sử dụng cho trạng thái giới hạn sử dụng và trạng",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 928,
+    "line_end": 931,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-e-7-2",
+    "anchor": "muc-e-7-2",
+    "title": "E.7.2  Sơ đồ tính",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 934,
+    "line_end": 971,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "hinh-e_9",
+    "anchor": "hinh-e_9",
+    "title": "![Hình E.9](../figures/images/hinh_e_9.png)",
+    "source_file": "annexes/phu_luc_e_cac_giai_phap_ky_thuat_cong_nghe_doi_voi_doan.md",
+    "jurisdiction": "CQXD",
+    "line_start": 974,
+    "line_end": 996,
+    "cong_bao_number": "Đang cập nhật"
+  }
+]

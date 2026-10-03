@@ -1,0 +1,228 @@
+{
+  "table_id": "bang_phu_luc_b_2",
+  "table_number": "PLB_2",
+  "table_title": "Bảng Phụ lục B (Phần 2)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "STT",
+    "Công việc/thiết bị cần bảodưỡng",
+    "Kiểmtratrựcquan",
+    "Kiểm trabằngthiết bịđolường",
+    "Thaymới",
+    "Làmvệsinh",
+    "Kiểmtrahoạtđộng",
+    "Tầnsuấtbảodưỡng"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "STT": "6",
+      "Công việc/thiết bị cần bảodưỡng": "Bôi trơn các chi tiết chuyển động\ncơ học (ngoại trừ bộ khởi động và\nrơ le)/ Lubricate mechanical\nmoving parts (excluding starters\nand relays)",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 2,
+      "STT": "7",
+      "Công việc/thiết bị cần bảodưỡng": "Hiệu chỉnh cấu hình công tắc áp\nlực/ Calibrate pressure switch\nsettings",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 3,
+      "STT": "8",
+      "Công việc/thiết bị cần bảodưỡng": "Bôi trơn ổ trục đọn̂ g cơ/ Grease\nmotor bearings",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "X",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 4,
+      "STT": "D",
+      "Công việc/thiết bị cần bảodưỡng": "Hệ thống động cơ diesel/ Diesel\nEngine System",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": ""
+    },
+    {
+      "_row_id": 5,
+      "STT": "1",
+      "Công việc/thiết bị cần bảodưỡng": "Nhiên liệu",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": ""
+    },
+    {
+      "_row_id": 6,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Mức nhiên liệu trong bình/ Tank\nlevel",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 7,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Công tắc phao/ Tank float switch",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "X",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 8,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Hoạt động của van solenoid/\nSolenoids valve operation",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "X",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 9,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Bộ lọc, màng lọc, hoặc bộ kết hợp\ncác thành phần này/ Strainer,\nfilter, or dirt leg, or combination\nthereof",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "X",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "03 tháng"
+    },
+    {
+      "_row_id": 10,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Nước và dị vật trong bình/ Water\nand foreign material in tank)",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "X",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 11,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Nước trong hệ thống/ Water in\nsystem",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "X",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 12,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Khớp nối và ống linh hoạt/\nFlexible hoses and connectors",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 13,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Ống thông gió và ống quá dòng\nkhông bị cản/ Tank vents and\noverflow piping unobstructed",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "X",
+      "Tầnsuấtbảodưỡng": "01 năm"
+    },
+    {
+      "_row_id": 14,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Ống dẫn/ Piping",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 15,
+      "STT": "2",
+      "Công việc/thiết bị cần bảodưỡng": "Hệ thống bôi trơn/ Lubrication\nSystem",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": ""
+    },
+    {
+      "_row_id": 16,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Mức dầu/ Oil level",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 17,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Thay dầu/ Oil change",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "X",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "50 giờ\nlàm việc\nhoặc 12\ntháng"
+    },
+    {
+      "_row_id": 18,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Màng lọc dầu/ Oil filter",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "X",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "50 giờ\nlàm việc\nhoặc 12\ntháng"
+    },
+    {
+      "_row_id": 19,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Bộ làm âḿ dầu bôi trơn/ Lube oil\nheater",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    }
+  ],
+  "footnotes": []
+}

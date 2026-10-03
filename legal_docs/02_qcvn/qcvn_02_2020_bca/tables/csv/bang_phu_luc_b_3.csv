@@ -1,0 +1,24 @@
+﻿STT,Công việc/thiết bị cần bảo<br>dưỡng,Kiểm<br>tra<br>trực<br>quan,Kiểm tra<br>bằng<br>thiết bị<br>đo<br>lường,Thay<br>mới,Làm<br>vệ<br>sinh,Kiểm<br>tra<br>hoạt<br>động,Tần<br>suất<br>bảo<br>dưỡng
+-,Crankcase breather/ Lỗ thông hơi<br>vỏ máy,X,,X,X,,03 tháng
+3,Hệ thống làm mát/ Cooling<br>System,,,,,,
+-,Mức nước/ Level,X,X,,,,01 tuần
+-,Nước làm mát cho bộ trao đổi<br>nhiệt/ Adequate cooling water to<br>heat exchanger,,X,,,,01 tuần
+-,Bộ trao đổi nhiệt có cần ra/ Rod<br>out heat exchanger,,,,X,,12 tháng
+-,Bơm nước/ Water pump,X,,,,,01 tuần
+-,Tình trạng khớp nối và ống linh<br>hoạt/ Condition of flexible hoses<br>and connections,X,X,,,,01 tuần
+-,Bộ đun nước có áo bọc/ Jacket<br>water heater,,X,,,,01 tuần
+-,"Kiểm tra ống bụi, dọn ống khói<br>(khí cháy)/ Inspect duct work,<br>clean louvers (combustion air)",X,X,X,,,12 tháng
+-,Bộ lọc nước/ Water strainer,,,,X,,03 tháng
+4,Hệ thống rút/ Exhaust System,,,,,,
+-,Rò rỉ/ Leakage,X,X,,,,01 tuần
+-,Bẫy ngưng tụ rút/ Drain<br>condensate trap,,X,,,,01 tuần
+-,Rủi ro cách điện và hỏa hoạn/<br>Insulation and fire hazards,X,,,,,03 tháng
+-,Áp lực đối kháng vượt mức/<br>Excessive back pressure,,,,,X,12 tháng
+-,Giá đỡ và giá treo hệ thống rút/<br>Exhaust system hangers and<br>supports,X,,,,,12 tháng
+-,Phần rút linh hoạt/ Flexible<br>exhaust section,X,,,,,06 tháng
+5,Hệ thống ắc quy/ Battery System,,,,,,
+-,Mức điện giải/ Electrolyte level,,X,,,,01 tuần
+-,Vỏ sạch và chặt/ Terminals clean<br>and tight,X,X,,,,03 tháng
+-,"Xử ly ́ ăn mòn, dọn và làm khô vỏ<br>ngoài/ Remove corrosion, case<br>exterior clean and dry",X,,X,,,01 tháng
+-,Trọng lượng riêng hoặc trạng thái<br>nạp/ Specific gravity or state of<br>charge,,,,,X,01 tháng
+-,Bộ nạp và tí suất nạp/ Charger<br>and charge rate,X,,,,,01 tháng

@@ -1,0 +1,272 @@
+{
+  "table_id": "bang_phu_luc_b_3",
+  "table_number": "PLB_3",
+  "table_title": "Bảng Phụ lục B (Phần 3)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "STT",
+    "Công việc/thiết bị cần bảodưỡng",
+    "Kiểmtratrựcquan",
+    "Kiểm trabằngthiết bịđolường",
+    "Thaymới",
+    "Làmvệsinh",
+    "Kiểmtrahoạtđộng",
+    "Tầnsuấtbảodưỡng"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Crankcase breather/ Lỗ thông hơi\nvỏ máy",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "X",
+      "Làmvệsinh": "X",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "03 tháng"
+    },
+    {
+      "_row_id": 2,
+      "STT": "3",
+      "Công việc/thiết bị cần bảodưỡng": "Hệ thống làm mát/ Cooling\nSystem",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": ""
+    },
+    {
+      "_row_id": 3,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Mức nước/ Level",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 4,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Nước làm mát cho bộ trao đổi\nnhiệt/ Adequate cooling water to\nheat exchanger",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 5,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Bộ trao đổi nhiệt có cần ra/ Rod\nout heat exchanger",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "X",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 6,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Bơm nước/ Water pump",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 7,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Tình trạng khớp nối và ống linh\nhoạt/ Condition of flexible hoses\nand connections",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 8,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Bộ đun nước có áo bọc/ Jacket\nwater heater",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 9,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Kiểm tra ống bụi, dọn ống khói\n(khí cháy)/ Inspect duct work,\nclean louvers (combustion air)",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "X",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 10,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Bộ lọc nước/ Water strainer",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "X",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "03 tháng"
+    },
+    {
+      "_row_id": 11,
+      "STT": "4",
+      "Công việc/thiết bị cần bảodưỡng": "Hệ thống rút/ Exhaust System",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": ""
+    },
+    {
+      "_row_id": 12,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Rò rỉ/ Leakage",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 13,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Bẫy ngưng tụ rút/ Drain\ncondensate trap",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 14,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Rủi ro cách điện và hỏa hoạn/\nInsulation and fire hazards",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "03 tháng"
+    },
+    {
+      "_row_id": 15,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Áp lực đối kháng vượt mức/\nExcessive back pressure",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "X",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 16,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Giá đỡ và giá treo hệ thống rút/\nExhaust system hangers and\nsupports",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 17,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Phần rút linh hoạt/ Flexible\nexhaust section",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "06 tháng"
+    },
+    {
+      "_row_id": 18,
+      "STT": "5",
+      "Công việc/thiết bị cần bảodưỡng": "Hệ thống ắc quy/ Battery System",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": ""
+    },
+    {
+      "_row_id": 19,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Mức điện giải/ Electrolyte level",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 20,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Vỏ sạch và chặt/ Terminals clean\nand tight",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "03 tháng"
+    },
+    {
+      "_row_id": 21,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Xử ly ́ ăn mòn, dọn và làm khô vỏ\nngoài/ Remove corrosion, case\nexterior clean and dry",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "X",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tháng"
+    },
+    {
+      "_row_id": 22,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Trọng lượng riêng hoặc trạng thái\nnạp/ Specific gravity or state of\ncharge",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "X",
+      "Tầnsuấtbảodưỡng": "01 tháng"
+    },
+    {
+      "_row_id": 23,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Bộ nạp và tí suất nạp/ Charger\nand charge rate",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tháng"
+    }
+  ],
+  "footnotes": []
+}

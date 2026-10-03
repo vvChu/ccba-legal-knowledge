@@ -1,0 +1,109 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCCS 39 2022 TCDBVN
+total_figures: 13
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Sơ đồ cấu tạo mặt đường BTXM thông tường có khe nối
+  annex: MAIN
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  slug: '2'
+  tag: '2'
+  title: Cấu tạo và bố trí cốt thép gia cường (đơn vị mm)
+  annex: B
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_3
+  slug: '3'
+  tag: '3'
+  title: Cấu tạo và bố trí cốt thép gia cường tại góc tam (mm)
+  annex: B
+  anchor: hinh-3
+  image_relpath: figures/images/hinh_3.png
+  has_image: true
+- figure_id: FIG_4
+  slug: '4'
+  tag: '4'
+  title: Cấu tạo và bồ trí cốt thép gia cường tại vị trí cống hộp (cống chui)
+  annex: B
+  anchor: hinh-4
+  image_relpath: figures/images/hinh_4.png
+  has_image: true
+- figure_id: FIG_5
+  slug: '5'
+  tag: '5'
+  title: Cau tạo và bố tri lưới thép gia cường tại vị trí cống tròn (đơn vị mm)
+  annex: B
+  anchor: hinh-5
+  image_relpath: figures/images/hinh_5.png
+  has_image: true
+- figure_id: FIG_6
+  slug: '6'
+  tag: '6'
+  title: Cấu tạo khe dọc (đơn vị mm)
+  annex: B
+  anchor: hinh-6
+  image_relpath: figures/images/hinh_6.png
+  has_image: true
+- figure_id: FIG_7
+  slug: '7'
+  tag: '7'
+  title: Cấu tạo khe ngang ngừng thi công (đơn vi mm)
+  annex: B
+  anchor: hinh-7
+  image_relpath: figures/images/hinh_7.png
+  has_image: true
+- figure_id: FIG_8
+  slug: '8'
+  tag: '8'
+  title: Cấu tạo khe co giả (đơn vị mm)
+  annex: B
+  anchor: hinh-8
+  image_relpath: figures/images/hinh_8.png
+  has_image: true
+- figure_id: FIG_9
+  slug: '9'
+  tag: '9'
+  title: Cấu tạo khe cắt 2 lần (đơn vị mm)
+  annex: B
+  anchor: hinh-9
+  image_relpath: figures/images/hinh_9.png
+  has_image: true
+- figure_id: FIG_10
+  slug: '10'
+  tag: '10'
+  title: Cấu tạo khe dan (đơn vị mm)
+  annex: B
+  anchor: hinh-10
+  image_relpath: figures/images/hinh_10.png
+  has_image: true
+- figure_id: FIG_11
+  slug: '11'
+  tag: '11'
+  title: Cấu tạo và bố trí đoạn chuyển tiếp kết cấu (đơn vị mm)
+  annex: B
+  anchor: hinh-11
+  image_relpath: figures/images/hinh_11.png
+  has_image: true
+- figure_id: FIG_12
+  slug: '12'
+  tag: '12'
+  title: Cấu tạo và bố trí hệ thống thoát nước biên cho kết cấu áo đường (mm)
+  annex: B
+  anchor: hinh-12
+  image_relpath: figures/images/hinh_12.png
+  has_image: true
+- figure_id: FIG_13
+  slug: '13'
+  tag: '13'
+  title: Cấu tạo và bó trí hệ thống thoát nước có lớp móng thắm thoát nước
+  annex: B
+  anchor: hinh-13
+  image_relpath: figures/images/hinh_13.png
+  has_image: true

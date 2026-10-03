@@ -1,0 +1,74 @@
+{
+  "table_id": "bang_phu_luc_a",
+  "table_number": "PLA",
+  "table_title": "Bảng Phụ lục A",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Lưulượngbơmdanhđịnh(l/phút)",
+    "Kích thước ống tối thiểu danh định (mm)",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Lưulượngbơmdanhđịnh(l/phút)": "",
+      "Kích thước ống tối thiểu danh định (mm)": "Ống\nhút",
+      "col_3": "Ống\nđẩy",
+      "col_4": "Van an\ntoàn\ncho\nbơm",
+      "col_5": "Ống xả\náp từ van\nan toàn\ncho bơm",
+      "col_6": "Thiết bị\nđo lưu\nlượng",
+      "col_7": "Số lượng\nvà kích\nthước\nvan vòi",
+      "col_8": "Kích thước\nđường ống\ndẫn ra van\nvòi"
+    },
+    {
+      "_row_id": 2,
+      "Lưulượngbơmdanhđịnh(l/phút)": "95\n189\n379\n568\n757",
+      "Kích thước ống tối thiểu danh định (mm)": "25\n38\n50\n65\n75",
+      "col_3": "25\n32\n50\n65\n75",
+      "col_4": "19\n32\n38\n50\n50",
+      "col_5": "25\n38\n50\n65\n65",
+      "col_6": "32\n50\n65\n75\n75",
+      "col_7": "1 – 38\n1 – 38\n1 – 65\n1 – 65\n1 – 65",
+      "col_8": "25\n38\n65\n65\n65"
+    },
+    {
+      "_row_id": 3,
+      "Lưulượngbơmdanhđịnh(l/phút)": "946\n1.136\n1.514\n1.703\n1.892",
+      "Kích thước ống tối thiểu danh định (mm)": "85\n100\n100\n125\n125",
+      "col_3": "75\n100\n100\n125\n125",
+      "col_4": "50\n65\n75\n75\n75",
+      "col_5": "65\n85\n125\n125\n125",
+      "col_6": "85\n85\n100\n100\n125",
+      "col_7": "1 – 65\n1 – 65\n2 – 65\n2 – 65\n2 – 65",
+      "col_8": "75\n75\n100\n100\n100"
+    },
+    {
+      "_row_id": 4,
+      "Lưulượngbơmdanhđịnh(l/phút)": "2.839\n3.785\n4.731\n5.677\n7.570",
+      "Kích thước ống tối thiểu danh định (mm)": "150\n200\n200\n200\n250",
+      "col_3": "150\n150\n200\n200\n250",
+      "col_4": "100\n100\n150\n150\n150",
+      "col_5": "150\n200\n200\n200\n250",
+      "col_6": "125\n150\n150\n200\n200",
+      "col_7": "3 – 65\n4 – 65\n6 – 65\n6 – 65\n6 - 65",
+      "col_8": "150\n150\n200\n200\n200"
+    },
+    {
+      "_row_id": 5,
+      "Lưulượngbơmdanhđịnh(l/phút)": "9.462\n11.355\n13.247\n15.140\n17.032\n18.925",
+      "Kích thước ống tối thiểu danh định (mm)": "250\n300\n300\n350\n400\n400",
+      "col_3": "250\n300\n300\n300\n350\n350",
+      "col_4": "150\n200\n200\n200\n200\n200",
+      "col_5": "250\n300\n300\n350\n350\n350",
+      "col_6": "200\n200\n250\n250\n250\n250",
+      "col_7": "8 – 65\n12 – 65\n12 – 65\n16 – 65\n16 – 65\n20 - 65",
+      "col_8": "250\n250\n300\n300\n300\n300"
+    }
+  ],
+  "footnotes": []
+}
