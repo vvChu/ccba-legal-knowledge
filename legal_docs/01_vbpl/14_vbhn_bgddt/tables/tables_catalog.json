@@ -1,47 +1,50 @@
-{
-  "schema_version": "2.4",
-  "okf_spec": "v2.4 Universal",
-  "total_tables": 4,
-  "tables": [
-    {
-      "table_id": "bang_01",
-      "title": "Bảng 01",
-      "rows": 23,
-      "cols": 6,
-      "footnotes_count": 0,
-      "footnotes": [],
-      "csv": "tables/csv/bang_01.csv",
-      "json": "tables/json/bang_01.json"
-    },
-    {
-      "table_id": "bang_02",
-      "title": "Bảng 02",
-      "rows": 34,
-      "cols": 6,
-      "footnotes_count": 0,
-      "footnotes": [],
-      "csv": "tables/csv/bang_02.csv",
-      "json": "tables/json/bang_02.json"
-    },
-    {
-      "table_id": "bang_03",
-      "title": "Bảng 03",
-      "rows": 38,
-      "cols": 6,
-      "footnotes_count": 0,
-      "footnotes": [],
-      "csv": "tables/csv/bang_03.csv",
-      "json": "tables/json/bang_03.json"
-    },
-    {
-      "table_id": "bang_04",
-      "title": "Bảng 04",
-      "rows": 40,
-      "cols": 6,
-      "footnotes_count": 0,
-      "footnotes": [],
-      "csv": "tables/csv/bang_04.csv",
-      "json": "tables/json/bang_04.json"
-    }
-  ]
-}
+[
+  {
+    "table_id": "bang_01",
+    "file_stem": "bang_01",
+    "title": "Bảng 01",
+    "columns_count": 6,
+    "rows_count": 23,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_01.json",
+    "csv_path": "tables/csv/bang_01.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_02",
+    "file_stem": "bang_02",
+    "title": "Bảng 02",
+    "columns_count": 6,
+    "rows_count": 34,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_02.json",
+    "csv_path": "tables/csv/bang_02.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_03",
+    "file_stem": "bang_03",
+    "title": "Bảng 03",
+    "columns_count": 6,
+    "rows_count": 38,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_03.json",
+    "csv_path": "tables/csv/bang_03.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  },
+  {
+    "table_id": "bang_04",
+    "file_stem": "bang_04",
+    "title": "Bảng 04",
+    "columns_count": 6,
+    "rows_count": 40,
+    "footnotes_count": 0,
+    "json_path": "tables/json/bang_04.json",
+    "csv_path": "tables/csv/bang_04.csv",
+    "has_normative_conditions": true,
+    "footnotes": []
+  }
+]

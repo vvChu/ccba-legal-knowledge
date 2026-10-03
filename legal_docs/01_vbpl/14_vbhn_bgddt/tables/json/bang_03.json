@@ -4,309 +4,309 @@
   "rows_count": 38,
   "columns_count": 6,
   "headers": [
-    "STTSTTSTT",
-    "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình",
-    "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu",
-    "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1",
-    "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2",
-    "Chú thíchChú thíchChú thích"
+    "STT",
+    "Các hạng mục công trình",
+    "Tiêu chuẩn tối thiểu",
+    "Tiêu chuẩn mức độ 1",
+    "Tiêu chuẩn mức độ 2",
+    "Chú thích"
   ],
   "records": [
     {
-      "STTSTTSTT": "111",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Khối phòng học tậpKhối phòng học tậpKhối phòng học tập",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "1",
+      "Các hạng mục công trình": "Khối phòng học tập",
+      "Tiêu chuẩn tối thiểu": "",
+      "Tiêu chuẩn mức độ 1": "",
+      "Tiêu chuẩn mức độ 2": "",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "1.11.11.1",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng họcPhòng họcPhòng học",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "1,50m2/học sinh1,50m1,50m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "1,50m2/học sinh1,50m1,50m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "1,50m2/học sinh1,50m1,50m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": "Tổng diện tích không nhỏ hơn 45m2/phòngTổng diện tích không nhỏ hơn 45mTổng diện tích không nhỏ hơn 45m22/phòng/phòng"
+      "STT": "1.1",
+      "Các hạng mục công trình": "Phòng học",
+      "Tiêu chuẩn tối thiểu": "1,50m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "1,50m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "1,50m2/học sinh",
+      "Chú thích": "Tổng diện tích không nhỏ hơn 45m2/phòng"
     },
     {
-      "STTSTTSTT": "1.21.21.2",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng học bộ môn Âm nhạcPhòng học bộ môn Âm nhạcPhòng học bộ môn Âm nhạc",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "2,25m2/học sinh2,25m2,25m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "2,25m2/học sinh2,25m2,25m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "2,25m2/học sinh2,25m2,25m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": "Tổng diện tích không nhỏ hơn 60m2/phòngTổng diện tích không nhỏ hơn 60mTổng diện tích không nhỏ hơn 60m22/phòng/phòng"
+      "STT": "1.2",
+      "Các hạng mục công trình": "Phòng học bộ môn Âm nhạc",
+      "Tiêu chuẩn tối thiểu": "2,25m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "2,25m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "2,25m2/học sinh",
+      "Chú thích": "Tổng diện tích không nhỏ hơn 60m2/phòng"
     },
     {
-      "STTSTTSTT": "1.31.31.3",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng học bộ môn Mỹ thuậtPhòng học bộ môn Mỹ thuậtPhòng học bộ môn Mỹ thuật",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "2,25m2/học sinh2,25m2,25m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "2,25m2/học sinh2,25m2,25m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "2,25m2/học sinh2,25m2,25m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": "Tổng diện tích không nhỏ hơn 60m2/phòngTổng diện tích không nhỏ hơn 60mTổng diện tích không nhỏ hơn 60m22/phòng/phòng"
+      "STT": "1.3",
+      "Các hạng mục công trình": "Phòng học bộ môn Mỹ thuật",
+      "Tiêu chuẩn tối thiểu": "2,25m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "2,25m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "2,25m2/học sinh",
+      "Chú thích": "Tổng diện tích không nhỏ hơn 60m2/phòng"
     },
     {
-      "STTSTTSTT": "1.41.41.4",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng học bộ môn Công nghệPhòng học bộ môn Công nghệPhòng học bộ môn Công nghệ",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "2,25m2/học sinh2,25m2,25m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "2,25m2/học sinh2,25m2,25m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "2,25m2/học sinh2,25m2,25m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": "Tổng diện tích không nhỏ hơn 60m2/phòngTổng diện tích không nhỏ hơn 60mTổng diện tích không nhỏ hơn 60m22/phòng/phòng"
+      "STT": "1.4",
+      "Các hạng mục công trình": "Phòng học bộ môn Công nghệ",
+      "Tiêu chuẩn tối thiểu": "2,25m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "2,25m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "2,25m2/học sinh",
+      "Chú thích": "Tổng diện tích không nhỏ hơn 60m2/phòng"
     },
     {
-      "STTSTTSTT": "1.51.51.5",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng học bộ môn Khoa học tự nhiênPhòng học bộ môn Khoa học tự nhiênPhòng học bộ môn Khoa học tự nhiên",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "1,85m2/học sinh1,85m1,85m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "1,85m2/học sinh1,85m1,85m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "1,85m2/học sinh1,85m1,85m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": "Tổng diện tích không nhỏ hơn 60m2/phòngTổng diện tích không nhỏ hơn 60mTổng diện tích không nhỏ hơn 60m22/phòng/phòng"
+      "STT": "1.5",
+      "Các hạng mục công trình": "Phòng học bộ môn Khoa học tự nhiên",
+      "Tiêu chuẩn tối thiểu": "1,85m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "1,85m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "1,85m2/học sinh",
+      "Chú thích": "Tổng diện tích không nhỏ hơn 60m2/phòng"
     },
     {
-      "STTSTTSTT": "1.61.61.6",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng học bộ môn Tin họcPhòng học bộ môn Tin họcPhòng học bộ môn Tin học",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "1,85m2/học sinh1,85m1,85m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "1,85m2/học sinh1,85m1,85m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "1,85m2/học sinh1,85m1,85m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": "Tổng diện tích không nhỏ hơn 60m2/phòngTổng diện tích không nhỏ hơn 60mTổng diện tích không nhỏ hơn 60m22/phòng/phòng"
+      "STT": "1.6",
+      "Các hạng mục công trình": "Phòng học bộ môn Tin học",
+      "Tiêu chuẩn tối thiểu": "1,85m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "1,85m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "1,85m2/học sinh",
+      "Chú thích": "Tổng diện tích không nhỏ hơn 60m2/phòng"
     },
     {
-      "STTSTTSTT": "1.71.71.7",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng học bộ môn Ngoại ngữPhòng học bộ môn Ngoại ngữPhòng học bộ môn Ngoại ngữ",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "1,85m2/học sinh1,85m1,85m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "1,85m2/học sinh1,85m1,85m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "1,85m2/học sinh1,85m1,85m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": "Tổng diện tích không nhỏ hơn 60m2/phòngTổng diện tích không nhỏ hơn 60mTổng diện tích không nhỏ hơn 60m22/phòng/phòng"
+      "STT": "1.7",
+      "Các hạng mục công trình": "Phòng học bộ môn Ngoại ngữ",
+      "Tiêu chuẩn tối thiểu": "1,85m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "1,85m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "1,85m2/học sinh",
+      "Chú thích": "Tổng diện tích không nhỏ hơn 60m2/phòng"
     },
     {
-      "STTSTTSTT": "1.81.81.8",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng đa chức năngPhòng đa chức năngPhòng đa chức năng",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "1,85m2/học sinh1,85m1,85m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "1,85m2/học sinh1,85m1,85m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "1,85m2/học sinh1,85m1,85m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": "Tổng diện tích không nhỏ hơn 60m2/phòngTổng diện tích không nhỏ hơn 60mTổng diện tích không nhỏ hơn 60m22/phòng/phòng"
+      "STT": "1.8",
+      "Các hạng mục công trình": "Phòng đa chức năng",
+      "Tiêu chuẩn tối thiểu": "1,85m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "1,85m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "1,85m2/học sinh",
+      "Chú thích": "Tổng diện tích không nhỏ hơn 60m2/phòng"
     },
     {
-      "STTSTTSTT": "1.91.91.9",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng học bộ môn Khoa học xã hộiPhòng học bộ môn Khoa học xã hộiPhòng học bộ môn Khoa học xã hội",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "---",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "1,50m2/học sinh1,50m1,50m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "1,50m2/học sinh1,50m1,50m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": "Tổng diện tích không nhỏ hơn 60m2/phòngTổng diện tích không nhỏ hơn 60mTổng diện tích không nhỏ hơn 60m22/phòng/phòng"
+      "STT": "1.9",
+      "Các hạng mục công trình": "Phòng học bộ môn Khoa học xã hội",
+      "Tiêu chuẩn tối thiểu": "-",
+      "Tiêu chuẩn mức độ 1": "1,50m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "1,50m2/học sinh",
+      "Chú thích": "Tổng diện tích không nhỏ hơn 60m2/phòng"
     },
     {
-      "STTSTTSTT": "222",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Khối phòng hỗ trợ học tậpKhối phòng hỗ trợ học tậpKhối phòng hỗ trợ học tập",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "2",
+      "Các hạng mục công trình": "Khối phòng hỗ trợ học tập",
+      "Tiêu chuẩn tối thiểu": "",
+      "Tiêu chuẩn mức độ 1": "",
+      "Tiêu chuẩn mức độ 2": "",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "2.1[62]2.12.1 HYPERLINK \\l \"_ftn62\" [62][62]",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Thư việnThư việnThư viện",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "0,60m2/học sinh0,60m0,60m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "- 0,60m2/học sinh;- 0,60m- 0,60m22/học sinh;/học sinh;- phòng đọc học sinh 2,40m2/chỗ;- phòng đọc học sinh 2,40m- phòng đọc học sinh 2,40m22/chỗ;/chỗ;- phòng đọc giáo viên 2,40m2/chỗ;- phòng đọc giáo viên 2,40m- phòng đọc giáo viên 2,40m22/chỗ;/chỗ;- kho sách kín 2,5m2/1000 đơn vị tài nguyên thông tin, kho sách mở 4,5m2/1000 đơn vị tài nguyên thông tin;- kho sách kín 2,5m- kho sách kín 2,5m22/1000 đơn vị tài nguyên thông tin, kho sách mở 4,5m/1000 đơn vị tài nguyên thông tin, kho sách mở 4,5m22/1000 đơn vị tài nguyên thông tin;/1000 đơn vị tài nguyên thông tin;- khu mượn trả và quản lý 6m2/người làm công tác thư viện- khu mượn trả và quản lý 6m- khu mượn trả và quản lý 6m22/người làm công tác thư viện/người làm công tác thư viện",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "- 0,60m2/học sinh;- 0,60m- 0,60m22/học sinh;/học sinh;- phòng đọc học sinh 2,40m2/chỗ;- phòng đọc học sinh 2,40m- phòng đọc học sinh 2,40m22/chỗ;/chỗ;- phòng đọc giáo viên 2,40m2/chỗ;- phòng đọc giáo viên 2,40m- phòng đọc giáo viên 2,40m22/chỗ;/chỗ;- kho sách kín 2,5m2/1000 đơn vị tài nguyên thông tin, kho sách mở 4,5m2/1000 đơn vị tài nguyên thông tin;- kho sách kín 2,5m- kho sách kín 2,5m22/1000 đơn vị tài nguyên thông tin, kho sách mở 4,5m/1000 đơn vị tài nguyên thông tin, kho sách mở 4,5m22/1000 đơn vị tài nguyên thông tin;/1000 đơn vị tài nguyên thông tin;- khu mượn trả và quản lý 6m2/người làm công tác thư viện- khu mượn trả và quản lý 6m- khu mượn trả và quản lý 6m22/người làm công tác thư viện/người làm công tác thư viện",
-      "Chú thíchChú thíchChú thích": "Tổng diện tích không nhỏ hơn 60m2/thư viện. Quy mô được tính từ 30% đến 50% tổng số học sinh toàn trườngTổng diện tích không nhỏ hơn 60mTổng diện tích không nhỏ hơn 60m22/thư viện. Quy mô được tính từ 30% đến 50% tổng số học sinh toàn trường/thư viện. Quy mô được tính từ 30% đến 50% tổng số học sinh toàn trường"
+      "STT": "2.1[62]",
+      "Các hạng mục công trình": "Thư viện",
+      "Tiêu chuẩn tối thiểu": "0,60m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "- 0,60m2/học sinh; - phòng đọc học sinh 2,40m2/chỗ; - phòng đọc giáo viên 2,40m2/chỗ; - kho sách kín 2,5m2/1000 đơn vị tài nguyên thông tin, kho sách mở 4,5m2/1000 đơn vị tài nguyên thông tin; - khu mượn trả và quản lý 6m2/người làm công tác thư viện",
+      "Tiêu chuẩn mức độ 2": "- 0,60m2/học sinh; - phòng đọc học sinh 2,40m2/chỗ; - phòng đọc giáo viên 2,40m2/chỗ; - kho sách kín 2,5m2/1000 đơn vị tài nguyên thông tin, kho sách mở 4,5m2/1000 đơn vị tài nguyên thông tin; - khu mượn trả và quản lý 6m2/người làm công tác thư viện",
+      "Chú thích": "Tổng diện tích không nhỏ hơn 60m2/thư viện. Quy mô được tính từ 30% đến 50% tổng số học sinh toàn trường"
     },
     {
-      "STTSTTSTT": "2.22.22.2",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng thiết bị giáo dụcPhòng thiết bị giáo dụcPhòng thiết bị giáo dục",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "48m2/phòng48m48m22/phòng/phòng",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "48m2/phòng48m48m22/phòng/phòng",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "48m2/phòng48m48m22/phòng/phòng",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "2.2",
+      "Các hạng mục công trình": "Phòng thiết bị giáo dục",
+      "Tiêu chuẩn tối thiểu": "48m2/phòng",
+      "Tiêu chuẩn mức độ 1": "48m2/phòng",
+      "Tiêu chuẩn mức độ 2": "48m2/phòng",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "2.32.32.3",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng tư vấn học đường và hỗ trợ giáo dục học sinh khuyết tật học hòa nhậpPhòng tư vấn học đường và hỗ trợ giáo dục học sinh khuyết tật học hòa nhậpPhòng tư vấn học đường và hỗ trợ giáo dục học sinh khuyết tật học hòa nhập",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "24m2/phòng24m24m22/phòng/phòng",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "24m2/phòng24m24m22/phòng/phòng",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "24m2/phòng24m24m22/phòng/phòng",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "2.3",
+      "Các hạng mục công trình": "Phòng tư vấn học đường và hỗ trợ giáo dục học sinh khuyết tật học hòa nhập",
+      "Tiêu chuẩn tối thiểu": "24m2/phòng",
+      "Tiêu chuẩn mức độ 1": "24m2/phòng",
+      "Tiêu chuẩn mức độ 2": "24m2/phòng",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "2.42.42.4",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng Đoàn, ĐộiPhòng Đoàn, ĐộiPhòng Đoàn, Đội",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "0,03m2/học sinh0,03m0,03m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "0,03m2/học sinh0,03m0,03m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "0,03m2/học sinh0,03m0,03m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "2.4",
+      "Các hạng mục công trình": "Phòng Đoàn, Đội",
+      "Tiêu chuẩn tối thiểu": "0,03m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "0,03m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "0,03m2/học sinh",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "2.52.52.5",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng truyền thốngPhòng truyền thốngPhòng truyền thống",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "48m2/phòng48m48m22/phòng/phòng",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "48m2/phòng48m48m22/phòng/phòng",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "48m2/phòng48m48m22/phòng/phòng",
-      "Chú thíchChú thíchChú thích": "Trường hợp kết hợp với Phòng Đoàn, Đội, diện tích tối thiểu 54m2Trường hợp kết hợp với Phòng Đoàn, Đội, diện tích tối thiểu 54mTrường hợp kết hợp với Phòng Đoàn, Đội, diện tích tối thiểu 54m22"
+      "STT": "2.5",
+      "Các hạng mục công trình": "Phòng truyền thống",
+      "Tiêu chuẩn tối thiểu": "48m2/phòng",
+      "Tiêu chuẩn mức độ 1": "48m2/phòng",
+      "Tiêu chuẩn mức độ 2": "48m2/phòng",
+      "Chú thích": "Trường hợp kết hợp với Phòng Đoàn, Đội, diện tích tối thiểu 54m2"
     },
     {
-      "STTSTTSTT": "333",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Khối phụ trợKhối phụ trợKhối phụ trợ",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "3",
+      "Các hạng mục công trình": "Khối phụ trợ",
+      "Tiêu chuẩn tối thiểu": "",
+      "Tiêu chuẩn mức độ 1": "",
+      "Tiêu chuẩn mức độ 2": "",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "3.13.13.1",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng họpPhòng họpPhòng họp",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "1,20m2/người1,20m1,20m22/người/người",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "1,20m2/người1,20m1,20m22/người/người",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "1,20m2/người1,20m1,20m22/người/người",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "3.1",
+      "Các hạng mục công trình": "Phòng họp",
+      "Tiêu chuẩn tối thiểu": "1,20m2/người",
+      "Tiêu chuẩn mức độ 1": "1,20m2/người",
+      "Tiêu chuẩn mức độ 2": "1,20m2/người",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "3.23.23.2",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng các tổ chuyên mônPhòng các tổ chuyên mônPhòng các tổ chuyên môn",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "30m2/phòng30m30m22/phòng/phòng",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "30m2/phòng30m30m22/phòng/phòng",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "30m2/phòng30m30m22/phòng/phòng",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "3.2",
+      "Các hạng mục công trình": "Phòng các tổ chuyên môn",
+      "Tiêu chuẩn tối thiểu": "30m2/phòng",
+      "Tiêu chuẩn mức độ 1": "30m2/phòng",
+      "Tiêu chuẩn mức độ 2": "30m2/phòng",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "3.33.33.3",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng y tế trường họcPhòng y tế trường họcPhòng y tế trường học",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "24m2/phòng24m24m22/phòng/phòng",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "24m2/phòng24m24m22/phòng/phòng",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "24m2/phòng24m24m22/phòng/phòng",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "3.3",
+      "Các hạng mục công trình": "Phòng y tế trường học",
+      "Tiêu chuẩn tối thiểu": "24m2/phòng",
+      "Tiêu chuẩn mức độ 1": "24m2/phòng",
+      "Tiêu chuẩn mức độ 2": "24m2/phòng",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "3.43.43.4",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Nhà khoNhà khoNhà kho",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "48m2/kho48m48m22/kho/kho",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "48m2/kho48m48m22/kho/kho",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "48m2/kho48m48m22/kho/kho",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "3.4",
+      "Các hạng mục công trình": "Nhà kho",
+      "Tiêu chuẩn tối thiểu": "48m2/kho",
+      "Tiêu chuẩn mức độ 1": "48m2/kho",
+      "Tiêu chuẩn mức độ 2": "48m2/kho",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "3.5[63]3.53.5 HYPERLINK \\l \"_ftn63\" [63][63]",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Khu để xe học sinhKhu để xe học sinhKhu để xe học sinh",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "0,90m2/xe đạp0,90m0,90m22/xe đạp/xe đạp",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "0,90m2/xe đạp0,90m0,90m22/xe đạp/xe đạp",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "0,90m2/xe đạp0,90m0,90m22/xe đạp/xe đạp",
-      "Chú thíchChú thíchChú thích": "Số lượng xe được tính từ 50% đến 70% tổng số học sinh toàn trườngSố lượng xe được tính từ 50% đến 70% tổng số học sinh toàn trườngSố lượng xe được tính từ 50% đến 70% tổng số học sinh toàn trường"
+      "STT": "3.5[63]",
+      "Các hạng mục công trình": "Khu để xe học sinh",
+      "Tiêu chuẩn tối thiểu": "0,90m2/xe đạp",
+      "Tiêu chuẩn mức độ 1": "0,90m2/xe đạp",
+      "Tiêu chuẩn mức độ 2": "0,90m2/xe đạp",
+      "Chú thích": "Số lượng xe được tính từ 50% đến 70% tổng số học sinh toàn trường"
     },
     {
-      "STTSTTSTT": "3.63.63.6",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Khu vệ sinh học sinhKhu vệ sinh học sinhKhu vệ sinh học sinh",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "0,06m2/học sinh0,06m0,06m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "0,06m2/học sinh0,06m0,06m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "0,06m2/học sinh0,06m0,06m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "3.6",
+      "Các hạng mục công trình": "Khu vệ sinh học sinh",
+      "Tiêu chuẩn tối thiểu": "0,06m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "0,06m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "0,06m2/học sinh",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "3.7[64]3.73.7 HYPERLINK \\l \"_ftn64\" [64][64]",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng nghỉ giáo viênPhòng nghỉ giáo viênPhòng nghỉ giáo viên",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "---",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "---",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "12m2/phòng12m12m22/phòng/phòng",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "3.7[64]",
+      "Các hạng mục công trình": "Phòng nghỉ giáo viên",
+      "Tiêu chuẩn tối thiểu": "-",
+      "Tiêu chuẩn mức độ 1": "-",
+      "Tiêu chuẩn mức độ 2": "12m2/phòng",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "3.83.83.8",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng giáo viênPhòng giáo viênPhòng giáo viên",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "---",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "---",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "4m2/giáo viên4m4m22/giáo viên/giáo viên",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "3.8",
+      "Các hạng mục công trình": "Phòng giáo viên",
+      "Tiêu chuẩn tối thiểu": "-",
+      "Tiêu chuẩn mức độ 1": "-",
+      "Tiêu chuẩn mức độ 2": "4m2/giáo viên",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "444",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Khu sân chơi, thể dục thể thaoKhu sân chơi, thể dục thể thaoKhu sân chơi, thể dục thể thao",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "4",
+      "Các hạng mục công trình": "Khu sân chơi, thể dục thể thao",
+      "Tiêu chuẩn tối thiểu": "",
+      "Tiêu chuẩn mức độ 1": "",
+      "Tiêu chuẩn mức độ 2": "",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "4.14.14.1",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Sân trườngSân trườngSân trường",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "1,50m2/học sinh1,50m1,50m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "1,50m2/học sinh1,50m1,50m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "1,50m2/học sinh1,50m1,50m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "4.1",
+      "Các hạng mục công trình": "Sân trường",
+      "Tiêu chuẩn tối thiểu": "1,50m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "1,50m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "1,50m2/học sinh",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "4.24.24.2",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Sân thể dục thể thaoSân thể dục thể thaoSân thể dục thể thao",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "0,35m2/học sinh0,35m0,35m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "0,35m2/học sinh0,35m0,35m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "0,35m2/học sinh0,35m0,35m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": "Tổng diện tích sân không nhỏ hơn 350m2Tổng diện tích sân không nhỏ hơn 350mTổng diện tích sân không nhỏ hơn 350m22"
+      "STT": "4.2",
+      "Các hạng mục công trình": "Sân thể dục thể thao",
+      "Tiêu chuẩn tối thiểu": "0,35m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "0,35m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "0,35m2/học sinh",
+      "Chú thích": "Tổng diện tích sân không nhỏ hơn 350m2"
     },
     {
-      "STTSTTSTT": "4.34.34.3",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Nhà đa năngNhà đa năngNhà đa năng",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "---",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "---",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "450m2/nhà450m450m22/nhà/nhà",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "4.3",
+      "Các hạng mục công trình": "Nhà đa năng",
+      "Tiêu chuẩn tối thiểu": "-",
+      "Tiêu chuẩn mức độ 1": "-",
+      "Tiêu chuẩn mức độ 2": "450m2/nhà",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "555",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Khối phục vụ sinh hoạtKhối phục vụ sinh hoạtKhối phục vụ sinh hoạt",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "5",
+      "Các hạng mục công trình": "Khối phục vụ sinh hoạt",
+      "Tiêu chuẩn tối thiểu": "",
+      "Tiêu chuẩn mức độ 1": "",
+      "Tiêu chuẩn mức độ 2": "",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "5.15.15.1",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Nhà bếpNhà bếpNhà bếp",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "0,30m2/học sinh0,30m0,30m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "0,30m2/học sinh0,30m0,30m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "0,30m2/học sinh0,30m0,30m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "5.1",
+      "Các hạng mục công trình": "Nhà bếp",
+      "Tiêu chuẩn tối thiểu": "0,30m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "0,30m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "0,30m2/học sinh",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "5.25.25.2",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Kho bếpKho bếpKho bếp",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "10m2/kho thực phẩm; 12m2/kho lương thực10m10m22/kho thực phẩm; 12m/kho thực phẩm; 12m22/kho lương thực/kho lương thực",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "10m2/kho thực phẩm; 12m2/kho lương thực10m10m22/kho thực phẩm; 12m/kho thực phẩm; 12m22/kho lương thực/kho lương thực",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "10m2/kho thực phẩm; 12m2/kho lương thực10m10m22/kho thực phẩm; 12m/kho thực phẩm; 12m22/kho lương thực/kho lương thực",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "5.2",
+      "Các hạng mục công trình": "Kho bếp",
+      "Tiêu chuẩn tối thiểu": "10m2/kho thực phẩm; 12m2/kho lương thực",
+      "Tiêu chuẩn mức độ 1": "10m2/kho thực phẩm; 12m2/kho lương thực",
+      "Tiêu chuẩn mức độ 2": "10m2/kho thực phẩm; 12m2/kho lương thực",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "5.35.35.3",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Nhà ănNhà ănNhà ăn",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "0,75m2/chỗ0,75m0,75m22/chỗ/chỗ",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "0,75m2/chỗ0,75m0,75m22/chỗ/chỗ",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "0,75m2/chỗ0,75m0,75m22/chỗ/chỗ",
-      "Chú thíchChú thíchChú thích": "Số chỗ được tính với 35% tổng số học sinh, giáo viên, nhân viên, toàn trườngSố chỗ được tính với 35% tổng số học sinh, giáo viên, nhân viên, toàn trườngSố chỗ được tính với 35% tổng số học sinh, giáo viên, nhân viên, toàn trường"
+      "STT": "5.3",
+      "Các hạng mục công trình": "Nhà ăn",
+      "Tiêu chuẩn tối thiểu": "0,75m2/chỗ",
+      "Tiêu chuẩn mức độ 1": "0,75m2/chỗ",
+      "Tiêu chuẩn mức độ 2": "0,75m2/chỗ",
+      "Chú thích": "Số chỗ được tính với 35% tổng số học sinh, giáo viên, nhân viên, toàn trường"
     },
     {
-      "STTSTTSTT": "5.45.45.4",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Nhà ở nội trúNhà ở nội trúNhà ở nội trú",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "4m2/chỗ4m4m22/chỗ/chỗ",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "4m2/chỗ4m4m22/chỗ/chỗ",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "4m2/chỗ4m4m22/chỗ/chỗ",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "5.4",
+      "Các hạng mục công trình": "Nhà ở nội trú",
+      "Tiêu chuẩn tối thiểu": "4m2/chỗ",
+      "Tiêu chuẩn mức độ 1": "4m2/chỗ",
+      "Tiêu chuẩn mức độ 2": "4m2/chỗ",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "5.55.55.5",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng quản lý học sinhPhòng quản lý học sinhPhòng quản lý học sinh",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "9m2/phòng9m9m22/phòng/phòng",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "9m2/phòng9m9m22/phòng/phòng",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "9m2/phòng9m9m22/phòng/phòng",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "5.5",
+      "Các hạng mục công trình": "Phòng quản lý học sinh",
+      "Tiêu chuẩn tối thiểu": "9m2/phòng",
+      "Tiêu chuẩn mức độ 1": "9m2/phòng",
+      "Tiêu chuẩn mức độ 2": "9m2/phòng",
+      "Chú thích": ""
     },
     {
-      "STTSTTSTT": "5.65.65.6",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Phòng sinh hoạt chungPhòng sinh hoạt chungPhòng sinh hoạt chung",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "0,20m2/học sinh0,20m0,20m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "0,20m2/học sinh0,20m0,20m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "0,20m2/học sinh0,20m0,20m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": "Tổng diện tích không nhỏ hơn 36m2/phòngTổng diện tích không nhỏ hơn 36mTổng diện tích không nhỏ hơn 36m22/phòng/phòng"
+      "STT": "5.6",
+      "Các hạng mục công trình": "Phòng sinh hoạt chung",
+      "Tiêu chuẩn tối thiểu": "0,20m2/học sinh",
+      "Tiêu chuẩn mức độ 1": "0,20m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "0,20m2/học sinh",
+      "Chú thích": "Tổng diện tích không nhỏ hơn 36m2/phòng"
     },
     {
-      "STTSTTSTT": "5.7[65]5.75.7 HYPERLINK \\l \"_ftn65\" [65][65]",
-      "Các hạng mục công trìnhCác hạng mục công trìnhCác hạng mục công trình": "Nhà văn hóaNhà văn hóaNhà văn hóa",
-      "Tiêu chuẩn tối thiểuTiêu chuẩn tối thiểuTiêu chuẩn tối thiểu": "---",
-      "Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1Tiêu chuẩn mức độ 1": "0,40m2/học sinh0,40m0,40m22/học sinh/học sinh",
-      "Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2Tiêu chuẩn mức độ 2": "0,40m2/học sinh0,40m0,40m22/học sinh/học sinh",
-      "Chú thíchChú thíchChú thích": ""
+      "STT": "5.7[65]",
+      "Các hạng mục công trình": "Nhà văn hóa",
+      "Tiêu chuẩn tối thiểu": "-",
+      "Tiêu chuẩn mức độ 1": "0,40m2/học sinh",
+      "Tiêu chuẩn mức độ 2": "0,40m2/học sinh",
+      "Chú thích": ""
     }
   ],
   "footnotes": []
