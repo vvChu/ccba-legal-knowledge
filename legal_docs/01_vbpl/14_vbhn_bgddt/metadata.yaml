@@ -1,0 +1,21 @@
+id: 14_vbhn_bgddt
+document_number: 14/VBHN-BGDĐT
+type: Văn bản hợp nhất
+title: Văn bản hợp nhất 14/VBHN-BGDĐT Thông tư ban hành Quy định tiêu chuẩn cơ sở
+  vật chất các trường mầm non, tiểu học, trung học cơ sở, trung học phổ thông và trường
+  phổ thông có nhiều cấp học
+status: effective
+issued_by: Bộ Giáo dục và Đào tạo
+effective_date: '2020-07-11'
+signer: Phạm Ngọc Thưởng
+pdf_path: ./sources/14_vbhn_bgddt.pdf
+pdf_sha256: 104f8f9211776f4ad73a056841c0129a77e16b2c7cb0f6c5b45231b7c6b6a06a
+pdf_status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+legal_basis:
+- doc_id: luat_giao_duc_2019
+  title: Luật Giáo dục ngày 14 tháng 6 năm 2019
+replaces: []
+extracted_at: '2026-10-03T05:20:00.000000+00:00'

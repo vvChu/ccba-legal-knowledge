@@ -1,0 +1,288 @@
+{
+  "table_id": "bang_02",
+  "table_number": "2",
+  "table_title": "Bảng 2",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên các bộ phận",
+    "Khách sạn có quy mô — 150 giường",
+    "Khách sạn có quy mô — 300 giường",
+    "Khách sạn có quy mô — 500 giường",
+    "Ghi chú"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên các bộ phận": "1",
+      "Khách sạn có quy mô — 150 giường": "2",
+      "Khách sạn có quy mô — 300 giường": "3",
+      "Khách sạn có quy mô — 500 giường": "4",
+      "Ghi chú": "5"
+    },
+    {
+      "_row_id": 2,
+      "Tên các bộ phận": "Nhóm sảnh",
+      "Khách sạn có quy mô — 150 giường": "",
+      "Khách sạn có quy mô — 300 giường": "",
+      "Khách sạn có quy mô — 500 giường": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 3,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Sảnh tiếp đón",
+      "Khách sạn có quy mô — 150 giường": "1,00",
+      "Khách sạn có quy mô — 300 giường": "0,08",
+      "Khách sạn có quy mô — 500 giường": "0,60",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 4,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Sảnh tầng",
+      "Khách sạn có quy mô — 150 giường": "0,40",
+      "Khách sạn có quy mô — 300 giường": "0,35",
+      "Khách sạn có quy mô — 500 giường": "0,30",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 5,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Các phòng tiếp khách và sinh hoạt chung",
+      "Khách sạn có quy mô — 150 giường": "0,30",
+      "Khách sạn có quy mô — 300 giường": "0,25",
+      "Khách sạn có quy mô — 500 giường": "0,20",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 6,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Nơi tiếp đón",
+      "Khách sạn có quy mô — 150 giường": "0,20",
+      "Khách sạn có quy mô — 300 giường": "0,16",
+      "Khách sạn có quy mô — 500 giường": "0,12",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 7,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Nơi gửi tiền, đồ vật",
+      "Khách sạn có quy mô — 150 giường": "0,12",
+      "Khách sạn có quy mô — 300 giường": "0,10",
+      "Khách sạn có quy mô — 500 giường": "0,08",
+      "Ghi chú": "Tính theo luận chứng KTKT"
+    },
+    {
+      "_row_id": 8,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Nơi đổi tiền",
+      "Khách sạn có quy mô — 150 giường": "5 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "5 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "5 $m^{2}$/chỗ",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 9,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Cửa hàng bách hoá mĩ nghệ",
+      "Khách sạn có quy mô — 150 giường": "0,40",
+      "Khách sạn có quy mô — 300 giường": "0,40",
+      "Khách sạn có quy mô — 500 giường": "0,30",
+      "Ghi chú": "Tính theo số giường"
+    },
+    {
+      "_row_id": 10,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Cắt tóc nam",
+      "Khách sạn có quy mô — 150 giường": "6 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "6 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "6 $m^{2}$/chỗ",
+      "Ghi chú": "Tính theo luận chứng KTKT"
+    },
+    {
+      "_row_id": 11,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Uốn tóc nữ",
+      "Khách sạn có quy mô — 150 giường": "8 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "8 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "8 $m^{2}$/chỗ",
+      "Ghi chú": "nt"
+    },
+    {
+      "_row_id": 12,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Phòng y tế",
+      "Khách sạn có quy mô — 150 giường": "12 $m^{2}$",
+      "Khách sạn có quy mô — 300 giường": "24 $m^{2}$",
+      "Khách sạn có quy mô — 500 giường": "24 $m^{2}$",
+      "Ghi chú": "nt"
+    },
+    {
+      "_row_id": 13,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Quầy bưu điện",
+      "Khách sạn có quy mô — 150 giường": "5 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "5 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "5 $m^{2}$/chỗ",
+      "Ghi chú": "Tính theo luận chứng KTKT"
+    },
+    {
+      "_row_id": 14,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Tổng đài điện thoại",
+      "Khách sạn có quy mô — 150 giường": "12 $m^{2}$",
+      "Khách sạn có quy mô — 300 giường": "12 $m^{2}$",
+      "Khách sạn có quy mô — 500 giường": "18 $m^{2}$",
+      "Ghi chú": "nt"
+    },
+    {
+      "_row_id": 15,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Buồng điện thoại",
+      "Khách sạn có quy mô — 150 giường": "1 $m^{2}$",
+      "Khách sạn có quy mô — 300 giường": "1 $m^{2}$",
+      "Khách sạn có quy mô — 500 giường": "1 $m^{2}$",
+      "Ghi chú": "nt"
+    },
+    {
+      "_row_id": 16,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Quầy sách báo",
+      "Khách sạn có quy mô — 150 giường": "16 $m^{2}$",
+      "Khách sạn có quy mô — 300 giường": "16 $m^{2}$",
+      "Khách sạn có quy mô — 500 giường": "24 $m^{2}$",
+      "Ghi chú": "Theo luận chứng KTKT"
+    },
+    {
+      "_row_id": 17,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Phòng hội nghị",
+      "Khách sạn có quy mô — 150 giường": "1,8 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "1,8 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "1,8 $m^{2}$/chỗ",
+      "Ghi chú": "nt"
+    },
+    {
+      "_row_id": 18,
+      "Tên các bộ phận": "Nhóm ăn uống",
+      "Khách sạn có quy mô — 150 giường": "",
+      "Khách sạn có quy mô — 300 giường": "",
+      "Khách sạn có quy mô — 500 giường": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 19,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Phòng ăn",
+      "Khách sạn có quy mô — 150 giường": "1,5 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "1,5 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "1,5 $m^{2}$/chỗ",
+      "Ghi chú": "Tính 70-100 số giường"
+    },
+    {
+      "_row_id": 20,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Phòng trực",
+      "Khách sạn có quy mô — 150 giường": "1,5 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "1,5 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "1,5 $m^{2}$/chỗ",
+      "Ghi chú": "Tính 10 - 20% số giường"
+    },
+    {
+      "_row_id": 21,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Phòng ăn đặc sản",
+      "Khách sạn có quy mô — 150 giường": "2 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "2 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "2 $m^{2}$/chỗ",
+      "Ghi chú": "Theo luận chứng KTKT"
+    },
+    {
+      "_row_id": 22,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Bar giải khát",
+      "Khách sạn có quy mô — 150 giường": "0,8 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "0,8 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "0,8 $m^{2}$/chỗ",
+      "Ghi chú": "Tính 20% số giường"
+    },
+    {
+      "_row_id": 23,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Tiệm cà phê",
+      "Khách sạn có quy mô — 150 giường": "0,8 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "0,8 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "0,8 $m^{2}$/chỗ",
+      "Ghi chú": "Theo luận chứng KTKT"
+    },
+    {
+      "_row_id": 24,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Sàn nhảy, có bar đêm",
+      "Khách sạn có quy mô — 150 giường": "1 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "1 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "1 $m^{2}$/chỗ",
+      "Ghi chú": "nt"
+    },
+    {
+      "_row_id": 25,
+      "Tên các bộ phận": "Nhóm bếp",
+      "Khách sạn có quy mô — 150 giường": "",
+      "Khách sạn có quy mô — 300 giường": "",
+      "Khách sạn có quy mô — 500 giường": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 26,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Kho các loại lương thực thực phẩm, lạnh, dụng cụ nhà bếp, phục vụ rau quả rượu bia, nước ngọt, nhiên liệu, phế liệu...",
+      "Khách sạn có quy mô — 150 giường": "1 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "0,8 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "0,6 $m^{2}$/chỗ",
+      "Ghi chú": "Tính theo số chỗ trong phòng ăn, giải khát"
+    },
+    {
+      "_row_id": 27,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Bộ phận gia công (gia công thô, kĩ, nấu hấp cơm, bánh, nấu thức ăn, pha chế,rửa đĩa, xoong nồi...)",
+      "Khách sạn có quy mô — 150 giường": "1,2 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "1 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "0,8 $m^{2}$/chỗ",
+      "Ghi chú": "nt"
+    },
+    {
+      "_row_id": 28,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Nơi soạn và phục vụ nhà bàn",
+      "Khách sạn có quy mô — 150 giường": "0,5 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "0,3 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "0,2 $m^{2}$/chỗ",
+      "Ghi chú": "nt"
+    },
+    {
+      "_row_id": 29,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Các phòng quản lí sinh hoạt. (Nơi làm việc của bếp trưởng, kiểm nghiệm thức ăn, kế toán, thay quần áo nghỉ của nhân viên...)",
+      "Khách sạn có quy mô — 150 giường": "0,4 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "0,3 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "0,2 $m^{2}$/chỗ",
+      "Ghi chú": "nt"
+    },
+    {
+      "_row_id": 30,
+      "Tên các bộ phận": "Nhóm giải trí thể thao",
+      "Khách sạn có quy mô — 150 giường": "",
+      "Khách sạn có quy mô — 300 giường": "",
+      "Khách sạn có quy mô — 500 giường": "",
+      "Ghi chú": ""
+    },
+    {
+      "_row_id": 31,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Phòng chiếu phim Video",
+      "Khách sạn có quy mô — 150 giường": "0,8 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "0,8 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "0,8 $m^{2}$/chỗ",
+      "Ghi chú": "Theo luận chứng KTKT"
+    },
+    {
+      "_row_id": 32,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Phòng đọc sách báo",
+      "Khách sạn có quy mô — 150 giường": "1,2 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "1,2 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "1,2 $m^{2}$/chỗ",
+      "Ghi chú": "Theo luận chứng KTKT"
+    },
+    {
+      "_row_id": 33,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Bóng bàn",
+      "Khách sạn có quy mô — 150 giường": "45 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "45 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "45 $m^{2}$/chỗ",
+      "Ghi chú": "Theo luận chứng KTKT"
+    },
+    {
+      "_row_id": 34,
+      "Tên các bộ phận": "&nbsp;&nbsp;\\- Cờ, bi-a\n&nbsp;&nbsp;\\- Bể bơi\n&nbsp;&nbsp;\\- Sân bóng các loại",
+      "Khách sạn có quy mô — 150 giường": "20 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 300 giường": "20 $m^{2}$/chỗ",
+      "Khách sạn có quy mô — 500 giường": "20 $m^{2}$/chỗ",
+      "Ghi chú": "Theo luận chứng KTKT"
+    }
+  ],
+  "footnotes": []
+}

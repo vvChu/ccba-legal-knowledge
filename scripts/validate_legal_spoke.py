@@ -1196,6 +1196,7 @@ class LegalSpokeValidator:
                 text = text.lower()
                 for k, v in greek_map.items():
                     text = text.replace(k, v)
+                text = re.sub(r"\(#[^)]+\)", " ", text)
                 text = re.sub(r"\\text\{([^}]+)\}", r"\1", text)
                 text = re.sub(r"\\(?:sqrt|frac|times|le|ge|cdot|quad|qquad|dots|left|right|pm|approx|sim|over)", " ", text)
                 text = re.sub(r"&nbsp;", " ", text)
