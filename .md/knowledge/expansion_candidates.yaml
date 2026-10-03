@@ -645,3 +645,75 @@ candidates:
   tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-14177-3-2024-To-chuc-va-so-hoa-thong-tin-ve-cong-trinh-xay-dung-Phan-3-921453.aspx
   base_impact_score: 7.4
   tier_override: 4
+- id: ND-349-2026-ND-CP
+  document_number: 349/2026/NĐ-CP
+  title: Nghị định sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu
+  category: 01_vbpl
+  discipline: Đấu thầu
+  issued_by: Chính phủ
+  effective_date: '2026-09-09'
+  replaces: ''
+  search_query: 349/2026/NĐ-CP
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Nghi-dinh-349-2026-ND-CP-sua-doi-Nghi-dinh-quy-dinh-Luat-Dau-thau-ve-lua-chon-nha-thau-685210.aspx
+  base_impact_score: 9.8
+  tier_override: 1
+- id: LUAT-57-2024-QH15
+  document_number: 57/2024/QH15
+  title: Luật sửa đổi, bổ sung một số điều của Luật Quy hoạch, Luật Đầu tư, Luật Đầu tư theo phương thức đối tác công tư và Luật Đấu thầu
+  category: 01_vbpl
+  discipline: Đấu thầu / Thể chế
+  issued_by: Quốc hội
+  effective_date: '2025-01-15'
+  replaces: ''
+  search_query: 57/2024/QH15
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-sua-doi-Luat-Quy-hoach-Luat-Dau-tu-Luat-Dau-tu-theo-phuong-thuc-doi-tac-cong-tu-va-Luat-Dau-thau-2024-628412.aspx
+  base_impact_score: 9.6
+  tier_override: 1
+- id: ND-225-2025-ND-CP
+  document_number: 225/2025/NĐ-CP
+  title: Nghị định sửa đổi, bổ sung một số điều của Nghị định số 23/2024/NĐ-CP và Nghị định số 115/2024/NĐ-CP quy định chi tiết thi hành Luật Đấu thầu về lựa chọn nhà đầu tư
+  category: 01_vbpl
+  discipline: Đấu thầu
+  issued_by: Chính phủ
+  effective_date: '2025-08-15'
+  replaces: ''
+  search_query: 225/2025/NĐ-CP
+  tvpl_url: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-225-2025-nd-cp-45892.htm
+  base_impact_score: 9.1
+  tier_override: 2
+- id: TT-05-2024-TT-BKHDT
+  document_number: 05/2024/TT-BKHĐT
+  title: Thông tư quy định về quản lý và sử dụng các chi phí trong lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia
+  category: 01_vbpl
+  discipline: Đấu thầu
+  issued_by: Bộ Kế hoạch và Đầu tư
+  effective_date: '2024-04-19'
+  replaces: Thông tư 06/2021/TT-BKHĐT
+  search_query: 05/2024/TT-BKHĐT
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-05-2024-TT-BKH-DT-chi-phi-lua-chon-nha-thau-nha-dau-tu-he-thong-mang-dau-thau-quoc-gia-606912.aspx
+  base_impact_score: 8.8
+  tier_override: 3
+- id: TT-03-2024-TT-BKHDT
+  document_number: 03/2024/TT-BKHĐT
+  title: Thông tư quy định mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư thực hiện dự án đầu tư kinh doanh
+  category: 01_vbpl
+  discipline: Đấu thầu
+  issued_by: Bộ Kế hoạch và Đầu tư
+  effective_date: '2024-03-06'
+  replaces: Thông tư 09/2021/TT-BKHĐT
+  search_query: 03/2024/TT-BKHĐT
+  tvpl_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Thong-tu-03-2024-TT-BKH-DT-mau-ho-so-dau-thau-lua-chon-nha-dau-tu-du-an-dau-tu-kinh-doanh-600412.aspx
+  base_impact_score: 8.6
+  tier_override: 3
+- id: TT-105-2025-TT-BTC
+  document_number: 105/2025/TT-BTC
+  title: Thông tư sửa đổi, bổ sung một số điều của Thông tư số 02/2024/TT-BKHĐT về hoạt động đào tạo, bồi dưỡng kiến thức và cấp chứng chỉ nghiệp vụ chuyên môn về đấu thầu
+  category: 01_vbpl
+  discipline: Đấu thầu
+  issued_by: Bộ Tài chính
+  effective_date: '2025-11-15'
+  replaces: ''
+  search_query: 105/2025/TT-BTC
+  tvpl_url: https://congbao.chinhphu.vn/van-ban/thong-tu-so-105-2025-tt-btc-46012.htm
+  base_impact_score: 8.4
+  tier_override: 3
