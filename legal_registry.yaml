@@ -1,15 +1,67 @@
 version: 0.3.0
-updated_at: '2026-10-01T10:11:01.392402+00:00'
+updated_at: '2026-10-03T07:34:00.000000+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 70
+  total_documents: 72
   categories:
-    01_vbpl: 35
+    01_vbpl: 37
     02_qcvn: 14
     03_tcvn: 18
     04_appendices: 3
 documents: {}
 laws:
+- id: Luat-Nha-o-2023-27-2023-QH15-528669
+  document_number: 27/2023/QH15
+  type: Luật
+  issued_by: Quốc hội
+  signer: Vương Đình Huệ
+  issued_date: '2023-11-27'
+  effective_date: '2024-08-01'
+  published_date: '2023-12-15'
+  status: active
+  relations:
+    replaces: 65/2014/QH13
+  title: Luật Nhà ở 2023 (Số 27/2023/QH15)
+  cong_bao_number: Đang cập nhật
+  bundle_path: legal_docs/01_vbpl/luat_nha_o_2023_27_2023_qh15/
+  pdf_path: legal_docs/01_vbpl/luat_nha_o_2023_27_2023_qh15/sources/luat_nha_o_2023_27_2023_qh15.pdf
+  pdf_sha256: 845027819231cccc087ba21c6a959b9a670ced96fc9da9e34185e30eef182d45
+  pdf_status: verified
+  source_assets:
+    pdf:
+      sha256: 845027819231cccc087ba21c6a959b9a670ced96fc9da9e34185e30eef182d45
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_nha_o_2023_27_2023_qh15/luat_nha_o_2023_27_2023_qh15.pdf
+      status: verified
+    docx:
+      sha256: 20e094b919ac9b2acef4ded15040ee3b2c9043776cdbff57d12eba01ad906305
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_nha_o_2023_27_2023_qh15/luat_nha_o_2023_27_2023_qh15.docx
+      status: verified
+- id: Luat-Dat-dai-2024-31-2024-QH15-523642
+  document_number: 31/2024/QH15
+  type: Luật
+  issued_by: Quốc hội
+  signer: Vương Đình Huệ
+  issued_date: '2024-01-18'
+  effective_date: '2024-08-01'
+  published_date: '2024-02-05'
+  status: active
+  relations:
+    replaces: 45/2013/QH13
+  title: Luật Đất đai 2024 (Số 31/2024/QH15)
+  cong_bao_number: Đang cập nhật
+  bundle_path: legal_docs/01_vbpl/luat_dat_dai_2024_31_2024_qh15/
+  pdf_path: legal_docs/01_vbpl/luat_dat_dai_2024_31_2024_qh15/sources/luat_dat_dai_2024_31_2024_qh15.pdf
+  pdf_sha256: a626dcf54621f31a567c22957d65546f8f35a95bdc250b8cd77fc7fff8966398
+  pdf_status: verified
+  source_assets:
+    pdf:
+      sha256: a626dcf54621f31a567c22957d65546f8f35a95bdc250b8cd77fc7fff8966398
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_dat_dai_2024_31_2024_qh15/luat_dat_dai_2024_31_2024_qh15.pdf
+      status: verified
+    docx:
+      sha256: 65500a3ff2553d7bd85ea5175f7cff526cb80e75d863c9b913bb9fef09f7a6d9
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_dat_dai_2024_31_2024_qh15/luat_dat_dai_2024_31_2024_qh15.docx
+      status: verified
 - id: TT-79-2025-TT-BTC
   document_number: 79/2025/TT-BTC
   type: Thông tư
