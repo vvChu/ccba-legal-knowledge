@@ -2,9 +2,9 @@ version: 0.3.0
 updated_at: '2026-10-03T07:34:00.000000+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 74
+  total_documents: 78
   categories:
-    01_vbpl: 39
+    01_vbpl: 43
     02_qcvn: 14
     03_tcvn: 18
     04_appendices: 3
@@ -169,7 +169,9 @@ laws:
   status: active
   relations:
     replaces: 43/2013/QH13
-    amended_by: 57/2024/QH15
+    amended_by:
+    - 57/2024/QH15
+    - 90/2025/QH15
   title: Luật Đấu thầu số 22/2023/QH15
   bundle_path: legal_docs/01_vbpl/luat_dau_thau_2023_22_2023_qh15/
   source_url: https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-Dau-thau-2023-22-2023-QH15-518805.aspx
@@ -222,6 +224,34 @@ laws:
     docx:
       sha256: b289728758ddf81fa4e99edfb6e76c49376f92052edb4b0ee36705d179a7eef4
       vault_path: CCBA_Legal_Vault/01_vbpl/luat_57_2024_qh15/luat_57_2024_qh15.docx
+      status: verified
+- id: luat_90_2025_qh15
+  document_number: 90/2025/QH15
+  type: Luật
+  issued_by: Quốc hội
+  signer: Trần Thanh Mẫn
+  issued_date: '2025-06-25'
+  effective_date: '2025-07-01'
+  published_date: '2025-07-01'
+  status: active
+  relations:
+    amends: luat_dau_thau_2023_22_2023_qh15
+  title: Luật sửa đổi, bổ sung một số điều của Luật Đấu thầu, Luật Đầu tư theo phương thức đối tác công tư, Luật Hải quan, Luật Thuế giá trị gia tăng, Luật Thuế xuất khẩu, thuế nhập khẩu, Luật Đầu tư, Luật Đầu tư công, Luật Quản lý, sử dụng tài sản công (Số 90/2025/QH15)
+  cong_bao_number: Đang cập nhật
+  bundle_path: legal_docs/01_vbpl/luat_90_2025_qh15/
+  pdf_path: legal_docs/01_vbpl/luat_90_2025_qh15/sources/luat_90_2025_qh15.pdf
+  pdf_sha256: 6f278580537185266af63c1dadc0c4262252e608929570b4b3d60c466bc6a60c
+  pdf_status: verified
+  source_file: legal_docs/01_vbpl/luat_90_2025_qh15/sources/luat_90_2025_qh15.docx
+  source_file_size_kb: 65.7
+  source_assets:
+    pdf:
+      sha256: 6f278580537185266af63c1dadc0c4262252e608929570b4b3d60c466bc6a60c
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_90_2025_qh15/luat_90_2025_qh15.pdf
+      status: verified
+    docx:
+      sha256: 2fcef30caf63d964df14b8d66f4241e6bcdd7af1c7f290b29ada04de4a9383db
+      vault_path: CCBA_Legal_Vault/01_vbpl/luat_90_2025_qh15/luat_90_2025_qh15.docx
       status: verified
 - id: nghi_dinh_217_2026_nd_cp
   document_number: 217/2026/NĐ-CP
@@ -2140,7 +2170,9 @@ decrees:
   source_url: https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-115-2024-nd-cp-42763.htm
   relations:
     guided_by: luat_dau_thau_2023_22_2023_qh15
-    amended_by: 225/2025/NĐ-CP
+    amended_by:
+    - 17/2025/NĐ-CP
+    - 225/2025/NĐ-CP
   pdf_path: legal_docs/01_vbpl/nghi_dinh_115_2024_nd_cp/sources/nghi_dinh_115_2024_nd_cp.pdf
   pdf_sha256: ed1fc87cb35b04c515ce65b79b69c4736b7a9cac959c6666a733d18dd4f4de6d
   pdf_origin: official_gazette_vector
@@ -2235,6 +2267,9 @@ decrees:
   relations:
     guided_by: luat_dau_thau_2023_22_2023_qh15
     replaces: 25/2020/NĐ-CP
+    amended_by:
+    - 17/2025/NĐ-CP
+    - 225/2025/NĐ-CP
   pdf_path: legal_docs/01_vbpl/nghi_dinh_23_2024_nd_cp/sources/nghi_dinh_23_2024_nd_cp.pdf
   pdf_sha256: d22742cd3391b4b37a135989453aa7ca176fce439297362253a86c54e86ecd86
   pdf_origin: official_gazette_vector
@@ -2314,3 +2349,96 @@ decrees:
       sha256: a58cc2bdd323cb287bce5967ae3c0a452679a8fb29a9347cf2dd7bd4ef052bd6
       vault_path: CCBA_Legal_Vault/01_vbpl/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15/luat_quy_hoach_do_thi_va_nong_thon_2024_47_2024_qh15.docx
       status: verified
+- id: nghi_dinh_225_2025_nd_cp
+  document_number: 225/2025/NĐ-CP
+  title: Nghị định số 225/2025/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 23/2024/NĐ-CP và Nghị định số 115/2024/NĐ-CP quy định chi tiết thi hành Luật Đấu thầu về lựa chọn nhà đầu tư
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Phó Thủ tướng Trần Hồng Hà
+  issued_date: '2025-08-15'
+  effective_date: '2025-08-15'
+  published_date: '2025-08-15'
+  status: active
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_225_2025_nd_cp/
+  relations:
+    guided_by: luat_dau_thau_2023_22_2023_qh15
+    amends:
+    - 23/2024/NĐ-CP
+    - 115/2024/NĐ-CP
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_225_2025_nd_cp/sources/nghi_dinh_225_2025_nd_cp.pdf
+  pdf_sha256: 1fe2ad8a1dfb4e470f22228998fc0561c4e41118e6032b00bad590146be7bfd9
+  pdf_status: verified
+  cong_bao_number: Đang cập nhật
+  source_file: legal_docs/01_vbpl/nghi_dinh_225_2025_nd_cp/sources/nghi_dinh_225_2025_nd_cp.docx
+  source_file_size_kb: 33.7
+  source_assets:
+    pdf:
+      sha256: 1fe2ad8a1dfb4e470f22228998fc0561c4e41118e6032b00bad590146be7bfd9
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_225_2025_nd_cp/nghi_dinh_225_2025_nd_cp.pdf
+      status: verified
+    docx:
+      sha256: 88445d9e31f4e7072ee20fec19f12f920072d37a047eb1ec7153e95976d27654
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_225_2025_nd_cp/nghi_dinh_225_2025_nd_cp.docx
+      status: verified
+- id: nghi_dinh_17_2025_nd_cp
+  document_number: 17/2025/NĐ-CP
+  title: Nghị định số 17/2025/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu
+  type: Nghị định
+  issued_by: Chính phủ
+  signer: Phó Thủ tướng Trần Hồng Hà
+  issued_date: '2025-02-06'
+  effective_date: '2025-02-06'
+  published_date: '2025-02-06'
+  status: active
+  bundle_path: legal_docs/01_vbpl/nghi_dinh_17_2025_nd_cp/
+  relations:
+    guided_by: luat_dau_thau_2023_22_2023_qh15
+    amends:
+    - 24/2024/NĐ-CP
+    - 23/2024/NĐ-CP
+    - 115/2024/NĐ-CP
+  pdf_path: legal_docs/01_vbpl/nghi_dinh_17_2025_nd_cp/sources/nghi_dinh_17_2025_nd_cp.pdf
+  pdf_sha256: 714aeee15f2835a713702275f92dc8a5aff20945153d3ffcc73f9adbf5035c8c
+  pdf_status: verified
+  cong_bao_number: Đang cập nhật
+  source_file: legal_docs/01_vbpl/nghi_dinh_17_2025_nd_cp/sources/nghi_dinh_17_2025_nd_cp.docx
+  source_file_size_kb: 29.1
+  source_assets:
+    pdf:
+      sha256: 714aeee15f2835a713702275f92dc8a5aff20945153d3ffcc73f9adbf5035c8c
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_17_2025_nd_cp/nghi_dinh_17_2025_nd_cp.pdf
+      status: verified
+    docx:
+      sha256: 34c27f153203f409617b1d13ceeb66dcf3cc1047ea9df8c18848dbd8c80ad610
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_17_2025_nd_cp/nghi_dinh_17_2025_nd_cp.docx
+      status: verified
+- id: thong_tu_05_2024_tt_bkhdt
+  document_number: 05/2024/TT-BKHĐT
+  title: Thông tư số 05/2024/TT-BKHĐT quy định về quản lý và sử dụng các chi phí trong lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia
+  type: Thông tư
+  issued_by: Bộ Kế hoạch và Đầu tư
+  signer: Nguyễn Chí Dũng
+  issued_date: '2024-04-19'
+  effective_date: '2024-04-19'
+  published_date: '2024-04-19'
+  status: active
+  bundle_path: legal_docs/01_vbpl/thong_tu_05_2024_tt_bkhdt/
+  relations:
+    guided_by: luat_dau_thau_2023_22_2023_qh15
+    replaces: 06/2021/TT-BKHĐT
+  pdf_path: legal_docs/01_vbpl/thong_tu_05_2024_tt_bkhdt/sources/thong_tu_05_2024_tt_bkhdt.pdf
+  pdf_sha256: 32f072b20f42cde91e574d90f326938fd219096da261fe282346da3e21f9c7e8
+  pdf_status: verified
+  cong_bao_number: Đang cập nhật
+  source_file: legal_docs/01_vbpl/thong_tu_05_2024_tt_bkhdt/sources/thong_tu_05_2024_tt_bkhdt.docx
+  source_file_size_kb: 15.1
+  source_assets:
+    pdf:
+      sha256: 32f072b20f42cde91e574d90f326938fd219096da261fe282346da3e21f9c7e8
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_05_2024_tt_bkhdt/thong_tu_05_2024_tt_bkhdt.pdf
+      status: verified
+    docx:
+      sha256: 06b0727a6d6725c3334066a7345d6cff96ffe6a5b185048bf1bbdc8ca15ddf2c
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_05_2024_tt_bkhdt/thong_tu_05_2024_tt_bkhdt.docx
+      status: verified
+

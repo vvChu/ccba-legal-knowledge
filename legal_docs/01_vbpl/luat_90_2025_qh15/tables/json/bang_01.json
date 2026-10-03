@@ -1,0 +1,21 @@
+{
+  "table_id": "bang_01",
+  "title": "Bảng 01",
+  "rows_count": 3,
+  "columns_count": 2,
+  "headers": [
+    "STTSTTSTT",
+    "NGÀNH, NGHỀNGÀNH, NGHỀNGÀNH, NGHỀ"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "233233233",
+      "NGÀNH, NGHỀNGÀNH, NGHỀNGÀNH, NGHỀ": "Hoạt động cung cấp dịch vụ liên quan đến tài sản mã hóaHoạt động cung cấp dịch vụ liên quan đến tài sản mã hóaHoạt động cung cấp dịch vụ liên quan đến tài sản mã hóa"
+    },
+    {
+      "STTSTTSTT": "234234234",
+      "NGÀNH, NGHỀNGÀNH, NGHỀNGÀNH, NGHỀ": "Dịch vụ xử lý dữ liệu cá nhânDịch vụ xử lý dữ liệu cá nhânDịch vụ xử lý dữ liệu cá nhân"
+    }
+  ],
+  "footnotes": []
+}

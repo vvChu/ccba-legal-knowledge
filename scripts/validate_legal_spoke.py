@@ -1313,7 +1313,7 @@ class LegalSpokeValidator:
                         effective_paras_count += 1
                     else:
                         # Check if paragraph is administrative enacting preamble (conforming to ADR 0021 Pure Body)
-                        p_low = p.strip().lower()
+                        p_low = re.sub(r"\s+", " ", p.strip().lower())
                         if (
                             p_low.startswith("căn cứ ")
                             or p_low.startswith("theo đề nghị ")

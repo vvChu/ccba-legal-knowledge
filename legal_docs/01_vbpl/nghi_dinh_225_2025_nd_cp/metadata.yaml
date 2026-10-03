@@ -1,0 +1,35 @@
+id: nghi_dinh_225_2025_nd_cp
+document_number: 225/2025/NĐ-CP
+type: Nghị định
+title: Nghị định số 225/2025/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 23/2024/NĐ-CP và Nghị định số 115/2024/NĐ-CP quy định chi tiết thi hành Luật Đấu thầu về lựa chọn nhà đầu tư
+status: active
+issued_by: Chính phủ
+signer: Phó Thủ tướng Trần Hồng Hà
+issued_date: '2025-08-15'
+effective_date: '2025-08-15'
+published_date: '2025-08-15'
+cong_bao_number: Đang cập nhật
+bundle_path: legal_docs/01_vbpl/nghi_dinh_225_2025_nd_cp/
+relations:
+  guided_by: luat_dau_thau_2023_22_2023_qh15
+  amends:
+  - 23/2024/NĐ-CP
+  - 115/2024/NĐ-CP
+pdf_path: legal_docs/01_vbpl/nghi_dinh_225_2025_nd_cp/sources/nghi_dinh_225_2025_nd_cp.pdf
+pdf_sha256: 1fe2ad8a1dfb4e470f22228998fc0561c4e41118e6032b00bad590146be7bfd9
+pdf_status: verified
+source_file: legal_docs/01_vbpl/nghi_dinh_225_2025_nd_cp/sources/nghi_dinh_225_2025_nd_cp.docx
+source_file_size_kb: 33.7
+source_assets:
+  pdf:
+    sha256: 1fe2ad8a1dfb4e470f22228998fc0561c4e41118e6032b00bad590146be7bfd9
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_225_2025_nd_cp/nghi_dinh_225_2025_nd_cp.pdf
+    status: verified
+  docx:
+    sha256: 88445d9e31f4e7072ee20fec19f12f920072d37a047eb1ec7153e95976d27654
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_225_2025_nd_cp/nghi_dinh_225_2025_nd_cp.docx
+    status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T11:06:51.000000+00:00'

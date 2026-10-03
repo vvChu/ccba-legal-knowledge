@@ -1,0 +1,32 @@
+id: luat_90_2025_qh15
+document_number: 90/2025/QH15
+type: Luật
+title: Luật sửa đổi, bổ sung một số điều của Luật Đấu thầu, Luật Đầu tư theo phương thức đối tác công tư, Luật Hải quan, Luật Thuế giá trị gia tăng, Luật Thuế xuất khẩu, thuế nhập khẩu, Luật Đầu tư, Luật Đầu tư công, Luật Quản lý, sử dụng tài sản công (Số 90/2025/QH15)
+status: active
+issued_by: Quốc hội
+signer: Trần Thanh Mẫn
+issued_date: '2025-06-25'
+effective_date: '2025-07-01'
+published_date: '2025-07-01'
+cong_bao_number: Đang cập nhật
+bundle_path: legal_docs/01_vbpl/luat_90_2025_qh15/
+relations:
+  amends: luat_dau_thau_2023_22_2023_qh15
+pdf_path: legal_docs/01_vbpl/luat_90_2025_qh15/sources/luat_90_2025_qh15.pdf
+pdf_sha256: 6f278580537185266af63c1dadc0c4262252e608929570b4b3d60c466bc6a60c
+pdf_status: verified
+source_file: legal_docs/01_vbpl/luat_90_2025_qh15/sources/luat_90_2025_qh15.docx
+source_file_size_kb: 65.7
+source_assets:
+  pdf:
+    sha256: 6f278580537185266af63c1dadc0c4262252e608929570b4b3d60c466bc6a60c
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_90_2025_qh15/luat_90_2025_qh15.pdf
+    status: verified
+  docx:
+    sha256: 2fcef30caf63d964df14b8d66f4241e6bcdd7af1c7f290b29ada04de4a9383db
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_90_2025_qh15/luat_90_2025_qh15.docx
+    status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T11:06:52.000000+00:00'
