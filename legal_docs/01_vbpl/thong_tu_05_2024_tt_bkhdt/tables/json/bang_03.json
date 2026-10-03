@@ -1,0 +1,69 @@
+{
+  "table_id": "bang_03",
+  "title": "Bảng 03",
+  "rows_count": 12,
+  "columns_count": 3,
+  "headers": [
+    "STTSTTSTT",
+    "NỘI DUNG CHINỘI DUNG CHINỘI DUNG CHI",
+    "SỐ TIỀNSỐ TIỀNSỐ TIỀN"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG CHINỘI DUNG CHINỘI DUNG CHI": "TỔNG SỐ (I+II+III)TỔNG SỐ (I+II+III)TỔNG SỐ (I+II+III)",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "III",
+      "NỘI DUNG CHINỘI DUNG CHINỘI DUNG CHI": "CHI THỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚCCHI THỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚCCHI THỰC HIỆN NGHĨA VỤ VỚI NGÂN SÁCH NHÀ NƯỚC",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "IIIIII",
+      "NỘI DUNG CHINỘI DUNG CHINỘI DUNG CHI": "CHI CÁC NỘI DUNG LIÊN QUAN ĐẾN HỆ THỐNG MẠNG ĐẤU THẦU QUỐC GIACHI CÁC NỘI DUNG LIÊN QUAN ĐẾN HỆ THỐNG MẠNG ĐẤU THẦU QUỐC GIACHI CÁC NỘI DUNG LIÊN QUAN ĐẾN HỆ THỐNG MẠNG ĐẤU THẦU QUỐC GIA",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "111",
+      "NỘI DUNG CHINỘI DUNG CHINỘI DUNG CHI": "Chi tổ chức quản lý, giám sát, vận hành và phát triển Hệ thốngChi tổ chức quản lý, giám sát, vận hành và phát triển Hệ thốngChi tổ chức quản lý, giám sát, vận hành và phát triển Hệ thống",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "222",
+      "NỘI DUNG CHINỘI DUNG CHINỘI DUNG CHI": "Chi tổ chức quản lý, giám sát Doanh nghiệp Dự án e-GPChi tổ chức quản lý, giám sát Doanh nghiệp Dự án e-GPChi tổ chức quản lý, giám sát Doanh nghiệp Dự án e-GP",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "333",
+      "NỘI DUNG CHINỘI DUNG CHINỘI DUNG CHI": "Chi hoạt động hướng dẫn, đào tạo người sử dụng Hệ thốngChi hoạt động hướng dẫn, đào tạo người sử dụng Hệ thốngChi hoạt động hướng dẫn, đào tạo người sử dụng Hệ thống",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "444",
+      "NỘI DUNG CHINỘI DUNG CHINỘI DUNG CHI": "Chi hoạt động truyền thông, hợp tác quốc tế về đấu thầu qua mạngChi hoạt động truyền thông, hợp tác quốc tế về đấu thầu qua mạngChi hoạt động truyền thông, hợp tác quốc tế về đấu thầu qua mạng",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "555",
+      "NỘI DUNG CHINỘI DUNG CHINỘI DUNG CHI": "Chi hoạt động liên quan đến công việc tiếp nhận, xử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong công tác đấu thầu, quản lý cơ sở dữ liệuChi hoạt động liên quan đến công việc tiếp nhận, xử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong công tác đấu thầu, quản lý cơ sở dữ liệuChi hoạt động liên quan đến công việc tiếp nhận, xử lý hồ sơ tham gia Hệ thống, ứng dụng công nghệ thông tin trong công tác đấu thầu, quản lý cơ sở dữ liệu",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "666",
+      "NỘI DUNG CHINỘI DUNG CHINỘI DUNG CHI": "Chi đầu tư, sử dụng các quỹ thực hiện theo quy định về tự chủ trong đơn vị sự nghiệp công lậpChi đầu tư, sử dụng các quỹ thực hiện theo quy định về tự chủ trong đơn vị sự nghiệp công lậpChi đầu tư, sử dụng các quỹ thực hiện theo quy định về tự chủ trong đơn vị sự nghiệp công lập",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "777",
+      "NỘI DUNG CHINỘI DUNG CHINỘI DUNG CHI": "Các nhiệm vụ chi thường xuyên và chi đầu tư khác phục vụ triển khai áp dụng đấu thầu qua mạngCác nhiệm vụ chi thường xuyên và chi đầu tư khác phục vụ triển khai áp dụng đấu thầu qua mạngCác nhiệm vụ chi thường xuyên và chi đầu tư khác phục vụ triển khai áp dụng đấu thầu qua mạng",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "IIIIIIIII",
+      "NỘI DUNG CHINỘI DUNG CHINỘI DUNG CHI": "PHÂN PHỐI KẾT QUẢ TÀI CHÍNH THEO CƠ CHẾ TỰ CHỦPHÂN PHỐI KẾT QUẢ TÀI CHÍNH THEO CƠ CHẾ TỰ CHỦPHÂN PHỐI KẾT QUẢ TÀI CHÍNH THEO CƠ CHẾ TỰ CHỦ",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    }
+  ],
+  "footnotes": []
+}

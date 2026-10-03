@@ -1,0 +1,33 @@
+id: thong_tu_05_2024_tt_bkhdt
+document_number: 05/2024/TT-BKHĐT
+type: Thông tư
+title: Thông tư số 05/2024/TT-BKHĐT quy định về quản lý và sử dụng các chi phí trong lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia
+status: active
+issued_by: Bộ Kế hoạch và Đầu tư
+signer: Nguyễn Chí Dũng
+issued_date: '2024-04-19'
+effective_date: '2024-04-19'
+published_date: '2024-04-19'
+cong_bao_number: Đang cập nhật
+bundle_path: legal_docs/01_vbpl/thong_tu_05_2024_tt_bkhdt/
+relations:
+  guided_by: luat_dau_thau_2023_22_2023_qh15
+  replaces: 06/2021/TT-BKHĐT
+pdf_path: legal_docs/01_vbpl/thong_tu_05_2024_tt_bkhdt/sources/thong_tu_05_2024_tt_bkhdt.pdf
+pdf_sha256: 32f072b20f42cde91e574d90f326938fd219096da261fe282346da3e21f9c7e8
+pdf_status: verified
+source_file: legal_docs/01_vbpl/thong_tu_05_2024_tt_bkhdt/sources/thong_tu_05_2024_tt_bkhdt.docx
+source_file_size_kb: 15.1
+source_assets:
+  pdf:
+    sha256: 32f072b20f42cde91e574d90f326938fd219096da261fe282346da3e21f9c7e8
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_05_2024_tt_bkhdt/thong_tu_05_2024_tt_bkhdt.pdf
+    status: verified
+  docx:
+    sha256: 06b0727a6d6725c3334066a7345d6cff96ffe6a5b185048bf1bbdc8ca15ddf2c
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_05_2024_tt_bkhdt/thong_tu_05_2024_tt_bkhdt.docx
+    status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T11:06:54.000000+00:00'

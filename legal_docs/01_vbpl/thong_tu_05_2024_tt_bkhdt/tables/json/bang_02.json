@@ -1,0 +1,49 @@
+{
+  "table_id": "bang_02",
+  "title": "Bảng 02",
+  "rows_count": 8,
+  "columns_count": 3,
+  "headers": [
+    "STTSTTSTT",
+    "NỘI DUNG THUNỘI DUNG THUNỘI DUNG THU",
+    "SỐ TIỀNSỐ TIỀNSỐ TIỀN"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "",
+      "NỘI DUNG THUNỘI DUNG THUNỘI DUNG THU": "TỔNG SỐ (I+II)TỔNG SỐ (I+II)TỔNG SỐ (I+II)",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "III",
+      "NỘI DUNG THUNỘI DUNG THUNỘI DUNG THU": "KINH PHÍ NĂM TRƯỚC CHUYỂN SANGKINH PHÍ NĂM TRƯỚC CHUYỂN SANGKINH PHÍ NĂM TRƯỚC CHUYỂN SANG",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "IIIIII",
+      "NỘI DUNG THUNỘI DUNG THUNỘI DUNG THU": "THU CÁC NỘI DUNG LIÊN QUAN ĐẾN HỆ THỐNG MẠNG ĐẤU THẦU QUỐC GIATHU CÁC NỘI DUNG LIÊN QUAN ĐẾN HỆ THỐNG MẠNG ĐẤU THẦU QUỐC GIATHU CÁC NỘI DUNG LIÊN QUAN ĐẾN HỆ THỐNG MẠNG ĐẤU THẦU QUỐC GIA",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "111",
+      "NỘI DUNG THUNỘI DUNG THUNỘI DUNG THU": "Thu đăng ký tham gia Hệ thống (đối với các nhà thầu, nhà đầu tư đăng ký tham gia Hệ thống trước ngày 27 tháng 02 năm 2024)Thu đăng ký tham gia Hệ thống (đối với các nhà thầu, nhà đầu tư đăng ký tham gia Hệ thống trước ngày 27 tháng 02 năm 2024)Thu đăng ký tham gia Hệ thống (đối với các nhà thầu, nhà đầu tư đăng ký tham gia Hệ thống trước ngày 27 tháng 02 năm 2024)",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "222",
+      "NỘI DUNG THUNỘI DUNG THUNỘI DUNG THU": "Thu duy trì tên và hồ sơ năng lực của nhà thầu, nhà đầu tư trên Hệ thốngThu duy trì tên và hồ sơ năng lực của nhà thầu, nhà đầu tư trên Hệ thốngThu duy trì tên và hồ sơ năng lực của nhà thầu, nhà đầu tư trên Hệ thống",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "333",
+      "NỘI DUNG THUNỘI DUNG THUNỘI DUNG THU": "Thu chi phí kết nối chức năng bảo lãnh dự thầu điện tửThu chi phí kết nối chức năng bảo lãnh dự thầu điện tửThu chi phí kết nối chức năng bảo lãnh dự thầu điện tử",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    },
+    {
+      "STTSTTSTT": "444",
+      "NỘI DUNG THUNỘI DUNG THUNỘI DUNG THU": "Thu khácThu khácThu khác",
+      "SỐ TIỀNSỐ TIỀNSỐ TIỀN": ""
+    }
+  ],
+  "footnotes": []
+}

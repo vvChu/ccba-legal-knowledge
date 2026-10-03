@@ -1,0 +1,36 @@
+id: nghi_dinh_17_2025_nd_cp
+document_number: 17/2025/NĐ-CP
+type: Nghị định
+title: Nghị định số 17/2025/NĐ-CP sửa đổi, bổ sung một số điều của các Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu
+status: active
+issued_by: Chính phủ
+signer: Phó Thủ tướng Trần Hồng Hà
+issued_date: '2025-02-06'
+effective_date: '2025-02-06'
+published_date: '2025-02-06'
+cong_bao_number: Đang cập nhật
+bundle_path: legal_docs/01_vbpl/nghi_dinh_17_2025_nd_cp/
+relations:
+  guided_by: luat_dau_thau_2023_22_2023_qh15
+  amends:
+  - 24/2024/NĐ-CP
+  - 23/2024/NĐ-CP
+  - 115/2024/NĐ-CP
+pdf_path: legal_docs/01_vbpl/nghi_dinh_17_2025_nd_cp/sources/nghi_dinh_17_2025_nd_cp.pdf
+pdf_sha256: 714aeee15f2835a713702275f92dc8a5aff20945153d3ffcc73f9adbf5035c8c
+pdf_status: verified
+source_file: legal_docs/01_vbpl/nghi_dinh_17_2025_nd_cp/sources/nghi_dinh_17_2025_nd_cp.docx
+source_file_size_kb: 29.1
+source_assets:
+  pdf:
+    sha256: 714aeee15f2835a713702275f92dc8a5aff20945153d3ffcc73f9adbf5035c8c
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_17_2025_nd_cp/nghi_dinh_17_2025_nd_cp.pdf
+    status: verified
+  docx:
+    sha256: 34c27f153203f409617b1d13ceeb66dcf3cc1047ea9df8c18848dbd8c80ad610
+    vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_17_2025_nd_cp/nghi_dinh_17_2025_nd_cp.docx
+    status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T11:06:53.000000+00:00'
