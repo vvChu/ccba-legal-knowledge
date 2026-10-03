@@ -1,0 +1,30 @@
+bundle_path: legal_docs/01_vbpl/luat_nha_o_2023_27_2023_qh15/
+pdf_path: legal_docs/01_vbpl/luat_nha_o_2023_27_2023_qh15/sources/luat_nha_o_2023_27_2023_qh15.pdf
+pdf_sha256: 845027819231cccc087ba21c6a959b9a670ced96fc9da9e34185e30eef182d45
+pdf_status: verified
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: 845027819231cccc087ba21c6a959b9a670ced96fc9da9e34185e30eef182d45
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_nha_o_2023_27_2023_qh15/luat_nha_o_2023_27_2023_qh15.pdf
+    status: verified
+  docx:
+    sha256: 20e094b919ac9b2acef4ded15040ee3b2c9043776cdbff57d12eba01ad906305
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_nha_o_2023_27_2023_qh15/luat_nha_o_2023_27_2023_qh15.docx
+    status: verified
+id: Luat-Nha-o-2023-27-2023-QH15-528669
+document_number: 27/2023/QH15
+title: Luật Nhà ở 2023 (Số 27/2023/QH15)
+type: Luật
+issued_by: Quốc hội
+signer: Vương Đình Huệ
+issued_date: '2023-11-27'
+effective_date: '2024-08-01'
+status: active
+source_url: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Nha-o-27-2023-QH15-528669.aspx
+relations:
+  replaces: 65/2014/QH13
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T00:32:50.711085+00:00'

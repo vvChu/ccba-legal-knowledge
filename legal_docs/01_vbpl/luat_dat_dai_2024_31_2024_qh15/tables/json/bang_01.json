@@ -1,0 +1,19 @@
+{
+  "table_id": "bang_01",
+  "title": "Bảng 01",
+  "rows_count": 2,
+  "columns_count": 3,
+  "headers": [
+    "STTSTTSTT",
+    "TÊN QUY HOẠCHTÊN QUY HOẠCHTÊN QUY HOẠCH",
+    "VĂN BẢN QUY ĐỊNHVĂN BẢN QUY ĐỊNHVĂN BẢN QUY ĐỊNH"
+  ],
+  "records": [
+    {
+      "STTSTTSTT": "1a.1a.1a.",
+      "TÊN QUY HOẠCHTÊN QUY HOẠCHTÊN QUY HOẠCH": "Quy hoạch sử dụng đất cấp tỉnhQuy hoạch sử dụng đất cấp tỉnhQuy hoạch sử dụng đất cấp tỉnh",
+      "VĂN BẢN QUY ĐỊNHVĂN BẢN QUY ĐỊNHVĂN BẢN QUY ĐỊNH": "Luật Đất đai số 31/2024/QH15Luật Đất đai số 31/2024/QH15Luật Đất đai số 31/2024/QH15"
+    }
+  ],
+  "footnotes": []
+}

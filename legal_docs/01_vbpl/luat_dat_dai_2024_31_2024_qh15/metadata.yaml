@@ -1,0 +1,30 @@
+bundle_path: legal_docs/01_vbpl/luat_dat_dai_2024_31_2024_qh15/
+pdf_path: legal_docs/01_vbpl/luat_dat_dai_2024_31_2024_qh15/sources/luat_dat_dai_2024_31_2024_qh15.pdf
+pdf_sha256: a626dcf54621f31a567c22957d65546f8f35a95bdc250b8cd77fc7fff8966398
+pdf_status: verified
+cong_bao_number: Đang cập nhật
+source_assets:
+  pdf:
+    sha256: a626dcf54621f31a567c22957d65546f8f35a95bdc250b8cd77fc7fff8966398
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_dat_dai_2024_31_2024_qh15/luat_dat_dai_2024_31_2024_qh15.pdf
+    status: verified
+  docx:
+    sha256: 65500a3ff2553d7bd85ea5175f7cff526cb80e75d863c9b913bb9fef09f7a6d9
+    vault_path: CCBA_Legal_Vault/01_vbpl/luat_dat_dai_2024_31_2024_qh15/luat_dat_dai_2024_31_2024_qh15.docx
+    status: verified
+id: Luat-Dat-dai-2024-31-2024-QH15-523642
+document_number: 31/2024/QH15
+title: Luật Đất đai 2024 (Số 31/2024/QH15)
+type: Luật
+issued_by: Quốc hội
+signer: Vương Đình Huệ
+issued_date: '2024-01-18'
+effective_date: '2024-08-01'
+status: active
+source_url: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Luat-Dat-dai-2024-31-2024-QH15-523642.aspx
+relations:
+  replaces: 45/2013/QH13
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T00:32:56.406837+00:00'
