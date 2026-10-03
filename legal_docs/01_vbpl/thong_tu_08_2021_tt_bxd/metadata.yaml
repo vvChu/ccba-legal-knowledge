@@ -1,0 +1,22 @@
+id: thong_tu_08_2021_tt_bxd
+document_number: 08/2021/TT-BXD
+type: Thông tư
+title: Thông tư số 08/2021/TT-BXD hướng dẫn phương pháp xác định chi phí lập và tổ chức thực hiện quy chế quản lý kiến trúc
+status: active
+issued_by: Bộ Xây dựng
+issued_date: '2021-08-02'
+effective_date: '2021-09-17'
+signer: Bùi Hồng Minh
+pdf_path: ./sources/thong_tu_08_2021_tt_bxd.pdf
+pdf_sha256: 63723fea05200b2670d4ebac2abc3f27c5f02aa3a16b26d2d64e07061e85537b
+pdf_status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+legal_basis:
+- doc_id: luat_kien_truc_2019_40_2019_qh14
+  title: Luật Kiến trúc ngày 13 tháng 6 năm 2019
+- doc_id: nghi_dinh_85_2020_nd_cp
+  title: Nghị định số 85/2020/NĐ-CP ngày 17 tháng 7 năm 2020 của Chính phủ về quy định chi tiết một số điều của Luật Kiến trúc
+replaces: []
+extracted_at: '2026-10-03T07:32:24.062844+00:00'

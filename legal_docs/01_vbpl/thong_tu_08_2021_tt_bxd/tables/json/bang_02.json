@@ -1,0 +1,25 @@
+{
+  "table_id": "bang_02",
+  "title": "Bảng 02",
+  "rows_count": 2,
+  "columns_count": 6,
+  "headers": [
+    "Quy mô (ha)",
+    "≤10",
+    "20",
+    "30",
+    "50",
+    "100"
+  ],
+  "records": [
+    {
+      "Quy mô (ha)": "Định mức chi phí lập quy chế quản lý kiến trúc điểm dân cư nông thôn",
+      "≤10": "4,425",
+      "20": "3,289",
+      "30": "2,718",
+      "50": "2,228",
+      "100": "1,511"
+    }
+  ],
+  "footnotes": []
+}

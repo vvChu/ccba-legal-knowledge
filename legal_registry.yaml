@@ -2682,3 +2682,64 @@ decrees:
       sha256: 4c447feee5d36ad7c95cea77ee3a2b9efcb0844cd360a506a381328b27b324d1
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_105_2025_tt_btc/thong_tu_105_2025_tt_btc.docx
       status: verified
+
+- id: thong_tu_08_2021_tt_bxd
+  document_number: 08/2021/TT-BXD
+  title: Thông tư số 08/2021/TT-BXD hướng dẫn phương pháp xác định chi phí lập và tổ chức thực hiện quy chế quản lý kiến trúc
+  type: Thông tư
+  issued_by: Bộ Xây dựng
+  signer: Bùi Hồng Minh
+  issued_date: '2021-08-02'
+  effective_date: '2021-09-17'
+  published_date: '2021-08-02'
+  status: active
+  bundle_path: legal_docs/01_vbpl/thong_tu_08_2021_tt_bxd/
+  relations:
+    guided_by: luat_kien_truc_2019_40_2019_qh14
+  pdf_path: legal_docs/01_vbpl/thong_tu_08_2021_tt_bxd/sources/thong_tu_08_2021_tt_bxd.pdf
+  pdf_sha256: 63723fea05200b2670d4ebac2abc3f27c5f02aa3a16b26d2d64e07061e85537b
+  pdf_status: verified
+  cong_bao_number: Đang cập nhật
+  source_file: legal_docs/01_vbpl/thong_tu_08_2021_tt_bxd/sources/thong_tu_08_2021_tt_bxd.docx
+  source_file_size_kb: 37.1
+  source_assets:
+    pdf:
+      sha256: 63723fea05200b2670d4ebac2abc3f27c5f02aa3a16b26d2d64e07061e85537b
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_08_2021_tt_bxd/thong_tu_08_2021_tt_bxd.pdf
+      status: verified
+    docx:
+      sha256: 3fdc2cd0bdc5658e9726c91dfff47e96f4a70b353cf87f1820b22406bf1317d5
+      vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_08_2021_tt_bxd/thong_tu_08_2021_tt_bxd.docx
+      status: verified
+
+- id: 83_vbhn_tt_bxd
+  document_number: 83/VBHN-TT-BXD
+  title: Văn bản hợp nhất 83/2026/VBHN-TT-BXD Thông tư quy định về hồ sơ thiết kế kiến trúc và mẫu chứng chỉ hành nghề kiến trúc
+  type: Văn bản hợp nhất
+  issued_by: Bộ Xây dựng
+  signer: Thứ trưởng Bộ Xây dựng
+  issued_date: '2026-09-18'
+  effective_date: '2020-09-15'
+  published_date: '2026-09-18'
+  status: active
+  bundle_path: legal_docs/01_vbpl/83_vbhn_tt_bxd/
+  relations:
+    consolidates:
+    - 03/2020/TT-BXD
+    - 09/2025/TT-BXD
+    guided_by: luat_kien_truc_2019_40_2019_qh14
+  pdf_path: legal_docs/01_vbpl/83_vbhn_tt_bxd/sources/83_vbhn_tt_bxd.pdf
+  pdf_sha256: ab01b488765ba5d78b9ee0f4ea63d76f75431e38cb218a8dad22ac2d08c40da0
+  pdf_status: verified
+  cong_bao_number: Đang cập nhật
+  source_file: legal_docs/01_vbpl/83_vbhn_tt_bxd/sources/83_vbhn_tt_bxd.docx
+  source_file_size_kb: 17.3
+  source_assets:
+    pdf:
+      sha256: ab01b488765ba5d78b9ee0f4ea63d76f75431e38cb218a8dad22ac2d08c40da0
+      vault_path: CCBA_Legal_Vault/01_vbpl/83_vbhn_tt_bxd/83_vbhn_tt_bxd.pdf
+      status: verified
+    docx:
+      sha256: f0c321faee74352fff1c70c9aa3b1db1d152d94edd380c683dc782d4b7e09c36
+      vault_path: CCBA_Legal_Vault/01_vbpl/83_vbhn_tt_bxd/83_vbhn_tt_bxd.docx
+      status: verified
