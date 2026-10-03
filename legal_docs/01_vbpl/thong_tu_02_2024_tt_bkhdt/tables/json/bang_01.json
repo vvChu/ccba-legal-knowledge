@@ -1,0 +1,49 @@
+{
+  "table_id": "bang_01",
+  "title": "Bảng 01",
+  "rows_count": 4,
+  "columns_count": 8,
+  "headers": [
+    "Stt",
+    "Tên           kỳ thi",
+    "Thời gian tổ chức thi",
+    "Địa điểm tổ chức thi",
+    "Số lượng thí sinh đủ điều kiện dự thi",
+    "Số lượng thí sinh được cấp chứng chỉ",
+    "Tỷ lệ % thí sinh được cấp chứng chỉ",
+    "Ghi chú"
+  ],
+  "records": [
+    {
+      "Stt": "1",
+      "Tên           kỳ thi": "",
+      "Thời gian tổ chức thi": "",
+      "Địa điểm tổ chức thi": "",
+      "Số lượng thí sinh đủ điều kiện dự thi": "",
+      "Số lượng thí sinh được cấp chứng chỉ": "",
+      "Tỷ lệ % thí sinh được cấp chứng chỉ": "",
+      "Ghi chú": ""
+    },
+    {
+      "Stt": "2",
+      "Tên           kỳ thi": "",
+      "Thời gian tổ chức thi": "",
+      "Địa điểm tổ chức thi": "",
+      "Số lượng thí sinh đủ điều kiện dự thi": "",
+      "Số lượng thí sinh được cấp chứng chỉ": "",
+      "Tỷ lệ % thí sinh được cấp chứng chỉ": "",
+      "Ghi chú": ""
+    },
+    {
+      "Stt": "Tổng cộng",
+      "Tên           kỳ thi": "Tổng cộng",
+      "Thời gian tổ chức thi": "Tổng cộng",
+      "Địa điểm tổ chức thi": "Tổng cộng",
+      "Số lượng thí sinh đủ điều kiện dự thi": "",
+      "Số lượng thí sinh được cấp chứng chỉ": "",
+      "Tỷ lệ % thí sinh được cấp chứng chỉ": "",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}

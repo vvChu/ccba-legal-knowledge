@@ -1,0 +1,51 @@
+{
+  "table_id": "bang_07",
+  "title": "Bảng 07",
+  "rows_count": 6,
+  "columns_count": 5,
+  "headers": [
+    "TT",
+    "Tên thành viên",
+    "Vai trò tham gia [Ghi phần công việc mà thành viên đảm nhận (thu xếp tài chính, xây dựng, quản lý, vận hành,...]",
+    "Vốn chủ sở hữu — Giá trị",
+    "Vốn chủ sở hữu — Tỉ lệ %"
+  ],
+  "records": [
+    {
+      "TT": "1",
+      "Tên thành viên": "Thành viên 1 [Đứng đầu liên danh]",
+      "Vai trò tham gia [Ghi phần công việc mà thành viên đảm nhận (thu xếp tài chính, xây dựng, quản lý, vận hành,...]": "",
+      "Vốn chủ sở hữu — Giá trị": "",
+      "Vốn chủ sở hữu — Tỉ lệ %": "[tối thiểu 30%]"
+    },
+    {
+      "TT": "2",
+      "Tên thành viên": "Thành viên 2",
+      "Vai trò tham gia [Ghi phần công việc mà thành viên đảm nhận (thu xếp tài chính, xây dựng, quản lý, vận hành,...]": "",
+      "Vốn chủ sở hữu — Giá trị": "",
+      "Vốn chủ sở hữu — Tỉ lệ %": "[tối thiểu 15%]"
+    },
+    {
+      "TT": "3",
+      "Tên thành viên": "Thành viên 3",
+      "Vai trò tham gia [Ghi phần công việc mà thành viên đảm nhận (thu xếp tài chính, xây dựng, quản lý, vận hành,...]": "",
+      "Vốn chủ sở hữu — Giá trị": "",
+      "Vốn chủ sở hữu — Tỉ lệ %": "[tối thiểu 15%]"
+    },
+    {
+      "TT": ".....",
+      "Tên thành viên": "",
+      "Vai trò tham gia [Ghi phần công việc mà thành viên đảm nhận (thu xếp tài chính, xây dựng, quản lý, vận hành,...]": "",
+      "Vốn chủ sở hữu — Giá trị": "",
+      "Vốn chủ sở hữu — Tỉ lệ %": ""
+    },
+    {
+      "TT": "Tổng",
+      "Tên thành viên": "Tổng",
+      "Vai trò tham gia [Ghi phần công việc mà thành viên đảm nhận (thu xếp tài chính, xây dựng, quản lý, vận hành,...]": "Tổng",
+      "Vốn chủ sở hữu — Giá trị": "....",
+      "Vốn chủ sở hữu — Tỉ lệ %": "100%"
+    }
+  ],
+  "footnotes": []
+}

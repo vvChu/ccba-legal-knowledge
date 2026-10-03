@@ -1,0 +1,45 @@
+{
+  "table_id": "bang_22",
+  "title": "Bảng 22",
+  "rows_count": 9,
+  "columns_count": 2,
+  "headers": [
+    "Nguồn tài chính",
+    "Giá trị(1)"
+  ],
+  "records": [
+    {
+      "Nguồn tài chính": "I. Vốn chủ sở hữu cam kết góp vào dự án:",
+      "Giá trị(1)": ""
+    },
+    {
+      "Nguồn tài chính": "1.",
+      "Giá trị(1)": ""
+    },
+    {
+      "Nguồn tài chính": "2.",
+      "Giá trị(1)": ""
+    },
+    {
+      "Nguồn tài chính": "…",
+      "Giá trị(1)": ""
+    },
+    {
+      "Nguồn tài chính": "II. Vốn vay nhà đầu tư phải huy động:",
+      "Giá trị(1)": ""
+    },
+    {
+      "Nguồn tài chính": "1.",
+      "Giá trị(1)": ""
+    },
+    {
+      "Nguồn tài chính": "2.",
+      "Giá trị(1)": ""
+    },
+    {
+      "Nguồn tài chính": "…",
+      "Giá trị(1)": ""
+    }
+  ],
+  "footnotes": []
+}

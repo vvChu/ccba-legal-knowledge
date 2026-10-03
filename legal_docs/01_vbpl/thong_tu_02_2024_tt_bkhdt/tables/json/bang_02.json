@@ -1,0 +1,27 @@
+{
+  "table_id": "bang_02",
+  "title": "Bảng 02",
+  "rows_count": 3,
+  "columns_count": 4,
+  "headers": [
+    "Stt",
+    "Nội dung",
+    "Số lượng",
+    "Ghi chú"
+  ],
+  "records": [
+    {
+      "Stt": "1",
+      "Nội dung": "Số lượng cá nhân cấp lại chứng chỉ nghiệp vụ chuyên môn về đấu thầu",
+      "Số lượng": "",
+      "Ghi chú": ""
+    },
+    {
+      "Stt": "2",
+      "Nội dung": "Số lượng cá nhân bị thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu (Ghi rõ lý do thu hồi tại cột ghi chú)",
+      "Số lượng": "",
+      "Ghi chú": ""
+    }
+  ],
+  "footnotes": []
+}

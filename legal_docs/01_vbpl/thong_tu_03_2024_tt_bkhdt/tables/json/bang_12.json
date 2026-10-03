@@ -1,0 +1,25 @@
+{
+  "table_id": "bang_12",
+  "title": "Bảng 12",
+  "rows_count": 4,
+  "columns_count": 2,
+  "headers": [
+    "[ghi tên dự án theo quyết định chấp thuận chủ trương đầu tư đối với dự án thuộc diện chấp thuận chủ trương đầu tư hoặc văn bản phê duyệt thông tin dự án đầu tư kinh doanh đối với dự án không thuộc diện chấp thuận chủ trương đầu tư] — Phát hành ngày:",
+    "[ghi tên dự án theo quyết định chấp thuận chủ trương đầu tư đối với dự án thuộc diện chấp thuận chủ trương đầu tư hoặc văn bản phê duyệt thông tin dự án đầu tư kinh doanh đối với dự án không thuộc diện chấp thuận chủ trương đầu tư] — ______________________________"
+  ],
+  "records": [
+    {
+      "[ghi tên dự án theo quyết định chấp thuận chủ trương đầu tư đối với dự án thuộc diện chấp thuận chủ trương đầu tư hoặc văn bản phê duyệt thông tin dự án đầu tư kinh doanh đối với dự án không thuộc diện chấp thuận chủ trương đầu tư] — Phát hành ngày:": "[ghi ngày bắt đầu phát hành hồ sơ mời thầu cho nhà đầu tư]",
+      "[ghi tên dự án theo quyết định chấp thuận chủ trương đầu tư đối với dự án thuộc diện chấp thuận chủ trương đầu tư hoặc văn bản phê duyệt thông tin dự án đầu tư kinh doanh đối với dự án không thuộc diện chấp thuận chủ trương đầu tư] — ______________________________": "[ghi ngày bắt đầu phát hành hồ sơ mời thầu cho nhà đầu tư]"
+    },
+    {
+      "[ghi tên dự án theo quyết định chấp thuận chủ trương đầu tư đối với dự án thuộc diện chấp thuận chủ trương đầu tư hoặc văn bản phê duyệt thông tin dự án đầu tư kinh doanh đối với dự án không thuộc diện chấp thuận chủ trương đầu tư] — Phát hành ngày:": "Ban hành kèm theo Quyết định:",
+      "[ghi tên dự án theo quyết định chấp thuận chủ trương đầu tư đối với dự án thuộc diện chấp thuận chủ trương đầu tư hoặc văn bản phê duyệt thông tin dự án đầu tư kinh doanh đối với dự án không thuộc diện chấp thuận chủ trương đầu tư] — ______________________________": "______________________________"
+    },
+    {
+      "[ghi tên dự án theo quyết định chấp thuận chủ trương đầu tư đối với dự án thuộc diện chấp thuận chủ trương đầu tư hoặc văn bản phê duyệt thông tin dự án đầu tư kinh doanh đối với dự án không thuộc diện chấp thuận chủ trương đầu tư] — Phát hành ngày:": "[ghi số và ngày quyết định phê duyệt hồ sơ mời thầu]",
+      "[ghi tên dự án theo quyết định chấp thuận chủ trương đầu tư đối với dự án thuộc diện chấp thuận chủ trương đầu tư hoặc văn bản phê duyệt thông tin dự án đầu tư kinh doanh đối với dự án không thuộc diện chấp thuận chủ trương đầu tư] — ______________________________": "[ghi số và ngày quyết định phê duyệt hồ sơ mời thầu]"
+    }
+  ],
+  "footnotes": []
+}

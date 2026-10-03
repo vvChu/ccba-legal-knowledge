@@ -1,0 +1,44 @@
+{
+  "table_id": "bang_42",
+  "title": "Bảng 42",
+  "rows_count": 5,
+  "columns_count": 5,
+  "headers": [
+    "STT",
+    "Mô tả(3)",
+    "Số lượng",
+    "Tính năng của thiết bị(4)",
+    "Nội dung khác (nếu có)"
+  ],
+  "records": [
+    {
+      "STT": "1",
+      "Mô tả(3)": "",
+      "Số lượng": "",
+      "Tính năng của thiết bị(4)": "",
+      "Nội dung khác (nếu có)": ""
+    },
+    {
+      "STT": "2",
+      "Mô tả(3)": "",
+      "Số lượng": "",
+      "Tính năng của thiết bị(4)": "",
+      "Nội dung khác (nếu có)": ""
+    },
+    {
+      "STT": "…",
+      "Mô tả(3)": "",
+      "Số lượng": "",
+      "Tính năng của thiết bị(4)": "",
+      "Nội dung khác (nếu có)": ""
+    },
+    {
+      "STT": "n",
+      "Mô tả(3)": "",
+      "Số lượng": "",
+      "Tính năng của thiết bị(4)": "",
+      "Nội dung khác (nếu có)": ""
+    }
+  ],
+  "footnotes": []
+}
