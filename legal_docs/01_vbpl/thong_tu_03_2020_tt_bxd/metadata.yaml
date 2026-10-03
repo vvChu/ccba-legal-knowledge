@@ -1,0 +1,32 @@
+id: thong_tu_03_2020_tt_bxd
+document_number: 03/2020/TT-BXD
+type: Thông tư
+title: Thông tư số 03/2020/TT-BXD quy định về hồ sơ thiết kế kiến trúc và mẫu chứng chỉ hành nghề kiến trúc
+status: active
+issued_by: Bộ Xây dựng
+signer: Phạm Hồng Hà
+issued_date: '2020-07-28'
+effective_date: '2020-09-15'
+published_date: '2020-07-28'
+bundle_path: legal_docs/01_vbpl/thong_tu_03_2020_tt_bxd/
+pdf_path: legal_docs/01_vbpl/thong_tu_03_2020_tt_bxd/sources/thong_tu_03_2020_tt_bxd.pdf
+pdf_sha256: e60e186732095e1f89795a874d68a4be4ca381e1b649eae4c840ba54a39693b4
+pdf_status: verified
+cong_bao_number: Đang cập nhật
+source_file: legal_docs/01_vbpl/thong_tu_03_2020_tt_bxd/sources/thong_tu_03_2020_tt_bxd.docx
+source_file_size_kb: 16.4
+source_assets:
+  pdf:
+    sha256: e60e186732095e1f89795a874d68a4be4ca381e1b649eae4c840ba54a39693b4
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_03_2020_tt_bxd/thong_tu_03_2020_tt_bxd.pdf
+    status: verified
+  docx:
+    sha256: 0ab78c6aac4929a181401c4cd79947ef48b72a1b1a54964314692f244e3ac4cb
+    vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_03_2020_tt_bxd/thong_tu_03_2020_tt_bxd.docx
+    status: verified
+relations:
+  guided_by: luat_kien_truc_2019_40_2019_qh14
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T05:01:42.000000+00:00'

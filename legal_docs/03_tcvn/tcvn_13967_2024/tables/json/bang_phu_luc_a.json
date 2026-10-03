@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_phu_luc_a",
+  "table_number": "PLA",
+  "table_title": "Bảng Phụ lục A",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "A1, A2",
+    "Mặt đường cho xe chữa cháy"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "A1, A2": "B",
+      "Mặt đường cho xe chữa cháy": "Một nửa khoảng cách từ sàn đến trần của tầng trên cùng"
+    },
+    {
+      "_row_id": 2,
+      "A1, A2": "H1, H2",
+      "Mặt đường cho xe chữa cháy": "Chiều cao PCCC"
+    }
+  ],
+  "footnotes": []
+}

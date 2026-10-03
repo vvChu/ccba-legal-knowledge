@@ -1,0 +1,167 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 20,
+  "tables": [
+    {
+      "table_id": "bang_01",
+      "table_number": "1",
+      "title": "Bảng 1 - Diện tích sử dụng tối thiểu một số phòng/không gian chức năng cơ bản",
+      "archetype": "FOOTNOTE_RICH",
+      "csv_file": "tables/csv/bang_01.csv",
+      "json_file": "tables/json/bang_01.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a",
+      "table_number": "PLA",
+      "title": "Bảng Phụ lục A",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a.csv",
+      "json_file": "tables/json/bang_phu_luc_a.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_2",
+      "table_number": "PLA_2",
+      "title": "Bảng Phụ lục A (Phần 2)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_2.csv",
+      "json_file": "tables/json/bang_phu_luc_a_2.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_3",
+      "table_number": "PLA_3",
+      "title": "Bảng Phụ lục A (Phần 3)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_3.csv",
+      "json_file": "tables/json/bang_phu_luc_a_3.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_4",
+      "table_number": "PLA_4",
+      "title": "Bảng Phụ lục A (Phần 4)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_4.csv",
+      "json_file": "tables/json/bang_phu_luc_a_4.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_5",
+      "table_number": "PLA_5",
+      "title": "Bảng Phụ lục A (Phần 5)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_5.csv",
+      "json_file": "tables/json/bang_phu_luc_a_5.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_6",
+      "table_number": "PLA_6",
+      "title": "Bảng Phụ lục A (Phần 6)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_6.csv",
+      "json_file": "tables/json/bang_phu_luc_a_6.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_7",
+      "table_number": "PLA_7",
+      "title": "Bảng Phụ lục A (Phần 7)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_7.csv",
+      "json_file": "tables/json/bang_phu_luc_a_7.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_8",
+      "table_number": "PLA_8",
+      "title": "Bảng Phụ lục A (Phần 8)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_8.csv",
+      "json_file": "tables/json/bang_phu_luc_a_8.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_9",
+      "table_number": "PLA_9",
+      "title": "Bảng Phụ lục A (Phần 9)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_9.csv",
+      "json_file": "tables/json/bang_phu_luc_a_9.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_10",
+      "table_number": "PLA_10",
+      "title": "Bảng Phụ lục A (Phần 10)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_10.csv",
+      "json_file": "tables/json/bang_phu_luc_a_10.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_11",
+      "table_number": "PLA_11",
+      "title": "Bảng Phụ lục A (Phần 11)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_11.csv",
+      "json_file": "tables/json/bang_phu_luc_a_11.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_12",
+      "table_number": "PLA_12",
+      "title": "Bảng Phụ lục A (Phần 12)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_12.csv",
+      "json_file": "tables/json/bang_phu_luc_a_12.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_13",
+      "table_number": "PLA_13",
+      "title": "Bảng Phụ lục A (Phần 13)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_13.csv",
+      "json_file": "tables/json/bang_phu_luc_a_13.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_14",
+      "table_number": "PLA_14",
+      "title": "Bảng Phụ lục A (Phần 14)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_14.csv",
+      "json_file": "tables/json/bang_phu_luc_a_14.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_15",
+      "table_number": "PLA_15",
+      "title": "Bảng Phụ lục A (Phần 15)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_15.csv",
+      "json_file": "tables/json/bang_phu_luc_a_15.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_16",
+      "table_number": "PLA_16",
+      "title": "Bảng Phụ lục A (Phần 16)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_16.csv",
+      "json_file": "tables/json/bang_phu_luc_a_16.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_17",
+      "table_number": "PLA_17",
+      "title": "Bảng Phụ lục A (Phần 17)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_17.csv",
+      "json_file": "tables/json/bang_phu_luc_a_17.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_18",
+      "table_number": "PLA_18",
+      "title": "Bảng Phụ lục A (Phần 18)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_18.csv",
+      "json_file": "tables/json/bang_phu_luc_a_18.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a_19",
+      "table_number": "PLA_19",
+      "title": "Bảng Phụ lục A (Phần 19)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a_19.csv",
+      "json_file": "tables/json/bang_phu_luc_a_19.json"
+    }
+  ]
+}

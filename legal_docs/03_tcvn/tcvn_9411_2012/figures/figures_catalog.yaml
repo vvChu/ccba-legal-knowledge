@@ -1,0 +1,61 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 9411 2012
+total_figures: 7
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Quy định về khoảng lùi của nhà liên kế mặt phố
+  annex: MAIN
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  slug: '2'
+  tag: '2'
+  title: Quy định về kích thước vạt góc
+  annex: MAIN
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_3
+  slug: '3'
+  tag: '3'
+  title: Quy định cao độ nền nhà
+  annex: MAIN
+  anchor: hinh-3
+  image_relpath: figures/images/hinh_3.png
+  has_image: true
+- figure_id: FIG_4
+  slug: '4'
+  tag: '4'
+  title: Quy định về độ vươn ra của các bộ phận công trình
+  annex: MAIN
+  anchor: hinh-4
+  image_relpath: figures/images/hinh_4.png
+  has_image: true
+- figure_id: FIG_5
+  slug: '5'
+  tag: '5'
+  title: Độ vươn ra cho phép của mái đón, mái hè phố
+  annex: MAIN
+  anchor: hinh-5
+  image_relpath: figures/images/hinh_5.png
+  has_image: true
+- figure_id: FIG_6
+  slug: '6'
+  tag: '6'
+  title: Quy định móng nhà giáp đường
+  annex: MAIN
+  anchor: hinh-6
+  image_relpath: figures/images/hinh_6.png
+  has_image: true
+- figure_id: FIG_7
+  slug: '7'
+  tag: '7'
+  title: Quy định cổng, hàng rào
+  annex: MAIN
+  anchor: hinh-7
+  image_relpath: figures/images/hinh_7.png
+  has_image: true

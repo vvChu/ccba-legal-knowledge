@@ -1,0 +1,29 @@
+{
+  "table_id": "bang_phu_luc_a_12",
+  "table_number": "PLA_12",
+  "table_title": "Bảng Phụ lục A (Phần 12)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "A",
+    "Thang dùng cho thoát nạn khẩn cấp",
+    "D",
+    "Chỉ giới xây dựng"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "A": "B",
+      "Thang dùng cho thoát nạn khẩn cấp": "Lối ra khẩn cấp qua lỗ mở trên sàn",
+      "D": "E",
+      "Chỉ giới xây dựng": "Chỉ giới đường đỏ"
+    },
+    {
+      "_row_id": 2,
+      "A": "C",
+      "Thang dùng cho thoát nạn khẩn cấp": "Lối thoát ra ngoài",
+      "D": "",
+      "Chỉ giới xây dựng": ""
+    }
+  ],
+  "footnotes": []
+}

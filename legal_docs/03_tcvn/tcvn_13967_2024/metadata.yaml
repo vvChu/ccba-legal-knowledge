@@ -1,0 +1,31 @@
+id: tcvn_13967_2024
+document_number: TCVN 13967:2024
+type: Tiêu chuẩn quốc gia
+title: Tiêu chuẩn quốc gia TCVN 13967:2024 về Nhà ở riêng lẻ - Yêu cầu chung về thiết kế
+status: active
+issued_by: Bộ Khoa học và Công nghệ
+signer: Huỳnh Thành Đạt
+issued_date: '2024-08-26'
+effective_date: '2024-08-26'
+published_date: '2024-08-26'
+bundle_path: legal_docs/03_tcvn/tcvn_13967_2024/
+pdf_path: legal_docs/03_tcvn/tcvn_13967_2024/sources/tcvn_13967_2024.pdf
+pdf_sha256: 975e4fa8ed20c3f9bce7a20fb232ce2180a8a43b6718307743360b8063086719
+pdf_status: verified
+cong_bao_number: Đang cập nhật
+source_file: legal_docs/03_tcvn/tcvn_13967_2024/sources/tcvn_13967_2024.docx
+source_file_size_kb: 5186.0
+source_assets:
+  pdf:
+    sha256: 975e4fa8ed20c3f9bce7a20fb232ce2180a8a43b6718307743360b8063086719
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_13967_2024/tcvn_13967_2024.pdf
+    status: verified
+  docx:
+    sha256: 86c85b83016b854cc04f04d89f376c1cae3e2d322a47bcddfa320aee5c0c11a6
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_13967_2024/tcvn_13967_2024.docx
+    status: verified
+relations: {}
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T04:50:15.123125+00:00'

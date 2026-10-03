@@ -1,0 +1,23 @@
+{
+  "table_id": "bang_phu_luc_a_9",
+  "table_number": "PLA_9",
+  "table_title": "Bảng Phụ lục A (Phần 9)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Ht",
+    "Chiều cao thông thủy cầu thang bộ"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Ht": "H",
+      "Chiều cao thông thủy cầu thang bộ": "Chiều cao bậc thang"
+    },
+    {
+      "_row_id": 2,
+      "Ht": "B",
+      "Chiều cao thông thủy cầu thang bộ": "Chiều rộng bậc thang"
+    }
+  ],
+  "footnotes": []
+}
