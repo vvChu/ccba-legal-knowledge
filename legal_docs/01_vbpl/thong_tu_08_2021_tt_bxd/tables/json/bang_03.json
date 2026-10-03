@@ -1,0 +1,25 @@
+{
+  "table_id": "bang_03",
+  "title": "Bảng 03",
+  "rows_count": 2,
+  "columns_count": 6,
+  "headers": [
+    "Số lượng công trình kiến trúc có giá trị",
+    "≤ 10",
+    "11 ÷ 50",
+    "51 ÷ 100",
+    "101 ÷ 150",
+    "≥ 151"
+  ],
+  "records": [
+    {
+      "Số lượng công trình kiến trúc có giá trị": "Định mức chi phí lập danh mục công trình kiến trúc có giá trị",
+      "≤ 10": "10",
+      "11 ÷ 50": "9,3",
+      "51 ÷ 100": "8,5",
+      "101 ÷ 150": "7,4",
+      "≥ 151": "6,9"
+    }
+  ],
+  "footnotes": []
+}

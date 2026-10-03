@@ -1,0 +1,22 @@
+id: 83_vbhn_tt_bxd
+document_number: 83/VBHN-TT-BXD
+type: Văn bản hợp nhất
+title: Văn bản hợp nhất 83/2026/VBHN-TT-BXD Thông tư quy định về hồ sơ thiết kế kiến trúc và mẫu chứng chỉ hành nghề kiến trúc
+status: active
+issued_by: Bộ Xây dựng
+issued_date: '2026-09-18'
+effective_date: '2020-09-15'
+signer: Thứ trưởng Bộ Xây dựng
+pdf_path: ./sources/83_vbhn_tt_bxd.pdf
+pdf_sha256: ab01b488765ba5d78b9ee0f4ea63d76f75431e38cb218a8dad22ac2d08c40da0
+pdf_status: verified
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+legal_basis:
+- doc_id: luat_kien_truc_2019_40_2019_qh14
+  title: Luật Kiến trúc ngày 13 tháng 6 năm 2019
+- doc_id: nghi_dinh_85_2020_nd_cp
+  title: Nghị định số 85/2020/NĐ-CP ngày 17 tháng 7 năm 2020 của Chính phủ về quy định chi tiết một số điều của Luật Kiến trúc
+replaces: []
+extracted_at: '2026-10-03T07:32:30.214055+00:00'

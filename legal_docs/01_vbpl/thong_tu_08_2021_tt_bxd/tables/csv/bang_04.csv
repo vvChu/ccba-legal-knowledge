@@ -1,0 +1,8 @@
+﻿TT,Khoản mục chi phí,Diễn giải,Giá trị (đồng),Ghi chú
+1,Chi phí chuyên gia,,,Ccg
+2,Chi phí quản lý,50%*Ccg,,Cql
+3,Chi phí khác,,,Ck
+4,Thu nhập chịu thuế tính trước,6%*(Ccg + Cql + Ck),,TN
+5,Thuế giá trị gia tăng,%*(Ccg+Cql+Ck+TN),,VAT
+6,Chi phí dự phòng,10%*(Ccg+Cql+Ck+TN+VAT),,Cdp
+,Tổng cộng,Ccg+Cql+Ck+TN+VAT+Cdp,,Cpc

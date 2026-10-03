@@ -1,0 +1,65 @@
+{
+  "table_id": "bang_04",
+  "title": "Bảng 04",
+  "rows_count": 8,
+  "columns_count": 5,
+  "headers": [
+    "TT",
+    "Khoản mục chi phí",
+    "Diễn giải",
+    "Giá trị (đồng)",
+    "Ghi chú"
+  ],
+  "records": [
+    {
+      "TT": "1",
+      "Khoản mục chi phí": "Chi phí chuyên gia",
+      "Diễn giải": "",
+      "Giá trị (đồng)": "",
+      "Ghi chú": "Ccg"
+    },
+    {
+      "TT": "2",
+      "Khoản mục chi phí": "Chi phí quản lý",
+      "Diễn giải": "50%*Ccg",
+      "Giá trị (đồng)": "",
+      "Ghi chú": "Cql"
+    },
+    {
+      "TT": "3",
+      "Khoản mục chi phí": "Chi phí khác",
+      "Diễn giải": "",
+      "Giá trị (đồng)": "",
+      "Ghi chú": "Ck"
+    },
+    {
+      "TT": "4",
+      "Khoản mục chi phí": "Thu nhập chịu thuế tính trước",
+      "Diễn giải": "6%*(Ccg + Cql + Ck)",
+      "Giá trị (đồng)": "",
+      "Ghi chú": "TN"
+    },
+    {
+      "TT": "5",
+      "Khoản mục chi phí": "Thuế giá trị gia tăng",
+      "Diễn giải": "%*(Ccg+Cql+Ck+TN)",
+      "Giá trị (đồng)": "",
+      "Ghi chú": "VAT"
+    },
+    {
+      "TT": "6",
+      "Khoản mục chi phí": "Chi phí dự phòng",
+      "Diễn giải": "10%*(Ccg+Cql+Ck+TN+VAT)",
+      "Giá trị (đồng)": "",
+      "Ghi chú": "Cdp"
+    },
+    {
+      "TT": "",
+      "Khoản mục chi phí": "Tổng cộng",
+      "Diễn giải": "Ccg+Cql+Ck+TN+VAT+Cdp",
+      "Giá trị (đồng)": "",
+      "Ghi chú": "Cpc"
+    }
+  ],
+  "footnotes": []
+}
