@@ -1,35 +1,51 @@
-# Walkthrough: Phát Hành Tính Năng PR #21 (Đồng Bộ Cloud RAG NotebookLM & Ưu Tiên 6 Văn Bản Đấu Thầu 2024–2026 Vào Living Roadmap)
+# Walkthrough: Phát Hành Tính Năng PR #30 (Số Hóa 6 Tiêu Chuẩn PCCC & Đường Đất Yếu, Cài Đặt Maskara Guardrail, Spoke Đạt 96 Bundles)
 
-> **Mục tiêu:** Hoàn thiện 100% đồng bộ toàn văn 65 nguồn quy phạm lên Google NotebookLM Cloud RAG (`CCBA_Legal_Knowledge_Base_2026`), vá lỗi thư viện Playwright polling capture, và cập nhật nghiên cứu hệ thống văn bản đấu thầu mới nhất (2024–2026) bổ sung 6 văn bản trọng yếu vào Living Expansion Roadmap.
+> **Mục tiêu:** Số hóa, bóc tách và đóng gói hoàn thiện 6 tiêu chuẩn quy phạm trọng yếu về PCCC và thiết kế đường ô tô trên nền đất yếu/mặt đường BTXM; tích hợp client-side security guardrail `ccba-maskara` (pre-commit hook); đồng bộ 100% tài sản nhị phân lên `CCBA_Legal_Vault`; và giải quyết triệt để 6/6 phát hiện từ Copilot Review.
 > **Trạng thái:** ✅ **MERGED VÀO MAIN**
-> - **PR #21:** [vvChu/ccba-legal-knowledge#21](https://github.com/vvChu/ccba-legal-knowledge/pull/21)
-> **CI Gate:** 100% Green (Deterministic Parity & Schema Audit PASSED in 27s, 0 Errors, 0 Blocker Comments)
+> - **PR #30:** [vvChu/ccba-legal-knowledge#30](https://github.com/vvChu/ccba-legal-knowledge/pull/30)
+> **CI Gate:** 100% Green (Master CI Gates PASSED, 0 Errors, 1 Telemetry Warning, 1038 Markdown Files 100% Visual Parity)
 
 ---
 
-## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (PR #21)
+## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (PR #30)
 
-### A. Đồng Bộ 100% Kho Tri Thức Lên Google NotebookLM Cloud RAG
-- **Khắc phục lỗi xác thực Playwright (`notebooklm-py`)**: 
-  - Truy vết và hotfix lỗi race condition / premature commit tại `browser_capture.py` và `wait_for_login_landing()`.
-  - Thay thế cơ chế commit sớm bằng vòng lặp **Active Polling** kiểm tra cookie `SID` thực tế, cho phép mở và giữ cửa sổ trình duyệt đăng nhập trong 5 phút.
-- **Thực thi đồng bộ 65 nguồn văn bản quy phạm**:
-  - Tải mới **37 nguồn tri thức** (gồm toàn văn Luật Nhà ở 2023, Luật Đất đai 2024, Thông tư 79/2025/TT-BTC, và toàn bộ 14 QCVN, 18 TCVN).
-  - Bỏ qua an toàn **28 nguồn** đã tồn tại sẵn trên Cloud.
-  - Sổ tay `CCBA_Legal_Knowledge_Base_2026` (`6dca7e4e-c407-4d1f-882a-e0d9459d1120`) đã được nạp đầy đủ 100% nguồn tri thức chính quy.
+### A. Số Hóa Toàn Diện 6 Tiêu Chuẩn & Quy Chuẩn Trọng Yếu
+1. **`QCVN 02:2020/BCA`** (`legal_docs/02_qcvn/qcvn_02_2020_bca/`):
+   - Quy chuẩn kỹ thuật quốc gia về Trạm bơm nước chữa cháy.
+   - 235 điều khoản AST, 6 bảng dữ liệu 2D tra cứu trong `tables/`, 235 QA benchmark pairs, đầy đủ provenance metadata.
+2. **`TCVN 13456:2022`** (`legal_docs/03_tcvn/tcvn_13456_2022/`):
+   - Phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn — Yêu cầu thiết kế, lắp đặt.
+   - 46 điều khoản AST, 1 bảng tra cứu 2D, 8 thẻ thị giác tham số hóa (`figures/cards/hinh_{1..a_8}.md`), 46 QA pairs.
+3. **`TCVN 6379:2024`** (`legal_docs/03_tcvn/tcvn_6379_2024/`):
+   - Thiết bị chữa cháy — Trụ nước chữa cháy — Yêu cầu kỹ thuật.
+   - 57 điều khoản AST, 2 bảng 2D, 5 thẻ thị giác cấu tạo trụ nổi/ngầm/hố van (`figures/cards/hinh_{a_1..d_1}.md`), 57 QA pairs.
+4. **`TCVN 7568-14:2025`** (`legal_docs/03_tcvn/tcvn_7568_14_2025/`):
+   - Hệ thống báo cháy — Phần 14: Thiết kế, lắp đặt hệ thống báo cháy cho nhà và công trình (thay thế TCVN 7568-14:2015 & TCVN 5738:2021).
+   - 179 điều khoản AST, 2 bảng 2D, 10 thẻ thị giác sơ đồ bố trí (`figures/cards/hinh_{1..10}.md`), 3 phụ lục kỹ thuật quy phạm (`annexes/`), 179 QA pairs.
+5. **`TCCS 41:2022/TCĐBVN`** (`legal_docs/03_tcvn/tccs_41_2022_tcdbvn/`):
+   - Khảo sát, thiết kế nền đường ô tô trên nền đất yếu.
+   - 81 điều khoản AST, 22 thẻ thị giác sơ đồ & toán đồ Osterberg/PVD (`figures/cards/hinh_{1..e_9}.md`), 81 QA pairs.
+6. **`TCCS 39:2022/TCĐBVN`** (`legal_docs/03_tcvn/tccs_39_2022_tcdbvn/`):
+   - Thiết kế mặt đường bê tông xi măng thông thường có khe nối trong xây dựng công trình giao thông.
+   - 14 điều khoản AST, 13 thẻ thị giác cấu tạo khe nối và bố trí thép (`figures/cards/hinh_{1..13}.md`), 14 QA pairs.
 
-### B. Nghiên Cứu Thể Chế & Bổ Sung 6 Văn Bản Đấu Thầu Mới Vào Roadmap
-- **Nghị định 349/2026/NĐ-CP** *(09/09/2026)*: Sửa đổi, bổ sung Nghị định 214/2025/NĐ-CP về lựa chọn nhà thầu ➔ **TOP Tier 1 (Điểm: 10.3)**.
-- **Luật số 57/2024/QH15** *(15/01/2025)*: Sửa đổi 21 điều then chốt của Luật Đấu thầu 2023 ➔ **TOP Tier 1 (Điểm: 10.1)**.
-- **Nghị định 225/2025/NĐ-CP** *(15/08/2025)*: Sửa đổi Nghị định 23/2024/NĐ-CP và Nghị định 115/2024/NĐ-CP về lựa chọn nhà đầu tư ➔ **TOP Tier 2 (Điểm: 9.6)**.
-- **Thông tư 05/2024/TT-BKHĐT**: Chi phí trong lựa chọn nhà thầu, nhà đầu tư trên Hệ thống mạng đấu thầu quốc gia ➔ **Tier 3 (Điểm: 8.9)**.
-- **Thông tư 105/2025/TT-BTC**: Sửa đổi Thông tư 02/2024/TT-BKHĐT về đào tạo, chứng chỉ đấu thầu ➔ **Tier 3 (Điểm: 8.9)**.
-- **Thông tư 03/2024/TT-BKHĐT**: Mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư dự án đầu tư kinh doanh ➔ **Tier 3 (Điểm: 8.6)**.
+### B. Cài Đặt Client-Side Guardrail: CCBA Maskara Pre-Commit Hook
+- **Cấu hình Hook**: Cài đặt `.githooks/pre-commit` kích hoạt `python -m ccba_maskara.cli scan --staged` trước mỗi commit.
+- **Git Attributes**: Thiết lập `.gitattributes` (`.githooks/* text eol=lf`) để đảm bảo tính tất định trên cả Linux và Windows.
+- **Bảo mật tuyệt đối**: Tự động phát hiện và chặn các rò rỉ API key, credentials, private key trên các tệp staged.
 
-### C. Đồng Bộ Living Expansion Roadmap (`expansion_roadmap.md`)
-- Tổng số văn bản đang hoạt động trong Spoke: **72 bundles** (74.2%).
-- Tổng số ứng viên đang chờ nạp: **25 văn bản** (25.8%).
-- Tổng quy mô mục tiêu: **97 văn bản**.
+### C. Đồng Bộ Tri-Tier Cloud Vault (ADR 0035)
+- Đồng bộ thành công 18 tệp nhị phân nguồn (`.pdf`, `.docx`, `_raw_scan.pdf`) của cả 6 tiêu chuẩn lên Google Drive Vault `gdrive:CCBA_Legal_Vault`.
+
+### D. Giải Quyết Triệt Để 6/6 Góp Ý Từ Copilot Code Review
+- **Review ID**: `PRR_kwDOT56haM8AAAABQicr9Q` (Copilot Pull Request Reviewer).
+- **Trạng thái**: ✅ **100% RESOLVED**
+  1. *Roadmap KPI regression (Comment #4172969397)*: Cập nhật `registry_summary.total_documents: 96` trong `legal_registry.yaml` và đồng bộ lại `expansion_roadmap.md` đạt chính xác 96 bundles.
+  2. *QCVN 02 missing metadata (Comment #4172969407)*: Bổ sung đầy đủ `bundle_path`, `source_file`, `sha256`, `cong_bao_number`, `source_assets` vào `qcvn_02_2020_bca/metadata.yaml`.
+  3. *TCCS 39 incorrect jurisdiction (Comment #4172969414)*: Sửa nhãn jurisdiction từ `CONG_AN` thành `CQXD` cho các điều khoản tính toán tải trọng xe/kiểm toán.
+  4. *TCCS 41 duplicate FIG_B_1 (Comment #4172969426)*: Khử trùng lặp entry `FIG_B_1` trong `figures_catalog.yaml` và cập nhật `total_figures: 22`.
+  5. *TCVN 7568-14 duplicate figures (Comment #4172969437)*: Khử trùng lặp các thẻ `FIG_1`, `FIG_6`, `FIG_9` trong `figures_catalog.yaml` và cập nhật `total_figures: 10`.
+  6. *TCVN 7568-14 missing formula C.2 (Comment #4176557868)*: Khử bỏ toàn bộ chuỗi ký tự rác OCR và cập nhật công thức KaTeX chuẩn mực $I_C = \frac{1{,}25[(I_Q \times 5) + (I_A \times 0{,}5)]}{24} \qquad (C.2)$ vào phụ lục C.
 
 ---
 
@@ -38,15 +54,24 @@
 | Cổng Kiểm Định | Môi Trường | Lệnh Kiểm Tra | Kết Quả | Trạng Thái |
 | :--- | :--- | :--- | :---: | :---: |
 | **Shift-Left Local Gate** | Local Spoke | `python scripts/validate_legal_spoke.py` | **15/15 Gates Passed (0 Errors, 1 Telemetry Warning)** | ✅ **PASSED** |
-| **Spoke Cleanliness** | Local Spoke | `python scripts/check_spoke_cleanliness.py` | **15/15 Scripts Budget, 0 Machine Leaks** | ✅ **PASSED** |
-| **Visual Parity** | Local Spoke | `python scripts/lint_visual_parity.py` | **849 files scanned, 0 errors** | ✅ **PASSED** |
-| **Hub Import Depth** | Local Spoke | `python scripts/check_hub_import_depth.py` | **44 files scanned, 0 violations (ADR 0044)** | ✅ **PASSED** |
-| **GitHub Actions CI** | Remote PR #21 | `Deterministic Parity & Schema Audit` | **Passed (27s)** | ✅ **PASSED** |
-| **Copilot Review Audit** | Remote PR #21 | `gh pr view 21 --json reviews,reviewRequests` | **0 blocker comments, clean** | ✅ **PASSED** |
+| **Visual Parity Gate** | Local Spoke | `python scripts/lint_visual_parity.py` | **1,038 files scanned, 0 errors (100% Parity)** | ✅ **PASSED** |
+| **Security Maskara Gate** | Local Spoke | `python -m ccba_maskara.cli scan --staged` | **Zero secret leaks** | ✅ **PASSED** |
+| **GitHub Actions CI** | Remote PR #30 | `CCBA Legal Knowledge Spoke CI Gates` | **Passed (22s)** | ✅ **PASSED** |
+| **Copilot Review Audit** | Remote PR #30 | `gh api repos/vvChu/ccba-legal-knowledge/pulls/30/comments` | **6/6 findings resolved** | ✅ **PASSED** |
 
 ---
 
 ## 3. Lịch Sử Phát Hành Tiền Nhiệm
+
+<details>
+<summary>Nhấn để xem chi tiết PR #21 (Phát hành ngày 2026-10-03)</summary>
+
+### PR #21: Đồng Bộ Cloud RAG NotebookLM & Ưu Tiên 6 Văn Bản Đấu Thầu 2024–2026 Vào Living Roadmap
+- **Khắc phục lỗi xác thực Playwright (`notebooklm-py`)**: Truy vết và hotfix lỗi race condition / premature commit tại `browser_capture.py`.
+- **Thực thi đồng bộ 65 nguồn văn bản quy phạm**: Tải mới 37 nguồn tri thức vào sổ tay `CCBA_Legal_Knowledge_Base_2026`.
+- **Nghiên cứu thể chế & bổ sung 6 văn bản đấu thầu**: NĐ 349/2026, Luật 57/2024, NĐ 225/2025, TT 05/2024, TT 105/2025, TT 03/2024.
+
+</details>
 
 <details>
 <summary>Nhấn để xem chi tiết PR #19 (Phát hành ngày 2026-10-03)</summary>
