@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.4",
+  "okf_spec": "v2.4 Universal",
+  "total_tables": 6,
+  "tables": [
+    {
+      "table_id": "bang_2_4_1",
+      "table_number": "2.4.1",
+      "title": "Bảng 2.4.1 - Công suất và dòng điện bảo vệ quá tải roto của động cơ điện",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_2_4_1.csv",
+      "json_file": "tables/json/bang_2_4_1.json"
+    },
+    {
+      "table_id": "bang_phu_luc_a",
+      "table_number": "PLA",
+      "title": "Bảng Phụ lục A",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_a.csv",
+      "json_file": "tables/json/bang_phu_luc_a.json"
+    },
+    {
+      "table_id": "bang_phu_luc_b",
+      "table_number": "PLB",
+      "title": "Bảng Phụ lục B",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_b.csv",
+      "json_file": "tables/json/bang_phu_luc_b.json"
+    },
+    {
+      "table_id": "bang_phu_luc_b_2",
+      "table_number": "PLB_2",
+      "title": "Bảng Phụ lục B (Phần 2)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_b_2.csv",
+      "json_file": "tables/json/bang_phu_luc_b_2.json"
+    },
+    {
+      "table_id": "bang_phu_luc_b_3",
+      "table_number": "PLB_3",
+      "title": "Bảng Phụ lục B (Phần 3)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_b_3.csv",
+      "json_file": "tables/json/bang_phu_luc_b_3.json"
+    },
+    {
+      "table_id": "bang_phu_luc_b_4",
+      "table_number": "PLB_4",
+      "title": "Bảng Phụ lục B (Phần 4)",
+      "archetype": "FLAT_MATRIX",
+      "csv_file": "tables/csv/bang_phu_luc_b_4.csv",
+      "json_file": "tables/json/bang_phu_luc_b_4.json"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "table_id": "bang_phu_luc_b_4",
+  "table_number": "PLB_4",
+  "table_title": "Bảng Phụ lục B (Phần 4)",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "STT",
+    "Công việc/thiết bị cần bảodưỡng",
+    "Kiểmtratrựcquan",
+    "Kiểm trabằngthiết bịđolường",
+    "Thaymới",
+    "Làmvệsinh",
+    "Kiểmtrahoạtđộng",
+    "Tầnsuấtbảodưỡng"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Nạp cân bằng/ Equalize charge",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tháng"
+    },
+    {
+      "_row_id": 2,
+      "STT": "6",
+      "Công việc/thiết bị cần bảodưỡng": "Hệ thống điện/ Electrical System",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": ""
+    },
+    {
+      "_row_id": 3,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Kiểm tra tổng quát/ General\ninspection",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tuần"
+    },
+    {
+      "_row_id": 4,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Gắn chặt các kết nối dây nguồn\nvà mạch điều khiển/ Tighten\ncontrol and power wiring\nconnections",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "12 tháng"
+    },
+    {
+      "_row_id": 5,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Vết xơ, xước trên dây ở nơi xê\ndịch nhiều/ Wire chafing where\nsubject to movement",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "03 tháng"
+    },
+    {
+      "_row_id": 6,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Hoạt động của thiết bị an toàn và\nthiết bị báo động/ Operation of\nsafeties and alarms",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "X",
+      "Tầnsuấtbảodưỡng": "06 tháng"
+    },
+    {
+      "_row_id": 7,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Hộp, bảng và tủ/ Boxes, panels,\nand cabinets",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "",
+      "Làmvệsinh": "X",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "06 tháng"
+    },
+    {
+      "_row_id": 8,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Cầu dao hoặc cầu chì/ Circuit\nbreakers or fuses",
+      "Kiểmtratrựcquan": "X",
+      "Kiểm trabằngthiết bịđolường": "X",
+      "Thaymới": "",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "01 tháng"
+    },
+    {
+      "_row_id": 9,
+      "STT": "-",
+      "Công việc/thiết bị cần bảodưỡng": "Cầu dao hoặc cầu chì/ Circuit\nbreakers or fuses",
+      "Kiểmtratrựcquan": "",
+      "Kiểm trabằngthiết bịđolường": "",
+      "Thaymới": "X",
+      "Làmvệsinh": "",
+      "Kiểmtrahoạtđộng": "",
+      "Tầnsuấtbảodưỡng": "24 tháng"
+    }
+  ],
+  "footnotes": []
+}

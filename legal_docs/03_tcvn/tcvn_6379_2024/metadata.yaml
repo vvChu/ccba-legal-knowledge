@@ -1,0 +1,36 @@
+id: tcvn_6379_2024
+document_number: TCVN 6379:2024
+type: Tiêu chuẩn quốc gia
+title: Thiết bị chữa cháy — Trụ nước chữa cháy
+status: active
+issued_by: Bộ Khoa học và Công nghệ
+signer: Bộ Khoa học và Công nghệ
+issued_date: '2024-12-16'
+effective_date: '2024-12-16'
+pdf_path: legal_docs/03_tcvn/tcvn_6379_2024/sources/tcvn_6379_2024.pdf
+pdf_sha256: c087cd9b8ece3446466cd9451d3abaf1e46f789bbdaf13d6dbe006002401c70b
+pdf_status: verified
+legal_basis: []
+replaces: TCVN 6379:1998
+okf_spec: v2.4 Universal
+converter_version: 0.4.0
+schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+extracted_at: '2026-10-03T10:54:49.520547+00:00'
+published_date: '2024-12-16'
+raw_scan_pdf: legal_docs/03_tcvn/tcvn_6379_2024/sources/tcvn_6379_2024_raw_scan.pdf
+raw_scan_pdf_sha256: 65ac31c3f506d3c7b6abd1c4a6822bc9c8c246a69c8dd0da1e9825a98010394e
+pdf_origin: docx_vector_rendered
+relations:
+  referenced_in: QCVN 06:2022/BXD
+bundle_path: legal_docs/03_tcvn/tcvn_6379_2024/
+source_file: legal_docs/03_tcvn/tcvn_6379_2024/sources/tcvn_6379_2024.docx
+sha256: 81eb09be0f6e3e5e5dd2cc5d5eb45b38ebc03afa039d01e884c80a1205c2e829
+source_assets:
+  pdf:
+    sha256: c087cd9b8ece3446466cd9451d3abaf1e46f789bbdaf13d6dbe006002401c70b
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_6379_2024/tcvn_6379_2024.pdf
+    status: verified
+  docx:
+    sha256: 81eb09be0f6e3e5e5dd2cc5d5eb45b38ebc03afa039d01e884c80a1205c2e829
+    vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_6379_2024/tcvn_6379_2024.docx
+    status: verified

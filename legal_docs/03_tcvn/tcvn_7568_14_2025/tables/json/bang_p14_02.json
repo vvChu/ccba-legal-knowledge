@@ -1,0 +1,33 @@
+{
+  "table_id": "bang_p14_02",
+  "table_number": "2",
+  "table_title": "Bảng 2 - Quy định lắp đặt đầu báo cháy khói kiểu hút",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Độ nhạy của đầu báo cháy khói kiểu hút",
+    "Chiều cao tối đa khu vực bảo vệ (m)",
+    "Bán kính bảo vệ của 1 lỗ hút (m)"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Độ nhạy của đầu báo cháy khói kiểu hút": "Loại A, siêu nhạy",
+      "Chiều cao tối đa khu vực bảo vệ (m)": "30",
+      "Bán kính bảo vệ của 1 lỗ hút (m)": "6,5"
+    },
+    {
+      "_row_id": 2,
+      "Độ nhạy của đầu báo cháy khói kiểu hút": "Loại B, độ nhạy cao",
+      "Chiều cao tối đa khu vực bảo vệ (m)": "18",
+      "Bán kính bảo vệ của 1 lỗ hút (m)": "6,5"
+    },
+    {
+      "_row_id": 3,
+      "Độ nhạy của đầu báo cháy khói kiểu hút": "Loại C, độ nhạy tiêu chuẩn",
+      "Chiều cao tối đa khu vực bảo vệ (m)": "12",
+      "Bán kính bảo vệ của 1 lỗ hút (m)": "6,5"
+    }
+  ],
+  "footnotes": [],
+  "part_id": "p14"
+}

@@ -1,0 +1,80 @@
+{
+  "table_id": "bang_01",
+  "table_number": "1",
+  "table_title": "Bảng 1 - Thông số và kích thước cơ bản của trụ nước chữa cháy",
+  "archetype": "FLAT_MATRIX",
+  "headers": [
+    "Tên thông số",
+    "Trụ nổi",
+    "Trụ ngầm"
+  ],
+  "rows": [
+    {
+      "_row_id": 1,
+      "Tên thông số": "Áp suất làm việc, MPa (bar), không lớn hơn",
+      "Trụ nổi": "1 (10)",
+      "Trụ ngầm": "1 (10)"
+    },
+    {
+      "_row_id": 2,
+      "Tên thông số": "Đường kính trong thân trụ nước, mm",
+      "Trụ nổi": "125 ± 2",
+      "Trụ ngầm": "125 ± 2"
+    },
+    {
+      "_row_id": 3,
+      "Tên thông số": "Chiều cao nâng của van, mm",
+      "Trụ nổi": "24 đến 30",
+      "Trụ ngầm": "24 đến 30"
+    },
+    {
+      "_row_id": 4,
+      "Tên thông số": "Số vòng quay cần thiết để van mở hoàn toàn, vòng, không lớn hơn",
+      "Trụ nổi": "15",
+      "Trụ ngầm": "15"
+    },
+    {
+      "_row_id": 5,
+      "Tên thông số": "Lượng nước đọng lại trong trụ nước, cm³, không lớn hơn",
+      "Trụ nổi": "50",
+      "Trụ ngầm": "50"
+    },
+    {
+      "_row_id": 6,
+      "Tên thông số": "Số lượng họng chờ: Họng lớn",
+      "Trụ nổi": "1",
+      "Trụ ngầm": "—"
+    },
+    {
+      "_row_id": 7,
+      "Tên thông số": "Số lượng họng chờ: Họng nhỏ",
+      "Trụ nổi": "2",
+      "Trụ ngầm": "—"
+    },
+    {
+      "_row_id": 8,
+      "Tên thông số": "Đường kính trong của họng chờ: Họng lớn, mm",
+      "Trụ nổi": "110 ± 2",
+      "Trụ ngầm": "—"
+    },
+    {
+      "_row_id": 9,
+      "Tên thông số": "Đường kính trong của họng chờ: Họng nhỏ, mm",
+      "Trụ nổi": "69 ± 2",
+      "Trụ ngầm": "—"
+    },
+    {
+      "_row_id": 10,
+      "Tên thông số": "Khoảng cách từ tâm họng chờ đến đỉnh trụ nước: Họng lớn, mm",
+      "Trụ nổi": "280 ± 15",
+      "Trụ ngầm": "—"
+    },
+    {
+      "_row_id": 11,
+      "Tên thông số": "Khoảng cách từ tâm họng chờ đến đỉnh trụ nước: Họng nhỏ, mm",
+      "Trụ nổi": "270 ± 15",
+      "Trụ ngầm": "—"
+    }
+  ],
+  "footnotes": []
+}

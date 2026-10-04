@@ -24,3 +24,4 @@
 *.jpg binary
 *.jpeg binary
 *.svg text eol=lf
+.githooks/* text eol=lf

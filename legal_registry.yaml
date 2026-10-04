@@ -2,11 +2,11 @@ version: 0.3.0
 updated_at: '2026-10-03T07:34:00.000000+00:00'
 spoke_name: ccba-legal-knowledge
 registry_summary:
-  total_documents: 88
+  total_documents: 96
   categories:
-    01_vbpl: 49
-    02_qcvn: 14
-    03_tcvn: 22
+    01_vbpl: 51
+    02_qcvn: 15
+    03_tcvn: 27
     04_appendices: 3
 documents: {}
 laws:
@@ -2206,6 +2206,218 @@ standards:
       vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_8793_2011/tcvn_8793_2011.docx
       status: verified
   relations: {}
+- id: qcvn_02_2020_bca
+  document_number: QCVN 02:2020/BCA
+  type: Quy chuẩn kỹ thuật
+  issued_by: Bộ Công an
+  signer: Tô Lâm
+  issued_date: '2020-05-26'
+  effective_date: '2020-10-04'
+  published_date: '2020-06-15'
+  status: active
+  relations:
+    issued_with: 52/2020/TT-BCA
+  title: Quy chuẩn kỹ thuật quốc gia về Trạm bơm nước chữa cháy
+  bundle_path: legal_docs/02_qcvn/qcvn_02_2020_bca/
+  source_url: https://vbpl.vn/van-ban/chi-tiet/thong-tu-so-52-2020-tt-bca-ban-hanh-quy-chuan-ky-thuat-quoc-gia-ve-tram-bom-nuoc-chua-chay--145004
+  sha256: 54d5fe7f7b96e344393f8b02ca8a49bc8d997df315574c443209a3b5eb7b7155
+  pdf_path: legal_docs/02_qcvn/qcvn_02_2020_bca/sources/qcvn_02_2020_bca.pdf
+  pdf_sha256: 4a3da1f3731afa58741b02600a2f747e0629f6320c8458052249c436d9c8fd6f
+  cong_bao_number: Đang cập nhật
+  pdf_status: verified
+  source_file: legal_docs/02_qcvn/qcvn_02_2020_bca/sources/qcvn_02_2020_bca.docx
+  source_file_size_kb: 45.2
+  source_assets:
+    pdf:
+      sha256: 4a3da1f3731afa58741b02600a2f747e0629f6320c8458052249c436d9c8fd6f
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2020_bca/qcvn_02_2020_bca.pdf
+      status: verified
+    docx:
+      sha256: 54d5fe7f7b96e344393f8b02ca8a49bc8d997df315574c443209a3b5eb7b7155
+      vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2020_bca/qcvn_02_2020_bca.docx
+      status: verified
+- id: tcvn_13456_2022
+  document_number: TCVN 13456:2022
+  type: Tiêu chuẩn quốc gia
+  issued_by: Bộ Khoa học và Công nghệ
+  signer: Bộ Khoa học và Công nghệ
+  issued_date: '2022-03-01'
+  effective_date: '2022-03-01'
+  published_date: '2022-03-01'
+  status: active
+  relations:
+    referenced_in: QCVN 06:2022/BXD
+  title: Phòng cháy chữa cháy — Phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn
+    — Yêu cầu thiết kế, lắp đặt
+  bundle_path: legal_docs/03_tcvn/tcvn_13456_2022/
+  source_url: https://tcvn.gov.vn
+  sha256: 02c96c3e0f73cb86051b7a5f990c0c0ee55c2aa55b8cdb2eaf535ed2e6699555
+  pdf_path: legal_docs/03_tcvn/tcvn_13456_2022/sources/tcvn_13456_2022.pdf
+  pdf_sha256: 7e58272f886dd8f3e731c8a7322699a6557998632b8e6e663c73011e13e758a7
+  cong_bao_number: Đang cập nhật
+  pdf_status: verified
+  source_file: legal_docs/03_tcvn/tcvn_13456_2022/sources/tcvn_13456_2022.docx
+  source_file_size_kb: 42.9
+  source_assets:
+    pdf:
+      sha256: 7e58272f886dd8f3e731c8a7322699a6557998632b8e6e663c73011e13e758a7
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_13456_2022/tcvn_13456_2022.pdf
+      status: verified
+    docx:
+      sha256: 02c96c3e0f73cb86051b7a5f990c0c0ee55c2aa55b8cdb2eaf535ed2e6699555
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_13456_2022/tcvn_13456_2022.docx
+      status: verified
+- id: tcvn_6379_2024
+  document_number: TCVN 6379:2024
+  type: Tiêu chuẩn quốc gia
+  title: Thiết bị chữa cháy — Trụ nước chữa cháy
+  status: active
+  issued_by: Bộ Khoa học và Công nghệ
+  signer: Bộ Khoa học và Công nghệ
+  issued_date: '2024-12-16'
+  effective_date: '2024-12-16'
+  pdf_path: legal_docs/03_tcvn/tcvn_6379_2024/sources/tcvn_6379_2024.pdf
+  pdf_sha256: c087cd9b8ece3446466cd9451d3abaf1e46f789bbdaf13d6dbe006002401c70b
+  pdf_status: verified
+  legal_basis: []
+  replaces: TCVN 6379:1998
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-10-03T10:54:49.520547+00:00'
+  published_date: '2024-12-16'
+  raw_scan_pdf: legal_docs/03_tcvn/tcvn_6379_2024/sources/tcvn_6379_2024_raw_scan.pdf
+  raw_scan_pdf_sha256: 65ac31c3f506d3c7b6abd1c4a6822bc9c8c246a69c8dd0da1e9825a98010394e
+  pdf_origin: docx_vector_rendered
+  relations:
+    referenced_in: QCVN 06:2022/BXD
+  bundle_path: legal_docs/03_tcvn/tcvn_6379_2024/
+  source_file: legal_docs/03_tcvn/tcvn_6379_2024/sources/tcvn_6379_2024.docx
+  sha256: 81eb09be0f6e3e5e5dd2cc5d5eb45b38ebc03afa039d01e884c80a1205c2e829
+  source_assets:
+    pdf:
+      sha256: c087cd9b8ece3446466cd9451d3abaf1e46f789bbdaf13d6dbe006002401c70b
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_6379_2024/tcvn_6379_2024.pdf
+      status: verified
+    docx:
+      sha256: 81eb09be0f6e3e5e5dd2cc5d5eb45b38ebc03afa039d01e884c80a1205c2e829
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_6379_2024/tcvn_6379_2024.docx
+      status: verified
+  cong_bao_number: Đang cập nhật
+- id: tcvn_7568_14_2025
+  document_number: TCVN 7568-14:2025
+  type: Tiêu chuẩn quốc gia
+  title: 'Hệ thống báo cháy — Phần 14: Thiết kế, lắp đặt các hệ thống báo cháy cho
+    nhà và công trình'
+  status: active
+  issued_by: Bộ Khoa học và Công nghệ
+  signer: Bộ Khoa học và Công nghệ
+  issued_date: '2025-06-01'
+  effective_date: '2025-06-01'
+  pdf_path: legal_docs/03_tcvn/tcvn_7568_14_2025/sources/tcvn_7568_14_2025.pdf
+  pdf_sha256: e7a5a7e04db5077db4450c16d1a10baea938afa1db4d64f1eef1f0361158b1d9
+  pdf_status: verified
+  legal_basis: []
+  replaces: TCVN 7568-14:2015, TCVN 5738:2021
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-10-03T10:57:17.288134+00:00'
+  published_date: '2025-06-01'
+  raw_scan_pdf: legal_docs/03_tcvn/tcvn_7568_14_2025/sources/tcvn_7568_14_2025_raw_scan.pdf
+  raw_scan_pdf_sha256: f7f9461f1bf60771955eb19e73e96277141979bbfe249c8f31fc04c2078a22d3
+  pdf_origin: docx_vector_rendered
+  relations:
+    referenced_in: QCVN 06:2022/BXD
+  bundle_path: legal_docs/03_tcvn/tcvn_7568_14_2025/
+  source_file: legal_docs/03_tcvn/tcvn_7568_14_2025/sources/tcvn_7568_14_2025.docx
+  sha256: 894ec5bc1eb2e888655a268560eb59cc4fdd490f811cdf4d2def19cee62ebc0b
+  cong_bao_number: Đang cập nhật
+  source_assets:
+    pdf:
+      sha256: e7a5a7e04db5077db4450c16d1a10baea938afa1db4d64f1eef1f0361158b1d9
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7568_14_2025/tcvn_7568_14_2025.pdf
+      status: verified
+    docx:
+      sha256: 894ec5bc1eb2e888655a268560eb59cc4fdd490f811cdf4d2def19cee62ebc0b
+      vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_7568_14_2025/tcvn_7568_14_2025.docx
+      status: verified
+- id: tccs_41_2022_tcdbvn
+  document_number: TCCS 41:2022/TCĐBVN
+  type: Tiêu chuẩn cơ sở
+  title: Tiêu chuẩn khảo sát, thiết kế nền đường ô tô trên nền đất yếu
+  status: active
+  issued_by: Cục Đường bộ Việt Nam
+  signer: Tổng cục Đường bộ Việt Nam
+  issued_date: '2022-10-01'
+  effective_date: '2022-10-01'
+  pdf_path: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/sources/tccs_41_2022_tcdbvn.pdf
+  pdf_sha256: b1fdbf758a92c3dd5ae043ece83d9385d58b7aa29204d3a908dc1a80fb0a991e
+  pdf_status: verified
+  legal_basis: []
+  replaces: 22TCN 262:2000
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-10-03T11:03:42.447292+00:00'
+  published_date: '2022-10-01'
+  raw_scan_pdf: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/sources/tccs_41_2022_tcdbvn_raw_scan.pdf
+  raw_scan_pdf_sha256: acc37880a36927f7f13f9253d97281af24e0027261bed9d520102b240fc52d6c
+  pdf_origin: docx_vector_rendered
+  amended_by: 1365/QĐ-CĐBVN ngày 30/11/2022
+  relations:
+    amended_by: 1365/QĐ-CĐBVN
+  bundle_path: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/
+  source_file: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/sources/tccs_41_2022_tcdbvn.docx
+  sha256: 2d797eada1985a6f8f325094907e3efa868148af27957673e75b9e24c45ad156
+  cong_bao_number: Đang cập nhật
+  source_assets:
+    pdf:
+      sha256: b1fdbf758a92c3dd5ae043ece83d9385d58b7aa29204d3a908dc1a80fb0a991e
+      vault_path: CCBA_Legal_Vault/03_tcvn/tccs_41_2022_tcdbvn/tccs_41_2022_tcdbvn.pdf
+      status: verified
+    docx:
+      sha256: 2d797eada1985a6f8f325094907e3efa868148af27957673e75b9e24c45ad156
+      vault_path: CCBA_Legal_Vault/03_tcvn/tccs_41_2022_tcdbvn/tccs_41_2022_tcdbvn.docx
+      status: verified
+- id: tccs_39_2022_tcdbvn
+  document_number: TCCS 39:2022/TCĐBVN
+  type: Tiêu chuẩn cơ sở
+  title: Tiêu chuẩn thiết kế mặt đường bê tông xi măng thông thường có khe nối trong
+    xây dựng công trình giao thông
+  status: active
+  issued_by: Cục Đường bộ Việt Nam
+  signer: Tổng cục Đường bộ Việt Nam
+  issued_date: '2022-10-01'
+  effective_date: '2022-10-01'
+  pdf_path: legal_docs/03_tcvn/tccs_39_2022_tcdbvn/sources/tccs_39_2022_tcdbvn.pdf
+  pdf_sha256: 63aa6bbd0dc83685aa34b49c70169f25e8555138adf72e7bd02b3f7171fad8e0
+  pdf_status: verified
+  legal_basis: []
+  replaces: []
+  okf_spec: v2.4 Universal
+  converter_version: 0.4.0
+  schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
+  extracted_at: '2026-10-03T11:06:33.317949+00:00'
+  published_date: '2022-10-01'
+  raw_scan_pdf: legal_docs/03_tcvn/tccs_39_2022_tcdbvn/sources/tccs_39_2022_tcdbvn_raw_scan.pdf
+  raw_scan_pdf_sha256: ea81fb023412de5cd7276ba0d82db979f7c671a8e30829f564840e91089df772
+  pdf_origin: docx_vector_rendered
+  relations:
+    applied_with: TCCS 40:2022/TCĐBVN
+  bundle_path: legal_docs/03_tcvn/tccs_39_2022_tcdbvn/
+  source_file: legal_docs/03_tcvn/tccs_39_2022_tcdbvn/sources/tccs_39_2022_tcdbvn.docx
+  sha256: cb8a2eb536d4c076d91c86536e21c01f35983aa1fe6646135882fb36c4a9901e
+  cong_bao_number: Đang cập nhật
+  source_assets:
+    pdf:
+      sha256: 63aa6bbd0dc83685aa34b49c70169f25e8555138adf72e7bd02b3f7171fad8e0
+      vault_path: CCBA_Legal_Vault/03_tcvn/tccs_39_2022_tcdbvn/tccs_39_2022_tcdbvn.pdf
+      status: verified
+    docx:
+      sha256: cb8a2eb536d4c076d91c86536e21c01f35983aa1fe6646135882fb36c4a9901e
+      vault_path: CCBA_Legal_Vault/03_tcvn/tccs_39_2022_tcdbvn/tccs_39_2022_tcdbvn.docx
+      status: verified
 decrees:
 - id: nghi_dinh_214_2025_nd_cp
   document_number: 214/2025/NĐ-CP
@@ -2682,10 +2894,10 @@ decrees:
       sha256: 4c447feee5d36ad7c95cea77ee3a2b9efcb0844cd360a506a381328b27b324d1
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_105_2025_tt_btc/thong_tu_105_2025_tt_btc.docx
       status: verified
-
 - id: thong_tu_08_2021_tt_bxd
   document_number: 08/2021/TT-BXD
-  title: Thông tư số 08/2021/TT-BXD hướng dẫn phương pháp xác định chi phí lập và tổ chức thực hiện quy chế quản lý kiến trúc
+  title: Thông tư số 08/2021/TT-BXD hướng dẫn phương pháp xác định chi phí lập và
+    tổ chức thực hiện quy chế quản lý kiến trúc
   type: Thông tư
   issued_by: Bộ Xây dựng
   signer: Bùi Hồng Minh
@@ -2711,10 +2923,10 @@ decrees:
       sha256: 3fdc2cd0bdc5658e9726c91dfff47e96f4a70b353cf87f1820b22406bf1317d5
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_08_2021_tt_bxd/thong_tu_08_2021_tt_bxd.docx
       status: verified
-
 - id: 83_vbhn_tt_bxd
   document_number: 83/VBHN-TT-BXD
-  title: Văn bản hợp nhất 83/2026/VBHN-TT-BXD Thông tư quy định về hồ sơ thiết kế kiến trúc và mẫu chứng chỉ hành nghề kiến trúc
+  title: Văn bản hợp nhất 83/2026/VBHN-TT-BXD Thông tư quy định về hồ sơ thiết kế
+    kiến trúc và mẫu chứng chỉ hành nghề kiến trúc
   type: Văn bản hợp nhất
   issued_by: Bộ Xây dựng
   signer: Thứ trưởng Bộ Xây dựng
@@ -2743,10 +2955,10 @@ decrees:
       sha256: f0c321faee74352fff1c70c9aa3b1db1d152d94edd380c683dc782d4b7e09c36
       vault_path: CCBA_Legal_Vault/01_vbpl/83_vbhn_tt_bxd/83_vbhn_tt_bxd.docx
       status: verified
-
 - id: thong_tu_02_2024_tt_bkhdt
   document_number: 02/2024/TT-BKHĐT
-  title: Thông tư số 02/2024/TT-BKHĐT quy định về hoạt động đào tạo, bồi dưỡng kiến thức và thi, cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu
+  title: Thông tư số 02/2024/TT-BKHĐT quy định về hoạt động đào tạo, bồi dưỡng kiến
+    thức và thi, cấp, thu hồi chứng chỉ nghiệp vụ chuyên môn về đấu thầu
   type: Thông tư
   issued_by: Bộ Kế hoạch và Đầu tư
   signer: Nguyễn Chí Dũng
@@ -2772,10 +2984,11 @@ decrees:
       sha256: cd7786b9ed2f13dab92b0dcae3feff45c756bf622253d6e6019cc16705a37f3e
       vault_path: CCBA_Legal_Vault/01_vbpl/thong_tu_02_2024_tt_bkhdt/thong_tu_02_2024_tt_bkhdt.docx
       status: verified
-
 - id: thong_tu_03_2024_tt_bkhdt
   document_number: 03/2024/TT-BKHĐT
-  title: Thông tư số 03/2024/TT-BKHĐT quy định mẫu hồ sơ đấu thầu lựa chọn nhà đầu tư thực hiện dự án thuộc trường hợp phải tổ chức đấu thầu theo quy định của pháp luật quản lý ngành, lĩnh vực
+  title: Thông tư số 03/2024/TT-BKHĐT quy định mẫu hồ sơ đấu thầu lựa chọn nhà đầu
+    tư thực hiện dự án thuộc trường hợp phải tổ chức đấu thầu theo quy định của pháp
+    luật quản lý ngành, lĩnh vực
   type: Thông tư
   issued_by: Bộ Kế hoạch và Đầu tư
   signer: Nguyễn Chí Dũng

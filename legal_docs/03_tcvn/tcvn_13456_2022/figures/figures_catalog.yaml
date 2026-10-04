@@ -1,0 +1,69 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCVN 13456 2022
+total_figures: 8
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Vùng có nguy cơ gây lóa tạm thời đối với đường thoát nạn theo phương ngang
+  annex: MAIN
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  slug: '2'
+  tag: '2'
+  title: Vùng có nguy cơ gây lóa tạm thời đối với đường thoát nạn khác
+  annex: MAIN
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_3
+  slug: '3'
+  tag: '3'
+  title: Xác định chiều cao nhỏ nhất của biển báo
+  annex: MAIN
+  anchor: hinh-3
+  image_relpath: figures/images/hinh_3.png
+  has_image: true
+- figure_id: FIG_A_3
+  slug: a_3
+  tag: A.3
+  title: Chiếu sáng sự cố gian phòng (chống hoảng loạn)
+  annex: A
+  anchor: hinh-a_3
+  image_relpath: figures/images/hinh_a_3.png
+  has_image: true
+- figure_id: FIG_A_4
+  slug: a_4
+  tag: A.4
+  title: Chiếu sáng phương tiện phòng cháy và chữa chảy, cứu thương
+  annex: A
+  anchor: hinh-a_4
+  image_relpath: figures/images/hinh_a_4.png
+  has_image: true
+- figure_id: FIG_A_5
+  slug: a_5
+  tag: A.5
+  title: Biển báo an toàn tầm thấp
+  annex: A
+  anchor: hinh-a_5
+  image_relpath: figures/images/hinh_a_5.png
+  has_image: true
+- figure_id: FIG_A_7
+  slug: a_7
+  tag: A.7
+  title: Sơ đồ chỉ dẫn thoát nạn trong phòng
+  annex: A
+  anchor: hinh-a_7
+  image_relpath: figures/images/hinh_a_7.png
+  has_image: true
+- figure_id: FIG_A_8
+  slug: a_8
+  tag: A.8
+  title: Đặc tính của biển báo an toàn
+  annex: A
+  anchor: hinh-a_8
+  image_relpath: figures/images/hinh_a_8.png
+  has_image: true

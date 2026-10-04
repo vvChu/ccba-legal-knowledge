@@ -1,0 +1,16 @@
+﻿STT,Công việc/thiết bị cần bảo<br>dưỡng,Kiểm<br>tra<br>trực<br>quan,Kiểm tra<br>bằng<br>thiết bị<br>đo<br>lường,Thay<br>mới,Làm<br>vệ<br>sinh,Kiểm<br>tra<br>hoạt<br>động,Tần<br>suất<br>bảo<br>dưỡng
+A,Hệ thống bơm /Pump System,,,,,,
+1,Bôi trơn ổ trục bơm /Lubricate<br>pump bearings,,,X,,,12 tháng
+2,Kiểm tra khe hở trục bơm/Check<br>pump shaft end play,,X,,,,12 tháng
+3,Kiểm tra độ chính xác của bộ cảm<br>ứng và đồng hồ đo áp lực/Check<br>accuracy of pressure gauges and<br>sensors,,X,X,,,12 tháng<br>(thay đổi<br>hoặc<br>điều<br>chỉnh khi<br>lệch 5%)
+4,Kiểm tra liên kết khớp nối của<br>bơm/Check pump coupling<br>alignment,,X,,,,12 tháng
+5,Màn lọc đầu hút hố nước/Wet pit<br>suction screens,,X,,X,,Sau mỗi<br>chạy<br>bơm
+B,Bộ phận truyền động cơ<br>học/Mechanical Transmission,,,,,,
+1,Bôi trơn các khớp nối/Lubricate<br>coupling,,,X,,,12 tháng
+2,Bôi trơn bọ ̂ dẫn động bánh răng<br>vuông góc/ Lubricate right-angle<br>gear drive,,,X,,,12 tháng
+C,Hệ thống điện/ Electrical System,,,,,,
+1,Thử nghiệm công tắc cô lập và<br>cầu dao/ Exercise isolating switch<br>and circuit breaker,,,,,X,01 tháng
+2,Cho cầu dao nhảy/ Trip circuit<br>breaker,,,,,X,12 tháng
+3,Vận hành phương tiện khởi động<br>thủ công (điện)/ Operate manual<br>starting means (electrical),,,,,X,06<br>tháng
+4,Kiểm tra và vận hành phương tiện<br>khởi động thủ công (không có<br>nguồn)/ Inspect and operate<br>emergency manual starting<br>means (without power),X,,,,X,12 tháng
+5,Gắn chặt các kết nối điện nếu cần<br>thiết/ Tighten electrical<br>connections as necessary,,X,,,,12 tháng

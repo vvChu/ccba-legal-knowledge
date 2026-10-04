@@ -1,0 +1,183 @@
+schema_version: '2.4'
+okf_spec: v2.4 Universal
+standard: TCCS 41 2022 TCDBVN
+total_figures: 22
+figures:
+- figure_id: FIG_1
+  slug: '1'
+  tag: '1'
+  title: Mặt cắt nền đắp dự phòng lún (đường nét đứt)
+  annex: A
+  anchor: hinh-1
+  image_relpath: figures/images/hinh_1.png
+  has_image: true
+- figure_id: FIG_2
+  slug: '2'
+  tag: '2'
+  title: Sơ đồ xếp xe để xác định tải trọng xe cộ tác dụng lên dat yếu
+  annex: D
+  anchor: hinh-2
+  image_relpath: figures/images/hinh_2.png
+  has_image: true
+- figure_id: FIG_3
+  slug: '3'
+  tag: '3'
+  title: Bố tri vải địa kỹ thuật giữa dat yếu và nền đắp
+  annex: G
+  anchor: hinh-3
+  image_relpath: figures/images/hinh_3.png
+  has_image: true
+- figure_id: FIG_4
+  slug: '4'
+  tag: '4'
+  title: Diễn biến lún theo thời gian có xét đến thời gian thi công đắp nền
+  annex: B
+  anchor: hinh-4
+  image_relpath: figures/images/hinh_4.png
+  has_image: true
+- figure_id: FIG_A_1
+  slug: a_1
+  tag: A.1
+  title: Đường cong nén lún e — lgp
+  annex: A
+  anchor: hinh-a_1
+  image_relpath: figures/images/hinh_a_1.png
+  has_image: true
+- figure_id: FIG_A_2
+  slug: a_2
+  tag: A.2
+  title: Xác định áp lực tiền cố kết trên đồ thị lge — lgp
+  annex: A
+  anchor: hinh-a_2
+  image_relpath: figures/images/hinh_a_2.png
+  has_image: true
+- figure_id: FIG_B_1
+  slug: b_1
+  tag: B.1
+  title: Toán đồ Osterberg
+  annex: B
+  anchor: hinh-b_1
+  image_relpath: figures/images/hinh_b_1.png
+  has_image: true
+- figure_id: FIG_B_2
+  slug: b_2
+  tag: B.2
+  title: Sơ đồ cộng tac dụng ứng suat tại 1 điểm
+  annex: B
+  anchor: hinh-b_2
+  image_relpath: figures/images/hinh_b_2.png
+  has_image: true
+- figure_id: FIG_C_1
+  slug: c_1
+  tag: C.1
+  title: Sơ đồ tính ổn định theo phương pháp phân mảnh với mặt trượt tròn
+  annex: C
+  anchor: hinh-c_1
+  image_relpath: figures/images/hinh_c_1.png
+  has_image: true
+- figure_id: FIG_C_2
+  slug: c_2
+  tag: C.2
+  title: Sơ đồ xác định vùng tâm trượt nguy hiểm
+  annex: C
+  anchor: hinh-c_2
+  image_relpath: figures/images/hinh_c_2.png
+  has_image: true
+- figure_id: FIG_D_1
+  slug: d_1
+  tag: D.1
+  title: Đồ thi quan trắc lún và diễn biến thực tế gia tải đắp theo thời gian
+  annex: D
+  anchor: hinh-d_1
+  image_relpath: figures/images/hinh_d_1.png
+  has_image: true
+- figure_id: FIG_D_2
+  slug: d_2
+  tag: D.2
+  title: Đồ thi == = f(t) để xác định các thông số a và B
+  annex: D
+  anchor: hinh-d_2
+  image_relpath: figures/images/hinh_d_2.png
+  has_image: true
+- figure_id: FIG_D_3
+  slug: d_3
+  tag: D.3
+  title: Dự đoán độ lún cuối cùng theo phương pháp Asaoka
+  annex: D
+  anchor: hinh-d_3
+  image_relpath: figures/images/hinh_d_3.png
+  has_image: true
+- figure_id: FIG_E_1
+  slug: e_1
+  tag: E.1
+  title: Quy định về độ bằng phẳng theo phương dọc tim đường của đoạn chuyển
+  annex: E
+  anchor: hinh-e_1
+  image_relpath: figures/images/hinh_e_1.png
+  has_image: true
+- figure_id: FIG_E_2
+  slug: e_2
+  tag: E.2
+  title: Pham vi đắp đoạn chuyền tiếp lấy theo TCVN 9436
+  annex: E
+  anchor: hinh-e_2
+  image_relpath: figures/images/hinh_e_2.png
+  has_image: true
+- figure_id: FIG_E_3
+  slug: e_3
+  tag: E.3
+  title: Bồ trí ban quá độ
+  annex: N
+  anchor: hinh-e_3
+  image_relpath: figures/images/hinh_e_3.png
+  has_image: true
+- figure_id: FIG_E_4
+  slug: e_4
+  tag: E.4
+  title: Xử lý đất yếu bằng công nghệ bắc thám kết hợp cố kết chân không.
+  annex: N
+  anchor: hinh-e_4
+  image_relpath: figures/images/hinh_e_4.png
+  has_image: true
+- figure_id: FIG_E_5
+  slug: e_5
+  tag: E.5
+  title: Xử ly đất yếu bằng công nghệ cọc gia cường
+  annex: N
+  anchor: hinh-e_5
+  image_relpath: figures/images/hinh_e_5.png
+  has_image: true
+- figure_id: FIG_E_6
+  slug: e_6
+  tag: E.6
+  title: Giải pháp thay đổi chiều dài và mật độ cọc ở đoạn đường chuyển tiếp dé đảm
+    bao
+  annex: N
+  anchor: hinh-e_6
+  image_relpath: figures/images/hinh_e_6.png
+  has_image: true
+- figure_id: FIG_E_7
+  slug: e_7
+  tag: E.7
+  title: Giải pháp đổi chiều dài và mật độ cọc và sàn giảm tải theo dạng bậc thang
+    dé dam
+  annex: N
+  anchor: hinh-e_7
+  image_relpath: figures/images/hinh_e_7.png
+  has_image: true
+- figure_id: FIG_E_8
+  slug: e_8
+  tag: E.8
+  title: Phương pháp bơm vữa
+  annex: N
+  anchor: hinh-e_8
+  image_relpath: figures/images/hinh_e_8.png
+  has_image: true
+- figure_id: FIG_E_9
+  slug: e_9
+  tag: E.9
+  title: Các sơ đồ tính toán kết cấu bản quá độ
+  annex: N
+  anchor: hinh-e_9
+  image_relpath: figures/images/hinh_e_9.png
+  has_image: true

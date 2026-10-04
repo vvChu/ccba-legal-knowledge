@@ -1,0 +1,416 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHAM VI AP DUNG",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 62,
+    "line_end": 65
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 68,
+    "line_end": 81
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 84,
+    "line_end": 103
+  },
+  {
+    "clause_id": "muc-3-4",
+    "anchor": "muc-3-4",
+    "title": "3.4  Chiếu sáng đường thoát nạn (escape route lighting)",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 106,
+    "line_end": 157
+  },
+  {
+    "clause_id": "muc-3-13",
+    "anchor": "muc-3-13",
+    "title": "3.13  Độ chói (luminance)",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 160,
+    "line_end": 169
+  },
+  {
+    "clause_id": "muc-3-15",
+    "anchor": "muc-3-15",
+    "title": "3.15  |",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 172,
+    "line_end": 177
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  QUY ĐỊNH CHUNG",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 180,
+    "line_end": 181
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Việc thiết kế, lắp đặt phương tiện chiếu sáng và chỉ dẫn thoát nạn phải tuân thủ các yêu cầu, quy định của các quy chuẩn, tiêu chuẩn, quy phạm hiện hành có liên quan.",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 184,
+    "line_end": 185
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Phương tiện chiếu sang sự cố và chỉ dẫn thoát nạn bao gồm: đèn chiếu sáng sự có; biển báo an toàn; sơ đồ chỉ dẫn thoát nạn..",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 188,
+    "line_end": 189
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn phải được lựa chọn, trang bị phù hợp để đảm bảo tầm nhìn thoát nạn, chỉ thị rõ ràng đường thoát nạn, cảnh báo những vị trí có nguy cơ gây nguy hiểm trong quá trình thoát nạn và nhận biết các vị trí trang bị các thiết bị phòng cháy và chữa cháy.",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 192,
+    "line_end": 193
+  },
+  {
+    "clause_id": "muc-4-4",
+    "anchor": "muc-4-4",
+    "title": "4.4  Lắp đặt đèn chiếu sáng sự cố và biển báo an toàn phải phù hợp theo quy định của TCVN 7722-",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 196,
+    "line_end": 199
+  },
+  {
+    "clause_id": "muc-4-5",
+    "anchor": "muc-4-5",
+    "title": "4.5  Đèn chiếu sáng sự cố và biển báo an toàn có nguồn điện dự phòng phải đảm bảo thời gian hoạt động 6n định liên tục tối thiểu là 120 min khi có sự cố cháy, nỗ.",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 202,
+    "line_end": 203
+  },
+  {
+    "clause_id": "muc-4-6",
+    "anchor": "muc-4-6",
+    "title": "4.6  Biển báo an toàn phải được nhìn thấy rõ ràng các chữ “LOI RA” hoặc chữ \"EXIT”, ký hiệu hình học khác thích hợp. Màu sắc của bién báo an toàn: màu nền là màu xanh lá cây; màu chữ và ký hiệu hình học là mau trắng.",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 206,
+    "line_end": 207
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  YÊU CẦU THIẾT KẾ, LẮP ĐẶT",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 210,
+    "line_end": 211
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Chiếu sáng sự có",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 214,
+    "line_end": 215
+  },
+  {
+    "clause_id": "muc-5-1-1",
+    "anchor": "muc-5-1-1",
+    "title": "5.1.1  Đèn chiếu sáng sự cố phải được lắp đặt cho các khu vực của nhà va công trình tại các vị trí sau:",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 218,
+    "line_end": 239
+  },
+  {
+    "clause_id": "muc-5-1-2",
+    "anchor": "muc-5-1-2",
+    "title": "5.1.2  Chiếu sáng sự cố đường thoát nan",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 242,
+    "line_end": 249
+  },
+  {
+    "clause_id": "muc-5-1-3",
+    "anchor": "muc-5-1-3",
+    "title": "5.1.3  Chiếu sáng sự có gian phòng",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 252,
+    "line_end": 255
+  },
+  {
+    "clause_id": "muc-5-1-4",
+    "anchor": "muc-5-1-4",
+    "title": "5.1.4  Tỉ lệ giữa độ rọi lớn nhát và độ rọi nhỏ nhát dọc theo đường tâm của đường thoát nạn và chiếu sáng khoảng trống (chống hoảng loạn) không được lớn hơn 40:1.",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 258,
+    "line_end": 261
+  },
+  {
+    "clause_id": "muc-5-1-5",
+    "anchor": "muc-5-1-5",
+    "title": "5.1.5  Phải đảm bảo giảm thiểu nguy cơ gây lóa tạm thời bằng cách hạn chế cường độ sáng ở giai đoạn phát sáng cực đại trong chế độ hoạt động khi có sự cố của mỗi đèn thuộc phạm vi quan sát. Cụ thẻ:",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 264,
+    "line_end": 275
+  },
+  {
+    "clause_id": "hinh-1",
+    "anchor": "hinh-1",
+    "title": "![Hình 1](figures/images/hinh_1.png)",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 278,
+    "line_end": 290
+  },
+  {
+    "clause_id": "hinh-2",
+    "anchor": "hinh-2",
+    "title": "![Hình 2](figures/images/hinh_2.png)",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 293,
+    "line_end": 301
+  },
+  {
+    "clause_id": "bang-bang-01",
+    "anchor": "bang-bang-01",
+    "title": "Bảng 1 - Giới hạn gây lóa tạm thời",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 304,
+    "line_end": 316
+  },
+  {
+    "clause_id": "muc-5-1-6",
+    "anchor": "muc-5-1-6",
+    "title": "5.1.6  Các tủ trung tâm báo cháy, nút án báo cháy va các phương tiện chữa cháy phải luôn được chiếu sáng day đủ dé có thé dễ dàng xác định vi tri và néu không nằm trên đường thoát nạn hoặc không nằm trong một phạm vi khoảng trống thì phải được chiếu sáng tối thiểu 5 lux tại mặt sàn (xem hình A.4).",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 319,
+    "line_end": 320
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Chỉ dẫn thoát nạn",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 323,
+    "line_end": 324
+  },
+  {
+    "clause_id": "muc-5-2-1",
+    "anchor": "muc-5-2-1",
+    "title": "5.2.1  Biển báo chỉ dẫn lối ra thoát nạn",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 327,
+    "line_end": 332
+  },
+  {
+    "clause_id": "muc-5-2-2",
+    "anchor": "muc-5-2-2",
+    "title": "5.2.2  Biển báo chỉ hướng thoát nạn Lắp đặt biển báo chỉ hướng thoát nạn trên đường thoát nạn, ở trong gian phòng và tất cả các vị trí mà tầm nhìn bị che khuất không thé phát hiện được các lối ra thoát nạn. Có thể không cần bố trí biển chỉ hướng thoát nạn, trong các trường hợp sau: - Sân vườn, khu vực sân thượng không có mái che.",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 335,
+    "line_end": 338
+  },
+  {
+    "clause_id": "muc-5-2-3",
+    "anchor": "muc-5-2-3",
+    "title": "5.2.3  Biển báo an toàn tam thấp",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 341,
+    "line_end": 348
+  },
+  {
+    "clause_id": "muc-5-2-4",
+    "anchor": "muc-5-2-4",
+    "title": "5.2.4  Độ chói",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 351,
+    "line_end": 358
+  },
+  {
+    "clause_id": "muc-5-2-5",
+    "anchor": "muc-5-2-5",
+    "title": "5.2.5  Tính đồng đều",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 361,
+    "line_end": 368
+  },
+  {
+    "clause_id": "muc-5-2-6",
+    "anchor": "muc-5-2-6",
+    "title": "5.2.6  Biển báo an toàn bố tri dọc theo đường thoát nạn phải đáp ứng TCVN 8092:2009 (ISO",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 371,
+    "line_end": 376
+  },
+  {
+    "clause_id": "muc-5-2-7",
+    "anchor": "muc-5-2-7",
+    "title": "5.2.7  Chiều cao của biển báo an toàn tương ứng với khoảng cách nhìn Chiều cao nhỏ nhất của biển báo an toàn được xác định theo công thức sau: n=!",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 379,
+    "line_end": 390
+  },
+  {
+    "clause_id": "hinh-3",
+    "anchor": "hinh-3",
+    "title": "![Hình 3](figures/images/hinh_3.png)",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CQXD",
+    "line_start": 393,
+    "line_end": 401
+  },
+  {
+    "clause_id": "muc-5-2-8",
+    "anchor": "muc-5-2-8",
+    "title": "5.2.8  Chiều cao lắp đặt biển báo an toàn",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 404,
+    "line_end": 407
+  },
+  {
+    "clause_id": "muc-5-2-9",
+    "anchor": "muc-5-2-9",
+    "title": "5.2.9  Sơ đồ chỉ dẫn thoát nạn",
+    "source_file": "tcvn_13456_2022.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 410,
+    "line_end": 434
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (tham khảo) — Ví dụ minh họa phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn...... 12 Thư mục tài liệu tham khảo. ........................... -- -- --- (2E SE 1311 16111115 11 11 g3 011 1 1 1g g1 3 1 x kry 16",
+    "source_file": "annexes/phu_luc_a_vi_du_minh_hoa_phuong_tien_chieu_sang_su_co_v.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 15
+  },
+  {
+    "clause_id": "phu-luc-a-muc-1",
+    "anchor": "phu-luc-a-muc-1",
+    "title": "1  PHAM VI AP DUNG",
+    "source_file": "annexes/phu_luc_a_vi_du_minh_hoa_phuong_tien_chieu_sang_su_co_v.md",
+    "jurisdiction": "CQXD",
+    "line_start": 18,
+    "line_end": 21
+  },
+  {
+    "clause_id": "phu-luc-a-muc-2",
+    "anchor": "phu-luc-a-muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "annexes/phu_luc_a_vi_du_minh_hoa_phuong_tien_chieu_sang_su_co_v.md",
+    "jurisdiction": "CQXD",
+    "line_start": 24,
+    "line_end": 37
+  },
+  {
+    "clause_id": "phu-luc-a-muc-3",
+    "anchor": "phu-luc-a-muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "annexes/phu_luc_a_vi_du_minh_hoa_phuong_tien_chieu_sang_su_co_v.md",
+    "jurisdiction": "CQXD",
+    "line_start": 40,
+    "line_end": 59
+  },
+  {
+    "clause_id": "phu-luc-a-muc-4",
+    "anchor": "phu-luc-a-muc-4",
+    "title": "4  QUY ĐỊNH CHUNG",
+    "source_file": "annexes/phu_luc_a_vi_du_minh_hoa_phuong_tien_chieu_sang_su_co_v.md",
+    "jurisdiction": "CQXD",
+    "line_start": 136,
+    "line_end": 137
+  },
+  {
+    "clause_id": "phu-luc-a-muc-5",
+    "anchor": "phu-luc-a-muc-5",
+    "title": "5  YÊU CẦU THIẾT KẾ, LẮP ĐẶT",
+    "source_file": "annexes/phu_luc_a_vi_du_minh_hoa_phuong_tien_chieu_sang_su_co_v.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 166,
+    "line_end": 167
+  },
+  {
+    "clause_id": "hinh-a_3",
+    "anchor": "hinh-a_3",
+    "title": "![Hình A.3](../figures/images/hinh_a_3.png)",
+    "source_file": "annexes/phu_luc_a_vi_du_minh_hoa_ve_phuong_tien_chieu_sang_su_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 14,
+    "line_end": 24
+  },
+  {
+    "clause_id": "hinh-a_4",
+    "anchor": "hinh-a_4",
+    "title": "![Hình A.4](../figures/images/hinh_a_4.png)",
+    "source_file": "annexes/phu_luc_a_vi_du_minh_hoa_ve_phuong_tien_chieu_sang_su_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 27,
+    "line_end": 35
+  },
+  {
+    "clause_id": "hinh-a_5",
+    "anchor": "hinh-a_5",
+    "title": "![Hình A.5](../figures/images/hinh_a_5.png)",
+    "source_file": "annexes/phu_luc_a_vi_du_minh_hoa_ve_phuong_tien_chieu_sang_su_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 38,
+    "line_end": 56
+  },
+  {
+    "clause_id": "hinh-a_7",
+    "anchor": "hinh-a_7",
+    "title": "![Hình A.7](../figures/images/hinh_a_7.png)",
+    "source_file": "annexes/phu_luc_a_vi_du_minh_hoa_ve_phuong_tien_chieu_sang_su_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 59,
+    "line_end": 75
+  },
+  {
+    "clause_id": "hinh-a_8",
+    "anchor": "hinh-a_8",
+    "title": "![Hình A.8](../figures/images/hinh_a_8.png)",
+    "source_file": "annexes/phu_luc_a_vi_du_minh_hoa_ve_phuong_tien_chieu_sang_su_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 78,
+    "line_end": 98
+  }
+]

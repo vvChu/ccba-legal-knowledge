@@ -1,0 +1,515 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  PHẠM VI ÁP DỤNG",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 57,
+    "line_end": 60
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  TÀI LIỆU VIỆN DẪN",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 63,
+    "line_end": 80
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  THUẬT NGỮ VÀ ĐỊNH NGHĨA",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 83,
+    "line_end": 86
+  },
+  {
+    "clause_id": "muc-3-1",
+    "anchor": "muc-3-1",
+    "title": "3.1  Trụ nước chữa cháy (fire hydrant)",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 89,
+    "line_end": 92
+  },
+  {
+    "clause_id": "muc-3-1-1",
+    "anchor": "muc-3-1-1",
+    "title": "3.1.1  Trụ nổi (hydrant, pillar)",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 95,
+    "line_end": 98
+  },
+  {
+    "clause_id": "muc-3-1-2",
+    "anchor": "muc-3-1-2",
+    "title": "3.1.2  Trụ ngầm (hydrant, ground)",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 101,
+    "line_end": 104
+  },
+  {
+    "clause_id": "muc-3-2",
+    "anchor": "muc-3-2",
+    "title": "3.2  Cột lấy nước chữa cháy (hydrant stand pipe)",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 107,
+    "line_end": 110
+  },
+  {
+    "clause_id": "muc-3-3",
+    "anchor": "muc-3-3",
+    "title": "3.3  Lượng nước đọng lại trong trụ nước (amount of water remaining in the fire hydrant)",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 113,
+    "line_end": 116
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  THÔNG SỐ VÀ KÍCH THƯỚC CƠ BẢN",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 119,
+    "line_end": 122
+  },
+  {
+    "clause_id": "bang-bang-01",
+    "anchor": "bang-bang-01",
+    "title": "Bảng 1 - Thông số và kích thước cơ bản của trụ nước chữa cháy",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 125,
+    "line_end": 140
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  YÊU CẦU KỸ THUẬT",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 143,
+    "line_end": 144
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Trụ nước được chế tạo phù hợp với tiêu chuẩn này.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 147,
+    "line_end": 148
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Trụ nước phải chịu được áp suất thử bền bằng 1,5 lần áp suất làm việc. Khi thử theo 6.10, trụ nước không có dấu hiệu nứt gãy hoặc biến dạng có thể nhìn thấy.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 151,
+    "line_end": 152
+  },
+  {
+    "clause_id": "muc-5-3",
+    "anchor": "muc-5-3",
+    "title": "5.3  Sau khi lắp ráp trụ nước phải đảm bảo áp suất thử kín bằng áp suất làm việc. Khi áp suất thử bằng áp suất làm việc, momen xoay để mở và đóng van trụ nước không lớn hơn 150 N·m.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 155,
+    "line_end": 156
+  },
+  {
+    "clause_id": "muc-5-4",
+    "anchor": "muc-5-4",
+    "title": "5.4  Trụ nước phải có bộ phận xả nước đọng tự động khi đóng kín van chính. Lượng nước đọng lại trong trụ nước không được vượt quá giá trị nêu tại Bảng 1.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 159,
+    "line_end": 160
+  },
+  {
+    "clause_id": "muc-5-5",
+    "anchor": "muc-5-5",
+    "title": "5.5  Lỗ xả nước đọng của trụ nước phải tự động đóng kín khi van chính mở.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 163,
+    "line_end": 164
+  },
+  {
+    "clause_id": "muc-5-6",
+    "anchor": "muc-5-6",
+    "title": "5.6  Khớp nối của họng chờ trụ nước và khớp nối cột lấy nước phải kín khít khi thử theo 6.11.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 167,
+    "line_end": 168
+  },
+  {
+    "clause_id": "muc-5-7",
+    "anchor": "muc-5-7",
+    "title": "5.7  Trục van trụ nước phải quay nhẹ nhàng, không bị kẹt khi mở và đóng hoàn toàn.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 171,
+    "line_end": 172
+  },
+  {
+    "clause_id": "muc-5-8",
+    "anchor": "muc-5-8",
+    "title": "5.8  Họng chờ của trụ nổi phải phù hợp với đầu nối loại ĐRT.H-125 đối với họng lớn và đầu nối loại ĐRT.P-80 hoặc đầu nối loại ĐCR-80 đối với họng nhỏ theo TCVN 5739.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 175,
+    "line_end": 176
+  },
+  {
+    "clause_id": "muc-5-9",
+    "anchor": "muc-5-9",
+    "title": "5.9  Ren trục van là ren hình thang theo TCVN 2254.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 179,
+    "line_end": 180
+  },
+  {
+    "clause_id": "muc-5-10",
+    "anchor": "muc-5-10",
+    "title": "5.10  Mối ghép ren giữa các chi tiết là 7H/8g theo TCVN 1917.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 183,
+    "line_end": 184
+  },
+  {
+    "clause_id": "muc-5-11",
+    "anchor": "muc-5-11",
+    "title": "5.11  Thân và van của trụ nước phải được chế tạo bằng vật liệu kim loại có độ bền kéo không nhỏ hơn 15 kG/mm² và độ bền uốn không nhỏ hơn 32 kG/mm².",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 187,
+    "line_end": 188
+  },
+  {
+    "clause_id": "muc-5-12",
+    "anchor": "muc-5-12",
+    "title": "5.12  Phần có ren của trục van trụ nước phải được chế tạo bằng thép không gỉ với tính chất cơ lý không thấp hơn thép 30Cr13 theo TCVN 10356.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 191,
+    "line_end": 192
+  },
+  {
+    "clause_id": "muc-5-13",
+    "anchor": "muc-5-13",
+    "title": "5.13  Phần có ren của khớp nối trụ ngầm phải được chế tạo bằng vật liệu có cơ tính không thấp hơn hợp kim đồng có các thông số chính nêu tại Bảng 2.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 195,
+    "line_end": 196
+  },
+  {
+    "clause_id": "bang-bang-02",
+    "anchor": "bang-bang-02",
+    "title": "Bảng 2 - Cơ tính cơ bản của hợp kim đồng",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 199,
+    "line_end": 204
+  },
+  {
+    "clause_id": "muc-5-14",
+    "anchor": "muc-5-14",
+    "title": "5.14  Vòng đệm của van trụ nước phải được chế tạo bằng cao su theo ISO 4633. Cho phép sử dụng các loại vật liệu khác có cơ tính tương đương.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 207,
+    "line_end": 208
+  },
+  {
+    "clause_id": "muc-5-15",
+    "anchor": "muc-5-15",
+    "title": "5.15  Kết cấu và cách cố định trục van của trụ nước phải bảo đảm độ chắc chắn và độ tin cậy của khớp nối, không để xảy ra khả năng khớp nối bị xoay khi mở khóa cột lấy nước chữa cháy.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 211,
+    "line_end": 212
+  },
+  {
+    "clause_id": "muc-5-16",
+    "anchor": "muc-5-16",
+    "title": "5.16  Phần nối với trục van của van trụ nước phải được chế tạo bằng vật liệu có cơ tính không thấp hơn hợp kim đồng có các thông số chính nêu tại Bảng 2.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 215,
+    "line_end": 216
+  },
+  {
+    "clause_id": "muc-5-17",
+    "anchor": "muc-5-17",
+    "title": "5.17  Lớp sơn bên ngoài bề mặt ngoài trụ nước không được bong tróc và phải đạt được Loại 0 theo TCVN 2097 khi thử theo 6.9. Toàn bộ nắp bảo vệ của trụ nổi phải sơn phản quang màu da cam hoặc màu vàng.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 219,
+    "line_end": 220
+  },
+  {
+    "clause_id": "muc-5-18",
+    "anchor": "muc-5-18",
+    "title": "5.18  Phần hình vuông của trục van để nối trụ ngầm với cột lấy nước chữa cháy có kích thước (22x22) ± 0,5 mm. Bề mặt phần hình vuông có độ cứng (26 — 38) HRC.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 223,
+    "line_end": 224
+  },
+  {
+    "clause_id": "muc-5-19",
+    "anchor": "muc-5-19",
+    "title": "5.19  Nắp đậy trụ ngầm phải là kiểu lật, không gây cản trở khi lắp cột lấy nước. Nắp đậy của họng nước và trục van của trụ nổi phải được mở bằng chìa khóa chuyên dùng 5 cạnh Z22.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 227,
+    "line_end": 228
+  },
+  {
+    "clause_id": "muc-6",
+    "anchor": "muc-6",
+    "title": "6  PHƯƠNG PHÁP THỬ",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 231,
+    "line_end": 232
+  },
+  {
+    "clause_id": "muc-6-1",
+    "anchor": "muc-6-1",
+    "title": "6.1  Điều kiện thử nghiệm: Nhiệt độ thử (23 ± 5) °C.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 235,
+    "line_end": 236
+  },
+  {
+    "clause_id": "muc-6-2",
+    "anchor": "muc-6-2",
+    "title": "6.2  Đo áp suất bằng áp kế có cấp chính xác không thấp hơn 1,5. Trong các thử nghiệm, chọn áp kế sao cho giá trị áp suất thử nằm trong khoảng từ 1/3 đến 2/3 phạm vi đo của áp kế.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 239,
+    "line_end": 240
+  },
+  {
+    "clause_id": "muc-6-3",
+    "anchor": "muc-6-3",
+    "title": "6.3  Kiểm tra kích thước hình học bằng thước cặp cơ khí hoặc thước đo chuyên dùng có sai số đo không quá 0,1 mm.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 243,
+    "line_end": 244
+  },
+  {
+    "clause_id": "muc-6-4",
+    "anchor": "muc-6-4",
+    "title": "6.4  Kiểm tra ren trục van theo TCVN 2254.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 247,
+    "line_end": 248
+  },
+  {
+    "clause_id": "muc-6-5",
+    "anchor": "muc-6-5",
+    "title": "6.5  Kiểm tra chất lượng bề mặt và lớp phủ bằng mắt thường.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 251,
+    "line_end": 252
+  },
+  {
+    "clause_id": "muc-6-6",
+    "anchor": "muc-6-6",
+    "title": "6.6  Kiểm tra cơ tính của vật liệu kim loại bằng các mẫu thử chuẩn theo quy định hiện hành.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 255,
+    "line_end": 256
+  },
+  {
+    "clause_id": "muc-6-7",
+    "anchor": "muc-6-7",
+    "title": "6.7  Kiểm tra momen xoay mở và đóng van bằng chìa vặn lực chuyên dụng.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 259,
+    "line_end": 260
+  },
+  {
+    "clause_id": "muc-6-8",
+    "anchor": "muc-6-8",
+    "title": "6.8  Kiểm tra lượng nước đọng bằng ống đong đo thể tích tiêu chuẩn.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 263,
+    "line_end": 264
+  },
+  {
+    "clause_id": "muc-6-9",
+    "anchor": "muc-6-9",
+    "title": "6.9  Thử độ bám dính của màng sơn theo TCVN 2097.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 267,
+    "line_end": 268
+  },
+  {
+    "clause_id": "muc-6-10",
+    "anchor": "muc-6-10",
+    "title": "6.10  Thử độ bền thủy lực của trụ nước dưới áp suất thử bằng 1,5 lần áp suất làm việc trong thời gian không ít hơn 2 min.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 271,
+    "line_end": 272
+  },
+  {
+    "clause_id": "muc-6-11",
+    "anchor": "muc-6-11",
+    "title": "6.11  Thử độ kín khít của van và các khớp nối dưới áp suất làm việc trong thời gian không ít hơn 2 min.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 275,
+    "line_end": 276
+  },
+  {
+    "clause_id": "muc-7",
+    "anchor": "muc-7",
+    "title": "7  GHI NHÃN, BAO GÓI, VẬN CHUYỂN VÀ BẢO QUẢN",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 279,
+    "line_end": 280
+  },
+  {
+    "clause_id": "muc-7-1",
+    "anchor": "muc-7-1",
+    "title": "7.1  Mỗi trụ nước chữa cháy phải được gắn nhãn tại vị trí dễ quan sát với các nội dung sau: Tên nhà sản xuất hoặc nhãn hiệu thương mại; Năm sản xuất; Ký hiệu tiêu chuẩn TCVN 6379:2024; Áp suất làm việc danh định; Đường kính danh nghĩa.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 283,
+    "line_end": 284
+  },
+  {
+    "clause_id": "muc-7-2",
+    "anchor": "muc-7-2",
+    "title": "7.2  Trước khi xuất xưởng, các lỗ họng chờ và mặt bích phải được đậy nắp bảo vệ.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 287,
+    "line_end": 288
+  },
+  {
+    "clause_id": "muc-7-3",
+    "anchor": "muc-7-3",
+    "title": "7.3  Vận chuyển trụ nước bằng các phương tiện chuyên chở thông thường, tránh va đập mạnh làm hỏng lớp sơn và các chi tiết ren.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 291,
+    "line_end": 292
+  },
+  {
+    "clause_id": "muc-7-4",
+    "anchor": "muc-7-4",
+    "title": "7.4  Bảo quản trụ nước nơi khô ráo, thoáng mát, tránh tiếp xúc với hóa chất ăn mòn.",
+    "source_file": "tcvn_6379_2024.md",
+    "jurisdiction": "CQXD",
+    "line_start": 295,
+    "line_end": 299
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A (quy định) — Cấu tạo trụ nước chữa cháy",
+    "source_file": "annexes/phu_luc_a_cau_tao_tru_nuoc_chua_chay.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3
+  },
+  {
+    "clause_id": "hinh-a_1",
+    "anchor": "hinh-a_1",
+    "title": "![Hình A.1](../figures/images/hinh_a_1.png)",
+    "source_file": "annexes/phu_luc_a_cau_tao_tru_nuoc_chua_chay.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 14
+  },
+  {
+    "clause_id": "hinh-a_2",
+    "anchor": "hinh-a_2",
+    "title": "![Hình A.2](../figures/images/hinh_a_2.png)",
+    "source_file": "annexes/phu_luc_a_cau_tao_tru_nuoc_chua_chay.md",
+    "jurisdiction": "CQXD",
+    "line_start": 17,
+    "line_end": 25
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B (quy định) — Lắp đặt trụ nước chữa cháy nổi",
+    "source_file": "annexes/phu_luc_b_lap_dat_tru_nuoc_chua_chay_noi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3
+  },
+  {
+    "clause_id": "hinh-b_1",
+    "anchor": "hinh-b_1",
+    "title": "![Hình B.1](../figures/images/hinh_b_1.png)",
+    "source_file": "annexes/phu_luc_b_lap_dat_tru_nuoc_chua_chay_noi.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 14
+  },
+  {
+    "clause_id": "phu-luc-c",
+    "anchor": "phu-luc-c",
+    "title": "PHỤ LỤC C (quy định) — Cột lấy nước chữa cháy",
+    "source_file": "annexes/phu_luc_c_cot_lay_nuoc_chua_chay.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3
+  },
+  {
+    "clause_id": "hinh-c_1",
+    "anchor": "hinh-c_1",
+    "title": "![Hình C.1](../figures/images/hinh_c_1.png)",
+    "source_file": "annexes/phu_luc_c_cot_lay_nuoc_chua_chay.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 14
+  },
+  {
+    "clause_id": "phu-luc-d",
+    "anchor": "phu-luc-d",
+    "title": "PHỤ LỤC D (tham khảo) — Hố trụ nước chữa cháy ngầm",
+    "source_file": "annexes/phu_luc_d_ho_tru_nuoc_chua_chay_ngam.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3
+  },
+  {
+    "clause_id": "hinh-d_1",
+    "anchor": "hinh-d_1",
+    "title": "![Hình D.1](../figures/images/hinh_d_1.png)",
+    "source_file": "annexes/phu_luc_d_ho_tru_nuoc_chua_chay_ngam.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 22
+  }
+]

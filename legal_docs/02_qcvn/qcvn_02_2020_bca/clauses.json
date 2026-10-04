@@ -1,0 +1,2352 @@
+[
+  {
+    "clause_id": "muc-1",
+    "anchor": "muc-1",
+    "title": "1  QUY ĐỊNH CHUNG",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 51,
+    "line_end": 52,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-1",
+    "anchor": "muc-1-1",
+    "title": "1.1  Phạm vi điều chỉnh",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 55,
+    "line_end": 62,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-2",
+    "anchor": "muc-1-2",
+    "title": "1.2  Đối tượng áp dụng",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 65,
+    "line_end": 68,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-3",
+    "anchor": "muc-1-3",
+    "title": "1.3  Tài liệu viện dẫn",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 71,
+    "line_end": 74,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-3-1",
+    "anchor": "muc-1-3-1",
+    "title": "1.3.1  QCVN 06:2020/BXD: Quy chuẩn kỹ thuật quốc gia về an toàn cháy cho nhà và công trình",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 77,
+    "line_end": 78,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-3-2",
+    "anchor": "muc-1-3-2",
+    "title": "1.3.2  TCVN 2622:1995: Phòng cháy chống cháy cho nhà và công trình - Yêu cầu thiết kế;",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 81,
+    "line_end": 82,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-3-3",
+    "anchor": "muc-1-3-3",
+    "title": "1.3.3  TCVN 4513:1988: Cấp nước bên trong - Tiêu chuẩn thiết kế.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 85,
+    "line_end": 86,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-3-4",
+    "anchor": "muc-1-3-4",
+    "title": "1.3.4  TCVN 7336:2003: Hệ thống chữa cháy tự động Sprinkler - Yêu cầu thiết kế.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 89,
+    "line_end": 90,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4",
+    "anchor": "muc-1-4",
+    "title": "1.4  Giải thích từ ngữ",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 93,
+    "line_end": 96,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-1",
+    "anchor": "muc-1-4-1",
+    "title": "1.4.1  Trạm bơm nước chữa cháy: Là tổ hợp thiết bị gồm máy bơm nước chữa cháy, bơm bù áp và phụ kiện được đấu nối thành một hệ thống để cung cấp nước chữa cháy cho các hệ thống chữa cháy. Phạm vi của trạm bơm nước chữa cháy được tính từ ống hút đến van chặn kết nối với đường ống chính của hệ thống chữa cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 99,
+    "line_end": 100,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-2",
+    "anchor": "muc-1-4-2",
+    "title": "1.4.2  Máy bơm nước chữa cháy: Là một bộ thiết bị lắp ráp bao gồm một bơm nước chữa cháy, động cơ truyền động, tủ điều khiển và các phụ kiện. Máy bơm nước chữa cháy gồm máy bơm chính, máy bơm dự phòng và máy bơm bù áp.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 103,
+    "line_end": 104,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-3",
+    "anchor": "muc-1-4-3",
+    "title": "1.4.3  Bơm bù áp: Là bơm được thiết kế để duy trì áp lực trên hệ thống chữa cháy giữa các giới hạn định sẵn khi hệ thống không lưu thông nước.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 107,
+    "line_end": 108,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-4",
+    "anchor": "muc-1-4-4",
+    "title": "1.4.4  Bơm nước chữa cháy: Là bơm cung cấp áp lực và lưu lượng nước dùng để chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 111,
+    "line_end": 112,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-5",
+    "anchor": "muc-1-4-5",
+    "title": "1.4.5  Bơm tua bin trục đứng: Là bơm ly tâm trục đứng có một hoặc nhiều tầng cánh được lắp đồng trục với nhau và có đầu đẩy vuông góc với trục và đầu hút của bơm.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 115,
+    "line_end": 116,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-6",
+    "anchor": "muc-1-4-6",
+    "title": "1.4.6  Động cơ diesel: Là động cơ đốt trong, trong đó nhiên liệu được đốt hoàn toàn bằng nhiệt lượng sinh ra từ sự nén ép lượng khí cung cấp cho buồng đốt.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 119,
+    "line_end": 120,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-7",
+    "anchor": "muc-1-4-7",
+    "title": "1.4.7  Tủ điều khiển máy bơm nước chữa cháy: Là nhóm các thiết bị thực hiện công tác điều hành, theo cách thức định trước, sự chạy và ngừng của bộ truyền động bơm nước chữa cháy và thực hiện giám sát cũng như báo hiệu trạng thái và tình trạng của cụm bơm nước chữa cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 123,
+    "line_end": 124,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-8",
+    "anchor": "muc-1-4-8",
+    "title": "1.4.8  Máy bơm nước chữa cháy bố trí nối tiếp: Là máy bơm nước được bố trí để vận hành theo một dây chuyền, trong đó bơm đầu tiên hút trực tiếp từ nguồn nước và các bơm tiếp theo hút với áp lực nhận từ bơm trước nó. Hai bơm vận hành trong dây chuyền qua bể chứa hoặc bể trung gian không được xem là một phần của cụm bơm nước chữa cháy hoạt động theo chuỗi.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 127,
+    "line_end": 128,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-9",
+    "anchor": "muc-1-4-9",
+    "title": "1.4.9  Phương tiện ngắt kết nối: Là một thiết bị hoặc nhóm thiết bị hoặc các phương tiện khác có thể dùng để ngắt kết nối thành phần dẫn điện của một mạch khỏi nguồn điện.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 131,
+    "line_end": 132,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-10",
+    "anchor": "muc-1-4-10",
+    "title": "1.4.10  Mức nước chênh lệch: Là độ cao chênh lệch giữa mực nước của bơm và mực nước tĩnh của bể nước.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 135,
+    "line_end": 136,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-11",
+    "anchor": "muc-1-4-11",
+    "title": "1.4.11  Tín hiệu cảnh báo giám sát hoạt động của bơm nước chữa cháy: Là tín hiệu giám sát, thông báo về tình trạng hoạt động của bơm nước chữa cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 139,
+    "line_end": 140,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-12",
+    "anchor": "muc-1-4-12",
+    "title": "1.4.12  Giá trị dòng điện bảo vệ quá tải roto động cơ điện: Là giá trị dòng điện được cài đặt để thiết bị bảo vệ quá tải động cơ hoạt động khi dòng điện chạy trong roto động cơ đạt đến giá trị này trong thời gian nhất định.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 143,
+    "line_end": 144,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-13",
+    "anchor": "muc-1-4-13",
+    "title": "1.4.13  Mất pha: Là hiện tượng mất đi một hoặc nhiều pha, nhưng không mất toàn bộ các pha của nguồn năng lượng nhiều pha.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 147,
+    "line_end": 148,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-14",
+    "anchor": "muc-1-4-14",
+    "title": "1.4.14  Thiết bị điều áp: Là thiết bị được thiết kế cho mục đích làm giảm, điều tiết, kiểm soát, hoặc giới hạn áp lực nước.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 151,
+    "line_end": 152,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-15",
+    "anchor": "muc-1-4-15",
+    "title": "1.4.15  Công tắc",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 155,
+    "line_end": 162,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-16",
+    "anchor": "muc-1-4-16",
+    "title": "1.4.16  Van giảm áp: Là van được thiết kế để giảm áp lực nước chảy qua nó theo chiều từ bơm tới các thiết bị chữa cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 165,
+    "line_end": 166,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-17",
+    "anchor": "muc-1-4-17",
+    "title": "1.4.17  Van an toàn: Là van tự động mở cho dòng nước chảy qua ở áp lực bơm đã được cài đặt trước nhằm giới hạn áp lực trong hệ thống ở giá trị nhất định.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 169,
+    "line_end": 170,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-18",
+    "anchor": "muc-1-4-18",
+    "title": "1.4.18  Giới hạn chịu lửa của cấu kiện xây dựng được xác định bằng khoảng thời gian (tính bằng phút) kể từ khi bắt đầu thử chịu lửa theo chế độ nhiệt tiêu chuẩn cho đến khi xuất hiện một hoặc một số dấu hiệu nối tiếp nhau của các trạng thái giới hạn được quy định đối với cấu kiện đã cho như sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 173,
+    "line_end": 180,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-4-19",
+    "anchor": "muc-1-4-19",
+    "title": "1.4.19  Kết cấu ngăn cháy và bậc chịu lửa: Kết cấu ngăn cháy và bậc chịu lửa được định nghĩa và phân loại theo quy định tại QCVN 06:2020/BXD.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 183,
+    "line_end": 184,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-5",
+    "anchor": "muc-1-5",
+    "title": "1.5  Các quy định chung",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 187,
+    "line_end": 188,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-5-1",
+    "anchor": "muc-1-5-1",
+    "title": "1.5.1  Khi thiết kế, thi công, lắp đặt trạm bơm nước chữa cháy phải có các giải pháp kết cấu, bố trí mặt bằng để bảo đảm:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 191,
+    "line_end": 198,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-5-2",
+    "anchor": "muc-1-5-2",
+    "title": "1.5.2  Thiết bị của trạm bơm nước chữa cháy phải phù hợp với môi trường lắp đặt như độ ẩm, nhiệt độ, cao trình so với mực nước biển, mức độ ăn mòn của nước và hơi ẩm trong không khí.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 201,
+    "line_end": 202,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-1-5-3",
+    "anchor": "muc-1-5-3",
+    "title": "1.5.3  Trong quá trình sử dụng phải tiến hành vận hành, bảo dưỡng, sữa chữa, thay thế thiết bị trạm bơm nước chữa cháy bảo đảm theo tài liệu hướng dẫn sử dụng và hướng dẫn bảo trì, bảo dưỡng các thiết bị của nhà sản xuất và theo các quy định của quy chuẩn này.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 205,
+    "line_end": 206,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2",
+    "anchor": "muc-2",
+    "title": "2  THIẾT KẾ, LẮP ĐẶT TRẠM BƠM NƯỚC CHỮA CHÁY",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 209,
+    "line_end": 210,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-1",
+    "anchor": "muc-2-1",
+    "title": "2.1  Vị trí đặt trạm bơm nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 213,
+    "line_end": 214,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-1-1",
+    "anchor": "muc-2-1-1",
+    "title": "2.1.1  Trạm bơm nước chữa cháy đặt độc lập với các hạng mục công trình",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 217,
+    "line_end": 220,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-1-2",
+    "anchor": "muc-2-1-2",
+    "title": "2.1.2  Trạm bơm nước chữa cháy đặt trong nhà và công trình",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 223,
+    "line_end": 226,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-1-3",
+    "anchor": "muc-2-1-3",
+    "title": "2.1.3  Trạm bơm nước chữa cháy được phép đặt chung với máy bơm cấp nước sinh hoạt trong cùng một phòng hoặc nhà.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 229,
+    "line_end": 230,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-1-4",
+    "anchor": "muc-2-1-4",
+    "title": "2.1.4  Khoảng cách cho phép nhỏ nhất giữa các thiết bị đặt trong phòng máy bơm theo quy định sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 233,
+    "line_end": 246,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-1-5",
+    "anchor": "muc-2-1-5",
+    "title": "2.1.5  Chiều cao phòng của trạm bơm có thiết bị nâng cần phải bảo đảm khoảng cách thông thủy từ đáy vật được nâng đến đỉnh của các thiết bị đặt ở dưới không được nhỏ hơn 0,5 m. Chiều cao thông thủy của trạm bơm không có thiết bị nâng thì lấy tối thiểu là 2,2 m.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 249,
+    "line_end": 250,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-1-6",
+    "anchor": "muc-2-1-6",
+    "title": "2.1.6  Phòng, hoặc nhà đặt máy bơm nước chữa cháy có kích thước (6x9) m hoặc lớn hơn phải bố trí họng nước chữa cháy trong nhà với lưu lượng 2,5 l/s. Trường hợp nhà hoặc phòng bơm nước chữa cháy có động cơ diesel và bồn chứa nhiên liệu diesel phải được bảo vệ bằng hệ thống chữa cháy tự động.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 253,
+    "line_end": 254,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-1-7",
+    "anchor": "muc-2-1-7",
+    "title": "2.1.7  Phải trang bị hệ thống chiếu sáng sự cố cho khu vực trạm bơm nước chữa cháy có nguồn điện dự phòng đảm bảo thời gian hoạt động tối thiểu là 3 giờ, nguồn điện dự phòng này không được lấy từ nguồn ắc quy khởi động bơm.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 257,
+    "line_end": 258,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-1-8",
+    "anchor": "muc-2-1-8",
+    "title": "2.1.8  Nhà bơm hoặc phòng bơm phải có hệ thống thoát nước dưới sàn nhà để tránh ngập nước cho khu vực này.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 261,
+    "line_end": 262,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-1-9",
+    "anchor": "muc-2-1-9",
+    "title": "2.1.9  Phải lắp đặt hệ thống thông gió cưỡng bức hoặc thông gió tự nhiên cho phòng bơm hoặc nhà bơm. Hệ thống thông gió trong trạm bơm phải đảm bảo sao cho nhiệt độ không khí trong trạm bơm không được lớn hơn 400C.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 265,
+    "line_end": 266,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-1-10",
+    "anchor": "muc-2-1-10",
+    "title": "2.1.10  Động cơ máy bơm, bồn chứa nhiên liệu và tủ điều khiển các máy bơm nước chữa cháy phải được nối đất an toàn. Dây nối đất phải bằng đồng sợi hoặc đồng lá. Tiết diện dây nối đất đối với động cơ máy bơm không nhỏ hơn 25 mm2, đối với bồn chứa nhiên liệu không nhỏ hơn 10 mm2 và đối với tủ điều khiển không nhỏ hơn 5 mm2.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 269,
+    "line_end": 270,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-1-11",
+    "anchor": "muc-2-1-11",
+    "title": "2.1.11  Bể nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 273,
+    "line_end": 276,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-2",
+    "anchor": "muc-2-2",
+    "title": "2.2  Bơm nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 279,
+    "line_end": 280,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-2-1",
+    "anchor": "muc-2-2-1",
+    "title": "2.2.1  Nguyên tắc lựa chọn bơm nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 283,
+    "line_end": 292,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-2-2",
+    "anchor": "muc-2-2-2",
+    "title": "2.2.2  Lưu lượng và cột áp của bơm nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 295,
+    "line_end": 306,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-2-3",
+    "anchor": "muc-2-2-3",
+    "title": "2.2.3  Động cơ dẫn động bơm nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 309,
+    "line_end": 312,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-2-4",
+    "anchor": "muc-2-2-4",
+    "title": "2.2.4  Ống hút của trạm bơm nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 315,
+    "line_end": 318,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-2-5",
+    "anchor": "muc-2-2-5",
+    "title": "2.2.5  Đặt chế độ khởi động và dừng hoạt động của các thiết bị trạm bơm nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 321,
+    "line_end": 336,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-2-6",
+    "anchor": "muc-2-2-6",
+    "title": "2.2.6  Hệ thống bơm nước chữa cháy bố trí nối tiếp",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 339,
+    "line_end": 340,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-2-6-1",
+    "anchor": "muc-2-2-6-1",
+    "title": "2.2.6.1  Nguyên tắc bố trí bơm nước chữa cháy nối tiếp",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 343,
+    "line_end": 350,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-2-6-2",
+    "anchor": "muc-2-2-6-2",
+    "title": "2.2.6.2  Hoạt động của hệ thống bơm bố trí nối tiếp",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 353,
+    "line_end": 362,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-2-7",
+    "anchor": "muc-2-2-7",
+    "title": "2.2.7  Mỗi bơm nước chữa cháy phải được gắn van xả khí tự động loại bỏ tất cả khí và bọt khí ra ngoài.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 365,
+    "line_end": 366,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-2-8",
+    "anchor": "muc-2-2-8",
+    "title": "2.2.8  Số lượng, công suất của máy bơm nước chữa cháy dự phòng",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 369,
+    "line_end": 376,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-2-9",
+    "anchor": "muc-2-2-9",
+    "title": "2.2.9  Các bơm nước chữa cháy phải đóng nhãn trên vỏ bơm theo quy định hiện hành và trong đó thể hiện các thông số kỹ thuật cơ bản như sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 379,
+    "line_end": 404,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-3",
+    "anchor": "muc-2-3",
+    "title": "2.3  Bơm bù áp",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 407,
+    "line_end": 408,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-3-1",
+    "anchor": "muc-2-3-1",
+    "title": "2.3.1  Lưu lượng máy bơm bù áp",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 411,
+    "line_end": 414,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-3-2",
+    "anchor": "muc-2-3-2",
+    "title": "2.3.2  Áp lực đầu đẩy của máy bơm bù áp phải có khả năng duy trì áp lực thường trực trong hệ thống lớn hơn áp lực chữa cháy thiết kế từ 0,3 bar đến 0,8 bar.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 417,
+    "line_end": 418,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-3-3",
+    "anchor": "muc-2-3-3",
+    "title": "2.3.3  Đầu đẩy của máy bơm phải được bố trí van một chiều.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 421,
+    "line_end": 422,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-3-4",
+    "anchor": "muc-2-3-4",
+    "title": "2.3.4  Khi áp lực của máy bơm tại điểm lưu lượng bằng không cộng với áp lực lớn nhất tại cửa hút máy bơm lớn hơn áp lực làm việc của các thiết bị trên hệ thống, phải bố trí một van an toàn trên ống đẩy của máy bơm bù áp và phía trước van một chiều.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 425,
+    "line_end": 426,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-3-5",
+    "anchor": "muc-2-3-5",
+    "title": "2.3.5  Không được sử dụng máy bơm nước chữa cháy chính hoặc máy bơm dự phòng để duy trì áp lực hệ thống.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 429,
+    "line_end": 430,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-3-6",
+    "anchor": "muc-2-3-6",
+    "title": "2.3.6  Khi máy bơm nước chữa cháy khởi động tự động bằng tín hiệu của công tắc áp lực hay cảm biến áp lực, việc lắp đặt công tắc áp lực phải đảm bảo sao cho việc khởi động hay dừng của máy bơm bù áp và máy bơm nước chữa cháy được ổn định, chính xác.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 433,
+    "line_end": 434,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-3-7",
+    "anchor": "muc-2-3-7",
+    "title": "2.3.7  Đường kính danh nghĩa của ống tín hiệu áp lực không nhỏ hơn 15 mm. Ống tín hiệu phải được trích từ ống đẩy phía sau của van một chiều của mỗi bơm. Vật liệu của đường ống tín hiệu áp lực phải là thép không rỉ hoặc đồng.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 437,
+    "line_end": 438,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-3-8",
+    "anchor": "muc-2-3-8",
+    "title": "2.3.8  Điểm cuối của đường ống cấp nước chữa cháy nên bố trí van cách ly và điểm lắp đồng hồ áp lực để việc thử nghiệm, hiệu chỉnh áp lực khởi động máy bơm được dễ dàng.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 441,
+    "line_end": 442,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-3-9",
+    "anchor": "muc-2-3-9",
+    "title": "2.3.9  Trên mỗi ống tín hiệu phải bố trí hai van một chiều, khoảng cách giữa hai van không được nhỏ hơn 1,5 m, hướng dòng chảy của van quay về phía hệ thống, trên lá của hai van một chiều này phải được khoan một lỗ có đường kính bằng 2,5 đến 3 mm.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 445,
+    "line_end": 446,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-3-10",
+    "anchor": "muc-2-3-10",
+    "title": "2.3.10  Bơm bù áp phải đóng nhãn trên vỏ bơm theo quy định hiện hành và trong đó thể hiện các thông số kỹ thuật cơ bản như sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 449,
+    "line_end": 466,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4",
+    "anchor": "muc-2-4",
+    "title": "2.4  Máy dẫn động bơm nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 469,
+    "line_end": 470,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1",
+    "anchor": "muc-2-4-1",
+    "title": "2.4.1  Động cơ điện",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 473,
+    "line_end": 474,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1-1",
+    "anchor": "muc-2-4-1-1",
+    "title": "2.4.1.1  Động cơ điện dẫn động bơm nước chữa cháy có thể là động cơ điện không đồng bộ hoặc đồng bộ 3 pha.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 477,
+    "line_end": 478,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1-2",
+    "anchor": "muc-2-4-1-2",
+    "title": "2.4.1.2  Dòng điện bảo vệ quá tải roto của động cơ ứng với công suất định mức không được vượt quá giá trị cho phép trong Bảng 2.4.1.2",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 481,
+    "line_end": 482,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "bang-bang-2-4-1",
+    "anchor": "bang-bang-2-4-1",
+    "title": "Bảng 2.4.1 - Công suất và dòng điện bảo vệ quá tải roto của động cơ điện",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 485,
+    "line_end": 502,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1-4",
+    "anchor": "muc-2-4-1-4",
+    "title": "2.4.1.4  Công suất tối thiểu của động cơ điện phải lớn hơn hoặc bằng công suất của bơm khi hoạt động ở điểm 150% công suất. Công suất của động cơ khi dẫn động bơm làm việc tại mọi thời điểm không được phép nhỏ hơn 10% công suất in trên nhãn động cơ. Công suất máy dẫn động không được lớn hơn 1,15 lần công suất định mức tương ứng với tốc độ vòng quay của bơm.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 505,
+    "line_end": 506,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1-5",
+    "anchor": "muc-2-4-1-5",
+    "title": "2.4.1.5  Dòng định mức",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 509,
+    "line_end": 512,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1-6",
+    "anchor": "muc-2-4-1-6",
+    "title": "2.4.1.6  Nguồn điện và các thiết bị bảo vệ mạch điện",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 515,
+    "line_end": 516,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1-6-1",
+    "anchor": "muc-2-4-1-6-1",
+    "title": "2.4.1.6.1  Máy bơm động cơ điện phải có ít nhất hai nguồn điện, một nguồn điện chính và một nguồn điện dự phòng. Cho phép máy bơm nước chữa cháy chính chỉ đấu nối với một nguồn điện nếu có máy bơm dự phòng là máy bơm động cơ diesel.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 519,
+    "line_end": 520,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1-6-2",
+    "anchor": "muc-2-4-1-6-2",
+    "title": "2.4.1.6.2  Không cho phép sử dụng bộ biến đổi pha khi cấp điện cho động cơ điện của máy bơm nước chữa cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 523,
+    "line_end": 524,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1-6-3",
+    "anchor": "muc-2-4-1-6-3",
+    "title": "2.4.1.6.3  Thiết bị ngắt sự cố",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 527,
+    "line_end": 551,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1-6-4",
+    "anchor": "muc-2-4-1-6-4",
+    "title": "2.4.1.6.4  Chỉ cho phép lắp đặt một thiết bị ngắt kết nối và một thiết bị bảo vệ quá dòng kết hợp ở đầu cấp nguồn cho bộ điều khiển máy bơm nước chữa cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 554,
+    "line_end": 555,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1-6-5",
+    "anchor": "muc-2-4-1-6-5",
+    "title": "2.4.1.6.5  Sụt áp của nguồn điện cho phép",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 558,
+    "line_end": 563,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1-6-6",
+    "anchor": "muc-2-4-1-6-6",
+    "title": "2.4.1.6.6  Đi dây từ bộ điều khiển tới mô tơ máy bơm trong ống kim loại cứng, ống kim loại trung bình, ống kim loại điện, ống kim loại dẻo không thấm ướt, hoặc ống phi kim loại dẻo không thấm ướt, cáp loại có vỏ bọc chống nước.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 566,
+    "line_end": 567,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1-6-7",
+    "anchor": "muc-2-4-1-6-7",
+    "title": "2.4.1.6.7  Kết nối điện tại hộp đầu cuối mô tơ sẽ được thực hiện bằng các thiết bị kết nối theo nhà sản xuất. Không cho phép sử dụng bộ nối cách điện xoắn bện và dây hàn trong trường hợp này.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 570,
+    "line_end": 571,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-1-7",
+    "anchor": "muc-2-4-1-7",
+    "title": "2.4.1.7  Động cơ điện của bơm nước chữa cháy phải đóng nhãn trên vỏ động cơ theo quy định hiện hành và trong đó thể hiện các thông số kỹ thuật cơ bản như sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 574,
+    "line_end": 595,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2",
+    "anchor": "muc-2-4-2",
+    "title": "2.4.2  Động cơ diesel",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 598,
+    "line_end": 599,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-1",
+    "anchor": "muc-2-4-2-1",
+    "title": "2.4.2.1  Động cơ diesel sử dụng cho máy bơm nước chữa cháy phải là động cơ 4 thì, kích nổ bằng phương thức nén hơi nhiên liệu ở áp suất cao.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 602,
+    "line_end": 603,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-2",
+    "anchor": "muc-2-4-2-2",
+    "title": "2.4.2.2  Động cơ diesel phải có công suất bằng hoặc lớn hơn công suất tối đa trên trục máy bơm ứng với tốc độ vòng quay định mức ở mọi chế độ làm việc của máy bơm trong thời gian làm việc liên tục tối thiểu là 4 giờ.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 606,
+    "line_end": 607,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-3",
+    "anchor": "muc-2-4-2-3",
+    "title": "2.4.2.3  Dải công suất trên trục động cơ diesel, ở chế độ dài hạn không được nhỏ hơn 110% công suất yêu cầu trên trục lớn nhất của máy bơm ở mọi chế độ làm việc.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 610,
+    "line_end": 611,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-4",
+    "anchor": "muc-2-4-2-4",
+    "title": "2.4.2.4  Động cơ diesel phải được trang bị cơ cấu điều tốc với khoảng điều chỉnh không lớn hơn 10% trong phạm vi từ tốc độ ứng với công suất không tải đến tốc độ ứng với công suất yêu cầu lớn nhất trên trục của máy bơm. Quay không tải và vận tốc quay đầy tải. Cơ cấu điều tốc phải có khả năng điều chỉnh để duy trì động cơ làm việc ở tốc độ định mức.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 614,
+    "line_end": 615,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-5",
+    "anchor": "muc-2-4-2-5",
+    "title": "2.4.2.5  Động cơ diesel phải được trang bị thiết bị dừng động cơ khi tốc độ vượt quá 120% tốc độ định mức lớn nhất của động cơ và có cơ cấu tái thiết lập khởi động lại bằng tay. Tín hiệu quá tốc độ này phải được truyền đến tủ điều khiển tự động của máy bơm để báo động tình trạng lỗi quá tốc độ động cơ với cách thức sao cho tủ điều khiển động cơ không thể tái thiết lập lại cho đến khi việc tái thiết lập lại thiết bị dừng động cơ được thực hiện bằng tay về chế độ làm việc bình thường.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 618,
+    "line_end": 619,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-6",
+    "anchor": "muc-2-4-2-6",
+    "title": "2.4.2.6  Trên động cơ diesel phải được trang bị hộp điều khiển và đo lường bao gồm các chi tiết sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 622,
+    "line_end": 637,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-7",
+    "anchor": "muc-2-4-2-7",
+    "title": "2.4.2.7  Các dây tín hiệu trên động cơ phải được cố định chắc chắn trên máy đảm bảo làm việc lâu dài. Các đầu nối dẫn đến hộp nối dây phải đánh số giống như sơ đồ của mạch điều khiển. Dây tín hiệu, ống bao dây và chi tiết kẹp phải làm bằng vật liệu không cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 640,
+    "line_end": 641,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-8",
+    "anchor": "muc-2-4-2-8",
+    "title": "2.4.2.8  Mỗi động cơ diesel phải có hai công tắc tơ chính cấp nguồn ắc quy cho bộ đề khởi động động cơ diesel, ngoài chức năng đóng nguồn điện bằng tín hiệu điện công tắc tơ phải bảo đảm có thể đóng nguồn khởi động khẩn cấp bằng tay trong trường hợp hộp điều khiển động cơ bị hỏng.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 644,
+    "line_end": 645,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-9",
+    "anchor": "muc-2-4-2-9",
+    "title": "2.4.2.9  Động cơ diesel phải có thiết bị (rơ le) phát tín hiệu động cơ hoạt động và việc khởi động động cơ. Không được sử dụng dòng điện phát ra từ dinamô của động cơ diesel như là tín hiệu để nhận biết động cơ hoạt động.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 648,
+    "line_end": 649,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-10",
+    "anchor": "muc-2-4-2-10",
+    "title": "2.4.2.10  Phải có hai bộ điện ắc quy để khởi động động cơ. Mỗi bộ ắc quy có dung lượng điện gấp đôi điện lượng yêu cầu để đảm bảo khởi động động cơ 6 lần liên tiếp, thời gian của mỗi lần đề máy là 15 giây và thời gian tạm nghỉ giữa mỗi lần đề là 15 giây. Ắc quy phải được đặt trên giá đặt bình bằng kim loại cao hơn mặt sàn nhà tối thiểu là 305 mm. Ắc quy phải có khả năng làm việc ở nhiệt độ môi trường từ 4,5oC đến 80oC.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 652,
+    "line_end": 653,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-11",
+    "anchor": "muc-2-4-2-11",
+    "title": "2.4.2.11  Mỗi một bộ ắc quy phải có một đồng hồ điện áp, đồng hồ dòng sạc, đèn hiển thị bộ sạc điện bị lỗi, ắc quy bị lỗi riêng. Độ sai số của đồng hồ đo không được lớn hơn 5%.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 656,
+    "line_end": 657,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-12",
+    "anchor": "muc-2-4-2-12",
+    "title": "2.4.2.12  Ắc quy phải được sạc điện từ hai nguồn là dinamô trên động cơ và nguồn sạc cấp từ tủ điều khiển máy bơm. Bộ sạc ắc quy phải có các tính năng kỹ thuật sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 660,
+    "line_end": 669,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-13",
+    "anchor": "muc-2-4-2-13",
+    "title": "2.4.2.13  Động cơ diesel có thể được làm mát bằng hai hình thức sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 672,
+    "line_end": 677,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-14",
+    "anchor": "muc-2-4-2-14",
+    "title": "2.4.2.14  Quạt gió để giải phóng nhiệt lượng toả ra từ giàn bức xạ nhiệt của động cơ diesel phải được dẫn động từ trục cơ của động cơ. Phải có hộp bảo vệ cho quạt gió và dây cu roa dẫn động.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 680,
+    "line_end": 681,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-15",
+    "anchor": "muc-2-4-2-15",
+    "title": "2.4.2.15  Giàn tản nhiệt của động cơ phải có khả năng hạn chế nhiệt độ động cơ, ngay cả khi nhiệt độ không khí vào giàn tản nhiệt là 49oC, không được lớn hơn giá trị cho phép của nhà sản xuất, nhưng trong mọi trường hợp không được lớn hơn 80oC. Tổng tổn thất áp lực gió qua giàn tản nhiệt và ống thoát gió làm mát (nếu có) không được lớn hơn 13 mm cột nước. Miệng ống xả khói phải đưa ra ngoài nhà và công trình.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 684,
+    "line_end": 685,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-16",
+    "anchor": "muc-2-4-2-16",
+    "title": "2.4.2.16  Ống dẫn nước từ giàn bức xạ nhiệt với động cơ, hoặc ống thoát gió nối với giàn bức xạ nhiệt phải thông qua khớp mềm bằng vật liệu không cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 688,
+    "line_end": 689,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-17",
+    "anchor": "muc-2-4-2-17",
+    "title": "2.4.2.17  Bình chứa dầu cho động cơ diesel phải có dung tích không nhỏ hơn 110% giá trị tối thiểu xác định theo công suất lớn nhất yêu cầu trên trục máy bơm là 5 L/kW (1 gal/Hp), trong đó 5% cho sự giãn nở thể tích của dầu và 5% cho phần chứa dầu cặn. Bình chứa dầu phải được dự trữ riêng cho động cơ diesel bơm nước chữa cháy, mỗi động cơ diesel phải có một bình chứa dầu riêng.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 692,
+    "line_end": 697,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-18",
+    "anchor": "muc-2-4-2-18",
+    "title": "2.4.2.18  Động cơ diesel phải được khởi động bằng một trong các cách sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 700,
+    "line_end": 707,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-19",
+    "anchor": "muc-2-4-2-19",
+    "title": "2.4.2.19  Ống khí thải động cơ",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 710,
+    "line_end": 715,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-4-2-20",
+    "anchor": "muc-2-4-2-20",
+    "title": "2.4.2.20  Mỗi động cơ diesel phải đóng nhãn trên vỏ bơm theo quy định hiện hành và trong đó thể hiện các thông số kỹ thuật cơ bản như sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 718,
+    "line_end": 733,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5",
+    "anchor": "muc-2-5",
+    "title": "2.5  Tủ điều khiển bơm nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 736,
+    "line_end": 737,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-1",
+    "anchor": "muc-2-5-1",
+    "title": "2.5.1  Quy định chung",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 740,
+    "line_end": 741,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-1-1",
+    "anchor": "muc-2-5-1-1",
+    "title": "2.5.1.1  Mỗi máy bơm phải được điều khiển và kiểm soát từ một tủ điều khiển riêng biệt có chức năng khởi động máy bơm tự động và bằng tay. Có thể bố trí chung thiết bị điều khiển bơm nước chữa cháy động cơ điện và bơm bù áp chung một tủ điều khiển, nhưng không được bố trí thiết bị điều khiển bơm nước chữa cháy chính và bơm nước chữa cháy dự phòng chung một tủ điều khiển. Khi bố trí chung thiết bị điều khiển của máy bơm nước chữa cháy động cơ điện và bơm bù áp trên một vỏ tủ điều khiển, các khởi động từ của máy bơm phải riêng biệt và được bố trí trên không gian tách biệt trong phạm vi của tủ.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 744,
+    "line_end": 745,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-1-2",
+    "anchor": "muc-2-5-1-2",
+    "title": "2.5.1.2  Tài liệu hướng dẫn vận hành tủ điều khiển phải thể hiện được đầy đủ các nội dung thao tác tủ điều khiển và phải gắn trên tủ ở nơi dễ thấy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 748,
+    "line_end": 749,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-1-3",
+    "anchor": "muc-2-5-1-3",
+    "title": "2.5.1.3  Tủ điều khiển máy bơm nước chữa cháy phải đảm bảo sao cho có thể khởi động máy bơm từ khi ở trạng thái dừng đến mức đầy tải với thời gian không lớn hơn 30 giây từ khi nhận được tín hiệu khởi động máy bơm. Trên tủ điều khiển phải có cổng kết nối để hiển thị các tình trạng hoạt động và điều khiển máy bơm từ xa.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 752,
+    "line_end": 753,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-1-4",
+    "anchor": "muc-2-5-1-4",
+    "title": "2.5.1.4  Tất cả các thiết bị của tủ điều khiển phải được bố trí trên vỏ tủ bằng kim loại, sơn màu đỏ. Các thiết bị được gắn trên tủ phải chắc chắn nhưng vẫn phải đảm bảo khả năng tháo, lắp và thay thế được dễ dàng. Tủ điều khiển lắp đặt ngoài trời hay ở môi trường đặc biệt phải có cấp bảo vệ phù hợp. Tất cả các thiết bị điện của tủ phải phù hợp với việc sử dụng ở môi trường lắp đặt, độ ẩm làm việc danh định là 95 %.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 756,
+    "line_end": 757,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-2",
+    "anchor": "muc-2-5-2",
+    "title": "2.5.2  Tủ điều khiển bơm điện",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 760,
+    "line_end": 761,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-2-1",
+    "anchor": "muc-2-5-2-1",
+    "title": "2.5.2.1  Lựa chọn mạch khởi động động cơ phải căn cứ vào công suất của nguồn điện cấp điện cho máy bơm nước chữa cháy. Việc khởi động động cơ máy bơm nước chữa cháy phải lựa chọn một trong các mạch khởi động như sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 764,
+    "line_end": 775,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-2-2",
+    "anchor": "muc-2-5-2-2",
+    "title": "2.5.2.2  Phương pháp khởi động của tủ điều khiển bơm điện: Tủ điều khiển của bơm điện phải có 3 cách khởi động sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 778,
+    "line_end": 785,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-2-3",
+    "anchor": "muc-2-5-2-3",
+    "title": "2.5.2.3  Trên tủ điều khiển phải có các thiết bị điều khiển, giám sát như sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 788,
+    "line_end": 797,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-2-4",
+    "anchor": "muc-2-5-2-4",
+    "title": "2.5.2.4  Tủ điều khiển phải được thiết kế phù hợp với dòng ngắn mạch xảy ra tại các đầu cực của tủ và phải được ghi rõ dòng điện ngắn mạch lớn nhất ứng với cấp điện áp cụ thể bằng tiếng Việt.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 800,
+    "line_end": 801,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-2-5",
+    "anchor": "muc-2-5-2-5",
+    "title": "2.5.2.5  Đấu nối và đi dây trong tủ điều khiển phải đảm bảo các yêu cầu sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 804,
+    "line_end": 811,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-2-6",
+    "anchor": "muc-2-5-2-6",
+    "title": "2.5.2.6  Dòng định mức của cầu dao cách ly không được nhỏ hơn 115% dòng đầy tải định mức của động cơ điện.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 814,
+    "line_end": 815,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-2-7",
+    "anchor": "muc-2-5-2-7",
+    "title": "2.5.2.7  Mỗi động cơ điện phải được bảo vệ bằng một aptomat và được đấu nối trực tiếp với cổng ra của cầu dao cách ly. Aptomat phải có các đặc tính kỹ thuật sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 818,
+    "line_end": 833,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-2-8",
+    "anchor": "muc-2-5-2-8",
+    "title": "2.5.2.8  Thiết bị bảo vệ quá tải động cơ điện phải được lắp đặt cho tủ điều khiển. Thiết bị bảo vệ quá tải động cơ điện phải được bố trí ở khoảng giữa cầu dao cách ly và động cơ điện và phải có các đặc tính kỹ thuật sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 836,
+    "line_end": 853,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-2-9",
+    "anchor": "muc-2-5-2-9",
+    "title": "2.5.2.9  Công tắc tơ của tủ điều khiển động cơ điện phải thuộc dạng khởi động từ, dòng định mức của các khởi động từ chính phải có dòng định mức, ở chế độ dài hạn tối thiểu bằng 115% dòng định mức của động cơ. Khởi động từ làm việc ở chế độ khởi động động cơ phải có dòng định mức phù hợp dòng làm việc qua khởi động từ ở chế độ làm việc tương ứng.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 856,
+    "line_end": 857,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-2-10",
+    "anchor": "muc-2-5-2-10",
+    "title": "2.5.2.10  Tủ điều khiển động cơ theo nguyên lý giảm điện áp, thời gian để động cơ đạt tốc độ thiết kế từ khi bắt đầu khởi động, không được lớn hơn 10 giây.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 860,
+    "line_end": 861,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-2-11",
+    "anchor": "muc-2-5-2-11",
+    "title": "2.5.2.11  Đối với tủ điều khiển có cấp điện áp đến 600V, cuộn dây của khởi động từ chính phải được cấp nguồn trực tiếp từ nguồn cấp chính không thông qua biến áp.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 864,
+    "line_end": 865,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-2-12",
+    "anchor": "muc-2-5-2-12",
+    "title": "2.5.2.12  Không được bố trí các cảm biến điện áp thấp, lỗi phase, lỗi tần số, hoặc các cảm biến khác để cấp tín hiệu dừng máy bơm nước chữa cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 868,
+    "line_end": 869,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-3",
+    "anchor": "muc-2-5-3",
+    "title": "2.5.3  Tủ điều khiển bơm Diesel",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 872,
+    "line_end": 883,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-5-4",
+    "anchor": "muc-2-5-4",
+    "title": "2.5.4  Mỗi tủ điều khiển bơm nước chữa cháy phải đóng nhãn trên tủ theo quy định hiện hành và trong đó thể hiện các thông số kỹ thuật cơ bản như sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 886,
+    "line_end": 895,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6",
+    "anchor": "muc-2-6",
+    "title": "2.6  Phụ kiện trạm bơm nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 898,
+    "line_end": 899,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-1",
+    "anchor": "muc-2-6-1",
+    "title": "2.6.1  Ống đẩy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 902,
+    "line_end": 903,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-1-1",
+    "anchor": "muc-2-6-1-1",
+    "title": "2.6.1.1  Các thành phần ống đẩy phải bao gồm ống, van và các khớp từ mặt bích đẩy bơm đến mặt bích van của hệ thống chữa cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 906,
+    "line_end": 907,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-1-2",
+    "anchor": "muc-2-6-1-2",
+    "title": "2.6.1.2  Kích cỡ ống đẩy bơm và khớp nối không được thấp hơn mức yêu cầu ở Mục A1 Phụ lục A.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 910,
+    "line_end": 911,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-1-3",
+    "anchor": "muc-2-6-1-3",
+    "title": "2.6.1.3  Phải lắp đặt van điều khiển hoặc van một chiều chống chảy ngược dòng tại ống đẩy nước của các bơm nước chữa cháy. Van cổng hoặc van bướm phải được lắp đặt trên đường ống đẩy ngay sau van điều khiển hoặc van một chiều. Khi bơm được lắp theo chuỗi, không được lắp đặt van bướm giữa các bơm.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 914,
+    "line_end": 915,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-2",
+    "anchor": "muc-2-6-2",
+    "title": "2.6.2  Ống hút",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 918,
+    "line_end": 919,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-2-1",
+    "anchor": "muc-2-6-2-1",
+    "title": "2.6.2.1  Các thành phần hút phải bao gồm tất cả các ống dẫn, van, và khớp nối từ mặt bích hút bơm đến điểm nối với nguồn nước cấp nước cho bơm.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 922,
+    "line_end": 923,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-2-2",
+    "anchor": "muc-2-6-2-2",
+    "title": "2.6.2.2  Khi bơm được lắp đặt theo chuỗi, ống hút cho bơm sau phải bắt đầu từ mặt của van đẩy của bơm liền trước.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 926,
+    "line_end": 927,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-2-3",
+    "anchor": "muc-2-6-2-3",
+    "title": "2.6.2.3  Kích cỡ ống hút",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 930,
+    "line_end": 935,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-2-4",
+    "anchor": "muc-2-6-2-4",
+    "title": "2.6.2.4  Van trên đường ống hút",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 938,
+    "line_end": 941,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-2-5",
+    "anchor": "muc-2-6-2-5",
+    "title": "2.6.2.5  Lắp đặt ống hút",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 944,
+    "line_end": 953,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-2-6",
+    "anchor": "muc-2-6-2-6",
+    "title": "2.6.2.6  Giỏ lọc ống hút",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 956,
+    "line_end": 959,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-2-7",
+    "anchor": "muc-2-6-2-7",
+    "title": "2.6.2.7  Thiết bị giám sát van",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 962,
+    "line_end": 965,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-3",
+    "anchor": "muc-2-6-3",
+    "title": "2.6.3  Đồng hồ áp lực (Pressure gauge)",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 968,
+    "line_end": 969,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-3-1",
+    "anchor": "muc-2-6-3-1",
+    "title": "2.6.3.1  Đồng hồ áp lực đầu đẩy (Discharge pressure gauge)",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 972,
+    "line_end": 977,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-3-2",
+    "anchor": "muc-2-6-3-2",
+    "title": "2.6.3.2  Đồng hồ áp lực đầu hút của bơm (suction pressure gauge)",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 980,
+    "line_end": 987,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-4",
+    "anchor": "muc-2-6-4",
+    "title": "2.6.4  Van bảo vệ vỏ bơm (Casing relief valve)",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 990,
+    "line_end": 1003,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-5",
+    "anchor": "muc-2-6-5",
+    "title": "2.6.5  Van an toàn cho bơm",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1006,
+    "line_end": 1007,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-5-1",
+    "anchor": "muc-2-6-5-1",
+    "title": "2.6.5.1  Van an toàn cho bơm phải được lắp đặt cho các bơm nước chữa cháy động cơ diesel và khi tổng áp suất dừng bơm cộng với áp suất hút tĩnh tối đa, vượt quá áp suất của hệ thống.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1010,
+    "line_end": 1011,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-5-2",
+    "anchor": "muc-2-6-5-2",
+    "title": "2.6.5.2  Kích thước van an toàn cho bơm",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1014,
+    "line_end": 1017,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-5-3",
+    "anchor": "muc-2-6-5-3",
+    "title": "2.6.5.3  Van an toàn cho bơm phải được đặt giữa bơm và van một chiều đầu đẩy bơm, đồng thời phải gắn sao cho có thể sẵn sàng được tháo lắp để sửa chữa mà không ảnh hưởng tới đường ống đẩy của bơm.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1020,
+    "line_end": 1021,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-5-4",
+    "anchor": "muc-2-6-5-4",
+    "title": "2.6.5.4  Nước từ van an toàn cho bơm phải đảm bảo cho người vận hành bơm dễ thấy hoặc dễ nhận biết. Không được lắp đặt van chặn ở đoạn ống trước và sau van an toàn cho bơm.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1024,
+    "line_end": 1025,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-6",
+    "anchor": "muc-2-6-6",
+    "title": "2.6.6  Đường ống, thiết bị kiểm tra lưu lượng nước",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1028,
+    "line_end": 1029,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-6-1",
+    "anchor": "muc-2-6-6-1",
+    "title": "2.6.6.1  Phải lắp đặt đường ống thiết bị kiểm tra lưu lượng hoặc van vòi cố định để kiểm tra bơm hoạt động ở các điều kiện theo thiết kế. Các thiết bị đo đạc hoặc van vòi cố định phải có công suất lưu lượng nước không thấp hơn 175 phần trăm lưu lượng thiết kế của máy bơm.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1032,
+    "line_end": 1033,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-6-2",
+    "anchor": "muc-2-6-6-2",
+    "title": "2.6.6.2  Trong khi chạy thử bơm cho phép xả nước vào bể nước hoặc các vị trí không làm ảnh hưởng tới các thiết bị của trạm bơm. Khi xả ngược lại vào bể, vòi hoặc ống xả phải đặt ở vị trí cách xa ống hút của bơm để tránh không để bơm bị nhiễm khí do xả nước chạy thử vào bể.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1036,
+    "line_end": 1037,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-6-3",
+    "anchor": "muc-2-6-6-3",
+    "title": "2.6.6.3  Toàn bộ ống dẫn hệ thống đo đạc phải có kích thước theo tính toán hoặc quy định của nhà sản xuất nhưng không nhỏ hơn kích thước thiết bị đo đạc nêu ở Phụ lục A.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1040,
+    "line_end": 1041,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-6-4",
+    "anchor": "muc-2-6-6-4",
+    "title": "2.6.6.4  Van Vòi: Số lượng và kích cỡ van vòi dùng để kiểm tra bơm phải được quy định ở Phụ lục A. Phải đặt một van bướm hoặc van cổng trong đường ống dẫn tới đầu phun van vòi.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1044,
+    "line_end": 1045,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-2-6-7",
+    "anchor": "muc-2-6-7",
+    "title": "2.6.7  Van xả khí tự động: Van xả khí phải được gắn tại trí cao nhất trên vỏ bơm để loại bỏ hết khí.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1048,
+    "line_end": 1049,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3",
+    "anchor": "muc-3",
+    "title": "3  VẬN HÀNH THỬ VÀ NGHIỆM THU BƠM NƯỚC CHỮA CHÁY",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1052,
+    "line_end": 1053,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1",
+    "anchor": "muc-3-1",
+    "title": "3.1  Vận hành thử và nghiệm thu máy bơm nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1056,
+    "line_end": 1057,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-1",
+    "anchor": "muc-3-1-1",
+    "title": "3.1.1  Thử nghiệm dòng chảy chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1060,
+    "line_end": 1061,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-1-1",
+    "anchor": "muc-3-1-1-1",
+    "title": "3.1.1.1  Bơm nước chữa cháy phải thực hiện ở tải danh định tối thiểu và tải cực đại mà không làm quá nóng bất kỳ bộ phận nào.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1064,
+    "line_end": 1065,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-1-2",
+    "anchor": "muc-3-1-1-2",
+    "title": "3.1.1.2  Tổ máy bơm nước chữa cháy không được rung lớn để bảo đảm không gây thiệt hại cho bất kỳ bộ phận nào của bơm nước chữa cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1068,
+    "line_end": 1069,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-1-3",
+    "anchor": "muc-3-1-1-3",
+    "title": "3.1.1.3  Lưu lượng tối thiểu, danh định và cực đại của bơm nước chữa cháy được xác định bằng cách kiểm soát lượng nước đi qua các thiết bị thử nghiệm.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1072,
+    "line_end": 1073,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-1-4",
+    "anchor": "muc-3-1-1-4",
+    "title": "3.1.1.4  Trường hợp trạm bơm nước chữa cháy được thiết kế có từ 02 máy bơm hoạt động đồng thời trở lên, thì thử nghiệm nghiệm thu phải bao gồm thử nghiệm dòng chảy của tất cả các máy bơm đang hoạt động đồng thời.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1076,
+    "line_end": 1077,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-2",
+    "anchor": "muc-3-1-2",
+    "title": "3.1.2  Điều khiển giới hạn áp lực tốc độ biến thiên",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1080,
+    "line_end": 1081,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-2-1",
+    "anchor": "muc-3-1-2-1",
+    "title": "3.1.2.1  Máy bơm được thử nghiệm công suất tại 0%, 25%, 50%, 75%, 100%, 125% và 150% lưu lượng tải danh định ở chế độ tốc độ danh định.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1084,
+    "line_end": 1087,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-2-2",
+    "anchor": "muc-3-1-2-2",
+    "title": "3.1.2.2  Hệ thống chữa cháy phải được cách ly và van xả thiết lập đóng khi thử nghiệm tốc độ danh định yêu cầu trong Mục 3.1.2.1.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1090,
+    "line_end": 1091,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-2-3",
+    "anchor": "muc-3-1-2-3",
+    "title": "3.1.2.3  Hệ thống chữa cháy phải mở và van xả thiết lập cho thử nghiệm tốc độ biến đổi yêu cầu trong Mục 3.1.2.1.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1094,
+    "line_end": 1095,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-3",
+    "anchor": "muc-3-1-3",
+    "title": "3.1.3  Thử nghiệm khởi động tải: Bơm nước chữa cháy phải được khởi động và đạt tốc độ danh định mà không bị gián đoạn trong điều kiện xả bằng tải cực đại.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1098,
+    "line_end": 1099,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-4",
+    "anchor": "muc-3-1-4",
+    "title": "3.1.4  Thử nghiệm đảo pha: Đối với động cơ điện, phải thực hiện thử nghiệm để bảo đảm rằng không có tình trạng đảo pha trong cấu hình cung cấp điện thông thường hoặc từ nguồn cung cấp điện thay thế (nếu có).",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1102,
+    "line_end": 1103,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-5",
+    "anchor": "muc-3-1-5",
+    "title": "3.1.5  Thử nghiệm chuyển đổi nguồn điện",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1106,
+    "line_end": 1107,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-5-1",
+    "anchor": "muc-3-1-5-1",
+    "title": "3.1.5.1  Khi lắp đặt trạm bơm có từ 02 nguồn điện trở và công tắc chuyển đổi tự động, phải mô phỏng mất nguồn chính và chuyển đổi trong khi máy bơm đang hoạt động ở tải cực đại.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1110,
+    "line_end": 1111,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-5-2",
+    "anchor": "muc-3-1-5-2",
+    "title": "3.1.5.2  Việc chuyển từ nguồn điện chính sang nguồn dự phòng và việc chuyển đổi ngược lại không được làm hở thiết bị bảo vệ quá dòng ở một trong hai nguồn điện.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1114,
+    "line_end": 1115,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-5-3",
+    "anchor": "muc-3-1-5-3",
+    "title": "3.1.5.3  Phải thực hiện ít nhất một nửa các hoạt động thủ công và tự động trong Mục 3.2. 2 với bơm nước chữa cháy được nối với nguồn thay thế.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1118,
+    "line_end": 1119,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-6",
+    "anchor": "muc-3-1-6",
+    "title": "3.1.6  Quy trình đo lường",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1122,
+    "line_end": 1123,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-6-1",
+    "anchor": "muc-3-1-6-1",
+    "title": "3.1.6.1  Phải xác định và ổn định lượng nước xả từ tổ bơm nước chữa cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1126,
+    "line_end": 1127,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-6-2",
+    "anchor": "muc-3-1-6-2",
+    "title": "3.1.6.2  Ngay sau đó, phải đo điều kiện hoạt động của bơm nước chữa cháy và bộ dẫn động.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1130,
+    "line_end": 1131,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-7",
+    "anchor": "muc-3-1-7",
+    "title": "3.1.7  Kết quả vận hành, thử nghiệm hoạt động máy bơm nước chữa cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1134,
+    "line_end": 1135,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-7-1",
+    "anchor": "muc-3-1-7-1",
+    "title": "3.1.7.1  Phải so sánh kết quả vận hành, thử nghiệm hoạt động máy bơm nước chữa cháy với hiệu suất bơm ban đầu như đặc trưng thử nghiệm tại nhà máy ban đầu có xác nhận của nhà sản xuất bơm nước chữa cháy.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1138,
+    "line_end": 1139,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-1-7-2",
+    "anchor": "muc-3-1-7-2",
+    "title": "3.1.7.2  Kết quả thử nghiệm vận hành, thử nghiệm hoạt động máy bơm nước chữa cháy phải đáp ứng hoặc vượt quá các đặc tính hiệu suất được ghi trên nhãn máy bơm và kết quả phải nằm trong giới hạn chính xác của thử nghiệm đã nêu ở trên của quy chuẩn này.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1142,
+    "line_end": 1143,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-2",
+    "anchor": "muc-3-2",
+    "title": "3.2  Nghiệm thu tủ điều khiển máy bơm nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1146,
+    "line_end": 1147,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-2-1",
+    "anchor": "muc-3-2-1",
+    "title": "3.2.1  Bộ điều khiển bơm nước chữa cháy phải được thử nghiệm theo quy trình khuyến cáo của nhà sản xuất.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1150,
+    "line_end": 1151,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-2-2",
+    "anchor": "muc-3-2-2",
+    "title": "3.2.2  Tối thiểu phải thực hiện không ít hơn 06 lần vận hành tự động và 06 lần vận hành thủ công trong quá trình thử nghiệm nghiệm thu.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1154,
+    "line_end": 1155,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-2-3",
+    "anchor": "muc-3-2-3",
+    "title": "3.2.3  Bơm nước chữa cháy điện phải được vận hành trong khoảng thời gian ít nhất là 5 phút ở tốc độ cao nhất trong mỗi lần vận hành yêu cầu trong Mục 3.1.1.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1158,
+    "line_end": 1159,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-2-4",
+    "anchor": "muc-3-2-4",
+    "title": "3.2.4  Trình tự hoạt động tự động của bộ điều khiển sẽ khởi động bơm từ tất cả các tính năng khởi động theo thiết kế. Trình tự này sẽ bao gồm các công tắc áp lực hoặc cảm biến áp lực hoặc các tín hiệu khởi động từ xa. Các thử nghiệm của bộ điều khiển động cơ sẽ được chia giữa hai bộ ắc qui. Bơm nước chữa cháy phải được khởi động một lần từ mỗi nguồn điện khác nhau và chạy tối thiểu là 5 phút.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1162,
+    "line_end": 1163,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-3",
+    "anchor": "muc-3-3",
+    "title": "3.3  Lập biên bản, báo cáo thử nghiệm, nghiệm thu và hướng dẫn vận hành, bảo dưỡng các thiết bị trạm bơm",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1166,
+    "line_end": 1167,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-3-1",
+    "anchor": "muc-3-3-1",
+    "title": "3.3.1  Kết thúc công tác nghiệm thu trạm bơm nước chữa cháy phải lập hồ sơ nghiệm thu cụ thể như sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1170,
+    "line_end": 1177,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-3-2",
+    "anchor": "muc-3-3-2",
+    "title": "3.3.2  Đơn vị cung cấp lắp đặt trạm bơm nước chữa cháy phải cung cấp hồ sơ, tài liệu hướng dẫn sử dụng cho tất cả các bộ phận chính của trạm bơm nước chữa cháy như sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1180,
+    "line_end": 1181,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-3-2-1",
+    "anchor": "muc-3-3-2-1",
+    "title": "3.3.2.1  Hướng dẫn sử dụng phải bao gồm các nội dung sau đây:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1184,
+    "line_end": 1197,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-3-3-2-2",
+    "anchor": "muc-3-3-2-2",
+    "title": "3.3.2.2  Phải có công cụ đặc biệt và thiết bị thử nghiệm cần thiết để bảo trì thường xuyên, để cơ quan có thẩm quyền kiểm tra tại thời điểm kiểm tra nghiệm thu theo quy định.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1200,
+    "line_end": 1201,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4",
+    "anchor": "muc-4",
+    "title": "4  KIỂM TRA, BẢO DƯỠNG TRẠM BƠM NƯỚC CHỮA CHÁY",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1204,
+    "line_end": 1205,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-1",
+    "anchor": "muc-4-1",
+    "title": "4.1  Kiểm tra, bảo dưỡng trạm bơm nước chữa cháy hàng tuần",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1208,
+    "line_end": 1209,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-1-1",
+    "anchor": "muc-4-1-1",
+    "title": "4.1.1  Tiến hành công tác kiểm tra trực quan như sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1212,
+    "line_end": 1213,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-1-1-1",
+    "anchor": "muc-4-1-1-1",
+    "title": "4.1.1.1  Tình trạng nhà bơm",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1216,
+    "line_end": 1221,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-1-1-2",
+    "anchor": "muc-4-1-1-2",
+    "title": "4.1.1.2  Tình trạng hệ thống bơm",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1224,
+    "line_end": 1237,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-1-1-3",
+    "anchor": "muc-4-1-1-3",
+    "title": "4.1.1.3  Tình trạng hệ thống điện",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1240,
+    "line_end": 1251,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-1-1-4",
+    "anchor": "muc-4-1-1-4",
+    "title": "4.1.1.4  Tình trạng hệ thống động cơ diesel",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1254,
+    "line_end": 1279,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-1-2",
+    "anchor": "muc-4-1-2",
+    "title": "4.1.2  Tiến hành công tác kiểm nghiệm như sau",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1282,
+    "line_end": 1283,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-1-2-1",
+    "anchor": "muc-4-1-2-1",
+    "title": "4.1.2.1  Kiểm nghiệm hoạt động không tải của máy bơm nước chữa cháy bằng cách khởi động bơm theo dạng tự động hoặc bằng tay",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1286,
+    "line_end": 1291,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-1-2-2",
+    "anchor": "muc-4-1-2-2",
+    "title": "4.1.2.2  Tiến hành giám sát trực quan hoặc điều chỉnh như nêu trong danh sách dưới đây khi bơm đang chạy cho phù hợp",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1294,
+    "line_end": 1329,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-2",
+    "anchor": "muc-4-2",
+    "title": "4.2  Kiểm tra, bảo dưỡng trạm bơm nước chữa cháy hàng năm",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1332,
+    "line_end": 1333,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-2-1",
+    "anchor": "muc-4-2-1",
+    "title": "4.2.1  Kiểm tra cụm bơm nước chữa cháy dựa trên lưu lượng nước tối thiểu, lưu lượng nước định mức và tối đa của bơm bằng cách kiểm soát lượng nước đưa ra qua thiết bị kiểm nghiệm tiêu chuẩn.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1336,
+    "line_end": 1337,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-2-2",
+    "anchor": "muc-4-2-2",
+    "title": "4.2.2  Tiến hành công tác giám sát trực quan, đo lường, và điều chỉnh nêu trong danh sách dưới đây cho phù hợp khi bơm đang vận hành và lưu chuyển nước với tình trạng đầu ra như sau:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1340,
+    "line_end": 1341,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-2-2-1",
+    "anchor": "muc-4-2-2-1",
+    "title": "4.2.2.1  Kiểm tra tình trạng không có nước (ngưỡng tối đa): hoạt động xả nước của van xả dòng, hoạt động của van xả áp lực (nếu có lắp đặt) xem có đúng hay không, tiếp tục kiểm nghiệm trong 0,5 giờ.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1344,
+    "line_end": 1345,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-2-2-2",
+    "anchor": "muc-4-2-2-2",
+    "title": "4.2.2.2  Kiểm tra với từng tình trạng lưu lượng nước: ghi nhận điện áp và cường độ dòng điện của động cơ điện, ghi nhận tốc độ bơm, ghi nhận thông số đồng thời (tương đối) của áp lực đầu ra và đầu hút, lưu lượng xả của bơm.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1348,
+    "line_end": 1349,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-2-2-3",
+    "anchor": "muc-4-2-2-3",
+    "title": "4.2.2.3  Đối với các hệ thống lắp đặt có van xả áp lực, phải giám sát kỹ hoạt động của van xả trong mọi tình trạng lưu lượng.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1352,
+    "line_end": 1353,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-2-2-4",
+    "anchor": "muc-4-2-2-4",
+    "title": "4.2.2.4  Đối với các hệ thống lắp đặt có công tắc chuyển giao tự động, thì phải tiến hành công tác kiểm nghiệm sau đây để đảm bảo thiết bị bảo vệ chống quá dòng (như là cầu chì hay cầu dao) không hở:",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1356,
+    "line_end": 1365,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-2-2-5",
+    "anchor": "muc-4-2-2-5",
+    "title": "4.2.2.5  Giả lập tình trạng báo động bằng cách kích hoạt mạch báo động tại các vị trí cảm ứng báo động và phải giám sát hoạt động của tất cả các thiết bị báo động cục bộ hoặc từ xa.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1368,
+    "line_end": 1369,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-3",
+    "anchor": "muc-4-3",
+    "title": "4.3  Kết quả kiểm tra bảo dưỡng",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1372,
+    "line_end": 1373,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-3-1",
+    "anchor": "muc-4-3-1",
+    "title": "4.3.1  Kết quả kiểm nghiệm và đánh giá phần bơm",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1376,
+    "line_end": 1385,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-3-2",
+    "anchor": "muc-4-3-2",
+    "title": "4.3.2  Kết quả kiểm nghiệm và đánh giá phần động cơ",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1388,
+    "line_end": 1391,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-4-3-3",
+    "anchor": "muc-4-3-3",
+    "title": "4.3.3  Bảo dưỡng trạm bơm nước chữa cháy",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CQXD",
+    "line_start": 1394,
+    "line_end": 1399,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-5",
+    "anchor": "muc-5",
+    "title": "5  QUY ĐỊNH VỀ QUẢN LÝ",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1402,
+    "line_end": 1403,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-5-1",
+    "anchor": "muc-5-1",
+    "title": "5.1  Chủ đầu tư có trách nhiệm: Lập thiết kế, tổ chức thi công, kiểm tra, giám sát thi công theo đúng thiết kế về phòng cháy và chữa cháy đã được thẩm duyệt; thực hiện kiểm tra, bảo dưỡng theo quy định cho trạm bơm nước chữa cháy theo quy định. Đồng thời phải lưu giữ đầy đủ hồ sơ, phiếu kết quả kiểm tra bảo dưỡng, vận hành định kỳ để xuất trình khi cơ quan có thẩm quyền yêu cầu.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1406,
+    "line_end": 1407,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-5-2",
+    "anchor": "muc-5-2",
+    "title": "5.2  Việc lập thiết kế, thi công, kiểm tra, bảo trì, bảo dưỡng và vận hành trạm bơm nước chữa cháy phải do đơn vị có đủ năng lực và tư cách pháp nhân theo quy định của Chính phủ thực hiện.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1410,
+    "line_end": 1411,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-5-3",
+    "anchor": "muc-5-3",
+    "title": "5.3  Trạm bơm nước chữa cháy phải được công bố hợp quy, phù hợp Quy chuẩn này theo Phương thức 8 “Thử nghiệm hoặc kiểm định toàn bộ sản phẩm, hàng hóa” quy định tại Thông tư số 28/2012/TT-BKHCN ngày 12/12/2012 của Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật và Thông tư số 02/2017/TT-BKHCN ngày 31/3/2017 của Bộ Khoa học và Công nghệ sửa đổi, bổ sung một số điều của Thông tư số 28/2012/TT-BKHCN ngày 12/12/2012 của Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1414,
+    "line_end": 1415,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-5-4",
+    "anchor": "muc-5-4",
+    "title": "5.4  Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và Công an cấp tỉnh là cơ quan thực hiện việc tiếp nhận hồ sơ kiểm định phương tiện về phòng cháy và chữa cháy theo quy định của pháp luật.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1418,
+    "line_end": 1419,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-5-5",
+    "anchor": "muc-5-5",
+    "title": "5.5  Các cơ quan quản lý nhà nước về xây dựng chịu trách nhiệm tổ chức kiểm tra, thanh tra việc thực hiện Quy chuẩn này trong hoạt động thiết kế, thẩm tra thiết kế, xây dựng, nghiệm thu đưa công trình vào sử dụng và bảo trì theo quy định của pháp luật hiện hành.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1422,
+    "line_end": 1423,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-5-6",
+    "anchor": "muc-5-6",
+    "title": "5.6  Điều kiện chuyển tiếp",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1426,
+    "line_end": 1427,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-5-6-1",
+    "anchor": "muc-5-6-1",
+    "title": "5.6.1  Trạm bơm nước chữa cháy đã được thi công lắp đặt và nghiệm thu đưa vào sử dụng trước ngày hiệu lực của quy chuẩn này thì không bắt buộc áp dụng các quy định tại Mục 2, Mục 3 của Quy chuẩn này.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1430,
+    "line_end": 1431,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-5-6-2",
+    "anchor": "muc-5-6-2",
+    "title": "5.6.2  Trạm bơm nước chữa cháy đã được cơ quan Cảnh sát phòng cháy và chữa cháy thẩm duyệt về phòng cháy, chữa cháy nhưng chưa xây dựng, lắp đặt, nếu không phù hợp với quy định trong Quy chuẩn này thì căn cứ vào tình hình thực tế, chủ đầu tư thực hiện các giải pháp điều chỉnh phù hợp với Quy chuẩn này theo hướng dẫn của cơ quan Cảnh sát phòng cháy và chữa cháy trước khi xây dựng, lắp đặt và nghiệm thu theo quy định.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1434,
+    "line_end": 1435,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-6",
+    "anchor": "muc-6",
+    "title": "6  TỔ CHỨC THỰC HIỆN",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1438,
+    "line_end": 1439,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-6-1",
+    "anchor": "muc-6-1",
+    "title": "6.1  Thủ trưởng các tổ chức liên quan có trách nhiệm phổ biến Quy chuẩn này đến các đơn vị liên quan và các nhân viên dưới quyền để thực hiện;",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1442,
+    "line_end": 1443,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-6-2",
+    "anchor": "muc-6-2",
+    "title": "6.2  Trong quá trình thực hiện Quy chuẩn này, nếu có khó khăn, vướng mắc, cơ quan, tổ chức, cá nhân báo cáo về Bộ Công an (qua Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ) để có hướng dẫn kịp thời.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1446,
+    "line_end": 1447,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "muc-6-3",
+    "anchor": "muc-6-3",
+    "title": "6.3  Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ chủ trì, phối hợp với các cơ quan có liên quan kiểm tra việc thực hiện Quy chuẩn này./.",
+    "source_file": "qcvn_02_2020_bca.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 1450,
+    "line_end": 1454,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "phu-luc-a",
+    "anchor": "phu-luc-a",
+    "title": "PHỤ LỤC A — Kích thước tối thiểu của thiết bị, phụ kiện trạm bơm nước chữa cháy",
+    "source_file": "annexes/phu_luc_a_kich_thuoc_toi_thieu_cua_thiet_bi_phu_kien_tr.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-a",
+    "anchor": "bang-bang-phu-luc-a",
+    "title": "Bảng Phụ lục A",
+    "source_file": "annexes/phu_luc_a_kich_thuoc_toi_thieu_cua_thiet_bi_phu_kien_tr.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 15,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "phu-luc-b",
+    "anchor": "phu-luc-b",
+    "title": "PHỤ LỤC B — Công tác kiểm tra và bảo dưỡng máy bơm nước chữa cháy",
+    "source_file": "annexes/phu_luc_b_cong_tac_kiem_tra_va_bao_duong_may_bom_nuoc_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 2,
+    "line_end": 3,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-b",
+    "anchor": "bang-bang-phu-luc-b",
+    "title": "Bảng Phụ lục B",
+    "source_file": "annexes/phu_luc_b_cong_tac_kiem_tra_va_bao_duong_may_bom_nuoc_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 6,
+    "line_end": 25,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-b-2",
+    "anchor": "bang-bang-phu-luc-b-2",
+    "title": "Bảng Phụ lục B (Phần 2)",
+    "source_file": "annexes/phu_luc_b_cong_tac_kiem_tra_va_bao_duong_may_bom_nuoc_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 28,
+    "line_end": 51,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-b-3",
+    "anchor": "bang-bang-phu-luc-b-3",
+    "title": "Bảng Phụ lục B (Phần 3)",
+    "source_file": "annexes/phu_luc_b_cong_tac_kiem_tra_va_bao_duong_may_bom_nuoc_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 54,
+    "line_end": 81,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "bang-bang-phu-luc-b-4",
+    "anchor": "bang-bang-phu-luc-b-4",
+    "title": "Bảng Phụ lục B (Phần 4)",
+    "source_file": "annexes/phu_luc_b_cong_tac_kiem_tra_va_bao_duong_may_bom_nuoc_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 84,
+    "line_end": 103,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "phu-luc-b-muc-1",
+    "anchor": "phu-luc-b-muc-1",
+    "title": "1  QUY ĐỊNH CHUNG",
+    "source_file": "annexes/phu_luc_b_cong_tac_kiem_tra_va_bao_duong_may_bom_nuoc_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 106,
+    "line_end": 107,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "phu-luc-b-muc-2",
+    "anchor": "phu-luc-b-muc-2",
+    "title": "2  THIẾT KẾ, LẮP ĐẶT TRẠM BƠM NƯỚC CHỮA CHÁY",
+    "source_file": "annexes/phu_luc_b_cong_tac_kiem_tra_va_bao_duong_may_bom_nuoc_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 110,
+    "line_end": 111,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "phu-luc-b-muc-3",
+    "anchor": "phu-luc-b-muc-3",
+    "title": "3  VẬN HÀNH THỬ VÀ NGHIỆM THU BƠM NƯỚC CHỮA CHÁY",
+    "source_file": "annexes/phu_luc_b_cong_tac_kiem_tra_va_bao_duong_may_bom_nuoc_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 114,
+    "line_end": 115,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "phu-luc-b-muc-4",
+    "anchor": "phu-luc-b-muc-4",
+    "title": "4  KIỂM TRA, BẢO DƯỠNG TRẠM BƠM NƯỚC CHỮA CHÁY",
+    "source_file": "annexes/phu_luc_b_cong_tac_kiem_tra_va_bao_duong_may_bom_nuoc_c.md",
+    "jurisdiction": "CQXD",
+    "line_start": 118,
+    "line_end": 119,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "phu-luc-b-muc-5",
+    "anchor": "phu-luc-b-muc-5",
+    "title": "5  QUY ĐỊNH VỀ QUẢN LÝ",
+    "source_file": "annexes/phu_luc_b_cong_tac_kiem_tra_va_bao_duong_may_bom_nuoc_c.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 122,
+    "line_end": 123,
+    "cong_bao_number": "Đang cập nhật"
+  },
+  {
+    "clause_id": "phu-luc-b-muc-6",
+    "anchor": "phu-luc-b-muc-6",
+    "title": "6  TỔ CHỨC THỰC HIỆN",
+    "source_file": "annexes/phu_luc_b_cong_tac_kiem_tra_va_bao_duong_may_bom_nuoc_c.md",
+    "jurisdiction": "CONG_AN",
+    "line_start": 126,
+    "line_end": 127,
+    "cong_bao_number": "Đang cập nhật"
+  }
+]
