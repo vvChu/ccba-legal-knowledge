@@ -21,3 +21,16 @@ converter_version: 0.4.0
 schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-10-03T10:37:24+00:00'
 pdf_origin: official_vector_pdf
+bundle_path: legal_docs/02_qcvn/qcvn_02_2020_bca/
+source_file: legal_docs/02_qcvn/qcvn_02_2020_bca/sources/qcvn_02_2020_bca.docx
+sha256: 54d5fe7f7b96e344393f8b02ca8a49bc8d997df315574c443209a3b5eb7b7155
+cong_bao_number: Đang cập nhật
+source_assets:
+  docx:
+    sha256: 54d5fe7f7b96e344393f8b02ca8a49bc8d997df315574c443209a3b5eb7b7155
+    status: verified
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2020_bca/qcvn_02_2020_bca.docx
+  pdf:
+    sha256: 4a3da1f3731afa58741b02600a2f747e0629f6320c8458052249c436d9c8fd6f
+    status: verified
+    vault_path: CCBA_Legal_Vault/02_qcvn/qcvn_02_2020_bca/qcvn_02_2020_bca.pdf

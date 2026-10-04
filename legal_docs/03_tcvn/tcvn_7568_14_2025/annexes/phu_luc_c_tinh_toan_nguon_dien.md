@@ -89,43 +89,8 @@ dòng diện đang định với tải trọng tĩnh
 <a id="muc-c-2-3"></a>
 ### C.2.3  Dòng điện nạp nhỏ nhất lC được tính toán theo công thức C.2.
 
-(
-
-) (
-
-)
-
-
-
-
-
-5,
-
-,1
-
-
-
-+
-
-
-
-=
-
-A
-
-Q
-
-C
-
-I
-
-I
-
-I
-
-
 <a id="formula-c_2"></a>
-$$\dots \qquad (C.2)$$
+$$I_C = \frac{1{,}25[(I_Q \times 5) + (I_A \times 0{,}5)]}{24} \qquad (C.2)$$
 <!-- formula_id: "F_TCVN_7568_14_2025_FORMULA_C_2" -->
 
 Trong đó:

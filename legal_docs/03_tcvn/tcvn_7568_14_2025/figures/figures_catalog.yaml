@@ -1,16 +1,8 @@
 schema_version: '2.4'
 okf_spec: v2.4 Universal
 standard: TCVN 7568 14 2025
-total_figures: 13
+total_figures: 10
 figures:
-- figure_id: FIG_1
-  slug: '1'
-  tag: '1'
-  title: Ví dụ về sự phân bố vùng phát hiện cháy cho các khu vực tiếp giáp và không
-  annex: MAIN
-  anchor: hinh-1
-  image_relpath: figures/images/hinh_1.png
-  has_image: true
 - figure_id: FIG_1
   slug: '1'
   tag: '1'
@@ -60,15 +52,6 @@ figures:
   anchor: hinh-6
   image_relpath: figures/images/hinh_6.png
   has_image: true
-- figure_id: FIG_6
-  slug: '6'
-  tag: '6'
-  title: Ví dụ về các vị trí của đầu báo cháy khói kiểu điểm, tia chiếu và đầu báo
-    cháy
-  annex: A
-  anchor: hinh-6
-  image_relpath: figures/images/hinh_6.png
-  has_image: true
 - figure_id: FIG_7
   slug: '7'
   tag: '7'
@@ -84,15 +67,6 @@ figures:
   annex: A
   anchor: hinh-8
   image_relpath: figures/images/hinh_8.png
-  has_image: true
-- figure_id: FIG_9
-  slug: '9'
-  tag: '9'
-  title: Ví dụ về các vị trí của đầu báo cháy nhiệt kiểu dây tại trần, mái hoặc các
-    đỉnh
-  annex: A
-  anchor: hinh-9
-  image_relpath: figures/images/hinh_9.png
   has_image: true
 - figure_id: FIG_9
   slug: '9'

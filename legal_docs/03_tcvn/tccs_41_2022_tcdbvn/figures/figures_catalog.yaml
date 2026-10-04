@@ -1,7 +1,7 @@
 schema_version: '2.4'
 okf_spec: v2.4 Universal
 standard: TCCS 41 2022 TCDBVN
-total_figures: 23
+total_figures: 22
 figures:
 - figure_id: FIG_1
   slug: '1'
@@ -50,14 +50,6 @@ figures:
   annex: A
   anchor: hinh-a_2
   image_relpath: figures/images/hinh_a_2.png
-  has_image: true
-- figure_id: FIG_B_1
-  slug: b_1
-  tag: B.1
-  title: Toán đồ Osterberg
-  annex: B
-  anchor: hinh-b_1
-  image_relpath: figures/images/hinh_b_1.png
   has_image: true
 - figure_id: FIG_B_1
   slug: b_1
