@@ -17,6 +17,9 @@ requirements-hub.txt
 
 # CCBA Agent Platform - Whitelist selected configs (skills is local only and git-ignored)
 .agents/*
+!.agents/skills/
+.agents/skills/*
+!.agents/skills/ccba-verify-legal-knowledge/
 !.agents/workflows/
 !.agents/workflows/*.bak
 !.agents/proposals/
@@ -83,3 +86,6 @@ legal_docs/**/*.doc
 # Pre-computed Embedding Cache (ADR 0060)
 *.npy
 *.npy.sha256
+
+# Hub auto-generated editable links & Spoke Leakage Guard (ADR 0045)
+.md/peer_exchange/.bridge_cache.json

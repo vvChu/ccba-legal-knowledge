@@ -13,6 +13,7 @@ agent_skills:
 - ccba-legal-intel
 - form-template-cleaner
 - table-reconstructor
+- ccba-verify-legal-knowledge
 agents:
   language: vi
   primary_domain: legal-standards
