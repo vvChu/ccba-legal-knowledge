@@ -1,67 +1,82 @@
-# Walkthrough: Phát Hành Tính Năng PR #30 (Số Hóa 6 Tiêu Chuẩn PCCC & Đường Đất Yếu, Cài Đặt Maskara Guardrail, Spoke Đạt 96 Bundles)
+# Walkthrough: Phát Hành Tính Năng PR #32 (Triển Khai Pstack Verification Harness, Features Map & Hiện Đại Hóa Ma Trận 6 CI Gates)
 
-> **Mục tiêu:** Số hóa, bóc tách và đóng gói hoàn thiện 6 tiêu chuẩn quy phạm trọng yếu về PCCC và thiết kế đường ô tô trên nền đất yếu/mặt đường BTXM; tích hợp client-side security guardrail `ccba-maskara` (pre-commit hook); đồng bộ 100% tài sản nhị phân lên `CCBA_Legal_Vault`; và giải quyết triệt để 6/6 phát hiện từ Copilot Review.
+> **Mục tiêu:** Thiết lập bộ công cụ kiểm định Pstack 5 khối (`ccba-verify-legal-knowledge`) tuân thủ chuẩn mực ADR-0009/ADR-0044/ADR-0066; lập bản đồ 9 tính năng quy phạm trong `features/INDEX.md` kèm quy tắc COND-01; tham vấn phản biện song phương với Grok-4.7; và tái cấu trúc CI GitHub Actions từ 1 job nguyên khối thành ma trận 5 cổng song song kèm Master Aggregator Gate ("Deterministic Parity & Schema Audit") giải quyết triệt để GitHub Ruleset #23696513.
 > **Trạng thái:** ✅ **MERGED VÀO MAIN**
-> - **PR #30:** [vvChu/ccba-legal-knowledge#30](https://github.com/vvChu/ccba-legal-knowledge/pull/30)
-> **CI Gate:** 100% Green (Master CI Gates PASSED, 0 Errors, 1 Telemetry Warning, 1038 Markdown Files 100% Visual Parity)
+> - **PR #32:** [vvChu/ccba-legal-knowledge#32](https://github.com/vvChu/ccba-legal-knowledge/pull/32)
+> - **Merge Commit:** `7920331` (Squash and merge)
+> **CI Gate:** 100% Green (6/6 Checks Passed, 0 Errors, 0 Warnings, 100% Parity)
 
 ---
 
-## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (PR #30)
+## 1. Chi Tiết Các Thay Đổi & Thành Quả Phát Hành (PR #32)
 
-### A. Số Hóa Toàn Diện 6 Tiêu Chuẩn & Quy Chuẩn Trọng Yếu
-1. **`QCVN 02:2020/BCA`** (`legal_docs/02_qcvn/qcvn_02_2020_bca/`):
-   - Quy chuẩn kỹ thuật quốc gia về Trạm bơm nước chữa cháy.
-   - 235 điều khoản AST, 6 bảng dữ liệu 2D tra cứu trong `tables/`, 235 QA benchmark pairs, đầy đủ provenance metadata.
-2. **`TCVN 13456:2022`** (`legal_docs/03_tcvn/tcvn_13456_2022/`):
-   - Phương tiện chiếu sáng sự cố và chỉ dẫn thoát nạn — Yêu cầu thiết kế, lắp đặt.
-   - 46 điều khoản AST, 1 bảng tra cứu 2D, 8 thẻ thị giác tham số hóa (`figures/cards/hinh_{1..a_8}.md`), 46 QA pairs.
-3. **`TCVN 6379:2024`** (`legal_docs/03_tcvn/tcvn_6379_2024/`):
-   - Thiết bị chữa cháy — Trụ nước chữa cháy — Yêu cầu kỹ thuật.
-   - 57 điều khoản AST, 2 bảng 2D, 5 thẻ thị giác cấu tạo trụ nổi/ngầm/hố van (`figures/cards/hinh_{a_1..d_1}.md`), 57 QA pairs.
-4. **`TCVN 7568-14:2025`** (`legal_docs/03_tcvn/tcvn_7568_14_2025/`):
-   - Hệ thống báo cháy — Phần 14: Thiết kế, lắp đặt hệ thống báo cháy cho nhà và công trình (thay thế TCVN 7568-14:2015 & TCVN 5738:2021).
-   - 179 điều khoản AST, 2 bảng 2D, 10 thẻ thị giác sơ đồ bố trí (`figures/cards/hinh_{1..10}.md`), 3 phụ lục kỹ thuật quy phạm (`annexes/`), 179 QA pairs.
-5. **`TCCS 41:2022/TCĐBVN`** (`legal_docs/03_tcvn/tccs_41_2022_tcdbvn/`):
-   - Khảo sát, thiết kế nền đường ô tô trên nền đất yếu.
-   - 81 điều khoản AST, 22 thẻ thị giác sơ đồ & toán đồ Osterberg/PVD (`figures/cards/hinh_{1..e_9}.md`), 81 QA pairs.
-6. **`TCCS 39:2022/TCĐBVN`** (`legal_docs/03_tcvn/tccs_39_2022_tcdbvn/`):
-   - Thiết kế mặt đường bê tông xi măng thông thường có khe nối trong xây dựng công trình giao thông.
-   - 14 điều khoản AST, 13 thẻ thị giác cấu tạo khe nối và bố trí thép (`figures/cards/hinh_{1..13}.md`), 14 QA pairs.
+### A. Triển Khai Pstack 5-Block Verification Harness (`ccba-verify-legal-knowledge`)
+- **Kiến trúc Pstack 5 khối độc lập**:
+  1. **Block 1 — Clean-Slate Pre-flight**: Dọn dẹp triệt để tiến trình mồ côi, kiểm tra tính sẵn sàng của port, tệp tin và môi trường cô lập trước khi chạy.
+  2. **Block 2 — Dual-Mode Process Lifecycle**: Tương thích đa nền tảng hoàn toàn giữa POSIX (`os.setsid`) và Windows (`CREATE_NEW_PROCESS_GROUP`), quản lý vòng đời tiến trình kiểm định chặt chẽ.
+  3. **Block 3 — Deterministic Health Barrier**: Cơ chế rào chắn xác định với độ trễ tối thiểu ($0.087\text{ s}$), đảm bảo dịch vụ sẵn sàng trước khi nạp bài test.
+  4. **Block 4 — Evidence-Capture Suite**: Hỗ trợ 4 chế độ thu thập bằng chứng kiểm định (`snapshot`, `coverage`, `performance`, `full`) phục vụ truy vết lỗi và nghiệm thu.
+  5. **Block 5 — Guaranteed Cleanup**: Khối dọn dẹp tất định cưỡng chế kết thúc tiến trình sau khi kiểm định, hỗ trợ per-step timeout $300.0\text{ s}$ chống treo vĩnh viễn.
+- **Chuẩn hóa Metadata kỹ năng theo ADR-0066 / ADR-0057**:
+  - `bundle: _core`, `scope: spoke`.
+  - Chỉ số giá trị kỹ năng: $\mathbf{GPI} = 2.5S + 2.0K + 2.0A - 1.5P = 24.0 \ge 12.0$ (Đạt chuẩn Tier 2B Standalone Skill).
 
-### B. Cài Đặt Client-Side Guardrail: CCBA Maskara Pre-Commit Hook
-- **Cấu hình Hook**: Cài đặt `.githooks/pre-commit` kích hoạt `python -m ccba_maskara.cli scan --staged` trước mỗi commit.
-- **Git Attributes**: Thiết lập `.gitattributes` (`.githooks/* text eol=lf`) để đảm bảo tính tất định trên cả Linux và Windows.
-- **Bảo mật tuyệt đối**: Tự động phát hiện và chặn các rò rỉ API key, credentials, private key trên các tệp staged.
+### B. Lập Bản Đồ Tính Năng Quy Phạm (`features/INDEX.md`)
+- **Bản đồ 9 tính năng cốt lõi**:
+  - `FEAT-001`: Tra cứu & kiểm định tính toàn vẹn Sổ bộ Quy chuẩn / Tiêu chuẩn (`legal_registry.yaml`).
+  - `FEAT-002`: AST Clause Extraction & Zero-LLM Paraphrase Invariant.
+  - `FEAT-003`: 2D Table Knowledge Extraction & Grid Regularity.
+  - `FEAT-004`: Atomic Form Templates (`templates/`).
+  - `FEAT-005`: High-Resolution Multimodal Vector Diagrams & SVG/Cards Integrity.
+  - `FEAT-006`: KaTeX Math Syntax Integrity.
+  - `FEAT-007`: In-Bundle Comparative Matrix & VBHN Consolidation.
+  - `FEAT-008`: Tri-Tier Cloud Binary Vault & Provenance Tracking.
+  - `FEAT-009`: Shift-Left Verification & 15-Gate Master CI Gate.
+- **Rào chắn chống gian lận COND-01**: Cấm mọi hành vi mock dữ liệu, bỏ qua bước kiểm tra hoặc hạ ngưỡng chấp nhận.
 
-### C. Đồng Bộ Tri-Tier Cloud Vault (ADR 0035)
-- Đồng bộ thành công 18 tệp nhị phân nguồn (`.pdf`, `.docx`, `_raw_scan.pdf`) của cả 6 tiêu chuẩn lên Google Drive Vault `gdrive:CCBA_Legal_Vault`.
+### C. Tham Vấn Đối Soát Peer Review Song Phương Với Grok-4.7
+- **Đánh giá Harness Pstack**: `.md/peer_exchange/grok_review_legal_spoke_verification_harness.md` (Kết luận: `APPROVE_WITH_CONDITIONS`, điểm rủi ro: 2/10).
+- **Đánh giá Kiến trúc Ma trận CI**: `.md/peer_exchange/grok_review_ci_granularity_matrix.md` (Kết luận: `APPROVE_WITH_CONDITIONS`, điểm rủi ro: 2/10).
+- **Ghi nhận & tiếp thu**: Bổ sung per-step timeout $300.0\text{ s}$, thiết lập umbrella aggregation gate chống rò rỉ trạng thái kiểm định.
 
-### D. Giải Quyết Triệt Để 6/6 Góp Ý Từ Copilot Code Review
-- **Review ID**: `PRR_kwDOT56haM8AAAABQicr9Q` (Copilot Pull Request Reviewer).
-- **Trạng thái**: ✅ **100% RESOLVED**
-  1. *Roadmap KPI regression (Comment #4172969397)*: Cập nhật `registry_summary.total_documents: 96` trong `legal_registry.yaml` và đồng bộ lại `expansion_roadmap.md` đạt chính xác 96 bundles.
-  2. *QCVN 02 missing metadata (Comment #4172969407)*: Bổ sung đầy đủ `bundle_path`, `source_file`, `sha256`, `cong_bao_number`, `source_assets` vào `qcvn_02_2020_bca/metadata.yaml`.
-  3. *TCCS 39 incorrect jurisdiction (Comment #4172969414)*: Sửa nhãn jurisdiction từ `CONG_AN` thành `CQXD` cho các điều khoản tính toán tải trọng xe/kiểm toán.
-  4. *TCCS 41 duplicate FIG_B_1 (Comment #4172969426)*: Khử trùng lặp entry `FIG_B_1` trong `figures_catalog.yaml` và cập nhật `total_figures: 22`.
-  5. *TCVN 7568-14 duplicate figures (Comment #4172969437)*: Khử trùng lặp các thẻ `FIG_1`, `FIG_6`, `FIG_9` trong `figures_catalog.yaml` và cập nhật `total_figures: 10`.
-  6. *TCVN 7568-14 missing formula C.2 (Comment #4176557868)*: Khử bỏ toàn bộ chuỗi ký tự rác OCR và cập nhật công thức KaTeX chuẩn mực $I_C = \frac{1{,}25[(I_Q \times 5) + (I_A \times 0{,}5)]}{24} \qquad (C.2)$ vào phụ lục C.
+### D. Tái Cấu Trúc & Hiện Đại Hóa Ma Trận 6 Cổng CI GitHub Actions
+- **Chuyển đổi từ 1 Job nguyên khối sang Ma trận 5 cổng song song**:
+  1. `security-secrets-gate`: Quét bảo mật toàn diện với `ccba-maskara` (cài đặt trực tiếp từ Hub Git repository).
+  2. `spoke-cleanliness-gate`: Giám sát vệ sinh Spoke và ngân sách nghiêm ngặt $15/15$ scripts tại `scripts/`.
+  3. `skills-governance-gate`: Kiểm tra tính hợp lệ của metadata kỹ năng theo ADR-0066 / ADR-0057 thông qua inline Python AST checker.
+  4. `pstack-verification-gate`: Chạy bộ kiểm tra tự động của harness `ccba-verify-legal-knowledge`.
+  5. `legal-knowledge-gates`: Chạy toàn bộ 15 Cổng kiểm định văn bản pháp lý Master CI (`validate_legal_spoke.py`).
+- **Master Aggregator Gate (`Deterministic Parity & Schema Audit`)**:
+  - Thu thập kết quả từ cả 5 cổng song song với `needs: [...]` và `if: always()`.
+  - Khớp $1:1$ với Required Status Check của GitHub Ruleset `#23696513`, loại bỏ triệt để tình trạng check bị pending/treo vĩnh viễn mà không cần can thiệp quyền Admin repo.
 
 ---
 
 ## 2. Ma Trận Nghiệm Thu Kiểm Định (Verification Matrix)
 
-| Cổng Kiểm Định | Môi Trường | Lệnh Kiểm Tra | Kết Quả | Trạng Thái |
+| Cổng Kiểm Định | Loại Kiểm Tra | Lệnh Thực Thi / Workflow | Kết Quả | Trạng Thái |
 | :--- | :--- | :--- | :---: | :---: |
-| **Shift-Left Local Gate** | Local Spoke | `python scripts/validate_legal_spoke.py` | **15/15 Gates Passed (0 Errors, 1 Telemetry Warning)** | ✅ **PASSED** |
-| **Visual Parity Gate** | Local Spoke | `python scripts/lint_visual_parity.py` | **1,038 files scanned, 0 errors (100% Parity)** | ✅ **PASSED** |
-| **Security Maskara Gate** | Local Spoke | `python -m ccba_maskara.cli scan --staged` | **Zero secret leaks** | ✅ **PASSED** |
-| **GitHub Actions CI** | Remote PR #30 | `CCBA Legal Knowledge Spoke CI Gates` | **Passed (22s)** | ✅ **PASSED** |
-| **Copilot Review Audit** | Remote PR #30 | `gh api repos/vvChu/ccba-legal-knowledge/pulls/30/comments` | **6/6 findings resolved** | ✅ **PASSED** |
+| **Maskara Secret Gate** | Bảo mật mã nguồn | `python -m ccba_maskara.cli scan --staged` / CI | **0 secret leaks** | ✅ **PASSED** |
+| **Cleanliness & Budget** | Vệ sinh Spoke | `python scripts/check_spoke_cleanliness.py` | **15/15 scripts budget, Clean** | ✅ **PASSED** |
+| **Skills Governance** | Metadata Governance | Inline Python AST (ADR-0066/ADR-0057) | **100% Valid, GPI = 24.0** | ✅ **PASSED** |
+| **Pstack Verification** | Harness Unit Test | `python -m unittest discover` | **All tests passed** | ✅ **PASSED** |
+| **Master Legal CI Gates**| Pháp lý OKF v2.4 | `python scripts/validate_legal_spoke.py` | **15/15 Gates Passed** | ✅ **PASSED** |
+| **Master Aggregator Gate**| GitHub Ruleset #23696513 | `Deterministic Parity & Schema Audit` | **Aggregated 5/5 sub-gates (3s)** | ✅ **PASSED** |
 
 ---
 
 ## 3. Lịch Sử Phát Hành Tiền Nhiệm
+
+<details>
+<summary>Nhấn để xem chi tiết PR #30 (Phát hành ngày 2026-10-05)</summary>
+
+### PR #30: Số Hóa 6 Tiêu Chuẩn PCCC & Đường Đất Yếu, Cài Đặt Maskara Guardrail, Spoke Đạt 96 Bundles
+- **Số hóa toàn diện 6 tiêu chuẩn**: `QCVN 02:2020/BCA`, `TCVN 13456:2022`, `TCVN 6379:2024`, `TCVN 7568-14:2025`, `TCCS 41:2022/TCĐBVN`, `TCCS 39:2022/TCĐBVN`.
+- **Cài đặt Client-Side Guardrail**: Cài đặt `.githooks/pre-commit` kích hoạt `ccba-maskara` trước mỗi commit.
+- **Đồng bộ Tri-Tier Cloud Vault**: 18 tệp nhị phân nguồn lên Google Drive Vault `gdrive:CCBA_Legal_Vault`.
+- **Giải quyết triệt để 6/6 góp ý từ Copilot Code Review**.
+
+</details>
 
 <details>
 <summary>Nhấn để xem chi tiết PR #21 (Phát hành ngày 2026-10-03)</summary>
