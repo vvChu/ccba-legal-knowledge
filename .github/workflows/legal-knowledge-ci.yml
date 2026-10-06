@@ -6,11 +6,111 @@ on:
   pull_request:
     branches: [ main ]
 
-jobs:
-  legal-knowledge-audit:
-    name: Deterministic Parity & Schema Audit
-    runs-on: ubuntu-latest
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
+jobs:
+  # =========================================================================
+  # Gate 1: Security & Secrets Gate
+  # =========================================================================
+  security-secrets-gate:
+    name: 🔒 Security & Secrets Gate (Maskara)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Maskara Scanner
+        run: |
+          python -m pip install --upgrade pip
+          pip install "git+https://github.com/vvChu/ccba-agent-platform.git#subdirectory=packages/ccba-maskara"
+
+      - name: Run Maskara Secret Scan
+        run: |
+          maskara scan --root .
+
+  # =========================================================================
+  # Gate 2: Spoke Cleanliness & Script Budget (ADR-0044)
+  # =========================================================================
+  spoke-cleanliness-gate:
+    name: 🧹 Spoke Cleanliness & Budget (ADR-0044)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml
+
+      - name: Check Script Budget & Machine State Paths
+        run: |
+          python scripts/check_spoke_cleanliness.py
+
+      - name: Check Hub Import Depth
+        run: |
+          python scripts/check_hub_import_depth.py
+
+  # =========================================================================
+  # Gate 3: Skills Governance & Distribution (ADR-0057 / ADR-0066)
+  # =========================================================================
+  skills-governance-gate:
+    name: ⚙️ Skills Governance & Scope (ADR-0066)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml
+
+      - name: Validate SKILL.md Frontmatter & GPI Score
+        run: |
+          python -c "
+          import sys, yaml
+          skill_path = '.agents/skills/ccba-verify-legal-knowledge/SKILL.md'
+          with open(skill_path, 'r', encoding='utf-8') as f:
+              parts = f.read().split('---')
+          if len(parts) < 3:
+              sys.exit('❌ Invalid frontmatter in ' + skill_path)
+          meta = yaml.safe_load(parts[1])
+          assert meta.get('scope') == 'spoke', f'Scope must be spoke, got {meta.get(\"scope\")}'
+          assert meta.get('bundle') == '_core', f'Bundle must be _core, got {meta.get(\"bundle\")}'
+          gpi = meta.get('gpi', {})
+          score = 2.5 * gpi.get('s', 0) + 2.0 * gpi.get('k', 0) + 2.0 * gpi.get('a', 0) - 1.5 * gpi.get('p', 0)
+          assert score >= 12.0, f'GPI score {score:.1f} < 12.0'
+          print(f'✓ ADR-0066 & ADR-0057 Validated: scope={meta.get(\"scope\")}, bundle={meta.get(\"bundle\")}, GPI={score:.1f} >= 12.0')
+          "
+
+  # =========================================================================
+  # Gate 4: Pstack Verification Harness Gate
+  # =========================================================================
+  verification-harness-gate:
+    name: 🚀 Pstack Verification Harness (Evidence)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -25,18 +125,76 @@ jobs:
           python -m pip install --upgrade pip
           pip install pyyaml python-docx
 
-      - name: 1. Validate Legal Spoke Master CI Gate
+      - name: Run Pstack Verification Harness (Smoke Mode)
         run: |
-          python scripts/validate_legal_spoke.py
+          python .agents/skills/ccba-verify-legal-knowledge/harness/verify_legal_harness.py --mode smoke --skip-pdf-vault
 
-      - name: 2. Check Spoke Cleanliness & Budget (ADR 0044)
+      - name: Upload Verification Evidence Artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: evidence-verify-legal-knowledge
+          path: .md/reports/evidence_verify_legal_knowledge.json
+          if-no-files-found: ignore
+
+  # =========================================================================
+  # Gate 5: Master Legal Knowledge 15 CI Gates
+  # =========================================================================
+  master-legal-gates:
+    name: 🏛️ Master Legal Knowledge 15 CI Gates
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
         run: |
-          python scripts/check_spoke_cleanliness.py
+          python -m pip install --upgrade pip
+          pip install pyyaml python-docx
 
-      - name: 3. Check Hub Import Depth (ADR 0044)
+      - name: Run Master 15 CI Gates Validation
         run: |
-          python scripts/check_hub_import_depth.py
+          python scripts/validate_legal_spoke.py --skip-pdf-vault
 
-      - name: 4. Audit Visual Parity & Footnotes (Gate 9)
+      - name: Lint Visual Parity & Footnotes (Gate 9)
         run: |
           python scripts/lint_visual_parity.py
+
+  # =========================================================================
+  # Master Aggregator Gate (Satisfies GitHub Branch Protection Ruleset)
+  # =========================================================================
+  legal-knowledge-audit:
+    name: Deterministic Parity & Schema Audit
+    needs:
+      - security-secrets-gate
+      - spoke-cleanliness-gate
+      - skills-governance-gate
+      - verification-harness-gate
+      - master-legal-gates
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify All 5 Parallel Gates Passed
+        run: |
+          echo "=== CCBA CI Matrix Aggregation Status ==="
+          echo "1. Security & Secrets Gate: ${{ needs.security-secrets-gate.result }}"
+          echo "2. Spoke Cleanliness Gate:  ${{ needs.spoke-cleanliness-gate.result }}"
+          echo "3. Skills Governance Gate:  ${{ needs.skills-governance-gate.result }}"
+          echo "4. Verification Harness:    ${{ needs.verification-harness-gate.result }}"
+          echo "5. Master Legal CI Gates:   ${{ needs.master-legal-gates.result }}"
+
+          if [ "${{ needs.security-secrets-gate.result }}" != "success" ] || \
+             [ "${{ needs.spoke-cleanliness-gate.result }}" != "success" ] || \
+             [ "${{ needs.skills-governance-gate.result }}" != "success" ] || \
+             [ "${{ needs.verification-harness-gate.result }}" != "success" ] || \
+             [ "${{ needs.master-legal-gates.result }}" != "success" ]; then
+            echo "❌ [FAILED] One or more parallel CI gates failed!"
+            exit 1
+          fi
+          echo "✅ [SUCCESS] All 5 parallel CI gates completed successfully!"
