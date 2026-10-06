@@ -110,6 +110,16 @@ Tài liệu ghi nhận nhật ký đột biến, chuẩn hóa dữ liệu và ba
   - **Vá Lỗi Dữ Liệu Số & Khử Trùng Footnote (ADR 0041):** Sửa lỗi gộp nhầm dòng số liệu thành subheader trong `table_handler.py` (bảo toàn số liệu `50,50` tại Bảng 4 Phần 7); khử trùng footnote khi quét qua ô merge ngang (`gridSpan`).
   - **Nghiệm Thu Toàn Trình:** Vượt qua 4/4 Hub unit tests, 60/60 Golden Snapshot matches (`100% REGRESSION-FREE`), và 15/15 Master CI Gates với `0 Errors`.
 
+## [2026-10-06] [feat] | Pstack Verification Harness (ADR-0009/0044/0066), Features Map & CI Matrix Refactor
+- **Phạm vi:** Spoke `.agents/skills/ccba-verify-legal-knowledge/`, `features/INDEX.md`, `.github/workflows/legal-knowledge-ci.yml`, `.md/knowledge/reports/walkthrough.md`.
+- **Nội dung:**
+  - **Triển khai Pstack 5-Block Verification Harness (`ccba-verify-legal-knowledge`):** Thiết lập bộ công cụ kiểm định 5 khối (Clean-Slate Pre-flight, Dual-Mode Lifecycle `os.setsid`/Windows, Deterministic Health Barrier 0.087s, Evidence-Capture Suite 4 modes, Guaranteed Cleanup kèm per-step timeout 300s). Metadata chuẩn mực: `bundle: _core`, `scope: spoke`, $\mathbf{GPI}=24.0 \ge 12.0$.
+  - **Lập Bản Đồ 9 Tính Năng Quy Phạm (`features/INDEX.md`):** Chuẩn hóa FEAT-001 đến FEAT-009 kèm rào chắn COND-01 anti-tampering rules.
+  - **Song Phương Đối Soát Với Grok-4.7:** Hoàn thành 2 phiên peer review chuyên sâu với verdict `APPROVE_WITH_CONDITIONS`, điểm rủi ro $2/10$.
+  - **Tái Cấu Trúc Ma Trận 6 Cổng CI GitHub Actions:** Phân rã monolithic job thành 5 cổng song song (Maskara, Cleanliness & Budget, Skills Governance, Pstack Harness, Master 15 Gates) kết hợp Umbrella Master Aggregator Gate ("Deterministic Parity & Schema Audit") giải quyết triệt để GitHub Ruleset #23696513.
+  - **Nghiệm Thu Toàn Trình:** Squash & merge PR #32 và PR #33 vào `main`. 100% Green CI Gates.
+
+
 
 
 

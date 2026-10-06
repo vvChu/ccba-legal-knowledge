@@ -16,7 +16,7 @@
 | [ADR 0006](0006-legal-precedence-conflict-arbitration.md) | **Thứ Bậc Hiệu Lực Pháp Lý & Cơ Chế Phân Xử Xung Đột Trong AI QC Audits** | ✅ ACCEPTED | *Chưa có liên kết trực tiếp* |
 | [ADR 0007](0007-dual-layer-ci-verification-gate.md) | **Dual-Layer CI Verification Gate & Zero-Tolerance Quality Enforcement** | ✅ ACCEPTED | *Chưa có liên kết trực tiếp* |
 | [ADR 0008](0008-temporal-query-engine-point-in-time-auditing.md) | **Temporal Legal Query Engine & Point-in-Time Auditing Protocol** | ✅ ACCEPTED | *Chưa có liên kết trực tiếp* |
-| [ADR 0009](0009-ccba-legal-sdk-package-distribution.md) | **Phân Phối Tri Thức Pháp Lý Qua Monorepo Package `ccba-legal-sdk`** | ✅ ACCEPTED | `.agents/skills/ccba-code-review/SKILL.md`<br>`.agents/skills/ccba-create-verification-skill/SKILL.md`<br>`.agents/skills/ccba-verify-legal-knowledge/SKILL.md` |
+| [ADR 0009](0009-ccba-legal-sdk-package-distribution.md) | **Phân Phối Tri Thức Pháp Lý Qua Monorepo Package `ccba-legal-sdk`** | ✅ ACCEPTED | `.agents/skills/ccba-code-review/SKILL.md`<br>`.agents/skills/ccba-create-verification-skill/SKILL.md`<br>`.agents/skills/ccba-verify-legal-knowledge/SKILL.md`<br>`.md/knowledge/session_learnings.md` |
 | [ADR 0010](0010-four-layer-tvpl-vip-crawler-three-tier-fallback.md) | **Cơ Chế Cào TVPL 4 Lớp Tự Động Kết Hợp Đăng Nhập VIP Chrome CDP & Fallback 3 Tầng** | ✅ ACCEPTED | *Chưa có liên kết trực tiếp* |
 | [ADR 0011](0011-atomic-clause-rag-chunking-strategy.md) | **Atomic Clause RAG Chunking Strategy for Clause-Based Standards** | ✅ ACCEPTED | `CONTEXT.md` |
 | [ADR 0012](0012-clean-unified-notebooklm-ingestion-strategy.md) | **Clean Unified Repository Strategy for Google NotebookLM Ingestion** | ✅ ACCEPTED | `CONTEXT.md` |

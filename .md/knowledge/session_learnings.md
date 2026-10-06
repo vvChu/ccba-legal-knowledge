@@ -1,25 +1,24 @@
 # 🧠 CCBA Legal Knowledge Spoke: Active Architectural Invariants (Compacted Working Memory)
 
-> **Phạm vi áp dụng:** Spoke Tri thức Pháp lý (`ccba-legal-knowledge`)
-> **Tiêu chuẩn:** OKF v2.4 Universal Agent-Centric, ADR 0021, 0029, 0030, 0031, 0035, 0036, 0037, 0038, 0039, 0040, 0041, 0042, 0043, 0044, 0058, 0059.
-> **Tra cứu Chi tiết Lịch sử & Đầy đủ 53 Bài Học:** [session_learnings_history.md](archive/session_learnings_history.md) | Ngân sách bộ nhớ: $\le 10\text{ KB}$
+> **Phạm vi:** Spoke Tri thức Pháp lý (`ccba-legal-knowledge`) | **Chuẩn:** OKF v2.4 (ADR 0021-0066)
+> **Chi tiết Lịch sử 53 Bài Học:** [session_learnings_history.md](archive/session_learnings_history.md) | Ngân sách: $\le 10\text{ KB}$
 
 ---
 
 ## Miền 1. 🌐 Thu Thập & Xác Thực Nguồn Gốc Pháp Lý (Acquisition, Ingestion & Provenance)
 
 - **RULE-1.1 [TVPL VIP 3-Tier Download Priority — ADR 0031 & ADR 0035]**:
-  - *Tier 1 (`part=-100`)*: VIP Digital Vector PDF (Mỏ neo pháp lý tối thượng, độ nét 100%, zero-OCR).
-  - *Tier 2 (`part=-1&docx=1`)*: VIP OpenXML Word Document (Nguồn dữ liệu gốc vàng nạp vào `docx_converter.py`).
+  - *Tier 1 (`part=-100`)*: VIP Digital Vector PDF (Mỏ neo pháp lý tối thượng, zero-OCR).
+  - *Tier 2 (`part=-1&docx=1`)*: VIP OpenXML Word Document (Nguồn dữ liệu gốc vàng nạp `docx_converter.py`).
   - *Tier 3 (`part=0`)*: Gazette Scan PDF (Bản scan Công báo dự phòng).
 - **RULE-1.2 [Giao Thức Một Cửa `tab=7` & Chromium VIP Session — ADR 0031]**:
-  - Sử dụng Chromium CDP trên cổng `9222` độc lập với profile `~/.gemini/antigravity/chrome_vip`. Toàn bộ thao tác tải file DOCX/PDF bắt buộc đi qua giao thức `tab=7` và API tham số hóa TVPL.
+  - Dùng Chromium CDP cổng `9222` với profile `~/.gemini/antigravity/chrome_vip`. Toàn bộ tải file DOCX/PDF đi qua giao thức `tab=7` và API TVPL.
 - **RULE-1.3 [Lưu Trữ Song Song Dual-PDF & Vault Drive — ADR 0043]**:
-  - Bản scan mờ lưu thành `sources/<slug>_raw_scan.pdf`. Bản Vector PDF kết xuất từ Word COM lưu thành `sources/<slug>.pdf` kèm cờ `pdf_origin: docx_vector_rendered` trong `metadata.yaml`. Đồng bộ cả 2 lên Google Drive Vault `CCBA_Legal_Vault`.
+  - Scan mờ lưu `sources/<slug>_raw_scan.pdf`. Vector PDF từ Word COM lưu `sources/<slug>.pdf` kèm cờ `pdf_origin: docx_vector_rendered` trong `metadata.yaml`. Đồng bộ cả 2 lên Google Drive Vault `CCBA_Legal_Vault`.
 - **RULE-1.4 [Chuẩn Hóa Đường Dẫn POSIX Toàn Cầu — ADR 0035 & ADR 0036]**:
-  - 100% đường dẫn trong `legal_registry.yaml` và bundle `metadata.yaml` (`bundle_path`, `pdf_path`, `raw_scan_pdf`, `source_file`, `vault_path`) BẮT BUỘC dùng dấu gạch chéo thuận POSIX `/`, nghiêm cấm tuyệt đối dấu gạch chéo ngược Windows `\`.
-  - Mọi pipeline nạp văn bản (`spoke_cli.py ingest`) bắt buộc tự động chuẩn hóa qua `.replace("\\", "/")`.
-  - Gate 1 và Gate 2 trong `validate_legal_spoke.py` tự động kích hoạt lỗi định dạng `Registry Format Error` / `OKF Metadata Format Error` nếu phát hiện ký tự `\`.
+  - 100% đường dẫn trong `legal_registry.yaml` và `metadata.yaml` BẮT BUỘC dùng dấu `/`, cấm tuyệt đối dấu Windows `\`.
+  - Mọi pipeline nạp văn bản (`spoke_cli.py ingest`) tự động chuẩn hóa qua `.replace("\\", "/")`.
+  - Gate 1 và Gate 2 trong `validate_legal_spoke.py` chặn ngay lập tức nếu phát hiện ký tự `\`.
 
 ---
 
@@ -78,3 +77,12 @@
   - Tiêu chuẩn nghiệm thu 100%: 0 Errors, 0 Warnings, 100% Visual Parity, 100% Verbatim Match, 100% Valid Links, 100% PDF SHA-256 Match, 100% SVG/Cards Integrity, 100% 2D Regularity, 100% KaTeX Math Integrity, 100% OKF Provenance Attestation.
 - **RULE-5.3 [Single-User Multi-Device & Machine-State Decoupling]**:
   - Khi clone Spoke về nhiều máy (Windows, Linux, WSL), CẤM commit đường dẫn ổ đĩa tuyệt đối vào `workspace_context.yaml`. Đường dẫn Hub cô lập qua biến môi trường `CCBA_HUB_PATH`.
+- **RULE-5.4 [Umbrella Master Aggregator Gate & Ruleset Alignment — ADR 0058 & ADR 0066]**:
+  - Khi phân rã CI nguyên khối thành ma trận các cổng song song (Parallel Gates), BẮT BUỘC duy trì một Master Aggregator Gate (`legal-knowledge-audit` khớp 1:1 với tên GitHub Ruleset yêu cầu, e.g. `"Deterministic Parity & Schema Audit"`) với `needs: [...]` và `if: always()`.
+  - Aggregator job tổng hợp trạng thái của mọi cổng thành phần trong $\approx 3\text{ s}$, thỏa mãn 100% Branch Protection Ruleset mà không cần quyền Admin can thiệp cài đặt nhánh.
+- **RULE-5.5 [Git Monorepo Subdirectory Install & Pip Cache Fallback trong CI]**:
+  - Khi CI tại Spoke phụ thuộc vào package nội bộ từ Hub monorepo (`ccba-maskara`), BẮT BUỘC cài đặt trực tiếp qua `git+https://github.com/vvChu/ccba-agent-platform.git#subdirectory=packages/<pkg>`.
+  - CẤM sử dụng `cache: 'pip'` trong `actions/setup-python@v5` khi repository không có `requirements.txt` hoặc `pyproject.toml` tại thư mục gốc để tránh lỗi khởi tạo runner.
+- **RULE-5.6 [Pstack 5-Block Verification Harness & Script Budget Invariant — ADR 0009, ADR 0044, ADR 0066]**:
+  - Mọi harness kiểm định tại Spoke phải tuân thủ kiến trúc Pstack 5 khối: Clean-Slate Pre-flight, Dual-Mode Lifecycle (`os.setsid` / `CREATE_NEW_PROCESS_GROUP`), Deterministic Health Barrier, Evidence-Capture Suite, và Guaranteed Cleanup kèm per-step timeout $300.0\text{ s}$.
+  - Mã nguồn harness BẮT BUỘC đặt trong `.agents/skills/<skill>/harness/`, nghiêm cấm tạo script phụ trong `scripts/` để bảo vệ ngân sách trần cứng $15/15$ scripts.

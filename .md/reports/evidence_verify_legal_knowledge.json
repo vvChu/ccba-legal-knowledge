@@ -1,24 +1,24 @@
 {
   "schema_version": "1.0",
-  "timestamp": "2026-10-06T06:41:08.116267+00:00",
+  "timestamp": "2026-10-06T13:49:08.785380+00:00",
   "mode": "smoke",
   "bundle": null,
   "overall_status": "PASSED",
   "overall_exit_code": 0,
-  "total_duration_seconds": 22.303,
+  "total_duration_seconds": 21.958,
   "executed_steps": [
     {
       "label": "Spoke Cleanliness Check",
       "command": "/home/vvc/ccba/ccba-legal-knowledge/.venv/bin/python /home/vvc/ccba/ccba-legal-knowledge/scripts/check_spoke_cleanliness.py",
       "exit_code": 0,
-      "duration_seconds": 0.069,
+      "duration_seconds": 0.068,
       "status": "PASSED"
     },
     {
       "label": "Smoke Validation (Skip PDF Vault)",
       "command": "/home/vvc/ccba/ccba-legal-knowledge/.venv/bin/python /home/vvc/ccba/ccba-legal-knowledge/scripts/validate_legal_spoke.py --skip-pdf-vault",
       "exit_code": 0,
-      "duration_seconds": 22.234,
+      "duration_seconds": 21.89,
       "status": "PASSED"
     }
   ],
