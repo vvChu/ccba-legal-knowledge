@@ -165,3 +165,36 @@ jobs:
       - name: Lint Visual Parity & Footnotes (Gate 9)
         run: |
           python scripts/lint_visual_parity.py
+
+  # =========================================================================
+  # Master Aggregator Gate (Satisfies GitHub Branch Protection Ruleset)
+  # =========================================================================
+  legal-knowledge-audit:
+    name: Deterministic Parity & Schema Audit
+    needs:
+      - security-secrets-gate
+      - spoke-cleanliness-gate
+      - skills-governance-gate
+      - verification-harness-gate
+      - master-legal-gates
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify All 5 Parallel Gates Passed
+        run: |
+          echo "=== CCBA CI Matrix Aggregation Status ==="
+          echo "1. Security & Secrets Gate: ${{ needs.security-secrets-gate.result }}"
+          echo "2. Spoke Cleanliness Gate:  ${{ needs.spoke-cleanliness-gate.result }}"
+          echo "3. Skills Governance Gate:  ${{ needs.skills-governance-gate.result }}"
+          echo "4. Verification Harness:    ${{ needs.verification-harness-gate.result }}"
+          echo "5. Master Legal CI Gates:   ${{ needs.master-legal-gates.result }}"
+
+          if [ "${{ needs.security-secrets-gate.result }}" != "success" ] || \
+             [ "${{ needs.spoke-cleanliness-gate.result }}" != "success" ] || \
+             [ "${{ needs.skills-governance-gate.result }}" != "success" ] || \
+             [ "${{ needs.verification-harness-gate.result }}" != "success" ] || \
+             [ "${{ needs.master-legal-gates.result }}" != "success" ]; then
+            echo "❌ [FAILED] One or more parallel CI gates failed!"
+            exit 1
+          fi
+          echo "✅ [SUCCESS] All 5 parallel CI gates completed successfully!"
