@@ -2251,20 +2251,20 @@ standards:
     — Yêu cầu thiết kế, lắp đặt
   bundle_path: legal_docs/03_tcvn/tcvn_13456_2022/
   source_url: https://tcvn.gov.vn
-  sha256: 02c96c3e0f73cb86051b7a5f990c0c0ee55c2aa55b8cdb2eaf535ed2e6699555
+  sha256: 9ac82137e6a83aea3630f054cfc2661bbfb086532fc6a2a82ac6bf98f8903c5c
   pdf_path: legal_docs/03_tcvn/tcvn_13456_2022/sources/tcvn_13456_2022.pdf
-  pdf_sha256: 7e58272f886dd8f3e731c8a7322699a6557998632b8e6e663c73011e13e758a7
+  pdf_sha256: 89018531d7f1b10fe6e4e096567e863d5621ce60751d1b53a9b3e642cb35fd74
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   source_file: legal_docs/03_tcvn/tcvn_13456_2022/sources/tcvn_13456_2022.docx
   source_file_size_kb: 42.9
   source_assets:
     pdf:
-      sha256: 7e58272f886dd8f3e731c8a7322699a6557998632b8e6e663c73011e13e758a7
+      sha256: 89018531d7f1b10fe6e4e096567e863d5621ce60751d1b53a9b3e642cb35fd74
       vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_13456_2022/tcvn_13456_2022.pdf
       status: verified
     docx:
-      sha256: 02c96c3e0f73cb86051b7a5f990c0c0ee55c2aa55b8cdb2eaf535ed2e6699555
+      sha256: 9ac82137e6a83aea3630f054cfc2661bbfb086532fc6a2a82ac6bf98f8903c5c
       vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_13456_2022/tcvn_13456_2022.docx
       status: verified
 - id: tcvn_6379_2024
@@ -2352,7 +2352,7 @@ standards:
   issued_date: '2022-10-01'
   effective_date: '2022-10-01'
   pdf_path: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/sources/tccs_41_2022_tcdbvn.pdf
-  pdf_sha256: b1fdbf758a92c3dd5ae043ece83d9385d58b7aa29204d3a908dc1a80fb0a991e
+  pdf_sha256: 4855817e65d92d0a3a610c256002089f4253ecd72e1469cb57613bcceb8bc9ff
   pdf_status: verified
   legal_basis: []
   replaces: 22TCN 262:2000
@@ -2369,15 +2369,15 @@ standards:
     amended_by: 1365/QĐ-CĐBVN
   bundle_path: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/
   source_file: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/sources/tccs_41_2022_tcdbvn.docx
-  sha256: 2d797eada1985a6f8f325094907e3efa868148af27957673e75b9e24c45ad156
+  sha256: 1f5b70987832048800d83697bc82e3784cc3d6fb2310e1207fa39b588bfd5fd1
   cong_bao_number: Đang cập nhật
   source_assets:
     pdf:
-      sha256: b1fdbf758a92c3dd5ae043ece83d9385d58b7aa29204d3a908dc1a80fb0a991e
+      sha256: 4855817e65d92d0a3a610c256002089f4253ecd72e1469cb57613bcceb8bc9ff
       vault_path: CCBA_Legal_Vault/03_tcvn/tccs_41_2022_tcdbvn/tccs_41_2022_tcdbvn.pdf
       status: verified
     docx:
-      sha256: 2d797eada1985a6f8f325094907e3efa868148af27957673e75b9e24c45ad156
+      sha256: 1f5b70987832048800d83697bc82e3784cc3d6fb2310e1207fa39b588bfd5fd1
       vault_path: CCBA_Legal_Vault/03_tcvn/tccs_41_2022_tcdbvn/tccs_41_2022_tcdbvn.docx
       status: verified
 - id: tccs_39_2022_tcdbvn
