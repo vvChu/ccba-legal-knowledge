@@ -19,7 +19,7 @@ effective_date: '2022-10-01'
 status: active
 pdf_anchor:
   path: ./sources/tccs_41_2022_tcdbvn.pdf
-  sha256: b1fdbf758a92c3dd5ae043ece83d9385d58b7aa29204d3a908dc1a80fb0a991e
+  sha256: 4855817e65d92d0a3a610c256002089f4253ecd72e1469cb57613bcceb8bc9ff
   cong_bao_number: Đang cập nhật
 artifacts:
   tables_dir: ./tables/

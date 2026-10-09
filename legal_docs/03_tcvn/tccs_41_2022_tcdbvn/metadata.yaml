@@ -8,7 +8,7 @@ signer: Tổng cục Đường bộ Việt Nam
 issued_date: '2022-10-01'
 effective_date: '2022-10-01'
 pdf_path: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/sources/tccs_41_2022_tcdbvn.pdf
-pdf_sha256: b1fdbf758a92c3dd5ae043ece83d9385d58b7aa29204d3a908dc1a80fb0a991e
+pdf_sha256: 4855817e65d92d0a3a610c256002089f4253ecd72e1469cb57613bcceb8bc9ff
 pdf_status: verified
 replaces: 22TCN 262:2000
 okf_spec: v2.4 Universal
@@ -24,14 +24,14 @@ relations:
   amended_by: 1365/QĐ-CĐBVN
 bundle_path: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/
 source_file: legal_docs/03_tcvn/tccs_41_2022_tcdbvn/sources/tccs_41_2022_tcdbvn.docx
-sha256: 2d797eada1985a6f8f325094907e3efa868148af27957673e75b9e24c45ad156
+sha256: 1f5b70987832048800d83697bc82e3784cc3d6fb2310e1207fa39b588bfd5fd1
 cong_bao_number: Đang cập nhật
 source_assets:
   pdf:
-    sha256: b1fdbf758a92c3dd5ae043ece83d9385d58b7aa29204d3a908dc1a80fb0a991e
+    sha256: 4855817e65d92d0a3a610c256002089f4253ecd72e1469cb57613bcceb8bc9ff
     vault_path: CCBA_Legal_Vault/03_tcvn/tccs_41_2022_tcdbvn/tccs_41_2022_tcdbvn.pdf
     status: verified
   docx:
-    sha256: 2d797eada1985a6f8f325094907e3efa868148af27957673e75b9e24c45ad156
+    sha256: 1f5b70987832048800d83697bc82e3784cc3d6fb2310e1207fa39b588bfd5fd1
     vault_path: CCBA_Legal_Vault/03_tcvn/tccs_41_2022_tcdbvn/tccs_41_2022_tcdbvn.docx
     status: verified

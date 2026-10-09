@@ -10,7 +10,7 @@ issued_date: '2022-03-01'
 effective_date: '2022-03-01'
 published_date: '2022-03-01'
 pdf_path: legal_docs/03_tcvn/tcvn_13456_2022/sources/tcvn_13456_2022.pdf
-pdf_sha256: 7e58272f886dd8f3e731c8a7322699a6557998632b8e6e663c73011e13e758a7
+pdf_sha256: 89018531d7f1b10fe6e4e096567e863d5621ce60751d1b53a9b3e642cb35fd74
 raw_scan_pdf: legal_docs/03_tcvn/tcvn_13456_2022/sources/tcvn_13456_2022_raw_scan.pdf
 raw_scan_pdf_sha256: 821e7029f9d37e3c88aff301bf1c66a3fa5a7a71adcb0fd2f8fe709617b9b67e
 pdf_status: verified
@@ -27,16 +27,16 @@ schema_uri: https://schemas.ccba.vn/okf/v2.4/schema.json
 extracted_at: '2026-10-03T10:47:31.517814+00:00'
 bundle_path: legal_docs/03_tcvn/tcvn_13456_2022/
 source_url: https://tcvn.gov.vn
-sha256: 02c96c3e0f73cb86051b7a5f990c0c0ee55c2aa55b8cdb2eaf535ed2e6699555
+sha256: 9ac82137e6a83aea3630f054cfc2661bbfb086532fc6a2a82ac6bf98f8903c5c
 cong_bao_number: Đang cập nhật
 source_file: legal_docs/03_tcvn/tcvn_13456_2022/sources/tcvn_13456_2022.docx
 source_file_size_kb: 42.9
 source_assets:
   pdf:
-    sha256: 7e58272f886dd8f3e731c8a7322699a6557998632b8e6e663c73011e13e758a7
+    sha256: 89018531d7f1b10fe6e4e096567e863d5621ce60751d1b53a9b3e642cb35fd74
     vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_13456_2022/tcvn_13456_2022.pdf
     status: verified
   docx:
-    sha256: 02c96c3e0f73cb86051b7a5f990c0c0ee55c2aa55b8cdb2eaf535ed2e6699555
+    sha256: 9ac82137e6a83aea3630f054cfc2661bbfb086532fc6a2a82ac6bf98f8903c5c
     vault_path: CCBA_Legal_Vault/03_tcvn/tcvn_13456_2022/tcvn_13456_2022.docx
     status: verified
