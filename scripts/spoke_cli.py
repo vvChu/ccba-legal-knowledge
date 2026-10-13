@@ -439,6 +439,226 @@ def run_provenance_audit(
     return 0
 
 
+def build_bidirectional_legal_graph(reg_data: dict[str, Any]) -> dict[str, Any]:
+    """Constructs in-memory bidirectional legal knowledge graph with dynamic edge inversion (ADR-0061 / Grok COND-02).
+
+    Preserves Single Source of Truth on disk by dynamically synthesizing reverse edges:
+    - enacted_by <-> enacts
+    - sanctioned_by <-> sanctions
+    - interlocks_with <-> interlocks_with
+    - related_statutes <-> related_statutes
+    - mandatory_codes <-> governs
+    - local_delegations <-> delegated_from
+    - replaces <-> replaced_by
+    """
+    documents: dict[str, dict[str, Any]] = {}
+    canonical_to_doc_id: dict[str, str] = {}
+
+    def _canonical_tokens(val: Any) -> set[str]:
+        if not val:
+            return set()
+        s = str(val).strip().lower().replace("đ", "d")
+        s = re.sub(r"[\s\/\-\.:]+", "_", s)
+        s = re.sub(r"_+", "_", s).strip("_")
+        tokens = {s}
+        for prefix in ("nghi_dinh_", "thong_tu_", "quyet_dinh_", "nghi_quyet_", "luat_"):
+            if s.startswith(prefix):
+                tokens.add(s[len(prefix):])
+        m = re.search(r"(\d+_\d{4}_[a-z0-9_]+)$", s)
+        if m:
+            tokens.add(m.group(1))
+        return tokens
+
+    all_items: list[dict[str, Any]] = []
+    for sec in ["laws", "standards", "decrees"]:
+        items = reg_data.get(sec, [])
+        if isinstance(items, list):
+            all_items.extend(items)
+
+    for item in all_items:
+        if not isinstance(item, dict):
+            continue
+        doc_id = str(item.get("id") or item.get("document_number") or "UNKNOWN")
+        doc_num = str(item.get("document_number", "")).strip()
+        title = str(item.get("title", "")).strip()
+        bundle_p = str(item.get("bundle_path", "")).strip()
+        doc_type = str(item.get("type", "")).strip()
+
+        documents[doc_id] = {
+            "id": doc_id,
+            "document_number": doc_num,
+            "title": title,
+            "type": doc_type,
+            "bundle_path": bundle_p,
+            "forward_relations": {},
+            "reverse_relations": {},
+        }
+
+        for field_val in (doc_id, doc_num):
+            for tok in _canonical_tokens(field_val):
+                canonical_to_doc_id[tok] = doc_id
+        if bundle_p:
+            for tok in _canonical_tokens(Path(bundle_p).name):
+                canonical_to_doc_id[tok] = doc_id
+
+    INVERSE_RELATION_MAP = {
+        "enacted_by": "enacts",
+        "sanctioned_by": "sanctions",
+        "interlocks_with": "interlocks_with",
+        "related_statutes": "related_statutes",
+        "mandatory_codes": "governs",
+        "local_delegations": "delegated_from",
+        "replaces": "replaced_by",
+    }
+
+    for item in all_items:
+        if not isinstance(item, dict):
+            continue
+        src_id = str(item.get("id") or item.get("document_number") or "UNKNOWN")
+        if src_id not in documents:
+            continue
+
+        raw_relations = item.get("relations")
+        if not isinstance(raw_relations, dict):
+            continue
+
+        for rel_key, targets in raw_relations.items():
+            if not targets:
+                continue
+            target_list = [targets] if isinstance(targets, str) else (targets if isinstance(targets, list) else [])
+            resolved_targets: list[str] = []
+
+            for t in target_list:
+                t_str = str(t).strip()
+                if not t_str:
+                    continue
+                matched_id = None
+                for tok in _canonical_tokens(t_str):
+                    if tok in canonical_to_doc_id:
+                        matched_id = canonical_to_doc_id[tok]
+                        break
+                resolved_id = matched_id or t_str
+                resolved_targets.append(resolved_id)
+
+                inv_rel_key = INVERSE_RELATION_MAP.get(rel_key)
+                if inv_rel_key and matched_id and matched_id in documents:
+                    rev_dict = documents[matched_id]["reverse_relations"]
+                    rev_dict.setdefault(inv_rel_key, [])
+                    if src_id not in rev_dict[inv_rel_key]:
+                        rev_dict[inv_rel_key].append(src_id)
+
+            if resolved_targets:
+                documents[src_id]["forward_relations"][rel_key] = resolved_targets
+
+    return {
+        "documents": documents,
+        "canonical_to_doc_id": canonical_to_doc_id,
+        "total_documents": len(documents),
+    }
+
+
+def query_legal_graph(graph: dict[str, Any], query: str) -> dict[str, Any] | None:
+    """Queries legal knowledge graph by doc_id, document number, or slug."""
+    docs = graph.get("documents", {})
+    canon_map = graph.get("canonical_to_doc_id", {})
+
+    q_clean = query.strip()
+    if q_clean in docs:
+        return docs[q_clean]
+
+    s = q_clean.lower().replace("đ", "d")
+    s = re.sub(r"[\s\/\-\.:]+", "_", s)
+    s = re.sub(r"_+", "_", s).strip("_")
+    tokens = {s}
+    for prefix in ("nghi_dinh_", "thong_tu_", "quyet_dinh_", "nghi_quyet_", "luat_"):
+        if s.startswith(prefix):
+            tokens.add(s[len(prefix):])
+    m = re.search(r"(\d+_\d{4}_[a-z0-9_]+)$", s)
+    if m:
+        tokens.add(m.group(1))
+
+    for tok in tokens:
+        if tok in canon_map:
+            doc_id = canon_map[tok]
+            if doc_id in docs:
+                return docs[doc_id]
+
+    return None
+
+
+def print_graph_ecosystem(doc: dict[str, Any], graph: dict[str, Any]) -> None:
+    """Prints a beautiful CLI tree of the document's legal ecosystem."""
+    doc_id = doc.get("id", "UNKNOWN")
+    doc_num = doc.get("document_number", "")
+    title = doc.get("title", "")
+    doc_type = doc.get("type", "")
+    bundle_p = doc.get("bundle_path", "")
+
+    docs = graph.get("documents", {})
+
+    def _get_title(target_id: str) -> str:
+        if target_id in docs:
+            t = docs[target_id].get("title", "")
+            n = docs[target_id].get("document_number", "")
+            return f"{n} ({t[:60]}...)" if len(t) > 60 else f"{n} ({t})"
+        return target_id
+
+    print("\n" + "=" * 80)
+    print("🏛️  HỆ SINH THÁI MẠNG TRI THỨC PHÁP LÝ (LEGAL KNOWLEDGE GRAPH)")
+    print("=" * 80)
+    print(f"  📌 Văn bản: {doc_num} [{doc_id}]")
+    print(f"  🏷️  Loại:    {doc_type}")
+    print(f"  📖 Tiêu đề: {title}")
+    print(f"  📁 Bundle:  {bundle_p}")
+    print("-" * 80)
+
+    fwd = doc.get("forward_relations", {})
+    rev = doc.get("reverse_relations", {})
+
+    RING_LABELS = {
+        "enacted_by": "Vành đai 1 (Khung Thi hành Trực tiếp / Enacted By)",
+        "sanctioned_by": "Vành đai 2 (Chế tài Xử phạt VPHC / Sanctioned By)",
+        "interlocks_with": "Vành đai 3 (Thủ tục Liên thông 1 Cửa / Interlocks With)",
+        "related_statutes": "Vành đai 3 (Pháp luật Chuyên ngành Giao thoa / Related Statutes)",
+        "mandatory_codes": "Vành đai 4 (Quy chuẩn Kỹ thuật Bắt buộc / Mandatory Codes)",
+        "local_delegations": "Vành đai 5 (Phân cấp Địa phương / Local Delegations)",
+        "replaces": "Kế thừa / Thay thế (Replaces)",
+        "amends": "Sửa đổi / Bổ sung (Amends)",
+    }
+
+    REVERSE_LABELS = {
+        "enacts": "Thi hành trực tiếp cho (Enacts)",
+        "sanctions": "Chế tài xử phạt vi phạm của (Sanctions)",
+        "interlocks_with": "Liên thông thủ tục 1 cửa với (Interlocks With)",
+        "related_statutes": "Giao thoa quy định với (Related Statutes)",
+        "governs": "Điều chỉnh quy chuẩn kỹ thuật cho (Governs)",
+        "delegated_from": "Được phân cấp thẩm quyền từ (Delegated From)",
+        "replaced_by": "Được thay thế bởi (Replaced By)",
+    }
+
+    if fwd:
+        print("➡️  QUAN HỆ HƯỚNG TÂM (DIRECT FORWARD RELATIONS):")
+        for rel_k, targets in fwd.items():
+            label = RING_LABELS.get(rel_k, rel_k)
+            print(f"  🔹 {label}:")
+            for t in targets:
+                print(f"     ├── {t} -> {_get_title(t)}")
+    else:
+        print("➡️  QUAN HỆ HƯỚNG TÂM (DIRECT FORWARD RELATIONS): Không có")
+
+    print()
+    if rev:
+        print("🔄 QUAN HỆ SUY DIỄN NGƯỢC (DYNAMIC IN-MEMORY REVERSE RELATIONS):")
+        for rel_k, sources in rev.items():
+            label = REVERSE_LABELS.get(rel_k, rel_k)
+            print(f"  🔸 {label}:")
+            for s in sources:
+                print(f"     └── {s} -> {_get_title(s)}")
+    else:
+        print("🔄 QUAN HỆ SUY DIỄN NGƯỢC (DYNAMIC IN-MEMORY REVERSE RELATIONS): Không có")
+    print("=" * 80 + "\n")
+
+
 def main() -> None:
     """Main CLI entrypoint for Spoke Facade."""
     parser = argparse.ArgumentParser(
@@ -522,10 +742,50 @@ def main() -> None:
         help="Thực hiện attestation hợp chuẩn OKF v2.4 cho 24 văn bản Nhóm A (Clean Passthrough)",
     )
 
+    # Command: graph
+    graph_parser = subparsers.add_parser(
+        "graph",
+        help="Truy vấn đồ thị tri thức pháp lý đa chiều (Dynamic In-Memory Graph Inversion - ADR-0061)",
+    )
+    graph_parser.add_argument(
+        "--doc",
+        type=str,
+        required=True,
+        help="Định danh văn bản (doc_id, số văn bản, hoặc slug thư mục)",
+    )
+    graph_parser.add_argument(
+        "--json",
+        action="store_true",
+        help="Xuất kết quả dưới định dạng JSON",
+    )
+
     args = parser.parse_args()
     root_dir = Path(__file__).resolve().parent.parent
 
-    if args.command == "validate":
+    if args.command == "graph":
+        registry_file = root_dir / "legal_registry.yaml"
+        if not registry_file.exists():
+            print(f"[ERROR] Registry file not found: {registry_file}", file=sys.stderr)
+            sys.exit(1)
+        try:
+            reg_data = yaml.safe_load(registry_file.read_text(encoding="utf-8")) or {}
+        except Exception as exc:
+            print(f"[ERROR] Failed to read registry: {exc}", file=sys.stderr)
+            sys.exit(1)
+
+        graph = build_bidirectional_legal_graph(reg_data)
+        doc = query_legal_graph(graph, args.doc)
+        if not doc:
+            print(f"[NOT FOUND] Không tìm thấy văn bản nào khớp với truy vấn: '{args.doc}'", file=sys.stderr)
+            sys.exit(1)
+
+        if args.json:
+            print(json.dumps(doc, ensure_ascii=False, indent=2))
+        else:
+            print_graph_ecosystem(doc, graph)
+        sys.exit(0)
+
+    elif args.command == "validate":
         validator = LegalSpokeValidator(root_dir, target_bundle=args.bundle)
         success = validator.run_all_checks()
         sys.exit(0 if success else 1)
