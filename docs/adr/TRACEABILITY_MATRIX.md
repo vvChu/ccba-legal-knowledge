@@ -14,7 +14,7 @@
 | [ADR 0004](0004-structured-array-pointer-binding.md) | **Structured Array Pointer Binding Cho Chỉ Số Phụ Đa Tầng Trong Bảng Kỹ Thuật** | ✅ ACCEPTED | *Chưa có liên kết trực tiếp* |
 | [ADR 0005](0005-semantic-legal-uri-scheme.md) | **Semantic Legal URI Scheme & Registry Resolver Cho Viện Dẫn Đa Văn Bản** | ✅ ACCEPTED | *Chưa có liên kết trực tiếp* |
 | [ADR 0006](0006-legal-precedence-conflict-arbitration.md) | **Thứ Bậc Hiệu Lực Pháp Lý & Cơ Chế Phân Xử Xung Đột Trong AI QC Audits** | ✅ ACCEPTED | *Chưa có liên kết trực tiếp* |
-| [ADR 0007](0007-dual-layer-ci-verification-gate.md) | **Dual-Layer CI Verification Gate & Zero-Tolerance Quality Enforcement** | ✅ ACCEPTED | *Chưa có liên kết trực tiếp* |
+| [ADR 0007](0007-dual-layer-ci-verification-gate.md) | **Dual-Layer CI Verification Gate & Zero-Tolerance Quality Enforcement** | ✅ ACCEPTED | `scripts/validate_legal_spoke.py` |
 | [ADR 0008](0008-temporal-query-engine-point-in-time-auditing.md) | **Temporal Legal Query Engine & Point-in-Time Auditing Protocol** | ✅ ACCEPTED | *Chưa có liên kết trực tiếp* |
 | [ADR 0009](0009-ccba-legal-sdk-package-distribution.md) | **Phân Phối Tri Thức Pháp Lý Qua Monorepo Package `ccba-legal-sdk`** | ✅ ACCEPTED | `.agents/skills/ccba-code-review/SKILL.md`<br>`.agents/skills/ccba-create-verification-skill/SKILL.md`<br>`.agents/skills/ccba-verify-legal-knowledge/SKILL.md`<br>`.md/knowledge/session_learnings.md` |
 | [ADR 0010](0010-four-layer-tvpl-vip-crawler-three-tier-fallback.md) | **Cơ Chế Cào TVPL 4 Lớp Tự Động Kết Hợp Đăng Nhập VIP Chrome CDP & Fallback 3 Tầng** | ✅ ACCEPTED | *Chưa có liên kết trực tiếp* |

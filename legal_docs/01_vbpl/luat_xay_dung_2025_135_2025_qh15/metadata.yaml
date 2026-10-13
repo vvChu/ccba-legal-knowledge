@@ -30,6 +30,35 @@ status: active
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Xay-dung-2025-so-135-2025-QH15-675213.aspx
 relations:
   replaces: 50/2014/QH13
+  enacted_by:
+    - 193/2026/NĐ-CP
+    - 206/2026/NĐ-CP
+    - 207/2026/NĐ-CP
+    - 209/2026/NĐ-CP
+    - 210/2026/NĐ-CP
+    - 212/2026/NĐ-CP
+    - 217/2026/NĐ-CP
+  sanctioned_by:
+    - 339/2026/NĐ-CP
+  interlocks_with:
+    - 55/2024/QH15
+    - 105/2025/NĐ-CP
+  related_statutes:
+    - 47/2024/QH15
+    - 22/2023/QH15
+    - 90/2025/QH15
+    - 31/2024/QH15
+    - 27/2023/QH15
+    - 40/2019/QH14
+  mandatory_codes:
+    - QCVN 06:2022/BXD
+    - QCVN 04:2021/BXD
+    - QCVN 18:2021/BXD
+    - QCVN 16:2023/BXD
+    - QCVN 03:2022/BXD
+    - QCVN 01:2021/BXD
+  local_delegations:
+    - 38/2026/QĐ-UBND
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'

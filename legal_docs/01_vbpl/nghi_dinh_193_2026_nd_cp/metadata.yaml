@@ -38,7 +38,9 @@ legal_basis:
 - doc_id: luật_cơ_quan_đại_diện_nước_cộng_hòa_xã_hội_chủ_ngh
   title: Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài
     số 33/2009/QH12 được sửa đổi, bổ sung bởi Luật số 19/2017/QH14
-replaces: []
+replaces: &id001
+- 254/2025/NĐ-CP
+- 99/2021/NĐ-CP
 bundle_path: legal_docs/01_vbpl/nghi_dinh_193_2026_nd_cp/
 cong_bao_number: Đang cập nhật
 source_assets:
@@ -59,6 +61,7 @@ source_assets:
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-193-2026-ND-CP-quyet-toan-von-dau-tu-du-an-709388.aspx
 relations:
   guided_by: Luat-Xay-dung-2025-135-2025-QH15
+  replaces: *id001
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'

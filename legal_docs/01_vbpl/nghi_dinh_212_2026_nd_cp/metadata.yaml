@@ -38,7 +38,8 @@ legal_basis:
   title: Luật Chuyển đổi số số 148/2025/QH15
 - doc_id: luật_bảo_vệ_dữ_liệu_cá_nhân_số_91_2025_qh15
   title: Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15
-replaces: []
+replaces: &id001
+- 111/2024/NĐ-CP
 bundle_path: legal_docs/01_vbpl/nghi_dinh_212_2026_nd_cp/
 cong_bao_number: Đang cập nhật
 source_assets:
@@ -59,6 +60,7 @@ source_assets:
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-212-2026-ND-CP-dieu-kien-nang-luc-hoat-dong-xay-dung-697287.aspx
 relations:
   guided_by: Luat-Xay-dung-2025-135-2025-QH15
+  replaces: *id001
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'

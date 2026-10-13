@@ -15,7 +15,8 @@ legal_basis:
   title: Luật Tổ chức Chính phủ số 63/2025/QH15
 - doc_id: Luat-Xay-dung-2025-135-2025-QH15
   title: Luật Xây dựng số 135/2025/QH15
-replaces: []
+replaces: &id001
+- 09/2021/NĐ-CP
 bundle_path: legal_docs/01_vbpl/nghi_dinh_209_2026_nd_cp/
 cong_bao_number: Đang cập nhật
 source_assets:
@@ -36,6 +37,7 @@ source_assets:
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-209-2026-ND-CP-quan-ly-vat-lieu-xay-dung-288496.aspx
 relations:
   guided_by: Luat-Xay-dung-2025-135-2025-QH15
+  replaces: *id001
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'

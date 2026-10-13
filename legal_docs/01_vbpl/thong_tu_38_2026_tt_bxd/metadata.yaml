@@ -19,7 +19,7 @@ legal_basis:
 - doc_id: nghị_định_số_206_2026_nđ_cp_của_chính_phủ_quy_định
   title: Nghị định số 206/2026/NĐ-CP của Chính phủ quy định chi tiết về quản lý chi
     phí đầu tư xây dựng
-replaces:
+replaces: &id001
 - 12/2021/TT-BXD
 - 09/2024/TT-BXD
 - 08/2025/TT-BXD
@@ -34,13 +34,11 @@ source_assets:
 source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-38-2026-TT-BXD-he-thong-dinh-muc-xay-dung-quoc-gia-712406.aspx
 relations:
   guided_by: nghi_dinh_206_2026_nd_cp
-  replaces:
-  - 12/2021/TT-BXD
-  - 09/2024/TT-BXD
-  - 08/2025/TT-BXD
-  - 60/2025/TT-BXD
+  replaces: *id001
 okf_spec: v2.4 Universal
 converter_version: 0.4.0
 extracted_at: '2026-09-05T01:30:13.506554+00:00'
 verification_scope:
-  normative_body_pages: [1, 2]
+  normative_body_pages:
+  - 1
+  - 2

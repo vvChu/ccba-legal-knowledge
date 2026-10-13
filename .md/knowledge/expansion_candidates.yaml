@@ -555,17 +555,17 @@ candidates:
   tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-7114-1-2008-Ecgonomi-Chieu-sang-noi-lam-viec-Phan-1-Trong-nha-901412.aspx
   base_impact_score: 8.5
   tier_override: 3
-- id: TCVN-7161-1-2009
-  document_number: TCVN 7161-1:2009
+- id: tcvn_7161_1_2022
+  document_number: TCVN 7161-1:2022
   title: 'Hệ thống chữa cháy bằng khí — Tính chất vật lý và thiết kế hệ thống — Phần
     1: Yêu cầu chung'
   category: 03_tcvn
   discipline: PCCC Khí
   issued_by: Bộ Khoa học và Công nghệ
-  effective_date: '2009-12-31'
-  replaces: ''
-  search_query: TCVN 7161-1:2009
-  tvpl_url: https://thuvienphapluat.vn/TCVN/PCCC/TCVN-7161-1-2009-He-thong-chua-chay-bang-khi-901512.aspx
+  effective_date: '2022-12-28'
+  replaces: 'TCVN 7161-1:2009'
+  search_query: TCVN 7161-1:2022
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Tai-nguyen-Moi-truong/TCVN-7161-1-2022-ISO-14520-1-2015-He-thong-chua-chay-bang-khi-Phan-1-919849.aspx
   base_impact_score: 8.4
   tier_override: 3
 - id: QCVN-26-27-2025-BNNMT
@@ -631,18 +631,16 @@ candidates:
   tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-9377-1-2012-Cong-tac-hoan-thien-trong-xay-dung-Thi-cong-va-nghiem-thu-Phan-1-907651.aspx
   base_impact_score: 7.5
   tier_override: 4
-- id: TCVN-ISO-19650-3-2024
-  document_number: TCVN ISO 19650-3:2024
-  title: 'Tổ chức và số hóa thông tin về công trình xây dựng (BIM) — Quản lý thông
-    tin bằng BIM: Phần 3 (Giai đoạn vận hành tài sản) và Phần 5 (Phương pháp tiếp
-    cận an ninh)'
+- id: TCVN-14176-2-2024
+  document_number: TCVN 14176-2:2024
+  title: 'Công trình xây dựng - Tổ chức thông tin về công trình xây dựng - Phần 2: Khung phân loại'
   category: 03_tcvn
   discipline: Quản trị BIM
   issued_by: Bộ Khoa học và Công nghệ
-  effective_date: '2024-12-31'
+  effective_date: '2024-05-15'
   replaces: ''
-  search_query: TCVN ISO 19650-3:2024
-  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-14177-3-2024-To-chuc-va-so-hoa-thong-tin-ve-cong-trinh-xay-dung-Phan-3-921453.aspx
+  search_query: TCVN 14176-2:2024
+  tvpl_url: https://thuvienphapluat.vn/TCVN/Xay-dung/TCVN-14176-2-2024-Cong-trinh-xay-dung-To-chuc-thong-tin-Phan-2-Khung-phan-loai-921457.aspx
   base_impact_score: 7.4
   tier_override: 4
 - id: ND-349-2026-ND-CP

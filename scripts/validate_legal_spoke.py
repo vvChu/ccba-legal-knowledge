@@ -446,6 +446,9 @@ class LegalSpokeValidator:
         # Sub-Gate 5.3: Legal Validity & In-Force Verification Gate (RULE-3.1 & ADR 0059)
         self._validate_legal_validity_and_in_force()
 
+        # Sub-Gate 5.4: Semantic Relations Referential Integrity Gate (ADR 0007 & ADR 0059)
+        self._validate_semantic_relations_integrity()
+
         return (len(self.errors), len(self.warnings))
 
     def _validate_dual_pdf_archive_invariant(self) -> None:
@@ -709,6 +712,102 @@ class LegalSpokeValidator:
                         self.warnings.append(
                             f"Metadata Parse Warning [{doc_id}]: Failed to read bundle metadata.yaml: {exc}"
                         )
+
+    def _validate_semantic_relations_integrity(self) -> None:
+        """Sub-Gate 5.4: Semantic Relations Referential Integrity Gate (ADR 0007, ADR 0059).
+
+        Verifies that:
+        1. All referenced targets in extended semantic relation fields
+           ('enacted_by', 'sanctioned_by', 'interlocks_with', 'related_statutes', 'mandatory_codes')
+           exist and resolve to a valid registered document in legal_registry.yaml.
+        2. Applies to both legal_registry.yaml and bundle metadata.yaml.
+        3. Rejects dangling references, invalid document numbers, or unregistered slugs.
+        """
+        try:
+            with open(self.registry_file, "r", encoding="utf-8") as f:
+                data = yaml.safe_load(f) or {}
+        except Exception as exc:
+            self.errors.append(f"Sub-Gate 5.4 Error: Failed to load registry: {exc}")
+            return
+
+        all_items: List[Dict[str, Any]] = []
+        for sec in ["laws", "standards", "decrees"]:
+            items = data.get(sec, [])
+            if isinstance(items, list):
+                all_items.extend(items)
+
+        # Build registered canonical keys set
+        registered_canonical_keys: Set[str] = set()
+        for item in all_items:
+            if not isinstance(item, dict):
+                continue
+            for field in ("id", "document_number"):
+                val = item.get(field)
+                if val:
+                    registered_canonical_keys.update(self._canonical_keys(val))
+            bundle_p = item.get("bundle_path")
+            if bundle_p:
+                registered_canonical_keys.update(self._canonical_keys(Path(bundle_p).name))
+
+        semantic_relation_keys = [
+            "enacted_by",
+            "sanctioned_by",
+            "interlocks_with",
+            "related_statutes",
+            "mandatory_codes",
+            "local_delegations",
+        ]
+
+        def _check_relations(rels: Any, source_label: str) -> None:
+            if not isinstance(rels, dict):
+                return
+            for rel_key in semantic_relation_keys:
+                targets = rels.get(rel_key)
+                if not targets:
+                    continue
+                if isinstance(targets, str):
+                    target_list = [targets]
+                elif isinstance(targets, list):
+                    target_list = targets
+                else:
+                    self.errors.append(
+                        f"Semantic Relations Integrity Error [{source_label}]: Relation '{rel_key}' must be a string or list of strings."
+                    )
+                    continue
+
+                for target in target_list:
+                    if not target or not str(target).strip():
+                        continue
+                    t_str = str(target).strip()
+                    target_tokens = self._canonical_keys(t_str)
+                    if not (target_tokens & registered_canonical_keys):
+                        self.errors.append(
+                            f"Semantic Relations Integrity Error [{source_label}]: Relation '{rel_key}' points to unregistered target '{t_str}'."
+                        )
+
+        for item in all_items:
+            if not isinstance(item, dict):
+                continue
+            doc_id = item.get("id", "UNKNOWN")
+            doc_num = item.get("document_number", "")
+            bundle_p = item.get("bundle_path", "")
+
+            if self.target_bundle and doc_id != self.target_bundle and self.target_bundle not in bundle_p and doc_num != self.target_bundle:
+                continue
+
+            # 1. Check registry relations
+            _check_relations(item.get("relations"), f"registry:{doc_id}")
+
+            # 2. Check bundle metadata relations
+            if bundle_p:
+                bundle_dir = self.root_dir / bundle_p.strip("/")
+                meta_file = bundle_dir / "metadata.yaml"
+                if meta_file.exists():
+                    try:
+                        b_meta = yaml.safe_load(meta_file.read_text(encoding="utf-8")) or {}
+                        _check_relations(b_meta.get("relations"), f"bundle:{Path(bundle_p).name}")
+                    except Exception:
+                        pass
 
     def _validate_registry_pdf_meta(self, data: Dict[str, Any]) -> None:
         """Validate PDF fields in legal_registry.yaml."""
@@ -1193,7 +1292,7 @@ class LegalSpokeValidator:
                     r"\upsilon": "υ", r"\phi": "φ", r"\varphi": "φ", r"\chi": "χ",
                     r"\psi": "ψ", r"\omega": "ω", r"\dots": "...", r"\cdot": "·",
                 }
-                text = text.lower()
+                text = unicodedata.normalize("NFC", text).lower()
                 for k, v in greek_map.items():
                     text = text.replace(k, v)
                 text = re.sub(r"\(#[^)]+\)", " ", text)

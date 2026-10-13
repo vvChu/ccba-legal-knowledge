@@ -133,6 +133,35 @@ laws:
   status: active
   relations:
     replaces: 50/2014/QH13
+    enacted_by:
+    - 193/2026/NĐ-CP
+    - 206/2026/NĐ-CP
+    - 207/2026/NĐ-CP
+    - 209/2026/NĐ-CP
+    - 210/2026/NĐ-CP
+    - 212/2026/NĐ-CP
+    - 217/2026/NĐ-CP
+    sanctioned_by:
+    - 339/2026/NĐ-CP
+    interlocks_with:
+    - 55/2024/QH15
+    - 105/2025/NĐ-CP
+    related_statutes:
+    - 47/2024/QH15
+    - 22/2023/QH15
+    - 90/2025/QH15
+    - 31/2024/QH15
+    - 27/2023/QH15
+    - 40/2019/QH14
+    mandatory_codes:
+    - QCVN 06:2022/BXD
+    - QCVN 04:2021/BXD
+    - QCVN 18:2021/BXD
+    - QCVN 16:2023/BXD
+    - QCVN 03:2022/BXD
+    - QCVN 01:2021/BXD
+    local_delegations:
+    - 38/2026/QĐ-UBND
   title: Luật Xây dựng 2025 (Số 135/2025/QH15)
   bundle_path: legal_docs/01_vbpl/luat_xay_dung_2025_135_2025_qh15/
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Luat-Xay-dung-2025-so-135-2025-QH15-675213.aspx
@@ -344,6 +373,8 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-212-2026-ND-CP-dieu-kien-nang-luc-hoat-dong-xay-dung-697287.aspx
   relations:
     guided_by: Luat-Xay-dung-2025-135-2025-QH15
+    replaces:
+    - 111/2024/NĐ-CP
   pdf_path: legal_docs/01_vbpl/nghi_dinh_212_2026_nd_cp/sources/nghi_dinh_212_2026_nd_cp.pdf
   pdf_sha256: c2449b8bf63ec3e7ce6ea095091f979ffbc90509eecd32bd0c26e46950513def
   cong_bao_number: Đang cập nhật
@@ -413,17 +444,24 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-210-2026-ND-CP-hop-dong-xay-dung-696691.aspx
   relations:
     guided_by: Luat-Xay-dung-2025-135-2025-QH15
+    replaces:
+    - 37/2015/NĐ-CP
+    - 50/2021/NĐ-CP
   pdf_path: legal_docs/01_vbpl/nghi_dinh_210_2026_nd_cp/sources/nghi_dinh_210_2026_nd_cp.pdf
   pdf_sha256: 5668eef549d08dcb1955c209581bfda0092029d4657bef95e51b85959485b3d9
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: 2c139a748e8b5f602ca8bb840bfe2073b85d9a85bcd989daec310e9bc3006c58
-  source_file: .md/extracted_docs/nghi_dinh_210_2026_nd_cp/210_2026_ND-CP_696691.docx
+  source_file: legal_docs/01_vbpl/nghi_dinh_210_2026_nd_cp/sources/nghi_dinh_210_2026_nd_cp.pdf
   source_file_size_kb: 168.3
   source_assets:
     pdf:
-      sha256: b60801b38a87cd6dfe0a3f680999aa1f7ca3d48306f86825c9e2765ff993d598
+      sha256: 5668eef549d08dcb1955c209581bfda0092029d4657bef95e51b85959485b3d9
       vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_210_2026_nd_cp/nghi_dinh_210_2026_nd_cp.pdf
+      status: verified
+    raw_scan:
+      sha256: b60801b38a87cd6dfe0a3f680999aa1f7ca3d48306f86825c9e2765ff993d598
+      vault_path: CCBA_Legal_Vault/01_vbpl/nghi_dinh_210_2026_nd_cp/nghi_dinh_210_2026_nd_cp_raw_scan.pdf
       status: verified
   pdf_origin: docx_vector_rendered
   raw_scan_pdf: legal_docs/01_vbpl/nghi_dinh_210_2026_nd_cp/sources/nghi_dinh_210_2026_nd_cp_raw_scan.pdf
@@ -439,12 +477,14 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-209-2026-ND-CP-quan-ly-vat-lieu-xay-dung-288496.aspx
   relations:
     guided_by: Luat-Xay-dung-2025-135-2025-QH15
+    replaces:
+    - 09/2021/NĐ-CP
   pdf_path: legal_docs/01_vbpl/nghi_dinh_209_2026_nd_cp/sources/nghi_dinh_209_2026_nd_cp.pdf
   pdf_sha256: d2d6bbc450291b8b55c825cbd6affbd349b5ebbd5047d13ae3ebfcf7f0e01150
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: 74f4fed557698e6b50dbf8e1f4a5ccfe5bbed81ae6d1a229ad20dcbd8bb1fbf9
-  source_file: .md/extracted_docs/nghi_dinh_209_2026_nd_cp/209_2026_ND-CP_288496.docx
+  source_file: legal_docs/01_vbpl/nghi_dinh_209_2026_nd_cp/sources/nghi_dinh_209_2026_nd_cp.docx
   source_file_size_kb: 12.8
   source_assets:
     pdf:
@@ -469,12 +509,15 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Nghi-dinh-193-2026-ND-CP-quyet-toan-von-dau-tu-du-an-709388.aspx
   relations:
     guided_by: Luat-Xay-dung-2025-135-2025-QH15
+    replaces:
+    - 254/2025/NĐ-CP
+    - 99/2021/NĐ-CP
   pdf_path: legal_docs/01_vbpl/nghi_dinh_193_2026_nd_cp/sources/nghi_dinh_193_2026_nd_cp.pdf
   pdf_sha256: 66c91e4659f294ca57654e398b6cb158fb7c55d2cd140b7019a341d8e02c9c65
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: ba2ec573a1bf2c6dde69e537c3773b534cafc89bf65a2a892c22978f2a792a7f
-  source_file: .md/extracted_docs/nghi_dinh_193_2026_nd_cp/193_2026_ND-CP_709388.docx
+  source_file: legal_docs/01_vbpl/nghi_dinh_193_2026_nd_cp/sources/nghi_dinh_193_2026_nd_cp.docx
   source_file_size_kb: 61.6
   source_assets:
     pdf:
@@ -563,12 +606,14 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Thong-tu-101-2026-TT-BQP-quy-dinh-chi-tiet-linh-vuc-quoc-phong-713990.aspx
   relations:
     guided_by: Luat-Xay-dung-2025-135-2025-QH15
+    replaces:
+    - 106/2021/TT-BQP
   pdf_path: legal_docs/01_vbpl/thong_tu_101_2026_tt_bqp/sources/thong_tu_101_2026_tt_bqp.pdf
   pdf_sha256: 8512ccb3393c2d1f833a7de251ac46a9847a0d0da154a33004210651def327d7
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: 9441a49babe0e68a1b367b909ec4880ffff635ff3f559dd8c44acd78dee4c696
-  source_file: .md/extracted_docs/thong_tu_101_2026_tt_bqp/101_2026_TT-BQP_713990.docx
+  source_file: legal_docs/01_vbpl/thong_tu_101_2026_tt_bqp/sources/thong_tu_101_2026_tt_bqp.docx
   source_file_size_kb: 16.1
   source_assets:
     pdf:
@@ -592,12 +637,14 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-32-2026-TT-BXD-quy-dinh-chi-tiet-Nghi-dinh-207-2026-ND-CP-711676.aspx
   relations:
     guided_by: nghi_dinh_207_2026_nd_cp
+    replaces:
+    - 10/2021/TT-BXD
   pdf_path: legal_docs/01_vbpl/thong_tu_32_2026_tt_bxd/sources/thong_tu_32_2026_tt_bxd.pdf
   pdf_sha256: ea27c3c8030538e7c0c025b8fd29884f938c3b2cb95ab8182b5a58b420ab2790
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: 7018dc703ad772c27e2ea6b45134a05ebd535ca0b213aeb59c82458b7c45eea3
-  source_file: .md/extracted_docs/thong_tu_32_2026_tt_bxd/32_2026_TT-BXD_711676.docx
+  source_file: legal_docs/01_vbpl/thong_tu_32_2026_tt_bxd/sources/thong_tu_32_2026_tt_bxd.docx
   source_file_size_kb: 10.9
   source_assets:
     pdf:
@@ -621,12 +668,14 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-33-2026-TT-BXD-danh-gia-an-toan-cong-trinh-712404.aspx
   relations:
     guided_by: nghi_dinh_207_2026_nd_cp
+    replaces:
+    - 14/2024/TT-BXD
   pdf_path: legal_docs/01_vbpl/thong_tu_33_2026_tt_bxd/sources/thong_tu_33_2026_tt_bxd.pdf
   pdf_sha256: 73b9b92da82b5a2ca53f7c0b53936fdd35eec0fd40b24a44d00179fe1ff62399
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: 896e1a48420615bda54f42594d96d714aad93171731d1ad6162bd05316f5b56a
-  source_file: .md/extracted_docs/thong_tu_33_2026_tt_bxd/33_2026_TT-BXD_712404.docx
+  source_file: legal_docs/01_vbpl/thong_tu_33_2026_tt_bxd/sources/thong_tu_33_2026_tt_bxd.docx
   source_file_size_kb: 11.0
   source_assets:
     pdf:
@@ -650,12 +699,15 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-34-2026-TT-BXD-quy-dinh-chi-tiet-cap-cong-trinh-712306.aspx
   relations:
     guided_by: nghi_dinh_207_2026_nd_cp
+    replaces:
+    - 06/2021/TT-BXD
+    - 02/2025/TT-BXD
   pdf_path: legal_docs/01_vbpl/thong_tu_34_2026_tt_bxd/sources/thong_tu_34_2026_tt_bxd.pdf
   pdf_sha256: b65419b559da67420d9b6b0681ddfa695c29ad8b3ae270ed70b2a545f6a17aae
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: 3014ad697dc2e5680dfa12a2f6814fe5c43aa2d8bec259d66bbe1e17c3319898
-  source_file: .md/extracted_docs/thong_tu_34_2026_tt_bxd/34_2026_TT-BXD_712306.docx
+  source_file: legal_docs/01_vbpl/thong_tu_34_2026_tt_bxd/sources/thong_tu_34_2026_tt_bxd.docx
   source_file_size_kb: 81.3
   source_assets:
     pdf:
@@ -679,12 +731,16 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-36-2026-TT-BXD-quan-ly-chi-phi-dau-tu-xay-dung-712408.aspx
   relations:
     guided_by: nghi_dinh_206_2026_nd_cp
+    replaces:
+    - 11/2021/TT-BXD
+    - 14/2023/TT-BXD
+    - 60/2025/TT-BXD
   pdf_path: legal_docs/01_vbpl/thong_tu_36_2026_tt_bxd/sources/thong_tu_36_2026_tt_bxd.pdf
   pdf_sha256: 6ef24aa5112ab267fbad9c66f5b17fbc7c8b7c9015ae370f71864d327febd20c
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: 74b13d4f32b362d76f37ed0840c375e4b60356256f9617c4c1eb6d109ed921cb
-  source_file: .md/extracted_docs/thong_tu_36_2026_tt_bxd/36_2026_TT-BXD_712408.docx
+  source_file: legal_docs/01_vbpl/thong_tu_36_2026_tt_bxd/sources/thong_tu_36_2026_tt_bxd.docx
   source_file_size_kb: 272.3
   source_assets:
     pdf:
@@ -708,12 +764,17 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-37-2026-TT-BXD-phuong-phap-xac-dinh-dinh-muc-du-toan-712395.aspx
   relations:
     guided_by: nghi_dinh_206_2026_nd_cp
+    replaces:
+    - 13/2021/TT-BXD
+    - 01/2025/TT-BXD
+    - 09/2025/TT-BXD
+    - 60/2025/TT-BXD
   pdf_path: legal_docs/01_vbpl/thong_tu_37_2026_tt_bxd/sources/thong_tu_37_2026_tt_bxd.pdf
   pdf_sha256: beb581cec6b66d74a774c69b8d4d744710f641a9d59a25a82cfce1487e04bd3f
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: cecf0ee916dc85ccb992320aec6d01b2bb8cddf65d11878ae2d03433db61602e
-  source_file: .md/extracted_docs/thong_tu_37_2026_tt_bxd/37_2026_TT-BXD_712395.docx
+  source_file: legal_docs/01_vbpl/thong_tu_37_2026_tt_bxd/sources/thong_tu_37_2026_tt_bxd.docx
   source_file_size_kb: 463.6
   source_assets:
     pdf:
@@ -746,7 +807,7 @@ laws:
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: 740100c47f28c4eaffbd5ddfd8e433f3e6077383e58fdc6f7df3562abbd64e8b
-  source_file: .md/extracted_docs/thong_tu_38_2026_tt_bxd/38_2026_TT-BXD_712406.docx
+  source_file: legal_docs/01_vbpl/thong_tu_38_2026_tt_bxd/sources/thong_tu_38_2026_tt_bxd.pdf
   source_file_size_kb: 4269.0
   source_assets:
     pdf:
@@ -766,12 +827,14 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-39-2026-TT-BXD-co-so-du-lieu-quoc-gia-hoat-dong-xay-dung-712407.aspx
   relations:
     guided_by: nghi_dinh_212_2026_nd_cp
+    replaces:
+    - 24/2025/TT-BXD
   pdf_path: legal_docs/01_vbpl/thong_tu_39_2026_tt_bxd/sources/thong_tu_39_2026_tt_bxd.pdf
   pdf_sha256: fcbd63740d9d284018c986e44ffea60ec9836120e0cad0d595e54b78dd660396
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: e420c654c40537020f05b0c42c7db9d732ca9afd7d9631281831ddab70157e6d
-  source_file: .md/extracted_docs/thong_tu_39_2026_tt_bxd/39_2026_TT-BXD_712407.docx
+  source_file: legal_docs/01_vbpl/thong_tu_39_2026_tt_bxd/sources/thong_tu_39_2026_tt_bxd.docx
   source_file_size_kb: 137.1
   source_assets:
     pdf:
@@ -795,12 +858,14 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-40-2026-TT-BXD-chi-phi-bao-tri-cong-trinh-712405.aspx
   relations:
     guided_by: nghi_dinh_207_2026_nd_cp
+    replaces:
+    - 14/2021/TT-BXD
   pdf_path: legal_docs/01_vbpl/thong_tu_40_2026_tt_bxd/sources/thong_tu_40_2026_tt_bxd.pdf
   pdf_sha256: 5f0cceab8d62dae9d46bb333eeb3ea227129e029d1bbf971304714ee62702fcf
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: dc57b9780dd91b69e3a97e6c3ec9c08eedb0a03d83cad3ed87bb9a0a7a157f4b
-  source_file: .md/extracted_docs/thong_tu_40_2026_tt_bxd/40_2026_TT-BXD_712405.docx
+  source_file: legal_docs/01_vbpl/thong_tu_40_2026_tt_bxd/sources/thong_tu_40_2026_tt_bxd.docx
   source_file_size_kb: 51.3
   source_assets:
     pdf:
@@ -824,12 +889,14 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Xay-dung-Do-thi/Thong-tu-41-2026-TT-BXD-quan-ly-chat-luong-san-pham-hang-hoa-697288.aspx
   relations:
     guided_by: nghi_dinh_209_2026_nd_cp
+    replaces:
+    - 10/2024/TT-BXD
   pdf_path: legal_docs/01_vbpl/thong_tu_41_2026_tt_bxd/sources/thong_tu_41_2026_tt_bxd.pdf
   pdf_sha256: 5fd3c24a5062d11526ba966c6a7e8933f389bb5df7cb26a26cbac34a6a85ff30
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: 7af269157755b7ade2d1b66483d5910dcea895d66b797c5289e6bfab19aa2293
-  source_file: .md/extracted_docs/thong_tu_41_2026_tt_bxd/41_2026_TT-BXD_697288.docx
+  source_file: legal_docs/01_vbpl/thong_tu_41_2026_tt_bxd/sources/thong_tu_41_2026_tt_bxd.docx
   source_file_size_kb: 28.8
   source_assets:
     pdf:
@@ -853,12 +920,15 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-73-2026-TT-BTC-mau-bieu-quyet-toan-von-dau-tu-712590.aspx
   relations:
     guided_by: nghi_dinh_193_2026_nd_cp
+    replaces:
+    - 27/2025/TT-BTC
+    - 91/2025/TT-BTC
   pdf_path: legal_docs/01_vbpl/thong_tu_73_2026_tt_btc/sources/thong_tu_73_2026_tt_btc.pdf
   pdf_sha256: cfe773380ebcf65f10760a5c5264d441c47f571c011682e087e8025e36fd0ab1
   cong_bao_number: Đang cập nhật
   pdf_status: verified
   sha256: 8719779f5289e0a83f6ead96d8ad9c3b507c5c481bd5d0da743de69e5356184b
-  source_file: .md/extracted_docs/thong_tu_73_2026_tt_btc/73_2026_TT-BTC_712590.docx
+  source_file: legal_docs/01_vbpl/thong_tu_73_2026_tt_btc/sources/thong_tu_73_2026_tt_btc.docx
   source_file_size_kb: 50.1
   source_assets:
     pdf:
@@ -888,6 +958,8 @@ laws:
   source_url: https://thuvienphapluat.vn/van-ban/Tai-chinh-nha-nuoc/Thong-tu-79-2026-TT-BTC-thu-chi-chu-dau-tu-ban-qlda-713348.aspx
   relations:
     guided_by: nghi_dinh_193_2026_nd_cp
+    replaces:
+    - 70/2024/TT-BTC
   pdf_path: legal_docs/01_vbpl/thong_tu_79_2026_tt_btc/sources/thong_tu_79_2026_tt_btc.pdf
   pdf_sha256: 284e2f3c62a0a42babc4853f69c554fb894e7c8b89c3006d1d80e6947b709daf
   cong_bao_number: Đang cập nhật
